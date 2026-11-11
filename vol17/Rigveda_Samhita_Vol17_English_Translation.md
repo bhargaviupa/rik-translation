@@ -8742,6 +8742,251 @@ They recite repeatedly this gratifying praise to the great product of sacrifice 
 
 महे विदथ्याय प्र जभ्रुः (*mahe vidathyāya pra jabhruḥ*)—Sāyaṇa has explained two kinds of meaning: महते यज्ञॆ मंथनेन निष्पाद्यमानाय सर्वैः स्तुत्याय अग्नये । (*mahate yajñè maṃthanena niṣpādyamānāya sarvaiḥ stutyāya agnaye |*); and महदादिगुणविशिष्टाय यजमानाय (*mahadādiguṇaviśiṣṭāya yajamānāya*). The first meaning indicates the greatness of Agni. The word vidatha is read by Yāska (Ni. 3-19) among the names of sacrifice. From this the meaning is explained thus: Agni, being produced in the sacrificial rite in his own abode by being churned from the araṇis, is praised by all, and for this Agni the officiants recite hymns many times. In the second meaning, in accordance with the sentence of the Aitareya Brāhmaṇa “शश्वत्पृत्व ईड्याय प्रजभ्रुरिति स्थानामेवैनं तच्छैष्यं गमयति । (*śaśvatpṛtva īḍyāya prajabhruriti sthānāmevainaṃ tacchaiṣyaṃ gamayati |*)” (Ai. Brā. 1-28)**NOTE**, it is explained that the officiants have praised Agni many times for the sacrificer, who is endowed with qualities such as worthiness of honour. For a detailed explanation of this, see Ṛ. Saṃ. part 14, page 53
 
+### Printed p. 236
+
+The meaning of the word ईड्याय (*īḍyāya*) is explained in a way that relates it to both Agni and the sacrificer.
+
+शूषं-सुखकरं । (*śūṣaṃ-sukhakaraṃ |*) The word शूष (*śūṣa*) is listed (Ni. 3-13) among the names of happiness. Here it is used in the sense "bringing happiness".
+
+दम्येभिः—परेषां दमनकुशलैः । गृहे विद्यमानैर्वा । (*damyebhiḥ—pareṣāṃ damanakuśalaiḥ | gṛhe vidyamānairvā |*) The word दम (*dama*) is read (Ni. 4-4) among the names of the house. Here the word is used as an adjective of a word that denotes brilliance (tejas). Two meanings are therefore explained: the brilliances of Agni are capable of subduing enemies, or they shine on the altar of the sacrificial hall.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि महे दिवे अर्चा पृथिव्यै कामो म इच्छज्जरति  
+> प्रजानन् ।  
+> ययो॑र्ह॒ स्तोमे॑ वि॒दथे॑षु दे॒वाः स॑प॒र्यवो॑ मा॒दयं॑ते॒ सचा॒योः ॥ २ ॥
+
+> *mahi mahe dive arcā pṛthivyai kāmo ma icchajjarati*  
+> *prajānan |*  
+> *yayorha stome vidatheṣu devāḥ saparyavo mādayaṃte sacāyoḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । महे । दिवे । अर्च । पृथिव्यै । कामः । मे । इच्छन् । चरति । प्रजानन् ।  
+> ययोः । ह । स्तोमे । विदथेषु । देवाः । सपर्यवः । मादयंते । सचा ।  
+> आयोः ॥ २ ॥
+
+> *mahi | mahe | dive | arca | pṛthivyai | kāmaḥ | me | icchan | carati | prajānan |*  
+> *yayoḥ | ha | stome | vidatheṣu | devāḥ | saparyavaḥ | mādayaṃte | sacā |*  
+> *āyoḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतर्महे महत्यै दिने द्युलोकदेवताय्कॆ महत्यै पृथिव्यै च महि
+> महत् त्वं प्रजानन् स्तोत्रमर्च । कुरु । मे मम कामो मनोरथः सर्वान्
+> भोगानिच्छन् चरति । सर्वत्र वर्तते । आयोर्मनुष्यस्य विदथेषु यज्ञेषु
+> ययोर्दानापृथिव्योः स्तोमे स्तोत्रे सपर्यवः पूजाकामा देवाः स्तोतारो
+> वा सचा मादयंते ह सह माद्यंति खलु ॥ पृथिव्यै । उदात्तयण इति विभक्तेरुदात्तत्वं । सपर्यवः । सपर्यामिच्छतीत्यर्थे सुपः क्यच् ॥
+
+##### Gist of the bhāṣya
+
+"O worshipper, to the great (महे (*mahe*)) day, that is, to the deity of the heavenly world, and to the great earth, offer praise (अर्च (*arca*)), knowing (प्रजानन् (*prajānan*)) their greatness (महि (*mahi*))." My desire (कामः (*kāmaḥ*)), wishing for all enjoyments, ranges (चरति (*carati*)) everywhere. In the sacrifices (विदथेषु (*vidatheṣu*)) of the man (आयोः (*āyoḥ*)), in the praise (स्तोमे (*stome*)) of those two, heaven and earth, the gods (देवाः (*devāḥ*)), desirous of worship (सपर्यवः (*saparyavaḥ*)), or else the worshippers, rejoice (मादयंते (*mādayaṃte*)) together (सचा (*sacā*)); they do indeed rejoice together.
+
+### Printed p. 237
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—(O worshipper,) to the one of great nature
+- दिवे (*dive*)—to the presiding deity of heaven
+- पृथिव्यै (*pṛthivyai*)—also to the presiding deity of the earth
+- महि (*mahi*)—(their) greatness
+- प्रजानन् (*prajānan*)—having known
+- अर्च (*arca*)—offer worship
+- मे (*me*)—my
+- कामः (*kāmaḥ*)—desire
+- इच्छन् (*icchan*)—wishing for all enjoyments
+- चरति (*carati*)—moves about everywhere
+- आयोः (*āyoḥ*)—of the man
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- ययोः (*yayoḥ*)—of which same heaven and earth
+- स्तोमे (*stome*)—at the time of praise
+- सपरवः (*saparavaḥ*)—desirous of worship
+- देवाः (*devāḥ*)—the worshippers (or the gods)
+- सचा (*sacā*)—gathering together
+- मादयंते (*mādayaṃte*)—rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipper, knowing the greatness of the heavenly deity of great nature and of the earth deity, offer worship to them. At the time of praising these heaven and earth, the worshippers who desire to worship gather together and rejoice. My desire too moves everywhere, wishing for all enjoyments.
+
+##### English translation (H. H. Wilson)
+Knowing their greatness, offer worship to the vast heaven and to the earth : my desire, wishing (for felicity) proceeds (to them), in whose praise the gods, desirous of adoration, delight together with their worshippers at the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+सपर्यवः देवाः सचा मादयंते— पूजाकामाः देवाः स्तोतारो वा सह माद्यंति खलु । (*saparyavaḥ devāḥ sacā mādayaṃte— pūjākāmāḥ devāḥ stotāro vā saha mādyaṃti khalu |*) In this Ṛk the greatness of heaven and earth is described. The word अयुः (*ayuḥ*) is listed (Ni. 3-8) among the names of man. For the word सपर्यवः (*saparyavaḥ*) Sāyaṇa gives two meanings: those who perform worship, and those who receive worship. The ṛtvijs of the sacrificer who performs the sacrifice are glad to recite hymns for the sacrificer, who is eager to obtain his various wishes. The gods too are glad to hear these hymns. Therefore the seer's injunction is described here: let the ṛtvijs, who know well the greatness of heaven and earth, who are worthy of worship, praise them. By this it is also said that the greatness of heaven and earth, who fulfil the sacrificer's wish, is unsurpassed.
+
+### Printed p. 238
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वोर्यु॒तं रो॑दसी स॒त्यम॑स्तु म॒हे षु णः॑ सुवि॒ताय॒  ॑
+> प्र भूतं ।  
+> इ॒दं दि॒वे नमो॑ अग्ने पृथि॒व्यै स॑प॒र्यामि॒ प्रय॑सा॒ यामि॒  ॑
+> रत्नं ॥ ३ ॥
+
+> *yuvoryutaṃ rodasī satyamastu mahe ṣu ṇaḥ suvitāya*  
+> *pra bhūtaṃ |*  
+> *idaṃ dive namo agne pṛthivyai saparyāmi prayasā yāmi*  
+> *ratnaṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । ऋतं । रोदसी इति । सत्यं । अस्तु । महे । सु । नः । सुविताय । प्र ।  
+> भूतं ।  
+> इदं । दिवे । नमः । आग्ने । पृथिव्यै । सपर्यामि । प्रयसा । यामि । रत्नं ॥ ३ ॥
+
+> *yuvoḥ | ṛtaṃ | rodasī iti | satyaṃ | astu | mahe | su | naḥ | suvitāya | pra |*  
+> *bhūtaṃ |*  
+> *idaṃ | dive | namaḥ | āgne | pṛthivyai | saparyāmi | prayasā | yāmi | ratnaṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्यौ युवोर्युवयोर्ऋतमानृशंस्यं सत्यं
+> यथार्थमस्तु । युवां नोऽस्माकं महे महते सुवितायाभ्युदयायॆ यज्ञसमाप्त्यर्थं सु सुष्टु प्र भूतं । प्रभवतं । हे अग्ने दिने पृथिव्यै चेदं नमोऽस्तु । प्रयसा हनिर्लक्षणेनान्नेन सपर्यामि परिचरामि । रत्नमुत्तमं धनं यामि।
+> याचे । यातिर्याञ्जा कर्मा ईमह इत्यादिषु पठितत्वात् ॥ षु । संहितायां सुइ
+> इति षत्वं । णः । संहितायां नश्च धातुस्थोरुषभ्य इति णत्वं । सुविताय । इण् गत्।
+> अधिकरणे क्तः। शोभनं गम्यतेऽस्मिन्निति सुवितं । उवजादेशश्छांदसः। भूतं । भवतेर्लोटि बहुलं छंदसीति शपो लुकि रूपं । यद्वा । छांदसे लुजि सिचो गातिस्थेति लुक् । निघातः । दिवे पृथिव्यै । नमःस्वस्तीत्यादिना । पा। २-३-१६ । चतुर्थी ।
+> सपर्यामि कंड्वादिः परिचरणे वर्तते । प्रत्ययस्वरः । यामि । यातेर्लट
+> रूपं । वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O heaven and earth (रोदसी (*rodasī*)), let your ऋतं (*ṛtaṃ*), that is, freedom from cruelty (anṛśaṃsya), be true (सत्यं (*satyaṃ*)), that is, real. For our great (महे (*mahe*)) well-being (सुविताय (*suvitāya*)), that is, prosperity, and for the completion of the sacrifice, be fully (सु (*su*)) effective (प्र भूतं (*pra bhūtaṃ*)). O Agni, let this homage be to heaven and to earth. With oblation-food (प्रयसा (*prayasā*)) I serve them (सपर्यामि (*saparyāmi*), "I attend upon"). I ask (यामि (*yāmi*)) for excellent wealth (रत्नं (*ratnaṃ*)); the root या (*yā*) has the sense of asking, since it is read among īmahe and the like. He adds that the verb सपर्यामि (*saparyāmi*) has the sense of attending upon, and that because of the break between sentences यामि (*yāmi*) is not accentless. He also gives the dative of दिवे पृथिव्यै (*dive pṛthivyai*) by the rule नमःस्वस्तीत्यादिना (*namaḥsvastītyādinā*) (Pā. Sū. 2-3-16). The alternative on the aorist of भूतं (*bhūtaṃ*) belongs to the grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदसी (*rodasī*)—O heaven and earth
+- युवोः (*yuvoḥ*)—of you two
+- सत्यं (*satyaṃ*)—the nature that consists of truth
+- यतं (*yataṃ*)—as unobstructed
+- अस्तु (*astu*)—let it be eternal
+- नः (*naḥ*)—our
+- महे (*mahe*)—great
+- सुविताय (*suvitāya*)—for the completion of the sacrifice
+- सु प्रभूतं (*su prabhūtaṃ*)—be gracious
+- अग्ने (*agne*)—O Agni
+
+### Printed p. 239
+
+- दिवे (*dive*)—to the deity of heaven
+- पृथिव्यै (*pṛthivyai*)—to the earth
+- इदं नमः (*idaṃ namaḥ*)—this homage is offered
+- प्रयसा (*prayasā*)—with food in the form of oblation
+- सपर्यामि (*saparyāmi*)—I worship
+- रत्नं (*ratnaṃ*)—excellent wealth
+- यामि (*yāmi*)—I ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, let the true nature of you two be unobstructed and eternal; be gracious to us for the completion of our great sacrifice. O Agni, this my homage is offered to the deity of heaven and to the earth. I worship them with food in the form of oblation and ask for excellent wealth.
+
+##### English translation (H. H. Wilson)
+Heaven and earth, may your truth be ever inviolable : be propitious to us for the due completion of the rite : this adoration (Agni) is offered to heaven and earth : I worship (them) with (sacrificial) food ; I solicit of them precious (wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+यवोः ऋतं रोदसी सत्यमस्तु—हे द्यावापृथिव्यौ युवयोः अनृशंस्यं यथार्थमस्तु । (*yavoḥ ṛtaṃ rodasī satyamastu—he dyāvāpṛthivyau yuvayoḥ anṛśaṃsyaṃ yathārthamastu |*) Yāska (Ni. 4-19) uses the word ऋत (*ṛta*) in the senses "truth" or "sacrifice" and in other senses as well. Here the commentator explains the word ऋत (*ṛta*) as "being of generous mind" and gives the sense of a prayer: let heaven and earth be generous-minded towards the sacrificer. The sacrificer's prayer is thus indicated: let the nature of heaven and earth, in regard to the sacrificer, be, in accordance with the sense, excellent and forbearing.
+
+In the second sentence the word सुविताय (*suvitāya*) is used in the sense शोभनं गम्यते अस्मिन् इति सुवितं (*śobhanaṃ gamyate asmin iti suvitaṃ*), "that from which welfare comes". Therefore सुविताय अभ्युदयाय यज्ञसमाप्त्यर्थं (*suvitāya abhyudayāya yajñasamāptyarthaṃ*): for the completion of the sacrifice of the sacrificer who brings about welfare, may heaven and earth be purposeful; thus the sacrificer's wish is described. **NOTE**
+
+The word प्रयस् (*prayas*) is listed (Ni. 3-9) among the names of food. The sacrificer's wish is stated: that he will satisfy heaven and earth with food in the form of oblation, and, bowing to Agni and worshipping heaven and earth, will pray in order to obtain excellent wealth.
+
+### Printed p. 240
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो हि नां॑ पू॒र्व्या आ॑विवि॒द्र ऋता॑वरी रोदसी सत्य॒वाचः॑।  
+> नर॑श्चिद्वां समि॒थे शूर॑सात् वनंदि॒रे पृ॑थिवि॒ वेवि॑दानाः ॥४॥
+
+> *uto hi nāṃ pūrvyā āvividra ṛtāvarī rodasī satyavācaḥ|*  
+> *naraścidvāṃ samithe śūrasāt vanaṃdire pṛthivi vevidānāḥ ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । हि । वां। पूर्व्याः । आविविद्रॆ । ऋतवरी इत्यृतवरी । रोदसी इति।  
+> सत्यवाचः ।  
+> नरः । चित् । वां । सम्‌इथे । शूरसातौ । ववंदिरे । प्रथिवि । वेविदानाः ॥ ४ ॥
+
+> *uto iti | hi | vāṃ| pūrvyāḥ | āvividrè | ṛtavarī ityṛtavarī | rodasī iti|*  
+> *satyavācaḥ |*  
+> *naraḥ | cit | vāṃ | samithe | śūrasātau | vavaṃdire | prathivi | vevidānāḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च हे ऋतावारी । ऋतं सत्यं । तद्वत्यौ हे रोदसी द्यावापृथिव्यौ पूर्वाः पूर्वे भवाः पुरातनाः सत्यवाचो महर्षयो नां युवाभ्यामाविविद्रॆ हि । तं तमपेक्षितमर्थं लेभिरे खलु । तथा हे पृथिवि शूरसात्
+> शूराणां सातिर्लाभो यस्मिन् तस्मिन्नमिथे संगमननिमित्ते यद्दे नरश्चिदद्यतना
+> मनुष्याश्च वां युवयोर्माहात्म्यं वेविदाना जानंतोऽतो द्यावापृथिव्यौ
+> ववंदिरे । स्तुवंति ॥ अविविद्रॆ । विद्ल लाभे इत्ययमुभयपदी । लिट इरयो र
+> इति रेआदेशः । सह सुपेत्यत्र सहेति योगविभागादाजा सह समासः । समिथे । इण्
+> गत् । समाण इति थक्प्रत्ययः । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+And further, O truthful (ऋतावरी (*ṛtāvarī*); ऋतं (*ṛtaṃ*) is truth, and the two possess it) heaven and earth, the ancient seers who speak truth (सत्यवाचः (*satyavācaḥ*)), born of old, obtained (आविविद्रॆ (*āvividrè*)) from you each desired object; they did indeed obtain it. So too, O earth, in the battle (समिथे (*samithe*)), the occasion of meeting, in which there is the winning (sāti) of heroes (शूरसातौ (*śūrasātau*)), men of the present day also, knowing (वेविदानाः (*vevidānāḥ*)) the greatness of you two, praise (ववंदिरे (*vavaṃdire*)) heaven and earth. The remainder of the block gives the grammar of अविविद्रॆ (*avividrè*) and समिथे (*samithe*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—and
+- ऋतावरी (*ṛtāvarī*)—O truth-natured
+- रोदसी (*rodasī*)—heaven and earth
+- पूर्वाः (*pūrvāḥ*)—the ancient
+- सत्यवाचः (*satyavācaḥ*)—great seers who speak truth
+- वां (*vāṃ*)—by your grace
+- आ विविद्रॆ हि (*ā vividrè hi*)—obtained their desired objects
+- पृथिवि (*pṛthivi*)—O earth
+- शूरसात् (*śūrasāt*)—in which heroes fight
+- समिधे (*samidhe*)—in battle
+- नरश्चित् (*naraścit*)—all the men who fight
+- वां (*vāṃ*)—your
+- वेविदानाः (*vevidānāḥ*)—having known the greatness
+- ववंदिरे (*vavaṃdire*)—praise (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, of truthful nature, did not the ancient great seers, who speak truth, obtain their desired objects by your grace? O earth, in the battle in which heroes fight, all the men who are warriors, knowing your greatness, praise you.
+
+### Printed p. 241
+
+##### English translation (H. H. Wilson)
+Heaven and earth, endowed with truth, they who are the ancient declarers of the truth, have obtained from you (what they desired) ; and so, earth, men cognizant (of the greatness of you both) have worshipped you for the sake of triumphing over (hostile) heroes in battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+The unsurpassed and abundant greatness of heaven and earth is described: they bring grace to the ancient great seers who speak truth, and bring welfare to the heroes who fight in battles.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑चद्दे॒वां अच्छा॑ प॒थ्या॒३॒॑३ का  ॑
+> समेति ।  
+> ददृ॑श्र एषामव॒मा सदां॑सि॒ परे॑षु॒ या गुह्ये॑षु व्र॒तेषु॑ ॥
+
+> *ko addhā veda ka iha pra vocaddevāṃ acchā pathyā3 kā*  
+> *sameti |*  
+> *dadṛśra eṣāmavamā sadāṃsi pareṣu yā guhyeṣu vrateṣu ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । अद्धा । वेद । कः । इह । प्र । वोचत् । देवान् । अच्छ । पथ्या । का । सम् ।  
+> ऐति ।  
+> ददृश्रे । एषां । अवमा । सदांसि । परेषु । या । गुह्येषु । व्रतेषु ॥ ५ ॥
+
+> *kaḥ | addhā | veda | kaḥ | iha | pra | vocat | devān | accha | pathyā | kā | sam |*  
+> *aiti |*  
+> *dadṛśre | eṣāṃ | avamā | sadāṃsi | pareṣu | yā | guhyeṣu | vrateṣu ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> को वाद्दा सत्यभूतं तादृशमर्थं वेद । वेत्ति । को वेहास्मिन्प्रज्ञातमर्थं प्र वोचत् । प्र ब्रवीति । किं तत्तदुच्यते । देवानच्छाभिलक्ष्य का पथ्या पथि
+> साधुः समीचीनः को वा मार्गः समेति । सम्यक् प्राप्नोतीति । इममर्थं न कश्चिज्ञानाति । न कोऽपि ब्रवीति । किं ते देवा विद्यंते । वाढमित्याह । एषां दिवि स्थितानां नक्षत्ररूपाणां देवानामवमाधोमुखानि सदांसि स्थानानि ददृश्रे । दृश्यंते ।
+> तथापि परेषूत्तमेषु गुह्येषु दुर्ज्ञानेषु व्रतेषु कर्मस्वनुष्ठतेषु या यानि
+
+##### Gist of the bhāṣya
+
+"Who (को (*ko*)) truly knows (अद्धा वेद (*addhā veda*)) such a true matter? Who here (इह (*iha*)) will declare (प्र वोचत् (*pra vocat*)) what is known about it? What is said? With reference to the gods (देवानच्छ (*devānaccha*)), what path (पथ्या (*pathyā*)), good and proper on the road, goes (समेति (*sameti*)) rightly, arrives properly? No one knows this matter; no one tells it." Do those gods then exist? He answers: certainly. The lower (अवमा (*avamā*)), downward-facing abodes (सदांसि (*sadāṃsi*)) of these gods, who stand in the sky in the form of stars, are seen (ददृश्रे (*dadṛśre*)). Yet in the highest (परेषु (*pareṣu*)), hidden (गुह्येषु (*guhyeṣu*)), hard-to-know rites (व्रतेषु (*vrateṣu*)) that are performed, which …
+
 ---
 
-**Progress note:** Done through printed p. 235. pp. 230-235 (batch API, retry 2)
+**Progress note:** Done through printed p. 241. pp. 236-241 (batch API, retry 2)
