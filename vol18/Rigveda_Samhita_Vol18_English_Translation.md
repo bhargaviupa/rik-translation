@@ -23225,6 +23225,149 @@ In the Ṛk 1-63-2 Aditi, together with water and earth, is described as a womb 
 [This division of the gods is threefold: those of the heavenly world, those of the atmosphere, and those of the earth. (We discussed this order of division earlier when citing the mantra 1-139-11.) It is a peculiarity that instead of "dwellers in the atmosphere" it says "born of water". But not only in this context: the same usage occurs also in 10-49-2. "All the gods, born of heaven, born of the atmosphere and born of the earth, worship me alone as Indra", thus runs this division (in both of these present examples the word अप् (*ap*) may be given the meaning atmosphere). Likewise in the Ṛks 10-65-9 **NOTE**; 2-38-11; 10-45-1 and 7-35-11 these same divisions are clearly found. But in the mantras 6-50-11 and 7-35-14 there are four divisions: दिव्याः (*divyāḥ*), पार्थिवासः (*pārthivāsaḥ*), गोजाताः (*gojātāḥ*), अप्याः (*apyāḥ*).]
 As in 10-63-2, this point can be noticed also in the Ṛk 10-63-3. "The Ādityas, whose mother the earth yields sweet milk, and the heavenly world in the form of Aditi
 
+### Printed p. 592
+
+…the goddess gives also immortality, offer praises to those Ādityas, who bestow rain and perform good works." Here the word अदितिः (*aditiḥ*) is an adjective of द्यौः (*dyauḥ*). Moreover, in Ṛ. Saṃ. 5-59-8 too the usage मिमातु द्यौरदितीर्वितये (*mimātu dyauraditīrvitaye*) occurs. Here Sāyaṇa himself has not given a definite meaning for the word Aditi. He says द्यौः अंतरिक्षं ; कीदृशी । अदितिः अदीना । (*dyauḥ aṃtarikṣaṃ ; kīdṛśī | aditiḥ adīnā |*), that is, one meaning is "Dyau is the atmospheric region, and that region is Adīnā (unimpoverished)". Secondly, he gives Aditi another meaning, "Earth", saying "Aditi is the Earth". Such passages show an identity of Aditi with the atmospheric region. But in the mantra
+
+देवा आदित्या अदितिं हवामहे ये पार्थिवासो दिव्यासो अप्सुये (*devā ādityā aditiṃ havāmahe ye pārthivāso divyāso apsuye*) (10-65-9)
+
+the Ādityas, their mother Aditi, and in addition the gods born of the earth and born of the heavenly world are mentioned separately. In this context it is shown that Aditi and the heavenly world are different.
+
+5. Evidence that Aditi is a deity distinct from the Earth.
+
+Although in some of the passages quoted above an identity of Aditi with the atmospheric region is stated, it cannot be said that the same relation of identity is shown in the other parts of the Saṃhitā as well. There are occasions that show Earth and Aditi to be one; but there are also contrary descriptions. As stated above, according to the Nirukta texts the word is at one time a synonym of Earth and at another of Heaven-and-Earth. "The Earth, in the form of Aditi, along with sons who perform good works, stands firm through the favour of Agni" (1-72-9) and similar passages are one or two occasions where the word Aditi is an adjective of Earth (Atha. Ve. 13-1-38). But in many other contexts it is clearly understood to be a deity different from the Earth. For example, after praying in mantra 3-54-19, "May Heaven and Earth, the waters, and the Sun with the stars hear our prayer", the next verse, 3-54-20, prays, "May Aditi together with the Ādityas hear our prayer." There is therefore no doubt that Aditi is different from the Earth. Taking some more examples:
+
+"Indra, Agni, Mitra, Varuṇa, Aditi, the atmosphere, the Earth, the heavenly world, the Maruts, the mountains and the waters I call with prayer" (5-46-3)
+
+### Printed p. 593
+
+"O heavenly world who art as a father, O helpful Earth, O Agni who art as a brother, O Vasus, be givers of happiness to us. O Ādityas, O goddess Aditi, grant us complete protection" (6-51-5)
+
+"May Mitra, Varuṇa, Aditi, the deity of the ocean, the Earth and the heavenly world be pleasing to us" (9-97-58)
+
+"May the wise and discerning Heaven and Earth protect us. May Aditi, the mother of Mitra and Varuṇa, also protect us from calamities" (10-36-2, 3)
+
+"Heaven and Earth, Yama, Aditi, Tvaṣṭṛ … Viṣṇu are worthy of our worship" (10-92-11)
+
+"We shall take refuge in the Earth who gives excellent protection, the sinless heavenly world, Aditi the guide … " (10-63-10)
+
+In passages like these the difference between Earth and Aditi is plain. Supporting this same view, the Vājasaneya Saṃhitā too has such a prayer: पृथिवी चमेऽदितिश्च मे (*pṛthivī came 'ditiśca me*) … "may Earth, Aditi, Diti … satisfy me" [Vā. Saṃ. 18-22]. In the Atharvaveda also: भूमिर्माता अदितिर्नो जनित्रं (*bhūmirmātā aditirno janitraṃ*) … "may Earth who is a mother, and Aditi the cause of our birth, protect us" (Atha. Ve. 6-121-2).
+
+But in some Brāhmaṇa passages a definite identity of Aditi and Earth is stated. For example:
+
+इयं वै पृथ्वी अदितिः सा इयं प्रतिष्ठा (*iyaṃ vai pṛthvī aditiḥ sā iyaṃ pratiṣṭhā*) (Śa. Brā. 2-2-1-19)
+
+This Earth is Aditi; she is the support of the world.
+
+इयं वै पृथ्वी अदितिः सा इयं देवानां पत्नि (*iyaṃ vai pṛthvī aditiḥ sā iyaṃ devānāṃ patni*) (Śa. Brā. 5-3-1-4)
+
+This Earth is Aditi; she is the venerable wife of the gods. Since there are Brāhmaṇa passages of this kind, a definite meaning of the word Aditi must be stated only as suits each context. It was shown earlier that Yāska indicates Aditi as the chief of all the deities of the atmospheric region. But it does not seem very proper that the same Yāska should class the Ādityas, Aditi's sons, with the deities of the heavenly world, and not class their mother Aditi with the deities of the atmosphere. It cannot be said, however, that Yāska attempted a strict classification.
+
+### Printed p. 594
+
+6. Aditi and Diti:
+
+"O Mitra and Varuṇa, at dawn mount your golden chariot and look upon Aditi and Diti" (Ṛ. Saṃ. 5-62-8)
+
+In the mantra 'hiraṇyarūpaṃ' which gives this meaning, Aditi is mentioned together with Diti. The two words Aditi and Diti give meanings that show a difference from each other; or else the one makes good the deficiency of the other. Thus the above mantra indicates the relation and also the difference of these two deities, who in one sense are opposed to each other and in another complement each other.
+
+[The same words are used in the Vājasaneya Saṃhitā also [10-16]. For this the commentator has stated the purport in the adhidaiva sense. He interprets the word Aditi as one free from poverty (adīna) and the word Diti as the poor (dīna). That is, one who performs what is enjoined is Aditi; one of unbelieving conduct is Diti. A difference of this kind is shown.]
+
+In his commentary on Ṛ. Saṃ. 5-62-8, Sāyaṇa interprets Aditi as the indivisible Earth, and Diti as the divisible Earth, that is, the Earth with individual creatures and the like. The German scholar Roth interprets the word Aditi as "eternal" and Diti as "non-eternal". (Journal of German Oriental Society, vol. VI, p. 71)
+
+On the whole, if all the contexts are examined, it appears that Aditi may be said to be the deity reflecting the atmospheric region and Diti the one reflecting the Earth. It may also be said that these two principles together reflect the full state of Nature, which contains all her conditions.
+
+For the word Diti used in Ṛ. Saṃ. 4-2-11, Sāyaṇa interprets it as the generous giver, and the word Aditi as the miser who does not give. He explains: दितिं— दातारं ; (*ditiṃ— dātāraṃ ;*) अदितिं— अदातुः पंचम्यर्थे द्वितीया । (*aditiṃ— adātuḥ paṃcamyarthe dvitīyā |*)
+
+There are also some contexts where Diti is used without Aditi. For example:
+
+"O Agni, O venerable Savitṛ and Bhaga, grant us fame and offspring. Diti also graciously bestows on us the things we desire" (7-15-12)
+
+In the mantra 'tvamagne' which gives this meaning, Sāyaṇa gives the word Diti only the meaning "goddess". Here Diti is not joined with Aditi. In this context English or German
+
+### Printed p. 595
+
+scholars have added to the word Diti meanings of their own, according to their fancy. For example Roth says, "Diti is a particular deity reflecting either generosity or increase of wealth." Max Müller states, "In this context the word Aditi has been changed by a variant reading into Diti." In the mantras Atha. Ve. 15-6-7; 15-18-4; Vā. Saṃ. 18-22 it is clearly stated that Diti and Aditi are separate deities. Atha. Ve. 7-7-1 indicates who are Diti's sons and who are Aditi's sons. These sons of Diti are later considered in the Purāṇas and elsewhere as Daityas, the enemies of the gods.
+
+7. Aditi can be the divine principle reflecting universal Nature.
+
+There are mantras which state that Aditi reflects the all-pervading Nature itself. Whatever things there are in the heavenly world and in the atmosphere, whatever beings there are, divine and human, whatever special principle belongs to past, future and present — of all these Aditi is the source, and she is the Self of all.
+
+अदितिद्यौरदितिरंतरिक्षं........................अदितिर्जनित्वं (*aditidyauraditiraṃtarikṣaṃ........................aditirjanitvaṃ*)
+(Ṛ. Saṃ. 1-89-10)
+
+The indivisible Aditi is the giver of birth to the whole universe. She is the mother of the world, she is the father of the world. She is every created thing. She is the place of origin of all. She is the five classes of people, characterised by caste and including the Niṣādas. She is the gods, gandharvas and the rest. Aditi is all the gods. She is the shining heaven. She is the atmosphere. She is the whole universe. She is the ruler of the universe.
+
+In commenting on this passage Sāyaṇa says, "Here the word Aditi means the Earth or the mother of the gods", and explains her all-pervasiveness: अदितिरदीना अखंडनीया वा पृथ्वि देवमाता वा । (*aditiradīnā akhaṃḍanīyā vā pṛthvi devamātā vā |*) … एवं सकलजगदात्मना अदितिः स्तूयते (*evaṃ sakalajagadātmanā aditiḥ stūyate*). The Nirukta author, giving the explanation of this word, interprets it (अदितिरदीना देवमाता (*aditiradīnā devamātā*)) as the great mother of the gods (Ni. 4-22). In mantra 1-89-10, quoted above, her greatness and the manifestation of her various forms are set out.
+
+स्वयंभु ब्रह्म परमं तपो यत् ! स एव पुत्रः स पितास माता (*svayaṃbhu brahma paramaṃ tapo yat ! sa eva putraḥ sa pitāsa mātā*) — the self-existent supreme Brahman is the supreme sacred austerity. He is the son, he is the mother and the father, and so on. Just as the all-selfhood and all-pervasiveness of Brahman are described thus (Tai. Brā. 3-12-3-1), in the same way Aditi is described in this mantra.
+
+### Printed p. 596
+
+Another very important context may be examined in order to know the greatness of the Aditi principle. The purport of that mantra is as follows:
+
+"Who among the gods is the greatest? By remembering which god will this trouble of mine be removed? When shall I see my father and mother?" (1-24-1)
+
+The Aitareya Brāhmaṇa quotes the same mantras 1-24-1 and 1-24-2 and states that these mantras were recited by Śunaḥśepa. Some scholars differ in opinion as to whether this context has a close connection with Śunaḥśepa or not. That is not so important here. Whoever may have recited this mantra, it is a mantra to be recited by a man caught in calamity with the wish to be delivered from it.
+
+8. Aditi, the deity who forgives sin:
+
+The scholar Benfey, when giving the meaning of the word Aditi in these mantras 1-24-1 and 1-24-2 quoted above, states for this word the meaning "freedom from sin" (Orient and Occident I 33). The purport he gives is reasonable from one point of view. It is well known that Aditi destroys sin; that she is sinless is also set out by epithets such as अनागस (*anāgasa*). Therefore the prayer addressed to her is also of this kind:
+
+"O Varuṇa, release all the bonds that are on my head and below. May we be sinless towards Aditi" (1-24-15)
+
+Likewise some passages are quoted below in which the sinlessness and purity of self obtained through Aditi's favour are set out.
+
+"May Aditi make us sinless" (1-166-22)
+
+"O Aditi, O Mitra and Varuṇa, if we have committed any sin against you, pray forgive it and show us favour" (2-27-14)
+
+"O Agni, whatever fault we have committed through the thoughtlessness natural to men, make us sinless so that we may obtain Aditi's favour" (4-12-4).
+
+"With the help of the divine Savitṛ, may we commit no sin against Aditi." (5-82-6).
+
+### Printed p. 597
+
+"Fully observing the ordinance willed by Aditi, may we commit no sin against Varuṇa. Varuṇa is of a nature to protect even the most sinful" (8-87-7 **NOTE**)
+
+"O Agni, whatever sin we have committed, forgive it out of kindness to us. May Aryaman and Aditi destroy that sin." (8-93-7)
+
+"May Mitra hear my prayer. May Aditi and the divine Savitṛ declare us sinless before Varuṇa" (10-12-8)
+
+Besides these:
+
+अनागास्त्वे अदितित्वे तुरास इमं यज्ञं दधतु शोषमाणाः । (*anāgāstve adititve turāsa imaṃ yajñaṃ dadhatu śoṣamāṇāḥ |*)
+(Ṛ. Saṃ. 7-51-1)
+
+In this mantra the two words अदितित्व (*adititva*) and अनागास्त्व (*anāgāstva*) are used together. The prayer is: "May the great gods, hearing our prayer, make our sacrificial acts sinless and productive of prosperity." But here another point must be noted. Although the two words are used together, there is no rule that the two must have the same meaning. Showing a different explanation of the word Aditi, the Śatapatha Brāhmaṇa states thus:
+
+स यद्यदेवासृजत तत्तदत्तुमध्रियत । सर्वं वा अत्तीति तददितेरदितित्वं । सर्वस्यैतस्यात्ता भवति । सर्वमस्यांतं भवति य एवमेतददितेरदितित्वं वेद (*sa yadyadevāsṛjata tattadattumadhriyata | sarvaṃ vā attīti tadaditeradititvaṃ | sarvasyaitasyāttā bhavati | sarvamasyāṃtaṃ bhavati ya evametadaditeradititvaṃ veda*) (Śa. Brā. 11-6-5-5; Bṛ. U. 1-2-5)
+
+Whatever things Brahman created, he began to devour them all again. Because of this act of devouring, the name Aditi (Death) was given. One who knows this principle himself attains the nature of Aditi. Thus the explanation of the name Aditi is given, and this deity's rule over the universe is also stated; the supreme Brahman too is designated by this name for this reason.
+
+Moreover, in passages such as विश्लेषामदितिर्यज्ञियानां (*viśleṣāmaditiryajñiyānāṃ*) (4-1-20) and अमूरः कविरदितिविन्स्वान् (*amūraḥ kaviraditivinsvān*) (7-9-3) the word Aditi is an adjective of Agni. In 9-8-5 it is an adjective of Aryaman. Yāska in the Nirukta states अग्निरप्यदितिरुच्यते (*agnirapyaditirucyate*) (Ni. 11-23): Agni too is denoted by the word Aditi. And to support his statement teaching the identity, he
+
+यस्मै त्वं सुद्रविणो ददाशोऽनागास्त्वमदिते सर्वताता (*yasmai tvaṃ sudraviṇo dadāśo 'nāgāstvamadite sarvatātā*)
+(Ṛ. Saṃ. 1-94-5)
+
+### Printed p. 598
+
+quotes this passage and shows that the word Aditi is used there as an adjective of the word Agni. Sāyaṇa explains that it means Agni who is indivisible, that is, complete.
+
+Thus all the passages that give the sense of seeking the protection of Aditi, who destroys sin and forgives sins, and of begging forgiveness, describe Aditi's infinite power. These epithets and descriptions show that Aditi is the one who has the power of governing the universe. It is also understood that these governing acts are not mere displays of physical power but contain spiritual and ethical laws. This point is also clearly shown by the close relation between Aditi and Varuṇa, the guardian of Ṛta. Likewise other deities such as Savitṛ, Sūrya, Uṣas and Heaven-and-Earth are also prayed to (4-54-3; 10-35-2, 3; 3-54-19 etc.).
+
+9. Some passages that describe Aditi, the ruler of the universe, as herself controlled by other powers:
+
+There are also some descriptions that Aditi, described as mother, must sometimes be subject to the control of other powers, namely the deities such as Varuṇa who are called lords of the universe. For example:
+
+In mantra 7-38-4 there is the description of Aditi, together with her sons the gods Varuṇa, Mitra, Aryaman and others, praising Savitṛ and praying for Savitṛ's help. In 8-12-14 it is stated that Aditi composed a work in the form of a hymn to praise Indra. (अदितिः स्तोममिंद्राय जीजनत् (*aditiḥ stomamiṃdrāya jījanat*))
+
+10. The order of creation of the universe as described in the 72nd sūkta of the 10th Maṇḍala of the Ṛksaṃhitā: the manner of origin of Aditi, Dakṣa, the Ādityas and the other deities:
+
+It is the opinion of some scholars that the 72nd sūkta of the 10th Maṇḍala of the Ṛksaṃhitā is not as ancient as the other sūktas of the Saṃhitā. But no proper ground can be given for this. Whether this sūkta is ancient or recent is for the present not to the point; what is useful here is the order of description of the creation of the universe set out in this sūkta. Its details are as follows.
+
+(1) With these laudatory sūkta mantras we shall describe the order of origin of the gods. With the help of these mantras in the form of praise, we who belong to a later age shall be able to know the origin and nature of the gods of the earlier age.
+
 ---
 
-**Progress note:** Done through printed p. 591. pp. 585-591 (batch API)
+**Progress note:** Done through printed p. 598. pp. 592-598 (batch API)
