@@ -151,7 +151,20 @@ def kn_page(printed,head,text,section=None,st=None):
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
         out.append(('> '+l) if section in BLOCK else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]
+    out=drop_dup_figures(out,printed)
     return '\n'.join(join_hyphens(out))+'\n',section
+def drop_dup_figures(out,printed):
+    """A `[figure: …]` line is the picture of a verse block or of a sūkta head that the machine-read text already has right after it: it is dropped
+    and logged with its file name (user, Nov 11 2026; 13 of 13 figures in Vol 18 were of this kind, each compared by eye).  Not dropped: a figure
+    with nothing after it on the page, or followed by anything else (the gate in batch.py then asks for the picture to be read)."""
+    res=[]; samp=('*%s*'%CANON['samhita'],'*%s*'%CANON['pada'])
+    for i,l in enumerate(out):
+        if l.startswith('[figure'):
+            nx=next((x for x in out[i+1:] if x.strip()),'')
+            if nx.startswith('> ') or nx in samp or nx.startswith('ಸೂಕ್ತ—'):
+                LOG.append(f'p. {printed}: picture line {l} dropped by script: the supplied text has the same verse block / sūkta head right after it'); continue
+        res.append(l)
+    return res
 def join_hyphens(out):
     """a word broken at a line end ('...ಪ್ರಥಿವೀ-' / 'ಶಬ್ದೋ ...') is joined: same page, both lines of the same kind (block or prose), Kannada letters on both sides"""
     res=[]

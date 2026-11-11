@@ -346,7 +346,7 @@ In this sacrifice, O Indra, wielder of the thunderbolt; all the gods, who are �
 
 O Indra, wielder of the thunderbolt, all the gods, who are invoked with devotion in this sacrifice and are protectors, and also heaven and earth, worship you alone and pray to you for the slaying of Vṛtra. No one other than you is capable of this task. You are one with an attractive form, possessed of grown, great qualities. Therefore they trust in you alone for this task and pray to you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra, wielder of the thunderbolt, all the protecting deities who are reverently invoked, and both the heaven and the earth, glorify you who are verily one alone, mighty, vast, and pleasing of aspect, for the destruction of Vritra.
 
 ### Printed p. 4
@@ -416,7 +416,7 @@ O Indra, the gods sent you forth, as जीर्णाः प्रवृद्
 
 O Indra, as the aged send forth their young sons, the gods impelled you and sent you forth for the slaying of the asuras. Only after that did you, the source of truth, become lord of gods, humans and all. You destroyed Vṛtra the asura, who lay blocking all around, facing the water. You cleft the rivers, which are dear to the whole world and spread all around, and made them flow easily.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 As elders (send forth their young), so the gods have sent you (against Vritra) : thence you became, Indra who are the abode of truth, the sovereign of the world : you have slain the slumbering Ahi for (the release of) the water, and have marked out (the channels of) the all delighting rivers.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -490,7 +490,7 @@ Sāyaṇa takes up the remaining words of the verse. The waters flow downward (�
 
 O Indra, Vṛtrāsura was never satisfied with enjoyments, his limbs were slack, he was so deceitful that his very nature could not be understood, he had no knowledge whatever, he lay sluggish in a sleeping state, and he lay enclosing the flowing waters all around, facing them. On the full-moon day you have split and killed him with the thunderbolt.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 On the day of full moon you have slain with the thunderbolt the
 insatiable, unnerved, ignorant, un-apprehending, slumbering Ahi, ob-
 structing the gliding-down-ward-flowing (streams).
@@ -607,7 +607,7 @@ As the wind with its forces makes water tumultuous, the lord Indra, by his stren
 
 ### Printed p. 15
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra, by his strength, has agitated the exhausted firmament, as wind, by its violent (gusts, agitates) the water : exulting in his strength, he has divided the solid (clouds), and has shattered the peaks of the mountains.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -679,7 +679,7 @@ O Indra, the Maruts (अद्रयः (*adrayaḥ*)), the swift (जनयः 
 
 O Indra, as mothers lovingly run to meet their children and join them, the Maruts lovingly ran to meet you and joined you. And like swift chariots they have rushed forward together with you. O Indra, you filled with waters the rivers that spread widely. You split the clouds. And you urged to flow the waters enclosed by Vṛtra.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The Maruts have hastened to you like mothers to their young : like chariots they have rushed in along (with you); you, Indra, have satisfied the flowing streams: you have shattered the clouds : you have set free the obstructed rivers.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -808,7 +808,7 @@ Indra, नभन्वः (*nabhanvaḥ*), destroyer of enemies, like armies (�
 
 Indra filled with waters the rivers which, like armies destructive of enemies, destroy their banks, are full of water, and produce food. He made the lands that were a desert for want of rain fertile by filling them with water. He satisfied with water those wearied by travelling and those wearied by thirst. He made the barren cows, which had fallen under the lordship of the Asuras, give milk.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 *English Translation.*
 Indra has filled the youthful rivers, the parents of plenty, the corroders (of their banks), like armies destructive (of their foes), he has inundated the dry lands, and (satisfied) the thirsty travellers : he has milked the barren cows whom the Asuras had become the lords of.
 
@@ -872,7 +872,7 @@ Indra, having slain the asura named Vṛtra, released many dawns and autumns, th
 
 Indra, who slew Vṛtra, released the many dawns and years that were covered by darkness, and made them shine. By the rain-waters which stood caught among the clouds and were bound all around, he released the rivers and made them flow, so that they could run by the path of the earth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 *English Translation.*
 Having slain Vritra, he has liberated many mornings and years (that had been) swallowed up by darkness, and has set the rivers free : Indra has released the imprisoned rivers, encompassed (by the cloud), to flow upon the earth.
 
@@ -933,7 +933,7 @@ O Indra, हरिवः (*harivaḥ*), possessed of the horses named Hari: you 
 
 O Indra, possessed of the horses named Hari, you lifted the son of Agrū, who was being bitten by the ants called vamri, from the ant-hill of the vamris and came out. Brought out by Indra, he, though blind, recognised the serpent. When he came out of the ant-hill, the joint-regions of his body, which had been bitten and sundered by the ants, came together and were set right.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 *English Translation.*
 Lord of horses, you have brought the son of Agru from his dwelling where he was being devoured by the ants: when extricated, although
 
@@ -1003,7 +1003,7 @@ O shining Indra, in whatever ways you have accomplished your deeds, which cause 
 
 ### Printed p. 26
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The sage, (Vamadeva), knowing, royal Indra, ancient deeds of you who are all-wise, has proclaimed the actions, such as you have performed them, generative of rain, self-evolved, and beneficial to man.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1067,7 +1067,7 @@ O Indra, praised quickly by the former seers and being praised quickly by us, fi
 
 O Indra, you who were exceedingly praised by the former seers and are to be praised by us too with the same devotion, fill up food for me, the praiser, as rivers are filled with water. O Indra, possessor of the horses called Hari, a new hymn is made addressed to you. May we, possessing chariots, worship you with praise made with insight and be offerers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of choriots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1176,7 +1176,7 @@ May Indra, the doer of what the sacrificer desires, fierce (radiant), come from 
 
 Indra, the fulfiller of the sacrificers' wishes, the radiant one, who destroys his enemies when he fights them in battles, who holds the thunderbolt in his arm, and who is the protector of men, together with the Maruts of surpassing vigour, must surely come for our protection, whether he be far away or near.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the illustrious Indra, the granter of desires, come to us, whether from afar or nigh, for our protection : he who is the lord of men, armed with the thunderbolt, overcoming his foes in conflict and in combats, (attended) by the most illustrious (Maruts).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1239,12 +1239,12 @@ Indra, facing us, is asked to come with his horses (हरिभिः (*haribhi
 
 Indra, who even from the atmosphere looks upon us with a mind of favour, let him come to us with his horses, turned towards us, for our protection and for gain of wealth. Indra, the wielder of the thunderbolt, the wealthy, the one of great nature, when battle arises between us and our enemies, let him come and sit down at this sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra, looking down upon us, come with his steeds to our presence for our protection and enrichment: may the mighty thunderer,
 
 ### Printed p. 33
 
-##### English translation (H. H. Wilson)
+##### Printed English
 the possessor of wealth, (aiding us) in battle, be present at this our sacrifice.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1310,7 +1310,7 @@ O Indra, setting us in front (पुरो दधत् (*puro dadhat*), making 
 
 O Indra, placing us in front of you, partake of this sacrifice performed by us. O Indra, bearer of the thunderbolt, may we, the praisers, with your help destroy all our enemies as a huntsman kills beasts, win the battle and obtain the wealth we need, cattle and the rest.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You, Indra, placing us before you, shall receive this sacrifice, our holy offering: and as the huntsman (kills his game), may we, your wor-shippers, holder of the thunderbolt, for the acquirement of riches through you, be victorious in battle.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1390,7 +1390,7 @@ O Indra, rich in food (स्वधावः (*svadhāvaḥ*)), well-minded (स
 
 O Indra, rich in food, you whose mind is auspicious, greatly desiring our company, sit near us, and quickly drink the Soma that is pressed in the best manner, respectfully collected, and exhilarating. Be satisfied with the Soma drunk together with the hymn chanted by the Udgātṛs at the midday pressing.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra, the giver of food, be near to us, favourably disposed ; and, anxious for our (good), drink of the effused, prepared, exhilarating Soma, and be pleased by the (sacrificial) food (offered) with the noon-day hymn.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1452,7 +1452,7 @@ Like a tree (वृक्षो न (*vṛkṣo na*)) with ripe fruit (पक्
 Indra is prosperous like a tree with ripe fruit, has an excellent weapon, and is like a hero who conquers enemies; he is praised in a special manner by new seers and is called by many for help. Turning with reverence to that Indra, I praise him exceedingly, like a man full of pride praising his wife.
 ### Printed p. 38
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Like a man boasting of his wife, I glorify that Indra who is invoked of many, who is hymned by recent sages, (who is) like a tree with ripe fruit, like a victorious (warrior), skilful in arms.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1525,7 +1525,7 @@ Like a mountain (गिरिर्न (*girirna*)), self-grown (स्वतव
 
 That Indra who is firm and grown great like a mountain, great-souled and vigorous, who was born long ago to crush enemies and is terrible to them, holds the thunderbolt too. As a water-vessel shines when filled with water, so Indra shines holding the thunderbolt.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He who is vast aud and self-sustained like a mountain, the radiant and formidable Indra, born of old for the destruction (of the foes of the gods), the wielder of the ancient thunderbolt, charged with splendour, like a jar (filled)·with water.
 ### Printed p. 41
 
@@ -1585,7 +1585,7 @@ O Indra, whose (your) by birth itself there is truly no opposer (वर्ता
 
 O Indra, who possess by the very nature of your origin an unobstructed power, there is no man with power to oppose you. In the same way there is no man who can destroy the wealth that accomplishes sacrifices and other rites and is given by you. O mighty, resplendent Indra, called by many, you who shower desired objects, give to us who praise you riches such as cattle.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Of whom there is no opposer by (reason of) his birth, nor any destroyer of the wealth that accomplishes (pious works): powerful and resplendent (Indra), the invoked of many, the showerer (of benefits) bestow upon us riches.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1650,7 +1650,7 @@ O Indra, you yourself are the lord over the wealth and the houses of the people 
 
 ### Printed p. 44
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You rule over the riches and the dwellings of men; you are the rescuer of the herd of cattle; you are the giver of instruction, the smiter in battles, and the distributor of great heaps of riches.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -1720,7 +1720,7 @@ You rule over the riches and the dwellings of men; you are the rescuer of the he
 
 Indra, who is exceedingly wise, is renowned for some great quality. What is the nature of such wisdom? By what kind of wisdom is he able to perform great deeds again and again? Precisely because he is so wise, Indra destroys completely the sin of the sacrificer who offers the oblation, even if that sin is exceedingly great. And he also gives wealth such as cattle to the praiser.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 By what wisdom is he who is most wise renowed? by that where-
 with the mighty Indra repeatedly does (great things): he is the especial
 effacer of the manifold sin of the worshipper, and bestows wealth upon his
@@ -1810,7 +1810,7 @@ O Indra, do not harm us; be our nourisher. Whatever abundant wealth of yours is 
 
 ### Printed p. 48
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Harra us not, but cherish us, Indra : bestow upon us that abundant wealth which it is yours to give to the donor (of the oblation) : praising you, we celebrate you at this sacred rite, which is new and excellent, and (at which the oblation) is proper to be presented.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2134,7 +2134,7 @@ O Indra, you who were quickly (नु (*nu*)) praised by the former seers and ar
 
 O Indra, you who were exceedingly praised by the former seers and with the same devotion are to be praised by us also, fill and give food to me, the praiser, as rivers are filled with waters. O Indra, owner of the horses called Hari, a new hymn is made with you in view. May we, who have chariots, worship you with praise offered with understanding and become offerers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2267,7 +2267,7 @@ May that Indra come to us for protection (अवसे (*avase*)), that is, draw
 
 May Indra come near us for our protection. May Indra, who is praised in this sacrifice, who is heroic and who attains growth, rejoice together with us. May the splendid strength, which destroys the enemy army, of that Indra whose energies are of many kinds and who shines like the radiant sun, increase.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra come to us for our protection, and being praised (by us), may the mighty hero be exhilarated along with (us) at this rite ; he whose energies are many : may he, like the radiant sun, recruit his own overpowering vigour.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2333,7 +2333,7 @@ O praisers, praise in this sacrifice the Maruts, who augment the strength of Ind
 
 ### Printed p. 71
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorify the powerful leaders of that renowned and opulent (Indra), whose victorious and protecting energy rules over men, like a universal sovereign entitled to veneration.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2408,7 +2408,7 @@ May Indra, accompanied by the Maruts, come for our protection wherever he may be
 
 ### Printed p. 73
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra, accompanied by the Maruts, come quickly for our protection, from the heaven, from the earth, from the firmament, or from the waters; from the sphere of the sun, from (any) distant region, from the abode of the rains.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2516,7 +2516,7 @@ The Indra who is master of the abundant (स्थूलस्य (*sthūlasya*)
 
 The Indra who in the sacrifices is master of wealth that is steady, abundant and of great value; the Indra who with strength in the form of the vital breath conquers his enemies with his own mighty armies; and the valiant Indra who provides the praisers with excellent wealth such as cattle: that very Indra we, the praisers, praise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We glorify, in solemn rites, this Indra who rules over substantial, abundant riches; who by his powess is victor over (hostile) hosts; who by his munificence brings excellent(wealth) to the presence (of his worshippers).
 
 ### Printed p. 77
@@ -2583,7 +2583,7 @@ The Indra who establishes all the worlds permanently on a secure foundation, who
 
 ### Printed p. 79
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Let the invoking priest bring to our dwellings that (Indra) who, firmly fixing the (world), returns food for (sacrificial food), and (utters) a voice enjoining (men) to worship : he who is to be propitiated by praises, who is adored by many.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2672,7 +2672,7 @@ Dhiṣaṇyantaḥ: desiring *dhiṣaṇāṃ*, praise directed to Indra. Auśij
 
 When the praisers, who wish to praise Indra and sit in the sacrificial house of the sacrificer related to the priests, approach with praise Indra, the destroyer of enemies, then let Indra come to us. Let that Indra come who, endowed with great qualities, is our protector at the time of fighting with enemies, the hotṛ for the sacrificer, and one whose anger cannot be checked.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When the repeaters of (his) commendations, abiding in the dwelling of the worshipper, approach Indra with praise, may he who is our (great) sustainer in conflicts, whose wrath is difficult to be (appeased), become the ministering priest of the master of the house.
 
 ### Printed p. 83
@@ -2745,12 +2745,12 @@ This sentence is a qualifier of Indra. The word पस्त्य (*pastya*) is
 
 The well-known might of Indra, son of Prajāpati the supporter of the world and showerer of desires, serves the sacrificer who praises Indra; that is well known. It is also true that this same might, to help in the sacrificer's protection and nourishment, is nourished in his heart in the form of meditation; that it is favourable for all his rites to be completed fully in his house; and that it is a means to the fulfilment of his desires and to his delight. All this is true; there is no exaggeration in it.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 True it is that this might of the son of the protector of the world, the showerer (of benifits), affects for his advantage the offerer of praise:
 
 ### Printed p. 85
 
-##### English translation (H. H. Wilson)
+##### Printed English
 it (prevails) in the secret (thoughts) of the worshipper, and in his dwelling, for (the accomplishment of his) pious acts. (the attainment of his) desires, and his delight.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2818,7 +2818,7 @@ Indra has opened (वि वृण्वे (*vi vṛṇve*)) the doors (वर�
 
 That Indra opened the doors of the cloud, that he fills the swift streams of the waters with waters, and that when the sacrificers, doers of excellent rites, approached Indra for food he found food in the cave-like house of the animals called Gaura and Gavaya: all this is true.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Inasmuch as he has opened the doors of the cloud, and has supplied the rapid courses of the waters with (additional) torrents, so when the pious have recourse to Indra for food, he finds (it) in the haunt of the Gaura and Gavaya.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2904,7 +2904,7 @@ In the Abhyudayeṣṭi, addressed to Indra the giver, the verse भद्रा
 
 O Indra, your auspicious hands are doers of excellent deeds. Your hands are bringers of wealth to the sacrificer who praises you. O Indra, of what kind is your state? Why have you not gladdened us even yet? Why do you take no delight in giving us wealth?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Your auspicious hands, Indra, are the doers of good deeds: your two hands, Indra, are the extenders of wealth to him who praises you: what, Indra, is this delay? why do you not exhilarate us? why are you not delighted to make us gifts?
 
 ##### विशेषविषयगळु (Special Topics)
@@ -2975,7 +2975,7 @@ Indra, who is praised in many ways, truthful in nature, lord of wealth, slayer o
 ### Printed p. 91
 Grant that I may partake of the food that is given by you and is divine in nature and in connection.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Thus (glorified), Indra, who is faithful (to his word), the lord of wealth, the slayer of Vritra, bestows riches on man ; so you, the praised of many, give us riches for our pious acts, that I may eat of your divine food.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3046,7 +3046,7 @@ O Indra, you have been praised quickly (नु (*nu*) = क्षिप्रं
 
 O Indra, you who were exceedingly praised by the earlier seers and are praised by us too with the same faith, fill up food for me, the praiser, as rivers are filled with waters. O Indra, owner of horses called Hari, a new hymn is made addressed to you. May we, who have chariots, become worshippers of you and offerers of oblations, by praise made with insight.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3159,7 +3159,7 @@ The one who comes bearing (बिभ्रत् (*bibhrat*)) the thunderbolt, e
 
 May Indra, the wealthy one, who comes before us holding the thunderbolt and by its help is of excess power, who is of great nature and powerful, accept together all our food in the form of the cake and the like, the collection of praises, the pressed Soma, and the recitation-mantras, which he desires to enjoy.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Since the great and mighty Indra is propitiated by our (oblations), since he desires (them) from us, may he, the possessor of opulence, who comes wielding the thunderbolt by his strength, accept the (sacrificial) food, the hymn, the Soma libation, and the prayers.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3226,7 +3226,7 @@ The word शुष्क (*śuṣka*)**NOTE** and the word शवः (*śavaḥ*
 
 Indra, the showerer of desires, who sends rain by splitting the cloud, who hurls with his hands upon the enemies the thunderbolt with four sharp edges and so displays his strength, who is fearsome, the best of leaders, the possessor of action, serves, for the increase of prosperity, that very river Paruṣṭī, pervading in the form of a flow, whose divided regions he moved through, pervading everywhere, to show his friendship.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The showerer (of benefits), casting with his hands the quadrangular bolt that causes rain, fierce, the chief of leaders, the achiever of (glorious) acts, is desirous of the prosperity of the investing Parushni (river), whose (bordering) districts he has frequented through regard.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3291,7 +3291,7 @@ The shining Indra, best among generous givers, who as soon as born was endowed w
 ### Printed p. 100
  tremble by his own power.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Who divine, most divine, as soon as born (was endowed) with abundant viands, and great energies, holding in his arms the willing thunderbolt, and causing by his strength (both) heaven and earth to tremble.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3363,7 +3363,7 @@ The sky-world (द्यौः (*dyauḥ*)) and the earth (क्षाः (*k�
 
 As soon as Indra was born, seeing his wondrous form, all the mountains, the many low-lying regions (the oceans), and heaven and earth as well, trembled in fear. The powerful Indra has taken up the burden of protecting heaven and earth, the mother and father of the moving sun. The winds, impelled by Indra, make sound all around the atmosphere like men.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 All the high places, and the many low places, the heaven and the earth, trembled (through fear) of the mighty (Indra) at his birth : the strong (Indra) cherishes the parents of the moveng (sun), and winds, like men, make a noise in their peregrination.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3435,7 +3435,7 @@ O Indra, to you who are mighty, those deeds of yours quickly become great. At al
 
 O Indra, who overcome enemies and are valiant: by that greatness of yours with which, sustaining and protecting the worlds and endowed with strength, you slew the demon Vṛtra with the enemy-destroying thunderbolt, by the power of that same greatness those very great deeds of yours, rich in abundant qualities, quickly attain greatness like yours. And at all the times of the savanas they are praised exceedingly.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Of you, Indra, who are mighty, great are the deeds, and to be proclaimed at all sacrifices, inasmuch as, high-minded hero, you, sustaining (the world), have by your strength slain Ahi with the resistless thunderbolt.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3511,7 +3511,7 @@ O Indra, of surpassing strength (तुविनृम्म (*tuvinṛmma*)), a
 
 O Indra of exceedingly great strength, all your famous deeds quickly come to be true. Through fear of you, the showerer of desires, the cows yield milk from their udders. And, O Indra, whose mind pours out desired boons, the rivers too, fearing you, flow exceedingly and become beneficial to the world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Most powerful Indra, all these, your exploits, are verily true; through fear of you), the showerer (of benefits), the cows shed (milk) from their udders: then, benevolent-minded (Indra), the rivers, fearing you, flow with rapidity.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3576,7 +3576,7 @@ O Indra, when you, in the case of these rivers (सीमनु (*sīmanu*) = �
 
 O Indra, lord of the horses named Hari: when you released the long bondage that had bound the rivers held by Vṛtra, and made it possible for those rivers to flow freely, immediately those famous and shining rivers praise you through the power of your protections.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Then, Indra, lord of horses, the divine sister (rivers) praise(you) for your protection when you set them free to flow, after having been impeded (by Vritra) through a long confinement.
 
 ### Printed p. 107
@@ -3642,7 +3642,7 @@ O Indra, the exhilarating Soma-stalk अंशुः (*aṃśuḥ*) has been pre
 
 O Indra, the exhilarating Soma has been pressed for you. May the flowing Soma come toward you now. May the power of praise, belonging to the radiant praiser who praises you, come toward us. May it produce in us the power to praise you. As a swift rider holds the very strong rein of a swiftly moving horse, may that power hold us firmly.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The exhilarating Soma juice has been expressed : now may the current flow to you and may the expiatory power of the illustrious utterer of praise be directed towards us as the quick rider holds firmly the reins of the steed.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3704,7 +3704,7 @@ O enduring Indra सहुरे (*sahure*), always सत्रा (*satrā*) m
 
 O Indra, who have the power to endure the enemy's opposition and to crush them, always give us powers that are fit to confront enemies, greatly increased and praiseworthy. To bring us welfare, destroy the enemies who deserve to be slain. Destroy the destructive weapon of the malevolent enemy, who belongs to the company of men.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Enduring Indra, bestow upon us energies, excellent, superior, powerful : bring under subjection to us enemies deserving of death : demolish the weapon of the malevolent man.
 
 ### Printed p. 110
@@ -3771,7 +3771,7 @@ O Indra, listen well सु शृणुहि (*su śṛṇuhi*) to our own pra
 
 O Indra, without heeding the praises of others, listen exceedingly to our praises; provide us with attractive foods; impel in us all understandings. O wealthy Indra, as an excellent giver, be the giver of cows to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Hear our praises, Indra, and bestow upon us many kinds of food : fulfil all over desires, and know yourself, Maghavan, to be to us the donor of cattle.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3837,7 +3837,7 @@ O Indra, you who were quickly नु (*nu*) praised स्तुतः (*stuta�
 
 O Indra, you who were exceedingly praised by the earlier seers and who are to be praised by us also with the same faith, fill food for me, the praiser, as rivers are filled with waters. O Indra, possessor of the horses called Hari, a new hymn is made for you. May we, possessing chariots, worship you with praise made with understanding and become offerers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -3960,7 +3960,7 @@ Indra is great, surpassing in qualities. "In what manner (कथा (*kathā*)) 
 
 In what manner do our praises make Indra, who is endowed with great qualities, grow? Of which worshipper, the accomplisher of the offering, does the great Indra go, partaking of the sacrifice, to meet the sacrificer? Drinking the abundant food in the form of Soma, desiring that very thing again and again, and partaking of it time after time, to which worshipper has the great Indra taken it upon himself to give brilliant wealth?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 In what manner may (any one) extol the mighty Indra? at the sacrifice of what worshipper may he, propitiated, be present drinking the sacrificial Soma berge, desirous of the (sacred) food, and pleased (by the oblation)? the mighty Indra is borne (to the rite) for the purpose of bestowing brilliant wealth.
 
 ### Printed p. 117
@@ -4034,7 +4034,7 @@ In this Ṛk and in some of the following Ṛks the seer Vāmadeva describes Ind
 
 Which hero, in time of battle, obtains the companionship of this Indra, who gives help in battle? Which man of merit gains the favourable thoughts of this Indra? When is this Indra's attractive wealth made known? When does Indra become manifest for the prosperity and the protection of the sacrificer, who praises and performs the sacrifice?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What hero has enjoyed his fellowship (in battle)? who has been a sharer in his benevolent thoughts? when does any one apprreciate his wonderful bounty ? when is he (present) for the promotion of the prosperity of the man who glorifies and worships him?
 
 ### Printed p. 119
@@ -4098,7 +4098,7 @@ Indra, endowed with supreme lordship: how does he hear the worshipper who calls 
 
 How does Indra, endowed with great lordship, hear the praise of the praiser who praises him? Having been praised in this manner, how does he come to know what protections are desired by the praiser in return for those praises? Of what kind are the ancient gifts of this Indra? In what manner can the Hotṛs praise Indra, who fulfils the desires wished for by the praiser?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 How is it that Indra hears (the worshipper) who invokes him? and hearing, how does he know his necessities? what are his gifts of old; why have they termed him the fulfiller (of the desires) of him who offers praise?
 
 #### Ṛk 4
@@ -4165,7 +4165,7 @@ When Indra, having taken the oblation, favours me (जुजोषत् (*jujo�
 
 How does the sacrificer, who praises Indra and shines through rites, though oppressed by enemies, obtain the wealth of cattle and the like belonging to Indra? When Indra, who has taken the food in the form of the oblation, turns towards me and is served, then may that same venerable Indra be the knower of the praises offered by me.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 How does he who glorifies Indra, and is diligent in his worship, although encountering opposition, obtain from him wealth? may the divine Indra be the appreciator of my praises, when accepting the sacrificial food he is propitiated towards me.
 
 #### Ṛk 5
@@ -4227,7 +4227,7 @@ The shining Indra, at the dawning (व्युष्टौ (*vyuṣṭau*)) of 
 
 In what manner and when does the shining Indra, at the time of the rising of this dawn, carry out his office of friend in order to help the human praiser? When and in what manner does the friendly act of Indra become manifest to those praisers who have spread out and offered, addressed to this Indra, the excellently offered oblation or praise?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 when, in what manner, at the dawning of this morning, has the divine Indra accepted the friendship of a mortal? when, and in what manner, (is) his friendship (manifested) to the friends who have spread out the desirable and suitable (offering) before him ?
 
 ### Printed p. 123
@@ -4292,7 +4292,7 @@ O Indra, may your friendly act, which destroys enemies, be declared in some way 
 
 The acts of this Indra, of excellent form, are all a cause of the welfare of all the praisers. The most attractive body of Indra, who moves radiant like the sun, is esteemed by all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we in any manner proclaim your friendship for your friends? when may (we make known) your fraternal regard? the efforts of thc well-looking Indra are for the happiness of all : the wonderful form of moving (Indra) is, like the sun, ever wished for.
 
 #### Ṛk 7
@@ -4352,7 +4352,7 @@ This Indra, wishing to slay (जिघांसन् (*jighāṃsan*)) the demo
 
 Wishing to kill the Rākṣasī who practises treachery, does violence and does not worship Indra, Indra made his weapons, already sharp, still sharper for her destruction. The days on which debts too torment us like enemies, those days Indra, of fearsome might and destroyer of debts, has pushed far away so that they do not come within our ken. That is, he has protected us so that we never groan under the burden of debt.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Resolving to kill the oppressing, malevolent (Rakshasi), not acknowledging Indra, he sharpened his sharp weapons for (her) destruction and the fierce (Indra), the canceller of debts, has kept afar the unknown dawns in which the debts (are to be paid).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -4429,7 +4429,7 @@ Here by the word ऋत (*ṛta*) is meant Indra, or Āditya, or truth, or sacri
 
 It is well known that the waters belonging to the god Ṛta are of many kinds. Praise addressed to Ṛta destroys sin. Praise addressed to Ṛta, filled with understanding and shining, opens man's deaf ears and gives them the power of hearing.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Many are the waters of Rita : the adoration of Rita destroys iniquities ; the intelligent and brilliant praise of Rita has opened the deaf (ears) of man.
 
 ### Printed p. 128
@@ -4494,7 +4494,7 @@ In the sacrifice called ऋतपेय (*ṛtapeya*), performed for one day onl
 
 The firm forms of the god Ṛta, of excellent form, which have the power to sustain the world, are of many kinds and delightful. With the help of Ṛta alone the singers obtain abundant food. With the help of Ṛta alone the milch cows enter the sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Many are the stable, sustaining, delightful forms of the embodied Rita : by Rita are (the pious) expectant of food ; by Rita have the cows entered into the sacrifice.
 
 #### Ṛk 10
@@ -4560,7 +4560,7 @@ The singer, restraining (येमानः (*yemānaḥ*) = नियच्छ�
 
 The singer, bringing the god Ṛta under his control by his praise, serves him alone. The strength of the god Ṛta grows swiftly and is desirous of water. Heaven and earth, wide and exceedingly deep, are ready to help the work of Ṛta. Heaven and earth, which satisfy the world and are excellent, milk the water in the form of rain with Ṛta in view alone.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The (worshipper) subjecting Rita (to his will) verily enjoys Rita : the strength of Rita is (developed) with speed, and is desirous of (possesing) water : to Rita belong the wide and profound heaven and earth : supreme milch cows, they yield their milk to Rita.
 
 ### Printed p. 131
@@ -4623,7 +4623,7 @@ O Indra, you who were exceedingly praised by the former seers and who, with the 
 ### Printed p. 132
 We who possess chariots, worshipping you with praise offered with understanding and offering oblations, may we become (givers of the oblation).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -4719,7 +4719,7 @@ Sūkta 24; Maṇḍala 4; Anuvāka 3; Sūkta 24. Aṣṭaka 3; Adhyāya 6; Varga
 
 What kind of praise can turn Indra, who is able to give us wealth and the like and is exceedingly mighty, towards us and make him favour us? O sacrificers who are men, Indra, the valiant protector of wealth such as cattle, snatches the riches belonging to the hostile enemies and is the giver of them to us who praise him.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What suitable praise may bring the son of strength, Indra, before us, to give us wealth : the hero, the lord of cattle, is the donor, oh man, of the wealth of his adversaries to him who glorifies him.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -4788,7 +4788,7 @@ The valiant Indra is called for help in battle, which destroys enemies. He is ex
 **Bhāvārtha** (continued)
 …he becomes the giver of wealth. That same wealthy Indra gives wealth in full to the sacrificer, a mortal, who praises him and presses Soma for the offering.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He, Indra, is to be invoked for the destruction of Vritra : he, the deservedly praised. is to be worshipped : the real donor of wealth, he, Maghavan, gives wealth, (acquired) in battle, to the mortal who offers him prayer and libations.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -4856,7 +4856,7 @@ The men (the leaders, human beings) call upon that very Indra in various ways in
 
 The sacrificers, being men, call upon Indra alone in battle for help, praising him in various ways. The sacrificers who worship Indra after making their bodies lean by austerity make him alone their protector. When the sacrificers and the praisers gather together and approach the bountiful Indra, there is no doubt that both groups obtain wealth in the form of sons and grandsons.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Men verily call upon him in battle : the (devout) inflictors of auste- rity upon their persons constitute him their preserver : when both (the worshipper and the priest) approach together the bountiful Indra, men (succeed) in (obtaining) the gift of sons and grandsons.
 
 #### Ṛk 4
@@ -4924,7 +4924,7 @@ O Indra, possessed of manifested and terrible might: men eager for rain join tog
 
 ### Printed p. 140
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Powerful Indra, men variously dispersed, come mutually together to celebrate sacred rites for the sake of obtaining rain: when men who are combatants assemble in battle, there are some of them who rely upon Indra.
 
 #### Ṛk 5
@@ -4986,7 +4986,7 @@ Then, at that very time of battle, other warriors (नेमे (*neme*) = other
 
 As soon as the battle has come, some warriors worship the mighty Indra. Immediately thereupon they cook the oblation in the form of purodāśa and offer it to Indra. Immediately the sacrificer who has pressed Soma for the sacrifice separates himself from the man who is not a sacrificer (and hence has not pressed Soma). At once he desires to perform sacrifice to Indra, the showerer of desires.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Thereupon some verily worship the powerful (Indra); thereupon one man prepares the buttered cake that he may offer it to (Indra); thereupon the offerer of the Soma he distinguishes from him who presents no libation ; thereupon some one rejoices to worship the showerer (of benefits).
 
 #### Ṛk 6
@@ -5050,7 +5050,7 @@ The sacrificer who presses Soma, that is, performs the pressing, for Indra, who 
 
 The sacrificer on earth who presses Soma for offering to Indra, who desires Soma: to such a sacrificer Indra, though he is in heaven, provides wealth from there itself. Indra makes in battles his friend that sacrificer who, with a mind united to him in the form of yoga, has meditated on him alone and desired his help.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra bestows wealth upon him who offers a libation to him, desiring it, though in another sphere; and with an humble mind, makes him who is devoted to him his friend in combats.
 
 #### Ṛk 7
@@ -5114,7 +5114,7 @@ Today, on this day, the sacrificer who would press (सुनवत् (*sunavat
 
 The sacrificer who praises Indra, and who today, addressing Indra, presses Soma, cooks the purodāśas and other things fit for cooking, parches barley and other grains to make them fit for eating, and offers them to Indra with praise of him: Indra, desiring and accepting the hymns of such a sacrificer, brings about in him strength that showers desires.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra accepting graciously the praises of his devoted (worshipper), who to-day pours out the libation to him, who toasts the buttered cakes
 
 ### Printed p. 144
@@ -5174,7 +5174,7 @@ When Indra, the destroyer of enemies (ṛghāvā), distinguishes the enemy who i
 
 When Indra, the destroyer of enemies, has well understood the enemy fit to be slain at once, and when Indra the lord stands looking on the battle with great eagerness, then his wife, in the sacrificial house, calls out to Indra, who has been made eager by the Soma-pressing priests and who is the showerer of desires, so that he may come towards her.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When the destroyer (of enemies) distinguishes a mortal foe ; when the lord is engaged in the long (continued) battle, (his) bride summons to the dwelling the showerer (of benefits), encompassed by the offerers of the libation.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5244,7 +5244,7 @@ On this Ṛk, traditional earlier teachers recite certain verses, which are writ
 
 A seller, whether from haste or ignorance, sells an article of great value at a small price; afterwards, becoming aware of its worth, he comes to the buyer and says "I have not sold you my article", and demands either his article or the balance due according to its worth. But the buyer does not wish to give back such a valuable article and get again a small sum. Whether capable or incapable, people must get only the price they fixed by speaking at the time of purchase.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 A man has realized a small price for an article of great value, and again coming (to the buyer he says) this has not been sold ; I require the full price; but he does not recover a small price by a large (equivalent): whether helpless or clever they adhere to their bargain.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5314,7 +5314,7 @@ Sāyaṇa explains: who buys this Indra, who is "mine" (my own), with ten milch 
 
 With the devotee who buys, for help, this Indra whom I have made my own by praise and the like, with gratifying hymns ten in number, I make the following compact: "O devotee of Indra, this Indra is mine. You have bought him only for a time. As soon as he has destroyed your enemies, you must send him back to me." That is the compact.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Who buys this, my Indra, with ten milch cows? when he shall have slain (your) foes, then let (the purchaser) give him again to me.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5380,7 +5380,7 @@ O Indra, you who were exceedingly praised by the earlier seers and are to be pra
 ### Printed p. 152
 May we, who possess chariots, worship you with praise offered with understanding and become offerers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever diligent in your praise.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5478,7 +5478,7 @@ Today, on this day, which sacrificer, beneficial to men (नर्यः (*narya
 
 Which sacrificer, beneficial to men and desiring the help of the gods, serves Indra today, seeking his friendship? Which sacrificer, having pressed the soma juice, when the fire is kindled for the sacrifice, praises Indra for great and boundless protection?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What friend of man, or worshipper of the gods, deserving the friendship of Indra, has to-day enjoyed (it)? or what offerer of the libation on the kindled fire praises him (sufficientlty) for his great and unbounded protection?
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5548,7 +5548,7 @@ Sāyaṇa explains: which sacrificer bows to Indra, who is worthy of Soma, with 
 
 Which sacrificer worships and bows to Indra, who is worthy of Soma-drinking, with praise in the form of speech? Who becomes desirous of praising Indra? Which sacrificer nourishes the cows given by Indra? Who is the sacrificer who desires Indra's help? Who is the sacrificer who desires Indra's friendship and brotherhood? Who is the sacrificer who gives satisfaction to Indra, who sees beyond?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 who has reverenced with (suitable) words the (deity) worthy of the libation ? who supports the cattle (given by him)? who desires the society of Indra ? who his friendship ? who his fraternity ? who (has recourse) to the sage Indra for protection ?
 
 ##### विशेषविषयगळु (Special Topics)
@@ -5611,7 +5611,7 @@ Today, at this sacrifice, which sacrificer solicits (वृणीते (*vṛ�
 
 Which sacrificer today desires and begs the protection of the gods, Indra and the rest? Who begs of the gods, sons of Aditi, of Aditi, and of water, which is of the nature of radiance? Of which sacrificer, pleased by his praise, do the Aśvin gods, Indra and Agni drink the Soma pressed and offered by him until they are satisfied?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 who solicits to-day the protection of the gods ? who glorifies the Adityas, Aditi, light ? of whose effused libation do the Ashwins, Indra, Agni, drink at will, propitiated by his praise ?
 
 #### Ṛk 4
@@ -5677,7 +5677,7 @@ The sacrificer who resolves, "Let us press Soma for the sacrifice, for Indra, wh
 
 ### Printed p. 160
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Agni, the bearer of oblations, grant him felicity, and long behold the rising sun (in the dwelling of him) who says, let us offer libations to Indra, leader (of rites), the friend of man, the chief leader amongst leaders.
 
 #### Ṛk 5
@@ -5741,7 +5741,7 @@ Neither many nor few (दभ्राः (*dabhrāḥ*)) enemies harm that sacri
 
 May the enemies not harm the sacrificer who wishes to offer Soma to Indra. Whether those enemies be many or few, may this sacrificer suffer no trouble from them. The sacrificer who performs excellent sacrifices for Indra's satisfaction, who praises Indra, who approaches Indra with fear and devotion, and who offers Soma to Indra becomes an object of Indra's affection. Even if he pleases Indra in only one of these ways, he becomes worthy of his regard.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Him neither many nor few can molest : may Aditi grant him infinite happiness : the performer of pious acts is dear (to Indra) : dear to Indra is he whose mind is intent upon him ; dear is he who approaches him with homage ; dear to him is the offerer of the libation.
 
 #### Ṛk 6
@@ -5804,7 +5804,7 @@ Sāyaṇa says: this hero Indra, "prāśuṣāṭ", who swiftly and powerfully o
 
 Sacrificers should approach Indra, who destroys enemies very swiftly and is valiant, with the utmost humility. Indra provides unique food-wealth to the one who presses Soma for him. To the sacrificer who does not press Soma and does not perform the sacrifice he does not bring welfare; he is neither a friend nor a kinsman to him. And to the sacrificer who does not praise Indra he is simply not obtainable. Such a one he certainly smites.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 This hero, Indra, the prompt discomfiter (of foes), who is to be approached with homage, grants special maturity to the presenter of the libation : he is not the kinsmen, nor friend, nor relative, of him who offers no oblation (to him) : he is difficult of access, and the punisher of him who repeats not (his) praise.
 
 ### Printed p. 163
@@ -5864,7 +5864,7 @@ Indra, who drinks the pressed Soma, does not wish to enter into friendship with 
 
 ### Printed p. 164
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Indra), the drinker of the effused Soma, contracts no friendship with the wealthy trader who offers not any libation; he takes away his wealth; destroys him when destitute; but he is a special (friend) to him who presents the libation and oblation.
 
 #### Ṛk 8
@@ -5923,7 +5923,7 @@ Sāyaṇa says: people who are "para", exalted, and those who are "avara", lowly
 
 The exalted and the lowly pray to Indra and call him for help. Those belonging to the middle class too look to his help alone. All mankind, those who set out to accomplish an undertaking, those who sit, those who dwell at home, those who fight with enemies, and those who desire food, look to Indra's help alone and call on him in prayer.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The most exalted, the most humble, (invoke) Indra; the middle (classes) invoke Indra ; those going, those stopping, (invoke) Indra ; those dwelling at home, those going to battle, (invoke) Indra ; men needing food invoke Indra.
 
 ## Sūkta 26 (Maṇḍala 4)
@@ -6015,7 +6015,7 @@ With these first three mantras Vāmadeva, while still in the womb, having attain
 
 I, renowned by the name Vāmadeva, am the Prajāpati who knows everything. I am also Sūrya, the impeller of the world. I am also the wise seer named Kakṣīvān. I am the one who favoured Kutsa, son of Arjuni. I am also the far-seeing seer Uśanas. O mankind, know me alone as the all-pervading one, the Self of all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have been Manu and Surya : I am the wise Rishi, Kakshivath ; I have befriended Kutsa, the son of Arjuni: I am the far-seeing Ushanas ; so behold me.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -6078,7 +6078,7 @@ The Phalgunīs are Indra's constellations. There is agreement in the name as wel
 
 In the Ṛks त्वं शुष्णं वृजने प्रक्ष आण् यूने कुत्साय द्युमते सचाहन् । (*tvaṃ śuṣṇaṃ vṛjane prakṣa āṇ yūne kutsāya dyumate sacāhan |*) (Ṛ. 1-63-3) and कुत्साय यत्र पुरुहूत वन्वञ्ष्णमनंतैः परियासि वधैः । (*kutsāya yatra puruhūta vanvañṣṇamanaṃtaiḥ pariyāsi vadhaiḥ |*) (Ṛ. Saṃ. 1-121-9), and likewise in many other places, it is described that Indra killed Śuṣṇa to help Kutsa. And in आहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*āhaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛ. Saṃ. 10-49-4) Indra himself says: "For Kutsa I overcame Vetasu, Tugra, Smadibha and all such enemies and helped my friend." But in Ṛks such as त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने आरंधनायः । (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ |*) (Ṛ. Saṃ. 1-53-10) and य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे । (*ya āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive |*) (Ṛ. Saṃ. 8-53-2) it is described that Indra defeated Kutsa and others. About him the scholar Keith has said in his work Religion and Philosophy of the Vedas as follows:
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Sushan's chief rival is Kutsa, who appears as battling against him, and as victor by the aid of Indra, who, for his sake tore from the Sun a wheel, prolonging the daylight and thus enabling, it may be assumed, Kutsa to turn the issue of the battle. The feat of Indra is several times mentioned and the fact that Kutsa is a real hero is suggested though not proved, by the fact that elsewhere he appears in hostile relation to Indra, just as Athithigva, who is normally the protege of Indra, in one or two places apyears
 
 ### Printed p. 174
@@ -6140,7 +6140,7 @@ In the reverse relation. It is true that it is not to be expected that a god, or
 
 I, who am called Vāmadeva, have given the earth to the venerable Manu. For the sacrificer, a human who offers oblations, it is I who have poured down rain. It is I too who have spread the sounding waters so that they flow in all regions. All the gods, Agni and the rest, follow my resolve.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I gave the earth to the venerable (Manu): I have bestowed rain upon the mortal who presents (oblations); I have let forth the sounding waters: the gods obey my will.
 
 #### Ṛk 3
@@ -6195,7 +6195,7 @@ I, Vāmadeva, or Indra, exhilarated by Soma, destroyed at one stroke nine and ni
 
 When I, famed as Vāmadeva (Indra in nature), protected, at the sacrifice that protects all, the royal seer Divodāsa who honours guests, then, gladdened by drinking Soma, I destroyed together the ninety-nine cities belonging to the asura Śambara. And the hundredth city I made fit for Divodāsa to dwell in.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Exhilarated (by the soma beverage) I have destroyed the ninety and nine cities of Shambara; the hundredth I gave to be occupied by Divo-dasa when I protected him, Atithigva, at his sacrifice.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -6279,7 +6279,7 @@ Now the hawk is praised with this verse and those that follow. O Maruts, you are
 
 O Maruts, by the power of its own with which this hawk, having excellent wings, carried to Prajāpati in the form of Manu, by a wheelless chariot, the food in the form of Soma that is fit to be enjoyed by the gods, for that very reason may the swiftly moving hawk be superior to the other hawks.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May this bird, Maruts, be pre-eniment over (other) hawks, since with a wheelless car the swift-winged bore the Soma, accepted by the gods to Manu.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -6348,7 +6348,7 @@ When the bird, the hawk, frightening the guardians of the Soma, fetched Soma fro
 
 When the hawk frightened the guardians of the Soma and carried off the Soma from the heavenly world, it flew back, joined with that same sweet Soma, along the wide path of the firmament, with the speed of thought, with exceeding speed. For that very reason the hawk obtained exceeding fame in this world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 when the bird, intimidating (its guardians), carried off from hence (the Soma) it was at large: (flying) swift as thought along the vast path of the firmament), it went rapidly with the sweet Soma plant, and the hawks thence acquired celebrity in this world.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -6424,7 +6424,7 @@ The hawk (ṛjīpī), flying straight, from afar (parāvataḥ) holding (dadamā
 
 That same hawk, which flies straight without crooked course and whose flight is praiseworthy, came bearing the Soma plant from an exceedingly distant region. It took the praiseworthy, joy-giving Soma from the exceedingly lofty region, the heavenly world, and carried it off with firm resolve.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The straight-flying hawk, conveying the Soma plant from afar; the bird, attended by the gods, brought, resolute of purpose, the adorable exhilarating Soma, having taken it from that lofty heaven.
 
 #### Ṛk 7
@@ -6482,7 +6482,7 @@ The hawk (śyena), the bird of praiseworthy gait, took (ādāya) the Soma, the f
 
 The hawk came, carrying off the Soma for the sake of sacrifices, a thousand in number and of countless number. Immediately on this carrying off of the Soma, Indra, the performer of many acts, wise and steady of mind, in the exhilaration arising from drinking Soma, destroyed the foes, who were bewildered and unsteady of mind.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Having taken it, the hawk brought the Soma with him to a thousand and ten thousand sacrifices, and this being provided, the performer of many (great) deeds, the unbewildered (Indra) destroyed, in the exhilaration of the Soma, (his) bewildered foes.
 
 ### Printed p. 185
@@ -6553,7 +6553,7 @@ On this verse a śloka is recited. Having taken on the nature of a hawk, the see
 
 While still in the womb, I, named Vāmadeva, knew all the forms of origin of the gods, Indra and the others. Before this, many bodies, hard as iron rods, held me back and obstructed me so as to give no opportunity for realisation of the Self. Having taken on the form of a hawk, I have now, with great speed, pierced through the mother's body and come out.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Being still in the germ, I have known all the births of these
 divinities in their order : a hundred bodies of iron confined me, but as
 a hawk I came forth with speed.
@@ -6621,7 +6621,7 @@ That embryo did not carry me, Vāmadeva, away to जोषं (*joṣaṃ*), tha
 
 Although the iron-like bodies obstructed me in the womb, I was not enveloped by ignorance or delusion. I overcame the suffering of the womb by a power that is sharp and of the nature of knowledge. The Supreme Self, the impeller of the world and fully complete, destroyed the enemies lodged in the womb, and passed beyond the distress-causing winds of the womb.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 That embryo did not beguile me into satisfaction, but by the keen energy (of divine wisdom), I triumphed over it : the impeller of all, the sustainer of many, abandoned the foes (of knowledge), and, expanding, passed beyond the winds (of worldly troubles).
 
 #### Ṛk 3
@@ -6687,7 +6687,7 @@ Then, at the time of fetching the Soma, when the hawk from the heavenly world ut
 
 At the time of fetching the Soma, as soon as the hawk, descending from the heavenly world, made its cry, the Soma-guardians understood that the Soma had been carried off. Then Kṛśānu, a Soma-guardian, running in pursuit with the speed of the mind, fixed the string on his bow, and aiming at the hawk, released an arrow.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When the hawk screamed (wita exultation) on his descent from heaven, and (the guardians of the Soma) perceived that the Soma was (carried away) by it, then, the archer Krishanu, pursuing with the speed of thought, and stringing his bow, let fly an arrow against it.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -6851,7 +6851,7 @@ The ऋजिप्य (*ṛjipya*), the straight-going hawk (श्येन (*
 
 As the Aśvins carried Bhujyu, so this straight-flying hawk too carried the Soma from the atmosphere, which is protected by Indra, great, and situated in a very lofty region. But in the battle that arose at that time, a falling feather from the middle of this bird, struck by a weapon, dropped down.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The straight-flying hawk carried off the Soma from above the vast heaven, as (the Ashwins carried off) Bhujyu from the region of Indra, and a falling feather from the middle of the bird dropped from him wounded in the conflict.
 
 #### Ṛk 5
@@ -6916,7 +6916,7 @@ Now, the hero (शूरः (*śūraḥ*)), the valiant Maghavan, the wealthy In
 
 May Indra, the valiant and wealthy, accept the Soma juice, which is pure white, placed in the pitcher-vessel, mixed with milk **NOTE**, satisfying, essential, offered by the Adhvaryus, to drink for his own delight. May he drink the upper part of the sweet Soma juice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Now may Maghavan accept the pure nutritious (sacrificial) food in a white pitcher, mixed with milk and curds, offered by the priests; the upper part of the sweet (beverage) to drink for his exhilaration : may the hero accept (it) to drink for (his) exhilaration.
 
 ## Sūkta 28 (Maṇḍala 4)
@@ -6997,7 +6997,7 @@ O Soma, in that friendship that is yours, with you (त्वा (*tvā*)) as hi
 
 O Soma, because of your friendship with Indra, Indra, joined with you, with your help, made the waters fit for flowing to flow for the good of mankind. Having slain the asura Vṛtra, he opened the doors of the flow, even though Vṛtra had closed them, and made the seven great rivers flow.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Through that friendship, Soma, which has united you with your (friend) Indra, he has made the waters flow for man; he has slain Ahi; he has sent forth the seven rivers, and has opened the shut-up sources (of the stream).
 
 #### Ṛk 2
@@ -7055,7 +7055,7 @@ Sāyaṇa construes the verse as follows. "O Indu, O Soma, Indra, at once (स�
 
 O Soma, with your help alone Indra tore away by force the wheel of Sūrya's chariot, which stands in the very elevated and vast firmament. That wheel, belonging to Sūrya and moving everywhere, was carried off.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 With you, Soma, for his ally, Indra has quickly taken off by force
 the wheel of the chariot of the sun, abiding above with the vast and
 stationary (firmament): the everywhere-going wheel (of the car) of the
@@ -7137,7 +7137,7 @@ Some Asuras had obtained a boon from Brahmā that Indra's thunderbolt should not
 
 O Soma, Indra, who had drunk you before midday, killed the enemies in battle. Agni too, with your help alone, destroyed all the enemies. As robbers strike and harm travellers going about their own business in a dense fastness that cannot be guarded and from which one cannot escape, so Indra destroyed without remainder the thousands of Asuras who went about there.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra has slain the Dasyus, Soma, in battle: Agni has consumed
 them before the noon: he (Indra) has destroyed the whole of many
 thousands, as (robbers are the destroyers of those) going upon (their own)
@@ -7196,7 +7196,7 @@ business, in a difficult and dangerous (place).
 
 O Indra, you made these Dasyus fall from all good qualities. You made the human peoples who lacked rites fit for blame. O Indra and Soma, harm the enemies completely and destroy them. Accept the grateful worship of the people who have been benefited by the destruction of the enemies.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra, you have made these Dasyus devoid of all (good qualities);
 you have made the servile races abject : may you, (Soma and Indra), repel
 (and) destroy (your) enemies: accept (our) homage for their destruction.
@@ -7259,7 +7259,7 @@ O Soma and Indra, wealthy and destroyers of enemies, it is true that you both re
 
 ### Printed p. 209
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Possessors of wealth, destroyers of foes, Indra and Soma, it is indeed true that you have distributed great numbers of horses, and of the cattle which has been concealed, and the land which you had recovered by your strength.
 
 ## Sūkta 29 (Maṇḍala 4)
@@ -7340,7 +7340,7 @@ This sūkta, beginning आ नः स्तुतः (*ā naḥ stutaḥ*), is t
 
 O Indra, delighted by drinking Soma, lord of all, praised with hymns, possessor of wealth of the nature of truth, praised by the praisers, be pleased to come with your horses, for our protection, to our numerous sacrifices that have arrived with their food.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Honoured with accepted (sacrificial) viands, come, Indra, exulting,
 with your steeds, to our many rites for our protection; you who are the
 lord, glorified by hymns, whose wealth is truth.
@@ -7400,7 +7400,7 @@ Indra is नर्यः (*naryaḥ*), beneficial to men, and चिकित्
 
 May Indra—who is possessed of excellent horses, fearless, praised by those who press the excellent Soma, beneficial to men, omniscient, and joyful with the heroic Maruts—being prayed to by the Ṛtvijs who press Soma, graciously come facing our sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra, the friend of man, the omniscient, come to the sacrifice when invoked by the offerers of libations; he who is possessed of good horses, who is fearless, honoured by the effusers of libations, who rejoices with the heroes (the Maruts).
 
 ### Printed p. 212
@@ -7463,7 +7463,7 @@ O praiser, praise Indra so as to make his ears powerful to listen, and so as to 
 
 ### Printed p. 213
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Let (his worshipper) cause his ears to listen so as to invigorate him (by praise), and to give him pleasure in every acceptable place; and being well moistened with the Soma juice, may the vigorous Indra render the holy places (conducive) to our wealth, and free from danger.
 
 #### Ṛk 4
@@ -7521,7 +7521,7 @@ Indra, वज्रबाहुः (*vajrabāhuḥ*) (thunderbolt in hand), plac
 
 The thunderbolt-bearing Indra who joins in front of the chariot thousands and hundreds of swift horses that are under his own control, and who goes forth facing the sacrificer—one praying for protection, wise, calling for help, and praising Indra's various qualities—may that same Indra make fearlessness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (That Indra), who repaires to the suppliant for (his) protection, to the sage in this manner invoking and praising him ; he who, armed with the thuderbolt, places, of his own accord, hundred and thousands of swift-going (horses) in the shafts (of their cars).
 
 #### Ṛk 5
@@ -7578,7 +7578,7 @@ O Maghavan Indra, we are त्वोतासः (*tvotāsaḥ*), protected by 
 
 O wealthy Indra, graciously grant that we—protected by you, wise, praising you, praisers—may keep praising you in order to receive the gift of your wealth, you who shine exceedingly, are praised everywhere, and have abundant food.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Opulent Indra, may we, who are protected by you, who are intelligent, devout, and offerers of praise, be participant with you for the sake of distributing brilliant wealth, and abundant food, entitled to (our) commendation.
 
 ### Printed p. 216
@@ -7662,7 +7662,7 @@ O Indra, slayer of Vṛtra: in the world not even one is superior to you, more e
 
 O Indra, slayer of Vṛtra, there is no one more excellent than you. There is no one more worthy of praise than you. Apart from you there is no other who is endowed with such virtues as those by which you are renowned.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 There is no one, Indra, superior to you; no one more excellent (than you); slayer of Vritra there is no one, verily, such as you are.
 
 #### Ṛk 2
@@ -7715,7 +7715,7 @@ O Indra, the peoples (kṛṣṭayaḥ), looking to you, truly turn toward you. 
 
 O Indra, as all the wheels rest on the cart, so all the peoples, looking to you, certainly resort to you. O Indra, you are truly one of great qualities and renowned.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily men are attached to you as are all the wheels (to the body of the waggon): in truth you are great and renowned.
 
 #### Ṛk 3
@@ -7765,7 +7765,7 @@ O Indra, all the gods, desirous of conquering the Asuras, having obtained you as
 
 O Indra, because of that power of yours by which you fought without pause through days and nights and destroyed the enemies, all the gods too, having obtained you as their helper, their very breath, fought with the enemies.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily all the gods, with you (for) their strength, have warred (with the Asuras); wherefore you have destroyed them by day and by night.
 
 #### Ṛk 4
@@ -7814,7 +7814,7 @@ In whatever battle, O Indra, you stole the wheel belonging to the sun for Kutsa,
 
 O Indra, in the battle in which you carried off the wheel of the sun, for the followers of Kutsa harmed by enemies and with the intention of helping Kutsa, in that battle you protected him.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 In which (contests), for the sake of Kutsa and his allies you have stolen, Indra, the (wheel of the car) of the sun.
 
 #### Ṛk 5
@@ -7863,7 +7863,7 @@ O Indra, you alone, without helper, in whatever battle fought all the Rākṣasa
 
 O Indra, without seeking the help of any other gods or men, you alone, in whatever battle, faced and fought all the Asuras who were harming gods, men and others, and killed all those violent ones; in that battle you protected Kutsa.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 In which (contests), you singly indeed have warred with all those opposing the gods : you, Indra, have slain the malignant.
 
 #### Ṛk 6
@@ -7910,7 +7910,7 @@ In whatever battle, O Indra, you harmed the sun for the sake of a mortal, a man,
 
 O Indra, in the battle in which you harmed the sun for the sake of the seer named Etaśa, a man, in that battle you protected Etaśa completely by your battle-deeds.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 In which (contests), Indra, you have, for the sake of a mortal, discomfited the sun, and have protected Etasa by (your) exploits.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -7967,7 +7967,7 @@ O Indra, slayer of Vṛtra and wealthy one, for what purpose, and where, do you 
 
 ### Printed p. 224
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Wherefore, slayer of Vritra, opulent Indra, have you thereupon become most incensed, and, in consequence, have slain the son of Danu (Vritra) in this firmament.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8024,7 +8024,7 @@ Dānu: Danu is an Asura woman. Her son is called Dānu. Here the commentator exp
 
 O Indra, when you displayed the prowess described above, as indicated, characteristic of a man, you slew the woman who was bent on harming in an evil manner, the daughter of the firmament.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Inasmvch, Indra, as you have displayed such manly prowess, you have slain the woman, the daughter of the sky, when meditating michicf.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8074,7 +8074,7 @@ Divaḥ duhitaraṃ striyam: here "woman" means Danu, the Asura woman who was th
 
 O Indra, you of great nature have utterly harmed the goddess Uṣas, the daughter of the world of heaven, who has attained honour.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You, Indra, who are mighty, have enriched the glorious dawn, the daughter of heaven.
 
 #### Ṛk 10
@@ -8117,7 +8117,7 @@ You, Indra, who are mighty, have enriched the glorious dawn, the daughter of hea
 
 As soon as Indra, the showerer of desires, utterly destroyed the chariot of Uṣas, the goddess Uṣas, greatly frightened, went down from the cart crushed by Indra.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The terrified Ushas descended from the broken waggon when the (showerer of benefits) had smashed it.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8170,7 +8170,7 @@ In this ṛk, and in the following and the preceding ones, there is the descript
 
 As soon as the chariot of Uṣas, utterly destroyed by Indra, lay rolled over on the bank of the river Vipāṭ, the goddess Uṣas went away to a very distant region.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Then her shattered waggon reposed (on the bank) of the Vipash (river), and she departed from afar.
 
 #### Ṛk 12
@@ -8223,7 +8223,7 @@ Then her shattered waggon reposed (on the bank) of the Vipash (river), and she d
 
 O Indra, by your power of insight you have made the Sindhu river, which was in full flow but had been held back by the asuras, spread out and flow all around over the earth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have spread abroad upon the earth, by your contrivance, the swollen Sindhu when arrested (on its course).
 
 #### Ṛk 13
@@ -8273,7 +8273,7 @@ You have spread abroad upon the earth, by your contrivance, the swollen Sindhu w
 
 O Indra, you, the assailant of enemies, when you utterly destroyed the cities of the asura named Śuṣṇa, then you also utterly destroyed that asura's wealth (you carried it off).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 By valour you have carried off the wealth of Shushna, when you had demolished his cities.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8328,7 +8328,7 @@ By valour you have carried off the wealth of Shushna, when you had demolished hi
 
 O Indra, you have killed the destroyer Śambara the asura, son of Kulitara, by turning him head downward and hurling him down from the top of the very lofty mountain.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have slain the slave Shambara, the son of Kulitara, hurling him from off the huge mountain.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8384,7 +8384,7 @@ Ninety (1-130-7), generally ninety-nine (2-19-6, etc.) or a hundred (2-14-6, etc
 
 O Indra, you have completely killed the followers, numbering five hundred and thousands, of the asura named Varcin, the thorn of the world, who stand round their leader as the rim of a wheel encircles the wheel.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have slain the five hundreds and thousands (of the followers) of the slave Varchin, (surrounding) him like the fellies (round the spokes of a wheel).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8437,7 +8437,7 @@ Varcin—This Varcin is an asura who is an enemy of Indra; in some places he is 
 
 Indra, the performer of many acts, made the well-known Parāvṛja, son of the woman named Agrū, a sharer in the hymns addressed to himself.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You, Indra, are Shatakratu; you have made Paravrij, the son of Aggru, participant in sacred hymns.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8571,7 +8571,7 @@ In ṛks of this kind the above point is indicated. In this mantra and in some o
 
 Indra, the protector of rites and knower of everything, made the famous kings named Turvaśa and Yadu, who were unfit for inauguration because of Yayāti's curse, fit for inauguration.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The lord of acts, the wise Indra, has borne across (their difficulties), Turvasas and Yadu, when denied inauguration.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8676,7 +8676,7 @@ O Indra, the kings named Arṇa and Citraratha, famous men who belonged to the g
 
 ### Printed p. 244
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have slain at once those two Aryas, Arna and Chitraratha, (dwelling) on the opposite (bank) of the Sarayu.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8731,7 +8731,7 @@ O Vṛtrahan, Indra, slayer of Vṛtra: you led forward these two, one blind, wi
 
 O Indra, slayer of Vṛtra, when one blind man without eyes and one lame man without legs were abandoned by their kinsmen, you favoured both and gave the blind man eyes and the lame man legs. And it is not possible to surpass that happiness given by you with any other kind of happiness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Slayer of Vritra, you have restored the (one who was) blind, the (other who was) lame, both abandoned (by their kin) : (it is not possible) to exceed the happiness that is given by you.
 
 #### Ṛk 20
@@ -8778,7 +8778,7 @@ Indra hurled down a hundred cities built of stone, belonging to Śambara, for th
 
 Indra overturned the cities of the demon Śambara, hundreds in number and built of rock, and helped the sacrificer named Divodāsa, who offered oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra has overturned a hundred stone-built cities for Divodas, the donor of oblations.
 
 #### Ṛk 21
@@ -8824,7 +8824,7 @@ Indra, by his own power of māyā, slew with weapons, the instruments of killing
 
 By his power of wisdom, Indra destroyed thirty thousand world-destroying Rākṣasas with sharp weapons that serve for killing, in order to help the Ārya named Dabhīti.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He put to sleep, by delusion, with his destructive (weapons), thirty thousand of the servile (races) for the sake of Dabhiti.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -8884,7 +8884,7 @@ Sāyaṇa explains: O Indra, you who have cast down all those enemies. O Vṛtra
 
 O Indra, slayer of Vṛtra: you, the herdsman, who threw down and destroyed all the Asuras mentioned above, are that same one, having equal affection toward all sacrificers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Slayer of Vritra, you are the same (to all your worshippers) the lord of cattle, who cast down all these (your enemies).
 
 #### Ṛk 23
@@ -8937,7 +8937,7 @@ Sāyaṇa explains: O Indra, the manly strength of yours, endowed with capacity 
 
 O Indra, there is no one at the present time who can resist that capacity, showing your manly nature, which you have displayed.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When, indeed, Indra, you excite your vigorous manhood, there is no one at the present time who may resist it.
 
 #### Ṛk 24
@@ -8994,7 +8994,7 @@ Sāyaṇa explains: O Ādura, splitter of enemies, Indra: whatever desirable, sh
 
 O Indra, destroyer of enemies who split them: whatever wealth of yours, venerable to all, there is, may Aryaman, who restrains and punishes the enemy, Pūṣan whose teeth are cut off, and Bhaga also, distribute that wealth to all of us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Destroyer of foes, may the devine Aryaman distribute your precious wealth ; (may) Pushan (bestow it), (may) Bhaga (bestow it); may the toothless deity bestow the desired wealth.
 
 ### Printed p. 251
@@ -9084,7 +9084,7 @@ Sāyaṇa explains: Indra, सदावृधः (*sadāvṛdhaḥ*) ever increa
 
 By what kinds of satisfactions does Indra, ever growing, worthy of worship and a friend, come toward us? By what action done with wisdom does he come toward us?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 By what means may he who is ever augmenting, who is wonderful who is our friend, be present with us, by what most effective rite ?
 
 ### Printed p. 253
@@ -9131,7 +9131,7 @@ Sāyaṇa takes मंहिष्ठः (*maṃhiṣṭhaḥ*) as "worthy of ho
 
 O Indra, which Soma juice, the most worthy of honour and of the nature of truth among the juices that cause exhilaration, can inspirit you to destroy completely the wealth of the enemies, even though it is very firmly held?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What genuine and most esteemed of the exhilarating juice of the (sacrificial) beverage may inspirit you to demolish the substantial treasures (of the foe).
 
 ### Printed p. 254
@@ -9178,7 +9178,7 @@ O Indra, you are the protector of your friends (सखीनां (*sakhīnā�
 
 O Indra, you are the complete protector of the praisers who are your friends. Since we too praise you, we are your friends. Therefore be favourable to us with many kinds of protections.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The protector of us your friends and praisers, be present with a hundred protections.
 
 #### Ṛk 4
@@ -9226,7 +9226,7 @@ O Indra, like a revolving wheel (वृत्तं चक्रं न (*vṛtt
 
 O Indra, made glad by the praises of men, come back, like a revolving wheel, to face us who take refuge in you alone for help.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Induced) by the praises of men, return like a revolving wheel to us, dependent (upon your favour).
 
 #### Ṛk 5
@@ -9273,7 +9273,7 @@ O Indra, you come to the downward, sloping places (प्रवतः प्र�
 
 O Indra, you certainly come to the lower sacrificial places that belong to the sacrificers who perform the rites, knowing them to be your own regions. At that time we worship you together with the Sun.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Come in a downward (direction) to sacred rites, as if to your own station : I glorify you together with the sun.
 
 #### Ṛk 6
@@ -9323,7 +9323,7 @@ O Indra, when the praises (मन्यवः (*manyavaḥ*)) meant for you are 
 
 O Indra, whenever we recite praises addressed to you and perform rites such as sacrifices, those praises and rites are first offered in you and afterwards in the Sun.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When your praises, and these sacred rites Indra, are addressed to you, thay first belong to you, and next to Surya.
 
 #### Ṛk 7
@@ -9369,7 +9369,7 @@ O Indra, lord of Śacī (शचीपते (*śacīpate*)), protector of rites,
 
 O Indra, protector of rites, your praisers call you, the wealthy one, a giver and shining; this is certain.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Lord of holy acts, they call you Maghvan, the munificent, the respiendent.
 
 #### Ṛk 8
@@ -9419,7 +9419,7 @@ And, O Indra, you give at once (सद्य इत् (*sadya it*)) to the one 
 
 O Indra, to the sacrificer who praises you and presses Soma for you, you give wealth of many forms in many ways as soon as you resolve; this is certain.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And verily you give promptly abundant wealth to him who praises you and offers you l'bations.
 
 #### Ṛk 9
@@ -9468,7 +9468,7 @@ Sāyaṇa says: O Indra, the Āmuras, that is, obstructing demons and the like, 
 
 O Indra, the harming demons surely cannot obstruct your manifold wealth, that is, cannot destroy it. Nor can they hold back those powers of yours that bring harm to them.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Adversaries diminish not your hundred-fold opulence, nor resist the energies of you opposing (them).
 
 #### Ṛk 10
@@ -9518,7 +9518,7 @@ O Indra, may your hundred protections protect us; may your thousand protections 
 
 O Indra, may your hundreds of protections protect us. Your ways of protecting are still more boundless; may such thousands of protections protect us. May all your aims be protective for us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May your hundred, your thousand, protections preserve us; may all (your) desires (be for our defence).
 
 #### Ṛk 11
@@ -9566,7 +9566,7 @@ O Indra, in this sacrifice choose us, the sacrificers, for friendship, for well-
 
 O Indra, honour us, the sacrificers, in this sacrifice, so that we may have friendship with you, that welfare may come to us, and that we may gain great and radiant wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Select us, Indra, on this occasion, for your friendship, for (our) welfare, for vast and splendid riches.
 
 #### Ṛk 12
@@ -9613,7 +9613,7 @@ O Indra, on all days protect us, the sacrificers, with great wealth (राय�
 
 O Indra, protect us, the sacrificers, on all days by the gift of abundant wealth, and protect us also with all protections.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Favour us, Indra, daily with infinite riches; (protect) us with all protections.
 
 #### Ṛk 13
@@ -9661,7 +9661,7 @@ O Indra, with new protections, like a hurler, that is, a hero, open for us those
 
 O Indra, you who are a hero, with your new protections open for us the cow-pens filled with cattle (provide them).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 With fresh protections, Indra, like a warrior, open for us those pastures filled with cattle.
 
 #### Ṛk 14
@@ -9710,7 +9710,7 @@ O Indra, may our chariot, which destroys enemies, is radiant, imperishable, fill
 
 ### Printed p. 265
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May our chariot, Indra, foe-repelling, brilliant, unfailing, proceed (everywhere), possessing us of cattle and of horses.
 
 #### Ṛk 15
@@ -9762,7 +9762,7 @@ Use: with अस्माकमुत्तमं कृधि (*asmākamuttama�
 
 O Sūrya, just as you have set the heaven, which pours down rain most abundantly, in a region higher than all the worlds, so make our fame too spread among the gods and be the most excellent.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Surya, make our fame exalted among the gods, as (you have placed) the sky, the shedder of most copious rain, above (all other regions).
 
 ## Sūkta 32 (Maṇḍala 4)
@@ -9835,7 +9835,7 @@ O Indra, slayer of Vṛtras (enemies), come quickly to us. O Indra, you who are 
 
 O Indra, slayer of Vṛtra, come quickly towards us. You of mighty form, graciously come near us with your glorious, abundant protections.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra, slayer of Vritra, come to us quickly: you who are mighty, (come) with mighty protections.
 
 #### Ṛk 2
@@ -9882,7 +9882,7 @@ O wonderful (worshipful) Indra, though you are given to roaming, you are a swift
 
 Worshipful Indra, though you are of a nature to roam everywhere, you are the fulfiller of our desires. For the protection of the people who are busy in various rites to worship you, you fill them with attractive wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Wonderful Indra, wanderer at times (through space), you are verily the granter of (our) desires, and do what is marvellous for the protection (of those who are engaged) in wondrous works.
 
 #### Ṛk 3
@@ -9931,7 +9931,7 @@ O Indra, together with your friends the sacrificers, even if they are few, you d
 
 O Indra, those sacrificers who are joined to you, though few, together with such friendly sacrificers of yours, you destroy by your strength the enemy who runs off as if flying and who is of great power.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You destroy by your might the fierce assailing foe, associated with the humble friends who are along with you.
 
 #### Ṛk 4
@@ -9981,7 +9981,7 @@ O Indra, we sacrificers are united with you; we praise you exceedingly. You too 
 
 O Indra, we sacrificers are united with you and praise you exceedingly. Protect all of us alone fully.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We, Indra, are along with you; we zealously glorify you: do verily protect us all.
 
 #### Ṛk 5
@@ -10027,7 +10027,7 @@ O wielder of the bolt (अद्रिवः (*adrivaḥ*)), Indra, come to us a
 
 O Indra, holder of the thunderbolt, renowned one, come graciously towards us joined with your attractive, blameless protections, unassailed by enemies.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Wielder of the thunderbolt, come to us with wondrous, irreproachable, irresistible protections.
 
 #### Ṛk 6
@@ -10076,7 +10076,7 @@ O Indra, we, the friends and praisers of a god like you, possessed of cows, are 
 
 O Indra, for the sake of abundant food, may we all join together and become friends of the deity who is like you and endowed with cattle, and for that very reason may we all be in a good state.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we, Indra, be the friends of one like you, possessed of cattle, allied (to him) for (the sake of ) abundant food.
 
 #### Ṛk 7
@@ -10127,7 +10127,7 @@ O Indra, because you alone are lord (ईशिषे (*īśiṣe*)) of food (व
 
 O Indra, you alone are lord over food together with cattle. Therefore you alone are able to give us abundant food.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 For you alone, Indra, are lord over food combained with cattle; therefore grant us ample food.
 
 #### Ṛk 8
@@ -10183,7 +10183,7 @@ O Indra, lover of hymns (गिर्वणः (*girvaṇaḥ*), "sharer of spee
 
 O Indra, you who are worthy of praise and are praised by us: when you wish to give wealth to us the praisers, then no one restrains you in any other way.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 None change your purpose, Indra, object of laudation, when, being praised, you desire to bestow wealth upon the praisers.
 
 #### Ṛk 9
@@ -10231,7 +10231,7 @@ O Indra, the seers famed as Gotamas (we) praise you fully in order to obtain wea
 
 ### Printed p. 275
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The Gotamas glorify you, Indra, with praise, that you may grant wealth, and for the sake of abundant food.
 
 #### Ṛk 10
@@ -10282,7 +10282,7 @@ O Indra, you, gladdened by drinking Soma, confronted and completely destroyed th
 
 ### Printed p. 276
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We proclaim your prowess, whereby exhilarated (by the Soma), and
 having gone against them, you have demolished the servile cities.
 
@@ -10333,7 +10333,7 @@ O Indra, you who are worthy of praise: whichever heroic deeds showing the mark o
 
 ### Printed p. 277
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The pious celebrate your manly exploits, Indra, object of laudation when the juices (of the Soma) are effused.
 
 #### Ṛk 12
@@ -10424,7 +10424,7 @@ Sāyaṇa says: O Indra, although you are common (साधारणः (*sādh�
 
 O Indra, you are needed by all sacrificers and are venerable to all. Even so, we worship and call you so that you may help us alone.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Although, Indra, you are the common property of (all) worshippers we invoke you (such) as you are (for ourselves).
 
 ### Printed p. 279
@@ -10472,7 +10472,7 @@ O Vasu, Indra who dwell at the sacrifice, turn towards us, the sacrificers, and 
 
 O Indra, who provide the place of sacrifice, be turned towards us, the sacrificers. O Indra, drinker of Soma, be greatly delighted by drinking the juice-like food of the Somas.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Giver of dwellings, be present with us, drinker of the Soma, be exilarated by the beverage of the juices.
 
 ### Printed p. 280
@@ -10520,7 +10520,7 @@ Giver of dwellings, be present with us, drinker of the Soma, be exilarated by th
 
 O Indra, may the praise of us, your praisers, always keep you among us. Turn your horses, named Hari, towards us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the praise (of us) who are devoted (to you) Indra, give you to us: guide your horses towards us.
 
 ### Printed p. 281
@@ -10568,7 +10568,7 @@ O Indra, eat our पुरोळाशं (*puroḷāśaṃ*), the food in the f
 
 O Indra, eat the food in the form of purodāśa offered by us. As a man desirous of women listens to a woman's words with regard, so you too enjoy our words of praise with regard.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Eat (Indra) our cakes and butter; be pleased by our praise as a libertine (by the caresses) of a woman.
 
 ### Printed p. 282
@@ -10616,7 +10616,7 @@ We, the praisers, ask Indra, endowed with supreme lordship, for a thousand (स�
 
 We ask Indra for a thousand well-trained, swift-moving horses. We also ask him for a hundred Droṇa-kalaśas filled with Soma juice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We solicit, Indra for a thousand well-trained, swift-going horses, for a hundred jars of Soma juice.
 
 ### Printed p. 283
@@ -10666,7 +10666,7 @@ O Indra, we bring towards us your thousands and hundreds of cattle, that is, we 
 
 O Indra, we shall make hundreds and thousands of your cattle come to us. May all your wealth come to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We seek to bring down from you thousands and hundreds of cattle; may riches come to us from you.
 
 ### Printed p. 284
@@ -10715,7 +10715,7 @@ O Indra, from you we hold ten (ten in number) कलशानां (*kalaśān�
 
 O Indra, we obtain from you pitchers, ten in number, filled with riches in the form of gold. O Indra, slayer of enemies, you are an exceedingly generous giver.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we obtain from you, ten golden ewers, for you, slayer of Vritra, are a bountiful giver.
 
 ### Printed p. 285
@@ -10766,7 +10766,7 @@ O Indra, you who give much, give us much wealth; do not give little wealth. Brin
 
 O Indra, generous as you are, give us abundant wealth. Do not give little wealth. Bring abundant wealth for us. You are renowned as one who gives wealth abundantly.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 A bountiful giver are you, Indra : give bountifully to us ; (give) not little; bring much ; for verily you desire to give much.
 
 ### Printed p. 286
@@ -10815,7 +10815,7 @@ O Vṛtrahan, slayer of Vṛtra, O Śūra, valiant Indra, you who give much are 
 
 O Indra, slayer of Vṛtra and valiant, you are renowned among many sacrificers as generous. Make us too worthy recipients of your wealth, so that we may also enjoy it.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily you are renowned amongst many as a bountiful giver ; hero, slayer of Vritra, make us sharers in wealth.
 
 #### Ṛk 22
@@ -10864,7 +10864,7 @@ O Vicakṣaṇa, wise Indra, I praise (प्र शंसामि (*pra śaṃ
 
 O wise Indra, I praise your golden-brown horses exceedingly. O Indra, giver of cows and one who does not harm worshippers, do not come before our cows with your two horses and frighten them.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Wise Indra, I praise your brown (horses); bestower of cows you (are) not regardless (of your worshippers): with those two steeds terrify not our cattle.
 
 #### Ṛk 23
@@ -10912,7 +10912,7 @@ Like lovely wooden maidens (शालभंजिके (*śālabhaṃjike*)) �
 
 Like attractive puppets standing on a skilfully constructed, new, small stage, your two golden-brown horses shine in the places of sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Like two puppets on an arranged, new and slender stage, your two brown (steeds) are brilliant at sacrifices.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -10983,7 +10983,7 @@ The main sense is this: just as dolls made of newly cut and brought wood shine c
 
 For me, who go at the times of sacrifice facing your non-injuring, golden-coloured horses, whether I go in a bullock cart or go on foot without it, those two horses alone are satisfying.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You two innocuous brown (steeds) are sufficient at sacrifices for me, whether going (to them) in (a waggon drawn by) oxen, or going without (such) a conveyance.
 
 ### Printed p. 292
@@ -11170,7 +11170,7 @@ As one sends a messenger, I, the sacrificer, offer and send speech in the form o
 
 ### Printed p. 302
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I send my prayer as a messenger to the Ribhus; I solicit (of them) the milch cow, the yielder of the white milk, for the dilution (of the Soma libation); for they, as swift as the wind, the doers of good works, were borne quickly across the firmament by rapid steeds.
 
 #### Ṛk 2
@@ -11231,7 +11231,7 @@ I send my prayer as a messenger to the Ribhus; I solicit (of them) the milch cow
 
 When the Ṛbhus, attending on their parents by their extraordinary works and by the attainment of a pervasive, powerful youth, attained success, immediately thereafter they obtained the friendship of the gods, Indra and the rest. These wise ones bring and provide to the sacrificer, the praiser, the nourishment of wealth, consisting of cattle and the like.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When the Ribhus, by honouring their parents with renovated (youth), and by other works, had achieved enough, they thereupon proceeded to the society of the gods, and considerate, they bring nourishment to the devout (worshipper).
 
 #### Ṛk 3
@@ -11294,7 +11294,7 @@ The Ṛbhus made their parents, who were old, lying like broken posts, young aga
 
 The Ṛbhus made their parents, who lay in one place like cut-off stumps of trees with slackened limbs, young again for ever. May those same three Ṛbhus, Vāja, Vibhu and Ṛbhu, together with Indra and drinking the sweet Soma juice, protect our sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May they who rendered their decrepid and dropsy parents, when, like two dry posts, again perpetually young, Vaja, Vibhwan, and Ribhu associated with Indra, drinkers of the Soma juice, protect our sacrifice.
 
 ### Printed p. 305
@@ -11359,7 +11359,7 @@ May they who rendered their decrepid and dropsy parents, when, like two dry post
 
 For a year the Ṛbhus gave life to the dead cow and made her live. They filled her limbs with flesh and kept her plump for a year. For a year they protected her radiant beauty. By the power of these and whatever other extraordinary deeds of theirs there are, they obtained godhood. (The word वत्स (*vatsa*) may also be taken to mean a calf.)
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Inasmuch as for a year the Ribhus preserved the (dead) cow, inasmuch as for a year they invested it with flesh, inasmuch as for a year they continued its beauty, they obtaied by their (these) acts immortality.
 
 #### Ṛk 5
@@ -11426,7 +11426,7 @@ The youngest, Vāja, said चतुरः कर (*caturaḥ kara*), "let us mak
 
 The eldest of the three Ṛbhus said, "Let us make the one ladle into two." The second said, "Let us make it three." The youngest said, "Let us make it four." O Ṛbhus, Tvaṣṭṛ has praised these words of yours, which show the skill of you all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The eldest said, let us make two ladles; the youngest said, let us make three : O Rubhus, Twashtri, has applauded your proposal.
 
 #### Ṛk 6
@@ -11487,7 +11487,7 @@ The नरः (*naraḥ*), the Ṛbhus in human form, spoke the truth. हि (*
 
 The Ṛbhus, in human form, spoke only the truth. By the power of action with which they made the single ladle into four parts as said above, immediately after that they obtained the स्वधा (*svadhā*) of the third pressing. Tvaṣṭṛ, looking at the four vessels shining like day, showed his satisfaction.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The men, (the Ribhus), spoke the truth, for such (ladles) they made and therupon the Ribhus partook of that libation : Twashtri, beholding the four ladles, brilliant as day, was content.
 
 #### Ṛk 7
@@ -11552,7 +11552,7 @@ While the Ṛbhus lived happily for twelve days in the hospitality, a form of ho
 ### Printed p. 310
 #### Ṛk 8
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When the Ribhus, reposing for twelve days, remained in the hospitality of the unconcealable (sun), they rendered the fields fertile, they led forth the rivers. plants sprung upon the waste, and waters (spread over) the low (places).
 
 #### Ṛk 8
@@ -11614,7 +11614,7 @@ The Ṛbhus made a chariot that is well-wheeled, or that moves well, and that ru
 
 May the Ṛbhus who made the chariot that is excellently established and stands on an excellent wheel, and who made the cow that impels the world and is multiform: those great ones, doers of excellent works, possessed of excellent food, with hands fit for skilful work, acquire and give wealth to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May those Ribhus who constructed the firm-abiding, wheel-
 conducting car; who formed the all-impelling multiform milch cow:
 they who are bestowers of food, the doers of great deeds, and dexterous
@@ -11675,7 +11675,7 @@ The gods, Indra and the others, took pleasure in (served) the work of these Ṛb
 
 The gods, Indra and the others, have been pleased with the extraordinary works of the Ṛbhus, who shone with skill in work and a good mind. Vāja, the excellent doer of works, became one needed by the gods. The eldest Ṛbhu became the skilful worker needed by Indra. Vibhvan, the middle one, became one needed by Varuṇa.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The gods were pleased by their works, illustrious in act and in thought: Vaja was the artificer of the gods, Ribhukshin of Indra, Vibhwan of Varuna.
 #### Ṛk 10
 
@@ -11745,7 +11745,7 @@ The Ṛbhus gladdened the two bay horses (Hari) with मेधया (*medhayā*
 O Ṛbhus, you made the pair of horses fit to be yoked to Indra's chariot. You gladdened those same horses named Hari with your insight and with praises. You, the same, desiring our welfare like a close friend, provide us also with wealth in cows and the like and with increase of wealth.
 ### Printed p. 314
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May those Ribhus who gratified the horses (of Indra) by pious praise, who constructed for Indra his two decile steeds, bestow upon us satiety of riches, and wealth (of cattle), like those who devise prosperity for a friend.
 #### Ṛk 11
 
@@ -11809,7 +11809,7 @@ Now, after the making of the cups and the rest, the gods gave you, the Ṛbhus, 
 
 O Ṛbhus, at this third pressing of the day, after the making of your skilful works, the gods brought about for you the drinking of soma and the exhilaration arising from it. That was nothing but the fruit of your austerity; the gods did not give it to you out of duty, nor as a mark of friendship. You, who have obtained such power of austerity, certainly provide us with riches at this third pressing.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The gods verily have given you the beverage at the (third sacrifice of the) day, and its exhilaration, not through regard, but (as the gift of one) wearied out (by penance): Ribhus, who are so (eminent), grant us, verily, wealth and this third (diurnal) sacrifice.
 ## Sūkta 34 (Maṇḍala 4)
 
@@ -11905,7 +11905,7 @@ This sūkta beginning "Ṛbhur vibhvā" is the second sūkta in the fourth anuv�
 
 May Ṛbhu, Vibhvan, Vāja and Indra (all of them together) come near, facing our sacrifice, to provide us with delightful wealth. O Ṛbhus, the divine speech of Prajāpati, which is of the nature of permission, has provided you with the Soma-drinking connected with this third pressing. The joys that result from it have joined you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ribhu, Vibhwan, Vaja, and Indra, come to this our sacrifice, to distribute precious things, for the divine word has indeed now desired the drinking (of the Soma) on the (appointed hours of the) days; therefore the exhilarating draughts are collected for you.
 
 #### Ṛk 2
@@ -11969,7 +11969,7 @@ O Ṛbhus, वाजरत्नाः (*vājaratnāḥ*), shining with the food
 
 O Ṛbhus, shining with the food that is Soma, knowing the attainment of your divine birth, you will rejoice with the gods. May the joys born of Soma-drinking join you. May our praise also join you. Provide us with wealth accompanied by heroic sons.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Resplendent with (sacrificial) food, prescient of your (celestial) birth, be exhilarated, Ribhus, along with the Ritus: the inebriating draughts are collected for you as well as pious praise: confer upon us riches with excellent posterity.
 
 ### Printed p. 319
@@ -12029,7 +12029,7 @@ O Ṛbhus, this sacrifice, which you, exceedingly resplendent, take up like men,
 
 ### Printed p. 320
 
-##### English translation (H. H. Wilson)
+##### Printed English
 This sacrifice, Ribhus, has been instituted for you; you, who are eminently resplendent, have accepted this after the manner of men: before you have the propitiatory (libations) been placed, for Vajas, you are all entitled to precedence.
 
 #### Ṛk 4
@@ -12089,7 +12089,7 @@ O leaders, Ṛbhus, by your favour now, at the third pressing, let the treasure 
 
 O Ṛbhus, leaders, at this time of the third pressing let the wealth fit to be given in return for his worship be given, by your favour, to the sacrificer who offers you worship and oblation. O Ṛbhus, for the attainment of joy by you three, abundant Soma fit to be offered at the third pressing has been offered. Drink it.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Now, leaders (of rites), the treasure that ought to be presented is to be given to the mortal performing (the sacred rite), the offerer (of the libation): drink, Vajas, (drink), Ribhus: I present it to you at the third solemn (diurnal) ceremony for your exhilration.
 
 #### Ṛk 5
@@ -12145,7 +12145,7 @@ Continuing the verse: the Ṛbhus are addressed as leaders (नरो (*naro*)),
 
 O Ṛbhus, renowned by the names Ṛbhu, Vibhvan and Vāja, and leaders, come to our vicinity praising great wealth. As a cow that has newly calved hurries to the house where her calf is, so at this third pressing, the time of the day's completion, these Soma juices fit for drinking come to meet you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vajas, Ribhukshans, leaders (of rites), come to us eulogizing exceeding wealth : these draughts (of Soma) proceed to you at the decline of day, like newly-delivered cows to their stalls.
 
 #### Ṛk 6
@@ -12201,7 +12201,7 @@ O sons of strength (शवसो नपातो (*śavaso napāto*)): either th
 
 O Ṛbhus, you are related to Indra; delighted together with such an Indra, wise, and sons of strength, invoked with praise, be pleased to come to this our sacrifice. United with Indra, givers of delightful wealth, drink the sweet Soma juice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Sons of strength, come to this sacrifice, invoked with veneration: givers of precious things, associated with Indra, with whom you are intelligent, participate in being gratified (by the libation), drink of the sweet Soma juice.
 
 ### Printed p. 324
@@ -12265,7 +12265,7 @@ O Indra, drink Soma, being of one accord (सजोषाः (*sajoṣāḥ*)) w
 
 O Indra, united with Varuṇa in equal affection, drink Soma. O Indra, worthy of praise, united in affection with the Maruts, drink Soma. United in affection with the deities of the Ṛtu-sacrifice, who are fit to drink before all, and with the divine wives, givers of delightful wealth and protectresses of women, drink Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Sympathizing in satisfaction with Varuna, drink, Indra, the Soma juice; drink it, you who are entitled to praise, sympathizing with the Maruts: drink, sympathizing with the first drinkers, with the drinkers (at the sacrifices) of the Ritus; sympathizing with the protectresses of the wives (of the gods), the giver of wealth.
 
 #### Ṛk 8
@@ -12317,7 +12317,7 @@ O Ṛbhus, united with the Ādityas, be exhilarated. So also be exhilarated unit
 
 O Ṛbhus, united with the Ādityas, obtain the joy of the Soma drink. United with the deities named Parvata, obtain the joy. United in affection with Savitṛ, beneficial to all the gods, and with the deities presiding over rivers, givers of delightful wealth, obtain the joy of the Soma drink.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ribhus, be exhilarated, sympathizing with the Adityas, sympathizing with the Parvatas, sympathizing with the divine Savitri, sympathizing with the wealthbestowing (deities of the) rivers.
 
 #### Ṛk 9
@@ -12390,12 +12390,12 @@ The Ṛbhus who gratified the two Aśvins by the act (ऊत्या (*ūtyā*)
 
 The Ṛbhus who satisfied the Aśvins by acts such as chariot-building, who made their aged parents young, who revived the dead cow, who fashioned Indra's horses, who made armour for the gods, who made heaven and earth separate, who, all-pervading and leaders, performed deeds that accomplish excellent success: let such Ṛbhus drink Soma before all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ribhus, who by your assistance (gratified) the Ashwins, who renovated your) parents, who (restored) the cow, who fabricated the
 
 ### Printed p. 328
 
-##### English translation (H. H. Wilson)
+##### Printed English
 horses, who made armour (for the gods), who separated earth and heaven, and who, the all-pervading leaders (of rites), accomplished (acts productive of) good results.
 
 #### Ṛk 10
@@ -12464,7 +12464,7 @@ Sāyaṇa addresses the Ṛbhus. The wealth you hold is one with cows, with food
 
 O Ṛbhus, you who possess wealth that is accompanied by cows, endowed with food, accompanied by excellent sons, accompanied by houses and the like fit for dwelling, and giving abundant nourishment: being such, you drink before all others and have gladdened minds. Receive this wealth in order to give it to us, the sacrificers who praise your gift.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ribhus, who possess wealth, comprising cattle, food, progeny, dwellings, and abundant sustenance, do you, who are the first drinkers (of the Soma), bestow upon us, when exhilarated, (that wealth, and upon those) who laud your liberality.
 
 #### Ṛk 11
@@ -12524,7 +12524,7 @@ Sāyaṇa addresses the Ṛbhus: do not go away, do not become estranged. May we
 
 O Ṛbhus, do not abandon us and go away. May it be that we do not make you suffer from thirst. O Ṛbhus of divine nature, be free from blame, that is, be worthy of our praise, and at this sacrifice obtain full satisfaction with Indra, with the Maruts, and with the other shining deities.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ribhus do not go away; let us not leave you (thirsting): (be present) unapproached at this sacrifice; be exhilarated, deities, along with Indra, with the Maruts, and with (other) brilliant (divinities), for the distribution of wealth.
 
 ## Sūkta 35 (Maṇḍala 4)
@@ -12606,7 +12606,7 @@ Sāyaṇa addresses the Ṛbhus as शवसो नपातः (*śavaso napāt
 
 O Ṛbhus, sons of strength and sons of Sudhanvan, be pleased to come to this sacrifice. Do not go away from us. In this third savana, intended for you, following Indra, the giver of delightful wealth, let the Soma juices that cause exhilaration come and join you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Come hither, sons of strength, sons of Sudhanwaṇ ; Ribhus, keep not away; may the exhilarating juices proceed to you at this sacrifice, after the munificicent Indra.
 
 #### Ṛk 2
@@ -12665,7 +12665,7 @@ Sāyaṇa says that here, at the third savana, the gift of treasure, रत्�
 
 O Ṛbhus, by your power, by excellent skill in action, and by auspicious works you made the chamasa vessel, which was one, into four parts. By that same greatness the drinking of the well-pressed Soma juice was given by Prajāpati. Because of that greatness, in this third savana intended for you, who are famed by the name Ṛbhu, let the gift of delightful wealth come to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the munificence of the Ribhus come to me on this occasion, (since) there has been the drinking of the effused Soma, in consequence of one ladle having been made fourfold by their dexterous and excellent work.
 
 ### Printed p. 334
@@ -12722,7 +12722,7 @@ O Ribhus, you made the single ladle into four. Then you addressed Agni: "O Agni,
 
 ### Printed p. 335
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have made the ladle fourfold, and have said (to Agni), assent (to the division); therefore have you gone, Vajas, the path of the immortals: dexterous-handed Ribhus (you have joined) the company of the gods.
 
 #### Ṛk 4
@@ -12779,7 +12779,7 @@ You have made the ladle fourfold, and have said (to Agni), assent (to the divisi
 
 O Ribhus, of what substance was this ladle, which you, by your skilful work, made fourfold from one? O priests, press the Soma now for the delight of the Ribhus. O Ribhus, drink the sweet juice that is of the nature of Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What sort of ladle was that which by skill you have made four ? now pour forth the Soma for their exhilaration : drink, Ribhus, of the sweet Soma libation.
 
 #### Ṛk 5
@@ -12834,7 +12834,7 @@ O Ribhus, whose food (वाजरत्ना (*vājaratnā*)) is delightful So
 
 O Ribhus, whose food is delightful and of the nature of Soma, by your skilful work you made your parents young. By the same skilful work you made the ladle fit for the gods' drinking. By the same skilful work you procured horses that run faster than an arrow goes from a bow, and that bear Indra.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 By your (marvellous) deeds you have made your parents young; by your deeds you have made the ladle (fit) for the drinking of the gods: by your deeds you have made the two horses, the bearers of Indra, swifter than (an arrow from) a bow, Ribhus, who are rich in (sacrificial) food.
 
 #### Ṛk 6
@@ -12899,7 +12899,7 @@ O Ribhus, Vājas, possessed of food: whichever sacrificer, at the *abhipatane* o
 
 O Ribhus, possessing food, granting desired ends, glad of heart: to the sacrificer who, addressing you, presses and offers the juicy Soma for your delight at the third pressing, the time of completion of the days, procure and give wealth accompanied by many sons.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Distributors of food, Ribhus, showerers (of benefits), exhilarated (by the Soma draught), fabricate wealth, comprising all posterity for him who pours out for your exultation, the acrid libation at the decline of day.
 
 #### Ṛk 7
@@ -12958,7 +12958,7 @@ O Indra, owner of bay (हरितवर्ण (*haritavarṇa*)) horses, you d
 
 O Indra, owner of horses named Hari, drink the Soma pressed at the morning pressing. The Soma pressed at the midday pressing is for your drinking alone and is not to belong to anyone else. But at the third pressing only, drink in company with the Ribhus, givers of wealth, whom you have made your friends by their excellent deeds.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Drink, lord of horses, Indra, the libation offered at dawn; the noon-day libation is alone for you; but (in the evening) drink with the munificent Ribhus, whom, Indra, you have made your friends by good deeds.
 
 #### Ṛk 8
@@ -13012,7 +13012,7 @@ O Ṛbhus, you who have become gods (देवासः (*devāsaḥ*)) through 
 
 O mighty Ṛbhus, you who by your excellent work have become gods, and who, flying swiftly like falcons, sit mounted in the heaven-world: such as you, give us delightful wealth. O Ṛbhus, sons of Sudhanvan, you have become immortal gods.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Do you, sons of strength, who have become gods by (your good deeds), soaring aloft in the sky like falcons, bestow upon us riches: sons of Sudhanwan, you have become immortals.
 
 ### Printed p. 341
@@ -13065,7 +13065,7 @@ O Ṛbhus of excellent hands, the third pressing, which holds Soma delightfully 
 
 ### Printed p. 342
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Dexterous-handed, since you have instituted, through desire of good works, the third sacrifice, which is the bestower of wealth. therefore, Ribhus, drink this effused Soma with exhilarated senses.
 
 ## Sūkta 36 (Maṇḍala 4)
@@ -13152,7 +13152,7 @@ O Ṛbhus, the chariot you made and gave to the Aśvin gods needs no horses; it 
 
 ### Printed p. 344
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The glorious three-wheeled car (of the Ashwins made, Ribhus, by you), traverses the firmament without horses, without reins : great was that proclamation of your divine (power), by which, Ribhus, you cherish heaven and earth.
 
 #### Ṛk 2
@@ -13212,7 +13212,7 @@ The Ṛbhus, of good mind, made the chariot with well-rolling wheels (सुव�
 
 O Vājas, O Ṛbhus, you of excellent mind, who by the form of meditation of the mind alone swiftly made the chariot with well-turning wheels and without crookedness: such as you we call with prayer, to drink the Soma of this sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We invoke you respectfully, Vajas and Ribhus, to drink of this libation, for you are the wise sages who, by meditation, made the well-constructed undeviating car (of the Ashwins).
 
 #### Ṛk 3
@@ -13269,7 +13269,7 @@ O Vājas, O Ṛbhus, O Vibhvas. The plural is said in relation to the others, mu
 
 O Ṛbhus, called Vāja, Vibhvan and Ṛbhu: by that extraordinary act of yours by which you made your mother and father, who were aged and therefore wholly worn out in body, ever young again and able to move about, such greatness of yours became well praised among the gods.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Therefore, Vaja, Ribhu, Vibhwan, was your greatness proclaimed amongst the gods, that you made your aged and infirm parents again young (and able) to go (where they would).
 
 #### Ṛk 4
@@ -13330,7 +13330,7 @@ O Ṛbhus, you made the one camasa, a vessel for drinking, four-fold: वया�
 
 O Ṛbhus, you made the camasa vessel that was one into four branches. By your acts you fashioned a living cow out of the hide of a lifeless cow. By this greatness you obtained immortality among the gods. O Vājas, O Ṛbhus, such an act of yours quickly becomes worthy of praise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have made the single ladle four-fold: by your (marvellous) acts you have clothed the cow with a (new) hide; therefore you have obtained immortality amongst the gods: such acts, Vajas and Ribhus, are to be eagerly glorified.
 
 #### Ṛk 5
@@ -13394,7 +13394,7 @@ May the wealth which the Ṛbhus, renowned together with food and leaders, produ
 
 ### Printed p. 349
 
-##### English translation (H. H. Wilson)
+##### Printed English
 From the Ribhus may wealth, the best and most productive of food, (come to me); that which the leaders (of rites) renowned together with the Vajas, have engendered; that which has been fabricated by Vibhwan and is to be celebrated at sacrifices; that which, deities, you protect, that is to be beheld.
 
 #### Ṛk 6
@@ -13463,7 +13463,7 @@ He becomes वाजी (*vājī*), possessed of vigour, strong, and skilled in 
 
 The man whom Vāja, Vibhvan and all the Ṛbhus together protect becomes possessed of strength and skilled in action. The same man becomes a knower of what is beyond the senses and a maker of praise. Being valiant, he becomes one who strikes and drives off his enemies, and he becomes unassailable in battles. The same man obtains increase of wealth. He obtains most excellent heroic power.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He is vigorous and skilled in war, he is a Rishi worthy of homage, he is a hero, the discomfiter of foes, invincible in battles, he is possessed of ample wealth, and (is blessed) with excellent posterity, whom Vaja and Vibhawan, whom the Ribhus protect.
 
 #### Ṛk 7
@@ -13527,12 +13527,12 @@ Your form (पेशः (*peśaḥ*)), most excellent and therefore beautiful, h
 
 O Ṛbhus, you have a form most excellent and attractive to the sight. This praise, made by us, praises that form. Enjoy this praise of ours. You are wise, intelligent and learned. Such you we praise and make known with this mantra.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 An excellent and agreeable from has been assumed by you: (this is onr own) praise; Vajas aud Ribhus we grstified (thereby), for you are **NOTE**
 
 ### Printed p. 352
 
-##### English translation (H. H. Wilson)
+##### Printed English
 wise, experienced, and intelligent : such we make you known (to be) by this (our) prayer-
 
 #### Ṛk 8
@@ -13597,7 +13597,7 @@ wise, experienced, and intelligent : such we make you known (to be) by this (our
 
 O Ṛbhus, knowing all the objects of enjoyment that are the fitting recompense for the worth of our praise, that are beneficial to men and complete, procure them for us. And procure for us wealth and food that are radiant, powerful, drying up powerful enemies, and most excellent.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You are wise, (bestow) upon us, in requital of our praises, all enjoyments that are good for man, and fabricate fo us, Ribhus, riches and food, resplendent, invigorating, overpowering (foes), and most excellent.
 
 #### Ṛk 9
@@ -13661,7 +13661,7 @@ Delighting (रराणा (*rarāṇā*), रममाणाः (*ramamāṇā
 
 O Ṛbhus, procure in this sacrifice progeny in the form of sons, grandsons and the like who will delight, and wealth, fame, and powerful servants and the like. Give us such attractive food, the wealth of food by which we, the sacrificers, shall be known to stand in a condition higher than that of our enemies.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Gratified (by our worship), fabricate for us, on this occasion, progeny, wealth, and reputation, with numerous adherents : grant to us, Ribhus, abundant sustenance wherewith we may greatly excel others.
 
 ## Sūkta 37 (Maṇḍala 4)
@@ -13746,7 +13746,7 @@ O Vājas, O Ṛbhukṣās, O Ṛbhus, O gods, come (यात (*yāta*), उप�
 
 O Vājas and Ṛbhus, possessed of delightful form and divine in nature, in the way in which you uphold our sacrifice so that all the days of these peoples, the descendants of Manu, may become fair, in that way come to our sacrifice by the paths on which the gods travel.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine Vajas, Ribhus, come to our sacrifice by the path travelled by the gods, inasmuch as you, gracious (Ribhus), have maintained sacrifice amongst the people, (the progeny) of Manu, for (the sake of) securing the prosperous course of days.
 
 #### Ṛk 2
@@ -13807,7 +13807,7 @@ Today, on this day of the sacrifice, may these (ते (*te*)) यज्ञा�
 
 O Ṛbhus, at this time of the sacrifice may these Soma juices, the means of the sacrifice, be satisfying to your heart and mind. May the Somas, sufficient to produce satisfaction, shining because they are mixed with ghee, enter your heart. The pressed Somas, full in the cup-vessels, flow toward you. May the Somas that have been drunk bring you delight, for the accomplishment of our rite and the increase of strength.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May these sacrifices be (acceptable) to you in heart and mind : may to-day the sufficient (juices) mixed with butter flow to you : the full libations are prepared for you : may they, when drank, animate you for glorious deeds.
 
 ### Printed p. 358
@@ -13870,7 +13870,7 @@ May these sacrifices be (acceptable) to you in heart and mind : may to-day the s
 
 O Vājas, O Ṛbhus: in the manner in which the Soma, offered at the third pressing and beneficial to the gods at this time, makes you strong and is your support, and in the manner in which the hymn offered at this time is a source of zeal for you, in that manner, among the gods and men who take delight near the place of divine sacrifice, I offer Soma to you, with you in view, like Manu.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 As the offering suited to the gods at the third (daily) sacrifice supports you, Vajas, Ribhukshans; as the praise (then recited supports you): therefore, like Manu, I offer you the Soma juice, along with the very radiant (deities) among the people assembled at the solemnity.
 
 #### Ṛk 4
@@ -13924,7 +13924,7 @@ O Vājins, O Ṛbhus, be पीवोअश्वाः (*pīvoaśvāḥ*), thos
 
 O Ṛbhus (Vājins), you are borne by stout horses, stand in shining chariots, have jaw-regions made of steel, and have excellent wealth. O Ṛbhus, who are like sons to Indra and sons of strength, this third pressing has been resolved upon for your delight.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vajins, you are borne by stout horses mounted on a brilliant car, have jaws of iron, and are possessed of treasures: sons of Indra, grandsons of rtrength, this last sacrifice is for your exhilaration.
 
 #### Ṛk 5
@@ -13972,7 +13972,7 @@ O Ṛbhukṣans, Ṛbhus: ऋभुं (*ṛbhuṃ*) means shining; रयिं
 
 O Ṛbhus, your company, exceedingly shining, of the nature of wealth, exceedingly mighty in battle, joined together, connected with the senses, of a nature to give always, and possessed of horses: we pray and call it.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We invoke you, Ribhukshans, for splendid wealth, mutually co-
 operating, most invorating in war, affecting the senses, ever munificent,
 and comprehendir g horses.
@@ -14027,7 +14027,7 @@ O Ṛbhus, the mortal whom you and Indra protect, let him alone be (foremost); t
 
 O Ṛbhus, the man whom you, joined with Indra, protect, let that man be foremost. Let him, joined with excellent acts, be a liberal giver. At the sacrifice let him be possessed of an excellent horse.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the man whom you, Ribhus and Indra, favour, be ever liberal
 by his acts, and possessed of a horse at the sacrifice.
 
@@ -14080,7 +14080,7 @@ O Vājas, O Ṛbhukṣans, Ṛbhus: for us, to sacrifice (यष्टवे (*y
 
 O Vājas, O Ṛbhus, show us the excellent paths for performing sacrifice. You who are wise, produce in us the ability to cross all the quarters.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vajas, Ribhukshans, direct us in the way to sacrifice; for you, who are intelligent, being glorified (by us), are able to traverse all the quarters (of space).
 
 #### Ṛk 8
@@ -14133,7 +14133,7 @@ Concluding the praise with this verse, he asks for what is desired. O Vājas, O 
 
 O Vājas, O Ṛbhus, O Indra, O Aśvin gods: command (give) to us, who are men and praisers, the well-known and abundant wealth and horse, for the increase of our prosperity.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vajas, Ribhukshans, Indra, Nasatyas, command that ample wealth
 with horses be sent to men for their enrichment-
 
@@ -14237,7 +14237,7 @@ Particulars: Maṇḍala 4; Anuvāka 4; Sūkta 38; Aṣṭaka 3; Adhyāya 7; Var
 
 O Heaven and Earth, by your favour the liberal king Trasadasyu obtained riches of many kinds, and he gave all of them away to many petitioners. You gave him a horse, a son, and, for the destruction of the Dasyus, a weapon that subdues the foe, is of terrible strength and is an instrument of slaying. (Grant all those to us also.)
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Trasadasyu has bestowed upon many the ancient (gifts) which were obtained by the liberal (prince) through your (favour, Heaven and Earth you two have given a horse, a son, a weapon (for the destruction) of the Dasyus, fierce and foe-subduing.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -14347,7 +14347,7 @@ This king Trasadasyu, Purukutsa's son, is also renowned as a seer. He is the see
 
 O Heaven and Earth, you have upheld the deity named Dadhikrā, who has the form of a horse, restrains many enemies, protects all people, moves straight, has a praiseworthy gait, is of shining form, is swift, and, like a valiant king, cuts off the enemy's head.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And you two have given the swift Dadhikra, the repeller of many (foes) the defender of all men, the straight-going, the gracefull-moving, the destroyer of enemies like a heroic prince.
 
 #### Ṛk 3
@@ -14410,7 +14410,7 @@ Sāyaṇa connects: Heaven and Earth have upheld that deity Dadhikrā whom every
 
 Heaven and Earth have upheld that Dadhikrā deity whom all mankind joyfully praise: he who comes down swiftly on all sides like a stream flowing in low ground, who, like a hero setting out for battle, desires to pervade all the quarters with his own feet, and who is swift like the wind.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Whom all men, rejoicing, praise, rushing everywhere, as if down a precipice, springing with his feet like a hero eager for war, drawing a car, and going as swift as the wind.
 
 #### Ṛk 4
@@ -14469,7 +14469,7 @@ The deity, in battles, obstructs on all sides the fruits (spoils) that are to be
 
 That same Dadhikrā, favoured by Heaven and Earth, restrains in battles the enemies mingled together, wins exceeding victory, moves in all quarters displaying his vigour, fully understands the circumstances to be known, and makes the enemy of the praising sacrificer despised on every side (defeats him).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Who, opposing the mingled multitude in battles, rushes eager, passing through the regions, whose vigour is mainfest, who, understanding what is to be known, puts to shame the adversary of the (pious) man.
 
 ### Printed p. 374
@@ -14529,7 +14529,7 @@ As people cry out on seeing a thief running off with a garment, and as they cry 
 
 ### Printed p. 375
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Whom men call after in battles, as after a thief carrying off a garment, or as (after) a hungry hawk pouncing (upon his prey): they call after him, hastening to obtain food, or a herd of cattle.
 
 #### Ṛk 6
@@ -14586,7 +14586,7 @@ Further, among these demon armies, desiring to advance, foremost and chief, acco
 
 Like a thoroughbred horse that adorns itself with garlands and the like and shines, and that champs the bit and raises the dust, the deity Dadhikrā, desiring to move among the demon armies and being the foremost leader of all, moves in all regions together with rows of chariots.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And who, issuing forth the first in those encounters, rushes in various directions with rows of chariots ; like an elegant (courser), friendly to man decorated with a garland, raising the dust. and champing his bit.
 
 #### Ṛk 7
@@ -14642,7 +14642,7 @@ And that steed of the described character, swift and going, in the battle (स�
 
 The horse described above, in battle, possessing the power to confront enemies, provided with food, serving with his own body, moving about with exhilaration among the swiftly moving enemy armies, going straight, and filling his body with the dust of the path, throws that same dust up above his brows.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And that swift (horse) enduring in battle, bestowing food, and doing service with his limbs, rushing swiftly upon the quick-moving (host of the enemy), going straight onward, and tossing up the dust, throws it above his brows.
 
 #### Ṛk 8
@@ -14701,7 +14701,7 @@ And that swift (horse) enduring in battle, bestowing food, and doing service wit
 
 The Asuras who oppose him are afraid of this deity Dadhikrā, who harms enemies like the shining thunderbolt that roars with a clamour. Even though thousands of enemies gather around him and confront and oppose him, he increases his own power and becomes terrible and unobstructed.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And the adversaries of that foe-destroying steed, like (those) of the brilliant thunderbolt, are alarmed; for when he contends, even against thousands on every side, then, rousing (his spirit), he is fearful and irresistible.
 
 #### Ṛk 9
@@ -14760,7 +14760,7 @@ And the adversaries of that foe-destroying steed, like (those) of the brilliant 
 
 Men praise the power, checking enemies and victorious, of this horse in the form of Dadhikrā, who fulfils the desires of men and is all-pervading. And all the people who follow him into battle extol him, saying, "This god in the form of Dadhikrā, together with thousands of followers, has set out for the destruction of enemies."
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Men praise the overpowering rapidity of that fleet (steed), who is the accomplisher (of the desires) of mankind, and, following him to
 
 ### Printed p. 380
@@ -14820,7 +14820,7 @@ In the Pavitreṣṭi, "ā dadhikrāḥ" is the yājyā verse for Dadhikrāvan. 
 
 As the sun spreads the waters everywhere with his radiance, the god Dadhikrā has spread out by his strength the five kinds of beings, gods, men and the rest, in their several regions. May this god, who gives in thousands of ways and in hundreds of forms, who is swift and of the form of a horse, in return for these words of praise of ours grant us sweet fruits.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Dadhikra has spread abroad the five classes of beings by his strength as the sun (diffuses) the waters by his radiance may he, the giver of hun- dereds and thousands, associate these praises with agreeable (rewards).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -14905,7 +14905,7 @@ Let us quickly praise that same swift-going god Dadhikrā. And let us scatter fo
 
 Let us quickly praise that swift-moving god Dadhikrā. And from the heavenly world to the earth, let us spread food in the form of grass for this god, who has the form of a horse. May the Dawns, dispellers of darkness, protect for me the excellent fruits, and destroy all sins.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily we praise that swift Dadhikra and scatter (provender before him) from heaven and earth: may the gloom-dispelling dawns preserve for me (all good things), and bear me beyond all evils.
 
 #### Ṛk 2
@@ -14962,7 +14962,7 @@ Verily we praise that swift Dadhikra and scatter (provender before him) from hea
 
 O Mitra and Varuṇa, the god Dadhikrā, the protector, resplendent like Agni, whom you have provided for the benefit of many men—I, the protector of rites, perform the praise of that great, swift-moving god Dadhikrā, desired by many and the showerer of desires.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Fulfiller of religious rites, I reiterate the praise of the great Dadhikra, the liberal, many-honoured showerer (of benifits,) whom Mitra and Varuna gave for the good of many, the transporter (beyond calamity), as brilliant as Agni.
 
 #### Ṛk 3
@@ -15018,7 +15018,7 @@ The sacrificer who, at the dawn's brightening (व्युष्टौ (*vyuṣ
 
 The sacrificer who performs the praise of the pervading, horse-formed deity Dadhikrā at the time of the Dawn's appearance, when the fire has blazed up—may the god Dadhikrā, of equal affection with Mitra and Varuṇa and indivisible, make that sacrificer free from sin.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Aditi, consenting with Mitra and Varuna, render him free from sin who has performed the worship of the steed Dadhikra, when the fire has been kindled at the opening of the dawn.
 
 #### Ṛk 4
@@ -15076,7 +15076,7 @@ There is a name (नाम (*nāma*)) of the great god Dadhikrāvan—he who bri
 
 Let us praise whatever auspicious names and forms there are of the praisers' god Dadhikrā, the accomplisher of food, the accomplisher of strength, the great one. And we also pray to and call upon Varuṇa, Mitra, Agni and Indra, the thunderbolt-armed, for our welfare.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Whilst we glorify the name of the great Dadhikra, the means of sustenance and of strength, the prosperity of those who praise (him), let us invoke (also) for our welfare Varuna, Mitra, Agni, and Indra, the bearer of the thunderbolt.
 
 #### Ṛk 5
@@ -15131,7 +15131,7 @@ Both groups call upon this Dadhikrā as they would Indra: those who are setting 
 
 O Mitra and Varuṇa, that god Dadhikrā, the impeller of man, horse-formed, whom you have held for our welfare—him those who are setting out for battle and those who are striving to carry out the sacrifice, both these groups, invoke as they would Indra.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Those who are preparing for battle, those who are proceeding to sacrifice, both invoke (Dadhikra) as if (he was) Indra : Mitra and Varuna have given to us the horse Dadhikra as an encourager to man.
 
 #### Ṛk 6
@@ -15185,7 +15185,7 @@ The sixth verse, दधिक्राव्णो अकारिषं (*dadhi
 
 I have made the praise of the god Dadhikrā, victorious, all-pervading and swift. May that god make our mouths fragrant. May he cause our lives to increase.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have celebrated the praise of Dadhikra, the rapid and victorious steed : may he make our mouths fragrant, may he prolong our lives.
 
 ### Printed p. 389
@@ -15260,7 +15260,7 @@ Let us quickly make, that is, make abundantly, the praise of the god named Dadhi
 
 At this time let us recite chiefly the praise of the deity Dadhikrā. May all the dawns impel me to this rite. In the same way let us recite the praise of the waters, of Agni, of Uṣas, of Sūrya, of Bṛhaspati, and of the son of Aṅgiras, Jiṣṇu **NOTE**.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we repeatedly recite (the praise) of Dadhikravan: may all rising dawns excite me to the adoration of the waters, of Agni of Ushas, of Surya, of Brihaspati, and of Jihiw, the son of Angiras.
 
 #### Ṛk 2
@@ -15319,7 +15319,7 @@ May we repeatedly recite (the praise) of Dadhikravan: may all rising dawns excit
 
 May the god Dadhikrā, whose nature is to move about, who has the power to bear the world, who gives cattle, and who sits with the praiser, desire and accept the food in the form of the oblation at the time of the manifestation of the desired dawn. May the deity Dadhikrā, who appears swiftly, who is of the nature of truth, given to going, of exceeding speed in going, and who leaps like a grasshopper, produce food, strength, and heaven.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Dadhikravan, the active, the cherisher, the giver of cattle, who abides with the devout, the swift-going be willing to accept (the sacrificial)
 
 ### Printed p. 392
@@ -15377,7 +15377,7 @@ Moreover, of this god who runs, goes, hastens, and eagerly strives forward, all 
 
 All people follow the going of this god Dadhikrā, who goes ahead, is swift, and is eager to reach the appointed place, as other birds follow the leading bird. All gather round this god, who protects all others and who is of horse form with a chest like the hawk's, and follow him together by reason of strength.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And after him who is quick-going, hastening, eager (to arrive at his goal, men) follow (as other birds pursue) the flight of a swift (bird) striving togethe to keep up by the side of Dadikravan the transporter (of others) as swift as a hawk.
 
 #### Ṛk 4
@@ -15444,7 +15444,7 @@ in every direction. This form of the root फण (*phaṇa*), which has the sens
 
 The well-known god Dadhikrā, in horse form, is bound at the neck, at the armpit region, and at the mouth region, and increases the speed of his kicking. This same god Dadhikrā, following the sacrifice and possessed of exceedingly mighty strength, goes about pervading fully the windings of all the paths.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 And that horse bound by his neck, his flanks, his mouth, accelerates his paces : Dadhikra incresing in vigour after the (sacred rite), following the windings of the roads, goes still more rapidly.
 
 #### Ṛk 5
@@ -15532,7 +15532,7 @@ Now it is said of the Āditya: abjāḥ, born in the waters—"in the midst of w
 
 The Supreme Brahman has manifested his particular glories in many forms, the Āditya and others. Among these the Āditya dwells in the radiant heaven. The wind moves in the atmosphere. The Hotṛ fire is present on the sacrificial altar. The household fire is honoured in houses like a guest. He is of the nature of consciousness among men. He is also within the orb of the Āditya, and abides in truth. The Āditya, chief among these, is born of water, born of the rays, born of truth, one who is born on the mountain of sunrise, and of the nature of truth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He is Hansa, (the sun), dwelling in light; Vasu, (the wind), dwelling in the firmament ; the invoker of the gods (Agni), dwelling on the altar ; the guest (of the worshipper), dwelling in the house(as the culinary fire); the dweller amongst men, (as consciousness), the dweller in the most excellent (orb, the sun), the dweller in truth, the dweller in the sky (the air), born in waters, in the rays of light, in the verity (of manifestation in the (eastern) mountain, the truth (itself).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -15645,7 +15645,7 @@ Further, he begins with अथात्मानो महतः प्रथम
 
 Since this Ṛk is also read in the Kṛṣṇa Yajurveda, here we give Mahīdhara's commentary on it, and the note that the English scholar Wilson wrote on this Ṛk following Sāyaṇa's commentary.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 This stanza is knwon as the Hansavati Rich, and occurs twice in the
 Yajus, 10, 24, and 12, 14, as well as in the Aitareya Brahmana, IV, 20, 1;
 
@@ -15789,7 +15789,7 @@ Or else: haviṣmān is to be joined with what follows. Provided with oblation, 
 
 O Indra and Varuṇa, like Agni who procures immortality, what praise accompanied by oblations can bring happiness to you both? What praise, endowed with insight, recited by us and accompanied by oblations, can pervade your hearts and become dear to them?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra (and Varuna), Varuna (and Indra), what praise of you accompanied by oblations may obtain for us felicity, (such as) the immortal invoker of the gods, (Agni, may bestow): may (the praise) which is addressed by us to you both, Indra and Varuna, sanctified by acts and prompted by veneration, touch your hearts.
 
 #### Ṛk 2
@@ -15852,7 +15852,7 @@ Indra and Varuṇa are the two gods. The word ह (*ha*) is an expletive, or mea
 
 O divine Indra and Varuṇa, the man who, together with food in the form of oblations, makes you his kinsmen for friendship with you destroys the sins that obstruct. By your great protections he becomes renowned.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine Indra and Varuna, the mortal diligent in offering (you) sacrificial food, who has through friendship made you his kinsmen, destroys (his own) sins, and his enemies in battle; and by your great favours he becomes renowned.
 
 ### Printed p. 409
@@ -15909,7 +15909,7 @@ O Indra and Varuṇa, you who are friends: when, in order to win friendship with
 
 ### Printed p. 410
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Varuna (you are) most liberal givers of wealth to men praising you in various ways, when as friends well plied with (sacrificial) food, you are exhilarated by the Soma juice effused through friendship.
 
 #### Ṛk 4
@@ -15969,7 +15969,7 @@ Indra and Varuna (you are) most liberal givers of wealth to men praising you in 
 
 O Indra and Varuṇa, you who are terrible to the foe, you have hurled upon this foe the shining thunderbolt-weapon of exceeding power for his slaying. The enemy who is deadly to our strength, who from greed seizes everything we have, and who is a harmer: produce for us, both of you, strength that overcomes that enemy.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Fierce Indra and Varuna you hurled the brightshining and most mighty thunderbolt against this (our foe), who is difficult to be resisted by us; (who is) rapacious, malevolent: grant us strength to overcome him.
 
 #### Ṛk 5
@@ -16030,7 +16030,7 @@ Like a great cow that has gone, for the purpose of eating grass and the like, (t
 
 O Indra and Varuṇa, as bulls capable of sprinkling urge a cow, so be you two encouragers of this praise. Like a great cow that has gone to the pasture for grass, filled with milk and having a thousand streams, may this cow in the form of praise yield us the things we desire.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Varuna, be the exciters of this our praise, as the bull is of the milch cows : may that cow (of praise) yield us (reward), like a large cow that has gone forth to pasture, whose thousand channels (are filled) with milk.
 
 #### Ṛk 6
@@ -16088,7 +16088,7 @@ The gods Indra and Varuṇa: for our *hita* (welfare), for *toka*, a son, and *t
 
 O Indra and Varuṇa, for our welfare, for sons, for grandsons, for land, for our long life, and for the increase of the virility of me who sprinkle seed, be you, destroyers of foes, around us with your protections for the destruction of the foe.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra and Varuna, the overthrowers (of foes), be around us with (their) protections ; (that thereby we may have) good sons and grand-sons, and fertile lands, and long life, and virility.
 
 #### Ṛk 7
@@ -16150,7 +16150,7 @@ Or else: you who are well-pervading, heroic (शूरा (*śūrā*) = valiant)
 
 O Indra and Varuṇa, desiring cattle, for ancient protection, for friendship with you, and also for the guarding of our welfare, we stand around you and pray to you alone, who are givers of happiness like father and mother, powerful, excellent kinsmen, valiant and worshipful.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Desirous of (possessing) cattle, we have recourse to you. Indra and Varuna, for full protection, you are powerful and kind as (kinsmen); we have recourse to you, adorable heroes, for (your) friendship and affection, (to you who are), like parents, givers of happiness.
 
 ### Printed p. 415
@@ -16215,7 +16215,7 @@ O Indra and Varuṇa, excellent givers, my praises, longing for food, approach y
 ### Printed p. 416
 benefit, my praises, which are of the form of resolves of my mind, approach Indra and Varuṇa.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Liberal givers, those (our) praises soliciting (abundant) food have proceeded to you for (your) protection : longing for you as (soldiers long) for battle, and as cattle approach the Soma for (its) advantage, so my heartfelt hymns (approach) Indra and Varuna.
 
 #### Ṛk 9
@@ -16267,7 +16267,7 @@ My praises (मनीषाः (*manīṣāḥ*)), desiring wealth (द्रव
 
 Like servants who attend rich men for the sake of wealth, and like humble women begging for food, these praises of mine, longing for wealth, approach Indra and Varuṇa.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 These my earnest praises approach Indra and Varuna, desirous to obtain wealth. as dependants attend (upon an opulent man) for the sake of riches, like humble (females) begging for food.
 
 #### Ṛk 10
@@ -16323,7 +16323,7 @@ May we be lords (पतयः (*patayaḥ*)), of ourselves (त्मना (*tm
 
 May we become lords, independently and without dependence on others, of wealth that comprises herds of horses and chariots and that nourishes. May Indra and Varuṇa, moving about with new protections, turn their horses and their wealths towards us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we of our own (right) be masters of permanent riches, comprising horses, chariots, and nourishment : may those two, traversing (the regions), direct their Niyut steeds towards us, associating (them) with riches and with recent protections.
 
 #### Ṛk 11
@@ -16380,7 +16380,7 @@ O great ones (बृहंता (*bṛhaṃtā*) = महांतौ (*mahā�
 
 O great-souled Indra and Varuṇa, deign to come to us with great protections. In the battle fought for food, in which your weapons move as if at play amidst the enemy armies, may we, by your favour, become like victorious lords in that battle.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Mighty Indra and Varuna, come to us in battle with (your) powerful protections, and where the bright (weapons) play amidst the (hostile) hosts, may we be triumphant in that conflict (through) your (favour).
 
 ## Sūkta 42 (Maṇḍala 4)
@@ -16482,7 +16482,7 @@ This sūkta, "mama dvitā", is the tenth sūkta in the fourth anuvāka. It has t
 
 Just as all the gods belong to us, so my kingdom—mine, who am born in the Kṣatriya line, lord of all mankind, named Trasadasyu—is of two kinds, earth and heaven. All the gods attend upon the rite of me, who am Varuṇa in nature, in human form, nearest to all, possessed of form. I myself hold lordship over all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Towfold is my empire, that of the whole Kshatriya race, and all the immortals are ours: the gods associate me with the acts of Varuna : I rule over (those) of the proximate form of man.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -16545,7 +16545,7 @@ Since the king was born by the grace of Indra and Varuṇa, after the seven seer
 
 I myself am the lord, Varuṇa. The gods have obtained for me alone all that strength—foremost, well known, destroying the Asuras—and they offer it to me. All the gods attend upon the rite of me, who am Varuṇa in nature, in human form, nearest to all, possessed of form. I myself hold lordship over all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I am the king Varuna; on me (the gods) bestow those principal energies (that are) destructive of the Asuras ; (they) associate me with the worship of Varuna : I rule over (the acts) of the proximate form of man.
 
 ### Printed p. 423
@@ -16607,7 +16607,7 @@ I, named Trasadasyu, am by my greatness of the form of Indra and of Varuṇa. He
 
 ### Printed p. 424
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I am Indra, I am Varuna, I am those two in greatness : (I am) the vast, profound, beautiful, heaven and earth: intelligent, I give like Twashtri animation to all beings : I uphold earth and heaven.
 
 #### Ṛk 4
@@ -16661,7 +16661,7 @@ I am Indra, I am Varuna, I am those two in greatness : (I am) the vast, profound
 
 I myself have made the waters, flowing by nature, spread and flow everywhere. I have also lifted up and held the world of Dyu as a dwelling-place for water. I, the son of Aditi, causing the sky—of three divisions, pervading—to pervade specially, am on account of water itself the protector of water.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have distributed the moisture-shedding waters; I have upheld the sky as the abode of the water; by the water I have become the preserver of the water, the son of Aditi, illustrating the threefold elementary space.
 
 #### Ṛk 5
@@ -16719,7 +16719,7 @@ I have distributed the moisture-shedding waters; I have upheld the sky as the ab
 
 Warriors with excellent horses, desirous of battle, who are leaders, call upon me alone for help. Even those engaged in battle call upon me alone. I, in the form of wealthy Indra, conduct the battle. Possessing power to defeat enemies, I cause the dust to be thrown up and spread.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Warriors well mounted, ardent for contest, invoke me : selected (combatants invoke) me in battle: I, the affluent Indra, instigate the conflict, and endowed with victorious prowess, I raise up the dust (in the battle).
 
 #### Ṛk 6
@@ -16780,7 +16780,7 @@ Warriors well mounted, ardent for contest, invoke me : selected (combatants invo
 
 I, named Trasadasyu, have done all the deeds mentioned above. No one can obstruct me, the unopposed, or my divine power. When the Soma juices and the praises gladden me, then both the boundless heaven and earth tremble with fear.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have done all these (deeds): no one resists my divine, unsurpassed vigour; and when the Soma juices, when sacred songs exhilarate me, then the unbounded heaven and earth are both alarmed.
 
 #### Ṛk 7
@@ -16838,7 +16838,7 @@ From here on, praise of Indra and Varuṇa. "O Varuṇa, all those beings know y
 
 O Varuṇa, all beings know you, the renowned. O praiser, praise Varuṇa exceedingly. O Indra, you are renowned as having destroyed your enemies. You released the enclosed waters, which are of a flowing nature, and made them flow.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 All beings recognize you (Varuna), and you, worshipper, address these (encomiums) to Varuna: you, Indra, are renowned as slaying Vritra; you have set the obstructed rivers free to flow.
 
 ### Printed p. 429
@@ -16899,7 +16899,7 @@ Sāyaṇa first gives the story in verse: when Purukutsa was held in bonds in th
 
 Because Purukutsa was bound, even the renowned seers became protectors in this kingless land. When Purukutsa was bound, the same seers, by the favour of Indra and Varuṇa, caused Trasadasyu, the destroyer of enemies, like Indra and having the nearness of the gods, to be born in Purukutsa's wife.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The seven Rishis were the protectors of this our (kingdom) when the son of Durgaha was in bonds: performing worship they obtained for (his queen) from the favour of Indra and Varuna, a son like Indra the slayer of foes, dwelling near the gods.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -16963,7 +16963,7 @@ This king is said to be the father of Purukutsa. It is stated clearly in the pre
 
 O Indra and Varuṇa, did not the wife of Purukutsa worship and satisfy you both with oblations and praises? As the result you have graciously given her a son named Trasadasyu, destroyer of enemies, standing in the nearness of the gods, and worthy to be a lord.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The wife of Purukutsa propitiated you two, Indra and Varuna, with oblations and prostrations, and therefore you gave her the king Trasadasyu, the slayer of foes, dwelling near the gods.
 
 #### Ṛk 10
@@ -17019,7 +17019,7 @@ Sāyaṇa glosses: with wealth (राया (*rāyā*)) may we revel, we who ar
 
 O Indra and Varuṇa, may we, your worshippers, be delighted with wealth. May the gods be satisfied with the oblation and the cows with pastures. O Indra and Varuṇa, bestow on us every day that faultless, well-known, gratifying wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we, glorifying you both, be delighted by riches; may the gods be pleased by oblations, the cows by pasture: and Indra and Varuna, daily grant us that same milch cow, (riches), free from any imperfection.
 
 ## Sūkta 43 (Maṇḍala 4)
@@ -17145,7 +17145,7 @@ Among the gods who are worthy of the sacrifice, which god would hear our praise?
 
 Among the gods worthy of the sacrifice, which god hears our praise? Which god will hear a praise offered with homage? Which among them enjoys our praise? Among the deathless gods, in whose heart may we offer this excellent praise, which is most dear, shining, and provided with excellent oblation?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Which of those who are entitled to sacrifice will listen (to our prayers)? which of the gods will hear our praise? which will be propitiated (by it)? upon the heart of whom among the immortals may we impress the devout affectionate adoration, accompanied by sacred oblations ?
 
 ### Printed p. 440
@@ -17202,7 +17202,7 @@ Among the gods (other than the Aśvin gods), which god gives us happiness? Which
 
 ### Printed p. 441
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Who will make us happy ? which of the gods is the most prompt to come to our sacrifice ? which the most willing to grant us felicity? what chariot do they say is quick and drawn by rapid steeds? that which the daughter of Surya selected.
 
 #### Ṛk 3
@@ -17261,7 +17261,7 @@ Who will make us happy ? which of the gods is the most prompt to come to our sac
 
 O Aśvin gods, as Indra displays his power in the last watch of the night, you too move quickly through the coming days. You who have come from the heavenly world, who are divine in nature and of excellent movement, among your many deeds, by which excellent action have you become those who display your splendid distinction?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Moving, you proceed rapidly by day, as Indra, at the end of the night, (manifests his) power: descended from heaven, divine, of graceful motion, (Ashwins), by which of (your) acts are you most distinguished ?
 
 #### Ṛk 4
@@ -17330,7 +17330,7 @@ Near you two, who could endure great त्यजः (*tyajaḥ*), wrath, so cal
 
 O Aśvin gods, what could be the praise that is the means of describing the distinction of you two? By what praise should you be invoked so that you come to us? Who could be near you as an object of your wrath? O Aśvin gods, producers of sweet flavour and destroyers of enemies, protect us with your protections.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What may be the fit measure (of your merits)? Invoked by what praises do you come to us? Who (can exist as) the object of your great wrath? Dasras, dipensers of sweet (water), defend us with your protection.
 
 #### Ṛk 5
@@ -17397,7 +17397,7 @@ O Aśvins, your chariot travels widely round the heavenly world, since it turns 
 
 O Aśvin gods, to bring you who are in a region beyond the firmament, your chariot travels around the heavenly world and comes to stand facing you. For the purpose of offering to you, before the soma is combined with the barley grains, the adhvaryus mix and combine the sweet soma with sweet milk.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Your chariot travels widely round the heaven until it places you beyond the firmament : dispensers of sweet (water, the priests) are diluting
 
 ### Printed p. 445
@@ -17461,7 +17461,7 @@ The flowing cloud, or water, sprinkled the horses of the two Aśvins with its sa
 
 O Aśvin deities, the flowing water has sprinkled your horses with its sap. Your horses, of attractive colour and bird-like, move all round, joined with radiance. That chariot of yours, with the help of which you become the protectors of the daughter of Sūrya, is swiftly and well known to all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The flowing (stream) has sprinkled your steeds with moisturg : the radiant horses (like) birds (in swiftness) pass on, bright with lustre : well known is that quickmoving charriot, whereby you become the lords of Surya.
 #### Ṛk 7
 
@@ -17526,7 +17526,7 @@ The sentence continues: I join you with praise. May this good praise, now being 
 
 O Aśvin deities, may that same praise now being recited, by which I pray in this very sacrifice to you, the like-minded, and bring you to be joined with praise, be fruitful for us. O Aśvin deities who have delightful food, protect me, your praiser. O Aśvin deities, our desire obtains fulfilment as soon as it has reached you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the earnest praise, distributers of food, wherewith I associate you both like-minded at this sacrifice, be (beneficial) to us: protect your worshipper: my desire, Nasatyas, directed towards you is gratified.
 ## Sūkta 44 (Maṇḍala 4)
 
@@ -17609,7 +17609,7 @@ O Aśvins, we the praisers call today, on the day of pressing, your chariot. Of 
 
 O Aśvin deities, that chariot of yours which bears Sūryā, of famed speed, which brings the rays together, which has the wood of an excellent seat, bears praises, has abundant extent and is wealthy, that chariot of yours we, the praisers, call today, the day of pressing the Soma juice, praying.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We invoke, Ashwins, to-day, your rapid car, the associator of the solar ray: the banked car which bears Surya, vast, wealthy, and laden with praises.
 #### Ṛk 2
 
@@ -17674,7 +17674,7 @@ O sons of heaven, दिवो नपाता (*divo napātā*): standing in th
 
 O Aśvin deities, sons, as it were, of the luminous Āditya, you both enjoy by your excellent deeds the famed wealth (glory). When the powerful horses seat you in the chariot and bear you, then the food of Soma form joins your body.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ashwins, grandsons of heaven, divinities, you enjoy that glory by your actions, that (sacrificial) food is administered to your persons, and powerful horses draw you in your chariot.
 #### Ṛk 3
 
@@ -17724,7 +17724,7 @@ Sāyaṇa asks which sacrificer today makes (karate, "would make") a praise for 
 
 O Aśvin deities, which sacrificer, having offered Soma with mantras, offers praise to you today, whether for protection, for the drinking of Soma, or for obtaining the completeness of the venerable sacrifice? Which sacrificer, offering you homage, can bring you to this sacrifice?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 What offerer of oblations addresses you to-day with hymns for the
 sake (of obtaining) protection, for the drinking of the Soma, or for the
 ancient fulfilment of the sacrifice? What offerer of adoration may bring
@@ -17780,7 +17780,7 @@ you Ashwins (to this rite).
 
 O Aśvin deities, endowed with power in many forms, come to this sacrifice of ours with a chariot made of gold; drink the sweet juice connected with Soma. Provide delightful wealth to me, the sacrificer who serves you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Nasatyas, who are manifold, come with your golden chariot to this sacrifice; drink of the sweet Soma beverage, and give precious things to the man who celebrates (your worship).
 
 ### Printed p. 453
@@ -17846,7 +17846,7 @@ O Aśvin deities, whether you are in the sky or on the earth, come to us with yo
 
 ### Printed p. 454
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Come to our presence, whether from heaven or earth, with your well-constructed golden chariot: let not other devout worshippers detain you, for a prior attraction awaits you (here).
 
 #### Ṛk 6
@@ -17908,7 +17908,7 @@ Come to our presence, whether from heaven or earth, with your well-constructed g
 
 O Aśvin deities of beautiful form, when, among us who belong to both the Purumiḷa and Ajamiḷa groups, the priests on Purumiḷa's side recite praise addressed to you, and likewise the priests on Ajamiḷa's side recite along with it praises fit to be combined with it, then quickly produce and give us wealth endowed with many sons and great.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Dasras, mete out for us both great opulence, comprising many descendants, since the leaders of the rite (the Purumilhas), have addressed to you, Ashwins, their praise, and the Ajamilhas have united with it their laudation.
 
 #### Ṛk 7
@@ -17969,7 +17969,7 @@ Dasras, mete out for us both great opulence, comprising many descendants, since 
 
 O Aśvin deities, whatever praise by which I pray to you two, of one mind, in this very sacrifice and cause you to be joined with the praise, may that same praise now being recited be fruitful for us. O Aśvin deities who have delightful food, protect me, the praiser. O Aśvin deities, our desire attains fulfilment as soon as it reaches you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the earnest praise, distributers of food, wherewith I associate you both like-minded at this sacrifice, be (beneficial) to us: protect your worshipper : my desire, Nasatyas, directed towards you is gratified.
 
 ### Printed p. 457
@@ -18064,7 +18064,7 @@ The famous Āditya, shining in front, has risen and comes up. O Aśvins, your ch
 
 ### Printed p. 459
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The sun rises: your chariot, (Ashwins), traversing (the regions), is associated with the divine (orb) on the summit (of the eastern mountain): in it are the three analogous kinds of foud, and the leather vessel of the sweet Soma juice appears as the fourth.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -18129,7 +18129,7 @@ Your chariots, पृक्षासः (*pṛkṣāsaḥ*) (provided with the t
 
 Your chariots, provided with food, full of Soma juice and yoked with horses, like the sun, destroying the darkness all around and making bright radiance spread everywhere, move upward at the times of the dawns' appearing.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Your food-bearing, Soma-laden, well-horsed chariots, appear at the opening of the dawn, scattering the surrounding darkness like the sun, and spreading bright radiance over the firmament.
 
 ### Printed p. 461
@@ -18191,7 +18191,7 @@ O Aśvins, drink the sweet Soma juice with mouths fit for drinking honey. And yo
 ### Printed p. 462
 Come to the sacrificer's house. Make your path of going pleasing with Soma juice. Bring the leather vessel filled with Soma juice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Drink of the Soma juice with mouths (fit for) imbibing the beverage : harness your beloved chariot for the Soma juice: (come to the dwelling) of the sacrificer : enliven the path with the Soma: bring, Ashwins, the leather vessels filled with the Soma juice.
 
 #### Ṛk 4
@@ -18250,7 +18250,7 @@ Drink of the Soma juice with mouths (fit for) imbibing the beverage : harness yo
 
 O Aśvins, with whichever horses of yours are swift-moving, endowed with sweetness, not opposing, golden-winged, able to bear burdens, waking at dawn, spreading water, joy-giving, and stimulated by the touch of the joy-giving Soma, come with them lovingly to our sacrificial houses, as bees come to a place where there is honey and fill themselves.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Come to sacrifices as flies to honey, (with those horses) that are swift of speed, gentle, unrefractory, goldenwinged, bearers (of burthens) wakers at dawn, dispensers of water, exulting and sipping the Soma juice.
 
 #### Ṛk 5
@@ -18307,7 +18307,7 @@ The sacred fires, Gārhapatya and the others, are स्वध्वरासः
 
 Whenever the Adhvaryu, whose hands have been purified with mantra-water, who causes the rite to be completed fully and who watches over the sacrificial acts, presses with stones the Soma full of sweet juice, the fires Gārhapatya and the rest, which have the excellent means of sacrifice and have Soma to convey to the gods, praise the Aśvin deities every day at dawn.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The sacred fires, the insturments of holy sacrifice, the conveyers of libations, praise the associated Ashwins at the break of day, when the observant (priest) the conductor of the rite, with washed hands has expressed by the (grinding) stones the sweet-favoured Soma juice.
 
 ### Printed p. 465
@@ -18366,7 +18366,7 @@ The rays that spread near the sun destroy the deep darkness in the daytime and m
 
 ### Printed p. 466
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The near-advancing (rays), dispersing (the darkness) by the (light of day), are overspreading the firmament with lustre like the sun : the sun harnessing his horses, (proceeds on his way): do you make known all his paths by (following) after (him) with sacrificial food.
 
 #### Ṛk 7
@@ -18423,7 +18423,7 @@ O Aśvin deities, I, the manager of the rite, praise you. Come, with that chario
 
 ### Printed p. 467
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Celebrating (sacred) rites, I glorify you, Ashwins: well-horsed and undecaying is that chariot, whereby you quickly traverse the regions (of space), and come to (our sacrifice) abounding in oblations, promytly passing away, and the yielder of enjoyment.
 
 ## Sūkta 46 (Maṇḍala 4)
@@ -18503,7 +18503,7 @@ O Vāyu, you first, before Indra and the rest, drink the pressed (सुतं (
 
 O Vāyu, the Soma juices have been pressed and are ready. Drink them before Indra and the others. In the sacrifices that lead to heaven you yourself are the one who drinks before all.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Drink first, Vayu, the effused libation of the Soma at the rites that secure heaven, for you verily are the first drinker.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -18591,7 +18591,7 @@ O Vāyu, you who are नियुत्वान् (*niyutvān*), possessed of 
 
 O Vāyu, you who are possessed of the horses called niyuts and have Indra himself as charioteer, come to our sacrifice for the fulfilment of our immeasurable desires, and drink, you and Indra, the Soma we have pressed.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vayu, you are drawn by the Niyuts, and have Indra for charioteer ; come (for the fulfilment) of our numerous wishes, and do you (and Indra) drink of the libation.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -18642,7 +18642,7 @@ O Indra and Vāyu, a thousand हरयः (*harayaḥ*), thousands of horses, a
 
 O Indra and Vāyu, may a thousand horses, desirous of food and for the purpose of drinking Soma, bring you to us who are waiting.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Vayu, may a thousand steeds, eager for food, bring you to drink the Soma.
 
 #### Ṛk 4
@@ -18689,7 +18689,7 @@ O Indra and Vāyu, mount the chariot that is हिरण्यवंधुर�
 
 O Indra and Vāyu, mount and sit in the chariot that has a seat made of gold, touches the heavenly world, and is graceful for an excellent sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Mount, Indra and Vayu, the golden-seated chariot, propitious to sacrifice, soaring to heaven.
 
 #### Ṛk 5
@@ -18737,7 +18737,7 @@ The tṛca beginning रथेन पृथु (*rathena pṛthu*) is, on the fi
 
 O Indra and Vāyu, come with your exceedingly powerful chariot to the neighbourhood of the sacrificer, the giver of oblations. Be pleased to take part in this sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Vayu, come with your very strong chariot to the sacrifice; come hither.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -18789,7 +18789,7 @@ O Indra and Vāyu, this Soma is pressed (सुतः (*sutaḥ*), "pressed out"
 
 O Indra and Vāyu, this Soma has been pressed and made ready. Drink this very Soma, together with all the gods, being of equal delight, in the sacrificial house of the sacrificer, the giver of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Vayu, this (libation) is poured out : sympathizing with the gods, drink it in the dwelling of the donor.
 
 #### Ṛk 7
@@ -18838,7 +18838,7 @@ O Indra and Vāyu, let your going be towards this place of sacrifice. For the sa
 
 ### Printed p. 478
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Hither be your course; here, Indra and Vayu, be the letting of your horses loose, for your drinking of the Soma.
 
 ## Sūkta 47 (Maṇḍala 4)
@@ -18910,7 +18910,7 @@ O Vāyu, I, who am radiant through observance of vows and the like, in expectati
 
 ### Printed p. 480
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Purified (by holy acts) I bring to you, Vayu, the Soma, first (offered to you at sacrifices) that seek to gain heaven : deity, you are ever longed for, come with thy Niyut steeds to drink the Soma juice.
 
 #### Ṛk 2
@@ -18964,7 +18964,7 @@ O Indra and Vāyu, you two alone are worthy of the drinking of the Soma juices m
 
 ### Printed p. 481
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Vayu, you are fit for the drinking of theeS Soma libations, for the drops flow towards you as waters (run) together into a deep place.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -19018,7 +19018,7 @@ O Vāyu, you and Indra, O lords of strength (शवसस्पती (*śavasas
 
 O Indra and Vāyu, you who are protectors of strength, full of vigour, and possessed of the horses named Niyut: seated together in one chariot, graciously come for our protection and for the drinking of Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Vayu who are lords of strength, vigorous, and drawn by the Niyut steeds, come (riding in) the same car : drink the Soma for our protection.
 
 #### Ṛk 4
@@ -19069,7 +19069,7 @@ O leaders, O Indra and Vāyu, carriers of the sacrifice: the Niyut horses that e
 
 O Indra and Vāyu, leaders and carriers of the sacrifice: those horses, desired by many, named Niyut, dear to you, which are renowned among you, give them to us, the givers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Leaders (of rites), conveyers of sacrifices, Indra and Vayu, give to us for the offerer (of the oblation), those Niyuts which are your (steeds), and are desired of many.
 
 ## Sūkta 48 (Maṇḍala 4)
@@ -19147,7 +19147,7 @@ O Vāyu, enjoy (वीहि (*vīhi*)) the Soma oblations, conducive to the off
 
 O Vāyu, enjoy the pure Soma oblations, not taken by others, like a king who terrifies enemies. Give wealth to me, the worshipper; come graciously with your delightful chariot to drink the Soma juice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Drink, Vayu, the oblations yet untasted, like (a prince) the terrorier of foes ; (bestow) upon the worshipper wealth : come with your brilliant car to drink the Soma juice
 
 ### Printed p. 485
@@ -19194,7 +19194,7 @@ O Vāyu, you who wholly drive away (निर्युवाणः (*niryuvāṇ
 
 O Vāyu, you who keep off inauspicious things, who have the Niyut horses, who have Indra as charioteer: come graciously with your delightful chariot to drink the pressed Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vayu, who are the represser of calumnies, who are drawn by the Niyuts, and have Indra for you charioteer, come with your brilliant car to drink the Soma juice.
 
 ### Printed p. 486
@@ -19241,7 +19241,7 @@ The two dark (कृष्णे (*kṛṣṇe*)) ones, nurses of treasures (व
 
 O Vāyu, heaven and earth, of deep dark colour, nourishers of wealth, of manifold forms, serve you alone. Come graciously with your delightful chariot to drink the pressed Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The dark nurses of wealth, the universal forms (heaven and earth), attend upon you; come Vayu with your brilliant car to drink the Soma juice.
 
 ### Printed p. 487
@@ -19289,7 +19289,7 @@ O Vāyu, ninety-nine horses (नवतिर्नव (*navatirnava*)), mind-yok
 
 O Vāyu, may the horses, swift as the speed of thought, fitted to one another, ninety-nine in number, carry you. Come graciously with the delightful chariot to drink the pressed Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the ninety-nine steeds harnessed together, that are as swift as thought, convey you : come, Vayu, with your brilliant car, to drink the Soma juice.
 
 ### Printed p. 488
@@ -19340,7 +19340,7 @@ The Ṛk वायो शतं (*vāyo śataṃ*) is the third of the triplet a
 
 O Vāyu, yoke to your chariot a hundred horses fit to be nourished (or well-fed). Or else let your chariot, joined with a thousand horses, come with its strength.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Harness, Vayu, a hundred plump steeds, or even a thousand, and let your chariot come with rapidity (hither).
 
 ### Printed p. 489
@@ -19415,7 +19415,7 @@ O Indra and Bṛhaspati, "I offer this dear oblation, in the form of Soma, into 
 
 O Indra and Bṛhaspati, I offer in your mouths this oblation in the form of Soma, prepared here and very dear to you. And I recite the gladdening śastra mantra and offer it to you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (I present) the agreeable oblation to your mouths, Indra and Brihaspati, and the hymn and the exhilarating beverage are offered.
 #### Ṛk 2
 
@@ -19460,7 +19460,7 @@ O Indra and Bṛhaspati, in your mouths this beautiful Soma is poured all around
 
 O Indra and Bṛhaspati, in your mouths this beneficial Soma is offered all around, for your drinking and thereby for your gaining delight.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The delicious Soma is effused, Indra and Brihaspati, for you, for (your) drinking and exhilaration.
 #### Ṛk 3
 
@@ -19513,7 +19513,7 @@ O Indra and Bṛhaspati — now it is stated separately: O Bṛhaspati, you and 
 
 O Indra and Bṛhaspati, you two, drinkers of Soma, come to our house to drink the Soma.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Brihaspati, come to our dwelling, drinkers of Soma, to drink the Soma juice.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -19562,7 +19562,7 @@ The use of this Ṛk was stated together with the previous mantra. O Indra and B
 
 O Indra and Bṛhaspati, give us wealth that is accompanied by a hundred cows and by a thousand horses.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Grant to us, Indra and Brihaspati, riches comprising a hundred (cattle), a thousand horses.
 #### Ṛk 5
 
@@ -19607,7 +19607,7 @@ Grant to us, Indra and Brihaspati, riches comprising a hundred (cattle), a thous
 
 O Indra and Bṛhaspati, we have pressed and prepared this Soma for you. For its drinking we pray to you and call you with words of praise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Indra and Brishaspati, we invoke you with praisas, when the libation is effused, to drink of this Soma juice.
 
 #### Ṛk 6
@@ -19654,7 +19654,7 @@ O Indra and Bṛhaspati, you two are to drink Soma in the house of the दाश
 
 O Indra and Bṛhaspati, in the house of the sacrificer who gives the oblation, making that very house your dwelling-place, drink the Soma offered there, and express the joy that results from it.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Drink, Indra and Brihaspati, the Soma, in the dwelling of the donor, and be exhilarated in his abode.
 
 ## Sūkta 50 (Maṇḍala 4)
@@ -19733,7 +19733,7 @@ The sūkta beginning यस्तस्तंभ (*yastastaṃbha*) is the fifth
 
 Use: in the Abhiplava ukthya rites, at the third pressing, among the sūktas recited by the Brāhmaṇācchaṃsin for the increase of the stoma, this sūkta is to be used as an insertion (āvāpa); and the sūtra says यस्तस्तंभ यो अद्रिभित् (*yastastaṃbha yo adribhit*) (Ā. 7-9). In the first Bṛhaspatisava, the Marutvatīya and Niṣkevalya śastras are to begin with the first two ṛks of the sūkta (as sūktamukhīya); and it is laid down in the sūtra यस्तस्तंभ धुनेतय इति सूक्तमुखीये (*yastastaṃbha dhunetaya iti sūktamukhīye*) (Ā. 9-5).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The Kannada Anuvāda within the block states the same: this sūkta is the fifth in the fifth anuvāka, with eleven ṛks; the seer is Vāmadeva; ṛks 10 and 11 are for Indra and Bṛhaspati and the other nine for Bṛhaspati; the tenth ṛk is in Jagatī and the others in Triṣṭubh; the Anukramaṇikā is quoted; the use in the Ukthya of the Abhiplava at the third pressing is explained by the Āśvalāyana Śrautasūtra (Ā. 7-9); and the use of the first two ṛks in the Bṛhaspatisava, at the beginning of the Marutvatīya Niṣkevalya śastra, by Ā. 9-5.
 
 ### Printed p. 501
@@ -19802,7 +19802,7 @@ Bṛhaspati is the protector of the great god, the sacrifice **NOTE**. By his st
 
 The ancient, shining and wise seers have, by their praises, established before themselves Bṛhaspati, who by his own power has regulated and made stand the ends of the earth, that is, the ten directions; who by his special sound has pervaded all three worlds; and who has a gladdening tongue.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The ancient sages, illustrious, intelligent, have placed before (them)
 the pleasing-tongued Brihaspati, who propped up by (his) strength the ends
 of the earth, and who adides with noise in the three regions.
@@ -19859,7 +19859,7 @@ O Bṛhaspati! धुनेतयः (*dhunetayaḥ*): those whose course (*gati
 
 O Bṛhaspati! Protect this sacrifice, which is fruit-bestowing, of a nature that advances without obstacle, unharmed and extended, performed by those priests who strike fear into enemies, who serve you of excellent understanding and bring you delight, and who have praised you abundantly for us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Brihaspathi, protect the fruit-yielding, progressive, uninjured, ample sacrifice of this (your worshipper, at which) they who are the terrifiers, (of foes), the delighters of you who are possessed of great wisdom, glorify (you) in our behalf.
 
 #### Ṛk 3
@@ -19920,7 +19920,7 @@ The two Ṛks beginning बृहस्पते या (*bṛhaspate yā*) are 
 
 O Bṛhaspati! From that famed, most excellent, distant abode called heaven, your horses, which touch the sacrifice, have descended and sat down at the place of sacrifice. As water gushes like a spring from a newly dug well, so for you the Soma juices, crushed and pressed by the stones, flow all around, making in many ways a sound of praise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Those (steeds), Brihaspati, which had come from that distant
 (region), the best (of all), have sat down in connection with the ceremony,
 and to you the Some juices expressed by the stones flow copiously,
@@ -19985,7 +19985,7 @@ This Bṛhaspati, the god who presides over the mantra, being born first in the 
 
 Bṛhaspati, being born first in the excellent sky of the great, luminous sun, being one whose mouth is in the form of the seven metres, born in many ways, mingled with sound and endowed with seven rays, destroyed the black darknesses.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Brihaspati, when first being born in the highest heaven of supreme
 light, seven-mouthed, multiform, (comdined) with sound, and seven-rayed,
 has subdued the darkness.
@@ -20047,7 +20047,7 @@ That Bṛhaspati, together with the company of the Aṅgirases, which has good p
 
 The world-renowned Bṛhaspati, together with the host of the Aṅgirases, who are possessed of excellent praises and are radiant, made sound (reciting mantras) and split asunder the evil-minded asura named Vala. That same Bṛhaspati released the cows, which are boon-giving, which yield milk and the like that are the means of the oblation, and which were lowing; making sound like them, he freed them and made them roam freely.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Aided) by the praised and brilliant troop (of the Angirasas), he destroyed with sound the mischievous Vala : Brisahpati, shouting aloud, set free the boon-bestowing, oblation-supplying cows.
 
 #### Ṛk 6
@@ -20113,7 +20113,7 @@ The verse एवा पित्रे (*evā pitre*) is the yājyā for the obl
 
 Addressing Bṛhaspati, the protector of the world, the soul of all the deities, the showerer of desires, let us worship him in the manner prescribed, with oblations that are the means of sacrifice and with praise. O Bṛhaspati, grant that we may have excellent sons, be endowed with valour, and become lords of wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Thus may we offer worship with sacrifices, with oblations, with praise, to the paternal, uvuniversal deity, the showerer (of benefits) ; and may we, Brihaspati, become possessed of riches, and be blessed with excellent progeny and valiant descendants.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -20199,7 +20199,7 @@ Now the rules and the course of action of the office of purohita will be explain
 
 ### Printed p. 512
 
-##### English translation (H. H. Wilson)
+##### Printed English
 That prince overcomes by his strength and prowess all hostile people,
 who cherishes liberally Brihaspati, and glorifies and honours him as the
 first sharer (of the offering).
@@ -20342,7 +20342,7 @@ That very king dwells (क्षेति (*kṣeti*) means "resides"), well sat
 
 The king to whom the Brahman goes and joins, occupying the first place of honour, becomes most excellently satisfied and lives happily in his own dwelling-place. For that king the earth, always rich in crops and wealth, yields excellent fruit. To that same king all the subjects, moved by their own joy, offer homage.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily he abides prosperous in his own abode ; for him the earth bears fruit at all seasons ; to him (his) subjects willingly pay homage, the Brahmana first, (duly reverenced), repairs,
 
 #### Ṛk 9
@@ -20397,7 +20397,7 @@ That same king, unopposed (अप्रतीतः (*apratītaḥ*)), not met b
 
 The king who offers wealth to a Brāhmaṇa of brahmic power who seeks his protection, that king, unopposed by enemies, keeps under his own lordship all the wealth, both that belonging to enemy people and that belonging to his own people. All the gods protect that king.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Unopposed he is the master of the riches of hostile people, and of his own subjects : the Raja who bestows riches upon the Brahmana seeking his protection, him the gods protect.
 
 ### Printed p. 521
@@ -20469,7 +20469,7 @@ O Bṛhaspati, you and Indra drink the Soma. What kind are you? Rejoicing (manda
 
 O Bṛhaspati, you and Indra together, delighted and granting what is desired, drink the Soma juice in this sacrifice. May the Soma juices, which have the power to spread everywhere, enter your bodies completely. Provide us with wealth together with all heroic sons and the rest.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Brihaspati, you and Indra, both exulting and showering riches, drink the Soma at this sacrifice : may the all-pervading drops enter you : bestow upon us riches comprising all male descendants.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -20532,7 +20532,7 @@ O Bṛhaspati, O Indra, make us grow (vardhatam), that is, make us prosperous. M
 
 O Bṛhaspati and O Indra, make us prosperous. May your well-known gracious disposition be attached to us. Protect our rites. Know our praises well and applaud them. Confront and destroy the foes who attack us, the givers of oblations.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Brihaspati, Indra, elevate us: may the favourable disposition of you both be combined for us : protect our rites: be awake to our laudations, confound the arrogant (foes) of us who are the donors (of oblations).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -20716,7 +20716,7 @@ Now we begin the exposition of the eighth adhyāya of the third aṣṭaka. This
 
 The radiance of Uṣas, which has risen in the east out of the midst of darkness, which is seen ahead, famed in the world, exceedingly well known, is the giver of vitality to the whole world. May the Dawns, who are like daughters of Āditya and are radiant, surely bring about for the sacrificers the capacity for going and other activities.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 This widely-spread and sense-bestowing light has sprung up in the ast from out of the darkness. verily the brilliant Dawns, the daughters of heaven, are giving to man (the faculty to act).
 
 ### Printed p. 531
@@ -20775,7 +20775,7 @@ Like the sacrificial posts planted in the sacrificial halls, the Dawns, with att
 
 ### Printed p. 532
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The many-limbed Dawns rise up in the east, like the pillars planted at sacrifices (round the alter) ; radiant and purifying, they are manifested, opening the gates of the obstructing gloom.
 
 #### Ṛk 3
@@ -20830,7 +20830,7 @@ Today, at this sacrifice, the wealthy (मघोनीः (*maghonīḥ*): *dhan
 
 The Dawns, who destroy the black darkness and are wealthy, awaken on this day of the sacrifice the sacrificers who offer food to the gods, so that they may offer Soma and other wealth. May the greedy, without knowledge of duty, lie sleeping in sloth, bereft of consciousness, in the middle of the abhorrent black darkness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The gloom-dispelling, affluent Dawns animate the pious worshippers to offer (sacrificial) treasure : may the churlish (traffickers) sleep on unawakened, in the unlovely depth of darkness.
 
 #### Ṛk 4
@@ -20892,7 +20892,7 @@ O divine, shining Dawns, may your यामः (*yāmaḥ*) (गमनसाध�
 
 O shining Dawns, by whatever chariot you, who are wealthy, come and shine, so as to be rich in wealth, in the troop of the Aṅgirases, who are famed under the name Navagva, famed under the name Daśagva, and have mouths in the form of the seven metres: may such a chariot, to bring you here on this day of the sacrifice, whether ancient or new, come to you many times. **NOTE**
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine Dawns, may your chariot, whether old or new, be frequent at this day's (worship), wherewith affluent Dawns, possessing riches, (you shine) upon the seven-mouthed (troop of the) Angirasas, the observers of the nine or ten days' rite.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -20970,7 +20970,7 @@ O shining Dawns, you quickly travel round all the worlds with horses that go to 
 
 O shining Dawns, awakening the sleeping living beings, both two-footed and four-footed, for their activities such as going about, travel quickly round all the worlds with horses that go to the sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine Dawns, with horses that frequent sacrifices you quickly travel round the regions (of space) : awake the sleeping being, weather biped or quadruped, to pursue (his functions).
 
 #### Ṛk 6
@@ -21028,7 +21028,7 @@ Among these Dawns, where today is the ancient one, which one is she, by whom the
 
 Among these countless Dawns, who is that ancient Dawn with whose help the Ṛbhus' works of making the cups and so on were accomplished? Where is her place? The Dawns that move shining and auspicious cannot be known by individual distinction, because they are free from decay and have one and the same form.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Where is that ancient one of those (Dawns), through whom the works of the Ribhus were accomplished? for as the bright Dawns happily proceed, they are not distinguished, being alike and undecaying.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -21101,7 +21101,7 @@ The Dawns which the sacrificer praises with śastra mantras, for whom he obtains
 
 ### Printed p. 540
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily those auspicious Dawns have been of old, rich with desired blessings, truthful (bestowers) of the results of sacrifice ; at which the sacrificer, adoring with (silent) praise, glorifying (with hymns), has quickly obtained wealth.
 
 #### Ṛk 8
@@ -21162,7 +21162,7 @@ Those Dawns move about on all sides. समना (*samanā*): alike on all side
 
 The Dawns, renowned, of one and the same kind of form, spread everywhere from the east, in the common region called the atmosphere. Awakening the assembly of the sacrifice, that is, the ṛtvijs and the rest, each for the performance of his own rite, the Dawns, divine in nature, are praised like the rays that are the causes of the creation of water.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 They spread around of similar form, (coming) from the east, (coming) from the same region alike renowned : the divine Dawns, arousing the assembly of the sacrifice, are glorified llke the (rays) creative of the waters.
 
 #### Ṛk 9
@@ -21218,7 +21218,7 @@ Those very Dawns (इत् (*it*) is only a filler; नु (*nu*) means "now") 
 
 The same renowned Dawns, of one kind, of one form, of immeasurable colour, bright with their bodies that are pleasing to the eye, pure and attractive, move about all around, concealing the great pitch darkness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Those Dawns proceed verily all alike, of similar form, of infinate hues, pure, bright, illumining, concealing by their radiant persons the very great gloom.
 
 #### Ṛk 10
@@ -21281,7 +21281,7 @@ Those Dawns proceed verily all alike, of similar form, of infinate hues, pure, b
 
 O Dawns, who are as daughters to the shining Āditya and shine forth in a special manner, provide us with wealth filled with good sons and the like. O Dawns, divine in nature, may we, who awaken you for the sake of comfort, become lords of wealth of sons and the like, endowed with strength.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine, resplendent daughters of heaven, bestow upon us wealth, comprehending progeny : awaking you for our benifit, may we be the lords of excellent descendants.
 
 #### Ṛk 11
@@ -21342,7 +21342,7 @@ Use: तद्वॊ दिव इति व्यष्टायां जप�
 
 O Dawns, daughters of Āditya who belongs to the heavenly world, I, who have the sacrifice itself as my sign, approach you who are shining, and pray and ask you concerning our desired object. May we, the praisers, become lords of all the wealth of food among people like ourselves. May the heavenly world, and the earth, divine in nature, also hold that wealth of food of ours.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Daughters of heaven, resplendent Dawns, I address you (as) the announcer of the sacrifice : may we be (the possessors) of celebrity amongst men, and may heaven and the divine earth perpetuate (it).
 
 ### Printed p. 545
@@ -21420,7 +21420,7 @@ Particulars as given: Sūkta 52; Maṇḍala 4; Anuvāka 5; Aṣṭaka 3; Adhyā
 
 The Dawn-goddess, who is as a daughter of the shining Āditya, praiseworthy, the excellent leader of living beings and the producer of fruits, becomes visible to all at the last part of the night, her sister, destroying the darkness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The daughter of heaven has been seen ; the kind conductress (of men), the parent (of benefits), shedding radiance upon (the departure of her) sister night.
 
 #### Ṛk 2
@@ -21470,7 +21470,7 @@ Like a mare, चित्रा (*citrā*) (**NOTE**), अरुषी (*aruṣ�
 
 The Dawn-goddess, attractive like a good thoroughbred horse, golden-hued, the mother of the rays, possessing a sacrifice, becomes one having equal worship with the Aśvin deities; that is, in the sacrifice she takes a share together with them.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Like a beautiful mare, the radiant mother of the rays of light, the object of sacrifice, (she) is friend of the Aswins.
 
 #### Ṛk 3
@@ -21521,7 +21521,7 @@ Like a beautiful mare, the radiant mother of the rays of light, the object of sa
 
 O goddess Uṣas, you are a friend to the Aśvin deities. You are the mother of the rays and the mistress of wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You are the friend of the Aswins : you are the mother of the rays of light : you, Ushas, rule over riches.
 
 #### Ṛk 4
@@ -21574,7 +21574,7 @@ You are the friend of the Aswins : you are the mother of the rays of light : you
 
 O Uṣas of truthful speech, when enemies come to harm us in the darkness of night, you appear and strike and drive them away, and you make the whole world aware. Praising you thus, we awaken you so that you turn your attention to us, your praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 With praises we awaken you, you are endowed with truth ; you, the baffler of animosities, the restorer of consciousness.
 
 #### Ṛk 5
@@ -21622,7 +21622,7 @@ The auspicious, praiseworthy rays are seen. Like streams of rain, like the disch
 
 The auspicious rays become visible to all, like streams of water. Goddess Uṣas has made her abundant radiance spread and pervade the whole world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The auspicious rays are visible like showers of rain, the dawn has filled (the world) with ample light.
 
 #### Ṛk 6
@@ -21670,7 +21670,7 @@ O radiant (विभावरि (*vibhāvari*)) Uṣas, you, filling the world 
 
 O radiant Uṣas, pervading the whole world with your radiance, you have driven away the darkness with that same radiance. Thereafter protect the food in the form of oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Brilliant Ushas, filling (the world with light), you disperse the darkness with radiance : thereafter protect the oblation.
 
 #### Ṛk 7
@@ -21721,7 +21721,7 @@ This verse आ द्यां तनोषि (*ā dyāṃ tanoṣi*) is the *a
 
 O goddess Uṣas, with your rays you pervade the world of heaven, making it spread out. You pervade the vast and dear atmosphere with your radiant brightness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You overspread, Ushas, the heaven with rays, as well as the vast and beloved firmament with pure lustre.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -21816,7 +21816,7 @@ We choose, that is, we pray for, that great, venerable, desirable (वार्�
 
 Savitṛ, who is mighty, of excellent knowledge and resplendent, is filled with a certain wealth, and out of his own pleasure gives the offerer of the oblation, the sacrificer, riches such as a dwelling. We too pray, desiring that very wealth, which is desired by all, venerable and famous. May Savitṛ, the venerable divine being, bring about for us those same radiant riches in all days and nights.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We solicit of the divine, powerful, and inteligent Savitri that desirable and ample (wealth), along with which he grants a dwelling to the offerer of the oblation of his own accord : may the great deity us such every day.
 
 #### Ṛk 2
@@ -21875,7 +21875,7 @@ We solicit of the divine, powerful, and inteligent Savitri that desirable and am
 
 Prajāpati (Savitṛ), the supporter of the heaven-world and of all born beings, the wise one, has put on a golden armour. That Savitṛ, who looks with many views, displays his radiance and makes it pervade everywhere, and at the same time brings about abundant and praiseworthy happiness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The supporter of heaven, the protector of the world, the wise (Savitri) puts on his golden armour : discriminator (of object), filling (the world with light), Savitri has engendered great and laudable felicity.
 
 #### Ṛk 3
@@ -21942,7 +21942,7 @@ The divine Savitṛ has pervaded with his radiance the worlds that belong to hea
 
 ### Printed p. 557
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The divine (Savitri) fills (with radiance) the celestial and terrestrial regions, and boasts of his own function : Savitri puts forth his arms for (the work of) production, regulating the world, and animating it with light.
 
 #### Ṛk 4
@@ -22001,7 +22001,7 @@ The god Savitṛ, unharmed by others (अदाभ्यो (*adābhyo*)), illum
 
 The god Savitṛ, not falling under the harm of enemies, makes all the worlds shine and protects rites such as sacrifices. He extends his arms for the nurturing of the people of the world. Having taken up the vows of protecting the world and so on, he is the lord of the great world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The divine Savitri unrestrained, illumining the regions, protects the righteous acts (of men); he extends his arms for (the direction of) the people of the earth : observer of obligations, he rules over the wide world.
 
 #### Ṛk 5
@@ -22065,7 +22065,7 @@ This Savitṛ, being the overcomer (परिभूः (*paribhūḥ*)), pervade
 
 Savitṛ, keeping the threefold antarikṣa under his control, pervades it by his majesty. He has pervaded the three worlds, the three radiant principles Agni, Vāyu and Āditya, the three divine worlds Indra, Prajāpati and Satya, and the earth in its three kinds. May this all-pervading god protect us by his three kinds of extraordinary actions, of his own impulse and his own pleasure.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Savitri, encompassing them by his magnitude, pervades the three (divisons of the) firmament, the three worlds. the three brilliant spheres, the three heavens, the threefold earth : may he, by his three functions, of his own (pleasure) protect us.
 
 #### Ṛk 6
@@ -22130,7 +22130,7 @@ Sāyaṇa says that Savitṛ, who is "of great happiness" (बृहत्सु
 
 May the god Savitṛ, who is the support of manifold happiness, the impeller of good works, the refuge of all, and the lord of both kinds of beings, the moving and the stationary, give us happiness extending over the three places, earth and the rest. May he destroy our sins.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May that divine Savitri, who is the source of great happiness, the engenderer (of good works), the comprehender (of all beings), the regula-
 
 ### Printed p. 561
@@ -22202,7 +22202,7 @@ This verse, "āgan deva", is the anuvacanīyā in the Rājakraya (the purchase o
 
 May the god Savitṛ, divine in nature, come to our sacrifice together with the Ṛtu deities. May he make our house prosper. May he give us food together with excellent offspring. May he bring us delight by day and by night. May he supply us with wealth together with good sons.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the divine Savitri approach along with the Ritus, prosper our dwelling, and bestow upon us good progeny and food; may he be favoura-ble to us by night and by day: may he heap upon us wealth comprehending offspring.
 
 ## Sūkta 54 (Maṇḍala 4)
@@ -22434,7 +22434,7 @@ That god Savitṛ has come into being, that is, has appeared. Therefore he quick
 
 The divine Savitṛ has risen. He becomes visible to us. He is worthy of our worship. At the time of the third pressing of this sacrifice he is to be praised by all of us, who are men. May that god Savitṛ, who divides and distributes delightful riches to the sacrificers, who are related to Manu, favour us so that he gives us excellent wealth in this sacrificial rite.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The divine Savitri has been manifested : he is at once to be glorified by us : he is to be praised by the priests at the present (rite), and at the close (of the day), in order that he who appotions precious things to the descendants of Manu may bestow upon us, on this occasion, most excellent wealth.
 
 #### Ṛk 2
@@ -22491,7 +22491,7 @@ The word हि (*hi*) is used in its well-known sense. For the gods who are wor
 
 O god Savitṛ, first you give permission to the gods who are worthy of sacrifice to receive the portion of the Soma juice, which is the best and the means to immortality. Immediately after that you cause the sacrificer, the giver of the oblation, to shine. To the human sacrificers you grant lives in the order of sons, grandsons and so on.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 First you engender for the adorable gods the best portion, immortality; then, Savitri, you set open (the day) to the donor (of the oblation), and (grant) successive existences to men.
 
 #### Ṛk 3
@@ -22548,7 +22548,7 @@ O Savitṛ, whatever offence we have committed through "acitti", lack of underst
 
 O god Savitṛ, whether through lack of understanding, through the weakness of the powerless or the arrogance and the like of the powerful, or through excessive human fault, if we have committed any sin against you, who are of divine nature, or against the other gods, or also against other men, then make us, such sinners, free from sin at the time of this rite, and favour us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 If, Savitri, through ignorance, through pride in feeble or powerful (dependants), or through human infirmity, we have commited (offence) against your divine person, or against gods or men, do you, on this occasiou hold us to be unoffending..
 
 ### Printed p. 575
@@ -22614,7 +22614,7 @@ This is the yājyā verse in the offerings of the "devasu" (the eight oblations)
 
 The Savitṛ whose hand has excellent fingers upholds the whole world by his great works and impels the expanse of the earth and the greatness of the world of heaven. We must not harm those excellent works of such a Savitṛ, who is of divine nature. The great work of this god is firm and imperishable.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (It is) not (fit) to obstruct (the acts) of the divine Savitri, since by them he upholds the whole world, whereby his gracious hand spreads fertility over the extent of the earth, and the magnitude of the heaven : such is his true (powcr).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -22675,7 +22675,7 @@ O Savitṛ, "indrajyeṣṭha": Indra, endowed with supreme lordship, or you you
 
 O god Savitṛ, you have raised us, whose honoured one is Indra, to a region higher than the exceedingly lofty clouds. For these same sacrificers you have built abodes with houses fit for dwelling. In whatever way they, moving about, stopped and held you back, in the same manner they stood to obey your command.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You elevate those, of whom Indra is chief, above the vast clouds; for these (your worshippers), you provide dwelling (places) filled with habitations: as when advancing they detained you so in like manner at your command they stayed.
 
 #### Ṛk 6
@@ -22738,7 +22738,7 @@ The sacrificers, O Savitṛ, press for you the "savāsaḥ", the Soma juices (th
 
 O Savitṛ, to us, who every day, at the times of the three savanas, press for you Soma juices that produce good fortune, may Indra, heaven and earth, the goddess presiding over rivers together with the waters, and Aditi together with the Ādityas, provide happiness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra, heaven and earth, Sindhu with the waters, and Aditi with the Adityas, bestow happiness upon us, who, offering libations, Savitri, pour out the auspicious Soma, day by day, thrice a day.
 
 ### Printed p. 579
@@ -22831,7 +22831,7 @@ The sūkta को वस्त्राता (*ko vastrātā*) is of ten Ṛks,
 
 O Vasus, who among you is our protector? Who is the averter of sorrow? O unbroken heaven and earth, protect us. O Varuṇa, O Mitra, protect us from the human enemy who comes against us. O gods, at the time of the sacrifice, who among you will give us wealth?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Which of you, Vasus, is a defender? which is a protector? heaven and earth and Aditi preserve us : defend us, Mitra and Varuna, from the strong man : who is it, gods, that offers you wealth at the sacrifice ?
 
 ### Printed p. 581
@@ -22892,7 +22892,7 @@ May the gods who give the sacrificers ancient, happiness-giving places, and who,
 ### Printed p. 582
 They, being of true works and of attractive form, shine.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The (deities) who bestow ancient :places (of enjoyment on their worshippers), and (with minds) unperplexed, are the separators of light (from darkness); they, the eternal distributors (of rewards), grant (what is desired), and shine of pleasing aspect, the true (recompensers) of pious acts.
 
 #### Ṛk 3
@@ -22947,7 +22947,7 @@ Aditi, to be approached by all, mother of the gods; the goddess Sindhu, the flow
 
 I praise exceedingly with hymns, for their friendship, the venerable Aditi, the goddess of the river, and the divine Svasti, giver of happiness. In whatever manner heaven and earth protect us, in that manner I praise them. May the indestructible deities of day and night bring about the fulfilment of our wishes.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I adore thc venerated Aditi, the Sindhu and the divine Swasti for their friendship: (I praise you) both, Day and Night, that you may protect us unimpeded ; night and morning do (what we desire).
 
 #### Ṛk 4
@@ -23009,7 +23009,7 @@ Aryaman makes known to us the path, the way of sacrifice and the like; so does V
 
 Aryaman and Varuṇa make known to us the excellent path of rites. Agni, guardian of food, makes known the path that brings happiness. May Indra and Viṣṇu, well praised, bring us happiness accompanied by sons and the like, desirable and powerful.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Aryaman and Varuna, instruct us in the path (of worship) : Agni the lord of food, points out the way to happiness : Indra and Vishnu, being glorified, bestow upon us desirable prosperity comprehending descendants and strength.
 
 #### Ṛk 5
@@ -23066,7 +23066,7 @@ Parvata is the deity so named, a friend of Indra. Sāyaṇa takes "the protectio
 
 I pray, desiring the protections of all these: Parvata and the Maruts, who are of divine nature, and Bhaga the protector. May Varuṇa the guardian protect us from the sin that arises from the fault of men. May Mitra too protect us with that same feeling of a friend.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have recourse to the protection of Parvata, of the Maruts, and of
 the divine protector, Bhaga : may the lord (Varuna) presrve us from
 human wretchedness, and may Mitra defend us with a friendly regard.
@@ -23126,7 +23126,7 @@ O Heaven and Earth, of divine nature: as those desiring wealth pray, for help in
 
 ### Printed p. 587
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine Heaven and Earth, I praise you together with Ahibudhnya for those (good things that are) desired. as those desirous of acquiring (riches) praise the ocean on traversing it (in which) the sounding rivers disappear.
 
 #### Ṛk 7
@@ -23183,7 +23183,7 @@ Aditi, the divine one, the mother of the gods, is to protect us together with th
 
 May Aditi, the mother of the gods, together with Mitra and all the other gods, protect us fully. May Indra the guardian protect us with no other attention. We are not able to obstruct the food offered in excellent manner to Mitra, Varuṇa and Agni.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the divine Aditi, with the gods, preserve us : may the ever-
 attentive protecting (deity, Indra,) protect us: we are not able to withhold
 the elevated (sacrificial) food of Mitra, of Varuna, of Agni.
@@ -23485,7 +23485,7 @@ The deity Agni is lord (ईष्टे (*īṣṭe*), has power) to give the mu
 
 Agni, the deity, is lord of the multitude of wealth. Agni is also lord of great good fortune. May Agni provide all these to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni is lord over treasure : Agni (is lord) over great good fortune : may he bestow them upon us.
 
 #### Ṛk 9
@@ -23533,7 +23533,7 @@ Agni is lord over treasure : Agni (is lord) over great good fortune : may he bes
 
 O goddess Uṣas, wealthy, delighting in truthful speech, possessing food: bring and provide for us desired and abundant riches.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Opulent Ushas, truth-speaking, food-abounding, bestow upon us many good things.
 
 #### Ṛk 10
@@ -23585,7 +23585,7 @@ With the wealth (rādhas) with which Savitṛ, Bhaga, Varuṇa, Mitra, Aryaman a
 
 May Savitṛ, Bhaga, Varuṇa, Mitra, Aryaman and Indra too come to our sacrifice with their riches. And may each deity give us the wealth that belongs to him.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Savitri, Bhaga, Varuna, Mitra, Aryaman, Indra, come to us with the wealth (that each bestows).
 
 ## Sūkta 56 (Maṇḍala 4)
@@ -23801,7 +23801,7 @@ In this sacrifice may Heaven and Earth, the great (मही (*mahī*)) and most
 
 With the benevolent intent with which Parjanya, the showerer of rain, separating and establishing Heaven and Earth, which are everywhere extensive and great, roars together with the renowned Maruts and with the clouds (for the sake of rain)—for that very reason may Heaven and Earth, of great nature and praiseworthy, be seated in this sacrifice, radiant and praised with shining hymns.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Vast and most excellent Heaven and Earth, be present with splendour at this (sacrifice, attracted) by sanctifying hymns; since that the showerer sounds everywhere with (his) heralds, the rapid (winds), passing through the two spacious and mighty (regions).
 
 #### Ṛk 2
@@ -23860,7 +23860,7 @@ The two divine (देवी (*devī*)) ones, Heaven and Earth, worthy of worshi
 
 May Heaven and Earth—of divine nature, worthy of sacrifice, compassionate toward the creatures of the world and harming none, pouring down desired objects, of true nature, without thought of injury, having the gods as their sons, carrying through the sacrifice—be in this sacrificial place, accompanied by the gods worthy of sacrifice and praised with shining hymns.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the divine, adorable, benevolent, fertilizing, truthful, unoppressive Heaven and Earth, the leaders of sacrifice, whose sons are the gods, be present with the adorable gods, (attracted) by sanctifying hymns.
 
 #### Ṛk 3
@@ -23918,7 +23918,7 @@ He alone, being स्वपाः (*svapāḥ*) (one of good works), is present
 
 The Prajāpati of steady mind who generated these Heaven and Earth, and by his skilful action impelled those same Heaven and Earth—extensive, unfathomable, of beautiful form, unsupported—for their individual functions: that same Prajāpati, being one of excellent work, is well established in the world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily he was the doer of a good work in the regions, who generated these two, Heaven and Earth, and firm of purpose, gave an impulse by his deed to the two vast, immoveable, beautiful, unsupported worlds.
 
 ### Printed p. 617
@@ -23980,7 +23980,7 @@ May Heaven and Earth, who are united with each other, wide, all-pervading and wo
 
 ### Printed p. 618
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Heaven and Earth, vast, universal, adorable, united in satisfaction, and disposed to give us food, protect us with our spacious dwellings, inhabited by our wives, and may we for our (pious) acts be possessed of chariots and slaves.
 
 #### Ṛk 5
@@ -24031,7 +24031,7 @@ The gāyatrī triplet beginning प्र वां (*pra vāṃ*) is to be inse
 
 O shining Heaven and Earth, addressed to you we compose abundant and excessive praise; and we approach you, the pure ones, in order to praise you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We offer earnest praise to you both, resplendent (Heaven and Earth); we approach you who are pure, to offer adoration.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -24086,7 +24086,7 @@ O divine pair, you purify each other (*mithaḥ punāne*), each by its own body 
 
 O Heaven and Earth, by your own form and by your own power you shine, purifying each other; and at all times you carry the sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Mutually sanctifying (each other) of your own substance, you shine by your own power, and ever bear away the offering.
 
 #### Ṛk 7
@@ -24134,7 +24134,7 @@ The two great ones, Heaven and Earth, accomplish the desire of the worshipper wh
 
 O Heaven and Earth, of great nature, you accomplish the desired objects of the sacrificer, who is a friend to you; and distributing food to him and filling him with food, you are seated around the sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Mighty (Heaven and Earth), you fulfil the desires of your friend : distributing food and giving sustenance, you have sat down at the sacrifice.
 
 ## Sūkta 57 (Maṇḍala 4)
@@ -24217,7 +24217,7 @@ Sūkta 57. Maṇḍala 4; Anuvāka 5; Sūkta 57. Aṣṭaka 3; Adhyāya 8; Varga
 
 We, the performers of the sacrifice, obtain victory with the help of the deva, the lord of the field, who is like a friend to us. May that same deva bring and supply to us nourishing cows and horses. By gifts of this kind he makes us happy.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 With the master of the field, our friend, we triumph : may he bestow upon us cattle, horses, nourishment, for by such (gifts) he maks us happy.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -24477,7 +24477,7 @@ O deva, lord of the field, as a cow yields milk, milk out and pour for us water 
 
 ### Printed p. 629
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Lord of the field, bestow upon us sweet abundant, (water), as the milch cow (yields her) milk, dropping like honey, bland as butter : may the lords of the water make us happy.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -24539,7 +24539,7 @@ Sāyaṇa says that this Ṛk is the concluding (parinidhānīya) verse for the 
 
 May the herbs such as rice be sweet for us. May the heavens, the waters and the firmament be possessed of a sweet essence in our regard. May the lord of the field also be beneficent to us. Unharmed by enemies, let us conduct ourselves according to the command of this lord of the field.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the herbs (of the field) be sweet for us ; may the heavens, the waters, the firmament, be kind to us ; may the lord of the field be gracious to us : let us, undeterred (by foes), have recourse to him.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -24597,7 +24597,7 @@ In the Āptoryāma sacrifice mentioned above, among the atiriktokthya mantras to
 
 Let the oxen and other animals that bear burdens bear them happily. Let the human cultivators do their work happily. Let the plough, the instrument of tilling, till happily. Let the bridles or nose-ropes hold the oxen and the rest happily. Make the oxen and the rest carry the burden so that they bear it easily.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the oxen (draw) happily, the men (labour) happily ; the plough furrow happily ; may the traces bind happily : wield the goad happily.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -24731,7 +24731,7 @@ O Śunāsīra deities, accept this speech in the form of praise that I now recit
 
 ### Printed p. 638
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Suna and Sira be pleased by this our praise, and consequently sprinkle this (earth) with the water which you have created in heaven.
 
 #### Ṛk 6
@@ -24781,7 +24781,7 @@ Suna and Sira be pleased by this our praise, and consequently sprinkle this (ear
 
 O auspicious Sītā, be turned towards us. In whatever way you become the giver of fair wealth to us, in whatever way you become the giver of excellent fruit to us, in that very way we worship you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Auspicious Sita, be present, we glorify you : that you may be propitious to us, that you may yield us abundant fruit.
 
 ### Printed p. 639
@@ -24864,7 +24864,7 @@ Let the god Indra take hold of Sītā, the wooden implement that bears the furro
 
 Let Indra take hold of Sītā. Let Pūṣan guide that same Sītā. Let that goddess, endowed with water, yield rain for us every year.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Indra take hold of Sita : may Pushan guide her ; may she, well stored with water, yield it as milk, year after year.
 
 ### Printed p. 642
@@ -24928,7 +24928,7 @@ The use (viniyoga) of this eighth verse has been stated at *śunāsīrāvimāṃ
 
 Let the plough and the other implements of tilling plough happily. Let the farmers go happily to their tasks with their bulls. Let Parjanya rain with sweet waters so as to bring happiness. O Śunāsīra deities, bring us happiness.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the ploughshares break up our land happily ; may the ploughman go happily with the oxen ; may Parjanya (water the earth) with sweet showers happily : grant Shuna and Shira, prosperity to us.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -25020,7 +25020,7 @@ The sūkta beginning समुद्रादूर्मिः (*samudrādūrmi
 
 From the aerial fire, masses of fruits (waters) endowed with sweetness arise like waves, one after another. By the ray of the sun man obtains freedom from death. The secret name that the radiant principle of ghee has is both the tongue of the gods and the navel of ambrosia.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The sweet water swells up from the firmament: by the (solar) ray (man) obtains immortality : that which is the secret name of clarified butter is the tongue of the gods, the nevel of ambrosia.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -25096,7 +25096,7 @@ We, the sacrificers, declare (praise) the name of ghee. At this sacrifice we als
 
 We, the performers of the sacrifice, praise the sacred name of ghee, and we offer it at this sacrifice with homages. Let Brahmā, who has four horns (who knows the four Vedas), listen attentively to this praise that is being recited. The god of red hue carries through this rite.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We celebrate the name of Ghrita at this sacrifice, we offer it with adoration : may the four-horned Brahma listen to its being glorified : the fair-complexined deity perfects this rite.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -25180,7 +25180,7 @@ Yāska explained the verse in this way, beginning with चत्वारि श
 
 This Agni, who is the sacrifice itself, has four horns in the form of the Vedas, three feet in the form of the three savanas, two heads in the form of the Brahmaudana and the Pravargya, and seven hands in the form of the seven metres. Bound in three ways, by mantra, brāhmaṇa and kalpa, and a showerer of desires, this god makes much sound. This great-souled god has pervaded all men.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Four are his horns ; three are his feet ; his heads are two, his hands are seven : the triple-bound showerer (of benefits) roars aloud : the mighty deity has entered amongst men.
 
 ### Printed p. 651
@@ -25280,7 +25280,7 @@ The gods obtained the ghee that the Asuras had placed in the cows in three forms
 
 ### Printed p. 656
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The gods discovered the Ghee concealed by the panis, placed threefold in the cow : Indra generated one (portion), Surya another, the (other gods) fabricated one from the resplendent (Agni), for the sake of the oblation.
 
 #### Ṛk 5
@@ -25336,7 +25336,7 @@ These waters, in streams of ghee, fall downward. They have countless courses, an
 
 From the heart-pleasing atmosphere the waters flow with hundreds of courses. But they are not seen by Vṛtra, who obstructs their flow. I look at these waters all around. In the midst of these water-streams stands the lightning-fire, of golden form.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 These hundred-channelled showers fall from the heart-delighting firmament, unobserved by the hostile (cloud) : I look upon these showers of Ghi. (and behold) the golden Vetasa in the midst of them.
 
 #### Ṛk 6
@@ -25393,7 +25393,7 @@ Streams of ghee flow together, pour down, upon this Agni. Sāyaṇa asks what th
 
 These streams of ghee, like waves, are purified by the mind lodged in the heart, that is, a devout mind. They flow fully, like satisfying streams. As deer that have escaped the hunter and run swiftly enter a thicket, so these enter the fire.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 They flow uninterruptedly like pleasing rivers, purified by the mind that is seated in the heart: these streams of Ghi descend (upon the fire), like deer flying from the hunter.
 
 #### Ṛk 7
@@ -25452,7 +25452,7 @@ Like waters from a flowing river, the streams of ghee are swift-going in a slopi
 
 Like the current of a river rushing swiftly downward in a mountain-valley region, the streams of ghee, abundant in measure and swift like the wind, enter the fire. Like a swift-going horse they break through the paridhis, and they grow with saps in the form of waves.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The streams of Ghi fall copious, swift as the wind, and rapid as the waters of a river down a declivity, breaking through the confining banks, and hurrying on with their waves, like a high-spirited steed.
 
 ### Printed p. 660
@@ -25511,7 +25511,7 @@ As wives, auspicious in form, smiling-faced and of corresponding mind, embrace t
 
 ### Printed p. 661
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The streams of Ghi incline to Agni as devoted wives, auspicious and smiling, to a husband : they feed (the flame) like fuel, and Jatavedas, propitiated, accepts them.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -25578,7 +25578,7 @@ The streams of ghee, attractive like maidens adorned with unguent and ornaments 
 
 ### Printed p. 663
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I contemplate these streams of Ghi as they flow from where the soma
 is effused, where the sacrifice (is solemnized), as maidens decorating
 themselves with unguents to go to the bridegroom.
@@ -25639,7 +25639,7 @@ themselves with unguents to go to the bridegroom.
 
 O priests, recite for us the praise that is the cause of a herd of cows. Bring us praiseworthy riches. Lead this our sacrifice to the venerable gods. The currents of ghee enter Agni sweetly.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Priests) address the pious praise, (the source) of herds of cattle :
 bestow upon us auspicious riches: convey this our sacrifice to the gods,
 (whereat) the streams of Ghi with sweetness descend.
@@ -25711,7 +25711,7 @@ This Ṛk धामंते (*dhāmaṃte*) and the first Ṛk of the next sūk
 
 O Agni, whether you are in the midst of the ocean in the form of the submarine fire, in the depth of the heart in the form of Vaiśvānara, in the form of food, in the form of the digestive fire for all, or in the water in the form of the lightning fire, the whole world finds refuge in your place that is of the nature of radiance. May we also attain that sweet essence of yours, in the form of ghee, which is established in you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The whole world, (Agni), finds an asylum in your effulgence, whether it be in the ocean, in the heart (of man), in the life (of living beings), in the assemblage of the waters, or in warfare: may we attain that sweet-flavoured wave which is established in your (essence).
 
 ##### विशेषविषयगळु (Special Topics)
@@ -26659,7 +26659,7 @@ This Agni has been awakened (अबोधि (*abodhi*), "has become awake") by 
 
 Agni, kindled by the fuel-sticks of the adhvaryus, has awakened facing the appearing Uṣas, like a cow that gives delight. The flames of this Agni, being of great form, spread out and pervade toward the sky, like trees that have thrown out and spread their branches in many directions.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni is awakened by the fuel (supplied by) the priests at the dawn, approaching lika a cow (to pasture): his flames rise up to the sky like stately (trees) throwing aloft their branches.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -26722,7 +26722,7 @@ This Agni, the Hotā, the accomplisher of the offering, has been awakened (अ�
 Agni, the accomplisher of the offering, with a well-disposed mind, awakens in order to sacrifice to the gods. At the time of dawn he rises upward. The attractive power of this kindled Agni has become visible to all. Agni, the great one and of divine nature, has come out freed from darkness.
 ### Printed p. 713
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The offerer of the oblation is awakened for the worship of the gods :
 favourably minded, Agni has risen up with the dawn : the radiant vigcur
 of the kindld (fire) is manifested ; the great deity has been liberated from
@@ -26792,7 +26792,7 @@ When this Agni swallows or seizes (अजीगः (*ajīgaḥ*)) the girdle (�
 
 When Agni has seized the darkness, which obstructs the world that is of the nature of a collection, so that it is in his own power, then the shining Agni makes the whole universe shine with radiant rays. Immediately thereafter the increased stream of ghee that desires food is offered. Facing upward, he drinks this stream of ghee offered upon himself from the juhū vessels.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When he seized upon the (confining) girdle of the aggregated (world), then, bright-shining, he makes all manifest with brilliant rays : thereupon the precious food-desiring (oblation) is added (to the flame), and Agni soaring aloft, drinks it as it is (spread out) recumbent by the ladies.
 ### Printed p. 715
 
@@ -26862,7 +26862,7 @@ The minds of the sacrificers who desire the gods for themselves move together (�
 
 Like the eyes of men fixed on the sun, the minds of the sacrificers who wish to gain the favour of the gods move facing Agni. As soon as heaven and earth, of many forms, bring forth this Agni together with Uṣas, Agni, of excellent colour and swift, is born at the time of sunrise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The minds of the devout turn to Agni, as the eyes (of mcn) look
 towords the the sun : when the multiform (heaven and earth) bring him
 forth along with the dawn, he is born as a white courser in the beginning
@@ -26927,7 +26927,7 @@ This Agni, fit to be produced (जेन्यः (*jenyaḥ*)), was born at the
 
 Agni, fit to be born, becomes manifest at sunrise and first is established in the forest wood and the like that favour his spreading. Then, in every house of sacrifice, bearing his seven lovely flames, he is seated as the accomplisher of the oblation and as one worthy of sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Agni), capable of birth, is born in the beginning of the days ; radiant, he is deposited in the friendly woods, and then the adorable Agni, the offerer of the oblation, displaying seven precions (rays), is seated in every house.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -27001,7 +27001,7 @@ If, while the sacrificer is alive, the report "he is dead" should arise, the Sur
 
 Agni, being the accomplisher of the oblation and worthy of sacrifice, has sat down on the sacrificial altar, which is like the lap of his mother the earth and is fragrant. And, ever young, wise, stationed in many places, possessed of the sacrifice and the supporter of the whole world, he is kindled in the midst of the priests, the sacrificer and the others.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The adorable Agni, the offerer of the oblation has sat down in
 a fragrant place on the top of his mother (earth) : youthful, wise, many-
 stationed, the celebrator of sacrifice, the sustainer (of all), kindled
@@ -27069,7 +27069,7 @@ They praise (ईळते (*īḷate*)) that Agni quickly (नु (*nu*), "quick
 
 They extol with praises the Agni who made both heaven and earth extend by the oblation of the nature of truth and also by rain; such is he, wise, the accomplisher of fruit in sacrifices, the accomplisher of the oblation. And they attend every day, with ghee, on Agni, the possessor of food.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 They glorify at present with hymns that Agni, who is intelligent, the fullfiller (of desires) at sacrifices, the offerer of oblations, who has charged heaven and earth with water, and whom they always worship with clarified butter as the bestower of food.
 46
 
@@ -27141,7 +27141,7 @@ Sāyaṇa continues his gloss of Ṛk 8. Agni is the one to be served, and he is
 
 Agni, who is of generous mind, praised by the sages, worthy of worship like a guest to all of us, auspicious, with thousands of flames, the showerer of desires, of well-known strength, and worthy of worship, is worshipped in his own house of sacrifice. O Agni, by your power you are one whose might overcomes all others than yourself.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Entitled to worship, he is worshipped in his own (abode); humble-minded, eminent amongst sages, our auspicious guest, the thousand-rayed the showerer (of benefits). of well-known might, you, Agni, surpass all others in strength.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -27203,7 +27203,7 @@ That is, the word दमूनाः (*damūnāḥ*) has a threefold meaning: on
 
 O Agni, for whichever sacrificer you become manifest, with a most excellent bodily form, at that very moment you pass on to others. You are one to be praised, of beautiful form, of exceeding radiance, dear, and worthy of worship to all human peoples.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Too) quickly, Agni, you pass to others from him to whom you have been manifest: most beautiful, adorable, radiant, many-shinning, the loved of people, the guest of men.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -27268,7 +27268,7 @@ The main sense is this: O Agni, the sacrificer for whom you shine in his house o
 
 O Agni, exceedingly young, the sacrificers in the form of men prepare and offer to you worship together with the oblation. Whether from near or from a far region, know well and accept the excellent praise of the worshipper who praises you exceedingly. O Agni, the happiness given by you to us is abundant, great and auspicious in nature.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 To you, youngest (of the gods), men present oblations, whether
 nigh or from far : accept the praise of him who most extols you ; for the
 felicity (which you confer), Agni, is great, vast, auspicious.
@@ -27338,7 +27338,7 @@ felicity (which you confer), Agni, is great, vast, auspicious.
 
 O Agni, full of splendour, today, the day of this sacrifice, mount and sit in your chariot, lustrous and with decorated edges, together with the other gods worthy of the sacrifice. You, the all-knowing, through the vast firmament, by the path of going to the sacrifice, bring the gods to this sacrifice to receive and eat the oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Ascend to-day, radiant Agni, your resplendent, well-conducted
 chariot, together with the adorable (gods): cognizant of the ways (of
 worship), bring hither, by the vast firmament, the gods to partake of
@@ -27402,7 +27402,7 @@ We Ātreyas have uttered a praise that bows in homage to the wise (कवये 
 
 We recite praise worthy of worship, addressed to Agni, the wise, the worthy of worship, the showerer of desires, the young. This seer, named Gaviṣṭhira, has offered his own hymn, accompanied by homage, to Agni, who shines in the sky with a golden hue and pervades widely like the sun.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We have uttered aloud this encomiastic praise to the wise, holy, vigorous (Agni), the showerer (of benefits): Gavishthira offers with reverence (this) praise to Agni, like the wide-sojourning (sun), effulgent in the sky.
 
 ### Printed p. 730
@@ -27590,7 +27590,7 @@ Or else, because the sūkta is addressed to Agni, "kumāra" means Agni. His moth
 
 The young mother holds in secret her son, who was injured by the wheel. She does not hand him over to the son's father. But people see only the son who is placed before them in an unsettled state.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The young mother cherishes her mutilated boy in secret, and gives him not up to the father : men behold not his mutilated form, but (see him) when placed before (them) in an unresting (position).
 
 ### Printed p. 736
@@ -27670,7 +27670,7 @@ To explain the word युवति (*yuvati*) as the Piśācī woman is one way
 
 Concerning the explanation of this Ṛk, the scholar Wilson has spoken as follows:
 
-##### English translation (H. H. Wilson)
+##### Printed English
 According to what is no doubt the most accurate interpretation of
 this verse, and of those which follow, they contain only a metaphorically
 obscure allusion to the lighting of the sacrificial fire : the mother is the two
@@ -27790,7 +27790,7 @@ Because Agni is being produced here, he is spoken of by the word कुमार
 
 O young woman, who is this boy that you, who have a nature of harming, are nourishing? The venerable great mother bore him. The embryo of this son grew for many years. I saw this son who was born when his mother brought him forth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Young mother, what boy is this whom you, (become) a malevolent spirit, foster? The mighty (queen) has given him birth; the embryo has
 
 ### Printed p. 744
@@ -27865,7 +27865,7 @@ As soon as Uṣas's chariot was shattered, she fled in fear of Indra. The chario
 
 I have seen, in a nearby place, Agni, possessing flames shining like teeth made of gold, of radiant colour, producing sparks like weapons. Unbelievers, who do not worship Agni, endowed with supreme lordship, and who do not offer him praise, cannot harm me, who offer to such an Agni the oblation that brings immortality and pervades everywhere.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have seen him from a near place, golden-toothed, bright-coloured wielding (flames-like) weapons, (when) offering to him the ambrosial, all-diffusing (oblation) : what can those who acknowledge not Indra, who repeat not his praise, do unto me?
 
 ### Printed p. 747
@@ -27963,7 +27963,7 @@ He completes the verb अपश्यं (*apaśyaṃ*): "I see". Formerly, at t
 
 I see Agni, who moves of himself from one region to another like a herd of cattle and shines exceedingly. No one could see those flames of his that had grown before. That same Agni has been born again. Those same flames that had reached old age have become young again.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I have seen him passing secretly from place (to place) like a herd (of cattle), shining brightly of his own accord : they apprehended not those (flames of his), but he has (again) been born, and they which had become grey-haired are (once more; young.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -28046,7 +28046,7 @@ In the present mantra the hidden movement of Agni is described. The purport is: 
 
 When Agni, the protector of my servants and cattle and the one who confronts enemies, was not near, who bound my people and separated them from the cows? May the enemies who have bound this host of my servants perish. May Agni, who knows our troubles, come near us to protect our cattle.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Who have disunited my people from cattle? Was there not for them an invincible protector ? May they who have seized upon that (people) perish, for he who knows (our wishes) approaches to (protect) the cattle.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -28125,7 +28125,7 @@ Here, for the word अरण (*araṇa*), one meaning, "soundless", and another,
 
 The enemies hid Agni, lord of all living beings and abode of all humans, among the worlds of mortals. May the hymns of Vṛśa, a descendant of the great seer Atri, make the hidden Agni come out. May the enemies who revile us become subject to our censure.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Enemies have secreted amongst mortals, the king of living beings, the asylum of men : may the prayers of Atri set him free; may those who revile be reviled.
 
 ### Printed p. 755
@@ -28199,7 +28199,7 @@ At the añjaḥsava, in the worship of the Āhavanīya fire, the Ṛk शुन�
 
 O Agni, you freed the seer Śunaḥśepa, fully bound to thousands of posts, from all his bonds. In the same way, O Agni, accomplisher of the oblation and wise one, sitting right here on this sacrificial altar, free us from all our nooses.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You have liberated fettered Shunahshepa from a thousand stakes, for he was patient in endurance: so, Agni, free us from our bonds, having sat down here (at our sacrifice), intelligent offerer of oblations.
 
 ### Printed p. 757
@@ -28316,7 +28316,7 @@ O Agni, being angry, you have gone away from me. The verb is from *ī gatau*, wi
 
 O Agni, angered by my offences, have you not gone far away from me? Indra, the protector of the gods' rites, has told me about you. He, who knows your nature, has chosen and looked upon you. Instructed by that Indra, I have come near you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When angered, (Agni), depart from me: the protector of the worship of the gods, (Indra), has spoken to me : the wise Indra has looked upon you, and instructed by him, I have come, Agni, to you.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -28392,7 +28392,7 @@ This Agni shines forth with great light, i.e. brilliance; he is brightly lit. Be
 
 Agni shines with his exceeding brilliance. By his greatness he illumines all beings. He tramples down the evil powers, of demonic nature and causing sorrow. He sharpens his horn-like flames for the destruction of the demonic power.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni shines with great and varied radiance ; he makes all things manifest by his might ; he overcomes undivine malignant delusions ; he sharpens his horns for the destruction of the Rakshasas.
 
 #### Ṛk 10
@@ -28450,7 +28450,7 @@ And may Agni's roaring (svānāsaḥ) flames be manifest in heaven, i.e. appear 
 
 May Agni's flames, roaring and destructive like sharp weapons, appear in the sky for the destruction of the demonic power. When these radiances of Agni are exhilarated, they wholly afflict the asuras. The enemies, lying in wait to cause torment on every side and of demonic nature, cannot withstand these rays of Agni.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May your roaring (flames), Agni, be manifest in the sky as sharp weapons wherewith to slay the Rakshasas : in his exhilaration his shining (rays) infliet (destruction), and undivine opposing (hosts) arrest him not.
 
 #### Ṛk 11
@@ -28509,7 +28509,7 @@ O Agni, born in many forms (tuvijāta), for you I, the wise (vipra) and steady p
 
 O Agni, who appear in many forms: I, who am wise, of excellent understanding and of good works, have fashioned this praise for you as one skilfully builds a chariot. O Agni, divine in nature, graciously accept this hymn. By the greatness of this praise, may we obtain the waters that spread everywhere and flow.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 This praise have I, a devout worshipper, composed for your, (Agni), who are born with many (faculties), as a steady dexterous (artisan fabricates)- a car : if, divine Agni, you approve of it, then may we obtain abundant flowing water.
 
 #### Ṛk 12
@@ -28571,7 +28571,7 @@ Agni is "thick-necked", that is, many-flamed (the "neck" being his flames); he i
 
 Agni, who has many flames in the form of necks, who showers desires and who grows, gathers the wealth of the enemy without any opposition. All the other gods praise Agni, who is endowed with such wealth. By the power of this praise, may Agni bring happiness to the sacrificer who has the sacrifice and offers the oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The many-necked, the showerer (of benefits), ever increasing,
 collects together the wealth of the enemy without opposition: the immortals
 have enjoined Agni that he will bestow happiness on the man who offers
@@ -28653,7 +28653,7 @@ O Agni, you are Varuṇa, the restrainer of darkness, the god presiding over nig
 
 O Agni, at the time you are born you are of the form of Varuṇa; then, when you blaze up, of the form of Mitra. In you all the gods are contained. O Agni, son of strength, you are of the form of Indra for the share of the man who offers the oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You, Agni, are born Varuna, you become Mitra when kindled : in
 you, son of strength, are all the gods : you are Indra, son of strength, to
 the mortal who presents (oblations).
@@ -28735,7 +28735,7 @@ This ṛk is used at a wedding in the fourth ājya oblation; it is also set down
 
 O Agni, when you are connected with maidens you become the god Aryaman**NOTE**. O Agni, who have food in the form of oblation, you bear a secret name. By the power by which you make husband and wife of one mind, for that very reason they adorn you with milk and the like, products of the cow, as one adorns a friend who is excellently honoured.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You are Aryaman in relation to maidens ; you bear, enjoyer of
 sacrificial food, a mysterious name : they anoint you, like a welcowe friend
 with milk and butter, when you make husband and wife of one mind.
@@ -28814,7 +28814,7 @@ By this verse the middle (atmospheric) form of Agni is described. O Agni, for yo
 
 O Agni, for the shining of your glory the Maruts purify the atmosphere. O Agni, who are like Rudra, your birth in the form of lightning is charming and wonderful. Because of the placing of Vishnu's middle step, you cherish the secret names of the waters.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 For your glory the Maruts sweep (the firmament), when your birth, Rudra, is beautiful and wounderful : the middle step of Vishnu has been placed, so you cherish the mysterious name of the waters.
 
 ### Printed p. 775
@@ -28886,7 +28886,7 @@ O shining Agni, the gods, Indra and others, who have obtained a lovely form thro
 
 ### Printed p. 777
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Divine (Agni), the gods (made) comely by your glory, and bearing (the) great (affection), sip the ambrosia : men adore Agni, the conveyer of the burnt-offering. presenting, oblations on behalf of the institutor of the rite, desirous of (its) reward.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -28953,7 +28953,7 @@ O Agni, there is no other Hotṛ than you, whether earlier (पूर्वः (
 O Agni, neither an excellent Hotṛ nor a sacrificer praised by hymns exists before you, apart from you. In future too there can be none who surpasses you. O Agni of divine nature, the man for whom you, possessing food, become a guest among priests and other people destroys, with the help of the sacrifice, his enemies in human form.
 **NOTE**
 
-##### English translation (H. H. Wilson)
+##### Printed English
 There is no more venerable offerer of oblations, Agni, than you, nor (one) prior to you; neither, giver of food, is any one subsequent (to be more glorified by hymns): the man of whom you are the guest destroys hostile men by sacrifice.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29019,7 +29019,7 @@ O Agni, may we sacrificers, desirous of wealth, awakening you with oblations and
 ### Printed p. 780
 and may we obtain victory in battle. O Agni, son of strength, may we obtain sons, servants and the like together with wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May we, desirous of wealth, Agni, and arousing you by oblations, secure in your protection, acquire (riches): may we (be victorious) in battle, (successful) in sacrifices every day ; and may we, son of strength, obtain with riches male (descendants).
 #### Ṛk 7
 
@@ -29078,7 +29078,7 @@ Sāyaṇa says: the mortal who brings against us (नः (*naḥ*)) offence (आ
 
 O Agni, the man who practises wickedness and sinful deeds against us — fill that sinner of evil mind with the very sin that works his own destruction. And the injurer who injures us in the two ways stated above — knowing him, destroy him.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Agni inflict (evil) upon the evil-doer who commits offence or wickedness against us; destroy, sagacious Agni, the calumniator who injures us in these two ways.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29142,7 +29142,7 @@ Sāyaṇa says: O Agni, former (पूर्वे (*pūrve*)), that is, ancient
 
 O worshipful Agni, you who shine, kindled by the priests who give you dwelling, go to the sacrificial places where the wealth in the form of oblations is assembled; the ancient sacrificers, making you the messenger of the gods, have worshipped you with offerings of oblations in the dawn time, the last part of the night.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Former (worshippers) constituting you, divine (Agni), the messenger (of the gods), have worshipded you with oblations at the dawn of day; when you proceed to the place (of the aggregation) of the wealth (of sacrifice), bright-shining, kindled by the mortals who have given you an abode.
 
 ### Printed p. 783
@@ -29210,7 +29210,7 @@ Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)
 
 O Agni, son of strength, the sacrificer who stands in the form of a son to you, who knows you as his father and with devotion brings and offers oblation to you — bring him to an end of sorrow; separate him from sin. O Agni, knowing everything, when will you look upon us graciously? As impeller of sacrifices and the like, when will you bring us to the good path?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Convey him (to safety) in war, son of strength, who like a wise son offers to you (reverence) as to a father: when, sagacious Agni, do you look upon us? when, director of sacrifice, do you direct us (to good ways)?
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29279,7 +29279,7 @@ Praising your name, which is abundant (भूरि (*bhūri*) = प्रभू
 
 O Agni, giver of dwelling, you the protector: whenever you wish to enjoy the oblation offered by the sacrificer, the sacrificer, praising your famous name, holds abundant oblation ready to offer to you. The powerful Agni, growing and desiring abundant oblation, brings happiness to the sacrificer, the giver of the oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Glorifying you he offers the copious oblation, if, bestower of dwellings, you as a father are pleased to accept it: Agni, ever augmenting, and desirous (to befriend), by his might, the devout (worshipper, offering) copious oblations, bestows upon him happiness.
 
 #### Ṛk 11
@@ -29332,7 +29332,7 @@ O dear one (अंग (*aṃga*), "lord"), youngest (यविष्ठ (*yavi�
 
 O extremely young one and lord, Agni, you carry your praiser through to the end of all sins. All our thieves have fallen within our notice. All hostile people, who wish us harm and carry secret signs unknown to us, have been abandoned by us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni, youngest (of the gods), verily you bear your adorer (safe) beyond all calamities: thieves have been detected, and hostile men with covert evil intentions, have been avoided (by us.)
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29394,7 +29394,7 @@ These praises (*stomāḥ*), which go (यामासो गंतारः (*y
 
 O Agni, these praises, going in search of you alone, are directed towards you. Or perhaps my petition may even have troubled you. Pardoning this offence, and growing through my praises, do not give us over to the enemy who reviles us and injures us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 These (encomiums) are directed towards you, but perhaps an offence has thereby been uttered to (you), the giver of dwellings: may Agni, augmenting (by our praise), yield us not up to the maligner or the malevolent.
 
 ### Printed p. 789
@@ -29486,7 +29486,7 @@ O Agni, lord of the wealths (वसूनां वसुपतिं (*vasūnā
 
 O lord Agni, you who are the owner of wealths of many kinds, I praise in the sacrifices and so gratify you. May we, who desire food, obtain food by your favour. May we conquer the armies of the enemy people.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Royal Agni, I glorify at sacrifices, you who are the lord of vast riches; may we who are in want of food obtain food through you, and (through you) may we overcome hosts of (hostile) men.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29556,7 +29556,7 @@ Let this Agni, bearer of the oblation, undecaying, not aged, be our father (the 
 
 May Agni, who carries the oblation to the gods and is free from decay, be our protector. May Agni, the all-pervading and radiant, be of auspicious aspect to us. O Agni, provide us with foods that are useful for an excellent Gārhapatya.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the undecaying Agni, the bearer of oblations. be a father to us, all-pervading and resplendent (may he be) to us of pleasing aspect : supply us plentifully with food in return for our well-maintained housebold fire: grant us viands abundantly.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29618,7 +29618,7 @@ When the homa called Patnīsaṃyāja is performed in the Darśapūrṇamāsa sa
 
 O priests, establish in the place of honour Agni, who is the protector of all human subjects, wise, pure, a purifier, with a body provided with ghee, the accomplisher of the homa, the knower of all. That same Agni provides desired riches among the gods.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You (priests) possess the wise lord of human beings, the pure, the purifying, Agni, cherished with oblations of butter, the offerer of the burnt-offering, the all-knowing ; he among the gods bestows desirable (riches).
 
 #### Ṛk 4
@@ -29673,7 +29673,7 @@ O Agni, accept (जुषस्व (*juṣasva*) = सेवस्व (*sevasva*
 
 O Agni, exerting yourself with the rays of the sun at the time of dawn and sharing equal delight with the goddess Iḷā, accept our praises. O Agni, of innate knowledge, accept our fuel-sticks. Bring the gods to eat the oblation.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Be propitiated, Agni, sharing in satisfaction with Ila, vieing with the rays of the sun : be gratified, Jatavedas, by our fuel, and bring the gods to partake of the oblation.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29742,7 +29742,7 @@ This Ṛk is the anuvākyā of the Sviṣṭakṛt in the Pavitreṣṭi. It is 
 
 O Agni, you who are satisfied by our worship, of giving mind, and honoured like a guest in our sacrificial house, knowing this sacrifice of ours, be pleased to come to it. O Agni, having destroyed all the enemies, bring all the wealth of food belonging to those enemies, so as to give it to us.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Propitiated, lowly-minded, a guest in the dwelling, come, you who are wise, to this our sacrifice : having destroyed, Agni, all our adversaries, bring off the possessions of those who bear us enmity.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29807,7 +29807,7 @@ In the Pavitreṣṭi this Ṛk जुष्टो दमूना (*juṣṭo d
 
 O Agni, making the enemy's possessions your own property, destroy completely with a weapon that serves for slaying the violent enemy. O Agni, son of strength and most excellent leader, you who satisfy the gods, protect us too in battle for that very reason.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Demolish, Agni, with your weapon, the Dasyu, appropriating the sustenance to your own person ; and inasmuch, son of strength, as you satisfy the gods, so Agni, chief of leaders, protect us in battle.
 
 #### Ṛk 7
@@ -29863,7 +29863,7 @@ Demolish, Agni, with your weapon, the Dasyu, appropriating the sustenance to you
 
 O Agni, purifier, possessed of auspicious radiance, we worship you with praise consisting of śastra-mantras and with oblations. Provide for us wealth and riches that are desired by all and complete.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We worship you, Agni, with hymns ; we (worship you), purifier , and of auspicious lustre, with oblations : bestow upon us all desired riches; bestow upon us all sorts of wealth.
 
 #### Ṛk 8
@@ -29920,7 +29920,7 @@ We worship you, Agni, with hymns ; we (worship you), purifier , and of auspiciou
 
 O Agni, son of strength, abiding in the three places, earth and the rest, accept our sacrifice and oblation and take delight in them. Grant that we, the performers of the sacrifice, may be doers of excellent deeds among the gods. Protect us with threefold protections that are means of comfort.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Accept, Agni, our sacrifice : son of strength, the abider in the three regions (accept our) oblation : may we be (regarded) amongst the gods as doers of good : cherish us with triply-protected felicity
 
 ##### विशेषविषयगळु (Special Topics)
@@ -29986,7 +29986,7 @@ Accept, Agni, our sacrifice : son of strength, the abider in the three regions (
 
 O Agni, of the nature of Jātavedas, as one crosses a river in comfort by a boat, carry us across all our sins that are undergone with pain and bring us to their end. O Agni, as you were pleased with the praise of the seer Atri, so, praised by our praises and satisfied, know that you are to be the protector of our bodies.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 You convey us, Jatavedas, across all intolerable evils as (people are carried) over a river by a boat : Agni, you are glorified by us with reverence, such as (that shewn) by Atri; know yourself the protector of our persons.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -30053,7 +30053,7 @@ In the Putrakāma iṣṭi this verse, यस्त्वे (*yastve*), is the 
 
 O Agni, of innate wisdom, I who am subject to death praise you, free from death, with a heart endowed with praise, and call you for my protection. Therefore be gracious and place wealth with us. Grant that I, joined with the offspring given by you, may obtain freedom from death.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart ; therefore, Jatavedas, grant us food, and may I obtain immortality through my posterity.
 
 ### Printed p. 803
@@ -30124,7 +30124,7 @@ In that same putrakāmeṣṭi, the Ṛk "yasmai tvam" is the anuvākyā for Agn
 
 O Agni, who are Jātavedas, the sacrificer of good deeds upon whom you look, showing a favourable mind, obtains wealth endowed with horses, many sons, strength and cattle. It is imperishable and auspicious.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Upon whatsoever performer of good works you, Agni, who are Jatavedas, cast a favourable regard, he enjoys welfare, and riches comprehending horses, cattle, sons, and male descendants.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -30193,7 +30193,7 @@ O priests, to Agni named Susamiddha, who is Jātavedas and radiant, offer ghee a
 
 ### Printed p. 807
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Offer abundant butter to the resplendent, Susamiddha, to Agni, to Jatavedas.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -30246,7 +30246,7 @@ Agni named Narāśaṃsa, who falls under no one's harm, is wise and has a delig
 
 ### Printed p. 808
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Narashansa animates this sacrifice, he who is uninjurable, who verily is wise and sweet-handed.
 
 #### Ṛk 3
@@ -30293,7 +30293,7 @@ O Agni, being praised (īḷita), bring Indra, wonderful (citra, to be gazed at)
 
 O Agni, worthy of praise, bring Indra, who has an attractive form and is beneficial to us all, to this sacrifice in comfortable chariots for our protection.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni, you are Ilita ; bring heither the wonderful and friendly Indra, with his easy-going chariots for our protection.
 
 ### Printed p. 809
@@ -30340,7 +30340,7 @@ O barhis, soft as woolen blanket, spread out. The praisers (arkāḥ) praise you
 
 O barhis, soft like a jewelled blanket (barhis means the darbha grass spread as a seat), the praisers praise you. Therefore spread out widely. O luminous barhis, be minded to give us wealth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 (Grass), soft as wool, be spread ; the worshipers praise you : be to us radiant (grass, the source of) liberality.
 
 ### Printed p. 810
@@ -30388,7 +30388,7 @@ O doors, goddesses presiding over the doors of the sacrifice, open apart. Being 
 
 O divine deities presiding over the doors of the sacrifice, having excellent means of passage, stand apart for our protection and make a way for us. Cause our sacrificial rite to be fully accomplished.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Open divine doors, our passages to preservation ; fulfill the sacrifice (with its rewards).
 
 ### Printed p. 811
@@ -30436,7 +30436,7 @@ O goddesses of day and night, of fair form or fair limbs, increasers of food, gr
 
 We praise the goddess of night and the goddess of day, who are of excellent form, increasers of food, of great nature, mothers of the sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We glorify the evening and the morning, lovely, food-bestowing, mighty, the mothers of sacrifice.
 
 #### Ṛk 7
@@ -30484,7 +30484,7 @@ We glorify the evening and the morning, lovely, food-bestowing, mighty, the moth
 
 O gods who move on the path of the wind and invoke the gods to the sacrifice, be gracious to this sacrifice of our patron.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Praised (by us), divine invokers of the gods, come, moving on the path of the wind, to this sacrifice of our patron.
 
 #### Ṛk 8
@@ -30534,7 +30534,7 @@ Iḷā is the earth. Sarasvatī: sara is water; from it comes sarasvān, the win
 
 Iḷā, Sarasvatī and Bhāratī of great nature, these three goddesses, givers of happiness, unharming, divine, let them sit together on the darbha seat.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May Ila, Saraswati, Mahi, the three goddesses who are the sources of happiness, sit down, benevolent, upon the sacred grass.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -30587,7 +30587,7 @@ O god Tvaṣṭṛ, being auspicious (bringing happiness), come here to our sacr
 
 O god Tvaṣṭṛ, being all-pervading in the work of nourishing the world and bringing happiness, be gracious to come to this sacrifice. In every sacrifice protect us fully.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Twashtri, being propitious, you are diffusive in kindness, come of your own accord, protect us in repeated sacrifices.
 
 #### Ṛk 10
@@ -30643,7 +30643,7 @@ O Vanaspati, the deity presiding over the sacrificial post (yūpa): in whatever 
 
 O deity presiding over the sacrificial post, in whatever places you know the secret names and forms of the gods, take the oblations to all those places and deliver them to them.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Wherever you know, Vanaspati, the secret forms of the gods to
 be, thither convey the oblations.
 
@@ -30696,7 +30696,7 @@ The gods are Agni and the rest, the Viśve Devāḥ. To these gods, "I make this
 
 The oblation is offered with the svāhā call, addressed to Agni, Varuṇa, Indra and the Maruts, and all the other gods, all of them.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The oblation is offered with reverence to Agni, to Varuna; with
 reverencc to Indra, to the Maruts; with reverence to the gods.
 
@@ -30783,7 +30783,7 @@ Sūkta 6
 
 I praise with meditation that Agni who is the giver of dwelling to all, and to whom, as to their own home and refuge, the cows, the swift horses, and the sacrificers who perform constant rites and have food in the form of oblations go and join. O Agni, bring food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 I glorify that Agni who is the giver of dwellings; to whom, as to their home, the milch cows, the light-faced steeds, the constant offerers of oblations, repair : (Agni), bring food to your adorers.
 
 #### Ṛk 2
@@ -30842,7 +30842,7 @@ That Agni, verily, who is vasu, the giver of dwelling, is praised (gṛṇe); to
 
 He who is the giver of dwelling to the praiser, to whom the cows come and join for the homa, and to whom the galloping horses and the wise ones of excellent standing come and join, he is Agni. O Agni, bring and provide food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He is Agni, who is praised as the giver of dwellings, to whom the
 milch cows, the light-faced steeds, the well-born, devout worshippers repair:
 Agni, bring food to your adorers.
@@ -30901,7 +30901,7 @@ This Agni, verily, gives to the sacrificer (viś) a vājina, one possessed of fo
 
 Agni, who sees all, gives to the sacrificers sons and the like, endowed with abundance of food. That same Agni, being satisfied, comes forward to provide the sacrificer who desires wealth with wealth that is all-pervading and desired. O Agni, bring and provide food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni, the all-beholding, gives, verily, to the man (who worships him, a son) possessing abundant food : Agni, when propitiated, proceeds (to bestow) that wealth which is of its own nature precious: Agni, bring food to your adorers.
 
 ### Printed p. 821
@@ -30965,7 +30965,7 @@ O radiant Agni, by that greatness of yours through which your famous and praised
 ### Printed p. 822
 undecaying. O Agni, bring food to those who praise you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We kindle you, divine Agni, bright, undecaying, so that your glorious blaze shines in heaven : bring food to your adorers.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -31030,7 +31030,7 @@ O Agni, lord (pati) of light (śocis), to you who are radiant (śukra) the oblat
 
 O Agni, lord of all radiance, to you who are brilliant the oblation is offered with the mantra. O Agni, exceedingly delightful, destroyer of enemies, protector of the sacrificers, bearer of the oblation to the gods, for you the oblation is offered. O Agni, bring food to those who praise you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 To you, radiant Agni, lord of light, giver of pleasure, destroyer (of foes), protector of man, the bearer of oblations, to you the oblation is offered with the sacred verse : bring food to your adorers.
 
 #### Ṛk 6
@@ -31086,7 +31086,7 @@ To you, radiant Agni, lord of light, giver of pleasure, destroyer (of foes), pro
 
 The famous worldly fires abundantly nourish, in the sacrificial fires, all desirable wealth wanted by all. Those same fires, pervading everywhere, satisfy the sacrificers, and themselves too desire sacrificial food at all times. O Agni, bring food to those who praise you.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 These fires cherish all that is precious in the fires (of sacrifice); they give delight; they spread abroad; they crave perpetually (sacrificial) food: bring, Agni, food to your adorers.
 
 #### Ṛk 7
@@ -31145,7 +31145,7 @@ O Agni, those rays (arcayaḥ) of yours grow greatly (mahi), being rich in food 
 
 O Agni, those rays of yours which by their spreading in the form of descent desire the pen of the cattle—cattle with hooves, which supply the milk-products that are a limb of the sacrifice—those rays of yours grow, rich in abundant food. Bring food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 These your flames, Agni, fed with abundant food, increase, as, by their descent, they seek the pastures of the hoofed cattle: bring, Agni, food to your adorers.
 
 ### Printed p. 826
@@ -31206,7 +31206,7 @@ O Agni, provide to us, the praisers, new and excellent dwellings and foods. May 
 
 ### Printed p. 827
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Grant, Agni, to us who praise you, new dwellings, and (abundant) food : may we be those who worship you, having you for a messanger (to the gods) in every house : bring, Agni, food to your adorers.
 
 #### Ṛk 9
@@ -31264,7 +31264,7 @@ In the Abhiplava ukthya rites, at the third pressing, this is the third verse, b
 
 O Agni, giver of delight, with your mouth you receive the two ladle-vessels filled with ghee. And O Agni, protector of strength, make us rich in prosperity through the fruits of the sacrifice. Bring food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Giver of delight, you receive:into your mouth the two ladles (full)
 of butter ; so may:you fulfil (our desires), lord of strength, at our solemn
 rites : bring, Agni, food to your adorers.
@@ -31336,7 +31336,7 @@ In अजुर्यमुः (*ajuryamuḥ*) the finite verb is joined with a 
 
 In the manner stated above, the priests and others have approached Agni continuously with praises and with the means of sacrifice, and have worshipped him with sacrifices and the like. That same Agni has borne for us wealth that has sons and the like of excellent strength and is joined with swift-going horses. O Agni, bring food to us, the praisers.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Thus have they repaired to Agni with praises and with sacrifice successively, and have established (the manner of his worship); and he has given us male descendants, and wealth of fleet horses: bring, Agni food to your adorers.
 
 ## Sūkta 7 (Maṇḍala 5)
@@ -31413,7 +31413,7 @@ Particulars:
 
 O priests who are as friends, addressing Agni, who attains growth for the welfare of the sacrificers and others, the son of strength, the powerful one, procure and offer food that is fitting and well prepared, and praise.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Friends, offer fitting praise and food to Agni, the most liberal
 benefactor of men, the powerful son of strength.
 
@@ -31465,7 +31465,7 @@ benefactor of men, the powerful son of strength.
 
 Where is that god Agni, on whose arrival the priests and others, who rejoice and are leaders, worship in the sacrificial house and make him blaze, and whom all men cause to be born?
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Where is (the deity) upon whose presence the rejoicing conductors
 (of the ceremony) are offering homage in the hall of sacrifice, (he) whom
 they kindle, and living beings generate.
@@ -31528,7 +31528,7 @@ The sentence continues: "he has taken up the fruit-producing radiance," that is 
 
 When we offer the foods in the form of oblations, and when Agni accepts the oblations of us the sacrificers, then by the strength of the brilliant food Agni lifts up and holds the water-grasping rays (that is, he shines).
 
-##### English translation (H. H. Wilson)
+##### Printed English
 When we present to him (sacrificial) food, when (he accepts) the oblations of men, then by the power of the brilliant (viands), he assumes the radiance of the rite.
 
 #### Ṛk 4
@@ -31580,7 +31580,7 @@ That Agni makes a sign, a perception, on every side. For whom? It is said: even 
 
 When Agni, the purifier and undecaying, burns the forest trees completely, then that same Agni, even at night, produces (clear) awareness all around even for a man far away.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Verily he gives a signal by night to one who is far off, when he, the purifier, the undecaying, consumes the forest lords.
 
 #### Ṛk 5
@@ -31633,7 +31633,7 @@ At whose service, in the paths of the offering, that is the flames, the adhvaryu
 
 At the worship of the Agni into whose flames the adhvaryus and others pour the flowing ghee, the streams of ghee settle upon that same Agni, like numerous sons, born of himself, climbing onto a father's lap.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 At whose worship (the priests) pour the dripping (butter) upon the the flames, and (the drops) mount upon the fire as if they were its own numerous offspring, as (boys ride) upon the back (of a father).
 
 #### Ṛk 6
@@ -31682,7 +31682,7 @@ The mortal, the sacrificer, knows Agni as desired by many, for the sustaining of
 
 The Agni who is desired by many, whom the human sacrificer knows as the supporter of the whole world, the giver of taste to foods and the giver of a dwelling to the human sacrificer, that Agni the streams of ghee enter.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Him whom the desired of many, the (devout) man recognizes as the sustainer of all, the flavourer of food, the provider of dwellings for men.
 
 #### Ṛk 7
@@ -31733,7 +31733,7 @@ That Agni cuts all round the waterless ground (धन्व (*dhanva*)) strewn w
 
 Agni, with flames like golden hair, radiant, great, of unobstructed power, pervades fully and burns that waterless forest covered with wood and the like, like an animal cutting grass.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 He crops the dry ground strewn (with grass and wood), like an animal grazing; he with a golden beard, wilh a shining teeth, vast, and of irresistible strength.
 
 #### Ṛk 8
@@ -31789,7 +31789,7 @@ This Agni is bright, shining indeed. To that Agni the sacrificer goes forth, lik
 
 The Agni toward whom the sacrificer, imitating Atri, approaches to offer the oblation is brilliant like the edge of a sharp axe. Because Agni eats the food in the form of oblation, therefore the mother, the fire-stick, who bears an excellent son, brought forth Agni as the benefactor of the world.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Bright as an axe is he to whom the (worshipper), like Atri, proceeds (to offer worship) : he whom his prolific mother has brought forth, bestow- ing (a benefactor on the world). when (Agni) obtains (sacrificial) food.
 
 ### Printed p. 839
@@ -31843,7 +31843,7 @@ O Agni, सर्पिरासुते (*sarpirāsute*) (Agni named as the gh
 
 O Agni, you who pervade everywhere, receiver of the oblation and sustainer of the world: our praise brings you pleasure. Therefore bring and supply wealth and food to these worshippers who are in human form, and cause them to have a devout mind.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 To you, Agni, the accepter of the oblation, the upholder (of all), there is pleasure (from our praise): bestow upon these your worshippers wealth, and food, and a heart (grateful for your favour.)
 
 ### Printed p. 840
@@ -31899,7 +31899,7 @@ O Agni, in the manner stated above, may the ṛṣi, who composes praise that is
 
 ### Printed p. 841
 
-##### English translation (H. H. Wilson)
+##### Printed English
 May the sage who is in this manner the offerer of exclusive praise (Agni, to you), accept the cattle which are to be given to you; and there- upon may Atri overcome irreligious Dasyus ; may Isha (hostile) men.
 
 ## Sūkta 8 (Maṇḍala 5)
@@ -31975,7 +31975,7 @@ O Agni, maker of strength (सहस्कृत (*sahaskṛta*)), the ancient �
 
 O Agni, whose action manifests strength: you, the gladdener of many, worthy of sacrifice, possessed of much food, of a giving mind, protector of the sacrificial house, honoured and ancient, have been kindled for their protection by the ancient ṛṣis who desire sacrifice.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Manifester of strength, Agni, ancient worshippers have kindled you of old for their preservation: you, the delighter of many, the adorable, the all-sustaining, the lowly-minded, the lord of the house, the excellent.
 
 ### Printed p. 843
@@ -32031,7 +32031,7 @@ O Agni, honoured like a guest, ancient, of shining flame, of many forms such as 
 
 ### Printed p. 844
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Men have established you. (Agni), their ancient guest, as the lord of the house ; (you), the blazing-haired, the vast bannered, the multiform the dispenser of wealth, the bestower of happiness. the kind protector, the destroyer of decaying (trees).
 
 #### Ṛk 3
@@ -32090,7 +32090,7 @@ When fires have come into contact with one another, there is an iṣṭi for Agn
 
 O Agni, possessor of excellent wealth, all the human-form people praise you, who know the nature of the oblations offered, who have discriminating knowledge of what is and is not, who are the giver of delightful wealth, who dwell in the cave in the form of the araṇi (or the heart), who are visible to all, who have abundant sound, who sacrifice exceedingly well, and who rest on ghee.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Human beings glorify you, Agni, the appreciator of burnt-offerings
 the discriminator (of truth), the most liberal giver of precious (things),
 abiding (awhile), auspicious one, in secret, (at other times) visible to all ;
@@ -32160,7 +32160,7 @@ O Agni, you who support everything: we, the Ātreyas, praising you in many ways 
 
 O Agni, we approach you, the supporter of all, praising you in many ways with hymns and with homage. You who are well kindled, the son of Aṅgiras, of divine nature, favour us together with the sacrificer's shining flames.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 We approch you, all-sustaining Agni, adoring you in many ways with hymns and with prostrations: do you. Angiras, when kindled, be propitious to us : may the divine (Agni be pleased) by the (sacrificial) food (offered by the) worshipper, and by the bright flames (of his sacrifice)
 
 ### Printed p. 847
@@ -32215,7 +32215,7 @@ O Agni, being of many forms, you hold food for every sacrificer, as of old. O yo
 
 O Agni, praised by many, being of many forms you hold ancient food for all sacrificers. By your strength you are lord over foods of many kinds. Your well-known splendour, as you shine, is resisted by no one.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni, the praised of many, you who are multiform, give of old to every mortal; you reign with strength over the various (sacrificial) viands; the splendour of you when blazing brightly is not rivalled (by any).
 
 ### Printed p. 848
@@ -32275,7 +32275,7 @@ O extremely young Agni, the gods have made you, who are kindled and called to th
 
 ### Printed p. 849
 
-##### English translation (H. H. Wilson)
+##### Printed English
 Agni, youngest (of the deities), the gods have made you, when kindled, their messenger, the bearer of oblations; you, who are rapid in movement, and of whom butter is the source, they have made, when invoked, the brilliant eye (of the universe), instigated by the understanding.
 
 ##### विशेषविषयगळु (Special Topics)
@@ -32339,7 +32339,7 @@ O Agni, you who are offered with ghee: the ancient sacrificers, desiring happine
 
 O Agni, the ancient sacrificers, desirous of happiness, have kindled you, to whom ghee is offered, with excellent fuel. Thus you, increased by food in the form of herbs, are lord over all foods that are on earth.
 
-##### English translation (H. H. Wilson)
+##### Printed English
 The ancient seekers after happiness have kindled you, Agni, when invoked, (and fed you) with abundant fuel; and you(thereby) increasing, and supplied with shrubs, are dominant over all terrestrial viands.
 
 ### Printed p. 851

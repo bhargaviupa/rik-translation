@@ -21,9 +21,10 @@ Nov 11 2026. **Translation complete: printed pp. 1–851** (title lines, preface
 Hand repairs (all in `review/repair_log.md`): stage 1: w0076, w0101, w0156, w0235 (gate bug at w0083); stage 2: figure lines in w0334, w0427, w0445; stage 3: figure line in w0579, missing page heading (w0560), spurious Saṃhitā label in the Kannada file (w0623), `## Maṇḍala 5` heading (w0667), gate bug at w0541; stage 4: Ṛk 4 headings (w0821). 12 figure lines removed in all (each compared by eye with kn.md).
 
 ## Open items
-1. The finishing job (docs/HANDBOOK.md §11: accent pass, Kannada headings, QA sample, PDFs): separate; not started, only with the user.
-2. User: decision on dropping duplicate figure lines by script (lesson 56); front-matter scan PDF for the print build; confirm the heading "English translation (H. H. Wilson)"; the 15 page numbers above.
-3. Tool TODOs (lessons 55, 57, 58): labels rebuilt when a verse arrives without them; converter's spurious `ಸಂಹಿತಾಪಾಠಃ` label; `## Maṇḍala M` heading by `soften`; `collect` marking a window done when its pages are already in the volume file.
+1. The finishing job (docs/HANDBOOK.md §11: accent pass, Kannada headings, QA sample, PDFs): separate; not started, only with the user. Front matter for the print build comes from the supplied md (title pages, board, contents, abbreviations as text; cover and title pictures are in `html/figures/`; preface already translated): no scan PDF is needed, but `volbook.py` still expects a scan-PDF `pubcfg.json`, to be adapted then.
+2. Heading of the printed English: **kept as the old `Printed English`** (user, Nov 11 2026); the "(H. H. Wilson)" label was removed from `volcfg.json` and from the Vol 18 text (461 headings). Vol 17 still has the label (ask before changing).
+3. Release details (publisher, ISBN, rights, permissions): the user will give them later; they go into `publish/release.json`, not into the volumes.
+4. Tool TODOs (lessons 55–59): labels rebuilt when a verse arrives without them; converter's spurious `ಸಂಹಿತಾಪಾಠಃ` label; `## Maṇḍala M` heading by `soften`; `collect` marking a window done when its pages are already in the volume file.
 
 ## Publication (print PDF)
 Not built.

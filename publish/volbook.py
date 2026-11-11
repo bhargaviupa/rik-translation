@@ -121,6 +121,19 @@ def fn_html(text):
     out.append(html.escape(text[pos:]))
     return ''.join(out)
 
+def release_html(cfg):
+    """publisher / ISBN / rights lines of the credits page, from publish/release.json (user, Nov 11 2026: decided later, kept out of the volumes);
+    an empty field keeps the 'to be supplied' placeholder."""
+    try: r = json.loads((PUB / 'release.json').read_text(encoding='utf8'))
+    except Exception: r = {}
+    L = []
+    for k, label in (('publisher', 'Publisher'), ('isbn', 'ISBN'), ('edition_and_printing', 'Edition and printing'), ('rights_statement', 'Rights')):
+        if r.get(k): L.append(f'<p><b>{label}:</b> {html.escape(r[k])}</p>')
+    todo = [x for x in ('publisher', 'isbn', 'edition_and_printing') if not r.get(x)]
+    if todo: L.append(f'<p><i>[Publisher, ISBN, edition and printing details — to be supplied. Permissions status of the {cfg["year"]} original and of the portraits — to be confirmed before publication.]</i></p>' if len(todo) == 3 else f'<p><i>[To be supplied: {", ".join(todo)}.]</i></p>')
+    for k, who in (('permissions_status_original', f'the {cfg["year"]} original'), ('permissions_status_portraits', 'the portraits')):
+        if r.get(k): L.append(f'<p>Permissions, {who}: {html.escape(r[k])}</p>')
+    return '\n'.join(L)
 def load_front_en(cfg):
     p = cfg.get('front_en')
     return json.loads((ROOT / p).read_text(encoding='utf8')) if p else None
@@ -293,7 +306,7 @@ def front(cfg, lang, fmi, toc_blocks):
     parts.append(f'''<section class="copyright">{credit}
 <p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at Śrī Śāradā Press, Mysore, {cfg["year"]}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
 <p>Remarks on the state of the supplied text (garbled words, printed variants, stray lines) are given as numbered footnotes at the foot of the page. Numbers and readings are given as supplied; doubtful places are marked [?].</p>
-<p><i>[Publisher, ISBN, edition and printing details — to be supplied. Permissions status of the {cfg["year"]} original and of the portraits — to be confirmed before publication.]</i></p></section>''')
+{release_html(cfg)}</section>''')
     parts.append(f'<section class="scan"><h2 class="stitle">Patron of the First Edition</h2><img src="{fmi[r["portrait"]]}" alt="Maharaja of Mysore">'
                  '<p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore</p></section>')
     parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))

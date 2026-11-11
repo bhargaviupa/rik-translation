@@ -11,7 +11,7 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 3. **Output files are append-only**, exactly one trailing `**Progress note:** Done through printed p. N`; only `tools/rv/batch.py` writes them. Repairs of earlier text are separate edits logged in `volN/review/repair_log.md`.
 4. **Honest reports**: say what was verified and how; never report a commit not seen in `git log`.
 5. **Git**: branch `claude/volN` (or the session's branch); commit and push every window; never force-push; no pull requests or merges into `main` unless asked.
-6. **Private repo**: `refs/mandala/*` is for personal study; rights/ISBN are placeholders until the user decides.
+6. **Private repo**: `refs/mandala/*` is for personal study; rights/ISBN/publisher live only in `publish/release.json` (read by `publish/volbook.py`; placeholders until the user decides), never in a volume.
 7. No per-volume tools or prompts: fix the shared tool (`tools/rv/`, `publish/`). Twice is a pattern: a hand-fix used twice becomes a script change (§15).
 
 ## The translation loop (one window ≈ 6 printed pages; `window` in `volN/volcfg.json`)
