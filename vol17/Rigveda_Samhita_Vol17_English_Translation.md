@@ -15313,6 +15313,168 @@ This earth, the support of all and of the nature of Iḍā, is the one who lifts
 
 उपक्षियंतः (*upakṣiyaṃtaḥ*)—when the preverb उप (*upa*) joins the root क्षि (*kṣi*), the meaning is "dwell nearby". The word is used in this sense on many occasions. For example,
 
+### Printed p. 462
+Likewise in यस्य ते अग्ने अन्ये अग्नय उपक्षितो वया इव । (*yasya te agne anye agnaya upakṣito vayā iva |*) (Ṛ. Saṃ. 8-19-33), the word उपक्षितः (*upakṣitaḥ*) is used to convey that the other fires also dwell near the chief Agni. In the present Ṛk too that meaning is natural; yet the purport is that one stays near Agni and carries out the sacrificial rite.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं मि॒त्रो न॑म॒स्यः॑ सु॒शेवो॒ राजा॑ सुक्ष॒ेत्रो अ॑जनिष्ट  ॒
+> वेधाः ।  
+> तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥४॥
+
+> *ayaṃ mitro namasyaḥ suśevo rājā sukṣetro ajaniṣṭa*  
+> *vedhāḥ |*  
+> *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । मित्रः । नमस्यः । सुशेवः राजा । सुक्षत्रः । अजनिष्ट । वेधाः ।  
+> तस्य । वयं । सुमतौ । यज्ञियस्य । अपि । भद्रे । सौमनसे । स्याम ॥ ४ ॥
+
+> *ayaṃ | mitraḥ | namasyaḥ | suśevaḥ rājā | sukṣatraḥ | ajaniṣṭa | vedhāḥ |*  
+> *tasya | vayaṃ | sumatau | yajñiyasya | api | bhadre | saumanase | syāma ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पूर्वमंत्रे प्रतिपादितो मित्रः सूर्यो नमस्यः सर्वर्नमस्करणीयः सुशेवः शोभनसुखः । सुखेन सेव्य इत्यर्थः । राजा सर्वस्य जगतः प्रकाशप्रदानेन स्वामी सुक्षत्रः । क्षत्रशब्देन बलमुच्यते । शोभनबलोपेतो वेधाः
+> सर्वस्य जगतो विधाता । एवंगुणोपेतः सूर्योऽजनिष्ट । प्रादुरभूत् । तस्यैवंविधगुणोपेतस्य यज्ञियस्य यज्ञार्हस्य सूरस्य सुमतौ शोभनायां बुद्ध्यां
+> भद्रे कल्याणकारिणि सौमनसे सौमनस्यॆपि यजमाना वयं स्याम । भवेम ॥
+> नमस्यः नमसि साधुः । तत्र साधुरिति यत् । तित्स्वरितः । अजनिष्ट । जनी प्रादुर्भाव
+> इत्यस्य लुजि सिचि रूपं । सौमनसे । सुमनस इदमित्यर्थे तस्येदमित्यण् । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+This Mitra, the Sun set forth in the previous mantra, is नमस्यः (*namasyaḥ*), to be bowed to by all; सुशेवः (*suśevaḥ*), one of good happiness, that is, easily served; राजा (*rājā*), lord of the whole world through giving light; सुक्षत्रः (*sukṣatraḥ*), for the word क्षत्र (*kṣatra*) denotes strength, so one endowed with good strength; वेधाः (*vedhāḥ*), the ordainer of the whole world. The Sun, endowed with such qualities, has been born, that is, has appeared. May we, the sacrificers, be in the good intention (सुमतौ (*sumatau*)) and the auspicious, welfare-bringing benevolence (सौमनसे (*saumanase*)) of that Sun, who is so endowed and worthy of sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं मित्रः (*ayaṃ mitraḥ*)—this Mitra who is praised here
+- नमस्यः (*namasyaḥ*)—worthy of worship
+- सुशेवः (*suśevaḥ*)—served with ease
+- राजा (*rājā*)—lord of the whole world
+- सुक्षेत्रः (*sukṣetraḥ*)—possessed of excellent strength
+
+### Printed p. 463
+- वेधाः (*vedhāḥ*)—creator of the world
+- अजनिष्ट (*ajaniṣṭa*)—has been born
+- तस्य (*tasya*)—of such a
+- यज्ञियस्य (*yajñiyasya*)—Mitra (the Sun), worthy of worship
+- सुमतौ (*sumatau*)—in the mind that is gracious
+- भद्रे (*bhadre*)—and auspicious
+- सौमनसे (*saumanase*)—and beneficial
+- अपि वयं (*api vayaṃ*)—we, the sacrificers
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+Here the Mitra who is praised has been born worshipful, served with ease, lord of the whole world, possessed of excellent strength and creator of the world. May we sacrificers be in the gracious and auspicious mind of this worshipful Sun.
+
+##### English translation (H. H. Wilson)
+This Mitra has been engendered adorable and to be served, the sovereign (over all), endowed with vigour, the creator (of the universe); may we ever be in the good favour, in the auspicious approbation, of this adorable (Aditya).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra addressed to Mitra, the two epithets राजा (*rājā*) and सुक्षेत्रः (*sukṣetraḥ*) show Mitra's qualities. When divine power is described as of two kinds, Brahma and Kṣatra, the Śruti passages praise Mitra as the deity signifying the Brahma-power and Varuṇa as the deity signifying the Kṣatra-power.
+क्रतुदक्षौ ह वाअस्य मित्रावरुण् .... .... स दक्षो मित्र एव क्रतुर्वरुणो दक्षो ब्रह्मैव मित्रः क्षत्रं वरुणोऽभिगंतैव ब्रह्म कर्ता क्षत्रियः ॥ (*kratudakṣau ha vāasya mitrāvaruṇ .... .... sa dakṣo mitra eva kraturvaruṇo dakṣo brahmaiva mitraḥ kṣatraṃ varuṇo 'bhigaṃtaiva brahma kartā kṣatriyaḥ ‖*) (Śa. Brā. 4-1-4-1)
+Mitra is of the nature of the power of will (resolve); Varuṇa is of the nature of the power of action. Mitra is of the nature of Brahma, Varuṇa of Kṣatra; Brahma holds the will in the form of resolve, and Kṣatra the power that brings that resolve into the form of action: thus the relation and the difference between Brahma and Kṣatra are shown. This being so, the question arises how the epithet सुक्षत्रः (*sukṣatraḥ*) in the present Ṛk fits Mitra. But Sāyaṇa has said that here the word क्षत्र (*kṣatra*) means strength, and that the epithet राजा (*rājā*) means the self-luminous one who illumines the world, of the form of light.
+
+### Printed p. 464
+But the word क्षत्र (*kṣatra*) does not mean merely physical power. Since it is joined here with the other epithets, it shows Mitra's extraordinary qualities. Mitra here means Āditya, who is of the nature of Mitra.
+दैवं क्षत्रं याचेदित्याहुरादित्यो वै दैवं क्षत्रमादित्य एषां भूतनामधिपतिः ॥ (*daivaṃ kṣatraṃ yācedityāhurādityo vai daivaṃ kṣatramāditya eṣāṃ bhūtanāmadhipatiḥ ‖*) (Ai. Brā. 7-20)
+This Āditya, the eye of the world, is the very essence of Kṣatra. By meditating on this greatness the sacrificer, through the protection of the Kṣatra-form power of Āditya, himself attains lordship: thus the nature of Āditya is praised. This power of Kṣatra has also the power to protect Brahma.
+क्षत्रं तदपि विजेयं ब्रह्म यत्पाति शाश्वतं (*kṣatraṃ tadapi vijeyaṃ brahma yatpāti śāśvataṃ*) (Bṛ. De. 5-126)
+That which has the power to protect the eternal Brahma is renowned as Kṣatra. By this great power all other powers must be protected.
+तस्माक्षत्रात्परं नास्ति तस्माद्ब्राह्मणः क्षत्रियमधस्तात् उपास्ते । (*tasmākṣatrātparaṃ nāsti tasmādbrāhmaṇaḥ kṣatriyamadhastāt upāste |*) (Bṛ. U. 1-4-11)
+That is why, in the Rājasūya and the like, even the Brāhmaṇa sits at a lower place than the Kṣatriya. This is divine power.
+तच्छैयोरूपमत्यसृजत धर्मं तदेतत् क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं । (*tacchaiyorūpamatyasṛjata dharmaṃ tadetat kṣatrasya kṣatraṃ yaddharmastasmāddharmātparaṃ |*) (Bṛ. U. 1-4-24)
+This Kṣatra-power is itself the regulation of the universe. Since it is the very law (dharma) of the universe, one who has obtained its protection, though weak, may obtain protection equal to that of the strong. This Kṣatra is of the nature of truth. What is Kṣatra is Dharma; what is Dharma is Kṣatra. Therefore this Kṣatra, the cause of the welfare of the world, is described as Āditya's power of regulating the universe, as productive of welfare, and as the upholder of right conduct. It is because of the great regard for moral conduct that in the present mantra, with भद्रे सौमनसे स्याम (*bhadre saumanase syāma*), the pure mind needed for excellent conduct is desired and prayed for. Therefore, whenever the word क्षत्र (*kṣatra*) stands as an epithet of the word मित्र (*mitra*), this purport is to be stated.
+मित्रः क्षत्रं क्षत्रपतिः । क्षत्रमस्मिन्यज्ञे मयि दधातु । (*mitraḥ kṣatraṃ kṣatrapatiḥ | kṣatramasminyajñe mayi dadhātu |*) (Śa. Brā. 11-4-3-10)
+
+### Printed p. 465
+In all such sentences too, Mitra is called lord of Kṣatra in this sense. Because he illumines the world, the epithet राजा (*rājā*) also occurs. This epithet shows the world-lordship of Āditya, who is of the form of Mitra.
+असावादित्य एकविग्ंशस्तद्दैवं क्षत्रग्ं सा श्रीस्तदाधिपत्यं तद्ब्रध्नस्य विष्टपं तत्स्वाराज्यमश्नुते ॥ (*asāvāditya ekavigṃśastaddaivaṃ kṣatragṃ sā śrīstadādhipatyaṃ tadbradhnasya viṣṭapaṃ tatsvārājyamaśnute ‖*) (Śa. Brā. 13-1-7-3)
+This divine lord shining in the atmosphere is the power in the form of Kṣatra. By worshipping this Āditya, of the form of radiance, who illumines the world and brings welfare to it, a radiant sovereignty of one's own is obtained. This nature of Āditya, thus described, is described also in the present Ṛk, and the benevolence and the auspicious good mind to be gained through his grace are prayed for.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हां आ॑दि॒त्यो नम॑सोप॒सद्यो॑ यात॒यज्ज॑नो गृण॒ते  ॒॑
+> सुशेवः ।  
+> तस्मा॑ ए॒तत्पन्य॑तमाय॒ जुष्ट॑म॒ग्नौ मि॒त्राय॑ ह॒विरा जु॑होत ॥
+
+> *mahāṃ ādityo namasopasadyo yātayajjano gṛṇate*  
+> *suśevaḥ |*  
+> *tasmā etatpanyatamāya juṣṭamagnau mitrāya havirā juhota ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । आदित्यः । नमसा । उपसद्यः । यातयत्जनः । गृणते । सुशेवः ।  
+> तस्मै । एतत् । पन्यतमाय । जुष्टं । अग्नौ । मित्राय । हविः । आ । जुहोत ॥ ५ ॥
+
+> *mahān | ādityaḥ | namasā | upasadyaḥ | yātayatjanaḥ | gṛṇate | suśevaḥ |*  
+> *tasmai | etat | panyatamāya | juṣṭaṃ | agnau | mitrāya | haviḥ | ā | juhota ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयमादित्यो महान् अत एव नमसा नमस्कारेणोपसद्यः सर्वैरुपसदनीयो यातयज्जनः । प्रातः प्रातः स्वस्वकर्मणि प्रवर्तनीया जना येनेति स
+> तथोक्तः । गृणते स्तोत्रं कुर्वते जनाय सुशेवश्च भवति तस्मै पन्यतमाय स्तुत्यतमाय मित्रायादित्याय जुष्टं प्रीतिविषयमेतद्धविरग्नावा जुहोत । जुहुत ॥
+> यातयज्जनः । यती प्रयत्न इत्यस्य ण्यंतस्य शतरि रूपं । बहुव्रीहौ पूर्वपद-
+
+##### Gist of the bhāṣya
+
+This Āditya is great, and therefore नमसा उपसद्यः (*namasā upasadyaḥ*), to be approached by all with homage. He is यातयज्जनः (*yātayajjanaḥ*): he by whom people are set, morning after morning, to their respective works. He is सुशेवः (*suśevaḥ*), a giver of happiness, to the man who praises him. To that most praiseworthy (पन्यतमाय (*panyatamāya*), स्तुत्यतमाय (*stutyatamāya*)) Mitra, the Āditya, offer (आ जुहोत (*ā juhota*), that is जुहुत (*juhuta*)) this oblation, the object of his delight (जुष्टं (*juṣṭaṃ*)), in the fire. The block then begins the grammatical remarks on यातयज्जनः (*yātayajjanaḥ*).
+
+### Printed p. 466
+
+> प्रकृतिस्वरे प्राप्ते मरुद्वृद्धादित्वात्पूर्वपदांतोदात्तत्वं । गृणते । ग्य शब्दे ।
+> शतुरनुम इति विभक्तेरुदात्तत्वं । पन्यतमाय । पनतेरघ्न्यादित्वाद्यत् । यतोऽनाव इत्याद्युदात्तत्वं । जुष्टं । नित्यं मंत्र इत्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The block consists only of grammatical remarks (formation and accent of यातयज्जनः (*yātayajjanaḥ*), गृणते (*gṛṇate*), पन्यतमाय (*panyatamāya*), जुष्टं (*juṣṭaṃ*)); it adds nothing to the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यः (*ādityaḥ*)—Āditya
+- महान् (*mahān*)—being of great nature
+- नमसा (*namasā*)—with homage
+- उपसन्नः (*upasannaḥ*)—one who is approached **NOTE**
+- यातयज्जनः (*yātayajjanaḥ*)—one who impels people to their respective works
+- गृणते (*gṛṇate*)—to the sacrificer who praises
+- सुशेवः (*suśevaḥ*)—and a giver of happiness
+- पन्यतमाय (*panyatamāya*)—most praiseworthy
+- मित्रायॆ (*mitrāyè*)—and of the form of Mitra **NOTE**
+- तस्यै (*tasyai*)—addressed to that Āditya **NOTE**
+- जुष्टं (*juṣṭaṃ*)—fit to be enjoyed with love
+- एतत् हविः (*etat haviḥ*)—this oblation
+- अग्नौ (*agnau*)—in the fire
+- आ जुहोत (*ā juhota*)—offer as an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya is of great nature, approached with homage, the impeller of people to their respective works, and a giver of happiness to the sacrificer who praises him. To this Āditya, most praiseworthy and of the form of Mitra, offer in the fire, as an oblation, this offering fit to be enjoyed with love.
+
+##### English translation (H. H. Wilson)
+The great Aditya, the animator of men to exertion, is to be approached with reverence : he is the giver of happiness to him who praises him : offer with fire the acceptable libation to that most glorifiable Mitra.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fifth day of the sacrifice called Abhiplava, when the Vaiśvadeva-śastra mantras are recited, the three Ṛks of this sūkta beginning इंद्र ऋभुभिः (*iṃdra ṛbhubhiḥ*) are to be recited as a tṛca addressed to the Ṛbhus. This is set out in Āśvalāyana's Śrauta-sūtra by the sūtra धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्धिरिति तॆचौ (*dhṛtavatī bhuvanānāmabhiśriyeṃdra ṛbhubhirvājavaddhiriti tècau*) (Ā. 7 7). And the first Ṛk of this sūkta is to be recited by the Hotṛ at the third pressing as the prasthita-yājyā mantra; this is set out by the Āśvalāyana sūtra इंद्र ऋभुभिर्वाजवद्धिः समुक्षितमिंद्रावरुणा सुतपाविमं सुतं (*iṃdra ṛbhubhirvājavaddhiḥ samukṣitamiṃdrāvaruṇā sutapāvimaṃ sutaṃ*) (Ā. 5-5).
+In this Ṛk the worshipfulness of Āditya, the impeller of the world, is praised. That is why he is described by the epithet पन्यतमाय (*panyatamāya*).
+
+### Printed p. 467
+पन्यतमाय (*panyatamāya*)—स्तुत्यतमाय (*stutyatamāya*): to Āditya, who is the most excellent among those worthy of praise and who is of the form of Mitra. The words पनस्यति (*panasyati*) and पनायते (*panāyate*) are read among the names of the act of worship (Ni. 3-19). With examples such as अभीशूनां महिमानं पनायत (*abhīśūnāṃ mahimānaṃ panāyata*) (Ṛ. Saṃ. 6-75-6), the purport of the words पनितारः (*panitāraḥ*), विपस्यवः (*vipasyavaḥ*) and the like was explained earlier; they are words expressing worshipfulness. In the present place too it indicates the worshipfulness of Āditya.
+सुशेवः (*suśevaḥ*)—The word शेव (*śeva*) is read among the names of happiness (Ni. 3-6). It is used in the senses of "the object of love", "what produces happiness" and the like.
+न हि ग्रभायमाणः सुशेवोऽन्योदर्यः (*na hi grabhāyamāṇaḥ suśevo 'nyodaryaḥ*) (Ṛ. Saṃ. 7-4-8): in this sentence, which means that one born of another's womb, though सुशेव (*suśeva*), is not fit to be accepted, the meaning is "the giver of delight".
+प्रति मे स्तोममदितिर्जगृभ्यात् सूनुं न माता हृद्यं सुशेवं (*prati me stomamaditirjagṛbhyāt sūnuṃ na mātā hṛdyaṃ suśevaṃ*) (Ṛ. Saṃ. 5-42-2)
+उपसर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवां (*upasarpa mātaraṃ bhūmimetāmuruvyacasaṃ pṛthivīṃ suśevāṃ*) (10-18-10)
+In such places it is used in the sense of "very dear". Of these, in the first example, where it is said that as a mother embraces her son who is सुशेव (*suśeva*), the relation of mother and son is shown; in the second, where it speaks of the earth who is सुशेवा (*suśevā*), since the epithet मातरं (*mātaraṃ*) is present, the relation between sons and the mother is shown. This epithet occurs in describing things that are pleasing, charming and productive of delight. Its use may also be seen where the negation of these is to be shown. For example, in अत्रा जहाम ये असन्नशेवाः (*atrā jahāma ye asannaśevāḥ*) (10-53-8), "we leave behind here all those who are not wanted by us", the word अशेव (*aśeva*) comes to mean "not to be regarded".
+व्येतु विद्युद्विषामशेवा युयोत विष्णुग्रपस्तनूनां (*vyetu vidyudviṣāmaśevā yuyota viṣṇugrapastanūnāṃ*) (Ṛ. Saṃ. 7-34-13)
+Here, "may this weapon of the enemies, or this poverty, harmful like a weapon, being अशेव (*aśeva*), be far from us, that is, be destroyed": the word अशेव (*aśeva*) has the sense "not productive of happiness, harmful". Thus there are uses of the words सुशेव (*suśeva*) and अशेव (*aśeva*).
+
 ---
 
-**Progress note:** Done through printed p. 461. pp. 456-461 (batch API)
+**Progress note:** Done through printed p. 467. pp. 462-467 (batch API)
