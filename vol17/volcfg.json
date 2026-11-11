@@ -1,0 +1,25 @@
+{
+ "vol": 17,
+ "mandala": 3,
+ "branch": "claude/affectionate-faraday-2iv8y4",
+ "source": [
+  "vol17/html/rig_17.md@2-999"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol17/Rigveda_Samhita_Vol17_Kannada_Text.md",
+  "en": "vol17/Rigveda_Samhita_Vol17_English_Translation.md"
+ },
+ "work": "vol17/work",
+ "window": 6,
+ "mandalas": [
+  3,
+  4
+ ]
+}

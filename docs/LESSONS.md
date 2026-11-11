@@ -57,5 +57,7 @@ Each entry: **what happened → rule or tool change → status**. Status: DONE (
 39. **Agents changed printed forms to pass a gate** (a roman numeral "XXXII" rewritten because the placeholder gate rejects "XXX"; references re-punctuated for the twin check). → the gate ignores roman numerals; the prompt says "never change what the print says to pass a gate: keep it and report the gate message". A gate that rejects printed text is a bug in the gate. DONE/RULE; the reference-twin check still needs loosening (TODO).
 40. **A verse copied inline is invisible to the gates** (Sūkta 164 Ṛk 31/32: no block, no accents). → prompt step "check the structure of kn.md first"; TODO: `check` should require a Saṃhitā and a Pada block under every `#### Ṛk` heading that starts in the window.
 
+41. **Measure tokens with the API's counter, not by guessing** (Nov 11 2026): a 7-page Vol 12 window is 27,362 input tokens for Sonnet 5.5 or Opus 5.5 (about 3,500 per Kannada page + 3,000 for the brief); the finished English of the same pages is 9,436 tokens. `tools/rv/api_batch.py plan` does this count for every window before anything is sent. DONE.
+
 ## How to add a lesson
 Append to the right section: number, one-sentence incident, the rule/tool change, status. If the lesson changes behaviour, also edit `CLAUDE.md` (general), `tools/rv/TRANSLATOR_RULES.md` (agent) or `tools/rv/RUNBOOK.md` (dispatcher), and the tool itself where possible.

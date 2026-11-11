@@ -18,6 +18,7 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 - **Translator agent (Sonnet, fresh for every batch of three windows)**: for each window runs `python3 tools/rv/batch.py next N` (audit by script + prep), reads `WIN/TASK.md` (and `tools/rv/BRIEF.md` once), writes `WIN/en.md`, runs `python3 tools/rv/batch.py done N WIN --note "…"` (build, all gates, commit, push, self-verification) until it prints `VERIFIED`.
 - **Dispatcher** (main session; Sonnet is enough): one Agent call per batch with the prompt in `volN/CONTINUE_PROMPT_HTML.md`; when the agent reports, append its token count to `volN/parts/batch_costs.md` and start the next batch. No manual `git log`/`grep` checks: `next` refuses to prepare a window while the audit fails. Never two writers on one volume.
 - Measured on Vol 12 (Nov 10 2026): about 10k tokens per page this way, against 25–36k for one fresh agent per 3-page window (Vols 14–16).
+- **Batch API route** (pilot on Vol 17; needs `RIK_API_KEY`): `python3 tools/rv/api_batch.py plan|submit|status|collect N` sends windows as one batch (half price, no agents); `plan` is free and prints the estimate, `submit` spends money: only after the user has seen the estimate.
 - `python3 tools/rv/batch.py audit N` = the invariants at any time. A window is done only when `done` printed `VERIFIED` and `audit` passes.
 - The script (`tools/rv/html_to_kn.py`) repairs the supplied text's structure before the translator sees it (garbled/missing labels, hyphen joins, stray lines, missed running heads); what it did is listed in `TASK.md`.
 

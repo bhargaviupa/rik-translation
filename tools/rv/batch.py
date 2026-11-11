@@ -64,10 +64,13 @@ def numbered(kn):
         inb=isb; out.append(l)
     return '\n'.join(out),n
 def mandalas(cfg): return cfg.d.get('mandalas') or [cfg.mandala,cfg.mandala+1]
-def cmd_prep(a,quiet=False):
+def cmd_prep(a,quiet=False,after=None):
+    """after=P: prepare the window that follows printed p. P whatever the progress note says (batch runs prepare many windows ahead; no English context then)"""
     cfg=rvlib.Cfg(a[0]); heads={}; src=cfg.source_pages(heads)
     if src is None: sys.exit('volcfg.json has no "source": this workflow needs the supplied text (use the older scan workflow only for volumes without one)')
-    dp,dpdf=position(cfg); pages=next_pages(cfg,dp,dpdf,src); w=os.path.join(cfg.work,f'w{pages[0][0]:04d}'); os.makedirs(w,exist_ok=True)
+    dp,dpdf=position(cfg)
+    if after is not None: dp,dpdf=after,None
+    pages=next_pages(cfg,dp,dpdf,src); w=os.path.join(cfg.work,f'w{pages[0][0]:04d}'); os.makedirs(w,exist_ok=True)
     specs=[os.path.join(ROOT,x.split('@')[0])+('@'+x.split('@')[1] if '@' in x else '') for x in cfg.source]
     kn,sec=html_to_kn.kn_pages(specs,[p for p,_ in pages],None,mandalas(cfg))        # section/verse at the window start: found by the script itself (no state file)
     notes=list(html_to_kn.LOG); extra=list(html_to_kn.EXTRA)
@@ -81,7 +84,7 @@ def cmd_prep(a,quiet=False):
     wr(os.path.join(w,'pages.json'),json.dumps(info,indent=1))
     if rows: wr(os.path.join(w,'numerals.txt'),'\n'.join(nrows)+'\n')                 # only when the user supplied a numeral file
     rel=os.path.relpath(w,ROOT); en=rd(cfg.en); i=en.rfind('**Progress note:**'); body=en[:i].rstrip('\n').rstrip('-').rstrip('\n') if i>=0 else en
-    tail='…'+body[-900:]; prev=[p for p in sorted(src) if p<pages[0][0]][-1:]
+    tail='…'+body[-900:] if after is None else '(prepared ahead: the English of the pages before this window is not available; the Kannada lines below show where the text stands)'; prev=[p for p in sorted(src) if p<pages[0][0]][-1:]
     pk=''
     if prev:
         t,_=html_to_kn.kn_pages(specs,prev,None,mandalas(cfg),warm=6); pk='\n'.join([l for l in t.split('\n') if l.strip()][-5:]); html_to_kn.LOG[:]=notes
