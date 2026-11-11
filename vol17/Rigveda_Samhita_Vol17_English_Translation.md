@@ -10923,6 +10923,232 @@ That Agni exists in identity with Sūrya and is the root cause of all actions, a
 
 अंतमस्य (*aṃtamasya*): of the forest fire that stands near; the whole creation coming towards it (आयत् (*āyat*), advancing to meet it) is seen प्रतिचीनं (*praticīnaṃ*), turned away, ददृशे (*dadṛśe*), is seen. The illustration is शूरस्येव (*śūrasyeva*): as the hostile army coming to meet a brave, capable king who is fighting a battle is seen turned away, so here. मतिः (*matiḥ*): that Agni, known by all, holds within himself (Sāyaṇa: अंतर्धारयति (*aṃtardhārayati*)) गोः (*goḥ*), of the cow (that is, of water), the destructive निष्पिधं (*niṣpidhaṃ*) radiance. This is the lordship of the gods (as in the refrain).
 
+### Printed p. 293
+#### Ṛk 8 (continued)
+
+> तस्य शतरि रूपं । अंतमस्य । अंतशब्दादत इनिठनाविति ठन् । अतिशयेनांतिक इत्यर्थे
+> तमस् । तमॆः तादेश्येति तादिलोपः । नित्त्वादाद्युदात्तः । प्रतीचीनं । प्रतिपूर्वस्यांचतेः क्विन् । तस्माद्विभाषांचेरदिक्स्त्रियामिति खः । ईनादेशः । प्रत्ययस्वरः ।
+> आयत् । या प्रापण इत्यस्याज् पूर्वस्य शतरि रूपं आज्‌पूर्वस्य अय पय गतावित्यस्य शतरि रूपं वेति व्युत्पत्त्यनवधारणादनवग्रहः ॥
+
+##### Gist of the bhāṣya
+
+This block gives only the grammatical derivations of the words of the preceding bhāṣya; the Grammar section carries them. It ends by saying that, because the derivation is not settled, no definite choice (anavagraha) is made for आयत् (*āyat*): it may be the present participle of या प्रापण (*yā prāpaṇa*) with आज् (*āj*) before it, or of the root अय पय (*aya paya*) (to go) with आज् (*āj*) before it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंतमस्य (*aṃtamasya*)—of the nearby forest fire
+- आयत् (*āyat*)—going towards
+- विश्वं (*viśvaṃ*)—all beings too
+- युध्यतः (*yudhyataḥ*)—of the one who fights
+- शूरस्येव (*śūrasyeva*)—as enemy armies turn their backs and run on seeing a hero
+- प्रतीचीनं (*pratīcīnaṃ*)—turned away
+- ददृशे (*dadṛśe*)—appear
+- मतिः (*matiḥ*)—Agni, who is known by all
+- गोः (*goḥ*)—of the water
+- निष्पिधं (*niṣpidhaṃ*)—radiant
+- अंतः (*aṃtaḥ*)—in the interior
+- चरति (*carati*)—moves
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and ordinary **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+All beings approaching the nearby forest fire appear turned away, just as enemy armies turn their backs and flee on seeing a fighting hero. Agni, known to all, moves in the radiant interior of the water. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+All (creatures) approaching too near his confines are beheld with their faces turned away as (an enemy) flies from a combatant : obvious (to all), he penetrates the water for its destruction : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+अंतमस्य—समीपे वर्तमानस्य (*aṃtamasya—samīpe vartamānasya*). This word is used as an adjective. Following the meaning of the comparison sentence, Sāyaṇa explains the noun qualified as the forest fire. शूरस्य युद्धतः आयत् विश्वं प्रतीचीनं ददृशे (*śūrasya yuddhataḥ āyat viśvaṃ pratīcīnaṃ dadṛśe*)—यथा युद्धं कुर्वाणस्य शूरस्य समर्थस्य राज्ञः अभिमुखमागच्छत् भूतजातं परबलं पराङ्मुखं दृश्यते (*yathā yuddhaṃ kurvāṇasya śūrasya samarthasya rājñaḥ abhimukhamāgacchat bhūtajātaṃ parabalaṃ parāṅmukhaṃ dṛśyate*)—as an enemy army that has come to face a king engaged in battle turns back through the king's power, so, with समीपे वर्तमानस्य दावाग्नेः विश्वं प्रतीचीनं ददृशे (*samīpe vartamānasya dāvāgneḥ viśvaṃ pratīcīnaṃ dadṛśe*)—all who come to confront the fiercely blazing forest fire, unable to extinguish it, turn back; thus the incomparable greatness of the forest fire is described.
+### Printed p. 294
+The word मतिः (*matiḥ*) is explained as सर्वैः ज्ञायमानः (*sarvaiḥ jñāyamānaḥ*): Agni is known to all by his own natural quality. This Agni गोः निष्पिधं अंतश्चरति (*goḥ niṣpidhaṃ aṃtaścarati*)—उदकस्य हिंसिकां दीप्तिं अंतर्धारयति (*udakasya hiṃsikāṃ dīptiṃ aṃtardhārayati*)—he bears even in the midst of the waters the abundant radiance (power) that drinks up the waters; thus the Aurvāgni (the fire in the earth) is described briefly. So in this Ṛk both the forest fire and the Aurvāgni are described briefly. The abundant might of the gods, being such, is described as unequalled.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि वे॑वेति पलि॒तो दू॒त आ॑स्वं॒तर्म॒हांश्च॑रति रोच॒नेन॑ ।  
+> वपूं॑षि॒ बिभ्र॑द॒भि नो॒ वि च॑ष्टे म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑॥
+
+> *ni veveti palito dūta āsvaṃtarmahāṃścarati rocanena |*  
+> *vapūṃṣi bibhradabhi no vi caṣṭe mahaddevānāmasuratvamekaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । वेवेति । पलितः । दूतः । आसु । अंतः । महान् । च र ति । रोचनेन ।  
+> वपूंषि । बिभ्रत् । अभि । नः । वि । चष्टे । महत् । देवानां । असुरत्वं । एकं ॥९॥
+
+> *ni | veveti | palitaḥ | dūtaḥ | āsu | aṃtaḥ | mahān | ca ra ti | rocanena |*  
+> *vapūṃṣi | bibhrat | abhi | naḥ | vi | caṣṭe | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖9‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पलितः पालयिता पूर्णो वा देवानां दूतोऽग्निरास्वोषधीषु नि वेवेति ।
+> नितरां वाप्य वर्तते । महान् सोऽग्नी रोचनेन सूर्येण सहांता रोदस्योर्मद्यॆ चरति । वपूंषि नानाविधानि रूपाणि बिभ्रत् सोऽग्निर्नोऽस्मान् यष्ट्वानभि
+> वि चष्टे । विशेषेणानुग्रहदृष्ट्या पश्यति ॥ वेवेति । वी गत्यादिषु । यज्जलुकि ईडभावे रूपं । रोचनेन ! सहार्थे तृतीया । भिभ्रत् । डुभृञ् धारणपोषणयोरित्यस्य शतरि रूपं । अभ्यस्तस्वरः ॥
+
+##### Gist of the bhāṣya
+
+पलितः (*palitaḥ*) means protector, or full. Agni, the messenger of the gods, नि वेवेति (*ni veveti*) constantly abides in these plants. Being great, he moves with रोचनेन (*rocanena*), the sun, between heaven and earth. Bearing manifold forms (वपूंषि (*vapūṃṣi*)), he looks upon us, the sacrificers, वि चष्टे (*vi caṣṭe*), with a particularly favouring eye. (Remaining text: grammar of वेवेति (*veveti*), रोचनेन (*rocanena*) (third case in the sense of "together with") and भिभ्रत् (*bhibhrat*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पलितः (*palitaḥ*)—the full-natured
+- दूतः (*dūtaḥ*)—Agni, the messenger of the gods
+- आसु (*āsu*)—in these plants
+- नि वेवेति (*ni veveti*)—has pervaded
+- महान् (*mahān*)—the great Agni
+- रोचनेन (*rocanena*)—as the shining sun
+### Printed p. 295
+- अंतः (*aṃtaḥ*)—between heaven and earth
+- चरति (*carati*)—moves
+- वपूंषि (*vapūṃṣi*)—manifold forms
+- बिभ्रत् (*bibhrat*)—Agni who bears
+- नः (*naḥ*)—us, the sacrificers
+- अभि वि चष्टे (*abhi vi caṣṭe*)—looks upon with a favouring eye
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, full-natured and messenger of the gods, has pervaded these plants. The great Agni, as the shining sun, moves between heaven and earth. Bearing manifold forms, he looks upon us, the sacrificers, with a favouring eye. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+In those (plants) the aged messenger (of the gods) constantly abides : mighty, he passes with the radiant (sun) thorough the regions of space ; assuming various forms, he looks (complacently) upon us : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+पलितः— पालयिता पूर्णो वा (*palitaḥ— pālayitā pūrṇo vā*). Agni is explained as the protector of all, or as full with complete greatness. He is also described as देवानां दूतः (*devānāṃ dūtaḥ*), messenger of the gods, because he calls the gods to the sacrificial hall to receive the oblation and carries each god's oblation to him. By the sentence मर्हा रोचनेन अंतः चरति (*marhā rocanena aṃtaḥ carati*) Agni, full of greatness, is described as moving with the sun between heaven and earth. But in Ṛk (Ṛ. Saṃ. 3-75-7) the identity with the sun and a separate movement are described. This Agni, वपूंषि बिभ्रत् नः अभि वि चष्टे (*vapūṃṣi bibhrat naḥ abhi vi caṣṭe*), bearing various forms, looks upon us the sacrificers greatly favouringly.
+### Printed p. 296
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्णु॑र्गो॒पाः प॑र॒मं पा॑ति॒ साथः॑ प्रि॒या धामा॑न्य॒मृता॒  ॑
+> दधानः ।  
+> अ॒ग्निष्टा विश्वा॒ भुव॑नानि वेद म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *viṣṇurgopāḥ paramaṃ pāti sāthaḥ priyā dhāmānyamṛtā*  
+> *dadhānaḥ |*  
+> *agniṣṭā viśvā bhuvanāni veda mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्णुः । गोपाः । परमं । पाति । पाथः । प्रिया । धामानि । अमृता । दधानः ।  
+> अग्निः । ता । विश्वा । भुवनानि । वेद । महत् । देवानां । असुरत्वं । एकं ॥ १० ॥
+
+> *viṣṇuḥ | gopāḥ | paramaṃ | pāti | pāthaḥ | priyā | dhāmāni | amṛtā | dadhānaḥ |*  
+> *agniḥ | tā | viśvā | bhuvanāni | veda | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णुर्वाप्नो गोपाः सर्वस्य गोपायिता प्रिया प्रियतमान्यमृता क्षयरहितानि धामानि तेजांसि दधानः सोऽग्निः परमं पाथः स्थानं पाति । रक्षति । यद्वा ।
+> धामानि लोकधारकाण्यमृतोदकानि दधानः सन् परमं पाथ उदकस्य स्थानमंतरिक्षं
+> पाति । सोऽग्निस्ता तानि विश्वा सर्वाणि भुवनानि भूतजातानि वेद । जानाति ॥ गोपाः ।
+> गोपायतेः क्विप्यतोलोपयलोपौ । अग्निष्टेत्यत्र संहितायां युष्मत्तत्तत्कुः
+> स्वंतः पादमिति षत्वं ॥
+
+##### Gist of the bhāṣya
+
+विष्णुः (*viṣṇuḥ*) is the pervader and गोपाः (*gopāḥ*) the protector of all. Bearing most dear (प्रिया (*priyā*)) and imperishable (अमृता (*amṛtā*)) splendours (धामानि (*dhāmāni*)), that Agni guards the highest place (परमं पाथः (*paramaṃ pāthaḥ*)). Or else: bearing the world-sustaining immortal waters, he guards the supreme place of water, the atmosphere. That Agni knows all those beings (भुवनानि (*bhuvanāni*)). (Remaining text: grammar of गोपाः (*gopāḥ*) and the change to ṣ in अग्निष्टा (*agniṣṭā*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्णुः (*viṣṇuḥ*)—the all-pervading
+- गोपाः (*gopāḥ*)—the protector of all
+- प्रिया (*priyā*)—most dear
+- अमृता (*amṛtā*)—imperishable
+- धामानि (*dhāmāni*)—splendours
+- दधानः (*dadhānaḥ*)—possessing; Agni
+- परमं पाथः (*paramaṃ pāthaḥ*)—the highest path
+- पाति (*pāti*)—protects
+- अग्निः (*agniḥ*)—that same Agni
+- ता विश्वा भुवनानि (*tā viśvā bhuvanāni*)—all those well-known worlds
+- वेद (*veda*)—knows
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is all-pervading, protector of all, and possessor of most dear and imperishable splendours, protects the highest path. He knows all the worlds. The might of the gods is great and unequalled.
+### Printed p. 297
+
+##### English translation (H. H. Wilson)
+Pervading and protecting (all), possesing grateful and immortal radiance, he preserves the supreme path (of the rains), for Agni knows all these worlds : great and unqueualled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+विष्णुः गोपाः अमृता धामानि दधानः—व्याप्तः सर्वस्य गोपायिता क्षयरहितानि तेजांसि दधानः (*viṣṇuḥ gopāḥ amṛtā dhāmāni dadhānaḥ—vyāptaḥ sarvasya gopāyitā kṣayarahitāni tejāṃsi dadhānaḥ*): Agni pervades everything, protects all, and bears splendours that are ever without decline—this is one kind of meaning; in it धामानि (*dhāmāni*) is explained as splendours. In the second meaning धामानि (*dhāmāni*) is said to be लोकधारकाणि (*lokadhārakāṇi*) and अमृता (*amṛtā*) waters. Hence लोकधारकाणि उदकानि दधानः अग्निः उदकस्य स्थानमंतरिक्षं पाति (*lokadhārakāṇi udakāni dadhānaḥ agniḥ udakasya sthānamaṃtarikṣaṃ pāti*)—Agni, bearing the world-sustaining waters, protects the atmosphere, the place of the waters. The word अमृत (*amṛta*) is stated by Yāska among the names of water (Ni. 2-24).
+सः अग्निः विश्वा भुवनानि वेद—सर्वाणि भूतजातानि जानाति (*saḥ agniḥ viśvā bhuvanāni veda—sarvāṇi bhūtajātāni jānāti*). The word भुवन (*bhuvana*) is given the meaning "living beings"; because Agni knows all the manifold beings, he is described as omniscient. Thus Jātavedas Agni is described in another manner. So in the preceding Ṛks Agni's manifold existence—as lightning-fire, Vaiśvānara fire, forest fire, Aurva fire—has been described briefly.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाना॑ चक्राते य॒म्या॒३॒॑श्वपूं॑षि॒ तयो॑र॒न्यद्रोच॑ते कृ॒ष्णम॒न्यत् ।  
+> श्यावी॑ च॒ यदरु॑षी च॒ स्वसा॑रौ म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *nānā cakrāte yamyāśvapūṃṣi tayoranyadrocate kṛṣṇamanyat |*  
+> *śyāvī ca yadaruṣī ca svasārau mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाना । चक्राते इति । यम्या । वपूंषि । तयोः । अन्यत् । रोचते । कृष्णं । अन्यत् ।  
+> श्यावी । च । यत् । अरुषी । च । स्वसारौ । महत् । देवानां । असुरत्वं । एकं ॥
+
+> *nānā | cakrāte iti | yamyā | vapūṃṣi | tayoḥ | anyat | rocate | kṛṣṇaṃ | anyat |*  
+> *śyāvī | ca | yat | aruṣī | ca | svasārau | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖*
+
+### Printed p. 298
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यम्या यमरूपे मिथुनभूते अहश्च रात्रिश्चेत्येते नाना नानाविधानि
+> वपूंषि शुक्लकृष्णादीनि रूपाणि चक्राते । कुरुतः । श्यावी कृष्णवर्णारुषी शुक्लतयारोचमाना यत् ये परस्परं स्वसारौ भवतस्तयोर्मध्येऽन्यदर्जुनमहो
+> रोचते । किरणसंबंधाद्वीप्यते । अन्यद्रात्रिलक्षणं कृष्णं तमस्संबंधात् कृष्णवर्णमाभाति ॥ यम्या । सुपो डादेशः । रोचते । एकान्याभ्यां समर्थाभ्यामिति न
+> निघातः ॥
+
+##### Gist of the bhāṣya
+
+यम्या (*yamyā*), the twin pair, day and night, चक्राते (*cakrāte*) make manifold (नाना (*nānā*)) forms (वपूंषि (*vapūṃṣi*)), white, black and so on. श्यावी (*śyāvī*) is the black-coloured one and अरुषी (*aruṣī*) the one shining through whiteness; as the two are sisters (स्वसारौ (*svasārau*)) of each other, of them one, the bright day, रोचते (*rocate*) shines through its connection with the rays; the other, characterised as night, appears black through its connection with darkness. (Remaining text: grammar of यम्या (*yamyā*) (ḍā substitution) and रोचते (*rocate*) (no nighāta).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम्या (*yamyā*)—day and night as a pair
+- नाना (*nānā*)—manifold (white and black)
+- वपूंषि (*vapūṃṣi*)—forms
+- चक्राते (*cakrāte*)—have assumed
+- श्यावी (*śyāvī*)—the black-coloured night
+- अरुषी (*aruṣī*)—the day full of light
+- यत् स्वसारौ (*yat svasārau*)—they are sisters of each other
+- तयोः (*tayoḥ*)—of them
+- अन्यत् (*anyat*)—the day
+- रोचते (*rocate*)—shines with light
+- अन्यत् (*anyat*)—the night
+- कृष्णं (*kṛṣṇaṃ*)—has assumed a black colour
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Day and night, in the form of a pair, have assumed manifold forms, white and black. The night and the day full of light are sisters of each other. Of them the day shines with light and the night wears a black colour. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+The twin pair (day and night) adopt various forms : one of them shines brightly, the other is black : twin sisters are they, one black and the other white : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+यम्या—मिथुनभूते (*yamyā—mithunabhūte*). This word is stated among the names of night (Ni. 2-18). श्यावी—कृष्णवर्णा (*śyāvī—kṛṣṇavarṇā*). This word too is read among the names of night (Ni. 2-18). In this Ṛk day and night are described. Of these, the day, through the spread of the sun's rays, is अरुषी—शुक्लवर्णा (*aruṣī—śuklavarṇā*), bright; the night, through its connection with darkness, is कृष्णं (*kṛṣṇaṃ*), black. Day and night परस्परं स्वसारौ भवतः (*parasparaṃ svasārau bhavataḥ*): because each follows the other, they are described as sisters. Yāska also—
+
 ---
 
-**Progress note:** Done through printed p. 292. pp. 287-292 (batch API)
+**Progress note:** Done through printed p. 298. pp. 293-298 (batch API)
