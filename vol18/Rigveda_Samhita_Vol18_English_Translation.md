@@ -18510,6 +18510,219 @@ is cited, and it is thereby pointed out that there the seer prays that Vāyu sho
 
 In former times all the gods, wishing to drink Soma together, fell into a dispute among themselves as to who should drink Soma first; then among them, "I first, I first, I shall drink"
 
+### Printed p. 470
+(The Kannada commentary continues the Special Topics of the preceding Ṛk.)
+
+They say that in the past all the gods gathered and wished to drink Soma. A dispute arose about who should drink first, each saying "I first, I first", and a debate began. Since the matter could not be settled in any way, they all took counsel together and came to an agreement: "Let us all arrange a contest; whoever wins shall be entitled to drink Soma first." All agreed. It was then settled that the contest would be to run from one place to another place far off, and whoever first reached a rock or a tree there should be reckoned the winner. All the gods consented to the agreement that the winner, victorious among them, should drink the Soma, and they began to run at the same moment. Among all the running gods, Vāyu reached the appointed place ahead of all. Indra, coming close behind Vāyu, was second. Then, behind Indra, Mitra and Varuṇa, and behind them the Aśvins, ran up and reached the appointed place. Therefore among these gods it was Vāyu who ran ahead of all and was victorious.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयावेति स नेत्यब्रवीदहमेवोज्जॆष्यामाति तृतीयं मेऽथोज्जयावेति नेति हैवाब्रवीदहमेवोज्जॆष्यामाति तुरीयं मेऽथोज्जयावेति तथेति तं तुरीयेऽत्यार्जत तत्तुरीयभागिंद्रोऽभवत्रिभाग्वायुः ॥ (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāveti sa netyabravīdahamevojjèṣyāmāti tṛtīyaṃ me 'thojjayāveti neti haivābravīdahamevojjèṣyāmāti turīyaṃ me 'thojjayāveti tatheti taṃ turīye 'tyārjata tatturīyabhāgiṃdro 'bhavatribhāgvāyuḥ ‖*)
+
+While Vāyu ran, and Indra behind him, a conversation took place between them. Indra, seeing Vāyu run swiftly, resolved: "This Vāyu will run ahead of all and be victorious. Somehow I too must run along with him and win." Using all his strength he ran close beside Vāyu. Yet, seeing no sign of passing Vāyu and going ahead, Indra said to Vāyu: "O Vāyu, we two are ahead of all. Therefore let us consider ourselves both victorious and share the first Soma-drinking between us. Half for me, half for you. Let us win the victory together." Hearing this Vāyu said: "O Indra, I am ahead of you, if only by a little. So I alone shall be the victor, and all of the first Soma-drinking must be mine. I cannot give you a half." Then Indra said: "Very well, then I do not want half. Of three parts take two yourself, and give me only one part." Vāyu did not agree to that either, saying: "Somehow I shall win; the whole share will be mine. I am unwilling to give you even one part of three." Then Indra again entreated Vāyu: "I do not want even one third. A still smaller portion will do, namely one fourth. Agree to at least that." When he asked thus, Vāyu
+
+### Printed p. 471
+agreed, saying let it be so. Therefore it was arranged that in the Aindravāyava graha (that is, when Indra and Vāyu drink Soma together) Indra should have one part and Vāyu three parts.
+
+तौ सहैवेंद्रवायू उदजयतां सह मित्रावरुण् सहाश्विनौ त एषामेते यथोज्जि तं भक्षा इंद्रवाय्वोः प्रथमोऽथ मित्रावरुणयोरथाश्विनोः स एष इंद्रतुरीयो ग्रहो गृह्यते यद्यैंद्रवायवः । (*tau sahaiveṃdravāyū udajayatāṃ saha mitrāvaruṇ sahāśvinau ta eṣāmete yathojji taṃ bhakṣā iṃdravāyvoḥ prathamo 'tha mitrāvaruṇayorathāśvinoḥ sa eṣa iṃdraturīyo graho gṛhyate yadyaiṃdravāyavaḥ |*)
+
+In this way Indra and Vāyu, cooperating, won the contest and were first to reach the appointed place. Behind them Mitra and Varuṇa came up; behind them the Aśvins came. Therefore among these gods, in the order of the places they obtained in the contest, they became entitled to the Soma-drinking: first Indra and Vāyu, then Mitra and Varuṇa, after them the Aśvins. Thus the order of the dvidevatya graha (the order in which two gods together drink Soma) came into practice. Therefore in the Aindravāyava graha Indra's arrangement in the Soma-drinking is only one part in four.
+
+तदेतदृषिः पश्यन्नभ्यनूवाच नियुत्वा इंद्रसारथिरिति (*tadetadṛṣiḥ paśyannabhyanūvāca niyutvā iṃdrasārathiriti*)
+
+The seer, knowing by divine vision that Indra has one fourth in the Aindravāyava graha, expressed this matter also in the next Ṛk, namely in the Ṛk शतेना नो अभिष्टिभिर्नियुत्वा इंद्रसारथिः (*śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ*) (Ṛ. Saṃ. 4-46-2), by the sentence "niyutvā indrasārathiḥ". Here, according to the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28), the horses called niyut are well known as the vehicle of the god Vāyu. Therefore the word niyutva indicates connection with Vāyu. In the Ṛk above, the word niyutvān denotes Indra accompanied by Vāyu. Mantras such as अधा वायुं नियुतः सश्चतस्वाः (*adhā vāyuṃ niyutaḥ saścatasvāḥ*) (Tai. Brā. 2-8 1-1) support this. The word indrasārathiḥ means Indra who is the charioteer of Vāyu. Since Indra stands in the place of charioteer to Vāyu, this indicates that Indra has only a fourth part in the first Soma-drinking.
+
+तस्माद्दाप्येतर्हि भरताः सत्वनां वित्तिं प्रयंति तुरीये हैव संग्रहीतारो वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वो दजयत् ॥ (*tasmāddāpyetarhi bharatāḥ satvanāṃ vittiṃ prayaṃti turīye haiva saṃgrahītāro vadaṃte 'munaivānūkāśena yadada iṃdraḥ sārathiriva bhūtvo dajayat ‖*) (Ai. Brā. 9-25)
+
+### Printed p. 472
+The above matter is made clear by an example from worldly practice. Warriors in battle sit in chariots, and with the help of their charioteers become victorious and seize the enemy's wealth and the like. When they have seized it, they give one part of that wealth, namely one fourth, to the charioteers who helped them. This custom is current in worldly practice. In the same way, in this contest arranged by the gods, Indra was charioteer to Vāyu and Vāyu was victorious; so one fourth of the first Soma-drinking won in the contest became Indra's share. The main sense is that Indra earned his fourth as charioteer to Vāyu.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तेना॑ नो अ॒भिष्टि॑भिर्नि॒युत्वा॒ इंद्र॑सारथिः ।  
+> वायो॑ सु॒तस्य॑ तृंपतं ॥ २ ॥
+
+> *śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ |*  
+> *vāyo sutasya tṛṃpataṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतेन । नः । अभिष्टिभिः । नियुत्वान् । इंद्रसारथिः ।  
+> वायो इति । सुतस्य । त्वंपतं ॥ २ ॥
+
+> *śatena | naḥ | abhiṣṭibhiḥ | niyutvān | iṃdrasārathiḥ |*  
+> *vāyo iti | sutasya | tvaṃpataṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो नियुत्वान्नियुद्धिस्तद्वान् इंद्रसारथिरिंद्रसहायः सन् त्वं
+> शतेनापरिमितैरभिष्टिभिरभित एषणीयैः काम्यर्निमित्तभूतैरागच्छेति शेषः । आगत्य च
+> सुतस्य सुतमभिषुतं सोमं तृंपतं । पिबतं त्वमिंद्रश्च । इंद्रस्य साहित्यं ब्राह्मण
+> एवोक्तं । तत्तुरीयभागिंद्रोऽभवत्रिभाग्वायुरिति तुरीये हैव संग्रहितारो
+> वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वोऽजयत् । ऐ. ब्रां. २-२५ ।
+> इति वा ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, you who are नियुत्वान् (*niyutvān*), possessed of the niyuts (the team of horses), and इंद्रसारथिः (*iṃdrasārathiḥ*), having Indra as helper, come with hundreds of immeasurable अभिष्टिभिः (*abhiṣṭibhiḥ*), things to be sought on every side, that is, desired objects as the reason for coming (the word "come" being understood). Having come, both of you, you and Indra, drink the pressed Soma. Indra's companionship is stated in a Brāhmaṇa itself: तत्तुरीयभागिंद्रोऽभवत्रिभाग्वायुरिति तुरीये हैव संग्रहितारो वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वोऽजयत् (*tatturīyabhāgiṃdro 'bhavatribhāgvāyuriti turīye haiva saṃgrahitāro vadaṃte 'munaivānūkāśena yadada iṃdraḥ sārathiriva bhūtvo 'jayat*) (Ai. Brā. 2-25) **NOTE**. Or else this is the explanation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नियुत्वान् (*niyutvān*)—possessed of the horses called niyuts
+- इंद्रसारथिः (*iṃdrasārathiḥ*)—having Indra himself as charioteer
+- वायो (*vāyo*)—O Vāyu
+- नः (*naḥ*)—our
+- शतेन (*śatena*)—immeasurable
+- अभिस्विभिः (*abhisvibhiḥ*)—for the accomplishment of the desired object (coming here)
+- सुतस्य (*sutasya*)—the pressed Soma
+- तृंपतं (*tṛṃpataṃ*)—drink, you and Indra
+
+### Printed p. 473
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, you who are possessed of the horses called niyuts and have Indra himself as charioteer, come to our sacrifice for the fulfilment of our immeasurable desires, and drink, you and Indra, the Soma we have pressed.
+
+##### English translation (H. H. Wilson)
+Vayu, you are drawn by the Niyuts, and have Indra for charioteer ; come (for the fulfilment) of our numerous wishes, and do you (and Indra) drink of the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+नियुत्वान् इंद्रसारथिः (*niyutvān iṃdrasārathiḥ*)—This matter has been explained in the last part of the Special Topics of the preceding Ṛk.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नां॑ स॒हस्रं॒ हर॑य॒ इंद्र॑वायू अ॒भि प्रयः॑ ।  
+> वहं॑तु॒ सोम॑पीतये ॥ ३ ॥
+
+> *ā nāṃ sahasraṃ haraya iṃdravāyū abhi prayaḥ |*  
+> *vahaṃtu somapītaye ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नां । सहस्रं । हरयः । इंद्रवायू इति । अभि । प्रयः ।  
+> वहंतु । सोमपीतये ॥ ३ ॥
+
+> *ā | nāṃ | sahasraṃ | harayaḥ | iṃdravāyū iti | abhi | prayaḥ |*  
+> *vahaṃtu | somapītaye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू नां युवां सहस्रं हरयः सहस्रसंख्याका अश्वाः
+> प्रयोऽन्नं प्रति त्वरयंतः संति । अत्र हरिशब्दोऽश्वसामान्यवचनः । ते सोमपीतॆय आ वहंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vāyu, a thousand हरयः (*harayaḥ*), thousands of horses, are hastening towards प्रयः (*prayaḥ*), food. Here the word hari is a general term for horses. May they bring you for the drinking of Soma.
+
+### Printed p. 474
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- वां (*vāṃ*)—you
+- सहस्रं (*sahasraṃ*)—a thousand in number
+- हरयः (*harayaḥ*)—horses
+- प्रयः (*prayaḥ*)—desirous of food
+- सोमपीतये (*somapītaye*)—for the purpose of drinking Soma
+- अभि (*abhi*)—to us
+- आ वहंतु (*ā vahaṃtu*)—may they bring (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, may a thousand horses, desirous of food and for the purpose of drinking Soma, bring you to us who are waiting.
+
+##### English translation (H. H. Wilson)
+Indra and Vayu, may a thousand steeds, eager for food, bring you to drink the Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ हिर॑ण्यवंधुर॒मिंद्र॑वायू स्वध्व॒रं ।  
+> आ हि स्थाथो॑ दिवि॒स्पृशं॑ ॥ ४ ॥
+
+> *rathaṃ hiraṇyavaṃdhuramiṃdravāyū svadhvaraṃ |*  
+> *ā hi sthātho divispṛśaṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । हिरण्यवंधुरं । इंद्रवायू इति । सुअध्वरं ।  
+> आ । हि । स्थाथः । दिविस्पृशं ॥ ४ ॥
+
+> *rathaṃ | hiraṇyavaṃdhuraṃ | iṃdravāyū iti | suadhvaraṃ |*  
+> *ā | hi | sthāthaḥ | divispṛśaṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीरामचंद्राय नमः ॥
+> हे इंद्रवायू हिरण्यवंधुरं हिरण्मयनिवासाधारकाष्टोपेतं दिविस्पृशं
+> द्युलोकस्पर्शिनं स्वध्वरं शोभनाध्वरवंतं रथमा स्थाधो हि । अस्थितौ खलु ।
+> यस्मादेवं तस्मादागच्छतमित्यर्थः । स्वध्वरं प्रत्यास्थाथ इति वा व्याख्येयं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vāyu, mount the chariot that is हिरण्यवंधुरं (*hiraṇyavaṃdhuraṃ*), furnished with a golden timber seat to dwell on, दिविस्पृशं (*divispṛśaṃ*), touching the heavenly world, and स्वध्वरं (*svadhvaraṃ*), having a fair sacrifice. अस्थितौ खलु (*asthitau khalu*): you two have mounted indeed. Since it is so, the meaning is "come". Or स्वध्वरं प्रत्यास्थाथ (*svadhvaraṃ pratyāsthātha*) is to be explained as: you mount towards the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- हिरण्यवंधुरं (*hiraṇyavaṃdhuraṃ*)—having a seat-timber made of gold
+- दिविस्पृशं (*divispṛśaṃ*)—touching the heavenly world
+- स्वध्वरं (*svadhvaraṃ*)—graceful for an excellent sacrifice
+- रथं (*rathaṃ*)—the chariot
+- आ स्थाथः (*ā sthāthaḥ*)—mount and sit
+
+### Printed p. 475
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, mount and sit in the chariot that has a seat made of gold, touches the heavenly world, and is graceful for an excellent sacrifice.
+
+##### English translation (H. H. Wilson)
+Mount, Indra and Vayu, the golden-seated chariot, propitious to sacrifice, soaring to heaven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथे॑न पृथु॒पाज॑सा दा॒श्वांस॒मुप॑ गच्छतं ।  
+> इंद्र॑वायू इ॒हा ग॑तं ॥ ५ ॥
+
+> *rathena pṛthupājasā dāśvāṃsamupa gacchataṃ |*  
+> *iṃdravāyū ihā gataṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथेन । पृथुपाजसा । दाश्वांसं । उप । गच्छतं ।  
+> इंद्रवायू इति । इह । आ । गतं ॥ ५ ॥
+
+> *rathena | pṛthupājasā | dāśvāṃsaṃ | upa | gacchataṃ |*  
+> *iṃdravāyū iti | iha | ā | gataṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथेन पृथ्वित्यादिकस्त्रचो दशरात्रे पंचमेऽहनि प्रउगशस्त्र ऐंद्रवायवो
+> द्वितीयः । सूत्रितं च । रथेन पृथुपाजसा बहवः सूरचक्षसः । आ. ७-१२ । इति ॥
+> हे इंद्रवायू पृथुपाजसा प्रभूतबलेन रथेन दाश्वांसं दातारं
+> यजमानमुप गच्छतं । तदर्थमिहास्मिन्यज्ञ आ गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+The tṛca beginning रथेन पृथु (*rathena pṛthu*) is, on the fifth day of the Daśarātra, the second Aindravāyava in the Praüga-śastra. It is also given in the Sūtra: रथेन पृथुपाजसा बहवः सूरचक्षसः (*rathena pṛthupājasā bahavaḥ sūracakṣasaḥ*) (Ā. 7-12). O Indra and Vāyu, go with a chariot of ample strength to the दाश्वांसं (*dāśvāṃsaṃ*), the giver, the sacrificer. For that purpose, come here, to this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायो (*iṃdravāyo*)—O Indra and Vāyu
+- पृथुपाजसा (*pṛthupājasā*)—possessing exceedingly great strength
+- रथेन (*rathena*)—with the chariot
+- दाश्वांसं (*dāśvāṃsaṃ*)—to the sacrificer who offers oblations
+- उप गच्छतं (*upa gacchataṃ*)—approach and come
+- इह (*iha*)—here, in this sacrifice (to take part)
+- आ गतं (*ā gataṃ*)—be gracious and come
+
 ---
 
-**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
+**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
