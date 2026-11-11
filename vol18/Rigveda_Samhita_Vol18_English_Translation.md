@@ -12387,6 +12387,281 @@ The Ṛbhus who satisfied the Aśvins by acts such as chariot-building, who made
 ##### English translation (H. H. Wilson)
 Ribhus, who by your assistance (gratified) the Ashwins, who renovated your) parents, who (restored) the cow, who fabricated the
 
+### Printed p. 328
+
+##### English translation (H. H. Wilson)
+horses, who made armour (for the gods), who separated earth and heaven, and who, the all-pervading leaders (of rites), accomplished (acts productive of) good results.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये गोमं॑तं॒ वाज॑वंतं सु॒वीरं॑ र॒यिं ध॒त्थ वसु॑मंतं  ॒
+> पुरुक्षुं ।  
+> ते अ॑ग्रे॒पा ऋ॑भवो मंदसा॒ना अ॒स्मे ध॑त्त॒ ये च॑ रा॒तिं  ॒॑
+> गृणंति ॥ १० ॥
+
+> *ye gomaṃtaṃ vājavaṃtaṃ suvīraṃ rayiṃ dhattha vasumaṃtaṃ*  
+> *purukṣuṃ |*  
+> *te agrepā ṛbhavo maṃdasānā asme dhatta ye ca rātiṃ*  
+> *gṛṇaṃti ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । गोमंतं । वाजवंतं । सुवीरं । रयिं । धत्थ । वसुमंतं ।  
+> पुरुक्षुं ।  
+> ते । अग्रेऽपाः । ऋभवः । मंदसानाः । अस्मे इति । धत्त । ये । च । रातिं ।  
+> गृणंति ॥ १० ॥
+
+> *ye | gomaṃtaṃ | vājavaṃtaṃ | suvīraṃ | rayiṃ | dhattha | vasumaṃtaṃ |*  
+> *purukṣuṃ |*  
+> *te | agre 'pāḥ | ṛbhavaḥ | maṃdasānāḥ | asme iti | dhatta | ye | ca | rātiṃ |*  
+> *gṛṇaṃti ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो ये ययं गोमंतं गोसहितं वाजवंतमन्नवंतं
+> सुवीरं शोभनपुत्रोपेतं वसुमंतं निवासयोग्यगृहादिधनोपेतं पुरुक्षुं
+> बह्वन्नं रयिं धनं धत्त । धारयथ मह्यं दातुं । हे ऋभवस्ते ययमग्रेपाः
+> प्रथमं पातारो मंदसाना माद्यंतः संतोऽस्मे अस्मभ्यं धत्त । दत्त रयिं । ये
+> च ययं रातिं दानं दत्तं सोमं वा गृणंति । स्तुवंति । ते धत्त । यद्वा । ये
+> च रातिं गृणंति यजमानास्तेभ्योऽपि धत्त ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Ṛbhus. The wealth you hold is one with cows, with food, with good sons, with houses and the like fit for dwelling, and with abundant provisions. Hold it ready, he says, so as to give it to me. Then he turns to the same Ṛbhus as the first drinkers, who are gladdened, and asks them to give the wealth to us. They are also to give it to those who praise the gift that was given, or the Soma that was given. Alternatively, he says, give also to those sacrificers who praise the gift.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- ये (*ye*)—you who
+- गोमंतं (*gomaṃtaṃ*)—that which is accompanied by cows
+- वाजवंतं (*vājavaṃtaṃ*)—that which is endowed with food
+- सुवीरं (*suvīraṃ*)—that which is accompanied by excellent sons
+- वसुमंतं (*vasumaṃtaṃ*)—that which is accompanied by houses and the like fit for dwelling
+
+### Printed p. 329
+
+- पुरुक्षुं (*purukṣuṃ*)—that which gives abundant nourishment
+- रयिं (*rayiṃ*)—wealth
+- दत्त (*datta*)—you have obtained
+- ते (*te*)—such you
+- अग्रेपाः (*agrepāḥ*)—those who drink before all others
+- मंदसानाः (*maṃdasānāḥ*)—those whose minds are gladdened
+- ये (*ye*)—those sacrificers who
+- रातिं (*rātiṃ*)—your gift
+- गृणंति (*gṛṇaṃti*)—praise
+- अस्मे (*asme*)—for giving to us
+- धत्त (*dhatta*)—you have received
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you who possess wealth that is accompanied by cows, endowed with food, accompanied by excellent sons, accompanied by houses and the like fit for dwelling, and giving abundant nourishment: being such, you drink before all others and have gladdened minds. Receive this wealth in order to give it to us, the sacrificers who praise your gift.
+
+##### English translation (H. H. Wilson)
+Ribhus, who possess wealth, comprising cattle, food, progeny, dwellings, and abundant sustenance, do you, who are the first drinkers (of the Soma), bestow upon us, when exhilarated, (that wealth, and upon those) who laud your liberality.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नापा॑भूत॒ न वो॑ऽतीतृषा॒मानिः॑शस्ता ऋभवो य॒ज्ञे अ॒स्मिन् ।  
+> समिंद्रे॑ण॒ मद॑थ॒ सं म॒रुद्भिः॒ सं राज॑भी रत्न॒धेया॑य  
+> देवाः ॥ ११ ॥
+
+> *nāpābhūta na vo 'tītṛṣāmāniḥśastā ṛbhavo yajñe asmin |*  
+> *samiṃdreṇa madatha saṃ marudbhiḥ saṃ rājabhī ratnadheyāya*  
+> *devāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अप । अभूत । न । वः । अतीतृषाम । अनिःशस्ताः । ऋभवः । यज्ञे । अस्मिन् ।  
+> सं । इंद्रेण । मदथ । सं । मरुत्भिः । सं । राजभिः । रत्नधेयाय ।  
+> देवाः ॥ ११ ॥
+
+> *na | apa | abhūta | na | vaḥ | atītṛṣāma | aniḥśastāḥ | ṛbhavaḥ | yajñe | asmin |*  
+> *saṃ | iṃdreṇa | madatha | saṃ | marutbhiḥ | saṃ | rājabhiḥ | ratnadheyāya |*  
+> *devāḥ ‖ 11 ‖*
+
+### Printed p. 330
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो यूयं नापाभूत । नापगच्छत । अपरक्ता न भवत । वयं
+> च वो युष्मान्नातीतृषाम । अत्यंतं तृषितान्मा करवाम । अतो हे ऋभवो
+> देवा अनिःशस्ता अनिंदिताः संतोऽज्ञन्य इंद्रेण सं मदथ । मरुद्भिः सं मदथ ।
+> राजिभी राजमानैरन्यैर्देवैः सं मदथ । तृप्ता भवथ । किमर्थ० । रत्नधेयाय
+> रमणीयाय धनदानाय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Ṛbhus: do not go away, do not become estranged. May we not make you exceedingly thirsty. Therefore, Ṛbhus, being blameless gods, rejoice with Indra, with the Maruts, and with the other shining gods; be satisfied. For what purpose? For the delightful giving of wealth, रत्नधेयाय (*ratnadheyāya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- नापाभूत (*nāpābhūta*)—do not abandon us and go away
+- वः (*vaḥ*)—you
+- न अतीतृषाम (*na atītṛṣāma*)—may it be as if we had made you accompanied by contentment (we do not make you suffer from thirst) **NOTE**
+- देवाः (*devāḥ*)—Ṛbhus who are of divine nature
+- अनिःशस्ताः (*aniḥśastāḥ*)—free from blame (praiseworthy)
+- अस्मिन् यज्ञे (*asmin yajñe*)—at this sacrifice
+- रत्नधेयाय (*ratnadheyāya*)—for bestowing wealth beneficial to us
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- सं मदथ (*saṃ madatha*)—be satisfied
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- सं (*saṃ*)—obtain satisfaction
+- राजभिः (*rājabhiḥ*)—with the other shining deities
+- सं (*saṃ*)—be fully satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, do not abandon us and go away. May it be that we do not make you suffer from thirst. O Ṛbhus of divine nature, be free from blame, that is, be worthy of our praise, and at this sacrifice obtain full satisfaction with Indra, with the Maruts, and with the other shining deities.
+
+##### English translation (H. H. Wilson)
+Ribhus do not go away; let us not leave you (thirsting): (be present) unapproached at this sacrifice; be exhilarated, deities, along with Indra, with the Maruts, and with (other) brilliant (divinities), for the distribution of wealth.
+
+## Sūkta 35 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहोप यातेति नवर्चं तृतीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमार्भवं । इहोप नवेत्यनुक्रमणिका ॥ तृतीयसवने मैत्रावरुणस्येदमुन्नीय
+> मानसूक्तं । सूत्रितं च । आ त्वा वहंत्वसावि देवमिहोप यातेत्यनुसवनं ।
+> आ. ५-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, beginning इहोप यात (*ihopa yāta*), has nine ṛks. Its seer is Vāmadeva, its deity the Ṛbhus, and its metre Triṣṭubh. The Anukramaṇikā says इहोप नव (*ihopa nava*). At the third savana this is the sūkta recited by the Maitrāvaruṇa priest while the Soma is being brought up (उन्नीयमान (*unnīyamāna*)). It is prescribed in the sūtra आ त्वा वहंत्वसावि देवमिहोप यातेत्यनुसवनं (*ā tvā vahaṃtvasāvi devamihopa yātetyanusavanaṃ*) (Ā. 5-5).
+
+### Printed p. 331
+
+##### Anuvāda
+
+This sūkta, beginning इहोप यात (*ihopa yāta*), is the third sūkta in the fourth anuvāka. It has nine ṛks. Vāmadeva is its seer, the Ṛbhus are its deity, and Triṣṭup is its metre. The Anukramaṇikā says "Iho pa nava". The Āśvalāyana Śrauta Sūtra (Ā. 5-5) shows that the sūkta is applied to the Unnīyamāna sūkta to be recited by the Maitrāvaruṇa priest at the third savana, in the sūtra आ त्वा वहंत्वसावि देवमिहोप यातेत्यनुसवनं (*ā tvā vahaṃtvasāvi devamihopa yātetyanusavanaṃ*). **NOTE**
+
+Sūkta 35. Maṇḍala 4. Anuvāka 4. Aṣṭaka 3. Adhyāya 7. Vargas 5, 6. Number of ṛks in the sūkta: 9. Ṛṣi: Vāmadeva. Deity: the Ṛbhus. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒होप॑ यात शवसो नपातः॒ सौध॑न्वना ऋभवो॒ माप॑  
+> भूत ।  
+> अ॒स्मिन्हि वः॒ सव॑ने रत्न॒धेयं॒ गमं॒त्विंद्र॒मनु॑ वो॒ मदा॑सः ॥
+
+> *ihopa yāta śavaso napātaḥ saudhanvanā ṛbhavo māpa*  
+> *bhūta |*  
+> *asminhi vaḥ savane ratnadheyaṃ gamaṃtviṃdramanu vo madāsaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । उप । यात । शवसः । नपातः । सौधन्वनाः । ऋभवः । मा । अप । भूत ।  
+> अस्मिन् । हि । वः । सवने । रत्नधेयं । गमंतु । इंद्रं । अनु । वः  
+> मदासः ॥ १ ॥
+
+> *iha | upa | yāta | śavasaḥ | napātaḥ | saudhanvanāḥ | ṛbhavaḥ | mā | apa | bhūta |*  
+> *asmin | hi | vaḥ | savane | ratnadheyaṃ | gamaṃtu | iṃdraṃ | anu | vaḥ*  
+> *madāsaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसो नपातो बलस्य पुत्रास्तस्य न पातयितारो वा हे सौधन्वनाः
+> सुधन्वनः पुत्रा हे ऋभवो यूयमिहोप यात । अस्मिन् तृतीये सवन उपगच्छत । माप भूत । अपगता न भवतॆ । अस्मिन् सवने रत्नधेयं रमणीयधनस्य दातार-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Ṛbhus as शवसो नपातः (*śavaso napātaḥ*) and सौधन्वनाः (*saudhanvanāḥ*). The first he explains as sons of strength, or as those who do not let strength fall. The second he explains as sons of Sudhanvan. Come here to this third savana, he says, and do not go away. At this savana, he adds,
+
+### Printed p. 332
+
+> मिंद्रमनु अनुसृत्य वो यष्मान्मदासो मदकराः सोमा गमंतु । गच्छंत्रु
+> अन्विति क्रियया वा संबध्यते । इंद्रं युष्मांश्चान्वागच्छंत्वित्यर्थः । हि पूरणः ॥
+
+##### Gist of the bhāṣya
+
+इंद्रं (*iṃdraṃ*) is the giver of delightful wealth. Following Indra, let the intoxicating Somas come to you. Alternatively अनु (*anu*) is connected with the verb: let the Somas come after Indra and after you. हि (*hi*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसो नपातः (*śavaso napātaḥ*)—sons of strength
+- सौधन्वनाः (*saudhanvanāḥ*)—and sons of Sudhanvan
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- इह उप यात (*iha upa yāta*)—be pleased to come to this sacrifice
+- मा अप भूत (*mā apa bhūta*)—do not go away from us
+- वः (*vaḥ*)—intended for you
+- अस्मिन् सवने (*asmin savane*)—in this third savana
+- रत्नधेयं (*ratnadheyaṃ*)—the giver of delightful wealth
+- इंद्रं अनु (*iṃdraṃ anu*)—following Indra
+- वः (*vaḥ*)—you
+- मदासः (*madāsaḥ*)—the Soma juices that cause exhilaration
+- गमंतु (*gamaṃtu*)—let them come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, sons of strength and sons of Sudhanvan, be pleased to come to this sacrifice. Do not go away from us. In this third savana, intended for you, following Indra, the giver of delightful wealth, let the Soma juices that cause exhilaration come and join you.
+
+##### English translation (H. H. Wilson)
+Come hither, sons of strength, sons of Sudhanwaṇ ; Ribhus, keep not away; may the exhilarating juices proceed to you at this sacrifice, after the munificicent Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग॑न्नृभू॒णामि॒ह र॑त्न॒धेय॒मभू॒त्सोम॑स्य॒ सुषु॑तस्य प्री॒तिः ।  
+> सु॒कृ॒त्यया॒ यत्स्व॑प॒स्यया॑ च॒ एकं॑ विच॒क्र च॑म॒सं च॑तु॒र्धा
+
+> *āgannṛbhūṇāmiha ratnadheyamabhūtsomasya suṣutasya prītiḥ |*  
+> *sukṛtyayā yatsvapasyayā ca ekaṃ vicakra camasaṃ caturdhā*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अगन् । ऋभूणां । इह । रत्नधेयं । अभूत् । सोमस्य । सुसुतस्य ।  
+> पीतिः ।  
+> सुकृत्यया । यत् । सुअपस्यया । च । एकं । विचक्र । चमसं । चतुःधा ॥२॥
+
+> *ā | agan | ṛbhūṇāṃ | iha | ratnadheyaṃ | abhūt | somasya | susutasya |*  
+> *pītiḥ |*  
+> *sukṛtyayā | yat | suapasyayā | ca | ekaṃ | vicakra | camasaṃ | catuḥdhā ‖2‖*
+
+### Printed p. 333
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभूणां युष्माकमिह तृतीयसवने रत्नधेयं रत्नदानमागन् । आगच्छतु
+> मह्यं । यद्वा । युष्माकमेव सोमाख्यं रत्नमागन् । यस्मात्सोमस्य सुषुतस्य
+> पीतिः पानमभूत् । प्रजापतिना लब्धमित्यर्थः । तदपि कुत इति चेत् । उच्यते ।
+> यद्यस्मात्सुकृत्यया शोभनहस्तव्यापारेण स्वपस्यया शोभनरथनिर्माणादिकर्मेच्छया चैकं संतं चमसं चतुर्धा विचक्र । कृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that here, at the third savana, the gift of treasure, रत्नधेयं (*ratnadheyaṃ*), of you Ṛbhus has come; let it come to me. Alternatively, your own treasure, called Soma, has come, because the drinking of the well-pressed Soma took place; that is, it was obtained by Prajāpati. If one asks why that is so, he answers: because by good handiwork and by the desire for work such as building fine chariots, you made the one ladle (चमसं (*camasaṃ*)) fourfold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यभवः (*yabhavaḥ*)—(O Ṛbhus)
+- यत् (*yat*)—by which power
+- सुकृत्यया (*sukṛtyayā*)—by excellent skill in action
+- स्वपस्यया च (*svapasyayā ca*)—and also by auspicious works
+- एकं संतं (*ekaṃ saṃtaṃ*)—that which was only one
+- चमसं (*camasaṃ*)—the chamasa vessel
+- चतुर्धा (*caturdhā*)—into four parts
+- विचक्र (*vicakra*)—you made
+- सुषुतस्य (*suṣutasya*)—well pressed
+- सोमस्य (*somasya*)—of the Soma juice
+- प्रीतिः (*prītiḥ*)—the drinking
+- अभूत् (*abhūt*)—was made for you (by Prajāpati; by that greatness itself)
+- ऋभूणां (*ṛbhūṇāṃ*)—intended for you, who are famed by the name Ṛbhu
+- इह (*iha*)—in this third savana
+- रत्नधेयं (*ratnadheyaṃ*)—the gift of delightful wealth
+- आ गन् (*ā gan*)—let it come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, by your power, by excellent skill in action, and by auspicious works you made the chamasa vessel, which was one, into four parts. By that same greatness the drinking of the well-pressed Soma juice was given by Prajāpati. Because of that greatness, in this third savana intended for you, who are famed by the name Ṛbhu, let the gift of delightful wealth come to us.
+
+##### English translation (H. H. Wilson)
+May the munificence of the Ribhus come to me on this occasion, (since) there has been the drinking of the effused Soma, in consequence of one ladle having been made fourfold by their dexterous and excellent work.
+
 ---
 
-**Progress note:** Done through printed p. 327. pp. 322-327 (batch API)
+**Progress note:** Done through printed p. 333. pp. 328-333 (batch API)
