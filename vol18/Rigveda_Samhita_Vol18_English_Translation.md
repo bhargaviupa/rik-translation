@@ -7355,6 +7355,270 @@ lord, glorified by hymns, whose wealth is truth.
 > *svaśvo yo abhīrurmanyamānaḥ suṣvāṇebhirmadati saṃ ha*  
 > *vīraiḥ ‖ 2 ‖*
 
+### Printed p. 211
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हि । स्म । याति । नर्यः । चिकित्वान् । हूयमानः । सोतृभिः । उप । यज्ञं ।  
+> सुअश्वः । यः । अभीरुः । मन्यमानः । सुस्वानेभिः । मदति । सं । ह । वीरैः ॥ २ ॥
+
+> *ā | hi | sma | yāti | naryaḥ | cikitvān | hūyamānaḥ | sotṛbhiḥ | upa | yajñaṃ |*  
+> *suaśvaḥ | yaḥ | abhīruḥ | manyamānaḥ | susvānebhiḥ | madati | saṃ | ha | vīraiḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नर्यो नृभ्यो हितश्चिकित्वान् सर्वं जानन् सोतृभिः सोममभिषुण्वद्भिर्ऋत्विग्भिर्हूयमान आहूयमान इंद्रोऽस्मदीयं यज्ञमुप प्रति आ याति ।
+> आगच्छतु । हि स्मेति पूर्णौ । स्वश्वः शोभनाश्वोपेतोऽभीरुर्निर्भयशीलः सुस्वानेभिः
+> सुन्वद्भिर्यजमानैर्मन्यमानः स्सूयमानो य इंद्रो वीरैः शूरैर्मरुद्भिः
+> सह सं मदति ह सह माद्यत्येव । स इंद्र आगच्छत्विति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra is नर्यः (*naryaḥ*), beneficial to men, and चिकित्वान् (*cikitvān*), knowing everything. Invoked by the Ṛtvijs who press Soma, he comes to our sacrifice; "let him come". हि (*hi*) and स्म (*sma*) are expletives. स्वश्वः (*svaśvaḥ*) means possessed of fine horses, and अभीरुः (*abhīruḥ*) fearless by nature. Indra is praised by the sacrificers who press the Soma (सुस्वानेभिः (*susvānebhiḥ*)), and he rejoices together with the heroes, the brave Maruts. That Indra is to come; the connection is with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वश्वः (*svaśvaḥ*)—one possessed of excellent horses
+- अभीरुः (*abhīruḥ*)—fearless
+- सुस्वानेभिः (*susvānebhiḥ*)—by those who press the excellent Soma
+- मन्यमानः (*manyamānaḥ*)—one who is praised
+- नर्यः (*naryaḥ*)—beneficial to men
+- चिकित्वान् (*cikitvān*)—omniscient, and
+- यः (*yaḥ*)—who
+- वीरैः (*vīraiḥ*)—with the heroic Maruts
+- सं मदति ह (*saṃ madati ha*)—is joyful (such is that) Indra
+- सोतृभिः (*sotṛbhiḥ*)—by the Ṛtvijs who press Soma
+- हूयमानः (*hūyamānaḥ*)—being prayed to and called
+- यज्ञं उप (*yajñaṃ upa*)—facing our sacrifice
+- आ याति (*ā yāti*)—may he graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra—who is possessed of excellent horses, fearless, praised by those who press the excellent Soma, beneficial to men, omniscient, and joyful with the heroic Maruts—being prayed to by the Ṛtvijs who press Soma, graciously come facing our sacrifice.
+
+##### English translation (H. H. Wilson)
+May Indra, the friend of man, the omniscient, come to the sacrifice when invoked by the offerers of libations; he who is possessed of good horses, who is fearless, honoured by the effusers of libations, who rejoices with the heroes (the Maruts).
+
+### Printed p. 212
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रा॒वयेद॑स्य॒ कर्णा॑ वाज॒यध्यै॒ जुष्टा॒मनु॒ प्र दिशं॑ मंद॒यध्यै॑ ॥  
+> उ॒द्वा॒वृ॒षा॒णो राध॑से॒ तुवि॑ष्मा॒न्कर॑न्न॒ इंद्रः॑ सुती॒र्थाभ॑यं  
+> च ॥ ३ ॥
+
+> *śrāvayedasya karṇā vājayadhyai juṣṭāmanu pra diśaṃ maṃdayadhyai ‖*  
+> *udvāvṛṣāṇo rādhase tuviṣmānkaranna iṃdraḥ sutīrthābhayaṃ*  
+> *ca ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रवय । इत् । अस्य । कर्णा । वाजयध्यै । जुष्टां । अनु । प्र । दिशं । मंदयध्यै ।  
+> उत्स्‌ववृषाणः । राधसे । तुविष्मान् । करत् । नः । इंद्रः । सुतीर्था । अभयं ।  
+> च ॥ ३ ॥
+
+> *śravaya | it | asya | karṇā | vājayadhyai | juṣṭāṃ | anu | pra | diśaṃ | maṃdayadhyai |*  
+> *utsvavṛṣāṇaḥ | rādhase | tuviṣmān | karat | naḥ | iṃdraḥ | sutīrthā | abhayaṃ |*  
+> *ca ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतस्त्वमस्येंद्रस्य संबंधिनौ कर्णा कर्णौ वाजयध्या इंद्रं बलिनं
+> कर्तुं जुष्टामनु दिशं सेवितासु सर्वासु दिक्षु प्र मंदयध्यै प्रकर्षेणेंद्रं
+> मादयितुं च श्रवय । स्तोत्राणि श्रावय । इदिति पूरणः । उद्ववृषाणः
+> सोमेनोत्सिच्यमानस्तुविष्मान्बलवानिंद्रो नोऽस्माकं राधसे धनार्थं सुतीर्था
+> शोभनानि तीर्थान्यभयं च भयराहित्यं च करत् । करोतु ॥
+
+##### Gist of the bhāṣya
+
+O praiser, make the two ears of this Indra hear—to make Indra strong (वाजयध्यै (*vājayadhyai*)), and to gladden Indra greatly (प्र मंदयध्यै (*pra maṃdayadhyai*)) in all the quarters that are frequented (जुष्टामनु दिशं (*juṣṭāmanu diśaṃ*)). "Make him hear the hymns"; इत् (*it*) is an expletive. Indra, sprinkled with Soma (उद्ववृषाणः (*udvavṛṣāṇaḥ*)) and mighty (तुविष्मान् (*tuviṣmān*)), for our wealth (राधसे (*rādhase*)) will make good fords (सुतीर्था (*sutīrthā*)) and freedom from fear; "let him make".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser)
+- अस्य (*asya*)—of this Indra
+- कर्णा (*karṇā*)—the ears
+- वाजयध्यॆ (*vājayadhyè*)—for making (them) powerful (to listen to the praise)
+- जुष्टां अनु दिशं (*juṣṭāṃ anu diśaṃ*)—in all the quarters that serve him
+- प्र मंदयध्यॆ (*pra maṃdayadhyè*)—for gladdening fully
+- श्रवय (*śravaya*)—praise him and make him hear your praise
+- उदृवृषाणः (*udṛvṛṣāṇaḥ*)—one drenched with Soma
+- तुविष्मान् (*tuviṣmān*)—the powerful
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुतीर्था (*sutīrthā*)—sacred places
+- नः (*naḥ*)—to us
+- राधसे (*rādhase*)—so as to bestow wealth
+- अभयं च (*abhayaṃ ca*)—and so as to be free from fear
+- करत् (*karat*)—may he make
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise Indra so as to make his ears powerful to listen, and so as to gladden him fully in all the quarters that serve him, and make him hear your praise. May Indra, drenched with Soma and powerful, make the sacred places bestowers of wealth for us and free from fear.
+
+### Printed p. 213
+
+##### English translation (H. H. Wilson)
+Let (his worshipper) cause his ears to listen so as to invigorate him (by praise), and to give him pleasure in every acceptable place; and being well moistened with the Soma juice, may the vigorous Indra render the holy places (conducive) to our wealth, and free from danger.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒ यो गंता॒ नाध॑मानमू॒ती इ॒त्था विप्रं॒ हव॑मानं  ॒॑
+> गृणंतं ।  
+> उप॒ त्मनि॒ दधा॑नो धु॒र्या॒३॒॑३शून्त्स॒हस्रा॑णि श॒तानि॒ वज्र॑बाहुः॥
+
+> *acchā yo gaṃtā nādhamānamūtī itthā vipraṃ havamānaṃ*  
+> *gṛṇaṃtaṃ |*  
+> *upa tmani dadhāno dhuryā3śūntsahasrāṇi śatāni vajrabāhuḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । यः । गंता । नाधमानं । ऊती । इत्था । विप्रं । हवमानं । गृणंतं ।  
+> उप । त्मनि । दधानः । धुरि । आशून् । सहस्राणि । शतानि । वज्रबाहुः ॥ ४ ॥
+
+> *accha | yaḥ | gaṃtā | nādhamānaṃ | ūtī | itthā | vipraṃ | havamānaṃ | gṛṇaṃtaṃ |*  
+> *upa | tmani | dadhānaḥ | dhuri | āśūn | sahasrāṇi | śatāni | vajrabāhuḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वज्रबाहुर्वज्रहस्तो य इंद्रस्मन्यात्मनि स्थितानात्मवश्यान् सहस्राणि
+> सहस्रसंख्याकान् शतानि शतसंख्याकानाशून् शीघ्रगामिनोऽश्वानुरि रथवहनप्रदेश
+> उप दधानः संस्थापयन्नूती रक्षणार्थं नाधमानं याचमानं विप्रं मेधाविनं
+> हवमानमाह्वयंतमित्थेष्ठमनेन प्रकारेण गृणंतं स्तुवंतं यजमानमच्छाभिमुख्येन गंता गमनशीलः । भवतीति शेषः । स इंद्रः सुतीर्थान्यभयं च करोत्विति
+> पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra, वज्रबाहुः (*vajrabāhuḥ*) (thunderbolt in hand), placing (उप दधानः (*upa dadhānaḥ*)) in the yoke-place of the chariot, where it is drawn, thousands and hundreds of swift horses that stand under his own control in himself (त्मनि (*tmani*))**NOTE**, comes (गंता (*gaṃtā*), "is disposed to go"; "he is" is to be supplied) facing the sacrificer who seeks protection (ऊती (*ūtī*)), begging (नाधमानं (*nādhamānaṃ*)), wise (विप्रं (*vipraṃ*)), calling (हवमानं (*havamānaṃ*)) and praising (गृणंतं (*gṛṇaṃtaṃ*)) in this manner (इत्था (*itthā*)). That Indra is to make the good fords and fearlessness; the connection is with the preceding verse.
+
+### Printed p. 214
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रबाहुः (*vajrabāhuḥ*)—who holds the thunderbolt weapon in his hand
+- यः (*yaḥ*)—which Indra
+- त्मनि (*tmani*)—those that are under his own control (or, self-impelled)
+- सहस्राणि (*sahasrāṇi*)—numbering thousands
+- शतानि (*śatāni*)—numbering hundreds
+- आशून् (*āśūn*)—swift-going horses
+- धुरि (*dhuri*)—in front of the chariot
+- उप दधानः (*upa dadhānaḥ*)—joining
+- ऊती (*ūtī*)—for protection
+- नाधमानं (*nādhamānaṃ*)—one who is praying
+- विप्रं (*vipraṃ*)—the wise
+- हवमानं (*havamānaṃ*)—one calling for help
+- इत्था (*itthā*)—with description of Indra's qualities
+- गृणंतं अच्छ (*gṛṇaṃtaṃ accha*)—who goes forth facing the sacrificer who praises (may that Indra be the maker of fearlessness)
+
+##### भावार्थ (Bhāvārtha)
+
+The thunderbolt-bearing Indra who joins in front of the chariot thousands and hundreds of swift horses that are under his own control, and who goes forth facing the sacrificer—one praying for protection, wise, calling for help, and praising Indra's various qualities—may that same Indra make fearlessness.
+
+##### English translation (H. H. Wilson)
+(That Indra), who repaires to the suppliant for (his) protection, to the sage in this manner invoking and praising him ; he who, armed with the thuderbolt, places, of his own accord, hundred and thousands of swift-going (horses) in the shafts (of their cars).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तोता॑सो मघवन्निंद्र॒ विप्रा॑ व॒यं ते॑ स्याम सू॒रयो॑  ॒॑
+> गृणंतः ।  
+> भे॒जा॒नासो॑ बृ॒हद्दि॑वस्य रा॒य आ॑का॒य्य॑स्य दा॒वने॑ पुरु॒क्षोः॥
+
+> *totāso maghavanniṃdra viprā vayaṃ te syāma sūrayo*  
+> *gṛṇaṃtaḥ |*  
+> *bhejānāso bṛhaddivasya rāya ākāyyasya dāvane purukṣoḥ‖*
+
+### Printed p. 215
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाऊतासः । मघवन् । इंद्र । विप्राः । वयं । ते । स्याम । सूरयः । गृणंतः ।  
+> भेजानासः । बृहत्स्‌दिवस्य । रायः । आकाय्यस्य । दावने । पुरुक्षोः ॥ ५ ॥
+
+> *tvāūtāsaḥ | maghavan | iṃdra | viprāḥ | vayaṃ | te | syāma | sūrayaḥ | gṛṇaṃtaḥ |*  
+> *bhejānāsaḥ | bṛhatsdivasya | rāyaḥ | ākāyyasya | dāvane | purukṣoḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्छनवन्निंद्र त्वोतासस्त्वया रक्षिता विप्रा मेधाविनो गृणंतस्तां
+> स्तुवंतः सूरयः स्तोतारो वयं बृहद्दिवस्य महद्दीप्तेराकाय्यस्य आ समंतात्सुत्यस्य पुरुक्षोर्बह्वन्नस्य बहुकीर्तीर्वा ते त्वदीयस्य रायो धनस्य दावने
+> दाने निमित्ते सति भेजानासस्त्वां भजमानाः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan Indra, we are त्वोतासः (*tvotāsaḥ*), protected by you, विप्राः (*viprāḥ*) the wise, praising you, सूरयः (*sūrayaḥ*) the praisers. For the giving (दावने (*dāvane*)) of your wealth (रायः (*rāyaḥ*))—the wealth of one who shines greatly (बृहद्दिवस्य (*bṛhaddivasya*), "of great lustre"), is praised on every side (आकाय्यस्य (*ākāyyasya*)), and has abundant food (पुरुक्षोः (*purukṣoḥ*)) or abundant fame—may we be भेजानासः (*bhejānāsaḥ*), worshipping you. "May we be."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- इंद्र (*iṃdra*)—Indra
+- त्वोतासः (*tvotāsaḥ*)—those protected by you
+- विप्राः (*viprāḥ*)—the wise
+- गृणंतः (*gṛṇaṃtaḥ*)—those who praise you
+- सूरयः (*sūrayaḥ*)—the praisers
+- वयं (*vayaṃ*)—we
+- बृहद्दिवस्य (*bṛhaddivasya*)—of one who shines exceedingly
+- आकाय्यस्य (*ākāyyasya*)—of one who is praised everywhere
+- पुरुक्षोः (*purukṣoḥ*)—of one who has abundant food
+- ते (*te*)—your
+- रायः (*rāyaḥ*)—of wealth
+- दावने (*dāvane*)—to receive the gift
+- भेजानासः (*bhejānāsaḥ*)—as those who praise you
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, graciously grant that we—protected by you, wise, praising you, praisers—may keep praising you in order to receive the gift of your wealth, you who shine exceedingly, are praised everywhere, and have abundant food.
+
+##### English translation (H. H. Wilson)
+Opulent Indra, may we, who are protected by you, who are intelligent, devout, and offerers of praise, be participant with you for the sake of distributing brilliant wealth, and abundant food, entitled to (our) commendation.
+
+### Printed p. 216
+
+## Sūkta 30 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नकिरिंद्रेति चतुर्विंशत्यृचं नवमं सूक्तं वामदेवस्यार्षं गायत्रं ।
+> अष्टमी चतुर्विंशी च द्वे अनुष्टुभौ । इंद्रो देवता । दिवश्चिद्येत्ययं तृच
+> उषोदेवताक इंद्रदेवताकश्च । तथा चानुक्रांतं । नकिश्चतुर्विंशतिर्दिवश्चित्तृच
+> उषस्यश्च गायत्रं ह्यष्टम्यंत्ये चानुष्टुभाविति ॥ अतिरात्रे तृतीये पर्याये
+> मैत्रावरुणशस्त्र उत्तमावर्जमिदं सूक्तं तथा च सूत्रितं । नकिरिंद्र त्वमुत्तर
+> इत्युत्तमामुद्धरेत् । आ. ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, "नकिरिंद्र (*nakiriṃdra*)", of twenty-four Ṛks, has Vāmadeva as seer and Gāyatra metre; the eighth and the twenty-fourth are two Anuṣṭubhs. Indra is the deity; the triplet beginning दिवश्चिद्य (*divaścidya*) has Uṣas and Indra as deities. So the Anukramaṇī says: नकिश्चतुर्विंशतिर्दिवश्चित्तृच उषस्यश्च गायत्रं ह्यष्टम्यंत्ये चानुष्टुभाविति ॥ (*nakiścaturviṃśatirdivaścittṛca uṣasyaśca gāyatraṃ hyaṣṭamyaṃtye cānuṣṭubhāviti ‖*). In the Atirātra, in the third paryāya, in the Maitrāvaruṇa-śastra, this sūkta is used except for its last Ṛk. So it is laid down in the sūtra नकिरिंद्र त्वमुत्तर इत्युत्तमामुद्धरेत् (*nakiriṃdra tvamuttara ityuttamāmuddharet*) (Ā. 6-4), "let him leave out the last".
+
+##### Anuvāda
+
+This sūkta beginning "nakir indra" is the ninth sūkta in the third anuvāka. It has twenty-four Ṛks. Vāmadeva is its seer; the metre is Gāyatrī, but the eighth and twenty-fourth Ṛks are in Anuṣṭup metre. Indra is the deity; the triplet beginning "divaś cid" (Ṛks 9–11 of this sūkta) has Uṣas and Indra as deities. The Anukramaṇī says this, as quoted above. For reciting the Maitrāvaruṇa-śastra mantras in the third paryāya of the sacrifice called Atirātra, the Ṛks of this sūkta except the last are employed, as explained by the Āśvalāyana Śrautasūtra, "nakir indra tvad uttara ity uttamām uddharet" (Ā. 6-4).
+
+##### Particulars
+
+- Sūkta 30
+- Maṇḍala 4; Anuvāka 3; Sūkta 30
+- Aṣṭaka 3; Adhyāya 6; Vargas 19, 20, 21, 22, 23
+- Number of Ṛks in the sūkta: 24
+- Ṛṣi: Vāmadeva
+- Devatā: 1–8, 12–24 Indra; 9–11 Indra and Uṣas
+- Chandas: 1–7, 9–23 Gāyatrī; 8, 24 Anuṣṭup
+- Sāhitimāhātmya
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकि॑रिंद्र॒ त्वदुत्त॑रो॒ न ज्याया॑ अस्ति वृत्रहन् ।  
+> नकि॑रे॒वा यथा॒ त्वं ॥ १ ॥
+
+> *nakiriṃdra tvaduttaro na jyāyā asti vṛtrahan |*  
+> *nakirevā yathā tvaṃ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 210. pp. 204-210 (batch API)
+**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
