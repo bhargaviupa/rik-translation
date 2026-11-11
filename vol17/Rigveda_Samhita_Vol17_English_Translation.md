@@ -33852,6 +33852,296 @@ Vāmadeva (ironically, addressing Indra): "O Indra, did not your young mother (A
 > *nāhamato nirayā durgahaitattiraścatā pārśvānnirgamāṇi |*  
 > *bahūni me akṛtā kartvāni yudhyai tvena saṃ tvena pṛcchai ‖2‖*
 
+### Printed p. 992
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । अतः । निः । अय । दुःगहा । एतत् । तिरश्चता । पार्श्वात् । निः । गमानि ।  
+> बहूनि । मे । अकृता । कर्त्वानि । युध्यै । त्वेन । सं । त्वेन । पृच्छै ॥ २ ॥
+
+> *na | ahaṃ | ataḥ | niḥ | aya | duḥgahā | etat | tiraścatā | pārśvāt | niḥ | gamāni |*  
+> *bahūni | me | akṛtā | kartvāni | yudhyai | tvena | saṃ | tvena | pṛcchai ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वामदेव एवमुक्तवंतमिंद्रं प्रत्याह । अहमतो योनिमार्गान्न निरया।
+> न निरयाणि । न निर्गच्छानि । एतद्योनिनिगमरूपं वर्त्म दुर्गहा । दुर्ग्रहं ।
+> दुःखेन ग्राह्यं । न प्राप्यं भवतीत्यर्थः । किंतु तिरश्चता तिरश्चीनात्पार्श्वान्निर्गमानि ।
+> निर्गच्छानि । योनिदेशादनिर्गतोऽहं पार्श्वं भित्त्वा निर्गच्छानीत्यर्थः । अन्न्यैरकृतमिदमेव न केवलं मया क्रियते किंत्वनैरकृतानि बहूनि कर्माणि मे
+> कर्त्वानि कर्तव्यानि संति । त्वेनैकेन सपत्नेन विवदमानेन सह युध्यॆ । युद्धं
+> करवाणि । त्वेनैकेन बुभुत्तुना सं पृच्छै । सम्यक् पृच्छानि ॥
+
+##### Gist of the bhāṣya
+
+Vāmadeva replies to Indra, who has spoken in this way. "From this path of the womb I shall not go out (निरया (*nirayā*) means I shall not go out, I shall not depart). This path of leaving the womb is दुर्गहा (*durgahā*): hard to grasp, hard to take hold of, that is, not to be attained. Rather I shall go out from the slanting side." He means that he will not leave through the place of birth but will split the side and come out. "Not only this is done by me, which others have not done: many deeds are to be done by me which others have not done. I shall fight with one rival who disputes with me. I shall question thoroughly (सं पृच्छै (*saṃ pṛcchai*), 'may I question well') with one who wishes to know (बुभुत्तुना (*bubhuttunā*))." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- अतः (*ataḥ*)—from this path in the form of the womb
+- न निरया (*na nirayā*)—I shall not come out
+- एतत् (*etat*)—this path
+- दुर्गहा (*durgahā*)—is exceedingly painful
+- तिरश्चता (*tiraścatā*)—slanting
+- पार्श्वत् (*pārśvat*)—by the side path
+- निर्गमानि (*nirgamāni*)—I shall come out
+- अकृत (*akṛta*)—not done by others
+- बहूनि (*bahūni*)—many deeds
+- कर्त्वानि (*kartvāni*)—are to be done by me
+- तैन (*taina*)—with a single enemy
+- युध्यॆ (*yudhyè*)—I can fight
+- तैन (*taina*)—with a single opponent
+- संप्रच्छै (*saṃpracchai*)—I can debate
+
+##### भावार्थ (Bhāvārtha)
+
+The words of the sage Vāmadeva, who is in the womb: "I shall not come out by this path in the form of the womb. This path is exceedingly painful. I shall come out by the slanting side path. Many deeds not done by others are to be done by me. I can fight with a single enemy. I can debate with a single opponent."
+
+##### English translation (H. H. Wilson)
+Vamadeva speaks—Let me not come forth by this path, for it is difficult (of issue): let me come forth obliquely from the side : many acts unperformed by others are to be accomplished by me : let me contend (in war) with one (enemy), in controversy with one opponent.
+
+### Printed p. 993
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रा॒य॒तीं मा॒तर॒मन्व॑ चष्ट॒ न नानु॑ गा॒न्यनु॒ नू ग॑मानि ।  
+> त्वष्टु॑गृ॒हे अ॑पिब॒त्तोम॒मिंद्रः॑ शतध॒न्यं॑ च॒न्वोः॑ सु॒तस्य॑ ॥३॥
+
+> *parāyatīṃ mātaramanva caṣṭa na nānu gānyanu nū gamāni |*  
+> *tvaṣṭugṛhe apibattomamiṃdraḥ śatadhanyaṃ canvoḥ sutasya ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परायतीं । मातरं । अनु । अचष्ट । न । न । अनु । गानि । अनु । नु । गमानि ।  
+> त्वष्टुः । गृहे । अपिबत् । सोमं । इंद्रः । शतधन्यं । चव्वोः । सुतस्य ॥ ३ ॥
+
+> *parāyatīṃ | mātaraṃ | anu | acaṣṭa | na | na | anu | gāni | anu | nu | gamāni |*  
+> *tvaṣṭuḥ | gṛhe | apibat | somaṃ | iṃdraḥ | śatadhanyaṃ | cavvoḥ | sutasya ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मयि गर्भस्थिते सतींद्रो मदीयां मातरं परायतीं परेतां म्रियमाणामन्वचष्ट । अन्वब्रवीत् । एवमपीदानीं गर्भे स्थितोऽहं पुराणं पंथानं
+> न नानु गानि । नानुगच्छानीति न । किंतु नु क्षिप्रमनु गमानि । अनुगच्छान्येव ।
+> वामदेवः स्वकीयमकृत्यकारित्वं परिहृत्येंद्रस्याकृत्यकारित्वमुत्तरार्धर्चेन प्रतिपादयति । इंद्रश्चन्वोः सोमाभिषवफलकयोः सुतस्य सोमं सुतवतोऽभिसुतवतस्त्वष्टुः संबंधिनि गृहेऽनुपहूतः सन् शतधन्यं बहुधनेन क्रीतं सोममपिबत् । बलात्कारेण सोमस्य पानं कृतवान् । अयमर्थस्तृत्तरीयैस्त्वष्टा हतपुत्रो वींद्रं सोममाहरदित्यनुवाके । तै. सं. २-४-१२ । महता प्रबंधेन
+> प्रपंचितः ॥
+
+##### Gist of the bhāṣya
+
+While I am in the womb, Indra spoke to my mother, who was departing (परायतीं (*parāyatīṃ*)), that is, dying. Even now, though I am in the womb, he says I shall not follow the old path: न नानु गानि (*na nānu gāni*), meaning "I would not follow", and yet नु (*nu*), quickly, अनु गमानि (*anu gamāni*), "I shall indeed follow". **NOTE**
+Setting aside his own improper acting, Vāmadeva shows Indra's improper acting in the latter half of the verse. In the house of Tvaṣṭṛ, who had pressed Soma at the two pressing-boards (चन्वोः (*canvoḥ*)), Indra, uninvited, drank the Soma bought with much wealth (शतधन्यं (*śatadhanyaṃ*)). He drank the Soma by force. This matter is set out at length in the anuvāka beginning त्वष्टा हतपुत्रो वींद्रं सोममाहरदित्यनुवाके (*tvaṣṭā hataputro vīṃdraṃ somamāharadityanuvāke*) (Tai. Saṃ. 2-4-12).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरं (*mātaraṃ*)—my mother
+- परायतीं (*parāyatīṃ*)—that she is about to die
+- अन्वचष्ट (*anvacaṣṭa*)—(Indra) has said
+- न नानु गानि (*na nānu gāni*)—I shall not follow the ancient path (but)
+- नु (*nu*)—very soon
+- अनु गमानि (*anu gamāni*)—I shall come out just as I wish
+- इंद्रः (*iṃdraḥ*)—Indra
+- चन्वोs (*canvos*)—in the Soma vessels
+- सुतस्य (*sutasya*)—which had been pressed
+- शतधन्वं (*śatadhanvaṃ*)—bought with much wealth
+- सोमं (*somaṃ*)—the Soma
+- त्वष्टुः (*tvaṣṭuḥ*)—of Tvaṣṭṛ
+- गृहे (*gṛhe*)—in the house
+- अपिबत् (*apibat*)—(went there uninvited and) drank
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has told me that if I do not follow the ancient path, in the form of the womb, for coming out of the womb, my mother will die. But I shall not follow that path
+
+### Printed p. 994
+
+but shall come out quickly, just as I wish. In the house of Tvaṣṭṛ, Indra went uninvited and drank by force the Soma that had been pressed in the Soma vessels and bought with much wealth. (That too was an improper act.)
+
+##### English translation (H. H. Wilson)
+He, (Indra), has asserted that it will) cause the death of my mother : let me not proceed by the usual way, but proceed quickly, according (to my will): in the dwelling of Twashtri, Indra drank the costly Soma from the vessels of the offerers.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have already described at length earlier how Indra forcibly drank Soma in the house of Tvaṣṭṛ.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं स ऋध॑क्कृणव॒द्यं स॒हस्रं॑ मा॒सो ज॒भार॑ श॒रद॑श्च पू॒र्वीः ।  
+> न॒ ही न्व॑स्य प्रति॒मान॒मस्त्यं॒तर्जा॒तेषू॒त ये जिनि॑त्वाः ॥ ४ ॥
+
+> *kiṃ sa ṛdhakkṛṇavadyaṃ sahasraṃ māso jabhāra śaradaśca pūrvīḥ |*  
+> *na hī nvasya pratimānamastyaṃtarjāteṣūta ye jinitvāḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । सः । ऋधक् । कृणवत् । यं । सहस्रं । मासः । जभार । शरदः । च । पूर्वीः ।  
+> नहि । नु । अस्य । प्रतिमानं । अस्ति । अंतः । जातेषु । उत । ये । जिनित्वाः ॥ ४ ॥
+
+> *kiṃ | saḥ | ṛdhak | kṛṇavat | yaṃ | sahasraṃ | māsaḥ | jabhāra | śaradaḥ | ca | pūrvīḥ |*  
+> *nahi | nu | asya | pratimānaṃ | asti | aṃtaḥ | jāteṣu | uta | ye | jinitvāḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितिर्यमिंद्रं सहस्रं बहून्मासो मासान्नूर्विर्बह्वीः शरदश्च संवत्सरांश्च जभार । बभार ॥ बिभर्तेरिदं रूपं ॥ गर्भे स्थित इंद्रो बहुषु संवत्सरेष्पदितिं क्लेशितवानित्यर्थः । एवंभूतः स इंद्रः किं यत्किमपि । सर्वमपीत्यर्थः ।
+> ऋधक् विरुद्धं कर्म कृणवत् । अकरोत् । इंद्रस्याक्षेपमसहमानादितिरिंद्रमाताप्येनं प्रति ब्रूते । हे वामदेव जातेषूत्पन्नेषु देवादिष्टंतर्मध्यॆ:-
+
+##### Gist of the bhāṣya
+
+Aditi bore Indra for a thousand (that is, many) months (मासः (*māsaḥ*)) and many autumns, that is, years: जभार (*jabhāra*) is the same as बभार (*babhāra*), a form of the root bhṛ. The meaning is that Indra, while in the womb, distressed Aditi for many years. Such an Indra, whatever (किं (*kiṃ*), meaning everything) ऋधक् (*ṛdhak*), contrary action he did, कृणवत् (*kṛṇavat*), he performed. Aditi, Indra's mother, cannot bear the reproach against Indra and answers Vāmadeva: "O Vāmadeva, among those who are born, gods and others, within them (the bhāṣya continues on the next page)
+
+### Printed p. 995
+
+#### Ṛk 5
+
+> स्येंद्रस्य प्रतिमानं न ह्यस्ति । न विद्यते खलु । नु इति पादपूरणार्थः । उतापि च
+> ये देवादयो जनित्वा जनयितव्या जनयिष्यमाणास्तेषु मध्येऽसेंद्रस्य प्रतिमानं नास्ति ॥
+
+##### Gist of the bhāṣya
+
+there is indeed no match for Indra. नु (*nu*) is a mere metrical filler. And among those, gods and others, who are to be born or will be born, there is no match for Indra."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—whom (Indra) (Aditi)
+- सहस्रं मासः (*sahasraṃ māsaḥ*)—for thousands of months
+- पूर्विः शरदः (*pūrviḥ śaradaḥ*)—for many years
+- जुभार (*jubhāra*)—she bore in the womb
+- सः (*saḥ*)—that Indra
+- किं (*kiṃ*)—whatever act
+- कृणवत् (*kṛṇavat*)—he did
+- ऋधक् (*ṛdhak*)—that is wholly and altogether contrary to the world
+- जातेषु (*jāteṣu*)—(O Vāmadeva) among those who have been born
+- उत (*uta*)—and
+- ये (*ye*)—who
+- जनित्वाः (*janitvāḥ*)—will be born in future, among all such gods
+- अंतः (*aṃtaḥ*)—in the midst
+- अस्य (*asya*)—for this Indra
+- प्रतिमानं (*pratimānaṃ*)—a comparison (those equal to him)
+- नहि अस्ति (*nahi asti*)—there is none at all
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever deeds are done by Indra, whom his mother carried in the womb for thousands of months and many years, are all contrary to the world. Aditi's words: "O Vāmadeva, among all the gods who have been born and will be born, there is no one equal to Indra."
+
+##### English translation (H. H. Wilson)
+Aditi speaks.—What irregular act has he committed whom (I, his mother,) bore for a thousand months and for many years? there is no analogy between him and those who have been or will be born.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒व॒द्यमि॑व॒ मन्य॑माना॒ गुहा॑क॒रिंद्रं॑ मा॒ता वी॒र्ये॑णा॒  ॑
+> नृष्टं ।  
+> अथोद॑स्थात्त्व॒यमत्कं॒ वसा॑न॒ आ रोद॑सी अपृणा॒ज्जाय॑मानः॥
+
+> *avadyamiva manyamānā guhākariṃdraṃ mātā vīryeṇā*  
+> *nṛṣṭaṃ |*  
+> *athodasthāttvayamatkaṃ vasāna ā rodasī apṛṇājjāyamānaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दद्यं इव । मन्यमाना । गुहा । अकः । इंद्रं । माता । वीर्येण । निऋष्टं ।
+
+> *dadyaṃ iva | manyamānā | guhā | akaḥ | iṃdraṃ | mātā | vīryeṇa | niṛṣṭaṃ |*
+
+### Printed p. 996
+
+> अथ । उत् । अस्थात् । स्वयं । अत्यं । वसानः । आ । रोदसी इति । अपृणात् ।  
+> जायमानः ॥
+
+> *atha | ut | asthāt | svayaṃ | atyaṃ | vasānaḥ | ā | rodasī iti | apṛṇāt |*  
+> *jāyamānaḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गुहा गुहायां गह्वररूपे सूतिकागृहे जातमिंद्रमवद्यमिव गर्हमिव मन्यमाना जानती मातेंद्रजनन्यदितिर्वीर्येण सामर्थ्येन नृष्टं नितरां
+> प्राप्तमकः । अकरोत् । अथानंतरं जायमान उत्पद्यमान इंद्रः स्वयमेवात्कं
+> तेजो वसान आच्छादकः सन् । दधान इत्यर्थः । उदस्थात् । उत्कर्षेणातिष्ठत् ।
+> किंच रोदसी द्यानापृथिव्यावापृणात् । समंतात्पूरयामास ॥
+
+##### Gist of the bhāṣya
+
+Indra was born in the cave-like lying-in room (गुहा (*guhā*)). His mother Aditi, considering it blameworthy (अवद्यमिव (*avadyamiva*)), made him नृष्टं (*nṛṣṭaṃ*), that is, fully endowed, with strength (वीर्येण (*vīryeṇa*)). Thereafter, Indra, being born, rose up by himself, clothed in अत्कं (*atkaṃ*), that is, splendour, and covering himself with it. Further, he filled रोदसी (*rodasī*), heaven and earth, on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं (*iṃdraṃ*)—Indra
+- गुहा (*guhā*)—to give birth in the concealment of the lying-in room
+- अवद्यं इव (*avadyaṃ iva*)—(befitting his greatness) is not a praiseworthy act
+- मन्यमाना (*manyamānā*)—having thought
+- माता (*mātā*)—Aditi, Indra's mother
+- वीर्येण (*vīryeṇa*)—with extraordinary strength
+- नृष्टं (*nṛṣṭaṃ*)—as one endowed
+- अकः (*akaḥ*)—she made
+- अथ (*atha*)—afterwards
+- जायमानः (*jāyamānaḥ*)—Indra, who was born
+- स्वयं (*svayaṃ*)—his own
+- अत्कं (*atkaṃ*)—splendour
+- वसानः (*vasānaḥ*)—having put on
+- उदस्थात् (*udasthāt*)—rose up mightily
+- रोदसी (*rodasī*)—in both heaven and earth
+- आ अपृणात् (*ā apṛṇāt*)—pervaded completely
+
+##### भावार्थ (Bhāvārtha)
+
+Aditi, Indra's mother, considered that to give birth to Indra in the concealment of the lying-in room was not an act befitting his dignity, and made him endowed with extraordinary strength. Thereafter Indra, who was born, rose up clothed in his own splendour, and at once pervaded heaven and earth completely.
+
+##### English translation (H. H. Wilson)
+Deeming it disreputable (that he should be brought forth) in secret. his mother endowed (Indra) with (extraordinary) vigour : therefore, as soon as born he sprung up of his own accord, invested with splendour, and filled both heaven and earth.
+
+### Printed p. 997
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता अ॑र्षंत्यलला॒ भवं॑तीऋ॒ताव॑रीरिव सं॒क्रोश॑मानाः ।  
+> ए॒ता वि पृ॑च्छ॒ किमि॒दं भ॑नंति॒ कमापो॒ अद्रिं॑ परि॒धिं रु॑जंति ॥
+
+> *etā arṣaṃtyalalā bhavaṃtīṛtāvarīriva saṃkrośamānāḥ |*  
+> *etā vi pṛccha kimidaṃ bhanaṃti kamāpo adriṃ paridhiṃ rujaṃti ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एताः । अर्षंति । अललाभवंतीः । ऋतवरीःइव । संक्रोषमानाः ।  
+> एताः । वि । पृच्छ । किं । इदं । भनंति । कं । आपः । अद्रिं । परिधिं । रुजंति ॥ ६ ॥
+
+> *etāḥ | arṣaṃti | alalābhavaṃtīḥ | ṛtavarīḥiva | saṃkroṣamānāḥ |*  
+> *etāḥ | vi | pṛccha | kiṃ | idaṃ | bhanaṃti | kaṃ | āpaḥ | adriṃ | paridhiṃ | rujaṃti ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अललाभवंतीरललेत्येवंरूपं शब्दं कुर्वत्य ऋतावरीरिवोदकवत्य एवैता
+> नद्यः संक्रोशमाना इंद्रमहत्त्वप्रतिपादकोद्भूतेन हर्षण बहुविधं शब्दायमानाः सत्योऽर्षंति । गच्छंति । एवंभूता नद्य इदं किं भनंति शोत्रग्राह्यं
+> शब्दायमानं किं वदंतीमनुर्थं हे ऋषे त्वमेता नदीर्वि पृच्छ । विशेषेण
+> पृष्टवान् भव । एवं संपृच्छ । विचारिते सत्येतच्छब्दायमानमिंद्रमाहात्मस्यैव
+> वचनं भवतीत्यर्थः । किंच आप उदकानि परिधिमावरकं कमद्रिं कं मेघं रुजंति ।
+> भंजंति । आपः कमपि मेघं न भंजंति किंतु इंद्रो मम पुत्र एवोदकावरकं
+> मेघं भक्त्वापः प्रवर्तयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+अललाभवंतीः (*alalābhavaṃtīḥ*) means making a sound of the form "alala". Like ऋतावरीः (*ṛtāvarīḥ*), that is, full of water, these very rivers, संक्रोशमानाः (*saṃkrośamānāḥ*), resounding in many ways with the joy that has arisen from proclaiming Indra's greatness, flow (अर्षंति (*arṣaṃti*)). "What do these rivers say (भनंति (*bhanaṃti*)), what is this audible sound? O sage, question these rivers closely (वि पृच्छ (*vi pṛccha*))." The meaning is that, when asked, this sound proves to be a statement of Indra's greatness itself. Further, the waters break (रुजंति (*rujaṃti*)) which cloud (कमद्रिं कं मेघं (*kamadriṃ kaṃ meghaṃ*)), the encloser (परिधिं (*paridhiṃ*))? The waters do not break any cloud. Rather, my son Indra himself breaks the cloud that encloses the waters and sets the waters in motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अललाभवंतीः (*alalābhavaṃtīḥ*)—making the sound अलला (*alalā*) and the like
+- ऋतावरीः इव (*ṛtāvarīḥ iva*)—as if full of water
+- एताः (*etāḥ*)—these rivers
+- संक्रोशमानाः (*saṃkrośamānāḥ*)—accompanied by sounds of joy (proclaiming Indra's greatness)
+- अर्षंति (*arṣaṃti*)—flow
+- इदं किं भनंति (*idaṃ kiṃ bhanaṃti*)—(O sage) what is the meaning of this audible sound of theirs
+- एताः (*etāḥ*)—these rivers
+- वि पृच्छ (*vi pṛccha*)—ask, questioning
+- आपः (*āpaḥ*)—the waters
+- परिधिं (*paridhiṃ*)—the encloser
+- कं अद्रिं (*kaṃ adriṃ*)—which cloud
+- रुजंति (*rujaṃti*)—can they break?
+
+##### भावार्थ (Bhāvārtha)
+
+All these rivers flow, making sounds of joy such as "alala", as if proclaiming Indra's greatness. O sage, ask these rivers themselves what the meaning of this audible sound of theirs is. (Without Indra's help) which enclosing cloud could the waters break?
+
 ---
 
-**Progress note:** Done through printed p. 991. pp. 986-991 (batch API)
+**Progress note:** Done through printed p. 997. pp. 992-997 (batch API)
