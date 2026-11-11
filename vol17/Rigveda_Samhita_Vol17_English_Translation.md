@@ -20549,6 +20549,242 @@ Agni is the messenger of the gods, the होता (*hotā*) (the caller of the
 - रंसुजिह्वः (*raṃsujihvaḥ*)—one who has lovely flames
 - सः (*saḥ*)—the famed
 
+### Printed p. 682
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the messenger of the gods, who calls the gods to the sacrifice, who has a golden chariot, whose flames are lovely, the renowned one, desires all the sacrificial houses. As a house supplied with food is pleasing, so Agni, whose horses are golden-hued, who has an attractive form, who is resplendent, is always one who gives pleasure.
+
+##### English translation (H. H. Wilson)
+The messenger, the invoker (of the gods), riding in a golden chariot with a tongue of flame, he frequents all the chambers (of sacrifice); drawn by red horses, embodied, resplendent, always agreeable, as a dwelling well supplied with food.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स चे॑तय॒न्मनु॑षो य॒ज्ञबं॑धुः॒ प्र तं म॒ह्या र॑श॒नया॑  
+> नयंति ।  
+> स क्षे॑त्यस्य॒ दुर्या॑सु॒ साध॑न्दे॒वो मर्त॑स्य सधनि॒त्वमा॑प ॥ ९ ॥
+
+> *sa cetayanmanuṣo yajñabaṃdhuḥ pra taṃ mahyā raśanayā*  
+> *nayaṃti |*  
+> *sa kṣetyasya duryāsu sādhandevo martasya sadhanitvamāpa ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चेतयत् । मनुषः । यज्ञबंधुः । प्र । तम् । मह्या । रशनया । नयंति ।  
+> सः । क्षेति । अस्य । दुर्यासु । साधन् । देवः । मर्तस्य । सधनित्वं । आप ॥ ९ ॥
+
+> *saḥ | cetayat | manuṣaḥ | yajñabaṃdhuḥ | pra | tam | mahyā | raśanayā | nayaṃti |*  
+> *saḥ | kṣeti | asya | duryāsu | sādhan | devaḥ | martasya | sadhanitvaṃ | āpa ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञ बंधुः । यज्ञेऽग्निहोत्रादौ बंधनं विनियोचनं यस्य स तथोक्तः ।
+> कोऽग्निर्मनुषः कर्मणि प्रवृत्तान्मनुष्यान् चेतयत् । जानाति । मह्या महत्या
+
+##### Gist of the bhāṣya
+
+यज्ञ बंधुः (*yajña baṃdhuḥ*): one whose binding, that is, employment, is in the sacrifice, in the Agnihotra and the like. Agni "knows" (चेतयत् (*cetayat*)) the men engaged in rites. मह्या (*mahyā*) means "by the great" (cord)…
+
+### Printed p. 683
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रशनया स्तुतिरूपया रज्ज्ञा युक्तं तं तादृशमग्निं प्रणयंति । उत्तरवेद्यादिष्टध्वर्य्यादयः प्रक्षिपंति । मर्तस्य मनुष्यस्यास्य यजमानस्य दुर्यासु गृहेषु
+> साधन् अभीष्टानि साधयन् सोऽग्निः क्षेति । वसति । स देवो द्योतमानोऽग्निः
+> सधनित्वं यस्य गृहे निवसति तेन धनिना साहित्यमाप । प्राप्नोति । प्रभूतं धनं
+> यजमानाय दापयित्वा तेन सहितोऽभवदित्यर्थः ॥ साधन् । राध साध संसिद्धौ ।
+> ण्यंतस्य शतरि रूपं ॥
+
+##### Gist of the bhāṣya
+
+…रशनया (*raśanayā*): Agni, joined to such a cord, in the form of praise, is led forward; the Adhvaryu and others place him on the Uttaravedi and so on. In the houses (दुर्यासु (*duryāsu*)) of this mortal, the sacrificer, accomplishing his desires, Agni dwells. That shining god obtains सधनित्वं (*sadhanitvaṃ*), fellowship with the wealthy man in whose house he lives; the meaning is that he has a great wealth given to the sacrificer and becomes associated with it. Grammar of साधन् (*sādhan*) is given in the commentary.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञबंधुः (*yajñabaṃdhuḥ*)—kinsman of the sacrifice
+- सः (*saḥ*)—Agni
+- मनुषः (*manuṣaḥ*)—men engaged in rites
+- चेतयत् (*cetayat*)—knows
+- मह्या (*mahyā*)—great
+- रशनया (*raśanayā*)—with a cord that is of the nature of praise
+- तं (*taṃ*)—that Agni
+- प्र नयंति (*pra nayaṃti*)—the Adhvaryus establish
+- मर्तस्य (*martasya*)—of the mortal
+- अस्य (*asya*)—of this sacrificer
+- दुर्यासु (*duryāsu*)—in the houses
+- साधन् (*sādhan*)—accomplishing his desires
+- सः (*saḥ*)—Agni
+- क्षेति (*kṣeti*)—dwells
+- देवः (*devaḥ*)—the shining Agni
+- सधीनत्वं (*sadhīnatvaṃ*)—union with the wealthy sacrificer
+- आप (*āpa*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the kinsman of the sacrifice, comes to know the devotion of men engaged in the rite. The Adhvaryus establish that Agni, joined to the great cord that is of the nature of praise. In the houses of this mortal sacrificer Agni dwells, accomplishing his desires. The shining Agni, united with the wealthy sacrificer, accomplishes his welfare.
+
+##### English translation (H. H. Wilson)
+Associated with sacrifice, and knowing those men (who are engaged in good works), they lead him with the strong cord (of praise): he the divine Agni, fulfilling (all desires), abides in the dwelling of this mortal, and obtains fellowship in his wealth.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तू नो॑ अ॒ग्निर्न॑यतु प्रजा॒नन्नच्छा॒ रत्नं॑ दे॒वभ॑क्तं॒ यद॑स्य।  
+> धि॒या यद्विश्वे॑ अ॒मृता॒ अकृ॑ण्व॒न्दौ ष्टि॒ता ज॑नि॒ता स॒त्यमु॑क्सन् ॥
+
+> *sa tū no agnirnayatu prajānannacchā ratnaṃ devabhaktaṃ yadasya|*  
+> *dhiyā yadviśve amṛtā akṛṇvandau ṣṭitā janitā satyamuksan ‖*
+
+### Printed p. 684
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । नः । अग्निः । नयतु । प्रजानन् । अच्छ । रत्नं । देवभक्तं । यत् । अस्य ।  
+> धिया । यत् । विश्वे । अमृताः । अकृण्वन् । द्यौः । पिता । जनिता । सत्यं । उक्षन् ॥१०॥
+
+> *saḥ | tu | naḥ | agniḥ | nayatu | prajānan | accha | ratnaṃ | devabhaktaṃ | yat | asya |*  
+> *dhiyā | yat | viśve | amṛtāḥ | akṛṇvan | dyauḥ | pitā | janitā | satyaṃ | ukṣan ‖10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रजानन् सर्वं जानानः सोग्निर्देवभक्तं देवैर्देवनशीलैः स्तोतृभिः संभजनीयमस्वाग्नेः संबंधि यदुत्तमं रत्नं धनमस्ति तद्रत्नमच्छाभिमुख्येन तु
+> क्षिप्रं नोऽस्मान्नयतु । प्रापयतु । अमृता मरणधर्मरहिता विश्वे सर्वॆ देवा
+> धिया हविर्वहनलक्षणेन कर्मणा हेतुना यद्यमग्निमकृण्वन् हविषां प्रापयितारमकुर्वन् । यस्य चाग्नेर्दौः पिता पालयत्री जनिता जनयित्रि च । अग्ने दिवः
+> सूनुरसि प्रचेताः । ऋग्वे. ३-२५-१ । इति श्रवणात् । यद्वा । द्यार्देवनशील आदित्यः
+> पिता जनयिता च आदित्यादग्निरित्याम्नानात् । सत्यं यथार्थभूतं तमग्निमुक्सन् ।
+> घृताद्याहुतिभिरध्वय्दादयः सिंचंति ॥ देवभक्तं । भज सेवायां । कर्मणि क्तः ।
+> तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः । उक्षन् । उक्ष सेचने । लजि रूपं ।
+> बहुलं छंदसीत्यडभावः ॥
+
+##### Gist of the bhāṣya
+
+Agni, who knows all, is asked to bring to us quickly, face to face, the best treasure, wealth, that belongs to him and is to be shared by the gods, the shining praisers. The immortal gods, all of them, by the rite of carrying oblations made him the conveyor of oblations; and heaven is his father, protector, and his mother, begetter, as is heard in अग्ने दिवः सूनुरसि प्रचेताः । (*agne divaḥ sūnurasi pracetāḥ |*) (Ṛ. Saṃ. 3-25-1). Or else: Dyu, the shining Āditya, is father and begetter, since tradition says Agni is from Āditya. सत्यं (*satyaṃ*) is the real Agni; the Adhvaryus and others sprinkle him with oblations such as ghee. Grammar of देवभक्तं (*devabhaktaṃ*) and उक्षन् (*ukṣan*) follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजानन् (*prajānan*)—knowing all
+- सः अग्निः (*saḥ agniḥ*)—Agni
+- देवभक्तं (*devabhaktaṃ*)—worthy of worship by the praisers
+- अस्य (*asya*)—belonging to him
+- यत् रत्नं (*yat ratnaṃ*)—whatever wealth there is, that
+- तु (*tu*)—quickly
+- नः अच्छ (*naḥ accha*)—to us, face to face
+- नयतु (*nayatu*)—let him bring
+- अमृताः (*amṛtāḥ*)—free from mortality
+- विश्वे (*viśve*)—all the gods
+- धिया (*dhiyā*)—by the rite of carrying oblations to them
+- यत् (*yat*)—whom
+- अकृण्वन् (*akṛṇvan*)—they made the divine messenger
+- यस्य (*yasya*)—whose
+- द्यौः (*dyauḥ*)—heaven
+- पिता (*pitā*)—as protector
+- जनिता (*janitā*)—as begetter
+- सत्यं (*satyaṃ*)—that Agni, true in nature
+- उक्षन् (*ukṣan*)—(the Adhvaryus) sprinkle with ghee and the like
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, the all-knowing, quickly bring us the wealth that is worthy of worship by all praisers. The Adhvaryus sprinkle with ghee and the like that Agni, true in nature, whom all the immortal gods, by the rite of carrying their oblations, made their messenger, and whose begetter and protector is heaven.
+
+### Printed p. 685
+
+##### English translation (H. H. Wilson)
+May that wise Agni conduct us to that wealth which is desired by the devout; he whom all the immortals have created for (the performance of) sacred rites; of whom heaven is the parent and progenitor, and whom (the priests) verily sprinkle (with oblations).
+
+##### विशेषविषयगळु (Special Topics)
+
+यस्य द्यौः पिता जनिता (*yasya dyauḥ pitā janitā*)—Here it is said that heaven is father and protector of Agni: अग्ने दिवः सूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः (*agne divaḥ sūnurasi pracetāstanā pṛthivyā uta viśvavedāḥ*) (Ṛ. Saṃ. 3-25-1). "O Agni, you are known as all-knowing, one who knows everything; you are the son of heaven (or of the deity presiding over heaven) and of the earth": thus the seer Viśvāmitra praised Agni. Moreover, in many places it is said that heaven and earth are the parents of all the other gods, Agni and the rest.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जा॑यत प्रथ॒मः प॒स्त्या॑सु म॒हो बु॒द्धे रज॑सो आ॒स्य  ॑
+> योनौ ।  
+> अ॒पाद॑शी॒र्षा गु॒हमा॑नो॒ अंता॒योयु॑वानो वृष॒भस्य॑  ॒
+> नीळे ॥ ११ ॥
+
+> *sa jāyata prathamaḥ pastyāsu maho buddhe rajaso āsya*  
+> *yonau |*  
+> *apādaśīrṣā guhamāno aṃtāyoyuvāno vṛṣabhasya*  
+> *nīḷe ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स । जायत । प्रथमः । पस्ता सु । महः । बुद्धे । रजसः । अस्य । योन् ।  
+> अपात् । अशीर्षा । गुहमानः । अंता । आयोयुवानः । वृषभस्य । नीळे ॥ ११ ॥
+
+> *sa | jāyata | prathamaḥ | pastā su | mahaḥ | buddhe | rajasaḥ | asya | yon |*  
+> *apāt | aśīrṣā | guhamānaḥ | aṃtā | āyoyuvānaḥ | vṛṣabhasya | nīḷe ‖ 11 ‖*
+
+### Printed p. 686
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः प्रथम आहवनीयादिरूपतया श्रेष्ठः सन् पस्त्यासु यजमानानां
+> गृहेषु जायत । आहुत्यधिकरणतया संपद्यते । तथा महो महतोऽस्य रजसोऽंतरिक्षस्य बुध्ने मूले पृथिव्यां तत्रापि योनावुत्तरवेद्यादिस्थाने संपद्यते ।
+> सोऽग्निरपात्पादवर्जितोऽशीर्षा शिरोवर्जितः । तदेवाह ॥ अंताद्यंते पादशिरसी
+> गुहमानो गूहमानः । अविज्ञेयपादशिरा इत्यर्थः । वृषभस्य वर्षणसमर्थस्य
+> मेघस्य नीळे निलये नभस्यायोयुवानो धूमाकारेणात्मानमयोजयन्वर्तते
+> यद्वा । यः प्रथमो वैद्युतोऽग्निः पस्त्यादिषु नदीषु बुध्नेऽंतरिक्षे महो
+> महतो रजस उदकस्य तेजसो वा योन् स्थाने च चरति ! अपादशीर्षा पादशिरोवर्जितोऽंतात्मनः पर्यंतप्रदेशान् स्वतेजसा गुहमान अच्छादयन् पुनश्चायोयुवानस्तानि तेजांसि स्वात्मनि मिश्रीकुर्वन्नृषभस्य मेघस्य नीळे स्थाने नभसि
+> चरति सोऽग्निरधुना कर्मयोग्यतयाजायत ॥ अपात् । पादस्य लोपोऽहस्ता दिभ्य
+> इत्यकारलोपः समासांतः । गुहमानः । गुहू संवरणे । शविकरणी । शानच रूपं ।
+> शानचो लसार्वधातुकस्वरे कृते प्रत्ययस्वरः । आयोयुवानः । यु मिश्रणे ।
+> यज् लुकि शानचि रूपं । अभ्यस्तस्वरेणाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+That Agni, first, being foremost in the form of the Āhavanīya and so on, is born in the houses of the sacrificers, coming into being as the receptacle of oblations. Likewise he comes into being at the base (बुध्ने (*budhne*)) of this great firmament (रजसः (*rajasaḥ*)), on the earth, and there in the place (योनौ (*yonau*)) of the Uttaravedi and so on. He is footless and headless; he says so: अंता (*aṃtā*) are the ends, feet and head, which he hides, so that his feet and head cannot be known. In the dwelling of the rain-cloud (वृषभस्य (*vṛṣabhasya*)), able to rain, in the sky, he joins himself in the form of smoke. Or else: the first, the lightning fire, moves in the rivers and the like, at the base in the sky, and in the place of the great water or radiance; footless and headless, concealing with his own radiance the regions up to his extremities and again mingling those radiances in himself, he moves in the sky, the dwelling of the cloud; that Agni is now born fit for the rite. Grammar of अपात् (*apāt*), गुहमानः (*guhamānaḥ*) and आयोयुवानः (*āyoyuvānaḥ*) follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Agni
+- प्रथमः (*prathamaḥ*)—first (in the form of the Āhavanīya and so on)
+- पस्त्यासु (*pastyāsu*)—in the houses of the sacrificers
+- जायते (*jāyate*)—is born
+- महः (*mahaḥ*)—great
+- अस्य रजसः (*asya rajasaḥ*)—of the firmament
+- बुध्ने (*budhne*)—at the base, of the earth
+- योन्सौ (*yonsau*)—in the region of the Uttaravedi (is established)
+- अपात् (*apāt*)—footless
+- आशीर्षा (*āśīrṣā*)—headless (and)
+- अंता (*aṃtā*)—feet and heads at the ends
+- गुहमानः (*guhamānaḥ*)—keeping hidden
+- वृषभस्य (*vṛṣabhasya*)—of the rain-making cloud
+- नीळे (*nīḷe*)—in the sky, the dwelling
+- आयोयुवानः (*āyoyuvānaḥ*)—is united with smoke
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is first born in the sacrificial houses of the sacrificers, in the form of the Āhavanīya and so on. He is established in the Uttaravedi region of the earth, the base of the great firmament. Footless, headless, keeping hidden his feet and head at the ends, he is united with smoke in the sky, the dwelling of the rain-making cloud.
+
+### Printed p. 687
+
+##### English translation (H. H. Wilson)
+He is first engendered in the habitations (of the sacrificers); then upon his stations, (the altar), the base of the vast firmament; without feet, without head, concealing his extremities, combining with smoke in the nest of the rain-cloud.
+
+##### विशेषविषयगळु (Special Topics)
+
+अपात् अशीर्षा अंता गुहमानः वृषभस्य नीळे आयोयुवानः (*apāt aśīrṣā aṃtā guhamānaḥ vṛṣabhasya nīḷe āyoyuvānaḥ*)—Here it is said that this Agni, without feet and head, or keeping them hidden so that no one sees them, is united in the form of smoke in the circle of the rain-making cloud. What is in the circle of the cloud is the lightning fire (vaidyutāgni, the flash). Only its radiance is visible to all; the other parts of the fire (that is, the feet and heads) are seen by no one. Moreover, even the fire on the earth cannot be divided into parts such as feet and head. Since clouds exist in the form of water vapour, the Agni united in them is likewise present in the form of smoke: such is the meaning.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शर्ध॑ आर्त प्रथ॒मं वि॑प॒न्यं ऋ॒तस्य॒ योना॑ वृष॒भस्य॑  ॒
+> नीळॆ ।  
+> स्वा॒हो युवा॑ वपु॒ष्यो॑ वि॒भावा॑ स॒प्त प्रि॒यासो॑जनयंत॒  ॑
+> वृष्णे ॥ १२ ॥
+
+> *pra śardha ārta prathamaṃ vipanyaṃ ṛtasya yonā vṛṣabhasya*  
+> *nīḷè |*  
+> *svāho yuvā vapuṣyo vibhāvā sapta priyāsojanayaṃta*  
+> *vṛṣṇe ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शर्धः । आर्त । प्रथमं । विपन्या । ऋतस्य । योना । वृषभस्य । नीळे ।  
+> स्पार्हः । युवा । वपुष्यः । विभावा । सप्त । प्रियासः । अजनयंत । वृष्णे ॥ १२ ॥
+
+> *pra | śardhaḥ | ārta | prathamaṃ | vipanyā | ṛtasya | yonā | vṛṣabhasya | nīḷe |*  
+> *spārhaḥ | yuvā | vapuṣyaḥ | vibhāvā | sapta | priyāsaḥ | ajanayaṃta | vṛṣṇe ‖ 12 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 681. pp. 676-681 (batch API)
+**Progress note:** Done through printed p. 687. pp. 682-687 (batch API)
