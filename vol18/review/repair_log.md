@@ -11,3 +11,4 @@
 - w0579 (pp. 579–584): one `[figure: …]` line (fig2_line08317: picture of the Saṃhitā and Pada blocks that kn.md already has, compared by eye) removed from kn.md by `batch.py fix`; no letter changed.
 - Vol 18 p. 625 (w0623, Kannada file): a `*ಸಂಹಿತಾಪಾಠಃ*` label that the converter had put before a quotation (Nirukta commentary on 4-57-2 inside the Special Topics; the supplied text has no label) removed; the English file already treats the block as a quotation. No letter of the text changed.
 - Vol 18 p. 669 (w0667): `## Maṇḍala 5` heading inserted before the maṇḍala's introduction, and the window's `## Introduction (Piṭhike)` lowered to `###` (as lesson 52: the windows do not write the maṇḍala heading). No text changed.
+- Vol 18 p. 821 (w0821): Ṛk 4's blocks stood without `#### Ṛk 4` and without the Saṃhitā / Pada-pāṭha / Sāyaṇa-bhāṣya sub-headings; headings and block grouping put in by hand as in the other Ṛks; no letter changed.
