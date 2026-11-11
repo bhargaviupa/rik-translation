@@ -16646,6 +16646,237 @@ This explanation the Nirukta-kāra gave when citing the Ṛk भगं नास
 आदाय श्वेनो अभरत्सोमं सहस्रं सवा अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः । (*ādāya śveno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ |*) (Ṛ. Saṃ. 5-26 7) **NOTE**
 is cited (Ni. 11-2). For this word Sāyaṇa says बहुकर्म (*bahukarma*), the abundance of action, and Durgācārya in the Nirukta says बहु नः धनस्य दाता (*bahu naḥ dhanasya dātā*), one who gives wealth in great abundance. Again the Nirukta-kāra … (the window ends here; the sentence continues in the next).
 
+### Printed p. 511
+The Ṛk
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*) (Ṛ. Saṃ. 10-65-13)
+is also quoted (Ni. 12-30). Here the word *purandhi* is explained as "made use of by praise": words accompanied by manifold praises. Commenting on this same mantra, Sāyaṇa says बहुविधया प्रज्ञया सहिता सरस्वती (*bahuvidhayā prajñayā sahitā sarasvatī*), that is, "Sarasvatī endowed with manifold wisdom", and he treats it as an epithet of Sarasvatī. But from Durgācārya's explanation (Ni. 12-30), बहुधात्रा माध्यमिकया वाचा (*bahudhātrā mādhyamikayā vācā*), it is understood that Purandhi is a particular deity resembling Sarasvatī. Likewise, in
+शं नो भगः शमु नः शंसो अस्तु शं नः पुरंधिः शमु संतु रायः । शं नः सत्यस्य सुयमस्य शंसः शं नो अरमा पुरुजातो अस्तु ॥ (*śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ puraṃdhiḥ śamu saṃtu rāyaḥ | śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aramā purujāto astu ‖*) (Ṛ. Saṃ. 7-35-2)
+and similar Ṛks, just as deities such as Bhaga and Aramā are prayed to, Purandhi too is prayed to for protective and auspicious favour. Sāyaṇa also, in his bhāṣya, says that Purandhi is a separate deity.
+
+In many places this word is used of the wife or of woman in general, and gives the sense of women who are not barren, who are fit to obtain wealth of offspring and are well-nourished. For example, in
+अग्निः सप्तिं वाजंभरं ददात्यग्निर्वीरं श्रुत्यं कर्मनिष्ठां । अग्नी रोदसी वि चरत्समंजन्नग्निर्नारीं वीरकुक्षिं पुरंधिं ॥ (*agniḥ saptiṃ vājaṃbharaṃ dadātyagnirvīraṃ śrutyaṃ karmaniṣṭhāṃ | agnī rodasī vi caratsamaṃjannagnirnārīṃ vīrakukṣiṃ puraṃdhiṃ ‖*) (Ṛ. Saṃ. 10-80-1)
+and similar Ṛks it is understood as a wife capable of bearing children, and in
+प्र बोधया पुरंधिं जार आ ससतीमिव । (*pra bodhayā puraṃdhiṃ jāra ā sasatīmiva |*) (Ṛ. Saṃ. 1-134-3)
+and similar Ṛks, as a woman fit for enjoyment. Thus this epithet, which has the capacity to convey manifold qualities, in the present Ṛk conveys the many qualities of Ushas.
+
+Sāyaṇa here explains the word *dhī* as praise, and states one purport as "having much praise" and another as "or shining much". Since it conveys abundant and plentiful quality, all the above-mentioned qualities are fully present in Ushas.
+
+### Printed p. 512
+Whether one says she has abundant intelligence, or has ritual action, or has praise, or is a giver of wealth, or is capable of bringing forth because she is the giver of food to the world and the giver of vitality, any sense one states fits.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उषो॑ दे॒व्यम॑र्त्या॒ वि भा॑हि चं॒द्रर॑था सू॒न्यता॑ ई॒रयं॑ती ।  
+> आ त्वा॑ वहंतु सु॒यमा॑सो॒ अश्वा॒ हिर॑ण्यवर्णां पृथु॒पाज॑सो॒ ये ॥ २ ॥
+
+> *uṣo devyamartyā vi bhāhi caṃdrarathā sūnyatā īrayaṃtī |*  
+> *ā tvā vahaṃtu suyamāso aśvā hiraṇyavarṇāṃ pṛthupājaso ye ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषः । देवि । अमर्त्या । वि । भाहि । चंद्ररथा । सूनृताः । ईरयंती ।  
+> आ । त्वा । वहंतु । सुयमासः । आश्वाः । हिरण्यवर्णां । पृथुपाजसः । ये ॥ २ ॥
+
+> *uṣaḥ | devi | amartyā | vi | bhāhi | caṃdrarathā | sūnṛtāḥ | īrayaṃtī |*  
+> *ā | tvā | vahaṃtu | suyamāsaḥ | āśvāḥ | hiraṇyavarṇāṃ | pṛthupājasaḥ | ye ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देव्यमर्त्या मरणधर्मरहिता चंद्ररथा सुवर्णमयरथोपेता
+> सूनृताः प्रियसत्यरूपा वाच ईरयंत्युच्चारयंती । तथा च मंत्रवर्णः । सुम्मावरी सूनृता ईरयंती । ऋग्वे. १-११३-१२ । इति । तादृशी त्वं वि भाहि । सूर्यकिरणसंबंधाद्विशेषेण दीप्यस्व : पृथुपाजसः प्रभूतबलयुक्ता अरुणवर्णा यः ५श्वा
+> विद्यंते सुयमासः सुष्टु नियंतुं शक्या रथे योजितास्तेऽश्वा हिरण्यवर्णां त्वा
+> श्वामा वहंतु ॥ सुयमासः । यमेरकृच्छार्थे खल् । लित्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Ushas, divine, immortal (free from the nature of death), possessed of a golden chariot, uttering (*īrayantī*) the *sūnṛtā*, speech of pleasant truth. The mantra text says so: सुम्मावरी सूनृता ईरयंती (*summāvarī sūnṛtā īrayaṃtī*) (Ṛ. Saṃ. 1-113-12). Such as you are, shine forth: blaze in a special way through connection with the sun's rays. The horses that are of great strength (*pṛthupājasaḥ*) and ruddy in colour, easy to restrain (*suyamāsaḥ*) and yoked to the chariot—may those horses bring you, golden-hued.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—divine in nature
+- उषः (*uṣaḥ*)—O goddess Ushas
+- अमर्त्या (*amartyā*)—free from the nature of death
+- चंद्ररथा (*caṃdrarathā*)—possessing a golden chariot
+- सूनृताः (*sūnṛtāḥ*)—pleasant words
+- ईरयंती (*īrayaṃtī*)—uttering
+- विभाहि (*vibhāhi*)—shine
+- पृथुपाजसः (*pṛthupājasaḥ*)—of abundant strength
+- ये अश्वाः (*ye aśvāḥ*)—whichever horses
+- सुयमास (*suyamāsa*)—those that are yoked to the chariot
+- हिरण्यवर्णां (*hiraṇyavarṇāṃ*)—golden in form
+- त्वा (*tvā*)—you
+- आ वहंतु (*ā vahaṃtu*)—may they carry (hither)
+
+### Printed p. 513
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ushas, shine, immortal, possessed of a golden chariot, uttering pleasant words. May the horses of abundant strength, yoked to the chariot, bear you, golden in form, hither.
+
+##### English translation (H. H. Wilson)
+Ushas, who are divine and immortal, mounted in a golden chariot, shine radiant, causing to be heard the sounds of truth; may your vigorous and well-trained horses bring you who are golden-haired, (hither),
+
+##### विशेषविषयगळु (Special Topics)
+
+*Candrarathā*: the word *candra* is read among the names of gold (Ni. 2-10). *Candrarathā* means one having a golden chariot. Or, following the Nirukta's explanation चंद्रश्चंदतेः कांतिकर्मणः । (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ |*) (Ni. 11-5), that the word *candra* may be formed from the root *cand*, giving the sense "radiant, delightful", Sāyaṇa, in
+वि तद्ययुररुणयुग्निरश्वैश्चित्रं भांत्युषसश्चंद्ररथाः । अग्रं यज्ञस्य बृहतो नयंतीर्वि ता बाधंते तम ऊर्मायाः ॥ (*vi tadyayuraruṇayugniraśvaiścitraṃ bhāṃtyuṣasaścaṃdrarathāḥ | agraṃ yajñasya bṛhato nayaṃtīrvi tā bādhaṃte tama ūrmāyāḥ ‖*) (Ṛ. Saṃ. 6-65-2)
+explains *candrarathāḥ*, an epithet of the Ushases, as "having radiant chariots". Likewise, in
+चंद्रमग्निं चंद्ररथं हरिव्रतं वैश्वानरमप्सुषदं स्वर्विदं । विगाहं तूर्णिं तविषीभिरावृतं भूर्णिं देवास इह सुश्रियं दधुः ॥ (*caṃdramagniṃ caṃdrarathaṃ harivrataṃ vaiśvānaramapsuṣadaṃ svarvidaṃ | vigāhaṃ tūrṇiṃ taviṣībhirāvṛtaṃ bhūrṇiṃ devāsa iha suśriyaṃ dadhuḥ ‖*) (Ṛ. Saṃ. 3-3-5)
+Sāyaṇa explains *candrarathaṃ*, an epithet of Vaiśvānara Agni, as आह्लादकः रथः यस्य । (*āhlādakaḥ rathaḥ yasya |*), "one whose chariot is gladdening", that is, having a chariot that causes joy. Hence in the present Ṛk too the sense may be stated either as a golden chariot or as a chariot that produces joy.
+
+*Sūnṛtāḥ īrayantī*: *sūnṛtā*, *sūnṛtāvatī*, *sūnṛtāvarī* and the like are all epithets or synonyms of Ushas (Ni. 2-19): सूनृतेति वाज्‌नाम । (*sūnṛteti vājnāma |*) *Netrī*: producer. उषसः प्रादुर्भवानंतरं हि पशुपक्षिमृगादयः सर्वे शब्दं कुर्वंति । अतस्मैव तासां वाचां प्रवर्तयिता इत्युच्यते । (*uṣasaḥ prādurbhavānaṃtaraṃ hi paśupakṣimṛgādayaḥ sarve śabdaṃ kurvaṃti | atasmaiva tāsāṃ vācāṃ pravartayitā ityucyate |*) The word *sūnṛta* applies to all
+
+### Printed p. 514
+manner of speech-activity. Since, after the rising of Ushas, the speech-activity of all animals, birds and the rest begins, the meaning is that Ushas herself is the producer of all of it. Kutsa and Vasiṣṭha have used this epithet abundantly. In
+एषा गेत्री राधसः सूनृतानामुषा उच्छंती रिभ्यते वसिष्ठैः । (*eṣā getrī rādhasaḥ sūnṛtānāmuṣā ucchaṃtī ribhyate vasiṣṭhaiḥ |*) (Ṛ. Saṃ. 7-76-7)
+and a few similar places only, Sāyaṇa explains *sūnṛtānām* as "leader of praises". In the present Ṛk it reads *sūnṛtāḥ īrayantī*; the meaning is either "uttering pleasant words" or "impelling".
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उषः॑ प्रती॒ची भुव॑नानि॒ विश्वो॒र्ध्वा ति॑ष्ठस्य॒मृत॑स्य के॒तुः ।  
+> स॒मा॒नमर्थं॑ चरणी॒यमा॑ना च॒क्रमि॑व नव्य॒स्या व॑वृत्स्व ॥ ३ ॥
+
+> *uṣaḥ pratīcī bhuvanāni viśvordhvā tiṣṭhasyamṛtasya ketuḥ |*  
+> *samānamarthaṃ caraṇīyamānā cakramiva navyasyā vavṛtsva ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषः । प्रतीची । भुवनानि । विश्वा । ऊर्ध्व्या । तिष्ठसि । अमृतस्य । केतुः ।  
+> समानं । अर्थं । चरणीयमाना । चक्रंइव । नव्यसि । आ । ववृत्स्व ॥ ३ ॥
+
+> *uṣaḥ | pratīcī | bhuvanāni | viśvā | ūrdhvyā | tiṣṭhasi | amṛtasya | ketuḥ |*  
+> *samānaṃ | arthaṃ | caraṇīyamānā | cakraṃiva | navyasi | ā | vavṛtsva ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि विश्वा सर्वाणि भुवनानि प्रतीची । प्रत्याभिमुख्येनांचति
+> प्राप्योतीति प्रतीची । अमृतस्य मरणधर्मरहितस्य सूर्यस्य केतुः प्रज्ञापयित्रि
+> त्वमूर्ध्वा नभस्युन्नता तिष्ठसि । नव्यसि पुनःपुनर्जायमानतया नवतरे हे उषो
+> देव्यर्थं । अर्यते गम्यतेऽस्मिन्नित्यर्थो मार्गः । समानमेकं मार्गमुदयात्पाचीनकाललक्षणं चरणीयमाना चरितुमिच्छंती त्वमा ववृत्स्व । पुनस्तस्मिन्मार्ग
+> आवृत्ता भव । तत्र दृष्टांतः । चक्रमिव । यथा नभसि चरितुः सूरस्य रथांगं पुनःपुनरावर्तते तद्वत् ॥ प्रतीची । प्रतिपूर्वादंचतेः क्विन्। अंचतेश्चोपसंख्यानमिति
+> जीप् । अच इत्यकारलोपे चाविति दीर्घः। उदात्तनिवृत्ति स्वरेणांतोदात्तः। केतुः।
+> चाय पूजानिशामनयोरित्यस्माच्चायः की चेति तुः । की इत्यादेशः । आर्धधातु-
+
+##### Gist of the bhāṣya
+
+O goddess Ushas, you are *pratīcī* to all the worlds: she who "turns towards and reaches" them. You, as the *ketu*, the making-known, of the immortal sun (free from the nature of death), stand aloft in the sky. O *navyasī*, newer, being born again and again, O Ushas: *artha* means a road, that by which one goes (*aryate*). Wishing to travel the one same road, of the time preceding sunrise, you turn back (*ā vavṛtsva*): become again returned to that road. An example: like a wheel (*cakram iva*): as the wheel of the chariot of the sun moving in the sky revolves again and again.
+
+**NOTE**
+
+### Printed p. 515
+
+> कलक्षणो गुणः । अर्थं । आर्तेस्थन्प्रत्ययः । नव्यसि । नवशब्दादीयसुनि जीपि
+> रूपं । ईकारलोपश्छांदसः । ववृत्स्व । वृतु वर्तने । बहुलं छंधसीति विकरणस्य
+> श्लुः ॥
+
+##### Gist of the bhāṣya
+
+The remainder of the block is purely grammatical (the formation of *artham*, *navyasi*, *vavṛtsva*); it is left to the Grammar section.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Ushas
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all the worlds
+- प्रतीची (*pratīcī*)—pervading
+- अमृतस्य (*amṛtasya*)—of the deathless sun
+- केतुः (*ketuḥ*)—as the one who makes known
+- ऊर्ध्व (*ūrdhva*)—in the sky
+- तिष्ठसि (*tiṣṭhasi*)—you stand
+- नव्यसि (*navyasi*)—O Ushas, who appear new every day
+- समानं अर्थं (*samānaṃ arthaṃ*)—the one same road
+- चरणीयमाना (*caraṇīyamānā*)—wishing to travel
+- चक्रमिव (*cakramiva*)—as a wheel turns
+- आ ववृत्स्व (*ā vavṛtsva*)—you are one whose motion recurs every day
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Ushas, pervading all the worlds, as the one who makes known the deathless sun, you stand in the sky. O Ushas, who appear new every day, wishing to travel the one same road, you are one whose motion recurs every day, as a wheel turns.
+
+##### English translation (H. H. Wilson)
+Ushas, who spread over all the regions, you abide on high, the ensign of the immortal (sun), purposing to travel the same road, repeatedly turn back ever new, (revolving) like a wheel.
+
+##### विशेषविषयगळु (Special Topics)
+
+The idea suggested by words such as *navyasi*, *cakram iva ā vavṛtsva* is explained in the Taittirīya Saṃhitā. There it is described that the thirty forms of Ushas revolve in a circle, that those thirty forms propound one and the same principle, and that there is an inseparable relation between the path of Ṛta and the revolving of Ushas. Although she appears anew again and again, her beginninglessness is described by sentences such as "ever and again being born, ancient". The Taittirīya Brāhmaṇa too says this:
+इमा एव ता उषसो याः प्रथमा व्यौच्छन् । ता देव्यः कुर्वते पंचरूपा । शश्वतीर्नावपृज्यंति । न गमंत्यंतं ॥ (*imā eva tā uṣaso yāḥ prathamā vyaucchan | tā devyaḥ kurvate paṃcarūpā | śaśvatīrnāvapṛjyaṃti | na gamaṃtyaṃtaṃ ‖*) (Tā. Brā. 2-5-6-5)
+**NOTE**
+
+### Printed p. 516
+"*Viśvā bhuvanāni pratīcī*": the form of Ushas described in the present Ṛk as having pervaded and shone over all the worlds is that same first form of Ushas, as it was at the time of creation. There is no difference in it. "Those same Ushases are present every day": the very form of that Ushas continues even now, uninterruptedly and infinitely (Bhaṭṭa Bhāskara). Though she takes five forms, beginning with spring, the basic principle is one. It is unbroken. Though it recurs like a wheel, it follows one path of Ṛta.
+आदर्शि गातुरुरवे वरीयसी पंथा ऋतस्य समयंस्त रश्मिभिश्च क्षुर्भगस्य रश्मिभिः। (*ādarśi gātururave varīyasī paṃthā ṛtasya samayaṃsta raśmibhiśca kṣurbhagasya raśmibhiḥ|*) (Ṛ. Saṃ. 1-136-2)
+In this description, that for the sun of wide extent the still wider path of Ṛta was marked out with the help of his rays, the broad path of Ṛta in the sky that is indicated is the eternal course of Ushas.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ स्यूमे॑व चिन्व॒ती म॒घोन्न्यु॒षा या॑ति॒ स्वस॑रस्य॒ पत्नि ॑।  
+> स्व१॒॑र्जनं॑ती सु॒भगा॑ सु॒दंसा॒ अंता॑द्दि॒नः प॑प्रथ॒ आ पृ॑थि॒व्याः ॥
+
+> *ava syūmeva cinvatī maghonnyuṣā yāti svasarasya patni |*  
+> *svarjanaṃtī subhagā sudaṃsā aṃtāddinaḥ papratha ā pṛthivyāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्यूम इव । चिन्वती । मघोनी । उषाः । याति । स्वसरस्य । पत्नि ।  
+> स्वः । जनंती । सुभगा । सुदंसाः । आ । अंतात् । दिवः । पप्रथे । आ । पृथिव्याः ॥४॥
+
+> *ava | syūma iva | cinvatī | maghonī | uṣāḥ | yāti | svasarasya | patni |*  
+> *svaḥ | janaṃtī | subhagā | sudaṃsāḥ | ā | aṃtāt | divaḥ | paprathe | ā | pṛthivyāḥ ‖4‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येयमुषाः स्यूमेव वस्त्रमिव विस्तृतं तमोऽवचिन्वत्यवचयमपक्षयं
+> प्रापयंती मघोनी धनवती स्वसरस्य । सुष्पृष्यति क्षिपति तम इति स्वसरः सूरो
+> वासरो वा । तस्य पत्नि सती याति गच्छति । स्वः स्वकीयं तेजो जनंती जनयंती
+> सुभगा सुधना सौभाग्ययुक्ता ना सुदंसाः शोभनाग्नि होत्रकर्मा सेयमुषा
+> दिवो द्युलोकस्यांतात्पृथिव्याश्चंतादावसानात्पप्रथे । प्रथते । प्रकाशत इत्यर्थः ॥
+> स्यूमेव । षुवु तंतुसंताने । अविषिविशुषिभ्यः किदिति मन्प्रत्ययः । ध्योः शूडनु-
+
+##### Gist of the bhāṣya
+
+This Ushas, like a stitched garment (*syūma*), i.e. like a spread-out cloth, bringing the extended darkness to diminution (*avacaya*, decay); she is *maghonī*, wealthy; the wife of *svasara*. He who well casts away (*suṣpṛṣyati*, *kṣipati*) darkness is *svasara*, the sun or the day. Being his wife, she goes. *Svaḥ*: her own light, generating; *subhagā*, of good wealth, endowed with good fortune; *sudaṃsāḥ*, of good agnihotra-ritual action. She, Ushas, spreads (*paprathe*), shines, from the end of heaven to the end of the earth. The remainder is grammar (*syūma*, root *syu*, and so on), the next page continues it.
+
+### Printed p. 517
+
+> नासिके चेत्यूट् । यणादेशः । सुपां सुलुगिति सोर्लुक् । नित्ताद्युदात्तः ।
+> चिन्वती । शतुरनुम इति जीप उदात्तत्वं । जनंती । जन जनन इत्यस्य ण्यंतस्य शतरि
+> रूपं । छंदस्युभयथेति शप आर्धधातुकत्वेन णिलोपः ॥
+
+##### Gist of the bhāṣya
+
+Grammar only (*cinvatī*, *janantī*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनी (*maghonī*)—wealthy
+- स्वसरस्य (*svasarasya*)—of the sun
+- पत्नि (*patni*)—the wife
+- उषाः (*uṣāḥ*)—goddess Ushas
+- स्यूम इव (*syūma iva*)—the darkness that spreads like a cloth
+- अव चिन्तती (*ava cintatī*)—destroying
+- याति (*yāti*)—she goes
+- स्वः (*svaḥ*)—her own light
+- जनंती (*janaṃtī*)—creating (spreading)
+- सुभगा (*subhagā*)—endowed with good fortune
+- सुदंसाः (*sudaṃsāḥ*)—helper of excellent ritual action
+- दिवः (*divaḥ*)—of heaven
+- आ अंतात् (*ā aṃtāt*)—from the end
+- पृथिव्याः आ (*pṛthivyāḥ ā*)—to the end of the earth
+- पप्रथे (*paprathe*)—shines, famous
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy goddess Ushas, wife of the sun, goes about destroying the darkness spread like a cloth. Spreading her own light, endowed with good fortune and a helper of excellent ritual action, she shines renowned from the end of heaven to the end of the earth.
+
+##### English translation (H. H. Wilson)
+The opulent Ushas, the bride of the far-darting (sun), throwing off (darkness) like a garment, proceeds : diffusing her own (lustre), auspicious, promoting sacred acts, she is renowned to the ends of the heaven and of the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+*Svasara*: सुष्टु अस्यति क्षिपति तम इति स्वसरः सूरो वासरो वा । (*suṣṭu asyati kṣipati tama iti svasaraḥ sūro vāsaro vā |*) Because it completely scatters and destroys darkness, the word *svasara* means either the sun or the day. Further on, the word *svaḥ* is explained as light.
+विश्वाः पिन्वथः स्वसरस्य धेना अनु वामेकः पविरा ववर्त । (*viśvāḥ pinvathaḥ svasarasya dhenā anu vāmekaḥ pavirā vavarta |*) (Ṛ. Saṃ. 5-62-2)
+In such places the precise meaning of *svasara* is stated to be the sun.
+*Svaḥ*: this word is read among the common names, *svaḥ*, *pṛśni*, *nāka* and so on. The Nirukta says that all these are synonyms of heaven and of the sun. The sun too, being of the nature of light, is designated by the word *svaḥ*. And,
+
 ---
 
-**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
+**Progress note:** Done through printed p. 517. pp. 511-517 (batch API)
