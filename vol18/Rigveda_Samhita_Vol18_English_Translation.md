@@ -22445,6 +22445,290 @@ The divine Savitri has been manifested : he is at once to be glorified by us : h
 > *devebhyaḥ | hi | prathamaṃ | yajjiyebhyaḥ | amṛtatvaṃ | suvasi | bhāgaṃ | uttamaṃ |*  
 > *āt | it | dāmānaṃ | savitaḥ | vi | ūrṇuṣe anūcīnā | jīvitā | mānuṣebhya ‖2‖*
 
+### Printed p. 573
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमं देवेभ्यो हि । हिशब्दः प्रसिद्धौ । देवेभ्यो यज्ञियेभ्यो
+> यज्ञार्हेभ्योऽमृतत्वं तत्साधनमुत्तममुत्कृष्टतमं भागं सोमादिलक्षणं
+> सुवसि। अनुजानासि। आदिदनंतरमेव दामानं हविषां दातारं हे सवितर्व्यूर्णुषे।
+> प्रकाशयसि । मानुषेभ्यो यजमानेभ्यो जीविता जीवितान्यनूचीनानुक्रमयुक्तानि । पितृपुत्रपौत्रा इत्यनुक्रमः । ईदृशानि जीवितानि पश्चाद्वर्णुषे ॥
+
+##### Gist of the bhāṣya
+
+The word हि (*hi*) is used in its well-known sense. For the gods who are worthy of sacrifice, Savitṛ allows the best, most excellent share, the Soma and the like, which is the means to immortality. Immediately afterwards, O Savitṛ, he "opens out", that is, makes shine, the giver of the oblations. For men, the sacrificers, he makes lives "anūcīna", that is, endowed with an order of succession: father, son, grandson. Such lives he opens out afterwards.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitṛ
+- प्रथमं (*prathamaṃ*)—first
+- यज्ञियेभ्यः (*yajñiyebhyaḥ*)—to those worthy of sacrifice
+- देनेभ्यः (*denebhyaḥ*)—to the gods
+- उत्तमं (*uttamaṃ*)—the best
+- अमृतत्वं (*amṛtatvaṃ*)—the means of immortality
+- भागं (*bhāgaṃ*)—the portion of the Soma juice (so that they may receive it)
+- सुवसि हि (*suvasi hi*)—you give permission
+- आदित् (*ādit*)—immediately
+- दामानं (*dāmānaṃ*)—the sacrificer who gives the oblation
+- व्यूर्णुषे (*vyūrṇuṣe*)—you cause to shine
+- मानुषेभ्यः (*mānuṣebhyaḥ*)—to the human sacrificers
+- जीविता (*jīvitā*)—lives
+- अनूचीना (*anūcīnā*)—in the order of sons, grandsons and so on (you bestow them)
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, first you give permission to the gods who are worthy of sacrifice to receive the portion of the Soma juice, which is the best and the means to immortality. Immediately after that you cause the sacrificer, the giver of the oblation, to shine. To the human sacrificers you grant lives in the order of sons, grandsons and so on.
+
+##### English translation (H. H. Wilson)
+First you engender for the adorable gods the best portion, immortality; then, Savitri, you set open (the day) to the donor (of the oblation), and (grant) successive existences to men.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अचि॑त्ती॒ यच्च॑कृ॒मा दैव्ये॒ जने॑ दी॒नैर्दक्षैः॒ प्रभू॑ती पूरुष॒त्वता॑ ।  
+> दे॒वेषु॑ च सवित॒र्मानु॑षेषु च॒ त्वं नो॒ अत्र॑ सुवता॒दना॑गसः॥
+
+> *acittī yaccakṛmā daivye jane dīnairdakṣaiḥ prabhūtī pūruṣatvatā |*  
+> *deveṣu ca savitarmānuṣeṣu ca tvaṃ no atra suvatādanāgasaḥ‖*
+
+### Printed p. 574
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचित्ती । यत् । चक्रम । दैव्ये । जने । दीनैः । दक्षैः । प्रभूती । पुरुषत्वता ।  
+> देवेषु । च । सवितः । मानुषेषु । च । त्वं । नः । अत्र । सुवतात् । अनागसः ॥ ३ ॥
+
+> *acittī | yat | cakrama | daivye | jane | dīnaiḥ | dakṣaiḥ | prabhūtī | puruṣatvatā |*  
+> *deveṣu | ca | savitaḥ | mānuṣeṣu | ca | tvaṃ | naḥ | atra | suvatāt | anāgasaḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितर्वयमचित्ती अप्रज्ञया दैव्ये जने देवे त्वयि दीनैर्दुर्बलैः
+> पुत्रादिभिर्युत्विग्निर्वा तथा दक्षैः प्रवृद्धैर्वा तैः प्रभूती प्रभूत्या । ऐश्वर्यमदेनेति यावत् । पुरुषत्वता पुरुषवत्तया च यदागश्च कृम । न केवलं त्वय्येव
+> कृतमपि तु देवेश्वन्नेषु मानुषेषु चाज्ञानादिभिर्यच्चकृम नः कृतवतोऽस्मान्
+> त्वमत्रास्मिन्कर्मण्यनागसः सुवतात् । अनुजानीहि ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, whatever offence we have committed through "acitti", lack of understanding, against the divine person, that is, against you the god, whether with weak dependants such as sons, or with grown ones (or through pride in them), "prabhūti", that is, through the intoxication of lordship, and through "puruṣatvatā", that is, through being human, and not only against you but also against the other gods and against men, through ignorance and the like: do you in this rite make us free from offence. Grant us permission. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitṛ
+- अचित्ती (*acittī*)—whether through lack of understanding
+- दीनैः (*dīnaiḥ*)—through the weakness of the powerless
+- दक्षैः (*dakṣaiḥ*)—or through the arrogance and the like of the powerful
+- प्रभूती (*prabhūtī*)—excessive
+- पुरुषत्वता (*puruṣatvatā*)—or through human fault
+- दैव्ये जने (*daivye jane*)—in you, who are of divine nature
+- देवेषु (*deveṣu*)—in the other gods (or)
+- मानुषेषु च (*mānuṣeṣu ca*)—in other men also
+- यत् (*yat*)—whatever sin
+- चक्रम (*cakrama*)—if we have committed
+- नः (*naḥ*)—us, such sinners
+- त्वं (*tvaṃ*)—you
+- अत्र (*atra*)—at the time of this rite
+- अनागसः (*anāgasaḥ*)—having made us free from sin
+- सुवतात् (*suvatāt*)—favour us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, whether through lack of understanding, through the weakness of the powerless or the arrogance and the like of the powerful, or through excessive human fault, if we have committed any sin against you, who are of divine nature, or against the other gods, or also against other men, then make us, such sinners, free from sin at the time of this rite, and favour us.
+
+##### English translation (H. H. Wilson)
+If, Savitri, through ignorance, through pride in feeble or powerful (dependants), or through human infirmity, we have commited (offence) against your divine person, or against gods or men, do you, on this occasiou hold us to be unoffending..
+
+### Printed p. 575
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न प्र॒मिये॑ सवि॒तुद्वैव्य॑स्य॒ तद्यथा॒ विश्वं॒ भुव॑नं धारयि॒ष्यति॑ ।  
+> यत्पृ॑थि॒व्या वरि॑म॒न्ना स्वं॑गु॒रिर्वष्म॑न्दि॒वः सु॒वति॑ स॒त्यम॑स्य॒ तत् ॥
+
+> *na pramiye savitudvaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati |*  
+> *yatpṛthivyā varimannā svaṃgurirvaṣmandivaḥ suvati satyamasya tat ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । प्रमिये । सवितुः । दैव्यस्य । तत् । यथा । विश्वं । भुवनं । धारयिष्यति ।  
+> यत् । पृथिव्याः । वरिमन् । आ । सुअंगुरिः । वर्ष्मन् । दिवः । सुवति । सत्यं ।  
+> अस्य । तत् ॥ ४ ॥
+
+> *na | pramiye | savituḥ | daivyasya | tat | yathā | viśvaṃ | bhuvanaṃ | dhārayiṣyati |*  
+> *yat | pṛthivyāḥ | variman | ā | suaṃguriḥ | varṣman | divaḥ | suvati | satyaṃ |*  
+> *asya | tat ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवसुवां हविःषु सवितुः सत्यप्रसवस्य न प्रमिय इति याज्या । सूत्रितं च ।
+> न प्रमिये सवितुदैव्यस्य तद्बृहस्पते प्रथमं । आ. ४-११ । इति ॥
+> सवितुर्दैव्यस्य देवस्य तत्कर्म न प्रमिये । न प्रमीयेत । न प्रहिंस्येत ।
+> हिंसार्हं न भवतीत्यर्थः ॥ कृत्यार्थे केन्प्रत्ययः । यद्वा । दैवैस्येत्यधिकरणे
+> षष्ठि । सा च कर्मार्था । दैव्यं कर्मेत्यर्थः । कथमहिंस्यमित्यत आह । यथा विश्वं
+> भुवनं धारयिष्यति । धारयति । विश्वधारणरूपं यत्कर्मास्ति तन्न प्रमिये । तथा
+> स्वंगुरिः शोभनांगुल्युपलक्षितहस्तो यत् यः पृथिव्या वरिमन्ना । आकारश्चार्थे ।
+> भूम्या उरुत्वे च सुवति । तथा दिवो द्युलोकस्य वर्षन्नुरुत्ते च सुवति अस्य
+> देवस्य तदुक्तं कर्म सत्यमबाध्यमिति ॥
+
+##### Gist of the bhāṣya
+
+This is the yājyā verse in the offerings of the "devasu" (the eight oblations) to Savitṛ of true impulsion (satyaprasava). It is also stated in the sūtra (Ā. Sū. 4-11), which begins with this verse. The work of Savitṛ, the divine god, "is not to be harmed": it is not fit to be harmed. The suffix is used in the sense of the gerundive. Or else, "daivyasya" is a genitive in the locative sense and refers to the work, so that it means "the divine work". How is it unharmable? He answers: "as he will uphold all the world", the work consisting in upholding the whole world, "that I shall not harm". Likewise he whose hand is marked by fair fingers (svaṅguri) impels the breadth of the earth, and the greatness of heaven, the world of Dyaus; that work of this god so spoken of is true, that is, not to be obstructed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वंगुरिः (*svaṃguriḥ*)—he who has a hand with excellent fingers
+- यत् (*yat*)—which Savitṛ
+- यथा (*yathā*)—in what manner
+- विश्वं भुवनं (*viśvaṃ bhuvanaṃ*)—the whole world
+- धारयिष्यति (*dhārayiṣyati*)—he upholds
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- वरिमन् (*variman*)—the expanse
+- आ सुवति (*ā suvati*)—he impels
+- दिवः (*divaḥ*)—of the world of heaven
+- वर्ष्मन् (*varṣman*)—he impels also the greatness (of such a one)
+- दैव्यस्य (*daivyasya*)—who is of divine nature
+- सवितुः (*savituḥ*)—of Savitṛ
+- तत् (*tat*)—those excellent works
+- न प्रमिये (*na pramiye*)—we must not harm
+- अस्य (*asya*)—of this god
+- तत् (*tat*)—this great work
+- सत्यं (*satyaṃ*)—is firm and imperishable
+
+### Printed p. 576
+
+##### भावार्थ (Bhāvārtha)
+
+The Savitṛ whose hand has excellent fingers upholds the whole world by his great works and impels the expanse of the earth and the greatness of the world of heaven. We must not harm those excellent works of such a Savitṛ, who is of divine nature. The great work of this god is firm and imperishable.
+
+##### English translation (H. H. Wilson)
+(It is) not (fit) to obstruct (the acts) of the divine Savitri, since by them he upholds the whole world, whereby his gracious hand spreads fertility over the extent of the earth, and the magnitude of the heaven : such is his true (powcr).
+
+##### विशेषविषयगळु (Special Topics)
+
+When the eight oblations called "devasu" are offered to various deities, this Ṛk, "na pramiye", is to be recited as the yājyā mantra in the offering to the deity called Satyaprasava Savitṛ. This is explained by the sūtra of the Āśvalāyana Śrautasūtra beginning "na pramiye savitur daivyasya tad bṛhaspate prathamaṃ" (Ā. 4-11).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ज्येष्ठान्बृ॒हद्भ्यः॒ पर्व॑तेभ्यः॒ क्षया॑ एभ्यः सुवसि प॒स्ता॑वतः ।  
+> यथा॑यथा प॒तयं॑तो वियेमि॒र ए॒वैन त॑स्थुः सवितः स॒वाय॑ ते ॥ ५ ॥
+
+> *iṃdrajyeṣṭhānbṛhadbhyaḥ parvatebhyaḥ kṣayā ebhyaḥ suvasi pastāvataḥ |*  
+> *yathāyathā patayaṃto viyemira evaina tasthuḥ savitaḥ savāya te ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रज्येष्ठान् । बृहत्भ्यः । पर्वतेभ्यः । क्षयान् । एभ्यः । सुवसि । पस्यवतः ।  
+> यथायथा । पतयंतः । वियेमिरे । एव । एव । तस्थुः । सवितरिति । सवाय । ते ॥
+
+> *iṃdrajyeṣṭhān | bṛhatbhyaḥ | parvatebhyaḥ | kṣayān | ebhyaḥ | suvasi | pasyavataḥ |*  
+> *yathāyathā | patayaṃtaḥ | viyemire | eva | eva | tasthuḥ | savitariti | savāya | te ‖*
+
+### Printed p. 577
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितरिंद्रज्येष्ठान् । इंद्रः परमैश्वर्ययुक्तस्त्वमेवेंद्रो वा
+> ज्येष्णो ज्यायान् पूज्यो येषां ते तादृशाः । तानस्मान्बृहद्भो महद्भ्यः
+> पर्वतेभ्योऽप्यधिकान् सुवसि । प्रेरयसि । किंच एभ्यो यजमानेभ्यः पस्तावतो
+> गृहवतः क्षयान्निवासान् ग्रामनगरादीन् सुवसि । प्रेरयसि । यथा यथा पतयंतो
+> गच्छंतस्त्वां वियेमिरे । विनियम्यंते त्वया । ते तव सवायानुज्ञाया एवैवैवमेव नियमनमनतिक्रम्य तस्थुः । तिष्ठंति ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, "indrajyeṣṭha": Indra, endowed with supreme lordship, or you yourself as Indra, or else those whose elder, "jyeṣṭha", whose senior and honoured one is Indra: such are we. You impel us higher even than the great mountains. Further, for these sacrificers you impel dwellings, "kṣaya", that is, abodes with houses, villages, towns and the like. In whatever way they go about, "patayantaḥ", they are restrained by you; so, not transgressing that restraint, they stand at your sava, your permission.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitṛ
+- इंद्रज्येष्ठान् (*iṃdrajyeṣṭhān*)—us, whose honoured one is Indra
+- बृहद्भ्यः (*bṛhadbhyaḥ*)—exceedingly great (lofty)
+- पर्वतेभ्यः (*parvatebhyaḥ*)—higher than the clouds
+- सुवसि (*suvasi*)—you have raised
+- एभ्यः (*ebhyaḥ*)—for these same sacrificers
+- पस्तावतः (*pastāvataḥ*)—having houses fit for dwelling
+- क्षयान् (*kṣayān*)—abodes (you have built)
+- यथा यथा (*yathā yathā*)—in whatever manner
+- पतयंतः (*patayaṃtaḥ*)—those who were moving about
+- वियेमिरे (*viyemire*)—(they) stopped and held (you) back
+- एवैव (*evaiva*)—in the same manner
+- ते (*te*)—your
+- सवाय (*savāya*)—to obey the permission
+- तस्थुः (*tasthuḥ*)—they stood
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, you have raised us, whose honoured one is Indra, to a region higher than the exceedingly lofty clouds. For these same sacrificers you have built abodes with houses fit for dwelling. In whatever way they, moving about, stopped and held you back, in the same manner they stood to obey your command.
+
+##### English translation (H. H. Wilson)
+You elevate those, of whom Indra is chief, above the vast clouds; for these (your worshippers), you provide dwelling (places) filled with habitations: as when advancing they detained you so in like manner at your command they stayed.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॒ त्रिरह॑न्‌त्सवितः स॒वासो॑ दि॒वेदि॑वे॒ सौभ॑गमासु॒वंति॑ ।  
+> इंद्रो॒ द्याव्या॑पृथि॒वी सिंधु॑र॒द्भिरा॑दि॒त्यैनर्नो॒ अदि॑तिः॒ शर्म॑  
+> यंसत् ॥ ६ ॥
+
+> *ye te trirahantsavitaḥ savāso divedive saubhagamāsuvaṃti |*  
+> *iṃdro dyāvyāpṛthivī siṃdhuradbhirādityainarno aditiḥ śarma*  
+> *yaṃsat ‖ 6 ‖*
+
+### Printed p. 578
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । त्रिः । अहन् । सवितरिति । सवासः । दिवेऽदिवे । सौभगं । आसुवंति ।  
+> इंद्रः । द्यावापृथिवी इति । सिंधुः । आर्‍भिः । आदित्यैः । नः । अदितिः । शर्म ।  
+> यंसत् ॥ ६ ॥
+
+> *ye | te | triḥ | ahan | savitariti | savāsaḥ | dive 'dive | saubhagaṃ | āsuvaṃti |*  
+> *iṃdraḥ | dyāvāpṛthivī iti | siṃdhuḥ | ārbhiḥ | ādityaiḥ | naḥ | aditiḥ | śarma |*  
+> *yaṃsat ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमाना हे सवितस्ते त्वदर्थं सवासः सवाः सोमाः । द्वितीयार्थे
+> प्रथमा । सोमान् । यद्वा । सवासः सवनानि प्रातरादीनि प्रति त्रिरहन्नभिषुण्वंति । न
+> केवलमेकस्मिन्नेवाहनि सवनत्रयेषु अपि तु दिने दिने प्रतिदिनं सौभगं सौभाग्यज्जनकमासुवंति । अभिषुण्वंति । तेभ्यो नोऽस्मभ्यमिंद्रः शर्म यंसत् । यच्छतु ।
+> द्यावापृथिव्यौ चाद्भिर्विशिष्ट्वा सिंधुः सिंध्वभिमानिदेवता चादित्यैः सहितादितिश्च शर्म
+> यंसत् । सावित्रे सूक्त इंद्रादीनां निपातमुक्त्वा तेषां प्रार्थना न विरुध्यते ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers, O Savitṛ, press for you the "savāsaḥ", the Soma juices (the nominative stands for the accusative, "Somas"). Or else, "savāsaḥ" are the savanas, the morning ones and the rest: for each of them they press "thrice a day". Not only on a single day at the three savanas, but day by day, every day, they press what produces good fortune. For them, for us, may Indra grant shelter; and may heaven and earth, and Sindhu, the deity presiding over rivers, together with the waters, and Aditi together with the Ādityas, grant shelter. In the Sāvitra hymn the mention of Indra and the others does not conflict with the prayer to them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Savitṛ
+- ये (*ye*)—which sacrificers
+- ते (*te*)—for you
+- सौभगं (*saubhagaṃ*)—that which produces good fortune
+- सवासः (*savāsaḥ*)—the Soma juices
+- दिवेदिवे (*divedive*)—every day
+- त्रिरहन् (*trirahan*)—at the times of the three savanas
+- आसुवंति (*āsuvaṃti*)—press (such)
+- नः (*naḥ*)—to us
+- इंद्रः (*iṃdraḥ*)—Indra
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अद्भिः (*adbhiḥ*)—accompanied by the waters
+- सिंधुः (*siṃdhuḥ*)—the deity presiding over rivers
+- आदित्यैः (*ādityaiḥ*)—accompanied by the Ādityas
+- अदितिः (*aditiḥ*)—Aditi
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may they provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, to us, who every day, at the times of the three savanas, press for you Soma juices that produce good fortune, may Indra, heaven and earth, the goddess presiding over rivers together with the waters, and Aditi together with the Ādityas, provide happiness.
+
+##### English translation (H. H. Wilson)
+May Indra, heaven and earth, Sindhu with the waters, and Aditi with the Adityas, bestow happiness upon us, who, offering libations, Savitri, pour out the auspicious Soma, day by day, thrice a day.
+
 ---
 
-**Progress note:** Done through printed p. 572. pp. 567-572 (batch API)
+**Progress note:** Done through printed p. 578. pp. 573-578 (batch API)
