@@ -25734,7 +25734,9 @@ Here ends the fourth maṇḍala of the Ṛgveda-saṃhitā, together with the b
 
 Now the Fifth Maṇḍala. The Fifth Maṇḍala.
 
-## Introduction (Piṭhike)
+## Maṇḍala 5
+
+### Introduction (Piṭhike)
 
 **Introduction to the seer Atri, the seer of the maṇḍala.**
 
