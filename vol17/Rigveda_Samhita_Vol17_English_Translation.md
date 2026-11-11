@@ -11839,6 +11839,195 @@ He has filled the two vast receptacles (heaven and earth) united (with creatures
 - महत् (*mahat*)—great
 - एकं (*ekaṃ*)—extraordinary
 
+### Printed p. 318
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the supporter of the whole world and our lord, dwells like a friend who wishes us well in the firmament nearest to this earth. The valiant Maruts go in front of him in battle and dwell in his own house. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Our king, the nourisher of all, abides (in the firmament) nearest to this earth like a benevolent friend : the valiant (Maruts) precede him (when abroad), and dwell in his mansion : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वध्वायाः नः राजा इमां पृथिवीं च उप क्षेति (*viśvadhvāyāḥ naḥ rājā imāṃ pṛthivīṃ ca upa kṣeti*): the meaning is explained as follows. Indra, who supports and nourishes the whole universe, or who enjoys everything, is king and protector for us, the sacrificers, and dwells close to earth and the firmament. For this, the illustration हितमित्रो न (*hitamitro na*) is given: just as a friend who counsels one's welfare always lives nearby, so Indra, staying near earth and the firmament, is described as one who thinks of our good.
+
+वीराः (*vīrāḥ*): the able Maruts, helpers in battle. Although the word "vīra" is conventionally used in the sense of "hero", here it is used in the sense that the Marut deities are heroes and help Indra in times of battle.
+
+पुरसदः शर्मसदो न (*purasadaḥ śarmasado na*): these Maruts are those who go in front of Indra in battle and who also dwell in Indra's house; they are present wherever he is. The meaning is explained thus: the Maruts stay in front of Indra and help in times of battle, and they dwell in all the places where Indra is. The particle "na" is stated to have the sense of comparison and also the sense of prohibition (Ni. 1-4); here that particle is given the sense of the particle "ca", that of combination.
+
+### Printed p. 319
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒ष्पिद्व॑रीस्त॒ ओष॑धीरु॒तापो॑ र॒यिं त॑ इंद्र पृथि॒वी बि॑भर्ति ।  
+> सखा॑यस्ते वाम॒भाजः॑ स्याम म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *niṣpidvarīsta oṣadhīrutāpo rayiṃ ta iṃdra pṛthivī bibharti |*  
+> *sakhāyaste vāmabhājaḥ syāma mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निःसिध्वरीः । ते । ओषधीः । उत । आपः । रयिं । ते । इंद्र । पृथिवी । बिभर्ति ।  
+> सखायः ते । वामभाजः । स्याम । महत् । देवानां । असुरत्वं । एकं ॥ २२ ॥
+
+> *niḥsidhvarīḥ | te | oṣadhīḥ | uta | āpaḥ | rayiṃ | te | iṃdra | pṛthivī | bibharti |*  
+> *sakhāyaḥ te | vāmabhājaḥ | syāma | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 22 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पर्जनात्मककेंद्र ओषधीरोषधयस्ते निष्पिध्वरीर्निष्पिध्वयो नितरां
+> त्वत्कर्तृकसिद्धिमत्यः । उतापि च आपस्त्वत्तो निःसृताः । पृथिवी ते तव भोगयोग्यं
+> रयिं धनं बिभर्ति । पुरू वसूनि पृथिवी बिभर्ति । ऋग्वे. ३-५१-५ । इति हि निगमः ।
+> ततस्ते तव सखायो हविष्पदा नोपकारकाः स्तोतारो वयं वामभाजः स्याम।
+> सर्वॆ वननीयधनभागिनो भवेम । तदेतद्देवानां महदैश्वर्यं ॥ निष्पिध्वरीः ।
+> षिधु संरादौ । संपदादिलक्षणो भावे क्विप् । तदस्यास्तित्यर्थे छंदसीवनिपाविति
+> वनिप् । वनो र चेति जीप् रेफश्च । निसा सह समासः । निसः सकारं छांदसत्वादनादृत्योपसर्गात्सुनोतीत्यादिना षत्वं । जीपः पित्त्वा दनुदात्तत्वे धातुस्करः । बिभर्ति।
+> डुभृञ् धारणपोषणयोरित्यस्य लटि बृञामिदित्यभ्यासस्यॆत्वं । निघातः । वामभाजः । भज सेवायां । भजो ण्वैः । पा ३-२-६२ । इति ण्वैः । कृदुत्तरपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in the form of Parjanya (the rain-god): the plants (ओषधीः (*oṣadhīḥ*)) are निष्पिध्वरीः (*niṣpidhvarīḥ*), that is, brought fully to perfection through you; and the waters also flow forth from you. The earth bears for you wealth fit for your enjoyment; Sāyaṇa cites the Nigama "Earth bears abundant treasures" (Ṛgve. 3-51-5). Therefore we, your friends and praisers who help you with offerings, would be वामभाजः (*vāmabhājaḥ*), sharers of all desirable wealth. That is the great lordship of the gods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra, who are of the nature of Parjanya
+- ओषधीः (*oṣadhīḥ*)—all the plants also
+- ते (*te*)—by you alone
+- निष्पिध्वरीः (*niṣpidhvarīḥ*)—obtain nourishment and fullness of sap
+- उत (*uta*)—and
+- आपः (*āpaḥ*)—the waters also flow forth from you alone
+- पृथिवी (*pṛthivī*)—the earth
+- ते (*te*)—for you
+- रयिं (*rayiṃ*)—wealth
+- बिभर्ति (*bibharti*)—has borne
+- ते (*te*)—to you
+- सखायः (*sakhāyaḥ*)—we, who are your friends
+- नामभाजः स्याम (*nāmabhājaḥ syāma*)—may we enjoy all these riches **NOTE**
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unique
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of the nature of Parjanya, all the plants also receive nourishment and fullness of sap from you alone. The waters flow forth from you alone. The earth has borne wealth for you. May we, your friends, enjoy all this wealth. The might of the gods is great and unique. **NOTE**
+
+### Printed p. 320
+
+##### English translation (H. H. Wilson)
+The plants, Indra, come to perfection by you : from you the waters (flow) ; earth bears her treasures for you : may we, your friends, be sharers of these blessings : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+Addressing him with the word Indra, it is described that Indra, being the giver of rain to the worlds, performs the acts of producing, nourishing and increasing everything, and is therefore of the nature of Parjanya.
+
+सखायः वामभाजः स्याम (*sakhāyaḥ vāmabhājaḥ syāma*): we, the helpers and praisers by the offering of oblations, would all be sharers of desirable wealth. It is described that the sacrificers wish Indra's welfare by offering oblations to him and by praising him; it is further explained that these sacrificers hope to obtain from Indra the wealth that is necessary for performing sacrifices and the like, and that the great might of the gods is chief and unequalled.
+
+Closing verse and colophon: वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्क भूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये तृतीयाष्टके तृतीयोऽध्यायः समाप्तः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukka bhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye tṛtīyāṣṭake tṛtīyo 'dhyāyaḥ samāptaḥ*) यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यता० देव वागीश्वर नमोऽस्तु ते (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatā0 deva vāgīśvara namo 'stu te*) May there be auspiciousness. Blessing. ओं तस्यत् (*oṃ tasyat*). Here ends the third chapter in the third Aṣṭaka of the Ṛgveda Saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
+
+Om. Śrī. Obeisance to the great lord of the troops. वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) तृतीयाष्टकमध्यस्थः तृतीयोऽध्याय आदरात् । व्याख्यातः सायणार्यॆण चतुर्थो व्याकरिष्यते ॥ (*tṛtīyāṣṭakamadhyasthaḥ tṛtīyo 'dhyāya ādarāt | vyākhyātaḥ sāyaṇāryèṇa caturtho vyākariṣyate ‖*) वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda Saṃhitā with the Sāyaṇa-bhāṣya. The fourth chapter in the third Aṣṭaka. (Sūktas 56-62 of the third Maṇḍala and Sūktas 1-4 of the fourth Maṇḍala.)
+
+In this chapter, beginning with the 56th Sūkta of the third Maṇḍala, the third Maṇḍala ends with the 62nd Sūkta. Although the Viśvedevas are the deity of this Sūkta, the Āditya, the year and its divisions are praised. Because in many places there are no words indicating a definite meaning, and because room is left for many kinds of meanings, it is not possible to say that the seer's intention for many of the matters stated in this Sūkta is just so. Nevertheless, following the Sāyaṇa-bhāṣya, we have given the explanation of the meaning in accordance with Yāska's etymologies.
+
+### Printed p. 322
+## Sūkta 56 (Maṇḍala 3)
+The fifty-sixth Sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न ता मिनंतीत्यष्टर्चं तृतीयं सूक्तं विश्वामित्रस्य वाचः पुत्रस्य ना प्रजापतेरार्षं त्रैष्टुभं वैश्वदेवं । तथा चानुक्रमणिका । न ताष्टाविति। सूक्तविनियोगो
+> लिंगादवगंतव्यः । अस्मिन्सूक्ते प्रायेणादित्यैः सह संवत्सरः स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning न ता मिनंति (*na tā minaṃti*), of eight ṛks, is the third sūkta. Its seer is Prajāpati, the son of Viśvāmitra, or Vācya, son of Vāc; the metre is Triṣṭubh and the deity the Viśvedevas. The Anukramaṇikā says न ताष्टाविति (*na tāṣṭāviti*). The use of the sūkta in ritual is to be understood from the indication (liṅga) of its content. In this sūkta, for the most part, the year is praised together with the Ādityas.
+
+Anuvāda: This Sūkta beginning "na tā minanti" is the third Sūkta in the fifth anuvāka. It has eight ṛks. Its seer is Prajāpati or Vācya, the son of Viśvāmitra; the deity is the Viśvedevas; the metre is Triṣṭubh. The Anukramaṇikā says "na tāṣṭau". The use of the Sūkta is to be understood according to the meaning of the ṛks. In this Sūkta the year is for the most part praised together with the Āditya.
+
+Om. Sūkta 56. Maṇḍala 3; Anuvāka 5; Sūkta 56. Aṣṭaka 3; Adhyāya 4; Varga 1. Number of ṛks in the Sūkta: 8. Seer: Prajāpati Vaiśvāmitra or Vācya. Deity: the Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ता मि॑नंति मा॒यिनो॒ न धीरा॑ व्र॒ता दे॒वानां॑ प्रथ॒मा  ॒॑
+> ध्रु॒वाणि॑ ।  
+> न रोद॑सी अ॒द्रुहा॑ वे॒द्याभि॒र्न पर्व॑ता नि॒नमे॑ तस्थि॒वांसः॑ ॥
+
+> *na tā minaṃti māyino na dhīrā vratā devānāṃ prathamā*  
+> *dhruvāṇi |*  
+> *na rodasī adruhā vedyābhirna parvatā niname tasthivāṃsaḥ ‖*
+
+### Printed p. 323
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ता । मिनंति । मायिनः । न । धीराः । व्रता । देवानां । प्रथमा । ध्रुवाणि ।  
+> न । रोदसी इति । अद्रुहा । वेद्याभिः । न । पर्वताः । निनमे । तसि ऽवांसः ॥ १ ॥
+
+> *na | tā | minaṃti | māyinaḥ | na | dhīrāḥ | vratā | devānāṃ | prathamā | dhruvāṇi |*  
+> *na | rodasī iti | adruhā | vedyābhiḥ | na | parvatāḥ | niname | tasi 'vāṃsaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मायिनः कपटबुद्धुपेता असुरा देवानामिंद्रादीनां प्रथमा प्रथमानि
+> सृष्ट्यनंतरभावीनि ध्रुवाणि स्थिराणि केनापि चालयितुमशक्यानि ता तानि लोके
+> प्रसिद्धानि व्रता व्रतानि लोकपालनादिकर्माणि न मिनंति । न हिंसंति । तथा धीरा
+> विद्वांसोऽपि न हिंसंति । तथाद्रुहा देवमनुष्यादिषु प्रजासु द्रोहवर्जिते
+> रोदसी द्यावापृथिव्य वेद्याभिः स्वाश्रयतया सर्वैर्वेदनीयाभिः प्रजाभिः सहितानि
+> कर्माणि न मिनीतः । तदेतदुपपादयति । तस्थिवांसः पृथिव्यामूर्ध्वतया स्थिताः
+> पर्वता न निनमे । निनमनीया न भवंति । एतदुक्तं भवति । यद्देवमनुष्यादीनां
+> द्यावापृथिव्याधारकतयावस्थापनं यच्च पर्वतादीनामुन्नततयावस्थापनं तदिदं
+> देवानां कर्म । तन्न कोऽप्यन्यथयितुमर्हतीति ॥ मिनंति । मीज् हिंसायामित्यस्य
+> लटि मीनातेर्निगम इति ह्रस्वः । निघातः । वेद्याभिः । वेदनमर्हंति । छंदसि चेति
+> यत्पत्ययः । निनमे । णमु प्रह्वत्व इत्यस्य कृत्यार्थे केन्प्रत्ययः । कृत्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+The मायिनः (*māyinaḥ*) are the asuras, endowed with a deceitful mind. The acts (व्रता (*vratā*)) of the gods, Indra and the rest, that is, the works such as protecting the world, are प्रथमा (*prathamā*), coming first after creation, and ध्रुवाणि (*dhruvāṇi*), firm, impossible for anyone to move, and well known in the world. These the asuras do not मिनंति (*minaṃti*), that is, do not injure; likewise the wise (धीरा (*dhīrā*)) do not injure them. Likewise रोदसी (*rodasī*), heaven and earth, free from hostility (अद्रुहा (*adruhā*)) toward the beings of gods, men and the rest, do not injure the works together with the beings, वेद्याभिः (*vedyābhiḥ*), who are known to all through their dependence on them. He substantiates this: the mountains (पर्वता (*parvatā*)) standing (तस्थिवांसः (*tasthivāṃsaḥ*)) high on the earth are not निनमे (*niname*), they are not to be bowed down. What is meant: the establishing of gods, men and the rest as the supporters of heaven and earth, and the setting up of mountains and the like as lofty, are the works of the gods; no one is able to alter them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मायिनः (*māyinaḥ*)—the deceitful asuras
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- प्रथमा (*prathamā*)—most ancient and chief
+- ध्रुवाणि (*dhruvāṇi*)—firm
+- ता (*tā*)—and well-known
+- व्रता (*vratā*)—acts such as protecting the world
+- न मिनंति (*na minaṃti*)—cannot injure and obstruct
+- धीराः (*dhīrāḥ*)—even the wise and discerning
+- न (मिनंति) (*na (minaṃti)*)—cannot injure
+- अद्रुहा (*adruhā*)—free from hostility
+- रोदसी (*rodasī*)—heaven and earth also
+- वेद्याभिः (*vedyābhiḥ*)—together with their communities of beings, evident to all
+- न (मिनीतः) (*na (minītaḥ)*)—cannot injure
+- तस्थिवांसः (*tasthivāṃsaḥ*)—firmly established
+- पर्वताः (*parvatāḥ*)—mountains
+- न निनमे (*na niname*)—(because they are established by Indra and the others) no one can lower their loftiness
+
+##### भावार्थ (Bhāvārtha)
+
+Neither the deceitful asuras nor the wise and discerning can injure and obstruct the most ancient, firm and well-known acts of the gods, such as protecting the world. Even heaven and earth, free from hostility, cannot obstruct them. The loftiness of the mountains and the like, set high upon the earth, is also the work of Indra and the others, so no one can lower them.
+
+### Printed p. 324
+
+##### English translation (H. H. Wilson)
+Neither the deceptive nor the resolute interrupt the primitive and permanent operations of the gods, nor do the innocuous heaven and earth (interrupt them), nor are the mountains standing (on the earth) to be bowed down.
+
+##### विशेषविषयगळु (Special Topics)
+
+The power of the works of Indra and the others, such as protecting the world, is the matter of this mantra. The affairs of the universe go on in accordance with the law of the seasons (ṛtu-dharma). All activities that proceed in conformity with and in support of this rule are called vrata. The breaking of this vrata of Indra and the others cannot be effected by anyone. However deceitful and powerful the asuras may be, they cannot break these vratas. The wise and steadfast follow this same vrata, so no breach arises from them either. Therefore the affairs of the universe proceed in order just as was resolved before creation; thus the steadiness of the cosmic order is praised.
+
+The cosmic order can be broken by two kinds of power. It may be attempted by demonic power, which hates divine culture and acts with deceit to gain selfish ends. Or poets who are filled with divine power itself, who are wise, and who can independently produce creation in accordance with Brahma's creation, may be able to break it. But there is ample basis for saying that in the affairs of the universe divine power has greater strength than demonic power. Therefore the breaking of the vrata of Indra and the others is not possible for the asuras or persons with demonic power; and since the steadfast poets and the wise have resolved to promote divine culture itself, they too cannot break this law. This is what is suggested in this mantra.
+
+मायिनः (*māyinaḥ*): this word is explained as the asuras endowed with a deceitful mind. The word māyā is used in many places in the Ṛgveda Saṃhitā to denote an extraordinary special power. There are contexts in which it also means an independent creative power. The epithet here denotes the creative power of the gods Indra and the others. Therefore, to understand the purport of the word in the present place, one must know in what contexts the word is used elsewhere in the Ṛgveda Saṃhitā.
+
+Broadly it can be said that this word is used in four main senses: as divine creative power, as merely physical power, as stratagem, or as the art of magic (indrajāla). It can be said to be derived from the root माज् माने (*māj māne*) **NOTE**, which has the sense of creation.
+
 ---
 
-**Progress note:** Done through printed p. 317. pp. 312-317 (batch API)
+**Progress note:** Done through printed p. 324. pp. 318-324 (batch API)
