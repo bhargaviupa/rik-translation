@@ -13524,6 +13524,286 @@ O Ṛbhus, you have a form most excellent and attractive to the sight. This prai
 ##### English translation (H. H. Wilson)
 An excellent and agreeable from has been assumed by you: (this is onr own) praise; Vajas aud Ribhus we grstified (thereby), for you are **NOTE**
 
+### Printed p. 352
+
+##### English translation (H. H. Wilson)
+wise, experienced, and intelligent : such we make you known (to be) by this (our) prayer-
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यम॒स्मभ्यं॑ धि॒षणा॑भ्य॒स्परि॑ वि॒द्वांसो॒ विश्वा॒ नर्या॑णि॒  ॑
+> भोजना ।  
+> द्यु॒मंतं॒ वाजं॒ वृष॑शुष्ममुत्त॒ममा नो॑ र॒यिमृ॑भवस्तक्ष॒ता  ॑
+> वयः ॥ ८ ॥
+
+> *yūyamasmabhyaṃ dhiṣaṇābhyaspari vidvāṃso viśvā naryāṇi*  
+> *bhojanā |*  
+> *dyumaṃtaṃ vājaṃ vṛṣaśuṣmamuttamamā no rayimṛbhavastakṣatā*  
+> *vayaḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । अस्मभ्यं । धिषणाभ्यः । परि । विद्वांसः । विश्वा । नर्याणि । भोजना ।  
+> द्युमंतं । वाजं । वृषशुष्मं । उत्तमं । आ । नः । रयिं । ऋभवः । तक्षत ।  
+> आ । वयः ॥ ८ ॥
+
+> *yūyaṃ | asmabhyaṃ | dhiṣaṇābhyaḥ | pari | vidvāṃsaḥ | viśvā | naryāṇi | bhojanā |*  
+> *dyumaṃtaṃ | vājaṃ | vṛṣaśuṣmaṃ | uttamaṃ | ā | naḥ | rayiṃ | ṛbhavaḥ | takṣata |*  
+> *ā | vayaḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो यूयमस्मभ्यं धिषणाभ्यस्परि स्तुतिभ्यो निमित्तभूताभ्यः ॥
+> परीति पंचम्यर्थानुवादी ॥ यद्वा । अस्मन्मतिभ्योऽधिकानि नर्याणि नृभ्यो हितानि
+> विश्वा सर्वाणि भोजना भोग्यानि विद्वांसो जानंतः संत आ तक्षत । संपादयत ।
+> किंच द्युमंतं दीप्तिमंतं हिरण्यादिरूपं वाजं बलवंतं वृषशुष्मं सेक्त्वाणां
+> बलवतां शोषकमुत्तमं रयिं नोऽस्माकं वयोऽन्नं चा तक्षत हे ऋभवः ॥
+
+##### Gist of the bhāṣya
+
+"O Ṛbhus, you, for us, धिषणाभ्यस्परि (*dhiṣaṇābhyaspari*): for the sake of praises, as their cause." The word परि (*pari*) merely repeats the sense of the ablative ending. Or else: knowing all the things that are beneficial to men (नर्याणि (*naryāṇi*)) and enjoyable (भोजना (*bhojanā*)), more than our minds can reach, procure them (आ तक्षत (*ā takṣata*)), that is, bring them about. Further, O Ṛbhus, procure for us द्युमंतं (*dyumaṃtaṃ*), shining wealth in the form of gold and the like; वाजं (*vājaṃ*), strong; वृषशुष्मं (*vṛṣaśuṣmaṃ*), one that dries up (*śoṣakaṃ*) the strong who shower (*sektṛ*); the best wealth (रयिं (*rayiṃ*)), and also food (वयः (*vayaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- यूयं (*yūyaṃ*)—you
+- धिषणाभ्यःपरि (*dhiṣaṇābhyaḥpari*)—the fitting recompense for the weight of our praise
+- नर्याणि (*naryāṇi*)—beneficial to men
+- विश्वा (*viśvā*)—all
+- भोजना (*bhojanā*)—objects of enjoyment
+- विद्वांसः (*vidvāṃsaḥ*)—knowing
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- आ तक्षत (*ā takṣata*)—procure and give
+- नः (*naḥ*)—to us
+- द्युमंतं (*dyumaṃtaṃ*)—radiant
+- वाजं (*vājaṃ*)—powerful
+- वृषशुष्मं (*vṛṣaśuṣmaṃ*)—drying up powerful enemies
+- उत्तमं (*uttamaṃ*)—most excellent
+- रयिं (*rayiṃ*)—wealth
+- वयः (*vayaḥ*)—food
+- आ (तक्षत) (*ā (takṣata)*)—procure and give
+
+### Printed p. 353
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, knowing all the objects of enjoyment that are the fitting recompense for the worth of our praise, that are beneficial to men and complete, procure them for us. And procure for us wealth and food that are radiant, powerful, drying up powerful enemies, and most excellent.
+
+##### English translation (H. H. Wilson)
+You are wise, (bestow) upon us, in requital of our praises, all enjoyments that are good for man, and fabricate fo us, Ribhus, riches and food, resplendent, invigorating, overpowering (foes), and most excellent.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह प्र॒जामि॒ह र॒यिं ररा॑ण इ॒ह श्रवो॑ वी॒रव॑त्तक्षता नः ।  
+> येन॑ व॒यं चि॒तये॒मात्य॒न्यांतं वाजं॑ चि॒त्रमृ॑भवो ददा  
+> नः ॥ ९ ॥
+
+> *iha prajāmiha rayiṃ rarāṇa iha śravo vīravattakṣatā naḥ |*  
+> *yena vayaṃ citayemātyanyāṃtaṃ vājaṃ citramṛbhavo dadā*  
+> *naḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । प्रजां । इह । रयिं । रराणः । इह । श्रवः । वीरवत् । तक्षत । नः ।  
+> येन । वयं । चितयेम । अति । अन्यान् । तं । वाजं ] चित्रं । ऋभवः । दद । नः ॥९॥
+
+> *iha | prajāṃ | iha | rayiṃ | rarāṇaḥ | iha | śravaḥ | vīravat | takṣata | naḥ |*  
+> *yena | vayaṃ | citayema | ati | anyān | taṃ | vājaṃ ] citraṃ | ṛbhavaḥ | dada | naḥ ‖9‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नो अस्माकमिह यज्ञे रराणा रममाणाः प्रजां पुत्रपौत्रादिरूपां तक्षत ।
+> संपादयत । इहैव यज्ञे रयिं च तक्षत । इहैव यज्ञे श्रवो यशो वीरवद्वीरैर्भृत्यादिभिरुपेतं तक्षत । किंच वयं येन वाजेनान्यानस्मत्समानति चितयेम ।
+> अतिक्रम्य ज्ञायेमहि । तं चित्रं चायनीयं वाजमन्नं हे ऋभवो नो दद ।
+> अस्मभ्यं दत्त ॥
+> 23
+
+##### Gist of the bhāṣya
+
+Delighting (रराणा (*rarāṇā*), रममाणाः (*ramamāṇāḥ*)) here in our sacrifice, procure for us (नो (*no*)) progeny (प्रजां (*prajāṃ*)) in the form of sons, grandsons and the like. In this very sacrifice procure wealth also. In this very sacrifice procure fame (श्रवः (*śravaḥ*)) that is वीरवत् (*vīravat*), accompanied by heroes, servants and the like. Further, that food (वाजं (*vājaṃ*)) by which we may surpass and be known as exceeding others (अन्यान् (*anyān*)), those like ourselves (अति चितयेम (*ati citayema*)): that wonderful (चित्रं (*citraṃ*), चायनीयं (*cāyanīyaṃ*)) food, O Ṛbhus, give (दद (*dada*)) to us.
+
+### Printed p. 354
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- नः (*naḥ*)—to us
+- इह (*iha*)—in this sacrifice
+- रराणाः (*rarāṇāḥ*)—delighting
+- प्रजां (*prajāṃ*)—progeny in the form of sons, grandsons and the like
+- तक्षत (*takṣata*)—procure and give
+- इह (*iha*)—in this very sacrifice
+- रयिं च (*rayiṃ ca*)—and provide wealth
+- इह (*iha*)—in this very sacrifice
+- श्रवः (*śravaḥ*)—fame also
+- वीरवत् (*vīravat*)—powerful servants and the like (procure and give)
+- वयं (*vayaṃ*)—we, the sacrificers (us)
+- येन (*yena*)—by which food
+- अन्यान् (*anyān*)—all enemies
+- अति चितयेम (*ati citayema*)—whether we shall be known as possessing wealth that surpasses
+- तं (*taṃ*)—such
+- चित्रं (*citraṃ*)—attractive
+- वाजं (*vājaṃ*)—food
+- नः (*naḥ*)—to us
+- दद (*dada*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, procure in this sacrifice progeny in the form of sons, grandsons and the like who will delight, and wealth, fame, and powerful servants and the like. Give us such attractive food, the wealth of food by which we, the sacrificers, shall be known to stand in a condition higher than that of our enemies.
+
+##### English translation (H. H. Wilson)
+Gratified (by our worship), fabricate for us, on this occasion, progeny, wealth, and reputation, with numerous adherents : grant to us, Ribhus, abundant sustenance wherewith we may greatly excel others.
+
+## Sūkta 37 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उप नो वाजा इत्यष्टर्चं पंचमं सूक्तं वामदेवस्यार्षमार्भवं
+> त्रैष्टुभं । पंचम्या द्याश्चतस्रोऽनुष्टुभः । तथा चानुक्रांतं । उप नोऽष्टौ
+> चतुरनुष्टुबंतमिति ॥ व्यूढे दशरात्रे षष्ठेऽहनि वैश्वदेवशस्त्र आद्याश्चतस्रः शस्याः ।
+> उप नो वाजा इति त्रयोदशार्भवं चतस्रश्च । आ. ८-८ । इति हि सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+The eight-verse sūkta beginning उप नो वाजा (*upa no vājā*) is the fifth sūkta. Its seer is Vāmadeva; its deity is the Ṛbhus; its metre is Triṣṭubh, and four of its verses, beginning from the fifth, are Anuṣṭubh. So the Anukramaṇī: उप नोऽष्टौ चतुरनुष्टुबंतमिति (*upa no 'ṣṭau caturanuṣṭubaṃtamiti*). Viniyoga: in the Vyūḍha daśarāta, on the sixth day, the first four verses are to be recited in the Vaiśvadeva śastra. For it is prescribed by the sūtra उप नो वाजा इति त्रयोदशार्भवं चतस्रश्च । आ. ८-८ । (*upa no vājā iti trayodaśārbhavaṃ catasraśca | ā. 8-8 |*) (Ā. Sū. 8-8).
+
+##### Anuvāda
+
+This sūkta beginning उप नो वाजाः (*upa no vājāḥ*) is the fifth sūkta in the fourth anuvāka. It contains eight Ṛks. Vāmadeva is the seer of this sūkta; the Ṛbhus are the deity; the metre is Triṣṭubh, and the last four Ṛks are in Anuṣṭubh metre. In the Anukramaṇī it is said: उप नोऽष्टौ चतुरनुष्टुबंतं (*upa no 'ṣṭau caturanuṣṭubaṃtaṃ*). In the ten-day sacrifice called VyūḔha, when the Vaiśvadeva śastra mantras are recited on the sixth
+
+### Printed p. 355
+
+day, the first four Ṛks of this sūkta are to be recited; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra उप नो वाजा इति त्रयोदशार्भवं चतस्रश्च (*upa no vājā iti trayodaśārbhavaṃ catasraśca*) (8-8).
+
+Sūkta 37. Maṇḍala 4; Anuvāka 4; Sūkta 37. Aṣṭaka 3; Adhyāya 7; Varga 9, 10. Number of Ṛks in the sūkta: 8. Ṛṣi: Vāmadeva. Devatā: Ṛbhus. Chandas: 1–4 Triṣṭubh; 5–8 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नो वाजा अध्व॒रमृ॑भुक्षा॒ देवा॑ या॒त प॒थिभि॑र्देव॒  ॑
+> यान्वैः ।  
+> यथा॑ य॒ज्ञं मनु॑षो वि॒क्ष्वा॒३॒॑ ३ सु द॑धि॒ध्वे र॑ण्वाः  
+> सु॒दिने॒ष्वह्नां॑ ॥ १ ॥
+
+> *upa no vājā adhvaramṛbhukṣā devā yāta pathibhirdeva*  
+> *yānvaiḥ |*  
+> *yathā yajñaṃ manuṣo vikṣvā 3 su dadhidhve raṇvāḥ*  
+> *sudineṣvahnāṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । वाजाः । अध्वरं । ऋभुक्षाः । देवाः । यात । पथिभिः । देवयान्नैः ।  
+> यथा । यज्ञं । मनुषः । विक्षु । आसु । दधिध्वे । रण्वाः । सुदिनेषु । अह्नां ॥ १ ॥
+
+> *upa | naḥ | vājāḥ | adhvaraṃ | ṛbhukṣāḥ | devāḥ | yāta | pathibhiḥ | devayānnaiḥ |*  
+> *yathā | yajñaṃ | manuṣaḥ | vikṣu | āsu | dadhidhve | raṇvāḥ | sudineṣu | ahnāṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजा हे ऋभुक्षा ऋभवो हे देवा नोऽध्वरं यागमुप यात ।
+> उपगच्छत । देवयानैर्देवैर्गंतवैः पथिभिर्मार्गैः । यथा येन प्रकारेण
+> मनुषो मनोः संबंधिनीष्वासु विक्षु प्रजासु यजमानेषु मध्यॆ हे रण्वा
+> रमणीया ऋभवोऽह्नां सुदिनेषु सुदिनत्वनिमित्तेषु यज्ञमस्मदीयं दधिध्वै !
+> धारयथ । यथा येन प्रकारेण यज्ञमागत्य सुदिनत्वं कुरुथ तथा यज्ञमायातेति ॥
+
+##### Gist of the bhāṣya
+
+O Vājas, O Ṛbhukṣās, O Ṛbhus, O gods, come (यात (*yāta*), उपगच्छत (*upagacchata*)) to our sacrifice (अध्वरं (*adhvaraṃ*)) by the paths (पथिभिः (*pathibhiḥ*)) on which the gods travel (देवयानैः (*devayānaiḥ*)). In the way in which, among these peoples (विक्षु (*vikṣu*)) of Manu, the sacrificers, O delightful (रण्वाः (*raṇvāḥ*)) Ṛbhus, you uphold (दधिध्वै (*dadhidhvai*), धारयथ (*dhārayatha*)) our sacrifice for the sake of the fair days (सुदिनेषु (*sudineṣu*)) of the days (अह्नां (*ahnāṃ*)); that is, in the way in which, having come to the sacrifice, you make the days fair, come in that way to the sacrifice.
+
+### Printed p. 356
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रण्णाः (*raṇṇāḥ*)—possessed of delightful form
+- देवाः (*devāḥ*)—of divine nature
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—O Ṛbhus
+- यथा (*yathā*)—in the way
+- मनुषः (*manuṣaḥ*)—related to Manu
+- आसु विक्षु (*āsu vikṣu*)—among these peoples
+- अह्नां (*ahnāṃ*)—of the days
+- सुदिनेषु (*sudineṣu*)—for the attainment of fairness
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- दधिध्वै (*dadhidhvai*)—in the manner in which you uphold
+- देवयानैः (*devayānaiḥ*)—on which the gods travel
+- पथिभिः (*pathibhiḥ*)—by paths
+- नः (*naḥ*)—our
+- आध्वरं (*ādhvaraṃ*)—to the sacrifice
+- उप यात (*upa yāta*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Vājas and Ṛbhus, possessed of delightful form and divine in nature, in the way in which you uphold our sacrifice so that all the days of these peoples, the descendants of Manu, may become fair, in that way come to our sacrifice by the paths on which the gods travel.
+
+##### English translation (H. H. Wilson)
+Divine Vajas, Ribhus, come to our sacrifice by the path travelled by the gods, inasmuch as you, gracious (Ribhus), have maintained sacrifice amongst the people, (the progeny) of Manu, for (the sake of) securing the prosperous course of days.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते वो॑ हृ॒दे मन॑से संतु य॒ज्ञा जुष्टा॑सो अ॒द्य धृ॒तनि॑र्णिजो गुः ।  
+> प्र वः॑ सु॒तासो॑ हरयंत पू॒र्णाः क्रत्वे॒ दक्षा॑य हर्षयंत  ॒
+> पीताः ॥ २ ॥
+
+> *te vo hṛde manase saṃtu yajñā juṣṭāso adya dhṛtanirṇijo guḥ |*  
+> *pra vaḥ sutāso harayaṃta pūrṇāḥ kratve dakṣāya harṣayaṃta*  
+> *pītāḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । वः । हृदे । मनसे । संतु । यज्ञाः । जुष्टासः । अद्य । घृतनिर्निजः । गुः ।  
+> प्र । वः । सुतासः । हरयंत । पूर्णाः । क्रत्वे । दक्षाय । हर्षयंत । पीताः ॥ २ ॥
+
+> *te | vaḥ | hṛde | manase | saṃtu | yajñāḥ | juṣṭāsaḥ | adya | ghṛtanirnijaḥ | guḥ |*  
+> *pra | vaḥ | sutāsaḥ | harayaṃta | pūrṇāḥ | kratve | dakṣāya | harṣayaṃta | pītāḥ ‖ 2 ‖*
+
+### Printed p. 357
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्यागदिने त एते यज्ञा यागसाधनाः सोमा वो हृदे हृदयाय
+> मनसे तत्प्रियते संतु । भवंतु । अद्यास्मिन्‌दिने जुष्टासः पर्याप्ताः सोमा
+> घृतनिर्णिजो मिश्रणद्रव्येण दीप्तरूपा गुः । गच्छंतु युष्मद्धृदयं । सुतासोऽभिसुताः सोमाश्चमसेषु पूर्णा वो युष्मदर्थं प्र हरयंत । प्रह्रियंते ।
+> यद्वा । हर्यतेः कांतिकर्मण इदं रूपं । प्रकर्षेण वो युष्मान् कामयंते । क्रत्वे क्रतवे कर्मणे दक्षयोत्साहाय पीता हर्षयंत । हर्षयंतु ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day of the sacrifice, may these (ते (*te*)) यज्ञाः (*yajñāḥ*), the Somas that are the means of the sacrifice, be for your heart (हृदे (*hṛde*)) and mind (मनसे (*manase*)), that is, dear to them. Today the Somas, sufficient (जुष्टासः (*juṣṭāsaḥ*), पर्याप्ताः (*paryāptāḥ*)), bright (दीप्तरूपा (*dīptarūpā*)) through the mixed substance, ghee (घृतनिर्निजः (*ghṛtanirnijaḥ*)), have gone (गुः (*guḥ*)): may they go to your heart. The pressed Somas (सुतासः (*sutāsaḥ*)), full in the cups (चमसेषु (*camaseṣu*)), are sent forth (प्र हरयंत (*pra harayaṃta*), प्रह्रियंते (*prahriyaṃte*)) for you. Or else: this form comes from हर्यतेः (*haryateḥ*), a root of the sense of desiring (कांतिकर्मण (*kāṃtikarmaṇa*)): they greatly desire you. Drunk (पीताः (*pītāḥ*)), may they gladden (हर्षयंत (*harṣayaṃta*)) you for क्रत्वे (*kratve*), the work (कर्मणे (*karmaṇe*)), and for दक्षाय (*dakṣāya*), vigour (*utsāhāya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- अद्य (*adya*)—at this time of the sacrifice
+- ते यज्ञाः (*te yajñāḥ*)—these Soma juices, the means of the sacrifice
+- वः (*vaḥ*)—your
+- हृदे (*hṛde*)—to the heart
+- मनसे (*manase*)—and to the mind
+- संतु (*saṃtu*)—may they be satisfying
+- जुष्टासः (*juṣṭāsaḥ*)—Somas sufficient to produce satisfaction
+- फृतनिर्णिजः (*phṛtanirṇijaḥ*)—shining because they are mixed with ghee
+- गुः (*guḥ*)—may they enter your heart
+- सुतासः (*sutāsaḥ*)—pressed Soma juices
+- पूर्णाः (*pūrṇāḥ*)—being full in the cup-vessels
+- वः (*vaḥ*)—toward you
+- प्र हरयंत (*pra harayaṃta*)—flow
+- क्रत्वे (*kratve*)—for the accomplishment of our rite
+- दक्षाय (*dakṣāya*)—for the increase of strength
+- पीताः (*pītāḥ*)—Somas that have been drunk
+- हर्षयंत (*harṣayaṃta*)—may they bring you delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, at this time of the sacrifice may these Soma juices, the means of the sacrifice, be satisfying to your heart and mind. May the Somas, sufficient to produce satisfaction, shining because they are mixed with ghee, enter your heart. The pressed Somas, full in the cup-vessels, flow toward you. May the Somas that have been drunk bring you delight, for the accomplishment of our rite and the increase of strength.
+
+##### English translation (H. H. Wilson)
+May these sacrifices be (acceptable) to you in heart and mind : may to-day the sufficient (juices) mixed with butter flow to you : the full libations are prepared for you : may they, when drank, animate you for glorious deeds.
+
 ---
 
-**Progress note:** Done through printed p. 351. pp. 346-351 (batch API)
+**Progress note:** Done through printed p. 357. pp. 352-357 (batch API)
