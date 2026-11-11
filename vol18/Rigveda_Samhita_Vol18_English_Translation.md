@@ -24170,6 +24170,299 @@ Sūkta 57. Maṇḍala 4; Anuvāka 5; Sūkta 57. Aṣṭaka 3; Adhyāya 8; Varga
 > *kṣetrasya | patinā | vayaṃ | hitena iva | jayāmasi |*  
 > *gāṃ | aśvaṃ | poṣayitu | ā | saḥ | naḥ | mṛḷāti | īdṛśe ‖ 1 ‖*
 
+### Printed p. 623
+
+#### Ṛk 1 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं यजमानाः क्षेत्रस्य पतिना देवेन ॥ रुद्रं क्षेत्रपतिं प्राहुः केचिदग्निमथापरे । स्वतंत्र एव ना कश्चित्क्षेत्रस्य पतिरुच्यते ॥ हितेनेव । इवशब्द एवार्थे।
+> सर्वप्राणिहितेनैव तेन । अथवा मित्रेणेव । यथा सख्युः साहाय्ये सन् स्वकार्यं
+> साधयति तद्वत् । जयामसि । जयामः क्षेत्रं । स देवो गामश्वं च पोषयित्तु
+> पोषयितृ गवाश्वलक्षणं धनमा हरत्विति शेषः । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः। स एव देवो नोऽस्मानीदृश उक्तलक्षणे धने दातव्ये सति मृळाति। सुखयति।
+> क्षेत्रस्य पतिनेत्यादिनिरुक्तं । १०-१५ । जानीयात् ॥
+
+##### Gist of the bhāṣya
+
+"We" means we the sacrificers; "with the lord of the field" means with the deva. Sāyaṇa says that some call Rudra the lord of the field (kṣetrapati) and others Agni, while some independent deity is also said to be the lord of the field. In हितेनेव (*hiteneva*) the word इव (*iva*) is used in the sense of एव (*eva*) ("indeed"): by him who is indeed beneficial to all beings. Or else it means "as with a friend": as one who has a friend's help accomplishes his own purpose, so do we. जयामसि (*jayāmasi*) means "we win the field". May that deva nourish cow and horse, that is, bring wealth consisting of cows and horses; "may he bring" is the word to be supplied, since the preverb is heard and a fitting verb must be understood. That same deva makes us happy when such wealth, of the kind described, is to be given. Sāyaṇa adds that the Nirukta, beginning क्षेत्रस्य पतिन (*kṣetrasya patina*), is to be consulted (Ni. 10-15).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we, the performers of the sacrifice
+- हितेनेव (*hiteneva*)—like one who is a friend (to us)
+- क्षेत्रस्य पतिना (*kṣetrasya patinā*)—with the help of the deva, lord of the field
+- जयामसि (*jayāmasi*)—we obtain victory
+- सः (*saḥ*)—that same deva
+- पोषयित्सु (*poṣayitsu*)—nourishing
+- गां (*gāṃ*)—cows
+- अश्वं (*aśvaṃ*)—and horses
+- नः (*naḥ*)—to us
+- आ (हरतु) (*ā (haratu)*)—may he bring and supply
+- ईदृशे (*īdṛśe*)—by gifts of this kind
+- मृळाति (*mṛḷāti*)—he makes (us) happy
+
+##### भावार्थ (Bhāvārtha)
+
+We, the performers of the sacrifice, obtain victory with the help of the deva, the lord of the field, who is like a friend to us. May that same deva bring and supply to us nourishing cows and horses. By gifts of this kind he makes us happy.
+
+##### English translation (H. H. Wilson)
+With the master of the field, our friend, we triumph : may he bestow upon us cattle, horses, nourishment, for by such (gifts) he maks us happy.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present sūkta there is praise addressed to four deities: Kṣetrapati, Śuna, Śunāsīra and Sītā. The sūkta has 8 Ṛks in all. The first three are addressed to Kṣetrapati. The fourth has Śuna as its deity. The fifth and the eighth have Śunāsīra as deity. The sixth and the seventh have Sītā as deity.
+
+Of these, the first mantra begins with the opening words क्षेत्रस्य पतिना वयं (*kṣetrasya patinā vayaṃ*). In beginning the bhāṣya on this mantra, Sāyaṇa tried to explain what the words क्षेत्रस्य पतिना (*kṣetrasya patinā*) mean
+
+### Printed p. 624
+
+and who the lord of the field is. Unable to give a definitive meaning, he said: रुद्रं क्षेत्रपतिं प्राहुः केचिदग्निमथापरे । स्वतंत्र एव वा कश्चित्क्षेत्रस्य पतिरुच्यते (*rudraṃ kṣetrapatiṃ prāhuḥ kecidagnimathāpare | svataṃtra eva vā kaścitkṣetrasya patirucyate*). Some take "lord of the field" to mean Rudra; others take it to mean Agni; and there is also the view that it is a word denoting an independent deity called Kṣetrapati. Thus he stated the differing views. Moreover, by citing the Nirukta passage क्षेत्रस्य पतिना (*kṣetrasya patinā*) he indicated that the explanation of this word is found there. The author of the Nirukta, explaining the meaning of this word, says:
+
+क्षेत्रस्य पतिः । क्षेत्रं क्षियतेः निवासकर्मणः । तस्य पाता ना पालयिता वा । तस्यैषा भवति । (*kṣetrasya patiḥ | kṣetraṃ kṣiyateḥ nivāsakarmaṇaḥ | tasya pātā nā pālayitā vā | tasyaiṣā bhavati |*) (Ni. 10-15)
+
+The word kṣetra means a dwelling place. Since he is its protector, the name Kṣetrapati is well known. Having given this etymology of the word, the Nirukta author cites the very mantra in hand.
+
+Regarding who the deity called Kṣetrapati is, the bhāṣyakāra has said:
+रुद्रं क्षेत्रपतिं प्राहुः केचिदग्निमथापरे । स्वतंत्र एव ना कश्चित् क्षेत्रस्य पतिरुच्यते॥ (*rudraṃ kṣetrapatiṃ prāhuḥ kecidagnimathāpare | svataṃtra eva nā kaścit kṣetrasya patirucyate‖*)
+That is, some call Rudra himself Kṣetrapati; some say Agni; and others say that the deity named Kṣetrapati is an independent, separate deity. For example, Yāska has given the etymology for this very Ṛk:
+क्षेत्रस्य पतिः । क्षेत्रं क्षीयतेर्निवासकर्मणस्तस्य पाता वा पालयिता वा । (*kṣetrasya patiḥ | kṣetraṃ kṣīyaternivāsakarmaṇastasya pātā vā pālayitā vā |*) (Ni. 10-14) **NOTE**
+The word kṣetra, formed from the root kṣi (kṣay), "to dwell", means a dwelling place. The master of that dwelling place, or the one who protects it, is called Kṣetrapati.
+
+तस्यैषा भवति । (*tasyaiṣā bhavati |*) (said twice in the print)
+क्षेत्रस्य पतिना वयं हितेनेव जयामसि । गामश्वं पोषयित्वा स नो मृळातीदृशे ॥ (*kṣetrasya patinā vayaṃ hiteneva jayāmasi | gāmaśvaṃ poṣayitvā sa no mṛḷātīdṛśe ‖*) (Ṛ. Saṃ. 4-57-1)
+क्षेत्रस्य पतिना वयं सुहितेनेव जयामो गामश्वं पुष्टं पोषयित्य चाहरेति । स नो मृळातीदृशे । बलेन वा धनेन वा । मृळतिर्दानकर्मा पूजाकर्मा वा । (*kṣetrasya patinā vayaṃ suhiteneva jayāmo gāmaśvaṃ puṣṭaṃ poṣayitya cāhareti | sa no mṛḷātīdṛśe | balena vā dhanena vā | mṛḷatirdānakarmā pūjākarmā vā |*) (Ni. 14-15) **NOTE**
+
+### Printed p. 625
+
+Just as one receives from a friend who is dear to us, so we shall receive wealth and the like from Kṣetrapati. O nourishing Kṣetrapati, bring us a well-fed cow and a horse. By giving us strength and wealth he will make us happy in this way. The root mṛḍ has the meaning "to give" or "to worship". Now another example is given:
+तस्यैषापरा भवति । (*tasyaiṣāparā bhavati |*)
+
+**Special Topics (continued)**
+
+> क्षेत्रस्य पते मधुमंतमूर्मिं धेनुरिव पयो अस्मासु धुक्षु ।
+> मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयंतु ॥
+> (ऋ. सं. ४-५७-२)
+> क्षेत्रस्य पते मधुमंतमूर्मिं धेनुरिव पयोऽस्मासु धुक्षेवति मधुश्चुतं
+> घृतमिवोदकं सुपूतमृतस्य नः पातारो वा पालयितारो वा मृळयंतु मृळयतिरुपदयाकर्मा पूजाकर्मा वा ॥
+> (नि. १०-१३)
+> ऎलै निवासस्थानगळिगॆ अधिपतियाद क्षेत्रपतिये, हसुवु नमगॆ हालन्नु करॆदु ऒदगिसिकॊडुवंतॆ
+> जेनुतुप्पदंतॆ मधुरवागिरुवुदु; धृतदंतॆ शुद्धवागिरुवुदू आद श्रेष्ठवाद उदकवन्नु नमगॆ
+> ऒदगिसिकॊडु. नीनु उदकक्कॆ पालकनु. इल्लि उपयोगिसिरुव मृळयति धातुविगॆ रक्षिसु अथवा
+> पूजिसु ऎंबर्थविरुवुदु.
+> तद्यत्समान्यामृचि समानाभिव्याहारं भवति तज्जामि भवतीत्येकं मधुमंतं
+> मधुश्चुतमिति यथा । यदेव समाने पादे समानाभिव्याहारं भवति
+> तज्जामि भवतीत्यपरं-हिरण्यरूपः स हिरण्यसंदृक् इति यथा । यथा कथा
+> च विशेषोs जामि भवतीत्यपः०-मंडूका इवोदकान्मंडूका उदकादिव
+> इति यथा ॥ (नि. १०-१६)
+> मेलिन उदाहरणॆयल्लि ऋक्किन पूर्वार्धदल्लि मधुमंतं ऎंब शब्दविरुवुदु. उत्तरार्धदल्लि
+> मधुश्चुतं ऎंब शब्दविरुवुदु. ई रीति समानार्थवुळ्ळ (ऒंदे अर्थवुळ्ळ) ऎरडुशब्दगळुळ्ळ
+> ऋक्किगॆ अथवा मंत्रक्कॆ जामि (संबंध) ऎंदु हॆसरु ऎंदु कॆलवरु हेळुवरु. मत्तॆ कॆलवरु
+> ऒंदे पाददल्लि ऒंदे अर्थवुळ्ळ ऎरडु शब्दगळिद्दरॆ अदु जामियॆंदु हेळुवरु. हिरण्यरूपः
+> स हिरण्यसंदृक् ऎंब पाददल्लिरुवंतॆ. मत्तॆ कॆलवरु ऒंदु ऋक्किनल्लि अथवा ऒंदु पाददल्लि
+> समानार्थविरुव (ऒंदे अर्थविरुव) बेरॆबेरॆ शब्दगळिद्दरू अथवा ऒंदे विधवाद शब्दगळ
+> पुनरावर्ति इद्दरू अदु जामियागुवुदिल्ल. ऎंदरॆ समानार्थवन्नु सूचिसुवुदिल्ल. हेगॆंदरॆ—
+
+> *kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo asmāsu dhukṣu |*
+> *madhuścutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayaṃtu ‖*
+> *(ṛ. saṃ. 4-57-2)*
+> *kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo 'smāsu dhukṣevati madhuścutaṃ*
+> *ghṛtamivodakaṃ supūtamṛtasya naḥ pātāro vā pālayitāro vā mṛḷayaṃtu mṛḷayatirupadayākarmā pūjākarmā vā ‖*
+> *(ni. 10-13)*
+> *èlai nivāsasthānagaḷigè adhipatiyāda kṣetrapatiye, hasuvu namagè hālannu karèdu òdagisikòḍuvaṃtè*
+> *jenutuppadaṃtè madhuravāgiruvudu; dhṛtadaṃtè śuddhavāgiruvudū āda śreṣṭhavāda udakavannu namagè*
+> *òdagisikòḍu. nīnu udakakkè pālakanu. illi upayogisiruva mṛḷayati dhātuvigè rakṣisu athavā*
+> *pūjisu èṃbarthaviruvudu.*
+> *tadyatsamānyāmṛci samānābhivyāhāraṃ bhavati tajjāmi bhavatītyekaṃ madhumaṃtaṃ*
+> *madhuścutamiti yathā | yadeva samāne pāde samānābhivyāhāraṃ bhavati*
+> *tajjāmi bhavatītyaparaṃ-hiraṇyarūpaḥ sa hiraṇyasaṃdṛk iti yathā | yathā kathā*
+> *ca viśeṣos jāmi bhavatītyapaḥ0-maṃḍūkā ivodakānmaṃḍūkā udakādiva*
+> *iti yathā ‖ (ni. 10-16)*
+> *melina udāharaṇèyalli ṛkkina pūrvārdhadalli madhumaṃtaṃ èṃba śabdaviruvudu. uttarārdhadalli*
+> *madhuścutaṃ èṃba śabdaviruvudu. ī rīti samānārthavuḷḷa (òṃde arthavuḷḷa) èraḍuśabdagaḷuḷḷa*
+> *ṛkkigè athavā maṃtrakkè jāmi (saṃbaṃdha) èṃdu hèsaru èṃdu kèlavaru heḷuvaru. mattè kèlavaru*
+> *òṃde pādadalli òṃde arthavuḷḷa èraḍu śabdagaḷiddarè adu jāmiyèṃdu heḷuvaru. hiraṇyarūpaḥ*
+> *sa hiraṇyasaṃdṛk èṃba pādadalliruvaṃtè. mattè kèlavaru òṃdu ṛkkinalli athavā òṃdu pādadalli*
+> *samānārthaviruva (òṃde arthaviruva) berèberè śabdagaḷiddarū athavā òṃde vidhavāda śabdagaḷa*
+> *punarāvarti iddarū adu jāmiyāguvudilla. èṃdarè samānārthavannu sūcisuvudilla. hegèṃdarè—*
+> 40
+
+**NOTE**
+
+Translation of the Kannada inside this block: O Kṣetrapati, lord of dwelling places, as a cow yields and supplies milk to us, supply us with excellent water, sweet like honey and pure like ghee. You are the protector of the water. The root mṛḍ used here has the meaning "protect" or "worship".
+
+In the example above, the word मधुमंतं (*madhumaṃtaṃ*) stands in the first half of the Ṛk, and the word मधुश्चुतं (*madhuścutaṃ*) in the second half. A Ṛk or mantra having two words of the same meaning in this way is called jāmi (relation), some say. Others say that if there are two words of one meaning in a single pāda, it is jāmi, as in the pāda हिरण्यरूपः स हिरण्यसंदृक् (*hiraṇyarūpaḥ sa hiraṇyasaṃdṛk*). Others say that even if there are different words of the same meaning in one Ṛk or one pāda, or even repetition of words of the same kind, it does not become jāmi; that is, it does not indicate sameness of meaning. For example (Ni. 10-16)—
+
+### Printed p. 626
+
+as in the Ṛk मंडूका इवोदकान्मंडूका उदकादिव (*maṃḍūkā ivodakānmaṃḍūkā udakādiva*). Even though there is repetition of words of the same meaning here, it is the view of still others that this repetition (abhyāsa) serves to emphasise the intention of the sentence.
+
+> मंडूका इवोदकान्मंडूका उदकादिव ऎंब ऋक्किनल्लिरुवंतॆ. इल्लि समानार्थशब्दगळ
+> पुनरावर्ति इद्दरू ई पुनरावर्तियु (अभ्यासवु) वाक्यद अभिप्रायवन्नु ऒत्ति हेळुवुदक्कागि
+> प्रयुक्तवागिरुवुदु ऎंदु मत्तॆ कॆलवर मतवु.
+> ‘ क्षेत्रस्यपति ’ ऎंब देवतॆयू वास्तोप्पतिय जातिगॆ सेरिदुदु. ई देवतॆ भूरक्षक. ४-५७ नॆय सूक्तद मॊदलनॆय मूरु मंत्रगळल्लि ईतनिंद, गोवुगळु, अश्वगळु मत्तु भूम्याकाशगळु, वृक्षगळु, नीरु इवुगळल्लि माधुर्य मॊदलादुवुगळु अपेक्षितवागिवॆ. विश्वे देवताकवाद सूक्तवॊंदरल्लि (७-३५-१०) सवितृ, उषोदेवियरु, पर्जन्य, इवरॊडनॆ ईतनू समृद्धिदायकनागबेकॆंदु प्रार्थितनागिद्दानॆ १८-६-१३ रल्लि आराधकरु ईतनन्नु तम्म नॆरॆयल्लिर बेकॆंदु आशिसिद्दारॆ. भूमियन्नु उळुवुदक्कॆ प्रारंभिसुवाग ई देवतॆयन्नु पूजिसबेकु अथवा देवतॆयन्नुन्नुद्देशिसि होममाडबेकॆंदु हेळिदॆ. (आ. गृ. सू. २-१०-४; शां. गृ. सू. ४-१३-५) व्यवसाय संबंधवाद देवतॆगळन्नु स्तुतिसुव सूक्तवॊंदरल्लि (४-५७-६) सीता (नेगिलुगॆरॆ) ऎंब देवतॆयिंद उत्तमवाद बॆळॆयु प्रार्थितवागिदॆ. पारस्कर गृह्यसूत्रदल्लि (पा. गृ. सू. २-१७-९) इदे सीतॆयु इंद्रन पत्नि यॆंदू मत्तु अवळिगॆ तंदॆय हॆसरिन आधारद मेलॆ सावित्रि ऎंदु हॆसरॆंदू (तै. ब्रा. २-३-१०-१) हेळिदॆ. इदे पारस्कर गृह्यसूत्रदल्लि उश्वरा (व्यवसायक्कॆ अन्न कूलवागिरुव जमीनु) ऎंबॊंदु देवतॆ उक्तवागिदॆ.
+> निरुक्तकारर निर्वचनदंतॆ क्षेत्रपतियु गृहपतियू आगबहुदादुदरिंद अग्नियॆंदू अर्थ
+> वागबहुदु. आदरॆ क्षेत्रशब्दद प्रयोगवु कृषिसंबंधवागिये प्रकृतवाद मंत्रदल्लिरुवुदरिंद
+> क्षेत्रपतिशब्दवु प्रत्येकवाद देवतॆयॆंदे अर्थमाडुवुदु उचितवागिरुत्तदॆ. कॆलवॆडॆगळल्लि
+> सायणर भाष्यवू ई अर्थवन्ने समर्थिसुत्तदॆ. उदाहरणॆगॆ,
+> दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया ।
+> क्षेत्रस्य पतिं प्रतिवेशमीमहे विश्वान्नेवा अमृता अप्रयुच्छतः ॥
+> (ऋ. सं. १०-६६-१३)
+> देवतात्मरू, होतृरूपरू आद अग्न्यादित्यरन्नू, यज्ञमार्गवन्नू सह नानु अनुसरिसुत्तेनॆ.
+> क्षेत्रपतियन्नू, प्रमादरहितराद इतर ऎल्ला देवतॆगळन्नू नानु धनार्थवागि पूजिसुत्तेनॆ.
+> ऎंबर्थवुळ्ळ ई मंत्रदल्लि क्षेत्रस्य पतिं ऎंबुदक्कॆ सायणरु एतन्नामानं ऎंदु विवरिसि इदु
+> प्रत्येकवाद देवतॆय हॆसरॆंदे तिळियबेकु ऎंदु हेळिद्दारॆ. इदरंतॆये,
+> शं नो देवः सविता त्रायमाणः शं नो भवंतूषसो विभातीः ।
+> शं नः पर्जन्यो भवतु प्रजाभ्यः शं नः क्षेत्रस्य पतिरस्तु शंभुः ॥
+> (ऋ. सं. ७-३५-१:)
+
+> *maṃḍūkā ivodakānmaṃḍūkā udakādiva èṃba ṛkkinalliruvaṃtè. illi samānārthaśabdagaḷa*
+> *punarāvarti iddarū ī punarāvartiyu (abhyāsavu) vākyada abhiprāyavannu òtti heḷuvudakkāgi*
+> *prayuktavāgiruvudu èṃdu mattè kèlavara matavu.*
+> *‘ kṣetrasyapati ’ èṃba devatèyū vāstoppatiya jātigè seridudu. ī devatè bhūrakṣaka. 4-57 nèya sūktada mòdalanèya mūru maṃtragaḷalli ītaniṃda, govugaḷu, aśvagaḷu mattu bhūmyākāśagaḷu, vṛkṣagaḷu, nīru ivugaḷalli mādhurya mòdalāduvugaḷu apekṣitavāgivè. viśve devatākavāda sūktavòṃdaralli (7-35-10) savitṛ, uṣodeviyaru, parjanya, ivaròḍanè ītanū samṛddhidāyakanāgabekèṃdu prārthitanāgiddānè 18-6-13 ralli ārādhakaru ītanannu tamma nèrèyallira bekèṃdu āśisiddārè. bhūmiyannu uḷuvudakkè prāraṃbhisuvāga ī devatèyannu pūjisabeku athavā devatèyannunnuddeśisi homamāḍabekèṃdu heḷidè. (ā. gṛ. sū. 2-10-4; śāṃ. gṛ. sū. 4-13-5) vyavasāya saṃbaṃdhavāda devatègaḷannu stutisuva sūktavòṃdaralli (4-57-6) sītā (negilugèrè) èṃba devatèyiṃda uttamavāda bèḷèyu prārthitavāgidè. pāraskara gṛhyasūtradalli (pā. gṛ. sū. 2-17-9) ide sītèyu iṃdrana patni yèṃdū mattu avaḷigè taṃdèya hèsarina ādhārada melè sāvitri èṃdu hèsarèṃdū (tai. brā. 2-3-10-1) heḷidè. ide pāraskara gṛhyasūtradalli uśvarā (vyavasāyakkè anna kūlavāgiruva jamīnu) èṃbòṃdu devatè uktavāgidè.*
+> *niruktakārara nirvacanadaṃtè kṣetrapatiyu gṛhapatiyū āgabahudādudariṃda agniyèṃdū artha*
+> *vāgabahudu. ādarè kṣetraśabdada prayogavu kṛṣisaṃbaṃdhavāgiye prakṛtavāda maṃtradalliruvudariṃda*
+> *kṣetrapatiśabdavu pratyekavāda devatèyèṃde arthamāḍuvudu ucitavāgiruttadè. kèlavèḍègaḷalli*
+> *sāyaṇara bhāṣyavū ī arthavanne samarthisuttadè. udāharaṇègè,*
+> *daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā |*
+> *kṣetrasya patiṃ prativeśamīmahe viśvānnevā amṛtā aprayucchataḥ ‖*
+> *(ṛ. saṃ. 10-66-13)*
+> *devatātmarū, hotṛrūparū āda agnyādityarannū, yajñamārgavannū saha nānu anusarisuttenè.*
+> *kṣetrapatiyannū, pramādarahitarāda itara èllā devatègaḷannū nānu dhanārthavāgi pūjisuttenè.*
+> *èṃbarthavuḷḷa ī maṃtradalli kṣetrasya patiṃ èṃbudakkè sāyaṇaru etannāmānaṃ èṃdu vivarisi idu*
+> *pratyekavāda devatèya hèsarèṃde tiḷiyabeku èṃdu heḷiddārè. idaraṃtèye,*
+> *śaṃ no devaḥ savitā trāyamāṇaḥ śaṃ no bhavaṃtūṣaso vibhātīḥ |*
+> *śaṃ naḥ parjanyo bhavatu prajābhyaḥ śaṃ naḥ kṣetrasya patirastu śaṃbhuḥ ‖*
+> *(ṛ. saṃ. 7-35-1:)*
+
+Translation of the Kannada inside this block: The deity called "Kṣetrasyapati" also belongs to the class of Vāstoṣpati. This deity is a protector of the land. In the first three mantras of sūkta 4-57, from him are sought cows, horses, and sweetness and the like in earth and sky, trees and water. In a sūkta addressed to the Viśve Devāḥ (7-35-10) he is prayed to be a giver of prosperity along with Savitṛ, the Dawns and Parjanya. In 18-6-13 the worshippers wish him to be near them as a neighbour. It is said that when one begins ploughing the land, this deity should be worshipped, or a homa should be offered to him (Ā. Gṛ. Sū. 2-10-4; Śāṃ. Gṛ. Sū. 4-13-5) **NOTE**. In a sūkta praising the deities of agriculture (4-57-6) a good crop is prayed for from the deity Sītā (the furrow). In the Pāraskara Gṛhya Sūtra (Pā. Gṛ. Sū. 2-17-9) **NOTE** it is said that this same Sītā is the wife of Indra and that she is named Sāvitrī after her father's name (Tai. Brā. 2-3-10-1). In the same Pāraskara Gṛhya Sūtra a deity named Urvarā (land favourable to cultivation) **NOTE**is mentioned.
+
+According to the Nirukta author's explanation, since Kṣetrapati can also be Gṛhapati, the meaning Agni is also possible. But since the word kṣetra is used in the present mantra only in connection with cultivation, it is proper to understand the word Kṣetrapati as a separate deity. In some places Sāyaṇa's bhāṣya also supports this meaning. For example:
+दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया । क्षेत्रस्य पतिं प्रतिवेशमीमहे विश्वान्नेवा अमृता अप्रयुच्छतः ॥ (*daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā | kṣetrasya patiṃ prativeśamīmahe viśvānnevā amṛtā aprayucchataḥ ‖*) (Ṛ. Saṃ. 10-66-13)
+"I follow Agni and Āditya, who are divine in nature and of the form of hotṛs, and also the path of the sacrifice. I worship Kṣetrapati and all the other heedless-free deities for wealth." In this mantra, for क्षेत्रस्य पतिं (*kṣetrasya patiṃ*) Sāyaṇa explains एतन्नामानं (*etannāmānaṃ*) and says that this must be understood to be the name of a separate deity. Likewise:
+शं नो देवः सविता त्रायमाणः शं नो भवंतूषसो विभातीः । शं नः पर्जन्यो भवतु प्रजाभ्यः शं नः क्षेत्रस्य पतिरस्तु शंभुः ॥ (*śaṃ no devaḥ savitā trāyamāṇaḥ śaṃ no bhavaṃtūṣaso vibhātīḥ | śaṃ naḥ parjanyo bhavatu prajābhyaḥ śaṃ naḥ kṣetrasya patirastu śaṃbhuḥ ‖*) (Ṛ. Saṃ. 7-35-1)
+
+### Printed p. 627
+
+> ऎंब मंत्रदल्लियू क्षेत्रपति शब्दक्कॆ इदे अर्थवन्नु हेळबेकु. ई मंत्रद हिंदिन मंत्रदल्लि
+> अग्नि, इंद्र, सूर्य इत्यादि इतर देवतॆगळ नामनिर्देशवु स्पष्टवागिरुवुदरिंद इदु बेरॆ
+> (प्रत्येक) देवतॆय नामवन्नु तिळिसुवुदागिदॆयॆंदु हेळबहुदु.
+> बृहद्देवताकाररु इदे क्षेत्रपतियु इंद्रन विभूतिविशेषवॆंदु ऒंदु कडॆयू, अग्निय
+> विभूतिविशेषवॆंदु इन्नॊंदु कडॆयू तिळिसिद्दारॆ.
+> इंद्राश्रयस्तु पर्जन्यो रुद्रो वायुर्बृहस्पतिः ।
+> वरुणः कश्च मृत्युश्च देवश्च ब्रह्मणस्पतिः ॥
+> मनुश्च विश्वकर्मा च मित्रः क्षेत्रपतिर्यमः ।
+> (बृ. दे. १-१२२, १२३)
+> पर्जन्य, रुद्र, वायु, बृहस्पति, वरुण, क, मृत्यु, ब्रह्मणस्पति, मन्यु, विश्वकर्मा, मित्र,
+> क्षेत्रपति, यम, तार्क्ष्य इत्यादि सकलदेवतॆगळू इंद्रांतर्गतरु ऎंदु ऒंदु कडॆ हेळिदॆ. अल्लदॆ,
+> अन्नं क्षितिभ्यो विदधत् यदृतुष्वनिशत्किस्मित् ।
+> तेनैनमाह क्षेत्रस्य वामदेवः स्तुवन्सतिं ॥
+> (बृ. बे. २-४१)
+> ऋतुकालगळिगनुगुणवागि इदे अग्नियु पृथ्वियल्लि (क्षितौ) अंतर्गतनागि, पृथ्विय सकल प्रदेश
+> गळिगू अन्नवन्नु हंचुववनादुदरिंद वामदेवऋषियु इवनन्नु क्षेत्रपतियॆंदु प्रशंसिसिदनु
+> ऎंदु तिळिसिदॆ. ई विवरणवु “ केचिदग्निमथापरे ” ऎंदु सायणरु तिळिसिरुव अर्थक्कॆ
+> हॊंदिकॊळ्ळुत्तदॆ
+> शुन, सीर, लांगल, फाल, सीता इत्यादि पदगळ प्रयोगगळु कृषिय स्वरूपवन्ने
+> पूर्णवागि वर्णिसुवुदरिंद प्रकृतदल्लि क्षेत्रपतियॆंबुदक्कॆ कृषिगॆ उपयुक्तवाद क्षेत्रगळिगॆ पालक
+> नाद देवताविशेषवॆंदे अर्थमाडुवुदु उचितवागिरुत्तदॆ. शुन, सीर ऎंब पदगळिगू सह
+> नेगिलु, गुळ इत्यादियागि कृषिसाधनगळिंदे अर्थमाडिदरू तप्पागलारदु. आदरॆ, शुन, सीर
+> ऎंब पदगळ प्रत्येकवाद प्रयोगवू, शुनासीरा ऎंब द्वंद्व रूपद प्रयोगवू विशेष
+> वागिरुवुदरिंद आया संदर्भगळिगनुगुणवागि ई पदगळ निष्कृष्टवाद तात्पर्यवेनॆंबुदन्नु
+> परिशीलिसबेकु.
+
+> *èṃba maṃtradalliyū kṣetrapati śabdakkè ide arthavannu heḷabeku. ī maṃtrada hiṃdina maṃtradalli*
+> *agni, iṃdra, sūrya ityādi itara devatègaḷa nāmanirdeśavu spaṣṭavāgiruvudariṃda idu berè*
+> *(pratyeka) devatèya nāmavannu tiḷisuvudāgidèyèṃdu heḷabahudu.*
+> *bṛhaddevatākāraru ide kṣetrapatiyu iṃdrana vibhūtiviśeṣavèṃdu òṃdu kaḍèyū, agniya*
+> *vibhūtiviśeṣavèṃdu innòṃdu kaḍèyū tiḷisiddārè.*
+> *iṃdrāśrayastu parjanyo rudro vāyurbṛhaspatiḥ |*
+> *varuṇaḥ kaśca mṛtyuśca devaśca brahmaṇaspatiḥ ‖*
+> *manuśca viśvakarmā ca mitraḥ kṣetrapatiryamaḥ |*
+> *(bṛ. de. 1-122, 123)*
+> *parjanya, rudra, vāyu, bṛhaspati, varuṇa, ka, mṛtyu, brahmaṇaspati, manyu, viśvakarmā, mitra,*
+> *kṣetrapati, yama, tārkṣya ityādi sakaladevatègaḷū iṃdrāṃtargataru èṃdu òṃdu kaḍè heḷidè. alladè,*
+> *annaṃ kṣitibhyo vidadhat yadṛtuṣvaniśatkismit |*
+> *tenainamāha kṣetrasya vāmadevaḥ stuvansatiṃ ‖*
+> *(bṛ. be. 2-41)*
+> *ṛtukālagaḷiganuguṇavāgi ide agniyu pṛthviyalli (kṣitau) aṃtargatanāgi, pṛthviya sakala pradeśa*
+> *gaḷigū annavannu haṃcuvavanādudariṃda vāmadevaṛṣiyu ivanannu kṣetrapatiyèṃdu praśaṃsisidanu*
+> *èṃdu tiḷisidè. ī vivaraṇavu “ kecidagnimathāpare ” èṃdu sāyaṇaru tiḷisiruva arthakkè*
+> *hòṃdikòḷḷuttadè*
+> *śuna, sīra, lāṃgala, phāla, sītā ityādi padagaḷa prayogagaḷu kṛṣiya svarūpavanne*
+> *pūrṇavāgi varṇisuvudariṃda prakṛtadalli kṣetrapatiyèṃbudakkè kṛṣigè upayuktavāda kṣetragaḷigè pālaka*
+> *nāda devatāviśeṣavèṃde arthamāḍuvudu ucitavāgiruttadè. śuna, sīra èṃba padagaḷigū saha*
+> *negilu, guḷa ityādiyāgi kṛṣisādhanagaḷiṃde arthamāḍidarū tappāgalāradu. ādarè, śuna, sīra*
+> *èṃba padagaḷa pratyekavāda prayogavū, śunāsīrā èṃba dvaṃdva rūpada prayogavū viśeṣa*
+> *vāgiruvudariṃda āyā saṃdarbhagaḷiganuguṇavāgi ī padagaḷa niṣkṛṣṭavāda tātparyavenèṃbudannu*
+> *pariśīlisabeku.*
+
+Translation of the Kannada inside this block: In this mantra too the word Kṣetrapati must be given this same meaning. Since in the mantra preceding this one the naming of other deities such as Agni, Indra and Sūrya is clear, it can be said that this one names a different (separate) deity.
+
+The author of the Bṛhaddevatā states in one place that this Kṣetrapati is a special manifestation of Indra, and in another place a special manifestation of Agni.
+इंद्राश्रयस्तु पर्जन्यो रुद्रो वायुर्बृहस्पतिः । वरुणः कश्च मृत्युश्च देवश्च ब्रह्मणस्पतिः ॥ मनुश्च विश्वकर्मा च मित्रः क्षेत्रपतिर्यमः । (*iṃdrāśrayastu parjanyo rudro vāyurbṛhaspatiḥ | varuṇaḥ kaśca mṛtyuśca devaśca brahmaṇaspatiḥ ‖ manuśca viśvakarmā ca mitraḥ kṣetrapatiryamaḥ |*) (Bṛ. De. 1-122, 123)
+In one place it is said that all the deities—Parjanya, Rudra, Vāyu, Bṛhaspati, Varuṇa, Ka, Mṛtyu, Brahmaṇaspati, Manyu, Viśvakarman, Mitra, Kṣetrapati, Yama, Tārkṣya and so on—are contained within Indra. Further:
+अन्नं क्षितिभ्यो विदधत् यदृतुष्वनिशत्किस्मित् । तेनैनमाह क्षेत्रस्य वामदेवः स्तुवन्सतिं ॥ (*annaṃ kṣitibhyo vidadhat yadṛtuṣvaniśatkismit | tenainamāha kṣetrasya vāmadevaḥ stuvansatiṃ ‖*) (Bṛ. Be. 2-41) **NOTE**
+It is stated that, in keeping with the seasons, this same Agni, being within the earth (kṣiti) and distributing food to all regions of the earth, was praised by the seer Vāmadeva as Kṣetrapati. This account agrees with the meaning given by Sāyaṇa in the words केचिदग्निमथापरे (*kecidagnimathāpare*).
+
+Since the use of words such as Śuna, Sīra, Lāṅgala, Phāla and Sītā describes fully the nature of agriculture, it is proper to understand Kṣetrapati here as a particular deity who is protector of the fields useful for agriculture. Even if the words Śuna and Sīra are explained as agricultural implements such as the plough and the ploughshare, it would not be wrong. But since the separate use of the words Śuna and Sīra and also the dual-compound use शुनासीरा (*śunāsīrā*) are special, the exact purport of these words must be examined according to each context.
+
+### Printed p. 628
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षेत्र॑स्य पते॒ मधु॑मंतमू॒र्मिं धे॒नुरि॑व॒ पयो॑ अ॒स्मासु॑  
+> धुक्षु ।  
+> म॒धु॒श्चुतं॑ घृ॒तमि॑व॒ सुपू॑तमृ॒तस्य॑ नः॒ पत॑यो मृळयंतु ॥
+
+> *kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo asmāsu*  
+> *dhukṣu |*  
+> *madhuścutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayaṃtu ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षेत्रस्य । पते । मधुमंतं । ऊर्मिं । धेनुः इव । पयः । अस्मासु । धुक्षु ।  
+> मधुश्चुतं । घृतं इव । सुपूतं । यतस्य । नः । पतयः । मृळयंतु ॥ २ ॥
+
+> *kṣetrasya | pate | madhumaṃtaṃ | ūrmiṃ | dhenuḥ iva | payaḥ | asmāsu | dhukṣu |*  
+> *madhuścutaṃ | ghṛtaṃ iva | supūtaṃ | yatasya | naḥ | patayaḥ | mṛḷayaṃtu ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्पोर्यामे मैत्रावरुणस्यातिरिक्तोक्ष्ये परिधानीया । सूत्रितं च ।
+> क्षेत्रस्य पते मधुमंतमूर्मिमिति परिधानीया । आ. ९-११ । इति ॥
+> हे क्षेत्रस्य पते त्वं मधुमंतं माधुर्योपेतमूर्मिं प्रवृद्धमुदकं
+> धेनुः पय इव सा यथा दुग्धे तथास्मासु धुक्ष्व । मधुश्चुतं मधुस्रावि सुपूतं
+> घृतमिवेत्युपमा । तादृशमुदकमित्यर्थः । ऋतस्य यज्ञस्योदकस्य वा पतयः
+> स्वामिनो नोऽस्मान् मृळयंतु । सुखयंतु । यद्वा । ऋतस्यैतत्कर्मणि षष्ठी ।
+> ऋतं मृळयंतु । प्रयच्छंतु । मृळतिरत्र दानकर्मा ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the closing verse (paridhānīyā) in the अप्पोर्यामे (*apporyāme*) rite, in the supplementary recitation of the Maitrāvaruṇa; and the sūtra says: क्षेत्रस्य पते मधुमंतमूर्मिमिति परिधानीया (*kṣetrasya pate madhumaṃtamūrmimiti paridhānīyā*) (Ā. 9-11). **NOTE**
+"O lord of the field, milk for us sweet, swollen water, as a cow yields milk; as she is milked, so milk it for us." मधुश्चुतं (*madhuścutaṃ*) is "honey-dripping"; सुपूतं (*supūtaṃ*) "well purified"; the comparison is "like ghee": the meaning is water of that kind. The lords (पतयः (*patayaḥ*)) of ṛta, that is, of the sacrifice or of the water, are to make us happy. Or else: the genitive ऋतस्य (*ṛtasya*) stands for the object of this action; "let them grant ṛta". Here the root मृळति (*mṛḷati*) has the sense of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षेत्रस्य पते (*kṣetrasya pate*)—O deva, lord of the field
+- धेनुः (*dhenuḥ*)—the cow
+- पयः इव (*payaḥ iva*)—as she yields milk
+- मधुश्चुतं (*madhuścutaṃ*)—tasty like drops of honey
+- घृतमिव (*ghṛtamiva*)—like ghee
+- सुपूतं (*supūtaṃ*)—pure
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with sweetness
+- ऊर्मिं (*ūrmiṃ*)—swollen; (that) water
+- अस्मासु (*asmāsu*)—for us
+- धुक्ष (*dhukṣa*)—milk out and pour
+- ऋतस्य (*ṛtasya*)—of the water
+- पतयः (*patayaḥ*)—the devas who are the lords
+- नः (*naḥ*)—us
+- मृळयंतु (*mṛḷayaṃtu*)—let them make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O deva, lord of the field, as a cow yields milk, milk out and pour for us water that is tasty like drops of honey, pure like ghee, endowed with sweetness, and swollen. May the devas who are lords of the water make us happy.
+
 ---
 
-**Progress note:** Done through printed p. 622. pp. 617-622 (batch API)
+**Progress note:** Done through printed p. 628. pp. 623-628 (batch API)
