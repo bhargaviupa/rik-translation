@@ -12163,6 +12163,102 @@ Brahman, in the form of Āditya, has two forms: the first is time, the second is
 - निहिते — दधातेः कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वम् ।
 - दर्शि — दृशिर् प्रेक्षणे । कर्मणि लुङ् । चिण् । चिणो लुगिति प्रत्ययस्य लुक् । वाक्यभेदादनिघातः ।
 
+### Printed p. 331
+
+तस्य नाक्षस्तप्यते भूरिभारः सनादेव न शीर्यते सनाभिः । (*tasya nākṣastapyate bhūribhāraḥ sanādeva na śīryate sanābhiḥ |*) (Ṛ. Saṃ. 1-164-13).
+
+This was explained earlier (Ṛgveda Saṃhitā, part 11, pp. 633-4), and the point is indicated here too. Viṣṇu, who is of the nature of Āditya, is himself unmoving. By his own impulse he makes the parts of time (the year and the rest) revolve in a ring-like circuit, like a wheel turning round its spokes. These parts number ninety-four and are separately divided. Yet he himself does not move and suffers no decay. Remaining firm, he sets the pair of day and night in motion.
+
+But one further point must be examined here. Sāyaṇa explains एकः बिभर्ति (*ekaḥ bibharti*) as "the one principle, in the form of the year, bears the six seasons", and गावः वर्षिष्टं उप आगुः (*gāvaḥ varṣiṣṭaṃ upa āguḥ*) as "the rays went to Āditya". It must not be said, then, that this mantra teaches two principles. Here एकः (*ekaḥ*) also means the Āditya principle, and वर्षिष्ठं (*varṣiṣṭhaṃ*) too stands as an attribute of Āditya alone. So there is no ground for the doubt: if एकः (*ekaḥ*) means Āditya, how is षडृतून् बिभर्ति (*ṣaḍṛtūn bibharti*) ("he bears the six seasons") consistent? In many Śruti passages the non-difference of Āditya and the seasons is stated.
+
+आदित्यस्त्वेव सर्व ऋतवः । यद्यैवोदेत्यथ वसंतो यदा संगवोऽथ ग्रीष्मो यदा मध्यंदिनोऽथ वर्षा यदपराह्नोऽथ शरद्य दैवास्तमेऽत्यथ हेमंतस्तस्मादु .... .... .... (*ādityastveva sarva ṛtavaḥ | yadyaivodetyatha vasaṃto yadā saṃgavo 'tha grīṣmo yadā madhyaṃdino 'tha varṣā yadaparāhno 'tha śaradya daivāstame 'tyatha hemaṃtastasmādu .... .... ....*) (Śa. Brā. 2-2-3-9).
+
+Āditya alone is the essence of all the seasons, or else the cause of the seasons. When he rises, it is spring. When the time for milking the cattle arrives, it is summer. The midday time is the rainy season. When the afternoon arrives, it is autumn. When the time of setting arrives, it is winter. In this way the relation of effect and cause, and the non-difference, between the seasons and Āditya, their cause, are shown.
+
+अत्र ह वा आसावग्र आदित्य आस तम्मतवः परिगृह्यैवात ऊर्ध्वाः स्वर्गं लोकमुपोदक्रामन्त्स एष ऋतुषु प्रतिष्ठितस्तपति । (*atra ha vā āsāvagra āditya āsa tammatavaḥ parigṛhyaivāta ūrdhvāḥ svargaṃ lokamupodakrāmantsa eṣa ṛtuṣu pratiṣṭhitastapati |*) (Śa. Brā. 4-2-5-9).
+
+In the beginning Āditya had pervaded this earth. When the seasons took hold of him, he flew up with them into the atmosphere. Thereafter, firmly established in the seasons, he now shines in the atmosphere. These seasons are the limbs of the year and the chief means of understanding the nature of the year. Without knowledge of these means, the nature of the year is not understood. Just as acquaintance with a house is of no use to a man who does not know the convenient door by which to enter it, so knowledge of the year cannot be gained without acquaintance with the seasons, which are the year's doors.
+
+### Printed p. 332
+
+Spring and winter are the doors of this year. The year is the atmosphere, and it is also the whole universe. Therefore one who has gained knowledge of the year attains an everlasting state. [सर्वं वै संवत्सरः सर्वं वा अक्षय्यमेतेन (*sarvaṃ vai saṃvatsaraḥ sarvaṃ vā akṣayyametena*) Śa. Brā. 1-6-1-19].
+
+स यश्चायं पुरुषे । यश्च सावादित्ये । स एकः । (*sa yaścāyaṃ puruṣe | yaśca sāvāditye | sa ekaḥ |*) (Trai. U. 2-4). **NOTE**
+
+The unique supreme Person, in the supreme ether, is placed in the cave as the indweller of Āditya. He creates all effects: the ether, the year, the periods such as the solstices, the rain-wealth that accords with the seasons, the food-wealth born of rain, and so on. He then enters into these very things, and all the worlds live resting on his very nature. Śaṅkarācārya explains that he is described by यश्चासावादित्ये । स एकः (*yaścāsāvāditye | sa ekaḥ*) (Śa. Bhā.). **NOTE** Here the attribute आचरन् (*ācaran*) ("unmoving") of the supreme entity एकः (*ekaḥ*) is highly apt. Though himself unmoving, he is the cause of all the worldly activities of the moving universe, which is made to revolve through the forms of the seasons.
+
+आनेजदेकं मनसो जवीयो (*ānejadekaṃ manaso javīyo*) तद्धावतोऽन्यानत्येति तिष्ठत् तस्मिन्नपो मातरिश्वा दधाति (*taddhāvato 'nyānatyeti tiṣṭhat tasminnapo mātariśvā dadhāti*) (Īśa. 4). **NOTE**
+
+This principle, which pervades everything, is without any movement the source of all the worlds that undergo change. It is by resting on this eternal principle of the Self that Mātariśvan becomes the activity of all living beings. In him everything is woven like warp and woof.
+
+स पर्यगाच्चुक्रमकायमव्रणं आस्नाविरग्ं शुद्धमपापविद्धं । कविर्मनीषी परिभूः स्वयंभूर्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥ (*sa paryagāccukramakāyamavraṇaṃ āsnāviragṃ śuddhamapāpaviddhaṃ | kavirmanīṣī paribhūḥ svayaṃbhūryāthātathyato 'rthān vyadadhācchāśvatībhyaḥ samābhyaḥ ‖*) (Ī. Ka. 8). **NOTE**
+
+This principle of the Self in the form of Āditya, which remains steady without any movement of its own, has spread everywhere. Though bodiless and pure, it has divided the Prajāpati principle, which is of the nature of the year, in the manner of time. But how did this unique Self-principle come to have the name "year"? The Praśna Upaniṣad answers in this way:
+
+संवत्सरो वै प्रजापतिः । .... .... .... .... ॥ (*saṃvatsaro vai prajāpatiḥ | .... .... .... .... ‖*)
+
+पंचपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणं । अथेमे अन्य उ परे विचक्षणं सप्तचक्रे षडर आहुरर्पितं ॥ (*paṃcapādaṃ pitaraṃ dvādaśākṛtiṃ diva āhuḥ pare ardhe purīṣiṇaṃ | atheme anya u pare vicakṣaṇaṃ saptacakre ṣaḍara āhurarpitaṃ ‖*) (Praśna. 9-11). **NOTE**
+
+### Printed p. 333
+
+This Prajāpati, who is of the nature of the year, has five feet. For this Āditya the five seasons are like feet, and with those seasons he, himself unmoving, goes round as though on five legs. Because he has created everything, he is called the Father. He has twelve limbs in the form of the months. In the half above the heaven, that is, in the third heaven, he is the Giver of rain (पुरीषि (*purīṣi*)). Other knowers of time say of him that he is all-seeing, that is, omniscient. They call him the one who, as seven wheels, in the form of seven horses, in the shape of a wheel moves on without pause, with six crowbars (spokes), that is, he is of the nature of time, joined with the six seasons. Whether he is described as having five feet and twelve forms, or as being seven wheels with six spokes, the purport is the same. In whatever way, the Self of time called the year, who exists in the forms of moon and sun, is the cause of the world's activity.
+
+This same principle of the Self is described in the Bṛhadāraṇyaka Upaniṣad with यो वै स संवत्सरः प्रजापतिः षोडशकलः (*yo vai sa saṃvatsaraḥ prajāpatiḥ ṣoḍaśakalaḥ*) and so on (Bṛ. U. 1-5-15).
+
+यतं वर्षिष्ठं गावः उप आगुः (*yataṃ varṣiṣṭhaṃ gāvaḥ upa āguḥ*): the purport is that the rays joined the year, which is of the nature of Āditya and is the eldest and most worthy of worship of all, or the Āditya principle, which is of the nature of the year. As is said in आदित्यो ब्रह्मेत्यादेशः (*ādityo brahmetyādeśaḥ*) (Chā. U. 3-19-1), Āditya is the supreme Brahman. That is why, in the Ṛk Saṃhitā:
+
+अभि यं देव्यदिर्तिगृणाति सवं देवस्य सवितुर्जुषाणा । अभि सम्राजो वरुणो गृणंत्यभि मित्रासो अर्यमा सजोषाः ॥ (*abhi yaṃ devyadirtigṛṇāti savaṃ devasya saviturjuṣāṇā | abhi samrājo varuṇo gṛṇaṃtyabhi mitrāso aryamā sajoṣāḥ ‖*) (Ṛ. Saṃ. 7-38-4).
+
+Aditi praises Āditya, who is of the form of Savitṛ. Varuṇa and the other gods, the sovereigns of the whole universe, worship him. Therefore Āditya is the best of all the gods and worthy of worship; hence the attribute वर्षिष्ठं (*varṣiṣṭhaṃ*). Since this Āditya is the supreme principle, the attribute ऋतं (*ṛtaṃ*) is also given. The rays of Āditya, issuing from his excellent abode, spread water in many places for the whole world and then take it back from those same directions. By these rays Āditya has pervaded all the worlds, heaven, earth and the rest. All these rays, too, establish the connection between Āditya and all the regions of the infinitely spread universe, and so bring about unity. Thus the rays that issue from Āditya pervade the universe, then come back from all directions and join him; that the whole universe is pervaded by Āditya alone is described by the passages of the Chāndogya Upaniṣad as follows:
+
+असावादित्यो देवमधु तस्य द्यौरेव शिरश्चीनवंशोऽंतरिक्षमपूपो मरीचयः पुत्राः । (*asāvādityo devamadhu tasya dyaureva śiraścīnavaṃśo 'ṃtarikṣamapūpo marīcayaḥ putrāḥ |*)
+
+### Printed p. 334
+
+तस्य ये प्रांचो रश्मयस्ता एवास्य प्राच्यो मधुनाड्यः (*tasya ye prāṃco raśmayastā evāsya prācyo madhunāḍyaḥ*) (Chā. U. 3-1).
+
+This Āditya is the honey of the gods. The heaven is the tree-stem that supports it, the atmosphere is the nest, and the rays are the offspring. The rays that spread toward the east are the honey-channels of the east. The Ṛks are the bees, and the Ṛgveda is the flower. The offerings made in the sacrifice, in the form of ghee and milk, are the drops of nectar. When the Ṛk-mantras have ripened, fame, brilliance, sense-power, virility, strength and sap arise from rites such as sacrifice. Afterwards all these sap-like fruits spread toward Āditya and join him. These are the causes of the beautiful red disc of the rising Āditya.
+
+अथ येऽस्य दक्षिणा रश्मयस्ता एवास्य दक्षिणा मधुनाड्यो (*atha ye 'sya dakṣiṇā raśmayastā evāsya dakṣiṇā madhunāḍyo*) (Chā. U. 3-2).
+
+The rays that spread toward the south: the Yajus-mantras are the bees, the Yajurveda is the flower, and the ghee and milk of the sacrificial offerings are the drops of nectar. Sap and the rest arise from this, spread again toward Āditya and join Āditya himself. These are the causes of Āditya's white form.
+
+अथ येऽस्य प्रत्यंचो रश्मयः...सामान्येव मधुकृतस्सामवेद एव पुष्पं....एतदादित्यस्य कृष्णं रूपं ॥ अथ येऽस्कोदंचो रश्मयः.... अथर्वांगिरस एव मधुकृत इतिहासपुराणं पुष्पं !....एतदादित्यस्य परं कृष्णं रूपं । (*atha ye 'sya pratyaṃco raśmayaḥ...sāmānyeva madhukṛtassāmaveda eva puṣpaṃ....etadādityasya kṛṣṇaṃ rūpaṃ ‖ atha ye 'skodaṃco raśmayaḥ.... atharvāṃgirasa eva madhukṛta itihāsapurāṇaṃ puṣpaṃ !....etadādityasya paraṃ kṛṣṇaṃ rūpaṃ |*) (Bhā. U. 3-3-4). **NOTE**
+
+In the flower in the form of the Sāmaveda, the bees in the form of the Sāmans create drops of nectar in the form of offerings and join them to the Sun. These are the causes of Āditya's dark form. Then, from the flower in the form of Itihāsa and Purāṇa, the bee in the form of the Atharvans creates the drop of nectar in the form of sap and the like. These join Āditya. These are the causes of Āditya's deep dark form.
+
+In these five-fold, nectar-filled, sap-natured forms of Āditya dwell the Vasus, Rudras, Ādityas, Maruts and Sādhyas. They also enter the red and other colours in Āditya's rays. The
+
+### Printed p. 335
+
+one who knows the essence of these nectars in the form of rays, that is, the one who knows the nature of Āditya, obtains a place among the Vasus, Rudras and the rest.
+
+स्त्रियः सतीस्ता उ मे पुंस आहुः पश्यदक्रणान्न वि चेतदंधः । कविर्यः पुत्रः स ईमा चिकेत यस्ता विजानात्स पितुष्टितासत् ॥ (*striyaḥ satīstā u me puṃsa āhuḥ paśyadakraṇānna vi cetadaṃdhaḥ | kaviryaḥ putraḥ sa īmā ciketa yastā vijānātsa pituṣṭitāsat ‖*) (Ṛ. Saṃ. 1-164 16).
+
+In explaining this Ṛk, the nature of these rays of Āditya has been described in detail (Ṛgveda Saṃhitā, part 12, p. 388). In these rays of Āditya the female nature and the male nature are mingled. When it bears the embryo in the form of water, the female form appears. When the same disperses the rain, the male form appears. When it shows the female form it is extremely attractive, and when it shows the male form it is extremely powerful. These rays of Āditya spread to the many directions of the universe and to the intermediate directions. They illumine all things, take all the things of the universe into themselves, join the Sun and lay them in his womb. For this very reason Āditya has all forms. [यत्सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु संनिधत्ते (*yatsarvaṃ prakāśayati tena sarvān prāṇān raśmiṣu saṃnidhatte*) Praśna. 1-6].
+
+The same view was described earlier in Ṛ. Saṃ. 1-164-17 by the words वत्सं बिभ्रती गौरुदस्थात् (*vatsaṃ bibhratī gaurudasthāt*). The purport, explained earlier with citation of Upaniṣadic and other passages, is this: the cow in the form of a ray issues from Āditya, supplies the wealth the sacrificer needs, then lifts the sacrificer up, flies away unseen, joins Āditya and becomes merged in him. [Ṛgveda Saṃhitā, 12, p. 401].
+
+Showing the identity of this Āditya with the year, the Taittirīya Upaniṣad teaches that the Āditya principle is the Brahman principle that contains the whole universe:
+
+आदित्यो वा एष एतन्मंडलं तपति तत्र ता ऋचस्तदृचा मंडलग्ंस ऋचां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिर्दिप्यते तानि सामानि स साम्यां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिसि पुरुषस्तानि यजूग्ंषि स यजुषा मंडलग् स यजुषां लोकस्यॆषा त्रय्येव विद्या तपति य एषोऽंतरादित्ये हिरण्मयः पुरुषः (*ādityo vā eṣa etanmaṃḍalaṃ tapati tatra tā ṛcastadṛcā maṃḍalagṃsa ṛcāṃ loko 'tha ya eṣa etasminmaṃḍale 'rcirdipyate tāni sāmāni sa sāmyāṃ loko 'tha ya eṣa etasminmaṃḍale 'rcisi puruṣastāni yajūgṃṣi sa yajuṣā maṃḍalag sa yajuṣāṃ lokasyèṣā trayyeva vidyā tapati ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣaḥ*) (Śrī. U. 4-14). **NOTE**
+
+This Āditya principle, which lies beyond perception, shines in the form of the Sun for the favour of the world. The mass of radiance in the Sun's form is the power of the Ṛks and their place of shining. The shining flames of the Sun are the power of the Sāmans and their place of shining. The Person who stands in the middle of this circle of light,
+
+### Printed p. 336
+
+as the aggregate of the Yajus-mantras, is the seat of their shining. Therefore, to realise this Person-principle fully is possible only through the practice of the threefold knowledge (trayī vidyā). So the Sun's disc, the light that has issued from the disc, and the Person within this ray: these three are the self-nature of the triple Veda. The purport is that the supreme principle shines only in the threefold form. Moreover:
+
+आदित्यो वै तेज ओजो बलं यशश्चक्षुः श्रोत्रमात्मा मनो मन्युर्मनुर्मृत्युस्सत्यो मित्रो वायुराकाशः प्राणो लोकपालः कः किं कं तथस्यमन्नममृतो जीवो विश्वः कतमः स्वयंभु ब्रह्मैतदमृत एष पुरुष एष भूतानामधिपतिर्ब्रह्मणस्सायुज्यग्ंसलोकतामाप्योत्येतासामेव देवतानाग्ं सायुज्यग्ंसार्ष्टिताग्ंसमानलोकतामाप्योति य एवं वेदेत्युपनिषत् ॥ (*ādityo vai teja ojo balaṃ yaśaścakṣuḥ śrotramātmā mano manyurmanurmṛtyussatyo mitro vāyurākāśaḥ prāṇo lokapālaḥ kaḥ kiṃ kaṃ tathasyamannamamṛto jīvo viśvaḥ katamaḥ svayaṃbhu brahmaitadamṛta eṣa puruṣa eṣa bhūtānāmadhipatirbrahmaṇassāyujyagṃsalokatāmāpyotyetāsāmeva devatānāgṃ sāyujyagṃsārṣṭitāgṃsamānalokatāmāpyoti ya evaṃ vedetyupaniṣat ‖*) (Trai. U. 4-15).
+
+This Āditya principle is full of manifold glories. Whoever realises whichever aspect and worships it obtains the fruit that accords with that worship. The commentator explains: एवमादिभूतो तत्तद्भावेनानुगृह्णाति तत्तदर्थिना स एवं ज्ञात्वोपासितव्यः (*evamādibhūto tattadbhāvenānugṛhṇāti tattadarthinā sa evaṃ jñātvopāsitavyaḥ*).
+
+यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति । तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहं ॥ (*yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati | tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyahaṃ ‖*) (Bha. Gī. 7-21). **NOTE**
+
+Whatever devotee worships whichever aspect of my special glories with devotion, to each of them I give the fruit that accords with his faith and devotion. The assurance of this Bhagavadgītā verse is also stated here, according to the commentator's view. This Āditya is the light that illumines the universe. He is the vigour that gives strength to the universe and the inner essence that gives vitality. He is the eye, fame and hearing. He is the Self in the form of resolve, and Death, the cause of the world's destruction. He is also the principle of ether in the form of the vital breath, the cause of the world's growth. He is the principle of wind, which impels the world's activity. He is the form of bliss. The world-guardians such as Indra are included within him. Truth, which pervades everything, is included in him; or else this same Person, in the form of truth, is all-pervading. Svayambhū and Prajāpati, and whatever names the principle at the root of the creation of the universe is known by, all these are the glories of this Supreme Person. The knower who knows such a supreme principle and worships it attains this sāyujya with Brahman.
+
+घृणिः सूर्य आदित्यो न प्रभा वात्यक्षरं । मधु क्षरंति तद्रसं । सत्यं वै तद्रसमापो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः सुवरों ॥ (*ghṛṇiḥ sūrya ādityo na prabhā vātyakṣaraṃ | madhu kṣaraṃti tadrasaṃ | satyaṃ vai tadrasamāpo jyotīraso 'mṛtaṃ brahma bhūrbhuvaḥ suvaroṃ ‖*) (Tai. U. 4-37).
+
 ---
 
-**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
+**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
