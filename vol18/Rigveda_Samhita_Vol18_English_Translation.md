@@ -14613,6 +14613,285 @@ And who, issuing forth the first in those encounters, rushes in various directio
 
 And that steed of the described character, swift and going, in the battle (समर्ये (*samarye*)) a vanquisher, possessed of truth (or food) over enemies, adorning (शुशूषमाणः (*śuśūṣamāṇaḥ*)) his body with his own parts such as the hoofs, urging on the hastening demon armies, going straight (ऋजिप्यः (*ṛjipyaḥ*)), adorning the dust, scatters that same dust above his brows.
 
+### Printed p. 377
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the well-known one, as described above
+- वाजी (*vājī*)—the horse
+- समर्ये (*samarye*)—in battle
+- सहुरिः (*sahuriḥ*)—possessing the power to confront enemies
+- ऋताना (*ṛtānā*)—provided with food
+- तन्वा (*tanvā*)—with his own body
+- शुश्रूषमाणि (*śuśrūṣamāṇi*)—serving
+- तुरं यतेषु (*turaṃ yateṣu*)—among the swiftly moving enemy armies
+- तुरयन् (*turayan*)—moving about with exhilaration
+- ऋजिप्यः (*ṛjipyaḥ*)—going straight
+- रेणुं (*reṇuṃ*)—with the dust of the path
+- ऋंजन् (*ṛṃjan*)—filling his body (and, the same dust)
+- भ्रुवोः अधि (*bhruvoḥ adhi*)—above his brows
+- किरते (*kirate*)—throws up
+
+##### भावार्थ (Bhāvārtha)
+
+The horse described above, in battle, possessing the power to confront enemies, provided with food, serving with his own body, moving about with exhilaration among the swiftly moving enemy armies, going straight, and filling his body with the dust of the path, throws that same dust up above his brows.
+
+##### English translation (H. H. Wilson)
+And that swift (horse) enduring in battle, bestowing food, and doing service with his limbs, rushing swiftly upon the quick-moving (host of the enemy), going straight onward, and tossing up the dust, throws it above his brows.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॑स्य तन्य॒तोरि॑व॒ द्योर्यु॑घाय॒तो अ॑भि॒युजो॑  
+> भयंते ।  
+> य॒दा स॒हस्र॑म॒भि षी॒मयो॑धीद्दु॒र्वर्तुः॑स्मा भवति भी॒म  ॒
+> ऋंजन् ॥ ८ ॥
+
+> *uta smāsya tanyatoriva dyoryughāyato abhiyujo*  
+> *bhayaṃte |*  
+> *yadā sahasramabhi ṣīmayodhīddurvartuḥsmā bhavati bhīma*  
+> *ṛṃjan ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । अस्य । तन्यतोःऽइव । द्योः । ऋघायतः । अभियुजः । भयंते ।  
+> यदा । सहस्रं । अभि । सीं । अयोधीत् । दुःऽवर्तुः । स्म । भवति । भीमः । यंजन् ॥
+
+> *uta | sma | asya | tanyatoḥ 'iva | dyoḥ | ṛghāyataḥ | abhiyujaḥ | bhayaṃte |*  
+> *yadā | sahasraṃ | abhi | sīṃ | ayodhīt | duḥ 'vartuḥ | sma | bhavati | bhīmaḥ | yaṃjan ‖*
+
+### Printed p. 378
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च खलु द्योर्दिप्यमानात्तन्यतोः शब्दयितुरशनेरिव ऋघायतो हिंसतोऽस्यास्माद्दधिक्रावाख्याद्देवादभियुजोऽभियोक्तारोऽसुरा भयंते।
+> बिभ्यति । किंचायं यदा सीं सर्वतः सहस्रमभ्ययोधीत् । संप्रहरेत् । तदा
+> ऋंजन् प्रसाधयन्नात्मानं भीमो भयहेतुर्दुर्वर्तुदुर्वार्श्च भवति ॥
+
+##### Gist of the bhāṣya
+
+"And also": from this deity named Dadhikrā, who like the shining thunderbolt that makes a roar (tanyatu) harms, the attackers—the Asuras who advance against him—are afraid. Moreover, when he fights all around against a thousand, then, adorning himself (ऋंजन् (*ṛṃjan*) = preparing himself), he becomes terrible, a cause of fear, and hard to ward off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- द्योः (*dyoḥ*)—shining
+- तन्यतोः इव (*tanyatoḥ iva*)—like the thunderbolt that is shining and roaring
+- ऋघायतः (*ṛghāyataḥ*)—who harms enemies
+- अस्य (*asya*)—from this deity Dadhikrā
+- अभियुजः (*abhiyujaḥ*)—the Asuras who oppose him
+- भयंते (*bhayaṃte*)—are afraid
+- यता (*yatā*)—when
+- सीं (*sīṃ*)—all around
+- सहस्रं (*sahasraṃ*)—thousands of enemies
+- अभि अयोधीत् (*abhi ayodhīt*)—confront and fight
+- यंजन् (*yaṃjan*)—increasing his own power
+- भीमः (*bhīmaḥ*)—terrible
+- दुर्वर्तुः (*durvartuḥ*)—unobstructed
+- भवति (*bhavati*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+The Asuras who oppose him are afraid of this deity Dadhikrā, who harms enemies like the shining thunderbolt that roars with a clamour. Even though thousands of enemies gather around him and confront and oppose him, he increases his own power and becomes terrible and unobstructed.
+
+##### English translation (H. H. Wilson)
+And the adversaries of that foe-destroying steed, like (those) of the brilliant thunderbolt, are alarmed; for when he contends, even against thousands on every side, then, rousing (his spirit), he is fearful and irresistible.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॑स्य पनयंति॒ जना॑ जू॒तिं कृ॑ष्टि॒प्रो अ॒भिभू॑तिमा॒शोः ।  
+> उ॒तैन॑माहुः समि॒थे वि॒यंतः॒ परा॑ दधि॒क्रा अ॑सरत्स॒हस्रैः॑ ॥९॥
+
+> *uta smāsya panayaṃti janā jūtiṃ kṛṣṭipro abhibhūtimāśoḥ |*  
+> *utainamāhuḥ samithe viyaṃtaḥ parā dadhikrā asaratsahasraiḥ ‖9‖*
+
+### Printed p. 379
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । अस्य । पनयंति । जनाः । जूतिं । कृष्टिप्रः । अभिभूतिं । आशोः ।  
+> उत । एनं । आहुः । संइथे । वियंतः । परा । दधिक्राः । असरत् । सहस्रैः ॥ ९ ॥
+
+> *uta | sma | asya | panayaṃti | janāḥ | jūtiṃ | kṛṣṭipraḥ | abhibhūtiṃ | āśoḥ |*  
+> *uta | enaṃ | āhuḥ | saṃithe | viyaṃtaḥ | parā | dadhikrāḥ | asarat | sahasraiḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च खल्वस्य दधिक्राव्योऽभिभूतिमभिभवित्रीं जूतिं पराभिभूतिं
+> चेत्युभयं वा जनाः पनयंति । स्तुवंति । कीदृशस्यास्य । कृष्टिप्रः । कृष्टयो
+> मनुष्याः । तेषां पूरकस्याशोर्व्याप्तस्य वेगवतो ना । उतापि चैनं समिथे
+> संग्रामे वियंतो विविधं गच्छंतो जना अयं दधिक्रा देवः सहस्रैरनुचरैः
+> परिवृतः परासरदिति आस्मान्विहायान्यान् हंतुं गत इत्याहुः । यद्वा । एनमेवमाहुः । वियंतः शत्रवः परा । भवंतीति शेषः । दधिक्राः सहस्रैरसरत् । गच्छतीति ॥
+
+##### Gist of the bhāṣya
+
+"And also": people praise the overpowering (अभिभूतिं (*abhibhūtiṃ*), one who overcomes) swiftness (जूतिं (*jūtiṃ*)) of this Dadhikrā, or else both the swiftness and the overpowering. Of what sort is he? He is कृष्टिप्रः (*kṛṣṭipraḥ*): कृष्टयो (*kṛṣṭayo*) are men, and he fulfils them; he is *āśuḥ*, pervading, swift.**NOTE** Further, people who go variously about in battle (समिथे (*samithe*)) say of him: "This god Dadhikrā, surrounded by thousands of followers, has gone forth (*parāsarat*), leaving these behind, to kill others." Or else: they say of him thus—"enemies going apart (वियंतः (*viyaṃtaḥ*)) are put to flight" (the words "become so" being supplied)—"Dadhikrā goes with thousands."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- कृष्टिप्रः (*kṛṣṭipraḥ*)—who fulfils the desires of men
+- आशोः (*āśoḥ*)—all-pervading
+- अस्य (*asya*)—of this horse in the form of Dadhikrā
+- अभिभूतिं (*abhibhūtiṃ*)—the power that checks enemies
+- जूतिं (*jūtiṃ*)—the power that is victorious
+- जनाः (*janāḥ*)—men
+- पनयंति (*panayaṃti*)—praise
+- उत (*uta*)—and
+- एनं (*enaṃ*)—him
+- समिथे (*samithe*)—in battle
+- वियंतः (*viyaṃtaḥ*)—all the people who follow and go
+- दधिक्राः (*dadhikrāḥ*)—this god in the form of Dadhikrā
+- सहस्रैः (*sahasraiḥ*)—together with thousands of followers
+- परा (*parā*)—for the destruction of enemies
+- असरत् (*asarat*)—has set out (thus)
+- आहुः (*āhuḥ*)—they say
+
+##### भावार्थ (Bhāvārtha)
+
+Men praise the power, checking enemies and victorious, of this horse in the form of Dadhikrā, who fulfils the desires of men and is all-pervading. And all the people who follow him into battle extol him, saying, "This god in the form of Dadhikrā, together with thousands of followers, has set out for the destruction of enemies."
+
+##### English translation (H. H. Wilson)
+Men praise the overpowering rapidity of that fleet (steed), who is the accomplisher (of the desires) of mankind, and, following him to
+
+### Printed p. 380
+battle, they have said, Dadhikra with (his) thousands has gone forth against the foe.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ द॑धि॒क्राः शव॑सा॒ पंच॑ कृ॒ष्टीः सूर्य॑इव॒ ज्योति॑षा॒पस्त॑तान ।  
+> स॒ह॒स्र॒साः श॑त॒सा वा॒ज्यर्वा॑ पृ॒णक्तु॒ मध्वा॒ समि॒मा वचां॑सि ॥
+
+> *ā dadhikrāḥ śavasā paṃca kṛṣṭīḥ sūryaiva jyotiṣāpastatāna |*  
+> *sahasrasāḥ śatasā vājyarvā pṛṇaktu madhvā samimā vacāṃsi ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दधिक्र्याः । शवसा । पंच । कृष्टीः । सूर्यैः इव । ज्योतिषा । अपः । ततान ।  
+> सहस्रसाः । शतैसाः । वाजी । अर्वा । पृणक्तु । मध्वा । सं । इमा । वचांसि ॥ १० ॥
+
+> *ā | dadhikryāḥ | śavasā | paṃca | kṛṣṭīḥ | sūryaiḥ iva | jyotiṣā | apaḥ | tatāna |*  
+> *sahasrasāḥ | śataisāḥ | vājī | arvā | pṛṇaktu | madhvā | saṃ | imā | vacāṃsi ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रेष्टावा दधिक्रा इति दधिक्राव्णो याज्या । तथा च सूत्रितं । दधिक्राव्णो
+> अकारिषमा दधिक्राः शवसा पंच कृष्टीः । आ. २-१२ । इति ॥
+> यो दधिक्रा देवः शवसा बलेन पंच कृष्णीः पंच जनान् देवमनुष्यासुररक्षःपितृसंज्ञकान्निषादपंचमान् चतुरो वर्णान्ना सूर्यो ज्योतिषा तेजसा
+> यथा जगदावृणोति तद्वदप उदकान्या ततान । आतनोति । सहस्रसाः शतसाः शतानां
+> सहस्राणां च दाता वाजी वेजनवानर्वारणकुशलः स देवो मध्वा मधुना
+> मधुरेण फलेनेमेमान्युक्तानि स्तुतिवचांसि सं पृणक्तु । संयोजयतु ॥
+
+##### Gist of the bhāṣya
+
+In the Pavitreṣṭi, "ā dadhikrāḥ" is the yājyā verse for Dadhikrāvan. So it is stated in the sūtra: दधिक्राव्णो अकारिषमा दधिक्राः शवसा पंच कृष्टीः (*dadhikrāvṇo akāriṣamā dadhikrāḥ śavasā paṃca kṛṣṭīḥ*) (Ā. 2-12). The god Dadhikrā, by his might (शवसा (*śavasā*), strength), has spread the five peoples (पंच कृष्णीः (*paṃca kṛṣṇīḥ*))—those named gods, men, Asuras, Rakṣases and Pitṛs, or the four castes with the Niṣāda as fifth**NOTE**—just as the sun covers the world with his light, so he spreads out the waters. Giver of hundreds and thousands (सहस्रसाः शतसाः (*sahasrasāḥ śatasāḥ*)), swift (वाजी (*vājī*)), expert as a horse (अर्वा (*arvā*)), may that god unite these words of praise with मध्वा (*madhvā*), honey—sweet fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यः (*sūryaḥ*)—the sun
+- ज्योतिषा (*jyotiṣā*)—with his own radiance
+- अपः इव (*apaḥ iva*)—as he spreads and diffuses the waters everywhere
+- दधिक्राः (*dadhikrāḥ*)—the god Dadhikrā
+- शवसा (*śavasā*)—with his strength
+- पंच कृष्टीः (*paṃca kṛṣṭīḥ*)—the five kinds of beings, gods, men and the rest
+- आ ततान (*ā tatāna*)—has spread out in their several regions
+- सहस्रसाः (*sahasrasāḥ*)—the giver in thousands of ways
+- शतसाः (*śatasāḥ*)—the giver in hundreds of forms
+- वाजी (*vājī*)—possessed of speed
+- अर्वा (*arvā*)—this god in the form of a horse
+- इमा वचांसि (*imā vacāṃsi*)—these words of praise of ours
+- मध्वा (*madhvā*)—with sweet fruits
+- सं पृणक्तु (*saṃ pṛṇaktu*)—may he unite
+
+### Printed p. 381
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun spreads the waters everywhere with his radiance, the god Dadhikrā has spread out by his strength the five kinds of beings, gods, men and the rest, in their several regions. May this god, who gives in thousands of ways and in hundreds of forms, who is swift and of the form of a horse, in return for these words of praise of ours grant us sweet fruits.
+
+##### English translation (H. H. Wilson)
+Dadhikra has spread abroad the five classes of beings by his strength as the sun (diffuses) the waters by his radiance may he, the giver of hun- dereds and thousands, associate these praises with agreeable (rewards).
+
+##### विशेषविषयगळु (Special Topics)
+
+This sixth Ṛk, दधिक्राव्णो अकारिषं (*dadhikrāvṇo akāriṣaṃ*), is to be used as the anuvākyā mantra in the Pavitreṣṭi, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra दधिक्राव्णो अकारिषमा दधिक्राः शवसा पंच कृष्णीः (*dadhikrāvṇo akāriṣamā dadhikrāḥ śavasā paṃca kṛṣṇīḥ*) (Ā. 2-12).**NOTE** It is also to be used in the drinking of the curd-drops, as explained by the Āśvalāyana Śrauta-sūtra दधिक्राव्णो अकारिषमित्याग्नीध्रीये दधिद्रप्सान् भक्षयंति (*dadhikrāvṇo akāriṣamityāgnīdhrīye dadhidrapsān bhakṣayaṃti*) (Ā. 6-12).
+
+## Sūkta 39 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशुं दधिक्रामिति षडृचं सप्तमं सूक्तं । आदितः पंच त्रिष्टुभः षष्ठ्यनुष्टुप् । ऋषिर्वामदेवः । पूर्वसूक्ते हीत्युक्तत्वादेतदपि दाधिक्रं । तथा चानुक्रांतं । आशुं षळंत्यानुष्टुबिति । सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आशुं दधिक्रां (*āśuṃ dadhikrāṃ*) has six Ṛks and is the seventh sūkta. The first five verses are Triṣṭubh, the sixth Anuṣṭubh. The seer is Vāmadeva. As was said in the preceding sūkta, this one too is Dādhikra (its deity is Dadhikrā). So the Anukramaṇī: आशुं षळंत्यानुष्टुप् (*āśuṃ ṣaḷaṃtyānuṣṭup*). The use of the sūkta (viniyoga) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+##### Anuvāda
+
+This sūkta आशुं दधिक्रां (*āśuṃ dadhikrāṃ*) is the seventh sūkta in the fourth anuvāka. It has six Ṛks. Vāmadeva is the seer of this sūkta; Dadhikrā is the deity; the first five Ṛks are in the Triṣṭubh metre and the sixth in the Anuṣṭubh. In the Anukramaṇī it is said, आशुं षळंत्यानुष्टुप् (*āśuṃ ṣaḷaṃtyānuṣṭup*). The use is by indication.
+
+### Printed p. 382
+
+> सूक्त—३९
+> मंडल—४ ॥ अनुवाक—४ ॥ सूक्त—३९ ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग— १३ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ॥ ऋषिः—नामदेवः ॥
+> ॥ देवता—दथिक्राः ॥
+> । छंदः—१-५ त्रिष्टप् । ६ अनुष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒शुं द॑धि॒क्रां तमु॒ नु ष्ट॑वाम दि॒वस्पृ॑थि॒व्या उ॒त च॑र्किराम।  
+> उ॒च्छंती॒र्मामु॒षसः॑ सूदयं॒त्वति॒ विश्वा॑नि दुरि॒तानि॑ पर्षन् ॥
+
+> *āśuṃ dadhikrāṃ tamu nu ṣṭavāma divaspṛthivyā uta carkirāma|*  
+> *ucchaṃtīrmāmuṣasaḥ sūdayaṃtvati viśvāni duritāni parṣan ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशुं । दधिक्रां । तं । ऊं इति । नु । स्तवाम । दिवः । पृथिव्याः । उत । चर्किराम ।  
+> उच्छंतीः । मां । उषसः । सूदयंतु । अति । विश्वानि । दुःइतानि । पर्षन् ॥ १ ॥
+
+> *āśuṃ | dadhikrāṃ | taṃ | ūṃ iti | nu | stavāma | divaḥ | pṛthivyāḥ | uta | carkirāma |*  
+> *ucchaṃtīḥ | māṃ | uṣasaḥ | sūdayaṃtu | ati | viśvāni | duḥitāni | parṣan ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशुं शीघ्रगामिनं तमु तमेव दधिक्रां देवं नु क्षिप्रं स्तवाम । उतापि
+> च दिवः पृथिव्याश्च सकाशादस्य घासं चर्किराम । विक्षिपाम । उच्छंतीस्तमो विवासयंतीरुषसो मां प्रति सूदयंतु । रक्षंतु फलानि । विश्वानि सर्वाणि दुरितान्यति
+> पर्षन् । अतिपारयंतु । अन्यदेवताकेषु मंत्रेष्वन्यदेवतास्तुतिस्तासां निपातभाक्त्वान्न विरुध्यते ॥
+
+##### Gist of the bhāṣya
+
+Let us quickly praise that same swift-going god Dadhikrā. And let us scatter fodder for him (घासं चर्किराम (*ghāsaṃ carkirāma*), "let us scatter") from heaven and from earth. May the Dawns, dispelling darkness, protect the fruits for me. May they carry all sins across, beyond them. In mantras addressed to other deities, praise of another deity does not conflict, since they have a share as particles (निपातभाक्त्वान्न (*nipātabhāktvānna*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशुं (*āśuṃ*)—swift-going
+- तमु दधिक्रां (*tamu dadhikrāṃ*)—that same god Dadhikrā
+- नु (*nu*)—quickly
+- स्तवाम (*stavāma*)—let us praise
+- उत (*uta*)—and
+- दिवः (*divaḥ*)—from the world of heaven
+- पृथिव्याः (*pṛthivyāḥ*)—as far as the earth
+- घासं (*ghāsaṃ*)—food (grass) for this god in the form of a horse
+- चर्किराम (*carkirāma*)—let us spread
+- उच्छंतीः (*ucchaṃtīḥ*)—dispelling darkness
+- उषसः (*uṣasaḥ*)—the Dawns
+- मां (*māṃ*)—for me
+- सूदयंतु (*sūdayaṃtu*)—may they protect excellent fruits
+- विश्वानि (*viśvāni*)—all
+- दुरितानि (*duritāni*)—sins
+- अति पर्षन् (*ati parṣan*)—may they destroy
+
 ---
 
-**Progress note:** Done through printed p. 376. pp. 371-376 (batch API)
+**Progress note:** Done through printed p. 382. pp. 377-382 (batch API)
