@@ -17095,6 +17095,305 @@ Sūkta 43. Maṇḍala 4; Anuvāka 4; Sūkta 43. Aṣṭaka 3; Adhyāya 7; Varga
 > *kasyemāṃ devīmamṛteṣu preṣṭhāṃ hṛdi śreṣāma suṣṭutiṃ*  
 > *suhavyāṃ ‖ 1 ‖*
 
+### Printed p. 439
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । ऊं इति । श्रवत् । कतमः । यज्ञियानां । वंदारु । देवः । कतमः । जुषाते ।  
+> कस्य । इमां । देवीं । अमृतेषु । प्रेष्ठां । हृदि । श्रेषाम । सुस्तुतिं । सु  
+> हव्यां ॥ १ ॥
+
+> *kaḥ | ūṃ iti | śravat | katamaḥ | yajñiyānāṃ | vaṃdāru | devaḥ | katamaḥ | juṣāte |*  
+> *kasya | imāṃ | devīṃ | amṛteṣu | preṣṭhāṃ | hṛdi | śreṣāma | sustutiṃ | su*  
+> *havyāṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियानां यज्ञार्हाणां देवानां मध्ये क उ देवः श्रवत् । शृणुयात्सुतिं । कतमो देवो वंदारु वंदनशीलं स्तोत्रं । कतमो देवो जुषाते ।
+> सेवते । कस्य हृदीमां प्रेष्ठां प्रियतरां देवीं द्योतमानां सुहव्यां
+> शोभनान्नोपेतां शोभनैर्हविर्भियुक्तां वा सुष्टुतिममृतेषु मध्यॆ श्रेषाम।
+> श्लेषयेम श्रावयेम वा । अश्विनावंतरेण स्तुतेः को देवः स्वामी भवेदिति ॥
+
+##### Gist of the bhāṣya
+
+Among the gods who are worthy of the sacrifice, which god would hear our praise? Which god (would hear) the वंदारु (*vaṃdāru*), the praise whose nature is homage? Which god would enjoy it? In the heart of which god, among the immortals, might we cause to cling, or cause to be heard, this dearest, shining, well-invoked praise, a praise accompanied by fair food-offerings or provided with good oblations? Sāyaṇa's point: apart from the Aśvins, which god could be the lord of the praise?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियानां (*yajñiyānāṃ*)—among the gods worthy of the sacrifice
+- क उ देवः (*ka u devaḥ*)—which god
+- श्रवत् (*śravat*)—hears our praise
+- कतमः (*katamaḥ*)—which god
+- वंदारु (*vaṃdāru*)—will hear the praise offered with homage
+- कतमः (*katamaḥ*)—which among them
+- जुषाते (*juṣāte*)—enjoys our praise
+- अमृतेषु (*amṛteṣu*)—among the deathless gods
+- कस्य हृदि (*kasya hṛdi*)—in the heart of which god
+- प्रेषां (*preṣāṃ*)—the one that is most effective
+- देवीं (*devīṃ*)—the shining one
+- सुहव्यां (*suhavyāṃ*)—the one provided with excellent oblation
+- इमां सुष्टुतिं (*imāṃ suṣṭutiṃ*)—this excellent praise
+- श्रेषाम (*śreṣāma*)—let us offer
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods worthy of the sacrifice, which god hears our praise? Which god will hear a praise offered with homage? Which among them enjoys our praise? Among the deathless gods, in whose heart may we offer this excellent praise, which is most dear, shining, and provided with excellent oblation?
+
+##### English translation (H. H. Wilson)
+Which of those who are entitled to sacrifice will listen (to our prayers)? which of the gods will hear our praise? which will be propitiated (by it)? upon the heart of whom among the immortals may we impress the devout affectionate adoration, accompanied by sacred oblations ?
+
+### Printed p. 440
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को मृ॑ळाति कत॒म आग॑मिष्ठो दे॒वाना॑मु कत॒मः शंभ॑विष्यः।  
+> रथं॒ कमा॑हुर्द्र॒वद॑श्वमा॒शुं यं सूर्य॑स्य दुहि॒तावृ॑णीत॥
+
+> *ko mṛḷāti katama āgamiṣṭho devānāmu katamaḥ śaṃbhaviṣyaḥ|*  
+> *rathaṃ kamāhurdravadaśvamāśuṃ yaṃ sūryasya duhitāvṛṇīta‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । मृळाति । कतमः । आगमिष्ठः । देवानां । ऊं इति । कतमः । शंभविष्यः ।  
+> रथं । कं । आहुः । द्रवत्ऽअश्वं । अशुं । यं । सूर्यस्य । दुहिता । अवृणीत ॥२॥
+
+> *kaḥ | mṛḷāti | katamaḥ | āgamiṣṭhaḥ | devānāṃ | ūṃ iti | katamaḥ | śaṃbhaviṣyaḥ |*  
+> *rathaṃ | kaṃ | āhuḥ | dravat 'aśvaṃ | aśuṃ | yaṃ | sūryasya | duhitā | avṛṇīta ‖2‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> को मृळाति । को देवो मृडाति । सुखयेदस्मान् । कतमो देव आगमिष्ठ
+> आगंतृतमोऽस्मद्यज्ञं प्रति । देवानामु देवानां मध्ये कतमो देवः शंभविष्ठः
+> सुखस्य भावयितृतमः । एवमुक्तगुणविशिष्टः को भवेत् अश्विनावंतरेणेति भावः ।
+> कं रथं द्रवदश्वमाशुमाहुः । ब्रुवते । यं रथं सूर्यस्य दुहिता सूर्यस्य
+> पत्न्यवृणीत । समभजत् । तं कं रथं वेगवंतमाहुः ॥
+
+##### Gist of the bhāṣya
+
+Which god gladdens, that is, would give us happiness? Which god is the most ready to come to our sacrifice? Among the gods, which is the greatest bringer-about of happiness? Sāyaṇa's sense: who could be possessed of the qualities so stated, apart from the Aśvins? Which chariot do they call swift-horsed and quick, the chariot that Sūrya's daughter, Sūrya's wife, chose, that is, shared in? That chariot they call speedy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—among the gods
+- कति (*kati*)—which god
+- मृळाति (*mṛḷāti*)—gives (us) happiness
+- कतमः (*katamaḥ*)—which god
+- आगमिष्ठः (*āgamiṣṭhaḥ*)—is most eager to come to our sacrifice
+- कतमः (*katamaḥ*)—which among them
+- शंभविष्ठः (*śaṃbhaviṣṭhaḥ*)—is the one who brings about welfare
+- यं (*yaṃ*)—which chariot
+- सूर्यस्य दुहिता (*sūryasya duhitā*)—Sūrya's wife
+- अवृणीत (*avṛṇīta*)—chose (such a one)
+- कं रथं (*kaṃ rathaṃ*)—which chariot, then
+- द्रवदश्वं (*dravadaśvaṃ*)—having swiftly running horses
+- आशुं (*āśuṃ*)—swift-going
+- आहुः (*āhuḥ*)—do they call
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods (other than the Aśvin gods), which god gives us happiness? Which god is most eager to come to our sacrifice? Which among them brings us welfare? Which god's chariot, the one chosen by Sūrya's wife, do they call swift-running-horsed and swift-going?
+
+### Printed p. 441
+
+##### English translation (H. H. Wilson)
+Who will make us happy ? which of the gods is the most prompt to come to our sacrifice ? which the most willing to grant us felicity? what chariot do they say is quick and drawn by rapid steeds? that which the daughter of Surya selected.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्षू हि ष्मा॒ गच्छ॑थ॒ ईव॑तो॒ द्यूनिंद्रो॒ न श॒क्तिं परि॑तक्क्यायां ।  
+> दि॒व आजा॑ता दि॒व्या सु॑प॒र्णा कया॒ शची॑नां भवथः॒ शचि॑ष्ठा ॥३॥
+
+> *makṣū hi ṣmā gacchatha īvato dyūniṃdro na śaktiṃ paritakkyāyāṃ |*  
+> *diva ājātā divyā suparṇā kayā śacīnāṃ bhavathaḥ śaciṣṭhā ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । हि । स्म । गच्छथः । ईवतः । द्यून् । इंद्रः । न । शक्तिं । परितक्म्यायां ।  
+> दिवः । आजाता । दिव्या । सुपर्णा । कया । शचीनां । भवथः । शचिष्ठा ॥ ३ ॥
+
+> *makṣu | hi | sma | gacchathaḥ | īvataḥ | dyūn | iṃdraḥ | na | śaktiṃ | paritakmyāyāṃ |*  
+> *divaḥ | ājātā | divyā | suparṇā | kayā | śacīnāṃ | bhavathaḥ | śaciṣṭhā ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मक्षु शीघ्रं । हि स्मेति पूरणौ । ईवतो गमनवत आगामिनो द्यून्दिवसान्
+> सुत्यासंबंधिनः प्रति गच्छथः । इंद्रः शक्तिं न स्वकीयां शक्तिं यथा परितक्क्यायां
+> रात्रावतीतायां । प्रदर्शयतीति शेषः । स्तुत्याहन्युषःकाल इंद्रो यथा गच्छति
+> तद्विद्युवामपि गच्छतमित्यर्थः। दिवो द्युलोकादाजातागत् दिव्या दिवि भवौ सुपर्णा
+> शोभनगमन् युवां शचीनां युष्मत्संबंधिनां कर्मणां शक्तीनां वा मध्ये
+> कॆया शच्या शचिष्ठा शक्तिमत्तरौ शोभनकर्मवंतौ वा भवथः ॥
+
+##### Gist of the bhāṣya
+
+मक्षु (*makṣu*) means quickly; हि स्म (*hi sma*) are two expletives. You two go towards the coming days connected with the pressing (of soma). As Indra, when the night has passed, displays his own power (this verb is to be supplied), so Indra goes at the dawn-time of the praise-day; likewise do you also go. Come from heaven, divine, born in heaven, fair-going, among your actions or powers, by which power are you two the most powerful, or the possessors of fair deeds?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परितक्क्यायां (*paritakkyāyāṃ*)—in the last watch of the night
+- इंद्रः (*iṃdraḥ*)—as Indra
+- शक्तं नॆ (*śaktaṃ nè*)—displays his power (so you also)
+- मक्षु (*makṣu*)—quickly
+- ईवतः (*īvataḥ*)—coming
+- द्यून् (*dyūn*)—in the days
+- गच्छथः (*gacchathaḥ*)—you move about
+- दिवः (*divaḥ*)—from the heavenly world
+- अजाता (*ajātā*)—
+
+### Printed p. 442
+- come
+- दिव्या (*divyā*)—of divine nature
+- सुपर्णा (*suparṇā*)—you who have excellent movement
+- शचीनां (*śacīnāṃ*)—among (your) deeds
+- कया (*kayā*)—by which (excellent) deed
+- शचिष्या (*śaciṣyā*)—showing a splendid nature
+- भवतः (*bhavataḥ*)—you have become
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, as Indra displays his power in the last watch of the night, you too move quickly through the coming days. You who have come from the heavenly world, who are divine in nature and of excellent movement, among your many deeds, by which excellent action have you become those who display your splendid distinction?
+
+##### English translation (H. H. Wilson)
+Moving, you proceed rapidly by day, as Indra, at the end of the night, (manifests his) power: descended from heaven, divine, of graceful motion, (Ashwins), by which of (your) acts are you most distinguished ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> का वां॑ भू॒दुप॑मातिः॒ कया॑ न॒ आश्वि॑ना गमथो हू॒यमा॑ना।  
+> को वां॑ म॒हश्चि॒त्त्यज॑सो अ॒भीक॑ उरु॒ष्यतं॑ माध्वी दस्रा न  ॒
+> ऊती ॥ ४ ॥
+
+> *kā vāṃ bhūdupamātiḥ kayā na āśvinā gamatho hūyamānā|*  
+> *ko vāṃ mahaścittyajaso abhīka uruṣyataṃ mādhvī dasrā na*  
+> *ūtī ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> का । वां । भूत् । उपमातिः । कया । नः । आ । अश्विना । गमथः । हूयमाना ।  
+> कः । वां । महः । चित् । त्यजसः । अभीके । उरुष्यतं । माध्वी इति । दस्रा । नः ।  
+> ऊती ॥ ४ ॥
+
+> *kā | vāṃ | bhūt | upamātiḥ | kayā | naḥ | ā | aśvinā | gamathaḥ | hūyamānā |*  
+> *kaḥ | vāṃ | mahaḥ | cit | tyajasaḥ | abhīke | uruṣyataṃ | mādhvī iti | dasrā | naḥ |*  
+> *ūtī ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नां युवयोः कोपमातिः । उप समीपे मातिर्मानं गुणानां परिच्छित्तिर्यस्यां सा स्तुतिः का भूत् । भवेत् । कया स्तुत्या हूयमानावाहूयमानौ
+
+##### Gist of the bhāṣya
+
+What would be the praise of you two, the उपमातिः (*upamātiḥ*), in which there is a measure, that is, a determination of your qualities, close at hand? By what praise, being invoked, do you two come to us?
+
+### Printed p. 443
+
+> संतौ नोऽस्माना गमथः । आगच्छथः । वां युवयोरभीक आसन्नप्रदेशे महश्चिन्महतस्यजसः । त्यज्यते परित्यज्यते सर्वैरिति त्यजः क्रोभः । तस्य सोढा को भवेत् ।
+> हे माध्वी मधुररसस्योदकस्य स्रष्टारौ हे दस्रा शत्रूणामुपक्षपयितारावश्विनौ
+> नोऽस्मानूती ऊत्या रक्षयोरुष्यतं । रक्षाकर्मैतत् । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+Near you two, who could endure great त्यजः (*tyajaḥ*), wrath, so called because it is abandoned by all? O Mādhvī, creators of sweet-flavoured water, O Dasras, destroyers of enemies, Aśvins, protect us with your protections. उरुष्यतं (*uruṣyataṃ*) is a verb of the sense of protection: protect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- वां (*vāṃ*)—of you two
+- उपमातिः (*upamātiḥ*)—the praise (the measure) as a means of describing the distinction
+- का (*kā*)—what
+- भूत् (*bhūt*)—could it be
+- कया (*kayā*)—by what praise
+- हूयमाना (*hūyamānā*)—being invoked
+- नः (*naḥ*)—to us
+- आ गमथः (*ā gamathaḥ*)—do you graciously come
+- वां (*vāṃ*)—your
+- अभीके (*abhīke*)—near
+- महश्चित् (*mahaścit*)—very great
+- त्यजसः (*tyajasaḥ*)—becoming a object of wrath
+- कः (*kaḥ*)—who, then, could be
+- माध्वी (*mādhvī*)—producers of sweet flavour
+- दस्रा (*dasrā*)—and destroyers of enemies, O Aśvin gods
+- नः (*naḥ*)—us
+- ऊती (*ūtī*)—with your protections
+- उरुष्यतं (*uruṣyataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, what could be the praise that is the means of describing the distinction of you two? By what praise should you be invoked so that you come to us? Who could be near you as an object of your wrath? O Aśvin gods, producers of sweet flavour and destroyers of enemies, protect us with your protections.
+
+##### English translation (H. H. Wilson)
+What may be the fit measure (of your merits)? Invoked by what praises do you come to us? Who (can exist as) the object of your great wrath? Dasras, dipensers of sweet (water), defend us with your protection.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु वां॒ रथः॒ परि॑ नक्षति॒ द्यामा यत्स॑मु॒द्राद॒भि वर्त॑ते  
+> वां ।  
+> मध्वा॑ माध्वी॒ मधु॑ वां प्रषाय॒न्यत्सीं॑ वां॒ पृक्षो॑ ॒॑ ॒
+> भुरजंत पक्वाः ॥ ५ ॥
+
+> *uru vāṃ rathaḥ pari nakṣati dyāmā yatsamudrādabhi vartate*  
+> *vāṃ |*  
+> *madhvā mādhvī madhu vāṃ praṣāyanyatsīṃ vāṃ pṛkṣo*  
+> *bhurajaṃta pakvāḥ ‖ 5 ‖*
+
+### Printed p. 444
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरु । वां । रथः । परि । नक्षति । द्यां । आ । यत् । समुद्रात् । अभि । वर्तते । वां ।  
+> मध्वा । माध्वी इति । मधु । वां । प्रषायन् । यत् । सीं । वां । पृक्षः । भुरजंत ।  
+> पक्वाः ॥ ५ ॥
+
+> *uru | vāṃ | rathaḥ | pari | nakṣati | dyāṃ | ā | yat | samudrāt | abhi | vartate | vāṃ |*  
+> *madhvā | mādhvī iti | madhu | vāṃ | praṣāyan | yat | sīṃ | vāṃ | pṛkṣaḥ | bhurajaṃta |*  
+> *pakvāḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां रथो द्यां परि द्युलोकस्य परित उरु प्रभूतं नक्षति ।
+> गच्छति । यद्यस्मादा अर्वाक् समुद्रात्समुद्ध्रवणसाधनादंतरिक्षाद्वां प्रति अभि
+> वर्तते । आभिमुख्येन गच्छति । हे माध्वी उक्तलक्षणौ मध्वा मधुरेण पयसा मधु
+> मधुरं सोमरसं पुषायन् । सिंचंत्यध्वर्यवः । यद्यस्मात्सीं सर्वतो वां
+> सृक्षो युवयोः सोमं पक्वाः पक्वा यवा भुरजंत । प्राप्नुवंति । तस्मादभिवर्तते वामिति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your chariot travels widely round the heavenly world, since it turns towards you from this side of the समुद्र (*samudra*), the firmament, which is the means of flowing together. O Mādhvī, of the stated nature, the adhvaryus sprinkle sweet soma juice with sweet milk, since on every side your food-offerings, ripe barley, reach you; therefore the chariot turns towards you. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- यत् (*yat*)—for which reason
+- आ समुद्रात् (*ā samudrāt*)—in the region beyond the firmament
+- वां (*vāṃ*)—for you
+- अभि वर्तते (*abhi vartate*)—it must stand facing
+- (therefore) वां (*vāṃ*)—your
+- रथः (*rathaḥ*)—chariot
+- द्यां परि (*dyāṃ pari*)—round the heavenly world
+- उरु (*uru*)—widely
+- नक्षति (*nakṣati*)—travels
+- मध्वी (*madhvī*)—O Aśvin gods, producers of sweet flavour
+- यत् (*yat*)—for which purpose
+- वां (*vāṃ*)—your
+- पृक्षः (*pṛkṣaḥ*)—food in the form of soma
+- पक्वाः (*pakvāḥ*)—ripe barley
+- भुरजंत (*bhurajaṃta*)—join (for that)
+- मध्वा (*madhvā*)—with sweet milk
+- मधु (*madhu*)—sweet soma
+- पुषायन् (*puṣāyan*)—(the adhvaryus) mix and combine
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, to bring you who are in a region beyond the firmament, your chariot travels around the heavenly world and comes to stand facing you. For the purpose of offering to you, before the soma is combined with the barley grains, the adhvaryus mix and combine the sweet soma with sweet milk.
+
+##### English translation (H. H. Wilson)
+Your chariot travels widely round the heaven until it places you beyond the firmament : dispensers of sweet (water, the priests) are diluting
+
 ---
 
-**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
+**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
