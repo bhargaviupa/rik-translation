@@ -25208,6 +25208,293 @@ Such is the Vedic text. That is, by the power of the Ṛgveda mantras the Sun ri
 Such is the explanation of the meaning with reference to Sūrya. In the same way the meaning is to be supplied for the other deities, such as Āpaḥ (the waters). The experts in the science of words (the grammarians) understand the words चत्वारि शृंगा (*catvāri śṛṃgā*), with reference to Śabda-brahman, as the four kinds of words: noun, verb, upasarga and nipāta. Others speak in other ways. Therefore the meaning must be made according to each context.
 In Ṛ. Saṃ. Part 1, page 401, in explaining the Sāyaṇa-bhāṣya introduction, the commentator has explained the meaning of this Ṛk in a slightly different way. It can be seen there.
 
+### Printed p. 655
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिधा॑ हि॒तं प॒णिभि॑र्गु॒ह्यमा॑नं॒ गवि॑ दे॒वासो॑ घृ॒तमन्व॑विंदन्।  
+> इंद्र॒ एकं॒ सूर्य॒ एकं॑ जजान वे॒नादेकं॑ स्व॒धया॒ निष्ट॑तक्षुः ॥ ४ ॥
+
+> *tridhā hitaṃ paṇibhirguhyamānaṃ gavi devāso ghṛtamanvaviṃdan|*  
+> *iṃdra ekaṃ sūrya ekaṃ jajāna venādekaṃ svadhayā niṣṭatakṣuḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिधा । हितं । पणिभिः । गुह्यमानं । गवि । देवासः । घृतं । अनु । अविंदन् ।  
+> इंद्रः । एकं । सूर्यः । एकं । जजान । वेनात् । एकं । स्वधया । निः । ततक्षुः ॥४॥
+
+> *tridhā | hitaṃ | paṇibhiḥ | guhyamānaṃ | gavi | devāsaḥ | ghṛtaṃ | anu | aviṃdan |*  
+> *iṃdraḥ | ekaṃ | sūryaḥ | ekaṃ | jajāna | venāt | ekaṃ | svadhayā | niḥ | tatakṣuḥ ‖4‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पणिभिरसुरैर्गवि गोषु त्रिधा क्षीरदध्याज्यभेदेन त्रिप्रकारं हितं निहितं
+> गुह्यमानं गोपितं धृतं दीप्तं रसरूपं वा द्रव्यं देवासो देवा अन्वविंदन् ।
+> अलभंत । तत्रेंद्रं एकं क्षीरं जजान । उदपादयत् । सूर्य एकं जजान ।
+> वेनात्कांतिमतोऽग्नेर्गमनवतो वायोर्वैकं धृतं स्वधयान्नेन निमित्तेन
+> द्रव्येण वा साधनेन निष्कृतक्षुः । निरपादयन् देवाः ॥
+
+##### Gist of the bhāṣya
+
+The Paṇis, the Asuras, had placed in the cows a substance in three forms (milk, curds and ghee) and kept it hidden. The gods found this ghee, which is either a shining substance or one of the nature of sap. Of the three, Indra produced one, the milk, and Sūrya produced one. The gods fashioned the remaining one out of the radiant Agni, or else out of the moving Vāyu. They did so by means of svadhā, which Sāyaṇa takes as food (as the cause), or as the substance, or as the means.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पणिभिः (*paṇibhiḥ*)—by the Asuras
+- गवि (*gavi*)—in the cows
+- त्रिधा (*tridhā*)—in three forms (milk, curds, ghee)
+- हितं (*hitaṃ*)—placed
+- गुह्यमानं (*guhyamānaṃ*)—and hidden
+- घृतं (*ghṛtaṃ*)—the ghee
+- देवासः (*devāsaḥ*)—the gods
+- अन्वविंदन् (*anvaviṃdan*)—obtained (among them)
+- इंद्रः (*iṃdraḥ*)—Indra
+- एकं (*ekaṃ*)—one principle
+- जजान (*jajāna*)—produced
+- सूर्यः (*sūryaḥ*)—Sūrya
+- एकं (*ekaṃ*)—another principle
+- वेनात् (*venāt*)—from the radiant Agni
+- एकं (*ekaṃ*)—the third principle
+- स्वधया (*svadhayā*)—for the sake of svadhā
+- निष्कृतक्षुः (*niṣkṛtakṣuḥ*)—the gods produced
+
+##### भावार्थ (Bhāvārtha)
+
+The gods obtained the ghee that the Asuras had placed in the cows in three forms, milk, curds and ghee, and kept hidden. Of these, Indra produced one and Sūrya produced another principle. The gods produced the third principle from the radiant Agni, for the sake of svadhā.
+
+### Printed p. 656
+
+##### English translation (H. H. Wilson)
+The gods discovered the Ghee concealed by the panis, placed threefold in the cow : Indra generated one (portion), Surya another, the (other gods) fabricated one from the resplendent (Agni), for the sake of the oblation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता अ॑र्षंति॒ हृद्या॑त्समु॒द्राच्छ॒तव्र॑जा रि॒पुणा॒ नाव॒चक्षे॑ ।  
+> धृ॒तस्य॒ धारा॑ अ॒भि चा॑कशीमि हिर॒ण्ययो॑ वेत॒सो मध्य॑ आसां ॥
+
+> *etā arṣaṃti hṛdyātsamudrācchatavrajā ripuṇā nāvacakṣe |*  
+> *dhṛtasya dhārā abhi cākaśīmi hiraṇyayo vetaso madhya āsāṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एताः । अर्षंति । हृद्यात् । समुद्रात् । शतव्रजाः । रिपुणा । न । अवचक्षे ।  
+> धृतस्य । धाराः । अभि । चाकशीमि । हिरण्ययः । वेतसः । मध्ये । आसां ॥ ५ ॥
+
+> *etāḥ | arṣaṃti | hṛdyāt | samudrāt | śatavrajāḥ | ripuṇā | na | avacakṣe |*  
+> *dhṛtasya | dhārāḥ | abhi | cākaśīmi | hiraṇyayaḥ | vetasaḥ | madhye | āsāṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एता आपो धृतधारा वार्षंति । अधः पतंति । शतव्रजा अपरिमितगतयः सत्यो
+> हृद्याद्दृदयंगमात्समुद्रादंतरिक्षाद्रिपुणा जलमोकप्रतिबंधकारिणा शत्रुणा
+> वृत्रेण नावचक्षे न अवदर्शनाय यथादृष्टं भवति तथार्षंति । ता धृतस्य धारा
+> अभि चाकशीमि । अभिपश्यामि । कुत्रॆति तदुच्यते । हिरण्ययो हिरण्मयो वेतसोऽस्संभवोऽग्निर्वैद्युत आसामपां मध्यॆ वर्तत इति शेषः । अत्र धृतस्य धारा अभि
+> चाकशीमीत्यनेन चरमपादेन होमाधारोऽग्निर्वैद्युतोऽग्निरादित्यो वोक्तः ॥
+
+##### Gist of the bhāṣya
+
+These waters, in streams of ghee, fall downward. They have countless courses, and they come from the heart-pleasing sea, which is the atmosphere. They move so that Vṛtra, the enemy who obstructs the release of the waters, cannot see them. "I look upon those streams of ghee." Sāyaṇa asks where, and answers: the golden Vetasa, the lightning-fire, abides in the midst of these waters (the verb "abides" is supplied). By the last pāda, "I look upon the streams of ghee", the fire that is the basis of the homa is meant, either the lightning-fire or the fire that is the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हृदात् (*hṛdāt*)—from the heart-pleasing
+- समुद्रात् (*samudrāt*)—from the atmosphere
+- एताः (*etāḥ*)—these waters
+- शतव्रजाः (*śatavrajāḥ*)—having hundreds of courses
+- अर्षंति (*arṣaṃti*)—flow (but)
+- रिपुणा (*ripuṇā*)—by the obstructing Vṛtra
+- न अवचक्षे (*na avacakṣe*)—they are not seen
+- धृतस्य (*dhṛtasya*)—of this water
+- धाराः (*dhārāḥ*)—the streams
+- अभि चाकशीमि (*abhi cākaśīmi*)—I look at all around
+- आसां (*āsāṃ*)—of these water-streams
+- मध्ये (*madhye*)—in the middle
+- हिरण्ययः (*hiraṇyayaḥ*)—of golden form
+- वेतसः (*vetasaḥ*)—the lightning-fire (stands)
+
+### Printed p. 657
+
+##### भावार्थ (Bhāvārtha)
+
+From the heart-pleasing atmosphere the waters flow with hundreds of courses. But they are not seen by Vṛtra, who obstructs their flow. I look at these waters all around. In the midst of these water-streams stands the lightning-fire, of golden form.
+
+##### English translation (H. H. Wilson)
+These hundred-channelled showers fall from the heart-delighting firmament, unobserved by the hostile (cloud) : I look upon these showers of Ghi. (and behold) the golden Vetasa in the midst of them.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्यक्स्र॑वंति स॒रितो॒ न धेना॑ अं॒तर्हृ॒दा मन॑सा पू॒यमा॑नाः ।  
+> ए॒ते अ॑र्षंत्यो॒र्मयो॑ घृ॒तस्य॑ मृ॒गाइ॑व क्षिप॒णोरीष॑माणाः ॥ ६ ॥
+
+> *samyaksravaṃti sarito na dhenā aṃtarhṛdā manasā pūyamānāḥ |*  
+> *ete arṣaṃtyormayo ghṛtasya mṛgāiva kṣipaṇorīṣamāṇāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्यक् । स्रवंति । सरितः । न । धेनाः । अंतः । हृदा । मनसा । पूयमानाः ।  
+> एते । अर्षंति । ऊर्मयः । घृतस्य । मृगाःइव । क्षिपणोः । ईषमाणाः ॥ ६ ॥
+
+> *samyak | sravaṃti | saritaḥ | na | dhenāḥ | aṃtaḥ | hṛdā | manasā | pūyamānāḥ |*  
+> *ete | arṣaṃti | ūrmayaḥ | ghṛtasya | mṛgāḥiva | kṣipaṇoḥ | īṣamāṇāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्नेरुपरि सम्यक् स्रवंति । क्षरंति । घृतस्य धाराः । किमिव । सरितो न
+> धेनाः प्रीणयित्र्यो नद्य इव । अंतर्हृदा मनसा हृदयमध्यगतेन चित्तेन ।
+> भावनासचिवेनेति यावत् । तेन पूयमानाः शुद्धीकृताः । तदेवोच्यते । एते
+> घृतस्कोर्मयो रसा अर्षंति । गच्छंति । जुह्वाः सकाशादग्नेरुपरि पतंति । किमिव ।
+> क्षिपणोः क्षेपकाद्व्याधादीषमाणाः पलायमाना मृगा इव । ते यथा कक्षं
+> प्रविशंति तद्वत् । अनेन शैघ्र्यमुक्तं भवति ॥
+> 42
+
+##### Gist of the bhāṣya
+
+Streams of ghee flow together, pour down, upon this Agni. Sāyaṇa asks what they are like and answers: like rivers that are "dhenāḥ", pleasing. They are purified by the mind within the heart, that is, by the mind accompanied by contemplation. These waves of ghee, these saps, go and fall from the ladle upon the fire. They are like deer fleeing from the hunter who hurls his weapon, as those deer enter their lair. By this, swiftness is expressed.
+
+### Printed p. 658
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतस्य (*dhṛtasya*)—of the ghee
+- एते ऊर्मयः (*ete ūrmayaḥ*)—these streams that are like waves
+- अंतर्हृदा (*aṃtarhṛdā*)—lodged in the heart (devotional)
+- मनसा (*manasā*)—by the mind
+- पूयमानाः (*pūyamānāḥ*)—being purified
+- धेनाः (*dhenāḥ*)—satisfying
+- सरितः न (*saritaḥ na*)—like rivers
+- सम्यक् (*samyak*)—fully
+- स्रवंति (*sravaṃti*)—flow
+- क्षिपणोः (*kṣipaṇoḥ*)—from the hunter
+- ईषमाणाः (*īṣamāṇāḥ*)—escaping and running
+- मृगा इव (*mṛgā iva*)—like deer (as deer swiftly enter a thicket)
+- अर्षंति (*arṣaṃti*)—enter (the fire)
+
+##### भावार्थ (Bhāvārtha)
+
+These streams of ghee, like waves, are purified by the mind lodged in the heart, that is, a devout mind. They flow fully, like satisfying streams. As deer that have escaped the hunter and run swiftly enter a thicket, so these enter the fire.
+
+##### English translation (H. H. Wilson)
+They flow uninterruptedly like pleasing rivers, purified by the mind that is seated in the heart: these streams of Ghi descend (upon the fire), like deer flying from the hunter.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिंधो॑रिव प्राध्व॒ने शू॑घ॒नासो॒ वात॑प्रमियः पतयंति  ॒
+> यह्वाः ।  
+> घृ॒तस्य॒ धारा॑ अरु॒षो न वा॒जी काष्ठा॑ भिं॒दन्नू॒र्मिभिः॒ पिन्न॑मानः ॥ ७ ॥
+
+> *siṃdhoriva prādhvane śūghanāso vātapramiyaḥ patayaṃti*  
+> *yahvāḥ |*  
+> *ghṛtasya dhārā aruṣo na vājī kāṣṭhā bhiṃdannūrmibhiḥ pinnamānaḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंधोः इव । प्रअध्वने । शूघनासः । वात्यप्रमियः । पतयंति । यह्वाः ॥  
+> घृतस्य । धाराः । अरुषः । न । वाजी । काष्ठाः । भिंदन् । ऊर्मिभिः । पिन्वमानः ॥ ७ ॥
+
+> *siṃdhoḥ iva | praadhvane | śūghanāsaḥ | vātyapramiyaḥ | patayaṃti | yahvāḥ ‖*  
+> *ghṛtasya | dhārāḥ | aruṣaḥ | na | vājī | kāṣṭhāḥ | bhiṃdan | ūrmibhiḥ | pinvamānaḥ ‖ 7 ‖*
+
+### Printed p. 659
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधोः स्यंदमानाया नद्याः सकाशादिवोदकानीव प्राध्वने प्रवणवति देशे
+> शूघनास आशुगंत्रः । आशु इति च शु इति च क्षिप्रनामनी भवत इति निरुक्तं । ६-१ ।
+> वातप्रमियो वायुवत्कृष्टवेगा यह्वा महत्यो घृतस्य धाराः पतयंति ।
+> गच्छंत्यग्नेरुपरि । घृतमुदकमिति पक्षे सिंधोरिवेत्यत्रेवशब्दोऽनर्थकः । स्यंदनसाधनादंतरिक्षादुक्तलक्षणा घृतधारा उदकधाराः पतयंति । गच्छंति भूमा । किंच
+> घृतसंस्कृत्यायः काष्ठा मर्यादाभूतान्परिधीन्भिंदन्नूर्मिभी रसैः पिन्वमानो
+> वर्धमानो भवति। उदकमिति पक्षे काष्ठाः क्रांत्वा स्थिता दिशोभिंदन्नूर्मिभिस्तरंगैः
+> पिन्वमानो भवति । तत्र दृष्टांतः । अरुषो न वाजी आरोचमानो गर्वेण गमनशीलोऽश्व इव । स यथा भिंदन्निन्वमानश्च भवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Like waters from a flowing river, the streams of ghee are swift-going in a sloping place. Sāyaṇa quotes the Nirukta: आशु इति च शु इति च क्षिप्रनामनी भवत इति निरुक्तं । (*āśu iti ca śu iti ca kṣipranāmanī bhavata iti niruktaṃ |*) (Ni. 6-1). Being large and as fast as the wind, the streams of ghee go onto the fire. On the view that the ghee is water, the word "iva" in "sindhor iva" is without meaning: from the atmosphere, the instrument of flowing, streams of water of the kind described fall and go to the earth. Further, the stream breaks through the paridhis, which are the boundary-sticks of the ghee-offering, and swells with its waves, that is, with its saps. On the water view, it breaks through the quarters that stand beyond, and swells with its billows. The illustration is a bright, proudly moving horse: as that horse breaks through and swells, so does the stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्राध्वने (*prādhvane*)—in a mountain-valley region
+- शूघनासः (*śūghanāsaḥ*)—flowing swiftly
+- सिंधोः इव (*siṃdhoḥ iva*)—like the current of a river
+- यह्वाः (*yahvāḥ*)—of abundant measure
+- वातप्रमियः (*vātapramiyaḥ*)—swift like the wind
+- धृतस्य धाराः (*dhṛtasya dhārāḥ*)—the streams of ghee
+- अरुषः (*aruṣaḥ*)—swift-going
+- वाजी न (*vājī na*)—like a horse
+- काष्ठाः (*kāṣṭhāḥ*)—the sticks (the paridhis)
+- भिंदन् (*bhiṃdan*)—breaking through
+- ऊर्मिभिः (*ūrmibhiḥ*)—with saps in the form of waves
+- पिन्नमानः (*pinnamānaḥ*)—growing
+- पतयंति (*patayaṃti*)—enter the fire
+
+##### भावार्थ (Bhāvārtha)
+
+Like the current of a river rushing swiftly downward in a mountain-valley region, the streams of ghee, abundant in measure and swift like the wind, enter the fire. Like a swift-going horse they break through the paridhis, and they grow with saps in the form of waves.
+
+##### English translation (H. H. Wilson)
+The streams of Ghi fall copious, swift as the wind, and rapid as the waters of a river down a declivity, breaking through the confining banks, and hurrying on with their waves, like a high-spirited steed.
+
+### Printed p. 660
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र॑वंत॒ सम॑नेव॒ योषाः॑ कल्या॒ण्य१॒॑ागः स्मय॑मानासो  ॒
+> अग्निं ।  
+> घृ॒तस्य॒ धाराः॑ स॒मिधो॑ नसंत॒ ता जु॑षा॒णो ह॑र्यति जा॒तवे॑दाः ॥ ८ ॥
+
+> *abhi pravaṃta samaneva yoṣāḥ kalyāṇyāgaḥ smayamānāso*  
+> *agniṃ |*  
+> *ghṛtasya dhārāḥ samidho nasaṃta tā juṣāṇo haryati jātavedāḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रवंत । समनाइव । योषाः । कल्याण्यः । स्मयमानासः । अग्निं ।  
+> घृतस्य । धाराः । संइधः । नसंत । ताः । जुषाणः । हर्यति । जातवेदाः ॥ ८ ॥
+
+> *abhi | pravaṃta | samanāiva | yoṣāḥ | kalyāṇyaḥ | smayamānāsaḥ | agniṃ |*  
+> *ghṛtasya | dhārāḥ | saṃidhaḥ | nasaṃta | tāḥ | juṣāṇaḥ | haryati | jātavedāḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृतस्य धारा अमुमग्निं समनेव समानमनस्का योषा योषितः पतिमिवाभि
+> प्रवंत । अभिनमयंति । निमग्नं कुर्वंति । कीदृश्यस्ताः । कल्याण्यो भद्ररूपाः
+> स्मयमानासो हसंत्यः । किंच ताः समिधः सम्यग्दीपयित्र्यः सत्यो नसंत ।
+> व्याप्नुवंती । ता एव धारा जुषाणः प्रीयमाणः सेवमानो वायं जातवेदा
+> हर्यति । कामयते । धृतशब्दस्योदकमिति पक्षेऽग्निजातवेदःशब्दाभ्यां वैद्युतोऽग्निरादित्यो वा गृह्यते । तं देवमुदकधारा अभि प्रवंत नसंत च । स ताश्च हर्यति ॥
+
+##### Gist of the bhāṣya
+
+The streams of ghee turn toward and bend down to this Agni, as like-minded women go to their husband, and immerse him. They are auspicious in form and smiling. Moreover, kindling him well, they pervade him. Delighted, and serving those very streams, Jātavedas desires them. On the view that the ghee is water, "Agni" and "Jātavedas" denote the lightning-fire or the sun. The streams of water turn toward and pervade that god, and he desires them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कल्याण्यः (*kalyāṇyaḥ*)—of auspicious nature
+- स्मयमानासः (*smayamānāsaḥ*)—smiling-faced
+- समनाः (*samanāḥ*)—having a corresponding mind
+- योषा इव (*yoṣā iva*)—as wives join their husbands
+- धृतस्य धाराः (*dhṛtasya dhārāḥ*)—the streams of ghee
+- अग्निं (*agniṃ*)—Agni
+- अभि प्रवंत (*abhi pravaṃta*)—join (as if listening)
+- समिधः (*samidhaḥ*)—making (Agni) blaze
+- नसंत (*nasaṃta*)—pervade
+- जातवेदाः (*jātavedāḥ*)—Agni, who is Jātavedas
+- ताः (*tāḥ*)—those streams
+- जुषाणः (*juṣāṇaḥ*)—serving
+- हर्यति (*haryati*)—accepts
+
+##### भावार्थ (Bhāvārtha)
+
+As wives, auspicious in form, smiling-faced and of corresponding mind, embrace their husbands, so the streams of ghee join Agni as if embracing him. Making Agni blaze, they pervade him. Agni, who is Jātavedas, serving those streams, accepts them.
+
 ---
 
-**Progress note:** Done through printed p. 654. pp. 649-654 (batch API)
+**Progress note:** Done through printed p. 660. pp. 655-660 (batch API)
