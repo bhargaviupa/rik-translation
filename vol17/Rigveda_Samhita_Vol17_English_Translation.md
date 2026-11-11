@@ -9726,6 +9726,283 @@ Indra, invested with all energies, has filled both heaven and earth with his gre
 
 इंद्रः विश्वैः वीर्यैः पत्यमानः (*iṃdraḥ viśvaiḥ vīryaiḥ patyamānaḥ*)—सर्वैः सामर्थ्य्यैः प्राप्यमाणः इंद्रः (*sarvaiḥ sāmarthyyaiḥ prāpyamāṇaḥ iṃdraḥ*). The meaning of the word इंद्र (*iṃdra*) is explained in various ways by Yāska (Ni. 10-8). It is described that Indra, being full of manifold and complete power, has filled heaven and earth with his greatness.
 
+### Printed p. 261
+Indra, the slayer of Vṛtra, endowed with an army bent on overcoming foes, is prayed to bring plenty of cattle to us, the sacrificers. The Sanskrit of this prayer is वृत्रहा धृष्णुसेनः नः पश्वः भूरि आ भर (*vṛtrahā dhṛṣṇusenaḥ naḥ paśvaḥ bhūri ā bhara*)—पराभिभवनशीलसेनोपेतः वृत्रस्य हंता अस्मभ्यं पशून् भूरि यथा भवति तथा आभर । (*parābhibhavanaśīlasenopetaḥ vṛtrasya haṃtā asmabhyaṃ paśūn bhūri yathā bhavati tathā ābhara |*), and alternatively यद्वा पशोः भूरि बर्हू पशूंश्च यच्छ (*yadvā paśoḥ bhūri barhū paśūṃśca yaccha*). In Kannada: may Indra, the slayer of Vṛtra, accompanied by armies able to defeat enemies, graciously grant us, the sacrificers, many animals such as cows, so that they gather to us in plenty; or may he grant plentiful animals alone. Such is the prayer expressed.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नास॑त्या मे पि॒तरा॑ बंधु॒पृच्छा॑ सजा॒त्य॑म॒श्विनो॒श्चारु॒ नाम॑ ।  
+> यु॒वं हि स्तो र॑यि॒दौ नो॑ रयी॒णां दा॒त्रं र॑क्षेथे॒ अक॑वै॒रद॑ब्धा ॥ १६ ॥
+
+> *nāsatyā me pitarā baṃdhupṛcchā sajātyamaśvinoścāru nāma |*  
+> *yuvaṃ hi sto rayidau no rayīṇāṃ dātraṃ rakṣethe akavairadabdhā ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नासत्या । मे । पितरा । बंधुपृच्छा । सजात्यं । अश्विनोः । चारु । नाम ।  
+> युवं । हि । स्थः । रयिद्दौ । नः । रयीणां । दात्रं । रक्षेथे इति । अकवैः । अदद्दा ॥
+
+> *nāsatyā | me | pitarā | baṃdhupṛcchā | sajātyaṃ | aśvinoḥ | cāru | nāma |*  
+> *yuvaṃ | hi | sthaḥ | rayiddau | naḥ | rayīṇāṃ | dātraṃ | rakṣethe iti | akavaiḥ | adaddā ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्यावश्विन् बंधुपृच्छा । हविष्पदातृत्वेन बंधूनस्मानपेक्षितमर्थं
+> पृच्छत इति बंधूनां प्रष्टारौ । युवां मे पितरौ पालयितारौ भवतं । युवयोरश्विनोः सजात्यं सजाते भवं संगतं चारु नाम कमनीयं खलु । हे अश्विनौ
+> युवं युवां नोऽस्मभ्यं रयीणां धनानां मध्यॆ रयिदावुत्तमस्य धनस्य
+> दातारौ स्थो हि । भवथः खलु। किंच आदब्बा केनाप्यतिरस्कृतौ युवां दात्रं हविषां
+> दातारं मामकवैरकुत्सितैः शोभनैः कर्मभी रक्षेथे । पालयतं ॥ नासत्या । नभ्राण्नपादित्यादिना निपातनान्नञ्ञः प्रकृतिभावः । बंधुपृच्छा । पृच्छेः क्विप् । सुपां
+> सुलुगिति सुपो डादेशः । सजात्यं । सजाते भवं । भवे छंदसीति यत् । तित्स्वरितः ।
+> स्थः । अस्तेर्लट रूपं । हियोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Nāsatyas, Aśvins, bandhupṛcchā": since by giving oblations we are their kinsmen, they ask us the object we desire, and so are "questioners of kinsmen". "You two are my parents", my protectors. This "common-birth" (सजात्यं (*sajātyaṃ*), what exists in the same birth, conjoined) of you two Aśvins is a lovely name. "O Aśvins, you are the givers to us of the best wealth among riches (रयिदौ (*rayidau*))". Further, unbaffled by anyone, you two protect me, the giver of the oblations, with good deeds that are blameless (अकवैः (*akavaiḥ*) = अकुत्सितैः (*akutsitaiḥ*), the unblameable). Protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- बंधुपृच्छा (*baṃdhupṛcchā*)—you who, being kinsmen to us, ask and learn our desired objects
+- मे (*me*)—to me
+- पितरा (*pitarā*)—be protectors
+
+### Printed p. 262
+- अश्विनोः (*aśvinoḥ*)—of you two
+- सजात्यं (*sajātyaṃ*)—being one together
+- चारु नाम (*cāru nāma*)—is attractive
+- युवं (*yuvaṃ*)—you two
+- नः (*naḥ*)—to us
+- रयीणां (*rayīṇāṃ*)—among the whole group of riches
+- रयिदौ (*rayidau*)—as givers of the best wealth
+- स्थः हि (*sthaḥ hi*)—are you not
+- अदब्धा (*adabdhā*)—you who are not harmed by others
+- दात्रं (*dātraṃ*)—me, who offer the oblation
+- अकवैः (*akavaiḥ*)—with good deeds
+- रक्षेथे (*rakṣethe*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, you who, being kinsmen to us, ask and learn our desired objects, be protectors to me. Your being joined together is attractive to the sight. You are the givers to us of the best wealth among all wealth. You, who are not harmed by others, protect me, the offerer of the oblation, with good deeds.
+
+##### English translation (H. H. Wilson)
+Nasatyas, my protectors, inquirers (after the wishes) of your kinsman, beautiful is your cognate appellation of Ashwins ; be to us the liberal donors of riches : you, are irresistible, protect the offer (of the oblation) with unblameable (defences).
+
+##### विशेषविषयगळु (Special Topics)
+
+नासत्या बंधुपृच्छा मे पितरौ (*nāsatyā baṃdhupṛcchā me pitarau*)—अश्विनौ हविस्पदातृत्वेन बंधूनस्मान् अपे क्षितमर्थं पृच्छतः युवां पालयितारौ भवतं । (*aśvinau havispadātṛtvena baṃdhūnasmān ape kṣitamarthaṃ pṛcchataḥ yuvāṃ pālayitārau bhavataṃ |*). The word Nāsatyau is explained by Yāska (Ni. 6-13) in two or three ways. The Aśvin gods, as kinsmen would inquire, inquire into and learn the wishes of the sacrificers who please them with offerings of oblations, and fulfil them; therefore the prayer is explained as asking that they be protectors of the sacrificers.
+रयिदौ नो रयीणां (*rayidau no rayīṇāṃ*)—धनानां मध्ये उत्तमस्य धनस्य दातारौ (*dhanānāṃ madhye uttamasya dhanasya dātārau*): the meaning is described that among the various kinds of wealth the Aśvin gods grant the sacrificer the best wealth.
+अदब्धा (*adabdhā*)—केनाप्यहिंसितौ (*kenāpyahiṃsitau*): it is declared that the Aśvin gods are those who are harmed by no one; and अकवैः रक्षेथे (*akavaiḥ rakṣethe*)—अकुत्सितैः शोभनकर्मभिः पालयितं (*akutsitaiḥ śobhanakarmabhiḥ pālayitaṃ*): that they should protect the sacrificers so that good rites, not open to blame, are performed continually.
+
+### Printed p. 263
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हत्तद्वः॑ कवय॒श्चारु॒ नाम॒ यद्ध॑ देवा॒ भव॑थ॒ विश्व॒ इंद्रे॑ ।  
+> सख॑ ऋ॒भुभिः॑ पुरुहूत प्रि॒येभि॑रि॒मां धियं॑ सा॒तये॑ तक्षता  
+> नः ॥ १७ ॥
+
+> *mahattadvaḥ kavayaścāru nāma yaddha devā bhavatha viśva iṃdre |*  
+> *sakha ṛbhubhiḥ puruhūta priyebhirimāṃ dhiyaṃ sātaye takṣatā*  
+> *naḥ ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महत् । तत् । वः । कवयः । चारु । नाम । यत् । ह । देवाः । भवथ । विश्वे ।  
+> इंद्रे ।  
+> सखा । ऋभुभिः । पुरुहूत । प्रियेभिः । इमां । धियं । सातये । तक्षत । नः ॥  
+> ॥ १७ ॥
+
+> *mahat | tat | vaḥ | kavayaḥ | cāru | nāma | yat | ha | devāḥ | bhavatha | viśve |*  
+> *iṃdre |*  
+> *sakhā | ṛbhubhiḥ | puruhūta | priyebhiḥ | imāṃ | dhiyaṃ | sātaye | takṣata | naḥ ‖*  
+> *‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवयो मेधाविनो हे देवा वो युष्माकं तत्तादृशं महत्पभूतं
+> नाम कर्म नमनं वा चारु मनोहरं खलु । यद्येन कर्मणा विश्वे सर्वॆ
+> यूयमिंद्र इंद्रोपलक्षिते लोके देवा भवथ ह देवत्वं प्राप्नुथ खलु । हे
+> पुरुहूत बहुभिराहूत हे इंद्र त्वं प्रियेभिः प्रियतमैर्यभुभिः । ऋतेन भवंत्यृतेन भांतीति वा । ऋभभिर्देवैः सखासि । इंद्रसहिता ऋभवो यूयमिमामस्यदीयां धियं स्तुतिं नोऽस्माकं सातये धनादिलाभार्थं तक्षत । स्वीकुरुत ॥ यत् ।
+> सुपां सुलुगित्यादिना सुपो लुक् । भवथ ॥ भवतेर्लटि रूपं । यद्वृत्तयोगादनिघातः । सख ऋभुभिरित्यस्य संहितायामृत्यक इति प्रकृतिभावो ह्रस्वत्वं च ॥
+
+##### Gist of the bhāṣya
+
+"O wise ones (कवयः (*kavayaḥ*)), O gods, that great, abundant नाम (*nāma*)—either 'action' or 'bowing'—of yours is surely charming; by which action all of you attain godhood in the world marked by Indra." "O Indra, invoked by many, you are a friend with the Ribhus, your dearest." The Ribhus are explained as those who come into being by ṛta (truth, order), or who shine by ṛta. "You Ribhus, together with Indra, accept (तक्षत (*takṣata*), 'receive') this praise of his for our gain of wealth and the like."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—O wise gods
+- वः (*vaḥ*)—to you
+- तत् (*tat*)—that well-known
+- महत् (*mahat*)—and abundant
+- नाम (*nāma*)—action
+- चारु (*cāru*)—is dear
+- यत् (*yat*)—by which very action
+- विश्वे (*viśve*)—all of you together
+- इंद्रे (*iṃdre*)—in Indra's world
+- देवाः भवथ ह (*devāḥ bhavatha ha*)—have you not attained godhood
+- पुरुहूत (*puruhūta*)—O Indra, invoked by many
+- प्रियेभिः (*priyebhiḥ*)—who are dearest to you
+- ऋभुभिः (*ṛbhubhiḥ*)—with the Ribhus
+- सखा (*sakhā*)—you are a friend
+- इमां (*imāṃ*)—offered by us
+- धियं (*dhiyaṃ*)—the praise
+- नः (*naḥ*)—for us
+- सातॆये (*sātèye*)—for the gain of wealth
+- तक्षत (*takṣata*)—accept
+
+### Printed p. 264
+
+##### भावार्थ (Bhāvārtha)
+
+O wise gods, the well-known and abundant action is dear to you. By that very action have you all not attained godhood in Indra's world? O Indra, invoked by many, you are a friend with the Ribhus, who are dearest to you. Accept the praise offered by us for the gain of wealth for us.
+
+##### English translation (H. H. Wilson)
+Sages acquainted with the past, excellent is that beautiful appellation under which you have both become gods in (the sphere of) Indra : Indra, the invoked of many, a friend, (associated) with the beloved Ribhus, shape this prayer for our benefit.
+
+##### विशेषविषयगळु (Special Topics)
+
+कवयः (*kavayaḥ*)—मेधा विनः (*medhā vinaḥ*). The word kavi is stated among the names of the wise (Ni. 3-19). By this word the gods are addressed as being wise. Of these gods महत् नमनं चारु (*mahat namanaṃ cāru*)—प्रभूतं नमनं मनोहरं (*prabhūtaṃ namanaṃ manoharaṃ*): it is described that their excessive performance of deeds is beneficial to the world and attractive to the minds of all.
+And यत् विश्वे इंद्रे देवाः भवथ (*yat viśve iṃdre devāḥ bhavatha*)—येन कर्मणा सर्वॆ यूयं इंद्रो सलक्षिते लोके देवत्वं प्राप्नुथ । (*yena karmaṇā sarvè yūyaṃ iṃdro salakṣite loke devatvaṃ prāpnutha |*). Their excellent performance of rites is praised thus: by the rites these gods perform, they obtain a shining godhood and dwell in the world where Indra dwells.
+Although Indra is addressed by the word purūhūta, it is declared that this Indra is a friend of the gods called Ribhus, and that the Ribhus, coming with Indra to the sacrificial hall and hearing the sacrificer's praises, should grant wealth and the like to the sacrificer.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्य॒मा नो॒ अदि॑तिर्य॒ज्ञया॒सोऽद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑।  
+> यु॒योत॑ नो अनप॒त्यानि॒ गंतोः॑ प्र॒जावा॑न्नः पशु॒मां ॑ ॒
+> अस्तु गातुः ॥ १८ ॥
+
+> *aryamā no aditiryajñayāso 'dabdhāni varuṇasya vratāni|*  
+> *yuyota no anapatyāni gaṃtoḥ prajāvānnaḥ paśumāṃ*  
+> *astu gātuḥ ‖ 18 ‖*
+
+### Printed p. 265
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आर्यमा । नः । अदितिः । यज्ञियासः । आदब्बानि । वरुणस्य । व्रतानि ।  
+> युयोत । नः । अनपत्यानि । गंतोः । प्रजावान् । नः । पशुमान् । अस्तु । गातुः॥
+
+> *āryamā | naḥ | aditiḥ | yajñiyāsaḥ | ādabbāni | varuṇasya | vratāni |*  
+> *yuyota | naḥ | anapatyāni | gaṃtoḥ | prajāvān | naḥ | paśumān | astu | gātuḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्यमा । ऋच्छति सर्वदा गच्छतीत्यर्यमा सूर्यः । आदितिर्देवमाता
+> यज्जियासो यज्ञार्हा देवा यस्य वरुणस्य व्रतानि कर्माण्यदब्बान्यहिंसितानि
+> भवंति स वरुणस्ते चार्यमादयो देवा नोऽस्मानक्षंत्विति शेषः । ते यूयं
+> नोऽस्माकमनपत्यान्यपत्यानां पुत्राणामहितानि कर्माणि । यद्वा । पतनकारणं न
+> भवतीत्यपत्यं । तदन्यान्यनपत्यानि पतनकारणानि कर्माणि गंतोः सन्मार्गाद्युयोत।
+> पृथक्कुरुत । यथा तान्यहितानि कर्माणि न स्पृशंति तथा कुरुतेत्यर्थः । अथ गातुः ।
+> गायंति स्तुवंतींद्रादीनत्रेति गातुर्गृहं । नोऽस्मदीयं गृहं पशुमान्पश्वादियुक्तं प्रजावानपत्योपेशमस्तु ॥ आर्यमा । ऋ गत् । श्वन्नु क्षन्निहन्नेदन्नित्यादिना निपातनाद्रूपसिद्धिः । अदितिः । दीज् क्षय इत्यस्य कर्तरि क्तिच् । नञा समासः ।
+> अदितिरदीनेति यास्कः । छांदसं ह्रस्वत्वं । नञा: स्वरः । युयोत । यौतेरमिश्रीभावकर्मणो लोटि बहुलं छंदसीति शप श्लुः । तप्तनबिति तप्रत्ययस्य तबादेशः ।
+> गंतोः । गम्ल गत् । सितनिगमिमसिसच्यविधाण्‌क्रुशिभ्य इति तुन्प्रत्ययः । नित्तादाम्युदात्तः । गातुः । गापाहिभ्यश्चेति तुप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Aryaman: "he goes (ऋच्छति (*ṛcchati*)) always", hence Aryaman, the Sun. Aditi is the mother of the gods. यज्जियासो (*yajjiyāso*) are the gods worthy of sacrifice. Varuṇa's व्रतानि (*vratāni*), his works, are unharmed (adabbāni = ahiṃsitāni). That Varuṇa and those gods, Aryaman and the rest, "may protect us" (the verb to be supplied). You, as to us: अनपत्यानि (*anapatyāni*) are deeds that are not beneficial to अपत्यानां (*apatyānāṃ*), sons. Or else: what is not a cause of falling is apatya; the others, अनपत्यानि (*anapatyāni*), are deeds that are causes of falling. Separate us (युयोत (*yuyota*)) from these, from the right path (गंतोः (*gaṃtoḥ*)): act so that those harmful deeds do not touch us. Then गातुः (*gātuḥ*): people sing, praise Indra and the others here, hence गातुः (*gātuḥ*) is the house. May our house be पशुमान् (*paśumān*), furnished with cattle and the like, and प्रजावान् (*prajāvān*), possessed of offspring.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरमा (*aramā*)—Aryaman, the god **NOTE**
+- अदितिः (*aditiḥ*)—Aditi, mother of the gods
+- यज्ञियासः (*yajñiyāsaḥ*)—the gods worthy of sacrifice
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- व्रतानि (*vratāni*)—the works
+- आदब्बानि (*ādabbāni*)—being unharmed
+- नः (*naḥ*)—may they protect us
+- अनपत्यानि (*anapatyāni*)—deeds opposed to offspring
+- गंतोः (*gaṃtoḥ*)—than the right path **NOTE**
+- युयोत (*yuyota*)—let them separate (let them make us not enter the wrong path)
+- नः (*naḥ*)—our house
+- पशुमान् (*paśumān*)—furnished with cattle and the like
+- प्रजावान् (*prajāvān*)—possessed of progeny
+- अस्तु (*astu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+May Aryaman, Aditi the mother of the gods, the gods worthy of sacrifice, and the works of Varuṇa too, being unharmed, protect us. Destroying the deeds opposed to our offspring, let them keep us always on the right path. May our house be furnished with cattle and the like, and possessed of progeny.
+
+### Printed p. 266
+
+##### English translation (H. H. Wilson)
+May Aryaman, Aditi the adorable (gods), and the unimpeded functions of Varuna (protect) us : keep us from (following) the course unpro- pitious to offspring, and may our dwelling be abundant in progeny and cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+आर्यमा (*āryamā*)—ऋच्छति सर्वदा गच्छतीत्यर्यमा सूर्यः (*ṛcchati sarvadā gacchatītyaryamā sūryaḥ*). Sāyaṇa explains that the Sun is designated by the word Aryaman because he is always in motion. The explanation of Durgācārya is अरीणां तमसां नियंता (*arīṇāṃ tamasāṃ niyaṃtā*) (Ni. 11-24). Various meanings of the word Aditi are explained by Yāska. Here the word is used in the sense "mother of the gods". Because the works of the goddess Aditi, mother of the gods, of the Sun, of Varuṇa and of the gods worthy of sacrifice cause harm to no one, the prayer is made that these gods protect us, the sacrificers.
+For the word अनपत्यानि (*anapatyāni*): अपत्यानां पुत्राणामहितानि कर्माणि (*apatyānāṃ putrāṇāmahitāni karmāṇi*)—deeds not beneficial to sons; and else, पतनकारणं न भवतीतपत्यं तदन्यान्यनपत्यानि पतन कारणानि कर्माणि (*patanakāraṇaṃ na bhavatītapatyaṃ tadanyānyanapatyāni patana kāraṇāni karmāṇi*)—or else, deeds that are not a cause of falling are अपत्य (*apatya*); deeds other than these are अनपत्य (*anapatya*) and are therefore known as causes of falling. नः गंतोः युयोत (*naḥ gaṃtoḥ yuyota*): it is wished that these gods grant that deeds not beneficial to the sacrificers' sons do not occur, or that they keep away from the proper path the deeds that cause the sacrificers' fall.
+गातुः (*gātuḥ*)—गायंत्यत्रेंद्रादीनिति गातुर्गृहं (*gāyaṃtyatreṃdrādīniti gāturgṛhaṃ*). The sacrificial hall, where Indra and the others are praised, is designated by the word गातुः (*gātuḥ*). The favour of these gods is wished for, that the sacrificer's house be filled with cattle and offspring.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वानां॑ दू॒तः पु॑रु॒ध प्रसू॒तोऽना॑गान्नो वोचतु स॒र्वता॑ता ।
+
+> *devānāṃ dūtaḥ purudha prasūto 'nāgānno vocatu sarvatātā |*
+
+### Printed p. 267
+
+> शृणोतु नः पृथिवी द्यौरुतापः सूर्यो नक्षत्रैरुर्वंगतरिक्षं ॥ १९ ॥
+
+> *śṛṇotu naḥ pṛthivī dyaurutāpaḥ sūryo nakṣatrairurvaṃgatarikṣaṃ ‖ 19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानां । दूतः । पुरुध । प्रसूतः । अनागान् । नः । वोचतु । सर्वताता ।  
+> शृणोतु । नः । पृथिवी । द्यौः । उत । अपः । सूर्यैः । नक्षत्रैः । उरु । अंतरिक्षं ॥
+
+> *devānāṃ | dūtaḥ | purudha | prasūtaḥ | anāgān | naḥ | vocatu | sarvatātā |*  
+> *śṛṇotu | naḥ | pṛthivī | dyauḥ | uta | apaḥ | sūryaiḥ | nakṣatraiḥ | uru | aṃtarikṣaṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुध पुरुषु बहुषु देशेषु प्रसूतोऽग्निहोत्रार्थं विहितः । यद्वा ।
+> पुरुभिर्यजमानैः प्रसूतो यष्टव्यदेवाह्वानार्थं प्रेरितो देवानां दूतः ।
+> तथा च तैत्तिरीयकं । अग्निर्दॆवानां दूत आसीदिति । तादृशोऽग्निः कर्मकर्तृसाधनवैगुण्येन सापराधानप्यस्माननागाननागसः । सर्वताता सर्वत्र वोचतु । ब्रवीतु ।
+> किंच पृथिवी द्यौश्च उतापि चापः सूर्यश्च नक्षत्रैरुरु विस्तीर्णमंतरिक्षं च । एते
+> सर्वे देवा नोऽस्मदीयां स्तुतिं शृणोतु । शृण्वंतु । प्रत्येकविवक्षयैकवचनं ॥
+> प्रसूतः । षू प्रेरणे । कर्मणि क्तः । गतिरनंतर इति गतेः प्रकृतिस्वरः । अनागान् ।
+> शसि सकारलोपश्कांदसः । सवर्णदीर्घे कृते तस्माच्छसो न इति नत्वं । वोचतु ।
+> वच परिभाषणे । व्यत्ययो बहुलमिति शपोऽजादेशः । वच उम् । गुणः । निघातः ।
+> नक्षत्रैः । नक्ष गत् । अमिनक्षियजिबंधिपतिभ्योऽत्रन्नित्यत्रन्प्रत्ययः । नित्वादाद्युदात्तः । यद्वा । न क्षरति न क्षेयत इति वा नक्षत्रं । नभ्राण्णपादिति नञः प्रकृतिभावः ।
+> नञः स्वरः ॥
+
+##### Gist of the bhāṣya
+
+पुरुध (*purudha*): प्रसूतः (*prasūtaḥ*) in many places (पुरुषु बहुषु देशेषु (*puruṣu bahuṣu deśeṣu*)), that is, appointed for the Agnihotra. Or else, impelled by many sacrificers to invite the gods to be sacrificed to, he is the messenger of the gods. So the Taittirīya text says अग्निर्दॆवानां दूत आसीदिति (*agnirdèvānāṃ dūta āsīditi*). May such an Agni, even though we are at fault through defects in the rite, the performer and the means, declare us everywhere (सर्वताता (*sarvatātā*)) to be अनागान् (*anāgān*), sinless; वोचतु (*vocatu*) means "let him say". Further: Earth and Heaven, and the Waters, the Sun, and the wide atmosphere with its stars—may all these gods hear our praise. The singular verb is used because each is intended separately.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुध (*purudha*)—in many regions
+- प्रसूतः (*prasūtaḥ*)—produced (for the sacrifice)
+- देवानां (*devānāṃ*)—to the gods
+- दूतः (*dūtaḥ*)—the messenger; Agni
+- नः (*naḥ*)—us
+- अनागान् (*anāgān*)—as sinless
+- सर्वताता (*sarvatātā*)—in all places
+- वोचतु (*vocatu*)—let him proclaim
+- पृथिवी (*pṛthivī*)—Earth
+- द्यौः (*dyauḥ*)—the world of heaven
+- उत (*uta*)—and
+- आपः (*āpaḥ*)—the deity of the waters
+- सूर्यः (*sūryaḥ*)—the Sun **NOTE**
+- नक्षत्रैः (*nakṣatraiḥ*)—existing together with the stars
+- उरु (*uru*)—extensive
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- नः (*naḥ*)—our praise
+- शृणोतु (*śṛṇotu*)—let it hear
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who is produced for the sacrifice in many regions and is the messenger of the gods, proclaim us everywhere as sinless. May the earth, the world of heaven, and the water-dei
+
 ---
 
-**Progress note:** Done through printed p. 260. pp. 254-260 (batch API, retry 1)
+**Progress note:** Done through printed p. 267. pp. 261-267 (batch API, retry 1)
