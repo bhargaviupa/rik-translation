@@ -8574,6 +8574,246 @@ The lord of acts, the wise Indra, has borne across (their difficulties), Turvasa
 
 तुर्वशायदू—यदु इत्यादीनि पंचमनुष्यनामानि (*turvaśāyadū—yadu ityādīni paṃcamanuṣyanāmāni*)। Yadu, Turvaśa, Druhyu, Anu and Pūru are the five human names. Among them, those of the group called Yadu always
 
+### Printed p. 241
+
+Yadu was a group of people who were harmless to others: "among the Yadus, the restrained, among those who do not harm others," as Sāyaṇa explains. This can be the name of one person, or the name of a group. Just as the name of the king Yadu is well known, so the name of a group called Yadu is also well known.
+
+Among the Turvaśas: the name Turvaśa too is well known both as the name of a person and as the name of a group. Here Sāyaṇa has stated the nature of the Turvaśas by saying "among harmful men," that is, in the company of men who do harm. Wherever the names of the two persons Yadu and Turvaśa occur, it is understood that both were royal sages and had earned the favour of Indra and Agni. It may be said that the occurrence of the two names together in the plural, "among the Yadus, among the Turvaśas," is found in this one place alone in the whole Ṛk-Saṃhitā.
+
+"With Agni we strike down Turvaśa, Yadu and Ugrādeva from afar." (Ṛ. Saṃ. 1-36-18)
+
+"You helped the heroic Turvaśa and Yadu, and you helped Turvīti and Vayya, O Śatakratu." (Ṛ. Saṃ. 1-54-6)
+
+In Ṛks such as these it is said that both royal sages received the protection of Agni and of Indra.
+
+Turvaśa's chief deed of daring was his fighting with Sudās.
+
+"Purolā, the Turvaśa, was a worshipper; the fish were sharpened as if for wealth; the Bhṛgus and the Druhyus did what was wanted; friend (helped) friend; they crossed the two directions." (Ṛ. Saṃ. 7-18-6)
+
+In this Ṛk Turvaśa's battle is described. But it is not at all clear whether Turvaśa received help from Indra here, or received punishment. Sāyaṇa has given both kinds of meaning. First: when Turvaśa went to fight Sudās, the friend of Indra, Indra subdued Turvaśa and protected his friend. Second: at the time when a battle arose between Turvaśa and his enemies, Indra helped Turvaśa, who was his friend. Therefore the purport of this Ṛk is not clear. In the same way, that both Yadu and Turvaśa were defeated by Indra is stated in:
+
+"Indra, in this very way, [broke] the cities at once, for the prayer, [and] Śambara for Divodāsa; then that Turvaśa and Yadu." (Ṛ. Saṃ. 9-61-2)
+**NOTE**
+
+### Printed p. 242
+
+is stated in this Ṛk. From this it is understood that Indra subdued Yadu and Turvaśa for the sake of his friend Divodāsa. But:
+
+"Bring across in safety, O hero, the mighty Turvaśa and Yadu, as you have done before." (Ṛ. Saṃ. 1-174-9)
+**NOTE**
+
+"And those two, Turvaśa and Yadu, who could not swim, the lord of Śacī, Indra, the knowing one, brought across." (Ṛ. Saṃ. 4-30-17)
+
+"You, O Indra, set the waters flowing for Yadu and Turvaśa, and the good-yielding ones, and took them across." (Ṛ. Saṃ. 5-31-8)
+**NOTE**
+
+"Great is your deed, O showerer, worthy to be looked upon; may we see Turvaśa and Yadu." (Ṛ. Saṃ. 8-4-7)
+
+In many Ṛks such as these it is stated that both Yadu and Turvaśa received help from Indra directly.
+
+Whenever these names occur in the plural, it is understood that the two were separate lines of descent and that the two groups were closely related.
+
+"Thirty hundred mail-clad men together, O Indra, much invoked, with [their] glory … the Vṛcīvants, flying to the … broke their vessels and went to ruin." "He whose two cows, the red ones with good pasture, move between, licking (their calves) — he gave Turvaśa to Sṛñjaya, [and] the Vṛcīvants, helping them in the rite." (Ṛ. Saṃ. 6-27-6, 7)
+**NOTE**
+
+From the circumstances seen in these Ṛks, the scholar Zimmer has expressed the opinion that the Vṛjīvat line and the Turvaśa line are two names of one and the same family. But here the two names do not indicate identity as names of one family. Therefore it may be said that they are different names of closely related groups. And:
+
+"Śoṇa Sātrāsaha, the Pāñcāla king, performed the sacrifice; this was sung in a verse: the Turvaśas, when Sātrāsaha was sacrificing with the horse-sacrifice." (Śa. Brā. 13-5-4-16)
+
+From this Brāhmaṇa sentence it is understood that the Turvaśas were friends of the Pāñcālas and helped them at the time of their sacrifice. In describing the battle of the Turvaśas it is indicated that they crossed the river Paruṣṇī (Ṛ. Saṃ. 7-18)
+
+### Printed p. 243
+
+But from which direction is not correctly known. From other evidence it may be said that they crossed from west towards east. The relation between the Yadus and these people also cannot be stated exactly.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्या स॒द्य आर्या॑ स॒रयो॑रिंद्र पा॒रतः॑ ।  
+> अर्णा॑चि॒त्रर॑थावधीः ॥ १८ ॥
+
+> *uta tyā sadya āryā sarayoriṃdra pārataḥ |*  
+> *arṇācitrarathāvadhīḥ ‖ 18 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्या । सद्यः । आर्या । सरयोः । इंद्र । पारतः ।
+
+> *uta | tyā | sadyaḥ | āryā | sarayoḥ | iṃdra | pārataḥ |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> । ।
+> अर्णाचित्ररथा । अवधीः ॥ १८ ॥
+> उतापि च सद्यः सपदि हे इंद्र त्वं त्या तौ तानार्यार्यान्यार्यत्वाभिमानिनौ संतावपि । इंद्रविषयभक्तिश्रद्धारहितानित्यर्थः । सरयोः सरय्या नद्याः पारतः
+> पारे तीरे वसंतावर्णाचित्ररथा अर्णनामकं चित्ररथनामकं च राजानाववधीः ।
+> अहिंसीः ॥
+
+##### Gist of the bhāṣya
+
+"And, at once, O Indra, you slew those two, Āryas, being those who thought themselves Āryas" — that is, men without devotion and faith towards Indra — "dwelling on the farther bank of the river Sarayū": the two kings named Arṇa and Citraratha.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- त्या (*tyā*)—those renowned ones
+- आर्या (*āryā*)—who belonged to the group of Āryas yet did not worship you
+- सरयोः (*sarayoḥ*)—of the river Sarayū
+- पारतः (*pārataḥ*)—who lived on the bank
+- अर्णाचित्ररथा (*arṇācitrarathā*)—the kings named Arṇa and Citraratha
+- सद्यः (*sadyaḥ*)—as soon as you willed it
+- अवधीः (*avadhīḥ*)—you have killed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the kings named Arṇa and Citraratha, famous men who belonged to the group of Āryas yet did not worship you and lived on the bank of the river Sarayū, you destroyed as soon as you willed it.
+
+### Printed p. 244
+
+##### English translation (H. H. Wilson)
+You have slain at once those two Aryas, Arna and Chitraratha, (dwelling) on the opposite (bank) of the Sarayu.
+
+##### विशेषविषयगळु (Special Topics)
+
+Arṇācitrarathā: Citraratha and Arṇa were kings of the Ārya line. While they were fighting with Turvaśa and Yadu on the bank of the river Sarayū, Indra took the side of Turvaśa and Yadu and defeated Arṇa and Citraratha, it is said.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ द्वा ज॑हि॒ता न॑यो॒ऽंधं श्रो॒णं च॑ वृत्रहन् ।  
+> न तत्ते॑ सु॒म्ममष्ट॑वे ॥ १९ ॥
+
+> *anu dvā jahitā nayo 'ṃdhaṃ śroṇaṃ ca vṛtrahan |*  
+> *na tatte summamaṣṭave ‖ 19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । द्वा । जहिता । नयः । अंधं । श्रोणं । च । वृत्रहन् ।  
+> न । तत् । ते । सुम्मं । अष्टवे ॥ १९ ॥
+
+> *anu | dvā | jahitā | nayaḥ | aṃdhaṃ | śroṇaṃ | ca | vṛtrahan |*  
+> *na | tat | te | summaṃ | aṣṭave ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्य हिंसकेंद्र त्वं जहिता जहित्सौसर्वैर्बंधुभिस्त्यक्तावंधं
+> चक्षुर्हीनमेकं श्रोणं च पंगुमसरं च द्वा एतौ द्वावनु नयः । अंधपंगुत्व
+> परिहारेणानुनीतवानसि । हे इंद्र ते त्वया दत्तं तत्सुम्नं सुखमष्टवे व्याप्तुं
+> कोऽपि न प्रभवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Vṛtrahan, Indra, slayer of Vṛtra: you led forward these two, one blind, without sight, and one lame, a cripple, both abandoned by all their kinsmen; you won them over by removing blindness and lameness. O Indra, no one is able to attain (surpass) that happiness given by you — this is the sense to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- जहिता (*jahitā*)—those abandoned by kinsmen
+- अंधं (*aṃdhaṃ*)—one who is blind, without eyes
+- श्रोणं च (*śroṇaṃ ca*)—and one who is lame, without legs
+- द्वा (*dvā*)—these two
+- अनुनयः (*anunayaḥ*)—you favoured (you gave the blind man eyes and the lame man legs)
+- ते (*te*)—given by you
+- तत् सुम्मं (*tat summaṃ*)—that happiness
+- अष्टवे (*aṣṭave*)—to surpass
+- न (*na*)—not possible by anything else
+
+### Printed p. 245
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, when one blind man without eyes and one lame man without legs were abandoned by their kinsmen, you favoured both and gave the blind man eyes and the lame man legs. And it is not possible to surpass that happiness given by you with any other kind of happiness.
+
+##### English translation (H. H. Wilson)
+Slayer of Vritra, you have restored the (one who was) blind, the (other who was) lame, both abandoned (by their kin) : (it is not possible) to exceed the happiness that is given by you.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तम॑श्म॒न्मयी॑नां पु॒रामिंद्रो॒ व्या॑स्यत् ।  
+> दिवो॑दासाय दा॒शुषे॑ ॥ २० ॥
+
+> *śatamaśmanmayīnāṃ purāmiṃdro vyāsyat |*  
+> *divodāsāya dāśuṣe ‖ 20 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । अश्मन्मयियानां । पुरां । इंद्रः । वि । अस्यत् ।  
+> दिवःकदासाय । दाशुषे ॥ २० ॥
+
+> *śataṃ | aśmanmayiyānāṃ | purāṃ | iṃdraḥ | vi | asyat |*  
+> *divaḥkadāsāya | dāśuṣe ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽश्मन्मयानां पाषाणैर्निर्मितानां पुरां शंबरस्य संबंधिनां
+> नगराणां शतं शतसंख्याकं दिवोदासाय्तन्नामकाय दाशुषे हविर्दत्तवते
+> यजमानाय व्यास्यत् । व्यक्षिपत् ॥
+
+##### Gist of the bhāṣya
+
+Indra hurled down a hundred cities built of stone, belonging to Śambara, for the sacrificer named Divodāsa, who had given oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- शतं (*śataṃ*)—numbering hundreds
+- अश्मन्मयीनां (*aśmanmayīnāṃ*)—built of rocks
+- पुरां (*purāṃ*)—the cities of the demon Śambara
+- दाशुषे (*dāśuṣe*)—who offers oblations
+- दिवोदासाय (*divodāsāya*)—for the sacrificer named Divodāsa
+- व्यास्यत् (*vyāsyat*)—he overturned
+
+### Printed p. 246
+
+##### भावार्थ (Bhāvārtha)
+
+Indra overturned the cities of the demon Śambara, hundreds in number and built of rock, and helped the sacrificer named Divodāsa, who offered oblations.
+
+##### English translation (H. H. Wilson)
+Indra has overturned a hundred stone-built cities for Divodas, the donor of oblations.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्वा॑पयद्द॒भीत॑ये स॒हस्रा॑ त्रि॒शंतं॒ हथैः॑ ।  
+> दा॒साना॒मिंद्रो॑ मा॒यया॑ ॥ २१ ॥
+
+> *asvāpayaddabhītaye sahasrā triśaṃtaṃ hathaiḥ |*  
+> *dāsānāmiṃdro māyayā ‖ 21 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्वापयत् । दभीतये । सहस्र । त्रिंशतं । हथैः ।  
+> दासानां । इंद्रः । मायया ॥ २१ ॥
+
+> *asvāpayat | dabhītaye | sahasra | triṃśataṃ | hathaiḥ |*  
+> *dāsānāṃ | iṃdraḥ | māyayā ‖ 21 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो मायया स्वकीयया शक्त्या दासानां लोकानामुपक्षपयित्कृणां
+> राक्षसादीनां त्रिंशतं त्रिंशत्संख्याकानि सहस्रा सहस्राणि दभीतिनामकस्यार्थाय हथैर्हननसाधनैरायुधैरस्वापयत् । अवधीत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, by his own power of māyā, slew with weapons, the instruments of killing, thirty thousand of the Dāsas, Rākṣasas and others who are destroyers of people, for the sake of Dabhīti.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- मायया (*māyayā*)—by his power in the form of wisdom
+- दासानां (*dāsānāṃ*)—of the Rākṣasas who destroy the world
+- त्रिंशतं सहस्रा (*triṃśataṃ sahasrā*)—thirty thousand in number
+- दभीतये (*dabhītaye*)—to help the Ārya named Dabhīti
+- हथैः (*hathaiḥ*)—with weapons that are instruments of killing and are sharp
+- अस्वापयत् (*asvāpayat*)—he destroyed
+
 ---
 
-**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
+**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
