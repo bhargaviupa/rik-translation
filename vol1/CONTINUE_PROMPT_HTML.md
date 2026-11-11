@@ -11,7 +11,10 @@ Read first: `CLAUDE.md`, `vol1/STATUS.md`, `vol1/vol1_qmarks_log.md` (how `[?]` 
 - The files are closed except for agreed passes. This is an agreed pass: every change to them is a repair, logged line by line in `vol1/review/repair_log.md` (page, old → new, why).
 
 ## Rules for this job
-1. **Neither reading is the authority by itself.** The supplied machine-read text has its own errors (Vols 12–18 show them: cut line ends, wrong conjuncts, missing page marks). Where the scan reading and the supplied text agree, the reading stands. Where they differ, decide from the context (the Kannada sentence, the Sanskrit grammar of the quotation, the English printed in the edition); where that does not decide, keep or put `[?]`. Never settle a letter or a number from memory or from another edition.
+1. **How a place is decided** (user, Nov 11 2026: most `[?]` are references and numbers, and those should simply be corrected):
+   - **Numbers and references** (verse numbers, page numbers, book.chapter.verse, counts, dates): the supplied text is taken. Digits are what a machine reads best and what the scan reading got wrong most. Correct the place and remove the `[?]`. Exception: the supplied number is impossible where it stands (a verse number out of sequence, a reference to a chapter that the same page counts differently, a digit lost at a cut line end): then keep `[?]` and list it.
+   - **Text** (Sanskrit quotations, names, Kannada words): where the two readings differ, decide from the context — the Kannada sentence, the Sanskrit grammar and metre of the quotation, the gloss that follows it, the English printed in the edition — and correct. The supplied text has its own errors (Vols 12–18: cut line ends, wrong conjuncts), so it is not taken blindly; but a reading that the context supports is put in without a mark.
+   - Only where the context does not decide between the two does `[?]` stay (or get added). Never settle a letter or a number from memory or from another edition.
 2. The translator never types Devanagari or IAST: a corrected Sanskrit reading is taken from the supplied text by script (`tools/rv/convert.py`, `publish/tools/translit/`), as in the other volumes.
 3. A change of reading that changes the meaning also changes the English sentence that depends on it; say so in the log.
 4. No per-volume tools: what you write for this job goes into `tools/rv/` and takes the volume as an argument, because Vol 2 will need the same pass.
@@ -34,7 +37,7 @@ It also writes a summary table (page, number of `[?]`, number of differences). S
 
 ## The agent loop
 - **Pilot first: 20 printed pages** from the middle of the volume, one Sonnet agent. Report to the user: places looked at, `[?]` settled, `[?]` kept, unmarked errors found and corrected, tokens used; show five of the corrections with old and new reading. Go on only after the user has seen it.
-- Then batches of about 30 printed pages, one fresh Sonnet agent per batch, one batch at a time. Each agent gets: the page list, the `recheck/pNNNN.md` files, the three texts for those pages, the rules above. It decides each listed place (supplied reading / scan reading / undecided), edits the English file and writes its log lines; it does not read pages for which the script lists nothing.
+- Then batches of about 30 printed pages, one fresh Sonnet agent per batch, one batch at a time. Each agent gets: the page list, the `recheck/pNNNN.md` files, the three texts for those pages, the rules above. It decides each listed place by rule 1 (numbers and references from the supplied text; text by context; undecided only as the last resort), edits the English file and writes its log lines; it does not read pages for which the script lists nothing.
 - After each batch the dispatcher runs the script checks (no new Kannada script in the English, `[?]` count went down or stayed, every edit has a log line, three-layer Sanskrit intact), appends the agent's token count to `vol1/parts/batch_costs.md`, commits and pushes, and updates `vol1/STATUS.md`.
 - Settled `[?]` places also go into `vol1/vol1_qmarks_log.md` in its existing form.
 
