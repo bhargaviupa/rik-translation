@@ -28050,6 +28050,283 @@ May riches such as cattle, desired by many, come and fill us every day. May the 
 ##### English translation (H. H. Wilson)
 May riches, envied by many, devolve upon us day by day, and (abundant) food await us.
 
+### Printed p. 863
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स विप्र॑श्चर्षणी॒नां शव॑सा॒ मानु॑षाणां ।  
+> अति॑ क्षि॒प्रेव॑ विध्यति ॥ ८ ॥
+
+> *sa vipraścarṣaṇīnāṃ śavasā mānuṣāṇāṃ |*  
+> *ati kṣipreva vidhyati ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । विप्रः । चर्षणीनां । शवसा । मानुषाणां ।  
+> अति । क्षिप्राऽइव । विध्यति ॥ ८ ॥
+
+> *saḥ | vipraḥ | carṣaṇīnāṃ | śavasā | mānuṣāṇāṃ |*  
+> *ati | kṣiprā 'iva | vidhyati ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रो मेधावी । विप्र इति मेधाविनाम विप्रो धीर इति तन्नामसु पाठात् ।
+> सोऽग्निः शवसा बलेन । शव इति बलनाम साजः शव इति तन्नामसु पाठात् । मानुषाणां मनुसंबंधिनां चर्षणीनां प्रजानां क्षिप्रेव क्षेप्याण्येव विनाशयितुमर्हाणि । दुरितानीति शेषः । अति विद्यति । अति विद्यतु । अतिशयेन नाशयतु ॥
+
+##### Gist of the bhāṣya
+
+विप्रः (*vipraḥ*) means "wise": the Nighaṇṭu reads "vipra" among the names for the wise, and "vipra" and "dhīra" among their names. That Agni acts शवसा (*śavasā*), "by strength"; "śava" is read among the names of strength, and "sājaḥ" and "śavaḥ" among its names. He is to destroy the removable evils (this is the word to be supplied) of the people *mānuṣāṇāṃ carṣaṇīnāṃ*, those connected with Manu, which deserve to be destroyed. अति विध्यति (*ati vidhyati*) is to be read अति विद्यतु (*ati vidyatu*): let him destroy them utterly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रः (*vipraḥ*)—the wise
+- सः (*saḥ*)—Agni
+- शवसा (*śavasā*)—by his strength
+- मानुषाणां (*mānuṣāṇāṃ*)—of those connected with Manu
+- चर्षणीनां (*carṣaṇīnāṃ*)—of the people
+- क्षिप्रेव (*kṣipreva*)—the sins that deserve to be destroyed
+- अति विध्यति (*ati vidhyati*)—let him destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+May the wise Agni, by his strength, completely destroy the sins, deserving of destruction, of the people who are of human form.
+
+##### English translation (H. H. Wilson)
+May the wise Agni entirely obviate by his power the removable (ills) of men, the descendants of Manu.
+
+### Printed p. 864
+## Sūkta 9 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने मृळेत्यष्टर्चं नवमं सूक्तं वामदेवस्यार्षं गायत्रीछंदस्कमग्निदेवताकं । अनुक्रांतं च । अग्ने मृळेति ॥ द्वितीये छंदोम इदं सूक्तं जातवेदस्यनिविद्धानीयं । सूत्रितं च । क्रीळं वः शर्धोऽग्ने मृळेत्याग्निमारुतं ।
+> आ. ८-१० । इति ॥
+> अनुवादवु— अग्ने मृळ ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि ऒंभत्तनॆय सूक्तवु.
+> इदरल्लि ऎंटु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; अग्नियु देवतॆयु ;
+> गायत्री छंदस्सु. अनुक्रमणिकॆयल्लि—अग्ने मृळ ऎंदु हेळिरुवुदु. द्वितीय छंदोमदल्लि
+> ई सूक्तवन्नु जातवेदस्संबंधवाद निवित्सूक्तवन्नागि पठिसबेकॆंदु आश्वलायनशौतसूत्रद—
+> क्रीळं वः शर्धोऽग्ने मृळेत्याग्निमारुतं ऎंब सूत्रदिंद (आ. ८-१०) विवृतवागिरुवुदु.
+> सूक्त-९
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—९
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—९ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—८
+> ऋषि:—वामदेवः
+> देवता—अग्निः
+> छंदः—गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, अग्ने मृळ (*agne mṛḷa*), has eight ṛks. Its seer is Vāmadeva, its deity Agni, its metre Gāyatrī. The Anukramaṇī says: अग्ने मृळेति (*agne mṛḷeti*). In the second Chandoma this sūkta is to be recited as the nivid-sūkta addressed to Jātavedas; it is prescribed by the sūtra क्रीळं वः शर्धोऽग्ने मृळेत्याग्निमारुतं (*krīḷaṃ vaḥ śardho 'gne mṛḷetyāgnimārutaṃ*) (Ā. 8-10). The block then gives the particulars: Maṇḍala 4, Anuvāka 1, Sūkta 9; Aṣṭaka 3, Adhyāya 5, Varga 9; number of ṛks 8; seer Vāmadeva; deity Agni; metre Gāyatrī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ मृ॒ळ म॒हा अ॑सि॒ य ई॒मा दे॑व॒युं जनं॑ ।  
+> इ॒येथ॑ ब॒र्हिरा॒सदं॑ ॥ १ ॥
+
+> *agne mṛḷa mahā asi ya īmā devayuṃ janaṃ |*  
+> *iyetha barhirāsadaṃ ‖ 1 ‖*
+
+### Printed p. 865
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । मृळ । महान् । असि । यः । ईं । आ । देवयुं । जनं ।  
+> इयेथ । बर्हिः । आसदं ॥ १ ॥
+
+> *agne | mṛḷa | mahān | asi | yaḥ | īṃ | ā | devayuṃ | janaṃ |*  
+> *iyetha | barhiḥ | āsadaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मृळ । अस्मान् सुखय । स त्वं महानसि । प्रभूतो भवसि ।
+> यस्त्वमीमिमं देवयुं देवानां कामयितारं जनं यजमानं बर्हिर्दर्भमासदं यज्ञ आसत्तुमा इयेथ । आगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, मृळ (*mṛḷa*)—make us happy. You are महान् (*mahān*), great, abundant; you who come आ इयेथ (*ā iyetha*) to this person ईं जनं (*īṃ janaṃ*), the sacrificer who desires the gods, to sit आसदं (*āsadaṃ*) at the sacrifice on the बर्हिः (*barhiḥ*), the darbha grass."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—you, who have such greatness
+- देवयुं (*devayuṃ*)—who desires the presence of the gods for the sacrifice
+- ईं जनं (*īṃ janaṃ*)—towards this sacrificer
+- बर्हिः (*barhiḥ*)—on the seat of darbha grass
+- आसदं (*āsadaṃ*)—to sit
+- आ इयेथ (*ā iyetha*)—you come
+- त्वं (*tvaṃ*)—such a you
+- महान् असि (*mahān asi*)—you are great (therefore)
+- मृळॆ (*mṛḷè*)—make us happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who come to sit on the seat of darbha grass before this sacrificer, who desires the presence of the gods for the sacrifice, are such a great one. Make us happy.
+
+##### English translation (H. H. Wilson)
+Agni, make us happy, for you are mighty, (you) who come to this devout man to sit down on the sacred grass.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मानु॑षीषु दू॒ळभो॑ वि॒क्षु प्रा॒वीरम॑र्त्यः ॥  
+> दू॒तो विश्वे॑षां भुवत् ॥ २ ॥
+
+> *sa mānuṣīṣu dūḷabho vikṣu prāvīramartyaḥ ‖*  
+> *dūto viśveṣāṃ bhuvat ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 866
+
+> सः । मानुषीषु । दुःकदभः । विक्षु । प्रअवीः । अमत्यर्तः ।  
+> दूतः । विश्वेषां । भुवत् ॥ २ ॥
+
+> *saḥ | mānuṣīṣu | duḥkadabhaḥ | vikṣu | praavīḥ | amatyartaḥ |*  
+> *dūtaḥ | viśveṣāṃ | bhuvat ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूळभो दुर्दभो राक्षसादिना दुर्हिंसो मानुषीषु मनुसंबंधिनीषु
+> विक्षु प्रजासु प्रावीः प्रकर्षेण गंतामर्त्योऽमरणधर्मा सोग्निर्विश्वेषां
+> सर्वॆषां देवानां दूतो भुवत् । भवतु ॥
+
+##### Gist of the bhāṣya
+
+दूळभः (*dūḷabhaḥ*) means दुर्दभो (*durdabho*), hard to harm for Rākṣasas and the like. Among the people *mānuṣīṣu vikṣu*, who are connected with Manu, he is प्रावीः (*prāvīḥ*), one who goes forth pre-eminently. He is अमर्त्यः (*amartyaḥ*), of immortal nature. May that Agni become the messenger दूतः (*dūtaḥ*) of all the gods.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूळभः (*dūḷabhaḥ*)—he who cannot be resisted even by the Asuras
+- मानुषीषु (*mānuṣīṣu*)—connected with Manu
+- विक्षु (*vikṣu*)—among the people
+- प्रावीः (*prāvīḥ*)—who moves pre-eminently
+- अमर्त्यः (*amartyaḥ*)—who is free from mortality
+- सः (*saḥ*)—that same Agni
+- विश्वेषां (*viśveṣāṃ*)—of all the gods
+- दूतः (*dūtaḥ*)—as messenger
+- भुवत् (*bhuvat*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May that same Agni, who cannot be resisted even by the Asuras, who moves pre-eminently among the people connected with Manu, and who is free from mortality, be the messenger of all the gods.
+
+##### English translation (H. H. Wilson)
+May that Agni, who is difficult to overcome, who is immortal, who is pre-eminent among men the descendants of Manu, become the messenger of all the gods..
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सद्म॒ परि॑ णीयते॒ होता॑ मं॒द्रो दिवि॑ष्टिषु ।  
+> उ॒त पोता॒ नि षी॑दति ॥ ३ ॥
+
+> *sa sadma pari ṇīyate hotā maṃdro diviṣṭiṣu |*  
+> *uta potā ni ṣīdati ‖ 3 ‖*
+
+### Printed p. 867
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सद्म । परि । नीयते । होता । मंद्रः । दिविष्टिषु ।  
+> उत । प्रोता । नि । सीदति ॥ ३ ॥
+
+> *saḥ | sadma | pari | nīyate | hotā | maṃdraḥ | diviṣṭiṣu |*  
+> *uta | protā | ni | sīdati ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः सद्म यज्ञगृहं परि णीयते । ऋत्विग्निः परितो नीयते । नीयमानः सन् दिविष्टिषु यागेषु मंद्रो मदनीयः स्तुत्यः सोऽग्निर्होता च भवति ।
+> उतापि च प्रोता सन्नि षीदति । यज्ञगृह उपविशति ॥
+
+##### Gist of the bhāṣya
+
+That Agni is led around सद्म (*sadma*), the sacrificial house; the priests lead him round on all sides. While being led, in the दिविष्टिषु (*diviṣṭiṣu*), the sacrifices, he, the delightful and praiseworthy मंद्रः (*maṃdraḥ*), becomes the Hotṛ. And moreover, as the Potṛ he sits down in the sacrificial house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Agni
+- सद्म (*sadma*)—in the sacrificial house
+- परिणीयतॆ (*pariṇīyatè*)—is carried round, gathered on all sides (by the priests)
+- मंद्रः (*maṃdraḥ*)—Agni, the attractive and venerable
+- दिविष्टिषु (*diviṣṭiṣu*)—in the sacrifices
+- होता (*hotā*)—is the Hotṛ
+- उत (*uta*)—and
+- पोता (*potā*)—as the Potṛ also
+- निषीदति (*niṣīdati*)—sits down in the sacrificial house
+
+##### भावार्थ (Bhāvārtha)
+
+The great Agni is carried round on all sides by the priests in the sacrificial house. That same Agni, attractive and venerable, is both the Hotṛ and in the form of the Potṛ.
+
+##### English translation (H. H. Wilson)
+He is conveyed into the sacrificial hall as the Hotri to be adored at sacrifices, or as the Potri he sits down (on the sacred grass).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ग्ना अ॒ग्निर॑ध्व॒र उ॒तो गृ॒हप॑ति॒र्दमे॑ ।  
+> उ॒त ब्र॒ह्मा निषे॑दति ॥ ४ ॥
+
+> *uta gnā agniradhvara uto gṛhapatirdame |*  
+> *uta brahmā niṣedati ‖ 4 ‖*
+
+### Printed p. 868
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ग्नाः । अग्निः । अध्वरे । उतो इति । गृहपतिः । दमे ।  
+> उत । ब्रह्मा । नि । सीदति ॥ ४ ॥
+
+> *uta | gnāḥ | agniḥ | adhvare | uto iti | gṛhapatiḥ | dame |*  
+> *uta | brahmā | ni | sīdati ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चाग्निरध्वरे यागे ग्ना देवपत्नीर्यजति । यष्टा भवतीत्यर्थः ।
+> यद्वा । ग्ना गच्छन्नध्वर्युर्भवति । उतो अपि च सोऽग्निर्दमे यज्ञगृहे गृहपतिर्यजमानश्च भवति । उतापि च ब्रह्मा ब्राह्मणाच्छंसी सन्नि षीदति । उपविशति ॥
+
+##### Gist of the bhāṣya
+
+And Agni at the अध्वरे (*adhvare*), the sacrifice, worships ग्नाः (*gnāḥ*), the wives of the gods; that is, he becomes the sacrificer. Or else: ग्ना (*gnā*), going, he becomes the Adhvaryu. And moreover, in the दमे (*dame*), the sacrificial house, he is the गृहपतिः (*gṛhapatiḥ*), the sacrificer. And also, as ब्रह्मा (*brahmā*), the Brāhmaṇācchaṃsin, he sits down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अग्निः (*agniḥ*)—Agni
+- अध्वरे (*adhvare*)—in the sacrifice
+- ग्नाः (*gnāḥ*)—is the Adhvaryu
+- उत (*uta*)—and
+- दमे (*dame*)—in the sacrificial house
+- गृहपतिः (*gṛhapatiḥ*)—is also the sacrificer
+- उत (*uta*)—and
+- ब्रह्मा (*brahmā*)—as the Brāhmaṇācchaṃsin also
+- नि षीदति (*ni ṣīdati*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+That same great Agni sits down in the sacrifice as the Adhvaryu (or as one who worships the wives of the gods), in the sacrificial house as the sacrificer, and as the Brāhmaṇācchaṃsin.
+
+##### English translation (H. H. Wilson)
+Agni may be the officiating priest at the sacrifice, or the master of the house in the sacrificial chamber, or he sits down as the Brahman.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेषि॒ ह्य॑ध्वरीय॒तामु॑पव॒क्ता जना॑नां ।  
+> ह॒व्या च॒ मानु॑षाणां ॥ ५ ॥
+
+> *veṣi hyadhvarīyatāmupavaktā janānāṃ |*  
+> *havyā ca mānuṣāṇāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेषि । हि । अध्वरियतां । उपवक्ता । जनानां ।  
+> हव्या । च । मानुषाणां ॥ ५ ॥
+
+> *veṣi | hi | adhvariyatāṃ | upavaktā | janānāṃ |*  
+> *havyā | ca | mānuṣāṇāṃ ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 862. pp. 857-862 (batch API)
+**Progress note:** Done through printed p. 868. pp. 863-868 (batch API)
