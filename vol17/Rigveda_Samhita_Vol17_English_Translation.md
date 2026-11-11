@@ -23679,6 +23679,123 @@ The story set out in the Aitareya Brāhmaṇa (Ai. Brā. 13-23, 24) is given her
 
 Long ago, at one time, Prajāpati saw his own daughter and was infatuated, as one is infatuated with a wife. He kept thinking of her form in his mind. As to who that daughter of Prajāpati was, there is a difference of opinion even among the great sages. Some say she was the deity of the sky-world, others that she was the deity Uṣas. Be that as it may. Then Prajāpati took the form of a kind of deer (animal) called Ṛśya. His daughter took the form of a red deer called Rohita. (Here the commentator explains the words रोहितं प्राप्ता (*rohitaṃ prāptā*) as "she became fit for conception".) Prajāpati approached his daughter, who was in the form of Rohita, . . .
 
+### Printed p. 755
+
+…became intent on the act of union. Seeing Prajāpati thus attached to his own daughter and bent on intercourse, the gods spoke among themselves: "This Prajāpati is engaged in a forbidden act that no one has ever done. Who is the person able to stop this deed from taking place?" They searched everywhere. However much they searched, no person capable of restraining Prajāpati was found. The gods put the question to each one among themselves: "If you have the strength, slay Prajāpati." None of them seemed to have that power. Then all the gods together gathered their dreadful forms (it is well known that the gods can assume any form they like; hence "leaving their gentle forms, dreadful shapes" is said here) into one, and created a single person of most dreadful shape. This person received the name Rudra. Hence the names Bhūtavat and Bhūtapati are well known in the world for Rudra. So a person who has taken on this state of being "bhūtavat" of Rudra becomes bhūtimat (prosperous).
+
+तं देवा अब्रुवन्नयं वै प्रजापतिरकृतमकरिमं विध्येति स तथेत्यब्रवीत्स वै वो वरं वृणा इति वृणीष्टेति स एतमेव वरमवृणीत पशूनामाधिपत्यं तदस्यैतत्पशुमन्नाम पशुमान्भवति योऽस्यैतदेवं नाम वेद । (*taṃ devā abruvannayaṃ vai prajāpatirakṛtamakarimaṃ vidhyeti sa tathetyabravītsa vai vo varaṃ vṛṇā iti vṛṇīṣṭeti sa etameva varamavṛṇīta paśūnāmādhipatyaṃ tadasyaitatpaśumannāma paśumānbhavati yo 'syaitadevaṃ nāma veda |*) (Ai. Brā. 13-23)
+
+Then the gods addressed that person (Rudra): "O Rudra, Prajāpati has done a forbidden deed. Therefore, to punish him, strike him with this arrow." Rudra agreed that it should be so. But he asked as a boon that he should become the lord of all animals. The gods gave him the boon accordingly. Therefore Rudra became famous by the name Paśupati. The person who knows this obtains wealth of cattle.
+
+तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकांडा सो एवेषुस्त्रिकांडा । (*tamabhyāyatyāvidhyatsa viddha ūrdhva udaprapatattametaṃ mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sa yā rohitsā rohiṇī yo eveṣustrikāṃḍā so eveṣustrikāṃḍā |*)
+
+Then Rudra came forward, strung his bow, fitted the arrow, drew it back, aimed at Prajāpati and shot. The arrow struck Prajāpati, who was in the form of an ṛśya, and he leapt upward into the atmosphere. Seeing Prajāpati leaping upward in the sky, all people call it the constellation Mṛga (Stars in the Orion). That is, they say it is the Mṛgaśīrṣa star between the stars Rohiṇī and Ārdrā.
+
+### Printed p. 756
+
+The meaning is that Prajāpati exists in the form of a star. Rudra, who shot Prajāpati in the form of a deer with the arrow, appears in the sky by the name Mṛgavyādha. The daughter of Prajāpati, in the form of the red doe called rohita, appears in the sky as the star Rohiṇī. The arrow sent by Rudra came to have three parts: the kāṇḍa (the long shaft of the arrow), the śalya (the barb) and the tip (the sharp point); therefore the arrow has these three parts even now.
+
+तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो दुषदिति यदब्रुवन्मेदं प्रजापते रेतो दुषदिति तन्मादुषमभवत्तन्मामहस्य मादुषत्वं मादुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षरे परोक्षेण परोक्षप्रिया इव हि देवाः (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto duṣaditi yadabruvanmedaṃ prajāpate reto duṣaditi tanmāduṣamabhavattanmāmahasya māduṣatvaṃ māduṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣare parokṣeṇa parokṣapriyā iva hi devāḥ*) (Ai. Brā. 13-23)
+
+The semen (seed) of Prajāpati in deer form was abundant; part of it was shed into his daughter, the doe, and the remainder fell on the earth, began to flow like a river in a stream, collected in a low-lying place and became a great lake. Seeing it, the gods wished that people should not think this seed of Prajāpati untouchable (not to be touched) or "mādūṣat", bad. Because the gods called it mādūṣat, the lake, which was the seed of the faultless Prajāpati, came to be named Mādūṣat. People substitute the letter na in place of the da of the word mādūṣa when reciting, and so they call Brahmins, Kṣatriyas and other people "mānuṣa". Rightly considered, the word mānuṣa (mādūṣa) means "faultless". That being so, instead of referring to their bodies by the word mānuṣa of ordinary meaning, people refer to them by a word of indirect meaning (that is, with the excellent sense of mādūṣa); therefore worthy and worshipful persons, like the gods, in worldly usage are fond of the indirect (content with words that have a hidden sense rather than a directly evident one). For example, they are satisfied not so much with the ordinary names, such as Devadatta, given by their parents, as with names suited to their nature, such as Upādhyāya, Ācārya, Svāmin, which make their fame shine. The gods too, not appearing directly but remaining out of sight, accept praises and the like; therefore it is said that the gods are fond of the indirect. So, to show indirectness, in the word mādūṣa the na is put in place of the da and mānuṣa is used.
+
+तदग्निना पर्यादधुस्तन्मरुतोऽधून्वंस्तदग्निर्न प्राच्यावयत्तदग्निना वैश्वानरेण पर्यादधुस्तस्मरुतोऽधून्वंस्तदग्निर्वृश्वानरः प्राच्यावयत्तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवद्यद्वितीयमासीत्तद्भृगुरभवत्तं वरुणो न्यगृह्णीत तस्मात्स भृगुर्वारुणिरथ यत्कृतीयमदीदेदिव त आदित्या अभवन्येऽङ्गारा आसंस्तेऽङ्गरसोऽभवन्यदंगाराः पुनरवशांता उददीप्यंत तद्ब्रहस्पतिरभवत् । (*tadagninā paryādadhustanmaruto 'dhūnvaṃstadagnirna prācyāvayattadagninā vaiśvānareṇa paryādadhustasmaruto 'dhūnvaṃstadagnirvṛśvānaraḥ prācyāvayattasya yadretasaḥ prathamamudadīpyata tadasāvādityo 'bhavadyadvitīyamāsīttadbhṛgurabhavattaṃ varuṇo nyagṛhṇīta tasmātsa bhṛgurvāruṇiratha yatkṛtīyamadīdediva ta ādityā abhavanye 'ṅgārā āsaṃste 'ṅgaraso 'bhavanyadaṃgārāḥ punaravaśāṃtā udadīpyaṃta tadbrahaspatirabhavat |*) (Ai. Brā. 13-34)
+
+### Printed p. 757
+
+Then, after the gods had made the seed of Prajāpati faultless, they thought that this seed, which was in liquid form as a lake, must be made free of liquid; they kindled fire around the lake and began to burn it. While the fire was blazing all around the lake, the wind churned the seed into turmoil in order to dry up the liquid mixed with it. Yet the fire could not, by its heat, remove the liquid state, which was very strong in the seed, and turn it into a lump (a solid, hard substance). Therefore the gods tried to accomplish, by a special form of fire named Vaiśvānara, this work that the fire could not do. This Vaiśvānara fire enters the bellies of all beings as the digestive fire and is engaged in digesting food and drink.
+
+अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः । प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधं ॥ (*ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ | prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidhaṃ ‖*)
+
+"Becoming the Vaiśvānara fire, abiding in the bodies of beings, joined with the breaths prāṇa and apāna, I digest the fourfold food that beings eat" — so the Lord himself has said. Therefore the gods, knowing that the power of the Vaiśvānara fire is special, set the Vaiśvānara fire around the lake to dry up that seed of Prajāpati. The wind too entered the lake as before, churned it into turmoil and began to dry it. Thus, with the help of the wind, the Vaiśvānara fire separated the seed of Prajāpati from its liquid state and turned it into a solid, lump-shaped substance. Thus the seed, turned into many lumps (spherical), began to blaze and shine. Of these, the first lump, a mass of radiance, became the Āditya seen in heaven (the sky). The second lump became the sage Bhṛgu. Varuṇa accepted this Bhṛgu as his son. Therefore the sage Bhṛgu got the name Bhṛgurvāruṇiḥ, "the sage Bhṛgu, son of Varuṇa"; as the son of Varuṇa he is also called Vāruṇi. With this in mind the followers of the Taittirīya branch recite: भृगुर्वैवारुणिः । वरुणं पितरमुपससार (*bhṛgurvaivāruṇiḥ | varuṇaṃ pitaramupasasāra*) (Tai. U. 3-1). Then the third lump, shining exceedingly,
+
+### Printed p. 758
+
+became famous as the sons of Aditi, by the name Ādityas. Āditya means the sun within the orb. It is to be understood that here the word ādityāḥ indicates the other gods, sons of Aditi. Then some other lumps burned well (were consumed) and became embers. From those embers arose the sages called Aṅgiras. And from the embers that were still burning and had not gone out, that is, that began to burn brightly again and again, Bṛhaspati arose.
+
+यानि परिक्षाणान्यासंस्ते कृष्णाः पशवोऽभवन्या लोहिनी मृत्तिका ते रोहिता अथ यद्भस्मासीत्तत्परुष्यं व्यसर्पद्गौरो गवय ऋश्य उष्टो गर्दभ इति ये चैतेऽरुणाः पशवस्ते च । (*yāni parikṣāṇānyāsaṃste kṛṣṇāḥ paśavo 'bhavanyā lohinī mṛttikā te rohitā atha yadbhasmāsīttatparuṣyaṃ vyasarpadgauro gavaya ṛśya uṣṭo gardabha iti ye caite 'ruṇāḥ paśavaste ca |*) (Ai. Brā. 13-34)
+
+Then, when the embers went out and became aṅgāra (charcoal), these became black animals. After the fire had burned, the red clay (earth) lying at the bottom became red animals. From the ashes (bhasma) arose the paruṣya animals, that is, the forest animals gaura, gavaya and ṛśya, and also the camel and the donkey. And so on. By this narrative, the account of the origin of the Aṅgiras sages, the relation between the Aṅgiras sages and Agni, and the reason why Agni got the name Aṅgiras are all explained.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता विश्वा॑ वि॒दुषे॒ तुभ्यं॑ वेधो नी॒थान्य॑ग्ने नि॒ण्या वचां॑सि ।  
+> नि॒वच॑ना क॒वये॒ काव्या॒न्यशं॑सिषं म॒तिभि॒र्विप्र॑ उ॒क्षैः ॥ १६ ॥
+
+> *etā viśvā viduṣe tubhyaṃ vedho nīthānyagne niṇyā vacāṃsi |*  
+> *nivacanā kavaye kāvyānyaśaṃsiṣaṃ matibhirvipra ukṣaiḥ ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । निश्वा । विदुषे । तुभ्यं । वेधः । नीथानि । अग्ने । निज्या । वचांसि ।  
+> निऽवचना । कवये । काव्यानि । अशंसिषं । मतिभिः । विप्रः । उक्तैः ॥ १६ ॥
+
+> *etā | niśvā | viduṣe | tubhyaṃ | vedhaḥ | nīthāni | agne | nijyā | vacāṃsi |*  
+> *ni 'vacanā | kavaye | kāvyāni | aśaṃsiṣaṃ | matibhiḥ | vipraḥ | uktaiḥ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधो विधातर्हे अग्ने विदुषे कर्मविषयज्ञानवते कवये क्रांतदर्शिने
+> तुभ्यं नीथानि फलप्रापकाणि निण्या नेयार्थानि गूढानि निवचना नितरां वक्तव्यानि
+> काव्यानि कविभिर्मेधाविभिः कृतान्येता विश्वैतानि सर्वाणि वचांसि वाक्यानि मतिभिर्म-
+
+##### Gist of the bhāṣya
+
+"Vedhaḥ" means vidhātaḥ, "O Creator"; the address is to Agni. Vidvas is one who has knowledge concerning ritual action; kavi is one who sees beyond (krāntadarśin). To you, so described, he says, he has recited these words. Nīthāni are those that bring about the fruit; niṇyā are of hidden meaning (neyārtha), obscure; nivacanā are to be spoken constantly; they are poems made by poets, the wise. "These all words" means all these sentences, to be recited with the thoughts (matibhiḥ)… [the explanation continues in the next block].
+
+### Printed p. 759
+
+> ननीयैः स्तोत्रैरुक्थैः शस्त्रैश्च सहितो विप्रः प्राज्ञोऽहमशंसिषं । अवोचं ।
+> तानि सेवस्वेत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+…with praises worthy of reflection, with ukthas, that is, śastras: "I, the wise one (vipra, prājña), have recited, have spoken; accept them" is the meaning.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधः (*vedhaḥ*)—creator
+- अग्ने (*agne*)—O Agni
+- विदुषे (*viduṣe*)—one who has knowledge concerning ritual action
+- कवये (*kavaye*)—and one who sees beyond
+- तुभ्यं (*tubhyaṃ*)—to you
+- नीथानि (*nīthāni*)—those that bring about the fruit
+- निण्या (*niṇyā*)—those of hidden meaning
+- निवचना (*nivacanā*)—those worthy of praise
+- काव्यानि (*kāvyāni*)—those composed by poets
+- एता विश्वा वचांसि (*etā viśvā vacāṃsi*)—all these words of praise too
+- मतिभिः (*matibhiḥ*)—with worshipful hymns of praise
+- उक्षैः (*ukṣaiḥ*)—with śastra-mantras
+- विप्रः (*vipraḥ*)—I, the wise one
+- अशंसिषं (*aśaṃsiṣaṃ*)—I recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, creator, to you who have knowledge concerning ritual action and who see beyond, I, the wise one, recite all these words of praise, which bring the fruit, are of hidden meaning, are worthy of praise and are composed by poets, together with worshipful hymns of praise and śastra-mantras.
+
+##### English translation (H. H. Wilson)
+Agni, creator, to the who are wise, acquainted with the past, I address
+oh sage, these soliciting mysterious words, (these) ever-to-be-recited poems,
+together with praises and prayers.
+
+## Sūkta 4 (Maṇḍala 4)
+
+The deity of this sūkta is Agni Rakṣohā; that is, Agni who destroys the host of rakṣas, beings such as ghosts and piśācas that obstruct sacrifices. Explaining the word rakṣaḥ, Yāska has given the etymology:
+
+रक्षो रक्षितव्यमस्मात् । रहसि क्षणोतीति ना । रात्रौ नक्षत इति ना ॥ (*rakṣo rakṣitavyamasmāt | rahasi kṣaṇotīti nā | rātrau nakṣata iti nā ‖*) (Ni. 4-8)
+
+That is: the host of beings called rakṣas devours men; from it our body must be protected; because it must be protected from it, it is called rakṣaḥ. Or, because it harms (men) in a solitary place where no one is, or in the dark, it is called rakṣaḥ. Or, because it moves about at night, it is called rakṣaḥ. Thus he has given three kinds of meaning.
+
+### Printed p. 760
+
+There is a difference between the word rakṣaḥ and the word rākṣasa. Rākṣasas are particular persons of human shape, or of other fearful shape that can be seen with the eye. They are of wicked nature, always cause harm to good people and cause obstacles to good deeds. The word rakṣaḥ denotes ghosts, spirits, piśācas and the like that are not visible to the eye (Demons, evil spirits &c.): it is their nature to cause harm to men and to cause the swelling up (of obstruction) to good deeds such as sacrifices. It is customary to pray to Agni in sacrifices and in other rites to remove their affliction and protect us. The Agni who removes this kind of affliction is called Rakṣohā Agni.
+
+The piśācas or bhūtas on the earth are enemies of men. The word that denotes them as a class is rakṣaḥ. This word occurs more than fifty times in the singular and plural; ordinarily it comes together with some deity, in the form of a prayer, "destroy the rākṣasa", or in the form of praise, "you have slain the rākṣasa". In the sūktas 7-104 and 10-87 mention of them is the very subject. Here the words rakṣasaḥ, yātu, yātudhāna and the like indicate them. Since rakṣasaḥ is the name for evil deities, piśācas and all such, it may be understood as the class-name, and yātu as the sub-class name.
+
+These piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In bird form they fly about at night (7-104-18). Taking the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or a monkey they lie in wait to fall upon women (A. Ve. 4-37-11).**NOTE** Hence pregnant women and children are troubled by them. (A. Ve. 8-6). At the time of marriage they move about around the bride; to pierce their eyes (?) they shoot small arrows into the atmosphere (Mā. Gṛ. Sū. 1-10).**NOTE** The description of their form and so on is found in the Atharvaveda itself. They in particular take form like men. Mention is made of their limbs, such as head, eyes, heart; but some deformity is always there: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward, or horns on the hands, and so on (A. Ve. 8-6; Hi. Gṛ. Sū. 2-3-7).**NOTE** Blue, yellow or green piśācas are also mentioned (A. Ve. 19-22-4, 5). Among them also there are males and females, families, and kings (A. Ve. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they too are mortal (A. Ve. 6-32-2; and so on).
+
 ---
 
-**Progress note:** Done through printed p. 754. pp. 748-754 (batch API)
+**Progress note:** Done through printed p. 760. pp. 755-760 (batch API)
