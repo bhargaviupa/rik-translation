@@ -540,6 +540,205 @@ Then Dyāvāpṛthivī (earth and the intermediate region) stopped Indra and sai
 ते देवा वृत्रग्ं हत्वाग्नीषोमावब्रुवन् हव्यं नो वहतमिति तावब्रूतामपतेजसौ वै त्र्यौ वृत्रे नै त्ययोस्तेज इति तेऽब्रुवन् क इदमच्छैतीति गौरित्यब्रुवन्गौर्वाव सर्वस्य मित्रमिति साब्रवीद्वरं वृणै मय्येव सतोभयेन भुनजाध्वा इति तद्गौराहरत्तस्माद्दवि सतोभयेन भुजंत एतद्वा अग्नेस्तेजो यद्धृतमेतत्सोमस्य यत्पयो य एवमग्नीषोमयोस्तेजो वेद तेजस्वीव भवति । (*te devā vṛtragṃ hatvāgnīṣomāvabruvan havyaṃ no vahatamiti tāvabrūtāmapatejasau vai tryau vṛtre nai tyayosteja iti te 'bruvan ka idamacchaitīti gaurityabruvangaurvāva sarvasya mitramiti sābravīdvaraṃ vṛṇai mayyeva satobhayena bhunajādhvā iti tadgaurāharattasmāddavi satobhayena bhujaṃta etadvā agnestejo yaddhṛtametatsomasya yatpayo ya evamagnīṣomayostejo veda tejasvīva bhavati |*)
 After the slaying of Vṛtra, all the gods who were near Indra said to Agni and Soma: "O deities Agni and Soma, you have now come back from Vṛtra's mouth. From now on, carry the oblations offered in sacrifices and the like and present them to us." Agni and Soma said to the gods: "O gods, we were for a long time in Vṛtra's body, and through his biting and the like we have become deprived of brilliance; that is, our strength has dwindled. All our strength, or brilliance, has remained in Vṛtra." Then the gods consulted among themselves how to bring back the brilliance that Agni and Soma had left in Vṛtra's body, and decided to send the cow and have the brilliance in Vṛtra brought, since the cow harms no one and behaves with friendliness towards all. Then they called the cow and told it to bring the brilliance that was in Vṛtra. It said: "So be it; but the brilliance I bring must always remain in me in the form of milk and ghee. People must obtain them from me and use them for their meals and the like. If you grant this boon, I shall bring it." The gods said "So be it" and granted the boon accordingly. Having obtained the boon, the cow brought that brilliance. As the result of this granting of a boon, even now the people of the world obtain from cows, from time to time, nourishing food such as milk and ghee, and
 
+### Printed p. 13
+…they eat their meal. Here ghee, or धृत (*dhṛta*), is said to be the brilliance of Agni. For that very reason, in sacrifices and the like, people make oblations into Agni with ghee and make the fire blaze up. Milk is said to be the brilliance of Soma. For Soma is liquid like milk, and to enhance the taste of the Soma juice milk is mixed with it. This is called गवाशिर (*gavāśira*). By mixing milk in this way the brilliance, or essence (the taste), of Soma increases. The man who knows the greatness of these brilliances of Agni and Soma becomes brilliant.
+
+ब्रह्मवादिनो वदंति किंदेवत्यं पौर्णमासमिति प्राजापत्यमिति ब्रूयात्तेनेंद्रं ज्येष्ठं पुत्रं निरवासाययदिति तस्माज्जैष्ठं पुत्रं धनेन निरवासयंति ॥ (*brahmavādino vadaṃti kiṃdevatyaṃ paurṇamāsamiti prājāpatyamiti brūyātteneṃdraṃ jyeṣṭhaṃ putraṃ niravāsāyayaditi tasmājjaiṣṭhaṃ putraṃ dhanena niravāsayaṃti ‖*)
+(Tai. Saṃ. 2-5-2-1 to 7)
+
+The Brahmavādins ask who is the deity of this sacrifice called Paurṇamāsya. The answer to be given is that Prajāpati is the deity presiding over the sacrifice. But in this sacrifice Prajāpati has no share of the oblation at all; so how is Prajāpati the deity of this sacrifice? The reply: in the beginning Prajāpati created all the sacrifices. This is stated in the Śruti sentence—
+
+प्रजापतिर्यज्ञानसृजताग्निहोत्रं चाग्निष्टोमं च पौर्णमासीं चोक्ष्यं चामानास्यां चातिरात्रं च ॥ (*prajāpatiryajñānasṛjatāgnihotraṃ cāgniṣṭomaṃ ca paurṇamāsīṃ cokṣyaṃ cāmānāsyāṃ cātirātraṃ ca ‖*)
+(Tai. Saṃ. 1-5-9-1)
+
+That is, it is said here that Prajāpati created all the sacrifices: Agnihotra, Agniṣṭoma, Paurṇamāsī (the sacrifice performed on the full-moon day), Ukṣya, Amāvāsyā (the sacrifice performed on the new-moon day), Atirātra and so on. All the sacrifices created by Prajāpati became his own property. Therefore, as is customary in worldly dealings, that is, as one gives one's property to one's eldest son, Prajāpati handed over the principal deityship of these sacrifices to his eldest son Indra. This is stated in the very same Taittirīya Saṃhitā passage: तेनेंद्रं निरवासाययत्तेनेंद्रः परमां काष्ठामगच्छत् (*teneṃdraṃ niravāsāyayatteneṃdraḥ paramāṃ kāṣṭhāmagacchat*). Hence all the oblations offered to the son Indra in the Paurṇamāsya sacrifice are to be understood as offered to the father Prajāpati. For this reason it is customary to say that the sacrifice called Paurṇamāsya is Prājāpatya, that is, related to Prajāpati. Following this practice, even now in worldly dealings it is customary for a father to give all his property, wealth and the rest, to his eldest son.
+
+### Printed p. 14
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्षो॑दय॒च्छव॑सा॒ क्षाम॑ बु॒द्धं वार्ण वात॒स्तवि॑षीभि॒रिंद्रः॑ ।  
+> दृ॒ळ्हान्सौ॑भ्नादु॒शमा॑न॒ ओजोऽवा॑भिनत्क॒कुभः॒ पर्व॑तानां ॥ ४ ॥
+
+> *akṣodayacchavasā kṣāma buddhaṃ vārṇa vātastaviṣībhiriṃdraḥ |*  
+> *dṛḷhānsaubhnāduśamāna ojo 'vābhinatkakubhaḥ parvatānāṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षोदयत् । शवसा । क्षाम । बुद्धं । वाः । न । वातः । तविषीभिः । इंद्रः ।  
+> दृळ्हानि । औभ्नात् । उशमानः । ओजः । अव । अभिनत् । ककुभः । पर्वतानां ॥ ४ ॥
+
+> *akṣodayat | śavasā | kṣāma | buddhaṃ | vāḥ | na | vātaḥ | taviṣībhiḥ | iṃdraḥ |*  
+> *dṛḷhāni | aubhnāt | uśamānaḥ | ojaḥ | ava | abhinat | kakubhaḥ | parvatānāṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः परमैश्वर्ययुक्तः शवसा बलेन बुध्ममंतरिक्षं क्षाम क्षीणोदकमक्षोदयत् । संपिपेष । तत्र दृष्टांतः । वातो वायुस्तविषीभिर्बलैर्वार्न
+> उदकमिव तद्वत् । किंच ओजो बलमुशमानः कामयमान इंद्रो दृळ्हानि दृढानि
+> स्थिराण्यप्यभ्राण्यौभ्यात् । अभांक्षेत् । तथा पर्वतानां गिरीणां ककुभः पक्षानवाभिनत् । अत्यंतमभैत्सीत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, endowed with supreme lordship, by his strength (शवसा (*śavasā*)) crushed (संपिपेष (*saṃpipeṣa*)) the firmament (*budhmaṃ*), क्षाम (*kṣāma*), i.e. with its water exhausted (अक्षोदयत् (*akṣodayat*)). The illustration: as the wind (वातः (*vātaḥ*)) with its forces (तविषीभिः (*taviṣībhiḥ*)) agitates water (वाः (*vāḥ*)). Further, Indra, desiring (उशमानः (*uśamānaḥ*)) strength (ओजः (*ojaḥ*)), broke (औभ्नात् (*aubhnāt*), अभांक्षेत् (*abhāṃkṣet*)) even the firm, stable clouds (दृळ्हानि (*dṛḷhāni*)); and he utterly split (अवाभिनत् (*avābhinat*)) the ककुभः (*kakubhaḥ*) of the mountains, i.e. their wings (पक्षान् (*pakṣān*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातः (*vātaḥ*)—the wind
+- तविषीभिः (*taviṣībhiḥ*)—with its forces
+- वाः न (*vāḥ na*)—as it makes water agitated (tumultuous)
+- इंद्रः (*iṃdraḥ*)—Indra
+- शवसा (*śavasā*)—by his strength
+- बुद्धं (*buddhaṃ*)—the firmament
+- क्षाम (*kṣāma*)—so that all the water pours down completely
+- अक्षोदयत् (*akṣodayat*)—shook violently
+- ओजः (*ojaḥ*)—valour
+- उशमानः (*uśamānaḥ*)—Indra, desiring
+- दृळ्हानि (*dṛḷhāni*)—the firm mountains
+- औभ्नात् (*aubhnāt*)—tore apart
+- पर्वतानां (*parvatānāṃ*)—of the mountains
+- ककुभः (*kakubhaḥ*)—the peaks (wings)
+- अवाभिनत् (*avābhinat*)—split
+
+##### भावार्थ (Bhāvārtha)
+
+As the wind with its forces makes water tumultuous, the lord Indra, by his strength, shook the firmament and made the water pour down. Desiring to display his valour, Indra split the firm mountains. He split also the peaks (wings) of the mountains.
+
+### Printed p. 15
+
+##### English translation (H. H. Wilson)
+Indra, by his strength, has agitated the exhausted firmament, as wind, by its violent (gusts, agitates) the water : exulting in his strength, he has divided the solid (clouds), and has shattered the peaks of the mountains.
+
+##### विशेषविषयगळु (Special Topics)
+
+वातः तविषीभिः वाः न इंद्रः शवसा बुध्नं क्षाम अक्षोदयत् (*vātaḥ taviṣībhiḥ vāḥ na iṃdraḥ śavasā budhnaṃ kṣāma akṣodayat*)—As the wind, by blowing swiftly, throws the water of the sea and other reservoirs into turmoil, full of great waves and agitated, so Indra, by his great power, made the firmament, that is, the mass of clouds in the firmament, tumultuous, and made the clouds pour down rain. This is the purport.
+
+ओजः उशमानः दृळ्हानि औभ्नात्, पर्वतानां ककुभः आवाभिनत् (*ojaḥ uśamānaḥ dṛḷhāni aubhnāt, parvatānāṃ kakubhaḥ āvābhinat*)—Indra, desiring strength, that is, exceedingly strong, split the mountains and the like that stand firmly fixed on the earth without moving, and he split (cut) the peaks or wings of those mountains. In this Ṛk the deeds of daring that others cannot perform are described: striking the clouds and producing rain, splitting the immovable mountains and so on; the description is that Indra's power and capacities are unfathomable. About Indra cutting the wings of the mountains there are many tales in the Purāṇas and elsewhere. There are accounts that when the mountains were first created they had wings; flying about and settling on villages and cities they destroyed them and tormented the people, so Indra cut off their wings with his thunderbolt and made them unable to move, and hence the mountains got the name "immovable".
+
+The words तविषी (*taviṣī*), शवः (*śavaḥ*), ओजः (*ojaḥ*) are read among the names of strength. For the word ककुभः (*kakubhaḥ*) the commentator explains the meaning as पक्षान् (*pakṣān*), wings. But Yāska reads this word among the names of the quarters and explains it as directions (Ni. 2-15). Besides, regarding ककुप् (*kakup*) Yāska gives the etymology ककुप् ककुभिनी भवति । ककुष्ट कुजतेर्वोब्बतीर्वा । (*kakup kakubhinī bhavati | kakuṣṭa kujatervobbatīrvā |*) (Ni. 7-12). That is, ककुप् (*kakup*) is a variety among the metres called उष्णिक् (*uṣṇik*). Because in metres of this class one pāda contains the pāda of the Jagatī metre, this metre is called ककुप् (*kakup*). The word is derived from the root कुजति (*kujati*), which indicates a crooked nature, and
+
+### Printed p. 16
+indicates the sense of being crooked. That is, though it belongs to the Uṣṇik metre, it does not follow its order but contains in the middle the order of the Jagatī metre and so is crooked in manner; this is the purport.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र द॑द्रु॒र्जन॑यो॒ न गर्भं॒ रथा॑ इव॒ प्र य॑युः  ॒॑
+> सा॒कमद्र॑यः ।  
+> अत॑र्पयो वि॒स्कृत॑ उ॒ब्ब ऊ॒र्मिन्त्वं वृ॒ता अ॑रिणा इंद्र॒  
+> सिंधून् ॥ ५ ॥
+
+> *abhi pra dadrurjanayo na garbhaṃ rathā iva pra yayuḥ*  
+> *sākamadrayaḥ |*  
+> *atarpayo viskṛta ubba ūrmintvaṃ vṛtā ariṇā iṃdra*  
+> *siṃdhūn ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । दद्रुः । जनयः । न । गर्भं । रथाः इव । प्र । ययुः । साकं । अद्रयः ।  
+> अतर्पयः । विस्कृतः । उब्बः । ऊर्मिन् । त्वं । वृतान् । अरिणाः । इंद्र । सिंधून् ॥
+
+> *abhi | pra | dadruḥ | janayaḥ | na | garbhaṃ | rathāḥ iva | pra | yayuḥ | sākaṃ | adrayaḥ |*  
+> *atarpayaḥ | viskṛtaḥ | ubbaḥ | ūrmin | tvaṃ | vṛtān | ariṇāḥ | iṃdra | siṃdhūn ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वामद्रयो मरुतो जनयो जवन्यो गर्भं न पुत्रमिवाभि प्र
+> दद्रुः । अभिजग्मुः । किंच रथा इव रंहणशीला रथा यथा तथा वृत्रवधार्थं त्वया
+> साकं प्र ययुः । प्रकर्षेणायासिषुः । हे इंद्र त्वं विसृतो विसरणशीला नदीरतर्पयः । अद्भिरपूरयः । तथोर्मान्मेघानुब्बः । अवधीः । तथा त्वं वृतान्वृत्रेणावृतान् सिंधूनपोऽरिणाः । प्रैरयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the Maruts (अद्रयः (*adrayaḥ*)), the swift (जनयः (*janayaḥ*)), ran towards you as to a child (गर्भं न (*garbhaṃ na*)), अभि प्र दद्रुः (*abhi pra dadruḥ*), i.e. came to you. Further, like swift chariots they went forth with you for the slaying of Vṛtra, प्र ययुः (*pra yayuḥ*), i.e. advanced vigorously. O Indra, you filled with waters the spreading rivers (विस्कृतः (*viskṛtaḥ*)), अतर्पयः (*atarpayaḥ*). Likewise you struck down the clouds (ऊर्मिन् (*ūrmin*)), उब्बः (*ubbaḥ*), अवधीः (*avadhīḥ*). And you urged forth (अरिणाः (*ariṇāḥ*), प्रैरयः (*prairayaḥ*)) the waters (सिंधून् (*siṃdhūn*)) that were enclosed (वृतान् (*vṛtān*)) by Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- जनयः (*janayaḥ*)—mothers
+- गर्भं न (*garbhaṃ na*)—as they run to meet their children and join them
+- अद्रयः (*adrayaḥ*)—the Maruts
+- अभि (*abhi*)—towards you
+- प्रदद्रुः (*pradadruḥ*)—ran (lovingly) and joined you
+- रथा इव (*rathā iva*)—like swift chariots
+- साकं (*sākaṃ*)—together with you
+- प्र ययुः (*pra yayuḥ*)—have rushed forward swiftly
+- त्वं (*tvaṃ*)—you
+- विस्कृतः (*viskṛtaḥ*)—the rivers whose nature is to spread widely
+- अतर्पयः (*atarpayaḥ*)—you filled and made full with waters
+
+### Printed p. 17
+- ऊर्मिन् (*ūrmin*)—the clouds
+- उब्बः (*ubbaḥ*)—you split
+- वृतान् (*vṛtān*)—enclosed by Vṛtra
+- सिंधून् (*siṃdhūn*)—the waters
+- अरिणाः (*ariṇāḥ*)—you urged to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as mothers lovingly run to meet their children and join them, the Maruts lovingly ran to meet you and joined you. And like swift chariots they have rushed forward together with you. O Indra, you filled with waters the rivers that spread widely. You split the clouds. And you urged to flow the waters enclosed by Vṛtra.
+
+##### English translation (H. H. Wilson)
+The Maruts have hastened to you like mothers to their young : like chariots they have rushed in along (with you); you, Indra, have satisfied the flowing streams: you have shattered the clouds : you have set free the obstructed rivers.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too there is a description of Indra's greatness. The first half of the Ṛk describes how the Maruts, dear to you, ran lovingly towards you and joined you, as mothers who have been parted a little while from their children run to them in great haste, and as chariots move swiftly. Here the commentator explains the word अद्रयः (*adrayaḥ*) as the Maruts. The word अद्रि (*adri*) is read among the names of water (Ni. 2-24) and among the names of mountains. For this word Yāska gives the etymology [अद्रिवन्—अद्रिरादृणोत्येतेन (*adrivan—adrirādṛṇotyetena*) (Ni. 4-4): since Indra is one who is honoured, he has the name अद्रिवन् (*adrivan*); आद्रयः आदरणीयाः (*ādrayaḥ ādaraṇīyāḥ*) (Ni. 9-9): those worthy of being honoured. Since here the Maruts are dear to Indra, and since Indra and the Maruts are always companions (see Ṛ. Saṃ. Part 8, page 172), it is fitting that the Maruts are indicated by the word अद्रयः (*adrayaḥ*). And you split the clouds that were covered by Vṛtra and gave no rain, and made them rain on the earth. By that rain-water the rivers that were dry and lean became full of water and flowed: thus Indra's daring deed is set out in the second half of this Ṛk.
+
+### Printed p. 18
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं म॒हीम॒वनिं॑ वि॒श्वधे॑नां तु॒र्वीत॑ये व॒य्या॑य॒ क्षरं॑तीं।  
+> अर॑मयो॒ नम॒सैज॒दर्णः॑ सुतर॒णा अ॑कृणोरिंद्र॒ सिंधू॑न् ॥६॥
+
+> *tvaṃ mahīmavaniṃ viśvadhenāṃ turvītaye vayyāya kṣaraṃtīṃ|*  
+> *aramayo namasaijadarṇaḥ sutaraṇā akṛṇoriṃdra siṃdhūn ‖6‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । महीं । अवनिं । विश्वधेनां । तुर्वीतये । वय्याय । क्षरंतीं ।  
+> अरमयः । नमसा । विजत् । अर्णः । सुतरणान् । अकृणोः । इंद्र । सिंधून् ॥ ६ ॥
+
+> *tvaṃ | mahīṃ | avaniṃ | viśvadhenāṃ | turvītaye | vayyāya | kṣaraṃtīṃ |*  
+> *aramayaḥ | namasā | vijat | arṇaḥ | sutaraṇān | akṛṇoḥ | iṃdra | siṃdhūn ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महीं महतीं विश्वधेनां विश्वस्य प्रीणयित्रीं तुर्वीतये
+> तुर्वीतिनाम्ने राजे वय्याय वय्यनाम्ने च क्षरंतीमभीष्टान् कामान्दुहतीमवनिं भूमिं नमसान्नेनैजदेजता चलतार्णोऽर्णसोदकेन चारमयः । रमयसि ।
+> इंद्रः पृथिवीमन्नोदकसमृद्धां करोतीत्यर्थः । किंच हे इंद्र त्वं सिंधून्
+> जलानि सुतरणान् सुष्टु तीर्णान्यकृणोः । अकार्षिः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you make the earth (अवनिं (*avaniṃ*)), great (महीं (*mahīṃ*)), the satisfier of all (विश्वधेनां (*viśvadhenāṃ*)), yielding (क्षरंतीं (*kṣaraṃtīṃ*)) desired wishes, for the king named Turvīti (तुर्वीतये (*turvītaye*)) and for Vayya (वय्याय (*vayyāya*)), rejoice (अरमयः (*aramayaḥ*)) with food (नमसा (*namasā*)) and with the moving (*ejat*) water (अर्णः (*arṇaḥ*)); the meaning is that Indra makes the earth rich in food and water. Further, O Indra, you made the rivers (सिंधून् (*siṃdhūn*)), the waters, easy to cross (सुतरणान् (*sutaraṇān*), अकृणोः (*akṛṇoḥ*), अकार्षिः (*akārṣiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- तुर्वीतये (*turvītaye*)—for the king named Turviti
+- वय्याय (*vayyāya*)—and to help the one named Vayya
+- महीं (*mahīṃ*)—the great
+- विश्वधेनाः (*viśvadhenāḥ*)—the satisfier of the whole world
+- क्षरंतीं (*kṣaraṃtīṃ*)—the one that yields the desired object
+- अवनिं (*avaniṃ*)—the earth
+- नमसा (*namasā*)—with food
+- विजत् (*vijat*)—with flowing
+- अर्णः (*arṇaḥ*)—water
+- अरमयः (*aramayaḥ*)—you have made (full) to rejoice
+- सिंधून् (*siṃdhūn*)—the rivers full of water
+- सुतरणान् (*sutaraṇān*)—so as to be easy to cross
+- अकृणोः (*akṛṇoḥ*)—you have made
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with the purpose of being favourable to the king named Turviti and the king named Vayya, you have made the earth, which is great, satisfying to the whole world, and yields the desired object, rejoice, filled with food and with flowing water. You have made the rivers full of water easy to cross.
+
 ---
 
-**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
+**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
