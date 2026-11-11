@@ -27484,6 +27484,264 @@ O Agni, you, knowing (विद्वान् (*vidvān*)) everything, वे�
 
 O Agni, the all-knowing, who knows the messenger-offices connected with the sacrifice, who has fully known heaven and earth and the atmosphere that lies between them, who, being most ancient, a little
 
+### Printed p. 851
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ष्णं त॒ एम॒ रुश॑तः पु॒रो भाश्च॑रि॒ष्ण्व१॒॑गर्चिर्वपु॑षा॒मिदेकं॑ ।  
+> यदप्र॑वीता॒ दध॑ते ह॒ गर्भं॑ स॒द्यश्चि॑ज्जा॒तो भव॒सीदु॑ दू॒तः ॥
+
+> *kṛṣṇaṃ ta ema ruśataḥ puro bhāścariṣṇvagarcirvapuṣāmidekaṃ |*  
+> *yadapravītā dadhate ha garbhaṃ sadyaścijjāto bhavasīdu dūtaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृष्णं । ते । एम । रुशतः । पुरः । भाः । चरिष्णु । अर्चिः । वपुषां । इत् । एकं ।  
+> यत् । अप्रवीता । दधते । ह । गर्भं । सद्यः । चित् । जातः । भवसि । इत् । ऊं इति ।  
+> दूतः ॥ ९ ॥
+
+> *kṛṣṇaṃ | te | ema | ruśataḥ | puraḥ | bhāḥ | cariṣṇu | arciḥ | vapuṣāṃ | it | ekaṃ |*  
+> *yat | apravītā | dadhate | ha | garbhaṃ | sadyaḥ | cit | jātaḥ | bhavasi | it | ūṃ iti |*  
+> *dūtaḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने रुशतो रोचमानस्य ते तव संबंध्यत्रैम । एमञ्शब्देन गमनमार्ग उच्यते । एम वर्त्म कृष्णं कृष्णवर्णं भवति । भास्तव संबंधीनि दीप्तिः पुरः
+> पुरस्ताद्भवति । चरिष्णु संचरणशीलमर्चिस्त्वदीयं तेजो वपुषां वपुष्मतां रूपवतां । तेजस्विनामित्यर्थः । एकमिन्मुख्यमेव भवति । यद्यं त्वामप्रवीता अनुपगता यजमाना गर्भं त्वज्जननहेतुमरणिं दधते ह । धारयंति खलु । स त्वं
+> सद्यश्चित्सद्य एव जात उत्पन्नः सन् दूतो भवसीदु । यजमानस्य दूतो भवस्येव ॥
+
+##### Gist of the bhāṣya
+
+Addressing Agni, "the shining one", Sāyaṇa explains एम (*ema*) as the path of going; this path of yours is black in colour. Your radiance (भाः (*bhāḥ*)) lies in front. Your moving flame (चरिष्णु (*cariṣṇu*) अर्चिः (*arciḥ*)), your brilliance, is the chief of all embodied, form-bearing, radiant beings. When the sacrificers who have approached you (अप्रवीता (*apravītā*)) hold the "germ" (गर्भं (*garbhaṃ*)), meaning the fire-drill, the cause of your birth, you, born that very moment, become the sacrificer's messenger.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- रुशतः (*ruśataḥ*)—of the shining one
+- ते (*te*)—your
+- एम (*ema*)—path
+- कृष्णं (*kṛṣṇaṃ*)—is of black colour
+- भाः (*bhāḥ*)—your radiance
+- पुरः (*puraḥ*)—is well known before you
+- चरिष्णु (*cariṣṇu*)—having the nature of moving about
+- अर्चिः (*arciḥ*)—your flame
+- वपुषां (*vapuṣāṃ*)—among those who have a luminous form
+- एकं इत् (*ekaṃ it*)—possesses a splendour peculiarly its own
+- यत् (*yat*)—when
+- अप्रवीताः (*apravītāḥ*)—the sacrificers filled with faith
+- गर्भं (*garbhaṃ*)—the fire-drills, which are your begetters
+- दधते ह (*dadhate ha*)—hold (do they not?)
+- सद्यश्चित् (*sadyaścit*)—at that very moment
+- जातः (*jātaḥ*)—born, you
+- दूतः भवसि (*dūtaḥ bhavasi*)—become the messenger of the gods
+
+### Printed p. 852
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your path, shining one, is black in colour. Your radiance is well known before you. Your moving flame has a splendour peculiarly its own even among all those of luminous form. When the sacrificers filled with faith hold the fire-drills that beget you, you, born at that very moment, become the messenger of the gods.
+
+##### English translation (H. H. Wilson)
+Dark is the path of you who are bright ; the light is before you ; your moving radiance is the chief of (all luminous) bodies : when the present (worshippers) take up the germ (in the sticks of attrition) you are speedily generated, and become indeed the messenger (of the sacrifice.)
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यो जा॒तस्य॒ ददृ॑शान॒मोजो॒ यद॑स्य॒ वातो॑ अनु॒वाति॑  ॒
+> शोचिः ।  
+> वृ॒णक्ति॑ ति॒ग्माम॑त॒सेषु॑ जि॒ह्वां स्थि॒रा चि॒दन्ना॑ दयते॒ वि जंभैः॑॥
+
+> *sadyo jātasya dadṛśānamojo yadasya vāto anuvāti*  
+> *śociḥ |*  
+> *vṛṇakti tigmāmataseṣu jihvāṃ sthirā cidannā dayate vi jaṃbhaiḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । जातस्य । ददृशानं । ओजः । यत् । अस्य । वातः । अनुवाति । शोचिः ।  
+> वृणक्ति । तिग्मां । अतसेषु । जिह्वां । स्थिरा । चित् । अन्ना । दयते । वि । जंभैः ॥ १०॥
+
+> *sadyaḥ | jātasya | dadṛśānaṃ | ojaḥ | yat | asya | vātaḥ | anuvāti | śociḥ |*  
+> *vṛṇakti | tigmāṃ | ataseṣu | jihvāṃ | sthirā | cit | annā | dayate | vi | jaṃbhaiḥ ‖ 10‖*
+
+### Printed p. 853
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सद्यो जातस्यारणिनिर्मंथनादनंतरमेवोत्पन्नस्याग्नेरोजस्तेजो ददृशानं । ऋत्विगादिभिर्दृश्यमानं भवतीति शेषः । वातो वायुर्यद्यदास्याग्नेः
+> शोचिर्दिप्तिमनु लक्ष्मीकृत्य वाति गच्छति तदा सोऽयमग्निरतसेषु वृक्षसंघेषु
+> तिग्मां तीक्ष्णां जिह्वां ज्वालां वृणक्ति ! संयोजयति । स्थिरा चित् स्थिराण्यप्यन्नान्नरूपाणि काष्ठादीनि जंभैस्तेजोभिर्वि दयते । विखंडयति । भक्षयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The energy or brilliance of Agni, born immediately after the churning of the fire-drill, becomes visible (ददृशानं (*dadṛśānaṃ*)) to the priests and others (this is the word to be supplied). When the wind (वातः (*vātaḥ*)), having this Agni's flame as its aim, blows, then this Agni joins his sharp (तिग्मां (*tigmāṃ*)) tongue, that is, flame, to the masses of trees (अतसेषु (*ataseṣu*)). Even firm things, the fuel and such which are his food, he splits apart (वि दयते (*vi dayate*)) with his glowing "jaws" (जंभैः (*jaṃbhaiḥ*)), that is, his flames; the meaning is that he consumes them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सद्यो जातस्य (*sadyo jātasya*)—of Agni, born as soon as the act of churning is done
+- ओजः (*ojaḥ*)—the brilliance
+- ददृशानं (*dadṛśānaṃ*)—comes within the sight of the priests and others
+- वातः (*vātaḥ*)—the wind
+- यत् (*yat*)—when
+- अस्य (*asya*)—of this Agni
+- शोचिः (*śociḥ*)—the brilliance
+- अनु (*anu*)—following
+- वाति (*vāti*)—blows (then)
+- आतसेषु (*ātaseṣu*)—in the masses of trees
+- तिग्मां (*tigmāṃ*)—the sharp
+- जिह्वां (*jihvāṃ*)—flame
+- वृणक्ति (*vṛṇakti*)—he joins
+- स्थिराचित् (*sthirācit*)—even though of very dense form
+- अन्ना (*annā*)—the fuel and such, which are of the nature of food
+- जंभैः (*jaṃbhaiḥ*)—with his brilliances
+- वि दयते (*vi dayate*)—(Agni) burns
+
+##### भावार्थ (Bhāvārtha)
+
+The brilliance of Agni, born as soon as the act of churning is done, becomes visible to the priests and others. When the wind blows following the brilliance of this Agni, he joins a sharp flame to the masses of trees. Even though of very dense form, the fuel and such, which are of the nature of food, Agni burns with his brilliances.
+
+##### English translation (H. H. Wilson)
+The light of the speedily-generated is visible, and when the wind fans the flame, he (Agni) spreads his blazing tongue amongst the trees, and with his (glowing) teeth consumes the standing (fuel his) food.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒षु यदन्ना॑ तृ॒षुणा॑ व॒वक्ष॑ तृ॒षुं दू॒तं कृ॑णुते य॒हो  ॒
+> अग्निः ।
+
+> *tṛṣu yadannā tṛṣuṇā vavakṣa tṛṣuṃ dūtaṃ kṛṇute yaho*  
+> *agniḥ |*
+
+### Printed p. 854
+
+> वातस्य मेळिं सचते निजूर्वन्नाशुं न वाजयते हिन्वे  
+> अर्वा ॥ ११ ॥
+
+> *vātasya meḷiṃ sacate nijūrvannāśuṃ na vājayate hinve*  
+> *arvā ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृषु । यत् । अन्ना । तृषुणा । ववक्ष । तृषुं । दूतं । कृणुते । यह्वः । अग्निः ।  
+> वातस्य । मेळिं । सचते । निजूर्वन् । आशुं । न । वाजयते । हिन्वे । अर्वा ॥१०॥
+
+> *tṛṣu | yat | annā | tṛṣuṇā | vavakṣa | tṛṣuṃ | dūtaṃ | kṛṇute | yahvaḥ | agniḥ |*  
+> *vātasya | meḷiṃ | sacate | nijūrvan | āśuṃ | na | vājayate | hinve | arvā ‖10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्योऽग्निस्त्रिषु क्षिप्रमेवान्नानानि काष्ठादीनि तृषुणा क्षिप्रेण रश्मिसमूहेन
+> ववक्ष । वहति । दहतीत्यर्थः । यहो महान् सोऽग्निस्तृषुमात्मानं दूतुं
+> कृणुते । यजमानदूतं करोति । निजूर्वन् काष्ठानि निःशेषेण दहन्नग्निर्वातस्य
+> वायोर्मेळिं बलं सचते । सेवतॆः । आशुं न । अश्वसादी यथाश्वं तथार्ना
+> गमनशीलोऽग्निः स्वरश्मिं वाजयते । वाजिनं बलवंतं करोति। हिन्वे । प्रेरयति च ॥
+
+##### Gist of the bhāṣya
+
+The Agni who quickly (तृषु (*tṛṣu*)) carries off, that is, burns, his foods, the fuel and such, with a swift (तृषुणा (*tṛṣuṇā*)) mass of rays, that great one (यह्वः (*yahvaḥ*) means mahān) makes himself (तृषुं (*tṛṣuṃ*)) a messenger, the sacrificer's messenger. Burning up the fuel completely (निजूर्वन् (*nijūrvan*)), Agni resorts to the strength (मेळिं (*meḷiṃ*)) of the wind. आशुं न (*āśuṃ na*): as a horse-rider his horse, so the swift-going Agni makes his own ray vigorous (वाजयते (*vājayate*): makes it strong) and urges it on (हिन्वे (*hinve*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—the Agni who
+- तृषु (*tṛṣu*)—quickly
+- अन्ना (*annā*)—the fuel and such
+- तृषुणा (*tṛṣuṇā*)—with a mass of rays (a flame) that spreads swiftly
+- ववक्ष (*vavakṣa*)—carries off
+- यह्वः (*yahvaḥ*)—that Agni of great majesty
+- तृषुं (*tṛṣuṃ*)—himself
+- दूतं (*dūtaṃ*)—as messenger on behalf of the sacrificer who performs the sacrifice
+- कृणुते (*kṛṇute*)—makes
+- निजूर्वन् (*nijūrvan*)—Agni, burning the fuel completely
+- वातस्य (*vātasya*)—of the wind
+- मेळिं (*meḷiṃ*)—the strength (the help)
+- सचते (*sacate*)—resorts to (desires)
+- आशुं न (*āśuṃ na*)—as the rider seated on a horse urges the horse to go swiftly
+- आर्वा (*ārvā*)—the Agni who is given to going (spreading), his own ray (flame)
+- वाजिनं (*vājinaṃ*)—makes powerful, and
+- हिन्वे (*hinve*)—urges on
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who quickly burns up fuel and such, burning everything with his swiftly spreading flame, takes on the office of messenger on behalf of the sacrificer who performs the sacrifice. While burning the fuel, this Agni desires the help of the wind. As a rider seated on a horse urges his horse to go swiftly, this Agni makes his flame spread quickly.
+
+### Printed p. 855
+
+##### English translation (H. H. Wilson)
+When quickly, with rapid (radiance) he has carried off his food, the mighty Agni makes ( himself ) the fleet messenger ( of the worshipper ); consuming (the fuel), he allies himself with the force of the wind, and as (a horseman) urges his fast steed, so the rapid-going Agni invigorates and urges (his flames).
+## Sūkta 8 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूतं व इत्यष्टर्चमष्टमं सूक्तं वामदेवस्यार्षं गायत्रीछंदस्कमग्निदेवताकं । तथा चानुक्रम्यते । दूतं वोऽष्टौ गायत्रं त्विति ॥ व्यूल्ले दशरात्रे
+> प्रथमे छंदोम इदं सूक्तं जातवेदस्यनिविद्धानीयं । तथा च सूत्रितं । दूतं
+> व इत्याग्निमारुतं । आ. ८-९ । इति ॥ इदमादिके द्वे सूक्ते प्रातरनुवाकस्याग्नेये
+> क्रत् गौ गायत्रे छंदसि विनियुक्ते । सूत्रितं च । अग्ने पावक दूतं व इति सूक्ते ।
+> आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, दूतं वः (*dūtaṃ vaḥ*), of eight ṛks, has Vāmadeva as seer, Agni as deity and Gāyatrī as metre. The Anukramaṇī says: दूतं वोऽष्टौ गायत्रं तु (*dūtaṃ vo 'ṣṭau gāyatraṃ tu*). In the ten-night rite called Vyūḍha, in the first Chandoma day, this sūkta is to be recited as the nivid-type text addressed to Jātavedas. So it is stated in the sūtra दूतं व इत्याग्निमारुतं (*dūtaṃ va ityāgnimārutaṃ*) (Ā. 8-9). This sūkta and the next two are employed, in the Prātaranuvāka recitation, for the Gāyatrī-metre ṛks belonging to Agni's Kratu; so it is stated: अग्ने पावक दूतं व इति सूक्ते (*agne pāvaka dūtaṃ va iti sūkte*) (Ā. 4-13).
+
+##### Anuvāda
+
+This sūkta beginning दूतं वः (*dūtaṃ vaḥ*) is the eighth sūkta in the first anuvāka. It has eight ṛks. Vāmadeva is the seer of this sūkta; Agni is the deity; Gāyatrī is the metre. In the Anukramaṇī it is said: दूतं वोऽष्टौ गायत्रं तु (*dūtaṃ vo 'ṣṭau gāyatraṃ tu*). In the ten-night sacrifice called Vyūḍha, in the first Chandoma, this sūkta is to be recited as the nivid-type text relating to Jātavedas; this is explained by the sūtra दूतं व इत्याग्निमारुतं (*dūtaṃ va ityāgnimārutaṃ*) of the Āśvalāyana Śrauta Sūtra (Ā. 8-9). And this sūkta and the next are employed, in the recitation of the Prātaranuvāka mantras, for the ṛks in Gāyatrī metre relating to Agni's Kratu; this is explained by the sūtra अग्ने पावक दूतं व इति सूक्ते (*agne pāvaka dūtaṃ va iti sūkte*) of the Āśvalāyana Śrauta Sūtra (Ā. 4-13).
+
+### Printed p. 856
+
+##### Particulars
+
+> विवृतवागिरुवुदु. मत्तु ई सूक्तवू मुंदिन सूक्तवू प्रातरनुवाकमंत्रगळ पठनदल्लि आग्निय
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूक्त—८  
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—८ ॥  
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—८ ॥  
+> सूक्तदल्लिरुव ऋक्संख्यॆ—८ ॥  
+> ऋषि—वामदेवः ॥  
+> देवता—अग्निः ॥  
+> छंदः—गायत्रि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूतं वो विश्ववेदसं हव्यवाहममर्त्यं ।  
+> यजिष्ठमृंजसे गिरा ॥ १ ॥
+
+> *dūtaṃ vo viśvavedasaṃ havyavāhamamartyaṃ |*  
+> *yajiṣṭhamṛṃjase girā ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूतं । वः । विश्ववेदसं । हव्यवाहं । अनुत्यं ।
+> यजिष्ठं । यंजसे । गिरा ॥ १ ॥
+
+> *dūtaṃ | vaḥ | viśvavedasaṃ | havyavāhaṃ | anutyaṃ |*
+> *yajiṣṭhaṃ | yaṃjase | girā ‖ 1 ‖*
+
+**NOTE**
+
+> हे अग्ने विश्ववेदसं । विश्वं समस्तं वेदो धनं यस्यासौ विश्ववेदाः । तं
+> सर्वविदं वा हन्यवाहं देवेभ्यो हविषां वोढारनुमर्त्यमनुरणधर्माणं
+> यजिष्ठमतिशयेन यष्टारं दूतु देवानां वस्त्वां गिरा स्तुतिरूपया वाचा
+> ऋंजसे । यजमानोऽहं प्रसाधयामि । वर्धयामीत्यर्थः । ऋंजतिः प्रसाधनकर्मेति यास्कः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, विश्ववेदसं (*viśvavedasaṃ*): he whose wealth (*vedaḥ*) is all (विश्वं (*viśvaṃ*)) is विश्ववेदाः (*viśvavedāḥ*); or, the all-knowing one. You, the bearer of oblations (हव्यवाहं (*havyavāhaṃ*)) to the gods, deathless (अमर्त्यं (*amartyaṃ*), of a nature not subject to dying), the foremost sacrificer (यजिष्ठं (*yajiṣṭhaṃ*)), the messenger of the gods: you I, the sacrificer, with speech (गिरा (*girā*)) in the form of praise, ऋंजसे (*ṛṃjase*), that is, I fit out, I exalt. Yāska says that ऋंजतिः (*ṛṃjatiḥ*) is a verb of the sense of fitting out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसं (*viśvavedasaṃ*)—possessing all riches
+- हव्यवाहं (*havyavāhaṃ*)—bearer of the oblation
+- अमर्त्यं (*amartyaṃ*)—free from the nature of dying
+- यजिष्ठं (*yajiṣṭhaṃ*)—most worthy of worship
+- दूतं (*dūtaṃ*)—and messenger to the gods
+- वः (*vaḥ*)—you
+- गिरा (*girā*)—with speech in the form of praise
+- ऋंजसे (*ṛṃjase*)—I worship and adorn
+
 ---
 
-**Progress note:** Done through printed p. 850. pp. 844-850 (batch API)
+**Progress note:** Done through printed p. 856. pp. 851-856 (batch API)
