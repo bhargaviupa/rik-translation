@@ -2251,6 +2251,224 @@ May that Indra come to us for protection (अवसे (*avase*)), that is, draw
 - तविषीः (*taviṣīḥ*)—the powers
 - पूर्वीः (*pūrvīḥ*)—many
 
+### Printed p. 69
+*Pratipadārtha (continued from Ṛk 1)*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वीः (*pūrvīḥ*)—(whose energies) are of many kinds
+- यः (*yaḥ*)—which Indra
+- द्यौः न (*dyauḥ na*)—who shines like the radiant sun
+- अभिभूति (*abhibhūti*)—the enemy-army-destroying
+- क्षत्रं (*kṣatraṃ*)—the splendid strength
+- पुष्यात् (*puṣyāt*)—may it attain increase
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra come near us for our protection. May Indra, who is praised in this sacrifice, who is heroic and who attains growth, rejoice together with us. May the splendid strength, which destroys the enemy army, of that Indra whose energies are of many kinds and who shines like the radiant sun, increase.
+
+##### English translation (H. H. Wilson)
+May Indra come to us for our protection, and being praised (by us), may the mighty hero be exhilarated along with (us) at this rite ; he whose energies are many : may he, like the radiant sun, recruit his own overpowering vigour.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word तविषी (*taviṣī*) is read among the names of strength (Ni. 3-9). The word पुरु (*puru*) is read among the names of "many" (Ni. 3-13). Since पूर्वीः (*pūrvīḥ*) is formed from पुरु (*puru*), पूर्वीः (*pūrvīḥ*) means "abundant". Although the word क्षत्र (*kṣatra*) is read among the names of water (Ni. 2-24) and among the names of wealth (Ni. 3-9), here the commentator has explained it as splendid strength. अभिभूति (*abhibhūti*): this word is formed from the root भू सत्तायां (*bhū sattāyāṃ*) preceded by the prefix अभि (*abhi*); it means defeat, overthrow.
+
+द्यौः (*dyauḥ*): the word द्यु (*dyu*) has many meanings. द्युरित्यहो नामधेयं द्योतत इति सतः (*dyurityaho nāmadheyaṃ dyotata iti sataḥ*) (Ni. 1-6): द्यु (*dyu*) is a name for the day, because in the day there is brightness (light). The word द्यु (*dyu*) is read among the names of the day as द्यौः (द्युः) भानुः (*dyauḥ (dyuḥ) bhānuḥ*) and so on (Ni. 2-21). द्यां दिवं (*dyāṃ divaṃ*) (Ni. 9-13 and 10-22): the word द्यु (*dyu*) also has the meaning heaven. द्यौरादित्यो भवति (*dyaurādityo bhavati*) (Ni. 2-14): the word द्यौः (*dyauḥ*) also has the meaning Āditya.
+
+### Printed p. 70
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्येदि॒ह स्त॑वथ॒ वृष्ण्या॑नि तुविद्यु॒म्नस्य॑ तुवि॒राध॑सो॒ नृन् ।  
+> यस्य॒ क्रतु॑र्विद॒थ्यो॒३॒॑ ३ न स॒म्राट् सा॒ह्वा तरु॑त्रो अ॒भ्यस्ति॑  ॒
+> कृष्टीः ॥ २ ॥
+
+> *tasyediha stavatha vṛṣṇyāni tuvidyumnasya tuvirādhaso nṛn |*  
+> *yasya kraturvidathyo 3 na samrāṭ sāhvā tarutro abhyasti*  
+> *kṛṣṭīḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्य । इत् । इह । स्तवथ । वृष्ण्यानि । तुविद्युम्नस्य । तुविराधसः । नृन् ।  
+> यस्य । क्रतुः । विदथ्यः । न । संराट् । सहवान् । तरुत्रः । अभि । अस्ति । कृष्टीः ॥ २ ॥
+
+> *tasya | it | iha | stavatha | vṛṣṇyāni | tuvidyumnasya | tuvirādhasaḥ | nṛn |*  
+> *yasya | kratuḥ | vidathyaḥ | na | saṃrāṭ | sahavān | tarutraḥ | abhi | asti | kṛṣṭīḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुविद्युम्नस्य बहुकीर्तेस्तु विराधसो बहुधनस्य तस्येत्तस्येंद्रस्यैव
+> वृष्ण्यानि बलभूतान्नान् नेत्यन्मरुतो हे स्तोतारो यूयमिहास्मिन्यज्ञे
+> स्तवथ । स्तुत । साह्वान् शत्रूनभिभावुकस्तरुत्तोऽस्मानापद्भ्यस्तारको यस्येंद्रस्य
+> क्रतुः कर्म कृष्टीः शत्रुसंबंधिनीः प्रजा अभ्यस्ति अभिभवति । तत्र दृष्टांतः । विदथ्यो
+> न सम्राट् । विदथार्हो न यज्ञार्हः सम्राट् सकललोकानामधिपतिरिव तद्वत् ।
+> तस्य वृष्ण्यानीति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes "that very Indra", of abundant fame and abundant wealth, as the one whose manly powers (वृष्ण्यानि (*vṛṣṇyāni*)) are to be praised. He glosses वृष्ण्यानि (*vṛṣṇyāni*) (the manly powers) and नृन् (*nṛn*) as the Maruts, who are the strength-bringers and leaders. "O praisers, you praise, here in this sacrifice, the Maruts of that Indra alone." साह्वा (*sāhvā*) means one who overcomes enemies; तरुत्रः (*tarutraḥ*) means one who carries us across calamities. Indra's क्रतुः (*kratuḥ*), his action, overcomes (अभि अस्ति (*abhi asti*)) the subjects (कृष्टीः (*kṛṣṭīḥ*)) belonging to the enemy. The illustration is विदथ्यो न सम्राट् (*vidathyo na samrāṭ*): like a universal sovereign, lord of all the worlds, who is fit for the विदथ (*vidatha*) (sacrifice), that is, worthy of sacrifice. The word तस्य (*tasya*) is to be connected with वृष्ण्यानि (*vṛṣṇyāni*) in the foregoing manner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) तुविद्युम्नस्य (*tuvidyumnasya*)—of him who has fame of many kinds
+- तुविराधसः (*tuvirādhasaḥ*)—who has abundant wealth
+- तस्यॆत् (*tasyèt*)—of that very Indra
+- वृष्ट्यानि (*vṛṣṭyāni*)—who are as strength
+- न्यन् (*nyan*)—the Maruts, who are leaders
+- इह (*iha*)—in this sacrifice
+- स्तवध (*stavadha*)—praise
+- साह्वान् (*sāhvān*)—which crushes enemies
+- तरुत्रः (*tarutraḥ*)—which protects us
+- यस्य क्रतुः (*yasya kratuḥ*)—whose, of that same Indra, actions
+- कृष्टीः (*kṛṣṭīḥ*)—the subjects (belonging to the enemy)
+- विदथ्यः (*vidathyaḥ*)—who has attained worthiness of sacrifice
+- सम्राट् न (*samrāṭ na*)—as an emperor defeats all enemies
+- अभ्यस्ति (*abhyasti*)—defeats and destroys
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, praise in this sacrifice the Maruts, who augment the strength of Indra—he who has fame of many kinds and abundant wealth—and who are his leaders. As an emperor who has attained worthiness of sacrifice and who has the strength to destroy enemies destroys all enemies by his own power, so the powerful deeds of Indra, which destroy enemies and protect us from calamity, defeat and destroy the subjects belonging to the enemy.
+
+### Printed p. 71
+
+##### English translation (H. H. Wilson)
+Glorify the powerful leaders of that renowned and opulent (Indra), whose victorious and protecting energy rules over men, like a universal sovereign entitled to veneration.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुविद्युम्नस्य तुविराधसः तस्येत् वृष्ट्यानि नृन् इह स्तवथ—हे स्तोतारः बहुकीर्तेः बहुधनस्य तस्येंद्रस्यैव बलभूतान् नेत्यन् मरुतो यूयं अस्मिन्यज्ञे स्तुत । (*tuvidyumnasya tuvirādhasaḥ tasyet vṛṣṭyāni nṛn iha stavatha—he stotāraḥ bahukīrteḥ bahudhanasya tasyeṃdrasyaiva balabhūtān netyan maruto yūyaṃ asminyajñe stuta |*). O praisers, praise in this sacrifice those Maruts of Indra—he of much fame and much wealth—who help Indra in battles and the like and are endowed with strength and valour; or else those Marut deities who increase Indra's strength by their help and who are guides. Thus the sacrificer addresses the officiating priests. The word तुवि (*tuvi*) has the meaning "much" (Ni. 3-13). The word द्युम्न (*dyumna*) is read among the names of wealth (Ni. 3-9). Moreover, since Yāska has given the explanation द्युम्नं द्योत तेर्यशो वा अन्नं ना (*dyumnaṃ dyota teryaśo vā annaṃ nā*) (Ni. 5-5), the word द्युम्न (*dyumna*) has the two meanings fame and food. Therefore in the present Ṛk the two meanings "of much fame" or "having food" can be said of Indra. Since the word राधः (*rādhaḥ*) too is read among the names of wealth (Ni. 3-9), तुविराधसः (*tuvirādhasaḥ*) means Indra who has much wealth, or who gives much wealth to those who praise him. The word क्रतु (*kratu*) is read among the names of action (Ni. 3-1), the word कृष्टीः (*kṛṣṭīḥ*) among the names of men (Ni. 10-29), and the word विदथ (*vidatha*) among the names of sacrifice (Ni. 3-19).
+
+साह्वान् तरुत्रः यस्य क्रतुः कृष्टीः अभ्यस्ति (*sāhvān tarutraḥ yasya kratuḥ kṛṣṭīḥ abhyasti*): Indra's bold deed, which destroys enemies and protects us from harm, defeats and destroys (our) enemies. That is, Indra's surpassing might is great; the intention is that Indra, endowed with such power and bold deeds, will defeat our enemies. Although the word कृष्टीः (*kṛṣṭīḥ*) here indicates merely "men", the sense fitting the context, "enemy people", must be given.
+
+विदथ्यः साम्राट् न (*vidathyaḥ sāmrāṭ na*): here an illustration is stated regarding Indra's defeating of enemies. The intention is that as an emperor, who has become lord over the whole earth and is called sovereign of all, defeats his enemies easily, (continued on the next page)
+
+### Printed p. 72
+so Indra will defeat our enemies, or his, without effort. Here the word विदथ्यः (*vidathyaḥ*) is an attribute of the word सम्राट् (*samrāṭ*). Since the word विदथ (*vidatha*) means sacrifice, it means one who has taken the initiation for a sacrifice, or who wishes to perform a sacrifice. It is well known that when performing a sacrifice kings make a conquest of the quarters, defeat many enemies and gather wealth. That may be what is indicated here. Here the word न (*na*) is used in the sense of comparison.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॒त्विंद्रो॑ दि॒व आ पृ॑थि॒व्या म॒क्षू स॑मु॒द्रादु॒त वा॒  ॑
+> पुरी॑षात् ।  
+> स्व॑र्णरा॒दव॑से नो म॒रुत्वा॑न्नरा॒वतो॑ वा॒ सद॑नादृ॒तस्य॑ ॥ ३ ॥
+
+> *ā yātviṃdro diva ā pṛthivyā makṣū samudrāduta vā*  
+> *purīṣāt |*  
+> *svarṇarādavase no marutvānnarāvato vā sadanādṛtasya ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातु । इंद्रः । दिवः । आ । पृथिव्याः । मक्षु । समुद्रात् । उत । वा ।  
+> पुरीषात् ।  
+> स्वःनरात् । अवसे । नः । मरुत्वान् । परावतः । वा । सदनात् । ऋतस्य ॥ ३ ॥
+
+> *ā | yātu | iṃdraḥ | divaḥ | ā | pṛthivyāḥ | makṣu | samudrāt | uta | vā |*  
+> *purīṣāt |*  
+> *svaḥnarāt | avase | naḥ | marutvān | parāvataḥ | vā | sadanāt | ṛtasya ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वान्मरुद्भिः सहित इंद्रो नोऽस्माकमवसे रक्षणाय दिवः स्वर्गलोकादा
+> यातु । आगच्छतु । पृथिव्या भूलोकाच्च मक्षु शीघ्रमा यातु । उत वा अथवा
+> समुद्रादंतरिक्षलोकाच्चायातु । समुद्र इत्यंतरिक्षनाम सगरः समुद्रोऽध्वरमिति
+> तन्नामसु पाठात् । अथवा पुरीषादुदकादायातु । पुरीषमित्युदकनाम मधु
+> पुरीषं पिप्पलमिति तन्नामसु पाठात् । स्वर्णरात् स्वरादित्यो नरो नेता यस्य
+> तस्माल्लोकाद्वायातु । परावतो ना दूराद्वायातु । ऋतस्कोदकस्य सदना
+> त्स्थानान्मेघलोकाद्वायातु ॥
+
+##### Gist of the bhāṣya
+
+Indra accompanied by the Maruts (मरुत्वान् (*marutvān*)) is asked to come for our protection (अवसे (*avase*)) from the heavenly world, and also quickly (मक्षु (*makṣu*)) from the earth; or from the समुद्र (*samudra*), that is the atmospheric world. Sāyaṇa says समुद्र (*samudra*) is a name of the atmosphere, since it is read among its names: सगरः समुद्रोऽध्वरमिति (*sagaraḥ samudro 'dhvaramiti*). Or he may come from पुरीष (*purīṣa*), water; पुरीष (*purīṣa*) is a name of water, since it is read among its names: मधु पुरीषं पिप्पलमिति (*madhu purīṣaṃ pippalamiti*). स्वर्णरात् (*svarṇarāt*): स्वः (*svaḥ*) is the sun, and the world of which the sun is the नर (*nara*), the leader, may be where he comes from. परावतः (*parāvataḥ*) means from afar. *ṛtasya sadanāt* means from the abode of the ऋत (*ṛta*), water, that is the world of clouds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वान् (*marutvān*)—accompanied by the Maruts
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- दिवः (*divaḥ*)—from the heavenly world
+- आ यातु (*ā yātu*)—may he come
+- पृथिव्याः (*pṛthivyāḥ*)—from the earth also
+- मक्षु (*makṣu*)—quickly
+- आ (यातु) (*ā (yātu)*)—may he come
+- उत वा (*uta vā*)—or
+- समुद्रात् (*samudrāt*)—from the atmosphere
+- पुरीषात् (*purīṣāt*)—from the midst of the water
+- स्वर्णरात् (*svarṇarāt*)—from the heaven-world, which is the path of the sun (may he come)
+- परावतो वा (*parāvato vā*)—or from a distant region (may he come)
+- ऋतस्य (*ṛtasya*)—of water
+- सदनात् (*sadanāt*)—from the world of clouds, which is its dwelling-place (may he come)
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, accompanied by the Maruts, come for our protection wherever he may be: whether he is in heaven, or on earth, or in the atmosphere, or in the midst of the water, or in the heaven-world which is the dwelling-place and path of travel of the sun, or in a very distant region, or in the world of clouds which is the dwelling-place of water, let him surely come to our protection.
+
+### Printed p. 73
+
+##### English translation (H. H. Wilson)
+May Indra, accompanied by the Maruts, come quickly for our protection, from the heaven, from the earth, from the firmament, or from the waters; from the sphere of the sun, from (any) distant region, from the abode of the rains.
+
+##### विशेषविषयगळु (Special Topics)
+
+The constant companionship of Indra and the Maruts is well known from the Śruti. The relation of king and subjects between Indra and the Maruts, the offering of oblations to Indra together with the Maruts in the chief sacrificial rites, and the Maruts' helping Indra when he fought with the demon Vṛtra are praised in many places in the Saṃhitās and the Brāhmaṇas. An old story telling how Indra, joined with the Maruts, stood apart from the other gods is described in the Śatapatha Brāhmaṇa as follows.
+
+आथित्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धा व्यद्रवन्नन्योन्यस्य श्रियातिष्ठमाना अग्निर्वसुभिः, सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वेदेवैः । (*āthityena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhā vyadravannanyonyasya śriyātiṣṭhamānā agnirvasubhiḥ, somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvedevaiḥ |*) (Śa. Brā. 3-4-2-1).
+
+Formerly, when the gods performed the hospitality rite, ill feeling arose among them; none wishing to yield to another, they formed four groups and separated. Agni (with the Vasus), (continued on the next page)
+
+### Printed p. 74
+Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas joined together and formed separate groups. In this story the close relation that Indra maintains with the Maruts, having built up companionship with them, is told. Moreover, in many places it is said that Indra is the king and the Maruts the subjects. For example:
+
+क्षत्रं वा इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति । (*kṣatraṃ vā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati |*) (Śa. Brā. 4-3-3-6).
+
+Indra is the king who has kṣatra-splendour; the Maruts are the subjects. It is indicated that a king becomes powerful only through the cooperation of the subjects, and that Indra's valour increased through the help of the Maruts. Because there is such a close relation and companionship, the practice of offering oblations addressing Indra and the Maruts together is also seen in the Śrutis.
+
+अनवध्यैरभिद्युभिर्मखि सहस्वदर्चति । गणैरिंद्रस्य काम्यैः ॥ (*anavadhyairabhidyubhirmakhi sahasvadarcati | gaṇairiṃdrasya kāmyaiḥ ‖*) (Ṛ. Saṃ. 1-6-8)
+
+मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रे मरुतः परिष्टुभः । (*maṃdrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā iṃdre marutaḥ pariṣṭubhaḥ |*) (Ṛ. Saṃ. 1-166-11)
+
+स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभि स्थविरः सहोदाः । (*sa no marudbhirvṛṣabha śravo dhā ugra ugrebhi sthaviraḥ sahodāḥ |*) (Ṛ. Saṃ. 1-171-5)
+
+From such Ṛks as these there is a joint invocation of Indra and the Maruts and an offering of oblations. Because there is such companionship, here too the attribute मरुत्वान् (*marutvān*) is given. The Bṛhaddevatā explains this attribute, which indicates the relation of these deities, saying that in all the occasions when Indra accompanied by the Maruts is addressed, he is called मरुत्वान् (*marutvān*):
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56)
+
+स्वर्णरात् (*svarṇarāt*): the word स्वः (*svaḥ*) has many meanings. Here it is used in the general meaning "heaven" (Ni. 2-13).
+
+प्रत्यज् देवानां विशः प्रतज्ञुदेपि मानुषान् । प्रत्यज् विश्वं स्वद्भवे ॥ (*pratyaj devānāṃ viśaḥ pratajñudepi mānuṣān | pratyaj viśvaṃ svadbhave ‖*) (Ṛ. Saṃ. 1-50-5)
+
+### Printed p. 75
+In this Ṛk the commentator has explained the word स्वः (*svaḥ*) as स्वः (*svaḥ*)-स्वर्लोकं (*svarlokaṃ*), so it means the heavenly world. स्वरादित्यो भवति (*svarādityo bhavati*): स्वः (*svaḥ*) is a name of the sun.
+
+याभी रेभं निवृतं सितमद्भ्य उद्वंदनमैरयतं स्वर्दृशे । (*yābhī rebhaṃ nivṛtaṃ sitamadbhya udvaṃdanamairayataṃ svardṛśe |*) (Ṛ. Saṃ. 1-112-5)
+
+In this Ṛk the word स्वः (*svaḥ*) is in the meaning स्वरादित्यं (*svarādityaṃ*), that is Āditya or the sun; and in
+
+त्मना वहंतो दुरो व्यण्णन्नवत विश्वे स्व १ द्दृशिके । (*tmanā vahaṃto duro vyaṇṇannavata viśve sva 1 ddṛśike |*) (Ṛ. Saṃ. 1-69-5)
+
+सिंधुं न क्षोदः प्र नीचैरैनोन्नवंत गावः स्व १ द्दृशिके । (*siṃdhuṃ na kṣodaḥ pra nīcairainonnavaṃta gāvaḥ sva 1 ddṛśike |*) (Ṛ. Saṃ. 1-66-5)
+
+in these Ṛks स्वः (*svaḥ*) is in the meaning नभसि (*nabhasi*), the atmosphere. In
+
+नि यं दधुर्मनुष्यासु विक्षु स्व १ ण् चित्रं वपुषे विभावं । (*ni yaṃ dadhurmanuṣyāsu vikṣu sva 1 ṇ citraṃ vapuṣe vibhāvaṃ |*) (Ṛ. Saṃ. 1-148-1)
+
+Yāska says स्वरादित्यो भवति सु अरणः सु ईरणः स्वृतो रसान्तृतो भासं ज्योतिषां स्वृतो भासेति वा (*svarādityo bhavati su araṇaḥ su īraṇaḥ svṛto rasāntṛto bhāsaṃ jyotiṣāṃ svṛto bhāseti vā*); as he says, भासा (*bhāsā*) means brightness (light). Since the word स्वः (*svaḥ*) is also read in the middle of the hundred and one names of water beginning अणः (*aṇaḥ*), क्षोदः (*kṣodaḥ*) and so on, स्वः (*svaḥ*) also means water. (Ni. 9-24)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्थू॒रस्य॑ रा॒यो बृ॑ह॒तो य ईशे॒ तमु॑ ष्टवाम वि॒दथे॒ष्विंद्रं॑ ।  
+> यो वा॒युना॒ जय॑ति॒ गोम॑तीषु॒ प्र धृ॑ष्णु॒या नय॑ति॒ ॒ ॑
+> वस्यो अच्छ ॥ ४ ॥
+
+> *sthūrasya rāyo bṛhato ya īśe tamu ṣṭavāma vidatheṣviṃdraṃ |*  
+> *yo vāyunā jayati gomatīṣu pra dhṛṣṇuyā nayati*  
+> *vasyo accha ‖ 4 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 68. pp. 61-68 (batch API)
+**Progress note:** Done through printed p. 75. pp. 69-75 (batch API)
