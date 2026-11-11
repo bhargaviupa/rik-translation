@@ -16877,6 +16877,239 @@ The opulent Ushas, the bride of the far-darting (sun), throwing off (darkness) l
 In such places the precise meaning of *svasara* is stated to be the sun.
 *Svaḥ*: this word is read among the common names, *svaḥ*, *pṛśni*, *nāka* and so on. The Nirukta says that all these are synonyms of heaven and of the sun. The sun too, being of the nature of light, is designated by the word *svaḥ*. And,
 
+### Printed p. 518
+
+(Special Topics, continued) The nirvacana of this word, स्वतो भासं ज्योतिषां । स्वतो भासेति वा ॥ (*svato bhāsaṃ jyotiṣāṃ | svato bhāseti vā ‖*) (Ni. 9-14), and the like, was given earlier together with the special senses of the word. In the present Ṛk the word is used to describe the radiance of Uṣas.
+
+"Wife of Svasara" (स्वसरस्य पत्नि (*svasarasya patni*)) may mean either the wife of the Sun or the wife of the day (ahas). The relation between the Sun and Uṣas is described in one way in one place and in another way elsewhere. In passages such as योषा जारस्य चक्षसा विभाति (*yoṣā jārasya cakṣasā vibhāti*) (Ṛ. Saṃ. 1-92-11) it is established that she is the wife of Āditya.
+
+कदा नो देवीरमृतस्य पत्निः सूरो वर्णेन शतनन्नु पासः । (*kadā no devīramṛtasya patniḥ sūro varṇena śatanannu pāsaḥ |*) (Ṛ. Saṃ. 4-5-13)
+
+The description that the Uṣases, wives of the Sun, who give life to the world and protect it, spread out their light, is just as in the present Ṛk. But in
+
+एता उ त्याः प्रत्यदृश्रन् पुरस्ताज्योतिर्यच्छंतीरुषसो विभातीः । अजीजनन्तूर्यं यज्ञमग्निपपाचीनं तमो आगादबुष्टं ॥ (*etā u tyāḥ pratyadṛśran purastājyotiryacchaṃtīruṣaso vibhātīḥ | ajījanantūryaṃ yajñamagnipapācīnaṃ tamo āgādabuṣṭaṃ ‖*) (Ṛ. Saṃ. 7-78-3)
+
+it is said that the shining Uṣases, who spread radiance over the world, brought the Sun into being; so in some places a relation of mother and begotten is also stated.
+
+स्यूम इव (*syūma iva*)—the word syūma is explained as "cloth". Because cloth is woven of warp and woof, it has the synonym syūma. In the same way dense darkness, like warp and woof, is here compared with syūma. In some places the same synonym stands for radiance having this quality. For example, in
+
+सूम्यमगभस्तिमृतयुग्भि रश्वैराश्विना वसुमंतं वहेथां ॥ (*sūmyamagabhastimṛtayugbhi raśvairāśvinā vasumaṃtaṃ vahethāṃ ‖*) (Ṛ. Saṃ. 7-21-3)
+
+and similar places, स्यूमगभस्ति (*syūmagabhasti*) is said to mean either "having pleasant rays" or "having rays [of the kind called] sūta".
+
+### Printed p. 519
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ वो दे॒वीमु॒षसं॑ विभा॒तीं प्रवो॑ भरध्वं॒ नम॑सा  ॒
+> सुवृक्तिं :  
+> ऊ॒र्ध्वं म॑धु॒धा दि॒वि पाजो॑ अश्रे॒त्‌प्र रो॑च॒ना रु॑रुचे  ॒॑
+> रण्वसंदृक् ॥ ५ ॥
+
+> *acchā vo devīmuṣasaṃ vibhātīṃ pravo bharadhvaṃ namasā*  
+> *suvṛktiṃ :*  
+> *ūrdhvaṃ madhudhā divi pājo aśretpra rocanā ruruce*  
+> *raṇvasaṃdṛk ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । वः । देवीं । उषसं । विभातीं । प्र । वः । भरध्वं । नमसा । सुवृक्तिं ।  
+> ऊर्ध्वं । मधुधा । दिवि । पाजः । अश्रेत् । प्र । रोचना । रुरुचे । रण्यसंदृक् ॥
+
+> *accha | vaḥ | devīṃ | uṣasaṃ | vibhātīṃ | pra | vaḥ | bharadhvaṃ | namasā | suvṛktiṃ |*  
+> *ūrdhvaṃ | madhudhā | divi | pājaḥ | aśret | pra | rocanā | ruruce | raṇyasaṃdṛk ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारो वो युष्मानच्छाभिलक्ष्य विभातीं शोभमानामुषसं देवीं
+> प्रति वो युष्माकं संबंधिना नमसा नमस्कारेण सह सुवृक्तिं शोभनां स्तुतिं
+> प्रभरध्वं । यूयं कुरुत । मधुधा । मधुराणि स्तुतिलक्षणानि वाक्यानि दधातीति ।
+> मधु सोमः । तं धारयतीति वा । यद्वा। मधुधादित्यधात्री । यद्वा । अवग्रहाभावादव्युत्पन्नावयवमखंडमिदं पदमुषोनाम । सेयमुषा दिवि नभस्यूर्ध्वं पाज
+> ऊर्ध्वाभिमुखं पाजस्तेजोऽश्रेत् । श्रयति । तथा रोचना रोचनशीला रण्वसंदृक् रमणीयदर्शनोषाः प्र रुरुचे । प्रकर्षेण दीप्यते । यद्वा । रोचना
+> लोकान्प । रुरुचे । प्रकर्षेण स्वतेजसा दीपयति । तथा च मंत्रवर्णः । व्युच्छंती
+> हि रश्मिभिर्विश्वमाभासि रोचनं । ऋग्वे. १-४९-४ । इति ॥ रण्वसंदृक् । रवेर्गत्यर्थस्याच्‌प्रत्ययः । इदित्वान्नुमागमः । संपूर्वाद्दृशेः क्विन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the praisers: turning towards you, offer to the shining goddess Uṣas, with your homage (namas), a fine hymn of praise (suvṛkti). Madhudhā: she "holds" sweet words that have the character of praise; or madhu is Soma, and she bears it; or madhudhā is "nurse of Āditya"; or, since there is no avagraha, this is an indivisible word, a name of Uṣas, with no analysable parts. This Uṣas in the sky has taken upward-directed radiance (pājas); aśret means "resorts to". Likewise, radiant and lovely to see, Uṣas shines forth greatly. Or else rocanā means "the worlds", which she lights up with her own radiance. Sāyaṇa cites the mantra text व्युच्छंती हि रश्मिभिर्विश्वमाभासि रोचनं (*vyucchaṃtī hi raśmibhirviśvamābhāsi rocanaṃ*) (Ṛ. Saṃ. 1-49-4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः अच्छ (*vaḥ accha*)—turned towards you (O praisers)
+- विभातीं (*vibhātīṃ*)—shining
+- उषसं देवीं (*uṣasaṃ devīṃ*)—addressing the goddess Uṣas
+- वः (*vaḥ*)—your
+- नमसा (*namasā*)—accompanied by homage
+- सुवृक्तिं (*suvṛktiṃ*)—excellent praise
+- प्र भरध्वं (*pra bharadhvaṃ*)—compose and offer
+- मधुधा (*madhudhā*)—Uṣas, the repository of sweetness
+- दिवि (*divi*)—in the sky
+- ऊर्ध्वं (*ūrdhvaṃ*)—directed upward
+- पाजः (*pājaḥ*)—radiance (continued on the next page)
+
+##### भावार्थ (Bhāvārtha)
+
+(Given on p. 520.)
+
+##### English translation (H. H. Wilson)
+Offer, with your prostrations, due praise to the divine Ushas, shining upon you: the repository of sweetness manifests her brightness aloft in the sky, and, radiant and lovely, lights the regions.
+
+### Printed p. 520
+
+- तेजस्सन्नु (*tejassannu*) (radiance, completing पाजः (*pājaḥ*))
+- अश्रेत् (*aśret*)—has obtained
+- रोचना (*rocanā*)—radiant
+- रण्वसंदृक् (*raṇvasaṃdṛk*)—and of lovely appearance
+- प्र रुरुचे (*pra ruruce*)—shines forth exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, compose and offer your excellent praise, accompanied by homage, to the goddess Uṣas who shines turned towards you. Uṣas, the repository of sweetness, has obtained in the sky radiance directed upward. Radiant and of lovely appearance, she shines exceedingly.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुवृक्तिं (*suvṛktiṃ*)—it is explained as formed from the root वृंच् (*vṛṃc*). This nirvacana shows that the praise composed after being separated out and refined is what the word vṛkti denotes. Or सुप्रवृत्ता स्तुतिः (*supravṛttā stutiḥ*): it may also mean praise composed under a most excellent impulse of the mind.
+
+मधुधा (*madhudhā*)—two or three kinds of nirvacana are shown for this word: मधुराणि स्तुतिलक्षणानि वाक्यानि दधातीति (*madhurāṇi stutilakṣaṇāni vākyāni dadhātīti*); मधु सोमः (*madhu somaḥ*), तं धारयतीति वा (*taṃ dhārayatīti vā*); यद्वा (*yadvā*) मधुधा-आदित्यधात्री (*madhudhā-ādityadhātrī*); यद्वा (*yadvā*) the word is an indivisible name उषोनाम (*uṣonāma*) with no analysable parts because there is no avagraha. Sāyaṇa explains that the epithet madhudhā is fitting for Uṣas because she bears the sweet characteristics suited to praise; or because she bears Soma (madhu meaning Soma); or, if madhu is taken to mean Āditya, because she is his nurse; or because she is denoted by an indivisible word.
+
+रण्वसंदृक् (*raṇvasaṃdṛk*)—raṇva means "lovely" and sandṛk means "form"; the sense is "having a lovely form".
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ताव॑री दि॒वो अ॒र्कैर॑बो॒ध्या रे॒वती॒ रोद॑सी चि॒त्रम॑स्थात् ।  
+> आ॒य॒तीम॑ग्न उ॒षसं॑ विभा॒तीं वा॒ममे॑षि॒ द्रवि॑णं॒ भिक्ष॑माणः
+
+> *ṛtāvarī divo arkairabodhyā revatī rodasī citramasthāt |*  
+> *āyatīmagna uṣasaṃ vibhātīṃ vāmameṣi draviṇaṃ bhikṣamāṇaḥ*
+
+### Printed p. 521
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋत्यवरी। दिवः । अर्कैः । अबोधि । आ । रेवती । रोदसी इति । चित्रं । अस्मात् ।  
+> आयतीं । अग्ने । उषसं । विभातीं । वामं । एषि । द्रविणं । भिक्षमाणः ॥ ६ ॥
+
+> *ṛtyavarī| divaḥ | arkaiḥ | abodhi | ā | revatī | rodasī iti | citraṃ | asmāt |*  
+> *āyatīṃ | agne | uṣasaṃ | vibhātīṃ | vāmaṃ | eṣi | draviṇaṃ | bhikṣamāṇaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतावरी सत्यवती येयमुषा दिवो द्युलोकादर्कॆस्तेजोभिरबोधि
+> सर्वैर्ज्ञायते । ततो रेवती धनवती येयं रोदसी द्यावापृथिव्यौ चित्रं
+> नानाविधरूपयुक्तं यथा भवति तथास्थात् सर्वतो व्याप्य तिष्ठति हे अग्ने आयतीं
+> त्वदभिमुखमागच्छंतीं विभातीं भासमानामुषसमुषोदेवीं भिक्षमाणो हवींपि
+> याचमानस्त्वं नामं वननीयं द्रविणमग्नि होत्रादिलक्षणं धनमेषि । प्राप्नोषि ॥
+> अबोधि । बुध अवगमने । कर्मणि लुजि चिण् भावकर्मणोरिति चिण् । चिणो
+> लुक् । रेवती । रयिशब्दान्मतुप् । छंदसीर इति वत्वं । रयेर्मतौ बहुलमिति
+> संप्रसारणपरपूर्वत्वे । गुणः । उगितश्वेति जीप् । रेशब्दाच्चोपसंख्यानमिति
+> मतुप उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Ṛtāvarī is "possessed of truth": this Uṣas is known (abodhi) to all from the sky, the world of heaven, by her rays (arkaiḥ, "radiances"). Then she, possessed of wealth (revatī), stands pervading the two worlds, heaven and earth, in such a way that they are variously coloured (citram). O Agni, you who ask (bhikṣamāṇaḥ) for oblations from the shining goddess Uṣas as she comes towards you, obtain (eṣi) the desirable (vāmam) wealth (draviṇam) that consists of the agnihotra and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावरी (*ṛtāvarī*)—Uṣas, who is possessed of truth
+- दिवः (*divaḥ*)—from the world of heaven
+- आर्कॆः (*ārkèḥ*)—together with her radiances
+- अबोधि (*abodhi*)—is known by all
+- रेवती (*revatī*)—Uṣas, possessed of wealth
+- रोदसी (*rodasī*)—heaven and earth
+- चित्रं (*citraṃ*)—making them to be endowed with many kinds of forms
+- आ अस्थात् (*ā asthāt*)—stands pervading
+- अग्ने (*agne*)—O Agni
+- आयतीं (*āyatīṃ*)—coming towards you
+- विभातीं (*vibhātīṃ*)—and shining
+- उषसं (*uṣasaṃ*)—Uṣas
+- भिक्षमाणः (*bhikṣamāṇaḥ*)—you who ask for oblations
+- वामं (*vāmaṃ*)—attractive
+- द्रविणं (*draviṇaṃ*)—wealth that has the form of agnihotra and the like
+- एषि (*eṣi*)—you obtain
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, possessed of truth, is known to all from the world of heaven together with her radiances. Uṣas, possessed of wealth, stands pervading heaven and earth, making them endowed with many kinds of forms. O Agni, you who ask for oblations from the shining goddess Uṣas coming towards you obtain attractive wealth that has the form of agnihotra and the like.
+
+### Printed p. 522
+
+##### English translation (H. H. Wilson)
+The possessor of truth is recognized in the sky by her rays : the possessor of wealth has taken a marvellous station in earth and heaven : Agni, soliciting alms of the radiant advancing Ushas, obtain your desired treasure (of oblations).
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतावरी (*ṛtāvarī*)—सत्यवती (*satyavatī*). The word ṛta means "truth". Because Uṣas guards truth, the epithet ṛtāvarī belongs to her.
+
+अर्कैः (*arkaiḥ*)—तेजोभिः (*tejobhiḥ*), "by radiances". All radiant deities such as Agni are denoted by the word arka. For example, अग्निर्वा अर्कः (*agnirvā arkaḥ*) (Ai. Ā. 1-4-1), "Agni is Arka", and the like, is stated. Abundant radiance is also denoted by arka.
+
+चित्रं (*citraṃ*)—the word citra is used in many senses. In the Ṛk पशून्न चित्रा सुभगा प्रधाना (*paśūnna citrā subhagā pradhānā*) (1-92-12) too, the word citrā is an epithet of Uṣas. There two meanings are given, चायनीया (*cāyanīyā*) and पूजनीया (*pūjanīyā*). The sense "charming, attractive" is the more common in use. चित्रं महनीयं (*citraṃ mahanīyaṃ*), that is, "worthy of reverence", is also a meaning. In the present place, नानाविधरूपयुक्तं (*nānāvidharūpayuktaṃ*) means Uṣas, who has assumed many kinds of forms so as to be attractive.
+
+वामं (*vāmaṃ*)—वननीयं (*vananīyaṃ*), "desired by all". At अस्य वामस्य पलितुः (*asya vāmasya palituḥ*) (1-164-1) two kinds of meaning are given: first वननीयस्य (*vananīyasya*), one who is desired and served by all; second वामस्य विश्वस्य उद्धरितुः (*vāmasya viśvasya uddharituḥ*), one who has extended the world in the form of the universe. In the present place too both meanings can be given. Uṣas is desired by all, so she is to be sought after; moreover she is the one who, in her own manner, causes the world to be spread out. So here both meanings fit.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ बु॒द्ध उ॒षसा॑मिष॒ण्यन्वषा॑ म॒ही रोद॑सी॒ आ वि॑वेश ।  
+> म॒ही मि॒त्रस्य॒ वरु॑णस्य मा॒या चं॒द्रेव॑ भा॒नुं वि द॑धे  ॒
+> पुरुत्रा ॥ ७ ॥
+
+> *ṛtasya buddha uṣasāmiṣaṇyanvaṣā mahī rodasī ā viveśa |*  
+> *mahī mitrasya varuṇasya māyā caṃdreva bhānuṃ vi dadhe*  
+> *purutrā ‖ 7 ‖*
+
+### Printed p. 523
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । बुद्धे । उषसां । इषण्यन् । वृषा । मही इति । रोदसी इति । आ । विवेश ।  
+> मही । मित्रस्य । वरुणस्य । माया । चंद्राइव । भानुं । वि । दधे । पुरुत्का ॥७॥
+
+> *ṛtasya | buddhe | uṣasāṃ | iṣaṇyan | vṛṣā | mahī iti | rodasī iti | ā | viveśa |*  
+> *mahī | mitrasya | varuṇasya | māyā | caṃdrāiva | bhānuṃ | vi | dadhe | purutkā ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा वृष्टि द्वारा प्रेरक आदित्य ऋतस्याग्नि होत्रादिकर्मकरणे सत्यभूतस्याहो बुद्धे मूल उषसामिषण्यन् प्रेरणं कुर्वनृही महत्यौ रोदसी द्यावाप्रथिव्याना विवेश । स्वतेजोभिः सर्वतः प्रविष्टवान् । यद्वा । वृषा वर्षितेषण्यन्
+> सर्वतो गच्छन्नुषसां संबंधी रश्मिसमूहो रोदसी द्यावापृथिव्य विष्टवानिति
+> योजनीयं । तत उषा मही महती मित्रस्य वरुणस्य मित्रावरुणयोर्माया
+> प्रभारूपा सती चंद्रेव सुवर्णानीव भानुं स्वप्रभां पुरुत्रा बहुषु देशेषु वि
+> दधे । विदधाति । सर्वत्र प्रसारयति ॥ मही । अल्लोपश्रांदसः । पुरुत्रा । देवमनुष्येत्यादिनाधिकरणे त्राप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Vṛṣā is Āditya, who impels through rain. At the root (budhne) of ṛta, the day that is true in the performance of agnihotra and other rites, urging on the dawns (uṣasām iṣaṇyan), he has entered the two great worlds, heaven and earth, pervading them everywhere with his own rays. Or else: vṛṣā is the mass of Uṣas's rays, going in all directions, which has entered heaven and earth; this is how the construction is to be made. Then Uṣas, great, being as the radiance (māyā) of Mitra and Varuṇa, like gold (candreva means "like gold"), spreads out her own light (bhānum) in many places (purutrā); vidadhe means "spreads", extends everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—Āditya, the causer of rain
+- ऋतस्य (*ṛtasya*)—of the day that is true by nature
+- बुद्धे (*buddhe*)—at the root
+- उषसां (*uṣasāṃ*)—to the manifestation of the Uṣases
+- इषण्यन् (*iṣaṇyan*)—urging
+- मही (*mahī*)—great
+- रोदसी (*rodasī*)—heaven and earth
+- आ विवेश (*ā viveśa*)—has pervaded with his radiance (and Uṣas also)
+- मही (*mahī*)—she of great nature
+- मित्रस्य (*mitrasya*)—of Mitra
+- वरुणस्य (*varuṇasya*)—and of Varuṇa (of Mitra and Varuṇa)
+- माया (*māyā*)—being of the form of radiance
+- भानुं (*bhānuṃ*)—her own light
+- चंद्रेव (*caṃdreva*)—spreading it like golden lustre
+- पुरुत्रा (*purutrā*)—in many regions
+- विदधे (*vidadhe*)—has spread
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya, the causer of rain, at the root of the day that is true by nature, urging the manifestation of the Uṣases, has pervaded. Uṣas too, of great nature and being the radiance of Mitra and Varuṇa, spreads her light like golden lustre in many regions.
+
+##### English translation (H. H. Wilson)
+The showerer (of rain, the sun), urging on the dawn, at the root of the truthful (day has) pervaded the vast heaven and earth; the mighty Ushas, the golden light, as it were, of Mitra and Varuna, diffuses her lustre in different directions.
+
 ---
 
-**Progress note:** Done through printed p. 517. pp. 511-517 (batch API)
+**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
