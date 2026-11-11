@@ -18637,6 +18637,114 @@ The three principles prāṇa, apāna and vyāna are the third foot of Gāyatrī
 
 On this fourth (turīya) foot, described as parorajas and darśata, Gāyatrī is established. That is the world of truth. Therefore Gāyatrī is established on truth. The eye is truth. How? When one man says "I saw" and another says "I heard" and they dispute, the word of the one who saw carries greater authority.
 
+### Printed p. 598
+
+That truth rests on strength. Strength is the vital breath (prāṇa). Therefore those who know say that strength has more substance than truth. The senses of the body are the *gayas*. The breath guards these *gayas*, and for that reason the name is Gāyatrī. This Gāyatrī is itself present in the body in the form of the chief vital breath. It is also called Sāvitrī, the verse the teacher gives to the pupil as instruction. It guards the vital breaths of whoever receives this instruction.
+
+तां हैतमेके सावित्रिमनुष्टुभमन्वाहुः । वागनुष्टुप् । तद्वाचमनुब्रूम इति । न तथा कुर्यात् । गायत्रीमेव सावित्रिमनुब्रूयात् । यदि ह वा अप्येवंविद्बह्विव प्रतिगृह्णाति न हैव तद्दायत्रा एकंचन पदं प्रति । (*tāṃ haitameke sāvitrimanuṣṭubhamanvāhuḥ | vāganuṣṭup | tadvācamanubrūma iti | na tathā kuryāt | gāyatrīmeva sāvitrimanubrūyāt | yadi ha vā apyevaṃvidbahviva pratigṛhṇāti na haiva taddāyatrā ekaṃcana padaṃ prati |*) (Chā. U. 5-14-5)
+
+Speech (vāc) is in the form of the Anuṣṭubh, and speech is also of the form of the Gāyatrī. For this reason some teachers instruct the Sāvitrī in the form of the Anuṣṭubh. That is not right. Only the Sāvitrī in the form of the Gāyatrī should be taught. A man who knows this truth may accept a very abundant gift, and yet it does not equal even one foot of the Gāyatrī.
+
+स य इमांस्त्रीन्‌लोकान्पूर्णान् प्रतिगृह्णीयात्, सोऽस्या एतत्पथमं पदमाप्नुयात् । अथ यावतीयं त्रयी विद्या यस्तावत्पतिगृह्णीयात् सोऽस्याएतद्वितीयं पदमाप्नुयात् अथ यावदिदं प्राणि यस्तावत्पतिगृह्णीयात् सोऽस्या एतत्तृतीयं पदमाप्नुयात् अथास्या एतदेव तुरीयं दर्शतं पदं परोरजा य एष तपति । नैव केनच नाप्यं कुत उ एतावत्पतिगृह्णीयात् । (*sa ya imāṃstrīnlokānpūrṇān pratigṛhṇīyāt, so 'syā etatpathamaṃ padamāpnuyāt | atha yāvatīyaṃ trayī vidyā yastāvatpatigṛhṇīyāt so 'syāetadvitīyaṃ padamāpnuyāt atha yāvadidaṃ prāṇi yastāvatpatigṛhṇīyāt so 'syā etattṛtīyaṃ padamāpnuyāt athāsyā etadeva turīyaṃ darśataṃ padaṃ parorajā ya eṣa tapati | naiva kenaca nāpyaṃ kuta u etāvatpatigṛhṇīyāt |*) (Bhā. U. 5-19-6) **NOTE**
+
+One who accepts only these three worlds, full of wealth, obtains only the first foot of the Gāyatrī. One who accepts only the threefold Veda, the treasure of knowledge, obtains the second foot as well. One who accepts only the whole creation of living beings obtains the third foot as his reward. But no wealth in the world can equal the reward that falls to the man who has realised the fourth foot, the visible one, whose nature is "beyond the dust". Therefore the Gāyatrī is to be worshipped in this manner (Śaṅkara's commentary). The meaning is that the full form of the Gāyatrī is to be worshipped in the form of meditation.
+
+एवं हैवैवं विद्यद्यपि बह्विव पापं कुरुते सर्वमेव तत्संप्साय शुद्धः पूतोऽजरोऽमृतः संभवति । (*evaṃ haivaivaṃ vidyadyapi bahviva pāpaṃ kurute sarvameva tatsaṃpsāya śuddhaḥ pūto 'jaro 'mṛtaḥ saṃbhavati |*) (Bhā. U. 5-14-8) **NOTE**
+
+Even if one who knows the principle of the Gāyatrī in full should by chance commit sinful acts, he burns all of them and becomes pure, ageless and immortal. Because Agni is the mouth of the Gāyatrī
+
+### Printed p. 599
+
+तस्या अग्नीरेव मुखं (*tasyā agnīreva mukhaṃ*): the meaning is that one who knows the principle of the Gāyatrī in full obtains the power of Agni, who burns up sins. Thus the full nature of the Gāyatrī, both manifest and unmanifest, is explained in the above sentences of the Bṛhadāraṇyaka Upaniṣad. In the Chāndogya Upaniṣad too the all-pervading nature of the Gāyatrī is described in the sentences quoted below.
+
+15. How can a metre with a fixed group of syllables be of the form of the all-pervading Brahman?
+
+गायत्री वा इदं सर्वं भूतं यदिदं किंच वाग्वै गायत्री वाग्वा इदं सर्वं भूतं गायति त्रायते च । (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca vāgvai gāyatrī vāgvā idaṃ sarvaṃ bhūtaṃ gāyati trāyate ca |*) (Chā. U. 3-12-1)
+
+छंदोमात्रायाः सर्वभूतत्वमनुपपन्नं इति गायत्रीकारणं वाचं शब्दरूपमापादयति गायत्री वाग्वै गायत्रीति ॥ (*chaṃdomātrāyāḥ sarvabhūtatvamanupapannaṃ iti gāyatrīkāraṇaṃ vācaṃ śabdarūpamāpādayati gāyatrī vāgvai gāyatrīti ‖*) (Śa. Bhā.) **NOTE**
+
+In describing the all-pervading nature of the Gāyatrī, saying that all beings, sentient and insentient, are the Gāyatrī, the text foresees that a doubt may arise, and so it states the identity of speech with the Gāyatrī: वाग्वै गायत्रि (*vāgvai gāyatri*). A question arises here. The doubt is how a metre that is merely a collection of syllables can be all-pervading and be all beings. The answer is to declare that speech itself is the Gāyatrī. What then is the nature and power of speech? Its power is to illuminate the whole business of the universe completely and to be of the nature of the universe. Since the existence of the whole world is made manifest by it, and since the protection and carrying on of the whole world belong to speech, speech pervades the whole world and is identical with it. That this goddess of speech is called by the name Gāyatrī explains one aspect of the Gāyatrī. Moreover,
+
+या वै सा गायत्रीयं वाव सा येयं पृथिव्यस्यां हीदं सर्वं भूतं प्रतिष्ठितमेतामेव नातिशीयते । (*yā vai sā gāyatrīyaṃ vāva sā yeyaṃ pṛthivyasyāṃ hīdaṃ sarvaṃ bhūtaṃ pratiṣṭhitametāmeva nātiśīyate |*) (A. U. 3-17-2) (Chā. U. 3-12-2) **NOTE**
+
+Just as the Gāyatrī was called speech because it sings (gāyati) and protects the existence of all beings, so here the Gāyatrī is called the earth, since it has the nature and power of the earth. All beings rest on the earth and are established here. They do not cross this limit. Therefore the Gāyatrī and the earth are identical.
+
+### Printed p. 600
+
+16. Two ways of worshipping the Gāyatrī.
+
+Identity with the outer world.
+
+A man who worships may worship the Gāyatrī from two points of view. First, through meditation on the Gāyatrī he may know the whole outer world, earth, atmosphere and the rest, and understand that all of it is a particular manifestation of the Gāyatrī's glory. Or, from the spiritual point of view, he may know the particular principles within a man's body, and know that these too are manifestations of the Gāyatrī's glory. The sentences of the Upaniṣad describe this matter also.
+
+या वै सा पृथिवीयं वाव सा यदिदमस्मान्पुरुषे शरीरमस्मिन् हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते ॥ (*yā vai sā pṛthivīyaṃ vāva sā yadidamasmānpuruṣe śarīramasmin hīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte ‖*) (Chā. U. 3-12-3)
+
+The principle we call the earth is itself, in the form of the aggregate of effect and cause, the body of the man. Just as all beings are established on the earth, so all the chief vital breaths too are established in this body. Just as all beings stay in their fixed condition without passing beyond the earth, so these chief vital breaths too remain within their fixed limit without passing beyond the order of the body.
+
+यद्वै तत्पुरुषे शरीरमिदं वाव तद्यदिदमस्मिन्नंतः पुरुषे हृदयमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते ॥ (*yadvai tatpuruṣe śarīramidaṃ vāva tadyadidamasminnaṃtaḥ puruṣe hṛdayamasminhīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte ‖*) (Chā. U. 3-12-4)
+
+The bodily principle that we call the Gāyatrī is the lotus of the heart of the man. It is here that the principle of the chief vital breath is established. The principle of breath does not pass beyond this limit.
+
+सैषा चतुष्पदा पद्विधा गायत्री तदेतदृचाभ्यनूक्तं । (*saiṣā catuṣpadā padvidhā gāyatrī tadetadṛcābhyanūktaṃ |*)
+
+This Gāyatrī, which has four feet and is of six kinds, is described in the Ṛk-Saṃhitā in this way:
+
+### Printed p. 601
+
+एतानानस्य महिमातो ज्यायाश्च पूरुषः । पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ॥ (*etānānasya mahimāto jyāyāśca pūruṣaḥ | pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi ‖*) (Ṛ. Saṃ. 10-90-3) **NOTE**
+
+This is a description of the greatness of the Supreme Person. "Etāvān" means: all this universe, of the nature of the three times and having the forms of the sentient and the insentient, is the manifestation of this Supreme Person. But the Person's own greatness exceeds all this. The whole universe is only one quarter of this Person. All the remaining parts stay as radiance in his own indestructible, luminous, supra-natural nature.
+
+Description of identity with the inner spiritual principle.
+
+In this description the identity of the Supreme Person with the Gāyatrī is stated. Śrī Śaṅkarācārya explains this:
+
+तावानस्य गायत्राख्यस्य ब्रह्मणः समस्तस्य महिमा विभूतिविस्तारः ॥ (*tāvānasya gāyatrākhyasya brahmaṇaḥ samastasya mahimā vibhūtivistāraḥ ‖*)
+
+He says that the nature and the special glory of the Supreme Brahman, known as the Gāyatrī, are described by these sentences, and he explains the words *pāda* and *tripāt* as set out above.
+
+Although the Upaniṣadic sentences quoted above state the identity of the Gāyatrī with the Supreme Brahman, there are differences in some respects between what is described in the Bṛhadāraṇyaka Upaniṣad and what is praised in the Chāndogya. One must first note that difference; then examine which principles of the Supreme Reality the descriptions of the three feet, the fourth foot and so on convey; and, if the deity Savitṛ praised in the present mantra तत्सवितुर्वरेण्यं (*tatsaviturvareṇyaṃ*) is itself the Supreme Principle, how these epithets are used in the Saṃhitā and elsewhere.
+
+All beings, the threefold knowledge, the earth, the body, the heart and the chief vital breath are one foot of the Gāyatrī whose nature is the Supreme Reality, or of the Supreme Reality whose nature is the Gāyatrī. This foot is *mūrta*, that is, perceptible to ordinary worldly perception. According to the Chāndogya description, the other three feet also have an ageless, supra-natural form, situated in the atmosphere, as is said in त्रिपादूर्ध्वमुदैत् (*tripādūrdhvamudait*) (Ṛ. Saṃ. 10-90-3). The explanation of the Bṛhadāraṇyaka is somewhat different. The first three feet are of the nature of the three worlds, of the form of speech beginning with the Ṛk, and of the form of prāṇa, apāna and vyāna. These have a concrete (*mūrta*) form. The Bṛhadāraṇyaka description is that the fourth (turīya) foot lies beyond ordinary perception, is situated in the atmosphere and is contained within the sun
+
+### Printed p. 602
+
+. In these two explanations there is not much difference in principle. Therefore it cannot be said that one contradicts the other. In the present context one must examine how other Śruti passages describe the nature of the fourth foot of the Brahman whose nature is the Gāyatrī.
+
+17. The nature of the three feet and the fourth foot of the Gāyatrī.
+
+The meaning of the explanation "pādo 'sya viśvā bhūtāni".
+
+In the Māṇḍūkya-kārikā and in the other commentaries connected with it, the word *turīya* has a technical sense. In the description of the spiritual nature of the principle, when the states of a person such as waking are explained,
+
+सर्वग्न् हैतद्ब्रह्मायमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् । (*sarvagn haitadbrahmāyamātmā brahma so 'yamātmā catuṣpāt |*) (Mā. U. 2) **NOTE**
+
+After stating the identity of the Self with Brahman, the text declares the four states of the Brahman-substance consisting of four feet, or of the Self in the form of Brahman. This Self, who is both the Supreme Brahman and the lower Brahman, denoted by Oṃkāra, has four feet. Their nature is as follows:
+
+(1) जागरितस्थानो बहिष्प्रज्ञः (*jāgaritasthāno bahiṣprajñaḥ*): one whose place is the waking state and whose consciousness is directed outward.
+
+(2) स्वप्नस्थानोऽंतःप्रज्ञः (*svapnasthāno 'ṃtaḥprajñaḥ*): one whose place is the dream state, the inwardly conscious one.
+
+(3) सुषुप्तस्थान एकीभूतः (*suṣuptasthāna ekībhūtaḥ*): the knower (prājña) in the state of deep sleep, dense with knowledge, who sees not even a dream.
+
+(4) नांतःप्रज्ञं न बहिष्प्रज्ञं नोभयतः प्रज्ञं .... .... अदृष्टमव्यवहार्यं .... .... शांतं शिवमदैतं चतुर्थं मन्यंते स आत्मा स विज्ञेयः ॥ (*nāṃtaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥ prajñaṃ .... .... adṛṣṭamavyavahāryaṃ .... .... śāṃtaṃ śivamadaitaṃ caturthaṃ manyaṃte sa ātmā sa vijñeyaḥ ‖*)
+
+The Self who is neither inwardly conscious nor outwardly conscious, who does not fall within ordinary perception, who is peaceful, auspicious, the essence of the one Self-awareness, of non-dual nature, is the Turīya. The meaning is that he transcends the three feet commonly perceived by the world and has a fourth nature. The same Self is praised as एष त आत्मांतराम्यमृतोऽदृष्टो द्रष्टा (*eṣa ta ātmāṃtarāmyamṛto 'dṛṣṭo draṣṭā*)
+
+### Printed p. 603
+
+श्रुतः श्रोता (*śrutaḥ śrotā*) (Bṛ. U. 3-7-23): he is the witness of the whole world but is not visible to the world's sight; he hears everything but does not fall within the world's hearing; and so on. The Turīya state, described as having a fourth foot that transcends the three feet of the world, is well known in the world of philosophical systems (darśana). The same meaning must be stated here too, in describing the nature of the Supreme Brahman whose nature is the Gāyatrī. When describing a particular principle that is supra-natural and beyond the world, the word *turīya* is seen to be used in the same sense in the Ṛk-Saṃhitā too. For example:
+
+एष स्य भानुरुदियर्ति युज्यते रथः परिज्मा दिवो अस्य सानवि । पृक्षासो आस्मिन्मिथुना अधि त्रयो दृतिस्तुरीयो मधुनो वि रिष्यते ॥ (*eṣa sya bhānurudiyarti yujyate rathaḥ parijmā divo asya sānavi | pṛkṣāso āsminmithunā adhi trayo dṛtisturīyo madhuno vi riṣyate ‖*) (Ṛ. Saṃ. 4-45-1)
+
+This is a description of the course of the sun. It says that the three kinds of food, visible and well known on his chariot, shine, and also the fourth (turīya) food, supra-natural and sweeter than these (known as *madhu* in the Bṛhadāraṇyaka and other texts). Although this fourth food in the form of honey shines with its own radiance, it differs in principle from the first three foods. The meaning is that, just as the radiance of the golden Person within the sun has a splendour greater than the mere radiance of the sun, so the radiance of this food, of the nature of honey, is worthy of praise.
+
+स्वर्भानोरध यदिंद्र माया अवो दिवो वर्तमाना अवाहन् । गूह्लं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविंददत्रिः ॥ (*svarbhānoradha yadiṃdra māyā avo divo vartamānā avāhan | gūhlaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāviṃdadatriḥ ‖*) (Ṛ. Saṃ. 5-40-6)
+
+Here it is said that the sage Atri, by four kinds of mantras, destroyed four kinds of darkness and came to know the special powers covered by it. This is a description of the sun's radiance. That is, the sun's form is of one kind from the world's point of view. The radiance that falls on everyone's eye is common to the world. A radiance greater than that is not perceptible to ordinary sight. For it the help of the mantra and a special meditation prompted by it are necessary. In the same way, if the darkness is understood as the ignorance whose form is darkness, or as the darkness whose form is ignorance, then the meaning is clear that the divine radiance of the sun in the Turīya state can be known only through the power of the Turīya mantra. In the same way,
+
+चमूषच्छ्येनः शकुनो विभृत्वा गोविंदुर्द्रप्स आयुधानि बिभ्रत् । अपामूर्मिं सचमानः समुद्रं तुरीयं धाम महिषो विवक्ति ॥ (*camūṣacchyenaḥ śakuno vibhṛtvā goviṃdurdrapsa āyudhāni bibhrat | apāmūrmiṃ sacamānaḥ samudraṃ turīyaṃ dhāma mahiṣo vivakti ‖*) (Ṛ. Saṃ. 9-96-19)
+
 ---
 
-**Progress note:** Done through printed p. 597. pp. 592-597 (batch API)
+**Progress note:** Done through printed p. 603. pp. 598-603 (batch API)
