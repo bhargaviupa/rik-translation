@@ -2470,7 +2470,7 @@ Yāska says स्वरादित्यो भवति सु अरणः �
 > *vasyo accha ‖ 4 ‖*
 
 ### Printed p. 76
-#### Ṛk 4
+#### Ṛk 4 (continued)
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
