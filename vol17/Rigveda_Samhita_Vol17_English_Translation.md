@@ -13338,6 +13338,148 @@ Here the word is an epithet of Vaiśvānara Agni. The epithet धासिं (*
 
 Here this epithet is used to describe the growth of Indra. Indra is described as grown beyond heaven and earth. And since he is said to be grown beyond even the place that holds the sea, the greatness of Indra is understood. The word dhāsi means "that which holds". The place that holds the sea is utterly firm; the import is that Indra has grown beyond even that. In this manner the word is used in the sense of "holder".
 
+### Printed p. 382
+The word *dhāsi* also occurs in passages such as महीं मित्रस्य वरुणस्य धासिं पृथुज्रयसे रीरधा सुवृक्तिं । (*mahīṃ mitrasya varuṇasya dhāsiṃ pṛthujrayase rīradhā suvṛktiṃ |*) (Ṛ. Saṃ. 10-30-1). Although *dhāsi* means "food" in such places, food sustains life and strength, and for that reason "food" has *dhāsi* as a synonym. In the same way, in the present Ṛk the praise addressed to Indra and the others sustains the sacrificer's life, or gives him food. This is the purport.
+
+*Manīṣām*: this word is commonly used as a synonym of "praise". The Nirukta reads it among the names of the wise (*manīṣī*). Some places in Sāyaṇa's commentary say that the explanation of *manīṣā* as *manasa īṣā* is acceptable. It can mean a distinguished talent or a power of imagination. This power, filled with devotion and moved by feeling, ripens in praise that takes the form of poetry. That is why the word is used as a synonym of praise. Its full sense is contained in the word used in the mantra quoted below:
+
+मनीषिणः प्र भरध्वं मनीषां यथायथा मतयः संति नृणां । इंद्रं सत्यैरेरयामा कृतेभिः स हि वीरो गिर्वणस्युर्विदानः ॥ (*manīṣiṇaḥ pra bharadhvaṃ manīṣāṃ yathāyathā matayaḥ saṃti nṛṇāṃ | iṃdraṃ satyairerayāmā kṛtebhiḥ sa hi vīro girvaṇasyurvidānaḥ ‖*) (Ṛ. Saṃ. 10-111-1).
+
+Here it says that the wise should compose a *manīṣā* addressed to Indra, and there is a coherence in this. According to whatever intellectual power and whatever capacity of imagination the human sacrificers have, they should compose their praise. The first word *manīṣiṇaḥ* means poets with such capacity; the second word *manīṣām* means the work of such poets, inspired by feeling. A work composed in address to the deities is known as praise. Thus:
+
+पतंगो वाचं मनसा बिभर्ति तां गंधर्वोऽवदद्गर्भे अंतः । तां द्योतमानां स्वर्यं मनीषामृतस्य पदे कवयो निपांति ॥ (*pataṃgo vācaṃ manasā bibharti tāṃ gaṃdharvo 'vadadgarbhe aṃtaḥ | tāṃ dyotamānāṃ svaryaṃ manīṣāmṛtasya pade kavayo nipāṃti ‖*) (Ṛ. Saṃ. 10-77-2).
+
+Here the word *manīṣām* has a very deep meaning. It is not merely mental talent. The principle of speech is indicated here: that which lies within the sun, which has the form of the three Vedas, which is of the nature of the Word-Brahman. *Manīṣām* is explained as मनसः ईशित्रिं (*manasaḥ īśitriṃ*). That is, the meaning may be given as that which has an independent movement of mind, free of dependence on another, and so on. In passages such as मनीषिणो मनसा पृच्छत (*manīṣiṇo manasā pṛcchata*) (10-85-4), "let the wise examine with inner vision", the word
+
+### Printed p. 383
+*manīṣi* does not mean a principle grasped by the intellect alone, but the power of mind able to realise the supreme truth by inner vision. This power is inspired by a feeling of the nature of *samādhi*. A mere intellectual power without *samādhi* cannot grasp this truth.
+
+कामस्तदग्रे समवर्तताधि मनसो रेतः प्रथमं यदासीत् । सतो बंधुमसति निरविंदन् हृदि प्रतीष्या कवयो मनीषा ॥ (*kāmastadagre samavartatādhi manaso retaḥ prathamaṃ yadāsīt | sato baṃdhumasati niraviṃdan hṛdi pratīṣyā kavayo manīṣā ‖*) (Ṛ. Saṃ. 10-129-4).
+
+In such mantras too, the word *manīṣā* indicates the power of the self able to grasp the laws of the world, such as the creation by the Lord. हृदि निरुद्दया बुद्ध्या (*hṛdi niruddayā buddhyā*): this world-principle can be reached only by the intellect concentrated in the heart in the form of *samādhi*. This is the purport. In the same way, in the contexts that give this word the meaning "praise", it must be understood as praise capable of knowing the principle of the Lord. Since this praise bestows every prosperity, its nature is described by धासेः दुदुहे (*dhāseḥ duduhe*): praise able to draw forth the wealth of food. The prayer is that Indra and the others may take note of our praise, so excellent and so able to know the supreme truth.
+
+कस्ते मद इंद्र रंत्यो भूद्दुरो गिरो अभ्यु १ ग्रो वि धाव । कद्वाहो अर्वागुप मा मनीषा आ त्वा शक्यामुपमं राधो अन्नैः ॥ (*kaste mada iṃdra raṃtyo bhūdduro giro abhyu 1 gro vi dhāva | kadvāho arvāgupa mā manīṣā ā tvā śakyāmupamaṃ rādho annaiḥ ‖*) (Ṛ. Saṃ. 10-29-3).
+
+In this Ṛk also Sāyaṇa has said that the same view is indicated. He explains मनीषा सर्वार्थदर्शिनी प्रज्ञा, सर्वगुणग्राहिणी स्तुतिर्वा (*manīṣā sarvārthadarśinī prajñā, sarvaguṇagrāhiṇī stutirvā*) as a supernatural insight that shows the secret of all things, or praise that grasps all qualities.
+
+This *manīṣā* is compared to a cow without a herdsman. The epithet *agopām* allows two meanings. First, "without rule", that is, independent. Independence here does not mean unrestrained. As the *Kāvyaprakāśa* describes the poet's independence, नियतिकृतिनियमरहितां ह्लादैकमयीमनस्य परतंत्रां (*niyatikṛtiniyamarahitāṃ hlādaikamayīmanasya parataṃtrāṃ*), one meaning is that the poet's talent that makes this praise is not bound by external rules; it is praise full of independent feeling and of the nature of *samādhi*. Or else, because of the epithet *agopām*, the need for protection may be shown. Just as a cow without a herdsman needs protection, the praises at hand also need the grace of the Lord. This is the purport. However much milk a cow without a herdsman may be able to give,
+
+### Printed p. 384
+that ability is wasted; in the same way any power of a man who has not won the Lord's grace is useless. Another purport may therefore be given: that Indra and Agni should know the distinction of this praise and show favour.
+
+*Prayutām*: just as two meanings can be given to the epithet *agopām*, the same is possible with the epithet *prayutām*. The root *yu* is used in both senses, "mixed" and "unmixed". *Prayuta* may mean "joined together", or "not joined to anything, solitary".
+
+गावो यवं प्रयुता अर्यो अक्षन् ता अपश्यं सहगोपाश्चरंतीः । हवा इदर्यो अभितः समायन्कियदासु स्वपतिष्छंदयाते ॥ (*gāvo yavaṃ prayutā aryo akṣan tā apaśyaṃ sahagopāścaraṃtīḥ | havā idaryo abhitaḥ samāyankiyadāsu svapatiṣchaṃdayāte ‖*) (Ṛ. Saṃ. 10-27-8).
+
+Here the scene of cows gathered together is described. For *prayutāḥ* the gloss is प्रकर्षण मिश्रिताः परस्परेण सह भूताः । (*prakarṣaṇa miśritāḥ paraspareṇa saha bhūtāḥ |*); the purport is that they have mingled with one another and are all crowded together. But in the present Ṛk this word stands together with the epithet *agopām*, so the purport is that the cow is solitary, not mixed with other cows, without a protector, and seeking the protection of the gods.
+
+*Panitāraḥ*: this word is formed from the root *pan*, "to praise". The Nirukta authors read *panasyati* and *panāyate* among the names of the act of honouring. The word is used in the senses "worship", "extol", "show devotion". For example:
+
+रथे तिष्ठन्नयति वाजिनः पुरो यत्रयत्र कामयते सुषारथिः । अभीशूनां महिमानं पनायत मनः पश्चादनु यच्छंति रश्मयः ॥ (*rathe tiṣṭhannayati vājinaḥ puro yatrayatra kāmayate suṣārathiḥ | abhīśūnāṃ mahimānaṃ panāyata manaḥ paścādanu yacchaṃti raśmayaḥ ‖*) (Ṛ. Saṃ. 6-75-6).
+
+Citing this Ṛk, they explain the context: the reins tied to the chariot, which hold the horses, are praised as most excellent, and then it is said, "O people, honour such reins." The Nirukta authors explain: हे जनाः अभीशूनां महिमानं पूजयत (*he janāḥ abhīśūnāṃ mahimānaṃ pūjayata*); the purport is "O men, worship these *abhīśu* (rein or rope)" (Ni. 9-6).
+
+यदेव पनाय्क्यं कर्म तदेतदभिवदति । (*yadeva panāykyaṃ karma tadetadabhivadati |*) (Ai. Brā. 6-15). This sentence of the Aitareya Brāhmaṇa is explained as: the mantra recites that very act of Soma-drinking which is worthy of honour.
+
+### Printed p. 385
+प्रवो धियो मंद्रयुवो विपन्युवः पनस्युवः संवसनेष्वक्रमुः । (*pravo dhiyo maṃdrayuvo vipanyuvaḥ panasyuvaḥ saṃvasaneṣvakramuḥ |*) (Ṛ. Saṃ. 9-86-17).
+
+The use of the word here shows its exact meaning. The two words *vipanyuvaḥ* and *panasyuvaḥ* are used together, and both are formed from the root *pan*. *Panasyuvaḥ* is explained as those who desire praise, and *vipanyuvaḥ* as praisers. In the present Ṛk, although *panitāraḥ* means praisers, one must note the special point here. This is not a scene of man praising and worshipping the gods; it is a scene of Indra and the others applauding man's praise. Hence *panitāraḥ* here means those who applaud, those who commend. This is the purport.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ सु पू॒षा वृष॑णा सु॒हस्ता॑ दि॒वो न प्री॒ताः श॑श॒यं  ॑
+> दु॑दुह्रे ।  
+> विश्वे॒ यद॑स्यां र॒णयं॑त दे॒वाः प्र वोऽत्र॑ वसवः सु॒म्नम॑श्यां ॥ २ ॥
+
+> *iṃdraḥ su pūṣā vṛṣaṇā suhastā divo na prītāḥ śaśayaṃ*  
+> *duduhre |*  
+> *viśve yadasyāṃ raṇayaṃta devāḥ pra vo 'tra vasavaḥ sumnamaśyāṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सु । पूषा । वृषणा । सुहस्ता । दिवः । न । प्रीताः । शशयं । दुदुह्रे ।  
+> विश्वे । यत् । अस्यां । रणयंत । देवाः । प्र । वः । अत्र । वसवः । सुम्नं अश्यां॥२॥
+
+> *iṃdraḥ | su | pūṣā | vṛṣaṇā | suhastā | divaḥ | na | prītāḥ | śaśayaṃ | duduhre |*  
+> *viśve | yat | asyāṃ | raṇayaṃta | devāḥ | pra | vaḥ | atra | vasavaḥ | sumnaṃ aśyāṃ‖2‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसवः सर्वस्य वासयितारो हे देवा इंद्रः पूषा च वृषणाभिमतफलस्य
+> सेक्तारौ सुहस्ता कल्याणपाणी नासत्यौ मित्रावरुणौ वा । राजाना मित्रावरुणा
+> सुपाणी इत्यादिषु दृष्टत्वात् । एते सर्वे देवाः । नेति संप्रत्यर्थे । इदानीं
+> प्रीताः संतः शशयं नभसि शयानं मेघं दिवो नभसः सकाशात्सु दुदुहे । वृष्टिद्वारापेक्षितं फलं सुष्टु दुहंति । यद्यस्माद्विश्वे सर्वे देवा अस्यां वेद्यां
+> रणयंत रमयंते वो युष्माकं संबंधिन्यत्रलोके सुम्मं सुखकरमपेक्षितं
+> फलं प्राश्यां । प्राप्णुयां ॥ सुहस्ता । हसेरसिहसीत्यादिना तन्नृत्ययः । नित्तादा-
+> Vol. 17
+
+##### Gist of the bhāṣya
+
+"O Vasus, causers of dwelling for all, O gods! Indra and Pūṣan are *vṛṣaṇā*, showerers of the desired fruit, and *suhastā*, fair-handed: either the Nāsatyas or Mitra and Varuṇa, since the epithet is seen in passages such as राजाना मित्रावरुणा सुपाणी (*rājānā mitrāvaruṇā supāṇī*). All these are the gods. *Na* is in the sense of "now". Being pleased now, they have well milked the cloud lying in the sky, *śaśayam*, from heaven, from the sky; that is, they well draw out the fruit needed by way of rain. Since all the gods delight on this altar, may I here, in this world belonging to you, fully obtain the desired fruit that brings happiness." He then begins the grammar: the formation of *suhastā*, with its affix and its accent.**NOTE**
+
+### Printed p. 386
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युदात्तः । बहुव्रीहावाद्युदात्तं द्व्यच्छंदसीत्युत्तरपदाद्युदात्तत्वं । दुदुहे ।
+> दुह प्रपूरण इत्यस्य लिटीरयो रे । रणयंत । रमु क्रीडायां । ण्यंतस्य लजं
+> रूपं । वर्णव्यापत्तिः । अश्यां । अशू व्याप्तावित्यस्य लिजि बहुलं छंदसीति विकरणस्य
+> लुक् । व्यत्ययेन परस्मैपदं ॥
+
+##### Gist of the bhāṣya
+
+This part is only grammatical: the accent of *suhastā* (initial acute of the compound by the rule on compounds), the form *dudūhe* from the root *duh*, *raṇayanta* from the root *ramu* in the sense of play with the causative, and *aśyām* from the root *aśū* in the sense of pervading, with elision of the stem-vowel and a change of voice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—O Vasus, givers of dwelling
+- इंद्रः (*iṃdraḥ*)—Indra
+- पूषा (*pūṣā*)—the god Pūṣan
+- वृषणा (*vṛṣaṇā*)—givers of what is desired
+- सुहस्ता (*suhastā*)—Mitra and Varuṇa, possessed of excellent hands (or the Aśvin deities also)
+- न (*na*)—now
+- प्रीताः (*prītāḥ*)—being satisfied
+- शशयं (*śaśayaṃ*)—the cloud abiding in the sky
+- दिवः (*divaḥ*)—from the sky
+- सु दुदुहे (*su duduhe*)—have milked, for the sake of rain
+- यत् (*yat*)—for that very reason
+- विश्वे देवाः (*viśve devāḥ*)—all the gods also
+- अस्यां (*asyāṃ*)—on this sacrificial altar
+- रणयंत (*raṇayaṃta*)—are delighting
+- वः (*vaḥ*)—belonging to you
+- अत्र (*atra*)—in this place
+- सुम्मं (*summaṃ*)—the fruit that brings happiness
+- प्र अश्यां (*pra aśyāṃ*)—may I obtain fully
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the givers of dwelling, the god Pūṣan, and Mitra and Varuṇa, givers of what is desired and possessed of excellent hands, being satisfied now, have milked the cloud abiding in the sky from the sky for the sake of rain. For that very reason all the gods too are delighting on this sacrificial altar. May I obtain the fruit that brings happiness in this sacrificial place that belongs to you.
+
+##### English translation (H. H. Wilson)
+Indra and Pushan, the showerers (of benefits), and the happy-handed Ashwins, well affected towards us, have milked the (cloud) reposing in heaven ; wherefore, Vasus, universal deities, sporting on this (altar), may I here obtain the happiness derived from you.
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra is recited addressed to the deities who accomplish the sacrifice and, by causing rain, support it. At the beginning stands the praise of deities such as the Vasus, Indra and Pūṣan. The deities named Vasu are addressed with वसवः— सर्वस्य वासयितारः हे देवाः (*vasavaḥ— sarvasya vāsayitāraḥ he devāḥ*). Commonly this word may be an epithet of other deities too. All the deities who bestow grace on man's dwelling may be denoted by the word *vasu*. But from Sāyaṇa's explanation it is understood that in the present Ṛk a separate group of deities with the name Vasu is indicated
+
+### Printed p. 387
+. Who are these Vasus? What is their nature? Why do they have this name? For these questions one must look at Yājñavalkya's answer.
+
+अथ हैनं विदग्धः शाकल्यः पप्रच्छ । कति देवा याज्ञवल्केति । .... .... ....त्रयस्त्रिंशत्त्वेव देवा इति । कतमे ते त्रयस्त्रिंशदिति । अष्टौ वसवः, एकादशरुद्राः, द्वादशादित्याः, ते एकत्रिंशत् । इंद्रश्चैव प्रजापतिश्च. (*atha hainaṃ vidagdhaḥ śākalyaḥ papraccha | kati devā yājñavalketi | .... .... ....trayastriṃśattveva devā iti | katame te trayastriṃśaditi | aṣṭau vasavaḥ, ekādaśarudrāḥ, dvādaśādityāḥ, te ekatriṃśat | iṃdraścaiva prajāpatiśca.*) (Bṛ. U. 3-9-1-2).
+
+Vidagdha, son of Śakala, asked Yājñavalkya: "How many gods are there?" When Yājñavalkya said "thirty-three", he asked again, "Who are they?" In reply Yājñavalkya explained the number of the gods: "Eight Vasus, eleven Rudras, twelve Ādityas: these make thirty-one gods. Together with Indra and Prajāpati they become thirty-three." As to who these Vasus are:
+
+अग्निश्च पृथिवी च वायुश्चांतरिक्षं चादित्यश्च द्यौश्च चंद्रमाश्च नक्षत्राणि चैते वसवः । एतेषु हीदं सर्वं हितमिति तस्माद्वसव इति ॥ (*agniśca pṛthivī ca vāyuścāṃtarikṣaṃ cādityaśca dyauśca caṃdramāśca nakṣatrāṇi caite vasavaḥ | eteṣu hīdaṃ sarvaṃ hitamiti tasmādvasava iti ‖*) (Bṛ. U. 3-9-3).
+
+Agni, the earth, the wind, the atmosphere, the sun, the sky, the moon, the stars: these are the Vasus. Because all beings are placed in them, they are famed by the name Vasus. The explanation of Śaṅkara's commentary is: प्राणिनां कर्मफलाश्रयत्वेन कार्यकारणसंघातरूपेण तन्नि वासत्वेन च विपरिणमंतः जगदिदं सर्वं वासयंति च (*prāṇināṃ karmaphalāśrayatvena kāryakāraṇasaṃghātarūpeṇa tanni vāsatvena ca vipariṇamaṃtaḥ jagadidaṃ sarvaṃ vāsayaṃti ca*). According to the fruit of the actions of living beings they bring about changes in their bodies and limbs, enter into them themselves, provide the conveniences for all of them to dwell, and themselves dwell in all of them; hence the name Vasus.
+
+स मनसा वाचं मिथुनग्ं समभवत् । सोऽष्टौ द्रप्सान्गर्भ्यभवत्तेऽष्टौ वसवोऽसृज्यंत तानस्यामुपादधात् । (*sa manasā vācaṃ mithunagṃ samabhavat | so 'ṣṭau drapsāngarbhyabhavatte 'ṣṭau vasavo 'sṛjyaṃta tānasyāmupādadhāt |*) (Śa. Brā. 6-1-2-6).
+
+Prajāpati united with Speech by mental meditation. Then eight *drapsas* issued forth. They became the eight Vasus. He placed them on the earth. For that reason they are the deities residing on the earth; the Rudras were established in the atmosphere, and the Ādityas in the heavenly world. Since the Vasus are described as the presiding deities of the earth, what is the meaning of the many places where the Vasus are described as dwelling in the atmosphere, as in हग्ंसश्युचिषद्वसुरंतरिक्षसत् (*hagṃsaśyuciṣadvasuraṃtarikṣasat*)? This will be examined further on.
+
 ---
 
-**Progress note:** Done through printed p. 381. pp. 376-381 (batch API)
+**Progress note:** Done through printed p. 387. pp. 382-387 (batch API)
