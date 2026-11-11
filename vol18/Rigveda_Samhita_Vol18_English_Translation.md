@@ -739,6 +739,216 @@ O Indra, you make the earth (अवनिं (*avaniṃ*)), great (महीं 
 
 O Indra, with the purpose of being favourable to the king named Turviti and the king named Vayya, you have made the earth, which is great, satisfying to the whole world, and yields the desired object, rejoice, filled with food and with flowing water. You have made the rivers full of water easy to cross.
 
+### Printed p. 19
+
+*English Translation.*
+
+You have made the vast, all-cherishing, and exuberant earth, delighted with (abundant) food, and tremulous water, for (the sake of) Turviti and Vayya: you have made the rivers easy to be crossed.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk says that Indra helped Turviti and Vayya. The two names Turviti and Vayya are usually used together, but in some places the name of Turviti alone occurs. Western scholars such as Ludwig hold that Turviti was a king of the peoples called Turvaśa and Yadu. But no adequate support for this is found. Probably he was a chief belonging to the Turvaśa people. In the Ṛgveda his name is recited in the present Ṛk and also in these Ṛks:
+अरमयस्सरपसस्तराय कं तुर्वीतये च वय्याय च । (*aramayassarapasastarāya kaṃ turvītaye ca vayyāya ca |*) (Ṛ. Saṃ. 2-13-12)
+त्वमाविध नर्यं तुर्वशं यदुं त्वं तुर्वितिं वय्यं शतक्रतो । (*tvamāvidha naryaṃ turvaśaṃ yaduṃ tvaṃ turvitiṃ vayyaṃ śatakrato |*) (Ṛ. Saṃ. 1-54-6)
+In these Ṛks it is described that Indra helped them to cross the river. Besides, the name of Turviti occurs in the Ṛgveda in the Ṛks Ṛ. Saṃ. 1-36-18; 1-61-11; 1-112-23, and the name of Vayya is also recited.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राग्रुवो॑ नभ॒न्वो॒३॒॑ ३ न वक्वा॑ ध्व॒स्रा अ॑पिन्वद्युन॒तीर्यु॑त॒ज्ञाः ।  
+> धन्वा॒न्यज्रा॑ अप्पणक्तृषा॒णा अधो॒गिंद्रः॑ स्त्॒रयो॒३॒॑ ३ दंसु॑पत्नीः ॥ ७ ॥
+
+> *prāgruvo nabhanvo 3 na vakvā dhvasrā apinvadyunatīryutajñāḥ |*  
+> *dhanvānyajrā appaṇaktṛṣāṇā adhogiṃdraḥ strayo 3 daṃsupatnīḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अग्रुवः । नभन्वः । न । वक्वाः । ध्वस्राः । अपिन्वत् । युवतीः । ऋतज्ञाः ।  
+> धन्यानि । अज्रान् । अप्पणक् । तृषाणान् । अधोक् । इंद्रः । स्त्यर्यः । दंसुपत्नीः ॥
+
+> *pra | agruvaḥ | nabhanvaḥ | na | vakvāḥ | dhvasrāḥ | apinvat | yuvatīḥ | ṛtajñāḥ |*  
+> *dhanyāni | ajrān | appaṇak | tṛṣāṇān | adhok | iṃdraḥ | styaryaḥ | daṃsupatnīḥ ‖*
+
+### Printed p. 20
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो नभन्वः शत्रूणां हिंसिका वक्वा न सेना इव ध्वस्राः कॊलानां ध्वंसिका
+> युवतीरद्भिर्मिश्रिता ऋतज्ञा ऋतस्यान्नस्य जनयित्रीरग्रुवः । आग्रुव इति नदीनामैतत् । अग्रगामिनीर्नदीः प्रापिन्वत् । प्रकर्षेणापूरयत् । तथा धन्वानि निर्जलानुन्नतान्देशांश्च वृष्ट्यापृणक् । अपूरयत् । तथाज्रान्मार्गस्य गंत्यन् तृषाणान्
+> पिपासया युक्तान् पुरुषानपृणक् । अपूरयत् । किंच इंद्रो दंसुपत्निः ।
+> दमनपरा असुराः सुष्टु पतयो यासां ताः स्तर्यः स्तरीर्निवृत्तप्रसवा गा
+> अधोक् । अधुक्षत् । इंद्रो राक्षसकृतनिरोधदुःखान्निरुद्धप्रसवा आपि गा विमुच्य
+> सप्रसवाश्च कारेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra, नभन्वः (*nabhanvaḥ*), destroyer of enemies, like armies (वक्वा (*vakvā*)) ध्वस्राः (*dhvasrāḥ*), destroyers of the banks, युवतीः (*yuvatīḥ*), mixed with waters, ऋतज्ञाः (*ṛtajñāḥ*), producers of ṛta, that is, food, अग्रुवः (*agruvaḥ*) — "āgruvaḥ" is a name of rivers — filled to the full the rivers that go forward. Likewise he filled with rain the धन्वानि (*dhanvāni*), waterless and elevated regions. Likewise he filled the अज्रान् (*ajrān*), travellers on the road, and the तृषाणान् (*tṛṣāṇān*), men afflicted with thirst. Moreover Indra is दंसुपत्निः (*daṃsupatniḥ*): the Asuras bent on subduing are the good lords of those cows; the स्तर्यः (*staryaḥ*) are barren cows whose bearing has ceased. Indra milked them. Having released cows whose bearing had been stopped by the suffering of confinement imposed by the Rākṣasas, he made them bear again.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्रनु (*iṃdranu*))—(Indra)
+- नभन्वः (*nabhanvaḥ*)—destroyers of enemies
+- वक्वाः न (*vakvāḥ na*)—like armies
+- ध्वस्राः (*dhvasrāḥ*)—those that destroy the banks
+- युवतीः (*yuvatīḥ*)—those full of waters
+- ऋतज्ञाः (*ṛtajñāḥ*)—those that produce food
+- अग्रुवः (*agruvaḥ*)—the rivers
+- प्र अपिन्वत् (*pra apinvat*)—filled with waters
+- ध्वनानि (*dhvanāni*)—also the lands that were a desert for want of rain
+- अप्पणक् (*appaṇak*)—filled with water and made fertile
+- अज्रान् (*ajrān*)—the travellers on the road
+- तृषाणान् (*tṛṣāṇān*)—those exhausted by thirst (he satisfied with water)
+- इंद्रः (*iṃdraḥ*)—Indra
+- दंसुपत्नीः (*daṃsupatnīḥ*)—those that had fallen under the lordship of the Asuras
+- स्तर्यः (*staryaḥ*)—those cows that were barren
+- अधोक् (*adhok*)—(made them give milk)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra filled with waters the rivers which, like armies destructive of enemies, destroy their banks, are full of water, and produce food. He made the lands that were a desert for want of rain fertile by filling them with water. He satisfied with water those wearied by travelling and those wearied by thirst. He made the barren cows, which had fallen under the lordship of the Asuras, give milk.
+
+##### English translation (H. H. Wilson)
+*English Translation.*
+Indra has filled the youthful rivers, the parents of plenty, the corroders (of their banks), like armies destructive (of their foes), he has inundated the dry lands, and (satisfied) the thirsty travellers : he has milked the barren cows whom the Asuras had become the lords of.
+
+### Printed p. 21
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk some benefactions done by Indra for the world are described. The rivers, with their waters, help the people of the world in agriculture and the like, and supply them with food. If there is no water in these rivers, or very little, they cannot do this work. Therefore Indra filled these rivers with water by rainwater and made them flow in full current. By pouring rain on the earth he made the land that had been a desert fertile. And to wayfarers travelling on the roads he supplied water from the rain, so that their thirst was quenched. Besides, the cows (which, confined among the Asuras called Paṇis, had no proper food and so were emaciated and barren, giving no milk) he satisfied with abundance of grass and made them give milk. That Indra did all these benefactions to the world — thus the excess of Indra's kindness is described here.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्विरु॒षसः॑ श॒रद॑श्च गू॒र्ता वृ॒त्रं ज॑घ॒न्वा अ॑सृज॒द्वि सिंधू॑न् ।  
+> परि॑ष्ठिता अतृणद्बद्धा॒नाः सी॒रा इंद्रः॒ स्रवि॑तवे पृथि॒व्या ॥ ८ ॥
+
+> *pūrviruṣasaḥ śaradaśca gūrtā vṛtraṃ jaghanvā asṛjadvi siṃdhūn |*  
+> *pariṣṭhitā atṛṇadbaddhānāḥ sīrā iṃdraḥ sravitave pṛthivyā ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्विः । उषसः । शरदः । च । गूर्ताः । वृत्रं । जघन्वान् । असृजत् । वि । सिंधून् ।  
+> परिस्थिताः । अतृणत् । बद्धधानाः । सीराः । इंद्रः । स्रवितवे । पृथिव्या ॥ ८ ॥
+
+> *pūrviḥ | uṣasaḥ | śaradaḥ | ca | gūrtāḥ | vṛtraṃ | jaghanvān | asṛjat | vi | siṃdhūn |*  
+> *paristhitāḥ | atṛṇat | baddhadhānāḥ | sīrāḥ | iṃdraḥ | sravitave | pṛthivyā ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रं वृत्राख्यमसुरं जघन्वान्हतवानिंद्रो गूर्तास्तमिस्प्रया गीर्णाः
+> पूर्विर्बहीरुषसः शरदश्च संवत्सरांश्च व्यसृजत् । विशेषेण ससर्ज । तथा सिंधून्
+> वृत्रेणावृतान्न्युदकानि व्यसृजत् । किंच इंद्रः परिष्ठिता मेघेषु परितः स्थिता
+> बद्धधाना वृत्रेण परितो बध्यमानाः सीरा नदीः । सीरा इति नदीनामैतत् । पृथिव्या
+> पृथिवीरूपेण मार्गेण प्रवितवे स्रवितुं गमनार्थमतृणत् । अविध्यत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, having slain the asura named Vṛtra, released many dawns and autumns, that is, years, which had been गूर्ताः (*gūrtāḥ*), swallowed by darkness (तमिस्प्रया गीर्णाः (*tamisprayā gīrṇāḥ*)); he created them specially. Likewise he released the rivers enclosed by Vṛtra, that is, the waters. Moreover Indra pierced the सीरा (*sīrā*), the rivers, which stood about in the clouds, bound on all sides by Vṛtra — "sīrāḥ" is a name of rivers — so that they might flow by the path of the earth.
+
+### Printed p. 22
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- जघन्वान् (*jaghanvān*)—Indra who killed
+- गूर्ताः (*gūrtāḥ*)—covered by darkness
+- पूर्वीः (*pūrvīḥ*)—numerous
+- उषसः (*uṣasaḥ*)—the dawns
+- शरदश्च (*śaradaśca*)—and the years
+- वि असृजत् (*vi asṛjat*)—released (from the darkness) and made them shine
+- सिंधून् (*siṃdhūn*)—released the rivers and made them flow
+- इंद्रः (*iṃdraḥ*)—Indra
+- परिष्ठिताः (*pariṣṭhitāḥ*)—those caught and standing among the clouds
+- बद्धधानाः (*baddhadhānāḥ*)—by the waters that were bound all around
+- सीराः (*sīrāḥ*)—the rivers
+- पृथिव्या (*pṛthivyā*)—by the earth's path
+- स्रवितवे (*sravitave*)—so as to be favourable for flowing
+- अतृणत् (*atṛṇat*)—released and made them flow
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who slew Vṛtra, released the many dawns and years that were covered by darkness, and made them shine. By the rain-waters which stood caught among the clouds and were bound all around, he released the rivers and made them flow, so that they could run by the path of the earth.
+
+##### English translation (H. H. Wilson)
+*English Translation.*
+Having slain Vritra, he has liberated many mornings and years (that had been) swallowed up by darkness, and has set the rivers free : Indra has released the imprisoned rivers, encompassed (by the cloud), to flow upon the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that Indra, having killed the Asura Vṛtra, made the clouds that he had obstructed pour rain, and by those waters made the rivers flow full over the earth. He made shine the dawn-times that were enveloped in the darkness of night. He created the divisions of time such as the year.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒म्राभिः॑ पु॒त्रम॒ग्रुवो॑ अदा॒नं नि॒वेश॑नाद्धरिव॒ आ ज॑भर्थ ।  
+> व्य१॒ं॑नो अ॑ख्य॒दहि॑माददा॒नो निर्भू॑दुख॒च्छित्सम॑रंत॒ पर्व॑ ॥
+
+> *vamrābhiḥ putramagruvo adānaṃ niveśanāddhariva ā jabhartha |*  
+> *vyaṃno akhyadahimādadāno nirbhūdukhacchitsamaraṃta parva ‖*
+
+### Printed p. 23
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वम्राभिः । पुत्रं । आग्रुवः । अदानं । निवेशनात् । हरिर्वः । आ । जभर्थ ।  
+> वि । अंधः । अख्यत् । अहिं । आददानः । निः । भूत् । उखिछित् । सं । आरंत ।  
+> पर्व ॥ ९ ॥
+
+> *vamrābhiḥ | putraṃ | āgruvaḥ | adānaṃ | niveśanāt | harirvaḥ | ā | jabhartha |*  
+> *vi | aṃdhaḥ | akhyat | ahiṃ | ādadānaḥ | niḥ | bhūt | ukhichit | saṃ | āraṃta |*  
+> *parva ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवो हरिसंज्ञकाश्वोपेतेंद्र त्वं वम्राभिरुपजिह्वि काभिरदानमद्यमानमग्रुवः । अग्रू नाम काचित् । तस्याः पुत्रं निवेशनाद्वल्मीकाख्यात्स्थानादा
+> जभर्थ । आहृतवानसि । आददान इंद्रेणाह्रियमाणोऽग्रुवः पुत्रोऽंधः पूर्वमंधः सन् अहिं सर्पं व्यख्यत् । विशेषेणापश्यत् । ततो निर्भूत् । वल्मीकान्निर्गतोऽभूत् । उखच्छिद्वाल्मीकाख्याया उखायाश्चेदकानि पर्व पर्वाण्यस्य सर्वाण्यंगानां शिथिलानि पर्वाणि समरंत । समगच्छंत । उपजिह्वि काभिः शिथिलीकृतान्यग्रुवः
+> पुत्रस्य पर्वाणींद्रेण समधीयंतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, हरिवः (*harivaḥ*), possessed of the horses named Hari: you brought the son of Agrū — "Agrū" is the name of a certain woman — who was being eaten by the वम्राभिः (*vamrābhiḥ*), that is, the upajihvikās (ants), from his dwelling, the place called an ant-hill. Brought out by Indra, the son of Agrū, who had before been blind, saw the serpent in particular; then he came out of the ant-hill. उखच्छित् (*ukhacchit*): the joints, loosened in all his limbs by the ants of the ant-hill and the ... **NOTE**, came together again. The meaning is that the joints of the son of Agrū, loosened by the ants, were set right by Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, accompanied by the horses called Hari
+- वम्रिभिः (*vamribhiḥ*)—by the ants called vamri
+- अदानं (*adānaṃ*)—who was being bitten
+- आग्रुवः पुत्रं (*āgruvaḥ putraṃ*)—the son of the woman named Agrū
+- निवेशनात् (*niveśanāt*)—from the ant-hill of the vamris
+- आ जभर्थ (*ā jabhartha*)—you lifted up and came out
+- आददानः (*ādadānaḥ*)—he, brought out by Indra
+- अंधः (*aṃdhaḥ*)—though blind
+- अहिं (*ahiṃ*)—the serpent
+- वि अख्यत् (*vi akhyat*)—recognised
+- निर्भूत् (*nirbhūt*)—also came out of the ant-hill
+- उखच्छित् (*ukhacchit*)—that had been bitten by ants and was sundered
+- पर्व (*parva*)—the joint-regions of his body
+- समरंत (*samaraṃta*)—came together and were set right
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of the horses named Hari, you lifted the son of Agrū, who was being bitten by the ants called vamri, from the ant-hill of the vamris and came out. Brought out by Indra, he, though blind, recognised the serpent. When he came out of the ant-hill, the joint-regions of his body, which had been bitten and sundered by the ants, came together and were set right.
+
+##### English translation (H. H. Wilson)
+*English Translation.*
+Lord of horses, you have brought the son of Agru from his dwelling where he was being devoured by the ants: when extricated, although
+
+### Printed p. 24
+
+blind, he distinguished the serpent; and when he came forth the joints that had been sundered in the ant-hill were restrung.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरिवः अदानं आग्रुवः पुत्रं निवेशनात् आ जभर्थ (*harivaḥ adānaṃ āgruvaḥ putraṃ niveśanāt ā jabhartha*) — Here the word वम्रीभिः (*vamrībhiḥ*) means a kind of ants (gejjalu). Vamra means a male ant and vamri a female ant. In this Ṛk it is described that Indra saw the son of the maiden Agru bound by ants in an ant-hill (valmīka) and suffering torment, drew him out of the ant-hill and saved him from the ants' torment; and that by Indra's greatness his body, bound by the ants and loosened, was set right as before. The word vamra is recited in Ṛ. Saṃ. 1-51-9; 8-102-21. This story is briefly told in places such as Vājasaneyi Saṃhitā 37-4; Tai. Brā. 1-2-1-3; Śa. Brā. 14-1-1-8, 14. In some places of the Ṛgveda the son of this Agru is called Vamraka. And that Indra saved the son of Āgru from the ant-hill is indicated in the Ṛks:
+उत त्यं पुत्रमग्रुवः परावृक्तं शतक्रतुः । उक्ष्ष्विंद्र अभजत् ॥ (*uta tyaṃ putramagruvaḥ parāvṛktaṃ śatakratuḥ | ukṣṣviṃdra abhajat ‖*) (Ṛ. Saṃ. 4-30-16)
+यदत्त्युपजिह्विका यद्वनो अतिसर्पति । सर्वं तदस्तु ते धृतं । (*yadattyupajihvikā yadvano atisarpati | sarvaṃ tadastu te dhṛtaṃ |*) (Ṛ. Saṃ. 8-102-21)
+एवा महो असुर वक्षथाय वम्रकः पद्भिरुप सर्पदिंद्रं । (*evā maho asura vakṣathāya vamrakaḥ padbhirupa sarpadiṃdraṃ |*) (Ṛ. Saṃ. 10-99-12)
+आददानः अंधः अहिं वि अख्यत् (*ādadānaḥ aṃdhaḥ ahiṃ vi akhyat*) — The son of Agru, though being bitten by the ants in the ant-hill, was unable to escape from there and come out, for he could not see; he was blind. Yet after Indra brought him out of the ant-hill, he came to see and know the snake that was in the ant-hill. That there is a snake in an ant-hill is known to all. The main purport is that Indra saved him from such a place of danger. All this is Indra's greatness.
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
+**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
