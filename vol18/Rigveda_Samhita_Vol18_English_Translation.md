@@ -28220,6 +28220,247 @@ Hariścandra, Rohita, Ajīgarta and, in this setting, Viśvāmitra's entry — n
 Therefore some hold that the word yūpa here should not be taken in its direct sense of a post to which the sacrificial animal is tied, but that the figurative yūpa-form may be taken to mean "bondage", and then the sense of a human victim does not arise. Sāyaṇa explains सहस्रात् (*sahasrāt*) as "of a thousand forms". A post for tying an animal is not of a thousand forms. Therefore, some hold, the figurative sense should be given: he was freed from bonds of many kinds.
 Even if it be said that yūpa gives the meaning "sacrificial post", it cannot be said from this one example alone that human sacrifice was current like the other sacrifices. Śunaḥśepa's binding was merely accidental; as a result of the agreement between Varuṇa and Hariścandra it ends in this binding. And the very events of this episode show a protest against human sacrifice. To cut down an animal bound to the sacrificial post, the help of the officiating priests is necessary. None of the priests belonging to that sacrificial place agrees to help in this base act. The shamitṛ appointed for that work also holds back. Only the father, base and greedy, comes forward for this work. It is also made clear by this that this is not the act of an Ārya but of a non-Ārya. The notion that all Brāhmaṇas are Āryas is not in the Ṛksaṃhitā either; and, as shown earlier in many places in the Ṛksaṃhitā texts, all those without Vedic rites are described together as non-Āryas. The name of Śunaḥśepa's father and the names of his brothers confirm this. Ajīgarta means one who has nothing to swallow, that is, extremely poor. Names such as Śunaḥpuccha also show his baseness. But mere poverty is not non-Āryahood; his other dealings also show his baseness. And when the shamitṛs appointed to cut the sacrificial victim do not agree to this act, this base father to this act
 
+### Printed p. 761
+[Kannada prose, continuing:] Since he agreed to it, Śunaḥśepa, released from bondage as a punishment for that sinful act of his, refuses to accept Ajīgarta as his father again. And since he had received the vision of divine hymns, he himself also became qualified to be an ṛtvij. These many circumstances show clearly how sinful those who followed the Vedic path considered human sacrifice (naramedha) to be.
+
+"स होवाच शुनशेफो यः सकृत्पातकं कुर्यात्कुर्यादेनत्ततोपरं । नापगाः शौद्रान्यायादसंधेयं त्वया कृतमित्यसंधेयमिति ह विश्वामित्र उपपपाद स होवाच विश्वामित्रो भीम एव सौयवसिः शासेन विशिशासिसुः । अस्मान्मैतस्य पुत्रो भूः................ (*sa hovāca śunaśepho yaḥ sakṛtpātakaṃ kuryātkuryādenattatoparaṃ | nāpagāḥ śaudrānyāyādasaṃdheyaṃ tvayā kṛtamityasaṃdheyamiti ha viśvāmitra upapapāda sa hovāca viśvāmitro bhīma eva sauyavasiḥ śāsena viśiśāsisuḥ | asmānmaitasya putro bhūḥ................*)"
+(Ai. Brā. 7-17)
+
+When Ajīgarta said, "Child, what I did before was wrong. I shall remove this sin; come home," Śunaḥśepa replied, "You who did not shrink from this sinful act once will not hesitate to do such a deed again and again. For this deed of yours there is no expiation." Viśvāmitra also confirms: "No, for such a deed there is no expiation." Again he instructs: "When he held up his hand for your slaughter, Ajīgarta was of terrible form. Do not become his son again."
+
+When the loathing contained in the story is itself so clear, no other evidence is needed in this matter. The scholar Max Muller, stating his own view on this matter, has also said: "It does not necessarily follow from this legend that the Rishis, the authors of thc Vedic Hymns offered human sacrifices."
+
+It is clear that from this episode alone it cannot be said that the sages of the Vedic age offered a human oblation at sacrifices.
+[History of Ancient Sanskrit Literature 1926 Ed. p. 221]
+
+Weber has stated that human sacrifice (puruṣamedha) was in vogue. Opposing that view, the scholar Eggling says:
+"This legeud, so far from bearing witness to the existence of human sacrifices as a generally recognised practice."
+(Sacred Books of the East, Vol. 44, p. XXXVI).
+He has made clear that there is not the slightest substance in saying, from these episodes alone, that human sacrifice was customary.
+
+### Printed p. 762
+Therefore, where it says "from a thousand posts" (sahasrāt yūpāt), in the present mantra it must be understood as the bondage that is sin. In the same way the seer prays to Agni to release him too from bondage.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हृ॒णी॒यमा॑नो॒ अप॒ हि मद्ययेः॒ प्र मे॑ दे॒वानां॑ व्रत॒पा  ॑
+> उ॑वाच ।
+
+> *hṛṇīyamāno apa hi madyayeḥ pra me devānāṃ vratapā*  
+> *uvāca |*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हृणीयमानः । अप । हि । मत् । ऐयेः । प्र । मे । देवानां । व्रतपाः । उवाच ।  
+> इंद्रः । विद्वान् । अनु । हि । त्वा । चचक्ष । तेन । अहं । अग्ने । अनुशिष्टः । आ । अगां ॥
+
+> *hṛṇīyamānaḥ | apa | hi | mat | aiyeḥ | pra | me | devānāṃ | vratapāḥ | uvāca |*  
+> *iṃdraḥ | vidvān | anu | hi | tvā | cacakṣa | tena | ahaṃ | agne | anuśiṣṭaḥ | ā | agāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हृणीयमानः क्रुद्यंस्त्वं मत् मत्तोऽपैयेर्हि । अपागाः
+> खलु ॥ ई गतावित्यस्मात् श्यन्विकरणाल्लजि मध्यमे छांदसे परस्मैपद आडागमे
+> वृदौ व्यत्ययेन श्यनोऽकारस्य एकारे च कृते रूपं ॥ मे मह्यं देवानां
+> व्रतपाः कर्मणः पालक इंद्रः प्रोवाच हि । स एव विद्वान् त्वानु चचक्ष । त्वां
+> ददर्श । तेनानुशिष्टोऽहं हे अग्ने त्वामागामिति । एवं वृश आह ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being angry, you have gone away from me. The verb is from *ī gatau*, with the Vedic forms of the second person. "Indra, the protector of the gods' rites, has spoken to me"; he alone, being wise, has looked upon you, has seen you. Instructed by him, O Agni, I have come to you. Thus Vṛśa speaks.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हृणीयमानः (*hṛṇīyamānaḥ*)—you, angered (by my offences)
+- मत् (*mat*)—from me
+- अप ऐयेः हि (*apa aiyeḥ hi*)—have you not gone far away?
+- देवानां (*devānāṃ*)—of the gods
+- व्रतपाः (*vratapāḥ*)—the protector of rites
+- इंद्रः (*iṃdraḥ*)—Indra
+- मे (*me*)—to me
+- प्र उवाच (*pra uvāca*)—has told
+- विद्वान् (*vidvān*)—he himself, who knows your nature
+- त्वा (*tvā*)—you
+- अनु चचक्ष (*anu cacakṣa*)—has chosen and looked upon
+- तेन (*tena*)—by that Indra
+- अनुशिष्टः (*anuśiṣṭaḥ*)—instructed
+- अहं (*ahaṃ*)—I
+- अग्ने (*agne*)—O Agni
+- आगां (*āgāṃ*)—I have come near you
+
+### Printed p. 763
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, angered by my offences, have you not gone far away from me? Indra, the protector of the gods' rites, has told me about you. He, who knows your nature, has chosen and looked upon you. Instructed by that Indra, I have come near you.
+
+##### English translation (H. H. Wilson)
+When angered, (Agni), depart from me: the protector of the worship of the gods, (Indra), has spoken to me : the wise Indra has looked upon you, and instructed by him, I have come, Agni, to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+1. Agni's departure because of King Vṛśa (Trairuṇa).
+2. Again, the recitation of an Atharvāṅgirasa mantra, making Agni appear.
+3. Indra's teaching of this very fire-kindling technique. All three points are indicated in this mantra.
+
+हृणीयमानः मत्तः अप ऐयेः (*hṛṇīyamānaḥ mattaḥ apa aiyeḥ*): "Angry, you went away from me" — Agni is addressed thus. It was stated earlier how Agni's oblation departed, Trayaruṇa's oblations and the like were not cooked, and Trayaruṇa again obtained Vṛśa's help; and also how the dead boy was made to live by reciting the Atharvāṅgirasa mantra, and how Agni's oblation was made to appear again. How Indra taught this Atharvāṅgirasa mantra was also stated earlier. Quoting the mantra "स हेंद्रेणोक्त आस............ (*sa heṃdreṇokta āsa............*)" (Śa. Brā. 14-1-1-19) (Ṛgveda Saṃhitā Part 11, p. 85), the greatness of the Atharvāṅgirasa mantra taught by Indra was shown. But there the occasion is the account of the sage Dadhīci. In the present case a teacher–pupil relation between Indra and Vṛśa is stated. Since it says "सोऽथर्वांगिरसान्मंत्रान्‌दृष्ट्वा (*so 'tharvāṃgirasānmaṃtrāndṛṣṭvā*)", here too it indicates the teacher–pupil relation between Vṛśa and Indra.
+
+Trayaruṇa was born in the Atri gotra. Atri was born in the line of Atharvāṅgirasa.
+"अत्रेयादात्रेयो मांटेः ............ अथर्वणाद्दध्यज् (*atreyādātreyo māṃṭeḥ ............ atharvaṇāddadhyaj*)"
+(Bṛ. U. 9-6-3)
+Thus in the Bṛhadāraṇyaka there is the sequence of sages born in Atri's line. But Vṛśa may have been a son of Atharvāṅgirasa. In the present case it is said that Vṛśa saw and recited the Atharvāṅgirasa mantra. Therefore
+
+### Printed p. 764
+here the circumstance cannot be stated precisely. But mantras such as अग्निर्जातो अथर्वणा (*agnirjāto atharvaṇā*) (10-21-5) show that the activity of Atharvāṅgiras was the cause of Agni's first blazing.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा ।  
+> प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृंगे॒ रक्ष॑से  ॒॑
+> विनिक्षे ॥ ९ ॥
+
+> *vi jyotiṣā bṛhatā bhātyagnirāvirviśvāni kṛṇute mahitvā |*  
+> *prādevīrmāyāḥ sahate durevāḥ śiśīte śṛṃge rakṣase*  
+> *vinikṣe ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । ज्योतिषा । बृहता । भाति । अग्निः । आविः । विश्वानि । कृणुते । महित्वा ।  
+> प्र । अदेवीः । मायाः । सहते । दुःएवाः । शिशीते । शृंगे इति । रक्षसे । विनिक्षे ॥ ९ ॥
+
+> *vi | jyotiṣā | bṛhatā | bhāti | agniḥ | āviḥ | viśvāni | kṛṇute | mahitvā |*  
+> *pra | adevīḥ | māyāḥ | sahate | duḥevāḥ | śiśīte | śṛṃge iti | rakṣase | vinikṣe ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्ज्योतिषा तेजसा बृहता महता वि भाति । विशेषेण दीप्यते । अथ
+> तथाभूतः सन् महित्वा स्वमहत्वेन विश्वानि सर्वाणि पदार्थजातान्याविष्कृणुते ।
+> प्रकटीकरोति । एवं प्रवृद्दोऽग्निरदेवीरदेवनशीला आसुरीर्माया दुरेवा
+> दुःखगमनाः प्रसहते । अभिभवति । किंच शितीते । तीक्ष्णीकरोति । शृंगे शृंगाणि ।
+> शृंगसदृशीर्हिंसिका वा ज्वालाः शितीते । तीक्ष्णीकरोति । किमर्थं । रक्षसे विनिक्षे
+> रक्षसो नाशाय । निश्यति शृंगे रक्षसो विनिक्षणनाय । नि. ४-१८ । इति यास्कः ॥
+
+##### Gist of the bhāṣya
+
+This Agni shines forth with great light, i.e. brilliance; he is brightly lit. Being so, by his own greatness he makes all things manifest. Thus grown, Agni overcomes the undivine (adevīḥ), i.e. non-playing, demonic deceits (māyāḥ), which are hard to traverse (दुरेवा (*durevā*): going to sorrow). Moreover he sharpens his horns, i.e. sharpens horn-like, destructive flames. For what? To destroy the Rakṣas; "he sharpens his horns for the destruction of the Rakṣas." So Yāska (Ni. 4-18).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- बृहता (*bṛhatā*)—with exceeding
+- ज्योतिषा (*jyotiṣā*)—brilliance
+- वि भाति (*vi bhāti*)—shines
+- महित्वा (*mahitvā*)—by his greatness
+- विश्वानि (*viśvāni*)—all beings
+- आविः कृणुते (*āviḥ kṛṇute*)—illumines
+- अदेवीः (*adevīḥ*)—of demonic nature
+- दुरेवाः (*durevāḥ*)—and causing sorrow
+- मायाः (*māyāḥ*)—evil powers
+- प्र सहते (*pra sahate*)—tramples down
+- शृंगे (*śṛṃge*)—his horn-like flames
+- रक्षसे (*rakṣase*)—of the demonic power
+- विनिक्षे (*vinikṣe*)—for the destruction
+- शितीते (*śitīte*)—makes sharp
+
+### Printed p. 765
+
+##### भावार्थ (Bhāvārtha)
+
+Agni shines with his exceeding brilliance. By his greatness he illumines all beings. He tramples down the evil powers, of demonic nature and causing sorrow. He sharpens his horn-like flames for the destruction of the demonic power.
+
+##### English translation (H. H. Wilson)
+Agni shines with great and varied radiance ; he makes all things manifest by his might ; he overcomes undivine malignant delusions ; he sharpens his horns for the destruction of the Rakshasas.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्वा॒नासो॑ दि॒वि षं॑त्व॒ग्नेस्ति॒ग्मायु॑धा॒ रक्ष॑से॒ हंत॒वा उ॑ ।  
+> मदे॑ चिदस्य॒ प्र रु॑जंति॒ भामा॒ न व॑रंते परि॒बाधो॒ अदे॑वीः ॥
+
+> *uta svānāso divi ṣaṃtvagnestigmāyudhā rakṣase haṃtavā u |*  
+> *made cidasya pra rujaṃti bhāmā na varaṃte paribādho adevīḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्वानासः । दिवि । संतु । अग्नेः । तिग्मयुधाः । रक्षसे । हंतवै । ऊं इति ।  
+> मदे । चित् । आस्य । प्र । रुजंति । भामाः । न । वरंते । परिबाधः । आदेवीः ॥ १० ॥
+
+> *uta | svānāsaḥ | divi | saṃtu | agneḥ | tigmayudhāḥ | rakṣase | haṃtavai | ūṃ iti |*  
+> *made | cit | āsya | pra | rujaṃti | bhāmāḥ | na | varaṃte | paribādhaḥ | ādevīḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चाग्नेः स्वानासः शब्दं कुर्वाणा ज्वाला दिवि षंतु । द्युलोके
+> प्रादुर्भवंतु । किमर्थं । तिग्मायुधास्तीक्ष्णायुधस्थानीया ज्वालाः । रक्षसे हंतवा
+> उ रक्षसो हननाय । उ इति पूरणः । मदे चित् हर्षे सत्यस्याग्नेर्भामाः क्रोधा
+> दीप्तयो वा प्र रुजंति । प्रकर्षण भंगं गच्छंति पीडयंति वा रक्षांसि । परिबाधः
+> परितो बाधिका अदेवीरदेवना आसुर्यः सेना न वरंते । न वारयंत्येनं ॥
+
+##### Gist of the bhāṣya
+
+And may Agni's roaring (svānāsaḥ) flames be manifest in heaven, i.e. appear in the sky. For what? The flames, like sharp weapons, to slay the Rakṣas; उ (*u*) is an expletive. Even in exhilaration (mada), i.e. joy, Agni's rays (bhāmāḥ), wrath or splendours, break the Rakṣas utterly or afflict them. The adevīḥ, non-playing demonic armies (paribādhaḥ), tormentors on every side, do not ward him off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अग्नेः (*agneḥ*)—of Agni
+- स्वानासः (*svānāsaḥ*)—roaring
+- तिग्मायुधाः (*tigmāyudhāḥ*)—flames destructive like sharp weapons
+- रक्षसे (*rakṣase*)—of the demonic power
+- हन्तवा उ (*hantavā u*)—
+
+### Printed p. 766
+—for the destruction indeed
+- दिवि (*divi*)—in the sky
+- षंतु (*ṣaṃtu*)—let them appear
+- मदे चित् (*made cit*)—when joy arises
+- अस्य (*asya*)—of this Agni
+- भामाः (*bhāmāḥ*)—the radiances
+- प्र रुजंति (*pra rujaṃti*)—wholly afflict (the asuras)
+- परिबाधः (*paribādhaḥ*)—those who seek to torment all round
+- अदेवीः (*adevīḥ*)—enemies of demonic nature
+- न वरंते (*na varaṃte*)—cannot withstand (these rays of Agni)
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni's flames, roaring and destructive like sharp weapons, appear in the sky for the destruction of the demonic power. When these radiances of Agni are exhilarated, they wholly afflict the asuras. The enemies, lying in wait to cause torment on every side and of demonic nature, cannot withstand these rays of Agni.
+
+##### English translation (H. H. Wilson)
+May your roaring (flames), Agni, be manifest in the sky as sharp weapons wherewith to slay the Rakshasas : in his exhilaration his shining (rays) infliet (destruction), and undivine opposing (hosts) arrest him not.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं ते॒ स्तोमं॑ तुविजात॒ विप्रो॒ रथं॒ न धीरः॒ स्वपा॑ अतक्षं ।  
+> यदीद॑ग्ने॒ प्रति॒ त्वं दे॑व॒ हर्याः॒ स्व॑र्वतीर॒प ए॑ना जयेम ॥
+
+> *etaṃ te stomaṃ tuvijāta vipro rathaṃ na dhīraḥ svapā atakṣaṃ |*  
+> *yadīdagne prati tvaṃ deva haryāḥ svarvatīrapa enā jayema ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतं । ते । स्तोमं । तुविजात । विप्रः । रथं । न । धीरः । सुअपाः । अतक्षं ।  
+> यदि । इत् । अग्ने । प्रति । त्वं । देव । हर्याः । स्वःवतीः । अपः । एन । जयेम ॥११॥
+
+> *etaṃ | te | stomaṃ | tuvijāta | vipraḥ | rathaṃ | na | dhīraḥ | suapāḥ | atakṣaṃ |*  
+> *yadi | it | agne | prati | tvaṃ | deva | haryāḥ | svaḥvatīḥ | apaḥ | ena | jayema ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविजात बहुभावमापन्नाग्ने ते त्वदर्थमेतं स्तोममेतत्सोत्रं
+> विप्रो मेधावी स्तोता रथं न रथमिव धीरः स्वपाः शोभनकर्माहमतक्षं ।
+> समपादयं । हे अग्ने देव त्वं यदीदेनं स्तोमं प्रति हर्याः । प्रतिकामयेथाः। तर्हि स्वर्वतोः स्वरणवतीर्व्याप्तिमतीरप एनैनेन जयेम। प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, born in many forms (tuvijāta), for you I, the wise (vipra) and steady praiser, of good works (svapāḥ), have fashioned (atakṣam), i.e. produced, this hymn, as one fashions a chariot. O divine Agni, if you favour (prati haryāḥ), i.e. desire, this hymn, then with it may we win the waters (apaḥ), svarvatīḥ, i.e. resounding and extensive; may we obtain them.
+
 ---
 
-**Progress note:** Done through printed p. 760. pp. 755-760 (batch API)
+**Progress note:** Done through printed p. 766. pp. 761-766 (batch API)
