@@ -15756,6 +15756,345 @@ This is the ninth sūkta of the fourth anuvāka, beginning इंद्रा �
 
 Or else: haviṣmān is to be joined with what follows. Provided with oblation, "immortal" (that is, marked by deathlessness, a means to heaven), like Agni the hotā — just as he is, so the stoma which, O Indra and Varuṇa, is wise (kratumān) in your heart, uttered by us, furnished with homage or with oblation, "would touch" (paspárśat), that is, would reach the heart. The words "who is that?" are a praise of the stoma.**NOTE**
 
+### Printed p. 407
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रा (*iṃdrā*)—O Indra (and Varuṇa)
+- वरुण् (*varuṇ*)—O Varuṇa (and Indra)
+- अमृतः (*amṛtaḥ*)—bestowing immortality
+- होता न (*hotā na*)—like Agni
+- हविष्मान् (*haviṣmān*)—accompanied by oblations
+- कः स्तोमः (*kaḥ stomaḥ*)—what praise indeed
+- नां (*nāṃ*)—to both of you
+- सुम्मं (*summaṃ*)—happiness
+- आप (*āpa*)—can bring about
+- इंद्रावरुण् (*iṃdrāvaruṇ*)—O Indra and Varuṇa
+- क्रतुमान् (*kratumān*)—endowed with insight
+- अस्मत् (*asmat*)—by us
+- उक्तः (*uktaḥ*)—recited
+- नमस्वान् (*namasvān*)—accompanied by oblations
+- यः (*yaḥ*)—which praise
+- नां (*nāṃ*)—to both of you
+- हृदि (*hṛdi*)—in the heart
+- पस्पर्शत् (*pasparśat*)—can pervade and become dear to the heart (what praise is such?)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, like Agni who procures immortality, what praise accompanied by oblations can bring happiness to you both? What praise, endowed with insight, recited by us and accompanied by oblations, can pervade your hearts and become dear to them?
+
+##### English translation (H. H. Wilson)
+Indra (and Varuna), Varuna (and Indra), what praise of you accompanied by oblations may obtain for us felicity, (such as) the immortal invoker of the gods, (Agni, may bestow): may (the praise) which is addressed by us to you both, Indra and Varuna, sanctified by acts and prompted by veneration, touch your hearts.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ ह॒ यो वरु॑णा च॒क्र आ॒पी दे॒वौ मर्तः॑ स॒ख्याय॒  ॑
+> प्रय॑स्वान् ।  
+> स हं॑ति वृ॒त्रा स॑मि॒थेषु॒ शत्रु॒नवो॑भिर्वा म॒हद्भिः॒ स प्र  ॑
+> शृण्वे ॥ २ ॥
+
+> *iṃdrā ha yo varuṇā cakra āpī devau martaḥ sakhyāya*  
+> *prayasvān |*  
+> *sa haṃti vṛtrā samitheṣu śatrunavobhirvā mahadbhiḥ sa pra*  
+> *śṛṇve ‖ 2 ‖*
+
+### Printed p. 408
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । ह । यः । वरुणा । चक्रे । आपी इति । देवौ । मर्तः । सख्याय । प्रयस्वान् ।  
+> सः । हंति । वृत्रा । संइथेषु । शत्रुन् । अवभिः । वा । महत्भिः । सः । प्र ।  
+> शृण्वे ॥ २ ॥
+
+> *iṃdrā | ha | yaḥ | varuṇā | cakre | āpī iti | devau | martaḥ | sakhyāya | prayasvān |*  
+> *saḥ | haṃti | vṛtrā | saṃitheṣu | śatrun | avabhiḥ | vā | mahatbhiḥ | saḥ | pra |*  
+> *śṛṇve ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रा वरुणेंद्रावरुणौ देवौ । हशब्दः पूरणः प्रसिद्धौ वा । यो मर्तो
+> मरणधर्मा प्रयस्वान् हविर्लक्षणान्नवान् सन् सख्याय सखित्वायापी बंधू
+> चक्रे । करोति । स मर्तो वृत्रा अवरकाणि पापानि हंति । तथा समिथेषु संग्रामेषु शत्रून् हंति । नाशब्दश्चार्थे । महद्भिरवोभी रक्षणैः स नरः प्र शृण्वे ।
+> प्रकृष्टं श्रूयते । विख्यातो भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra and Varuṇa are the two gods. The word ह (*ha*) is an expletive, or means "well known". The mortal (subject to death) who, being furnished with *prayas*, that is, food in the form of oblations, makes them his kinsmen for friendship, destroys *vṛtras*, that is, the sins that obstruct. Likewise he slays enemies in battles. The word *nāśabdaḥ* is in the sense of "and". **NOTE**. By your great protections that man becomes greatly renowned: he is famous.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—divine
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- यः मर्तः (*yaḥ martaḥ*)—the mortal who
+- प्रयस्वान् (*prayasvān*)—together with food in the form of oblations
+- सख्याय (*sakhyāya*)—for friendship with you
+- आपी (*āpī*)—(you) as kinsmen
+- चक्रे (*cakre*)—makes
+- सः (*saḥ*)—that man
+- वृत्रा (*vṛtrā*)—the sins that obstruct
+- हंति (*haṃti*)—destroys
+- समिथेषु (*samitheṣu*)—in battles
+- शत्र्यन् (*śatryan*)—destroys enemies
+- महद्भिः (*mahadbhiḥ*)—great
+- अवोभिः (*avobhiḥ*)—by (your) protections
+- सः (*saḥ*)—that man
+- प्र शृण्वे (*pra śṛṇve*)—becomes renowned
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Indra and Varuṇa, the man who, together with food in the form of oblations, makes you his kinsmen for friendship with you destroys the sins that obstruct. By your great protections he becomes renowned.
+
+##### English translation (H. H. Wilson)
+Divine Indra and Varuna, the mortal diligent in offering (you) sacrificial food, who has through friendship made you his kinsmen, destroys (his own) sins, and his enemies in battle; and by your great favours he becomes renowned.
+
+### Printed p. 409
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ ह॒ रत्नं॒ वरु॑णा॒ धेष्ठे॒त्था नृभ्यः॑ शशमा॒नेभ्य॒स्ता ।  
+> यदी॒ सखा॑या स॒ख्याय॒ सोमैः॑ सु॒तेभिः॑ सुप्र॒यसा॑ मा॒दय्यै॑ते ॥ ३ ॥
+
+> *iṃdrā ha ratnaṃ varuṇā dheṣṭhetthā nṛbhyaḥ śaśamānebhyastā |*  
+> *yadī sakhāyā sakhyāya somaiḥ sutebhiḥ suprayasā mādayyaite ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । ह । रत्नं । वरुणा । धेष्ठा । इत्था । नृभ्यः । शशमानेभ्यः । ता ।  
+> यदि । सखाया । सख्याय । सोमैः । सुतेभिः । सुप्रयसा । मादयैते इति ॥ ३ ॥
+
+> *iṃdrā | ha | ratnaṃ | varuṇā | dheṣṭhā | itthā | nṛbhyaḥ | śaśamānebhyaḥ | tā |*  
+> *yadi | sakhāyā | sakhyāya | somaiḥ | sutebhiḥ | suprayasā | mādayaite iti ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणौ ता । हेति प्रसिद्धौ । तौ खलु देवावित्थेत्थं नृभ्यो मनुष्येभ्यः
+> शशमानेभ्यः शंसमानेभ्यः स्तोतृभ्योऽस्मभ्यं रत्नं रमणीयं धनं धेष्णा
+> दातृतमा । भवत इति शेषः । यदि सखाया परस्परं यजमानस्य वा सखिभूतौ
+> सख्याय सखिकर्मणे सखित्वाय सुतेभिरभिषुतैः सोमैः सुप्रयसा शोभनसोमान्नवंतौ मादय्यते । माद्येतां । तर्हि रत्नानां दातारौ भवतः ॥
+
+##### Gist of the bhāṣya
+
+Indra and Varuṇa are those two, ह (*ha*) meaning "well known". Those two gods thus become, for us men who praise them, most liberal givers of *ratna*, delightful wealth ("become" is to be supplied). If, as friends of one another or friends of the sacrificer, for the sake of friendship (the friendly act), the two, provided with excellent soma-food and with the soma juices pressed out, are exhilarated, then they become givers of treasures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- यदि (*yadi*)—when
+- सखाय (*sakhāya*)—you who are friends
+- सख्याय (*sakhyāya*)—in order to win friendship with you
+- सुतेभिः (*sutebhiḥ*)—pressed
+- सोमैः (*somaiḥ*)—with soma juices
+- सुप्रयसा (*suprayasā*)—possessed of excellent food
+- मादय्यैते (*mādayyaite*)—you rejoice; then
+- ता (*tā*)—you two, the well known
+- इत्या (*ityā*)—in many ways
+- शशमानेभ्यः (*śaśamānebhyaḥ*)—to those who praise
+- नृभ्यः (*nṛbhyaḥ*)—to men
+- रत्नं (*ratnaṃ*)—delightful wealth
+- धेष्वा (*dheṣvā*)—you are givers
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who are friends: when, in order to win friendship with you, you delight, partaking of excellent food with the pressed soma, then you two, the well known, are givers of delightful wealth to men who praise you in many ways.
+
+### Printed p. 410
+
+##### English translation (H. H. Wilson)
+Indra and Varuna (you are) most liberal givers of wealth to men praising you in various ways, when as friends well plied with (sacrificial) food, you are exhilarated by the Soma juice effused through friendship.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ यु॒वं व॑रुणा दि॒द्युम॑स्मि॒न्नोजि॑ष्ठमुग्रा॒ नि व॑धिष्ठं॒  ॑
+> वज्रं ।  
+> यो नो॑ दु॒रेवो॑ वृ॒कति॑र्द॒भीति॒स्तस्मि॑न्मिमाथाम॒भि भू॒त्योजः॑ ॥ ४ ॥
+
+> *iṃdrā yuvaṃ varuṇā didyumasminnojiṣṭhamugrā ni vadhiṣṭhaṃ*  
+> *vajraṃ |*  
+> *yo no durevo vṛkatirdabhītistasminmimāthāmabhi bhūtyojaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । युवं । वरुणा । दिद्युं । अस्मिन् । ओजिष्ठं । उग्रा । नि । वधिष्ठं । वज्रं ।  
+> यः । नः । दुःएवः । वृकतिः । दभीतिः । तस्मिन् । मिमाथां । अभिभूति । ओजः ॥ ४ ॥
+
+> *iṃdrā | yuvaṃ | varuṇā | didyuṃ | asmin | ojiṣṭhaṃ | ugrā | ni | vadhiṣṭhaṃ | vajraṃ |*  
+> *yaḥ | naḥ | duḥevaḥ | vṛkatiḥ | dabhītiḥ | tasmin | mimāthāṃ | abhibhūti | ojaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रा इंद्रौ वरुणा वरुणौ हे उग्रा उग्रौ । अत्र सर्वत्र परस्परापेक्षया द्विवचनं प्र मित्रयोर्वरुणयोः । ऋग्वे. ७-६६-१ । इतिवत् । यद्वा ।
+> छांदसत्वाद्ववहितस्याप्यानज् । अस्मिन् शत्र् दिद्युं दीप्तमोजिष्ठमतिशयेन
+> तेजोवद्वज्रमायुधं नि वधिष्टं । वधार्थं प्रेरयतमित्यर्थः । यः शत्रुर्नोऽस्माकं दुरेवो दुष्प्रापो वृकतिरतिशयेनादाता दभीतिर्हिंसकस्तस्मिन् शत्रावभिभूत्यभिभावुकमोजो बलं मिमाथां । कुरुतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, O Varuṇa, O fierce ones": here and everywhere the dual number is used with reference to each other, as in प्र मित्रयोर्वरुणयोः (*pra mitrayorvaruṇayoḥ*) (Ṛg. 7-66-1). Or else, because of Vedic usage, the *ānaj* ending is applied to a word standing at a distance. On this foe (*asmin*) hurl down the bright, flashing, exceedingly mighty (*ojiṣṭha*) thunderbolt-weapon, that is, send it for his slaying. The enemy who is for us *durevaḥ* (hard to get at), *vṛkatiḥ* (an exceedingly grasping taker) and *dabhītiḥ* (a harmer): against that enemy make an overpowering strength, that is, bring it about.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- उग्रा (*ugrā*)—you who are terrible (to the foe)
+- अस्मिन् (*asmin*)—upon this foe
+- दिद्युं (*didyuṃ*)—shining
+- ओजष्ठं (*ojaṣṭhaṃ*)—possessed of exceeding power
+
+### Printed p. 411
+
+- वज्रं (*vajraṃ*)—the thunderbolt-weapon
+- नि वधिष्ठं (*ni vadhiṣṭhaṃ*)—you have hurled for his slaying **NOTE**
+- यः (*yaḥ*)—which enemy
+- दुरेवः (*durevaḥ*)—deadly to our strength **NOTE**
+- वृकतिः (*vṛkatiḥ*)—who from greed seizes all we have
+- दभीतिः (*dabhītiḥ*)—a harmer
+- तस्मिन् (*tasmin*)—that enemy
+- अभिभूतिं (*abhibhūtiṃ*)—that overcomes
+- ओजः (*ojaḥ*)—strength
+- युवं (*yuvaṃ*)—you two
+- नः (*naḥ*)—for us
+- मिमाथां (*mimāthāṃ*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who are terrible to the foe, you have hurled upon this foe the shining thunderbolt-weapon of exceeding power for his slaying. The enemy who is deadly to our strength, who from greed seizes everything we have, and who is a harmer: produce for us, both of you, strength that overcomes that enemy.
+
+##### English translation (H. H. Wilson)
+Fierce Indra and Varuna you hurled the brightshining and most mighty thunderbolt against this (our foe), who is difficult to be resisted by us; (who is) rapacious, malevolent: grant us strength to overcome him.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ यु॒वं व॑रुणा भू॒तम॒स्या धि॒यः प्रे॒तारा॑ वृष॒भेव॑  ॒
+> धेनोः ।  
+> सा नो॑ दुहीय॒द्यव॑सेव ग॒त्वी स॒हस्र॑धारा॒ पय॑सा म॒ही गौः॥
+
+> *iṃdrā yuvaṃ varuṇā bhūtamasyā dhiyaḥ pretārā vṛṣabheva*  
+> *dhenoḥ |*  
+> *sā no duhīyadyavaseva gatvī sahasradhārā payasā mahī gauḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । युवं । वरुणा । भूतं । अस्याः । धियः । प्रेतारा । वृषभा इव । धेनोः ।  
+> सा । नः । दुहीयत् । यवसा इव । गत्वी । सहस्रधारा । पयसा । मही । गौः ॥५॥
+
+> *iṃdrā | yuvaṃ | varuṇā | bhūtaṃ | asyāḥ | dhiyaḥ | pretārā | vṛṣabhā iva | dhenoḥ |*  
+> *sā | naḥ | duhīyat | yavasā iva | gatvī | sahasradhārā | payasā | mahī | gauḥ ‖5‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रा वरुणा इंद्रावरुणौ युवं युवामस्या धियः स्तुत्याः प्रेताराप्रीणयितारौ भूतं । भवतं । वृषभा सेक्तारौ वृषभौ धेनोरिव । सा स्तुतिरूपा
+
+##### Gist of the bhāṣya
+
+O Indra, O Varuṇa, be you two the exciters (pleasers) of this praise (*dhiyaḥ*, of the praise), as two bulls, the sprinklers, are of a cow. May that praise, in the form of a cow, yield for us, that is, fulfil our desires: (the sentence continues in the next block).
+
+### Printed p. 412
+
+> धेनुर्नोऽस्माकं दुहीयत् । दुह्येत् । कामान् पूरयेत् । वयसा तृणादिघासेन निमित्तेन गत्वी गत्वा पयसा सहस्रधारा मही महती गौरिव ॥
+
+##### Gist of the bhāṣya
+
+Like a great cow that has gone, for the purpose of eating grass and the like, (to pasture), with a thousand streams of milk. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रा वरुणौ (*iṃdrā varuṇau*)—O Indra and Varuṇa
+- वृषभा (*vṛṣabhā*)—bulls capable of sprinkling
+- धेनोः इव (*dhenoḥ iva*)—as they urge a cow
+- युवं (*yuvaṃ*)—you two
+- अस्याः धियः (*asyāḥ dhiyaḥ*)—to this praise
+- प्रेतारा (*pretārā*)—be encouragers
+- यवसा (*yavasā*)—for grass (to a pasture)
+- गत्वी (*gatvī*)—that has gone
+- पयसा (*payasā*)—filled with milk
+- सहस्रधारा (*sahasradhārā*)—having thousands of streams
+- मही (*mahī*)—great
+- गौः इव (*gauḥ iva*)—like a cow
+- सा (*sā*)—this cow in the form of praise
+- नः (*naḥ*)—for us
+- दुहीयत् (*duhīyat*)—let it milk out the desired things
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, as bulls capable of sprinkling urge a cow, so be you two encouragers of this praise. Like a great cow that has gone to the pasture for grass, filled with milk and having a thousand streams, may this cow in the form of praise yield us the things we desire.
+
+##### English translation (H. H. Wilson)
+Indra and Varuna, be the exciters of this our praise, as the bull is of the milch cows : may that cow (of praise) yield us (reward), like a large cow that has gone forth to pasture, whose thousand channels (are filled) with milk.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तो॒के हि॒ते तन॑य उ॒र्वरा॑सु॒ सूरो॒ दृश्यी॑के॒ वृष॑णश्च॒  ॑
+> पांस्ये ।  
+> इंद्रा॑ नो॒ अत्र॒ वरु॑णा स्याता॒मवो॑भिर्द॒स्मा परि॑तक्म्यायां॥
+
+> *toke hite tanaya urvarāsu sūro dṛśyīke vṛṣaṇaśca*  
+> *pāṃsye |*  
+> *iṃdrā no atra varuṇā syātāmavobhirdasmā paritakmyāyāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तोके । हिते । तनये । उर्वरासु । सूरः । दृश्यीके । वृषणः । च । पांस्ये ।  
+> इंद्रा । नः । अत्र । वरुणा । स्यातां । अवःभिः । दस्मा । परितक्म्यायां ॥ ६ ॥
+
+> *toke | hite | tanaye | urvarāsu | sūraḥ | dṛśyīke | vṛṣaṇaḥ | ca | pāṃsye |*  
+> *iṃdrā | naḥ | atra | varuṇā | syātāṃ | avaḥbhiḥ | dasmā | paritakmyāyāṃ ‖ 6 ‖*
+
+### Printed p. 413
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणौ देवौ नो हिते तोके पुत्रे तनये तत्पुत्रे चोर्वरासु
+> सस्याढ्यासु भूमिषु निमित्तभूतासु सूरः प्रेरकस्य सूर्यस्य दृशीके चिरकालदर्शनाय । चिरजीवनायेत्यर्थः । तथा वृषणः सेक्तुर्मम पौंस्यॆ च पुंस्त्वाय च
+> पुनरपि प्रजननसामर्थ्याय च दस्मा शत्रूणां हिंसकौ संतौ नोऽस्माकमवोभी
+> रक्षणैः सह परितक्क्यायां परितकने निमित्तभूते सति । यद्वा रात्रिनामैतत् । रात्रौ
+> हिंसकानां वधाय स्यातां । भवेतां ॥
+
+##### Gist of the bhāṣya
+
+The gods Indra and Varuṇa: for our *hita* (welfare), for *toka*, a son, and *tanaya*, his son, and for the fertile lands (*urvarāsu*, fields rich in crops) as the occasion; for the *dṛśīke* of *sūraḥ*, the impelling sun, that is, for seeing him for a long time, which means long life. Likewise for the *pauṃsya* of *vṛṣaṇaḥ*, me the sprinkler: for manhood, and for the capacity to beget again. Being *dasmā*, destroyers of enemies, may they be with their protections (*avobhiḥ*) when there is occasion for *paritakmyā* (…). Or else this is a name of night: may they be, in the night, for the slaying of the harmers. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- नः (*naḥ*)—our
+- हिते (*hite*)—for welfare
+- तोके (*toke*)—for the sake of sons
+- तनये (*tanaye*)—for the sake of grandsons
+- उर्वरासु (*urvarāsu*)—for the sake of land
+- सूरः (*sūraḥ*)—of the sun
+- दृशीके (*dṛśīke*)—for seeing him for many ages (for long life)
+- वृषणः (*vṛṣaṇaḥ*)—of me who sprinkle seed
+- पौंस्यॆ च (*pauṃsyè ca*)—also for the increase of virility
+- दस्मा (*dasmā*)—you, destroyers of foes
+- परितक्क्यायां (*paritakkyāyāṃ*)—for the destruction of the foe
+- अवोभिः (*avobhiḥ*)—with your protections
+- अत्र स्यातां (*atra syātāṃ*)—be around us **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, for our welfare, for sons, for grandsons, for land, for our long life, and for the increase of the virility of me who sprinkle seed, be you, destroyers of foes, around us with your protections for the destruction of the foe.
+
+##### English translation (H. H. Wilson)
+May Indra and Varuna, the overthrowers (of foes), be around us with (their) protections ; (that thereby we may have) good sons and grand-sons, and fertile lands, and long life, and virility.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वामिद्ध्यव॑से पू॒र्व्याय॒ परि॒ प्रभू॑ती ग॒विषः॑ स्वापी ।  
+> वृ॒णी॒महे॑ स॒ख्याय॑ प्रि॒याय॒ शूरा॒ मंहि॑ष्ठा पि॒तरे॑व शं॒भू॥
+
+> *yuvāmiddhyavase pūrvyāya pari prabhūtī gaviṣaḥ svāpī |*  
+> *vṛṇīmahe sakhyāya priyāya śūrā maṃhiṣṭhā pitareva śaṃbhū‖*
+
 ---
 
-**Progress note:** Done through printed p. 406. pp. 401-406 (batch API)
+**Progress note:** Done through printed p. 413. pp. 407-413 (batch API)
