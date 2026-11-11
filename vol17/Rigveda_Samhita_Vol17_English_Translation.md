@@ -11149,6 +11149,282 @@ The twin pair (day and night) adopt various forms : one of them shines brightly,
 
 यम्या—मिथुनभूते (*yamyā—mithunabhūte*). This word is stated among the names of night (Ni. 2-18). श्यावी—कृष्णवर्णा (*śyāvī—kṛṣṇavarṇā*). This word too is read among the names of night (Ni. 2-18). In this Ṛk day and night are described. Of these, the day, through the spread of the sun's rays, is अरुषी—शुक्लवर्णा (*aruṣī—śuklavarṇā*), bright; the night, through its connection with darkness, is कृष्णं (*kṛṣṇaṃ*), black. Day and night परस्परं स्वसारौ भवतः (*parasparaṃ svasārau bhavataḥ*): because each follows the other, they are described as sisters. Yāska also—
 
+### Printed p. 299
+
+##### विशेषविषयगळु (Special Topics)
+
+(Yāska also, in the passage) अहश्च कृष्ण महरर्जुनं च विवर्तेते रजसी वेद्याभिः । (*ahaśca kṛṣṇa mahararjunaṃ ca vivartete rajasī vedyābhiḥ |*) (Ṛ. Saṃ. 6-9-1), explains: अहश्च कृष्णं रात्रि: शुक्लं चाहरर्जुनं च विवर्तेते रजसी वेदितव्याभिः प्रवृत्तिभिः । (*ahaśca kṛṣṇaṃ rātri: śuklaṃ cāhararjunaṃ ca vivartete rajasī veditavyābhiḥ pravṛttibhiḥ |*) Day and night, these two, shine with the forms of white and black colour. Of these, the one that is white through its connection with the rays and bestows light on living beings is day. Night is black in colour and brings living beings rest from their activity. By their regular goings and comings (night passes, day comes; day passes, night comes), or by their effect, they are described as benefactors of living beings. The overwhelming might of the deities of day and night, who bear the forms of white and black as day and night and exist in manifold forms through their turnings, is beyond description.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒ता च॒ यत्र॑ दुहि॒ता च॑ धे॒नू स॑ब॒र्दुघे॑ धा॒पये॑ते  ॒
+> समीची ।  
+> ऋ॒तस्य॒ ते सद॑सीळे अं॒तर्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥ १२ ॥
+
+> *mātā ca yatra duhitā ca dhenū sabardughe dhāpayete*  
+> *samīcī |*  
+> *ṛtasya te sadasīḷe aṃtarmahaddevānāmasuratvamekaṃ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माता । च । यत्र । दुहिता । च । धेनू इति । सबर्दुघे इति सबःदुघे । धापयेते  
+> इति । समीची इति सम्ईची ।  
+> ऋतस्य । ते इति । सदसि । ईळे । अंतः । महत् । देवानां । आसुरत्वं । एकं ॥ १२ ॥
+
+> *mātā | ca | yatra | duhitā | ca | dhenū iti | sabardughe iti sabaḥdughe | dhāpayete*  
+> *iti | samīcī iti samīcī |*  
+> *ṛtasya | te iti | sadasi | īḷe | aṃtaḥ | mahat | devānāṃ | āsuratvaṃ | ekaṃ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> माता सर्वेषां निर्मातृत्वान्माता पृथिवी च दुहिता दूरे निहिता द्यौश्च ।
+> दुहिता दुर्हिता दूरे हिता दोग्देवेति यास्कः । एते सबर्दुघ्ने सबरः स्वीयस्य
+> क्षीररूपस्य रसस्य दॊग्धौ आत एव धेनू जगतः प्रीणयित्र्यौ द्यावापृथिव्यौ
+> यत्रांतरिक्षे समीची परस्परं संगते सत्यौ धापयेते स्वकीयं रसमन्योन्यं
+> पाययेते ऋतस्योदकस्य सदसि स्थानभूते तस्मिन्नंतरिक्षेंतः स्थिते द्यावापृथिव्या-
+
+##### Gist of the bhāṣya
+
+"Mother": because she is the maker of all, the earth is the mother; "daughter" (duhitā) is Heaven, placed far away. Yāska: दुहिता दुर्हिता दूरे हिता दोग्देवेति (*duhitā durhitā dūre hitā dogdeveti*). These two are "sabardughe": sabar is their own sap in the form of milk, and they are the milkers of it; hence they are "dhenū", the two nourishers of the world, Heaven and Earth. In the firmament, where, meeting each other, they make each other drink their own sap, in the seat of ṛta, that is, of water — that firmament — I praise Heaven and Earth standing within it. (The block continues on the next page.)
+
+### Printed p. 300
+
+> वीळे । अहं सौमि । यद्वा । वृष्टिलक्षणं रसं द्यौः पृथिवीं धापयत आहुतिलक्षणं
+> रसं द्यां पृथिवीत्येवमन्योन्यं माता च दुहिता च भवतः । ऋतस्य सदसि स्थाने
+> यज्ञसदने स्थितोऽहं ते उभे सौमि ॥ सबर्दुघे । सबःशब्दः क्षीरवाचीति संप्रदायविद आहुः । तस्मिन्नुपपदे दुह प्रपूरण इत्यस्माद्दातोर्दुहः । कब्बश्चेति
+> कप्पत्ययो घश्चांतादेशः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । धापयेते ।
+> धेट् पान इत्यस्य ण्यंतस्य लटि निगरणचलनार्थेभ्यश्चेति परस्पैपदे प्राप्ते पादिसु
+> धेट् उपसंख्यानमित्यात्मनेपदं । यद्वृत्तयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) "I praise." Or else: Heaven makes the earth drink the sap in the form of rain, and the earth makes Heaven drink the sap in the form of the oblation; so each is mother and daughter to the other. Standing at the seat of ṛta, the place of sacrifice, I praise both. "Sabardughe": those versed in tradition say that the word sabar denotes milk; the second member is formed from the root duh, "to fill".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माता (*mātā*)—the earth, in the form of the mother
+- दुहिता च (*duhitā ca*)—and also the firmament, placed far away **NOTE**
+- सबर्दुघे (*sabardughe*)—milking together their sap in the form of milk
+- धेनू (*dhenū*)—like milch cows that bring satisfaction to the world
+- यत्र (*yatra*)—in which firmament
+- समीची (*samīcī*)—meeting together
+- धापयेते (*dhāpayete*)—exchanging their respective saps, they make each other drink
+- ऋतस्य (*ṛtasya*)—of water
+- सदसि (*sadasi*)—in the firmament, which is its seat
+- अंतः (*aṃtaḥ*)—Heaven and Earth, standing within
+- ईळे (*īḷe*)—I praise
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+The earth, in the form of the mother, and the far-placed firmament, milking together their sap in the form of milk, like milch cows that satisfy the world, meet together in the firmament and, exchanging their respective saps, make each other drink. In the firmament, the seat of water, I praise Heaven and Earth standing within it. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Where the mother and the daughter, two productive milch cows, unite, they nourish each other : I worship them both in (the firmament), the dwel- ling of the waters : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+माता—सर्वेषां निर्मातृत्वात् माता पृथिवी। (*mātā—sarveṣāṃ nirmātṛtvāt mātā pṛthivī|*) Because she brings forth everything, moving and unmoving, the earth is called the mother. दुहिता-दूरे नीता द्यौः च । (*duhitā-dūre nītā dyauḥ ca |*) Because the firmament is very far from the earth, it is designated duhitṛ (daughter).
+
+### Printed p. 301
+
+Yāska has explained the meaning of the word duhitā as दुहिता, दूरेहिता, दोग्दीर्वा (*duhitā, dūrehitā, dogdīrvā*) (Ni. 3-4). Because, though far away and given to another in the proper manner, she wishes the welfare of her own people, the duhitā (daughter) is described as beneficial even though she may cause sorrow; and he explains that the word is derived from the root duh in the sense "to fill", that is, "to milk".
+
+These Heaven and Earth: ऋतस्य सदसि समीची धापयेते—उदकस्य स्थानभूते तस्मिन् अंतरिक्षे परस्परं संगते सत्यौ स्वकीयां रसं अन्नोन्यं पाययेते । (*ṛtasya sadasi samīcī dhāpayete—udakasya sthānabhūte tasmin aṃtarikṣe parasparaṃ saṃgate satyau svakīyāṃ rasaṃ annonyaṃ pāyayete |*) In the firmament, where the waters gather, staying inseparable from one another, offering their respective saps to each other in exchange, they go on satisfying the worlds like cows that yield milk. One kind of meaning has been described thus.
+
+यद्वा वृष्टिलक्षणं रसं दौः पृथिवीं धापयते । आहुतिलक्षणं रसं द्यां पृथिवीति एवं माता दुहिता च भवतः । (*yadvā vṛṣṭilakṣaṇaṃ rasaṃ dauḥ pṛthivīṃ dhāpayate | āhutilakṣaṇaṃ rasaṃ dyāṃ pṛthivīti evaṃ mātā duhitā ca bhavataḥ |*) In the first meaning, motherhood of Heaven and Earth is established with regard to the world through their doing good to it, and daughterhood through their satisfying the world with their saps. In the second meaning, since the earth makes Heaven drink the sap in the form of the oblation and Heaven makes the earth drink the sap in the form of rain, there arises between the two a motherhood in the sense of mutual nourishing, and a daughterhood through the milking of the sap; this is what is described as the second meaning.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यस्या॑ व॒त्सं रि॑ह॒ती मि॑माय॒ कया॑ भु॒वा नि द॑धे धे॒नुरूधः॑।  
+> ऋ॒तस्य॒ सा पय॑सापिन्व॒तेळा॑ म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *anyasyā vatsaṃ rihatī mimāya kayā bhuvā ni dadhe dhenurūdhaḥ|*  
+> *ṛtasya sā payasāpinvateḷā mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यस्याः । वत्सं । रिहती । मिमाय । कया । भुवा । नि । दधे । धेनुः । ऊधः ।  
+> ऋतस्य । सा । पयसा । अपिन्वत । इळा । महत् । देवानां । असुरत्वं । एकं ॥१३॥
+
+> *anyasyāḥ | vatsaṃ | rihatī | mimāya | kayā | bhuvā | ni | dadhe | dhenuḥ | ūdhaḥ |*  
+> *ṛtasya | sā | payasā | apinvata | iḷā | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖13‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्यस्याः पृथिव्या वत्समग्निं रिहत्युदकधारारूपया जिह्वया लिहती द्यौर्मिमाय । मेघद्वारा ध्वनिं करोति । धेनुः प्रीणयित्री सा द्यौः कया जलवर्जितया
+
+##### Gist of the bhāṣya
+
+"Of the other", that is, of the earth, Heaven licks the calf, Agni, with a tongue in the form of streams of water, and lows: through the cloud she makes a sound. "Dhenu" is the nourishing Heaven; "kayā": with the waterless (earth)…
+
+### Printed p. 302
+
+> भुवा तत्रत्यं जलमादाय स्वकीयमूधो मेघरूपं नि दधे । उदकेन निहितमकरोत् । सा जलवर्जितेळा पृथिव्यृतस्य सत्यभूतस्यादित्यस्य पयसोदकेनापिन्वत ।
+> वर्षकाले सिक्ता भवति । आदित्याज्जायते वृष्टिः । मनु. ३-७६ । इति स्मृतेः ॥ रिहती ।
+> लिह आस्वादन इत्यस्य शतरि रूपं । शतुरनुम इति जीप उदात्तत्वं । अपिन्वत । पिवि
+> सेचने । मुचादिरात्मनेपदी । निघातः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) …taking the water from there, she places her own udder, in the form of cloud; she makes it stored with water. That waterless Iḷā, the earth, is swelled by the water of Āditya, who is the truth (ṛta); she is sprinkled in the rainy season. For the smṛti says आदित्याज्जायते वृष्टिः (*ādityājjāyate vṛṣṭiḥ*) (Manu. 3-76). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यस्या: (*anyasyā:*)—of the earth, one of the two worlds
+- वत्सं (*vatsaṃ*)—the calf-like Agni
+- रिहती (*rihatī*)—licking with a tongue in the form of streams
+- मिमाय (*mimāya*)—(through the cloud) the presiding deity of the world of heaven makes a sound
+- धेनुः (*dhenuḥ*)—Heaven, the bringer of pleasure
+- कया (*kayā*)—waterless
+- भुवा (*bhuvā*)—from the earth (drawing the water)
+- ऊधः (*ūdhaḥ*)—her udder in the form of cloud
+- नि दधे (*ni dadhe*)—she places
+- सा (*sā*)—that
+- इळा (*iḷā*)—the earth, being waterless
+- ऋतस्य (*ṛtasya*)—of Āditya, who is of the nature of truth
+- पयसा (*payasā*)—with the water
+- अपिन्वत (*apinvata*)—is drenched
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Licking, with a tongue in the form of streams, Agni, the calf-like son of the earth, one of the two worlds, the presiding deity of the world of heaven makes a sound through the cloud. The nourishing world of heaven, drawing water from the waterless earth, gives her udder, in the form of cloud, to the earth. That waterless earth is drenched by the water of Āditya, who is of the nature of truth. The might of the gods is great and unequalled. **NOTE**
+
+##### English translation (H. H. Wilson)
+Licking the calf of the other, one of them lows aloud : the milch cow offers her udder for the one that is without moisture (the earth), and she (the earth) is refreshed by the milk of the rain : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+धेनुः—प्रीणयित्री सा द्यौः । (*dhenuḥ—prīṇayitrī sā dyauḥ |*) The word dhenu is stated among the words for speech (Ni. 2-23). The meaning is explained thus: the world of heaven is the dhenu (cow), and it satisfies. In this Ṛk, in a poetic style, the world of heaven is called a cow, and the nature of a cow toward her calf is described. Moreover, it is not natural for one cow to nourish the calf of another.
+
+### Printed p. 303
+
+Here: पृथिव्याः वत्समग्निं उदकधारारूपया जिह्वया लिहती द्यौ:  मेघद्वारा ध्वनिं करोति । (*pṛthivyāḥ vatsamagniṃ udakadhārārūpayā jihvayā lihatī dyau:  meghadvārā dhvaniṃ karoti |*) The world of heaven satisfies with streams of water Agni, who is like the son of the earth or is her son (as a cow licks her calf with love), and, as a cow makes the sound that calls her calf near, makes the sound of the clouds. By this the thunder of the clouds is presented as the calf-calling sound of the cow.
+
+Of the world of heaven, भुवा ऊधः निदधे—तत्रत्यं जलवादाय स्वकीयं मेघरूपं ऊधः उदकेन निहितमकरोत् । (*bhuvā ūdhaḥ nidadhe—tatratyaṃ jalavādāya svakīyaṃ megharūpaṃ ūdhaḥ udakena nihitamakarot |*) Gathering the waters that are on the earth, she makes her udder, which is in the form of cloud, full of sap. Afterwards, when the rainy season arrives, इळा ऋतस्य पयसा अपिन्वत (*iḷā ṛtasya payasā apinvata*): the earth is drenched with waters from the side of Āditya, who is of the nature of truth. Having explained the meaning thus, he cites the Manu-smṛti text आदित्याज्ञायते वृष्टिः वृष्टेरन्नं ततः प्रजाः (*ādityājñāyate vṛṣṭiḥ vṛṣṭerannaṃ tataḥ prajāḥ*) (Manu. 3-17): from Āditya comes rain, from rain food, and from food the creatures. **NOTE** Thus, because Heaven and Earth are engaged in the origin and so on of the worlds, the might of the gods is explained as unequalled.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पद्या॑ वस्ते पुरु॒रूपा॒ वपूं॑ष्युद्॒र्वा त॑स्थौ॒ त्र्यविं॒ रेरि॑हाणा।  
+> ऋ॒तस्य॒ सद्म॒ वि च॑रामि वि॒द्वान्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥१४॥
+
+> *padyā vaste pururūpā vapūṃṣyudrvā tasthau tryaviṃ rerihāṇā|*  
+> *ṛtasya sadma vi carāmi vidvānmahaddevānāmasuratvamekaṃ ‖14‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पद्या । वस्ते । पुरुरूपा । वपूंषि । ऊर्ध्वा । तस्थौ । त्रिअपिं । रेरिहाणा ।  
+> यतस्य । सद्म । वि । चरामि । विद्वान् । महत् । देवानां । असुरत्वं । एकं ॥ १४ ॥
+
+> *padyā | vaste | pururūpā | vapūṃṣi | ūrdhvā | tasthau | triapiṃ | rerihāṇā |*  
+> *yatasya | sadma | vi | carāmi | vidvān | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पद्या । जगत्प्रष्टुः परमेश्वरस्य पद्भां जातत्वात्पद्या भूमिः । तथा च मंत्रवर्णः । पद्भां भूमिः । ऋग्वे. १०-९० १४ । इति । यद्वा । पादसंचारे साधुः
+> पद्या भूमिः पुरुरूपा नानाविधस्वरूपाणि वपूंषि स्थावरजंगमात्मकानि रूपाणि
+> वस्ते । आच्छादयति । सैषा भूमिरूर्ध्वोत्तरवेद्यात्मनोन्नता सती स्वसारभूतेन
+> हविषा त्रैविं । सार्धसंवत्सरवयस्को वत्सस्त्रविरित्युच्यते । तत्प्रमाणमादित्यं ।
+
+##### Gist of the bhāṣya
+
+"Padyā": the earth is padyā because she was born from the feet (pad) of the Lord, the creator of the world. So the mantra says पद्भां भूमिः (*padbhāṃ bhūmiḥ*) (Ṛg. 10-90-14). Or else: the earth is padyā as being good for movement on foot. Padyā, the earth, wears (vaste) manifold bodies, forms of the nature of the unmoving and the moving; that is, she covers them. This earth, standing high as the northern altar, with the oblation that is her own essence **NOTE**, (licks) the "trayavi": a calf of one and a half years is called travi; Āditya is of that measure.
+
+### Printed p. 304
+
+> श्रीन् लोकानवति स्वतेजसा व्याप्पोतीति त्र्यविरिति वा । रेरिहाणा लिहती तस्थौ ।
+> ऋतस्य सत्यभूतस्यादित्यस्य सद्म स्थानं विद्वान् जानानोऽहं वि चरामि । हविर्भिस्तमादित्यं परिचरामि ॥ पद्या । पादशब्दाव्यवे छंदसीति यत् । पद्यत्यतदर्थे । पा-
+> ६-३-५३ । इति पादस्य पद्भावः । यद्वा । तत्र साधुरिति यत् । यतोऽनाथ इत्याद्युदात्तत्वं । त्र्यविं । अव रक्षणादिसु । इन्नितीन्प्रत्ययः । कृत्सरः । रेरिहाणा । लिह
+> आस्वादन इत्यस्य यज्‌लुकि शानचि रूपं । अभ्यस्तस्वरः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) Or "trayavi" because he protects the three worlds, pervading them with his own splendour. Licking (rerihāṇā), she stands. Knowing the seat, the abode, of ṛta, that is, of Āditya who is truth, I move about: I serve that Āditya with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पद्मा (*padmā*)—the earth **NOTE**
+- पुरुरूपा (*pururūpā*)—of manifold forms
+- वपूंषि (*vapūṃṣi*)—forms of the nature of the unmoving and the moving
+- वस्ते (*vaste*)—she wears
+- ऊर्ध्वा (*ūrdhvā*)—from a high place in the form of the northern altar
+- त्रैविं (*traiviṃ*)—Āditya, who is like a son of one and a half years **NOTE**
+- रेरिहाणा (*rerihāṇā*)—licking by means of the oblation
+- तस्थौ (*tasthau*)—she stands
+- यतस्य (*yatasya*)—of Āditya, who is of the nature of truth **NOTE**
+- सद्म (*sadma*)—the abode
+- विद्वान् (*vidvān*)—I who know
+- वि चरामि (*vi carāmi*)—I worship him
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and without a second
+
+##### भावार्थ (Bhāvārtha)
+
+The earth wears forms of many kinds, of the nature of the unmoving and the moving. From a high place in the form of the northern altar she stands licking, by means of the oblation, Āditya, who is like a son of one and a half years. I, who know the abode of Āditya, who is of the nature of truth, worship him with oblations. The might of the gods is great and without a second.
+
+##### English translation (H. H. Wilson)
+The earth wears bodies of many forms : she abides on high cherishing her year and a half old (calf) : knowing the abode of the truth (the sun), I offer worship : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the earth, जगत्प्रष्टुः परमेश्वरस्य पद्भ्यां जातत्वात् (*jagatpraṣṭuḥ parameśvarasya padbhyāṃ jātatvāt*), since she was born from the feet of the Supreme Lord who made the whole universe, is designated by the word padyā. On this point the mantra is also cited: पद्भ्यां भूमि (*padbhyāṃ bhūmi*) (Ṛ. Saṃ. 10-90-14). Or else, पादसंचारे साधुः (*pādasaṃcāre sādhuḥ*): because she has made for all living beings a way fit for moving about on their own feet, the word padyā is used in the sense of the earth.
+
+### Printed p. 305
+
+For the things born of her, this earth, पुरुरूपा वपूंषि वस्ते (*pururūpā vapūṃṣi vaste*), makes bodies furnished with manifold forms, fixed or moving, and covers their true nature.
+
+त्रैविं—सार्थसंवत्सरवयस्कः वत्सः (*traiviṃ—sārthasaṃvatsaravayaskaḥ vatsaḥ*): the meaning is given as a calf one and a half years old. Or त्री लोकान् अवति स्वतेजसा व्याप्न्नोति (*trī lokān avati svatejasā vyāpnnoti*): he is explained as the one who pervades and protects the three worlds with his splendour.
+
+ऊर्ध्वा—उत्तरवेदात्मना उन्नता । (*ūrdhvā—uttaravedātmanā unnatā |*) This earth is described as standing high in the sacrificial hall in the form of the northern altar, and as satisfying, with the oblations (by the offering of the oblation), Āditya, denoted by the word travi, who is of the measure of a calf of one and a half years.
+
+The sacrificer, who knows the true nature of this Āditya and the dwelling-place where he abides, offers oblations to Āditya; and the might of the gods is described as unequalled and full of greatness.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒दे इ॑व॒ निहि॑ते द॒स्मे ं॒तस्तयो॑र॒न्यद्गुह्य॑मा॒विर॒न्यत् ।  
+> स॒ध्री॒ची॒ना प॒थ्या॒३॒॑सा विषू॑ची म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *pade iva nihite dasme ṃtastayoranyadguhyamāviranyat |*  
+> *sadhrīcīnā pathyāsā viṣūcī mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पदे इवेति पदेऽइव । निहिते इति निहिते । दस्मे । अंतरिति । तयोः। अन्यत् । गुह्यं।  
+> आविः । अन्यत् ।  
+> सध्रीचीना। पथ्या । सा । विषूची । महत् । देवनां । असुरत्वं । एकं ॥ ८५ ॥
+
+> *pade iveti pade 'iva | nihite iti nihite | dasme | aṃtariti | tayoḥ| anyat | guhyaṃ|*  
+> *āviḥ | anyat |*  
+> *sadhrīcīnā| pathyā | sā | viṣūcī | mahat | devanāṃ | asuratvaṃ | ekaṃ ‖ 85 ‖*
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पदे इव । पद्येते ज्ञायेते तत्तदसाधारणलिंगेनेति पदे । अहश्च रात्रिश्चेत्येते दस्मे सर्वैर्दर्शनीये ते उभे अंतर्नभसि मध्ये निहिते स्थापिते इव
+> वर्तेते । तयोरहोरात्रयोरन्यद्रात्रिलक्षणं गुह्यमप्रकाशमानतॆया गूढमि-
+
+##### Gist of the bhāṣya
+
+"Padye iva": the two are known (padyete) by their respective distinctive marks, hence "pade". Day and night, these two, "dasme", visible to all, stand, as it were, placed (nihite) within the sky, in the middle. Of the two, day and night, the other, that of the nature of night, is "guhya": hidden, because it does not shine… (the block breaks off here).
+
 ---
 
-**Progress note:** Done through printed p. 298. pp. 293-298 (batch API)
+**Progress note:** Done through printed p. 305. pp. 299-305 (batch API)
