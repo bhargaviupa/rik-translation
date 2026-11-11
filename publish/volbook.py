@@ -18,7 +18,8 @@ Front matter (the Vol 1 pattern, aligned to the volume's own scans):
                guru portrait | present-day placeholders | printed contents | body (Kannada text)
 English PDF (volN/pubcfg.json: front_en, contents_en, contents_target_overrides): translated board/preface/abbreviations/contents (frontmatter_en.json, contents_en.json), remarks as footnotes, Introduction heading, Om on printed p. 1.
 Body conversions done in memory only: missing '## Sūkta N' headings are supplied (pubcfg 'missing_headings'); every leftover
-⟦Kannada-script Sanskrit⟧ quotation (also multi-line) is converted to Devanagari + (IAST).
+⟦Kannada-script Sanskrit⟧ quotation (also multi-line) is converted to Devanagari + (IAST); every Saṃhitā and Pada block
+without an IAST run gets one (plain IAST, no accent signs; bhāṣya blocks stay Devanagari only: user decision, Nov 11 2026).
 """
 import re, sys, html, json, pathlib, subprocess
 PUB = pathlib.Path(__file__).resolve().parent
@@ -26,7 +27,7 @@ ROOT = PUB.parent
 sys.path.insert(0, str(ROOT / 'publish' / 'tools' / 'translit'))
 sys.path.insert(0, str(ROOT / 'publish' / 'tools' / 'frontmatter'))
 from kannada_to_deva import kn2deva
-from add_iast import deva_to_iast
+from add_iast import deva_to_iast, process as add_iast_process
 import contents_parse
 
 KN = re.compile('[ಀ-೿]')
@@ -41,6 +42,12 @@ def convert_inline(md):
         d = kn2deva(re.sub(r'\s*\n\s*', ' ', s).strip())
         return f'{d} (*{deva_to_iast(d)}*)'
     return re.sub(r'⟦([^⟧]*)⟧', rep, md), n[0]
+
+def add_block_iast(md):
+    """Saṃhitā and Pada blocks without an IAST run get one, in memory only (blocks that already have it are left alone)."""
+    before = md.count('\n> *')
+    out = '\n'.join(add_iast_process(md.split('\n'), ('संहितापाठः', 'पदपाठः')))
+    return out, out.count('\n> *') - before
 
 def add_missing_headings(md, specs):
     out, done = [], set()
@@ -340,7 +347,8 @@ def build_eng(cfg, html_only):
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
     md, added = add_missing_headings(md, cfg.get('missing_headings', []))
     md, nconv = convert_inline(md)
-    print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; ⟦ left: {md.count("⟦")}')
+    md, niast = add_block_iast(md)
+    print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; IAST lines added to Saṃhitā/Pada blocks: {niast}; ⟦ left: {md.count("⟦")}')
     body = pandoc_html(md)
     body, nv = mark_samhita(body); print(f'[eng] verses set in the spaced Saṃhitā style: {nv}')
     toc, st = [], {'n': 0}
