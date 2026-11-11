@@ -10054,6 +10054,327 @@ Wielder of the thunderbolt, come to us with wondrous, irreproachable, irresistib
 
 O Indra, we, the friends and praisers of a god like you, possessed of cows, are united to great food (वाजाय (*vājāya*)) for फृष्टये (*phṛṣṭaye*); may we be well so (भूयामो (*bhūyāmo*)), may we indeed be.
 
+### Printed p. 272
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- त्वावतः (*tvāvataḥ*)—of one like you
+- गोमतः (*gomataḥ*)—endowed with cattle
+- सखायः (*sakhāyaḥ*)—as friends
+- फृष्टये (*phṛṣṭaye*)—great
+- वाजाय (*vājāya*)—for food
+- युजः (*yujaḥ*)—all of us joining together
+- सु (*su*)—in a good state
+- भूयामो (*bhūyāmo*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for the sake of abundant food, may we all join together and become friends of the deity who is like you and endowed with cattle, and for that very reason may we all be in a good state.
+
+##### English translation (H. H. Wilson)
+May we, Indra, be the friends of one like you, possessed of cattle, allied (to him) for (the sake of ) abundant food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्येक॒ ईशि॑ष॒ इंद्र॒ वाज॑स्य॒ गोम॑तः ।  
+> स नो॑ यंधि म॒हीमिषं॑ ॥ ७ ॥
+
+> *tvaṃ hyeka īśiṣa iṃdra vājasya gomataḥ |*  
+> *sa no yaṃdhi mahīmiṣaṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । एकः । ईशिषे । इंद्र । वाजस्य । गोऽमतः ।  
+> सः । नः । यंधि । महीं । इषं ॥ ७ ॥
+
+> *tvaṃ | hi | ekaḥ | īśiṣe | iṃdra | vājasya | go 'mataḥ |*  
+> *saḥ | naḥ | yaṃdhi | mahīṃ | iṣaṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हि यस्मात्कारणात्त्वमेक एव गोमतो गोभिर्युक्तस्य वाजस्यान्नस्येशिषे । प्रभवसि । अशः कारणात्स त्वं नोऽस्मभ्यं महीं महतीमिषमन्नं
+> यंधि । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, because you alone are lord (ईशिषे (*īśiṣe*)) of food (वाजस्य (*vājasya*)) combined with cattle, therefore you, for us, give (यंधि (*yaṃdhi*), "bestow") great, abundant food (इषं (*iṣaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—Indra
+- हि (*hi*)—for which reason
+- त्वं (*tvaṃ*)—you
+- एकः (*ekaḥ*)—alone
+- गोमतः (*gomataḥ*)—endowed with cattle
+- वाजस्य (*vājasya*)—of food
+- ईशिषे (*īśiṣe*)—you are lord (and therefore)
+- सः (*saḥ*)—such a you
+- नः (*naḥ*)—to us
+- महीं (*mahīṃ*)—abundant
+- इषं (*iṣaṃ*)—food
+- यंधि (*yaṃdhi*)—provide
+
+### Printed p. 273
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone are lord over food together with cattle. Therefore you alone are able to give us abundant food.
+
+##### English translation (H. H. Wilson)
+For you alone, Indra, are lord over food combained with cattle; therefore grant us ample food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वा॑ वरंते अ॒न्यथा॒ यद्दित्स॑सि स्तु॒तो म॒घं ।  
+> स्तो॒तृभ्य॑ इंद्र गिर्वणः ॥ ८ ॥
+
+> *na tvā varaṃte anyathā yadditsasi stuto maghaṃ |*  
+> *stotṛbhya iṃdra girvaṇaḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ह । त्वा । वरंते । अन्यथा । यत् । दित्ससि । स्तुतः । मघं ।  
+> स्तोतृत्वं । इंद्र । गीर्वणा ॥ ८ ॥
+
+> *ha | tvā | varaṃte | anyathā | yat | ditsasi | stutaḥ | maghaṃ |*  
+> *stotṛtvaṃ | iṃdra | gīrvaṇā ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गिर्वणो गिरां संभक्तः स्तुतोऽस्माभिः संस्तुतो यद्यदा स्तोतृभ्योऽस्मध्यं मघं धनं दित्ससि । दातुमिच्छसि । तदा त्वा श्वाम्यथा प्रकारांतरेण न
+> वरंते । न निवारयंति । किंतु सर्वेऽप्यनुकूला एव भवंति ॥
+> । प्रणमः ।
+> इंद्र—ऎलै इंद्रने । गिर्वणः—स्तुतिगॆ पात्रनू । स्तुतः—नम्मिंद स्तुतिसल्पडुववनू
+> आद नीनु । यत्—यावाग । स्तोतृभ्यः—स्तोतृगळाद नमगॆ । मघं—धनवन्नु ।
+> दिश्लषि—कॊडलिच्छिसुत्तीयो आग । त्वा—निन्नन्नु । अस्यथा—बेरॆ विधदल्लि । न परंते—
+> यारू तडॆयुवुदिल्ल.
+> 19
+> 18
+
+##### Gist of the bhāṣya
+
+O Indra, lover of hymns (गिर्वणः (*girvaṇaḥ*), "sharer of speech"), when, praised by us, you wish to give wealth (मघं (*maghaṃ*)) to us the praisers, then others do not hold you back in any other way; rather all become favourable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गिर्वणः (*girvaṇaḥ*)—worthy of praise
+- स्तुतः (*stutaḥ*)—one praised by us
+- यत् (*yat*)—when
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us the praisers
+- मघं (*maghaṃ*)—wealth
+- दिश्लषि (*diślaṣi*)—you wish to give, then
+- त्वा (*tvā*)—you
+- अस्यथा (*asyathā*)—in another way
+- न परंते (*na paraṃte*)—no one restrains **NOTE**
+
+### Printed p. 274
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are worthy of praise and are praised by us: when you wish to give wealth to us the praisers, then no one restrains you in any other way.
+
+##### English translation (H. H. Wilson)
+None change your purpose, Indra, object of laudation, when, being praised, you desire to bestow wealth upon the praisers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॒ गोत॑मा गि॒रानू॑षत॒ प्र दा॒वने॑ ॥  
+> इंद्र॒ वाजा॑य॒ फृष्ट॑ये ॥ ९ ॥
+
+> *abhi tvā gotamā girānūṣata pra dāvane ‖*  
+> *iṃdra vājāya phṛṣṭaye ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । गोतमाः । गिरा । अनूषत । प्र । दावने ।  
+> इंद्र । वाजाय । फृष्टये ॥ ९ ॥
+
+> *abhi | tvā | gotamāḥ | girā | anūṣata | pra | dāvane |*  
+> *iṃdra | vājāya | phṛṣṭaye ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामभि लक्षीकृत्य गोतमा एतन्नामका ऋषयो गिरा स्तुतिरूपया वाचा दावने धनदानार्थं प्रानूषत । प्रकर्षेण स्तुवंति । फृष्टये महते
+> वाजायान्नाय प्रस्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the seers named Gotamas, aiming at you (त्वामभि (*tvāmabhi*)), with speech in the form of praise, praise you forth (प्रानूषत (*prānūṣata*), "extol") for the giving of wealth (दावने (*dāvane*)); they praise you forth also for great (फृष्टये (*phṛṣṭaye*)) food (वाजाय (*vājāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- अभि (*abhi*)—addressing
+- गोतमाः (*gotamāḥ*)—the seers named Gotama (we)
+- गिरा (*girā*)—with speech in the form of praise
+- दावने (*dāvane*)—for giving wealth
+- प्र अनूषत (*pra anūṣata*)—they praise fully
+- फृष्टये (*phṛṣṭaye*)—great
+- वाजाय (*vājāya*)—for food as well (they praise you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the seers famed as Gotamas (we) praise you fully in order to obtain wealth from you, and also in order to obtain abundant food.
+
+### Printed p. 275
+
+##### English translation (H. H. Wilson)
+The Gotamas glorify you, Indra, with praise, that you may grant wealth, and for the sake of abundant food.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ वोचाम वी॒र्या॒३॒॑ ३ या मं॑दसा॒न आरु॑जः ।  
+> पुरो॒ दासी॑र॒भीत्य॑ ॥ १० ॥
+
+> *pra te vocāma vīryā 3 yā maṃdasāna ārujaḥ |*  
+> *puro dāsīrabhītya ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । वोचाम । वीर्या । याः । मंदसानः । आ । अरुजः ।  
+> पुरः । दासीः । अभिइत्य ॥ १० ॥
+
+> *pra | te | vocāma | vīryā | yāḥ | maṃdasānaḥ | ā | arujaḥ |*  
+> *puraḥ | dāsīḥ | abhiitya ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मंदसानः सोमेन मोदमानस्त्वं दासीः क्षेपुरसुरस्य स्वभूता
+> याः पुरो यानि नगराण्यभीत्याभिगम्यारुजः । आ समंतादभांक्षीः । हे इंद्र
+> ते त्वदीयानि तत्रत्यानि वीर्या वीर्याणि वयं स्तोतारः प्र वोचाम ।
+> प्रकर्षेण वदाम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, exhilarated (मंदसानः (*maṃdasānaḥ*)) by Soma, approached and shattered completely (आरुजः (*ārujaḥ*)) the cities (पुरः (*puraḥ*)) that are the "servile" (दासीः (*dāsīḥ*)) possessions of the asura Kṣepu. O Indra, we the praisers proclaim forth (प्र वोचाम (*pra vocāma*)) your heroic deeds (वीर्या (*vīryā*)) done there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्र (*iṃdra*)—O Indra)
+- मंदसानः (*maṃdasānaḥ*)—you, gladdened by drinking Soma
+- दासीः (*dāsīḥ*)—belonging to the troublesome asuras
+- याः (*yāḥ*)—which
+- पुरः (*puraḥ*)—cities
+- अभीत्य (*abhītya*)—confronting and going
+- आ अरुजः (*ā arujaḥ*)—you destroyed completely
+- ते (*te*)—such, your
+- वीर्या (*vīryā*)—daring deeds
+- प्र वोचाम (*pra vocāma*)—we fully describe and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, gladdened by drinking Soma, confronted and completely destroyed the cities belonging to the troublesome asuras; such heroic deeds of yours we praise, describing them fully.
+
+### Printed p. 276
+
+##### English translation (H. H. Wilson)
+We proclaim your prowess, whereby exhilarated (by the Soma), and
+having gone against them, you have demolished the servile cities.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता ते॑ गृणंति वे॒धसो॒ यानि॑ च॒कर्थ॒ पौंस्या॑ ।  
+> सु॒तेश्विं॑द्र गिर्वणः ॥ ११ ॥
+
+> *tā te gṛṇaṃti vedhaso yāni cakartha pauṃsyā |*  
+> *suteśviṃdra girvaṇaḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । ते । गृणंति । वेधसः । यानि । चकर्थ । पौंस्या ।  
+> सुतेषु । इंद्र । गिर्वणः ॥ ११ ॥
+
+> *tā | te | gṛṇaṃti | vedhasaḥ | yāni | cakartha | pauṃsyā |*  
+> *suteṣu | iṃdra | girvaṇaḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गिर्वणो गिरां स्तुतिरूपाणां वाचां संभक्ता त्वं यानि पौंस्या
+> पौंस्यानि बलानि चकर्थ । कृतवानसि । हे इंद्र वेधसः प्राज्ञाः सुतेष्वभिषुतेषु
+> सोमेषु ते त्वदीयानि ता तानि बलानि गृणंति । कीर्तयंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lover of hymns (गिर्वणः (*girvaṇaḥ*)), the manly powers (पौंस्या (*pauṃsyā*)) that you have performed—those powers of yours the wise (वेधसः (*vedhasaḥ*)) proclaim (गृणंति (*gṛṇaṃti*), "celebrate") when the Soma juices have been pressed (सुतेषु (*suteṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गिर्वणः (*girvaṇaḥ*)—you, worthy of praise
+- यानि (*yāni*)—whichever
+- पौंस्या (*pauṃsyā*)—heroic deeds that show the mark of manhood
+- चकर्थ (*cakartha*)—you have done
+- ते (*te*)—such
+- ता (*tā*)—those heroic deeds of yours
+- वेधसः (*vedhasaḥ*)—the wise
+- सुतेषु (*suteṣu*)—at the time of pressing and offering Soma
+- गृणंति (*gṛṇaṃti*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are worthy of praise: whichever heroic deeds showing the mark of manhood you have done, those heroic deeds of yours the wise praise at the time of pressing Soma and offering it to you.
+
+### Printed p. 277
+
+##### English translation (H. H. Wilson)
+The pious celebrate your manly exploits, Indra, object of laudation when the juices (of the Soma) are effused.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवी॑वृधंत॒ गोत॑मा॒ इंद्र॒ त्वे स्तोम॑वाहसः ।  
+> ऐषु॑ धा वी॒रव॒द्यशः॑ ॥ १२ ॥
+
+> *avīvṛdhaṃta gotamā iṃdra tve stomavāhasaḥ |*  
+> *aiṣu dhā vīravadyaśaḥ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवीवृधंत । गोतमाः । इंद्र । त्वे इति । स्तोमवाहसः ॥  
+> आ । एषु । धाः । वीर्ववत् । यशः ॥ १२ ॥
+
+> *avīvṛdhaṃta | gotamāḥ | iṃdra | tve iti | stomavāhasaḥ ‖*  
+> *ā | eṣu | dhāḥ | vīrvavat | yaśaḥ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तोमवाहसः स्तोमानां स्तोत्राणां वोढारो गोतमा ऋषयो हे
+> इंद्र त्वे त्वामवीवृधंत । स्तोत्रैर्वर्धयंति । त्वमेषु गोतमेषु वीरवत्पुत्रपौत्रादियुक्तं यशोऽन्नमा धाः । निधेहि ॥
+
+##### Gist of the bhāṣya
+
+The seers, the Gotamas, bearers (*voḍhāraḥ*) of hymns (स्तोमवाहसः (*stomavāhasaḥ*)), O Indra, have strengthened you (अवीवृधंत (*avīvṛdhaṃta*)) with their praises. Do you place (आ धाः (*ā dhāḥ*)) in these Gotamas fame, that is, food (यशः (*yaśaḥ*)), accompanied by heroes (वीरवत् (*vīravat*)), that is, by sons, grandsons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्तोमवाहसः (*stomavāhasaḥ*)—those who compose and offer praises
+- गोतमाः (*gotamāḥ*)—the Gotama seers
+- त्वे (*tve*)—you
+- अवीवृधंत (*avīvṛdhaṃta*)—praise in many ways
+- एषु (*eṣu*)—in these Gotamas
+- वीरवत् (*vīravat*)—accompanied by mighty sons, grandsons and so on
+- यशः (*yaśaḥ*)—food
+- आ धाः (*ā dhāḥ*)—fill up and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Gotama seers who compose and offer praises praise you in many ways. Provide these Gotamas with vigorous sons, grandsons and the like, and with food. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 271. pp. 266-271 (batch API)
+**Progress note:** Done through printed p. 277. pp. 272-277 (batch API)
