@@ -6079,6 +6079,246 @@ In the Ṛks त्वं शुष्णं वृजने प्रक्ष 
 ##### English translation (H. H. Wilson)
 Sushan's chief rival is Kutsa, who appears as battling against him, and as victor by the aid of Indra, who, for his sake tore from the Sun a wheel, prolonging the daylight and thus enabling, it may be assumed, Kutsa to turn the issue of the battle. The feat of Indra is several times mentioned and the fact that Kutsa is a real hero is suggested though not proved, by the fact that elsewhere he appears in hostile relation to Indra, just as Athithigva, who is normally the protege of Indra, in one or two places apyears
 
+### Printed p. 174
+In the reverse relation. It is true that it is not to be expected that a god, or a hero of divine dimensions, would be thus placed in opposition to the God, though, as the God is the uncertain Indra, the argument is by no means conclusive, Kutsa, in the case of his real personality must be a king, aud this is not inconsistent with his being called a seer : royal seers are not unknown :
+(Harwad Oriental Series Vol. 31. p. 130),
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं भूमि॑मददा॒मार्या॑या॒हं वृ॒ष्टिं दा॒शुषे॒ मर्त्या॑य ।  
+> अ॒हम॒पो अ॑नयं वावशा॒ना मम॑ दे॒वासो॒ अनु॒ केत॑मायन् ॥ २ ॥
+
+> *ahaṃ bhūmimadadāmāryāyāhaṃ vṛṣṭiṃ dāśuṣe martyāya |*  
+> *ahamapo anayaṃ vāvaśānā mama devāso anu ketamāyan ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । भूमिं । अददां । आर्याय । अहं । वृष्टिं । दाशुषे । मर्त्याय ।  
+> अहं । अपः । अनयं । नावशानाः । मम । देवासः । अनु । केतं । आयन् ॥ २ ॥
+
+> *ahaṃ | bhūmiṃ | adadāṃ | āryāya | ahaṃ | vṛṣṭiṃ | dāśuṣe | martyāya |*  
+> *ahaṃ | apaḥ | anayaṃ | nāvaśānāḥ | mama | devāsaḥ | anu | ketaṃ | āyan ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं वामदेव इंद्रो वा आर्याय मनवे भूमिं पृथ्वीमददां ।
+> दत्तवानस्मि । दाशुषे हविर्दत्तवते मर्त्याय मनुष्याय यजमानाय वृष्टिं
+> सस्याद्यभिवृद्ध्यर्थं वृष्टिलक्षणमुदकमहमेवाददां । किंच अहं वावशानाः
+> शब्दायमाना अप उदकान्यनयं । सर्वमपि प्रदेशमगमयं । देवासो
+> वह्न्यादयो देवा मम केतं मदीयं संकल्पमन्वायन् । अनुयंति ॥
+
+##### Gist of the bhāṣya
+
+"I", Vāmadeva (or Indra), have given the earth to Āryā, that is, to Manu. To the mortal, the human sacrificer who has given the oblation, I have given rain, water in the form of rain, for the growth of crops and the like. Further, I have led forth the "vāvaśānāḥ", the sounding waters, and made them reach every region. The gods, Agni and the others, follow my "keta", my resolve.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, Vāmadeva
+- आर्याय (*āryāya*)—to the venerable Manu
+- भूमिं (*bhūmiṃ*)—the earth
+- अददां (*adadāṃ*)—have given
+- दाशुषे (*dāśuṣe*)—for the one who offers oblations
+- मर्त्याय (*martyāya*)—and is a human, the sacrificer
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- अहं (*ahaṃ*)—I myself have poured it down
+- अहं (*ahaṃ*)—I myself
+- वावशानाः (*vāvaśānāḥ*)—the sounding
+- अपः (*apaḥ*)—waters
+- अनयं (*anayaṃ*)—have spread in all regions
+
+### Printed p. 175
+- देवासः (*devāsaḥ*)—the gods, Agni and the others, also
+- मम (*mama*)—my
+- केतं (*ketaṃ*)—command (resolve)
+- अनु आयन् (*anu āyan*)—observe (carry out)
+
+##### भावार्थ (Bhāvārtha)
+
+I, who am called Vāmadeva, have given the earth to the venerable Manu. For the sacrificer, a human who offers oblations, it is I who have poured down rain. It is I too who have spread the sounding waters so that they flow in all regions. All the gods, Agni and the rest, follow my resolve.
+
+##### English translation (H. H. Wilson)
+I gave the earth to the venerable (Manu): I have bestowed rain upon the mortal who presents (oblations); I have let forth the sounding waters: the gods obey my will.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं पुरो॑ मंदसा॒नो वै॑रं॒ नव॑ सा॒कं न॑व॒तीः शंब॑रस्य ।  
+> श॒त॒त॒मं वे॒श्यं॑ स॒र्वता॑ता॒ दिवो॑दासमतिथि॒ग्वं यदावं॑ ॥ ३ ॥
+
+> *ahaṃ puro maṃdasāno vairaṃ nava sākaṃ navatīḥ śaṃbarasya |*  
+> *śatatamaṃ veśyaṃ sarvatātā divodāsamatithigvaṃ yadāvaṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । पुरः । मंदसानः । वि । ऐरं । नव । साकं । नवतीः । शंबरस्य ।  
+> शततमं । वेश्यं । सर्वताता । दिवःसदासं । अतिथिग्वं । यत् । आवं ॥ ३ ॥
+
+> *ahaṃ | puraḥ | maṃdasānaḥ | vi | airaṃ | nava | sākaṃ | navatīḥ | śaṃbarasya |*  
+> *śatatamaṃ | veśyaṃ | sarvatātā | divaḥsadāsaṃ | atithigvaṃ | yat | āvaṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं वामदेव इंद्रो ना मंदसानः सोमेन माद्यन्नव नवसंख्याका
+> नवतीर्नवतिसंख्याकाश्च शंबरस्यैतत्नामकस्यासुरस्य संबंधीनि पुरः पुराणि साकं
+> युगपदेव वैरं । अध्वंसयं । शततमं शतसंख्यापूरणं पुरं वेश्यं दिवोदासनान्ने प्रवेशार्हमकरवं । सर्वताता सर्वतात् यज्ञेऽतिथिग्वमतिथीनामभिगंतारं दिवोदासं दिवोदासनामकं राजर्षिं यदावं अपालयं । तदा पुरो
+> वैरमिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+I, Vāmadeva, or Indra, exhilarated by Soma, destroyed at one stroke nine and ninety cities belonging to the asura named Śambara. The hundredth city I made fit for Divodāsa to enter. When I protected, at the sacrifice ("sarvatātā"), Divodāsa, the royal seer of that name, the "atithigva", the one who goes to meet guests, then I destroyed the cities: this is the connection with the earlier words.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सर्वताता (*sarvatātā*)—in the sacrifice that protects all
+
+### Printed p. 176
+- अतिथिग्वं (*atithigvaṃ*)—who receives guests
+- दिवोदासं (*divodāsaṃ*)—the royal seer named Divodāsa
+- यत् (*yat*)—when
+- आवं (*āvaṃ*)—he protected (then)
+- अहं (*ahaṃ*)—I, famed as Vāmadeva (or I who am Indra in nature)
+- मंदसानः (*maṃdasānaḥ*)—gladdened by drinking Soma
+- शंबरस्य (*śaṃbarasya*)—belonging to the asura Śambara
+- नव नवतीः (*nava navatīḥ*)—nine and ninety in number
+- पुरः (*puraḥ*)—cities
+- साकं (*sākaṃ*)—together
+- वैरं (*vairaṃ*)—destroyed
+- शततमं (*śatatamaṃ*)—the hundredth city
+- वेश्यं (*veśyaṃ*)—I made fit for Divodāsa to enter
+
+##### भावार्थ (Bhāvārtha)
+
+When I, famed as Vāmadeva (Indra in nature), protected, at the sacrifice that protects all, the royal seer Divodāsa who honours guests, then, gladdened by drinking Soma, I destroyed together the ninety-nine cities belonging to the asura Śambara. And the hundredth city I made fit for Divodāsa to dwell in.
+
+##### English translation (H. H. Wilson)
+Exhilarated (by the soma beverage) I have destroyed the ninety and nine cities of Shambara; the hundredth I gave to be occupied by Divo-dasa when I protected him, Atithigva, at his sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+शंबरं (*śaṃbaraṃ*) (अहन् (*ahan*))—Śambara, the enemy of Indra, is spoken of in Ṛgveda-saṃhitā verses such as 1-51-6, 1-54-4, 1-59-6, 1-103-8, 1-112-14 and 1-130-7. His name usually occurs together with the asuras Śuṣka, Pipru and Varcī.
+(Ṛ. Saṃ. 6-26-5)
+In this verse he is called a "dāsa".**NOTE**
+दिवोदासाय नवतिं च नवेंद्रः पुरो वैरच्छंबरस्य । (*divodāsāya navatiṃ ca naveṃdraḥ puro vairacchaṃbarasya |*)
+(Ṛ. Saṃ. 2-19-6)
+अध्वर्यवो यः शतं शंबरस्य पुरो बिभेदाश्मनेव पूर्विः । (*adhvaryavo yaḥ śataṃ śaṃbarasya puro bibhedāśmaneva pūrviḥ |*)
+(Ṛ. Saṃ. 2-14-6)
+
+### Printed p. 177
+In verses of this kind it is described that Divodāsa was a close friend of Indra and an everlasting enemy of Śambara, and that for that king Divodāsa Indra overthrew all the ninety-nine, a hundred (that is, countless) forts of Śambara and took his possessions into his own hands. Likewise:
+अतिथिग्वाय शंबरं गिरेरुग्रो अवाभरत् । (*atithigvāya śaṃbaraṃ girerugro avābharat |*)
+(Ṛ. Saṃ. 1-130-7)
+उत दासं कौलितरं बृहतः पर्वतादधि । अवाहन्निंद्र शंबरं ॥ (*uta dāsaṃ kaulitaraṃ bṛhataḥ parvatādadhi | avāhanniṃdra śaṃbaraṃ ‖*)
+(Ṛ. Saṃ. 4-30-14)
+अव गिरेर्दासं शंबरं हन्त्रावो दिवोदासं चित्राभिरूती ॥ (*ava girerdāsaṃ śaṃbaraṃ hantrāvo divodāsaṃ citrābhirūtī ‖*)
+(Ṛ. Saṃ. 6-26-5)
+From such verses it is made known that Śambara, hiding in the hills and mountains, caused great harm to Atithigva and Divodāsa, and so Indra destroyed him and gave both of them his protection. In the same way the slaying of Śambara is told in many other places.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु ष विभ्यो॑ मरुतो॒ विर॑स्तु॒ प्रश्ने॒नः श्ये॒नेभ्य॑ आशु॒पत्वा॑ ।  
+> अ॒च॒क्रया॒ यत्स्व॒धया॑ सुप॒र्णो ह॒व्यं भर॒न्मन॑वे दे॒वजु॑ष्टं ॥ ४ ॥
+
+> *pra su ṣa vibhyo maruto virastu praśnenaḥ śyenebhya āśupatvā |*  
+> *acakrayā yatsvadhayā suparṇo havyaṃ bharanmanave devajuṣṭaṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । सः । विभ्यः । मरुतः । विः । अस्तु । प्र । श्येनः । श्येनेभ्यः । आशुपत्वा ।  
+> अचक्रया । यत् । स्वधया । सुपर्णः । हव्यं । भरत् । मनवे । देवजुष्टं ॥४॥
+
+> *pra | su | saḥ | vibhyaḥ | marutaḥ | viḥ | astu | pra | śyenaḥ | śyenebhyaḥ | āśupatvā |*  
+> *acakrayā | yat | svadhayā | suparṇaḥ | havyaṃ | bharat | manave | devajuṣṭaṃ ‖4‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथैतदादिभिः श्येनः स्तूयते । हे मरुतो वेगेन मरुत्सदृशाः पक्षिणः स
+> प्रसिद्धः श्येनाख्यो विः पक्षी विभ्यः पक्षिभ्यो युष्मत्तः प्र सु आस्तु । बलेन प्रकृष्टो
+> भवतु । किंच श्येनेभ्यः शंसनीयगमनेभ्यः स्वसमानजातिभ्यः पक्षिभ्यः सकाशादाशुपत्वाशुपतनः शीघ्रगामिा श्येनः प्रकृष्टो भवतु । सुपर्णः शोभनपतनो यद्यदा
+> 12
+
+##### Gist of the bhāṣya
+
+Now the hawk is praised with this verse and those that follow. O Maruts, you are like the wind in speed, and you are birds. May that well-known hawk, the bird called Śyena, be pre-eminent in strength over the other birds, over you. Further, may the Śyena, swift in flight, be pre-eminent over the hawks of its own kind, whose going is praiseworthy. The Suparṇa, the one of fair flight, when…
+
+### Printed p. 178
+
+> सैमोऽचक्रया चक्रवर्जितया स्वधया रथेन देवजुष्टं देवैः सेवितं हव्यं
+> सोमलक्षणं हविर्मनवे प्रजापतये भरत् अहरत् द्युलोकसकाशादाहृतवान् ।
+> अत्र स्वधाशब्दो रथवाच्यचक्रया स्वधया वर्तमानमित्यादौ । ऋग्वे. १०-२७-१९ ।
+> दर्शनात् ॥
+
+##### Gist of the bhāṣya
+
+…with a wheelless "svadhā", a chariot, brought to Manu, that is Prajāpati, the oblation in the form of Soma, which the gods enjoy ("devajuṣṭa"); he fetched it from the world of heaven. Here the word "svadhā" denotes a chariot, because it is seen so used in "*acakrayā svadhayā vartamānam*" and similar places (Ṛgve. 10-27-19).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—by what power of its own
+- सुपर्णः (*suparṇaḥ*)—having excellent wings
+- श्येनः (*śyenaḥ*)—this hawk
+- अचक्रया (*acakrayā*)—wheelless
+- स्वधया (*svadhayā*)—by the chariot
+- देवजुष्टं (*devajuṣṭaṃ*)—enjoyed by the gods
+- हव्यं (*havyaṃ*)—the food in the form of Soma
+- मनवे (*manave*)—to Prajāpati in the form of Manu
+- भरत् (*bharat*)—carried (therefore)
+- आशुपत्वा (*āśupatvā*)—that moves swiftly
+- सः विः (*saḥ viḥ*)—that same hawk
+- श्येनेभ्यः विभ्यः (*śyenebhyaḥ vibhyaḥ*)—than the other hawks
+- प्र सु अस्तु (*pra su astu*)—let it be pre-eminent
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, by the power of its own with which this hawk, having excellent wings, carried to Prajāpati in the form of Manu, by a wheelless chariot, the food in the form of Soma that is fit to be enjoyed by the gods, for that very reason may the swiftly moving hawk be superior to the other hawks.
+
+##### English translation (H. H. Wilson)
+May this bird, Maruts, be pre-eniment over (other) hawks, since with a wheelless car the swift-winged bore the Soma, accepted by the gods to Manu.
+
+##### विशेषविषयगळु (Special Topics)
+
+मनुः (*manuḥ*)—Although the name of Manu is read in many places in the Ṛgveda, nowhere is much detail found. Manu is understood to be the guide of the human race in the order of performing sacrifices and the like. When he was dividing his property among his sons, his youngest son Nābhānediṣṭha was studying in the teacher's house as a celibate student, and so received no share of the inheritance. When he finished his studies and came and asked his father about his share, Manu sent him away saying: go to the place where the Aṅgiras seers are performing a sacrifice and teach them some mantras; they will give you wealth as much as you wish. This account is set out in the Aitareya Brāhmaṇa and in the Yajurveda Taittirīya Saṃhitā
+
+### Printed p. 179
+. Chiefly because the sacrifice performed by this Manu is famous, the Ṛgveda mentions here and there the sacrifice made by Manu. The matter of this Manu is told not only in the Ṛgveda but in the Atharvaveda (14-2-41), the Taittirīya Saṃhitā (1-5-1-3; 7-5-15-3; 2-5-9-1; 2-6-7-1; 3-3-2-1; 5-4-10-5; 6-6-6-1), the Kāṭhaka Saṃhitā (8-15), the Śatapatha Brāhmaṇa (1-1-4-14), the Jaiminīya Upaniṣad Brāhmaṇa (3-15-2) and other places. Manu has many names: Vivasvān (Ṛ. Saṃ. 8-52-1); Vaivasvata, because he is the son of Vivasvant (a god) (Atha. 8-10-24; Śa. Brā. 13-4-3-3); Sāvarṇi, because he is a descendant of Suvarṇā; and Sāṃvaraṇi, because he is a descendant of Saṃvaraṇa (Ṛ. Saṃ. 8-51-1).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भर॒द्यदि॒ विरतो॒ वेवि॑जानः प॒थोरुणा॒ मनो॑जवा असर्जि ।  
+> तूयं॑ ययौ॒ मधु॑ना सो॒म्येनो॒त श्रवो॑ विविदे ॒ ॑
+> श्येनो अत्र ॥ ५ ॥
+
+> *bharadyadi virato vevijānaḥ pathoruṇā manojavā asarji |*  
+> *tūyaṃ yayau madhunā somyenota śravo vivide*  
+> *śyeno atra ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भरत् । यदि । विः । अतः । वेविजानः । पथा । उरुणा । मनःजवाः । असर्जि ।  
+> तूयं । ययौ । मधुना । सोम्येन । उत । श्रवः । विविदे । श्येनः । अत्र ॥ ५ ॥
+
+> *bharat | yadi | viḥ | ataḥ | vevijānaḥ | pathā | uruṇā | manaḥjavāḥ | asarji |*  
+> *tūyaṃ | yayau | madhunā | somyena | uta | śravaḥ | vivide | śyenaḥ | atra ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदि यदा विः पक्षी श्येनोऽतोऽमुष्माद्दुलोकाद्वेविजानः सोमपालकान् भीषयन् भरत् । अहरत् । सोममाहृतवान् । तदोरुणा विस्तीर्णेन
+> पथांतरिक्षमार्गेण मनोजना मनोवद्वेगयुक्तः सन् असर्जि । संसृष्ट आसीत् ।
+> सोम्येन सोममयेन मधुनान्नेन सह तूयं क्षिप्रं ययौ । जगाम ।
+> उतापि च आत्रास्मिन् लोके त्येनः सुपर्णः श्रवः सोमाहरणनिमित्तं यशो
+> विविदे । लेभे ॥
+
+##### Gist of the bhāṣya
+
+When the bird, the hawk, frightening the guardians of the Soma, fetched Soma from that heaven, then it was released ("asarji"), joined, moving along the broad path, the atmospheric way, endowed with speed like that of the mind. With the sweet food of Soma, belonging to Soma, it went swiftly. And here, in this world, the hawk, the Suparṇa, gained fame ("śravas") on account of the carrying off of the Soma.
+
 ---
 
-**Progress note:** Done through printed p. 173. pp. 168-173 (batch API)
+**Progress note:** Done through printed p. 179. pp. 174-179 (batch API)
