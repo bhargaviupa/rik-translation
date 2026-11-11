@@ -1866,6 +1866,268 @@ Descend to us riding in your car, for verily yours is this ancient libation ; un
 > *imā hi tvā matayaḥ stomataṣṭā iṃdra havaṃte sakhyaṃ*  
 > *juṣāṇāḥ ‖ 2 ‖*
 
+### Printed p. 51
+#### Ṛk 2
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । पूर्विः । अति । चर्षणीः । आ । अर्यः । आशिषः । उपॆ । नः । हरिभ्यां ।  
+> इमाः । हि । त्वा । मतयः । स्तोमतष्टाः । इंद्र । हवंते । सख्यं । जुषाणाः ॥ २ ॥
+
+> *ā | yāhi | pūrviḥ | ati | carṣaṇīḥ | ā | aryaḥ | āśiṣaḥ | upè | naḥ | haribhyāṃ |*  
+> *imāḥ | hi | tvā | matayaḥ | stomataṣṭāḥ | iṃdra | havaṃte | sakhyaṃ | juṣāṇāḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र, पूर्वीः सर्वाश्चर्यणीः प्रजा अत्या याहि । अतिक्रम्यागच्छ । द्वितीय
+> आज् पूरणः । आर्योऽस्माकं स्वामी त्वं न आशिषस्वमत्रागत्य सोमं पिबेत्येवमादिका अस्माकं प्रार्थना हरिभ्यामश्वाभ्यां युक्तः सन् उपागच्छ । किंच ते तव
+> सख्यं जुषाणाः सेवमानाः स्तोमतष्टाः स्तोमकारिभिः स्तोतृभिः कृता इमा
+> मतयः स्ततयो हवंते । सोमपानार्थं त्वामाह्वयंति । हि प्रसिद्धौ । करणे
+> कर्तृव्यापारः । काष्ठानि पचंतीतिवत् ॥ आ । संहितायामाजोऽनुनासिकश्चंदसीत्यनुनासिकः । आर्यः । ऋ गतौ । अर्यः । स्वामिवैश्ययोरिति निपातनाद्यत्पत्ययः ।
+> यतोऽनाव इत्याद्युदात्तत्वे प्राप्तेऽर्यस्य स्वाम्याख्या चेत् । फि १-१८ । इत्यंतोदात्तत्वं । आशिषः । क्लिपि शास इदज् हलोरित्युपधाया इत्वं । शासिवसिघसीनाचेति षत्वं । स्तोमतष्टाः । तक्षू त्वक्कू तनूकरण इत्यस्मात्कर्मणि क्तः । तृतीया
+> कर्मणीति पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra: "O Indra, pass beyond all the peoples (चर्षणीः (*carṣaṇīḥ*) = prajāḥ) and come to us." Aryaḥ means our lord. "Our prayers (आशिषः (*āśiṣaḥ*)) are of this kind: 'Come here and drink the Soma'. Accepting them, come to us yoked with your two horses." Further, these hymns (मतयः (*matayaḥ*), praises), fashioned by the praisers, desiring your friendship, invoke you for the drinking of Soma. हि (*hi*) is the well-known particle. The action of the doer is attributed to the instrument, as in "the firewood cooks". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूर्वीः (*pūrvīḥ*)—all
+- चर्षणीः (*carṣaṇīḥ*)—the people
+- अति (*ati*)—passing beyond
+- आ याहि (*ā yāhi*)—graciously come to us
+- अर्यः (*aryaḥ*)—you, the venerable
+- नः (*naḥ*)—our
+- आशिषः (*āśiṣaḥ*)—accepting the prayers
+- हरिभ्यां (*haribhyāṃ*)—together with the horses
+- उप (*upa*)—come graciously
+- सख्यं (*sakhyaṃ*)—your friendship
+- जुषाणाः (*juṣāṇāḥ*)—desiring
+- स्तोमतष्टाः (*stomataṣṭāḥ*)—fashioned by the praisers
+- इमा मतयः (*imā matayaḥ*)—these praises
+- त्वा (*tvā*)—you
+- हवंते हि (*havaṃte hi*)—(for the drinking of Soma) call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, passing beyond all the peoples, graciously come to us. Venerable one, accept our prayers and come graciously together with your horses. These praises, which desire your friendship and are fashioned by the praisers, call you for the drinking of Soma.
+
+##### English translation (H. H. Wilson)
+Passing by multitudes, come hither, noble Indra, with your steeds,
+(to recive) our benedictions; for these praises, Indra, composed by the devout,
+invoke you, propitiating your friendship.
+
+### Printed p. 52
+
+##### विशेषविषयगळु (Special Topics)
+
+चर्षणी (*carṣaṇī*)—The explanation of this word has been given in detail on p. 49 of Part 2 of the Ṛgveda Saṃhitā. In many contexts this word means "seer". The meaning "man" is also indicated in many contexts. For words such as चर्षणि (*carṣaṇi*) and कृष्टि (*kṛṣṭi*) the meaning "man" is indicated not directly but through tradition. Even so, this meaning is well known in usage: in places such as Ṛ. Saṃ. 5, 86, 2 : 7, 15, 2; 9, 101, 9, the words पंचचर्षणयः (*paṃcacarṣaṇayaḥ*) and पंचकृष्टयः (*paṃcakṛṣṭayaḥ*) are in use instead of पंचजनाः (*paṃcajanāḥ*). When deities such as Agni and Indra have epithets such as चर्षणीनां पतिः (*carṣaṇīnāṃ patiḥ*) and चर्षणि नां राजा (*carṣaṇi nāṃ rājā*) there is also some breadth of meaning; the special meanings suited to such contexts were stated earlier. But in contexts such as 5-23-4, where this word occurs as an epithet of Agni in विश्वचर्षणिः (*viśvacarṣaṇiḥ*), the meaning "seer of all" is natural. In this way the meaning must be given according to each context.
+अर्यः (*aryaḥ*)—This word is read among the names of the Lord, such as राष्ट्री (*rāṣṭrī*) and अरः (*araḥ*) (Ni. 2-22). In this context it is rendered "venerable".
+आशिषः (*āśiṣaḥ*)—In common usage the word आशीः (*āśīḥ*) is used in the sense of elders wishing good for the young. But in the Ṛk Saṃhitā it is used in the senses of prayer and desired object. For example, where Ṛ. Saṃ. 1-179-6 says सत्या देवेष्वाशिषो जगाम (*satyā deveṣvāśiṣo jagāma*), the purport is that the sage Agastya obtained all his desired objects. In the same way, in the present Ṛk also the meaning is "our prayers".
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ य॒ज्ञं न॑मो॒वृधं॑ स॒जोषा॒ इंद्र॑ देव॒ हरि॑भिर्याहि॒  ॑
+> तूयं ।  
+> अ॒हं हि त्वा॑ म॒तिभि॒र्जोह॑वीमि घृ॒तप्र॑याः सध॒मादे॒  ॑
+> मधूनां ॥ ३ ॥
+
+> *ā no yajñaṃ namovṛdhaṃ sajoṣā iṃdra deva haribhiryāhi*  
+> *tūyaṃ |*  
+> *ahaṃ hi tvā matibhirjohavīmi ghṛtaprayāḥ sadhamāde*  
+> *madhūnāṃ ‖ 3 ‖*
+
+### Printed p. 53
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यज्ञं । नमःवृधं । सजोषां । इंद्र । देव । हरिभिः । याहि ।  
+> तूयं ।  
+> अहं । हि । त्व । मतिभिः । जोहवीमि । घ्प्तप्रयाः । सध्वमादे । मधूनां ॥ ३ ॥
+
+> *ā | naḥ | yajñaṃ | namaḥvṛdhaṃ | sajoṣāṃ | iṃdra | deva | haribhiḥ | yāhi |*  
+> *tūyaṃ |*  
+> *ahaṃ | hi | tva | matibhiḥ | johavīmi | ghptaprayāḥ | sadhvamāde | madhūnāṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देव द्योतमान हे इंद्र नोऽस्माकं नमोवृधं नमसोन्नस्य वर्धकमिमं यज्ञं हरिभिरश्वैः सजोषाः सहप्रीतिस्त्वं तूयिं क्षिप्रमा याहि । धृतप्रयाः । धृतसहितानि प्रयांस्यन्यरूपाणि हवींषि यस्य स तथोक्तः । तादृशोऽहं मधूनां सेमानां सधमादे । सह माद्यंति यत्र सोम इति सधमादः ।
+> तस्मिन् स्थाने मतिभिः स्तुतिभिस्ता त्वां जोहवीमि हि । भृशमाह्वयामि खलु ॥
+> जोहवीमि । यज् लुक्यभ्यस्तस्य चेति संप्रसारणं । गुणो यज् लुकोरित्यभ्यासस्य
+> गुणः । यजो वेतीडागमः । हियोगादनिघातः । अभ्यस्तानामादिरित्याद्युदात्तः ।
+> धृतप्रयाः । घृ क्षरणदीप्त्योरित्यस्मादंजिघृषिभ्यः क्त इति क्तप्रत्ययः । बहुव्रीहौ
+> पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O shining Indra, with your horses and in accord with us (सजोषाः (*sajoṣāḥ*), with joint pleasure), come quickly to this sacrifice of ours, which increases the food (नमोवृधं (*namovṛdhaṃ*), the augmenter of नमस् (*namas*), food)." घृतप्रयाः (*ghṛtaprayāḥ*) is one whose offerings (prayāṃsi, other forms of oblation) are accompanied by ghee. Being such, "I invoke you vehemently with praises (मतिभिः (*matibhiḥ*)) in the सधमादे (*sadhamāde*) of the sweet Soma libations." A सधमादः (*sadhamādaḥ*) is the place where they rejoice together over Soma. जोहवीमि (*johavīmi*) means "I call greatly, indeed".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—shining
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—our
+- नमोवृधं (*namovṛdhaṃ*)—food-increasing
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- हरिभिः (*haribhiḥ*)—with the horses
+- सजोषाः (*sajoṣāḥ*)—joined with affection
+- तूयं (*tūyaṃ*)—quickly
+- आ याहि (*ā yāhi*)—come graciously
+- घृतप्रयाः (*ghṛtaprayāḥ*)—endowed with oblations accompanied by ghee
+- अहं (*ahaṃ*)—I
+- मधूनां (*madhūnāṃ*)—of the Soma juices
+- सधमादे (*sadhamāde*)—in the place of exhilaration
+- मतिभिः (*matibhiḥ*)—with praises
+- त्वा (*tvā*)—you
+- जोहवीमि (*johavīmi*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+Shining Indra, come quickly and affectionately, with your horses, to our food-increasing sacrifice. I, provided with oblations accompanied by ghee, pray to you and call you with praises in the place of exhilaration of the Soma juice.
+
+##### English translation (H. H. Wilson)
+Divine Indra, come quickly with your steeds, and well pleased, to our food-augmenting sacrifice; offering (sacred) food with butter, I invoke you verily with praises in the chamber of the sweet libations.
+
+### Printed p. 54
+
+##### विशेषविषयगळु (Special Topics)
+
+सधमादे (*sadhamāde*)—The word is formed from the root मद् (*mad*) together with सह (*saha*). It means the region where all, drinking Soma together, find satisfaction. It is an epithet of the sacrificial region, which gives exhilaration to all.
+मतिभिः (*matibhiḥ*)—It has been said in many earlier places that the word मति (*mati*) means speech in the form of praise, and the special meaning of this word has been explained.
+नमोवृधं यज्ञं (*namovṛdhaṃ yajñaṃ*)—The meaning is the sacrifice that increases food. The idea well known from the Śruti, यज्ञाद्भवति पर्जन्यः, पर्जन्यादन्नसंभवः (*yajñādbhavati parjanyaḥ, parjanyādannasaṃbhavaḥ*), is expressed here. The sacrifice must cause rain, and through it the wealth of food must increase. The sacrifice is the root of all creation and preservation in the universe. And it is the root not only of the food that man needs but also of the increase of the food-wealth of the gods. As said in sentences such as यज्ञ उ देवानामन्नं (*yajña u devānāmannaṃ*) (Śa. Brā. 8-1-2-10), the sacrifice is also praised as the food of the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ च॒ त्वामे॒ता वृष॑णा॒ वहा॑तो॒ हरी॒ सखा॑या सु॒धुरा॒  ॑
+> स्वंगा ।  
+> धा॒नाव॒दिंद्रः॒ सव॑नं जुषा॒णः सखा॒ सख्युः॑ शृणव॒द्वंद॑नानि॥४॥
+
+> *ā ca tvāmetā vṛṣaṇā vahāto harī sakhāyā sudhurā*  
+> *svaṃgā |*  
+> *dhānāvadiṃdraḥ savanaṃ juṣāṇaḥ sakhā sakhyuḥ śṛṇavadvaṃdanāni‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । च । त्वां । एता । वृषणा । वहातः । हरी इति । सखाया । सुधुरा । सुअंगा ।  
+> धानावत् । इंद्रः । सवनं । जुषाणः । सखा । सख्युः । शृणवत् । वंदनानि ॥ ४ ॥
+
+> *ā | ca | tvāṃ | etā | vṛṣaṇā | vahātaḥ | harī iti | sakhāyā | sudhurā | suaṃgā |*  
+> *dhānāvat | iṃdraḥ | savanaṃ | juṣāṇaḥ | sakhā | sakhyuḥ | śṛṇavat | vaṃdanāni ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषणा सेचनसमर्थौ सुधुरा शोभनया धुरान्वितौ स्वंगा शोभनावयवोपेतौ सखाया शोभनाख्यानावेतैतौ हरी त्वामा वहातश्च । यज्ञं
+> प्रत्यागमनाय रथे त्वामावहतः । अथ धानावत् भृष्टयवोपेतं सवनं जुषाणः
+> सेवमानः सखा सखिभूतः स इंद्रः सख्युः स्तोतुर्मम वंदनानि स्तोत्राणि शृण-
+
+##### Gist of the bhāṣya
+
+"O Indra, these two horses, vigorous (वृषणा (*vṛṣaṇā*), able to sprinkle), well yoked to the pole (सुधुरा (*sudhurā*)), well limbed (स्वंगा (*svaṃgā*)), friendly (सखाया (*sakhāyā*), of good name), bring you in the chariot to come to the sacrifice. Then he, Indra, being a friend, accepting (जुषाणः (*juṣāṇaḥ*)) the sacrifice with parched grain (धानावत् (*dhānāvat*)), may hear (शृणवत् (*śṛṇavat*)) the praises (वंदनानि (*vaṃdanāni*)) of me, his friend (सख्युः (*sakhyuḥ*)), the praiser."
+
+### Printed p. 55
+
+> वत् । श्रुयात् ॥ वहातः । वहेर्लेट्याडागमे रूपं । चवायोगे। प्रथमेति न
+> निघातः । श्रवणत् । श्रु श्रवण इत्यस्य लेट्यडागमे रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+This part of the block gives only grammatical remarks on वहातः (*vahātaḥ*) and श्रवणत् (*śravaṇat*) (the leṭ forms with the augment aṭ) and on accent; the Grammar section carries them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वृषणा (*vṛṣaṇā*)—capable of sprinkling
+- सुधुरा (*sudhurā*)—able to bear the burden
+- स्वंगा (*svaṃgā*)—having excellent limbs
+- सखाया (*sakhāyā*)—joined together
+- एता हरी (*etā harī*)—these horses (of Indra)
+- त्वां (*tvāṃ*)—you
+- आ वहातः (*ā vahātaḥ*)—bring (to the sacrificial region)
+- धानावत् (*dhānāvat*)—provided with ripe barley grain
+- सवनं (*savanaṃ*)—the sacrifice
+- जुषाणः (*juṣāṇaḥ*)—accepting
+- सखा (*sakhā*)—being a friend
+- इंद्रः (*iṃdraḥ*)—you, in the form of Indra
+- सख्युः (*sakhyuḥ*)—of me, your friend
+- वंदनासि (*vaṃdanāsi*)—the praises
+- शृणवत् च (*śṛṇavat ca*)—be a hearer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these horses, capable of sprinkling, able to bear the burden, having excellent limbs and joined together, bring you to the sacrificial region. You, in the form of Indra, who accept the sacrifice provided with ripe barley grain and are a friend, be a hearer of the praises of me, your friend.
+
+##### English translation (H. H. Wilson)
+May these two vigorous friendly burthen-bearing and well-limbed
+steeds convey you hither, where, Indra, approving of the ceremony (in
+which the offering) is parched grain, may hear as a friend the praises of his
+friend (the worshipper)
+
+##### विशेषविषयगळु (Special Topics)
+
+वंदनानि (*vaṃdanāni*)—In common usage वंदन (*vaṃdana*) means salutation. But in the present context the word is used in the sense of praise. The word is also used in many places as a synonym for disease, demon and the like. For example, in the Ṛks beginning न यातव इंद्र जूजुवुर्नो न वंदना शविष्ठ वेद्याभिः । (*na yātava iṃdra jūjuvurno na vaṃdanā śaviṣṭha vedyābhiḥ |*) (Ṛ. Saṃ. 7-21-5) this word means a demon. वंदन (*vaṃdana*) is also a well-known name of a sage.
+
+### Printed p. 56
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विन्ना॑ गो॒पां कर॑से॒ जन॑स्य कु॒विद्राजा॑नं मघवन्नृजीषिन् ।  
+> कु॒विन्न॒ ऋषिं॑ पपि॒वांसं॑ सु॒तस्य॑ कु॒विन्ने॒ वस्वो॑ अ॒मृत॑स्य॒  ॑
+> शिक्षाः ॥ ५ ॥
+
+> *kuvinnā gopāṃ karase janasya kuvidrājānaṃ maghavannṛjīṣin |*  
+> *kuvinna ṛṣiṃ papivāṃsaṃ sutasya kuvinne vasvo amṛtasya*  
+> *śikṣāḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । मा । गोपां । करसे । जनस्य । कुवित् । राजानं । मघवन् । ऋजेषिन् ।  
+> कुवित् । मा । ऋषिं । पप्सिवांसं । सुतस्य । कुवित् । मे । वस्वः । अमृतस्य । शिक्षाः॥
+
+> *kuvit | mā | gopāṃ | karase | janasya | kuvit | rājānaṃ | maghavan | ṛjeṣin |*  
+> *kuvit | mā | ṛṣiṃ | papsivāṃsaṃ | sutasya | kuvit | me | vasvaḥ | amṛtasya | śikṣāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कुविदपि च मा मां जनस्य गोपां गोप्तारं करसे । कुरु । तथा
+> हे मघवन्छनवन्नृजीषिन्नोमवन् हे इंद्र मां राजानं सर्वस्य स्वामिनं कुरु ।
+> कुविच्च मा मामृषिमतींद्रियार्थस्य प्रष्टारं कुरु । ऋषिर्दशनादिति यास्कः । तथा
+> सुतस्याभिषुतस्य सोमस्य पपिवांसं पातारं कुरु । अपि च मे मह्यममृतस्य
+> क्षयरहितं वस्वो वसु शिक्षाः । प्रयच्छ ॥ करसे । कृञ् करणे । लेट्यडागमे रूपं।
+> कुविद्योगादनिघातः । म ऋषिमित्यत्र संहितायामृत्यक इति प्रकृतिभावो ह्रस्वश्च ।
+> पपिवांसं । पा पान इत्यस्य क्वसौ वस्वेकाजाद्भसामितीडागमः । प्रत्ययस्वरः । शिक्षाः ।
+> शिक्षतिर्दानकर्मा । आस्माल्लेट्प्याडमे रूपं । कुविद्योगादनिघातः । आगमा अनुदात्ता इत्याटोऽनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, make me, many times (कुवित् (*kuvit*)), the protector (गोपां (*gopāṃ*)) of the people. O wealthy (मघवन् (*maghavan*)), Soma-possessing Indra, make me king, the lord of all. Make me also a ऋषिं (*ṛṣiṃ*), a questioner of supersensuous matters; "a seer from seeing", says Yāska. Make me also a drinker (पपिवांसं (*papivāṃsaṃ*)) of the pressed Soma. And give me imperishable wealth (अमृतस्य (*amṛtasya*) वस्वः (*vasvaḥ*)). शिक्षाः (*śikṣāḥ*) means 'give'; the root शिक्षति (*śikṣati*) has the sense of giving." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) कुवित् (*kuvit*)—many times
+- मा (*mā*)—me
+- जनस्य (*janasya*)—for the people
+- गोपां (*gopāṃ*)—as protector
+- करसे (*karase*)—make
+- मघवन् (*maghavan*)—wealthy
+- ऋजीषिन् (*ṛjīṣin*)—Soma-possessing Indra
+- मा (*mā*)—me
+- कुवित् (*kuvit*)—likewise
+- राजानं (*rājānaṃ*)—make a lord
+- कुवित् (*kuvit*)—otherwise
+- ऋषिं (*ṛṣiṃ*)—make one capable of seeing supersensuous matters
+- सुतस्य (*sutasya*)—of the pressed Soma juice
+- पपिवांसं (*papivāṃsaṃ*)—make a drinker
+- मे (*me*)—to me
+- अमृतस्य (*amṛtasya*)—imperishable
+- वस्वः (*vasvaḥ*)—wealth
+- शिक्षाः (*śikṣāḥ*)—give
+
 ---
 
-**Progress note:** Done through printed p. 50. pp. 45-50 (batch API, retry 1)
+**Progress note:** Done through printed p. 56. pp. 51-56 (batch API, retry 2)
