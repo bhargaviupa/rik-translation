@@ -12259,6 +12259,144 @@ Whatever devotee worships whichever aspect of my special glories with devotion, 
 
 घृणिः सूर्य आदित्यो न प्रभा वात्यक्षरं । मधु क्षरंति तद्रसं । सत्यं वै तद्रसमापो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः सुवरों ॥ (*ghṛṇiḥ sūrya ādityo na prabhā vātyakṣaraṃ | madhu kṣaraṃti tadrasaṃ | satyaṃ vai tadrasamāpo jyotīraso 'mṛtaṃ brahma bhūrbhuvaḥ suvaroṃ ‖*) (Tai. U. 4-37).
 
+### Printed p. 337
+…that is, in the passage there is a description of Savitṛ as a mass of radiance. This Savitṛ is described as *ghṛṇi*. *Ghṛṇi* means "of the nature of radiance". This Āditya-principle is to be meditated on in the form of the Praṇava. This principle is of the nature of light, **NOTE**, of the nature of food, and pervades the three worlds, Bhūḥ, Bhuvaḥ and Suvaḥ. The passage describes the greatness of the Supreme Person within the Āditya: this supreme light, of the nature of Praṇava, is to be meditated on in the form of Brahman.
+
+अत्याः (*atyāḥ*)—"moving", that is, having the nature of moving about; it is an epithet of तिस्रः महीः (*tisraḥ mahīḥ*). Above, the nature of Āditya, the immovable one and the root of the world, was described; now by the epithet अत्याः (*atyāḥ*) the moving worlds are described. This epithet is used in many places when things whose nature is to move constantly are described; it occurs in many places as an epithet of Agni, of Āditya and of the horse, whose nature is to go wherever they wish (Ṛ. Saṃ. 1-56-1; 1-190-4). The special meaning of this word was stated earlier.
+
+तिस्रः महीः उपराः तस्थु: (*tisraḥ mahīḥ uparāḥ tasthu:*)—When it is said that the three worlds stand one above another, the word *mahī* is taken to mean "world". The words *pṛthvī* and *antarikṣa* too give, at times, not merely the sense of a single world but a collective sense in which all three worlds are included. Therefore, even though some details about the state of the earth and the other worlds are given here on the authority of Vedic passages, it is not easy to state the meaning of the passages quoted precisely, as "this and thus". Even so, one may examine in what manner the condition of the three worlds, earth and the rest, is described in the Ṛksaṃhitā.
+
+In the Ṛksaṃhitā the description of the earth shows its extent and pervasiveness. Epithets such as *pṛthvī*, *urvī*, *mahī*, *uttānā*, *aparā* point to the greatness of the earth. Though it has such extent, synonyms such as *bhūmi*, *kṣmā*, *gmā*, *iḷā* show that it is different from the atmosphere and the others, which are other than the earth.
+
+भूम्याश्च तेजः प्रदिशस्ताभ्य एना नि वर्तय । (*bhūmyāśca tejaḥ pradiśastābhya enā ni vartaya |*)
+(Ṛ. Saṃ. 10-19-8)
+
+Such descriptions of the quarters also indicate the limit of the earth. But this limit does not support a separateness of the earth. Synonyms such as *rodasī*, *dyāvāpṛthivī*, *kṣoṇī* tell us that the earth is necessarily and continuously connected, without a break, with the heaven. Epithets such as *urvī*, *mahī*, *varā* describe the all-pervasiveness of heaven and earth.
+
+### Printed p. 338
+उभे अस्मै पीपयतः समीची दिवो वृष्टिं सुभगो नाम पुष्यन् । उभा क्षयावाजयन्याति पृत्सूभावर्धौ भवतः साधू अस्मै ॥ (*ubhe asmai pīpayataḥ samīcī divo vṛṣṭiṃ subhago nāma puṣyan | ubhā kṣayāvājayanyāti pṛtsūbhāvardhau bhavataḥ sādhū asmai ‖*)
+(Ṛ. Saṃ. 2-27-15)
+
+In such places heaven and earth are compared to the two hemispheres of the universe. *Ubhau ardhau bhavataḥ* may be taken to mean the moving part, or the part consisting of the mortal and the immortal, or two physical hemispheres. Epithets such as *samīcī*, *dhiṣaṇe*, *camvā* (3-55-20) describe their shape. यो अक्षेणैव चक्रिया शचीभिः (*yo akṣeṇaiva cakriyā śacībhiḥ*) (10-89-4): these heaven and earth, created by Indra of great nature, are like two wheels on the two sides of an axle. Both are special manifestations of Indra's greatness.
+
+If the earth is described by epithets such as *urvī* and *mahī*, the epithet words *rocana* and *rocanaṃ divaḥ* describe the brightness of the heavenly world. What lies between heaven and earth is the atmosphere, or the world of *rajas*. Thus the three worlds named in the present mantra by तिस्रः महीः (*tisraḥ mahīḥ*), the earth, the atmosphere and the heavenly world, are the very worlds that are described by the words *uttama*, *madhyama* and *avama* in Ṛks such as
+
+यदुत्तमे मरुतो मध्यमे वा यद्वावमे सुभगासो दिवि ष्ठ । अतो नो रुद्रा उत वा स्वंस्याग्ने वित्ताद्धविषो यद्यजाम ॥ (*yaduttame maruto madhyame vā yadvāvame subhagāso divi ṣṭha | ato no rudrā uta vā svaṃsyāgne vittāddhaviṣo yadyajāma ‖*)
+(Ṛ. Saṃ. 5-60-6)
+
+Although all three worlds are described in the present Ṛk, the statement गुहा द्वे निहिते दर्शेका (*guhā dve nihite darśekā*), that two worlds are invisible and only the earth comes within sight of the eye, is new. For,
+
+तृतीयमस्य नकिरा दधर्षति वयश्चन पतयंतः पतत्रिणः । (*tṛtīyamasya nakirā dadharṣati vayaścana patayaṃtaḥ patatriṇaḥ |*)
+(Ṛ. Saṃ. 1-155-5)
+
+Man can know only the earthly world and the atmosphere, in which Viṣṇu places two steps. No one can know the heavenly world, in which this Viṣṇu places the third step.
+
+उभे ते विद्म रजसी पृथिव्या विष्णो देव त्वं परमस्य वित्से । (*ubhe te vidma rajasī pṛthivyā viṣṇo deva tvaṃ paramasya vitse |*)
+(7--99-1)
+
+"O radiant Viṣṇu, no one can know your full greatness. We can know only the earth and the atmosphere pervaded by you. Only you can know your supreme third world. No one else has the capacity to know its nature." In this way, wherever the three worlds are described, it is stated that two of the worlds come within human perception and only the third is beyond man's sight.
+
+### Printed p. 339
+But in the present Ṛk alone there is this difference: both the heavenly world and the atmosphere are said to be beyond perception.
+
+But in Tai. Saṃ. 6 1-1-1, अंतर्हितो हि देवलोको मनुष्यलोकात् (*aṃtarhito hi devaloko manuṣyalokāt*): that is, although the world of the gods is not seen by our eyes, it is hidden within the world of men; the world of the gods and the world of men are interwoven, one within the other. Because the human world is gross, it is visible to our sight; because the world of the gods is subtle, it is not perceptible to our outer eye. Such is the explanation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒पा॒ज॒स्यो वृ॑ष॒भो वि॒श्वरू॑प उ॒त त्र्यु॒धा पु॑रु॒ध प्र॒जावा॑न् ।  
+> त्र्य॒नी॒कः प॑त्यते॒ माहि॑नावा॒न्स्य रे॑तो॒धा वृ॑ष॒भः शश्व॑तीनां ॥
+
+> *tripājasyo vṛṣabho viśvarūpa uta tryudhā purudha prajāvān |*  
+> *tryanīkaḥ patyate māhināvānsya retodhā vṛṣabhaḥ śaśvatīnāṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिपाज स्यः । वृषभः । विश्वरूपः । उत । त्रिउधा । पुरुध । प्रजावान् ।  
+> त्रिअनीकः । पत्यते । माहिनवान् । सः । रेतोधाः । वृषभः । शश्वतीनां ॥ ३ ॥
+
+> *tripāja syaḥ | vṛṣabhaḥ | viśvarūpaḥ | uta | triudhā | purudha | prajāvān |*  
+> *trianīkaḥ | patyate | māhinavān | saḥ | retodhāḥ | vṛṣabhaḥ | śaśvatīnāṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिपाजस्यः ग्रीष्मवर्षाहेमंताख्यैस्त्रिभिर्यतुभिः पाजस्यमुरो यस्य स
+> त्रिपाजस्यः । त्रुरस्क इत्यर्थः । उरोवचनश्च पाजस्यशब्दः । इंद्रस्य क्रोडोऽदित्यै
+> पाजस्यं । वाज. २५-८ । इत्यश्वमेधमंत्र उरःपरतयाम्ना नात् पाजसि बले साधुरिति व्युत्पत्तेश्च सर्वेषामंगानां मध्य उरसो बलवत्वात् । वृषभः स्वावयभूते
+> वर्षर्तावसां वर्षको विश्वरूपस्तत्तद्वृत्तसाधारणकार्यैः पुष्पविकासादिभिर्लिंगैर्नानारूप उतापि च त्रुधा । वसंतशरद्धेमंताख्यैस्त्रिभिर्यतुभिरूधो यस्य स
+> त्रुधा । प्रजावान' । प्रकर्षण जायंत इति व्रीह्यादयः प्रजाः । पुरुष नानाप्रकारेण विद्यमानव्रीहियवादिरूपप्रजावान् । किंच त्र्यनीकस्त्रिभिरुष्णवर्षशीता-
+
+##### Gist of the bhāṣya
+
+त्रिपाजस्यः (*tripājasyaḥ*): he whose chest (*pājasya*) is formed by three seasons named Grīṣma, Varṣā and Hemanta; that is, "three-chested". The word *pājasya* denotes the chest; in the Aśvamedha mantra इंद्रस्य क्रोडोऽदित्यै पाजस्यं (*iṃdrasya kroḍo 'dityai pājasyaṃ*) (Vāj. 25-8) it is read as meaning the chest; and by derivation it is what is good in strength, since among all the limbs the chest is the strongest. वृषभः (*vṛṣabhaḥ*): the showerer, who rains in the rainy season, its own part. विश्वरूपः (*viśvarūpaḥ*): of many forms, by the signs, the effects common to each season, such as the blossoming of flowers. उत (*uta*): and also त्रुधा (*trudhā*): he whose udder is formed by the three seasons named Vasanta, Śarad and Hemanta. प्रजावान् (*prajāvān*): *prajāḥ* are rice and the like, which are born forth; *puruṣa* (*purudha*): possessing progeny in the form of rice, barley and the rest, existing in many kinds. Further, त्र्यनीकः (*tryanīkaḥ*): he who is endowed with three hosts (*anīka*), the qualities of heat, rain and cold, …
+### Printed p. 340
+
+> खैरनीकैर्गुणैरुपेतो माहिनावान्महत्त्ववान् संवत्सराभिमानी देवः पत्यते ।
+> आगच्छति । वृषभः सेचनसमर्थः स संवत्सरः शश्वतीनां बह्नीनामोषधीनां पुष्पफलादिसंपत्तये रेतोधा रेतस उदकस्य धर्ता भवति ॥ त्र्युधा । बहुव्रीहेरूधसोऽनज्जित्यनज् । सर्वविधीनां छंदसि विकल्पितत्वात्पुंस्यपि भवति । ऊकारस्य ह्रस्वश्छांधसः । उत्तरपदांतोदात्तप्रकरणे त्रिचक्रादीनां छंदस्युपसंख्यानमित्युत्तर
+> पदांतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+… माहिनावान् (*māhināvān*): possessing greatness; the deity presiding over the year पत्यते (*patyate*): comes. वृषभः (*vṛṣabhaḥ*): able to sprinkle; that year शश्वतीनां (*śaśvatīnāṃ*): of the many plants, for the attainment of flowers, fruits and the like, becomes रेतोधा (*retodhā*): the bearer of *retas*, water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिपाजस्यः (*tripājasyaḥ*)—having three chests named Grīṣma, Varṣā and Hemanta
+- वृषभः (*vṛṣabhaḥ*)—that which pours down rain
+- विश्वरूपः (*viśvarūpaḥ*)—that which takes on various forms according to the differences of the seasons
+- उत (*uta*)—and
+- त्र्युधा (*tryudhā*)—having three *ūdhaḥ* (udder) regions in the forms of Vasanta, Śarad and Hemanta
+- पुरुध प्रजावान् (*purudha prajāvān*)—having progeny of many kinds, in the form of rice and the like
+- त्यनीकः (*tyanīkaḥ*)—endowed with three qualities, in the forms of heat, rain and cold
+- माहिनावान् (*māhināvān*)—having a great nature; the deity presiding over the year
+- पत्यते (*patyate*)—comes
+- वृषभः (*vṛṣabhaḥ*)—the fulfiller of desires by rain
+- सः (*saḥ*)—that same deity presiding over the year
+- शश्वतीनां (*śaśvatīnāṃ*)—to the many plants and the like
+- रेतोधाः (*retodhāḥ*)—the one who fills them with water
+
+##### भावार्थ (Bhāvārtha)
+
+The deity presiding over the year, having three chest regions beginning with Grīṣma, bestowing rain, having many forms according to the differences of the seasons, having three udder regions in the forms of Vasanta and the rest, having many kinds of progeny in the form of rice and the like, endowed with the three qualities beginning with heat, and of great nature, comes. That same deity presiding over the year, the fulfiller of desires by rain, fills the many plants and the like with water.
+
+##### English translation (H. H. Wilson)
+The three-breasted, the showerer (of rain), the omniform, the three-uddered, the parent of multiform progeny, the possessor of magnitude, followed by three hosts (the year), advances, the vigorous impregnator of the perpetual plants-
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous mantra the principle of the year is described by षड्भारान् एको आचरन् बिभर्ति (*ṣaḍbhārān eko ācaran bibharti*). *Ṣaḍbhāra* means the six seasons. The year itself, which bears such a burden of six and, holding the three worlds under its control, carries on the business of the universe, may be called a manifestation (*vibhūti*) of Āditya. The nature of the parts of the year, this manifestation of Āditya, and their influence are described in the present Ṛk.
+
+### Printed p. 341
+The parts of this year, which is of the form of the seasons, are compared to the chest region and to the udder region. The chest region indicates strength, and the udder region indicates the giving of abundant food. Therefore, among the parts of the year, three set forth strength and the other three the bestowing of wealth.
+
+त्रिपाजस्यः (*tripājasyaḥ*)—The word *pājasya* is taken to mean the chest region; the purport is "having a threefold chest region". The authors of the Nirukta have read the word *pājas* among the names of strength (Ni. 2-9). Therefore, realising that taking *pājas* to mean "strength" in accordance with the Nirukta would not fit, Sāyaṇa upheld his own meaning *uras*, quoted the Vājasaneyi-Saṃhitā passage इंद्रस्य क्रीडोऽदित्यै पाजस्यं (*iṃdrasya krīḍo 'dityai pājasyaṃ*), and stated that, as the word *pājasya* there is a synonym of the word *uras*, the meaning should be given in the same way in the present passage. In places such as अरेजेतां रोदसी पाजसा गिरा (*arejetāṃ rodasī pājasā girā*) (Ṛ. Saṃ. 1-151-1) the meaning "endowed with strength" was given earlier. In the Ṛksaṃhitā this word is used in three senses. After noting that context, one should then examine what its purport is in the present passage.
+
+विद्युद्रथः सहसस्पुत्रो अग्निः शोचिष्केश् पृथिव्यां पाजो आश्रेत् । (*vidyudrathaḥ sahasasputro agniḥ śociṣkeś pṛthivyāṃ pājo āśret |*)
+(Ṛ. Saṃ. 3-14-1)
+
+One meaning is that Agni, whose vehicle is lightning and who is full of strength, obtained brightness in the atmosphere and shone; another meaning is that he obtained strength on the earth. According to the description here, the purport may be stated as: he pervaded the atmosphere or the earth and became radiant. In अरुषस्तूपो रुशदस्य पाजः (*aruṣastūpo ruśadasya pājaḥ*) (Ṛ. Saṃ. 3-29-3), since it is said that Agni destroyed the darkness and spread his own radiance, the word *pājas* must be given the meaning "brilliance". Likewise in contexts such as ऊर्ध्वं मधुधा दिवि पाज : (*ūrdhvaṃ madhudhā divi pāja :*) (3-61-5) and कृणुष्व पाजः प्रसितिं न (*kṛṇuṣva pājaḥ prasitiṃ na*) (4-4-1) the meaning is a mass of brilliance. But
+
+पाजस्वंतो न वीराः पनस्यवो रिशादसो न मर्या अभिद्यवः । (*pājasvaṃto na vīrāḥ panasyavo riśādaso na maryā abhidyavaḥ |*)
+(Ṛ. Saṃ. 10-27-3)
+
+in places such as this, since it is of heroes that the passage speaks, the meaning must be given with certainty as "strength" in all of them. The qualified word त्रिपाजस्यः (*tripājasyaḥ*) is used in the Ṛksaṃhitā only in the present Ṛk. Here the word *pājasya* is taken to mean *uras*, "chest". Or it could be the flank. There is room too for doubt whether it is the belly (*jaṭhara*) or the *kukṣi*. This is an epithet of the year-deity…
+
+### Printed p. 342
+…Therefore, in order to decide whether it is right to say "having threefold strength", or "having a threefold belly", or "having three kinds of flank", one must understand in what manner the epithets त्रिपाजस्यः (*tripājasyaḥ*), त्र्युधा (*tryudhā*), त्र्यनीकः (*tryanīkaḥ*) and the like describe the nature of the divisions of the year.
+
+The epithets त्रिपाजस्यः (*tripājasyaḥ*) and त्र्युधा (*tryudhā*) indicate the six divisions of the year; त्रैनीकः (*trainīkaḥ*) indicates the three qualities of the year. According to the divisions now in use these three qualities fit in order. But it must be examined whether the division of the seasons in the Ṛksaṃhitā is as it is now in use, or whether the divisions there differ from the present reckoning.
+
+For the epithet त्रिपाजस्यः (*tripājasyaḥ*) Sāyaṇa has explained that the divisions named Grīṣma, Varṣā and Hemanta are the chest region of the year. If the doubt arises whether the meaning "chest" or the meaning "strength" is right for the word *pājasya*, he has also stated that there is no impropriety in giving this meaning, since the chest is the strongest of all the limbs. And for the word त्र्युधा (*tryudhā*) he has explained that the three divisions Vasanta, Śarad and Hemanta are like the udder region of the year. In the present context one must see whether these divisions of the year are stated in the same way everywhere, or whether the number of the seasons differs from one place to another.
+
+Grīṣma, Varṣā, Hemanta is one division;
+Vasanta, Śarad, Hemanta is another division.
+
+Here Hemanta is common to both. There is no separate division called the Śiśira season; it should be understood as included in Hemanta. Therefore, whether the number of seasons is five or six cannot be stated as "this and thus". There are many differences in this division. The number of the seasons is stated as three in some places, as five in others, as six in some passages and as seven in one or two contexts. But these reckonings cannot be said to contradict one another. In places such as यजाता यतुभिध्र्रुवेभिः (*yajātā yatubhidhrruvebhiḥ*) (1-84-18) **NOTE** there is no reckoning of number but merely a mention of the seasons, yet the epithet *dhruvebhiḥ* tells us the nature of the season. But in some other places there is no distinction by names of the seasons; the number of the seasons must be known from the number alone. For example:
+
+त्रिनाभि चक्रमजरमनर्वं यत्रेमा विश्वा भुवनाधि तस्थुः । (*trinābhi cakramajaramanarvaṃ yatremā viśvā bhuvanādhi tasthuḥ |*)
+(Ṛ. Saṃ. 1-164-2)
+
 ---
 
-**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
+**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
