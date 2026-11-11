@@ -31659,6 +31659,265 @@ Maghavan, you are honoured by men ; you have repaired to the presence of the sag
 
 Here a certain story is heard. There was a royal sage named Ruru; his son was the royal sage called Kutsa. Once, wishing to fight enemies in battle and being unable himself, Kutsa called Indra to slay them. Indra came to Kutsa's house and killed his enemies. After that, from great affection, friendship arose between them. After the friendship Indra took Kutsa too to his own house. There Śacī, coming when Indra had arrived, saw the two of the same form and, unable to distinguish "this is Indra, this is Kutsa", fell into doubt. The meaning understood from this story is set forth here: O Indra, come with a mind that slays the Dasyus (enemies) to Kutsa's house (अस्तं (*astaṃ*) is a name for house); आ याहि (*ā yāhi*) stands for आगाः (*āgāḥ*), the Loṭ being used in the sense of Luṅ. And Kutsa became निकामः (*nikāmaḥ*), intensely desirous, of friendship with you (भुवत् (*bhuvat*) = अभवत् (*abhavat*)). Then the two of you … in your own योन् (*yon*) … (the window ends here, mid-sentence).
 
+### Printed p. 942
+
+> स्वकीये स्थाने नि षदतं । न्यसीदतं । उपविष्टावभूतु । ऋतचित्सत्यदर्शिनी नारींद्रस्य भार्या शची सरूपा समानरूपौ वां युवां वि चिकित्सत् । संशयं चकार ॥
+
+##### Gist of the bhāṣya
+
+(This block continues from the previous window.) The two of you are to sit down in your own place; "may you be seated". The truth-seeing woman, Śacī, Indra's wife, seeing the two of you alike in form, fell into doubt about you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्युघ्ना (*dasyughnā*)—(O Indra) slayer of the Dasyu
+- मनसा (*manasā*)—you who are endowed with a mind (set on it)
+- अस्तं (*astaṃ*)—to (Kutsa's) house
+- आ याहि (*ā yāhi*)—deign to come
+- कुत्सः (*kutsaḥ*)—Kutsa too
+- ते सख्यॆ (*te sakhyè*)—in gaining your friendship
+- निकामः (*nikāmaḥ*)—intensely desirous
+- भुवत् (*bhuvat*)—has become (then the two of you)
+- स्वे योन्सौ (*sve yonsau*)—in your house
+- नि षदतं (*ni ṣadataṃ*)—sit down
+- ऋतचित् (*ṛtacit*)—capable of seeing the truth
+- नारी (*nārī*)—Indra's wife
+- सरूपा (*sarūpā*)—possessing a similar form
+- वां (*vāṃ*)—seeing the two of you
+- वि चिकित्सत् (*vi cikitsat*)—fell into doubt
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with a mind set on slaying the Dasyu, deign to come to Kutsa's house. Kutsa too is eager to gain your friendship. Then the two of you go to your house and sit down together. Indra's wife, who is capable of seeing the truth, seeing the two of you of similar form, fell into doubt.
+
+##### English translation (H. H. Wilson)
+With a mind resolved on killing the Dasyu, you came (to his dwelling), and Kutsa was eager for your friendship : now have you two alighted in his, (Indra's), habitation, and, being entirely similar in form, the truthful woman has been perplexed (to discriminate between you).
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning the matter spoken of in this Ṛk, the commentator has told a story (ākhyāyikā): रुरुनामकः कश्चिद्राजर्षिः । तस्य पुत्रः कुत्साख्यो राजर्षिरासीत् । स च कदाचित् शत्रुभिः सह युयुत्सुः संग्रामे स्वयमशक्तः सन् शत्रूणां हननार्थमिंद्रस्य आह्वानं चकार । स चेंद्रः कुत्सस्य गृहमागत्य तस्य शत्रून् जघान । तदनंतरमतिप्रीत्या तयोः सख्यमभवत् । सख्यानंतरमिंद्र एनमपि स्वकीयं गृहु प्रापयामास । तत्र शची इंद्रं प्राप्तुमागता सती तौ समानरूपौ दृष्ट्वा अयमिंद्रोऽयं कुत्स इति विवेकाभावेन संशयं चकार । अनयाख्यायिकया प्रतीयमानोऽर्थोऽत्र प्रतिपाद्यते ॥ (*rurunāmakaḥ kaścidrājarṣiḥ | tasya putraḥ kutsākhyo rājarṣirāsīt | sa ca kadācit śatrubhiḥ saha yuyutsuḥ saṃgrāme svayamaśaktaḥ san śatrūṇāṃ hananārthamiṃdrasya āhvānaṃ cakāra | sa ceṃdraḥ kutsasya gṛhamāgatya tasya śatrūn jaghāna | tadanaṃtaramatiprītyā tayoḥ sakhyamabhavat | sakhyānaṃtaramiṃdra enamapi svakīyaṃ gṛhu prāpayāmāsa | tatra śacī iṃdraṃ prāptumāgatā satī tau samānarūpau dṛṣṭvā ayamiṃdro 'yaṃ kutsa iti vivekābhāvena saṃśayaṃ cakāra | anayākhyāyikayā pratīyamāno 'rtho 'tra pratipādyate ‖*) (Sa Bhā. 4-16 10)**NOTE**
+
+### Printed p. 943
+The Kannada gives the story thus: In former times there was a royal sage named Ruru. He had a son named Kutsa. Once he had to fight with enemies. Because the enemies were very strong, he could not face and conquer them alone; he sought Indra's help and invited him. Then Indra came to Kutsa's house and destroyed his enemies. Thereby friendship arose between Kutsa and Indra. Afterwards Indra took Kutsa to his own house. At the door of the house Śacī, Indra's wife, came to welcome Indra, and seeing two men of the same form as Indra, did not know how to tell which was Indra and which was Kutsa, and voiced her doubt. This very matter is indicated in this Ṛk.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 11
+
+> यासि॒ कुत्से॑न स॒रथ॑मव॒स्युस्तो॒दो वात॑स्य॒ हर्यो॒रीशा॑नः ।
+> ऋ॒ज्रा वाजं॒ न गध्यं॒ युयू॑षन्न॒विर्यदह॒न्पार्या॑य॒॑
+> भूषात् ॥ ११ ॥
+
+> *yāsi kutsena sarathamavasyustodo vātasya haryorīśānaḥ |*
+> *ṛjrā vājaṃ na gadhyaṃ yuyūṣannaviryadahanpāryāya*
+> *bhūṣāt ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यासि । कुत्सेन । स्वरथं । अवस्युः । तोदः । वातस्य । हर्योः । ईशानः ।  
+> ऋज्रा । वाजं । न । गध्यं । युयूषन् । कविः । यत् । अहन् । पार्याय ।  
+> ।  
+> भूषात् ॥ ११ ॥
+
+> *yāsi | kutsena | svarathaṃ | avasyuḥ | todaḥ | vātasya | haryoḥ | īśānaḥ |*  
+> *ṛjrā | vājaṃ | na | gadhyaṃ | yuyūṣan | kaviḥ | yat | ahan | pāryāya |*  
+> *|*  
+> *bhūṣāt ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अवस्युः कुत्सस्य रक्षणमिच्छन् ॥ छंदसि क्यच् परेच्छायामपि दृश्यते ॥ तोदस्तोदकः शत्रूणां हिंसको वातस्य वायुसदृशयोर्वेगवतोर्हर्योरश्वयोरीशान ईश्वरस्त्वं कुत्सेन कुत्साख्येन राजर्षिणा सरथं समानरथं
+> यासि । गच्छसि । गध्यं ग्राह्यं । गध्यं गृष्णातेः । ऋज्रा वाजं न गध्यं. युयूषन्नित्यपि निगमो भवतीति निरुक्तं । ५-१५ । वाजं नान्नमिव ऋज्रा ऋजुगामिनावश्वा
+> युयूषन् स्वकीये रथे योजयन् कविः प्राज्ञः कुत्सो यद्यस्मिन्नहन्नहनि
+> दिवसे पार्याय पारणाय आपन्निस्तरणाय भूषात् । प्रभवते । तस्मिन्नेव दिने
+> कुत्सेन सरथं यासीति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, desiring Kutsa's protection (the affix kyac is seen also in the sense of desiring others), being the tormentor of enemies and lord of the two horses, swift as the wind, you go in the same chariot with the royal sage named Kutsa. गध्यं (*gadhyaṃ*) means "to be taken". Sāyaṇa quotes the Nirukta (5-15): ऋज्रा वाजं न गध्यं. युयूषन्नित्यपि निगमो भवतीति (*ṛjrā vājaṃ na gadhyaṃ. yuyūṣannityapi nigamo bhavatīti*). The sense: like food, the two straight-going horses, yoking them to his own chariot, the wise Kutsa becomes able, on the day when he is to cross over, to get across a calamity. On that very day you go with Kutsa in the same chariot; so it is connected with the preceding.
+
+### Printed p. 944
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवस्युः (*avasyuḥ*)—desiring to protect Kutsa
+- तोदः (*todaḥ*)—the tormentor of enemies
+- वातस्य (*vātasya*)—of speed equal to the wind's movement
+- हर्योः (*haryoḥ*)—of the horses
+- ईशानः (*īśānaḥ*)—the lord; you who are such
+- कुत्सेन (*kutsena*)—with Kutsa
+- सरथं (*sarathaṃ*)—seated in one chariot
+- यासि (*yāsi*)—you go
+- यत् अहन् (*yat ahan*)—on which very day
+- कविः (*kaviḥ*)—the wise Kutsa
+- गध्यं (*gadhyaṃ*)—to be taken
+- वाजं न (*vājaṃ na*)—running as if going to obtain food
+- ऋज्रा (*ṛjrā*)—and straight-going horses
+- युयूषन् (*yuyūṣan*)—yoking to his chariot
+- पाराया (*pārāyā*)—to cross deep water
+- भूषात् (*bhūṣāt*)—becomes able
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, desiring to protect Kutsa, you, the tormentor of enemies and lord of horses whose speed equals the wind's, go seated in one chariot with Kutsa on whatever day; on that very day Kutsa too, yoking to his chariot the straight-going horses that run as if hastening to obtain the food to be taken, becomes able to cross deep water.
+
+##### English translation (H. H. Wilson)
+You went with Kutsa, in the same chariot, determined to defend him ; (you who are) the tormentor (of foes), the lord of horses (of the speed) of the wind : on the same day wherein, yoking (to the car) the straight-going steeds, as if to receive food, the sage (Kutsa) has been enabled to cross over (the sea) of calamity.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk
+
+> कुत्सा॑य॒ शुष्ण॑म॒शुषं॒ नि ब॑र्हिः प्रपि॒त्वे अह्नः॒ कुय॑वं॒॑
+> सहस्रा ।
+> स॒द्यो दस्यू॒न्मृ॑ण कु॒त्स्येन॒ प्र सूर॑श्च॒क्रं नृ॑हताद॒भीकेः॑ :
+
+> *kutsāya śuṣṇamaśuṣaṃ ni barhiḥ prapitve ahnaḥ kuyavaṃ*
+> *sahasrā |*
+> *sadyo dasyūnmṛṇa kutsyena pra sūraścakraṃ nṛhatādabhīkeḥ :*
+
+### Printed p. 945
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुत्साय । शुद्धं । अरुषु । नि । बर्हीः । प्रपित्वे । अह्नः । कुयवं । सहस्रा ।  
+> सद्यः । दस्यून् । प्र । मृण । कुत्स्येन । प्र । सूरः । चक्रं । वृहतात् । अभीके ॥
+
+> *kutsāya | śuddhaṃ | aruṣu | ni | barhīḥ | prapitve | ahnaḥ | kuyavaṃ | sahasrā |*  
+> *sadyaḥ | dasyūn | pra | mṛṇa | kutsyena | pra | sūraḥ | cakraṃ | vṛhatāt | abhīke ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुष्णं पिप्रमित्यस्यामृचि । ऋग्वे. १-१०३-८ । प्रतिपादितोऽर्थः कुत्सायेत्यनेन ऋग्वयेन स्पष्टिक्रियते । हे इंद्र त्वं कुत्साय कुत्सार्थमशुषं । शूषमिति सुखनामैतत् । तद्रहितं । अत्र दीर्घाभावः । शुष्णं शुष्णनामानमसुरं नि
+> बर्हिः । न्यबर्हिः। अवधीः । तथाह्नो दिवसस्य प्रपित्वे प्रक्रमे पूर्वाणे कुयवं
+> कुयवनामानमसुरं च हतवानसि । तथा स त्वं सहस्रां सहस्रेण बहुभिः परिजनैः
+> सह सद्यो यस्मिन् काले कुयवनवधीस्तस्मिन् काल एव कुत्सैन । कुत्स इति वज्रनामैतत् । कुत्स एव कुत्सं वज्रं । तेन दस्यून् शत्रून्नृ मृण । जहि ॥ भूतार्धे लोट् ॥ हतवानसि । तथा सूरः प्रेरकस्य सूर्यस्य चक्रमायुधमभीके
+> समीपे संग्रामे ना प्र वृहतात् । प्रकर्षेण छिन्नवानसि ॥
+
+##### Gist of the bhāṣya
+
+The meaning set forth in the Ṛk beginning *śuṣṇaṃ pipraṃ* (Ṛgve. 1-103-8)**NOTE** is made plain by the two Ṛks beginning कुत्साय (*kutsāya*). O Indra, for Kutsa's sake you slew Śuṣṇa, the asura of that name, who is *aśuṣaṃ*: *śūṣaṃ* is a name for happiness, so he is devoid of it (no lengthening here). Likewise, at the beginning of the day, in the forenoon, you slew the asura named Kuyava. So you, with thousands, with many attendants, at the very time when you slew Kuyava, with कुत्स (*kutsa*)—this is a name of the thunderbolt, कुत्स (*kutsa*) itself being कुत्सं (*kutsaṃ*), the vajra—smote the Dasyus, the enemies; you have slain them. Likewise you cut to pieces, in the battle near at hand, the wheel, the weapon, of Sūrya the impeller.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुत्साय (*kutsāya*)—for Kutsa
+- अरुषं (*aruṣaṃ*)—devoid of happiness
+- शुष्णं (*śuṣṇaṃ*)—the asura named Śuṣṇa
+- नि बर्हिः (*ni barhiḥ*)—you have slain
+- अह्नः (*ahnaḥ*)—of the day
+- प्रपित्वे (*prapitve*)—in the forenoon, the beginning
+- सहस्रा (*sahasrā*)—with thousands of followers
+- कुयवं (*kuyavaṃ*)—the asura named Kuyava, too, you destroyed
+- सद्यः (*sadyaḥ*)—at once
+- कुत्स्येन (*kutsyena*)—with the thunderbolt
+- दस्यून् (*dasyūn*)—the enemies
+- प्र मृण (*pra mṛṇa*)—you have destroyed
+- सूरः (*sūraḥ*)—of the Sun
+- चक्रं (*cakraṃ*)—the wheel
+- अभीके (*abhīke*)—in battle
+- प्र वृहतात् (*pra vṛhatāt*)—you have cut
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to help Kutsa you have slain the asura Śuṣṇa, who is devoid of happiness. In the forenoon, the beginning of the day, with thousands of followers, you destroyed also the asura Kuyava. At once, with the thunderbolt, you destroyed the enemies. In battle you cut the Sun's wheel.
+
+##### English translation (H. H. Wilson)
+For Kutsa, you have slain the unhappy Shushna, and, in the forepart of the day, attended by thousands, (you have slain) Kuyava with the thunder-bolt: you have swiftly destroyed the Dasyus, and you have cut them to pieces in the battle, with the wheel (of the chariot of) the sun.
+
+### Printed p. 946
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter spoken of in this Ṛk and in the next Ṛk is also explained in Ṛ. Saṃ. 1-103-8. The matter of Śuṣka and Pipu we have explained in Ṛ. Saṃ. Part 10, pages 550, 551 and other places.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk
+
+> त्वं पिप्रुं॒ मृग॑यं शूशु॒वांस॑मृ॒जिश्व॑ने वैदथि॒नाय॑ रंधीः।
+> पं॒चा॒शत्कृ॒ष्णा नि व॑पः स॒हस्रात्कं॒ न पुरो॑ जरि॒मा वि द॑र्दः ॥
+
+> *tvaṃ pipruṃ mṛgayaṃ śūśuvāṃsamṛjiśvane vaidathināya raṃdhīḥ|*
+> *paṃcāśatkṛṣṇā ni vapaḥ sahasrātkaṃ na puro jarimā vi dardaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । पिपुं । मृगयं । शूशुवांसं । ऋजिश्वने । वैदथिनाय । रंधीः ।  
+> पंचाशत् । कृष्णा । नि । वपः । सहस्रा । अत्मं । न । पुरः । जरिमा। वि । दर्दरिति दर्दः॥
+
+> *tvaṃ | pipuṃ | mṛgayaṃ | śūśuvāṃsaṃ | ṛjiśvane | vaidathināya | raṃdhīḥ |*  
+> *paṃcāśat | kṛṣṇā | ni | vapaḥ | sahasrā | atmaṃ | na | puraḥ | jarimā| vi | dardariti dardaḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पिपुं पिपुनामानमसुरं शूशुवांसं प्रवृद्धं मृगयं
+> मृगयनामानमसुरं च हतवानसि । किंच स त्वं वैदथिनाय विदथिनः पुत्राय
+> ऋजिश्विने ऋजिश्वनाम्ने राजे रंधीः । वशमनयः । पंचाशत्पंचाशत्संख्याकानि
+> सहस्रा सहस्राणि कृष्णा कृष्णवर्णानि रक्षांसि न वपः । न्यवपः । अवधिः । तथा स त्वं
+> जरिमा जरात्कं न वयोविशेषं रूपमिव पुरः शंबरस्य नगराणि वि दर्दः । विदारितवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you slew Pipu, the asura of that name, and the grown-great Mṛgaya, the asura named Mṛgaya. Further, you brought under sway the king named Ṛjiśvan, son of Vidathin. You smote fifty thousand black-coloured rākṣasas. And you tore apart the cities of Śambara, like old age (जरिमा (*jarimā*)) destroying a particular age or form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you
+- पिप्रुं (*pipruṃ*)—the asura named Pipru
+- शूशुवांसं (*śūśuvāṃsaṃ*)—the grown-great
+- मृगयं (*mṛgayaṃ*)—the asura named Mṛgaya
+- वैदथिनाय (*vaidathināya*)—for the son of Vidathin
+- ऋजिश्वने (*ṛjiśvane*)—for the king named Ṛjiśvan
+- रंधीः (*raṃdhīḥ*)—you made subject to yourself
+- पंचाशत् सहस्रा (*paṃcāśat sahasrā*)—fifty thousand in number
+- कृष्णा (*kṛṣṇā*)—of black colour, the asuras
+- नि वपः (*ni vapaḥ*)—you destroyed
+- जरिमा (*jarimā*)—old age
+- अत्यं न (*atyaṃ na*)—as it destroys the form of a man
+- पुरः (*puraḥ*)—the cities (of Śambara)
+- वि दर्दः (*vi dardaḥ*)—you have destroyed
+
+### Printed p. 947
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you made subject to yourself the asura Pipu and the grown-great asura Mṛgaya, to help the king named Ṛjrśvan**NOTE** son of Vidadhi**NOTE**. You destroyed the asuras (Dasyus), fifty thousand in number and black in colour. As old age destroys the form of a man, you destroyed the cities of Śambara.
+
+##### English translation (H. H. Wilson)
+You have subjugated Pipru and the mighty Mrigaya for the sake of Rijishwan, the son of Vidathin; you have slain the fifty thousand Krishnas; and, as old age (destroys) life, you hast demolished the cities (of Shambara).
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 14
+
+> सूर॑ उपा॒के त॒न्वं१॒॑१ दधा॑नो॒ वि यत्ते॒ चेत्य॒मृत॑स्य॒ वर्षः॑ ।
+> मृ॒गो न ह॒स्ती तवि॑षीमुषा॒णः सिं॒हो न भी॒म आयु॑धानि॒॑
+> बिभ्रत् ॥ १४ ॥
+
+> *sūra upāke tanvaṃ1 dadhāno vi yatte cetyamṛtasya varṣaḥ |*
+> *mṛgo na hastī taviṣīmuṣāṇaḥ siṃho na bhīma āyudhāni*
+> *bibhrat ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूरः । उपाके । तन्वं । दधानः । वि । यत् । ते । चेति । अमृतस्य । वर्षः ।  
+> मृगः । न । हस्ती । तविषीं । उषाणः । सिंहः । न । भीमः । आयुधानि: बिभ्रत् ॥१४॥
+
+> *sūraḥ | upāke | tanvaṃ | dadhānaḥ | vi | yat | te | ceti | amṛtasya | varṣaḥ |*  
+> *mṛgaḥ | na | hastī | taviṣīṃ | uṣāṇaḥ | siṃhaḥ | na | bhīmaḥ | āyudhāni: bibhrat ‖14‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सूरः प्रेरकस्य सूर्यसोपाके समीपे तन्नं त्वदीयं शरीरं
+> यद्यदा दधानो धारकोऽभवः तदामृतस्य मरणरहितस्य ते त्वदीयं वर्पो
+> रूपं वि चेति । व्यचेति । हे इंद्र ज्ञातृभिर्विशेषेणाज्ञायत । सूर्यस्य समीपे
+> सर्वाणि रूपाणि मलिनीभवंति न तथेंद्रस्य रूपं किंतु सूर्यस्य समीप इंद्रस्य
+> रूपं विशेषेण भासमानं बभोनेत्यर्थः । अपि च हे इंद्र हस्ती मृगो न गजविशेषो मृग इव तविषीं परेषां बलमुषाणो दहन् आयुधानि वज्रादीनि
+> शस्त्राणि बिभ्रद्विभ्राणस्त्वं सिंहो न सिंह इव भीमो भयंकरोऽभूः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you became the bearer of your body near Sūrya the impeller, then your immortal, deathless form was distinctly known by those who know. Near the Sun all forms become dim, but not so Indra's form; the sense is that near the Sun Indra's form shone out distinctly. And further, O Indra, like a "hand-possessing beast" (हस्ती मृगो (*hastī mṛgo*), a particular kind of elephant), robbing, burning up, the strength of others, bearing weapons such as the thunderbolt, you became terrible, fearsome, like a lion.
+
 ---
 
-**Progress note:** Done through printed p. 941. pp. 936-941 (batch API)
+**Progress note:** Done through printed p. 947. pp. 942-947 (batch API)
