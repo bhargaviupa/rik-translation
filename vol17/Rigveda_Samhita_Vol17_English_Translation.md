@@ -26909,6 +26909,258 @@ O Agni, those well-known rays of yours, overcoming enemies, swift-going, bright,
 - आयासः (*āyāsaḥ*)—of moving nature
 - त्वेषासः (*tveṣāsaḥ*)—shining (the text breaks off here)
 
+### Printed p. 838
+- दुवसनासः (*duvasanāsaḥ*)—having the act of service
+- ते (*te*)—those
+- अर्चयः (*arcayaḥ*)—rays
+- श्येनासः न (*śyenāsaḥ na*)—like horses
+- मारुतं शर्धः न (*mārutaṃ śardhaḥ na*)—like the company of the Maruts
+- तुविष्वणसः (*tuviṣvaṇasaḥ*)—sounding loudly
+- अर्थं (*arthaṃ*)—the region to be reached
+- चरंति (*caraṃti*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those rays of yours, renowned, not overcome by enemies, of moving nature, radiant and having the act of service, go and reach their destined region, like horses and, like the company of the Maruts, sounding loudly.
+
+##### English translation (H. H. Wilson)
+Those, your rays, Agni, triumphant, wide-spreading, radiant, adorable, go like hawk-faced horses ( to their goal ), loud-sounding like the company of the Maruts.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अका॑रि॒ ब्रह्म॑ समिधान॒ तुभ्यं॒ शंसा॑त्यु॒क्थं यज॑ते॒ व्यू॑ धाः ।  
+> होता॑रम॒ग्निं मनु॑षो॒ नि षे॑दुर्नम॒स्यंत॑ उ॒शिजः॒ शंस॑मा॒योः ॥ ११ ॥
+
+> *akāri brahma samidhāna tubhyaṃ śaṃsātyukthaṃ yajate vyū dhāḥ |*  
+> *hotāramagniṃ manuṣo ni ṣedurnamasyaṃta uśijaḥ śaṃsamāyoḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अकारि । ब्रह्म । संइधान । तुभ्यं । शंसाति । उक्कं । यजते । वि । ऊं इति । धाः ।  
+> होतारं । अग्निं । मनुषः । नि । सेदुः । नमस्यंतः । उशिजः । शंसं । आयोः ॥११॥
+
+> *akāri | brahma | saṃidhāna | tubhyaṃ | śaṃsāti | ukkaṃ | yajate | vi | ūṃ iti | dhāḥ |*  
+> *hotāraṃ | agniṃ | manuṣaḥ | ni | seduḥ | namasyaṃtaḥ | uśijaḥ | śaṃsaṃ | āyoḥ ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे समिधान समिध्यमानाग्ने तुभ्यं त्वदर्थं ब्रह्म स्तोत्रमकारि । अस्माभिः
+> कृतं । होतोक्कं शस्त्ररूपं स्तोत्रं शंसाति । शंसति ॥ शन्नु स्तुता । लेटोऽडाटावित्याडागमः ॥ त्वां यजमानो यजते । अतः कारणादस्मभ्यं धनं वि धाः ।
+> विधेहि ॥ दधातेश्चांदसे लुजु बहुलं छंदसीत्यडभावः । उ इति पादपूरणः ! किंच
+
+**NOTE**
+
+> आयोर्मनुष्यस्य शंसं शंसनीयं होतारं देवानामाह्वातारमग्निं त्वां नमस्यंतः पूजयंत उशिजः पश्वादिलक्षणं धनं कामयमाना मनुषो मनुष्या
+> ऋत्विजो नि षेदुः । उपाविशन् । सेवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, being kindled (समिधान (*samidhāna*)), for you, for your sake, a ब्रह्म (*brahma*), that is, a hymn of praise, has been made by us." The hotā recites (शंसाति (*śaṃsāti*) = शंसति (*śaṃsati*)) the uktha, a praise in the form of a śastra. The sacrificer worships you. "For this reason bestow (वि धाः (*vi dhāḥ*) = विधेहि (*vidhehi*)) wealth upon us." The particle उ (*u*) is a filler of the pāda. And further: …
+
+### Printed p. 839
+
+##### Gist of the bhāṣya
+
+… men (मनुषः (*manuṣaḥ*)), that is, the priests, desiring (उशिजः (*uśijaḥ*)) wealth of the nature of cattle and the like, worshipping you, Agni, the invoker of the gods, who is to be praised (शंसं (*śaṃsaṃ*)) by man (आयोः (*āyoḥ*)), have sat down (नि षेदुः (*ni ṣeduḥ*)), that is, have approached and serve you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिधान (*samidhāna*)—O kindled Agni
+- तुभ्यं (*tubhyaṃ*)—with you in view
+- ब्रह्म (*brahma*)—the praise
+- अकारि (*akāri*)—has been made
+- उकथं (*ukathaṃ*)—the śastra-mantra
+- शंसति (*śaṃsati*)—(the hotā) recites
+- यजते (*yajate*)—(the sacrificer) worships, (therefore)
+- वि धाः (*vi dhāḥ*)—provide wealth
+- आयोः (*āyoḥ*)—to man
+- शंसं (*śaṃsaṃ*)—the venerable one
+- होतारं (*hotāraṃ*)—the one who calls the gods
+- अग्निं (*agniṃ*)—you, Agni, the venerable
+- नमस्यंतः (*namasyaṃtaḥ*)—worshipping
+- उशिजः (*uśijaḥ*)—desiring wealth such as cattle
+- मनुषः (*manuṣaḥ*)—the priests
+- नि षेदुः (*ni ṣeduḥ*)—are serving (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O kindled Agni, a praise with you in view has been made; the hotā is reciting the praise in the form of a śastra. Therefore provide wealth. The priests, desiring wealth such as cattle, worshipping you, who are venerable to man, who call the gods to the sacrifice, and are venerable, are serving you.
+
+##### English translation (H. H. Wilson)
+Well-kindled Agni, for you the prayer has been composed : may (the priest) propitiate (you) by (his) praise : the (sacrificer) offers worship : bestow upon us manifold (wealth) : desiring (riches), men sit down adoring Agni, the invoker of the gods, the glorifier of mankind.
+
+## Sūkta 7 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिहेत्येकादशर्चं सप्तमं सूक्तं वामदेवस्यार्षमाग्नेयं । आद्या
+> जगती द्वितीयाद्याः पंचानुष्टुभः शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । अयमिहादौ
+> जगती पंचानुष्टुभ इति ॥ सूक्तविनियोगो लैंगिकः ॥ अग्निप्रणयनेऽयमिहेति
+> वैश्यस्य प्रतिपत् । तथा च सूत्रितं । अयमिह प्रथमो धायि धातृभिरिति तु
+> राजन्यवैश्ययोराद्ये । आ. २-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, beginning अयमिह (*ayamiha*), of eleven ṛks, has Vāmadeva as seer and Agni as deity. The first verse is a jagatī, the next five are anuṣṭubhs, the rest triṣṭubhs. So the Anukramaṇī says: अयमिहादौ जगती पंचानुष्टुभ इति (*ayamihādau jagatī paṃcānuṣṭubha iti*). The use of the sūkta is by the Liṅga (indicative sign). In the Agnipraṇayana (the leading forth of the fire), अयमिह (*ayamiha*) is the pratipad of the Vaiśya. As the sūtra states: अयमिह प्रथमो धायि धातृभिरिति तु राजन्यवैश्ययोराद्ये (*ayamiha prathamo dhāyi dhātṛbhiriti tu rājanyavaiśyayorādye*) (Ā. Sū. 2-17).
+
+### Printed p. 840
+Anuvāda: This sūkta beginning आयमिह (*āyamiha*) is the seventh sūkta in the first anuvāka. It has eleven ṛks. Vāmadeva is the seer of this sūkta; Agni is the deity. The first ṛk of this sūkta is in the jagatī metre. From the second ṛk to the sixth the metre is anuṣṭubh; the remaining ṛks are in the triṣṭubh metre. In the Anukramaṇikā it is said: अयमिहादौ जगती पंचानुष्टभः (*ayamihādau jagatī paṃcānuṣṭabhaḥ*). The use of the sūkta is by the Liṅga. In the rite called Agnipraṇayana (the rite of carrying the fire, churned and produced at the sacrifice, from the place of its production to the northern altar, is called Agnipraṇayana), this ṛk beginning अयमिह (*ayamiha*) is to be recited by a Vaiśya sacrificer as the ṛk called pratipad; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra अयमिह प्रथमो धायि धातृभिरिति तु राजन्यवैश्ययोराद्ये (*ayamiha prathamo dhāyi dhātṛbhiriti tu rājanyavaiśyayorādye*) (Ā. Sū. 2-17).
+
+Sūkta 2**NOTE**
+- Maṇḍala 4; Anuvāka 1; Sūkta 2
+- Aṣṭaka 3; Adhyāya 5; Varga 6, 7
+- Number of ṛks in the sūkta: 11
+- Seer: Vāmadeva
+- Deity: Agni
+- Metre: 1 jagatī; 2–6 anuṣṭubh; 7–11 jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒यमि॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒र्होता॒ यजि॑ष्ठो अध्व॒रेस्वीड्यः॑ ।  
+> यमप्न॑वानो॒ भृग॑वो विरुरु॒चुर्वने॑षु चि॒त्रं वि॒भ्वं॑  ॒॑
+> विशेविशे ॥ १ ॥
+
+> *āyamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvaresvīḍyaḥ |*  
+> *yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhvaṃ*  
+> *viśeviśe ‖ 1 ‖*
+
+### Printed p. 841
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । इह । प्रथमः। धायि । धातृभिः । होता । यजिष्ठः । अध्वरेषु । ईड्यः ।  
+> यं । अप्पवानः । भृगवः । विरुरुचुः । वनेषु । चित्रं । विभ्वं । विशेऽविशे ॥ १ ॥
+
+> *ayaṃ | iha | prathamaḥ| dhāyi | dhātṛbhiḥ | hotā | yajiṣṭhaḥ | adhvareṣu | īḍyaḥ |*  
+> *yaṃ | appavānaḥ | bhṛgavaḥ | virurucuḥ | vaneṣu | citraṃ | vibhvaṃ | viśe 'viśe ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धातृभिर्यज्ञार्थं कर्म कुर्वद्धिरध्वर्युभिरिहास्यज्ञे होता देवानामाह्वाता यजिष्ठोऽतिशयेन यष्टाध्वरेषु यागेष्विद्य ऋत्विग्निः स्तूयमानः
+> प्रथमः सर्वॆषां देवानां मुख्योऽयवाहवनीयादिस्थानेषु प्रत्यक्षेणोपलभ्यमानोऽग्निर्धायि । अधायि । निहितः ॥ दधातेः कर्मणि लुज् । बहुलं छंदस्यमाजत्योग इत्यडभावः । तिङ्ङतिज इति निघातः ॥ अयमग्निरित्युक्तं । कोऽसावग्निरित्यत आह । अप्पवानो भृगुसंबंधी कश्चिदृषिः स चान्वे भृगवश्च वनेष्वरण्येषु
+> चित्रं दावाग्निरूपेण बहुधा दर्शनीयं विशे विशे । वीप्सया सर्वजनव्याप्तिर्गृह्यते । सर्वस्या विशः प्रजाया विभ्वं विभुमीश्वरं यं देवानां हविर्वाहकत्वेन
+> प्रसिद्धमग्निं विरुरुचुः । दीप्तियुक्तं कुर्वंति स्म । यमिति यच्छब्दस्यायमितीदंशब्बेन संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Here, in this sacrifice, by the dhātṛs (धातृभिः (*dhātṛbhiḥ*)), the adhvaryus who perform the rite for the sacrifice, this Agni has been placed (धायि (*dhāyi*) = अधायि (*adhāyi*), set down): the hotā, the invoker of the gods; यजिष्ठः (*yajiṣṭhaḥ*), the most excellent sacrificer; the one to be praised at the adhvaras, the sacrifices; प्रथमः (*prathamaḥ*), first, chief of all the gods; perceived directly in the places of the Āhavanīya and so on.**NOTE** "This Agni" has been said; who is this Agni? He replies: whom Apnavāna, a certain seer connected with Bhṛgu, and the other Bhṛgus, made to shine (विरुरुचुः (*virurucuḥ*), made radiant) in the woods, in the forests; चित्रं (*citraṃ*), wondrous, to be seen in many ways in the form of the forest-fire. विशे विशे (*viśe viśe*): by the repetition the pervasion of all people is understood: for every people. विभ्वं (*vibhvaṃ*), the lord, the master, famed as the bearer of oblations of the gods. The relative यं (*yaṃ*) is connected with the demonstrative अयं (*ayaṃ*) ("this").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्नवानः (*apnavānaḥ*)—the seer named Apnavāna
+- भृगवः (*bhṛgavaḥ*)—and the other seers born in the line of Bhṛgu
+- वनेषु (*vaneṣu*)—in the forests
+- चित्रं (*citraṃ*)—who is worth seeing in the form of forest-fire
+- विशे विशे (*viśe viśe*)—for all peoples
+- विभ्वं (*vibhvaṃ*)—and lord
+- यं (*yaṃ*)—which Agni
+- विरुरुचुः (*virurucuḥ*)—they made blazing, such
+- होता (*hotā*)—who is in the form of the hotā
+- यजिष्ठः (*yajiṣṭhaḥ*)—the most venerable
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- ईड्यः (*īḍyaḥ*)—who is praised
+- प्रथमः (*prathamaḥ*)—the first of all gods
+- अयं (*ayaṃ*)—this Agni
+- धातृभिः (*dhātṛbhiḥ*)—by the adhvaryus who perform the sacrifice
+- इह (*iha*)—in this sacrifice
+- धायि (*dhāyi*)—has been established
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, in the form of the hotā, the most venerable, praised in the sacrifices, first of all gods, whom the seer Apnavāna and the other seers born in the line of Bhṛgu made blaze in the forests, he who is worth seeing in the form of forest-fire and lord of all peoples, has been established in this sacrifice by the adhvaryus who perform the sacrifice.
+
+### Printed p. 842
+
+##### English translation (H. H. Wilson)
+This invoker of the gods and minister of frequent worship, who is to be glorified at sacrifices, has been placed first (of the gods) by the performers of the rite : Agni whom Apnavana and other Bhrigus lighted in the woods for the sake of all men, marvellous (in his acts), and sovereign (over all).
+
+##### विशेषविषयगळु (Special Topics)
+
+अप्नवानः (*apnavānaḥ*)—The commentator says that Apnavāna is a certain seer born in the line of Bhṛgu. The name of this seer occurs in the Ṛgveda in the present ṛk and also in the ṛk जीवभृगुवच्छुचिमप्नवानवदा हुवे । अग्निं समुद्रवाससं॥ (*jīvabhṛguvacchucimapnavānavadā huve | agniṃ samudravāsasaṃ‖*) (Mu. Saṃ. 8-102-4).**NOTE** The same mantra is also stated in the Taittirīya Saṃhitā. "I shall invoke as Apnavāna, the seer born in the line of Bhṛgu, invoked Agni": thus the seer Prayoga of the same line speaks here. Although this seer is renowned, there is no occasion to learn more details about him.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ क॒दा त॑ आनु॒षग्भव॑द्दे॒वस्य॒ चेत॑नं ।  
+> अधा॒ हि त्वा॑ जगृभि॒रे मर्ता॑सो वि॒क्ष्वीड्यं॑ ॥ २ ॥
+
+> *agne kadā ta ānuṣagbhavaddevasya cetanaṃ |*  
+> *adhā hi tvā jagṛbhire martāso vikṣvīḍyaṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । कदा । ते । अनुषक् । भुवत् । देवस्य । चेतनं ।  
+> अध । हि । त्वा । जगृभ्रिरे । मर्तासः । विक्षु । ईड्यं ॥ २ ॥
+
+> *agne | kadā | te | anuṣak | bhuvat | devasya | cetanaṃ |*  
+> *adha | hi | tvā | jagṛbhrire | martāsaḥ | vikṣu | īḍyaṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने कदा त इति। प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रतावानुष्टुभे छंदस्याग्ने कदा त इत्याद्याः पंचर्चः । सूत्रितं च । अग्ने कदा त इति पंच । आ. ४. १३ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+Use: in the prātaranuvāka and in the Āśvina śastra, in the Āgneya kratu, in the anuṣṭubh metre, the five ṛks beginning अग्ने कदा त (*agne kadā ta*) are used. And it is stated in the sūtra: अग्ने कदा त इति पंच (*agne kadā ta iti paṃca*) (Ā. Sū. 4. 13).
+
+### Printed p. 843
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अधातः कारणाद्देवस्य द्योतमानस्य ते तव संबंधि चेतनं तेजः
+> कदानुषक् अनुषक्तं भुवत् । भवेत् ॥ लेट्यडागमः । बहुलं छंदसीति विकरणस्य
+> लुक् । भूसुवोस्तिजीति गुणप्रतिषेधः ॥ अतः कारणादित्युक्तं । कस्माद्धेतोरित्युच्यते । हि यस्मात्कारणान्मर्तासो मनुष्या विक्षु विड्भिः प्रजाभिरीड्यं स्तुत्यं त्वा त्वां
+> जगृभ्रिरे । जगृहिरे । गृह्णंति ॥ ग्रहेर्धातोर्लिटि हृग्रहोर्भ इति भत्वं । बहुलं
+> छंदसीति रुडागमः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, when will the light (चेतनं (*cetanaṃ*), brightness) of you, shining (देवस्य (*devasya*)), be continuous (आनुषक् (*ānuṣak*), attached; भुवत् (*bhuvat*) = भवेत् (*bhavet*))? अध (*adha*) = "for this reason"; for what reason is next said: because (हि (*hi*)) mortals (मर्तासः (*martāsaḥ*)), men, among the peoples (विक्षु (*vikṣu*)) have taken you (जगृभ्रिरे (*jagṛbhrire*) = जगृहिरे (*jagṛhire*)), worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हि (*hi*)—by whose greatness of yours
+- मर्तासः (*martāsaḥ*)—men
+- विक्षु (*vikṣu*)—among the peoples
+- ईड्यं (*īḍyaṃ*)—worthy of praise
+- त्वा (*tvā*)—you
+- जगृभिरे (*jagṛbhire*)—have taken up**NOTE**
+- अध (*adha*)—for that reason
+- देवस्य (*devasya*)—of the shining
+- ते (*te*)—of you
+- चेतनं (*cetanaṃ*)—the brightness
+- कदा (*kadā*)—when
+- आनुषक् (*ānuṣak*)—manifest**NOTE**
+- भुवत् (*bhuvat*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by whose greatness men have borne you, praised among the peoples, for that reason, when does your brightness, shining, become manifest?
+
+##### English translation (H. H. Wilson)
+When, Agni, is the light of you, bright-shining, to be manifested? for therefore have mortals accepted you as to be worshipped amongst mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the recitation of the prātaranuvāka and of the Āśvina śastra mantras, the five ṛks of this sūkta beginning अग्ने कदा ते (*agne kadā te*), in the anuṣṭubh metre, are used for the ṛks related to the Āgneya kratu; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra अग्ने कदा त इति पंच (*agne kadā ta iti paṃca*) (Ā. Sū. 4-13).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तावा॑नं॒ विचे॑तसं॒ पश्यं॑तो॒ द्यामि॑व॒ स्तृभिः॑ ।  
+> विश्वे॑षामध्व॒राणां॑ हस्क॒र्तारं॒ दमे॑दमे ॥ ३ ॥
+
+> *ṛtāvānaṃ vicetasaṃ paśyaṃto dyāmiva stṛbhiḥ |*  
+> *viśveṣāmadhvarāṇāṃ haskartāraṃ damedame ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 837. pp. 832-837 (batch API)
+**Progress note:** Done through printed p. 843. pp. 838-843 (batch API)
