@@ -21039,6 +21039,261 @@ Devoted (to Agni), those leaders (of sacred rites), with minds intent upon (reco
 > *viṃdan |*  
 > *tajjñānatīrabhyanūṣata vrā āvirbhavadaruṇīyaryaśasā goḥ ‖ 16 |*
 
+### Printed p. 694
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शे । मन्वत । प्रथमं । नाम । धेनोः । त्रिः । सप्त । मातुः । परमाणि । विंदन् ।  
+> तत् । जानतीः । अभि । अनुषत । व्राः । आविः । भुवत् । अरुणीः । यशसा । गोः । १६॥
+
+> *śe | manvata | prathamaṃ | nāma | dhenoḥ | triḥ | sapta | mātuḥ | paramāṇi | viṃdan |*  
+> *tat | jānatīḥ | abhi | anuṣata | vrāḥ | āviḥ | bhuvat | aruṇīḥ | yaśasā | goḥ | 16‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते स्तोत्रं कुर्वाणा अंगिरसो मातुर्जनन्या धेनोर्वाचः
+> संबंधि नाम स्तुतिसाधकं शब्दमात्रं प्रथमं पूर्वं मन्वत । अजानत । पश्चात्तस्या
+> वाचः संबंधीनि त्रिः सप्तैकविंशतिसंख्याकानि स्तुतिसाधनानि छंदांसि । तानि च गायत्रादीनि जगत्यंतानि सप्त । अतिजगत्यादीन्यतिधृत्यंतानि सप्त । कृतिप्रभृतीनुत्कृतिपर्यंतानि सप्तेति । एवं त्रिः सप्त छंदांसि परमाण्युत्तमानि विंदन् । अलभंत ।
+> एवंविधच्छंदोयुक्तैर्मंत्रैरग्निमस्तुवन्नित्यर्थः । तत्ततो जानतीः सर्वं जानाना
+> व्याः । व्या इत्युषोनाम । उषसोऽभ्यनूषत । अस्तुवन् । ततो गोः सूर्यस्य
+> यशसा तेजसा सहारुणीररुणवर्णोषा आविर्भुवत् अविरभूत् । यद्वा । तेऽंगिरसः प्रथमं पुरातनं नाम एहि सुरभि गुग्गुलु गंधिनीति धेनोर्नामधेयं मन्वत
+> उच्चारयामासुः । मातुर्भूम्याः स्वभूतानि पणिभिरपहृतानि त्रिः सप्त रत्नानि
+> विंदन् । तत उच्चरितं नाम जानंत्यो गावोऽभ्यनूषत । हंभारवलक्षणं शब्दमकुर्वन् । तदानीमुषाः प्रादुरभूदिति ॥ जानतीः । एकस्मिन्पक्षे वा छंदसीति पूर्वसवर्णदीर्घः । उभयत्र शतुरनुमो नद्यजादीति जीप उदात्तत्वं । अनूषत । णु
+> स्तुता । लुजः रूपं । कुटादित्वदगुणः । अरुणीः । सोरलोपश्चांदसो गौरीर्मिमाय । ऋग्वे. १-१६४-४१ । इतिवत् ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the Angirases who praise you first thought (मन्वत (*manvata*), i.e. came to know) the name, the mere word serving as a means of praise, belonging to the cow (धेनोः (*dhenoḥ*)), the mother, that is Speech. Afterwards they found (विंदन् (*viṃdan*), obtained) the thrice seven (twenty-one) supreme, excellent metres belonging to that Speech and serving as means of praise. These are: seven from Gāyatrī to Jagatī; seven from Atijagatī to Atidhṛti; seven from Kṛti to Utkṛti. The meaning is that they praised Agni with mantras furnished with metres of this kind. Then, knowing everything, they praised (अभ्यनूषत (*abhyanūṣata*)) the व्राः (*vrāḥ*) (व्रा (*vrā*) is a name of Uṣas), the dawns. Then, with the glory, the brilliance, of the sun (गोः (*goḥ*)), the ruddy dawn of reddish colour became manifest."
+
+Alternatively: those Angirases uttered the first, the ancient name of the cow — "Come, fragrant one, guggulu-scented one" (एहि सुरभि गुग्गुलु गंधिनीति (*ehi surabhi guggulu gaṃdhinīti*)). They found the thrice seven jewels belonging to Mother Earth and carried off by the Paṇis. Then the cows, knowing the name that had been uttered, lowed, making the sound "haṃbhā". Then Uṣas appeared. (The rest of the block is grammatical: the forms जानतीः (*jānatīḥ*), अनूषत (*anūṣata*) and अरुणीः (*aruṇīḥ*), the last compared with गौरीर्मिमाय (*gaurīrmimāya*), Ṛ. Saṃ. 1-164-41.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—the praising Angirases (O Agni)
+- मातुः (*mātuḥ*)—of the (cow) in the form of the mother
+- धेनोः (*dhenoḥ*)—belonging to speech, in the form of praise
+- नाम (*nāma*)—only the nature of the word
+- प्रथमं (*prathamaṃ*)—first
+- मन्वत (*manvata*)—understood; (afterwards)
+- त्रिः सप्त (*triḥ sapta*)—twenty-one in number
+- परमाणि (*paramāṇi*)—excellent; the metres
+- विंदन् (*viṃdan*)—they came to know
+- तत् (*tat*)—thereafter
+- जानतीः (*jānatīḥ*)—the all-knowing
+- व्राः (*vrāḥ*)—Uṣas-es
+- अभ्यनूषत (*abhyanūṣata*)—they praised
+- गोः (*goḥ*)—of the Āditya (sun)
+- यशसा (*yaśasā*)—together with the radiance
+- अरुणीः (*aruṇīḥ*)—the golden-hued Uṣas
+- आविर्भुवत् (*āvirbhuvat*)—became manifest
+
+### Printed p. 695
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the praising Angirases first came to know only the nature of the word of praise, which is in the form of the mother. Afterwards they came to know the twenty-one excellent metres. Then they praised the all-knowing dawns. United with the radiance of the Āditya, the golden-hued Uṣas became manifest.
+
+##### English translation (H. H. Wilson)
+They first have comprehended the name of the cows, knowing the thrice seven excellent (forms) of the maternal (rhythm); then they glorified the conscious dawns, and the purple dawn appeared with the radiance of the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator explains त्रिः सप्त परमाणि (*triḥ sapta paramāṇi*) as twenty-one metres. They are as follows.
+I. गायत्र्यादीनि जगत्त्यंतानि सप्त (*gāyatryādīni jagattyaṃtāni sapta*)—the seven metres from Gāyatrī up to Jagatī: (1) Gāyatrī (2) Uṣṇik (3) Anuṣṭup (4) Bṛhatī (5) Paṅktiḥ (6) Triṣṭup (7) Jagatī.
+II. अतिजगत्यादीन्यतिधृत्यंतानि सप्त (*atijagatyādīnyatidhṛtyaṃtāni sapta*)—the seven metres from Atijagatī up to Atidhṛti: (1) Atijagatī (2) Śakvarī (3) Atiśakvarī (4) Aṣṭiḥ (5) Atyaṣṭiḥ (6) Dhṛtiḥ (7) Atidhṛtiḥ.
+III. कृतिप्रभृतीन्युत्कृतिपर्यंतानि सप्त (*kṛtiprabhṛtīnyutkṛtiparyaṃtāni sapta*)—the seven metres from the metre Kṛti up to Utkṛti: (1) Kṛtiḥ (2) Prakṛtiḥ (3) Ākṛtiḥ (4) Vikṛtiḥ (5) Saṃkṛtiḥ (6) Abhikṛtiḥ (7) Utkṛtiḥ.
+The sense is that these three groups together make twenty-one kinds of metres.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नेश॒त्तमो॒ दुधि॑तं॒ रोच॑त॒ द्यौरुद्दे॒व्या उ॒षसो॑ भा॒नुर॑र्त।  
+> आ सूर्यो॑ बृह॒तस्ति॑ष्ठ॒दज्रां॑ ऋ॒जु मर्ते॑षु वृजि॒ना च॒  ॑
+> पश्यन् ॥ १७ ॥
+
+> *neśattamo dudhitaṃ rocata dyauruddevyā uṣaso bhānurarta|*  
+> *ā sūryo bṛhatastiṣṭhadajrāṃ ṛju marteṣu vṛjinā ca*  
+> *paśyan ‖ 17 ‖*
+
+### Printed p. 696
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नेशत् । तमः । दुधितं । रोचत । द्यौः । उत् । देव्याः । उषसः । भानुः । अर्त ।  
+> आ । सूर्यः । बृगतः । तिष्ठत् । अज्रान् । ऋजु । मर्तेषु । वृजिना । च । पश्यन् ॥
+
+> *neśat | tamaḥ | dudhitaṃ | rocata | dyauḥ | ut | devyāḥ | uṣasaḥ | bhānuḥ | arta |*  
+> *ā | sūryaḥ | bṛgataḥ | tiṣṭhat | ajrān | ṛju | marteṣu | vṛjinā | ca | paśyan ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमो रात्रिकृतं ध्वांतं दुधितं । दुधिः प्रेरणकर्मा । प्रातरग्नि विहरणकाल
+> उषसा प्रेरितं सत् नेशत् । अनश्यत । ततो द्यौरंतरिक्षं रोचत । अदीप्यत । ततो
+> देव्या देवनशीलाया उषसो भानुः प्रभोदर्त । उद्दच्छति । अथ सूरो बृहतो
+> महतोऽज्रानजरान्पर्वतान् गमनशीलान्प्रश्मीन्वा तिष्ठत् । अध्यतिष्ठत् । किं कुर्वन्
+> मर्तेषु मनुष्येषु विद्यमानमृजु सत्कर्म वृजिनानृजून्यसत्कर्माणि च पश्यन् ।
+> अध्यतिष्ठदिति शेषः ॥ नेशत् । णश आदर्शने । लजि णशिमन्वयोरलिट्येत्वं वक्तव्यमित्येत्वं । शपः पित्वादनुदात्तत्वे धातुस्वरः । रोचत । रुच दीप्तौ । लजि रूपं ।
+> वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+The darkness (तमः (*tamaḥ*)) is the gloom made by night; दुधितं (*dudhitaṃ*): दुधिः (*dudhiḥ*) has the sense of impelling. At the time of Agni's morning kindling, impelled by Uṣas, it perished (नेशत् (*neśat*)). Then the sky (द्यौः (*dyauḥ*), the atmosphere) shone (रोचत (*rocata*)). Then the light of the shining goddess Uṣas rose up (अर्त (*arta*)). Then the sun stood over (तिष्ठत् (*tiṣṭhat*), "stood upon") the great, unaging mountains, or the moving rays (अज्रान् (*ajrān*)). Doing what? Beholding the straight (ऋजु (*ṛju*)), good deeds existing among mortals, and the crooked, bad deeds. "He stood upon" is the word to be supplied. (The rest of the block is grammatical, on नेशत् (*neśat*) and रोचत (*rocata*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तमः (*tamaḥ*)—the pitch darkness
+- दुधितं (*dudhitaṃ*)—driven away (by Uṣas)
+- नेशत् (*neśat*)—was destroyed
+- दौः (*dauḥ*)—the atmosphere
+- रोचत (*rocata*)—shone
+- देव्याः (*devyāḥ*)—of the shining
+- उपसः (*upasaḥ*)—Uṣas
+- भानुः (*bhānuḥ*)—the light
+- उत आर्त (*uta ārta*)—spreads upward
+- सूर्यः (*sūryaḥ*)—the Āditya
+- मर्तेषु (*marteṣu*)—among men
+- ऋजु (*ṛju*)—the straightforward deeds
+- वृजना च (*vṛjanā ca*)—and the deceitful acts
+- पश्यन् (*paśyan*)—beholding
+- बृहतः (*bṛhataḥ*)—great
+- अज्रान् (*ajrān*)—the undecaying rays
+- आ तिष्ठत् (*ā tiṣṭhat*)—having obtained, shines
+
+##### भावार्थ (Bhāvārtha)
+
+The pitch darkness, driven away by Uṣas, was destroyed. The atmosphere shone. The light of Uṣas spreads upward. The Āditya, beholding the straightforward deeds and the deceitful acts that go on among men, obtains the great and undecaying rays and shines.
+
+##### English translation (H. H. Wilson)
+The scattered darkness was destroyed; the firmament glowed with radiance ; the lustre of the divine dawn arose : then the sun stood above the undecaying mountains, beholding all that was right or wrong among mankind.
+
+### Printed p. 697
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदित्प॒श्चा बु॑बुधा॒ना व्य॑ख्य॒न्नादिद्रत्नं॑ धारयंत॒ द्युभ॑क्तं ।  
+> विश्वे॒ विश्वा॑सु॒ दुर्या॑सु दे॒वा मित्र॑ धि॒ये व॑रुण स॒त्यम॑स्तु ॥
+
+> *āditpaścā bubudhānā vyakhyannādidratnaṃ dhārayaṃta dyubhaktaṃ |*  
+> *viśve viśvāsu duryāsu devā mitra dhiye varuṇa satyamastu ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । पश्चा । बुबुधानाः । वि । अख्यन् । आत् । इत् । रत्नं । धारयंत ।  
+> द्युभक्तं ।  
+> विश्वे । विश्वासु । दुर्यासु । देवाः । मित्र । धिये । वरुण । सत्यं । अस्तु ॥ १८ ॥
+
+> *āt | it | paścā | bubudhānāḥ | vi | akhyan | āt | it | ratnaṃ | dhārayaṃta |*  
+> *dyubhaktaṃ |*  
+> *viśve | viśvāsu | duryāsu | devāḥ | mitra | dhiye | varuṇa | satyaṃ | astu ‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्सूर्योदयादनंतरं बुबुधानाः पणिभिरपहृता निरोधान्निर्गता गा
+> जानाना अंगिरसः पश्चा पृष्यदेशेषु व्यख्यन् । अशेषेण ता गा अपश्यन् । तथादिदनंतरं द्युभक्तं दीप्तियुक्तं देवैः संभक्तं वा रत्नं पणिभिरपहृतं धनं च धारयंत । आधारयन् । लब्धगोधनानामंगिरसां विश्वासु दुर्यासु सर्वेषु गृहेषु
+> विश्वे यजनीयाः सर्वॆ देवा आजग्मुः । हे मित्र मित्रभूत हे वरुणोपद्रवाणां
+> वारक हे अग्ने धिये कर्मणां कर्त्रॆ स्तोत्रे वा यजमानाय सत्यमस्तु । यदेतत्तवोपद्रववारणसामर्थ्यं तद्यथार्थभूतमस्तु ॥ पश्चा । पश्च पश्चा च छंदसीति
+> निपातितः । बुबुधानाः । बुधेर्लिटि कानचि रूपं । चित्वादंतोदात्तः । द्युभक्तं ।
+> भज सेवायां । कर्मणि क्तः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+आदित् (*ādit*): after sunrise the Angirases, awakened (बुबुधानाः (*bubudhānāḥ*)), knowing the cows that had been carried off by the Paṇis and had come out of confinement, saw them (व्यख्यन् (*vyakhyan*)) completely, in the rear regions (पश्चा (*paścā*)). Then, immediately after, they took hold of (धारयंत (*dhārayaṃta*)) the treasure (रत्नं (*ratnaṃ*)), radiant (द्युभक्तं (*dyubhaktaṃ*)) or shared by the gods, wealth carried off by the Paṇis. In all the houses (दुर्यासु (*duryāsu*)) of the Angirases who had regained their cows, all (विश्वे (*viśve*)) the gods, the worthy of sacrifice, came. O Mitra, who are as a friend; O Varuṇa, warder-off of troubles; O Agni: for the sacrificer, the doer of rites, or the praiser, let it be true (सत्यमस्तु (*satyamastu*)) — let this power of yours to ward off troubles be real. (The rest of the block is grammatical: पश्चा (*paścā*), बुबुधानाः (*bubudhānāḥ*), द्युभक्तं (*dyubhaktaṃ*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित् (*ādit*)—right after sunrise
+- बुबुधानाः (*bubudhānāḥ*)—the Angirases who had come to know the cows
+- पश्चा (*paścā*)—behind them
+- व्यख्यन् (*vyakhyan*)—saw the cows
+- आदित् (*ādit*)—immediately
+- द्युभक्तं (*dyubhaktaṃ*)—radiant
+- रत्नं (*ratnaṃ*)—wealth
+- धारयंत (*dhārayaṃta*)—obtained
+- विश्वासु (*viśvāsu*)—in all
+- दुरासु (*durāsu*)—in the sacrificial houses
+- विश्वे देवाः (*viśve devāḥ*)—all the gods came and gathered
+- मित्र (*mitra*)—O friend
+- वरुण (*varuṇa*)—O Varuṇa, destroyer of harms (Agni)
+- धिये (*dhiye*)—to the praising sacrificer
+- सत्यं अस्तु (*satyaṃ astu*)—let there be a life of truth
+
+### Printed p. 698
+
+##### भावार्थ (Bhāvārtha)
+
+Only after sunrise did the Angirases see their cows. At once they obtained radiant wealth. In all the sacrificial houses all the gods came and gathered. O Mitra and Varuṇa, by your grace let the praising sacrificer have a life of truth.
+
+##### English translation (H. H. Wilson)
+Thereupon awaking, the (Angirasas) beheld (the cattle set free), and seized upon the precious treasures: the universal gods then came to all (their) dwellings: Mitra and Varuna, may your truth be (kept) to him who worships (you).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ वोचेय शुशुचा॒नम॒ग्निं होता॑रं वि॒श्वभ॑रसं॒  ॑
+> यजिष्ठं ।  
+> शुच्यधो॑ अतृण॒न्न गवा॒मंधो॒ न पू॒तं परि॑षिक्तमं॒शोः ॥
+
+> *acchā voceya śuśucānamagniṃ hotāraṃ viśvabharasaṃ*  
+> *yajiṣṭhaṃ |*  
+> *śucyadho atṛṇanna gavāmaṃdho na pūtaṃ pariṣiktamaṃśoḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । वोचेय । शुशुचानं । अग्निं । होतारं । विश्वभरसं । यजिष्ठं ।  
+> शुचि । ऊधः । अतृणत् । न । गवां । अंधः । न । पूतं । परिऽसिक्तं । अंशोः ॥ १९ ॥
+
+> *accha | voceya | śuśucānaṃ | agniṃ | hotāraṃ | viśvabharasaṃ | yajiṣṭhaṃ |*  
+> *śuci | ūdhaḥ | atṛṇat | na | gavāṃ | aṃdhaḥ | na | pūtaṃ | pari 'siktaṃ | aṃśoḥ ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने शुशुचानं भृशं दीप्यमानं होतारं देवानामाह्वातारं विश्वभरसमाहुतिद्वारा वृष्टिप्रदानेन विश्वस्य पोषकं यजिष्ठं यष्टृतममग्निं त्वामच्छाभिलक्ष्य वोचेय । स्तवानि । गवामूधः शुचि शुद्धं पयो नातृणत् । तवाहुत्यर्थं यजमानो न दोग्दि । अंशोः सोमलताखंडस्य संबंध्यंधो रसाख्यमन्नं पूतं दशापवित्रेण शोधितं सत् न परिषिक्तं । गृहेषु न प्रक्षिप्तं । किंत्वनेन.
+
+##### Gist of the bhāṣya
+
+O Agni, you who blaze brightly (शुशुचानं (*śuśucānaṃ*)), the Hotṛ, caller of the gods, विश्वभरसं (*viśvabharasaṃ*) — nourisher of the whole world by granting rain through the oblation — the most worshipful (यजिष्ठं (*yajiṣṭhaṃ*)): I would address (वोचेय (*voceya*), praise) you (अच्छ (*accha*), directing myself towards you). The udder of the cows, pure milk, has not been milked (अतृणत् (*atṛṇat*)): the sacrificer does not milk for your oblation. The food (अंधः (*aṃdhaḥ*)), the juice, of the fragment of the soma plant (अंशोः (*aṃśoḥ*)), purified with the ten-fold filter, has not been poured out (परिषिक्तं (*pariṣiktaṃ*)), not cast in the houses. But by this sacrificer only praise is made.
+
+### Printed p. 699
+
+> यजमानेन केवलं स्तुतिरेव क्रियते ॥ पोचॆय । ब्रूञ् आशीर्लिजं ब्रुवो वचिः ।
+> लिङ्शिष्यज् । छंदस्युभयथेति सार्वधातुकत्वात्सीयुटः सलोपः । अतृणत् । उत्दिर् हिंसानादरयोः । दोहनमेवोधोहिंसनं । परिषिक्तं । सिंचतेः कर्मणि
+> क्तः उपसर्गात्सुनोतीति संहितायां षत्वं । गतिरनंतर इति गतेः स्वरः ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues from the previous block: only praise is made by this sacrificer. The rest of the block is grammatical, on पोचॆय (*pocèya*)**NOTE**, अतृणत् (*atṛṇat*) (with "milking is itself harming" noted), and परिषिक्तं (*pariṣiktaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुशुचानं (*śuśucānaṃ*)—the shining one (O Agni)
+- होतारं (*hotāraṃ*)—the caller of the gods
+- विश्वभरसं (*viśvabharasaṃ*)—the nourisher of the whole world
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worshipful
+- अग्निं (*agniṃ*)—you, of the form of Agni
+- अच्छ (*accha*)—directing myself to
+- वोचेयु (*voceyu*)—I praise
+- गवां (*gavāṃ*)—of the cows
+- ऊधः (*ūdhaḥ*)—the udder (the milk)
+- न अतृणं (*na atṛṇaṃ*)—was not milked
+- अंशोः (*aṃśoḥ*)—of the soma
+- अंधः (*aṃdhaḥ*)—the food in the form of juice
+- पूतं (*pūtaṃ*)—purified
+- न परिषिक्तं (*na pariṣiktaṃ*)—was not placed in the house (may you be satisfied with praise alone)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are shining, who call the gods to the sacrifice, nourisher of the whole world, the most worshipful, of the form of Agni: directing myself to you I offer praise. Because the sacrificer is poor, milk could not be milked and offered. The food in the form of soma juice could not be offered. Only praise has been recited.
+
+##### English translation (H. H. Wilson)
+May I glorify the present radiant Agni, the invoker (of thc gods), the supporter of the universe, most deserving of adoration, without milking the pure udder (of thc cow), without the purified food of the Soma offered in libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the sacrificer who performs the sacrifice is poor, and so has no power to offer milk, oblation or soma juice. Agni is therefore prayed to be satisfied with praises alone, accompanied by devotion and faith, which the sacrificer has offered.
+
 ---
 
-**Progress note:** Done through printed p. 693. pp. 688-693 (batch API)
+**Progress note:** Done through printed p. 699. pp. 694-699 (batch API)
