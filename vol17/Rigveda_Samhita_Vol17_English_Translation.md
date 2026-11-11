@@ -13678,6 +13678,206 @@ mahaḥ vapūṃṣi bibhratam—they know the womb-form that bears bodies of ma
 अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता । (*amī ye sapta raśmayastatrā me nābhirātatā |*) (Ṛ. Saṃ. 1-105-9)
 The many forms of the sun's rays described in such Ṛks were explained earlier.
 
+### Printed p. 400
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ विवक्कि॒ रोद॑सी सु॒मेके॒ ग्राव्यो॑ युजा॒नो अ॑ध्व॒रे  ॒॑
+> मनीषा ।  
+> इ॒मा उ॑ ते॒ मान॑वे॒ भूरि॑वारा ऊ॒र्ध्वा भ॑वंति दर्श॒ता  ॑
+> यजत्राः ॥ ४ ॥
+
+> *acchā vivakki rodasī sumeke grāvyo yujāno adhvare*  
+> *manīṣā |*  
+> *imā u te mānave bhūrivārā ūrdhvā bhavaṃti darśatā*  
+> *yajatrāḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । विवक्कि । रोदसी इति । सुमेके इति सुमेके । ग्राव्यः । युजानः । अध्वरे ।  
+> मनीषा ।  
+> इमाः। ऊं इति । ते । मनवे । भूरिवाराः । ऊर्ध्वाः । भवंति । दर्शताः ।  
+> यजत्राः ॥ ४ ॥
+
+> *accha | vivakki | rodasī iti | sumeke iti sumeke | grāvyaḥ | yujānaḥ | adhvare |*  
+> *manīṣā |*  
+> *imāḥ| ūṃ iti | te | manave | bhūrivārāḥ | ūrdhvāḥ | bhavaṃti | darśatāḥ |*  
+> *yajatrāḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वरे यज्ञॆ ग्राज्ञः सोमाभिषवार्थमुपलान् युजानः प्रयुंजानेऽहं सुमेके सुरूपे रोदसी द्यावापृथिव्यौ मनीषा मनस ईषया स्तुतिलक्षणया
+> वाचाच्छ विवक्कि । अभिमुख्येन सौमि । हे अग्ने ते तव भूरिवारा यजमानैर्बहुवारं वरणीया दर्शताः कमनीयतया दर्शनीया यजत्रा: पूज्या इमा दीप्तयो
+> मनवे मनुष्यव्यवहारार्थमूर्ध्वा ऊर्ध्वमुखा भवंति ॥ विवक्कि । वच परिभाषणे ।
+> लटि बहुलं छंदसीति शपः श्लुः । अर्तिपिपर्त्योश्च बहुलं छंदसीत्यभ्यासस्यॆत्वं ।
+> चकारस्य कुत्वं व्यत्ययेन । युजानः । युजिबुधिदृशः किच्चेत्यानच् । कित्तादगुणः।
+> चित्तादंतोदात्तः । मनीषा । सुपो डादेशः ॥
+
+##### Gist of the bhāṣya
+
+I, who am employing the pressing-stones for the pressing of Soma at the sacrifice (अध्वरे (*adhvare*)), address (विवक्कि (*vivakki*)) the beautiful heaven and earth (सुमेके (*sumeke*) रोदसी (*rodasī*)), facing them, with speech in the form of praise. मनीषा (*manīṣā*) is explained as "by the impulse of the mind", that is, by speech of the nature of praise. Then, to Agni: these flames of yours, much chosen by the sacrificers (भूरिवारा (*bhūrivārā*)), lovely to see through their desirability (दर्शताः (*darśatāḥ*)), and worthy of worship (यजत्राः (*yajatrāḥ*)), turn upward (ऊर्ध्वा (*ūrdhvā*)) for the sake of Manu, that is, for the business of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरे (*adhvare*)—in the sacrifice
+- ग्राव्यः (*grāvyaḥ*)—the stones that press the Soma
+- युजानः (*yujānaḥ*)—I, who hold them for the pressing
+- सुमेके (*sumeke*)—of excellent form
+- रोदसी (*rodasī*)—heaven and earth
+- मनीषा (*manīṣā*)—with speech in the form of praise
+- अच्छ विवक्कि (*accha vivakki*)—standing facing them, I recite (O Agni)
+- भूरिवाराः (*bhūrivārāḥ*)—much desired by the sacrificers
+- दर्शताः (*darśatāḥ*)—of attractive form
+- यजत्राः (*yajatrāḥ*)—worthy of worship
+- ते इमाः (*te imāḥ*)—these rays of yours
+- मनवे (*manave*)—for the business of men
+- ऊर्ध्वाः (*ūrdhvāḥ*)—turned upward
+- भवंति (*bhavaṃti*)—spread out
+
+### Printed p. 401
+
+##### भावार्थ (Bhāvārtha)
+
+At the sacrifice I stand ready, holding the stones in order to crush and press out the Soma juice, and I recite to heaven and earth, which are of excellent juice, standing facing them, with speech in the form of praise. O Agni, these rays of yours, which are desired by the sacrificers, of attractive form and worthy of worship, spread upward for the business of men.
+
+##### English translation (H. H. Wilson)
+I glorify with praise the beautiful heaven and earth, taking in hand the stones (to express the libation) at the sacrifice, as these your graceful, adorable, and many-blessing rays (Agni) mount up for the good of man.
+
+##### विशेषविषयगळु (Special Topics)
+
+अध्वरे (*adhvare*)—ध्वरतिः हिंसाकर्म (*dhvaratiḥ hiṃsākarma*) (Ni. 1-8). The word is formed from the root ध्व (*dhva*), which gives the sense "to cause injury". अध्वरे (*adhvare*) means "in the sacrifice that is free from injury".
+
+ग्रावः (*grāvaḥ*)—सोमाभिषवार्थमुपलान् (*somābhiṣavārthamupalān*). It means the stones held for crushing and pressing the Soma juice. Although the two words ग्राव (*grāva*) and अद्रि (*adri*) both have in common usage the general sense "stone", it can be said, from their descriptions and epithets, that the ग्राव (*grāva*) and the अद्रि (*adri*) that serve to press out the Soma juice must have differed in their very form. Generally, where the word ग्राव (*grāva*) is used the bhāṣya gives it the meaning "stone", and where the word अद्रि (*adri*) stands it gives the meaning ग्राव (*grāva*). But this difference of meaning is not the basis for showing how they differ. From the epithets and comparisons that describe their form, and from the words that denote the sound they make while the Soma is pressed, it is understood that these two implements are different. बृहाण (*bṛhāṇa*) (5-41-12); पर्वत (*parvata*) (10-94-1); अश्रमण (*aśramaṇa*), अश्वथित (*aśvathita*), अमृत्यु (*amṛtyu*), अनातुर (*anātura*), अजर (*ajara*), आमविष्णु (*āmaviṣṇu*) (10-94-11), क्षेमकाम (*kṣemakāma*) (10-94-12): all of these are epithets showing the distinctive character of the अद्रि (*adri*); epithets such as पृथु (*pṛthu*) and पृथुबुध (*pṛthubudha*) show the distinctive character of the ग्राव (*grāva*) alone. The ग्राव (*grāva*) is generally compared to a bull, and the अद्रि (*adri*) to a horse.
+
+Some portions of the Grāva-stotra make known the greatness of this ग्राव (*grāva*). According to the Āśvalāyana Śrauta-sūtra, this praise comprises the sūkta 10-94, which praises the ग्राव (*grāva*) directly, preceded by the mantras Ṛ. Saṃ. 1, 24, 3; 5, 81, 1; 8, 41, 1; 8, 1, 1. At the end the sūkta 10-175 is recited.
+
+### Printed p. 402
+Of these, the mantras 1, 24, 3; 5, 81, 1 and 10, 175 are addressed to the deity Savitṛ. Since he is the impeller of all, he is prayed to impel the pressing of the juice. For example:
+
+प्र वो ग्रावाणः सविता देवः सुवतु धर्मणा । धूर्षु युज्यध्वं सुनुत ॥ (*pra vo grāvāṇaḥ savitā devaḥ suvatu dharmaṇā | dhūrṣu yujyadhvaṃ sunuta ‖*)
+(Ṛ. Saṃ. 18-175-1) **NOTE**
+O pressing-stones, may the god Savitṛ, the impeller of all, impel you to the pressing of Soma. At the places of pressing, join together with faith and with eagerness for the work, and press. In the same way the stones are praised by mantras such as ग्रावाणः अप दुच्चुनामप सेधत दुर्मतिं (*grāvāṇaḥ apa duccunāmapa sedhata durmatiṃ*). Besides these, we may examine just a few of the mantras that are recited describing the beneficial and purifying sound the stones make at the time of pressing, and praising the stones.
+
+प्रैते वदंतु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः । यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेंद्राय सोमिनः ॥ (*praite vadaṃtu pra vayaṃ vadāma grāvabhyo vācaṃ vadatā vadadbhyaḥ | yadadrayaḥ parvatāḥ sākamāśavaḥ ślokaṃ ghoṣaṃ bharatheṃdrāya sominaḥ ‖*)
+(Ṛ. Saṃ. 10-94-1)
+Let these stones raise a praise in the form of sound. Let us too offer a fitting counter-praise to this praise. O stones, heavy and swift-moving, as soon as you recite your praise in the form of sound addressed to Indra, the Soma juice will surely be pressed by you.
+
+एते वदंति शतवत्सहस्रवदभि क्रंदंति हरितेभिरासभीः । विष्ट्वी ग्रावाणः सुकृतः सुकृत्यया होतुश्चित्पूर्वे हविरद्यमाशत ॥ (*ete vadaṃti śatavatsahasravadabhi kraṃdaṃti haritebhirāsabhīḥ | viṣṭvī grāvāṇaḥ sukṛtaḥ sukṛtyayā hotuścitpūrve haviradyamāśata ‖*)
+(Ṛ. Saṃ. 10-94-2)
+These stones make a deep sound from their green-coloured mouths, like the deep sound that arises when thousands of people gather and shout. Keeping the sacrifice under their own control, they receive the oblation even before Agni, the divine hotṛ.
+
+सुपर्णा वाचमक्रतोप द्यव्याखरे कृष्णा इषीरा अनर्तिषुः । न्य १ ज्ञयंत्युपरस्य निष्कृतं पुरू रेतो दधिरे सूर्यश्वितः ॥ (*suparṇā vācamakratopa dyavyākhare kṛṣṇā iṣīrā anartiṣuḥ | nya 1 jñayaṃtyuparasya niṣkṛtaṃ purū reto dadhire sūryaśvitaḥ ‖*)
+(10-94-5)
+These stones, moving softly, make a sound in the atmosphere. They rejoice in the courtyard as a black antelope dances. They press out a juice that shines like the sun.
+
+### Printed p. 403
+ध्रुवा एव वः पितरो युगेयुगे क्षेमकामासः सदसो न युंजते । अजुर्यासो हरिषाचो हरिद्रव आ द्यां रवेण पृथिवीमशुश्रवुः ॥ (*dhruvā eva vaḥ pitaro yugeyuge kṣemakāmāsaḥ sadaso na yuṃjate | ajuryāso hariṣāco haridrava ā dyāṃ raveṇa pṛthivīmaśuśravuḥ ‖*)
+(Ṛ. Saṃ. 10-94-12)
+O stones, your fathers the mountains, desiring peace for themselves, used to remain apart (विवक्त (*vivakta*)), taking no share in the assembly. Ageless, and satisfied by obtaining Soma, they used to spread their soft sounds through all of heaven and earth and make them echo.
+
+तदिद्वदंत्यद्रयो विमोचने यामन्नंजस्पा इव फेदुपब्बिभिः । वसंतो बीजमिव धान्याकृतः पृंचंति सोमं न मिनंति बप्सतः ॥ (*tadidvadaṃtyadrayo vimocane yāmannaṃjaspā iva phedupabbibhiḥ | vasaṃto bījamiva dhānyākṛtaḥ pṛṃcaṃti somaṃ na minaṃti bapsataḥ ‖*)
+(Ṛ. Saṃ. 10-94-13)
+At the time of pressing these stones, like chariots moving swiftly on the road, and like farmers sowing seed who raise a cry of joy, press out the Soma juice sounding deeply and attractively. And they do no harm at all. In this way the praise of the ग्राव (*grāva*) runs. This praise also takes the form of a description of the ग्राव (*grāva*). And before reciting the last mantra, सुते अध्वरे (*sute adhvare*), the priest called Grāvastut recites the sūkta 10-76, which begins with the mantra आ व ऋंजस ऊर्जां (*ā va ṛṃjasa ūrjāṃ*), and the sūkta 10-175, which begins with the mantra प्र वो ग्रावाणः (*pra vo grāvāṇaḥ*) quoted above. And at the beginning or in the middle, as the occasion suits, he recites the Pāvamānī mantras until the pressing is finished. On all these occasions there is praise and description of the ग्राव (*grāva*). Although the present mantra is addressed to heaven and earth, the ग्राव (*grāva*) held ready for pressing the Soma at the time of their prayer is also praised.
+
+सुमेके (*sumeke*)—This word is an epithet of heaven and earth. Sāyaṇa has explained it as "of good form". In many contexts it comes to mean "of good state" or "of unshakable nature". In some places it is understood as "of excellent action", or "skilled in service". When this word is an epithet of heaven and earth, it becomes स्वकीयाभिः प्रकाशयुक्ते (*svakīyābhiḥ prakāśayukte*), that is, "self-luminous with their own radiance", as Sāyaṇa has explained in mantras such as Ṛ. Saṃ. 3-15-5.
+
+मनीषा (*manīṣā*)—It means "by speech in the form of praise". Its further meanings have been given in the special topics of the first ṛk of this same sūkta.
+
+रोदसी (*rodasī*)—The further meanings of this word have been given in the special topics of the ṛk Ṛ. Saṃ. 1-56-7.
+
+### Printed p. 404
+The words भूरिवाराः (*bhūrivārāḥ*), दर्शताः (*darśatāḥ*), यजत्राः (*yajatrāḥ*) are epithets of the flames of Agni and describe the divine nature of those flames. The greatness of Agni's flame will be given in the special topics of the next mantra.
+
+##### Grammar
+
+- विवक्कि — वच परिभाषणे । लटि बहुलं छंदसीति शपः श्लुः । अर्तिपिपर्त्योश्च बहुलं छंदसीत्यभ्यासस्यॆत्वं । चकारस्य कुत्वं व्यत्ययेन ।
+- युजानः — युजिबुधिदृशः किच्चेत्यानच् । कित्तादगुणः । चित्तादंतोदात्तः ।
+- मनीषा — सुपो डादेशः ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॑ जि॒ह्वा मधु॑मती सुमे॒धा अग्ने॑ दे॒वेषू॒च्यत॑  ॒
+> उरूची ।  
+> तये॒ह विश्वां॒ अव॑से॒ यज॑त्रा॒ना सा॑दय पा॒यया॑ चा॒  ॑
+> मधूनि ॥ ५ ॥
+
+> *yā te jihvā madhumatī sumedhā agne deveṣūcyata*  
+> *urūcī |*  
+> *tayeha viśvāṃ avase yajatrānā sādaya pāyayā cā*  
+> *madhūni ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । जिह्वा । मधुमती । सुमेधाः । अग्ने । देवेषु । उच्यते । उरूची ।  
+> तया । इह । विश्वान् । अवसे । यजत्रान् । आ । सादय । पायय । च । मधूनि ॥
+
+> *yā | te | jihvā | madhumatī | sumedhāḥ | agne | deveṣu | ucyate | urūcī |*  
+> *tayā | iha | viśvān | avase | yajatrān | ā | sādaya | pāyaya | ca | madhūni ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव मधुमत्युदकवती सुमेधाः । शोभना मेधा प्रज्ञा
+> यॆस्स्याः सा । सर्वस्य ज्ञापयित्रि या जिह्वा ज्वालोरूची बहुव्याप्तिः सती देवेषु
+> मध्य आह्वानार्थमुच्यते प्रेर्यते तया जिह्वया यजत्रान्यजनीयान्विश्वान्देवानिह
+> कर्मण्यस्माकमवसे रक्षणाया सादय । उपवेशय । किंच तान्विश्वानेवान्मधूनि
+> मदकरान् सोमान्पायय ॥ सुमेधाः । नित्यमसिच् प्रजामेधयोरित्यसिच् ।
+> उच्यते । वच परिभाषणे । कर्मणि यकि रूपं । यद्वृत्तयोगादनिघातः । उरूची
+> अंचतेः क्विन् । अंचतेश्चोपसंख्यानमिति जीप् । अनुदात्तस्य च यत्रोदात्तलोप
+> इति जीप उदात्तत्वं । पायय । पा पान इत्यस्य णौ परतः शाच्छासाह्वान्नावेषां
+> युगिति युक् । तिजि उत्तरत्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your tongue is honeyed (मधुमती (*madhumatī*)), that is, watery, and of good wisdom (सुमेधाः (*sumedhāḥ*)): she who has good insight, who makes all know. That tongue, the flame, being widely pervading (उरूची (*urūcī*)), is sent forth (उच्यते (*ucyate*)) among the gods to summon them. With that tongue seat (आ सादय (*ā sādaya*)) here, in our rite, for our protection, all the gods who are worthy of worship (यजत्रान् (*yajatrān*)). And further, make those same gods drink the Soma juices (मधूनि (*madhūni*)), the intoxicating ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- मधुमती (*madhumatī*)—watery (sweet)
+- सुमेधाः (*sumedhāḥ*)—that which gives to all the knowledge (of duty)
+- या जिह्वा (*yā jihvā*)—the tongue that there is
+
+### Printed p. 405
+- उरूची (*urūcī*)—having the power to pervade widely
+- देवेषु (*deveṣu*)—among the gods
+- उच्यते (*ucyate*)—is renowned
+- तया (*tayā*)—with the help of that tongue
+- यजत्रान् (*yajatrān*)—those worthy of the sacrifice
+- विश्वान् (*viśvān*)—all the gods
+- इह (*iha*)—in this rite
+- अवसे (*avase*)—for our protection
+- आ सादय (*ā sādaya*)—seat
+- मधूनि (*madhūni*)—the sweet Soma juice
+- पायय (*pāyaya*)—make (them) drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your tongue, which is watery and makes known to all the knowledge of duty, is renowned among the gods as having the power to pervade widely. With the help of that tongue, seat all the gods who are worthy of the sacrifice, in this rite, for our protection, and make them drink the sweet Soma juice.
+
+##### English translation (H. H. Wilson)
+With your wide-spreading tongue, Agni, sweet and intelligent, which is renowned amongst the gods, bring hither all the adorable deities for our protection, and give them to drink of the sweet (libation).
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra contains praise of the flame of Agni. मधुमती (*madhumatī*) and सुमेधाः (*sumedhāḥ*) are epithets of जिह्वा (*jihvā*). उरुची (*urucī*) also makes known the greatness of the flame.
+
+मधुमती (*madhumatī*)—a flame accompanied by मधु (*madhu*). What is मधु (*madhu*)? Here it is explained as "water". The word मधु (*madhu*) is read among the names of water (Ni. 1-12). मधुमती (*madhumatī*) means "that which is accompanied by water". The description of Agni as born of water is well known from epithets such as अपां नपात् (*apāṃ napāt*) and अपांगर्भः (*apāṃgarbhaḥ*). The praise of the water-filled flame of Agni at times of sacrifice carries a special meaning in the Brāhmaṇas and elsewhere. The distinctive character of this description is understood from some examples.
+
+समिधं प्रास्याभिजुहोत्यग्नेरनीकमप आ विवेशापां नपात्पतिरक्षन्नसुर्यं । (*samidhaṃ prāsyābhijuhotyagneranīkamapa ā viveśāpāṃ napātpatirakṣannasuryaṃ |*)
+(Vā. Saṃ. 8-24)
+O Agni, in the form of Apāṃnapāt, the waters are your face. To escape the onslaught of the Rākṣasas I have entered the waters, which are your face. Be gracious. Thus an identity between the face of Agni and the waters is stated. In some places, when the relation between Agni and the waters is shown, only the physical relation is shown. A more hidden relation is also indicated. At the time of building the fire-altar the priests, absorbed in meditation, grasp the nature of the waters and describe it in this way.
+
+##### Grammar
+
+- सुमेधाः — नित्यमसिच् प्रजामेधयोरित्यसिच् ।
+- उच्यते — वच परिभाषणे । कर्मणि यकि रूपं । यद्वृत्तयोगादनिघातः ।
+- उरूची — अंचतेः क्विन् । अंचतेश्चोपसंख्यानमिति जीप् । अनुदात्तस्य च यत्रोदात्तलोप इति जीप उदात्तत्वं ।
+- पायय — पा पान इत्यस्य णौ परतः शाच्छासाह्वान्नावेषां युगिति युक् । तिजि उत्तरत्वादनिघातः ।
+
 ---
 
-**Progress note:** Done through printed p. 399. pp. 394-399 (batch API)
+**Progress note:** Done through printed p. 405. pp. 400-405 (batch API)
