@@ -32473,6 +32473,356 @@ You, Indra, are mighty; the vast earth confesses to you (your) strength, as do t
 
 O Indra, when you, the shining one (त्विषः (*tviṣaḥ*)), were born (जनिमन् (*janiman*)), heaven, that is the atmosphere, trembled (रेजत (*rejata*)) through fear arisen from your own anger (मन्योः (*manyoḥ*)); the genitive stands in the sense of the ablative. The earth also trembled. The सुभ्वः (*subhvaḥ*), the great ones… (the block breaks off here; the next window continues).
 
+### Printed p. 960
+
+> पर्वतासः। पर्वता मेघाः। ऋघायंत। सस्यादीनां वृष्टिप्रदानार्थं नियामकेन
+> त्वयाबाध्यंत । तथा मेघा आर्दन् । प्राणिनां पिपासारूपां पीडामुहिंसन् ।
+> तथा मेघा धन्वान्युदकरहितान्वेशानापोऽपः सरयंते । गमयंति ॥
+
+##### Gist of the bhāṣya
+
+The "mountains" (*parvatas*) are clouds. They were constrained (*ṛghāyanta*) by you, the controller, so that they might give rain to crops and the like. The clouds also "afflicted" (*ārdan*): they destroyed the pain of thirst in living beings. And the clouds make the waters flow (*sarayante*, cause to go) over the arid, waterless regions (*dhanvāni*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Hail Indra)
+- त्विषः (*tviṣaḥ*)—radiant one
+- तव (*tava*)—your
+- जनिमन् (*janiman*)—at the time of birth
+- द्यौः (*dyauḥ*)—the atmosphere
+- स्वस्य (*svasya*)—your
+- मन्योः (*manyoḥ*)—(born) of wrath
+- भियसा (*bhiyasā*)—through fear
+- रेजत (*rejata*)—trembled
+- भूमिः (*bhūmiḥ*)—the earth also
+- रेजत् (*rejat*)—trembled
+- सुभ्वः (*subhvaḥ*)—of mighty form
+- पर्वतासः (*parvatāsaḥ*)—the clouds
+- ऋघायंत (*ṛghāyaṃta*)—became subject to your control (therefore)
+- आर्दन् (*ārdan*)—cooling (the scorched regions)
+- धन्वानि (*dhanvāni*)—even in the waterless barren land
+- आपः (*āpaḥ*)—the waters in the form of rain
+- सरयंते (*sarayaṃte*)—they pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at the birth of you, the radiant one, the atmosphere trembled with the fear born of your wrath. The earth too shook. The mighty clouds, brought under your control, quench the thirst of living beings and cool the scorched regions, and pour waters in the form of rain even on the waterless barren land.
+
+##### English translation (H. H. Wilson)
+At the birth of you who are resplendent, trembled heaven ( and ) trembled the earth through fear of your wrath; the mighty clouds were confined ; they destroyed (the distress of drought), spreading the waters over the dry places.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भि॒नद्दि॒रिं शव॑सा॒ वज्र॑मि॒ष्णन्ना॑विष्कृण्णा॒न् स॑हसा॒न ओजः॑ ।  
+> वधी॑द्वृ॒त्रं वज्रे॑ण मंदसा॒नः सर॒न्नापो॒ जव॑सा ह॒तवृ॑ष्ठीः ॥
+
+> *bhinaddiriṃ śavasā vajramiṣṇannāviṣkṛṇṇān sahasāna ojaḥ |*  
+> *vadhīdvṛtraṃ vajreṇa maṃdasānaḥ sarannāpo javasā hatavṛṣṭhīḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भिनत् । गिरिं । शवसा । वज्रं । इष्णन् । आविःकृण्वानः । सहसाना । ओजः ।  
+> वधीत् । वृत्रं । वज्रेण । मंदसानः । सरन् । आपः । जवसा । हतवृष्टिः ॥ ३ ॥
+
+> *bhinat | giriṃ | śavasā | vajraṃ | iṣṇan | āviḥkṛṇvānaḥ | sahasānā | ojaḥ |*  
+> *vadhīt | vṛtraṃ | vajreṇa | maṃdasānaḥ | saran | āpaḥ | javasā | hatavṛṣṭiḥ ‖ 3 ‖*
+
+### Printed p. 961
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसानः शत्रूणामभिभवन्नोजस्तेज आविष्कृण्वान आविष्कुर्वन्निंद्रो वज्रमिष्ठिन् वज्रं प्रेरयन् शवसा बलेन गिरिं पर्वतजातं भिनत् । अभिनत् । बिभेद ।
+> किंच मंदसानः सोमेन मोदमान इंद्रो वज्रेण वृत्रं वृत्रनामानमसुरं
+> वधीत् । अवधीत् । जघान । तत आपो वृत्रेणावृतान्युदकानि हतवृष्टीः । हतो
+> वृषा वृत्रो यासां ता हतवृष्ट्यः । ता वृत्रवधानंतरं निवारणरहिताः सत्यो
+> जवसा वेगेन सरन् । असरन् । अगच्छन् ॥
+
+##### Gist of the bhāṣya
+
+Indra, overpowering (*sahasānaḥ*) his enemies and manifesting his might (*ojaḥ*), hurling his thunderbolt, split by his strength the mountain (*giri*) born of the cloud (*parvata*). Further, Indra, exhilarated by Soma, slew with the thunderbolt the asura named Vṛtra. Then the waters, which had been enclosed by Vṛtra, are *hatavṛṣṭīḥ*: those whose bull (*vṛṣā*) Vṛtra was slain. After the killing of Vṛtra they were free of obstruction and flowed (*saran*) swiftly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसानः (*sahasānaḥ*)—Indra, the subduer of enemies
+- ओजः (*ojaḥ*)—his own splendour
+- आविष्कृण्वानः (*āviṣkṛṇvānaḥ*)—manifesting
+- वज्रं (*vajraṃ*)—the thunderbolt
+- इष्टन् (*iṣṭan*)—hurling
+- शवसा (*śavasā*)—by his strength
+- गिरिं (*giriṃ*)—the mountain
+- भिनत् (*bhinat*)—he split
+- मंदसानः (*maṃdasānaḥ*)—Indra, satisfied by drinking Soma
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रं (*vṛtraṃ*)—the asura called Vṛtra
+- वधीत् (*vadhīt*)—he killed (afterwards)
+- आपः (*āpaḥ*)—the waters
+- हतवृष्टिः (*hatavṛṣṭiḥ*)—free of obstruction
+- जवसा (*javasā*)—with speed
+- सरन् (*saran*)—flowed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the subduer of enemies, manifesting his splendour and hurling the thunderbolt, split the mountain by his strength. Indra, satisfied by drinking Soma, slew Vṛtra with the thunderbolt. Then the waters flowed swiftly, free of obstruction.
+
+##### English translation (H. H. Wilson)
+The subduer of foes, manifesting his energy and hurling his thunderbolt, shattered the mountain by his strength: he slew Vritra with the thunderbolt, exulting, and the waters whose obstructor was destroyed rushed forth with rapidity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वीर॑स्ते जनि॒ता म॑न्यत॒ द्यौरिंद्र॑स्य क॒र्ता स्वप॑स्तमो भूत् ।  
+> य ईं॑ ज॒जान॑ स्व॒र्यं॑ सु॒वज्र॒मन॑पच्युतं॒ सद॑सो॒ न भूम॑॥
+
+> *suvīraste janitā manyata dyauriṃdrasya kartā svapastamo bhūt |*  
+> *ya īṃ jajāna svaryaṃ suvajramanapacyutaṃ sadaso na bhūma‖*
+
+### Printed p. 962
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुवीरः । ते । जनिता । मन्यत । द्यौः । इंद्रस्य । कर्ता । स्वपःतमः । भूत् ।  
+> यः । ईं । जजान 'स्वर्यं । सुवज्रं । अनपच्युतं । सदसः । न । भूम ॥ ४ ॥
+
+> *suvīraḥ | te | janitā | manyata | dyauḥ | iṃdrasya | kartā | svapaḥtamaḥ | bhūt |*  
+> *yaḥ | īṃ | jajāna 'svaryaṃ | suvajraṃ | anapacyutaṃ | sadasaḥ | na | bhūma ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः प्रजापतिः स्वर्यमृत्विगादिभिः स्तुत्यं सुवज्रं शोभनवज्रोपेतं सदसः स्वकीयात्स्वर्गाख्यात्स्थानादनपच्युतं विनाशरहितं च । नेति समुच्चयार्थे । भूम भूम्ना महत्वेन युक्तमीमेनं त्वां जजान । अजीजनत् ॥
+> जन जनन इति धातुः ॥ द्यौद्योतमानस्ते तव जनिता जनयिता स प्रजापतिः सुवीरः
+> शोभनपुत्रवानहमस्मिति मन्यत । अमन्यत । किंच इंद्रस्य कर्तृंद्रस्य जनयिता
+> प्रजापतिः स्वपस्तमोऽत्यंतं शोभनकर्माभूत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the Prajāpati who begot you (*jajāna*, "caused to be born"; the root is *jana*, "to be born/beget") is praised (*svarya*) by the priests and the like; he is possessed of a fine thunderbolt (*suvajra*), unfallen (*anapacyuta*) from his own seat called heaven, and indestructible. The word *na* is in the sense of "and" (conjunction). You, Indra, are endowed with greatness (*bhūma*). The shining one (*dyau*), your begetter (*janitā*), that Prajāpati, thought (*manyata*): "I have a fine son (*suvīra*)." Further, the maker (*kartā*) of Indra, the Prajāpati who begot Indra, became (*abhūt*) exceedingly skilled in good works (*svapastama*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यः (*yaḥ*)—which Prajāpati
+- स्वर्यं (*svaryaṃ*)—one praised by the priests
+- सुवज्रं (*suvajraṃ*)—one endowed with an excellent thunderbolt
+- सदसः (*sadasaḥ*)—from his own place, heaven
+- अनपच्युतं (*anapacyutaṃ*)—one who suffers no fall
+- भूम (*bhūma*)—endowed with greatness
+- ईं (*īṃ*)—you, who are Indra
+- जजान (*jajāna*)—created; such a one
+- द्यौः (*dyauḥ*)—the shining one
+- ते जनिता (*te janitā*)—your begetter, Prajāpati
+- सुवीरः (*suvīraḥ*)—that he had obtained an excellent son
+- मन्यत (*manyata*)—understood
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- कर्ता (*kartā*)—the begetter, Prajāpati
+- स्वपस्तमः (*svapastamaḥ*)—as the doer of an excellent work
+- भूत् (*bhūt*)—he became
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Prajāpati who created you, Indra, who are praised by the priests, endowed with an excellent thunderbolt, without fall from your own place, heaven, and endowed with greatness—that shining Prajāpati, your begetter, understood that he had obtained an excellent son. Prajāpati, the begetter of Indra, became the doer of an excellent work.
+
+##### English translation (H. H. Wilson)
+Heaven, your progenitor, conceived (I have obtained) a worthy son; the maker of Indra was the accomplisher of a most excellent work; he who begot the adorable (Indra), armed with the thunderbolt, irremovable from his station, and endowed with greatness.
+
+### Printed p. 963
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य एक॑ इच्छा॒वय॑ति॒ प्र भूमा॒ राजा॑ कृष्णी॒नां पु॑रुहू॒त  ॑
+> इंद्रः ।  
+> स॒त्यमे॑न॒मनु॒ विश्वे॑ मदंति रा॒तिं दे॒वस्य॑ गृण॒तो म॒घोनः॑॥
+
+> *ya eka icchāvayati pra bhūmā rājā kṛṣṇīnāṃ puruhūta*  
+> *iṃdraḥ |*  
+> *satyamenamanu viśve madaṃti rātiṃ devasya gṛṇato maghonaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । एकः । इत् । च्यवयति । प्र । भूम । राजा । कृष्टीनां । पुरुहूतः । इंद्रः ।  
+> सत्यं । एनं । अनु । विश्वे । मदंति । रातिं । देवस्य । गृणतः । मघोनः ॥ ५ ॥
+
+> *yaḥ | ekaḥ | it | cyavayati | pra | bhūma | rājā | kṛṣṭīnāṃ | puruhūtaḥ | iṃdraḥ |*  
+> *satyaṃ | enaṃ | anu | viśve | madaṃti | rātiṃ | devasya | gṛṇataḥ | maghonaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णीनां सर्वासां प्रजानां राजा प्रभुः पुरुहूतो बहुभिराहूत एक
+> इद्देवानां मध्यॆ मुख्य एव य इंद्रो भूम भूतं निष्पन्नं शत्रुभ्यो भयं प्र
+> च्यावयति । प्रकर्षेण नाशयति । विश्वे सर्वॆ यजमाना मघोनो मघवतः ।
+> हनिर्लक्षणधनवत इत्यर्थः । देवस्येंद्रसमाश्रयात् द्योतमानस्य गृणतः स्तुवतो
+> रातिं बंधुमेनमिंद्रमनु लक्ष्मीकृत्य सत्यमेव नदंति । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Indra is the king, the lord of all subjects (*kṛṣṭi*), invoked by many (*puruhūta*), alone (*eka it*) the chief among the gods. He utterly destroys (*pra cyāvayati*) the *bhūma*, the fear that has arisen from enemies. All sacrificers, *maghonaḥ*, that is, wealthy, possessed of wealth characterised by oblation, aiming at (*anu*) this Indra, who is the friend (*rāti*, "bandhu") of the shining (*devasya*, through resorting to Indra) praiser (*gṛṇataḥ*), verily praise him (he reads *nadanti*, "they praise").**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णीनां (*kṛṣṇīnāṃ*)—of all subjects
+- राजा (*rājā*)—the lord
+- पुरुहूतः (*puruhūtaḥ*)—one invoked by many
+- एक इत् (*eka it*)—chief of all gods, men and the rest
+- यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra
+- भूम (*bhūma*)—the fear arising from enemies
+- प्र च्यावयति (*pra cyāvayati*)—destroys; such a one
+- मघोनः (*maghonaḥ*)—possessing wealth in the form of oblations
+- देवस्य (*devasya*)—shining
+- गृणतः (*gṛṇataḥ*)—to the praiser
+- रातिं (*rātiṃ*)—a friend
+- एनं अनु (*enaṃ anu*)—aiming at this Indra
+- सत्यं (*satyaṃ*)—in truth
+- विश्वे (*viśve*)—all sacrificers too
+- मदंति (*madaṃti*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+All sacrificers praise in truth this Indra, who is lord of all subjects, invoked by many, chief of all gods, men and the rest, who destroys the fear arisen from enemies, and who is a friend to the praiser, who is shining and possesses wealth in the form of oblations.
+
+### Printed p. 964
+
+##### English translation (H. H. Wilson)
+All men, praising the munificence of the divine Maghavan, verily glorify him who alone casts down many, Indra, the king of men, the adored of many.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा सोमा॑ अभवन्नस्य॒ विश्वे॑ स॒त्रा मदा॑सो बृह॒तो  ॑
+> मदिस्थाः ।  
+> स॒त्राभ॑वो॒ वसु॑पति॒र्वसू॑नां॒ दत्ते॒ विश्वा॑ अधिथा इंद्र कृ॒ष्टीः॥
+
+> *satrā somā abhavannasya viśve satrā madāso bṛhato*  
+> *madisthāḥ |*  
+> *satrābhavo vasupatirvasūnāṃ datte viśvā adhithā iṃdra kṛṣṭīḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रा । सोमाः । अभवन् । अस्य । विश्वे । सत्रा । मदासः । बृहतः । मदिष्टाः ।  
+> सत्रा । अभवः । वसुपतिः । वसूनां । दत्ते । विश्वाः । अधिथाः । इंद्र । कृष्टीः ॥ ६ ॥
+
+> *satrā | somāḥ | abhavan | asya | viśve | satrā | madāsaḥ | bṛhataḥ | madiṣṭāḥ |*  
+> *satrā | abhavaḥ | vasupatiḥ | vasūnāṃ | datte | viśvāḥ | adhithāḥ | iṃdra | kṛṣṭīḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे सर्वॆ सोमा अस्येंद्रस्य सत्रा । सत्रेति सत्यनामैतत् । सत्यमेव
+> प्रभूता अभवन् । किंच मदासो मदा मदकराः सोमा बृहतो महतोऽस्येंद्रस्य मदिष्टा मादयितृतमाः सत्रा सत्यमेवाभवन् । हे इंद्र त्वं वसुपतिर्धनपतिः । न केवलं धनपतिः किंतु वसूनां सर्वेषां पश्वादीनां धनानां पतिः सत्रा
+> सत्यमेवाभवः । भवसि । हे इंद्र त्वं दत्ते धने निमित्तभूते सति विश्वाः सर्वाः
+> कृष्टीः स्तोत्रिः प्रजा अधिथाः । धारयसि ॥
+
+##### Gist of the bhāṣya
+
+All the Soma-offerings of this Indra were truly (*satrā*; he says "*satrā*" is a name for truth) abundant. Further, the intoxicating (*madāsaḥ*) Soma-offerings were truly the most exhilarating (*madiṣṭhāḥ*) to the great Indra. O Indra, you are lord of wealth (*vasupati*); not only lord of wealth, but truly lord of all *vasu*, all riches such as cattle. O Indra, when wealth is given as the cause, you uphold (*adhithāḥ*, "you support") all the subjects (*kṛṣṭi*), the praising people.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- सोमाः (*somāḥ*)—the Soma-offerings
+- सत्रा (*satrā*)—truly
+- अस्य (*asya*)—belonging to Indra alone
+- अभवन् (*abhavan*)—became
+- मदासः (*madāsaḥ*)—the intoxicating Soma-offerings
+- बृहतः (*bṛhataḥ*)—to Indra, of mighty form
+- मदिष्टाः (*madiṣṭāḥ*)—as satisfying
+- सत्रा (*satrā*)—truly they became
+- इंद्र (*iṃdra*)—O Indra
+- (त्वं (*tvaṃ*)—you)
+- वसुपतिः (*vasupatiḥ*)—as lord of wealth
+- वसूनां (*vasūnāṃ*)—as lord also of all riches in the form of cattle and the like
+- सत्रा (*satrā*)—truly
+- अभवः (*abhavaḥ*)—you are
+- दत्ते (*datte*)—by reason of wealth (by giving)
+- विश्वाः कृष्टीः (*viśvāḥ kṛṣṭīḥ*)—all the subjects
+- अधिथाः (*adhithāḥ*)—you have upheld
+- अध (*adha*)—and
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- जायमानः (*jāyamānaḥ*)—having been born
+- प्रथमं (*prathamaṃ*)—at the very beginning
+- अमे (*ame*)—when the fear caused by Vṛtra arose
+- विश्वाः (*viśvāḥ*)—all
+
+### Printed p. 965
+
+##### भावार्थ (Bhāvārtha)
+
+All the Soma-offerings truly became Indra's own. The intoxicating Soma-offerings truly became satisfying to the mighty Indra. O Indra, you are lord of wealth and lord of all wealth in the form of cattle and the like. By the giving of wealth you uphold all subjects (you nourish them).
+
+##### English translation (H. H. Wilson)
+Truly are all libations his; the inebriating draughts are truly most exhilarating to the mighty Indra : truly are you the lord of wealth, of (all sorts of) treasures : you, Indra, support all people by the gift (of riches).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमध॑ प्रथ॒मं जाय॑मा॒नोऽमे॒ विश्वा॑ अधिथा इंद्र कृ॒ष्टीः।  
+> त्वं प्रति॑ प्र॒वत॑ आ॒शया॑न॒महिं॒ वज्रे॑ण मघव॒न्वि वृ॑श्चः ॥ ७ ॥
+
+> *tvamadha prathamaṃ jāyamāno 'me viśvā adhithā iṃdra kṛṣṭīḥ|*  
+> *tvaṃ prati pravata āśayānamahiṃ vajreṇa maghavanvi vṛścaḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अध । प्रथमं । जायमानः । अमे । विश्वाः । अधिथाः । इंद्र । कृष्टीः ।  
+> त्वं । प्रति । प्रवतः । आशयानं । अहिं । वज्रेण । मघुवन् । वि । वृश्चः ॥ ७ ॥
+
+> *tvaṃ | adha | prathamaṃ | jāyamānaḥ | ame | viśvāḥ | adhithāḥ | iṃdra | kṛṣṭīḥ |*  
+> *tvaṃ | prati | pravataḥ | āśayānaṃ | ahiṃ | vajreṇa | maghuvan | vi | vṛścaḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अपि च प्रथममेव जायमानस्त्वममे वृत्रनिमित्ते भये सति विश्वाः
+> सर्वाः कृष्टीः प्रजा अधिथाः । रक्षकत्वेन धारयसि । हे मघवन्थनवन्निंद्र त्वं प्रति
+> प्रवतः प्रति प्रवणानुदकवतो देशान् लक्ष्मीकृत्याशयानमपां निरोधकमहिं
+> वृत्रनामानमसुरं वज्रेण वि वृश्चः । व्यवृश्च ॥ छिन्नवानसि ॥
+
+##### Gist of the bhāṣya
+
+*Adha* means "and also". As soon as you were born, when there was fear because of Vṛtra (*ame*), you upheld (*adhithāḥ*) all the subjects (*kṛṣṭi*) as their protector. O Maghavan, wealthy Indra, you, aiming at the regions where the water runs downward (*pratipravataḥ*), cut with the thunderbolt Ahi, the asura named Vṛtra, who lay (*āśayānam*) blocking the waters.
+
+### Printed p. 966
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as soon as you were born, you took under your protection all the subjects who were distressed by fear caused by Vṛtra. O wealthy Indra, you cut with the thunderbolt Vṛtra who lay blocking the flowing waterways.
+
+##### English translation (H. H. Wilson)
+Indra, as soon as you were born, you took the progeny who were afraid of Vritra under your protection. O Maghavan, you smote with your thunderbolt, Ahi, who was obstructing the flow of waters.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा॒हणं॒ दाधृ॑षिं॒ तुम्र॒मिंद्रं॑ म॒हाम॑पा॒रं वृ॑ष॒भं  ॒॑
+> सुवज्रं ।  
+> हंता॒ यो वृ॒त्रं सनि॑तो॒त वाजं॒ दाता॑ म॒घानि॑ म॒घवा॑  ॒॑
+> सुराधाः ॥ ८ ॥
+
+> *satrāhaṇaṃ dādhṛṣiṃ tumramiṃdraṃ mahāmapāraṃ vṛṣabhaṃ*  
+> *suvajraṃ |*  
+> *haṃtā yo vṛtraṃ sanitota vājaṃ dātā maghāni maghavā*  
+> *surādhāḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्राहनं । दधृषिं । तुम्रं । इंद्रं । महां । अपारं । वृषभं । सुवज्रं ।  
+> हंता । यः । वृत्रं । सनिता । उत । वाजं । दाता । मघानि । मघवा । सुराधाः॥
+
+> *satrāhanaṃ | dadhṛṣiṃ | tumraṃ | iṃdraṃ | mahāṃ | apāraṃ | vṛṣabhaṃ | suvajraṃ |*  
+> *haṃtā | yaḥ | vṛtraṃ | sanitā | uta | vājaṃ | dātā | maghāni | maghavā | surādhāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्य वृत्रघ्नः पशौ सत्राहणमिति हविषोऽनुवाक्या । सूत्रितं च । सत्राहणं दादृषिं तुम्रमिंद्रं सहदानुं पुरुहूत क्षियंतं । आ. ३.८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Indra as Vṛtra-slayer, "सत्राहणं (*satrāhaṇaṃ*)" is the anuvākyā of the oblation. It is also stated in the sūtra: सत्राहणं दादृषिं तुम्रमिंद्रं सहदानुं पुरुहूत क्षियंतं । आ. ३.८ । इति ॥ (*satrāhaṇaṃ dādṛṣiṃ tumramiṃdraṃ sahadānuṃ puruhūta kṣiyaṃtaṃ | ā. 3.8 | iti ‖*) (Ā. 3.8).
+
 ---
 
-**Progress note:** Done through printed p. 959. pp. 954-959 (batch API)
+**Progress note:** Done through printed p. 966. pp. 960-966 (batch API)
