@@ -11425,6 +11425,248 @@ The sacrificer, who knows the true nature of this Āditya and the dwelling-place
 
 "Padye iva": the two are known (padyete) by their respective distinctive marks, hence "pade". Day and night, these two, "dasme", visible to all, stand, as it were, placed (nihite) within the sky, in the middle. Of the two, day and night, the other, that of the nature of night, is "guhya": hidden, because it does not shine… (the block breaks off here).
 
+### Printed p. 306
+
+> वास्ते । अन्यदहराविः सूर्यप्रकाशेन प्रकटं भवति । सध्रीचीनाहोरात्रयोः
+> परस्परमेलनरूपा पथ्या मार्गः । काल इत्यर्थः । सा विषूची । पुण्यकृतोऽपुण्यकृतश्च प्राप्नोतीति विषूची भवति । सर्वे जना अहोरात्रयोर्वर्तंते । यद्वा ।
+> पदे इव देवमनुष्यादीनां स्थानभूते द्यावापृथिव्यावंतरंतरिक्षे निहिते वर्तेते ।
+> तयोरन्यद्दौर्गुह्यमस्माभिरदृश्यमानतया गूढं वर्तते । अन्यत्पृथिव्याविः सर्वैर्दृश्यमानत्वेन प्रकटा भवति । सध्रीचीनेति पूर्ववत् ॥ सध्रीचीना । सहपूर्वादंचतेः क्विन् । सहस्य सध्रिरिति सध्र्या देशः । विभाषांचेरदिक्स्त्रियामिति खः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his explanation of the preceding verse. The other of the two, the day, becomes manifest through the light of the sun. सध्रीचीना (*sadhrīcīnā*) is the path (पथ्या (*pathyā*)) formed by the day and night meeting each other, that is, time. That path is विषूची (*viṣūcī*): it reaches the doers of merit and the doers of demerit alike. All people live within day and night.
+
+Alternatively, the two पदे इव (*pade iva*) are heaven and earth, the abodes of gods, men and others, which lie placed within the atmosphere. Of these two, one is hidden because we cannot see it; the other, the earth, is manifest because it is seen by all. सध्रीचीना (*sadhrīcīnā*) and the rest are as before.
+
+(The rest of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्मे (*dasme*)—visible to all
+- पदे इव (*pade iva*)—the day and the night, both
+- अंतः (*aṃtaḥ*)—in the midst of the atmosphere
+- निहिते (*nihite*)—are placed
+- तयोः (*tayoḥ*)—of those two
+- अन्यत् (*anyat*)—the night
+- गुह्यं (*guhyaṃ*)—is hidden
+- अन्यत् (*anyat*)—the other one, the day
+- आविः (*āviḥ*)—is manifest
+- सध्रीचीना (*sadhrīcīnā*)—joined together with both of these
+- सा पथ्या (*sā pathyā*)—the path in the form of time
+- विसूची (*visūcī*)—is common to the whole universe
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Day and night, both visible to all, are placed in the middle region of the atmosphere. Of the two, the night is hidden and the day is manifest. The path in the form of time, which is joined to both of them together, is common to the whole universe. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Like two (distinguishing) impressions, they (day and night) are placed visible in the midst (between heaven and earth), one hidden, one manifest : the path (of both) is common, and that is universal (for good and evil): great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+अहश्च रात्रिश्चेत्येते सर्वैः दर्शनीये तत्तदसाधारणलिंगेन ज्ञायमाने नभसि मध्यॆ स्थापिते इव वर्तेते । (*ahaśca rātriścetyete sarvaiḥ darśanīye tattadasādhāraṇaliṃgena jñāyamāne nabhasi madhyè sthāpite iva vartete |*). The qualities that belong to day and to night, and their respective marks, are known by everyone as distinguishing them from each other. Since these day-and-nights are endowed with a charming form, they appear as if placed within the atmosphere. They are described as follows: the path that is favourable to both is time; this time is विषूची (*viṣūcī*), that is, पुण्यकृतो अपुण्यकृतश्च प्राप्नोति (*puṇyakṛto apuṇyakṛtaśca prāpnoti*), it pervades all, the virtuous and the sinful alike; and सर्वे जना अहोरात्रयोर्वर्तंते (*sarve janā ahorātrayorvartaṃte*), it provides all living beings with room to live.
+
+### Printed p. 307
+
+The second meaning concerns heaven and earth. यद्वा पदे इव देवमनुष्यादीनां स्थानभूते द्यावापृथिव्य अंतरंतरिक्षे निहिते वर्तते । तयोरन्यत् अन्या द्यौः गुह्यमस्माभिः अदृश्यमानतॆया गूढा वर्तते । अन्या पृथिवी आविः सर्वैः दृश्यमानतेन प्रकटा भवति । (*yadvā pade iva devamanuṣyādīnāṃ sthānabhūte dyāvāpṛthivya aṃtaraṃtarikṣe nihite vartate | tayoranyat anyā dyauḥ guhyamasmābhiḥ adṛśyamānatèyā gūḍhā vartate | anyā pṛthivī āviḥ sarvaiḥ dṛśyamānatena prakaṭā bhavati |*). सध्रीचीनेत्यादि पूर्ववत् (*sadhrīcīnetyādi pūrvavat*). Heaven and earth, which are like dwelling places of gods and men, lie in the atmosphere. Of these, the world of heaven is hidden in a way unknown to us, so that it cannot be seen by us, just as the night is hidden among day and night. The earth is manifest in a form that is known to all, as the day is bright with the light of the sun. Since the time that corresponds to the mutual adherence of these two is the same for the virtuous and the sinful, it is uneven. Because heaven and earth give room to all beings to live, they are benefactors of all; and the might of the gods is described as extraordinary and pre-eminent.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ धे॒नवो॑ धुनयंता॒मशि॑श्वीः सब॒र्दुघाः॑ शश॒या अप्र॑दुग्धाः  
+> नव्या॑नव्या युव॒तयो॒ भवं॑तीर्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑॥
+
+> *ā dhenavo dhunayaṃtāmaśiśvīḥ sabardughāḥ śaśayā apradugdhāḥ*  
+> *navyānavyā yuvatayo bhavaṃtīrmahaddevānāmasuratvamekaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धेनवः । धुनयंतां । अशिश्वीः । सबर्दुघाः । शशयाः । अप्रदुग्धाः ।  
+> नव्याःनव्याः । युवतयः । भवंतीः । महत् । देवानां । असुरत्वं । एकं ॥ १६ ॥
+
+> *ā | dhenavaḥ | dhunayaṃtāṃ | aśiśvīḥ | sabardughāḥ | śaśayāḥ | apradugdhāḥ |*  
+> *navyāḥnavyāḥ | yuvatayaḥ | bhavaṃtīḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धेनवो वृष्टिद्वारा सर्वस्य जगतः प्रीणयित्र्योऽशिश्वीः शिशुरहिताः । यद्वा ।
+> शिकवो न भवंतीत्यशिश्वीः । शशया नभसि शयाना वर्तमानाः केनाप्यप्रमग्ता अक्षीण-
+
+##### Gist of the bhāṣya
+
+The धेनवः (*dhenavaḥ*) are the cows that gratify the whole world by means of rain. अशिश्वीः (*aśiśvīḥ*) means "without young"; or else, शिकवो न भवंतीत्यशिश्वीः (*śikavo na bhavaṃtītyaśiśvīḥ*), "they are not infants". शशयाः (*śaśayāḥ*) are those lying in the sky, unharmed by anyone and undiminished in sap (the sentence continues on the next page).
+
+### Printed p. 308
+
+> रसाः सबर्दुघा उदकलक्षणस्य क्षीरस्य दोग्धो युवतयः परस्परमिश्रणोपेता
+> नव्या नव्या अतिशयेन नूतना भवंतीर्दिशो मेघा ना आ धुनयंतां । आदुहंतु ।
+> मेघपक्षेशिश्वीर्भवंतीत्यत्र लिंगव्यत्ययः ॥ धुनयंतां । धूञ् कंपने । णिचि
+> धूञ् प्रीणोर्नुग्वक्तव्यः । पा- ७-३-३७-१ । इति नुक् । ह्रस्वश्चांदसः । अशिश्वीं । सख्यशिश्वीति भाषायामिति व्यत्ययेन छंदसि भवति ॥
+
+##### Gist of the bhāṣya
+
+सबर्दुघाः (*sabardughāḥ*) are those that yield the milk that has the form of water. युवतयः (*yuvatayaḥ*) are those endowed with mutual mixing. The quarters, or the clouds, becoming exceedingly new, नव्या नव्या (*navyā navyā*), are to be shaken, आ धुनयंतां (*ā dhunayaṃtāṃ*), that is, आदुहंतु (*āduhaṃtu*), "let them milk out". In the case of the clouds, in "aśiśvīr bhavanti" there is an exchange of gender. (The rest of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—the cows that gratify the world
+- अशिश्वीः (*aśiśvīḥ*)—those without young
+- शशयाः (*śaśayāḥ*)—those that remain fixed in the atmosphere
+- अप्रदुग्धाः (*apradugdhāḥ*)—those full of sap
+- सबर्दुघाः (*sabardughāḥ*)—those that pour out the milk that has the form of water
+- युवतयः (*yuvatayaḥ*)—those that are mutually joined
+- नव्यानव्याः (*navyānavyāḥ*)—those that always attain newness
+- भवंतीः (*bhavaṃtīḥ*)—being so, the clouds (or the quarters)
+- आ धुनयंतां (*ā dhunayaṃtāṃ*)—let them be shaken (for the sake of each one)
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Let the clouds, which gratify the world, are without young, abide fixed in the atmosphere, are full of sap, pour out the milk that has the form of water, are mutually joined and always attain newness, be shaken, each for its own purpose. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+May the milch cows without their young, abiding (in the heaven), and though unmilked, yet yielding milk, and ever fresh and youthful, be shaken (so as to perform their functions) : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Anukramaṇikā says that this sixteenth mantra of the sūkta has the quarters (दिग्वचनतॆ (*digvacanatè*)) as its deity. In the bhāṣya Sāyaṇa explains the meaning thus: दिशः मेघा वा आ धुनयंतां आ दुहंतु (*diśaḥ meghā vā ā dhunayaṃtāṃ ā duhaṃtu*), "let the quarters or the clouds keep us in joy". Neither a word for the quarters nor a word for the clouds is used here separately; only the epithets are common to both kinds of meaning, clouds or quarters. The clouds gratify the world by pouring rain. "Aśiśvī" means being without sons, or not having children; शशयाः (*śaśayāḥ*) means remaining in the atmosphere itself;
+
+### Printed p. 309
+
+अप्रदुग्दाः (*apradugdāḥ*) means being filled with water; सबर्दुघाः (*sabardughāḥ*) means milking the milk that has the form of water; युवतयः (*yuvatayaḥ*) means being joined together mutually; नव्यानव्याः (*navyānavyāḥ*) means being in an ever-new manner. Since all these qualities belong to the quarters as well, the prayer of the sacrificer is stated: let these clouds, or these quarters, keep us, the sacrificers, in joy.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒न्यासु॑ वृष॒भो रोर॑वीति॒ सो अ॒न्यस्मि॑न्यू॒थे नि द॑धाति॒ रेतः॑ ।  
+> स हि क्षपा॑वा॒न्त्स भगः॒ स राजा॑ म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *yadanyāsu vṛṣabho roravīti so anyasminyūthe ni dadhāti retaḥ |*  
+> *sa hi kṣapāvāntsa bhagaḥ sa rājā mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अन्यासु । वृषभः । रोरवीति । सः । अन्यस्मिन् । यूथे । नि । दधाति । रेतः ।  
+> सः । हि । क्षपावान् । सः । भगः । सः । राजा । महत् । देवानां । असुरत्वं । एकं॥  
+> ॥ १७ ॥
+
+> *yat | anyāsu | vṛṣabhaḥ | roravīti | saḥ | anyasmin | yūthe | ni | dadhāti | retaḥ |*  
+> *saḥ | hi | kṣapāvān | saḥ | bhagaḥ | saḥ | rājā | mahat | devānāṃ | asuratvaṃ | ekaṃ‖*  
+> *‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभोऽपां वर्षको यद्यः पर्जन्यात्मेंद्रोऽन्यासु दिक्षु रोरवीति
+> मेघद्वारा भृशं शब्दं करोति स पर्जन्य इंद्रोऽन्यस्मिन्यूथे दिशां वृंदे रेत
+> उदकं नि दधाति । तत्र वर्षति । लोके हि वृषभः कासुचिद्दोषु रेतःसेकार्थं रवं
+> करोत्यन्यस्मिन् गोयूथे रेतः सिंचति । तद्वत् । स इंद्रः क्षपावान् । क्षिपति शत्रूनुदकं वेति क्षेपणवान् । यद्वा । क्षपा रात्रिः । तथा रात्रि पर्याययागानां स्तोत्राणां भागभूता या रात्रिः सोच्यते । तद्वान् । स भगः । सर्वैर्भजनीयः । स
+> राजा हि । तत्तत्कर्मानुरूपफलप्रदानेन सर्वेषां राजा खलु ॥ रोरवीति । रु शब्द
+> इत्यस्य यज् लुगंतस्य लटि रूपं । एकान्याभ्यां समर्थाभ्यामिति प्रथमस्य न निघातः।
+> यूथे । यु मिश्रणे । तिथपृष्ट गूथयूथप्रोथा इति थक्प्रत्ययांतत्वेन निपातनाद्दीर्घः । रेतः । रीज् क्षरण इत्यस्मात् सुरीभ्यां तुट् चेत्यसुन्नत्ययस्तुडागमश्च । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The bull, the rainer of waters, is Indra in the form of Parjanya. When he roars loudly among the other quarters by means of the clouds, that same Parjanya-Indra deposits रेतः (*retaḥ*), water, in another herd, the multitude of the quarters; there it rains. In the world a bull makes a roar over certain cows in order to shed seed, and sheds seed in another herd of cows; it is like that. That Indra is क्षपावान् (*kṣapāvān*): क्षिपति शत्रूनुदकं वेति (*kṣipati śatrūnudakaṃ veti*), he throws enemies or water, so he is possessed of throwing. Or else क्षपा (*kṣapā*) is night: the night that forms a part of the hymns of the rātri-paryāya sacrifices is called so, and he possesses it. He is भगः (*bhagaḥ*), to be worshipped by all. He is the king, for by granting fruit in accordance with each deed he is king of all. (The rest of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—the water-pourer
+- यत् (*yat*)—the Indra, of the nature of Parjanya, who
+- अन्यासु (*anyāsu*)—in the other quarters
+- गोरवीति (*goravīti*)—makes a sound by means of the cloud **NOTE**
+- सः (*saḥ*)—that same Indra of the nature of Parjanya
+
+### Printed p. 310
+
+- अन्यस्मिन् यूथे (*anyasmin yūthe*)—in another quarter
+- रेतः (*retaḥ*)—the water in the form of rain
+- नि दधाति (*ni dadhāti*)—pours down
+- सः (*saḥ*)—that same Indra
+- क्षपावान् (*kṣapāvān*)—possessed of night
+- सः (*saḥ*)—he
+- भगः (*bhagaḥ*)—venerable
+- सः (*saḥ*)—he
+- राजा हि (*rājā hi*)—is also the lord
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the maker of rain and of the nature of Parjanya, makes the sound of thunder in one quarter by means of the cloud and pours down rain in another quarter. Indra is possessed of night, venerable and the lord. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+When the showerer roars in other (regions) he sends down the rain upon a different herd, for he is the victor, the asuspicious, the sovereign : great and unequalled is the might of the gods,
+
+##### विशेषविषयगळु (Special Topics)
+
+The word रेतः (*retaḥ*) is listed among the names of water (Ni. 2-24). Indra, who is in the form of Parjanya, is described as being in the form of a bull. वृषभः अपां वर्षकं अन्यासु दिक्षु मेघद्वारा भृशं शब्दं करोति अन्यस्मि यूथे दितां वृंदे उदकं वर्षति । लोके हि वृषभः कासुचित् गोषु रेतस्सेकार्थं रवं करोति अन्यस्मिन् गोयूथे रेतस्सिंचति तद्वत् । (*vṛṣabhaḥ apāṃ varṣakaṃ anyāsu dikṣu meghadvārā bhṛśaṃ śabdaṃ karoti anyasmi yūthe ditāṃ vṛṃde udakaṃ varṣati | loke hi vṛṣabhaḥ kāsucit goṣu retassekārthaṃ ravaṃ karoti anyasmin goyūthe retassiṃcati tadvat |*) **NOTE**. In the world a bull, while bellowing in a herd of cows, unites with a cow in another herd. In the same way Indra, making a sound through the clouds in order to pour rain in one quarter, pours water in the form of rain in another quarter; thus the likeness to a bull is established for Indra.
+
+Two kinds of meaning are set out for the word क्षपावान् (*kṣapāvān*) **NOTE**. For the word क्षपा (*kṣapā*) the meaning "throwing, hurling" (क्षेपण (*kṣepaṇa*)) is given. From this it is explained that Indra is one who drives away enemies, or one who pours waters down for the worlds.
+
+The word क्षपा (*kṣapā*) is listed among the names of night (Ni. 2-18). Sāyaṇa says क्षपा रात्रिः । रात्रि पर्याययागानां स्तोत्राणां भागभूता या रात्रिः सोच्यते । तद्वान् । (*kṣapā rātriḥ | rātri paryāyayāgānāṃ stotrāṇāṃ bhāgabhūtā yā rātriḥ socyate | tadvān |*). By the word क्षपा (*kṣapā*) night is meant. In the sacrifices performed at night, the nights suitable for reciting hymns contain hymns of Indra; therefore Indra is possessed of क्षपा (*kṣapā*). Thus the second meaning is explained.
+
+### Printed p. 311
+
+सः भगः राजा हि—सर्वैः भजनीयः । तत्तत्कर्मानुपफलप्रदनेन सर्वेषां राजा। (*saḥ bhagaḥ rājā hi—sarvaiḥ bhajanīyaḥ | tattatkarmānupaphalapradanena sarveṣāṃ rājā|*). Indra is one worthy of being served by all, and gives to each the fruit corresponding to his respective deeds; therefore he is the lord. And the might of the gods is described as extraordinary and pre-eminent.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒रस्य॒ नु स्वश्वं॑ जनासः॒ प्र नु वो॑चाम वि॒दुर॑स्य दे॒वाः ।  
+> षो॒ह्ना यु॒क्ताः पंच॑पं॒चा व॑हंति म॒हद्दे॒वाना॑मसुर॒त्व  ॑
+> मेकं ॥ १८ ॥
+
+> *vīrasya nu svaśvaṃ janāsaḥ pra nu vocāma vidurasya devāḥ |*  
+> *ṣohnā yuktāḥ paṃcapaṃcā vahaṃti mahaddevānāmasuratva*  
+> *mekaṃ ‖ 18 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीरस्य । नु । सुअश्वं । जनासः । प्र । नु । वोचाम । विदुः । अस्य : देवाः ।  
+> षोह्ना । युक्ताः । पंचपंच । आ । वहंति । महत् । देवानां । असुरत्वं । एकं॥
+
+> *vīrasya | nu | suaśvaṃ | janāsaḥ | pra | nu | vocāma | viduḥ | asya : devāḥ |*  
+> *ṣohnā | yuktāḥ | paṃcapaṃca | ā | vahaṃti | mahat | devānāṃ | asuratvaṃ | ekaṃ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जनासो जना वीरस्य शूरस्येंद्रस्य स्वश्वं शोभनाश्वेपेतत्वं नु क्षिप्रं
+> प्र वोचाम । प्रकर्षण वदाम । तथा देवा अप्यस्येंद्रस्य स्वश्वतं विदुः । जानंति ।
+> किं तत्स्वश्वत्वं । तदुच्यते । षोळ्ता मासानां द्वंद्वयोगकाले षोढा दृश्यमाना
+> ऋतवोऽश्वा निरूप्यंते । ते च षट्संख्याका ऋतवॊः हेमंततिशिरयोः समासेन
+> पंच पंच युक्ताः संतः कालात्मकमिंद्रमा वहंति । तदिदमि-द्रस्य स्वश्वत्वं यद्वृतुभिरूढत्वं ॥ षोळ्ता । षष्‌शब्दात्संख्याया विधार्थे धेति धाप्रत्ययः ' षष उत्वं
+> दतृदशधासूत्तरपदादेः ष्टुत्वं च । पा ६-३-१०९-३ इत्युत्वं ष्टुत्वं च।प्रत्ययस्वरः॥
+
+##### Gist of the bhāṣya
+
+"O people, let us quickly proclaim the good-horsedness (स्वश्वं (*svaśvaṃ*)) of the hero, the brave Indra, that is, his being possessed of fine horses; and the gods too know his good-horsedness." What is that good-horsedness? It is explained: षोळ्हा (*ṣoḷhā*), at the time of the pairing of the months, the seasons seen as sixfold are represented as horses. Those seasons, six in number, with Hemanta and Śiśira taken together, are yoked five and five and carry Indra, who is of the nature of time. This is Indra's good-horsedness, that he is carried by the seasons. (The rest of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनासः (*janāsaḥ*)—O people
+- वीरस्य (*vīrasya*)—of the brave Indra
+- स्वश्वं (*svaśvaṃ*)—the being accompanied by horses
+- नु (*nu*)—right now
+- प्र वोचाम (*pra vocāma*)—we proclaim and praise
+- देवाः (*devāḥ*)—the gods also
+- अस्य (*asya*)—this Indra's being yoked with horses
+- नु (*nu*)—at once
+- विदुः (*viduḥ*)—know
+- षोळ्हा (*ṣoḷhā*)—the horses in the form of the six seasons
+- पंचपंचयुक्ताः (*paṃcapaṃcayuktāḥ*)—(Hemanta and Śiśira being undivided) five
+
 ---
 
-**Progress note:** Done through printed p. 305. pp. 299-305 (batch API)
+**Progress note:** Done through printed p. 311. pp. 306-311 (batch API)
