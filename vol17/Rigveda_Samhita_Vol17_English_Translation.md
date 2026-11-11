@@ -19169,6 +19169,160 @@ For the word धीमहि (*dhīmahi*) the meanings ध्यायामः 
 धियः (*dhiyaḥ*)
 To obtain knowledge of oneness with Brahman, the knowledge that is its means and the action that brings about that knowledge are absolutely necessary. The prayer is that Savitṛ may impel such a धी (*dhī*). Here two kinds of meaning may be given to the word धी (*dhī*): intellect or insight, or action. Since ignorance must be destroyed, insight is necessary. This insight comes only through action in the form of worship,
 
+### Printed p. 634
+…is attainable. Therefore both meanings are appropriate. Moreover, since meditation is itself a form of praise of Savitṛ, it would not be wrong to take the word धी (*dhī*) as "praise." Good works are the means to knowledge of Brahman. Action preceded by special knowledge is itself also a form of praise. This identity, or concomitance, of knowledge and action is stated in the Taittirīya Upaniṣad as follows.
+
+विज्ञानं यज्ञं तनुते । कर्माणि तनुतेऽपि च । विज्ञानं देवास्सर्वे ब्रह्म ज्येष्ठमुपासते । (*vijñānaṃ yajñaṃ tanute | karmāṇi tanute 'pi ca | vijñānaṃ devāssarve brahma jyeṣṭhamupāsate |*) (Tai. U. 2-1)
+
+One who has special knowledge performs the sacrifice. Because the agency consists in such knowledge, there is the understanding that the Self made of knowledge is Brahman. But in order to realise the Brahman made of bliss, who surpasses the Brahman made of knowledge, meditation in the form of action grounded in knowledge is indispensable. So the word धी (*dhī*), comprising knowledge, action and meditation, here denotes meditation that is preceded by knowledge and is of the nature of action. The prayer is that He impel us to such meditation.
+
+**यः (*yaḥ*)**
+यः सविता सूरः (*yaḥ savitā sūraḥ*): one meaning is "the Brahman in the form of Savitṛ, who exists, may impel us." Or else यः (*yaḥ*) is a change of gender: यद्भर्गो धियः प्रचोदयात् । तत् ध्यायेम (*yadbhargo dhiyaḥ pracodayāt | tat dhyāyema*) is the construction. That is, "let us meditate on that Bharga, the light of the Sun, which impels our action preceded by knowledge", another meaning expressing the aspiration. Thus Sāyaṇa has shown two constructions. There is also a view that यः (*yaḥ*), by change of gender, may indicate the inner Brahman itself. Mādhava states it thus: य इत्यलिंगदर्मं यत्सत्यज्ञानादिलक्षणं (*ya ityaliṃgadarmaṃ yatsatyajñānādilakṣaṇaṃ*); the purport is that the Supreme Brahman itself should impel our thought. तस्य यच्छब्दनिर्दिष्टस्यात्मनः स्वरूपभूतं परं ब्रह्म तत्सवितुरित्यादिसद्यै: निर्दिष्टते (*tasya yacchabdanirdiṣṭasyātmanaḥ svarūpabhūtaṃ paraṃ brahma tatsaviturityādisadyai: nirdiṣṭate*): the Supreme Brahman that is the very nature of the Self is indicated by "tat savituḥ" and the rest. Thus Śaṅkarācārya gives the word यः (*yaḥ*) a meaning referring to the Supreme Brahman.**NOTE**
+
+**नः (*naḥ*)**
+नः (*naḥ*) means "to us." The notion "Brahman is one, we the individual selves are another, we are finite" creates a sense of difference between Brahman and the individual selves. But this sense of difference has grown naturally in man and is not easily removed. In truth there is no difference of any kind between the Supreme Self and the individual selves, yet the sense of difference grows out of the ignorance natural to man.
+
+### Printed p. 635
+Therefore, regarding the individual selves as standing apart from Brahman, the prayer is made: "Grant to us, who are different from you, the intellect that impels to good works and is the means of worshipping you."
+
+**प्रचोदयात् (*pracodayāt*)**
+प्रचोदयात् । प्रेरयेत् (*pracodayāt | prerayet*): may He impel the good intellect that produces good works. The prayer is that, through action preceded by knowledge, He give the power to know Savitṛ's Bharga. One important point must be noted in this prayer: the main point is that without the grace of God the fruit of knowledge cannot be obtained.
+
+मय्यासक्तमनाः पार्थ योगं युंजन् मदाश्रयः । असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥ (*mayyāsaktamanāḥ pārtha yogaṃ yuṃjan madāśrayaḥ | asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tacchṛṇu ‖*) (Bha. Gī. 7-1)**NOTE**
+
+ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ! (*jyāyasī cetkarmaṇaste matā buddhirjanārdana !*) When Arjuna asked, "If knowledge is the highest of all, why do you urge me to action?", Kṛṣṇa explains that knowledge without action has no value. But the action must take this form: one must offer the whole intellect to God, be absorbed in Him, take refuge in Him and so obtain God's grace as its fruit. Otherwise mere knowledge is of no use, he answers. The gist is that even the most learned cannot attain success by himself without God's grace.
+
+मया प्रसन्नेन तवार्जुनेदं रूपं परं दर्शितमात्मयोगात् । (*mayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt |*) (Bha. Gī. 11-47)
+
+"My form, of divine light, became visible to you only through my grace": here it is taught that realisation of God is impossible without God's grace. The same matter is stated clearly in the Upaniṣads and elsewhere.
+
+नायमात्मा प्रवचनेन लभ्यः न मेधया न बहुना श्रुतेन ॥ यमेवैष वृणुते तेन लभ्यस्तस्येष आत्मा विवृणुते तनूं स्वां ॥ (*nāyamātmā pravacanena labhyaḥ na medhayā na bahunā śrutena ‖ yamevaiṣa vṛṇute tena labhyastasyeṣa ātmā vivṛṇute tanūṃ svāṃ ‖*) (Kar. 2-23)**NOTE**
+
+This Supreme Self is not to be obtained by discourse, nor by the power of intellect, nor by much hearing of scripture. He is obtained only by the grace of the Supreme Self on whom one relies and whose grace one wins.
+
+### Printed p. 636
+Whoever wins such grace, to him the Supreme Self unveils His own body: thus the necessity of God's grace is taught. As in the Īśa Upaniṣad:
+
+आग्ने नय सुपधा राये अस्मान् विश्वानि देव वयुनानि विद्वान् । युयोध्यस्यज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥ (*āgne naya supadhā rāye asmān viśvāni deva vayunāni vidvān | yuyodhyasyajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ‖*) (Īśa. 18)
+
+"O Agni, you who know all actions, give us good intellect and lead us on the good path": as God's grace is prayed for there, so in the present Ṛk too the prayer is: make known to us the knowledge that is the means of knowing God's Bharga, and the action that is of its nature and is service of God; and give us the power to practise it and so worship God.
+
+##### Grammar
+
+- सवितुः—षु प्रसवैश्वर्ययोः धातु. अथवा षूज् प्राणिगर्भविमोचने. कर्तृर्थदल्लि तृच् प्रत्यय आर्धधातुकस्येड्वल्वादेः ऎंबुदरिंद अदक्कॆ इडागम. प्रत्यय निमित्तवागि धातुविन उकारक्कॆ गुण, अवादेश. सवितृशब्द. षष्ठि एकवचनांतरूप. प्रत्यय चित्तादुदरिंद चितः ऎंबुदरिंद अंतोदात्तस्वर बरुत्तदॆ.
+- वरेण्यं—वृञ् वरणे. धातु- वृञ् एण्यः (उ. सू. ३७८) ऎंबुदरिंद एण्य प्रत्यय. अर्धधातुकवादुदरिंद इदन्नु निमित्तीकरिसि धातुविन ऋकारक्कॆ सार्वधातुकार्थधातुकयोः ऎंबुदरिंद गुण. ऋकारद स्थानक्कॆ बरुवुदरिंद रपरवागि बरुत्तदॆ. द्वितीया एकवचनांतरूप.
+- भर्गः—भ्रस्थ पाके. धातु. सर्वधातुभ्य आसन् ऎंबुदरिंद असुन् प्रत्यय. भ्रस्टो रोपधयोरमन्यतरस्यां (पा. सू. ६-४-४७) भस्वधातुसंबंधियाद रेफक्कू उपधॆगू लोपवू समागमवू बरुत्तदॆ ऎंबुदरिंद इल्लि रमागम. इदु मित्तादुदरिंद मिदचोंत्यात्परः ऎंबुदरिंद अंत्याचिन परवागि बरुत्तदॆ. न्यंक्वादिगणदल्लि इदन्नु पाठमाडुवुदरिंद जकारक्कॆ कुत्वदिंद गकारादेश. प्रत्यय नित्तादुदरिंद आद्युदात्तस्वर बरुत्तदॆ.
+- देवस्य—दिवु क्रीडादिषु धातु. नंदिग्रहपचादिभ्यः ऎंबुदरिंद पचादिसतितवादुदरिंद अच् प्रत्यय. अदन्नु निमित्तीकरिसि धातुविन लघूपधॆगॆ गुण. चितः ऎंबुदरिंद अंतोदात्तस्वर बरुत्तदॆ. षष्ठी एकवचनांतरूप.
+
+### Printed p. 637
+- धीमहि—ध्यॆ चिंतायां धातु. लिज् उत्तमपुरुषबहुवचनदल्लि व्यत्ययदिंद आत्मनेपदद महिज् प्रत्यय. बहुलं छंदसि ऎंबुदरिंद धातुविन यकारक्कॆ संप्रसारण (इकारादेश) संप्रसारणाच्च ऎंबुदरिंद पूर्वरूप. हलः ऎंबुदरिंद संप्रसारणक्कॆ दीर्घ. अथवा धीज् आधारे धातु. चित्तादुदरिंद आत्मनेपदी. हिंदिनंतॆ लिजिनल्लि बहुलं छंधसि ऎंबुदरिंद विकरण प्रत्ययक्कॆ लुक्. अतिजंतद परदल्लि बंदिरुवुदरिंद तिजंतनिघातस्वर बरुत्तदॆ.
+- धियः—ध्यॆ चिंतायां धातु. ध्यायतेः संप्रसारणंच (वा. २-५१) ऎंबुदरिंद क्विप् प्रत्यय. अदरॊडनॆ धातुविन यकारक्कॆ संप्रसारण. पूर्वरूप. हलः ऎंबुदरिंद दीर्घ. धी शब्द. धातुस्वर बरुत्तदॆ. द्वितीयाबहुवचनदल्लि शस्‌प्रत्यय. अचिश्रुधातु—ऎंबुदरिंद धातुविन इकारक्कॆ इयजादेश. प्रत्ययसकारक्कॆ रुत्व. विसर्ग.
+- प्रचोदयात्— प्र उपसर्ग. चुद प्रेरणे. धातु. लेट् प्रथमपुरुष एकवचनदल्लि तिप् प्रत्यय. इकारलोप. लेटोडाटौ ऎंबुदरिंद आडागम. चुरादियल्लि पठितवादुदरिंद धातुविगॆ स्वार्थदल्लि णिच्. अदक्कॆ गुण, अयादेश. यः ऎंबुदर संबंधविरुवुदरिंद यद्वृत्तान्नित्यं ऎंबुदरिंद निघातस्वर निषेध बरुत्तदॆ. आगमा अनुदात्ताः ऎंबुदरिंद आडागम अनुदात्तवागुवुदरिंद णिच् प्रत्ययस्वरदिंद दकारोत्तराकारवु उदात्तवागुत्तदॆ. तिजि चोदात्तवति ऎंबुदरिंद उदात्तविशिष्टतिजंतपरवादुदरिंद गतिगॆ (प्र) अनुदात्तस्वर बरुत्तदॆ.
+
+## Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वस्य॑ सवि॒तुर्व॒यं वा॑ज॒यंतः॒ पुरं॑ध्या ।  
+> भग॑स्य रा॒तिमी॑महे ॥ ११ ॥
+
+> *devasya saviturvayaṃ vājayaṃtaḥ puraṃdhyā |*  
+> *bhagasya rātimīmahe ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवस्य । सवितुः । वयं । वाजयंतः । पुरंध्या ।  
+> भगस्य । रातिं । ईमहे ॥ ११ ॥
+
+> *devasya | savituḥ | vayaṃ | vājayaṃtaḥ | puraṃdhyā |*  
+> *bhagasya | rātiṃ | īmahe ‖ 11 ‖*
+
+### Printed p. 638
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजयंतो वाजमन्नमात्मन इच्छंतो वयं देवस्य द्योतमानस्य सवितुः
+> पुरंध्या तद्विषयस्तुत्या प्रज्ञया वा भगस्य भजनीयस्य धनस्य रातिं दानमीमहे ।
+> याचामहे ॥ रातिं । मंत्रे वृषेत्यादिना क्तन उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+We, desiring *vājaṃ*, food for ourselves, ask (ईमहे (*īmahe*), "we beg") the gift (रातिं (*rātiṃ*)) of the wealth worthy to be shared (भगस्य (*bhagasya*)), of the shining (देवस्य (*devasya*)) Savitṛ, by praise (पुरंध्या (*puraṃdhyā*)) addressed to him, or by intelligence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजयंतः (*vājayaṃtaḥ*)—desirous of obtaining food
+- वयं (*vayaṃ*)—we
+- देवस्य (*devasya*)—of the shining
+- सवितुः (*savituḥ*)—Savitṛ
+- पुरंध्या (*puraṃdhyā*)—by intelligence in the form of praise
+- भगस्य (*bhagasya*)—of the venerable wealth
+- रातिं (*rātiṃ*)—the gift
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+We, desirous of food, ask for the gift of venerable wealth from the shining Savitṛ, by intelligence in the form of praise.
+
+##### English translation (H. H. Wilson)
+Desirous of food, we solicit with praise, of the divine Savitri, the gift of affluence.
+
+##### विशेषविषयगळु (Special Topics)
+
+पुरंध्या (*puraṃdhyā*)—तद्विषयस्तुत्या प्रज्ञया वा (*tadviṣayastutyā prajñayā vā*): by praise concerning Savitṛ, or by intelligence. पुरंधिर्बहुधीः (*puraṃdhirbahudhīḥ*): one with abundant intellect may be called Purandhi. The authors of the Nirukta, asking who such a deity is, give the purport together with an etymology of this word (Ni. 6-13). Since the word धी (*dhī*) is listed among the names of action, this epithet may also indicate a special quality of Indra. In places such as पुराणी देवि युवतिः पुरंधि (*purāṇī devi yuvatiḥ puraṃdhi*) (3-60-1) it has been explained earlier as "possessing much praise." It may be said that the word is used here to show the abundance of praise or intelligence in the present mantra. The special meanings and usages of this word were given earlier in this same volume, in the special topics of Ṛk 3-61-1 (Ṛ. Saṃ.).
+
+देवस्य (*devasya*)—द्योतमानस्य (*dyotamānasya*): of the shining Savitṛ.
+
+दीव्यते क्रीडते यस्माद्रोचते द्योतते दिवि । तस्माद्भाव इति प्रोक्तः स्तूयते सर्वदेवतैः ॥ (*dīvyate krīḍate yasmādrocate dyotate divi | tasmādbhāva iti proktaḥ stūyate sarvadevataiḥ ‖*) (Yogiyājña verse 3)**NOTE**
+
+### Printed p. 639
+By whatever power he sports in the world through playful resolve and action, and by whatever greatness he shines radiant in the heavenly world, for that reason Savitṛ is denoted by the word "deva": thus the importance of the epithet is explained.
+
+## Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वं नरः॑ सवि॒तारं॒ विप्रा॑ य॒ज्ञैः सु॑वृ॒क्तिभिः॑ ।  
+> न॒म॒स्यंति॑ धि॒येषि॒ताः ॥ १२ ॥
+
+> *devaṃ naraḥ savitāraṃ viprā yajñaiḥ suvṛktibhiḥ |*  
+> *namasyaṃti dhiyeṣitāḥ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवं । नरः । सवितारं । विप्राः । यज्ञैः । सुवृक्तिभिः ।  
+> नमस्यंति । धिया । इषिताः ॥ १२ ॥
+
+> *devaṃ | naraḥ | savitāraṃ | viprāḥ | yajñaiḥ | suvṛktibhiḥ |*  
+> *namasyaṃti | dhiyā | iṣitāḥ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरः कर्मणां नेतारो विप्रा मेधाविनोऽध्वय्यादयो धियेषिताः
+> कर्मणा बुद्ध्या वा प्रेयमाणाः संतः सवितारं देवं त्वां यज्ञैर्यजनीयैर्हविर्भिः सुवृक्तिभिः शोभनस्तोत्रैश्च नमस्यंति । परिचरंति ॥ नमस्यंति । नमोवरिवश्चित्रजः क्यजिति क्यच् ॥
+
+##### Gist of the bhāṣya
+
+The नरः (*naraḥ*), leaders of rites, and the विप्राः (*viprāḥ*), the wise adhvaryus and others, धियेषिताः (*dhiyeṣitāḥ*), impelled by action or by intellect, serve (नमस्यंति (*namasyaṃti*), "they attend on") you, the god Savitṛ, with sacrifices, that is, offerings fit for sacrifice, and with good praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders of rites
+- विप्राः (*viprāḥ*)—the wise adhvaryus and others
+- धियेषिताः (*dhiyeṣitāḥ*)—impelled by intelligence
+- देवं (*devaṃ*)—who are of divine nature
+- सवितारं (*savitāraṃ*)—and of the form of Savitṛ, you
+- यज्ञैः (*yajñaiḥ*)—with offerings fit for sacrifice
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- नमस्यंति (*namasyaṃti*)—they serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, the adhvaryus and others, leaders of rites and wise, impelled by their intelligence, serve you, who are of divine nature and of the form of Savitṛ, with offerings fit for sacrifice and with excellent praises.
+
+##### English translation (H. H. Wilson)
+Devout and wise men, impelled by intelligence, adore the divine Savitri with sacrifices and sacred hymns.
+
 ---
 
-**Progress note:** Done through printed p. 633. pp. 628-633 (batch API)
+**Progress note:** Done through printed p. 639. pp. 634-639 (batch API)
