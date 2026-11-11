@@ -15660,6 +15660,101 @@ By the first view, one group is made of human beings and others together with se
 यास्कौपमन्यवावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāskaupamanyavāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69)
 In this sentence the authors of the Bṛhaddevatā say that Yāska's view is the first. But in the Nirukta the views of others are stated and Yāska's own view is not stated definitively. Perhaps he too accepted that one.
 
+### Printed p. 474
+The Brihaddevatā says: "Śākapūṇi, however, holds that the *pañca janāḥ* are the priests and the sacrificer." (Bṛ. De. 7-20)
+The opinion of Śākapūṇi is that the four priests beginning with the Hotṛ, together with the sacrificer, make up a group of five persons.
+The Brihaddevatā continues: "Eye, ear, mind, speech and breath are the five persons, according to the teachers of the self (ātmavādins). Gandharvas and Apsarases, gods, men and fathers, and also serpents, are heard of in the Aitareya Brāhmaṇa."
+The eye, ear, mind, speech and breath: these five are the five persons according to the teachers of the self. The Aitareya Brāhmaṇa explains them as the Gandharvas and the rest. (Ai. Brā. 3-31-5) The explanation of the Brihaddevatā also cites these differences of opinion: that such five kinds of beings, too, may enjoy the oblation was Agni's answer to the gods. In some places the word *kṣitayaḥ* is used in place of *janāḥ*.
+The word *kṣitayaḥ* is read among the twenty-five names for man, *manuṣyāḥ*, *narāḥ* and the rest. (Ni. 3-7) *Pañca kṣitīnām* means *pañca janānām*. The commentator (Yāska's) explains it as *niṣādapañcamānām*; Skandasvāmin as "of the human classes, of these: Gandharvas, fathers, gods"; and Veṅkaṭamādhava explains it as "the fivefold character of the five dwelling human races: Gandharvas, fathers, gods, Asuras and Rākṣasas." According to Sāyaṇa, *kṣitīnām* means the people of five classes fit to dwell on earth: Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and Niṣāda. Niṣādas are people who do not belong to the four varṇas beginning with the Brāhmaṇa, and who live by hunting animals. The Gonds, Kolas, Bhillas and others, former inhabitants of this country, belong to this class. They still live, in very small numbers, only in a few places such as the Central Provinces. The words *pañca janāḥ* and *pañca kṛṣṭīḥ* occur in many places in the Ṛgveda.
+In sum, some say the five kinds of people are Gandharvas, fathers, gods, Asuras and Rākṣasas. The view of Upamanyu and others is that the five kinds are the people of the four varṇas beginning with the Brāhmaṇa, together with the hunter class called Niṣāda (Sāyaṇa has endorsed this). The Nairuktas say that Niṣādas are those who kill animals, or that they are so called because sin is full in them. It may also be that there were five main tribes at that time, and the poet may have said *pañca janāḥ* with this in mind. At all events it is clear that there was a difference of opinion on this matter even in the time of Yāska, the author of the Nirukta.
+
+### Printed p. 475
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रो दे॒वेष्वा॒युषु॒ जना॑य वृ॒क्तब॑र्हिषे ।  
+> इष॑ इ॒ष्टव्र॑ता अकः ॥ ९ ॥
+
+> *mitro deveṣvāyuṣu janāya vṛktabarhiṣe |*  
+> *iṣa iṣṭavratā akaḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । देवेषु । आयुषु । जनाय । वृक्तबर्हिषे ।  
+> इषः । इष्टव्रताः । अकरित्यकः ॥ ९ ॥
+
+> *mitraḥ | deveṣu | āyuṣu | janāya | vṛktabarhiṣe |*  
+> *iṣaḥ | iṣṭavratāḥ | akarityakaḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो भगवानादित्यो देवेषु द्योतमानादिगुणयुक्तेष्टायुषु मनुष्येषु मध्यॆ यो जनो व्यक्तबर्हिः । व्यक्तं लूनं बर्हिर्येन सः । बर्हिर्लवनासादनपूर्वं हविषो दाता ऋत्विगित्यर्थः । तस्मै व्यक्तबर्हिषे जनायेष्टव्रताः ।
+> इष्टानि कल्याणानि व्रतानि कर्माणि याभिः सिध्यंति ता इषस्तादृशान्यन्नान्यकः । करोति ।
+> तस्मै ददातीत्यर्थः ॥ व्यक्तबर्हिषे । ओव्रश्च छेदने । कर्मणि निष्ठायां यस्य
+> विभाषेतीतप्रतिषेधः । बहुव्रीहौ पूर्वपदस्वरः । अकः । करोतेर्लुजः चेर्मंत्रे
+> घसेत्यादिना लुक् । सिपो हल्बादिलोपः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+Mitra, the divine Āditya, among the gods and among men, that is, those endowed with brilliance and similar qualities, does this for the person who is *vyaktabarhis*: one by whom the sacred grass has been cut (*vyaktam* = *lūnam*). The meaning is the priest who gives the oblation after cutting and spreading the grass. For that person Mitra produces *iṣṭavratāḥ* foods (*iṣaḥ*): foods by which the auspicious (*iṣṭāni*, *kalyāṇāni*) rites (*vratāni*) are accomplished. That is, Mitra gives him such foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Āditya in the form of Mitra
+- देवेषु (*deveṣu*)—possessing shining qualities
+- आयुषु (*āyuṣu*)—among men
+- व्यक्तबर्हिषे (*vyaktabarhiṣe*)—who stands ready, having spread the darbha grass for the performance of the rite
+- जनाय (*janāya*)—to the sacrificer
+- इष्टव्रताः (*iṣṭavratāḥ*)—fit for the performance of auspicious observances
+- इषः (*iṣaḥ*)—foods
+- अकः (*akaḥ*)—produces
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, in the form of Āditya, produces foods fit for the performance of auspicious observances for the sacrificer, who among men of shining qualities has spread the darbha grass and stands ready for the rite.
+
+##### English translation (H. H. Wilson)
+Mitra is he who amongst gods and men bestows food as the reward of pious acts upon the man who has prepared (for him) the lopped sacred grass.
+
+### Printed p. 476
+
+##### विशेषविषयगळु (Special Topics)
+
+देवेषु आयुषु (*deveṣu āyuṣu*): the commentator explains this as "among men endowed with shining and similar qualities". Since the word *āyavaḥ* is read among the names for men (Ni. 3-7), *āyuṣu* means "among men". But the commentator's explanation, which makes *deveṣu* an adjective of the word *āyuṣu*, does not fit well. If the natural sense of this word, "among the gods", is given, the sense fits properly. Therefore it is appropriate not to take *deveṣu* and *āyuṣu* as qualifier and qualified, but to regard both as independent words and explain "among the gods and among men". The sense then fits well.
+वृक्तबर्हिषे (*vṛktabarhiṣe*): the meaning of the word *barhis* has been explained before. *Barhis* is a kind of grass called darbha, long in form. The priests bring it, cut off its pointed tips, cut it to one equal length, and spread it in a fixed place in the sacrificial ground as a seat, so that the gods may come and sit. In spreading it, so that it may be soft for those who sit, they first lay some of the darbhas as a layer lengthwise, over that another layer crosswise, and over that another lengthwise as at first. It is the custom to spread the darbhas in three layers in this way. There is also a Śruti sentence on this: त्रिवृद्बर्हिर्भवति । माता पिता पुत्रः । (*trivṛdbarhirbhavati | mātā pitā putraḥ |*) Because the tips of the darbhas are very sharp, they cut off the tips so that they will not prick. In many Ṛks the invited gods are begged to come and sit on the seat prepared in this way, with the equal-length darbhas spread in three layers one upon another. In the present Ṛk, the word व्यक्तबर्हिषे (*vyaktabarhiṣe*) indicates that the sacrificer performing the sacrifice has prepared such a darbha seat.
+इष्टव्रताः (*iṣṭavratāḥ*): इष्टानि कल्याणानि व्रतानि कर्माणि याभिः सिध्यंति ताः इषः । (*iṣṭāni kalyāṇāni vratāni karmāṇi yābhiḥ sidhyaṃti tāḥ iṣaḥ |*) This word is an adjective of the word *iṣaḥ*. So the commentator's explanation is: such foods (in the form of oblations) by which auspicious rites are accomplished. That is, rites performed with reference to the foods in the form of oblations offered to satisfy the gods in sacrifices and the like are accomplished by offering such foods in the form of oblations. These foods are therefore the means of the accomplishment of rites. What is said here is the prayer to Mitra to give us such foods.
+
+### Printed p. 477
+Sūkta 60
+The deities of this sūkta are the Ṛbhus. It is necessary to know their earlier history, the deeds of daring they performed, and the skill of mind they showed in their works.
+It is said in many places in the Ṛgveda that the Ṛbhus were formerly men and attained divinity by their excellent conduct and the performance of good rites. In the past the sage Aṅgiras had a son named Nītimañjari. In his line the sage Sudhanvan had three sons, Ṛbhu, Vibhu and Vāja. It is traditionally said that through good works, such as performing good rites and helping the gods, they attained birth as gods or became gods. These three sons of Sudhanvan, beginning with Ṛbhu, are customarily all called Ṛbhus. All three sons are called by the name of the eldest. Because they were pupils of Tvaṣṭṛ, they are also called the craftsmen of the gods. It is said in various places that they made the necessary implements for the gods beginning with Indra, namely Indra's chariot and Agni's *camasa* vessel. This sūkta describes some works they did. Descriptions elsewhere say that they have wondrous power and are able to do any kind of work. Since they have the same power and capacity as the gods, the sages regarded them as belonging to the company of the gods and described them and their deeds in many ways. It is traditionally said that they dwell in the orb of the sun and do their works through the sun's rays.
+Yāska has given three etymologies of the word Ṛbhu:
+(1) ऋभव उरु भांतीति वा । (*ṛbhava uru bhāṃtīti vā |*) *Uru*, greatly; *bhānti*, they shine; therefore they are called Ṛbhus. Here, according to some, the word arises by joining the final letter *ru* of *uru* and the first letter of *bhānti*, making *rubhu* or *ṛbhu*, as in *ahaḥ* + *rātri* = *horā*.
+(2) ऋतेन भांतीति इति वा । (*ṛtena bhāṃtīti iti vā |*) *Ṛtena* means "by truth or by sacrifice"; because they shine by it, they are called Ṛbhus.
+(3) ऋतेन भवंतीति वा ॥ (*ṛtena bhavaṃtīti vā ‖*) *Ṛtena* means "by strength (capacity)"; because they exist by strength, that is, are possessed of capacity, they are called Ṛbhus. Of the word *ṛtena*
+
+### Printed p. 478
+the first letter *ṛ* and the first letter *bha* of the word *bhavanti* combine to give *ṛbhu*, some say.
+This Ṛk makes clear that these Ṛbhus were formerly men and afterwards attained divinity:
+विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः संतो अमृतत्वमानशुः । सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यंत धीतिभिः ॥ (*viṣṭvī śamī taraṇitvena vāghato martāsaḥ saṃto amṛtatvamānaśuḥ | saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyaṃta dhītibhiḥ ‖*) (Saṃ. Saṃ. 1,110-4) **NOTE**
+Yāska's Nirukta on it: कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्तासः संतो अमृततत्वमानशिरे ऋभवः सूरख्याना ना सूरप्रज्ञा वा, संवत्सरे समपृच्यंत धीतिभिः कर्मभिः ॥ (*kṛtvā karmāṇi kṣipratvena voḍhāro medhāvino vā martāsaḥ saṃto amṛtatatvamānaśire ṛbhavaḥ sūrakhyānā nā sūraprajñā vā, saṃvatsare samapṛcyaṃta dhītibhiḥ karmabhiḥ ‖*)
+The chief sense is this: these Ṛbhus, sons of Sudhanvan, were formerly men. By their insight or intellectual power, equal to the sun, they quickly, that is, within a single year, performed all the sacrifices and attained *amṛtatva*, that is, divinity (freedom from death).
+Yāska has also given another meaning of the word Ṛbhu: आदित्यरश्मयोऽस्यभव उच्यंते (*ādityaraśmayo 'syabhava ucyaṃte*), that is, the rays of the sun are also called *ṛbhavaḥ*. For example:
+उद्वत्समा अकृणोतना तृणं निवत्स्वपः स्वपस्यया नरः । अगो ह्यस्य यदसस्तना गृहे तदद्येदमृभवो नानु गच्छथ ॥ (*udvatsamā akṛṇotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ | ago hyasya yadasastanā gṛhe tadadyedamṛbhavo nānu gacchatha ‖*) (Ṛ. Saṃ. 1-61-11) **NOTE**
+On this Ṛk Yāska gave the Nirukta: अगोह्य आदित्योऽगूहनीयस्तस्य यदस्वपथ गृहे यावत्तत्र भवथ न तावदिह भवथेति । (*agohya ādityo 'gūhanīyastasya yadasvapatha gṛhe yāvattatra bhavatha na tāvadiha bhavatheti |*) The commentator too, explaining this Ṛk, interprets the word *ṛbhavaḥ* thus: ऋभवः उरु प्रभूतं भासमानाः ऋतेनादित्येन भासमाना ना ऋतेनोडकेनोदकार्थमुत्पन्ना वा (*ṛbhavaḥ uru prabhūtaṃ bhāsamānāḥ ṛtenādityena bhāsamānā nā ṛtenoḍakenodakārthamutpannā vā*).
+In Ṛ. Saṃ. 1-110-2 the background of the earlier history indicates that the Ṛbhus went to the house of Savitṛ, who had offered an oblation in the sacrifice or given hospitality. Skandasvāmin has explained this history in one way, Sāyaṇa in another. In this connection:
+अत्रेतिहासमचक्षते । ऋभवो यज्ञियत्वं प्रार्थयमानाः प्रजापतेः सकाशमगमन् । अथ प्रजापतिः सवितारमाहूयावोचत् । एतेऽपि यज्जि- (*atretihāsamacakṣate | ṛbhavo yajñiyatvaṃ prārthayamānāḥ prajāpateḥ sakāśamagaman | atha prajāpatiḥ savitāramāhūyāvocat | ete 'pi yajji-*)
+
+### Printed p. 479
+या भवंत्विति । तथेति सविता प्रतिपद्य तान् स्वगृहं नीत्वा द्वादश दिनान्या तिथ्यमेषामकार्षिदिति । तदेतद्वामदेवो वक्ष्यति । (*yā bhavaṃtviti | tatheti savitā pratipadya tān svagṛhaṃ nītvā dvādaśa dinānyā tithyameṣāmakārṣiditi | tadetadvāmadevo vakṣyati |*)
+The Ṛbhus, wishing to obtain the right to take part in the sacrifice and receive the oblation, went to Prajāpati. Prajāpati then called Savitṛ and said, "Let these too become fit for sacrifice (help them in this)." Savitṛ agreed, saying "So be it", took them to his house and performed hospitality for them for twelve days. Skandasvāmin tells the story briefly thus, and cites the Ṛk that indicates this setting:
+द्वादश द्यून्यदगोह्यस्यातिथ्ये रणन्नृभवः ससंतः । सुक्षेत्राकृण्वन्ननयंत सिंधून्धन्वातिष्ठन्नोषधीर्निम्नमापः ॥ (*dvādaśa dyūnyadagohyasyātithye raṇannṛbhavaḥ sasaṃtaḥ | sukṣetrākṛṇvannanayaṃta siṃdhūndhanvātiṣṭhannoṣadhīrnimnamāpaḥ ‖*) (Ṛ. Saṃ. 4.33-7)
+In the same connection Sāyaṇa indicates the cause that brought the Ṛbhus to Savitṛ's house:
+दाशुषः प्रातःसवनादिष्टग्न्यादिभिरपसारितेभ्य ऋभुभ्यः सोमपानं दत्तवतः सवितुः गृहं निवासस्थानं तृतीयसवनाख्यमगच्छत प्राप्ताः ॥ (*dāśuṣaḥ prātaḥsavanādiṣṭagnyādibhirapasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savituḥ gṛhaṃ nivāsasthānaṃ tṛtīyasavanākhyamagacchata prāptāḥ ‖*)
+"Enter the sacrificial house, of the form of the third pressing, of Savitṛ who gave the Soma-drink to you Ṛbhus, who had been rejected and sent out by Agni and the other gods at the morning pressing and the rest." In this way he also states the rejection by Agni and the others. This matter is told fully in the Aitareya Brāhmaṇa:
+यभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रैर्माध्यंदिनात्सवनादनुदत तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वे देवा अनोनुद्यंत नेह पास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमेंतेवासास्त्रमेवैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् । (*yabhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātaḥsavanādanudata tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrairmādhyaṃdinātsavanādanudata tebhyastṛtīyasavane vāci kalpayiṣaṃstānviśve devā anonudyaṃta neha pāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava vā imeṃtevāsāstramevaibhiḥ saṃpibasveti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat |*) (Ai. Brā. 13-30) **NOTE**
+The Ṛbhus, by their austerity and intense desire, gained a share of Soma-drinking among the gods. When they first wished to have it at the morning pressing, Agni joined with the Vasus, rejected them and drove them away. Then, when they wished to obtain it at the midday pressing, Indra joined with the Rudras and drove them away. Again, at the third pressing they wished to obtain it
+
 ---
 
-**Progress note:** Done through printed p. 473. pp. 468-473 (batch API)
+**Progress note:** Done through printed p. 479. pp. 474-479 (batch API)
