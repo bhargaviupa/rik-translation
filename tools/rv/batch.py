@@ -258,7 +258,7 @@ def cmd_check(a):
         if raw.count('**NOTE**')!=len(NOTE_RE.findall(raw)): fail.append('a **NOTE** without its {detail}: write **NOTE**{what is doubtful, with the Kannada words}')
         for pat,msg in ((r'\[\?\]|\[sic\]','[?] / [sic] are not used any more: mark the place **NOTE**{detail}'),
                         (r'(?m)^\*\[|\*\[[^\]]*\]\*','translator remarks in italic brackets *[…]* are not written into the English text: drop them, or use **NOTE**{detail} where a decision is needed'),
-                        (r'(?i)as supplied|as printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
+                        (r'(?i)\bas supplied|\bas printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
         kk=re.findall('[ಀ-೿]+',enf)
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
