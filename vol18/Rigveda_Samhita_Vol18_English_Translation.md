@@ -6511,6 +6511,211 @@ Sūkta 27. Maṇḍala 4; Anuvāka 3; Sūkta 27. Aṣṭaka 3; Adhyāya 6; Varga
 > *garbhe | nu | san | anu | eṣāṃ | avedaṃ | ahaṃ | devānāṃ | janimāni | viśvā |*  
 > *śataṃ | mā | puraḥ | āyasīḥ | arakṣan | adha | śyenaḥ | javasā | niḥ | adīyaṃ ‖ 1 ‖*
 
+### Printed p. 186
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रैष श्लोकः पठ्यते । शैनभावं समास्थाय गर्भाद्योगेन निःसृतः ।
+> ऋषिर्गर्भे शयानः सन् ब्रूते गर्भे नु सन्निति । गर्भे नु गर्भ एव सन्
+> विद्यमानोहं वामदेव एषामिंद्रादीनां देवानां विश्वा विश्वानि सर्वाणि
+> जनिमानि जन्मान्यन्ववेदं । आनुपूर्व्येणाज्ञासिषं । परमात्मनः सकाशात्सर्वे देवा
+> जाता इत्यवेदिषमित्यर्थः । इतः पूर्व० शतं बहून्यायसीरयोमयान्यभेद्यानि
+> पुरः शरीराणि मा मामरक्षन् । अपालयन् । यथाहं शरीराद्वतिरिक्तमात्मानं न
+> जानीयां तथा मामरक्षन्नित्यर्थः । अधाधुना शैनः शैनवत्सि तोऽहं जवसा
+> वेगेन निरदीयं । शरीरान्निरगमं । अनावरणमात्मानं जानन्निर्गतोऽस्मीत्यर्थः ।
+> पुरुषे ह ना अयमादित इति खंडे गर्भ एवैतच्छयानो वामदेव एवमुवाचेत्यादिना । ऐ. आ. २-५-१ । अयमर्थः सम्यक् प्रतिपादितः ॥
+
+##### Gist of the bhāṣya
+
+On this verse a śloka is recited. Having taken on the nature of a hawk, the seer emerged from the womb through the power of yoga. While lying in the womb he says "garbhe nu san": while still in the womb, I, Vāmadeva, knew in due order all the births of these gods, Indra and the others. That is, I came to know that all the gods were born from the Supreme Self. Before this, a hundred bodies, iron-made and unbreakable, protected me, that is, guarded me, so that I should not know the Self as distinct from the body. Now, like a hawk, I have come out of the body with speed. That is, knowing the Self to be without covering, I have departed. He says that this meaning has been well established in the Aitareya Āraṇyaka, in the section beginning "puruṣe ha nā ayam āditaḥ", with "lying in the womb Vāmadeva spoke thus" and so on (Ai. Ā. 2-5-1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गर्भे नु सन् (*garbhe nu san*)—while still in the womb
+- अहं (*ahaṃ*)—I, named Vāmadeva
+- एषां देवानां (*eṣāṃ devānāṃ*)—of these gods, Indra and the others
+- विश्वा (*viśvā*)—all
+- जनिमानि (*janimāni*)—forms of origin
+- अनु अवेदं (*anu avedaṃ*)—I knew fully (before this)
+- शतं (*śataṃ*)—many
+- आयसीः (*āyasīḥ*)—of a hard nature like iron
+- पुरः (*puraḥ*)—bodies
+- मा (*mā*)—me
+- अरक्षन् (*arakṣan*)—protected (held me back, giving no opportunity for realisation of the Self)
+- अध (*adha*)—now
+- श्येनः (*śyenaḥ*)—I, having taken on the form of a hawk
+- जवसा (*javasā*)—with great speed
+- निरदीयं (*niradīyaṃ*)—I have come out, piercing through the body
+
+##### भावार्थ (Bhāvārtha)
+
+While still in the womb, I, named Vāmadeva, knew all the forms of origin of the gods, Indra and the others. Before this, many bodies, hard as iron rods, held me back and obstructed me so as to give no opportunity for realisation of the Self. Having taken on the form of a hawk, I have now, with great speed, pierced through the mother's body and come out.
+
+##### English translation (H. H. Wilson)
+Being still in the germ, I have known all the births of these
+divinities in their order : a hundred bodies of iron confined me, but as
+a hawk I came forth with speed.
+
+### Printed p. 187
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, the seer Vāmadeva declares that while still dwelling in his mother's womb he knew all matters, such as the order of origin of the gods, and so is all-knowing. The main purport and the hidden meaning of these two Ṛks have been explained in the introduction to this Maṇḍala (Part 17, page 659); this subject and the distinctive character of the seer Vāmadeva can be seen there.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न घा॒ स मामप॒ जोषं॑ जभारा॒भीमा॑स॒ त्वक्ष॑सा वी॒र्ये॑ण ।  
+> ई॒र्मा पुरं॑धिरजहा॒दरा॑तीरु॒त वाता॑ अतर॒च्छूशु॑वानः ॥ २ ॥
+
+> *na ghā sa māmapa joṣaṃ jabhārābhīmāsa tvakṣasā vīryeṇa |*  
+> *īrmā puraṃdhirajahādarātīruta vātā ataracchūśuvānaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । घ । सः । मां । अप । जोषं । जभार । अभि । ईं । आस । त्वक्षसा । वीर्येण ।  
+> ईर्मा । पुरंऽधिः । अजहात् । अरातीः । उत । वातान् । अतरत् । शूशुवानः ॥ २ ॥
+
+> *na | gha | saḥ | māṃ | apa | joṣaṃ | jabhāra | abhi | īṃ | āsa | tvakṣasā | vīryeṇa |*  
+> *īrmā | puraṃ 'dhiḥ | ajahāt | arātīḥ | uta | vātān | atarat | śūśuvānaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स गर्भो मां वामदेवं जोषं पर्याप्तं न घ नैवाप जभार ।
+> अपजहार । गर्भेऽपि वसतो मे मोहो नाभूदित्यर्थः । अहं तु ईमिदं गर्भस्थं
+> दुःखं त्वक्षसा तीक्ष्णेन वीर्येण ज्ञानसामर्थ्येनाभ्यास । अभ्यभवं । ईर्मा सर्वस्य
+> प्रेरकः पुरंधिः पुरां धारकः परमात्मारातीर्गर्भसंश्रितान् शत्रूनजहात् ।
+> अत्यजत् । जघान । उतापि च शूशुवानो वर्धमानः परिपूर्णः परमात्मा वातान्
+> गर्भक्लेशकर्वान्वायुनतरत् । अतारीत् ॥
+
+##### Gist of the bhāṣya
+
+That embryo did not carry me, Vāmadeva, away to जोषं (*joṣaṃ*), that is, to satisfaction (paryāpta); it did not seize me at all. The meaning is that even while I dwelt in the womb, no delusion arose in me. I, on the other hand, overcame (अभ्यभवं (*abhyabhavaṃ*)) this suffering of the womb by sharp valour, that is, by the power of knowledge. ईर्मा (*īrmā*) is the impeller of all; पुरंधिः (*puraṃdhiḥ*) is the sustainer of the bodies (cities), the Supreme Self. He abandoned, that is, struck down, the enemies lodged in the womb. And the Supreme Self, growing and fully complete, crossed the winds that cause distress in the womb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that embryo
+- मां (*māṃ*)—me, named Vāmadeva
+- जोषं (*joṣaṃ*)—fully
+- न घ अप जभार (*na gha apa jabhāra*)—has not carried away (I did not come to the delusion and ignorance of the womb)
+- ईं (*īṃ*)—the suffering of the womb
+- त्वक्षसा (*tvakṣasā*)—sharp
+- वीर्येण (*vīryeṇa*)—which is of the nature of knowledge
+
+### Printed p. 188
+- सामर्थ्यदिंद (*sāmarthyadiṃda*) is not a Sanskrit word; it continues the gloss: by that power
+- अभि आस (*abhi āsa*)—I conquered
+- ईर्मा (*īrmā*)—the impeller of the world
+- पुरंधिः (*puraṃdhiḥ*)—the Supreme Self
+- आरातीः (*ārātīḥ*)—the enemies lodged in the womb
+- अजहात् (*ajahāt*)—destroyed
+- उत (*uta*)—and
+- शूशुवानः (*śūśuvānaḥ*)—the Supreme Self, fully grown
+- वातान् (*vātān*)—the winds that cause distress
+- आतरत् (*ātarat*)—crossed
+
+##### भावार्थ (Bhāvārtha)
+
+Although the iron-like bodies obstructed me in the womb, I was not enveloped by ignorance or delusion. I overcame the suffering of the womb by a power that is sharp and of the nature of knowledge. The Supreme Self, the impeller of the world and fully complete, destroyed the enemies lodged in the womb, and passed beyond the distress-causing winds of the womb.
+
+##### English translation (H. H. Wilson)
+That embryo did not beguile me into satisfaction, but by the keen energy (of divine wisdom), I triumphed over it : the impeller of all, the sustainer of many, abandoned the foes (of knowledge), and, expanding, passed beyond the winds (of worldly troubles).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ यच्छे॒नो अस्व॑नी॒दध॒ द्योर्वि यद्यदि॒ वात॑ ऊ॒हुः  ॑
+> पुरंधिं ।  
+> सृ॒जद्यद॑स्मा॒ अव॑ ह क्षि॒पज्ज्यां कृ॒शानु॒रस्ता॒ मन॑सा भुर॒ण्यन् ॥
+
+> *ava yaccheno asvanīdadha dyorvi yadyadi vāta ūhuḥ*  
+> *puraṃdhiṃ |*  
+> *sṛjadyadasmā ava ha kṣipajjyāṃ kṛśānurastā manasā bhuraṇyan ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । यत् । श्येनः । अस्वनीत् । अध । द्योः । वि । यत् । यदि । वा । अतः । ऊहुः।  
+> पुरंधिं ।  
+> सृजत् । यत् । अस्मै । अव । ह । क्षिपत् । ज्यां । कृशानुः । अस्ता । मनसा । भुरण्यन् ॥
+
+> *ava | yat | śyenaḥ | asvanīt | adha | dyoḥ | vi | yat | yadi | vā | ataḥ | ūhuḥ|*  
+> *puraṃdhiṃ |*  
+> *sṛjat | yat | asmai | ava | ha | kṣipat | jyāṃ | kṛśānuḥ | astā | manasā | bhuraṇyan ‖*
+
+### Printed p. 189
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध तदानीं सोमाहरणकाले यद्यदा श्येनो द्योर्द्युलोकादवास्वनीत् अवाङ्मुखं शब्दमकरोत् । यदि ना यदा च । वेति चार्थे । यद्यं
+> पुरंधिं सोममतोऽस्माच्छेनादूहः । सोमपाला विक्षिप्तवंतः । यद्यदास्ता
+> शराणां क्षेप्ता मनसा मनोवेगेन भुरण्यन् गंतुमिच्छन् कृशानुरेतन्नामकः
+> सोमपालो ज्यां धनुषः कोटौ मौर्विं क्षिपद्ध । चिक्षेप खलु । अस्मै श्येनाय
+> शरमवासृजत् । त्यक्तवान् । तथा च ब्राह्मणं । तस्या अनुविसृज्य कृशानुः सोमपालः
+> सव्यस्य पदो नखमच्छिददित्यादि । ऐ. ब्रा. ३-२६ । यदा सोमपाला इत्थमित्तं
+> चक्रुस्तदा श्येनः सोममाजहारेत्यृचोत्तरया संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Then, at the time of fetching the Soma, when the hawk from the heavenly world uttered a downward-directed cry; यदि (*yadi*) means "and when", and वा (*vā*) is in the sense of "and". When the Soma-guardians, taking the Soma from this hawk, scattered it **NOTE**; and when Kṛśānu, so named, a Soma-guardian and a shooter of arrows, wishing to go with the speed of the mind, set the bowstring at the tip of the bow, he released an arrow at this hawk. So too the Brāhmaṇa: तस्या अनुविसृज्य कृशानुः सोमपालः सव्यस्य पदो नखमच्छिददित्यादि । (*tasyā anuvisṛjya kṛśānuḥ somapālaḥ savyasya pado nakhamacchidadityādi |*) (Ai. Brā. 3-26). The connection is with the following Ṛk: when the Soma-guardians did thus and thus, then the hawk carried off the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—at the time of fetching the Soma
+- यत् (*yat*)—when
+- श्येनः (*śyenaḥ*)—the hawk
+- द्योः (*dyoḥ*)—from the heavenly world
+- अव अस्वनीत् (*ava asvanīt*)—made a sound as it came down
+- यदि वा (*yadi vā*)—when indeed
+- यत् पुरंधिं (*yat puraṃdhiṃ*)—that same Soma
+- अतः (*ataḥ*)—from this hawk
+- वि ऊहुः (*vi ūhuḥ*)—they understood it to have been carried off
+- यत् (*yat*)—when
+- अस्ता (*astā*)—to release arrows
+- मनसा (*manasā*)—with the speed of the mind
+- भुरण्यन् (*bhuraṇyan*)—wishing to pursue
+- कृशानुः (*kṛśānuḥ*)—the Soma-guardian named Kṛśānu
+- ज्यां (*jyāṃ*)—the string of the bow
+- क्षिपत् ह (*kṣipat ha*)—fixed it on the bow (then)
+- अस्मै (*asmai*)—aiming at the hawk
+- अव असृजत् (*ava asṛjat*)—he released the arrow
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of fetching the Soma, as soon as the hawk, descending from the heavenly world, made its cry, the Soma-guardians understood that the Soma had been carried off. Then Kṛśānu, a Soma-guardian, running in pursuit with the speed of the mind, fixed the string on his bow, and aiming at the hawk, released an arrow.
+
+##### English translation (H. H. Wilson)
+When the hawk screamed (wita exultation) on his descent from heaven, and (the guardians of the Soma) perceived that the Soma was (carried away) by it, then, the archer Krishanu, pursuing with the speed of thought, and stringing his bow, let fly an arrow against it.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next it is told how the hawk brought to the earth the Soma that was in heaven, and how, at the time of bringing it, the Soma-guardians, Kṛśānu and the others, confronted the hawk
+
+### Printed p. 190
+and shot an arrow and cut off its wing. We have already explained earlier how the hawk brought the Soma. But we did not explain how the opposition of Kṛśānu and the others at that time was overcome; therefore that matter is briefly explained here as it stands in the Aitareya Brāhmaṇa.
+
+सोमाहरणोपाख्यान (*somāharaṇopākhyāna*)
+
+सोमो वै राजामुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन् कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंशृंदांसि यूयं न इमं सोमं राजानमाहरतेति तथेति ते सुपर्णा भूत्वोडपतंस्ते यत्सुपर्णा भूत्वोडपतंस्तदेशत्सौपर्णमित्याख्यानविद आचक्षते । (*somo vai rājāmuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyan kathamayamasmātsomo rājāgacchediti te 'bruvaṃśṛṃdāṃsi yūyaṃ na imaṃ somaṃ rājānamāharateti tatheti te suparṇā bhūtvoḍapataṃste yatsuparṇā bhūtvoḍapataṃstadeśatsauparṇamityākhyānavida ācakṣate |*) (Ai. Brā. 13-25)
+
+In former times King Soma (the Soma plant; the custom is to call the Soma plant "King Soma" out of respect) was in the heavenly world and not in this world. Knowing this, the gods and the seers considered how this Soma might be brought here. Then, deliberating on the matter, they concluded that the metres had the power to bring Soma from heaven to earth, and they begged the metres: "O metres, for our sake, that is, for use in our sacrifice, bring to the earth the Soma that is in heaven." Accepting their prayer, the metres took the forms of certain birds well known in the world and flew off to the heavenly world. Because winged birds are called suparṇa, and because these birds engaged in the fetching of the Soma, this story called the fetching of the Soma is known in the Purāṇas and elsewhere as the Saupar­ṇākhyāna.
+
+छंदांसि वै तत्सोमं राजानमच्छाचरंस्तानि ह तर्हि चतुरक्षराणि चतुरक्षराण्येव छंदांस्यासन्सा जगती चतुरक्षरा प्रथमोदपतत्सा पतित्वार्धमध्वनो गत्वाश्राम्यत्सा परास्य त्रीण्यक्षराण्येकाक्षरा भूत्वा दीक्षां च तपश्च हरंती पुनरभ्यवापतत्तस्मात्तस्य वित्ता दीक्षा वित्तं तपो यस्य पशवः संति जागता हि पशवो जगती हि तानाहरत् ॥ (*chaṃdāṃsi vai tatsomaṃ rājānamacchācaraṃstāni ha tarhi caturakṣarāṇi caturakṣarāṇyeva chaṃdāṃsyāsansā jagatī caturakṣarā prathamodapatatsā patitvārdhamadhvano gatvāśrāmyatsā parāsya trīṇyakṣarāṇyekākṣarā bhūtvā dīkṣāṃ ca tapaśca haraṃtī punarabhyavāpatattasmāttasya vittā dīkṣā vittaṃ tapo yasya paśavaḥ saṃti jāgatā hi paśavo jagatī hi tānāharat ‖*) (I. Brā. 13-25) **NOTE**
+
+Then the metres, Gāyatrī and the rest, took the forms of birds and made ready to fly to the heavenly world. At that time all the metres, Gāyatrī and the rest, had only four syllables (in each pāda); no metre had more than four syllables. First the Jagatī metre said that she would bring the Soma and flew toward heaven, where the Soma was.
+
+### Printed p. 191
+When she had flown half the way she became exhausted with fatigue and, with no strength to fly further, had to turn back. From the weariness of having gone so far, Jagatī lost three of her four syllables, and with the one remaining syllable she had to return. Thus, unable to bring the Soma and returning, she brought with her the dīkṣā connected with the Soma sacrifice, that is, the rite of initiation in the form of the Dakṣiṇīya iṣṭi, and the austerity (tapas) in the form of drinking milk and the like. Therefore the dīkṣā is undertaken with Ṛks of the Jagatī metre. The Jagatī metre has the power to increase wealth in cattle; therefore dīkṣā and wealth come easily to a man who has cattle. Because the Jagatī metre brought cattle, it has the power to give cattle. This is said in the Yajurveda: सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगतीछंदसां पशव्यतमा तस्मात्पशुमंतं दीक्षोपनमति (*sā paśubhiśca dīkṣayā cāgacchattasmājjagatīchaṃdasāṃ paśavyatamā tasmātpaśumaṃtaṃ dīkṣopanamati*) (Tai. Saṃ. 6-1-6-2).
+
+अथ त्रिष्टुबुदपतत्सा पतित्वा भूयोऽर्धादध्वनो गत्वाश्राम्यता परास्यैकमक्षरं त्रैक्षरा भूत्वा दक्षिणा हरंती पुनरभ्यवापतत्तस्मान्मध्यंदिने दक्षिणा नीयंते त्रिष्टुभो लोके त्रिष्टुभ्भि ता आहरत् ॥ (*atha triṣṭubudapatatsā patitvā bhūyo 'rdhādadhvano gatvāśrāmyatā parāsyaikamakṣaraṃ traikṣarā bhūtvā dakṣiṇā haraṃtī punarabhyavāpatattasmānmadhyaṃdine dakṣiṇā nīyaṃte triṣṭubho loke triṣṭubhbhi tā āharat ‖*) (Ai. Brā. 13-25)
+
+Then the Triṣṭubh metre said that she would bring the Soma and leapt up into the atmosphere. But before she had gone a little beyond half the way she became exhausted with fatigue, left one of her four syllables there, and returned with the remaining three syllables. On returning she brought with her the dakṣiṇā (the order of the fees given to the officiating priests in the sacrifice). Because the Triṣṭubh metre thus brought the dakṣiṇā, and because the Triṣṭubh metre is connected with the midday pressing, it is the custom to give the dakṣiṇā (honorarium) to the officiating priests at the midday pressing performed in the sacrifice.
+
+ते देवा अब्रुवन् गायत्रीं त्वं न इमं सोमं राजानमाहरेति सा तथेत्यब्रवीत्तां वै मा सर्वेण स्वस्त्ययनेनानुमंत्रयध्वमिति तथेति सोदपतत्तां देवाः सर्वेण स्वस्त्ययनेनान्वमंत्रयंत प्रेति चेति चेत्येतद्वै सर्वं स्वस्त्ययनं यत्प्रेति चेति तद्योऽस्य प्रियः स्यात्तमे.. तेनानुमंत्रयेत प्रेति चेति चेति स्वस्त्येव गच्छति स्वस्ति पुनरागच्छति ॥ (*te devā abruvan gāyatrīṃ tvaṃ na imaṃ somaṃ rājānamāhareti sā tathetyabravīttāṃ vai mā sarveṇa svastyayanenānumaṃtrayadhvamiti tatheti sodapatattāṃ devāḥ sarveṇa svastyayanenānvamaṃtrayaṃta preti ceti cetyetadvai sarvaṃ svastyayanaṃ yatpreti ceti tadyo 'sya priyaḥ syāttame.. tenānumaṃtrayeta preti ceti ceti svastyeva gacchati svasti punarāgacchati ‖*) (Ai. Brā. 13-26)
+
+The gods, seeing that the Jagatī and Triṣṭubh metres had returned, unable to bring the Soma, went near the Gāyatrī metre and said: "O Gāyatrī, for us bring the Soma from heaven
+
 ---
 
-**Progress note:** Done through printed p. 185. pp. 180-185 (batch API)
+**Progress note:** Done through printed p. 191. pp. 186-191 (batch API)
