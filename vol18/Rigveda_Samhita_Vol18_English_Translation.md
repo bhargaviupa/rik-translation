@@ -29749,6 +29749,293 @@ In the Pavitreṣṭi this Ṛk जुष्टो दमूना (*juṣṭo d
 > *vadhena | dasyuṃ | pra | hi | cātayasva | vayaḥ | kṛṇvānaḥ | tanne | svāyyai |*  
 > *piparṣi | yat | sahasaḥ | putra | devān | saḥ | agne | pāhi | nṛtama | vāje | āsmān ‖*
 
+### Printed p. 797
+#### Ṛk 6 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वधेनायुधेन दस्युमुपक्षपयितारं प्र हि चातयस्व । प्रणाशय ।
+> हीति पूरणः । वयः कृष्णानः कुर्वाणस्तन्ने शरीराय स्वाय्कॆ स्वीयाय । अथवा
+> स्वाय्कॆ तन्ने यजमानादिरूपाय पुत्राय वयोऽन्नं कुर्वाणः । यद्यस्मात्
+> सहसस्पुत्राग्ने देवान्पिपर्षि । तर्पयसि । हे नृतम नेतृतवाग्ने स त्वं वाजे
+> संग्रामेऽस्मान् पाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+"Agni, with your weapon (वधेन (*vadhena*)) drive out and destroy the Dasyu, the destroyer." हि (*hi*) is an expletive. Making food (वयः (*vayaḥ*)) your own, for the body, for what is your own. Or else: making food for your own son, in the form of the sacrificer and the rest. Since, O son of strength, you satisfy the gods, therefore, O Agni, best of leaders, protect us in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयः (*vayaḥ*)—(the enemy's) food
+- स्वाय्कॆ तन्ने (*svāykè tanne*)—as your own property
+- कृण्वानः (*kṛṇvānaḥ*)—making
+- वधेन (*vadhena*)—with a weapon that serves for slaying
+- दस्युं (*dasyuṃ*)—the violent enemy
+- प्र हि जातयस्व (*pra hi jātayasva*)—destroy completely
+- सहसस्पुत्र (*sahasasputra*)—son of strength
+- नृतम (*nṛtama*)—the most excellent leader
+- आग्ने (*āgne*)—O Agni
+- यत् (*yat*)—you who
+- देवान् (*devān*)—the gods
+- पिपर्षि (*piparṣi*)—satisfy
+- सः (*saḥ*)—such as you are
+- वाजे (*vāje*)—in battle
+- आस्मान् (*āsmān*)—us
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, making the enemy's possessions your own property, destroy completely with a weapon that serves for slaying the violent enemy. O Agni, son of strength and most excellent leader, you who satisfy the gods, protect us too in battle for that very reason.
+
+##### English translation (H. H. Wilson)
+Demolish, Agni, with your weapon, the Dasyu, appropriating the sustenance to your own person ; and inasmuch, son of strength, as you satisfy the gods, so Agni, chief of leaders, protect us in battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते॑ अग्न उ॒क्थैर्वि॑धेम व॒यं ह॒व्यैः पा॑वक भद्रशोचे।  
+> अ॒स्मे र॒यिं वि॒श्ववा॑रं॒ समि॑न्वा॒स्मे विश्वा॑नि॒ द्रवि॑णानि धेहि ॥ ७ ॥
+
+> *vayaṃ te agna ukthairvidhema vayaṃ havyaiḥ pāvaka bhadraśoce|*  
+> *asme rayiṃ viśvavāraṃ saminvāsme viśvāni draviṇāni dhehi ‖ 7 ‖*
+
+### Printed p. 798
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । अग्ने । उक्थैः । विधेम । वयं । हव्यैः । पावक । भद्रशोचे ।  
+> अस्मे इति । रयिं । विश्ववारं । सं । इन्न । अस्मे इति । विश्वानि । द्रविणानि । धेहि ॥ ७ ॥
+
+> *vayaṃ | te | agne | ukthaiḥ | vidhema | vayaṃ | havyaiḥ | pāvaka | bhadraśoce |*  
+> *asme iti | rayiṃ | viśvavāraṃ | saṃ | inna | asme iti | viśvāni | draviṇāni | dhehi ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वां वयमुक्थैः शस्त्रैर्विधेम । परिचरेम । वयं हव्यैर्हविर्भिर्विधेम । पावक शोधक हे भद्रशोचे कल्याणदीप्ते अस्मे अस्मभ्यं विश्ववारं
+> विश्वैर्वर्णेयं रयिं धनं समिन्व । प्रापय । अस्मे अस्मभ्यं विश्वानि द्रविणानि
+> देहि । स्थापय ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, we serve you with ukthas, that is, śastras; we serve you with havyas, that is, oblations. O purifier (पावक (*pāvaka*)), O one of auspicious radiance (भद्रशोचे (*bhadraśoce*)), bring to us (अस्मे (*asme*)) wealth (रयिं (*rayiṃ*)) that is विश्ववारं (*viśvavāraṃ*), to be chosen by all. Place with us all riches."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वयं (*vayaṃ*)—we
+- ते (*te*)—you
+- उक्षैः (*ukṣaiḥ*)—with śastra-mantras
+- विधेम (*vidhema*)—we serve
+- पावक (*pāvaka*)—purifier
+- भद्रशोचे (*bhadraśoce*)—Agni, possessed of auspicious radiance
+- हव्यैः (*havyaiḥ*)—with oblations also
+- वयं (*vayaṃ*)—we (worship you)
+- अस्मे (*asme*)—to us
+- विश्ववारं (*viśvavāraṃ*)—desired by all
+- रयिं (*rayiṃ*)—wealth
+- समिन्व (*saminva*)—provide
+- विश्वानि (*viśvāni*)—all
+- द्रविणानि (*draviṇāni*)—riches also
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, purifier, possessed of auspicious radiance, we worship you with praise consisting of śastra-mantras and with oblations. Provide for us wealth and riches that are desired by all and complete.
+
+##### English translation (H. H. Wilson)
+We worship you, Agni, with hymns ; we (worship you), purifier , and of auspicious lustre, with oblations : bestow upon us all desired riches; bestow upon us all sorts of wealth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मग्ने अध्व॒रं जु॑षस्व॒ सह॑सः सूनो त्रिषधस्थ ह॒व्यं ।  
+> व॒यं दे॒वेषु॑ सु॒कृतः॑ स्याम॒ शर्म॑णा नस्त्रि॒वरू॑थेन पाहि ॥
+
+> *asmākamagne adhvaraṃ juṣasva sahasaḥ sūno triṣadhastha havyaṃ |*  
+> *vayaṃ deveṣu sukṛtaḥ syāma śarmaṇā nastrivarūthena pāhi ‖*
+
+### Printed p. 799
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अग्ने । अध्वरं । जुषस्व । सहसः । सूनो इति । त्रिसधस्थ । हव्यं ।  
+> वयं । देवेषु । सुकृतः । स्याम । शर्मणा । नः । त्रिवरूथेन । पाहि ॥ ८ ॥
+
+> *asmākaṃ | agne | adhvaraṃ | juṣasva | sahasaḥ | sūno iti | trisadhastha | havyaṃ |*  
+> *vayaṃ | deveṣu | sukṛtaḥ | syāma | śarmaṇā | naḥ | trivarūthena | pāhi ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अस्माकमध्वरं जुषस्व । सेवस्व । हे सहसः सूनो हे बलस्य पुत्र
+> त्रिषधस्थ त्रिषु क्षित्यादिषु स्थानेषु स्थित हव्यं हविर्जुषस्व । यद्वा । अध्वरं हविरिति
+> योज्यं । अहिंसितं हविरित्यर्थः । वयं यजमाना देवेषु मध्यॆ सुकृतः
+> शोभनापूर्वकर्तारः स्याम भवेम। त्रिवरूथेन वाचिकादिभेदेन त्रिधा वरणीयेन
+> शर्मणा सुखेन त्रिच्छदिष्टेण गृहेण वा नः पाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, take delight in (जुषस्व (*juṣasva*), serve) our sacrifice (अध्वरं (*adhvaraṃ*)). O son of strength, O son of might, O abider in the three places, earth and the rest, take delight in the oblation." Or else: अध्वरं (*adhvaraṃ*) is to be construed with the oblation, the sense being an unharmed oblation. May we, the sacrificers, be among the gods doers of good, of fair deeds not done before. Protect us with त्रिवरूथेन (*trivarūthena*), to be chosen in three ways by the division beginning with the verbal, with comfort (शर्मणा (*śarmaṇā*)), or with a house of triple covering.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—son of strength
+- त्रिषवस्थ (*triṣavastha*)—abiding in the three places, earth and the rest
+- अग्ने (*agne*)—O Agni
+- अस्माकं (*asmākaṃ*)—our
+- अध्वरं (*adhvaraṃ*)—sacrifice
+- हव्यं (*havyaṃ*)—oblation
+- जुषस्व (*juṣasva*)—accept
+- वयं (*vayaṃ*)—we, the performers of the sacrifice
+- देवेषु (*deveṣu*)—among the gods
+- सुकृतः (*sukṛtaḥ*)—as doers of excellent deeds
+- स्याम (*syāma*)—grant that we may become
+- त्रिवरूथेन (*trivarūthena*)—of three kinds
+- शर्मणा (*śarmaṇā*)—with protections that are means of comfort, or with a house
+- नः (*naḥ*)—us
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, abiding in the three places, earth and the rest, accept our sacrifice and oblation and take delight in them. Grant that we, the performers of the sacrifice, may be doers of excellent deeds among the gods. Protect us with threefold protections that are means of comfort.
+
+##### English translation (H. H. Wilson)
+Accept, Agni, our sacrifice : son of strength, the abider in the three regions (accept our) oblation : may we be (regarded) amongst the gods as doers of good : cherish us with triply-protected felicity
+
+##### विशेषविषयगळु (Special Topics)
+
+त्रिषधस्थ (*triṣadhastha*): Agni is addressed by the word त्रिषधस्थ (*triṣadhastha*) as "O Agni, who are in three places." The three places are earth, atmosphere and heaven. The principal meaning of the word त्रिषधस्थ (*triṣadhastha*) is that Agni is on earth in the form of terrestrial fire (sacrificial fire or household fire), in the atmosphere in the form of lightning-fire (lightning), and in the place of heaven in the form of the sun.
+
+### Printed p. 800
+अध्वरं हविः (*adhvaraṃ haviḥ*): अध्वरं हविरितियोज्यं । अहिंसितं हविरित्यर्थः । (*adhvaraṃ haviritiyojyaṃ | ahiṃsitaṃ havirityarthaḥ |*) This is the explanation of the commentator, that the word अध्वरं (*adhvaraṃ*) here is to be used as an adjective of the word हविः (*haviḥ*). ध्वरतिर्हिंसाकर्मा (*dhvaratirhiṃsākarmā*): Yāska's etymology is that ध्वर (*dhvara*) means violence and अध्वर (*adhvara*) means free from violence. Therefore अध्वरं हविः (*adhvaraṃ haviḥ*) here means an oblation free from violence. An oblation free from violence means not an animal offering, with the slaying of animals and so on; the intention is the offering-materials obtained without harm to living beings, such as ghee and cooked food.
+त्रिवरूथेन (*trivarūthena*)—वाचिकादिभेदेन त्रिधा वरणीयेन । (*vācikādibhedena tridhā varaṇīyena |*) The meaning is: of three kinds, bodily, verbal and mental.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिंधुं॒ न ना॒वा दु॑रि॒ताति॑  
+> पर्षि ।  
+> अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूनां॑ ॥
+
+> *viśvāni no durgahā jātavedaḥ siṃdhuṃ na nāvā duritāti*  
+> *parṣi |*  
+> *agne atrivannamasā gṛṇāno 'smākaṃ bodhyavitā tanūnāṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वानि । नः । दुःगहा । जातवेदः । सिंधुं । न । नावा । दुःइता । अति । पर्षि ।  
+> अग्ने । अत्रिवत् । नमसा । गृणानः । अस्माकं । बोधि । अविता । तनूनां ॥ ९ ॥
+
+> *viśvāni | naḥ | duḥgahā | jātavedaḥ | siṃdhuṃ | na | nāvā | duḥitā | ati | parṣi |*  
+> *agne | atrivat | namasā | gṛṇānaḥ | asmākaṃ | bodhi | avitā | tanūnāṃ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो नोऽस्माकं दुर्गहा दुःखेन गाह्यानि मःखेन भोग्यानि
+> विश्वानि दुरितान्यति पर्षि । अतिपारय । सिंधुं न नावा नदीं नाविको यथा तद्वत् ।
+> हे अग्ने अत्रिवत् अत्रेय्यथा तथास्माकं नमसा स्तोत्रेण गृणानः स्तूयमानः
+> सन् आस्माकं तनूनामविता रक्षको बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+"O Jātavedas, carry us across all evils (दुरितानि (*duritāni*)) that are दुर्गहा (*durgahā*), to be fathomed with pain, that is, to be undergone with pain, as a boatman carries over a river with a boat. O Agni, as it was for Atri, so now, being praised (गृणानः (*gṛṇānaḥ*)) with our reverence, that is, with praise, become (बोधि (*bodhi*), be aware) the protector of our bodies."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who are of the nature of Jātavedas
+- नः (*naḥ*)—us
+- दुर्गहा (*durgahā*)—that are undergone with pain
+- विश्वानि दुरिता (*viśvāni duritā*)—from all sins
+- नावा (*nāvā*)—by a boat
+- सिंधुं न (*siṃdhuṃ na*)—as a river is crossed in comfort
+- अति पर्षि (*ati parṣi*)—carry across completely and bring to the end
+
+### Printed p. 801
+- अग्ने (*agne*)—O Agni
+- अत्रिवत् (*atrivat*)—as you were pleased with the praise of the seer Atri
+- नमसा (*namasā*)—with our praises
+- गृणानः (*gṛṇānaḥ*)—being praised
+- अस्माकं (*asmākaṃ*)—our
+- तनूनां (*tanūnāṃ*)—to the bodies
+- अविता (*avitā*)—so as to be the protector
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the nature of Jātavedas, as one crosses a river in comfort by a boat, carry us across all our sins that are undergone with pain and bring us to their end. O Agni, as you were pleased with the praise of the seer Atri, so, praised by our praises and satisfied, know that you are to be the protector of our bodies.
+
+##### English translation (H. H. Wilson)
+You convey us, Jatavedas, across all intolerable evils as (people are carried) over a river by a boat : Agni, you are glorified by us with reverence, such as (that shewn) by Atri; know yourself the protector of our persons.
+
+##### विशेषविषयगळु (Special Topics)
+
+दुर्गहा (*durgahā*)—दुःखेन गाह्यानि, दुःखेन भोग्यानि । (*duḥkhena gāhyāni, duḥkhena bhogyāni |*) That is, what can be undergone with pain; the meaning is series of hardships filled with sorrows.
+दुरितानि (*duritāni*)—sins, hardships, afflictions and so on.
+अत्रिवत् (*atrivat*)—Here the seer of this sūkta, Vasuśruta, was born in the family of Atri. Mentioning the name of Atri, the original ancestor of his line, he prays that as Agni was formerly the protector of the seer Atri out of regard for him, so he should be in his own case also.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॑ हृ॒दा की॒रिणा॒ मन्य॑मा॒नोऽम॑र्त्यं॒ मत्तो॒र्जोह॑वीमि ।  
+> जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि प्र॒जाभि॑रग्ने अमृत॒त्वम॑श्यां ॥ १० ॥
+
+> *yastvā hṛdā kīriṇā manyamāno 'martyaṃ mattorjohavīmi |*  
+> *jātavedo yaśo asmāsu dhehi prajābhiragne amṛtatvamaśyāṃ ‖ 10 ‖*
+
+### Printed p. 802
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । हृदा । कीरिणा । मन्यमानः । अमर्त्यं । मर्त्यः । जोहवीमि ।  
+> जातवेदः । यशः । अस्मासु । धेहि । प्रजाभिः । अग्ने । अमृतत्वं । अश्यां ॥ १० ॥
+
+> *yaḥ | tvā | hṛdā | kīriṇā | manyamānaḥ | amartyaṃ | martyaḥ | johavīmi |*  
+> *jātavedaḥ | yaśaḥ | asmāsu | dhehi | prajābhiḥ | agne | amṛtatvaṃ | aśyāṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुत्रकामेष्ट्यां यस्त्वेत्येषा प्रधानस्य याज्या । सूत्रितं च । यस्त्वा हृदा
+> कीरिणा मन्यमानोऽग्निस्तुविश्रवस्तमं । आ. २-१० । इति ॥
+> यो मर्त्यो मरणधर्माहममर्त्यमनाशं त्वा त्वां कीरिणा स्तुत्यादिषु
+> विक्षिप्तेन हृदा हृदयेन युक्तो मन्यमानः सुवन् जोहवीमि । अत्यर्थमाह्वयामि । यद्वा । स्तोतृवाचकेन कीरिणाशब्देन स्तुतिरुपलक्ष्यते । स्तुतियुक्तेन
+> मनसा त्वां मन्यमानो जोहवीमि । हे जातवेदो यशो धनं प्रजां वास्मानु
+> धेहि । प्रजाभिस्त्वद्धत्ताभिर्हे अग्नेऽहममृतत्वं संतत्यविच्छेदलक्षणमश्यां ।
+> प्राप्नुयां । प्रजामनु प्रजायसे तदु ते मर्त्यामृतं । तै. ब्रा. १-५-५-६ ।
+> इति हि श्रुतिः ॥
+
+##### Gist of the bhāṣya
+
+In the Putrakāma iṣṭi this verse, यस्त्वे (*yastve*), is the yājyā of the principal offering. It is laid down in the sūtra: यस्त्वा हृदा कीरिणा मन्यमानोऽग्निस्तुविश्रवस्तमं (*yastvā hṛdā kīriṇā manyamāno 'gnistuviśravastamaṃ*) (Ā. 2-10). Explanation: "I who am a mortal, subject to death, think you, the immortal, the undying, with a heart (हृदा (*hṛdā*)) endowed with कीरिणा (*kīriṇā*), that is, one distracted among praises and the like, and so, praising, I invoke you (जोहवीमि (*johavīmi*)), I summon you exceedingly." Or else: by the word कीरिणा (*kīriṇā*), denoting the praiser, praise is indicated; thinking of you with a mind endowed with praise, I invoke you. "O Jātavedas, place with us fame (यशः (*yaśaḥ*)), that is, wealth, or offspring. O Agni, through the offspring given by you may I obtain (अश्यां (*aśyāṃ*)) immortality, characterised by the unbroken continuity of progeny." For so the śruti says: प्रजामनु प्रजायसे तदु ते मर्त्यामृतं । (*prajāmanu prajāyase tadu te martyāmṛtaṃ |*) (Tai. Brā. 1-5-5-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यः (*martyaḥ*)—subject to death
+- यः (*yaḥ*)—I who
+- अमर्त्यं (*amartyaṃ*)—free from death
+- त्वा (*tvā*)—you
+- कीरिणा (*kīriṇā*)—endowed with praise
+- हृदा (*hṛdā*)—with the heart
+- मन्यमानः (*manyamānaḥ*)—praising
+- जोहवीमि (*johavīmi*)—call (for help)
+- जातवेदः (*jātavedaḥ*)—O Agni, of innate wisdom
+- अस्मासु (*asmāsu*)—in us
+- यशः (*yaśaḥ*)—wealth
+- धेहि (*dhehi*)—place
+- अग्ने (*agne*)—O Agni
+- प्रजाभिः (*prajābhiḥ*)—I who am joined with offspring (given by you)
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- अश्यां (*aśyāṃ*)—may I obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of innate wisdom, I who am subject to death praise you, free from death, with a heart endowed with praise, and call you for my protection. Therefore be gracious and place wealth with us. Grant that I, joined with the offspring given by you, may obtain freedom from death.
+
+##### English translation (H. H. Wilson)
+Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart ; therefore, Jatavedas, grant us food, and may I obtain immortality through my posterity.
+
 ---
 
-**Progress note:** Done through printed p. 796. pp. 791-796 (batch API)
+**Progress note:** Done through printed p. 802. pp. 797-802 (batch API)
