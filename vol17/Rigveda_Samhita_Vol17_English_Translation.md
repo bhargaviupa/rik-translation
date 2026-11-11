@@ -12718,6 +12718,119 @@ Before understanding what it means that the three worlds are dwelling-places for
 
 स योऽयं मध्ये प्राणः । एष एवेंद्रस्तानेष प्राणान्मध्यत इंद्रियेणैंद यदैन्थ तस्मादिंद इंधो ह वै तमिंद्र इत्याचक्षते परोक्षं परोक्षकामा हि देवास्त्रइद्धाः सत्त नाना पुरुषानसृजंत । (*sa yo 'yaṃ madhye prāṇaḥ | eṣa eveṃdrastāneṣa prāṇānmadhyata iṃdriyeṇaiṃda yadaintha tasmādiṃda iṃdho ha vai tamiṃdra ityācakṣate parokṣaṃ parokṣakāmā hi devāstraiddhāḥ satta nānā puruṣānasṛjaṃta |*) (Śa. Brā. 6-1-1-2)
 
+### Printed p. 357
+Among the vital airs within the body, the chief breath is well known as Indra. This chief breath kindles the other vital airs by its own power. Because it makes them blaze in this way, the name Indra became famous from this very quality of kindling (इंधानः (*iṃdhānaḥ*)). But one could simply call it इंधानः (*iṃdhānaḥ*); why then was it called Indra? Because the gods are always fond of what lies beyond the world. इंधानः (*iṃdhānaḥ*) would be a description in the manner of worldly poetry. To go beyond such worldly description and cross into the realm of the hidden is the mark of the gods. Hence the gods became famous as "lovers of the hidden".
+
+अथ यो गर्भोऽंतरासीत् । सोऽग्रिरसृज्यत स यदस्य सर्वस्याग्रमसृज्यत तस्मादग्रिरग्रिर्ह वै तमग्निरित्याचक्षते परोक्षं परोक्षकामा हि देवाः । (*atha yo garbho 'ṃtarāsīt | so 'grirasṛjyata sa yadasya sarvasyāgramasṛjyata tasmādagriragrirha vai tamagnirityācakṣate parokṣaṃ parokṣakāmā hi devāḥ |*)
+(Śa. Brā. 6-1-1-11)
+
+The supreme principle that arose from the embryo within Brahman became famous as Agri. Because it was produced first of all beings in the universe, it was called Agri. The gods, who delight in the hidden sense, called this very one Agni. By these explanations the nature of the gods is described: it is the gods' character to convey, or reveal, or deepen the hidden meaning. This quality is common to gods and poets. A hidden meaning that lies beyond the ordinary human view is possible only for the gods. If that godhood is present in a man, he is called a poet (kavi). He has a vision better and more divine than that of an ordinary man. Though he has obtained human birth, he is reckoned a god.
+
+विज्ञानमात्मानंदात्मनो हैव सर्वे देवाः सा हैषैव देवानामद्धाविद्या स ह स न मनुष्यो य एवंविद्देवानाग्ं हैव स एकः ॥ (*vijñānamātmānaṃdātmano haiva sarve devāḥ sā haiṣaiva devānāmaddhāvidyā sa ha sa na manuṣyo ya evaṃviddevānāgṃ haiva sa ekaḥ ‖*)
+(Śa. Brā. 10-3-5-13)
+
+Vijñāna means special knowledge. It is full of bliss; true knowledge is the cause of this bliss. Such true knowledge is possible for the gods, not for man. If anyone among men is able to obtain this knowledge, he too is reckoned a god; thus the nature of godhood is shown. For this very reason they have explained the word kavi as "one who sees beyond" (krāntadarśin). The Nirukta authors have read this word among the names of the intelligent, कविः (*kaviḥ*), मनीषी (*manīṣī*) and so on (Ni. 3-15).
+
+मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā*)
+(Ni. 12-13)
+
+### Printed p. 358
+The Nirukta authors' derivation is that this word, formed from the root क्रम् (*kram*), means one whose vision goes beyond, or, formed from the root कम् (*kam*), means a worshipper who praises. Both derivations show an intellect and a disposition that grasp the true meaning. Just as the example above explains that the gods have the power to obtain knowledge of the highest truth, so the poet too has an unworldly and extraordinary power of knowing all affairs of past, present and future. On many occasions Sāyaṇa has said that देव (*deva*) is a synonym of the word kavi. Although he is a man, the poet has godhood in him because he has divine sight; and the sense is that he has a power beyond the human. Though physically he has two eyes, his inner eye equals a thousand eyes.
+
+सहस्रणीथाः कवयो ये गोपायंति सूर्यं । यमहीन् तपस्वतो यम शपोजा अपि गच्छतात् ॥ (*sahasraṇīthāḥ kavayo ye gopāyaṃti sūryaṃ | yamahīn tapasvato yama śapojā api gacchatāt ‖*)
+(Ma. Saṃ. 0-154-5) **NOTE**
+
+The poets have a thousand eyes and see beyond; they have the power to protect even the Āditya. [A thousand-eyed one may mean one with a thousand eyes, or a guide to thousands of followers. If "guide" is meant, it means one who knows the meaning of the principle and has the power to teach others.] Because they have such power,
+
+समुद्रे अंतः कवयो वि चक्षते मरीचीनां पदमिच्छंति वेधसः (*samudre aṃtaḥ kavayo vi cakṣate marīcīnāṃ padamicchaṃti vedhasaḥ*)
+(Ṛ. Saṃ. 10-177-1)
+
+these poets who see beyond know the supreme principle that dwells within the orb of the Āditya, and they also desire to attain identity with it. Moreover,
+
+तां द्योतमानां स्वर्यं मनीषामृतस्य पदे कवयो नि पांति (*tāṃ dyotamānāṃ svaryaṃ manīṣāmṛtasya pade kavayo ni pāṃti*)
+(Ṛ. Saṃ. 10-173-2)
+
+ऋतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि (*ṛtasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi*)
+(Ṛ. Saṃ. 10-5-2)
+
+Thus the power of the poets is described: the poets, who see beyond and possess godhood, enter the path of Ṛta and know the most hidden and most exalted secret. (This same matter is explained in detail in the Ṛgveda Saṃhitā, Part 13, pp. 377-379.) Because this extraordinary power is also revealed in the present mantra, the synonym कवीनां (*kavīnāṃ*) is used to designate the gods. Such gods pervade the universe; therefore they are त्रिषधस्थ (*triṣadhastha*).
+
+### Printed p. 359
+त्रिषधस्था—त्रयो लोकाः देवानां निवासस्थानानि भवंति । (*triṣadhasthā—trayo lokāḥ devānāṃ nivāsasthānāni bhavaṃti |*) The three worlds are the dwelling places of the gods. Each of these is again of three kinds.
+
+तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इंद्रो वा अंतरिक्षस्थानः । सूर्यो द्युस्थानः ॥ तासां महाभाग्यात् एकैकस्या अपि बहूनि नामधेयानि भवंति ॥ (*tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā iṃdro vā aṃtarikṣasthānaḥ | sūryo dyusthānaḥ ‖ tāsāṃ mahābhāgyāt ekaikasyā api bahūni nāmadheyāni bhavaṃti ‖*)
+(Ni. 7-5)
+
+For the three deities Agni, Vāyu or Indra, and Āditya, the three worlds are the abode: the earth for Agni, the atmosphere for Vāyu or Indra, the heaven-world for Āditya. The Nirukta authors say that because of their greatness they have endless other names too, and thus describe the nature of the gods who occupy these three worlds. The Ṛk Saṃhitā likewise states that the three worlds are the abode of these three deities, who have endless varieties:
+
+सूरो नो दिवस्सातु वातो अंतरिक्षात् । अग्निर्नः पार्थिवेभ्यः (*sūro no divassātu vāto aṃtarikṣāt | agnirnaḥ pārthivebhyaḥ*)
+(Ṛ. Saṃ. 10-158-1)
+
+When it is prayed that Sūra of the heaven-world, Vāyu of the atmosphere and Agni of the earth protect us, the three worlds indicated by त्रिषधस्था (*triṣadhasthā*) are described.
+
+The word सधस्थ (*sadhastha*) means a common place. In some places this word is also a synonym for the atmosphere. It is also customary to call the altar-place where all the priests sit together and perform the sacrifice सधस्थ (*sadhastha*). Moreover, as has been said earlier, Sāyaṇa in his commentary on Ṛ. Saṃ. 1-154-1 explains it as सधस्थं सह स्थानं पुण्यकृतां सहनिवासयोग्यं भूरादिलोकसप्तकं । (*sadhasthaṃ saha sthānaṃ puṇyakṛtāṃ sahanivāsayogyaṃ bhūrādilokasaptakaṃ |*), the seven worlds where the virtuous may dwell, or सहस्थानं सत्यलोकं (*sahasthānaṃ satyalokaṃ*), the Satya world, which is above all worlds and is the highest of all. Looking at त्रिषधस्था (*triṣadhasthā*) in the present passage, it is not easy to state the precise meaning. The order earth, atmosphere, heaven-world for the three deities Agni, Vāyu and Sūra is probably stated in many places. But in the Śatapatha and other texts a special feature is shown in this context:
+
+ब्रह्म वा इदमग्र आसीत् । तद्देवानसृजत । तद्देवान्त्सृष्टैषु लोकेषु व्यारोहयदस्मिन्नेव लोकेऽग्निं वायुमंतरिक्षे दिव्येव सूर्यं । अथ येऽत ऊर्ध्वा लोकाः । तद्या आत ऊर्ध्वा देवतास्तेषु ता देवता व्यारोहयत् (*brahma vā idamagra āsīt | taddevānasṛjata | taddevāntsṛṣṭaiṣu lokeṣu vyārohayadasminneva loke 'gniṃ vāyumaṃtarikṣe divyeva sūryaṃ | atha ye 'ta ūrdhvā lokāḥ | tadyā āta ūrdhvā devatāsteṣu tā devatā vyārohayat*)
+(Śa. Brā. 11-2-3-1)
+
+### Printed p. 360
+Brahman, who existed before the creation of the universe, created the three deities beginning with Agni and established them in the three worlds beginning with the earth. But the deities more exalted than these he established in three worlds more exalted than the earth and the rest. This is what is said. Continuing the same matter, there is an explanation that shows the unity of all the worlds. Explaining what is meant by the three worlds being threefold (trivṛt), and what the purport is, Sāyaṇa says that in the Ṛk
+
+न द्याव इंद्रमोजसा नांतरिक्षाणि वज्रिणं । न विव्यचंत भूमयः (*na dyāva iṃdramojasā nāṃtarikṣāṇi vajriṇaṃ | na vivyacaṃta bhūmayaḥ*)
+(Ṛ. Saṃ. 8-6-15)
+
+the plurals "heavens", "atmospheres", "earths" occur, and that it should be understood here in the same way. But how the threefold division is, he has not said. Later, in the commentary on the same Ṛk 8-6-15, he relies on the Āraṇyaka sentence cited, saying that they are threefold as stated in the sentence त्रयो वा इमे त्रिवृतो लोकाः (*trayo vā ime trivṛto lokāḥ*) (I. Ā. 1-1-2) **NOTE**. Here too the nature of the three divisions is not stated. Moreover, he says that it should be understood here as in the mantra
+
+तिस्रो भूमीर्धारयन् त्रीग्ंरुत द्यून् त्रीणि व्रता विदथे अंतरेषां (*tisro bhūmīrdhārayan trīgṃruta dyūn trīṇi vratā vidathe aṃtareṣāṃ*)
+(Ṛ. Saṃ. 2-27-8)
+
+But in the cited 2-27-8 it does not mean that the earth itself is threefold. In this very Ṛk Sāyaṇa says आत्र भूमिशब्दः लोकत्रये वर्तते (*ātra bhūmiśabdaḥ lokatraye vartate*): here the word bhūmi means the three worlds. Hence it is understood that it does not mean the earth is of three kinds. He says it should be understood here as in the sentence "यो द्वितीयस्यां तृतीयस्यां पृथिव्यां (*yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāṃ*)". Whether, therefore, the earth and the rest are each individually of three kinds, or whether naming one is as if naming the other three as well, will be examined later.
+
+त्रिमाता—त्रयाणां अमीषां लोकानां निर्माता संवत्सरः सूरोऽन्या । (*trimātā—trayāṇāṃ amīṣāṃ lokānāṃ nirmātā saṃvatsaraḥ sūro 'nyā |*) The year, or Sūrya, the maker of these three worlds beginning with the earth. Since the description विदधेषु सम्राट् (*vidadheṣu samrāṭ*) is present, one must examine whether त्रिमाता (*trimātā*) means the year alone, or Sūrya alone, or whether being sovereign in the sacrifice (vidatha) is natural to both the year and Sūrya. How
+
+### Printed p. 361
+Sūrya can be the triple maker and sovereign in the sacrifice, so, only if the year also has both functions, is त्रिमाता (*trimātā*) here one of the two; that is the purport.
+
+The year too has obtained the quality of triple maker only through Āditya. The relation of Āditya and the year is itself the root of the origin of all gods, men and the rest in the three worlds. Agni, Āditya and the year, these three principles are the lords of the sacrifice. From the union of these three the sacrifice arises; the sacrifice is the root of creation, and the sacrifice is the root of this union. Thus the identity of cause and effect also explains the beginninglessness of creation and the relation of sacrifice to creation.
+
+अप्पु हिमे लोकाः प्रतिष्ठिता आदित्य आसज्जनमादित्ये हीमे लोका दिग्भिरासक्ताः....संवत्सर एषोऽग्निर्यतवः शिक्क्यमृतुभिर्हि संवत्सरः शक्नोति.... (*appu hime lokāḥ pratiṣṭhitā āditya āsajjanamāditye hīme lokā digbhirāsaktāḥ....saṃvatsara eṣo 'gniryatavaḥ śikkyamṛtubhirhi saṃvatsaraḥ śaknoti....*)
+(Śa. Brā. 6-7-1-17, 18)
+
+The principle of creation set out in such sentences, and its relation to the principle of sacrifice, will also be explained later in the commentary on the Puruṣa Sūkta.
+
+विधथेषु (*vidhatheṣu*)—The use of the word vidatha in the senses of knowledge, sacrifice, sacrificial assembly, observance of rule, and the sacrificial power indicated thereby, has been explained earlier.
+
+तिस्रः योषणाः आ पत्यमानाः (*tisraḥ yoṣaṇāḥ ā patyamānāḥ*) At the time of sacrifice three women descend. The commentator says they are Iḷā, Bhāratī and Sarasvatī. The nature of these three deities has been told earlier, when the Āprī Sūktas were explained (Ṛgveda Saṃhitā Part 11, pp. 263-266). Even so, in the present passage, where the description is headed by Āditya, one must examine what relation these three deities, who have a sacrificial connection, have with Āditya.
+
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ*)
+(Bṛ. De. 1-108)
+
+A sentence of the Bṛhaddevatā says that the three goddesses have resorted to this Agni and are contained within Agni; and in the sentences that follow it is stated still more clearly:
+
+तिप्रस्तु देव्यो याः प्रोक्तास्तिस्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिषु त्रिषु वर्तिनी ॥ अग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमू स्थिताधिलोकं तु भारती भवति ह्यसौ ॥ सैषा तु त्रिविधा वाग्वै दिवि च व्योम्नि चेह च । व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*tiprastu devyo yāḥ proktāstisthānaiveha sā tu vāk | trividhenocyate nāmnā jyotiṣu triṣu vartinī ‖ agnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amū sthitādhilokaṃ tu bhāratī bhavati hyasau ‖ saiṣā tu trividhā vāgvai divi ca vyomni ceha ca | vyastā caiva samastā ca bhajatyagnīnimānapi ‖*)
+(Bṛ. De. 3-12 to 14)
+
+### Printed p. 362
+अयं प्रयोगस्त्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogastveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*)
+(Bṛ. De. 1.90)
+
+त्रिसो देव्यति (*triso devyati*) means the presiding goddesses of speech, who are in the three worlds. Of them Iḷā followed the earthly Agni; Sarasvatī occupied the middle world; Bhāratī became resident in the heaven-world. Yet all three goddesses serve the earthly Agni. In some places the word इळा (*iḷā*) is explained as food in the form of the oblation. In इळायास्पुत्रो वयुनेऽजनिष्ट (*iḷāyāsputro vayune 'janiṣṭa*) the relation of Iḷā to Agni is shown. Epithets such as धृतपदी धृतहस्ता (*dhṛtapadī dhṛtahastā*) are likewise words indicating a connection with Agni.
+
+आ नो यज्ञं भारती ताम्रमेवा मनुष्पदिह चेतॆयंती । तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वपसः सदंतु ॥ (*ā no yajñaṃ bhāratī tāmramevā manuṣpadiha cetèyaṃtī | tisro devīrbarhiredaṃ syonaṃ sarasvatī svapasaḥ sadaṃtu ‖*)
+(Ṛ. Saṃ. 10-110-8)
+
+Citing this Ṛk, the Nirukta authors have explained the above purport clearly. भरतः आदित्यः तस्य भाः भारती (*bharataḥ ādityaḥ tasya bhāḥ bhāratī*) (Ni. 8-13): Bharata is Sūrya; his radiance is named Bhāratī. सर इत्युदकनाम । तद्वती स्तनितादिरूपा माध्यमिका च वाक् । (*sara ityudakanāma | tadvatī stanitādirūpā mādhyamikā ca vāk |*): Sarasvatī is a transformed form of the atmospheric goddess of speech, who has water and the sound of thunder and the like. Thus Bhāratī is the radiance of Āditya of the heaven-world; Sarasvatī is the manifestation of Vāyu of the atmosphere; Iḷā is the radiance of the earthly Agni. In this way these three deities, as representatives of the three worlds, give primacy to the sacrifice and take part in it. Moreover,
+
+तस्मा अग्निर्भारतः शर्म यंसज्योक्षश्यात्सूर्यमुच्चरंतं ॥ (*tasmā agnirbhārataḥ śarma yaṃsajyokṣaśyātsūryamuccaraṃtaṃ ‖*)
+(Ṛ. Saṃ. 4-25-4)
+
+Since in this Ṛk the word भारतः (*bhārataḥ*) is an epithet of Agni, some hold that the radiance connected with him may be named Bhāratī.
+
+होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्येदमपस्तन्वतां । देवेभ्यो देवीर्देवमपो वियंत्वाज्यस्य होतरज ॥ (*hotāyakṣattisro devīrapasāmapastamā acchidramadyedamapastanvatāṃ | devebhyo devīrdevamapo viyaṃtvājyasya hotaraja ‖*)
+(Śai. Brā. 3-6-2-2) **NOTE**
+
+In explaining this sentence of the Taittirīya Brāhmaṇa it is said: इडा,सरस्वती, भारतीत्येवंरूपास्तिस्रोऽष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु । (*iḍā,sarasvatī, bhāratītyevaṃrūpāstisro 'ṣṭamaprayājadevyastadrūpamagniṃ daivyo hotā yajatu |*). Iḷā, Sarasvatī and Bhāratī, these three are the deities of the eighth prayāja mantra, goddesses that reflect Agni.
+
 ---
 
-**Progress note:** Done through printed p. 356. pp. 351-356 (batch API)
+**Progress note:** Done through printed p. 362. pp. 357-362 (batch API)
