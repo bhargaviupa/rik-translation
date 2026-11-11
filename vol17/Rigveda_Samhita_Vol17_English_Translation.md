@@ -8537,6 +8537,211 @@ In this ṛc it is explained through three illustrations how the enemy comes to 
 
 Formerly, when Viśvāmitra, silent and withdrawn from cursing lest his austerity be lost, was bound and brought by Vasiṣṭha's men, he addresses them. O people (जनासः (*janāsaḥ*)), the power of the group of mantras of Viśvāmitra, the "finisher" (सायकस्य (*sāyakasya*)), is not known (न चिकिते (*na cikite*)). Therefore they, regarding as a beast (पशु (*paśu*); पशु (*paśu*) is a particle equal in sense to the word पशु (*paśu*)) the greedy (लोधं (*lodhaṃ*)) seer who stayed silent from the greed that his austerity not be lost, lead (नयंति (*nayaṃti*)) him, that is, bind him and bring him to their own place. Thus, displaying his own power, he rebukes: Vasiṣṭha, unlike me, is not fit to compete with me. नावाजिनं (*nāvājinaṃ*): the अवाजिनं (*avājinaṃ*) is a foolish person, unlike the वाजिनः (*vājinaḥ*), the all-knowing master of speech; the masters of speech (वाजिना (*vājinā*)) do not make him a laughing-stock, that is, they do not compete with him. Likewise they do not lead (न नयंति (*na nayaṃti*)) an ass (गर्दभं (*gardabhaṃ*)) in front of a horse. Just so, the unlike Vasiṣṭha is not able to compete with me.
 
+### Printed p. 230
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनासः (*janāsaḥ*)—O people
+- सायकस्य (*sāyakasya*)—of the destroying (Viśvāmitra's) power of mantra
+- न चिकिते (*na cikite*)—you are unable to know
+- लोधं (*lodhaṃ*)—the seer who has taken refuge in silence
+- पशु (*paśu*)—like an animal
+- मन्यमानाः (*manyamānāḥ*)—these men, having taken (him) to be
+- नयंति (*nayaṃti*)—are carrying (the seer) off to their own place
+- आवाजिनं (*āvājinaṃ*)—the unwise man
+- वाजिना (*vājinā*)—the learned
+- न हासयंति (*na hāsayaṃti*)—do not hold up to ridicule
+- गर्दभं (*gardabhaṃ*)—the ass
+- अश्वात् पुरः (*aśvāt puraḥ*)—in front of the excellent horse
+- न नयंति (*na nayaṃti*)—do not bring and set (it)
+
+##### भावार्थ (Bhāvārtha)
+
+O people, you are unable to know the destroying power of Viśvāmitra's mantras. These men, having taken the seer, who had taken refuge in silence so that his austerity should not be wasted, to be like an animal, are carrying the seer off to their own place. The learned do not ridicule an unwise man. Nor do they put an ass in front of an excellent horse.
+
+##### English translation (H. H. Wilson)
+Men, (the might) of the destroyer is not known to you : regarding
+him as a mere animal, they lead him away desirous (silently to complete his
+devotions) : the wise condescend not to turn the foolish into ridicule, they
+do not lead the ass before the horse.
+
+##### विशेषविषयगळु (Special Topics)
+
+Viśvāmitra of old, lest the power of his austerity be wasted, observed a vow of silence and spoke to no one. For that very reason he kept quiet even towards his enemies, giving no curses and the like. Seeing this, the people on Vasiṣṭha's side took this Viśvāmitra to be like an animal that knows nothing, bound him tightly with ropes and went off carrying him. At that time Viśvāmitra speaks to those people in this manner—
+जनासः सायकस्य न चिकिते लोधं पशुं मन्यमानः नयंति (*janāsaḥ sāyakasya na cikite lodhaṃ paśuṃ manyamānaḥ nayaṃti*)—हे जनात अवसानकारिणो विश्वामित्रस्य मंत्रगणसामर्थ्यं भवद्भिर्न ज्ञायते । आत एव तपसु क्षयोमा भूदति तूष्णीं स्थितमृषिं पशुवत् मन्यमानः बध्वा स्वकीयं देशं प्रापयंति । (*he janāta avasānakāriṇo viśvāmitrasya maṃtragaṇasāmarthyaṃ bhavadbhirna jñāyate | āta eva tapasu kṣayomā bhūdati tūṣṇīṃ sthitamṛṣiṃ paśuvat manyamānaḥ badhvā svakīyaṃ deśaṃ prāpayaṃti |*). These people, knowing the power of the mantras of this seer Viśvāmitra, whom they intend to kill, and taking this seer—who for that very reason keeps silent and quiet, not speaking, out of fear that his austerity will be destroyed—to be an animal, bind him with a rope and are carrying him off to their own country.
+
+### Printed p. 231
+
+अवाजिनं—वाचां इनः स्वामी सर्वज्ञः । तद्विलक्षणं मूर्खजनं अवाजिनं (*avājinaṃ—vācāṃ inaḥ svāmī sarvajñaḥ | tadvilakṣaṇaṃ mūrkhajanaṃ avājinaṃ*). One who is lord of speech is called vājī; he is all-knowing. One who is the opposite of that is called avājī. Hence avājinam (accusative singular) means "a foolish man", such is the intention.
+अवाजिनं वाजिना न हासयंति । गर्दभं अश्वात्पुरतः न नयंति (*avājinaṃ vājinā na hāsayaṃti | gardabhaṃ aśvātpurataḥ na nayaṃti*)—Good men who have the power of speech, being all-knowing, do not laugh at and ridicule foolish people who know nothing. For does one bring an ass and make it stand before an excellent horse? No. That is: these Vasiṣṭhas and the rest are foolish people without power of speech and without power of mantra. Such people do not wish to compete with me, who am all-knowing through the power of mantra. That is why, with the intention of doing me harm by force, they have bound me with a rope and are carrying me off to their own country.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒म इं॑द्र भर॒तस्य॑ पु॒त्रा अ॑पपि॒त्वं चि॑कितु॒र्न प्र॑पि॒त्वं ।  
+> हि॒न्वंत्यश्व॒मर॑णं॒ न नित्यं॒ ज्या॑वाजं॒ परि॑ णयंत्या॒जौ ॥ २४ ॥
+
+> *ima iṃdra bharatasya putrā apapitvaṃ cikiturna prapitvaṃ |*  
+> *hinvaṃtyaśvamaraṇaṃ na nityaṃ jyāvājaṃ pari ṇayaṃtyājau ‖ 24 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । इंद्र । भरतस्य । पुत्राः । अपपित्वं । चिकितुः । न । प्रपित्वं ।  
+> हिन्वंत । अश्वं । अरणं । न । नित्यं । ज्यावाजं । परि । नयंति । आजौ ॥ २४ ॥
+
+> *ime | iṃdra | bharatasya | putrāḥ | apapitvaṃ | cikituḥ | na | prapitvaṃ |*  
+> *hinvaṃta | aśvaṃ | araṇaṃ | na | nityaṃ | jyāvājaṃ | pari | nayaṃti | ājau ‖ 24 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र भरतस्य पुत्रा भरतवंश्या इमे विश्वामित्रा अपपित्वमपगमनं
+> वसिष्ठेभ्यश्चिकितुः । जानंति । प्रपित्वं प्रगमनं न जानंति । शिष्ठैः सह तेषां संगतिर्नास्ति । ब्राह्मणा एव त इत्यर्थः । अपि चाजौ संग्रामे नित्यं सहजमरणं नारिमिव
+> वसिष्ठान्प्रत्यशं हिन्वंति । प्रेरयंति । ततश्च ज्यावाजं बलं धनुः परि णयंति ।
+> वसिष्ठान्हंतुं शरसंधानेन चरंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, these sons of Bharata, the Viśvāmitras of Bharata's line, know अपपित्वं (*apapitvaṃ*), "going away" from the Vasiṣṭhas; they do not know प्रपित्वं (*prapitvaṃ*), "going towards". They have no association with the good (śiṣṭa); that is, those men are Brahmins indeed. Moreover, in battle they urge their horses against the Vasiṣṭhas as against an inborn, constant foe. Then they परि णयंति (*pari ṇayaṃti*) the bowstring-strong bow, going about fitting arrows in order to kill the Vasiṣṭhas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- भरतस्य (*bharatasya*)—of the emperor Bharata
+- पुत्राः (*putrāḥ*)—born of his line
+- इमे (*ime*)—these Viśvāmitras and others
+- अपपित्वं (*apapitvaṃ*)—as being different from the offspring of Vasiṣṭha
+- चिकितुः (*cikituḥ*)—they know
+- प्रपित्वं (*prapitvaṃ*)—that the two are related
+- न (*na*)—they do not know
+- आजौ (*ājau*)—in battle
+
+### Printed p. 232
+
+- नित्यं (*nityaṃ*)—inborn
+- अरणं न (*araṇaṃ na*)—like enemies
+- अश्वं (*aśvaṃ*)—horses
+- हिन्वंति (*hinvaṃti*)—drive forward against (the offspring of Vasiṣṭha) and confront (them)
+- ज्यावाजं (*jyāvājaṃ*)—their powerful bow
+- परिणयंति (*pariṇayaṃti*)—hold, fitting arrows
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these Viśvāmitras, born of the line of the emperor Bharata, take themselves to be different from the offspring of Vasiṣṭha. They do not know that the two are related. Regarding them as their inborn enemies in battle, they drive their horses against them and confront them. They raise their powerful bows against them, fitting arrows.
+
+##### English translation (H. H. Wilson)
+These sons of Bharata, Indra, understand severance (from the
+Vasisthas), not association (with them) ; they urge their steeds (agaist them)
+as against a constant foe ; they bear a stout bow (for their destruction) in
+battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word prapitva (prapitve) has been read by Yāska among the "dviśa" names (Ni. 3-20)**NOTE**. And he gives the explanation: प्रपित्वेऽभीक इत्यासन्नस्य । प्रपित्वे प्राप्ते । अभीकेऽभक्ते । आपित्वे नः प्रपित्वे तूयमागहि कण्वेषु सु सचा पिब (ऋ. सं. ८-४-३) इत्यपि निगम् भवतः ॥ (*prapitve 'bhīka ityāsannasya | prapitve prāpte | abhīke 'bhakte | āpitve naḥ prapitve tūyamāgahi kaṇveṣu su sacā piba (ṛ. saṃ. 8-4-3) ityapi nigam bhavataḥ ‖*). Saying that prapitva means being near, being in the vicinity, close relationship, he has recited as an example the Ṛk beginning आपित्वे नः प्रपित्वे तूयमागहि कण्वेषु सु सचा पिब (*āpitve naḥ prapitve tūyamāgahi kaṇveṣu su sacā piba*) (Ṛ. Saṃ. 8-4-3).
+इंद्र भरतस्य इमे पुत्राः अपपित्वं चिकितुः न प्रपित्वं (*iṃdra bharatasya ime putrāḥ apapitvaṃ cikituḥ na prapitvaṃ*)—भरतवंश्या इमे विश्वामित्रादयः वसिष्ठेभ्यः अपगमनं जानंति प्रगमनं न जानंति । (*bharatavaṃśyā ime viśvāmitrādayaḥ vasiṣṭhebhyaḥ apagamanaṃ jānaṃti pragamanaṃ na jānaṃti |*). O Indra, the sons of Bharata, that is, Viśvāmitra and the others born of Bharata's line, regard these Vasiṣṭhas and the rest as born elsewhere, that is, as outsiders (or opponents, enemies). They regard it that there is no association with the Vasiṣṭhas, that is, no dealings and the like, and that there is no contact or friendship with the good men who are disciples of Vasiṣṭha and the rest. For there is mutual hostility between the descendants of Viśvāmitra and those of Vasiṣṭha.
+आजौ नित्यं अरणं न अश्वं हिन्वंति, ज्यावाजं परिनयंति (*ājau nityaṃ araṇaṃ na aśvaṃ hinvaṃti, jyāvājaṃ parinayaṃti*)—For that very reason, in battle the people of Bharata's line, that is, Viśvāmitra and the others, regarding the Vasiṣṭhas as their inborn enemies, charge their horses upon them in order to confront them. And in order to kill the descendants of Vasiṣṭha they string their bows, set arrows and take aim. Such is the main intention.
+
+### Printed p. 233
+
+This is the …-fourth sūkta.**NOTE**
+
+## Sūkta 54 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके नव सूक्तानि । तत्रेमं मह इति द्वाविंशत्यृचं प्रथमं
+> सूक्तं त्रैष्टुभं वैश्वदेवं विश्वामित्रपुत्रस्य वाक्पुत्रस्य वा प्रजापतेरार्षं । अत्रेयमनुक्रमणिका । इमं महे द्वधिकोक्तगोत्रः प्रजापतिर्हि वैश्वदेवं हेति ।
+> अस्मिन् सूक्त आद्याग्नेया ततः परं सप्तर्चो द्यावापृथिव्यास्ततः परा द्युदेवताका
+> दशमी द्यावापृथिवैकादशी सावित्रि ततः परं सुकृदिति त्वाष्ट्रा र्भवी च विद्युद्रथेति मारुती सारस्वती च ततः परं तिस्रो विष्ट्हिंद्राग्नि देवताकाः स्वदस्वेत्याग्नीयाति।
+> एवं वैश्वदेवं सूक्तं ॥ सूक्तविनियोगो लैंगिकः । अग्निप्रणयने राजन्यस्यॆमं
+> मह इति प्रतिपत् । पंचम्यां पौर्णमास्यामित्यत्र सूत्रितं । इमं महे विदथ्याय
+> शूषं । आ. २-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the fifth anuvāka there are nine sūktas. The first of them, इमं महे (*imaṃ mahe*), has twenty-two Ṛks; it is in Triṣṭubh, addressed to the Viśvedevas, and its seer is Prajāpati, son of Viśvāmitra or son of Vāc. Sāyaṇa cites the Anukramaṇikā: इमं महे द्वधिकोक्तगोत्रः प्रजापतिर्हि वैश्वदेवं हे (*imaṃ mahe dvadhikoktagotraḥ prajāpatirhi vaiśvadevaṃ he*). In this sūkta the first Ṛk is addressed to Agni; the seven after it to Heaven and Earth (Dyāvāpṛthivī); the next one to Dyu; the tenth to Heaven and Earth; the eleventh to Savitṛ; then the Ṛk सुकृत् (*sukṛt*) to Tvaṣṭṛ and the Ṛbhus; विद्युद्रथा (*vidyudrathā*) to the Maruts and Sarasvatī; the next three to Viṣṇu, Indra and Agni**NOTE**; and स्वदस्व (*svadasva*), the last, to Agni. Thus the sūkta is Vaiśvadeva. The use of the sūkta is by indication (laiṅgika): in the Agnipraṇayana, the Ṛk इमं महे (*imaṃ mahe*) is the opening verse (pratipad) for a Rājanya, as stated in the sūtra on the fifth-day full moon: इमं महे विदथ्याय शूषं (*imaṃ mahe vidathyāya śūṣaṃ*) (Ā. Sū. 2-17).
+
+### Printed p. 234
+
+> ॥ ओं ॥
+> सूक्त—५४
+> मंडल—३ ॥ अनुवाक—५ ॥ सूक्त—५४ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—२४, २५, २६, २७ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२२ ॥
+> ऋषिः—प्रजापतिर्वैश्वामित्रो वाच्यो वा ॥
+> देवता—विश्वेदेवाः ॥
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं म॒हे वि॑द॒थ्या॑य शू॒षं शश्व॒त्कृत्व॒ ईड्या॑य॒ प्र ज॑भ्रुः ।  
+> शृ॒णोतु॑ नो॒ दम्ये॑भि॒रनी॑कैः शृ॒णोत्व॒ग्निर्दि॒वैरज॑स्रः ॥ १ ॥
+
+> *imaṃ mahe vidathyāya śūṣaṃ śaśvatkṛtva īḍyāya pra jabhruḥ |*  
+> *śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivairajasraḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । महे । विदथ्याय । शूषं । शश्वत् । कृत्वः । ईड्याय । प्र । जभ्रुः ।  
+> शृणोतु । नः । दम्येभिः । अनीकैः । शृणोतु । अग्निः । दिव्यैः । अदस्रः ॥ १ ॥
+
+> *imaṃ | mahe | vidathyāya | śūṣaṃ | śaśvat | kṛtvaḥ | īḍyāya | pra | jabhruḥ |*  
+> *śṛṇotu | naḥ | damyebhiḥ | anīkaiḥ | śṛṇotu | agniḥ | divyaiḥ | adasraḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महे महते विदथ्याय विदथे यज्ञे मंथनेन निष्पाद्यमानायेड्र्याय
+> सर्वैः स्तुत्यायाग्नये शूषं सुखकरमिमं स्तोमं शश्वत्कृत्वो भूयो भूयः
+> प्र जभ्रुः । प्रभरंति । प्रकर्षण धारयंति । उच्चारयंतीत्यर्थः । सोग्निर्दम्येभिः
+> परेषां दमनकुशलैर्दमे गृहे विद्यमानैर्वानीकैस्तेजोभिर्युक्तः सन् नोस्मदीयमिमं स्तोमं शृणोतु। दिव्यैर्दिवि भव्यैस्तेजोभिरजस्रो निरंतरं युक्तोऽग्निरिमं स्तोमं शृणोतु। शश्वत्कृत्व ईड्याय प्र जभ्रुरिति स्वानामेवैनं तच्छृष्ट्यं
+> गमयति । ऐ. ब्रा. १-२८ । इति ब्राह्मणानुसारेण महदादिगुणविशिष्टाय यजमानायेममग्निं प्रजभ्रुः प्रहरंत्यृत्विज इति वा व्याख्येयं। उत्तरार्धर्चः समान एव॥
+> विदथ्याय । तत्र भव इत्यर्थे भवे छंदसीति यत् । तित्स्वरितः । ईड्याय । ईडवंदॆ:-
+
+##### Gist of the bhāṣya
+
+To the great (महे (*mahe*)) विदथ्याय (*vidathyāya*)—vidatha being the sacrifice—that is, to Agni, who is produced in the sacrifice by churning and is ईड्याय (*īḍyāya*), to be praised by all, they bring forth (प्र जभ्रुः (*pra jabhruḥ*): they bear forward, hold up, utter) again and again (शश्वत्कृत्वः (*śaśvatkṛtvaḥ*)) this pleasing (शूषं (*śūṣaṃ*)) hymn. May that Agni, endowed with दम्येभिः (*damyebhiḥ*) radiances—skilled in subduing others, or present in the house (dama)—hear this hymn of ours. May Agni, constantly endowed with divine radiances, hear it. The second half of the verse is the same. Alternatively, following the Brāhmaṇa शश्वत्कृत्व ईड्याय प्र जभ्रुरिति स्वानामेवैनं तच्छृष्ट्यं गमयति । (*śaśvatkṛtva īḍyāya pra jabhruriti svānāmevainaṃ tacchṛṣṭyaṃ gamayati |*) (Ai. Brā. 1-28), it is to be explained that the officiants bring forth this Agni for the sacrificer, who is endowed with greatness and other qualities.
+
+### Printed p. 235
+
+> त्यादिना उदात्तत्वं । दम्येभिः । तत्र साधुरिति यत् । यतोऽनाव इत्याद्युदात्तत्वं ।
+> दिव्यैः । दिवमर्हतीत्यर्थे छंदसि चेति यप्रत्ययः । अजस्रः । जसु मोक्षणे । नमिकंपीत्यादिना ताच्छिलिको रप्रत्ययः । नञ्जा समासे तस्य स्वरः ॥
+
+##### Gist of the bhāṣya
+
+The rest of the block gives the accent and derivation of the words दम्येभिः (*damyebhiḥ*), दिव्यैः (*divyaiḥ*) and अजस्रः (*ajasraḥ*) (with ईड्याय (*īḍyāya*) at its beginning): दम्येभिः (*damyebhiḥ*) in the sense "good in that", दिव्यैः (*divyaiḥ*) in the sense "worthy of heaven", अजस्रः (*ajasraḥ*) from the root जसु (*jasu*) in the sense of release, with the negative compound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—who is of great nature
+- विदथ्याय (*vidathyāya*)—who is born for the sacrifice
+- ईड्याय (*īḍyāya*)—who is worthy of praise: addressing Agni
+- शूषं (*śūṣaṃ*)—pleasing
+- इमं (*imaṃ*)—this
+- स्तोमवन्नु (*stomavannu*)—hymn
+- शश्वत्कृत्वः (*śaśvatkṛtvaḥ*)—again and again
+- प्र जभ्रुः (*pra jabhruḥ*)—they offer
+- अग्निः (*agniḥ*)—Agni, the great one
+- दम्येभिः (*damyebhiḥ*)—that subdue enemies
+- अनीकैः (*anīkaiḥ*)—endowed with radiances
+- नः (*naḥ*)—this hymn of ours
+- शृणोतु (*śṛṇotu*)—may he hear
+- दिव्यैः (*divyaiḥ*)—endowed with divine radiances
+- अजस्रः (*ajasraḥ*)—always
+- शृणोतु (*śṛṇotu*)—may he hear
+
+##### भावार्थ (Bhāvārtha)
+
+To Agni, who is of great nature, who is born for the sacrifice, who is worthy of praise, they offer this hymn, which is praising and pleasing. May Agni, the great one, endowed with radiances that subdue enemies, hear this hymn of ours. May Agni, endowed with divine radiances, always hear.
+
+##### English translation (H. H. Wilson)
+They recite repeatedly this gratifying praise to the great product of sacrifice (Agni) : may he who (is endowed) with domestic radiance hear us : may the imperishable Agni, (endowed) with divine radiance, hear us.
+
+##### विशेषविषयगळु (Special Topics)
+
+महे विदथ्याय प्र जभ्रुः (*mahe vidathyāya pra jabhruḥ*)—Sāyaṇa has explained two kinds of meaning: महते यज्ञॆ मंथनेन निष्पाद्यमानाय सर्वैः स्तुत्याय अग्नये । (*mahate yajñè maṃthanena niṣpādyamānāya sarvaiḥ stutyāya agnaye |*); and महदादिगुणविशिष्टाय यजमानाय (*mahadādiguṇaviśiṣṭāya yajamānāya*). The first meaning indicates the greatness of Agni. The word vidatha is read by Yāska (Ni. 3-19) among the names of sacrifice. From this the meaning is explained thus: Agni, being produced in the sacrificial rite in his own abode by being churned from the araṇis, is praised by all, and for this Agni the officiants recite hymns many times. In the second meaning, in accordance with the sentence of the Aitareya Brāhmaṇa “शश्वत्पृत्व ईड्याय प्रजभ्रुरिति स्थानामेवैनं तच्छैष्यं गमयति । (*śaśvatpṛtva īḍyāya prajabhruriti sthānāmevainaṃ tacchaiṣyaṃ gamayati |*)” (Ai. Brā. 1-28)**NOTE**, it is explained that the officiants have praised Agni many times for the sacrificer, who is endowed with qualities such as worthiness of honour. For a detailed explanation of this, see Ṛ. Saṃ. part 14, page 53
+
 ---
 
-**Progress note:** Done through printed p. 229. pp. 224-229 (batch API, retry 1)
+**Progress note:** Done through printed p. 235. pp. 230-235 (batch API, retry 2)
