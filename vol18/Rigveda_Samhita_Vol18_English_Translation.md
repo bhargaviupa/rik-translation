@@ -19004,6 +19004,286 @@ O Vāyu, you and Indra, O lords of strength (शवसस्पती (*śavasas
 - सोमपीतये (*somapītaye*)—and for the drinking of Soma
 - आ यातं (*ā yātaṃ*)—be pleased to come
 
+### Printed p. 482
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, you who are protectors of strength, full of vigour, and possessed of the horses named Niyut: seated together in one chariot, graciously come for our protection and for the drinking of Soma.
+
+##### English translation (H. H. Wilson)
+Indra and Vayu who are lords of strength, vigorous, and drawn by the Niyut steeds, come (riding in) the same car : drink the Soma for our protection.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वां॒ संति॑ पुरु॒स्पृहो॑ नि॒युतो॑ दा॒शुषे॑ नरा ।  
+> अ॒स्मे ता य॑ज्ञवाह॒सेंद्र॑वायू॒ नि य॑च्छतं ॥ ४ ॥
+
+> *yā vāṃ saṃti puruspṛho niyuto dāśuṣe narā |*  
+> *asme tā yajñavāhaseṃdravāyū ni yacchataṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । वां । संति । पुरुस्पृहः । नियुतः । दाशुषे । नरा ।  
+> अस्मे इति । ताः । यज्ञवाहसा । इंद्रवायू इति । नि । यच्छतं ॥ ४ ॥
+
+> *yāḥ | vāṃ | saṃti | puruspṛhaḥ | niyutaḥ | dāśuṣe | narā |*  
+> *asme iti | tāḥ | yajñavāhasā | iṃdravāyū iti | ni | yacchataṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारौ हे यज्ञवाहसा यज्ञवाहकाविंद्रवायू याः पुरुस्पृहो बहुभिः स्पृहणीया नियुतः संति अस्मे अस्मभ्यं दाशुषे हविर्दत्तवशे
+> यजमानाय मदर्थं ता नियुतो नि यच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, O Indra and Vāyu, carriers of the sacrifice: the Niyut horses that exist, desired by many, give those to us, the sacrificer who has offered the oblation, for my sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders
+- यज्ञवाहसा (*yajñavāhasā*)—carriers of the sacrifice
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- पुरुस्पृहः (*puruspṛhaḥ*)—desired by many
+- नियुतः (*niyutaḥ*)—named Niyut
+- याः (*yāḥ*)—which horses
+- वां (*vāṃ*)—in you
+- संति (*saṃti*)—are renowned
+- ताः (*tāḥ*)—them
+- दाशुषे (*dāśuṣe*)—to the giver of oblations
+- अस्मे (*asme*)—to us
+- नि यच्छतं (*ni yacchataṃ*)—give
+
+### Printed p. 483
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, leaders and carriers of the sacrifice: those horses, desired by many, named Niyut, dear to you, which are renowned among you, give them to us, the givers of oblations.
+
+##### English translation (H. H. Wilson)
+Leaders (of rites), conveyers of sacrifices, Indra and Vayu, give to us for the offerer (of the oblation), those Niyuts which are your (steeds), and are desired of many.
+
+## Sūkta 48 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विहि होत्रा इति पंचर्चं तृतीयं सूक्तं वामदेव्यं वायव्यं ।
+> अत्रानुक्रमणिका । विहि पंच वायव्यमिति ॥ सूक्तविनियोगो लैंगिकः ॥ आद्या
+> दशरात्रे चतुर्थेऽहनि प्रउगशस्त्रे वायव्यतृचस्य द्वितीया । तथा च सूत्रितं । विहि
+> होत्रा अवीता वायो शतं हरीणां । आ. ७-११ । इति ॥
+> अनुवादवु—विहि होत्राः ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि मूरनॆय सूक्तवु.
+> इदरल्लि ऐदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; वायुवु देवतॆयु; अनुष्टुप्
+> छंदस्सु. अनुक्रमणिकॆयल्लि—विहि पंच वायव्यं ऎंदु हेळिरुवुदु. सूक्तविनियोगवु
+> लैंगिकवु, ई सूक्तद मॊदलनॆय ऋक्कन्नु दशरात्रवॆंब यागद नाल्कनॆय दिवस प्रउगशस्त्रमंत्र
+> पठनकालदल्लि वायुदेवताकवाद तृचदल्लि (मूरु ऋक्कुगळल्लि) ऎरडनॆय ऋक्कन्नागि पठिस
+> बेकॆंदु आश्वलायनशौतसूत्रद—विहि होत्रा अवीता वायो शतं हरीणां ऎंब
+> सूत्रदिंद (आ. ७-११) विवृतवागिरुवुदु.
+> सूक्त—४८
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—४८ ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—२४ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—वायुः ॥
+> ॥ छंदः—अनुष्टुप् ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विहि होत्राः (*vihi hotrāḥ*) has five Ṛks and is the third sūkta, of Vāmadeva, addressed to Vāyu. The Anukramaṇikā says: विहि पंच वायव्यं (*vihi paṃca vāyavyaṃ*). The sūkta's use is by indication (लैंगिकः (*laiṃgikaḥ*)). Its first Ṛk is to be recited, on the fourth day of the Daśarātra, in the Prauga-śastra, as the second of the Vāyu-deity triplet. So it is set out in the sūtra: विहि होत्रा अवीता वायो शतं हरीणां (*vihi hotrā avītā vāyo śataṃ harīṇāṃ*) (Ā. 7-11). The Kannada adds: Maṇḍala 4, Anuvāka 5, Sūkta 48; Aṣṭaka 3, Adhyāya 7, Varga 24; five Ṛks; seer Vāmadeva; deity Vāyu; metre Anuṣṭup.
+
+### Printed p. 484
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒हि होत्रा॒ अवी॑ता॒ विपो॒ न रायो॑ अ॒र्यः ।  
+> वाय॒वा चं॒द्रेण॒ रथे॑न या॒हि सु॒तस्य॑ पी॒तये॑ ॥ १ ॥
+
+> *vihi hotrā avītā vipo na rāyo aryaḥ |*  
+> *vāyavā caṃdreṇa rathena yāhi sutasya pītaye ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विहि । होत्राः । अवीताः । विपः । न । रायः । अर्यः ।  
+> वायो इति । आ । चंद्रेण । रथेन । याहि । सुतस्य । पीतये ॥ १ ॥
+
+> *vihi | hotrāḥ | avītāḥ | vipaḥ | na | rāyaḥ | aryaḥ |*  
+> *vāyo iti | ā | caṃdreṇa | rathena | yāhi | sutasya | pītaye ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो विहि । वीहि । भक्षय । होत्रा होमसाधिकाः सोमाहुतीरवीता
+> अन्यैः पूर्वमभक्षिता विपो न शत्रुणां वेपयिता राजेव । किंचार्यः स्तोतुर्मम रायो धनानि संपादयेति शेषः । हे वायो चंद्रेणाह्लादकेन रथेना
+> याहि सुतस्य सोमस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, enjoy (वीहि (*vīhi*)) the Soma oblations, conducive to the offering, untasted (अवीताः (*avītāḥ*)), not eaten earlier by others, like a king who makes enemies tremble (विपो न (*vipo na*)). Moreover, "procure wealth (रायः (*rāyaḥ*)) for me, the worshipper (अर्यः (*aryaḥ*))" is to be supplied. O Vāyu, come with your delightful chariot to drink the pressed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- अवीताः (*avītāḥ*)—pure, not taken by others
+- होत्राः (*hotrāḥ*)—the Soma oblations
+- विपो न (*vipo na*)—like a king with power to frighten enemies
+- वीहि (*vīhi*)—enjoy
+- अर्यः (*aryaḥ*)—to me the worshipper
+- रायः (*rāyaḥ*)—give wealth
+- चंद्रेण (*caṃdreṇa*)—delightful
+- रथेन (*rathena*)—with the chariot
+- सुतस्य (*sutasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- आ याहि (*ā yāhi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, enjoy the pure Soma oblations, not taken by others, like a king who terrifies enemies. Give wealth to me, the worshipper; come graciously with your delightful chariot to drink the Soma juice.
+
+##### English translation (H. H. Wilson)
+Drink, Vayu, the oblations yet untasted, like (a prince) the terrorier of foes ; (bestow) upon the worshipper wealth : come with your brilliant car to drink the Soma juice
+
+### Printed p. 485
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒र्यु॒वा॒णो अश॑स्तीर्नि॒युत्वा॒ इंद्र॑सारथिः ।  
+> वाय॒वा चं॒द्रेण॒ रथे॑न या॒हि सु॒तस्य॑ पी॒तये॑ ॥ २ ॥
+
+> *niryuvāṇo aśastīrniyutvā iṃdrasārathiḥ |*  
+> *vāyavā caṃdreṇa rathena yāhi sutasya pītaye ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निःयुवानः । अशस्तीः । नियुत्वान् । इंद्रसारथिः ।  
+> वायो इति । आ । चंद्रेण । रथेन । याहि । सुतस्य । पीतये ॥ २ ॥
+
+> *niḥyuvānaḥ | aśastīḥ | niyutvān | iṃdrasārathiḥ |*  
+> *vāyo iti | ā | caṃdreṇa | rathena | yāhi | sutasya | pītaye ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो त्वमशस्त्रीरभिशस्त्रीर्निर्युवाणो निःशेषेण नियोजयन्नियुत्वान्नियुत्संज्ञकाश्ववानिंद्रसारथिरिंद्रसहायः सन् आ याहि ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, you who wholly drive away (निर्युवाणः (*niryuvāṇaḥ*)) imprecations (अशस्तीः (*aśastīḥ*)), possessed of the horses named Niyut, with Indra as your charioteer, that is, as helper, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- आशस्तीः (*āśastīḥ*)—inauspicious things
+- निर्युवाणः (*niryuvāṇaḥ*)—one who keeps off
+- नियुत्वान् (*niyutvān*)—possessing the horses named Niyut
+- इंद्रसारथिः (*iṃdrasārathiḥ*)—having Indra himself as charioteer
+- चंद्रेण (*caṃdreṇa*)—delightful
+- रथेन (*rathena*)—with the chariot
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पीतये (*pītaye*)—for drinking
+- आ याहि (*ā yāhi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, you who keep off inauspicious things, who have the Niyut horses, who have Indra as charioteer: come graciously with your delightful chariot to drink the pressed Soma.
+
+##### English translation (H. H. Wilson)
+Vayu, who are the represser of calumnies, who are drawn by the Niyuts, and have Indra for you charioteer, come with your brilliant car to drink the Soma juice.
+
+### Printed p. 486
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ कृ॒ष्णे वसु॑धिती ये॒माते॑ वि॒श्वपे॑शसा ।  
+> वाय॒वा चं॒द्रेण॒ रथे॑न या॒हि सु॒तस्य॑ पी॒तये॑ ॥ ३ ॥
+
+> *anu kṛṣṇe vasudhitī yemāte viśvapeśasā |*  
+> *vāyavā caṃdreṇa rathena yāhi sutasya pītaye ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । कृष्णे इति । वसुधिती इति वसुधिती । येमाते इति । विश्वपेशसा ।  
+> वायो इति । आ । चंद्रेण । रथेन । याहि । सुतस्य । पीतये ॥ ३ ॥
+
+> *anu | kṛṣṇe iti | vasudhitī iti vasudhitī | yemāte iti | viśvapeśasā |*  
+> *vāyo iti | ā | caṃdreṇa | rathena | yāhi | sutasya | pītaye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णे कृष्णवर्णे वसुधिती वसूनां धात्रौ विश्वपेशसा विश्वरूपे द्यावापृथिव्यौ त्वामनु येमाते । अनुगच्छतः ॥
+
+##### Gist of the bhāṣya
+
+The two dark (कृष्णे (*kṛṣṇe*)) ones, nurses of treasures (वसुधिती (*vasudhitī*)), of all forms (विश्वपेशसा (*viśvapeśasā*)), heaven and earth, follow you (अनु येमाते (*anu yemāte*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- कृष्णे (*kṛṣṇe*)—of deep colour
+- वसुधिती (*vasudhitī*)—nourishers of wealth
+- विश्वपेशसा (*viśvapeśasā*)—heaven and earth, of manifold forms
+- अनु येमाते (*anu yemāte*)—serve you alone
+- चंद्रेण (*caṃdreṇa*)—delightful
+- रथेन (*rathena*)—with the chariot
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पीतये (*pītaye*)—for drinking
+- आ याहि (*ā yāhi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, heaven and earth, of deep dark colour, nourishers of wealth, of manifold forms, serve you alone. Come graciously with your delightful chariot to drink the pressed Soma.
+
+##### English translation (H. H. Wilson)
+The dark nurses of wealth, the universal forms (heaven and earth), attend upon you; come Vayu with your brilliant car to drink the Soma juice.
+
+### Printed p. 487
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वहं॑तु त्वा मनो॒युजो॑ यु॒क्तासो॑ नव॒तिर्नव॑ ।  
+> वाय॒वा चं॒द्रेण॒ रथे॑न या॒हि सु॒तस्य॑ पी॒तये॑ ॥ ४ ॥
+
+> *vahaṃtu tvā manoyujo yuktāso navatirnava |*  
+> *vāyavā caṃdreṇa rathena yāhi sutasya pītaye ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वहंतु । त्वा । मनःयुजः । युक्तासः । नवतिः । नव ।  
+> वायो इति । आ । चंद्रेण । रथेन । याहि । सुतस्य । पीतये ॥ ४ ॥
+
+> *vahaṃtu | tvā | manaḥyujaḥ | yuktāsaḥ | navatiḥ | nava |*  
+> *vāyo iti | ā | caṃdreṇa | rathena | yāhi | sutasya | pītaye ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो त्वा त्वां मनोयुजो मनःसमानगतयो युक्तासः
+> परस्परसंयुक्ता नवतिर्नव नवोत्तरनवतिसंख्याका अश्वा वहंतु । धारयंतु ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, ninety-nine horses (नवतिर्नव (*navatirnava*)), mind-yoked (मनोयुजः (*manoyujaḥ*)), that is, of speed equal to the mind, yoked together with one another, carry you, that is, bear you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- मनोयुजः (*manoyujaḥ*)—swift like the speed of thought
+- युक्तासः (*yuktāsaḥ*)—fitted to one another
+- नवतिर्नव (*navatirnava*)—ninety-nine in number, the horses
+- वहंतु (*vahaṃtu*)—let them carry you
+- चंद्रेण (*caṃdreṇa*)—delightful
+- रथेन (*rathena*)—with the chariot
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पीतये (*pītaye*)—for drinking
+- आ याहि (*ā yāhi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, may the horses, swift as the speed of thought, fitted to one another, ninety-nine in number, carry you. Come graciously with the delightful chariot to drink the pressed Soma.
+
+##### English translation (H. H. Wilson)
+May the ninety-nine steeds harnessed together, that are as swift as thought, convey you : come, Vayu, with your brilliant car, to drink the Soma juice.
+
 ---
 
-**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
+**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
