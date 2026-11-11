@@ -7359,6 +7359,191 @@ This Ṛk the commentator has given as an example. Its main sense is that Indra 
 
 *Mahān*: great, possessed of surpassing power through austerity; *ṛṣi*: seer of things beyond the senses. *Devajāḥ*: the begetter of shining brilliances. *Devajūtaḥ*: drawn by those brilliances. *Nṛcakṣāḥ*: the overseer of the rites of men, that is, of the adhvaryus and others. That Viśvāmitra, the water-full river (sindhu), Vipāś — here the text breaks off at the end of the window.
 
+### Printed p. 193
+
+> च्युतद्रोभिः संभेदमस्तभ्नात् । निरुद्धवेगमकरोत् । किंच स विश्वामित्रः सुदासं
+> पैजवनं राजानं यद्यदाहवत् अयाजयत् तदानीमिंद्रः कुशिकेभिः कुशिकगोत्रोत्पन्नैर्युषिभिः सहाप्रियायत । प्रिय इवाचरत् ॥ अवहत् । वह प्रापण इत्यस्य
+> लजि रूपं । यद्योगादनिघातः । अप्रियायत । प्रिय इवाचरतीत्यर्थे कर्तुः
+> क्यज् सलोपश्चेति क्यज् । तदंताल्लज रूपं । पादादित्पादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the explanation of the ṛk: the great seer, who has surpassing power through austerity, who sees what lies beyond the senses, who is the begetter of shining lights, and who is drawn by those lights, is नृचक्षाः (*nṛcakṣāḥ*), the overseer of the leaders of rites, the adhvaryus and others. This Viśvāmitra checked the water-filled river by the meeting of the Vipāś and the Śutudrī, with the waters flowing in confluence, and made its flow stop. Further, when Viśvāmitra made Sudās, the son of Pijavana, the king, perform a sacrifice, Indra with the Kuśikas, the ṛṣis born in the Kuśika line, acted as though he were friendly. The remainder of the block gives grammar: अवहत् (*avahat*) is a laṅ form of the root वह (*vaha*) "to convey"; अप्रियायत (*apriyāyata*) means "behaved as though dear" and is formed with kyac.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महान् (*mahān*)—one who has gained surpassing power through austerity
+- ऋषिः (*ṛṣiḥ*)—seer of what is beyond the senses
+- देवजाः (*devajāḥ*)—the birthplace of shining lights
+- देवजूतः (*devajūtaḥ*)—one whose form is attractive through the lights
+- नृचक्षाः (*nṛcakṣāḥ*)—one who has as eyes the priests, the adhvaryus and others
+- विश्वामित्रः (*viśvāmitraḥ*)—Viśvāmitra
+- अर्णवं (*arṇavaṃ*)—filled with water
+- सिंधुं (*siṃdhuṃ*)—the confluence of the streams of the rivers Vipāś and Śutudrī
+- अस्तभ्नात् (*astabhnāt*)—stopped
+- सुदासं (*sudāsaṃ*)—the king named Sudās
+- यत् (*yat*)—when
+- अवहत् (*avahat*)—he made him perform a sacrifice, then
+- इंद्रः (*iṃdraḥ*)—Indra
+- कुशिकेभिः (*kuśikebhiḥ*)—with the ṛṣis born in the Kuśika line
+- अप्रियायत (*apriyāyata*)—showed his affection
+
+##### भावार्थ (Bhāvārtha)
+
+Viśvāmitra, who has gained surpassing power through austerity, who sees what is beyond the senses, who is the birthplace of shining lights, whose form is attractive through those lights, and who has as eyes the priests, the adhvaryus and others, checked the confluence of the water-filled streams of the Vipāś and Śutudrī. And when he made the king Sudās perform a sacrifice, Indra showed his affection together with the ṛṣis born in the Kuśika line.
+
+##### English translation (H. H. Wilson)
+The great Rishi, the generator of the gods, the attracted by the deities, the overlooker of the leaders (at holy rites), Vishwamitra arrested the watery stream when he sacrificed for Sudas ; Indra, with the Kushikas, was pleased.
+
+##### विशेषविषयगळु (Special Topics)
+
+Ṛṣi: अतींद्रियार्थद्रष्टा (*atīṃdriyārthadraṣṭā*). One who has the power, through the strength of his mantras and of his austerity, to know the many things that are not accessible to the outer senses or to the mind.
+देवजाः (*devajāḥ*): द्योतमानानां तेजसां जनयिता (*dyotamānānāṃ tejasāṃ janayitā*). The birthplace of shining lights: one who shines with a rare radiance (or the radiance of Brahman).
+
+### Printed p. 194
+In the face of one who knows Brahman, a rare radiance shines. Free of every kind of doubt, he is always at peace of mind through contentment and joy, and ever of joyful heart.
+
+देवजूतः (*devajūtaḥ*)—one whose form is attractive through the divine radiance spoken of above. The meaning is that even his bodily form is pleasing to look at.
+
+विश्वामित्रः यत् सुदासं कुशिकेभिः अवहत् इंद्रः अप्रियायत (*viśvāmitraḥ yat sudāsaṃ kuśikebhiḥ avahat iṃdraḥ apriyāyata*)—When the ṛṣi Viśvāmitra made the king Sudās perform the Aśvamedha sacrifice, Indra behaved like a most beneficial friend towards Viśvāmitra and towards his kinsmen, the other ṛṣis born in the Kuśika line. This is the meaning.
+
+नृचक्षाः—कर्मनेतृणामध्वर्याद्वीनामुपध्रष्टा (*nṛcakṣāḥ—karmanetṛṇāmadhvaryādvīnāmupadhraṣṭā*). He is like a second eye to the priests, the adhvaryus and others, who carry out the sacrificial action; that is, he guides the rites they perform, knows everything, and is accounted the best of the priests.
+
+सिंधुं अर्णवं अस्तभ्नात् (*siṃdhuṃ arṇavaṃ astabhnāt*)—He checked and stopped the streams of the rivers, full and flowing with flood-waters, that is, the Vipāś and the Śutudrī. There is an earlier story about this stopping of the river-streams by Viśvāmitra.
+
+The ṛṣi Viśvāmitra was the family priest of the king Sudās, son of Pijavana. When Sudās performed the Aśvamedha sacrifice with Viśvāmitra's help, he gave Viśvāmitra much wealth as a fee. Taking the wealth the king had given, Viśvāmitra set out to go to his hermitage and came to the place of confluence of the rivers Vipāś and Śutudrī (the present Beas and Sutlej in the Punjab). Robbers, wanting to carry off the wealth he had with him, were following close behind him. Knowing this, Viśvāmitra tried by every means to cross these rivers lying across his path, but being in flood, rushing swiftly and very deep, they could not be crossed. Then the ṛṣi, praying to the rivers, praised them so that they might reduce their water and make it convenient for him to pass. So the story goes. This is what is indicated in the present ṛk. A detailed account of the matter is given in Ṛ. Saṃ. 3-33; its substance is briefly set out here.
+
+Ṛ. Saṃ. 3-33-1 to 13 is quoted:
+प्र पर्वतानामुशती उपस्थादश्वे इव विषिते हासमाने । गावेव शुभ्रे मातरा रिहाणे विपाट्टुतुद्री पयसा जवेते ॥ १ ॥ (*pra parvatānāmuśatī upasthādaśve iva viṣite hāsamāne | gāveva śubhre mātarā rihāṇe vipāṭṭutudrī payasā javete ‖ 1 ‖*)
+इंद्रॆषिते प्रसवं भिक्षमाणे अच्छा समुद्रं रथ्येव याथः । समाराणे ऊर्मिभिः पिन्वमानेअन्या वामन्यामप्येति शुभ्रे ॥ २ ॥ (*iṃdrèṣite prasavaṃ bhikṣamāṇe acchā samudraṃ rathyeva yāthaḥ | samārāṇe ūrmibhiḥ pinvamāneanyā vāmanyāmapyeti śubhre ‖ 2 ‖*)
+
+### Printed p. 195
+The remaining verses of the hymn follow in the printed table, each line quoted separately:
+Verse 3:
+अच्छा सिंधुं मातृतमामयासं विपा शमुर्वीं सुभगामगन्म । (*acchā siṃdhuṃ mātṛtamāmayāsaṃ vipā śamurvīṃ subhagāmaganma |*)
+वत्समिव मातरा संरिहाणे समानं योनिमनु संचरंती (*vatsamiva mātarā saṃrihāṇe samānaṃ yonimanu saṃcaraṃtī*)
+Verse 4:
+एना वयं पयसा पिन्नमाना अनु योनिं देवकृतं चरंतीः । (*enā vayaṃ payasā pinnamānā anu yoniṃ devakṛtaṃ caraṃtīḥ |*)
+न वर्तने प्रसवः सर्गतक्तः किर्युविप्रो नद्यो जोहवीति (*na vartane prasavaḥ sargataktaḥ kiryuvipro nadyo johavīti*)
+Verse 5:
+रमध्यं मे वचसे सोम्याय ऋतावरीरुप मुहूर्तमेवैः । (*ramadhyaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ |*)
+प्र सिंधुमच्छा बृहती मनीषावस्युरष्टे कुशिकस्य सूनुः (*pra siṃdhumacchā bṛhatī manīṣāvasyuraṣṭe kuśikasya sūnuḥ*)
+Verse 6:
+इंद्रो अस्मा अरदद्वजबाहुरपादन्वत्रं परिधिं नदीनां । (*iṃdro asmā aradadvajabāhurapādanvatraṃ paridhiṃ nadīnāṃ |*)
+देवोऽनयत्नविता सुपाणिस्तस्य वयं प्रसवे याम उर्वीः (*devo 'nayatnavitā supāṇistasya vayaṃ prasave yāma urvīḥ*)
+Verse 7:
+प्रवाच्यं शश्वधा वीर्यं१तदिंद्रस्य कर्म यदहिं विवृश्चत् । (*pravācyaṃ śaśvadhā vīryaṃ1tadiṃdrasya karma yadahiṃ vivṛścat |*)
+वि वज्रेण परिषदो जघानायन्नापोऽयनमिच्छमानाः । (*vi vajreṇa pariṣado jaghānāyannāpo 'yanamicchamānāḥ |*)
+Verse 8:
+एतद्वचो जरितर्मापि मृष्या आ यत्ते घोषानुत्तरा युगानि । (*etadvaco jaritarmāpi mṛṣyā ā yatte ghoṣānuttarā yugāni |*)
+उक्षेषु कारो प्रति नो जुषस्व मा नो नि कः पुरुषत्रा नमस्ते (*ukṣeṣu kāro prati no juṣasva mā no ni kaḥ puruṣatrā namaste*)
+Verse 9:
+ओ षु स्वसारः कारवे शृणोत यौ वो दूरादनसा रथेन । (*o ṣu svasāraḥ kārave śṛṇota yau vo dūrādanasā rathena |*)
+नि षू नमध्वं भवता सुपारा अधोअक्षाः सिंधवः स्क्रोत्याभिः (*ni ṣū namadhvaṃ bhavatā supārā adhoakṣāḥ siṃdhavaḥ skrotyābhiḥ*)
+Verse 10:
+आ ते कारो शृणवामा वचांसि ययाथ दूरादनसा रथेन । (*ā te kāro śṛṇavāmā vacāṃsi yayātha dūrādanasā rathena |*)
+नि ते नंसै पीप्यानेव योषा मर्यायेव कन्या शश्वचै ते (*ni te naṃsai pīpyāneva yoṣā maryāyeva kanyā śaśvacai te*)
+Verse 11:
+यदंग त्वा भरताः संतरेयुर्गव्यन् ग्राम इषित इंद्रजूतः । (*yadaṃga tvā bharatāḥ saṃtareyurgavyan grāma iṣita iṃdrajūtaḥ |*)
+अर्षादह प्रसवः सर्गतक्त आ वो वृणे सुमतिं यज्ञियानां (*arṣādaha prasavaḥ sargatakta ā vo vṛṇe sumatiṃ yajñiyānāṃ*)
+Verse 12:
+अतारिषुर्भरता गव्यवः समभक्त विप्रः सुमतिं नदीनां । (*atāriṣurbharatā gavyavaḥ samabhakta vipraḥ sumatiṃ nadīnāṃ |*)
+प्र पिन्नध्वमिषयंतीः सुराधा आ वक्षणाः पृणध्वं यात शीभं (*pra pinnadhvamiṣayaṃtīḥ surādhā ā vakṣaṇāḥ pṛṇadhvaṃ yāta śībhaṃ*)
+Verse 13:
+उद्वै ऊर्मिः शम्या हंत्वापो योक्राणि मुंचत । (*udvai ūrmiḥ śamyā haṃtvāpo yokrāṇi muṃcata |*)
+वादुष्कृत् वैनसाघ्न्य शूनमारतां (*vāduṣkṛt vainasāghnya śūnamāratāṃ*)
+
+(Ṛ. Saṃ. 3-33-1 to 13)
+
+Viśvāmitra prays to the rivers Vipāś and Śutudrī in this way: As horses, let loose from the bonds with which they were tied in the stable, come running swiftly, vying with one another; and as cows, wishing to lick their calves lovingly in remembrance of them, run to where the calves are; so the river Vipāś, full of water, and the river Śutudrī as well
+
+### Printed p. 196
+come forth from the flanks of the mountains, wishing to reach the sea, and flow with a swift current. O rivers, you two flow together, cooling the surrounding regions with your waves, sent forth by Indra, asking his leave, and you flow deep towards the sea like two charioteers. Of you two, one joins the other.
+
+O rivers, as mother cows, gathering together in a herd, run towards the cowshed that is their refuge, to smell and caress their calves, so you flow towards the sea, the common refuge of you both. Among you the river Śutudrī is the foremost among nourishing mothers; the Vipāś is of great form and fortunate. I come to the two of you and take refuge in you for nourishment.
+
+The rivers said: (O Viśvāmitra), we two, named Vipāś and Śutudrī, satisfying the whole world with our abundant waters, flow aiming at the place of the sea appointed by the lord Indra. The effort of our flowing never ceases. With what wish in mind does this Viśvāmitra call us?
+
+Viśvāmitra spoke again: O rivers full of water, grant my prayer, who have set out to fetch soma, and hold back your swift streams for a little while. O Śutudrī, I, the son of Kuśika, humbly pray to you with a great hymn of praise for my own protection.
+
+The rivers: O Viśvāmitra, Indra, the thunderbolt in his hand, slew the demon in the form of a cloud, who stood encircling and obstructing our waters, and opened the gates of our flow. That Indra, the beholder of the world, of excellent hand, the shining one, made things favourable for our flowing. We, filled with abundant waters, flow obedient to his command.
+
+Indra slew the demon in the form of a cloud, so that the waters might flow freely. This great deed and power of Indra is to be praised at all times and beyond measure. Indra slew with his thunderbolt the demons who spread around; thereafter the waters that had been held back flow, aiming at their destination.
+
+O Viśvāmitra, singer of praise, never forget the words of praise that glorify us. You, the author of excellent śastra-mantras, serve us also in the prayers that take place in the sacrifices to come
+
+### Printed p. 197
+and do not give occasion for harsh words about us among other men. Here is our homage to you.
+
+Viśvāmitra: O rivers, like sisters, listen well to the prayer of me, the singer. I have come to your neighbourhood from a very distant region with a cart and a chariot. Reduce your flow. Let your current be below the axle of our cart; let your banks be such that I can cross easily.
+
+The rivers: O Viśvāmitra, singer, we have heard your words of praise. You have come from a very distant region with a cart and a chariot. As a mother bends to give her child the breast, and as a young woman bends to make an embrace (a kiss) convenient for a man, so we lower our current and bow for you.
+
+Viśvāmitra: O rivers, by your favour an opportunity to cross has arisen for me. By the same favour may all my kinsmen born in the Bharata line cross you, who are united in confluence. May the host of those born in the Bharata line, who wish to cross the water, are permitted by you, and are urged on by Indra, cross you. The enterprise of those who have set out to travel is permitted by you. I will recite in full your excellent praise, worthy of sacrifice.
+
+O rivers, all those born in the Bharata line, desiring cattle, have crossed you. The wise Viśvāmitra, having obtained the favour of the rivers, praised them. O rivers, you who increase wealth of food and are endowed with excellent riches, fill with water also the tributaries, such as canals, that flow under your protection.
+
+O Vipāś and Śutudrī, let the waves of your water not touch the neck-ropes of our vehicle, but flow below them. You who are free of sin, doers of good deeds, free of blame, do not take on a swollen flood until we have crossed you.
+
+This very matter is indicated in the present ṛk.
+
+### Printed p. 198
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हं॒सा इ॑व कृणुथ॒ श्लोक॒मदि॑भि॒र्मदं॑तो गी॒र्भिर॑ध्व॒रे सु॒ते  ॑
+> सचा ।  
+> दे॒वेभि॑र्विप्रा ऋषयो नृचक्षसो॒ वि पि॑बध्वं कुशिकाः ॒ ॑
+> सोम्यं मधु ॥ १० ॥
+
+> *haṃsā iva kṛṇutha ślokamadibhirmadaṃto gīrbhiradhvare sute*  
+> *sacā |*  
+> *devebhirviprā ṛṣayo nṛcakṣaso vi pibadhvaṃ kuśikāḥ*  
+> *somyaṃ madhu ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंसाः इव । कृणुथ । श्लोकं । अद्रिभिः । मदंतः । गीभिः । अध्वरे । सुते । सचा ।  
+> देवेभिः । विप्राः । ऋषयः । नृचक्षसः । वि । पिबध्वं । कुशिकाः । सोम्यं । मधु ॥
+
+> *haṃsāḥ iva | kṛṇutha | ślokaṃ | adribhiḥ | madaṃtaḥ | gībhiḥ | adhvare | sute | sacā |*  
+> *devebhiḥ | viprāḥ | ṛṣayaḥ | nṛcakṣasaḥ | vi | pibadhvaṃ | kuśikāḥ | somyaṃ | madhu ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विप्रा मेधाविनो हे ऋषयोऽतींद्रियार्थस्य द्रष्टारो हे नृचक्षसो
+> नृणां कर्मनेतृणां विशेषेण द्रष्टारो हे कुशिकाः कुशिकगोत्रोत्पन्ना रे पुत्रा
+> अध्वरे यज्ञेऽद्रिभिग्रावभिः सोमेसुतेऽभिशुते सति गीर्भिर्मदंतः स्तुतिभिर्देवान्मादयंतो यूयं श्लोकं । श्लोक्यते शस्यतेऽनेनेति श्लोकः शस्त्रं । कृणुथ ।
+> सम्यगुच्चारयत । तत्र दृष्टांतः । हंसा इव । यथा हंसाः सम्यक् शब्दं कुर्वंति
+> तद्वत् । किंच देवेभिः सजा यष्टव्यदेवैः सहिता यूयं सोम्यं सोममयं
+> मधु मधुकरं रसं वि पिबध्वं । परस्परव्यतिहारेण पिबत ॥ श्लोकं । श्लोकृ शब्दे ।
+> करणे घञ् । इत्त्वादाद्युदात्तः । मदंतः । मदी हर्ष इत्यस्यांतर्भावितण्यर्थस्य
+> व्यत्ययेन शप् । पिबध्वं पा पाने । कर्तरि कर्मव्यतिहार इत्यात्मनेपदं । सोम्यं
+> सोमशब्दान्मये चेति यप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Kuśikas: "O विप्रा (*viprā*), wise ones; O ऋषयः (*ṛṣayaḥ*), seers of what is beyond the senses; O नृचक्षसः (*nṛcakṣasaḥ*), special overseers of the leaders of rites; O कुशिकाः (*kuśikāḥ*), sons born in the Kuśika line! In the sacrifice, when soma has been pressed with the pressing stones, delighting the gods with your songs of praise, you utter the श्लोकं (*ślokaṃ*)," that is, the śastra, so called because it is recited (श्लोक्यते शस्यतेऽनेनेति (*ślokyate śasyate 'neneti*)). कृणुथ (*kṛṇutha*) means "utter properly". The illustration is हंसा इव (*haṃsā iva*): as swans make a clear sound, so do you. Further, together with the gods who are to be worshipped, drink the soma-made, sweet, honey-like juice वि पिबध्वं (*vi pibadhvaṃ*), that is, drink with one another in turn. The rest of the block gives grammar of श्लोकं (*ślokaṃ*), मदंतः (*madaṃtaḥ*), पिबध्वं (*pibadhvaṃ*) and सोम्यं (*somyaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—O wise ones
+- ऋषयः (*ṛṣayaḥ*)—O seers of what is beyond the senses
+- नृचक्षासः (*nṛcakṣāsaḥ*)—O you who have as eyes the human beings who are the priests
+- कुशिकाः (*kuśikāḥ*)—O great sages born in the Kuśika line
+- अध्वरे (*adhvare*)—in the sacrifice
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- सुते (*sute*)—when soma has been pressed
+- गीर्भिः (*gīrbhiḥ*)—with words in the form of praise
+- मदंतः (*madaṃtaḥ*)—gladdening the gods
+- श्लोकं (*ślokaṃ*)—the praise in the form of a śastra
+- हंसा इव (*haṃsā iva*)—as swans make a pleasing sound
+- कृणुथ (*kṛṇutha*)—recite
+- देवेभिः सचा (*devebhiḥ sacā*)—you who are accompanied by the gods
+- सोम्यं (*somyaṃ*)—having soma as its nature
+- मधु (*madhu*)—sweet
+- वि पिबध्वं (*vi pibadhvaṃ*)—drink the juice
+
 ---
 
-**Progress note:** Done through printed p. 192. pp. 187-192 (batch API, retry 1)
+**Progress note:** Done through printed p. 198. pp. 193-198 (batch API, retry 1)
