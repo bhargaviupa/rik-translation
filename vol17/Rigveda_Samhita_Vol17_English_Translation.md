@@ -20069,6 +20069,229 @@ The first ṛk of this sūkta is in the metre called aṣṭi. The second ṛk i
 
 इति (*iti*)—The word इति (*iti*) is used here in the sense of cause (the sense "therefore").
 
+### Printed p. 670
+#### Ṛk 2
+Pracetasam: one whose cognition (cetas, jñāna) concerning ritual action is excellent; that is, one who knows rites well. The meaning is: one who has proper understanding in sacrificial performances and the like.
+Viśvaṃ janata: although many sacrificers in various parts of the country perform sacrifices at the same time, Agni, in his many forms, takes part in the sacrificial act in all of them at once and has the power to bring it to successful completion. In this Ṛk the seer Vāmadeva explains that this all-pervading power came to Agni from the gods.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स भ्रात॑रं॒ वरु॑णमग्न॒ आ व॑वृत्स्वदे॒वां अच्छा॑सुम॒ती य॒ज्ञव॑नसं॒ ज्येष्ठं॑ य॒ज्ञव॑नसं ।  
+> ऋ॒तावा॑नमादि॒त्यं च॑र्षणी॒धृतं॒ राजा॑नं चर्षणी॒धृतं॑ ॥ २ ॥
+
+> *sa bhrātaraṃ varuṇamagna ā vavṛtsvadevāṃ acchāsumatī yajñavanasaṃ jyeṣṭhaṃ yajñavanasaṃ |*  
+> *ṛtāvānamādityaṃ carṣaṇīdhṛtaṃ rājānaṃ carṣaṇīdhṛtaṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । भ्रातरं । वरुणं । अग्ने । आ । ववृत्स्व । देवान् । अच्छ । सुमती । यज्ञवनसं । ज्येष्ठं । यज्ञवनसं ॥  
+> ऋतवानं । आदित्यं । चर्षणीधृतं । राजानं । चर्षणीधृतं ॥ २ ॥
+
+> *saḥ | bhrātaraṃ | varuṇaṃ | agne | ā | vavṛtsva | devān | accha | sumatī | yajñavanasaṃ | jyeṣṭhaṃ | yajñavanasaṃ ‖*  
+> *ṛtavānaṃ | ādityaṃ | carṣaṇīdhṛtaṃ | rājānaṃ | carṣaṇīdhṛtaṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स तादृशस्त्वं भ्रातरमेकस्थानवासेन भ्रातरं वरुणं । वृणोत्युदकमिति वरुणः । तं देवं यज्ञवनसं यज्ञैर्वननीयैर्हविर्भिः संभजनीयं
+> यज्ञवनसं च यज्ञस्य संभक्तारं ज्येष्ठमतिशयेन प्रशस्यमृतावानमपां स्वामितयोदकवंतं सत्यवंतं ना आदित्यमदितेः पुत्रं चर्षणीधृतं मनुष्याणामुदकप्रदानेन धारकं सुमती शोभनबुद्ध्या हेतुना चर्षणीधृतं चर्षणिभिर्विद्वद्भिर्धृतं राजानं राजंतं एतादृशं वरुणं देवं देवान् देवनशीलान् स्तोत्थनच्छाभ्या ववृत्स्व । आवर्तय । अभिमुखीकुरु ॥ ववृत्स्व । वृतु वर्तने । लोट
+
+##### Gist of the bhāṣya
+
+O Agni, being such, turn towards us the gods' Varuṇa, a brother by dwelling in one place. Varuṇa is so called because he covers (vṛṇoti) the water. He is the god to be shared in by sacrifices, that is, by oblations that are to be enjoyed; a sharer in the sacrifice; the eldest, most praiseworthy; ṛtāvan, possessing water as lord of the waters, and truthful; Āditya, son of Aditi; supporter of men (carṣaṇi) by giving them water; sumatī, "with good intelligence", as the reason; supported by the carṣaṇis, the learned; a king, shining. Turn such a Varuṇa towards the gods, the shining ones, by praise and by our wish. Vavṛtsva is from vṛtu in the sense of turning, in the imperative.
+
+### Printed p. 671
+
+> बहुलं छंदसीति विकरणस्य श्लुः । निघातः । सुमती । मंत्रे वृषेत्यादिना क्तिन्नुदात्तः । सुपां सुलुगिति तृतीयायाः पूर्वसवर्णदीर्घः । एकादेशस्वरः । ज्येष्ठं ।
+> प्रशस्यस्यॆष्टनि ज्य चेति ज्यादेशः । नित्वादाद्युदात्तः । एकादेशस्वरः । यज्ञवनसं ।
+> वन षण संभक्तौ । कर्मकर्तरि चासुन्प्रत्ययः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेति पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Grammar of the words of the verse (the Grammar section carries it).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you, the well-known
+- भ्रातरं (*bhrātaraṃ*)—one who is a brother to you
+- यज्ञवनसं (*yajñavanasaṃ*)—one worshipped with oblations
+- यज्ञवनसं (*yajñavanasaṃ*)—one who takes a share in the sacrifice
+- ज्येष्ठं (*jyeṣṭhaṃ*)—the praiseworthy
+- ऋतावानं (*ṛtāvānaṃ*)—the truthful
+- आदित्यं (*ādityaṃ*)—son of Aditi
+- चर्षणीधृतं (*carṣaṇīdhṛtaṃ*)—supporter of men
+- सुमती (*sumatī*)—with excellent intelligence
+- चर्षणीधृतं (*carṣaṇīdhṛtaṃ*)—one held in meditation in the minds of men
+- राजानं (*rājānaṃ*)—lord of the universe
+- वरुणं (*varuṇaṃ*)—Varuṇa the god
+- देवान् (*devān*)—to the worshippers
+- अच्छ (*accha*)—facing them
+- आ ववृत्स् (*ā vavṛts*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the well-known, bring Varuṇa, who is a brother to you, worshipped with oblations, a sharer in the sacrifice, praiseworthy, truthful, son of Aditi, supporter of men, held with excellent intelligence in meditation in the minds of men, and lord of the universe, to face the worshippers.
+
+##### English translation (H. H. Wilson)
+Bring to the presence of the worshippers, Agni, your brother Varuna, as a participator of the sacrifice, with a willing mind, the elder participator of the sacrifice ; the ruler of the water, the Aditya, the supporter of men, the sovereign venerated by mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is asked to bring Varuṇa, son of Aditi, to the sacrifice.
+Bhrātaram: how is Varuṇa a brother to Agni? It is proper to say that Agni, Indra and the other gods, and Varuṇa are brothers. This matter is stated in:
+अष्टौ पुत्रासो अदिशेः । ये जातास्तन्वःपरि । देवा उपप्रैत्सस्तभिः । परामार्तांडमास्यत् । सप्तभिः पुत्रैरदितिः। उपप्रैत्सूर्व्यं युगं । प्रजायै मृत्यनेतत् । परामार्तांडमा भरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग् श्चेत्येते ॥ (*aṣṭau putrāso adiśeḥ | ye jātāstanvaḥpari | devā upapraitsastabhiḥ | parāmārtāṃḍamāsyat | saptabhiḥ putrairaditiḥ| upapraitsūrvyaṃ yugaṃ | prajāyai mṛtyanetat | parāmārtāṃḍamā bharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāg ścetyete ‖*) (Kṛ. Ā. 1-13-2)
+Aditi is said to have eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān. In many places it is said that Agni is in heaven as Āditya or the sun, and it is well known that Āditya is one of Agni's three forms. Therefore the fact that Agni and Varuṇa are brothers is indicated here by the word bhrātaram.
+
+### Printed p. 672
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखे॒ सखा॑यम॒भ्या न॑वृत्स्वा॒शुं न च॒क्रं रथ्ये॑व॒ रंह्या॒स्मभ्यं॑ ॒ ॑
+> दस्म॒ रंह्या॑ ।  
+> आग्ने॑ मृळी॒कं वरु॑णे॒ सचा॑ विदो म॒रुत्सु॑ वि॒श्वभा॑नुषु ।  
+> तो॒काय॑ तु॒जे शु॑शुचान॒ शं कृ॑ध्य॒स्मभ्यं॑ दस्म॒ शं कृ॑धि ॥ ३ ॥
+
+> *sakhe sakhāyamabhyā navṛtsvāśuṃ na cakraṃ rathyeva raṃhyāsmabhyaṃ*  
+> *dasma raṃhyā |*  
+> *āgne mṛḷīkaṃ varuṇe sacā vido marutsu viśvabhānuṣu |*  
+> *tokāya tuje śuśucāna śaṃ kṛdhyasmabhyaṃ dasma śaṃ kṛdhi ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखे । सखायं । अभि । आ । ववृत्स्व । आशुं । न । चक्रं । रथ्या इव । रंह्या ।  
+> अस्मभ्यं । दस्म । रंह्या ।  
+> अग्ने । मृळीकं । वरुणे । सचा । विदः । मरुत्सु । विश्वभानुषु ।  
+> तोकाय । तुजे । शुशुचान । शम् । कृधि । अस्मभ्यं । दस्म । शं । कृधि ॥ ३ ॥
+
+> *sakhe | sakhāyaṃ | abhi | ā | vavṛtsva | āśuṃ | na | cakraṃ | rathyā iva | raṃhyā |*  
+> *asmabhyaṃ | dasma | raṃhyā |*  
+> *agne | mṛḷīkaṃ | varuṇe | sacā | vidaḥ | marutsu | viśvabhānuṣu |*  
+> *tokāya | tuje | śuśucāna | śam | kṛdhi | asmabhyaṃ | dasma | śaṃ | kṛdhi ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ज्येऽभिष्टव उत्तरस्मिन्पटले सखे सखायमित्येषा । सूत्रितं च । सखे
+> सखायमभ्या ववृत्सोद्वर्ष ऊ षु ण ऊतये । आ. ४-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Pravargya, in the later paṭala of the Abhiṣṭava, the verse *sakhe sakhāyam* is used. It is also stated in the sūtra: सखे सखायमभ्या ववृत्सोद्वर्ष ऊ षु ण ऊतये (*sakhe sakhāyamabhyā vavṛtsodvarṣa ū ṣu ṇa ūtaye*) (Ā. 4-7).
+
+### Printed p. 673
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखे सखिभूत दस्म दर्शनीय हे अग्ने त्वं तव सखायं वरुणमस्मभ्यमस्मदर्थमा ववृत्स्व । अभिमुखीकुरु । तत्र दृष्टांतः । रंह्या रंहणे गमने
+> साधुभूतौ रथ्येव रथे योजितावश्वा यथाशुं शीघ्रगंतृ चक्रं लक्ष्यदेशं प्रत्यभिमुखीकुरुतस्तद्वत् । हे अग्ने सचा तव सहाये वरुणे मृळीकं सुखकरं हविर्विदः । लब्धवानसि । तथा विश्वभानुषु सर्वतो व्याप्ततेजस्केषु मरुत्तु सुखकरं
+> लब्धवानसि । आग्निवारुणाग्निमारुतयोः कर्मणोरिष्टवानसीत्यर्थः । शुशुचान
+> दीप्यमान हे अग्ने तोकाय । तुज्यते पीड्यतेऽनेन माता गर्भवासेनेति तोकं
+> पुत्रः । तस्मै तुजे । गच्छत्यनेनान्यं पितेति तुक् पौत्रः । तस्मै शं सुखं कृधि ।
+> कुरु । दस्म दर्शनीय हे अग्ने असभ्यं शं कृधि । सुखं कुरु ॥ रथ्येव । रथस्यॆमावित्यर्थे रथाद्यदिति यत् । सुपां सुलुगिति सुपो डादेशः । रंह्या । रंहशब्दात्तत्र
+> साधुरिति यत्पत्ययः । यतोऽनाव इत्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, friend, beautiful one, turn your friend Varuṇa towards us, for our sake. The example: as two good-going horses yoked to a chariot bring the swift wheel (chariot) facing the goal. O Agni, with Varuṇa, your companion, you have obtained the pleasing oblation; likewise with the Maruts, whose splendour pervades everywhere, you have obtained it. The sense: you have offered in the rites of Agni-Varuṇa and Agni-Māruta. O shining Agni, to toka, the son (so called because the mother is troubled (tujyate) by him in dwelling in the womb), to tuj, that is tuk, the grandson (by whom the father goes elsewhere), make happiness. O beautiful Agni, make happiness for us. Remaining grammatical notes omitted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखे (*sakhe*)—O one who is a friend
+- दस्म (*dasma*)—O beautiful Agni
+- रंह्या (*raṃhyā*)—having excellent movement
+- रथ्येव (*rathyeva*)—the horses
+- आशुं (*āśuṃ*)—swift
+- चक्रं न (*cakraṃ na*)—as they carry the chariot (to a fixed place)
+- सखायं (*sakhāyaṃ*)—our friend Varuṇa
+- अस्मभ्यं (*asmabhyaṃ*)—for our purpose
+- आ ववृत्स्य (*ā vavṛtsya*)—bring
+- अग्ने (*agne*)—O Agni
+- वरुणे सचा (*varuṇe sacā*)—together with Varuṇa
+- मृळीकं (*mṛḷīkaṃ*)—the pleasing oblation
+- विदः (*vidaḥ*)—you have obtained
+- विश्वभानुषु (*viśvabhānuṣu*)—those of all-pervading splendour
+- मरुत्तु (*maruttu*)—with the Maruts (also you have obtained)
+- शुशुचान (*śuśucāna*)—O shining Agni
+- तोकाय (*tokāya*)—for our sons
+- तुजे (*tuje*)—for our grandsons
+- शं (*śaṃ*)—happiness
+- कृधि (*kṛdhi*)—make
+- दस्म (*dasma*)—O Agni of attractive form
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- शं (*śaṃ*)—happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, friend and beautiful one, as horses of excellent movement carry the swift chariot to a fixed place, bring quickly our friend Varuṇa for our purpose. O Agni, you have obtained pleasing oblations with Varuṇa and with the Maruts of all-pervading splendour. O shining Agni, make happiness for our sons, our grandsons and ourselves.
+
+##### English translation (H. H. Wilson)
+Friendly and beautiful (Agni), bring your friend (Varuna) to our presence, as two strong horses conyey the swift chariot along the road to
+
+### Printed p. 674
+its goal : you receive, Agni, the gratifying (oblation) together with Varuna , and with the all-illumining Maruts : grant, brilliant Agni, happiness to our sons and grandsons ; grant, beautiful Agni, happiness to ourselves.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator has explained the component meaning of the words toka and tuj in this Ṛk:
+Tokāya: तुज्यते पीड्यतेऽनेन माता गर्भवासेनेति तोकं पुत्रः तस्मै । (*tujyate pīḍyate 'nena mātā garbhavāseneti tokaṃ putraḥ tasmai |*) The root tuj means "to harm". Of the word toka derived from it, the meaning is that since a son harms the mother both while in the womb and at the time of birth, the son is called toka.
+Tuje: गच्छत्यनेनानृण्यं पितेति तुक् पौत्रः । तस्मै । (*gacchatyanenānṛṇyaṃ piteti tuk pautraḥ | tasmai |*) Tuk means the grandson. Through him, that is, through his birth, the father clears his debt, that is, becomes anṛṇa (free of debt). In the Tai. Saṃhitā it is said: जायमानो वै ब्राह्मणस्त्रिभिर्यणवा जायते ब्रह्मचर्येण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी (*jāyamāno vai brāhmaṇastribhiryaṇavā jāyate brahmacaryeṇa ṛṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī*) **NOTE**. That is, a Brāhmaṇa is born with three kinds of debts: the debt to the seers, to the gods and to the fathers. They are repaid thus: by living in the teacher's house under the rule of brahmacarya and studying the Veda, the debt to the seers is repaid. By performing sacrifices as a householder and pleasing the gods, the debt to the gods is repaid. By begetting offspring in his lawful wife after marriage, the debt to the fathers is repaid. Therefore a Brāhmaṇa who repays these three debts in the manner stated is called anṛṇa. By offspring such as sons and grandsons, one of the debts mentioned is repaid. Hence the commentator explains here that son and grandson make their father anṛṇa, free of debt.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्दे॒वस्य॒ हेळोs॑ वयासिसीष्ठाः ।  
+> यजि॑ष्टो॒ वह्नि॑तमः॒ शोशु॑चानो॒ विश्वा॒द्वेषां॑सि॒ प्र मु॑मुग्ध्य॒स्मत् ॥ ४ ॥
+
+> *tvaṃ no agne varuṇasya vidvāndevasya heḷos vayāsisīṣṭhāḥ |*  
+> *yajiṣṭo vahnitamaḥ śośucāno viśvādveṣāṃsi pra mumugdhyasmat ‖ 4 ‖*
+
+### Printed p. 675
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । वरुणस्य । विद्वान् । देवस्य । हेळः । अव । यासिसीष्ठाः ।  
+> यजिष्ठः । वह्नितमः । शोशुचानः । विश्वा । द्वेषांसि । प्र । मुमुग्नि । अस्मत् ॥ ४ ॥
+
+> *tvaṃ | naḥ | agne | varuṇasya | vidvān | devasya | heḷaḥ | ava | yāsisīṣṭhāḥ |*  
+> *yajiṣṭhaḥ | vahnitamaḥ | śośucānaḥ | viśvā | dveṣāṃsi | pra | mumugni | asmat ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं नो अग्न इत्येतदारभ्येदं सूक्तमुत्तराणि सूक्तानि च प्रातरनुवाक
+> आग्नेये क्रत् त्रैष्टुभे छंदस्याश्विनशस्त्रे च विनियुक्तानि । सूत्रितं च । त्वं नो
+> अग्ने वरुणस्य विद्वानित्येतत्पृथ्वीनि चत्वारि । आ. ४-१३ । इति ॥ अवभृथेष्टां स्विष्टकृदर्थेऽग्निवरुणौ यष्टव्या । तत्र त्वं नो अग्न इति द्वे याज्यानुवाक्ये । सूत्रितं
+> च । अग्नीवरुणौ स्विष्टकृदर्थे त्वं नो अग्ने वरुणस्य विद्वानिति द्वे । आ. ६-१३ । इति ॥
+> अस्नातो यद्यग्निहोत्रं जुहुयात्तदाग्नि वारुणीष्टिः । तस्यामेते एव याज्यानुवाक्ये । तदाहुर्य आहिताग्निरित्युपक्रम्यान्नातं । तस्य याज्यानुवाक्ये त्वं नो
+> अग्ने वरुणस्य विद्वान्त्स त्वं नो अग्नेऽवमो भवोती । ऐ. ब्रा. ७-९ । इति ॥
+> हे अग्ने विद्वान् सर्वपुरुषार्थसाधनोपायज्ञस्त्वं देवस्य द्योतमानस्य
+> वरुणस्य हेळः क्रोधान् नोऽस्मत्संबधिनो वरुणकर्तृकान्पाशग्रहणानव यासिसीष्ठाः । अपनय । किंच यजिष्टो यष्टृतमो वह्नितमो हविषामतिशयेन
+> वोढा शोशुचानोऽतिशयेन दीप्यमानस्त्वं विश्वा सर्वाणि द्वेषांसि पापानि
+> द्वेष्टणि रजांसि वा अस्मदस्मत्तः प्र मुमुग्धि । प्रकर्षेण मोचय ॥ हेळः ।
+> हेडृ अनादरे । क्विप् । शसि रूपं । शसः सुस्त्यादनुदात्तत्वे धातुस्वरः । यासिसीष्ठाः । यसेर्ण्यंतादाशीर्लिज् । थासि सीयुडागमः । छंदस्युभयथेति लिजः
+> सार्वधातुकत्वाण्णिलोपाभावः । अवपूर्वो यासिर्विनाशे वर्तते । मुमुग्धि ।
+> मुंचतेर्लोटि रूपं । बहुलं छंदसीति शपः श्लुः ॥
+
+##### Gist of the bhāṣya
+
+Beginning with त्वं नो अग्ने (*tvaṃ no agne*), this sūkta and the following sūktas are applied in the Prātaranuvāka, in the Āgneya kratu, in the Triṣṭubh section and in the Āśvina-śastra. It is stated in the sūtra: त्वं नो अग्ने वरुणस्य विद्वानित्येतत्पृथ्वीनि चत्वारि (*tvaṃ no agne varuṇasya vidvānityetatpṛthvīni catvāri*) (Ā. 4-13). In the avabhṛtheṣṭi, Agni and Varuṇa are to be sacrificed to for the Sviṣṭakṛt; there the two verses beginning त्वं नो अग्ने (*tvaṃ no agne*) are the yājyā and anuvākyā. The sūtra: अग्नीवरुणौ स्विष्टकृदर्थे त्वं नो अग्ने वरुणस्य विद्वानिति द्वे (*agnīvaruṇau sviṣṭakṛdarthe tvaṃ no agne varuṇasya vidvāniti dve*) (Ā. 6-13). If one unbathed offers the agnihotra, there is the Āgni-Vāruṇī iṣṭi; these same two are its yājyā and anuvākyā; so the Brāhmaṇa says, beginning "he who has set up the fire … unbathed": its yājyā and anuvākyā are त्वं नो अग्ने वरुणस्य विद्वान् (*tvaṃ no agne varuṇasya vidvān*) and स त्वं नो अग्नेऽवमो भवोती (*sa tvaṃ no agne 'vamo bhavotī*) (Ai. Brā. 7-9).
+Meaning: O Agni, knowing the means of accomplishing all human aims, remove from us the wrath of the shining Varuṇa, the seizures by the noose caused by Varuṇa. Further, you, most worshipful, the best carrier of oblations, most brightly shining, release us utterly from all hatreds, that is, sins, the haters, or faults. Remaining notes concern grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विद्वान् (*vidvān*)—you, the all-knowing
+- देवस्य (*devasya*)—of the divine
+- वरुणस्य (*varuṇasya*)—Varuṇa's
+- हेळॆः (*heḷèḥ*)—wrath
+- नः (*naḥ*)—from us
+- अव यासिसीष्ठाः (*ava yāsisīṣṭhāḥ*)—avert and remove
+- यजिष्ठः (*yajiṣṭhaḥ*)—most worshipful
+- वह्नि तमः (*vahni tamaḥ*)—greatest bearer of oblations
+- शोशुचानः (*śośucānaḥ*)—and shining, you
+- विश्वा (*viśvā*)—all
+- द्वेषांसि (*dveṣāṃsi*)—sins in the form of enemies
+- अस्मत् (*asmat*)—from us
+- प्र मुमुग्नि (*pra mumugni*)—release and destroy
+
 ---
 
-**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
+**Progress note:** Done through printed p. 675. pp. 670-675 (batch API)
