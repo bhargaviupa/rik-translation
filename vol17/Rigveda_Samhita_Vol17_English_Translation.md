@@ -6498,6 +6498,199 @@ We have prepared the parched grain and curds for you, associated with Pushan ; t
 
 पूषण्वते (*pūṣaṇvate*)—पूषानाम कश्चिद्देवोऽदंतकः । तद्वते (*pūṣānāma kaściddevo 'daṃtakaḥ | tadvate*). Pūṣan is a certain toothless god; the commentator explains it here as "to Indra, who is with him". Pūṣan is an important deity in the Ṛgveda; there are eight sūktas in his praise in the Ṛgveda. Besides this, in Ṛ. Saṃ. sūkta 6-57 with Indra, and in Ṛ. Saṃ. sūkta 2-40
 
+### Printed p. 168
+…in the hymn he is praised together with Soma. His chief functions are to show the way to those who have lost it, to recover lost things, and to bring strayed cattle safely home. There are descriptions such as: "Scatter the enemies; may our path lead us to the things we desire" (Ṛ. Saṃ. 6-53-4); "Make the road good, and may the road reach a place of good pasture" (Ṛ. Saṃ. 1-42-7); "May he remove the troubles that may arise on the way and make the path auspicious" (Ṛ. Saṃ. 6-54-9; 10-59-7); "He is the protector of every path" (6-49-8). Therefore everyone setting out on a journey should worship Pūṣan, the builder of roads, reciting Ṛ. Saṃ. Sūkta 6-53, and all who have lost their way should take refuge in Pūṣan alone; this is stated in the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. Sū. 3-6-8, 9) and in the Sāṃkhyāyana Śrauta Sūtra (Sāṃ. Śrau. Sū. 3-4-9).
+For a detailed account of the deity Pūṣan see Ṛ. Saṃ. Part 5, pp. 547-550.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ धा॒ना भ॑रत॒ तूय॑मस्मै पुरो॒ळाशं॑ वी॒रत॑माय नृ॒णां।  
+> दि॒वेदि॑वे स॒दृशी॑रिंद्र॒ तुभ्यं॒ वर्धं॑तु त्वा सोम॒पेया॑य  
+> धृष्टो ॥ ८ ॥
+
+> *prati dhānā bharata tūyamasmai puroḷāśaṃ vīratamāya nṛṇāṃ|*  
+> *divedive sadṛśīriṃdra tubhyaṃ vardhaṃtu tvā somapeyāya*  
+> *dhṛṣṭo ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । धानाः । भरत । तूयम् । अस्मै । पुरोळाशं । वीरतमाय । नृणां ।  
+> दिवेऽदिवे । सद्यशीः । इंद्र । तुभ्यं । वर्धंतु । त्वा । सोमपेयाय । धृष्णोइति ॥ ८ ॥
+
+> *prati | dhānāḥ | bharata | tūyam | asmai | puroḷāśaṃ | vīratamāya | nṛṇāṃ |*  
+> *dive 'dive | sadyaśīḥ | iṃdra | tubhyaṃ | vardhaṃtu | tvā | somapeyāya | dhṛṣṇoiti ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमानोऽध्वय्यादीन्प्रति ब्रूते । हे अध्वय्यादयः अस्मा इंद्राय
+> धानास्तूयं क्षिप्रं प्रति भरत । संपादयत । नृणां वीरतमायास्मा इंद्राय
+> पुरोडाशं च संपादयत । अथ प्रत्यक्षकृतः । हे धृष्टो शत्रूणामभिभवनशील हे
+> इंद्र सदृशीगेकविधाः स्तुतयस्तुभ्यं त्वदर्थं दिवे दिवे प्रतिदिवसमस्माभिः क्रियंते ।
+
+##### Gist of the bhāṣya
+
+The sacrificer addresses the Adhvaryu and the other priests: "Priests, quickly bring fried barley (धानाः (*dhānāḥ*)) for this Indra, and prepare the cake (पुरोडाशं (*puroḍāśaṃ*)) for Indra, the most heroic of men." Then, in the direct address of the second half: "O bold one, who overcomes enemies, Indra, praises of one like kind are made to you, for your sake, day by day, by us."
+
+### Printed p. 169
+
+> ताः स्तुतयः सोमपेयाय सोमपानार्थं त्वां वर्धंतु ! उत्साहेन प्रवृद्धं
+> कुर्वंतु ॥ सदृशीः । समानान्ययोश्चेति कञ्त्ययः । टिड्डाणइत्यादिना जीप्
+> दृगृशवतुष्टिति समानस्य सभावः ॥
+
+##### Gist of the bhāṣya
+
+"May those praises make you grow, for the drinking of Soma; may they make you increase with zeal." (The grammatical remainder on सदृशीः (*sadṛśīḥ*) is left to the Grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै (*asmai*)—addressing Indra
+- धानाः (*dhānāḥ*)—barley grains
+- तूयं (*tūyaṃ*)—quickly
+- प्रति भरत (*prati bharata*)—procure (O Adhvaryus)
+- नृणां (*nṛṇāṃ*)—among all leaders
+- वीरतमाय (*vīratamāya*)—for you, who are exceedingly mighty
+- पुरोडाशं (*puroḍāśaṃ*)—procure the cake
+- धृष्टो (*dhṛṣṭo*)—capable of defeating enemies
+- इंद्र (*iṃdra*)—O Indra
+- सदृशीः (*sadṛśīḥ*)—praises of one kind
+- तुभ्यं (*tubhyaṃ*)—for your praise
+- दिवेदिवे (*divedive*)—are made every day (those same praises)
+- त्वा (*tvā*)—you
+- सोमपेयाय (*somapeyāya*)—for the drinking of Soma
+- वर्धंतु (*vardhaṃtu*)—may they make (you) grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, quickly procure barley for this Indra. Procure the cake for Indra, who is exceedingly heroic among leaders. O Indra, capable of defeating enemies, praises of equal beauty are made for you every day. May those praises make you grow for the drinking of Soma.
+
+##### English translation (H. H. Wilson)
+Offer to him quickly (priests) the fried barley : offer to the most heroic of leaders the cakes and butter : may the like offerings, victorious Indra, presented to you daily, augment your vigour for the drinking of the Soma juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+The bhāṣya explains that the first half of this Ṛk is a description in the indirect manner (parokṣakṛta) and the second half a description in the direct manner (pratyakṣakṛta). We explain here in detail what parokṣakṛta and pratyakṣakṛta mean. On this subject Yāska says in his Nirukta:
+तद्यानि नामानि प्राधान्यस्तु तीनां देवतानां तद्वैवतमित्याचक्षते । यत्काम ऋषिर्यस्यां देवतायामार्थपत्यमिच्छन् स्तुतिं प्रयुंक्ते तद्वैवतः स मंत्रो भवति । शास्त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिकाश्च । तत्रपरोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यंते प्रथमपुरुषैश्चाख्यातस्य । अथ प्रत्यक्षकृता मध्यमपुरु षोपयोगास्त्वमिति चैतेन सर्वनाम्ना । अथाध्यात्मिक्य उत्तमपुरुषयोगा अहमिति चैतेन सर्वनाम्ना । परोक्षकृताः प्रत्यक्षकृताश्च मंत्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥ (*tadyāni nāmāni prādhānyastu tīnāṃ devatānāṃ tadvaivatamityācakṣate | yatkāma ṛṣiryasyāṃ devatāyāmārthapatyamicchan stutiṃ prayuṃkte tadvaivataḥ sa maṃtro bhavati | śāstrividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikāśca | tatraparokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyaṃte prathamapuruṣaiścākhyātasya | atha pratyakṣakṛtā madhyamapuru ṣopayogāstvamiti caitena sarvanāmnā | athādhyātmikya uttamapuruṣayogā ahamiti caitena sarvanāmnā | parokṣakṛtāḥ pratyakṣakṛtāśca maṃtrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*) (Ni. 7-1 to 3)
+That is, among mantras there are many kinds: mantras of the deity, praise-mantras, benedictions, oaths, curses, a statement of some matter, lament, censure and praise. A deity-mantra describes the greatness of deities; a praise is a mantra containing hymns and prayers; a benediction is a blessing, a wish for good; an oath is a vow; a curse is an evil wish; a statement of some matter is the explanation of a subject or principle; lament is grief and distress; censure is blame; praise is eulogy, praise of gifts and so on.
+Among the many kinds mentioned, the Ṛks of the deity are of three kinds: parokṣakṛta, pratyakṣakṛta and ādhyātmika. Parokṣakṛta: because the deity praised is not present, mantras that use third-person nouns and verbs (third person both in subject and predicate) about that deity. Pratyakṣakṛta: Ṛks that imagine the deity praised as present and praise it by addressing it with second-person words such as "you", "your". Ādhyātmika: mantras that praise by using the first person. Of these three kinds, the parokṣakṛta and pratyakṣakṛta mantras are the most numerous; the ādhyātmika mantras are very few.
+
+### Printed p. 170
+**NOTE**
+
+## Sūkta 53 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रापर्वतेति चतुर्विंशत्यृचं पंचदशं सूक्तं । अत्रेयमनुक्रमणिका ।
+> इंद्रापर्वता चतुर्विंशतिराद्यैंद्रापार्वती पंचदश्यादिद्दे वाचे ससर्पर्यॆ
+> चतस्रो रथांगस्तुतयोऽंत्या अभिशापास्ता वसिष्ठद्वेषिण्यो न वसिष्ठा शृण्वंति ।
+> दशमी षोडशौ जगत्त्रयोदशी गायत्रि द्वादशीविंशीद्वाविंश्योऽनुष्टु
+> भोऽष्टादशी बृहतीति । विश्वामित्र ऋषिः । दशमी षोडशी च द्वे जगत्त्रयोदरी
+> गायत्रि द्वादशीविंशीद्वाविंश्यस्तिस्रोऽनुष्टु भोऽष्टादशी बृहती शिष्टास्त्रिष्टु भः ।
+> आद्येंद्रापर्वतदेवताका पंचदशीषोडशौ वाग्गेवत्ये तॆदुत्तराश्चतस्रो रथांग
+> देवताकाः शिष्टा ऐंद्रैः ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning इंद्रापर्वता (*iṃdrāparvatā*) has twenty-four Ṛks and is the fifteenth sūkta of the group. Sāyaṇa cites the Anukramaṇikā: the first Ṛk is Aindrāpārvatī; the fifteenth and sixteenth are addressed to Vāc, Sasarparī; four (17-20) praise the parts of a chariot; the last ones are curses against the enemies of Vasiṣṭha, which the Vasiṣṭhas do not hear. It gives the metres: the tenth and sixteenth Jagatī; the thirteenth Gāyatrī; the twelfth, twentieth and twenty-second Anuṣṭubh; the eighteenth Bṛhatī; the rest Triṣṭubh. The seer is Viśvāmitra. The first has Indra and Parvata as deity, the fifteenth and sixteenth Vāc, the next four the chariot parts, the rest Indra.
+
+### Printed p. 171
+
+> अनुवादवु- इंद्रापर्वता ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि हदिनैदनॆय
+> सूक्तवु इदरल्लि इप्पत्तनाल्कु ऋक्कुगळिरुववु अनुक्रमणिकॆयल्लि—इंद्रापर्वता चतुर्विंशतिराद्यैंद्रापार्वती पंचदश्यादिद्वे वाचे ससर्पर्यॆ चतस्रो रथांगस्तुतयोन्या अभिशापास्ता वसिष्ठद्वेषिण्यो न वसिष्ठाः शृण्वंति । दशमीषोडश्य जगत्यौ
+> त्रयोदशी गायत्रि द्वादशीविंशीद्वाविंश्योऽनष्टुभोऽप्वादशी बृहतीति ऎंदु हेळि
+> रुवुदु. ऎंदरॆ— इंद्रापर्वता ऎंदु मॊदलागुव इप्पत्तु नाल्कु ऋक्कुगळुळ्ळ ई सूक्तक्कॆ
+> विश्वामित्रनु ऋषियु. मॊदलनॆय ऋक्कु इंद्रापर्वता ऎंब देवताकवु ; हदिनैदु मत्तु
+> हदिनारने ऋक्कुगळिगॆ वाक्के देवतॆयु ; ससर्परीः ऎंदु मॊदलागुव नाल्कु ऋक्कुगळिगॆ
+> (१७-२० ऋक्कुगळिगॆ) रथांगगळे देवतॆयु ; २-१९ मत्तु २१-२४ ऋक्कुगळिगॆ इंद्रनु देवतॆयु;
+> कॊनॆय नाल्कु ऋक्कुगळिगॆ (२१-२४) इंद्रनु देवतॆयागिद्दरू ई ऋक्कुगळु अभिशापार्थगळन्नु
+> सूचिसुववु ; (अभिशाप ऎंब ऋक्कुगळ विषयवन्नु नावु 150ने पुटदल्लि विवरिसिदेवॆ). ई अभिशाप
+> वन्नु सूचिसुव कॊनॆय नाल्कु ऋक्कुगळु वसिष्ठरन्नू अवर वंशस्थरन्नू अनुयायिगळन्नू
+> निंदिसुवुदरिंद अवुगळन्नु वसिष्ठगोत्रोत्पन्नरादवरु पठिसुवुदिल्ल, केळुवुदू इल्ल ई सूक्तद
+> हत्तु मत्तु हदिनारनॆय ऋक्कुगळु जगतीछंदस्कवु ; हदिमूरनॆय ऋक्कु गायत्रिछंदस्कवु ;
+> हन्नॆरडु, इप्पत्तु मत्तु इप्पत्तॆरडनॆय ऋक्कुगळु अनुष्टुप् छंदस्कवु ; हदिनॆंटनॆय ऋक्कु
+> बृहतीछंदस्कवु ; उळिद ऋक्कुगळु (ऎंदरॆ; १-९, ११, १४, १५, १७, १९, २१, २३, २४ ने
+> ऋक्कुगळु) त्रिष्टुप् छंदस्कवु.
+> ॥ ओं ॥
+> सूक्त-५३
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—५३ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—१९, २०, २१, २२, २३ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२४ ॥
+> । ऋषिः—विश्वामित्रः ॥
+> देवता—१. इंद्रापर्वत् । २-१४, २१-२४ । इंद्रः ।
+> १५-१६ वाक् । १७-२० रथांगानि ॥
+> छंद:—१-९, ११, १४, १५, १७, १९, २१, २३, २४ त्रिष्टुप् ।
+> १०, १६. जगती । १२, २०, । २२ अनुष्टुप् ।
+> १३ गायत्री । १८ बृहती ॥
+> 172
+
+##### English translation (H. H. Wilson)
+(Anuvāda in Kannada, not English.) The Kannada Anuvāda renders the above: Viśvāmitra is the seer of this hymn of twenty-four Ṛks. The first Ṛk has Indra-Parvata as deity; Ṛks 15 and 16 Vāc; Ṛks 17-20, beginning ससर्परीः (*sasarparīḥ*), the chariot parts; Ṛks 2-14 and 21-24 Indra. The last four (21-24), though addressed to Indra, express curses (the matter of abhiśāpa Ṛks was explained on p. 150). Because these four last Ṛks revile Vasiṣṭha, his descendants and followers, those born in the Vasiṣṭha gotra neither recite nor hear them. Ṛks 10 and 16 are Jagatī; 13 Gāyatrī; 12, 20 and 22 Anuṣṭubh; 18 Bṛhatī; the rest (1-9, 11, 14, 15, 17, 19, 21, 23, 24) Triṣṭubh. **NOTE**
+
+Sūkta 53. Maṇḍala 3; Anuvāka 4; Sūkta 53; Aṣṭaka 3; Adhyāya 3; Vargas 19, 20, 21, 22, 23; number of Ṛks 24. Seer: Viśvāmitra. Deity: 1 Indra-Parvata; 2-14, 21-24 Indra; 15-16 Vāc; 17-20 parts of the chariot. Metre: 1-9, 11, 14, 15, 17, 19, 21, 23, 24 Triṣṭubh; 10, 16 Jagatī; 12, 20, 22 Anuṣṭubh; 13 Gāyatrī; 18 Bṛhatī.
+
+### Printed p. 172
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑पर्वता बृह॒ता रथे॑न वा॒मीरिष॒ आ व॑हतं सु॒वीराः॑ ।  
+> वी॒तं ह॒व्यान्य॑ध्व॒रेषु॑ देवा॒ वर्धे॑थां गी॒र्भिरिळ॑या॒ मदं॑ता॥
+
+> *iṃdrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*  
+> *vītaṃ havyānyadhvareṣu devā vardhethāṃ gīrbhiriḷayā madaṃtā‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रापर्वता । बृहता । रथेन । वामीः । इषः । आ । वहतं । सुवीराः ।  
+> वीतं । हव्यानि । अध्वरेषु । देवा । वर्धेथां । गीःभिः । इळया । मदंता ॥ १ ॥
+
+> *iṃdrāparvatā | bṛhatā | rathena | vāmīḥ | iṣaḥ | ā | vahataṃ | suvīrāḥ |*  
+> *vītaṃ | havyāni | adhvareṣu | devā | vardhethāṃ | gīḥbhiḥ | iḷayā | madaṃtā ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रापर्वता इंद्रश्च पर्वतश्च । हे इंद्रापर्वता बृहता रथेनागत्य वामिार्वननीयाः सुवीराः शोभनपुत्रोपेता इषोऽन्नान्या वहतं । अस्मदर्थ० धारयतं! प्रयच्छतमित्यर्थः। किंच हे देवौ द्योतमानावध्वरेष्वस्मत्संबंधिषु यज्ञेषु हव्यानि हवनयोग्यानि पुरोडाशादीनि हवींषि वीतं। भक्षयतं। तथेळयास्माभिर्दत्तेन हविषा मदंता हृष्यंतौ युवां गीर्भिः स्तुतिलक्षणाभिरस्मदीयाभिर्वाग्भिर्वर्धेथां । समृद्धौ भवतं ॥ इंद्रापर्वता । आमंत्रितस्य पादादित्वात्पाष्ठिकमाद्युदात्तत्वं । सुवीराः । बहुव्रीहौ वीरवीयौ चेत्युत्तरपदाद्युदात्तत्वं । वीतं । वी
+> कांत्यादिष्ठित्यस्य लोट्यदादित्वाच्छपो लुक् । प्रत्ययस्वरः । वर्धेथां । वृधु वृद्धावित्यस्य लोट्याथामो लसार्वधातुकस्वरे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+इंद्रापर्वता (*iṃdrāparvatā*) means Indra and Parvata. "O Indra and Parvata, coming in a great chariot, bring desirable food (इषः (*iṣaḥ*)) accompanied by excellent sons; hold it for us, that is, give it. Further, O shining deities, partake of the oblations such as cakes offered at our sacrifices. Gladdened by the offering given by us, may you grow, be prosperous, by our praises of the nature of hymns."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रापर्वता (*iṃdrāparvatā*)—O Indra and Parvata
+- बृहता (*bṛhatā*)—of great form
+- रथेन (*rathena*)—in (your) chariot
+- वामीः (*vāmīḥ*)—praiseworthy
+- सुवीराः (*suvīrāḥ*)—accompanied by excellent sons
+- इषः (*iṣaḥ*)—food
+- आ वहतं (*ā vahataṃ*)—bring
+- देवा (*devā*)—you shining ones
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- हव्यानि (*havyāni*)—cakes and such, fit for worship
+- वीतं (*vītaṃ*)—partake
+- इळया (*iḷayā*)—with the oblation
+- मदंता (*madaṃtā*)—you who are gratified
+- गीर्भिः (*gīrbhiḥ*)—by our words in the form of praise
+- वर्धेथां (*vardhethāṃ*)—obtain prosperity
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Parvata, bring in your great chariot food that is praiseworthy and accompanied by excellent sons. Shining ones, partake in the sacrifices of the cakes and other oblations fit for worship.
+
+### Printed p. 173
+Gratified by the oblation, obtain prosperity through our words of praise.
+
+##### English translation (H. H. Wilson)
+Indra and Parvata, bring hither, in a spacious car, delightful viands (generative of) good progeny : partake, deities, of the oblations (offered) at (our) sacrifices, and, gratified by the (sacrificial) food, be elevated by our praises.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्रापर्वता (*iṃdrāparvatā*)—by this word Indra and a cloud, or the deity presiding over clouds, that is Parjanya, are addressed. The word occurs in the Ṛgveda only in this Ṛk and in Ṛ. Saṃ. 1-122-3 and 1-132-6, nowhere else. In explaining the word, the bhāṣyakāra says:
+इंद्रापर्वता । इंद्रः प्रसिद्धः । पर्वतः पर्ववान् वृष्ट्यादिपूरणवान् पर्जन्यः ॥ (*iṃdrāparvatā | iṃdraḥ prasiddhaḥ | parvataḥ parvavān vṛṣṭyādipūraṇavān parjanyaḥ ‖*)
+That is, Indra is the well-known deity; Parvata is the deity Parjanya, presiding over rain, who fills the earth with rain and the like. Bhaṭṭa Bhāskara says that the word parvata also means year (पर्वतःसंवत्सरः (*parvataḥsaṃvatsaraḥ*)). Whatever meaning is given to parvata, it is clear that here the word is a synonym for a deity to be worshipped. The word is also used as a synonym of enemy: since parvata is listed among the names of clouds (Ni. 2-21), in many places it is said that Indra caused rain by splitting the parvata; therefore an inquiry into the use of this word is proper.
+The word parvata is used most in hymns to Indra and the Maruts. Its common meaning is mountain, but it is customary as a synonym of cloud. The Nirukta says: पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातीर्वा मेघोऽपि गिरिरेतस्मादेव ! (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātīrvā megho 'pi giriretasmādeva !*) (Ni. 1-20). Showing that the word parva derives either from the root pṛ "to fill" or from the root prī "to worship, to satisfy", it explains parvata as mountain or cloud. The etymology gives the sense of filling a barren region, or of satisfying beings (with rain and the like). One must notice which parvata is the obstructing one and which the beneficial one.
+
 ---
 
-**Progress note:** Done through printed p. 167. pp. 162-167 (batch API)
+**Progress note:** Done through printed p. 173. pp. 168-173 (batch API, retry 1)
