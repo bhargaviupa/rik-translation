@@ -22066,6 +22066,198 @@ Savitri, encompassing them by his magnitude, pervades the three (divisons of the
 > *bṛhatsumnaḥ prasavītā niveśano jagataḥ sthāturubhayasya yo*  
 > *vaśī |*
 
+### Printed p. 560
+
+> स नो देवः सविता शर्म यच्छत्वस्मे क्षयाय त्रिवरूथमंहसः ॥ ६ ॥
+
+> *sa no devaḥ savitā śarma yacchatvasme kṣayāya trivarūthamaṃhasaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत्सुम्मः । प्रसविता । निवेशनः । जगतः । स्थातुः । उभयस्य । यः । वशी ।  
+> सः । नः । देवः । सविता । शर्म । यच्छतु । अस्मे इति । क्षयाय । त्रिवरूथं ।  
+> अंहसः ॥ ६ ॥
+
+> *bṛhatsummaḥ | prasavitā | niveśanaḥ | jagataḥ | sthātuḥ | ubhayasya | yaḥ | vaśī |*  
+> *saḥ | naḥ | devaḥ | savitā | śarma | yacchatu | asme iti | kṣayāya | trivarūthaṃ |*  
+> *aṃhasaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो बृहत्सुम्मः प्रभूतधनः प्रभूतसुखो ना प्रसविता प्रकर्षेणानुज्ञाता
+> कर्मणां निवेशनः सर्वैर्गंतव्यः । जगतो जंगमस्य स्थातुः स्थावरस्योभयस्य
+> यो वशी स महान् सविता देवो नोऽस्मभ्यं शर्म सुखं यच्छतु । कीदृशं
+> शर्म । त्रिवरूथं । त्रीणि वरूथानि गृहाणि स्थानानि क्षित्यादीनि यस्य तत्तादृशं । अस्मे
+> अस्माकमंहसः पापस्य क्षयाय भवत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Savitṛ, who is "of great happiness" (बृहत्सुम्मः (*bṛhatsummaḥ*)), that is, possessed of abundant wealth and abundant happiness, is the prasavitā, the one who gives his sanction to rites in an eminent way. He is "the abode" (निवेशनः (*niveśanaḥ*)), the one to whom all must go. He is the lord (वशी (*vaśī*)) of both the moving world (जगतः (*jagataḥ*)) and the stationary (स्थातुः (*sthātuḥ*)). May that great god Savitṛ grant (यच्छतु (*yacchatu*)) us happiness (शर्म (*śarma*)). What kind of happiness? "Threefold-sheltering" (त्रिवरूथं (*trivarūthaṃ*)): the three shelters, that is houses or places, earth and the rest, belong to it. The words "may it be for the destruction (क्षयाय (*kṣayāya*)) of our (अस्मे (*asme*)) sin (अंहसः (*aṃhasaḥ*))" are to be supplied as the remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहत्सुम्मः (*bṛhatsummaḥ*)—the support of manifold happiness
+- प्रसविता (*prasavitā*)—the impeller of good works
+- निवेशनः (*niveśanaḥ*)—the refuge of all
+- जगतः (*jagataḥ*)—of what moves
+- स्थातुः (*sthātuḥ*)—of what is stationary
+- उभयस्य (*ubhayasya*)—of both kinds of beings
+- यः (*yaḥ*)—who
+- वशी (*vaśī*)—is the lord
+- सः (*saḥ*)—such
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ
+- नः (*naḥ*)—to us
+- त्रिवरूथं (*trivarūthaṃ*)—abiding in the three places, earth and the rest
+- शर्म (*śarma*)—happiness
+- यच्छतु (*yacchatu*)—may he give
+- अस्मे (*asme*)—our
+- अंहसः (*aṃhasaḥ*)—of sin
+- क्षयाय (*kṣayāya*)—for destruction (may he be the cause)
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ, who is the support of manifold happiness, the impeller of good works, the refuge of all, and the lord of both kinds of beings, the moving and the stationary, give us happiness extending over the three places, earth and the rest. May he destroy our sins.
+
+##### English translation (H. H. Wilson)
+May that divine Savitri, who is the source of great happiness, the engenderer (of good works), the comprehender (of all beings), the regula-
+
+### Printed p. 561
+
+tor of both the moveable and stationary, grant us happiness in the three worlds, and (be) to us for the destruction of sin.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग॑न्दे॒व ऋ॒तुभि॒र्वर्ध॑तु॒ क्षयं॒ दधा॑तु नः सवि॒ता सु॑प्र॒जांमिषं॑ ।  
+> स नः॑ क्ष॒पाभि॒रह॑भिश्च जिन्वतु प्र॒जावं॑तं र॒यिम॒स्मे समि॑न्वतु ॥
+
+> *āgandeva ṛtubhirvardhatu kṣayaṃ dadhātu naḥ savitā suprajāṃmiṣaṃ |*  
+> *sa naḥ kṣapābhirahabhiśca jinvatu prajāvaṃtaṃ rayimasme saminvatu ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अगन् । देवः । ऋतुभिः । वर्धतु । क्षयं । दधातु । नः । सविता । सुप्रजां ।  
+> इषं ।  
+> सः । नः । क्षपाभिः । अहभिः । च । जिन्वतु । प्रजावंतं । रयिं । अस्मे इति । सं ।  
+> इन्वतु ॥ ७ ॥
+
+> *ā | agan | devaḥ | ṛtubhiḥ | vardhatu | kṣayaṃ | dadhātu | naḥ | savitā | suprajāṃ |*  
+> *iṣaṃ |*  
+> *saḥ | naḥ | kṣapābhiḥ | ahabhiḥ | ca | jinvatu | prajāvaṃtaṃ | rayiṃ | asme iti | saṃ |*  
+> *invatu ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राजक्रय आगन्देव इत्येषानुवचनीया । सूत्रितं च । आगन्देव ऋतुभिर्वर्धतु
+> क्षयमित्यर्धर्च आरमेत् । आ. ४-४ । इति ॥
+> देवः सविता ऋतुभिः सहागन् । आगच्छतु ॥ गमेर्लजि रूपं ॥ किंच क्षयं
+> गृहं वर्धतु । वर्धयतु । नोऽस्माकं सुप्रजां शोभनपुत्राद्युपेतमिषमन्नं
+> दधातु । ददातु । स एव नोऽस्मान् क्षपाभी रात्रिभिरहभिश्च । सर्वेषु दिनेष्टित्यर्थः ।
+> जिन्वतु । प्रीणयतु धनादिभिः । अस्मे अस्मासु प्रजावंतं रयिं समिन्नतु । व्याप्नोतु।
+> प्रापयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This verse, "āgan deva", is the anuvacanīyā in the Rājakraya (the purchase of Soma). It is prescribed by the sūtra: आगन्देव ऋतुभिर्वर्धतु क्षयमित्यर्धर्च आरमेत् । आ. ४-४ । इति ॥ (*āgandeva ṛtubhirvardhatu kṣayamityardharca āramet | ā. 4-4 | iti ‖*) Sāyaṇa explains: the god Savitṛ has come (अगन् (*agan*), "may he come") together with the Ṛtus; the form is a Lak (Laṅ) form of the root gam. Further, may he make the house (क्षयं (*kṣayaṃ*)) prosper. May he give (दधातु (*dadhātu*) = ददातु (*dadātu*)) us food (इषं (*iṣaṃ*)) endowed with good offspring (सुप्रजां (*suprajāṃ*)), that is, with good sons and so on. Likewise may he please (जिन्वतु (*jinvatu*)) us with wealth and the like by nights (क्षपाभिः (*kṣapābhiḥ*)) and by days, that is, on all days. May he bring to us, or cause us to reach, wealth (रयिं (*rayiṃ*)) with offspring (समिन्नतु (*saminnatu*), "may he pervade").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the god (divine in nature)
+- सविता (*savitā*)—Savitṛ
+- ऋतुभिः सह (*ṛtubhiḥ saha*)—together with the Ṛtu deities
+- अगन् (*agan*)—may he come (to our sacrifice)
+- क्षयं (*kṣayaṃ*)—our house
+- वर्धतु (*vardhatu*)—may he cause to prosper
+- नः (*naḥ*)—to us
+- सुप्रजां (*suprajāṃ*)—endowed with excellent offspring
+- इषं (*iṣaṃ*)—food
+- दधातु (*dadhātu*)—may he give
+- सः (*saḥ*)—he
+- नः (*naḥ*)—to us
+- क्षपाभिः (*kṣapābhiḥ*)—in the nights
+- अहभिश्च (*ahabhiśca*)—and in the days
+
+### Printed p. 562
+
+- चिन्वतु (*cinvatu*)—may he bring delight
+- अस्मे (*asme*)—to us
+- प्रजावंतं (*prajāvaṃtaṃ*)—together with good sons
+- रयिं (*rayiṃ*)—wealth
+- समिन्वतु (*saminvatu*)—may he supply
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ, divine in nature, come to our sacrifice together with the Ṛtu deities. May he make our house prosper. May he give us food together with excellent offspring. May he bring us delight by day and by night. May he supply us with wealth together with good sons.
+
+##### English translation (H. H. Wilson)
+May the divine Savitri approach along with the Ritus, prosper our dwelling, and bestow upon us good progeny and food; may he be favoura-ble to us by night and by day: may he heap upon us wealth comprehending offspring.
+
+## Sūkta 54 (Maṇḍala 4)
+
+##### विशेषविषयगळु (Special Topics)
+
+Fifty-fourth Sūkta. Introduction.
+
+Savitṛ is a very ancient and renowned deity, praised in many places. The sūktas addressed individually to the deity Savitṛ alone are: 1-35; 2-38; 4-53; 9-54; 5-81; 5-82; 7-37; 7-45; 10-149. **NOTE** There are also many contexts in which he is praised together with other deities. Praise of the god Savitṛ occurs in mantras contained in many sūktas, such as 1-22-5 to 8; 3-56-6; 3-56-7; 3-62-10 to 12.
+
+To learn Savitṛ's personal qualities and his deeds connected with the working of the universe, some mantras may be cited and examined.
+
+Described with epithets such as Hiraṇyākṣa (having golden-formed eyes), Hiraṇyapāṇi and Hiraṇyahasta (having golden hands), Savitṛ is in many places described as having a golden-formed radiance (1-22-5; 1-35-9, 10; 3-54-11; 6-50-8; 6-71-4; 7-38-2; Sā. Ve. 1-464; Vā. Sa. 1-16; 4-25; A. Ve. 3-21-8; 7-14-2; 7-115-2). **NOTE** In addition, epithets such as Pṛthupāṇi, having broad hands (2-38-2), and Supāṇi, having beautiful hands (3-33-6; 7-45-4), also describe Savitṛ's attractive hands.
+
+p. 563 starts here in print.
+
+### Printed p. 563
+
+In 6-71-3 Savitṛ is described as Hiraṇyajihva, that is, having a golden tongue; in 3-54-11 and 7-45-4 as Sujihva (having a beautiful tongue); and in 6-71-4 as Mandrajihva, that is, having a delightful tongue. Savitṛ covers his whole body with a golden armour; therefore he bears a gold-coloured form (4-53-2). He has the power of assuming every form (विश्वा रूपाणि प्रतिमुंचते कविः (*viśvā rūpāṇi pratimuṃcate kaviḥ*) 5-81-2). Hiraṇyakeśa, that is, having golden hair (10-139-1), this Savitṛ, of radiant nature, mounts a gold-coloured chariot drawn by radiant, gold-coloured horses. Surveying all beings, he travels on paths of ascent and descent (1-35-2 to 5; 7-45-1). Enveloped in golden radiance, he makes the atmosphere and the regions of the earth shine (3-28-8; 7-38-1; 7-45-3; 1-35-7, 8; 4-14-2; 4-53-4; 5-81-2). To bless all beings he spreads out, and his stout, golden arms, which give vitality to all beings, reach the farthest limits of the atmosphere (2-38-2; 4-53-3, 4; 6-71-1, 5; 7-45-2). Only in mantra 6-71-4 is Savitṛ described by the epithet Ayohanu; Ayohanu means one having a jaw made of steel. But the commentator (Sāyaṇa) has stated that in this context the word आयः (*āyaḥ*) must be understood as gold (रुक्मं अयः इति हिरण्यनामसु पाठात् (*rukmaṃ ayaḥ iti hiraṇyanāmasu pāṭhāt*)). His ancient paths of travel are entirely free of dust (अरेणवः (*areṇavaḥ*)). Savitṛ is described by the same epithet asura, which shows the surpassing power of Varuṇa and of other deities called lords of the world (1-35-7; 1-35-10; 4-53-1). Neither Indra, Varuṇa, Mitra, Aryaman, Rudra, nor any other deities can obstruct this Savitṛ's resolve or his own lordship (2-38-7, 9; 5-82-2). Savitṛ, true to dharma, observes only steadfast vows; all his ordinances are immovable (4-53-4; 10-34-8; 10-139-3). Therefore all the other deities act in accordance with his ordinance (5-81-3). The waters and the wind act in accordance with his resolve (2-38-2). The Vasus, Aditi, the lord Varuṇa, Mitra and Aryaman also praise this god, recite to him and extol him (7-38-3, 4). This Savitṛ is the master of all things desired by gods, men and others. He sends them all as gifts from the heavenly world, the atmosphere and the earth (1-24-3; 2-38-11). Even before the appearance of Uṣas he impels and sends forth the chariot of the Aśvins (1-34-10). This Savitṛ is Prajāpati, the master of all beings. He is the support of the heavenly world and of the earth. With the eagerness and haste with which cattle, having finished their pasture, go home at evening,
+
+### Printed p. 564
+
+with the same eagerness and haste, with the zeal with which warriors approach their horses to go to the battlefield, with the affection with which a cow goes to give milk to her calf, with the eagerness a man shows in going to his wife, he is prayed to come quickly and with such affection to bless the sacrificer (4-53-2; 4-54-4; 10-149-1, 4).
+
+In the Ṛk Saṃhitā, in the sentence दिवो धर्ता भुवनस्य प्रजापतिः (*divo dhartā bhuvanasya prajāpatiḥ*) (4-53-2), the word Prajāpati is an epithet of Savitṛ telling of his lordship over beings. In just that way one may note that in the Taittirīya Brāhmaṇa too there is a description showing the identity of these two words. For example: प्रजापतिः सविता भूत्वा प्रजा असृजत (*prajāpatiḥ savitā bhūtvā prajā asṛjata*) (Kai. Brā. 1-6-4-1) **NOTE** Prajāpati himself, appearing in the form of Savitṛ, created the creatures. Supporting this same identity the Śatapatha Brāhmaṇa states: यो ह्येव सविता स प्रजापतिरिति वदंतः (*yo hyeva savitā sa prajāpatiriti vadaṃtaḥ*) (Śa. Brā. 12-3.5-1). The custom is to call him who is the god Savitṛ by the name Prajāpati.
+
+In 5-82-7 he is praised with the epithet Viśvadeva. Explaining the purport of this word, Sāyaṇa says विश्वे देवा यस्य वशे भवंति (*viśve devā yasya vaśe bhavaṃti*), that is, Savitṛ, in whose control all the other deities are; or else, as described in Ṛk 1-164-46 इंद्रं मित्रं वरुणमग्निमाहुः (*iṃdraṃ mitraṃ varuṇamagnimāhuḥ*), he means the universal Self of whom Indra and all the other deities are epithets of glory (vibhūti). This Savitṛ is the maker of all the regions of the earth (5-81-3) and bestows immortality on all the gods (4-54-2). He bestowed immortality also on the Ṛbhus, who had attained greatness through their deeds (1-110-2, 3). **NOTE** In 10-17-4 he is prayed to lead the souls of the dead to the world of the righteous. In mantra 4-54-3 he is prayed to make his worshippers free of sin.
+
+### Printed p. 565
+
+The epithet Apāṃ Napāt, which tells a special quality of Agni as his epithet, is in mantra 10-149-2 a word telling also a quality of Savitṛ. But Sāyaṇa, understanding the word Apāṃ Napāt as Agni itself, has stated that a relation of qualified and qualifier between the word Savitṛ and Apāṃ Napāt is not indicated in the mantra cited in the present context.
+
+2. Sentences giving the derivation of the word Savitṛ.
+
+Yāska has explained that the purport of the word Savitṛ is "the prasavitā of everything" (Ni. 10-31). But he has not stated what the precise meaning of the word prasavitṛ is. The root su or sū, which is the source of this word, is used in three kinds of meaning:
+1. in the sense "cause to come into being";
+2. in the sense "offer an oblation"; and
+3. in the sense "impel", "make endowed with vitality".
+
+In explaining this root-meaning, the source of the word Savitṛ, Sāyaṇa has at one time said that it means "impel", and at another time "give permission". In 1-13-1 he has explained prasūtā as "born" and savaḥ as "birth". No epithet that suits other deities has the power of signifying manifold powers like this epithet of the god Savitṛ. This word, showing the many kinds of divine powers of Savitṛ, tells in many places in the Ṛk Saṃhitā of this god's infinite powers. Some mantras that praise Savitṛ as described by this epithet may be cited here.
+
+"The god Savitṛ has impelled everything, bestowing on two-footed creatures and four-footed creatures the power to accomplish their desired aims." (1-124-1)
+
+"Savitṛ, the cause of origin for the whole moving world, is the giver of vitality to them all." (1-157-1)
+
+"This god Savitṛ can assume all the forms of the universe. He has brought prosperity and welfare also to the two-footed, men and the like, and to the four-footed, cattle and the like. Savitṛ, the granter of desires, has made the whole atmosphere shine. He is shining on the path of Uṣas's travel. 'O Savitṛ, you alone are the cause of the origin of the whole world. By your journeys of infinite power you, nourisher of the world, are yourself the god Pūṣan.'" (5-81-2, 5)
+
+### Printed p. 566
+
+"O Ṛbhus, sons of Sudhanvan, by the greatness of your good deeds you reached the house of Savitṛ, the generous giver. He bestowed immortality on you." (1-10-2, 3) **NOTE**
+
+"By the gracious impulsion of Savitṛ may we obtain today the riches we desire." (1-8-59-5) **NOTE**
+
+"Savitṛ, sustainer of the world, who always labours for the world's uplift, has appeared in order to give us vitality." (2-38-1)
+
+"The god Savitṛ is a guide to us (the waters). By his impulsion we flow in a broad stream." (3-33-6)
+
+"O god Savitṛ, every day send us three times from the atmosphere the things we desire. Savitṛ and Mitra-Varuṇa also, sending us our desired aims three times every day, will bless us with their generous hands." (3-56-6)
+
+"Savitṛ has spread wide his arms, which give vitality to the whole world. With his rays he has filled the world with the lustre of life. May the god Savitṛ, who gives abundant happiness, who gives the world its working power, who is the establisher of the world, lord of the whole universe of the stationary and the moving, grant us protection." (4-53-3, 6)
+
+"O god Savitṛ, whatever offence we may have committed against the gods through weakness of mind, and whatever offence, through ignorance natural to men or through painful dealings, we may have committed against the gods and against men who are your devotees, forgive all this and make us free of sin." (4-54-3)
+
+"May Savitṛ, the venerable, whose form is Bhaga, provide wealth for his devotees. O Savitṛ, provide us with the wealth of sons and the wealth of riches and destroy our disease in the form of sloth. O Savitṛ, divine in nature, remove all our calamities and bestow on us the things we desire. By the grace of the god Savitṛ may we, committing no offence in regard to Aditi, obtain all the things desired. Today we seek, worshipping with praises, the god Savitṛ, the protector of the good, true in his impulsion, and possessed of all divine qualities." (5-82-3 to 7)
+
+"Savitṛ, endowed with divine power, has stretched out his golden arms to give vitality to the world. May we too obtain a share of this divine power. O Savitṛ, send us the things we desire today and tomorrow, in continuous succession, every day." (6-71-1, 2) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 559. pp. 554-559 (batch API)
+**Progress note:** Done through printed p. 566. pp. 560-566 (batch API)
