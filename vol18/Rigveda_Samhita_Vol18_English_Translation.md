@@ -5764,6 +5764,262 @@ Him neither many nor few can molest : may Aditi grant him infinite happiness : t
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
+### Printed p. 162
+#### Ṛk 6 (continued)
+
+> प्राशुषाट् शत्रूणां प्रकर्षेण शीघ्रमभिभवता वीरो विक्रांत एष इंद्रः
+> सुप्राव्यः सुष्पगच्छतो हविर्भिः सुष्टु प्रतर्पयितुर्वा : सुष्टेः सुन्वतो
+> यजमानस्य संबंधिनीं केवला केवलामसाधारणां पक्तिं कृणुते । आत्मनः कुरुते ।
+> किंचेंद्रोऽसुष्टेरसुन्वतो यजमानस्यापिर्व्याप्तो न भवति । इंद्रोऽयजमानस्य सखा न भवति । जामिर्बंधुश्च न भवति । अपि च दुष्टाव्यो दुरुपगमनस्यावाचः
+> स्तुतिरहितस्य पुरुषस्यावहंतेत् हिंसितैव भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: this hero Indra, "prāśuṣāṭ", who swiftly and powerfully overcomes his enemies, is "suprāvyaḥ", one who comes well to the pressing sacrificer, or one who fully satisfies him with oblations. He makes the pakti of the Soma-presser his own alone, uniquely (केवला (*kevalā*) = not shared). Further, Indra is not the "āpi" (one who pervades, a close relation) of one who does not press Soma; he is not the friend of one who does not sacrifice, and not a kinsman. Moreover, of the man who is hard to approach and "avāc", without praise, he is simply the slayer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्राशुषाट् (*prāśuṣāṭ*)—one who destroys enemies very swiftly
+- वीरः (*vīraḥ*)—the valiant
+- एषः इंद्रः (*eṣaḥ iṃdraḥ*)—this Indra
+- सुप्राव्यः (*suprāvyaḥ*)—one to be approached with the utmost humility
+- सुष्टेः (*suṣṭeḥ*)—of the sacrificer who presses Soma
+- पक्तिं (*paktiṃ*)—the sinful act (food-wealth) **NOTE**
+- केवला (*kevalā*)—as something very unique
+- कृणुते (*kṛṇute*)—makes
+- असुष्टेः (*asuṣṭeḥ*)—to one who does not press Soma
+- आपिः (*āpiḥ*)—as a benefactor
+- न (*na*)—he does not become
+- सखा (*sakhā*)—as a friend
+- न (*na*)—he does not become
+- जामिः (*jāmiḥ*)—also as a kinsman to him
+- न (*na*)—he does not become
+- अवाचः (*avācaḥ*)—to the sacrificer who does not praise Indra
+- दुष्ट्राव्यः (*duṣṭrāvyaḥ*)—not one who can be obtained at all
+- अवहंतेत् (*avahaṃtet*)—one who certainly smites him
+
+##### भावार्थ (Bhāvārtha)
+
+Sacrificers should approach Indra, who destroys enemies very swiftly and is valiant, with the utmost humility. Indra provides unique food-wealth to the one who presses Soma for him. To the sacrificer who does not press Soma and does not perform the sacrifice he does not bring welfare; he is neither a friend nor a kinsman to him. And to the sacrificer who does not praise Indra he is simply not obtainable. Such a one he certainly smites.
+
+##### English translation (H. H. Wilson)
+This hero, Indra, the prompt discomfiter (of foes), who is to be approached with homage, grants special maturity to the presenter of the libation : he is not the kinsmen, nor friend, nor relative, of him who offers no oblation (to him) : he is difficult of access, and the punisher of him who repeats not (his) praise.
+
+### Printed p. 163
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न रे॒वता॑ प॒णिना॑ स॒ख्यमिंद्रोऽसु॑न्वता सुत॒पाः सं गृ॑णीते ।  
+> आस्य॒ वेदः॑ खि॒दति॒ हंति॑ न॒ग्नं वि सुष्व॑ये प॒क्तये॒ केव॑लो  
+> भूत् ॥ ७ ॥
+
+> *na revatā paṇinā sakhyamiṃdro 'sunvatā sutapāḥ saṃ gṛṇīte |*  
+> *āsya vedaḥ khidati haṃti nagnaṃ vi suṣvaye paktaye kevalo*  
+> *bhūt ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । रेवता । पणिना । सख्यं । इंद्रः । असुन्वता । सुत्यपाः । सं । गृणीते ।  
+> आ । अस्य । वेदः । खिदति । हंति । नग्नं । वि । सुस्वये । पक्तये । केवलः । भूत् ॥७॥
+
+> *na | revatā | paṇinā | sakhyaṃ | iṃdraḥ | asunvatā | sutyapāḥ | saṃ | gṛṇīte |*  
+> *ā | asya | vedaḥ | khidati | haṃti | nagnaṃ | vi | susvaye | paktaye | kevalaḥ | bhūt ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतपा अभिषुतं सोमं पिबन्निंद्रो रेवता धनवता पणिना वणिजा लुब्बेनासुन्वता सोमाभिषवमकुर्वतायजमानेन सह सख्यं सखित्वं न सं गृणीते । न
+> संस्कौति । नानुमन्यत इत्यर्थः । किंच अस्यायजमानस्य नग्नं निरर्थकं वेदो धनं
+> ज्ञानं वा आ खिदति । उद्धरति । हंति । हिनस्ति च । अपि च सुष्वये सोमं सुन्वते
+> पक्तये हवींषि पचते यजमानाय केवलोऽसाधारणः सन् वि भूत् । विभवति ॥
+
+##### Gist of the bhāṣya
+
+Indra, the drinker of the pressed Soma, does not "accept" friendship (न सं गृणीते (*na saṃ gṛṇīte*): does not praise together, that is, does not approve) with the wealthy ("revat"), the trader, the miser ("paṇi"), who does not press Soma, the non-sacrificer. Further, the "naked", that is useless, "veda" of this non-sacrificer, meaning his wealth or his knowledge, he digs up (आ खिदति (*ā khidati*), uproots) and destroys. And to the sacrificer who presses Soma and cooks oblations (पक्तये (*paktaye*)) he becomes uniquely his own, and prevails (विभवति (*vibhavati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतपाः (*sutapāḥ*)—one who drinks the pressed Soma
+- इंद्रः (*iṃdraḥ*)—Indra
+- रेवता (*revatā*)—with the wealthy man
+- पणिना (*paṇinā*)—and the miser
+- असुन्वता (*asunvatā*)—and the one who does not press Soma for the sacrifice, with such a man
+- सख्यं (*sakhyaṃ*)—friendship
+- न सं गृणीते (*na saṃ gṛṇīte*)—does not accept
+- अस्य (*asya*)—of that same man
+- नग्नं (*nagnaṃ*)—useless
+- वेदः (*vedaḥ*)—wealth
+- आ खिदति (*ā khidati*)—he carries off
+- हंति (*haṃti*)—he destroys
+- सुष्टये (*suṣṭaye*)—who presses Soma **NOTE**
+- पक्तये (*paktaye*)—and who cooks the oblation for the sacrifice, to such a sacrificer
+- केवलः (*kevalaḥ*)—as a unique one
+- वि भूत् (*vi bhūt*)—he becomes the cause of his prosperity
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who drinks the pressed Soma, does not wish to enter into friendship with a man who is wealthy, miserly and does not press Soma for the sacrifice. Since that man's wealth is useless, he carries it off or destroys it. To the sacrificer who presses Soma and cooks the oblation for the sacrifice he brings unique prosperity.
+
+### Printed p. 164
+
+##### English translation (H. H. Wilson)
+(Indra), the drinker of the effused Soma, contracts no friendship with the wealthy trader who offers not any libation; he takes away his wealth; destroys him when destitute; but he is a special (friend) to him who presents the libation and oblation.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ परेव॑रे मध्य॒मास॒ इंद्रं॒ यांतोऽव॑सितास॒ इंद्रं॑ ।  
+> इंद्रं॑ क्षि॒यंत॑ उ॒त युध्य॑माना॒ इंद्रं॒ नरो॑ वाज॒यंतो॑  
+> हवंते ॥ ८ ॥
+
+> *iṃdraṃ parevare madhyamāsa iṃdraṃ yāṃto 'vasitāsa iṃdraṃ |*  
+> *iṃdraṃ kṣiyaṃta uta yudhyamānā iṃdraṃ naro vājayaṃto*  
+> *havaṃte ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । परे । अवरे । मध्यमासः । इंद्रं । यांतः । अवसितासः । इंद्रं ।  
+> इंद्रं । क्षियंतः । उत । युध्यमानाः । इंद्रं । नरः । वाजयंतः । हवंते ॥ ८ ॥
+
+> *iṃdraṃ | pare | avare | madhyamāsaḥ | iṃdraṃ | yāṃtaḥ | avasitāsaḥ | iṃdraṃ |*  
+> *iṃdraṃ | kṣiyaṃtaḥ | uta | yudhyamānāḥ | iṃdraṃ | naraḥ | vājayaṃtaḥ | havaṃte ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर उत्कृष्टा अवरे निकृष्टाश्च जना इंद्रं हवंते । आह्वयंति । मध्यमासो
+> मध्यमाश्चेंद्रमेव हवंते । यांतः कार्यसिद्ध्यर्थं गच्छंतो जना इंद्रमेवाह्वयंति । अवसितासो निविष्टाश्चेंद्रमेवाह्वयंति । क्षियंतो गृहे निवसंतो
+> जना इंद्रमेव हवंते । उतापि च युध्यमाना युद्धं कुर्वाणा जना जयार्थमिंद्रमेवाह्वयंति । वाजयंतो वाजमन्नमिच्छंतो नरो नेतारो मनुष्या
+> इंद्रमेव हवंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: people who are "para", exalted, and those who are "avara", lowly, invoke Indra. The "madhyamāsaḥ", the middling, invoke Indra alone. Those who go ("yāntaḥ") to accomplish an undertaking call on Indra alone. Those who are "avasitāsaḥ", settled, call on Indra alone. Those who "kṣiyantaḥ", dwell at home, invoke Indra alone. And those who fight ("yudhyamānāḥ") call Indra alone for victory. Men ("naraḥ"), leaders, desiring "vāja", food, invoke Indra alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परे (*pare*)—the exalted
+- अवरे (*avare*)—and also the lowly
+- इंद्रं (*iṃdraṃ*)—Indra
+- हवंते (*havaṃte*)—pray to and call for help
+- मध्यमासः (*madhyamāsaḥ*)—those belonging to the middle class
+- इंद्रं (*iṃdraṃ*)—call Indra alone
+- यांतः (*yāṃtaḥ*)—those who go for the accomplishment of an undertaking
+
+### Printed p. 165
+- अवसितासः (*avasitāsaḥ*)—those who sit
+- इंद्रं (*iṃdraṃ*)—call Indra alone
+- क्षियंतः (*kṣiyaṃtaḥ*)—those who dwell in the house
+- इंद्रं (*iṃdraṃ*)—call Indra alone
+- उत (*uta*)—and
+- युध्यमानाः (*yudhyamānāḥ*)—those who fight with enemies
+- वाजयंतः (*vājayaṃtaḥ*)—and those who desire food
+- नरः (*naraḥ*)—men
+- इंद्रं (*iṃdraṃ*)—call on Indra alone, desiring him
+
+##### भावार्थ (Bhāvārtha)
+
+The exalted and the lowly pray to Indra and call him for help. Those belonging to the middle class too look to his help alone. All mankind, those who set out to accomplish an undertaking, those who sit, those who dwell at home, those who fight with enemies, and those who desire food, look to Indra's help alone and call on him in prayer.
+
+##### English translation (H. H. Wilson)
+The most exalted, the most humble, (invoke) Indra; the middle (classes) invoke Indra ; those going, those stopping, (invoke) Indra ; those dwelling at home, those going to battle, (invoke) Indra ; men needing food invoke Indra.
+
+## Sūkta 26 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं मनुरिति सप्तर्चं पंचमं सूक्तं वामदेवस्यार्षं । अत्रेयमनुक्रमणिका। अहं मनुः सप्ताद्याभिस्ति सृभिरिंद्रमिवात्मानमृषिस्तुष्टावेंद्रो वात्मानं
+> परा नवाष्टौ वा श्येनस्तुतिरिति । अत्राहं मनुरित्याद्याभिस्ति सृभिरात्मानमिंद्ररूपेण
+
+##### Gist of the bhāṣya
+
+"Ahaṃ manuḥ" is a hymn of seven Ṛks, the fifth hymn, seer Vāmadeva. Sāyaṇa quotes the Anukramaṇikā: *iṃdramivātmānamṛṣistuṣṭāveṃdro vātmānaṃ parā navāṣṭau vā śyenastutiḥ*. In the first three Ṛks beginning "ahaṃ manuḥ" Vāmadeva praised himself in the form of Indra; or else Indra himself praised himself. Hence, on the view that the words are Vāmadeva's, the seer is Vāmadeva and the deity Indra; on the view that they are Indra's, the seer is Indra and the deity the Supreme Self (Paramātman). The metre is Triṣṭubh. For the remaining Ṛks the seer is Vāmadeva. Since in the remaining Ṛks and in the next hymn Brahman, in the form of the Suparṇa, is praised, their deity is Parabrahman. This hymn is used at the Marutvatīya śastra in the midday pressing (Mādhyandina savana) of the one-day sacrifice called Śyena. It is prescribed in the sūtra श्येनाजिराभ्यामभिचरन्यजीताहं मनुर्गर्भे नु सन् (*śyenājirābhyāmabhicaranyajītāhaṃ manurgarbhe nu san*) (Ā. 9-7).
+
+##### Anuvāda
+
+"Ahaṃ manuḥ" is the fifth hymn in the third anuvāka. It has seven Ṛks. Vāmadeva is the seer of this hymn. As the Anukramaṇikā says, *iṃdramivāsthānamṛṣistuṣṭāveṃdro vātmānaṃ parā navāṣṭau vā śainastutiḥ* **NOTE**: with the three Ṛks beginning "ahaṃ manuḥ" the seer Vāmadeva praises himself in the form of Indra. Or it may be said that Indra himself has praised himself. Therefore on the view that the words are Vāmadeva's, it must be said that Vāmadeva is the seer of this hymn and Indra the deity; on the view that the words are Indra's, for the three Ṛks of this hymn Indra is the seer and the Supreme Self the deity. The metre is Triṣṭubh. For the remaining Ṛks, that is Ṛks 4–7, Vāmadeva is the seer. For these Ṛks 4–7 and the Ṛks of the next hymn, since in them Brahman, who is of the nature of the Suparṇa, is praised, Parabrahman is the deity. The employment (viniyoga) of this hymn is for the recitation of the Marutvatīya śastra at the midday pressing of the one-day sacrifice called Śyena, as set out in the Āśvalāyana Śrauta Sūtra by the sūtra शैनाजिराभ्यामभिचरन्यजीताहं मनुर्गर्भे नु सन् (*śainājirābhyāmabhicaranyajītāhaṃ manurgarbhe nu san*) (Ā. 9-7) **NOTE**.
+
+### Printed p. 166
+Hymn—26.
+Maṇḍala 4. Anuvāka 3. Hymn 26. Aṣṭaka 3. Adhyāya 6. Varga 15.
+Number of Ṛks in the hymn: 7 **NOTE**.
+Seer: 1–3 Vāmadeva or Indra; 4–7 Vāmadeva.
+Deity: 1–3 Indra, or the Self; 4–7 Śyena **NOTE**.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवता । त्रिष्टुप् छंदः । अवशिष्टानां वामदेव ऋषिः । अवशिष्टाभिरुत्तरसूक्तेन च
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माध्यंदिनसवने मरुत्वतीयशस्त्र इदं सूक्तं । सूत्रितं च । श्येनाजिराभ्यामभिचरन्यजीताहं मनुर्गर्भे नु सन् । आ. ९-७ । इति ॥
+
+### Printed p. 167
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं मनुरभवं सूर्यश्चाहं कक्षीवा ऋषिरस्मि विप्रः ।
+> अहं कुत्समार्जुनेयं नृंजेऽहं कविरुशना पश्यता मा ॥
+
+> *ahaṃ manurabhavaṃ sūryaścāhaṃ kakṣīvā ṛṣirasmi vipraḥ |*
+> *ahaṃ kutsamārjuneyaṃ nṛṃje 'haṃ kaviruśanā paśyatā mā ‖*
+
+**NOTE**
+
+> अहं । मनुः । अभवं । सूर्यः । च । अहं । कक्षीवान् । ऋषिः । अस्मि । विप्रः ।
+> अहं । कुत्सं । अर्जुनेयं । नि । ऋंजे । अहं । कविः । उशना । पश्यत । मा ॥ १॥
+
+> *ahaṃ | manuḥ | abhavaṃ | sūryaḥ | ca | ahaṃ | kakṣīvān | ṛṣiḥ | asmi | vipraḥ |*
+> *ahaṃ | kutsaṃ | arjuneyaṃ | ni | ṛṃje | ahaṃ | kaviḥ | uśanā | paśyata | mā ‖ 1‖*
+
+**NOTE**
+
+> इदमादिमंत्रत्रयेण गर्भे वसन्वामदेव उत्पन्नतत्त्वज्ञानः सन्
+> सार्वात्मं स्वानुभवं मन्वादिरूपेण प्रदर्शयन्नाह । अहं वामदेव इंद्रो वा
+> मनुरभवं । सर्वस्य मंता प्रजापतिरस्मि । अहमेव सूर्यश्च सर्वस्य प्रेरकः सविता
+> चास्मि । विप्रो मेधावी कक्षीवान् दीर्घतमसः पुत्र एतत्संज्ञक ऋषिरप्यहमेवास्मि ।
+> अर्जुनेयमर्जुन्याः पुत्रं कुत्समेतन्नामकमृषिमहमेव न्यंजे । नितरां
+> प्रसाधयामि । कविः क्रांतदर्श्युशनैतदाख्य ऋषिरहमेवास्मि । उक्तमुपलक्षणं ।
+> परमार्थदृष्ट्या कृत्समष्यहमेवास्मीत्यर्थः । हे जना मा मां सर्वात्मकं
+> पश्यत । यूयमप्येवमेव सस्वरूपमनुभवतेत्युक्तं भवति ॥
+
+##### Gist of the bhāṣya
+
+With these first three mantras Vāmadeva, while still in the womb, having attained knowledge of the truth, declares his experience of being the Self of all, showing it in the forms of Manu and others. "I, Vāmadeva, or Indra, became Manu", the thinker of all, the Prajāpati. I am also Sūrya, the impeller of all, Savitṛ. "Vipra", the wise, "Kakṣīvān", the son of Dīrghatamas, the seer of that name, I too am. "Ārjuneya", Kutsa, son of Arjunī, the seer of that name, I alone "nṛñje", I adorn exceedingly. "Kavi", the far-seeing seer called Uśanā, I alone am. What is said is an indication: from the standpoint of the highest truth I am Kutsa too. "O people, behold me", the one who is all. It is implied that you also should experience your own nature in just this way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, who am renowned as Vāmadeva
+- मनुः अभवं (*manuḥ abhavaṃ*)—have become the Prajāpati who knows everything
+- अहं (*ahaṃ*)—I myself
+- सूर्यश्च (*sūryaśca*)—am also Sūrya, the impeller of the world
+- विप्रः (*vipraḥ*)—the wise
+- कक्षीवान् (*kakṣīvān*)—and the one named Kakṣīvān
+- ऋषिः अस्मि (*ṛṣiḥ asmi*)—the seer too am I
+- आर्जुनेयं (*ārjuneyaṃ*)—the son of Ārjuni
+- कुत्सं (*kutsaṃ*)—Kutsa
+- अहं (*ahaṃ*)—I myself
+- न्यृंजे (*nyṛṃje*)—favour exceedingly
+- कविः (*kaviḥ*)—the far-seeing
+- उशना (*uśanā*)—seer named Uśanas
+- अहं (*ahaṃ*)—I myself am
+- मा (*mā*)—me alone (as one who pervades all and is the Self of all) (O mankind)
+- पश्यत (*paśyata*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+I, renowned by the name Vāmadeva, am the Prajāpati who knows everything. I am also Sūrya, the impeller of the world. I am also the wise seer named Kakṣīvān. I am the one who favoured Kutsa, son of Arjuni. I am also the far-seeing seer Uśanas. O mankind, know me alone as the all-pervading one, the Self of all.
+
+##### English translation (H. H. Wilson)
+I have been Manu and Surya : I am the wise Rishi, Kakshivath ; I have befriended Kutsa, the son of Arjuni: I am the far-seeing Ushanas ; so behold me.
+
+##### विशेषविषयगळु (Special Topics)
+
+Kakṣīvān—उशिजः पुत्रः कक्षीवानहं (*uśijaḥ putraḥ kakṣīvānahaṃ*): "I, the son of Uśij and named Kakṣīvān": thus the seer of this hymn speaks of himself. On the authority of the Bṛhaddevatā it is understood that he was born of the seer Dīrghatamas in the woman named Uśij.
+
 ---
 
-**Progress note:** Done through printed p. 161. pp. 156-161 (batch API)
+**Progress note:** Done through printed p. 167. pp. 162-167 (batch API)
