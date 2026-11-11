@@ -16980,6 +16980,121 @@ The wife of Purukutsa propitiated you two, Indra and Varuna, with oblations and 
 > *rāyā | vayaṃ | sasavāṃsaḥ | madema | havyena | devāḥ | yavasena | gāvaḥ |*  
 > *tāṃ | dhenuṃ | iṃdrāvaruṇā | yuvaṃ | naḥ | viśvāhā | dhattaṃ | anapasphuraṃtī ‖ 10 ‖*
 
+### Printed p. 433
+
+> राया धनेन मदेम ससवांसो युवां संभक्तारो वयं । हव्येन देवा
+> मोदंतु यवसेन च गावः । तां धेनुं प्रीणयित्रीं रयिं हे इंद्रावरुणौ
+> विश्वाहा विश्वस्य हंतारौ यःवं युवां नोऽस्माकं धत्तं। दत्तं । कीदृशीं । अनपस्सुरंतीमनवहिंसितां । यद्वा । विश्वाहेत्यव्ययं । सर्वदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses: with wealth (राया (*rāyā*)) may we revel, we who are sharers in you both (संभक्तारो (*saṃbhaktāro*)). May the gods rejoice with the oblation, and the cows with pasture (यवसेन (*yavasena*)). O Indra and Varuṇa, "all-day" ones, that is, destroyers of everything (विश्वस्य हंतारौ (*viśvasya haṃtārau*)): give us that same milch cow, meaning the wealth that gratifies. What kind of cow? अनपस्फुरंतीं— (*anapasphuraṃtīṃ—*), one that is unharmed. Or else: विश्वाह (*viśvāha*) is an indeclinable meaning "always".**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- ससवांसः (*sasavāṃsaḥ*)—your worshippers
+- वयं (*vayaṃ*)—we
+- राया (*rāyā*)—with wealth
+- मदेम (*madema*)—may we be delighted
+- हव्येन (*havyena*)—with the oblation
+- देवाः (*devāḥ*)—the gods
+- यवसेन (*yavasena*)—with pastures
+- गावः (*gāvaḥ*)—the cows (may be satisfied) (O Indra and Varuṇa)
+- युवं (*yuvaṃ*)—you
+- नः (*naḥ*)—to us
+- विश्वाहा (*viśvāhā*)—every day
+- अनपस्फुरंतीं (*anapasphuraṃtīṃ*)—faultless
+- तां (*tāṃ*)—that well-known
+- धेनुं (*dhenuṃ*)—gratifying wealth
+- दत्तं (*dattaṃ*)—bestow graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, may we, your worshippers, be delighted with wealth. May the gods be satisfied with the oblation and the cows with pastures. O Indra and Varuṇa, bestow on us every day that faultless, well-known, gratifying wealth.
+
+##### English translation (H. H. Wilson)
+May we, glorifying you both, be delighted by riches; may the gods be pleased by oblations, the cows by pasture: and Indra and Varuna, daily grant us that same milch cow, (riches), free from any imperfection.
+
+## Sūkta 43 (Maṇḍala 4)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction to the forty-third sūkta. The seers of this sūkta and of the next are Purumāḷa and Ajamīḷa, sons of Suhotra. Purumīḷa is known in some places as an ancient seer and in others as a king. His story is told in the Bṛhaddevatā as follows. Although the story there is chiefly about Śyāvāśva, it tells of the connection that arose between Śyāvāśva and Purumīḷa; therefore the story as told by the author of the Bṛhaddevatā is given here.
+
+### Printed p. 434
+
+##### विशेषविषयगळु (Special Topics)
+
+(Verses of the Bṛhaddevatā:)
+राजर्षिरभवद्दार्भ्यो (*rājarṣirabhavaddārbhyo*) … दीप्ततेजसं (*dīptatejasaṃ*) **NOTE**
+
+### Printed p. 435
+
+##### विशेषविषयगळु (Special Topics)
+
+श्वावाश्वस्य व नस्यासीन्मंत्र स्यादर्शनादहं न लब्धवानहं कन्यां हंत सर्वांगशोभनां । अप्यहं मंत्रदर्शि स्यां भवेद्वर्षो महान्मम ॥ इत्यरण्ये चिंतयतः प्रादुरासीन्मरुद्दणः । ददर्श संस्थिन्नार्श्वे तुल रूपानिवात्मनः ॥ समानवयसश्चैव मरुतो रुक्मवक्षसः । तांस्तुल्यवयसो दृष्ट्वा देवान्पुरुषविग्रहान् ॥ श्यावाश्वो विस्मितोऽपृच्छत्के स्थिति मरुतस्तदा । ततस्तु मरुतो देवान् रुद्रसूनूनबुध्यत ॥ य ईं वहंत इत्याभिर्भुद्ध्वा तुष्टाव तांस्तथा । अतिक्रमं हि तं मेने ऋषिर्विपुलमात्मनः ॥ रथवीतेर्दुहितरमगच्छन्मनसा तदा । स सद्म ऋषीरात्मानं प्रवक्ष्यन् रथवीतये ॥ आदाय कन्यां तां दार्भ्य उपेयायार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस च । मया संगतिमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत् क्षमस्व नमस्तेऽस्तु मा च मे भगवन्नृधः । ऋषेः पुत्रः स्वयमृषिः पितासि भगवन्नृषेः ॥ हंत प्रतिगृहाणेमां स्नुषामित्येवमब्रवीत् । पाद्यार्थ्यमधुपर्कैश्च पूजयित्वा स्वयं नृपः ॥ शुक्लमश्वशतं दत्वा अनुजज्ञॆ गृहान्प्रति । शशीयसीं तरंतं च पुरुमीळं च पार्थिवं ॥ षड्भिः सनदिति स्तुत्वा जगामर्षिरपि क्षयं । (*śvāvāśvasya va nasyāsīnmaṃtra syādarśanādahaṃ na labdhavānahaṃ kanyāṃ haṃta sarvāṃgaśobhanāṃ | apyahaṃ maṃtradarśi syāṃ bhavedvarṣo mahānmama ‖ ityaraṇye ciṃtayataḥ prādurāsīnmaruddaṇaḥ | dadarśa saṃsthinnārśve tula rūpānivātmanaḥ ‖ samānavayasaścaiva maruto rukmavakṣasaḥ | tāṃstulyavayaso dṛṣṭvā devānpuruṣavigrahān ‖ śyāvāśvo vismito 'pṛcchatke sthiti marutastadā | tatastu maruto devān rudrasūnūnabudhyata ‖ ya īṃ vahaṃta ityābhirbhuddhvā tuṣṭāva tāṃstathā | atikramaṃ hi taṃ mene ṛṣirvipulamātmanaḥ ‖ rathavīterduhitaramagacchanmanasā tadā | sa sadma ṛṣīrātmānaṃ pravakṣyan rathavītaye ‖ ādāya kanyāṃ tāṃ dārbhya upeyāyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖ rathavītirahaṃ dārbhya iti nāma śaśaṃsa ca | mayā saṃgatimicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tat kṣamasva namaste 'stu mā ca me bhagavannṛdhaḥ | ṛṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavannṛṣeḥ ‖ haṃta pratigṛhāṇemāṃ snuṣāmityevamabravīt | pādyārthyamadhuparkaiśca pūjayitvā svayaṃ nṛpaḥ ‖ śuklamaśvaśataṃ datvā anujajñè gṛhānprati | śaśīyasīṃ taraṃtaṃ ca purumīḷaṃ ca pārthivaṃ ‖ ṣaḍbhiḥ sanaditi stutvā jagāmarṣirapi kṣayaṃ |*) (Bṛ. De. 5-50 to 80)
+
+The royal seer Rathavīti Dārbhya, wishing to perform a sacrifice, went to the seer Atri, honoured him, and prayed that his son Arcanānas accept the priesthood at his sacrifice and help him perform it. He agreed, went with his son Śyāvāśva to the king's house for the sacrificial work, and carried out the sacrifice. While the sacrifice was in progress
+
+### Printed p. 436
+
+##### विशेषविषयगळु (Special Topics)
+
+Arcanānas saw the king's daughter, was attracted, and wished to have her married to Śyāvāśva. Śyāvāśva too was infatuated with her. When father and son made their wish known to the king, he too agreed to the connection, but said he would answer after asking his wife; his wife did not consent. She declared that Śyāvāśva was not a seer, and that it was not acceptable to give their daughter, born in a line of seers, to one who is not a seer. In the same way the king too gave his answer to the two, and they returned to their town. But Śyāvāśva remained with his mind fixed on the king's daughter. On the way back they met Śaśīyasa, Tarantā and the king Purumīḷa. Tarantā and Purumīḷa were both sons of the king Vidadaśva and were seers in their own right. Both of them bowed to the two guests, father and son, honoured and worshipped them. Then the women of the inner apartments also honoured them with gifts such as cows and horses. Śyāvāśva, grieving that he had not obtained the beautiful woman, was wandering in the forest when he met the host of the Maruts. Recognising them as the sons of Rudra, partaking of the divine, he praised them, and became the seer of the sūkta के ष्ठा नरः (*ke ṣṭhā naraḥ*) (5-6-1).**NOTE**
+Learning this, Rathavīti, son of Darbha, brought his daughter and begged forgiveness for having earlier refused to give her; since Śyāvāśva was now a seer and fit to receive his daughter, he prayed that he accept her. When Śyāvāśva and his father agreed, he gave away the maiden with the offering of arghya, pādya and the rest. Then Śyāvāśva, to thank Purumīḷa and the others for the help they had given him, saluted them and composed six Ṛks praising them. Among them the Ṛk
+उत मेऽरपद्युवतिर्ममंदुषी प्रति श्यावाय वर्तनिं । वि रोहिता पुरुमीळ्हाय येमतुर्विप्राय दीर्घयशसे ॥ (*uta me 'rapadyuvatirmamaṃduṣī prati śyāvāya vartaniṃ | vi rohitā purumīḷhāya yematurviprāya dīrghayaśase ‖*) (Ṛ. Saṃ. 53-61-9)**NOTE**
+is in praise of Purumīḷa.
+In the Ṛk
+युवां गोतमः पुरुमिळ्ळो अत्रिर्दस्रा हवतेवसे हविष्मान् । दिशं न दिष्टामृजूयेव यंता मे हवं नासत्योप यातं ॥ (*yuvāṃ gotamaḥ purumiḷḷo atrirdasrā havatevase haviṣmān | diśaṃ na diṣṭāmṛjūyeva yaṃtā me havaṃ nāsatyopa yātaṃ ‖*) (Ṛ. Saṃ. 1-183-5)
+it is told that Purumīḷa praised the Aśvins and obtained their protection.
+Sāyaṇa has told the same story with slight difference as follows:
+अत्राश्चर्यं पुरावृत्तमाहुरागमपारगाः । अर्चनानाः पुरात्रेयो दार्भ्येण रथवीतिना ॥ (*atrāścaryaṃ purāvṛttamāhurāgamapāragāḥ | arcanānāḥ purātreyo dārbhyeṇa rathavītinā ‖*)
+
+### Printed p. 437
+
+##### विशेषविषयगळु (Special Topics)
+
+आर्त्विज्याय वृतो (*ārtvijyāya vṛto*) … तत्के श्रेत्यत्र वर्ण्यते (*tatke śretyatra varṇyate*) **NOTE**
+(Introduction to Sāyaṇa's bhāṣya on the 61st sūkta of the 5th Maṇḍala.)
+Although the narration is the same as that in the Bṛhaddevatā, the special point is that Śyāvāśva went begging to the wife of Tarantā. This story chiefly concerns Śyāvāśva
+
+### Printed p. 438
+
+##### विशेषविषयगळु (Special Topics)
+
+but, since it tells of the help Purumīḷa gave Śyāvāśva and of his wish being fulfilled through that help, it also gives the occasion for praising Purumīḷa's greatness. The Ṛk in this sūkta (Ṛ. Saṃ. 5-61) in which Śyāvāśva praises Purumīḷa has been cited above.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क उ श्रवदिति सप्तर्चमेकादशं सूक्तं । सुहोत्रपुत्रौ पुरुमिाह्वाजमीह्वावृषी । त्रिष्टुप् छंदः । अश्विनौ देवता । आत्रानुक्रमणिका । क उ श्रवत्सप्त
+> पुरुमिाह्वाजमीह्वा सौहोत्रौ त्वाश्विनं हि ॥ प्रातरनुवाकाश्विनशस्त्रयोराश्विनेऽक्रतौ
+> त्रैष्टुभे छंदसीदमादिके द्वे सूक्ते । धेनुः प्रत्नस्य क उ श्रवत् । आ. ४-१५ । इति
+> सूत्रितत्वात् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning क उ श्रवत् (*ka u śravat*) has seven Ṛks and is the eleventh sūkta. Its seers are the two sons of Suhotra, Purumīḷha and Ajamīḷha; the metre is Triṣṭubh; the deity is the Aśvins; the Ātrānukramaṇikā is cited for this. In the Prātaranuvāka and the Āśvina-śastra, in the Āśvina-kratu, this and the next sūkta are used for the Triṣṭubh Ṛks, since it is prescribed by the sūtra धेनुः प्रत्नस्य क उ श्रवत् (*dhenuḥ pratnasya ka u śravat*) (Ā. 4-15).
+
+##### भावार्थ (Bhāvārtha)
+
+Anuvāda: this sūkta, क उ श्रवत् (*ka u śravat*), is the eleventh sūkta in the fourth anuvāka. It has seven Ṛks. Its seers are Purumāḷha and Ajamāḷha, sons of Suhotra; the deity is the Aśvins; the metre is Triṣṭubh. The Anukramaṇikā says: क उ श्रवत्सप्त पुरुमाळ्हा जमाळ्हा सौहोत्रा त्वाश्विनं हि (*ka u śravatsapta purumāḷhā jamāḷhā sauhotrā tvāśvinaṃ hi*). At the recitation of the Prātaranuvāka and Āśvina-śastra mantras, this and the next sūkta are applied for the Triṣṭubh Ṛks belonging to the Āśvina-kratu, as explained by the Āśvalāyana Śrauta Sūtra, धेनुः प्रश्नस्य क उ श्रवत् (*dhenuḥ praśnasya ka u śravat*) (Ā. 4-15).
+Sūkta 43. Maṇḍala 4; Anuvāka 4; Sūkta 43. Aṣṭaka 3; Adhyāya 7; Varga 19. Number of Ṛks in the sūkta: 7. Seers: Purumīḷa and Ajamīḷa, sons of Suhotra. Deity: the Aśvins. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क उ॑ श्रवत्कृत॒मो य॒ज्ञिया॑नां वं॒दारु॑ दे॒वः क॑त॒मो  ॑
+> जुषाते ॥  
+> कस्ये॒मां दे॒वीम॒मृते॑षु॒ प्रेष्ठां॑ हृ॒दि श्रे॑षाम सुष्टु॒तिं  ॒॑
+> सुहव्यां ॥ १ ॥
+
+> *ka u śravatkṛtamo yajñiyānāṃ vaṃdāru devaḥ katamo*  
+> *juṣāte ‖*  
+> *kasyemāṃ devīmamṛteṣu preṣṭhāṃ hṛdi śreṣāma suṣṭutiṃ*  
+> *suhavyāṃ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
+**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
