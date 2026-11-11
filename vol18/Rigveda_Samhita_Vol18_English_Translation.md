@@ -1999,6 +1999,258 @@ Third Ṛk:
 पिबा सुतस्य रसिनो मत्सा न इंद्र गोमतः । आपिर्नो बोधि सधमाद्यो वृधे ३ ऽस्मा अवंतु ते धियः ॥ (*pibā sutasya rasino matsā na iṃdra gomataḥ | āpirno bodhi sadhamādyo vṛdhe 3 'smā avaṃtu te dhiyaḥ ‖*)
 (Ṛ. Saṃ. 8-3-1; Sāma. 239, 1421)
 
+### Printed p. 61
+
+(5) The Nivid sūkta. Ṛ. Saṃ. 1-32-1 to 15:
+
+1. इंद्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री । अहन्न हिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानां ॥ (*iṃdrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | ahanna himanvapastatarda pra vakṣaṇā abhinatparvatānāṃ ‖*)
+2. अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष । वाश्रा इव धेनवः स्यंदमाना अंजः समुद्रमव जग्मुरापः ॥ (*ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa | vāśrā iva dhenavaḥ syaṃdamānā aṃjaḥ samudramava jagmurāpaḥ ‖*)
+3. वृषायमाणोऽवृणीत सोमं त्रिकद्रुकेष्टपिबत्सुतस्य । आ सायकं मघवा दत्त वज्रमहन्नेनं प्रथमजामहीनां ॥ (*vṛṣāyamāṇo 'vṛṇīta somaṃ trikadrukeṣṭapibatsutasya | ā sāyakaṃ maghavā datta vajramahannenaṃ prathamajāmahīnāṃ ‖*)
+4. यदिंद्राहन्प्रथमजामहीनामान्मयिनाममिनाः प्रोत मायाः । आत्सूर्यं जनयन्द्या मुषासं तादीत्ना शत्रुं न किला विवित्स (*yadiṃdrāhanprathamajāmahīnāmānmayināmamināḥ prota māyāḥ | ātsūryaṃ janayandyā muṣāsaṃ tādītnā śatruṃ na kilā vivitsa*)
+5. अहन्वृत्तं वृत्रतरं व्यंसमिंद्रो वज्रेण महता वधेन । स्कंधांसीव कुलिशेना विवृक्काहिः शयत उपपृक् पृथिव्याः ॥ (*ahanvṛttaṃ vṛtrataraṃ vyaṃsamiṃdro vajreṇa mahatā vadhena | skaṃdhāṃsīva kuliśenā vivṛkkāhiḥ śayata upapṛk pṛthivyāḥ ‖*)
+6. अयोद्देव दुर्मद आ हि जुह्वे महावीरं तुविबाधमृजेषं । नातारीदस्य सम्मतिं वधानां सं रुजानाः पिपिष इंद्रशत्रुः ॥ (*ayoddeva durmada ā hi juhve mahāvīraṃ tuvibādhamṛjeṣaṃ | nātārīdasya sammatiṃ vadhānāṃ saṃ rujānāḥ pipiṣa iṃdraśatruḥ ‖*)
+7. ६ ॥ अपादहस्तो अपृतन्यदिंद्रमास्य वज्रमधि सान् जघान । वृष्णो वध्रिः प्रतिमानं बुभूषन् पुरुत्रा वृत्तो अशयद्व्यस्तः ॥ (*6 ‖ apādahasto apṛtanyadiṃdramāsya vajramadhi sān jaghāna | vṛṣṇo vadhriḥ pratimānaṃ bubhūṣan purutrā vṛtto aśayadvyastaḥ ‖*)
+8. नदं न भिन्नममुया शयानं मनोरुहाणा अति यंत्यापः । याश्चिद्धृत्रो महिना पर्यतिष्ठत्तासामहिः पत्तुतःशीर्बभूव ॥ (*nadaṃ na bhinnamamuyā śayānaṃ manoruhāṇā ati yaṃtyāpaḥ | yāściddhṛtro mahinā paryatiṣṭhattāsāmahiḥ pattutaḥśīrbabhūva ‖*)
+
+(Between 8 and 9 the print gives this passage:) इंद्रो देवः सोमं पिबतु । एकजानां वीरतमः । भूरिदानां तवस्तमः । हर्यो स्थाता । पृश्नेः प्रेता । वज्रस्य भर्ता । पुरां भेत्ता । पुरां दर्मा । अपां स्रष्टा । अपां नेता । सत्वनां नेता । निजघ्नि दूर्रे श्रवाः । उपमातिकृद्दंसनावान् । इहोशं देवो बभूवान् । इंद्रो देव इह श्रवदिह सोमस्य पिबतु । प्रेमां देवो देवहूतिमवतु देव्या धिया । प्रेदं ब्रह्म प्रेदं क्षत्रं । प्रेदं सुन्वंतं यजमानं अवतु । चित्रश्चित्ताभिरूतिभिः । श्रवद्ब्रह्माण्यावसागमत् ॥ (*iṃdro devaḥ somaṃ pibatu | ekajānāṃ vīratamaḥ | bhūridānāṃ tavastamaḥ | haryo sthātā | pṛśneḥ pretā | vajrasya bhartā | purāṃ bhettā | purāṃ darmā | apāṃ sraṣṭā | apāṃ netā | satvanāṃ netā | nijaghni dūrre śravāḥ | upamātikṛddaṃsanāvān | ihośaṃ devo babhūvān | iṃdro deva iha śravadiha somasya pibatu | premāṃ devo devahūtimavatu devyā dhiyā | predaṃ brahma predaṃ kṣatraṃ | predaṃ sunvaṃtaṃ yajamānaṃ avatu | citraścittābhirūtibhiḥ | śravadbrahmāṇyāvasāgamat ‖*)
+
+9. नीचावया अभवद्वृत्रपुत्रेंद्रो अस्या अव वधर्जभार । उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः ॥ (*nīcāvayā abhavadvṛtraputreṃdro asyā ava vadharjabhāra | uttarā sūradharaḥ putra āsīddānuḥ śaye sahavatsā na dhenuḥ ‖*)
+10. अतिष्ठंतीनामनिवेशनानां काष्ठानां मध्यॆ निहितं शरीरं । वृत्रस्य निण्यं वि चरंत्यापो दीर्घं तम आशयदिंद्रशत्रुः ॥ (*atiṣṭhaṃtīnāmaniveśanānāṃ kāṣṭhānāṃ madhyè nihitaṃ śarīraṃ | vṛtrasya niṇyaṃ vi caraṃtyāpo dīrghaṃ tama āśayadiṃdraśatruḥ ‖*)
+
+### Printed p. 62
+
+11. दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः । अपां बिलमपिहितं यदासीद्वृत्रं जघन्वा अप तद्ववार ॥ (*dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ | apāṃ bilamapihitaṃ yadāsīdvṛtraṃ jaghanvā apa tadvavāra ‖*)
+12. अश्वो वारो अभवस्तदिंद्र सृके यत्त्वा प्रत्यहन् देव एकः । अजयो गा अजयः शूर सोममवासृजः सर्तवे सप्त सिंधून् ॥ (*aśvo vāro abhavastadiṃdra sṛke yattvā pratyahan deva ekaḥ | ajayo gā ajayaḥ śūra somamavāsṛjaḥ sartave sapta siṃdhūn ‖*)
+13. नास्मै विद्युन्न तन्यतुः सिषेध न यां मिहमकिरद्धादुनिं च । इंद्रश्च यद्युयुधाते अहिश्चोतापरिभ्यो मघवा वि जिग्ये ॥ (*nāsmai vidyunna tanyatuḥ siṣedha na yāṃ mihamakiraddhāduniṃ ca | iṃdraśca yadyuyudhāte ahiścotāparibhyo maghavā vi jigye ‖*)
+14. अहेर्यातारं कमपश्य इंद्र हृदि यत्ते जघ्नुषो भीरगच्छत् । नव च यन्नवतिं च स्रवंतीः श्येनो न भीतो अतरो रजांसि ॥ (*aheryātāraṃ kamapaśya iṃdra hṛdi yatte jaghnuṣo bhīragacchat | nava ca yannavatiṃ ca sravaṃtīḥ śyeno na bhīto ataro rajāṃsi ‖*)
+15. इंद्रो यातोऽवसितस्य राजा शमस्य च शृंगिणो वज्रबाहुः । सेदु राजा क्षयति चर्षणीनामरान्न नेमिः परि ता बभूव ॥ (*iṃdro yāto 'vasitasya rājā śamasya ca śṛṃgiṇo vajrabāhuḥ | sedu rājā kṣayati carṣaṇīnāmarānna nemiḥ pari tā babhūva ‖*)
+
+(Ṛ. Saṃ. 1-32-1 to 15)
+
+The man who knows the order of division of the parts of such Sāma-śastra mantras will live in an excellent house in this world and in the next, endowed with cattle, sons and the like.
+
+**Divisions and special intonations of the Niṣkevalya-śastra**
+(The Stotriya, Anurūpa, Dhāyyā, Sāmapragātha and Nivid-dhānīya sūktas of the Niṣkevalya-śastra)
+
+It has been said earlier that the Niṣkevalya-śastra has five divisions. Of these, the first, the Stotriya, is now explained.
+
+स्तोत्रियं शंसत्यात्मा वै स्तोत्रियः तं मध्यमया वाचा शंसत्यात्मानमेव तत्संकुरुते । (*stotriyaṃ śaṃsatyātmā vai stotriyaḥ taṃ madhyamayā vācā śaṃsatyātmānameva tatsaṃkurute |*)
+
+As said before, the Stotriya mantras, namely the mantras beginning अभि त्वा शूर नोनु मः (*abhi tvā śūra nonu maḥ*), are recited and sung at the beginning of the Niṣkevalya-śastra by the Sāma singers. It has already been said that this mantra has the nature of the householder. It should not be recited too loudly nor too softly; it should be recited in a moderate, ordinary voice, midway between the two. That is, it should be audible to those within the sacrificial ground and not to those beyond it. The mantra is the very self of the sacrificer; by reciting it in this way the sacrificer, as it were, purifies his own self.
+
+अनुरूपं शंसति प्रजा वा अनुरूपः स उच्चैस्तरामिवानुरूपः शंस्तव्यः प्रजामेव तच्छ्रेयमात्मनः कुरुते । (*anurūpaṃ śaṃsati prajā vā anurūpaḥ sa uccaistarāmivānurūpaḥ śaṃstavyaḥ prajāmeva tacchreyamātmanaḥ kurute |*)
+
+### Printed p. 63
+
+A mantra similar to the Stotriya mantra is called Anurūpa. Here the Anurūpa mantras are the ṛks अभित्वा पूर्वपीतये (*abhitvā pūrvapītaye*) and इंद्र स्तोमेभिरायवः (*iṃdra stomebhirāyavaḥ*). These are the Pragātha mantra. Since these two ṛks have the same metre and deities as the ṛks of the Stotriya mantra, they are of the same metre and the same deity; for that very reason they are called Anurūpa mantras. As father and son resemble one another, the Anurūpa mantra is said to stand in the place of the son. This mantra should be uttered in a voice louder, that is firmer, than that in which the Stotriya mantra is recited. If this is done, it is as though one gains superiority (greater excellence) in one's sons over oneself.
+
+धाय्यां शंसति पत्नि वै धाय्या सा नीचैस्तरामिव धाय्या शंस्तव्या । (*dhāyyāṃ śaṃsati patni vai dhāyyā sā nīcaistarāmiva dhāyyā śaṃstavyā |*)
+
+The Dhāyyā mantra यद्वाना न (*yadvānā na*) is said to stand in the place of the wife. This mantra should be recited in a low voice, that is in a very soft voice.
+
+अप्रतिवादिनी हास्य गृहेषु पत्नि भवति यत्रैवं विद्वान्नीचैस्तरां धाय्यां शंसति । (*aprativādinī hāsya gṛheṣu patni bhavati yatraivaṃ vidvānnīcaistarāṃ dhāyyāṃ śaṃsati |*)
+
+The wife does not contradict her husband, that is, without saying anything in reply she does the work of the house as he wishes and is obedient to him. To make this obedience plain, the learned man should recite this Dhāyyā mantra, which stands in the place of the wife, very softly.
+
+प्रगाथं शंसति स स्वरवत्या वाचा शंस्तव्यः पशवो वै स्वरः पशवः प्रगाथः पशूनामवरुध्यै । (*pragāthaṃ śaṃsati sa svaravatyā vācā śaṃstavyaḥ paśavo vai svaraḥ paśavaḥ pragāthaḥ paśūnāmavarudhyai |*)
+
+The Pragātha mantra should be uttered with intonation. It has been said already that the Pragātha mantra provides wealth in cattle. Intonations and cattle are connected: it is said चतुष्पादः पशवः (*catuṣpādaḥ paśavaḥ*), that cattle are four-footed. The intonations too are of four kinds: anudātta, the non-anudātta, udātta and svarita. Up to now the śastra mantras have been recited in a single pitch (a level tone without intonation); now only the Pragātha mantra is recited with the four intonations.
+
+इंद्रस्य नु वीर्याणि प्रवोचमिति सूक्तं शंसति तद्वा एतत्रियमिंद्रस्य निष्केवल्यं हैरण्यस्तूपमेतेन वै सूक्तेन हिरण्यस्तूप आंगिरस इंद्रस्य प्रियं धामोपागच्छत्स परमं लोकमजयत् । (*iṃdrasya nu vīryāṇi pravocamiti sūktaṃ śaṃsati tadvā etatriyamiṃdrasya niṣkevalyaṃ hairaṇyastūpametena vai sūktena hiraṇyastūpa āṃgirasa iṃdrasya priyaṃ dhāmopāgacchatsa paramaṃ lokamajayat |*)
+
+Now the recitation of the last division of the Niṣkevalya-śastra mantras is explained: the Nivid-dhānīya sūkta of fifteen ṛks, इंद्रस्य नु वीर्याणि प्रवोचं (*iṃdrasya nu vīryāṇi pravocaṃ*). This sūkta is dear to Indra.
+
+### Printed p. 64
+
+It is called the Niṣkevalya sūkta. Because it was seen by the seer Hiraṇyastūpa, it is also called the Hairaṇyastūpa sūkta. Hiraṇyastūpa, the son of the seer Aṅgiras, praised Indra with this sūkta, reached the excellent place dear to Indra, and afterwards obtained a world still higher than that.
+
+उपेंद्रस्य प्रियं धाम गच्छति जयति परमं लोकं य एवं वेद । (*upeṃdrasya priyaṃ dhāma gacchati jayati paramaṃ lokaṃ ya evaṃ veda |*)
+
+The man who knows this wins, that is obtains, by Indra's favour the supremely excellent world.
+
+गृहा वै प्रतिष्ठा सूक्तं तत्प्रतिष्ठिततमया वाचा शंस्तव्यं तस्माद्यद्यपि दूर इव पशून् लभते गृहानेवैनानाजिगमिषति गृहा हि सशूनां प्रतिष्ठा (*gṛhā vai pratiṣṭhā sūktaṃ tatpratiṣṭhitatamayā vācā śaṃstavyaṃ tasmādyadyapi dūra iva paśūn labhate gṛhānevainānājigamiṣati gṛhā hi saśūnāṃ pratiṣṭhā*)
+
+(Ai. Brā. 12-24)
+
+This Nivid sūkta इंद्रस्य नु वीर्याणि प्रवोचं (*iṃdrasya nu vīryāṇi pravocaṃ*) is said to stand in the place of the house. The foundation of a house must be firm; therefore, for the house to be firm, this sūkta should be recited slowly, without haste, in a single level tone. A man who sees his cattle grazing far off drives them home as soon as evening comes and ties them in the cowshed in one part of the house. For cattle the cowshed or the house is the secure place. Since this sūkta is said to stand for a house full of cattle-wealth, it is necessary that it be firm; therefore it should be recited slowly and distinctly, without hurry.
+
+Here ends the explanation of the Niṣkevalya-śastra mantras.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदासाः ॥ ११ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | harivaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadāsāḥ ‖ 11 ‖*
+
+### Printed p. 65
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनदीरिव पीपेः ।
+> प्यायय । प्रवृद्धं कुरु । हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो वयं धिया
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्तदर्थं हवीरूपस्यान्नस्य
+> दातारो ना स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who were quickly (नु (*nu*)) praised by the former seers and are now quickly being praised by us, make me, your praiser (जरित्रे (*jaritre*)), swell with food (इषं (*iṣaṃ*), *annaṃ*), as rivers are filled by waters; make me grow. O Indra, owner of the horses called Hari, a newer hymn (ब्रह्म (*brahma*), a stotra) is made by us for you. We, possessed of chariots, serving you at all times with praise in the form of wisdom (धिया (*dhiyā*)), may we be givers of oblation-food for that purpose. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—praised by the former seers
+- नु (*nu*)—with the same devotion
+- गृणानः (*gṛṇānaḥ*)—being praised (by us also)
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with waters
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill and give
+- हरिवः (*harivaḥ*)—O Indra, owner of the horses called Hari
+- ते (*te*)—with you in view
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- आकारि (*ākāri*)—is made
+- रथ्यः (*rathyaḥ*)—we, who have chariots
+- धिया (*dhiyā*)—with praise offered with understanding
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become so
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the former seers and with the same devotion are to be praised by us also, fill and give food to me, the praiser, as rivers are filled with waters. O Indra, owner of the horses called Hari, a new hymn is made with you in view. May we, who have chariots, worship you with praise offered with understanding and become offerers of oblations.
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This ṛk is read as the last ṛk not only in this sūkta but also in sūktas 20 to 24. इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पिपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pipeḥ*)—O Indra, you have been praised in the past by many seers; now you are praised by us. As rain-water fills the rivers and they flow full, fill and give food (food and other nourishment)
+
+### Printed p. 66
+
+to us who praise you; that is, give it as much as we wish.
+
+नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे ( (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe (*) (Ni. 1-4): The particle नु (*nu*) has many meanings. In इदं नु करिष्यति (*idaṃ nu kariṣyati*) the word नु (*nu*) has the sense of a reason, "therefore". In कथं नु करिष्यति (*kathaṃ nu kariṣyati*) the word नु (*nu*) is interrogative, "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate a comparison. For example:
+
+अक्षो न चक्र्योः शूर बृहन्स्र ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhansra te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*)
+(Ṛ. Saṃ. 6-24-3)
+
+The author of the Nirukta quotes this ṛk (Ni. 1-4) and says that वृक्षस्य नु ते (*vṛkṣasya nu te*) means वृक्षस्येव ते (*vṛkṣasyeva te*), "like a tree or like the branches of a tree", so that the word नु (*nu*) is given the sense of comparison. Likewise in ṛks such as
+
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*)
+(Ṛ. Saṃ. 7-100-11)
+
+the word नु (*nu*) has the sense "quickly", "soon"; and in ṛks such as
+
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*)
+(Ṛ. Saṃ. 7-19-11)
+
+नु (*nu*) means "today", "now", "at once"; the Nirukta authors have explained this with examples. In the present ṛk the meaning is "quickly", "swiftly".
+
+जरित्रे (*jaritre*)—The word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19), and there is also the explanation जरिता गरिता (*jaritā garitā*) (Ni. 1-7); so जरित्रे (*jaritre*) here means "to me, who praise".
+
+न (*na*)—The Nirukta authors have stated two kinds of meaning for the word न (*na*):
+
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वधाय्क्यं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्पतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvadhāykyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpatiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4)
+
+### Printed p. 67
+
+That is, the word न (*na*) is used in the sense of negation (the sense "no", "not") in the language of worldly usage, that is, in the modern Sanskrit that is not the language of the Veda. This is known to everyone. But in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? In the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) the word न (*na*) is used in the sense of negation. Negation (pratiṣedha) is not praising a person directly or to his face. In the sentence "Indra is not known as a shining one" the word "not" (the meaning of न (*na*)) indicates a meaning opposed to the figurative statement concerning Indra. This is called the sense of negation. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates comparison (likeness). The meaning of this sentence is "arrogant like people who have drunk liquor". Here, comparison is speaking of the good or bad qualities of one person by likening them to those of another. Those who have drunk liquor lose their wits and behave arrogantly in a base way; "arrogant like those people" is the comparison. In the Vedas such meanings are indicated both by the word न (*na*) and by the word इव (*iva*). The use of the word न (*na*) in the sense of comparison is found only in the Vedas, not in the language in common use; there only the word इव (*iva*) is used instead.
+
+In this ṛk, which forms the conclusion of the sūkta, it is stated that the seer Vāmadeva offered a newly composed hymn to the deity and prayed for the deity's favour.
+
+## Sūkta 21 (Maṇḍala 4)
+
+The twenty-first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ यात्त्विंद्र इत्येकादशर्चमेकादशं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रं । आ यात्वित्यनुक्रांतं ॥ पृष्ठाभिप्लवषडहयोः प्रथमेऽहन्येतन्निविद्धानीयं । सूत्रितं च । आ यात्त्विंद्रोऽवस इति मरुत्वतीयं । आ. ७-५ । इति ॥
+> अनुवादवु—आ यात्त्विंद्र ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि हन्नॊंदनॆय
+> सूक्तवु. इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रनु
+> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि आ यातु ऎंदु मॊदलागि हेळिरुवुदु.
+> पृष्ठ मत्तु अभिप्लवषडहवॆंब यागगळ मॊदलनॆय दिवसदल्लि ई सूक्तवन्नु निविद्धानीयसूक्त
+> वन्नागि पठिसल्पडबेकॆंदु आश्वलायनशौतसूत्रद—आ यात्त्विंद्रोऽवस इति मरुत्वतीयं
+> ऎंब सूत्रदिंद (आ. ७-५) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta आ यात्त्विंद्र (*ā yāttviṃdra*), of eleven ṛks, is the eleventh sūkta; its seer is Vāmadeva, its deity Indra, its metre Triṣṭubh; the Anukramaṇī says आ यातु (*ā yātu*). On the first day of the Pṛṣṭha and Abhiplava ṣaḍahas this is the nivid-dhānīya sūkta. It is laid down in the sūtra आ यात्त्विंद्रोऽवस इति मरुत्वतीयं (*ā yāttviṃdro 'vasa iti marutvatīyaṃ*) (Ā. Sū. 7-5). The Anuvāda adds that this is the eleventh sūkta in the second anuvāka, that it has eleven ṛks, and that the sūtra of the Āśvalāyana-śrauta-sūtra gives the rule for reciting it as the nivid-dhānīya sūkta.
+
+### Printed p. 68
+
+> सूक्त-२१
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—२१ ॥
+> अष्टक—३ ॥ अध्याय—६ ॥ वर्ग—५, ६ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—वामदेवः ।
+> देवता—इंद्रः ।
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यात्विंद्रोऽवस उप न इह स्तुतः सधमादस्तु शूरः ।  
+> वावृधानस्तविषीर्यस्य पूर्वीद्यौर्न क्षत्रमभिभूति पुष्यात्॥१॥
+
+> *ā yātviṃdro 'vasa upa na iha stutaḥ sadhamādastu śūraḥ |*  
+> *vāvṛdhānastaviṣīryasya pūrvīdyaurna kṣatramabhibhūti puṣyāt‖1‖*
+
+#### Ṛk 1 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातु । इंद्रः । अवसे । उप । नः । इह । स्तुतः । सध्मात् । अस्तु । शूरः ।  
+> ववृधानः । शविषीः । यस्य । पूर्वीः । द्यौः । न । क्षत्रं । अभिभूति । पुष्यात् ॥ १ ॥
+
+> *ā | yātu | iṃdraḥ | avase | upa | naḥ | iha | stutaḥ | sadhmāt | astu | śūraḥ |*  
+> *vavṛdhānaḥ | śaviṣīḥ | yasya | pūrvīḥ | dyauḥ | na | kṣatraṃ | abhibhūti | puṣyāt ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो नोऽस्माकमवसे रक्षणायोपा यातु । उपागच्छतु । य इंद्र
+> इहास्मिन्यज्ञे स्तुतः । शूरो विक्रांतो ववृधानः प्रवृद्योऽयमिंद्रः सधमादस्तु ।
+> अस्माभिः सह माद्यन् भवतु । यस्येंद्रस्य तविषीस्तविष्यो बलानि पूर्वीः पूर्व्यो
+> बहूनि । संतीति शेषः । यश्चेंद्रो द्यौर्न द्योतमानः सूर्य इवाभिभूति
+> परकीयं बलमभिभावुकं क्षत्रं स्वकीयं बलं तेजो वा पुष्यात् पुष्यतु ।
+> स इंद्रो उपायात्विति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+May that Indra come to us for protection (अवसे (*avase*)), that is, draw near to us, the Indra who is praised here, in this sacrifice. May this heroic (शूरः (*śūraḥ*), valiant) Indra, who is growing (ववृधानः (*vavṛdhānaḥ*), increasing), be our fellow in rejoicing (सधमात् (*sadhamāt*)): may he rejoice together with us. The Indra whose powers (तविषीः (*taviṣīḥ*), strengths) are many and ancient (पूर्वीः (*pūrvīḥ*))—"they are" is to be supplied—and who, shining like the sun (द्यौर्न (*dyaurna*)), may nourish (पुष्यात् (*puṣyāt*)) his own power or splendour (क्षत्रं (*kṣatraṃ*)), which overcomes (अभिभूति (*abhibhūti*)) that of others. The clause is connected with the earlier *sa iṃdro upāyātu*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- उप आ यातु (*upa ā yātu*)—may he come near us
+- इह (*iha*)—in this sacrifice
+- स्तुतः (*stutaḥ*)—he who is praised
+- शूरः (*śūraḥ*)—the valiant
+- ववृधानः (*vavṛdhānaḥ*)—he who gains increase, Indra
+- सधमात् (*sadhamāt*)—rejoicing together with us
+- अस्तु (*astu*)—may he be
+- यस्य (*yasya*)—of whichever Indra
+- तविषीः (*taviṣīḥ*)—the powers
+- पूर्वीः (*pūrvīḥ*)—many
+
 ---
 
-**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
+**Progress note:** Done through printed p. 68. pp. 61-68 (batch API)
