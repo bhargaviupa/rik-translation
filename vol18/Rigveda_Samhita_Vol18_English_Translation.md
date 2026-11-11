@@ -9436,6 +9436,322 @@ And verily you give promptly abundant wealth to him who praises you and offers y
 > *nahi | sma | te | śataṃ | cana | rādhaḥ | varaṃte | āmuraḥ |*  
 > *na | jñātvāni | kariṣyataḥ ‖ 9 ‖*
 
+### Printed p. 260
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आमुरो बाधका राक्षसादयस्ते त्वदीयं शतं चन शतपरिमितमपि
+> राधो धनं नहि वरंते स्म । न वारयंति खलु । किंच शत्रूणां हिंसनं करिष्यतस्तव
+> च्यात्नानि बलानि न वारयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the Āmuras, that is, obstructing demons and the like, do not obstruct your hundred, meaning hundredfold, wealth (राधः (*rādhaḥ*)). Moreover, they do not hold back your powers (च्यात्नानि (*cyātnāni*)), which work the destruction of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आमुरः (*āmuraḥ*)—the harming demons
+- ते (*te*)—your
+- शतं चन (*śataṃ cana*)—manifold
+- राधः (*rādhaḥ*)—wealth
+- नहि वरंते (*nahi varaṃte*)—surely cannot obstruct (cannot destroy)
+- करिष्यतः (*kariṣyataḥ*)—(of you) who will inflict harm (on enemies)
+- ज्योतिानि (*jyotiāni*)—your powers
+- न (*na*)—surely cannot hold back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the harming demons surely cannot obstruct your manifold wealth, that is, cannot destroy it. Nor can they hold back those powers of yours that bring harm to them.
+
+##### English translation (H. H. Wilson)
+Adversaries diminish not your hundred-fold opulence, nor resist the energies of you opposing (them).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा अ॑वंतु ते श॒तम॒स्मान्त्स॒हस्र॑मू॒तयः॑ ।  
+> अ॒स्मान्विश्वा॑ अ॒भिष्ट॑यः ॥ १० ॥
+
+> *asmā avaṃtu te śatamasmāntsahasramūtayaḥ |*  
+> *asmānviśvā abhiṣṭayaḥ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मान् । अवंतु । ते । शतं । अस्मान् । सहस्रं । ऊतयः ।  
+> अस्मान् । विश्वाः । अभिष्टयः ॥ १० ॥
+
+> *asmān | avaṃtu | te | śataṃ | asmān | sahasraṃ | ūtayaḥ |*  
+> *asmān | viśvāḥ | abhiṣṭayaḥ ‖ 10 ‖*
+
+### Printed p. 261
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयाः शतं शतसंख्याका ऊतयो रक्षा अस्मानवंतु ।
+> रक्षंतु । सहस्रं सहस्र संख्याकास्त्वदीया रक्षा अस्मानवंतु । विश्वाः सर्वाण्यभिष्टयस्त्वदीयान्यभिगमनान्यस्मानवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may your hundred protections protect us; may your thousand protections protect us; may all your approaches (अभिष्टयः (*abhiṣṭayaḥ*)) protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- शतं (*śataṃ*)—hundredfold
+- ऊतयः (*ūtayaḥ*)—protections
+- अस्मान् (*asmān*)—us
+- अवंतु (*avaṃtu*)—may they protect
+- सहस्रं (*sahasraṃ*)—thousandfold protections
+- अस्मान् (*asmān*)—may they protect us
+- विश्वाः (*viśvāḥ*)—all
+- अभिष्टयः (*abhiṣṭayaḥ*)—all your aims
+- अस्मान् (*asmān*)—may they protect us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may your hundreds of protections protect us. Your ways of protecting are still more boundless; may such thousands of protections protect us. May all your aims be protective for us.
+
+##### English translation (H. H. Wilson)
+May your hundred, your thousand, protections preserve us; may all (your) desires (be for our defence).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा इ॒हा वृ॑णीष्व स॒ख्याय॑ स्व॒स्तये॑ ।  
+> म॒हो रा॒ये दि॒वित्म॑त्ते ॥ ११ ॥
+
+> *asmā ihā vṛṇīṣva sakhyāya svastaye |*  
+> *maho rāye divitmatte ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मान् । इह । वृणीष्व । सख्याय । स्वस्तये ।  
+> महः । राये । दिवित्मत्ते ॥ १८ ॥
+
+> *asmān | iha | vṛṇīṣva | sakhyāya | svastaye |*  
+> *mahaḥ | rāye | divitmatte ‖ 18 ‖*
+
+### Printed p. 262
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमिहास्मिन्यज्ञेऽस्मान्यजमानान् सख्याय सखिभावाय स्वस्तयेऽविनाशाय च महो महते दिवित्मते दीप्तिमते राये धनाय च वृणीष्ट ।
+> संभजस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in this sacrifice choose us, the sacrificers, for friendship, for well-being (स्वस्तये (*svastaye*), that is, freedom from destruction), and for great, radiant wealth. Associate us with these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इह (*iha*)—in this sacrifice
+- सख्याय (*sakhyāya*)—for gaining friendship with you
+- स्वस्तये (*svastaye*)—for our welfare
+- महः (*mahaḥ*)—great
+- दिवित्मत्ते (*divitmatte*)—and radiant
+- राये (*rāye*)—for wealth
+- आस्मान् (*āsmān*)—us, the sacrificers
+- वृणीष्व (*vṛṇīṣva*)—serve (honour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, honour us, the sacrificers, in this sacrifice, so that we may have friendship with you, that welfare may come to us, and that we may gain great and radiant wealth.
+
+##### English translation (H. H. Wilson)
+Select us, Indra, on this occasion, for your friendship, for (our) welfare, for vast and splendid riches.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा अ॑विड्डि वि॒श्वहेंद्र॑ रा॒या परी॑णसा ।  
+> अ॒स्मान्विश्वा॑भिरू॒तिभिः॑ ॥ १२ ॥
+
+> *asmā aviḍḍi viśvaheṃdra rāyā parīṇasā |*  
+> *asmānviśvābhirūtibhiḥ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मान् । अविड्डि । विश्वहा । इंद्र । राया । परीणसा ।  
+> अस्मान् । विश्वाभिः । ऊतिभिः ॥ १२ ॥
+
+> *asmān | aviḍḍi | viśvahā | iṃdra | rāyā | parīṇasā |*  
+> *asmān | viśvābhiḥ | ūtibhiḥ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विश्वहा सर्वॆष्वहःसु परीणसा महता राया धनेनास्मान्यजमानानविड्डि । रक्ष । किंच विश्वाभिः सर्वाभिरूतिभी रक्षाभिरस्मानविड्डि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, on all days protect us, the sacrificers, with great wealth (राया (*rāyā*)); and protect us with all protections.
+
+### Printed p. 263
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विश्वहा (*viśvahā*)—on all days
+- परीणसा (*parīṇasā*)—with abundant
+- राया (*rāyā*)—wealth
+- अस्मान् (*asmān*)—us, the sacrificers
+- अविद्धि (*aviddhi*)—protect
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अस्मान् (*asmān*)—us (protect)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protect us, the sacrificers, on all days by the gift of abundant wealth, and protect us also with all protections.
+
+##### English translation (H. H. Wilson)
+Favour us, Indra, daily with infinite riches; (protect) us with all protections.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॒ ता अपा॑ वृधि व्र॒जा अस्ते॑व॒ गोम॑तः ।  
+> नवा॑भिरिंद्रो॒तिभिः॑ ॥ १३ ॥
+
+> *asmabhyaṃ tā apā vṛdhi vrajā asteva gomataḥ |*  
+> *navābhiriṃdrotibhiḥ ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । तान् । अप । वृधि । व्रजान् । अस्ताऽइव । गोऽमतः ।  
+> नवाभिः । इंद्र । ऊतिऽभिः ॥ १३ ॥
+
+> *asmabhyaṃ | tān | apa | vṛdhi | vrajān | astā 'iva | go 'mataḥ |*  
+> *navābhiḥ | iṃdra | ūti 'bhiḥ ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नवाभिनूर्तनाभिरूतिभी रक्षाभिरस्तेव क्षेप्ता शूर इव गोमतो
+> गोभिर्युक्तान् तान् प्रसिद्धान्व्रजान् गोनिवासानस्मभ्यमपा वृधि । उद्घाटय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with new protections, like a hurler, that is, a hero, open for us those well-known pens, the cow-dwellings, that are filled with cattle (गोमतः (*gomataḥ*)). Throw them open.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नवाभिः (*navābhiḥ*)—new
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अस्तेव (*asteva*)—like a hero
+- गोमतः (*gomataḥ*)—filled with cows
+- तान् (*tān*)—those well-known
+- व्रजान् (*vrajān*)—cow-pens
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- अपा वृधि (*apā vṛdhi*)—become one who opens
+
+### Printed p. 264
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are a hero, with your new protections open for us the cow-pens filled with cattle (provide them).
+
+##### English translation (H. H. Wilson)
+With fresh protections, Indra, like a warrior, open for us those pastures filled with cattle.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माकं॑ धृष्णु॒या रथो॑ द्यु॒मा इं॒द्रान॑पच्युतः ।  
+> ग॒व्युर॑श्व॒युरी॑यते ॥ १४ ॥
+
+> *asmākaṃ dhṛṣṇuyā ratho dyumā iṃdrānapacyutaḥ |*  
+> *gavyuraśvayurīyate ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । धृष्णुया । रथः । द्युमान् । इंद्र । अनपच्युतः ।  
+> गव्युः । अश्वयुः । ईयते ॥ १४ ॥
+
+> *asmākaṃ | dhṛṣṇuyā | rathaḥ | dyumān | iṃdra | anapacyutaḥ |*  
+> *gavyuḥ | aśvayuḥ | īyate ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धृष्णुया धृष्णुः शत्रोणां धर्षको द्युमान्दीप्तिमाननपच्युतो
+> विनाशरहितो गव्युर्गॊमानश्वयुरश्ववानस्माकमस्मत्संबंधी रथ ईयते । सर्वत्र
+> गच्छतु । तेन रथेनास्मान्रक्षेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, our chariot, bold (धृष्णुः (*dhṛṣṇuḥ*), an assailant of enemies), radiant, unfailing, that is, free from destruction, possessed of cattle and of horses, goes (ईयते (*īyate*)) everywhere; let it go everywhere. The meaning is: protect us with that chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अस्माकं (*asmākaṃ*)—our
+- धृष्णुया (*dhṛṣṇuyā*)—that assails enemies
+- द्युमान् (*dyumān*)—radiant
+- अनपच्युतः (*anapacyutaḥ*)—imperishable
+- गव्युः (*gavyuḥ*)—filled with cattle
+- अश्वयुः (*aśvayuḥ*)—having horses
+- रथः (*rathaḥ*)—chariot
+- ईयते (*īyate*)—let it travel everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may our chariot, which destroys enemies, is radiant, imperishable, filled with cattle and possessed of horses, travel everywhere.
+
+### Printed p. 265
+
+##### English translation (H. H. Wilson)
+May our chariot, Indra, foe-repelling, brilliant, unfailing, proceed (everywhere), possessing us of cattle and of horses.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मुत्त॒मं कृ॑धि॒ श्रवो॑ दे॒वेषु॑ सूर्य ।  
+> वर्षि॑ष्ठं॒ द्यामि॑वो॒परि॑ ॥ १५ ॥
+
+> *asmākamuttamaṃ kṛdhi śravo deveṣu sūrya |*  
+> *varṣiṣṭhaṃ dyāmivopari ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । उत्तमं । कृधि । श्रवः । देवेषु । सूर्य ।  
+> वर्षिष्ठं । द्यांइव । उपरि ॥ १५ ॥
+
+> *asmākaṃ | uttamaṃ | kṛdhi | śravaḥ | deveṣu | sūrya |*  
+> *varṣiṣṭhaṃ | dyāṃiva | upari ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्माकमुत्तमं कृधीत्यनयादित्यं दृष्ट्वा रथादवरोहेत् । तथा च सूत्रितं।
+> अस्माकमत्तमं कृधीत्यादित्यमीक्षमाणो जपित्वावरोहेत् । आ. गृ. २-६-१२ । इति ॥
+> हे सूर्य सर्वस्य प्रेरकेंद्र हे आदित्य वा त्वं देवेषु द्योतमानेषु
+> वह्न्यादिषु मध्येऽस्माकमस्मत्संबंधि श्रवो यश उत्तममुत्कृष्टं कृधि । कुरु ।
+> तत्र दृष्टांतः । वर्षिष्टमतिशयेन प्रवृद्धं सेचनसमर्थं ना द्यामिव द्युलोकं
+> यथा सर्वेषां लोकानामुपरि स्थितमुत्कृष्टमकरोस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Use: with अस्माकमुत्तमं कृधि (*asmākamuttamaṃ kṛdhi*) one should descend from the chariot on seeing the sun. So it is prescribed in the sūtra: अस्माकमत्तमं कृधीत्यादित्यमीक्षमाणो जपित्वावरोहेत् । आ. गृ. २-६-१२ । इति॥ (*asmākamattamaṃ kṛdhītyādityamīkṣamāṇo japitvāvarohet | ā. gṛ. 2-6-12 | iti‖*) (Ā. Gṛ. 2-6-12). O Sūrya, impeller of all, or O Āditya, among the shining gods such as Agni make our fame (श्रवः (*śravaḥ*), glory) the highest, most excellent; do it. The illustration: as you made the heaven (द्यां (*dyāṃ*)), the world of light, which is exceedingly grown, capable of showering, stand supreme above all worlds, so do for us.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sūrya
+- वर्षिष्ठं (*varṣiṣṭhaṃ*)—that showers rain exceedingly
+- द्यां इव उपरि (*dyāṃ iva upari*)—as you have placed the heaven in a region higher than all worlds
+- अस्माकं (*asmākaṃ*)—our
+- श्रवः (*śravaḥ*)—fame
+- देवेषु (*deveṣu*)—among the gods
+- उत्तमं (*uttamaṃ*)—as the most excellent
+- कृधि (*kṛdhi*)—make
+
 ---
 
-**Progress note:** Done through printed p. 259. pp. 253-259 (batch API)
+**Progress note:** Done through printed p. 265. pp. 260-265 (batch API)
