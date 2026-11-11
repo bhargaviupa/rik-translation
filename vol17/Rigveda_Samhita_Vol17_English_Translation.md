@@ -33710,6 +33710,148 @@ Glorified ( in the past ), glorified, Indra, at present, satisfy your worshipper
 
 The hymn अयं पंथा (*ayaṃ paṃthā*) has thirteen Ṛks and is the eighth sūkta, in the Triṣṭubh metre. The Anukramaṇikā says here: अयं पंथाः सप्तोना संवाद इंद्रादितिनामदेवानामिति (*ayaṃ paṃthāḥ saptonā saṃvāda iṃdrāditināmadevānāmiti*), and goes on to say that the seer is the one whose speech it is. **NOTE**
 
+### Printed p. 986
+
+> र्या तेनोच्यते सा देवतेति परिभाषितत्वादृषिदेवते तत्र तत्र ज्ञातव्ये । अस्मिन्
+> सूक्ते इंद्रादितिवामदेवसंवादरूपिणी काचिदाख्यायिका श्लोकरूपेण सूच्यते।
+> गर्भस्थो ज्ञानसंपन्नो वामदेवो महामुनिः । मतिं चक्रे न जायेय योनिदेशात्तु मातृतः । किंतु पार्श्वादितश्चेति ज्ञात्वा नु जननी त्विदं । दध्यौ शांतै
+> शचीं देवीमदितिं त्विंद्रमातरं ॥ अदितिस्त्विंद्रसहिता गर्भिणीमभ्यगाद्वने ।
+> अदितींद्रवामदेवाः संवादमथ चक्रिरे॥ संवाद इति सूत्रेण कथा सैषात्र सूच्यते।
+> नोक्तो वक्तृविशेषोऽत्र ह्युपदेशेश्वन्नुक्तितः ॥ अर्थतस्ववगंतव्यो वक्तृभेद
+> इति स्थितिः । इंद्रोदितिर्यषिश्चास्मिन्मिथः सूक्ते समूचिरे ॥ गर्भॆ शयानं सुचिरं
+> मातुर्गर्भादनिर्गतं । वामदेवं प्रति ब्रूत आद्ययर्चा शतक्रतुः ॥ द्वितीयादिभिरर्धर्चैऋषिरत्राह पंचभिः । नही स्वस्येति सप्त स्युरर्धर्चा आदितेर्वचः ॥
+> ममच्चन त्वा युवतिरित्यचः पंच वै मुनेः । दौर्गत्यशांतिमत्राह वामदेवस्तथांत्यया ॥ एवमर्थाद्वक्तृभेद इति बह्वृचशासनं । अर्थो विवेकस्पष्टत्वादुपदेशेषु नेरितः । ऋषिदैवतसिद्ध्यर्थं विवेकादर्थ ईरित इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the Anukramaṇikā statement. The seer is the one whose speech a ṛk is, and the deity is the one of whom it speaks. Since this is the established rule, the seers and deities are to be understood verse by verse. In this sūkta a certain narrative, a dialogue between Indra, Aditi and Vāmadeva, is indicated in the form of verses (ślokas). While still in the womb, the knowing great sage Vāmadeva made up his mind: "I will not be born from my mother's birth-passage, but from her side." His mother learned of this and meditated, for her protection, on the goddess Śacī and on Aditi, the mother of Indra. Aditi went with Indra to the pregnant woman in the forest, and Aditi, Indra and Vāmadeva then held a conversation. The sūtra "saṃvādaḥ" indicates this story. The speaker is not named in the teaching, and the difference of speakers must be understood from the sense. Indra, Aditi and the seer spoke to one another in this sūkta. With the first ṛk Indra addresses Vāmadeva, who has lain long in the womb and not yet come out of it. With five half-verses from the second onward the seer speaks. The seven half-verses beginning "nahī nvasya" are Aditi's speech. The five ṛks beginning "mamaccana tvā yuvatiḥ" belong to the sage **NOTE**. With the last ṛk Vāmadeva speaks the pacification of misfortune. The speakers are thus known from the sense, as the Bahvṛca teaching says; the sense is not stated in the teachings because it is clear from discernment, and it is given here to establish the seers and deities.
+
+##### Anuvāda
+
+This sūkta beginning "ayaṃ panthāḥ" is the eighth sūkta of the second anuvāka. It has thirteen ṛks; the metre is Triṣṭup. In the Anukramaṇikā it is said: "ayaṃ panthāḥ saptonā saṃvāda indrāditivāmadevānām", that is, in this sūkta there is a dialogue of Indra, Aditi and the seer Vāmadeva. "Yasya vākyaṃ sa ṛṣiḥ, yā tenocyate sā devatā": the one whose speech is in a ṛk is the seer of that ṛk, and the one whose matter is spoken of in the ṛk is its deity. As this is the established rule, in this sūkta too the seers and deities of the several ṛks are to be inferred according to context. A narrative concerning the conversation of Indra, Aditi and Vāmadeva, spoken of in this sūkta, is given here in verse form:
+
+> गर्भस्थो ज्ञानसंपन्नो वामदेवो महामुनिः ।
+> मतिं चक्रे न जायेय योनिदेशात्तु मातृतः ॥ १ ॥
+> किंतु पार्श्वादितश्चति ज्ञात्वा नु जननी त्विदं ॥
+> दध्यौ शांतै शचीं देवीमदितिं त्विंद्रमातरं ॥ २ ॥
+> अदितिस्त्विंद्रसहिता गर्भिणीमभ्यगाद्वने ।
+> आदितींद्रवामदेवाः संवादमथ चक्रिरे ॥ ३ ॥
+> संवाद इति सूत्रेण कथा सैषात्र सूच्यते ।
+> नोक्तो वक्तृविशेषोऽत्र ह्युपदेशेष्वनुक्तितः ॥ ४ ॥
+
+### Printed p. 987
+
+> अर्थतस्त्ववगंतव्यो वक्तृभेद इति स्थितिः ।
+> इंद्रोदितिऋषिश्चास्मिन्मिथः सूक्ते समूचिरे ॥ ५ ॥
+> गर्भॆ शयानं सुचिरं मातुर्गर्भादनिर्गतं ।
+> नामदेवं प्रति ब्रूत आद्ययर्च शतक्रतुः ॥ ६ ॥
+> द्वितीयादिभिरर्धर्चैर्यषिरत्राह पंचभिः
+> नही न्वस्येति सप्त स्युरर्धर्चा अदितेर्वचः ॥ ७ ॥
+> ममच्चन त्वा युवतिरित्यृचः पंच वै मुनेः ।
+> दौर्गत्यशांतिमत्राह नामदेवस्तथांत्यया ॥ ८ ॥
+> एवमर्थाद्वक्तृभेद इति बह्वृचशासनात् ।
+> अर्थो विवेकस्पष्टत्वादुपदेशेषु नेरितः ॥ ९ ॥
+> ऋषिदैवतसिध्यर्थं विवेकादर्थ ईरितः ।
+> (अनु. भा. ४-१८).
+
+**NOTE**
+
+The great-souled seer Vāmadeva, while in his mother's womb, thought thus: "If I were now to be born as ordinary people are, coming out through my mother's birth-passage, that would not befit the greatness of one who knows as I do. Therefore, when I come out of the womb, I shall not come by the birth-passage but by cleaving my mother's side." So he resolved. Vāmadeva's mother learned of this and feared that if the child split her flank and came out, death would befall her. To remove this fear she meditated on the goddess Śacī, Indra's wife, and on the goddess Aditi, Indra's mother. Hearing her cry of distress, Aditi came with Indra to the place in the forest where the pregnant woman (Vāmadeva's mother) was. Then a conversation took place between the goddess Aditi, Indra and the seer Vāmadeva in the womb. That very conversation is set forth in this sūkta. It cannot be said precisely who composed the dialogue of this sūkta in sūkta form, but the matter has come down by tradition. Who spoke which words, as stated in the sūkta, is to be understood according to the sense. This sūkta contains the dialogue held among the three, Indra, Aditi and the seer Vāmadeva. In the first ṛk of this sūkta is Indra's speech addressed to the seer Vāmadeva, who has been in his mother's womb for a very long time and has not yet come out (as an infant?). From the second ṛk up to the first half of the fourth is the speech of the seer Vāmadeva; from the latter half of the fourth up to the seventh ṛk is Aditi's speech; in the five ṛks from the eighth to the twelfth is the speech of the pregnant mother of the seer Vāmadeva. In the last ṛk, the thirteenth, is the pacifying mantra spoken by the seer Vāmadeva for the removal of misfortune.
+
+### Printed p. 988
+Therefore who the seers and deities are of each ṛk is to be learned from the sense of the respective ṛks. Since the sense stated in the ṛks is clear, it is not repeated here; this explanation had to be given here in order to make the seers and deities clear.
+
+Sūkta 18.
+Maṇḍala 4; Anuvāka 2; Sūkta 18.
+Aṣṭaka 3; Adhyāya 5; Vargas 25, 26.
+Number of ṛks in the sūkta: 13.
+Seer: Vāmadeva Gautama (1: Indra; 2, 3 and, in 4, the first half, and 13: Vāmadeva; in 4, the latter half, 5, 6, 7: Aditi; 8, 9, 10, 11, 12: the pregnant mother of Vāmadeva).
+Deity: (1: Vāmadeva; 2, 3 and, in 4, the first half: Indra; in 4, the latter half, 5, 6, 7: Vāmadeva; 8, 9, 10, 11, 12: Indra; 13: आत्मशंसा इंद्रो ना (*ātmaśaṃsā iṃdro nā*) **NOTE**.)
+Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं पंथा॒ अनु॑वित्तः पुरा॒णो यतो॑ दे॒वा उ॒दजा॑यंत॒  ॑
+> विश्वे ।  
+> अत॑श्चि॒दा ज॑निषीष्ट॒ प्रवृ॑द्धो॒ मा मा॒तर॑ममु॒या पत्त॑वे कः॥
+
+> *ayaṃ paṃthā anuvittaḥ purāṇo yato devā udajāyaṃta*  
+> *viśve |*  
+> *ataścidā janiṣīṣṭa pravṛddho mā mātaramamuyā pattave kaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । पंथाः । अनुवित्तः । पुराणः । यतः । देवाः । उत् अजायंत । विश्वे ।  
+> अतः । चित् । आ । जनिषीष्ट । प्रवृद्धः । मा । मातरं । अमुया । पत्तवे। करिति कः॥
+
+> *ayaṃ | paṃthāḥ | anuvittaḥ | purāṇaḥ | yataḥ | devāḥ | ut ajāyaṃta | viśve |*  
+> *ataḥ | cit | ā | janiṣīṣṭa | pravṛddhaḥ | mā | mātaraṃ | amuyā | pattave| kariti kaḥ‖*
+
+### Printed p. 989
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रवाक्यं । पुराणोऽनादिरयु प्रत्यक्षेणोपलभ्यमानः पंथा योनिर्निगमनरूपो मार्गोऽनु आनुपूर्व्येण वित्तः । सर्वैर्जायमानैर्लब्धः ।
+> यतो यस्माद्योनिमार्गाद्विश्वे सर्वॆ देवा उदजायंत । उत्कर्षेणोत्पन्ना
+> भवंति । तस्माद्योनिमार्गान्मनुष्या उत्पन्ना भवंतीति किमु वक्तव्यं । अतश्चिदस्माद्योनिमार्गादेव प्रवृद्यो गर्भे प्रकर्षेण वृद्धिं गतो वामदेव आ जनिषीष्ट ।
+> आ समंताच्चायतां । अमुयानूं मातरं पत्तवे पतनाय । मरणायेत्यर्थः ।
+> मा कः । मा करोतु ॥
+
+##### Gist of the bhāṣya
+
+Indra's speech. This path, beginningless, perceived directly, namely the birth-passage, the way of exit, has been found in due succession by all who are born. Since all the gods are born excellently from that very birth-passage, what need is there to say that men are born from it? Therefore from this very path let Vāmadeva, who has grown forth in the womb, be born; "ā" means completely, let him be born. As for this mother, "pattave" means for falling, that is, for death; "mā kaḥ": let him not bring it about.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतः (*yataḥ*)—by which path in the form of the womb
+- विश्वे देवाः (*viśve devāḥ*)—all the gods also
+- उदजायंत (*udajāyaṃta*)—were born; (by such a path)
+- अयं पंथाः (*ayaṃ paṃthāḥ*)—this path of emergence from the womb, in the form of the birth-passage
+- पुराणः (*purāṇaḥ*)—as beginningless
+- अनु (*anu*)—from of old
+- वित्तः (*vittaḥ*)—is a matter known to all
+- अतश्वित् (*ataśvit*)—therefore indeed
+- प्रवृद्धः (*pravṛddhaḥ*)—Vāmadeva, fully grown in the womb itself
+- आ जनिषीष्ट (*ā janiṣīṣṭa*)—let him, obtaining worldly birth, come out of the womb
+- अमुया मातरं (*amuyā mātaraṃ*)—this his mother
+- सत्तवे (*sattave*)—so as to be subject to death **NOTE**
+- मा कः (*mā kaḥ*)—let him not do
+
+##### भावार्थ (Bhāvārtha)
+
+Indra's speech: this path of emergence from the womb, in the form of the birth-passage, by which all the gods also were born, is known to all as the beginningless place of birth for gods, men and the rest. Therefore let Vāmadeva, who has grown fully in the womb itself, obtain worldly birth and come out of the womb, and let him not bring about the death of this his mother.
+
+##### English translation (H. H. Wilson)
+Indra speaks.—This is the old and recognized path by which all the gods are born ; so, when full-grown, let him be born in the same manner ; let him not cause the loss of this his mother.
+
+##### विशेषविषयगळु (Special Topics)
+
+This sūkta contains the history of the birth of the seer Vāmadeva. Because Vāmadeva was already a great knower while in his mother's womb, he did not wish to come out through the birth-passage as ordinary people are born, but desired to come out by cleaving the side of his mother's body. His mother, who was pregnant and knew this, in fear that death would befall her, meditated on Indra's wife and on the goddess Aditi, Indra's mother, and took refuge in them. Then Aditi came with Indra to Vāmadeva's mother in the hermitage in the forest, pacified Vāmadeva in the womb, and spoke words of good counsel that he should give up his unnatural desire. First Indra speaks, addressing Vāmadeva.
+
+### Printed p. 990
+Indra (addressing Vāmadeva in the womb): "O Vāmadeva, all gods and men, when they are born, that is, when they come out of the mother's womb, come only by the mother's birth-passage. The woman's birth-passage is the place of origin of the whole class of living beings. This is the path ordained by nature. If you leave this order and come by cleaving your mother's side, your mother will die. Therefore do not do so."
+
+Vāmadeva (in the womb): "O Indra, I will not come out by this most painful passage of a woman. I will make a way through my mother's side and come out. For I am not like ordinary people; my greatness is surpassing. Many great deeds have to be done by me. Without anyone else's help I can fight an enemy alone. I alone can debate with an adversary. Indra (you, Indra) has just said that if I do not come out by the mother's birth-passage but by another way, my mother will die. But what value can be put on Indra's word? Has that Indra not done many improper acts? Did he not go uninvited to Tvaṣṭṛ's house and forcibly drink the soma juice that had been bought at great cost? Indra's mother Aditi bore Indra in her womb for thousands of months and gave birth to him with great hardship. Yet all the deeds that Indra has done are against the world. Therefore I need not bow to Indra's word. I will come out of my mother's womb as I please."
+
+Aditi: "O Vāmadeva, you should not speak slightingly of Indra. Among all the gods who have so far been born in the world and who will be born hereafter, none is equal to Indra. Thinking that it would not befit his dignity to bear Indra like an ordinary infant in the lying-in chamber, Aditi gave Indra surpassing power. By that power Indra stood forth manifest by his own radiance, and by his surpassing power he pervaded heaven and earth completely. All the rivers that flow on the earth, beginning with the sound अलला (*alalā*) and making a joyous noise, flow on, upholding and proclaiming Indra's greatness.
+
+### Printed p. 991
+O seer Vāmadeva, question those rivers and ask. Without Indra's help, how would the waters have come to those rivers from the clouds? Moreover, the nivid-utterances all concern Indra and are purely laudatory. The waters bear Indra's sin of brahmin-slaying in the form of foam. My son Indra slew Vṛtra with the thunderbolt and caused the waters that he had held back to fall on the earth as rain and flow as rivers. Can you reject the word of an Indra of such great nature?"
+
+Vāmadeva (ironically, addressing Indra): "O Indra, did not your young mother (Aditi) bear you with joy? Was it not with joy that the demoness Kuṣavā swallowed you? You broke through that demoness with joy and came out. Through you joy came to the waters too. Was it not from excess of joy as well that the demon Vyaṃsa struck you, slapping you on the cheek? But you, struck by him, grew greater than he, smote his head with the thunderbolt and crushed it to bits. All these are your valorous deeds. Even so your greatness cannot be thought small. As a well-nourished cow obtains an excellent calf **NOTE**, your mother Aditi obtained you (Indra): of surpassing strength, unconquered by enemies, fulfiller of all wishes, impeller of all, able to protect yourself, moving at will. Then, when Aditi asked you, 'O Indra, my son, have Agni and the other gods abandoned your friendship?', you said to Viṣṇu, who was there: 'O friend Viṣṇu, you are all-pervading and my friend; show great valour to slay the asura Vṛtra.' Did you not say so? Besides, you seized your father by the foot, dragged him and killed him, and made your mother a widow. Can anyone else do this deed? Whether lying down or moving about, no one can kill you. Which other gods have strength and power equal to yours, or greater than yours?"
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहमतो॒ निर॑या दु॒र्गहै॒तत्ति॑र॒श्चता॑ पा॒र्श्वान्निर्ग॑माणि ।  
+> ब॒हूनि॑ मे॒ अकृ॑ता॒ कर्त्वा॑नि॒ युध्यै॑ त्वेन॒ सं त्वे॑न पृच्छै ॥२॥
+
+> *nāhamato nirayā durgahaitattiraścatā pārśvānnirgamāṇi |*  
+> *bahūni me akṛtā kartvāni yudhyai tvena saṃ tvena pṛcchai ‖2‖*
+
 ---
 
-**Progress note:** Done through printed p. 985. pp. 980-985 (batch API)
+**Progress note:** Done through printed p. 991. pp. 986-991 (batch API)
