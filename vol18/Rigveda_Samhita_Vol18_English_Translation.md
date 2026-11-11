@@ -17394,6 +17394,286 @@ O Aśvin gods, to bring you who are in a region beyond the firmament, your chari
 ##### English translation (H. H. Wilson)
 Your chariot travels widely round the heaven until it places you beyond the firmament : dispensers of sweet (water, the priests) are diluting
 
+### Printed p. 445
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिंधु॑र्ह वां र॒सया॑ सिंच॒दश्वा॑न्घृ॒णा वयो॑ऽरु॒षासः॒ परि॑  
+> ग्मन् ।  
+> तदू॒ षु वा॑मजि॒रं चे॑ति॒ यानं॒ येन॒ पती॒ भव॑थः सू॒र्यायाः॑ ॥ ६ ॥
+
+> *siṃdhurha vāṃ rasayā siṃcadaśvānghṛṇā vayo 'ruṣāsaḥ pari*  
+> *gman |*  
+> *tadū ṣu vāmajiraṃ ceti yānaṃ yena patī bhavathaḥ sūryāyāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंधुः । ह । वां । रसया । सिंचत् । अश्वान् । फृणा । वयः । अरुषासः । परि । ग्मन् ।  
+> तत् । ऊं इति सु । वां । अजिरं । चेति । यानं । येन । पती इति । भवथः ।  
+> सूर्यायाः ॥ ६ ॥
+
+> *siṃdhuḥ | ha | vāṃ | rasayā | siṃcat | aśvān | phṛṇā | vayaḥ | aruṣāsaḥ | pari | gman |*  
+> *tat | ūṃ iti su | vāṃ | ajiraṃ | ceti | yānaṃ | yena | patī iti | bhavathaḥ |*  
+> *sūryāyāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वां युवयोरश्वान् सिंधुः स्यंदमानो मेघ उदकं वा रसया रसेन
+> सिंचत् । असेचयत् । फृणा दीप्त्या वयः पक्षिसदृशा वेतारो वा आश्वा अरुषास
+> आरोचमानाः संतः परि परितो ग्मन् । गच्छंति । वां यानं गमनसाधनं प्रसिद्दो
+> रथोऽजिरं । क्षिप्रनामैतत् । सु सुष्टु चेति । ज्ञायते । येन रथेन सूर्यायाः
+> पति पालयितार् वोढार् भवथः स रथश्चेतीति ॥
+
+##### Gist of the bhāṣya
+
+The flowing cloud, or water, sprinkled the horses of the two Aśvins with its sap. Their horses, bright like birds (or "goers"), shine and move all round with radiance. The chariot of the two, the well-known vehicle for travelling, is swift (अजिरं (*ajiraṃ*) is a word meaning "quick"), and is well known. It is the chariot by which they become the protectors and bearers of Sūryā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विन् (*he aśvin*)—O Aśvin deities
+- नां (*nāṃ*)—your
+- अश्वान् (*aśvān*)—horses
+- सिंधुः (*siṃdhuḥ*)—the flowing water
+- रसया (*rasayā*)—with its sap
+- सिंचत् (*siṃcat*)—has sprinkled
+- अरुषासः (*aruṣāsaḥ*)—having an attractive colour
+- वयः (*vayaḥ*)—and bird-like, those horses of yours
+- फृणा (*phṛṇā*)—with radiance
+- परि ग्मन् (*pari gman*)—move all round
+- येन (*yena*)—by which chariot
+- सूर्यायाः (*sūryāyāḥ*)—of the daughter of Sūrya
+
+### Printed p. 446
+- पती (*patī*)—as protectors
+- भवथः (*bhavathaḥ*)—you become (such)
+- तत् वां यानं (*tat vāṃ yānaṃ*)—that chariot of yours
+- अजिरं (*ajiraṃ*)—swiftly
+- सु चेति (*su ceti*)—is well known
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the flowing water has sprinkled your horses with its sap. Your horses, of attractive colour and bird-like, move all round, joined with radiance. That chariot of yours, with the help of which you become the protectors of the daughter of Sūrya, is swiftly and well known to all.
+
+##### English translation (H. H. Wilson)
+The flowing (stream) has sprinkled your steeds with moisturg : the radiant horses (like) birds (in swiftness) pass on, bright with lustre : well known is that quickmoving charriot, whereby you become the lords of Surya.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हेह॒ यद्वां॑ सम॒ना प॑पृ॒क्षे सेयम॒स्मे सु॑म॒तिर्वा॑जरत्ना ।  
+> उ॒रु॒ष्यतं॑ जरि॒तारं॑ यु॒वं ह॑ श्रि॒तः कामो॑ नासत्या युव॒द्रिक् ॥ ७ ॥
+
+> *iheha yadvāṃ samanā papṛkṣe seyamasme sumatirvājaratnā |*  
+> *uruṣyataṃ jaritāraṃ yuvaṃ ha śritaḥ kāmo nāsatyā yuvadrik ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इहइह । यत् । वां । समना । पपृक्षे । सा । इयं । अस्मे इति । सुमतिः ।  
+> वाजरत्ना ।  
+> उरुष्यतं । जरितारं । युवं । ह । श्रितः । कामः । नासत्या । युवद्रिक् ॥ ७ ॥
+
+> *ihaiha | yat | vāṃ | samanā | papṛkṣe | sā | iyaṃ | asme iti | sumatiḥ |*  
+> *vājaratnā |*  
+> *uruṣyataṃ | jaritāraṃ | yuvaṃ | ha | śritaḥ | kāmaḥ | nāsatyā | yuvadrik ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यद्यस्मात् । यथा ना सुमत्या । इहेहास्मिन्नेव यज्ञे समना
+> समानमनस्कौ । सदृशावित्यर्थः । तौ वां युवां सुमत्या पपृक्षे । स्तुत्या संयो-
+
+##### Gist of the bhāṣya
+
+"O Aśvins, since" — as, in this very sacrifice, I join you two, like-minded, that is, alike, with good praise (the text breaks off here and continues in the next block).
+
+### Printed p. 447
+
+> जयामि । सेयमिदानीं क्रियमाणा सुमतिः शोभनस्तुतिरस्मे अस्माकमेव फलवती
+> भवत्विति शेषः । हे वाजरत्ना रमणीयान् । अन्नं वै वाजः । शत. ब्रा. ९-३-४-१ ।
+> इति श्रुतेः । युवं युवां जरितारं गरितारं स्तोतारं मामुरुष्यतं । रक्षतं ।
+> हे नासत्याश्विन् कामोऽस्मदीयो युवद्रिक् ह युवामेव गच्छन् श्रितः प्राप्तः ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues: I join you with praise. May this good praise, now being made, bear fruit for us alone (so the remainder is to be supplied). "O वाजरत्ना (*vājaratnā*)" means "O delightful ones"; food is वाजः (*vājaḥ*), according to the śruti अन्नं वै वाजः (*annaṃ vai vājaḥ*) (Śa. Brā. 9-3-4-1). Protect me, your praiser (जरितारं (*jaritāraṃ*) = the one who praises). O Nāsatya Aśvins, our desire, going straight to you, has reached you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यत् (*yat*)—by which praise
+- इहेह (*iheha*)—in this very sacrifice
+- समनस्का (*samanaskā*)—having a mind of one kind
+- वां (*vāṃ*)—both of you
+- पपृक्षे (*papṛkṣe*)—I shall bring (you) to be joined (with praise)
+- सेयं सुमतिः (*seyaṃ sumatiḥ*)—that same praise now being recited
+- अस्मे (*asme*)—to us (may it be fruitful)
+- वाजरत्ना (*vājaratnā*)—O Aśvin deities who have delightful food
+- युवं (*yuvaṃ*)—you both
+- जरितारं (*jaritāraṃ*)—me, the praiser
+- उरुष्यतं (*uruṣyataṃ*)—protect
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- कामः (*kāmaḥ*)—our desire
+- युवद्रिक् ह (*yuvadrik ha*)—as soon as it has reached you
+- श्रितः (*śritaḥ*)—obtains fulfilment
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may that same praise now being recited, by which I pray in this very sacrifice to you, the like-minded, and bring you to be joined with praise, be fruitful for us. O Aśvin deities who have delightful food, protect me, your praiser. O Aśvin deities, our desire obtains fulfilment as soon as it has reached you.
+
+##### English translation (H. H. Wilson)
+May the earnest praise, distributers of food, wherewith I associate you both like-minded at this sacrifice, be (beneficial) to us: protect your worshipper: my desire, Nasatyas, directed towards you is gratified.
+## Sūkta 44 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं वां रथं वयमद्या हुवेम पृथुज्रयमश्विना संगतिं
+> गोः ।
+> यः सूर्यां वहति वंधुरायुर्गिर्वाहसं पुरुतमं
+> वसूयुं ॥ १ ॥
+
+> *taṃ vāṃ rathaṃ vayamadyā huvema pṛthujrayamaśvinā saṃgatiṃ*
+> *goḥ |*
+> *yaḥ sūryāṃ vahati vaṃdhurāyurgirvāhasaṃ purutamaṃ*
+> *vasūyuṃ ‖ 1 ‖*
+
+##### Gist of the bhāṣya
+
+The sūkta तं वां रथं (*taṃ vāṃ rathaṃ*) has seven verses and is the twelfth sūkta of the anuvāka. Purumīḷha and Ajamīḷha are the two seers; the metre is Triṣṭubh; the deity is the Aśvins. The Anukramaṇī says *taṃ vām*. Its use is stated for the Prātaranuvāka and for the Āśvina-śastra.
+
+### Printed p. 448
+
+##### Anuvāda
+
+This sūkta, beginning तं वां रथं (*taṃ vāṃ rathaṃ*), is the twelfth sūkta in the fourth anuvāka. It has seven Ṛks. The seers of this sūkta are the same as those of the previous sūkta, Purumīḷha and Ajamīḷha; the deity is the Aśvin deities; the metre is Triṣṭubh. In the Anukramaṇī it is stated as beginning तं वां (*taṃ vāṃ*). This sūkta is used for the recitation of the Prātaranuvāka and the Āśvina-śastra mantras.
+
+Maṇḍala 4 · Anuvāka 4 · Sūkta 44. Aṣṭaka 3 · Adhyāya 7 · Varga 20. Number of Ṛks in the sūkta: 7. Seer: Purumīḷha and Ajamīḷha, the Sauhotras. Deity: the Aśvins. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं । वां॒ । रथं॑ । व॒यं । अ॒द्य । हु॑वेम । पृथु॒ज्रयं॑ । अश्विना॒ । संग॑तिं॒ । गोः ।  
+> यः । सू॒र्यां । वह॑ति । वंधुर॒युः । गिर्वा॑हसं । पुरु॒तमं॑ । वसू॒युं ॥ १ ॥
+
+> *taṃ | vāṃ | rathaṃ | vayaṃ | adya | huvema | pṛthujrayaṃ | aśvinā | saṃgatiṃ | goḥ |*  
+> *yaḥ | sūryāṃ | vahati | vaṃdhurayuḥ | girvāhasaṃ | purutamaṃ | vasūyuṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हे अश्विनौ वां युवयो रथं स्तोतारोऽद्य सुत्याहनि हुवेम । आह्वयामः।  
+> कीदृशं तं । पृथुज्रयं प्रथितवेगं गोः गवां संगतिं संगमयितारं । यो रथः  
+> सूर्यां वहति । धारयति । वंधुरयुः । रथे निवासाधारभूतः काष्ठो वंधुरं  
+> तद्वान् । तं गिर्वाहसं गिरां स्तुतीनां वोढारं पुरुतमं प्रभूततमं वसूयुं  
+> वसुमंतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवं श्रियमश्विना देवता तां दिवो नपाता वनथः शचीभिः ।
+> युवोर्वपुरभि पृक्षः सचंते वहंति यत्ककुहासो रथे
+> वां ॥ २ ॥
+
+> *yuvaṃ śriyamaśvinā devatā tāṃ divo napātā vanathaḥ śacībhiḥ |*
+> *yuvorvapurabhi pṛkṣaḥ sacaṃte vahaṃti yatkakuhāso rathe*
+> *vāṃ ‖ 2 ‖*
+
+##### Gist of the bhāṣya
+
+O Aśvins, we the praisers call today, on the day of pressing, your chariot. Of what kind? Of wide-spread speed, the associator of cows. The chariot which bears Sūryā; वंधुरयुः (*vaṃdhurayuḥ*) is that which has the vandhura, the wood that is the seat and support in a chariot. It carries praises, is most abundant, and is wealthy.
+
+### Printed p. 449
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यः (*yaḥ*)—which chariot of yours
+- सूर्यां (*sūryāṃ*)—Sūryā
+- वहति (*vahati*)—bears, such a one,
+- पृथुज्रयं (*pṛthujrayaṃ*)—having famed speed
+- गोः (*goḥ*)—the rays
+- संगतिं (*saṃgatiṃ*)—that brings together
+- वंधुरयुः (*vaṃdhurayuḥ*)—having the wood of an excellent seat
+- गिर्वाहसं (*girvāhasaṃ*)—that bears praises
+- पुरुतमं (*purutamaṃ*)—having abundant extent
+- वसूयुं (*vasūyuṃ*)—and wealthy
+- तं नां रथं (*taṃ nāṃ rathaṃ*)—that chariot of yours
+- वयं (*vayaṃ*)—we, the praisers
+- अद्य (*adya*)—today, the day of pressing the Soma juice
+- हुवेम (*huvema*)—call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, that chariot of yours which bears Sūryā, of famed speed, which brings the rays together, which has the wood of an excellent seat, bears praises, has abundant extent and is wealthy, that chariot of yours we, the praisers, call today, the day of pressing the Soma juice, praying.
+
+##### English translation (H. H. Wilson)
+We invoke, Ashwins, to-day, your rapid car, the associator of the solar ray: the banked car which bears Surya, vast, wealthy, and laden with praises.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं । श्रियं॑ । अश्विना । दे॒वता॒ । तां । दिवः ।॑ नपाता । वनथः॒ । शची॑भिः ।  
+> यु॒वोः । वपुः॑ । अ॒भि । पृक्षः॑ । सचंते॒ । वहं॑ति॒ । यत् । क॑कु॒हासः ।॒ रथे॑ । वां ॥२॥
+
+> *yuvaṃ | śriyaṃ | aśvinā | devatā | tāṃ | divaḥ | napātā | vanathaḥ | śacībhiḥ |*  
+> *yuvoḥ | vapuḥ | abhi | pṛkṣaḥ | sacaṃte | vahaṃti | yat | kakuhāsaḥ | rathe | vāṃ ‖2‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> 29
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो नपातादित्यस्य पुत्रस्थानीयौ द्युलोकस्य वा न पातॆयितारौ हे
+> अश्विन् युवं युवां देवता देवते ॥ विभक्तिव्यत्ययः ॥ तां प्रसिद्धां श्रियं शचीभिः
+> कर्मभिः शक्तिभिर्वा वनथः । संभजेथे । यद्वा । वदतिर्दानार्थः । युवोर्युवयोर्वपुः शरीरं पृक्षोऽन्नानि सोमलक्षणान्यभि सचंते । यद्यदा रथे वां
+> वहंति ककुहासो महांतोऽश्वाः । यद्वा । स्तुतयो वां युवां रथे वहंति ॥
+
+**NOTE**
+
+### Printed p. 450
+
+> को वामद्या करते रातहव्य ऊतये वा सुतपेयाय
+> वार्कैः ।
+> ऋतस्य वा वनुषे पूर्व्याय नमो येमानो अश्विना
+> ववर्तत् ॥ ३ ॥
+
+> *ko vāmadyā karate rātahavya ūtaye vā sutapeyāya*
+> *vārkaiḥ |*
+> *ṛtasya vā vanuṣe pūrvyāya namo yemāno aśvinā*
+> *vavartat ‖ 3 ‖*
+
+##### Gist of the bhāṣya
+
+O sons of heaven, दिवो नपाता (*divo napātā*): standing in the place of sons of Āditya, or those who do not make the heaven-world fall. O Aśvins, युवं (*yuvaṃ*) is "you two"; देवता (*devatā*) is देवते (*devate*) (an exchange of case ending). You two enjoy that well-known glory by your deeds or by your powers. Or else: वदतिर्दानार्थः (*vadatirdānārthaḥ*) **NOTE**. The body of you two is joined by the foods of Soma form, when the great horses (ककुहासः (*kakuhāsaḥ*)) draw you on the chariot. Or else: the praises carry you two on the chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—to the luminous Āditya
+- नपाता (*napātā*)—who are in the form of sons
+- अश्विना (*aśvinā*)—O Aśvin deities
+- देवता (*devatā*)—who are divine in nature
+- युवं (*yuvaṃ*)—you both
+- शचीभिः (*śacībhiḥ*)—by your excellent deeds
+- तां श्रियं (*tāṃ śriyaṃ*)—that well-known wealth
+- वनथः (*vanathaḥ*)—you are enjoying
+- यत् (*yat*)—when
+- ककुहासः (*kakuhāsaḥ*)—the powerful horses
+- वां (*vāṃ*)—you
+- रथे (*rathe*)—(seating you) in the chariot
+- वहंति (*vahaṃti*)—bear (then)
+- पृक्षः (*pṛkṣaḥ*)—the food of Soma form
+- युवोः (*yuvoḥ*)—your
+- वपुः (*vapuḥ*)—body
+- अभि सचंते (*abhi sacaṃte*)—joins
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, sons, as it were, of the luminous Āditya, you both enjoy by your excellent deeds the famed wealth (glory). When the powerful horses seat you in the chariot and bear you, then the food of Soma form joins your body.
+
+##### English translation (H. H. Wilson)
+Ashwins, grandsons of heaven, divinities, you enjoy that glory by your actions, that (sacrificial) food is administered to your persons, and powerful horses draw you in your chariot.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
 ---
 
-**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
+**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
