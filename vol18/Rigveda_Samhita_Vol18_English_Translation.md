@@ -29200,6 +29200,279 @@ In this Ṛk Agni is praised by attributing to Agni and the sacrificer the relat
 (Ṛ. Saṃ. 5-4-2)
 is quoted. The meaning suggested here is: may Agni, who stands in the place of father or protector to us (the sacrificer), carrying the oblation to the gods on behalf of the sacrificer, protect us. Or else, another explanation is possible: as sacrificers protect their sons with care, so they protect Agni, who stands in the place of a son. To support that—
 
+### Printed p. 785
+He has also cited the ṛk त्वं पुत्रो भवसि यस्तेऽविधत् त्वं सखा सुशेवः पास्याधृषः । (*tvaṃ putro bhavasi yaste 'vidhat tvaṃ sakhā suśevaḥ pāsyādhṛṣaḥ |*) (Ṛ. Saṃ. 2-1-9). Here Agni is praised with words that show the highest regard, such as "son" and "friend".
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॒ नाम॒ वंद॑मानो दधाति पि॒ता व॑सो॒ यदि॒ तच्चो॒षया॑से ।  
+> कु॒विद्दे॒वस्य॒ सह॑सा चका॒नः सु॒म्म म॒ग्निर्व॑नते वावृधा॒नः ॥१०॥
+
+> *bhūri nāma vaṃdamāno dadhāti pitā vaso yadi taccoṣayāse |*  
+> *kuviddevasya sahasā cakānaḥ summa magnirvanate vāvṛdhānaḥ ‖10‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । नाम । वंदमानः । दधाति । पिता ' वसो इति । यदि । तत् । जोषयासे ।  
+> कुवित् । देवस्य । सहसा । चकानः । सुम्नं । आग्निः । वनते । ववृधानः ॥ १० ॥
+
+> *bhūri | nāma | vaṃdamānaḥ | dadhāti | pitā ' vaso iti | yadi | tat | joṣayāse |*  
+> *kuvit | devasya | sahasā | cakānaḥ | sumnaṃ | āgniḥ | vanate | vavṛdhānaḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भूरि प्रभूतं नाम त्वदीयं नाम वंदमानः सन् दधाति । धारयति ।
+> सामर्थ्याद्भविः । अथवा नामकं हविः प्रभूतं धारयति दातुं । पिता पालकस्त्वं
+> हे वसो वासकाग्ने यदि तद्धनिर्जोषयासे । सेवसे । देवस्य व्यवहर्तुर्यजमानस्य कुविद्बहु हविः सहसा बलेन युक्तः सन् चकानः कामयमानः । यद्वा
+> कर्मणि षष्ठि । देवं यजमानं कामयमानोऽग्निर्ववृधानो वर्धमानो
+> यजमानं वर्धयन्वा सुम्मं वनते । प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+Praising your name, which is abundant (भूरि (*bhūri*) = प्रभूतं (*prabhūtaṃ*)), he "holds" (दधाति (*dadhāti*) = धारयति (*dhārayati*); the verb is supplied from the context). Or else, he holds abundant oblation called नामकं हविः (*nāmakaṃ haviḥ*) in order to give it. "You, the protector (*pitā pālakaḥ*), O Vasu, dwelling-giving Agni, if you enjoy (सेवसे (*sevase*)) that oblation". Of the god (देवस्य (*devasya*)), that is, of the sacrificer who conducts the rite, Agni, endowed with strength (सहसा (*sahasā*) = बलेन (*balena*)), is desiring (चकानः कामयमानः (*cakānaḥ kāmayamānaḥ*)) much (कुवित् (*kuvit*)) oblation. Or else the genitive is in the sense of the object: Agni, desiring the god, the sacrificer, growing or making the sacrificer grow, bestows (प्रयच्छति (*prayacchati*)) happiness (सुम्मं (*summaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Agni, giver of dwelling
+- पिता (*pitā*)—you, the protector
+- यत् (*yat*)—when
+- तत् (*tat*)—the oblation offered by the sacrificer
+- जोषयसे (*joṣayase*)—you enjoy (then)
+- म (*ma*)—(the sacrificer) your famous name **NOTE**
+- वंदमानः (*vaṃdamānaḥ*)—praising
+- भूरि (*bhūri*)—as known **NOTE**
+- दधाति (*dadhāti*)—holds (the oblation)
+- सहसा (*sahasā*)—the powerful
+- अग्निः (*agniḥ*)—Agni
+- वृधानः (*vṛdhānaḥ*)—growing
+- कुवित् (*kuvit*)—abundant oblation
+- चकानः (*cakānaḥ*)—desiring
+- देवस्य (*devasya*)—to the sacrificer, the giver of the oblation
+- सुम्मं (*summaṃ*)—happiness
+- वनते (*vanate*)—brings about
+
+### Printed p. 786
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwelling, you the protector: whenever you wish to enjoy the oblation offered by the sacrificer, the sacrificer, praising your famous name, holds abundant oblation ready to offer to you. The powerful Agni, growing and desiring abundant oblation, brings happiness to the sacrificer, the giver of the oblation.
+
+##### English translation (H. H. Wilson)
+Glorifying you he offers the copious oblation, if, bestower of dwellings, you as a father are pleased to accept it: Agni, ever augmenting, and desirous (to befriend), by his might, the devout (worshipper, offering) copious oblations, bestows upon him happiness.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमं॒ग ज॑रि॒तारं॑ यविष्ठ॒ विश्वा॑न्यग्ने दुरि॒ताति॑ पर्षि ।  
+> स्ते॒ना अ॑दृश्रन्रि॒पवो॒ जना॒सोऽज्ञा॑तकेता वृजि॒ना अ॑भूवन् ॥
+
+> *tvamaṃga jaritāraṃ yaviṣṭha viśvānyagne duritāti parṣi |*  
+> *stenā adṛśranripavo janāso 'jñātaketā vṛjinā abhūvan ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तेनाः । अदृश्रन् । रिपवः । जनासः । अज्ञातकेताः । वृजिनाः । अभूवन् ॥ ११ ॥
+
+> *stenāḥ | adṛśran | ripavaḥ | janāsaḥ | ajñātaketāḥ | vṛjināḥ | abhūvan ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंग स्वामिन्यविष्ठ युवतमाग्ने जरितारं स्तोतारमनुग्रहीतुं विश्वानि
+> दुरिता दुरितान्यति पर्षि । अतिपारयसि । स्तेनास्तस्करा अदृश्रन् । दृश्यंते । रिपवो
+> जनासः शत्रुभूता मनुष्या अज्ञातकेता अप्रज्ञातचिह्ना वृजिना अस्माभिर्वर्जिता
+> अभूवन् । भवंति ॥
+
+##### Gist of the bhāṣya
+
+O dear one (अंग (*aṃga*), "lord"), youngest (यविष्ठ (*yaviṣṭha*) = युवतम (*yuvatama*)) Agni, in order to favour the praiser (जरितारं (*jaritāraṃ*) = *stotāraṃ*) you carry him across all sins. Thieves (स्तेनास्तस्करा (*stenāstaskarā*)) have been seen (अदृश्रन् दृश्यंते (*adṛśran dṛśyaṃte*)). The hostile men (रिपवो जनासः (*ripavo janāsaḥ*)), those who have become enemies, of unknown signs (अज्ञातकेता अप्रज्ञातचिह्ना (*ajñātaketā aprajñātacihnā*)), have been shunned by us (वृजिना अस्माभिर्वर्जिता (*vṛjinā asmābhirvarjitā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O extremely young one
+- अंग (*aṃga*)—and lord
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- जरितारं (*jaritāraṃ*)—the praiser
+- विश्वानि (*viśvāni*)—all
+- दुरिता (*duritā*)—from sins
+
+### Printed p. 787
+- अति पर्षि (*ati parṣi*)—you carry through to the end
+- स्तेनाः (*stenāḥ*)—thieves
+- अदृश्रन् (*adṛśran*)—have fallen within our sight
+- अज्ञातकेताः (*ajñātaketāḥ*)—moving secretly (desiring harm without our knowing)
+- रिपवो जनासः (*ripavo janāsaḥ*)—hostile people
+- वृजिनाः (*vṛjināḥ*)—having been abandoned by us
+- अभूवन् (*abhūvan*)—have become
+
+##### भावार्थ (Bhāvārtha)
+
+O extremely young one and lord, Agni, you carry your praiser through to the end of all sins. All our thieves have fallen within our notice. All hostile people, who wish us harm and carry secret signs unknown to us, have been abandoned by us.
+
+##### English translation (H. H. Wilson)
+Agni, youngest (of the gods), verily you bear your adorer (safe) beyond all calamities: thieves have been detected, and hostile men with covert evil intentions, have been avoided (by us.)
+
+##### विशेषविषयगळु (Special Topics)
+
+Agni is prayed to protect us from all sins. Sentences containing such a prayer are found especially in the praise of Agni. In some contexts the description is also given with a simile. In this matter: विश्वान्यग्ने दुरिताति पर्षि (*viśvānyagne duritāti parṣi*) (Ṛ. Saṃ. 5-3-11); सिंधुं न नावा दुरिताति पर्षि (*siṃdhuṃ na nāvā duritāti parṣi*) (Ṛ. Saṃ. 5-4-9); स नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं दुरितात्यग्निः । (*sa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ duritātyagniḥ |*) (Ma. Sa. 1-99-1) **NOTE**. Many such examples can be given.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे यामा॑सस्त्व॒द्रिग॑भूव॒न्वस॑वे वा॒ तडिदागो॑ अवाचि ॥  
+> नाहा॒यम॒ग्निर॒भिश॑स्तये नो॒ न रीष॑ते वावृधा॒नः परा॑ दात् ॥
+
+> *ime yāmāsastvadrigabhūvanvasave vā taḍidāgo avāci ‖*  
+> *nāhāyamagnirabhiśastaye no na rīṣate vāvṛdhānaḥ parā dāt ‖*
+
+### Printed p. 788
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । यामासः । त्वद्रिक् । अभूवन् । वसवे । वा । तत् । इत् । आगः । अवाचि ।  
+> न । अह । आयं । अग्निः । अभिशस्तये । नः । न । रिषते । ववृधानः । परा । दात् ॥१२॥
+
+> *ime | yāmāsaḥ | tvadrik | abhūvan | vasave | vā | tat | it | āgaḥ | avāci |*  
+> *na | aha | āyaṃ | agniḥ | abhiśastaye | naḥ | na | riṣate | vavṛdhānaḥ | parā | dāt ‖12‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे यामासो गंतारः स्तोमास्त्वद्रिक् त्वदभिमुखा अभूवन् । भवंति ।
+> वा अथवा वसवे वासकाय तदागोऽपराधमाशासनरूपमवाचि । उक्तवानहमग्निं।
+> इदं देहीति याचनमेवापराधः । इदिति पूरणः । यद्वा । तदिदं वक्ष्यमाणं
+> शत्रुभिः कृतवागोऽवाचि । किंचायमग्निर्ववृधानः स्तुत्या वर्धमानः सन् नाह
+> नैवाभिशस्त्रये निंदकाय नोऽस्मान् परा दात् । परादद्यात् । तथा रिषते
+> हिंसकाय नैव परा दात् ॥
+
+##### Gist of the bhāṣya
+
+These praises (*stomāḥ*), which go (यामासो गंतारः (*yāmāso gaṃtāraḥ*)), have become directed towards you. Or else: to the dwelling-giver (वसवे वासकाय (*vasave vāsakāya*)) an offence (*āgaḥ aparādhaḥ*) in the form of a petition (*āśāsanarūpaṃ*) has been uttered by me to Agni; asking "give this" is itself the offence; इत् (*it*) is a filler. Or else, this offence, which will be told, has been uttered as committed by enemies. Moreover this Agni, growing (ववृधानः (*vavṛdhānaḥ*)) through praise, should by no means give us over to the reviler (अभिशस्तये—निंदकनाद (*abhiśastaye—niṃdakanāda*)), and likewise should not give us over to the injurer (रिषते हिंसकाय (*riṣate hiṃsakāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यामासः (*yāmāsaḥ*)—going in search of you
+- इमे (*ime*)—these praises
+- त्वद्रिक् (*tvadrik*)—directed towards you alone
+- अभूवन् (*abhūvan*)—have become
+- वा (*vā*)—or perhaps
+- वसवे (*vasave*)—with regard to Agni, the giver of dwelling
+- तत् (*tat*)—my petition
+- आगः (*āgaḥ*)—in the form of an offence
+- अवाचि (*avāci*)—may have been uttered
+- अयं (*ayaṃ*)—this Agni
+- ववृधानः (*vavṛdhānaḥ*)—growing (through my praise)
+- नः (*naḥ*)—us
+- अभिशस्तये (*abhiśastaye*)—into the power of the reviling enemy
+- न आह परा दात् (*na āha parā dāt*)—let him certainly not give over
+- रिषते न (*riṣate na*)—nor to the injuring enemy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, these praises, going in search of you alone, are directed towards you. Or perhaps my petition may even have troubled you. Pardoning this offence, and growing through my praises, do not give us over to the enemy who reviles us and injures us.
+
+##### English translation (H. H. Wilson)
+These (encomiums) are directed towards you, but perhaps an offence has thereby been uttered to (you), the giver of dwellings: may Agni, augmenting (by our praise), yield us not up to the maligner or the malevolent.
+
+### Printed p. 789
+
+##### विशेषविषयगळु (Special Topics)
+
+In this last ṛk, which is in the nature of a conclusion, the seer, praising Agni, prays that if he has committed an offence against Agni for some other reason or through ignorance, Agni forgive all of it and protect him so that he does not fall into the enemy's power.
+
+## Sūkta 4 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वामग्न इत्येकादशर्चं चतुर्थं सूक्तमात्रेयस्य वसुश्रुतस्यार्षं
+> त्रैष्टुभवाग्नेयं । अनुक्रांतं च । त्वामग्न एकादशेति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोगोऽबोध्यग्निरित्यत्रोक्तः ॥
+> अनुवादवु—त्वामग्ने ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु.
+> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ आत्रेयगोत्रद वसुश्रुतनॆंबुवनु ऋषियु;
+> अग्नियु देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि त्वामग्न एकादश ऎंदु हेळिरुवुदु.
+> प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्रपठनक्कागि ई सूक्तद विनियोगविरुवुदॆंदु ई मंडलद
+> अबोध्यग्निः ऎंब मॊदलनॆय सूक्तद विनियोगदल्लिये हेळलागिदॆ.
+> सूक्त-४
+> मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—४ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग— १८, १९ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—वसुश्रुत आत्रेयः !
+> देवता—आग्निः ॥
+> छंदः—त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+This is the fourth sūkta, त्वामग्न (*tvāmagna*) (the first word is printed श्वामग्न (*śvāmagna*)), of eleven ṛks. Its seer is Vasuśruta of the Ātreya line; its deity is Agni; its metre is Triṣṭubh. The Anukramaṇī says त्वामग्न एकादशेति (*tvāmagna ekādaśeti*). Its use (viniyoga) in the Prātaranuvāka and the Āśvinaśastra is stated under अबोध्यग्निः (*abodhyagniḥ*) (the first sūkta).
+
+##### Anuvāda
+
+The fourth sūkta, "tvām agne", is the fourth sūkta in the first anuvāka. It has eleven ṛks. Its seer is Vasuśruta of the Ātreya gotra; Agni is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as त्वामग्न एकादश (*tvāmagna ekādaśa*). It was stated in the use of the first sūkta of this maṇḍala, "abodhy agniḥ", that this sūkta is used for the recitation of the mantras of the Prātaranuvāka and the Āśvinaśastra.
+
+##### Particulars
+
+Sūkta 4. Maṇḍala 5; Anuvāka 1; Sūkta 4. Aṣṭaka 3; Adhyāya 8; Varga 18, 19. Number of ṛks in the sūkta: 11. Ṛṣi: Vasuśruta Ātreya. Devatā: Agni. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने॒ वसु॑पतिं॒ वसू॑नाम॒भि प्रमं॑दे अध्व॒रेषु॑ राजन् ।  
+> त्वया॒ वाजं॑ वाज॒यंतो॑ जयेमा॒भि ष्या॑म पृत्सु॒तीर्मत्या॑नां ॥ १ ॥
+
+> *tvāmagne vasupatiṃ vasūnāmabhi pramaṃde adhvareṣu rājan |*  
+> *tvayā vājaṃ vājayaṃto jayemābhi ṣyāma pṛtsutīrmatyānāṃ ‖ 1 ‖*
+
+### Printed p. 790
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । वसुपतिं । वसूनां । अभि । प्र । मंदे । अध्वरेषु । राजन् ॥  
+> त्वया । वाजं । वाजयंतः । जयेम । अभि । स्याम । पृत्सुतीः । मर्त्यानां ॥ १ ॥
+
+> *tvāṃ | agne | vasupatiṃ | vasūnāṃ | abhi | pra | maṃde | adhvareṣu | rājan ‖*  
+> *tvayā | vājaṃ | vājayaṃtaḥ | jayema | abhi | syāma | pṛtsutīḥ | martyānāṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वसूनां वसुपतिं । वृत्त्यवृत्तिभ्यां वसूनां बाहुल्यं तत्स्वामित्वं
+> चोक्तं । बहूनां धनानां स्वामिनं त्वामध्वरेषु यागेष्टभि प्र मंदे । अभिमुख्येन सौमि हे राजन् । किंच त्वयानुकूलेन वाजयंतोऽन्नमिच्छंतो वयं
+> वाजं जयेम । किंच मर्त्यानां मरणधर्मकाणां पृत्सुतीः सेना अभि ष्याम ।
+> अभिभवेम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, lord of the wealths (वसूनां वसुपतिं (*vasūnāṃ vasupatiṃ*)): by the construction with and without a compound (वृत्त्यवृत्तिभ्यां (*vṛttyavṛttibhyāṃ*)) the abundance of wealths and the lordship over them are both stated. You, the lord of many riches, I praise (अभि प्र मंदे (*abhi pra maṃde*) = अभिमुख्येन सौमि (*abhimukhyena saumi*), facing you) at the sacrifices, O king. Further, with you favourable, we who desire food (*vājayaṃtaḥ annamicchaṃtaḥ*) would win food. Further, may we overcome the armies (पृत्सुतीः सेना (*pṛtsutīḥ senā*)) of mortals (मर्त्यानां मरणधर्मकाणां (*martyānāṃ maraṇadharmakāṇāṃ*)), those subject to death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord
+- अग्ने (*agne*)—O Agni
+- वसूनां (*vasūnāṃ*)—of wealths of many kinds
+- वसुपतिं (*vasupatiṃ*)—the owner
+- त्वां (*tvāṃ*)—you
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- अभि प्र मंदे (*abhi pra maṃde*)—I praise and gratify
+- वाजयंतः (*vājayaṃtaḥ*)—we who desire food
+- त्वया (*tvayā*)—by your favour
+- वाजं (*vājaṃ*)—food
+- जयेम (*jayema*)—may we obtain
+- मर्त्यानां (*martyānāṃ*)—of the enemy people
+- पृत्सुतीः (*pṛtsutīḥ*)—the armies
+- अभि ष्याम (*abhi ṣyāma*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O lord Agni, you who are the owner of wealths of many kinds, I praise in the sacrifices and so gratify you. May we, who desire food, obtain food by your favour. May we conquer the armies of the enemy people.
+
+##### English translation (H. H. Wilson)
+Royal Agni, I glorify at sacrifices, you who are the lord of vast riches; may we who are in want of food obtain food through you, and (through you) may we overcome hosts of (hostile) men.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this ṛk is clear. The doubling of words of one and the same meaning, as in वसुपतिं वसूनां (*vasupatiṃ vasūnāṃ*), occurs in many places in the Ṛgveda. There are many examples such as रयिपतिं रयीणां (*rayipatiṃ rayīṇāṃ*), विशां विश्वतिं (*viśāṃ viśvatiṃ*), देवो देवानां (*devo devānāṃ*), ज्योतिषां ज्योतिः (*jyotiṣāṃ jyotiḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 784. pp. 779-784 (batch API)
+**Progress note:** Done through printed p. 790. pp. 785-790 (batch API)
