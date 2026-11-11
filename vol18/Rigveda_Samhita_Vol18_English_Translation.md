@@ -9752,6 +9752,308 @@ Use: with अस्माकमुत्तमं कृधि (*asmākamuttama�
 - उत्तमं (*uttamaṃ*)—as the most excellent
 - कृधि (*kṛdhi*)—make
 
+### Printed p. 266
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, just as you have set the heaven, which pours down rain most abundantly, in a region higher than all the worlds, so make our fame too spread among the gods and be the most excellent.
+
+##### English translation (H. H. Wilson)
+Surya, make our fame exalted among the gods, as (you have placed) the sky, the shedder of most copious rain, above (all other regions).
+
+## Sūkta 32 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ तू न इंद्रेति चतुर्विंशत्यृचमेकादशं सूक्तं वामदेवस्यार्षं गायत्रमैंद्रं । अंत्ये कनीनकेवेत्यादिके द्वे इंद्रस्याश्वदेवताके । तथा चानुक्रांतं ।
+> आ तू नश्चतुर्विंशतिरंत्याभ्यामिंद्राश्वा स्तुताविति । गतो विनियोगः ॥
+> अनुवादवु—आ तू न इंद्र ऎंब ई सूक्तवु मूरनॆय अनुवाकदल्लि हन्नॊंदनॆय
+> सूक्तवु. इदरल्लि इप्पत्तनाल्कु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्रनु
+> देवतॆयु ; गायत्रीछंदस्सु कनीनकेव ऎंब ई सूक्तद कॊनॆय ऎरडु ऋक्कुगळिगॆ इंद्रन
+> अश्वगळु देवतॆगळु. अनुक्रमणिकॆयल्लि—आ तू नश्चतुर्विंशतिरंत्याभ्यामिंद्राश्वा स्तुता
+> ऎंदु हेळिरुवुदु. विनियोगवन्नु हिंदॆये हेळलागिदॆ.
+> सूक्त-३२
+> मंडल—४ ॥ अनुवाक—३ ॥ सूक्त—३२ ॥
+> अष्टक—३ ॥ अध्याय—६ ॥ वर्ग—२७, २८, २९, ३० ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२४ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—१-२२. इंद्रः । २३-२४. इंद्राश्वा ॥
+> । छंदः—गायत्री ॥
+
+##### Gist of the bhāṣya
+
+This is the eleventh sūkta, with twenty-four ṛks, beginning आ तू न इंद्र (*ā tū na iṃdra*). The seer is Vāmadeva, the deity Indra, the metre Gāyatrī; the last two ṛks, beginning कनीनकेव (*kanīnakeva*), have Indra's horses as deity. The Anukramaṇī says: आ तू नश्चतुर्विंशतिरंत्याभ्यामिंद्राश्वा स्तुता (*ā tū naścaturviṃśatiraṃtyābhyāmiṃdrāśvā stutā*). The viniyoga has already been stated.
+The particulars: Maṇḍala 4, Anuvāka 3, Sūkta 32; Aṣṭaka 3, Adhyāya 6, Vargas 27, 28, 29, 30; 24 ṛks; seer Vāmadeva; deity: 1–22 Indra, 23–24 Indra's horses; metre Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू न॑ इंद्र वृत्रहन्न॒स्माक॑म॒र्धमा ग॑हि ।  
+> म॒हान्म॒हीभि॑रू॒तिभिः॑ ॥ १ ॥
+
+> *ā tū na iṃdra vṛtrahannasmākamardhamā gahi |*  
+> *mahānmahībhirūtibhiḥ ‖ 1 ‖*
+
+### Printed p. 267
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । नः । इंद्र । वृत्रहन् । अस्माकं । अर्धं । आ । गहि ।  
+> महान् । महीभिः । ऊतिभिः ॥ १ ॥
+
+> *ā | tu | naḥ | iṃdra | vṛtrahan | asmākaṃ | ardhaṃ | ā | gahi |*  
+> *mahān | mahībhiḥ | ūtibhiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्राणां शत्रुणां हिंसकेंद्र त्वं नोऽस्मान्प्रति तु क्षिप्रमागच्छ । हे इंद्र महान्स्रभूतस्त्वं महीभिर्महतीभिरूतिभी रक्षाभिः सहास्माकमर्ध०
+> समीपमा गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of Vṛtras (enemies), come quickly to us. O Indra, you who are great, come near to us with mighty protections.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O slayer of Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—facing us
+- तु (*tu*)—quickly
+- आ गहि (*ā gahi*)—graciously come
+- महान् (*mahān*)—you of mighty form
+- महीभिः (*mahībhiḥ*)—with abundant (or glorious)
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- अस्माकमर्धं (*asmākamardhaṃ*)—to our vicinity
+- आ (गहि) (*ā (gahi)*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, come quickly towards us. You of mighty form, graciously come near us with your glorious, abundant protections.
+
+##### English translation (H. H. Wilson)
+Indra, slayer of Vritra, come to us quickly: you who are mighty, (come) with mighty protections.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भृमि॑श्चिद्घासि॒ तूतु॑जि॒रा चि॑त्र चि॒त्रिणी॒ष्वा ।  
+> चि॒त्रं कृ॑णोष्यू॒तये॑ ॥ २ ॥
+
+> *bhṛmiścidghāsi tūtujirā citra citriṇīṣvā |*  
+> *citraṃ kṛṇoṣyūtaye ‖ 2 ‖*
+
+### Printed p. 268
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भृमिः । चित् । घ । असि । तूतुजिः । आ । चित्र । चित्रिणेषु । आ ।  
+> चित्रं । कृषोषि । ऊतये ॥ २ ॥
+
+> *bhṛmiḥ | cit | gha | asi | tūtujiḥ | ā | citra | citriṇeṣu | ā |*  
+> *citraṃ | kṛṣoṣi | ūtaye ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे चित्र चायनीय पूजनीयेंद्र त्वं भृमिश्चित् भ्रमणशीलोऽपि
+> तूतुजिर्घासि । अस्मदभीष्टप्रदाता च भवसि । आकारश्चार्थे । चित्रिणेषु चित्रकर्मयुक्तास्वस्मद्रूपासु प्रजासु चित्रं चायनीयं धनमूतये रक्षणाय
+> आ कृषोषि । आ समंतात्करोषि । घेति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+O wonderful (worshipful) Indra, though you are given to roaming, you are a swift granter of our desires; the particle आ (*ā*) is in the sense of "and". Among the people, ours, engaged in various rites, you bring wonderful, desirable wealth all around for protection. घ (*gha*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र (*citra*)—O worshipful Indra
+- भृमिश्चित् (*bhṛmiścit*)—though of a nature to roam everywhere
+- तूतुजिः घासि (*tūtujiḥ ghāsi*)—you are the fulfiller of our desires
+- चित्रिणीषु (*citriṇīṣu*)—among people engaged in various rites
+- चित्रं (*citraṃ*)—attractive wealth
+- ऊतये (*ūtaye*)—for protection
+- आ कृणोषि (*ā kṛṇoṣi*)—you fill up
+
+##### भावार्थ (Bhāvārtha)
+
+Worshipful Indra, though you are of a nature to roam everywhere, you are the fulfiller of our desires. For the protection of the people who are busy in various rites to worship you, you fill them with attractive wealth.
+
+##### English translation (H. H. Wilson)
+Wonderful Indra, wanderer at times (through space), you are verily the granter of (our) desires, and do what is marvellous for the protection (of those who are engaged) in wondrous works.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒भ्रेभि॑श्चि॒च्छती॑यांसं॒ हंसि॒ वृद्धं॑त॒मोज॑सा ।  
+> सखि॑भि॒र्ये त्वे सचा॑ ॥ ३ ॥
+
+> *dabhrebhiścicchatīyāṃsaṃ haṃsi vṛddhaṃtamojasā |*  
+> *sakhibhirye tve sacā ‖ 3 ‖*
+
+### Printed p. 269
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दभ्रेभिः । चित् । शशीयांसं । हंसि । वृद्धंतं । ओजसा ।  
+> सखिभिः । ये । त्वे इति । सचा ।
+
+> *dabhrebhiḥ | cit | śaśīyāṃsaṃ | haṃsi | vṛddhaṃtaṃ | ojasā |*  
+> *sakhibhiḥ | ye | tve iti | sacā |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दभ्रेभिश्चिदल्पैरपि सखिभिर्यजमानैः सह शशीयांसं ॥ शत
+> प्लुतगत् ॥ उत्सवमानं व्राधंतं महांतमपि शत्रुमोजसा बलेन हंसि ।
+> नाशयसि । ये यजमानास्त्वे त्वयि सचा संगताः । तैरिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, together with your friends the sacrificers, even if they are few, you destroy by your might the enemy who is bounding (शशीयांसं (*śaśīyāṃsaṃ*)) and growing, even a great one. The sacrificers are those who are joined to you; the connection is with what precedes ("by them").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those sacrificers who
+- त्वे (*tve*)—in you
+- सचा (*sacā*)—are united
+- दभ्रेभिश्चित् (*dabhrebhiścit*)—though few
+- सखिभिः (*sakhibhiḥ*)—joining such friendly sacrificers
+- शशीयांसं (*śaśīyāṃsaṃ*)—one who runs off as if flying
+- प्राधंतं (*prādhaṃtaṃ*)—and one of great power, the enemy too
+- ओजसा (*ojasā*)—by your strength
+- हंसि (*haṃsi*)—you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those sacrificers who are joined to you, though few, together with such friendly sacrificers of yours, you destroy by your strength the enemy who runs off as if flying and who is of great power.
+
+##### English translation (H. H. Wilson)
+You destroy by your might the fierce assailing foe, associated with the humble friends who are along with you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमिं॑द्र॒ त्वे सचा॑ व॒यं त्वा॒भि नो॑नुमः ।  
+> अ॒स्मा अ॑स्मा॒ इदुद॑व ॥ ४ ॥
+
+> *vayamiṃdra tve sacā vayaṃ tvābhi nonumaḥ |*  
+> *asmā asmā idudava ‖ 4 ‖*
+
+### Printed p. 270
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । इंद्र । त्वे इति । सचा । वयं । त्वा । अभि । नोनुमः ।  
+> अस्मान् अस्मान् । इत् । उत् । अव ॥ ४ ॥
+
+> *vayaṃ | iṃdra | tve iti | sacā | vayaṃ | tvā | abhi | nonumaḥ |*  
+> *asmān asmān | it | ut | ava ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं यजमानास्त्वे त्वयि सचा संगताः स्मः । वयं त्वा त्वामभि
+> नोनुमः । अतिशयेनाभिष्टुभः । हे इंद्र त्वमप्यस्मानस्मानित् सर्वानस्मानेवोदव ।
+> उत्कर्षेण रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we sacrificers are united with you; we praise you exceedingly. You too protect all of us, only us, with excellence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वयं (*vayaṃ*)—we, the sacrificers
+- त्वे (*tve*)—in you
+- सचा (*sacā*)—are united
+- वयं (*vayaṃ*)—we
+- त्वा (*tvā*)—you
+- अभि (*abhi*)—exceedingly
+- नोनुमः (*nonumaḥ*)—praise
+- अस्मानस्मान् इत् (*asmānasmān it*)—us all alone
+- उत् अव (*ut ava*)—protect fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we sacrificers are united with you and praise you exceedingly. Protect all of us alone fully.
+
+##### English translation (H. H. Wilson)
+We, Indra, are along with you; we zealously glorify you: do verily protect us all.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॑श्चि॒त्राभि॑रद्रिवोनव॒द्याभि॑रू॒तिभिः॑ ।  
+> अना॑धृष्टाभि॒रा ग॑हि ॥ ५ ॥
+
+> *sa naścitrābhiradrivonavadyābhirūtibhiḥ |*  
+> *anādhṛṣṭābhirā gahi ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । चित्राभिः । अद्रिवः । अनवद्याभिः । ऊतिभिः ।  
+> अनाधृष्ट्वाभिः । अ गहि ॥ ५ ॥
+
+> *saḥ | naḥ | citrābhiḥ | adrivaḥ | anavadyābhiḥ | ūtibhiḥ |*  
+> *anādhṛṣṭvābhiḥ | a gahi ‖ 5 ‖*
+
+### Printed p. 271
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र स त्वं चित्राभिश्चायनीयाभिरनवद्याभिरनिंदिताभिरनाधृष्टाभिः शत्रुभिरप्रधर्षितैरूतिभी रक्षणैः सहितः सन्नोऽस्माना गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the bolt (अद्रिवः (*adrivaḥ*)), Indra, come to us accompanied by your wonderful, blameless protections, which enemies cannot overcome.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, holder of the thunderbolt
+- सः (*saḥ*)—you, the renowned
+- चित्राभिः (*citrābhiḥ*)—attractive
+- अनवद्याभिः (*anavadyābhiḥ*)—blameless
+- अनाधृष्टाभिः (*anādhṛṣṭābhiḥ*)—unassailed by enemies
+- ऊतिभिः (*ūtibhiḥ*)—with your protections
+- नः (*naḥ*)—towards us
+- आ गहि (*ā gahi*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, holder of the thunderbolt, renowned one, come graciously towards us joined with your attractive, blameless protections, unassailed by enemies.
+
+##### English translation (H. H. Wilson)
+Wielder of the thunderbolt, come to us with wondrous, irreproachable, irresistible protections.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भू॒यामो॒ षु त्वाव॑तः॒ सखा॑य इंद्र॒ गोम॑तः ।  
+> युजो वाजाय सृस्टये ॥ ६ ॥
+
+> *bhūyāmo ṣu tvāvataḥ sakhāya iṃdra gomataḥ |*  
+> *yujo vājāya sṛsṭaye ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूयामो इति । सु । त्वावतः । सखायः । इंद्र । गोऽमतः ।  
+> युजः । वाजाय । फृष्टये ॥ ६ ॥
+
+> *bhūyāmo iti | su | tvāvataḥ | sakhāyaḥ | iṃdra | go 'mataḥ |*  
+> *yujaḥ | vājāya | phṛṣṭaye ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वावतस्त्वत्सदृशस्य गोमतो गोभिर्युक्तस्य देवस्य संबंधिनः
+> सखायः स्तोकारो वयं फृष्टये महते वाजायान्नाय युजः संयुक्ताः
+> सु सुष्टु भूयामो । भवामैव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we, the friends and praisers of a god like you, possessed of cows, are united to great food (वाजाय (*vājāya*)) for फृष्टये (*phṛṣṭaye*); may we be well so (भूयामो (*bhūyāmo*)), may we indeed be.
+
 ---
 
-**Progress note:** Done through printed p. 265. pp. 260-265 (batch API)
+**Progress note:** Done through printed p. 271. pp. 266-271 (batch API)
