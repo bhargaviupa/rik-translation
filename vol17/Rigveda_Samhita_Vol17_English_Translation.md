@@ -336,6 +336,235 @@ The Bṛhaddevatā explains this adjective, which indicates the relation of thes
 
 "O Indra, lord of the good (सत्पते (*satpate*)): these Soma juices, gladdening (चंद्रासः (*caṃdrāsaḥ*)) and bright (इंदवः (*iṃdavaḥ*)), pressed and offered by us, go forth (प्र यंति (*pra yaṃti*)) into क्षयं (*kṣayaṃ*)." क्षय (*kṣaya*) is the belly, since food and the like dwell (क्षियंति (*kṣiyaṃti*)) in it; प्र यंति (*pra yaṃti*) means they go forth vigorously. The sense is: hold them. चंद्रासः (*caṃdrāsaḥ*) is from चदि (*cadi*), in the sense of gladdening and shining.
 
+### Printed p. 14
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्पते (*satpate*)—O lord of the virtuous
+- इंद्र (*iṃdra*)—Indra
+- चंद्रासः (*caṃdrāsaḥ*)—delighting
+- इंदवः (*iṃdavaḥ*)—brilliant
+- सुताः (*sutāḥ*)—pressed
+- इमे (*ime*)—offered by us
+- सोमाः (*somāḥ*)—these Soma juices
+- तव (*tava*)—your
+- क्षयं (*kṣayaṃ*)—towards the dwelling-place in the form of the stomach
+- प्र यंति (*pra yaṃti*)—flow forth (in streams)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of the virtuous, these Soma juices, delighting, brilliant, pressed and offered by us, flow towards your dwelling-place, your stomach.
+
+##### English translation (H. H. Wilson)
+Indra, lord of the virtuous, these effused Soma juices, exhilarating and brilliant, proceed to your abode (stomach)
+
+##### विशेषविषयगळु (Special Topics)
+
+चंद्रासः (*caṃdrāsaḥ*)—The word चंद्र (*caṃdra*), formed from the root चदि आह्लादने (*cadi āhlādane*), means delightful, giving joy. This word is an adjective of the word सोमाः (*somāḥ*).
+
+इंदवः (*iṃdavaḥ*)—The word इंदु (*iṃdu*), formed from the root उंदी क्लेदने (*uṃdī kledane*), means oozing, dripping. When the Soma plants are crushed with a stone and the juice is taken out, the Soma juice drips little by little, just as juice oozes when sugarcane is pressed; so it is the custom to call freshly pressed Soma juice इंदु (*iṃdu*) or इंदवः (*iṃdavaḥ*) (plural). Since it has just been pressed, the sense "shining" can also be given.
+
+क्षयं (*kṣayaṃ*)—The dwelling-place. Here the dwelling-place means Indra's belly. After Indra drinks the Soma juice it goes into his belly and settles there; hence that stomach is designated here as क्षयं (*kṣayaṃ*), the dwelling-place.
+
+इमे सुताः (*ime sutāḥ*)—These Soma juices that we are pressing now in the sacrifice; that is, not juices pressed earlier. The sense is: the Soma juice freshly pressed now.
+
+सोमाः सुताः (*somāḥ sutāḥ*)—These are words ending in the nominative plural. The earlier forms of these words, सोमासः सुतासः (*somāsaḥ sutāsaḥ*), are also much used in the Ṛgveda.
+
+### Printed p. 15
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒ष्वा ज॒ठरे॑ सु॒तं सोम॑मिंद्र॒ वरे॑ण्यं ।  
+> तव॑ द्यु॒क्ष्यास॒ इंद॑वः ॥ ५ ॥
+
+> *dadhiṣvā jaṭhare sutaṃ somamiṃdra vareṇyaṃ |*  
+> *tava dyukṣyāsa iṃdavaḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिष्व । जठरे । सुतं । सोमं । इंद्र । वरेण्यं ।  
+> तप । म्यक्षासक । इंदवः ॥ ५ ॥
+
+> *dadhiṣva | jaṭhare | sutaṃ | somaṃ | iṃdra | vareṇyaṃ |*  
+> *tapa | myakṣāsaka | iṃdavaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वरेण्यं सर्वैर्वर्णीयं सुतमभिषुतं सोमं जठरे दधिष्क
+> धारय । इंदवो दीप्ता इमे सोमास्तव द्युक्षासः । दिवि क्षियंति निवसंतीति
+> द्युक्षासः । अतस्त्वं तान् धारयेति भावः ॥ दधिष्क । दधातेर्लोटि रूपं । आगमा
+> अनुदात्ता इतीटोऽनुदात्तत्वात्पत्ययस्वरः वरेण्यं । वृज् संभक्तौ । वृज एण्य।
+> इत्येण्प्रत्ययः । वृषादित्वादाद्युदात्तः । द्युक्षासः । क्षियतेरन्येभ्योऽपि दृश्यत इति
+> डप्रत्ययः । कृदुत्तरपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, hold (दधिष्क (*dadhiṣka*)) in your belly the pressed Soma, which is to be chosen by all. These bright Soma drops are द्युक्षासः (*dyukṣāsaḥ*) (yours): they dwell in heaven (दिवि क्षियंति निवसंतीति (*divi kṣiyaṃti nivasaṃtīti*)). Therefore you should hold them. The meaning is that you should take them in.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वरेण्यं (*vareṇyaṃ*)—esteemed (by all)
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—this Soma juice
+- जठरे (*jaṭhare*)—in the stomach
+- दधिष्ट्व (*dadhiṣṭva*)—fill
+- इंदवः (*iṃdavaḥ*)—these shining Soma juices
+- तव (*tava*)—with you
+- द्युक्षासः (*dyukṣāsaḥ*)—are such as dwell in the world of the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fill your stomach with this Soma juice, esteemed by all and pressed by us. These shining Soma juices dwell with you in the world of the gods.
+
+##### English translation (H. H. Wilson)
+Receive, Indra, into your stomach this excellent effused libation, these bright (drops) abide with you in heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+वरेण्यं (*vareṇyaṃ*)—सर्वैर्वणेयं (*sarvairvaṇeyaṃ*). Desired or esteemed by all. Since Soma juice gives joy to those who drink it, everyone desires it. Therefore Soma juice is described here by the word वरेण्यं (*vareṇyaṃ*).
+
+### Printed p. 16
+
+##### विशेषविषयगळु (Special Topics)
+
+द्युक्षासः (*dyukṣāsaḥ*)—दिवि क्षियंति निवसंतीति द्युक्षासः (*divi kṣiyaṃti nivasaṃtīti dyukṣāsaḥ*). Because this Soma juice dwells in the heavenly world, or because the dwelling-place of this Soma juice is heaven, it is described here by the word द्युक्षासः (*dyukṣāsaḥ*), having its dwelling-place in heaven. On this subject there is a sentence of the Taittirīya Brāhmaṇa: तृतीयस्यामितो दिवि सोम आसीत् । तं गायत्राहरत् (*tṛtīyasyāmito divi soma āsīt | taṃ gāyatrāharat*). There is a legend that formerly Soma was in heaven, and that Gāyatrī took the form of a hawk and brought it to the earth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गिर्व॑णः पा॒हि नः॑ सु॒तं मधो॒धारा॑भिरज्यसे ।  
+> इंद्र॒ त्वादा॑त॒मिद्यर्श॑ ॥ ६ ॥
+
+> *girvaṇaḥ pāhi naḥ sutaṃ madhodhārābhirajyase |*  
+> *iṃdra tvādātamidyarśa ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिर्वणः । पाहि । नः । सुतं । मधोः । धाराभिः । अज्यसे ।  
+> इंद्र । त्वादातं । इत् । यशः ॥ ६ ॥
+
+> *girvaṇaḥ | pāhi | naḥ | sutaṃ | madhoḥ | dhārābhiḥ | ajyase |*  
+> *iṃdra | tvādātaṃ | it | yaśaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिर्वणो गीर्भिर्वननीय । तथा च यास्कः । गिर्वणा देवो भवति गीर्भिरेनं
+> वनयंति । नि. ६-१४ । इति । तादृशेंद्र नोऽस्मदियं सुतमभिषुतमिमं सोमं
+> पाहि । पिब । यतो मधोर्मदकरस्य सोमस्य धाराभिरज्यसे सिच्यसे हे इंद्र
+> त्वादातमित्त्वया शोधितं विशदीकृतमेव यशोऽन्नमस्मासु भवति ॥ गिर्वणः । वन
+> संभक्तावित्यस्मादसुन् । गिर उपधाया दीर्घाभावश्चांदसः । अमंत्रितस्यॆति षाष्टिकमाद्युदात्तत्वं । पाहि । पा पान इत्यस्माल्लोटि रूपं । आमंत्रितस्याविद्यमानत्वेन
+> पादादित्वादनिघातः । प्रत्ययस्वरः । त्वादातं । दैप् शोधने । सत्यपि पकारे नानुबंधकृतमनेजंतत्वमित्येजंत एवायं । तत अदेच इत्यात्वं । अस्मात्कर्मणि क्तः ।
+> दाधा घ्नदाबित्यत्रादाबिति प्रतिषेधेन घुसंज्ञाया अभावाद्दो दद्योरिति ददादेतो न भवति । तैति युष्मच्छब्दस्य तृतीया कर्तकरणे कृता बहुलमिति समासः ।
+> तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः । यशः । अशू व्याप्तौ । अशेयुट्टेत्यसुन् । तत्संनियोगेन धातोर्युडागमः । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+गिर्वणः (*girvaṇaḥ*) means one to be served (वननीय (*vananīya*)) with songs of praise. So Yāska (Ni. 6-14) says that a god is गिर्वणा (*girvaṇā*) because people serve him with songs. O Indra, such as you are, drink this pressed Soma of ours, since you are sprinkled with the streams of the intoxicating Soma. O Indra, the food (यशः (*yaśaḥ*)) that is among us is cleansed and made clear by you.
+
+### Printed p. 17
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O Indra, who are drawn by praises
+- नः (*naḥ*)—offered by us
+- सुतं (*sutaṃ*)—and pressed, the Soma
+- पाहि (*pāhi*)—drink
+- मधोः (*madhoḥ*)—of the intoxicating Soma
+- धाराभिः (*dhārābhiḥ*)—with streams
+- अज्यसे (*ajyase*)—you are drenched
+- इंद्र (*iṃdra*)—O Indra
+- अन्नं (*annaṃ*)—this food in the form of our oblation
+- त्वादातमित् (*tvādātamit*)—has been purified by you alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drawn by praises, drink the Soma offered and pressed by us. You are drenched with the streams of the intoxicating Soma. O Indra, this food in the form of our oblation has been purified by you alone.
+
+##### English translation (H. H. Wilson)
+Indra, you are glorified with praise; drink this our libation, for you are sprinkled with the drops of the exhilarating (draught), the (sacrificial) food is verily purified by you.
+
+##### विशेषविषयगळु (Special Topics)
+
+गिर्वणः (*girvaṇaḥ*)—गीर्भिर्वननीय (*gīrbhirvananīya*). One who is described by words of praise. Yāska has given the explanation (Ni. 6-14) that a god is called गिर्वणा (*girvaṇā*) because people serve him with songs. That is, the word गिर्वणा (*girvaṇā*) means a god; for by praising him with words of praise and obtaining his favour, he is called गिर्वणा (*girvaṇā*), a god.
+
+मधोः धाराभिः अज्यसे (*madhoḥ dhārābhiḥ ajyase*)—Here the word मधु (*madhu*) means the intoxicating Soma juice, that is, the juice that gives joy. Although the word मधु (*madhu*) by itself means only sweet or joy-giving, since Soma juice has these qualities, using the word मधु (*madhu*) to denote Soma juice is a special custom in the Ṛgveda. धाराभिः (*dhārābhiḥ*) means falling from above or flowing in a stream. When the Soma plants are pressed, the juice pours down from them as water pours down, or, so poured, it flows away and collects in the large wooden vessel, the द्रोण (*droṇa*) or कलश (*kalaśa*), kept for it. The Soma juice that flows and collects in this way is described here by the words मधोः धाराभिः (*madhoḥ dhārābhiḥ*). The seer prays Indra: "Wet your belly with such Soma juice and refresh it."
+
+त्पादातं इत् (*tpādātaṃ it*)—त्वया शोधितं विशदीकृतमेव (*tvayā śodhitaṃ viśadīkṛtameva*). Purified or made clear by you. The commentator says that the word दातं (*dātaṃ*) is formed here from the root दैप् शोधने (*daip śodhane*) and explains the meaning accordingly. But what the food (oblation) purified by Indra is, is not clear. **NOTE**
+
+### Printed p. 18
+
+##### विशेषविषयगळु (Special Topics)
+
+(continued) However, the meaning "given" or "made clear" for दातं (*dātaṃ*) fits to a fair extent. That is, the sense is: this food in the form of an oblation, which we have obtained through Indra's favour.
+
+यशः (*yaśaḥ*)—अन्नं (*annaṃ*). The word यशः (*yaśaḥ*) is read among the 101 names of water (Ni. 2-24), among the twenty-eight names of food (Ni. 3-9) and among the twenty-eight names of wealth (Ni. 3-9). Here the commentator has taken the word यशः (*yaśaḥ*) in the sense of food and explained accordingly. **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्यु॒म्नानि॑ व॒निन॒ इंद्रं॑ सचंते॒ अक्षि॑ता ।  
+> प्री॒त्वी सोम॑स्य वावृधे ॥ ७ ॥
+
+> *abhi dyumnāni vanina iṃdraṃ sacaṃte akṣitā |*  
+> *prītvī somasya vāvṛdhe ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्युम्नानि । वनिनः । इंद्रं । सचंते । अक्षिता ।  
+> पीत्वी । सोमस्य । ववृधे ॥ ७ ॥
+
+> *abhi | dyumnāni | vaninaḥ | iṃdraṃ | sacaṃte | akṣitā |*  
+> *pītvī | somasya | vavṛdhe ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनिनः । वनं देवताविषयं संभजनमस्यास्तीति वनी । तस्य देवान् संभजमानस्य यजमानस्य द्युम्नानि द्योतमानान्यक्षिता क्षयरहितानि संपूर्णानि सोमादीनि हवींषींद्रमभि अभितः सचंते । समवयंति । तेषु मध्यॆ सोमस्य पीत्वी
+> सोमं पीत्वा वावृधे । स इंद्रो वर्धते ॥ वनिनः । अत इनिठनानितीनिप्रत्ययः ।
+> तस्य स्वरः । सचंते । षच समवाय इत्यस्य लट रूपं । अक्षिता । क्षि क्षय इत्यस्य निष्ठा ।
+> अत्र ण्यदर्थ इति दीर्घाभावः । तस्मादेव क्षियो दीर्घादिति निष्ठानत्ताभावः । नञा
+> समासे तस्य स्वरः । पीत्वी । पा पान इत्यस्मात् क्वाप्रत्ययस्य स्नात्वादयश्चेति
+> निपातनात् त्वी इत्यादेशः । प्रत्ययस्वरः । घुमास्थागापेत्यादिना ईत्वं ॥
+
+##### Gist of the bhāṣya
+
+वनिनः (*vaninaḥ*): one who has वनं (*vanaṃ*), devotion directed to the deities, is वनी (*vanī*); of that sacrificer who serves the gods, the shining, undiminished (अक्षिता (*akṣitā*)), full oblations, Soma and the others, gather around (अभि (*abhi*)) Indra, they join with him (सचंते (*sacaṃte*), समवयंति (*samavayaṃti*)). Among them, having drunk the Soma (पीत्वी (*pītvī*) for सोमं पीत्वा (*somaṃ pītvā*)), that Indra grows (वावृधे (*vāvṛdhe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनिनः (*vaninaḥ*)—of the sacrificer who worships the deity
+- द्युम्मानि (*dyummāni*)—shining
+- अक्षिता (*akṣitā*)—undiminished and full, the Soma and other oblations
+- इंद्रं (*iṃdraṃ*)—Indra
+- अभि (*abhi*)—all around
+- सचंते (*sacaṃte*)—pervade and join
+- सोमस्य (*somasya*)—of the Soma juice
+- पीर्वी (*pīrvī*)—by drinking
+- वावृधे (*vāvṛdhe*)—Indra grows
+
+### Printed p. 19
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma and other oblations offered by the sacrificer who worships the deity, shining and undiminished and full, pervade and gather around Indra. By drinking the Soma juice Indra grows.
+
+##### English translation (H. H. Wilson)
+The brilliant and imperishable (Soma juice), offered by the worshipper, encompasses Indra ; having drunk of the libation, he increases (in vigour).
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk does not fit without supplying words. Therefore the commentator has taken the words वनिनः (*vaninaḥ*) and अक्षिता (*akṣitā*) in their component senses. The word वनिनः (*vaninaḥ*), formed from the root वन संभक्तौ (*vana saṃbhaktau*), he explains as "of the sacrificer who attains or worships (the deity)", and the word अक्षिता (*akṣitā*) as indicating "imperishable or complete oblation-materials such as Soma". Although such an interpretation seems necessary to make this Ṛk clear, one should note that the Ṛk can be explained in other ways. But it should be understood that only Indra's drinking of Soma is clearly stated in this Ṛk.
+
+पीत्वी (*pītvī*)—पीत्वा (*pītvā*). Having drunk; here the word पीत्वी (*pītvī*) is used instead of पीत्वा (*pītvā*). Likewise in the Ṛk
+उभे सहस्वती भूत्वी सपत्नीं मे सहावहै । (*ubhe sahasvatī bhūtvī sapatnīṃ me sahāvahai |*)
+(Ṛ. Saṃ. 10-145-5)
+the word भूत्वी (*bhūtvī*) is used instead of भूत्वा (*bhūtvā*). But such usages are not frequent in the Ṛgveda.
+
+सोमस्य (*somasya*)—सोमं (*somaṃ*). Here the genitive case is used in place of the accusative. Therefore the word सोमस्य (*somasya*) must be given the accusative sense, "Soma, the Soma juice". Or सोमस्य (*somasya*) may be explained as "a small portion of the prepared Soma juice". This meaning is the more suitable. Such usages are a peculiarity of the Ṛgveda literature.
+
 ---
 
-**Progress note:** Done through printed p. 13. pilot by the batch API; rebuilt with sub-headings
+**Progress note:** Done through printed p. 19. pilot by the batch API; rebuilt with sub-headings
