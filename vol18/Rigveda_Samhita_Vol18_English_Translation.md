@@ -16450,6 +16450,294 @@ This sūkta, "mama dvitā", is the tenth sūkta in the fourth anuvāka. It has t
 - क्षत्रियस्य (*kṣatriyasya*)—of one born in a kṣatriya family
 - विश्वायोः (*viśvāyoḥ*)—
 
+### Printed p. 421
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *yathā*—in whatever way
+- *viśve*—all
+- *amṛtāḥ*—the gods
+- *naḥ*—belonging to us, in that way
+- *kṣatriyasya*—of one born in the Kṣatriya line
+- *viśvāyoḥ*—of the lord of all mankind
+- मम (*mama*)—of me (the one named Trasadasyu)
+- राष्ट्रं (*rāṣṭraṃ*)—the kingdom
+- द्विता (*dvitā*)—is of two kinds, earth and heaven
+- वरुणस्य (*varuṇasya*)—of one who is Varuṇa in nature
+- कृष्टेः (*kṛṣṭeḥ*)—of one in human form
+- उपमस्य (*upamasya*)—of one who is nearest to all
+- वव्रेः (*vavreḥ*)—of one possessing form; of me
+- क्रतुं (*kratuṃ*)—the rite
+- देवाः (*devāḥ*)—all the gods
+- सचंते (*sacaṃte*)—attend upon
+- राजामि (*rājāmi*)—I myself hold lordship over all
+
+##### भावार्थ (Bhāvārtha)
+
+Just as all the gods belong to us, so my kingdom—mine, who am born in the Kṣatriya line, lord of all mankind, named Trasadasyu—is of two kinds, earth and heaven. All the gods attend upon the rite of me, who am Varuṇa in nature, in human form, nearest to all, possessed of form. I myself hold lordship over all.
+
+##### English translation (H. H. Wilson)
+Towfold is my empire, that of the whole Kshatriya race, and all the immortals are ours: the gods associate me with the acts of Varuna : I rule over (those) of the proximate form of man.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have described the king Trasadasyu, the seer of this sūkta, and his father Purukutsa on page 368. In this Ṛk Trasadasyu declares that he is a Kṣatriya and a king, and that his kingdom is of two kinds. Sāyaṇa explains द्विता राष्ट्रं (*dvitā rāṣṭraṃ*), "a kingdom of two kinds", as क्षितिस्वर्गभेदेन (*kṣitisvargabhedena*), that is, earth and heaven. That this king is king of the earth is natural; but how he is king of heaven is not clearly understood.
+
+In Ṛks 2–7 of this sūkta this king declares himself to be Varuṇa, Indra, and even Heaven-and-Earth, and praises his own prowess in many ways. This Trasadasyu is the seer of three sūktas with a total of 28 Ṛks: this sūkta (10 Ṛks), Ṛ. Saṃ. 5-27 (6 Ṛks) and Ṛ. Saṃ. 9-110 (12 Ṛks).
+
+Since the king was born by the grace of Indra and Varuṇa, after the seven seers praised them, it is natural that he praises those deities in this sūkta. The account of his birth is given in the eighth Ṛk of this very sūkta.
+
+### Printed p. 422
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं राजा॒ वरु॑णो॒ मह्यं॒ तान्य॑सु॒र्या॑णि प्रथ॒मा धा॑रयंत।  
+> क्रतुं॑ सचंते॒ वरु॑णस्य दे॒वा राजा॑मि कृ॒ष्टेरु॑प॒मस्य॑ व्॒रेः॥
+
+> *ahaṃ rājā varuṇo mahyaṃ tānyasuryāṇi prathamā dhārayaṃta|*  
+> *kratuṃ sacaṃte varuṇasya devā rājāmi kṛṣṭerupamasya vreḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । राजा । वरुणः । मह्यं । तानि । असुर्याणि । प्रथमा । धारयंत ।  
+> क्रतुं । सचंते । वरुणस्य । देवाः । राजामि । कृष्टेः । उपमस्य । वव्रेः ॥ २ ॥
+
+> *ahaṃ | rājā | varuṇaḥ | mahyaṃ | tāni | asuryāṇi | prathamā | dhārayaṃta |*  
+> *kratuṃ | sacaṃte | varuṇasya | devāḥ | rājāmi | kṛṣṭeḥ | upamasya | vavreḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमेव च राजा वरुणो भवामि । मह्यं मदर्थमेव प्रथमा मुख्यानि
+> तानि प्रसिद्धान्यसुराण्यसुरविघातकानि बलानि धारयंत । आधारयन्देनाः । शिष्टं गतं॥
+
+##### Gist of the bhāṣya
+
+"I myself am king Varuṇa. For me alone those well-known, foremost powers that destroy the Asuras are upheld (by the gods)." धारयंत (*dhārayaṃta*) is explained as "they bestow". The remainder is already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I myself
+- राजा (*rājā*)—the lord
+- वरुणः (*varuṇaḥ*)—am Varuṇa
+- देवाः (*devāḥ*)—the gods
+- प्रथमा (*prathamā*)—foremost
+- तानि (*tāni*)—well-known
+- असुर्याणि (*asuryāṇi*)—destructive of the Asuras: all that strength
+- मह्यं (*mahyaṃ*)—for me alone
+- धारयंत (*dhārayaṃta*)—have obtained (they offer it to me)
+- वरुणस्य (*varuṇasya*)—of one who is Varuṇa in nature
+- कृष्णेः (*kṛṣṇeḥ*)—of one in human form
+- उपमस्य (*upamasya*)—of one nearest to all
+- वव्रेः (*vavreḥ*)—of one possessing form; of me
+- क्रतुं (*kratuṃ*)—the rite
+- देवाः (*devāḥ*)—the gods
+- सचंते (*sacaṃte*)—attend upon
+- राजामि (*rājāmi*)—I myself hold lordship over all
+
+##### भावार्थ (Bhāvārtha)
+
+I myself am the lord, Varuṇa. The gods have obtained for me alone all that strength—foremost, well known, destroying the Asuras—and they offer it to me. All the gods attend upon the rite of me, who am Varuṇa in nature, in human form, nearest to all, possessed of form. I myself hold lordship over all.
+
+##### English translation (H. H. Wilson)
+I am the king Varuna; on me (the gods) bestow those principal energies (that are) destructive of the Asuras ; (they) associate me with the worship of Varuna : I rule over (the acts) of the proximate form of man.
+
+### Printed p. 423
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमिंद्रो॒ वरु॑ण॒स्ते म॑हि॒त्वोवीन् ग॑भी॒रे रज॑सी सु॒मेके॑ ।  
+> त्वष्टे॑व॒ विश्वा॒ भुव॑नानि वि॒द्वान्त्समै॑रयं॒ रोद॑सी धा॒रयं॑  
+> च ॥ ३ ॥
+
+> *ahamiṃdro varuṇaste mahitvovīn gabhīre rajasī sumeke |*  
+> *tvaṣṭeva viśvā bhuvanāni vidvāntsamairayaṃ rodasī dhārayaṃ*  
+> *ca ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । इंद्रः । वरुणः । ते इति । महित्वा । उर्वी इति । गभीरे इति । रजसी इति ।  
+> सुमेके इति सुमेके ।  
+> त्वष्टा इव । विश्वा । भुवनानि । विद्वान् । सं । ऐरयं । रोदसी इति । धारयं । च ॥
+
+> *ahaṃ | iṃdraḥ | varuṇaḥ | te iti | mahitvā | urvī iti | gabhīre iti | rajasī iti |*  
+> *sumeke iti sumeke |*  
+> *tvaṣṭā iva | viśvā | bhuvanāni | vidvān | saṃ | airayaṃ | rodasī iti | dhārayaṃ | ca ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं त्रसदस्युरिंद्र इंद्रोऽप्यस्मि । अहं वरुणश्च । ते महित्वा महित्वेनोर्वी विस्तीर्णे गभीरे दुरवगाहे अवकाशवत्यौ ना सुमेके सुरूपे रजसी
+> द्यावापृथिव्यौ ते अप्यहमेव । विद्वान् जानन्नहं त्वष्टेव प्रजापतिरिव विश्वा भुवनानि
+> सर्वाणि भूतानि समैरयं । संप्रैरयं । रोदसी द्यावापृथिव्यौ धारयं च ।
+> धृतवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+"I, Trasadasyu, am Indra, and I am Varuṇa. By greatness those two—the vast, profound (hard to fathom), spacious, beautiful Heaven-and-Earth—are also myself alone. Knowing (all), like Tvaṣṭā, that is, like Prajāpati, I have set in motion all beings, and I have also upheld Heaven and Earth." समैरयं (*samairayaṃ*) is explained as संप्रैरयं (*saṃprairayaṃ*); धारयं च (*dhārayaṃ ca*) as धृतवानस्मि (*dhṛtavānasmi*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I myself, named Trasadasyu
+- इंद्रः (*iṃdraḥ*)—am Indra
+- वरुणः (*varuṇaḥ*)—and am also of Varuṇa's form
+- महित्वा (*mahitvā*)—by greatness
+- ते (*te*)—those well-known
+- उर्वी (*urvī*)—vast
+- गभीरे (*gabhīre*)—of unmeasurable depth
+- सुमेके (*sumeke*)—of beautiful form
+- रजसी (*rajasī*)—Heaven and Earth are myself
+- विद्वान् (*vidvān*)—I, who know all
+- त्वष्टा इव (*tvaṣṭā iva*)—like Prajāpati
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- सम्मैरयं (*sammairayaṃ*)—have made endowed with life
+- रोदसी (*rodasī*)—both Heaven and Earth
+- धारयं च (*dhārayaṃ ca*)—I also uphold
+
+##### भावार्थ (Bhāvārtha)
+
+I, named Trasadasyu, am by my greatness of the form of Indra and of Varuṇa. Heaven and Earth, well known, very vast, of unmeasurable depth, of beautiful form, are myself. I who know all, like Prajāpati, have made all beings endowed with life, and I also uphold Heaven and Earth.
+
+### Printed p. 424
+
+##### English translation (H. H. Wilson)
+I am Indra, I am Varuna, I am those two in greatness : (I am) the vast, profound, beautiful, heaven and earth: intelligent, I give like Twashtri animation to all beings : I uphold earth and heaven.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हम॒पो अ॑पिन्वमु॒क्षमा॑णा धा॒रयं॒ दिवं॒ सद॑न ऋ॒तस्य॑ ।  
+> ऋ॒तेन॑ पु॒त्रो अदि॑तेर्ऋ॒तावो॒त त्रि॒धातु॑ प्रथय॒द्वि भूम॑ ॥
+
+> *ahamapo apinvamukṣamāṇā dhārayaṃ divaṃ sadana ṛtasya |*  
+> *ṛtena putro aditerṛtāvota tridhātu prathayadvi bhūma ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । अपः । अपिन्वं । उक्षमाणाः । धारयं । दिवं । सदने । ऋतस्य ।  
+> ऋतेन । पुत्रः । अदितेः । ऋतवा । उत । त्रिधातु । प्रथयत् । वि । भूम ॥ ४ ॥
+
+> *ahaṃ | apaḥ | apinvaṃ | ukṣamāṇāḥ | dhārayaṃ | divaṃ | sadane | ṛtasya |*  
+> *ṛtena | putraḥ | aditeḥ | ṛtavā | uta | tridhātu | prathayat | vi | bhūma ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमेवोक्षमाणाः सिंचतीरपोऽपिन्वं । आसेचयं । तथा ऋतस्योदकस्यादित्यस्य वा सदसे स्थाने निमित्ते सति दिवं द्युलोकं धारयं । यद्वा । उदकाधारे स्थाने दिवमादित्यं धारयं । अहमेव ऋतेनोदकेन निमित्तेनादितेः पुत्र
+> ऋतावाभूवं । उतापि च भूम व्याप्तमाकाशं त्रिधातु त्रिप्रकारं वि विशेषेण
+> प्रथयत् । मदर्थमेव क्षित्यादिलोकत्रयमकार्षित्परमेश्वरः ॥
+
+##### Gist of the bhāṣya
+
+"I myself caused the sprinkling waters to swell, that is, to be shed. Likewise, when there is a cause, at the seat of ऋत (*ṛta*)—of water, or of the sun—I upheld heaven, the world of Dyu." Or else: "in the place that holds the water I upheld heaven, the sun." "I myself, by ऋत (*ṛta*), by water as the cause, became the son of Aditi and ऋतावा (*ṛtāvā*). And भूम (*bhūma*), the pervading sky, त्रिधातु (*tridhātu*), threefold, was spread out (प्रथयत् (*prathayat*)) specially: for my sake the Supreme Lord made the three worlds, earth and the rest."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I myself
+- उक्षमाणाः (*ukṣamāṇāḥ*)—flowing by nature
+- अपः (*apaḥ*)—the waters
+- अपिन्वं (*apinvaṃ*)—I have made spread and flow everywhere
+- ऋतस्य (*ṛtasya*)—of water
+- सदने (*sadane*)—for a dwelling-place
+- दिवं (*divaṃ*)—the world of Dyu
+- धारयं (*dhārayaṃ*)—I have lifted up and held
+- ऋतेन (*ṛtena*)—by water itself
+- अदितेः पुत्रः (*aditeḥ putraḥ*)—I, the son of Aditi
+- त्रिधातु (*tridhātu*)—of three parts
+- भूम (*bhūma*)—and pervading: the sky
+- वि प्रथयत् (*vi prathayat*)—causing it to pervade specially
+- ऋतावा (*ṛtāvā*)—I am the protector of water
+
+### Printed p. 425
+
+##### भावार्थ (Bhāvārtha)
+
+I myself have made the waters, flowing by nature, spread and flow everywhere. I have also lifted up and held the world of Dyu as a dwelling-place for water. I, the son of Aditi, causing the sky—of three divisions, pervading—to pervade specially, am on account of water itself the protector of water.
+
+##### English translation (H. H. Wilson)
+I have distributed the moisture-shedding waters; I have upheld the sky as the abode of the water; by the water I have become the preserver of the water, the son of Aditi, illustrating the threefold elementary space.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मां नरः॒ स्वश्वा॑ वा॒जयं॑तो॒ मां वृ॒ताः स॒मर॑णे हवंते ।  
+> कृ॒णोम्या॒जिं म॒घवा॒हमिंद्र॒ इय॑र्मि रे॒णुम॒भि भू॑त्योजाः ॥ ५ ॥
+
+> *māṃ naraḥ svaśvā vājayaṃto māṃ vṛtāḥ samaraṇe havaṃte |*  
+> *kṛṇomyājiṃ maghavāhamiṃdra iyarmi reṇumabhi bhūtyojāḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मां । नरः । सुअश्वाः । वाजयंतः । मां । वृताः । संअरणे । हवंते ।  
+> कृणोमि । आजिं । मघवा । अहं । इंद्रः । इयर्मि । रेणुं । अभिभूतिओजाः ॥५॥
+
+> *māṃ | naraḥ | suaśvāḥ | vājayaṃtaḥ | māṃ | vṛtāḥ | saṃaraṇe | havaṃte |*  
+> *kṛṇomi | ājiṃ | maghavā | ahaṃ | iṃdraḥ | iyarmi | reṇuṃ | abhibhūtiojāḥ ‖5‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मां मामेव स्वश्वाः शोभनाश्वा वाजयंतः संग्राममिच्छंतो नरो
+> नेतारो भटाः । अनुगच्छंशीति शेषः । मामेव वृताः संतः समरणे संग्रामे
+> हवंते । आह्वयंति युद्धार्थं । मघवा धनवानहमिंद्रः सन्नाजिं कृणोमि ।
+> करोमि । अभिभूत्योजाः परेषामभिभाविबलोऽहं रेणुमियर्मि । प्रेरयामि ॥
+
+##### Gist of the bhāṣya
+
+"Me alone do the नरः (*naraḥ*)—leaders, warriors—with fine horses, desiring battle, (follow, this being understood); me alone, chosen (by them), they call upon in समरणे (*samaraṇe*), in battle, for the fight. I, wealthy (मघवा (*maghavā*)), being Indra, wage the contest. I, with strength that overcomes others, raise the dust (रेणुं (*reṇuṃ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्पश्वाः (*spaśvāḥ*)**NOTE**—those who have excellent horses
+- वाजयंतः (*vājayaṃtaḥ*)—desirous of battle
+- नरः (*naraḥ*)—the warriors, who are leaders
+- मां (*māṃ*)—me alone
+- हवंते (*havaṃte*)—call (for help)
+- समरणे (*samaraṇe*)—
+
+### Printed p. 426
+- समरणे (*samaraṇe*)—in battle
+- वृताः (*vṛtāḥ*)—even those engaged
+- मां (*māṃ*)—me alone (they call)
+- अहं (*ahaṃ*)—I myself
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—in the form of Indra
+- आजिं (*ājiṃ*)—the battle
+- कृणोमि (*kṛṇomi*)—I conduct
+- अभिभूत्योजाः (*abhibhūtyojāḥ*)—possessing power to defeat enemies
+- रेणुं (*reṇuṃ*)—the dust
+- इयर्मि (*iyarmi*)—I cause to be thrown up and spread
+
+##### भावार्थ (Bhāvārtha)
+
+Warriors with excellent horses, desirous of battle, who are leaders, call upon me alone for help. Even those engaged in battle call upon me alone. I, in the form of wealthy Indra, conduct the battle. Possessing power to defeat enemies, I cause the dust to be thrown up and spread.
+
+##### English translation (H. H. Wilson)
+Warriors well mounted, ardent for contest, invoke me : selected (combatants invoke) me in battle: I, the affluent Indra, instigate the conflict, and endowed with victorious prowess, I raise up the dust (in the battle).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं ता विश्वा॑ चकरं॒ नकि॑र्मा॒ दैव्यं॒ सहो॑ वरते॒ अप्र॑तीतं।  
+> यन्मा॒ सोमा॑सो म॒मद॒न्यदु॒क्कोभे भ॑येते॒ रज॑सी  ॒
+> अपारे ॥ ६ ॥
+
+> *ahaṃ tā viśvā cakaraṃ nakirmā daivyaṃ saho varate apratītaṃ|*  
+> *yanmā somāso mamadanyadukkobhe bhayete rajasī*  
+> *apāre ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । ता । विश्वा । चकरं । नकिः । मा । दैव्यं । सहः । वरते । अप्रतिइतं ।  
+> यत् । मा । सोमासः । ममदन् । यत् । उक्ता । उभे इति । भयेते इति ।  
+> रजसी इति । अपारे इति ॥ ६ ॥
+
+> *ahaṃ | tā | viśvā | cakaraṃ | nakiḥ | mā | daivyaṃ | sahaḥ | varate | apratiitaṃ |*  
+> *yat | mā | somāsaḥ | mamadan | yat | uktā | ubhe iti | bhayete iti |*  
+> *rajasī iti | apāre iti ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 420. pp. 414-420 (batch API)
+**Progress note:** Done through printed p. 426. pp. 421-426 (batch API)
