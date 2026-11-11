@@ -32195,6 +32195,284 @@ Be the protector of the pious acts of Vamadeva; be in battle an unfailing friend
 
 O wealthy Indra, in every battle (āji), we the sacrificers, accompanied by these visible men (nṛbhiḥ), sons, grandsons and other attendants, who desire you for victory over enemies (tvāyubhiḥ) and are endowed with wealth in the form of oblations given for you (maghavadbhiḥ), shine with riches (dyumnaiḥ) like the heavens (dyāvaḥ), like shining wealthy men, and … the enemies (aryaḥ) … (the sentence breaks off at the end of the window).
 
+### Printed p. 954
+
+> नभि संतोऽभिभवंतः क्षपः सर्वा रात्रीः पूर्विर्बह्वीः शरदश्च संवत्सरांश्च मदेम।
+> स्तनाम । यजमानाः सर्वॆषु कालेषु स्तोत्रैरिंद्रं हर्षयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sentence begun on the previous page ends here. We, the sacrificers, overcoming (अभि संतः (*abhi saṃtaḥ*)) our enemies, would glorify Indra through all nights (क्षपः (*kṣapaḥ*)) and through many autumns, that is, years (*śaradaḥ*), with hymns of praise on every occasion. The meaning is that the sacrificers gladden Indra with hymns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- विश्वे (*viśve*)—in all
+- आजौ (*ājau*)—in battle
+- त्वायुभिः (*tvāyubhiḥ*)—those who desire you (for victory over enemies)
+- मघवद्भिः (*maghavadbhiḥ*)—and who are endowed with wealth in the form of oblations
+- एभिः नृभिः (*ebhiḥ nṛbhiḥ*)—together with these followers, sons, grandsons and others
+- द्युम्नैः (*dyumnaiḥ*)—endowed with wealth and prosperity
+- द्यावो न (*dyāvo na*)—like wealthy people who are resplendent
+- अर्यः (*aryaḥ*)—the enemies
+- अभि संतः (*abhi saṃtaḥ*)—defeating completely
+- क्षपः (*kṣapaḥ*)—in all nights
+- पूर्विः (*pūrviḥ*)—many
+- शरदश्च (*śaradaśca*)—and in years
+- त्वा (*tvā*)—you
+- मदेम (*madema*)—may we come to praise
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, in every battle, together with these followers, sons, grandsons and others, who desire you for victory over the enemy and are endowed with wealth in the form of oblations, may we, like wealthy and resplendent people, completely defeating our enemies, come to praise you day and night for many years.
+
+##### English translation (H. H. Wilson)
+In every battle, Maghavan, may we, along with those men who trust in you and offer rich gifts, like those who are resplendent with riches, triumphing over their foes, glorify you many nights and years.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेदिंद्रा॑य वृष॒भाय॒ वृष्णे॒ ब्रह्मा॑कर्म॒ भृग॑वो॒ न रथं॑।  
+> नू चि॒द्यथा॑ नः स॒ख्या वि॒योष॒दस॑न्न उ॒ग्रो॑ऽवि॒ता त॑नू॒पाः ॥
+
+> *evediṃdrāya vṛṣabhāya vṛṣṇe brahmākarma bhṛgavo na rathaṃ|*  
+> *nū cidyathā naḥ sakhyā viyoṣadasanna ugro 'vitā tanūpāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इत् । इंद्राय । वृषभाय । वृष्णे । ब्रह्म । अकर्म । भृगवः । न । रथं ।  
+> नु । चित् । यथा । नः । सख्या । वियोषत् । असत् । नः । उग्रः । अविता। तनूपाः॥
+
+> *eva | it | iṃdrāya | vṛṣabhāya | vṛṣṇe | brahma | akarma | bhṛgavaḥ | na | rathaṃ |*  
+> *nu | cit | yathā | naḥ | sakhyā | viyoṣat | asat | naḥ | ugraḥ | avitā| tanūpāḥ‖*
+
+### Printed p. 955
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथेंद्रो नोऽस्मदीयानि सख्या सख्यानि कर्माणि नू चित् वियोषत्
+> न पृथक्कुर्यात् । उग्रस्तेजस्वी तनूपाः शरीराणां पालक इंद्रो यथा नोऽस्मानविता रक्षितासत् । स्यात् । तथा वयं यजमाना एवेदेवमेवोक्तप्रकारेणेंद्राय वृषभाय कामानां वर्षित्रे वृष्णे नित्यतरुणाय ब्रह्म स्तोत्रमकर्म ।
+> अकुर्म । तत्र दृष्टांतः । भृगवो दीप्तास्तक्षाणो रथं न रथमिव तद्वत् । यजमानेभ्यो यथेंद्रोऽभीपिस्तिफलप्रदो भवति तथेंद्रं यजमानाः स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+As Indra would never (नू चित् (*nū cit*)) separate (वियोषत् (*viyoṣat*)) from us our friendly (सख्या (*sakhyā*)) deeds, and as Indra, fierce, that is radiant, and तनूपाः (*tanūpāḥ*), the protector of bodies, would be (असत् (*asat*)) our protector (अविता (*avitā*)), so we sacrificers, in the manner stated, have made (अकर्म (*akarma*)) a hymn (ब्रह्म (*brahma*)) for Indra, the bull (वृषभाय (*vṛṣabhāya*)), the showerer of desires, the ever-young (वृष्णे (*vṛṣṇe*)). The illustration: like the shining Bhṛgus, that is, carpenters, a chariot (रथं न (*rathaṃ na*)). The meaning is that as Indra gives the desired fruit to sacrificers, so the sacrificers praise Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner (for what reason)
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—with us
+- सख्या (*sakhyā*)—friendship
+- नू चित् (*nū cit*)—immediately
+- वियोषत् (*viyoṣat*)—would not leave (and)
+- यथा (*yathā*)—for what reason
+- उग्रः (*ugraḥ*)—radiant
+- तनूपाः (*tanūpāḥ*)—Indra, protector of our bodies
+- नः (*naḥ*)—to us
+- अविता (*avitā*)—as protector
+- असत् (*asat*)—would be (for that purpose)
+- एवेत् (*evet*)—just as resolved above
+- वृषभाय (*vṛṣabhāya*)—showerer of desires
+- वृष्णे (*vṛṣṇe*)—young
+- इंद्राय (*iṃdrāya*)—for Indra
+- भृगवः (*bhṛgavaḥ*)—the shining Bhṛgus (smiths)
+- रथं न (*rathaṃ na*)—as they build a chariot
+- ब्रह्म (*brahma*)—a hymn
+- अकर्म (*akarma*)—we make
+
+**Dharmārtha**
+So that Indra may at once not abandon the truth that is with us, and with the prayer that Indra, radiant and protector of our bodies, may be our complete protector, we too, just as resolved above, make a hymn for Indra, the showerer of desires and ever young, as the shining smiths build an excellent chariot.
+
+##### English translation (H. H. Wilson)
+Therefore we offer to the vigorous Indra, the showerer ( of benefits ), holy adoration, that he may never withdraw his friendly (actions) from us, and that he may be our powerful protector, the defender of (our) persons, as the Bhrigus (fabricate) a car (for use).
+
+### Printed p. 956
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥२१॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖21‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिऽवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदाऽसाः ॥ २१ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | hari 'vaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadā 'sāḥ ‖ 21 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रंगृणानोऽस्माभिः
+> स्तूयमानश्च त्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो न अद्भिन्नदीरिव पीपेः ।
+> प्यायय । प्रवृद्धं कुरु । हे इंद्र हरिवो हरिवन् हरिसंज्ञकाश्वोपेतेंद्र
+> ते तुभ्यं नव्यं नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो
+> वयं धिया प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्त्वदर्थं हवीरूपस्यान्नस्य दातारो ना स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised (स्तुतः (*stutaḥ*)) quickly by earlier seers and now being praised by us, fill (पीपेः (*pīpeḥ*)), make abundant, for me the praiser (जरित्रे (*jaritre*)) food (इषं (*iṣaṃ*)), as rivers are filled with waters. O हरिवः (*harivaḥ*), Indra with horses called Hari, a newer (नव्यं (*navyaṃ*)) hymn has been made for you by us. We who own chariots (रथ्यः (*rathyaḥ*)), through praise in the form of insight (धिया (*dhiyā*)), सदासाः (*sadāsāḥ*), constantly serving you, would be givers of food in the form of oblations for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—quickly (in eagerness to worship you)
+- स्तुतः (*stutaḥ*)—praised by the seers of former times
+- नु (*nu*)—with the same eagerness in the form of faith
+- गृणानः (*gṛṇānaḥ*)—and being praised by us
+- जरित्रे (*jaritre*)—to me, the praiser
+- नद्यो न (*nadyo na*)—as rivers fill with their flow
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill
+- हरिवः (*harivaḥ*)—O Indra with horses named Hari
+- ते (*te*)—for you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- अकारि (*akāri*)—is made by us
+- रथ्यः (*rathyaḥ*)—we who possess chariots
+- धिया (*dhiyā*)—by our praise in the form of insight
+- सदासाः (*sadāsāḥ*)—offering oblations and the like to you
+- स्याम (*syāma*)—grant that we may be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by the seers of former times, who were eager to worship you, and now praised by us in the same eager faith, fill me, your praiser, with food as rivers fill with their flow. O Indra with the horses called Hari, we make a new hymn for you. Grant that we, possessors of an excellent chariot, may be, through our hymn of insight, offerers of oblations and the like to you.
+
+### Printed p. 957
+
+##### English translation (H. H. Wilson)
+Glorified ( in the past ), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): Lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever delight-in (your) praise.
+
+## Sūkta 17 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं महा इंद्र तुभ्यमित्येकविंशत्यृचं सप्तमं सूक्तं । अत्रेयमनुक्रमणिका । त्वं महा असिक्कोमेकपदेति । असिक्कां यजमानो न होतेत्येकपदा
+> विराट् शिष्टा विंशतिस्त्रिष्टुभः । इंद्रो देवता ॥ समूळ्हे दशरात्रॆऽष्टमेऽहनि
+> निष्केवल्य इदं सूक्तं विनियुक्तं । तथा च सूत्रितं । त्वं महा इंद्र तुभ्यमिति
+> निष्केवल्यं । आ. ८-७ । इति ॥ इंद्रस्य वृत्रघन्स्वं महा इति पशुपुरोडाशस्यानुवाक्या । सूत्रितं च । त्वं महा इंद्र तुभ्यं ह क्षाः सत्राहणं । आ. ३-८ । इति ॥
+> अनुवादवु—त्वं महा इंद्र तुभ्यं ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि एळनॆय
+> सूक्तवु. इदरल्लि इप्पत्तॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु. अनुक्रमणिकॆ
+> यल्लि—त्वं महा असिक्न्यामेकपदा ऎंदु हेळिरुवुदु. ई सूक्तद हदिनैदनॆय ऋक्काद—
+> असिक्न्यां यजमानो न होता ऎंब ऋक्कु एकपदा विराट् ऎंब छंदस्सिनदु. उळिद
+> इप्पत्तु ऋक्कुगळू त्रिष्टुप्‌छंदस्कवु. इंद्रनु देवतॆयु, समूळ्वॆंब दशरात्रयागद ऎंट
+> नॆय दिवस निष्केवल्यशस्त्रमंत्र पठनक्कागि ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौत
+> सूत्रद—त्वं महा इंद्र तुभ्यमिति निष्केवल्यं ऎंब सूत्रदिंद (आ. ८-७) विवृतवागिरुवुदु.
+> पशुयागदल्लि वृत्रघ्न इंद्रनन्नुद्देशिसि पुरोडाशहोममाडुवाग—त्वं महा ऎंब
+> ई ऋक्कन्नु अनुवाक्यामंत्रवन्नागि उपयोगिसबेकॆंदु आश्वलायनशौतसूत्रद—त्वं महा
+> इंद्र तुभ्यं ह क्षाः सत्राहणं ऎंब सूत्रदिंद (आ. ३-८) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta त्वं महा इंद्र तुभ्यं (*tvaṃ mahā iṃdra tubhyaṃ*) has twenty-one ṛks and is the seventh sūkta. The Anukramaṇikā says त्वं महा असिक्कोमेकपदेति (*tvaṃ mahā asikkomekapadeti*): the ṛk असिक्न्यां यजमानो न होता (*asiknyāṃ yajamāno na hotā*) is Ekapadā Virāṭ, and the remaining twenty are Triṣṭubh. The deity is Indra. The sūkta is applied in the Samūḍha Daśarātra, on the eighth day, in the Niṣkevalya. So it is stated in the sūtra: त्वं महा इंद्र तुभ्यमिति निष्केवल्यं। आ. ८-७। (*tvaṃ mahā iṃdra tubhyamiti niṣkevalyaṃ| ā. 8-7|*) (Ā. 8-7). Also the ṛk त्वं महा (*tvaṃ mahā*), referring to Indra's slaying of Vṛtra, is the anuvākyā for the animal-sacrifice puroḍāśa, as in the sūtra त्वं महा इंद्र तुभ्यं ह क्षाः सत्राहणं। आ. ३-८। (*tvaṃ mahā iṃdra tubhyaṃ ha kṣāḥ satrāhaṇaṃ| ā. 3-8|*) (Ā. 3-8).
+
+##### Anuvāda
+
+The sūkta beginning त्वं महा इंद्र तुभ्यं (*tvaṃ mahā iṃdra tubhyaṃ*) is the seventh sūkta in the second anuvāka. It has twenty-one ṛks. Vāmadeva is its seer. The Anukramaṇikā says त्वं महा असिक्न्यामेकपदा (*tvaṃ mahā asiknyāmekapadā*). The fifteenth ṛk, असिक्न्यां यजमानो न होता (*asiknyāṃ yajamāno na hotā*), is in the metre Ekapadā Virāṭ; the other twenty are Triṣṭubh. Indra is the deity. The Āśvalāyana Śrauta Sūtra, in त्वं महा इंद्र तुभ्यमिति निष्केवल्यं (*tvaṃ mahā iṃdra tubhyamiti niṣkevalyaṃ*) (Ā. 8-7), explains the application of the sūkta to the recitation of the Niṣkevalya śastra on the eighth day of the Samūḷha Daśarātra. In the animal sacrifice, when the puroḍāśa offering is made to Indra the Vṛtra-slayer, this ṛk is to be used as the anuvākyā, as explained by the sūtra त्वं महा इंद्र तुभ्यं ह क्षाः सत्राहणं (*tvaṃ mahā iṃdra tubhyaṃ ha kṣāḥ satrāhaṇaṃ*) (Ā. 3-8).
+
+### Printed p. 958
+
+> सूक्त-१७
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—१७ ॥
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—२१, २२, २३, २४ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—२१ ॥
+> ऋषि:—वामदेवः ॥
+> देवता—इंद्रः ॥
+> छंदः—१-१४, १६-२१. त्रिष्टुप् । १५. एकपदा li
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं म॒हा इं॑द्र॒ तुभ्यं॑ ह॒ क्षा अनु॑ क्ष॒त्रं मं॒हना॑ मन्यत॒  
+> द्याः ।  
+> त्वं वृ॒त्रं शव॑सा जघ॒न्वान्‌त्सृ॒जः सिंधू॒रहि॑ना जग्रसा॒नान् ॥
+
+> *tvaṃ mahā iṃdra tubhyaṃ ha kṣā anu kṣatraṃ maṃhanā manyata*  
+> *dyāḥ |*  
+> *tvaṃ vṛtraṃ śavasā jaghanvāntsṛjaḥ siṃdhūrahinā jagrasānān ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । महान् । इंद्र । शुभ्यं । ह । क्षाः । अनु । क्षत्रं । मंहना । मन्यत । द्यौः ।  
+> त्वं । वृत्रं । शवसा । जघन्वान् । सृजः । सिंधून् । अहिना । जग्रसानान् । १ ॥
+
+> *tvaṃ | mahān | iṃdra | śubhyaṃ | ha | kṣāḥ | anu | kṣatraṃ | maṃhanā | manyata | dyauḥ |*  
+> *tvaṃ | vṛtraṃ | śavasā | jaghanvān | sṛjaḥ | siṃdhūn | ahinā | jagrasānān | 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महान्प्रभूतो भवसि । क्षाः पृथिवी । क्षा इति पृथिवीनामैतत् । मंहना महत्वेन युक्ता सती तुभ्यं ह त्वदर्थमेव क्षत्रं त्वदीयं बलमनु मन्यत । अन्वमन्यत ! अनुमतीचकार । द्यौश्च त्वदर्थं बलमन्वमन्यत । हे
+> इंद्र त्वं शवसा त्वदीयेन बलेन वृत्रं लोकानामावरकं वृत्रनामकमसुरं
+> जघन्वान् । हतवान्। किंच अहिना वृत्रेण जग्रसानान् जग्रहाणान् ग्रस्तान्॥ ग्रसतेर्लिटः कानजादेशः ॥ सिंधून् अपः सृजः । असृजः । सृष्टवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are great. क्षाः (*kṣāḥ*) is the earth (क्षा इति पृथिवीनामैतत् (*kṣā iti pṛthivīnāmaitat*)). The earth, endowed with greatness (मंहना (*maṃhanā*)), has acknowledged your strength (क्षत्रं (*kṣatraṃ*)) for you alone (तुभ्यं ह (*tubhyaṃ ha*)); heaven too has acknowledged your strength. O Indra, you have slain with your vigour (शवसा (*śavasā*)) Vṛtra, the demon who covers the worlds. Moreover, you have released the waters (सिंधून् (*siṃdhūn*)) that had been swallowed (जग्रसानान् (*jagrasānān*)) by Ahi, that is Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- महान् (*mahān*)—are great
+- क्षाः (*kṣāḥ*)—the earth
+- मंडना (*maṃḍanā*)—although endowed with majesty
+- तुभ्यं ह (*tubhyaṃ ha*)—to you (before you)
+- क्षत्रं (*kṣatraṃ*)—your strength
+
+**NOTE**
+
+### Printed p. 959
+- अनुमन्यत (*anumanyata*)—has acknowledged
+- द्यौः (*dyauḥ*)—heaven also (has acknowledged)
+- त्वं (*tvaṃ*)—you
+- शवसा (*śavasā*)—by your strength
+- वृत्रं (*vṛtraṃ*)—the demon who covered all the world
+- जघन्वान् (*jaghanvān*)—have slain
+- अहिना (*ahinā*)—by that same Vṛtra
+- जग्रसानान् (*jagrasānān*)—that were obstructed
+- सिंधून् (*siṃdhūn*)—the waters
+- सृजः (*sṛjaḥ*)—you released and made to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are possessed of exceeding greatness. Even the earth and heaven, themselves endowed with great majesty, have acknowledged before you your strength, as one greater than they. By your power you have slain the demon who covered all the world, and you have released the waters obstructed by Vṛtra and made them flow.
+
+##### English translation (H. H. Wilson)
+You, Indra, are mighty; the vast earth confesses to you (your) strength, as do the heaven : you have slain Vritra by your vigour, you have set free the rivers arrested by Ahi.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ त्वि॒षो जनि॑मनेजत॒ द्यौ रेज॒द्भूमि॑र्भि॒यसा॒ स्वस्य॑ म॒न्योः ।  
+> ऋ॒घा॒यंत॑ सु॒भ्व१॒॑गः पर्व॑तास॒ आर्द॒न्थन्वा॑नि स॒रयं॑त॒ आपः॑ ॥
+
+> *tava tviṣo janimanejata dyau rejadbhūmirbhiyasā svasya manyoḥ |*  
+> *ṛghāyaṃta subhvagaḥ parvatāsa ārdanthanvāni sarayaṃta āpaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्विषः । जनिमन् । रेजत । द्याः । रेजत् । भूमिः । भियसा । स्वस्य । मन्योः ।  
+> ऋघायंत । सुभ्वः । पर्वतासः । आर्दन् । धन्वानि । सरयंते । आपः ॥ २ ॥
+
+> *tava | tviṣaḥ | janiman | rejata | dyāḥ | rejat | bhūmiḥ | bhiyasā | svasya | manyoḥ |*  
+> *ṛghāyaṃta | subhvaḥ | parvatāsaḥ | ārdan | dhanvāni | sarayaṃte | āpaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्विषो दीप्यमानस्य तव त्वदीये जनिमन् जन्मनि सति द्यौरंतरिक्षं
+> स्वस्य त्वदीयान्मन्योः कोपात् । पंचम्यर्थे षष्ठी । भियसा जातभयेन रेजत ।
+> अरेजत् । अकंपत । भूमिश्च रेजत् । कंपमाना बभूव । सुभ्वो महांतः
+
+##### Gist of the bhāṣya
+
+O Indra, when you, the shining one (त्विषः (*tviṣaḥ*)), were born (जनिमन् (*janiman*)), heaven, that is the atmosphere, trembled (रेजत (*rejata*)) through fear arisen from your own anger (मन्योः (*manyoḥ*)); the genitive stands in the sense of the ablative. The earth also trembled. The सुभ्वः (*subhvaḥ*), the great ones… (the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 953. pp. 948-953 (batch API)
+**Progress note:** Done through printed p. 959. pp. 954-959 (batch API)
