@@ -26612,6 +26612,303 @@ He makes clear the sense already stated. This Hotṛ, Agni the accomplisher of t
 - अग्निः (*agniḥ*)—Agni
 - त्मना (*tmanā*)—by his own free will [the Kannada text breaks off here]
 
+### Printed p. 832
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मितद्रुः (*mitadruḥ*)—moving with measured pace
+- परि एति (*pari eti*)—goes round about
+- वाजिनः (*vājinaḥ*)—of the one possessing oblations
+- अस्य (*asya*)—of this Agni
+- शोकाः न (*śokāḥ na*)—the flames also
+- द्रवंति (*dravaṃti*)—run round about
+- यत् (*yat*)—by whose greatness
+- अभ्राट् (*abhrāṭ*)—(because) this Agni shines
+- विश्वा भुवना (*viśvā bhuvanā*)—all created beings also
+- भयंते (*bhayaṃte*)—are frightened
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the offering, the gladdener, sweet of speech, possessor of the sacrifice, by his own free impulse moves round about with measured pace. The flames of this Agni, who possesses the oblation, also move round about. Because of the greatness by which this Agni shines, all created beings are frightened.
+
+##### English translation (H. H. Wilson)
+Agni, the sacrificer, the exhilarator, the sweet-spoken, the object of sacrifice, moving measuredly, circumambulates ( the victim ) of his own (accord); the bright (rays) of him (fed) with (sacrificial) food, spread around; all the regions are alarmed when he blazes.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रा ते॑ अग्ने स्वनीक सं॒दृगो॒रस्य॑ स॒तो विषु॑णस्य॒ चारुः॑ ।  
+> न यत्ने॑ शो॒चिस्तम॑सा॒ वरं॑त॒ न ध्व॒स्मान॑स्त॒न्वी॒३॒॑ ३ रेप॒ आ धुः॑ ॥
+
+> *bhadrā te agne svanīka saṃdṛgorasya sato viṣuṇasya cāruḥ |*  
+> *na yatne śocistamasā varaṃta na dhvasmānastanvī 3 repa ā dhuḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रा । ते । अग्ने । सुअनीक । संदृक् । घोरस्य । सतः । विषुणस्य । चारुः ।  
+> न । यत् । ते । शोचिः । तमसा । वरंत । न । ध्वस्मानः । तन्वि । रेपः । अ ।  
+> धुरितिधुः ॥ ६ ॥
+
+> *bhadrā | te | agne | suanīka | saṃdṛk | ghorasya | sataḥ | viṣuṇasya | cāruḥ |*  
+> *na | yat | te | śociḥ | tamasā | varaṃta | na | dhvasmānaḥ | tanvi | repaḥ | a |*  
+> *dhuritidhuḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वनीक शोभनज्वालाग्ने घोरस्य भीतजनकस्यापि सतो विषुणस्य विश्वक्
+> सर्वत्रो व्याप्तस्य ते तव चारू रमणीया भद्रा स्तुत्या कल्याणी ना मूर्तिः
+
+##### Gist of the bhāṣya
+
+O Agni of beautiful flame, though you are fearsome, being pervasive everywhere, your form is lovely, praiseworthy and auspicious (the sentence continues on the next page).
+
+### Printed p. 833
+
+> संदृक् संदृष्टिः । सम्यक् दृश्या भवतीत्यर्थः। यद्यस्मात्ते शोचिर्दिप्तिं तमसांधकारेण न वरंत । वारयंति निशाः । यस्माच्च ध्वस्मानो ध्वंसका राक्षसादयस्ते तन्नि
+> तव शरीरे रेपः पापं ध्वंसनादिरूपं ना धुः । न दधति । न कुर्वंति । अतः सुदृगिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Your sight (संदृक् (*saṃdṛk*)) is well seen, that is, you are beautiful to behold. Because the nights do not cover your radiance with darkness, and because destroyers, the Rākṣasas and the like, do not inflict on your body any harm of the nature of destruction, therefore the construction is "of beautiful sight."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वनीक (*svanīka*)—you of auspicious flame
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—by which greatness of yours
+- ते (*te*)—your
+- शोचिः (*śociḥ*)—radiance
+- निशा (*niśā*)—the night
+- तमसा (*tamasā*)—with darkness
+- न वरंत (*na varaṃta*)—is not covered
+- ध्वस्मानः (*dhvasmānaḥ*)—the destroying Rākṣasas
+- तन्नि (*tanni*)—in your body
+- रेपः (*repaḥ*)—the destructive act of injury
+- न आधुः (*na ādhuḥ*)—cannot do (because of that)
+- घोरस्य सतः (*ghorasya sataḥ*)—being fear-inspiring
+- विषुणस्य (*viṣuṇasya*)—and pervading everywhere
+- ते (*te*)—your
+- संदृक् (*saṃdṛk*)—sight
+- चारुः (*cāruḥ*)—is lovely
+- भद्रा (*bhadrā*)—and auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of auspicious flame, by whose greatness the night cannot cover your radiance with darkness and the destroying Rākṣasas cannot do their destructive act of injury to you, for that very reason your sight, though fear-inspiring and all-pervading, is lovely and auspicious.
+
+##### English translation (H. H. Wilson)
+Bright-shining Agni, beautiful and auspicious is the semblance of you, who are terrible and wide-spreading, for (the nights) hide not your splendour with darkness, nor do the malignant (spirits) inflict any injury on your person.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यस्य॒ सातु॒र्जनि॑तो॒रवा॑रि॒ न मा॒तरा॑पि॒तरा॒ नू चि॑दि॒ष्टौ ।  
+> अधा॑ मि॒त्रो न सुधि॑तः पाव॒को॒३॒॑ग्निर्दी॑दाय॒ मानु॑षीषु  ॒
+> पक्षु ॥ ७ ॥
+
+> *na yasya sāturjanitoravāri na mātarāpitarā nū cidiṣṭau |*  
+> *adhā mitro na sudhitaḥ pāvakognirdīdāya mānuṣīṣu*  
+> *pakṣu ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 834
+
+> न । यस्य । सातुः । जनितोः । अनारि । न । मातरा । पितरा । नु । चित् । इष्टौ ।  
+> अध । मित्रः । न । सुधितः । पावकः । अग्निः । दीदाय । मानुषीषु । विक्षु ॥ ७ ॥
+
+> *na | yasya | sātuḥ | janitoḥ | anāri | na | mātarā | pitarā | nu | cit | iṣṭau |*  
+> *adha | mitraḥ | na | sudhitaḥ | pāvakaḥ | agniḥ | dīdāya | mānuṣīṣu | vikṣu ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनितोर्जनयितुर्वृष्टुत्पादकस्य यस्य वैश्वानरस्य सातुः सनिः पश्वादिलक्षणं
+> दानं दीप्तिर्वा नावारि । केनापि न वार्यते । किंच मातरा पितरा मातापितरौ
+> द्यावापृथिव्यौ यस्यॆष्टौ प्रेषणे नू चित् क्षिप्रमेव न प्रभवतः । अधापि च मित्रो
+> न सखेव सुधितः सुतृप्तः पावकः शोधकोग्निर्मानुषीषु मनोः संबंधिनीषु
+> विक्षु प्रजासु दीदाय । दीप्यते ॥ दीपी दीप्ता । पकारलोपश्चांदसः । व्यत्ययेन
+> परस्मैपदं । लिट्यभ्यासस्य ह्रस्वे कृते तुजादित्वाद्दीर्घत्वं ॥
+
+##### Gist of the bhāṣya
+
+Of Vaiśvānara, the progenitor, the producer of rain, whose giving (सातुः (*sātuḥ*)) of cattle and the like, or whose radiance, is not checked by anyone. Moreover, Heaven and Earth, the mother and father, are not able to act quickly when he is to be sent forth. And Agni, the purifier, well satisfied like a friend, shines among the human creatures, the peoples belonging to Manu. Grammar remarks: दीदाय (*dīdāya*) is from the root dīp, with loss of p being Vedic, parasmaipada by interchange.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनितोः (*janitoḥ*)—of the producer of rain
+- यस्य (*yasya*)—of that Vaiśvānara
+- सातुः (*sātuḥ*)—the giving (or radiance)
+- न अवारि (*na avāri*)—cannot be checked by anyone
+- मातारा पितरा (*mātārā pitarā*)—Heaven and Earth, mother and father of the world
+- इष्टौ (*iṣṭau*)—in the act of sending forth Agni
+- नू चित् (*nū cit*)—quickly
+- न (*na*)—are not able
+- अध (*adha*)—and
+- मित्रः न (*mitraḥ na*)—like a friend
+- सुधितः (*sudhitaḥ*)—satisfied
+- पावकः (*pāvakaḥ*)—purifier
+- अग्निः (*agniḥ*)—Agni
+- मानुषीषु (*mānuṣīṣu*)—in human
+- निक्षु (*nikṣu*)—among the peoples **NOTE**
+- दीदाय (*dīdāya*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The radiance of Vaiśvānara, the producer of rain, cannot be checked by anyone. Even Heaven and Earth, the mother and father of the world, are not quickly able in the act of sending Agni forth. Agni, satisfied like a friend and a purifier, shines among the peoples of human form.
+
+##### English translation (H. H. Wilson)
+Of whom, progenitor (of mankind), the benevolence is never checked ; whose parents need not urge him to exertion ; so that the well-satisfied, puri-fying Agni shines like a friend amongst men, the descendants of Manu
+
+### Printed p. 835
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्विर्यं पंच॒ जीज॑नंत्सं॒वसा॑नाः॒ स्वसा॑रो अ॒ग्निं मानु॑षीषु  ॒
+> विक्षु ।  
+> उ॒ष॒र्बुध॑मथ॒र्यो॒३॒॑३न दंतं॑ शु॒क्रं स्वासं॑ पर॒शुं न ति॒ग्मं॥
+
+> *dviryaṃ paṃca jījanaṃtsaṃvasānāḥ svasāro agniṃ mānuṣīṣu*  
+> *vikṣu |*  
+> *uṣarbudhamatharyo3na daṃtaṃ śukraṃ svāsaṃ paraśuṃ na tigmaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विः । यं । पंच । जीजनन् । संवसानाः । स्वसारः । अग्निं । मानुषेषु । विक्षु ।  
+> उषःबुधं । अथर्यः । न । दंतं । शुक्रं । सुआसं । परशुं । न । तिग्मं ॥ ८ ॥
+
+> *dviḥ | yaṃ | paṃca | jījanan | saṃvasānāḥ | svasāraḥ | agniṃ | mānuṣeṣu | vikṣu |*  
+> *uṣaḥbudhaṃ | atharyaḥ | na | daṃtaṃ | śukraṃ | suāsaṃ | paraśuṃ | na | tigmaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मानुषीषु मनोः संबंधिनीषु विक्षु प्रजासु संवसानाः संगच्छमाना द्विः
+> पंच दश स्वसारोऽंगुलयो यमग्निं जीजनन् । मंथनेनोदपादयन् ॥ जनी
+> प्रादुर्भावे । लुजि छांदसत्वादडभावः ॥ कीदृश्य अंगुलयः । अथर्यो न स्त्रिय
+> इव । कीदृशमग्निं । उषर्बुधमुषसि बुध्यमानं दंतं हविषां भक्षकं शुक्रं रश्मिभिर्दीप्यमानं स्नासं शोभनास्यं तिग्मं तीक्ष्णं परशुं न परशुमिव रक्षसां हंतारमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The ten sisters, the fingers, dwelling together among human peoples belonging to Manu, engendered Agni by churning (जीजनन् (*jījanan*) from jan, "to appear"; the loss of the augment a is Vedic). What sort of fingers? Like women. What sort of Agni? Awakening at dawn, the eater of oblations, bright, shining with rays, of beautiful mouth, sharp like an axe, that is, the slayer of Rākṣasas (this being the supplied remainder).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मानुषीषु (*mānuṣīṣu*)—belonging to Manu
+- विक्षु (*vikṣu*)—among the peoples
+- सं वसानाः (*saṃ vasānāḥ*)—joined together
+- द्विः पंच (*dviḥ paṃca*)—ten in number
+- अथर्यः न (*atharyaḥ na*)—like women
+- स्वसारः (*svasāraḥ*)—the fingers
+- उषर्बुधं (*uṣarbudhaṃ*)—him who becomes visible at dawn
+- दंतं (*daṃtaṃ*)—the eater of oblation
+- शुक्रं (*śukraṃ*)—the shining
+- स्वासं (*svāsaṃ*)—of radiant face
+- तिग्मं (*tigmaṃ*)—sharp
+- परशुं न (*paraśuṃ na*)—like an axe, the destroyer of Rākṣasas
+- यं (*yaṃ*)—which same Agni
+- जीजनन् (*jījanan*)—they produced
+
+##### भावार्थ (Bhāvārtha)
+
+The fingers, ten in number, joined together among the peoples belonging to Manu and like women, produced Agni, who becomes visible at dawn, eats the oblation, is shining, of radiant face, and destroys the Rākṣasas like a sharp axe.
+
+### Printed p. 836
+
+##### English translation (H. H. Wilson)
+Agni, whom the twice five sisters dwelling amongst men, the descen-
+dants of Manu, have engendered, like females, (awaking) him at dawn,
+feeding on oblations, brilliant, of goodly aspect, and sharp as an axe.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ त्ये अ॑ग्ने ह॒रितो॑ घृत॒स्ना रोहि॑तास ऋ॒ज्जंचः॒ स्वंचः॑ ।  
+> अ॒रु॒षासो॒ वृष॑ण ऋजुमु॒ष्का आ दे॒वता॑तिमह्वंत द॒स्माः ॥
+
+> *tava tye agne harito ghṛtasnā rohitāsa ṛjjaṃcaḥ svaṃcaḥ |*  
+> *aruṣāso vṛṣaṇa ṛjumuṣkā ā devatātimahvaṃta dasmāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्ये । अग्ने । हरितः । धृतस्नाः । रोहितासः । ऋजुअंचः । सुअंचः ।  
+> अरुषासः । वृषणः । ऋजुमुष्काः । आ । देव्यतातिं । अह्वंत । दस्माः ॥ ९ ॥
+
+> *tava | tye | agne | haritaḥ | dhṛtasnāḥ | rohitāsaḥ | ṛjuaṃcaḥ | suaṃcaḥ |*  
+> *aruṣāsaḥ | vṛṣaṇaḥ | ṛjumuṣkāḥ | ā | devyatātiṃ | ahvaṃta | dasmāḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्ये ते प्रसिद्धास्तव हरितस्त्वत्संबंधिनोऽश्वा देवतातिमस्मदीयं
+> यागं प्रत्याह्वंत । ऋत्विभिराहूयंते ॥ लुजु लिपिसिचिश्वश्चेत्यजादेशः ॥ कीवृशाः ।
+> धृतस्ना धृतस्न्नुवो बलातिशयान्नासापुटादिस्थानेभ्य उदकं क्षरंतो रोहितासो
+> रोहिता लोहितवर्णा ऋज्जंचः । ऋज्जकुटिलमंचंति गच्छंतीत्यृज्जंचः । स्वंच
+> सुष्टु गच्छंतः । अरुषास आरोचमाना वृषणो युवानो वर्षितारो वा ॥ वा
+> षपूर्वस्य निगम इति विकल्पेन दीर्घविधानादत्र दीर्घाभावः ॥ ऋजुमुष्काः साधनमुष्का दस्मा दर्शनीयाः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, those well-known horses of yours are summoned by the priests to our sacrifice (अह्वंत (*ahvaṃta*); the substitution aja by the sūtra on lu). Of what sort? धृतस्नाः (*dhṛtasnāḥ*): through excess of strength they let water flow from the nostrils and other places. रोहितासः (*rohitāsaḥ*): red-coloured. ऋज्जंचः (*ṛjjaṃcaḥ*): going straight (not crooked). स्वंचः (*svaṃcaḥ*): going well. अरुषासः (*aruṣāsaḥ*): shining. वृषणः (*vṛṣaṇaḥ*): young, or showerers; because the lengthening is optional, no lengthening occurs here. ऋजुमुष्काः (*ṛjumuṣkāḥ*): of effective strength; दस्माः (*dasmāḥ*): beautiful to see.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- त्यै (*tyai*)—well-known
+- धृतस्नाः (*dhṛtasnāḥ*)—pouring out foam
+- रोहितासः (*rohitāsaḥ*)—golden-coloured
+- ऋज्जंचः (*ṛjjaṃcaḥ*)—of straight gait
+- स्वंच (*svaṃca*)—moving excellently
+- अरुषासः (*aruṣāsaḥ*)—golden-coloured
+- वृषणः (*vṛṣaṇaḥ*)—endowed with youth
+- ऋजुमुष्काः (*ṛjumuṣkāḥ*)—of excellent limbs
+- दस्माः (*dasmāḥ*)—of attractive look
+- हरितः (*haritaḥ*)—the horses
+- देवतातिं (*devatātiṃ*)—to the sacrifice that worships the gods
+- आ अह्वंत (*ā ahvaṃta*)—are called
+
+### Printed p. 837
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your well-known horses, pouring out foam, golden, of straight gait, moving excellently, golden, youthful, of excellent limbs, of attractive look, are summoned to the sacrifice that worships the gods.
+
+##### English translation (H. H. Wilson)
+Your horses, Agni, breathing foam, red-coloured, straight-going, well-paced, bright-shining, vigorous, well-membered, and of graceful form, are summoned to the worship of the gods.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ह॒ तै ते॒ सह॑माना अ॒यास॑स्त्वे॒षासो॑ अग्ने अ॒र्चय॒श्चरं॑ति ।  
+> श्ये॒नासो॒ न दु॑वस॒नासो॒ अर्थं॑ तुविष्ट॒णसो॒ मारु॑तं॒ न  ॑
+> शर्धः ॥ १० ॥
+
+> *ye ha tai te sahamānā ayāsastveṣāso agne arcayaścaraṃti |*  
+> *śyenāso na duvasanāso arthaṃ tuviṣṭaṇaso mārutaṃ na*  
+> *śardhaḥ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ह । त्ये । ते । सहमानाः । अयासः । त्वेषासः । अग्ने । अर्चयः । चरंति ।  
+> श्येनासः । न । दुवसनासः । अर्थं । तुविस्वनसः । मारुतं । न । शर्धः ॥ १० ॥
+
+> *ye | ha | tye | te | sahamānāḥ | ayāsaḥ | tveṣāsaḥ | agne | arcayaḥ | caraṃti |*  
+> *śyenāsaḥ | na | duvasanāsaḥ | arthaṃ | tuvisvanasaḥ | mārutaṃ | na | śardhaḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ये ह खलु त्ये ते प्रसिद्धाः सहमानाः शत्रूनभिभवंतोऽयासो
+> गमनशीलास्त्वेषासो दीप्ता दुवसनासः परिचरणीयास्ते त्वदीया अर्चयो
+> रश्मयः श्येनासो न अश्वा इवार्थं गंतव्यं चरंति । गच्छंति । कीदृशाः । मारुतं
+> शर्धो न मरुत्संबंधी गण इव तुविष्टणसस्तुविस्वना अधिकध्वनयो भवंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, those well-known rays of yours, overcoming enemies, swift-going, bright, fit to be attended, move to their goal like falcons (श्येनासो न (*śyenāso na*)). They are loud-sounding, with great noise, like the host of the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ये ह (*ye ha*)—which of yours
+- त्ये (*tye*)—well-known
+- सहमानाः (*sahamānāḥ*)—not defeated by enemies
+- आयासः (*āyāsaḥ*)—of moving nature
+- त्वेषासः (*tveṣāsaḥ*)—shining (the text breaks off here)
+
 ---
 
-**Progress note:** Done through printed p. 831. pp. 826-831 (batch API)
+**Progress note:** Done through printed p. 837. pp. 832-837 (batch API)
