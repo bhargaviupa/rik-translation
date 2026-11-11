@@ -3617,6 +3617,258 @@ Indra, attended by the Maruts, the showerer (of benefits), drink the Soma offere
 
 The verse सजोषा इंद्र (*sajoṣā iṃdra*) is the yājyā of the Marutvatīya graha. The sūtra says: सजोषा इंद्र सगणो मरुद्भिरिति भक्षयित्वैतत्पात्रं (*sajoṣā iṃdra sagaṇo marudbhiriti bhakṣayitvaitatpātraṃ*) (Ā. 5-14). "O mighty hero (शूर (*śūra*)) Indra, you who are united (सजोषाः (*sajoṣāḥ*)) with the gods the Maruts, accompanied by your troop (सगणः (*sagaṇaḥ*)) by the Maruts alone, the slayer of Vṛtra, knowing (विद्वान् (*vidvān*)) the subject of the rites—drink the Soma. Then for us …" (the block breaks off here; the next window continues).
 
+### Printed p. 95
+#### Ṛk 2
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शत्रून् जहि । मृधो हिंसकान् शत्रूनप नुदस्व । यद्वा मृधः। हिंस्यंतेऽत्र प्राणिन
+> इति मृधः संग्रामाः । तत्र वर्तमानान् शत्रूनसनुदस्व । अथानंतरं नोऽस्माकं
+> विश्वतः सर्वतोऽभयं कृणुहि । कुरु । सर्वतो भयरहितानस्मान्कुर्वित्यर्थः ॥
+> वृत्रहा । हंतेब्रह्मभ्रूणवृत्तेषु क्विप् । अभयं । इंभी भय इत्यस्मादेरच् ।
+> नञा समासे तस्य स्वरः । विश्वतः । पंचम्यास्तसिल् । लित्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: "Slay the enemies. मृधः (*mṛdhaḥ*) are harmful enemies; drive them away." Or else मृधः (*mṛdhaḥ*) means battles, because living beings are injured in them ("they are harmed here"); drive away the enemies who stand in those battles. Then, afterwards, make us fearless on every side. The meaning is "make us free from fear everywhere."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—valorous
+- इंद्र (*iṃdra*)—O Indra
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- सगणः (*sagaṇaḥ*)—united (with them)
+- सजोषाः (*sajoṣāḥ*)—having equal affection (for them)
+- वृत्रहा (*vṛtrahā*)—slayer of Vṛtra
+- विद्वान् (*vidvān*)—wise; you who are such
+- सोमं (*somaṃ*)—the Soma juice
+- पिब (*piba*)—drink
+- शत्र्यन् (*śatryan*)—our enemies
+- जहि (*jahi*)—defeat
+- मृधः (*mṛdhaḥ*)—the enemies in battle
+- आप नुदस्व (*āpa nudasva*)—destroy
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—to us
+- विश्वतः (*viśvataḥ*)—from all sides
+- अभयं (*abhayaṃ*)—freedom from fear
+- कृणुहि (*kṛṇuhi*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O valorous Indra, you who are united with the Maruts, who have equal affection for them, who are the slayer of Vṛtra and are wise, drink the Soma juice. Defeat our enemies. Destroy the enemies who are intent on battle, and afterwards make us free from fear on every side.
+
+##### English translation (H. H. Wilson)
+Indra, hero, rejoicing with and accompanied by the host of Maruts, drink the Soma, for you are the slayer of Vritra, the sage; subdue our enemies, drive away the malevolent, make us safe on every side from peril.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning सजोषा इंद्र (*sajoṣā iṃdra*) is to be used as the yājyā mantra for the Marutvatīya graha is explained by the Āśvalāyana sūtra सजोषा इंद्र सगणो मरुद्भिरिति भक्षयॆत्वैतत्पात्रं (*sajoṣā iṃdra sagaṇo marudbhiriti bhakṣayètvaitatpātraṃ*) (Ā. 5-14).
+
+मृधः (*mṛdhaḥ*)—The word मृध (*mṛdha*) is read among the names of battle (Ni. 3-9). Its use is mostly in the sense of war. But in some contexts it is also understood as the enemy who is the cause of war. The Nirukta-kāra cites the Ṛk वि न इंद्र मृधो जहि नीचा यच्छ पृतन्यतः । (*vi na iṃdra mṛdho jahi nīcā yaccha pṛtanyataḥ |*) (Ṛ. Saṃ. 10-152-5)
+
+### Printed p. 96
+and shows that there it has the meaning "enemies who wage war" (Ni. 7-2). In the present Ṛk too the word stands as a synonym of "enemy".
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ऋ॒तुभि॑र्ऋतुपाः पाहि॒ सोम॒मिंद्र॑ दे॒वेभिः॒ सखि॑भिः ॒ ॑
+> सुतं नः ।  
+> या अभ॑जो म॒रुतो॒ ये त्वान्वह॑न्वृ॒त्रमद॑धु॒स्तुभ्य॒मोजः॑॥
+
+> *uta ṛtubhirṛtupāḥ pāhi somamiṃdra devebhiḥ sakhibhiḥ*  
+> *sutaṃ naḥ |*  
+> *yā abhajo maruto ye tvānvahanvṛtramadadhustubhyamojaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ऋतुभिः । ऋतुपाः । पाहि । सोमं । इंद्र । देवेभिः । सखिभिः । सुतं ।  
+> नः ।  
+> यान् । आ । अभजः । मरुतः । ये । त्वा । अनु । अहन् । वृत्रं । अदधुः । तुभ्यं ।  
+> ओजः ॥ ३ ॥
+
+> *uta | ṛtubhiḥ | ṛtupāḥ | pāhi | somaṃ | iṃdra | devebhiḥ | sakhibhiḥ | sutaṃ |*  
+> *naḥ |*  
+> *yān | ā | abhajaḥ | marutaḥ | ye | tvā | anu | ahan | vṛtraṃ | adadhuḥ | tubhyaṃ |*  
+> *ojaḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च हे ऋतुपाः कालनिर्वाहकतया ऋतूनां पातः । ऋतुषु
+> सोमं पिबतीति वा ऋतुपाः । यद्वा ऋतुभिर्मरुद्भिः सह सोमं पिबतीति
+> ऋतुपाः । तादृश हे इंद्र सखिभिः समानख्यानैर्यतुभिर्मरुद्भिर्देवेभिर्देवैः
+> सहितस्त्वं नः संबंधिनं सुतमभिषुतं सोमं पाहि । पिब । किंच यान्मरुत आभजो
+> युद्धसहायार्थमसेवथा ये च मरुतस्त्वा त्वां युद्धे स्वामिनमन्वभजंत ।
+> ततस्त्वं वृत्रमहन् । हतवानसि । ते मरुतस्तुभ्यं त्वदर्थमोजो युद्धे शत्रुहननादिरूपं पराक्रममदधुः । अकुर्वन् ॥ अभजः । भज सेवायामित्यस्य लजि रूपं ।
+> यद्वृत्तयोगादनिघातः । अहन् । हन हिंसागत्योरित्यस्य लजि सिपो हल्ड्या दिना
+> लोपः । पादादित्पादनिघातः । अदधुः । दधातेर्लजि झेः सिजभ्यस्तेति जुस् ।
+> वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+"Moreover, O Ṛtupā": he who protects the seasons by regulating time; or he who drinks Soma in the seasons; or else he who drinks Soma together with the Ṛtus, that is, the Maruts. Such an Indra, being accompanied by his friends, the Maruts, who bear the same name as the Ṛtus, and by the gods, is to drink our pressed Soma. Further: the Maruts whom you resorted to for help in battle, and the Maruts who resorted to you as their lord in battle: thereupon you slew Vṛtra. Those Maruts placed in you ओजः (*ojaḥ*), vigour that takes the form of slaying enemies in battle; they produced it for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- ऋतुसाः (*ṛtusāḥ*)—one who drinks Soma together with the Maruts (or: one who drinks Soma at the fixed times)
+- इंद्र (*iṃdra*)—O Indra
+- सखिभिः (*sakhibhiḥ*)—your friends
+
+### Printed p. 97
+- ऋतुभिः (*ṛtubhiḥ*)—with the Maruts
+- देवेभिः (*devebhiḥ*)—and with the gods; you who are united with them
+- नः (*naḥ*)—by us
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma
+- पाहि (*pāhi*)—drink
+- यान् (*yān*)—which Maruts
+- आभजः (*ābhajaḥ*)—you have served
+- ये (*ye*)—which Maruts
+- त्वा (*tvā*)—you
+- अनु (*anu*)—served (and for that very reason)
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- अहन् (*ahan*)—you have slain (those same Maruts)
+- तुभ्यं (*tubhyaṃ*)—to you
+- ओजः (*ojaḥ*)—the strength that destroys enemies
+- आदधुः (*ādadhuḥ*)—produced
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who drink Soma according to the regulation of time, together with your friends the Maruts and with the gods, drink the Soma pressed by us. Because you served the Maruts, and because the Maruts served you, you became able to slay Vṛtra; those same Maruts produced in you the strength that destroys enemies.
+
+##### English translation (H. H. Wilson)
+Drinker of the Soma in season, drink with your divine friends the Maruts, the Soma that is presented by us; those Maruts whose aid you have enjoyed (in battle), and who, following you, have given you the strength whereby you have slain Vritra.
+
+##### विशेषविषयगळु (Special Topics)
+
+The words ऋतुपाः (*ṛtupāḥ*) and ऋतुभिः (*ṛtubhiḥ*) must be explained according to the context. For the word ऋतु (*ṛtu*) the meaning "fixed state" or "regulation of time" is current. From the offering of oblations duly, in accordance with such a fixed ṛtu-dharma, the word ऋत्विक् (*ṛtvik*) is formed. Or, according to some, the word ऋतु (*ṛtu*) means a vessel in which oblations are offered. As indicated in "को अग्निमाट्टे हविषा धृतेन सुचा यजाता ऋतुभिर्घ्रवेभिः (*ko agnimāṭṭe haviṣā dhṛtena sucā yajātā ṛtubhirghravebhiḥ*)" (Ṛ. Saṃ. 1-84-18), सुक् (*suk*), ऋतु (*ṛtu*) and ध्रुव (*dhruva*) are all three vessels for offering oblations. In places such as इंद्र सोमं पिब ऋतुना (*iṃdra somaṃ piba ṛtunā*) (1-15-1) and मरुतः पिब ऋतुना (*marutaḥ piba ṛtunā*) (1-15-2), one view is that the word ऋतु (*ṛtu*) means a vessel. But Sāyaṇa has explained ऋतु (*ṛtu*) in these contexts as the deity Ṛtu, and the Saṃhitā too shows the meaning "deity". Even in the Ṛk 1-84-18 cited above Sāyaṇa has not taken it to mean a vessel; he has given it as the seasons beginning with spring.
+
+If the word ऋतु (*ṛtu*) is a synonym of "deity", then ऋत्विक् (*ṛtvik*) means a worshipper of the deity. In the present Ṛk, ऋतुपाः (*ṛtupāḥ*) can be explained as the Indra who drinks Soma in the seasons,
+
+### Printed p. 98
+and ऋतुभिः (*ṛtubhiḥ*) as the Indra who is united with the deities named Ṛtu. Sāyaṇa has explained them as the Marut deities. When one says ऋतुभिः देवेभिः (*ṛtubhiḥ devebhiḥ*), if ऋतुभिः (*ṛtubhiḥ*) is made an adjective of देवेभिः (*devebhiḥ*), it can also mean "with the deities named Ṛtu".
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये त्वा॑हि॒हत्ये॑ मघव॒न्नव॑र्ध॒न्ये शां॑ब॒रे ह॑रिवो॒ ये  ॑
+> गवि॑ष्टौ ।  
+> ये त्वा॑ नू॒नम॑नु॒मदं॑ति॒ विप्राः॒ पिबें॑द्र॒ सोमं॒ सग॑णो  ॒॑
+> मरुद्भिः ॥ ४ ॥
+
+> *ye tvāhihatye maghavannavardhanye śāṃbare harivo ye*  
+> *gaviṣṭau |*  
+> *ye tvā nūnamanumadaṃti viprāḥ pibeṃdra somaṃ sagaṇo*  
+> *marudbhiḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । त्वा । अहिहत्ये । मघवन् । अवर्धन् । ये । शांबरे । हरवः । ये ।  
+> गोऽइष्टौ ।  
+> ये । त्वा । नूनं । अनुमदंति । विप्राः । पिब । इंद्र । सोमं । सगणः ।  
+> मरुत्भिः ॥ ४ ।
+
+> *ye | tvā | ahihatye | maghavan | avardhan | ye | śāṃbare | haravaḥ | ye |*  
+> *go 'iṣṭau |*  
+> *ye | tvā | nūnaṃ | anumadaṃti | viprāḥ | piba | iṃdra | somaṃ | sagaṇaḥ |*  
+> *marutbhiḥ ‖ 4 |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वतीयशस्त्रे याज्या ये त्वाहिहत्य इत्येषा । सूत्रितं च । ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या । आ. ५-१४ । इति ॥
+> हे मघवन्निंद्र ये मरुतोऽहिहत्ये वृत्रहननरूपे कर्मणि त्वा त्वामवर्धन् प्रहर भगवो जहि वीरयस्वेति बलदानेनावीवृधन् । हे हरिवोऽश्ववन्निंद्र
+> ये च शांबरे शंबरवधसंबंधिनि युद्धे त्वामवीवृधन् । इंद्रः शंबरमवधीदित्यस्मिन्नर्थे मंत्रवर्णः । यः शंबरं पर्वतेषु क्षियंतं चत्वारिंश्यां शरद्यन्वविंदत् । ओजायमानं यो अहिं जघान । ऋग्वे २-१२-११ । इति । तथा ये
+> मरुतो गविष्टौ पणिनामकैरसुरैः सह गवार्थे युद्धे च त्वामवीवृधन् । विप्रा
+
+##### Gist of the bhāṣya
+
+The Ṛk ये त्वाहिहत्ये (*ye tvāhihatye*) is the yājyā in the Marutvatīya śastra. It is prescribed by the sūtra ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14). O Maghavan Indra, the Maruts who in the work of slaying Ahi (Vṛtra) strengthened you by giving you strength, with words such as "strike, blessed one, slay, show your valour"; and, O Harivān (possessor of horses) Indra, those who strengthened you in the battle connected with the slaying of Śambara. That Indra slew Śambara is stated by a mantra passage: यः शंबरं पर्वतेषु क्षियंतं चत्वारिंश्यां शरद्यन्वविंदत् । ओजायमानं यो अहिं जघान । (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ catvāriṃśyāṃ śaradyanvaviṃdat | ojāyamānaṃ yo ahiṃ jaghāna |*) (Ṛgve. 2-12-11)**NOTE**. Likewise the Maruts who strengthened you in the battle for cattle, गविष्टौ (*gaviṣṭau*), against the asuras named Paṇis; and the wise
+
+### Printed p. 99
+Maruts who now delight you: together with such Maruts, in company, drink this Soma.
+
+> मेधाविनो ये च मरुतो नूनमिदानीं त्वामनुमदंति मादयंति तादृशैस्त्यर्मरुद्धिः सगणः सन् इमं सोमं पिब ॥ अहिहत्ये । हंतेर्भावे हनस्त चेति क्यप् ।
+> कृदुत्तरपदस्वरः । अवर्धन् । वृधु वृद्धावित्यस्य ण्यंतस्य लजि रूपं । छंदस्युभयथेति
+> झीरार्धधातुकत्वाणेर्लोपः । यद्वृत्तयोगादनिघातः । शांबरे । शंबरस्येदमित्यर्थे तस्येदमित्यण्प्रत्ययः । गविष्टौ । इषु इच्छायां । भावे क्तिन् । बहुव्रीहौ
+> पूर्वपदस्वरः । अनुमदंति । मदि स्तुत्यादिश्वित्यस्य लटि व्यत्ययेन परस्मैपदं ।
+> आगमानुशासनस्यानित्यत्वान्नुमभावः । झीर्लसार्वधातुकस्वरे कृते धातुस्वरः । तिजं
+> चोदात्तवतीति गतेर्निघातः ॥
+
+##### Gist of the bhāṣya
+
+The Gist for the portion of this block that stands in this window is given in the preceding paragraph, which completes the sentence ("the wise Maruts who now delight you … drink this Soma"); the remainder of the block is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy one
+- हरिवः (*harivaḥ*)—possessor of horses
+- इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—which Maruts
+- अहिहत्ये (*ahihatye*)—in the work consisting of the slaying of Vṛtra
+- त्वा (*tvā*)—you
+- अवर्धन् (*avardhan*)—made to grow
+- ये (*ye*)—which Maruts
+- शांबरे (*śāṃbare*)—in the battle fought with Śambara, gave strength
+- ये (*ye*)—which Maruts
+- गविष्टौ (*gaviṣṭau*)—helped in the recovery of the stolen cattle (and)
+- विप्राः (*viprāḥ*)—wise
+- ये (*ye*)—which Maruts
+- नूनं (*nūnaṃ*)—now
+- अनुमदंति (*anumadaṃti*)—are gratifying to you
+- मरुद्भिः (*marudbhiḥ*)—with (such) Maruts
+- सगणः (*sagaṇaḥ*)—united together
+- सोमं (*somaṃ*)—this Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wealthy and possessed of horses, the Maruts who strengthened you in the work of slaying Vṛtra, who gave you strength in the battle fought with Śambara, who helped you in the recovery of the stolen cattle, and who, being wise, are now gratifying to you: united with such Maruts, drink this Soma.
+
+##### English translation (H. H. Wilson)
+They who encouraged you Maghavan, to slay Ahi, who (aided you) in the conflict with Shambara, and in the recovery of the cattle, and who, possessed of wisdom, contribute verily to your exhilaration, with them, the troop of the Maruts, Indra, drink the Soma.
+
+### Printed p. 100
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning ये त्वाहिहत्ये (*ye tvāhihatye*) is to be recited as the yājyā mantra at the time of reciting the Marutvatīya śastra is explained by the sūkta**NOTE** of the Āśvalāyana Śrauta-sūtra, ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14).
+
+The friendship between Indra and the Maruts, and the nature of the help that the Maruts gave Indra in many situations, have been explained fully before. Of these, three situations are indicated here.
+
+The name of Śambara is usually joined with the asuras Śuṣṇa, Pipru and Varcin. In some Ṛks he is called a dāsa (6-26-5). It is said that for King Divodāsa, a close friend of Indra, Indra overthrew all the countless forts of the enemy Śambara and gave Divodāsa his property. These matters too have been told before. It is also said that this asura hid himself in the hills and mountains and caused great harm to Atithigva and Divodāsa, and so Indra destroyed him and gave both of them his protection. Like Ahi and Vṛtra, Śambara too can be said to be a person who represents a dense darkness.
+
+"Sambara, meaning among other things the cloud, seems to be some mythical beings connected with the powers of darkness". Oldenberg.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्वं॑तं वृष॒भं ना॑वृधा॒नमक॑वारिं दि॒व्यं शा॒समिंद्रं॑ ।  
+> वि॒श्वा॒साह॒मव॑से॒ नूत॑नायो॒ग्रं स॑हो॒दामि॒ह तं हु॑वेम ॥
+
+> *marutvaṃtaṃ vṛṣabhaṃ nāvṛdhānamakavāriṃ divyaṃ śāsamiṃdraṃ |*  
+> *viśvāsāhamavase nūtanāyograṃ sahodāmiha taṃ huvema ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वंतं । वृषभं । ववृधानं । अकवअरिं । दिव्यं । शासं । इंद्रं ।  
+> विश्वसहं । अवसे । नूतनाय । उग्रं । सहःदां । इह । तं । हुवेम ॥ ५ ॥
+
+> *marutvaṃtaṃ | vṛṣabhaṃ | vavṛdhānaṃ | akavaariṃ | divyaṃ | śāsaṃ | iṃdraṃ |*  
+> *viśvasahaṃ | avase | nūtanāya | ugraṃ | sahaḥdāṃ | iha | taṃ | huvema ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मरुत्वंतं मरुद्भिस्तद्वंतं वृषभं मेघभेदनद्वारापांं वर्षक
+> ववृधानं वृत्रहननादिकर्मसूत्साहेन वर्धमानमकवारिं प्रभूतशत्रु कं यद्वा
+
+##### Gist of the bhāṣya
+
+"O Indra, मरुत्वंतं (*marutvaṃtaṃ*)", accompanied by the Maruts; वृषभं (*vṛṣabhaṃ*), the rainer of waters by splitting the cloud; ववृधानं (*vavṛdhānaṃ*), growing through zeal in works such as the slaying of Vṛtra; akavāri, one who has many enemies**NOTE**; "or else" — the block breaks off here and the next window continues it.
+
 ---
 
-**Progress note:** Done through printed p. 94. pp. 89-94 (batch API)
+**Progress note:** Done through printed p. 100. pp. 95-100 (batch API, retry 1)
