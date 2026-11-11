@@ -27722,6 +27722,156 @@ consequent temporary discontinuance of worship with fire.
 > *pūrvīrhi garbhaḥ śarado vavardhāpaśyaṃ jātaṃ yadasūta*  
 > *mātā ‖ 2 ‖*
 
+### Printed p. 743
+#### Ṛk 2 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । एतं । त्वं । युवते । कुमारं । पेषी । बिभर्षि । महिषी । जजान ।  
+> पूर्वीः । हि । गर्भः । शरदः । ववर्ध । अपश्यं । जातं । यत् । असूत । माता ॥ २ ॥
+
+> *kaṃ | etaṃ | tvaṃ | yuvate | kumāraṃ | peṣī | bibharṣi | mahiṣī | jajāna |*  
+> *pūrvīḥ | hi | garbhaḥ | śaradaḥ | vavardha | apaśyaṃ | jātaṃ | yat | asūta | mātā ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्राग्नेरुत्पाद्यमानत्वात्कुमारशब्देन व्यवहारः । हे युवते त्वं कमेतं
+> कुमारं पेषी हिंसिका पिशाचिका सती बिभर्षि । एवं वृशाख्यो महर्षिः कशिपुनाच्छन्नमग्नेर्हरो ब्रूते । त्वयानुत्पादितत्वाद्धारणमनुचितमित्यर्थः । महिषी महती
+> पूजनीयारणिरेनं जजान । अजनयत् । तदेवाद । गर्भः शिशोर्ग्राहकोऽरण्याः
+> संबंधी गर्भो हि यस्मात्तूर्विः शरदो गताननेकान् संवत्सरान्वर्ध ।
+> ववृधे । अहं च ततो जातमपश्यं । यद्यस्मान्मातारणिरसूत । उदपादयत् ।
+> राजकुमार पक्षे हे युवते भूदेवि: कमेतं कुमारं पेषी सती बिभर्षि ।
+> अवशिष्टं कुमारजननपरतया योज्यं । एवमुत्तरत्रापि कुमाराग्निहरसोः परत्वेन
+> यथोचितं व्याख्येयं ॥
+
+##### Gist of the bhāṣya
+
+Because Agni is being produced here, he is spoken of by the word कुमार (*kumāra*) ("boy"). "O young woman, which boy is this whom you, being a पेषी (*peṣī*) (a harming, demonic woman), carry?" So the great seer named Vṛśa speaks of Agni, who has been hidden by Kaśipu.**NOTE** The meaning is that, since the boy was not produced by you, your carrying him is improper. The great, venerable महिषी (*mahiṣī*), the araṇi (fire-stick), gave birth to him. गर्भः (*garbhaḥ*): the embryo, the seizer of the child, belonging to the araṇi, has grown through many past autumns (years); and I saw him born when the mother, the araṇi, brought him forth. On the alternative of the king's son: "O young woman, the Earth-goddess, you, being a पेषी (*peṣī*), carry which boy?" The rest is to be construed as referring to the birth of the boy. Likewise in the following verses the explanation is to be made as fits, referring to Kumāra, Agni or Hara.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवते (*yuvate*)—O young woman
+- पेषी (*peṣī*)—possessing a nature of harming
+- त्वं (*tvaṃ*)—you
+- कं एतं कुमारं (*kaṃ etaṃ kumāraṃ*)—which this boy
+- बिभर्षि (*bibharṣi*)—are you nourishing? (who is this boy you are nourishing?)
+- महिषी (*mahiṣī*)—the venerable mother
+- जजान (*jajāna*)—gave birth (to him)
+- गर्भः (*garbhaḥ*)—the embryo of this son
+- पूर्वी शरदः (*pūrvī śaradaḥ*)—for many years
+- ववर्ध हि (*vavardha hi*)—grew indeed
+- यत् (*yat*)—when
+- माता (*mātā*)—the mother
+- असूत (*asūta*)—gave birth (then)
+- जातं (*jātaṃ*)—this son who was born
+- अपश्यं (*apaśyaṃ*)—I saw
+
+##### भावार्थ (Bhāvārtha)
+
+O young woman, who is this boy that you, who have a nature of harming, are nourishing? The venerable great mother bore him. The embryo of this son grew for many years. I saw this son who was born when his mother brought him forth.
+
+##### English translation (H. H. Wilson)
+Young mother, what boy is this whom you, (become) a malevolent spirit, foster? The mighty (queen) has given him birth; the embryo has
+
+### Printed p. 744
+thriven through many years : I have seen him born as the mother brought him forth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra Sāyaṇa says अग्नेरुत्पाद्यमानत्वात् कुमारशब्देन व्यवहारः (*agnerutpādyamānatvāt kumāraśabdena vyavahāraḥ*), that is, because he is being produced, Agni is here denoted by the word कुमार (*kumāra*); and he has explained the word युवति (*yuvati*) as a demonic (paiśācī) woman. But further on in this mantra there is the description महषी जजान (*mahaṣī jajāna*), "the venerable mother bore this son", and गर्भः पूर्विः शरदः ववर्ध हि (*garbhaḥ pūrviḥ śaradaḥ vavardha hi*), "this embryo grew for many years". Even if, in keeping with the setting of the story, one explains it here as a demonic woman, that demonic woman, who was the wife of Trayaṇa,**NOTE** only hid Agni; she neither bore him nor carried him. Therefore it is proper here to explain the word युवति (*yuvati*) as Uṣas, the mother of Agni.
+एता उ त्याः प्रत्यदृश्रन् पुरस्ताज्योतिर्यच्छंतीरुषसो विभातीः । अजीजनन्सूर्यं यज्ञमग्निमपाचीनं तमो अगादजुष्टं ॥ (*etā u tyāḥ pratyadṛśran purastājyotiryacchaṃtīruṣaso vibhātīḥ | ajījanansūryaṃ yajñamagnimapācīnaṃ tamo agādajuṣṭaṃ ‖*) (Ṛ. Saṃ. 7-78-3)
+In passages such as this it is stated explicitly that Uṣas is the mother of Agni. Moreover, in the Śatapatha Brāhmaṇa passage quoted earlier in the introduction to this sūkta, Agni, from Uṣas, became **NOTE** the one marked with the name Kumāra, and obtained the other eight names, Rudra and the rest; this too is stated.
+एषा दिवो दुहिता प्रत्यदर्शि व्युच्छंती युवतिः शुक्रवासाः । विश्वस्येशाना पार्थिवस्य वस्व उषो अद्येह सुभगे व्युच्छ ॥ (*eṣā divo duhitā pratyadarśi vyucchaṃtī yuvatiḥ śukravāsāḥ | viśvasyeśānā pārthivasya vasva uṣo adyeha subhage vyuccha ‖*) (Ṛ. Saṃ. 1-13-7)
+In many mantras like this, Uṣas's youthfulness and the beauty befitting it are described. How the epithet पेषी (*peṣī*) applies to Uṣas, who is Agni's mother and a young woman, is something to be examined. If it be said that this epithet is proper for a demonic woman but does not fit Uṣas, the answer is that one may freely say that पेषी (*peṣī*) is an epithet describing the nature of Uṣas.
+एतद्वेदुत वीर्यंमिंद्र चकर्थ पौंस्यं । स्त्रियं युद्दु र्हणायुवं वधीर्दुहितरं दिवः ॥ (*etadveduta vīryaṃmiṃdra cakartha pauṃsyaṃ | striyaṃ yuddu rhaṇāyuvaṃ vadhīrduhitaraṃ divaḥ ‖*) (Ṛ. Saṃ. 4-30-8)
+
+### Printed p. 745
+दिवश्चिद्वा दुहितरं महान् महियमानां । उषासमिंद्र सं पिणक् ॥ (*divaścidvā duhitaraṃ mahān mahiyamānāṃ | uṣāsamiṃdra saṃ piṇak ‖*) (4-30-9)
+This Indra is mighty. He struck forcefully Uṣas, the daughter of the heavenly world. Indra thoroughly crushed Uṣas, who was intent on her own self-praise.
+अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नधद्वृषा ॥ (*apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnadhadvṛṣā ‖*)
+एतदस्या अनः शये सुसंपिष्टं विपाश्या । ससार सीं परावतः ॥ (*etadasyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā | sasāra sīṃ parāvataḥ ‖*) (4-30-10, 11)
+As soon as Uṣas's chariot was shattered, she fled in fear of Indra. The chariot she left behind remained there shattered. In this way Uṣas, harmed by Indra, is extolled in mantras with the epithets सं पिणक् (*saṃ piṇak*) and सु संपिष्ट (*su saṃpiṣṭa*). सं पिणक् (*saṃ piṇak*) states her condition; सु संपिष्ट (*su saṃpiṣṭa*) states the condition of her chariot. Therefore in the present mantra too the epithet पेषी (*peṣī*) may state the harmed state of Uṣas. If this meaning fits, one may say that it is described that Uṣas, harmed by Indra, carried and nourished her son Agni, that Agni blazes up as soon as Uṣas appears, and that afterwards the sacrificer sees Agni.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिर॑ण्यदंतं॒ शुचि॑वर्णमा॒रात्क्षेत्रा॑दपश्य॒मायु॑धा॒ मिमा॑नं ।  
+> द॒दा॒नो अ॑स्मा अ॒मृतं॑ वि॒पृक्व॒त्किं माम॑निं॒द्राः कृ॑णवन्ननु॒क्थाः ॥ ३ ॥
+
+> *hiraṇyadaṃtaṃ śucivarṇamārātkṣetrādapaśyamāyudhā mimānaṃ |*  
+> *dadāno asmā amṛtaṃ vipṛkvatkiṃ māmaniṃdrāḥ kṛṇavannanukthāḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यदंतं । शुचिवर्णं । आरात् । क्षेत्रात् । अपश्यं । आयुधा । मिमानं ।  
+> ददानः । अस्मै । अमृतं । विपृक्वत् । किं । मां । अनिंद्राः । कृणवन् । अनुक्थाः । ३ ॥
+
+> *hiraṇyadaṃtaṃ | śucivarṇaṃ | ārāt | kṣetrāt | apaśyaṃ | āyudhā | mimānaṃ |*  
+> *dadānaḥ | asmai | amṛtaṃ | vipṛkvat | kiṃ | māṃ | aniṃdrāḥ | kṛṇavan | anukthāḥ | 3 ‖*
+
+### Printed p. 746
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यदंतं हिरण्यसदृशदंतस्थानीयज्वालोपेतं शुचिवर्णं प्रदीप्तवर्णमायुधायुधान्यायुधस्थानीयान् स्फुलिंगान् ज्वाला वा मिमानं निर्मिमाणमग्निमारात्समीपे क्षेत्रात् क्षेत्रे देशेpपश्यं। पश्येयं । एवं वृशः कामयते ।
+> अहमस्मा अग्नयेmमृतमविनाश्यमृतत्वसाधनं ना विपृक्वत्सर्वतो व्याप्तं हविः
+> स्तोत्रं वा ददानः । दातास्मि । मामनिंद्राः । इंद्रः परमैश्वयोऽग्निः । तद्रहिता
+> अनिंद्राः । इंद्रमयजंत इत्यर्थः । अनुक्ता अस्तुतय इंद्रमस्तुवंतश्च किं
+> कृणवन् । किं कुर्युः ॥
+
+##### Gist of the bhāṣya
+
+हिरण्यदंतं (*hiraṇyadaṃtaṃ*): Agni endowed with flames that stand in the place of teeth resembling gold; शुचिवर्णं (*śucivarṇaṃ*): of blazing colour; आयुधा (*āyudhā*): weapons, that is, sparks or flames standing in the place of weapons, which he fashions (मिमानं (*mimānaṃ*)). Such an Agni may I see (अपश्यं (*apaśyaṃ*) glossed पश्येयं (*paśyeyaṃ*)) आरात् (*ārāt*), nearby, क्षेत्रात् (*kṣetrāt*), in the place. Thus Vṛśa wishes.**NOTE** "I am the giver, to this Agni, of अमृतं (*amṛtaṃ*), imperishable, the means of immortality, विपृक्वत् (*vipṛkvat*), pervading everywhere, oblation or praise." इंद्रः (*iṃdraḥ*) is supreme lordship, Agni; those devoid of it are अनिंद्राः (*aniṃdrāḥ*), the meaning being that they do not worship Indra. The अनुक्थाः (*anukthāḥ*), those who do not praise, who do not extol Indra: what can they do to me?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्यदंतं (*hiraṇyadaṃtaṃ*)—possessing flames shining like teeth made of gold
+- शुचिवर्णं (*śucivarṇaṃ*)—of radiant colour
+- आयुधा (*āyudhā*)—sparks like weapons
+- मिमानं (*mimānaṃ*)—producing; the Agni
+- आरात् (*ārāt*)—nearby
+- क्षेत्रात् (*kṣetrāt*)—in the place
+- अपश्यं (*apaśyaṃ*)—I have seen
+- अस्मै (*asmai*)—to this Agni
+- अमृतं (*amṛtaṃ*)—that which brings immortality
+- विपृक्वत् (*vipṛkvat*)—that which pervades everywhere; the oblation
+- ददानः (*dadānaḥ*)—offering
+- मां (*māṃ*)—me
+- अनिंद्राः (*aniṃdrāḥ*)—those who do not worship Agni, who has supreme lordship
+- अनुक्थाः (*anukthāḥ*)—those who do not offer him praise; the unbelievers
+- किं कृणवन् (*kiṃ kṛṇavan*)—what indeed can they do?
+
+##### भावार्थ (Bhāvārtha)
+
+I have seen, in a nearby place, Agni, possessing flames shining like teeth made of gold, of radiant colour, producing sparks like weapons. Unbelievers, who do not worship Agni, endowed with supreme lordship, and who do not offer him praise, cannot harm me, who offer to such an Agni the oblation that brings immortality and pervades everywhere.
+
+##### English translation (H. H. Wilson)
+I have seen him from a near place, golden-toothed, bright-coloured wielding (flames-like) weapons, (when) offering to him the ambrosial, all-diffusing (oblation) : what can those who acknowledge not Indra, who repeat not his praise, do unto me?
+
+### Printed p. 747
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present mantra Agni is praised with epithets such as हिरण्यदंतं (*hiraṇyadaṃtaṃ*). But here it is necessary to understand the import of the word अनिंद्राः (*aniṃdrāḥ*). Sāyaṇa's explanation of this word is as follows.
+इंद्रः परमैश्वर्यः अग्निः । तद्रहिताः अनिंद्राः । इंद्रमयजंत इत्यर्थः । (*iṃdraḥ paramaiśvaryaḥ agniḥ | tadrahitāḥ aniṃdrāḥ | iṃdramayajaṃta ityarthaḥ |*)
+The word इंद्र (*iṃdra*) means supreme lordship. Because he is endowed with this lordship, Agni too is denoted by the word इंद्र (*iṃdra*). Therefore अनिंद्राः (*aniṃdrāḥ*) here means those who are not worshippers of Indra, that is, non-Vedic people who are not worshippers of Agni. This explanation is one of the many explanations of the word इंद्र (*iṃdra*) given by the Nirukta authors; all of them have been set out in detail earlier. But since Agni is denoted by the word इंद्र (*iṃdra*), the precise meaning of this word must be understood; afterwards the identity of Indra and Agni may be examined. The meaning of the word इंद्र (*iṃdra*) was explained even before the Nirukta authors.
+इंधो ह वै नामैष योऽयं दक्षिणेऽक्षन् पुरुषस्तं वा एतमिंधं संतमिंद्र इत्याचक्षते परोक्षेणैव परोक्षप्रिया इव हि देवाः प्रत्यक्षद्विषः । (*iṃdho ha vai nāmaiṣa yo 'yaṃ dakṣiṇe 'kṣan puruṣastaṃ vā etamiṃdhaṃ saṃtamiṃdra ityācakṣate parokṣeṇaiva parokṣapriyā iva hi devāḥ pratyakṣadviṣaḥ |*) (Śa. Brā. 14-6-11-2; Bṛ. U. 4-2-2)
+The person in the right eye is denoted by the word इंद्र (*iṃdra*) because of his special quality of blazing. (This is the quality of Agni, that is, of brightness.) It is stated that because he is endowed with brightness, the knowing ones designate this person as Indra. The same is stated more fully elsewhere as follows.
+स योऽयं मध्ये प्राणः । एष एवेंद्र स्तानेष प्राणान्मध्यत इंद्रियेणैंध यदैंध तस्मादिंद इंथो ह वै तमिंद्र इत्याचक्षते ॥ (*sa yo 'yaṃ madhye prāṇaḥ | eṣa eveṃdra stāneṣa prāṇānmadhyata iṃdriyeṇaiṃdha yadaiṃdha tasmādiṃda iṃtho ha vai tamiṃdra ityācakṣate ‖*) (Śa. Brā. 6-1-1-2)
+This vital breath in the middle of the body is Indra. This principle supplies vitality and brightness to the other vital breaths of the body. Because it thus supplies brightness to the other beings, it is said that this principle is denoted by the word इंद्र (*iṃdra*). The same meaning is given in the Taittirīya Brāhmaṇa also, in "आस्मिन् ना इदमिंद्रियं" (*"āsmin nā idamiṃdriyaṃ"*) and so on (Tai. Brā. 2-2-10-4). Besides, about fifteen kinds of explanation by Yāska were quoted and set out earlier.
+In this way the root इंद् (*iṃd*) is the basic form of the words that give the meaning of blazing brightness. The word is used not only for the well-known Indra but also for other deities endowed with brightness.
+
+### Printed p. 748
+अभूदुषा इंद्रतमा मघोन्यजीजनत्सुविताय श्रवांसि । वि दिवो देवी दुहिता दधात्यंगिरस्तमा सुकृते वसूनि ॥ (*abhūduṣā iṃdratamā maghonyajījanatsuvitāya śravāṃsi | vi divo devī duhitā dadhātyaṃgirastamā sukṛte vasūni ‖*) (Ṛ. Saṃ. 7-29-3)
+Here Sāyaṇa has explained इंद्रतमा (*iṃdratamā*) as सर्वस्य ईश्वरतमा (*sarvasya īśvaratamā*), but, as stated above in Brāhmaṇa passages such as the Śatapatha, the meaning "exceedingly bright" is the natural one here too. Likewise in
+इंद्रतमा हि धिष्ण्या मरुत्तमा दस्रा दंसिष्ठा रथ्या रथीतमा । (*iṃdratamā hi dhiṣṇyā maruttamā dasrā daṃsiṣṭhā rathyā rathītamā |*) (Ṛ. Saṃ. 1-182-2)
+where it is used as an epithet of the Aśvin deities, this same meaning has to be given. Indra too, because he has this quality of brightness, is described as doing work that is carried out by Agni. For example:
+इंद्रः समत्सु यजमानमार्यं................ । धक्षन्न विश्वं ततृषाणमोषति न्यर्शसानमोषति ॥ (*iṃdraḥ samatsu yajamānamāryaṃ................ | dhakṣanna viśvaṃ tatṛṣāṇamoṣati nyarśasānamoṣati ‖*) (Ṛ. Saṃ. 1-130-8)
+It is described that Indra burned to ashes the asuras and others who were without rites, and their followers. (Burning is the work of Agni.) And:
+भीमस्तुविष्मान् चर्षणिभ्य आतपः शिशीते वज्रं तेजसे न वंसगः । (*bhīmastuviṣmān carṣaṇibhya ātapaḥ śiśīte vajraṃ tejase na vaṃsagaḥ |*) (Ṛ. Saṃ. 1-55-1)
+Here too आतसः (*ātasaḥ*) is an epithet showing Indra's quality; it means one who causes heat all around. This too is the work of Agni and is an epithet of Indra. In Ṛ. Saṃ. 3-31-10, although प्रश्नॆस्य रेतसः (*praśnèsya retasaḥ*) is a description of Indra, in this context it states the nature of Āditya. That is, one may also say that Indra himself has the quality of Āditya. Therefore one may also say that identity between Āditya, a transformed form of Agni, and Indra is stated. Likewise, just as Indra is said to be one who performs the works done by Agni, who is bright and who burns enemies, so Agni too is often described as one who performs the works assigned to Indra.
+प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्कृष्टा अव शंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkṛṣṭā ava śaṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6)
+
 ---
 
-**Progress note:** Done through printed p. 742. pp. 735-742 (batch API)
+**Progress note:** Done through printed p. 748. pp. 743-748 (batch API)
