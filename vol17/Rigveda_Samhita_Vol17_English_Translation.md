@@ -16223,6 +16223,244 @@ In Ṛks of this kind this point is stated clearly.
 
 विष्ट्वे (*viṣṭve*)—This word too is read among the names of works (Ni. 3-1). Sāyaṇa, explaining this word elsewhere, has said as follows. There too the two, viṣṭvī, śamī,
 
+### Printed p. 499
+The Kannada commentary continues: because the two words are used in one and the same place, if the word शमी (*śamī*) means "action", the same meaning cannot be given to the word विष्ट्वि (*viṣṭvi*); another meaning must be given. So Sāyaṇa explains as follows:
+
+विष्ट्वितृत्र न कर्मनाम । शमीत्यनेन पौनरुक्तप्रसंगात् । किं तर्हि । विषेर्वाप्त्यर्थस्य क्रियाशब्दोऽयं विष्ट्विति । विष्ट्वा व्याप्ता ॥ (*viṣṭvitṛtra na karmanāma | śamītyanena paunaruktaprasaṃgāt | kiṃ tarhi | viṣervāptyarthasya kriyāśabdo 'yaṃ viṣṭviti | viṣṭvā vyāptā ‖*)
+
+Although the word is read among the names of actions, the word शमी (*śamī*) already denotes action, so there would be repetition. He therefore states that this word, formed from the root विष् (*viṣ*) in the sense of pervading, means "all-pervading".
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॑ण याथ स॒रथं॑ सु॒ते सचां॒ अथो॒ वशा॑नां भवथा ॒ ॒
+> सह श्रिया ।  
+> न वः॑ प्रति॒मै सु॑कृ॒तानि॑ वाघतः॒ सौध॑न्वना ऋभवो वी॒र्या॑णि  
+> च ॥ ४ ॥
+
+> *iṃdreṇa yātha sarathaṃ sute sacāṃ atho vaśānāṃ bhavathā*  
+> *saha śriyā |*  
+> *na vaḥ pratimai sukṛtāni vāghataḥ saudhanvanā ṛbhavo vīryāṇi*  
+> *ca ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रेण । याथ । सरथं । सुते । सचा । अथो इति । वशानां । भवथ । सह । श्रिया ।  
+> न । वः । प्रतिमै । सुकृतानि । वाघतः । सौधन्वनाः । ऋभवः । वीर्याणि । च ॥ ४ ॥
+
+> *iṃdreṇa | yātha | sarathaṃ | sute | sacā | atho iti | vaśānāṃ | bhavatha | saha | śriyā |*  
+> *na | vaḥ | pratimai | sukṛtāni | vāghataḥ | saudhanvanāḥ | ṛbhavaḥ | vīryāṇi | ca ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो यूयमिंद्रेण सचा सह सरथं समानमेकं रथमारुह्य
+> सुतेऽभिषुतसोमवति यज्ञे याथ । गच्छथ । अथो अनंतरमिंद्रेण सहैकरथमारूढा यूयं वशानां । उश्यते काम्यते यजमानेन स्वर्गादिलक्षणं फलमेभिरिति वशा मनुष्याः । तेषां श्रिया स्तुतिहविरादिरूपया सह भवथ । हे सौधन्वनाः
+> सुधन्वनः पुत्रा वाघतोऽमृतत्वादिलक्षणफलस्य वोढारो मेधाविनो वेति यास्कः।
+> तादृशा हे ऋभवो वो युष्माकं सुकृतानि देवत्वस्य प्रापकाणि शोभनानि
+> कर्माणि न प्रतिमै । प्रतिमातुमियत्तया परिच्छेत्तुं न केनापि शक्यानि । तथा
+> वीर्याणि युष्माकं सामर्थ्यानि च नैव प्रतिमातुं शक्यानि ॥ वशानां । वश कांतौ ।
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, mounting one common chariot together with Indra, you go to the sacrifice in which Soma has been pressed. Then, having mounted the same chariot as Indra, you are together with the वशानां (*vaśānāṃ*). The वशाः (*vaśāḥ*) are men: the sacrificer desires (उश्यते (*uśyate*)) through them the fruit marked by heaven and the like. You are together with their "splendour" (श्रिया (*śriyā*)), in the form of praise, oblations and the like. O Sudhanvan's sons, वाघतः (*vāghataḥ*) means, according to Yāska, bearers of the fruit marked by immortality, or the wise. Of such you, O Ṛbhus, the good deeds that bring godhood, the well-done actions, cannot be measured, that is, delimited as "so much", by anyone. Likewise your powers cannot be measured. The grammatical remarks on वशानां (*vaśānāṃ*) begin here and continue on the next page.
+
+### Printed p. 500
+
+> वशिरण्योरुपसंख्यानमिति करणेऽप्रत्ययः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । वशाशब्दो बंध्यावचनश्चेदंतोदात्तो भवति । वशा मेषा अवसृष्टास
+> आहुताः । ऋग्वे. १०-९१-१४ । इति । वः । युष्मच्छब्दस्य षष्ठीबहुवचने वसादेशः ।
+> निघातः । प्रतिमै । माज् माने । विच् । प्रतिमाः प्रतिमानं । तस्य चतुर्थैकवचन
+> आतो लोपश्चांदसः । एकादेशस्वरः ॥
+
+##### Gist of the bhāṣya
+
+The remaining remarks are grammatical, on वशानां (*vaśānāṃ*), वः (*vaḥ*) and प्रतिमै (*pratimai*). Sāyaṇa also notes that when the word वशा (*vaśā*) means a barren cow it is accented on the last syllable, and he cites Ṛ. Saṃ. 10-91-14 for it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Ṛbhus) इंद्रेण सचा (*iṃdreṇa sacā*)—with Indra
+- सरथं (*sarathaṃ*)—mounting one and the same chariot
+- सुते (*sute*)—to the sacrifice in which Soma has been pressed
+- याथ (*yātha*)—come
+- अथ (*atha*)—afterwards
+- वशानां (*vaśānāṃ*)—belonging to men
+- श्रिया सह (*śriyā saha*)—with the wealth of praise and the like
+- भवथ (*bhavatha*)—join together
+- सौधन्वनाः (*saudhanvanāḥ*)—sons of Sudhanvan
+- वाघतः (*vāghataḥ*)—wise ones
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- वः (*vaḥ*)—your
+- सुकृतानि (*sukṛtāni*)—auspicious deeds
+- वीर्याणि च (*vīryāṇi ca*)—and heroic acts
+- न प्रतिमै (*na pratimai*)—no one is able to measure
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, mounting one and the same chariot with Indra, come to the sacrifice in which Soma has been pressed. Then join together with the wealth of praise and the like that belongs to men. O Ṛbhus, sons of Sudhanvan and wise ones, no one is able to measure your auspicious deeds or your heroic acts.
+
+##### English translation (H. H. Wilson)
+Go with Indra in his chariot when the libation is poured out, and be (welcomed) with honour by the (worshipper) desiring (your favour): Ribhus, sons of Sudhanwan, bestowers (of the rewards of pious acts), your virtuons deeds, your great faculties, are not to be measured.
+
+##### विशेषविषयगळु (Special Topics)
+
+वशानां (*vaśānāṃ*)—उश्यते काम्यते यजमानेन स्वर्गादिलक्षणं फलं एभिः इति वशाः मनुष्याः । (*uśyate kāmyate yajamānena svargādilakṣaṇaṃ phalaṃ ebhiḥ iti vaśāḥ manuṣyāḥ |*) Since fruits such as heaven are desired through sacrificial rites, men who show such a desire are well known by the name वशाः (*vaśāḥ*). The expressions वशा निवित् (*vaśā nivit*) and the like, specified in the Aitareya Āraṇyaka and other works, also indicate the same meaning. (Ai. Ā. 1-5-2)
+
+### Printed p. 501
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ ऋ॒भुभि॒र्वाज॑वद्धिः॒ समु॑क्षितं सु॒तं सोम॒मा वृ॑षस्व्॒॑या  
+> गभस्तोः ।  
+> धि॒येषि॒तो म॑घवन्दा॒शुषो॑ गृ॒हे सौ॑धन्व॒नेभिः॑ स॒ह म॑त्स्वा॒  ॑
+> नृभिः ॥ ५ ॥
+
+> *iṃdra ṛbhubhirvājavaddhiḥ samukṣitaṃ sutaṃ somamā vṛṣasvyā*  
+> *gabhastoḥ |*  
+> *dhiyeṣito maghavandāśuṣo gṛhe saudhanvanebhiḥ saha matsvā*  
+> *nṛbhiḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ऋभुभिः । वाजवत्भिः । सम्‌उक्षितं । सुतं । सोमं । आ । वृषस्व ।  
+> गभस्तोः ।  
+> धिया । इषितः । मघवन् । दाशुषः । गृहे । सौधन्वनेभिः । सह । मत्स्वा । नृभिः ॥
+
+> *iṃdra | ṛbhubhiḥ | vājavatbhiḥ | samukṣitaṃ | sutaṃ | somaṃ | ā | vṛṣasva |*  
+> *gabhastoḥ |*  
+> *dhiyā | iṣitaḥ | maghavan | dāśuṣaḥ | gṛhe | saudhanvanebhiḥ | saha | matsvā | nṛbhiḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आभिप्लविके पंचमेऽहनि वैश्वदेवशस्त्र इंद्र युभुभिरित्यार्भवस्त्रृचः । सूत्रितं
+> च । धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति तृचौ । आ. ७-७ । इति ॥
+> आद्यस्तृतीयसवने होतुः प्रस्थितयाज्या । सूत्रितं च । इंद्र ऋभुभिर्वाजवद्भिः
+> समुक्षितमिंद्रावरुणा सुतपाविमं सुतं । आ. ५-५ । इति ॥
+> हे इंद्र वाजवद्धिः । वाजो नाम ऋभूणां भ्राता । यद्वा । वाजोऽन्नं
+> तत्सहितैर्युभुभिः सहितस्तं समुक्षितं सम्यगद्भिः सिक्तं ग्रावभिः सुतं सोमं
+> गभस्तोः । बप्पत्यदंत्याभ्यामन्नमिति गृह्णंति पदार्थानाभ्यामिति वा गभस्ती बाहू ।
+> तयोर्बाह्वोरा वृषस्व । आक्षारय । ग्रहमुभाभ्यां बाहुभ्यां गृहीत्वा सोमं
+> पिबेत्यर्थः । हे मघवन् हे इंद्र धिया स्तोत्ररूपेण कर्मणेषितः प्रेरितस्तं
+> दाशुषो हविर्दत्तवतो यजमानस्य गृहे सौधन्वनेभिः सुधन्वनः पुत्रैर्नृभिर्मनुष्यैर्युभुभिः सह साकं मत्त्व । सोमपानेन हृष्टो भव ॥ समुक्षितं । उक्ष
+> सेचने । कर्मणि क्तः । गतिरनंतर इति गतेः स्वरः । नभस्तोः । भस भर्त्सनदीप्योरित्यस्माद्भसेर्गट्टेति सूत्रेण तिप्रत्ययो धातोर्गडागमश्च । यद्वा । गृह्णातेः
+> पृषोदरादित्वादेवं नेयं । मत्त्व । मदि स्तुत्यादिषु । लोटि बहुलं छंदसीति
+> विकरणस्य लुक् । निघातः ॥
+
+##### Gist of the bhāṣya
+
+On the fifth day of the Ābhiplavika, in the Vaiśvadeva-śastra, the three verses beginning इंद्र ऋभुभिः (*iṃdra ṛbhubhiḥ*) form the Ṛbhu tṛca. This is stated in the sūtra: धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति तृचौ (*dhṛtavatī bhuvanānāmabhiśriyeṃdra ṛbhubhirvājavadbhiriti tṛcau*) (Ā. 7-7). The first verse is also the prasthita-yājyā of the hotṛ at the third pressing, as the sūtra says: इंद्र ऋभुभिर्वाजवद्भिः समुक्षितमिंद्रावरुणा सुतपाविमं सुतं (*iṃdra ṛbhubhirvājavadbhiḥ samukṣitamiṃdrāvaruṇā sutapāvimaṃ sutaṃ*) (Ā. 5-5).
+
+O Indra, accompanied by the वाजवद्धिः (*vājavaddhiḥ*) Ṛbhus. Vāja is the name of the brother of the Ṛbhus. Or else vāja is food, and the Ṛbhus are those who have it. Drink the Soma that has been sprinkled with water and pressed with the stones. गभस्तोः (*gabhastoḥ*): the two arms are called गभस्ती (*gabhastī*), either because with them people take (गृह्णंति (*gṛhṇaṃti*)) food after chewing, or because they take hold of objects. आ वृषस्व (*ā vṛṣasva*) means "pour in". The sense is: take the cup with both arms and drink the Soma. O Maghavan, O Indra, urged by the act of praise, rejoice in the house of the sacrificer who has given the oblation, together with the Ṛbhus, the sons of Sudhanvan, the men; become gladdened by drinking Soma. The rest is grammatical, on समुक्षितं (*samukṣitaṃ*), गभस्तोः (*gabhastoḥ*) and मत्त्व (*mattva*).
+
+### Printed p. 502
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजवद्भिः (*vājavadbhiḥ*)—possessed of food
+- ऋभुभिः (*ṛbhubhiḥ*)—together with the Ṛbhus
+- समुक्षितं (*samukṣitaṃ*)—mixed with water
+- सुतं (*sutaṃ*)—pressed with the pressing stones
+- सोमं (*somaṃ*)—the Soma
+- गभस्त्योः (*gabhastyoḥ*)—lifting it with both arms
+- आ वृषस्व (*ā vṛṣasva*)—drink
+- मघवन् (*maghavan*)—O wealthy Indra
+- धिया (*dhiyā*)—by the act in the form of praise
+- इषितः (*iṣitaḥ*)—you who are urged
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहे (*gṛhe*)—in the house
+- सौधन्वनेभिः (*saudhanvanebhiḥ*)—sons of Sudhanvan
+- नृभिः सह (*nṛbhiḥ saha*)—with the Ṛbhus who have the form of men
+- मत्स्य (*matsya*)—drink Soma and become satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, together with the Ṛbhus who are possessed of food, lift with both arms the Soma that has been soaked in water and crushed and pressed with stones, and drink it. O wealthy Indra, urged by the act in the form of praise, drink Soma in the house of the sacrificer who offers the oblation, together with the Ṛbhus, sons of Sudhanvan, who have the form of men, and become satisfied.
+
+##### English translation (H. H. Wilson)
+Indra, along with the food-bestowing Ribhus, accept with both hands the (cup of the) effused Soma libation ; excited Maghavan, by worship, rejoice with the human sons of Sudhanwan in the dwelling of the donor (of the offering).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fifth day of the sacrifice called Abhiplava, when the Vaiśvadeva-śastra mantras are recited, the three verses of this sūkta beginning इंद्र ऋभुभिः (*iṃdra ṛbhubhiḥ*) are to be recited as a tṛca addressed to the Ṛbhus. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति तृचौ (*dhṛtavatī bhuvanānāmabhiśriyeṃdra ṛbhubhirvājavadbhiriti tṛcau*) (Ā. 7-7). And the first verse of this sūkta is to be recited by the hotṛ at the third pressing as the prasthita-yājyā mantra; this is explained by the Āśvalāyana sūtra इंद्र ऋभुभिर्वाजवद्भिः समुक्षितमिंद्रावरुणा सुतपाविमं सुतं (*iṃdra ṛbhubhirvājavadbhiḥ samukṣitamiṃdrāvaruṇā sutapāvimaṃ sutaṃ*) (Ā. 5-5).
+
+The injunction is stated that the present mantra and the one after it are to be recited in the form of the Vaiśvadeva-śastra. In both these mantras Indra is prayed to drink Soma together with the Ṛbhus; they are also in the form of the Ārbhava-pavamāna stotra. How it got the name Ārbhava-pavamāna is explained at length in Ṛ. Saṃ. Part 15, in the account of the third pressing.
+
+### Printed p. 503
+**Special Topics** (continued)
+गभस्तोः (*gabhastoḥ*)—The word गभस्ति (*gabhasti*) is read among the names of rays. In many places it is also used in the sense of "hand". In places where this word occurs, Sāyaṇa himself has explained it in some as "ray" and in some as "hand". For example, in वाचस्पतये पवस्वेति वृष्णोऽग्ंशुभ्यां गभस्ति पूत इति (*vācaspataye pavasveti vṛṣṇo 'gṃśubhyāṃ gabhasti pūta iti*) (Śa. Brā. 4-9-1-9), गभस्तिपूतः (*gabhastipūtaḥ*) is explained as हस्ताभ्यां पूतः (*hastābhyāṃ pūtaḥ*). But when the same sentence occurs in the Taittirīya Saṃhitā, he explains it as "purified by the rays of the sun" (Tai. Saṃ. 1-4-2). Again, in the same Taittirīya Saṃhitā, in the sentence at 6-4-5, गभस्तिना हि एनं पावयति (*gabhastinā hi enaṃ pāvayati*), he explains it as "hand". Although by usage the meaning "ray of the sun" predominates for the word गभस्ति (*gabhasti*), in the Ṛgveda Saṃhitā too it is explained as "hand" in many places.
+
+गभस्तिपूतं भरत श्रुतायेंद्राय सोमं यज्यवो जुहोत । (*gabhastipūtaṃ bharata śrutāyeṃdrāya somaṃ yajyavo juhota |*) (Ṛ. Saṃ. 2-14-8): here गभस्तिपूत (*gabhastipūta*) means "purified by the hands": offer the Soma to Indra. And in गभस्तिपूतो नृभिरद्रिभिः सुतो महे वाजाय धन्याय धन्वसि । (*gabhastipūto nṛbhiradribhiḥ suto mahe vājāya dhanyāya dhanvasi |*) (Ṛ. Saṃ. 9-86-34) also, the meaning "hand" is established. In the present verse Indra is prayed to lift the Soma with both गभस्ति (*gabhasti*), that is, with both arms, and drink it.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ ऋभु॒मान्वाज॑वान्मत् स्ने॒ह नो॒ऽस्मिन्‌त्सव॑ने॒ शच्या॑  
+> पुरुष्टुत ।  
+> इ॒मानि॒ तुभ्यं॒ स्वस॑राणि येमिरे व्र॒ता दे॒वानां॒ मनु॑षश्च॒  ॑
+> धर्मभिः ॥ ६ ॥
+
+> *iṃdra ṛbhumānvājavānmat sneha no 'smintsavane śacyā*  
+> *puruṣṭuta |*  
+> *imāni tubhyaṃ svasarāṇi yemire vratā devānāṃ manuṣaśca*  
+> *dharmabhiḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ऋभुमान् । वाजवान् । मत्स्व । इह । नः । अस्मिन् । सवने । शच्या ।  
+> पुरुस्तुत ।  
+> इमानि । तुभ्यं । स्वसराणि । येमिरे । व्रता । देवानां । मनुष्यः । च । धर्मभिः ॥
+
+> *iṃdra | ṛbhumān | vājavān | matsva | iha | naḥ | asmin | savane | śacyā |*  
+> *purustuta |*  
+> *imāni | tubhyaṃ | svasarāṇi | yemire | vratā | devānāṃ | manuṣyaḥ | ca | dharmabhiḥ ‖*
+
+### Printed p. 504
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुष्टुत बहुभिः स्तुत हे इंद्र ऋभुमान् ऋभुणा तद्वान् वाजवान्
+> वाजेन ऋभोर्भ्रात्रा युक्तः शच्येंद्राण्या कर्मणा वा सहितः सन् नोऽस्माकमिह
+> कर्मण्यस्मिन् तृतीयसवने मत्स्य । हृष्टो भव । हे इंद्र शुभ्यं त्वदर्थमिमानि
+> स्वसराण्यहानि येमिरे । तव सोमपानार्थं त्रिषु सवनेषु नियतान्यासते । किंच
+> देवानामग्न्यादीनां व्रता व्रतानि कर्माणि च मनुषो मनुष्यस्य धर्मभिः कर्मभिः
+> साकं त्वदर्थं नियतान्यासते॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many (पुरुष्टुत (*puruṣṭuta*)), ऋभुमान् (*ṛbhumān*) is one having the Ṛbhu; वाजवान् (*vājavān*) is one joined with Vāja, the brother of Ṛbhu. Accompanied by शच्या (*śacyā*), that is, Indrāṇī or the act, be gladdened at this third pressing of ours in this rite. O Indra, these स्वसराणि (*svasarāṇi*), the days, are fixed (येमिरे (*yemire*)) for you; they remain appointed for your Soma-drinking in the three pressings. Moreover the व्रता (*vratā*), the rites and actions, of the gods Agni and the rest, together with the धर्मभिः (*dharmabhiḥ*), the actions, of man (मनुषः (*manuṣaḥ*)), remain appointed for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—praised by many
+- इंद्र (*iṃdra*)—O Indra
+- ऋभुमान् (*ṛbhumān*)—joined with Ṛbhu
+- वाजवान् (*vājavān*)—joined with Vāja
+- शच्या (*śacyā*)—joined with Indrāṇī
+- नः (*naḥ*)—our
+- इह (*iha*)—in this, a part of the rite
+- अस्मिन् (*asmin*)—in the third pressing
+- मत्स्य (*matsya*)—obtain satisfaction
+- तुभ्यं (*tubhyaṃ*)—for your satisfaction
+- इमानि स्वसराणि (*imāni svasarāṇi*)—these days
+- येमिरे (*yemire*)—move in a fixed course and recur **NOTE**
+- देवानां (*devānāṃ*)—of the other gods
+- व्रता च (*vratā ca*)—the rites also
+- मनुषः (*manuṣaḥ*)—of man
+- धर्मभिः (*dharmabhiḥ*)—together with the actions (are performed for your satisfaction)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many, being joined with Ṛbhu, with Vāja and with Śacī, be satisfied at this third pressing, which is a part of our rite. For your satisfaction these days move in a fixed course and recur. The rites of the other gods too, joined with the actions of man, are performed for your satisfaction.
+
+##### English translation (H. H. Wilson)
+Indra, the praised of many associated with Ribhu, and with Vaja, exult with Shachi, at this our sacrifice: these self-revolving (days) are devoted to you, as well as the ceremonies (addressed) to the gods, and the virtuous acts of man.
+
+##### विशेषविषयगळु (Special Topics)
+
+शच्या—इंद्राण्या कर्मणा वा । (*śacyā—iṃdrāṇyā karmaṇā vā |*) It is explained as "with Indrāṇī or with action". In the Nighaṇṭu the word शची (*śacī*) is read among the names of speech (Ni. 1-11), among the names of actions (Ni. 2-1) and among the names of intelligence (3-9). In general it is used mostly in the sense of action. The meaning "wife of Indra" for the word शची (*śacī*) is not supported in the Ṛgveda—
+
 ---
 
-**Progress note:** Done through printed p. 498. pp. 492-498 (batch API)
+**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
