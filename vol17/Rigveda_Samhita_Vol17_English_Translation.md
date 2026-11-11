@@ -21562,6 +21562,276 @@ O Agni, you who are true (ऋतस्य (*ṛtasya*)): the two horses belongin
 - युजानः (*yujānaḥ*)—you who have yoked to the chariot
 - युष्मान् (*yuṣmān*)—
 
+### Printed p. 706
+- *yuṣmān*—(you,) venerable among you
+- देवान् (*devān*)—the gods
+- विशः (*viśaḥ*)—the people who worship you
+- मर्तान् (*martān*)—human beings
+- अंतः (*aṃtaḥ*)—in between
+- आ (*ā*)—all around
+- ईयसे (*īyase*)—you go to receive and distribute the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I praise the horses that belong to you, whose nature is truth, which travel faster than the mind, which pour forth food and water, and which are of ruddy colour. Having yoked the radiant horses to the chariot, you go about, in between and all around, to receive the oblation and distribute it, among the gods who are venerable among you and the human beings who worship you.
+
+##### English translation (H. H. Wilson)
+I celebrate the ruddy, food-bestowing, water-shedding, and swifter-than-thought-going, steads of him who is the truth : harnessing the brilliant pair (to your chariot), you pass between the deities and human worshippers.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्य॒मणं॒ वरु॑णं मि॒त्रमे॑षा॒मिंद्रा॒विष्णू॑ म॒रुतो॑  ॒॒
+> अ॒श्विनो॒त ।  
+> स्वश्वो॑ अग्ने सु॒रथः॑ सु॒राधा॒ ऐदु॑ वह सुह॒विषे॒ जना॑य ॥४॥
+
+> *aryamaṇaṃ varuṇaṃ mitrameṣāmiṃdrāviṣṇū maruto*  
+> *aśvinota |*  
+> *svaśvo agne surathaḥ surādhā aidu vaha suhaviṣe janāya ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्यमणं । वरुणं । मित्रं । एषां । इंद्राविष्णू इति । मरुतः । अश्विना । उत ।  
+> सुअश्वः । अग्ने । सुरथः । सुराधाः । आ । इत् । ऊं इति । वह । सुहविषे ।  
+> जनाय ॥ ४ ॥
+
+> *aryamaṇaṃ | varuṇaṃ | mitraṃ | eṣāṃ | iṃdrāviṣṇū iti | marutaḥ | aśvinā | uta |*  
+> *suaśvaḥ | agne | surathaḥ | surādhāḥ | ā | it | ūṃ iti | vaha | suhaviṣe |*  
+> *janāya ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्वश्वः शोभनाश्वोपेतः सुरथः शोभनरथः सुराधाः शोभनधनोपेतस्त्वमेषां मर्त्यानां मध्यॆ सुहविषे शोभनहविष्काय जनाय यज-
+
+##### Gist of the bhāṣya
+
+"O Agni, you who are स्वश्वः (*svaśvaḥ*), furnished with good horses, सुरथः (*surathaḥ*), having a good chariot, and सुराधाः (*surādhāḥ*), possessed of good wealth: among these mortals, for the man, the sacrificer, who has good oblations, bring Aryaman and the others, and also the Aśvins, the gods who are to be worshipped…" (the sentence continues in the next block).
+
+### Printed p. 707
+
+> मानायार्यमादीनुतापि चाश्विन् यष्टव्यान्देवाना वहेदु । आह्वयैव । उः
+> पूरणः ॥ इंद्राविष्णु । ऋज्रेंद्रेत्यादिना निपातनादिंद्रशब्द आद्युदात्तः । देवताद्वंद्व चेत्युभयपदप्रकृतिस्वरत्वं। सुहविषे । नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं॥
+
+##### Gist of the bhāṣya
+
+The sentence is completed: वहेदु (*vahedu*) means "call and bring"; उः (*uḥ*) is a filler particle. The rest of the block gives the accent of इंद्राविष्णू (*iṃdrāviṣṇū*) and सुहविषे (*suhaviṣe*), which is grammar.
+**Pratipadartha**
+- अग्ने (*agne*)—O Agni
+- स्वश्वः (*svaśvaḥ*)—you who are furnished with an excellent horse
+- सुरथः (*surathaḥ*)—having an excellent chariot
+- सुराधाः (*surādhāḥ*)—possessing excellent wealth, you
+- एषां (*eṣāṃ*)—among these human beings
+- सुहविषे (*suhaviṣe*)—for the sacrificer who has an excellent oblation
+- जनाय (*janāya*)—for the man
+- अरमणं (*aramaṇaṃ*)—the god Aryaman **NOTE**
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मित्रं (*mitraṃ*)—Mitra
+- इंद्राविष्णु (*iṃdrāviṣṇu*)—Indra and Viṣṇu
+- मरुतः (*marutaḥ*)—the Maruts
+- अश्विना (*aśvinā*)—the Aśvin deities
+- आ वह इत् (*ā vaha it*)—surely bring them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are furnished with an excellent horse, have an excellent chariot and possess excellent wealth: among these human beings, bring for the sacrificer who has an excellent oblation Aryaman, Varuṇa, Mitra, Indra and Viṣṇu, the Maruts and the deities called Aśvins. **NOTE**
+
+##### English translation (H. H. Wilson)
+Possessed, Agni, of good steeds, an excellent car, and abundant wealth do you, amidst these (worshippers) bring to the man who offers worthy oblations, Aryaman, Varuna, Mitra, Vishnu, the Maruts, or the Ashwins,
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोमा॑ अ॒ग्नेऽपि॑मा अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑ प्र  ॒
+> मृष्यः ।  
+> इळा॑वा ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिः पृ॑थुबु॒ध्नः  ॒॑
+> सभावान् ॥ ५ ॥
+
+> *gomā agne 'pimā aśvī yajño nṛvatsakhā sadamida pra*  
+> *mṛṣyaḥ |*  
+> *iḷāvā eṣo asura prajāvāndīrgho rayiḥ pṛthubudhnaḥ*  
+> *sabhāvān ‖ 5 ‖*
+
+### Printed p. 708
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमान् । अग्ने । अविऽमान् । आश्वी । यज्ञः । नृवत्ऽसखा । सदं । इत् । अप्रऽमृष्यः ।  
+> इळावान् । एषः । असुर । प्रजावान् । दीर्घः । रयिः । पृथुबुध्नः । सभावान् ॥
+
+> *go 'mān | agne | avi 'mān | āśvī | yajñaḥ | nṛvat 'sakhā | sadaṃ | it | apra 'mṛṣyaḥ |*  
+> *iḷāvān | eṣaḥ | asura | prajāvān | dīrghaḥ | rayiḥ | pṛthubudhnaḥ | sabhāvān ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुर बलवन्ने अग्ने एष मदीयोऽयं यज्ञो गोमान् गोभिस्तद्वानविमान् । अवयो मेषा अस्य संति तद्वान् अश्वश्वोपेतश्चास्तु । नृवत्सखा ।
+> नरः कर्मणां नेतारोऽध्वय्यादयस्तद्वंतः सखायोऽनुष्ठातारो यजमाना
+> यस्य स तथोक्तः । सदमित्सदैवाप्रमृष्योऽप्रधृश्यश्चास्तु । तथेळावान् । इळा
+> हनिर्लक्षणमन्नं तद्वान् । प्रजावान्पुत्रपौत्रादियुक्तश्चास्तु । दीर्घोऽविच्छिन्नानुष्ठानोपेतो रयिर्धनवान् । लुप्तमत्वर्तियः । पृथुबुद्धः । पृथूनि बहुलानि बुध्यानि धनादीनि कारणानि यस्य स तथोक्तः । सभावानुपद्रष्टरूपसभायुक्तश्चास्तु ॥ नृवत्सखा । नरो येषां संतीति नृवत् । मतुप् । तस्य छांदसं वत्वं।
+> ह्रस्वनुड्छ्यां मतुबिति मतुप उदात्तत्वं । बहुव्रीहौ पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O mighty Agni, this sacrifice of mine: let it be गोमान् (*gomān*), possessed of cows; अविमान् (*avimān*), possessed of *avayaḥ*, that is, rams (मेषा (*meṣā*)); and let it be furnished with horses. नृवत्सखा (*nṛvatsakhā*): the नरः (*naraḥ*) are the leaders of the rites, the adhvaryu and the others; those who have them as friends are the performers, the sacrificers; one whose sacrifice is such is so called. May it always be अप्रमृष्यः (*apramṛṣyaḥ*), not to be assailed. And इळावान् (*iḷāvān*): इळा (*iḷā*) is food in the form of the oblation, and it possesses that; प्रजावान् (*prajāvān*): let it be endowed with sons, grandsons and so on. दीर्घः (*dīrghaḥ*): attended by uninterrupted performance. रयिः (*rayiḥ*): wealthy. पृथुबुद्धः (*pṛthubuddhaḥ*): that of which the causes, wealth and the rest, are many and abundant. सभावान् (*sabhāvān*): let it be furnished with an assembly of onlookers." The rest is grammar (नृवत्सखा (*nṛvatsakhā*), the suffix, accents). **NOTE**
+**Pratipadartha**
+- असुर (*asura*)—O powerful one
+- अग्ने (*agne*)—O Agni
+- एषः (*eṣaḥ*)—this sacrifice now being performed
+- यज्ञः (*yajñaḥ*)—sacrifice
+- गोमान् (*gomān*)—may it be possessed of cows
+- अविमान् (*avimān*)—possessed of goats
+- अश्वी (*aśvī*)—and furnished with horses
+- नृसखा (*nṛsakhā*)—this sacrifice, joined with excellent sacrificers
+- सदमित् (*sadamit*)—always
+- अप्रमृष्यः (*apramṛṣyaḥ*)—may it be unharmed
+- इळावान् (*iḷāvān*)—endowed with food
+- प्रजावान् (*prajāvān*)—joined with sons, grandsons and so on
+- दीर्घः (*dīrghaḥ*)—continuing without interruption
+- रयिः (*rayiḥ*)—endowed with wealth
+- पृथुबुध्नः (*pṛthubudhnaḥ*)—having extensive basic wealth
+- सभावान् (*sabhāvān*)—may it have an excellent assembly
+
+##### भावार्थ (Bhāvārtha)
+
+O powerful Agni, may the sacrifice now being performed be possessed of cows, of goats and of horses. May this sacrifice, joined with excellent sacrificers, be always unharmed, endowed with food, joined with sons, grandsons and so on, continuing without obstruction, endowed with wealth, having extensive basic wealth, and attended by an excellent assembly.
+
+### Printed p. 709
+
+##### English translation (H. H. Wilson)
+May the sacrifice, Agni, be productive of cows, of sheep, of horses, and celebrated, by your worshipper, aided by the priests,be ever uninterrupted; may it, mighty Agni, be productive of food and progeny, long continued, affluent, wide based, and held in full assembly.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त॑ इ॒द्धं ज॒भर॑त्सिष्टिदा॒नो मू॒र्धानं॑ वा त॒तप॑ते त्वा॒या।  
+> भुव॒स्तस्य॒ स्वत॑वाः पा॒युर॑ग्ने॒ विश्व॑स्मात्सीमघाय॒त  ॑
+> उरुष्य ॥ ६ ॥
+
+> *yasta iddhaṃ jabharatsiṣṭidāno mūrdhānaṃ vā tatapate tvāyā|*  
+> *bhuvastasya svatavāḥ pāyuragne viśvasmātsīmaghāyata*  
+> *uruṣya ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । इध्मं । जभरत् । सिस्विदानः । मूर्धानं । वा । ततपते । त्वाया ।  
+> भुवः । तस्य । स्वतवान् । पायुः । अग्ने । विश्वस्मात् । सीम् । अघयतः । उरुष्य॥
+
+> *yaḥ | te | idhmaṃ | jabharat | sisvidānaḥ | mūrdhānaṃ | vā | tatapate | tvāyā |*  
+> *bhuvaḥ | tasya | svatavān | pāyuḥ | agne | viśvasmāt | sīm | aghayataḥ | uruṣya‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वदर्थं यः पुमान् सिष्टिदानः सिस्विदानः स्विद्यद्गात्रः सन् इध्मं
+> त्वत्समिंधनार्थं काष्ठभारं जभरत् । आहरति । यो वा त्वाया त्वत्कामनया
+> मूर्धानं स्वमस्तकं ततपते काष्ठभारेण तापयति तस्य तादृशस्य पुंसः स्वतवान् ।
+> स्वतवान्थनवानिति तलवकार उक्तं । धनवान् भुवः । भवसि । पायुः पालयितासि ।
+> सीमेनं विश्वस्मादघायतोऽघं पापमिच्छतः पुरुषादुरुष्य । रक्ष॥ जभरत्। हरतेर्लुजि चजु रूपं । चज्यन्यतरस्यामिति चज्‌पूर्वस्कोदात्तत्वं । सिस्विदानः । इष्टिदा
+> गात्रक्षरणे । कानचि रूपं । संहितायामादेशप्रत्यययोरिति धातुसकारस्य षत्वं ।
+> त्वाया । त्वामात्मन इच्छतीत्यर्थे क्यच् । प्रत्ययोत्तरपदयोश्चेति मपर्यंतस्य
+> त्वादेशः । दकारस्य छांदसमात्वं । क्यजंताद्दातोर्भावे आ प्रत्ययादित्यकारप्रत्ययः । सुपां सुलुगिति तृतीयाया आकारः । एकादेशस्वरः । भुवः । भवतेर्लेट्यडागमे रूपं ' भूसुवोस्ति जीति गुणप्रतिषेधः । आगमस्यानुदात्तत्वे धातु-
+
+##### Gist of the bhāṣya
+
+"O Agni, the man who, for you, being सिष्टिदानः (*siṣṭidānaḥ*) (सिस्विदानः (*sisvidānaḥ*)), his body dripping with sweat, brings (जभरत् (*jabharat*)) a load of wood for your kindling; or who, from desire for you (त्वाया (*tvāyā*)), heats his own head (मूर्धानं (*mūrdhānaṃ*)) with the load of wood: of such a man you become स्वतवान् (*svatavān*) (it is said that स्वतवान् (*svatavān*) means wealthy); you are पायुः (*pāyuḥ*), the protector. Protect (उरुष्य (*uruṣya*)) him from every man who desires harm, that is, evil." The rest of the block is grammar (जभरत् (*jabharat*), सिस्विदानः (*sisvidānaḥ*), त्वाया (*tvāyā*), भुवः (*bhuvaḥ*) and so on).
+
+### Printed p. 710
+
+> स्वरः । स्वतनाः पायुरित्यत्र संहितायां स्वतवान्पायौ । पा. ८-३-११ । इति नकारस्य
+> रुत्वं । अत्रानुनासिकः पूर्वस्य तु वेत्याकारोऽनुनासिकः । रेफस्य विसर्जनीयः ।
+> कुप्रोः कः पौ चेतिः स इत्यादेशः । अघायतः । अघमात्मन इच्छतीत्यर्थे
+> सुपः क्यच् । अश्वाघस्यादित्यात्वं । तदंताच्चतृप्रत्ययः शतुरनुम इति विभक्तेरुदात्तत्वं । उरुष्य । उरुशब्दः कंड्वादिः । लोटि रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+The block continues the grammar of स्वतवान्पायुः (*svatavānpāyuḥ*), अघायतः (*aghāyataḥ*) and उरुष्य (*uruṣya*).
+**Pratipadartha**
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—for your worship
+- यः (*yaḥ*)—the man who
+- सिष्टिदानः (*siṣṭidānaḥ*)—pouring out sweat
+- इध्मं (*idhmaṃ*)—sacrificial fuel
+- जभरत् (*jabharat*)—brings
+- ना (*nā*)—or whoever
+- त्वाया (*tvāyā*)—looking for your favour
+- मूर्धानं (*mūrdhānaṃ*)—his own head
+- ततपते (*tatapate*)—burdens, carrying wood
+- तस्य (*tasya*)—for the benefit of such a man
+- स्वतवान् (*svatavān*)—wealthy
+- भुवः (*bhuvaḥ*)—you become
+- पायुः (*pāyuḥ*)—you become his protector
+- सीं (*sīṃ*)—that man
+- विश्वस्मात् (*viśvasmāt*)—from all
+- अघायतः (*aghāyataḥ*)—sinners
+- उरुष्य (*uruṣya*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the benefit of the man who, for your worship, brings sacrificial fuel while pouring out sweat and burdening his head, be wealthy, and, being his protector, protect him from all sinners who wish him harm.
+
+##### English translation (H. H. Wilson)
+You are the munificent recompenser of that man who, sweating (with toil), brings you fuel, and for your service causes his head to ache: protcet him, Agni, from every one that seeks to do him evil.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ भरा॒दन्नि॑युते चि॒दन्नं॑ नि॒शिष॑न्मं॒द्रमति॑थिमु॒दीर॑त् ।  
+> आ दे॑व॒युरि॒नध॑ते दुरॊ॒णे तस्मि॑न्र॒यिद्र्रु॒वो अ॑स्तु॒  
+> दास्वा॑न् ॥ ७ ॥
+
+> *yaste bharādanniyute cidannaṃ niśiṣanmaṃdramatithimudīrat |*  
+> *ā devayurinadhate duròṇe tasminrayidrruvo astu*  
+> *dāsvān ‖ 7 ‖*
+
+### Printed p. 711
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । भरात् । अन्नियते । चित् । अन्नं । निशिषत् । मंद्रं । अतिथिं । उत्ईरत् ।  
+> आ । देवयुः । इनधते । दुरोणे । तस्मिन् । रयिः । ध्रुवः । अस्तु । दास्वान् ॥ ७ ॥
+
+> *yaḥ | te | bharāt | anniyate | cit | annaṃ | niśiṣat | maṃdraṃ | atithiṃ | utīrat |*  
+> *ā | devayuḥ | inadhate | duroṇe | tasmin | rayiḥ | dhruvaḥ | astu | dāsvān ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यः पुमानन्नियतेऽन्नमिच्छते ते तुभ्यं हविर्लक्षणं पुरोडाशादिकमन्नं भरात् दातुं बिभृयात् । चिदिति चार्थे । यश्च मंद्रं मदकरं
+> सोमं निशिषत् नितरां प्रयच्छति । यश्चातिथिमतिथिवत्तूज्यं त्वामुदीरत् उत्तरवेद्यां प्रणयति । आ अपि च यश्च देवयुर्देवं त्वां कामयमानो दुरोणे
+> स्वकीये गृह इनधते त्वां समिद्धिः समिंधते तस्मिन्नेतस्मिन्पुरुषे रयिः पुत्रो ध्रुव
+> आस्तिक्यबुद्धा वैदिके मार्गे निश्चलोऽस्तु । तथा दास्वानौदार्योपेतश्चास्तु ॥
+> भरात् । डुभृञ् धारणपोषणयोरित्यस्य लेट्याडागमे रूपं। यद्वृत्तयोगादनिघातः । अन्नियते । अन्नमात्मन इच्छते । क्यच् । क्चचि चेतीत्वं । ह्रस्वश्कांदसः ।
+> निशिषत् । शासु अनुशिष्टौ । लुजु सर्तिशास्त्रर्तिभ्यश्चेति जेरजादेशः । शास इदङ्हलोरितीत्वं । उदीरत् । ईर गतौ । लेटि व्यत्ययेन परस्मैपदं । अडागमः ।
+> आगमस्यानुदात्तत्वे धातुस्वरः । तिजु चोदात्तवतीति गतेर्निघातः । इनधते ।
+> इइंधी दीप्तौ । लटि व्यत्ययेन शप् । रुधादित्वात् श्नम् । श्नान्नलोप इति धातुनकारलोपः क्चित्परत्वाभावात् श्नसोरल्लोपाभावः । यद्वृत्तयोगादनिघातः ।
+> श्नमः स्वरः । दास्वान् । दास्य दाने । संपदादिलक्षणो भावे क्विप् । तदस्यास्तीति
+> मतुप् । मादुपधाया इति वत्वं । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the man who, to you who desire food (अन्नियते (*anniyate*)), would bring (भरात् (*bharāt*)), that is, would carry in order to give, food in the form of the oblation, the puroḍāśa and the rest; चित् (*cit*) is in the sense of 'and'. And he who offers (निशिषत् (*niśiṣat*)) continually the exhilarating Soma; and who brings forth (उदीरत् (*udīrat*)) on the uttaravedi you, to be honoured like a guest; and, moreover, who, desiring you, the god (देवयुः (*devayuḥ*)), kindles you with fuel in his own house (दुरोणे (*duroṇe*)): in that man let रयिः (*rayiḥ*), the son, be ध्रुवः (*dhruvaḥ*), firm on the Vedic path through belief; and let him be दास्वान् (*dāsvān*), endowed with generosity." The rest of the block is grammar (भरात् (*bharāt*), अन्नियते (*anniyate*), निशिषत् (*niśiṣat*), उदीरत् (*udīrat*), इनधते (*inadhate*), दास्वान् (*dāsvān*)).
+**Pratipadartha**
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the sacrificer who
+- अन्नि यते (*anni yate*)—to you who desire food in the form of the oblation
+- ते (*te*)—to you
+- अन्नं (*annaṃ*)—food such as the puroḍāśa
+- भरात् (*bharāt*)—offers
+- चित् (*cit*)—and
+- मंद्रं (*maṃdraṃ*)—agreeable Soma
+- निशिषत् (*niśiṣat*)—offers (the one who)
+- अतिथिं (*atithiṃ*)—you, the venerable one
+- उदीरत् (*udīrat*)—establishes on the uttaravedi
+- आ (*ā*)—and
+- देवयुः (*devayuḥ*)—looking for the favour of you, who are divine
+- दुरोणे (*duroṇe*)—in his own sacrificial house
+- इनधते (*inadhate*)—causes you to blaze
+- तस्मिन् (*tasmin*)—of such a man
+- रयिः (*rayiḥ*)—the son
+- ध्रुवः अस्तु (*dhruvaḥ astu*)—let him be a firm believer
+- दास्वान् (*dāsvān*)—let him be a generous giver
+
 ---
 
-**Progress note:** Done through printed p. 705. pp. 700-705 (batch API)
+**Progress note:** Done through printed p. 711. pp. 706-711 (batch API)
