@@ -17902,6 +17902,154 @@ Further, for all the 114 sūktas in the ninth maṇḍala of the Ṛgveda, Soma,
 तस्मै सरस्वती दुहे क्षीरं सर्पिर्मधूदकं । (*tasmai sarasvatī duhe kṣīraṃ sarpirmadhūdakaṃ |*)
 (Ṛ. Saṃ. 9-67-31, 32)
 
+### Printed p. 555
+That is, whatever man studies (recites) these Pāvamānī sūktas, composed of ṛks in the Gāyatrī metre, obtains all his desired objects and prospers. The goddess Sarasvatī fulfils all his desires and also pours out milk, ghee, honey, water and every kind of abundance for him. All this is the greatness of the Gāyatrī mantra as stated in the Vedas. The precedence it has in the matter of the meaning of the Gāyatrī mantra now under discussion, and similar matters, are explained in the Special Topics of this ṛk.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गॊ॑ दे॒वस्य॑ धीमहि ।  
+> धियो॒ यो नः॑ प्रचो॒दया॑त् ॥ १० ॥
+
+> *tatsaviturvareṇyaṃ bhargò devasya dhīmahi |*  
+> *dhiyo yo naḥ pracodayāt ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सवितुः । वरेण्यं । भर्गः । देवस्य । धीमहि ।  
+> धियः । यः । नः । प्रचोदयात् ॥ १० ॥
+
+> *tat | savituḥ | vareṇyaṃ | bhargaḥ | devasya | dhīmahi |*  
+> *dhiyaḥ | yaḥ | naḥ | pracodayāt ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रस्य षष्ठेऽहनि वैश्वदेवशस्त्रे तत्सवितुरिति द्वे ऋचौ प्रतिपत्तृचस्य
+> द्वितीयातृतीये । सूत्रितं च । तत्सवितुर्वरेण्यमिति द्वे दोषो आगात् । आ. ८-१ ।
+> इति ॥ अभिप्लवपृष्ठ्यषडहयोर्द्वितीयेऽहनि वैस्वदेवशस्त्रे प्रतिपत्तृचस्यैते एव
+> प्रथमाद्वितीये । सूत्रितं च । तत्सवितुर्वरेण्यमिति द्वे आविश्वदेवं । आ. ७-६ । इति ॥
+> यः सविता देवो नोऽस्माकं धियः कर्माणि धर्मादिविषया वा बुद्दीः
+> प्रचोदयात् प्रेरयेत् तत्तस्य देवस्य सवितुः सर्वांतर्यामितया प्रेरकस्य
+> जगत्सष्टुः परमेश्वरस्य वरेण्यं सर्वैरुपास्यतया ज्ञेयतया च संभजनीयं
+> भर्गोऽविद्यातत्कार्ययोर्भजनाद्भर्गः स्वयंज्योतिः परब्रह्मात्मकं तेजो
+> धीमहि । वयं ध्यायामः । यद्वा । तदिति भर्गोविशेषणं । सवितुर्देवस्य तत्तादृशं भर्गो धीमहि । किं तदित्यपेक्षायामाह । य इति लिंगव्यत्ययः । यद्भर्गो
+> धियः प्रचोदयात् । तद्धायेमेति समन्वयः । यद्वा । यः सविता सूरो
+> धियः कर्माणि प्रचोदयात् प्रेरयति तस्य सवितुः सर्वस्य प्रसवितुर्देवस्य द्योत-
+
+##### Gist of the bhāṣya
+
+Use: on the sixth day of the Daśarātra, in the Vaiśvadeva-śastra, the two ṛks beginning तत्सवितुः (*tatsavituḥ*) are the second and third ṛks of the Pratipat tṛca. It is laid down in the sūtra तत्सवितुर्वरेण्यमिति द्वे दोषो आगात् (*tatsaviturvareṇyamiti dve doṣo āgāt*) (Ā. Sū. 8-1). On the second day of the Abhiplava and Pṛṣṭhya ṣaḍahas, in the Vaiśvadeva-śastra, these same two are the first and second ṛks of the Pratipat tṛca. It is laid down: तत्सवितुर्वरेण्यमिति द्वे आविश्वदेवं (*tatsaviturvareṇyamiti dve āviśvadevaṃ*) (Ā. Sū. 7-6).
+
+Meaning: the god Savitṛ who may impel (प्रचोदयात् (*pracodayāt*)) our धियः (*dhiyaḥ*), our rites, or our thoughts concerned with dharma and the like: of that god Savitṛ, the impeller as inner controller of all, the creator of the world, Parameśvara, we meditate on the वरेण्यं (*vareṇyaṃ*), which is to be resorted to by all as the object of worship and of knowledge, the भर्गः (*bhargaḥ*). It is called bhargas because it consumes (bhajana) ignorance and its effects; it is self-luminous light, of the nature of the Supreme Brahman. धीमहि (*dhīmahi*) means "we meditate".
+
+Or else: तत् (*tat*) is an adjective of भर्गः (*bhargaḥ*): of the god Savitṛ we meditate on that bhargas of such a kind. If it is asked "what is that?", he answers: यः (*yaḥ*) here is a change of gender; the bhargas which may impel our thoughts; the construction is "may we meditate on that". Or else: the Savitṛ who is the sun impels धियः (*dhiyaḥ*), rites; of that Savitṛ, the god who gives birth to all, the shining sun (the sentence continues on the next page)
+### Printed p. 556
+
+> मानस्य सूरस्य तत्सर्वद्र्दृश्यमानतॆया प्रसिद्धं वरेण्यं सर्वैः संभजनीयं भर्गः
+> पापानां तापकं तेजोमंडलं धीमहि । धैयतया मनसा धारयेम । यद्वा ।
+> भर्गःशब्देनान्नमभिधीयते । यः सविता देवो धियः प्रचोदयति तस्य प्रसादाद्भर्गोऽन्नादिलक्षणं फलं धीमहि । धारयामः । तस्याधारभूता भवेमेत्यर्थः ।
+> भर्गःशब्द स्यान्नपरत्वे धीशब्दस्य कर्मपरत्वे चाथर्वणं । वेदांश्चंदांसि सवितुर्वरेण्यं भर्गॊ देवस्य कवयोऽन्नमाहुः कर्माणि धियस्तदु ते प्रब्रवीमि प्रचोदयंत्सविता याभिरेतीति । गो. ब्रा. १-३२ ॥ भर्गः । भ्रष्ट पाके । असुन् । भ्रस्टो
+> रोपधयो रमन्यतरस्यां । पा. ६-४-४७ । इति रोपधयोर्लोपो रमागमः ।
+> न्यंक्वादिपाठात् कुत्वं । धीमहि । ध्यायतेर्लिजि बहुलं छंदसीति संप्रसारणं ।
+> व्यत्ययेनात्मनेपदं । यद्वा । धीज् आधारे । लिजि बहुलं छंदसीति विकरणस्य
+> लुक् । प्रचोदयात् । चोदयतेर्लेट्याडागमः । यद्वृत्तयोगादनिघातः ।
+> आगमस्यानुदात्तत्वे णिचः स्वरः ॥
+
+##### Gist of the bhāṣya
+
+(continuing) … of that sun, the visible, universally known, desirable bhargas, the orb of light that burns up sins, we hold in the mind as the object of meditation.
+
+Or else: the word भर्गः (*bhargaḥ*) denotes food. Through the grace of the god Savitṛ who impels thoughts, we take up (धीमहि (*dhīmahi*), we hold) the fruit characterised by food and the like; that is, may we become its support. For भर्गः (*bhargaḥ*) in the sense of food and धी (*dhī*) in the sense of rites, the Atharvaṇa text is cited: वेदांश्चंदांसि सवितुर्वरेण्यं भर्गॊ देवस्य कवयोऽन्नमाहुः कर्माणि धियस्तदु ते प्रब्रवीमि प्रचोदयंत्सविता याभिरेतीति । (*vedāṃścaṃdāṃsi saviturvareṇyaṃ bhargò devasya kavayo 'nnamāhuḥ karmāṇi dhiyastadu te prabravīmi pracodayaṃtsavitā yābhiretīti |*) (Go. Brā. 1-32)**NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- नः (*naḥ*)—to us
+- धियः (*dhiyaḥ*)—the intelligence concerned with rites
+- प्रचोदयात् (*pracodayāt*)—impels
+- तत् (*tat*)—such
+- देवस्य (*devasya*)—of the god, of divine nature
+- सवितुः (*savituḥ*)—of Savitṛ
+- वरेण्यं (*vareṇyaṃ*)—to be worshipped by all
+- भर्गः (*bhargaḥ*)—the light
+- धीमहि (*dhīmahi*)—we meditate on
+
+##### भावार्थ (Bhāvārtha)
+
+We meditate on the light, worshipped by the whole world, of such a Savitṛ, the god of divine nature, who impels in us the intelligence concerned with rites.
+
+##### English translation (H. H. Wilson)
+We meditate on that desirable light of the divine Savitri, who influences our pious rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice called Daśarātra, while the Vaiśvadeva-śastra mantras are recited, this ṛk तत्सवितुः (*tatsavituḥ*) and the next ṛk देवस्य सवितुः (*devasya savituḥ*) are to be recited as the second and third ṛks of the Pratipat tṛca (a tṛca is a group of three ṛks). This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तत्सवितुर्वरेण्यमिति द्वे दोषो आगात् (*tatsaviturvareṇyamiti dve doṣo āgāt*) (Ā. 8-1).
+
+And on the second day of the sacrifices called Abhiplava, Pṛṣṭhya and Ṣaḍaha, while the Vaiśvadeva-śastra mantras are recited, these two ṛks are to be recited as the first and second ṛks of the Pratipat tṛca. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तत्सवितुर्वरेण्यमिति द्वे आ विश्वदेवं (*tatsaviturvareṇyamiti dve ā viśvadevaṃ*) (Ā. 7-6).
+### Printed p. 557
+1) Sāyaṇa's explanation of the purport of the mantra तत्सवितुः (*tatsavituḥ*).
+
+Sāyaṇa has shown that two kinds of meaning are possible for the word सवितृ (*savitṛ*) in this ṛk, and in accordance with it he has also explained the word भर्ग (*bharga*).
+
+First, सवितृ (*savitṛ*) means Parameśvara, the inner controller of all, the impeller of the world, the creator of the world. The meaning of the word भर्ग (*bharga*) is the radiance that is of the nature of the Supreme Brahman. Because it destroys ignorance and the evil deeds that result from it, this radiance is well known by the apt name भर्ग (*bharga*). Because it is to be worshipped and revered by all, it has the adjective वरेण्यं (*vareṇyaṃ*). The word धी (*dhī*) means intellect. The purport is: let us meditate on this radiance, of the nature of the Supreme Brahman, which destroys ignorance, and may Savitṛ impel us to meditate in that way.
+
+Second, सवितृ (*savitṛ*) means the sun, famous in the world. The word धी (*dhī*) means rites in worship of the sun. भर्ग (*bharga*) means the orb of light of Āditya, which destroys sin. The prayer is: may Savitṛ, the sun, impel us, who meditate on such an orb of light, to be devoted to rites.
+
+Further, if on the authority of the Brāhmaṇa sentence वेदाश्चंदांसि तत्सवितुर्वरेण्यं भर्गॊ देवस्य कवयोऽन्नमाहुः (*vedāścaṃdāṃsi tatsaviturvareṇyaṃ bhargò devasya kavayo 'nnamāhuḥ*) (Go. Brā. 1-3-2)**NOTE** the word भर्ग (*bharga*) is taken to mean food, the purport becomes: by the grace of that Savitṛ who impels our intellect to be devoted to good rites, let us obtain fruit in the form of food and the like. If the meaning of the word *sava�tṛ* is shown to differ in this way, does the doctrine (tattva) then differ? Is a difference in the nature of the deity worshipped being stated? Do the words सवितृ (*savitṛ*), सूर (*sūra*), आदित्य (*āditya*), परब्रह्म (*parabrahma*) show different forms of one and the same principle, or do they show differences of principle as well? Such an inquiry is quite necessary in the present context.
+
+2) Since the deity Savitṛ conveys the principle, the Gāyatrī is what the word सावित्रि (*sāvitri*) denotes.
+
+तत्सवितुर्वरेण्यं (*tatsaviturvareṇyaṃ*) is the great Gāyatrī mantra, famous in the world. It has Savitṛ as its deity; for that very reason it is also well known by the name सावित्रि (*sāvitri*). The Upaniṣad mantra गायत्रि मेव सावित्रीमनुब्रूयात् (*gāyatri meva sāvitrīmanubrūyāt*) teaches this identity (Bṛ. U. 5-14-5). The word सवितृ (*savitṛ*) means the Supreme Brahman; that the Supreme Brahman is the deity worshipped in this mantra is the (sentence continues on the next page)
+### Printed p. 558
+purport of the Upaniṣads. But since there is also room for objections, such as the pūrvapakṣa छंदोऽभिधानान्न (*chaṃdo 'bhidhānānna*) (Bra. Sū. 1-1-25), which state a meaning contrary to this purport and deny that the Supreme Brahman is the deity worshipped in this mantra, the meaning of this mantra must be examined thoroughly and its profound purport found out. This determination of the purport rests on the meaning of the word सवितृ (*savitṛ*).
+
+3) The nature of Savitṛ as expressing the one principle.
+
+It is the view of some among modern scholars that words such as सूर (*sūra*), सवितृ (*savitṛ*), आदित्य (*āditya*) show, in the Ṛk-saṃhitā, the diversity and the distinct kinds of deities.
+
+"Savitri is comparatively a younger member of the Vedic Pantheon; this fact is simply corroborated by the very name of that God. The genesis of सवितृ (*savitṛ*) indicates cleanly a very last phase in the evolution of Vedic religious thought. The earlier and more important Gods of the Rig-Veda like वरुण (*varuṇa*), मित्र (*mitra*) and इंद्र (*iṃdra*) are mainly the personification of natural phenomena."
+
+In this and similar ways Western scholars such as Oldenberg have expressed their opinion. The meaning is that deities such as Varuṇa, Indra and Mitra are ancient and Savitṛ is a more recent deity. That is, the conception of Savitṛ as a deity came to the ṛṣis who composed the Ṛk-saṃhitā only after a long time; the conception of this deity did not exist at first. The purport is that, having grasped the profundity of the variety of creation, they afterwards developed the conception of a special deity named Savitṛ in order to reflect that principle. Their view is that in this way a difference of name indicates a difference of deity. But careful examination shows that this is not quite the right opinion.
+
+एक एनाग्निर्बहुधा समिद्ध एकः सूरो विश्वमनु प्रभूतः । एकैवोषाः सर्वमिदं वि भात्येकं वा इदं वि बभूव सर्वं ॥ (*eka enāgnirbahudhā samiddha ekaḥ sūro viśvamanu prabhūtaḥ | ekaivoṣāḥ sarvamidaṃ vi bhātyekaṃ vā idaṃ vi babhūva sarvaṃ ‖*) (Ṛ. Saṃ. 8-58-2).
+
+As this mantra states clearly, the idea that one principle, which impels and nourishes all the affairs of the universe, pervades the universe is indicated, clearly and subtly, in many places in the Ṛk-saṃhitā.
+
+यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा । तत्तदेवावगच्छ त्वं मम तेजोऽंशसंभवं ॥ (*yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā | tattadevāvagaccha tvaṃ mama tejo 'ṃśasaṃbhavaṃ ‖*) (Bha. Gī. 10-41)**NOTE**
+### Printed p. 559
+Just as is said in this sentence of the Gītā, the Nirukta authors too have thus stated the nature of the groups of deities described in Vedic literature, and the highest principle that is the source of all deities:
+
+महाभाग्याद्देवताया एक आत्मा बहुधा स्तूयते । .... .... एकस्य आत्मनः अन्ये देवाः प्रत्यंगानि भवंति ॥ (*mahābhāgyāddevatāyā eka ātmā bahudhā stūyate | .... .... ekasya ātmanaḥ anye devāḥ pratyaṃgāni bhavaṃti ‖*) (Ni. 7-4).
+
+The principle that is the source of all deities is one only. But the infinite qualities of that principle are manifested in infinite forms, and all the diversities are only distinctions of the manifold glory of this principle. The Vedic sentence एकं सद्विप्रा बहुधा वदंति (*ekaṃ sadviprā bahudhā vadaṃti*) (1-164-46) also conveys this same point. तत्तत् स्थानविभागेन तत्र तत्रेह दृश्यते (*tattat sthānavibhāgena tatra tatreha dṛśyate*) (Bṛ. De. 1-70): the place and the nature of the action of each indicate the quality of that deity, but the original principle is one.
+
+यो नः पिता जनिता यो विधाता धामानि वेद भुवनानि विश्वा । यो देवानां नामधा एक एव तं संप्रश्नं भुवना यंत्यन्या ॥ (*yo naḥ pitā janitā yo vidhātā dhāmāni veda bhuvanāni viśvā | yo devānāṃ nāmadhā eka eva taṃ saṃpraśnaṃ bhuvanā yaṃtyanyā ‖*) (Ṛ. Saṃ. 10-82-3).
+
+Viśvakarman alone, the producer of the whole world, created the many kinds of deities such as Indra and pervaded the whole universe. Because he is the producer of everything, he has also obtained the name Savitṛ. And Prajāpati, the creator, is described as Savitṛ and as Tvaṣṭṛ:
+
+देवस्त्वष्टा सविता विश्वरूपः पुपोष प्रजाः पुरुधा जजान । इमा च विश्वा भुवनान्यस्य महद्देवानामसुरत्वमेकं ॥ (*devastvaṣṭā savitā viśvarūpaḥ pupoṣa prajāḥ purudhā jajāna | imā ca viśvā bhuvanānyasya mahaddevānāmasuratvamekaṃ ‖*) (Mu. Saṃ. 3-55 - C.F)**NOTE**
+
+गर्भे नु नौ जनिता दंपती कर्देवस्त्वष्टा सविता विश्वरूपः । नकिरस्य प्र मिनंति व्रतानि वेद नावस्य पृथिवी उत द्यौः ॥ (*garbhe nu nau janitā daṃpatī kardevastvaṣṭā savitā viśvarūpaḥ | nakirasya pra minaṃti vratāni veda nāvasya pṛthivī uta dyauḥ ‖*) (Ṛ. Saṃ. 10-10-5).
+
+In all such places Prajāpati, the creator and impeller of the world, is described as showing variety through difference of name and difference of action, while being originally the one principle of all. Therefore the opinion that a separate deity named Savitṛ, of a form different from deities such as Sūra, Āditya, Agni and Indra, exists and is described in embodied form is mistaken. Creation of the world, impelling the world's affairs, regulating those affairs, and all such activities are related to Savitṛ. To establish that this Savitṛ is Āditya, the Supreme Person within Āditya, the Vedic sentences that are the basis of this conclusion have to be examined carefully.
+### Printed p. 560
+सविता सर्वस्य प्रसविता (*savitā sarvasya prasavitā*) (Ni. 10-31): because he is the producer of everything, the name is Savitṛ. Having shown this etymology of the word, the Nirukta authors cite
+
+सविता यंत्रृः पृथिवीमरम्णादस्कंभने सविता द्यामद्यंहत् । अश्वमिनाधुक्षद्दुनिमंतरिक्षमतूर्ते बद्धं सविता समुद्रं ॥ (*savitā yaṃtrṛḥ pṛthivīmaramṇādaskaṃbhane savitā dyāmadyaṃhat | aśvaminādhukṣaddunimaṃtarikṣamatūrte baddhaṃ savitā samudraṃ ‖*) (Ṛ. Saṃ. 10-149-1).
+
+Savitṛ has made the earth supported; he has made the unsupported atmosphere stand firm; and he has made the cloud that spreads over the sky pour rain. Having thus described Savitṛ's greatness, they ask कं अन्यं मध्यमात् एवं अवक्षत् (*kaṃ anyaṃ madhyamāt evaṃ avakṣat*): leaving aside the deity of the atmosphere, what other deity would the ṛṣi praise in this way? In answer, they state that आदित्योऽपि सवितोच्यते (*ādityo 'pi savitocyate*), that Savitṛ is also a synonymous name of Āditya. They cite the ṛk
+
+हिरण्यस्तूपः सवितर्यथा त्वांगिरसो जुह्वे वाजे अस्मिन् । एवा त्वार्चन्नवसे वंदमानः सोमस्येवांशुं प्रति जागराहं ॥ (*hiraṇyastūpaḥ savitaryathā tvāṃgiraso juhve vāje asmin | evā tvārcannavase vaṃdamānaḥ somasyevāṃśuṃ prati jāgarāhaṃ ‖*) (Ṛ. Saṃ. 10-19-5),
+
+show that Āditya has the epithet Savitṛ, and indicate that the words आदित्य (*āditya*) and सवितृ (*savitṛ*) are synonymous names.
+
+4) Description of the divine nature of Savitṛ, the controller of the universe, with the etymology of the word सवितृ (*savitṛ*).
+
+The root सू (*sū*), from which the word सवितृ (*savitṛ*) comes, has different senses: 1) *ṣū* in the sense of impelling; 2) *ṣūṅ* in the sense of release of the young from the womb. Words formed from this root are used in the senses of "create", "impel" and "pour out" (oblations and the like). Sāyaṇa has explained the word सवितृ (*savitṛ*) in all these senses as suits each context. By explaining these meanings he has shown that Savitṛ alone is the controller of the whole world. That Savitṛ is the lord of creation, maintenance and the regulations is evident from the Ṛk-saṃhitā's own descriptions.
+
+तत्सविता वोऽमृतत्वमासुवदगोह्यं यच्छ्रवयंत ऐतन । त्यं चिच्चमसमसुरस्य भक्षणमेकं संतमकृणुता चतुर्वयं ॥ (*tatsavitā vo 'mṛtatvamāsuvadagohyaṃ yacchravayaṃta aitana | tyaṃ ciccamasamasurasya bhakṣaṇamekaṃ saṃtamakṛṇutā caturvayaṃ ‖*) (Ṛ. Saṃ. 1-110-3).
+
 ---
 
-**Progress note:** Done through printed p. 554. pp. 549-554 (batch API)
+**Progress note:** Done through printed p. 560. pp. 555-560 (batch API)
