@@ -17271,6 +17271,187 @@ has explained this word as a special musical instrument, an aid to song; it is a
 
 O Indra and Varuṇa, this sacrificer, रयीयन् (*rayīyan*), desiring wealth for himself, is पुरुतमः (*purutamaḥ*), exceedingly great (puru) through being engaged in Vedic rites, for protection or for food, (the text breaks off here, in the middle of the sentence).
 
+### Printed p. 530
+
+> शश्वत्तमं सर्वदा जोहवीति । भृशमाह्वयति । मरुद्धिर्देवविशेषैर्दिना पृथिव्या च
+> सजोषौ संगच्छंतौ युवां मे मम हवं युष्मदीयमाह्वानं शृणुतं ॥
+> पुरुतमः । तमपो व्यत्ययेनाद्युदात्तत्वं । जोहवीति । ह्वयतेर्यज्लुक्यभ्यस्तस्य चेति संप्रसारणे रूपं । दिवा । ऊडिदमिति विभक्तेरुदात्तत्वं । पृथिव्या ।
+> उदात्तयणो हल्पूर्वादित्युदात्तत्वं । हवं । ह्वयतेर्भावेनुपसर्गस्येत्यप् ।
+> प्रत्ययस्य पित्त्वादनुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his explanation of the verse. The worshipper जोहवीति (*johavīti*) calls you "constantly" (शश्वत्तमं (*śaśvattamaṃ*): at all times), that is, he summons you vehemently. Associated (सजोषौ (*sajoṣau*)) with the Maruts, who are a special class of gods, and with heaven and earth, you two, Indra and Varuṇa, are to hear my invocation addressed to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- रयियॆन् (*rayiyèn*)—desiring wealth
+- अयमु पुरुतमः (*ayamu purutamaḥ*)—this sacrificer, eminent through the performance of rites
+- अवसे (*avase*)—for protection
+- वां (*vāṃ*)—you two
+- शश्वत्तमं (*śaśvattamaṃ*)—always
+- जोहवीति (*johavīti*)—calls
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- दिवा (*divā*)—with the presiding deity of the heavenly world
+- शृथिव्या च (*śṛthivyā ca*)—and with the earth
+- सजोषा (*sajoṣā*)—you who are united
+- मे (*me*)—my
+- हवं (*havaṃ*)—invocation in the form of praise
+- शृणुतं (*śṛṇutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, this sacrificer, eminent through the performance of rites, calls you always, desiring wealth and seeking protection. You who are united with the Maruts, with the presiding deity of the heavenly world and with the earth, hear my invocation in the form of praise.
+
+##### English translation (H. H. Wilson)
+Most diligent (in pious rites) this your worshipper), Indra and Varuna, desirous of wealth, incessantly invokes you for protection: associated with the Maruts, with heaven and earth, hear my invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+रयीयन् (*rayīyan*)—रयिं आत्मन इच्छन् (*rayiṃ ātmana icchan*): desiring wealth for himself. This states the sacrificer's wish.
+
+पुरुतमः (*purutamaḥ*)—वैदिककर्मप्रवृत्ततॆया अतिशयेन पुरुः महान् (*vaidikakarmapravṛttatèyā atiśayena puruḥ mahān*): exceedingly great (पुरुः (*puruḥ*)) through being engaged in Vedic rites. Because the sacrificer acquires greatness by performing the sacrifices and other rites prescribed by rule, the epithet पुरुतमः (*purutamaḥ*) is used. The meaning is either "one possessed of the utmost greatness" or "one possessed of abundant ritual action".
+
+### Printed p. 531
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे तदिं॑द्रावरुणा॒ वसु॑ ष्याद॒स्मे र॒यिर्म॑रुतः॒ सर्व॑वीरः ।  
+> अ॒स्मान्वरू॑त्रीः शर॒णैर॑वंत्व॒स्मान् होत्रा॒ भार॑ती॒ दक्षि॑णाभिः ॥
+
+> *asme tadiṃdrāvaruṇā vasu ṣyādasme rayirmarutaḥ sarvavīraḥ |*  
+> *asmānvarūtrīḥ śaraṇairavaṃtvasmān hotrā bhāratī dakṣiṇābhiḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । तत् । इंद्रावरुणा । वसु । स्यात् । अस्मे इति । रयिः । मरुतः । सर्वऽवीरः ।  
+> अस्मान् । वरूत्रीः । शरणैः । अवंतु । अस्मान् । होत्रा । भारती । दक्षिणाभिः ॥ ३ ॥
+
+> *asme iti | tat | iṃdrāvaruṇā | vasu | syāt | asme iti | rayiḥ | marutaḥ | sarva 'vīraḥ |*  
+> *asmān | varūtrīḥ | śaraṇaiḥ | avaṃtu | asmān | hotrā | bhāratī | dakṣiṇābhiḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणावस्मे आस्मासु तदभिलषितं तादृशं वसु धनं स्यात् । भवतु ।
+> हे मरुतः सर्ववीरः सर्वॆषु कर्मसु वीरः समर्थो रयिः पुत्रपौत्रयुक्तः पशुसंघः । पशवो वै रयिरिति तैत्तिरीयकं । सोऽस्मे अस्माकं भवतु । वरूत्रिः सर्वैः
+> संभजनीया देवपल्यः शरणैः । शृणंति शीतादिक्षेशमिति शरणानि गृहाः । तैरस्मानवंतु । होत्रा । हूयंतेऽस्यां हवींशीति । यद्वा । हूयते तत्र प्राण इति
+> होत्रा वाक् । तथा च श्रुतिः । वाचि हि प्राणं जुहुमः प्राणे वा वाचं । कौ. उ.
+> २-५ । इति । यद्वा । होत्रेति यज्ञनाम । हूयते तत्र हविरिति । यज्ञश्च वागुच्यते।
+> वाचं यच्छंति वाग्वै यज्ञः । ऐ- ब्रा. ५-२४ । इति ब्राह्मणं । तादृशी भारती सरस्वती
+> दक्षिणाभिगॊरूपाभिर्दक्षिणाभिः । यद्वा । उदाराभिर्वाग्निरस्मान् पालयतु ॥ वसु
+> ष्यादित्यत्र संहितायां पूर्वपदादिति षत्वं । वरूत्रिः । ग्रसितस्कभितेत्यादिना जीबंतत्वेन निपातनादिष्टसिद्धिः । होत्रा । हु दानादनयोः । हुयामाश्रुभसिभ्यस्त्रन्नित्यधिकरणे त्रन्प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, let that desired wealth be ours. O Maruts, let the wealth called सर्ववीरः (*sarvavīraḥ*) be ours: सर्ववीरः (*sarvavīraḥ*) means capable (वीरः (*vīraḥ*)) in all rites. This रयिः (*rayiḥ*) is a herd of cattle together with sons and grandsons; "cattle indeed are wealth" says the Taittirīya text. Let the वरूत्रीः (*varūtrīḥ*), the wives of the gods who are to be resorted to by all, protect us with शरणैः (*śaraṇaiḥ*), that is, with houses; houses are शरणानि (*śaraṇāni*) because they break (शृणंति (*śṛṇaṃti*)) cold and similar afflictions. As to होत्रा (*hotrā*): it is that in which oblations are offered; or else speech is होत्रा (*hotrā*) because the vital breath (प्राण (*prāṇa*)) is offered in it. Accordingly the śruti: वाचि हि प्राणं जुहुमः प्राणे वा वाचं (*vāci hi prāṇaṃ juhumaḥ prāṇe vā vācaṃ*) (Kau. U. 2-5**NOTE**). Or else होत्रा (*hotrā*) is a name of the sacrifice, because the oblation is offered in it; and the sacrifice is also called speech, as the Brāhmaṇa says: वाचं यच्छंति वाग्वै यज्ञः (*vācaṃ yacchaṃti vāgvai yajñaḥ*) (Ai. Brā. 5-24). Such a Bhāratī, Sarasvatī, is to protect us with दक्षिणाभिः (*dakṣiṇābhiḥ*), that is, with gifts in the form of cows; or else, with generous speeches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- अस्मे (*asme*)—to us
+- तत् (*tat*)—that which we desired
+- वसु (*vasu*)—wealth
+- स्यात् (*syāt*)—may it come
+- मरुतः (*marutaḥ*)—O Maruts
+- सर्ववीरः (*sarvavīraḥ*)—all-capable
+- रयिः (*rayiḥ*)—wealth accompanied by sons and grandsons
+- अस्मे (*asme*)—may it come to us
+- वरूत्रिः (*varūtriḥ*)—the venerable wives of the gods
+- शरणैः (*śaraṇaiḥ*)—with houses fit for dwelling
+- अस्मान् (*asmān*)—us
+- अवंतु (*avaṃtu*)—let them protect
+- होत्रा (*hotrā*)—the goddess of speech
+- भारती (*bhāratī*)—Sarasvatī (or Sarasvatī in the form of speech)
+- दक्षिणाभिः (*dakṣiṇābhiḥ*)—with wealth of cattle or wealth of speech
+- अस्मान् (*asmān*)—us (let them protect)
+
+### Printed p. 532
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, may the wealth we desired come to us. O Maruts, may all-capable wealth, accompanied by sons and grandsons, come to us. May the venerable wives of the gods protect us with houses fit for dwelling; may the goddess of speech and Sarasvatī protect us with wealth of cattle or wealth of speech.
+
+##### English translation (H. H. Wilson)
+May there be to us, Indra and Varuna, such wealth (as we covet): may there be, Maruts, to us wealth (of cattle) and numerous descendants: may the delightful (wives of the gods) shelter us with dwellings : may Hotra, and Bharati (enrich) us with gifts.
+
+##### विशेषविषयगळु (Special Topics)
+
+वरूत्रीः (*varūtrīḥ*)—सर्वैः संभजनीया देवपत्न्यः (*sarvaiḥ saṃbhajanīyā devapatnyaḥ*): the wives of the gods, such as Bhāratī, venerable to all; thus their venerability is also stated. The word is used more often simply in the sense "protectors". In places such as
+वरूत्रीभिः सुशरणो नो अस्तु त्वष्टा सुदत्रो वि दधातु रायः (*varūtrībhiḥ suśaraṇo no astu tvaṣṭā sudatro vi dadhātu rāyaḥ*)
+(Ṛ. Saṃ. 7-34-22), वरूत्रीभिः (*varūtrībhiḥ*) is explained as उपद्रवाणां वारयित्रीभिः देवपत्नीभिः (*upadravāṇāṃ vārayitrībhiḥ devapatnībhiḥ*), that is, by the wives of the gods who ward off troubles. But in
+अहिर्बुध्न्य उत नः शृणोतु वरूत्र्येकधेनुभिर्नि पातु (*ahirbudhnya uta naḥ śṛṇotu varūtryekadhenubhirni pātu*)
+(Ṛ. Saṃ. 6 38-5) it is stated that the word वरुत्री (*varutrī*) is a synonym of the goddess of speech; one may also say "the protecting goddess of speech". In the present verse the plural वरूत्रीः (*varūtrīḥ*) is used, so one may say in general "the wives of the gods".
+
+Whether these words होत्रा भारती (*hotrā bhāratī*) denote separate special deities, or whether they should be understood as "Bhāratī, qualified by the epithet Hotrā", is itself doubtful to the commentator.
+
+होत्रा (*hotrā*)—Three kinds of meaning can be given to this word. First, हूयंते अस्यां हवींषि इति (*hūyaṃte asyāṃ havīṃṣi iti*): because oblations are offered in her, she may be a special deity called Hotrā
+
+### Printed p. 533
+
+(or a Bhāratī of such a nature). In places such as होत्राः संयाजयंति (*hotrāḥ saṃyājayaṃti*) (Śa. Brā. 4-2-1-32) the word होत्राः (*hotrāḥ*) is explained as "wives of the gods"; and in contexts such as दिशः सप्त होत्राः (*diśaḥ sapta hotrāḥ*) (Śa. Brā. 7-4-1 20) it is stated to mean the deities of the directions. This will be explained further on. In the present verse the meaning as a deity is given first, and then, secondly, हूयते तत्र प्राण इति होत्रा वाक् (*hūyate tatra prāṇa iti hotrā vāk*): because the oblation is offered in speech, speech itself is what the word होत्रा (*hotrā*) denotes. He says that this meaning is stated on the authority of the śruti sentence वाचि हि प्राणं जुहुमः प्राणे वा वाचं (*vāci hi prāṇaṃ juhumaḥ prāṇe vā vācaṃ*); but he does not say which source this is. Thirdly, होत्रॆति यज्ञनाम हूयते अत्र हविरिति (*hotrèti yajñanāma hūyate atra haviriti*): because the oblation is offered in the sacrifice, the sacrifice too is denoted by the word होत्रा (*hotrā*). Or else the sacrifice is itself well known as speech. Thus:
+वाचं यच्छंति । वाग्वै यज्ञः । (*vācaṃ yacchaṃti | vāgvai yajñaḥ |*)
+(I. Ā. 5-24**NOTE**).
+To restrain speech is to restrain the sacrifice itself; for speech and sacrifice are identical, both are of undivided nature: thus the non-difference of speech and sacrifice is stated. Besides this, in several other places a conjugal relation between speech and sacrifice is shown, and the unity of the two is indicated. The relation that exists between mind and speech exists also between sacrifice and speech. Indicating this same relation, how होत्रा (*hotrā*) in the present verse may be explained as the sacrifice whose nature is speech: first one must know how this unity came about. This relation is described in the Śatapatha Brāhmaṇa. The story tells first of the difference between sacrifice and speech and afterwards of the unity of the two, in this way.
+
+ते देवा यज्ञमब्रुवन् । योषा ना इयं वागुपमंत्रयस्व ह्वयिष्यते वै त्वेति स्वयं ना हैवैक्षत योषा ना इयं वागुपमंत्रय्यै ह्वयिष्यते वै मेति तामुपामंत्रयत .... .... ॥ (*te devā yajñamabruvan | yoṣā nā iyaṃ vāgupamaṃtrayasva hvayiṣyate vai tveti svayaṃ nā haivaikṣata yoṣā nā iyaṃ vāgupamaṃtrayyai hvayiṣyate vai meti tāmupāmaṃtrayata .... .... ‖*)
+(Tai. Brā. 3-2-1-9**NOTE**).
+The gods said to the sacrifice: "Speech is a woman; make a sign to her to come near you." Or else the sacrifice thought in its own mind: "Speech is a woman. If I make a sign to that speech to come near me, then that woman too will make the same sign to me." But at the very first, speech refused the sacrifice's sign. That is characteristic of a woman.
+
+### Printed p. 534
+
+ते होचुः । उपैव भगवो मंत्रयस्व ह्वयिष्यते वै त्वेति तामुपामंत्रयत सा हैनं जुहुवे तस्मादु स्त्री पुमांसग् ह्वयत एवोत्तमग्ं स होवाचाह्वत नै मेति ॥ (*te hocuḥ | upaiva bhagavo maṃtrayasva hvayiṣyate vai tveti tāmupāmaṃtrayata sā hainaṃ juhuve tasmādu strī pumāṃsag hvayata evottamagṃ sa hovācāhvata nai meti ‖*)
+(Śa. Brā. 3-2-1-21).
+Then the gods said: "Make a sign to her again in the form of an invitation. She will certainly not reject it but will give a reply." Then in the same way the sacrifice-person made a sign in the form of an invitation. She too made the same sign and called him. Then he thought: "She too has called me."
+
+ते देवा ईक्षांचक्रिरे । योषा ना इयं वाग्यदेनं न युवितेहैव मा तिष्ठंतमभ्येहीति ब्रूहि तां तु न आगतां प्रतिप्रब्रूतादिति सा हैनं तदेव तिष्ठंतमभ्येयाय तस्मादु स्त्री पुमांसग्ं संस्कृते तिष्ठंतमभ्यैति ताग्ंहैभ्य आगतां प्रतिप्रोवाचेयं वागादिति ॥ (*te devā īkṣāṃcakrire | yoṣā nā iyaṃ vāgyadenaṃ na yuvitehaiva mā tiṣṭhaṃtamabhyehīti brūhi tāṃ tu na āgatāṃ pratiprabrūtāditi sā hainaṃ tadeva tiṣṭhaṃtamabhyeyāya tasmādu strī pumāṃsagṃ saṃskṛte tiṣṭhaṃtamabhyaiti tāgṃhaibhya āgatāṃ pratiprovāceyaṃ vāgāditi ‖*)
+(Śa. Brā. 3-2-1-22).
+"This speech is a woman. This woman, belonging to the company of the Asuras, might draw the sacrifice-person to herself and win him over; then the sacrifice-person might join the Asuras." So thinking, they said to the sacrifice-person: "Do not go to her; make her come to you." In that way he made her come, and afterwards told the gods of her arrival.
+
+तान् देवाः । असुरेभ्योंतरायंस्ताग् स्वीकृत्याग्नावेव परिगृह्य सर्वहुतमजुहवुराहुतिर्हि देवानाग्ं स यामेवामूमनुष्टुभाजुहवुस्तदेवैनां तद्देवाः स्वकुर्वत तेऽसुरा आत्तवचसो हेलवो हेलव इति वदंतः पराबभूवुः ॥ (*tān devāḥ | asurebhyoṃtarāyaṃstāg svīkṛtyāgnāveva parigṛhya sarvahutamajuhavurāhutirhi devānāgṃ sa yāmevāmūmanuṣṭubhājuhavustadevaināṃ taddevāḥ svakurvata te 'surā āttavacaso helavo helava iti vadaṃtaḥ parābabhūvuḥ ‖*)
+(Tā. Prā. 3-2-1-23**NOTE**).
+As soon as the woman in the form of speech, having left the Asuras, approached the sacrifice-person, the gods separated her completely from them and cut the relation she had with them. They made her wholly enveloped by fire and offered her to the gods as a full oblation. And because she was offered preceded by the anuṣṭubh metre, speech too, having become of the nature of the sacrifice, joined their side. The Asuras fled crying out.
+
+सोऽयं यज्ञो वाचमभिदधौ । मिथुन्येनया स्यामिति ताग्ं संबभूव । (*so 'yaṃ yajño vācamabhidadhau | mithunyenayā syāmiti tāgṃ saṃbabhūva |*)
+(Śa. Brā. 3-2-1-25)
+
+### Printed p. 535
+
+In this way the sacrifice-person, enamoured of the woman in the form of speech and wishing to be united with her, took her wholly into himself.
+
+इंद्रो ह वा ईक्षांचक्रे । महद्वा इतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इंद्र एव गर्भो भूत्वैतन्निथुनं प्रविवेश ॥ (*iṃdro ha vā īkṣāṃcakre | mahadvā ito 'bhvaṃ janiṣyate yajñasya ca mithunādvācaśca yanmā tannābhibhavediti sa iṃdra eva garbho bhūtvaitannithunaṃ praviveśa ‖*)
+(Śa. Brā. 3-2-1-26).
+After that union Indra thought: "If this conjugal relation of sacrifice and speech is left as it is, a great demonic form may arise from this pair. Without giving it room, I myself must enter into their womb." So he himself entered as the embryo of the pair.
+
+Thus, because speech was offered in the sacrifice in the form of a full oblation, and because complete unity resulted from this offering, Sāyaṇa holds that in the present verse the name होत्रा (*hotrā*) is applied to speech in the form of the sacrifice. He has shown the sentence quoted above from the Aitareya Brāhmaṇa as the basis. And saying "such a Bhāratī, of the form of speech", he has also stated that the word होत्रा (*hotrā*) is an epithet of Bhāratī.
+
+भरतः आदित्यः तस्य।भाः (*bharataḥ ādityaḥ tasya|bhāḥ*) (Ni. 8-13): the Āditya has the synonym Bharata, and the author of the Nirukta gives the explanation that his light is well known by the name Bhāratī.
+
+अमू स्थिताधिलोकं तु भारती भवति ह्यसौ । सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च ॥ (*amū sthitādhilokaṃ tu bhāratī bhavati hyasau | saiṣā tu trividhā vāgvai divi ca vyommi ceha ca ‖*)
+(Bṛ. De. 3-13).
+Among the deities in the form of speech who stand in the three worlds, the deity on the earth is called Bhāratī. Bhāratī, standing in the heavenly world, took refuge in the Āditya; that is what the author of the Nirukta calls आदित्यस्य भाः (*ādityasya bhāḥ*). But in
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः । (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ |*)
+(Bṛ. De. 1-108)
+it is stated that these three deities, shining as radiance in the three worlds, all serve the terrestrial fire, so that everything is finally declared to be connected with Agni. In saying so, support can be shown also in the Ṛk Saṃhitā:
+तस्मा अग्निर्भारतः शर्म यंसज्योक्षश्यात्सूर्यमुच्चरंतं । य इंद्राय सुनवामेत्याह नरे नर्याय नृतमाय नृणां ॥ (*tasmā agnirbhārataḥ śarma yaṃsajyokṣaśyātsūryamuccaraṃtaṃ | ya iṃdrāya sunavāmetyāha nare naryāya nṛtamāya nṛṇāṃ ‖*)
+(Ṛ. Saṃ. 4-25-4)
+
+### Printed p. 536
+
+Agni, the lord of oblations, is Bhārata: Agni himself is called by the word Bhārata. Because she served such an Agni, that deity is called Bhāratī. But what is the nature of this deity? As Sāyaṇa has stated in his commentary on the present verse (Ṛ. Saṃ. 3-62-3), it is explained precisely that for Hotrā, prāṇa, speech and sacrifice alike a meaning referring to Bhāratī can be given on the basis of Saṃhitā and Brāhmaṇa passages. प्राणो भूत्वा प्रजा धारयन् भारतः (*prāṇo bhūtvā prajā dhārayan bhārataḥ*): Agni, having become prāṇa and sustaining creatures, was called Bhārata; Sāyaṇa cites this sentence of the Vājasaneyi Saṃhitā (Ṛ. Saṃ. Bhā. 4-25-4).
+
+शरणैः (*śaraṇaiḥ*)—शृणंति शीतादिक्लेशमिति शरणानि गृहाः (*śṛṇaṃti śītādikleśamiti śaraṇāni gṛhāḥ*): houses are called शरण (*śaraṇa*) because they ward off cold and similar afflictions and are protective. Durgācārya, following the view of the author of the Nirukta, explained this word as "strength". Since there is a place that is spacious for dwelling and gives shelter, the meaning "strength" or "house" may be given according to context. In
+उदुष्य शरणे दिवो ज्योतिरयंस्त सूर्यः । अग्निर्न शुक्रः समिधान आहुतः ॥ (*uduṣya śaraṇe divo jyotirayaṃsta sūryaḥ | agnirna śukraḥ samidhāna āhutaḥ ‖*)
+(Ṛ. Saṃ. 8-25-19)
+the word शरणे (*śaraṇe*) is explained as आदित्यस्य स्थाने नभसि (*ādityasya sthāne nabhasi*): since the sky is the spacious dwelling-place of the Āditya, the word शरण (*śaraṇa*) is explained as the sky. In many contexts such as मदेम शरणे सखायः (*madema śaraṇe sakhāyaḥ*) (7-19-8) the meaning "dwelling-house" is the established one.
+
+दक्षिणाभिः (*dakṣiṇābhiḥ*)—सत्वान् दक्षयतीत्यनेन इति दक्षिणा (*satvān dakṣayatītyanena iti dakṣiṇā*): because it is the means of increasing the power of sacrifices and similar rites, it is called दक्षिणा (*dakṣiṇā*); the Kauṣītaki Brāhmaṇa gives this explanation of the word (Kau. Brā. 15-1**NOTE**). The relation between sacrifice and dakṣiṇā is stated in the Taittirīya Saṃhitā thus:
+यज्ञो दक्षिणा मभ्यध्यायत्ताग्ं समभवत् । (*yajño dakṣiṇā mabhyadhyāyattāgṃ samabhavat |*)
+(Tai. Saṃ. 6-1-3-6).
+Just as above it was said how Indra entered the womb of the pair when the sacrifice-person, desiring relation with speech, entered conjugal relation with her, so here too the relation between sacrifice and dakṣiṇā is stated in the same way.
+
 ---
 
-**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
+**Progress note:** Done through printed p. 536. pp. 530-536 (batch API)

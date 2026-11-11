@@ -222,3 +222,4 @@
 | w0694 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 22402, out 6123 | $0.054 |
 | w0748 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 29217, out 8053 | $0.070 |
 | w0761 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 28238, out 6178 | $0.060 |
+| w0761 retry 2 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 28219, out 6326 | $0.060 |
