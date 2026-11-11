@@ -4,3 +4,4 @@
 - w0156 (pp. 156–161): three `[figure: …]` lines (fig1_line07275, 07434, 07484: pictures of Saṃhitā/Pada blocks that kn.md already has, checked by eye against kn.md) removed from kn.md by `batch.py fix`; no letter of the text changed.
 - Vol 18 p. 156 (w0156): Ṛk 2's blocks stood without `#### Ṛk 2` and without the Saṃhitā / Pada-pāṭha / Sāyaṇa-bhāṣya sub-headings; headings and block grouping put in by hand as in the other Ṛks; no letter changed.
 - Vol 18 p. 240 (w0235): Ṛk 17 had plain-text labels ("Saṃhitā-pāṭha" etc.) and no `#### Ṛk 17`; sub-headings put in by hand as in the other Ṛks; no letter changed.
+- w0334 (pp. 334–339): one `[figure: …]` line (fig1_line14456: picture of the Saṃhitā and Pada blocks of the Ṛk that kn.md already has, compared by eye) removed from kn.md by `batch.py fix`; no letter changed.

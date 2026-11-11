@@ -12662,6 +12662,309 @@ O Ṛbhus, by your power, by excellent skill in action, and by auspicious works 
 ##### English translation (H. H. Wilson)
 May the munificence of the Ribhus come to me on this occasion, (since) there has been the drinking of the effused Soma, in consequence of one ladle having been made fourfold by their dexterous and excellent work.
 
+### Printed p. 334
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य॑कृणोत चम॒सं च॑तु॒र्धा सखे॒ वि शि॒क्षेत्य॑ब्रवीत ।  
+> अथै॑त वाजा अ॒मृत॑स्य॒ पंथां॑ ग॒णं दे॒वाना॑मृभवः सुहस्ताः।
+
+> *vyakṛṇota camasaṃ caturdhā sakhe vi śikṣetyabravīta |*  
+> *athaita vājā amṛtasya paṃthāṃ gaṇaṃ devānāmṛbhavaḥ suhastāḥ|*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अकृणोत । चमसं । चतुःऽधा । सखे । वि । शिक्ष । इति । अब्रवीत ।  
+> अथ । ऐत । वाजाः । अमृतस्य । पंथां । गणं । देवानां । ऋभवः । सुहस्ताः ।
+
+> *vi | akṛṇota | camasaṃ | catuḥ 'dhā | sakhe | vi | śikṣa | iti | abravīta |*  
+> *atha | aita | vājāḥ | amṛtasya | paṃthāṃ | gaṇaṃ | devānāṃ | ṛbhavaḥ | suhastāḥ |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो यूयं चमसं चतुर्धा व्यकृणोत । व्यकुरुत । कृत्वा च हे
+> सखे हे सखिभूताग्ने वि शिक्षानुगृहाण सोमपानमित्यब्रवीत । अवदत यूयं ।
+> अथ सोऽग्निर्युष्मानवादीत् खलु । किमिति । हे वाजा ऋभवः सुहस्ताः कुशलहस्ता
+> यूयममृतस्यामरणधर्मकस्य स्वर्गस्य पंथां पंथानमैत । गच्छत । किं तदमृतमिति । देवानामिंद्रादीनां गणं संघातमैत ॥
+
+##### Gist of the bhāṣya
+
+O Ribhus, you divided the ladle (camasa) into four. Having done so, you said to Agni, the friend, "Grant us leave to drink the Soma." Then Agni said to you: "O Vājas, Ribhus, skilful-handed, go to the path of the immortal heaven, whose nature is not to die." What is that immortal state? It is the company of the gods, Indra and the rest; go to that company.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Ribhus) चमसं (*camasaṃ*)—the ladle that was single
+- चतुर्धा (*caturdhā*)—so as to become four
+- अकृणोत (*akṛṇota*)—(you) first made (then, addressing Agni)
+- सखे (*sakhe*)—O Agni, friend
+- वि शिक्ष (*vi śikṣa*)—grant permission for the Soma-drinking
+- इत्यब्रवीत (*ityabravīta*)—so you said
+- अथ (*atha*)—immediately upon Agni's permission
+- वाजाः (*vājāḥ*)—O Vājas (Ribhus)
+- सुहस्ताः (*suhastāḥ*)—having hands fit for excellent work
+- अमृतस्य (*amṛtasya*)—of the eternal heaven
+- पंथां (*paṃthāṃ*)—the path
+- ऐत (*aita*)—you went and reached
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- गणं (*gaṇaṃ*)—the company (you went and reached)
+
+##### भावार्थ (Bhāvārtha)
+
+O Ribhus, you made the single ladle into four. Then you addressed Agni: "O Agni, our friend, grant us permission to drink the Soma." As soon as Agni gave permission, O Vājas and Ribhus, you, with hands fit for excellent work, went and reached the path of the eternal heaven. And you went and reached the company of the gods, Indra and the rest.
+
+### Printed p. 335
+
+##### English translation (H. H. Wilson)
+You have made the ladle fourfold, and have said (to Agni), assent (to the division); therefore have you gone, Vajas, the path of the immortals: dexterous-handed Ribhus (you have joined) the company of the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं॒मयः॑ स्विच्चम॒स ए॒ष आ॑स॒ यं काव्ये॑न च॒तुरो॑ विच॒क्र ।  
+> अथा॑ सुनुद्वं॒ सव॑नं॒ मदा॑य पा॒त ऋ॑भवो॒ मधु॑नः सो॒म्यस्य॑ ॥ ४ ॥
+
+> *kiṃmayaḥ sviccamasa eṣa āsa yaṃ kāvyena caturo vicakra |*  
+> *athā sunudvaṃ savanaṃ madāya pāta ṛbhavo madhunaḥ somyasya ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किंमयः । स्वित् । चमसः । एषः । आस । यं । काव्येन । चतुरः । विचक्र ।  
+> अथ । सुनुध्वं । सवनं । मदाय । पात । ऋभवः । मधुनः । सोम्यस्य ॥ ४ ॥
+
+> *kiṃmayaḥ | svit | camasaḥ | eṣaḥ | āsa | yaṃ | kāvyena | caturaḥ | vicakra |*  
+> *atha | sunudhvaṃ | savanaṃ | madāya | pāta | ṛbhavaḥ | madhunaḥ | somyasya ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किंमयः स्वित् किमात्मक एष चमस आस ! स्वित् प्रश्नॆ । यं चमसमेकं
+> संतं काव्येन कवीनां मेधाविनां संबंधिना कर्मणा कौशलेन चतुरो विचक्र ।
+> कृतवंतः । अथाधुना सवनं । सूयत इति सवनः सोमः । तं मदाय हर्षाय
+> सुनुध्वं हे ऋत्विजः । हे ऋभवो यूयं च सोम्यस्य सोमसंबंधिनं
+> मधुनो मधुरं रसं पात । पिबत ॥
+
+##### Gist of the bhāṣya
+
+"Of what nature was this ladle?" (स्वित् (*svit*) marks a question.) The ladle, which being one you made four by your poetic skill, that is, by the skilful work of the wise. Now, O priests, press the Soma (सवनं (*savanaṃ*), "that which is pressed", is Soma) for exhilaration; and you, O Ribhus, drink the sweet juice belonging to the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऋभवः (*ṛbhavaḥ*)—O Ribhus)
+- यं (*yaṃ*)—which ladle that was single
+- काव्येन (*kāvyena*)—by your skilful work
+- चतुरः (*caturaḥ*)—so as to become four
+- विचक्र (*vicakra*)—you made, of which kind
+- एषः चमसः (*eṣaḥ camasaḥ*)—this ladle
+- किंमयः स्वित् आस (*kiṃmayaḥ svit āsa*)—of what substance it was (O priests)
+- अध (*adha*)—now
+- सवनं (*savanaṃ*)—the Soma
+- मदाय (*madāya*)—for the delight of the Ribhus
+- सुनुध्वं (*sunudhvaṃ*)—press
+- ऋभवः (*ṛbhavaḥ*)—O Ribhus
+- सोम्यस्य (*somyasya*)—of the Soma nature
+- मधुनः (*madhunaḥ*)—the sweet juice
+- पात (*pāta*)—drink
+
+### Printed p. 336
+
+##### भावार्थ (Bhāvārtha)
+
+O Ribhus, of what substance was this ladle, which you, by your skilful work, made fourfold from one? O priests, press the Soma now for the delight of the Ribhus. O Ribhus, drink the sweet juice that is of the nature of Soma.
+
+##### English translation (H. H. Wilson)
+What sort of ladle was that which by skill you have made four ? now pour forth the Soma for their exhilaration : drink, Ribhus, of the sweet Soma libation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शच्या॑कर्त पि॒तरा॒ युवा॑ना॒ शच्या॑कर्त चम॒सं दे॑व॒पानं॑ ।  
+> शच्या॒ हरी॒ धनु॑तरावतष्टेंद्र॒वाहा॑वृभवो वाजरत्नाः ॥ ५ ॥
+
+> *śacyākarta pitarā yuvānā śacyākarta camasaṃ devapānaṃ |*  
+> *śacyā harī dhanutarāvataṣṭeṃdravāhāvṛbhavo vājaratnāḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शच्या । अकर्त । पितरा । युवाना । शच्या । अकर्त । चमसं । देवसानं ।  
+> शच्या । हरी इति । धनुतरौ । अतष्ट । इंद्रवाहौ । यभवः । वाजरत्नाः ॥ ५ ॥
+
+> *śacyā | akarta | pitarā | yuvānā | śacyā | akarta | camasaṃ | devasānaṃ |*  
+> *śacyā | harī iti | dhanutarau | ataṣṭa | iṃdravāhau | yabhavaḥ | vājaratnāḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजरत्ना रमणीयसोमान्ना हे ऋभवो यूयं शच्या कर्मणा
+> पितरा मातापितरौ युवाना युवानावकर्त । अकुरुत । तथा शच्या चमसं देवपानं
+> देवपानार्हमकर्त । चतुर्धाकुरुतेत्यर्थः । शच्या हरी अतष्ट । तक्षणेन संपादितवंतः । कीदृशौ हरी । धनुतरौ शीघ्रं गंतृतराविंद्रवाहाविंद्रवोढारौ ॥
+
+##### Gist of the bhāṣya
+
+O Ribhus, whose food (वाजरत्ना (*vājaratnā*)) is delightful Soma-food, by your skilful work you made your parents young. Likewise by your skill you made the ladle fit for the gods' drinking, that is, you made it fourfold. By skill you fashioned the two bay horses, by carving. What are they like? Swifter-moving, bearers of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजरत्ना (*vājaratnā*)—possessing food that is delightful and of the nature of Soma
+- ऋभवः (*ṛbhavaḥ*)—O Ribhus
+- शच्या (*śacyā*)—by your skilful work
+- पितरा (*pitarā*)—your parents
+- युवाना (*yuvānā*)—so as to become young
+- अकर्त (*akarta*)—you made
+- शच्या (*śacyā*)—by the same skilful work
+- चमसं (*camasaṃ*)—the ladle
+
+### Printed p. 337
+- देवपानं (*devapānaṃ*)—so as to be fit for the gods' drinking
+- अकर्त (*akarta*)—you made
+- शच्या (*śacyā*)—by the same skilful work
+- धनुतरौ (*dhanutarau*)—running faster than an arrow goes from a bow
+- इंद्रवाहौ (*iṃdravāhau*)—bearing Indra
+- हरी (*harī*)—the horses
+- अतष्ट (*ataṣṭa*)—you procured
+
+##### भावार्थ (Bhāvārtha)
+
+O Ribhus, whose food is delightful and of the nature of Soma, by your skilful work you made your parents young. By the same skilful work you made the ladle fit for the gods' drinking. By the same skilful work you procured horses that run faster than an arrow goes from a bow, and that bear Indra.
+
+##### English translation (H. H. Wilson)
+By your (marvellous) deeds you have made your parents young; by your deeds you have made the ladle (fit) for the drinking of the gods: by your deeds you have made the two horses, the bearers of Indra, swifter than (an arrow from) a bow, Ribhus, who are rich in (sacrificial) food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वः॑ सु॒नोत्य॑भिपि॒त्वे अह्नां॑ ती॒व्रं वा॑जासः॒ सव॑नं॒  ॑
+> मदाय ॥  
+> तस्मै॑ र॒यिमृ॑भवः॒ सर्व॑वीर॒मा त॑क्षत वृषणो मंदसा॒नाः ॥ ६ ॥
+
+> *yo vaḥ sunotyabhipitve ahnāṃ tīvraṃ vājāsaḥ savanaṃ*  
+> *madāya ‖*  
+> *tasmai rayimṛbhavaḥ sarvavīramā takṣata vṛṣaṇo maṃdasānāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वः । सुनोति । अभिपित्वे । अह्नां । तीव्रं । वाजासः । सवनं । मदाय ॥  
+> तस्मै । रयिं । ऋभवः । सर्ववीरं । आ । तक्षत । वृषणः । मंदसानाः ॥ ६ ॥
+
+> *yaḥ | vaḥ | sunoti | abhipitve | ahnāṃ | tīvraṃ | vājāsaḥ | savanaṃ | madāya ‖*  
+> *tasmai | rayiṃ | ṛbhavaḥ | sarvavīraṃ | ā | takṣata | vṛṣaṇaḥ | maṃdasānāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो वाजासोऽन्नवंतो वो युष्मभ्यं यो यजमानोऽह्नामभिपित्वेऽभिपतने । तृतीयसवन इत्यर्थः । तस्मिन् तीव्रं रसवत्तरं सवनं । सूयत
+> 22
+
+##### Gist of the bhāṣya
+
+O Ribhus, Vājas, possessed of food: whichever sacrificer, at the *abhipatane* of the days, that is, at the third pressing, presses for you the more juicy Soma ("that which is pressed", सवनः (*savanaḥ*) is Soma)
+
+### Printed p. 338
+
+> इति सवनः सोमः । तं मदाय सुनोति तस्मै सर्ववीरं बहुपुत्रोपेतं
+> रयिं धनं हे वृषणः फलवर्षितारो मंदसाना मोदमानाः संत आ तक्षत ।
+> संपादयतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+—presses it for exhilaration: for him, O showerers of fruit, rejoicing, procure wealth comprising all heroes, that is, accompanied by many sons; that is the meaning of आ तक्षत (*ā takṣata*), "bring about".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजासः (*vājāsaḥ*)—possessing food
+- वृषणः (*vṛṣaṇaḥ*)—granting desired ends
+- मंदसानाः (*maṃdasānāḥ*)—glad of heart
+- ऋभवः (*ṛbhavaḥ*)—O Ribhus
+- वः (*vaḥ*)—addressed to you
+- यः (*yaḥ*)—whichever sacrificer
+- अह्नां (*ahnāṃ*)—of the days
+- अभिपित्वे (*abhipitve*)—at the third pressing, the time of completion
+- तीव्रं (*tīvraṃ*)—juicy
+- सवनं (*savanaṃ*)—the Soma
+- मदाय (*madāya*)—for your delight
+- सुनोति (*sunoti*)—presses and offers
+- तस्मै (*tasmai*)—to that sacrificer
+- सर्ववीरं (*sarvavīraṃ*)—accompanied by many sons
+- रयिं (*rayiṃ*)—wealth
+- आतक्षत (*ātakṣata*)—procure and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Ribhus, possessing food, granting desired ends, glad of heart: to the sacrificer who, addressing you, presses and offers the juicy Soma for your delight at the third pressing, the time of completion of the days, procure and give wealth accompanied by many sons.
+
+##### English translation (H. H. Wilson)
+Distributors of food, Ribhus, showerers (of benefits), exhilarated (by the Soma draught), fabricate wealth, comprising all posterity for him who pours out for your exultation, the acrid libation at the decline of day.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒तः सु॒तम॑पिबो हर्यश्व॒ माध्यं॑दिनं॒ सव॑नं॒ केव॑लं ते ॥  
+> समृ॒भुभिः॑ पिबस्व रत्न॒धेभिः॒ सखी॒र्या इं॑द्र चक्र॒षे  ॒॑
+> सुकृत्या ॥ ७ ॥
+
+> *prātaḥ sutamapibo haryaśva mādhyaṃdinaṃ savanaṃ kevalaṃ te ‖*  
+> *samṛbhubhiḥ pibasva ratnadhebhiḥ sakhīryā iṃdra cakraṣe*  
+> *sukṛtyā ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातरिति । सुतं । अपिबः । हरिअश्व । माध्यंदिनं । सवनं । केवलं । ते ॥  
+> सं । ऋभुभिः । पिबस्व । रत्नधेभिः । सखीन् । यान् । इंद्र । चक्रषे । सुकृत्या ॥७॥
+
+> *prātariti | sutaṃ | apibaḥ | hariaśva | mādhyaṃdinaṃ | savanaṃ | kevalaṃ | te ‖*  
+> *saṃ | ṛbhubhiḥ | pibasva | ratnadhebhiḥ | sakhīn | yān | iṃdra | cakraṣe | sukṛtyā ‖7‖*
+
+### Printed p. 339
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यश्व हरितवर्णाश्वोपेतेंद्र प्रातः प्रातःसवने सुतमभिषुतं
+> सोममपिबः । पिबस्व । माध्यंदिनं सवनं केवलं ते । परं तनैव नान्येषां ।
+> सवनद्वयस्य पृथगभिधानात्तृतीयसवनं परिशिष्यते । तृतीयसवने रत्नधेभी
+> रमणीयदानैर्य्यभुभिः सं पिबस्व । हे इंद्र यानृभून् सुकृत्या शोभनकर्मणा
+> सखीन् चकृषे । अकरोः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, owner of bay (हरितवर्ण (*haritavarṇa*)) horses, you drank the Soma pressed at the morning pressing; drink it. The midday pressing is for you alone, for no one else. Since the two pressings are mentioned separately, the third pressing remains. At the third pressing drink together with the Ribhus, givers of delightful gifts (रत्नधेभिः (*ratnadhebhiḥ*)), whom, O Indra, you made your friends by their good work.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यश्व (*haryaśva*)—possessing horses named Hari
+- इंद्र (*iṃdra*)—O Indra
+- प्रातः (*prātaḥ*)—at the morning pressing
+- सुतं (*sutaṃ*)—the pressed Soma
+- आपिबः (*āpibaḥ*)—drink
+- माध्यंदिनं (*mādhyaṃdinaṃ*)—pressed at the midday pressing
+- सवनं (*savanaṃ*)—the Soma
+- केवलं ते (*kevalaṃ te*)—only for your drinking, not to belong to anyone else (but at the third pressing only)
+- यान् (*yān*)—which Ribhus
+- सुकृत्या (*sukṛtyā*)—by their excellent deeds
+- सखीन् (*sakhīn*)—as your friends
+- चकृषे (*cakṛṣe*)—you have made, such
+- रत्नधेभिः (*ratnadhebhiḥ*)—givers of delightful wealth
+- ऋभुभिः (*ṛbhubhiḥ*)—with the Ribhus
+- सं पिबस्व (*saṃ pibasva*)—drink together
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, owner of horses named Hari, drink the Soma pressed at the morning pressing. The Soma pressed at the midday pressing is for your drinking alone and is not to belong to anyone else. But at the third pressing only, drink in company with the Ribhus, givers of wealth, whom you have made your friends by their excellent deeds.
+
+##### English translation (H. H. Wilson)
+Drink, lord of horses, Indra, the libation offered at dawn; the noon-day libation is alone for you; but (in the evening) drink with the munificent Ribhus, whom, Indra, you have made your friends by good deeds.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये दे॒वासो॒ अभ॑वता सुकृ॒त्या श्ये॒नाइ॒वेदधि॑ दि॒वि नि॑षे॒द ॥  
+> ते रत्नं॑ धात शवसो नपातः॒ सौध॑न्वना॒ अभ॑वता॒मृता॑सः ॥ ८ ॥
+
+> *ye devāso abhavatā sukṛtyā śyenāivedadhi divi niṣeda ‖*  
+> *te ratnaṃ dhāta śavaso napātaḥ saudhanvanā abhavatāmṛtāsaḥ ‖ 8 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 333. pp. 328-333 (batch API)
+**Progress note:** Done through printed p. 339. pp. 334-339 (batch API)
