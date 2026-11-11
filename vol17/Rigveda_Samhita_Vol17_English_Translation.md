@@ -31918,6 +31918,283 @@ You have subjugated Pipru and the mighty Mrigaya for the sake of Rijishwan, the 
 
 O Indra, when you became the bearer of your body near Sūrya the impeller, then your immortal, deathless form was distinctly known by those who know. Near the Sun all forms become dim, but not so Indra's form; the sense is that near the Sun Indra's form shone out distinctly. And further, O Indra, like a "hand-possessing beast" (हस्ती मृगो (*hastī mṛgo*), a particular kind of elephant), robbing, burning up, the strength of others, bearing weapons such as the thunderbolt, you became terrible, fearsome, like a lion.
 
+### Printed p. 948
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरः (*sūraḥ*)—of the sun, the impeller of all
+- उपाके (*upāke*)—in the proximity
+- तन्नं (*tannaṃ*)—your body
+- यत् (*yat*)—when
+- दधानः (*dadhānaḥ*)—you stand bearing (then)
+- अमृतस्य (*amṛtasya*)—of you who are free from death
+- ते (*te*)—your
+- वर्पः (*varpaḥ*)—form
+- वि चेति (*vi ceti*)—shines forth the more
+- हस्ती मृगो न (*hastī mṛgo na*)—like a forest elephant
+- तविषीं (*taviṣīṃ*)—the strength of enemies
+- उषाणः (*uṣāṇaḥ*)—diminishing
+- आयुधानि (*āyudhāni*)—weapons such as the thunderbolt
+- बिभ्रत् (*bibhrat*)—you who bear
+- सिंहो न (*siṃho na*)—like a lion
+- भीमः (*bhīmaḥ*)—you are terrible
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, before the sun, the impeller of all, all other lights grow dim. But when you stand bearing your radiant body, your deathless form shines forth still more. Diminishing the strength of enemies like a forest elephant, and holding weapons such as the thunderbolt, you are terrible like a lion.
+
+##### English translation (H. H. Wilson)
+While having (your) person in the proximity of the sun, your form becomes redolent of ambrosia, and you are like the cervine elephant, consum-ing the strength (of the strong), and are like a terrible lion when wielding your weapons.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ कामा॑ वसू॒यंतो॑ अग्म॒न्‌स्व॑र्मीळ्हे॒ न सव॑ने  ॒
+> चकानाः ।  
+> श्र॒व॒स्यवः॑ शशमा॒नास॑ उ॒क्षैरोको॒ न र॒ण्वा सु॒दृशी॑व पु॒ष्टिः॥
+
+> *iṃdraṃ kāmā vasūyaṃto agmansvarmīḷhe na savane*  
+> *cakānāḥ |*  
+> *śravasyavaḥ śaśamānāsa ukṣairoko na raṇvā sudṛśīva puṣṭiḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । कामाः । वसुयंतः । अग्मन् । स्वमीळ्हे । न । सवने । चकानाः ।  
+> श्रवस्यवः । शशमानासः । उक्षैः । ओकः । न । रण्वा । सुदृशीइव । पुष्टिः ॥ १५ ॥
+
+> *iṃdraṃ | kāmāḥ | vasuyaṃtaḥ | agman | svamīḷhe | na | savane | cakānāḥ |*  
+> *śravasyavaḥ | śaśamānāsaḥ | ukṣaiḥ | okaḥ | na | raṇvā | sudṛśīiva | puṣṭiḥ ‖ 15 ‖*
+
+### Printed p. 949
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कामा राक्षसादिभयनिवारणार्थमिंद्रं कामयमाना वसूयंतः पश्वादिधनमिच्छंतः स्तोतार इंद्रं परमैश्वर्ययुक्तमग्मन् । गच्छंति ॥ वर्तमानार्थे
+> छांदसो लुज् ॥ कीदृशाः स्तोतारः । स्वर्माळ्हे न युद्ध इव सवने यज्ञे
+> चकाना याचामानाः श्रवस्यवोऽन्नकामा उक्तैः स्तोत्रैः शशमानासः शंसमानाः
+> स्तुवंतः । तदा सोऽयमिंद्र ओको न स्तोत्कृणामावास इव भवति । रण्वा रमणीया सुदृशीव पुष्टिः शोभनदर्शना लक्ष्मीरिव भवति ॥
+
+##### Gist of the bhāṣya
+
+The worshippers (kāmāḥ), longing for Indra to ward off fears from demons and the like, and desiring wealth such as cattle (vasūyantaḥ), approach Indra, endowed with supreme lordship; अग्मन् (*agman*) means "they go", a Vedic luñ in the sense of the present. What kind of worshippers? Those who, as in battle, so in the sacrifice (savana), beg for help, desire food (śravasyavaḥ), and praise with hymns (ukthaiḥ). Then this Indra becomes like a dwelling (oka) for the worshippers, and like lovely Lakṣmī, of beautiful appearance, the goddess of nourishment (puṣṭi).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्मिळे न (*svarmiḷe na*)—as one trusts (Indra) in battle
+- सवने (*savane*)—in sacrifices too
+- चकानाः (*cakānāḥ*)—those who have taken refuge in him
+- श्रवस्यवः (*śravasyavaḥ*)—those desiring food
+- कामाः (*kāmāḥ*)—those who look to him for protection
+- वसूयंतः (*vasūyaṃtaḥ*)—those desiring wealth; such worshippers
+- उक्थैः (*ukthaiḥ*)—with hymns
+- शशमानासः (*śaśamānāsaḥ*)—praising
+- इंद्रं (*iṃdraṃ*)—Indra, the lord
+- अग्मन् (*agman*)—approach (then Indra)
+- ओको न (*oko na*)—like a dwelling for the sacrificer
+- रण्वा (*raṇvā*)—charming
+- सुदृशीव (*sudṛśīva*)—like Lakṣmī, of beautiful nature
+- पुष्टिः (*puṣṭiḥ*)—becomes the giver of nourishment
+
+##### भावार्थ (Bhāvārtha)
+
+As one trusts Indra in battle, so in sacrifices too the worshippers who have taken refuge in him, desire food, look to him for protection and desire wealth, approach Indra the lord, praising him with hymns. Then Indra becomes a protector for the sacrificer like a dwelling, and a giver of nourishment like charming, beautiful Lakṣmī.
+
+##### English translation (H. H. Wilson)
+Relying (upon Indra) for protection, and desirous of riches, (pious men) repair to him soliciting his presence in the sacrifice, as if in the battle ; asking for food, celebrating his praise with hymns, for he is the refuge (of his worshippers), and resembles the grateful and lovely (goddess) of nutrition.
+
+### Printed p. 950
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्व॒ इंद्रं॑ सु॒हनं॑ हुवेनु॒ यस्त्या च॒कार॒ नर्या॑ पु॒रूणि॑।  
+> यो माव॑ते जरि॒त्रे गध्यं॑ चिन्म॒क्षू वाजं॒ भर॑ति स्पा॒र्हरा॑धाः॥
+
+> *tamidva iṃdraṃ suhanaṃ huvenu yastyā cakāra naryā purūṇi|*  
+> *yo māvate jaritre gadhyaṃ cinmakṣū vājaṃ bharati spārharādhāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । वः । इंद्रं । सुहवं । हुवेम । यः । ता । चकार । नर्या । पुरूणि ।  
+> यः । मावते । जरित्रे । गध्यं । चित् । मक्षु । वाजं । भरति । स्पार्हराधाः ॥ १६ ॥
+
+> *taṃ | it | vaḥ | iṃdraṃ | suhavaṃ | huvema | yaḥ | tā | cakāra | naryā | purūṇi |*  
+> *yaḥ | māvate | jaritre | gadhyaṃ | cit | makṣu | vājaṃ | bharati | spārharādhāḥ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो नर्या नर्याणि मनुष्यहितानि पुरूणि बहूनि ता तानि प्रसिद्धानि
+> कर्माणि चकार । अकरोत् । किंच स्वाहर्हराधाः स्पृहणीयधनो य इंद्रो
+> मावते मत्सदृशाय जरित्रे स्तोत्रे गध्यं चित् ग्राह्यं संयोजनीयमपि वाजमन्नं मक्षु शीघ्रं भरति । आहरति । वयं स्तोतारो हे यजमाना वो युष्मभ्यं तमित्तमेवेंद्रं सुहवं शोभनमाह्वानं यथा भवति तथा हुवेनु । आह्वयामः !
+
+##### Gist of the bhāṣya
+
+Indra who did those many well-known deeds beneficial to men (naryā); and Indra of enviable wealth (svārharādhāḥ) who swiftly brings food, even such as is hard to obtain or acceptable (gadhyam), to a praiser like me (māvate): to that very Indra we, the praisers, O sacrificers, call for you with a fair invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- नर्या (*naryā*)—beneficial to men
+- पुरूणि (*purūṇi*)—of many kinds
+- ता (*tā*)—and well-known; those deeds
+- चकार (*cakāra*)—did
+- स्वार्हराधाः (*svārharādhāḥ*)—possessing desired riches
+- यः (*yaḥ*)—the Indra who
+- मावते (*māvate*)—to one like me
+- जरित्रे (*jaritre*)—the praiser
+- गध्यं चित् (*gadhyaṃ cit*)—most acceptable
+- वाजं (*vājaṃ*)—food
+- मक्षु (*makṣu*)—swiftly
+- भरति (*bharati*)—brings
+- तमित् इंद्रं (*tamit iṃdraṃ*)—that very Indra
+- सुहवं (*suhavaṃ*)—with an excellent invocation
+- हुवेम (*huvema*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, the Indra who did deeds beneficial to men, very famous and of many kinds, and who, possessing desired riches, swiftly brings most acceptable food to a praiser like me, that very Indra we pray and call with an excellent invocation.
+
+### Printed p. 951
+
+##### English translation (H. H. Wilson)
+Let us invoke that gracious Indra who has made so many things good for man; who, bestowing enviable opulence, quickly brings acceptable food to a worshipper like me.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्मा यदं॒तर॒शनिः॒ पता॑ति॒ कस्मि॑ञ्च्चूर मुहु॒के जना॑नां ।  
+> घो॒रा यद॑र्य॒ समृ॑ति॒र्भवा॒त्यध॑ स्मा नस्त॒न्वो॑ बोधि  ॒
+> गोपाः ॥ १७ ॥
+
+> *tigmā yadaṃtaraśaniḥ patāti kasmiñccūra muhuke janānāṃ |*  
+> *ghorā yadarya samṛtirbhavātyadha smā nastanvo bodhi*  
+> *gopāḥ ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मा । यत् । अंतः । अशनिः । पताति । कस्मिन् । चित् । शूर । मुहुके । जनानां ।  
+> घोरा । यत् । आर्य । संऋतिः । भवाति । अध । स्म । नः । तन्नः । बोधि । गोपाः॥
+
+> *tigmā | yat | aṃtaḥ | aśaniḥ | patāti | kasmin | cit | śūra | muhuke | janānāṃ |*  
+> *ghorā | yat | ārya | saṃṛtiḥ | bhavāti | adha | sma | naḥ | tannaḥ | bodhi | gopāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र यद्यदा कस्मिंश्चित्सर्वस्मिन्नपि जनानां मनुष्याणां
+> मुहुके मोहके युद्धेऽंतरस्माकु मध्यॆ तिग्मा तीक्ष्णाशनिः पताति । पतेत् । हे
+> अर्य स्वामिन्निंद्र यद्यदास्माकु शत्रुभिः सह घोरा भीमरूपा समृतियुद्धं
+> भवाति । भवेत् । अध तदानीं नोऽस्मदीयस्य तन्नः शरीरस्य गोपा रक्षको बोधि
+> स्मै । अबोधि । शत्रुभ्यः सकाशादस्मान्रक्षकत्वेन बुद्धवानसि खलु ॥
+
+##### Gist of the bhāṣya
+
+O heroic Indra, when in any bewildering (muhuke) battle of men a sharp thunderbolt falls among us, and when, O lord (arya), a terrible battle with enemies takes place, then you have been known by us as the protector of our bodies (tanvaḥ); बोधि स्म (*bodhi sma*) is "you have understood" — you have indeed shown yourself our protector against enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- अर्य (*arya*)—O Indra, lord
+- यत् (*yat*)—when
+- जनानां (*janānāṃ*)—arisen among men
+- कस्मिंश्चित् मुहुके (*kasmiṃścit muhuke*)—in whatever battle
+- अंतः (*aṃtaḥ*)—in the midst of us who fight
+- तिग्मा (*tigmā*)—sharp
+- अशनिः (*aśaniḥ*)—your thunderbolt
+- पताति (*patāti*)—if it falls
+- अध (*adha*)—at that time
+- नः (*naḥ*)—our
+- तन्नः (*tannaḥ*)—of bodies
+- गोपाः (*gopāḥ*)—as protector
+- बोधि स्म (*bodhi sma*)—are you not the one who is known?
+
+### Printed p. 952
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, lord, in whatever battle arisen among us men, if your sharp thunderbolt falls among us warriors, at that time you are known as the protector of our bodies, so as to cause your weapon not to fall on us, are you not?
+
+##### English translation (H. H. Wilson)
+Hero, Indra, when in any conflict of men the sharp thunderbolt falls in the midst (of them), and when, lord, there is a terrible battle, then the defender of our persons is made known.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुवो॑ऽवि॒ता वा॒मदे॑वस्य धी॒नां भुवः॒ सखा॑वृ॒को वाज॑सात्  
+> त्वामनु॒ प्रम॑ति॒मा ज॑गन्मोरु॒शंसो॑ जरि॒त्रे वि॒श्वध॑ स्याः ॥१८॥
+
+> *bhuvo 'vitā vāmadevasya dhīnāṃ bhuvaḥ sakhāvṛko vājasāt*  
+> *tvāmanu pramatimā jaganmoruśaṃso jaritre viśvadha syāḥ ‖18‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवः । अविता । नाम्यदेवस्य । धीनां । भुवः । सखा । अवृकः । वाजसाता ।  
+> त्वां । अनु । प्रमतिं । आ । जगन्म । उरुशंसः । जरित्रे । विश्वध । स्याः ॥ १८ ॥
+
+> *bhuvaḥ | avitā | nāmyadevasya | dhīnāṃ | bhuvaḥ | sakhā | avṛkaḥ | vājasātā |*  
+> *tvāṃ | anu | pramatiṃ | ā | jaganma | uruśaṃsaḥ | jaritre | viśvadha | syāḥ ‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वामदेवस्य वामदेवाख्यस्य मंत्रद्रष्टुर्मम संबंधिनीनां
+> धीनां कर्मणामविता रक्षिता भुवः । भव । अवृको हिंसारहितस्त्वं वाजसात्
+> युद्धे सखा मम सुहृद्भुवः । भव । हे इंद्र वयं प्रमतिं प्रकृष्टज्ञानं
+> त्वामनु लक्ष्मीकृत्या जगन्म । आगच्छाम । स त्वं विश्वध सर्वदा जरित्रे स्तोत्र उरुरंसो महता शंसनेन युक्तः स्याः । भवेः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, be the protector of the acts (dhīnām) of me, the seer named Vāmadeva; be, harmless as you are, my friend in battle (vājasāt). O Indra, we come toward you (anu), of excellent wisdom (pramati), making you our aim. May you always be endowed with great praise (uruśaṃsaḥ) for the praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वामदेवस्य (*vāmadevasya*)—of me, Vāmadeva
+- धीनां (*dhīnāṃ*)—of the acts
+- अविता (*avitā*)—as protector
+- भुवः (*bhuvaḥ*)—be
+- अवृकः (*avṛkaḥ*)—you who are free from harming
+- वाजसात् (*vājasāt*)—in battle
+- सखा (*sakhā*)—
+
+### Printed p. 953
+- (सखा (*sakhā*) continued) as a friend to me
+- भुवः (*bhuvaḥ*)—be
+- प्रमतिं (*pramatiṃ*)—possessing excellent wisdom
+- त्वां अनु (*tvāṃ anu*)—aiming at you
+- आ जगन्म (*ā jaganma*)—we come near you
+- विश्वध (*viśvadha*)—always
+- जरित्रे (*jaritre*)—to me the praiser
+- उरुशंसः (*uruśaṃsaḥ*)—endowed with praiseworthy favour
+- स्याः (*syāḥ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be the protector of the acts of me, Vāmadeva. Harmless as you are, be my friend. Aiming at you, who have excellent wisdom, we come near you. For me, the praiser, be always endowed with praiseworthy favour.
+
+##### English translation (H. H. Wilson)
+Be the protector of the pious acts of Vamadeva; be in battle an unfailing friend: we come to you, eminent in wisdom; may you bc ever benignant to your praiser.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒भिन्नृभि॑रिंद्र त्वा॒युभि॑ष्टा म॒घव॑द्भिर्मघव॒न्विश्व॑ आ॒जौ ।  
+> द्यावो॒ न द्यु॒म्नैर॒भि संतो॑ अ॒र्यः क्ष॒पो म॑देम श॒रद॑श्च  ॒
+> पोर्वीः ॥ १९ ॥
+
+> *ebhinnṛbhiriṃdra tvāyubhiṣṭā maghavadbhirmaghavanviśva ājau |*  
+> *dyāvo na dyumnairabhi saṃto aryaḥ kṣapo madema śaradaśca*  
+> *porvīḥ ‖ 19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एभिः । नृभिः । इंद्र । त्वायुभिः । त्वा । मघवत्भिः । मघवन् । विश्वे : आजौ ।  
+> द्यावः । न । द्युम्नैः । अभि । संतः । अर्यः । क्षपः । मवेम । शरवः । च । पूर्वीः ।
+
+> *ebhiḥ | nṛbhiḥ | iṃdra | tvāyubhiḥ | tvā | maghavatbhiḥ | maghavan | viśve : ājau |*  
+> *dyāvaḥ | na | dyumnaiḥ | abhi | saṃtaḥ | aryaḥ | kṣapaḥ | mavema | śaravaḥ | ca | pūrvīḥ |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन्निंद्र विश्वे विश्वस्मिन्नाजौ संग्रामे त्वायुभिः शत्रुजयार्थं
+> त्वां कामयमानैर्मघवद्भिस्त्वदर्थं दीयमानहनिर्लक्षणैर्धनैरुपेतैरेभिः प्रत्यक्षेणोपलभ्यमानैनृभिः पुत्रपौत्राद्यैः परिजनैः सहिता वयं यजमाना द्युम्नैर्धनैर्द्यावो न द्योतमानाः प्रकाशमाना धनिनो यथा तथार्योऽरीन् शत्रु-
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, in every battle (āji), we the sacrificers, accompanied by these visible men (nṛbhiḥ), sons, grandsons and other attendants, who desire you for victory over enemies (tvāyubhiḥ) and are endowed with wealth in the form of oblations given for you (maghavadbhiḥ), shine with riches (dyumnaiḥ) like the heavens (dyāvaḥ), like shining wealthy men, and … the enemies (aryaḥ) … (the sentence breaks off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 947. pp. 942-947 (batch API)
+**Progress note:** Done through printed p. 953. pp. 948-953 (batch API)
