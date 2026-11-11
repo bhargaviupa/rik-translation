@@ -19582,6 +19582,152 @@ Grant to us, Indra and Brihaspati, riches comprising a hundred (cattle), a thous
 
 सुते (*sute*): when the Soma has been pressed; गीर्भिः (*gīrbhiḥ*): with praises. The rest has been explained.
 
+### Printed p. 494
+#### Ṛk 5 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- सुते (*sute*)—when the Soma juice has been pressed and made ready (for you)
+- वयं (*vayaṃ*)—we
+- अस्य सोमस्य (*asya somasya*)—of this Soma
+- पीतये (*pītaye*)—for the drinking
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, we have pressed and prepared this Soma for you. For its drinking we pray to you and call you with words of praise.
+
+##### English translation (H. H. Wilson)
+Indra and Brishaspati, we invoke you with praisas, when the libation is effused, to drink of this Soma juice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑मिंद्राबृहस्पती॒ पिब॑तं दा॒शुषो॑ गृ॒हे ।  
+> मा॒दये॑थां॒ तदो॑कसा ॥ ६ ॥
+
+> *somamiṃdrābṛhaspatī pibataṃ dāśuṣo gṛhe |*  
+> *mādayethāṃ tadokasā ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमं । इंद्राबृहस्पती इति । पिबतं । दाशुषः । गृहे ।  
+> मादयेथां । तत् ओकसा ॥ ६ ॥
+
+> *somaṃ | iṃdrābṛhaspatī iti | pibataṃ | dāśuṣaḥ | gṛhe |*  
+> *mādayethāṃ | tat okasā ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राबृहस्पती युवां दाशुषो हनिर्दातुर्यजमानस्य गृहे
+> तदोकसा । तदेव यजमानगृहमोको निवासस्थानं ययोस्त् । तादृशौ संतौ
+> सोमं पिबतं । पीत्वा च मादयेथामिति ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Bṛhaspati, you two are to drink Soma in the house of the दाशुषः (*dāśuṣaḥ*), that is, of the sacrificer who gives the oblation. तदोकसा (*tadokasā*): that very house of the sacrificer is your *okaḥ*, your dwelling-place; being such, drink the Soma, and having drunk, rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who gives the oblation
+- गृहे (*gṛhe*)—in the house
+- तदोकसा (*tadokasā*)—having made that very house your dwelling-place
+- सोमं (*somaṃ*)—the Soma juice
+- पिबतं (*pibataṃ*)—drink
+- मादयेथां (*mādayethāṃ*)—(and) rejoice
+
+### Printed p. 495
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, in the house of the sacrificer who gives the oblation, making that very house your dwelling-place, drink the Soma offered there, and express the joy that results from it.
+
+##### English translation (H. H. Wilson)
+Drink, Indra and Brihaspati, the Soma, in the dwelling of the donor, and be exhilarated in his abode.
+
+## Sūkta 50 (Maṇḍala 4)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction to the fiftieth sūkta. In verses 1–9 of this sūkta Bṛhaspati is praised. Here we have given a brief account of the deity Bṛhaspati.
+
+Yāska, explaining the etymology of the word Bṛhaspati in his Nirukta, says: बृहस्पतिः बृहतः साता ना सालयिता ना । (*bṛhaspatiḥ bṛhataḥ sātā nā sālayitā nā |*) (Ni. 10-11) **NOTE**. On this the commentator Durgācārya says: Bṛhaspati — why so called? बृहतः पाता वा पालयिता वा (*bṛhataḥ pātā vā pālayitā vā*); बृहतः महतोऽस्य जगतः उदकस्य वा पाता रक्षिता, पालयिता अपि रक्षितैव धात्वन्यत्वमर्थैकत्वं ॥ (*bṛhataḥ mahato 'sya jagataḥ udakasya vā pātā rakṣitā, pālayitā api rakṣitaiva dhātvanyatvamarthaikatvaṃ ‖*). That is: protector of this great world, or of water; the protector, the preserver. To convey the sense of the word "pati", words formed from different roots, pātā and pālayitā, are given, yet the meaning is only one, he says. In many places, when explaining "bṛhataḥ pātā", Sāyaṇa gives for the word बृहतः (*bṛhataḥ*) the meaning बृहतः यज्ञाख्यकर्मणः (*bṛhataḥ yajñākhyakarmaṇaḥ*) or वृष्ट्याख्यकर्मणः (*vṛṣṭyākhyakarmaṇaḥ*), that is, of the rite in the form of sacrifice, or of the act of bestowing rain. Since Bṛhaspati performs the sacrificial rite as priest of the gods, and since he brings about the rain necessary for men, both these epithets are natural. Describing Bṛhaspati's priesthood and his bestowal of rain, Yāska gives as example the ṛk युद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपॆयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा आयच्छत् ॥ (*yuddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpèyannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā āyacchat ‖*) (Ṛ. Saṃ. 10-98-7). In the explanation of this ṛk it is described, by बृहस्पतिर्ब्रह्मासीत् सोऽस्मै वाचमयच्छत् (*bṛhaspatirbrahmāsīt so 'smai vācamayacchat*), that Bṛhaspati became the priest called Brahmā in the sacrifice performed by the king Śantanu and taught him the mantra in the form of words, and that when the sacrificer praised with that mantra, rain came. Besides this, in the Yajurveda and elsewhere:
+
+बृहस्पतिर्देवानां पुरोहित आसीच्छंडामर्कावसुराणां । (*bṛhaspatirdevānāṃ purohita āsīcchaṃḍāmarkāvasurāṇāṃ |*) (Tai. Saṃ. 6-4-10-1). It says that Bṛhaspati was the priest of the gods, and that Śaṇḍāmarka were the priests of the asuras.
+
+ब्रह्म वै देवानां बृहस्पतिर्ब्रह्मण्यैवैनमभिचरति । (*brahma vai devānāṃ bṛhaspatirbrahmaṇyaivainamabhicarati |*) (Tai. Saṃ. 2-2-9-1).
+
+तस्मै विशः स्वयमेवा नमंते यस्मिन् ब्रह्मा राजनि पूर्व एति । (*tasmai viśaḥ svayamevā namaṃte yasmin brahmā rājani pūrva eti |*) (Ṛ. Saṃ. 4-51-8).
+
+अवस्यवे यो वरिवः कृणोति ब्रह्मणे राजा तमवंति देवाः ॥ (*avasyave yo varivaḥ kṛṇoti brahmaṇe rājā tamavaṃti devāḥ ‖*) (Ṛ. Saṃ. 4-50-9).
+
+सोमं राजानमवसेग्निं गीर्भिर्हवामहे । आदित्यान्विष्णुं सूर्यं ब्रह्माणं च बृहस्पतिं ॥ (*somaṃ rājānamavasegniṃ gīrbhirhavāmahe | ādityānviṣṇuṃ sūryaṃ brahmāṇaṃ ca bṛhaspatiṃ ‖*) (Ṛ. Saṃ. 18-141-3) **NOTE**.
+
+In ṛks such as these Bṛhaspati is described as a priest (ṛtvij).
+
+### Printed p. 496
+In the Ṛgveda Bṛhaspati has an important place. Besides being praised in eleven sūktas, in two sūktas (Ṛ. Saṃ. 4-49; 7-97) he is also praised as a dual deity together with Indra. The word Bṛhaspati occurs in the Ṛgveda about 120 times. In many places the deities Bṛhaspati and Brahmaṇaspati are praised interchangeably in one mantra, yet Bṛhaspati is one deity and Brahmaṇaspati another.
+
+Some Western scholars, and some among modern scholars too, have expressed the opinion that since in Ṛ. Saṃ. sūkta 2-23 Bṛhaspati and Brahmaṇaspati are praised interchangeably, both are one deity. But the ancient Veda commentators such as Yāska, Śaunaka and Sāyaṇa have stated clearly that Bṛhaspati is one and Brahmaṇaspati another.
+
+### Printed p. 497
+Of the 19 ṛks of the sūkta Ṛ. Saṃ. 2-23, only six, namely ṛks 1, 5, 9, 11, 17 and 19, praise Bṛhaspati. The remaining 13 ṛks are in favour of Brahmaṇaspati. Yāska too has given different etymologies for the word Bṛhaspati and for the word Brahmaṇaspati. Therefore Bṛhaspati is one and Brahmaṇaspati another.
+
+Bṛhaspati has a distinction wholly different from other deities. While all the other deities are special forms of nature or of the powers of nature, Bṛhaspati appears to belong to the sphere of man's moral and religious life. There are many examples in the Ṛgveda that this deity, protector of praise, hymn or prayer, exerts his influence on the resolve, intention or power of the gods' minds. In sūkta 98 of the tenth maṇḍala of the Ṛgveda there is a historical account concerning Devāpi and Śantanu, princes of the Kuru line. The Nirukta-writers describe in this way that Bṛhaspati's part in it is very important:
+
+अत्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरवा भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति ॥ (*atretihāsamācakṣate | devāpiścārṣṭiṣeṇaḥ śaṃtanuśca kauravā bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣecayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti ‖*) (Ni. 9-11).
+
+In former times, in the Kuru line, the king Ṛṣṭiṣeṇa had two sons, Devāpi and Śantanu. Of them Devāpi was the elder and Śantanu the younger. After their father Ṛṣiṣṭeṇa died, his elder son Devāpi wished to become king. But his younger brother Śantanu, not allowing this and wishing to be ruler of the kingdom himself, drove out his elder brother Devāpi and began to rule the kingdom himself. The elder brother Devāpi, distressed, fled to the forest and passed his time practising austerity. While matters stood so, no rain fell in his country for 12 years and a great famine came. Then king Śantanu considered what to do about it and asked the advice of the Brāhmaṇas. The Brāhmaṇas said to the king: According to the Dharmaśāstra the king's eldest son is the one entitled to the kingdom. Therefore the government should have been carried on by your elder brother Devāpi. But you did not allow it, you drove him out and
+### Printed p. 498
+seized the kingdom. Because you are thus practising unrighteousness, the god of rain does not rain in your kingdom. King Śantanu repented of the wrong he had done, summoned his elder brother Devāpi who was practising austerity in the forest, and handed the kingdom over to him. But Devāpi said that he did not want the kingdom, that he would practise austerity in the forest and follow the path of renunciation; he said that Śantanu should perform a sacrifice to remove the drought that had arisen in the kingdom, and that in it he himself would take the priesthood and help bring about rain. The king agreed, and Devāpi took the part of the ṛtvij called Hotṛ in his sacrifice. Bṛhaspati became the ṛtvij Brahmā. In that sacrifice, performed to bring about rain, the Hotṛ Devāpi addressed Bṛhaspati the Brahmā: "O Bṛhaspati, you have great influence over the minds of the gods. Therefore you must tell me the mantras that win them over." When he prayed thus, Bṛhaspati said "So be it" and taught the Hotṛ Devāpi the mantras containing prayers to the gods needed for the bringing of rain. When offering was made to the gods with those mantras, rain fell abundantly, it is said. Therefore this sūkta is also called the sūkta that desires rain. This matter, with some differences, is also told in the Purāṇa texts such as Viṣṇu Purāṇa 4-20-7, the Mahābhārata Ādiparvan, and Bhāgavata Purāṇa 9-22-14 to 17.
+
+In sūkta 108 of the tenth maṇḍala of the Ṛ. Saṃ. there is another narrative. The asuras called Paṇis had stolen the cows of the gods (the water-bearing clouds) and hidden them in an impregnable fortress. Indra sent Saramā, the dog of the gods, to search for it. Saramā came to the Paṇis, argued with them and asked them to give back the stolen cows. The Paṇis said: What is Indra's power? They themselves are great heroes and their weapons are very sharp; therefore the gods cannot conquer them, and the gods cannot find out the place where the cows are kept; so if Saramā left the gods' side and joined their band, they would give her the wealth and other things she wanted. Though urged in many ways, Saramā did not agree, returned from there and told the gods all of it. Then Bṛhaspati by his own power discovered the place where the cows had been hidden. Afterwards the gods subdued them and brought the cows back. Such is the narrative.
+
+In many such exploits Bṛhaspati's part is very important. In particular, his help is essential to help men when they need rain. This kind of prayer is seen especially in the sūktas addressed to Bṛhaspati.
+
+### Printed p. 499
+Let us examine closely what Bṛhaspati's qualities and achievements are, as described in the Ṛgveda. Bṛhaspati is born of Heaven and Earth, and it is by their greatness that he is nourished (Ṛ. Saṃ. 7-97-8). But in one place (2-23-17) it is said that Tvaṣṭṛ produced him. He is named father of the gods (2-26-3); it is also said that the gods were produced from him like sparks of fire flying from the blow of a smith's hammer (10-72-8).
+
+He is called Brahmā (the ṛtvij called Brahmā) (10-141-3). He is connected with the ṛtvijs (7-10-4; 10-14-3). He is also called Aṅgiras (4-40-1; 4-23-1; 10-47-6). He is the composer and utterer of words of praise, their lord and impeller (2-23-1, 2; 1-40-5; 10-98-7); by the mantra alone he accomplishes all his aims (2-24-3); mounting the blazing chariot called the sacrifice he sets out to conquer the enemies of the gods and of the praisers (2-23-3). He is nourisher and protector of the faithful and their guide; he saves them from calamities (2-23-4). He grants them wealth and the like (2-23-9). He is called the father of all the gods; he is endowed with all divine qualities (3-62-4; 4-50-6). He is of all forms; everything that all desire is in him (7-10-4, 7-97-4); he bears a golden spear (7-97-7); together with Indra he too is leader of armies (10-103-8); he increases life (10-100-5); plants arose from him (10-97-15 and 19); tawny horses are said to be his vehicle (Ni. 2-28).
+
+It is said that Bṛhaspati released Trita, who had been thrown into a well by demons and was calling on the gods for help, on hearing his cry of distress, from that perilous state (1-105-17), and that together with Indra Bṛhaspati made the water that had been enveloped in darkness flow again (2-23-18; 1-56-5).
+
+Bṛhaspati by his power broke the stone door of the well filled with honey. The gods drank that honey and rained abundantly (2-24-3, 4). When Bṛhaspati pierced the fortresses of Vala with rays spitting fire, the herds of cows became visible; he drove the cows out as one breaks an egg; seeing the honey (water) enclosed by rock, he split it with his lion-roar and brought it out (10-68-4 to 9). Bṛhaspati brought the cows out from the rocks; he seized the cows of Vala and made them his own (10-68-8).
+
+### Printed p. 500
+Bṛhaspati is distinguished by godhead (2-23-2); he is one's own to all the gods (3-62-4; 4-50-6); and he has more godhead than all the gods; in the form of a deity he gathers into himself all the gods and all things (2-24-11; 8-61-18). Being capable, he keeps the two ends of the earth far apart (4-50-1); the rising of the sun and moon one after the other is also a deed of his that can be imitated (17-68-10) **NOTE**. In the Taittirīya Saṃhitā (in the Yajurveda) a connection between Bṛhaspati and certain constellations is stated. Bṛhaspati is the deity of the constellation Puṣya (Tai. Saṃ. 4-4-10-1). In the Purāṇas and elsewhere Bṛhaspati is described as Vācaspati and as the presiding deity of a planet.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्तस्तंभेत्येकादशर्चं पंचमं सूक्तं वामदेवस्यार्षं त्रैष्टुभं ।
+> दशमी जगती । दशम्येकादश्याविंद्राबृहस्पतिदेवताके शिष्टा नव बार्हस्पत्यः। अत्रानुक्रमणिका । यस्तस्तंभैकादश बार्हस्पत्यमंत्ये ऐंद्रौ चोपांत्या जगती ॥
+> आभिप्लविकेषूक्षेषु तृतीयसवने ब्राह्मणाच्छंसिनः स्तोमवृद्दाविदं सूक्तमावापार्थं । तथा च सूत्रं । यस्तस्तंभ यो अद्रिभित् । आ. ७-९ । इति ॥ आद्ये बृहस्पतिसवने मरुत्वतीयनिष्केवल्ययोः सूक्तमुखीये । सूत्रितं च । यस्तस्तंभ
+> धुनेतय इति सूक्तमुखीये । आ. ९-५ । इति ॥
+> अनुवादवु— यस्तस्तंभ ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि ऐदनॆय सूक्तवु. इदरल्लि
+> हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; ई सूक्तद हत्तु मत्तु
+> हन्नॊंदनॆय ऋक्कुगळु इंद्राबृहस्पतिदेवताकवु. उळिद ऒंभत्तु ऋक्कुगळु बृहस्पतिदेवताकवु ;
+> हत्तनॆय ऋक्कु जगतीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—
+> यस्तस्तंभैकादश बार्हस्पत्यमंत्ये ऐंदौ चोपांत्या जगती ऎंदु हेळिरुवुदु.
+> अभिप्लवसंबंधवाद उक्षयागदल्लि तृतीयसवनकालदल्लि ब्राह्मणाच्छंसियॆंब ऋत्विजनु स्तोम
+> वृद्धिगागि पठिसुव सूक्तगळल्लि ई सूक्तवन्नु आवापार्थवागि (हॆच्चिसुवुदक्कागि) उपयोगिसबेकॆंदु
+> आश्वलायनशौतसूत्रद यस्तस्तंभ यो अद्रिभित् ऎंब सूत्रदिंद (आ. ७-९) विवृतवागिरुवुदु.
+> मत्तु ई सूक्तद मॊदलनॆय ऎरडु ऋक्कुगळन्नु बृहस्पतिसवनवॆंब यागदल्लि पठिसुव मरुत्वतीय
+> निष्केवल्यशस्त्रमंत्रगळ प्रारंभदल्लि पठिसबेकॆंदु आश्वलायनशौतसूत्रद— यस्तस्तंभ धुनेतॆय
+> इति सूक्तमुखिये ऎंब सूत्रदिंद (आ. ९-५) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यस्तस्तंभ (*yastastaṃbha*) is the fifth sūkta, of eleven ṛks; its seer is Vāmadeva and its metre is Triṣṭubh, but the tenth ṛk is Jagatī. The tenth and eleventh ṛks have Indra and Bṛhaspati as deities; the remaining nine are addressed to Bṛhaspati. Sāyaṇa quotes the Anukramaṇikā: यस्तस्तंभैकादश बार्हस्पत्यमंत्ये ऐंद्रौ चोपांत्या जगती (*yastastaṃbhaikādaśa bārhaspatyamaṃtye aiṃdrau copāṃtyā jagatī*).
+
+Use: in the Abhiplava ukthya rites, at the third pressing, among the sūktas recited by the Brāhmaṇācchaṃsin for the increase of the stoma, this sūkta is to be used as an insertion (āvāpa); and the sūtra says यस्तस्तंभ यो अद्रिभित् (*yastastaṃbha yo adribhit*) (Ā. 7-9). In the first Bṛhaspatisava, the Marutvatīya and Niṣkevalya śastras are to begin with the first two ṛks of the sūkta (as sūktamukhīya); and it is laid down in the sūtra यस्तस्तंभ धुनेतय इति सूक्तमुखीये (*yastastaṃbha dhunetaya iti sūktamukhīye*) (Ā. 9-5).
+
+##### English translation (H. H. Wilson)
+The Kannada Anuvāda within the block states the same: this sūkta is the fifth in the fifth anuvāka, with eleven ṛks; the seer is Vāmadeva; ṛks 10 and 11 are for Indra and Bṛhaspati and the other nine for Bṛhaspati; the tenth ṛk is in Jagatī and the others in Triṣṭubh; the Anukramaṇikā is quoted; the use in the Ukthya of the Abhiplava at the third pressing is explained by the Āśvalāyana Śrautasūtra (Ā. 7-9); and the use of the first two ṛks in the Bṛhaspatisava, at the beginning of the Marutvatīya Niṣkevalya śastra, by Ā. 9-5.
+
 ---
 
-**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
+**Progress note:** Done through printed p. 500. pp. 494-500 (batch API)
