@@ -18836,6 +18836,116 @@ Keśin, that is, the Sun, radiant and of the nature of rays, bears fire and wate
 यज्योतिरमृतं ब्रह्म यद्योगात्समुपाश्नुते । तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः ॥ (*yajyotiramṛtaṃ brahma yadyogātsamupāśnute | tajjñānamabhituṣṭāva sūktenātha bṛhaspatiḥ ‖*)
 (Bṛ. De. 7-109)
 
+### Printed p. 610
+
+Knowledge is the light that reveals the nature of Brahman. Only with its help is direct realisation of Brahman, whose form is light, possible. The Bṛhaddevatā states that Bṛhaspati (Ṛ. Saṃ. 10-71) praised that very light.
+
+यत्र ज्योतिरजस्रं यस्मिल्लोके स्वर्हितं । तस्मिन् मां धेहि पवमानामृते लोके अक्षित इंद्रायेंदो परि स्रव ॥ (*yatra jyotirajasraṃ yasmilloke svarhitaṃ | tasmin māṃ dhehi pavamānāmṛte loke akṣita iṃdrāyeṃdo pari srava ‖*) (Ṛ. Saṃ. 9-113-7)
+
+In Śruti passages such as this too there is a description of the nature of Brahman as light. The purport of the above passages is that this Brahman, whose form is light, shines in the three worlds, Bhūḥ, Bhuvaḥ and Svaḥ, in three forms: Agni, Vāyu and Āditya. These three lights are also indicated by other names:
+
+अग्निर्वायुरादित्यः कालो यः प्राणोऽन्नं ब्रह्मारुद्रो मिष्णुरित्येकेऽन्य मभिध्यायंति ...॥ (*agnirvāyurādityaḥ kālo yaḥ prāṇo 'nnaṃ brahmārudro miṣṇurityeke 'nya mabhidhyāyaṃti ...‖*) (Maitrī Upaniṣad 4-5)**NOTE**
+
+Some worship and indicate the three forms of this supreme light as Agni, Vāyu and Āditya; some as Kāla, Prāṇa and Anna; some as Brahmā, Rudra and Viṣṇu. If one asks which of these is the best and truly real, the praise in the Maitrī Upaniṣad is that the principle called Turīya, which is beyond all these embodied forms, is the Supreme Brahman. It was stated above that this is the fourth quarter of the Supreme Principle called Gāyatra. Describing these four quarters in the Bṛhadāraṇyaka, it praises thus: तस्या उपस्थानं गायत्रैकपदी, द्विपदी, त्रिपदी, चतुष्पद्यपदसि न हि पद्यसे । नमस्ते तुरीयाय दर्शताय पदाय परोरजसे (*tasyā upasthānaṃ gāyatraikapadī, dvipadī, tripadī, catuṣpadyapadasi na hi padyase | namaste turīyāya darśatāya padāya parorajase*) (Bṛ. U. 5-14-7). These four quarters, and the special meanings of epithets such as परोरजसे (*parorajase*), were explained above.
+
+**22. The embodied forms of Brahman, whose form is the supreme light (the divisions of the Vyāhṛtis beginning with Bhūḥ)**
+
+Just as it has been described how the Supreme Brahman, whose form is the supreme light, has evolved into the forms of light such as Agni, so it is stated in many places that the Praṇava, which consists of the Vyāhṛtis, has also evolved into the three worlds beginning with Bhūḥ, which are the support of the lights Agni, Vāyu and Āditya. And it is also settled that this Praṇava is none other than the Supreme Brahman. The Supreme Brahman, whose nature is Praṇava,
+
+### Printed p. 611
+
+evolving in three ways and being called by other names suited to each place and time and to its nature, and being praised as of the nature of the Supreme Brahman by the Gāyatrī called Sāvitrī, is clearly stated in the Maitrī Upaniṣad. From this it is also clearly understood that the Gāyatrī consisting of the Vyāhṛtis and the Praṇava consisting of the Vyāhṛtis are other names of one Brahman-principle whose form is light. उपासीत ओमित्येतदक्षरेण व्याहृतिभिः सावित्रा चेति (*upāsīta omityetadakṣareṇa vyāhṛtibhiḥ sāvitrā ceti*) (3-62-10): one should meditate with the Vyāhṛtis, with the Praṇava and with the recitation of the Sāvitrī, and so attain realisation of Brahman. That Brahman-principle which is thus praised is described as having evolved in the form of the Vyāhṛtis and in the form of the Praṇava,**NOTE**, and is praised by the Gāyatrī.
+
+द्वे नाव ब्रह्मणो रूपे मूर्तं चामूर्तं चाथ तदसत्यं यदमूर्तं तत्सत्यं तद्ब्रह्म तज्योतिः यज्योतिः स आदित्यः स वा एष ओमित्येतदात्माभवत् स त्रेधात्मानं व्यकुरुता ओमिति तिस्रो मात्रा एताभिः सर्वमिदमोतं प्रोतं चैवास्मीत्येवं ह्याहैतद्वा आदित्य ओमित्येवं ध्यायत आत्मानं युंजीतेति ॥ (*dve nāva brahmaṇo rūpe mūrtaṃ cāmūrtaṃ cātha tadasatyaṃ yadamūrtaṃ tatsatyaṃ tadbrahma tajyotiḥ yajyotiḥ sa ādityaḥ sa vā eṣa omityetadātmābhavat sa tredhātmānaṃ vyakurutā omiti tisro mātrā etābhiḥ sarvamidamotaṃ protaṃ caivāsmītyevaṃ hyāhaitadvā āditya omityevaṃ dhyāyata ātmānaṃ yuṃjīteti ‖*) (Mai. U. 6-3)**NOTE**
+
+Brahman has two forms: embodied and unembodied. The embodied is unreal; the unembodied is real. That is Brahman, real and of the form of light. This light is Āditya. For this Brahman, who is of the form of light and of the nature of Āditya, the Praṇava, the syllable Oṃ, is the Self. (As it is said in the Bṛhadāraṇyaka that Brahman evolved into three forms, Agni, Āditya and Vāyu, here too the same kind of division is stated.) This Praṇava has three forms: the letter a, the letter u and the letter m. By these parts of the Praṇava, a, u and m, the whole world is woven together like warp and woof (ota and prota). For that very reason Āditya, who is the Self of the universe, should be worshipped as of the nature of the Praṇava.
+
+In the embodied form the nature of this Praṇava is threefold. These portions may also be called the limbs of the Supreme Self. Their forms are as follows:
+
+अथान्यत्राप्युक्तं स्वनवत्येषास्य तनूर्या ओमिति (*athānyatrāpyuktaṃ svanavatyeṣāsya tanūryā omiti*) (Ā. U. Ma.)**NOTE**
+
+अथ स्त्री, पुं, नपुंसक इति .... .... लिंगवत्येषा (*atha strī, puṃ, napuṃsaka iti .... .... liṃgavatyeṣā*)
+
+अथ अग्निः, वायुः, आदित्य इति .... .... भास्वत्येषा (*atha agniḥ, vāyuḥ, āditya iti .... .... bhāsvatyeṣā*)
+
+अथ ब्रह्म, रुद्रो. विष्णुरिति .... .... अधिपतिवत्येषा (*atha brahma, rudro. viṣṇuriti .... .... adhipativatyeṣā*)
+
+अथ गार्हपत्यो दक्षिणाग्निराहवनीय इति .... मुखवत्येषा (*atha gārhapatyo dakṣiṇāgnirāhavanīya iti .... mukhavatyeṣā*)
+
+अथ ऋग्यजुः सामेति .... .... विज्ञानवत्येषा (*atha ṛgyajuḥ sāmeti .... .... vijñānavatyeṣā*)
+
+### Printed p. 612
+
+अथ भूः, भुवः, स्वः इति (*atha bhūḥ, bhuvaḥ, svaḥ iti*) …. …. लोकवत्येषा (*lokavatyeṣā*)
+
+अथ भूतं भव्यं भविष्यदिति (*atha bhūtaṃ bhavyaṃ bhaviṣyaditi*) …. …. कालवत्येषा (*kālavatyeṣā*)
+
+अथ प्राणोऽग्निस्ूर्य इति (*atha prāṇo 'gnisūrya iti*) …. …. प्रतापवत्येषा (*pratāpavatyeṣā*)
+
+अथ अन्नमापश्चंद्रमा इति (*atha annamāpaścaṃdramā iti*) …. …. आप्यायनवत्येषा (*āpyāyanavatyeṣā*)
+
+अथ बुद्धिर्मनोऽहंकार इति (*atha buddhirmano 'haṃkāra iti*) …. …. चेतनवत्येषा (*cetanavatyeṣā*)
+
+अथ प्राणोऽपानो व्यान इति (*atha prāṇo 'pāno vyāna iti*) …. …. प्राणवत्येषा (*prāṇavatyeṣā*)
+
+इत्यत ओमित्युक्तेनैताः प्रस्तुता अर्चिता अर्पिता भंवतीत्येवं .... .... .... ब्रह्मयदोमित्येतदक्षरमिति । (*ityata omityuktenaitāḥ prastutā arcitā arpitā bhaṃvatītyevaṃ .... .... .... brahmayadomityetadakṣaramiti |*) (Maitrī Upaniṣad 6-2)**NOTE**
+
+Female, male and neuter: this is the division by gender. Agni, Vāyu and Āditya: this is of the nature of light. Brahmā, Rudra and Viṣṇu: this is in the form of lordship. Gārhapatya, Dakṣiṇāgni and Āhavanīya: this is of the nature of the mouth. Ṛk, Yajus and Sāman: this is of the nature of knowledge. It is of the nature of the worlds as Bhūḥ, Bhuvaḥ and Svaḥ; of the nature of time as past, present and future; of the form of heat as Prāṇa, Agni and Sūrya; of the form of growth as Anna, Āpaḥ and Candramas; of the form of consciousness as Buddhi, Manas and Ahaṃkāra; and of the form of life-breath as Prāṇa, Apāna and Vyāna. For this very reason Brahman is to be worshipped in the form of the Praṇava. The whole world also has the nature of the Vyāhṛtis, which are the parts of the Praṇava. For this very reason this Brahman is to be worshipped by the mantra तत्सवितुः (*tatsavituḥ*), which is a prayer addressed to the deity Savitṛ.
+
+**23. The Vyāhṛtis, which are the forms of the world beginning with the earth, are the chief means of worshipping Brahman, the root of it**
+
+In the above explanation, and also in the section that follows, two points should be noted. First, that the three worlds beginning with the earth were produced by the utterance of the Vyāhṛtis beginning with Bhūḥ. Second, that for this very reason Brahman is to be worshipped by means of the Vyāhṛtis, which are of the nature of the Gāyatrī.
+
+अथाव्याहृतं वा इदमासीत् स सत्यं प्रजापतिस्तपस्तप्त्वा नुव्याहरदर्भुवस्स्वरित्येष्टैवास्य प्रजापतेः स्थविष्ठा तनूर्या लोकवतीति स्वरित्यस्याः शिरो नाभिर्भुवो भूः पादा आदित्यश्चक्षुः । चक्षुरायत्ता हि पुरुषस्य महती मात्रा चक्षुषा ह्ययं मात्राश्चरति सत्यं वै चक्षुरक्षिण्यवस्थितो हि पुरुष (*athāvyāhṛtaṃ vā idamāsīt sa satyaṃ prajāpatistapastaptvā nuvyāharadarbhuvassvarityeṣṭaivāsya prajāpateḥ sthaviṣṭhā tanūryā lokavatīti svarityasyāḥ śiro nābhirbhuvo bhūḥ pādā ādityaścakṣuḥ | cakṣurāyattā hi puruṣasya mahatī mātrā cakṣuṣā hyayaṃ mātrāścarati satyaṃ vai cakṣurakṣiṇyavasthito hi puruṣa*)
+
+### Printed p. 613
+
+सर्वार्थेषु चरत्येतस्मात् भूर्भुवः स्वरित्युपासीतानेन हि प्रजापतिर्विश्वात्मा विश्वचक्षुरिवोपासितो भवतीत्येवं ह्याहैषा वै .... .... तस्मादेषोपासीत ॥ (*sarvārtheṣu caratyetasmāt bhūrbhuvaḥ svarityupāsītānena hi prajāpatirviśvātmā viśvacakṣurivopāsito bhavatītyevaṃ hyāhaiṣā vai .... .... tasmādeṣopāsīta ‖*) (Mai. U. 6-6)
+
+In the beginning this universe was unmanifest. The Supreme Person, real in nature and in the form of Prajāpati, performed austerity and uttered: Bhūḥ (the earth), Bhuvaḥ (the atmosphere), Svaḥ (the world of Āditya). This is the gross form of Prajāpati, consisting of the universe. The world of Āditya is the head of this form; the atmosphere is the navel; the earth is the feet. The eye, the means of seeing everything, is of the form of Āditya. For this very reason Brahman is to be worshipped by the means consisting of the Vyāhṛtis Bhūḥ, Bhuvaḥ, Svaḥ. Brahman, in the form of Prajāpati, is the inner self of all worlds, the divine eye, and the one worshipped by the whole world. The Brahman in whom the whole universe is contained, in the form of Prajāpati, is to be worshipped by the Gāyatrī mantra, which is called Sāvitrī and is of the form of the Vyāhṛtis. Its method is as follows:
+
+तत्सवितुर्वरेण्यमित्यसौ ना आदित्यः सविता स वा एवं प्रवरणीय आत्मकामेनेत्याहुर्ब्रह्मवादिनः ॥ (*tatsaviturvareṇyamityasau nā ādityaḥ savitā sa vā evaṃ pravaraṇīya ātmakāmenetyāhurbrahmavādinaḥ ‖*)
+
+"That most worshipful great radiance of Savitṛ": who is that Savitṛ? Āditya, who shines in the heavenly world, is Savitṛ. The Brahmavādins have taught that a person who desires to contemplate the Self should worship this Savitṛ, knowing his nature.
+
+भर्गो देवस्य धीमहीति सविता वै देवस्ततो योऽस्य भर्गाख्यस्तं चिंतयामीत्याहुर्ब्रह्मवादिनः ॥ (*bhargo devasya dhīmahīti savitā vai devastato yo 'sya bhargākhyastaṃ ciṃtayāmītyāhurbrahmavādinaḥ ‖*)
+
+"May we know and meditate on the Bharga of that Savitṛ." This Savitṛ is the Supreme Brahman. The teaching of the Brahmavādins is that one should contemplate him.
+
+धियो यो नः प्रचोदयात् इति बुद्धयो वै धियः यो नः प्रचोदयादिति बुद्धयो वै धियस्ता योऽस्माकं प्रचोदयादित्याहुर्ब्रह्मावादिनः ॥ (*dhiyo yo naḥ pracodayāt iti buddhayo vai dhiyaḥ yo naḥ pracodayāditi buddhayo vai dhiyastā yo 'smākaṃ pracodayādityāhurbrahmāvādinaḥ ‖*) (Mai. U. 6-7)
+
+"May that same Savitṛ produce insight in us; may he give us the vitality to know the Bharga of Savitṛ": this is what one should pray, the Brahmavādins have said. Thus the Maitrī Upaniṣad gives an explanation in the form of a derivation of the Ṛk beginning तत्सवितुः (*tatsavituḥ*). It will be stated later among the special topics of this same mantra.
+
+### Printed p. 614
+
+**24. Direct realisation of this light, famed as the Bharga of Savitṛ, is possible only through meditation.**
+
+अथ यदतः पुरो दिवो ज्योतिर्दिप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेष्टिदं वाव तद्यदिदमस्मिन्नंतः पुरुषे ज्योतिः ॥ ( (*atha yadataḥ puro divo jyotirdipyate viśvataḥ pṛṣṭheṣu sarvataḥ pṛṣṭheṣvanuttameṣūttameṣu lokeṣṭidaṃ vāva tadyadidamasminnaṃtaḥ puruṣe jyotiḥ ‖ (*) (Chā. U. 3-13-7)
+
+The great light that shines in the highest world, beyond the heavenly world and beyond which there is no other world, is the very light that shines also in the lotus of the heart of man. The great radiance so described in the Chāndogya and other texts is praised here under the name of the Bharga of Savitṛ. This light is the supreme light of the Supreme Principle. For this reason it is indicated in the Brahmasūtra by the sūtra ज्योतिश्चरणाभिधानात् (*jyotiścaraṇābhidhānāt*) (Bra. Sū. 1-1-25). The objection that may be raised on this occasion, put by the opponent, and the answer given to it, were also stated above. The sūtra छंदोभिधानान्नेति चेन्न (*chaṃdobhidhānānneti cenna*) (1-1-26) was likewise explained above, showing that the Gāyatrī as metre is not merely of eight syllables, but that the Supreme Brahman itself is indicated by this metre.
+
+गायत्राख्यच्छंदोद्वारेण तदनुगते ब्रह्मणि चेतसोऽर्पणं चित्तसमाधानमनेन ब्राह्मणवाक्येन निगद्यते । (*gāyatrākhyacchaṃdodvāreṇa tadanugate brahmaṇi cetaso 'rpaṇaṃ cittasamādhānamanena brāhmaṇavākyena nigadyate |*) (Bra. Sū. 80. 1-1-25)**NOTE**
+
+It is understood that through the metre called Gāyatra one should wholly offer the mind to Brahman, who pervades it, and practise meditation of that nature. In the present prayer भर्गो देवस्य धीमहि (*bhargo devasya dhīmahi*) the word धीमहि (*dhīmahi*) conveys both knowledge and meditation. Sāyaṇa has given the purport of the word धीमहि (*dhīmahi*) as परब्रह्मात्मकं तेजः धैयतया मनसा धारयामः (*parabrahmātmakaṃ tejaḥ dhaiyatayā manasā dhārayāmaḥ*). In places such as शाधि यां देवतामुपास्ये (*śādhi yāṃ devatāmupāsye*)**NOTE** and तं पश्यते निष्कलं ध्यायमानः (*taṃ paśyate niṣkalaṃ dhyāyamānaḥ*) (Mu. U. 3-1-8)**NOTE**, the three roots उपास् (*upās*), विद् (*vid*) and धै (*dhai*) are all used in the sense of knowledge consisting of meditation. In the same way, when it says भर्गो देवस्य धीमहि (*bhargo devasya dhīmahi*), the purport is likewise meditation consisting of knowledge. But one must also understand how this meditation consisting of knowledge is possible through the Gāyatrī, and what its manner is.
+
+युंजते मन उत युंजते धियो विप्रा विप्रस्य बृहतो विपश्चितः । वि होत्रा दधे वयुनाविदेक इन्मही देवस्य सवितुः परिष्टुतिः ॥ (*yuṃjate mana uta yuṃjate dhiyo viprā viprasya bṛhato vipaścitaḥ | vi hotrā dadhe vayunāvideka inmahī devasya savituḥ pariṣṭutiḥ ‖*) (Ṛ. Saṃ. 5-81-1)**NOTE**
+
+### Printed p. 615
+
+In this meditation, which describes how the wise ṛṣis concentrate their minds and perform meditation on Savitṛ, everything that man is to meditate on is indicated. But what should the manner of this meditation be? What is its object? How is the Gāyatrī the chief means for this meditation directed to Brahman? Or how does realisation of Brahman, called Gāyatra, come from meditation in the form of the Gāyatrī?
+
+**25. The nature of the Praṇava, which is the means of meditation and consists of the Vyāhṛtis.**
+
+तज्योतिर्यज्योतिः स आदित्यः स वा एष ओमित्येतदात्माभवत् स त्रेधात्मानं व्यकुरुता ओमिति तिस्रो मात्रा एताभिः सर्वमिदमोतं प्रोतं चैवास्मीत्येवं ह्याहृतद्वा आदित्य ओमित्येवं ध्यायत आत्मानं युंजीतेति॥ (*tajyotiryajyotiḥ sa ādityaḥ sa vā eṣa omityetadātmābhavat sa tredhātmānaṃ vyakurutā omiti tisro mātrā etābhiḥ sarvamidamotaṃ protaṃ caivāsmītyevaṃ hyāhṛtadvā āditya omityevaṃ dhyāyata ātmānaṃ yuṃjīteti‖*) (Mai. U. 6-3)
+
+The light of Āditya described above evolved in the form of Oṃ. It became threefold. It was also stated above that the whole world is woven together, as warp and woof, by this Oṃkāra, which consists of the three Vyāhṛtis. Therefore realisation of this light of Āditya is possible only through the Praṇava, which consists of the Vyāhṛtis and of Oṃkāra and indicates the whole world beginning with Bhūḥ. By meditation of the nature of the Praṇava, the unity of all the worlds, though they are diverse, is also directly realised.
+
+एतत्तेजो यदसावादित्य ओमित्येतदक्षरस्य चैतत् तस्मादोमित्यनेनैतदुपासीताजस्रं इत्येकोऽस्य संबोधयिता ॥ (*etattejo yadasāvāditya omityetadakṣarasya caitat tasmādomityanenaitadupāsītājasraṃ ityeko 'sya saṃbodhayitā ‖*) (Mai. U. 6-4)
+
+Āditya, who is the one awakener (illuminator) of the whole universe and of the nature of the Praṇava, is to be known only through meditation in the form of Oṃkāra. But the relation between the Gāyatrī and the Praṇava, when they serve as the means of meditation, has been stated above. The nature of both is of the form of the Vyāhṛtis beginning with Bhū. Moreover the Praṇava is itself a part of the Gāyatrī.
+
+नवाक्षराणि गायत्र्यष्टौ तानि यान्यन्वाह प्रणवो नवमः ॥ (*navākṣarāṇi gāyatryaṣṭau tāni yānyanvāha praṇavo navamaḥ ‖*) (Śa. Brā. 3-4-1-15)
+
 ---
 
-**Progress note:** Done through printed p. 609. pp. 604-609 (batch API)
+**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
