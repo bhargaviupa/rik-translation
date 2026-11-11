@@ -15182,6 +15182,285 @@ I have made the praise of the god Dadhikrā, victorious, all-pervading and swift
 ##### English translation (H. H. Wilson)
 I have celebrated the praise of Dadhikra, the rapid and victorious steed : may he make our mouths fragrant, may he prolong our lives.
 
+### Printed p. 389
+## Sūkta 40 (Maṇḍala 4)
+
+> दधिक्राव्ण इदिति पंचर्चमष्टमं सूक्तं वामदेवस्यार्षं दाधिक्रं । आद्या
+> त्रिष्टुप् शिष्टा जगत्यः । हंसः शुचिषदित्येषा सूर्यदेवताका । तथा चानुक्रमणिका।
+> दधिक्राव्णः पंच चतस्रोऽंत्या जगत्तोऽंत्या सौरीति । सूक्तविनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This is the eighth sūkta of the fourth anuvāka and has five Ṛks. Its seer is Vāmadeva, and it is addressed to Dadhikrā. The first verse is in triṣṭubh and the rest are in jagatī. The Ṛk beginning हंसः शुचिषत् (*haṃsaḥ śuciṣat*) is addressed to Sūrya. The Anukramaṇikā says: दधिक्राव्णः पंच चतस्रोऽंत्या जगत्तोऽंत्या सौरीति (*dadhikrāvṇaḥ paṃca catasro 'ṃtyā jagatto 'ṃtyā saurīti*). The use of the sūkta in ritual is laiṅgika, that is, according to the characteristic marks of the verses.
+
+##### भावार्थ (Bhāvārtha)
+
+Anuvāda: This sūkta, beginning दधिक्राव्ण इत् (*dadhikrāvṇa it*), is the eighth sūkta in the fourth anuvāka. It has five Ṛks. Vāmadeva is its seer and Dadhikrā its deity. The first Ṛk of the sūkta is in the triṣṭubh metre; the remaining Ṛks are in the jagatī metre. In this sūkta the fifth Ṛk, हंसः शुचिषत् (*haṃsaḥ śuciṣat*), has Sūrya as its deity. The Anukramaṇikā says: दधिक्राव्णः पंच चतस्रोऽन्त्या जगत्योऽन्त्या सौरी इति (*dadhikrāvṇaḥ paṃca catasro 'ntyā jagatyo 'ntyā saurī iti*). The use of the sūkta is laiṅgika.
+
+##### विशेषविषयगळु (Special Topics)
+
+Particulars: Sūkta 40; Maṇḍala 4; Anuvāka 4; Aṣṭaka 3, Adhyāya 7, Varga 14. Number of Ṛks in the sūkta: 5. Seer: नामदेवः (*nāmadevaḥ*) **NOTE**. Deity: Ṛks 1–4 Dadhikrā; Ṛk 5 Sūrya. Metre: Ṛk 1 triṣṭubh; Ṛks 2–5 jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्रान्ण॒ इदु॒ नु च॑र्किराम॒ विश्वा॒ इन्मामु॒षसः॑ सूदयंतु।  
+> अ॒पाम॒ग्नेरु॒षसः॒ सूर्य॑स्य॒ बृह॒स्पते॑रांगिर॒सस्य॑ जि॒ष्णोः ॥ १ ॥
+
+> *dadhikrānṇa idu nu carkirāma viśvā inmāmuṣasaḥ sūdayaṃtu|*  
+> *apāmagneruṣasaḥ sūryasya bṛhaspaterāṃgirasasya jiṣṇoḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्राव्णः । इत् । ऊं इति । नु । चर्किराम । विश्वाः । इत् । मां । उषसः । सूदॆयंतु ।  
+> अपां । अग्नेः । उषसः । सूर्यस्य । बृहस्पतेः । अंगिरसस्य । जिष्णोः ॥ १ ॥
+
+> *dadhikrāvṇaḥ | it | ūṃ iti | nu | carkirāma | viśvāḥ | it | māṃ | uṣasaḥ | sūdèyaṃtu |*  
+> *apāṃ | agneḥ | uṣasaḥ | sūryasya | bṛhaspateḥ | aṃgirasasya | jiṣṇoḥ ‖ 1 ‖*
+
+### Printed p. 390
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दधिक्राव्य इदु एतन्नामकस्य देवस्यैव स्तुतिं नु क्षिप्रं चर्किराम । भृशं
+> करवाम । मां विश्वा इदुषसः सर्वा आपि ताः सूदयंतु । कर्मसु प्रेरयंतु ।
+> अहमप्यबादिदेवतानां स्तुतिं करवाणीति शेषः । तासामपि निवातभाक्त्वात्
+> स्तुतिरविरुद्धा ॥
+
+##### Gist of the bhāṣya
+
+Let us quickly make, that is, make abundantly, the praise of the god named Dadhikrāvan alone. May all the dawns too impel me, that is, urge me on in the rites. "May I too praise the deities of the waters and the rest" is the remainder to be supplied. Since they too are sharers of … **NOTE**, praise of them is not contradictory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दधिक्रान्न इदु (*dadhikrānna idu*)—the praise of the deity Dadhikrā alone
+- नु (*nu*)—quickly
+- चर्किराम (*carkirāma*)—let us recite
+- विश्वा इत् (*viśvā it*)—all
+- उषसः (*uṣasaḥ*)—the dawns also
+- मां (*māṃ*)—me
+- सूदयंतु (*sūdayaṃtu*)—may they impel (to the rite)
+- अदां (*adāṃ*)—of the waters
+- अग्नेः (*agneḥ*)—of Agni
+- उषसः (*uṣasaḥ*)—of Uṣas
+- सूरस्य (*sūrasya*)—of Sūrya
+- बृहस्पतेः (*bṛhaspateḥ*)—of Bṛhaspati
+- आंगिरसस्य (*āṃgirasasya*)—of the son of Aṅgiras
+- जिष्णोः (*jiṣṇoḥ*)—the printed gloss is damaged; it seems to say "this …; (see the praise of all these)" **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+At this time let us recite chiefly the praise of the deity Dadhikrā. May all the dawns impel me to this rite. In the same way let us recite the praise of the waters, of Agni, of Uṣas, of Sūrya, of Bṛhaspati, and of the son of Aṅgiras, Jiṣṇu **NOTE**.
+
+##### English translation (H. H. Wilson)
+May we repeatedly recite (the praise) of Dadhikravan: may all rising dawns excite me to the adoration of the waters, of Agni of Ushas, of Surya, of Brihaspati, and of Jihiw, the son of Angiras.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सत्वा॑ भरि॒षो ग॑वि॒षो मु॑वन्य॒शब्दप्र॒॑स्यादि॒ष उ॒षस॑स्तुरण्य॒सत् ।  
+> स॒त्योद्र॒वो द्र॑व॒रः प॑तंग॒रो द॑धि॒क्रावेष॒मूर्जं॒ स्व॑र्जनत् ॥ २ ॥
+
+> *satvā bhariṣo gaviṣo muvanyaśabdaprasyādiṣa uṣasasturaṇyasat |*  
+> *satyodravo dravaraḥ pataṃgaro dadhikrāveṣamūrjaṃ svarjanat ‖ 2 ‖*
+
+### Printed p. 391
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्वा । भरिषः । गोऽइषः । दुवन्यऽसत् । श्रवस्यात् । इषः । उषसः । तुरण्यऽसत् ।  
+> सत्यः । द्रवः । द्रवरः । पतंगरः । दधिkक्रावा । इषं । ऊर्जं । स्वः । जनत् ॥ २ ॥
+
+> *satvā | bhariṣaḥ | go 'iṣaḥ | duvanya 'sat | śravasyāt | iṣaḥ | uṣasaḥ | turaṇya 'sat |*  
+> *satyaḥ | dravaḥ | dravaraḥ | pataṃgaraḥ | dadhikkrāvā | iṣaṃ | ūrjaṃ | svaḥ | janat ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्वा गंता भरिषो भरणकुशलो गविषो गवां प्रेरक एष्टा ना दुवन्यसत् ।
+> दुवः परिचरणमिच्छंतो दुवन्याः । तेषु सीदतीति दुवन्यसत् । इष इष्यमाणाया
+> उषसः संबंधिनि काल इत्यर्थः । यद्वा । इष एष्टा एषणीयो वा । श्रवस्यात् ।
+> श्रवस्येत् । अन्नमिच्छेत् । किंच तुरण्यसत् । त्वरया सीदतीति तुरण्यसत् । सत्यः
+> सत्तु तायमानो द्रवो गंता द्रवरः प्रकृष्टवेगवान् पतंगरः । पतनेनोत्पलनेन पतनं पतंगः । तद्वान् पतंगरः । उक्तलक्षणो दधिक्रावा देव इषमन्नमूर्ज० बलं स्वः स्वर्ग० च जनत् । जनयेत् । उत्पादयेत् ॥
+
+##### Gist of the bhāṣya
+
+सत्वा (*satvā*) is the goer; भरिषः (*bhariṣaḥ*) is skilled in bearing; गविषः (*gaviṣaḥ*) is the impeller of cattle, the desirer. दुवन्यसत् (*duvanyasat*): दुवः (*duvaḥ*) is service; those who desire to serve are दुवन्याः (*duvanyāḥ*); he sits among them, hence दुवन्यसत् (*duvanyasat*). इषः (*iṣaḥ*) means: in the time connected with the dawn that is desired. Or else इषः (*iṣaḥ*) is the desirer, or the desirable one. श्रवस्यात् (*śravasyāt*) means "may he desire food". Further, तुरण्यसत् (*turaṇyasat*): he sits in haste. सत्यः (*satyaḥ*) is the one who stretches out the good; द्रवः (*dravaḥ*) is the goer; द्रवरः (*dravaraḥ*) has excellent speed; पतंगरः (*pataṃgaraḥ*): flying, by falling and rising, is पतंगः (*pataṃgaḥ*), and one who has it is पतंगरः (*pataṃgaraḥ*). The god Dadhikrāvan, of the nature thus described, would produce food, strength, and heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्वा (*satvā*)—one whose nature is to move about
+- भरिषः (*bhariṣaḥ*)—one with the power to bear the world
+- गविषः (*gaviṣaḥ*)—the giver of cattle
+- दुवन्यसत् (*duvanyasat*)—one who sits with the praiser; (such is) the god Dadhikrā
+- इषः (*iṣaḥ*)—of the desired
+- उषसः (*uṣasaḥ*)—at the time of dawn
+- श्रवस्यात् (*śravasyāt*)—may he desire the food in the form of the oblation
+- तुरण्यसत् (*turaṇyasat*)—one who appears swiftly
+- सत्यः (*satyaḥ*)—of the nature of truth
+- द्रवः (*dravaḥ*)—given to going
+- द्रवरः (*dravaraḥ*)—of exceeding speed in going
+- पतंगरः (*pataṃgaraḥ*)—one who leaps like a grasshopper
+- दधिक्रावा (*dadhikrāvā*)—the deity Dadhikrā
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—strength
+- स्वः (*svaḥ*)—heaven
+- जनत् (*janat*)—may he produce
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Dadhikrā, whose nature is to move about, who has the power to bear the world, who gives cattle, and who sits with the praiser, desire and accept the food in the form of the oblation at the time of the manifestation of the desired dawn. May the deity Dadhikrā, who appears swiftly, who is of the nature of truth, given to going, of exceeding speed in going, and who leaps like a grasshopper, produce food, strength, and heaven.
+
+##### English translation (H. H. Wilson)
+May Dadhikravan, the active, the cherisher, the giver of cattle, who abides with the devout, the swift-going be willing to accept (the sacrificial)
+
+### Printed p. 392
+food at the time of the desirable dawn : may he who is true, moving, rapid and leaping like a grasshopper, produce (for us) food, strength, heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॑स्य॒ द्रव॑तस्तुरण्य॒तः प॒र्णं न वेरनु॑ वाति प्रग॒र्धिनः॑ ।  
+> श्ये॒नस्ये॑व॒ ध्रज॑शो अंक॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः॥
+
+> *uta smāsya dravatasturaṇyataḥ parṇaṃ na veranu vāti pragardhinaḥ |*  
+> *śyenasyeva dhrajaśo aṃkasaṃ pari dadhikrāvṇaḥ sahorjā taritrataḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । अस्य । द्रवतः। तुरण्यतः । पर्णं । न । वेः । अनु । वाति । प्रगर्धिनः ।  
+> श्येनस्य इव । ध्रजतः । अंकसं । परि । दधिक्राव्णः । सह । ऊर्जा । तरित्रतः ॥ ३ ॥
+
+> *uta | sma | asya | dravataḥ| turaṇyataḥ | parṇaṃ | na | veḥ | anu | vāti | pragardhinaḥ |*  
+> *śyenasya iva | dhrajataḥ | aṃkasaṃ | pari | dadhikrāvṇaḥ | saha | ūrjā | taritrataḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च खलु द्रवतो गच्छतस्तुरण्यतस्वरमाणस्य प्रगर्धिनः प्रकर्षेणाभिकांक्षतोऽस्य देवस्य गतिं वेर्गंतुः पक्षिणः पर्णं न गमनं पत्रं वानुसृत्य
+> यथा वांत्यन्ये पक्षिणस्तद्वदनु वाति सर्वो वेगवान् जनः । सर्वेषामपि शीघ्रगामित्यर्थः । किंच ध्रजतो गच्छतस्तरित्रतस्तारयतोऽन्यान् ॥ अंतर्भावितण्यर्थोऽयं ॥ श्येनस्यॆवांकसं पादाधारमुरःप्रदेशं वा परि परित ऊर्जा बलेन
+> निमित्तेनान्नार्थं वा सहैकीभूय । संघेन गच्छंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, of this god who runs, goes, hastens, and eagerly strives forward, all swift people follow the going, as other birds follow the gait or wing of the leading bird; that is, he is the swiftest goer of all. Further, he goes onward and carries others across (the word has the causative sense within it). Around him, whose अंकसं (*aṃkasaṃ*) is, like a hawk's, the support for the feet or the region of the chest, they go together as one, by strength, for the sake of food, or in a company; this is the remainder to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- द्रवतः (*dravataḥ*)—one who goes ahead
+- तुरण्यतः (*turaṇyataḥ*)—one who is swift
+- प्रगर्धिनः (*pragardhinaḥ*)—one eager to reach the appointed place
+- अस्य दधिक्राव्णः (*asya dadhikrāvṇaḥ*)—of this god Dadhikrā, the going
+- वेः (*veḥ*)—of the leading bird
+- पर्णं न (*parṇaṃ na*)—as other birds follow the going
+- अनु वाति (*anu vāti*)—all men follow
+- ध्रजतः (*dhrajataḥ*)—one who advances
+- तरित्रतः (*taritrataḥ*)—one who protects others
+- शैनस्येव (*śainasyeva*)—like the hawk
+- अंकसं (*aṃkasaṃ*)—of this god, who has the chest region and is of horse form
+- परि (*pari*)—around
+- ऊर्चा (*ūrcā*)—by reason of strength
+- सह (*saha*)—all gather together and follow
+
+### Printed p. 393
+
+##### भावार्थ (Bhāvārtha)
+
+All people follow the going of this god Dadhikrā, who goes ahead, is swift, and is eager to reach the appointed place, as other birds follow the leading bird. All gather round this god, who protects all others and who is of horse form with a chest like the hawk's, and follow him together by reason of strength.
+
+##### English translation (H. H. Wilson)
+And after him who is quick-going, hastening, eager (to arrive at his goal, men) follow (as other birds pursue) the flight of a swift (bird) striving togethe to keep up by the side of Dadikravan the transporter (of others) as swift as a hawk.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्य वा॒जी क्षि॑प॒णिं तु॑रण्यति ग्री॒वायां॑ ब॒द्धो अ॑पिक॒क्ष  ॒॑
+> आसनि ।  
+> क्रतुं॑ दधि॒क्रा अनु॑ सं॒तवी॑त्वत्प॒थामंका॒स्यन्वा॒पनी॑फणत् ॥ ४ ॥
+
+> *uta sya vājī kṣipaṇiṃ turaṇyati grīvāyāṃ baddho apikakṣa*  
+> *āsani |*  
+> *kratuṃ dadhikrā anu saṃtavītvatpathāmaṃkāsyanvāpanīphaṇat ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्यः । वाजी । क्षिपणिं । तुरण्यति । ग्रीवायां । बद्धः । अपिकक्षे । आसनि ।  
+> क्रतुं । दधिक्राः । अनु । संतवीत्वत् । पथां । अज्कांसि । अनु । आपनीफणत् ॥ ४ ॥
+
+> *uta | syaḥ | vājī | kṣipaṇiṃ | turaṇyati | grīvāyāṃ | baddhaḥ | apikakṣe | āsani |*  
+> *kratuṃ | dadhikrāḥ | anu | saṃtavītvat | pathāṃ | ajkāṃsi | anu | āpanīphaṇat ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्य स वाजी वेजनवानश्वरूपो देवो ग्रीवायां गरणसाधनायां कंठे बद्धोऽपिकक्षे कक्षप्रदेश आसन्यास्ये च बद्धः । बद्धपल्यंकस्योक्तेषु
+> स्थानेषु पाशबंधाः संभवंति! एवं बद्धः सन् क्षिपणिं क्षेपणमनु तुरण्यति। त्वरयति
+> गंतुं । किंचायं दधिक्रा देवः क्रतुं कर्म प्रज्ञां वान्वनुसृत्य संतवीत्वत्
+> प्रवृद्धबलवान् सन् पथां मार्गाणामंकांसि कुटिलान्यनुसृत्यापनीफणत् ।
+
+##### Gist of the bhāṣya
+
+And that Vāji, the god in horse form who has speed, is bound at the neck (the instrument of swallowing), at the armpit region, and at the mouth; for a bound steed has fastenings in the places named. Thus bound, he hastens his क्षिपणिं (*kṣipaṇiṃ*), that is, his kicking; he urges himself on to go. Moreover this god Dadhikrā, following the rite (or the wisdom), grown mighty in strength, follows the bends of the paths and goes vigorously
+
+### Printed p. 394
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वतो भृशं गच्छति ॥ फणतेर्गत्यर्थस्य यज्लुकीदं रूपं ॥ अपि स वाजी
+> वेजनवानित्यादिनिरुक्तमनुसंधेयं ॥ नि. २-२८ ॥
+
+##### Gist of the bhāṣya
+
+in every direction. This form of the root फण (*phaṇa*), which has the sense of going, is a yaṅluk form. The Nirukta, beginning *api sa vājī vejanavān* and so on, is to be consulted (Ni. 2-28).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्यः (*syaḥ*)—the well-known
+- वाजी (*vājī*)—in horse form; the god Dadhikrā
+- ग्रीवायां (*grīvāyāṃ*)—at the neck
+- अपिकक्षे (*apikakṣe*)—and at the armpit region
+- आसनि (*āsani*)—and at the mouth region
+- बद्धः (*baddhaḥ*)—being bound
+- क्षिपणिं (*kṣipaṇiṃ*)—his own kicking
+- अनु तुरण्यति (*anu turaṇyati*)—he hastens exceedingly
+- दधिक्राः (*dadhikrāḥ*)—this same god Dadhikrā
+- क्रतुं अनु (*kratuṃ anu*)—following the sacrifice
+- संतवीत्वत् (*saṃtavītvat*)—having exceedingly mighty strength
+- फथां (*phathāṃ*)—of all the paths
+- अंकांसि (*aṃkāṃsi*)—the windings
+- आपनी फणत् (*āpanī phaṇat*)—he goes about, pervading fully
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known god Dadhikrā, in horse form, is bound at the neck, at the armpit region, and at the mouth region, and increases the speed of his kicking. This same god Dadhikrā, following the sacrifice and possessed of exceedingly mighty strength, goes about pervading fully the windings of all the paths.
+
+##### English translation (H. H. Wilson)
+And that horse bound by his neck, his flanks, his mouth, accelerates his paces : Dadhikra incresing in vigour after the (sacred rite), following the windings of the roads, goes still more rapidly.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हं॒सः शु॑चि॒षद्वसु॑रंतरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+> नृ॒षद्व॑र॒सदृ॑त॒सद्यो॑म॒सद॒ब्बा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तं॥
+
+> *haṃsaḥ śuciṣadvasuraṃtarikṣasaddhotā vediṣadatithirduroṇasat |*  
+> *nṛṣadvarasadṛtasadyomasadabbā gojā ṛtajā adrijā ṛtaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंसः । शुचिऽसत् । वसुः । अंतरिक्षऽसत् । होता । वेदिऽसत् । अतिथिः । दुरोणऽसत् ।  
+> नृऽसत् । वरऽसत् । ऋतऽसत् । व्योमऽसत् । अप्ऽजाः । गोऽजाः । ऋतऽजाः ।  
+> अद्रिऽजाः । ऋतं ॥ ५ ॥
+
+> *haṃsaḥ | śuci 'sat | vasuḥ | aṃtarikṣa 'sat | hotā | vedi 'sat | atithiḥ | duroṇa 'sat |*  
+> *nṛ 'sat | vara 'sat | ṛta 'sat | vyoma 'sat | ap 'jāḥ | go 'jāḥ | ṛta 'jāḥ |*  
+> *adri 'jāḥ | ṛtaṃ ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 388. pp. 383-388 (batch API)
+**Progress note:** Done through printed p. 394. pp. 389-394 (batch API)
