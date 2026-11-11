@@ -26170,6 +26170,104 @@ In such passages the word Mātariśvan must definitely be given the meaning Agni
 
 In such passages a definite difference between Agni and Mātariśvan is understood. It is also clear that Mātariśvan brought Agni to Bhṛgu**NOTE**. Likewise, आन्यं दिवो मातरिश्वा जभार (*ānyaṃ divo mātariśvā jabhāra*), as above
 
+### Printed p. 691
+Sentences composed in imitation of the quoted sentence are also plentiful. What the nature of Mātariśvan, who is distinct from Agni, may be will be explained when that occasion arises. In 1-60-1 it is stated that Mātariśvan brought Agni and that Śyena brought Soma. In Ṛ. Saṃ. 7-15-4 Agni himself is called Śyena. (दिवः श्येनाय (*divaḥ śyenāya*))
+
+In another passage it is said that Indra caused Agni, who lay hidden within the stones, to be born. (2-12-3)
+
+In 10-45-8, "द्यौर्जनयत्सुरेताः (*dyaurjanayatsuretāḥ*)", it is said that Dyauḥ produced this Agni. Here Dyauḥ may mean the vital breath, or it may mean the Āditya (sun). It is understood that the Āditya too is a cause of Agni's creation. He is also described as the son of the heavenly world (दिवः सूनुरसि (*divaḥ sūnurasi*) 3-2-2). In the same way he is also the son of the earth (3-2-2; 3-25-1).
+
+"यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सु जनिमा जजान (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā su janimā jajāna*)" (10-2-7)
+
+Here it is plainly stated who the causes of Agni's birth are (10-140-2; 3-3-1). In some places there is also the description that Agni was born from water. (10-2-7; 10-91-6)
+
+हिरण्यवर्णाः शुचयः............। या अग्निं गर्भं दधिरे सुवर्णास्ता न अपः शग्स् सोना भवंतु ॥ (*hiraṇyavarṇāḥ śucayaḥ............| yā agniṃ garbhaṃ dadhire suvarṇāstā na apaḥ śags sonā bhavaṃtu ‖*) (Atharvaveda 1-33-1; printed as आ (*ā*). वे (*ve*).")**NOTE**
+
+The Atharvaveda sentence, "May those waters which bore Agni as their embryo be auspicious for us," also conveys this idea. There are also sentences that say he was manifested from Uṣas (dawn). So too, some passages describing his origin and nature are cited.
+
+"The famous and radiant Uṣases caused Sūra and Agni to be born" (7-78-3).
+
+"O Indra and Viṣṇu, for the sacrificer you caused the wide heaven, Sūra, Uṣas and Agni to be born" (7-99-4). The gods caused Agni to be born: he is far-seeing, kindred to all men, a guest, and the mouth of them all. (6-3-1, 2; 8-91-17; 10-46-9) What is the purpose of this birth of Agni, and what is his nature? "O Agni, Vaiśvānara in form, you who are the head of the heavenly world, the navel of the earth, and the lord of all heaven and earth, the gods created you as a light for the Aryan Manu." (1-59-2)
+
+### Printed p. 692
+"The gods have firmly established you for the very purpose of favouring that same Manu." (1-36-12; 2-4-3; 6-16-1; 8-73-2)
+
+As said above, since he was born of the gods, Agni is the son of the gods. Yet in some places he is described as father of those same gods: "Though son of all the gods, you are father of them and of the other worlds." (1-69-1)
+
+The places of Agni, whose birth is so divine, are three, and these three show his threefold manifestation: in the heavenly world as the Āditya (sun), in the atmosphere as lightning, and on earth as fire. The Saṃhitā sentences describe this very point in the following way. In these descriptions it is also understood that sun and fire are varieties of one principle.
+
+"At night Agni is the head of the earth; afterwards by day he rises in the form of the sun." (10-88-6)
+
+This idea, stated in this very Ṛk-Saṃhitā sentence, is given in the Aitareya Brāhmaṇa as follows.
+
+आदित्यो वा अस्तंयन्नग्निमनुप्रविशति सोऽंतर्थीयते ............ अग्निर्वा उद्वान्वायुमनुप्रविशति सोऽंतर्थीयते.... वायोरग्निर्जायते प्राणाद्धि............ अग्नेर्वा आदित्यो जायते ॥ (*ādityo vā astaṃyannagnimanupraviśati so 'ṃtarthīyate ............ agnirvā udvānvāyumanupraviśati so 'ṃtarthīyate.... vāyoragnirjāyate prāṇāddhi............ agnervā ādityo jāyate ‖*) (Ai. Brā. 40-28)
+
+At the time of setting, the sun enters Agni and disappears in him. Agni, rising upward, enters Vāyu (the wind) and disappears in him. Again he is born from that same Vāyu. The sun is born from this same Agni.
+
+"The gods first fashioned the hymns beginning 'idam dyāvāpṛthivī'. After that Agni was born. They prepared oblations for Agni's satisfaction. This Agni is the protector of their sacrifice. Heaven and earth and the waters fully knew Agni's greatness." (10-88-8)
+
+"By the help of their supernatural power and by the instrument of praise, the gods caused Agni, who pervades all heaven and earth, to be born. They fashioned him, giving him a nature that assumes three kinds of forms. That Agni causes all the plants to ripen." (10-88-18 **NOTE**)
+
+### Printed p. 693
+"When the gods established this Agni and the sun, the son of Aditi, in the heavenly world, when the sun and Vaiśvānara appeared together, immediately the gods became able to see all the worlds clearly." (10-88-11)
+
+If one examines how the Nirukta-author explained the purport of these mantras so described, these points become clear. In the Nirukta he says "ततः सूर्यो जायते प्रातरुद्यन् स एव (*tataḥ sūryo jāyate prātarudyan sa eva*)" (7-37): afterwards the sun that rises in the morning is that very Agni; that is, Agni himself rises in the form of the sun, thus showing the identity of sun and fire. And explaining the mantra 10-88-10 quoted above, he says,
+
+"त्रेधा भानाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः (*tredhā bhānāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ*)" (Ni. 7-21)
+
+On Śākapūṇi's view, "tredhā" means earth, atmosphere and heavenly world, and the purport is that these three are the places of Agni. Besides this, he also cites the Brāhmaṇa sentence "यदस्य दिवि तृतीयं तदसावादित्यः (*yadasya divi tṛtīyaṃ tadasāvādityaḥ*)", that the third form of Agni in the heavenly world is this Āditya.
+
+The word 'mithunau' described in Ṛ. Saṃ. 10-88-1 was explained above as Sūra and Vaiśvānara, following Sāyaṇa's explanation. But the Nirukta-author gives this explanation of it:
+
+"यदा चरिष्णू मिथुनौ प्रादुरभूतां । सर्वदा सहचारिणावुषाश्च आदित्यश्च (*yadā cariṣṇū mithunau prādurabhūtāṃ | sarvadā sahacāriṇāvuṣāśca ādityaśca*)" (Ni. 7-29)
+
+Here the word mithuna is explained as Uṣas and Āditya, who always move together. Besides showing identity with the sun in the heavenly world, the Nirukta sentence that shows and explains the same identity with Indra and Vāyu, who belong to the atmosphere, was cited earlier. Having given such explanations, other sentences of the Nirukta-author can also be taken as support for saying that Agni exists in many forms, the sun and others. He explains the purport of the Ṛk-Saṃhitā mantra "इदं विष्णुर्विचक्रमे........ (*idaṃ viṣṇurvicakrame........*)" (1-22-17) in this way, and in this context states Śākapūṇi's view too.
+
+"त्रिधा निधत्ते पदं त्रेधा भवायु पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । (*tridhā nidhatte padaṃ tredhā bhavāyu pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*)" (Ni. 12-19)
+
+### Printed p. 694
+This is the view of Śākapūṇi. That is, only the three worlds are indicated. What connection there is between the statement that Viṣṇu's step pervaded these three worlds and the three places of Agni is not stated. Durgācārya makes this point clear in his commentary on this very passage.
+
+"पार्थिवोग्निर्भूत्वा पृथिव्यां यत्किंचिदस्ति तद्विक्रमते तदधितिष्ठति । अंतरिक्षे विद्युतात्मना दिवि सूर‍्यात्मना (*pārthivognirbhūtvā pṛthivyāṃ yatkiṃcidasti tadvikramate tadadhitiṣṭhati | aṃtarikṣe vidyutātmanā divi sūryātmanā*)" (Durgācārya's commentary on Ni. 12-19)
+
+He explains that this same Viṣṇu, in the form of terrestrial fire, pervades the earth, and in the form of lightning-fire in the atmosphere and of the sun in the heavenly world pervades those two worlds. These divisions, which are the basis of such views and support them, can be seen in the Ṛgveda too.
+
+"Agni was born first in the heavenly world as the Āditya. Second, he took on the form of fire, as Jātavedas, on this earth. Third, he was born in the atmosphere in the form of lightning." (Ṛ. Saṃ. 10-45-1)
+
+This same order of division is stated in the Atharvaveda too.
+
+अग्निर्दिव आ तपति अग्नेर्देवस्य उरु अंतरिक्षं । अग्निं मर्तास इंथते हव्यवाहं धृतप्रियं ॥ (*agnirdiva ā tapati agnerdevasya uru aṃtarikṣaṃ | agniṃ martāsa iṃthate havyavāhaṃ dhṛtapriyaṃ ‖*) (Atharvaveda 7-1-2; printed as अ (*a*). वे (*ve*).")
+
+Agni blazes from the heavenly world. The atmosphere too is subject to this Agni. Mortals on earth cause this Agni, who loves ghee, to blaze on earth. It is stated in the sentence "इदं त एकं पर ऊ त एकं तृतीयेन ज्योतिषा संविशस्व (*idaṃ ta ekaṃ para ū ta ekaṃ tṛtīyena jyotiṣā saṃviśasva*)" (1-56-1). The three kinds of radiance of Agni praised in "आर्कस्त्रीधातू रजसो विमानः (*ārkastrīdhātū rajaso vimānaḥ*)" (Ṛ. Saṃ. 3-26-7; Vā. Saṃ. 18-66) also indicate these same divisions. Explaining the occurrence "त्रिषधस्थ हव्यं (*triṣadhastha havyaṃ*)" in mantra 5-4-8, Sāyaṇa explains thus: "त्रिषु दिव्यादिषु स्थानेषु स्थितः (*triṣu divyādiṣu sthāneṣu sthitaḥ*)", that is, one who occupies the three places, the heavenly world and the rest. The word त्रिपत्र्य (*tripatrya*) used in mantra 8-39-8 **NOTE** has the same purport. The same is stated in Ṛk 1-95-3 by the sentence "त्रीणि जाना परिभूषंत्यस्य (*trīṇi jānā paribhūṣaṃtyasya*)". Sāyaṇa's view is that these three mean the submarine fire, the sun and lightning.
+
+### Printed p. 695
+Besides this, द्विजन्मा (*dvijanmā*) is also a common epithet of Agni (1-60-1; 1-140-2; 1-149-2, 3). Here too other meanings of the epithet द्विजन्मा (*dvijanmā*) are given. He may be so praised because he was born from earth and atmosphere; or because he was born from the two aranis (fire-sticks); or this description may be because he first had a natural birth and afterwards was born from the arani. Sāyaṇa has expressed all these views. This point is stated in sentences such as "O Agni, you are born of the heavenly world and born of the atmosphere; such as you we worship with praises." (8-43-28)
+
+In describing Agni's birth, the occasion of his being produced by churning the aranis is chiefly and most often praised. One or two such occasions may be examined here.
+
+"The instrument needed for churning the arani and the implements needed for producing Agni are ready. Prepare this arani, which provides Agni to the people and protects them." (3-29-1)
+
+"As an embryo is placed in a woman's womb, so Agni lies asleep in these aranis. This Agni must be praised every day by the sacrificers." (printed reference illegible)**NOTE**
+
+"You who are skilled in the act of churning, join the upper arani with the lower arani. After the churning, Agni is born." (3-29 3)
+
+Sentences such as these praise the churning of the arani and the nature of the Agni to be born of it. Since the Agni produced by this churning protects the sacrifice, he is most worthy of worship. "आयमग्निः पृतानाषाट् सुवीरो येन देवासो असहंत दस्यून् (*āyamagniḥ pṛtānāṣāṭ suvīro yena devāso asahaṃta dasyūn*)": it is said that by the greatness of this Agni all the gods gained the power to destroy their enemies. Thus the praise of Agni, born of the arani churned for the sacrifice, shows his greatness and the benefit that comes from him to the world. This praise is abundant not only in the Ṛk-Saṃhitā but in other śruti passages. For example—
+
+सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिर्यदि ह वा अप्यब्राह्मणोक्तो यदि दुरुक्तोको यजतेऽथ हैषाहुतिर्गच्छत्येव देवान्न पाप्मना संस्कृज्यते ॥ (*saiṣā svargyāhutiryadagnyāhutiryadi ha vā apyabrāhmaṇokto yadi duruktoko yajate 'tha haiṣāhutirgacchatyeva devānna pāpmanā saṃskṛjyate ‖*) (Ai. Brā. 1-16)
+
+### Printed p. 696
+The oblation offered in this Agni leads to heaven. Even if one is a non-Brāhmaṇa, or has gained ill repute as a sinner, if he offers this oblation with faith, it surely reaches the gods. The contact of the sin of one who has done sinful deeds does not touch this fire-oblation.
+
+The divine nature of this same Agni is presented differently in a sentence of the Śatapatha Brāhmaṇa; it is fitting to give its explanation here.
+
+स यत्र अग्निं सस्यजे स इदं जातः सर्वमेव दग्धुं दध्रे । इत्येव आविल मेम । ता यास्तर्हि प्रजा आसुस्ता ह एवं संपेष्टुं दभ्रे । सोऽतितिक्षमाण पुरुषमेवाभ्येयाय । स ह उवाच । न वै अहमिदं तितिक्षे हंत त्वा प्रविशानि । तं माजनयित्वा बिभृहि । स यथैव मां त्वमस्मिन् लोके जनयित्वा भरिष्यसि एवमेवाहं त्वां अमुष्मिन् लोके जनयित्वा भरिष्यामीति ॥ (*sa yatra agniṃ sasyaje sa idaṃ jātaḥ sarvameva dagdhuṃ dadhre | ityeva āvila mema | tā yāstarhi prajā āsustā ha evaṃ saṃpeṣṭuṃ dabhre | so 'titikṣamāṇa puruṣamevābhyeyāya | sa ha uvāca | na vai ahamidaṃ titikṣe haṃta tvā praviśāni | taṃ mājanayitvā bibhṛhi | sa yathaiva māṃ tvamasmin loke janayitvā bhariṣyasi evamevāhaṃ tvāṃ amuṣmin loke janayitvā bhariṣyāmīti ‖*) (Śa. Brā. 2-3-3-1)
+
+When Agni, created by Prajāpati, began to burn everything, the world was thrown into confusion. In reaction, all the creatures then born joined together, bound him and began to crush him. Then Agni came to the Puruṣa, took refuge in him, and said: "I cannot bear this crushing. Give me room to enter you. Beget me again and nourish me. If you provide me this protection and nourishment on earth, I shall provide you in the other world protection and nourishment as the return for it." Thus he gave his assurance.
+
+Thus Agni, born of man, kindled by man and nourished by man, becomes the sacrificial fire and is born for the sacrifice by the instrument that is the arani. It is this Agni, born by the instrument of the arani, that is praised by the epithets द्विजन्मा (*dvijanmā*) and द्विमाता (*dvimātā*).
+
+The epithets beginning with द्विजन्मा (*dvijanmā*) have been explained above. In the same way the epithet भूरिजन्मा (*bhūrijanmā*) also praises the greatness-filled birth of Agni. In sentences such as 1-95-2 and 10-5-1 this epithet describes the manner of Agni's birth. In places such as "दश युवतयः इमं गर्भं जनयंत (*daśa yuvatayaḥ imaṃ garbhaṃ janayaṃta*)", दश युवतयः (*daśa yuvatayaḥ*) means the ten fingers. In 3-29-3 Agni is called the son of Iḷā. (Here any meaning may be given to the word Iḷā.) Various lineages are famous, such as Manu, Aṅgirasvān, Bhṛgu, Atharvan and Dadhīci, who first produced Agni for the sacrifice and caused him to blaze. Only some of them may be taken as examples.
+
 ---
 
-**Progress note:** Done through printed p. 690. pp. 683-690 (batch API)
+**Progress note:** Done through printed p. 696. pp. 691-696 (batch API)
