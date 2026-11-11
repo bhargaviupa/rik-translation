@@ -28940,6 +28940,266 @@ There is no more venerable offerer of oblations, Agni, than you, nor (one) prior
 
 O Agni, among sacrificers who perform the sacrificial rite, or among priests, there is none better than you in knowledge of the respective rites and in their performance. You alone know everything. Moreover, being honoured like a guest by priests and others, you give them food and the like and destroy their enemies as a forest fire destroys a forest; or, in order to show favour to the priests and others who attend you, you go to them; this is the intention.
 
+### Printed p. 779
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यम॑ग्ने वनुयाम॒ त्वोता॑ वसू॒यवो॑ ह॒विषा॒ बुध्य॑मानाः ।  
+> व॒यं स॑म॒र्ये वि॒दथे॒ष्टह्नां॑ व॒यं रा॒या स॑हसस्पुत्र॒  ॑
+> मर्तान् ॥ ६ ॥
+
+> *vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ |*  
+> *vayaṃ samarye vidatheṣṭahnāṃ vayaṃ rāyā sahasasputra*  
+> *martān ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । अग्ने । वनुयाम । त्वाऊताः । वसुयवः । हविषा । बुध्यमानाः ।  
+> वयं । समर्ये । विदथेषु । अह्नां । वयं । राया । सहसः । पुत्र । मर्तान् ॥
+
+> *vayaṃ | agne | vanuyāma | tvāūtāḥ | vasuyavaḥ | haviṣā | budhyamānāḥ |*  
+> *vayaṃ | samarye | vidatheṣu | ahnāṃ | vayaṃ | rāyā | sahasaḥ | putra | martān ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वयं यजमानास्वोतास्तया रक्षिताः संतो वनुयाम ।
+> शत्रुन्पीडयाम संभजेमहि ना धनं ! कीदृशा वयं । वसूयवो वसुकामा
+> हविषा त्वां बुध्यमाना बोधयंतो वयं समर्यॆ समरणे जयेम शत्रुनिति
+> शेषः । विदथेषु यागेषु प्राप्नुयाम बलं । यद्वा । वनुयामेत्येतदनुषज्यते।
+> अह्नां सर्वॆष्वहःसु । किंच वयं हे सहसस्पुत्र बलस्य पुत्र पालक वाग्ने राया
+> धनेन सह मर्त्यान्पुत्रभृत्यादीन् लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, we the sacrificers, protected by you (त्वोताः (*tvotāḥ*)), may we वनुयाम (*vanuyāma*), that is, may we crush our enemies and share in wealth. What kind are we? We are वसूयवः (*vasūyavaḥ*), desirous of wealth, and we awaken you with oblations. In समर्ये (*samarye*), in battle, may we conquer our enemies (the word "enemies" is to be supplied). In the विदथेषु (*vidatheṣu*), the sacrifices, may we obtain strength. Or else, the word वनुयाम (*vanuyāma*) is carried on (to the later part of the verse). अह्नां (*ahnāṃ*) means on all days. Further, O son of strength (सहसस्पुत्र (*sahasasputra*)), that is, O son or protector of strength, Agni, may we obtain together with wealth (राया (*rāyā*)) mortals, that is, sons, servants and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वयं (*vayaṃ*)—we, the sacrificers
+- वसूयवः (*vasūyavaḥ*)—desiring wealth
+- हविषा (*haviṣā*)—with oblations
+- बुध्यमानाः (*budhyamānāḥ*)—awakening (you)
+- त्वोताः (*tvotāḥ*)—protected by you
+- वनुयाम (*vanuyāma*)—may we obtain wealth
+- अह्नां (*ahnāṃ*)—on all days
+- विदथेषु (*vidatheṣu*)—in the sacrifices (obtaining strength)
+- वयं (*vayaṃ*)—we
+- समर्ये (*samarye*)—in battle (may we obtain victory)
+- सहसस्पुत्र (*sahasasputra*)—O Agni, son of strength
+- वयं (*vayaṃ*)—we
+- राया (*rāyā*)—with wealth
+- मर्तान् (*martān*)—sons, servants and the like (may we obtain)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may we sacrificers, desirous of wealth, awakening you with oblations and protected by you, obtain wealth. May we obtain strength in the sacrifices on all days
+
+### Printed p. 780
+and may we obtain victory in battle. O Agni, son of strength, may we obtain sons, servants and the like together with wealth.
+
+##### English translation (H. H. Wilson)
+May we, desirous of wealth, Agni, and arousing you by oblations, secure in your protection, acquire (riches): may we (be victorious) in battle, (successful) in sacrifices every day ; and may we, son of strength, obtain with riches male (descendants).
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> योन॒ आगो॑ अ॒भ्येनो॒ भरा॒त्यधीद॒घम॒घशं॑से दधात ।  
+> ज॒ही चि॑कित्सो अ॒भिश॑स्तिमे॒तामग्ने॒ यो नो॑ म॒र्चय॑ति  ॒॑
+> द्वयेन ॥ ७ ॥
+
+> *yona āgo abhyeno bharātyadhīdaghamaghaśaṃse dadhāta |*  
+> *jahī cikitso abhiśastimetāmagne yo no marcayati*  
+> *dvayena ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । आगः । अभि । एनः । भराति । अधि । इत् । अघं । अघशंसे । दधात ।  
+> जहि । चिकित्वः । अभिशस्सिं । एतां । अग्ने । यः । न । मर्चयति । द्वयेन ॥ ७ ॥
+
+> *yaḥ | naḥ | āgaḥ | abhi | enaḥ | bharāti | adhi | it | aghaṃ | aghaśaṃse | dadhāta |*  
+> *jahi | cikitvaḥ | abhiśassiṃ | etāṃ | agne | yaḥ | na | marcayati | dvayena ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ ५२ ॥
+> यो मर्त्यु आगोऽपराधमेनः पापं च नोऽस्मभ्यमभि भराति । अभितः
+> करोति । तस्मिन्नघशंसेऽघं पापमधि दधात । ददात्वग्निः । इदिति पूरणः । आगोऽवराधं यो मह्यमिदं करोति तस्मा एवाग्निस्तत्करोत्वित्यर्थः । आथ प्रत्यक्षेणोच्यते।
+> हे अग्ने एतामभिशस्तिं जहि । उत्तरत्र यच्छब्बश्रवणात्तदानुगुण्येनैनमभिशंसकमिति व्याख्येयं । योऽभिशस्ता नोऽस्मान्वयेनोक्तेनागसैनसा वा मर्चयति ।
+> बाधते । तमिति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the mortal who brings against us (नः (*naḥ*)) offence (आगः (*āgaḥ*), transgression) and sin (एनः (*enaḥ*)), that is, practises it on every side — on that evil-speaker (अघशंसे (*aghaśaṃse*)) may Agni lay evil (अघं (*aghaṃ*), sin). The word इत् (*it*) is a filler. The meaning is: whoever does this offence to me, to him alone may Agni do that. Now the verse is addressed directly: O Agni, destroy (जहि (*jahi*)) this abuse (एतां अभिशस्तिं (*etāṃ abhiśastiṃ*)). Because the word यः (*yaḥ*) is heard later in the verse, it is to be explained in agreement with it, as this calumniator; he who harasses (मर्चयति (*marcayati*), afflicts) us by the twofold means stated, by offence or by sin — him. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- नः (*naḥ*)—in our case
+- आगः (*āgaḥ*)—wickedness
+- एनः (*enaḥ*)—sinful deed
+- अभि भरति (*abhi bharati*)—practises (such a one)
+- अघशंसे (*aghaśaṃse*)—in the sinner of evil mind
+
+### Printed p. 781
+- अघं (*aghaṃ*)—sin that works his own destruction
+- अधि दधात (*adhi dadhāta*)—may Agni (fill him with)
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—which injurer
+- नः (*naḥ*)—us
+- द्वयेन (*dvayena*)—in the two ways stated above
+- मर्चयति (*marcayati*)—injures
+- एतां अभिशस्तिं (*etāṃ abhiśastiṃ*)—such an injurer
+- चिकित्वः (*cikitvaḥ*)—knowing
+- जहि (*jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who practises wickedness and sinful deeds against us — fill that sinner of evil mind with the very sin that works his own destruction. And the injurer who injures us in the two ways stated above — knowing him, destroy him.
+
+##### English translation (H. H. Wilson)
+May Agni inflict (evil) upon the evil-doer who commits offence or wickedness against us; destroy, sagacious Agni, the calumniator who injures us in these two ways.
+
+##### विशेषविषयगळु (Special Topics)
+
+यः । नः । आगः । अभि । एनः । भराति । अधि । इत् । अघं । अघशंसे । दधात । जहि । चिकित्वः । अभिशस्सिं । एतां । अग्ने । यः । न । मर्चयति । द्वयेन ॥ ७ ॥ ॥ ५२ ॥ यो मर्त्यु आगोऽपराधमेनः पापं च नोऽस्मभ्यमभि भराति । अभितः करोति । तस्मिन्नघशंसेऽघं पापमधि दधात । ददात्वग्निः । इदिति पूरणः । आगोऽवराधं यो मह्यमिदं करोति तस्मा एवाग्निस्तत्करोत्वित्यर्थः । आथ प्रत्यक्षेणोच्यते। हे अग्ने एतामभिशस्तिं जहि । उत्तरत्र यच्छब्बश्रवणात्तदानुगुण्येनैनमभिशंसकमिति व्याख्येयं । योऽभिशस्ता नोऽस्मान्वयेनोक्तेनागसैनसा वा मर्चयति । बाधते । तमिति ॥ यः—याव मानवनु । नः-नम्म विषयदल्लि ॥आगः-दौष्ट्यवन्नू । एनः-पापकार्य वन्नू । अभि भरति—नडॆसुत्तानॆयो (अंतह) । अघशंसे—दुष्टबुद्धियुळ्ळ पापिष्ठनल्लि । अघं-स्वहिंसाकारकवाद पापवन्नु । अधि दधात (*yaḥ | naḥ | āgaḥ | abhi | enaḥ | bharāti | adhi | it | aghaṃ | aghaśaṃse | dadhāta | jahi | cikitvaḥ | abhiśassiṃ | etāṃ | agne | yaḥ | na | marcayati | dvayena ‖ 7 ‖ ‖ 52 ‖ yo martyu āgo 'parādhamenaḥ pāpaṃ ca no 'smabhyamabhi bharāti | abhitaḥ karoti | tasminnaghaśaṃse 'ghaṃ pāpamadhi dadhāta | dadātvagniḥ | iditi pūraṇaḥ | āgo 'varādhaṃ yo mahyamidaṃ karoti tasmā evāgnistatkarotvityarthaḥ | ātha pratyakṣeṇocyate| he agne etāmabhiśastiṃ jahi | uttaratra yacchabbaśravaṇāttadānuguṇyenainamabhiśaṃsakamiti vyākhyeyaṃ | yo 'bhiśastā no 'smānvayenoktenāgasainasā vā marcayati | bādhate | tamiti ‖ yaḥ—yāva mānavanu | naḥ-namma viṣayadalli ‖āgaḥ-dauṣṭyavannū | enaḥ-pāpakārya vannū | abhi bharati—naḍèsuttānèyo (aṃtaha) | aghaśaṃse—duṣṭabuddhiyuḷḷa pāpiṣṭhanalli | aghaṃ-svahiṃsākārakavāda pāpavannu | adhi dadhāta*)—O Agni, the man who commits offences against us and does sinful deeds, make sin alone accumulate in such a wicked man. That is, awaken in him an attachment to sinful acts, so that evil may befall him as the fruit of his sinful deeds; this is the meaning.
+अग्ने यः नः द्वयेन मर्चयति एतां अभिशस्तिं चिकित्वः जहि (*agne yaḥ naḥ dvayena marcayati etāṃ abhiśastiṃ cikitvaḥ jahi*)—O Agni, knowing the wicked man who commits the two kinds of acts stated above, restrain him; thus Agni is prayed to.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॒स्या व्युषि॑ देव॒ पूर्वे॑ दू॒तं कृ॑ण्वा॒ना अ॑यजंत ह॒व्यैः।  
+> सं॒स्थे यद॑ग्न॒ ईय॑से रयी॒णां दे॒वो मर्त्यै॒र्वसु॑भिरि॒ध्यमा॑नः ॥ ८ ॥
+
+> *tvāmasyā vyuṣi deva pūrve dūtaṃ kṛṇvānā ayajaṃta havyaiḥ|*  
+> *saṃsthe yadagna īyase rayīṇāṃ devo martyairvasubhiridhyamānaḥ ‖ 8 ‖*
+
+### Printed p. 782
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अस्याः । विउषि । देव । पूर्वे । दूतं । कृष्णानाः । आयजंत । हव्यैः ।  
+> संस्थे । यत् । अग्ने । ईयसे । रयिणां । देवः । मर्तैः । वसुभिः । इध्यमानः ॥
+
+> *tvāṃ | asyāḥ | viuṣi | deva | pūrve | dūtaṃ | kṛṣṇānāḥ | āyajaṃta | havyaiḥ |*  
+> *saṃsthe | yat | agne | īyase | rayiṇāṃ | devaḥ | martaiḥ | vasubhiḥ | idhyamānaḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वामस्या रात्रेव्युषि । व्युष्टायामुषसीत्यर्थः । पूर्वे पुरातना
+> यजमाना दूतं देवानां प्रेरकं कृण्वानाः कुर्वाणा अयजंत हव्यैर्हविर्भिः
+> साधनै रयाणां हविर्लक्षणानां संस्थॆ संस्थान आसादने सति हे अग्ने यद्यदेयसे।
+> गच्छसि । देवो द्योतमानो मर्तैर्मनुष्यैर्ऋत्विग्निर्वसुभिर्वासकैरिध्यमानः
+> समिध्यमानः !सन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, former (पूर्वे (*pūrve*)), that is, ancient sacrificers, making you the messenger (दूतं (*dūtaṃ*)), the one who impels the gods, worshipped you with oblations (हव्यैः (*havyaiḥ*)) in the dawn (व्युषि (*vyuṣi*)) of this night, that is, when the dawn had brightened. When, at the संस्थे (*saṃsthe*), the placing or setting down of the wealth (रयीणां (*rayīṇāṃ*)) which consists of oblations, you, O Agni, go — shining (देवः (*devaḥ*)), being kindled by mortals, that is, by the priests (वसुभिः (*vasubhiḥ*), the givers of dwelling) — then they worshipped you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O worshipful
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- देवः (*devaḥ*)—you who are shining
+- वसुभिः (*vasubhiḥ*)—by those who give you dwelling
+- मर्त्यैः (*martyaiḥ*)—by the priests
+- इध्यमानः (*idhyamānaḥ*)—blazing, kindled
+- रयाणां (*rayāṇāṃ*)—of the wealth in the form of oblations
+- संस्थॆ (*saṃsthè*)—to the sacrifices and the like where there is an assemblage
+- ईयसे (*īyase*)—you have gone (then)
+- पूर्वे (*pūrve*)—the ancient sacrificers
+- त्वां (*tvāṃ*)—you
+- दूतं (*dūtaṃ*)—as messenger of the gods
+- कृष्णानाः (*kṛṣṇānāḥ*)—making
+- अस्याः (*asyāḥ*)—of the night
+- व्युषि (*vyuṣi*)—in the dawn time, the last part of the night
+- हव्यैः (*havyaiḥ*)—by offering oblations
+- आयजंत (*āyajaṃta*)—have worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Agni, you who shine, kindled by the priests who give you dwelling, go to the sacrificial places where the wealth in the form of oblations is assembled; the ancient sacrificers, making you the messenger of the gods, have worshipped you with offerings of oblations in the dawn time, the last part of the night.
+
+##### English translation (H. H. Wilson)
+Former (worshippers) constituting you, divine (Agni), the messenger (of the gods), have worshipded you with oblations at the dawn of day; when you proceed to the place (of the aggregation) of the wealth (of sacrifice), bright-shining, kindled by the mortals who have given you an abode.
+
+### Printed p. 783
+
+##### विशेषविषयगळु (Special Topics)
+
+O Agni, the sacrificers who performed sacrifice in former times too worshipped you at the dawn by offering oblations. At that time, that is, in the sacrifice, you, established on the sacrificial altar by the priests, shine brightly. Regarding you as the messenger who carries to the gods the oblation they offer, they worshipped you in many ways with oblations and the like. That is, the men of old also, just like us, worshipped and served you at the dawn in sacrifices and the like by offering oblations; this is the chief meaning.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ स्पृधि पि॒तरं॒ योधि॑ वि॒द्वान् पु॒त्रो यस्ते॑ सहसः सून  ॒
+> ऊहे ।  
+> क॒दा चि॑कित्वो अ॒भि च॑क्षसे॒ नोऽग्ने॑ क॒दा ऋ॑त॒चिद्या॑तयासे ॥
+
+> *ava spṛdhi pitaraṃ yodhi vidvān putro yaste sahasaḥ sūna*  
+> *ūhe |*  
+> *kadā cikitvo abhi cakṣase no 'gne kadā ṛtacidyātayāse ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्पृधि । पितरं । योधि । विद्वान् । पुत्रः । यः । ते । सहसः । सूनोइति । ऊहे ।  
+> कदा । चिकित्वः । अभि । चक्षसे । नः । अग्ने । कदा । ऋतचित् । यातयासे ॥ ९ ॥
+
+> *ava | spṛdhi | pitaraṃ | yodhi | vidvān | putraḥ | yaḥ | te | sahasaḥ | sūnoiti | ūhe |*  
+> *kadā | cikitvaḥ | abhi | cakṣase | naḥ | agne | kadā | ṛtacit | yātayāse ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राग्ने त्वमव स्पृधि । पारय । योधि । पृथत्कुरु
+> पापात् । यः पुत्रः पुत्रस्थानीयस्तव यो यजमानस्ते त्वां पितरं बालकं
+> पितृभूतं विद्वान् जानन् ऊहे । वहति हविः । तमेवं कुर्वित्यृषिरात्मानं
+> परोक्षेणाह । हव्यवाळग्निरजरः पिता नः । ऋग्वे. ५-४-२ । इति हि वक्ष्यति । यदा ।
+> पितृपुत्रभावो व्यत्यस्तः । पितरं पितृवद्रक्षकं यजमानमव स्पृ धि योधि च यस्त्वं
+> पुत्रः पुत्रवत्सदा रक्षणेयः । त्वं पुत्रो भवसि यस्तेऽविधत् । ऋग्वे. २-१-९ इति
+> हि श्रुतिः । हे चिकित्सश्चेतनावन्नग्ने कदा नोऽस्मानभि चक्षसे । अपिपश्यसि । विदा च
+> ऋतचिद्यज्ञस्योदकस्य वा चेतयिता यातयासे । प्रेरयसि सन्मार्गेण ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni, अव स्पृधि (*ava spṛdhi*): carry across; योधि (*yodhi*): separate from sin. The son, that is, the sacrificer who stands in the place of a son to you, knowing (विद्वान् (*vidvān*)) you as father, as a father-like one, ऊहे (*ūhe*) carries the oblation; do so to him. Thus the seer speaks of himself indirectly. For (the verse) will say: "Havyavāḷ agnir ajaraḥ pitā naḥ" (Ṛgve. 5-4-2). **NOTE** Or else, the relation of father and son is reversed: protect and separate from sin the sacrificer who, as a father-like protector, is the one to be protected always like a son; "you become the son who serves you" (Ṛgve. 2-1-9) is the Śruti. O knowing (चिकित्वः (*cikitvaḥ*)) Agni, when do you look upon us (अभि चक्षसे (*abhi cakṣase*))? And when, as ऋतचित् (*ṛtacit*), the awakener of the sacrifice or of water, do you impel (यातयासे (*yātayāse*)) us along the good path?
+
+### Printed p. 784
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- यः पुत्रः (*yaḥ putraḥ*)—the sacrificer who stands in the form of a son (to you)
+- ते (*te*)—you
+- पितरं (*pitaraṃ*)—as his father
+- विद्वान् (*vidvān*)—knowing
+- ऊहे (*ūhe*)—brings and offers the oblation (him)
+- अव स्पृधि (*ava spṛdhi*)—bring to an end of sorrow
+- योधि (*yodhi*)—separate from sin
+- आग्ने (*āgne*)—O Agni
+- चिकित्स्यः (*cikitsyaḥ*)—knowing everything
+- नः (*naḥ*)—us
+- कदा (*kadā*)—when
+- अभि चक्षसे (*abhi cakṣase*)—do you look upon us graciously
+- ऋतचित् (*ṛtacit*)—as impeller of sacrifices and the like
+- कदा (*kadā*)—when
+- यातयासे (*yātayāse*)—do you impel (us to the good path)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, the sacrificer who stands in the form of a son to you, who knows you as his father and with devotion brings and offers oblation to you — bring him to an end of sorrow; separate him from sin. O Agni, knowing everything, when will you look upon us graciously? As impeller of sacrifices and the like, when will you bring us to the good path?
+
+##### English translation (H. H. Wilson)
+Convey him (to safety) in war, son of strength, who like a wise son offers to you (reverence) as to a father: when, sagacious Agni, do you look upon us? when, director of sacrifice, do you direct us (to good ways)?
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is praised by attributing to Agni and the sacrificer the relation of father and son. One explanation is: as a father protects his son, so may Agni, the protector, protect the sacrificer who stands in the place of a son. To support this, the Ṛk
+हव्यवाळग्निरजरः पिता नो विभुर्विभावा सुदृशीको अस्मे । सुगार्हपत्याः समिषो दिदीह्यस्मद्र्यंक्सं मिमिहि श्रवांसि ॥ (*havyavāḷagnirajaraḥ pitā no vibhurvibhāvā sudṛśīko asme | sugārhapatyāḥ samiṣo didīhyasmadryaṃksaṃ mimihi śravāṃsi ‖*)
+(Ṛ. Saṃ. 5-4-2)
+is quoted. The meaning suggested here is: may Agni, who stands in the place of father or protector to us (the sacrificer), carrying the oblation to the gods on behalf of the sacrificer, protect us. Or else, another explanation is possible: as sacrificers protect their sons with care, so they protect Agni, who stands in the place of a son. To support that—
+
 ---
 
-**Progress note:** Done through printed p. 778. pp. 773-778 (batch API)
+**Progress note:** Done through printed p. 784. pp. 779-784 (batch API)
