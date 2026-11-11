@@ -5296,6 +5296,234 @@ May my words in the form of praise approach and join, from all sides, Indra, who
 ##### English translation (H. H. Wilson)
 My praises constantly propitiate Indra, the object of many rites, the sender of rain attended by the Maruts, the leader (of all), the giver of food,
 
+### Printed p. 138
+
+the destroyer of cities, the swift (in combat), the prompt (dispenser) of waters, the distributors of riches, the subduer of foes, the conferrer of heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+शतक्रतुं (*śatakratuṃ*)—शतं क्रतवो यज्ञा यस्य तं (*śataṃ kratavo yajñā yasya taṃ*). The commentator explains Indra as Śatakratu because he performed a hundred sacrifices. But this explanation follows a Purāṇic statement. Nowhere in the Vedas is it said that Indra performed a hundred sacrifices and so obtained the rank of Indra. If the word is explained in accordance with the Vedic sense, śata means "hundreds" or "many", and kratu means "deed" or "feat of daring"; Śatakratu then means one who has performed hundreds (many) of heroic deeds such as the slaying of Vṛtra. To explain it so is the proper course.
+
+शाकिनं (*śākinaṃ*)—शक्नोत्येभिरिंद्र इति शाकाः सहायभूता मरुतः तद्वंतं (*śaknotyebhiriṃdra iti śākāḥ sahāyabhūtā marutaḥ tadvaṃtaṃ*). Because they help, the Maruts are called Śākāḥ. Indra, who has obtained the help of those Marut deities, is called Śākī.
+
+पूर्भिदं (*pūrbhidaṃ*)—शुत्रपुरां भेत्तारं (*śutrapurāṃ bhettāraṃ*). The destroyer of enemy cities. Epithets such as पुरां भिंदुः (*purāṃ bhiṃduḥ*) describe Indra as the destroyer of enemy cities in many Ṛks.
+
+धामसाचं (*dhāmasācaṃ*)—तेजो भजमानं । यद्वा धनं धाम । तदर्थिभिः सह योजयितारं (*tejo bhajamānaṃ | yadvā dhanaṃ dhāma | tadarthibhiḥ saha yojayitāraṃ*). The commentator gives two explanations: one who shines with splendour; or, if dhāma is taken to mean wealth, one who provides wealth to the people who praise him.
+
+स्वर्विदं (*svarvidaṃ*)—स्वर्गस्य लंभकं (*svargasya laṃbhakaṃ*). One who obtains heaven, that is, one who goes to heaven, or dwells in heaven, or secures heaven for people.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒क॒रे वसो॑र्जरि॒ता प॑नस्यतेऽने॒हसः॒ स्तुभ॒ इंद्रो॑ दुवस्यति ॥  
+> वि॒वस्व॑तः॒ सद॑न॒ आ हि पि॑प्रि॒ये स॑त्रा॒साह॑मभिमाति॒हनं॑ स्तुहि ॥
+
+> *ākare vasorjaritā panasyate 'nehasaḥ stubha iṃdro duvasyati ‖*  
+> *vivasvataḥ sadana ā hi pipriye satrāsāhamabhimātihanaṃ stuhi ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आकरे । वसोः । जरिता । पनस्यते । अनेहसः । स्तुभः । इंद्रः । दुवस्यति ।  
+> विवस्वतः । सदने । आ । हि । पिप्रिये । सत्रासहं । अभिमातिहनं । स्तुहि ॥ ३ ॥
+
+> *ākare | vasoḥ | jaritā | panasyate | anehasaḥ | stubhaḥ | iṃdraḥ | duvasyati |*  
+> *vivasvataḥ | sadane | ā | hi | pipriye | satrāsahaṃ | abhimātihanaṃ | stuhi ‖ 3 ‖*
+
+### Printed p. 139
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जरिता शत्रूणां जरयितेंद्र आकरे । आकीर्यते यद्वार्थं धनमत्रेत्याकरो युद्धं । तस्मिन्वसोर्धनस्य स्थानभूते युद्धे पनस्यते । सर्वैः स्तूयते ।
+> यद्वा वसोः । वसत्याभिमुख्येन तिष्ठतीति वसुः शत्रुस्तस्य जरयितेति योजनीयं ।
+> स इंद्रोऽनेहसोऽपापाः स्तुभः स्तुतीर्दुवस्यति । परिचरति । तासां फलं प्रयच्छन् पूजयतीत्यर्थः । किंच स इंद्रो विवस्वतो विशेषेणाग्निहोत्रार्थं वसतो
+> हविष्मतो ना यजमानस्य सदने गृह आ पिप्रिये हि । सोमपानादिनात्यंतं प्रीतो
+> भवति खलु । सत्रासाहं शत्रूणामेव हंतारं यद्वा मरुद्भिः सह शत्रूणामभिभवितारं अत एवाभिमातिहनं शत्रूणां हंतारमिंद्रं स्तुहि । हे विश्वामित्रेति ॥ आकरे
+> कृ विक्षेपे । अधिकरण यूदोरबित्यप् । थाथादिस्वरेणांतोदात्तः । जरिता । जृष्
+> वयोहानानित्य स्यांतर्भावितण्यर्थस्य तृचि रूपं । चित्वादंतोदात्तः । पनस्यते ।
+> पनस्यतिः स्तुतिकर्मा । तस्य कर्मणि लटि रूपं । निघातः । अनेहसः । हंतेर्नइ्युपपदे नञ हन एह चेत्यसिप्रत्यय एह इत्ययं चादेशो धातोः । नञ सुभ्यामिति
+> स्वरेणांतोदात्तः । स्तुभः । स्तोभतिरर्चतिकर्मा । क्विप् । दुवस्यति । दुवः परिचरणमात्मन इच्छतीत्यर्थॆ क्यच् । निघातः । पिप्रिये । प्रीज् तर्पणी । लिट रूपं ।
+> हियोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Jaritā is Indra, who makes his enemies decay. आकरे (*ākare*): that in which wealth is scattered about (or for the sake of which it is gathered) is ākara, battle. In that battle, the place of wealth (vasu), he is praised (panasyate) by all. Or else vasoḥ: vasu is the enemy who stands facing him, and the sense is "the one who makes him decay". That Indra serves (duvasyati) the sinless praises (stubhaḥ): he honours them by granting their fruit. Further, Indra is greatly pleased at the house of the sacrificer (विवस्वतः (*vivasvataḥ*)), who dwells especially for the Agnihotra and has oblations, through Soma-drinking and the like. "Conqueror, slayer of enemies; or one who with the Maruts overcomes enemies; therefore the slayer of the foe: praise that Indra, O Viśvāmitra." The remainder is grammar on ākare, jaritā, panasyate, anehasaḥ, stubhaḥ, duvasyati and pipriye.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरिता (*jaritā*)—destroyer of enemies
+- इंद्रः (*iṃdraḥ*)—Indra
+- आकरे (*ākare*)—in battle
+- वसोः (*vasoḥ*)—for the gaining of wealth
+- पनस्यते (*panasyate*)—is praised (by all)
+- अनेहसः (*anehasaḥ*)—sinless
+- स्तुमः (*stumaḥ*)—praises **NOTE**
+- दुवस्यति (*duvasyati*)—serves
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer
+- सदने (*sadane*)—in the sacrificial house
+- आ पिप्रिये (*ā pipriye*)—is satisfied with Soma and other drinks
+- (O Viśvāmitra) सत्रासाहं (*satrāsāhaṃ*)—the conqueror of enemies
+- अभिमातिहनं (*abhimātihanaṃ*)—the slayer of arrogant enemies, Indra
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the destroyer of enemies, is praised by all in battle for the gaining of wealth. He serves the sinless praises. In the sacrificial houses of the sacrificer he is satisfied with Soma and other drinks. O Viśvāmitra, praise Indra, the conqueror of enemies and slayer of arrogant foes.
+
+### Printed p. 140
+
+##### English translation (H. H. Wilson)
+Indra, the enfeebler (of adversaries), is praised as a mine of wealth; he is propitiated by righteous commendations; he is gratified in the dwelling of the offerer of oblations: glorify Indra, the conquerer, the destroyer of his enemies.
+
+##### विशेषविषयगळु (Special Topics)
+
+आकरे एसोः (*ākare esoḥ*)—कृ विक्षेपे । आकीर्यते धनमत्रेत्याकरो युद्धं तस्मिन् (*kṛ vikṣepe | ākīryate dhanamatretyākaro yuddhaṃ tasmin*). The word ākara is derived from the root kṛ, meaning to scatter, to collect. Because in battle the victors collect the wealth of the defeated enemies, battle is called ākara, the commentator explains.
+
+अनेहसः स्तुभ इंद्रो दुवस्यति (*anehasaḥ stubha iṃdro duvasyati*)—अपापाः स्तुतीः परिचरति । शासां फलं प्रयच्छन् पूजयतीत्यर्थः (*apāpāḥ stutīḥ paricarati | śāsāṃ phalaṃ prayacchan pūjayatītyarthaḥ*). People praise Indra with sinless praises; the sense is that Indra gives such people the fruit and honours them.
+
+विवस्वतः सदने आ हि पिप्रिये (*vivasvataḥ sadane ā hi pipriye*) विशेषेणाग्निहोत्रार्थं वसतो हविष्मतो वा यजमानस्य गृहे सोमपानादिनात्यंतं प्रीतो भवति खलु (*viśeṣeṇāgnihotrārthaṃ vasato haviṣmato vā yajamānasya gṛhe somapānādinātyaṃtaṃ prīto bhavati khalu*). It is described here that in the house of sacrificers who dwell performing good rites such as the Agnihotra and stand ready to offer oblations, Indra is happy, drinking Soma.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒णामु॑ त्वा॒ नृत॑मं गी॒र्भिरु॒क्थैर॒भि प्र वी॒रम॑र्चता  ॒॑
+> सबाधः ।  
+> सं सह॑से पुरुमा॒यो ज॑हीते॒ नमो॑ अस्य प्र॒दिव॒ एक॑ ईशे ॥
+
+> *nṛṇāmu tvā nṛtamaṃ gīrbhirukthairabhi pra vīramarcatā*  
+> *sabādhaḥ |*  
+> *saṃ sahase purumāyo jahīte namo asya pradiva eka īśe ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृणां । ऊं इति । त्वा । नृतमं । गीःभिः । उक्थैः । अभि । प्र । वीरं । अर्चत ।  
+> सबाधः ।  
+> सं । सहसे । पुरुमायः । जिहीते । नमः । अस्य । प्रदिवः । एकः । ईशे ॥ ४ ॥
+
+> *nṛṇāṃ | ūṃ iti | tvā | nṛtamaṃ | gīḥbhiḥ | ukthaiḥ | abhi | pra | vīraṃ | arcata |*  
+> *sabādhaḥ |*  
+> *saṃ | sahase | purumāyaḥ | jihīte | namaḥ | asya | pradivaḥ | ekaḥ | īśe ‖ 4 ‖*
+
+### Printed p. 141
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सबाधः । रघोघ्नमंत्रोच्चारणेन तद्विषयबाधया सह वर्तंत
+> इति सबाध ऋत्विजः । नृणां नृतमं मनुष्याणामतिशयेन स्वकर्मणि नेतारं वीरं
+> सामर्थ्योपेतं त्वां गीर्भिः स्तुतिसाधनभूतैर्वाक्यैरुक्थैः शस्त्रैश्चाभ्याभिमुख्येन
+> प्रार्चत । प्रकर्षणार्चंति । पुरुमायो वृत्रहननादिबहुकर्मा स इंद्रः सहसे
+> बलाय सं जिहीते । गमनोद्यमं करोति । किंच प्रदिवः पुरातन एकोऽसहायः
+> स इंद्रो नमो नमसोऽस्य हविर्लक्षणस्यान्नस्येशे । ईष्टे । यद्वा अस्य सर्वस्य
+> जगत ईष्टे । तस्मा इंद्राय नमः ॥ नृणां । नामन्यतरस्यामिति विभक्तेरुदात्तत्वं ।
+> अर्चत । अर्चतेर्लटि झेस्तादेशः तिजां जो भवंतीति वचनात् । सबाधः । बाध्य
+> विलोडने । क्विप् । वोपसर्जनस्यॆति सहस्य सत्वं । कृदुत्तरपदस्वरः । पुरुमायॆः ।
+> अंतोदात्तप्रकरणे त्रिचक्रादीनामुपसंख्यानमित्यंतोदात्तत्वं । ईशे । ईश
+> ऐश्वर्य इत्यस्य लट लोपस्त आत्मनेपदेष्टिति तलोपः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the priests (sabādhaḥ: those who, by reciting the Rakṣoghna mantras, live with the harassment of the demons concerned) honour you, the foremost leader of men in his own work, the hero endowed with strength, with praises, the words that serve as means of praise, and with ukthas (śastras), facing you. Indra, of many exploits such as slaying Vṛtra, sets out for strength. Further, he, ancient and alone without helper, is lord of this nama, the food in the form of oblation; or else he is lord of this whole world, so homage to that Indra. The rest is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) सबाधः (*sabādhaḥ*)—priests
+- नृणां (*nṛṇāṃ*)—of all men
+- नृतमं (*nṛtamaṃ*)—the pre-eminent leader
+- वीरं (*vīraṃ*)—and endowed with strength
+- त्वा (*tvā*)—you
+- गीर्भिः (*gīrbhiḥ*)—with words in the form of praise
+- उक्षैः (*ukṣaiḥ*)—with mantras in the form of śastras
+- अभि (*abhi*)—sitting before you
+- प्र अर्चत (*pra arcata*)—worship exceedingly
+- पुरुमायः (*purumāyaḥ*)—Indra, the doer of many valorous deeds
+- सहसे (*sahase*)—for the gaining of strength
+- सं जिहीते (*saṃ jihīte*)—wishes to move about
+- प्रदिवः (*pradivaḥ*)—the ancient
+- एकः (*ekaḥ*)—the unaided Indra
+- नमः अस्य (*namaḥ asya*)—for this food in the form of oblation
+- ईशे (*īśe*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the priests, sitting before you, worship exceedingly you, the pre-eminent leader of all men, endowed with strength, with words in the form of praise and mantras in the form of śastras. Indra, the doer of many valorous deeds, wishes to move about to gain strength. Indra, the ancient and unaided, desires this food in the form of oblation.
+
+##### English translation (H. H. Wilson)
+The priests glorify you, heroic leader of men, with praises and with prayers : Indra, the author of many delusions, exerts himself for (the acquirement of) strength : he from of old is the lord of this (oblation).
+
+### Printed p. 142
+
+##### विशेषविषयगळु (Special Topics)
+
+सबाधः (*sabādhaḥ*)—रक्षोघ्नमंत्रोच्चारणेन तद्विषयबाधया सह वर्तंत इति सबाध ऋत्विजः (*rakṣoghnamaṃtroccāraṇena tadviṣayabādhayā saha vartaṃta iti sabādha ṛtvijaḥ*). In sacrifices and the like, Rākṣasas and others cause obstacles. To remove them the priests recite Rakṣoghna mantras. Therefore priests accompanied by harassment from Rākṣasas are called sabādhaḥ; thus the component meaning of the word is explained. Yāska reads the word sabādhaḥ among the names of priests (Ni. 3-19).
+
+पुरुमायः (*purumāyaḥ*)—वृत्रहननादिबहुकर्मा (*vṛtrahananādibahukarmā*). Because in the work of destroying enemies Indra displays many kinds of māyā (devices, stratagems) and daring, he is described as Purumāyaḥ, one who has done many daring deeds.
+
+नमः अस्य प्रदिवः एकः ईशे (*namaḥ asya pradivaḥ ekaḥ īśe*)—पुरातनः असहायः स इंद्रो हविर्लक्षणस्यान्नस्य ईष्टे । यद्वा अस्य सर्वस्य जगत ईष्टे । तस्मा इंद्राय नमः (*purātanaḥ asahāyaḥ sa iṃdro havirlakṣaṇasyānnasya īṣṭe | yadvā asya sarvasya jagata īṣṭe | tasmā iṃdrāya namaḥ*). The commentator's explanation is that this sentence admits two meanings. If nama is taken to mean food (Ni. 3-9), then Indra, ancient and heroic without helper, is lord of the food in the form of oblation, that is, the oblation must be offered to Indra. If nama is taken to mean homage, then Indra is lord of this whole world, and homage is due to such an Indra.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्वीर॑स्य नि॒ष्सिधो॒ मर्त्ये॑षु पु॒रू वसू॑नि पृथि॒वी बि॑भर्ति ।  
+> इंद्रा॑य॒ द्याव॒ ओष॑धीरु॒तापो॑ र॒यिं र॑क्षंति जी॒रयो॒  ॑
+> वनानि ॥ ५ ॥
+
+> *pūrvīrasya niṣsidho martyeṣu purū vasūni pṛthivī bibharti |*  
+> *iṃdrāya dyāva oṣadhīrutāpo rayiṃ rakṣaṃti jīrayo*  
+> *vanāni ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्वीः । अस्य । निःसिधः । मर्त्येषु । पुरु । वसूनि । पृथिवी । बिभर्ति ।  
+> इंद्राय । द्यावः । ओषधीः । उत । आसः । रयिं । रक्षंति । जीरयः । वनानि ॥ ५ ॥
+
+> *pūrvīḥ | asya | niḥsidhaḥ | martyeṣu | puru | vasūni | pṛthivī | bibharti |*  
+> *iṃdrāya | dyāvaḥ | oṣadhīḥ | uta | āsaḥ | rayiṃ | rakṣaṃti | jīrayaḥ | vanāni ‖ 5 ‖*
+
+### Printed p. 143
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्येषु मनुष्यस्येंद्रस्य निष्पिधोऽनुशासनानि पूर्विर्हितोपदेशादिभिः
+> प्रभूतानि नानाप्रकाराणि भवंति । इंद्रस्य शासितृवे मंत्रः । उक्धमिंद्राय शंस्यं
+> वर्धनं पुरुनिष्ठिधे । ऋग्वे. १-१०-५ । इति । तथा शासकाय तस्मा इंद्राय पृथिवी
+> पुरु पुरूणि बहूनि वसूनि धनानि बिभर्ति । अंतर्धारयति । किंच द्यावो द्युलोका
+> ओषधीरोषधय उत अपि चापो जलानि जीरयः । जीय्यंत इति जीरयो
+> मनुष्याः । वनानि वृक्षाश्च एते सर्व इंद्रस्याज्ञया तदुपभोगयोग्यं रयिं धनं
+> रक्षंति ॥ निष्पिधः । षिधु गत्यां । क्विप् । संहितायां निसः सकारेणेणो व्यवधानं
+> छांदसत्वादनादृत्योपसर्गात्सुनोतीत्यादिना षत्वं । निसः सकारस्य ष्टुना ष्टुरिति
+> षत्वं ॥
+
+##### Gist of the bhāṣya
+
+Among mortals, the injunctions (niṣpidhaḥ) of Indra are many and of various kinds, through beneficial teachings and the like. A mantra on Indra as ruler: उक्धमिंद्राय शंस्यं वर्धनं पुरुनिष्ठिधे (*ukdhamiṃdrāya śaṃsyaṃ vardhanaṃ puruniṣṭhidhe*) (Ṛg. 1-10-5). Likewise the earth holds many treasures within for that ruling Indra. Further, the heavens, the plants, the waters, the jīrayaḥ (men, who are worn out) and the forests (trees): all these, by Indra's command, guard the wealth fit for his enjoyment. The rest is grammar on niṣpidhaḥ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्येषु (*martyeṣu*)—among men
+- अस्य (*asya*)—of this Indra
+- निषिधः (*niṣidhaḥ*)—teachings in the form of grace
+- पूर्वीः (*pūrvīḥ*)—are many
+- इंद्राय (*iṃdrāya*)—for this Indra, the teacher
+- पृथिवी (*pṛthivī*)—the earth
+- पुरु (*puru*)—many
+- वसूनि (*vasūni*)—treasures
+- भिभर्ति (*bhibharti*)—holds
+- द्यावः (*dyāvaḥ*)—the heavens
+- ओषधीः (*oṣadhīḥ*)—the plants
+- उत (*uta*)—and
+- आपः (*āpaḥ*)—the waters
+- जीरयः (*jīrayaḥ*)—men
+- वनानि (*vanāni*)—trees
+- रयिं (*rayiṃ*)—wealth
+- रक्षंति (*rakṣaṃti*)—guard
+
+##### भावार्थ (Bhāvārtha)
+
+The teachings of this Indra, in the form of grace, are many among men. For this Indra, the teacher, the earth holds many treasures. The heavens, the plants, the waters, men and the trees also keep wealth guarded for him.
+
+##### English translation (H. H. Wilson)
+Many are his prohibitions (against evil enjoined) to men : many are the treasures that the earth enshrines : for Indra the heavens, the plants, the waters, men and priests, preserve their riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूर्वीः अस्य निष्पिधः मर्त्येषु (*pūrvīḥ asya niṣpidhaḥ martyeṣu*)- अनुशासनानि हितोपदेशादिभिः नानाप्रकाराणि भवंति (*anuśāsanāni hitopadeśādibhiḥ nānāprakārāṇi bhavaṃti*). Indra's injunctions or rules are many with regard to men, in the form of beneficial teaching. Here the commentator explains the word niṣpidhaḥ as injunctions, rules; that is, to punish and restrain the wicked is called anuśāsana. With this meaning—
+
 ---
 
-**Progress note:** Done through printed p. 137. pp. 132-137 (batch API, retry 2)
+**Progress note:** Done through printed p. 143. pp. 138-143 (batch API)
