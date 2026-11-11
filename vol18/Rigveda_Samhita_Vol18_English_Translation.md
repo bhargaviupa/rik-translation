@@ -4037,6 +4037,294 @@ Which hero, in time of battle, obtains the companionship of this Indra, who give
 ##### English translation (H. H. Wilson)
 What hero has enjoyed his fellowship (in battle)? who has been a sharer in his benevolent thoughts? when does any one apprreciate his wonderful bounty ? when is he (present) for the promotion of the prosperity of the man who glorifies and worships him?
 
+### Printed p. 119
+
+#### Special Topics
+The meaning of this Ṛk is clear. In this Ṛk and in some of the following Ṛks the seer describes the qualities of Indra in the form of questions. Since their meaning is easy and clear, no further explanation is necessary.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था शृ॑णोति हू॒यमा॑न॒मिंद्रः॑ क॒था शृ॒ण्वन्नव॑सामस्य वेद ।  
+> का अ॑स्य पू॒र्विरुप॑मातयो ह क॒थैन॑माहुः॒ पपु॑रिं जरि॒त्रे ॥
+
+> *kathā śṛṇoti hūyamānamiṃdraḥ kathā śṛṇvannavasāmasya veda |*  
+> *kā asya pūrvirupamātayo ha kathainamāhuḥ papuriṃ jaritre ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । शृणोति । हूयमानं । इंद्रः । कथा । शृण्वन् । अवसां । अस्य । वेद ।  
+> काः । अस्य । पूर्विः । उपमातयः । ह । कथा । एनं । आहुः । पपुरिं । जरित्रॆ ॥ ३ ॥
+
+> *kathā | śṛṇoti | hūyamānaṃ | iṃdraḥ | kathā | śṛṇvan | avasāṃ | asya | veda |*  
+> *kāḥ | asya | pūrviḥ | upamātayaḥ | ha | kathā | enaṃ | āhuḥ | papuriṃ | jaritrè ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः परमैश्वर्ययुक्तो हूयमानमाह्वयंतं स्तोतारं कथा कथं
+> शृणोति । स्तोत्राणि शृण्वन्नस्य स्तोतुः संबंधीन्यवसां रक्षणानि कथा कथं च वेद ।
+> वेत्ति । पूर्विः पुरातनान्यस्येंद्रस्य संबंधीन्युपमातयो दानानि का ह । कानि चित्
+> संतीति शेषः । तानि दानानि जरित्रॆ स्तोतुः संबंधिनां कामानां पपुरिं पूरयितारमेनमिंद्रं कथा कथं चाहुः । वदंति ॥
+
+##### Gist of the bhāṣya
+
+Indra, endowed with supreme lordship: how does he hear the worshipper who calls (invokes) him? And hearing the praises, how does he know the protections (अवसां (*avasāṃ*)) belonging to this praiser? Which are the ancient gifts (उपमातयः (*upamātayaḥ*)) of this Indra? The words "there are some" are to be supplied. And how do they speak of this Indra, as the fulfiller (पपुरिं (*papuriṃ*)) of the desires of the praiser?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra, endowed with lordship
+- हूयमानं (*hūyamānaṃ*)—the praiser who praises and calls (his praise)
+- कथा (*kathā*)—in what manner
+- शृणोति (*śṛṇoti*)—does he hear
+- शृण्वन् (*śṛṇvan*)—after hearing this praise
+- अस्य (*asya*)—of this praiser, the desired
+- अवसां (*avasāṃ*)—protections
+- कथा (*kathā*)—in what manner
+- वेद (*veda*)—does he know
+- अस्य (*asya*)—of this Indra
+- पूर्विः (*pūrviḥ*)—ancient
+- उपमातयः (*upamātayaḥ*)—gifts
+- काः ह (*kāḥ ha*)—of what kind are they
+- जरित्रॆ (*jaritrè*)—the desires wished for by the praiser
+- पपुरिं (*papuriṃ*)—who fulfils
+- एनं (*enaṃ*)—this Indra
+- कथा (*kathā*)—in what manner
+- आहुः (*āhuḥ*)—do they praise?
+
+### Printed p. 120
+
+##### भावार्थ (Bhāvārtha)
+
+How does Indra, endowed with great lordship, hear the praise of the praiser who praises him? Having been praised in this manner, how does he come to know what protections are desired by the praiser in return for those praises? Of what kind are the ancient gifts of this Indra? In what manner can the Hotṛs praise Indra, who fulfils the desires wished for by the praiser?
+
+##### English translation (H. H. Wilson)
+How is it that Indra hears (the worshipper) who invokes him? and hearing, how does he know his necessities? what are his gifts of old; why have they termed him the fulfiller (of the desires) of him who offers praise?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था स॒बाधः॑ शशमा॒नो अ॑स्य॒ नश॑द॒भि द्रवि॑णं॒ दीध्या॑नः ।  
+> दे॒वो भु॑व॒न्नवे॑दा म ऋ॒तानां॒ नमो॑ जगृ॒भ्वा अ॒भि  ॑
+> यज्जुजोषत् ॥ ४ ॥
+
+> *kathā sabādhaḥ śaśamāno asya naśadabhi draviṇaṃ dīdhyānaḥ |*  
+> *devo bhuvannavedā ma ṛtānāṃ namo jagṛbhvā abhi*  
+> *yajjujoṣat ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । सबाधः । शशमानः । अस्य । नशत् । अभि । द्रविणं । दीध्यानः ।  
+> देवः । भुवत् । नवेदाः । मे । ऋतानां । नमः । जगृभ्वान् । अभि । यत् ।  
+> जुजोषत् ॥ ४ ॥
+
+> *kathā | sabādhaḥ | śaśamānaḥ | asya | naśat | abhi | draviṇaṃ | dīdhyānaḥ |*  
+> *devaḥ | bhuvat | navedāḥ | me | ṛtānāṃ | namaḥ | jagṛbhvān | abhi | yat |*  
+> *jujoṣat ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सबाधः सपत्ना नां पीडासहितः शशमान इंद्रविषयां स्तुतिं कुर्वन् दीध्यानः
+> कर्मभिर्दिप्यमानो यजमानोऽस्येंद्रस्य संबंधि द्रविणं पश्वादिधनं कथा
+> कथमभि नशत् । अभिप्राप्नोति । नमो हविर्लक्षणमन्नं जगृभ्वान् गृहीतवानिंद्रो
+
+##### Gist of the bhāṣya
+
+The sacrificer is "accompanied by affliction" (सबाधः (*sabādhaḥ*)), that is, harassed by his rivals; he is "praising" (शशमानः (*śaśamānaḥ*)), that is, offering praise addressed to Indra; and he is "shining" (दीध्यानः (*dīdhyānaḥ*)) through his rites. How does he obtain this Indra's wealth (द्रविणं (*draviṇaṃ*)), the wealth of cattle and the like? नमः (*namaḥ*) is the food that has the nature of an oblation; Indra is जगृभ्वान् (*jagṛbhvān*), "one who has taken" it.
+
+### Printed p. 121
+
+> यद्यदाभि जुजोषत् मामभिसेवेत तदा देवो दीप्यमान इंद्रो मे मदीयानामृतानां स्तोत्राणां नवेदा अतिशयेन ज्ञाता भुवत् । भवेश् । अत्र
+> निपातस्थो नकारोऽतिशयवाची ॥
+
+##### Gist of the bhāṣya
+
+When Indra, having taken the oblation, favours me (जुजोषत् (*jujoṣat*)), then may that shining Indra become the exceedingly good knower (नवेदाः (*navedāḥ*)) of my ṛtas, that is, of my praises. भुवत् (*bhuvat*) is optative ("may he be"). Here the न (*na*) that stands among the particles denotes excess.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शशमानः (*śaśamānaḥ*)—the one who praises Indra
+- दीध्यानः (*dīdhyānaḥ*)—and shines through rites; the sacrificer
+- सबाधः (*sabādhaḥ*)—though oppressed by enemies
+- अस्य (*asya*)—belonging to Indra
+- द्रविणं (*draviṇaṃ*)—wealth such as cattle
+- कथा (*kathā*)—in what manner
+- अभि नशत् (*abhi naśat*)—does he obtain
+- नमः (*namaḥ*)—the food in the form of the oblation
+- जगृभ्वान् (*jagṛbhvān*)—Indra who has taken
+- यत् (*yat*)—when
+- अभि जुजोषत् (*abhi jujoṣat*)—he is served before me
+- देवः (*devaḥ*)—that same venerable Indra
+- मे (*me*)—offered by me
+- ऋतानां (*ṛtānāṃ*)—the praises
+- नवेदाः (*navedāḥ*)—as one who knows
+- भुवत् (*bhuvat*)—let him be.
+
+##### भावार्थ (Bhāvārtha)
+
+How does the sacrificer, who praises Indra and shines through rites, though oppressed by enemies, obtain the wealth of cattle and the like belonging to Indra? When Indra, who has taken the food in the form of the oblation, turns towards me and is served, then may that same venerable Indra be the knower of the praises offered by me.
+
+##### English translation (H. H. Wilson)
+How does he who glorifies Indra, and is diligent in his worship, although encountering opposition, obtain from him wealth? may the divine Indra be the appreciator of my praises, when accepting the sacrificial food he is propitiated towards me.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था कद॒स्या उ॒षसो॒ व्यु॑ष्टौ दे॒वो मर्त॑स्य स॒ख्यं जु॑जोष ।  
+> क॒था कद॑स्य स॒ख्यं सखि॑भ्यो॒ ये अ॑स्मि॒न्नामं॑ सु॒युजं॑  ॒
+> ततस्रे ॥ ५ ॥
+
+> *kathā kadasyā uṣaso vyuṣṭau devo martasya sakhyaṃ jujoṣa |*  
+> *kathā kadasya sakhyaṃ sakhibhyo ye asminnāmaṃ suyujaṃ*  
+> *tatasre ‖ 5 ‖*
+
+### Printed p. 122
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । कत् । अस्याः । उषसः । विउष्टौ । देवः । मर्तस्य । सख्यं । जुजोष ।  
+> कथा । कत् । अस्य । सख्यं । सखिभ्यः । ये । अस्मिन् । कामं । सुयुजं । ततस्रे ॥ ५ ॥
+
+> *kathā | kat | asyāḥ | uṣasaḥ | viuṣṭau | devaḥ | martasya | sakhyaṃ | jujoṣa |*  
+> *kathā | kat | asya | sakhyaṃ | sakhibhyaḥ | ye | asmin | kāmaṃ | suyujaṃ | tatasre ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमान इंद्रोऽस्या उषसो व्युष्टौ प्रभाते मर्तस्य मर्त्यस्य
+> मनुष्यस्य स्तोतुः संबंधि सख्यं सखिकर्म कथा कथं केन प्रकारेण कत्कदा
+> जुजोष । सेवेत । ये स्तोतारोऽस्मिन्निंद्रे सुयुजं सुष्टु प्रयुज्यमानं
+> कामं कामनीयं हविः स्तोत्रं च ततस्रे वितेनिरे अस्येंद्रस्य सख्यं सखिकर्म
+> सखिभ्यः स्तोतृभ्यः कथा कथं कत्कदाचित् । भवेदिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The shining Indra, at the dawning (व्युष्टौ (*vyuṣṭau*)) of this dawn, in the morning: how, in what manner, and when does he accept (जुजोष (*jujoṣa*), "would serve") the friendship (सख्यं (*sakhyaṃ*), the office of a friend) of the mortal (मर्तस्य (*martasya*)), the praiser, a human being? The praisers who have spread out (ततस्रे (*tatasre*)) towards this Indra the well-applied, desirable oblation and praise: how and when does this Indra's friendship come to those friends, the praisers? The words "may it be" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—Indra, the shining one
+- आस्त्याः उषसः (*āstyāḥ uṣasaḥ*)—of this dawn
+- व्युष्टौ (*vyuṣṭau*)—at the time of rising
+- मर्तस्य (*martasya*)—to help the praiser, a human being
+- सख्यं (*sakhyaṃ*)—the office of a friend
+- कथा (*kathā*)—in what manner
+- कत् (*kat*)—when
+- जुजोष (*jujoṣa*)—does he carry out
+- ये (*ye*)—which praisers
+- अस्मिन् (*asmin*)—addressed to this Indra
+- सुयुजं (*suyujaṃ*)—that which is to be offered excellently
+- कामं (*kāmaṃ*)—the oblation (or the praise)
+- ततस्रे (*tatasre*)—have extended and spread out (such)
+- सखिभ्यः (*sakhibhyaḥ*)—to the praisers, the friends of Indra
+- अस्य (*asya*)—of this Indra
+- सख्यं (*sakhyaṃ*)—the helpful act of friendship
+- कथा (*kathā*)—in what manner
+- कत् (*kat*)—when (does it become manifest)
+
+##### भावार्थ (Bhāvārtha)
+
+In what manner and when does the shining Indra, at the time of the rising of this dawn, carry out his office of friend in order to help the human praiser? When and in what manner does the friendly act of Indra become manifest to those praisers who have spread out and offered, addressed to this Indra, the excellently offered oblation or praise?
+
+##### English translation (H. H. Wilson)
+when, in what manner, at the dawning of this morning, has the divine Indra accepted the friendship of a mortal? when, and in what manner, (is) his friendship (manifested) to the friends who have spread out the desirable and suitable (offering) before him ?
+
+### Printed p. 123
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमादम॑त्रं स॒ख्यं सखि॑भ्यः क॒दा नु ते॑ भ्रा॒त्रं प्र ब्र॑वाम ।  
+> श्रि॒ये सु॒दृशो॒ वपु॑रस्य॒ सर्गाः॒ स्व१॒॑र्ण चि॒त्रत॑ममिष॒  
+> आ गोः ॥ ६ ॥
+
+> *kimādamatraṃ sakhyaṃ sakhibhyaḥ kadā nu te bhrātraṃ pra bravāma |*  
+> *śriye sudṛśo vapurasya sargāḥ svarṇa citratamamiṣa*  
+> *ā goḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । आत् । अमत्रं । सख्यं । सखिभ्यः । कदा । नु । ते । भ्रात्रं । प्र । ब्रवाम ।  
+> श्रिये । सुदृशः । वपुः । अस्य । सर्गाः । स्वः । न । चित्रतमं । इषे । आ । गोः ॥ ६ ॥
+
+> *kiṃ | āt | amatraṃ | sakhyaṃ | sakhibhyaḥ | kadā | nu | te | bhrātraṃ | pra | bravāma |*  
+> *śriye | sudṛśaḥ | vapuḥ | asya | sargāḥ | svaḥ | na | citratamaṃ | iṣe | ā | goḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं यजमानास्ते त्वदीयममत्रं शत्रुनभिभावुकं सख्यं सखिकर्म सखिभ्यः स्तोतृभ्यः किमात् किं स्वित् प्र ब्रवाम । प्रकर्षण वदेम । ते
+> त्वदीयं भ्रात्रं भ्रातृकर्म च कदा नु कदा खलु प्र ब्रवाम । सुदृशः शोभनदर्शनस्यास्येंद्रस्य संबंधिनः सर्गा उद्योगाः श्रिये सर्वेषां स्तोतृणां श्रेयसे ।
+> भवंतीति शेषः । स्वर्ण सूर्यो यथा दर्शनीयतमस्तथा गोर्गंतुरिंद्रस्य
+> चित्रतमं दर्शनीयतमं वपुः शरीरमेषे । आ समंतात्सर्वैरिष्यते ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, we sacrificers: your friendship (सख्यं (*sakhyaṃ*)), which overpowers (अमत्रं (*amatraṃ*)) enemies, to the friends, the praisers: may we in some way (किमात् (*kimāt*), "in what way indeed") proclaim it forth? And your brotherly act (भ्रात्रं (*bhrātraṃ*)): when indeed may we proclaim it?" The endeavours (सर्गाः (*sargāḥ*)) of this fair-looking Indra are for the welfare (श्रिये (*śriye*)) of all the praisers; "they are" is to be supplied. As the sun (स्वः (*svaḥ*)) is most beautiful to behold, so the most wonderful (चित्रतमं (*citratamaṃ*)), most beautiful form (वपुः (*vapuḥ*)) of Indra the goer (गोः (*goḥ*)) is wished for (आ इषे (*ā iṣe*)) on all sides by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अमत्रं (*amatraṃ*)—destroying enemies
+- सख्यं (*sakhyaṃ*)—your friendly act
+- सखिभ्यः (*sakhibhyaḥ*)—to the praisers, your friends
+- किमात् (*kimāt*)—in any way at all
+- प्र ब्रवाम (*pra bravāma*)—may we declare it with praise
+- ते (*te*)—your
+- भ्रात्रं (*bhrātraṃ*)—brotherly act
+- कदा नु (*kadā nu*)—when is it to be praised
+- सुदृशः (*sudṛśaḥ*)—of excellent form
+- अस्य (*asya*)—of this Indra
+- सर्गाः (*sargāḥ*)—all the activities
+- श्रिये (*śriye*)—are the cause of the welfare (of all praisers)
+- स्वः न (*svaḥ na*)—radiant like the sun
+- गोः (*goḥ*)—of Indra who moves
+- चित्रतमं (*citratamaṃ*)—most attractive
+- वपुः (*vapuḥ*)—the body
+- आ इषे (*ā iṣe*)—is esteemed by all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may your friendly act, which destroys enemies, be declared in some way with praise by your friends to the praisers? When is your brotherly act to be praised?
+
+### Printed p. 124
+
+The acts of this Indra, of excellent form, are all a cause of the welfare of all the praisers. The most attractive body of Indra, who moves radiant like the sun, is esteemed by all.
+
+##### English translation (H. H. Wilson)
+May we in any manner proclaim your friendship for your friends? when may (we make known) your fraternal regard? the efforts of thc well-looking Indra are for the happiness of all : the wonderful form of moving (Indra) is, like the sun, ever wished for.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्रुहं॒जिघां॑सन्‌ध्व॒रस॑मनिं॒द्रां तेति॑क्ते ति॒ग्मा तु॒जसे॒ अनी॑का।  
+> ऋ॒णा चि॒द्यत्र॑ ऋण॒या न॑ उ॒ग्रो दू॒रे अज्ञा॑ता उ॒षसो॑  ॒
+> बबाधे ॥ ७ ॥
+
+> *druhaṃjighāṃsandhvarasamaniṃdrāṃ tetikte tigmā tujase anīkā|*  
+> *ṛṇā cidyatra ṛṇayā na ugro dūre ajñātā uṣaso*  
+> *babādhe ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रुहं । जिघांसन् । ध्वरसं । अनिंद्रां । तेतिक्ते । तिग्मा । तुजसे । अनीका ।  
+> ऋणा । चित् । यत्र । ऋणयाः । नः । उग्रः । दूरे । अज्ञाताः । उषसः । बबाधे ॥
+
+> *druhaṃ | jighāṃsan | dhvarasaṃ | aniṃdrāṃ | tetikte | tigmā | tujase | anīkā |*  
+> *ṛṇā | cit | yatra | ṛṇayāḥ | naḥ | ugraḥ | dūre | ajñātāḥ | uṣasaḥ | babādhe ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो द्रुहं द्रोहं कुर्वतीं ध्वरसं हिंसिकामनिंद्रामिंद्रमजानतीं राक्षसीं जिघांसन् हंतुमिच्छन् तिग्मा तिग्मानि पूर्वमेव तीक्ष्णान्यनीकानीकान्यायुधानि तुजसे तद्वधाय तेतिक्ते । अत्यर्थं तीक्ष्णीकरोति । यत्र यासूषःसु
+> तदुपलक्षितेश्वहस्त्वणा चित् ऋणान्यपि नोऽस्यान्बाधंत इति शेषः । ता उषसश्चोग्र
+> उद्धूर्णबल ऋणया ऋणस्य हंतेंद्रः । यातिर्वधकर्मा । दूरेऽज्ञाता अननुभूताः सतीर्बबाधे । अपीडयत् ॥
+
+##### Gist of the bhāṣya
+
+This Indra, wishing to slay (जिघांसन् (*jighāṃsan*)) the demoness who does harm (द्रुहं (*druhaṃ*)), who injures (ध्वरसं (*dhvarasaṃ*)) and who does not know Indra (अनिंद्रां (*aniṃdrāṃ*)), sharpens exceedingly (तेतिक्ते (*tetikte*)) for her slaying his weapons (अनीका (*anīkā*)), already sharp (तिग्मा (*tigmā*)). Then, in the dawns in which even debts (ऋणा (*ṛṇā*)) afflict us, "they afflict us" being the words to be supplied, the fierce (उग्रः (*ugraḥ*)) Indra, of mighty strength, the slayer of the debt (ऋणयाः (*ṛṇayāḥ*)), afflicted those dawns, which were unknown, unexperienced, far away; *yātiḥ* is a word for the act of slaying. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 118. pp. 113-118 (batch API)
+**Progress note:** Done through printed p. 124. pp. 119-124 (batch API)
