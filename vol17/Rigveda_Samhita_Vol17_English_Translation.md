@@ -15103,6 +15103,133 @@ Thus Mitra, described in the Devasū sacrifice as truth in nature, is praised in
 
 यः ते शिक्षति सः प्रयस्वान् अस्तु (*yaḥ te śikṣati saḥ prayasvān astu*)—Sāyaṇa explains in the Ṛksaṃhitā-bhāṣya that the prayer is: "may he who offers you oblations and the like be rich in food." He has shown that the word शिक्षति (*śikṣati*) has the meaning ददाति (*dadāti*), "gives". Bhaṭṭabhāskara, on the Taittirīya Saṃhitā
 
+### Printed p. 450
+[The first lines of this page complete the sentence from the previous page.] In the Taittirīya Saṃhitā, Bhaṭṭabhāskara shows two kinds of construction for the word शिक्षति (*śikṣati*) and states two kinds of purport. First: हे आदित्य आदितेः पुत्र यस्तव प्रीतेन कर्मणा यागादिना शिक्षति शक्तो भवितुमिच्छति....सः न हन्यते....॥ (*he āditya āditeḥ putra yastava prītena karmaṇā yāgādinā śikṣati śakto bhavitumicchati....saḥ na hanyate....‖*) "O Āditya, son of Aditi, whoever gains the power to please you with an action dear to you and to win your favour, he becomes possessed of food": this is one way. Second: शिक्ष-विद्यो पादाने । (*śikṣa-vidyo pādāne |*) वृतेनेति व्यत्ययेन द्वितीयं बहुवचनस्य स्थाने तृतीयैकवचनं । (*vṛteneti vyatyayena dvitīyaṃ bahuvacanasya sthāne tṛtīyaikavacanaṃ |*) The root शिक्ष (*śikṣa*) is used in the sense "acquire learning". Instead of the accusative व्रतानि (*vratāni*) ("vows") the instrumental व्रतेन (*vratena*) is used. The purport, he gives as another way of taking the meaning, is that those who practise the vows again and again and worship Āditya become possessed of food.
+
+But there are many places in the Ṛgveda Saṃhitā where the root शिक्ष (*śikṣa*) is used in the sense of giving. For example—
+
+द्युमा असि क्रतुमा इंद्र धीरः शिक्षा शचीवस्तव नः शचेभिः । (*dyumā asi kratumā iṃdra dhīraḥ śikṣā śacīvastava naḥ śacebhiḥ |*) (Ṛ. Saṃ. 1-62-12)
+
+Here the sense of giving is stated for शिक्ष (*śikṣa*): "O Indra, possessed of action, give us wealth." Therefore, in the present mantra, the meaning of शिक्षति (*śikṣati*) as "offers the oblation" is not unsound.
+
+अंहः (*aṃhaḥ*)—अंहतिश्चांहश्चांहुश्च हंतेः । (*aṃhatiścāṃhaścāṃhuśca haṃteḥ |*) (Ni. 4-25). Although the word अंहस् (*aṃhas*) is derived from the root हन् (*han*), meaning "to injure", the sense in commonest use for this word is "sin", the source of injury; in the present Ṛk too the meaning is sin.
+
+तोतः (*totaḥ*)—त्वया ऊतः । (*tvayā ūtaḥ |*) "One protected by you": it refers to Āditya. The purport is that for one protected by Āditya, wealth of food, protection from enemies in the form of poverty and the like, and release from sin are all assured.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न॒मी॒वास॒ इळ॑या॒ मदं॑तो मि॒तज्ञ॑वो॒ वरि॑म॒न्ना पृ॑थि॒व्याः।  
+> आ॒दि॒त्यस्य॑ व्र॒तमु॑पक्षि॒यंतो॑ व॒यं मि॒त्रस्य॑ सुम॒तौ स्या॑म ॥
+
+> *anamīvāsa iḷayā madaṃto mitajñavo varimannā pṛthivyāḥ|*  
+> *ādityasya vratamupakṣiyaṃto vayaṃ mitrasya sumatau syāma ‖*
+
+### Printed p. 451
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनमीवासः । इळया । मदंतः । मितज्ञवः । वरिमन् । आ । पृथिव्याः ।  
+> आदित्यस्य । व्रतं । उपक्षियंतः । वयं । मित्रस्य । सुमौ । स्याम ॥ ३ ॥
+
+> *anamīvāsaḥ | iḷayā | madaṃtaḥ | mitajñavaḥ | variman | ā | pṛthivyāḥ |*  
+> *ādityasya | vrataṃ | upakṣiyaṃtaḥ | vayaṃ | mitrasya | sumau | syāma ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवसुवां हविषु मित्रस्य सत्यस्यानुवाक्या । अनमीवास इळया मदंतः प्र
+> स मित्र मर्तो अस्तु प्रयस्वानिति सूत्रितं । आ. ४-११ ॥
+> हे मित्र अनमीवासो रोगवर्जिता इळयान्नेन मदंतो माद्यंतः पृथिव्या
+> वरिमन्विस्तीर्णे प्रदेशे मितज्ञवो मितजानुका आ यथाकामं सर्वत्र गच्छंत
+> आदित्यस्य संबंधि व्रतं कर्मोपक्षियंतस्तस्य कर्मणः समीपे निवसंतः । तदीयं
+> कर्म कुर्वाणा इत्यर्थः । तादृशा वयं मित्रस्यादित्यस्य सुमत् शोभनायामनुग्रहबुद्ध्यां स्याम । वर्तेमहि ॥ मदंतः । मदी हर्ष इत्यस्य शतरि व्यत्ययेन
+> शप् । मितज्ञवः ! जानुशब्दस्य ज्ञुश्कांदसः । वरिमन् । उरुशब्दात्पृथ्वादित्वादिमनिच् । प्रियस्थिरेत्यादिना वरादेशः । सुपां सुलुगिति सप्तम्या लुक् । व्यत्ययेनाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+This is the anuvākyā for Mitra (Satya) in the Devasū oblations; the Āśvalāyana sūtra अनमीवास इळया मदंतः प्र स मित्र मर्तो अस्तु प्रयस्वान् (*anamīvāsa iḷayā madaṃtaḥ pra sa mitra marto astu prayasvān*) (Ā. 4-11) prescribes it. "O Mitra, free from disease, rejoicing with इळया (*iḷayā*), food, moving about at will everywhere in the wide expanse of the earth, 'with measured knees' (मितज्ञवः (*mitajñavaḥ*), i.e. मितजानुका (*mitajānukā*)), dwelling near the rite of Āditya, that is, performing his rite, may we be in the good, gracious mind of Mitra, Āditya." The rest is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनमीवासः (*anamīvāsaḥ*)—free from disease (O Mitra)
+- इळॆया (*iḷèyā*)—with food
+- मदंतः (*madaṃtaḥ*)—being satisfied
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- वरिमन् (*variman*)—in the wide region
+- मितज्ञवः (*mitajñavaḥ*)—with measured walking
+- आ (*ā*) (गच्छंत (*gacchaṃta*))—moving about freely
+- आदित्यस्य (*ādityasya*)—directed to Āditya
+- व्रतं (*vrataṃ*)—the rite
+- उपक्षियंतः (*upakṣiyaṃtaḥ*)—performing
+- वयं (*vayaṃ*)—we
+- मित्रस्य (*mitrasya*)—of Āditya
+- सुमत् (*sumat*)—in the gracious mind
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, may the gracious mind of Āditya rest upon us, who are free from disease, satisfied with food, moving about freely in the wide regions of the earth, and performing the rite directed to Āditya.
+
+##### English translation (H. H. Wilson)
+May we, exempt from disease, rejoicing in (abundant) food, roaming free over the wide (expanse) of the earth, diligent in the worship of Aditya, ever be in the good favour of Mitra.
+
+### Printed p. 452
+
+##### विशेषविषयगळु (Special Topics)
+
+When the oblations called Devasū are offered, this Ṛk अनमीवास इळया (*anamīvāsa iḷayā*) is to be recited as the puronuvākyā mantra addressed to Mitra; this is set out by the Āśvalāyana Śrauta Sūtra अनमीवास इळया मदंतः प्र स मित्र मर्तो अस्तु प्रयस्वान् (*anamīvāsa iḷayā madaṃtaḥ pra sa mitra marto astu prayasvān*) (Ā. 4-11).
+
+In this mantra the favour of Āditya, in the form of Mitra, is prayed for. Neither wealth of food nor wealth of cattle is sought. Even where life is prosperous and contented, the prayer is for good understanding, that one may be a doer of good acts and follow the good path. The epithets अनमीवासः (*anamīvāsaḥ*) and इळॆया मदंतः (*iḷèyā madaṃtaḥ*) also show the good state of the worshipper.
+
+On the nature of Iḷā. The word इळया (*iḷayā*) is here explained as "food". The particular deity denoted by the word इळा (*iḷā*) was described earlier, when the deities of the Āprī hymns were treated [Ṛgveda Saṃhitā, part 11, p. 264]. But the other meanings suggested by this word were not explained there. The uses of this word, which in many contexts give room for doubt, must be examined for what meanings they indicate in which contexts.
+
+The Nirukta author lists the word इळा (*iḷā*) among the names of the earth (Ni. 1-1), among the names of speech (1-11), and among the names of food (2-7). Here it is explained as food. Food may be either earthly wealth of food, or else a particular divine power that is the original cause of this food.
+
+In places such as येषामिळा धृतहस्ता दुरोण आ अपि प्राता निषीदति । (*yeṣāmiḷā dhṛtahastā duroṇa ā api prātā niṣīdati |*) (Ṛ. Saṃ. 7-16-8), the goddess in the form of food, characterised as the oblation, अन्नरूपा हविर्लक्षणा देवी निषीदति । (*annarūpā havirlakṣaṇā devī niṣīdati |*): since the goddess in the form of food is described as sitting with butter in her hands, a particular power is indicated. There is room for the doubt whether the goddess Iḷā praised in the Āprī hymns is different from this Iḷā in the form of food; but if all the Śruti passages are examined closely, identity is what appears.
+
+यज्ञे चेद्वै मावकल्पयिष्यसि बहुः प्रजया पशुभिर्भविष्यसि । (*yajñe cedvai māvakalpayiṣyasi bahuḥ prajayā paśubhirbhaviṣyasi |*) (Śa. Brā. 1-8-19)**NOTE**
+
+### Printed p. 453
+This assurance — "if you perform the sacrifice with my help, the sacrificer will be endowed with wealth of food, of cattle and of offspring" — was spoken by the goddess Iḷā. Who is this Iḷā? What is her connection with the sacrifice? These matters are explained in detail in the Śatapatha Brāhmaṇa. Although, in reality, the Iḷā described in many passages of the Ṛgveda Saṃhitā and the Iḷā described in the Śatapatha are the same, particular usages give room for doubt. In some contexts the word इळॆ (*iḷè*) is used in the masculine; and in places such as इति त्वा देवा इम आहुरैळॆ .... .... (*iti tvā devā ima āhuraiḷè .... ....*) (Ṛ. Saṃ. 10-95-18), Aila (Purūravas) raises the doubt whether he is a son of Iḷā (fem. इळॆ (*iḷè*)) or of Iḷa; so there is room for such doubt as well. If the Śruti passages are closely examined, there is no room for such doubts. To know in what context the above-quoted sentence यज्ञे चेद्वै मावकल्पयिष्यसि (*yajñe cedvai māvakalpayiṣyasi*) was spoken and what its real meaning is, the story of the Śatapatha must be known. In this narrative the origin, power and nature of Iḷā are fully understood. Thereafter one can understand that the Iḷā praised in the Ṛgveda Saṃhitā has this same nature. Moreover, one can examine the appropriateness of the use of इळा (*iḷā*) in the present mantra concerning Mitra.
+
+The origin of Iḷā and her earthly nature.
+मनवे ह वै प्रातः .... .... .... .... तदप्येतदुत्तरस्य गिरेर्मनोरवसर्पणमित्यौघो ह ताः सर्वाः प्रजा निरुवाहाधेह मनुरेवैकः परिशिशिषे । (*manave ha vai prātaḥ .... .... .... .... tadapyetaduttarasya girermanoravasarpaṇamityaugho ha tāḥ sarvāḥ prajā niruvāhādheha manurevaikaḥ pariśiśiṣe |*) (Śa. Brā. 1-8-1-1 to 6)
+
+Manu reared a fish in the water brought for washing, and with the help of that fish crossed the great flood, and sat practising austerity at the place famed as Manu's mountain. When the flood had swept away all other creatures and he alone sat there in that tranquil setting practising austerity, the wish for offspring arose in him.
+
+सोऽर्चञ्चाम्यंश्चकार प्रजाकामः । तत्रापि पाकयज्ञेनेजे स धृतं दधि मस्त्वामिक्षामित्यप्सु जुहवांचकार ततः संवत्सरे योषित्संबभूव सा ह पिब्बमानेवोदेयाय तस्यै ह स्म धृतं पदे संतिष्ठते तया मित्रावरुणौ संजग्माते ॥ (*so 'rcañcāmyaṃścakāra prajākāmaḥ | tatrāpi pākayajñeneje sa dhṛtaṃ dadhi mastvāmikṣāmityapsu juhavāṃcakāra tataḥ saṃvatsare yoṣitsaṃbabhūva sā ha pibbamānevodeyāya tasyai ha sma dhṛtaṃ pade saṃtiṣṭhate tayā mitrāvaruṇau saṃjagmāte ‖*) (Śa. Brā. 1-8-1-7)
+
+Desiring offspring, Manu stayed silent, practising austerity and engaged in worship of the gods. At this time he performed a pāka-yajña and, in the rite belonging to it, offered butter, curds, whey ("Whey" printed) and āmikṣā ("Curds" printed) into the water. Within a year a woman came into being. When she arose, firm of limb (पिब्बमान (*pibbamāna*) = "firm", with limbs), she appeared with butter on her feet.
+### Printed p. 454
+(The epithet धृतहस्ता (*dhṛtahastā*), 7-16-8, in the Ṛgveda Saṃhitā was mentioned above.) At that time Mitra and Varuṇa met her.
+
+ताग्ंहोचतुः कासीति । मनोर्दुहितेत्यावयोर्ब्रूष्टेति नेति होवाच य एव मामजीजनत तस्यॆवाहमस्मीति तस्यामपित्वमीषाते तद्वा जज्ञा तद्वा न जज्ञावतित्त्वेवेयाय सा मनुमाजगाम ॥ (*tāgṃhocatuḥ kāsīti | manorduhitetyāvayorbrūṣṭeti neti hovāca ya eva māmajījanata tasyèvāhamasmīti tasyāmapitvamīṣāte tadvā jajñā tadvā na jajñāvatittveveyāya sā manumājagāma ‖*)
+
+When they asked who she was, she said, "I am Manu's daughter." When they pressed, "Say that you are ours," she said, "Certainly not; I belong to him who begot me; I am his daughter." They wished to have a share in her. Then she signified neither consent nor refusal, but went to her father Manu and joined him.
+
+ताग्ं ह मनुरुवाच कासीति । तव दुहितेति कथं भगवति मम दुहितेति या अमूरस्त्वाहुतीरहौषीर्घृतं दधि मस्तामिक्षां ततो मामजीजनथाः साशीरस्मि तां मा यज्ञेवकल्पय यज्ञे चेद्वै मावकल्पयिष्यसि बहुः प्रजया पशुभिर्भविष्यसि याममुया कां चाशिषमाशासिष्यसे सा ते सर्वा समर्थिष्यत इति तामेशन्मध्ये यज्ञस्यावाकल्पयनमध्यग्ग् हैतद्यक्षस्य यदंतरा प्रयाजानुयाजान् ॥ (*tāgṃ ha manuruvāca kāsīti | tava duhiteti kathaṃ bhagavati mama duhiteti yā amūrastvāhutīrahauṣīrghṛtaṃ dadhi mastāmikṣāṃ tato māmajījanathāḥ sāśīrasmi tāṃ mā yajñevakalpaya yajñe cedvai māvakalpayiṣyasi bahuḥ prajayā paśubhirbhaviṣyasi yāmamuyā kāṃ cāśiṣamāśāsiṣyase sā te sarvā samarthiṣyata iti tāmeśanmadhye yajñasyāvākalpayanamadhyagg haitadyakṣasya yadaṃtarā prayājānuyājān ‖*) (Śa. Brā. 1-8-1-9)
+
+Then Manu too asked who she was. "Your daughter," she said. "O revered one, how are you my daughter?" he said. She replied: "By the oblations of butter, curds, whey and āmikṣā that you offered in the water, in the rite belonging to the pāka-yajña, I was produced; I am a blessing (āśīḥ) for all your undertakings. In sacrificial acts, if you seek my help and perform your rites together with me, you will be possessed of cattle, sons and all wealth. Whatever desires you have, you will obtain them all." On this assurance Manu obtained her help during the sacrificial acts performed in the middle, between the Prayājas and the Anuyājas.
+
+तयर्चञ्चाम्यंश्चचार प्रजाकामः । तयेमां प्रजातिं प्रजज्ञे येयं मनोः प्रजातियाम्वेनया कां चाशिषमाशास्त्र सास्मै सर्वा समार्थ्यत॥ (*tayarcañcāmyaṃścacāra prajākāmaḥ | tayemāṃ prajātiṃ prajajñe yeyaṃ manoḥ prajātiyāmvenayā kāṃ cāśiṣamāśāstra sāsmai sarvā samārthyata‖*)
+
+With her help, worshipping and practising austerity, desiring a son, he remained absorbed in meditation. Through her he created this human progeny. Whatever gracious blessings of hers were to be obtained, he obtained them all and fulfilled his desires.
+### Printed p. 455
+सैषा निदानेन यदिडा । स यो ह्येवं विद्वानिडया चरत्येताग्ं हैव प्रजातिं प्रजायते यां मनुः प्राजायत याम्वेनया कां चाशिषमाशास्त्रे सास्मै सर्वा समृध्यते ॥ (*saiṣā nidānena yadiḍā | sa yo hyevaṃ vidvāniḍayā caratyetāgṃ haiva prajātiṃ prajāyate yāṃ manuḥ prājāyata yāmvenayā kāṃ cāśiṣamāśāstre sāsmai sarvā samṛdhyate ‖*) (Śa. Brā. 1-8-1-11)
+
+This excellent woman is Iḍā in every respect. Whoever, knowing this truth, performs the rite together with Iḍā, increases this human progeny; through her he obtains all blessings and fulfils all his desires. (In इडया चरति (*iḍayā carati*) there are two meanings: one, "with the woman in the form of Iḍā"; the other, "with the pāka-yajña having the nature of Iḍā".)
+
+The sacrificial nature of Iḷā.
+Up to here the origin and nature of Iḍā as history have been explained; now the nature of Iḍā in the form of the sacrifice is explained. Iḍā is praised as the animal, Iḍā as food, Iḍā as everything.
+
+सा वै पंचावत्ता भवति । पशवो वा इडा पांक्ता वै पशवः तस्मात्पंचावत्ता भवति । स समवदायेडां । पूर्वार्धं पुरोडाशस्य प्रशीर्य पुरस्ताद्भुवायै निदधाति ताग्ं होत्रे प्रदाय दक्षिणात्येति ॥ (*sā vai paṃcāvattā bhavati | paśavo vā iḍā pāṃktā vai paśavaḥ tasmātpaṃcāvattā bhavati | sa samavadāyeḍāṃ | pūrvārdhaṃ puroḍāśasya praśīrya purastādbhuvāyai nidadhāti tāgṃ hotre pradāya dakṣiṇātyeti ‖*) (Śa. Brā. 1-8-1-12, 13)
+
+Iḍā is of the nature of the animal. The animal has five chief parts; therefore Iḍā too is to be divided into five parts. (By sentences such as यो वै यज्ञं हविष्पंक्तिं वेद हविष्पंकिना यज्ञेन राध्नोति (*yo vai yajñaṃ haviṣpaṃktiṃ veda haviṣpaṃkinā yajñena rādhnoti*) etc., the Aitareya Brāhmaṇa explains these five kinds also, in four or five ways: Ai. Brā. 8-24.) The Adhvaryu divides Iḍā into five portions and places the forward part of the puroḍāśa on the barhis. Then he hands Iḍā to the Hotṛ. The division into five is made by these three acts: upastaraṇa, abhighāraṇa and sviṣṭakṛt.
+
+Having thus stated the procedure belonging to the sacrificial process, the other-worldly power-nature of Iḍā is told next.
+
+The worldly power-nature of Iḷā.
+अथोपाग्ंशूपह्वयेते । एतद्ध वै मनुर्विभयां चकारेदं वै मे कनिष्ठं यज्ञस्य यदियमिडा पाकयज्जिया यद्वै म इह रक्षाग्‌सि याज्ञं न (*athopāgṃśūpahvayete | etaddha vai manurvibhayāṃ cakāredaṃ vai me kaniṣṭhaṃ yajñasya yadiyamiḍā pākayajjiyā yadvai ma iha rakṣāgsi yājñaṃ na*)
+
 ---
 
-**Progress note:** Done through printed p. 449. pp. 442-449 (batch API)
+**Progress note:** Done through printed p. 455. pp. 450-455 (batch API)
