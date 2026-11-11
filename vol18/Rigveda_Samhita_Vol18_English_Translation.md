@@ -12965,6 +12965,280 @@ Drink, lord of horses, Indra, the libation offered at dawn; the noon-day libatio
 > *ye devāso abhavatā sukṛtyā śyenāivedadhi divi niṣeda ‖*  
 > *te ratnaṃ dhāta śavaso napātaḥ saudhanvanā abhavatāmṛtāsaḥ ‖ 8 ‖*
 
+### Printed p. 340
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । देवासः । अभवत । सुकृत्या । श्येनाः इव । इत् । अधि । दिवि । निसेद ॥  
+> ते । रत्नं । धात । शवसः । नपातः । सौधन्वनाः । अभवत । अमृतासः ॥ ८ ॥
+
+> *ye | devāsaḥ | abhavata | sukṛtyā | śyenāḥ iva | it | adhi | divi | niseda ‖*  
+> *te | ratnaṃ | dhāta | śavasaḥ | napātaḥ | saudhanvanāḥ | abhavata | amṛtāsaḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो ये यूयं सुकृत्या शोभनकर्मणा देवासो देवा अभवत ।
+> अभूत । श्येना इवेत् शंसनीयगतयो गृध्रविशेषा इव दिवि द्युलोकेऽधि निषेद
+> अधिनिषण्णाः हे शवसो नपातो बलवंतस्ते यूयं रत्नं धनं धात । प्रयच्छत ।
+> हे सौधन्वना अमृतासोऽमृता देवा अभवत ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, you who have become gods (देवासः (*devāsaḥ*)) through your good work. Like falcons, that is, like vultures of praiseworthy flight, you sit in heaven. O sons of strength, mighty ones, give us wealth (रत्नं (*ratnaṃ*) is wealth). O sons of Sudhanvan, you have become immortal gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसो नपातः (*śavaso napātaḥ*)—O Ṛbhus, sons of strength
+- ये (*ye*)—you who
+- सुकृत्या (*sukṛtyā*)—by your excellent work
+- देवासः (*devāsaḥ*)—for the gods
+- अभूत (*abhūta*)—you have become (the gods), and
+- श्येना इवेत् (*śyenā ivet*)—like falcons, flying swiftly
+- दिवि (*divi*)—in the heaven-world
+- अधि निषेद (*adhi niṣeda*)—you sit mounted
+- ते (*te*)—such as you
+- रत्नं (*ratnaṃ*)—delightful wealth
+- धात (*dhāta*)—give
+- सौधन्वनाः (*saudhanvanāḥ*)—O Ṛbhus, sons of Sudhanvan
+- अमृतासः (*amṛtāsaḥ*)—(you) have become gods free from death
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Ṛbhus, you who by your excellent work have become gods, and who, flying swiftly like falcons, sit mounted in the heaven-world: such as you, give us delightful wealth. O Ṛbhus, sons of Sudhanvan, you have become immortal gods.
+
+##### English translation (H. H. Wilson)
+Do you, sons of strength, who have become gods by (your good deeds), soaring aloft in the sky like falcons, bestow upon us riches: sons of Sudhanwan, you have become immortals.
+
+### Printed p. 341
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्तृ॒तीयं॒ सव॑नं रत्न॒धेय॒मकृ॑णुध्वं स्वप॒स्या सु॑हस्ताः ॥  
+> तदृ॑भवः॒ परि॑षिक्तं व ए॒तत्सं मदे॑भिरिंद्रि॒येभिः॑ पिबध्वं ॥ ९ ॥
+
+> *yattṛtīyaṃ savanaṃ ratnadheyamakṛṇudhvaṃ svapasyā suhastāḥ ‖*  
+> *tadṛbhavaḥ pariṣiktaṃ va etatsaṃ madebhiriṃdriyebhiḥ pibadhvaṃ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । तृतीयं । सवनं । रत्नधेयं । अकृणुध्वं । सुअपस्या । सुहस्ताः ॥  
+> तत् । यभवः । परिसिक्तं । वः । एतत् । सं । मदेभिः । इंद्रियेभिः । पिबध्वं ॥ ९ ॥
+
+> *yat | tṛtīyaṃ | savanaṃ | ratnadheyaṃ | akṛṇudhvaṃ | suapasyā | suhastāḥ ‖*  
+> *tat | yabhavaḥ | parisiktaṃ | vaḥ | etat | saṃ | madebhiḥ | iṃdriyebhiḥ | pibadhvaṃ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुहस्ताः शोभनहस्ता ऋभवो रत्नधेयं रमणीयसोमदानवद्यत्त्वतीयं सवनमकृणुध्वं । प्रसाधितवंतः । स्वपस्या शोभनकर्मेच्छया तदेतत्सवनं
+> सवनगतं सोमद्रव्यं परिषिक्तं परिषेचनवद्वो युष्माकं संबंधिभिर्मदेभिर्माद्यद्धरिंद्रियेभिरिंद्रियैः सं पिबध्वं । यद्यपि वदनमेव पानसाधनं तथापि चक्षुःशोत्रादीनामपि दर्शनश्रवणादिना तृप्ति सद्भावात्पातृत्वमुपचर्यते ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus of fine hands, you have prepared the third pressing, which is like a bestowal of delightful Soma, through desire for good work. This Soma-substance belonging to that pressing, poured around as if sprinkled, drink together with your exhilarating senses (इंद्रियेभिः (*iṃdriyebhiḥ*)). Although the mouth alone is the means of drinking, drinking is attributed figuratively to the eyes, ears and the rest as well, since they too find satisfaction through seeing, hearing and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुहस्ताः (*suhastāḥ*)—having excellent hands
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- रत्नधेयं (*ratnadheyaṃ*)—having Soma that is offered delightfully
+- यत् (*yat*)—which
+- तृतीयं सवनं (*tṛtīyaṃ savanaṃ*)—third pressing
+- अकृणुध्वं (*akṛṇudhvaṃ*)—you have adorned
+- तत् एतत् (*tat etat*)—that Soma belonging to that very pressing
+- परिषिक्तं (*pariṣiktaṃ*)—and completely pressed out
+- स्वपस्या (*svapasyā*)—through desire for excellent work
+- वः (*vaḥ*)—your
+- मदेभिः (*madebhiḥ*)—intoxication-producing
+- इंद्रियेभिः (*iṃdriyebhiḥ*)—by the senses
+- सं पिबध्वं (*saṃ pibadhvaṃ*)—drink completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus of excellent hands, the third pressing, which holds Soma delightfully offered, you have adorned. The Soma belonging to that very pressing, completely pressed out, drink completely with your intoxication-producing senses, out of desire to perform excellent work.
+
+### Printed p. 342
+
+##### English translation (H. H. Wilson)
+Dexterous-handed, since you have instituted, through desire of good works, the third sacrifice, which is the bestower of wealth. therefore, Ribhus, drink this effused Soma with exhilarated senses.
+
+## Sūkta 36 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनश्वो जात इति नवर्चं चतुर्थं सूक्तमार्भवं । ऋषिर्वामदेवः ।
+> अंत्या त्रिष्टुप् शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः । अनश्वोऽंत्या त्रिष्टुबित्यनुक्रमणिका ॥ आभिप्लविके तृतीयेऽहनि वैश्वदेवशस्त्र आर्भवनिविद्धानीयमिदं । तथा च
+> सूत्रितं । अनश्वो जातः परावतो य इति वैश्वदेवं । आ. ७-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अनश्वो जात (*anaśvo jāta*) is of nine Ṛks, the fourth sūkta, addressed to the Ṛbhus. The seer is Vāmadeva. The last Ṛk is a Triṣṭubh; the remaining ones are Jagatī by the convention of the metre-ending triṣṭubh (शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः (*śiṣṭāstriṣṭubaṃtaparibhāṣayā jagatyaḥ*)). The Anukramaṇikā says अनश्वोऽंत्या त्रिष्टुबित्यनुक्रमणिका (*anaśvo 'ṃtyā triṣṭubityanukramaṇikā*). On the third day of the Abhiplava rite, in the Vaiśvadeva śastra, it is the Ārbhava nividdhānīya. So it is laid down in the sūtra अनश्वो जातः परावतो य इति वैश्वदेवं (*anaśvo jātaḥ parāvato ya iti vaiśvadevaṃ*) (Ā. 7-7).
+
+##### Anuvāda
+
+This sūkta beginning "Anaśvo jāta" is the fourth sūkta in the fourth anuvāka. It has nine Ṛks. Vāmadeva is the seer of this sūkta; the Ṛbhus are the deity. The last Ṛk is in Triṣṭubh metre; the remaining Ṛks are in Jagatī metre. The Anukramaṇikā says: Anaśvo'ntyā triṣṭup. On the third day of the sacrifice called Abhiplava, at the time of reciting the mantras of the Vaiśvadeva śastra, this sūkta is to be recited as the nividdhānīya sūkta connected with the Ṛbhus; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra "Anaśvo jātaḥ parāvato ya iti vaiśvadevam" (Ā. 7-7).
+
+- Sūkta: 36
+- Maṇḍala 4; Anuvāka 4; Sūkta 36
+- Aṣṭaka 3; Adhyāya 7; Vargas 7, 8
+- Number of Ṛks in the sūkta: 9
+- Ṛṣi: Vāmadeva
+- Devatā: Ṛbhus
+- Chandas: 1-8 Jagatī; 9 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न॒श्वो जा॒तो अ॑नभी॒शुरु॒क्थो॒३॒॑३ रथ॑स्त्रिच॒क्रः परि॑ वर्तते॒ रजः॑॥  
+> म॒हत्तद्वो॑ दे॒व्य॑स्य प्र॒वाच॑नं॒ द्यामृ॑भवः पृथि॒वीं यच्च॒  ॑
+> पुष्यथ ॥ १ ॥
+
+> *anaśvo jāto anabhīśuruktho3 rathastricakraḥ pari vartate rajaḥ‖*  
+> *mahattadvo devyasya pravācanaṃ dyāmṛbhavaḥ pṛthivīṃ yacca*  
+> *puṣyatha ‖ 1 ‖*
+
+### Printed p. 343
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनश्वः । जातः । अनभीशुः । उक्ष्यः । रथः । त्रिचक्रः । परि । वर्तते । रजः ॥  
+> महत् । तत् । वः । देव्यस्य । प्रवाचनं । द्यां । ऋभवः । पृथिवीं । यत् । च ।  
+> पुष्यथ ॥ १ ॥
+
+> *anaśvaḥ | jātaḥ | anabhīśuḥ | ukṣyaḥ | rathaḥ | tricakraḥ | pari | vartate | rajaḥ ‖*  
+> *mahat | tat | vaḥ | devyasya | pravācanaṃ | dyāṃ | ṛbhavaḥ | pṛthivīṃ | yat | ca |*  
+> *puṣyatha ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवोऽश्विनोः संबंधी युष्मद्दत्तो रथोऽनश्वो जातो वाहनाश्वनिरपेक्षः संपन्नः । तथानभीशुः प्रग्रहरहित उक्त्यः स्तुत्यस्त्रिचक्रश्चक्रत्रययुक्तः
+> सन् रजोऽंतरिक्षं परि वर्तते । परिभ्रमति । महत्पभूतं तद्रथनिर्माणाख्यं
+> कर्म वो युष्माकं देव्यस्य देवत्वस्य प्रवाचनं प्रवक्तृ प्रख्यापकं । यच्च येन
+> कर्मणा द्यां पृथिवीं च पुष्यथ । पुष्टां कुरुथ ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, the chariot given by you, belonging to the Aśvins, has come into being without horses, independent of any draught-horses. It is also without reins, praiseworthy (उक्त्यः (*uktyaḥ*) is *stutyaḥ*), and has three wheels; being so, it moves around (परिभ्रमति (*paribhramati*)) in the middle space (रजः (*rajaḥ*) is *aṃtarikṣaṃ*). That great work of yours, the making of the chariot, proclaims your divinity (देव्यस्य देवत्वस्य (*devyasya devatvasya*)), and so does the work by which you nourish heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- रथः (*rathaḥ*)—the chariot you made and gave to the Aśvin gods
+- अनश्वः जातः (*anaśvaḥ jātaḥ*)—moves just so, as if without horses
+- अनभीशुः (*anabhīśuḥ*)—(therefore) there are not even reins
+- उक्ष्यः (*ukṣyaḥ*)—that chariot, worthy of praise
+- त्रिचक्रः (*tricakraḥ*)—provided with three wheels
+- रजः (*rajaḥ*)—in the middle space
+- परि वर्तते (*pari vartate*)—moves in every direction
+- महत् तत् (*mahat tat*)—that excellent skill of yours in building the chariot
+- वः (*vaḥ*)—for you
+- देव्यस्य (*devyasya*)—of the attainment of divinity
+- प्रवाचनं (*pravācanaṃ*)—is what creates renown
+- यच्च (*yacca*)—and by which work of yours
+- द्यां (*dyāṃ*)—heaven
+- पृथिवीं (*pṛthivīṃ*)—and the earth-world
+- पुष्यथ (*puṣyatha*)—you nourish and protect: that work too is an indication of the divinity you have gained
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, the chariot you made and gave to the Aśvin gods needs no horses; it can move just so. Since there are no horses, no bridle-bits are needed either. That chariot has three wheels and can move everywhere in the middle space. Such is your skill in making this chariot, and your daring work of nourishing heaven and earth by your extraordinary power is also a sign of the renown you won by gaining divinity.
+
+### Printed p. 344
+
+##### English translation (H. H. Wilson)
+The glorious three-wheeled car (of the Ashwins made, Ribhus, by you), traverses the firmament without horses, without reins : great was that proclamation of your divine (power), by which, Ribhus, you cherish heaven and earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ ये च॒क्रुः सु॒वृतं॑ सु॒चेत॒सोऽवि॑ह्वरंतं॒ मन॑स॒स्परि॒  ॑
+> ध्यया ॥  
+> ता ऊ॒ न्व१॒ं॑स्य सव॑नस्य पी॒तय॒ आ वो॑ वाजा ऋभवो वेद  
+> यामसि ॥ २ ॥
+
+> *rathaṃ ye cakruḥ suvṛtaṃ sucetaso 'vihvaraṃtaṃ manasaspari*  
+> *dhyayā ‖*  
+> *tā ū nvaṃsya savanasya pītaya ā vo vājā ṛbhavo veda*  
+> *yāmasi ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । ये । चक्रुः । सुवृतं । सुचेतसः । अविह्वरंतं । मनसः । परि । ध्यया ॥  
+> तान् । ऊं इति । नु । अस्य । सवनस्य । पीतये । अ । वः । वाजाः । यभवः । वेदयामसि ॥ २ ॥
+
+> *rathaṃ | ye | cakruḥ | suvṛtaṃ | sucetasaḥ | avihvaraṃtaṃ | manasaḥ | pari | dhyayā ‖*  
+> *tān | ūṃ iti | nu | asya | savanasya | pītaye | a | vaḥ | vājāḥ | yabhavaḥ | vedayāmasi ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुचेतसः शोभनचित्ता य ऋभवः सुवृतं सुवर्तनचक्रमविह्वरंतमकुटिलं
+> रथं मनसः परि ध्यया मनसो ध्यानेनाप्रयत्नेन नु क्षिप्रं चक्रुः तान् । उशब्द
+> एवार्थे । तानेवास्य सवनस्य पीतय एतं सोमं पातुं हे वाजा हे ऋभवो
+> वो युष्माना वेदयामसि । आवेदयामः ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus, of good mind, made the chariot with well-rolling wheels (सुवृतं (*suvṛtaṃ*) is *suvartanacakraṃ*) and without crookedness (अविह्वरंतं (*avihvaraṃtaṃ*) is *akuṭilaṃ*), by the meditation of the mind, without effort, swiftly. The word उ (*u*) is in the sense of एव (*eva*) ("just"). O Vājas, O Ṛbhus, just those of you we invite, to drink the Soma of this pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभवः (*ṛbhavaḥ*)—Ṛbhus
+- सुचेतसः (*sucetasaḥ*)—having an excellent mind
+- ये (*ye*)—you who
+- सुवृतं (*suvṛtaṃ*)—having wheels that turn well
+- अविह्वरंतं (*avihvaraṃtaṃ*)—and not crooked
+- रथं (*rathaṃ*)—the chariot
+- मनसः (*manasaḥ*)—of the mind
+- परि ध्यया (*pari dhyayā*)—by thought in the form of meditation
+- नु (*nu*)—swiftly
+- चक्रुः (*cakruḥ*)—you made
+- तान् वः (*tān vaḥ*)—such as you
+- अस्य सवनस्य (*asya savanasya*)—of this sacrifice's Soma
+- पीतये (*pītaye*)—in order to drink
+- आ वेदयामसि (*ā vedayāmasi*)—we call, making a request
+
+### Printed p. 345
+
+##### भावार्थ (Bhāvārtha)
+
+O Vājas, O Ṛbhus, you of excellent mind, who by the form of meditation of the mind alone swiftly made the chariot with well-turning wheels and without crookedness: such as you we call with prayer, to drink the Soma of this sacrifice.
+
+##### English translation (H. H. Wilson)
+We invoke you respectfully, Vajas and Ribhus, to drink of this libation, for you are the wise sages who, by meditation, made the well-constructed undeviating car (of the Ashwins).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वो॑ वाजा ऋभवः सुप्रवाच॒नं दे॒वेषु॑ विभो अभवन्महित्त्व॒नं ॥  
+> जिव्री॒ यत्संता॑ पि॒तरा॑ सना॒जुरा॒ पुन॒र्युवा॑ना च॒रथा॑य॒  ॑
+> तक्षथ ॥ ३ ॥
+
+> *tadvo vājā ṛbhavaḥ supravācanaṃ deveṣu vibho abhavanmahittvanaṃ ‖*  
+> *jivrī yatsaṃtā pitarā sanājurā punaryuvānā carathāya*  
+> *takṣatha ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । वाजाः । ऋभवः । सुप्रवाचनं । देवेषु । विभ्वः । अभवत् । महित्वनं॥  
+> जिव्री इति । यत् । संता । पितरा । सनाजुरा । पुनः । युवाना । चरथाय । तक्षथ ॥
+
+> *tat | vaḥ | vājāḥ | ṛbhavaḥ | supravācanaṃ | deveṣu | vibhvaḥ | abhavat | mahitvanaṃ‖*  
+> *jivrī iti | yat | saṃtā | pitarā | sanājurā | punaḥ | yuvānā | carathāya | takṣatha ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजा यभवो हे विभ्यो विभवः । इतरापेक्षया परस्परं बहुवचनमित्युक्तं । वो युष्माकं तन्महित्वनं महत्त्वं माहात्म्यं देवेषु मध्यॆ सुप्रवाचनं
+> प्रवाच्यमभवत् । तदित्युक्तं यदित्याह । जिव्री वृद्धौ संता संतौ सनाजुरा सदा
+> जीर्णौ संतौ पितरा पितरौ पुनर्युवाना नित्यतरुणौ चरथाय यथेच्छं संचरणाय तक्षथ । संपादितवंतः ॥
+
+##### Gist of the bhāṣya
+
+O Vājas, O Ṛbhus, O Vibhvas. The plural is said in relation to the others, mutually (*itarāpekṣayā parasparaṃ bahuvacanaṃ*). That greatness of yours, your majesty, became well-proclaimed among the gods. He states what it was ("that", तत् (*tat*), referring to यत् (*yat*)): you made your parents, who were old and always worn with age, perpetually young, so that they might move about at will.
+
 ---
 
-**Progress note:** Done through printed p. 339. pp. 334-339 (batch API)
+**Progress note:** Done through printed p. 345. pp. 340-345 (batch API)
