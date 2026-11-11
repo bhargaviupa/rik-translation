@@ -24873,6 +24873,128 @@ May we propitiate you, Agni, by this fuel : accept the praise that is recited by
 अया (*ayā*)—अनया (*anayā*). For the convenience of the metre, the middle letter, the na, of the word अनया (*anayā*) has been dropped, giving अया (*ayā*). Or else it appears that in that period both the word अनया (*anayā*) and the word अया (*ayā*) were current. For the use of the word अया (*ayā*) in place of अनया (*anayā*) is frequent in the Ṛgveda. For example:
 चोदः कुवित्तु तुज्यात्सातये धियः शुचिप्रतीकं तमया धिया गृणे ॥ (*codaḥ kuvittu tujyātsātaye dhiyaḥ śucipratīkaṃ tamayā dhiyā gṛṇe ‖*) (Ṛ. Saṃ. 1-143-6)
 
+### Printed p. 786
+
+… the Ṛg-Veda also appears to have both forms current. For the use of the word आया (*āyā*) in place of अया (*ayā*) is frequent in the Ṛg-Veda. For example:
+
+अया धिया मनवे श्रुष्टिमाव्या साकं नरो दंसनैरा चिकित्सॆरे । (*ayā dhiyā manave śruṣṭimāvyā sākaṃ naro daṃsanairā cikitsère |*) (Ṛ. Saṃ. 1-166-13)
+
+अयो ते अग्ने विधेमोर्जो नपादश्वमिष्टे । एना सूक्तेन सुजात ॥ (*ayo te agne vidhemorjo napādaśvamiṣṭe | enā sūktena sujāta ‖*) (Ṛ. Saṃ. 2-6-2)
+
+In the word आया (*āyā*) in these Ṛks the letter n has been elided. In the same way, dropping the letter आ (*ā*) of the word आत्मना (*ātmanā*) and using it as त्मना (*tmanā*) is also current in the Ṛg-Veda.
+
+समिधा (*samidhā*)—The word समित् (*samit*) ordinarily means something that blazes well, that is burning. In this same sense the word is also used for the dried sticks of certain trees employed for the oblation. But here the Bhāṣyakāra has given the meaning "by a praise that makes the qualities of Agni manifest". In this Ṛk there is room for both meanings, fuel-stick and praise.
+
+अशसः (*aśasaḥ*)—शंसंति स्तुवंतीति शसः स्तोतारः । ते न भवंतीत्यशसो नृशंसाः । (*śaṃsaṃti stuvaṃtīti śasaḥ stotāraḥ | te na bhavaṃtītyaśaso nṛśaṃsāḥ |*). The Bhāṣyakāra's explanation is that people who praise the gods are called शसः (*śasaḥ*), and wicked people who do not praise are called अशसः (*aśasaḥ*).
+
+The concluding verses of the Bhāṣya and the colophon (Sanskrit, not translated in the Kannada): वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण, सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये तृतीयाष्टके चतुर्थोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa, sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye tṛtīyāṣṭake caturtho 'dhyāyaḥ samāptaḥ ‖*) ओं तत्सत् (*oṃ tatsat*)
+
+Here the fourth adhyāya in the third Aṣṭaka of the Ṛg-Veda Saṃhitā, with the Śrī Sāyaṇa-bhāṣya and the Kannada translation, is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*) शुभं शुभयात् (*śubhaṃ śubhayāt*) मगळं (*magaḷaṃ*)
+
+ओं (*oṃ*) श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+
+वागीशाद्या सुमनसः सर्वार्थानामुपक्रमे यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyā sumanasaḥ sarvārthānāmupakrame yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) यस्य निश्यसितं वेदा यो वेदेभ्योखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyokhilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) तृतीयाष्टकमध्यस्थ चतुर्थोऽध्याय आदरात् । व्याख्यातः सायणार्ये ण पंचमो व्याकरिष्यते ॥ (*tṛtīyāṣṭakamadhyastha caturtho 'dhyāya ādarāt | vyākhyātaḥ sāyaṇārye ṇa paṃcamo vyākariṣyate ‖*) वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛg-Veda Saṃhitā with the Sāyaṇa-bhāṣya. The fifth adhyāya in the third Aṣṭaka.
+
+## Sūkta 5 (Maṇḍala 4)
+
+Hymns of the Fourth Maṇḍala, 5–18. The fifth hymn.
+
+In this hymn Vaiśvānara Agni is praised. Although we have earlier given extensive explanations about Vaiśvānara Agni many times, here we explain, as Yāska has stated them, the matters Yāska has set out at length in the Nirukta, and the differing opinions of other sages.
+
+### Printed p. 788
+
+वैश्वानरः। इति त्रीणि पदानि । वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयंतीति वा । अपि ना विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः ॥ (*vaiśvānaraḥ| iti trīṇi padāni | vaiśvānaraḥ kasmādviśvānnarānnayati | viśva enaṃ narā nayaṃtīti vā | api nā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ ‖*) (Ni. 7-21).
+
+Now we shall explain the word वैश्वानर (*vaiśvānara*). This word वैश्वानर (*vaiśvānara*) denotes a deity possessing the meaning of the three words विश्वान् नरान् नयति (*viśvān narān nayati*). Why did Vaiśvānara get this name? This god विश्वान् नरान् नयति (*viśvān narān nayati*)—leads all people along the good path; that is, he is the one who sets all people on the good path; therefore this god is named Vaiśvānara.
+
+Or: विश्व एनं नरा नयंतीति (*viśva enaṃ narā nayaṃtīti*)—all people carry this god in the sacrifices they perform to the northern altar. That is, when performing the rite called Agni-praṇayana in sacrifices, they take Agni, churned and produced at the place of its origin, according to rule to the northern altar and establish it there. Or, all people take Agni to their own houses and establish it in places such as the great kitchen for the work of cooking; therefore this Agni is called Vaiśvānara. Or Viśvānara himself is Vaiśvānara. This Viśvānara pervades the bodies of all creatures, dwells there in the form of the digestive fire and digests the food and the like that creatures eat. Therefore the Viśvānara in the bodies of all creatures is Vaiśvānara Agni. **NOTE**
+
+वैश्वानरस्य सुमतौ स्याम राजा हिकं भुवनानामभि श्रीः । इतो जातो विश्वमिदं विचष्टे वैश्वानरो यतते सूर्येण ॥ (*vaiśvānarasya sumatau syāma rājā hikaṃ bhuvanānāmabhi śrīḥ | ito jāto viśvamidaṃ vicaṣṭe vaiśvānaro yatate sūryeṇa ‖*) (Ṛ. Saṃ. 1-98-1).
+
+This Ṛk praises Vaiśvānara Agni: may we become worthy of the favourable mind of Vaiśvānara Agni. For this Vaiśvānara Agni is a king, and a king is the support of all worlds. Born in this world, he looks upon the whole universe; together with the sun he pervades everything. This is the main purport of the Ṛk.
+
+Who is Vaiśvānara Agni? Is he a deity of the middle region?
+
+इतो जातः सर्वमिदनुभिविपश्यति वैश्वानरः संयतते सूर्येण राजा यः सर्वेषां भूतानामभिश्रयणीयस्तस्य वयं वैश्वानरस्य कल्याण्यां मत् स्यामेति । तत्को वैश्वानरः । मध्यम इत्याचार्याः ॥ (*ito jātaḥ sarvamidanubhivipaśyati vaiśvānaraḥ saṃyatate sūryeṇa rājā yaḥ sarveṣāṃ bhūtānāmabhiśrayaṇīyastasya vayaṃ vaiśvānarasya kalyāṇyāṃ mat syāmeti | tatko vaiśvānaraḥ | madhyama ityācāryāḥ ‖*) (Ni. 7-22).
+
+This is the explanation of the Ṛk. This Vaiśvānara Agni, born in this very world, is able to see the whole universe; together with the sun he pervades the whole universe. May we become worthy of the best mind, that is, the favour, of such a Vaiśvānara Agni. He is the king and the support of all created beings.
+
+### Printed p. 789
+
+But who is this Vaiśvānara? What is his nature? Some teachers say that Vaiśvānara is a deity dwelling in the middle region (the atmosphere), because their view is that this Vaiśvānara is the cause of rain. Therefore a Ṛk describing the part this Vaiśvānara plays in the rain-rite is cited here:
+
+प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्कृष्टा अन शंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkṛṣṭā ana śaṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6).
+
+I shall describe in particular the greatness of this Vaiśvānara Agni, the giver of what is desired. Many people serve with devotion this Vaiśvānara Agni, the slayer of Vṛtra. This Vaiśvānara Agni destroyed Vṛtra the Dasyu. He split (killed) Śambara (the cloud) and made the waters stored in the clouds fall on the earth as rain. This is the main purport of the Ṛk.
+
+This is Yāska's explanation **NOTE**:
+
+प्रब्रवीमि तन्महित्वं माहाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयि तव्या मनुष्या वृत्रहणं मेघहनं सचंते सेवंते वर्षकामाः । दस्युर्दस्यतेः क्षयार्थादुपदस्यंत्यस्मिन्न्रसा उपदासयति कर्माणि तमग्निर्वैश्वा नरो घ्नन्नवादूनोदपः काष्ठा अभिनच्छंबरं मेघं ॥ (*prabravīmi tanmahitvaṃ māhābhāgyaṃ vṛṣabhasya varṣiturapāṃ yaṃ pūravaḥ pūrayi tavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacaṃte sevaṃte varṣakāmāḥ | dasyurdasyateḥ kṣayārthādupadasyaṃtyasminnrasā upadāsayati karmāṇi tamagnirvaiśvā naro ghnannavādūnodapaḥ kāṣṭhā abhinacchaṃbaraṃ meghaṃ ‖*) (Ni. 7-23).
+
+So it stands. I shall describe in a special manner the great majesty (the surpassing power) of this Vaiśvānara Agni who pours down rain-water. People who desire what they wish for and who long for rain serve with reverence, with praises and the like, this Vaiśvānara Agni who destroys Vṛtra (the cloud). The word दस्यु (*dasyu*), formed from the root दस् (*das*) "to destroy", denotes a wicked one who prevents the water from falling on the earth and ruins it. Vaiśvānara Agni struck such a Dasyu, Śambara (the cloud; the word शंबर (*śaṃbara*) is read among the names of the cloud), scattered the waters collected in the cloud and made them fall on the earth as rain. This is the main purport.
+
+The view of the earlier Yājñikas that Vaiśvānara is Āditya (objections and answers on this point)
+
+अथासावादित्य इति पूर्वे याज्ञिकाः । एषां लोकानां रोहेण सवनानां रोह आम्मातो रोहात् प्रत्यवरोहश्चिकीर्षितस्तामनुकृतिं होताग्नि- मारुते शस्त्रे वैश्वानरीयेण सूक्तेन प्रतिपद्यते सोऽपि न स्तोत्रियमाद्रियेताग्नेयो हि भवति । तत आगच्छति मध्यस्थाना देवता रुद्रं च मरुतश्च ततोऽग्निमिहस्थानमत्रवै स्तोत्रियं शंसति. (*athāsāvāditya iti pūrve yājñikāḥ | eṣāṃ lokānāṃ roheṇa savanānāṃ roha āmmāto rohāt pratyavarohaścikīrṣitastāmanukṛtiṃ hotāgni- mārute śastre vaiśvānarīyeṇa sūktena pratipadyate so 'pi na stotriyamādriyetāgneyo hi bhavati | tata āgacchati madhyasthānā devatā rudraṃ ca marutaśca tato 'gnimihasthānamatravai stotriyaṃ śaṃsati.*) (Ni. 7-23).
+
+### Printed p. 790
+
+Certain earlier teachers, skilled in the performance of sacrifices, say that this Āditya visible to our eyes is Vaiśvānara. They give the reason thus. In sacrificial rites such as the morning pressing there is an order of rohā and avaroha, that is, ascent and descent. In the worlds also it is so: the earth (the lower region), the atmosphere (the middle region), heaven (the celestial region). Likewise in the pressings there are three: the morning pressing, the midday pressing and the third pressing. In sacrifices the Hotṛ at the morning pressing invokes and praises the deities of the earth region, at the midday pressing the deities of the middle region, and at the third pressing the deities of the celestial region (heaven). This is the order of ascent. After the ascent comes the order of descent: first the deities of the celestial region, then those of the middle region, then those of the earth region are praised in order. This is the order of descent. In the order of descent they praise first Vaiśvānara Agni with the hymn वैश्वानराय पृथुपाजसे (*vaiśvānarāya pṛthupājase*) (Ṛ. Saṃ. 3-3-1), then the middle-region deities Rudra and the Maruts with the hymn आते पितर्मरुतां (*āte pitarmarutāṃ*) (Ṛ. Saṃ. 2-23-1), then Agni, the deity of the earth region, with the hymn यज्ञायज्ञा वो अग्नये (*yajñāyajñā vo agnaye*) (Ṛ. Saṃ. 6-48-1). Since in the order of descent the praise of Vaiśvānara Agni comes first, and since Āditya is a deity of the celestial region, this Vaiśvānara Agni is Āditya. This is their line of argument.
+
+अथापि वैश्वानरीयो द्वादशकपालो भवत्येतस्य हि द्वादशविधं कर्म । (*athāpi vaiśvānarīyo dvādaśakapālo bhavatyetasya hi dvādaśavidhaṃ karma |*).
+
+Moreover, to Vaiśvānara Agni an oblation of twelve potsherds is always offered; and for Āditya also, आदित्यं द्वादशकपालं (*ādityaṃ dvādaśakapālaṃ*), the offering of twelve potsherds is prescribed. Just as for Āditya an offering in twelve parts, indicating the twelve months, is prescribed, so it is for Vaiśvānara Agni; therefore this Vaiśvānara Agni is Āditya.
+
+अथापि ब्राह्मणं भवत्यसौ ना आदित्योऽग्निर्वैश्वानरः ॥ (*athāpi brāhmaṇaṃ bhavatyasau nā ādityo 'gnirvaiśvānaraḥ ‖*).
+
+Moreover, there is also a Brāhmaṇa statement that this Āditya is Vaiśvānara Agni.
+
+अथापि निवित् सौर्यवैश्वानरी भवत्या यो द्यां भात्या पृथिवीमित्येष हि द्यानापृथिव्यानाभासयति । (*athāpi nivit sauryavaiśvānarī bhavatyā yo dyāṃ bhātyā pṛthivīmityeṣa hi dyānāpṛthivyānābhāsayati |*)
+
+### Printed p. 791
+
+A nivid mantra is a particular mantra that praises one deity, praising that deity's distinction in the midst of the śastra mantras; it is a separate mantra inserted and recited among the śastra mantras. Here, when the nivid mantras addressed to Āditya are recited, the Saurya-Vaiśvānarī mantra is recited; that is, that nivid mantra praises both the sun and Vaiśvānara Agni (sings the qualities of those deities). That mantra begins आ यो द्यां भात्या प्रथिवीं (*ā yo dyāṃ bhātyā prathivīṃ*) and means "who lights heaven and earth with his own light". The one who lights heaven and earth with his own light is Āditya; therefore Vaiśvānara Agni, as taught in this mantra, is Āditya too.
+
+अथापि छांदोमिकं सूक्तं सौर्यवैश्वानरं भवति दिवि पृष्ठो अरोचत इत्येष हि दिवि पृष्ठो अरोचतेति । (*athāpi chāṃdomikaṃ sūktaṃ sauryavaiśvānaraṃ bhavati divi pṛṣṭho arocata ityeṣa hi divi pṛṣṭho arocateti |*).
+
+And the Chāndomika hymn दिवि पृष्ठो अरोचत (*divi pṛṣṭho arocata*) (Vā. Saṃ. 33-92) has the sun-and-Vaiśvānara as its deity. In it it is said that he shines on the back (the lower part) of heaven. One who shines in heaven is Āditya. Since Vaiśvānara is praised in this very hymn, this Vaiśvānara Agni is Āditya.
+
+अथापि हविष्वांतीयं सूक्तं सौर्यवैश्वानरं भवति (*athāpi haviṣvāṃtīyaṃ sūktaṃ sauryavaiśvānaraṃ bhavati*).
+
+And the hymn हविष्वांतमजरं (*haviṣvāṃtamajaraṃ*) (Ṛ. Saṃ. 10-88-1), called Haviṣvantīya (the hymn recited at the time of drinking the oblation), has the sun and Vaiśvānara Agni as its deities; that is, this hymn is addressed to Saurya-Vaiśvānara Agni. In the Ṛk of this hymn
+
+विश्वस्था अग्निं भुवनाय देवा वैश्वानरं केतुमह्नामकृण्वन् । (*viśvasthā agniṃ bhuvanāya devā vaiśvānaraṃ ketumahnāmakṛṇvan |*) (Ṛ. Saṃ. 10-88-2)
+
+it is said that the gods appointed this Vaiśvānara Agni to produce the ahas (days, daytimes), in order to give light to the whole world. Since it is the sun who produces the days, and since this Vaiśvānara Agni too has the power to produce days, Vaiśvānara Agni and Āditya are one person; that is, this Vaiśvānara Agni is Āditya. All this is the view of the earlier teachers, the Yājñikas.
+
+The view of Śākapūṇi that Vaiśvānara is the earthly Agni (not Āditya) (objections and answers on this point)
+
+अयमेवाग्निर्वैश्वानर इति शाकपूणिः । विश्वानरावेते उत्तरे ज्योतिषी वैश्वानरोऽयं यत्ताभ्यां जायते । कथं नृयमेताभ्यां जायत इति यत्र वैद्युतः शरणमभिहंति यावदनुपात्तो भवति मध्यमधर्मैव तावद्भवत्युदकेंधनः शरीरोपशमन उपादीयमान एवायं संपद्यत उदकोपशमनः शरीरदीप्तिः ॥ (*ayamevāgnirvaiśvānara iti śākapūṇiḥ | viśvānarāvete uttare jyotiṣī vaiśvānaro 'yaṃ yattābhyāṃ jāyate | kathaṃ nṛyametābhyāṃ jāyata iti yatra vaidyutaḥ śaraṇamabhihaṃti yāvadanupātto bhavati madhyamadharmaiva tāvadbhavatyudakeṃdhanaḥ śarīropaśamana upādīyamāna evāyaṃ saṃpadyata udakopaśamanaḥ śarīradīptiḥ ‖*)
+
+### Printed p. 792
+
+The view of the teacher called Śākapūṇi is that this earthly Agni is Vaiśvānara Agni. For the earthly Agni arises from two lights (viśvānara fires): the light of Āditya in the celestial region and the lightning light in the middle region. Therefore the fire born of the viśvānara fires is called Vaiśvānara Agni; that is, the earthly Agni is Vaiśvānara Agni. How the earthly Agni arises from the two lights, the light of Āditya and the light of lightning, they now explain. The light of Āditya, which undergoes no change in place or nature, is called the first quality. That is, this light of Āditya, staying where it is, draws up by its rays the waters of oceans and other reservoirs and turns those waters into clouds. This is the work of the first light. Next the lightning fire is called the second. The nature of this lightning fire is the "middle quality", that is, different. This lightning fire has the nature of moving in the midst of the waters (the clouds) and of striking and destroying trees, houses and the like on which people depend; that is, because this lightning fire is able to move in water, it cannot be quenched by water (as ordinary fire is quenched). And ordinary fire, kindled by trees, wood and the like, begins to blaze; but when the lightning fire touches trees and the like, it is quenched there itself, that is, its force ends right there; it does not grow from trees and the like. And this lightning fire cannot be held with the hands and the like. This is the nature of the lightning fire. But the nature of the earthly (ordinary) fire is quite the opposite: the earthly fire can be increased by wood and the like, quenched by water, and held with the hands. These are the natural qualities of the earthly fire.
+
+An explanation is necessary on how the earthly Agni arises from the two lights, that of the celestial region and that of the middle region. Āditya, the light of the celestial region, attracts by his rays the waters of oceans and other reservoirs and turns them into clouds; when the lightning fire that appears in those clouds touches trees and the like, the earthly fire arises and burns. This is well known in the world. Therefore it is explained here that the earthly Agni arises from both lights, that of the celestial region and that of the middle region. Hence the earthly Agni, born of the two lights that are viśvānara fires, is called Vaiśvānara Agni.
+
+अथादित्यादुदीचीप्रथमसमावृत्त आदित्ये कंसं वा मणिं वा परिमृज्य प्रतिस्वरे यत्र शुष्कगोमयमसंस्पर्शयन् धारयति यत् प्रदीप्यते सोऽयमेव संपद्यते । (*athādityādudīcīprathamasamāvṛtta āditye kaṃsaṃ vā maṇiṃ vā parimṛjya pratisvare yatra śuṣkagomayamasaṃsparśayan dhārayati yat pradīpyate so 'yameva saṃpadyate |*)
+
+### Printed p. 793
+
+They give another example of the earthly fire arising from Āditya. When the sun has come in the atmosphere facing the northern direction, that is, at midday, when he is very hot, if one holds a well-shining copper plate or a mirror facing the sun and makes its rays converge (gather together) and fall on a powder of dry cow-dung placed on the ground, fire at once catches. This too is an example showing that the earthly fire arises from Āditya.
+
+अथाप्याह—वैश्वानरो यतते सूर्येण—न च पुनरात्मनात्मा संयततेऽन्येन्नैवान्यः संयतत इति इममादधात्यमुतोऽमुष्य रश्मयः प्रादुर्भवंतीतोऽस्यार्चिषस्तयोर्भासोः संसंगं दृष्ट्वावमवक्ष्यत् । (*athāpyāha—vaiśvānaro yatate sūryeṇa—na ca punarātmanātmā saṃyatate 'nyennaivānyaḥ saṃyatata iti imamādadhātyamuto 'muṣya raśmayaḥ prādurbhavaṃtīto 'syārciṣastayorbhāsoḥ saṃsaṃgaṃ dṛṣṭvāvamavakṣyat |*)
+
+In the example given before, in the sentence वैश्वानरो यतते सूर्येण (*vaiśvānaro yatate sūryeṇa*), the seer, the beholder of the mantra, has said that Vaiśvānara Agni, joined with the sun, spreads, that is, pervades everything. Since the sun's position does not change, it is impossible that the sun goes forward from his place with Vaiśvānara Agni and pervades. A thing can be in one place at one time, but it cannot be there and also go forward. Only if another thing joins it can it pervade another place. Therefore here the sun is one and Vaiśvānara Agni another; the two together are able to pervade everything. Here the earthly fire is kindled right here (on the earth). The light of Āditya, setting out from the celestial world by way of the rays, meets the earthly fire on the earth. That is, the light of the sun and the light of Agni join as one and that light spreads everywhere by the rays; it is with this thought in mind that the seer, the beholder of the mantra, spoke the sentence वैश्वानरो यतते सूर्येण (*vaiśvānaro yatate sūryeṇa*).
+
+अथ यान्येतान्यौत्तमिकानि सूक्तानि भागानि ना सावित्राणि ना सौर्याणि वा पौष्णानि वा वैष्णवानि वा वैश्वदेन्यानि वा तेषु वैश्वानरीयाः प्रवादा अभविष्यन्नादित्यकर्मणा जैनमस्तोष्यन्नित्युदेषीत्यस्तमेषीति विपर्येषीति ॥ आ (*atha yānyetānyauttamikāni sūktāni bhāgāni nā sāvitrāṇi nā sauryāṇi vā pauṣṇāni vā vaiṣṇavāni vā vaiśvadenyāni vā teṣu vaiśvānarīyāḥ pravādā abhaviṣyannādityakarmaṇā jainamastoṣyannityudeṣītyastameṣīti viparyeṣīti ‖ ā*) आग्नेयेष्टेव हि सूक्तेषु वैश्वानरीयाः प्रवादा भवंति । अग्निकर्माणा चैनं स्तौतीति वहसीति पचसीति दहसीति ॥ (*āgneyeṣṭeva hi sūkteṣu vaiśvānarīyāḥ pravādā bhavaṃti | agnikarmāṇā cainaṃ stautīti vahasīti pacasīti dahasīti ‖*)
+
+If Vaiselvānara were Āditya, then in the hymns or Ṛks relating to Āditya or Savitṛ, or in the hymns in which Sūrya, Pūṣan, Viṣṇu or the Viśve-devas are the subjects, the qualities and distinctions pertaining to Āditya would be attributed to Vaiśvānara Agni, that is (as is said of the sun) "you rise, you set, you travel in the atmosphere", and so on in the sense …
+
 ---
 
-**Progress note:** Done through printed p. 785. pp. 780-785 (batch API)
+**Progress note:** Done through printed p. 793. pp. 786-793 (batch API)
