@@ -3579,6 +3579,272 @@ O Indra, lord of the horses named Hari: when you released the long bondage that 
 ##### English translation (H. H. Wilson)
 Then, Indra, lord of horses, the divine sister (rivers) praise(you) for your protection when you set them free to flow, after having been impeded (by Vritra) through a long confinement.
 
+### Printed p. 107
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too, the matter stated in the previous Ṛk is stated in another manner. This Ṛk gives the particular account that the rivers, expressing their gratitude to Indra for the release of the waters, praised Indra.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒पी॒ळे अं॒शुर्मद्यो॒ न सिंधु॒रा त्वा॒ शमी॑ शशमा॒नस्य॑ श॒क्तिः ।  
+> अ॒स्म॒द्र्य॑क्शुशुचा॒नस्य॑ यम्या आ॒शुर्न र॒श्मिं तु॒व्योज॑सं॒  
+> गोः ॥ ८ ॥
+
+> *pipīḷe aṃśurmadyo na siṃdhurā tvā śamī śaśamānasya śaktiḥ |*  
+> *asmadryakśuśucānasya yamyā āśurna raśmiṃ tuvyojasaṃ*  
+> *goḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिपीळे । अंशुः । मद्यः । न । सिंधुः । आ । त्वा । शमी । शशमानस्य । शक्तिः ।  
+> अस्मद्र्यक् । शुशुचानस्य । यम्याः । अशुः । न । रश्मिं । तुविओजसं । गोः ॥ ८ ॥
+
+> *pipīḷe | aṃśuḥ | madyaḥ | na | siṃdhuḥ | ā | tvā | śamī | śaśamānasya | śaktiḥ |*  
+> *asmadryak | śuśucānasya | yamyāḥ | aśuḥ | na | raśmiṃ | tuviojasaṃ | goḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मद्यो मादयितांशुः सोमः पिपीळे । अपीड्यत । अभ्यसूयतेत्यर्थः । नेति संप्रत्यर्थे । न इदानीं सिंधुः स्यंदमानः सोमस्त्वा त्वामा
+> यम्याः । आयच्छतु । शुशुचानस्य दीप्यमानस्य शशमानस्य स्तुवतः संबंध्यस्यद्रगस्मदभिमुखं शमी शमनं शक्तिः स्तुतिकर्म चायच्छतु । तत्र दृष्टांतः । आशुः
+> शीघ्रगामि यंता गोर्गंतुरश्वस्य तुव्योजसं बहुबलं । दृढमित्यर्थः । रश्मिं न
+> अश्वबंधनरज्जुमिव तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the exhilarating Soma-stalk अंशुः (*aṃśuḥ*) has been pressed. न (*na*) is used in the sense "now": may the Soma, flowing like a river, come to you. May the appeasing power *śamī śaktiḥ* — the act of praise — of the praiser शशमानस्य (*śaśamānasya*), who is radiant शुशुचानस्य (*śuśucānasya*), be directed toward us **NOTE**. The illustration: as a swift driver holds the strong rein of a moving horse, a firm rein, so (may it hold us).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मद्यः (*madyaḥ*)—exhilarating
+- अंशुः (*aṃśuḥ*)—the Soma
+- पिपीळे (*pipīḷe*)—has been pressed
+- न (*na*)—now
+- सिंधुः (*siṃdhuḥ*)—the flowing Soma
+- त्वा (*tvā*)—toward you
+- आ यम्याः (*ā yamyāḥ*)—may it flow
+- शुशुचानस्य (*śuśucānasya*)—of the radiant one
+- शशमानस्य (*śaśamānasya*)—of the worshipper who praises you
+- शमी (*śamī*)—sin-destroying
+- शक्तिः (*śaktiḥ*)—the power (of praising you)
+
+### Printed p. 108
+- आशुः (*āśuḥ*)—the swift rider
+- गोः (*goḥ*)—of the (swiftly moving) horse
+- तुव्योजसं (*tuvyojasaṃ*)—possessed of very great strength
+- रश्मिं न (*raśmiṃ na*)—as one holds the rope (rein)
+- अस्मध्र्यक् (*asmadhryak*)—may it come toward us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the exhilarating Soma has been pressed for you. May the flowing Soma come toward you now. May the power of praise, belonging to the radiant praiser who praises you, come toward us. May it produce in us the power to praise you. As a swift rider holds the very strong rein of a swiftly moving horse, may that power hold us firmly.
+
+##### English translation (H. H. Wilson)
+The exhilarating Soma juice has been expressed : now may the current flow to you and may the expiatory power of the illustrious utterer of praise be directed towards us as the quick rider holds firmly the reins of the steed.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that the Soma juice has been pressed and prepared for Indra. The seer prays that the power to praise Indra, who is satisfied by drinking Soma, may arise in us. An illustration is also given here: as a rider seated on a horse grips the reins firmly to keep a swiftly running horse under control, so may the power of praising Indra hold us firmly; that is, the intention is expressed that the intellectual power and the faith to praise Indra may always remain in us.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे वर्षि॑ष्ठा कृणुहि॒ ज्येष्ठा॑ नृ॒म्माणि॑ स॒त्रा स॑हुरे॒ सहां॑सि ।  
+> अ॒स्मभ्यं॑ वृ॒त्रा सु॒हना॑नि रंधि ज॒हि वध॑र्व॒नुषो॒ मर्त्य॑स्य ॥ ९ ॥
+
+> *asme varṣiṣṭhā kṛṇuhi jyeṣṭhā nṛmmāṇi satrā sahure sahāṃsi |*  
+> *asmabhyaṃ vṛtrā suhanāni raṃdhi jahi vadharvanuṣo martyasya ‖ 9 ‖*
+
+### Printed p. 109
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । वर्षिष्ठा । कृणुहि । ज्येष्ठा । नृम्माणि । सत्रा । सहुरे । सहांसि ।  
+> अस्मभ्यं । वृत्रा । सुहनानि । रंधि । जहि । वधः । वनुषः । मर्त्यस्य ॥ ९ ॥
+
+> *asme iti | varṣiṣṭhā | kṛṇuhi | jyeṣṭhā | nṛmmāṇi | satrā | sahure | sahāṃsi |*  
+> *asmabhyaṃ | vṛtrā | suhanāni | raṃdhi | jahi | vadhaḥ | vanuṣaḥ | martyasya ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहुरे सहनशीलेंद्र त्वं सत्रा सर्वदा सहांसि शत्रुनभिभावुकानि वर्षिष्ठा
+> वर्षिष्टानि प्रवृद्धानि ज्येष्ठा ज्येष्ठानि प्रशस्तानि नृम्माणि बलान्यस्मे अस्मभ्यं कृणुहि ।
+> कुरु । हे इंद्र त्वमस्मभ्यं सुहनानि शोभनवधानि वृत्रा वृत्राणि शत्रुन् रंधि ।
+> रंधय । वशं नय । किंच वनुषो हिंसकस्य मर्त्यस्य मरणधर्मणः शत्रोः संबंधि
+> वधो हननसाधनमायुधं जहि । नाशय ॥
+
+##### Gist of the bhāṣya
+
+O enduring Indra सहुरे (*sahure*), always सत्रा (*satrā*) make for us powers नृम्माणि (*nṛmmāṇi*) — strengths that overcome enemies सहांसि (*sahāṃsi*) — which are most excellent वर्षिष्ठा (*varṣiṣṭhā*) (greatly increased) and superior ज्येष्ठा (*jyeṣṭhā*) (praiseworthy). O Indra, for us bring under subjection रंधि (*raṃdhi*) — that is, make obedient — the enemies वृत्रा (*vṛtrā*) who are easy to slay सुहनानि (*suhanāni*), that is, deserving of good slaying. Further, destroy जहि (*jahi*) the weapon वधः (*vadhaḥ*), the instrument of killing, of the malevolent वनुषः (*vanuṣaḥ*) mortal मर्त्यस्य (*martyasya*) enemy, one subject to death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहुरे (*sahure*)—O Indra, able to endure the enemy's opposition
+- सत्रा (*satrā*)—always
+- सहांसि (*sahāṃsi*)—fit to confront enemies
+- वर्षिष्ठा (*varṣiṣṭhā*)—greatly increased
+- ज्येष्ठा (*jyeṣṭhā*)—praiseworthy
+- नृम्मानि (*nṛmmāni*)—powers
+- अस्मे (*asme*)—for us
+- कृणुहि (*kṛṇuhi*)—make
+- अस्मभ्यं (*asmabhyaṃ*)—for us (to bring us welfare)
+- सुहनानि (*suhanāni*)—deserving of slaying
+- वृत्रा (*vṛtrā*)—enemies
+- रंधि (*raṃdhi*)—destroy
+- वनुषः (*vanuṣaḥ*)—of the malevolent
+- मर्त्यस्य (*martyasya*)—of the human enemy
+- वधः (*vadhaḥ*)—the destructive weapon
+- जहि (*jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have the power to endure the enemy's opposition and to crush them, always give us powers that are fit to confront enemies, greatly increased and praiseworthy. To bring us welfare, destroy the enemies who deserve to be slain. Destroy the destructive weapon of the malevolent enemy, who belongs to the company of men.
+
+##### English translation (H. H. Wilson)
+Enduring Indra, bestow upon us energies, excellent, superior, powerful : bring under subjection to us enemies deserving of death : demolish the weapon of the malevolent man.
+
+### Printed p. 110
+
+##### विशेषविषयगळु (Special Topics)
+
+In the last Ṛks of this sūkta, the 9th, 10th and 11th, there is a general description, by way of conclusion, of the petition that one's desired ends be fulfilled. In this Ṛk the prayer is that strength and capacity helpful for conquering enemies be given, and that the enemy's weapon be destroyed.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॒मित्सु शृ॑णुहि॒त्वमिं॑द्रा॒स्मभ्यं॑ चि॒त्रौ उप॑माहि॒ वाजा॑न् ।  
+> अ॒स्मभ्यं॒ विश्वा॑ इषणः॒ पुरं॑धीर॒स्माकं॒ सु म॑घवनोधि  ॒
+> गोदाः ॥ १० ॥
+
+> *asmākamitsu śṛṇuhitvamiṃdrāsmabhyaṃ citrau upamāhi vājān |*  
+> *asmabhyaṃ viśvā iṣaṇaḥ puraṃdhīrasmākaṃ su maghavanodhi*  
+> *godāḥ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इत् । सु । शृणुहि । त्वं । इंद्र । अस्मभ्यं । चित्रान् । उप । माहि । वाजान् ॥  
+> अस्मभ्यं । विश्वाः । इषणः । पुरंधीः । अस्माकं । सु । मघवन् । बोधि । गोऽदाः ॥
+
+> *asmākaṃ | it | su | śṛṇuhi | tvaṃ | iṃdra | asmabhyaṃ | citrān | upa | māhi | vājān ‖*  
+> *asmabhyaṃ | viśvāḥ | iṣaṇaḥ | puraṃdhīḥ | asmākaṃ | su | maghavan | bodhi | go 'dāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमस्माकमित् अस्मदीया एव स्तुतीः सु सुष्टु शृणुहि । तथा हे
+> इंद्र त्वं चित्रान् चायनीयानि वाजानन्नान्यस्मभ्यमुप माहि । देहि । किंच अस्मभ्यं
+> विश्वाः सर्वाः पुरंधीर्बुद्धीरिषणः । प्रेरय । अपि च हे मघवनवन्निंद्र अस्माकं
+> गोदा गवां दाता सु सुष्टु बोधि । भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, listen well सु शृणुहि (*su śṛṇuhi*) to our own praises अस्माकमित् (*asmākamit*). Likewise, O Indra, bestow उप माहि (*upa māhi*) on us wonderful चित्रान् (*citrān*) foods वाजान् (*vājān*), to be desired. Further, impel इषणः (*iṣaṇaḥ*) all विश्वाः (*viśvāḥ*) understandings पुरंधीः (*puraṃdhīḥ*) in us. And, O wealthy Maghavan, be बोधि (*bodhi*) well to us a giver of cows गोदाः (*godāḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- अस्माकमित् (*asmākamit*)—our praises alone
+- सु (*su*)—exceedingly
+- शृणुहि (*śṛṇuhi*)—listen
+- चित्रान् (*citrān*)—attractive
+- वाजान् (*vājān*)—foods
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- उप माहि (*upa māhi*)—provide
+- अस्मभ्यं (*asmabhyaṃ*)—in us
+- विश्वाः (*viśvāḥ*)—all
+- पुरंधीः (*puraṃdhīḥ*)—understandings
+- इषणः (*iṣaṇaḥ*)—impel
+- मघवन् (*maghavan*)—O wealthy Indra
+- अस्माकं (*asmākaṃ*)—to us
+- गोदाः (*godāḥ*)—as the giver of cows
+- सु (*su*)—as an excellent giver
+- बोधि (*bodhi*)—be
+
+### Printed p. 111
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, without heeding the praises of others, listen exceedingly to our praises; provide us with attractive foods; impel in us all understandings. O wealthy Indra, as an excellent giver, be the giver of cows to us.
+
+##### English translation (H. H. Wilson)
+Hear our praises, Indra, and bestow upon us many kinds of food : fulfil all over desires, and know yourself, Maghavan, to be to us the donor of cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous Ṛk the prayer was made for help in slaying the enemy. In this Ṛk, addressing Indra, the prayer is stated that, having heard our praises and been gladdened, he should protect us by giving us food and other sustenance, good understanding and cows.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदासाः ॥ ११ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | harivaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadāsāḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्त्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनरदीरिव पीपेः ।
+> प्यायय । प्रवृद्धं कुरु । हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो वयं धिया
+
+### Printed p. 112
+
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्तदर्थं हवीरूपस्यान्नस्य
+> नाकुरो वा स्याम । भूयास्म ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who were quickly नु (*nu*) praised स्तुतः (*stutaḥ*) by the earlier seers, and who are now quickly praised गृणानः (*gṛṇānaḥ*) by us, fill पीपेः (*pīpeḥ*) food इषं (*iṣaṃ*) to me, the praiser जरित्रे (*jaritre*), as one fills rivers नद्यः (*nadyaḥ*) with water; that is, make it abundant. O lord of the horses called Hari हरिवः (*harivaḥ*), a newer नव्यं (*navyaṃ*) hymn ब्रह्म (*brahma*) has been made अकारि (*akāri*) for you by us. May we, possessed of chariots रथ्यः (*rathyaḥ*), with praise धिया (*dhiyā*) in the form of insight, ever serving you सदासाः (*sadāsāḥ*), be स्याम (*syāma*) for that purpose (givers) of food in the form of oblation, or be भूयास्म (*bhūyāsma*) diligent **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—praised by the earlier seers
+- नु (*nu*)—with the same faith
+- गृणानः (*gṛṇānaḥ*)—one to be praised (by us also)
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with waters
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill
+- हरिवः (*harivaḥ*)—O Indra, possessor of horses called Hari
+- ते (*te*)—addressed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- आकारि (*ākāri*)—is made
+- रथ्यः (*rathyaḥ*)—we who have chariots
+- धिया (*dhiyā*)—with praise made with understanding
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the earlier seers and who are to be praised by us also with the same faith, fill food for me, the praiser, as rivers are filled with waters. O Indra, possessor of the horses called Hari, a new hymn is made for you. May we, possessing chariots, worship you with praise made with understanding and become offerers of oblations.
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk is read, besides in this sūkta, as the last Ṛk in the 20th–24th sūktas also. इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पीपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pīpeḥ*)—O Indra, you were praised formerly by many seers. Now you are praised by us. As rivers are filled with rain-water and flow fully, fill food (food and other sustenance) for us who praise you; that is, give it plentifully.
+नु-नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu-nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. The passage continues: इदं नु करिष्यति (*idaṃ nu kariṣyati*)
+
 ---
 
-**Progress note:** Done through printed p. 106. pp. 101-106 (batch API)
+**Progress note:** Done through printed p. 112. pp. 107-112 (batch API)
