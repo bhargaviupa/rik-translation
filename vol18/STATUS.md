@@ -16,12 +16,12 @@ Front matter (lines 1–1120, no window covers it): title pages and board of sch
 Batch API route as for Vol 17 (`RIK_API_KEY`): `python3 tools/rv/api_batch.py plan 18 --windows K` (free: prepares windows, counts tokens, prints the estimate) → `submit 18` (spends money: only after the user has seen the estimate) → `status 18` → `collect 18`. Conventions carried over from Vol 17 in `volcfg.json`: Sonnet, 6-page windows, `**NOTE**` marks instead of remarks, no Kannada script in the English text, sub-heading layout, bhāṣya block in Devanagari only with a Gist that covers most of it, Pratipadārtha one word per line, printed English headed "English translation (H. H. Wilson)" (still to be confirmed by the user), grammar sections (if the volume has any) rendered in Sanskrit.
 
 ## Status
-Nov 11 2026. Preface translated and installed ($0.224; 12 NOTE rows). **Stage 1 (pp. 1–246): $2.50. Stage 2 (pp. 247–493, windows w0247–w0488): $2.33, first pass only, no retries** (`parts/batch_costs.md`). `audit 18` passes at "done through printed p. 493". Sūktas 19–49 of Maṇḍala 4 stand in sequence, each with Ṛk headings 1…n without gap; 163 rows in `review/notes.tsv` (12 from the preface). `## Maṇḍala 5` not reached yet (Maṇḍala 4 ends at Sūkta 58).
-Hand repairs (all in `review/repair_log.md`): stage 1: w0076, w0101, w0156, w0235 (and a gate bug at w0083); stage 2: five `[figure: …]` lines in w0334, w0427, w0445 (pictures of Saṃhitā/Pada blocks or sūkta head lines that `kn.md` already has; each compared by eye, then removed with `batch.py fix`). No other window stopped.
+Nov 11 2026. Preface translated and installed ($0.224; 12 NOTE rows). Stage 1 (pp. 1–246) $2.50; stage 2 (pp. 247–493) $2.33; **stage 3 (pp. 494–754, windows w0494–w0749) $2.85**: first pass only, no retries (`parts/batch_costs.md`). `audit 18` passes at "done through printed p. 754". Maṇḍala 4 Sūktas 19–58 complete, then `## Maṇḍala 5` (inserted by a logged repair) with its introduction and Sūktas 1–2 so far; every sūkta's Ṛk headings run 1…n without gap. 305 rows in `review/notes.tsv`. Remaining: pp. 755–851 (about 97 pages, about 16 windows, about $1).
+Hand repairs (all in `review/repair_log.md`): stage 1: w0076, w0101, w0156, w0235; stage 2: figure lines in w0334, w0427, w0445; stage 3: figure line in w0579, a missing `### Printed p. 560` heading (w0560), a spurious `*ಸಂಹಿತಾಪಾಠಃ*` label before a quotation in the Kannada file (w0623), `## Maṇḍala 5` heading (w0667). Two gate bugs fixed in the tool (w0083 "has supplied", w0541 `(**NOTE**{…})` taken for hand IAST).
 
 ## Open items
-1. Next stage (the last, about 358 pages: pp. 494–851 is about 60 windows; plan may be split in two): `python3 tools/rv/api_batch.py plan 18 --windows 40`, user's yes, `submit`, `collect`.
-2. User: front-matter scan PDF for the print build; confirm the heading "English translation (H. H. Wilson)".
+1. Last stage: `python3 tools/rv/api_batch.py plan 18 --windows 40` (will cover pp. 755–851), user's yes, `submit`, `collect`; then the end-of-volume check (colophon of the eighth adhyāya and closing lines, nothing added).
+2. User: decision on dropping duplicate figure lines by script (lesson 56); front-matter scan PDF for the print build; confirm the heading "English translation (H. H. Wilson)".
 
 ## Publication (print PDF)
 Not built.
