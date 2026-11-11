@@ -5115,6 +5115,173 @@ The sacrificer who praises Indra, and who today, addressing Indra, presses Soma,
 ##### English translation (H. H. Wilson)
 Indra accepting graciously the praises of his devoted (worshipper), who to-day pours out the libation to him, who toasts the buttered cakes
 
+### Printed p. 144
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा स॑म॒र्यं व्यचे॒दृघा॑वा दी॒र्घं यदा॒जिम॒भ्यख्य॑द॒र्यः।  
+> अचि॑क्रद॒द्वृष॑णं॒ पत्न्यच्छा॑ दुरो॒ण आ निशि॑तं सोम॒सुद्भिः॑ ॥८॥
+
+> *yadā samaryaṃ vyacedṛghāvā dīrghaṃ yadājimabhyakhyadaryaḥ|*  
+> *acikradadvṛṣaṇaṃ patnyacchā duroṇa ā niśitaṃ somasudbhiḥ ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । समर्यं । वि । अचेत् । यघावा । दीर्घं । यत् । आजिं । अभि । अख्यत्।  
+> अर्यः ।  
+> अचिक्रदत् । वृषणं । पत्नि । अच्छ । दुरोणे । आ । निशितं । सोमसुत्भिः ॥ ८ ॥
+
+> *yadā | samaryaṃ | vi | acet | yaghāvā | dīrghaṃ | yat | ājiṃ | abhi | akhyat|*  
+> *aryaḥ |*  
+> *acikradat | vṛṣaṇaṃ | patni | accha | duroṇe | ā | niśitaṃ | somasutbhiḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदा ऋघावा शत्रूणां हिंसक इंद्रः समर्यं सह मर्तव्यं शत्रुं
+> व्यचेत् व्यज्ञासीत् विशेषेण जानीयात् । यद्यदार्यः स्वामींद्रो दीर्घमत्यधिकमाजिं संग्राममभ्यख्यत् अभिपश्येत् तदा तस्येंद्रस्य पत्नि दुरोणे यज्ञगृहे
+> सोमसुद्भिः सोमं सुन्वद्भिर्युत्विग्निर्निशितं तीक्ष्णीकृतं । सोमपानेनोत्साहवंतमित्यर्थः । वृषणं कामानां वर्षितारमिंद्रमच्छाभि अचिक्रदत् । आक्रंदति ।
+> आह्वयते ॥
+
+##### Gist of the bhāṣya
+
+When Indra, the destroyer of enemies (ṛghāvā), distinguishes the enemy who is to be slain together with him (samaryam), and when the lord (arya) Indra looks upon the long, extended battle, then his wife, in the sacrificial house (duroṇa), calls out to Indra, the showerer of desires (vṛṣaṇam), who has been sharpened (niśitam) by the priests pressing Soma, that is, made eager by drinking Soma. "Acikradat" means "calls, summons".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- ऋघावा (*ṛghāvā*)—Indra, the destroyer of enemies
+- समर‍्यं (*samaryaṃ*)—the enemy fit to be slain at once
+- व्यचेत् (*vyacet*)—has well understood
+- यत् (*yat*)—when
+- अर्यः (*aryaḥ*)—Indra, the lord
+- दीर्घं (*dīrghaṃ*)—exceedingly
+- आजिं (*ājiṃ*)—in battle
+- अभ्यख्यत् (*abhyakhyat*)—looks on with special interest, then
+- पत्नि (*patni*)—his wife
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- सोमसुद्भिः (*somasudbhiḥ*)—by the priests who press Soma
+- निशितं (*niśitaṃ*)—one made eager
+- वृषणं (*vṛṣaṇaṃ*)—and showerer of desires, Indra
+- अच्छ (*accha*)—so that he comes towards her
+- आ चक्रदत् (*ā cakradat*)—calls out and summons
+
+### Printed p. 145
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra, the destroyer of enemies, has well understood the enemy fit to be slain at once, and when Indra the lord stands looking on the battle with great eagerness, then his wife, in the sacrificial house, calls out to Indra, who has been made eager by the Soma-pressing priests and who is the showerer of desires, so that he may come towards her.
+
+##### English translation (H. H. Wilson)
+When the destroyer (of enemies) distinguishes a mortal foe ; when the lord is engaged in the long (continued) battle, (his) bride summons to the dwelling the showerer (of benefits), encompassed by the offerers of the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+The explanation of this Ṛk is somewhat difficult. The commentator says that arya means the lord Indra and patni means Indra's wife Indrāṇī. His main sense is: while Indra is engaged in a long battle on behalf of those who praise him, Indrāṇī, his wife, summons the far-off, battle-absorbed Indra to come, in order to grant their wishes to the priests and sacrificers who are offering Soma-juice for Indra. But some Western scholars take arya to mean the sacrificer who performs the sacrifice: since that sacrificer is engaged in battle and does not come for a long time, his wife has the Soma-juice prepared by the priests and invokes Indra on behalf of the sacrificer (her husband). This is the sense they think the Ṛk suggests. The English scholar Wilson has expressed the opinion: "Sayana explains arya by svāmi, lord, that is Indra ; and patni in the following passage, he says is Indra's wife; but it would be more consistent with the concluding passage to render arya as the name of the orthodox Hindu, in whose behalf his wife propitiates Indra."
+
+### Printed p. 146
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूय॑सा व॒स्न म॑चर॒त्कनी॒योऽवि॑क्रीतो अकानिषं॒ पुन॒र्यन् ।  
+> स भूय॑सा॒ कनी॑यो॒ नारि॑रेचीद्दी॒ना दक्षा॒ वि दु॑हंति॒ प्र  ॒
+> वाणं ॥ ९ ॥
+
+> *bhūyasā vasna macaratkanīyo 'vikrīto akāniṣaṃ punaryan |*  
+> *sa bhūyasā kanīyo nārirecīddīnā dakṣā vi duhaṃti pra*  
+> *vāṇaṃ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूयसा । वस्यं । अचरत् । कनीयः । अविक्रीतः । आकानिषं । पुनः । यन् ।  
+> सः । भूयसा । कनीयः । न । अरिरेचीत् । दीनाः । दक्षाः । वि । दुहंति । प्र । वाणं ॥'
+
+> *bhūyasā | vasyaṃ | acarat | kanīyaḥ | avikrītaḥ | ākāniṣaṃ | punaḥ | yan |*  
+> *saḥ | bhūyasā | kanīyaḥ | na | arirecīt | dīnāḥ | dakṣāḥ | vi | duhaṃti | pra | vāṇaṃ ‖ '*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र ऋग्वये संप्रदायवद्भिः पूर्वाचार्यैः केचित् श्लोकाः पठ्यंते । त
+> एव लिख्यंते ॥ अल्पं यः परिगृह्णाति मूल्यं पण्येन भूयसा । स क्रेतारं पुनर्गच्छन्न विक्रीतस्त्वयं मया ॥ इति ब्रुवन्मामयते पुनर्मूल्यस्य पूरणं । स विक्रेता
+> पुनर्मूल्यं भूयसा न प्रपूरयेत् । हीनं न लभते वस्नं यदा विक्रीतवान्सुरा ।
+> यथासमयमेव स्यात्तयोर्न पुनरन्यथा ॥ आयं विक्रेय एवेति समयश्चेत्कृतो
+> भवेत् । आध मूल्यार्थमेतत्स्वाद्विजार्यव तु निर्णयः ॥ इत्येवं समयोऽकारि
+> तदा मूल्यं प्रपूर्यती । शस्मादाद् दुया कार्यः समयोऽत्रेति चिंतयन् ॥
+> नामदेवो वशीकृत्य शक्रं स्तोत्रेण भूयसा । विक्रीणन् समयं चक्र इंद्रं क
+> इममित्यचि ॥ अतश्च दृच एकार्घो भूयसा वस्नमित्ययमिति ॥ अयमर्थः
+> प्रतिपाद्यते । कश्चिद्धूयसा भूम्ना पण्येन द्रव्येण कनीयोऽल्पतरं वस्नं वसु
+> मूल्यं धनमचरत् । प्राप्नोति । पुर्यन् क्रेतारं पुनर्गच्छन् स विक्रेताय.
+> मर्थो मयाविक्रीत इति ब्रुवन्न कानिषं । मूल्यपूर्तिं कामयते ॥ व्यत्ययेनोत्तमपुरुषः ॥ स विक्रेता भूयसा धनेन कनीयोऽल्पतरं मूल्यं नारिरेचीत् ।
+> क्रेतुः सकाशान्न रिक्तीकरोति । न लभत इत्यर्थः । दीना असमर्था दक्षाः समर्थाश्च
+> वाणं वचनं वि प्रदुहंति । यथोक्तं क्रयकाले तथैव लभंते ॥
+
+##### Gist of the bhāṣya
+
+On this Ṛk, traditional earlier teachers recite certain verses, which are written out here. In sum: a man who takes a small price for goods worth much, and then goes back to the buyer saying "it was not sold by me", desires the completion of the price; but the seller would not make up the price with a larger sum; one who has sold at a lower price does not afterwards get more; what was agreed at the time governs both, not otherwise. If the agreement was "this is only a sale", then the matter is settled by deliberation. Nāmadeva, having won Indra over by abundant praise, made such an agreement in the Ṛk *iṃdraṃ ka imam*; hence the two Ṛks have one sense, "bhūyasā vasnam". Sāyaṇa then explains: someone obtains (acarat) a very small price (vasnam) for great goods; going back to the buyer he says "it was not sold by me" and desires (akāniṣam, with the person changed) the completion of the price. That seller does not drain the buyer (nārirecīt) of a smaller sum by a greater amount, that is, does not obtain it. Helpless and skilful alike (dīnāḥ, dakṣāḥ) draw out (vi pra duhanti) the word as spoken, getting at the time of purchase exactly what was said. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूयसा (*bhūyasā*)—for an article of great value
+- कनीयः (*kanīyaḥ*)—very small
+- वस्यं (*vasyaṃ*)—price
+- अचरत् (*acarat*)—(the seller) obtains
+- पुनर्यन् (*punaryan*)—(after realizing it was a loss to him) going again to the buyer
+
+### Printed p. 147
+- अविक्रीतः (*avikrītaḥ*)—saying "I have not sold you my article at all"
+- अकानिषं (*akāniṣaṃ*)—(asks) for the balance due to the worth of the article
+- सः (*saḥ*)—the buyer
+- भूयसा कनीयः नारिरेचित् (*bhūyasā kanīyaḥ nārirecit*)—by giving more money, does not make up the small sum (paid before). Or: does not give back the valuable article received and recover from the seller the small sum he had paid
+- दीनाः (*dīnāḥ*)—whether helpless
+- दक्षाः (*dakṣāḥ*)—or capable
+- वाणं (*vāṇaṃ*)—according to the word they spoke
+- वि प्र दुहंति (*vi pra duhaṃti*)—must get just the price agreed at the time of purchase
+
+##### भावार्थ (Bhāvārtha)
+
+A seller, whether from haste or ignorance, sells an article of great value at a small price; afterwards, becoming aware of its worth, he comes to the buyer and says "I have not sold you my article", and demands either his article or the balance due according to its worth. But the buyer does not wish to give back such a valuable article and get again a small sum. Whether capable or incapable, people must get only the price they fixed by speaking at the time of purchase.
+
+##### English translation (H. H. Wilson)
+A man has realized a small price for an article of great value, and again coming (to the buyer he says) this has not been sold ; I require the full price; but he does not recover a small price by a large (equivalent): whether helpless or clever they adhere to their bargain.
+
+##### विशेषविषयगळु (Special Topics)
+
+Regarding this Ṛk and the next, the commentator says that traditional earlier teachers recite certain verses, and he gives those verses here:
+अल्पं यः परिगृह्णाति मूल्यं पण्येन भूयसा । स क्रेतारं पुनर्गच्छन्न विक्रीतस्त्वयं मया ॥ १ ॥ (*alpaṃ yaḥ parigṛhṇāti mūlyaṃ paṇyena bhūyasā | sa kretāraṃ punargacchanna vikrītastvayaṃ mayā ‖ 1 ‖*)
+इति ब्रुवन् कामयते पुनर्मूल्यस्य पूरणं । स विक्रेता पुनर्मूल्यं भूयसा न प्रपूरयेत् ॥ २ ॥ (*iti bruvan kāmayate punarmūlyasya pūraṇaṃ | sa vikretā punarmūlyaṃ bhūyasā na prapūrayet ‖ 2 ‖*)
+हीनं न लभते वस्नं यदा विक्रीतवान् पुरा । यथा समयमेव स्यात्तयोर्न पुनरन्यथा ॥ ३ ॥ (*hīnaṃ na labhate vasnaṃ yadā vikrītavān purā | yathā samayameva syāttayorna punaranyathā ‖ 3 ‖*)
+अयं विक्रय एवेति समयश्चेत्कृतो भवेत् । अथ मूल्यार्थमेतत्त्वाद्विद्विचार्यैव तु निर्णयः ॥ ४ ॥ (*ayaṃ vikraya eveti samayaścetkṛto bhavet | atha mūlyārthametattvādvidvicāryaiva tu nirṇayaḥ ‖ 4 ‖*)
+
+### Printed p. 148
+इत्येवं समयोऽकारि तदा मूल्यं प्रपूर्यते । तस्मादादौ मया कार्यः समयोऽत्रेति चिंतयन् ॥ ५ ॥ (*ityevaṃ samayo 'kāri tadā mūlyaṃ prapūryate | tasmādādau mayā kāryaḥ samayo 'treti ciṃtayan ‖ 5 ‖*)
+नामदेवो वशीकृत्य शक्रं स्तोत्रेण भूयसा । विक्रीणन् समयं चक्र इंद्रं क इममित्यृचि ॥ ६ ॥ (*nāmadevo vaśīkṛtya śakraṃ stotreṇa bhūyasā | vikrīṇan samayaṃ cakra iṃdraṃ ka imamityṛci ‖ 6 ‖*)
+अतश्च द्वृच एकार्थो भूयसा वस्यमित्ययं ॥ इति ॥ (*ataśca dvṛca ekārtho bhūyasā vasyamityayaṃ ‖ iti ‖*)
+This Ṛk and the next together suggest one idea. The verses above make it clear through an example. Thus: one man, a trader, sells an article to another man. The man who buys the article asks and learns its price at that time, settles it, gives the price fixed by the seller and takes the article away. Then after a little while the trader thinks: "The article I sold is very valuable. It was unjust to sell it at a small price. I ought to get a higher price." Having thought so, he goes to the buyer and says: "O man, the price of the article you bought is far too low. So now give me a higher price for it." But the buyer says to the trader: "I bought it by paying the price you named. I have done no wrong. At the time of the trade I agreed to give the price you asked and paid it accordingly; so it was an agreement made between the two of us. We both must keep it." The trader, pushing justice aside, shows roughness: "I have not sold you the article at all. Give it back to me." Then the buyer replies: "O trader, if the article was worth more, you should have asked a higher price at the very time of selling. If I liked it I would have taken it; if not, not. To leave that and ask more now is not just, and it is not possible for me to give it. Trade is an agreement between two, the seller and the buyer. Both must keep it; neither may transgress it."
+The chief point to note here is that once an agreement has been made in a trade between seller and buyer, both must act accordingly. If the seller, not seeing the high price of the article at that time, sold it, it is wrong afterwards to ask a higher price. Profit or loss, the seller must bear it. Likewise the buyer too, saying that the article he obtained is not very valuable and that the price paid was too high, asking that the price be returned
+
+### Printed p. 149
+or reduced, is also wrong. Since the question whether the price is high or low was settled at the time of trade, or is deemed settled, it is not just for either of the two to ask or give a higher price. The principle is stated that both must bear profit or loss.
+What is said in the present Ṛks (especially in the tenth Ṛk) follows this principle. Thus: the seer Vāmadeva had already propitiated Indra with one or two hymns of praise. That being so, it is not right for another man (a sacrificer) to praise Indra with ten hymns and claim Indra as his own. For by the principle stated above, the seer Vāmadeva praised Indra first. Though his hymns may be fewer, since he praised before the other sacrificer, Indra should first favour the seer Vāmadeva. There is no reason why the new sacrificer who praised with more hymns should have a greater claim on Indra's favour. Therefore Vāmadeva makes this agreement with the new sacrificer, the man who praised with ten hymns: "O devotee of Indra, since I praised this Indra first, before you, this Indra is mine. You have won him over for the time being with more praisers (ten hymns). Therefore, in return for your hymns, as soon as Indra has destroyed your enemies he must be sent back again to me, who praised him first." This is the agreement. This very matter is explained in these two Ṛks by the illustration of trade.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क इ॒मं द॒शभि॒र्ममेंद्रं॑ क्रीणाति धे॒नुभिः॑ ।  
+> य॒दा वृ॒त्राणि॒ जंघ॑न॒दथै॑नं मे॒ पुन॑र्ददत् ॥ १० ॥
+
+> *ka imaṃ daśabhirmameṃdraṃ krīṇāti dhenubhiḥ |*  
+> *yadā vṛtrāṇi jaṃghanadathainaṃ me punardadat ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । इमं । दशभिः । मम । इंद्रं । क्रीणाति । धेनुभिः ॥  
+> यदा । वृत्राणि । जंघनत् । अथ । एनं । मे । पुनः । ददत् ॥ १० ॥
+
+> *kaḥ | imaṃ | daśabhiḥ | mama | iṃdraṃ | krīṇāti | dhenubhiḥ ‖*  
+> *yadā | vṛtrāṇi | jaṃghanat | atha | enaṃ | me | punaḥ | dadat ‖ 10 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 143. pp. 137-143 (batch API)
+**Progress note:** Done through printed p. 149. pp. 144-149 (batch API)
