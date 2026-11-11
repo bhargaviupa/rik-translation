@@ -30597,6 +30597,293 @@ Twashtri, being propitious, you are diffusive in kindness, come of your own acco
 
 In the Agnihotra, when the second oblation has spilled, one should lay a fuel-stick with this verse beginning यत्र वेत्थ (*yatra vettha*). It is also stated in the sūtra: यत्र वेत्थ वनस्पत इत्युत्तरस्स्या आहुत्याः स्कंदने । आ. ३-११ । (*yatra vettha vanaspata ityuttarassyā āhutyāḥ skaṃdane | ā. 3-11 |*) (Ā. Sū. 3-11).
 
+### Printed p. 815
+#### Ṛk 10 (continued)
+
+> हे वनस्पते यूपाभिमानिदेव यत्र यस्मिन् स्थाने वेष्ठ देवानां गुह्या
+> गुह्यानि नामानि नामकानि रूपाणि तत्र हव्यानि गमय । प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Vanaspati, the deity presiding over the sacrificial post (yūpa): in whatever place you know the secret (guhyā) names, that is, forms, of the gods, to that place make the oblations go, that is, convey them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पते (*vanaspate*)—O deity presiding over the sacrificial post
+- यत्र (*yatra*)—in whichever places
+- देवानां (*devānāṃ*)—of the gods
+- गुह्या (*guhyā*)—secret
+- नामानि (*nāmāni*)—names and forms
+- वेश्य (*veśya*)—you know
+- तत्र (*tatra*)—to all those places
+- हव्यानि (*havyāni*)—the oblations
+- गमय (*gamaya*)—take them and bring them to them
+
+##### भावार्थ (Bhāvārtha)
+
+O deity presiding over the sacrificial post, in whatever places you know the secret names and forms of the gods, take the oblations to all those places and deliver them to them.
+
+##### English translation (H. H. Wilson)
+Wherever you know, Vanaspati, the secret forms of the gods to
+be, thither convey the oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agnihotra, for the final offering (uttarāhuti), a fire-stick (samidh) is to be offered in the fire with this Ṛk beginning यत्र वेत्थ (*yatra vettha*); this is explained by the sūtra of the Āśvalāyana Śrautasūtra यत्र वेत्थ वनस्पत इत्युत्तरस्या आहुत्याः स्कंदने (*yatra vettha vanaspata ityuttarasyā āhutyāḥ skaṃdane*) (Ā. 3-12). **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वाहा॒ग्नये॒ वरु॑णाय॒ स्वाहेंद्रा॑य म॒रुद्भ्यः॑ ॥  
+> स्वाहा॑ दे॒वेभ्यो॑ ह॒विः ॥ ११ ॥
+
+> *svāhāgnaye varuṇāya svāheṃdrāya marudbhyaḥ ‖*  
+> *svāhā devebhyo haviḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वाहा । अग्नये । वरुणाय । स्वाहा । इंद्राय । मरुत् 5भ्यः ॥  
+> स्वाहा । देवेभ्यः । हविः ॥ ११ ॥
+
+> *svāhā | agnaye | varuṇāya | svāhā | iṃdrāya | marut 5bhyaḥ ‖*  
+> *svāhā | devebhyaḥ | haviḥ ‖ 11 ‖*
+
+### Printed p. 816
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्न्यादि विश्वे देवाः । तेभ्यो देवेभ्य इदं हविः स्वाहा करोमीति शेषः ।
+> स्वाहुतं करोमीत्यर्थः । एवं स्वाहाकृतेः स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+The gods are Agni and the rest, the Viśve Devāḥ. To these gods, "I make this oblation svāhā" is to be supplied; the meaning is "I make it well offered." Thus this is praise of the act of svāhā-offering.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविः (*haviḥ*)—the oblation
+- अग्नये (*agnaye*)—addressed to Agni
+- स्वाहा (*svāhā*)—is offered with the svāhā call
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- इंद्राय (*iṃdrāya*)—to Indra
+- मरुद्भ्यः (*marudbhyaḥ*)—to the Maruts
+- स्वाहा (*svāhā*)—the offering made with the svāhā call
+- देवेभ्यः (*devebhyaḥ*)—addressed to all the gods
+- स्वाहा (*svāhā*)—the offering complete with the svāhā call
+
+##### भावार्थ (Bhāvārtha)
+
+The oblation is offered with the svāhā call, addressed to Agni, Varuṇa, Indra and the Maruts, and all the other gods, all of them.
+
+##### English translation (H. H. Wilson)
+The oblation is offered with reverence to Agni, to Varuna; with
+reverencc to Indra, to the Maruts; with reverence to the gods.
+
+## Sūkta 6 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं तं मन्य इति दशर्चं षष्ठं सूक्तं वसुश्रुतस्यार्षमाग्नेयं पांक्तं ।
+> अग्निं तं दश पांक्तमित्यनुक्रमणिका ॥ प्रातरनुवाक आग्नेये क्रत्वा पांक्ते छंदस्याश्विनशस्त्रे चेदं सूक्तं । अग्निं तं मन्य इति पांक्तं । आ. ४-१३ । इति हि सूत्रितं ॥
+> आश्वमेधिके मध्यमेऽहनीदमेवाज्यशस्त्रं । सूत्रितं च । अग्निं तं मन्य इत्याज्यं
+> तस्यैकाहिकमुपरिष्टात् । आ. १०-१० । इति ॥ आद्य आभिप्लविकेषूक्ष्येषु मैत्रावरुणस्यानुरूपस्तृचः । सूत्रितं च । अग्निं तं मन्ये यो वसुराग्ने स्फूरं रयिं भर ।
+> आ. ७-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, of ten Ṛks, beginning अग्निं तं मन्ये (*agniṃ taṃ manye*), has Vasuśruta as seer, Agni as deity, and the Pāṅkta (Paṅkti) metre; the Anukramaṇikā says "Agni, ten, Pāṅkta." The sūkta is used in the Prātaranuvāka, in the Āgneya kratu in the Pāṅkta metre, and in the Āśvina śastra, as the Sūtra states (Ā. 4-13). In the middle day of the Āśvamedhika it is the Ājya-śastra, as the Sūtra states (Ā. 10-10). In the first Ābhiplavika Ukthya days, the Maitrāvaruṇa uses a triplet (tṛca) of it as the anurūpa; this too is stated in the Sūtra (Ā. 7-8).
+
+Anuvāda: This sūkta beginning "Agniṃ taṃ manye" is the sixth sūkta in the first anuvāka. It has ten Ṛks. Vasuśruta is the seer of this sūkta; Agni is the deity; Paṅkti is the metre. In the Anukramaṇikā it is said: "Agniṃ taṃ daśa pāṅktam." At the time of reciting the Prātaranuvāka mantras, this sūkta is employed for the mantras in the Paṅkti metre belonging to the Āgneya kratu and for the mantras of the Āśvina śastra,
+
+### Printed p. 817
+as is explained by the sūtra of the Āśvalāyana Śrautasūtra "Agniṃ taṃ manya ityājyaṃ tasyaikāhikamupariṣṭāt" (Ā. 10-10); and in the sacrifice called Ukthya, connected with the Abhiplava, the priest called Maitrāvaruṇa is to recite the first three Ṛks of this sūkta as an anurūpa tṛca (three Ṛks), as is explained by the sūtra of the Āśvalāyana Śrautasūtra "Agniṃ taṃ manye yo vasurāgne sphūraṃ rayiṃ bhara" (Ā. 7-8).
+
+Sūkta 6
+- Maṇḍala 5; Anuvāka 1; Sūkta 6
+- Aṣṭaka 3; Adhyāya 8; Varga 22, 23
+- Number of Ṛks in the sūkta: 10
+- Ṛṣi: Vasuśruta Ātreya
+- Devatā: Agni
+- Chandas: Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं तं म॑न्ये॒ यो वसु॒रस्तं॒ यं यंति॑ धे॒नवः॑ ।  
+> अस्त॒मर्वं॑त आ॒शवोऽस्तं॒ नित्या॑सो वा॒जिन॒ इषं॑ स्तो॒तृभ्य॒ आ  ॑
+> भर ॥ १ ॥
+
+> *agniṃ taṃ manye yo vasurastaṃ yaṃ yaṃti dhenavaḥ |*  
+> *astamarvaṃta āśavo 'staṃ nityāso vājina iṣaṃ stotṛbhya ā*  
+> *bhara ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । तं । मन्ये । यः । वसुः । अस्तं । यं । यंति । धेनवः ।  
+> अस्तं । अर्वंतः । आशवः । अस्तं । नित्यासः । वाजिनः । इषं । स्तोतृभ्यः । आ । भर ॥
+
+> *agniṃ | taṃ | manye | yaḥ | vasuḥ | astaṃ | yaṃ | yaṃti | dhenavaḥ |*  
+> *astaṃ | arvaṃtaḥ | āśavaḥ | astaṃ | nityāsaḥ | vājinaḥ | iṣaṃ | stotṛbhyaḥ | ā | bhara ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमग्निं मन्ये । स्तौमि । योऽग्निर्वसुर्वासकः । यमस्तं सर्वेषां गृहवदाश्रयभूतं धेनवो यंति । गच्छंति प्रीणयितुं । अस्तमुक्तलक्षणमर्वंतोऽरणवंतोऽश्वा आशवः शीघ्रगामिनो यंति । तथा नित्यासो नित्यप्रवृत्तयो वाजिनो
+> हविर्लक्षणान्नवंतो यजमाना यमस्तं यंति तं मन्ये । इषमन्नं स्तोतृभ्योऽस्मभ्यमा भराग्ने ॥
+> 52
+
+##### Gist of the bhāṣya
+
+"I extol that Agni who is vasu, the giver of dwelling. The cows go to him, who is the home (asta), the refuge of all, in order to please him. The swift horses (arvantaḥ) too go to that home; and likewise the sacrificers, constant (nityāsaḥ) in their activity and possessing food in the form of oblations (vājinaḥ), go to him. Him I extol. Agni, bring food (iṣam) to us, your praisers."
+
+### Printed p. 818
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- वसुः (*vasuḥ*)—who is the giver of dwelling
+- अस्तं (*astaṃ*)—who is a refuge-giver like a house
+- यं (*yaṃ*)—to which Agni
+- धेनवः (*dhenavaḥ*)—the cows
+- यंति (*yaṃti*)—go and join
+- अस्तं (*astaṃ*)—to whom, as refuge
+- आशवः (*āśavaḥ*)—swift
+- अर्वंतः (*arvaṃtaḥ*)—horses (go and join)
+- अस्तं (*astaṃ*)—to whom, as refuge
+- नित्यासः (*nityāsaḥ*)—those who perform constant rites
+- वाजिनः (*vājinaḥ*)—those who have food in the form of oblations, the sacrificers (go and join)
+- तं (*taṃ*)—that Agni
+- मन्ये (*manye*)—I praise with meditation
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers (O Agni)
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with meditation that Agni who is the giver of dwelling to all, and to whom, as to their own home and refuge, the cows, the swift horses, and the sacrificers who perform constant rites and have food in the form of oblations go and join. O Agni, bring food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+I glorify that Agni who is the giver of dwellings; to whom, as to their home, the milch cows, the light-faced steeds, the constant offerers of oblations, repair : (Agni), bring food to your adorers.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॒ग्निर्यो वसु॑गृ॒णे सं यमा॒यंति॑ धे॒नवः॑ ।  
+> समर्वं॑तो रघु॒द्रुवः॒ सं सु॑जा॒तासः॑ सू॒रय॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥ २ ॥
+
+> *so agniryo vasugṛṇe saṃ yamāyaṃti dhenavaḥ |*  
+> *samarvaṃto raghudruvaḥ saṃ sujātāsaḥ sūraya iṣaṃ stotṛbhya ā bhara ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अग्निः । यः । वसुः । गृणे । सं । यं । आयंति । धेनवः ।  
+> सं । अर्वंतः । : घुऽद्रुवः । सं । सुजातासः । सूरयः । इषं । स्तोतृभ्यः । आ ।  
+> भर ॥ २ ॥
+
+> *saḥ | agniḥ | yaḥ | vasuḥ | gṛṇe | saṃ | yaṃ | āyaṃti | dhenavaḥ |*  
+> *saṃ | arvaṃtaḥ | : ghu 'druvaḥ | saṃ | sujātāsaḥ | sūrayaḥ | iṣaṃ | stotṛbhyaḥ | ā |*  
+> *bhara ‖ 2 ‖*
+
+### Printed p. 819
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः स खल्वग्निर्यो वसुर्वासको गृणे । स्तूयते । यं धेनवः
+> समायंति होमार्थं । आर्वंतोऽश्वा रघुद्रुवो लघुगमनाः समायंति ।
+> सुजातासः सूरयो मेधाविनश्च समायंति स खल्वग्निरिति ॥
+
+##### Gist of the bhāṣya
+
+That Agni, verily, who is vasu, the giver of dwelling, is praised (gṛṇe); to whom the cows come together for the sake of the homa. The horses, swift-going (raghudruvaḥ), come together; and the well-born (sujātāsaḥ) and the wise (sūrayaḥ) come together: he is indeed Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- गृणे (*gṛṇe*)—to the praiser
+- वसुः (*vasuḥ*)—the giver of dwelling
+- यं (*yaṃ*)—whom
+- धेनवः (*dhenavaḥ*)—the cows
+- सु आयंति (*su āyaṃti*)—come and join (for the homa)
+- रघुद्रुवः (*raghudruvaḥ*)—having very swift running
+- आर्वंतः (*ārvaṃtaḥ*)—the horses
+- सं (आयंति) (*saṃ (āyaṃti)*)—come and join
+- सुजातासः (*sujātāsaḥ*)—of excellent standing
+- सूरयः (*sūrayaḥ*)—the wise
+- सं (आयंति) (*saṃ (āyaṃti)*)—come and join
+- सः (*saḥ*)—he
+- अग्निः (*agniḥ*)—Agni (O Agni)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+He who is the giver of dwelling to the praiser, to whom the cows come and join for the homa, and to whom the galloping horses and the wise ones of excellent standing come and join, he is Agni. O Agni, bring and provide food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+He is Agni, who is praised as the giver of dwellings, to whom the
+milch cows, the light-faced steeds, the well-born, devout worshippers repair:
+Agni, bring food to your adorers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्हि वा॒जिनं॑ वि॒शे ददा॑ति वि॒श्वच॑र्षणिः ।  
+> अ॒ग्नी रा॒ये स्वा॒भुवं॒ स प्री॒तो या॑ति॒ वार्य॒मिषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥ ३ ॥
+
+> *agnirhi vājinaṃ viśe dadāti viśvacarṣaṇiḥ |*  
+> *agnī rāye svābhuvaṃ sa prīto yāti vāryamiṣaṃ stotṛbhya ā bhara ‖ 3 ‖*
+
+### Printed p. 820
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । हि । वाजिनं । विशे । ददाति । विश्वचर्षणिः ।  
+> अग्निः । राये । सुआभुवं । सः । प्रीतः । याति । वार्यं । इषं । स्तोतृभ्यः ।  
+> आ । भर ॥ ३ ॥
+
+> *agniḥ | hi | vājinaṃ | viśe | dadāti | viśvacarṣaṇiḥ |*  
+> *agniḥ | rāye | suābhuvaṃ | saḥ | prītaḥ | yāti | vāryaṃ | iṣaṃ | stotṛbhyaḥ |*  
+> *ā | bhara ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्ह्ययमग्निः खलु विशे यजमानाय वाजिनमन्नवंतं पुत्रमश्वमन्नं
+> वा ददाति । विश्वचर्षणिः । विश्वे चर्षणयो मनुष्या रक्षणीया अर्चका वा यस्य स
+> तथोक्तः । यद्वा । पश्यतिकर्मैतत् । सर्वस्य द्रष्टाग्नी राये धनार्थिने । अथवा
+> द्वितीयार्थे चतुर्थी । धनं स्वाभुवं सुष्टु सर्वत्र व्याप्तं वार्यं सर्वैर्वरणेयं प्रीतः सन् याति । यमयति । दातुं ना गच्छति । इषमित्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+This Agni, verily, gives to the sacrificer (viś) a vājina, one possessed of food: a son, a horse, or food. Viśvacarṣaṇi: he whose carṣaṇayaḥ, all men, the worshippers who are to be protected, are all; so he is called. Or else: पश्यति (*paśyati*) is the verb of seeing here, so "the seer of all." Rāye: to one who desires wealth; or the dative stands in the sense of the accusative: wealth (rāye) that is svābhuvam, well pervading everywhere, and vāryam, to be chosen by all. Being pleased, he goes (yāti); he restrains (यमयति (*yamayati*)); he does not go to give. **NOTE** The sense of *iṣam* and the rest has been given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—who has the power of seeing everything
+- अग्निर्हि (*agnirhi*)—that same Agni
+- विशे (*viśe*)—to the sacrificers
+- वाजिनं (*vājinaṃ*)—sons and the like, endowed with abundance of food
+- ददाति (*dadāti*)—gives
+- प्रीतः (*prītaḥ*)—being satisfied
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- राये (*rāye*)—to the sacrificer who desires wealth
+- स्वाभुवं (*svābhuvaṃ*)—all-pervading
+- वार्यं (*vāryaṃ*)—desired, wealth
+- याति (*yāti*)—comes forward to provide (O Agni)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who sees all, gives to the sacrificers sons and the like, endowed with abundance of food. That same Agni, being satisfied, comes forward to provide the sacrificer who desires wealth with wealth that is all-pervading and desired. O Agni, bring and provide food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+Agni, the all-beholding, gives, verily, to the man (who worships him, a son) possessing abundant food : Agni, when propitiated, proceeds (to bestow) that wealth which is of its own nature precious: Agni, bring food to your adorers.
+
 ---
 
-**Progress note:** Done through printed p. 814. pp. 809-814 (batch API)
+**Progress note:** Done through printed p. 820. pp. 815-820 (batch API)
