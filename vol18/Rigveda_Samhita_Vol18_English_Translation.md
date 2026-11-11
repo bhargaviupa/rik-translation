@@ -7619,6 +7619,302 @@ This sūkta beginning "nakir indra" is the ninth sūkta in the third anuvāka. I
 > *nakiriṃdra tvaduttaro na jyāyā asti vṛtrahan |*  
 > *nakirevā yathā tvaṃ ‖ 1 ‖*
 
+### Printed p. 217
+#### Ṛk 1 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । इंद्र । त्वत् । उत्तरः । न । ज्यायान् । अस्ति । वृत्रहन् ।  
+> नकिः । एव । यथा । त्वं ॥ १ ॥
+
+> *nakiḥ | iṃdra | tvat | uttaraḥ | na | jyāyān | asti | vṛtrahan |*  
+> *nakiḥ | eva | yathā | tvaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्निंद्रवृत्रस्य नाशकेंद्र । लोक एकोऽपीति शेषः । त्वत्त्वत्त उत्तर
+> उत्कृष्टतरो नकिरस्ति । न भवति । त्वत्तो ज्यायान् प्रशस्यतर एकोऽपि नास्ति । हे
+> इंद्र त्वं लोके यथा प्रसिद्धो भवसि तथाविध एकोऽपि नकिरेवास्ति । नैव भवति ।
+> कश्चिदपि लोक इंद्रसदृशो नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of Vṛtra: in the world not even one is superior to you, more excellent than you; not even one is more praiseworthy than you. As you are renowned in the world, no one of such a kind exists at all. The meaning is that nobody in the world is equal to Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O slayer of Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- त्वत् (*tvat*)—than you
+- उत्तरः (*uttaraḥ*)—one more excellent
+- नकिः अस्ति (*nakiḥ asti*)—there is no one
+- ज्यायान् (*jyāyān*)—one more praiseworthy than you
+- न (अस्ति) (*na (asti)*)—there is not
+- त्वं (*tvaṃ*)—you
+- यथा (*yathā*)—by whatever qualities you are renowned
+- नकिः एव (*nakiḥ eva*)—(one endowed with such renowned qualities, apart from you) certainly there is no other
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, there is no one more excellent than you. There is no one more worthy of praise than you. Apart from you there is no other who is endowed with such virtues as those by which you are renowned.
+
+##### English translation (H. H. Wilson)
+There is no one, Indra, superior to you; no one more excellent (than you); slayer of Vritra there is no one, verily, such as you are.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा ते॒ अनु॑ कृ॒ष्टयो॒ विश्वा॑ च॒क्रेव॑ वानृतुः ।  
+> स॒त्रा म॒हा अ॑सि श्रु॒तः ॥ २ ॥
+
+> *satrā te anu kṛṣṭayo viśvā cakreva vānṛtuḥ |*  
+> *satrā mahā asi śrutaḥ ‖ 2 ‖*
+
+### Printed p. 218
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रा । ते । अनु । कृष्टयः । विश्वा । चक्राइव । ववृतुः ।  
+> सत्रा । महान् । असि । श्रुतः ॥ २ ॥
+
+> *satrā | te | anu | kṛṣṭayaḥ | viśvā | cakrāiva | vavṛtuḥ |*  
+> *satrā | mahān | asi | śrutaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कृष्णयः प्रजास्ते त्वामनु लक्षीकृत्य सत्रा सत्यमेव ववृतुः ।
+> वर्तंते । तत्र दृष्टांतः । विश्वा विश्वानि व्याप्तानि चक्रेव चक्राणीव । यथा चक्राणि
+> शकटमनुवर्तंते तद्वत् । हे इंद्र महांस्त्वं सत्रा सत्यमेव श्रुतो विश्रुतोऽसि।
+> गुणैः प्रख्यातो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the peoples (kṛṣṭayaḥ), looking to you, truly turn toward you. The illustration: as all the wheels follow the cart, so they follow you. O Indra, you are great and truly renowned; you are famed for your qualities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विश्वा (*viśvā*)—all
+- चक्रेव (*cakreva*)—like wheels (that rest on the cart)
+- कृष्टयः (*kṛṣṭayaḥ*)—all the peoples too
+- ते अनु (*te anu*)—looking to you
+- सत्रा (*satrā*)—certainly
+- ववृतुः (*vavṛtuḥ*)—have resorted to you
+- त्वं (*tvaṃ*)—you
+- महान् (*mahān*)—one of great qualities
+- श्रुतः (*śrutaḥ*)—renowned
+- असि (*asi*)—that you are
+- सत्रा (*satrā*)—is indeed true
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as all the wheels rest on the cart, so all the peoples, looking to you, certainly resort to you. O Indra, you are truly one of great qualities and renowned.
+
+##### English translation (H. H. Wilson)
+Verily men are attached to you as are all the wheels (to the body of the waggon): in truth you are great and renowned.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ च॒नेद॒ना त्वा॑ दे॒वास॑ इंद्र युयुधुः  
+> यदहा॒ नक्त॒माति॑रः ॥ ३ ॥
+
+> *viśve canedanā tvā devāsa iṃdra yuyudhuḥ*  
+> *yadahā naktamātiraḥ ‖ 3 ‖*
+
+### Printed p. 219
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । चन । इत् । अना । त्वा । देवासः । इंद्र । युयुधुः ।  
+> यत् । अहा । नक्तं । आ । अतिरः ॥ ३ ॥
+
+> *viśve | cana | it | anā | tvā | devāsaḥ | iṃdra | yuyudhuḥ |*  
+> *yat | ahā | naktaṃ | ā | atiraḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विश्वे चनेत्सर्व एव देवासोऽसुरान्विजिगीषवो देवा अना प्राणरूपेण बलेन त्वा त्वां सहायं लद्ध्वा युयुधुः । असुरैः सह युद्धं चक्रुः ।
+> यद्यस्मात्कारणादहा अहःसु नक्तं रात्रिषु चातिरः । आ समंतात् शत्रूनवधीः । अतः
+> कारणाद्युयुधुरिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, all the gods, desirous of conquering the Asuras, having obtained you as helper through strength in the form of breath, fought with the Asuras. The reason: you struck down the enemies completely by days and by nights. For this reason "they fought" — so it is connected with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—by whose power of yours
+- अहा (*ahā*)—in the days
+- नक्तं (*naktaṃ*)—and in the nights
+- आ अतिरः (*ā atiraḥ*)—you destroyed (the enemies) completely (therefore)
+- विश्वे चन इत् (*viśve cana it*)—all
+- देवासः (*devāsaḥ*)—the gods too
+- त्वा (*tvā*)—you
+- अना (*anā*)—having obtained as a helper in the form of breath
+- युयुधुः (*yuyudhuḥ*)—fought with the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, because of that power of yours by which you fought without pause through days and nights and destroyed the enemies, all the gods too, having obtained you as their helper, their very breath, fought with the enemies.
+
+##### English translation (H. H. Wilson)
+Verily all the gods, with you (for) their strength, have warred (with the Asuras); wherefore you have destroyed them by day and by night.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रो॒त बा॑धि॒तेभ्य॑श्च॒क्रं कुत्सा॑य॒ युध्य॑ते ।  
+> मु॒षा॒य इं॑द्र॒ सूर्यं॑ ॥ ४ ॥
+
+> *yatrota bādhitebhyaścakraṃ kutsāya yudhyate |*  
+> *muṣāya iṃdra sūryaṃ ‖ 4 ‖*
+
+### Printed p. 220
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । उत । बाधितेभ्यः । चक्रं । कुत्साय । युध्यते ।  
+> मुषायः । इंद्र । सूर्यं ॥ ४ ॥
+
+> *yatra | uta | bādhitebhyaḥ | cakraṃ | kutsāya | yudhyate |*  
+> *muṣāyaḥ | iṃdra | sūryaṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्युद्ध उतापि च हे इंद्र त्वं बाधितेभ्यः कुत्ससहायेभ्यो
+> युध्यते युद्धं कुर्वते कुत्साय च सूर्यं सूर्यसंबंधि चक्रं मुषायः ।
+> अमुष्णाः । अपहृतवानसीत्यर्थः । तस्मिन्युद्धे प्रावः शचीभिरेतशमिति परेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+In whatever battle, O Indra, you stole the wheel belonging to the sun for Kutsa, who was fighting, and for those oppressed, Kutsa's helpers. The meaning is "you carried it off". In that battle — "you protected Etaśa by your powers" — so it is connected with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- उत (*uta*)—and
+- यत्र (*yatra*)—in which battle
+- युध्यते (*yudhyate*)—who was fighting
+- कुत्साय (*kutsāya*)—for Kutsa
+- बाधितेभ्यः (*bādhitebhyaḥ*)—and for the followers of Kutsa harmed (by enemies)
+- सूर्यं (*sūryaṃ*)—belonging to the sun
+- चक्रं (*cakraṃ*)—the wheel
+- मुषायः (*muṣāyaḥ*)—you carried off (in that battle you protected him)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle in which you carried off the wheel of the sun, for the followers of Kutsa harmed by enemies and with the intention of helping Kutsa, in that battle you protected him.
+
+##### English translation (H. H. Wilson)
+In which (contests), for the sake of Kutsa and his allies you have stolen, Indra, the (wheel of the car) of the sun.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॑ दे॒वा ऋ॑घाय॒तो विश्वा॒ अयु॑ध्य॒ एक॒ इत् ।  
+> त्वमिं॑द्र व॒नूरह॑न् ॥ ५ ॥
+
+> *yatra devā ṛghāyato viśvā ayudhya eka it |*  
+> *tvamiṃdra vanūrahan ‖ 5 ‖*
+
+### Printed p. 221
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । देवान् । ऋघायतः । विश्वान् । आयुध्यः । एकः । इत् ।  
+> त्वं । इंद्र । वनून् । अहन् ॥ ५ ॥
+
+> *yatra | devān | ṛghāyataḥ | viśvān | āyudhyaḥ | ekaḥ | it |*  
+> *tvaṃ | iṃdra | vanūn | ahan ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमेक इदसहाय एव यत्र यस्मिन् संग्रामे देवानिंद्रादीनृघायतो बाधमानान्विश्वान् सर्वान्नाक्षसादीनयुध्यः । युद्धमकरोः । तथा
+> वनून् हिंसकानहन् । अवधीः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you alone, without helper, in whatever battle fought all the Rākṣasas and others who were oppressing the gods, Indra and the rest, and you slew the violent ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- एक इत् (*eka it*)—you alone, without any help from others
+- यत्र (*yatra*)—in which battle
+- देवान् (*devān*)—the gods
+- ऋघायतः (*ṛghāyataḥ*)—who were harming
+- विश्वान् (*viśvān*)—all the Asuras
+- आयुध्यः (*āyudhyaḥ*)—you faced and fought (and)
+- वनून् (*vanūn*)—those violent ones
+- अहन् (*ahan*)—you slew (in that battle you protected Kutsa)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, without seeking the help of any other gods or men, you alone, in whatever battle, faced and fought all the Asuras who were harming gods, men and others, and killed all those violent ones; in that battle you protected Kutsa.
+
+##### English translation (H. H. Wilson)
+In which (contests), you singly indeed have warred with all those opposing the gods : you, Indra, have slain the malignant.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रो॒त मर्त्या॑य॒ कमरि॑णा इंद्र॒ सूर्यं॑ ॥  
+> प्रावः॒ शची॑भि॒रेत॑शं ॥ ६ ॥
+
+> *yatrota martyāya kamariṇā iṃdra sūryaṃ ‖*  
+> *prāvaḥ śacībhiretaśaṃ ‖ 6 ‖*
+
+### Printed p. 222
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । उत । मर्त्याय । कं । अरिणाः । इंद्र । सूर्यं ।  
+> प्र । अवः । शचीभिः । एतशं ॥ ६ ॥
+
+> *yatra | uta | martyāya | kaṃ | ariṇāḥ | iṃdra | sūryaṃ |*  
+> *pra | avaḥ | śacībhiḥ | etaśaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन् संग्राम उतापि च हे इंद्र त्वं मर्त्यायॆ मनुष्यायैतशाख्याय ऋषये सूर्यमरिणाः । अहिंसीः । कमिति पूरणः । तदानीं शचीभिर्युद्धकर्मभिरेतशमेतत्संज्ञकमृषिं प्रावः । प्रकर्षणारक्षः ॥
+
+##### Gist of the bhāṣya
+
+In whatever battle, O Indra, you harmed the sun for the sake of a mortal, a man, the seer named Etaśa — "kam" is a filler — at that time you protected the seer called Etaśa by your battle-deeds, protecting him eminently.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- यत्र (*yatra*)—in which battle
+- इंद्र (*iṃdra*)—O Indra
+- मर्त्याय (*martyāya*)—for the seer, a man named Etaśa
+- सूर्यं (*sūryaṃ*)—the sun
+- अरिणाः (*ariṇāḥ*)—you harmed (in that battle)
+- शचीभिः (*śacībhiḥ*)—by your battle-deeds
+- एतशं (*etaśaṃ*)—the seer named Etaśa
+- प्रावः (*prāvaḥ*)—you protected completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle in which you harmed the sun for the sake of the seer named Etaśa, a man, in that battle you protected Etaśa completely by your battle-deeds.
+
+##### English translation (H. H. Wilson)
+In which (contests), Indra, you have, for the sake of a mortal, discomfited the sun, and have protected Etasa by (your) exploits.
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning Indra's protection of the seer Etaśa:
+प्रैतशं सूर्ये हस्पृधानं सौवश्ये सुष्टिमावदिंद्रः । (*praitaśaṃ sūrye haspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ |*) (Ṛ. Saṃ. 1-61-15)
+In this Ṛk: formerly a king named Svaśva, desiring a son, performed austerities addressed to the sun. Pleased with his austerity, the sun himself was born as that king's son. A terrible battle took place between him and the great seer Etaśa. When Etaśa was about to be defeated in that battle, he offered Indra soma juice
+
 ---
 
-**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
+**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
