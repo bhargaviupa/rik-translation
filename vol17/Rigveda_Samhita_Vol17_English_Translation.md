@@ -4348,6 +4348,245 @@ We invoke for our protection the opulent Indra, distinguished in this combat, th
 
 The special topics of this Ṛk have already been explained earlier.
 
+### Printed p. 114
+## Sūkta 49 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शंसा महामिति पंचर्चमेकादशं सूक्तं वैश्वामित्रं त्रैष्टुभमैंद्रं ।
+> शंसा महामित्यनुक्रमणिका ॥ समूळ्हे दशरात्रेष्टमेऽहनि मरुत्वतीयशस्त्र एतत्तूक्तं । सूत्रितं च । शंसा महां महश्चित्त्वमिंद्र । आ. ८-७ । इति ॥
+> अनुवादवु—शंसा महां ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि हन्नॊंदनॆय
+> सूक्तवु. इदरल्लि ऐदु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ विश्वामित्रनु ऋषियु ; इंद्रनु देवतॆयु ;
+> त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि शंसा महां ऎंदु मॊदलागि हेळिरुवुदु. समूळ
+> दशरात्रवॆंब यागद ऎंटनॆय दिवस मरुत्वतीय शस्त्रमंत्रगळिगागि ई सूक्तद विनियोग
+> विरुवुदॆंदु आश्वलायनशौतसूत्रद—शंसा महां महश्चित्त्वमिंद्र ऎंब सूत्रदिंद विवृत
+> वागिरुवुदु (आ. ८-७).
+> ॥ ओं ॥
+> सूक्त—४९
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—४९ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—१३ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> । ऋषिः—विश्वामित्रः ।
+> । देवता—इंद्रः ।
+> । छंदः—त्रिष्टुप् ।
+
+##### Gist of the bhāṣya
+
+This is the eleventh sūkta of the fourth anuvāka, of five ṛks. Its seer is Viśvāmitra, its deity Indra, its metre Triṣṭubh. The Anukramaṇikā marks it with the words शंसा महां (*śaṃsā mahāṃ*). It is used in the Marutvatīya śastra on the eighth day of the Samūḷha Daśarātra sacrifice, as the sūtra shows: शंसा महां महश्चित्त्वमिंद्र (*śaṃsā mahāṃ mahaścittvamiṃdra*) (Ā. Sū. 8-7). The block also gives the particulars: Maṇḍala 3, Anuvāka 4, Sūkta 49, Aṣṭaka 3, Adhyāya 3, Varga 13, five ṛks.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शंसा॑ म॒हामिंद्रं॒ यस्मि॒न्विश्वा॒ आ कृ॒स्टयः॑ सोम॒पाः  ॒॑
+> काममव्यन् ।  
+> यं सु॒क्रतुं॑ धि॒षणे॑ । विभ्वत॒ष्टं घ॒नं वृ॒त्राणां॑ ज॒नयं॑त  ॒
+> देवाः ॥ १ ॥
+
+> *śaṃsā mahāmiṃdraṃ yasminviśvā ā kṛsṭayaḥ somapāḥ*  
+> *kāmamavyan |*  
+> *yaṃ sukratuṃ dhiṣaṇe | vibhvataṣṭaṃ ghanaṃ vṛtrāṇāṃ janayaṃta*  
+> *devāḥ ‖ 1 ‖*
+
+### Printed p. 115
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शंस महां । इंद्रं । यस्मिन् । विश्वाः । आ । कृष्टयः । सोमपाः । कामं ।  
+> अव्वन् ।  
+> यं । सुक्रतुं । धिषणे इति । विभ्वतष्टं । घनं । वृत्राणां । जनयंत । देवाः ॥
+
+> *śaṃsa mahāṃ | iṃdraṃ | yasmin | viśvāḥ | ā | kṛṣṭayaḥ | somapāḥ | kāmaṃ |*  
+> *avvan |*  
+> *yaṃ | sukratuṃ | dhiṣaṇe iti | vibhvataṣṭaṃ | ghanaṃ | vṛtrāṇāṃ | janayaṃta | devāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होत महां महांतमिंड्रं शंस । शस्त्रैः स्तुहि । यस्मिन्निंद्रे रक्षितरि
+> सति विश्वाः कृस्टयः सर्वे मनुष्याः सोमपा यज्ञमनुष्ठाय सोमपाः संतः
+> कामं । काम्यत इति कामः स्वर्गादिः । तमाव्यन् सर्वतः प्राप्नुवंति । धिषणे देवमनुष्यादीनां धारयित्र्यौ । यद्वा । प्रगल्ले समर्थे स्वाश्रितान् रक्षितुमिति धिषणे
+> द्यावापृथिव्यौ । देवाश्च सुक्रतुं । क्रतुः कर्म जगत्पालनादि । शोभनः क्रतुर्यस्यासौ सुक्रतुः । तादृशं विभृतष्टं विभुना ब्रह्मणा जगदाधिपत्ये स्थापितं महांतं
+> वृत्राणां पापरूपाणां घनं हंतारं यमिंद्रं जनयंत । अजनयन् ॥ शंस ।
+> शन्नु स्तुतावित्यस्य लोटि रूपं । पादादित्वादनिघातः द्व्यचोऽतस्तिज इति
+> संहितायां दीर्घः । अव्यन् । वी कांतिगत्यादिषु । लजि रूपं । यद्वृत्तयोगादनिघातः । अट् स्वरः । सुक्रतुं । क्रत्वादयश्चेत्युत्तरसदाद्युदात्तः । धिषणे । इं
+> धृषा प्रागल्ब इत्यस्माद्दषेर्धिष च संज्ञायामिति कु प्रत्ययः । धिष इत्यादेशः ।
+> प्रत्ययस्वरः । घनं । हंतेः पुंसि संज्ञायामिति घः । हो हंतेरिति कुत्वं । प्रत्ययस्वरः । जनयंत । जनेर्न्यंतस्य लजि रूपं । यद्वृत्तयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Hotṛ, praise the great Indra with the śastras. Under the protection of this Indra, all men, having performed the sacrifice and become Soma-drinkers, obtain their desire." Kāma is what is desired, heaven and the like; Sāyaṇa glosses the verb as "they obtain it fully". The two धिषणे (*dhiṣaṇe*) are the two sustainers of gods, men and others. Or else they are bold and capable of protecting those who depend on them, that is, heaven and earth. The gods too (beget Indra). सुक्रतुं (*sukratuṃ*): kratu is work, such as the protection of the world; he whose work is excellent is sukratu. विभ्वतष्टं (*vibhvataṣṭaṃ*): established by Vibhu, that is Brahmā, in the sovereignty of the world. He is great, the घनं (*ghanaṃ*), the slayer of the Vṛtras, who are of the nature of sin. This Indra they begot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in whose (Indra's) protection (O Hotṛ)
+- विश्वाः (*viśvāḥ*)—all
+- कृष्टयः (*kṛṣṭayaḥ*)—men
+- सोमपा (*somapā*)—having drunk Soma (at the close of the sacrifice)
+- कामं (*kāmaṃ*)—their desired object
+- अव्यन् (*avyan*)—obtain fully; (and)
+- धिषणे (*dhiṣaṇe*)—heaven and earth, which sustain all
+- देवाः (*devāḥ*)—all the gods as well
+- सुक्रतुं (*sukratuṃ*)—the excellent doer of deeds
+- विभ्वतष्टं (*vibhvataṣṭaṃ*)—one established by Vibhu for the sovereignty of the world
+- वृत्राणां (*vṛtrāṇāṃ*)—of Vṛtra and the other Asuras
+- घनं (*ghanaṃ*)—the destroyer
+- यं (*yaṃ*)—whom, that Indra
+- जनयंत (*janayaṃta*)—caused to be born, such a one
+- महां (*mahāṃ*)—of great nature
+- इंद्रं (*iṃdraṃ*)—Indra
+- शंस (*śaṃsa*)—praise by reciting the śastras
+
+##### भावार्थ (Bhāvārtha)
+
+O Hotṛ, praise with the recitation of the śastra-mantras that Indra of great nature, in whose protection all men, after performing the sacrifice and drinking Soma, obtain their desired object; whom heaven and earth, which sustain all, and all the gods also caused to be born: the excellent doer of deeds, established by Vibhu for the sovereignty of the world, the destroyer of Vṛtra and the other Asuras.
+
+### Printed p. 116
+
+##### English translation (H. H. Wilson)
+I glorify the mighty Indra, in whom all men, drinking the Soma juice, obtain their wishes ; whom the powerful (heaven and earth) and the gods begot, the doer of great deeds, the slayer of the Vritras, who was fashioned by Vibhu (the creator)
+
+##### विशेषविषयगळु (Special Topics)
+
+शंस महां इंद्रं (*śaṃsa mahāṃ iṃdraṃ*)—"O Hotṛ, praise in this sacrifice the greatly glorious Indra with śastra-mantras and the like": thus the sacrificer addresses the priest called Hotṛ. What the glory of Indra is, which is meant by the epithet महां (*mahāṃ*) ("greatly glorious"), the seer describes in the following sentences.
+यस्मिन् विश्वाः आ कृष्टयः सोमपाः कामं अव्यन् (*yasmin viśvāḥ ā kṛṣṭayaḥ somapāḥ kāmaṃ avyan*)—इंद्रे रक्षतरि सति सर्वे मनुष्याः यज्ञमनुष्ठाय सोमपाः संतः स्वर्गादिकामं सर्वतः प्राप्नुवंति (*iṃdre rakṣatari sati sarve manuṣyāḥ yajñamanuṣṭhāya somapāḥ saṃtaḥ svargādikāmaṃ sarvataḥ prāpnuvaṃti*). While the all-powerful Indra protects, all men perform sacrifices and other good rites, drink the Soma prescribed in those sacrifices, and as the fruit of it obtain the joys of heaven and the like. This is possible only through the glory of Indra.
+धीषणे देवाः सुक्रतुं विभ्वतष्टं वृत्राणां हंतारं यं जनयंत (*dhīṣaṇe devāḥ sukratuṃ vibhvataṣṭaṃ vṛtrāṇāṃ haṃtāraṃ yaṃ janayaṃta*)—Since the word धि (*dhi*) is read among the names of rites, the word धीषणे (*dhīṣaṇe*) may be explained as heaven and earth, which are capable in the rites that protect people, or all the creatures on the earth. It is said here that such heaven and earth, and the gods, produced Indra. That Indra, being capable of performing rites such as the protection of the world, is praised by the epithet सुक्रतुं (*sukratuṃ*); being established by Brahmā in the sovereignty of the world, by विभ्वतष्टं (*vibhvataṣṭaṃ*); and being the destroyer of sins, by घनं वृत्राणां (*ghanaṃ vṛtrāṇāṃ*). It is said here that heaven and earth and the gods produced such a greatly glorious Indra. The matter of heaven and earth producing Indra we have already mentioned earlier.
+
+#### Ṛk 2
+### Printed p. 117
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं नु नकिः॒ पृत॑नासु स्व॒राजं॑ द्वि॒ता तर॑ति॒ नृत॑मं हरि॒ष्ठां ।  
+> इ॒नत॑मः॒ सत्व॑भि॒र्यो ह॑ शू॒षैः पृ॑थु॒ज्रया॑ अमिना॒दायु॒र्दस्योः॑ ॥ २ ॥
+
+> *yaṃ nu nakiḥ pṛtanāsu svarājaṃ dvitā tarati nṛtamaṃ hariṣṭhāṃ |*  
+> *inatamaḥ satvabhiryo ha śūṣaiḥ pṛthujrayā aminādāyurdasyoḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । नु । नकिः । पृतनासु । स्वराजं । द्विता । तरति । नृतमं । हरिस्थां ।  
+> इनतमः । सत्वभिः । यः । ह । शूषैः । पृथुज्रयाः । अमिनात् । आयुः ।  
+> दस्योः ॥ २ ॥
+
+> *yaṃ | nu | nakiḥ | pṛtanāsu | svarājaṃ | dvitā | tarati | nṛtamaṃ | haristhāṃ |*  
+> *inatamaḥ | satvabhiḥ | yaḥ | ha | śūṣaiḥ | pṛthujrayāḥ | amināt | āyuḥ |*  
+> *dasyoḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृतासु । व्याप्रियंतेऽत्र योद्धार इति पृतनाः संग्रामाः । तेषु स्वराजं
+> हरिष्ठां हरिस्थां हरियुक्ते रथे वर्तमानं नृतमं बलस्य युद्धे नेतृतमं द्विता
+> युद्ध मासाद्य सेनां द्विधा कृत्वा वर्तमानं यमिंद्रं नकिर्न कश्चिषपि तरति उत्तीर्य गच्छति । न कोऽप्यभ्यस्तीत्यर्थः । नु प्रसिद्धौ । स इंद्र इनतमोऽतिशयेन सेनास्वामी सत्वभिः परितः सीदद्विर्मरुद्भिः सह यो यान् गच्छन् शूष्यैः । शोषयंति
+> परबलानीति शूषाणि बलानि । तैः पृथुज्रया युद्धं प्रति तीव्रवेगः सन् दस्यो
+> शत्रोरायुरन्नं प्राणं वामिनात् । हिनस्ति । ह प्रसिद्धौ ॥ अत्र निरुक्तं । पृथुज्रयाः पृथुजवः । पृथुज्रया अमिनादायुर्दस्योः । प्रामापयुदायुर्दस्योः
+> । ५-९ । इति ॥ तरति । त्य प्लवनतरणयोरित्यस्य लट रूपं । यद्वृत्तयोगादनिघातः ।
+> शपः पित्तादनुदात्तत्वे धातुस्वरः । यः । या प्रापणी । औणादिकः कप्रत्ययः ।
+> आतो लोपः । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Pṛtanās are battles, where warriors engage. In them Indra is स्वराजं (*svarājaṃ*), self-ruling; हरिष्ठां (*hariṣṭhāṃ*) is हरिस्थां (*haristhāṃ*), standing in a chariot yoked with bay horses; नृतमं (*nṛtamaṃ*) is the best leader of strength in battle; द्विता (*dvitā*) means that, having come to battle, he proceeds dividing the enemy army in two. No one at all surpasses (तरति (*tarati*)) this Indra; the sense is that no one equals him. नु (*nu*) is a particle of well-known fact. That Indra, इनतमः (*inatamaḥ*), the greatest lord of the army, goes with the Maruts, the सत्वभिः (*satvabhiḥ*), who sit round about him. With his शूषैः (*śūṣaiḥ*), strengths that dry up (shoṣayanti) the forces of the foe, and being पृथुज्रयाः (*pṛthujrayāḥ*), of intense speed toward battle, he destroys the life, or the food, of the Dasyu, the enemy; ह (*ha*) is a particle of well-known fact. Sāyaṇa cites the Nirukta here, which explains पृथुज्रयाः (*pṛthujrayāḥ*) as पृथुजवः (*pṛthujavaḥ*) and then quotes the pāda of the ṛk, with a further word that is not clear (Ni. 5-9). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृतनासु (*kṛtanāsu*)—in battles
+- स्वराजं (*svarājaṃ*)—shining by his own radiance
+- हरिष्ठां (*hariṣṭhāṃ*)—seated in a chariot yoked with horses
+- नृतमं (*nṛtamaṃ*)—the most excellent leader
+- द्विता (*dvitā*)—dividing the enemy army into two
+- यं (*yaṃ*)—that same Indra
+- नकिः (*nakiḥ*)—no one at all
+- तरति (*tarati*)—can surpass him
+- इनतमः (*inatamaḥ*)—as the most excellent commander
+- सत्वभिः (*satvabhiḥ*)—moving about with his companions the Maruts
+- यः (*yaḥ*)—which Indra
+- शूषैः (*śūṣaiḥ*)—with strength that dries up enemies
+- प्रथुज्रयाः (*prathujrayāḥ*)—running swiftly toward the battle
+- आयुः (*āyuḥ*)—the life of the enemy
+- अविनात् (*avināt*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, who shines in battles by his own radiance, is seated in a chariot yoked with horses, is the most excellent leader, and divides the enemy army in two, no one can surpass. As the most excellent commander, moving about with his companions the Maruts, running swiftly toward the battle with his enemy-withering strength, Indra destroys the lives of the enemies.
+
+### Printed p. 118
+
+##### English translation (H. H. Wilson)
+Whom, when borne by his steeds, foremost and eminent in battles, breaking in two the (hostile host), no one ever surpasses : supreme in sway, attended by his faithful Maruts, and hastening to combat, he has destroyed with foe-withering (energies) the existence of the Dasyu.
+
+##### विशेषविषयगळु (Special Topics)
+
+नकिः (*nakiḥ*)—Yāska says that the word नकिः (*nakiḥ*) is used in the sense of the nine "all-words" collection (sarvapada-samāmnāya), हिकं नुकं (*hikaṃ nukaṃ*) and the others (Ni. 3-13). In the present ṛk the meaning न कश्चिदसि (*na kaścidasi*), "no one is able", is stated for this word. **NOTE**
+नृतमं (*nṛtamaṃ*)—नेतृतमं (*netṛtamaṃ*): the best among leaders or chiefs.
+हरिष्ठां (*hariṣṭhāṃ*)—हरियुक्तेरथे वर्तमानं (*hariyukterathe vartamānaṃ*). The two horses of Indra are called Hari (Ni. 2-28). The sense is: Indra seated in a chariot to which such horses are yoked.
+इनतमः (*inatamaḥ*)—The word इन (*ina*) means lord. इनतमः (*inatamaḥ*) means one who is lord in an eminent or the highest degree.
+पृथुज्रयाः (*pṛthujrayāḥ*)—Yāska, taking this very ṛk as the example, gives the explanation पृथुज्रयाः पृथुजवः (*pṛthujrayāḥ pṛthujavaḥ*), "of extended speed", that is, one of great speed (Ni. 5-9).
+आयुः (*āyuḥ*)—Since the word आयुः (*āyuḥ*) means food (Ni. 3-9) and also life-breath or lifespan (Ni. 10-34), both meanings can be given here.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हावा॑ पृ॒त्सु त॒रणि॒र्नार्वा॑ व्यान॒शी रोद॑सी मे॒हना॑वान् ।  
+> भगो॒ न का॒रे हव्यो॑ मती॒नां पि॒तेव॒ चारुः॑ सु॒हवो॑  ॒
+> वयोधाः ॥ ३ ॥
+
+> *sahāvā pṛtsu taraṇirnārvā vyānaśī rodasī mehanāvān |*  
+> *bhago na kāre havyo matīnāṃ piteva cāruḥ suhavo*  
+> *vayodhāḥ ‖ 3 ‖*
+
+### Printed p. 119
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सह्यना । पृत्सु । तरणि । न । अर्वा । विआनशिः । रोदसी इति । मेहनावान् ।  
+> भगः । न । कारे । हव्य । मतीनां । पिताइव । चारुः । सुहवः । वयधाः ॥ ३ ॥
+
+> *sahyanā | pṛtsu | taraṇi | na | arvā | viānaśiḥ | rodasī iti | mehanāvān |*  
+> *bhagaḥ | na | kāre | havya | matīnāṃ | pitāiva | cāruḥ | suhavaḥ | vayadhāḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः सहपा बलवान्पृत्सु संग्रामेषु तरणिः । शत्रूनुत्तीर्य वर्तत
+> इति तरणिः । तत्र दृष्टांतः । अर्वा न । यथार्वा बलवानश्वः शत्रुबलं तरति तथा
+> रोदसी द्यावापृथिव्यौ व्यानतिर्वा पृत्सुन्मेहनावान् ! मिह्यते सिच्यते दीयतेऽर्थिभ्य
+> इति मेहनं धनं । तद्वान्भवति । तादृश इंद्रः कारे । क्रियत इति कारो यज्ञादिः ।
+> तस्मिन्यज्ञॆ भगो न पूषा देव इव हव्यो हवनीयो मतीनां स्तोत्यणां स्तुतीनां
+> वा पितेव पालयिता चारुः कमनीयः सुहवः सुष्ठाह्वानोपेतो वयोधा
+> अन्नस्य दाता भवति ॥ सहावा । सहोऽस्यास्तीति मतुबर्थे छंदसीवनिपाविति वनिप् ।
+> अन्येषामपि दृश्यत इति संहितायां दीर्घः । पृत्सु । पृतनाशब्दस्य सौ परतः मांस्पृत्सूनामुपसंख्यानमिति पृदादेशः । सावेकाच इति विभक्तेरुदात्तत्वं । व्यानशिः ।
+> अशू व्याप्तावित्यस्माच्छंदसि सदादित्वाक्तिप्रत्ययः । तस्य लिड्वद्भावः । अत आदेरित्यभ्यासस्य दीर्घे कृतेऽशोतेश्वेति नुडागमः । प्रादिसमासः । कारे । करोतेः कर्मणि
+> घञ् । कर्षात्वतो घञ्नोंत उदात्त इत्यंतोदात्तत्वं । हव्यः । जुहोतेरचो
+> यत् । यतोऽनाव इत्याद्युदात्तत्वं । सुहवः । हैयतेर्भानेनुपसर्गस्य । पा-
+> ३-३-७५ । इत्यप्प्रत्ययः । संप्रसारणं । प्रत्ययस्य पित्वादनुदात्तत्वे धातुस्वरः ।
+> आद्युदात्तं द्व्यच्छंदसीति बहुह्रावुत्तरपदाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+That Indra is mighty, and in the pṛtanās, the battles, he is तरणिः (*taraṇiḥ*): he moves on having crossed over his enemies. The illustration is अर्वा न (*arvā na*): as a strong horse crosses the force of the enemy, so he pervades (व्यानशिः (*vyānaśiḥ*)) heaven and earth, the two रोदसी (*rodasī*). He is मेहनावान् (*mehanāvān*): mehana is wealth, which is poured out and given to those who ask, and he possesses it. Such an Indra, in the कारे (*kāre*), that is the sacrifice and the like (what is done, kriyate), is like Bhaga, the god Pūṣan, to be invoked (हव्यः (*havyaḥ*)); he is the protector of the praisers or of the praises (मतीनां (*matīnāṃ*)), like a father; lovely (चारुः (*cāruḥ*)); possessed of a good invocation (सुहवः (*suhavaḥ*)); and giver of food (वयोधा (*vayodhā*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहावा (*sahāvā*)—Indra, endowed with might
+- अर्वा न (*arvā na*)—like a swiftly running horse
+- पृत्सु (*pṛtsu*)—in battles
+- तरणिः (*taraṇiḥ*)—crossing over the enemy armies
+- रोदसी (*rodasī*)—heaven and earth
+- व्यानशिः (*vyānaśiḥ*)—pervading
+- मेहनावान् (*mehanāvān*)—he is the distributor of wealth in the form of rain
+- कारे (*kāre*)—in the sacrifice
+- भगो न (*bhago na*)—like Bhaga
+- हव्यः (*havyaḥ*)—fit to receive the oblation
+- मतीनां (*matīnāṃ*)—to the praisers
+- पितेव (*piteva*)—like a protector, a father
+- चारुः (*cāruḥ*)—of lovely form
+- सुहवः (*suhavaḥ*)—possessed of an excellent invocation
+- वयोधाः (*vayodhāḥ*)—the giver of food
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, endowed with might, like a swiftly running horse, crosses over the enemy armies in battles, pervades heaven and earth, and distributes wealth in the form of rain. In the sacrifice, like Bhaga
+
 ---
 
-**Progress note:** Done through printed p. 113. pp. 107-113 (batch API, retry 1)
+**Progress note:** Done through printed p. 119. pp. 114-119 (batch API, retry 1)
