@@ -16046,6 +16046,183 @@ O Ṛbhus, by the powers with which you made the chamasa vessels into four parts
 ##### English translation (H. H. Wilson)
 With those faculties by which you have divided the ladles ; with that intelligence wherewith you have covered the (dead) cow with skin; with that will by which you have fabricated the two horses (of Indra); with those (means), Ribhus, you have attained divinity.
 
+### Printed p. 492
+
+##### विशेषविषयगळु (Special Topics)
+
+All the points that were described in the 20th sūkta of the first maṇḍala of the Ṛksaṃhitā (Bhāga 3), where the skill in action of the Ṛbhus is praised, are described here as well. The purport of those descriptions was explained briefly there. Some points not mentioned there are explained here. To show that the statement that they made the one ladle (camasa) into four has a special meaning, the Bṛhaddevatā puts the matter thus:
+
+सुधन्वन अंगिरसस्यासन्पुत्रास्त्रयः पुरा । (*sudhanvana aṃgirasasyāsanputrāstrayaḥ purā |*)
+ऋभुर्विभ्वा च वाजश्च शिष्यास्त्वष्टुश्च तेऽभवन् ॥ ३-८३ ॥ (*ṛbhurvibhvā ca vājaśca śiṣyāstvaṣṭuśca te 'bhavan ‖ 3-83 ‖*)
+
+In former times a man named Sudhanvan, a son of Aṅgiras, was a famous king. He had three sons, Ṛbhu, Vibhvan and Vāja. They were disciples of Tvaṣṭṛ.
+
+शिक्षयामास तांस्त्वष्टा त्वाष्टं यत्कर्म किंचन । (*śikṣayāmāsa tāṃstvaṣṭā tvāṣṭaṃ yatkarma kiṃcana |*)
+परिनिष्टितकर्माणो विश्वेदेवा उपाह्वयन् ॥ ३-८४ ॥ (*pariniṣṭitakarmāṇo viśvedevā upāhvayan ‖ 3-84 ‖*)
+
+Tvaṣṭṛ, who was accomplished in every art and science, taught them also all those arts and sciences. Then the Viśvedevas, who were adept in those sciences, seeing them, expressed their intolerance out of jealousy. And declaring that the Ṛbhus could certainly never attain a status equal to their own, they drew them into a contest.
+
+विश्वेषां ते ततश्चक्रुर्वाहनान्यायधानि तु । (*viśveṣāṃ te tataścakrurvāhanānyāyadhāni tu |*)
+धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते ॥ ३-८५ ॥ (*dhenuṃ sabardughāṃ cakruramṛtaṃ sabarucyate ‖ 3-85 ‖*)
+
+Then, in answer to that challenge, they created and gave the Viśvedevas vehicles and weapons that would please them. And they made a cow that gives immortality. The power that earns immortality is the thing famed by the name sabar.
+
+बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवंधुरं । (*bṛhaspaterathāśvibhyāṃ rathaṃ divyaṃ trivaṃdhuraṃ |*)
+इंद्राय च हरी देवप्रहितेनाग्निनापि यत् ॥ ३-८६ ॥ (*iṃdrāya ca harī devaprahitenāgnināpi yat ‖ 3-86 ‖*)
+
+Next they made a chariot with three seats (trivandhura) for Bṛhaspati and also for the Aśvins. They made the (horses) that were indispensable for Indra, and, Agni having been sent to them by the gods, they honoured him fittingly and sent him back.
+
+एकं चमसमित्युक्ते ज्येष्ठ आहेत्यथो दिवि । (*ekaṃ camasamityukte jyeṣṭha āhetyatho divi |*)
+उक्त्वा ततक्षुश्चमसान् यथोक्तं तेन हर्षिताः ॥ ३-८७ ॥ (*uktvā tatakṣuścamasān yathoktaṃ tena harṣitāḥ ‖ 3-87 ‖*)
+
+### Printed p. 493
+Then they divided into four parts the single ladle (camasa) that had been made by Tvaṣṭṛ. Tvaṣṭṛ was delighted by it.
+
+त्वष्टा च सविता चैव देवदेवः प्रजापतिः । (*tvaṣṭā ca savitā caiva devadevaḥ prajāpatiḥ |*)
+सर्वान् देवान् समामंत्र्य अमृतत्त्वं दुदुश्च ते ॥ (*sarvān devān samāmaṃtrya amṛtattvaṃ duduśca te ‖*) (I-88)**NOTE**
+
+Then Tvaṣṭṛ, Savitṛ and Prajāpati, the god of the gods, pleased with their skill, summoned all the gods and, with their gracious consent, granted them immortality.
+
+तृतीयसवने तेषां तैस्तु भागः प्रकल्पितः । (*tṛtīyasavane teṣāṃ taistu bhāgaḥ prakalpitaḥ |*)
+
+In the third pressing (savana) a share of the oblation along with the Viśvedevas has been fixed for them. Indra too drank Soma together with them. In this manner, praising their greatness, it is stated that the 20th sūkta of the first maṇḍala was recited addressed to them. In the present context one must examine what is meant by "with their skills they cut the ladles (camasa)".
+
+उत त्यं चमसं नवं त्वष्टुर्देवस्य निष्कृतं । (*uta tyaṃ camasaṃ navaṃ tvaṣṭurdevasya niṣkṛtaṃ |*)
+अकर्त चतुरः पुनः ॥ (*akarta caturaḥ punaḥ ‖*) (Ṛ. Saṃ. 1-28-6)
+
+Here it is stated that this ladle is the vessel of Tvaṣṭṛ. And in another part of the Ṛksaṃhitā this same ladle and this occasion are described in another way. If the nature of that description is understood, it becomes clear what this ladle is and what is meant by making it into four parts.
+
+तत्सपिता वोऽमृतत्वमासुवदगोह्यं यच्छ्रवयंत ऐतन । (*tatsapitā vo 'mṛtatvamāsuvadagohyaṃ yacchravayaṃta aitana |*)
+त्यं चिच्चमसमसुरस्य भक्षणमेकं संतमकृणुता चतुर्वयं ॥ (*tyaṃ ciccamasamasurasya bhakṣaṇamekaṃ saṃtamakṛṇutā caturvayaṃ ‖*) (Ṛ. Saṃ. 1-110-3)
+
+O Ṛbhus, when you approached Savitṛ, who is easily visible to all and cannot be concealed by anyone, and begged that you too should take part in drinking the Soma juice, the god Savitṛ granted you full divinity free from death. Therefore you have made into four that famous ladle made by Tvaṣṭṛ, the means for drinking the Soma juice, which at the time of its creation was created as one only.
+
+From the above example the relation of the Āditya (the sun) to the creation of the world is shown, and the part of the Ṛbhus in it is indicated. There are many grounds for saying that what is described as असुरस्य भक्षणं । एकं संतं (*asurasya bhakṣaṇaṃ | ekaṃ saṃtaṃ*) (the vessel)
+
+### Printed p. 494
+is nothing other than the orb of the sun. Before dividing as creation, these four principles, the sun, the moon, heaven (dyauḥ) and earth, were joined together as one original principle. As this unity is before creation, so it is also at the time of dissolution. In this context the description of two forms of truth should be seen. First, Savitṛ and his unconcealable camasa; or the camasa of the unconcealable Savitṛ. (चमस .... .... यस्मिन् यशो निहितं विश्वरूपं (*camasa .... .... yasmin yaśo nihitaṃ viśvarūpaṃ*) A. Ve. 10-8-9)**NOTE**. Second, the door of entry to truth, covered by the golden vessel (हिरण्ययेन पात्रेण सत्यस्यापिहितं मुखं (*hiraṇyayena pātreṇa satyasyāpihitaṃ mukhaṃ*) Īśa U. 15)**NOTE**. This golden vessel of the Āditya, known as the camasa, is itself the model for the sacrificial ladle, the camasa. Here one must understand what the original single principle is and what the nature of the four parts is.
+
+The single-natured camasa of Tvaṣṭṛ is the Āditya; through this Āditya he keeps watching over and creating all the worlds that rest on Tvaṣṭṛ. That the Ṛbhus divided this one solar principle into four parts means this: dividing day and night, as he goes from east to west, east and west are two stations of the Āditya; and in the two divisions of the year, south and north (dakṣiṇāyana, uttarāyaṇa) are two stations. Thus the four stations of the sun are east, west, south and north. This is what the Pañcaviṃśabrāhmaṇa describes as चतस्रो दिशः (*catasro diśaḥ*) (15-3-25). It was said that the thunderbolt that, according to त्वष्टा यद्वज्रं सुकृते हिरण्मयं (*tvaṣṭā yadvajraṃ sukṛte hiraṇmayaṃ*) (Ṛ. Saṃ. 1.85-9), Tvaṣṭṛ gave to Indra is itself this vessel-form. It can be said, because it is stated that this same thunderbolt became four parts:
+
+इंद्रो ह यत्र वृत्राय वज्रं प्रजहार । (*iṃdro ha yatra vṛtrāya vajraṃ prajahāra |*) स प्रहतश्चतुर्धाभवत् ॥ (*sa prahataścaturdhābhavat ‖*) (Śa. Brā. 1-2-4-1)
+
+When Indra hurled at Vṛtra the thunderbolt given by Tvaṣṭṛ, it became fourfold. The account in such sentences shows that a thing that is one in its original form became four divisions in its effected form.
+
+The Nirukta explanation also supports the purport stated above. Thus: उरु भांतीति वा ; ऋतेन भांतीति वा ; ऋतेन भवंतीति वा । (*uru bhāṃtīti vā ; ṛtena bhāṃtīti vā ; ṛtena bhavaṃtīti vā |*) The explanation of the Nirukta-author is that the name "Ṛbhus" is well known either as "those who shine abundantly", that is, "those who shine by truth", or as "those who shine by being (sattva) or power".
+
+### Printed p. 495
+Extending this very sense, he has shown also that आदित्यरश्मयोऽप्यभव उच्यंते (*ādityaraśmayo 'pyabhava ucyaṃte*): the rays of the Āditya too are called Ṛbhus.
+
+Therefore the solar principle is the basis of the distinctions "one" and "four". The orb of the Āditya in the causal state is undivided and expresses the one principle. In the effected state, when the solar principle moves through the rays and so on, it becomes the cause of the distinctions of time, place and the like. It would not be wrong to say, on the basis of the Vedic sentences cited above, that the principle of the rays that is the cause of these distinctions is the Ṛbhu-nature. There are still more Vedic sentences supporting this purport. Some of them state clearly the identity of the Ṛbhus with the rays of the Āditya. For example:
+
+उद्वत्स्वस्मा आकृणोतना तृणं निवत्स्वपः स्वपस्यया नरः । (*udvatsvasmā ākṛṇotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ |*)
+अगोह्यस्य यदसस्तना गृहे तदद्येदमृभवो नानु गच्छथ ॥ (*agohyasya yadasastanā gṛhe tadadyedamṛbhavo nānu gacchatha ‖*) (Ṛ. Saṃ. 1-161-11)
+
+The Ṛbhus in the form of the sun's rays are the leaders of rain and all such things, the nourishers of rice and other plants, those who take shelter in the dwelling-place of the Āditya, and so on. Such descriptions can indicate nothing other than the rays of the Āditya. संमील्य यद्भवना पर्यसर्पत क्व स्वित्तात्या पितरा व आसतुः (*saṃmīlya yadbhavanā paryasarpata kva svittātyā pitarā va āsatuḥ*) (1-161-12) and many other sentences support this very purport. सौधन्वना ऋभवः सूरचक्षसः (*saudhanvanā ṛbhavaḥ sūracakṣasaḥ*) (1-110-4); तरणित्वा ये पितुरस्य सश्शिर ऋभवः । (*taraṇitvā ye piturasya saśśira ṛbhavaḥ |*) (Ṛ. Saṃ. 1-110-6): such descriptions show the non-difference of the Āditya and the Ṛbhus. These very ones are the "sun-eyed"; they obtained their speed of movement from their father, the Āditya. Thus the Ṛbhus' relation to the Āditya and their solar nature are described.
+
+क्व स्विदासां कतमा पुराणी यया विधाना विदधुर्य भूणां ॥ (*kva svidāsāṃ katamā purāṇī yayā vidhānā vidadhurya bhūṇāṃ ‖*) (Ṛ. Saṃ. 4-51-6)
+
+In this and the like, the revolving of the shining Uṣas-es is shown as helping the Ṛbhus' work of making the camasa and the rest; so the relation between Uṣas and the Ṛbhus, who are of the form of the Āditya's rays, is shown.
+
+यया धिया - यया प्रज्ञया । (*yayā dhiyā - yayā prajñayā |*) "By what intelligence": thus the intelligence of the Ṛbhus is praised. Ordinarily, in such contexts the word dhī does not mean merely mental intellect but is understood as meditative insight. As the Upaniṣads and the like explain the word dhīra as one who has meditative intellect, so in the Ṛksaṃhitā too the word dhī points to meditation. For example:
+
+### Printed p. 496
+द्विता होतारां मनुषश्च वाघतो धिया रथं न कुलिशः समृण्वति ॥ (*dvitā hotārāṃ manuṣaśca vāghato dhiyā rathaṃ na kuliśaḥ samṛṇvati ‖*) (Ṛ. Saṃ. 3-2-1)
+
+In such passages the special sense of the word dhī is shown: they accomplished the praise of Agni and other deities through meditative acts. As in contexts such as चेतयध्वमिति, चितिमच्छतेति (*cetayadhvamiti, citimacchateti*) (Śa. Brā. 6-2-31) the word cetana is explained not as a mere mental state but as meditation, the same meaning must be given to the word dhī in the present case. The Upaniṣads and the like describe austerity (tapas) as the root of the works of creation and the rest. Here too, since the Ṛbhus are the doers of the work of creation, the purport is that they obtained the success of their work through insight in the form of meditation suited to that work.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य स॒ख्यमृ॒भवः॒ समा॑नशु॒र्मनो॒र्नपा॑तो अ॒पसो॑  
+> दधन्विरे ।  
+> सौ॒ध॒न्व॒नासो॑ अमृत॒त्वमेरि॑रे वि॒ष्ट्वी शमी॑भिः सु॒कृतः॑ सुकृ॒त्यया॑ ॥ ३ ॥
+
+> *iṃdrasya sakhyamṛbhavaḥ samānaśurmanornapāto apaso*  
+> *dadhanvire |*  
+> *saudhanvanāso amṛtatvamerire viṣṭvī śamībhiḥ sukṛtaḥ sukṛtyayā ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । सख्यं । ऋभवः । सम् । आनशुः । मनोः । नपातः । अपसः । दधन्व रे ।  
+> सौधन्वनासः । अमृतत्वं । आ । ईरिरे । विष्ट्वी । शमीभिः । सुकृतः । सुकृत्यया ॥३॥
+
+> *iṃdrasya | sakhyaṃ | ṛbhavaḥ | sam | ānaśuḥ | manoḥ | napātaḥ | apasaḥ | dadhanva re |*  
+> *saudhanvanāsaḥ | amṛtatvaṃ | ā | īrire | viṣṭvī | śamībhiḥ | sukṛtaḥ | sukṛtyayā ‖3‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनोर्नपातो मनुष्यस्यांगिरसः पुत्रा अपसो यागादिलक्षणकर्मवंत
+> ऋभव इंद्रस्य सख्यं समानख्यानत्वं समानशुः । सम्यक् प्राप्नुवन् । तथेंद्रस्य
+> सख्यं प्राप्तास्त ऋभवो दधन्विरे । पूर्वं मनुष्यत्वेन मरणयोग्या अपीदानीमिंद्रस्य सख्येन प्राणान्धारयंति । तथा मंत्रः । आधारयंत वह्नयः ' ऋग्वे.
+> १-२०-८। इति । सौधन्वनासः सुधन्वनामकस्यर्षेः पुत्रा ऋभवः सुकृतः शोभनकर्माणः
+> संतः प्रभूतैः कमीभिर्देवत्वपाप्तिप्रतिबंधनिवारणहेतुभिः कर्मभिः सुकृत्यया
+> शोभनेन कर्मणा च विष्ट्वी व्याप्यामृतत्वमेरिरे । देवत्वं प्रापुः । तथा च
+
+##### Gist of the bhāṣya
+
+The Ṛbhus, "grandsons of Manu" (manor napātaḥ), are the sons of the man Aṅgiras, and are apasaḥ, that is, possessed of work such as sacrifice. They fully attained (समानशुः (*samānaśuḥ*), "rightly obtained") Indra's friendship, that is, equal renown. Having attained Indra's friendship, those Ṛbhus दधन्विरे (*dadhanvire*) (dadhanvire): though formerly, being human, liable to die, they now sustain their lives through Indra's friendship. So a mantra: आधारयंत वह्नयः (*ādhārayaṃta vahnayaḥ*) (Ṛ. Saṃ. 1-20-8). The Saudhanvanas, the Ṛbhus, sons of the seer named Sudhanvan, being doers of good works, by abundant works that are the means of removing the obstacles to the attainment of godhood, and by good work, pervading (the world), attained immortality, that is, godhood. And so
+
+### Printed p. 497
+
+> मंत्रांतरमाव्नायते । मर्तासः संतो अमृतत्वमानशुः । ऋग्वे. १-११०-४ । इति॥
+> नपातः । नभ्राण्नपादित्यादिना नञ्ञः प्रकृतिभावः । दधन्विरे । धनिर्गत्यर्थः । व्यत्ययेनात्मनेपदं । लिटि रूपं । ईरिरे । ईर गत् । मंत्रत्वादाम्न भवति । निघातः ।
+> सुकृत्यया । करोतेर्भावे कृञ्ञः श चेति क्यप् । प्रत्ययस्य व्यत्ययेनांतोदात्तत्वं । समासे कृदुत्तरस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Another mantra is handed down: मर्तासः संतो अमृतत्वमानशुः (*martāsaḥ saṃto amṛtatvamānaśuḥ*) (Ṛ. Saṃ. 1-110-4). The rest of the block treats the accent and formation of napātaḥ, dadhanvire, īrire and sukṛtyayā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनोः (*manoḥ*)—of the human Aṅgiras
+- नपातः (*napātaḥ*)—sons
+- अपसः (*apasaḥ*)—performers of sacrifice and other works
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—friendship
+- समानशुः (*samānaśuḥ*)—obtained, and
+- दधन्विरे (*dadhanvire*)—also attained freedom from death
+- सौधन्वनासः (*saudhanvanāsaḥ*)—the Ṛbhus, sons of Sudhanvan
+- सुकृतः (*sukṛtaḥ*)—as excellent doers of works
+- शमीभिः (*śamībhiḥ*)—by excellent works
+- सुकृत्यया (*sukṛtyayā*)—by good conduct
+- विष्ट्वी (*viṣṭvī*)—pervading everywhere
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- एरिरे (*erire*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛbhus, sons of the human Aṅgiras and doers of sacrifice and other works, obtained the friendship of Indra. And by that help they also attained freedom from death. The Ṛbhus, sons of Sudhanvan, as excellent doers of works, pervading everywhere through excellent knowledge of duty and through their dealings, obtained freedom from death.
+
+##### English translation (H. H. Wilson)
+The Ribhus, the performers of (good) works, the grandsons of a man, have attained the friendship of Indra : they have perpetuated (existence): the sons of Sudhanvan have attained immortality : performers of pious acts influencing (the result), through their devotion (they have attained divinity) by their works
+
+##### विशेषविषयगळु (Special Topics)
+
+The present Ṛk says that the Ṛbhus, sons of Aṅgiras, obtained Indra's friendship. It is also stated that the word manoḥ is a synonym for the human Aṅgiras. If manoḥ means Aṅgiras, then, to understand the relation between the Ṛbhus of the form of the Āditya's rays, described in the preceding Ṛk, and Aṅgiras, one must know the relation between the Āditya and Aṅgiras. Then, knowing the relation between Aṅgiras and Indra, one can understand the purport of the Ṛbhus' having cultivated the friendship of Indra, who has such a close relation.
+
+### Printed p. 498
+The very form of the Āditya whom the Chāndogya and other texts praise as the udgītha is also Aṅgiras. How is this?
+
+अथाधिदैवतं य एवासौ तपति तमद्गीथमुपासीतोद्यन्वा एष प्रजाभ्य उद्दायति । उद्यन्‌स्तमो भयमपहन्त्यपहंता ह वै भयस्य तमसो भवति य एवं वेद ॥ (*athādhidaivataṃ ya evāsau tapati tamadgīthamupāsītodyanvā eṣa prajābhya uddāyati | udyanstamo bhayamapahantyapahaṃtā ha vai bhayasya tamaso bhavati ya evaṃ veda ‖*) (Bhā. U. 1-3-1)**NOTE**
+
+One should worship the luminous Āditya himself as the udgītha. As soon as he rises he sings for the creatures in a manner that gives them joy. He destroys darkness and fear. Therefore this Āditya is the essence of the life of living beings and the giver of their contentment. Because he is thus the essence of life, the udgītha in the form of the Āditya is itself called Aṅgiras. How?
+
+तं हांगिरा उद्दीथमुपासां चक्र एतमु एवांगिरसं मन्यंतेऽंगानां यद्रसः ॥ (*taṃ hāṃgirā uddīthamupāsāṃ cakra etamu evāṃgirasaṃ manyaṃte 'ṃgānāṃ yadrasaḥ ‖*) (Bhā. U. 1-2-10)**NOTE**
+
+The Aṅgirases worshipped the udgītha. If one asks the reason for their worshipping, it is that they themselves are of the nature of the udgītha. How? The udgītha is the essence (rasa) of the limbs. Therefore udgītha means Aṅgiras. The rays of the Āditya give essence to the limbs of living beings. Therefore the udgītha is of the nature of the Āditya and of the nature of Aṅgiras; so by this explanation non-difference between the Āditya and Aṅgiras has been stated. Then what is the relation between such an Aṅgiras and Indra? It was explained earlier, in the Special Topics on Ṛ. Saṃ. 1-100-4, how the epithet अंगिरोभिः अंगिरस्तमः (*aṃgirobhiḥ aṃgirastamaḥ*) shows Indra's Aṅgiras-nature. The meaning of the statement that Indra in the form of Aṅgiras caused the cows to be released is that Indra in the form of the Āditya split the mountain of the form of darkness and freed the cows of the form of rays.
+
+अगच्छदु विप्रतमः सखीयन्नसूदयत्सु कृते गर्भमद्रिः । (*agacchadu vipratamaḥ sakhīyannasūdayatsu kṛte garbhamadriḥ |*)
+ससान मर्यो युवभिर्मखस्यन्नथाभवदंगिराः सद्यो अर्चन् ॥ (*sasāna maryo yuvabhirmakhasyannathābhavadaṃgirāḥ sadyo arcan ‖*) (Ṛ. Saṃ. 3-31-7)
+
+In Ṛks of this kind this point is stated clearly.
+
+शमीभिः (*śamībhiḥ*)—This word is read among the names of works (Ni. 3-1). It means the various kinds of skilled works and sacrificial works described earlier.
+
+विष्ट्वे (*viṣṭve*)—This word too is read among the names of works (Ni. 3-1). Sāyaṇa, explaining this word elsewhere, has said as follows. There too the two, viṣṭvī, śamī,
+
 ---
 
-**Progress note:** Done through printed p. 491. pp. 486-491 (batch API)
+**Progress note:** Done through printed p. 498. pp. 492-498 (batch API)
