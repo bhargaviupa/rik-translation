@@ -11055,6 +11055,193 @@ That is: "Enter the sacrificial house, in the form of the third pressing, of Sav
 
 By their austerity and their intense desire the Ṛbhus won a share of the Soma-drinking among the gods. At first, when they wished to have it at the morning pressing, Agni, together with the Vasus, rejected them and drove them away. Then, when they wished to get it at the midday pressing, Indra, together with the Rudras, drove them away. Again, when they wished to get it at the third pressing, the Viśvedevas rejected them there too with harsh words: "You are certainly not fit to drink Soma here; you must not do so." Then Prajāpati said to Savitṛ, "These Ṛbhus are your pupils. Drink Soma together with them." Thereupon Savitṛ agreed.
 
+### Printed p. 297
+
+Sāyaṇa has stated briefly the situation that the Aitareya Brāhmaṇa describes at length: Prajāpati too drank the soma-juice right beside them. Some examples can be given of the Ṛbhus' artistic skill. The praise of their skill says that the camasa-vessel, which was a single one when it was fashioned by Tvaṣṭṛ, was made by you into four vessels. This is as said in the Ṛk उत त्यं चमसं नवं त्वष्टुर्देवस्य निष्कृतं । अकर्त चतुरः पुनः ॥ (*uta tyaṃ camasaṃ navaṃ tvaṣṭurdevasya niṣkṛtaṃ | akarta caturaḥ punaḥ ‖*) (Ṛ. Saṃ. 1-20-6), and the same account is given further on in Ṛks such as ज्येष्ठ आह चमसा द्वा करेति कनीयान्त्रींकृणवामेत्याह । कनिष्ठ आह चतुरस्करेति त्वष्ट ऋभवस्तत्पनयद्वचो वः ॥ (*jyeṣṭha āha camasā dvā kareti kanīyāntrīṃkṛṇavāmetyāha | kaniṣṭha āha caturaskareti tvaṣṭa ṛbhavastatpanayadvaco vaḥ ‖*) (Ṛ. Saṃ. 4-33-5). That they made a single vessel into four by their skill is well known. In this feat also, that this power came to them through the instruction of Tvaṣṭṛ, and that they were Tvaṣṭṛ's pupils, is stated in the Bṛhaddevatā:
+
+सुधन्वन अंगिरसस्यासन्नुत्राश्रयः पुरा । ऋभुर्विभ्वा च वाजश्च शिष्यास्त्वष्टुश्च तेऽभवन् ॥ शिक्षयामास तांस्वष्टा त्वाष्ट्रं यत्कर्म किंचन । परिनिष्ठितकर्माणो विश्वेदेवा उपाह्वयन् ॥ विश्वेषां ते ततश्च कुर्वाहनान्यायुधानि तु । धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते ॥ बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवंधुरं । इंद्राय च हरी देवप्रहीतेनाग्निनापि यत् ॥ एकं चमसमित्युक्ते ज्येष्ठ आहेत्यथो दिवि । उक्त्वा ततक्षुश्च मसन् यथोक्तं तेन हर्षिताः ॥ त्वष्टा च सविता चैव देवदेवः प्रजापतिः । सर्वान्देवान् समामंत्र अमृतत्वं वदुश्च ते । तेषामाद्यांत्ययोर्नाम्ना दृश्यते बहुवत् स्तवः । तृतीयसवने तेषां तैस्तु भागः प्रकल्पितः ॥ अपिबत्तोममिंद्रश्च तैस्तत्र सवने सह ॥ (*sudhanvana aṃgirasasyāsannutrāśrayaḥ purā | ṛbhurvibhvā ca vājaśca śiṣyāstvaṣṭuśca te 'bhavan ‖ śikṣayāmāsa tāṃsvaṣṭā tvāṣṭraṃ yatkarma kiṃcana | pariniṣṭhitakarmāṇo viśvedevā upāhvayan ‖ viśveṣāṃ te tataśca kurvāhanānyāyudhāni tu | dhenuṃ sabardughāṃ cakruramṛtaṃ sabarucyate ‖ bṛhaspaterathāśvibhyāṃ rathaṃ divyaṃ trivaṃdhuraṃ | iṃdrāya ca harī devaprahītenāgnināpi yat ‖ ekaṃ camasamityukte jyeṣṭha āhetyatho divi | uktvā tatakṣuśca masan yathoktaṃ tena harṣitāḥ ‖ tvaṣṭā ca savitā caiva devadevaḥ prajāpatiḥ | sarvāndevān samāmaṃtra amṛtatvaṃ vaduśca te | teṣāmādyāṃtyayornāmnā dṛśyate bahuvat stavaḥ | tṛtīyasavane teṣāṃ taistu bhāgaḥ prakalpitaḥ ‖ apibattomamiṃdraśca taistatra savane saha ‖*) (Bṛ. De. 3-83 to 89)
+
+### Printed p. 298
+
+Formerly the three sons of Sudhanvan, Ṛbhu, Vibhvan and Vāja, became pupils of Tvaṣṭṛ. Tvaṣṭṛ, skilled in all the arts, taught them too all the arts. Then the Viśvedevas, expert in the arts, confronted them in a spirit of rivalry. Thereupon the Ṛbhus made weapons and vehicles for all the gods. After that they created the cow that gives immortality. For Bṛhaspati and the Aśvins they made chariots with three seats, for Indra horses, and for Agni, who had been sent by the gods as messenger, what had been asked, that is:
+
+किमु श्रेष्ठः किं यविष्टो न आजगन्किमायते दूत्यं १ कद्यदूचिम । स निंदिम चमसं यो महाकुलोऽग्ने भ्रातर्द्रुण इद्भूतिमूदिम ॥ एकं चमसं चतुरः कृणोतन तद्द्यो देवा अब्रुवन्तद्व आगमं । सौधन्वना यद्येवा करिष्यथ साकं देवैर्यज्ञियासो भविष्यथ ॥ अग्निं दूतं प्रति यदब्रवीतनाश्वः कर्त्वो रथ उतेह कर्त्वः । धेनुः कर्त्वा युवशा कर्त्वा द्वा तानि भ्रातरनु वः कृत्वेमसि ॥ (*kimu śreṣṭhaḥ kiṃ yaviṣṭo na ājagankimāyate dūtyaṃ 1 kadyadūcima | sa niṃdima camasaṃ yo mahākulo 'gne bhrātardruṇa idbhūtimūdima ‖ ekaṃ camasaṃ caturaḥ kṛṇotana taddyo devā abruvantadva āgamaṃ | saudhanvanā yadyevā kariṣyatha sākaṃ devairyajñiyāso bhaviṣyatha ‖ agniṃ dūtaṃ prati yadabravītanāśvaḥ kartvo ratha uteha kartvaḥ | dhenuḥ kartvā yuvaśā kartvā dvā tāni bhrātaranu vaḥ kṛtvemasi ‖*) (Ṛ. Saṃ. 1-161-1 to 3)
+
+As described in these Ṛks, Agni went as the gods' messenger to the sons of Sudhanvan. He said that if they would help the gods by making the single camasa-vessel into four, they would then gain, along with the gods, the right to drink the soma-juice. They replied: this is not the only task of which we are capable; making horses, making chariots, making a cow, making our aged parents young again, all these are possible for us; and just so now too we shall do for you all that you desire; and they did it. Since this matter is indicated here, they helped Agni by such skilful work. Then Tvaṣṭṛ, Savitṛ and Prajāpati, the god of gods, called all the gods together and granted that the Ṛbhus should obtain immortality. Then Indra also (who had earlier rejected them) drank the soma-juice with them. This story is told in the Bṛhaddevatā.
+
+The story told in Sāyaṇa's bhāṣya is as follows: पुरा कस्यचिदृषेर्धेनुर्मृता । स ऋषिस्तस्या धेनोर्वत्सं दृष्ट्वा ऋभुं तुष्टाव । ऋभवस्तत्सदृशीमन्यां धेनुं कृत्वा तदीयेन चर्मणा संवीय तेन वत्सेन समयोजयन्निति । (*purā kasyacidṛṣerdhenurmṛtā | sa ṛṣistasyā dhenorvatsaṃ dṛṣṭvā ṛbhuṃ tuṣṭāva | ṛbhavastatsadṛśīmanyāṃ dhenuṃ kṛtvā tadīyena carmaṇā saṃvīya tena vatsena samayojayanniti |*). Formerly the cow of a certain ṛṣi died. Out of pity for its small calf he prayed to the Ṛbhus to help it. Then the Ṛbhus created another cow, covered it with the hide of the dead cow, and joined it to that calf. This is their greatness. According to the explanation of Skandasvāmin,
+
+### Printed p. 299
+
+अत्रेतिहासमाचक्षते । ऋषेः कस्यचिदग्निहोत्रधेनुस्तरुणवत्सा ममार । तस्यां विकर्तितायां आरुदता वत्सेन उद्वेजितः ऋभून् स्वपितरौ वृद्धौ पुनर्युवान् कौर्वतो ददर्श । तानुवाच । मामप्यग्निहोत्रधेनुं मृतां पुनर्जीवयतेति । तस्य स्वमाहात्म्येन तस्माच्चर्मणः तामेव गां अशेषावयवोपेतां चक्रुः इति । तदेतदिहोच्यते निश्चर्मण इति । (*atretihāsamācakṣate | ṛṣeḥ kasyacidagnihotradhenustaruṇavatsā mamāra | tasyāṃ vikartitāyāṃ ārudatā vatsena udvejitaḥ ṛbhūn svapitarau vṛddhau punaryuvān kaurvato dadarśa | tānuvāca | māmapyagnihotradhenuṃ mṛtāṃ punarjīvayateti | tasya svamāhātmyena tasmāccarmaṇaḥ tāmeva gāṃ aśeṣāvayavopetāṃ cakruḥ iti | tadetadihocyate niścarmaṇa iti |*). The agnihotra cow of a certain ṛṣi died, leaving a young calf. When it was being cut up, the ṛṣi, hearing the piteous cry of the young calf, remembered the Ṛbhus out of compassion. They used to make their aged parents adults again. Seeing that power of theirs, he asked that his dead agnihotra cow also be brought to life. They made that dead cow, with that very hide that had been cut off as its covering, one possessed of all its limbs, and brought it to life. So it is said. The chief difference between what Sāyaṇa says and this is that he has अन्यां धेनुं कृत्वा (*anyāṃ dhenuṃ kṛtvā*), whereas Skandasvāmin says तामेव गां अशेषावयवोपेतां चक्रुः (*tāmeva gāṃ aśeṣāvayavopetāṃ cakruḥ*).
+
+The word ṛbhu is probably derived from the root rabh ("to grasp"); compare 2-3-8. Hence the word means "serving at the right moment", "skilful-handed". This word ṛbhu is used many times, in this sense, as an epithet of Indra, Agni and the Ādityas. The word vāja means "capable", and vibhvan means "famous". The words ṛbhu and the rest are therefore names that fit their meaning and also indicate their skill. It is clear that they were not gods at first, but what their nature was before they became gods is not clear. Even when they are called Saudhanvas, it is not known who they are. The word sudhanvan is used in the Ṛgveda only twice, applied to Rudra and the Maruts. As is said in many places, Heaven and Earth may have been their parents. Because they lived in the house of Savitṛ, who cannot be hidden, it may have been said that they have the power to make the earth fertile. Many scholars hold that the three are presiding spirits of three seasons; that their sleeping for twelve days applies to the seasons not moving for twelve days at the time of the Makara-saṅkrānti; that the bowl is the moon; and that its becoming four means the four phases of the moon. On the whole it may be said that they are non-ordinary beings belonging to earth or the atmosphere, and that their skill caused many stories of daring deeds to be told about them. But if the Ṛgveda alone is taken as the basis, there is no room for any settled opinion.
+
+### Printed p. 300
+
+> चतुर्थेऽनुवाके त्रयोदश सूक्तानि । तत्र प्र ऋभुभ्य इत्येकादशर्चं
+> प्रथमं सूक्तं वामदेवस्यार्षं त्रैष्टुभं । तुह्यादिपरिभाषयेदमादिसूक्तपंचकमृभुदेवताकं । अत्रानुक्रमणिका । प्र ऋभुभ्य एकादशार्भवं वा इति ॥ व्यूढे
+> दशरात्रे चतुर्थेऽहनि वैश्वदेवशस्त्र आर्भवनिविद्धानीयमिदं । तथा च सूत्रितं । प्र
+> ऋभुभ्य प्र शुक्रैत्विति वैश्वदेवं । आ. ८-८ । इति ॥
+
+> *caturthe 'nuvāke trayodaśa sūktāni | tatra pra ṛbhubhya ityekādaśarcaṃ*
+> *prathamaṃ sūktaṃ vāmadevasyārṣaṃ traiṣṭubhaṃ | tuhyādiparibhāṣayedamādisūktapaṃcakamṛbhudevatākaṃ | atrānukramaṇikā | pra ṛbhubhya ekādaśārbhavaṃ vā iti ‖ vyūḍhe*
+> *daśarātre caturthe 'hani vaiśvadevaśastra ārbhavanividdhānīyamidaṃ | tathā ca sūtritaṃ | pra*
+> *ṛbhubhya pra śukraitviti vaiśvadevaṃ | ā. 8-8 | iti ‖*
+
+##### Gist of the bhāṣya
+
+In the fourth anuvāka there are thirteen sūktas. Of these the first, beginning प्र ऋभुभ्यः (*pra ṛbhubhyaḥ*), has eleven Ṛks; its seer is Vāmadeva and its metre Triṣṭubh. By the rule beginning तुह्यादि (*tuhyādi*) the first five sūktas, this one and those after it, have the Ṛbhus as deity. The Anukramaṇikā says here: प्र ऋभुभ्य एकादशार्भवं वा इति (*pra ṛbhubhya ekādaśārbhavaṃ vā iti*). In the Vyūḍha Daśarātra, on the fourth day, in the Vaiśvadeva śastra, this sūkta is the one into which the Ārbhava nivid is inserted. So it is laid down in the sūtra प्र ऋभुभ्य प्र शुक्रैत्विति वैश्वदेवं (*pra ṛbhubhya pra śukraitviti vaiśvadevaṃ*) (Ā. 8-8).
+
+##### Anuvāda (English)
+
+In the fourth anuvāka of the fourth maṇḍala there are thirteen sūktas. Of them this sūkta, beginning "Pra ṛbhubhyaḥ", is the first. It has eleven Ṛks. Vāmadeva is its ṛṣi; from this sūkta onward, five sūktas have the Ṛbhus as deity. In the Anukramaṇikā it is said: "Pra ṛbhubhya ekādaśārbhavaṃ nā". The metre is Triṣṭubh. In the sacrifice called Vyūḍha, which is performed over ten days, when the Vaiśvadeva-śastra mantras are recited on the fourth day, this sūkta is to be recited as the sūkta for the Ārbhava nivid; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, "Pra ṛbhubhyaḥ pra śukrai tv iti vaiśvadevam" (Ā. 8-8).
+
+##### Particulars
+
+Sūkta 33. Maṇḍala 4; Anuvāka 4; Sūkta 33. Aṣṭaka 3; Adhyāya 7; Vargas 1, 2. Number of Ṛks in the sūkta: 11. Ṛṣi: Vāmadeva. Deity: the Ṛbhus. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ऋ॒भुभ्यो॑ दू॒तमि॑व॒ वाच॑मिष्य उप॒स्थिरे॒ श्वैत॑रीं धे॒नुमी॑ळे ।  
+> ये वात॑जूतास्त॒रणि॑भि॒रेवैः॒ परि॒ द्यां स॒द्यो अ॒पसो॑  ॒
+> बभूवुः ॥ १ ॥
+
+> *pra ṛbhubhyo dūtamiva vācamiṣya upasthire śvaitarīṃ dhenumīḷe |*  
+> *ye vātajūtāstaraṇibhirevaiḥ pari dyāṃ sadyo apaso*  
+> *babhūvuḥ ‖ 1 ‖*
+
+### Printed p. 301
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यभुभ्यः । दूतंइव । वाचं । इष्ये । उसस्तिरे । श्वैतरीं । धेनुं ।  
+> ईळे ।  
+> ये । वात्सजूताः । तरणिभिः । एवैः । परि । द्यां । सद्यः । अपसः । बभूवु॥१॥
+
+> *pra | yabhubhyaḥ | dūtaṃiva | vācaṃ | iṣye | usastire | śvaitarīṃ | dhenuṃ |*  
+> *īḷe |*  
+> *ye | vātsajūtāḥ | taraṇibhiḥ | evaiḥ | pari | dyāṃ | sadyaḥ | apasaḥ | babhūvu‖1‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र ऋभूणां पूर्वं मनुष्याणामेव सतां तपसा देवत्वप्राप्तिरार्भवं
+> शंसत्यृभवो वै देवेभ्यः । ऐ. ब्रां. ३-३० । इत्यत्र ब्राह्मणे स्पष्टमाम्माता । केचन
+> ऋभवो नाम सूर्यरश्मय इत्याचक्षते । अहं यजमान ऋभुभ्य उरुभासमानेभ्य एतन्नामकेभ्यो देवेभ्यो वाचं स्तुतिरूपां प्रेष्ये । प्रेरयामि । किमिव ।
+> दूतनिव । यथा दूतं स्वकार्यं प्रति प्रेषयंति तद्वत् । किंच उपस्थिरे सोमोपस्तरणाय श्वैतरीं पयोयुक्तां श्वेततरां ना धेनुमिळे । याचाम्यभून् ।
+> य ऋभवो वातजूता वातसमानगतयोऽषसो जगदुपकारिकर्माणः संतस्मरणिभिस्तारकैरेवैर्गमनशीलैरश्वैर्द्यामंतरिक्षं सद्यस्तदानीमेव परि बभूवुः ।
+> परिभवंति । सर्वतो व्याप्पुवंति । अथ रश्मय एव ऋभव इत्युक्तवादादित्यं वा
+> रश्मयः परितो व्याप्पुवंति ॥
+
+##### Gist of the bhāṣya
+
+That the Ṛbhus, formerly only men, attained divinity by austerity is stated plainly in the Brāhmaṇa passage *ṛbhavo vai devebhyaḥ* (Ai. Brā. 3-30), where the Ārbhava is recited. Some say that the Ṛbhus are rays of the sun. "I, the sacrificer, send speech in the form of praise to the Ṛbhus, the widely shining gods of this name." "Like a messenger": as one sends a messenger to one's own business. Further, "for the strewing of the soma I ask the Ṛbhus for a very white cow, one yielding milk." "Those Ṛbhus, moving like the wind, doers of works that benefit the world, with their saving, swift-going horses at once, at that very moment, pervade heaven, the atmosphere on every side." Or else: since it has been said that the rays are the Ṛbhus, the rays pervade the sun on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुभ्यः (*ṛbhubhyaḥ*)—addressing the shining Ṛbhus
+- दूतमिव (*dūtamiva*)—as one sends a messenger
+- वाचं (*vācaṃ*)—speech in the form of praise
+- प्र इष्ये (*pra iṣye*)—I offer and send
+- उपस्थिरे (*upasthire*)—for the mixing of the soma
+- श्वैतरीं (*śvaitarīṃ*)—provided with milk
+- धेनुं (*dhenuṃ*)—the cow
+- ईळे (*īḷe*)—I beg
+- ये (*ye*)—those very Ṛbhus who
+- वातजूताः (*vātajūtāḥ*)—having a motion like the wind
+- अपसः (*apasaḥ*)—having works that benefit the world
+- तरणिभिः (*taraṇibhiḥ*)—protecting
+- एवैः (*evaiḥ*)—and swift-going horses
+- द्यां (*dyāṃ*)—the atmosphere
+- सद्यः (*sadyaḥ*)—at once
+- परि बभूवुः (*pari babhūvuḥ*)—pervade everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+As one sends a messenger, I, the sacrificer, offer and send speech in the form of praise to the shining Ṛbhus. For the mixing of the soma I beg for a cow provided with milk. Those same Ṛbhus, having a motion like the wind and works that benefit the world, with horses that protect and are swift-going, at once pervade the atmosphere everywhere.
+
+### Printed p. 302
+
+##### English translation (H. H. Wilson)
+I send my prayer as a messenger to the Ribhus; I solicit (of them) the milch cow, the yielder of the white milk, for the dilution (of the Soma libation); for they, as swift as the wind, the doers of good works, were borne quickly across the firmament by rapid steeds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दार॒मक्र॑न्नृ॒भवः॑ पि॒तृभ्यां॒ षरि॑विष्टी वे॒षणा॑ दं॒सना॑भिः ।  
+> आदिद्दे॒वाना॒मुप॑ स॒ख्यमा॑य॒न्थीरा॑सः पु॒ष्टिम॑वहन्म॒नाय्कॆ ॥॑
+
+> *yadāramakrannṛbhavaḥ pitṛbhyāṃ ṣariviṣṭī veṣaṇā daṃsanābhiḥ |*  
+> *ādiddevānāmupa sakhyamāyanthīrāsaḥ puṣṭimavahanmanāykè ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । अरं । अक्रन् । ऋभवः । पितृभ्यां । परिविष्टी । वेषणा । दंसनाभिः ।  
+> आत् । इत् । देवानां । उप । सख्यं । आयन् । धीरासः । पुष्टिं । अवहन् ।  
+> मनाय्कॆ ॥ २ ॥
+
+> *yadā | araṃ | akran | ṛbhavaḥ | pitṛbhyāṃ | pariviṣṭī | veṣaṇā | daṃsanābhiḥ |*  
+> *āt | it | devānāṃ | upa | sakhyaṃ | āyan | dhīrāsaḥ | puṣṭiṃ | avahan |*  
+> *manāykè ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदा यस्मिन्काल ऋभवः पितृभ्यां मातापितृभ्यां परिविष्टी परिवेषणेन
+> परिचर्यया वेषणा वेषणेन व्याप्ता । यद्वा । वेषेण जरद्रूपयोर्युत्वकरणेन दंसनाभिरन्यैश्चमसनिर्माणादिकर्मभिररमत्यर्थमक्रन् आदिदनंतरमेव
+> देवानामिंद्रादीनां सख्यं सखित्वं समानख्यानत्वं देवतात्वमुपायन् । आगमन् ।
+> युवशा कर्त्वा । ऋग्वे. १-१६१-३ । इति देवत्वप्राप्तेरेकांतत्वेन देवैरुक्तत्पादिति
+> भावः । किंच धीरासो धीरा बुद्धिमंतस्तेषां पुष्टिं गवादिविषयां मनाय्कॆ
+> मतिकृते यजमानायावहन् । वहंति । धारयंति । यद्वा । सविषयां पुष्टिं
+> मनाय्कॆ मनसे प्रकृष्टमनस्कत्वायावहन् ॥
+
+##### Gist of the bhāṣya
+
+"When", at what time, the Ṛbhus, serving their parents, the father and mother, by waiting upon them (pariviṣṭī), and pervaded (vyāptā) by veṣaṇā, did enough (ara), that is, accomplished abundantly: or else, by veṣaṇa, making the two aged ones young, and by other deeds such as the making of the camasa, "then" immediately after, they attained the friendship of the gods, Indra and the rest, equality of fame, godhood. The intent is that, since attainment of godhood was certain, it was said by the gods युवशा कर्त्वा (*yuvaśā kartvā*) (Ṛg. 1-161-3). Further, the wise (dhīrāsaḥ), the intelligent, bring (vahanti, bear) nourishment for them, consisting of cattle and the like, for the sacrificer, "for the mind" (manāyai), that is, for his understanding. Or else they bring nourishment together with its objects for the mind, for excellence of mind.
+
+### Printed p. 303
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- पितृभ्यां (*pitṛbhyāṃ*)—to their parents
+- वेषणा (*veṣaṇā*)—by bringing about powerful youth
+- दंसनाभिः (*daṃsanābhiḥ*)—and by other supernatural works
+- परिविष्टि (*pariviṣṭi*)—attending on them
+- आरं अक्रन् (*āraṃ akran*)—attained success
+- आदित् (*ādit*)—immediately after that
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- सख्यं (*sakhyaṃ*)—friendship
+- उप आयन् (*upa āyan*)—obtained
+- धीरासः (*dhīrāsaḥ*)—these wise ones
+- पुष्टिं (*puṣṭiṃ*)—the nourishment of wealth, consisting of cattle and the like
+- मनाय्कॆ (*manāykè*)—to the sacrificer, the praiser
+- अवहन् (*avahan*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+When the Ṛbhus, attending on their parents by their extraordinary works and by the attainment of a pervasive, powerful youth, attained success, immediately thereafter they obtained the friendship of the gods, Indra and the rest. These wise ones bring and provide to the sacrificer, the praiser, the nourishment of wealth, consisting of cattle and the like.
+
+##### English translation (H. H. Wilson)
+When the Ribhus, by honouring their parents with renovated (youth), and by other works, had achieved enough, they thereupon proceeded to the society of the gods, and considerate, they bring nourishment to the devout (worshipper).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॒र्ये च॒क्रुः पि॒तरा॒ युवा॑ना॒ सना॒ यूपे॑व जर॒णा  ॑
+> शयाना ।  
+> ते वाजो॒ विभ्वा॑ ऋ॒भुरिंद्र॑वंतो॒ मधु॑प्सरसो नोऽवंतु  ॒
+> यज्ञं ॥ ३ ॥
+
+> *punarye cakruḥ pitarā yuvānā sanā yūpeva jaraṇā*  
+> *śayānā |*  
+> *te vājo vibhvā ṛbhuriṃdravaṃto madhupsaraso no 'vaṃtu*  
+> *yajñaṃ ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 296. pp. 290-296 (batch API)
+**Progress note:** Done through printed p. 303. pp. 297-303 (batch API)
