@@ -24624,6 +24624,255 @@ Invoker (of the gods), youngest (of the deities) ; possessed of excellent wisdom
 > *svapnajastaraṇayaḥ suśevā ataṃdrāso 'vṛkā aśramiṣṭhāḥ |*  
 > *te pāyavaḥ sadhyaṃco niṣadyāgne tava naḥ sāṃtvamūra ‖12‖*
 
+### Printed p. 780
+#### Ṛk 12
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्वप्नजः । शरणयः । सुशेवाः । अतंद्रासः । अवृकाः । अश्रमिष्ठाः ।  
+> ते । पायवः । सध्यंचः । निसद्य । अग्ने । तव । नः । पांतु । अमूर ॥ १२ ॥
+
+> *asvapnajaḥ | śaraṇayaḥ | suśevāḥ | ataṃdrāsaḥ | avṛkāḥ | aśramiṣṭhāḥ |*  
+> *te | pāyavaḥ | sadhyaṃcaḥ | nisadya | agne | tava | naḥ | pāṃtu | amūra ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमूर अमूढ सर्वज्ञ । यद्वा । अमूर अप्रतिहतगते हे अग्ने अस्वप्नजोऽस्वपंतः । जागरूका इति यावत् । तरणयः सततगमनस्वभावा आपद्भ्यस्तारका
+> ना सुशेवाः सुसुखा अतंद्रासोऽतंद्रा अनलसाः सर्वदोद्युक्ता अवृका अहिंसका
+> अश्रमिष्ठा अश्रांततमाः सध्रंचः परस्परं संगताः पायवो रक्षकास्ते तादृशास्तव
+> रश्मयो निषद्यास्मद्यज्ञॆ निषण्णा भूत्वा नोऽस्मान्पांतु। रक्षंतु ॥ अस्वप्नजः । स्वपितृषोर्नजिज् प्रत्ययः । मध्येवग्रहश्चांदसः । सध्रंचः । सहपूर्णादंचतेः क्विप् ।
+> सहस्य सध्रिरिति सहस्य सध्रादेशः । सध्रादेशस्यांतोदात्तत्वनिपातनाद्यणादेश
+> उदात्तस्वरितयोरिति स्वरितत्वं । अमूर । मुह वैचित्ये । निष्ठायां ढकारस्य रेफश्चांदसः । यद्वा । मूज् बंधने । औणादिको रक् ॥
+
+##### Gist of the bhāṣya
+
+"Amūra" means unconfused, all-knowing; or else, O Agni, of unobstructed course. Sāyaṇa glosses the epithets of the rays as follows. अस्वप्नजः (*asvapnajaḥ*): not sleeping, that is, watchful. तरणयः (*taraṇayaḥ*): of constantly moving nature, rescuers from calamities. सुशेवाः (*suśevāḥ*): very pleasant. अतंद्रासः (*ataṃdrāsaḥ*): without drowsiness, not idle, always active. अवृकाः (*avṛkāḥ*): not harming. अश्रमिष्ठाः (*aśramiṣṭhāḥ*): most untiring. सध्रंचः (*sadhraṃcaḥ*): united with one another. पायवः (*pāyavaḥ*): protectors. Such rays of yours, having settled down at our sacrifice, are to protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमूर (*amūra*)—all-knowing
+- अग्ने (*agne*)—O Agni
+- अस्वप्नजः (*asvapnajaḥ*)—watchful
+- तरणयः (*taraṇayaḥ*)—of constant movement
+- सुशेवाः (*suśevāḥ*)—bestowing comfort
+- आतंद्रासः (*ātaṃdrāsaḥ*)—without idleness
+- अवृकाः (*avṛkāḥ*)—free from violence
+- अश्रमिष्ठाः (*aśramiṣṭhāḥ*)—free from weariness
+- सध्र्यंचः (*sadhryaṃcaḥ*)—united with one another
+- पायवः (*pāyavaḥ*)—protecting
+- ते तव (*te tava*)—those rays of yours
+- निषद्य (*niṣadya*)—having occupied this place of our sacrifice
+- नः (*naḥ*)—us
+- पांतु (*pāṃtu*)—let them protect
+
+##### भावार्थ (Bhāvārtha)
+
+O all-knowing Agni, may those well-known rays of yours, which are watchful, of constant movement, bestowers of comfort, free from idleness, free from violence, free from weariness and united with one another, occupy this place of our sacrifice and protect us.
+
+##### English translation (H. H. Wilson)
+All-wise Agni, may your protecting (rays), unslumbering, alert, propitious, unslothful, benignant, unwearied co-operating, having taken their place (at this sacrifice), preserve us.
+
+### Printed p. 781
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये पायवो मामतेयं ते अग्ने पश्यंतो अंधं  
+> दुरितादरक्षन् ।  
+> र॒रक्ष॒ तान्‌त्सु॒कृतो॑ वि॒श्ववे॑दा॒ दिप्सं॑त॒ इद्रि॒पवो॒ नाह॑ देभुः॥
+
+> *ye pāyavo māmateyaṃ te agne paśyaṃto aṃdhaṃ*  
+> *duritādarakṣan |*  
+> *rarakṣa tāntsukṛto viśvavedā dipsaṃta idripavo nāha debhuḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । पायवः । मामतेयं । ते । अग्ने । पश्यंतः । अंधं । दुःइतात् । अरक्षन् ।  
+> ररक्ष । तान् । सुकृतः । विश्ववेदाः । दिप्संतः । इत् । रिपवः । न । अह । देभुः॥१३॥
+
+> *ye | pāyavaḥ | māmateyaṃ | te | agne | paśyaṃtaḥ | aṃdhaṃ | duḥitāt | arakṣan |*  
+> *rarakṣa | tān | sukṛtaḥ | viśvavedāḥ | dipsaṃtaḥ | it | ripavaḥ | na | aha | debhuḥ‖13‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेयमैतिहासिकी कथा । उचथ्यस्य गर्भिणीं ममतानामधेयां भार्यां
+> तदनुजो बृहस्पतिरचकमत । तस्यां रेत अधित्सुं तु बृहस्पतिं गर्भस्थं रेतोऽब्रवीत् । रेतोऽत्र मा सैक्षीरहमत्र वसामिति। एवमुक्तो बृहस्पतिर्निरुद्धरेतस्कः
+> सन् रेतोरूपं गर्भं शशाप । जात्यंधत्वरूपं दीर्घं तमः प्राप्नुहीति । ततस्तस्यां दीर्घतमा अजनिष्ठ । स चांध्यपरिहारायाग्निं स्तुत्वा चक्षुरलभतेति। तदिदानीमाह । हे अग्ने पायवो रक्षकाः पश्यंतोऽंधोऽयमिति कृषादृष्टा पश्यंतस्ते
+> तव ये रश्मयो मामतेयं ममतायाः पुत्रमंधं चक्षुर्हिनं दीर्घतमसं
+> दुरितादांध्यलक्षणाच्छापादरक्षणन् चक्षुष्पदानेनापालयन् । विश्वदेवा विश्वप्रज्ञो
+> भवान् सुकृतः शोभनं चक्षुष्पदानादिकर्म कृतवतस्तान्रस्मिन्नरक्ष । आदरेण
+> परिगृह्य पालयति । तेषां परिग्रहसिद्धिरभिधीयते । दिप्पंत इत् दंभितुं परिभवितुमिच्छंत एव रिपवः शत्रव एनं दीर्घतमसं नाह देभुः । नैव परिभवंति खलु ॥
+> मामतेयं । ममताया अपत्यमित्यर्थॆ स्त्रीभ्यो ढक् । दिप्पंतः । दन्नु दंभे ।
+> सनीवंतर्धेत्यादिना इडभावः । दंभ इच्चीतीकारः । देभुः । श्रंथिग्रंथिदंभिष्टंजीनामपसंख्यानमिति लिटः कित्वादुपधालोपः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa first gives the traditional story. Bṛhaspati, the younger brother of Ucathya, desired Ucathya's pregnant wife, named Mamatā. When he wished to deposit his seed in her, the child in the womb told him: "Do not pour seed here; I dwell here." Thus addressed, Bṛhaspati, his seed obstructed, cursed the embryo: "Obtain long darkness in the form of congenital blindness." Then Dīrghatamas was born of her, and to remove his blindness he praised Agni and obtained sight. This is what the verse now says. O Agni, those protectors, your rays, looking on him with the thought "this one is blind," protected Māmateya, the son of Mamatā, blind, that is, Dīrghatamas, from misfortune, that is, from the curse of blindness, by giving him eyes. You, all-knowing, protected those rays that had done good deeds such as the giving of sight, taking them to yourself with regard. The accomplishment of their being so taken is now stated: the enemies, even while wishing to injure and overcome this Dīrghatamas, did not overcome him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पायवः (*pāyavaḥ*)—protecting
+- पश्यंतः (*paśyaṃtaḥ*)—looking with a gracious eye
+- ते (*te*)—your
+- ये (*ye*)—those very rays which
+- मामतेयु (*māmateyu*)—the son of Mamatā
+
+### Printed p. 782
+- अंधं (*aṃdhaṃ*)—blind Dīrghatamas
+- दुरितात् (*duritāt*)—from the sin in the form of a curse
+- अरक्षन् (*arakṣan*)—protected
+- विश्ववेदाः (*viśvavedāḥ*)—you who are all-knowing
+- सुकृतः (*sukṛtaḥ*)—having excellent works
+- तान् (*tān*)—those rays
+- ररक्ष (*rarakṣa*)—protect
+- दिप्संत इत् (*dipsaṃta it*)—even though their purpose was destruction
+- रिपवः (*ripavaḥ*)—enemies
+- नाह देभुः (*nāha debhuḥ*)—could not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those rays of yours, protecting and looking with a gracious eye, protected Dīrghatamas, the son of Mamatā and blind, from the sin in the form of a curse. You, the all-knowing, protect those rays that have excellent works. Even though their purpose was destruction, the enemies could not harm him.
+
+##### English translation (H. H. Wilson)
+Those your protecting ( rays ), Agni, which, beholding (what had chanced), preserved the blind son of Mamata from misfortune : he, knowing all things, cherished those benevolent ( rays ), and his enemies, intending to destroy him, wrought him no harm.
+
+##### विशेषविषयगळु (Special Topics)
+
+मामतेयं (*māmateyaṃ*)—Regarding the protection of the son of the woman named Mamatā, the commentator has told a historical story. Mamatā, the wife of the sage named Ucathya, was pregnant. Then Bṛhaspati, the younger brother of Ucathya, saw that woman, was infatuated, became attached to her and had intercourse with her. At the time of the emission of seed, the child who was in the womb said to Bṛhaspati: "O Bṛhaspati, I am now in the womb; therefore do not discharge your seed into this woman's womb." Hearing this, Bṛhaspati became angry with that child in the womb, who had obstructed him at the time of releasing the seed, and pronounced a curse that the child in the womb should be born blind. Therefore the child born of that woman was born blind and became a sage famed by the name Dīrghatamāḥ (since he could not see, it always appeared to him as if it were long darkness, dīrgham tamaḥ). There is the narrative that this sage Dīrghatamāḥ praised Agni and obtained his eyes (sight). That very matter is explained here by the sentence मामतेयं दुरितात् अरक्षन् (*māmateyaṃ duritāt arakṣan*).
+
+### Printed p. 783
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया वयं सधन्य १ स्तोतास्तव प्रणीत्यश्याम वाजान् ।  
+> उभा शंसा सूदय सत्यतातेऽनुष्टुया कृणुह्यप्रयाण ॥
+
+> *tvayā vayaṃ sadhanya 1 stotāstava praṇītyaśyāma vājān |*  
+> *ubhā śaṃsā sūdaya satyatāte 'nuṣṭuyā kṛṇuhyaprayāṇa ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । वयं । सधन्यः । त्वालूताः । तव । प्रनीती । अश्याम । वाजान् ।  
+> उभा । शंसा । सूदय । सत्यताते । अनुष्टुया । कृणुहि । आह्रयाण ॥ १४ ॥
+
+> *tvayā | vayaṃ | sadhanyaḥ | tvālūtāḥ | tava | pranītī | aśyāma | vājān |*  
+> *ubhā | śaṃsā | sūdaya | satyatāte | anuṣṭuyā | kṛṇuhi | āhrayāṇa ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्रयाण अलज्जितगमन । अप्रयाणोऽह्रीतयान इति यास्कः । तादृश हे
+> अग्ने वयं स्तोतारस्त्वया सधन्यस्वप्रसादात्समानधनास्तोतास्त्वया
+> रक्षिता वयं तव प्रणीती प्रणीत्या तव प्रेरणेनानुज्ञया वाजानन्नान्यश्याम ।
+> प्राप्नुयाम । हे सत्यताते । सत्यं तनोतीति ना सत्यं तायते यस्मिन्निति ना सत्यतातिः । हे सत्यताते शंसा पापानां शंसितारावुभावासन्नविप्रकृष्टौ शत्रू सूदय ।
+> जहि । अनुष्टुयानुक्रमेण कृणुहि । अस्मिन्सूक्ते प्रतिपादितमर्थं कुरु ॥ सधन्यः ।
+> धनमेषामस्तीति छंदसीवनपावितीप्रत्ययः । एरनेकाच इति यण् । उदात्तस्वरितयोरिति स्वरितत्वं । अनुष्टुया । अपदुःसुषु । स्थ इति विधीयमानः कुप्रत्ययो
+> बहुलवचनादनुपूर्वस्यापि भवति । सुपांसुलुगिति तृतीयाया याजादेशः। अह्रयाण । ह्री लच्चायां । बहुलं छंदसीति शपः श्लुभावाभावः । अनित्यमागमशासनमिति मुगभावः ॥
+
+##### Gist of the bhāṣya
+
+"Apraṇa" (ahrayāṇa) means of unashamed going; "अप्रयाणोऽह्रीतयान इति यास्कः (*aprayāṇo 'hrītayāna iti yāskaḥ*)" (so Yāska). O such Agni, we, the praisers, being "sadhanya," that is, possessed of equal wealth through your favour, protected by you, may through your guidance (प्रणीती (*praṇītī*)), your impulse and leave, attain वाजान् (*vājān*), foods. O सत्यताते (*satyatāte*): one who extends truth, or one in whom truth is extended. O Satyatāti, destroy the two enemies, near and far, who are the utterers (calumniators) of evils. अनुष्टुया (*anuṣṭuyā*): in due order, do कृणुहि (*kṛṇuhi*), that is, accomplish what has been set forth in this hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अह्रयाण (*ahrayāṇa*)—O Agni, of unhesitating going
+- वयं (*vayaṃ*)—we, the praisers
+- त्वया (*tvayā*)—by your favour
+- सधन्यः (*sadhanyaḥ*)—possessed of excellent wealth
+- त्वोताः (*tvotāḥ*)—protected by you
+- तव (*tava*)—your
+- प्रणीती (*praṇītī*)—by favour
+- वाजान् (*vājān*)—horses**NOTE**
+- आश्याम (*āśyāma*)—we obtain
+- सत्यताते (*satyatāte*)—O Agni, who increase truth
+- शंसा (*śaṃsā*)—desiring sin
+- उभा (*ubhā*)—both kinds of enemies, the distant and the near
+- सूदय (*sūdaya*)—destroy
+- अनुष्टुया (*anuṣṭuyā*)—in order
+- तृणुहि (*tṛṇuhi*)—fulfil the purpose of our prayer
+
+### Printed p. 784
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of unhesitating going, we the praisers, possessed through your favour of excellent wealth and protected by you, obtain horses through your favour. O Agni, who increase truth, whether the enemies who wish us treachery are far away or nearby, destroy them; and fulfil the purpose of our prayer.
+
+##### English translation (H. H. Wilson)
+Agni, you are freed from shame, by you we are made opulent ; by you we are protected ; may we, through your guidance, attain abundant food: cherisher of truth, destroy both ( sorts of calumniators ), those who are nigh, those who are far off, and in due course fulfil (our desires).
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अया ते अग्ने समिधा विधेम प्रति स्तोमं शस्यमानं  
+> गृभाय ।  
+> दहाशसो रक्षसः पाह्यगस्मान्‌द्रुहो निदो मित्रमहो  
+> अवद्यात् ॥ १५ ॥
+
+> *ayā te agne samidhā vidhema prati stomaṃ śasyamānaṃ*  
+> *gṛbhāya |*  
+> *dahāśaso rakṣasaḥ pāhyagasmāndruho nido mitramaho*  
+> *avadyāt ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । ते । अग्ने । संइधा । विधेम । प्रति । स्तोमं । शस्यमानं । गृभाय ।  
+> दह । अशसः । रक्षसः । पाहि । अस्मान् । द्रुहः । निदः । मित्रमहः । अवद्यात् ॥१५॥
+
+> *ayā | te | agne | saṃidhā | vidhema | prati | stomaṃ | śasyamānaṃ | gṛbhāya |*  
+> *daha | aśasaḥ | rakṣasaḥ | pāhi | asmān | druhaḥ | nidaḥ | mitramahaḥ | avadyāt ‖15‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अयानया समिधा दीप्या स्तुत्या ते त्वां विधेम । परिचरेम ।
+> अस्माभिः शस्यमानमिमं स्तोमं स्तोत्रं प्रति गृभाय । प्रतिगृहाण । अशसः ।
+> शंसंति स्तुवंतीति शसः स्तोतारः । ते न भवंतीत्यशसो नृशंसाः । तान्रक्षसो दह ।
+
+##### Gist of the bhāṣya
+
+O Agni, with this समिधा (*samidhā*), this shining praise, we serve you. Accept (गृभाय (*gṛbhāya*), take) this hymn of praise recited by us. अशसः (*aśasaḥ*): those who praise are "śasaḥ," praisers; those who are not such are "aśasaḥ," ill-speakers. Burn those rākṣasas.
+
+### Printed p. 785
+
+> भस्मसात्कुरु । हे मित्रमहो मित्रैः पूजनीय हे अग्ने द्रुहो द्रोग्धुर्निदो
+> निंदकादवद्यात्परिवावाच्चास्मान् पाहि । रक्ष ॥ गृभायॆ । ग्रहेर्लोटि छंदसि शायजपीति श्नः शायच् । हृग्रहोर्भः । पाहि । वाक्यभेदादनिघातः । निदः । णिदि कुत्सायां । क्विप् । आगमशासनस्यानित्यत्वान्नुमभावः । सावेकाच इति विभक्तेरुदात्तत्वं ।
+> अवद्यात् । अवद्यपण्येति यत् । ययतोश्चातदर्थे । पा, ६-२-१५६ । इत्यंतोदात्तत्वं । मित्रमहो अवद्यादित्यत्र संहितायामव्यादवद्यादित्येजः प्रकृतिभावः ॥
+
+##### Gist of the bhāṣya
+
+Reduce them to ashes. O मित्रमहो (*mitramaho*), worthy of worship by friends, O Agni, protect us from the oppressor (द्रुहः (*druhaḥ*)), from the reviler (निदः (*nidaḥ*)), from blame (अवद्यात् (*avadyāt*)), that is, from reproach.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अया समिधा (*ayā samidhā*)—by this shining praise
+- ते (*te*)—you
+- विधेम (*vidhema*)—we serve
+- शस्यमानं (*śasyamānaṃ*)—recited by us
+- इमं स्तोमं (*imaṃ stomaṃ*)—this hymn of praise
+- प्रति गृभाय (*prati gṛbhāya*)—accept
+- अशसः (*aśasaḥ*)—who do not praise you
+- रक्षसः (*rakṣasaḥ*)—the rākṣasas
+- दह (*daha*)—burn
+- मित्रमहः (*mitramahaḥ*)—O Agni, worthy of worship by friends
+- द्रुहः (*druhaḥ*)—of the treacherous one
+- निदः (*nidaḥ*)—reviling
+- अवद्यात् (*avadyāt*)—from reproach
+- अस्मान् (*asmān*)—us
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we serve you with this shining praise. Accept this hymn of praise recited by us. Burn the rākṣasas who do not praise you. O Agni, worthy of worship by friends, protect us from the reviling reproach of the treacherous one.
+
+##### English translation (H. H. Wilson)
+May we propitiate you, Agni, by this fuel : accept the praise that is recited by us : consume the unadoring Rakshasas ; you who are to be honoured by (your) friends, preserve us from the reproach of the oppressor and the reviler.
+
+##### विशेषविषयगळु (Special Topics)
+
+अया (*ayā*)—अनया (*anayā*). For the convenience of the metre, the middle letter, the na, of the word अनया (*anayā*) has been dropped, giving अया (*ayā*). Or else it appears that in that period both the word अनया (*anayā*) and the word अया (*ayā*) were current. For the use of the word अया (*ayā*) in place of अनया (*anayā*) is frequent in the Ṛgveda. For example:
+चोदः कुवित्तु तुज्यात्सातये धियः शुचिप्रतीकं तमया धिया गृणे ॥ (*codaḥ kuvittu tujyātsātaye dhiyaḥ śucipratīkaṃ tamayā dhiyā gṛṇe ‖*) (Ṛ. Saṃ. 1-143-6)
+
 ---
 
-**Progress note:** Done through printed p. 779. pp. 774-779 (batch API)
+**Progress note:** Done through printed p. 785. pp. 780-785 (batch API)
