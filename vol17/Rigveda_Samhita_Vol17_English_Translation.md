@@ -18555,6 +18555,88 @@ This sacrificial altar is the terrestrial world, this is the atmosphere, this is
 
 Just as around Āditya the boats in the form of the three hundred and sixty rays surround him, so around this altar the gods, men and others in the form of the Yajuṣmatīs surround it. The body of this altar is Āditya
 
+### Printed p. 592
+
+…the Golden Person who dwells within the sun. How attractive and how weighty is the nature of this Golden Person! It is said:
+
+तस्यैते प्रतिष्ठे । रुक्ष्मश्च पुष्करसर्णं चापश्चादित्यमंडलं .... .... ताविंद्राग्नी द्वे स्वयमातृण्णे इयं चांतरिक्षं च .... .... विश्वज्योतिष एता देवता अग्निर्वायुरादित्य एता ह्येव देवताः .... .... आत्मा स एषः सर्वासामपां मध्यॆ स एष सर्वैः कामैः संपन्नः .... .... ॥ (*tasyaite pratiṣṭhe | rukṣmaśca puṣkarasarṇaṃ cāpaścādityamaṃḍalaṃ .... .... tāviṃdrāgnī dve svayamātṛṇṇe iyaṃ cāṃtarikṣaṃ ca .... .... viśvajyotiṣa etā devatā agnirvāyurāditya etā hyeva devatāḥ .... .... ātmā sa eṣaḥ sarvāsāmapāṃ madhyè sa eṣa sarvaiḥ kāmaiḥ saṃpannaḥ .... .... ‖*)
+
+The golden vessel and the lotus leaf are the two feet of this Golden Person who dwells within the sun. The two ladles on the sacrificial altar are his arms. These are Candra and Agni.**NOTE**. The bricks in the form of the Viśvajyotis are all the deities. Their number is three, and these three reflect Agni, Vāyu and Āditya. The body of this altar is the end of everything. This Golden Person, who has the form of the altar and dwells within the sun, has obtained all desires, and therefore is free from desire and perfectly content.
+
+Thus this principle of sacrifice teaches the unity of the universe, and that the ground of this unity is the principle called Parabrahman. What the Upaniṣads and the like call Parabrahman, the Saṃhitās and Brāhmaṇas call Prajāpati; and they speak of the identity of sacrifice and Prajāpati. The creation of the universe is the fruit of Prajāpati's sacrificial austerity. Prajāpati, the cause of the world, existing before creation and without a second, had to offer himself as the oblation if he was to perform the sacrifice that is the means of creation. By such statements as य आत्मदा बलदा (*ya ātmadā baladā*) (Ṛ. Saṃ. 10-121-2) it is described how Prajāpati carried out creation, whose command all the gods and others obey, and whose shadows are death and immortality. The supreme purpose of the sacrifice is thus declared: that we too should worship that Prajāpati, the cause of the universe, by performing sacrificial rites.
+
+The faith to be placed in the principle of sacrifice is not blind faith. This faith must have the power to grasp the spiritual principle. It shows the relation between the sacrifice, the navel of the world, and the principle of Brahman. The sacrificer whose faith rests on spiritual knowledge recognises the identity between himself and the sacrifice. He knows that all the worldly activity of Parabrahman in the form of Prajāpati is contained in this principle of sacrifice, and that he too takes a share in that wheel of the universe. For this realisation meditation and the vision of the inner eye are absolutely necessary:
+
+पश्यन् मन्ये मनसा चक्षसा तान् य इमं यज्ञमयजंत पूर्वे ॥ (*paśyan manye manasā cakṣasā tān ya imaṃ yajñamayajaṃta pūrve ‖*) (Ṛ. Saṃ. 10-130-6)
+
+### Printed p. 593
+
+"With the help of the inner eye in the form of meditation I know and praise the gods and seers who knew the principle of sacrifice, the root of this worldly activity." Thus the necessity of meditation is shown.
+
+This purpose of sacrifice is declared in the sūkta addressed to the deity Savitṛ, in which one prays: whose Bhargas we desire to know, whose nature as the great light we wish to know, "grant us the meditative intellect" — धियो यो नः प्रचोदयात् (*dhiyo yo naḥ pracodayāt*).
+
+युंजते मन उत युंजते धियो विप्रा विप्रस्य बृहतो विपश्चितः । वि होत्रा दधे वयुनाविदेक इन्मही देवस्य सवितुः परिष्टुतिः ॥ (*yuṃjate mana uta yuṃjate dhiyo viprā viprasya bṛhato vipaścitaḥ | vi hotrā dadhe vayunāvideka inmahī devasya savituḥ pariṣṭutiḥ ‖*) (Ma. Saṃ. 5-81-1)**NOTE**
+
+This shows the necessity of meditation: the learned priests engaged in sacrificial work concentrate their minds and worship Savitṛ by meditation in the form of yoga. Knowing the divine nature of Savitṛ through this meditation is thus the supreme purpose of the sacrifice. In the present mantra तत्सवितुः (*tatsavituḥ*) the importance of the prayer "grant the dhī" is explained, and this matter will be explained again when the right meaning of the word dhī is examined.
+
+Just as the principle of sacrifice is described as the thread of the universe by such statements as यो यज्ञो विश्वतस्तंतुभिस्तत एकशतं (*yo yajño viśvatastaṃtubhistata ekaśataṃ*), so too the Gāyatrī holds a primary place in carrying out sacrifice. By गायत्री वा इदं सर्वं भूतं यदिदं किंच (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca*), that all beings, moving and unmoving, are of the nature of Gāyatrī, the universal pervasion of Gāyatrī and its having merged the whole world into itself is shown.
+
+**13. Discussion whether Gāyatrī is merely a means to the knowledge of Brahman or the attainable object in the form of knowledge.**
+
+Now, the distinctive character of Gāyatrī as a metre is described in अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्री । (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatrī |*) (Ai. Ā. 1-4-1) and so on. For carrying out sacrifices and the like, too, Gāyatrī in the form of a metre holds a most useful primacy. A metre can only be a means for the search after the principle; it cannot itself be the object sought. The doubt therefore arises whether Gāyatrī, which has the form of a metre, can be of the nature of the principle that reflects and teaches the Parabrahman principle, and whether that is possible.
+
+### Printed p. 594
+
+Such a doubt is anticipated in the Brahma-sūtra as well; an answer is given to it and the conclusion is upheld that Gāyatrī is the Parabrahman principle itself and not something different. Since that discussion also establishes the principle by taking Vedic sentences as authority, it may be examined here too.
+
+अपि यदुक्तं पूर्वस्मिन्नपि वाक्ये न ब्रह्म अभिहितमस्ति । गायत्री वा इदं सर्वं भूतं यदिदं किंच, इति गायत्राख्यस्य छंदसोऽभिहित्वात् इति तत् परिहर्तव्यं । कथं पुनः छंदोऽभिधानात् न ब्रह्म अभिहितं इति शक्यते वक्तुं । यावता तावानस्य महिमा इत्येतस्यां ऋचि चतुष्पाद् ब्रह्म दर्शित्वं । नैतदस्ति । गायत्री वा इदं सर्वं इति गायत्रीं उपक्रम्य तामेव भूतपृथिवीशरीरहृदयवाक्प्रभेदैर्वाख्याय । सैषा चतुःप्पदा षड्विधा गायत्री तदेतदृचाभ्यनूक्तं तावानस्य महिमा इति तस्यामेव व्याख्यातरूपायां गायत्रां उदाहृतो मंत्रः कथं अकस्मात् ब्रह्म चतुष्पात् अभिदध्यात् । योऽपि यद्वैतद्ब्रह्मा इति ब्रह्मशब्दः सोऽपि छंदसः प्रकृतत्वात् छंदोविषय एव .... .... तस्मात् छंदोऽभिधानात् न ब्रह्मणः प्रकृतत्वं ॥ (*api yaduktaṃ pūrvasminnapi vākye na brahma abhihitamasti | gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca, iti gāyatrākhyasya chaṃdaso 'bhihitvāt iti tat parihartavyaṃ | kathaṃ punaḥ chaṃdo 'bhidhānāt na brahma abhihitaṃ iti śakyate vaktuṃ | yāvatā tāvānasya mahimā ityetasyāṃ ṛci catuṣpād brahma darśitvaṃ | naitadasti | gāyatrī vā idaṃ sarvaṃ iti gāyatrīṃ upakramya tāmeva bhūtapṛthivīśarīrahṛdayavākprabhedairvākhyāya | saiṣā catuḥppadā ṣaḍvidhā gāyatrī tadetadṛcābhyanūktaṃ tāvānasya mahimā iti tasyāmeva vyākhyātarūpāyāṃ gāyatrāṃ udāhṛto maṃtraḥ kathaṃ akasmāt brahma catuṣpāt abhidadhyāt | yo 'pi yadvaitadbrahmā iti brahmaśabdaḥ so 'pi chaṃdasaḥ prakṛtatvāt chaṃdoviṣaya eva .... .... tasmāt chaṃdo 'bhidhānāt na brahmaṇaḥ prakṛtatvaṃ ‖*) (Brahma-sūtra, Śā. Bhā. 1-1-25)**NOTE**
+
+Everything in the world, all beings movable and immovable, is Gāyatrī (Chā. U. 3-12-1); the objector's view is that in describing the nature of Gāyatrī this speaks only of the Gāyatrī in the form of a metre and not of a principle pointing to Parabrahman. To refute this, the siddhāntin points out that in the same Chāndogya Upaniṣad the mantra एतावानस्य महिमा (*etāvānasya mahimā*) ("such is its greatness, so boundless") (Chā. U. 3-12-6) declares the nature of Brahman with four feet. Therefore the word Gāyatrī here means the Parabrahman thing, not merely Gāyatrī as a metre. Against this the objector devises another meaning and explains that sentence thus: having begun with गायत्रि वा इदं सर्वं भूतं (*gāyatri vā idaṃ sarvaṃ bhūtaṃ*), the text divides that same Gāyatrī into intermediate divisions — beings, earth, body, heart, speech, breath — saying that it has four feet and is of six kinds; and this is what the Ṛk-mantra describes as एतावानस्य महिमा (*etāvānasya mahimā*). How can such a description of a metre point to Brahman with four feet? Since the metre alone is the topic in hand, the matter of the metre is what is spoken; there is no mention of Parabrahman. So the objector defends his view. The siddhāntin's answer runs as follows:
+
+### Printed p. 595
+
+नैष दोषः । तथा चेतोऽर्पणनिगदात् । तथा गायत्राख्यच्छंदोद्वारेण तदनुगते ब्रह्मणि चेतसः अर्पणं चित्तसमाधानं अनेन ब्राह्मणवाक्येन निगद्यते । गायत्रि वा इदं सर्वं इति । न हि अक्षरसंनिवेशमात्राया गायत्राः सर्वात्मकत्वं संभवति । तस्मात् यत् गायत्राख्यविकारे अनुगतं जगत्कारणं ब्रह्म तदिह सर्वं इत्युच्यते ... .... तस्मात् अस्ति छंदोऽभिधानेऽपि पूर्वस्मिन् वाक्ये चतुष्पात् ब्रह्म निर्दिष्टं । तदेव ज्योतिर्वाक्येऽपि परामृश्यते उपासनानंतरविधानाय ॥ (*naiṣa doṣaḥ | tathā ceto 'rpaṇanigadāt | tathā gāyatrākhyacchaṃdodvāreṇa tadanugate brahmaṇi cetasaḥ arpaṇaṃ cittasamādhānaṃ anena brāhmaṇavākyena nigadyate | gāyatri vā idaṃ sarvaṃ iti | na hi akṣarasaṃniveśamātrāyā gāyatrāḥ sarvātmakatvaṃ saṃbhavati | tasmāt yat gāyatrākhyavikāre anugataṃ jagatkāraṇaṃ brahma tadiha sarvaṃ ityucyate ... .... tasmāt asti chaṃdo 'bhidhāne 'pi pūrvasmin vākye catuṣpāt brahma nirdiṣṭaṃ | tadeva jyotirvākye 'pi parāmṛśyate upāsanānaṃtaravidhānāya ‖*) (Śa. Bhā. Bra. Sū. 1-1.-5)**NOTE**
+
+The objector's view is not consistent. For in the present context it is said that one should place the mind on the supreme thing and meditate; so, through the metre called Gāyatrī, the mind is to be placed on the Brahman that pervades it, and this is said by the mantra sentence गायत्रि वा इदं सर्वं (*gāyatri vā idaṃ sarvaṃ*).**NOTE**. To say that Gāyatrī, which is merely an arrangement of syllables and has the form of a metre, is of the nature of everything would be inconsistent. Therefore it can be said decisively that the thing indicated is Parabrahman itself, existing in the form of the effect called Gāyatrī and being the cause of the whole world. That the cause is not different from the effect is said in the sūtra तदनन्यत्वमारंभणशब्दादिभ्यः (*tadananyatvamāraṃbhaṇaśabdādibhyaḥ*) (2-1-14).
+
+In other Śrutis too it is said that the Parabrahman principle, the cause, should be worshipped through the effect**NOTE**. (Ai. Ā. 3-2-3)
+
+सर्वेषु भूतेष्वेतमेव ब्रह्मेत्याचक्षते ! स एष संवत्सरसमानश्च क्षुर्मयः शोत्रमयश्चंदोमयो मनोमयो वाङ्मय आत्मा स य एवमेतं .... .... .... शंसति ॥ (*sarveṣu bhūteṣvetameva brahmetyācakṣate ! sa eṣa saṃvatsarasamānaśca kṣurmayaḥ śotramayaścaṃdomayo manomayo vāṅmaya ātmā sa ya evametaṃ .... .... .... śaṃsati ‖*) (Ai. Ā. 3-2-3)**NOTE**
+
+The cause-thing that has transformed itself into many forms as effects — eye, ear, metre and so on — is Parabrahman. These Śruti sentences teach the above meaning: that this very Parabrahman thing is to be worshipped in forms such as the metre.
+
+Therefore, although in some places the word Gāyatrī clearly gives the meaning "metre", there is no doubt that the Upaniṣad sentence गायत्री वा इदग्ं सर्वं (*gāyatrī vā idagṃ sarvaṃ*) points to the Parabrahman thing itself. Even though it is counted as a metre, just as Parabrahman, who is supernatural, beyond ordinary worldly perception and the cause, reveals himself through worldly effect-things, so the Gāyatrī principle is described as the Parabrahman principle: सैषा चतुष्पदा गायत्री (*saiṣā catuṣpadā gāyatrī*) (Chā. U. 3-12-5)
+
+### Printed p. 596
+
+Of these four feet, the first three reflect the world in the form of the effect, and the fourth (turīya) foot reflects the Brahman principle in the form of the cause. Even when the word Gāyatrī is taken to mean a metre, its purport must be stated as a metre that possesses both these forms. The first three feet are graspable by worldly understanding; the fourth foot is to be realised through yoga and meditation.
+
+**14. The spiritual character of metre, and the primacy of Gāyatrī in the search for knowledge.**
+
+देवा वै मृत्योर्भिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छंदोभिराच्छादयन्यदेभिराच्छादयन्स्छंदसां छंदस्त्वं । (*devā vai mṛtyorbhibhyatastrayīṃ vidyāṃ prāviśaṃste chaṃdobhirācchādayanyadebhirācchādayanschaṃdasāṃ chaṃdastvaṃ |*) (Bhā. U. 1-4-2)**NOTE**
+
+This sentence states the general characteristic of metre. When the gods, afraid of death, entered the threefold knowledge (trayī), the threefold knowledge concealed them with the metres. The word chandas is derived from the root chad, meaning "cover, conceal". Because they covered them from death, they are called chandas; thus its characteristic is stated. (The root is also used in the sense "to gladden".)
+
+However, even though the metres concealed the gods from the face of death, death discovered that these gods were hidden in the trayī; thus a shortcoming in the power of the metres is also shown. The purport is that in such contexts the metre is worldly and belongs to the world of effects. Although such a metre gives joy, that joy is limited. In speaking of the Gāyatrī metre too, both these forms are described and Gāyatrī is praised. The Upaniṣads praise Gāyatrī by saying that its first three feet reflect the lower principle and the fourth foot reflects the higher principle.
+
+भूमिरंतरिक्षं द्यौरित्यष्टावक्षराणि । अष्टाक्षरं ह वा एकं गायत्रै पदं । एतदु हैवास्या एतदेवं पदं वेद । (*bhūmiraṃtarikṣaṃ dyaurityaṣṭāvakṣarāṇi | aṣṭākṣaraṃ ha vā ekaṃ gāyatrai padaṃ | etadu haivāsyā etadevaṃ padaṃ veda |*) (Bṛ. U. 5-14-1)
+
+Earth, atmosphere, heaven: these eight syllables are the first foot of Gāyatrī. Thus these three worlds together become one foot of Gāyatrī. One who knows this principle obtains the wealth of these three worlds.
+
+### Printed p. 597
+
+यजो यजूग्ंषि, सामानि इत्यष्टावक्षराणि । अष्टाक्षरं ह ना एकं गायत्रै पदं । एतदु हैवास्या एतत् । स यावतीयं त्रयी विद्या तावद्ध जयति योऽस्या एतदेवं पदं वेद । (*yajo yajūgṃṣi, sāmāni ityaṣṭāvakṣarāṇi | aṣṭākṣaraṃ ha nā ekaṃ gāyatrai padaṃ | etadu haivāsyā etat | sa yāvatīyaṃ trayī vidyā tāvaddha jayati yo 'syā etadevaṃ padaṃ veda |*) (Bṛ. U. 5-14-2)
+
+Ṛcs, Yajus formulas, Sāmans: these eight syllables are the second foot of Gāyatrī. One who knows this principle obtains all the wealth of knowledge to be gained from the trayī, the treasury of knowledge.
+
+प्राणोऽपानो व्यान इत्याष्टावक्षराणि । अष्टाक्षरं ह वा एकं गायत्रैशि पदं । एतदु हैवास्या एतत् । स यावदिदं प्राणि तावद्ध जयति योऽस्या एतदेवं पदं वेद । (*prāṇo 'pāno vyāna ityāṣṭāvakṣarāṇi | aṣṭākṣaraṃ ha vā ekaṃ gāyatraiśi padaṃ | etadu haivāsyā etat | sa yāvadidaṃ prāṇi tāvaddha jayati yo 'syā etadevaṃ padaṃ veda |*) (Bṛ. U. 5-4-3)**NOTE**
+
+The three principles prāṇa, apāna and vyāna are the third foot of Gāyatrī, which consists of eight syllables. One who knows this principle obtains all the wealth of power of the whole class of living beings. The sun, shining with his own radiance and visible to the whole world, is the fourth foot of Gāyatrī. Although he has a nature beyond worldly perception, the sun takes a form open to perception and appears to all; hence the epithet दर्शतं (*darśataṃ*) here. Because he shines in the excellent atmosphere, surpassing all the worlds full of darkness, there is the epithet परोरजाः (*parorajāḥ*). One who knows the nature of this fourth foot becomes radiant and endowed with Brahmanic splendour.
+
+सैषा गायत्र्येतस्मिंस्तुरीये दर्शते पदे परोरजसि प्रतिष्ठिता । तद्वै तत्सत्ये प्रतिष्ठितं । चक्षुर्वै सत्यं । चक्षुर्हि वै सत्यं .... .... तस्मादाहुर्बलं सत्यादोगीय इति । एवं वैषा गायत्र्यध्यात्मं प्रतिष्ठिता । सा हैषा गयांस्तत्रे । प्राणा वै गयाः तत्पाणांस्तत्रे तद्यद्धयांस्तत्रे तस्माद्दायत्री नाम । स यामेवामुं सावित्रिमन्वाह । एवैष सा । स यस्मा अन्वाह तस्य प्राणास्त्रायंते ॥ (*saiṣā gāyatryetasmiṃsturīye darśate pade parorajasi pratiṣṭhitā | tadvai tatsatye pratiṣṭhitaṃ | cakṣurvai satyaṃ | cakṣurhi vai satyaṃ .... .... tasmādāhurbalaṃ satyādogīya iti | evaṃ vaiṣā gāyatryadhyātmaṃ pratiṣṭhitā | sā haiṣā gayāṃstatre | prāṇā vai gayāḥ tatpāṇāṃstatre tadyaddhayāṃstatre tasmāddāyatrī nāma | sa yāmevāmuṃ sāvitrimanvāha | evaiṣa sā | sa yasmā anvāha tasya prāṇāstrāyaṃte ‖*)
+
+On this fourth (turīya) foot, described as parorajas and darśata, Gāyatrī is established. That is the world of truth. Therefore Gāyatrī is established on truth. The eye is truth. How? When one man says "I saw" and another says "I heard" and they dispute, the word of the one who saw carries greater authority.
+
 ---
 
-**Progress note:** Done through printed p. 591. pp. 586-591 (batch API)
+**Progress note:** Done through printed p. 597. pp. 592-597 (batch API)
