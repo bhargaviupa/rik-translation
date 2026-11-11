@@ -27344,6 +27344,185 @@ In this Ṛk Agni is prayed to come to the place of sacrifice seated in his char
 > *vṛṣṭe |*  
 > *gaviṣṭhiro namasā stomamagnau divīva rukkamuruvyaṃcamaśret ‖ 12 ‖*
 
+### Printed p. 729
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवोचाम । कवये । मेध्याय । वचः । वंदारु । वृषभाय । वृष्णे ।  
+> गविष्ठिरः । नमसा । स्तोमं । अग्नौ । दिविइव । रुक्ष्मं । उरुव्यंचं । अश्रेत् ॥ १२ ॥
+
+> *avocāma | kavaye | medhyāya | vacaḥ | vaṃdāru | vṛṣabhāya | vṛṣṇe |*  
+> *gaviṣṭhiraḥ | namasā | stomaṃ | agnau | diviiva | rukṣmaṃ | uruvyaṃcaṃ | aśret ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमात्रेयाः कवये मेधाविने मेध्याय मेधार्हाय वृषभाय
+> वर्षकाय फलानां वृष्णे सेक्रे यूने वंदारु वंदनशीलं वचः स्तोत्रमवोचाम । अथ ऋषिरात्मानं परोक्षेणैव निर्दिष्ट स्तुतिमुपसंहरति । गविष्ठिरोऽयमृषिर्नमसा नमस्कारेण हविषा वा युक्तं स्तोमं स्तोत्रमग्नावश्रेत् । श्रयति
+> स्म । दिवि रुक्ष्मं रोचमानमुरुव्यंचमुरुगमनमादित्यमिव ॥
+
+##### Gist of the bhāṣya
+
+We Ātreyas have uttered a praise that bows in homage to the wise (कवये (*kavaye*)), the worthy of sacrificial wisdom (मेध्याय (*medhyāya*)), the bull (वृषभाय (*vṛṣabhāya*)), the showerer of fruits, the sprinkler (वृष्णे (*vṛṣṇe*)), the young one. Then the seer, referring to himself in the third person, brings the praise to a close. This seer Gaviṣṭhira has resorted to Agni with a hymn (स्तोमं (*stomaṃ*)) joined with homage, or with an oblation. The hymn is addressed to Agni, who shines in the sky and moves widely, like the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवये (*kavaye*)—wise one
+- मेध्याय (*medhyāya*)—worthy of worship
+- वृषभाय (*vṛṣabhāya*)—showerer of desires
+- वृष्णे (*vṛṣṇe*)—young one; (we speak) to Agni
+- वंदारु (*vaṃdāru*)—praise worthy of worship
+- वचः (*vacaḥ*)—the praise
+- अवोचाम (*avocāma*)—we recite
+- गविष्ठिरः (*gaviṣṭhiraḥ*)—this seer named Gaviṣṭhira
+- नमसा (*namasā*)—with homage
+- स्तोमं (*stomaṃ*)—the hymn
+- दिवि (*divi*)—in the sky
+- रुक्ष्मं (*rukṣmaṃ*)—the one who shines with a golden hue
+- उरुव्यंचं (*uruvyaṃcaṃ*)—the one who pervades widely like the sun
+- अग्नौ (*agnau*)—in Agni
+- अश्रेत् (*aśret*)—has offered
+
+##### भावार्थ (Bhāvārtha)
+
+We recite praise worthy of worship, addressed to Agni, the wise, the worthy of worship, the showerer of desires, the young. This seer, named Gaviṣṭhira, has offered his own hymn, accompanied by homage, to Agni, who shines in the sky with a golden hue and pervades widely like the sun.
+
+##### English translation (H. H. Wilson)
+We have uttered aloud this encomiastic praise to the wise, holy, vigorous (Agni), the showerer (of benefits): Gavishthira offers with reverence (this) praise to Agni, like the wide-sojourning (sun), effulgent in the sky.
+
+### Printed p. 730
+
+##### विशेषविषयगळु (Special Topics)
+
+In this last Ṛk, which concludes the sūkta, the seer Gaviṣṭhira, who saw the sūkta, names himself. He says that he has praised Agni with excellent words, and that he has offered to Agni, who shines with splendour like the sun, a hymn accompanied by homage, and an oblation, and so he commends his own conduct. Although two seers, Budha and Gaviṣṭhira, are the seers of this sūkta, only the name of one seer, Gaviṣṭhira, is recited here. The name of the seer Budha is not mentioned.
+
+## Sūkta 2 (Maṇḍala 5)
+This is the second sūkta.
+
+Introduction.
+
+Kumāra, Vṛśa and Jāna are declared to be the seers of the second sūkta in the fifth maṇḍala. Kumāra is one of the synonyms of Agni. In this sūkta Agni is specifically denoted by that very word kumāra, and it is also stated to be the name of the seer. For this reason the sūkta may be called the Kaumāra sūkta. How Agni came to be named Kumāra is told in the Śatapatha Brāhmaṇa as follows.
+
+तद्यानि तानि भूतानि । ऋतवस्तेऽथ यः स भूतानां पतिः संवत्सरः सोऽथ या सोषाः पत्न्यौषसी सा तानिमानि भूतानि च भूतानां पतिः संवत्सर उषसि रेतोऽसिंचन्त्स संवत्सरे कुमारोऽजायत........ ॥ (*tadyāni tāni bhūtāni | ṛtavaste 'tha yaḥ sa bhūtānāṃ patiḥ saṃvatsaraḥ so 'tha yā soṣāḥ patnyauṣasī sā tānimāni bhūtāni ca bhūtānāṃ patiḥ saṃvatsara uṣasi reto 'siṃcantsa saṃvatsare kumāro 'jāyata........ ‖*) (Śa. Brā. 6-1-3-8)
+
+These beings are the seasons. The lord of beings is the year. Uṣas is the wife. The seasons, who are of the nature of beings, and the year, the lord of beings, poured seed into Uṣas, the wife. As a result Kumāra was born. This Kumāra is the ninth form of Agni. Since Agni of such a nature is praised, the name of the seer of this sūkta is also Kumāra.
+
+Besides this, it is conjectured that a seer named Vṛśa Jāna is also the author of this sūkta. The story of Vṛśa Jāna is told briefly in the Bṛhaddevatā as follows.
+
+ऐक्ष्वाकुस्त्यरुणो राजा त्रैवृष्णो रथमास्थितः । संजग्राहाश्वरश्मींश्च वृशो जानः पुरोहितः ॥ (*aikṣvākustyaruṇo rājā traivṛṣṇo rathamāsthitaḥ | saṃjagrāhāśvaraśmīṃśca vṛśo jānaḥ purohitaḥ ‖*) (Bṛ. De. 5-14)
+
+### Printed p. 731
+Tryaruṇa, born in the Ikṣvāku line, the son of Trivṛṣṇa, once set out seated in a chariot. Then his house-priest Vṛśa, the son of Jana, held the reins of the horses and drove the chariot.
+
+स ब्राह्मणकुमारस्य रथो गच्छच्चिरोऽच्चिनत् । एनस्वीत्यब्रवीच्चैव स राज्यैनं पुरोहितं ॥ (*sa brāhmaṇakumārasya ratho gacchacciro 'ccinat | enasvītyabravīccaiva sa rājyainaṃ purohitaṃ ‖*) (Bṛ. De. 5-15)
+
+This chariot, driven by Vṛśa Jāna, ran over the body of a young Brahmin boy, and because of this his head was cut off. Then Traiyaruṇa said sharply to his priest: "Since you were driving the chariot, you alone share the sin arising from this killing."
+
+सोऽथर्वांगिरसान् मंत्रान् दृष्ट्वा संजीव्य तं शिशुं । क्रोधात्संत्सज्य राजानमन्यदेशं समाश्रितः ॥ ( (*so 'tharvāṃgirasān maṃtrān dṛṣṭvā saṃjīvya taṃ śiśuṃ | krodhātsaṃtsajya rājānamanyadeśaṃ samāśritaḥ ‖ (*) (Bṛ. Pe. 25-16) **NOTE**
+
+When the king spoke so harshly, disgust arose in Vṛśa's mind. At once he had a direct vision of the Atharvāṅgirasa mantras and recited them. By the power of those mantras the life of the child returned. Even so, displeased by the king's harsh words, he abandoned that king in anger and went off to take refuge with a king of another country.
+
+हरोऽप्यग्नेर्ननाशास्य तस्यापक्रमणादृषेः । अग्नौ प्रास्तानि हव्यानि न ह्यपच्यंत कानिचित् ॥ (*haro 'pyagnernanāśāsya tasyāpakramaṇādṛṣeḥ | agnau prāstāni havyāni na hyapacyaṃta kānicit ‖*) (5-17)
+
+As a result of the priest's going off in anger, the heat of Agni too was lost in that king's house. None of the oblations he offered was cooked, and all his efforts at sacrifice failed.
+
+ततः प्रव्यथितो राजा सोऽभिगम्य प्रसाद्य तं । अनीत्वा स वृशं जानं पुनरेव पुरोदधे ॥ (*tataḥ pravyathito rājā so 'bhigamya prasādya taṃ | anītvā sa vṛśaṃ jānaṃ punareva purodadhe ‖*) (5-18)
+
+Since the priest had gone and, as a result, the power of Agni too had vanished, the king was greatly grieved. Afterwards he went to the place where Vṛśa Jāna was, honoured him with worship and the like, brought him back, and again made him his own priest.
+
+### Printed p. 732
+स प्रसन्नो वृशोऽन्वैच्छद्धरमग्नेर्नृपक्षये । अविंदत पिशाचीं तां जायां तस्य च भूपतेः ॥ (*sa prasanno vṛśo 'nvaicchaddharamagnernṛpakṣaye | aviṃdata piśācīṃ tāṃ jāyāṃ tasya ca bhūpateḥ ‖*) (5-19)
+
+Vṛśa Jāna, appeased by the king's repentance and by his acts of worship, accepted his priesthood again. Then he established Agni in the king's house and prayed that the heat of that Agni might arise again. But as the result of that prayer he saw that the king had obtained a wife in the form of a piśācī.
+
+निषण्णस्स तया सार्धं आसंद्यां कशिपावपि । तामुपामंत्रयांचक्रे कमेतं त्वमिति त्वृचा ॥ (*niṣaṇṇassa tayā sārdhaṃ āsaṃdyāṃ kaśipāvapi | tāmupāmaṃtrayāṃcakre kametaṃ tvamiti tvṛcā ‖*) (5-20)
+
+Then he himself sat on a seat with that wife of the king, who was in the form of a piśācī, recited the mantra कमेतं त्वं (*kametaṃ tvaṃ*) (Ṛ. Saṃ. 5-2-2), and asked her: "O young woman, who is this boy whom you rear, having taken the form of a piśācī?" and so on.
+
+हरः कुमाररूपेण ब्रुवंस्तामभ्यभाषत । विज्योतिषेति चोक्तायां सहसाग्नि रुदज्वलत् ॥ (*haraḥ kumārarūpeṇa bruvaṃstāmabhyabhāṣata | vijyotiṣeti coktāyāṃ sahasāgni rudajvalat ‖*) (5-2) **NOTE**
+
+Designating the heat of Agni as the boy (kumāra), as soon as he had questioned that piśācī woman with the mantra stated above (5-2-2), he recited again the mantra वि ज्योतिषा (*vi jyotiṣā*) (5-2-9). The purport of that mantra is: "Agni shines with great flames full of variety; he makes his flames very sharp." As soon as this mantra was recited, the great flame of Agni appeared.
+
+सहमानः समायांतं प्रकाशं च प्रकाशयन् । पिशाचीमदहत्तां स यत्र चोपविवेश सा ॥ (*sahamānaḥ samāyāṃtaṃ prakāśaṃ ca prakāśayan | piśācīmadahattāṃ sa yatra copaviveśa sā ‖*) (5-22)
+
+That great flame of Agni, shining with its great radiance and driving far away all who approached it, finally burned that woman in piśācī form to ashes on the very spot where she sat. This is the story that describes the great power of Vṛśa Jāna. The mantras 5-2-2 and 5-2-9, which commend this greatness, are also commended in other places.
+
+एष एव परामृष्टो भाल्लविब्राह्मणे द्वृचः । निदानसंज्ञके ग्रंथे छंदोगानामिति श्रुतिः ॥ (*eṣa eva parāmṛṣṭo bhāllavibrāhmaṇe dvṛcaḥ | nidānasaṃjñake graṃthe chaṃdogānāmiti śrutiḥ ‖*) (5-23)
+
+### Printed p. 733
+Both these mantras are cited in the Bhāllavī Brāhmaṇa, and are also commended in the Nidāna treatise of the Chandogas. This is the occasion that shows the greatness of Vṛśa Jāna. This very story, cited above, Sāyaṇa has told in the context of his commentary on the mantra Ṛ. Saṃ. 5-2-1.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुमारं मातेति द्वादशर्चं द्वितीयं सूक्तं । अत्रेः पुत्रः कुमारः
+> ऋषिर्जननाम्नः पुत्रो वृशो वोभौ वात्र ऋषी । कमेतं त्वं वि ज्योतिषेत्यनयोस्तु वृश एव नोभौ न कुमारः । अंत्या षट्पंचाशदक्षरा शक्वरी शिष्टास्त्रिष्टुभः ।
+> अग्निर्देवता । अत्रानुक्रमणिका । कुमारं कुमारो वृशो वा जान उभौ वा
+> शक्वर्यंतं कं वीत्यचोस्तु वृश एवेति ॥ प्रातरनुवाकाश्विनशस्त्रयोरस्यापि सूक्तस्य
+> विनियोग उक्तः पूर्वसूक्तेन सह ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, कुमारं माता (*kumāraṃ mātā*), has twelve Ṛks. Its seer is Kumāra, son of Atri; or Vṛśa, son of the man named Jana; or both are the seers here. But for the two Ṛks कमेतं त्वं (*kametaṃ tvaṃ*) and वि ज्योतिषा (*vi jyotiṣā*) Vṛśa alone is the seer, not Kumāra, and not both. The last Ṛk is a Śakvarī of fifty-six syllables; the rest are Triṣṭubh. The deity is Agni. Sāyaṇa cites the Anukramaṇikā: कुमारं कुमारो वृशो वा जान उभौ वा शक्वर्यंतं कं वीत्यचोस्तु वृश एव (*kumāraṃ kumāro vṛśo vā jāna ubhau vā śakvaryaṃtaṃ kaṃ vītyacostu vṛśa eva*). The application (viniyoga) of this sūkta, in the Prātaranuvāka and in the recitation of the Āśvina śastra, has been stated together with the previous sūkta.
+
+Anuvāda: this sūkta, कुमारं माता (*kumāraṃ mātā*), is the second sūkta in the first anuvāka. It has twelve Ṛks. Its seer is Kumāra, son of the seer Atri; or Vṛśa, son of the seer named Jana; or both may be the seers of this sūkta. But for these two Ṛks of the sūkta, कमेतं त्वं (*kametaṃ tvaṃ*) (the 2nd Ṛk) and वि ज्योतिषा (*vi jyotiṣā*) (the 9th Ṛk), Vṛśa alone is the seer; neither Kumāra, as said above, nor both. Agni is the deity. The last Ṛk of this sūkta is in the metre called Śakvarī of fifty-six syllables. All the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇikā it is stated: कुमारं कुमारो वृशो वा जान उभौ ना शक्वर्यंतं कं वीत्य चोस्तु वृश एव (*kumāraṃ kumāro vṛśo vā jāna ubhau nā śakvaryaṃtaṃ kaṃ vītya costu vṛśa eva*). The application of this sūkta for the recitation of the Prātaranuvāka and the Āśvinaśastra mantras has been stated in the application of the preceding sūkta.
+
+Sūkta 2. Maṇḍala 5, Anuvāka 1, Sūkta 2. Aṣṭaka 3, Adhyāya 8, Vargas 14, 15. Number of Ṛks in the sūkta: 12.
+
+Seer: 1, 3–4, 10–12. Kumāra Ātreya, or Vṛśa Jāna, or both. 2, 9. Vṛśa Jāna.
+
+Deity: Agni.
+
+Metre: 1–11 Triṣṭubh; 12 Śakvarī.
+
+### Printed p. 734
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कं वीत्य चोस्तु वृश एव ऎंदु हेळिरुवुदु. प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्र पठनक्कागि
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुमारं माता युवतिः समुब्धं गुहा बिभर्ति न ददाति  
+> पित्रे ।  
+> अनीकमस्य न मिनज्जनासः पुरः पश्यंति निहितमरत् ॥ १ ॥
+
+> *kumāraṃ mātā yuvatiḥ samubdhaṃ guhā bibharti na dadāti*  
+> *pitre |*  
+> *anīkamasya na minajjanāsaḥ puraḥ paśyaṃti nihitamarat ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुमारं । माता । युवतिः । संउब्धं । गुहा । बिभर्ति । न । ददाति । पित्रे ।
+> अनीकं । अस्य । न । मिनत् । जनासः । पुरः । पश्यंति । निहितं । अरतौ ॥ १ ॥
+
+> *kumāraṃ | mātā | yuvatiḥ | saṃubdhaṃ | guhā | bibharti | na | dadāti | pitre |*
+> *anīkaṃ | asya | na | minat | janāsaḥ | puraḥ | paśyaṃti | nihitaṃ | aratau ‖ 1 ‖*
+
+**NOTE**
+
+> शाट्यायनब्राह्मणोक्त इतिहास इहोच्यते । राजा त्रैवृष्ण ऐक्ष्वाकस्यरुणोऽभवदस्य च ॥ पुरोहितो वृशो जान ऋषिरासीत्तदा खलु । संगृह्णंति
+> रथान्राज्ञां रक्षणाय पुरोहिताः ॥ त्र्यरुणस्य वृशो रश्मिं संजग्राह पुरोहितः ।
+> कुमारो वर्त्मनि क्रीडन्प्रथचक्रेण घातितः ॥ छिन्नः कुमारश्चक्रेण ममाराध
+> पुरोहितः । त्वं हंतास्येति राजानं राजा चापि पुरोहितं ॥ त्वं हंतास्य कुमारस्य
+> नाहमित्यब्रवीत्तदा । यतस्त्वं रथवेगस्य नियंतातस्त्वया हतः ॥ रथस्वामी यतो
+> राजन् तस्मात्त्वं तस्य घातकः । एवं विवदमानौ ताविक्ष्वाकून्पष्टुमागतौ ॥ तौ
+> पप्रच्छतुरिक्ष्वाकून् केनासौ निहतो द्विजाः । तेऽब्रुवन्प्रथयंतारं हंतारं
+> वृशसंज्ञकं ॥ स वृशो वार्शसाम्मा तं कुमारं समजीवयत् । एवमाख्याय
+> तत्रैव पुनरन्यदुदीरितं ॥ यत इक्ष्वाकवो रागाद्दंतारमृषिमब्रुवन् । तस्मात्तेषां
+> गृहेष्टग्नेस्तेजो निर्गतमेषु च ॥ गृहे पाकादयो नासन् तत्कारणमचिंतयन्।
+> वृशं कुमारहंतारं यदवोचाम तेन नः ॥ अपाक्रमद्धरो वह्नेराह्वयाम
+> वृशं वयं । इति संचिंत्य तम्मषिमाह्वयामासुरादरात् ॥ समागत्य ततः शीघ्रं
+> तेषामग्नर्हरो भवेत् । इति पार्शन साम्नासावकामयत पूर्ववत् ॥ एवं
+> गायन् स ऋषिर्ब्रह्महत्यां भार्याजातां त्रसदस्योर्नृपस्य । पिशाचवेषां हर
+> आदाय चाग्नेर्गृहान्नीत्वा कशिप् स्थापॆयंतीं ॥ दृष्ट्वा सम्यक् तद्धरस्तोषयित्वा
+> साम्मा पश्चाद्योजयामास चाग्निं । ततः सतेजाः संजातोऽभवत्पातादिः पूर्ववत् ॥
+> एवं शाट्यायनेनोक्तं कांडकोक्तमथोच्यते । वृशः पुरोधा अभवत्र-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the story told in the Śāṭyāyana Brāhmaṇa is related here. Tryaruṇa, the Aikṣvāka king of the line of Trivṛṣṇa, had as his priest the seer Vṛśa Jāna. Priests take the reins of kings' chariots for their protection, and so Vṛśa took Tryaruṇa's reins. A boy, Kumāra, playing in the road, was killed by the chariot wheel; the boy was cut by the wheel and the priest was sorrowful. The king said to the priest, "You are the slayer"; the priest said to the king, "Not I." Since the priest was the controller of the chariot's speed, the king said he had killed the boy; the priest said the king, as master of the chariot, was the killer. Disputing thus, they went to ask the Ikṣvākus, "By whom was this boy killed, O Brahmins?" They named the driver, the slayer, called Vṛśa. Vṛśa revived the boy with the Vārśa sāman. Having narrated this, Sāyaṇa tells another version. Because the Ikṣvākus in anger called the seer a slayer, Agni's heat left their houses, and cooking and the like did not occur in the house. They reflected on the reason: "Because we called Vṛśa the slayer of the boy, the heat of Agni has gone away; let us call Vṛśa." So they respectfully invited that seer. Wishing that Agni's heat might quickly return to them, he desired it as before through the Pārśa sāman. Singing thus, the seer took the brahmahatyā born from the wife of King Trasadasyu, in the form of a piśācī, and led her from the house of Agni and set her on a seat. The heat looked on well, was satisfied, and afterwards joined Agni again with the sāman. Then Agni became splendid, and the cooking and the rest were as before. **NOTE**
+Thus, Sāyaṇa says, it was told by Śāṭyāyana; now what is said in the Kāṇḍaka is stated: वृशः पुरोधा अभवत्र- (*vṛśaḥ purodhā abhavatra-*) (the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 728. pp. 723-728 (batch API)
+**Progress note:** Done through printed p. 734. pp. 729-734 (batch API)
