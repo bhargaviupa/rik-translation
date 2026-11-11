@@ -26583,6 +26583,222 @@ In the fifth maṇḍala, the Ātreya one, there are six anuvākas. In its first
 
 Anuvāda: The fifth maṇḍala, seen by the seer Atri, has six anuvākas. In the first anuvāka there are fourteen sūktas, and of them this sūkta beginning अबोध्यग्निः (*abodhyagniḥ*) is the first. It has twelve ṛks. In the Anukramaṇikā it is said: अबोधि द्वादश बुधगविष्ठिराविति (*abodhi dvādaśa budhagaviṣṭhirāviti*) (printed बुधगविषि रौ (*budhagaviṣi rau*)). Because it is laid down that in the fifth maṇḍala seers whose gotra and other particulars are not stated are to be reckoned as born in the Ātreya gotra, the seers of this sūkta, Budha and Gaviṣṭhira, must also be said to be seers born in the Atri gotra. As is usual for the opening sūkta of a maṇḍala, Agni is the deity of this sūkta too; the metre is Triṣṭubh. At the time of reciting the Prātaranuvāka mantras, the use of this sūkta and the next three sūktas is for the Triṣṭubh ṛks connected with the Āgneya kratu and for the Āśvinaśastra mantras; this is explained by the Āśvalāyana Śrauta Sūtra, अबोध्यग्निः समिधेति चत्वारि (*abodhyagniḥ samidheti catvāri*) (Ā. 4-23). **NOTE** In the Adhyāyotsarjana and Upākaraṇa pradhāna-homas, the last ṛk of the preceding maṇḍala, धामंते विश्वं (*dhāmaṃte viśvaṃ*), and the first ṛk of this maṇḍala, अबोध्यग्निः (*abodhyagniḥ*), are to be used for the principal oblations; this has been stated already in the use of the preceding ṛk.
 
+### Printed p. 710
+
+> सूक्त-१
+> मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—१ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—१२, १३ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—१२ ॥
+> ॥ ऋषिः—बुधगविष्ठिरावात्रेयौ ॥
+> ॥ देवता—अग्निः ॥
+> ॥ छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अबो॑ध्य॒ग्निः स॒मिधा॒ जना॑नां॒ प्रति॑ धे॒नुमि॑वाय॒तीमु॒षासं॑।  
+> य॒ह्वा इ॑व॒ प्र व॒यामु॒ज्जिहा॑नाः॒ प्र भा॒नवः॑ सिस्त्रते॒ नाक॒मच्छ॑॥
+
+> *abodhyagniḥ samidhā janānāṃ prati dhenumivāyatīmuṣāsaṃ|*  
+> *yahvā iva pra vayāmujjihānāḥ pra bhānavaḥ sistrate nākamaccha‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अबोधि । अग्निः । संइधा । जनानां । प्रति । धेनुंइव । आयतीं । उषसं ।  
+> यह्वाःइव । प्र । वयां । उत्जिहानाः । प्र । भानवः । सिस्त्रते । नाकं । अच्छ ॥ १ ॥
+
+> *abodhi | agniḥ | saṃidhā | janānāṃ | prati | dhenuṃiva | āyatīṃ | uṣasaṃ |*  
+> *yahvāḥiva | pra | vayāṃ | utjihānāḥ | pra | bhānavaḥ | sistrate | nākaṃ | accha ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्जनानामध्वय्यादीनां समिधा समिद्धिरबोधि । प्रबुद्धोऽभूत् ।
+> धेनुमिव । अग्निहोत्रार्थधेनुं प्रति यथा प्रातर्बुध्यते तद्वदायतीमागच्छंतीमुषसं प्रति । उषःकाल इत्यर्थः । अथ प्रबुद्धस्याग्नेर्भानवो ज्वाला यह्वा
+> महांतो वयां शाखां प्रोज्जिहानाः प्रोद्गमयंतो वृक्षा इव प्रोज्जिहानाः
+> स्वाधिष्ठानं त्यजंतो नाकमंतरिक्षमच्छाभिमुख्येन प्रसिस्रते । प्रसरंति ॥
+
+##### Gist of the bhāṣya
+
+This Agni has been awakened (अबोधि (*abodhi*), "has become awake") by the kindling of the people, that is, of the adhvaryus and the others. Just as the cow meant for the agnihotra is awakened in the morning, so he is awakened toward the approaching, advancing Uṣas, that is, at the time of dawn. Then the flames (भानवः (*bhānavaḥ*)) of the awakened Agni, being great (यह्वाः (*yahvāḥ*)), spread forward toward the sky (नाकं (*nākaṃ*)) as trees do which send out their branches (वयां (*vayāṃ*)) upward, leaving their own support. अच्छ (*accha*) is explained as "facing toward".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- जनानां (*janānāṃ*)—of the adhvaryus
+- समिधा (*samidhā*)—by the fuel-sticks (having been kindled)
+- आयतीं (*āyatīṃ*)—who is appearing
+- उषसं प्रति (*uṣasaṃ prati*)—facing the Uṣas
+- धेनुमिव (*dhenumiva*)—like a cow that gives delight
+- अबोधि (*abodhi*)—has become awake
+- भानवः (*bhānavaḥ*)—the flames of this Agni
+- यह्वाः (*yahvāḥ*)—being of great form
+- वयां (*vayāṃ*)—branches
+- प्र उज्जिहाना इव (*pra ujjihānā iva*)—like trees that have thrown out and spread their branches in many directions
+- नाकं अच्छ (*nākaṃ accha*)—toward the sky
+- प्र सिस्रते (*pra sisrate*)—spread and pervade
+### Printed p. 711
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, kindled by the fuel-sticks of the adhvaryus, has awakened facing the appearing Uṣas, like a cow that gives delight. The flames of this Agni, being of great form, spread out and pervade toward the sky, like trees that have thrown out and spread their branches in many directions.
+
+##### English translation (H. H. Wilson)
+Agni is awakened by the fuel (supplied by) the priests at the dawn, approaching lika a cow (to pasture): his flames rise up to the sky like stately (trees) throwing aloft their branches.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्निः जनानां समिधा आयतीं उषसं प्रति धेनुमिव अबोधि (*agniḥ janānāṃ samidhā āyatīṃ uṣasaṃ prati dhenumiva abodhi*)—अध्वर्य्यादीनां ऋत्विजां समिद्धिः उषःकाले (प्रातःकाले) आगच्छंतीं उषसं प्रति यथा अग्निहोत्रार्थं धेनुः प्रातः प्रबुध्यते तथाप्रबुद्धोऽभूत् । (*adhvaryyādīnāṃ ṛtvijāṃ samiddhiḥ uṣaḥkāle (prātaḥkāle) āgacchaṃtīṃ uṣasaṃ prati yathā agnihotrārthaṃ dhenuḥ prātaḥ prabudhyate tathāprabuddho 'bhūt |*). Because milk is needed for the sacrifice when a sacrifice is performed, it is the custom to wake the sleeping cow in the morning, before the time, and to milk her. In the same way, facing Uṣas, that is, as soon as the time of dawn comes, the priests such as the adhvaryu make the fire burn well for the sacrifice with fuel-sticks and other pieces of wood; this is the intended sense. Just as the cow is awakened in the morning to be milked, so the priests such as the adhvaryu kindle Agni at dawn itself with fuel-sticks and other wood. Thus the meaning is explained by giving the cow as an illustration for Agni.
+यह्वाः इव वयां प्र उज्जिहानाः भानवः नाकं अच्छ सिस्रते (*yahvāḥ iva vayāṃ pra ujjihānāḥ bhānavaḥ nākaṃ accha sisrate*)—अथ प्रबुद्धस्याग्नेः ज्वालाः महांतः शाखां प्रोद्गमयंतो वृक्षा इव अंतरिक्षमाभिमुख्यन प्रसरंति ॥ (*atha prabuddhasyāgneḥ jvālāḥ mahāṃtaḥ śākhāṃ prodgamayaṃto vṛkṣā iva aṃtarikṣamābhimukhyana prasaraṃti ‖*). As stated in the preceding sentence, Agni, kindled by the priests, spreads his shining flames, as trees stretch their branches high into the sky; this is the intended sense. Here an illustration is given for the flames of Agni and the branches of a tree. As the branches of a tree pervade the highest region in the sky, so the flames of Agni spread very high; that is, the idea suggested here is that Agni is burning very brilliantly.
+### Printed p. 712
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अबो॑धि॒ होता॑ य॒जथा॑य दे॒वानू॒र्ध्वो अ॒ग्निः सु॒मनाः॑  ॒॑
+> प्रा॒तर॑स्थात् ।  
+> समि॑द्दस्य॒ रुश॑ददर्शि॒ पाजो॑ म॒हान्दे॒वस्तम॑सो॒ निर॑मोचि ॥२॥
+
+> *abodhi hotā yajathāya devānūrdhvo agniḥ sumanāḥ*  
+> *prātarasthāt |*  
+> *samiddasya ruśadadarśi pājo mahāndevastamaso niramoci ‖2‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अबोधि । होता । यजथाय । देवान् । ऊर्ध्वः । अग्निः । सुमनाः । प्रातः ।  
+> अस्थात् ।  
+> संइद्दस्य । रुशत् । आदर्शि । पाजः । महान् । देवः । तमसः । निः । अनोचि ॥ २ ॥
+
+> *abodhi | hotā | yajathāya | devān | ūrdhvaḥ | agniḥ | sumanāḥ | prātaḥ |*  
+> *asthāt |*  
+> *saṃiddasya | ruśat | ādarśi | pājaḥ | mahān | devaḥ | tamasaḥ | niḥ | anoci ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं होता होमनिष्पादकोऽग्निर्देवान्यष्टव्यान्यजथाय यष्टुमबोधि । बुध्यते । सोऽग्निः प्रातःकाले सुमनाः शोभनमनस्को यजमानानुग्रहबुद्धिः सन् ऊर्ध्वोऽस्थात् । उत्तिष्ठति । समिद्धस्यास्य रुशद्रोचमानं पाजो
+> बलं ज्वालालक्षणमदर्शि । दृश्यते । अथ तथाभूतो महान्देवस्तमसोऽंधकारान्निरमोचि । निर्मुक्तोऽभूत् ॥
+
+##### Gist of the bhāṣya
+
+This Agni, the Hotā, the accomplisher of the offering, has been awakened (अबोधि (*abodhi*)) in order to sacrifice to (यजथाय (*yajathāya*), "to sacrifice") the gods who are to be worshipped. That Agni, in the morning, being well-minded (सुमनाः (*sumanāḥ*)), that is, with the intention of favouring the sacrificer, has stood up (ऊर्ध्वोऽस्थात् (*ūrdhvo 'sthāt*), "rises up"). Of this kindled Agni the shining (रुशत् (*ruśat*), radiant) vigour (पाजः (*pājaḥ*), strength), which has the form of flame, has been seen (*adarśi*). Then the great god, so constituted, has been freed (निरमोचि (*niramoci*), "has become released") from the darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the accomplisher of the offering
+- अग्निः (*agniḥ*)—Agni
+- सुमनाः (*sumanāḥ*)—having a well-disposed mind
+- यजथाय (*yajathāya*)—to sacrifice
+- देवान् (*devān*)—addressed to the gods
+- अबोधि (*abodhi*)—awakens
+- प्रातः (*prātaḥ*)—at the time of dawn
+- ऊर्ध्वः अस्थात् (*ūrdhvaḥ asthāt*)—rises upward
+- समिद्धस्य (*samiddhasya*)—of this kindled Agni
+- रुशत् (*ruśat*)—attractive
+- पाजः (*pājaḥ*)—power
+- आदर्शि (*ādarśi*)—has become visible to all
+- महान् (*mahān*)—the great one
+- देवः (*devaḥ*)—of divine nature, Agni
+- तमसः (*tamasaḥ*)—from darkness
+- निरमोचि (*niramoci*)—has come out, freed
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the offering, with a well-disposed mind, awakens in order to sacrifice to the gods. At the time of dawn he rises upward. The attractive power of this kindled Agni has become visible to all. Agni, the great one and of divine nature, has come out freed from darkness.
+### Printed p. 713
+
+##### English translation (H. H. Wilson)
+The offerer of the oblation is awakened for the worship of the gods :
+favourably minded, Agni has risen up with the dawn : the radiant vigcur
+of the kindld (fire) is manifested ; the great deity has been liberated from
+the darkness.
+
+##### विशेषविषयगळु (Special Topics)
+
+होता अग्निः देवान् यजथाय अबोधि (*hotā agniḥ devān yajathāya abodhi*)—Agni, the accomplisher of the offering, awakens in the morning in order to invite the gods to the sacrifice and worship them. That is, the intended sense is that in the morning, for the sake of performing the sacrifice and of inviting the gods and offering them the oblation in the sacrificial fire, the sacrificers who perform the sacrifice, or the priests, kindle Agni.
+सुमनाः सन् ऊर्ध्वः अस्थात् (*sumanāḥ san ūrdhvaḥ asthāt*)—सोऽग्निः प्रातःकाले शोभनमनस्को यजमानानुग्रहबुद्धिः सन् ऊर्ध्व उत्तिष्ठति । (*so 'gniḥ prātaḥkāle śobhanamanasko yajamānānugrahabuddhiḥ san ūrdhva uttiṣṭhati |*). Agni, established in the sacrificial pit, with a good mind, thinking that he must favour the sacrificer who performs the sacrifice, spreads his shining flames upward and blazes.
+समिद्धस्य रुशत् पाजः आदर्शि (*samiddhasya ruśat pājaḥ ādarśi*)—अस्वाग्नेः रोचमानं बलं ज्वालालक्षणं सर्वैर्दृश्यते (*asvāgneḥ rocamānaṃ balaṃ jvālālakṣaṇaṃ sarvairdṛśyate*). The word पाजः (*pājaḥ*) is read among the names of strength. Here रुशत् पाजः (*ruśat pājaḥ*), shining strength, means the flame of fire burning very brilliantly. Agni, well kindled and blazing well with his shining flames, is visible to all.
+महान् देवः तमसः निरमोचि (*mahān devaḥ tamasaḥ niramoci*)—एवंभूतः महान् देव अंधकारात् निर्मुक्तोऽभूत् (*evaṃbhūtaḥ mahān deva aṃdhakārāt nirmukto 'bhūt*). The intended sense is that Agni, of such great glory, released from the darkness that had enveloped all around in the dusk of the morning, is shining.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदीं॑ ग॒णस्य॑ रश॒नामजी॑गः॒ शुचि॑रंक्ते॒ शुचि॑भि॒र्गोभि॑र॒ग्निः ।  
+> आद्दक्षि॑णा युज्यते वाज॒यंत्यु॑त्ता॒नामू॒र्ध्वर् अ॑धयज्जु॒  ॑
+> हूभिः ॥ ३ ॥
+
+> *yadīṃ gaṇasya raśanāmajīgaḥ śuciraṃkte śucibhirgobhiragniḥ |*  
+> *āddakṣiṇā yujyate vājayaṃtyuttānāmūrdhvar adhayajju*  
+> *hūbhiḥ ‖ 3 ‖*
+
+### Printed p. 714
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईं । गणस्य । रशनां । अजीगरिति । शुचिः । अंक्त्ये । शुचिभिः । गोभिः । अग्निः ।  
+> आत् । दक्षिणा । युज्यते । वाजयंती । उत्तानां । ऊर्ध्वः । अधयत् । जुहूभिः ॥
+
+> *yat | īṃ | gaṇasya | raśanāṃ | ajīgariti | śuciḥ | aṃktye | śucibhiḥ | gobhiḥ | agniḥ |*  
+> *āt | dakṣiṇā | yujyate | vājayaṃtī | uttānāṃ | ūrdhvaḥ | adhayat | juhūbhiḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदेमयमग्निर्गणस्य संघात्मकस्य जगतो रशनां रज्जुरिव व्यापारप्रतिबंधकं तमोऽजीगः । गिरति गृह्णाति वा । समिद्धो भवतीत्यर्थः । तदा शुचिर्दिपोऽग्निः शुचिभिर्गॊभिर्दिप्नैः रश्मिभिरंक्ते । व्यनक्ति विश्वं जगत् । आदनंतरमेव
+> दक्षिणा प्रवृद्धा वाजयंत्यन्नमिच्छंत्याज्यधारा युज्यते । युक्ता भवति । अथवा
+> दक्षिणा प्रव्यद्धाज्यधारा युज्यते । तां च धारामुत्तानामूर्ध्वतानामुपरि
+> विस्त्रतामूर्ध्व उन्नतः सन् जुहूभिरधयत् । पिबति ॥
+
+##### Gist of the bhāṣya
+
+When this Agni swallows or seizes (अजीगः (*ajīgaḥ*)) the girdle (रशनां (*raśanāṃ*)), which like a rope obstructs the activity, namely the darkness, of the world (गणस्य (*gaṇasya*)) which is of the nature of a collection, that is, when he becomes kindled, then the bright Agni (शुचिः (*śuciḥ*), "shining") makes the whole world manifest (अंक्ते (*aṃkte*)) with bright rays (गोभिः (*gobhiḥ*)). Immediately after that the dakṣiṇā, the increased stream of ghee that desires food (वाजयंती (*vājayaṃtī*)), is joined (युज्यते (*yujyate*), "becomes joined"). Or else the dakṣiṇā is the stream of ghee प्रव्यद्धाज्यधारा (*pravyaddhājyadhārā*)**NOTE**. And this stream (उत्तानां (*uttānāṃ*), spread out above), Agni, being raised up (ऊर्ध्वः (*ūrdhvaḥ*)), drinks (अधयत् (*adhayat*)) with the juhūs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ईं (*īṃ*)—Agni
+- गणस्य (*gaṇasya*)—of the world, which is of the nature of a collection
+- रशनां (*raśanāṃ*)—the darkness that obstructs like a rope
+- अजीगः (*ajīgaḥ*)—seizes so that it is in his own power (then)
+- शुचिः (*śuciḥ*)—shining
+- अग्निः (*agniḥ*)—Agni
+- शुचिभिः (*śucibhiḥ*)—with radiant
+- गोभिः (*gobhiḥ*)—rays
+- अंक्त्ये (*aṃktye*)—makes (the whole universe) shine
+- अत् (*at*)—immediately thereafter
+- दक्षिणा (*dakṣiṇā*)—the increased one
+- वाजयंती (*vājayaṃtī*)—the one desiring food, the stream of ghee
+- युज्यते (*yujyate*)—is offered
+- उत्तानां (*uttānāṃ*)—this stream of ghee offered upon himself
+- ऊर्ध्वः (*ūrdhvaḥ*)—facing upward
+- जुहूभिः (*juhūbhiḥ*)—from the juhū vessels
+- अधयत् (*adhayat*)—drinks
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni has seized the darkness, which obstructs the world that is of the nature of a collection, so that it is in his own power, then the shining Agni makes the whole universe shine with radiant rays. Immediately thereafter the increased stream of ghee that desires food is offered. Facing upward, he drinks this stream of ghee offered upon himself from the juhū vessels.
+
+##### English translation (H. H. Wilson)
+When he seized upon the (confining) girdle of the aggregated (world), then, bright-shining, he makes all manifest with brilliant rays : thereupon the precious food-desiring (oblation) is added (to the flame), and Agni soaring aloft, drinks it as it is (spread out) recumbent by the ladies.
+### Printed p. 715
+
+##### विशेषविषयगळु (Special Topics)
+
+यत् ईं गणस्य रशनां अजीगः (*yat īṃ gaṇasya raśanāṃ ajīgaḥ*) (then) शचिः अग्निः शुचिभिः गोभिः अंक्ते (*śaciḥ agniḥ śucibhiḥ gobhiḥ aṃkte*)—यदा आयमग्निः संघात्मकस्य जगतः रज्जुमिव व्यापारप्रतिबंधकं तमः गृह्णाति तदा दीप्तोऽयमग्निः दीप्तै रश्मिभिर्विश्वं जगत् व्यनक्ति (*yadā āyamagniḥ saṃghātmakasya jagataḥ rajjumiva vyāpārapratibaṃdhakaṃ tamaḥ gṛhṇāti tadā dīpto 'yamagniḥ dīptai raśmibhirviśvaṃ jagat vyanakti*). Darkness has spread and pervades all places, as if it had bound this whole world with a rope. Agni, with his shining rays (as one binds with a rope and keeps in one's power), by casting his light, has made it bright everywhere, and thus has seized such darkness.
+आत् दक्षिणा वाजयंती युज्यते (*āt dakṣiṇā vājayaṃtī yujyate*)—अनंतरमेव प्रवृद्धा अन्नमिच्छंत्याज्य धारा युक्ता भवति । (*anaṃtarameva pravṛddhā annamicchaṃtyājya dhārā yuktā bhavati |*). अथवा दक्षिणा प्रवृद्धाज्यधारा युज्यते (*athavā dakṣiṇā pravṛddhājyadhārā yujyate*). "Afterwards" means: when Agni is well kindled, the sacrificers and other people who desire food and other nourishment offer much ghee (clarified butter) into Agni.
+उत्तानां ऊध्वः जुहूभिः अधयत् (*uttānāṃ ūdhvaḥ juhūbhiḥ adhayat*)—तां च धारां ऊर्ध्वतानामुपरि विस्तृतां उन्नतः सन् जुहूभिः पिबति । (*tāṃ ca dhārāṃ ūrdhvatānāmupari vistṛtāṃ unnataḥ san juhūbhiḥ pibati |*). Juhū means the wooden ladles used for offering ghee into the fire. Thus Agni, stretching his flames upward, drinks the stream of ghee (clarified butter) that the priests and the sacrificer are offering into Agni with the wooden ladles called juhū (pouring it from a height). It is natural that the more ghee is offered into the fire, the higher the flame rises. That very matter is described here in another way: Agni spreads his flames upward and drinks the ghee.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निमच्छा॑ देवय॒तां मनां॑सि॒ चक्षूं॑शीव॒ सूर्ये॒ सं  ॑
+> चरंति ।  
+> यदीं॒ सुवा॑ते उ॒षसा॒ विरू॑पे श्वे॒तो वा॒जी जा॑यते॒ अग्रे॒  ॑
+> अह्नां ॥ ४ ॥
+
+> *agnimacchā devayatāṃ manāṃsi cakṣūṃśīva sūrye saṃ*  
+> *caraṃti |*  
+> *yadīṃ suvāte uṣasā virūpe śveto vājī jāyate agre*  
+> *ahnāṃ ‖ 4 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 709. pp. 704-709 (batch API)
+**Progress note:** Done through printed p. 715. pp. 710-715 (batch API)
