@@ -14498,6 +14498,208 @@ Those who live in villages and, placing faith in sacrificial action done for des
 अणुः पंथा विततः पुराणो मां स्पषोऽनुवित्तो मय्येव । तेन धीरा अपियंति ब्रह्मविदः स्वर्ग० लोकमित ऊर्ध्वं विमुक्ताः ॥ (*aṇuḥ paṃthā vitataḥ purāṇo māṃ spaṣo 'nuvitto mayyeva | tena dhīrā apiyaṃti brahmavidaḥ svarga0 lokamita ūrdhvaṃ vimuktāḥ ‖*)
 (Bṛ. U. 4-4-8)
 
+### Printed p. 430
+This subtle path is eternal and ancient. By this path the knowers of the Veda, becoming liberated, enter the world of heaven. And further,
+
+तस्मिञ्चुक्लमुत नीलमाहुः पिंगलं हरितं लोहितं च । एष पंथा ब्रह्मणा हानुवित्तस्तेनैति ब्रह्मवित्पुण्यकृत्यैजसश्च ॥ (*tasmiñcuklamuta nīlamāhuḥ piṃgalaṃ haritaṃ lohitaṃ ca | eṣa paṃthā brahmaṇā hānuvittastenaiti brahmavitpuṇyakṛtyaijasaśca ‖*) (Bṛ. U. 4-4-9)
+
+This path is famed for a mixture of colours and is highly attractive. White, blue, tawny, green and red all combine to make a delightful path. The description of its nature says that the knower of Brahman and the one who does meritorious deeds travel by this radiant path alone.
+
+Another point must be noted in this context. Earlier, in explaining the phrase तिस्रो महीरुपरास्तस्थुः (*tisro mahīruparāstasthuḥ*) in the second Ṛk of Sūkta 56 of this same chapter, it was explained that the Saṃhitā passages themselves make known that there is no world other than the world of Āditya, which is the highest and best of the worlds. But in the Chāndogya, here cited, the description runs: the world of Āditya, beyond it the world of the Moon, and beyond that the world of lightning. The Kauṣītaki Upaniṣad has one more distinctive feature:
+
+स एवं देवयानं पंथानमापद्याग्निलोकमागच्छति स वायुलोकं स आदित्यलोकं स वरुणलोकं स इंद्रलोकं स प्रजापतिलोकं स ब्रह्मलोकं ॥ (*sa evaṃ devayānaṃ paṃthānamāpadyāgnilokamāgacchati sa vāyulokaṃ sa ādityalokaṃ sa varuṇalokaṃ sa iṃdralokaṃ sa prajāpatilokaṃ sa brahmalokaṃ ‖*) (Kauṣītaki Upaniṣad 1-3)
+
+The doer of good, having thus entered the path of the gods, comes from there in order to the world of Vāyu, then the world of Āditya, the world of Varuṇa, the world of Indra, the world of Prajāpati, and finally the world of Brahman; so he reaches the world of Brahman, the supreme principle. No scriptural basis can be named for this kind of division. There are many differing points between it and the description of the worlds in the Ṛk Saṃhitā.
+
+सूर्यद्वारेण ते विरजाः प्रयांति यत्रामृतः स पुरुषो ह्यव्ययात्मा । (*sūryadvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ sa puruṣo hyavyayātmā |*) (Mu. U. 1-1)
+
+This description of the door of the sun agrees with the description of the Ṛk Saṃhitā. The path called the Gandharva path, spoken of in the Ṛk अग्निर्गांधर्विं पथ्यां (*agnirgāṃdharviṃ pathyāṃ*) (10-80-6), is to be understood here as the path of the gods, the Devayāna, on which the Aśvins travel. Among the worlds indicated in the present Ṛk, this path of the Devayāna is only one part. Therefore
+
+### Printed p. 431
+the other, still more extensive worlds are also indicated by पुरू चित् रजांसि (*purū cit rajāṃsi*). What the nature of those worlds may be according to the Ṛk Saṃhitā has been stated earlier.
+
+रजांसि (*rajāṃsi*)—Uses of this word in many senses, such as the delightful heaven, light, water and the atmosphere, were stated earlier (Ṛgveda Saṃhitā, part 2, pp. 57-59).
+
+आंगूषः (*āṃgūṣaḥ*)—आंगूषस्तोम आघोषः (*āṃgūṣastoma āghoṣaḥ*) (Ni. 5-11): a hymn to be recited aloud is called āṅgūṣa.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रा॒णमोकः॑ स॒ख्यं शि॒वं वां॑ यु॒वोर्न॑रा॒ द्रवि॑णं  ॒॑
+> जह्नाव्यां ।  
+> पुनः॑ कृण्वा॒नाः स॒ख्या शि॒वानि॒ मध्वा॑ मदेम स॒ह नू स॑मा॒नाः॥
+
+> *purāṇamokaḥ sakhyaṃ śivaṃ vāṃ yuvornarā draviṇaṃ*  
+> *jahnāvyāṃ |*  
+> *punaḥ kṛṇvānāḥ sakhyā śivāni madhvā madema saha nū samānāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुराणं । ओकः । सख्यं । शिवं । वां । युवोः । नरा । द्रविणं । जह्नाव्यां ।  
+> पुनरिति । कृण्वानाः । सख्या । शिवानि । मध्वा । मदेम । सह । नु । समानाः ॥ ६ ॥
+
+> *purāṇaṃ | okaḥ | sakhyaṃ | śivaṃ | vāṃ | yuvoḥ | narā | draviṇaṃ | jahnāvyāṃ |*  
+> *punariti | kṛṇvānāḥ | sakhyā | śivāni | madhvā | madema | saha | nu | samānāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्तोर्यामेतिरिक्तोर्थ्येच्छावाकशस्त्रे पुराणमोक इति चतस्रो
+> विकल्पेन याज्याः । सूत्रितं च । यदि नाधीयात्पुराणमोकः सख्यं शिवं वामिति
+> चतस्रो याज्याः ! आ. ९-११ । इति ॥
+> हे अश्विनौ वां युवयोः पुराणं पुरातनं सख्यमोकः सेव्यं शिवं कल्याणकरं भवति । किंच हे नरा नरावस्मदीय कर्मणो नेतारौ युवोर्युवयोर्द्रविणं धनं जह्नाव्यां जह्नु कुलजायां भवति। शिवानि सुखकराणि युवयोः सख्यानि
+> पुनः कृण्वानाः कुर्वंतः समाना हविष्प्रदानेनोपकारकत्वान्मित्रभूता एकीभूताः
+> संतो वयं मध्वा मदकरेण सोमेन युवां सह युगपत् नु क्षिप्रं मदेम ।
+> हर्षयेम ॥ सख्यं । सख्युर्भाव इत्यर्थे सख्युर्य इति यत्पत्ययः । जह्नाव्यां ।
+
+##### Gist of the bhāṣya
+
+In the Aptoryāma sacrifice, in the Acchāvāka's śastra of the atirikta-ukthya, the four Ṛks beginning पुराणमोकः (*purāṇamokaḥ*) are alternatively yājyā verses. It is also given in a sūtra: यदि नाधीयात्पुराणमोकः सख्यं शिवं वामिति चतस्रो याज्याः (*yadi nādhīyātpurāṇamokaḥ sakhyaṃ śivaṃ vāmiti catasro yājyāḥ*) (Ā. 9-11).
+O Aśvins, your ancient friendship is an abode, to be resorted to, and auspicious, bringing welfare. And further, O leaders, guides of our rite, your wealth is in the woman of Jahnu's family (Jahnāvī). Renewing your friendly bonds, which bring happiness, we, being alike, made friends and one through the benefit of offering oblations, shall delight you both together, quickly, with the intoxicating Soma. [The block goes on with the grammar of सख्यं (*sakhyaṃ*) and the beginning of जह्नाव्यां (*jahnāvyāṃ*); it is omitted here.]
+
+### Printed p. 432
+
+> जह्नोः संबंधिनीत्यर्थे तस्येदमित्यण् । ओर्गुणः । ह्रस्वदीर्घयोर्व्यत्ययः ।
+> मदेनु । मदी हर्ष इत्यस्याशीर्लिज् लिज्याशिष्यज् प्रत्ययः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+जह्नाव्यां (*jahnāvyāṃ*) means "belonging to Jahnu", and मदेम (*madema*) is from the root मदी (*madī*) in the sense of rejoicing. The rest is grammatical and is left to the Grammar section.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) वां (*vāṃ*)—your
+- पुराणं (*purāṇaṃ*)—ancient
+- सख्यं (*sakhyaṃ*)—friendship
+- ओकः (*okaḥ*)—worthy to be resorted to
+- शिवं (*śivaṃ*)—bringing welfare
+- नरा (*narā*)—leaders of the rite
+- युवोः (*yuvoḥ*)—your
+- द्रविणं (*draviṇaṃ*)—wealth
+- जह्नाव्यां (*jahnāvyāṃ*)—is filled in the Jahnu family
+- शिवानि (*śivāni*)—bringing happiness
+- सख्या (*sakhyā*)—your friendship
+- पुनः (*punaḥ*)—again
+- कृष्णानाः (*kṛṣṇānāḥ*)—doing
+- समानाः (*samānāḥ*)—we who are one with you (through friendship)
+- मध्वा (*madhvā*)—with the sweet Soma juice
+- सह (*saha*)—together
+- नु (*nu*)—quickly
+- मदेम (*madema*)—we shall gladden (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, your ancient friendship is worthy to be resorted to and brings welfare. Your wealth, O leaders of the rite, is filled in the Jahnu family. We, who renew your happiness-bringing friendship and are one with you, shall quickly delight you both together with the sweet Soma juice.
+
+##### English translation (H. H. Wilson)
+Your ancient friendship is desirable and auspicious; your wealth, leaders (of rites), is in the family of Jahnu : renewing that auspicious friend- ship, may we, your associates, delight you with the sweet (Soma juice).
+
+##### विशेषविषयगळु (Special Topics)
+
+These four Ṛks of this sūkta beginning पुराणमोकः (*purāṇamokaḥ*) (Ṛks 6, 7, 8, 9 of this sūkta), at the time of reciting the atirikta-ukthya mantras of the sacrifice called Aptoryāma, when the priest called Acchāvāka recites the śastra mantras, may alternatively be recited as yājyā mantras. This is set out in the Āśvalāyana Śrauta Sūtra, in the sūtra यदि नाधीयात्पुराणमोकः सख्यं शिवं वामिति चतस्रो याज्याः (*yadi nādhīyātpurāṇamokaḥ sakhyaṃ śivaṃ vāmiti catasro yājyāḥ*) (Ā. 9-11).
+ओकः (*okaḥ*)—सेव्यं (*sevyaṃ*): worthy of being resorted to. This is a word describing the friendship of the Aśvins. Ordinarily the word ओकः (*okaḥ*) means a comfortable dwelling-place. The Nirukta says: ओक इति निवासनामोच्यते । (*oka iti nivāsanāmocyate |*) (Ni. 3-3). The author of the Nirukta explains with an example that this word also indicates the extreme affection attached to that dwelling. (Ni. 3-3)
+
+### Printed p. 433
+अथ स ओकः पुनरेव तदेति यत आगतो भवति । (*atha sa okaḥ punareva tadeti yata āgato bhavati |*) Because an adopted son feels attachment to his own home and returns there again, ओकः (*okaḥ*) is a synonym for one's own home.
+The Nirukta author cites the Ṛk Saṃhitā passage
+
+अधा चिदोकः पुनरित्स एत्या नो वाज्यभीषाळेतु नव्यः । (*adhā cidokaḥ punaritsa etyā no vājyabhīṣāḷetu navyaḥ |*) (Ṛ. Saṃ. 7-4-8)
+
+and shows that the above meaning is made plain in this passage. The sense is that the comfort found in one's own home is found also in friendship with the Aśvins. The epithet शिव (*śiva*) is there to show that this same friendship is also auspicious.
+जह्नाव्यां (*jahnāvyāṃ*)—जह्नु कुलजायां (*jahnu kulajāyāṃ*). The sense is that all the wealth of the Aśvins is filled in the Jahnu family. This word, indicating a lineage, is used in two places in the Ṛk Saṃhitā. Earlier, in
+
+आ जह्नावीं समनसोप वाजैस्त्रिरहो भागं दधतीमयातं । (*ā jahnāvīṃ samanasopa vājaistriraho bhāgaṃ dadhatīmayātaṃ |*) (Ṛ. Saṃ. 1-116-19)
+
+too the prayer is addressed to the Aśvins: it prays that the Aśvins favour the people born in the Jahnu family. In the present Ṛk also Viśvāmitra, born in the Jahnu family, praises the Aśvins. The power of this same Viśvāmitra is described in many places. The Pañcaviṃśa Brāhmaṇa praises him: Viśvāmitra of the Jahnu line, by his own strength and by performing the sattra called Jātūrātra and so increasing his power, helped the Jāhnavas who were fighting the Vṛjīvants and won the kingdom for them. (Pa. Brā. 21-12) **NOTE**
+
+अधीयत देवरातो रिक्षयोरुभयोर्यषिः । जह्नूनां चाधिपत्ये दैवे वेदे च गाथिनां ॥ (*adhīyata devarāto rikṣayorubhayoryaṣiḥ | jahnūnāṃ cādhipatye daive vede ca gāthināṃ ‖*) (Ai. Brā. 33-18)
+
+The Aitareya Brāhmaṇa names this lineage thus: Śunaḥśepa, famed as Devarāta, became lord of the kingdom of the Jahnus and the Gādhis. It is the view of scholars that these names cannot denote different lineages. Some scholars hold that the Gādhi line also belongs to, and is included in, the Jāhnavī descent; this may be called a sound view. Here it is natural that Viśvāmitra, born in the Jahnu line, should praise the power of his own line.
+
+### Printed p. 434
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना वा॒युना॑ यु॒वं सु॑दक्षा नि॒युद्धि॑श्च स॒जोष॑सा  
+> युवाना ।  
+> नास॑त्या ति॒रोअ॑ह्न्यं जुषा॒णा सोमं॑ पिबतम॒स्रिधा॑  
+> सुदानू ॥ ७ ॥
+
+> *aśvinā vāyunā yuvaṃ sudakṣā niyuddhiśca sajoṣasā*  
+> *yuvānā |*  
+> *nāsatyā tiroahnyaṃ juṣāṇā somaṃ pibatamasridhā*  
+> *sudānū ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । वायुना । युवं । सुदक्षा । नियुद्धिः । च । सजोषसा । युवाना ।  
+> नासत्या । तिरोअह्न्यं । जुषाणा । सोमं । पिबतं । अस्त्रिधा । सुदानू इति  
+> सुदानू ॥ ७ ॥
+
+> *aśvinā | vāyunā | yuvaṃ | sudakṣā | niyuddhiḥ | ca | sajoṣasā | yuvānā |*  
+> *nāsatyā | tiroahnyaṃ | juṣāṇā | somaṃ | pibataṃ | astridhā | sudānū iti*  
+> *sudānū ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुदक्षा शोभनसामर्थ्योपेत् युवाना नित्यतरुण् नासत्या । न विद्यतेऽसत्यं ययोस्त् । सुदानू शोभनफलस्य दातारौ हे अश्विनौ वायुना नियुद्धिरश्चैश्च सजोषसा संगतौ जुषाणा सोमविषयप्रीतियुक्तावस्त्रिधानुपक्षीणौ युवं
+> युवां तिरोअह्न्यमहि तिरोहिते हूयमानमिमं सोमं पिबतं ॥ नियुद्धिः ।
+> यौतेः क्विप् । तिरोअह्न्यं । अह्नि भवमह्न्यं । भवे छंदसीति यत् । तिरो भूतमह्न्यं यस्मिन्काले स तिरोअह्न्यः । पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, सुदक्षा (*sudakṣā*) endowed with fine capacity, युवाना (*yuvānā*) ever young, नासत्या (*nāsatyā*) those in whom there is no untruth (न विद्यतेऽसत्यं (*na vidyate 'satyaṃ*) yayoḥ), सुदानू (*sudānū*) givers of good reward: united with Vāyu and with the Niyut horses, सजोषसा (*sajoṣasā*) in company, जुषाणा (*juṣāṇā*) joyful about the Soma, अस्त्रिधा (*astridhā*) undiminished, you both drink this Soma that is offered at the तिरोअह्न्यं (*tiroahnyaṃ*) time, when the day has passed. [Grammar of नियुद्धिः (*niyuddhiḥ*) and तिरोअह्न्यं (*tiroahnyaṃ*) follows in the block and is left to the Grammar section.] **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदक्षा (*sudakṣā*)—endowed with excellent capacity
+- युवाना (*yuvānā*)—ever young
+- नासत्या (*nāsatyā*)—of true nature
+- सुदानू (*sudānū*)—excellent givers, O Aśvins
+- वायुना (*vāyunā*)—with Vāyu
+- नियुद्धिः च (*niyuddhiḥ ca*)—and with their horses
+- सजोषसा (*sajoṣasā*)—united
+- आस्प्रिधा (*āspridhā*)—undiminished
+- युवं (*yuvaṃ*)—you two
+- तिरोअह्न्यं (*tiroahnyaṃ*)—pressed at the end of the day
+- सोमं (*somaṃ*)—this Soma juice
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, endowed with excellent capacity, ever young, of true nature, excellent givers: you two, united with Vāyu and with the horses, and undiminished, drink this Soma juice pressed at the end of the day.
+
+### Printed p. 435
+
+##### English translation (H. H. Wilson)
+Ashwins, endowed with power, ever young, in whom is no untruth, unwearied, munificent, accepters (of libations), drink with Vayu and your steeds, rejoicing together, of the Soma libation offered at the close of day.
+
+##### विशेषविषयगळु (Special Topics)
+
+नासत्या (*nāsatyā*)—The authors of the Nirukta gave an etymology of this word, and the meaning was explained earlier. The view of Aurṇavābha, who says it means "free from untruth", was also given. But according to some others another etymology is possible: नाक-सत्या (*nāka-satyā*), that is, those who are in heaven. Just as the word भास्कर (*bhāskara*), meaning light, becomes बाकुर (*bākura*) (Ṛ. Saṃ. 9-1-8), and the word कर्मकार (*karmakāra*) becomes कर्मार (*karmāra*) (10-72-2), so नाक-सत्या (*nāka-satyā*) may become नासत्या (*nāsatyā*). Moreover, this view points out that the etymology agrees with the description of the Aśvins as sons of the heavenly world in Ṛks such as दिवो नपाताश्विना हुवे वां (*divo napātāśvinā huve vāṃ*) (Ṛ. Saṃ. 10-61-4).
+अस्त्रिधा (*astridhā*)—The root स्त्रिध् (*stridh*) is used in the two senses "to err" and "to perish". Hence अस्त्रिधा (*astridhā*) may mean "always going the right way", or "free from destruction". As said in many places, such as उदूहथुरणसो अस्त्रिधानैः (*udūhathuraṇaso astridhānaiḥ*), it is proper to give the meaning "free from destruction" in the present Ṛk also.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना॒ परि॑ वा॒मिषः॑ पुरू॒चीरी॒युर्गी॒र्भिर्यत॑माना॒  ॑
+> अमृध्राः ।  
+> रथो॑ ह वामृत॒जा अद्रि॑जूतः॒ परि॒ द्यावा॑पृथि॒वी या॑ति स॒द्यः॥
+
+> *aśvinā pari vāmiṣaḥ purūcīrīyurgīrbhiryatamānā*  
+> *amṛdhrāḥ |*  
+> *ratho ha vāmṛtajā adrijūtaḥ pari dyāvāpṛthivī yāti sadyaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । परि । वां । इषः । पुरूचीः । ईयुः । गीःभिः । यतमानाः । अमृध्राः ।  
+> रथः । ह । वां । ऋतजाः । अद्रिजूतः । परि । द्यावापृथिवी इति । याति । सद्यः ॥८॥
+
+> *aśvinā | pari | vāṃ | iṣaḥ | purūcīḥ | īyuḥ | gīḥbhiḥ | yatamānāḥ | amṛdhrāḥ |*  
+> *rathaḥ | ha | vāṃ | ṛtajāḥ | adrijūtaḥ | pari | dyāvāpṛthivī iti | yāti | sadyaḥ ‖8‖*
+
 ---
 
-**Progress note:** Done through printed p. 429. pp. 424-429 (batch API)
+**Progress note:** Done through printed p. 435. pp. 430-435 (batch API)
