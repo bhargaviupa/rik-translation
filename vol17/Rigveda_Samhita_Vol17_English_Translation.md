@@ -18460,6 +18460,101 @@ Anuṣṭubh 24+4+4 = 32
 Bṛhatī 24+4+4+4 = 36
 Paṅkti 24+4+4+4+4+4 = 40 **NOTE**
 
+### Printed p. 586
+
+Triṣṭup: 24+4+4+4+4+4 = 44.
+Jagatī: 24+4+4+4+4+4+4 = 48.
+
+The purport is that, taking the Gāyatrī as the base, the Uṣṇik and the rest are formed by adding four syllables each time. Moreover, Agni is the chief of all sacrifices, and the Gāyatrī metre is a synonym of Agni, so it is the head of all (the metres).
+
+. गायत्रं पुरस्ताद्गायति । अग्निर्वैगायत्रमग्निमेवास्यैतच्छिरः करोत्यथो शिरः ॥ ( (*. gāyatraṃ purastādgāyati | agnirvaigāyatramagnimevāsyaitacchiraḥ karotyatho śiraḥ ‖ (*) (Śa. Brā. 9-1-2-35)
+
+Thus its primacy is praised.
+
+शिरो वै यज्ञ स्यातिथ्यं सवाक्षरा वै गायत्री अष्टौ तानि यान्यन्वाह प्रणवो नवमः पूर्वार्धो वै यज्ञस्य गायत्री ॥ (*śiro vai yajña syātithyaṃ savākṣarā vai gāyatrī aṣṭau tāni yānyanvāha praṇavo navamaḥ pūrvārdho vai yajñasya gāyatrī ‖*) (Śa. Brā. 3-4-1-15)
+
+The Gāyatrī consists of nine syllables. The praṇava is one; the other eight belong to the Gāyatrī that is its root form. The Gāyatrī is the chief of the whole sacrifice. Why? Because:
+
+यो गायत्रीं हरिणीं ।.... यजमानग्ग् स्वर्गं लोकमभिवहंतीं । (*yo gāyatrīṃ hariṇīṃ |.... yajamānagg svargaṃ lokamabhivahaṃtīṃ |*) (Śa. Brā. 11-4-1-8)
+
+Such a meritorious Gāyatrī is praised as carrying the sacrificer to heaven. Such is the power of the Gāyatrī.
+
+**The Gāyatrī pervades all the savanas**
+
+Śaṅkarācārya has shown a third point to prove that the Gāyatrī plays the most important part in the sacrifice: सर्वसवनव्यापकत्वाच्छ यज्ञस्य प्राधान्यं गायत्र्याः (*sarvasavanavyāpakatvāccha yajñasya prādhānyaṃ gāyatryāḥ*). In these three rites too, the Prātaḥsavana, the Mādhyandinasavana and the Tṛtīyasavana, the help of the Gāyatrī is absolutely necessary for performing the prescribed work; this is known from Brāhmaṇa and other passages.
+
+गायत्री वै प्रातःसवनं वहति । त्रिष्टुप्माध्यंदिनग्ंसवनं जगतीतृतीयसवनं तद्वा अनेकाकिन्येव त्रिष्टुप्माध्यंदिनग्ंसवनं वहति गायत्रा च बृहत्या चानेकाकिनी जगतीतृतीयसवनं गायत्रोष्ठिहककुभ्यामनुष्टुभा । गायत्रैवैकाकिनी प्रातःसवनं वहति । (*gāyatrī vai prātaḥsavanaṃ vahati | triṣṭupmādhyaṃdinagṃsavanaṃ jagatītṛtīyasavanaṃ tadvā anekākinyeva triṣṭupmādhyaṃdinagṃsavanaṃ vahati gāyatrā ca bṛhatyā cānekākinī jagatītṛtīyasavanaṃ gāyatroṣṭhihakakubhyāmanuṣṭubhā | gāyatraivaikākinī prātaḥsavanaṃ vahati |*) (Śa. Brā. 4-2-4-10)
+
+The Gāyatrī carries the Prātaḥsavana, the Triṣṭup the Mādhyandinasavana, and the Jagatī the Tṛtīyasavana. But the Triṣṭup cannot carry the Mādhyandinasavana without the help of the Gāyatrī. Only when the Gāyatrī, joined with the Bṛhatī,
+
+### Printed p. 587
+
+helps the Triṣṭup can it do so. In the same way the Jagatī too cannot carry the Tṛtīyasavana without the help of the Gāyatrī; it can do so only with the help of the Gāyatrī joined with the Kakubh and the Uṣṇik. But the Gāyatrī alone can carry the Prātaḥsavana without seeking the help of any other metre. Because the Gāyatrī pervades all the savanas, it has primacy in the sacrifice.
+
+The question may be asked: although the Triṣṭup has eleven syllables, the Jagatī twelve and the Gāyatrī only eight, why does the Gāyatrī have this greatness? The answer: it was only through the power of the Gāyatrī that the Triṣṭup and the Jagatī came to have more syllables. This was shown above by citing passages of the Aitareya Brāhmaṇa. That the pervasion of all the savanas also came to the Gāyatrī through that distinction is shown in the Śatapatha too, as follows. Since the account differs somewhat in order, these passages are also cited.
+
+चतुरक्षराणि ह वा आग्रे छंदाग्स्यासुः । ततो जगती सोममच्छापतत्सा श्रीण्यक्षराणि हित्वाजगाम ततस्त्रिष्टुप्सोममच्छापतत्सैकमक्षरग्ं हित्वाजगाम ततो गायत्री सोममच्छापतत्सैतानि चाक्षराणि हरदित्यागच्छत्सोमं च ततोऽष्टाक्षरा गायत्र्यभवत्तस्मादाहुरष्टाक्षरा गायत्री । (श. ब्रा. ४-३-२-७) पूर्वदल्लि छंदस्सुगळिगॆल्ला नाल्कु अक्षरगळु मात्रविद्दवु. सोमाहरणक्कागि जगतियु हारिदाग बळलि मूरु अक्षरगळन्नु दारियल्लि बिट्टु ऒंदक्षरदॊंदिगॆ मात्र हिंतिरुगितु. नंतर त्रिष्टुप्पु हारि ऒंदक्षरवन्नु बिट्टु हिंतुरिगितु. गायत्रियु स्वशक्तियिंद सोमवन्नु तरुवुदर जॊतॆगॆ अल्लि बिट्टु बंदिद्द नाल्कक्षरगळन्नू हिंदक्कॆ तंदितु. आदुदरिंद गायत्रियु अष्टाक्षरात्मक वागि अष्टाक्षरा गायत्री (*caturakṣarāṇi ha vā āgre chaṃdāgsyāsuḥ | tato jagatī somamacchāpatatsā śrīṇyakṣarāṇi hitvājagāma tatastriṣṭupsomamacchāpatatsaikamakṣaragṃ hitvājagāma tato gāyatrī somamacchāpatatsaitāni cākṣarāṇi haradityāgacchatsomaṃ ca tato 'ṣṭākṣarā gāyatryabhavattasmādāhuraṣṭākṣarā gāyatrī | (śa. brā. 4-3-2-7) pūrvadalli chaṃdassugaḷigèllā nālku akṣaragaḷu mātraviddavu. somāharaṇakkāgi jagatiyu hāridāga baḷali mūru akṣaragaḷannu dāriyalli biṭṭu òṃdakṣaradòṃdigè mātra hiṃtirugitu. naṃtara triṣṭuppu hāri òṃdakṣaravannu biṭṭu hiṃturigitu. gāyatriyu svaśaktiyiṃda somavannu taruvudara jòtègè alli biṭṭu baṃdidda nālkakṣaragaḷannū hiṃdakkè taṃditu. ādudariṃda gāyatriyu aṣṭākṣarātmaka vāgi aṣṭākṣarā gāyatrī*) (Śa. Brā. 4-3-2-7)
+
+In the beginning all the metres had only four syllables. When the Jagatī flew to fetch the Soma, it grew tired, left three syllables on the way, and returned with only one. Then the Triṣṭup flew, left one syllable, and returned. The Gāyatrī, by its own power, brought the Soma and also brought back the four syllables left behind there. Therefore the Gāyatrī, being of eight syllables, became famous as "the eight-syllabled Gāyatrī".
+
+तया प्रातःसवनमतन्वत । तस्माद्गायत्रं प्रातःसवनमतन्वत ताग्ंह त्रिष्टुबुवाचोप त्वाहमायानि त्रिभिरक्षरैरुप मा ह्वयस्व मा मा यज्ञादंतर्गा इति तथेति तामुपाह्वयत तत एकादशाक्षरा त्रिष्टुबभवत्तस्मादाहुस्त्रैष्णुभं माध्यंदिनग्ं सवनमिति ॥ (*tayā prātaḥsavanamatanvata | tasmādgāyatraṃ prātaḥsavanamatanvata tāgṃha triṣṭubuvācopa tvāhamāyāni tribhirakṣarairupa mā hvayasva mā mā yajñādaṃtargā iti tatheti tāmupāhvayata tata ekādaśākṣarā triṣṭubabhavattasmādāhustraiṣṇubhaṃ mādhyaṃdinagṃ savanamiti ‖*) (Śa. Brā. 4-3-2-8)
+
+They performed the Prātaḥsavana with the Gāyatrī of such distinction. Therefore the Prātaḥsavana belongs to the Gāyatrī. With the help of the same Gāyatrī they began to perform the Mādhyandinasavana also. Then the Triṣṭup came and begged the Gāyatrī: "I too shall take part with the three syllables left to me; do not leave me without a share in the sacrifice." The Gāyatrī agreed and gave it room too. Therefore the Triṣṭup metre, united with the Gāyatrī, came to have eleven syllables.
+
+### Printed p. 588
+
+तय्यैव तृतीयसवनमतन्वत । ताग्ं ह जगत्युवाचोप त्वाहमायान्येकेनाक्षरेणोप मा ह्वयस्व मा मा यज्ञादंतर्गा इति तथेति तामुपाह्वयत ततो द्वादशाक्षरा जगत्यभवत्तस्मादाहुर्जागतं तृतीयसवनमिति । (*tayyaiva tṛtīyasavanamatanvata | tāgṃ ha jagatyuvācopa tvāhamāyānyekenākṣareṇopa mā hvayasva mā mā yajñādaṃtargā iti tatheti tāmupāhvayata tato dvādaśākṣarā jagatyabhavattasmādāhurjāgataṃ tṛtīyasavanamiti |*) (Śa. Brā. 4-3-2-9)
+
+With the same Gāyatrī they began to perform the Tṛtīyasavana also. Then the Jagatī approached the Gāyatrī and said: "Do not leave me without a share in the sacrifice. I too shall join you with my one remaining syllable." The Gāyatrī agreed. The Jagatī, joined with the eight syllables of the Gāyatrī and again with those three syllables with which the Gāyatrī had joined the Triṣṭup, came to have twelve syllables. Therefore the Tṛtīyasavana is famed as belonging to the Jagatī.
+
+तदाहुः । गायत्राणि वै सर्वाणि सवनानि गायत्रि ह्येवैतदुपस्पजमानैदिति तस्मात्सग्ंसिद्धं प्रातःसवने प्रतिगृह्णीयात् सग्ंसिद्धा हि गायत्रागच्छत् ॥ (*tadāhuḥ | gāyatrāṇi vai sarvāṇi savanāni gāyatri hyevaitadupaspajamānaiditi tasmātsagṃsiddhaṃ prātaḥsavane pratigṛhṇīyāt sagṃsiddhā hi gāyatrāgacchat ‖*) (Śa. Brā. 4-3-2-10)
+
+Because of this pervasion of all the savanas, all the savanas belong to the Gāyatrī. The sacrificers know that only the Gāyatrī kept growing. Since the Gāyatrī, unlike the other metres, suffered no deficiency and was not incomplete, it is praised, and the mantra signifying its victory must be recited in full. If one such mantra is taken as an example and examined, it becomes clear that it contains both the pre-eminence of the Gāyatrī metre and a prayer addressed to the deity Savitṛ, who is designated a Gandharva.
+
+असौ वा आदित्यो देवः सविता.... ....दिव्यो गंधर्वः केतपूः केतं नः पुनात्वित्यसौ वा आदित्यो दिव्यो गंधर्वः । इमं नो देव सवितर्यज्ञं प्रणयेति । असौ वा आदित्यो देवः सविता यदु वा एष यज्जियं कर्म प्रणयति तदनार्तग्ग् स्वस्तु दृचमश्नुते देवाव्यमिति यो देवानवदित्येतत्सखविदग्ग् सत्राजितं धनजितग्ग् स्वर्जितमिति य एतत्सर्वं विंदादित्ये तदृचेत्यृचा स्तॊमगां समर्धय गायत्रेण रथंतरं बृहद्दायत्रवर्तनीति सामानि स्वाहेति..... ॥ तान्येतान्यष्ट् सावित्राणि । अष्टाक्षरा गायत्री गायत्रोऽग्निर्यावानग्निर्यावत्यस्य मात्रा ॥ (*asau vā ādityo devaḥ savitā.... ....divyo gaṃdharvaḥ ketapūḥ ketaṃ naḥ punātvityasau vā ādityo divyo gaṃdharvaḥ | imaṃ no deva savitaryajñaṃ praṇayeti | asau vā ādityo devaḥ savitā yadu vā eṣa yajjiyaṃ karma praṇayati tadanārtagg svastu dṛcamaśnute devāvyamiti yo devānavadityetatsakhavidagg satrājitaṃ dhanajitagg svarjitamiti ya etatsarvaṃ viṃdāditye tadṛcetyṛcā stòmagāṃ samardhaya gāyatreṇa rathaṃtaraṃ bṛhaddāyatravartanīti sāmāni svāheti..... ‖ tānyetānyaṣṭ sāvitrāṇi | aṣṭākṣarā gāyatrī gāyatro 'gniryāvānagniryāvatyasya mātrā ‖*) (Śa. Brā. 6-3-1-19, 21)
+
+The Vājasaneyi Saṃhitā sentence (11-7), "O god Savitṛ, urge on our sacrifice quickly, so that it is accomplished without obstacle," is to be recited. The god Savitṛ is Āditya. All the sacrificial share belongs to him. The prayer is: "May Savitṛ, the purifier of the mind and the Gandharva of the atmosphere, who is Āditya, cause the sacrifice to be accomplished completely." If the Rathantara sāman is joined with the Gāyatrī metre and the Bṛhat sāman with the Gāyatrī measure, and an efficacious mantra is composed and recited, it always secures prosperity and heaven. The mantras recited in prayer to Savitṛ are eight in number; since the Gāyatrī consists of eight syllables, the number of these mantras is also eight. Since Agni, the chief of the whole sacrifice, is Gāyatra, Agni's glory is the glory of the Gāyatrī; thus the primacy of the Gāyatrī at the time of sacrifice is declared.
+
+### Printed p. 589
+
+———
+
+11. How can the Gāyatrī, chief in ritual action, be the means to the knowledge of Brahman? Objection and reply.
+
+To make known the primacy of the Gāyatrī, Śaṅkarācārya said that it plays the chief part by three points, the Gāyatrī being the supreme means of knowing the Supreme Brahman, who is beyond ordinary perception. But here another doubt arises. The scriptural descriptions may be true that the Gāyatrī is the support of all the metres that form part of the sacrifice, and that all other metres grew by resting on it. But there is room for the question: merely because it is chief in the sacrifice, which is predominantly ritual action, how can the Gāyatrī also be a means to knowledge of Brahman? Yet the Śrutis themselves declare that the Gāyatrī is of the nature of Brahman, and that knowledge of Brahman is not possible by any means other than Brahman. All the metres useful to the sacrifice, which reflects the principle of Brahman, are indispensable to it; so what is this greatness of the Gāyatrī alone? The answer is that all the other metres cause only impermanent wealth, whereas the Gāyatrī alone can bestow wealth that is eternal and of the nature of Brahman. The greatness of the Gāyatrī is described in the Aitareya Brāhmaṇa thus: एतद्द वै यजमानस्माध्यात्मानमिति.... (*etadda vai yajamānasmādhyātmānamiti....*). And as to which metre should be resorted to at the time of reciting the Praüga-śastra:
+
+गायत्रं प्रउगं कुर्यादित्याहुस्तेजो वै ब्रह्मवर्चसं गायत्री तेजस्वी ब्रह्मवर्चसी भवतीति । औष्ठिहं प्रउगं कुर्यादित्याहुरायुर्वा उष्णिगायुष्मान्भवतीति । आनुष्टुभं प्रउगं कुर्यादित्याहुः क्षत्रं ना अनुष्टुप्क्षत्रस्याप्ता इति । बार्हतं प्रउगं कुर्यादित्याहुः श्रीर्वै बृहती श्री- मान्यवतीति । पाङ्कं प्रउगं कुर्यादित्याहुरन्नं वै पंक्तिरन्नवान्भवतीति । त्रैष्टुभं प्रउगं कुर्याद्वीर्यं वै त्रिष्टुब्बीर्यवान्भवतीति । जागतं प्रउगं कुर्यादित्याहुर्जागता वै पशवः पशुमान्भवतीति । तदु गायत्रमेव कुर्यादब्रह्म वै गायत्री ब्रह्मैतदहर्ब्रह्मणैव तद्ब्रह्म प्रतिपद्यते ॥ (*gāyatraṃ praugaṃ kuryādityāhustejo vai brahmavarcasaṃ gāyatrī tejasvī brahmavarcasī bhavatīti | auṣṭhihaṃ praugaṃ kuryādityāhurāyurvā uṣṇigāyuṣmānbhavatīti | ānuṣṭubhaṃ praugaṃ kuryādityāhuḥ kṣatraṃ nā anuṣṭupkṣatrasyāptā iti | bārhataṃ praugaṃ kuryādityāhuḥ śrīrvai bṛhatī śrī- mānyavatīti | pāṅkaṃ praugaṃ kuryādityāhurannaṃ vai paṃktirannavānbhavatīti | traiṣṭubhaṃ praugaṃ kuryādvīryaṃ vai triṣṭubbīryavānbhavatīti | jāgataṃ praugaṃ kuryādityāhurjāgatā vai paśavaḥ paśumānbhavatīti | tadu gāyatrameva kuryādabrahma vai gāyatrī brahmaitadaharbrahmaṇaiva tadbrahma pratipadyate ‖*) (Ai. Ā. 1-1-3)
+
+### Printed p. 590
+
+If the Praüga-śastra is in the Gāyatrī metre, which is full of splendour and endowed with brahmavarcas, then the man who performs the sacrifice reciting it also becomes splendid and endowed with brahmavarcas; this is the view of some. Another view is that if the Praüga-śastra made of the Uṣṇik, which is life-giving, is recited, the sacrificer obtains long life. Some say that if it is made of the Anuṣṭup, which is full of vigour, the sacrificer becomes vigorous. Others say that by reciting the Praüga made of the Bṛhatī, which is wealth, the sacrificer becomes endowed with wealth. One tradition says that if it is made of the Paṅkti, which is food, and is recited, the sacrificer becomes possessed of the wealth of food. Another tradition says that the Triṣṭup, which is strength, makes it give strength. Still others hold that if the śastra made of the Jagatī, which is wealth in cattle, is recited, the sacrificer obtains wealth in cattle. But wealth in food and the like is all impermanent riches. It is beyond dispute that the eternal wealth of the knowledge of Brahman is obtained only by reciting the Praüga made of the Gāyatrī, which is of the nature of Brahman. Therefore the conclusion is that the Gāyatrī itself is the direct means to the knowledge of Brahman, and no other metre can be.
+
+तदु माधुच्छंदसं (*tadu mādhucchaṃdasaṃ*). It is said that this Praüga made of the Gāyatrī should be made of Madhucchandas. But what is Madhucchandas here? What is the reason for this name? What is the close connection between the Gāyatrī and Madhucchandas? This will be explained later. As stated in the Aitareya Āraṇyaka, it is recited again in many Śruti passages that the Gāyatrī is of the nature of Brahman and that this is the means to knowledge of Brahman.
+
+12. Since the sacrifice, which consists of ritual action, is itself of the nature of Brahman, the above objection has no room.
+
+Even with these Śruti proofs, another question arises here. If knowledge alone were chief here, and one fixed one's aim on knowledge of Brahman through meditation, samādhi and austerity, then one could say that the Gāyatrī is the chief means to knowledge of Brahman. But the primacy of the Gāyatrī is
+
+### Printed p. 591
+
+only in the sacrifice. The sacrifice is predominantly ritual action. So there is also room for the doubt how the Gāyatrī, which is chief in a sacrifice that is predominantly ritual, can directly lead to knowledge. To obtain the answer to this question and to know the chief part of the Gāyatrī in the search for knowledge, one must examine such matters as: what is the true nature of the sacrifice? What is the aim of the sacrifice? Is there opposition between the principle of Brahman and the principle of the sacrifice? The Saṃhitā and Brāhmaṇa passages that set forth the principle of the sacrifice do not describe the sacrifice merely as a rite yielding worldly fruit. In many places they declare the identity of the sacrifice with Prajāpati, the cause of creation, preservation and dissolution.
+
+संवत्सरो यज्ञः प्रजापति स यावानेव यज्ञो यावत्यस्य मात्रा तावंतमेवैतत्परिगृह्णाति ॥ (*saṃvatsaro yajñaḥ prajāpati sa yāvāneva yajño yāvatyasya mātrā tāvaṃtamevaitatparigṛhṇāti ‖*) (Śa. Brā. 1-2-5-12)
+
+In passages such as this, the identity of Prajāpati with the year, which is of the nature of time, and with the sacrifice in the form of the year, is stated. The construction of such a sacrifice is as follows: तं छंदोभिरभितः परिगृह्य (*taṃ chaṃdobhirabhitaḥ parigṛhya*), that is, one should enclose the sacrificial altar with the metres and establish the fire. In the construction of the sacrifice the metres are the most important of all the materials. This sacrificial altar too is not different from the metres.
+
+तानि वा एतानि सप्तविग्ंशतिर्नक्षत्राणि । छंदाग्ंसि ह त्वेवैषोऽग्निश्चितः । तानि वा एतानि सप्तच्छंदाग्ंसि । (*tāni vā etāni saptavigṃśatirnakṣatrāṇi | chaṃdāgṃsi ha tvevaiṣo 'gniścitaḥ | tāni vā etāni saptacchaṃdāgṃsi |*)
+
+अयं नाव लोक एषोऽग्निश्चितः (*ayaṃ nāva loka eṣo 'gniścitaḥ*)
+
+अंतरिक्षग्ंह त्वैवैषोऽग्निश्चितः । .... .... .... द्यौर्हत्वेवेषोऽग्निश्चितः । .... . .... .... .... आदित्यो ह त्वैवैषोऽग्निश्चितः । (*aṃtarikṣagṃha tvaivaiṣo 'gniścitaḥ | .... .... .... dyaurhatveveṣo 'gniścitaḥ | .... . .... .... .... ādityo ha tvaivaiṣo 'gniścitaḥ |*)
+
+This sacrificial altar is the terrestrial world, this is the atmosphere, this is the heavenly world, this is Āditya. Three hundred and sixty directions and intermediate directions surround Āditya. The three hundred and sixty Yajuṣmatī bricks are the three hundred and sixty rays of Āditya. The Sūdadohas are the special principles lying between the rays of Āditya and the directions; these are the seven metres.
+
+सर्वाणि ह त्त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित आपो वै सर्वे देवाः सर्वाणि भूतानि ता हैता आप एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितः .... .... आत्मायमेव स योऽयं हिरण्मयःपुरुषः । (*sarvāṇi ha ttveva bhūtāni | sarve devā eṣo 'gniścita āpo vai sarve devāḥ sarvāṇi bhūtāni tā haitā āpa evaiṣo 'gniścitastasya nāvyā eva pariśritaḥ .... .... ātmāyameva sa yo 'yaṃ hiraṇmayaḥpuruṣaḥ |*) (Śa. Brā. 10-5-4-1 to 15)
+
+Just as around Āditya the boats in the form of the three hundred and sixty rays surround him, so around this altar the gods, men and others in the form of the Yajuṣmatīs surround it. The body of this altar is Āditya
+
 ---
 
-**Progress note:** Done through printed p. 585. pp. 580-585 (batch API)
+**Progress note:** Done through printed p. 591. pp. 586-591 (batch API)
