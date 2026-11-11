@@ -25436,6 +25436,282 @@ In what manner shall we, ṛtvijs and sacrificers, gathered together, offer the 
 ##### English translation (H. H. Wilson)
 How may we present rejoicing ( fit offerings ) to Agni, the showerer (of benefits) ; to Vaishwanara, he, who, bright with great lustre, sustains the heaven, with his entire vast and insupportable ( bulk ), as a pillar (sustains a roof).
 
+### Printed p. 807
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा निं॑दत॒ य इ॒मां मह्यं॑ रा॒तिं दे॒वो द॒दौ मर्त्या॑य  ॒॑
+> स्व॒धावा॑न् ।  
+> पाका॑य॒ गृत्सो॑ अ॒मृतो॒ विचे॑ता वैश्वान॒रो नृत॑मो ॒ ॒
+> यह्वो अग्निः ॥ २ ॥
+
+> *mā niṃdata ya imāṃ mahyaṃ rātiṃ devo dadau martyāya*  
+> *svadhāvān |*  
+> *pākāya gṛtso amṛto vicetā vaiśvānaro nṛtamo*  
+> *yahvo agniḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । निंदत । यः । इमां । मह्यं । रातिं । देवः । ददौ । मर्त्याय । स्वधावान् ।  
+> पाकाय । गृत्सः । अमृतः । विचेताः । वैश्वानरः । नृतमः । यह्वः । अग्निः ॥ २ ॥
+
+> *mā | niṃdata | yaḥ | imāṃ | mahyaṃ | rātiṃ | devaḥ | dadau | martyāya | svadhāvān |*  
+> *pākāya | gṛtsaḥ | amṛtaḥ | vicetāḥ | vaiśvānaraḥ | nṛtamaḥ | yahvaḥ | agniḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होत्रादयोऽमुं वैश्वानरमग्निं मा निंदत । निंदां मा कुरुत ।
+> स्तुतेत्यर्थः । यो देवो दीप्यमानोऽग्निः स्वधावानस्मृद्दत्तेन हविर्लक्षणेनान्नेन
+> तद्वान् सन् मर्त्याय मरणधर्माय पाकाय परिपक्वप्रज्ञाय मह्यं यजमानायेमामिदानीं दीयमानप्रकारां रातिं धनं ददौ । दत्तवान् । स विशेष्यते।
+> गृतो मेधावी । मेधाविनामैतत् । अमृतोऽमरणस्वभावो विचेता विशिष्टप्रज्ञो वैश्वानरो विश्वैर्नरैराहवनीयादिरूपेण नीयमानो नृतमो नेतृतमः फलादीनां यहो महान् । महन्नामैतत् । अग्निरंगनादिगुणविशिष्टः ।
+> तादृशमग्निं स्तुतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the priests, the hotṛs and others: do not revile this Vaiśvānara Agni; praise him. The shining Agni, who is svadhāvān, possessed of the food in the form of the oblation given by us, has given this wealth, of the kind now being given, to me, the sacrificer, who am mortal and of ripened wisdom. He is further described: gṛtsa is "wise" (a name for the wise); he is immortal by nature, of distinguished understanding; Vaiśvānara, because he is led by all men in the forms of the Āhavanīya and the rest; nṛtama, the best leader, mighty (yahva is a name for "great") in fruits and the like; and Agni, endowed with the qualities of going and so on. The sense is: praise such an Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- देवः (*devaḥ*)—being resplendent
+- स्वधावान् (*svadhāvān*)—and possessing food in the form of oblation
+- मर्त्याय (*martyāya*)—to the mortal
+- पाकाय (*pākāya*)—to one of ripened knowledge
+- मह्यं (*mahyaṃ*)—to me
+- इमां रातिं (*imāṃ rātiṃ*)—this wealth
+- ददौ (*dadau*)—gave (such an Agni)
+- मा निंदत (*mā niṃdata*)—do not revile (that Agni)
+- गृत्सः (*gṛtsaḥ*)—wise
+- अमृतः (*amṛtaḥ*)—free from mortality
+- विचेताः (*vicetāḥ*)—of distinguished understanding
+- वैश्वानरः (*vaiśvānaraḥ*)—carried by all
+- नृतमः (*nṛtamaḥ*)—the best among leaders
+- यह्वः (*yahvaḥ*)—great-souled
+- अग्निः (*agniḥ*)—worthy of worship (he is)
+
+### Printed p. 808
+
+##### भावार्थ (Bhāvārtha)
+
+Do not revile that Agni who, being resplendent and possessed of food in the form of oblation, has given this wealth to me, a mortal of ripened knowledge. That same Agni is wise, free from mortality, of distinguished understanding, carried by all, the best among leaders, great-souled and worthy of worship.
+
+##### English translation (H. H. Wilson)
+Reproach not the divine (Agni), who, accepting the oblation, has given the wealth to me, his mortal (worshipper) of mature (intellect); Agni, who is wise, immortal, discriminating, (who is) Vaishwanara, chief conductor (of rites), the mighty.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> साम॑ द्वि॒बर्हा॒ महि॑ ति॒ग्मभृ॑ष्टिः स॒हस्र॑रेता वृष॒भस्तुवि॑ष्मान् ।  
+> प॒दं न गोरप॑गूळ्तं विवि॒द्वान्॒ग्निर्मह्यं॒ प्रेदु॑ वोचन्मनी॒षां ॥ ३ ॥
+
+> *sāma dvibarhā mahi tigmabhṛṣṭiḥ sahasraretā vṛṣabhastuviṣmān |*  
+> *padaṃ na gorapagūḷtaṃ vividvāngnirmahyaṃ predu vocanmanīṣāṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साम । द्विबर्हाः । महि । तिग्मभृष्टिः । सहस्ररेताः । वृषभः । तुविष्मान् ।  
+> पदं । न । गोः । अपगूळ्तं । विविद्वान् । अग्निः । मह्यं । प्र । इत् । ऊं इति ।  
+> वोचत् । मनीषां ॥ ३ ॥
+
+> *sāma | dvibarhāḥ | mahi | tigmabhṛṣṭiḥ | sahasraretāḥ | vṛṣabhaḥ | tuviṣmān |*  
+> *padaṃ | na | goḥ | apagūḷtaṃ | vividvān | agniḥ | mahyaṃ | pra | it | ūṃ iti |*  
+> *vocat | manīṣāṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विबर्हा द्वयोर्मध्यमोत्तमयोः स्थानयोः परिवृढस्तिग्मभृष्टिस्तीक्ष्णतेजाः सहस्ररेता बहुविधहिरण्यरेतस्कः रेतःशब्दः सारवाची । प्रभूतसारो ना ।
+> वृषभो वर्षिता कामानां तुविष्टान्बहुधन ईदृशोऽयमग्निरत्यंतगोपितं गोः
+> पदं न नष्टाया गोः पदमिवापगूळ्हमत्यंतरहस्यं । मनीषाशब्दो ज्ञानवाची
+> सन्नत्र ज्ञातव्ये वर्तते । मनीषां ज्ञातव्यं महि महत्पूज्यं सामास्मदभिमतं
+> स्तोत्रं विविद्वान् विशेषेण जानन् प्रेदु वोचत् । प्रैव ब्रवीतु ॥
+
+##### Gist of the bhāṣya
+
+Dvibarhāḥ: encompassing the two places, the middle and the highest. Tigmabhṛṣṭi: of sharp splendour. Sahasrareta: possessing manifold golden seed (the word reta denotes essence; compare "of abundant essence"). Vṛṣabha: the showerer of desires. Tuviṣmān: rich in wealth. Such is this Agni. Like the footprint of a lost cow, which is hidden, the thing is utterly secret. The word manīṣā, denoting knowledge, here stands for what is to be known. May Agni, who knows especially the great, venerable sāman, the praise-song we desire, declare it forth to me.
+
+### Printed p. 809
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विबर्हाः (*dvibarhāḥ*)—he who occupies both the middle and the highest places
+- तिग्मभृष्टिः (*tigmabhṛṣṭiḥ*)—of sharp splendour
+- सहस्ररेताः (*sahasraretāḥ*)—of abundant essence
+- वृषभः (*vṛṣabhaḥ*)—showerer of desires
+- तुविष्टान् (*tuviṣṭān*)—possessing abundant wealth
+- अग्निः (*agniḥ*)—Agni
+- गो पदं न (*go padaṃ na*)—like the footprint of cows that have been led away secretly
+- अपगूह्नं (*apagūhnaṃ*)—utterly secret
+- मनीषां (*manīṣāṃ*)—to be known
+- महि (*mahi*)—venerable
+- साम (*sāma*)—the sāman, of the nature of praise
+- विविद्वान् (*vividvān*)—knowing especially well
+- मह्यं (*mahyaṃ*)—to me
+- प्रेदु वोचत् (*predu vocat*)—may he teach so that I understand
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who occupies both the middle and the highest places, of sharp splendour, of abundant essence, showerer of desires, possessing abundant wealth, knowing especially well the sāman—utterly secret like the footprint of hidden cows, to be known necessarily by men, venerable and of the nature of praise—teach it to me so that I understand.
+
+##### English translation (H. H. Wilson)
+May Agni, filling both (the middling and most excellent condition), bright shining, of manifold vigour, the showerer of (benefits) the possessor of affluence, (who comprehends) by (his) wisdom the mysterious sacred hymn, as (they track) the footsteps of a (missing) cow, reveal (the sense) to me.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ता अ॒ग्निर्ब॑भसत्ति॒ग्मजं॑भ॒स्तपि॑ष्ठेन शो॒चिषा॒ यः सु॒राधाः॑ ।  
+> प्र ये मि॒नंति॒ वरु॑णस्य॒ धाम॑ प्रि॒या मि॒त्रस्य॒ चेत॑तो  ॒॑
+> ध्रुवाणि ॥ ४ ॥
+
+> *pra tā agnirbabhasattigmajaṃbhastapiṣṭhena śociṣā yaḥ surādhāḥ |*  
+> *pra ye minaṃti varuṇasya dhāma priyā mitrasya cetato*  
+> *dhruvāṇi ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तान् । अग्निः । बभसत् । तिग्मृजंभः । तपिष्ठेन । शोचिषा । यः । सुराधाः ।
+
+> *pra | tān | agniḥ | babhasat | tigmṛjaṃbhaḥ | tapiṣṭhena | śociṣā | yaḥ | surādhāḥ |*
+
+### Printed p. 810
+
+> प्र । ये । मिनंति । वरुणस्य । धाम । प्रिया । मित्रस्य । चेततः । ध्रुवाणि ॥ ४ ॥
+
+> *pra | ye | minaṃti | varuṇasya | dhāma | priyā | mitrasya | cetataḥ | dhruvāṇi ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः सुराधाः शोभनधनः स तिग्मजंभस्तीक्ष्णदंष्ट्रः सन् तपिष्ठेन शोचिषातिशयेन शत्रूणां तापकेन तेजसा तान्वक्ष्यमाणान् द्वेष्टान्बभसत् ।
+> प्रकर्षेण भर्त्सयतु । दहत्वित्यर्थः ॥ भस भर्त्सनदीप्योः । लेटीतश्च लोप इतीकारलोपः । लेटोऽडाटावित्यडागमः ॥ तानित्युक्तं कानित्याह । ये द्वेषारश्चेततो जानतः । एतदुभयविशेषणं । मित्रस्य वरुणस्य च प्रिया प्रियाणि ध्रुवाणि
+> स्थिराणि धाम धामानि तेजःस्थानानि कर्माणि ना प्र मिनंति । प्रकर्षेण हिंसंति ।
+> मीञ् हिंसायां । मीनातेर्निगम इति ह्रस्वत्वं । विकरणस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is surādhāḥ, of excellent wealth, being sharp-toothed (tigmajambha), may with his most scorching radiance, which burns enemies, drive off and consume those haters to be named, "them". Who are they? Those enemies who, knowing (cetataḥ—this qualifies both Mitra and Varuṇa), do not diminish but violently injure the dear and firm abodes of splendour, that is, the rites, of Mitra and Varuṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which enemies
+- चेततः (*cetataḥ*)—the wise
+- मित्रस्य वरुणस्य (*mitrasya varuṇasya*)—of Mitra and Varuṇa
+- प्रिया (*priyā*)—dear
+- ध्रुवाणि (*dhruvāṇi*)—firm
+- धाम (*dhāma*)—abodes of splendour
+- प्र मिनंति (*pra minaṃti*)—injure; those
+- तान् (*tān*)—those enemies
+- सुराधाः (*surādhāḥ*)—possessing excellent wealth
+- तिग्मजंभः (*tigmajaṃbhaḥ*)—possessing a sharp weapon
+- अग्निः (*agniḥ*)—Agni
+- तपिष्ठेन (*tapiṣṭhena*)—with scorching (of enemies)
+- शोचिषा (*śociṣā*)—radiance
+- प्र बभसत् (*pra babhasat*)—may he destroy
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, of excellent wealth and sharp weapon, destroy with his enemy-burning radiance those enemies who injure the dear and firm abodes of splendour of the wise Mitra and Varuṇa.
+
+##### English translation (H. H. Wilson)
+May the sharp-toothed Agni, possessed of excellent wealth, consume with his fierce radiance those (adversaries) who injure the firm and valued glories of the sapient Varuna and Mitra.
+
+### Printed p. 811
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्रा॒तरो॒ न योष॑णो॒ व्यंतः॑ पति॒रिपो॒ न जन॑यो दु॒रेवाः॑।  
+> पा॒पासः॒ संतो॑ अनृ॒ता अ॑स॒त्या इ॒दं प॒दम॑जनता गभी॒रं ॥५॥
+
+> *abhrātaro na yoṣaṇo vyaṃtaḥ patiripo na janayo durevāḥ|*  
+> *pāpāsaḥ saṃto anṛtā asatyā idaṃ padamajanatā gabhīraṃ ‖5‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभ्रातरः । न । योषणः । व्यंतः । पतिरिपः । न । जनयः । दुःएवाः ।  
+> पापासः । संतः । अनृताः । असत्याः । इदं । पदं । अजनत । गभीरं ॥ ५ ॥
+
+> *abhrātaraḥ | na | yoṣaṇaḥ | vyaṃtaḥ | patiripaḥ | na | janayaḥ | duḥevāḥ |*  
+> *pāpāsaḥ | saṃtaḥ | anṛtāḥ | asatyāḥ | idaṃ | padaṃ | ajanata | gabhīraṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्रातरो भ्रातादिबंधुरहिता योषणो न गतभर्तृका योषित इव ॥ वा
+> षपूर्वस्य निगम इति विकल्पनाद्ीर्घाभावः ॥ ता यथा भर्तृगृहापित्यृहं प्रत्यायंति तद्वद्व्यंतो गच्छंतः । यज्ञादीनपहायामार्गे वर्तमाना इत्यर्थः । तथा
+> पतिरिपो न जनयः पतिद्वेषिण्यः स्त्रिय इव दुरेवा दुष्टगतयो दुराचारा आत
+> एव पापासः पापाः संतोऽनृता मानससत्यरहिता असत्या वाचिकसत्यरहिता मनसा
+> वाचाग्निमभजमाना इदं पापिभिरनुभूयमानतया प्रसिद्धं गभीरमगाधं पदं
+> नरकस्थानमजनत । अजनयंत । उत्पादयंति ॥ लजि जनेरंतर्भावितण्यर्थाद्व्यत्ययेनैकवचनं ॥
+
+##### Gist of the bhāṣya
+
+Like women without brothers and other kinsfolk, widows, who go back to their father's house, so these go: abandoning sacrifice and the like, they proceed on the wrong path. Likewise, like women hostile to their husbands, they are evil-going and ill-behaved; therefore sinners, false in mind (anṛta) and in speech (asatya), not worshipping Agni with mind and speech. They produce this well-known deep, unfathomable place, hell, experienced by sinners.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभ्रातरः योषणः न (*abhrātaraḥ yoṣaṇaḥ na*)—like women who have neither brother nor husband
+- व्यंतः (*vyaṃtaḥ*)—going to their father's house for protection
+- पतिरिपः (*patiripaḥ*)—hating the husband
+- जनयः न (*janayaḥ na*)—like women
+- दुरेवाः (*durevāḥ*)—of evil conduct
+- पापासः संतः (*pāpāsaḥ saṃtaḥ*)—being sinful
+- अनृताः (*anṛtāḥ*)—of false thought
+- असत्याः (*asatyāḥ*)—of false dealing; the wicked
+- इदं (*idaṃ*)—fit to be experienced by sinners
+- गभीरं (*gabhīraṃ*)—unfathomable
+- पदं (*padaṃ*)—the place of hell
+- अजनत (*ajanata*)—they produce
+
+##### भावार्थ (Bhāvārtha)
+
+The wicked—of evil conduct, sinful, of false thought and false dealing, like a woman without brother or husband going for protection to her father's house, and like a woman who hates her husband—produce the unfathomable place of hell, fit to be experienced by sinners.
+
+### Printed p. 812
+
+##### English translation (H. H. Wilson)
+Like women who have no brethren, going (about from their own to their father's house), women adverse to their lords going astray, so the wicked, false (in thought), false (in speech), they give birth to this deep abyss (of hell).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं मे॑ अग्ने॒ किय॑ते पाव॒कामि॑नते गु॒रुं भा॒रं न मन्म॑।  
+> बृ॒हद्द॑धाथ धृष॒ता ग॑भी॒रं य॒ह्वं पृ॒ष्ठं प्रय॑सा स॒प्तधा॑तु॥
+
+> *idaṃ me agne kiyate pāvakāminate guruṃ bhāraṃ na manma|*  
+> *bṛhaddadhātha dhṛṣatā gabhīraṃ yahvaṃ pṛṣṭhaṃ prayasā saptadhātu‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । मे । अग्ने । कियते । पावक । अमिनते । गुरुं । भारु । न । मन्म ।  
+> बृहत् । दधाथ । धृषता । गभीरं । यह्वं । पृष्ठं । प्रयसा । सप्तधातु ॥ ६ ॥
+
+> *idaṃ | me | agne | kiyate | pāvaka | aminate | guruṃ | bhāru | na | manma |*  
+> *bṛhat | dadhātha | dhṛṣatā | gabhīraṃ | yahvaṃ | pṛṣṭhaṃ | prayasā | saptadhātu ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पावक शोधकाग्ने कियतेत्यल्पाय गुरं भारं न वोढुमशक्यं भारमिव । तं यथा धर्तुमसहमानः पातयति तद्वत्त्वदीयं कर्मामिनतेहिंसतेत्यजते मे मह्यमिदं ज्ञातव्यत्वेन प्रसिद्धं बृहत्पभूतं मन्म मननीयं धनं
+> दधाध । देहि । तदेव विशेष्यते । दृषता शत्रूणां धर्षकेण प्रयसा । अन्ननामैतत् । अन्नेन युक्तं गभीरमन्यैरनवगाह्यं यह्वं महत्पृष्ठं स्प्रष्टुं योग्यं
+> सप्तधातु ग्राम्यारण्यभेदेन सप्तप्रकारं । सप्त ग्राम्याः पशवः सप्तारण्याः । तै. सं.
+> ७-२-२ इति श्रुतेः । ईदृग्धनं देहीत्यर्थः । गुरुं भारु न अन्यदीयं भारं यथान्यस्मै ददाति तद्वदस्माकं दातव्यं धनं देहीति वा योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O purifying Agni, as one unable to bear a heavy burden lets it fall, so the rite meant for you, that is not injured (amināte) by me, is not abandoned. Give me this well-known abundant, thought-worthy wealth. It is described: given by the bold one who crushes enemies, joined with food (prayas is a name for food), deep, not to be fathomed by others, great, a back fit to be touched, sevenfold (saptadhātu) by the division into village and forest animals, according to the śruti सप्त ग्राम्याः पशवः सप्तारण्याः । तै. सं. ७-२-२ (*sapta grāmyāḥ paśavaḥ saptāraṇyāḥ | tai. saṃ. 7-2-2*) (Tai. Saṃ. 7-2-2). The sense: give such wealth. Or else "gurum bhāru na" is to be construed: as one gives another's burden to another, so give us the wealth that is to be given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावक (*pāvaka*)—purifying
+- अग्ने (*agne*)—O Agni
+- गुरुं भारं (*guruṃ bhāraṃ*)—bearing an exceedingly heavy burden
+- कियते न (*kiyate na*)—like a weak and small man
+- अमिनते (*aminate*)—who does not abandon the rite directed to you
+- मे (*me*)—to me
+- इदं (*idaṃ*)—well-known
+- बृहत् (*bṛhat*)—abundant
+
 ---
 
-**Progress note:** Done through printed p. 806. pp. 800-806 (batch API)
+**Progress note:** Done through printed p. 812. pp. 807-812 (batch API)
