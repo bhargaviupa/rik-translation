@@ -15230,6 +15230,89 @@ Having thus stated the procedure belonging to the sacrificial process, the other
 The worldly power-nature of Iḷā.
 अथोपाग्ंशूपह्वयेते । एतद्ध वै मनुर्विभयां चकारेदं वै मे कनिष्ठं यज्ञस्य यदियमिडा पाकयज्जिया यद्वै म इह रक्षाग्‌सि याज्ञं न (*athopāgṃśūpahvayete | etaddha vai manurvibhayāṃ cakāredaṃ vai me kaniṣṭhaṃ yajñasya yadiyamiḍā pākayajjiyā yadvai ma iha rakṣāgsi yājñaṃ na*)
 
+### Printed p. 456
+
+##### विशेषविषयगळु (Special Topics)
+
+हन्युरिति तामेतत्पुरा रक्षोभ्यः पुरा रक्षोभ्य इत्येवोपागंशूपाह्वयत तथो एवैनमेष एतत्पुरा .... .... पह्वयते ॥ (*hanyuriti tāmetatpurā rakṣobhyaḥ purā rakṣobhya ityevopāgaṃśūpāhvayata tatho evainameṣa etatpurā .... .... pahvayate ‖*)
+
+On this occasion the Hotṛ calls Iḍā in a soft voice. Even so, Manu [thought]: "This act, which is a limb of the sacrifice, is not so firm. Therefore, before the fear of the demons draws near, Iḍā must be protected." Declaring just this wish, he calls her.
+
+स उपह्वयते । उपहूतग्ं रथंतरग्ं सह पृथिव्योपमां वामदेव्यग्ं सहांतरिक्षेण ह्वयतामुपहूतं वामदेव्यग्ं सहांतरिक्षेण ह्वयतामुपहूतं बृहत्सह दिवोप मां बृहत्सह दिवा ह्वयतामिति तदेतामेनै तदुपह्वयमान इमांश्च लोकानुपह्वयत एतानि च सामानि ॥ (*sa upahvayate | upahūtagṃ rathaṃtaragṃ saha pṛthivyopamāṃ vāmadevyagṃ sahāṃtarikṣeṇa hvayatāmupahūtaṃ vāmadevyagṃ sahāṃtarikṣeṇa hvayatāmupahūtaṃ bṛhatsaha divopa māṃ bṛhatsaha divā hvayatāmiti tadetāmenai tadupahvayamāna imāṃśca lokānupahvayata etāni ca sāmāni ‖*)
+
+Next he recites the mantras that praise Iḍā. If Iḍā is praised with these mantras, the three worlds beginning with the earth are praised and called for protection. How? By calling the earth together with the Rathantara sāman, the atmosphere together with the Vāmadevya, and the heaven-world together with the Bṛhat, he has called for protection Iḍā herself, who pervades the three worlds. In this way the invocation of the goddess Iḍā, in the form of praise, indicates her special powers.
+
+उपहूता गावः सहर्षभा इति । पशवो वा इडा .... .... उपहूतेडा ततुरिरिति तदेनां प्रत्यक्षमुपह्वयते ततुरिरिति सर्वग् हैषा पाप्मानं तरति तस्मा दाह ततुरिरिति ॥ (*upahūtā gāvaḥ saharṣabhā iti | paśavo vā iḍā .... .... upahūteḍā tatuririti tadenāṃ pratyakṣamupahvayate tatuririti sarvag haiṣā pāpmānaṃ tarati tasmā dāha tatuririti ‖*)
+
+The goddess Iḍā herself is of the nature of cattle. She is therefore called with the prayer that she appear together with the bull, and, since Iḍā herself brings about the quieting of all sin, that she come to the sacrifice in a form that gives victory.
+
+उपहूतः सखा भक्ष इति । प्राणा वै सखा भक्षस्तप्राणमुपह्वयतउपहूतग्ं हेगिति तच्छरीरमुपह्वयते । (*upahūtaḥ sakhā bhakṣa iti | prāṇā vai sakhā bhakṣastaprāṇamupahvayataupahūtagṃ hegiti taccharīramupahvayate |*) (Śa. Brā. 1.8-1-2)
+
+Iḍā is the dearest friend. Iḍā is the food that is the vital breath. Friend and food are forms of the vital breath and nothing else. The invocation, in the form of a prayer, is made to Iḍā, who is of the nature of the vital breath.
+
+मानवी धृतपदीति । मनुर्ह्येतामग्रेऽजनयत तस्मादाह मानवीति धृतपदीति यदेवास्यै धृतं पदे समतिष्ठत तस्मादाह धृतपदीति ॥ (*mānavī dhṛtapadīti | manurhyetāmagre 'janayata tasmādāha mānavīti dhṛtapadīti yadevāsyai dhṛtaṃ pade samatiṣṭhata tasmādāha dhṛtapadīti ‖*) (Śa. Brā. 1-8-1-26)
+
+### Printed p. 457
+Thus the goddess Iḍā, described above as of the nature of a cow, bestower of victory, of the nature of food and of the vital breath, is famed as the daughter of Manu. Because ghee clung to her foot, the name Dhṛtapadī also became famous for her.
+
+The spiritual nature of Iḍā.
+
+उत मैत्रावरुणीति । यदेव मित्रावरुणाभ्याग्ं समगच्छत स एव मैत्रावरुणो न्यंगो ब्रह्मा देवकृतोपहूतेति ब्रह्मा ह्येषां देवकृतोपहूता दैव्या अध्वरव उपहूता मनुष्या इति तद्दैवांश्चैवाध्वरूनुपह्वयते ये च मानुषा वत्सा वै दैव्याअध्वरवोऽथ य इतरे ते मानुषाः॥ (*uta maitrāvaruṇīti | yadeva mitrāvaruṇābhyāgṃ samagacchata sa eva maitrāvaruṇo nyaṃgo brahmā devakṛtopahūteti brahmā hyeṣāṃ devakṛtopahūtā daivyā adhvarava upahūtā manuṣyā iti taddaivāṃścaivādhvarūnupahvayate ye ca mānuṣā vatsā vai daivyāadhvaravo 'tha ya itare te mānuṣāḥ‖*) (Śa. Brā. 1-8-1-27)
+
+Iḍā, so described, has shown her relation also to Mitra and Varuṇa. Since, as soon as she was born of Manu, she appeared to Mitra and Varuṇa, she may also be called of the nature of Maitrāvaruṇa. Because she is made by the gods, she is also called Brahma. She is also the Adhvaru connected with the gods. The Adhvarus connected with the gods are like calves to Iḍā, who is of the nature of a cow. All, gods and men alike, obtain food only through Iḍā's favour. That Iḍā is the giver of food and herself of the nature of food. This Iḍā, famed as Maitrāvaruṇī and of the nature of food, is the one indicated in the Ṛk at hand. The meaning is that this food is itself of the nature of Brahma.
+
+The milk of the cow that is Iḍā.
+
+स होवाच । इडैव मे मानव्यग्निहोत्री वायुव्यो वत्सः सजूरुपसृष्टा विराट् संयोजनमाश्विनं दुह्यमानं वैश्वदेवं दुग्धं वायव्यमाह्रियमाणमाग्नेयमधिश्रितमैंद्राग्नमवज्योत्यमानं वारुणमद्भिः प्रत्यानीतं वायव्यमुद्वास्यमानं द्यावापृथिव्यमुद्वासितमाश्विनमुन्नीयमानं वैश्वदेवमुन्नीतं महादेवायोद्यतं वायव्यग्ं ह्रियमाणं वैष्णवं निगृहीतः ॥ (*sa hovāca | iḍaiva me mānavyagnihotrī vāyuvyo vatsaḥ sajūrupasṛṣṭā virāṭ saṃyojanamāśvinaṃ duhyamānaṃ vaiśvadevaṃ dugdhaṃ vāyavyamāhriyamāṇamāgneyamadhiśritamaiṃdrāgnamavajyotyamānaṃ vāruṇamadbhiḥ pratyānītaṃ vāyavyamudvāsyamānaṃ dyāvāpṛthivyamudvāsitamāśvinamunnīyamānaṃ vaiśvadevamunnītaṃ mahādevāyodyataṃ vāyavyagṃ hriyamāṇaṃ vaiṣṇavaṃ nigṛhītaḥ ‖*) (Śa. Brā. 11-5-3-5)
+
+"Iḍā, daughter of Manu, is my cow of the Agnihotra. The principle of Vāyu is the calf. The relation of the two is Virāj." [Here Sāyaṇa explains: वायुना संश्रितः द्यौः (*vāyunā saṃśritaḥ dyauḥ*), the connection of Vāyu with the atmosphere.] "When the calf joins this cow, after the drinking of the milk, at the time of milking it belongs to the Aśvins; after the milk has been drawn, to the Viśvedevas; when it is brought from the cow-pen, to Vāyu; when it is placed on the fire, to Agni; when it shines, to Indra and Agni; when it is brought out,
+
+### Printed p. 458
+to Heaven and Earth; at the time of removal, to the Aśvins; when it is raised up, to Mahādeva; when it is made ready for the Āhavanīya, to Viṣṇu." So Uddālaka explained. In such a context one should understand Iḍā to be a special power that propounds a very hidden principle.
+
+The nature of this cow that is Iḍā, the greatness of this milk that is to be offered at the times of the Pāka-yajña and the like, and the wealth of food, in the form of Iḍā, that comes to the sacrificer who performs the sacrifice with her help, are described in the Taittirīya Saṃhitā as follows.
+
+पाकयज्ञं वा अन्वाहिताग्नेः पशव उप तिष्ठंत इडा खलु वै पाकयज्ञस्यॆषांतरा प्रयाजानूयाजान् यजमानस्य लोकेवहिता तामाह्रियमाणामभि मंत्रयेत सुरूपवर्षवर्ण एहीति पशवो वा इडा पशूनेवोपश्वयते यज्ञं वै देवा अदुह्रन् यज्योऽसुराग्ं अदुहत्तेऽसुरा यज्ञदुग्धाः पराभवन् (*pākayajñaṃ vā anvāhitāgneḥ paśava upa tiṣṭhaṃta iḍā khalu vai pākayajñasyèṣāṃtarā prayājānūyājān yajamānasya lokevahitā tāmāhriyamāṇāmabhi maṃtrayeta surūpavarṣavarṇa ehīti paśavo vā iḍā paśūnevopaśvayate yajñaṃ vai devā aduhran yajyo 'surāgṃ aduhatte 'surā yajñadugdhāḥ parābhavan*) (Kṛ. Saṃ. 1-7-1-1) **NOTE**
+
+Wealth of cattle comes to one who has established the fire for the Pāka-yajña. Iḍā herself is this Pāka-yajña. She is placed between the Prayājas and the Anuyājas. Then one should pray, "O goddess of fair form and of the colour of the rain, be gracious." Since Iḍā is cattle, by this invocation cattle themselves are called. The gods called the sacrifice; the sacrifice called the Asuras. Therefore the Asuras suffered defeat.
+
+यो वै यज्ञस्य दोहं विद्वान् यजतेऽप्यन्यं यजमानं दुहे सा मे सत्याशीरस्य यज्ञस्य भूयादित्याहैष वै यज्ञस्य दोहस्तेनैवैनं दुहे प्रत्ता वै गौर्दुहे प्रत्तेडा यजमानाय दुह एते वा इडाय्कॆ स्तना इडोपहूतेति वायुर्वत्सो यर्हि होतेडामुपह्वयेत तर्हि यजमानो होतारमीक्षमाणो वायुं मनसा ध्यायेत् । (*yo vai yajñasya dohaṃ vidvān yajate 'pyanyaṃ yajamānaṃ duhe sā me satyāśīrasya yajñasya bhūyādityāhaiṣa vai yajñasya dohastenaivainaṃ duhe prattā vai gaurduhe pratteḍā yajamānāya duha ete vā iḍāykè stanā iḍopahūteti vāyurvatso yarhi hoteḍāmupahvayeta tarhi yajamāno hotāramīkṣamāṇo vāyuṃ manasā dhyāyet |*) (Tai. Saṃ. 1-7-1-2)
+
+Whoever knows this principle and the way of calling the sacrifice, the sacrifice in the form of Iḍā calls another sacrificer to help him. The sacrificer's reciting, "May the blessing of this sacrifice be fulfilled for me," is itself the milking of the sacrifice. The cow gives her consent to this milking. Since this same prayer is addressed to Iḍā, it is the cow in the form of Iḍā that has been called. [The response इडोपहूता (*iḍopahūtā*) shows the order followed by the gods, and उपहूतेडा (*upahūteḍā*) that of the Asuras. This is a point to be noted in the sacrificial procedure.] Before the worship that calls this cow,
+
+### Printed p. 459
+the calf must be joined to the cow. When the sacrificer prays addressing Iḍā, he should look at the Hotṛ's face and meditate on Vāyu.
+
+मात्रे वत्समुपाव सृजति सर्वेण वै यज्ञेन देवास्सुवर्गं लोकमायन्हाकयज्ञेन मनुरश्रामृत्सेडा मनुमुपावर्तत तां देवासुरा व्यह्वयंत प्रतीचीं देवाः पराचीमसुरास्सा देवानुपावर्तत पशवो वै तद्देवानवृणत पशवोऽसुरानजहुर्यं कामयेतापशुस्स्यादिति पराचीं तस्यॆडामुप द्वयेतापशुरेव भवति ॥ (*mātre vatsamupāva sṛjati sarveṇa vai yajñena devāssuvargaṃ lokamāyanhākayajñena manuraśrāmṛtseḍā manumupāvartata tāṃ devāsurā vyahvayaṃta pratīcīṃ devāḥ parācīmasurāssā devānupāvartata paśavo vai taddevānavṛṇata paśavo 'surānajahuryaṃ kāmayetāpaśussyāditi parācīṃ tasyèḍāmupa dvayetāpaśureva bhavati ‖*) (Tai. Saṃ. 1-7-1-3)
+
+While meditating on Vāyu he lets the calf go to the cow. It was by the help of this complete sacrifice that the gods obtained heaven. Manu too toiled for this sacrifice. Iḍā went to Manu. When gods and Asuras came to resort to this same Iḍā, the gods called her face to face and the Asuras with face turned away. Iḍā went to the gods and joined them. Therefore the gods obtained wealth of cattle; the Asuras did not obtain it. If a sacrificer wishes that someone remain without cattle, and one calls Iḍā on that man's behalf standing with face turned away, then that sacrificer becomes without cattle.
+
+यं कामयेत पशुमान्त्स्यादिति प्रतीचीं तस्येडामुपह्वयेत पशुमानेव भवति ब्रह्मवादिनो वदंति स त्वा इडामुप ह्वयेत य इडामुपहूयात्मानमिडायामुपह्वयेतॆति सा नः प्रिया सुप्रतूर्तिर्मघोनीत्याहेडामेवोपहूयात्मानमिडायमुपह्वयते व्यस्तमिव वा एतद्यज्ञस्य यदिडा सामि प्राश्नंति ॥ (*yaṃ kāmayeta paśumāntsyāditi pratīcīṃ tasyeḍāmupahvayeta paśumāneva bhavati brahmavādino vadaṃti sa tvā iḍāmupa hvayeta ya iḍāmupahūyātmānamiḍāyāmupahvayetèti sā naḥ priyā supratūrtirmaghonītyāheḍāmevopahūyātmānamiḍāyamupahvayate vyastamiva vā etadyajñasya yadiḍā sāmi prāśnaṃti ‖*) (Kṛ. Saṃ. 1-7-1-4) **NOTE**
+
+If the sacrificer is to obtain wealth of cattle, one must stand face to face and call Iḍā with prayer on his behalf. At once that sacrificer obtains wealth of cattle. When calling Iḍā with prayer, the praiser sees unity between himself and Iḍā; the knowers of the principle say that he has made his own nature one with Iḍā. He prays: "May Iḍā be for my share the doer of what is dear, the giver of victory, and the giver of abundant wealth." Iḍā is, as it were, somewhat broken in the middle of the sacrifice. By saying that in it the meaning is enjoyed, and so on, her protective nature and her power to break the Asuras and others are described. And Iḍā's capacity to protect the world is explained still more fully.
+
+सग्ग श्रवा ह सौवर्चनसस्तु मिंजमौपोदितिमुवाच यत्सत्रिणाग्ंहोता भूः कामिडामुपाह्वथा इति तामुपाह्व इति होवाचॆ या प्राणेन देवान्हा- धार व्यानेन मनुष्यानपानेन पितृनिति छिनत्ती सा न छिनत्ती ३ इति छिनत्तीति होवाच शरीरं वा अस्यै तदुपाह्वथा इति होवाच गौर्वै अस्यै शरीरं। (*sagga śravā ha sauvarcanasastu miṃjamaupoditimuvāca yatsatriṇāgṃhotā bhūḥ kāmiḍāmupāhvathā iti tāmupāhva iti hovācè yā prāṇena devānhā- dhāra vyānena manuṣyānapānena pitṛniti chinattī sā na chinattī 3 iti chinattīti hovāca śarīraṃ vā asyai tadupāhvathā iti hovāca gaurvai asyai śarīraṃ|*) (Śai. Saṃ. 1-7-2-1) **NOTE**
+
+### Printed p. 460
+Saṃśravas, son of Suvarcanas, asked Tumiñja Aupoditi: "When were you Hotṛ to those who perform a sattra sacrifice? In which form of Iḍā did you pray, praising her?" Aupoditi answered: "I prayed to that Iḍā who sustains the gods with the prāṇa breath, men with the vyāna breath, and the fathers with the apāna breath." To the question whether she is one who divides or one who does not divide, he answered that she is one who divides. "Then did you praise her body?" he asked. The body of that Iḍā is the cow.
+
+गां वाव तौ तत्परवदतां या यज्ञे दीयते सा प्राणेन देवान्दाधार यया मनुष्या जीवंति सा व्यानेन मनुष्यान् यां पितृभ्यो घ्निंति सापानेन पित्र्यन् य एवं वेद पशुमान्भवत्यथ वै तामुपाह्व इति होवाच या प्रजाः प्रभवंतीः प्रत्याभवतीति ॥ (*gāṃ vāva tau tatparavadatāṃ yā yajñe dīyate sā prāṇena devāndādhāra yayā manuṣyā jīvaṃti sā vyānena manuṣyān yāṃ pitṛbhyo ghniṃti sāpānena pitryan ya evaṃ veda paśumānbhavatyatha vai tāmupāhva iti hovāca yā prajāḥ prabhavaṃtīḥ pratyābhavatīti ‖*) (Kṛ. Saṃ. 1-7-2-2) **NOTE**
+
+The two of them, eager to know the meaning of the principle, were discussing that cow in the form of Iḍā. This Iḍā, offered for the sake of the sacrifice, sustains the gods in the form of prāṇa. She by whose support men live, those men she sustains with vyāna and is the cause of their growth; the fathers, for whose sake they slay her, she sustains with apāna. He who knows all these principles is possessed of wealth of cattle. Aupoditi answered: "I have prayed to that Iḍā who is the cause of the increase of creatures."
+
+अन्नं वा अस्यैतदुपाह्वथा इति होवाचौषधयो वा अन्या अन्नमौपधयो वै प्रजाः प्रभवंतीः प्रत्या भवंति य एवं वेदान्नादो भवत्यथ वै तामुपाह्व इति होवाच या प्रजाः पराभवंतीरनुगृह्णांति प्रता,भवंतीर्गृह्णांतीति प्रतिष्ठां वा अस्यै तदुपाह्वथा इति होवाच ॥ (*annaṃ vā asyaitadupāhvathā iti hovācauṣadhayo vā anyā annamaupadhayo vai prajāḥ prabhavaṃtīḥ pratyā bhavaṃti ya evaṃ vedānnādo bhavatyatha vai tāmupāhva iti hovāca yā prajāḥ parābhavaṃtīranugṛhṇāṃti pratā,bhavaṃtīrgṛhṇāṃtīti pratiṣṭhāṃ vā asyai tadupāhvathā iti hovāca ‖*) (Kṛ. Saṃ. 1-7 2 3) **NOTE**
+
+Then it amounts to praying for Iḍā's food. This food is itself in the form of herbs. If creatures prosper, they obtain these herbs that are of the nature of food. When Saṃśravas said that one who knows this principle eats food, Aupoditi said again: "I have prayed to Iḍā, who lifts up those fallen into misfortune and shows favour to them when they prosper." He replied that then he has obtained her complete support.
+
+### Printed p. 461
+इयं ना अस्यॆ प्रतिष्ठेयं वै प्रजाः पराभवंतीरनु गृह्णाति प्रत्याभवंतीर्गृह्णातिय एवं वेद प्रत्येक तिष्ठत्यथ वै तामुपाह्व इति होवाच यस्यॆ निक्रमणे धृतं प्रजास्संजीवंतीः पिबंति त्रि छिनत्ति सा न छिनत्ती ३ इति न छिनत्तीति होवाच प्र तु जनयतीत्येष वा इडामुपाह्वथा इति होवाच वृष्टिर्वा इडा वृष्टैः वै निक्रमणे धृतं प्रजास्संजीवंतीः पिबंति य एवं वेद प्रैव जायतेऽन्नादो भवति॥ (*iyaṃ nā asyè pratiṣṭheyaṃ vai prajāḥ parābhavaṃtīranu gṛhṇāti pratyābhavaṃtīrgṛhṇātiya evaṃ veda pratyeka tiṣṭhatyatha vai tāmupāhva iti hovāca yasyè nikramaṇe dhṛtaṃ prajāssaṃjīvaṃtīḥ pibaṃti tri chinatti sā na chinattī 3 iti na chinattīti hovāca pra tu janayatītyeṣa vā iḍāmupāhvathā iti hovāca vṛṣṭirvā iḍā vṛṣṭaiḥ vai nikramaṇe dhṛtaṃ prajāssaṃjīvaṃtīḥ pibaṃti ya evaṃ veda praiva jāyate 'nnādo bhavati‖*) (Tai. Saṃ. 1-7-2-4)
+
+This earth, the support of all and of the nature of Iḍā, is the one who lifts up those fallen into misfortune and favours those who are to grow. He who knows this principle obtains a complete and firm support for his existence and growth. When again he was asked whether this Iḍā is one who divides or one who does not, whether she is a divider or not, he said: she does not divide, but becomes the cause of increase. This Iḍā of great power is the rain. Relying on this rain, creatures drink ghee, the support of their life. For this satisfaction Iḍā, Dhṛtapadī, is the cause. The praiser who relies on her obtains all wealth and wealth of progeny: so is the greatness of Iḍā described. In the explanations above she is praised as a goddess pervading the universe; as the giver of support to gods, men and all; as the earth, support of all; as the giver of satisfaction to all worlds in the form of food; as the friend in distress; as having power to punish the wicked and protect the good; and as the very form of rain, the support of the life of the world. Ghee, the support of the world's life, is what is to be obtained through her favour. The Iḷā whom the Ṛk Saṃhitā praises as धृतहस्ता (*dhṛtahastā*) is praised in the Śatapatha and other texts as धृतपदी (*dhṛtapadī*). In the Ṛk at hand, which praises Mitra, Iḷā in the form of food is indicated, and the relation between Mitra and Iḷā is told. That she is of the nature of Maitrāvaruṇa has been stated above and its meaning explained. Since in the Ṛk at hand the word इळा (*iḷā*) is taken to mean food, only one aspect of Iḷā's nature is set forth.
+
+अनमीवासः (*anamīvāsaḥ*)—the word अमीव (*amīva*) is formed from the word अम (*ama*), which gives the sense of disease (अम रोगे (*ama roge*)). अनमीवासः (*anamīvāsaḥ*) shows its negation: it means "free from disease". The word अमीव (*amīva*) is also used in the sense of "enemy". अमीवहन् (*amīvahan*) is an epithet of Indra and others, meaning "destroyer of enemies".
+
+उपक्षियंतः (*upakṣiyaṃtaḥ*)—when the preverb उप (*upa*) joins the root क्षि (*kṣi*), the meaning is "dwell nearby". The word is used in this sense on many occasions. For example,
+
 ---
 
-**Progress note:** Done through printed p. 455. pp. 450-455 (batch API)
+**Progress note:** Done through printed p. 461. pp. 456-461 (batch API)
