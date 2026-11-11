@@ -10375,6 +10375,296 @@ The seers, the Gotamas, bearers (*voḍhāraḥ*) of hymns (स्तोमव�
 
 O Indra, the Gotama seers who compose and offer praises praise you in many ways. Provide these Gotamas with vigorous sons, grandsons and the like, and with food. **NOTE**
 
+### Printed p. 278
+The Gotamas, offerers of praise, exalt you, Indra; bestow upon them food and posterity.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चि॒द्धि शश्व॑ता॒मसींद्र॒ साधा॑रण॒स्त्वं ।  
+> तं त्वा॑ व॒यं ह॑वामहे ॥ १३ ॥
+
+> *yacciddhi śaśvatāmasīṃdra sādhāraṇastvaṃ |*  
+> *taṃ tvā vayaṃ havāmahe ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । शश्वतां । असि । इंद्र । साधारणः । त्वं ।  
+> तं । त्वा । वयं । हवामहे ॥ १३ ॥
+
+> *yat | cit | hi | śaśvatāṃ | asi | iṃdra | sādhāraṇaḥ | tvaṃ |*  
+> *taṃ | tvā | vayaṃ | havāmahe ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यच्चिद्धि यद्यपि खलु शश्वतां बहूनां सर्वॆषां यजमानानां साधारणोऽसि । सामान्यो भवसि । तथापि तमेव त्वा त्वां वयं स्तोतारो
+> हवामहे । आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, although you are common (साधारणः (*sādhāraṇaḥ*)) to many, to all the sacrificers, and belong to all alike, yet it is you, just such as you are, whom we, the praisers, invoke, that is, call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यच्छिद्धि (*yacchiddhi*)—even if
+- त्वं (*tvaṃ*)—you
+- शश्वतां (*śaśvatāṃ*)—to many sacrificers
+- साधारणः (*sādhāraṇaḥ*)—although you are worshipped alike
+- तं त्वा (*taṃ tvā*)—you, who are needed by all
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—we pray and call (only that you may help us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are needed by all sacrificers and are venerable to all. Even so, we worship and call you so that you may help us alone.
+
+##### English translation (H. H. Wilson)
+Although, Indra, you are the common property of (all) worshippers we invoke you (such) as you are (for ourselves).
+
+### Printed p. 279
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वा॒ची॒नो व॑सो भवा॒स्मे सु म॒त्स्वांध॑सः ।  
+> सोमा॑नामिंद्र सोमेषाः ॥ १४ ॥
+
+> *arvācīno vaso bhavāsme su matsvāṃdhasaḥ |*  
+> *somānāmiṃdra someṣāḥ ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाचीनः । वसो इति । भव । अस्मे इति । सु । मत्स्व । अंधसः ।  
+> सोमानां । इंद्र । सोमपाः ॥ १४ ॥
+
+> *arvācīnaḥ | vaso iti | bhava | asme iti | su | matsva | aṃdhasaḥ |*  
+> *somānāṃ | iṃdra | somapāḥ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो यज्ञनिवासकेंद्र त्वमस्मे अस्मासु यजमानेष्वर्वाचीनोऽभिमुखो भव । तथा हे सोमपाः सोमानां पातरिंद्र त्वं सोमानामंधसोऽन्नेन सु सुष्टु मत्स्य । माद्य ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Indra who dwell at the sacrifice, turn towards us, the sacrificers, and be favourable. And, O Soma-drinker, drinker of the Somas, be well exhilarated by the food (अंधसः (*aṃdhasaḥ*)) of the Somas. माद्य (*mādya*) is given as the gloss of the verb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, who provide the place of sacrifice
+- अस्मे (*asme*)—among us, the sacrificers
+- अर्वाचीनः (*arvācīnaḥ*)—facing us
+- भव (*bhava*)—be
+- सोमपाः (*somapāḥ*)—drinker of Soma
+- इंद्र (*iṃdra*)—O Indra
+- सोमानां (*somānāṃ*)—of the Somas
+- अंधसः (*aṃdhasaḥ*)—by drinking the food in the form of juice
+- सु (*su*)—greatly
+- मत्स्य (*matsya*)—be delighted
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who provide the place of sacrifice, be turned towards us, the sacrificers. O Indra, drinker of Soma, be greatly delighted by drinking the juice-like food of the Somas.
+
+##### English translation (H. H. Wilson)
+Giver of dwellings, be present with us, drinker of the Soma, be exilarated by the beverage of the juices.
+
+### Printed p. 280
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माकं॑ त्वा मत्ती॒नामा स्तोम॑ इंद्र यच्छतु ।  
+> अ॒र्वागा व॑र्तया॒ हरी॑ ॥ १५ ॥
+
+> *asmākaṃ tvā mattīnāmā stoma iṃdra yacchatu |*  
+> *arvāgā vartayā harī ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । त्वा । मतीनां । आ । स्तोमः । इंद्र । यच्छतु ।  
+> अर्वाक् । आ । वर्तय । हरी इति ॥ १५ ॥
+
+> *asmākaṃ | tvā | matīnāṃ | ā | stomaḥ | iṃdra | yacchatu |*  
+> *arvāk | ā | vartaya | harī iti ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मतीनां स्तोत्थणां ॥ मन्यतेः कर्तरि क्तिच् ॥ आस्माकं संबंधि स्तोमः
+> स्तोत्रं हे इंद्र त्वा त्वामा यच्छतु । अस्मासु नियच्छतु । त्वमपि हरी त्वदीयावश्वावर्नागस्मदभिमुखं यथा भवति तथा आ वर्तय । परिवर्तनं कुरु ॥
+
+##### Gist of the bhāṣya
+
+मतीनां (*matīnāṃ*) means "of the praisers", the word being formed from the root मन्यतेः (*manyateḥ*) with an agent suffix. May our praise (स्तोमः (*stomaḥ*)), O Indra, bring you to us and hold you among us. And you, make your two horses turn towards us; bring about their turning round.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मतीनां (*matīnāṃ*)—of the praisers
+- अस्माकं (*asmākaṃ*)—our
+- स्तोमं (*stomaṃ*)—praise
+- त्वा (*tvā*)—you
+- आ यच्छतु (*ā yacchatu*)—let it keep among us
+- हरी (*harī*)—your horses named Hari
+- अर्वाक् (*arvāk*)—so that they face us
+- आ वर्तय (*ā vartaya*)—turn
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the praise of us, your praisers, always keep you among us. Turn your horses, named Hari, towards us.
+
+##### English translation (H. H. Wilson)
+May the praise (of us) who are devoted (to you) Indra, give you to us: guide your horses towards us.
+
+### Printed p. 281
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॑ च नो॒ घसो॑ जो॒षया॑से॒ गिर॑श्च नः ।  
+> व॒धू॒युरि॑व॒ योष॑णां ॥ १६ ॥
+
+> *puroḷāśaṃ ca no ghaso joṣayāse giraśca naḥ |*  
+> *vadhūyuriva yoṣaṇāṃ ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशं । च । नः । घसः । जोषयासे । गिरः । च । नः ।  
+> वधूयुः इव । योषणां ॥ १६ ॥
+
+> *puroḷāśaṃ | ca | naḥ | ghasaḥ | joṣayāse | giraḥ | ca | naḥ |*  
+> *vadhūyuḥ iva | yoṣaṇāṃ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मदीयं पुरोळाशं च पुरोडाशरूपमन्नं च घसः ।
+> अद्धि । तथा नोऽस्मदीया गिरश्च स्तुतिरूपा वाचश्च जोषयासे । सेवस्व । तत्र
+> दृष्टांतः । वधूयुरिव । स्त्रीकामो यथा योषणां स्त्रीणां गिरः सेवते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, eat our पुरोळाशं (*puroḷāśaṃ*), the food in the form of the purodāśa cake, and likewise take pleasure in (serve, enjoy) our words, that is, our speech in the form of praise. An illustration is given: as one desirous of women (वधूयुः (*vadhūyuḥ*)) attends to the words of women (योषणां (*yoṣaṇāṃ*)), so you do.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—offered by us
+- पुरोळाशं च (*puroḷāśaṃ ca*)—also the food in the form of purodāśa
+- घसः (*ghasaḥ*)—eat
+- योषणां (*yoṣaṇāṃ*)—the words of a woman
+- वधूयुः इव (*vadhūyuḥ iva*)—as a man desirous of women listens to them with regard
+- गिरश्च (*giraśca*)—also our words of praise
+- जोषयासे (*joṣayāse*)—enjoy with regard
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, eat the food in the form of purodāśa offered by us. As a man desirous of women listens to a woman's words with regard, so you too enjoy our words of praise with regard.
+
+##### English translation (H. H. Wilson)
+Eat (Indra) our cakes and butter; be pleased by our praise as a libertine (by the caresses) of a woman.
+
+### Printed p. 282
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रं॒ व्यती॑नां यु॒क्ताना॒मिंद्र॑मीमहे ।  
+> श॒तं सोम॑स्य खा॒र्यः॑ ॥ १७ ॥
+
+> *sahasraṃ vyatīnāṃ yuktānāmiṃdramīmahe |*  
+> *śataṃ somasya khāryaḥ ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रं । व्यतीनां । युक्तानां । इंद्रं । ईमहे ।  
+> शतं । सोमस्य । खार्यः ॥ १७ ॥
+
+> *sahasraṃ | vyatīnāṃ | yuktānāṃ | iṃdraṃ | īmahe |*  
+> *śataṃ | somasya | khāryaḥ ‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं स्तोतार इंद्रं परमैश्वर्ययुक्तं युक्तानां शिक्षितानां व्यतीनां
+> गमनवतामश्वानां सहस्रं सहस्रसंख्याकमीमहे । याचामहे । तथा सोमस्याभिषुतसोमस्य शतं शतसंख्याकाः खार्यः खारीरीमहे । अत्र मानविशेषवाचिना
+> खारीशब्देन द्रोणकलश उपलक्ष्यते । आपरिमितद्रोणकलशान् बहून्यज्ञान्याचामह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We, the praisers, ask Indra, endowed with supreme lordship, for a thousand (सहस्रं (*sahasraṃ*)) trained, swift-going horses. And we ask for a hundred खार्यः (*khāryaḥ*) of Soma, of pressed Soma. Here the word खारी (*khārī*), which denotes a particular measure, stands for the Droṇa-kalaśa vessel; the meaning is that we ask for many Droṇa-kalaśas of unmeasured quantity at the sacrifices. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं (*iṃdraṃ*)—Indra
+- युक्तानां (*yuktānāṃ*)—trained
+- व्यतीनां (*vyatīnāṃ*)—swift-moving, of horses
+- सहस्रं (*sahasraṃ*)—the number of a thousand
+- ईमहे (*īmahe*)—we ask
+- सोमस्य (*somasya*)—filled with pressed Soma
+- शतं (*śataṃ*)—a hundred
+- खार्यः (*khāryaḥ*)—Droṇa-kalaśas; we ask for these too
+
+##### भावार्थ (Bhāvārtha)
+
+We ask Indra for a thousand well-trained, swift-moving horses. We also ask him for a hundred Droṇa-kalaśas filled with Soma juice.
+
+##### English translation (H. H. Wilson)
+We solicit, Indra for a thousand well-trained, swift-going horses, for a hundred jars of Soma juice.
+
+### Printed p. 283
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रा॑ ते श॒ता व॒यं गवा॒मा च्या॑वयामसि ।  
+> अ॒स्म॒त्रा राध॑ एतु ते ॥ १८ ॥
+
+> *sahasrā te śatā vayaṃ gavāmā cyāvayāmasi |*  
+> *asmatrā rādha etu te ‖ 18 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रा । ते । शता । वयं । गवां । आ । च्यवयामसि ।  
+> अस्मत्रा । राधः । एतु । ते ॥ १८ ॥
+
+> *sahasrā | te | śatā | vayaṃ | gavāṃ | ā | cyavayāmasi |*  
+> *asmatrā | rādhaḥ | etu | te ‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयानि गवां सहस्रा सहस्रसंख्याकानि शता शतसंख्याकानि चा
+> च्यावयामसि । आच्यावयामः । अस्मदभिमुखं कुर्मः । तथास्मत्रा अस्मासु त्वदीयं
+> राधो धनं ते त्वत्त एतु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we bring towards us your thousands and hundreds of cattle, that is, we make them face us. And may your wealth (राधः (*rādhaḥ*)) come from you to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—belonging to you
+- गवां (*gavāṃ*)—of cattle
+- सहस्रा (*sahasrā*)—the number of thousands
+- शता (*śatā*)—and of hundreds
+- आ च्यावयामसि (*ā cyāvayāmasi*)—we turn them from you and make them come towards us
+- अस्मत्रा (*asmatrā*)—among us
+- राधः (*rādhaḥ*)—(your) wealth
+- ते (*te*)—from you
+- एतु (*etu*)—let it come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we shall make hundreds and thousands of your cattle come to us. May all your wealth come to us.
+
+##### English translation (H. H. Wilson)
+We seek to bring down from you thousands and hundreds of cattle; may riches come to us from you.
+
 ---
 
-**Progress note:** Done through printed p. 277. pp. 272-277 (batch API)
+**Progress note:** Done through printed p. 283. pp. 278-283 (batch API)
