@@ -23796,6 +23796,269 @@ The piśācas or bhūtas on the earth are enemies of men. The word that denotes 
 
 These piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In bird form they fly about at night (7-104-18). Taking the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or a monkey they lie in wait to fall upon women (A. Ve. 4-37-11).**NOTE** Hence pregnant women and children are troubled by them. (A. Ve. 8-6). At the time of marriage they move about around the bride; to pierce their eyes (?) they shoot small arrows into the atmosphere (Mā. Gṛ. Sū. 1-10).**NOTE** The description of their form and so on is found in the Atharvaveda itself. They in particular take form like men. Mention is made of their limbs, such as head, eyes, heart; but some deformity is always there: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward, or horns on the hands, and so on (A. Ve. 8-6; Hi. Gṛ. Sū. 2-3-7).**NOTE** Blue, yellow or green piśācas are also mentioned (A. Ve. 19-22-4, 5). Among them also there are males and females, families, and kings (A. Ve. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they too are mortal (A. Ve. 6-32-2; and so on).
 
+### Printed p. 761
+The Yātudhānas eat the flesh of men and of horses, and they drink cow's milk (10-86-16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men. This attack is generally made by entering them. Agni is prayed to keep the Rākṣasas from entering the worshippers (8-48-20). A disease-spirit, a Piśāca flitting hither and thither, enters men (Atha. Saṃ. 7-76-4). These ghosts and spirits generally enter us through our mouth when we eat or drink (Atha. Saṃ. 5-29-6 to 8); they also enter by other openings (Atha. Saṃ. 8-6-3). As soon as they are inside, they tear out and eat the man's flesh and cause disease (Atha. Saṃ. 5-29-5, 10). They cause madness and destroy the power of speech (Atha. Saṃ. 6-1113; Hi. Gṛ. Sū. 1-15-5). They invade men's dwellings (Kau. Sū. 135-9). Some spirits, in the evening, go about the houses dancing and braying like asses, or roam in the forests, or laugh loudly or drink from skulls (Atha. Saṃ. 8-6-10), 11, 14; Hi. Gṛ. Sū. 2-3-3).
+**NOTE**
+**NOTE**
+**NOTE**
+
+Their time of roaming is night or evening (7-104-8). In the eastern quarter their sport does not go on; the sun rising there drives them away (Tai. Saṃ. 2-6-6.3). A falling meteor is thought to be the form of a spirit (Kau. Sū. 126-9). As the pitch darkness of the new-moon night is fit for the roaming of the departed, so it is the favourable time for the spirits too (Atha. Saṃ. 1-16-1; 4-36-3).
+
+Nothing endangers sacrifices as much as they do. In sacrifices fit for the gods the Piśācas cause defects and omissions, and the Yātus scatter the offered oblations here and there (7-104-18, 21). They cannot bear the sight of praise (10-182-3). Agni is prayed to burn up the spirits and the like, so that no curse may touch the sacrifice (1-76-3). There is a mantra that makes an enemy's sacrifice fail to prosper through the magic of the Yātudhānas and the Rakṣas hosts (Atha. Saṃ. 7-70-2). They come as departed spirits and obstruct the food and water offered to the dead (Atha. Saṃ. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is common that these Rakṣas (commonly called Rākṣasas) trouble yogis.
+
+Agni, the dispeller of darkness and the lord of the sacrifice, has a deep hatred of them. Prayer is made to Agni himself: burn them, drive them off, destroy them (10-87-3-6 and so on). It is from this poem that Agni and some other deities have the name "Rakṣohā" (slayer of Rakṣas).
+
+### Printed p. 762
+These spirits are not only harmful by nature; they sometimes do harm when impelled by others. The expression rakṣoyujaḥ (those who impel Rākṣasas) is found (6-62-9), and here and there there are the spirits and Yātus of the magicians (7-104-23; 8-60-20). One who is afflicted by a spirit sent by an enemy can drive them away by offering oblation to Agni Yaviṣṭha (Tai. Saṃ. 2-2-3-2); and those spirits themselves are commanded to swallow him who sent them (Atha. Saṃ. 2-2-4).
+
+In the sense of spirits the word rakṣaḥ is used in both the masculine and the feminine; in the neuter it also means danger. It may come from the root rakṣ (to trouble), "harmful"; but this use is very rare. It may also come from the common rakṣ, to protect; in that case rakṣaḥ means "that which is to be guarded against".
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृणुष्वेति पंचदशर्चं चतुर्थं सूक्तं नामदेवस्यार्षं त्रैष्टुभं रक्षोहाग्नि देवताकं । कृणुष्ट पंचोना राक्षोघ्नमित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोः सूक्तविनियोगः ॥ प्रवर्ग्येऽभिष्टवे कृणुष्ट पाज इत्याद्याः पंचर्चो
+> विनियुक्ताः । सूत्रितं च । कृणुष्ट पाजः प्रसितिं न पृथ्वीमिति पंच । आ. ४-६ । इति ॥
+> अनुवादवु—कृणुष्ट ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु.
+> इदरल्लि हदिनैदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋपियु ; रक्षोहाग्नियु देव
+> तॆयु ; त्रिष्टुप् छंदस्सु अनुक्रमणिकॆयल्लि—कृणुष्ट पंचोना राक्षोघ्नं ऎंदु हेळिरु
+> वुदु. प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्र पठनक्कागि ई सूक्तद विनियोगविरुवुदु. प्रवर्ग्य
+> वॆंब यागदल्लियू कृणुष्ट पाजः ऎंदु मॊदलागुव ऐदु ऋक्कुगळ विनियोगविरुवुदॆंदु
+> आश्वलायनशौतसूत्रद—कृणुष्ट पाजः प्रसितिं न पृथ्वीमिति पंच ऎंब सूत्रदिंद
+> (आ. ४-६) विवृतवागिरुवुदु.
+> vjoh
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कृणुष्व (*kṛṇuṣva*) is the fourth sūkta, of fifteen ṛks. Its seer is Vāmadeva, its deity Agni as Rakṣohā (slayer of Rakṣas), its metre Triṣṭubh. The Anukramaṇikā says: कृणुष्ट पंचोना राक्षोघ्नमित्यनुक्रमणिका (*kṛṇuṣṭa paṃconā rākṣoghnamityanukramaṇikā*). Viniyoga: the sūkta is used in the Prātaranuvāka and in the Āśvinaśastra. In the Pravargya, in the Abhiṣṭava, the five ṛks beginning कृणुष्ट पाजः (*kṛṇuṣṭa pājaḥ*) are employed; the sūtra says कृणुष्ट पाजः प्रसितिं न पृथ्वीमिति पंच (*kṛṇuṣṭa pājaḥ prasitiṃ na pṛthvīmiti paṃca*) (Ā. 4-6). The Kannada Anuvāda within the block says the same.
+**NOTE**
+
+### Printed p. 763
+
+##### Particulars
+
+> सूक्त—४
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—४ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—२३, २४, २५ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—१५ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—अग्नी रक्षोहा ॥
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒णु॒ष्ट पाजः॒ प्रसि॑तिं॒ न पृ॒थ्विं या॒हि राजे॒नाम॑वा॒  ॑
+> इभेन ।  
+> तृ॒प्तिमनु॒ प्रसि॑तिं द्रोणा॒नोस्ता॑सि॒ विध्य॑ र॒क्षस॒स्तपि॑ष्ठैः ॥ १ ॥
+
+> *kṛṇuṣṭa pājaḥ prasitiṃ na pṛthviṃ yāhi rājenāmavā*  
+> *ibhena |*  
+> *tṛptimanu prasitiṃ droṇānostāsi vidhya rakṣasastapiṣṭhaiḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृणुष्ट । पाजः । प्रसितिं । न । पृथ्वीं । याहि । राजाइव । अमवान् । इभेन ।  
+> तृष्टीं । अनु । प्रसितिं । द्रोणानः । अस्ता । असि । विध्य । रक्षसः । तपिष्ठैः ॥ १ ॥
+
+> *kṛṇuṣṭa | pājaḥ | prasitiṃ | na | pṛthvīṃ | yāhi | rājāiva | amavān | ibhena |*  
+> *tṛṣṭīṃ | anu | prasitiṃ | droṇānaḥ | astā | asi | vidhya | rakṣasaḥ | tapiṣṭhaiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पाजस्तेजःसंघं कृणुष्ट । कुरुष्ट । विस्तारय । तत्र दृष्टांतः ।
+> प्रसितिं न । यथा मृगयुः पृथ्वीं विस्तीर्णां प्रसितिं । प्रकर्षण सीयते बध्यत
+> इति प्रसितिर्वागुरा । तादृशीं प्रसितिं पक्षिग्रहणार्थं वनगहनेषु प्रसारयति
+> तद्वत्त्वमपि रक्षांसि हंतुं महद्बलमग्रतस्तनुष्ट । इभेन गतभयेन तेजःसंघेन
+> युक्तस्त्वं याहि । रक्षांसि हंतुं गच्छ । तत्र दृष्टांतः । राजेव । यथामवान्
+> राजा । सह वर्तत इत्यमोऽमात्यः तद्वान् । यद्वा । अमोऽमनं रोगः ।
+> शत्रूणां कर्तवै रोगैस्तद्वान् । शत्रूणां रोगभूत इत्यर्थः । राजेभेन गजेन
+> युक्तः सन् परबलं प्रतिगच्छति तद्वत् । किंच तृष्टीं । तृष्टीति क्षिप्रनाम । क्षिप्रगामिनीं प्रसितिं प्रकृष्णां सेनामनु द्रोणानोऽनुगच्छन् । यद्वा । तृष्टीमिति तृतीयार्थे द्वितीया । तृष्णा क्षिप्रया प्रसित्यानुबद्धया संततया गत्या द्रोणानः
+> परसेनां हिंसन् अस्ता शत्रूणां क्षेप्तासि । तपिष्ठैस्तप्ततमैस्तजोभी रक्षसो
+> राक्षसान्विद्य । ताडय ॥ अत्र निरुक्तं । कुरुष्ट पाजः । पाजः पालनात् । प्रसितिमिव
+> पृथ्वीं । प्रसितिः प्रसहनात्तंतुर्वा जालं वा । याहि राजीनामात्यवानभ्यमनवा-
+
+##### Gist of the bhāṣya
+
+"O Agni, make (spread out) your mass of energy (pājas)." The illustration: as a hunter spreads a wide snare (prasiti) — prasiti is a net, that which is bound (sīyate) out and out — in thick forest to catch birds, so you too spread a great force in front to slay the Rakṣas. "Go (yāhi) to slay Rakṣas, accompanied by a mass of energy free from fear (ibhena)", like a king (amavān): amaḥ is a minister (āmātya), one who is with him; or else amaḥ is illness (amana), the king who is a disease to his enemies; or the king goes against the enemy's army on an elephant (ibha). Further, tṛṣṭī is a word for "swift": following (dronānaḥ) the swift-going prasiti, the superior army. Or else tṛṣṭīm stands in the accusative for the instrumental: going on with the swift, continuous course attached to the host, you, harming the enemy army, are the hurler (astā) of foes. With your hottest (tapiṣṭha) flames pierce (vidhya), strike, the Rakṣas. Here the Nirukta: कुरुष्ट पाजः । पाजः पालनात् । प्रसितिमिव पृथ्वीं । प्रसितिः प्रसहनात्तंतुर्वा जालं वा । याहि राजीनामात्यवानभ्यमनवा- (*kuruṣṭa pājaḥ | pājaḥ pālanāt | prasitimiva pṛthvīṃ | prasitiḥ prasahanāttaṃturvā jālaṃ vā | yāhi rājīnāmātyavānabhyamanavā-*) (continued in the next block).
+
+### Printed p. 764
+
+> न्तस्त्ववान्वेरावता गणेन गतभयेन हस्तिनेति वा । तृष्णानु प्रसित्या द्रोणानः ।
+> तृष्टीति क्षिप्रनाम तरतेर्वा त्वरतेर्वा । अस्तासि विध्य रक्षसस्तपिष्ठैस्तप्ततमैस्तपिष्ठतमैरिति वा । नि. ६-१२ । इति ॥ कृणुष्ट । कृवि हिंसाकरणयोः । लोटि धिन्विकृण्वॊर -
+> च्छेत्युप्रत्ययः । व्यत्ययेनात्मनेपदं । विकरणस्वरस्तु सति शिष्टोऽपि लसार्वधातुक
+> स्वरं न बाधत इति लसार्वधातुकस्वरः । म. ६-१-१५८-११ ॥
+
+##### Gist of the bhāṣya
+
+The Nirukta continues: with a troop that has lost fear, or with an elephant; tṛṣṭī is a word for swift, from tarati or tvarate; "you are the hurler, pierce the Rakṣas with the hottest", tapiṣṭha being explained as tapta-tama or tapiṣṭha-tama (Ni. 6-12). The rest of the block is grammar of kṛṇuṣva and is left to the Grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पृथ्विं (*pṛthviṃ*)—wide
+- प्रसितं न (*prasitaṃ na*)—as (a hunter) spreads a net
+- पाजः (*pājaḥ*)—your mass of energy
+- कृणुष्ट्व (*kṛṇuṣṭva*)—spread out
+- इभीन (*ibhīna*)—mounted on an elephant
+- अमवान् (*amavān*)—with his retinue
+- इव (*iva*)—like a king setting out on a campaign
+- इभेन (*ibhena*)—together with your energies
+- याहि (*yāhi*)—set out to destroy the enemy
+- प्रसितिं (*prasitiṃ*)—the excellent army
+- अनु द्रोणानः (*anu droṇānaḥ*)—following
+- अस्ता असि (*astā asi*)—you are the scatterer of foes
+- तपिष्ठैः (*tapiṣṭhaiḥ*)—with scorching energies
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- विध्य (*vidhya*)—beat down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, spread out your mass of energy as a hunter casts and spreads a wide net. As a king mounted on an elephant and accompanied by his retinue sets out on a campaign, so set out with your energies to destroy the enemy. Following the excellent army, you are the scatterer of foes. With scorching energies beat down the Rākṣasas.
+
+##### English translation (H. H. Wilson)
+Put forth your strength, Agni, as a fowler spreads a capacious snare : proceed like a king attended by his followers on his elephant : you are the scatterer ( of your foes ) ; following the swift-moving host consume the Rakshasas with your fierce flames
+
+##### विशेषविषयगळु (Special Topics)
+
+Amavān—In stating the derivation of this word, Yāska has given an explanation of this ṛk कृणुस्व पाजः (*kṛṇusva pājaḥ*): कुरुष्व पाजः । पाजः पालनात् । प्रसितिमिव पृथ्वीं । प्रसितिः प्रसयनात् तंतुर्वा जालं ना! याहि राजीनामात्यवानभ्यमनवान् स्ववान्वेराभृता गणेन गतभयेन हस्तिनेति वा । तृष्णानु प्रसित्या द्रोणाननः । तृष्णिति क्षिप्रनाम तरतेर्वा त्वरतेर्वा । असितासि विध्यरक्षसस्तपिष्ठैस्तप्ततम्मस्तप्ततम्मैः प्रपिष्टतम्मैरिति वा । (*kuruṣva pājaḥ | pājaḥ pālanāt | prasitimiva pṛthvīṃ | prasitiḥ prasayanāt taṃturvā jālaṃ nā! yāhi rājīnāmātyavānabhyamanavān svavānverābhṛtā gaṇena gatabhayena hastineti vā | tṛṣṇānu prasityā droṇānanaḥ | tṛṣṇiti kṣipranāma taratervā tvaratervā | asitāsi vidhyarakṣasastapiṣṭhaistaptatammastaptatammaiḥ prapiṣṭatammairiti vā |*) (नि (*ni*). ६ १ (*6 1*):) **NOTE**
+
+### Printed p. 765
+O Agni, spread out your strength. The word pājaḥ indicates the meaning "protection". The word prasiti, formed from the root pra+si, gives the meaning "bind, tie"; therefore prasiti means a cord or a net. Here Agni is addressed: go like a king. The manner of a king's going is described thus: like a king with his amātya (minister), or going terrible to his enemies, or going together with his followers, or going seated on a fearless elephant — so Agni is praised: go like that. Tṛṣṭi means "quickly"; this word may be formed from the root tarati or from tvarati. O Agni, strike the Rākṣasas with arrows, harm them, and pierce, pulverise and destroy them with burning or blazing sharp spears (śalya): so Agni is praised.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ भ्र॒मास॑ आशु॒या प॑तं॒त्यनु॑ स्पृश धृष॒ता शोशु॑चानः ।  
+> तपूं॑ष्यग्ने जु॒ह्वा॑ पतं॒गानसं॑दितो॒ वि सृ॑ज॒ विश्व॑गु॒ल्काः । २ ॥
+
+> *tava bhramāsa āśuyā pataṃtyanu spṛśa dhṛṣatā śośucānaḥ |*  
+> *tapūṃṣyagne juhvā pataṃgānasaṃdito vi sṛja viśvagulkāḥ | 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस । भ्रमासः । आतुया । पतंति । असु । स्पृश । धृषता । शोशुचानः ।  
+> तपूंषि । अग्ने । जुह्वा । पतंगान् । असंदितः । वि । सृज । विष्वक् । उल्काः ॥ २ ॥
+
+> *tasa | bhramāsaḥ | ātuyā | pataṃti | asu | spṛśa | dhṛṣatā | śośucānaḥ |*  
+> *tapūṃṣi | agne | juhvā | pataṃgān | asaṃditaḥ | vi | sṛja | viṣvak | ulkāḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तव संबंधिनो भमासो भ्राम्यंत आशुया शीघ्रगतयो रश्मयः
+> पतंति । सर्वतः प्रसरंति । शोशुचानो भृशं दीप्यमानस्त्वं धृषताभिभवसमर्थेन
+> तेजःसंघेन शत्रूननु क्रमेण स्पृश । दह । दहनोपायं दर्शयति । असंदितः
+> परैरनिरुद्धस्त्वं तपूंषि तापकानि तेजांसि पतंगान् पतनशीलान्विस्सुलिंगानुल्याश्चेत्येतत्त्रितयं जुह्वा । हूयंतेऽस्यामाहुतय इति जुहूर्च्चाला । तया निष्वक्
+> सर्वतो वि सृज । प्रसारय ॥ आशुया । आशुशब्दाज्जसः सुपां सुलुगिति याजादेशः।
+> चित्स्वरः । धृषता । धृष प्रसहने । चुरादिराधृषीयः । व्यत्ययेनशः । शतुरनुम
+> इति विभक्तेरुदात्तत्वं । जुह्वा । जुहोतीदीर्घश्चेति क्विप् द्विर्वचनं दीर्घत्वं ।
+> उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वस्य नोञ्धात्वोरिति प्रतिषेध उदात्त-
+
+##### Gist of the bhāṣya
+
+"O Agni, your wandering (bhramāsaḥ), swift-going rays fall (patanti), spread everywhere. Blazing (śośucānaḥ) intensely, touch (spṛśa) the enemies in order, burn them, with your mass of energy that can overpower (dhṛṣatā)." He shows the means of burning: unhindered (asandita) by others, scatter everywhere (viṣvak, vi sṛja) with the juhū, that is the flame, in which oblations are offered, your scorching energies (tapūṃṣi), the flying sparks (patangān) and the brands (ulkāḥ) — these three. The rest of the block is grammar (āśuyā, dhṛṣatā, juhvā, asandita) and continues on the next page.
+
+### Printed p. 766
+
+> स्वरितयोर्यण इति स्वरितत्वं । असंदितः । दो अवखंडने । कर्मणि निष्ठा । द्यतिस्यतीतीत्वं । नञ्जा समासे तस्य स्वरः ॥
+
+##### Gist of the bhāṣya
+
+The block gives only grammatical derivations (asandita, from the root dā, avakhaṇḍane, with the negative compound and its accent).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- भ्रमासः (*bhramāsaḥ*)—wandering
+- आशुया (*āśuyā*)—swift-moving rays
+- पतंति (*pataṃti*)—spread everywhere
+- शोशुचानः (*śośucānaḥ*)—you, brightly shining
+- धृषता (*dhṛṣatā*)—with the energy that checks enemies
+- अनु (*anu*)—in order
+- स्पृश (*spṛśa*)—burn (the enemies)
+- असंदितः (*asaṃditaḥ*)—you, not stopped by enemies
+- तपूंषि (*tapūṃṣi*)—burning energies
+- पतंगान् (*pataṃgān*)—sparks
+- उल्काः (*ulkāḥ*)—brands
+- जुह्वा (*juhvā*)—with your flame
+- विस्वक् (*visvak*)—everywhere
+- वि सृज (*vi sṛja*)—spread out
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your wandering, swift-moving rays spread everywhere. Brightly shining, burn the enemies in order with the energy that checks enemies. Unhindered by enemies, spread everywhere with your flame your burning energies, sparks and brands.
+
+##### English translation (H. H. Wilson)
+your swift and errant flames descend (on every side) ; fierce-shining with vigour consume (the foe) ; scatter, Agni, with the ladle (of oblation), scorching flames, and sparks, and brands.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॒ स्पशो॒ वि सृ॑ज॒ तूर्णि॑तमो॒ भवा॑ पा॒युर्वि॒शो अ॒स्या  ॑
+> अद॑ब्धः ।  
+> यो नो॑ दू॒रे अ॒घशं॑सो॒ यो अंत्यग्ने॒ माकि॑ष्टे॒ व्यथि॒रा  ॑
+> दधर्षीत् ॥ ३ ॥
+
+> *prati spaśo vi sṛja tūrṇitamo bhavā pāyurviśo asyā*  
+> *adabdhaḥ |*  
+> *yo no dūre aghaśaṃso yo aṃtyagne mākiṣṭe vyathirā*  
+> *dadharṣīt ‖ 3 ‖*
+
+### Printed p. 767
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । स्पशः । वि । सृज । तूर्णेतमः । भव । पायुः । विशः । अस्याः । अदब्धः ।  
+> यः । नः । दूरे । अघशंसः । यः । अंति । अग्ने । माकिः । ते । व्यथिः । आ ।  
+> दधर्षीत् ॥ ३ ॥
+
+> *prati | spaśaḥ | vi | sṛja | tūrṇetamaḥ | bhava | pāyuḥ | viśaḥ | asyāḥ | adabdhaḥ |*  
+> *yaḥ | naḥ | dūre | aghaśaṃsaḥ | yaḥ | aṃti | agne | mākiḥ | te | vyathiḥ | ā |*  
+> *dadharṣīt ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तूर्णितमस्त्वरिततमस्त्वं स्पशः परबाधकान्रश्मिन् चारान्वा सत्यानृतविवेकार्थं वि सृज । शत्रून्प्रति विशेषेण प्रेरय । अदब्धः केनाप्यहिंसितस्त्वमस्यास्त्वदीयाया विशोऽस्मदादिकायाः प्रजायाः पायु: पालको भव । कस्मात्तद्रक्षण.
+> मित्यपेक्षायामाह । नोऽस्माकं दूरे योऽघशंसः । अघं पापात्मकं शंसनमभिलाषः कीर्तनं ना यस्य सोऽघशंसः । यश्चाघशंसोऽ०त्यस्माकं समीपे तिष्ठति
+> शस्मादुभयविधाच्छत्रोः पालको भव । किंच ते त्वत्संबंधिनोऽस्मान्माकिर्न
+> कश्चिदपि व्यथिर्बाधको राक्षस आ दधर्षीत् । आधर्षयतु । आस्माकं कश्चिदपि
+> परिभवं मा करोत्वित्यर्थः ॥ अंति । अंतिकस्य कादिलोप आद्युदात्तत्वं च । अग्ने ।
+> षादादित्वात्पाष्ठिकमाद्युदात्तत्वं । माकिष्ट इति संहितायां युष्मत्तत्ततक्षुःष्टंतः
+> पादमिति षत्वं । दधर्षीत् । धृष प्रसहने । लजु बहुलं छंदसीति शपः श्लुः ।
+> बहुलं छंदसीति तिप ईडागमः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, swiftest (tūrṇitama), send forth (vi sṛja) your stinging (spaśaḥ) rays — or spies, for the discernment of truth and falsehood — send them forth especially against the enemies. Unharmed (adabdha) by anyone, be the protector (pāyuḥ) of this your people (viś), that is, of us and others." If it is asked from what protection is needed, he says: whoever is far from us as an aghaśaṃsa — one whose utterance (śaṃsana), wish or praise, is aghaṃ, sinful — and whoever stands near us: be the protector against both kinds of enemy. "And let no one, no harassing (vyathi) Rākṣasa, assail (ā dadharṣīt) us who are yours": that is, let no one at all overcome us. The rest of the block is grammar (anti, agne, mākiṣṭe, dadharṣīt).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तूर्णितमः (*tūrṇitamaḥ*)—you, of swift motion
+- स्पशः (*spaśaḥ*)—your rays that harm the enemies
+- प्रति वि सृज (*prati vi sṛja*)—spread and send forth
+- अदब्धः (*adabdhaḥ*)—you, harmed by none
+- अस्याः (*asyāḥ*)—belonging to you
+- विशः (*viśaḥ*)—to us, your people
+- पायुः (*pāyuḥ*)—as protector
+- भव (*bhava*)—be
+- नः (*naḥ*)—to us
+- दूरे (*dūre*)—far away
+- यः (*yaḥ*)—which
+- अघशंसः (*aghaśaṃsaḥ*)—sinner
+- यः (*yaḥ*)—which sin-wisher
+- अंति (*aṃti*)—is near (protect us from all of them)
+- ते (*te*)—us who belong to you
+- माकिः (*mākiḥ*)—no one at all
+- व्यथिः (*vyathiḥ*)—as a harasser
+- आ दधर्षीत् (*ā dadharṣīt*)—let him not fall upon (us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of swift motion, spread your rays that harm the enemies. Unharmed by anyone, protect us, your people, from all sinners, whether far or near. Let no one fall upon us who belong to you and harm us.
+
 ---
 
-**Progress note:** Done through printed p. 760. pp. 755-760 (batch API)
+**Progress note:** Done through printed p. 767. pp. 761-767 (batch API)
