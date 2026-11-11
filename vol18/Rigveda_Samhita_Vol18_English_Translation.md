@@ -3845,6 +3845,198 @@ Glorified (in the past), glorified, Indra, at present, satisfy your worshipper w
 This Ṛk is read, besides in this sūkta, as the last Ṛk in the 20th–24th sūktas also. इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पीपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pīpeḥ*)—O Indra, you were praised formerly by many seers. Now you are praised by us. As rivers are filled with rain-water and flow fully, fill food (food and other sustenance) for us who praise you; that is, give it plentifully.
 नु-नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu-nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. The passage continues: इदं नु करिष्यति (*idaṃ nu kariṣyati*)
 
+### Printed p. 113
+When one says *idaṃ nu kariṣyati* ("he will do this"), the word नु (*nu*) has a causal sense, "therefore". When one says कथं नु करिष्यति (*kathaṃ nu kariṣyati*), the word नु (*nu*) has an interrogative sense, "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used when a comparison is indicated. For example:
+
+अक्षो न चक्र्योः शूर बृहन्प्र ते मह्ना रिरिचे रोदस्योः । (*akṣo na cakryoḥ śūra bṛhanpra te mahnā ririce rodasyoḥ |*)
+वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*) (Ṛ. Saṃ. 6-24-3).
+
+The author of the Nirukta cites this Ṛk (Ni. 1-4) and says that in वृक्षस्य नु ते (*vṛkṣasya nu te*), that is, वृक्षस्येव ते (*vṛkṣasyeva te*), the word नु (*nu*) has the sense of comparison: "like a tree", or "like the branches of a tree". Likewise:
+
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*) (Ṛ. Saṃ. 7-100-11).
+
+In Ṛks of this kind the word नु (*nu*) means क्षिप्रं (*kṣipraṃ*), "quickly, promptly". And in
+
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा नावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastanvā nāvṛdhasva |*) (Ṛ. Saṃ. 7-19-11)
+
+and similar Ṛks, नु (*nu*) means "today, now, at once". The Nirukta author has explained this with examples. In the present Ṛk the meaning is क्षिप्रं (*kṣipraṃ*), "quickly, speedily".
+
+जरित्रे (*jaritre*)—The word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19), and there is also the etymology जरिता गरिता (*jaritā garitā*) (Ni. 1-7). So जरित्रे (*jaritre*) here means "to me, who praise".
+
+न (*na*)—The Nirukta author has stated two kinds of meaning for the word न (*na*):
+
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वाधाय्यं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्प्रतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvādhāyyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpratiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4).
+
+That is, in the language of everyday usage, namely modern Sanskrit that is not the Vedic language, the word न (*na*) is used in the sense of negation ("not, no"). This is known to everyone. But in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? The word न (*na*) in the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) is used in the sense of negation.
+
+### Printed p. 114
+Negation (pratiṣedha) means not praising a person directly, to his face. In the sentence "Indra is not to be understood as endowed with …", the word "not" (the meaning of न (*na*)) indicates a meaning opposed to the statement of honour concerning Indra. This is called the negative sense. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates comparison: "arrogant like people who have drunk liquor". Here, to speak of the qualities and faults found in one person by comparing them with those in another is the comparative sense. Those who have drunk liquor lose their wits and behave in a base way out of pride; "arrogant like those people" is the comparison. In the Vedas such meanings are expressed both by the word न (*na*) and by the word इव (*iva*). The use of the word न (*na*) in this comparative sense is found only in the Vedas, not in the language in common use; there, in its place, only the word इव (*iva*) is used.
+
+In this Ṛk, which is the conclusion of the sūkta, the seer Vāmadeva offers a newly composed hymn to the deity and prays for the deity's favour.
+
+## Sūkta 23 (Maṇḍala 4)
+Twenty-third sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कथा महामित्येकादशर्चं द्वितीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रं । ऋतस्य हीत्याद्यास्ति स्र ऋतदेवताका वा । तथा चानुक्रांतं । कथोपांत्यास्ति स्र ऋतदेव्यो वेति ॥ अभिप्लविकेऽहनि दशरात्रे प्रथमेऽहनि माध्यंदिनसवने
+> मैत्रावरुणशस्त्रेऽहीनसूक्तस्य स्थान इदं तृतीयं संपातसूक्तं ! सूत्रितं च ! कथा
+> महामिंद्रः पूर्विद्य एक इत् । आ. ७-५ । इति ॥ महाव्रते निष्केवल्य एतत् । तथैव
+> पंचमारण्यके शौनकेन सूत्रितं च । कथा महामवृधत्कस्य होतुरिति संपातः ।
+> ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This second sūkta of eleven Ṛks, beginning कथा महां (*kathā mahāṃ*), has Vāmadeva as its seer, Indra as deity, and the Triṣṭubh metre. The three Ṛks beginning ऋतस्य हि (*ṛtasya hi*) are addressed either to Ṛta as deity or to Indra; the Anukramaṇī says कथोपांत्यस्ति स्र ऋतदेव्यो वा (*kathopāṃtyasti sra ṛtadevyo vā*). Use: in the Abhiplava rite, and on the first day of the Daśarātra, at the midday pressing, in the Maitrāvaruṇa śastra, this third Sampāta-sūkta stands in the place of the Ahīna-sūkta. It is stated in the sūtra कथा महामिंद्रः पूर्विद्य एक इत् (*kathā mahāmiṃdraḥ pūrvidya eka it*) (Ā. Sū. 7-5). It is also used in the Niṣkevalya śastra of the Mahāvrata; likewise in the Fifth Āraṇyaka Śaunaka states it in a sūtra: कथा महामवृधत्कस्य होतुरिति संपातः (*kathā mahāmavṛdhatkasya hoturiti saṃpātaḥ*) (Ai. Ā. 5-2-2).
+
+Anuvāda: This sūkta, कथा महां (*kathā mahāṃ*), is the second sūkta in the third anuvāka. It has eleven Ṛks. Vāmadeva is its seer, Indra its deity, and Triṣṭubh its metre. Three Ṛks of this sūkta (Ṛks 8–10), beginning ऋतस्य हि (*ṛtasya hi*), are addressed to Indra or to Ṛta as deity. The Anukramaṇī says: कथोपांत्यस्ति स्र ऋतदेव्यो वा (*kathopāṃtyasti sra ṛtadevyo vā*). In the sacrifice called Abhiplava, and on the first day of the sacrifice called Daśarātra, at the midday pressing, when the Maitrāvaruṇa śastra mantras are recited, in place of the Ahīna-sūkta, that is, instead of the Ahīna-sūkta,
+
+### Printed p. 115
+this sūkta is to be recited as the third Sampāta-sūkta. This is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra कथामहमिंद्रः पूर्विद्य एक इत् (*kathāmahamiṃdraḥ pūrvidya eka it*) (Ā. Sū. 7-5). And in the Mahāvrata too, the sūkta is used in the Niṣkevalya śastra; this is set out in a sūtra by the great sage Śaunaka in the Fifth Āraṇyaka, in the Aitareya-Āraṇyaka sentence कथा महामव्यधत्कस्य होतुरिति संपातः (*kathā mahāmavyadhatkasya hoturiti saṃpātaḥ*) (Ai. Ā. 5-2-2).
+
+Sūkta 23. Maṇḍala 4. Anuvāka 3. Sūkta 23. Aṣṭaka 3. Adhyāya 6. Varga 9, 10. Number of Ṛks in the sūkta: 11. Seer: नामदेवः (*nāmadevaḥ*) **NOTE**. Deity: Ṛks 1–7 and 11, Indra; Ṛks 8–10, Indra or Ṛta-deva. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था म॒हाम॑वृध॒त्कस्य॒ होतु॑र्य॒ज्ञं जु॑षा॒णो अ॒भि सोम॒मूधः॑ ।  
+> पिब॑न्नुशा॒नो जु॒षमा॑णो॒ अंधो॑ वन॒क्ष ऋ॒ष्टः शु॑च॒ते  ॑
+> धनाय ॥ १ ॥
+
+> *kathā mahāmavṛdhatkasya hoturyajñaṃ juṣāṇo abhi somamūdhaḥ |*  
+> *pibannuśāno juṣamāṇo aṃdho vanakṣa ṛṣṭaḥ śucate*  
+> *dhanāya ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । महां । अवृधत् । कस्य । होतुः । यज्ञं । जुषाणः । अभि । सोमं । ऊधः ।  
+> पिबन् । उशानः । जुषमाणः । अंधः । ववक्षे । ऋष्ट्वः । शुचते । धनाय ॥ १ ॥
+
+> *kathā | mahāṃ | avṛdhat | kasya | hotuḥ | yajñaṃ | juṣāṇaḥ | abhi | somaṃ | ūdhaḥ |*  
+> *piban | uśānaḥ | juṣamāṇaḥ | aṃdhaḥ | vavakṣe | ṛṣṭvaḥ | śucate | dhanāya ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महां महांतं गुणैः प्रवृद्धमिंद्रं कथा कथं केन प्रकारेणावृधत् ।
+> वर्धयेत् । अस्मत्पेरिता स्तुतिरिति शेषः । तस्य महिम्मोऽतिमहत्त्वादिति भावः । स
+
+##### Gist of the bhāṣya
+
+Indra is great, surpassing in qualities. "In what manner (कथा (*kathā*)) would one make him grow?" is the question; the words "our praise, sent forth by us" are to be supplied. The sense is that his glory is exceedingly great. That same Indra, for the sacrificer of the hotṛ, who accomplishes the offering, (continued on the next page)
+
+### Printed p. 116
+
+> एवेंद्रो होतुर्होमनिष्पादकस्य कस्य यजमानस्य यज्ञं यागं जुषाणः
+> प्रीयमानः सन् अभि । गच्छेदिति शेषः । उपसर्गश्रुतेरुचितक्रियाध्याहारः । किंच ऊध
+> उद्धतमतिप्रवृद्धं सोममंधः सोमलक्षणमन्नं पिबन्नास्वादयन् उशानस्तदेवान्नं कामयमानो जुषमाणः सेवमानश्च ऋष्टो महानिंद्रः शुचते प्रदीप्राय धनाय हिरण्यादिलक्षणाय । उक्तलक्षणं धनं कस्मै यजमानाय दातुं
+> ववक्षे । वहति । पीतमेवान्नं जठरे धारयति । अनेन वाक्यद्वयनेंद्रस्याचिंत्यचरितत्वं ख्यापितं भवति ॥
+
+##### Gist of the bhāṣya
+
+… for whichever worshipper's sacrifice, enjoying it, pleased, he would come (अभि (*abhi*), "toward"; गच्छेत् (*gacchet*) is to be supplied, because the preverb is heard and a fitting verb is understood). Further, drinking the Soma-food, drawn up (ऊधः (*ūdhaḥ*)) and swollen to the full, tasting it, desiring that very food and relishing it, the great Indra is borne (ववक्षे (*vavakṣe*), "carries") to bestow brilliant wealth, of the nature of gold and the like, on some worshipper; what he has drunk he holds in his belly. By these two sentences Indra's inconceivable conduct is made known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महां (*mahāṃ*)—Indra, endowed with great qualities
+- कथा (*kathā*)—in what manner
+- अवृधत् (*avṛdhat*)—(our praises) make (him) grow, flourishing
+- होतुः (*hotuḥ*)—of the one who accomplishes the offering
+- कस्य (*kasya*)—of which worshipper
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- जुषाणः (*juṣāṇaḥ*)—partaking of
+- अभि (*abhi*)—(that same great Indra) goes toward (the worshipper)
+- ऊधः (*ūdhaḥ*)—abundant
+- सोमं अंधः (*somaṃ aṃdhaḥ*)—the food in the form of Soma
+- पिबन् (*piban*)—drinking
+- उशन् (*uśan*)—desiring that very thing (again)
+- जुषमाणः (*juṣamāṇaḥ*)—partaking of it (again and again)
+- ऋष्ट्वः (*ṛṣṭvaḥ*)—the great Indra
+- शुचते (*śucate*)—brilliant
+- धनाय (*dhanāya*)—wealth
+- ववक्षे (*vavakṣe*)—(to give to which worshipper) has he taken it upon himself?
+
+##### भावार्थ (Bhāvārtha)
+
+In what manner do our praises make Indra, who is endowed with great qualities, grow? Of which worshipper, the accomplisher of the offering, does the great Indra go, partaking of the sacrifice, to meet the sacrificer? Drinking the abundant food in the form of Soma, desiring that very thing again and again, and partaking of it time after time, to which worshipper has the great Indra taken it upon himself to give brilliant wealth?
+
+##### English translation (H. H. Wilson)
+In what manner may (any one) extol the mighty Indra? at the sacrifice of what worshipper may he, propitiated, be present drinking the sacrificial Soma berge, desirous of the (sacred) food, and pleased (by the oblation)? the mighty Indra is borne (to the rite) for the purpose of bestowing brilliant wealth.
+
+### Printed p. 117
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in some of the following Ṛks the seer Vāmadeva describes Indra's qualities in sentences in the form of question and answer.
+
+महां कथा अवृधत् (*mahāṃ kathā avṛdhat*)—The seer asks: "With what kind of hymns shall we make the greatly glorious Indra grow?" By describing the qualities of the deities, they grow; that is, they become gracious in mind toward those who praise them. This is the meaning. Sentences such as तमिद्वर्धंतु नो गिरः (*tamidvardhaṃtu no giraḥ*) and वर्धंतु त्वा सुष्टुतयो गिरो मे (*vardhaṃtu tvā suṣṭutayo giro me*) support the point that sentences of praise make the deities grow (that is, please them). Since Indra is endowed with great qualities, "with what kind of praising sentences must he be pleased?"—by asking this the seer makes plain Indra's greatness and the inability of the praising seers.
+
+होतुः कस्य यज्ञं जुषाणः अभि (*hotuḥ kasya yajñaṃ juṣāṇaḥ abhi*)—Indra goes to the sacrificial houses of the many sacrificers who perform sacrifice or who invoke him. The seer asks: "To which sacrificer's sacrifice has he now gone, to be served?" Although this sentence has no verb, the commentator explains that, according to the rule उपसर्गश्रुतेरुचितक्रियाध्याहारः (*upasargaśruterucitakriyādhyāhāraḥ*), the verb गच्छेत् (*gacchet*), which suits the preverb अभि (*abhi*), is to be supplied in giving the meaning.
+
+ऊधः सोमं अंधः पिबन् उशन् जुषमाणः यष्टः शुचते जनाय ववक्षे (*ūdhaḥ somaṃ aṃdhaḥ piban uśan juṣamāṇaḥ yaṣṭaḥ śucate janāya vavakṣe*) **NOTE**—Since Indra is greatly attached to Soma-drinking, he desires Soma-drinking from time to time and drinks it again and again. After the Soma-drinking, Indra, of great nature, being satisfied, gives the sacrificer wealth that is desired and excellent. This sentence states that he is now carrying such wealth along to give to some sacrificer.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अ॑स्य वी॒रः स॑ध॒माद॑माप॒ समा॑नंश सुम॒तिभिः॒ को अ॑स्य ।  
+> कद॑स्य चि॒त्रं चि॑किते॒ कदू॒ती वृ॒धे भु॑वच्छशमा॒नस्य॒ यज्योः॑ ॥
+
+> *ko asya vīraḥ sadhamādamāpa samānaṃśa sumatibhiḥ ko asya |*  
+> *kadasya citraṃ cikite kadūtī vṛdhe bhuvacchaśamānasya yajyoḥ ‖*
+
+### Printed p. 118
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ई । अस्य । वीरः । सध्वमादं । आप । सं । आनंश । सुमतिभिः । कॆः । अस्य ।  
+> कत् । आस्य । चित्रं । चिकिते । कत् । ऊती । वृधे । भुवत् । शशमानस्य । यज्योः ॥ २ ॥
+
+> *ī | asya | vīraḥ | sadhvamādaṃ | āpa | saṃ | ānaṃśa | sumatibhiḥ | kèḥ | asya |*  
+> *kat | āsya | citraṃ | cikite | kat | ūtī | vṛdhe | bhuvat | śaśamānasya | yajyoḥ ‖ 2 ‖*
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य संबंधिनं सधमादं । सह माद्यंतीति सधमादः संग्रामः । तं
+> सह सोमपानं वा वीरः स्तोत्राणाममित्राणां वा वीरयिता कः पुमानाप ।
+> प्राप्नोति । कश्चास्येंद्रस्य सुमतिभिः शोभनाभिरनुग्रहबुद्धिभिः समानंश । संगच्छते।
+> कत्कदा वास्येंद्रस्य चित्रं चायनीयं धनं चिकिते । प्रज्ञायते । तत्पदानसमयं
+> न कोऽपि जानातीत्यर्थः । कत्कदा वा शशमानस्य स्तुवतो यज्योर्यष्टुर्यजमानस्य वृधे वर्धनायोती ऊत्या रक्षया भुवत् । भवेत् ॥
+
+##### Gist of the bhāṣya
+
+सधमाद (*sadhamāda*) (those who exult together) is battle, or else a joint Soma-drinking. Which hero (वीरः (*vīraḥ*): one who sets forth hymns, or one who routes enemies) attains this fellowship of Indra? Who comes together with his good, favourable thoughts? When is his marvellous wealth made known? The sense is that no one knows the time of its bestowal. And when would he be for the protection (ऊती (*ūtī*)) and the prosperity of the worshipper who praises and sacrifices?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः वीरः (*kaḥ vīraḥ*)—which hero
+- अस्य (*asya*)—with this Indra
+- सधमादं (*sadhamādaṃ*)—the helpful companionship in battle
+- आप (*āpa*)—obtains?
+- कः (*kaḥ*)—which man of merit
+- अस्य (*asya*)—of this Indra
+- सुमतिभिः (*sumatibhiḥ*)—with the favourable thoughts
+- समानंश (*samānaṃśa*)—joins?
+- कत् (*kat*)—when
+- अस्य (*asya*)—of this Indra
+- चित्रं (*citraṃ*)—the attractive wealth
+- चिकिते (*cikite*)—is it known?
+- कत् (*kat*)—when
+- शशमानस्य (*śaśamānasya*)—of the one who praises
+- यज्योः (*yajyoḥ*)—and performs the sacrifice, the sacrificer
+- वृधे (*vṛdhe*)—for prosperity
+- ऊती (*ūtī*)—and for protection
+- भुवत् (*bhuvat*)—does (Indra) become manifest?
+
+##### भावार्थ (Bhāvārtha)
+
+Which hero, in time of battle, obtains the companionship of this Indra, who gives help in battle? Which man of merit gains the favourable thoughts of this Indra? When is this Indra's attractive wealth made known? When does Indra become manifest for the prosperity and the protection of the sacrificer, who praises and performs the sacrifice?
+
+##### English translation (H. H. Wilson)
+What hero has enjoyed his fellowship (in battle)? who has been a sharer in his benevolent thoughts? when does any one apprreciate his wonderful bounty ? when is he (present) for the promotion of the prosperity of the man who glorifies and worships him?
+
 ---
 
-**Progress note:** Done through printed p. 112. pp. 107-112 (batch API)
+**Progress note:** Done through printed p. 118. pp. 113-118 (batch API)
