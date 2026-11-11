@@ -10522,6 +10522,196 @@ Let not the gods, Agni, now do us harm, nor the ancient progenitors, who have co
 
 पितरः (*pitaraḥ*)—Among the dead, the meritorious dwell in the third heaven; they are called fathers. They are the original progenitors, who followed the ancient paths (10-15-8, 10): the dead follow the very path laid out by these ṛṣis and go to their vicinity.
 
+### Printed p. 281
+(10-14-2, 7, 15). He is connected with the third step of Viṣṇu (10-15-3; compare 1-154-5). Two sūktas have the Pitṛs as deity (10-15; 10-54).
+
+Among the Pitṛs there are the groups of the Navagvas, Virūpas, Aṅgirases, Atharvans, Bhṛgus and Vasiṣṭhas (10-14-4 to 6; 10-15-8). The last four of these are names. They are also the names of the seers of the Atharvaveda and of the second and seventh maṇḍalas of the Ṛgveda. Among them the Aṅgirases have a special relation to Yama (10-14-3, 5). The Pitṛs are also divided into avarāḥ (lower rank), parāḥ (higher rank) and madhyamāḥ (middle rank). Although they are not all known to their descendants, Agni knows all of them (10-15-1, 2, 13). The favour of the Pitṛs is prayed for together with the Dawns, rivers, mountains, heaven and earth, Pūṣan and the Ṛbhus (6-52-4; 6-75-10; 7-35-12; 1-06-3). There is a prayer that they grant wealth, offspring and long life to their descendants who seek their gracious glance (10-14-6) (10-15-7, 11; A. Ve. 18-3-14; 18-4-62) **NOTE**. The Vasiṣṭhas are prayed to help their descendants (7-33-1; compare 10-15-8); Turuṣva, Yadu and Ugradeva are also praised individually (1-36.18).
+
+The Pitṛs are immortal (A. Ve. 6-41-3); they are also called gods (10-56-4). In the Aṅgirases and some groups, priesthood is joined to divinity. Some acts of creation are also ascribed to certain Pitṛs: it was they who made the sky adorned with stars; light by day and darkness by night came from them (18-68-11); they found the hidden light and brought about the dawn (7-26-4; compare 10-107-1); and together with Soma they spread out heaven and earth (8.48-13). Just as there is a difference between the Agni that carries the oblation to the gods (havyavāha) and the Agni that burns the corpse (kravyād) (10-16-9), so there is a difference between the path of the gods and the path of the ancestors (10-2-7; compare 10-18-1; 10-88-15). In the same way a distinction between the world of heaven and the world of the Pitṛs is stated; the door of the world of the gods is said to lie in the north-east (Śa. Brā. 6-6-2-9) and the door of the world of the Pitṛs in the south-east (Śa. Brā. 13-8-1-5). The Pitṛs and men are different classes, and their creation is also separate (Tai. Brā. 2-3-8-2). The Pitṛs dwell on earth, in the atmosphere and in heaven (A. Ve. 18-2-49; compare Ṛ. Ve. 10-15-2).
+
+The ancient Pitṛs once offered a Soma oblation (10-15-8). They pass their time happily with Yama (10-14-1; compare 10-135-1 and A. Ve. 18-4-10) and feast with the gods (7-76-4). Living like the gods, they sometimes receive the worship proper to the gods, and Indra and
+
+### Printed p. 282
+the worship proper to the gods. They come in the chariot of Indra and the gods (10-15-10). They too have a longing for the Soma juice (10-15-5, 6); seated facing south on the darbha seat, they drink the pressed drink (10-15-5, 6). They are eager to drink the Soma juice prepared for them; they are invited to come with Yama, his father Vivasvat and Agni, and with them to accept what has been offered (10-15-8 to 11; 10-14-4, 5). They come in thousands and sit down in order on the darbha seat (10-15-10, 11). When the Pitṛs come to the sacrificial hall, certain piśācas also mingle with them in the guise of their friends (Ā. Ve. 18-2-28) **NOTE**.
+
+When food is offered to the gods one says "svāhā", and when it is given to the Pitṛs one says "svadhā" (10-14-3); in all rites this distinction between the share of the gods and that of the Pitṛs must be kept (Śa. Brā. 4-4-2-2). They too receive worship; the prayers are that they listen to the entreaty of their followers, take their side, and forgive the lapses that naturally occur, and so on (10-15-2, 6; compare 3-55-2).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि मे॑ पुरु॒त्रा प॑तयंति॒ कामाः॒ शम्यच्छा॑दीद्ये पू॒र्व्याणि॑ ।  
+> समि॑द्दे अ॒ग्नावृ॒तमिद्व॑देम म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥३॥
+
+> *vi me purutrā patayaṃti kāmāḥ śamyacchādīdye pūrvyāṇi |*  
+> *samidde agnāvṛtamidvadema mahaddevānāmasuratvamekaṃ ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । मे । पुरुत्रा । पतयंति । कामाः । शमि । अच्छ । दीद्ये । पूर्व्याणि ।  
+> सम्इद्दे । अग्नौ । ऋतं । इत् । वदेम । महत् । देवानां । असुरत्वं । एकं ॥
+
+> *vi | me | purutrā | patayaṃti | kāmāḥ | śami | accha | dīdye | pūrvyāṇi |*  
+> *samidde | agnau | ṛtaṃ | it | vadema | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मे मम पुरुत्रा बहवः कामा अभिलाषा वि पतयंति । विविधं
+> गच्छंति । शम्यग्निष्टोमादिलक्षणं कर्माच्चाभिलक्ष्याहं पूर्वाणि पुरातनानि स्तोत्राणि तदर्थं दीद्ये । दीपयामि । पश्चाद्यज्ञार्थमग्नौ समिद्धे दीप्यमाने सत्यृतमित् सत्यमेव वदेम । अनृतवचने हि यज्ञे वैगुण्यं स्यादिति ॥ पुरुत्रा । देवमनुष्यपुरुषेत्यादिना त्राप्रत्ययः । पतयंति । पत्लृ गत् । स्वार्थिको ण्च् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, my many desires (कामाः (*kāmāḥ*), longings) go off in various directions (वि पतयंति (*vi patayaṃti*)). Aiming at a rite such as the Agniṣṭoma (शमि (*śami*) is the rite), I kindle (दीद्ये (*dīdye*): I light up) ancient hymns for its sake. Afterwards, when the fire is kindled for the sacrifice, we shall speak only the truth, for if untruth is spoken there would be a defect in the sacrifice.
+
+### Printed p. 283
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- पुरुत्रा (*purutrā*)—of many kinds
+- कामाः (*kāmāḥ*)—desires
+- वि पतयंति (*vi patayaṃti*)—spread out in various ways
+- शमि (*śami*)—the rite of the form of Agniṣṭoma and the like
+- अच्छ (*accha*)—aiming at
+- पूर्वाणि (*pūrvāṇi*)—ancient hymns
+- दीद्ये (*dīdye*)—I recite, making them shine
+- अग्नौ (*agnau*)—when Agni
+- समिद्धे (*samiddhe*)—is kindled (for the sacrifice)
+- ऋतमित् (*ṛtamit*)—only true speech
+- वदेम (*vadema*)—we utter
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, my desires, of many kinds, spread out in various ways. For the sake of the rite of the form of Agniṣṭoma and the like, I recite ancient hymns, making them shine. When Agni is kindled for the sacrifice, we utter only true speech. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Variously do my manifold desires alight : present at the solemnity,
+I recite ancient (hymns) : when the fire is kindled we speak indeed the truth,
+for great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+शमि अच्छ पूर्वाणि दीद्ये (*śami accha pūrvāṇi dīdye*)—अग्निष्टोमादिलक्षणं कर्म अभिलक्ष्य अहं पुरातनानि स्तोत्राणि तदर्थं दीपयामि । (*agniṣṭomādilakṣaṇaṃ karma abhilakṣya ahaṃ purātanāni stotrāṇi tadarthaṃ dīpayāmi |*). The word शमि (*śami*) is listed among the names of rites (Ni. 3-2). Sāyaṇa has explained the meaning as sacrificial rites such as the Agniṣṭoma. The sacrificer, addressing Agni, recites praises so that his many desires may be fulfilled; and, as for अनृतवचने हि यज्ञॆ वैगुण्यं स्यादिति ऋतमित् सत्यवेव वदेम (*anṛtavacane hi yajñè vaiguṇyaṃ syāditi ṛtamit satyaveva vadema*), he explains that if falsehood is spoken while the sacrifice is going on, the sacrifice would not yield its full fruit or would be afflicted with deficiency, and therefore he speaks true words. It is described that Agni, having heard the sacrificer's praises, fulfils all his wishes, and that he possesses a chief and unequalled greatness.
+
+### Printed p. 284
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नो राजा॒ विभृ॑तः पुरु॒त्रा शये॑ श॒यासु॒ प्रयु॑तो॒  ॑
+> वनानु ।  
+> अ॒न्या व॒त्सं भर॑ति॒ क्षेति॑ मा॒ता म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑॥४॥
+
+> *samāno rājā vibhṛtaḥ purutrā śaye śayāsu prayuto*  
+> *vanānu |*  
+> *anyā vatsaṃ bharati kṣeti mātā mahaddevānāmasuratvamekaṃ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानः । राजा । विभृतः । पुरुत्रा । शये । शयासु । प्रयुतः । वना । अनु ।  
+> अन्या । वत्सं । भरति । क्षेति । माता । महत् । देवानां । असुरत्वं । एकं ॥ ४ ॥
+
+> *samānaḥ | rājā | vibhṛtaḥ | purutrā | śaye | śayāsu | prayutaḥ | vanā | anu |*  
+> *anyā | vatsaṃ | bharati | kṣeti | mātā | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समानः साधारणः सर्वेषां । यद्वा । एक एव राजा दीप्यमानोऽग्निः पुरुत्रा बहुषु देशेषु विभृतोऽग्नि होत्रार्थं विहृतो भवति । यद्वा । राजाभिषुतः
+> सोमः सर्वेषु देशेषु यज्ञार्थं विहृतो भवति । स चाग्निः सोमो वा शयासु
+> शेरते हविरादयः पदार्था अत्रेति शया वेद्यः । तासु शये । शेते । निवसति ।
+> वनानु अनुवनं वनेष्वरणिरूपेषु काष्ठेषु प्रयुतो विभक्तोऽग्निर्वर्तते ।
+> सोमश्चेद्वनेषु चमसेषु विभक्तो वर्तते । तस्य द्वे मातरौ द्यावापृथिव्यौ ।
+> तयोरन्या द्यौरस्या भूमेर्जायमानतया वत्सं वत्सभूतमग्निं सोमं वा
+> भरति । वृष्टा दिरूपेण भरति । पोषयति । माता वसुधा क्षेति । केवलं निवासयति ॥
+> विभृतः । हृञ् हरणे । कर्मणि क्तः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । पुरुत्रा ।
+> अधिकरणे त्राप्रत्ययः । शये । शीज् स्वप्ने । लोपस्त इति तकारलोपः । शीजः
+> सार्वधातुके गुणः । शयासु । शीञ् स्वप्ने । एरजित्यधिकरणेऽच् । भरति । भृञ्
+> भरणे । भूवादिः । एकान्याभ्यां समर्थाभ्यामिति पूर्वस्य न निघातः । क्षेति ।
+> क्षि निवासगत्योरित्यस्य लटि बहुलं छंदसीति विकरणस्य लुक् ॥
+
+##### Gist of the bhāṣya
+
+समानः (*samānaḥ*) means common to all. Or else: the one shining king, Agni, is carried about (विभृतः (*vibhṛtaḥ*)) in many places for the Agnihotra. Or else: the king is the pressed Soma, who is carried about in all places for the sacrifice. That Agni or Soma lies (शये (*śaye*): rests, dwells) in the शयासु (*śayāsu*), that is, the altars, where the oblations and other things lie. In the वनानु (*vanānu*), that is, in the logs of wood in the form of the araṇi, Agni exists, distributed; if it is Soma, he exists distributed in the वनेषु (*vaneṣu*), the cups (चमसेषु (*camaseṣu*)). He has two mothers, heaven and earth. Of these, the one, heaven, bears (भरति (*bharati*)) the child (वत्सं (*vatsaṃ*))—Agni or Soma, who is born of the other, the earth—by rain and the like; she nourishes him. The mother, earth, क्षेति (*kṣeti*): merely gives a dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समानः (*samānaḥ*)—he who is common to the whole world (the one sole lord)
+- राजा (*rājā*)—Agni, the shining one
+- पुरुत्रा (*purutrā*)—in many regions
+- विभृतः (*vibhṛtaḥ*)—is carried (for the sacrifice)
+- शयासु (*śayāsu*)—in the sacrificial altars
+- शये (*śaye*)—is established
+- वनानु (*vanānu*)—in the logs of the form of araṇi
+- प्रयुतः (*prayutaḥ*)—is distributed
+- अन्या (*anyā*)—one (of heaven and earth), the heavenly world
+- वत्सं (*vatsaṃ*)—Agni, who is like a son
+- भरति (*bharati*)—nourishes
+- माता (*mātā*)—the earth, who is of the form of a mother
+
+### Printed p. 285
+- क्षेति (*kṣeti*)—gives room to dwell
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the one sole lord of the whole world, the shining one, is carried to many regions for the sacrifice and is established in the sacrificial altars. He lies hidden, distributed, in the logs of the form of araṇi. Of heaven and earth, the heavenly world nourishes Agni, who is like a son; the earth, who is of the form of a mother, gives room to dwell. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+The universal sovereign is conveyed to many directions : he sleeps in
+the places of repose : he is connected with the forests : one mother (heaven)
+nourishes the child ; the other (earth) gives him a dwelling : great and
+unqualled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+समानः राजा पुरुत्रा विभृतः (*samānaḥ rājā purutrā vibhṛtaḥ*)—सर्वेषां साधारणः दीप्यमानो अग्निः बहुषु देशेषु अग्निहोत्रार्थं विहृतो भवति । (*sarveṣāṃ sādhāraṇaḥ dīpyamāno agniḥ bahuṣu deśeṣu agnihotrārthaṃ vihṛto bhavati |*). One kind of meaning is stated: Agni, who is regarded by all without any distinction of less or more, and who shines with abundant radiance, moves about in many regions so that the Agnihotra and other rites performed by sacrificers may be accomplished.
+
+In the second meaning the word राजा (*rājā*) is used in the sense of Soma. Soma (and likewise Agni), though one, is pressed at one time in the many different sacrifices and is thus common to all the priests. It is therefore explained that he is useful for the sacrifice in all regions.
+
+शयासु (*śayāsu*)—शेरते हविरादयः पदार्थाः अत्र (*śerate havirādayaḥ padārthāḥ atra*): it is described as the sacrificial altars on which things in the form of oblations and other things are placed. Both Agni and this Soma are established on the altars by the priests and others.
+
+Agni is वनानु प्रयुतः (*vanānu prayutaḥ*)—he is separate in the piece of wood that is in the form of the araṇi. In the same way Soma too वनेषु चमसेषु विभक्तः वर्तते (*vaneṣu camaseṣu vibhaktaḥ vartate*)—he is placed so as to be separate in the vessel called camasa which is used in the sacrifice.
+
+### Printed p. 286
+By these two statements, समानः राजा पुरुत्रा विधृतः शयासु शेरते (*samānaḥ rājā purutrā vidhṛtaḥ śayāsu śerate*), a common property of Agni and Soma is stated, so that their similarity is understood. Yāska has read the word वन (*vana*) among the names of rays (Ni. 2-15). Sāyaṇa has explained the meanings araṇi and camasa. Heaven and earth perform the function of a mother for Agni and for Soma.
+
+अन्या वत्सं भरति (*anyā vatsaṃ bharati*)—द्यौः अन्याः भूमेः जायमानतया वत्सभूतमग्निं सोमं वा पोषयति । (*dyauḥ anyāḥ bhūmeḥ jāyamānatayā vatsabhūtamagniṃ somaṃ vā poṣayati |*). The heavenly world nourishes Soma, who is produced on the earth, and Agni, who is produced from the araṇis, by supplying waters in the form of rain, as one nourishes a child.
+
+माता क्षेति (*mātā kṣeti*)—वसुधा निवासयति (*vasudhā nivāsayati*). The earth provides a dwelling-place so that the two may live happily. Producing and providing a dwelling-place are both the function of a mother. Since this function is the same for both Agni and Soma, the earth is the mother of both. The heavenly world, too, is a mother because it nourishes and makes them grow; and thus the unequalled might of the gods is described.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒क्षित्पूर्वा॒ स्वप॑रा अनू॒रुत्स॒द्यो जा॒तासु॒ तरु॑णीष्ट्॒वंतः ।  
+> अं॒तर्व॑तीः सवते॒ अप्र॑वीता म॒हद्दे॒वेना॑मसुर॒त्वमेकं॑ ॥
+
+> *ākṣitpūrvā svaparā anūrutsadyo jātāsu taruṇīṣṭvaṃtaḥ |*  
+> *aṃtarvatīḥ savate apravītā mahaddevenāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आक्षितित् । पूर्वासु । अपराः । अनूरुत् । सद्यः । जातासु । तरुणीषु । अंतरिति ।  
+> अंतःसवतीः । सुवते । अप्रवीताः । महत् । देवानां । असुरत्वं । एकं ॥ ५ ॥
+
+> *ākṣitit | pūrvāsu | aparāḥ | anūrut | sadyaḥ | jātāsu | taruṇīṣu | aṃtariti |*  
+> *aṃtaḥsavatīḥ | suvate | apravītāḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वासु जीर्णास्वोषधीष्वाक्षिदावर्तमानस्तथापरा नव्या ओषधीरनूरुदनुरुंधन् उत्पत्त्यानुगुण्येनानुतिष्ठन्नग्निः सूर्यो वा सद्यो जातासु तदानीमुत्पन्नासु तरुणेषु पल्लवितास्वोषधीष्वंतर्वर्तते । ता ओषधयोऽप्रवीताः
+
+##### Gist of the bhāṣya
+
+Agni, or Sūrya, abiding (आक्षित् (*ākṣit*)) in the old, decayed herbs, and likewise following (अनूरुत् (*anūrut*)) the new herbs, acting in accord with their origin, is within the herbs that have just been born (सद्यो जातासु (*sadyo jātāsu*)), that is, newly arisen, young and sprouted. Those herbs are अप्रवीताः (*apravītāḥ*) … (the text of the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 280. pp. 274-280 (batch API, retry 2)
+**Progress note:** Done through printed p. 286. pp. 281-286 (batch API)
