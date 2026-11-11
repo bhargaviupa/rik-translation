@@ -15595,6 +15595,167 @@ Because he sits (is installed) on the sacrificial altar and performs the offerin
 
 For the word atithi the meaning can be given as न विद्यते तिथिविशेषनियमो यात्रार्थे यस्य सोऽयमतिथिः । (*na vidyate tithiviśeṣaniyamo yātrārthe yasya so 'yamatithiḥ |*) That is, for one who is a guest there is no rule as to at what time, where he should go and should not go
 
+### Printed p. 401
+…there is no rule. In this way he goes anywhere he likes, without any rule of tithi (day), and so he is also called atithi. The sun too rises and travels on every day without a rule of tithi, so the meaning of the word atithi applies to the sun as well. The intention is that the two have the same quality. The word duroṇa means house: the guest comes to ask for something and sits down in houses. The sun also, through his rays, produces light in houses and the like. Therefore a likeness between the guest and the sun is stated here.
+
+नृपदित्येष वै नृपत् (*nṛpadityeṣa vai nṛpat*).
+This Āditya is manifest among men in the form of rain. And as is said in the Āraṇyaka, आदित्यश्चक्षुर्भूत्वाक्षिणी प्राविशत् (*ādityaścakṣurbhūtvākṣiṇī prāviśat*): Āditya took the form of the eyes and entered the eyes. Since this is so, Āditya is what the word nṛṣad (printed नृषच्छब्द (*nṛṣacchabda*)) denotes.**NOTE**
+
+वरसदित्येष वै वरसद्वरं वा एतत्सद्मनां यस्मिन्नेष आसन्नस्तपति । श (*varasadityeṣa vai varasadvaraṃ vā etatsadmanāṃ yasminneṣa āsannastapati | śa*).
+Because he dwells and shines in the most excellent orb, he is called varasat. Among all dwelling-places there is one orb that is the most excellent; since he sits in that orb and shines, he is called varasat.
+
+ऋतसदित्येष वै सत्यसत् (*ṛtasadityeṣa vai satyasat*).
+Because he is the subject taught in the Vedic sentences, which are true, he is called ṛtasat. It is well known that many Veda mantras praise Āditya.
+
+व्योमसदित्येष वै व्योमसद्योम ना एतत्सद्मनां यस्मिन्नेष आसन्नस्तपति । (*vyomasadityeṣa vai vyomasadyoma nā etatsadmanāṃ yasminneṣa āsannastapati |*).
+Because he is in, or travels along, the path of the sky — that is, because he is by nature one who travels with great radiance in the sky, which is free of the covering of houses and the like — he is called vyomasat.
+
+अब्बा इत्येष वा अब्बा अद्भो वा एष प्रातरुदेत्यपः सायं प्रविशति । (*abbā ityeṣa vā abbā adbho vā eṣa prātarudetyapaḥ sāyaṃ praviśati |*).
+अद्भो जायते (*adbho jāyate*) means "he is born from the waters". Since the sun is the Self of all, abbā too may be said to be one of his many forms. Or else: in the morning, when the sun rises, he appears to our sight as if born from the waters of the eastern ocean; in the evening he is seen as if sinking into the waters of the western ocean. Therefore the sun is denoted by the word abbā.
+
+गोजा इत्येष वै गोजाः (*gojā ityeṣa vai gojāḥ*).
+Because he is born from cows or from rays, he is called gojāḥ.
+
+### Printed p. 402
+यतजा इत्येष वै सत्यजाः (*yatajā ityeṣa vai satyajāḥ*).**NOTE**
+ṛta means truth, or mantras whose nature is truth. Because he is born, through the performance of such mantras, in the world of the gods and the like, Āditya is denoted by the word ṛtajā.
+
+अद्रिजा इत्येष वा अद्रिजाः (*adrijā ityeṣa vā adrijāḥ*).
+Because the sun rises on the mountain of sunrise, he is called born of the mountain of sunrise.
+
+यतमित्येष वै सत्यं (*yatamityeṣa vai satyaṃ*).**NOTE**
+The word ṛta means truth. Truth is of two kinds, the practical (vyāvahārika) and the ultimate (pāramārthika). The word satya used when one speaks the truth and does not tell a lie is called practical truth. In the ultimate sense the word satya means Brahman, or Parabrahman. In the Śruti sentence सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) the word satya means Brahman. That very meaning is what is set out here. The Śruti sentence असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) also supports this meaning; that is, the intention is that this Āditya is Parabrahman.
+
+एष एतानि सर्वाण्येषा ह वा अस्य छंदस्सु प्रत्यक्षतमादिव रूपं । ( (*eṣa etāni sarvāṇyeṣā ha vā asya chaṃdassu pratyakṣatamādiva rūpaṃ | (*) (Ai. Brā. 18-6).
+All the words beginning with haṃsaḥ that are stated in this Ṛk denote this Āditya alone, because this Āditya is Parabrahman, the Self of all. In the Ṛk beginning हंसः शुचिषत् (*haṃsaḥ śuciṣat*), which is well known among the Veda mantras as the Haṃsavatī Ṛk, Āditya's being the Self of all and his nature as Parabrahman are explained clearly.
+
+Yāska has given the following explanation (nirvacana) of this passage:
+हंस इति हंसाः सूर्यरश्मयः परमात्मा परं ज्योतिः पृथिवी व्याप्तेति व्याप्तं सर्वं व्याप्तं वननकर्मणानभ्यासेनादित्यमंडलेनेति त्ययतीति लोको त्ययतीति हंसयंत्ययतीति हंसाः परमहंसाः परमात्मा सूर्यरश्मिभिः प्रभूत गभीर वसतीति त्रिभिर्वसतीति वा रश्मिभिर्वसतीति वा वह्निर्वसतीति वा सुवर्णरेताः पूषा गर्भा रिभेति रिभंता वनकुटिलानि कुटंता रिभंतांतरिक्षा चरत्पथांतरिक्षा चरदिति दिवि भुवि गमनं वा सुभानुः सुप्रभूतो होतादित्यस्य गता भवंत्यतिथिर्दुरोणसत् सर्वॆ दुरोणसत् द्रवं सर्वे रसा विकर्षयति रश्मिभिर्विकर्षयति वह्निर्विकर्षयति वननं भवत्यश्वगोजा अद्रिगोजा धरित्रिगोजाः सर्वॆ गोजा ऋतजा बहुशब्दा भवंति निगमो निगमव्यति भवत्यषे निर्वचनाय ॥ (*haṃsa iti haṃsāḥ sūryaraśmayaḥ paramātmā paraṃ jyotiḥ pṛthivī vyāpteti vyāptaṃ sarvaṃ vyāptaṃ vananakarmaṇānabhyāsenādityamaṃḍaleneti tyayatīti loko tyayatīti haṃsayaṃtyayatīti haṃsāḥ paramahaṃsāḥ paramātmā sūryaraśmibhiḥ prabhūta gabhīra vasatīti tribhirvasatīti vā raśmibhirvasatīti vā vahnirvasatīti vā suvarṇaretāḥ pūṣā garbhā ribheti ribhaṃtā vanakuṭilāni kuṭaṃtā ribhaṃtāṃtarikṣā caratpathāṃtarikṣā caraditi divi bhuvi gamanaṃ vā subhānuḥ suprabhūto hotādityasya gatā bhavaṃtyatithirduroṇasat sarvè duroṇasat dravaṃ sarve rasā vikarṣayati raśmibhirvikarṣayati vahnirvikarṣayati vananaṃ bhavatyaśvagojā adrigojā dharitrigojāḥ sarvè gojā ṛtajā bahuśabdā bhavaṃti nigamo nigamavyati bhavatyaṣe nirvacanāya ‖*) (Ni. 14-29).
+
+### Printed p. 403
+In the fourteenth chapter, the appendix of the Nirukta, Yāska begins: व्याख्यातं दैवतं यज्ञांगं जाथात ऊर्ध्वमार्गगतिं व्याख्यास्यामः । (*vyākhyātaṃ daivataṃ yajñāṃgaṃ jāthāta ūrdhvamārgagatiṃ vyākhyāsyāmaḥ |*) सूर्य आत्मेत्युदितस्य हि कर्मद्रष्टा थैतदनुप्रवदंत्यथैतं महांतमात्मानमेषर्गणः प्रवदंति ऎ (*sūrya ātmetyuditasya hi karmadraṣṭā thaitadanupravadaṃtyathaitaṃ mahāṃtamātmānameṣargaṇaḥ pravadaṃti è*). Up to now, he says, the deities who are entitled to portions of the oblation in sacrifices and the like have been explained; now we shall explain the spiritual subject that is the means to the upward path, that is, some Ṛks that contain a meaning related to the Self. Having begun thus, he writes, as a preface to this chapter: the sun is the Self (the Supreme Self); since the rising sun has the nature of the Supreme Self, he watches all actions; he is of great majesty. Then he gives the explanation, stated above, of this Ṛk हंसः शुचिसत् (*haṃsaḥ śucisat*) in its spiritual sense.
+
+Further, he begins with अथात्मानो महतः प्रथमं भूतनामधेयान्यनुक्रमिष्यामः (*athātmāno mahataḥ prathamaṃ bhūtanāmadheyānyanukramiṣyāmaḥ*), that is, "we shall state in order the words that make known the greatness of the Supreme Self"; he gives a list of 95 words beginning हंसः घर्मः यज्ञः वेनः (*haṃsaḥ gharmaḥ yajñaḥ venaḥ*), and then says अथैतं महांतमात्मानमेतानि सूक्तान्येता ऋचेऽनुप्रवदंति (*athaitaṃ mahāṃtamātmānametāni sūktānyetā ṛce 'nupravadaṃti*): the sūktas or Ṛks that contain these words teach, in their spiritual meaning, the Self whose nature is greatness. In this list the word haṃsaḥ is the first. Explaining the meaning of this Ṛk he says हंस इति हंसाः सूर्यरश्मयः परमात्मा परंज्योतिः (*haṃsa iti haṃsāḥ sūryaraśmayaḥ paramātmā paraṃjyotiḥ*). That is, the word haṃsaḥ (for which the plural sense haṃsāḥ must be given) means the sun's rays, the Supreme Self whose nature is the highest light. He pervades all the worlds, the earth and the rest. Dwelling in the orb of Āditya in the form of light, he pervades all worlds with his radiance. Because the root haṃsayanti आयतीति हंसाः (*āyatīti haṃsāḥ*) has the sense of going, he pervades everything with his rays. This he explains with the sentence त्रिभिर्वसतीति वा रश्निर्वसतीति वा वह्निर्वसतीति वा (*tribhirvasatīti vā raśnirvasatīti vā vahnirvasatīti vā*). He has many names that fit his nature, such as सुवर्णरेताः पूषा (*suvarṇaretāḥ pūṣā*). This Supreme Self, of the nature of the sun, moves अंतरिक्षा चरत्पथांतरिक्षा चरदिति दिवि भुवि गमनं वा (*aṃtarikṣā caratpathāṃtarikṣā caraditi divi bhuvi gamanaṃ vā*), that is, he travels in the atmosphere, in heaven and on earth. He draws to himself, by his rays, every substance in liquid form. Because his nature is to pervade everything, he is denoted by many words such as अद्रिजा (*adrijā*) and ऋतजा (*ṛtajā*) — this is the seer's intention. So he has given the explanation.
+
+Since this Ṛk is also read in the Kṛṣṇa Yajurveda, here we give Mahīdhara's commentary on it, and the note that the English scholar Wilson wrote on this Ṛk following Sāyaṇa's commentary.
+
+##### English translation (H. H. Wilson)
+This stanza is knwon as the Hansavati Rich, and occurs twice in the
+Yajus, 10, 24, and 12, 14, as well as in the Aitareya Brahmana, IV, 20, 1;
+
+### Printed p. 404
+and although the commentators vary a little in their interpretation of
+the individual terms, they agree as to the purport of the whole, the
+identification of Aditya, or the sun in the type Dadhikra with Parabrahma
+or the Universal deity, and consequently his identity with all other types of
+the Supreme Being : these terms are thus specified,—1. Hansa, from han
+to go, he who goes eternally to destory, who destroys individually; or it is
+resolvable into aham, I, and sa, he that is, I am that, the Supreme : 2. Vasu
+the appointer of the stations of all creatures, or all men, or that which
+abides (vasati) at all times, sarvada: 3. Hota, or sacrificer : and 4. Atithi
+or guest, meaning in both cases Agni, or fire, first as the sacrificial, and
+secondly as culinary, fire: 5 Nrishad, the dweller among men, is explained
+Chaitanya, consciousness, or Prana, vitality, or, according to Sayana in
+the scholia on the Brahmana, sight, or the eye, according to the text “the
+tsun, becoming the eye (of the world), entered into the two eyes (of man)”
+6. Varasad is uniformly rendered the dweller in the most excellent station,
+that is, the solar orb: 7. Ritasad is he who is present in truth, or in water,
+or in sacrifice: the comment on the Brahmana interprets truth, the text of
+the veda, vedavahya: 8. Vyomasad, the dweller in the sky, has its literal
+meaning everywhere: only Sayana makes it out to be the wind: 9. Abjah,
+who is born in the midst of the water, as, according to another text,
+udakamadhye khalvoyam jayate. Mahidhara says, in the form of a fish,
+etc.: the Brahmana intimates that this refers to the apparent rising of the
+sun from the ocean and setting in the same: 10. Gojah, born amidst,
+goshu, rays: Mahidhara says, gavi, prithivyam, in the earth, being
+identical with the elements: 11. Ritajah, born of truth, from being visible
+by all not invisible like Indra and the rest, is Sayana’s explanation in this
+place; in his scholia on the Brahmana he interprets it, born from the
+mantras of the Vedas: 12, Adrija, mountain-born, that is in the eastern
+mountain, where he rises: Mahidhara says. born, in stone in the form of
+Agni, as if alluding to flint; or adri, having for one meaning a cloud,
+he may be said to be generated in the clouds in the form of rain: finally
+
+### Printed p. 405
+he is Ritam, truth, that is, according to Sayana, in both his comments,
+sound truth; or Parabrahma, as by another text, " Satyam Jnanam
+Anantam Brahma" truth, wisdom, infinitude is Brahma ; and as he explains
+it in this text, abadhyam sarvadhishthanam Brahma tatwam, the
+indefeasible, all-regulating principle, Brahma : so in his gloss on the
+Brahmana, truth, he says, is of two kinds–vyavaharikam, truth in speech
+and worldly dealings, and paramarthikam, or Parabrahma, the supreme
+Universal spirit: he notices, also, the reading of another Shakha or Ritam
+brihat, which is followed in the Yajus, and is explained by Mahidhara
+the all-pervading, the infinite sarvagatam aparyantam, that is, Parabrah-
+marupa; Aditya in the form of Parabrahma.
+
+## Sūkta 41 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रा को वामित्येकादशर्चं नवमं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रावरुणं । अत्रानुक्रमणिका । इंद्रा को वामेकादशैंद्रावरुणं त्विति ॥
+> अभिप्लविकेषूक्षेषु तृतीयसवने मैत्रावरुणशस्त्रेषु स्तोमवृद्धावानापार्थमेतदादिसूक्तद्वयं । इंद्रा को वामिति सूक्ते । आ. ७-९ । इति सूत्रितत्वात् ॥
+> अनुवादवु—इंद्रा को वां ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि ऒंभत्तनॆय
+> सूक्तवु. इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रावरुणरु
+> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि—इंद्रा को वामेकादशैंद्रावरुणं तु
+> ऎंदु हेळिरुवुदु. अभिप्लवसंबंधवाद उक्तवॆंब यागद तृतीयसवनकालदल्लि मैत्रावरुण
+> शस्त्रमंत्र पठनमाडुवाग सोमवृद्धिगागि आवासमंत्रगळिगागि ई सूक्तवन्नू मुंदिन सूक्तवन्नू
+> पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद इंद्रा को वामिति सूक्ते ऎंब सूत्रदिंद (आ. ७-९)
+> विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+This is the ninth sūkta of the fourth anuvāka, beginning इंद्रा को वां (*iṃdrā ko vāṃ*), of eleven Ṛks. Its seer is Vāmadeva, its deity Indra and Varuṇa together, its metre Triṣṭubh. The Anukramaṇikā says इंद्रा को वामेकादशैंद्रावरुणं तु (*iṃdrā ko vāmekādaśaiṃdrāvaruṇaṃ tu*). Use: in the Ukthya rite connected with the Abhiplava, at the third pressing, in the Maitrāvaruṇa recitations (śastra), this sūkta and the one after it are to be recited for the increase of the stoma and for the āvāpa mantras. Āśvalāyana's sūtra इंद्रा को वामिति सूक्ते (*iṃdrā ko vāmiti sūkte*) (Ā. 7-9) prescribes this.
+
+### Printed p. 406
+
+> सूक्त-४१
+> मंडल—४ ॥ अनुवाक—४ ॥ सूक्त—४१ ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—१५, १६ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—वामदेवः ।
+> देवता—इंद्रावरुणौ ॥
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा को वां वरुणा सुम्ममाप स्तोमो हविष्मा  
+> अमृतो न होता ।  
+> यो वां॑ हृ॒दि क्रतु॑मा अ॒स्मदु॒क्तः प॒स्पर्श॑दिंद्रावरुणा॒  ॑
+> नमस्वान् ॥ १ ॥
+
+> *iṃdrā ko vāṃ varuṇā summamāpa stomo haviṣmā*  
+> *amṛto na hotā |*  
+> *yo vāṃ hṛdi kratumā asmaduktaḥ pasparśadiṃdrāvaruṇā*  
+> *namasvān ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । कः । वां । वरुणा । सुम्मं । आप । स्तोमः । हविष्मान् । अमृतः । न ।  
+> होता ।  
+> यः । वां । हृदि । क्रतुमान् । अस्मत् । उक्तः । पस्पर्शत् । इंद्रावरुणा नमस्वान् ॥
+
+> *iṃdrā | kaḥ | vāṃ | varuṇā | summaṃ | āpa | stomaḥ | haviṣmān | amṛtaḥ | na |*  
+> *hotā |*  
+> *yaḥ | vāṃ | hṛdi | kratumān | asmat | uktaḥ | pasparśat | iṃdrāvaruṇā namasvān ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रा हे वरुणा हे इंद्रावरुणौ । परस्परापेक्षया द्विवचनं । वां
+> युवयोः सुम्मं सुखं कः स्तोमो हविष्मान् हविर्भिरुपेतः सोमाज्यादिप्रदेयद्रव्योपेतं कतमत् स्तोत्रं सुम्ममाप । फलकत्वेन प्राप्नुयादित्यर्थः ।
+> यद्वा । हविष्मानित्येतदुत्तरत्र योज्यं । हविष्मान् हवियुक्तोऽमृतोऽमरणलक्षणः स्वर्गसाधनो होताग्निरिव । स यथा तथा यः स्तोमो हे इंद्रावरुणौ
+> नां युवयोर्हृदि हृदये क्रतुमान्प्रज्ञोपेतोऽस्मदस्मत्सकाशादुक्त उदितो
+> नमस्वान्हविष्मान्मस्कारोपेतो वा पस्पर्शत् । स्पृशेत् । हृदयंगमो भवेत् ।
+> स क इति स्तोमप्रशंसा ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, O Varuṇa, O Indra and Varuṇa" — the dual is used with regard to each other. "Which hymn of praise, furnished with oblations (haviṣmān) — that is, which stotra accompanied by offerable substances such as soma and ājya — has attained your summa, your pleasure?" The sense is: may it obtain it as its fruit.
+
+Or else: haviṣmān is to be joined with what follows. Provided with oblation, "immortal" (that is, marked by deathlessness, a means to heaven), like Agni the hotā — just as he is, so the stoma which, O Indra and Varuṇa, is wise (kratumān) in your heart, uttered by us, furnished with homage or with oblation, "would touch" (paspárśat), that is, would reach the heart. The words "who is that?" are a praise of the stoma.**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 400. pp. 395-400 (batch API)
+**Progress note:** Done through printed p. 406. pp. 401-406 (batch API)
