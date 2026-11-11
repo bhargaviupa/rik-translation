@@ -4814,6 +4814,281 @@ The twelfth sūkta, इंद्रः स्वाहा (*iṃdraḥ svāhā*)
 
 May this Indra drink this soma offered with स्वाहा (*svāhā*) (the svāhā-call). The Indra whose soma this is, having come to the sacrifice, is तुम्रः (*tumraḥ*), the destroyer of those who obstruct the rite; वृषभः (*vṛṣabhaḥ*), the one who showers the desired fruit on the sacrificers; मरुत्वान् (*marutvān*), accompanied by the Maruts; उरुव्यचाः (*uruvyacāḥ*), of wide extent. Let him fill himself fully with these foods given by us, the oblations beginning with soma. Then let him fulfil on all sides the desire of this Indra's body, whose object is flowers and the like, the oblation given by us.
 
+### Printed p. 126
+#### Ṛk 1
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्वाहा (*svāhā*)—the Soma offered with the cry svāhā
+- पिबतु (*pibatu*)—may he drink
+- सोमः (*somaḥ*)—this Soma
+- यस्य (*yasya*)—for which Indra it is intended, that Indra
+- अगत्य (*agatya*)—having come to the sacrifice **NOTE**
+- तुम्रः (*tumraḥ*)—the destroyer (of those who cause obstacles to the sacrifice) **NOTE**
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desired fruit upon the sacrificers
+- मरुत्वान् (*marutvān*)—accompanied by the Maruts
+- उरुव्यजाः (*uruvyajāḥ*)—widely pervading
+- विभिः (*vibhiḥ*)—by these, given by us **NOTE**
+- अन्नैः (*annaiḥ*)—with oblations in the form of Soma
+- आ पृणतां (*ā pṛṇatāṃ*)—may he attain full satisfaction
+- अस्य (*asya*)—of this Indra
+- तन्नः (*tannaḥ*)—to the body **NOTE**
+- कामं (*kāmaṃ*)—nourishment
+- हविः (*haviḥ*)—(this) oblation (given by us)
+- आ ऋध्याः (*ā ṛdhyāḥ*)—may it fully bring about
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra drink the Soma offered with the cry svāhā. The Indra for whom this Soma is intended, having come to the sacrifice, being a destroyer of those who cause obstacles to the sacrifice, a showerer of desired fruit, accompanied by the Maruts and widely pervading, may attain full satisfaction with these Soma-oblations given by us. May this oblation given by us bring full nourishment to Indra's body.
+
+##### English translation (H. H. Wilson)
+May Indra drink the libation ; he of whom is the Soma, having come to the sacrifice ; he who is the repeller (of adversaries), the showerer (of benefits), the lord of the Maruts ; may he, the wide-pervading, be pleased with these (sacrificial) viands ; may the oblation be adequate to the wants of his body.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ सप॒र्यू ज॒वसे॑ युनज्मि॒ ययो॒रनु॑ प्र॒दिवः॑ श्रु॒ष्टिमावः॑ ।  
+> इ॒ह त्वा॑ धेयु॒र्हर॑यः सुशिप्र॒ पिबा॒ त्व१॒ं॑स्य सुषु॑तस्य॒  ॑
+> चारोः ॥ २ ॥
+
+> *ā te saparyū javase yunajmi yayoranu pradivaḥ śruṣṭimāvaḥ |*  
+> *iha tvā dheyurharayaḥ suśipra pibā tvaṃsya suṣutasya*  
+> *cāroḥ ‖ 2 ‖*
+
+### Printed p. 127
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । सपर्यू इति । जवसे । युनज्मि । ययोः । अनु । प्रदिवः । श्रुष्टिं । आवः।  
+> इह । त्वा । धेयुः । हरयः । सुशिप्र । पिब । तु । अस्य । सुसुतस्य । चारोः ॥ २ ॥
+
+> *ā | te | saparyū iti | javase | yunajmi | yayoḥ | anu | pradivaḥ | śruṣṭiṃ | āvaḥ|*  
+> *iha | tvā | dheyuḥ | harayaḥ | suśipra | piba | tu | asya | susutasya | cāroḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव जवसे यज्ञं प्रत्यागमनाय सपर्यू परिचारकौ ९ री आ
+> युनज्मॆ । रथे योजयामि । प्रदिवः पुरातनस्त्वं ययोरश्वयोः श्रुष्टिं वेगं ।
+> श्रुष्टीति क्षिप्रनामेति यास्कः । तमन्वावः । अनुगच्छसि । हे सुशिप्र शोभनहनो इंद्र
+> हरयो रथे योजतास्तेऽश्वा इह कर्मणि त्वां त्वां धेयुः । यज्ञं प्रति धारयंतु । तत आगतस्त्वं सुषुतस्य सुष्वभिषुतं चारोः कमनीयमस्यॆमं सोमं
+> तु क्षिप्रं पिब ॥ सपर्यू । सपरशब्दः कंड्वादिः । तदंतादौणादिकः कुप्रत्ययः । आवः।
+> अव रक्षणादिषु । छांदसे लजि रूपं । यद्वृत्तयोगादनिघातः । धेयुः । दधातेराशीर्लिजि किदाशिषीति यासुट् । एर्लिजि । पा. ६-४-६७ । इत्येकारादेशः । निघातः ।
+> पिब । पादादित्पादनिघातः । सुषुतस्य । सुञ् अभिषवे । कर्मणि क्तः । गतिरनंतर इति
+> गतिस्वरः । उपसर्गात्सुनोतीत्यादिना संहितायां षत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, for your speed, that is, for your coming to the sacrifice, I yoke to the chariot the two attendants (the two horses)." You, the ancient one, follow the speed (श्रुष्टिं (*śruṣṭiṃ*)) of which two horses; Yāska says "श्रुष्टीति क्षिप्रनामेति (*śruṣṭīti kṣipranāmeti*)" (śruṣṭi is a name for "quick"), and you go along with that speed. O Sushipra, Indra of fair jaws, may the bay horses yoked to the chariot bear you here in this rite, may they hold you toward the sacrifice. Having come thence, quickly drink this well-pressed, lovely Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रदिवः (*pradivaḥ*)—(O Indra) you, the ancient one
+- ययोः (*yayoḥ*)—of which horses
+- श्रुष्टिं (*śruṣṭiṃ*)—the speed
+- आनु आवः (*ānu āvaḥ*)—you follow, of such
+- सपर्यू (*saparyū*)—the horses that serve you
+- ते (*te*)—your
+- जवसे (*javase*)—for swift going (to come to the sacrifice)
+- आ युनज्मि (*ā yunajmi*)—I join and bind to the chariot
+- सुशिप्र (*suśipra*)—O Indra of excellent cheeks
+- हरयः (*harayaḥ*)—your horses
+- इह (*iha*)—in this rite
+- त्वा (*tvā*)—you
+- धेयुः (*dheyuḥ*)—may they bear and bring
+- सुष्टुतस्य (*suṣṭutasya*)—of what is excellently pressed **NOTE**
+- चारोः (*cāroḥ*)—and lovely
+- अस्य (*asya*)—this Soma
+- तु (*tu*)—quickly
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the ancient one, follow the speed of certain horses; I join to your chariot those horses that serve you, so that they bring you quickly to this sacrifice. O Indra of excellent cheeks, may your horses bear you here in this rite. Drink quickly this Soma, well pressed and lovely.
+
+### Printed p. 128
+
+##### English translation (H. H. Wilson)
+I yoke (to your car), to bring you quickly, your two docile horses, whose speed you have of old employed : may your horses, handsome Indra, bring you hither, and drink promptly of this well-effused agreeable libation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॑र्मिमि॒क्षुं द॑धिरे सुपा॒रमिंद्रं॒ ज्यैष्ठा॑य॒ धाय॑से  ॒
+> गृणानाः ।  
+> मं॒दा॒नः सोमं॑ पपि॒वा ऋ॑जीषि॒न्त्सम॒स्सभ्यं॑ पुरु॒धा गा  ॑
+> इषण्य ॥ ३ ॥
+
+> *gobhirmimikṣuṃ dadhire supāramiṃdraṃ jyaiṣṭhāya dhāyase*  
+> *gṛṇānāḥ |*  
+> *maṃdānaḥ somaṃ papivā ṛjīṣintsamassabhyaṃ purudhā gā*  
+> *iṣaṇya ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । मिमिक्षुं । दधिरे । सुपारं । इंद्रं ज्यैष्ठाय । धायसे । गृणानाः ।  
+> मंदानः । सोमं । पपिवान् । ऋजीषिन् । सं । अस्मभ्यं । पुरुधा । गाः । इषण्य ॥
+
+> *gobhiḥ | mimikṣuṃ | dadhire | supāraṃ | iṃdraṃ jyaiṣṭhāya | dhāyase | gṛṇānāḥ |*  
+> *maṃdānaḥ | somaṃ | papivān | ṛjīṣin | saṃ | asmabhyaṃ | purudhā | gāḥ | iṣaṇya ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृणानाः स्तोत्रं कुर्वाणा ऋत्विजो मिमिक्षुं स्तोतृणामभिमतफलं
+> वर्षितुमिच्छंतं सुपारं शोभनपारं स्तुतिभिरभिमुखीकर्तुं शक्यमित्यर्थः । तादृशमिंद्रं ज्यैष्ठाय धनादिसंपत्ता श्रेष्ठत्वाय धायसे चिरकालमायुर्धारणाय
+> च गोभिर्गॊमिश्रितैः सोमैर्दधिरे । धारयंति । शेषः प्रत्यक्षः । हे ऋजेषिन्
+> सोमवन्निंद्र स त्वं मंदानो मोदमानः सोमं पपिवान् सोमस्य पाता सन्
+> स्तोतृभ्योऽस्मभ्यं पुरुधा बहुधा गा अग्निहोत्रादिकर्मसिद्ध्यर्थं धेनूः समिषण्य।
+> सम्यक् प्रेरय ॥ गोभिः । सावेकाच इति विभक्तेरुदात्तत्वे प्राप्ते न गोश्वन्नाववर्णॆति प्रतिषेधः । मिमिक्षुं। मिह सेचन इत्यस्य सन्येकाच इतीट् प्रतिषेधे हलंताच्चेति किद्वद्भावः । सनाशंसभिक्ष उः । प्रय्ययस्वरः । ज्यैष्ठाय । ज्येष्ठस्य भाव
+> इत्यर्थे ब्राह्मणादित्वात् प्यञ् । इत्त्वादाद्युदात्तः । गृणानाः । ग्य शब्दे । क्रादित्वात् श्ना । चित्वादंतोदात्तः । मंदानः । मदि स्तुत्यादिष्टित्यस्य शानचि बहुलं
+
+##### Gist of the bhāṣya
+
+The priests, praising, hold (offer) Soma mixed with milk (गोभिः (*gobhiḥ*), with cows' products) to that Indra who wishes to shower on the praisers their desired fruit and who is सुपारं (*supāraṃ*), one of good passage, that is, one who can easily be turned toward them by praises. They do so for excellence (ज्यैष्ठाय (*jyaiṣṭhāya*)) in wealth and other prosperity and for holding long life (धायसे (*dhāyase*)); the remainder of the verse is plain. O Indra, rich in Soma (ऋजेषिन् (*ṛjeṣin*)), you, rejoicing and having drunk the Soma, send forth to us, the praisers, many (पुरुधा (*purudhā*)) cows, milch cattle, for the accomplishment of rites such as the Agnihotra; send them well.
+
+### Printed p. 129
+*Gist (continued):* The remainder is grammatical only; it notes that पुरुधा (*purudhā*) is formed from a numeral-word with the affix meaning "in so many ways", and that इषण्य (*iṣaṇya*) is an imperative form from the root इष (*iṣa*).
+
+> छंदसीति शपो लुक् । पुरुधा । पुरुष शब्द इह संख्यावाची । संख्याया विधार्थे
+> धेति धाप्रत्ययः । इषण्य । इष गतौ । इषणमिच्छतीति छंदसि परेच्छायां क्यच्
+> तदंतादंतर्भावितण्यर्थल्लोटि रूपं ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृणानाः (*gṛṇānāḥ*)—the priests, the praisers
+- मिमिक्षुं (*mimikṣuṃ*)—who wishes to shower the desired fruit
+- सुपारं (*supāraṃ*)—who can be turned toward them by praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- ज्येष्ठाय (*jyeṣṭhāya*)—for excellent wealth and other prosperity **NOTE**
+- धायसे (*dhāyase*)—for obtaining long life
+- गोभिः (*gobhiḥ*)—with Soma mixed with milk
+- दधिरे (*dadhire*)—they hold (vessels filled)
+- यजीषिन् (*yajīṣin*)—O Indra, possessor of Soma **NOTE**
+- मंदानः (*maṃdānaḥ*)—rejoicing
+- सोमं (*somaṃ*)—the Soma
+- पपिवान् (*papivān*)—drinking
+- अस्मभ्यं (*asmabhyaṃ*)—to us, the praisers
+- पुरुधा (*purudhā*)—in great abundance
+- गाः (*gāḥ*)—the milch cows that furnish means for the sacrifice
+- सं इषण्य (*saṃ iṣaṇya*)—furnish and give
+
+##### भावार्थ (Bhāvārtha)
+
+The praising priests hold vessels filled with Soma mixed with milk toward Indra, who wishes to shower the desired fruit and can be turned toward them by praise, for excellent wealth and other prosperity and for obtaining long life. O Indra, rich in Soma, rejoicing and drinking the Soma, furnish to us, the praisers, in great abundance the cows useful for the sacrifice.
+
+##### English translation (H. H. Wilson)
+His adorers support with cattle, Indra, who is willing to bestow upon them their desires, and ready to come to the sacrifice, for the sake of obtaining eminent prosperity and prolonged life : acceptor of the spiritless Soma, who are the drinker of the Soma juice, and are exhilarated (by the draught), grant to us freely cattle in abundance.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं कामं॑ मंदया॒ गोभि॒रश्चै॑श्चं॒द्रव॑ता॒ राध॑सा  ॒॑
+> प्रप्रथश्च ।
+
+> *imaṃ kāmaṃ maṃdayā gobhiraścaiścaṃdravatā rādhasā*  
+> *praprathaśca |*
+
+### Printed p. 130
+
+> स्वयर्वो मतिभिस्तुभ्यं विप्रा इंद्राय वाहः कुशिकासो  
+> अक्रन् ॥ ४ ॥
+
+> *svayarvo matibhistubhyaṃ viprā iṃdrāya vāhaḥ kuśikāso*  
+> *akran ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । कामं । मंदय । गोभिः । अश्वैः । चंद्रवता । राधसा । पप्रथः । च ।  
+> स्वःयवः । मतिभिः । तुभ्यं । विप्राः । इंद्राय । वाहः । कुशिकासः । अक्रन् ॥ ४ ॥
+
+> *imaṃ | kāmaṃ | maṃdaya | gobhiḥ | aśvaiḥ | caṃdravatā | rādhasā | paprathaḥ | ca |*  
+> *svaḥyavaḥ | matibhiḥ | tubhyaṃ | viprāḥ | iṃdrāya | vāhaḥ | kuśikāsaḥ | akran ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इम धनादिविषयं काममस्मदीयमभिलाषं गोभिरग्नि होत्राडिकर्मसाधनभूतैर्गवादिभिर्वाहनसाधनभूतैरश्वैश्च चंद्रवता दीप्तियुक्तेन राधसा
+> धनेन च मंदय । एतानि दत्तेममभिलाषं पूरय । किंच । एतैरस्मान्पप्रथः ।
+> प्रथितांश्च कुरु । पश्चात्स्यर्यवः स्वर्गादिसुखमात्मन इच्छंतो विप्राः कर्मकुशलाः
+> कुशिकासः कुशिका मतिभिर्मननीयैर्मंत्रैर्वाहः स्तोत्रमिंद्राय तुभ्यमक्रन् ।
+> अकार्षुः ॥ मंदय । मदि स्तुत्यादिष्ठित्यस्य लोटि रूपं । गोभिः । सावेकाच इति
+> विभक्तेरुदात्तत्वे प्राप्ते न गोश्वन्साववर्णेत्यादिना प्रतिषेधः । प्रकृतिस्वरः । पप्रथः ।
+> प्रथ प्रख्याने । क्विप् । छंदस्युभयथेति तस्य सार्वधातुकत्वात् शप् । तस्य बहुलं
+> छंदसीति श्लुः । धातुस्वरः । अक्रन् । करोतेर्लुजि मंत्रे घसह्वरेत्यादिना लुक् ।
+> निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, gratify (मंदय (*maṃdaya*)) this desire of ours, concerning wealth and the like, with cows that are the means for rites such as the Agnihotra, with horses that are the means of conveyance, and with shining wealth (राधसा (*rādhasā*)). Give these and fulfil this desire. Further, make us extended, that is, renowned, by these. Afterwards the Kuśikas, wise (विप्राः (*viprāḥ*)), skilled in rites, desiring heaven and similar happiness for themselves, have made (अक्रन् (*akran*), "have done") praise for you, Indra, with thoughtful (मतिभिः (*matibhiḥ*)) mantras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इमं कामं (*imaṃ kāmaṃ*)—this desire of ours concerning wealth
+- गोभिः (*gobhiḥ*)—by furnishing cows
+- अश्वैः (*aśvaiḥ*)—and by horses
+- चंद्रवता (*caṃdravatā*)—shining
+- राधसा (*rādhasā*)—and by wealth
+- मंदय (*maṃdaya*)—satisfy
+- पप्रथः (*paprathaḥ*)—make (us) renowned
+- स्वरवः (*svaravaḥ*)—those who desire the happiness of heaven and the like **NOTE**
+- विप्राः (*viprāḥ*)—skilled in rites
+- कुशिकासः (*kuśikāsaḥ*)—the sages born of the Kuśika family
+- मतिभिः (*matibhiḥ*)—with words in the form of mantras
+- वाहः (*vāhaḥ*)—praise
+- इंद्राय (*iṃdrāya*)—for you, Indra
+- अक्रन् (*akran*)—they have made
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, satisfy this desire of ours concerning wealth by giving us cows, horses and shining wealth. Make us renowned. The sages born in the Kuśika family, who desire the happiness of heaven and the like and are skilled in rites, have made praise for you, Indra, with words in the form of mantras.
+
+### Printed p. 131
+
+##### English translation (H. H. Wilson)
+Gratify this our desire (of wealth) with cows, with horses, with shining treasure, and make us renowned: the wise Kushikas, desirous of heaven, offer praise to you, Indra, with pious (prayers).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ वृत॑मं॒ वाज॑सतौ ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒  ॑
+> धनानां ॥ ५ ॥
+
+> *śunaṃ huvema maghavānamiṃdramasminbhare vṛtamaṃ vājasatau |*  
+> *śṛṇvaṃtamugramūtaye samatsu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ*  
+> *dhanānāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघ्नवानं । इंद्रं । अस्मिन् ! भरे । नृतवं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghnavānaṃ | iṃdraṃ | asmin ! bhare | nṛtavaṃ | vājasāt |*  
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजसात् । वाजस्यान्नस्य सातिर्लाभो यस्मिन् सोऽयं वाजसातिः।
+> अस्मिन्भरे । बिभ्रति जयलक्ष्मीमनेन योद्वार इति भरः संग्रामः । तस्मिन् संग्रामे
+> शुनं शूनमुत्साहेन प्रवृद्धं । यद्वा शुनमिति सुखनाम । सुखकरं मघवानं
+> धनवंतं अत एवेंद्रं निरतिशयैश्वर्यसंपन्नं नृतमं सर्वस्य जगतोऽतिशयेन
+> नेतारं त्वां हुवेम । कुशिका वयं । यज्ञार्थमाह्वयेम । तथा शृण्वंतमस्माभिः
+> क्रियमाणां स्तुतिं शृण्वंतमुग्रं शत्रूणां भयंकरं समत्तु संग्रामेषु वृत्राणि
+> वृत्रोपलक्षितानि सर्वाणि रक्षांसि घ्नंतं हिंसंतं धनानां शत्रुसंबंधिनां संचितं
+> सम्यग्जेतारं त्वामूतये रक्षणाय वयमाह्वयेम ॥ शुनं । टुओत्ति गतिवृद्धोरित्यस्य निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । यजादित्वात्संप्रसारणं । दीर्घाभावश्चांदसः । प्रत्ययस्वरः । हुवेम । ह्वयतेर्बहुलं छंदसीति संप्रसारणे कृते
+> शपो लुकि कृते च लिजि रूपं । निघातः । भरे । भृञ् भरणे । घः । वृषादित्वादाद्युदात्तः । वाजसात् । षणु दाने । भावे क्तिन् । जनसनेत्यादिनानुनासिकस्यात्वं ।
+> बहुप्रीहौ पूर्वपदस्वरः । समत्तु अद भक्षणे । संपूर्वात् क्विप् । संभक्षयंति
+> योद्धणामायूंषीति समदे संग्रामाः । कृदुत्तरपदस्वरः । घ्नंतं । हन हिंसागत्योरित्यस्य शतरि गमहनेत्यादिनोपधालोपः । हो हंतेठिति घत्वं । संजितं ।
+> जि जये । क्विप् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, in this भरे (*bhare*)", a battle, so called because warriors bear (बिभ्रति (*bibhrati*)) the goddess of victory by it, the "वाजसात् (*vājasāt*)" is that in which there is gain (सातिः (*sātiḥ*)) of food (वाज (*vāja*)). In that battle we call you, शुनं (*śunaṃ*), swollen, that is, grown strong in zeal; or else शुनमिति (*śunamiti*) is a name for happiness, so, the giver of happiness. You are मघवानं (*maghavānaṃ*), wealthy, hence Indra, possessed of unsurpassed lordship, and नृतमं (*nṛtamaṃ*), the supreme leader of the whole world. We Kuśikas call you for the sacrifice. Likewise you hear the praise made by us, you are fierce (उग्रं (*ugraṃ*)), terrifying to enemies, in battles (समत्सु (*samatsu*)) you slay all the demons marked by Vṛtra, and you are the complete conqueror of the enemies' wealth. We call you, such a one, for protection (ऊतये (*ūtaye*)). The rest is grammar.
+
 ---
 
-**Progress note:** Done through printed p. 125. pp. 120-125 (batch API, retry 1)
+**Progress note:** Done through printed p. 131. pp. 126-131 (batch API, retry 1)
