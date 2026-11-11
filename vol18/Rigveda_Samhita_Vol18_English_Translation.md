@@ -2876,6 +2876,214 @@ Aitareya Brāhmaṇa 3-34 and other places this word is also used. That it is a 
 
 In the Abhyudayeṣṭi, addressed to Indra the giver, the verse भद्रा ते हस्ता (*bhadrā te hastā*) is the yājyā. It is also given in the sūtra: दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी । आ. ३-१३ । इति ॥ (*dīrghaste astvaṃkuśo bhadrā te hastā sukṛtota pāṇī | ā. 3-13 | iti ‖*) (Ā. 3-13). O Indra, your two hands are auspicious, beneficent and of good works; and your two hands (पाणी (*pāṇī*)) are givers of wealth (राधः (*rādhaḥ*)) to the sacrificer who praises you. O Indra, what is your abode, your sitting-place (निषत्तिः (*niṣattiḥ*))? Why do you not gladden us (ममत्सि (*mamatsi*))? Why indeed are you not pleased to give us wealth (दातवै (*dātavai*))? You are not glad.
 
+### Printed p. 89
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- भद्रा (*bhadrā*)—auspicious (bringing welfare)
+- हस्ता (*hastā*)—hands
+- सुकृता (*sukṛtā*)—doers of excellent deeds
+- उत (*uta*)—and
+- पाणी (*pāṇī*)—your hands
+- स्तुवते (*stuvate*)—to the sacrificer who praises
+- राधः (*rādhaḥ*)—wealth
+- प्रयंतारा (*prayaṃtārā*)—(they) furnish and give
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- निषत्तिः (*niṣattiḥ*)—state, abiding
+- का (*kā*)—of what kind?
+- किमु (*kimu*)—for what reason?
+- नो ममत्सि (*no mamatsi*)—do you not gladden us?
+- किं उदुदु (*kiṃ ududu*)—certainly, for what reason?
+- दातवै (*dātavai*)—to give us wealth
+- न हर्षसे (*na harṣase*)—are you not delighted?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your auspicious hands are doers of excellent deeds. Your hands are bringers of wealth to the sacrificer who praises you. O Indra, of what kind is your state? Why have you not gladdened us even yet? Why do you take no delight in giving us wealth?
+
+##### English translation (H. H. Wilson)
+Your auspicious hands, Indra, are the doers of good deeds: your two hands, Indra, are the extenders of wealth to him who praises you: what, Indra, is this delay? why do you not exhilarate us? why are you not delighted to make us gifts?
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhyudayeṣṭi, in the homa performed addressed to Indra, the Ṛk beginning भद्रा ते हस्ता (*bhadrā te hastā*) is to be used as the yājyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी (*dīrghaste astvaṃkuśo bhadrā te hastā sukṛtota pāṇī*) (Ā. 3-13).
+In this Ṛk the seer praises Indra's hands as giving wealth and the like to the sacrificer, that is, as having the ability to give; and, this being so, he asks: Why does Indra not give us wealth and the like? Why does he not bring us joy? That is, the seer expresses the thought: Though Indra has the ability to give wealth and the like, we do not know why he delays in providing them to us.
+
+### Printed p. 90
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा वस्व॒ इंद्रः॑ स॒त्यः स॒म्राड्दंता॑ वृ॒त्रं वरि॑वः पू॒रवे॑ कः ।  
+> पुरु॑ष्टुत॒ क्रत्वा॑ नः शग्नि रा॒यो भ॑क्षी॒य तेव॑सो॒ दैव्य॑स्य ॥१० ॥
+
+> *evā vasva iṃdraḥ satyaḥ samrāḍdaṃtā vṛtraṃ varivaḥ pūrave kaḥ |*  
+> *puruṣṭuta kratvā naḥ śagni rāyo bhakṣīya tevaso daivyasya ‖10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । वस्वः । इंद्रः । सत्यः । संराट् । हंता । वृत्रं । वरिवः । पूरवे । करिति कः ।  
+> पुरुस्तुत । क्रत्वा । नः । शग्नि । रायः । भक्षीय । ते । अवसः । दैव्यस्य ॥ १० ॥
+
+> *eva | vasvaḥ | iṃdraḥ | satyaḥ | saṃrāṭ | haṃtā | vṛtraṃ | varivaḥ | pūrave | kariti kaḥ |*  
+> *purustuta | kratvā | naḥ | śagni | rāyaḥ | bhakṣīya | te | avasaḥ | daivyasya ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्य वार्त्रघ्नस्य पशावेवा वस्व इति हविषो याज्या । सूत्रितं च । एवा
+> वस्व इंद्रः सत्यः सम्राड्यद्वाग्वदंत्यविचेतनानि । आ. ३-८ । इति ॥
+> एवैवमुक्तप्रकारेण स्तूयमानः सत्यः सत्यवान्वस्वो धनस्य सम्राडीश्वरो
+> वृत्रं वृत्रनामानमसुरं हंता हिंसितेंद्रः पूरवे मनुष्याय यजमानाय
+> वरिवो धनं कः । करोति । ददातीत्यर्थः । क्रत्वा कर्मणा स्तुतिहेतुना हे पुरुष्टुत
+> बहुभिर्यजमानैः स्तुतेंद्र त्वं नोऽस्मभ्यं रायो धनानि शग्नि ! देहि । ते त्वया
+> दीयमानस्य दैव्यस्य देवसंबंधिनोऽवसोऽन्नस्य ॥ कर्मणि षष्ठि ॥ अन्नं भक्षीय ।
+> अहं भजेय ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā for the oblation in the animal offering to Indra Vārtraghna. Sāyaṇa cites the sūtra: एवा वस्व इंद्रः सत्यः सम्राड्यद्वाग्वदंत्यविचेतनानि (*evā vasva iṃdraḥ satyaḥ samrāḍyadvāgvadaṃtyavicetanāni*) (Ā. 3-8). Explanation: Indra, praised in the manner stated (एव (*eva*)), is truthful (सत्यः (*satyaḥ*)), the sovereign lord (सम्राट् (*samrāṭ*)) of wealth (वस्वः (*vasvaḥ*)), the slayer (हंता (*haṃtā*)) of the asura named Vṛtra. He gives (कः (*kaḥ*) = करोति (*karoti*), that is, *dadāti*) wealth (वरिवः (*varivaḥ*)) to Pūru, that is, to man, the sacrificer. O Purūṣṭuta, praised by many sacrificers, by the act (क्रत्वा (*kratvā*)) that is the cause of praise, give (शग्नि (*śagni*) = देहि (*dehi*)) us riches (रायः (*rāyaḥ*)). May I partake of (भक्षीय (*bhakṣīya*) = भजेय (*bhajeya*)) the divine food (*daivyasya avasaḥ*, "belonging to the gods") that is given by you; the genitive is in the sense of the object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एवा (*evā*)—praised as described above
+- सत्यः (*satyaḥ*)—of truthful nature
+- वस्वः (*vasvaḥ*)—of wealth
+- सम्राट् (*samrāṭ*)—the lord
+- वृत्रं (*vṛtraṃ*)—Vṛtra, the asura
+- हंता (*haṃtā*)—the destroyer
+- इंद्रः (*iṃdraḥ*)—Indra
+- पूरवे (*pūrave*)—to the sacrificer, a man
+- वरिवः (*varivaḥ*)—wealth
+- कः (*kaḥ*)—provides and gives
+- क्रत्वा (*kratvā*)—by acts in the form of praise
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, praised by many
+- नः (*naḥ*)—to us
+- रायः (*rāyaḥ*)—wealth
+- शग्नि (*śagni*)—give
+- ते (*te*)—given by you
+- दैव्यस्य (*daivyasya*)—of divine nature
+- अवसः (*avasaḥ*)—of food
+- भक्षीय (*bhakṣīya*)—grant that I may become an eater (of it)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is praised in many ways, truthful in nature, lord of wealth, slayer of Vṛtra, provides wealth to the sacrificer, a man. O Indra, praised by many through acts in the form of praise, give us riches.
+
+### Printed p. 91
+Grant that I may partake of the food that is given by you and is divine in nature and in connection.
+
+##### English translation (H. H. Wilson)
+Thus (glorified), Indra, who is faithful (to his word), the lord of wealth, the slayer of Vritra, bestows riches on man ; so you, the praised of many, give us riches for our pious acts, that I may eat of your divine food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal-offering performed addressed to Indra, who is called Vārtraghna, when the oblation is offered, this Ṛk एवा वस्वः (*evā vasvaḥ*) is to be used as the yājyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra एवा वस्व इंद्रः सत्यः सम्राड्यद्वाग्वदंत्यविचेतनानि (*evā vasva iṃdraḥ satyaḥ samrāḍyadvāgvadaṃtyavicetanāni*) (Ā. 3-4). **NOTE**
+In this Ṛk, which concludes the sūkta, and in the next Ṛk, the seer Vāmadeva praises Indra and prays that he give him wealth and the like and food and other nourishment.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदासाः ॥ ११ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | harivaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadāsāḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्युषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनरदीरिव पीपेः ।
+
+##### Gist of the bhāṣya
+
+O Indra, you have been praised quickly (नु (*nu*) = क्षिप्रं (*kṣipraṃ*)) by the earlier seers, and are being praised quickly by us. Fill up (पीपेः (*pīpeḥ*) = प्यायये (*pyāyaye*), "make grow")—
+
+> प्यायये । प्रवृद्धं कुरु । हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो वयं धिया
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्त्वदर्थं हवीरूपस्यान्नस्य
+> दातारो वा स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+—make abundant the food (इषं (*iṣaṃ*) = अन्नं (*annaṃ*)) for me, your praiser (जरित्रे (*jaritre*)), as rivers are filled with water. O Harivat, Indra, owner of the horses called Hari, a newer hymn (*navyaṃ brahma* = *navataraṃ stotraṃ*) has been made for you by us. We who own chariots (रथ्यः (*rathyaḥ*)), constantly serving you (सदासाः (*sadāsāḥ*)) by praise (धिया (*dhiyā*)) in the form of insight, or else as givers of food in the form of oblation for your sake, may we be so (स्याम (*syāma*) = भूयास्म (*bhūyāsma*)).
+
+### Printed p. 92
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—praised by the earlier seers
+- नु (*nu*)—with the same faith
+- गृणानः (*gṛṇānaḥ*)—and being praised (by us also)
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with waters
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill up
+- हरिवः (*harivaḥ*)—O Indra, owner of horses called Hari
+- ते (*te*)—addressed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- अकारि (*akāri*)—is made
+- रथ्यः (*rathyaḥ*)—we who have chariots
+- धिया (*dhiyā*)—by praise made with insight
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the earlier seers and are praised by us too with the same faith, fill up food for me, the praiser, as rivers are filled with waters. O Indra, owner of horses called Hari, a new hymn is made addressed to you. May we, who have chariots, become worshippers of you and offerers of oblations, by praise made with insight.
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of chariots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk is read as the concluding Ṛk not only in this sūkta but also in sūktas 20–24. इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पीपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pīpeḥ*)—O Indra, you were praised in the past by many seers. Now you are praised by us. As rivers fill with rain-water and flow full, fill up food (food and other nourishment) for us who praise you; that is, give it to our heart's content.
+
+### Printed p. 93
+नु (*nu*)—नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. In इदं नु करिष्यति (*idaṃ nu kariṣyati*) the word नु (*nu*) has the sense of reason, "therefore". In कथं नु करिष्यति (*kathaṃ nu kariṣyati*) the word नु (*nu*) has the interrogative sense, "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used when a comparison is indicated. For example:
+अक्षो न चक्र्योः शूर बृहन्प्र ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhanpra te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*) (Ma. Seṃ. 6-24-3). **NOTE**
+The author of the Nirukta cites this Ṛk (Ni. 1-4) and states that in वृक्षस्य नु ते । वृक्षस्येव ते (*vṛkṣasya nu te | vṛkṣasyeva te*) the word नु (*nu*) is given the sense of comparison, "like a tree or like the branches of a tree". Likewise in Ṛks such as
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*) (Ṛ. Saṃ. 7-100-11)
+the word नु (*nu*) has the sense क्षिप्रं (*kṣipraṃ*), "quickly, promptly"; and in Ṛks such as
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्ना नावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastannā nāvṛdhasva |*) (Ṛ. Saṃ. 7-19-11)
+नु (*nu*) has the sense "now, at present, immediately"; the author of the Nirukta explains this with examples. In the present Ṛk the sense is क्षिप्रं (*kṣipraṃ*), "quickly, swiftly".
+जरित्रे (*jaritre*)—The word जरितृ (*jaritṛ*) is read among the names of the praiser (Ni. 3-19); there is also the etymology जरिता गरिता (*jaritā garitā*) (Ni. 1-7). So जरित्रे (*jaritre*) here means "to me, who praise".
+न (*na*)—The author of the Nirukta states two kinds of meaning for the word न (*na*):
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वधाय्क्यं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्प्रतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvadhāykyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpratiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4)
+That is, in the language of ordinary usage, that is, in modern Sanskrit, which is not the Vedic language, the word न (*na*) is used in the sense of negation (the sense "not, no"). This is known to all. But
+
+### Printed p. 94
+in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? The word न (*na*) in the sentence केंद्रं देवममंसत (*keṃdraṃ devamamaṃsata*) **NOTE**is used in the sense of negation. Negation (pratiṣedha) means not praising a person directly or to his face. In the sentence "Indra cannot be known as one endowed with brilliance", the word "not" (the meaning of न (*na*)) indicates a meaning contrary to the courteous statement regarding Indra. This is called the sense of negation. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates the sense of comparison (likeness). The meaning of this sentence is: "arrogant, like people who have drunk liquor". Here, to speak by comparing the qualities and faults in one person to the qualities and faults in another person is the sense of comparison. Those who have drunk liquor lose their wits and behave in a base manner out of arrogance. "Arrogant like those people" is the sense of comparison. Meanings of this kind are indicated in the Vedas by the word न (*na*) and also by the word इव (*iva*). The use of the word न (*na*) in this sense of comparison is found only in the Vedas, not in the language in common use; there, in its place, only the word इव (*iva*) is used.
+In this Ṛk, which concludes the sūkta, it is stated that the seer Vāmadeva offers a newly composed hymn to the deity and prays for the deity's favour.
+
+## Sūkta 22 (Maṇḍala 4)
+
+> तत्र तृतीयानुवाक एकादश सूक्तानि । तत्र यन्न इंद्र इत्येकादशर्चं
+> प्रथमं सूक्तं नामदेवस्यार्षं त्रैष्टुभमैंद्रं । यन्न इत्यनुक्रमणिका ॥
+> पृष्ठाभिप्लवषडहयोः प्रथमेऽहनि माध्यंदिनसवने मैत्रावरुणशस्त्रे द्वितीयमिदं संपातसूक्तं । सूत्रितं च । एवा त्वामिंद्र यन्न इंद्रः । आ. ७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third anuvāka (of Maṇḍala 4) has eleven sūktas. Of these, the first, the sūkta of eleven Ṛks beginning यन्न इंद्र (*yanna iṃdra*), has Vāmadeva as seer, is in the Triṣṭubh metre and is addressed to Indra; the Anukramaṇikā begins यन्नः (*yannaḥ*). In the Pṛṣṭha and Abhiplava Ṣaḍahas, on the first day, at the midday pressing, in the Maitrāvaruṇa-śastra, this is the second of the saṃpāta-sūktas. He cites the sūtra: एवा त्वामिंद्र यन्न इंद्रः (*evā tvāmiṃdra yanna iṃdraḥ*) (Ā. 7-5).
+
+##### Anuvāda
+
+In the third anuvāka of the fourth maṇḍala there are eleven sūktas. Of them this sūkta beginning यन्न इंद्रः (*yanna iṃdraḥ*) is the first. It has eleven Ṛks. Vāmadeva is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. What is said in the Anukramaṇikā beginning with यन्नः (*yannaḥ*): of the three saṃpāta-sūktas to be recited in the midst of the Maitrāvaruṇa-śastra mantras at the midday-pressing time on the first day of the sacrifices called Pṛṣṭha and Abhiplava Ṣaḍaha, this sūkta is the second. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra एवा त्वामिंद्र यन्न इंद्रः (*evā tvāmiṃdra yanna iṃdraḥ*) (Ā. 7-5).
+
 ---
 
-**Progress note:** Done through printed p. 88. pp. 83-88 (batch API)
+**Progress note:** Done through printed p. 94. pp. 89-94 (batch API)
