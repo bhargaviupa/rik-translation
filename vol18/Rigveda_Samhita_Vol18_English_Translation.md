@@ -27523,6 +27523,205 @@ Metre: 1–11 Triṣṭubh; 12 Śakvarī.
 Sāyaṇa says that the story told in the Śāṭyāyana Brāhmaṇa is related here. Tryaruṇa, the Aikṣvāka king of the line of Trivṛṣṇa, had as his priest the seer Vṛśa Jāna. Priests take the reins of kings' chariots for their protection, and so Vṛśa took Tryaruṇa's reins. A boy, Kumāra, playing in the road, was killed by the chariot wheel; the boy was cut by the wheel and the priest was sorrowful. The king said to the priest, "You are the slayer"; the priest said to the king, "Not I." Since the priest was the controller of the chariot's speed, the king said he had killed the boy; the priest said the king, as master of the chariot, was the killer. Disputing thus, they went to ask the Ikṣvākus, "By whom was this boy killed, O Brahmins?" They named the driver, the slayer, called Vṛśa. Vṛśa revived the boy with the Vārśa sāman. Having narrated this, Sāyaṇa tells another version. Because the Ikṣvākus in anger called the seer a slayer, Agni's heat left their houses, and cooking and the like did not occur in the house. They reflected on the reason: "Because we called Vṛśa the slayer of the boy, the heat of Agni has gone away; let us call Vṛśa." So they respectfully invited that seer. Wishing that Agni's heat might quickly return to them, he desired it as before through the Pārśa sāman. Singing thus, the seer took the brahmahatyā born from the wife of King Trasadasyu, in the form of a piśācī, and led her from the house of Agni and set her on a seat. The heat looked on well, was satisfied, and afterwards joined Agni again with the sāman. Then Agni became splendid, and the cooking and the rest were as before. **NOTE**
 Thus, Sāyaṇa says, it was told by Śāṭyāyana; now what is said in the Kāṇḍaka is stated: वृशः पुरोधा अभवत्र- (*vṛśaḥ purodhā abhavatra-*) (the block breaks off here; the next window continues).
 
+### Printed p. 735
+
+> सदस्योर्महीपतेः ॥ स रथं धावयन्नाजा ब्राह्मणस्य कुमारकं । चिच्छेद रथचक्रेण
+> प्रमादात्सोऽब्रवीद्वशं ॥ पुरोहिते वर्तमाने त्वयि मां हंति रागता । एषा
+> त्वयापनेतव्या ऋषिमित्यब्रवीन्मृपः ॥ स ऋषिर्वार्शसाम्ना तं कुमारमुदजीवयत् ॥ माता कुमारस्योत्पादयित्री युवतिर्यौवनोपेता कुमारं पथि संचरंतं
+> समुब्धं चक्रेण हतं गुहा गुहायां भिभर्ति । धारयति । न ददाति पित्रे तस्य
+> जनताय । यद्वा । माता सर्वस्य निर्मात्रि पृथीवी समुब्धं सम्यक् निगूढं गुहा
+> बिभर्ति । न ददाति पित्रे । अस्य कुमारस्यानीकं रूपं मिनत् हिंसितं जनासो जना
+> न पश्यंति । किंतु अरतावरमणे देशे निहितं स्थितं पुरः पुरोदेशे पश्यंति ।
+> आथवायं वृशेन पुनरुज्जिवितः कुमार आत्मानमपरोक्षतया वक्ति । कथयति ।
+> जानो वा तं जीवयित्वा वक्ति । अथवा सूक्तस्याग्नेयत्वात्कुमार इत्यग्निरुच्यते ।
+> तं मातारणियुवतिर्मिश्रयंती समुब्धं निगूढं गुहायां बिभर्ति । पित्र
+> उत्पादकाय यजमानाय न ददाति । अस्याग्निर्मिनत् हिंसत् दाहकमनीकं तेजो
+> जना न पश्यंति । किंतु अरतावरण्यां हितं पश्यंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the story. Vṛśa became the purohita of King Trasadasyu. While driving the chariot the king, in a moment of carelessness, cut down a Brahmin's little boy with the chariot wheel. He said to Vṛśa: "While you are my purohita, this guilt has fallen upon me; you must remove it", and the Ṛṣi revived the boy with the Vārśa sāman.
+
+He then explains the verse. The mother, the young woman in her youth, holds the boy, who was struck down by the wheel as he moved about on the road, hidden in a cave (गुहा गुहायां (*guhā guhāyāṃ*)). She does not give him to his father, the one who begot him.
+
+Alternatively, the "mother" is the Earth, the maker of all, who holds him well hidden in a cave and does not give him to the father. People do not see the form of this boy, which is "injured"; but they see him placed in the अरतौ (*aratau*) (a place of no delight), in front of them.
+
+Or else the boy, revived by Vṛśa, tells of himself directly; or Jāna, having revived him, speaks of him.
+
+Or else, because the sūkta is addressed to Agni, "kumāra" means Agni. His mother is the young araṇi (fire-stick), who holds him hidden in the cave. She does not give him to his "father", the sacrificer who is the begetter. People do not see the burning splendour of this Agni that "injures"; they see it placed in the araṇi, in the woodland.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवतिः (*yuvatiḥ*)—the young mother, endowed with youth
+- माता (*mātā*)—the mother
+- समुब्बं (*samubbaṃ*)—injured by the wheel
+- कुमारं (*kumāraṃ*)—the son
+- गुहा (*guhā*)—in secret
+- बिभर्ति (*bibharti*)—holds
+- पित्रे (*pitre*)—to the father of the son
+- न ददाति (*na dadāti*)—does not hand over
+- अस्य (*asya*)—of this boy
+- मिनत् (*minat*)—injured
+- अनीकं (*anīkaṃ*)—the form
+- जनासः (*janāsaḥ*)—people
+- न पश्यंति (*na paśyaṃti*)—do not see (but)
+- पुरः (*puraḥ*)—in front of themselves
+- अरतौ (*aratau*)—in an unsettled state
+- निहितं (*nihitaṃ*)—the son who is placed (only)
+- पश्यंति (*paśyaṃti*)—they see
+
+##### भावार्थ (Bhāvārtha)
+
+The young mother holds in secret her son, who was injured by the wheel. She does not hand him over to the son's father. But people see only the son who is placed before them in an unsettled state.
+
+##### English translation (H. H. Wilson)
+The young mother cherishes her mutilated boy in secret, and gives him not up to the father : men behold not his mutilated form, but (see him) when placed before (them) in an unresting (position).
+
+### Printed p. 736
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning the matter described in the first Ṛk of this sūkta, the commentator has set out as follows the story-setting told in the Śāṭyāyana-brāhmaṇa of the Sāmaveda:
+
+शाट्यायनब्राह्मणोक्त इतिहास इहोच्यते । राजा त्रैवृष्ण ऐक्ष्वाकः त्रुणोभवदस्य च ॥ पुरोहितो वृशो जान ऋषिरासीत्तदा खलु । संगृह्णंति रथान् राजां रक्षणाय पुरोहिताः ॥ (*śāṭyāyanabrāhmaṇokta itihāsa ihocyate | rājā traivṛṣṇa aikṣvākaḥ truṇobhavadasya ca ‖ purohito vṛśo jāna ṛṣirāsīttadā khalu | saṃgṛhṇaṃti rathān rājāṃ rakṣaṇāya purohitāḥ ‖*)
+त्रुणस्य वृशो रश्मिं संजग्राह पुरोहितः । कुमारो वर्त्मनि क्रीडन्रथचक्रेण घातितः ॥ (*truṇasya vṛśo raśmiṃ saṃjagrāha purohitaḥ | kumāro vartmani krīḍanrathacakreṇa ghātitaḥ ‖*)
+छिन्नः कुमारश्च क्रेण ममाराध पुरोहितः । त्वं हंतास्येति राजानं राजा चापि पुरोहितं ॥ (*chinnaḥ kumāraśca kreṇa mamārādha purohitaḥ | tvaṃ haṃtāsyeti rājānaṃ rājā cāpi purohitaṃ ‖*)
+त्वं हंतास्य कुमारस्य नाहमित्यब्रवीत्तदा । यतस्त्वं रथवेगस्य नियंतातस्त्वया हतः ॥ (*tvaṃ haṃtāsya kumārasya nāhamityabravīttadā | yatastvaṃ rathavegasya niyaṃtātastvayā hataḥ ‖*)
+रथस्वामी यतो राजन् तस्मात्त्वं तस्य घातकः । एवं विवदमानौ ताविक्ष्वाकून्ष्टुमागत् ॥ (*rathasvāmī yato rājan tasmāttvaṃ tasya ghātakaḥ | evaṃ vivadamānau tāvikṣvākūnṣṭumāgat ‖*)
+तौ पप्रच्छतुरिक्ष्वा कून् केनास् निहतो द्विजः । तेऽब्रुवन्रथयंतारं हंतारं वृशसंज्ञकं ॥ (*tau papracchaturikṣvā kūn kenās nihato dvijaḥ | te 'bruvanrathayaṃtāraṃ haṃtāraṃ vṛśasaṃjñakaṃ ‖*)
+स वृशो वार्शसाम्मा तं कुमारं समजीवयत् । एवमाख्यायि तत्रैव पुनरन्यदुदीरितं ॥ (*sa vṛśo vārśasāmmā taṃ kumāraṃ samajīvayat | evamākhyāyi tatraiva punaranyadudīritaṃ ‖*)
+यत इष्टाकवो रागाद्दंतरामृषिमब्रुवन् । तस्मात्तेषां गृहेष्वग्नेस्तेजो निर्गतमेषु च ॥ (*yata iṣṭākavo rāgāddaṃtarāmṛṣimabruvan | tasmātteṣāṃ gṛheṣvagnestejo nirgatameṣu ca ‖*)
+गृहे पाकादयो नासन् तत्कारणमचिंतयन् । वृशं कुमारहंतारं यदवोचाम तेन नः ॥ (*gṛhe pākādayo nāsan tatkāraṇamaciṃtayan | vṛśaṃ kumārahaṃtāraṃ yadavocāma tena naḥ ‖*)
+अपाक्रमद्धरो वह्नेराह्वयाम (*apākramaddharo vahnerāhvayāma*) … *ādarāt ‖* **NOTE**
+समागत्य ततः शीघ्रं तेषामग्निर्हरो भवेत् । इति वार्शेन साम्ना सावकामयत पूर्ववत् ॥ (*samāgatya tataḥ śīghraṃ teṣāmagnirharo bhavet | iti vārśena sāmnā sāvakāmayata pūrvavat ‖*)
+एवं गायन् स ऋषिब्रह्महत्यां भार्याजातां त्रसदस्योर्नृपस्य । पिताचवेषां हर आदाय चाग्नेर्गृहान्नीत्वा कशिप् स्थापयंतीं ॥ (*evaṃ gāyan sa ṛṣibrahmahatyāṃ bhāryājātāṃ trasadasyornṛpasya | pitācaveṣāṃ hara ādāya cāgnergṛhānnītvā kaśip sthāpayaṃtīṃ ‖*)
+
+### Printed p. 737
+
+दृष्ट्वा सम्यक् तद्धरस्तोषयित्वा साम्या पश्चाद्योजयामास चाग्निं । ततः सतेजाः संजातोऽभवत्पाकादि पूर्ववत् । एवं शाट्यायनेनोक्तं तांड्यकोक्तमथोच्यते ॥ (*dṛṣṭvā samyak taddharastoṣayitvā sāmyā paścādyojayāmāsa cāgniṃ | tataḥ satejāḥ saṃjāto 'bhavatpākādi pūrvavat | evaṃ śāṭyāyanenoktaṃ tāṃḍyakoktamathocyate ‖*)
+वृशः पुरोधा अभवत्रसदस्योर्महीपतेः । स रथं धावयन्नाजा ब्राह्मणस्य कुमारकं ॥ चिच्छेद रथचक्रेण प्रमादात्सोऽब्रवीद्भृशं । पुरोहिते वर्तमाने त्वयि मा हंतिरागता ॥ एषा त्वयापनेतव्या ऋषिमित्यब्रवीन्नृपः । स ऋषिर्वार्शसामान्या तं कुमारमुदजीवयत् ॥ (*vṛśaḥ purodhā abhavatrasadasyormahīpateḥ | sa rathaṃ dhāvayannājā brāhmaṇasya kumārakaṃ ‖ ciccheda rathacakreṇa pramādātso 'bravīdbhṛśaṃ | purohite vartamāne tvayi mā haṃtirāgatā ‖ eṣā tvayāpanetavyā ṛṣimityabravīnnṛpaḥ | sa ṛṣirvārśasāmānyā taṃ kumāramudajīvayat ‖*)
+
+In the Ikṣvāku line there was a king named Tryaruṇa, the son of Trivṛṣṭa. He had a purohita named Vṛśa, the son of Jana and a great Ṛṣi. There was a custom that when the king and the purohita went out together, the purohita should act as charioteer and drive the chariot. Accordingly Vṛśa, holding the reins of the horses, was driving the chariot. On this occasion a Brahmin's boy was playing on the path of the chariot. The wheel of the chariot ran over the boy, and the boy died at once. A dispute arose between the two as to who was a sharer in the sin arising from the death. The king said that the purohita himself, since he was driving the chariot, was the sharer in the sin; the purohita said that the king, since he was the master of the chariot, was the sharer. Thus each began to lay the fault on the other. Then the two put their dispute before the assembly of the Ikṣvākus. There it was decided that the fault was the purohita's. (That the dispute was thus put before the assembly, and that the assembly announced its decision, is not in the Bṛhaddevatā verses quoted earlier.) As soon as it was decided that he was the sharer in the sin, because restraining the speed of the chariot is the duty of the charioteer and Vṛśa, being the charioteer, had not done it, the Ṛṣi received the vision of a sāman-mantra called the Vārśa-sāman, recited that mantra, and by its power brought the dead boy back to life. But he became angry with the Ikṣvākus, who had wrongly laid the fault upon him and pronounced a decision against him, and cursed them: "In their house let vigour and splendour be lost to the fire that is kindled there." And he abandoned them and went away. (There is a Bṛhaddevatā statement that he went to the king of that country and joined him.) As a result of that curse all the splendour of the fire established in the house of the Ikṣvākus was lost. अग्नौ प्रास्तानि हव्यानि न हैपच्यंत कानिचित् (*agnau prāstāni havyāni na haipacyaṃta kānicit*). Because the splendour of the fire was lost, the oblations and the like offered in that fire were not cooked, and since there was no fire in the kitchen either, cooking and the like could not be done.
+
+So they all, in distress, went to the place where Vṛśa was, entreated him, and brought him back. Then, when he again recited the Vārśa-sāman, the mantra he had recited before, the lost splendour of the fire reappeared. (Up to here the story fits the setting. But the same matter is continued and the story is further developed.) Because he had cursed them as soon as he was displeased earlier, the guilt of Brahmin-slaying, dwelling in the form of the wife of Trasadasyu and in the guise of a Piśācī, carried off the splendour of the fire and hid it in her garment. Vṛśa discovered this, freed the haras (the splendour of the fire) from there and joined it again to the fire. At once the fire blazed up and began to cook the oblations and the like offered in it. (The Bṛhaddevatā tells that Vṛśa recited the mantra with reference to the guilt of Brahmin-slaying in the form of a Piśācī. This was quoted earlier.)
+
+The story told so far has been set out as Śāṭyāyana the great Ṛṣi has told it. Now the difference in the part of the story told in the Tāṇḍya-brāhmaṇa will be set out. When King Trasadasyu entreated Vṛśa to become his purohita and remove his guilt of Brahmin-slaying, Vṛśa became his purohita again, and by the power of the Vārśa-sāman he revived the dead boy. Thus the greatness of Vṛśa is praised. This is the setting of the story.
+
+Because there is this introduction in story form, it must be said that in the present mantra the word युवतिः (*yuvatiḥ*) points to the Piśācī woman in the form of Tryaruṇa's wife. How this meaning is to be stated: the Bṛhaddevatā verse itself is the support for it.
+निषण्णस्स तया सार्धं आसंद्यां कशिपावपि । तामुपामंतयांचक्रे कमेतं त्वमिति त्वृचा ॥ (*niṣaṇṇassa tayā sārdhaṃ āsaṃdyāṃ kaśipāvapi | tāmupāmaṃtayāṃcakre kametaṃ tvamiti tvṛcā ‖*)
+(Bṛ. De. 5-20)
+It says that Vṛśa, seated on one seat with that wife of Tryaruṇa in the form of a Piśācī, recited the mantra कमेतं त्वं युवते कुमारं (*kametaṃ tvaṃ yuvate kumāraṃ*) (5-2-2). Since Sāyaṇa there (5-2-2) explains पेषी हिंसिका पिशाचिका सती (*peṣī hiṃsikā piśācikā satī*) **NOTE** as "a young woman who is a Piśācī", it would not be unsuitable to explain the word युवति (*yuvati*) in the first mantra, that is, in the present mantra, also as the Piśācī woman. One kind of meaning can be given: she does not give to the protector, the sacrificer, the fire in the form of a boy (अग्नेरुत्पाद्यमानत्वात् कुमारशब्देन व्यवहारः (*agnerutpādyamānatvāt kumāraśabdena vyavahāraḥ*)), having hidden him. This meaning fits the setting of the story and the explanation given in the Bṛhaddevatā.
+
+### Printed p. 740
+
+But Sāyaṇa has explained the word कुमार (*kumāra*) as the boy killed by the chariot wheel, and said that this young woman, not offering him to his father, keeps him hidden within herself, and that therefore this is the praise. This meaning does not seem so appropriate. Moreover, the second half has not been explained so as to agree with it. Therefore it is proper to explain the word "kumāra" here as Agni. Sāyaṇa's second, alternative explanation supports this meaning. It is this:
+माता सर्वस्य निर्मात्री पृथिवी समुब्बं सम्यक् निगूढं गुहा बिभर्ति । न ददाति पित्रे । (*mātā sarvasya nirmātrī pṛthivī samubbaṃ samyak nigūḍhaṃ guhā bibharti | na dadāti pitre |*)
+One meaning is that the Earth, maker of all, holds this Agni, who has come into being, secretly, and does not readily offer him to the protector, the sacrificer. Or else he has given another meaning for the word "mother", namely the araṇi. सूक्तस्य आग्नेयत्वात् कुमार इत्यग्निरुच्यते (*sūktasya āgneyatvāt kumāra ityagnirucyate*). Since this sūkta is indicated as Agni's, the word "kumāra" here means Agni. The araṇi is this Agni's mother. Men do not see the splendour of the Agni that lies within the aranī; this is the last explanation given. But how the name "Kumāra" came to be known for Agni must be examined.
+
+In the introduction to this sūkta a passage of the Śatapatha-brāhmaṇa is quoted, and it tells how Agni arose and that "Kumāra" is described as the ninth name of Agni, together with the eight names beginning with Rudra. This same Agni is praised in many contexts in the Ṛk-saṃhitā also as a child and as a boy. For example:
+
+तमिद्दच्छंति जुह्वंस्तमर्वतीर्विश्वान्येकः शृणवद्वचांसि मे । पुरुप्रैषस्ततुरिय्यज्ञसाधनोऽच्छिद्रोतिः शिशुरादत्त सं रभः ॥ (*tamiddacchaṃti juhvaṃstamarvatīrviśvānyekaḥ śṛṇavadvacāṃsi me | purupraiṣastaturiyyajñasādhano 'cchidrotiḥ śiśurādatta saṃ rabhaḥ ‖*)
+(Ṛ. Saṃ. 1-145-3)
+स ईं वृषाजनयत्तासु गर्भं स ईं शिशुर्धयति तं रिहंति । (*sa īṃ vṛṣājanayattāsu garbhaṃ sa īṃ śiśurdhayati taṃ rihaṃti |*)
+(Ṛ. Saṃ. 2-35-13)
+
+In these and many other contexts Agni is praised as one who, though in the form of a child, does extraordinary deeds. Besides this, there is room to say that in some other places also the word "kumāra" is a synonym of Agni. Just as the word "kumāra" is explained as Agni in the present sūkta, the meaning can be stated in the same way in those contexts also. For example:
+
+बोधद्यन्ना हरिभ्यां कुमारः साहदेव्यः । अच्छा न हूत उदरं । (*bodhadyannā haribhyāṃ kumāraḥ sāhadevyaḥ | acchā na hūta udaraṃ |*)
+(4-15-7)
+उत क्या यजता हरी कुमारात्साहदेव्यात् । प्रयता सद्य आ ददे ॥ (*uta kyā yajatā harī kumārātsāhadevyāt | prayatā sadya ā dade ‖*)
+(4-15-8)
+
+Here the circumstance is told of Vāmadeva obtaining horses from Kumāra, the son of Sahadeva. It is understood from Sāyaṇa's commentary that this is a sūkta directed to Agni.
+
+सोग्निं तु पंचदशभिरिंद्रं षोडशभिः परैः (*sogniṃ tu paṃcadaśabhiriṃdraṃ ṣoḍaśabhiḥ paraiḥ*)
+(Bṛ. De. 4-12)
+The Bṛhaddevatā says that the first 15 sūktas in the fourth maṇḍala are directed to Agni. But when telling certain special matters, indicating only the two mantras quoted above, it says:
+
+लिंगोक्तदैवते सूक्ते एके प्रत्यग्निरेवतु । ऋषिबोधदिति द्वाभ्यां स्तौति सोमकमेव तु ॥ (*liṃgoktadaivate sūkte eke pratyagnirevatu | ṛṣibodhaditi dvābhyāṃ stauti somakameva tu ‖*)
+(Bṛ. De. 9-129) **NOTE**
+(Bṛ. De. 9-12)
+
+Ṛ. Saṃ. 4-13 and 4-14 **NOTE**, the sūktas, are recited in praise of the individual qualities of their respective deities. But only the two mantras बोधद्यन्ना (*bodhadyannā*) **NOTE** and उत त्या यजता (*uta tyā yajatā*) are said by some to be directed to Agni and by others to be addressed to Soma-ka. This amounts to saying that stating a definite meaning for these two mantras is an effort. On the basis of Vedic statements such as this, "kumāra" here can be explained as Agni. And the two horses indicate the Aśvin deities; the word "sahadeva" can be explained as the presence of the deity. The two horses are the Aśvin deities themselves, who reflect day and night or the bright and dark fortnights. Such explanations in this context have been given by some scholars. But if "kumāra" is explained as Agni in these quoted mantras, the other words too must be given purports suited to it. This is laborious. Without the support of exact Vedic statements this meaning cannot be accepted. Even so, it is understood from the very statement of the author of the Bṛhaddevatā that the meaning of these mantras is deep. Therefore explaining it as Agni is in a way proper too.
+
+To explain the word युवति (*yuvati*) as the Piśācī woman is one way. Or उषस्संदर्भमावुदु (*uṣassaṃdarbhamāvudu*) **NOTE** is another way. But if it is said that according to the setting of the story it can be explained simply as the Piśācī woman, that too is not exact. Sāyaṇa himself has given three kinds of meaning for the word युवति (*yuvati*). Therefore to explain युवति (*yuvati*) as Uṣas also would be appropriate in the present case. How, will be told in the special topics of the next mantra.
+
+### Printed p. 741
+
+Concerning the explanation of this Ṛk, the scholar Wilson has spoken as follows:
+
+##### English translation (H. H. Wilson)
+According to what is no doubt the most accurate interpretation of
+this verse, and of those which follow, they contain only a metaphorically
+obscure allusion to the lighting of the sacrificial fire : the mother is the two
+pieces of touch-wood. which retain fire. the child, and will not sponta-
+neously give it up to the father, the yajamana, until forced by attrition :
+till then, also, people, the priests. do not behold it, but they see it when burst-
+ing into ignition : this however, has not satisfied the commentators, and a
+curious and strange legend has been devised for the interpretation of the
+text, or has been perhaps, applied to it by way of expianation, having
+been previously current : it is more probably, however, suggested by, than
+suggestive of, the verses : Sayana quotes the Shatyayana Brahmana as the
+authority : the story is this : Raja Tryaruna, the son of Trivrisha cf the
+race of Ikshwakus had for his Purohita Vrsina the son of Jara : it was the
+custom, it is said, when a Raja and his Purohit went out in the same
+chariot, that the latter should drive. and on an occasion of this kind, the
+chariot went over a Brahman boy who was playing in the road, and killed
+him : a dispute ensued between the Raja and the priest as to which was
+the murderer, the former accusing the latter because he was drivipg, the
+the Purohit retorting, that as the chariot was the Raja's, he was the
+responsible person : they referred the matter to an assembly of the
+Ikshwakus, who decided against the Purohit : Vrsia restored the boy to
+life by the prayer thenceforth called after him the Varsha-samaan, but
+being offended with the Ikshwakus for what he considered their partiality,
+fire thenceforth ceased to perform its functions in their dwellings and the
+ccoking of their food and other offices ceased : attributing this to the
+displeasure of the Rishi, the Ikshwakus respecfully invoked his presence,
+and with the same mantra. he prayed that the energy of fire would be
+restored to them, which accordingly took place : this energy or activity is
+designated by the unusual term of Haras, Agner haras : so far the legend
+is intelligible, but what follows is rather obscure : Sayana proceeds : so
+
+### Printed p. 742
+
+singing, the Rishi having seen distinctly Brahmanicide become the wife of
+the king Trasadasyu, in the garb of a Pishachi, and that she, having taken
+the Haras away from the fire-chamber, was concealing it in her regal
+clothing (kashipau?) he, having propitiated that Haras by Varsha Sama ,
+re-united it with Agni, upon which the offices of fire, in cooking and the
+like, were discharged as before : Sayana adds to his version a quotation
+from the Tandya which stops with the restarotion of the boy to life : Niti-
+manjari cites the legend from the Brihad-devata, the first part of which is
+the same as that given above but there is some slight variation in the con
+clusion : after the decision against the Purohit, this authority continues, the
+Atharvan having seen (or composed) the Angirasa mantras, restored the boy
+to life, but beeing in wrath, desertedthe king, and went to another country :
+upon his departure, the Haras or function of Agni ceased, and there were
+no more burnt-offerings : the Raja, being much distressed, went to the
+Rishi, and pacified and brought him back, and prevailed upon him to
+become his Purohit once more : still the fire withheld its activity, until the
+Rishi discovered that the queen was in reality a Pishachi, with whom the
+Haras had associated, and was seated on the throne with her, and hidden
+in her robe : on discovering this, the Rishi repeated the second star za ef **NOTE**
+this Suktha, " Young mother, etc.,," to which Haras, in the form of
+a boy, replied: the Rishi then recited the ninth stanza. "Agni shines etc."
+on which the flame burst forth and consumed the Pishachi, after which
+things went on as before : if there be any meaning in this legend, it may
+possibly intimate some quarrel between the princes and priests, and a
+consequent temporary discontinuance of worship with fire.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कमे॒तं त्वं यु॑वते कुमा॒रं पेषी॑ बिभर्षि॒ महि॑षी जजान ।  
+> पू॒र्वीर्हि गर्भः॑ श॒रदो॑ व॒वर्धाप॑श्यं जा॒तं यदसू॑त  ॒
+> माता ॥ २ ॥
+
+> *kametaṃ tvaṃ yuvate kumāraṃ peṣī bibharṣi mahiṣī jajāna |*  
+> *pūrvīrhi garbhaḥ śarado vavardhāpaśyaṃ jātaṃ yadasūta*  
+> *mātā ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 734. pp. 729-734 (batch API)
+**Progress note:** Done through printed p. 742. pp. 735-742 (batch API)
