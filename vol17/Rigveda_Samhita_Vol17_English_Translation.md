@@ -10245,6 +10245,212 @@ That in the animal sacrifice, when the puroḍāśa-sviṣṭakṛt offering is 
 
 The hymn beginning उषसः पूर्वा (*uṣasaḥ pūrvā*), of twenty-two ṛcs, is the second sūkta (of this group), in the Triṣṭubh metre. Its deity is Uṣas, according to the Anukramaṇikā. Its seer is Prajāpati, and it is addressed to the Viśvedevas, since the word ह (*ha*) is used in the preceding sūkta (प्रजापतिर्हि वैश्वदेवं हेति (*prajāpatirhi vaiśvadevaṃ heti*)). The sūkta's ritual use is indicated by the text itself (लैंगिकः (*laiṃgikaḥ*)). Here the first … **NOTE**
 
+### Printed p. 274
+
+> ग्न्यादिदेवतास्ततः पराहोरात्रदेवताका ततश्चतस्रो रोदस्योः पंचदशी द्युनिशोर्वा षोडशी दिद्देवताका ततः षडृचो वर्षत इंद्रस्य केचिदग्नेष्टुश्चेति
+> मन्यंते ॥
+
+##### Gist of the bhāṣya
+
+(This block continues Sāyaṇa's introduction to the sūkta.) After the verses to Agni and the other deities comes a verse addressed to Day-and-Night (ahorātra-devatākā). Then four verses are to Rodasī, and the fifteenth is to Rodasī or to Dyunīśa (the heaven and the night). The sixteenth has the quarters (dik) as its deity. Then six verses are addressed to the rain-giving Indra; some hold that they belong to Agni and Tvaṣṭṛ. **NOTE**
+
+Anuvāda: This sūkta, Uṣasaḥ pūrvāḥ, is the second sūkta in the fifth anuvāka. It has twenty-two Ṛks. In the Anukramaṇikā it is introduced with the word उषसः (*uṣasaḥ*).
+
+For this sūkta, as stated for the preceding sūkta, Prajāpati is the deity, and the Viśvedevas are the deity. The metre is Triṣṭubh. The use of the sūkta in ritual is by indication (laiṅgika). In this sūkta the first Ṛk has Uṣas as its deity; the nine Ṛks after it (Ṛks 2–10) are to Agni and the others; the next Ṛk (Ṛk 11) is to Day-and-Night; the next three Ṛks (12–14) are to Rodasī; the fifteenth Ṛk is to Rodasī or to Dyunīśau; the sixteenth Ṛk is to the quarters; the six Ṛks after that are said to be to Indra, Parjanyātmā, Tvaṣṭṛ or Agni.
+
+Sūkta 55. Maṇḍala 3; Anuvāka 5; Sūkta 55. Aṣṭaka 3; Adhyāya 3; Vargas 28, 29, 30, 31. Number of Ṛks in the sūkta: 22.
+Ṛṣi: Prajāpati Vaiśvāmitra, or Vāc.
+Deity: the Viśvedevas. 1. Uṣas. 2–10. Agni. 11. Day-and-Night. 12–14. Rodasī. 15. Rodasī or Dyunīśau. 16. The quarters. 17–22. Indra, Parjanyātmā, Tvaṣṭṛ and Agni.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षसः॒ पूर्वा॒ अध॒ यद्व्यू॒षुर्म॒हद्धि ज॑ज्ञॆ अ॒क्षरं॑ प॒दे  
+> गोः ।  
+> व्र॒ता दे॒वाना॒मुप॒ सु प्र॒भूष॑न्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑॥
+
+> *uṣasaḥ pūrvā adha yadvyūṣurmahaddhi jajñè akṣaraṃ pade*  
+> *goḥ |*  
+> *vratā devānāmupa su prabhūṣanmahaddevānāmasuratvamekaṃ‖*
+
+### Printed p. 275
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषसः । पूर्वाः । अध । यत् । विऊषुः । महत् । वि । जज्ञे । अक्षरं । पदे ।  
+> गोः ।  
+> व्रता । देवानां । उप । नु । प्रभूषन् । महत् । देवानां । असुरत्वं । एकं ॥
+
+> *uṣasaḥ | pūrvāḥ | adha | yat | viūṣuḥ | mahat | vi | jajñe | akṣaraṃ | pade |*  
+> *goḥ |*  
+> *vratā | devānāṃ | upa | nu | prabhūṣan | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वा उदयकालात्पाचीना उषसो यद्यदा व्यूषुर्व्यच्छंति अध तदानीमक्षरं । न क्षरतीत्यक्षरं । अविनाश्यादित्याख्यं महत्प्रभूतं ज्योतिर्गॊरुदकस्य
+> पदे स्थाने समुद्रे नभसि वा वि जज्ञे । उत्पद्यते । अथोदिते सूर्ये प्रभूषन्नग्निहोत्रादिकर्मसु प्रभवितुमिच्छन्यजमानो व्रता कर्माणि देवानां नु क्षिप्रमुप
+> समीपं तिष्ठति । योग्यक्रियाध्याहारः । तदिदं देवानामेकं मुख्यमसुरत्वं ।
+> आस्यति क्षिपति सर्वानित्यसुरः प्रबलः । तस्य भावोऽसुरत्वं प्राबल्यं । महदैश्वर्यं ॥
+> व्यूषुः । उष प्लुष दाह इत्यस्य विपूर्वस्य लिट्युसि रूपं । सहेति योगविभागात्समासः । यद्वृत्तयोगादनिघातः। प्रभूषन्। भवतेः सनि द्विर्वचनस्य छंदसि विकल्पितत्पादत्र द्विर्वचनाभावः । तदंताच्चतरि रूपं । प्रादिसमासः । शतुर्लसार्वधातुकस्वरे
+> धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"Pūrvāḥ" means the dawns that come before the time of sunrise. When they shine forth, then the imperishable (that which does not decay) great, abundant light called Āditya (the sun) is born in the "pada" of "go", that is, in the place of water: in the sea or in the sky. Then, once the sun has risen, the sacrificer who wishes to prosper in rites such as the Agnihotra offers the rites (व्रता (*vratā*) = rites) to the gods quickly; "upa" (near) is to be completed with a suitable verb, "stands near". This is the one chief "asuratva" of the gods. One who throws down (आस्यति (*āsyati*)) all is Asura, the mighty; his state is asuratva, might; "mahat" is lordship.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वा (*pūrvā*)—preceding, earlier than the time of sunrise
+- उपसः (*upasaḥ*)—the dawns
+- यत् (*yat*)—when
+- व्यूषुः (*vyūṣuḥ*)—they shine forth
+- अध (*adha*)—immediately thereafter
+- अक्षरं (*akṣaraṃ*)—the imperishable
+- महत् (*mahat*)—and abundant light
+- गोः (*goḥ*)—of water
+- पदे (*pade*)—in the sky, the place of water
+- वि जज्ञॆ (*vi jajñè*)—becomes visible
+- प्रभूषन् (*prabhūṣan*)—(after sunrise) the sacrificer desiring to perform the sacrifice
+- व्रता (*vratā*)—his own sacrificial and other rites
+- देवानां (*devānāṃ*)—to the gods
+- नु (*nu*)—quickly
+- उप (*upa*)—offers
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+When the dawns, which come before the time of sunrise, shine forth, immediately the imperishable great light becomes visible in the sky, the place of water. After sunrise the sacrificer who desires to perform the sacrifice offers his sacrificial and other rites to the gods. The might of the gods is great and unequalled.
+
+### Printed p. 276
+
+##### English translation (H. H. Wilson)
+When the preceding dawns appear, the great imperishable (light) is engendered in the (firmament, the) sphere of the waters, and then the worshipper is alert to perform the rites (due to) the gods, for great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+अक्षरं (*akṣaraṃ*)—न क्षरतीत्यक्षरं । (*na kṣaratītyakṣaraṃ |*) अविनाश्यादित्याख्यं । (*avināśyādityākhyaṃ |*) महत् प्रभूतं ज्योतिः । (*mahat prabhūtaṃ jyotiḥ |*) The word akṣara is said among the names of speech (Ni. 2-23) and among the names of water (Ni. 2-24). Sāyaṇa has explained the meaning of this word as the radiance that never meets destruction, famed by the name Āditya, and shining abundantly.
+
+गोः पदे विजज्ञे (*goḥ pade vijajñe*)—उदकस्य स्थाने समुद्रे नभसि वा उत्पद्यते । (*udakasya sthāne samudre nabhasi vā utpadyate |*) The Nirukta-writers have explained the meaning of the word go in various ways. Sāyaṇa describes that after the time of dawn passes, the sun rises in the sea, where waters are abundant, or in the sky, and that the word go is used in the sense of sea or sky.
+
+व्रता (*vratā*)—कर्माणि । (*karmāṇi |*) The word vrata is explained by Yāska (Ni. 2-13): वृणोतीति व्रतं (*vṛṇotīti vrataṃ*), वारयतीति व्रतं (*vārayatīti vrataṃ*), अवृणोतीति शरीरं इति व्रतं । (*avṛṇotīti śarīraṃ iti vrataṃ |*) First: शुभमशुभं वा कृतं सदा वृणोति कर्तारं (*śubhamaśubhaṃ vā kṛtaṃ sadā vṛṇoti kartāraṃ*)—the fruit, good or bad, follows the one who did the work. Therefore the word vrata means action. Second: because it keeps those who practise rites such as the Agnihotra from enjoying objects of enjoyment, the meaning vrata is described. Third: because it is transformed into the seven bodily constituents, food too is called by the word vrata.
+
+प्रभूषन् व्रता देवानां उपः नु नेष्यति (*prabhūṣan vratā devānāṃ upaḥ nu neṣyati*)—अग्निहोत्रादि कर्मसु प्रभवितुमिच्छ यजमानः कर्माणि देवानां उप समीपं नेष्यति— (*agnihotrādi karmasu prabhavitumiccha yajamānaḥ karmāṇi devānāṃ upa samīpaṃ neṣyati—*) it is explained that after the sun has half risen, the sacrificer who wishes to prosper offers the rites he performs, to win the satisfaction of the gods.
+
+देवानां असुरत्वं एकं महत् (*devānāṃ asuratvaṃ ekaṃ mahat*)—in this sentence Sāyaṇa explains the word asura thus: अस्यति क्षिपति सर्वानित्यसुरः प्रबलः (*asyati kṣipati sarvānityasuraḥ prabalaḥ*), तस्य भावः असुरत्वं प्राबल्यं । (*tasya bhāvaḥ asuratvaṃ prābalyaṃ |*) He who has abundant power to subdue all is Asura, and the power of one so endowed is asuratva. It is described that, in accord with the performance of sacrifices and so on, with the manifestation of the sun's rising, and because of the course of the dawn-times, the lordship of the gods is complete, in its abundant greatness, and chiefly praiseworthy.
+
+### Printed p. 277
+
+The word asura is said among the names of cloud (Ni. 2-22). And: असुराः असुरताः स्थानेष्टस्ताः स्थानेभ्य इति वा अपि ना असुरिति प्राणनाम अस्तः शरीरे भवति तेन तद्वंतः (*asurāḥ asuratāḥ sthāneṣṭastāḥ sthānebhya iti vā api nā asuriti prāṇanāma astaḥ śarīre bhavati tena tadvaṃtaḥ*) (Ni. 3-8): that is, those who are settled in a region or place, or those who have fallen from their places, or those who have restless breath; thus Yāska has explained the meaning of asura. And Yāska cites the Brāhmaṇa passage सोर्दॆवानसृजत तत् सुराणां सुरत्वं असोरसुरानसृजत तदसुराणामसुरत्वमिति विज्ञायते (*sordèvānasṛjata tat surāṇāṃ suratvaṃ asorasurānasṛjata tadasurāṇāmasuratvamiti vijñāyate*): Brahmā created the gods from a praiseworthy region of the Supreme Self, and created the asuras from an unpraiseworthy region.
+
+For the word asura here the commentator gives the meaning निरसितारं देवं (*nirasitāraṃ devaṃ*): the god who overcomes (enemies). Although the sense "demons" is current for asura, in many places the word has a meaning favourable to the gods. In this Aṣṭaka the word asura occurs in about ten Ṛks, and everywhere it has the sense of the gods.
+
+In the Ṛk दिवो अस्तोष्यसुरस्य वीरैरिषुध्येव मरुतो रोदस्कोः । (*divo astoṣyasurasya vīrairiṣudhyeva maruto rodaskoḥ |*) (Ṛ. Saṃ. 1-122-1): असुरस्य निरसितव्यानामसुराणां निरसितुः । (*asurasya nirasitavyānāmasurāṇāṃ nirasituḥ |*) कर्मणि षष्ठी । (*karmaṇi ṣaṣṭhī |*) निरसितारं तमेव देवं (*nirasitāraṃ tameva devaṃ*) (Rudra): the meaning is Rudra, who overcomes the asuras.
+
+शतं राज्यो नाधमानस्य निष्काञ्चितमश्वान्प्रयतान्त्सद्य आदं । शतं कक्षीवा असुरस्य गोनां दिवि श्रवोजरमा ततान ॥ (*śataṃ rājyo nādhamānasya niṣkāñcitamaśvānprayatāntsadya ādaṃ | śataṃ kakṣīvā asurasya gonāṃ divi śravojaramā tatāna ‖*) (Ṛ. Saṃ. 1-126-2). Here: असुरस्य धनानां निरसितुर्दानशीलस्य राज्ञः स्वनयस्य । (*asurasya dhanānāṃ nirasiturdānaśīlasya rājñaḥ svanayasya |*) That is, "of the king Svanaya, who gives wealth and the like"; thus the word asura refers to King Svanaya.
+
+इंद्राय हि द्यौरसुरो अनम्नतेंद्राय मही पृथिवी वरीमभिर्दुम्मसाता वरीमभिः ॥ (*iṃdrāya hi dyaurasuro anamnateṃdrāya mahī pṛthivī varīmabhirdummasātā varīmabhiḥ ‖*) (Ṛ. Saṃ. 1-31-1). Here the word asura is explained असुरः निरसनशीलः शत्रूणां पुण्यकृतामेव तन्निवासात् (*asuraḥ nirasanaśīlaḥ śatrūṇāṃ puṇyakṛtāmeva tannivāsāt*) (दौः द्युलोकः (*dauḥ dyulokaḥ*)): it is an epithet of the word दौः (*dauḥ*), the heavenly world, which is a dwelling for the meritorious who perform sacrifices and so on and gives no room to their enemies.
+
+प्र सा क्षितिरसुर या महि प्रिय ऋतावानावृतमा घोषतो बृहत् । (*pra sā kṣitirasura yā mahi priya ṛtāvānāvṛtamā ghoṣato bṛhat |*) (Ṛ. Saṃ. 1-51-4). In this Ṛk the word asura is explained हे असुरा असुर् बलवंतौ मित्रावरुणौ । (*he asurā asur balavaṃtau mitrāvaruṇau |*) As an epithet of Mitra and Varuṇa it states their strength and power.
+
+### Printed p. 278
+
+त्वं राजेंद्र ये च देवा रक्षा नृन्पाह्यसुर त्वमस्मान् । (*tvaṃ rājeṃdra ye ca devā rakṣā nṛnpāhyasura tvamasmān |*) (Ṛ. Saṃ. 1-174-1). In this Ṛk: असुर शत्रूणां निरसितः हे इंद्र । (*asura śatrūṇāṃ nirasitaḥ he iṃdra |*) "O Indra, who overcomes enemies"; the word asura is used of Indra.
+
+त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । (*tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*) (Ṛ. Saṃ. 2-1-6). In this Ṛk the word asura gives the sense: असुरः शत्रूणां निरसिता रुद्रोऽसि । (*asuraḥ śatrūṇāṃ nirasitā rudro 'si |*) "You are Rudra, who conquers the enemy."
+
+त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः । (*tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*) (Ṛ. Saṃ. 2-27-10). Here the word asura means हे असुर शत्रूणां क्षेपक वरुण । (*he asura śatrūṇāṃ kṣepaka varuṇa |*) "O Varuṇa, who overthrows enemies"; the word asura refers to Varuṇa.
+
+मा नो वधैर्वरुण ये त इष्टावेनः कृण्वंतमसुर भ्रीणंति । (*mā no vadhairvaruṇa ye ta iṣṭāvenaḥ kṛṇvaṃtamasura bhrīṇaṃti |*) (Ṛ. Saṃ. 2-28-7). In this Ṛk too: हे असुर पापकृतां निरसितः वरुण । (*he asura pāpakṛtāṃ nirasitaḥ varuṇa |*) "Varuṇa, who restrains those who do wrong"; it refers to Varuṇa.
+
+बृहस्पते तपुषाश्नेव विध्य वृक्कद्वरसो असुरस्य वीरान् । (*bṛhaspate tapuṣāśneva vidhya vṛkkadvaraso asurasya vīrān |*) (Ṛ. Saṃ. 2-30-4). In this Ṛk the word असुरस्य (*asurasya*) is an epithet of the word वृकद्वरसः (*vṛkadvarasaḥ*): संवृतद्वारस्य असुरस्य (*saṃvṛtadvārasya asurasya*)—of the asura who has shut and barred the door; thus the ordinary meaning of asura is explained.
+
+पिता यज्ञा नामसुरो विपश्चितां विमानमग्निर्वयुनं च वाघतां । (*pitā yajñā nāmasuro vipaścitāṃ vimānamagnirvayunaṃ ca vāghatāṃ |*) (Ṛ. Saṃ. 3-3-4). In this Ṛk: असुरो बलप्रदः (*asuro balapradaḥ*)—the word asura is used of Agni.
+
+Here the word एक (*eka*) is used in the sense "chief", not as a numeral. And the word महत् (*mahat*), Sāyaṇa's explanation says, means lordship, that is, having everything under one's control. By this it is suggested that the might of the gods is unequalled, or that the gods have the power, unattainable by any others, of keeping everything under their control. And this being so, the
+
+### Printed p. 279
+
+might of this lordship is also chief; thus a threefold meaning is also suggested through the relation of subject and predicate in the words एकं असुरत्वं महत् (*ekaṃ asuratvaṃ mahat*).
+
+In this Ṛk, which describes the power of the deity Uṣas, it is described that since the performance of sacrifices and other rites by sacrificers, the sunrise and other activities come about through the unsurpassed lordship of the deity Uṣas, the greatness of the deity is chief.
+
+In every Ṛk of this sūkta the fourth pāda of this Ṛk, महद्देवानामसुरत्वमेकं (*mahaddevānāmasuratvamekaṃ*), is recited again and again like a refrain.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मोषूणो॒ आत्र॑ जुहुरंत दे॒वा मा पूर्वे॑ अग्ने पि॒तरः॑  ॒
+> पदज्ञाः ।  
+> पु॒रा॒ण्योः सद्म॑नोः के॒तुरं॒तर्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑॥
+
+> *moṣūṇo ātra juhuraṃta devā mā pūrve agne pitaraḥ*  
+> *padajñāḥ |*  
+> *purāṇyoḥ sadmanoḥ keturaṃtarmahaddevānāmasuratvamekaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । नः । अत्र । जुहुरंत । देवाः । मा । पूर्वे । अग्ने । पितरः ।  
+> पदज्ञाः ।  
+> पुराण्योः । सद्मनोः । केतुः । अंतः । महत् । देवानां । असुरत्वं । एकं ॥ २ ॥
+
+> *mo iti | su | naḥ | atra | juhuraṃta | devāḥ | mā | pūrve | agne | pitaraḥ |*  
+> *padajñāḥ |*  
+> *purāṇyoḥ | sadmanoḥ | ketuḥ | aṃtaḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने आत्रास्मिन्काले देवा नोऽस्मान् सु सुष्टु मो जुहुरंत । मा
+> हिंस्युः । तथा पदज्ञाः कर्माण्यनुष्ठाय देवपदमनुभवंतः पूर्व पुरातनाः
+> पितरो मा हिंसिपुः । यस्मात्केतुर्यज्ञानां प्रज्ञापकः । सूर्यः पुराणोः
+> पुरातनयोः सद्मनोः । सीदंत्यनयोर्देवमनुष्या इति सद्मनी रोदसी । तयोरंतॆर्मध्य उदेति । तस्मादत्र मा हिंसंतित्यर्थः । महद्देवानामित्यादि पूर्ववत् ॥
+> जुहुरंत । हृ प्रसह्यकरणे । लुजि जुहोत्यादित्वात् श्लुः । व्यत्ययेनात्मनेपदं ।
+> बहुलं छंदसीत्युत्वं । संज्ञापूर्वकस्य विधेरनित्यत्वाददादादेशाभावे०ंतादेशः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, at this time (अत्र (*atra*)) may the gods not harm us (नः (*naḥ*)); सु (*su*) (well), मो जुहुरंत (*mo juhuraṃta*): let them not harm." Likewise the ancient fathers (पितरः (*pitaraḥ*)), who know the step (पदज्ञाः (*padajñāḥ*)), having performed rites and attained the divine station, must not harm us. For the sun, the signal (केतुः (*ketuḥ*)) who makes the sacrifices known, rises between the two ancient dwellings (सद्मनोः (*sadmanoḥ*)): they are called sadmanī, heaven and earth, because gods and men dwell (sīdanti) in them. Therefore here (at that time) they do not harm; this is the meaning. महद्देवानामित्यादि (*mahaddevānāmityādi*) is as before.
+
+### Printed p. 280
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अत्र (*atra*)—at this time of the sacrifice
+- देवा: (*devā:*)—the gods
+- नः (*naḥ*)—us
+- सु मो जुहुरंतॆ (*su mo juhuraṃtè*)—let them not harm in the least
+- पदज्ञा: (*padajñā:*)—those who have attained godhood
+- पूर्वे (*pūrve*)—and ancient
+- पितरः (*pitaraḥ*)—our fathers also
+- मा (*mā*)—let them not harm us
+- केतुः (*ketuḥ*)—the sun, who makes the sacrificial work known
+- पुराण्योः (*purāṇyoḥ*)—of the ancient
+- सद्मनोः (*sadmanoḥ*)—heaven and earth
+- अंतः (*aṃtaḥ*)—shining in the middle (let him not harm us)
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, at this time of the sacrifice let the gods not harm us in the least; let our ancient fathers too, who have attained godhood, not harm us. Let the sun, who makes the sacrificial work known, shining in the middle of ancient heaven and earth, not harm us. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Let not the gods, Agni, now do us harm, nor the ancient progenitors, who have come to know the degree (of divinity) ; nor the manifester of light between the two ancient dwellings (earth and heaven, the sun) ; for great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+केतुः पुराण्योः सद्मनोः अंतः (*ketuḥ purāṇyoḥ sadmanoḥ aṃtaḥ*)—यज्ञानां प्रज्ञापकः सूर्यः पुरातनयोः (*yajñānāṃ prajñāpakaḥ sūryaḥ purātanayoḥ*) सीदंत्यनयोः देवमनुष्या इति सद्मनी (*sīdaṃtyanayoḥ devamanuṣyā iti sadmanī*) तयोः मध्यॆ उदेति । (*tayoḥ madhyè udeti |*) Having explained the meaning of the word ketu as the sun, who marks the required time of duty, the performance of sacrifice, the commentary says that this sun rises in the middle of heaven and earth, which have existed from ancient times and have granted gods and men the opportunity to live in comfort. At this time of rising, Agni is prayed to: देवाः पितरः नः मा जुहुरंत (*devāḥ pitaraḥ naḥ mā juhuraṃta*) अर्स्मा मा हिंस्युः (*arsmā mā hiṃsyuḥ*)—let the gods, and also the fathers who have attained the state of gods through the performance of sacrifices and other rites, not harm us, the sacrificers. The word sadmanī is said among the names of heaven and earth (Ni. 3-22).
+
+पितरः (*pitaraḥ*)—Among the dead, the meritorious dwell in the third heaven; they are called fathers. They are the original progenitors, who followed the ancient paths (10-15-8, 10): the dead follow the very path laid out by these ṛṣis and go to their vicinity.
+
 ---
 
-**Progress note:** Done through printed p. 273. pp. 268-273 (batch API, retry 1)
+**Progress note:** Done through printed p. 280. pp. 274-280 (batch API, retry 2)
