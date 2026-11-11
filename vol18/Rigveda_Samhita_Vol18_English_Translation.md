@@ -26031,6 +26031,145 @@ Let us offer a hymn of salutation addressed to Agni, the wise, the worthy of wor
 
 अग्निरत्रिं भरद्वाजं गविष्ठिरं प्रावन्नः कण्वं त्रसदस्युमाहवे । अग्निं वसिष्ठो हवते पुरोहितो मृळीकाय पुरोहितः ॥ (*agniratriṃ bharadvājaṃ gaviṣṭhiraṃ prāvannaḥ kaṇvaṃ trasadasyumāhave | agniṃ vasiṣṭho havate purohito mṛḷīkāya purohitaḥ ‖*) (Ṛ. Saṃ. 10-152-5)
 
+### Printed p. 683
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra was composed by Mṛḷīka, the son of Vasiṣṭha. In this mantra Mṛḷīka tells how Vasiṣṭha prays to Agni: may the venerable Agni protect Atri, Bharadvāja, Gaviṣṭhira, Kaṇva and Trasadasyu in battle. Thus the relation that Gaviṣṭhira has with Vasiṣṭha and the other ṛṣis is indicated by this mantra. Apart from this, his name is praised in the Atharvaveda in one passage only (4-29-5). Besides this evidence no passage that informs us about him is available at present.
+
+Among the deities described in the Ṛk-Saṃhitā, Agni is the most prominent. Apart from the praises of Indra, the sūktas that praise and describe Agni are the most numerous in the whole Ṛk-Saṃhitā. Except for the 8th and 9th Maṇḍalas, all the other Maṇḍalas begin with a sūkta addressed to Agni. Therefore some matters that must necessarily be known about the deity Agni are set out here.
+
+1. The functions of Agni
+
+Because he is in direct relation with the sacrificial rites, the most excellent of all human activities, Agni holds the foremost and most venerated place. Agni's chief attribute is his immortality (1-44-6; 1-58-1; 2-10-1, 2; 3-2-1; 3-3-1; 3-11-2; 3-27-5; 3-27-7; 6-9-4; 7-4-4; 8-60-11; 10-79-1).
+
+Though by nature free from mortality, Agni, for the benefit of all men, for the favour of mortal men, dwells on earth with them as their guest (1-44-4; 1-58-6; 2-4-1; 3-2-2; 4-1-20; 5-1-8; 5-8-2; 5-18-1; 6-2-7; 6-15-1; 6-15-4; 8-8-4; 8-73-1; 10-1-5; 10-91-2; 10-92-1).
+
+Agni, immortal and gracious to men, is the constant Ṛtvik in the sacrificer's sacrificial house. He is described by epithets such as Purohita, Ṛtvik, Hotṛ, Brahman. In some passages he is praised as awakening together with the goddess Uṣas, in others as appearing even before Uṣas: 1-1-1; 1-12-1; 1-13-1, 4; 1-26-7; 1-36-3, 5; 1-44-7; 1-44-12; 1-45-7; 1-58-1, 6; 1-60-4; 1-68-4, 7; 1-76-2, 4; 1-127-1; 1-141-12; 1-149-4, 5; 2-5-1; 2-6-6; 2-9-1; 3-7-9; 3-10-2, 7; 3-11-1;
+
+### Printed p. 684
+3-14-1; 3-19-1; 4-1-8; 5-11-2; 5-26-7; 6-15-1, 4, 16; 6-26-1; 7-7-5; 7-10-5; 7-11-1; 7-16-5, 12; 8-44-6; 8-49-1; 9-66-20; 10-1-6; 10-92-2.
+
+Prayed to and regulated by gods, men and the rest, he absorbs into himself all the sacrificial rites. Being himself the true performer, he alone is able to carry out all the sacrificial rites that are assigned to the different Ṛtviks, the sacrificer, Adhvaryu, Hotṛ, Potṛ and others (1-94-6; 2-1-2; 2-5-2; 4-9-3, 4; 10-2-1). Because he has this power of carrying out, he is thus prayed to by the sacrificers: "O Agni, you are the best of the Hotṛs. You are ever young. Together with the other divine Ṛtviks, performing the rites suited to the season, worship and satisfy the gods who desire the sacrifice."
+
+In the same manner some more passages describing Agni's great qualities are explained and cited below.
+
+"Agni is a wise poet, divine in form among all poets. (असुरो विपश्चितां (*asuro vipaścitāṃ*))" (3-3-4)
+
+"Such a wise Agni knows all kinds of worship-rites. He is the best leader, who brings success easily, the protector of all rites; who, helping the devotees in rites that are not easy for them, brings the rite to completion with all its limbs."
+
+"O Agni, the sacrifice which you encompass and cause to be accomplished certainly goes and reaches the gods." (1-1-4)
+
+"O Agni, you are the first of the Aṅgiras ṛṣis, a benevolent friend of all the gods." (1-31-1)
+
+"O Agni, you are the chief means for the carrying out of all sacrificial rites." (3-3-3)
+
+"O best of ṛṣis, you are kindled. Protect the sacrifice." (7-21-7)
+
+"Agni, the instrument of the sacrifice, of the form of a ṛṣi, stands in front as leader, increasing the sacrifice." (3-27-2, 7)
+
+"Among those who are not wise, he alone is the wise poet, possessed of the highest knowledge." (7-4-4)
+
+### Printed p. 685
+"O gods, whatever lapses and faults we may commit in the rite performed according to rule, Agni, who knows the rules of the seasons and knows how the gods are to be satisfied, corrects and sets right all our lapses and faults." (10-2-4)
+
+"Many matters useful for carrying out the sacrifice never come within the understanding of us who are dull of mind. Yet Agni, being all-knowing and a venerable Ṛtvik, knowing all these secrets, sets everything right, worships the gods at the proper time, offers to each the oblations and the like that are suited to him, and satisfies all." (10-2-5)
+
+"As the eyes of men who are sacrificers turn towards the sun, so they turn towards Agni." (10-91-3)
+
+"Agni is the father of all sacrificers, he is the lord. The Īśvara, the banner of the sacrifice, who gives the sacrifice its outward manifestation, is the overseer of all Vedic rites." (केतुं यज्ञानां (*ketuṃ yajñānāṃ*); पिता यज्ञानां (*pitā yajñānāṃ*); सम्राजं (*samrājaṃ*)) 3-3-3, 4; 3-10-4; 3-11-2; 4-3-1; 6-2-3; 8-43-24; 10-1-5; 10-6-3.
+
+"Agni, swift of movement (रघुपत्वः (*raghupatvaḥ*)), prayed to by the gods, moving from the earth to the atmosphere and from the atmosphere to the earth, being both messenger of the gods and the human messenger of the sacrificer, builds up the constant relation between gods, men and the rest. He presents to the gods the divine praises and the oblations offered by men; at all the desired times he brings the gods from heaven to the sacrificial ground on earth." (10-100-11; 10-150-4)
+
+Agni's being messenger of the gods and messenger of men is described in the Taittirīya Saṃhitā thus:
+
+अग्निर्देवानां दूत आसीदुशना काव्योऽसुराणां (*agnirdevānāṃ dūta āsīduśanā kāvyo 'surāṇāṃ*) (Tai. Saṃ. 3-5-8-5)
+
+Agni was the messenger of the gods, and Uśanas Kāvya the messenger of the asuras. How, by this very messengership, the relation between gods, men and the rest came to grow, the Taittirīya Brāhmaṇa praises this work of Agni thus:
+
+आ तंतुमग्निर्दैव्यं ततान । त्वं नस्तंतुरुत सेतुरग्ने । त्वं संथा भवसि देवयानैः । त्वया अग्ने पृष्ठतु वयमारुहेम । अथ देवैः सधमादं मदेम (*ā taṃtumagnirdaivyaṃ tatāna | tvaṃ nastaṃturuta seturagne | tvaṃ saṃthā bhavasi devayānaiḥ | tvayā agne pṛṣṭhatu vayamāruhema | atha devaiḥ sadhamādaṃ madema*) [Tai. Brā. 2-4-1-6 **NOTE**]
+
+### Printed p. 686
+O Agni, you have stretched out the thread that is the relation between gods, men and the rest. You yourself are the thread for us. You are the principal bridge for going to heaven. You are the chief road for going to the world of the gods. By your favour may we, your worshippers, also reach heaven and enjoy together with the gods there the same happiness that they enjoy.
+
+In the Ṛk-Saṃhitā there are very many passages in which his being messenger of the gods, and his being, through this messengership, the means of promoting the relation between gods, men and the rest, are praised in this way. Passages such as अग्निं दूतं वृणीमहे (*agniṃ dūtaṃ vṛṇīmahe*) praise Agni's help: 1-12-1, 2, 4, 8; 1-36-3, 4, 5; 1-44, 2, 3, 5, 9, 12; 2-10-6; 3-11-2; 4-2-3; 5-21-3; 7-17-6; 8-39-1, 9; 10-91-11; 1-27-4; 1-188-1; 3-5-2; 3-17-4; 4-7-8; 6-15-8 to 10; 8-19-21; 8-44-3; 10-122-7; 1-58-1; 2-6-6, 7; 3-6-5; 3-21-1-5; 4-8-2-4; 7-11-4; 8-23-18, 19; 10-4-2; 1-74-4, 7; 2-9-2; 3-9-8; 4-1-8; 5-8-6; 7-16-4; 10-46-10, and so on.
+
+This same Agni, knowing fully the inner reality of the world of heaven, is fit to bring all the gods to receive each his share of the sacrifice according to his worth (4-8-2). In whatever chariots the gods come, Agni also comes seated in the same chariot (3-4-11; 7-11-1). Or, knowing the time, he comes even before them (10-70-2).
+
+Whatever worship and whatever share of the sacrifice belong to all the other gods, all of it also belongs and is offered to Agni (1-36_4; 2-2-1). He brings Varuṇa to the sacrifice. He brings Indra from the world of heaven and the Maruts from the atmosphere (10-70-11). He makes the oblations offered in the sacrifice fragrant (हव्यानि सुरभीणि कृत्वी (*havyāni surabhīṇi kṛtvī*)) (10-15-12; Vā. Saṃ. 19-66). Without Agni's help in the sacrifice the gods have no satisfaction of any kind (7-11-1). Therefore it is Agni himself who directly offers the oblations to all those gods (7-11-3; 8-91-6; 10-7-6).
+
+### Printed p. 687
+Since the gods receive the oblations and the rest through Agni, he is often praised, as playing the chief part in the sacrifice performed by gods, men and the rest, as the mouth of the gods, and as the very tongue with which they drink Soma and the rest (आस्यं त्वां जिह्वां (*āsyaṃ tvāṃ jihvāṃ*)) (2-1-13; 2-1-14). In some other places he is prayed to eat all the oblations, and is directly invited to drink the Soma offered in the sacrifice (3-21-1; 3-28-1 to 6; 1-14-10; 1-19-9).
+
+When Agni was asked to take the chief place in the sacrifice and help the gods, a conversation that took place between Agni and the other gods shows Agni's pre-eminence and extraordinary power. That conversation is as follows (10-51).
+
+The gods: O Agni, the covering with which you have hidden yourself and entered into the water is very thick and wholly concealing. But, O Jātavedas, only one god knows fully your many forms.
+
+Agni: Who among you knows my forms? Who is the god who knows fully all the variety of my forms? O Mitra and Varuṇa, if there is one among you who knows my forms, which are the means of carrying the oblation to the gods and are radiant, will you tell where they are all hidden?
+
+The gods: O Agni, we sought you in order to find you, who had taken many forms and entered the water and the plants. Then Yama alone found your great flames hidden in the ten places beginning with the earth.
+
+Agni: O Varuṇa, from fear lest the gods should again assign me the work of carrying the oblations, I came here and hid. For that very reason I am hidden in various forms, having entered the water. All I can say is that I do not wish to bear the burden of that work again.
+
+The gods: O Agni, the devout Manu waits to offer you worship and perform the sacrifice. You have adorned yourself and entered the water. Make safe the paths on which the gods travel, and carry the offered oblations to the gods.
+
+Agni: O Varuṇa, my elder brothers agreed to perform this very duty of carrying the oblations. But while performing that duty they died. For that reason I took fright and ran here.
+
+### Printed p. 688
+Trembling, I ran here, as the gaura deer takes fright and runs on seeing the bow and arrows of the archer. (This episode was told earlier.)
+
+The gods: O Agni, you need not have that fear. We give you an imperishable life. With its help you will escape death. O Agni, of excellent birth, be gracious towards us and take up again the burden of carrying the gods' oblations and distributing them to them.
+
+Agni: O gods, set apart for me alone, designating them separately, the vigorous oblations in the form of the Prayājas and Anuyājas. Offer me the essence of the waters (ghee) and the essence of the plants. May my life, in the form of Agni, be long.
+
+The gods: O Agni, we set apart for you alone, designating them separately, the oblations in the form of the Prayājas and Anuyājas. May all the vigorous portions of the oblations be yours. O Agni, may this sacrifice also be offered to you. May the four quarters bow before you in humility and salute you. Such is the account of the conversation in sūkta 10-51.
+
+Only after this, in the next sūkta, Agni declares himself to be the lord of the whole sacrifice. Moreover he gives the gods a suitable assurance of his cooperation, and asks them to tell him how he may help them (10-52-1, 2).
+
+The Taittirīya Saṃhitā tells this episode in a somewhat different account:
+
+अग्नेस्त्रयो ज्यायांग्‌सो भ्रातर आसन् ते देवेभ्यो हव्यं वहंतः प्रामियंत सोऽग्निरबिभेदित्थं वाव स्य आर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन्तं मत्स्यः प्राब्रवीत्तमशपद्धियाधिया त्वा वध्यासुर्यो मा प्रावोच इति तस्मान्मत्स्यं धियाधिया घ्नंति ॥ (*agnestrayo jyāyāṃgso bhrātara āsan te devebhyo havyaṃ vahaṃtaḥ prāmiyaṃta so 'gnirabibheditthaṃ vāva sya ārtimāriṣyatīti sa nilāyata so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchantaṃ matsyaḥ prābravīttamaśapaddhiyādhiyā tvā vadhyāsuryo mā prāvoca iti tasmānmatsyaṃ dhiyādhiyā ghnaṃti ‖*) (Tai. Saṃ. 2-6-6-2)
+
+Agni had three elder brothers. All of them toiled in the work of carrying the oblations to the gods and died of it. Seeing this, Agni, in fear that if he took up that burden the same fate might befall him, disappeared from that place, went into the water and hid. The gods were then searching for him. Then a fish showed them the place where Agni was. Agni became angry at this, gathered all the fishes together and cursed them: "At whatever times a man wishes to catch you, may he destroy you at those times." As a result of that curse men destroy the fish.
+
+### Printed p. 689
+शप्पो हि तमन्वविंदन्तमब्रुवन्नुप न आ वर्तस्व हव्यं नो वहेति सोऽब्रवीद्वरं वृणै यदेव गृहीतस्याहुतस्य बहिः परिधि स्कन्दात्तन्ने भ्रात्कृणां भागधेयमसदिति ॥ (*śappo hi tamanvaviṃdantamabruvannupa na ā vartasva havyaṃ no vaheti so 'bravīdvaraṃ vṛṇai yadeva gṛhītasyāhutasya bahiḥ paridhi skandāttanne bhrātkṛṇāṃ bhāgadheyamasaditi ‖*) (Tai. Saṃ. 2-6-6-2)
+
+With the help of that fish the gods approached Agni and prayed: "Come to us, carry the oblations of the sacrifice to us and do us a favour." Then Agni agreed, "So be it," and said: "As the reward of this toil I ask a boon of you: whatever portion of the oblation falls outside the sacrificial enclosure (paridhi) when the oblation is offered in the sacrificial fire, let all of it belong to our brothers who died for you." After the gods agreed to this, Agni took up the work of carrying the oblations.
+
+Agni is lord, protector and leader of all the people (विश्वतिः (*viśvatiḥ*); विशां गोपाः (*viśāṃ gopāḥ*); विशां पुर एता (*viśāṃ pura etā*)) (1-12-2; 1-26-7; 1-31-11; 1-96-4; 2-1-8; 3-11-5). He is sovereign over all men (राजा कृष्णीनां असि मानुषाणां (*rājā kṛṣṇīnāṃ asi mānuṣāṇāṃ*)) (1-59-5; 2-1-8; 3-10-1; 5-4-1; 6-7-1; 8-8-1; 8-43-24).
+
+"Since this Agni dwells in every house, he is the master and guardian of all houses." (दमे दमे कविगृहपतिर्युवा (*dame dame kavigṛhapatiryuvā*)) (1-12-6; 1-36-5; 1-60-4; 5-8-2; 7-15-2).
+
+In every house this Agni is a radiant guest. In every forest tree he rests like a bird. Being a friend to men, he rejects no one. Being the support of all the people, he dwells in every household bringing welfare (10-91-2).
+
+This Agni is father to all men; he is mother and brother. He is son to all, kinsman, and also friend (1-26-3; 1-31-10, 14, 16; 1-75-4; 1-161-1; 2-1-9; 6-1-5; 5-4-2; 8-43-16; 8-64-16; 10-7-3). Some sacrificers proudly say that they have with Agni a hereditary kinship and friendship (सख्या पित्राणि (*sakhyā pitrāṇi*)) (1-71-10).
+
+Agni drives far away and destroys the asuras and the other evil powers that bring harm to sacrificers (अग्नी रक्षांसि सेधति (*agnī rakṣāṃsi sedhati*)) (3-15-1; 7-13-1; 7-15-10; 8-23-2; 8-43-26; 1:-87-1; 10-187-3).
+
+### Printed p. 690
+Appearing in person, he is prayed to chew, with his iron teeth, all the Rākṣasas and Yātudhānas who trouble the sacrifice, and, displaying his most terrible wrath, to burn them all together (10-87-2, 5, 9, 14).
+
+The origin of Agni and his three places.
+
+Concerning the origin of Agni there are various descriptions in the passages of the Ṛk-Saṃhitā. But it cannot be said that they all contradict one another. At some times his origin in the divine world is described; in other passages the aspect of his being produced by human instruments (the Araṇi and other means) is described.
+
+"Agni, unmanifest, by his own nature the existent, is born in Dakṣa's vigour and in the womb of Aditi." (10-5-7)
+
+"This Agni has been brought from the world of heaven. Mātariśvan brought him from far away." आ अन्यं दिवो मातरिश्वा जभार (*ā anyaṃ divo mātariśvā jabhāra*) (1-60-1; 1-93-6; 1-143-2; 3-5-18; 3-9-5; 6-8-4).
+
+There is room for doubt as to who this Mātariśvan is. There is also the view that Agni himself is Mātariśvan. According to this view, the explanation of Mātariśvan's nature amounts to a description of Agni's nature, and this matter is being told here. There is no rule that this word must everywhere be a synonym of Vāyu. For example:
+
+स मातरिश्वा पुरुवारपुष्टिर्विदद्दातुं तनयाय स्वर्वित् । (*sa mātariśvā puruvārapuṣṭirvidaddātuṃ tanayāya svarvit |*) (Ṛ. Saṃ. 1-96-4)
+
+मातरिश्वा यदमिमीत मातरि वातस्य सर्गो अभवत्सरीमणि । (*mātariśvā yadamimīta mātari vātasya sargo abhavatsarīmaṇi |*) (Ṛ. Saṃ. 3-29 11)**NOTE**
+
+In such passages the word Mātariśvan must definitely be given the meaning Agni. But it is equally definite that it is not possible to give the meaning Agni in all the places where this word is used.
+
+द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा । (*dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhṛgave mātariśvā |*) (Ṛ. Saṃ. 1-60-1)
+
+In such passages a definite difference between Agni and Mātariśvan is understood. It is also clear that Mātariśvan brought Agni to Bhṛgu**NOTE**. Likewise, आन्यं दिवो मातरिश्वा जभार (*ānyaṃ divo mātariśvā jabhāra*), as above
+
 ---
 
-**Progress note:** Done through printed p. 682. pp. 676-682 (batch API)
+**Progress note:** Done through printed p. 690. pp. 683-690 (batch API)
