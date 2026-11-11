@@ -23368,6 +23368,124 @@ It is the opinion of some scholars that the 72nd sūkta of the 10th Maṇḍala 
 
 (1) With these laudatory sūkta mantras we shall describe the order of origin of the gods. With the help of these mantras in the form of praise, we who belong to a later age shall be able to know the origin and nature of the gods of the earlier age.
 
+### Printed p. 599
+(2) As a smith presses the bellows and brings out the inner force, so Brahmaṇaspati caused these deities, who had been absorbed within, to appear outside in the form of creation. In the most ancient age of the gods, being was born from non-being.
+(3) In the beginning, being came into manifestation from non-being. From it the regions of space were illumined. Afterwards, from Uttānapāda..........
+(4) From Uttānapāda the earth, and from the earth the regions of space, came into being. From Dakṣa came Aditi, and from Aditi Dakṣa.
+(5) O Dakṣa, Aditi was born of you. She is your daughter. Afterwards the deities, auspicious and immortal, were born of her.
+(6) O gods, when you moved, when you stirred the waters of the atmosphere, then at once dust came out of your bodies, as it comes out of the bodies of dancers.
+(7) O gods, when, like toil-enduring men, you pervaded, adorned and fashioned the universe, then you brought out the sun, hidden within the ocean of the atmosphere, and made him shine.
+(8) Of the eight sons born of her body, Aditi approached the gods with seven only. The eighth, Mārtāṇḍa, she left behind.
+(9) Aditi went with her seven sons and joined the gods of the former age. The eighth, Mārtāṇḍa, she bore again. She gave him birth for his production and for his death.
+
+Here it is relevant to consider what the word यतयः (*yatayaḥ*) used in Ṛk 7 means. In some places a connection is indicated between the world-creation described in Ṛk 10-72-7 **NOTE** and the Bhṛgus described in the mantras 8-3-9 and 8-6-18. The scholars Böhtlingk and Roth hold that in the present mantra the word यतयः (*yatayaḥ*) denotes those Bhṛgus. In Ṛ. Saṃ. 7-13-1 the same word is an epithet of Agni (वैश्वानराय यतये मतीनां (*vaiśvānarāya yataye matīnāṃ*)). In 8-6-18, in ये इंद्र यतयस्त्वा भृगवो ये च (*ye iṃdra yatayastvā bhṛgavo ye ca*)........", यतयः (*yatayaḥ*) may be taken to mean the heads of a group, or their descendants.
+
+### Printed p. 600
+There are some Sāman mantras not included in the Ṛk Saṃhitā. In one of them the words Yati and Bhṛgu are both used (Sā. Ve. 2-304): इंद्रस्तुराषाण्मित्रो न जघान वृत्रं यतिर्न । (*iṃdrasturāṣāṇmitro na jaghāna vṛtraṃ yatirna |*) The sense of the mantra is that Indra slew Vṛtra now just as Mitra and Yati slew him before, and बिभेद बलं भृगुर्न (*bibheda balaṃ bhṛgurna*) that he split Bala as Bhṛgu did. Besides, the Aitareya Brāhmaṇa (7-28) says that Indra abandoned the Yatis and caused them to be offerings to wolves.
+
+The purport of mantra 8 is to give the purport of the Atharvaveda sentence अष्टयोनीरदितिरष्टपुत्रा (*aṣṭayonīraditiraṣṭaputrā*) (Atha. Ve. 8-9-21). The Taittirīya Āraṇyaka states the same idea: अष्टयोनीमष्टपुत्रां । अष्टपत्नीमिमां महीं ॥ (*aṣṭayonīmaṣṭaputrāṃ | aṣṭapatnīmimāṃ mahīṃ ‖*) (Tai. Ā. 1-13-1), saying that the earth has eight births, eight sons and eight husbands.
+
+Mantras 8 and 9 of sūkta 72 are also quoted in the Taittirīya Āraṇyaka. Instead of the Saṃhitā reading परा मार्तांडमास्यत् (*parā mārtāṃḍamāsyat*) there is the variant परा मार्तांडमाभरत् (*parā mārtāṃḍamābharat*). The commentator explains its meaning thus: मार्तांडाख्यं अष्टमं पुत्रं ‘परा भरत् ’ परि त्यक्तवती इति यत् तत् मृत्यवे मृत्युनिमित्तं (*mārtāṃḍākhyaṃ aṣṭamaṃ putraṃ ‘parā bharat ’ pari tyaktavatī iti yat tat mṛtyave mṛtyunimittaṃ*) — the sense being that as soon as Mārtāṇḍa was born, the egg died.
+
+Explaining the above mantra 8, the Śatapatha Brāhmaṇa says: अष्टौ ह वै पुत्रा आदितेः । यांस्त्वेतद्देवा आदित्या इत्याचक्षते सप्त हैव तेऽविकृतग्ं हाष्टमं जनयांचकार मार्तांडग्ं संदेघो हैवास यावानेवोर्ध्वस्तावांस्तिरज् पुरुषसम्मित इत्यु हैक आहुः (*aṣṭau ha vai putrā āditeḥ | yāṃstvetaddevā ādityā ityācakṣate sapta haiva te 'vikṛtagṃ hāṣṭamaṃ janayāṃcakāra mārtāṃḍagṃ saṃdegho haivāsa yāvānevordhvastāvāṃstiraj puruṣasammita ityu haika āhuḥ*) (Śa. Brā. 3-1-3-3).
+Aditi had eight sons, but of them only seven are called Ādityas by men. For the eighth, Mārtāṇḍa, was born without hands, feet and the like, without any distinguishing quality, endowed only with softness, without differentiation, growing as long as he was high; some say he was only of the measure of a man's body.
+
+तऽउ हैत ऊचुः । देवा आदित्या यदस्मानन्वजनिमा तदमुयेव भूद्धंतेमं विकरवामेति तं विचक्रुर्यथायं पुरुषो विकृतस्तस्य यानि माग्‌ंसानि संस्कृत्य सन्यासुस्ततो हस्ती समभवत्तस्मादाहुर्न हस्तिनं प्रतिगृह्णीयात्पुरुषाचानो हि हस्तीति यमु द तद्विचक्रुः स विवस्वानादित्यस्तस्येमाः प्रजाः ॥ (*ta 'u haita ūcuḥ | devā ādityā yadasmānanvajanimā tadamuyeva bhūddhaṃtemaṃ vikaravāmeti taṃ vicakruryathāyaṃ puruṣo vikṛtastasya yāni māgṃsāni saṃskṛtya sanyāsustato hastī samabhavattasmādāhurna hastinaṃ pratigṛhṇīyātpuruṣācāno hi hastīti yamu da tadvicakruḥ sa vivasvānādityastasyemāḥ prajāḥ ‖*) (Śa. Brā. 3-7-3-4)
+
+### Printed p. 601
+Seeing Mārtāṇḍa thus undifferentiated, the Ādityas were afraid: "If this Mārtāṇḍa does not resemble our form, death will be as if upon us. So we must make him take form." They transformed him into a human shape. When they cut and fashioned his body to give him their form, the flesh taken out was thrown away, and from it the elephant arose. This new person, endowed with name, form and other distinguishing qualities, they called Vivasvān. This Vivasvān became the cause of the origin of all beings. The same passage is quoted in the Taittirīya Saṃhitā, where it says that this second embryo of Aditi turned into an egg (Tai. Saṃ. 6-5-6-1).
+
+Explaining the purport of the above mantra 10-72-4, Yāska says in the Nirukta passages:
+आदित्यो दक्ष इत्याहुः । आदित्यमध्ये च स्तुतः । अदितिः दाक्षायणी । अदितेर्दक्षो अजायत दक्षाद्वदितिः परि (१०-७२-४) इति। तत्कथं उपपद्येत। समानजन्मान् स्यातां इति । अपि वा देवधर्मेण इतरेतरजन्मानौ स्यातां ॥ इतरेतरप्रकृती ॥ (*ādityo dakṣa ityāhuḥ | ādityamadhye ca stutaḥ | aditiḥ dākṣāyaṇī | aditerdakṣo ajāyata dakṣādvaditiḥ pari (10-72-4) iti| tatkathaṃ upapadyeta| samānajanmān syātāṃ iti | api vā devadharmeṇa itaretarajanmānau syātāṃ ‖ itaretaraprakṛtī ‖*) (Ni. 11-35)
+Dakṣa is praised and known as one of Aditi's sons, belonging to the group of the Ādityas. But the sentence "From Dakṣa Aditi was born; from Aditi Dakṣa was born" shows that Aditi and Dakṣa are each the other's source. How can this be? Either they may have the same place of origin, or, according to the natural power of the gods, each may have been born of the other and each may have obtained the other's greatness. Another Vedic sentence also tells that they became each other's womb in this way:
+तस्माद्विराडजायत विराजो अधि पुरुषः (*tasmādvirāḍajāyata virājo adhi puruṣaḥ*) (1-9-5)
+The origin of Virāj, well known, and of the Puruṣa from Virāj, also known; the order of origin of Dakṣa and Aditi may be like this. Other sentences explaining the mutual relation of Dakṣa and Aditi may also be examined. Then only gaccha.... वृषभश्च धेनुः (*vṛṣabhaśca dhenuḥ*) (10-5-7)
+- "For one who endures injustice, injustice does not arise. For one who endures justice, justice does not arise. For one who endures injustice, injustice arises." **NOTE**
+
+### Printed p. 602
+2. दक्षस्य वादिते जन्मनि......... विषुरूपेषु जन्मसु (*dakṣasya vādite janmani......... viṣurūpeṣu janmasu*) (10-64-5)
+O Aditi, immediately at Dakṣa's birth, and according to his resolve, you nourished the two lords in the form of Mitra and Varuṇa.
+
+Thus, although mantras 10-72-4 and 5 together state both relations, that Dakṣa is the father and the son of Aditi, sentences such as 2-27-1 state clearly that Dakṣa is a son of Aditi and one of the Ādityas. Besides, in some other places the gods have the epithet दक्षपितृ (*dakṣapitṛ*). For example—
+1. सुज्योतिषः सूर्य दक्षपितृननागाष्टे सुमहो वीहि देवान् (*sujyotiṣaḥ sūrya dakṣapitṛnanāgāṣṭe sumaho vīhi devān*) (6-50-2)
+O great Sūrya, approach the gods who have Dakṣa as father. (Sāyaṇa here takes the word पितृ (*pitṛ*) to mean grandfather: since Aditi is Dakṣa's daughter and the gods are Aditi's sons, Dakṣa is grandfather to these gods.)
+2. या धारयंत देवाः सुदक्षा दक्षपितरा । असुराय प्रमहसा ॥ (*yā dhārayaṃta devāḥ sudakṣā dakṣapitarā | asurāya pramahasā ‖*) (7-66-2)
+Mitra and Varuṇa, who have Dakṣa as father, have established their divine lordship, and so on.
+Likewise in the Taittirīya Saṃhitā also:
+ये देवा मनोजाता मनोयुजः सुदक्षा दक्षपितारस्ते नः पांतु ॥ (*ye devā manojātā manoyujaḥ sudakṣā dakṣapitāraste naḥ pāṃtu ‖*) (Tai. Saṃ. 1-2-3-1)
+May the gods who are mind-born, mind-yoked, and have Dakṣa as father protect us.
+
+In the above examples it cannot be said precisely that the word दक्ष (*dakṣa*) is the designation of an individual. In 8-25-5 Mitra and Varuṇa are described not only as "sons of Dakṣa, of good deeds" (सूनू दक्षस्य सुक्रतू (*sūnū dakṣasya sukratū*)) but also as "grandsons of strength" (नपाता शवसो महः (*napātā śavaso mahaḥ*)). The way Sāyaṇa interpreted 6-50-2 has been stated above. In Ṛk 7-66-2 quoted above he explains दक्षपितारा (*dakṣapitārā*) as बलस्य पालकौ (*balasya pālakau*), protectors of strength. Epithets such as सहसस्पुत्रः (*sahasasputraḥ*), सहसःसूनुः (*sahasaḥsūnuḥ*) are in some places applied to Agni (8-49-2; 8-60-11 etc.) and in some to Indra (8-79-3 etc.).
+
+### Printed p. 603
+In Śatapatha Brāhmaṇa 2-4-4-2 Dakṣa is shown to be identical with Prajāpati, the creator. In 2-4-4-6 it is given as the name of a person, a son of a mountain.
+It will not be irrelevant now to examine how Dakṣa is described in the Viṣṇu Purāṇa, which expands the story on the basis of these Vedic sentences. Three variant readings are seen in the printed text of this Purāṇa. They may be considered one by one.
+(1) In the first version the story is thus: Dakṣa is one of Brahmā's mind-born sons. He marries Prasūti and gets twenty-four daughters by her. But Aditi is not included among them.
+(2) In the second version: Aditi is one of Dakṣa's sixty daughters; he gave her in marriage to Kaśyapa together with Diti, Danu and ten others, and then the twelve Ādityas were born to Kaśyapa of Aditi.
+(3) In the third account: Aditi is known as Dakṣa's daughter and the mother of Vivasvān (the Sun). [In a passage of the Rāmāyaṇa (here too there are variants) the same Aditi is known as Kaśyapa's wife and the mother of Viṣṇu in his Vāmana incarnation.]
+In the Vājasaneya Saṃhitā (29-60) and the Taittirīya Saṃhitā (7-5-14-1) Aditi is called Viṣṇu's wife (आदित्यै विष्णुपत्नै चरुः (*ādityai viṣṇupatnai caruḥ*)). In the following mantra quoted from the Taittirīya Saṃhitā also, Aditi's nature is described thus:
+विष्टंभो दिवो धरुणः पृथिव्या अस्येशाना जगतो विष्णु पत्नि । विश्वव्यचा इषयंती सुभूतिः शिवा नो अस्तु अदितिरुपस्थे ॥ (*viṣṭaṃbho divo dharuṇaḥ pṛthivyā asyeśānā jagato viṣṇu patni | viśvavyacā iṣayaṃtī subhūtiḥ śivā no astu aditirupasthe ‖*)
+May Aditi, the support of the heaven, the bearer of the earth, mistress of the whole world, Viṣṇu's wife, all-pervading, powerful, bring welfare to us who have taken refuge in her lap.
+In all these contexts it is plain that Aditi is the chief cause of the creation and the nourishing of the world.
+
+### Printed p. 604
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरी॑शे वस॒व्य॑स्या॒ग्निर्म॒हः सौभ॑गस्य ।  
+> तान्य॒स्यभ्यं॑ रासते ॥ ८ ॥
+
+> *agnirīśe vasavyasyāgnirmahaḥ saubhagasya |*  
+> *tānyasyabhyaṃ rāsate ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ईशे । वसव्यस्य । अग्निः । महः । सौभगस्य ॥  
+> तानि । अस्मभ्यं । रासते ॥ ८ ॥
+
+> *agniḥ | īśe | vasavyasya | agniḥ | mahaḥ | saubhagasya ‖*  
+> *tāni | asmabhyaṃ | rāsate ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्देवो वसव्यस्य धनसमूहस्येशे । ईष्टे दातुं । तथाग्निर्महो महतः
+> सौभगस्य सुभगत्वस्यापीशे । आतस्तानि धनानि सौभाग्यं चास्मभ्यं रासते । ददातु ॥
+
+##### Gist of the bhāṣya
+
+The deity Agni is lord (ईष्टे (*īṣṭe*), has power) to give the multitude of wealth. Likewise Agni is lord also of great good fortune. Therefore may he give us those riches and that good fortune.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni, the deity
+- वसव्यस्य (*vasavyasya*)—of the multitude of wealth
+- ईशे (*īśe*)—is lord
+- अग्निः (*agniḥ*)—Agni
+- महः (*mahaḥ*)—great
+- सौभगस्य (*saubhagasya*)—of good fortune (he is lord)
+- तानि (*tāni*)—all those
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- रासते (*rāsate*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the deity, is lord of the multitude of wealth. Agni is also lord of great good fortune. May Agni provide all these to us.
+
+##### English translation (H. H. Wilson)
+Agni is lord over treasure : Agni (is lord) over great good fortune : may he bestow them upon us.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उषो॑ मघो॒न्या व॑ह॒ सूनृ॑ते॒ वाया॑ पु॒रु ।  
+> अ॒स्मभ्यं॑ वाजिनीवति ॥ ९ ॥
+
+> *uṣo maghonyā vaha sūnṛte vāyā puru |*  
+> *asmabhyaṃ vājinīvati ‖ 9 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 598. pp. 592-598 (batch API)
+**Progress note:** Done through printed p. 604. pp. 599-604 (batch API)
