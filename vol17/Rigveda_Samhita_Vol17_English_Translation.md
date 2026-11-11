@@ -17452,6 +17452,176 @@ the word शरणे (*śaraṇe*) is explained as आदित्यस्य 
 (Tai. Saṃ. 6-1-3-6).
 Just as above it was said how Indra entered the womb of the pair when the sacrifice-person, desiring relation with speech, entered conjugal relation with her, so here too the relation between sacrifice and dakṣiṇā is stated in the same way.
 
+### Printed p. 537
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते जु॒षस्व॑ नो ह॒व्यानि॑ विश्वदेव्य ।  
+> रास्व॒ रत्ना॑नि दा॒शुषे॑ ॥ ४ ॥
+
+> *bṛhaspate juṣasva no havyāni viśvadevya |*  
+> *rāsva ratnāni dāśuṣe ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । जुषस्व । नः । हव्यानि । विश्वदेव्य ।  
+> रास्व । रत्नानि । दाशुषे ॥ ४ ॥
+
+> *bṛhaspate | juṣasva | naḥ | havyāni | viśvadevya |*  
+> *rāsva | ratnāni | dāśuṣe ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वदेव्य सर्वदेवहित हे बृहस्पते नोऽस्मत्संबंधीनि हव्यानि हवनयोग्यानि पुरोडाशादीनि हवींषि जुषस्व । सेवस्व । ततस्त्वं दाशुषे हविर्दत्तवते
+> यजमानाय मह्यं रत्नान्युत्तमानि धनानि रास्व। देहि ॥ रास्व। रा दाने। व्यत्ययेनात्मनेपदं ॥
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati, benevolent to all the gods, accept our oblations, that is, the offerings fit for the fire, such as the puroḍāśa cake and the other havis. Having accepted them, give precious, excellent riches to me, the sacrificer who has given the oblation. The root रा (*rā*) means "to give", and the ātmanepada form रास्व (*rāsva*) is explained as a vyatyaya (an irregular exchange of voice).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वदेव्य (*viśvadevya*)—one who brings welfare to all
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- नः (*naḥ*)—given by us
+- हव्यानि (*havyāni*)—the oblations
+- जुषस्व (*juṣasva*)—partake of
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- रत्नानि (*ratnāni*)—riches in the form of jewels
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, who brings welfare to all gods and men, partake of the oblations given by us. Provide wealth to the sacrificer who offers the oblation.
+
+##### English translation (H. H. Wilson)
+Brihaspati, friend of all the gods, accept our oblations: grant precious treasures to the offerer.
+
+##### विशेषविषयगळु (Special Topics)
+
+Bṛhaspati, qualified by the epithet विश्वदेव्य बृहस्पते (*viśvadevya bṛhaspate*), is praised and prayed to for his favour. विश्वदेव्य (*viśvadevya*) can mean either "one connected with the Viśvedevas" or "one beneficial to all the gods". Being beneficial to all is the very nature of Bṛhaspati; the nirvacana (etymological explanation) of this word shows it.
+
+### Printed p. 538
+बृहस्पतिः बृहतः पाता ना पालयिता ना । (*bṛhaspatiḥ bṛhataḥ pātā nā pālayitā nā |*) (Ni. 10-11)
+बृहंतौ पाति यल्लोकौ एष द्वौ मध्यमोत्तमौ । बृहता कर्मणा तेन बृहस्पतिरितीळितः ॥ (*bṛhaṃtau pāti yallokau eṣa dvau madhyamottamau | bṛhatā karmaṇā tena bṛhaspatiritīḷitaḥ ‖*) (Bṛ. De. 2-39)
+The name Bṛhaspati arises either because he fully protects the great middle and highest worlds, or because he is the performer of a great rite. बृहत् इति महतो नामदेयं (*bṛhat iti mahato nāmadeyaṃ*) (Ni. 17): "bṛhat" is the name of what is great. The meaning is that he protects all the worlds, which are of great nature. The Nirukta authors have described Bṛhaspati as a deity belonging to the world of Indra (the middle world).
+इंद्राश्रयस्तु पर्जन्यो रुद्रो वायुर्बृहस्पतिः । वरुणः कश्च मृत्युश्च देवश्च ब्रह्मणस्पतिः ॥ (*iṃdrāśrayastu parjanyo rudro vāyurbṛhaspatiḥ | varuṇaḥ kaśca mṛtyuśca devaśca brahmaṇaspatiḥ ‖*) (Bṛ. De. 1-122)
+Parjanya, Rudra, Vāyu, Bṛhaspati, Varuṇa, Ka, Mṛtyu and the god Brahmaṇaspati: all of these are deities in the world of Indra, included within Indra and of Indra's nature. The Bṛhaddevatā also states this, following the divisions of the Nirukta authors (Ni. 5-4,5). But by this division Bṛhaspati's nature does not become restricted to a region. From the very fact that he protects all the worlds of great nature, Bṛhaspati's great nature is also understood.
+एकविग्ंशतिं वशा अनूबंध्या आलभते मैत्रावरुणीर्वैश्वदेवीर्बार्हस्पत्या एतासां देवतानामाप्त्यै तद्यद्बार्हस्पत्यान्ता भवंति ब्रह्म वै बृहस्पतिस्तदु ब्रह्मण्येवांततः प्रतितिष्ठति ॥ (*ekavigṃśatiṃ vaśā anūbaṃdhyā ālabhate maitrāvaruṇīrvaiśvadevīrbārhaspatyā etāsāṃ devatānāmāptyai tadyadbārhaspatyāntā bhavaṃti brahma vai bṛhaspatistadu brahmaṇyevāṃtataḥ pratitiṣṭhati ‖*) (Śa. Brā. 13 5-4-25)
+After the oblation called udayanīya, if one performs the rite called paśubandha, which is helpful to Mitrāvaruṇa, the Viśvedevas and Bṛhaspati, in order to obtain the favour of these deities, they are satisfied. That Bṛhaspati's name is placed at the end here shows that Bṛhaspati is the deity worthy of the homage of all. This Bṛhaspati is the Supreme Brahman; Bṛhaspati reflects the Brahman principle that pervades the world. In this way Bṛhaspati's greatness is shown.
+The relation between Bṛhaspati and the Viśvedevas is also close. The epithet विश्वदेव्य (*viśvadevya*) too indicates it. Other śrutis also say the same. For example,
+
+### Printed p. 539
+ते देवा अबिभयुरस्माकं विप्रेमाणमन्विदमसुरा अभविष्यंतीति ते प्युत्क्रम्यामंत्रयंताग्निर्वसुभिरुदक्रामदिंद्रो रुद्रैर्वरुण आदित्यैर्बृहस्पतिर्विश्वैर्देवैः ॥ (*te devā abibhayurasmākaṃ vipremāṇamanvidamasurā abhaviṣyaṃtīti te pyutkramyāmaṃtrayaṃtāgnirvasubhirudakrāmadiṃdro rudrairvaruṇa ādityairbṛhaspatirviśvairdevaiḥ ‖*) (Ai. Brā. 4-24)
+Seeing the might of the Asuras, all the gods were afraid. Seeking a remedy, they all came out, thinking of the next step. Then Agni came out thinking together with the Vasus, Indra with the Rudras, Varuṇa with the Ādityas, and Bṛhaspati with the Viśvedevas. Thus the relation between Bṛhaspati and the Viśvedevas is shown.
+बृहस्पतये तप्त विश्वदेव्यावते स्वाहेति । आयं वै बृहस्पतियोऽयं पवते तस्मा एवैनं जुहोति तस्मादाह बृहस्पतयेत्तेति विश्वदेव्यावत इति तदस्मिन् विश्वान्स्वर्वान् देवानन्नाभजति । (*bṛhaspataye tapta viśvadevyāvate svāheti | āyaṃ vai bṛhaspatiyo 'yaṃ pavate tasmā evainaṃ juhoti tasmādāha bṛhaspatayetteti viśvadevyāvata iti tadasmin viśvānsvarvān devānannābhajati |*) (Śa. Brā. 14-2-20)
+Bṛhaspati is the form of the wind, all-pervading and spread through every region. The offering is to be made addressed to this Bṛhaspati, together with the Viśvedevas. For that very reason the offering must be made reciting the mantra beginning बृहस्पतिये त्वा (*bṛhaspatiye tvā*); then it is as though offered to Bṛhaspati together with the Viśvedevas. Thus their relation is shown. The all-pervading wind, and the principle of sound (śabda) that reflects the wind-principle, are both marked by the name Bṛhaspati.
+एष उ एव बृहस्पतिः । वाग्वै बृहती, तस्या एष पतिः । तस्मादु बृहस्पतिः । (*eṣa u eva bṛhaspatiḥ | vāgvai bṛhatī, tasyā eṣa patiḥ | tasmādu bṛhaspatiḥ |*) (Bṛ. U. 1-3-20)
+Bṛhaspati is the Word-Brahman. How? Speech is Bṛhatī, and this deity is the lord of speech; therefore he is renowned as Bṛhaspati. In this manner Bṛhaspati is described.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचि॑म॒र्कैर्बृह॒स्पति॑मध्व॒रेषु॑ नमस्यत ।  
+> अना॒म्योज॒ आ च॑के ॥ ५ ॥
+
+> *śucimarkairbṛhaspatimadhvareṣu namasyata |*  
+> *anāmyoja ā cake ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिं । अर्कैः । बृहस्पतिं । अध्वरेषु । नमस्यत ।  
+> अनामि । ओजः । आ । चके ॥ ५ ॥
+
+> *śuciṃ | arkaiḥ | bṛhaspatiṃ | adhvareṣu | namasyata |*  
+> *anāmi | ojaḥ | ā | cake ‖ 5 ‖*
+
+### Printed p. 540
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजो यूयमध्वरेषु शुचिं शुद्धं बृहस्पतिमर्क्करर्चनीयैः
+> स्तोत्रैर्नमस्यत । परिचरत । अनाम्यनमनशीलं परैरनभिभवनीयमोजस्तस्य बलमा
+> चके । सर्वतो याचे ॥ बृहस्पतिं । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरः । चके ।
+> कर्मेर्लिट्युत्तमे मकारलोपश्रांदसः ॥
+
+##### Gist of the bhāṣya
+
+O priests, in the sacrifices worship the pure Bṛhaspati with praise-hymns fit to be chanted (arka); serve him. अनामि (*anāmi*) means unbending, that which others cannot overpower; his ओजः (*ojaḥ*) is his strength. आ चके (*ā cake*) means "I ask for it on every side". The word Bṛhaspati has the accent of both members of the compound, because it belongs to the vanaspati-type compounds. चके (*cake*) is the perfect of the root kṛ in the first person, with the loss of the letter m, which is Vedic.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- शुचिं (*śuciṃ*)—the pure
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- अर्कैः (*arkaiḥ*)—with venerable praises
+- नमस्यत (*namasyata*)—worship
+- अनामि (*anāmi*)—that which enemies cannot diminish
+- ओजः (*ojaḥ*)—strength
+- आ चके (*ā cake*)—I ask (from him)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, in the sacrifices worship the pure Bṛhaspati with venerable praises. I ask from him strength that enemies cannot diminish.
+
+##### English translation (H. H. Wilson)
+Adore the pure Brihaspati at sacrifices with hymns : I solicit of him unsurpassable strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+अध्वरेषु शुचिं (*adhvareṣu śuciṃ*)—"pure in the sacrifices": this describes the nature of Bṛhaspati. When the epithet "pure" (śuci) is applied to the sacrificial fire there is a special meaning, and it indicates a special quality of Agni. For example,
+अग्निशुचिर्व्रततमशुचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजंत ईरते । तव ज्योतीगंष्यर्चयः ॥ (*agniśucirvratatamaśucirvipraḥ śuciḥ kaviḥ | śucī rocata āhutaḥ | udagne śucayastava śukrā bhrājaṃta īrate | tava jyotīgaṃṣyarcayaḥ ‖*) (Tai. Saṃ. 1-3-14-8)
+All the observances of Agni are pure. He is a pure sage (vipra), a pure poet (kavi). When the oblation is offered he shines by this very purity. O Agni, your flames, pure and bright, shine and rise with radiance. In this way the distinction of Agni, who is of the nature of radiance, with a body of flame kindled by ghee, stainless and shining, is praised. To show that the same radiance is in Bṛhaspati, the epithet "pure" is used here. Or else, since Bṛhaspati is a portion of Agni, this epithet is quite proper. In the Ṛk-saṃhitā itself there are many statements showing the identity of Agni and Bṛhaspati. For example,
+
+### Printed p. 541
+अच्छा वदा तना गिरा जराय्कॆ ब्रह्मणस्पतिं । अग्निं मित्रं न दर्शतं ॥ (*acchā vadā tanā girā jarāykè brahmaṇaspatiṃ | agniṃ mitraṃ na darśataṃ ‖*) (Ṛ. Saṃ. 1-38-13)
+The scholar Max Müller has translated this Ṛk thus: "Speak out for ever, with thy voice to praise the lord of prayer, Agni, who is like a friend, the bright one." The meaning given is: recite the praise of Agni, the lord of hymns, who is like a friend. That is, it shows that the word Bṛhaspati is an epithet of Agni; the meaning is that Agni is Bṛhaspati. [Sāyaṇa has explained Bṛhaspati as Maruddaṇa. That is one view. But to say that it is an epithet of Agni is the proper one here.]
+तं शुभ्रमग्निमवसे हवामहे वैश्वानरं मातरिश्वानमुक्थ्यं । बृहस्पतिं मनुषो देवतातये विप्रं श्रोतारमतिथिं रघुष्यदं ॥ (*taṃ śubhramagnimavase havāmahe vaiśvānaraṃ mātariśvānamukthyaṃ | bṛhaspatiṃ manuṣo devatātaye vipraṃ śrotāramatithiṃ raghuṣyadaṃ ‖*) (Ṛ. Saṃ. 3-26-2)
+In this mantra, which says "we call, for our protection, Agni, friend of men, worthy of praise, Mātariśvan, Bṛhaspati", Sāyaṇa too explains बृहस्पतिं (*bṛhaspatiṃ*) precisely in the sense of Agni: बृहतः यज्ञस्य पालयितारं (*bṛhataḥ yajñasya pālayitāraṃ*), "Agni, protector of the great sacrifice".
+आ वेधसं नीलपृष्ठं बृहंतं बृहस्पतिं सदने साधयध्वं । सादद्योनिं दम आ दीदिवांसं हिरण्यवर्णमरुषं सपेम ॥ ( (*ā vedhasaṃ nīlapṛṣṭhaṃ bṛhaṃtaṃ bṛhaspatiṃ sadane sādhayadhvaṃ | sādadyoniṃ dama ā dīdivāṃsaṃ hiraṇyavarṇamaruṣaṃ sapema ‖ (*) (Ṛ. Saṃ. 5-43-12)
+Here Sāyaṇa, explaining this mantra as referring to Agni, says: बृहतः परिवृढस्य कर्मणः स्वामीति बृहस्पतिरग्नि रुच्यते। तथा नीलवर्णधूमपृष्ठत्वसदनसादनहिरण्यवर्णत्वादिलिंगैरप्यग्निरेव बृहस्पतिः । (*bṛhataḥ parivṛḍhasya karmaṇaḥ svāmīti bṛhaspatiragni rucyate| tathā nīlavarṇadhūmapṛṣṭhatvasadanasādanahiraṇyavarṇatvādiliṃgairapyagnireva bṛhaspatiḥ |*) Because he is the lord of very great rites, Agni is denoted by the word Bṛhaspati. The epithets "blue-backed", "golden-coloured" and the like also describe the qualities of Agni in the form of Bṛhaspati; this he has stated exactly.
+The phrase अर्कैः नमस्यत (*arkaiḥ namasyata*) also supports the above meaning. The Aitareya-Āraṇyaka mantra अग्निर्वा अर्कः (*agnirvā arkaḥ*) (Ai. Ā. 1-4-1) and
+एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेय महमग्निरर्कोऽस्मीति विद्यया हैवास्यैष आत्मन्नग्निरर्कश्चितो धवति ॥ (*eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāsteya mahamagnirarko 'smīti vidyayā haivāsyaiṣa ātmannagnirarkaścito dhavati ‖*) (Śa. Brā. 10-3-4-5)
+state the identity: Agni in the form of the Puruṣa is Arka; Agni in the form of the fire-altar (citi) is also Arka. [The special meanings of arka have been explained in detail in Ṛgveda Saṃhitā, part 12, p. 445.]
+
+### Printed p. 542
+Here only the relation between Agni, in the form of Bṛhaspati, and Arka is indicated, showing the propriety of the use of the words "pure" (śuci) and "arka" in the present Ṛk. Just as the word śuci shows Bṛhaspati's sacrificial nature, the synonym śukra shows his spiritual nature.
+बृहस्पतिर्वै शुक्रो भूत्वेदस्याभयायासुरेभ्यः क्षयायेमामविद्यामसृजत् (*bṛhaspatirvai śukro bhūtvedasyābhayāyāsurebhyaḥ kṣayāyemāmavidyāmasṛjat*) (Maitrya. Panisat. 7-9) **NOTE**
+Bṛhaspati, becoming Śukra, created for the gods the light of knowledge and for the Asuras the darkness of ignorance. Just as the word śuci shows a special quality of Agni, so the word śukra too shows a special quality of Agni. This quality of Śukra became famous in the Purāṇas and elsewhere as Śukrācārya. This name shows spiritual truth rather than historical fact.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष॒भं च॑र्षणी॒नां वि॒श्वरू॑प॒मदा॑भ्यं ।  
+> बृह॒स्पतिं॒ । वरे॑ण्यं ॥ ६ ॥
+
+> *vṛṣabhaṃ carṣaṇīnāṃ viśvarūpamadābhyaṃ |*  
+> *bṛhaspatiṃ | vareṇyaṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषभं । चर्षणीनां । विश्वरूपं । अदाभ्यं ।  
+> बृहस्पतिं । वरेण्यं ॥ ६ ॥
+
+> *vṛṣabhaṃ | carṣaṇīnāṃ | viśvarūpaṃ | adābhyaṃ |*  
+> *bṛhaspatiṃ | vareṇyaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चर्षणीनां मनुष्याणां वृषभमभिमतफलवर्षकं विश्वरूपं व्याप्तरूपं ।
+> यद्वा । विश्वरूपानामकगोवाहनोपेतं । तथा च मंत्रवर्णः । बृहस्पतिर्विश्वरूपामुपाजत । ऋग्वे. १-१६१-६ । इति । अदाभ्यं केनाप्यतिरस्करणीयं वरेण्यं
+> सर्वैर्भजनीयं बृहस्पतिं । अभिमतफलं याच इति पूर्वणान्वयः ॥ विश्वरूपं ।
+> बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं । यद्वा । विश्वरूपास्य सतीति
+> अर्शआदिश्वादच् प्रत्ययः । मरुद्वृधादित्वात्पूर्वपदांतोदात्तत्वं । अदाभ्यं ।
+> दभेश्चेति वक्तव्यमिति ण्यत्पत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Bṛhaspati is the bull (the showerer of desired fruits) of the चर्षणीनां (*carṣaṇīnāṃ*), the men; विश्वरूपं (*viśvarūpaṃ*) means "of all-pervading form". Or else, he is "accompanied by a cow-vehicle named Viśvarūpā". The mantra text says so: बृहस्पतिर्विश्वरूपामुपाजत (*bṛhaspatirviśvarūpāmupājata*) (Ṛg. 1-161-6). अदाभ्यं (*adābhyaṃ*) means "not to be slighted by anyone"; वरेण्यं (*vareṇyaṃ*) means "to be served by all". "I ask Bṛhaspati for the desired fruit": the construction links with the earlier verse. The remaining discussion concerns the accent of विश्वरूपं (*viśvarūpaṃ*) (in a bahuvrīhi, initial-member final-udātta; or, in the alternative, with the affix ac after the arśa-ādi group) and the formation of अदाभ्यं (*adābhyaṃ*) with the affix ṇyat.
+
 ---
 
-**Progress note:** Done through printed p. 536. pp. 530-536 (batch API)
+**Progress note:** Done through printed p. 542. pp. 537-542 (batch API)
