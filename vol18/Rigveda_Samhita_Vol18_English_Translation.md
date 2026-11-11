@@ -30276,6 +30276,327 @@ O Agni, worthy of praise, bring Indra, who has an attractive form and is benefic
 ##### English translation (H. H. Wilson)
 Agni, you are Ilita ; bring heither the wonderful and friendly Indra, with his easy-going chariots for our protection.
 
+### Printed p. 809
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊर्ण॑म्रदा॒ वि प्र॑थस्वा॒भ्य१॒॑ १ कार् अ॑नूषत ।  
+> भवा॑ नः शुभ्र सा॒तये॑ ॥ ४ ॥
+
+> *ūrṇamradā vi prathasvābhya 1 kār anūṣata |*  
+> *bhavā naḥ śubhra sātaye ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्णम्रदाः । वि । प्रथस्व । अभि । अर्काः । अनूषत ।  
+> भव । नः । शुभ्र । सातये ॥ ४ ॥
+
+> *ūrṇamradāḥ | vi | prathasva | abhi | arkāḥ | anūṣata |*  
+> *bhava | naḥ | śubhra | sātaye ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्णम्रदा ऊर्णाकंबलवत् मृदु हे बर्हिर्वि प्रथस्य । प्रथय ।
+> अर्काः स्तोतारोऽभ्यनूषत । स्तुवंति । हे शुभ्र दीप्त सातये धनाय तद्दानाय
+> वा नोऽस्माकं भव ॥
+
+##### Gist of the bhāṣya
+
+O barhis, soft as woolen blanket, spread out. The praisers (arkāḥ) praise you. O bright one, be ours for the sake of wealth (sāti), that is, for the giving of it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्णम्रदाः (*ūrṇamradāḥ*)—O barhis, soft like a jewelled blanket
+- अर्काः (*arkāḥ*)—the praisers
+- अभिः अनूषत (*abhiḥ anūṣata*)—praise you (therefore)
+- वि प्रथस्व (*vi prathasva*)—spread out widely
+- शुभ्र (*śubhra*)—O luminous barhis
+- नः (*naḥ*)—in our regard
+- सातये (*sātaye*)—with a mind to give wealth
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O barhis, soft like a jewelled blanket (barhis means the darbha grass spread as a seat), the praisers praise you. Therefore spread out widely. O luminous barhis, be minded to give us wealth.
+
+##### English translation (H. H. Wilson)
+(Grass), soft as wool, be spread ; the worshipers praise you : be to us radiant (grass, the source of) liberality.
+
+### Printed p. 810
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवी॑र्द्वार्रो॒ विश्र॑यध्वं सुप्राय॒णा न॑ ऊ॒तये॑ ।  
+> प्रप्र॑ य॒ज्ञं पृ॑णीतन ॥ ५ ॥
+
+> *devīrdvārro viśrayadhvaṃ suprāyaṇā na ūtaye |*  
+> *prapra yajñaṃ pṛṇītana ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवीः । द्वारः । वि । श्रयध्वं । सुप्रअयनाः । नः । ऊतये ।  
+> प्रप्र । यज्ञं । पृणीतन ॥ ५ ॥
+
+> *devīḥ | dvāraḥ | vi | śrayadhvaṃ | supraayanāḥ | naḥ | ūtaye |*  
+> *prapra | yajñaṃ | pṛṇītana ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्वारो यज्ञस्य द्वाराभिमानिन्यो हे देवीर्देव्यो वि श्रयध्वं ।
+> वियुक्ता भवत ॥ सुप्रायणाः शोभनगमनसाधना नोऽस्माकमूतये रक्षायै
+> यज्ञं यजमानं प्रप्र पृणीतन । पूरयत कामैर्यज्ञमेव वा फलैः ॥
+
+##### Gist of the bhāṣya
+
+O doors, goddesses presiding over the doors of the sacrifice, open apart. Being good means of passage for us, for our protection, fill (fulfil) the sacrifice, that is, the sacrificer, with desired objects; or fill the sacrifice itself with its fruits.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवीः (*devīḥ*)—divine
+- द्वारः (*dvāraḥ*)—deities presiding over the doors of the sacrifice
+- सुप्रायणाः (*suprāyaṇāḥ*)—having excellent means of passage
+- नः (*naḥ*)—our
+- ऊतये (*ūtaye*)—for protection
+- विश्रयध्वं (*viśrayadhvaṃ*)—stand apart and make a way
+- यज्ञं (*yajñaṃ*)—the sacrificial rite
+- प्रप्र (*prapra*)—fully
+- पृणीतन (*pṛṇītana*)—bring to completion
+
+##### भावार्थ (Bhāvārtha)
+
+O divine deities presiding over the doors of the sacrifice, having excellent means of passage, stand apart for our protection and make a way for us. Cause our sacrificial rite to be fully accomplished.
+
+##### English translation (H. H. Wilson)
+Open divine doors, our passages to preservation ; fulfill the sacrifice (with its rewards).
+
+### Printed p. 811
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प्रती॑के वयो॒वृधा॑ य॒ह्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+> दो॒षामु॒षास॑मीमहे ॥ ६ ॥
+
+> *supratīke vayovṛdhā yahvī ṛtasya mātarā |*  
+> *doṣāmuṣāsamīmahe ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुप्रतीके इति सुप्रतीके । वयःवृधा । यह्वी इति । ऋतस्य । मातरा ।  
+> दोषां । उषसं । ईमहे ॥ ६ ॥
+
+> *supratīke iti supratīke | vayaḥvṛdhā | yahvī iti | ṛtasya | mātarā |*  
+> *doṣāṃ | uṣasaṃ | īmahe ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अहो रात्रेश्चाभिमानिदेव्य सुप्रतीके सुरूपे शोभनांगे वा
+> वयोवृधान्नस्य वर्धयित्र्य यह्वी महत्यावृतस्य यज्ञस्योदकस्य वा मातरा
+> निर्मात्र्य तयोर्मध्यॆ प्रत्येकं दोषां रात्रिदेवीमुषसमहर्देवीमीमहे ।
+> स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O goddesses of day and night, of fair form or fair limbs, increasers of food, great, mothers (makers) of the ṛta, that is, of the sacrifice or of water: of these two, severally, we praise Doṣā, the goddess of night, and Uṣas, the goddess of day.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुप्रतीके (*supratīke*)—of excellent form
+- वयोवृधा (*vayovṛdhā*)—increasers of food
+- यह्वी (*yahvī*)—of great nature
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- मातरा (*mātarā*)—mothers
+- दोषां (*doṣāṃ*)—the goddess of night
+- उषसं (*uṣasaṃ*)—the goddess of day
+- ईमहे (*īmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We praise the goddess of night and the goddess of day, who are of excellent form, increasers of food, of great nature, mothers of the sacrifice.
+
+##### English translation (H. H. Wilson)
+We glorify the evening and the morning, lovely, food-bestowing, mighty, the mothers of sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॑स्य॒ पत्न्य॑न्निळि॒ता दैव्या॒ होता॑रा॒ मनु॑षः ।  
+> इ॒मं नो॑ य॒ज्ञमा ग॑तं ॥ ७ ॥
+
+> *vātasya patnyanniḷitā daivyā hotārā manuṣaḥ |*  
+> *imaṃ no yajñamā gataṃ ‖ 7 ‖*
+
+### Printed p. 812
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातस्य । पत्मन् । ईळिता । दैव्या । होतारा । मनुषः ।  
+> इमं । नः । यज्ञं । आ । गतं ॥ ७ ॥
+
+> *vātasya | patman | īḷitā | daivyā | hotārā | manuṣaḥ |*  
+> *imaṃ | naḥ | yajñaṃ | ā | gataṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातस्य पत्मन् । लुप्तोपमैषा । वायुगमनसदृशगमनार्थमीळितास्माभिः
+> स्तुता । यद्वा । वातस्य पतनसाधनेऽंतरिक्षे गच्छंतौ दैव्या देवादग्नेरादित्याच्च
+> समुद्भूत् होतारा देवानामाह्वातारौ युवां मनुषो मनुष्यस्येमं
+> नोऽस्माकं यज्ञमा गतं । आगच्छतं । नो मनुषो यज्ञमिति व्यधिकरणे षष्ठ्यौ ।
+> अस्माकं यजमानस्य यज्ञमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+वातस्य पत्मन् (*vātasya patman*) is an elided comparison: the two are praised by us for a going like the going of the wind. Or else: moving in the space which is the means of the wind's flight, sprung from the divine, from Agni and from Āditya, you two invokers of the gods, come to this sacrifice of ours, of the man (manuṣaḥ). "Our" and "of the man" are genitives in different relations; the meaning is: to the sacrifice of us, the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातस्य पत्मन् (*vātasya patman*)—moving on the path of the wind
+- दैव्या होतारा (*daivyā hotārā*)—divine ones who invoke the gods to the sacrifice
+- नः (*naḥ*)—our
+- मनुषः (*manuṣaḥ*)—of the patron in human form
+- इमं यज्ञं (*imaṃ yajñaṃ*)—to this sacrifice
+- आ गतं (*ā gataṃ*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O gods who move on the path of the wind and invoke the gods to the sacrifice, be gracious to this sacrifice of our patron.
+
+##### English translation (H. H. Wilson)
+Praised (by us), divine invokers of the gods, come, moving on the path of the wind, to this sacrifice of our patron.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इळा॒ सर॑स्वती म॒ही ति॒स्रो दे॒वीर्म॑यो॒भुवः॑ ।  
+> ब॒र्हिः सी॑दंत्व॒स्रिधः॑ ॥ ८ ॥
+
+> *iḷā sarasvatī mahī tisro devīrmayobhuvaḥ |*  
+> *barhiḥ sīdaṃtvasridhaḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इळा । सरस्वती । मही । त्रिप्रः । देवीः । मयःभुवः ।  
+> बर्हिः । सीदंतु । अस्त्रिधः ॥ ८ ॥
+
+> *iḷā | sarasvatī | mahī | tripraḥ | devīḥ | mayaḥbhuvaḥ |*  
+> *barhiḥ | sīdaṃtu | astridhaḥ ‖ 8 ‖*
+
+### Printed p. 813
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इळा पृथिवी सरस्वती । सर उदकं । तस्मात्सरस्वान्वायुः । तस्य स्त्री सरस्वती ।
+> मही महती भारती भरतस्यादित्यस्य पत्नि । अत्र यद्यप्येषा नोक्ता तथापि सर्वत्र
+> सहदृष्टत्वात्रि संख्याश्रवणाच्च सा गृह्यते । अथवैताः क्षित्यंतरिक्षद्युस्थाना वाग्गेव्यः ।
+> एता मयोभुवः सुखस्य भावयित्र्योऽस्त्रिदोऽहिंसिकाः सत्यो बर्हिर्बर्हिषि
+> सीदंतु । उपविशंतु ॥
+
+##### Gist of the bhāṣya
+
+Iḷā is the earth. Sarasvatī: sara is water; from it comes sarasvān, the wind; his wife is Sarasvatī. Mahī is Bhāratī, the great, wife of Bharata, that is, of Āditya. Although she is not named here, she is taken because the three are seen together everywhere and because the number three is heard. Or else these are the speech-goddesses of the stations of earth, atmosphere and heaven. These, producers of happiness, unharming, let them sit on the barhis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मयोभुवः (*mayobhuvaḥ*)—givers of happiness
+- अस्त्रिधः (*astridhaḥ*)—unharming
+- देवीः (*devīḥ*)—divine
+- इळा (*iḷā*)—the goddess Iḷā
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- मही (*mahī*)—Bhāratī of great nature
+- बर्हिः (*barhiḥ*)—upon the darbha seat
+- सीदंतु (*sīdaṃtu*)—let them be seated (sit)
+
+##### भावार्थ (Bhāvārtha)
+
+Iḷā, Sarasvatī and Bhāratī of great nature, these three goddesses, givers of happiness, unharming, divine, let them sit together on the darbha seat.
+
+##### English translation (H. H. Wilson)
+May Ila, Saraswati, Mahi, the three goddesses who are the sources of happiness, sit down, benevolent, upon the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk is read as the 9th Ṛk in the sūkta beginning सुसमिद्दो न आ वह (*susamiddo na ā vaha*) at Ṛ. Saṃ. 1-13. There the seer of that sūkta is Medhātithi Kāṇva. For the present Ṛk the seer is Vasuśruta Ātreya. Which of them is earlier, or whether both are contemporaries, is not known.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शि॒वस्त्व॑स्परि॒हा ग॑हि वि॒भुः पोष॑ उ॒त त्मना॑ ।  
+> य॒ज्ञेय॑ज्ञे न॒ उद॑व ॥ ९ ॥
+
+> *śivastvasparihā gahi vibhuḥ poṣa uta tmanā |*  
+> *yajñeyajñe na udava ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिवः । त्वष्टः । इह । आ । गहि । विभुः । पोषे । उत । त्मना ।  
+> यज्ञेऽयज्ञे । नः । उत् । अव ॥ ९ ॥
+
+> *śivaḥ | tvaṣṭaḥ | iha | ā | gahi | vibhuḥ | poṣe | uta | tmanā |*  
+> *yajñe 'yajñe | naḥ | ut | ava ‖ 9 ‖*
+
+### Printed p. 814
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे त्वष्टर्देव शिवः सुखकरः सन्निहा गहि । अस्मद्यज्ञ मागच्छ । विभुव्याप्तस्तं
+> पोषे पोषकरणे । उतागत्य च त्मनात्मना स्वयमेव यज्ञे यज्ञे सर्वॆषु
+> यज्ञेषु नोऽस्मानुदव । उत्कृष्टं रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O god Tvaṣṭṛ, being auspicious (bringing happiness), come here to our sacrifice; pervading, in the act of nourishing. Having come, of your own accord, in every sacrifice protect us excellently.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टः (*tvaṣṭaḥ*)—O god Tvaṣṭṛ
+- पोषे (*poṣe*)—in the work of nourishing
+- विभुः (*vibhuḥ*)—all-pervading
+- शिवः (*śivaḥ*)—bringer of happiness
+- इह (*iha*)—to this sacrifice
+- आ गहि (*ā gahi*)—be gracious to come
+- यज्ञे यज्ञे (*yajñe yajñe*)—in every sacrifice
+- नः (*naḥ*)—us
+- उदव (*udava*)—protect fully
+
+##### भावार्थ (Bhāvārtha)
+
+O god Tvaṣṭṛ, being all-pervading in the work of nourishing the world and bringing happiness, be gracious to come to this sacrifice. In every sacrifice protect us fully.
+
+##### English translation (H. H. Wilson)
+Twashtri, being propitious, you are diffusive in kindness, come of your own accord, protect us in repeated sacrifices.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ वेत्थ॑ वनस्पते दे॒वानां॒ गुह्या॒ नामा॑नि ।  
+> तत्र॑ ह॒व्यानि॑ गामय ॥ १० ॥
+
+> *yatra vettha vanaspate devānāṃ guhyā nāmāni |*  
+> *tatra havyāni gāmaya ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । वेत्थ । वनस्पते । देवानां . गुह्या । नामानि ॥  
+> तत्र । हव्यासि । गमय ॥ १० ॥
+
+> *yatra | vettha | vanaspate | devānāṃ . guhyā | nāmāni ‖*  
+> *tatra | havyāsi | gamaya ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निहोत्र उत्तराहुतिस्कंदने यत्र वेत्थेत्यनया समिधमादध्यात् । सूत्रितं
+> च । यत्र वेत्थ वनस्पत इत्युत्तरस्स्या आहुत्याः स्कंदने । आ. ३-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Agnihotra, when the second oblation has spilled, one should lay a fuel-stick with this verse beginning यत्र वेत्थ (*yatra vettha*). It is also stated in the sūtra: यत्र वेत्थ वनस्पत इत्युत्तरस्स्या आहुत्याः स्कंदने । आ. ३-११ । (*yatra vettha vanaspata ityuttarassyā āhutyāḥ skaṃdane | ā. 3-11 |*) (Ā. Sū. 3-11).
+
 ---
 
-**Progress note:** Done through printed p. 808. pp. 803-808 (batch API)
+**Progress note:** Done through printed p. 814. pp. 809-814 (batch API)
