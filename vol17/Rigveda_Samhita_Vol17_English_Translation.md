@@ -34142,6 +34142,304 @@ Deeming it disreputable (that he should be brought forth) in secret. his mother 
 
 All these rivers flow, making sounds of joy such as "alala", as if proclaiming Indra's greatness. O sage, ask these rivers themselves what the meaning of this audible sound of theirs is. (Without Indra's help) which enclosing cloud could the waters break?
 
+### Printed p. 998
+
+##### English translation (H. H. Wilson)
+These (rivers) flew murmuring as if, being filled with water, they were uttering sounds ( of joy ) : ask them what is this they say ; what is the encompassing cloud that the waters break through ?
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमु॑ ष्टिदस्मै नि॒विदो॑ भनं॒तेंद्र॑स्याव॒द्यं दि॑धिषंत॒ आपः॑ ।  
+> ममै॒तान्नु॒त्रो म॑ह॒ता व॒धीन॑ वृ॒त्रं ज॑घ॒न्वा आ॑सृज॒द्वि  
+> सिंधू॑न् ॥ ७ ॥
+
+> *kimu ṣṭidasmai nivido bhanaṃteṃdrasyāvadyaṃ didhiṣaṃta āpaḥ |*  
+> *mamaitānnutro mahatā vadhīna vṛtraṃ jaghanvā āsṛjadvi*  
+> *siṃdhūn ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । ऊं इति । स्वित् । अस्मै । निविदः । भनंत । इंद्रस्य । अवद्यं । दिधिषंते । आपः।  
+> मम । एतान् । पुत्रः । महता । वधेन । वृत्रं । जघन्वान् । असृजत् । वि ।  
+> सिंधून् ॥ ७ ॥
+
+> *kiṃ | ūṃ iti | svit | asmai | nividaḥ | bhanaṃta | iṃdrasya | avadyaṃ | didhiṣaṃte | āpaḥ|*  
+> *mama | etān | putraḥ | mahatā | vadhena | vṛtraṃ | jaghanvān | asṛjat | vi |*  
+> *siṃdhūn ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदेंद्रो वृत्रासुरं हतवान् तदा शाश्वतीं ब्रह्महत्यां प्राप्तवानिति वामदेवस्याभिप्रायमुन्नीयादितिराह । निविदः । मरुत्वतीयशस्त्रे प्रयुज्यमानानि
+> मरुत्सोत्रो मरुद्धण इत्यादीनींद्रस्तुतिप्रतिपादकानि कानिचित्पदानि निविच्छब्देनोच्यंते । ता निविदोऽस्मा इदुं वृत्रवधनिमित्तं ब्रह्महत्यारूपं पापं प्राप्पुवंतमिंद्रं किमु ष्ट्वित् भनंत । भनंति । किं वदंतीति चेत् । तर्हि । पापरहितमिंद्रं
+> मत्वा निविदः स्तुवंति। कथमिंद्रस्य पापरहितत्वं । उच्यते । आपः फेनरूपेणास्येंद्रस्यावद्यं ब्रह्महत्यादिरूपं पापं दिधिषंते । धारयंति । मम पुत्रो मदीयः
+> पुत्र इंद्रो महता प्रभूतेन वधेन । वध इति वज्रनामैतत् । वज्रेण वृत्रं जघन्वान् । हतवान् । तत एतान् सिंधूनुदकानि व्यसृजत् । विशेषेण स्वैरत्वेन सर्तुं
+> सृष्टवान् । इंद्रेणोत्सृष्टा अपस्तस्य पापं जगृहुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Vāmadeva speaks inferring that when Indra killed the demon Vṛtra he incurred the eternal sin of brahmin-slaying. निविदः (*nividaḥ*): certain phrases used in the Marutvatīya recitation, such as "Marut-stotra, Marud-gaṇa", which express praise of Indra, are called nivid. What do these nivids say of this Indra, who has incurred the sin of brahmin-slaying through the killing of Vṛtra? If it is asked what they say: they praise Indra as one free of sin. How is Indra free of sin? It is answered: the waters, in the form of foam, bear this blemish of Indra, the sin of brahmin-slaying and the like. "My son", that is, Indra, my own son, with a great, abundant वध (*vadha*) (vadha is a name of the thunderbolt) slew Vṛtra. Then he released these rivers, the waters, letting them flow freely and as they please. The meaning is that the waters released by Indra took his sin upon themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निविदः (*nividaḥ*)—these mantras in the form of 'nivid'
+- अस्मै (*asmai*)—concerning this Indra
+- किमु स्वित् (*kimu svit*)—what indeed
+- भनंत (*bhanaṃta*)—they say (they merely praise him)
+- आपः (*āpaḥ*)—the waters
+
+### Printed p. 999
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- अवद्यं (*avadyaṃ*)—the sin in the form of brahmin-slaying and the like
+- दिधिषंते (*didhiṣaṃte*)—they bear (in the form of foam)
+- मम (*mama*)—my
+- पुत्रः (*putraḥ*)—son, Indra
+- महता (*mahatā*)—with the great
+- वधेन (*vadhena*)—thunderbolt weapon
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- जघन्वान् (*jaghanvān*)—killed
+- एतान् सिंधून् (*etān siṃdhūn*)—these waters
+- वि असृजत् (*vi asṛjat*)—caused to be released to flow freely
+
+##### भावार्थ (Bhāvārtha)
+
+The mantras in the form of 'nivid' are merely laudatory with regard to Indra. The waters bear Indra's sin of brahmin-slaying and the like in the form of foam. My son Indra killed Vṛtra with the great thunderbolt, and released these waters so that they flow freely.
+
+##### English translation (H. H. Wilson)
+What do the sacred expiatory strains declare to me? the waters receive the reproach of Indra : my son has slain Vritra with the mighty thunderbolt : he has set those rivers free.
+
+##### विशेषविषयगळु (Special Topics)
+
+For a detailed account of Indra's slaying of the demon Vṛtra, the consequent incurring of the fault of brahmin-slaying by Indra, and the course of action Indra undertook to remove that fault, see Ṛ. Saṃ. Part 12, p. 627.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मम॑च्च॒न त्वा॑ युव॒तिः प॒रास॒ मम॑च्च॒न त्वा॑ कु॒षवा॑ ज॒गार॑ ।  
+> मम॑च्चि॒दापः॒ शिश॑वे ममृड्यु॒र्मम॑च्च॒दिंद्रः॒ सह॒सोद॑तिष्ठत् ॥
+
+> *mamaccana tvā yuvatiḥ parāsa mamaccana tvā kuṣavā jagāra |*  
+> *mamaccidāpaḥ śiśave mamṛḍyurmamaccadiṃdraḥ sahasodatiṣṭhat ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ममत् । चन । त्वा । युवतिः । पराआस । ममत् । चन । त्वा । कुषना । जगार ।  
+> वमत् । चित् । आपः । शिशवे । ममृड्युः । ममत् । चित् । इंद्रः । सहसा । उत् ।  
+> अतिष्ठत् ॥ ८ ॥
+
+> *mamat | cana | tvā | yuvatiḥ | parāāsa | mamat | cana | tvā | kuṣanā | jagāra |*  
+> *vamat | cit | āpaḥ | śiśave | mamṛḍyuḥ | mamat | cit | iṃdraḥ | sahasā | ut |*  
+> *atiṣṭhat ‖ 8 ‖*
+
+### Printed p. 1000
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूक्तशेषेण ऋषिरिंद्रं स्तौति । हे इंद्र ममच्चन माद्यंत्येव । प्रमत्तैवेत्यर्थः । युवतिस्त्वदीया मातादितिस्ता त्वां परास । पराचिक्षेक । किंच कुषनानाम्मी काचिद्राक्षसी सा ममच्चन प्रमत्तैव त्वा त्वां जगार । गिरति स्म । हे इंद्र
+> ममच्चित्प्रमद्यंत एवापः शिशवे जाताय तुभ्यं ममृड्युः । सुखयांचक्रुः ।
+> ममच्चित् माद्यन्नेवेंद्रः सहसा स्वेन वीर्येणोदतिष्ठत् । सूतिकाग्रहाद्राक्षसीं
+> बाधमानः सन् उत्कर्षेण तस्थौ ॥
+
+##### Gist of the bhāṣya
+
+With the rest of the sūkta the seer praises Indra. O Indra, "exulting", that is, in joy alone, the youthful mother, your mother Aditi, "cast you forth" (परास (*parāsa*)). Moreover, there is a certain demoness named Kuṣanā; exulting, in her joy, she swallowed you. O Indra, exulting indeed, the waters gave delight to you, the newborn child. Exulting, Indra rose up by his own strength, resisting the demoness who seized the newborn, and stood up in triumph.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ममच्चन (*mamaccana*)—exultingly
+- युवतिः (*yuvatiḥ*)—your mother Aditi
+- त्वा (*tvā*)—you
+- परास (*parāsa*)—bore
+- ममच्चन (*mamaccana*)—exultingly
+- कुषवा (*kuṣavā*)—the demoness named Kuṣavā
+- त्वा (*tvā*)—you
+- जगार (*jagāra*)—swallowed
+- ममच्चित् (*mamaccit*)—from that very excess of joy
+- आपः (*āpaḥ*)—the waters
+- शिशवे (*śiśave*)—as soon as Indra was born
+- ममृड्युः (*mamṛḍyuḥ*)—became givers of comfort
+- ममच्चित् (*mamaccit*)—from joy
+- इंद्रः (*iṃdraḥ*)—Indra
+- सहसा (*sahasā*)—by his own power
+- उवतिष्ठत् (*uvatiṣṭhat*)—came out (breaking through the demoness)
+
+##### भावार्थ (Bhāvārtha)
+
+The words of the mother of the seer Vāmadeva: O Indra, your youthful mother (Aditi) bore you in joy. In joy the demoness named Kuṣanā swallowed you. From that same excess of joy the waters became comfort-giving as soon as Indra was born. Indra too, joyful, broke through the demoness by his own power and came out.
+
+##### English translation (H. H. Wilson)
+Vamadeva speaks.—Exulting, the youthful mother brought you forth : exulting, Kushava swallowed you : exulting, the waters gave delight to the infant : Indra, exulting, rose up by his strength
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनु॑च्च॒न ते॑ मघव॒न्वं॑सो निविवि॒ध्वा अप॒ हनू॑ ज॒घान॑ ।  
+> अथा॒ निवि॑द्द॒ उत्त॑रो बभू॒वाञ्छिरो॑ दा॒सस्य॒ सं पि॑णग्व॒धेन॑ ॥
+
+> *manuccana te maghavanvaṃso nivividhvā apa hanū jaghāna |*  
+> *athā nividda uttaro babhūvāñchiro dāsasya saṃ piṇagvadhena ‖*
+
+### Printed p. 1001
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुमत् । चन । ते । मघवन् । विअंसः । निविविध्वान् । अप । हनू इति । जघान ।  
+> अध । निविद्दः । उत्तरः । बभूवान् । शिरः । दासस्य । सं । पिणक् । वधेन ॥ ९ ॥
+
+> *sumat | cana | te | maghavan | viaṃsaḥ | nivividhvān | apa | hanū iti | jaghāna |*  
+> *adha | nividdaḥ | uttaraḥ | babhūvān | śiraḥ | dāsasya | saṃ | piṇak | vadhena ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन्निंद्र ममच्चिन प्रमाद्यन्नेव व्यंसो नाम राक्षसो निविविध्वान् प्रविध्यन् ते हनू त्वदीये हनू मुखपार्श्वे अप जघान । अपहतवान् ।
+> अध अथानंतरं हे इंद्र निविद्दो राक्षसेन ताडितस्त्वमुत्तरो व्यंसादधिकबलो
+> बभूवान्‌भूतः सन् दासस्य क्षीणस्य व्यंसस्य शिरो वधेन वज्रेण सं पिणक् ।
+> पिष्टवानसि ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, exulting indeed, the demon named Vyaṃsa, striking, struck away your two jaws, the sides of your mouth. Then, O Indra, struck by the demon, you became superior, stronger than Vyaṃsa, and with the वध (*vadha*), the thunderbolt, you crushed the head of the exhausted दास (*dāsa*) Vyaṃsa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- ममच्चन (*mamaccana*)—from excess of joy
+- व्यंसः (*vyaṃsaḥ*)—the demon named Vyaṃsa
+- निविविध्वान् (*nivividhvān*)—striking you
+- ते (*te*)—your
+- हनू (*hanū*)—on the cheeks
+- अप जघान (*apa jaghāna*)—struck, dashing against
+- अध (*adha*)—thereafter
+- निविद्दः (*nividdaḥ*)—you, struck by him
+- उत्तरः (*uttaraḥ*)—possessing greater strength than he
+- बभूवान् (*babhūvān*)—having grown
+- दासस्य (*dāsasya*)—of the asura Vyaṃsa
+- शिरः (*śiraḥ*)—the head
+- वधेन (*vadhena*)—with the thunderbolt, the instrument of slaying
+- सं पिणक् (*saṃ piṇak*)—crushed to powder
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, from excess of joy (from pride) the demon Vyaṃsa tried to strike you and dashed against your cheeks. Thereafter, struck by him, you grew stronger than he, and crushed the head of the asura Vyaṃsa with the thunderbolt, the instrument of slaying.
+
+##### English translation (H. H. Wilson)
+Vyansa, exulting and striking (hard blows) smote you, Maghavan, upon the jaw ; whereupon, being so smitten, you proved the stronger, and did crush the head of the slave with the thunderbolt.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒ष्टिः स॑सूव॒स्थवि॑रं तवा॒गाम॑नाधृ॒ष्यं वृ॑ष॒भं तुम्र॒मिंद्रं॑।  
+> अरी॑ळ्हं व॒त्सं च॒रथा॑य मा॒ता स्व॒यं गा॒तुं त॒न्न॑ इ॒च्छमा॑नं॥
+
+> *gṛṣṭiḥ sasūvasthaviraṃ tavāgāmanādhṛṣyaṃ vṛṣabhaṃ tumramiṃdraṃ|*  
+> *arīḷhaṃ vatsaṃ carathāya mātā svayaṃ gātuṃ tanna icchamānaṃ‖*
+
+### Printed p. 1002
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृष्टिः । ससूव । स्थविरं । तवागां । अनाधृष्य । वृषभं । तुम्रं । इंद्रं ।  
+> अरीळ्हं । वत्सं । चरथाय । माता । स्वयं । गातुं । तन्वे । इच्छमानं ॥ १० ॥
+
+> *gṛṣṭiḥ | sasūva | sthaviraṃ | tavāgāṃ | anādhṛṣya | vṛṣabhaṃ | tumraṃ | iṃdraṃ |*  
+> *arīḷhaṃ | vatsaṃ | carathāya | mātā | svayaṃ | gātuṃ | tanve | icchamānaṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृष्टिः काचिद्गौर्वत्सं यथा ससूव । सुषुवे । तथा मातेंद्रजनन्यदितिश्चरथाय स्वेच्छया संचरणायेंद्रं ससूव । सुषुवे । कीदृशमिंद्रं । स्थविरं वयसा
+> प्रवृद्धं तवागां प्रवृद्धबलमनाधृष्ट्यं शत्रुभिरनभिभाव्यं वृषभं सेचनसमर्थं
+> तुम्रं प्रेरकमरीळ्हं शत्रुभिरनभिभूतं स्वयं गातुमन्यनिरपेक्षगमनं तन्ने स्वशरीरायेच्छमानमिच्छंतं ॥
+
+##### Gist of the bhāṣya
+
+As a heifer bears a calf, so the mother, Aditi, Indra's mother, bore Indra for roaming at will. What sort of Indra? स्थविरं (*sthaviraṃ*): grown mature in age; तवागां (*tavāgāṃ*): of grown strength; अनाधृष्यं (*anādhṛṣyaṃ*): not to be overcome by enemies; वृषभं (*vṛṣabhaṃ*): able to shower; तुम्रं (*tumraṃ*): impelling; अरीळ्हं (*arīḷhaṃ*): not overcome by enemies; स्वयं गातुं (*svayaṃ gātuṃ*): going of himself, independent of others; and wishing it for his own body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृष्टिः (*gṛṣṭiḥ*)—a well-nourished heifer
+- वत्सं (*vatsaṃ*)—a calf
+- ससूव (*sasūva*)—as having borne
+- माता (*mātā*)—Indra's mother Aditi
+- स्थविरं (*sthaviraṃ*)—one grown in age
+- तवागां (*tavāgāṃ*)—one of great strength
+- अनाधृष्यं (*anādhṛṣyaṃ*)—one not defeated by enemies
+- वृषभं (*vṛṣabhaṃ*)—the fulfiller of desires
+- तुम्रं (*tumraṃ*)—the impeller of all
+- अरीळ्हं (*arīḷhaṃ*)—the unobstructed
+- स्वयं गातुं (*svayaṃ gātuṃ*)—one who roams at will
+- तन्ने इच्छमानं (*tanne icchamānaṃ*)—one intent on protecting his own body
+- इंद्रं (*iṃdraṃ*)—Indra
+- चरथाय (*carathāya*)—for roaming at will
+- ससूव (*sasūva*)—bore
+
+##### भावार्थ (Bhāvārtha)
+
+As a well-nourished heifer bears her calf, Aditi, Indra's mother, bore for roaming at will Indra, who is mature in age, of great strength, undefeated by enemies, the fulfiller of desires, the impeller of all, unobstructed, a roamer at will, and intent on protecting his own body.
+
+##### English translation (H. H. Wilson)
+As a heifer bears a calf, his mother, (Aditi) bore Indra, mature (in years) strong. irresistible, vigorous, energetic, invincible, (destined) to follow his own course, heedful in his person.
+
+### Printed p. 1003
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त मा॒ता म॑हि॒षमन्व॑वेनद॒मी त्वा॑ जहति पुत्र दे॒वाः ।  
+> अथा॑ब्रवीद्वृ॒त्रमिंद्रो॑ हनि॒ष्यन्त्सखे॑ विष्णो वित॒रं विक्र॑मस्व॥
+
+> *uta mātā mahiṣamanvavenadamī tvā jahati putra devāḥ |*  
+> *athābravīdvṛtramiṃdro haniṣyantsakhe viṣṇo vitaraṃ vikramasva‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । माता । महिषं । अनु । अवेनत् । अमी इति । त्वा । जहति । पुत्र । देवाः ।  
+> अथ । अब्रवीत् । वृत्रं । इंद्रः । हनिष्यत् । सखे । विष्णो इति । वितरं । वि ।  
+> क्रमस्व ॥ ११ ॥
+
+> *uta | mātā | mahiṣaṃ | anu | avenat | amī iti | tvā | jahati | putra | devāḥ |*  
+> *atha | abravīt | vṛtraṃ | iṃdraḥ | haniṣyat | sakhe | viṣṇo iti | vitaraṃ | vi |*  
+> *kramasva ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे मदीय पुत्रेंद्र अमी वह्नादयो देवास्ता त्वां जहति ।
+> त्यजंति । इत्युक्तवतींद्रस्य मातादितिरिंद्रं महिषं महांतं । महिष इति महन्नामैतत् । अन्ववेनत् । अयाचत । अथानंतरं हे विष्णो व्यापनशील हे सखे
+> मित्रभूत हरे त्वं वृत्रं हनिष्यन् हंतुमिच्छन् वितरं वि क्रमस्व । अतिपराक्रमा
+> भवेतींद्रो विष्णुमब्रवीत् । उवाच ॥
+
+##### Gist of the bhāṣya
+
+"And, O my son Indra, these gods, Agni and the rest, forsake you": having said this, Indra's mother Aditi implored Indra, the महिष (*mahiṣa*), the great one (mahiṣa is a name meaning "great"); अन्ववेनत् (*anvavenat*) means "she begged". Thereafter Indra said to Viṣṇu: "O Viṣṇu, the all-pervading, O friend, O Hari who are a companion, wishing to slay Vṛtra, stride out beyond (all others); be exceedingly valiant."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- पुत्र (*putra*)—O Indra
+- अमिः देवाः (*amiḥ devāḥ*)—these gods, Agni and the rest
+- त्वा (*tvā*)—you
+- जहति (*jahati*)—if they abandon (leave)
+- माता (*mātā*)—the mother Aditi
+- महिषं (*mahiṣaṃ*)—the great Indra
+- अन्ववेनत् (*anvavenat*)—asked
+- अथ (*atha*)—thereafter
+- इंद्रः (*iṃdraḥ*)—Indra
+- विष्णुं (*viṣṇuṃ*)—to Viṣṇu
+- सखे (*sakhe*)—O friend
+- विष्णो (*viṣṇo*)—O Viṣṇu, the all-pervading
+- वृत्रं (*vṛtraṃ*)—Vṛtra the asura
+- हनिष्यन् (*haniṣyan*)—wishing to kill
+- वितरं (*vitaraṃ*)—exceedingly
+- वि क्रमस्व (*vi kramasva*)—"become valiant," said
+- अब्रवीत् (*abravīt*)—he said **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Aditi asked: "O Indra, my son, have the gods, Agni and the rest, abandoned your friendship?" Immediately Indra said to Viṣṇu: "O friend Viṣṇu, you are all-pervading and a well-wisher to me. Wishing to slay the asura Vṛtra, gain exceeding valour."
+
 ---
 
-**Progress note:** Done through printed p. 997. pp. 992-997 (batch API)
+**Progress note:** Done through printed p. 1003. pp. 998-1003 (batch API)
