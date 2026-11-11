@@ -9232,6 +9232,228 @@ These two, Heaven and Earth, विश्वेज्जनिम (*viśvejjanim
 - विषुणं (*viṣuṇaṃ*)—being of manifold forms
 - वि (*vi*)—are placed (between Heaven and Earth)
 
+### Printed p. 248
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth have separated all the beings that have come into being and placed them in their own places. Though they bear the gods, Indra and the others, who are of great nature, they suffer no distress. The whole world, moving and stationary alike, rests on one single place, which is of the form of the earth. The animals and others that move about, and the birds, being of many forms, are established between heaven and earth and move about.
+
+##### English translation (H. H. Wilson)
+These two keep all born things discrete, and, although comprehending the great divinities, are not distressed : all moving and stationary beings rest upon one (basis), whether animals, or birds, or creatures of various kinds.
+
+##### विशेषविषयगळु (Special Topics)
+
+By the sentences एते विश्वेत् संविविक्तः महः देर्वा बिभ्रती न व्यथेते (*ete viśvet saṃviviktaḥ mahaḥ dervā bibhratī na vyathete*) it is made clear that heaven and earth provide room for all living beings to exist separately; and that, although they bear gods such as Indra, who are of abundant power, and also rivers, oceans and mountains, no distress arises in them from this. The greatness of heaven and earth is described both because the earth bears the beings that exist in stationary and moving forms, and because the atmosphere provides room for the birds, which are of the nature of moving creatures.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॑ पुरा॒णमध्ये॑म्या॒रान्म॒हः पि॒तुर्ज॑नि॒तुर्जा॒मि तन्नः॑ ।  
+> दे॒वासो॒ यत्र॑ पनि॒तार॒ एवै॑रु॒रौ प॒थि व्यु॑ते त॒स्थुरं॒तः ॥ ९ ॥
+
+> *sanā purāṇamadhyemyārānmahaḥ piturjaniturjāmi tannaḥ |*  
+> *devāso yatra panitāra evairurau pathi vyute tasthuraṃtaḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सना । पुराणं । अधि । एमि । आरात् । महः । पितुः । जनितुः । जामि । तत् । नः ।  
+> देवासः । यत्र । पनितारः । एवैः । उरौ । पथि । विउते ! तस्थुः । अंतरिति ॥ ९ ॥
+
+> *sanā | purāṇaṃ | adhi | emi | ārāt | mahaḥ | pituḥ | janituḥ | jāmi | tat | naḥ |*  
+> *devāsaḥ | yatra | panitāraḥ | evaiḥ | urau | pathi | viute ! tasthuḥ | aṃtariti ‖ 9 ‖*
+
+### Printed p. 249
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्यौर्महो महत्याः पितुः सर्वस्य पालयित्रा जनितुर्जनयित्रास्तव
+> पना सनातनं पुराणं पूर्वक्रमागतं नोऽस्माकं तज्ञामि जामित्वं । सर्वमेकस्माज्ञातमिति द्यौर्भगिनी भवति । तादृशं भगिनीत्वं तदारादधुनाध्येमि । स्मरामि । दिवः
+> पितृत्वे जनयित्तृत्वे च मंत्रवर्णः । द्यौर्मे पिता जनिता नाभिरत्र! ऋग्वे १-१६४-३३।
+> इति । यत्र यस्यां दिव्यंतर्मध्य उरौ विस्तीर्णे व्युते विविक्ते पथि नभसि पनितारस्त्वां
+> स्तुवंते देवासो देवा एवैर्गमनसाधनैः स्वैः स्वैर्वाहनैः सहिता: संतस्तस्थुः ।
+> तत्र स्थिता देवा मदीयं स्तोत्रं शृण्वंतिति भावः ॥ पुराणं । पुराशब्दात् शैषिकार्थे सायंचिरमिति ट्युप्रत्ययः । पुराणप्रोक्तेषु ब्राह्मणकल्पेष्टिति निपातनात्तुडभावः । निपातनादेवांतोदात्तत्वं । एमि । इक् स्मरणे । अदादिः । लटि रूपं ।
+> निघातः । व्युते । वेञ् त्यतुसंताने । कर्मणि क्तः । यजादित्वात्संप्रसारणं ।
+> गतिरनंतर इति गतेः प्रकृतिस्वरः । तस्तुः । तिष्ठतेर्लिट रूपं । यत्रयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O Heaven (Dyaus), you are great, the protectress of all and the begetter. That ancient kinship with us, descended in due order from earlier times, is the relation of a sister: it is said that "Dyaus is a sister", since everything is born from one. I now call to mind that sisterhood. For Heaven's being father and begetter there is a mantra text: द्यौर्मे पिता जनिता नाभिरत्र (*dyaurme pitā janitā nābhiratra*) (Ṛ. Saṃ. 1-164-33). In the middle of heaven, in the wide, separated path, the gods, your praisers, stand together with their own vehicles, the means of travel; the meaning is that the gods standing there hear my praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—she who is of great nature
+- पितुः (*pituḥ*)—the protectress
+- जनितुः (*janituḥ*)—the cause of origin, the deity presiding over the heaven-world
+- सना (*sanā*)—eternal
+- पुराणं (*purāṇaṃ*)—come down continuously from of old
+- नः (*naḥ*)—that is with us
+- तत् जामि (*tat jāmi*)—that kinship
+- आरात् (*ārāt*)—now
+- अध्येमि (*adhyemi*)—I call to mind
+- अस्य (*asya*)—of this same heaven
+- अंतः (*aṃtaḥ*)—in the middle
+- उता (*utā*)—that is wide
+- व्युते (*vyute*)—that is separate
+- पथि (*pathi*)—on the path
+- पनितारः (*panitāraḥ*)—those who praise you
+- देवासः (*devāsaḥ*)—Indra and others, of divine nature
+- ऎवैः (*èvaiḥ*)—with their own horses
+- तस्थुः (*tasthuḥ*)—are stationed
+
+##### भावार्थ (Bhāvārtha)
+
+The deity of the heaven-world, who is of great nature, protectress and cause of origin, I now call to mind that eternal kinship with us, come down continuously from of old. In the middle of this same heaven, on the wide and separate path, Indra and the other gods, who praise you and are of divine nature, are stationed with their own horses.
+
+##### English translation (H. H. Wilson)
+I consider at present the eternal and ancient sisterhood to us of you, our great protectress and progenitrix, within whose vast and separated path your eulogists, the gods, travel in their chariots.
+
+### Printed p. 250
+
+##### विशेषविषयगळु (Special Topics)
+
+It is described that the deity Heaven is a kinsman to all who have been born, because she is the cause of their origin and their protectress, and that this kinship has existed from very ancient times. In this matter the mantra दौर्मे पिता जनिता नाभिरत्र (*daurme pitā janitā nābhiratra*) (Ṛ. Saṃ. 1-174-33) is cited. **NOTE**
+It is described that in the heaven-world made by this deity for the gods' travelling, the gods, moving about with their own vehicles, praise this deity Heaven in the separate and wide atmosphere; and that these gods may hear the hymns recited by the Ṛtvijs in the sacrifices performed by the sacrificer.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं सोमं॑ रोदसी॒ प्र ब्र॑वीम्यदू॒दराः॑ शृणवन्नग्निजि॒ह्वाः ।  
+> मि॒त्रः स॒म्राजो॒ वरु॑णो॒ युवा॑न आदि॒त्यासः॑ क॒वय॑ पप्रथा॒नाः ॥ ८० ॥
+
+> *imaṃ somaṃ rodasī pra bravīmyadūdarāḥ śṛṇavannagnijihvāḥ |*  
+> *mitraḥ samrājo varuṇo yuvāna ādityāsaḥ kavaya paprathānāḥ ‖ 80 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं। स्तोमं । रोदसी इति । प्र । ब्रवीमि । यदूदराः। शृणवन् । अग्निजिह्वाः ।  
+> मित्रः । सम्रराजः । वरुणः । युवानः । आदित्यासः । कवयः । पप्रथानाः ॥ १० ॥
+
+> *imaṃ| stomaṃ | rodasī iti | pra | bravīmi | yadūdarāḥ| śṛṇavan | agnijihvāḥ |*  
+> *mitraḥ | samrarājaḥ | varuṇaḥ | yuvānaḥ | ādityāsaḥ | kavayaḥ | paprathānāḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्याविमं युष्मदीयं स्तोमं प्र ब्रवीमि । प्रकर्षण वदामि । ऋदूदराः । ऋदु मृदु उदरं येषां ते ऋदूदराः । यद्वा ।
+> मृदुरुदरे सोमो-येषां ते ऋदूदराः । अग्निजिह्वाः । अग्निर्जिह्वास्थानीयो
+> येषां ते तथोक्ताः । सम्राजः सम्यग्दीप्यमाना युवानो नित्यतरुणाः । यद्वा ।
+> यजमानानभिमतफलैर्मिश्रीकुर्वंतः । कवयः क्रांतदर्शिनः पप्रथानाः स्वानि स्वानि
+> कर्माणः प्रथयंतो मित्रादयो देवाः शृणवन् । तदिदं स्तोत्रं शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, I recite this your praise forcefully. ऋदूदराः (*ṛdūdarāḥ*): those whose belly is soft; or else, those in whose belly the Soma is soft. अग्निजिह्वाः (*agnijihvāḥ*): those whose tongue-substitute is Agni. सम्राजः (*samrājaḥ*): shining well; युवानः (*yuvānaḥ*): ever young; or else, those who mingle the sacrificers with the fruits they desire. कवयः (*kavayaḥ*): far-seeing; पप्रथानाः (*paprathānāḥ*): spreading abroad their own acts. May the gods, Mitra and the rest, hear; let them hear this praise.
+
+### Printed p. 251
+
+> शृणवन् । श्रु श्रवण इत्यस्य लेट्यडागमः । अग्निजिह्वाः । त्रिचक्रादित्वादंतोदात्तत्वं।
+> पप्रथानाः । प्रथ प्रख्यान इत्यस्य कानचि रूपं । चित्तादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+Only grammar is given in this block.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदसी (*rodasī*)—O heaven and earth
+- इमं (*imaṃ*)—this, addressed to you
+- स्तोमं (*stomaṃ*)—the praise
+- प्र ब्रवीमि (*pra bravīmi*)—I recite
+- युदूदराः (*yudūdarāḥ*)—those of soft belly
+- अग्निजिह्वाः (*agnijihvāḥ*)—those who have Agni itself as tongue
+- सम्राजः (*samrājaḥ*)—the shining ones
+- युवानः (*yuvānaḥ*)—the ever young
+- कवयः (*kavayaḥ*)—the far-seeing
+- पप्रधानाः (*papradhānāḥ*)—those who carry out their own duties
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- आदित्यासः (*ādityāsaḥ*)—the Ādityas also
+- शृणवन् (*śṛṇavan*)—may they listen and hear
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, I recite this praise addressed to you. May Mitra, Varuṇa and the Ādityas, who have soft bellies, have Agni as their tongue, are shining, ever young, far-seeing, and fulfil their own duties, listen and hear it.
+
+##### English translation (H. H. Wilson)
+I repeat this hymn, heaven and earth, to you ; and may the soft-bellied, fire-tongued Mitra, royal Varuna, the youtful Adityas, all cognizant of the past, and proclaiming (their own acts), hear it.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋदूदरः- ऋदु मृदु उदरं येषां ते । यद्वा मृदुरुदरे सोमो येषां ते (*ṛdūdaraḥ- ṛdu mṛdu udaraṃ yeṣāṃ te | yadvā mṛdurudare somo yeṣāṃ te*). The word ऋदूदर (*ṛdūdara*) is explained by Yāska (Ni. 6-4) as ऋदूदरसोमो मृदुरुदुरेष्टिति वा (*ṛdūdarasomo mṛdurudureṣṭiti vā*). The nature of the gods is described: their belly is soft, or they bear soft Soma in the belly.
+युवानः—नित्यतरुणाः । यद्वा यजमानान् अभिमतफलैः मिश्रीकुर्वंतः (*yuvānaḥ—nityataruṇāḥ | yadvā yajamānān abhimataphalaiḥ miśrīkurvaṃtaḥ*). The nature of the gods is explained: they are always in youth; or they favour the sacrificers who satisfy them with offerings of oblations, so that their wishes are fulfilled. It is explained that the gods, having such greatness, spreading abroad their duties, receiving oblations only through Agni, and ever shining, may hear the praises of heaven and earth recited by us the sacrificers.
+
+### Printed p. 252
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिर॑ण्यपाणिः सवि॒ता सु॑जि॒ह्वस्त्रिरा दि॒वो वि॒दथे॒ पत्य॑मानः ।  
+> दे॒वेषु॑ च सवितः॒ श्लोक॒मश्रे॒राद॒स्मभ्य॒मा सु॑व स॒र्वता॑तिं ॥
+
+> *hiraṇyapāṇiḥ savitā sujihvastrirā divo vidathe patyamānaḥ |*  
+> *deveṣu ca savitaḥ ślokamaśrerādasmabhyamā suva sarvatātiṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यपाणिः । सविता । सुजिह्वः । त्रिः । आ । दिवः । विदथे । पत्यमानः ।  
+> देवेषु । च । सवितरिति । श्लोकं । अश्रेः । आत् । अस्मभ्यं । आ । सुव । सर्वतातिं ॥११॥
+
+> *hiraṇyapāṇiḥ | savitā | sujihvaḥ | triḥ | ā | divaḥ | vidathe | patyamānaḥ |*  
+> *deveṣu | ca | savitariti | ślokaṃ | aśreḥ | āt | asmabhyaṃ | ā | suva | sarvatātiṃ ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यपाणिः । दानार्थं हिरण्यं पाणौ हस्ते यस्य स तथोक्तः । यद्वा ।
+> देवकर्तृकयागे सवितुर्ऋत्विग्भूतस्य हस्ते प्राशित्रं भक्षणार्थमद्वर्यवो ददुः ।
+> तत्पाशित्रं तस्य हस्तौ चिच्छेद । ततोऽध्वयवो हिरण्ययौ हस्तौ कृत्वा संदधुः ।
+> ततोऽयं हिरण्यपाणिः । तथा च कौषीतकं । सवित्रॆ प्राशित्रं प्रतिजह्रुस्तत्तस्य पाणी
+> प्रचिच्छेद तस्मै हिरण्ययौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति । सुजिह्वः । शोभनवाक् सविता
+> विदथे यज्ञे त्रिस्तिषु सवनेषु दिवो नभसः सकाशादा पत्यमान आगच्छन् भवतीति
+> शेषः । परोऽर्धर्चः प्रत्यक्षः । हे सवितस्त्वं देवेषु स्तोतृषु विद्यमानं च
+> श्लोकं । श्लोक्यतेऽनेनेति श्लोकः स्तोत्रं । तदश्रेः । प्राप्पुहि च । आदनंतरं सर्वतातिं सर्वमपेक्षितं फलमस्मभ्यमा सुव । प्रेरय ॥ हिरण्यपाणिः । हिरण्यशब्दं
+> यास्को बहुधा निर्वक्ति । हिरण्यं कस्माद्ध्रियत आयम्यमानमिति वा ह्रियते
+> जनाज्जनमित्यादिना । नि. २-१० । पाणिशब्दं च निर्विवेच । पाणिः पणायतेः पूजाकर्मणः । नि. २-२६ । इति ॥ हर्य कांतिगत्योः । हर्यतेः कन्यन् हिर चेति कन्यन्
+> हिर इत्ययमादेशो धातोः । नित्वादाद्युदात्तः । बहुव्रीहौ पूर्वपदस्वरः ।
+> पत्यमानः। पद गत्। दिवादिरात्मनेपदी । दकारस्य तकारश्चांदसः । अश्रेः। श्रिञ् सेवायामित्यस्य लजि बहुलं छंदसीति शपो लुक् । चवायोगे प्रथमेति न निघातः .
+> सुव । षू प्रेरणे । तुदादिः । सर्वतातिं । सर्वदेवात्तातिल् स्वार्थिकः । लित्सर्वः ॥
+
+##### Gist of the bhāṣya
+
+हिरण्यपाणिः (*hiraṇyapāṇiḥ*): he in whose hand there is gold for giving. Or else: at a sacrifice performed by the gods, the Adhvaryus gave the Prāśitra to Savitṛ, who was an Ṛtvij, for eating; it cut off his hands, and the Adhvaryus made golden hands and attached them; hence he is golden-handed. So says the Kauṣītaka: सवित्रॆ प्राशित्रं प्रतिजह्रुस्तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्ययौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति (*savitrè prāśitraṃ pratijahrustattasya pāṇī praciccheda tasmai hiraṇyayau pratidadhustasmāddhiraṇyapāṇiriti*). सुजिह्वः (*sujihvaḥ*): of good speech. Savitṛ, at the sacrifice, at the three pressings, comes down from the sky. The second half-verse is direct address: O Savitṛ, accept the praise, श्लोक (*śloka*) (that by which one is praised, a hymn), existing among the gods, the praisers; and then grant us सर्वतातिं (*sarvatātiṃ*), every desired fruit. Yāska explains हिरण्य (*hiraṇya*) in many ways, beginning हिरण्यं कस्माद्ध्रियत (*hiraṇyaṃ kasmāddhriyata*) (Ni. 2-10), and पाणि (*pāṇi*): पाणिः पणायतेः पूजाकर्मणः (*pāṇiḥ paṇāyateḥ pūjākarmaṇaḥ*) (Ni. 2-26).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्यपाणिः (*hiraṇyapāṇiḥ*)—he who has a hand of gold
+- सुजिह्वः (*sujihvaḥ*)—he who has excellent speech
+- सविता (*savitā*)—Savitṛ
+- विदथे (*vidathe*)—at the sacrifice
+- त्रिः (*triḥ*)—at the three pressing times
+- दिवः (*divaḥ*)—from the atmosphere
+
+### Printed p. 253
+- आ पत्यमानः (*ā patyamānaḥ*)—comes down
+- सवितः (*savitaḥ*)—O Savitṛ
+- देवेषु (*deveṣu*)—made for the gods
+- श्लोकं (*ślokaṃ*)—the praise
+- अश्रेः (*aśreḥ*)—accept
+- आत् (*āt*)—thereafter
+- सर्वतातिं (*sarvatātiṃ*)—the fruit desired by all
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- आ सुव (*ā suva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+Savitṛ, who has a hand of gold and excellent speech, comes down to the sacrifice at the three pressing times. O Savitṛ, accept the praise made for the gods. Thereafter provide us with the fruit desired by all.
+
+##### English translation (H. H. Wilson)
+The golden-handed, soft-tongued Savitri is descending from heaven (to be present) thrice (daily) at the sacrifice : accept, Savitri, the praise (recited by) the worshippers, and thereupon grant to us all our desires.
+
+##### विशेषविषयगळु (Special Topics)
+
+हिरण्यपाणिः सविता— दानार्थं हिरण्यं पाणौ यस्य (*hiraṇyapāṇiḥ savitā— dānārthaṃ hiraṇyaṃ pāṇau yasya*). Sāyaṇa explains the meaning as: the god Savitṛ holds gold in his hand for giving; and he gives another meaning for this phrase: यद्वा देवकर्तृकयागे सवितुः ऋत्विगूतस्य हस्ते प्राशित्रं भक्षणार्थमध्वर्यवो ददुः । तत्पाशित्रं तस्य हस्तौ चिच्छेद । ततो अध्वर्यवो हिरण्ययौ हस्तौ कृत्वा संदधुः । ततोऽयं हिरण्यपाणिः (*yadvā devakartṛkayāge savituḥ ṛtvigūtasya haste prāśitraṃ bhakṣaṇārthamadhvaryavo daduḥ | tatpāśitraṃ tasya hastau ciccheda | tato adhvaryavo hiraṇyayau hastau kṛtvā saṃdadhuḥ | tato 'yaṃ hiraṇyapāṇiḥ*). And so the Kauṣītaka: “सवित्रे प्राशित्रं प्रतिजह्रुः तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्ययौ प्रतिदधुः तस्मात् हिरण्यपाणिः (*savitre prāśitraṃ pratijahruḥ tattasya pāṇī praciccheda tasmai hiraṇyayau pratidadhuḥ tasmāt hiraṇyapāṇiḥ*)”. When the gods performed a sacrifice, they offered the oblation into the hand of the god Savitṛ. It cut off his hand. Then the Adhvaryus made a hand of gold and joined it; from this the name Hiraṇyapāṇi became famous: thus the second meaning is explained. It is expressed as a wish that this god come to the sacrificial hall of the sacrificer performing the sacrifice. Yāska has explained the meaning of the word हिरण्य (*hiraṇya*) and of the word पाणि (*pāṇi*): हिरण्यं कस्मात् ध्रियत आयम्यमानमिति ना क्रियते जनाज्जनं (*hiraṇyaṃ kasmāt dhriyata āyamyamānamiti nā kriyate janājjanaṃ*) (Ni. 2-10). पाणिः पणायतेः पूजाकर्मणः (*pāṇiḥ paṇāyateḥ pūjākarmaṇaḥ*) (Ni. 2-26). **NOTE**
+श्लोकं आश्रेः— श्लोक्यते अनेनेति श्लोकः स्तोत्रं (*ślokaṃ āśreḥ— ślokyate aneneti ślokaḥ stotraṃ*). It is described that the god Savitṛ, having come to the sacrificial hall, may hear the praise recited by the Ṛtvijs.
+
 ---
 
-**Progress note:** Done through printed p. 247. pp. 242-247 (batch API, retry 1)
+**Progress note:** Done through printed p. 253. pp. 248-253 (batch API, retry 1)
