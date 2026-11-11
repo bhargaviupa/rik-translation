@@ -31106,6 +31106,267 @@ Sūkta 16. Maṇḍala 4; Anuvāka 2; Sūkta 16. Aṣṭaka 3; Adhyāya 5; Varga
 - आ यातु (*ā yātu*)—may he come and join
 - अस्य (*asya*)—his
 
+### Printed p. 930
+ई इंद्रन (*ī iṃdrana*)—of this Indra: his horses, may they run to us bringing him. In this sacrifice, for that Indra, let us press and prepare the Soma-food, of excellent vigour and ready here. May Indra, praised by us, bring about the attainment of our desired object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरयः (*harayaḥ*)—the horses of this Indra
+- द्रवंतु (*dravaṃtu*)—let them run to us (bringing him)
+- इह (*iha*)—in this sacrifice
+- तस्मै (*tasmai*)—addressed to that Indra
+- सुदक्षं (*sudakṣaṃ*)—of excellent vigour
+- इत् (*it*)—and ready here
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- सुषुम (*suṣuma*)—let us press and prepare
+- गृणानः (*gṛṇānaḥ*)—Indra, praised by us
+- अभिपित्वं (*abhipitvaṃ*)—the attainment of our desired object
+- करते (*karate*)—let him bring about
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who has the Soma of the rjīṣa kind, who is truthful and wealthy, come and join us near. May this Indra's horses bring him near to us. In this sacrifice let us press and prepare the Soma-food that is addressed to Indra alone, of excellent vigour and ready here. May Indra, praised by us, bring about the fulfilment of our desired object.
+
+##### English translation (H. H. Wilson)
+May the truthful Maghavan, the accepter of the spiritless Soma, come to us ; may his horses hasten to us : to him we offer this sacrifice, the very potent beverage : may he grant the fulfilment of our desires.
+
+##### विशेषविषयगळु (Special Topics)
+
+Ṛjīṣī: ऋजीषी—ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वान् इंद्रः ॥ (*ṛjīṣī—ṛjīṣaśabdena niṣpiṣṭo vigatasāraḥ somo 'bhidhīyate | tadvān iṃdraḥ ‖*) Ṛjīṣa means the husks of the Soma plant left over after the juice has been taken by crushing with stones; it is like the husk remaining after the juice of sugar-cane is taken. In the sacrifice there are rites in which juice is taken from the Soma plants and prepared at the three times: morning, midday and evening, called the morning pressing, the midday pressing and the third pressing. In the morning and midday pressings freshly brought Soma plants are crushed and the juice taken. In the third pressing, that is in the evening, fresh Soma plants are not used. The husks left after pressing in the morning and midday are soaked in water and pressed well once more, and with the little juice that comes, three kinds of āśira materials, milk, curds and flour, are mixed and drunk. In the present Ṛk, because Soma mixed with āśira materials is offered to Indra at the time of the third pressing, and because that Soma juice is pressed out from Soma plants already drained, called ṛjīṣa, Indra is described by the word ṛjīṣī.
+
+### Printed p. 931
+## Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ स्य शू॒राध्व॑नो॒ नांते॒ऽस्मिन्नो॑ अ॒द्य सव॑ने मं॒दध्यै॑ ।  
+> शंसा॑त्यु॒क्थमु॒शने॑व वे॒धाश्चि॑कि॒तुषे॑ असु॒र्या॑य॒ मन्म॑ ॥ २ ॥
+
+> *ava sya śūrādhvano nāṃte 'sminno adya savane maṃdadhyai |*  
+> *śaṃsātyukthamuśaneva vedhāścikituṣe asuryāya manma ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्य । शूर । अध्वनः । न । अंते । अस्मिन् । नः । अद्य । सवने । मंदध्यै ।  
+> शंसाति । उक्धं । उशनाइव । वेधाः । चिकितुषे । आसुर्याय । मन्म ॥ २ ॥
+
+> *ava | sya | śūra | adhvanaḥ | na | aṃte | asmin | naḥ | adya | savane | maṃdadhyai |*  
+> *śaṃsāti | ukdhaṃ | uśanāiva | vedhāḥ | cikituṣe | āsuryāya | manma ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर शत्रूणामभिभवसमर्थेंद्र अद्येदानीमस्मिन् सवने माध्यंदिनाख्ये
+> मंदध्यै त्वां मादयितुं नोऽस्मानव स्य । विमुंच । तत्र दृष्टांतः । अध्वनो
+> गंतव्यस्य मार्गस्यांते समीपे नाश्वान्मनुष्या यथा मुंचंति तद्वत् । उशनेव
+> काव्य इव वेधाः शंसिता यजमानो हे इंद्र चिकितुषे सर्वं जानतेऽसुर्यायासुराणां हिंसकाय तुभ्यं मन्म मननीयमुक्थं शस्त्ररूपं स्तोत्रं शंसाति
+> शंसनं करोति ॥
+
+##### Gist of the bhāṣya
+
+O hero, Indra, able to overcome enemies, today at this midday pressing, to gladden you, release us (अव स्य (*ava sya*), "set free"). The illustration: as men let their horses loose near the end of the road to be travelled. Like Uśanas, i.e. Kāvya, the worshipper, the praiser (वेधाः (*vedhāḥ*)), recites to you, O Indra, who know all and are the destroyer of the Asuras, a prayer to be meditated upon (मन्म (*manma*)), a hymn in the form of an uktha-recitation (śastra).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- अद्य (*adya*)—today
+- अस्मिन् सवने (*asmin savane*)—at this midday pressing
+- मंदधै (*maṃdadhai*)—to satisfy you
+- नः (*naḥ*)—us
+- अध्वनः (*adhvanaḥ*)—of the road, the means of travel
+- अंते न (*aṃte na*)—as men leave horses free near it
+- अव स्य (*ava sya*)—release us, leaving us free
+- उशनेव (*uśaneva*)—like Uśanas
+- मेधाः (*medhāḥ*)—the worshipper who praises you **NOTE**
+- चिकितुषे (*cikituṣe*)—to you, the all-knowing
+- असुराय (*asurāya*)—to you, the destroyer of enemies, to offer **NOTE**
+- मन्म (*manma*)—venerable
+- उकथं (*ukathaṃ*)—the hymn in the form of a śastra **NOTE**
+- शंसति (*śaṃsati*)—recites
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, today at this midday pressing, to satisfy you, as a horse is let loose freely on the road, not tied, so do not make us bound but release us free. The worshipper who praises you exceedingly, like the sage Uśanas, recites to you, the all-knowing destroyer of enemies, a venerable hymn in the form of a śastra, to offer to you.
+
+### Printed p. 932
+
+##### English translation (H. H. Wilson)
+Hero, Indra, set us free to-day to give you exhilaration at this sacrifice, as (they let loose a horse) at the end of the road: may the worshipper, like Ushanas, repeat an acceptable prayer to you, the knower (of all things), the destroyer of the Asuras.
+
+## Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विर्न नि॒ण्यं वि॒दथा॑नि॒ साध॒न्‌वृषा॒ यत्सेकं॑ विपिपा॒नो  ॑
+> अर्चात् ।  
+> दि॒व इ॒त्था जी॑जनत्स॒प्त का॒रूनह्ना॑ चिच्चक्रुर्व॒युना॑ गृ॒णंतः॑ ॥
+
+> *kavirna niṇyaṃ vidathāni sādhanvṛṣā yatsekaṃ vipipāno*  
+> *arcāt |*  
+> *diva itthā jījanatsapta kārūnahnā ciccakrurvayunā gṛṇaṃtaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविः । न । निण्यं । विदथानि । साधन् । वृषा । यत् । सेकं । विपिपानः । अर्चात् ।  
+> दिवः । इत्था । जीजनत् । सप्त । कारून् । अह्ना । चित् । चक्रुः । वयुना । गृणंतः॥
+
+> *kaviḥ | na | niṇyaṃ | vidathāni | sādhan | vṛṣā | yat | sekaṃ | vipipānaḥ | arcāt |*  
+> *divaḥ | itthā | jījanat | sapta | kārūn | ahnā | cit | cakruḥ | vayunā | gṛṇaṃtaḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविर्मेधावी निण्यं न । निण्यमित्यंतर्हितनामैतत् । अंतर्हितं गूढमर्थमिव विदथानि वेदनीयानि कार्यजातानि साधन् साधयन् वृषा कामानां वर्षितेंद्रो यद्यदा सेकं सेचनीयं सोमं विपिसानोऽत्यर्थं पिबन् अर्जात्
+> विशेषेणार्चति । सोमपाने श्रद्धां करोतीत्यर्थः । तदानीं दिवोऽमुष्माल्लोकादित्सा सत्यमेव सप्त सप्तसंख्याकान् कारून्रश्मीन् जीजनत् । अजीजनत् ।
+> जनयति । गृणंतः स्तूयमाना रश्मयो वयुना वयुनानि मनुष्याणां ज्ञानान्यह्ना चित् दिवसेनापि चक्रुः । कृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+The sage (kavi), the intelligent one, like something hidden (निण्यमित्यंतर्हितनामैतत् (*niṇyamityaṃtarhitanāmaitat*): niṇya is a name for "hidden"), a concealed matter; Indra, the showerer of desires, accomplishing the things to be known, i.e. the works to be done, when, drinking excessively the pressed Soma, he honours it specially, that is, shows faith in drinking Soma, then from that heaven he truly generates the seven rays (kārūn). The rays, being praised, by day also produce the perceptions (वयुना (*vayunā*)) of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the sage of far-reaching insight
+- निण्यं न (*niṇyaṃ na*)—as one knows a hidden secret truth
+- विदथानि (*vidathāni*)—the duties to be performed
+- साधयन् (*sādhayan*)—accomplishing
+- वृषा (*vṛṣā*)—Indra, the granter of desired objects
+
+### Printed p. 933
+- यत् (*yat*)—when
+- सेकं (*sekaṃ*)—the pressed Soma
+- विपिपानः (*vipipānaḥ*)—drinking abundantly
+- अर्चात् (*arcāt*)—shows faith in drinking Soma (then)
+- दिवः (*divaḥ*)—from heaven
+- इत्या (*ityā*)—being true **NOTE**
+- सप्त कारून् (*sapta kārūn*)—the seven rays
+- जीजनत् (*jījanat*)—creates
+- गृणंतः (*gṛṇaṃtaḥ*)—the rays that praise Indra's power, or the praiseworthy rays
+- वयुना (*vayunā*)—objects for human knowledge
+- अह्ना चित् (*ahnā cit*)—in the daytime
+- चक्रुः (*cakruḥ*)—produce (they bring all things within man's understanding)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who accomplishes the duties to be performed, as a sage knows a hidden secret truth, and who grants desired objects, when he drinks the pressed Soma abundantly and shows exceeding faith in the drinking, then creates from heaven the seven rays of the nature of truth. These most praiseworthy rays in the daytime make all things perceptible to human knowledge.
+
+##### English translation (H. H. Wilson)
+Like a sage (knowing) what is hidden, and fulfilling sacred rites, so the showerer (of benefits), quaffing copiously the effused (libation), exults (in the draught), and this generates the seven efficient (rays) from heaven, which, being glorified, have made (manifest) the objects of (human) perception by day,
+
+## Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व१॒॑गर्यद्वेदि॑ सु॒दृशी॑कम॒र्कैर्महि॒ ज्योती॑ रुरुचु॒र्यद्ध॒  ॑
+> वस्तोः ।  
+> अं॒धा तमां॑सि॒ दुधि॑ता वि॒चक्षे॒ नृभ्य॑श्चकार॒ नृत॑मो अ॒भिष्टौ॑ ॥
+
+> *svagaryadvedi sudṛśīkamarkairmahi jyotī rurucuryaddha*  
+> *vastoḥ |*  
+> *aṃdhā tamāṃsi dudhitā vicakṣe nṛbhyaścakāra nṛtamo abhiṣṭau ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वः । यत् । वेदि । सुदृशीकं । अर्कैः । महि । ज्योतिः । रुरुचुः । यत् । ह । वस्तोः ।  
+> अंधा । तमांसि । दुधिता । विचक्षे । नृभ्यः । चकार । नृतमः । अभिष्टौ ॥ ४ ॥
+
+> *svaḥ | yat | vedi | sudṛśīkaṃ | arkaiḥ | mahi | jyotiḥ | rurucuḥ | yat | ha | vastoḥ |*  
+> *aṃdhā | tamāṃsi | dudhitā | vicakṣe | nṛbhyaḥ | cakāra | nṛtamaḥ | abhiṣṭau ‖ 4 ‖*
+
+### Printed p. 934
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युद्ध यदा खलु महि महत्प्रभूतं ज्योतिस्तेजोरूपं यत्स्वयो
+> द्युलोकोर्कॆ रश्मिभिः सुदृशीकं सुष्टु दर्शनीयं वेदि । अवेदि । ज्ञायते ।
+> तदानीं देवास्तस्मिन् स्वर्गे वस्तोर्निवासार्थं रुरुचुः । दीप्तियुक्ता बभूवुः ।
+> नृतमो नेतृतमः सूर्योऽभिष्टावभ्यागमने नृभ्यो नृणां विचक्षे विशेषेण
+> दर्शनायांधांधकाररूपाणि निविडानि तमांसि दुधिता दुधितानि नाशितानि चकार ।
+> कृतवान् ॥
+
+##### Gist of the bhāṣya
+
+When the great, abundant light of the nature of radiance, the heaven (स्वः (*svaḥ*)), is known as well visible by the rays, then the gods shine, becoming radiant for dwelling in that heaven. The best leader, the Sun, on his approach, for men's clear seeing, destroys the dense glooms, of the form of blinding darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्ध (*yaddha*)—when
+- महि (*mahi*)—abundant
+- ज्योतिः (*jyotiḥ*)—of the nature of radiance
+- यत् स्वः (*yat svaḥ*)—which heaven
+- अर्कैः (*arkaiḥ*)—by the rays
+- सुदृशीकं (*sudṛśīkaṃ*)—well illumined
+- वेदि (*vedi*)—is known (then all the gods also)
+- वस्तोः (*vastoḥ*)—in accord with their dwelling in heaven
+- रुरुचुः (*rurucuḥ*)—shone
+- नृतमः (*nṛtamaḥ*)—the Sun, guide of all
+- अभिष्टौ (*abhiṣṭau*)—at the time of his coming
+- नृभ्यः (*nṛbhyaḥ*)—for men
+- विचक्षे (*vicakṣe*)—for clear seeing
+- अंधा तमांसि (*aṃdhā tamāṃsi*)—the dense darkness
+- दुधिता (*dudhitā*)—so as to be uprooted
+- चकार (*cakāra*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+When heaven, of vast form and of the nature of radiance, is known as brightly illumined by the rays, then all the gods dwelling in heaven became radiant, each according to his dwelling in heaven. The Sun, the leader of all, at the time of his coming, uprooted the dense darkness so that men might see clearly.
+
+##### English translation (H. H. Wilson)
+When the vast luminous heaven manifested by the rays (of light) is displayed, then are (the deities) resplendent according to (their heavenly) abode : the chief of leaders, (Indra), in his approach has scattered the thick glooms so that men may see.
+
+## Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒व॒क्ष इंद्रो॒ अमि॑तमृजी॒ष्यु१॒॑गभे आ प॑प्रौ॒ रोद॑सी महि॒त्वा ।  
+> अत॑श्चिदस्य महि॒मा वि रे॑च्य॒भि यो विश्वा॒ भुव॑ना ब॒भूव॑ ॥ ५ ॥
+
+> *vavakṣa iṃdro amitamṛjīṣyugabhe ā paprau rodasī mahitvā |*  
+> *ataścidasya mahimā vi recyabhi yo viśvā bhuvanā babhūva ‖ 5 ‖*
+
+### Printed p. 935
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववक्षे । इंद्रः । अमितं । ऋजीषी । उभे इति । आ । पप्रौ । रोदसी इति । महित्वा ।  
+> अतः । चित् । अस्य । महिमा । वि । रेचि । अभि । यः । विश्वा । भुवना । बभूव ॥ ५ ॥
+
+> *vavakṣe | iṃdraḥ | amitaṃ | ṛjīṣī | ubhe iti | ā | paprau | rodasī iti | mahitvā |*  
+> *ataḥ | cit | asya | mahimā | vi | reci | abhi | yaḥ | viśvā | bhuvanā | babhūva ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजीषी । ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वानिंद्रः परमैश्वर्ययुक्तोऽमितमियत्तारहितं महिमानं ववक्षे । उवाह । किंच
+> महित्वा महत्वेन स्वेन महिम्नोभे रोदसी उभे द्यावापृथिव्यावा पप्रौ ।
+> समंतादपूरयत् । य इंद्रो विश्वा भुवना सर्वाणि भुवनान्यभि बभूव । तिरश्चकार । अतश्चिदेभ्योऽपि विश्वेभ्यो भुवनेभ्योऽस्येंद्रस्य महिमा वि रेचि । अतिरिरिचे।
+> अधिको बभूवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Ṛjīṣī: by the word ṛjīṣa is meant Soma that is crushed and drained of its essence; Indra, possessed of it and of supreme lordship, bore (ववक्षे (*vavakṣe*), उवाह (*uvāha*)) greatness without measure. Moreover, by his own greatness he filled on all sides both heaven and earth. Indra, who overpowered all the worlds, whose greatness therefore exceeded (वि रेचि (*vi reci*)) even all these worlds, became superior.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषी (*ṛjīṣī*)—who has drunk the Soma of the ṛjīṣa kind
+- इंद्रः (*iṃdraḥ*)—the lord Indra
+- अमितं (*amitaṃ*)—immeasurable greatness
+- ववक्षे (*vavakṣe*)—obtained
+- महित्वा (*mahitvā*)—by his majesty
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ पप्रौ (*ā paprau*)—pervaded completely
+- यः (*yaḥ*)—that same Indra who
+- विश्वा भुवना (*viśvā bhuvanā*)—all the worlds
+- अभि बभूव (*abhi babhūva*)—brought under his control
+- अतश्चित् (*ataścit*)—more than all the worlds
+- अस्य (*asya*)—of Indra
+- महिमा (*mahimā*)—greatness
+- वि रेचि (*vi reci*)—grew exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has drunk the Soma of the ṛjīṣa kind and is the lord, obtained immeasurable greatness. By his majesty he completely pervaded both heaven and earth. That same Indra brought all the worlds under his control; Indra's greatness grew greater than all the worlds.
+
+##### English translation (H. H. Wilson)
+Indra, the accepter of the stale Soma, sustains infinite greatness, and has filled both heaven and earth by his magnitude : therefore has the vast-nes of him who has surpassed all the regions, exceeded (the world).
+
 ---
 
-**Progress note:** Done through printed p. 929. pp. 924-929 (batch API)
+**Progress note:** Done through printed p. 935. pp. 930-935 (batch API)
