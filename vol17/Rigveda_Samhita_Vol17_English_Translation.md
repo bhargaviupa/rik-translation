@@ -18050,6 +18050,94 @@ The root सू (*sū*), from which the word सवितृ (*savitṛ*) comes,
 
 तत्सविता वोऽमृतत्वमासुवदगोह्यं यच्छ्रवयंत ऐतन । त्यं चिच्चमसमसुरस्य भक्षणमेकं संतमकृणुता चतुर्वयं ॥ (*tatsavitā vo 'mṛtatvamāsuvadagohyaṃ yacchravayaṃta aitana | tyaṃ ciccamasamasurasya bhakṣaṇamekaṃ saṃtamakṛṇutā caturvayaṃ ‖*) (Ṛ. Saṃ. 1-110-3).
 
+### Printed p. 561
+
+In the Ṛk (Ṛ. Saṃ. 1-110-3) quoted above, the deed of the Ṛbhus, who by Savitṛ's favour made the single cup (camasa) into four, must be taken as relating to the first creation of the world. Turning a state that is immortal and endless into a mortal form, and so making it finite, is the work of creation. This work of making things limited (bounded) belongs to the deity Savitṛ (or Sūra), the controller of the order of the seasons.
+
+In all the passages यः पार्थिवानि विममे स एतशो रजांसि देवः सविता महित्वना । (*yaḥ pārthivāni vimame sa etaśo rajāṃsi devaḥ savitā mahitvanā |*) (Ṛ. Saṃ. 5-81-3) and मानेनेव तस्थिना अंतरिक्षे वि यो ममे पृथिवीं सूरेयण । (*māneneva tasthinā aṃtarikṣe vi yo mame pṛthivīṃ sūreyaṇa |*) (Ṛ. Saṃ. 5-85-5), the use of the root मा (*mā*) with the prefix वि (*vi*) indicates the controlling work of Savitṛ who is of the form of the sun, and of the sun who is of the form of Savitṛ. It was Savitṛ's work to bring the three worlds, which were formless, into a formed shape. As in the Ṛk 1-110-3 quoted above, so in the Atharva-saṃhitā too there is the description चमस यस्मिन् यशो निहितं विश्वरूपं (*camasa yasmin yaśo nihitaṃ viśvarūpaṃ*) (A. Ve. 10-8-9)**NOTE**. This description is the very one stated in the Īśāvāsyopaniṣad: हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखं (*hiraṇmayena pātreṇa satyasyāpihitaṃ mukhaṃ*) (Īśa. 15)**NOTE**. The word पूष (*pūṣa*) addressed in this mantra of the Īśāvāsya means Sūra (the sun). The prayer here is: "Be the one who opens the face of the true Brahman of the solar orb, hidden by the golden vessel." The Ṛk-saṃhitā describes that the Ṛbhus made the truth, which was covered, imperceptible and beyond the senses, and which in its oneness was formless, into a formed thing, and produced variety so that it might become perceptible to the world. [That in Ṛ. Saṃ. 1-161-11 the word ऋभु (*ṛbhu*) was explained as the sun's rays and the word अगोह्य (*agohya*) as the sun has been stated earlier, in the special topics of that Ṛk.] The Ṛbhus too, the pupils of Savitṛ who is of the form of the sun (Ai. Brā. 3-30), are the sun's rays. But then everything would be included in the sun alone.
+
+This is like Savitṛ's lordship described in sentences such as वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनंति। (*vanāni vibhyo nakirasya tāni vratā devasya saviturminaṃti|*) (Ṛ. Saṃ. 2-38-7) and यस्येंद्रो वरुणो (*yasyeṃdro varuṇo*) (Ṛ. Saṃ. 2-38-9). The lordship of Indra and others is also described by sentences such as एको विश्वस्यभुवनस्य राजा (*eko viśvasyabhuvanasya rājā*) (Ṛ. Saṃ. 3-46-2). Since such descriptions occur for every deity,
+
+### Printed p. 562
+
+another question arises: what then is Savitṛ's distinction? In answer, some have expressed the opinion that such a description is only figurative and holds no distinction; Savitṛ, like the other deities, is one of the lesser particular deities. To know Savitṛ's distinction, the nivid mantra relating to Savitṛ must be recited. For example:
+
+न प्रमिये सवितुर्दैव्यस्य तद्यथा विश्वं भुवनं धारयिष्यति । यत्पृथिव्या वरिमन्ना स्वंगुरिर्वर्षन्दिवः सुवति सत्यमस्य तत् ॥ (*na pramiye saviturdaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati | yatpṛthivyā varimannā svaṃgurirvarṣandivaḥ suvati satyamasya tat ‖*) (Ṛ. Saṃ. 4-55-4)
+
+In mantras of this kind Savitṛ's chief quality is described. Here activities such as the regulation of the universe and the protection of truth are indicated. In the same way,
+
+(5) Varuṇa too, the overseer of Ṛta, is nothing but a particular manifestation of Savitṛ's glory.
+
+In passages such as त्रिपंचाशः क्रीळति व्रात एषां देव इव सविता सत्यधर्मा (*tripaṃcāśaḥ krīḷati vrāta eṣāṃ deva iva savitā satyadharmā*) (Ṛ. Saṃ. 10-34-8), the protection of truth is shown to be Savitṛ's special quality. जगतः स्थातुरुभयस्य यो वशी (*jagataḥ sthāturubhayasya yo vaśī*) (4-53-6): Savitṛ is the master of the whole world, moving and unmoving. विश्वस्य हि श्रुष्टये .... .... .... रमते परिज्मन् (*viśvasya hi śruṣṭaye .... .... .... ramate parijman*) (2-38-2): whether subtle or gross, a thing moves only by his regulation. The Atharvaṇa describes the same in sentences such as देवस्य सवितुः सर्वे कर्म कृण्वंतु मानवाः । (*devasya savituḥ sarve karma kṛṇvaṃtu mānavāḥ |*) (A. Ve. 6-23-3). All this is like the description of the god Varuṇa, overseer of Ṛta. Therefore it must also be examined whether there is a difference between Savitṛ and Varuṇa; whether they are different deities, or two forms of one principle, or one thing described by different qualities.
+
+If certain Saṃhitā sentences are examined, they appear to state the identity of Varuṇa and Savitṛ. For example, प्र त्वा मुंचामि वरुणस्य पाशाद्येन त्वाबध्नात् सविता सुशेवः । (*pra tvā muṃcāmi varuṇasya pāśādyena tvābadhnāt savitā suśevaḥ |*) (Ṛ. Saṃ. 10-85-24): here Varuṇa's noose and Savitṛ's noose are alike. In the commentary Sāyaṇa says that Varuṇa, impelled by Savitṛ, binds the born creatures with his noose. But releasing the person so bound is also Savitṛ's work, or must come about through his grace. That the protection of right conduct, the protection of truth and the regulation of the universe are a common property of Savitṛ and Varuṇa
+
+### Printed p. 563
+
+is clear in the passages 2-38-2; 3-33-6; 4-53-4; 10-34-8; 10-139-3 and others where Savitṛ is described, and in the Ṛks 6-70-1; 7-86-1; 8-41-10; 8-42-1 and others where Varuṇa is described. Because he upholds the order of the universe, Savitṛ is also addressed as Mitra: उत रात्रिमुभयतः परीयस उत मित्रो भवसि देव धर्मभिः (*uta rātrimubhayataḥ parīyasa uta mitro bhavasi deva dharmabhiḥ*) (5-81-4). The purport is that, being lord of the work of sustaining the world, Savitṛ is also famed by the name Mitra. As सर्वस्य प्रसविता (*sarvasya prasavitā*) (the impeller of all), the act of generation is not Savitṛ's work alone; he is also the cause of the world's continuance. बृहत्सुम्मः प्रसवीता निवेशनो जगतः (*bṛhatsummaḥ prasavītā niveśano jagataḥ*) and so on (Ṛ. Saṃ. 4-53-6): thus Savitṛ's greatness is described.
+
+Secondly, it is a noteworthy point that the very well known word असुर (*asura*), an epithet of Varuṇa, is also an epithet of Savitṛ. In passages such as तद्देवस्य सवितुर्वीर्यं महद्वृणीमहे असुरस्य प्रचेतसः (*taddevasya saviturvīryaṃ mahadvṛṇīmahe asurasya pracetasaḥ*) (4-57-1), Savitṛ's power is indicated in describing this special quality. That Savitṛ is praised in the same manner as Varuṇa, the destroyer of sin, shows the quality they share. For example:
+
+अचित्ती यच्च कृमा दैव्ये जने दीनैर्दक्षैः प्रभूती पूरुषत्वता । देवेषु च सवितर्मानुषेषु च त्वं नो अत्र सुवतादनागसः ॥ (*acittī yacca kṛmā daivye jane dīnairdakṣaiḥ prabhūtī pūruṣatvatā | deveṣu ca savitarmānuṣeṣu ca tvaṃ no atra suvatādanāgasaḥ ‖*) (Ṛ. Saṃ. 4-54-3)
+
+"O Savitṛ, if we have sinned through ignorance, through pride, through weakness, or through the weakness common to men, forgive it. If we have reviled a divine person or the gods, forgive it. May no harm come to us." This is a prayer like
+
+यत्किं चेदं वरुण दैव्ये जनेभिद्रोहं मनुष्या ३ श्चरामसि । अचित्ती यत्तव धर्मा युयोपिम मा नस्तस्मादेनसो देव रीरिषः ॥ (*yatkiṃ cedaṃ varuṇa daivye janebhidrohaṃ manuṣyā 3 ścarāmasi | acittī yattava dharmā yuyopima mā nastasmādenaso deva rīriṣaḥ ‖*) (Ṛ. Saṃ. 7-89-5)
+
+Here too the uniformity of the manner of prayer, the single style, is a noteworthy point. Looking at such passages one may say that Varuṇa and Savitṛ are one particular deity reflecting one principle. As the epithet सम्राट् (*samrāṭ*) belongs to Varuṇa, so in many places it indicates Savitṛ's lordship also.
+
+### Printed p. 564
+
+(6) Epithets showing the common nature of Savitṛ and Varuṇa
+
+Two epithet words, अमति (*amati*) and माया (*māyā*), serve to show the unity of the two. Both are epithets denoting power and beauty. In the same manner in which the radiance of the golden Puruṣa within the sun is described, the power and beauty of Savitṛ and Varuṇa are described.
+
+उदु ष्य देवः सविता ययाम हिरण्ययामवतिं यामशिश्रेत् । नूनं भगो हव्यो मानुषेभिर्वि यो रत्ना पुरूवसुर्दधाति ॥ (*udu ṣya devaḥ savitā yayāma hiraṇyayāmavatiṃ yāmaśiśret | nūnaṃ bhago havyo mānuṣebhirvi yo ratnā purūvasurdadhāti ‖*) (Ṛ. Saṃ. 7-38-1)
+
+Here is the description of Savitṛ, who is of golden form; and
+
+ऋतस्य बुध्न उषसामिषण्यन्वषा मही रोदसी आ विवेश । मही मित्रस्य वरुणस्य माया चंद्रेव भानुं वि दधे पुरुत्रा ॥ (*ṛtasya budhna uṣasāmiṣaṇyanvaṣā mahī rodasī ā viveśa | mahī mitrasya varuṇasya māyā caṃdreva bhānuṃ vi dadhe purutrā ‖*) (Ṛ. Saṃ. 3-61-7)
+
+here the description of Varuṇa's power of radiance; the two are alike. These two descriptions tell of the unearthly, supernatural radiance and divine power of one divine principle bearing the names Savitṛ and Varuṇa. As in the first example the word अमति (*amati*) is explained as divine radiance, so in the second too the word माया (*māyā*) is explained as divine radiance. As the word अमति (*amati*) has the epithet हिरण्ययीं (*hiraṇyayīṃ*), the word माया (*māyā*) has the simile चंद्रेव (*caṃdreva*). The nature of the two radiances is the same. In passages such as ऋतेन विश्वं भुवनं वि राजथः सूर‍्यामा धत्तो दिवि चित्रं रथं । (*ṛtena viśvaṃ bhuvanaṃ vi rājathaḥ sūryāmā dhatto divi citraṃ rathaṃ |*) (Ṛ. Saṃ. 5-63-7) and विश्वा रूपाणि प्रति मुंचते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । (*viśvā rūpāṇi prati muṃcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade |*) (Ṛ. Saṃ. 5-81-2), the power is described of spreading their divine radiance over the whole world and making the entire universe attractive. The description of Varuṇa that explains this golden radiance, हिरण्यपक्षं वरुणस्य दूतं (*hiraṇyapakṣaṃ varuṇasya dūtaṃ*) (10-123-6), and the description of Savitṛ in हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् (*hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan*) (Ṛ. Saṃ. 1-35-2) and the like, show the non-difference of the two. Moreover, as Savitṛ is established as being of the nature of the sun on the basis of Vedic sentences, there are clear proofs for saying that Varuṇa too is of the nature of the sun. In the Taittirīya-brāhmaṇa and other texts it is said नारुणो वा अश्वः (*nāruṇo vā aśvaḥ*) (Tai. Brā. 3-9-16-1)**NOTE**. As to the hidden meaning of this horse of Varuṇa, the scholar Eggling, when translating the Śatapatha-brāhmaṇa, said as follows.
+
+##### English translation (H. H. Wilson)
+Varuna's horse is none other than the fiery races who pursue his diurual course across the all-encompassing arch of heaven, the sphere of
+
+### Printed p. 565
+
+Varuna, the all-ruler. It is in the form of the horse that the sun is thus lauded in the hymn in praise of Aswamedha.
+[S. B. E. XLIV: p. XIX to 30]**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+"This horse of Varuṇa, the lord of heaven and earth, is none other than the sun, who undergoes his daily revolution."
+
+By many such proofs it must be said that Varuṇa too is a special manifestation of the sun. This point was set out at length earlier when explaining the mantra sentence ऋतादध्यादधाथे अनृतं (*ṛtādadhyādadhāthe anṛtaṃ*) (1-139-2) and the mantra अनश्वो जातो अनभीशुरर्वा........अचित्तं ब्रह्म जुजुषुर्युवानः (*anaśvo jāto anabhīśurarvā........acittaṃ brahma jujuṣuryuvānaḥ*) (Ṛ. Saṃ. 1-152-5). And in the passages cited here a spiritual principle is stated which joins the sacrificial act, whose principle is hidden and not visible to ordinary sight, with the luminous abode of Varuṇa.
+
+(7) The golden Puruṣa within the sun, who is of Savitṛ's nature.
+
+Thus, if Savitṛ and Varuṇa are both special manifestations of the sun, the description of their golden form amounts to a statement of the sun's nature. The nature of the sun described in the Ṛk-saṃhitā by sentences such as हिरण्ययीं अमतिं (*hiraṇyayīṃ amatiṃ*), and the nature of the Supreme Puruṣa within the sun described in the Upaniṣads and other texts, are one and the same.
+
+तस्य हैतस्य पुरुषस्य रूपं । यथा महारजनं वासः । यथा पांड्वाविकं, यथेंद्रगोपः, यथाग्न्यर्चिः, यथा पुंडरीकं । यथा सकृद्विद्युत्तं ॥ (*tasya haitasya puruṣasya rūpaṃ | yathā mahārajanaṃ vāsaḥ | yathā pāṃḍvāvikaṃ, yatheṃdragopaḥ, yathāgnyarciḥ, yathā puṃḍarīkaṃ | yathā sakṛdvidyuttaṃ ‖*) (Bṛ. U. 2-3-6)
+
+The Bṛhadāraṇyaka's description is that the form of this Supreme Puruṣa shines like a cloth filled with saffron colour, like white silk, like the glow of the crimson indragopa insect, like a flame of fire, like a white lotus, like lightning.
+
+य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः ॥ (*ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣo dṛśyate hiraṇyaśmaśrurhiraṇyakeśa āpraṇakhātsarva eva suvarṇaḥ ‖*) (Chā. U. 1-6-6)
+
+All the beard of this golden Supreme Puruṣa within the sun is golden. The Chāndogya Upaniṣad's description, that from the nails of the feet to the head the form of this Puruṣa is exceedingly radiant and made attractive by divine light, is likewise equal to the description of Savitṛ's radiance quoted above. And this same sun in the Upaniṣads and other texts
+
+### Printed p. 566
+
+is praised in two ways. That the sun carries on the work of the world by his rising and setting movements is perceptible to ordinary sight. But the sun described in sentences such as न वै तत्र न निम्मोच नोदियाय कदाचन (*na vai tatra na nimmoca nodiyāya kadācana*) (Chā. U. 3-11; 1-3) has no rising or setting. For him it is always eternal day. And सकृद्विभातो हैवैष ब्रह्मलोकः (*sakṛdvibhāto haivaiṣa brahmalokaḥ*) (Chā. U. 8-4-2): here is the praise of the radiance of the eternal, supernatural Supreme Puruṣa within the sun, to the effect that the radiance of this divine world is eternal. It is this solar principle that holds all moving and unmoving things in a regulated state. The praise of the sun to be recited at the daily rites after the utterance of the Gāyatrī mantra तत्सवितुर्वरेण्यं (*tatsaviturvareṇyaṃ*) is well known:
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थु षश्च ॥ (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthu ṣaśca ‖*) (Ṛ. Saṃ. 1-15-1)
+
+In this mantra both the sun's sphere of radiance, perceptible to ordinary sight, and the supernatural divine principle are praised. The radiant sun with his rays rises as the eye of Mitra and Varuṇa and pervades heaven and earth. The Supreme Self within this solar orb is like the self that brings unity to the whole world. He who is praised by sentences such as हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत् ॥ स दाधार पृथिवीं द्यामुतेमां ॥ (*hiraṇyagarbhaḥ samavartatāgre bhūtasya jātaḥ patireka āsīt ‖ sa dādhāra pṛthivīṃ dyāmutemāṃ ‖*) (10-121-1) is likewise this same Supreme Self who is of Savitṛ's form. It is therefore proper to state a purport relating to the Supreme Self for the mantra in hand. The commentary written by Bhaṭṭabhāskara on the Taittirīya-saṃhitā for this mantra is as follows.
+
+यो देवस्सविता विश्वस्य प्रसवितास्माकं धर्मादिगोचरा धियः प्रेरयति तस्य स्वभूतं वरेण्यं सर्वैर्भजनीयं भर्गः पापानां तापनं तेजोमंडलात्मकं धीमहि मनसा धारयामः ॥ एवं बोधप्रकाशाभ्यां समस्तस्य प्रपंचस्योपकुर्वाणं श्रेयोऽर्थिभिर्भजनीयं सूर्यात्मना स्थितं पारमेश्वरं तेजः उपास्यत्वेनोपदिश्यते ॥ (*yo devassavitā viśvasya prasavitāsmākaṃ dharmādigocarā dhiyaḥ prerayati tasya svabhūtaṃ vareṇyaṃ sarvairbhajanīyaṃ bhargaḥ pāpānāṃ tāpanaṃ tejomaṃḍalātmakaṃ dhīmahi manasā dhārayāmaḥ ‖ evaṃ bodhaprakāśābhyāṃ samastasya prapaṃcasyopakurvāṇaṃ śreyo 'rthibhirbhajanīyaṃ sūryātmanā sthitaṃ pārameśvaraṃ tejaḥ upāsyatvenopadiśyate ‖*) (Tai. Saṃ. Bhā. 1-5-6-6)
+
+In this commentary, by बोधप्रकाशाभ्यां उपकुर्वाणं (*bodhaprakāśābhyāṃ upakurvāṇaṃ*) two benefits of the sun's radiance are shown: first, the physical light needed for worldly affairs; second, the inner light that helps spiritual knowledge, that is, divine knowledge. Both benefits are possible through Savitṛ's bhargas. The commentary of Mahīdharācārya on this same mantra in the Śukla-yajus-saṃhitā is as follows—
+
 ---
 
-**Progress note:** Done through printed p. 560. pp. 555-560 (batch API)
+**Progress note:** Done through printed p. 566. pp. 561-566 (batch API)
