@@ -18255,6 +18255,261 @@ Come to sacrifices as flies to honey, (with those horses) that are swift of spee
 > *svadhvarāso madhumaṃto agnaya usrā jaraṃte prati vastoraśvinā |*  
 > *yanniktahastastaraṇirvicakṣaṇaḥ somaṃ suṣāva madhumaṃtamadribhiḥ ‖ 5 ‖*
 
+### Printed p. 464
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुअध्वरासः । मधुमंतः । अग्नयः । उस्रा । जरंते । प्रति । वस्तोः । अश्विना ।  
+> यत्, । निक्तहस्तः । तरणिः । विचक्षणः । सोमं । सुसाव । मधुमंतं । अद्रिभिः ॥५॥
+
+> *suadhvarāsaḥ | madhumaṃtaḥ | agnayaḥ | usrā | jaraṃte | prati | vastoḥ | aśvinā |*  
+> *yat, | niktahastaḥ | taraṇiḥ | vicakṣaṇaḥ | somaṃ | susāva | madhumaṃtaṃ | adribhiḥ ‖5‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वध्वरासः शोभनयागसाधना मधुमंतो होतव्यसोमवंतोऽग्नयो
+> गार्हपत्यादय उस्रा सह निवसंतावश्विन् प्रति वस्तोरन्वहमुषःकाले जरंते ।
+> स्तुवंति । यद्यदा निक्तहस्तः समंत्रेणोदकेन शोधितहस्तस्तरणिः कर्मणस्तारयिता
+> विचक्षणो विविधं द्रष्टाध्वर्युः सोमं मधुमंतमद्रिभिर्ग्रावभिः सुषाव ।
+> अभिषुतवान् । तदा तेऽग्नयः स्तुवंति । तस्मादागच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sacred fires, Gārhapatya and the others, are स्वध्वरासः (*svadhvarāsaḥ*), "accomplishers of the good sacrifice", and मधुमंतः (*madhumaṃtaḥ*), "possessing Soma that is to be offered". They dwell together (उस्रा (*usrā*)) and praise the Aśvins each day at dawn. When (यत् (*yat*), "yadā") the Adhvaryu has pressed the sweet Soma with the pressing stones (ग्रावभिः (*grāvabhiḥ*)), the fires praise. The Adhvaryu is निक्तहस्तः (*niktahastaḥ*), with hands cleansed with water and mantra; तरणिः (*taraṇiḥ*), one who carries the rite across to its end; and विचक्षणः (*vicakṣaṇaḥ*), one who sees in many ways. Therefore the meaning is: "Come."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- निक्तहस्तः (*niktahastaḥ*)—the one whose hands have been purified with mantra-water
+- तरणिः (*taraṇiḥ*)—the one who causes the rite to be performed completely
+- विचक्षणः (*vicakṣaṇaḥ*)—the one who examines and watches the sacrificial acts well; that Adhvaryu
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with sweet juice
+- सोमं (*somaṃ*)—Soma
+- अद्रिभिः (*adribhiḥ*)—with stones
+- सुषाव (*suṣāva*)—presses (then)
+- स्वध्वरासः (*svadhvarāsaḥ*)—those who have the excellent means of sacrifice
+- मधुमंतः (*madhumaṃtaḥ*)—those who have Soma to convey (to the gods)
+- अग्नयः (*agnayaḥ*)—the fires, Gārhapatya and the rest
+- अश्विना (*aśvinā*)—the Aśvin deities
+- प्रति वस्तोः (*prati vastoḥ*)—every day
+- उस्रा (*usrā*)—at dawn
+- जरंते (*jaraṃte*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Whenever the Adhvaryu, whose hands have been purified with mantra-water, who causes the rite to be completed fully and who watches over the sacrificial acts, presses with stones the Soma full of sweet juice, the fires Gārhapatya and the rest, which have the excellent means of sacrifice and have Soma to convey to the gods, praise the Aśvin deities every day at dawn.
+
+##### English translation (H. H. Wilson)
+The sacred fires, the insturments of holy sacrifice, the conveyers of libations, praise the associated Ashwins at the break of day, when the observant (priest) the conductor of the rite, with washed hands has expressed by the (grinding) stones the sweet-favoured Soma juice.
+
+### Printed p. 465
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒के॒नि॒पासो॒ अह॑भि॒र्दवि॑ध्वतः॒ स्व१॒॑ १ र्ण शु॒क्रं त॒न्वंत॒ आ रजः॑ ।  
+> सूर॑श्चि॒दश्वा॑न्युयुजा॒न ई॑यते॒ विश्वा॒ अनु॑ स्व॒धया॑ चेतथस्प॒थः ॥ ६ ॥
+
+> *ākenipāso ahabhirdavidhvataḥ sva 1 rṇa śukraṃ tanvaṃta ā rajaḥ |*  
+> *sūraścidaśvānyuyujāna īyate viśvā anu svadhayā cetathaspathaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आकेऽनिपासः । अहभिः । दविध्वतः । स्वः । न । शुक्रं । तन्वंतः । आ । रजः ।  
+> सूरः । चित् । अश्वान् । युयुजानः । ईयते । विश्वान् । अनु । स्वधया । चेतथः ।  
+> पथः ॥ ६ ॥
+
+> *āke 'nipāsaḥ | ahabhiḥ | davidhvataḥ | svaḥ | na | śukraṃ | tanvaṃtaḥ | ā | rajaḥ |*  
+> *sūraḥ | cit | aśvān | yuyujānaḥ | īyate | viśvān | anu | svadhayā | cetathaḥ |*  
+> *pathaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आकेनिपासः । आके०तिके निपतंतीत्याकेनिपा रश्मयः । ते चाहभिरहोभिर्दविध्वतः कंपयंतो ध्वंसयंतो वा तमांसि । स्वर्न आदित्य इव शुक्रं दीप्तं रज
+> आ तन्नंतो भवंत्यश्विनोरश्वाः । सूरश्चित्तूर्यश्चाश्वान्युयुजानो योजयन्नीयते । गच्छति । हे अश्विनौ युवां विश्वान्पथ आगमनमार्गाननुक्रमेण स्वधयान्नेन
+> सोमलक्षणेन चेतथः । चेतयथः । प्रज्ञापयथः ॥
+
+##### Gist of the bhāṣya
+
+आकेनिपासः (*ākenipāsaḥ*): those that fall (*nipataṃti*) close by (आके (*āke*)) are the rays. With the days (अहभिः (*ahabhiḥ*)) they shake or destroy (दविध्वतः (*davidhvataḥ*)) the darknesses. Like the sun (स्वः न (*svaḥ na*)) they spread out the bright, shining space (रजः (*rajaḥ*)); they are the horses of the Aśvins.**NOTE**. सूरः (*sūraḥ*), the sun too, goes (ईयते (*īyate*)) yoking his horses. O Aśvins, you make known (चेतथः (*cetathaḥ*) = चेतयथः (*cetayathaḥ*), "cause to be perceived") in due order all the paths of coming, by the स्वधया (*svadhayā*), the food in the form of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आकेनिपासः (*ākenipāsaḥ*)—the rays that spread near at hand
+- अहभिः (*ahabhiḥ*)—in the daytimes
+- दविध्वतः (*davidhvataḥ*)—destroying the deep darkness
+- स्वः न (*svaḥ na*)—like the sun
+- शुक्रं (*śukraṃ*)—shining
+- रजः (*rajaḥ*)—the worlds
+- आ तन्वतः (*ā tanvataḥ*)—make them extremely widespread
+- सूरश्चित् (*sūraścit*)—the sun also
+- अश्वान् (*aśvān*)—his horses
+- युयुजानः (*yuyujānaḥ*)—having yoked
+- ईयते (*īyate*)—travels
+- विश्वान् (*viśvān*)—all (of the sun's)
+- पथः (*pathaḥ*)—paths of travel (O Aśvin deities)
+- अनु (*anu*)—following
+- स्वधया (*svadhayā*)—with food in the form of Soma
+- चेतथः (*cetathaḥ*)—make them objects of perception
+
+##### भावार्थ (Bhāvārtha)
+
+The rays that spread near the sun destroy the deep darkness in the daytime and make the worlds, bright like the sun, extremely widespread. The sun also yokes his horses and travels on his paths. O Aśvin deities, following all the paths of the sun's travel, make them all objects of perception by means of the food in the form of Soma.
+
+### Printed p. 466
+
+##### English translation (H. H. Wilson)
+The near-advancing (rays), dispersing (the darkness) by the (light of day), are overspreading the firmament with lustre like the sun : the sun harnessing his horses, (proceeds on his way): do you make known all his paths by (following) after (him) with sacrificial food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वा॑मवोचमश्विना धियं॒धा रथः॒ स्वश्वो॑ अ॒जरो॒ यो  ॑
+> अस्ति ।  
+> येन॑ स॒द्यः परि॒ रजां॑सि या॒थो ह॒विष्मं॑तं त॒रणिं॑ भो॒जमच्छ॑ ॥ ७ ॥
+
+> *pra vāmavocamaśvinā dhiyaṃdhā rathaḥ svaśvo ajaro yo*  
+> *asti |*  
+> *yena sadyaḥ pari rajāṃsi yātho haviṣmaṃtaṃ taraṇiṃ bhojamaccha ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । अवोचं । अश्विना । धियंधाः । रथः । सुअश्वः । अजरः । यः । अस्ति ।  
+> येन । सद्यः । परि । रजांसि । याथः । हविष्मंतं । तरणिं । भोजं । अच्छ ॥ ७ ॥
+
+> *pra | vāṃ | avocaṃ | aśvinā | dhiyaṃdhāḥ | rathaḥ | suaśvaḥ | ajaraḥ | yaḥ | asti |*  
+> *yena | sadyaḥ | pari | rajāṃsi | yāthaḥ | haviṣmaṃtaṃ | taraṇiṃ | bhojaṃ | accha ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धियंधाः कर्मणां धारकोऽहं हे अश्विना वां प्रावोचं । प्रब्रवीमि ।
+> सौमि । स्वश्वोऽजरोऽजीर्णो नित्यनूतनोऽजरयिता वा रथो योऽस्ति । येन
+> रथेन सद्यस्तदानीमेव रजांसि लोकान्परि याथः तेन रथेन हविष्मंतं सोमादिहवियुक्तं तरणिं तारकं शीघ्रगामिनं भोजं भोजयितारमस्मद्यागमच्छ
+> प्राप्तुमागच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"I, the upholder of the rites (धियंधाः (*dhiyaṃdhāḥ*)), speak forth (प्रावोचं (*prāvocaṃ*), "I declare") to you, O Aśvins; I praise."**NOTE** The chariot that is स्वश्वः (*svaśvaḥ*) (well-horsed) and अजरः (*ajaraḥ*) (unaging, ever new, or one that causes no ageing): by that chariot you go around the worlds (रजांसि (*rajāṃsi*)) at once, at that very moment. With that chariot come to us, to our sacrifice, which has oblations (Soma and the rest), is the saviour (तरणिं (*taraṇiṃ*), one that carries across, going swiftly) and is the giver of enjoyment (भोजं (*bhojaṃ*), who feeds); the verb "come" (*āgacchataṃ*), to reach it, is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- धियंधाः (*dhiyaṃdhāḥ*)—I, the manager of the rite
+- वां (*vāṃ*)—addressing you
+- प्रावोचं (*prāvocaṃ*)—praise
+- यः रथः (*yaḥ rathaḥ*)—that chariot of yours which
+- स्वश्वः (*svaśvaḥ*)—has excellent horses
+- अजरः अस्ति (*ajaraḥ asti*)—is free from decay (and)
+- येन (*yena*)—by which chariot
+- सद्यः (*sadyaḥ*)—as soon as you resolve
+- रजांसि (*rajāṃsi*)—all the worlds
+- परि याथः (*pari yāthaḥ*)—you go round (with that chariot)
+- हविष्मंतं (*haviṣmaṃtaṃ*)—accompanied by oblation
+- तरणिं (*taraṇiṃ*)—protecting (or quickly accomplished)
+- भोजं अच्छ (*bhojaṃ accha*)—to our sacrifice, which yields enjoyment (come)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, I, the manager of the rite, praise you. Come, with that chariot of yours which has excellent horses and is free from decay, and by which you go round all the worlds as soon as you resolve, to our sacrifice, which is accompanied by oblation, protecting, and yielding enjoyment.
+
+### Printed p. 467
+
+##### English translation (H. H. Wilson)
+Celebrating (sacred) rites, I glorify you, Ashwins: well-horsed and undecaying is that chariot, whereby you quickly traverse the regions (of space), and come to (our sacrifice) abounding in oblations, promytly passing away, and the yielder of enjoyment.
+
+## Sūkta 46 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके त्रयोदश सूक्तानि । तत्राग्रं पिबेति सप्तर्चं प्रथमं
+> सूक्तं वामदेवस्यार्षं गायत्रं । कृत्स्नमिंद्रवायुदेवताकमाद्या केवलनायव्या । तथा चानुक्रांतं । अग्रं वायव्याद्यैंद्रवायवं तु गायत्रमिति ॥
+> सूक्तविनियोगो लैंगिकः । आद्ये द्वे ऐंद्रवायवग्रहस्य याज्ये । तथा च सूत्रितं।
+> अग्रं पिबा मधूनामिति याज्ये अनवानं । आ. ५_५ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the fifth anuvāka there are thirteen sūktas. Of these the first, अग्रं पिब (*agraṃ piba*), has seven ṛks. Its seer is Vāmadeva and its metre Gāyatrī. The whole sūkta has Indra and Vāyu as deity; the first ṛk is solely addressed to Vāyu. So the Anukramaṇī says: अग्रं वायव्याद्यैंद्रवायवं तु गायत्रमिति (*agraṃ vāyavyādyaiṃdravāyavaṃ tu gāyatramiti*). The use of the sūkta is by the sign (लैंगिकः (*laiṃgikaḥ*)). The first two ṛks are the yājyā verses of the Aindravāyava graha. So it has been stated in the sūtra: अग्रं पिबा मधूनामिति याज्ये अनवानं (*agraṃ pibā madhūnāmiti yājye anavānaṃ*) (Ā. 5-5).
+
+##### Anuvāda
+
+In the fifth anuvāka of the fourth maṇḍala there are thirteen sūktas. Of these, the one beginning अग्रं पिब (*agraṃ piba*) is the first sūkta. It has seven ṛks. Vāmadeva is the seer of this sūkta; the first ṛk of this sūkta has Vāyu as its deity; for the remaining ṛks Indra and Vāyu are the deities; the metre is Gāyatrī. In the Anukramaṇī it is said: अग्रं वायव्याद्यैंद्रवायवं तु गायत्रं (*agraṃ vāyavyādyaiṃdravāyavaṃ tu gāyatraṃ*). The use of the sūkta is by the sign. The first
+
+### Printed p. 468
+two ṛks of this sūkta are to be used as yājyā mantras in the oblation of the Aindravāyava graha; this is expounded by the sūtra of the Āśvalāyana Śrauta-sūtra अग्रं पिबा मधूनामिति याज्ये अनवानं (*agraṃ pibā madhūnāmiti yājye anavānaṃ*) (Ā. 5-5).
+
+Sūkta 46
+Maṇḍala 4. Anuvāka 5. Sūkta 46.
+Aṣṭaka 3. Adhyāya 7. Varga 22.
+Number of ṛks in the sūkta: 7.
+Seer: Nāmadeva.**NOTE**
+Deity: 1. Vāyu; 2-7 Indra and Vāyu.
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्रं॑ पिबा॒ मधू॑नां सु॒तं वा॑यो॒ दिवि॑ष्टिषु ।  
+> त्वं हि पू॑र्व॒पा आसि॑ ॥ १ ॥
+
+> *agraṃ pibā madhūnāṃ sutaṃ vāyo diviṣṭiṣu |*  
+> *tvaṃ hi pūrvapā āsi ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्रं । पिब । मधूनां । सुतं । वायो इति । दिविष्टिसु ।  
+> त्वं । हि । पूर्वपाः । असि ॥ १ ॥
+
+> *agraṃ | piba | madhūnāṃ | sutaṃ | vāyo iti | diviṣṭisu |*  
+> *tvaṃ | hi | pūrvapāḥ | asi ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो त्वमग्रमिंद्रादिभ्यः पूर्वं मधूनां मधुररसानां सोमानां
+> संबंधिनं सुतमभिषुतं रसं पिब । कुत्रेति तदुच्यते । दिविष्टिसु दिवः स्वर्गस्य
+> प्रापकेषु यज्ञेषु । यद्वा । अस्माकं दिवः स्वर्गस्यॆषणेषु निमित्तेषु । त्वं हि त्वं
+> खलु पूर्वपा असि । हिशब्दो देव पधिषे पूर्वपेयं । ऋग्वे. ७-९२-१ । इत्यादि.
+> मंत्रांतरप्रसिद्धिद्योतनार्थः । वायोरग्रहानं देवा वै सोमस्य राज्योऽग्रपेये न समपादयन्नहं प्रथमः पिबेयमित्यादिब्राह्मणे । ऐ. ब्रां. २-२५ ।
+> स्पष्टमाम्नातं । तत्र हि वायुराजिं प्रथमं धावित्वाग्रपानं लब्धवान् ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, you first, before Indra and the rest, drink the pressed (सुतं (*sutaṃ*)) juice belonging to the honeyed, sweet-flavoured Somas. Where? That is said: in the दिविष्टिषु (*diviṣṭiṣu*)—in the sacrifices that lead to heaven (दिवः (*divaḥ*), svarga); or else, on occasions of our seeking heaven. "You indeed (त्वं हि (*tvaṃ hi*)) are the first drinker (पूर्वपाः (*pūrvapāḥ*))." The word हि (*hi*) indicates that this is well known from another mantra also, देव पधिषे पूर्वपेयं (*deva padhiṣe pūrvapeyaṃ*) (Ṛg. 7-92-1), and so on. That Vāyu has the first draught is clearly stated in the Brāhmaṇa beginning देवा वै सोमस्य राज्योऽग्रपेये (*devā vai somasya rājyo 'grapeye*) (Ai. Brā. 2-25): there Vāyu ran the race first and obtained the first draught.**NOTE**
+
+### Printed p. 469
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- सुतं (*sutaṃ*)—pressed
+- मधूनां (*madhūnāṃ*)—the Soma juices
+- अग्रं (*agraṃ*)—even before Indra and the other deities
+- पिब (*piba*)—drink
+- दिविष्टिषु (*diviṣṭiṣu*)—in the sacrifices that lead to heaven
+- त्वं हि (*tvaṃ hi*)—you yourself
+- पूर्वपाः (*pūrvapāḥ*)—as the one who drinks before all
+- आसि (*āsi*)—are
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, the Soma juices have been pressed and are ready. Drink them before Indra and the others. In the sacrifices that lead to heaven you yourself are the one who drinks before all.
+
+##### English translation (H. H. Wilson)
+Drink first, Vayu, the effused libation of the Soma at the rites that secure heaven, for you verily are the first drinker.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk it is said that Vāyu is entitled to drink Soma first, before Indra and the other deities. In support of this, the ṛk
+
+आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अंधो मध्यमयामि यस्य देव दधिषे पूर्वपेयं ॥ (*ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te aṃdho madhyamayāmi yasya deva dadhiṣe pūrvapeyaṃ ‖*) (Ṛ. Saṃ. 7-92-1)
+
+is cited, and it is thereby pointed out that there the seer prays that Vāyu should drink Soma first. How Vāyu obtained the foremost place among the gods in the drinking of Soma: there is an ancient story about this in the Aitareya Brāhmaṇa, which we set out here:
+
+देवा वै सोमस्य राज्योऽग्रपेये न समपादयन्नहं प्रथमः पिबेयमहं प्रथमः पिबेयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्वेष्यति स प्रथमः सोमस्य पास्यतीति तथेति त आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विन् । (*devā vai somasya rājyo 'grapeye na samapādayannahaṃ prathamaḥ pibeyamahaṃ prathamaḥ pibeyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujveṣyati sa prathamaḥ somasya pāsyatīti tatheti ta ājimayusteṣāmājiṃ yatāmabhisṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvin |*) (Ai. Brā. 9-25)
+
+In former times all the gods, wishing to drink Soma together, fell into a dispute among themselves as to who should drink Soma first; then among them, "I first, I first, I shall drink"
+
 ---
 
-**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
+**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
