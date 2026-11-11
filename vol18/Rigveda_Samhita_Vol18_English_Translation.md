@@ -1398,6 +1398,203 @@ Indra, the giver of food, be near to us, favourably disposed ; and, anxious for 
 The word स्वधा (*svadhā*) is read among the names of food (Ni. 3-9), the word उपाके (*upāke*) among the names of nearness (Ni. 3-9), and the word अंधः (*aṃdhaḥ*) among the names of food (Ni. 3-9).
 पृष्ठेन (*pṛṣṭhena*)—Here the word पृष्ठ (*pṛṣṭha*) is explained as the hymn sung by the priest called Udgātṛ at the time of the midday pressing. The meaning of the Ṛk is clear.
 
+### Printed p. 37
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यो र॑र॒स्य ऋषि॑भि॒र्नवे॑भिवृ॒क्षो न प॒क्वः सृण्यो॒ न जेता॑ ।  
+> मयो॒ऽ न योषा॑म॒भि मन्य॑मा॒नोच्चा॑ विवक्कि पुरुहू॒तमिंद्रं॑ ॥ ५ ॥
+
+> *vi yo rarasya ṛṣibhirnavebhivṛkṣo na pakvaḥ sṛṇyo na jetā |*  
+> *mayo ' na yoṣāmabhi manyamānoccā vivakki puruhūtamiṃdraṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यः । ररस्ये । ऋषिभिः । नवेभिः । वृक्षः । न । पक्वः । सृण्यः । न । जेता ।  
+> मर्यः । न । योषां । अभि । मन्यमानः । अच्छ । विवक्मि । पुरुहूतं । इंद्रं ॥५॥
+
+> *vi | yaḥ | rarasye | ṛṣibhiḥ | navebhiḥ | vṛkṣaḥ | na | pakvaḥ | sṛṇyaḥ | na | jetā |*  
+> *maryaḥ | na | yoṣāṃ | abhi | manyamānaḥ | accha | vivakmi | puruhūtaṃ | iṃdraṃ ‖5‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पक्वः पक्वफलो वृक्षो न वृक्ष इव । अत्र सृणिशब्दोऽंकुशवाची । तेनायुधमात्रं लक्ष्यते । सृण्य आयुधकुशलो जेता न शत्रुविजया वीरपुरुष इव यो
+> नवेभिर्नवैर्नूतनैर्यषिभिर्वि ररष्टे । विविधं स्तूयते । स्तोताहं पुरुहूतं
+> बहुभिराहूतं तमिंद्रमच्छाभि लक्ष्मीकृत्य विवक्कि । विशेषेण वच्चि । सौमि । तत्र
+> दृष्टांतः । अभि मन्यमानो मदीयेयं योषिदित्यभिजानन्मयो मर्त्यो
+> योषां न स्त्रीमिव तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Like a tree (वृक्षो न (*vṛkṣo na*)) with ripe fruit (पक्वः (*pakvaḥ*)). Here the word सृणि (*sṛṇi*) means the goad, and by it a weapon in general is meant. Like a victorious hero skilled in weapons (सृण्यः (*sṛṇyaḥ*)), who conquers his enemies, he (Indra) who is variously praised by new, recent seers — I, the praiser, turning towards that Indra invoked by many (पुरुहूतं (*puruhūtaṃ*)), praise him specially. The illustration: like a mortal who, thinking "this woman is mine" (अभि मन्यमानः (*abhi manyamānaḥ*)), praises his wife (योषां न (*yoṣāṃ na*)), so I praise Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पक्वः (*pakvaḥ*)—one with ripe fruits
+- वृक्षो न (*vṛkṣo na*)—prosperous like a tree
+- सृण्यः (*sṛṇyaḥ*)—one who has an excellent weapon
+- जेता न (*jetā na*)—who is like a hero conquering enemies
+- यः (*yaḥ*)—which Indra
+- नवेभिः (*navebhiḥ*)—by new
+- ऋषिभिः (*ṛṣibhiḥ*)—by seers
+- वि ररष्टे (*vi raraṣṭe*)—is praised in a special manner
+- पुरुहूतं (*puruhūtaṃ*)—who is called by many
+- इंद्रं (*iṃdraṃ*)—Indra
+- अच्छ (*accha*)—turning to him with reverence
+- अभि मन्यमानः (*abhi manyamānaḥ*)—filled with great pride
+- मर्यः (*maryaḥ*)—a man
+- योषां न (*yoṣāṃ na*)—as he praises his own wife
+- विवक्कि (*vivakki*)—I praise exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is prosperous like a tree with ripe fruit, has an excellent weapon, and is like a hero who conquers enemies; he is praised in a special manner by new seers and is called by many for help. Turning with reverence to that Indra, I praise him exceedingly, like a man full of pride praising his wife.
+### Printed p. 38
+
+##### English translation (H. H. Wilson)
+Like a man boasting of his wife, I glorify that Indra who is invoked of many, who is hymned by recent sages, (who is) like a tree with ripe fruit, like a victorious (warrior), skilful in arms.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vāmadeva states several illustrations concerning the praise of Indra.
+पक्वः वृक्षो न (*pakvaḥ vṛkṣo na*)—As trees laden with ripe fruit bring prosperity and joy to people, so Indra gives wealth and the like in abundance to those who praise him; thus the likeness of a ripe-fruited tree is compared to Indra. The word न (*na*), which occurs three times in this Ṛk, is used in the sense of comparison.
+सृण्यः जेता न (*sṛṇyaḥ jetā na*)—The Bhāṣyakāra explains the word सृणि (*sṛṇi*) as the goad (aṅkuśa), a special weapon. Yāska also says:
+सृणिरंकुशो भवति सरणात् । अंकुशोऽञ्चितेराकुचितो भवतीति वा । नेदीय इत्सृण्यः पक्वमेयात् इत्यपि निगमो भवति । अंतिकतममंकुशादायात्पक्वमौषधमागच्छत्वित्यागच्छत्त्विति । ( (*sṛṇiraṃkuśo bhavati saraṇāt | aṃkuśo 'ñciterākucito bhavatīti vā | nedīya itsṛṇyaḥ pakvameyāt ityapi nigamo bhavati | aṃtikatamamaṃkuśādāyātpakvamauṣadhamāgacchatvityāgacchattviti | (*) (Ni. 5-28)
+He has given this etymology. That is: the word सृणि (*sṛṇi*) means goad. Because the word is formed from the root सृ (*sṛ*), meaning "go, enter", and the goad enters the head of the elephant, it is called सृणि (*sṛṇi*), goad. Or, because the goad is bent like a hook (crooked), the word may be formed from the root अंचति (*aṃcati*). To explain this sense Yāska quotes:
+युनक्त सीरा वि युगा तनुध्वं कृते योन्व वपतेह बीजं । गिरा च श्रुष्टिः सभरा असन्नो नेदीय इत्सृण्यः पक्वमेयात् ॥ (*yunakta sīrā vi yugā tanudhvaṃ kṛte yonva vapateha bījaṃ | girā ca śruṣṭiḥ sabharā asanno nedīya itsṛṇyaḥ pakvameyāt ‖*)
+(Ṛ. Saṃ. 10-101-3)
+### Printed p. 39
+and explains there that the word सृण्यः (*sṛṇyaḥ*) means a crooked, bent goad, that is, a hook used for plucking fruit at the top of a tall tree. In the present Ṛk the meaning is a warrior who fights bearing the goad, or a lance or spear resembling a goad. Therefore the sentence सृण्यः जेता न (*sṛṇyaḥ jetā na*) gives the comparison for Indra's valour and thunderbolt: as a warrior skilled in the use of the sharp weapon called the goad conquers enemy heroes, so Indra, bearing the thunderbolt, conquers enemies; thus an illustration is given for Indra's valour.
+नवेभिः ऋषिभिः वि ररष्टे (*navebhiḥ ṛṣibhiḥ vi raraṣṭe*)—नूतनैः ऋषिभिः विविधं स्तूयते । (*nūtanaiḥ ṛṣibhiḥ vividhaṃ stūyate |*) By new seers, that is, by seers who lived in the time of Vāmadeva or were his contemporaries, Indra is said to be praised. Some seers have described even Agni thus: अग्निःपूर्वभिर्यषिभिरीड्यो नूतनैरुत । (*agniḥpūrvabhiryaṣibhirīḍyo nūtanairuta |*) — Agni is praised by earlier seers and by present ones. Since Indra too is praised by seers of former times, in this Ṛk he is described as पुरुहूतं (*puruhūtaṃ*), one praised and invoked by many seers.
+अभि मन्यमानः मर्यः योषां न विवक्कि (*abhi manyamānaḥ maryaḥ yoṣāṃ na vivakki*)—मदीयेयं योषिदित्यभिजानन् मर्त्यः यथा स्वस्त्रियं प्रशंसति तद्वत् । (*madīyeyaṃ yoṣidityabhijānan martyaḥ yathā svastriyaṃ praśaṃsati tadvat |*) In the world it is customary for people to praise their own, that is, kinsmen, relatives and so on. In the same way men praise their wives and the like, that is, describe their good qualities wholeheartedly. "In the same way I shall praise Indra": thus the seer, describing the example of husband and wife, indicates his own great reverence for Indra.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रिर्न यः स्वत॑वा ऋ॒ष्ट इंद्रः॑ स॒नादे॒व सह॑से जा॒त उ॒ग्रः ।  
+> आद॑र्ता॒ वज्रं॒ स्थवि॑रं॒ न भी॒म उ॒द्वेव॒ कोशं॒ वसु॑ना॒  ॑
+> न्यृष्टं ॥ ६ ॥
+
+> *girirna yaḥ svatavā ṛṣṭa iṃdraḥ sanādeva sahase jāta ugraḥ |*  
+> *ādartā vajraṃ sthaviraṃ na bhīma udveva kośaṃ vasunā*  
+> *nyṛṣṭaṃ ‖ 6 ‖*
+
+### Printed p. 40
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरिः । न । यः । स्वतवान् । ऋष्ट्वः । इंद्रः । सनात् । एव । सहसे । जातः । उग्रः ।  
+> आदर्ता । वज्रं । स्थविरं । न । भीमः । उद्न्याइव । कोशं । वसुना । निऋष्टं ॥६॥
+
+> *giriḥ | na | yaḥ | svatavān | ṛṣṭvaḥ | iṃdraḥ | sanāt | eva | sahase | jātaḥ | ugraḥ |*  
+> *ādartā | vajraṃ | sthaviraṃ | na | bhīmaḥ | udnyāiva | kośaṃ | vasunā | niṛṣṭaṃ ‖6‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरिर्न पर्वत इव स्वतवान् स्वयं प्रवृद्ध ऋष्टो महान् । ऋष्ट इति
+> महन्नाम महत् ब्रध्न ऋष्ट इति तन्नामसु पाठात् । उग्र ओजस्वी य इंद्रः सहसे
+> शत्रोरभिभवाय सनादेव चिरादेव जात उत्पन्नो भीमः शत्रूणां भयंकरः स
+> इंद्र उद्वेद कोशमुदकेन जलपात्रमिव वसुना तेजसा नृष्टं निगतं स्थविरं
+> बृहद्वज्रं न वज्रं च । नेति चार्थे । आदर्ता । आदृतवानासीत् ॥
+
+##### Gist of the bhāṣya
+
+Like a mountain (गिरिर्न (*girirna*)), self-grown (स्वतवान् (*svatavān*)) and great (ऋष्ट (*ṛṣṭa*)); for ऋष्ट (*ṛṣṭa*) is a name for "great", as read in the passage महत् ब्रध्न ऋष्ट इति (*mahat bradhna ṛṣṭa iti*) among the names. Indra, vigorous, who was born long since, for overcoming the enemy, terrible, fearsome to enemies — that Indra, as a water-vessel is filled with water, is filled with splendour (वसुना (*vasunā*)); and he has taken up the great, huge thunderbolt. न (*na*) is used in the sense of "and". आदर्ता (*ādartā*) means "he took up".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरिः न (*giriḥ na*)—like a mountain
+- स्वतवान् (*svatavān*)—one who is firm and has grown great
+- ऋष्ट्वः (*ṛṣṭvaḥ*)—great-souled
+- उग्रः (*ugraḥ*)—vigorous
+- यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra
+- सहसे (*sahase*)—to crush the enemies
+- सनादेव (*sanādeva*)—from very long ago
+- जातः (*jātaḥ*)—born
+- भीमः (*bhīmaḥ*)—terrible (to enemies)
+- कोशं (*kośaṃ*)—a water-vessel
+- उद्ना इव (*udnā iva*)—as shining when filled with water
+- वसुना (*vasunā*)—with splendour
+- नृष्ट्वं (*nṛṣṭvaṃ*)—endowed
+- स्थविरं (*sthaviraṃ*)—of great form
+- वज्रं न (*vajraṃ na*)—the thunderbolt too
+- आदर्ता (*ādartā*)—has held with reverence
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra who is firm and grown great like a mountain, great-souled and vigorous, who was born long ago to crush enemies and is terrible to them, holds the thunderbolt too. As a water-vessel shines when filled with water, so Indra shines holding the thunderbolt.
+
+##### English translation (H. H. Wilson)
+He who is vast aud and self-sustained like a mountain, the radiant and formidable Indra, born of old for the destruction (of the foes of the gods), the wielder of the ancient thunderbolt, charged with splendour, like a jar (filled)·with water.
+### Printed p. 41
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes Indra's surpassing qualities. Indra has a huge body like a mountain, is of great majesty, valiant, was born long ago for the destruction of enemies, is terrible to enemies, and holds the thunderbolt in his hand; so it is described. As a vessel for water, when full of water, shines, that is, looks splendid, so, since in the hand of the valiant Indra there is a gleaming thunderbolt, Indra too appears resplendent: this is the main idea.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यस्य॑ व॒र्तान् ज॒नुषा॒ न्वस्ति॒ न राध॑स आमरी॒ता म॒घस्य॑ ।  
+> उ॒द्वा॒वृ॒षा॒णस्त॑विषीव उग्रा॒स्मभ्यं॑ दद्धि पुरुहूत रा॒यः ॥७॥
+
+> *na yasya vartān januṣā nvasti na rādhasa āmarītā maghasya |*  
+> *udvāvṛṣāṇastaviṣīva ugrāsmabhyaṃ daddhi puruhūta rāyaḥ ‖7‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यस्य । वर्ता । जनुषा । नु । अस्ति । न । राधसः । आमरीता । मघस्य ।  
+> उत्स्‌ववृषाणः । तविषीऽवः । उग्र । अस्मभ्यं । दद्धि । पुरुहूत । रायः ॥ ७ ॥
+
+> *na | yasya | vartā | januṣā | nu | asti | na | rādhasaḥ | āmarītā | maghasya |*  
+> *utsvavṛṣāṇaḥ | taviṣī 'vaḥ | ugra | asmabhyaṃ | daddhi | puruhūta | rāyaḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्य तव कश्चिज्जनुषा जन्मना स्वत्त एव नु सत्यं वर्ता वारयिता
+> नास्ति । राधसो यज्ञादिकर्मणां साधकस्य मघस्य त्वया दीयमानस्य धनस्यामरीता कश्चिदपि नाशयिता नास्ति हे तविषीवो बलवन्नुग्र तेजस्विन् हे पुरुहूत बहुभिराहूतेंद्र उदृवृषाणोऽभीष्ठान् कामान्वर्षकस्यं रायः पश्वादिधनान्यस्मभ्यं
+> स्तोतृभ्यो दद्धि । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, whose (your) by birth itself there is truly no opposer (वर्ता (*vartā*)) at all. There is no one at all who destroys (आमरीता (*āmarītā*)) the wealth (मघस्य (*maghasya*)) given by you, which accomplishes (राधसः (*rādhasaḥ*)) sacrifices and other rites. O mighty (तविषीवः (*taviṣīvaḥ*)), vigorous, O Indra invoked by many (पुरुहूत (*puruhūta*)), showerer of desired objects, give (दद्धि (*daddhi*)) to us, the praisers, riches (रायः (*rāyaḥ*)) such as cattle.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- जनुषा (*januṣā*)—by the nature of your birth
+- यस्य (*yasya*)—to you who (are great-souled)
+- नु (*nu*)—truly
+- वर्ता (*vartā*)—an opposer
+- न अस्ति (*na asti*)—there is none
+- राधसः (*rādhasaḥ*)—of that which accomplishes sacrifices and other rites
+- मघस्य (*maghasya*)—given by you
+### Printed p. 42
+- आमरीता (*āmarītā*)—a destroyer
+- न (*na*)—there cannot be anyone
+- तविषीवः (*taviṣīvaḥ*)—mighty
+- उग्र (*ugra*)—resplendent
+- पुरुहूत (*puruhūta*)—O Indra, called by many
+- उद्ववृषाणः (*udvavṛṣāṇaḥ*)—you who shower desired objects
+- रायः (*rāyaḥ*)—riches such as cattle
+- अस्मभ्यं (*asmabhyaṃ*)—to us, the praisers
+- दद्धि (*daddhi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who possess by the very nature of your origin an unobstructed power, there is no man with power to oppose you. In the same way there is no man who can destroy the wealth that accomplishes sacrifices and other rites and is given by you. O mighty, resplendent Indra, called by many, you who shower desired objects, give to us who praise you riches such as cattle.
+
+##### English translation (H. H. Wilson)
+Of whom there is no opposer by (reason of) his birth, nor any destroyer of the wealth that accomplishes (pious works): powerful and resplendent (Indra), the invoked of many, the showerer (of benefits) bestow upon us riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+जनुषा यस्य नु वर्तान अस्ति (*januṣā yasya nu vartāna asti*)—O Indra, you have been of great strength from the time of your birth. There is no one to face you.
+राधसः मघस्य आमरीता न (*rādhasaḥ maghasya āmarītā na*)—No one can destroy the wealth that you give to those who praise you, for sacrifices and other rites.
+तविषीवः उग्र पुरुहूत उद्ववृषाणः रायः अस्मभ्यं दद्धि (*taviṣīvaḥ ugra puruhūta udvavṛṣāṇaḥ rāyaḥ asmabhyaṃ daddhi*)—O Indra, you are of great strength and resplendent, and many invoke you for sacrifice. You are the showerer (giver) of desired objects to the people who praise you; such as you, provide us, who are praising you, with riches such as wealth in cattle: thus Indra is prayed to.
+The words राधः (*rādhaḥ*), मघं (*maghaṃ*), रायः (*rāyaḥ*) are read among the names of wealth (Ni. 3-9). The word तविषी (*taviṣī*) is read among the names of strength (Ni. 3-8).
+
 ---
 
-**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
+**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
