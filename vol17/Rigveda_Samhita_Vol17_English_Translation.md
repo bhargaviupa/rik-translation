@@ -28327,6 +28327,286 @@ Agni may be the officiating priest at the sacrifice, or the master of the house 
 > *veṣi | hi | adhvariyatāṃ | upavaktā | janānāṃ |*  
 > *havyā | ca | mānuṣāṇāṃ ‖ 5 ‖*
 
+### Printed p. 869
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वरीयतां यज्ञमिच्छतां मानुषाणां मनुसंबंधिनां जनानां हव्या
+> च हव्यानि हविंषि हे अग्ने वेषि हि । कामयसे खलु । उपवक्ताध्वर्युप्रभृतीनां सर्वेषां कर्मणामनुज्ञार्थं मां प्रणयेत्यादिरूपस्य वाक्यस्य वक्ता सन्
+> ब्रह्मा चासि । ब्रह्मा त्वो वदति जातविद्यां । ऋग्वे. १८-७१-११ । इति श्रुतेः । उपवक्ता सर्वेषां कर्मणामवैकल्यार्थमुपद्रष्टा ना सदस्कोऽसि । स हि सप्तदशः
+> कर्मणामुपद्रष्टा भवतीत्यापस्तंबेनोक्तत्वात् ॥
+
+##### Gist of the bhāṣya
+
+"Of those desiring a sacrifice, of the descendants of Manu, the people, you desire the oblations, O Agni." He explains वेषि हि (*veṣi hi*) as "you indeed desire". As उपवक्ता (*upavaktā*) you are the speaker of the sentence beginning "lead me forward", given to authorise all the rites of the Adhvaryu and the others, and you are also the Brahmā priest. He cites the śruti ब्रह्मा त्वो वदति जातविद्यां (*brahmā tvo vadati jātavidyāṃ*) (Ṛg. 18-71-11) **NOTE**. The उपवक्ता (*upavaktā*) is the overseer who watches that no rite is deficient, the member of the assembly, the seventeenth priest, who oversees the rites, as Āpastamba says.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध्वरीयतां (*adhvarīyatāṃ*)—of those who wish to perform the sacrifice
+- मानुषाणां (*mānuṣāṇāṃ*)—of those related to Manu
+- जनानां (*janānāṃ*)—of the sacrificers
+- हव्या च (*havyā ca*)—the oblations also
+- वेषि हि (*veṣi hi*)—you desire, do you not (therefore)
+- उपवक्ता (*upavaktā*)—you are also the Upavaktṛ (one who gives permission to sacrificers and priests at the proper time)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, do you not desire also the oblations of the sacrificers, who wish to perform the sacrifice and are descendants of Manu? Therefore you are also the Upavaktṛ, who gives permission to the sacrificers and priests at the proper time.
+
+##### English translation (H. H. Wilson)
+You, who are the director (of the ceremonial), accept the oblations of devoutly-worshipping men the descendants of Manu.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेषीद्व॑स्य दू॒त्यं१॒॑ १ यस्य॒ जुजो॑षो अध्व॒रं ।  
+> ह॒व्यं मर्त॑स्य॒ वोळ्ह॑वे ॥ ६ ॥
+
+> *veṣīdvasya dūtyaṃ 1 yasya jujoṣo adhvaraṃ |*  
+> *havyaṃ martasya voḷhave ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेषि । इत् । ऊं इति । अस्य । दूत्यं । यस्य । जजोषः । अध्वरं ।  
+> हव्यं । मर्तस्य । वोळ्हवे ॥ ६ ॥
+
+> *veṣi | it | ūṃ iti | asya | dūtyaṃ | yasya | jajoṣaḥ | adhvaraṃ |*  
+> *havyaṃ | martasya | voḷhave ‖ 6 ‖*
+
+### Printed p. 870
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मर्तस्य मनुष्यस्य यस्य यजमानस्याध्वरं यागं हव्यं
+> हविर्वोळ्हवे वोढुं ॥ वहेर्धातोस्तुमर्थे सेसेनस इति तवेन्प्रत्ययः । इत्यादिर्नित्यमित्याद्युदात्तत्वं ॥ जुजोषः सेवेथाः ॥ जुषी प्रीतिसेवनयोः । लेट् ।
+> बहुलं छंदसीति शपः श्लुर्द्विर्भावश्च । लेटोऽडाटावित्यडागमः ॥ अस्य यजमानस्य
+> दूत्यं दूतकर्म वेषीदु । कामयस एव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, of the mortal, the sacrificer, whose sacrifice (अध्वरं (*adhvaraṃ*)) you are pleased with, and whose oblation you are willing to carry (वोळ्हवे (*voḷhave*), to carry), जुजोषः (*jujoṣaḥ*) is "you would serve". Of this sacrificer you desire the messenger's office (दूत्यं (*dūtyaṃ*) = messenger's work); वेषीदु (*veṣīdu*) means "you do desire".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्तस्य (*martasya*)—of the mortal (O Agni)
+- यस्य (*yasya*)—of whichever sacrificer
+- अध्वरं (*adhvaraṃ*)—relating to the sacrifice
+- हव्यं (*havyaṃ*)—the oblation
+- वोळ्हवे (*voḷhave*)—to carry
+- जुजोषः (*jujoṣaḥ*)—you desire (for that very reason)
+- अस्य (*asya*)—of this sacrificer
+- दूत्यं (*dūtyaṃ*)—the messenger's work
+- वेषीदु (*veṣīdu*)—do you not desire?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the sacrificer, a mortal, whose sacrificial oblation you desire to carry, for that same reason do you not also desire to do that same sacrificer's messenger work?
+
+##### English translation (H. H. Wilson)
+You are willing (to fulfil) the office of messenger for the mortal whose oblations at the sacrifice you are pleased to convey.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माकं॑ जोष्यध्व॒रम॒स्माकं॑ य॒ज्ञमं॑गिरः ।  
+> अ॒स्माकं॑ शृणुधी॒ हवं॑ ॥ ७ ॥
+
+> *asmākaṃ joṣyadhvaramasmākaṃ yajñamaṃgiraḥ |*  
+> *asmākaṃ śṛṇudhī havaṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । जोषि । अध्वरं । अस्माकं । यज्ञं । अंगिरः ।  
+> अस्माकं । शृणुधि । हवं ॥ ७ ॥
+
+> *asmākaṃ | joṣi | adhvaraṃ | asmākaṃ | yajñaṃ | aṃgiraḥ |*  
+> *asmākaṃ | śṛṇudhi | havaṃ ‖ 7 ‖*
+
+### Printed p. 871
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरोऽग्ने त्वमस्माकमध्वरमस्मदीयं यागं जोषि । जुषस्व ।
+> सेवस्व । अस्माकमस्मदीयं यज्ञं यजनसाधनं हविश्च जुषस्व । अस्माकमस्मदीयं
+> हवमाह्वानरूपं स्तोत्रं च शृणुधि । शृणु ॥ शृणोतेर्लोण्मध्यमैकवचने सिप् ।
+> तस्य हिरादेशे श्रुवः शृ चेति धातोः श्नुप्रत्ययः शृभावश्च । श्रुशृणुष्यकृवृभ्यश्चंदसीति हेर्धिरादेशः ॥
+
+##### Gist of the bhāṣya
+
+O Angiras Agni, enjoy (जोषि (*joṣi*) = serve) our sacrifice. Enjoy also our यज्ञं (*yajñaṃ*), the means of sacrificing, namely the oblation. Hear our हवं (*havaṃ*), the praise in the form of an invitation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—O Agni
+- अस्माकं (*asmākaṃ*)—our
+- अध्वरं (*adhvaraṃ*)—sacrifice
+- जोषि (*joṣi*)—enjoy
+- अस्माकं (*asmākaṃ*)—our
+- यज्ञं (*yajñaṃ*)—the oblation, the means of the sacrifice (enjoy)
+- अस्माकं (*asmākaṃ*)—our
+- हवं (*havaṃ*)—the praise in the form of an invitation
+- शृणुधि (*śṛṇudhi*)—listen and hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, enjoy our sacrifice. Enjoy our oblation, the means of the sacrifice. Hear our praise in the form of an invitation.
+
+##### English translation (H. H. Wilson)
+Be pleased by our sacrifice; (be pleased) Angiras, by our offering : hear our invocation.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ ते दू॒ळभो॒ रथो॒ऽस्मा अ॑श्नोतु वि॒श्वतः॑ ।  
+> येन॒ रक्ष॑सि दा॒शुषः॑ ॥ ८ ॥
+
+> *pari te dūḷabho ratho 'smā aśnotu viśvataḥ |*  
+> *yena rakṣasi dāśuṣaḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । ते । दुःकदभः । रथः । अस्मान् । अश्नोतु । विश्वतः ।  
+> येन । रक्षसि । दाशुषः ॥ ८ ॥
+
+> *pari | te | duḥkadabhaḥ | rathaḥ | asmān | aśnotu | viśvataḥ |*  
+> *yena | rakṣasi | dāśuṣaḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं येन रथेन विश्वतो विश्वासु सर्वासु दिक्षु गच्छन् दाशुषो
+> हविष्पदात्यन्यजमानान्रक्षसि ! विघ्नेभ्यः पालयसि । त्वदीयो दूळभो दुर्दभो
+
+### Printed p. 872
+
+> दुर्हिंसः स रथोऽस्मान्यजमानान् परि परितः सर्वतोऽश्नोतु । व्याप्पोतु ॥
+> अश्नोतेर्वत्ययेन परस्मैपदं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the chariot by which you, going in all directions, protect (रक्षसि (*rakṣasi*)) the givers of oblations, other sacrificers, from obstacles: that chariot of yours, दूळभः (*dūḷabhaḥ*), hard to injure, let it pervade us, the sacrificers, on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- येन (*yena*)—with which chariot
+- विश्वतः (*viśvataḥ*)—moving in all directions
+- दाशुषः (*dāśuṣaḥ*)—the sacrificers who give oblations
+- रक्षसि (*rakṣasi*)—you protect
+- ते (*te*)—that of yours
+- दूळभः (*dūḷabhaḥ*)—that which cannot be resisted by enemies
+- रथः (*rathaḥ*)—that chariot
+- अस्मान् (*asmān*)—us, the sacrificers
+- परि (*pari*)—around
+- अश्नोतु (*aśnotu*)—let it pervade and be our protector
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the chariot of yours with which, moving in all directions, you protect the sacrificers who give oblations, and which cannot be resisted by enemies, let it be around us, the sacrificers, and be our protector.
+
+##### English translation (H. H. Wilson)
+May your inviolable car, whereby you defend the donors of oblations, be everywhere around us.
+
+## Sūkta 10 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने तमद्येत्यष्टर्चं दशमं सूक्तं नामदेवस्यार्षमाग्नेयं । तथा
+> चानुक्रमणिका । अग्ने तमद्य पदपांक्तं पंचमी महापदपंक्तिरंत्योष्ठिक्
+> चतुर्थी षष्ठुपांत्या वा सप्तम्याः पंचकौ मुख्या तृतीयः सप्तको नवकश्चाष्टम्याः पंचकः पादश्चतुष्कः सप्तकस्त्रैष्टुभश्चति । इदं कृत्स्नमपि सूक्तं पदपंक्तिछंदस्कं पंचकाश्चत्वारः षट्कश्चैकश्चतुर्थश्चतुष्को वा पदपंक्तिरित्युक्तलक्षणोपेतत्वात् । पंचमी तव स्वादिष्टेत्येषा महापदपंक्तिः पंच पंचकाः षट्कश्चैक
+> इति लक्षणसद्भावात् । अंत्या शिना नः सख्येत्येषोष्ठिक्कृंदस्सा । चतुर्थीषष्टिसप्तम
+> आभिष्टे आद्य घृतं न पूतं कृतं चिद्दिष्टेतास्तिस्र उष्णिहः पदपंक्तो वा । अत्र
+> सप्तम्यष्टव्योः पदपंक्तुष्टिहोः परिभाषोक्तपादविच्छेदापवादाय प्रकारांतरेण विच्छेदः कृतः ॥ दशमेऽहनीदं सूक्तमाज्यशस्त्रं । सूत्रितु च । अग्ने तमद्या-
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, अग्ने तमद्य (*agne tamadya*), of eight Ṛks; seer Vāmadeva; deity Agni. He quotes the Anukramaṇikā on the metres: the whole sūkta is of the padapaṅkti metre, defined as four pādas of five syllables and one of six, or else three of five, one of four and one of six. The fifth Ṛk (तव स्वादिष्ठ (*tava svādiṣṭha*)) is mahāpadapaṅkti: five pādas of five and one of six. The last (शिवा नः सख्या (*śivā naḥ sakhyā*)) is in uṣṇih. The fourth, sixth and seventh (अभिष्टे अद्य (*abhiṣṭe adya*), घृतं न पूतं (*ghṛtaṃ na pūtaṃ*), कृतं चिद्दि (*kṛtaṃ ciddi*)) are uṣṇih or padapaṅkti. In the seventh and eighth the pāda-division is made differently from the general rule. On the tenth day this sūkta is the Ājya-śastra. He cites the sūtra अग्ने तमद्याश्वं न स्तोमैरित्याज्यं (*agne tamadyāśvaṃ na stomairityājyaṃ*).
+
+### Printed p. 873
+
+> श्वं न स्तोमैरित्याज्यं । आ. ८-१२ । इति ॥ पिंडपितृयज्ञेऽग्ने तमद्येत्यनयाग्निं
+> प्रत्यागच्छेत् । सूत्रितं च । अग्निं प्रत्येयादग्ने तमद्याश्वं न स्तोमैरिति । आ. २-७
+> इति ॥ पौनराधेयिक्यां स्विष्टकृत्येषैव याज्या । सूत्रितं च । अग्ने तमद्याश्वं न
+> स्तोमैरिति संयाज्ये । आ. २ ८ । इति ॥
+> अनुवादवु—अग्ने तमद्य ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
+> इदरल्लि ऎंटु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; अग्नियु देवतॆयु ; अनु
+> क्रमणिकॆयल्लि—अग्ने तमद्य पदपांक्तं पंचमा महापदपंक्तिरंत्योष्टिक् चतुर्थी
+> षष्टुपांत्या वा सप्तम्याः पंचका मुख्या तृतीयः सप्तको नवकश्चाष्टम्याः
+> पंचकः पादश्चतुष्कः सप्तकस्त्रैष्टुभश्च ऎंदु हेळिरुवुदु. ई सूक्तद ऋक्कुगळॆल्लवू पद
+> पंक्तिश्छंदस्कवु. पंचकाश्चत्वारः षट्कश्चतुर्थश्चतुष्को ना पदपंक्तिः ऎंदरॆ, ऐदैदु
+> अक्षरगळ नाल्कु पादगळू आरुअक्षरगळ ऒंदु पादवू इरुव ऋक्किगॆ पदपंक्तिश्छंदस्सॆंदु हॆसरु ;
+> अथवा ऐदैदु अक्षरगळ मूरु पादगळू नाल्कु अक्षरगळ ऒंदु पादवू, आरु अक्षरगळ ऒंदु
+> पादवू इरुव छंदस्सिगू पदपंक्तिश्छंदस्सॆंदु हॆसरु. ई सूक्तद तव स्वादिष्ठा ऎंब ऐदनॆय
+> ऋक्कु महापदपंक्तिश्छंदस्कवु. पंच पंचकाः षट्कश्चैकः ऎंदु इदर लक्षणवु. ऎंदरॆ, ऐदैदु
+> अक्षरगळ ऐदु पादगळू, आरु अक्षरगळ ऒंदु पादवू इदरल्लिरुववु. ई सूक्तद शिवा नः सख्या
+> ऎंब कॊनॆय ऋक्कु उष्टिक्‌छंदस्कवु. मत्तु अभिष्टे अद्य, धृतं न पूतं, कृतं चिद्दि
+> ऎंब ४, ६, ७ नॆय ऋक्कुगळु उष्टिक् अथवा पदपंक्ति ऎंब छंदस्सिनवु. इल्लि पदपंक्तिश्छंदस्क
+> वाद एळनॆय ऋक्किगू उष्टिक्‌छंदस्कवाद ऎंटनॆय ऋक्किगू पादविच्छेदवु परिभाषॆयल्लि
+> (छंदस् शास्त्रदल्लि) हेळिरुवंतॆ इल्लदॆ अपवादवागि प्रकारांतरदिंद पादविच्छेदमाडलागिदॆ.
+> यज्ञद हत्तनॆय दिवसदल्लि ई सूक्तवन्नु आज्यशस्त्रमंत्र पठनक्कागि उपयोगिसबेकॆंदु आश्वला
+> यनशौतसूत्रद—अग्ने तमद्याश्वं न स्तोमैरित्याज्यं ऎंब सूत्रदिंद (आ. ८-१२) विवृत
+> वागिरुवुदु. पिंडपितृयज्ञदल्लि—अग्ने तमद्य ऎंब ऋक्कन्नु अग्निय अभिमुखवागि निंतु
+> पठिसबेकॆंदु आश्वलायनशौतसूत्रद—अग्निं प्रत्येयादन्ने तमद्याश्वं न स्तोमैः ऎंब
+> सूत्रदिंद (आ. २-७) विवृतवागिरुवुदु. मत्तु पुनराधेयवॆंब इष्टिय स्विष्टकृद्दोमदल्लि
+> अग्ने तमद्य ऎंब ई ऋक्कन्नु याज्यामंत्रवन्नागि पठिसबेकॆंदु आश्वलायनशौतसूत्रद—
+> अग्ने तमद्याश्वं न स्तोमैरिति संयाज्ये ऎंब सूत्रदिंद विवृतवागिरुवुदु. (आ. २-८).
+
+##### Gist of the bhāṣya
+
+In the Piṇḍapitṛyajña one should approach the fire with this Ṛk; the sūtra: अग्निं प्रत्येयादग्ने तमद्याश्वं न स्तोमैरिति (*agniṃ pratyeyādagne tamadyāśvaṃ na stomairiti*) (Ā. 2-7). In the Sviṣṭakṛt of the Paunarādheyī this is the yājyā: अग्ने तमद्याश्वं न स्तोमैरिति संयाज्ये (*agne tamadyāśvaṃ na stomairiti saṃyājye*) (Ā. 2 8).
+
+##### Anuvāda
+
+This sūkta, अग्ने तमद्य (*agne tamadya*), is the tenth sūkta in the first anuvāka. It has eight Ṛks. Vāmadeva is its seer; Agni its deity. The Anukramaṇikā says: अग्ने तमद्य पदपांक्तं पंचमा महापदपंक्तिरंत्योष्टिक् चतुर्थी षष्टुपांत्या वा सप्तम्याः पंचका मुख्या तृतीयः सप्तको नवकश्चाष्टम्याः पंचकः पादश्चतुष्कः सप्तकस्त्रैष्टुभश्च (*agne tamadya padapāṃktaṃ paṃcamā mahāpadapaṃktiraṃtyoṣṭik caturthī ṣaṣṭupāṃtyā vā saptamyāḥ paṃcakā mukhyā tṛtīyaḥ saptako navakaścāṣṭamyāḥ paṃcakaḥ pādaścatuṣkaḥ saptakastraiṣṭubhaśca*). All the Ṛks of this sūkta are in the padapaṅkti metre. पंचकाश्चत्वारः षट्कश्चतुर्थश्चतुष्को ना पदपंक्तिः (*paṃcakāścatvāraḥ ṣaṭkaścaturthaścatuṣko nā padapaṃktiḥ*) means that a Ṛk of four pādas of five syllables each and one pāda of six syllables is called padapaṅkti; or the metre with three pādas of five syllables, one of four and one of six is also called padapaṅkti. The fifth Ṛk of this sūkta, तव स्वादिष्ठा (*tava svādiṣṭhā*), is of the mahāpadapaṅkti metre; its characteristic is पंच पंचकाः षट्कश्चैकः (*paṃca paṃcakāḥ ṣaṭkaścaikaḥ*), that is, five pādas of five syllables and one pāda of six. The last Ṛk, शिवा नः सख्या (*śivā naḥ sakhyā*), is in the uṣṇik metre. The fourth, sixth and seventh Ṛks, अभिष्टे अद्य (*abhiṣṭe adya*), धृतं न पूतं (*dhṛtaṃ na pūtaṃ*), कृतं चिद्दि (*kṛtaṃ ciddi*), are in the metre uṣṇik or padapaṅkti. Here, for the seventh Ṛk, which is padapaṅkti, and the eighth, which is uṣṇik, the division of pādas is made in another manner, as an exception, and not as stated in the parībhāṣā (the science of metre). That this sūkta is to be used on the tenth day of the sacrifice for reciting the Ājya-śastra is explained by the Āśvalāyana Śrautasūtra अग्ने तमद्याश्वं न स्तोमैरित्याज्यं (*agne tamadyāśvaṃ na stomairityājyaṃ*) (Ā. 8-12). That in the Piṇḍapitṛyajña the Ṛk अग्ने तमद्य (*agne tamadya*) is to be recited standing facing the fire is explained by the sūtra अग्निं प्रत्येयादन्ने तमद्याश्वं न स्तोमैः (*agniṃ pratyeyādanne tamadyāśvaṃ na stomaiḥ*) (Ā. 2-7). And that in the Sviṣṭakṛt-homa of the iṣṭi called Punarādheya this Ṛk is to be recited as the yājyā is explained by the sūtra अग्ने तमद्याश्वं न स्तोमैरिति संयाज्ये (*agne tamadyāśvaṃ na stomairiti saṃyājye*) (Ā. 2-8).
+
+### Printed p. 874
+
+> सूक्त-१०
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—१० ॥
+> अष्टक—३॥ अध्याय—५ ॥ वर्ग—१० ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—८ ॥
+> ऋषि:—वामदेवः ॥
+> देवता—अग्निः ॥
+> छंदः—१-३, पदपंक्ति: । ४, ६, ७, उष्णिक् पदपंक्तिर्वा ।
+> ५. महापदपंक्ति: । ८. उष्णिक् ॥
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ तम॒द्याश्वं॒ न स्तोमैः॒ क्रतुं॒ न भ॒द्रं हृ॑दि॒स्पृशं॑।  
+> ऋ॒ध्यामा॑ त॒ ओहैः॑ ॥ १ ॥
+
+> *agne tamadyāśvaṃ na stomaiḥ kratuṃ na bhadraṃ hṛdispṛśaṃ|*  
+> *ṛdhyāmā ta ohaiḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । तं । अद्य । अश्वं । न । स्तोम्यः । क्रतुं । न । भद्रं । हृदिस्पृशं ।  
+> यध्याम । ते । ओहैः ॥ १ ॥
+
+> *agne | taṃ | adya | aśvaṃ | na | stomyaḥ | kratuṃ | na | bhadraṃ | hṛdispṛśaṃ |*  
+> *yadhyāma | te | ohaiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अद्यास्मिन्नहनि वयमृत्विगादय ओहैरिंद्रादिप्रापकैः स्तोमैः
+> स्तोत्रसमूहैस्तं प्रसिद्धं त्वामृध्याम । समर्धयामः । कीदृशं त्वां । अश्वं न
+> वोढारमश्वमिव तथा हविषो वाहकं क्रतुं न कर्तारमिव । उपकर्तारमित्यर्थः ।
+> तथा भद्रं भजनीयं हृदिस्पृशं हृदयंगमं । आतिशयेन प्रियमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, today, on this day, we, the priests and others, make you prosper with praises (स्तोमैः (*stomaiḥ*), groups of hymns) that convey to Indra and the others (ओहैः (*ohaiḥ*)); you, the well-known. How? Like a horse (अश्वं न (*aśvaṃ na*)), a bearer, so also the carrier of the oblation; like a क्रतुं न (*kratuṃ na*), a doer, that is, a benefactor; and also भद्रं (*bhadraṃ*), worthy of being resorted to, हृदिस्पृशं (*hṛdispṛśaṃ*), going to the heart, that is, exceedingly dear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अश्वं न (*aśvaṃ na*)—like a horse in carrying our oblations
+- क्रतुं न (*kratuṃ na*)—like a benefactor
+- भद्रं न (*bhadraṃ na*)—the maker of good fortune
+- हृदिस्पृशं (*hṛdispṛśaṃ*)—the dearest to the heart
+- तं (*taṃ*)—the well-known
+- ते (*te*)—you
+- ओहैः (*ohaiḥ*)—(which convey our wishes to Indra and the others)
+- स्तोमैः (*stomaiḥ*)—by groups of praisers
+- ऋध्याम (*ṛdhyāma*)—we make you prosper
+
 ---
 
-**Progress note:** Done through printed p. 868. pp. 863-868 (batch API)
+**Progress note:** Done through printed p. 874. pp. 869-874 (batch API)
