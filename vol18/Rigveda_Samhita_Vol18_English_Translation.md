@@ -25926,6 +25926,111 @@ When a dispute arose between Speech and Mind about the particular merit of each,
 
 आत्रेयाय हिरण्यं ददाति यत्र वा अदः प्रातरनुवाकमन्वाहुस्तद्ध स्मैतत्पुरा शंग्‌संतृत्रिर्ना ऋषीणाग्ं होतासाथैतत्सदोऽसुरतमसमभिपुपुवे त ऋषयोऽत्रिमब्रुवन्नेहि प्रत्यज'दं तमोऽपजहेति (*ātreyāya hiraṇyaṃ dadāti yatra vā adaḥ prātaranuvākamanvāhustaddha smaitatpurā śaṃgsaṃtṛtrirnā ṛṣīṇāgṃ hotāsāthaitatsado 'suratamasamabhipupuve ta ṛṣayo 'trimabruvannehi pratyaja 'daṃ tamo 'pajaheti*)
 
+### Printed p. 676
+
+##### विशेषविषयगळु (Special Topics)
+
+स एतत्तमोऽपाहन्नयं वै ज्योतिर्य इदं तमोऽपाबधीदिति तस्मा एतज्योतिर्हिरण्यं दक्षिणामनयज्योतिर्हि हिरण्यं तद्वै स तत्तेजसा वीर्येणर्षिस्तमोऽपजघानाथैष एतेनैमैतज्योतिषा तमोऽपहंति तस्मादात्रेयाय हिरण्यं दधाति ॥ (*sa etattamo 'pāhannayaṃ vai jyotirya idaṃ tamo 'pābadhīditi tasmā etajyotirhiraṇyaṃ dakṣiṇāmanayajyotirhi hiraṇyaṃ tadvai sa tattejasā vīryeṇarṣistamo 'pajaghānāthaiṣa etenaimaitajyotiṣā tamo 'pahaṃti tasmādātreyāya hiraṇyaṃ dadhāti ‖*) (Śa. Brā. 4-3-4-21)
+
+Once the Ṛtviks were reciting the Prātaranuvāka in front of the sacrificial altar. At that time Atri the seer was the Hotṛ among those Ṛtviks. Then a pitch darkness, the power of the Asuras, came and covered the whole assembly of the sadasyas. All the seers then begged Atri: "Please come here and destroy this pitch darkness." He at once destroyed that darkness. The seers were all amazed, and understanding "This one is the very embodiment of light", they brought him gold. Gold is light. With the help of that light Atri destroyed the darkness that belonged to the Asuras. Therefore, in the present case too, he destroys the darkness with that same light. In return for that, "Give gifts of gold to the seers born in the Atri lineage": thus Atri is praised. This same divine radiance is spoken of in the Bṛhaddevatā also:
+
+अभ्यवादयतामत्रिं महर्षिं दीप्ततेजसं । (*abhyavādayatāmatriṃ maharṣiṃ dīptatejasaṃ |*) (Bṛ. De. 5-65 **NOTE**)
+
+The father and son both bowed to Atri, the great seer of blazing radiance; thus the luminous nature of Atri is praised. In the Bṛhaddevatā passage quoted above, the epithet सूर्यानलसमद्युतिः (*sūryānalasamadyutiḥ*) ("of splendour equal to the sun and fire") describes Atri's divine nature. It is a notable point, and shows his great majesty, that this seer with his light not only destroyed the darkness that obstructs human beings, but also helped Sūrya, the very support of radiance in the divine world. But in these circumstances room remains for another doubt. When he himself had fallen into darkness:
+
+याभिः शुचंतिं धनसां सुषंसदं तप्तं घर्ममोम्यावंतमत्रये । ( (*yābhiḥ śucaṃtiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvaṃtamatraye | (*) (Ṛ. Saṃ. 1-112-7)
+
+यद्वां दंसोभिरश्विनात्रिर्नराववर्तति । (*yadvāṃ daṃsobhiraśvinātrirnarāvavartati |*) (Ṛ. Saṃ. 5-23-7)
+
+युवमृबीसमुत तप्तमत्रय ओमन्वंतं चक्रथुः सप्तवध्रये ॥ (*yuvamṛbīsamuta taptamatraya omanvaṃtaṃ cakrathuḥ saptavadhraye ‖*) (Ṛ. Saṃ. 10-39-9)
+
+### Printed p. 677
+In all these places it is told that the Aśvin deities protected Atri, who had fallen into pitch darkness. The explanation of that story is this: the Asuras once pushed Atri into a fire-pit; he prayed to the Aśvin deities. They came, quenched the fire with rain-water, and lifted him out. Afterwards he obtained the power to restrain the Asura, it is said. When there was an occasion on which Atri sought the help of other deities for his own protection, is it not self-contradictory to say that by his own natural power he destroyed Asuras and others and helped the deities and the other seers? Such a question naturally arises. But it is not hard to give an answer. In the Mantra 1. 112. 7 quoted above, for the phrase तप्तं घर्म० ओम्यावंतं । (*taptaṃ gharma0 omyāvaṃtaṃ |*) Sāyaṇa quotes the view of Yāska: यास्कपक्षे तु अत्रये हविषामत्रेऽग्नये हविरुत्पत्यर्थ० सूर्यकिरणसंतप्तं घर्म० नैदाघं अहः ओम्यावंतं तृप्तिहेतुवृष्टुदकोपेतं कृतवंत् इति योज्यं (*yāskapakṣe tu atraye haviṣāmatre 'gnaye havirutpatyartha0 sūryakiraṇasaṃtaptaṃ gharma0 naidāghaṃ ahaḥ omyāvaṃtaṃ tṛptihetuvṛṣṭudakopetaṃ kṛtavaṃt iti yojyaṃ*). That is, in Yāska's view the word Atri means the fire that eats the oblation. For such a fire, they made the day, heated by the sun's rays and belonging to the summer season, accompanied by satisfying rain-water; this is the purport. The epithets that show the identity of Agni and Atri also help this sense. For example:
+
+ऋषिं नरावंहसः पांचजन्यमृबीसादत्रिं मुंचथो गणेन । (*ṛṣiṃ narāvaṃhasaḥ pāṃcajanyamṛbīsādatriṃ muṃcatho gaṇena |*) (Ṛ. Saṃ. 1-117-3)
+
+Here the word Pāñcajanya is an epithet of Atri. And:
+
+अग्निर्यषिः पवमानः पांचजन्यः पुरोहितः । तमीमहे महागयं ॥ (*agniryaṣiḥ pavamānaḥ pāṃcajanyaḥ purohitaḥ | tamīmahe mahāgayaṃ ‖*) (Ṛ. Saṃ. 9-66-20)
+
+In such places this same word Pāñcajanya is an epithet of Agni the seer. In both places the same etymology and explanation are given for this epithet. In such contexts there are epithets that denote non-difference of Agni and Atri; and not only such epithets which teach a common quality, but also on the basis of descriptions that teach the identity of Agni and Atri in many other respects, to construct the meaning is one way. Besides this:
+
+अग्निरत्रिं घर्म उरुष्यदंतरग्निर्नृमेधं प्रजयासृजत्सं ॥ (*agniratriṃ gharma uruṣyadaṃtaragnirnṛmedhaṃ prajayāsṛjatsaṃ ‖*) (Ṛ. Saṃ. 10-80-3)
+
+In such contexts, where there are descriptions such as that Agni protected Atri who was in distress in the Ṛbīsa, a difference between the two is indicated. Such contexts also give room for doubt. But on further examination this doubt too is resolved.
+
+### Printed p. 678
+Since the fortieth sūkta of the fifth maṇḍala describes the divine nature of Atri, it is most necessary here to understand the purport of that sūkta. Indra and Sūrya are the chief deities praised in this sūkta. Along with them Atri too, regarded from the standpoint of a deity, is praised like Indra and the others. The main point of this sūkta, which shows the greatness of the seer Atri, is to be understood.
+
+स्वर्भानोरध यदिंद्र माया अवो दिवो वर्तमाना अवाहन् । गूह्लं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविंददत्रिः ॥ (*svarbhānoradha yadiṃdra māyā avo divo vartamānā avāhan | gūhlaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāviṃdadatriḥ ‖*) (Ṛ. Saṃ. 5-40-6 **NOTE** **NOTE**)
+
+अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अघुक्षत् । (*atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā aghukṣat |*) (5-40-8)
+
+In these Ṛks the supernatural power of Atri is described. When Svarbhānu overpowered Sūrya and produced darkness, the seer Atri destroyed the darkness and caused Sūrya to shine, it is said. That no one else could accomplish this great deed except Atri is clear in the sentence अत्र यस्तमन्नविंदन्न ह्यनिन्ने अशक्षुवन् (*atra yastamannaviṃdanna hyaninne aśakṣuvan*) (5-40-9). What the word Svarbhānu means in this context, and what it means that Svarbhānu, of Asura nature, hid Sūrya, will be explained exactly in the special topics of the respective Mantra. Since the present context describes the greatness of the great seer Atri, this occasion has been cited. The same point is cited in the Kauṣītaki Brāhmaṇa also, praising Atri; there the circumstance is told in the form of a story.
+
+"The Asura named Svarbhānu covered Sūrya with darkness. The Atris wished to destroy this darkness. With the help of the seventeenfold stoma they performed a sacrifice of the Traihīna kind before the Viṣuvat. Then it became possible to destroy the darkness in front. Then that darkness covered the rear of Āditya; then too they performed the same sacrifice after the Viṣuvat. Then the darkness at the back was destroyed. Therefore those who perform the Traihīna sacrifice with the help of the seventeenfold stoma on both sides of the Viṣuvat will destroy the darkness in both worlds. That is also famed as the Svarasāman. With its help alone the Atris were able to free Āditya from the darkness. This very greatness of the Atris is praised in the Mantra यं वै सूरं स्वर्भानुः (*yaṃ vai sūraṃ svarbhānuḥ*) (Ṛ. Saṃ. 5-40-9)": thus there is praise of the Atris in the Kauṣītaki Brāhmaṇa (Kā. Brā. 24-3; 4 **NOTE**).
+
+### Printed p. 679
+What was the means by which Atri attained this greatness, and by what rite this accomplishment was obtained, is stated in the Taittirīya Saṃhitā as follows.
+
+अत्रिरददादौर्वाय प्रजां पुत्रकामाय स रिरिचानोऽमन्यत निर्वीर्यश्शिथिलो यातयामा स एतं चतूरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्य चत्वारो वीरा आजायंत सुहोता सूद्गाता स्वध्वर्युस्सुसभेयो य एवं विद्वाग्‌ंश्चतूरात्रेण यजत आस्य चत्वारो वीरा जायंते........ ॥ (*atriradadādaurvāya prajāṃ putrakāmāya sa riricāno 'manyata nirvīryaśśithilo yātayāmā sa etaṃ catūrātramapaśyattamāharattenāyajata tato vai tasya catvāro vīrā ājāyaṃta suhotā sūdgātā svadhvaryussusabheyo ya evaṃ vidvāgṃścatūrātreṇa yajata āsya catvāro vīrā jāyaṃte........ ‖*) (Tai. Saṃ. 7-1-8-1)
+
+Aurva (son of Ūrva) desired offspring. But he was without vigour, nearly slack, and afflicted by old age. Then Atri meditated on the sacrifice of the Caturātra kind, understood its essence, and performed it. As its result four sons were born to Aurva. Of them one became an excellent Hotṛ, another an eminent Udgātṛ, the third a praiseworthy Adhvaryu, and the fourth, skilled in wisdom, a laudable Sadasya. Those who, following Atri, perform this sacrifice will obtain this wealth.
+
+य उद्यंतस्तोमाश्लीस्सात्रिग्ं श्रद्धादेवं यजमानं चत्वारि वीर्याणि नोपानमस्तेज इंद्रियं ब्रह्मवर्चसमन्नाद्यग्ं स एताग्ंश्चतुरश्चतुष्टोमान्सोमानपश्यत्तानाहरत्तैरयजत तेज एव प्रथमेनावारुंधेंद्रियं द्वितीयेन ब्रह्मवर्चसं तृतीयेनान्याद्यं चतुर्थेन य एवं विद्वाग्ंश्चतुरश्चतुष्टोमान्सोमानाहरति तैर्यजते तेज एव प्रथमेनावरुंध इंद्रियं द्वितीयेन ब्रह्मवर्चसं तृतीयेनान्याद्यं चतुर्थेन यामेवात्रिऋद्दिमार्ध्योत्तामेव यजमान ऋध्योति ॥ (*ya udyaṃtastomāślīssātrigṃ śraddhādevaṃ yajamānaṃ catvāri vīryāṇi nopānamasteja iṃdriyaṃ brahmavarcasamannādyagṃ sa etāgṃścaturaścatuṣṭomānsomānapaśyattānāharattairayajata teja eva prathamenāvāruṃdheṃdriyaṃ dvitīyena brahmavarcasaṃ tṛtīyenānyādyaṃ caturthena ya evaṃ vidvāgṃścaturaścatuṣṭomānsomānāharati tairyajate teja eva prathamenāvaruṃdha iṃdriyaṃ dvitīyena brahmavarcasaṃ tṛtīyenānyādyaṃ caturthena yāmevātriṛddimārdhyottāmeva yajamāna ṛdhyoti ‖*) (Tai. Saṃ. 7-1-8-2)
+
+If the stomas grow, they become the cause of a man's prosperity. But since Atri, without their help, worshipped only Śraddhā-deva, he could obtain neither radiance, nor vigour, nor Brahmavarcas, nor wealth of food. Afterwards he understood the nature of the Soma offerings of the four-stoma kind and performed the sacrificial rite with the help of these stomas. Then, by the first stoma he obtained radiance, by the second sensory vigour, by the third Brahmavarcas, and by the fourth wealth of food. For whoever offers in this way the Soma offering of the four-stoma kind, these four accomplishments will be obtained: thus the greatness of Atri is praised.
+
+### Printed p. 680
+That such a great Atri freed Sūrya from the darkness also, it will not be wrong to interpret in this way on the basis of Śruti sentences. There is room to say that Atri himself in the form of Agni, or Agni who has the form of Atri, freed Sūrya from the darkness. The purport can also be stated thus: the morning Agni, by his prayer, freed Sūrya, who was covered by the darkness of night, and made him shine. But how is Atri possible as a synonymous name of Agni? The etymology of the word Atri shows exactly that Agni himself is of the nature of Atri.
+
+अत्रिर्ह वै नामैतद्यदत्रिरिति ; सर्वस्यात्ता भवति । (*atrirha vai nāmaitadyadatririti ; sarvasyāttā bhavati |*) (Bṛ. U. 2-2-4)
+
+The etymology of the word Atri is that, because it eats everything, the word Atri is an epithet of the one who eats all. But what connection has the etymology of the word Atri in this very sentence with Agni? This is nothing other than the nature of Agni.
+
+अग्निष्टद्विश्वादगदं कृणोतु सोमश्च यो ब्राह्मणा आ विवेश । (*agniṣṭadviśvādagadaṃ kṛṇotu somaśca yo brāhmaṇā ā viveśa |*) (Ṛ. Saṃ. 10-16-6)
+
+युवानं विश्वतिं कविं विश्वादं पुरुवेपसं । अग्निं शुंभामि मन्मभिः । (*yuvānaṃ viśvatiṃ kaviṃ viśvādaṃ puruvepasaṃ | agniṃ śuṃbhāmi manmabhiḥ |*) (Ṛ. Saṃ. 8-44-26)
+
+In these and other Ṛks Agni is described as विश्वाद (*viśvāda*) (the all-eater), meaning one who eats everything. Because he has this quality, he may be designated by the word Atri.
+
+वागेवात्रिः; वाचा ह्यन्नमद्यते (*vāgevātriḥ; vācā hyannamadyate*) (Bṛ. U. 2-2-4): Speech itself is Atri; by speech indeed food is eaten. Just as an identity between speech and Atri is stated here, so in सोऽग्निः कस्मिन्प्रतिष्ठित इति । वाचीति ॥ (*so 'gniḥ kasminpratiṣṭhita iti | vācīti ‖*) (Bṛ. U. 3-9-24) the identity between Agni and speech is taught. Such an all-eating Agni is the Agni of the form of Atri. If the word Atri is given this meaning, then the appropriateness of epithets such as महर्षिं दीप्तेजसं (*maharṣiṃ dīptejasaṃ*) and सूर्यानलसमद्यति (*sūryānalasamadyati*) fits. It is because of his supernatural divine nature that the Nirukta authors too have explained the word Atri as अत्रिः न त्रयः । (*atriḥ na trayaḥ |*) (Ni. 3-17), न विद्यंते त्रीणि यस्य सः । (*na vidyaṃte trīṇi yasya saḥ |*), that is, a great person who is free of the threefold sorrow. In the Ṛksaṃhitā also Agni is designated by the word Atri.
+
+अत्रिमनुस्वाराज्यमग्निमुक्थानि वावृधुः । विश्वा अधि श्रियो दधे ॥ (*atrimanusvārājyamagnimukthāni vāvṛdhuḥ | viśvā adhi śriyo dadhe ‖*) (Ṛ. Saṃ. 2-8-5)
+
+Thus it is praised that they offer hymns addressed to Agni who is of the form of Atri, and so on.
+
+### Printed p. 681
+All these Śruti sentences also give an exact sense to the description, explained above, of the origin of Atri. In the story that the seed of Prajāpati, connected with speech, was cast into Agni and Atri was produced from that Agni, the connection of these three forms, speech, Agni and Atri, becomes evident. In the Mantra 10-39-9 quoted above, the identity of Atri with Saptavadhri is shown. This point will be stated later when Saptavadhri is explained.
+
+Atri, thus produced, has also gained fame historically and is renowned as a seer of sūktas. Praising the sūktas made by Atri, the Bṛhaddevatā says:
+
+अनस्वंतेति सूक्तेऽस्मिन् आग्नेयेऽत्रिर्यषिस्स्वयं । दानतुष्टः शशंसैतान् राजर्षीनिति केचन ॥ (*anasvaṃteti sūkte 'smin āgneye 'triryaṣissvayaṃ | dānatuṣṭaḥ śaśaṃsaitān rājarṣīniti kecana ‖*) (Ja. Je. 5-29 **NOTE**)
+
+The sūkta beginning with the Mantra "Anasvantā" (Ṛ. Saṃ. 5-27) is in praise of Agni. In this sūkta there is a statement of the qualities of three royal seers, Trayaruṇa, Trasadasyu and Aśvamedha. Atri prays to Agni to bring prosperity to these royal seers. But here a doubt has arisen as to who is the seer of this sūkta. One view is that Trayaruṇa, Trasadasyu and Aśvamedha, all three, are seers. Another view is that Atri, praising the gift given by those royal seers, praises them before Agni. Of these two the second view appears to be the sound one. All these sentences refer to those royal seers in the third person: since the prayer "bring happiness to Trayaruṇa and the others who gave me gifts of a thousand and a hundred cows", यो मे शता च विंशतिं च गोनां (*yo me śatā ca viṃśatiṃ ca gonāṃ*), is made, the view that this sūkta was made by Atri is the sound one. The following sentences also give a sense that supports this view.
+
+आशीरध्येषणाच्चैभ्यो अग्निं प्रति च दृश्यते । अयुतं च गवां त्रीणि शतान्यथ च विंशतिं ॥ सौवर्णं शकटं गोभ्यां त्र्यरुणोऽदान्नृपोऽत्रये । अश्वमेधः शतं चोक्ष्णां त्रसदस्युर्धनं बहु ॥ (*āśīradhyeṣaṇāccaibhyo agniṃ prati ca dṛśyate | ayutaṃ ca gavāṃ trīṇi śatānyatha ca viṃśatiṃ ‖ sauvarṇaṃ śakaṭaṃ gobhyāṃ tryaruṇo 'dānnṛpo 'traye | aśvamedhaḥ śataṃ cokṣṇāṃ trasadasyurdhanaṃ bahu ‖*) (Bṛhaddevatā 5-30-31)
+
+If the prayers in the Mantras concerned are examined, one should understand that Atri, asked by those royal seers, worshipped Agni on their behalf and prayed for them that he should bring them prosperity. Traiaruṇa gave Atri ten thousand three hundred and twenty cows, and
+
+### Printed p. 682
+a cart drawn by bulls and filled with gold. Aśvamedha gave a hundred bulls, and Trasadasyu gave abundant wealth; since this is stated, the above sense fits. Besides:
+
+राज्ञः प्रति च तत्सूक्तं बभाष इति केचन । आत्मा हि नात्मने दद्यात् अग्रहीन्नृपतेर्यषिः ॥ (*rājñaḥ prati ca tatsūktaṃ babhāṣa iti kecana | ātmā hi nātmane dadyāt agrahīnnṛpateryaṣiḥ ‖*) (Bṛ. De. 5-32)
+
+According to the view of some others, he is explained as having composed these Mantras in praise of those royal seers. No one gives wealth to himself. Those royal seers made gifts to Atri; in return he praised them, it is said. This opinion also follows the opinion above. If it can be said that Traiaruṇa, Trasadasyu and Aśvamedha, although royal seers, also became seers of the sūkta, then it is necessary to know about them. It will be proper to examine this matter in the introduction to the sūkta 5-27.
+
+## Sūkta 1 (Maṇḍala 5)
+A brief account of the two seers of this sūkta, Budha and Gaviṣṭhira.
+
+अबोधि द्वादश बुधगविष्ठिरौ । (*abodhi dvādaśa budhagaviṣṭhirau |*) The first sūkta in the fifth maṇḍala begins with the Mantra अबोध्यग्निः (*abodhyagniḥ*) and has twelve Ṛks in all. The Anukramaṇikā sentence says that the authors of these are the seers Budha and Gaviṣṭhira, born in the line of Atri. Neither the seer named Budha nor the seer named Gaviṣṭhira is so very famous. But Gaviṣṭhira is mentioned in one or two places in the Ṛksaṃhitā itself.
+
+अवोचाम कवये मेध्याय वचो वंदारु वृषभाय वृष्णे । गविष्ठिरो नमसा स्तोममग्नौ दिवीव रुक्ष्ममुरुव्यञ्चमश्रेत् ॥ (*avocāma kavaye medhyāya vaco vaṃdāru vṛṣabhāya vṛṣṇe | gaviṣṭhiro namasā stomamagnau divīva rukṣmamuruvyañcamaśret ‖*) (Ṛ. Saṃ. 5-1-12)
+
+Let us offer a hymn of salutation addressed to Agni, the wise, the worthy of worship, the youthful. The seer named Gaviṣṭhira offers the hymn with salutation: thus the seer, offering his own work, indicates his own name along with it and shows his devotion. Besides:
+
+अग्निरत्रिं भरद्वाजं गविष्ठिरं प्रावन्नः कण्वं त्रसदस्युमाहवे । अग्निं वसिष्ठो हवते पुरोहितो मृळीकाय पुरोहितः ॥ (*agniratriṃ bharadvājaṃ gaviṣṭhiraṃ prāvannaḥ kaṇvaṃ trasadasyumāhave | agniṃ vasiṣṭho havate purohito mṛḷīkāya purohitaḥ ‖*) (Ṛ. Saṃ. 10-152-5)
+
 ---
 
-**Progress note:** Done through printed p. 675. pp. 667-675 (batch API)
+**Progress note:** Done through printed p. 682. pp. 676-682 (batch API)
