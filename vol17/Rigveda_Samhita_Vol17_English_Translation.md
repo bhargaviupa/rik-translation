@@ -34440,6 +34440,145 @@ As a heifer bears a calf, his mother, (Aditi) bore Indra, mature (in years) stro
 
 Aditi asked: "O Indra, my son, have the gods, Agni and the rest, abandoned your friendship?" Immediately Indra said to Viṣṇu: "O friend Viṣṇu, you are all-pervading and a well-wisher to me. Wishing to slay the asura Vṛtra, gain exceeding valour."
 
+### Printed p. 1004
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्ते॑ मा॒तरं॑ वि॒धवा॑मचक्रच्छ॒युं कस्माम॑जिघांस॒च्चरं॑तं ।  
+> कस्ते॑ दे॒वो अधि॑ मार्डी॒क आ॑सी॒द्यत्पाक्षि॑णाः पि॒तरं॑ पाद॒गृह्य॑ ॥
+
+> *kaste mātaraṃ vidhavāmacakracchayuṃ kasmāmajighāṃsaccaraṃtaṃ |*  
+> *kaste devo adhi mārḍīka āsīdyatpākṣiṇāḥ pitaraṃ pādagṛhya ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । ते । मातरं । विधवां । अचक्रत् । शयुं । कः । त्वां । अजिघांसत् । चरंतं ।  
+> कः । ते । देवः । अधि । मार्डीके । आसीत् । यत् । प्र । अक्षिणाः । पितरं । पादगृह्य ॥ १२ ॥
+
+> *kaḥ | te | mātaraṃ | vidhavāṃ | acakrat | śayuṃ | kaḥ | tvāṃ | ajighāṃsat | caraṃtaṃ |*  
+> *kaḥ | te | devaḥ | adhi | mārḍīke | āsīt | yat | pra | akṣiṇāḥ | pitaraṃ | pādagṛhya ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यस्मात्कारणात्पितुः सकाशाज्जनिष्यमाणाद्भीतस्वं त्वदीयं
+> पितरं पादगृह्य पादेषु गृहीत्वा प्राक्षिणाः । प्रकर्षणावधीः । तस्मात्कारणात्ते
+> त्वत्तोऽन्यः को देवो मातरं स्वकीयजननीं विधवां पितृवधेन पतिरहितामकच्रत् । अकरोत् । कस्त्वत्तोऽन्यः शयुं शयानं चरंतं जागृतं ना त्वामजिघांसत् । हंतुमैच्छत् । ते त्वत्तोऽन्यः को देवो मार्डीके प्रजानां सुखकरणेऽधि अधिक आसीत् । अयमर्थ ऋक्सामे वै देवेभ्य इत्यनुवाके यज्ञो
+> दक्षिणामभ्यध्यायदित्यादिब्राह्मणेन । तै. सं. ६-१-३-६ । तैत्तिरीयकैर्बहुधा
+> प्रपंचितः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, because you, afraid of the one who was about to be born from your father's side, seized your father by the feet and struck him down (प्राक्षिणाः (*prākṣiṇāḥ*), "you killed by crushing"), for that reason what god other than you made his own mother a widow, bereft of her husband through the killing of the father? Who other than you wished to kill you, whether lying down or walking about, that is, awake? What god other than you was greater in making the creatures happy (मार्डीके (*mārḍīke*))? This meaning is elaborated in many ways by the Taittirīyas in the Brāhmaṇa beginning ऋक्सामे वै देवेभ्य (*ṛksāme vai devebhya*), in the anuvāka and in the passage *yajño dakṣiṇāmabhyadhyāyat* and so on (Tai. Saṃ. 6-1-3-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- पितरं (*pitaraṃ*)—your father
+- पादगृह्य (*pādagṛhya*)—seizing and dragging by the leg
+- प्राक्षिणाः (*prākṣiṇāḥ*)—you felled and killed (therefore)
+- ते (*te*)—other than you
+- कः (*kaḥ*)—which deity indeed
+- मातरं (*mātaraṃ*)—his mother
+- विधवां (*vidhavāṃ*)—as a widow
+- अचक्रत् (*acakrat*)—could make
+- कः (*kaḥ*)—who other than you
+- शयुं (*śayuṃ*)—lying asleep
+- चरंतं (*caraṃtaṃ*)—and moving about
+- त्वां (*tvāṃ*)—you
+- अजिघांसत् (*ajighāṃsat*)—would wish to kill?
+- ते (*te*)—other than you
+- कः देवः (*kaḥ devaḥ*)—which deity indeed
+- मार्डिके (*mārḍike*)—as a bringer of happiness to the creatures
+- अधि आसीत् (*adhi āsīt*)—surpasses you
+
+### Printed p. 1005
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, since you yourself seized your father by the leg, dragged and thrust him down and killed him, no one but you is capable of such a deed. Therefore no one except you can make his own mother a widow. Who indeed could kill you, whether you are lying asleep or moving about? Which god other than you could have greater power than you to be the giver of happiness to the creatures?
+
+##### English translation (H. H. Wilson)
+Who has made your mother a widow? who has sought to slay the sleeping and the waking? what deity has been more gracious than you, since you have slain the father, having seized him by the foot ?
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑र्त्या॒ शुन॑ आं॒त्राणि॑ पेचे॒ न दे॒वेषु॑ विविदे मर्डि॒तारं॑ ।  
+> अप॑श्यं जा॒यामम॑हीयमाना॒मधा॑ मे श्वे॒नो मध्वा  ॑
+> जभार ॥ १३ ॥
+
+> *avartyā śuna āṃtrāṇi pece na deveṣu vivide marḍitāraṃ |*  
+> *apaśyaṃ jāyāmamahīyamānāmadhā me śveno madhvā*  
+> *jabhāra ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवर्त्या । शुनः । आंत्राणि । पेचे । न । देवेषु । विविदे । मर्डितारं ।  
+> अपश्यं । जायां । अमहीयमानां । अध । मे । श्वेनः । मधु । आ । जभार ॥ १३॥
+
+> *avartyā | śunaḥ | āṃtrāṇi | pece | na | deveṣu | vivide | marḍitāraṃ |*  
+> *apaśyaṃ | jāyāṃ | amahīyamānāṃ | adha | me | śvenaḥ | madhu | ā | jabhāra ‖ 13‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया वामदेवः स्वकीयं दारिद्र्यं सूचयन्निंद्रस्योत्कर्षमाह । वामदेवोऽहमवर्त्या जीवनोपायराहित्येन शुनः शुनकसंबंधीन्यांत्राणि पुरीतंति
+
+##### Gist of the bhāṣya
+
+With this verse Vāmadeva, indicating his own poverty, proclaims Indra's pre-eminence. "I, Vāmadeva, for lack of any means of livelihood, cooked (पेचे (*pece*)) the entrails of a dog, the intestines (पुरीतंति (*purītaṃti*)) belonging to a dog."
+
+### Printed p. 1006
+
+> पेचे । अपचं । देवेषु द्योतमानेषु वह्न्यादिषु मध्य इंद्रादन्यं मर्डितारं
+> सुखयितारं न विविदे । न लेभे । किंच जायां स्वकीयां भार्याममहीयमानामश्लाघनीयामपश्यं । अद्राक्षं । अध अथानंतरं श्येनः श्येनवच्छीफुगामींद्रो मे मह्यं मधु मधुरोपेतमुदकमा जभार । आजहार ॥
+
+##### Gist of the bhāṣya
+
+"I cooked (अपचं (*apacaṃ*)). Among the shining gods, Agni and the rest, I found no comforter, no giver of happiness, other than Indra. Moreover I saw my own wife disrespected, not praised. Then Indra, swift-going like a falcon, brought to me sweet water, water endowed with sweetness."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवर्त्या (*avartyā*)—by reason of poverty
+- शुनः (*śunaḥ*)—of a dog
+- आंत्राणि (*āṃtrāṇi*)—the entrails
+- पेचे (*pece*)—I cooked
+- देवेषु (*deveṣu*)—among the shining gods
+- मर्डितारं (*marḍitāraṃ*)—any deity who gives happiness
+- न विविदे (*na vivide*)—I did not obtain
+- जायां (*jāyāṃ*)—my wife
+- अमहीयमानां (*amahīyamānāṃ*)—as disregarded
+- अपश्यं (*apaśyaṃ*)—I saw
+- अध (*adha*)—afterwards
+- श्येनं (*śyenaṃ*)—Indra, swift-going like a falcon
+- मे (*me*)—to me
+- मधु (*madhu*)—water full of sweetness
+- आ जभार (*ā jabhāra*)—brought and gave
+
+##### भावार्थ (Bhāvārtha)
+
+The words of the seer Vāmadeva: By reason of poverty I cooked the entrails of a dog. Among the shining gods I found no deity who gives happiness. And for that same reason I saw my wife disrespected. Afterwards Indra, swift-going like a falcon, brought me water full of sweetness.
+
+##### English translation (H. H. Wilson)
+In extreme destitution I have cooked the entrails of a dog, I have not found a comforter among the gods.  I have beheld my wife disrespected : then the falcon (Indra) has brought to me sweet water.
+
+##### विशेषविषयगळु (Special Topics)
+
+Having spoken thus, he told of the hardship he had suffered. Living in extreme poverty and finding no food to eat, I had to cook and eat the entrails of a dog (entrails of a dog), that is, its flesh, which no one eats, that is, which is forbidden. Because of this poverty of mine I had to see the loss of honour of my wife. Then Indra, looking on me with a gracious eye, gave me water full of sweetness and consoled me, so he says.
+
+### Printed p. 1007
+This last Ṛk does not relate to the birth of the seer Vāmadeva. It is a statement made when Vāmadeva had grown up, matured, and was experiencing hardships and pleasures. Therefore how this Ṛk came to be included in this sūkta cannot be said.
+
+Closing verses: वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । प्रमथांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pramathāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये तृतीयाष्टके पंचमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye tṛtīyāṣṭake paṃcamo 'dhyāyaḥ samāptaḥ ‖*) ॥ ओं तत्स्यत् ॥ (*‖ oṃ tatsyat ‖*)
+
+Here ends the fifth chapter in the third Aṣṭaka of the Ṛgveda Saṃhitā, with Śrī Sāyaṇa's commentary and a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं त. यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ ta. yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं शुभयात् (*śubhaṃ śubhayāt*) मंगळं (*maṃgaḷaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 1003. pp. 998-1003 (batch API)
+**Progress note:** Done through printed p. 1007. pp. 1004-1007 (batch API)
