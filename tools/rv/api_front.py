@@ -33,14 +33,18 @@ def main():
         if m: out += ['', f'<!-- printed {m.group(1)} -->', '']; continue
         out.append(re.sub(r'^#+\s*', '', l))
     kn = '\n'.join(html_to_kn.join_hyphens(out)) + '\n'; open(os.path.join(w, 'kn.md'), 'w', encoding='utf8').write(kn)
-    cl = api_batch.client()
-    p = dict(model=model, max_tokens=32000, system=api_batch.system_blocks(), output_config={'effort': effort}, messages=[{'role': 'user', 'content': TASK + kn}])
-    with cl.messages.stream(**p) as stream: msg = stream.get_final_message()
-    u = msg.usage; pi, po = api_batch.PRICES.get(model, (0, 0)); usd = (u.input_tokens * pi + u.output_tokens * po) / 1e6
-    text = ''.join(b.text for b in msg.content if b.type == 'text'); open(os.path.join(w, 'answer.txt'), 'w', encoding='utf8').write(text)
-    m = re.search(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)
-    if msg.stop_reason != 'end_turn' or not m: sys.exit(f'no usable answer (stop_reason {msg.stop_reason}); cost ${usd:.3f}')
-    en, fixed = api_batch.autofix_inline(w, m.group(1).strip() + '\n', kn); open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
+    rebuild = '--rebuild' in a   # redo the checks and en_final.md from a hand-repaired en.md, no API call
+    if rebuild:
+        en = open(os.path.join(w, 'en.md'), encoding='utf8').read(); fixed = []; u = None; usd = 0.0
+    else:
+        cl = api_batch.client()
+        p = dict(model=model, max_tokens=32000, system=api_batch.system_blocks(), output_config={'effort': effort}, messages=[{'role': 'user', 'content': TASK + kn}])
+        with cl.messages.stream(**p) as stream: msg = stream.get_final_message()
+        u = msg.usage; pi, po = api_batch.PRICES.get(model, (0, 0)); usd = (u.input_tokens * pi + u.output_tokens * po) / 1e6
+        text = ''.join(b.text for b in msg.content if b.type == 'text'); open(os.path.join(w, 'answer.txt'), 'w', encoding='utf8').write(text)
+        m = re.search(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)
+        if msg.stop_reason != 'end_turn' or not m: sys.exit(f'no usable answer (stop_reason {msg.stop_reason}); cost ${usd:.3f}')
+        en, fixed = api_batch.autofix_inline(w, m.group(1).strip() + '\n', kn); open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
     en2, notes = batch.split_notes(en); json.dump(notes, open(os.path.join(w, 'notes.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=1)
     t, prob = convert.expand(en2, kn); fp = os.path.join(w, 'en_final.md'); open(fp, 'w', encoding='utf8').write(t)
     subprocess.run(['python3', 'publish/tools/translit/add_iast.py', fp], cwd=ROOT, check=True); t = open(fp, encoding='utf8').read()
@@ -48,15 +52,15 @@ def main():
     prob += [f'inline segment not in kn.md: {x[:50]}' for x in bad] + ([f'{len(kk)} Kannada-script words left, e.g. {kk[0]}'] if kk else [])
     if re.search(r'\[\?\]|\[sic\]|(?i:as supplied|as printed|running head)|\*\[', en2): prob.append('a translator remark is left in the text')
     cost = os.path.join(ROOT, f'vol{cfg.vol}', 'parts', 'batch_costs.md')
-    open(cost, 'a', encoding='utf8').write(f"| {name} (front matter, source lines {lo}-{hi}) | {model} direct | 1 request | in {u.input_tokens}, out {u.output_tokens} | ${usd:.3f} |\n")
+    if not rebuild: open(cost, 'a', encoding='utf8').write(f"| {name} (front matter, source lines {lo}-{hi}) | {model} direct | 1 request | in {u.input_tokens}, out {u.output_tokens} | ${usd:.3f} |\n")
     print(f'{name}: kn {len(kn)} chars, en {len(en)} chars, {len(notes)} NOTE, {len(fixed)} segments put back from kn.md, cost ${usd:.3f}')
     print('PROBLEMS:\n - ' + '\n - '.join(prob) if prob else 'checks: PASS  (not installed: run again with --install when no window job is running)')
 def install(cfg, w, name):
     en = open(cfg.en, encoding='utf8').read(); kn = open(cfg.kn, encoding='utf8').read()
     t = open(os.path.join(w, 'en_final.md'), encoding='utf8').read().strip(); k = open(os.path.join(w, 'kn.md'), encoding='utf8').read().strip()
     if '## Preface' in en: sys.exit('the English file already has a preface')
-    i = en.index('### Printed p. '); j = kn.index('<!-- printed ')
-    open(cfg.en, 'w', encoding='utf8').write(en[:i] + t + '\n\n' + en[i:]); open(cfg.kn, 'w', encoding='utf8').write(kn[:j] + '## ಪೀಠಿಕೆ\n\n' + k.replace('<!-- printed ', '<!-- roman ') + '\n\n' + kn[j:])
+    i = en.index('### Printed p. ') if '### Printed p. ' in en else en.index('---\n\n**Progress note:**'); j = kn.index('<!-- printed ') if '<!-- printed ' in kn else len(kn.rstrip('\n')) + 1
+    open(cfg.en, 'w', encoding='utf8').write(en[:i] + t + '\n\n' + en[i:]); open(cfg.kn, 'w', encoding='utf8').write(kn[:j] + ('\n' if j == len(kn.rstrip('\n')) + 1 else '') + '## ಪೀಠಿಕೆ\n\n' + k.replace('<!-- printed ', '<!-- roman ') + '\n\n' + kn[j:])
     nf = os.path.join(ROOT, f'vol{cfg.vol}', 'review', 'notes.tsv'); notes = json.load(open(os.path.join(w, 'notes.json'), encoding='utf8'))
     if notes:
         L = open(nf, encoding='utf8').read().rstrip('\n').split('\n') if os.path.exists(nf) else ['window\tprinted page\tquestion (what needs a decision or a second look)\twords before the mark in the English text\tdecision']
