@@ -312,6 +312,8 @@ def cmd_collect(a):
         save_state(cfg, st)
     for x in st['windows']:                                    # commit, strictly in page order
         if x.get('done'): continue
+        m = re.findall(r'Done through printed p\. (\d+)', open(cfg.en, encoding='utf8').read()[-3000:])     # a window `done` already appended (its verify step failed, or it was repaired by hand): do not append it twice
+        if m and int(m[-1]) >= int(x['last']): x['done'] = True; save_state(cfg, st); print(os.path.basename(x['win']), '-> pages already in the volume file: marked done (run `batch.py audit` to see whether its repair is finished)'); continue
         if not x.get('collected') or (x.get('problem') and 'kn_fix' not in x['problem']): print(f"STOP at {x['win']}: {x.get('problem') or 'not collected'}"); break
         r = subprocess.run(['python3', 'tools/rv/batch.py', 'done', str(cfg.vol), x['win'], '--note', f"pp. {x['first']}-{x['last']} (batch API)"], capture_output=True, text=True, cwd=ROOT)
         out = (r.stdout + r.stderr).strip(); print(os.path.basename(x['win']), '->', out.split('\n')[-1][:150])

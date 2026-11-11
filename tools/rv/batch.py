@@ -227,6 +227,7 @@ def cmd_build(a):
     wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
     sp=os.path.join(w,'section_start.txt'); start=(rd(sp).strip() or None) if os.path.exists(sp) else None
     text,prob=convert.expand(en,kn,plain=tuple(cfg.d.get('no_iast_blocks',[])),start=start)
+    if convert.RESTORED: print('labels put in or normalised by script:'); print('\n'.join(' - '+x for x in convert.RESTORED)); wr(os.path.join(w,'labels_restored.txt'),'\n'.join(convert.RESTORED)+'\n')
     wr(os.path.join(w,'markers_fuzzy.tsv'),''.join(f'{a_}\t{b_}\n' for a_,b_ in convert.FUZZY))      # quotation markers resolved approximately (for a spot check)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
@@ -329,6 +330,7 @@ def cmd_commit(a):
         assert i>len(s)-20000,'progress note not near the end'; s=s[:i].rstrip('\n').rstrip('-').rstrip('\n')
     pdf=f" (PDF {last['pdf']})" if last.get('pdf') else ''
     s=s+'\n\n'+enf+f"\n\n---\n\n**Progress note:** Done through printed p. {last['printed']}{pdf}. {note}\n"
+    s=mandala_heading(s,cfg,knf)
     if cfg.d.get('layout')=='subheads': s,_=rk_headings(s)      # whole file: a Ṛk that continues over the window boundary gets '(continued)' (Vol 18 w0076, w0101)
     k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'      # checked BEFORE the English is written
     assert s.count('**Progress note:**')==1 and len(s)>=n0-2000; wr(cfg.en,s)
@@ -381,6 +383,23 @@ def audit(cfg,expect_clean=True):
     if expect_clean and dirty: pr.append('uncommitted changes: '+'; '.join(dirty[:4]))
     if 'ahead' in st[0]: pr.append('commits not pushed: '+st[0])
     return pr,dict(page=dp,pages=len(pe),doubts=q(en),head=sh('git log -1 --oneline').stdout.strip())
+def mandala_heading(s,cfg,kn=''):
+    """The windows do not write `## Maṇḍala M` (Vol 17 and Vol 18, lesson 52): put it before a new maṇḍala's introduction (a `## …` heading that is not a
+    sūkta/maṇḍala/preface heading, standing after the last `## Sūkta` of the previous maṇḍala; the heading is lowered to `###`), or else before `## Sūkta 1 (Maṇḍala M)`.
+    M comes from `mandalas` in volcfg.json (the maṇḍala after the last one seen).  Nothing happens when `## Maṇḍala M` is there."""
+    ms=cfg.d.get('mandalas') or []
+    for m in ms[1:]:
+        if f'\n## Maṇḍala {m}\n' in s: continue
+        i=s.find(f'\n## Sūkta 1 (Maṇḍala {m})\n')
+        prev=ms[ms.index(m)-1]; j=s.rfind(f'\n## Sūkta ')
+        odd=None
+        if f'(Maṇḍala {prev})' in s[j:j+80] or i<0:
+            mm=re.search(r'(?m)^## (?!Sūkta|Maṇḍala|Preface)([^\n]+)$',s[j+1:]) if j>=0 else None
+            if mm and i<0 and f'(Maṇḍala {prev})' in s[j:j+80] and 'ಮಂಡಲವು ಸಮಾಪ್ತ' in kn: odd=j+1+mm.start()      # only in a window whose Kannada says the maṇḍala ends
+        if odd is not None:
+            s=s[:odd]+f'## Maṇḍala {m}\n\n### '+s[odd+3:]
+        elif i>=0: s=s[:i+1]+f'## Maṇḍala {m}\n\n'+s[i+1:]
+    return s
 def cmd_audit(a):
     cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
     print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)

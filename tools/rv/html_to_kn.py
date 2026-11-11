@@ -87,6 +87,10 @@ def _norm_deva(s): return re.sub(r'[^ऀ-ॣ]','',s.replace('॒','').replace('�
 def _norm_kn(l):
     from kannada_to_deva import kn2deva
     return _norm_deva(kn2deva(l))
+def quote_follows(lines,i):
+    """a quotation inside the commentary (Vol 18 p. 625: Ṛk 4.57.2 quoted under Ṛk 1) is followed within three lines by its reference in brackets,
+    e.g. (ಋ. ಸಂ. ೪-೫೭-೨); a Saṃhitā block is followed by the Pada-pāṭha, never by such a line (user, Nov 11 2026: a spurious label broke the label count)"""
+    return any(re.fullmatch(r'\(.{2,40}[೦-೯0-9]+\s*[-–—]\s*[೦-೯0-9]+.*\)\.?',x.strip()) for x in lines[i+1:i+4])
 def verse_start(l,ref,last,anywhere=False):
     """does this line begin a verse of the reference? -> id or None.  With a known position only the next verse (or the first of the next sūkta) is accepted."""
     if not ref or len(l)<18 or not re.search(KN,l): return None
@@ -139,6 +143,7 @@ def kn_page(printed,head,text,section=None,st=None):
         elif fz: setlabel(fz,l,f'garbled label "{l}" -> {CANON[fz]}'); continue
         if section!='samhita':
             rid=verse_start(l,ref,st.get('last'))
+            if rid and quote_follows(lines,i): LOG.append(f'p. {printed}: verse-like lines {l[:30]}… followed by a printed reference: a quotation in the commentary, no label inserted'); rid=None
             if rid:
                 st['last']=rid; prev=out[-1] if out else ''
                 c=_core(prev)
@@ -160,9 +165,9 @@ def drop_dup_figures(out,printed):
     res=[]; samp=('*%s*'%CANON['samhita'],'*%s*'%CANON['pada'])
     for i,l in enumerate(out):
         if l.startswith('[figure'):
-            nx=next((x for x in out[i+1:] if x.strip()),'')
-            if nx.startswith('> ') or nx in samp or nx.startswith('ಸೂಕ್ತ—'):
-                LOG.append(f'p. {printed}: picture line {l} dropped by script: the supplied text has the same verse block / sūkta head right after it'); continue
+            nx=next((x for x in out[i+1:] if x.strip() and not x.startswith('*[')),'')      # notes (a stray picture description, a garbled label) are skipped
+            if nx.startswith('> ') or nx in samp or nx.startswith(('ಸೂಕ್ತ','ಮಂಡಲ—')):
+                LOG.append(f'p. {printed}: picture line {l} dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)'); continue
         res.append(l)
     return res
 def join_hyphens(out):

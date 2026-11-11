@@ -24,7 +24,7 @@ Hand repairs (all in `review/repair_log.md`): stage 1: w0076, w0101, w0156, w023
 1. The finishing job (docs/HANDBOOK.md §11: accent pass, Kannada headings, QA sample, PDFs): separate; not started, only with the user. Front matter for the print build comes from the supplied md (title pages, board, contents, abbreviations as text; cover and title pictures are in `html/figures/`; preface already translated): no scan PDF is needed, but `volbook.py` still expects a scan-PDF `pubcfg.json`, to be adapted then.
 2. Heading of the printed English: **kept as the old `Printed English`** (user, Nov 11 2026); the "(H. H. Wilson)" label was removed from `volcfg.json` and from the Vol 18 text (461 headings). Vol 17 still has the label (ask before changing).
 3. Release details (publisher, ISBN, rights, permissions): the user will give them later; they go into `publish/release.json`, not into the volumes.
-4. Tool TODOs (lessons 55–59): labels rebuilt when a verse arrives without them; converter's spurious `ಸಂಹಿತಾಪಾಠಃ` label; `## Maṇḍala M` heading by `soften`; `collect` marking a window done when its pages are already in the volume file.
+4. Tool TODOs of this volume: all closed (lesson 60); to be proved on the next volume's first stage.
 
 ## Publication (print PDF)
 Not built.
