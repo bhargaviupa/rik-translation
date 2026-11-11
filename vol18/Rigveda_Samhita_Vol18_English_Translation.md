@@ -15461,6 +15461,140 @@ And that horse bound by his neck, his flanks, his mouth, accelerates his paces :
 > *nṛ 'sat | vara 'sat | ṛta 'sat | vyoma 'sat | ap 'jāḥ | go 'jāḥ | ṛta 'jāḥ |*  
 > *adri 'jāḥ | ṛtaṃ ‖ 5 ‖*
 
+### Printed p. 395
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रे षष्ठेऽहनि तृतीयसवने मैत्रावरुणशस्त्रे हंसः शुचिषदित्येषा ।
+> आहूय दूरोहणं रोहेद्धंसः शुचिषदिति पच्छोर्धर्चशः । आ. ८-२ । इति
+> सूत्रं ॥ स्मार्तविनियोगमाह शौनकः । हंसः शुचिषदित्यृचा शुचिरीक्षेद्दिवाकरं ।
+> अंतकाले जपन्नेति ब्रह्मणः सप्म शाश्वतं । ऋग्वि. २-१३ । इति ॥
+> अनया सौर्यर्चा य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते
+> हिरण्यश्मश्रुः । छां. उ. १-६-६ । इत्यादिश्रुत्युक्तो मंडलाभिमानी देवोऽस्ति यश्च
+> सर्वप्राणिचित्तरूपस्थितः परमात्मा यच्च निरस्तसमसौपाधिकं परं ब्रह्म तत्सर्वमेकमेवेति प्रतिपाद्यते ॥ हंसः । हंतिर्गत्यर्थः । सर्वत्र सर्वदा गंता योऽहं
+> सोऽसावित्यादिश्रुत्युक्तप्रकारेणैकैकृत्योपास्यः परमात्ममंत्रप्रतिपाद्य आदित्यः ।
+> स च शुचौ दीवे द्युलोके सीदतीति शुचिषत् । अथ यदतः परो दिवो ज्योतिर्दिष्यत इत्यादिश्रुतेः । अनेन द्युस्थान आदित्यः प्रतिवादितः । स एव मध्यस्थानो
+> वायुरित्याद । वसुः सर्वस्य वासयिता वायुः । स चांतरिक्षसदंतरिक्षसंचारी ।, अथ
+> तस्यैव क्षितिस्थानवैदिकाग्नि रूपतामाह । हॊता देवानामाह्वाता होमनिष्पादको
+> ना वेदिषद्वेद्यां गार्दनत्यादिरूपेण स्थितः । अतिथिरतिथिवत्सर्वदा पूज्योऽग्निः ।
+> दुरोणसत् । दुरोणं गृहनाम । तत्र साकादिसाधनत्वेन स्थितः । अनेन लौकिकाग्यात्मकत्वमुक्तं । नृषत् । नृषु मनुष्येषु बैतन्यरूपेण सीदतीति नृषत् । अनेन
+> परमात्मरूपत्वमुक्तं । पुनरप्यादिश्यात्मतामाद । वरसत् । वरे वरणीये मंडले
+> सीदतीति वरसदादित्यः । वरं वा एतत्सद्मनां यस्मिन्नेष आसन्नस्तपतीति हि श्रूयते ।
+> ऋतं सत्यं ब्रह्म यज्ञो ना । तत्र सीदतीत्यृतसदग्निः । व्योमांतरिक्षं । तत्र
+> सीदतीति व्योमसद्वायुः । इदानीमादित्यतोच्यते । अज्जा उदकेषु जातः ।
+> उदकमध्यॆ खल्वहं जायते । गोजा गोम रश्मिषु जातः । ऋतं सत्यं ।
+> सर्वैर्दृश्यत्वेन सत्यजातः । न ह्यसाविंद्रादिवत्परोक्षो भवति । यद्वा । उदकेषु
+> वैद्युतरूपेण वा वाडवरूपेण वा जातः । अद्रिजा अद्रापुदयाचले जातः । एवं
+> महानुभाव आदित्य ऋतं सत्यमबाध्यं सर्वाधिष्ठानं ब्रह्मतत्त्वं । तद्रूपो
+> ह्यसावेव । आदित्यस्कोक्तरूपत्वं हंसः शुचिषदित्येष वै हंसः शुचिषदित्यादिना
+> ब्राह्मणे । ऐ. बृं. ४-२० । समान्मत्तं ॥
+
+##### Gist of the bhāṣya
+
+Use in ritual: in the Daśarātra, on the sixth day, at the third pressing, in the Maitrāvaruṇa's recitation, this is the verse हंसः शुचिषत् (*haṃsaḥ śuciṣat*). The sūtra (Ā. Sū. 8-2) reads आहूय दूरोहणं रोहेद्धंसः शुचिषदिति पच्छोर्धर्चशः । (*āhūya dūrohaṇaṃ roheddhaṃsaḥ śuciṣaditi pacchordharcaśaḥ |*). Śaunaka states a use in the smārta rite: with the verse हंसः शुचिषत् (*haṃsaḥ śuciṣat*) the pure man should look at the sun; reciting it at the time of death he goes to the eternal (abode) of Brahman (Ṛgvi. 2-13). **NOTE**
+
+This solar verse teaches that the deity presiding over the orb, of whom the śruti य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुः । (*ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣo dṛśyate hiraṇyaśmaśruḥ |*) (Chā. U. 1-6-6) speaks, the Supreme Self who abides as the mind of all creatures, and the supreme Brahman free of every limiting adjunct, are all one.
+
+Haṃsa: the root han has the sense of going; he who goes everywhere and always, "he who is I is that (yonder one)", and so on—in the manner stated in such śruti passages the Āditya is to be meditated upon as one with oneself; he is what the mantra of the Supreme Self teaches. Śuciṣat: he sits in the bright (śuci) heaven; so the śruti अथ यदतः परो दिवो ज्योतिर्दिष्यत (*atha yadataḥ paro divo jyotirdiṣyata*). By this the Āditya is shown to belong to the place of heaven. He himself is the Wind of the middle region: Vasu is the Wind, who makes all dwell, and who moves in the atmosphere (antarikṣasat). Then Sāyaṇa states his nature as the Vedic fire of the earth: Hotā, the summoner of the gods, who accomplishes the offering; vediṣat, present on the altar as the Gārhapatya and the rest; Atithi, the fire to be honoured at all times like a guest; duroṇasat—duroṇa is a name of the house; there he abides as the means of cooking and so on; by this his nature as the worldly fire is told. Nṛṣat: he sits among men (nṛ) as consciousness; by this his nature as the Supreme Self is told. Again, speaking of the Āditya: varasat, he sits in the excellent (vara) orb; for it is heard वरं वा एतत्सद्मनां यस्मिन्नेष आसन्नस्तपतीति (*varaṃ vā etatsadmanāṃ yasminneṣa āsannastapatīti*). Ṛtasat: ṛta is truth, Brahman, sacrifice; the fire sits there. Vyomasat: vyoma is the atmosphere; the Wind sits there.
+
+Now it is said of the Āditya: abjāḥ, born in the waters—"in the midst of water he is born"; gojāḥ, born in the rays; ṛtajāḥ—ṛta is truth: born as truth, because seen by all; he is not unseen like Indra and the others. Or else: born in the waters as lightning or as the submarine fire. Adrijāḥ, born on the mountain of rising. Ṛtam: such a great Āditya is the ṛta, the truth, the unobstructed support of all, the principle Brahman; he alone has that form. That the Āditya has the stated nature is shown in the Brāhmaṇa (Ai. Bṛṃ. 4-20) by हंसः शुचषदित्येष वै हंसः शुचिषत् (*haṃsaḥ śucaṣadityeṣa vai haṃsaḥ śuciṣat*) and so on. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हंसः (*haṃsaḥ*)—the Āditya, who is of the nature of movement
+- शुचिषत् (*śuciṣat*)—he who dwells in the heaven endowed with radiance
+- वसुः (*vasuḥ*)—(and he is) the one who dwells in all
+- अंतरिक्षसत् (*aṃtarikṣasat*)—the wind that is in the atmosphere (and this very one is)
+
+### Printed p. 396
+
+- होता (*hotā*)—Agni the Hotṛ (and he is)
+- वेदिषत् (*vediṣat*)—also the one present on the sacrificial altar
+- अतिथिः (*atithiḥ*)—also the household fire, to be honoured
+- दुरोणसत् (*duroṇasat*)—also the one who is in the house
+- नृषत् (*nṛṣat*)—also the one who is consciousness among men
+- वरसत् (*varasat*)—also the one within the excellent orb of the Āditya
+- ऋतसत् (*ṛtasat*)—also the one abiding in truth
+- व्योमसत् (*vyomasat*)—also the one belonging to the middle world. (All these are particular manifestations of the Supreme Brahman.) The very principle of the Supreme Brahman in the form of the Āditya is
+- अब्बाः (*abbāḥ*)—born of water
+- गोजाः (*gojāḥ*)—born of the rays
+- ऋतॆजाः (*ṛtèjāḥ*)—born of truth
+- अद्रिजाः (*adrijāḥ*)—born on the mountain of sunrise
+- ऋतं (*ṛtaṃ*)—of the nature of truth.
+
+##### भावार्थ (Bhāvārtha)
+
+The Supreme Brahman has manifested his particular glories in many forms, the Āditya and others. Among these the Āditya dwells in the radiant heaven. The wind moves in the atmosphere. The Hotṛ fire is present on the sacrificial altar. The household fire is honoured in houses like a guest. He is of the nature of consciousness among men. He is also within the orb of the Āditya, and abides in truth. The Āditya, chief among these, is born of water, born of the rays, born of truth, one who is born on the mountain of sunrise, and of the nature of truth.
+
+##### English translation (H. H. Wilson)
+He is Hansa, (the sun), dwelling in light; Vasu, (the wind), dwelling in the firmament ; the invoker of the gods (Agni), dwelling on the altar ; the guest (of the worshipper), dwelling in the house(as the culinary fire); the dweller amongst men, (as consciousness), the dweller in the most excellent (orb, the sun), the dweller in truth, the dweller in the sky (the air), born in waters, in the rays of light, in the verity (of manifestation in the (eastern) mountain, the truth (itself).
+
+##### विशेषविषयगळु (Special Topics)
+
+This verse हंसः शुचिषत् (*haṃsaḥ śuciṣat*) has the Sun as deity. It is also called the Haṃsavatī verse. Besides the Ṛgveda this verse is read at Vā. Saṃ. 10-24; 12-14; Tai. Saṃ. 1-8-15-2; 4-2-1-5; Tai. Ā. 10-10-2; Ai. Brā. 4-20-1. Yāska also, in his Nirukta (Ni. 14-29), explains this verse with a meaning referring to the Self (adhyātma), "ādhyātmam". Therefore we shall first write down the explanation Sāyaṇa gives in his commentary on this verse, and then explain the other meanings.
+
+### Printed p. 397
+
+Sāyaṇa, quoting the Chāndogya Upaniṣad sentence य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुः । (*ya eṣo 'ntarāditye hiraṇmayaḥ puruṣo dṛśyate hiraṇyaśmaśruḥ |*) (Chā. U. 1-6-6), says by way of introduction that this verse teaches that the god who presides over the orb of the sun, the God of gods who abides in subtle form in the mind of all creatures, and the God who is known as the Supreme Brahman, free of all limiting adjuncts, that is, without attributes—that this all-pervading Supreme Brahman is the Sun; and that in whatever form this Being is described, all of it is a description of the one Supreme Brahman.
+
+Haṃsaḥ—Having said that the word haṃsa is formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), he gives the sense of going for the word haṃsa. That is, सर्वत्र सर्वदा गंता (*sarvatra sarvadā gaṃtā*): because this Āditya (the Sun) moves in all places at all times, he is denoted by the word haṃsa. That the Sun, always moving without a moment's break, gives light and life to the world is a matter of experience. Moreover, if the two syllables haṃ and saḥ in the word haṃsa are read in reversed order it becomes सोऽहं (*so 'haṃ*). This very thing is expounded in the śrutis as योऽहं सोऽसौ (*yo 'haṃ so 'sau*) and is said to teach the oneness of the individual self and the Supreme Self. Here asau means the Āditya or the Supreme Brahman. असावादित्यो ब्रह्म (*asāvādityo brahma*)—this very Āditya visible to our eyes is the Supreme Brahman—is clearly stated in Tai. 2-1-2.
+
+Śuciṣat—That this Āditya exists in various forms in the three places, heaven, atmosphere and earth, he explains through śuciṣat and the following words. स च शुचौ दीप्ते द्युलोके सीदतीति शुचिषत् (*sa ca śucau dīpte dyuloke sīdatīti śuciṣat*): because this Āditya dwells in the śuci, that is, the radiant heaven, he is described by the word śuciṣat. In the Chāndogya Upaniṣad it is said अथ यदतः परो दिवो ज्योतिर्दिप्यते (*atha yadataḥ paro divo jyotirdipyate*) (Chā. U. 3-13-7). That is, the world that is radiant and full of light is called heaven. Because, being in such a luminous heaven, the Sun lights it and from there the other worlds with his radiance, it is right to call the Sun śuciṣat. Thus it has been explained that the Āditya is the dweller in the place of heaven.
+
+Vasuḥ antarikṣasat—Next he explains that this Āditya is of the nature of the wind in the atmosphere, the middle place. वसुः सर्वस्य वासयिता वायुः । स च अंतरिक्षसत् अंतरिक्षसंचारी । (*vasuḥ sarvasya vāsayitā vāyuḥ | sa ca aṃtarikṣasat aṃtarikṣasaṃcārī |*) The wind, in the form of inhalation and exhalation, is the chief cause of all living and dwelling. Because this wind always abides, that is, pervades, in the atmosphere, he is denoted by the word antarikṣasat. That the Āditya himself, in the form of such wind, pervades the atmosphere is set forth by śruti sentences such as
+
+### Printed p. 398
+
+आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगस्तस्थु षश्च (*āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagastasthu ṣaśca*).
+
+Hotā vediṣat atithiḥ duroṇasat—That the Āditya, in the form of the Vedic fire, is in the place of the earth is described in this passage. होता देवानामाह्वाता होमनिष्पादको ना (*hotā devānāmāhvātā homaniṣpādako nā*). Established on the sacrificial altar, in the form of the Vedic fires such as the Gārhapatya, this Āditya is the one who brings the gods to the place of sacrifice, or the accomplisher of the offering. वेदिषत् वेद्यां गार्हपत्यादिरूपेण स्थितः (*vediṣat vedyāṃ gārhapatyādirūpeṇa sthitaḥ*): this fire, settled on the northern altar in the fire-pits such as the Gārhapatya, helps in carrying out the sacrifice. अतिथिः अतिथिवत्सर्वदा पूज्योऽग्निः (*atithiḥ atithivatsarvadā pūjyo 'gniḥ*): as a guest who comes to the house deserves hospitality, so the fire installed on the altar or in the house is worthy of worship at all times by all people, the sacrificer and the rest. दुरोणसत् दुरोणं गृहनाम । तत्र पाकादिसाधनत्वेन स्थितः आनेन लौकिकाग्न्यात्मकत्वमुक्तं (*duroṇasat duroṇaṃ gṛhanāma | tatra pākādisādhanatvena sthitaḥ ānena laukikāgnyātmakatvamuktaṃ*) The word duroṇa is a name for house. Being in the house, that is, in the kitchen, he is a help in cooking and the like. The meaning is that this fire, besides taking the chief part in sacrifices, is also, in the form of the worldly fire in the kitchen and so on of the sacrificer and others, a help in cooking and the like.
+
+Nṛṣat—नृषु मनुष्येषु चैतन्यरूपेण सीदतीति नृषत् । अनेन परमात्मरूपत्वमुक्तं । (*nṛṣu manuṣyeṣu caitanyarūpeṇa sīdatīti nṛṣat | anena paramātmarūpatvamuktaṃ |*) The word nṛṣat can be explained in two ways, that is, as referring to Agni and as referring to the Āditya. As referring to Agni: in the form of the digestive fire he is in the belly of all creatures as heat. As referring to the Āditya: being in the inner self of all creatures as consciousness, he impels their activities and dealings. The sentence सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) also supports this. So it is clear from this sentence that this Āditya is of the nature of the Supreme Self.
+
+Varasat—वरे वरणेये मंडले सीदतीति वरसत् । वरं वा एतद्भ्यनां यस्मिन्नेष आसन्नस्तपति । (*vare varaṇeye maṃḍale sīdatīti varasat | varaṃ vā etadbhyanāṃ yasminneṣa āsannastapati |*) The Āditya who is within the orb of the excellent, or all-pervading (all-reaching), light … **NOTE**
+
+Ṛtasat—ऋतं सत्यं ब्रह्म यज्ञो ना । तत्र सीदतीति ऋतसत् आग्निः । (*ṛtaṃ satyaṃ brahma yajño nā | tatra sīdatīti ṛtasat āgniḥ |*) The word ṛta has the meanings truth, Brahman, sacrifice. Agni is of the nature of truth, of the nature of Brahman, or takes the chief part in the sacrifice. Therefore the word ṛtasat teaches the Āditya who exists in the form of the fire having such a nature.
+
+### Printed p. 399
+
+Vyomasat—व्योमांतरिक्षं तत्र सीदतीति व्योमसत् । वायुः । इदानीमादित्यतोच्यते । (*vyomāṃtarikṣaṃ tatra sīdatīti vyomasat | vāyuḥ | idānīmādityatocyate |*) Vyoma means the atmosphere. What abides in the atmosphere is the wind. But here it teaches that this wind is of the nature of the Āditya.
+
+Abjāḥ—उदकेषु जातः । उदकमध्ये खल्वयं जायते । (*udakeṣu jātaḥ | udakamadhye khalvayaṃ jāyate |*) The birth of fire is in the midst of water. That is, it is well known that fire is born in the midst of clouds as lightning, or in the sea as the submarine fire. The meaning is that the Āditya is another form of such a fire. Or else, when the Sun rises in the eastern quarter it appears to rise from the eastern sea. Therefore some hold that the Sun is born in the eastern sea.
+
+Gojāḥ—गोषु रश्मिषु जातः । (*goṣu raśmiṣu jātaḥ |*) Because he is born in the midst of the shining rays, the Sun is called gojāḥ.
+
+Ṛtajāḥ—ऋतं सत्यं । सर्वैर्दृश्यत्वेन सत्यजातः । न ह्यसाविंद्रादिवत् परोक्षो भवति । (*ṛtaṃ satyaṃ | sarvairdṛśyatvena satyajātaḥ | na hyasāviṃdrādivat parokṣo bhavati |*) This Āditya is seen by all. He is not unseen to the eye like the gods Indra and the rest. Because he is within the range of all, he is of the nature of truth. No one need doubt whether the Āditya exists or not. Because he is plainly visible to everyone's eyes, it is true that the Āditya exists. For—
+
+अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर्वै सत्यं । अद्रा ३ गित्याह । आदर्शमिति । तत्सत्यं ॥ (*anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣurvai satyaṃ | adrā 3 gityāha | ādarśamiti | tatsatyaṃ ‖*) (Tai. Brā. 1-1-4-1, 2).
+
+One may speak falsehood with the mouth. One may also think untruth in the mind. But what is seen with the eye is not reckoned untrue. The eye does not tell a lie. Since there is a śruti sentence that if I say I have seen a thing, it is certainly true, the Āditya whom we see with the eye is truly real. The meaning is that there is no room for doubt in this matter.
+
+Adrijāḥ—अद्रावुदयाचले जातः । (*adrāvudayācale jātaḥ |*) Adri means a mountain, the mountain of sunrise. That the Sun is born every day at dawn on the mountain of sunrise is a matter of experience for everyone.
+
+Satyam—ऋतं सत्यमबाध्यं सर्वाधिष्ठानं ब्रह्मतत्त्वं । तद्रूपो ह्यसावेव । (*ṛtaṃ satyamabādhyaṃ sarvādhiṣṭhānaṃ brahmatattvaṃ | tadrūpo hyasāveva |*) This Āditya is the Supreme Self himself, denoted by the word satya. Because he always exists, he is one who is not obstructed by anything, unobstructed, eternal. The Āditya is the very principle of Brahman. असावादित्यो ब्रह्म (*asāvādityo brahma*)
+
+### Printed p. 400
+
+(Tai. Ā. 2-1-2) and ऋतग्ं सत्यं परं ब्रह्म (*ṛtagṃ satyaṃ paraṃ brahma*) (Tai. U. 4-23) and other śruti sentences support this matter. **NOTE**
+
+In the Aitareya Brāhmaṇa this verse हंसः शुचिषत् (*haṃsaḥ śuciṣat*) is well known as the Haṃsavatī verse. And in the context where it says स्वर्गमेव तल्लोकं रोहति य एवं वेद । हंसवत्या रोहति (*svargameva tallokaṃ rohati ya evaṃ veda | haṃsavatyā rohati*)—that is, the sacrificer who performs the sacrifice recites this Haṃsavatī verse and ascends to heaven—the particular meanings of this verse are explained:
+
+हंसः शुचषदित्येष वै हंसः शुचिषत् (*haṃsaḥ śucaṣadityeṣa vai haṃsaḥ śuciṣat*) (Ai. Brā. 18-6).
+
+The verse in which the word haṃsaḥ occurs is called a Haṃsavatī verse. By pronouncing that verse the sacrificer ascends to heaven. The root hanti has the meaning of going, गच्छति (*gacchati*). Because the Sun is always moving, the Sun is called haṃsa. Because he is in heaven, the pure region, he is also called śuciṣat. The Sun described in this verse is always seen in the (solar) orb. Because he is by nature always moving, and because he dwells in the world of heaven, the Sun is taught by the words haṃsaḥ śuciṣat.
+
+वसुरंतरिक्षसदित्येष वै वसुरंतरिक्षसत् (*vasuraṃtarikṣasadityeṣa vai vasuraṃtarikṣasat*).
+
+Because it dwells always (moves), the wind is called vasu. Whether by day or by night, the wind is never without motion. It is always moving. Likewise the Sun too is always moving. The wind pervades the atmosphere. The Āditya too, being of the nature of the Supreme Self, is all-embracing. For that very reason the wind that is in the atmosphere is also said to be of the form of the Āditya.
+
+होता वेदिषदित्येष वै होता वेदिषत् (*hotā vediṣadityeṣa vai hotā vediṣat*).
+
+Because he sits (is installed) on the sacrificial altar and performs the offering, the Hotā is Agni. As said before, because the Āditya is all-embracing, and because the fire too is another form of the Āditya, the words hotā vediṣat in this passage teach the Āditya himself.
+
+अतिथिर्दुरोणसदित्येष वा अतिथिर्दुरोणसत् (*atithirduroṇasadityeṣa vā atithirduroṇasat*).
+
+For the word atithi the meaning can be given as न विद्यते तिथिविशेषनियमो यात्रार्थे यस्य सोऽयमतिथिः । (*na vidyate tithiviśeṣaniyamo yātrārthe yasya so 'yamatithiḥ |*) That is, for one who is a guest there is no rule as to at what time, where he should go and should not go
+
 ---
 
-**Progress note:** Done through printed p. 394. pp. 389-394 (batch API)
+**Progress note:** Done through printed p. 400. pp. 395-400 (batch API)
