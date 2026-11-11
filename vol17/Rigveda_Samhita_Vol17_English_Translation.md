@@ -33180,6 +33180,279 @@ Maghavan, the wealthy Indra, makes क्षियंतं (*kṣiyaṃtaṃ*),
 - वसौ (*vasau*)—in the midst of wealth
 - धात् (*dhāt*)—places
 
+### Printed p. 974
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are wealthy make a man who is perishing for lack of wealth not perish but become well nourished. Indra, the destroyer of enemies, like the sky with its thunderbolt, drives away the sin that has been heaped up together; and Indra the wealthy sets the worshipper amid riches.
+
+##### English translation (H. H. Wilson)
+You are the Maghavan who makes one man destitute, another prosperous, who (scatters from his worshipper) the accumulated dust (of sin,) the destroyer ( of foes ), like the heaven with the thunderbolt, Maghavan conducts his worshipper to wealth
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं च॒क्रमि॑षण॒त्सूर्य॑स्य॒ नैत॑शं रीरमत्सृमा॒णं ।  
+> आ कृ॒ष्ण ईं॑ जुहुरा॒णो जि॑घर्ति त्व॒चो बु॒द्धे रज॑सो अ॒स्य  ॑
+> योनौ ॥ १४ ॥
+
+> *ayaṃ cakramiṣaṇatsūryasya naitaśaṃ rīramatsṛmāṇaṃ |*  
+> *ā kṛṣṇa īṃ juhurāṇo jigharti tvaco buddhe rajaso asya*  
+> *yonau ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । चक्रं । इषणत् । सूर्यस्य । नि । एतशं । रीरमत् । सस्यमाणं ।  
+> आ । कृष्णः । ईं । जुहुराणः । जिघर्ति । त्वचः । बुद्धे । रजसः । अस्य । योनौ ॥ १४ ॥
+
+> *ayaṃ | cakraṃ | iṣaṇat | sūryasya | ni | etaśaṃ | rīramat | sasyamāṇaṃ |*  
+> *ā | kṛṣṇaḥ | īṃ | juhurāṇaḥ | jigharti | tvacaḥ | buddhe | rajasaḥ | asya | yonau ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रैतशं सूर्ये पस्पृधानमित्यर्धर्चॆ । ऋग्वे. १-६१-१५ । पूर्वं काचिदाख्यायिका सूचिता । अत्राप्ययं चक्रमिति पूर्वार्धे सा सूच्यते । स्वश्वनामा
+> कश्चिद्राजा । स च पुत्रार्थं सूर्यमुपास्ते । स च सूर्यः पुत्ररूपेण स्वयमेव
+> तत्रोत्पन्नः सन् एतशाख्येन महर्षिणा सार्धं युद्धं चकार । तदानीं स यषिर्युद्दे जयार्थमिंद्रं तुष्टाव । स इंद्रस्तेन स्तूयमानः सन् स्वश्वपुत्रस
+> ूर्यस्य संबंधिनः संग्रामादेनमपालयदिति । अयमिंद्रः सूर्यस्य चित्रमायुधमिषणत् । प्रैरयत् । ससृमाणु युद्धार्थं सरंतं गच्छंतमेतरना-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that in the half-verse प्रैतशं सूर्ये पस्पृधानं (*praitaśaṃ sūrye paspṛdhānaṃ*) (Ṛg. 1-61-15) a certain story was already hinted at, and that it is hinted at here too in the first half of the verse beginning अयं चक्रं (*ayaṃ cakraṃ*). A king named Svaśva worshipped Sūrya for the sake of a son. Sūrya himself was born there in the form of a son and fought a battle with the great sage named Etaśa. Then that sage praised Indra for victory in the battle. Indra, being praised by him, protected him from the battle with Sūrya, who was the son of Svaśva. Then the verse: this Indra hurled the wondrous weapon of Sūrya; he restrained the sage called Etaśa, who was going forth to the fight (the text continues on the next page).
+
+### Printed p. 975
+
+> मानमृषिं नि रीरमत् । न्यरीरमत् । निवारितवान् । जुहुराणः कुटिलं यथा भवति
+> तथा संचरन् कृष्णः कृष्णवर्णो मेघस्त्वचस्तेजसो बुद्धे मूलभूते रजसोऽस्योदकस्य योन्सौ स्थानेंतरिक्षे स्थितमीमेनमिंद्रमा जिघर्ति। आसिंचति । शत्रूणां
+> प्रेरिताच्चक्रादेस्रस्तं ररक्षेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Etaśa was held back, restrained. Moving in a crooked course, the dark-coloured cloud, standing in the sky, which is the root of radiance and the birthplace of this water, sprinkles Indra. The meaning is: he protected him from the discus and other weapons hurled by the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Indra
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- चक्रं (*cakraṃ*)—the weapon called the discus
+- इषणत् (*iṣaṇat*)—hurled
+- सस्यमाणं (*sasyamāṇaṃ*)—who had set out for battle
+- एतशं (*etaśaṃ*)—the sage named Etaśa
+- नि रीरमत् (*ni rīramat*)—restrained
+- जुहुराणः (*juhurāṇaḥ*)—moving crookedly
+- कृष्णः (*kṛṣṇaḥ*)—the dark-coloured cloud
+- त्वचः (*tvacaḥ*)—of radiance
+- बुध्ने (*budhne*)—which is the root
+- अस्य रजसः (*asya rajasaḥ*)—of this water
+- योन्सौ (*yonsau*)—being in the sky, which is the place of origin
+- ईं (*īṃ*)—upon Indra
+- आ जिघर्ति (*ā jigharti*)—pours down rain and cools
+
+##### भावार्थ (Bhāvārtha)
+
+Indra hurled the weapon of Sūrya called the discus, and restrained the sage Etaśa who had set out for battle. The dark, crookedly moving cloud, being in the sky, which is the root of radiance and the birthplace of water, pours rain upon Indra and cools him.
+
+##### English translation (H. H. Wilson)
+He has hurled the wheel ( of the chariot ) of the sun, and has stopped Etasa going forth to (battle): the dark undulating cloud bedews him, (staying) at the root of radiance in the regions of its waters ;
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator indicates that there is an ancient story in the commentary on the Ṛk प्रैतशं सूर्ये पस्पृधानं (*praitaśaṃ sūrye paspṛdhānaṃ*) (Ṛ. Saṃ. 1-61-15) and explains it again here: स्वश्वनामा कश्चिद्राजा । स च पुत्रार्थं सूर्यमुपास्ते । स च सूर्यः पुत्ररूपेण स्वयमेव तत्रोत्पन्नः सन् एतशाख्येन महर्षिणा सार्धं युद्धं चकार । तदानीं स यषिर्युद्दे जयार्थमिंद्रं तुष्टाव । स इंद्रस्तेन स्तूयमानः सन् स्वश्वपुत्रस ूर्यस्य संबंधिनः संग्रामादेनमपालयदिति । (*svaśvanāmā kaścidrājā | sa ca putrārthaṃ sūryamupāste | sa ca sūryaḥ putrarūpeṇa svayameva tatrotpannaḥ san etaśākhyena maharṣiṇā sārdhaṃ yuddhaṃ cakāra | tadānīṃ sa yaṣiryudde jayārthamiṃdraṃ tuṣṭāva | sa iṃdrastena stūyamānaḥ san svaśvaputrasa ūryasya saṃbaṃdhinaḥ saṃgrāmādenamapālayaditi |*) (Sā. Bhā.).
+In ancient times there was a king named Svaśva. He worshipped Sūrya so that he might have a son. Then Sūrya himself was born to him as a son. While this son was fighting with a sage named Etaśa,
+
+### Printed p. 976
+that sage Etaśa praised Indra so that he might win the battle. Then Indra, pleased with his praise, protected the sage Etaśa in the battle connected with Svaśva's son. This matter is indicated in this Ṛk.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असि॑क्न्यां॒ यज॑मानो॒ न होता॑ ॥ १५ ॥
+
+> *asiknyāṃ yajamāno na hotā ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असिक्नां । यजमानः । न । होता ॥ १५ ॥
+
+> *asiknāṃ | yajamānaḥ | na | hotā ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकपदेयमृक् पूर्वर्चा सह दृष्टांतत्वेन संबद्यते । असिक्न्यां रात्रौ
+> यजमानो न यजमान इव होता होतारमाह्वातारमुग्निं । द्वितीयार्थे
+> प्रथमा । सोमेनासिंचति तद्वन्मेघ इंद्रमासिंचतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This one-word Ṛk is connected with the preceding verse as an illustration. असिक्न्यां (*asiknyāṃ*) means at night; यजमानो न (*yajamāno na*) means like a sacrificer; होता (*hotā*) is the Hotṛ, the caller, namely Agni; the nominative stands for the accusative. As the sacrificer sprinkles him with soma, so the cloud sprinkles Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असिक्नां (*asiknāṃ*)—at night
+- यजमानो होता न (*yajamāno hotā na*)—as the sacrificer pours ghee and the like on the Hotṛ, Agni
+
+##### भावार्थ (Bhāvārtha)
+
+As the sacrificer at night-times pours ghee and the like on the Hotṛ, Agni, and becomes the cause of Agni's satisfaction, so the cloud poured rain and became the cause of Indra's satisfaction.
+
+##### English translation (H. H. Wilson)
+As the sacrificer (pours the oblation) at night upon the fire.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग॒व्यंत॒ इंद्रं॑ स॒ख्याय॒ विप्रा॑ अश्वा॒यंतो॒ वृष॑णं वा॒ज.  ॑
+> यंतः ।
+
+> *gavyaṃta iṃdraṃ sakhyāya viprā aśvāyaṃto vṛṣaṇaṃ vāja.*  
+> *yaṃtaḥ |*
+
+### Printed p. 977
+
+> जनीयंतो जनिदामक्षितोतिमा च्यावयामोऽवते न  
+> कोशं ॥ १६ ॥
+
+> *janīyaṃto janidāmakṣitotimā cyāvayāmo 'vate na*  
+> *kośaṃ ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गव्यंतः । इंद्रं । सख्याय । विप्राः । अश्वयंतः । वृषणं । वाजयंतः ।  
+> जन्सियंतः । जन्सिदां । अक्षितऊतिं । आ । च्यवयामः। अवते । न । कोशं ॥ १६ ॥
+
+> *gavyaṃtaḥ | iṃdraṃ | sakhyāya | viprāḥ | aśvayaṃtaḥ | vṛṣaṇaṃ | vājayaṃtaḥ |*  
+> *jansiyaṃtaḥ | jansidāṃ | akṣitaūtiṃ | ā | cyavayāmaḥ| avate | na | kośaṃ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गव्यंतो गा इच्छंतोऽश्वायंतोऽश्वानिच्छंतो वाजयंतो वाजमन्नमिच्छंतो जनीयंतो जायाश्चेच्छंतो विप्रा मेधाविनः स्तोतारो वयं
+> सख्यायेंद्रसंबंधिने सखित्वाय वृषणं कामानां वर्षितारं जनिदां जाया.
+> प्रदमक्षितोतिमक्षिणरक्षं । सर्वदा रक्षाकरमित्यर्थः । एवंभूतमिंद्रमा च्यावयामः । आगमयामः । तत्र दृष्टांतः । अवते कूपे । अवत इति कूपनाम
+> अवतोऽवटः क्रिविरिति कूपनामसु पाठात् । कोशं न जलोद्धरणपात्रमिव ।
+> पुरुषा जलोद्धरणपात्रं जलेन पूरयितुं कूपे यथाच्यावयंति तथा वयमाच्यावयाम इत्यर्थः 8
+
+##### Gist of the bhāṣya
+
+We, the wise praisers, desiring cattle, horses, food and wives, for friendship with Indra, bring to us Indra, the showerer of desires, the giver of wives, whose protection is unfailing, that is, always protecting. The illustration: as into a well, like a vessel for drawing water. As men lower a water-drawing vessel into a well to fill it with water, so we bring him. He cites the Nighaṇṭu reading of *avato avaṭaḥ kriviḥ* among the names of a well, to show that अवत (*avata*) is a name for a well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गव्यंतः (*gavyaṃtaḥ*)—those who wish for cows
+- अश्वायंतः (*aśvāyaṃtaḥ*)—those who wish for horses
+- वाजयंतः (*vājayaṃtaḥ*)—those who need food
+- जनीयंतः (*janīyaṃtaḥ*)—those eager to obtain wives
+- विप्राः (*viprāḥ*)—we, the wise (praisers)
+- सख्याय (*sakhyāya*)—to win friendship
+- वृषणं (*vṛṣaṇaṃ*)—showerer of desires
+- जनिदां (*janidāṃ*)—giver of wives
+- अक्षितोतिं (*akṣitotiṃ*)—giver of everlasting protection
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवते (*avate*)—into a well
+- कोशं न (*kośaṃ na*)—as one lowers a water vessel
+- आ च्यावयामः (*ā cyāvayāmaḥ*)—we urge him to come down to us
+
+##### भावार्थ (Bhāvārtha)
+
+We (the praisers), wise, wishing for cattle, horses, food and wives, to win friendship with Indra, urge Indra, the showerer of desires, the giver of wives, the giver of everlasting protection, to come down to us, as a water vessel is lowered into a well.
+
+### Printed p. 978
+
+##### English translation (H. H. Wilson)
+May we (who are) wishing for cattle, for horses, for food, for wives, through his friendship induce Indra, the showerer ( of benefits ) the giver of wives, the unwearied granter (of protection) to come down, as a bucket (is lowered) into a well.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रा॒ता नो॑ बोधि॒ ददृ॑शान आ॒सिर॑भिख्या॒ता म॑र्डि॒ता सो॒म्यानां॑ ।  
+> सखा॑ पि॒ता पि॒तृत॑मः पित्थ॒णां कर्ते॑मु लो॒कमु॑श॒ते व॑यो॒धाः॥ १७ ॥
+
+> *trātā no bodhi dadṛśāna āsirabhikhyātā marḍitā somyānāṃ |*  
+> *sakhā pitā pitṛtamaḥ pitthaṇāṃ kartemu lokamuśate vayodhāḥ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्राता । नः । बोधि । ददृशानः । आपिः । अभिख्याता । मर्डिता । सोम्यानां ।  
+> सखा । पिता । पितृतमः । पित्थणां । कर्ता । ईं । ऊं इति । लोकं । उशते ।  
+> वयोऽधाः ॥ १७ ॥
+
+> *trātā | naḥ | bodhi | dadṛśānaḥ | āpiḥ | abhikhyātā | marḍitā | somyānāṃ |*  
+> *sakhā | pitā | pitṛtamaḥ | pitthaṇāṃ | kartā | īṃ | ūṃ iti | lokaṃ | uśate |*  
+> *vayo 'dhāḥ ‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आपिराप्तो ददृशानः सर्वं पालकत्वेन पश्यंत्वं नोऽस्माकं त्राता
+> रक्षको बोधि । भव । किंच । अभिख्याताभिद्रष्टा मर्डिता सुखयिता सोम्यानां
+> सोमार्हाणां यजमानादीनां सखा प्रजापतिना समानख्यातिः पिता पालकः ।
+> केवलं पालको न किंतु पित्यणां पालकानां मध्यॆ पितृतमोऽतिशयेन पालकः
+> कर्तेमु पित्यणां स्रष्टा च त्वं लोकं स्वर्गादिलोकमुशते कामयमानाय
+> स्तोत्रे वयोधाः । वय इत्यन्ननामैतत् । अन्नप्रदो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are a kinsman and see all as protector, be our saviour. Further: be the overseer and giver of happiness to those fit for soma, the sacrificers and others; a friend, of fame equal to Prajāpati; a protector. Not merely a protector: among protectors the supreme protector, and the maker of the protectors; to the praiser desiring the world, heaven and the rest, be the वयोधाः (*vayodhāḥ*). वयः (*vayaḥ*) is a name for food; be the giver of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) आपिः (*āpiḥ*)—kinsman to us
+- ददृशानः (*dadṛśānaḥ*)—you who look kindly upon all
+- नः (*naḥ*)—to us
+- तात्रा (*tātrā*)—that you should be the protector
+- भोधि (*bhodhi*)—know (be the protector)
+
+### Printed p. 979
+- अभिख्याता (*abhikhyātā*)—one who looks after all of us like a supervisor
+- मर्डिता (*marḍitā*)—giver of happiness
+- सोम्यानां (*somyānāṃ*)—to the sacrificers worthy to offer soma
+- सखा (*sakhā*)—friend
+- पिता (*pitā*)—protector
+- पित्थणां (*pitthaṇāṃ*)—among protectors
+- पितृतमः (*pitṛtamaḥ*)—the best protector
+- कर्ता ईं उ (*kartā īṃ u*)—you, the creator of all
+- लोकं (*lokaṃ*)—the world, heaven and the rest
+- उशते (*uśate*)—to the praiser who desires
+- वयोधाः (*vayodhāḥ*)—be the giver of food
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are our kinsman and look kindly on all, be our protector. You who look after all of us like a supervisor, give happiness, are a friend to the sacrificers worthy of offering soma, a protector, the best protector among all protectors, and the creator of all, be the giver of food to the praiser who desires heaven and the other worlds.
+
+##### English translation (H. H. Wilson)
+Be our preserver, you who are looking (benevolently upon) all ; a kinsman (to us); a supervisor (of all things), a bestower of felicity on those who are worthy (to offer) libations ; a friend, a protector, a defender in the highest degree among defenders, a creater : (be you, who bestow) the world of heaven upon him who desires it, the giver to us of food.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒खी॒य॒ताम॑वि॒ता बो॑धि॒ सखा॑ गृणा॒न इं॑द्र स्तुव॒ते वयो॑  
+> धाः ।  
+> व॒यं ह्या ते॑ चकृ॒मा स॒बाध॑ अ॒भिः शमी॑भिर्म॒हयं॑त इंद्र॥
+
+> *sakhīyatāmavitā bodhi sakhā gṛṇāna iṃdra stuvate vayo*  
+> *dhāḥ |*  
+> *vayaṃ hyā te cakṛmā sabādha abhiḥ śamībhirmahayaṃta iṃdra‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखियतां । अविता । बोधि । सखा । गृणानः । इंद्र । स्तुवते । वयः । धाः ।  
+> वयं । हि । आ । ते । चकृम । सबाधः । अभिः । शमीभिः । महयंतः । इंद्र॥ १८ ॥
+
+> *sakhiyatāṃ | avitā | bodhi | sakhā | gṛṇānaḥ | iṃdra | stuvate | vayaḥ | dhāḥ |*  
+> *vayaṃ | hi | ā | te | cakṛma | sabādhaḥ | abhiḥ | śamībhiḥ | mahayaṃtaḥ | iṃdra‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सखीयतां सखित्वमिच्छतामस्माकमविता रक्षिता बोधि। भव। तथा
+> गृणानः 8 स्तूयमानस्त्वं सखा भव । हे इंद्र स्तुवते स्तुतिं कुर्वते मह्यं
+> वयोऽन्नं धाः । अधाः । धेहि । हे इंद्र सबाधो बाधासहिता वयं हि वयं
+
+##### Gist of the bhāṣya
+
+O Indra, be the protector of us who desire friendship. Being praised, be our friend. O Indra, to me who praise you, give food. O Indra, we, together with our troubles, … (the block breaks off here in this window).
+
 ---
 
-**Progress note:** Done through printed p. 973. pp. 967-973 (batch API)
+**Progress note:** Done through printed p. 979. pp. 974-979 (batch API)
