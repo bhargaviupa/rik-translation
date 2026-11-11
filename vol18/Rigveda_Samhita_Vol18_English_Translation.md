@@ -30036,6 +30036,246 @@ O Agni, of innate wisdom, I who am subject to death praise you, free from death,
 ##### English translation (H. H. Wilson)
 Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart ; therefore, Jatavedas, grant us food, and may I obtain immortality through my posterity.
 
+### Printed p. 803
+
+##### विशेषविषयगळु (Special Topics)
+
+In the putrakāmeṣṭi (the offering for the desire of a son), this Ṛk beginning yastvā hṛdā is to be recited as the yājyā mantra in the principal oblation. This is set out by the Āśvalāyana Śrautasūtra aphorism यस्त्वा हृदा कीरिणा मन्यमानोग्नि स्तुविश्रवस्तमं (*yastvā hṛdā kīriṇā manyamānogni stuviśravastamaṃ*) (Ā. 2-10). In this Ṛk the seer, to show his own smallness and Agni's greatness, designates himself by the word martya (mortal) and Agni by the word amṛtya (immortal).
+
+hṛdā kīriṇā manyamānaḥ johavīmi: here the word कीरि (*kīri*) is read among the names of worshippers (Ni. 3-19). The words हृदा कीरिणा (*hṛdā kīriṇā*) mean "with a mind fixed on the praise of Agni alone". The seer says: praising Agni with hymns joined to a mind set on him, I invoke Agni to the sacrificial ground.
+
+agne prajābhiḥ amṛtatvaṃ āśyām: हे अग्ने त्वद्दत्ताभिः प्रजाभिः संतत्यविच्छेदलक्षणं प्राप्नुयां (*he agne tvaddattābhiḥ prajābhiḥ saṃtatyavicchedalakṣaṇaṃ prāpnuyāṃ*). That is: O Agni, may I obtain, without break, the line of sons, grandsons and so on, gained through your grace. On this the Bhāṣyakāra has quoted the Taittirīya Brāhmaṇa passage अमृतं मर्त्याभ्यः । प्रजामनु प्रजायसे । तदु ते मर्त्यामृतं (*amṛtaṃ martyābhyaḥ | prajāmanu prajāyase | tadu te martyāmṛtaṃ*) (Tai. Brā. 1-5-5-6). Here the words "prajābhiḥ amṛtatvam" are explained as meaning that the family line runs on unbroken: a son to the father, a grandson to the son, and so on. The sacrificer who performs the sacrifice, or the seer who beheld the mantra, prays to Agni that by his grace his lineage may continue unbroken.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मै॒ त्वं सु॒कृते॑ जातवेद उ लो॒कम॑ग्ने कृ॒णवः॑ स्को॒नं।  
+> अ॒श्विनं॒ स पु॒त्रिणं॑ वी॒रवं॑तं॒ गोमं॑तं र॒यिं न॑शते स्व॒स्ति ॥१०॥
+
+> *yasmai tvaṃ sukṛte jātaveda u lokamagne kṛṇavaḥ skonaṃ|*  
+> *aśvinaṃ sa putriṇaṃ vīravaṃtaṃ gomaṃtaṃ rayiṃ naśate svasti ‖10‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । त्वं । सुकृते । जात्यवेदः । ऊं इति । लोकं । अग्ने । कृणवः । स्सोनं ।  
+> अश्विनं । सः । पुत्रिणं । वीरवंतं । गोमंतं । रयिं । नशते । स्वस्ति ॥ ११ ॥
+
+> *yasmai | tvaṃ | sukṛte | jātyavedaḥ | ūṃ iti | lokaṃ | agne | kṛṇavaḥ | ssonaṃ |*  
+> *aśvinaṃ | saḥ | putriṇaṃ | vīravaṃtaṃ | gomaṃtaṃ | rayiṃ | naśate | svasti ‖ 11 ‖*
+
+### Printed p. 804
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्यामेव पुत्रकामेष्ट्यां यस्मै त्वमित्येषाग्नेः पुत्रवतोऽनुवाक्या ।
+> यस्मै त्वं सुकृते जातवेदो यस्त्वा हृदा कीरिणा मन्यमानः । आ. २-१० । इति
+> हि सूत्रितं ॥
+> हे चातवेदोऽग्ने त्वं यस्मै सुकृते सुकर्मणे यजमानाय । उ इति
+> पूरणः । लोकं स्कोनं सुखकरं कृणवः । अकरोः । यद्वा । लोकमालोकेन
+> स्कोनं कृणवः । अनुग्रहेण कुर्वित्यर्थः । स यजमानोऽश्विनं बह्वश्वोपेतं
+> पुत्रिणं बहुपुत्रोपेतं वीरवंतं वीरैर्वीरैण वोपेतं गोमंतं रयिं धनं
+> नशते । प्राप्नोति । स्वस्त्यविनश्वरं ॥
+
+##### Gist of the bhāṣya
+
+In that same putrakāmeṣṭi, the Ṛk "yasmai tvam" is the anuvākyā for Agni who gives sons; the sūtra says यस्मै त्वं सुकृते जातवेदो यस्त्वा हृदा कीरिणा मन्यमानः (*yasmai tvaṃ sukṛte jātavedo yastvā hṛdā kīriṇā manyamānaḥ*) (Ā. 2-10). O Jātavedas Agni, for whatever sacrificer of good deeds (sukṛte) you make the world (loka) pleasant (syona), giving comfort (u is a mere filler), or, alternatively, you make it pleasant by your regard, that is, by your favour — that sacrificer obtains wealth: rich in horses, rich in many sons, rich in heroes or sons, rich in cattle; and it is svasti, imperishable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O one who is Jātavedas
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यस्मै (*yasmai*)—for whichever
+- सुकृते (*sukṛte*)—sacrificer who does good deeds
+- लोकं (*lokaṃ*)—your regard
+- स्योनं (*syonaṃ*)—as one of favour
+- कृणवः (*kṛṇavaḥ*)—you make
+- सः (*saḥ*)—that sacrificer
+- अश्विनं (*aśvinaṃ*)—endowed with horses
+- पुत्रिणं (*putriṇaṃ*)—endowed with many sons
+- वीरवंतं (*vīravaṃtaṃ*)—endowed with strength
+- गोमंतं (*gomaṃtaṃ*)—endowed with cattle
+- रयिं (*rayiṃ*)—wealth
+- स्वस्ति (*svasti*)—as imperishable
+- नशते (*naśate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are Jātavedas, the sacrificer of good deeds upon whom you look, showing a favourable mind, obtains wealth endowed with horses, many sons, strength and cattle. It is imperishable and auspicious.
+
+##### English translation (H. H. Wilson)
+Upon whatsoever performer of good works you, Agni, who are Jatavedas, cast a favourable regard, he enjoys welfare, and riches comprehending horses, cattle, sons, and male descendants.
+
+##### विशेषविषयगळु (Special Topics)
+
+u: the word u is for filling out the pāda; that is, when a pāda of a Ṛk is one syllable short of its fixed number, the word u is used to complete it. Yāska has given the explanation अथापि पदपूरण इदमु तदु (*athāpi padapūraṇa idamu tadu*) (Ni. 1-5). In such a context the word has no specific meaning.
+
+### Printed p. 805
+
+##### विशेषविषयगळु (Special Topics)
+
+syonam: the word स्कोनं (*skonaṃ*) is read among the twenty names of happiness (Ni. 3-13). Here the seer prays that Agni, besides giving the sacrificer happiness, should graciously grant him horses, excellent, that is valiant, offspring of sons, cattle and wealth.
+
+svasti: for the word svasti Yāska gives the explanation स्वस्तित्यविनाशिनाम ! अस्तिरभिपूजितः सु अस्तीति (*svastityavināśināma ! astirabhipūjitaḥ su astīti*) (Ni. 3-21). The word svasti is formed from su + asti. It means "one who is well worshipped". In use, however, it has the sense of an indestructible name: without destruction, always secure. Here, when the seer prays Agni to give him wealth and the like that never perish, he uses the words "rayiṃ svasti".
+
+## Sūkta 5 (Maṇḍala 5)
+The fifth sūkta.
+
+Sāyaṇa's introduction: "susamiddhāya" is the fifth sūkta, of eleven Ṛks; its seer is Vasuśruta Ātreya; its metre is Gāyatrī; its deities are those named from idhma onward. Since it is called āprī, it excludes Tanūnapāt (Anukr. Ma. 1, Sū. 13). The Anukramaṇikā says: सुसमिद्धायाप्रं गायत्रं (*susamiddhāyāpraṃ gāyatraṃ*). This is an Āprī sūkta of the Atris, since it is said समिद्दो अद्येति सर्वेषां यथर्षि वा (*samiddo adyeti sarveṣāṃ yatharṣi vā*) (Ā. 3-2).
+
+Anuvāda: this sūkta beginning susamiddhāya is the fifth sūkta in the first anuvāka. It has eleven Ṛks. Its seer is Vasuśruta, born in the line of Atri. As with Āprī sūktas, the eleven Ṛks have eleven deities beginning with Idhma; the metre is Gāyatrī. Because the Anukramaṇikā (Anu. 1-13) calls this sūkta an Āprī, there is no mantra for the deity Tanūnapāt in it; in its place there is praise of the deity Narāśaṃsa. The Anukramaṇikā says: susamiddhāyāprāṃ gāyatram. It is the Āprī sūkta to be recited by those born in the line of Atri. On this there is the Āśvalāyana Śrautasūtra: समिद्धो अद्येति सर्वॆषां यथर्षि वा (*samiddho adyeti sarvèṣāṃ yatharṣi vā*) (Ā. 3-2).
+
+### Printed p. 806
+Sūkta 5. Maṇḍala 5; Anuvāka 1; Sūkta 5. Aṣṭaka 3; Adhyāya 8; Vargas 20, 21. Number of Ṛks in the sūkta: 11. Seer: Vasuśruta Ātreya. Deity: Āprī sūkta: 1. Idhma, Samidh or Agni; 2. Narāśaṃsa; 3. Iḷa; 4. Barhis; 5. the divine Doors; 6. Uṣāsānaktā; 7. the two divine Hotṛs, the wise; 8. the three goddesses Sarasvatī, Iḷā, Bhāratī; 9. Tvaṣṭṛ; 10. Vanaspati; 11. the Svāhākṛtis. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सुस॑मिद्दाय शो॒चिषे॑ घृ॒तं ती॒व्रं जु॑होतन ।  
+> अ॒ग्नये॑ जा॒तवे॑दसे ॥ १ ॥
+
+> *susamiddāya śociṣe ghṛtaṃ tīvraṃ juhotana |*  
+> *agnaye jātavedase ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुसमिद्दाय । शोचिषे । घृतं । तीव्रं । जुहोतन ।  
+> अग्नये । जातवेदसे ॥ १ ॥
+
+> *susamiddāya | śociṣe | ghṛtaṃ | tīvraṃ | juhotana |*  
+> *agnaye | jātavedase ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुसमिद्धाय सुष्टु समिद्धायैतन्नामकायाग्नये शोचिषे दीप्तिमते
+> घृतमाज्यं तीव्रं प्रभूतं जुहोतन हे ऋत्विज अग्नयेऽंगनादिगुणयुक्ताय
+> जातवेदसे जातधनाय ॥
+
+##### Gist of the bhāṣya
+
+To Agni, well kindled (susamiddha, so named), the radiant one, O priests, pour abundant ghee; to Agni, endowed with qualities such as fire-lustre, Jātavedas, possessor of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुसमिद्धाय (*susamiddhāya*)—(O priests) to the one who is Susamiddha (greatly blazing)
+- जातवेदसे (*jātavedase*)—who is Jātavedas
+- शोचिषे (*śociṣe*)—radiant
+- अग्नये (*agnaye*)—to Agni
+- धृतं (*dhṛtaṃ*)—ghee
+- तीव्रं (*tīvraṃ*)—abundantly
+- जुहोतन (*juhotana*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, to Agni named Susamiddha, who is Jātavedas and radiant, offer ghee abundantly.
+
+### Printed p. 807
+
+##### English translation (H. H. Wilson)
+Offer abundant butter to the resplendent, Susamiddha, to Agni, to Jatavedas.
+
+##### विशेषविषयगळु (Special Topics)
+
+This sūkta is an Āprī sūkta. We have written long explanations of Āprī sūktas many times before. Above all, everything about Āprī sūktas explained in Ṛ. Saṃ. Part 15, pp. 665-747 applies to the present sūkta as well, so it is not explained again here. All of it can be learned by looking there.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नरा॒शंसः॑ सुषूदती॒मं य॒ज्ञमदा॑भ्यः ।  
+> क॒विर्हि मधु॑हस्यः ॥ २ ॥
+
+> *narāśaṃsaḥ suṣūdatīmaṃ yajñamadābhyaḥ |*  
+> *kavirhi madhuhasyaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नराशंसः । सुसूदति । इमं । यज्ञं । अदाभ्यः ।  
+> कविः । हि । मधुहस्यः ॥ २ ॥
+
+> *narāśaṃsaḥ | susūdati | imaṃ | yajñaṃ | adābhyaḥ |*  
+> *kaviḥ | hi | madhuhasyaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नराशंसः नरैः शंसनीयोऽयमग्निरिमं यज्ञमिदं हविर्वा सुषूदति ।
+> सुष्टु प्रेरयति । स देवोऽदाभ्योऽहिंस्यः केनापि कविर्मेधावी मधुहस्तो
+> मधुरहस्त्यः ॥
+> ॥ प्रतिपवार्थ ।.
+> अदाभ्यः—यार हिंसॆगू सिलुकदवनू । कविः—मेधावियू । मधुहस्त्यः—
+> आह्लादकरवाद हस्तवुळ्ळवनू आद ! नराशंसः—नराशंसनामकनाद अग्नियु । इमं यज्ञंई यज्ञवन्नु । सुषूदति हि--उत्तमवागि प्रेरिसुत्तानॆयल्लवे?
+
+##### Gist of the bhāṣya
+
+Narāśaṃsa, this Agni who is to be praised by men, propels this sacrifice, or this oblation, well. That god is uninjurable (adābhya) by anyone, wise (kavi), sweet-handed (madhuhasta, "of sweet hand").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदाभ्यः (*adābhyaḥ*)—one who falls under no one's harm
+- कविः (*kaviḥ*)—the wise
+- मधुहस्त्यः (*madhuhastyaḥ*)—one having a delightful hand
+- नराशंसः (*narāśaṃsaḥ*)—Agni named Narāśaṃsa
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- सुषूदति हि (*suṣūdati hi*)—does he not propel well?
+
+##### भावार्थ (Bhāvārtha)
+
+Agni named Narāśaṃsa, who falls under no one's harm, is wise and has a delightful hand, propels this sacrifice in the best manner.
+
+### Printed p. 808
+
+##### English translation (H. H. Wilson)
+Narashansa animates this sacrifice, he who is uninjurable, who verily is wise and sweet-handed.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒ळि॒तो अ॑ग्न॒ आ व॒हेंद्रं॑ चि॒त्रमि॒ह प्रि॒यं ।  
+> सु॒ख्यॆ रथे॑भिरू॒तये॑ ॥ ३ ॥
+
+> *īḷito agna ā vaheṃdraṃ citramiha priyaṃ |*  
+> *sukhyè rathebhirūtaye ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळितः । अग्ने । आ । वह । इंद्रं । चित्रं । इह । प्रियं ।  
+> सुख्यैः । रथेभिः । ऊतये ॥ ३ ॥
+
+> *īḷitaḥ | agne | ā | vaha | iṃdraṃ | citraṃ | iha | priyaṃ |*  
+> *sukhyaiḥ | rathebhiḥ | ūtaye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ईळितः स्तुतः सन्ना वहेंद्रं चित्रं चायनीयं प्रियमिहास्मिन्यज्ञे
+> सुखै रथेभी रथैरूतयेऽस्मद्रक्षणाय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being praised (īḷita), bring Indra, wonderful (citra, to be gazed at) and dear, here to this sacrifice, in easy chariots, for our protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईळितः (*īḷitaḥ*)—(worshipped) being Īḷita
+- अग्ने (*agne*)—O Agni
+- चित्रं (*citraṃ*)—having an attractive form
+- प्रियं (*priyaṃ*)—beneficial to us all
+- इंद्रं (*iṃdraṃ*)—Indra
+- इह (*iha*)—in this sacrifice
+- ऊतये (*ūtaye*)—for our protection
+- सुखैः (*sukhaiḥ*)—comfortable
+- रथेभिः (*rathebhiḥ*)—in chariots
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worthy of praise, bring Indra, who has an attractive form and is beneficial to us all, to this sacrifice in comfortable chariots for our protection.
+
+##### English translation (H. H. Wilson)
+Agni, you are Ilita ; bring heither the wonderful and friendly Indra, with his easy-going chariots for our protection.
+
 ---
 
-**Progress note:** Done through printed p. 802. pp. 797-802 (batch API)
+**Progress note:** Done through printed p. 808. pp. 803-808 (batch API)
