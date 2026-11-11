@@ -29211,6 +29211,268 @@ O Agni, the काव्या (*kāvyā*), that is, the rites connected with Ag
 
 O Agni, all the rites connected with the sacrifice are born from you. The words in the form of praise and the hymns in the form of uktha are born from you alone. The truthful rite
 
+### Printed p. 887
+the one who has truth, who offers oblations, and for the man, the sacrificer: a form that displays valour and wealth such as cattle flow from you alone.
+
+##### English translation (H. H. Wilson)
+The offerings (to the gods) are engendered, Agni, of you; from you (proceed) praises; from you effective prayers; from you come a vigorous frame and wealth to the man who worships with sincerity and offers oblations
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña ishti, when the Svishṭakṛt homa is performed, the oblation must be offered to the deity Agni Kavyavāhana. In that homa there are two Purona­vākyā mantras. Of these, this Ṛk beginning त्वदग्ने काव्या (*tvadagne kāvyā*) is to be recited as the second Anuvākyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra त्वदग्ने काव्या त्वन्मनीषाः स प्रत्नथा सहसा जायमानः (*tvadagne kāvyā tvanmanīṣāḥ sa pratnathā sahasā jāyamānaḥ*) (Ā. 2-19).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद्वा॒जी वा॑जंभ॒रो विहा॑या अभिष्टि॒कृज्जा॑यते स॒त्यशु॑ष्मः ।  
+> त्वद्र॒यिदे॒र्नजू॑तो मयो॒भुस्त्वदा॒शुर्जू॑जु॒वा अ॑ग्ने॒  ॑
+> अर्वा ॥ ४ ॥
+
+> *tvadvājī vājaṃbharo vihāyā abhiṣṭikṛjjāyate satyaśuṣmaḥ |*  
+> *tvadrayidernajūto mayobhustvadāśurjūjuvā agne*  
+> *arvā ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वत् । वाजी । वाजंभरः । विहायाः । अभिष्टिकृत् । जायते । सत्यशुष्मः ।  
+> त्वत् । रयिः । देवजूतः । मयःभुः । त्वत् । आशुः । जूजुवान् । अग्ने ।  
+> अर्वा ॥ ४ ॥
+
+> *tvat | vājī | vājaṃbharaḥ | vihāyāḥ | abhiṣṭikṛt | jāyate | satyaśuṣmaḥ |*  
+> *tvat | rayiḥ | devajūtaḥ | mayaḥbhuḥ | tvat | āśuḥ | jūjuvān | agne |*  
+> *arvā ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वाजी बलवान्वाजंभरो हविर्लक्षणान्नस्य वाहकः ॥ अग्नेर्वाजंभर
+> इत्येषा वैदिकी संज्ञा । संज्ञायं भृत्यवृजीति वाजशब्दे कर्मण्युपपदे खच्.
+
+##### Gist of the bhāṣya
+
+"Vājī" is the strong one; "vājambhara" is the bearer of the food that takes the form of the oblation. "Vājambhara" is a Vedic name of Agni. The word vāja, standing as the governed term in the sense of "action", takes the affix khac.
+
+### Printed p. 888
+
+> प्रत्ययः । अरुर्द्विषदजंतस्येति मुमागमः । चित इत्यंतोदात्तत्वं ॥ विहाया
+> महानभिष्टि कृद्यज्ञकृत् अभ्येषणकृद्वा । सत्यशुष्कः सत्यबलः पुत्रस्त्वत्वत्तो जायते । उत्पद्यते । देवजूतो देवैः प्रेरितो मयोभुः सुखप्रदः । मय इति
+> सुखनामैतत् । रयिर्धनं त्वज्जायते । आशुः शीघ्रगामि । अप्रतिहतगमन इत्यर्थः।
+> जूजुवान्वेगेन गच्छन्नर्वाश्वस्त्वद्भवतो जायते ॥
+
+##### Gist of the bhāṣya
+
+Vihāyāḥ means great. Abhiṣṭikṛt is the performer of the sacrifice, or one who brings about what is desired. Satyaśuṣma is one of true strength; a son is born from you. Devajūta is impelled by the gods; mayobhu is the giver of happiness (मय (*maya*) is a name for happiness). Rayi is wealth; it is born from you. Āśu is swift-going, i.e. of unobstructed motion. Jūjuvān, the horse going with speed, is born from you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वाजी (*vājī*)—the strong
+- वाजंभरः (*vājaṃbharaḥ*)—the bearer of food in the form of oblation
+- विहायाः (*vihāyāḥ*)—the possessor of great qualities
+- अभिष्टिकृत् (*abhiṣṭikṛt*)—the performer of the sacrifice
+- सत्यशुष्कः (*satyaśuṣkaḥ*)—the son possessing strength of truth
+- त्वत् (*tvat*)—from you
+- जायते (*jāyate*)—is born
+- देवजूतः (*devajūtaḥ*)—that accepted by the gods
+- मयोभुः (*mayobhuḥ*)—that which brings happiness
+- रयिः (*rayiḥ*)—wealth
+- त्वत् (*tvat*)—from you alone it arises
+- आशुः (*āśuḥ*)—swift-going
+- जूजुवान् (*jūjuvān*)—of unhindered movement
+- अर्वा (*arvā*)—the horse
+- त्वत् (*tvat*)—from you alone it arises
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, a son who is strong, bears food in the form of oblation, has great qualities, performs sacrifice and has strength of truth is born from you alone. Wealth accepted by the gods and bringing happiness arises from you alone. A horse that is swift and of unhindered movement also arises from you alone.
+
+##### English translation (H. H. Wilson)
+From you, who are vigorous, the conveyer of oblations, the vast, the granter of what is desired, is born (a son) of real strength ; from you comes wealth approved of by the gods, the source of happiness ; from you, Agni, (is obtained) a swift unarrested horse.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने प्रथ॒मं दे॑व॒यंतो॑ दे॒वं मर्ता॑ अमृत  ॒॑
+> मंद्रजिह्वं ।
+
+> *tvāmagne prathamaṃ devayaṃto devaṃ martā amṛta*  
+> *maṃdrajihvaṃ |*
+
+### Printed p. 889
+
+> द्वेषोयुतमा विवासंति धीभिर्दमूनसं गृहपतिममूरं ॥ ५ ॥
+
+> *dveṣoyutamā vivāsaṃti dhībhirdamūnasaṃ gṛhapatimamūraṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । प्रथमं । देवयंतः । देवं । वंर्ताः । अमृत । मंद्रजिह्वं ।  
+> द्वेषयुतं । आ । विवासंति । धीभिः । दमूनसं । गृहपतिं । अमूरं ॥ ५ ॥
+
+> *tvāṃ | agne | prathamaṃ | devayaṃtaḥ | devaṃ | vaṃrtāḥ | amṛta | maṃdrajihvaṃ |*  
+> *dveṣayutaṃ | ā | vivāsaṃti | dhībhiḥ | damūnasaṃ | gṛhapatiṃ | amūraṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमृत अमरणशीलाग्ने देवयंतो देवानिच्छंतो मर्ता मनुष्या
+> यजमानास्तां धीभिः स्तुतिभिः कर्मभिर्वा आ विवासंति । समंतात्परिचरंति। कीदृशं
+> त्वां । प्रथमं देवानामाद्यं देवं द्योतमानं मंद्रजिह्वं । देवानां मादयित्रि जिह्वा यस्य तं । द्वेषोयुतं द्वेषसां पापानां पृथक्कर्तारं दमूनसं
+> रक्षसां दमनकरेण मनसोपेतं । दमूनःशब्दस्य कथमयमर्थ इति दमूना
+> दममना वा दानमना वा दांतमना वापि वा दम इति गृहनाम तन्ननाः स्यादिति
+> यास्केनोक्तत्वादिति ॥ दमु उपशमने । दमेरूनसिरित्याणादिक ऊनसिप्रत्ययः ॥
+> गृहपतिं गृहाणां पालयितारममूरममूढं । प्रगल्भमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O immortal Agni, mortals, the sacrificers who desire the gods, serve you all around with praises or rites. You are the first of the gods, shining (deva), mandrajihva, one whose tongue gladdens the gods; dveṣoyuta, the separator of hateful sins; damūnas, one whose mind is subduer of the rākṣasas. Why this meaning of damūnas? Because Yāska says: "damūnas is of subdued mind, or of giving mind, or of restrained mind; or else dama is a name for house, so one whose mind is on the house." The affix ūnasi is Uṇādi. Gṛhapati is the protector of houses; amūra is not bewildered, i.e. bold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृत (*amṛta*)—deathless
+- अग्ने (*agne*)—O Agni
+- देवयंतः (*devayaṃtaḥ*)—the god-devoted
+- मर्ताः (*martāḥ*)—mortal sacrificers
+- प्रथमं (*prathamaṃ*)—chief among the gods
+- देवं (*devaṃ*)—the shining one
+- मंद्रजिह्वं (*maṃdrajihvaṃ*)—one whose tongue satisfies (the gods)
+- द्वेषोयुतं (*dveṣoyutaṃ*)—the separator of sinners
+- दमूनसं (*damūnasaṃ*)—the destroyer of rākṣasas
+- गृहपतिं (*gṛhapatiṃ*)—the protector of houses
+- अमूरं (*amūraṃ*)—the wise
+- त्वां (*tvāṃ*)—you
+- धीभिः (*dhībhiḥ*)—by rites accompanied by praise
+- आ विवासंति (*ā vivāsaṃti*)—serve all around
+
+##### भावार्थ (Bhāvārtha)
+
+O deathless Agni, the god-devoted mortal sacrificers serve you all around with rites accompanied by praise—you who are chief among the gods, shining, with a tongue that satisfies the gods, separator of sinners, destroyer of rākṣasas, protector of houses, wise.
+
+### Printed p. 890
+
+##### English translation (H. H. Wilson)
+Immortal Agni, devout mortals worship with holy rites you the first deity (of the gods), whose tongue exhilarates ( them ), the dissipator of sin, the humiliator (of the demons), the lord of the mansion, the unperplexed.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒रे अ॒स्मदम॑तिमा॒रे अंह॑ आ॒रे विश्वां॑ दुर्म॒तिं यन्नि॒पासि॑ ।  
+> दो॒षा शि॒वः स॑हसः सूनो अग्ने॒ यं दे॒व आ चि॒त्सच॑से स्व॒स्ति ॥
+
+> *āre asmadamatimāre aṃha āre viśvāṃ durmatiṃ yannipāsi |*  
+> *doṣā śivaḥ sahasaḥ sūno agne yaṃ deva ā citsacase svasti ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आरे । अस्मत् । अमतिं । आरे । अंहः । आरे । विश्वां । दुःमतिं । यत् । निपासि ।  
+> दोषा । शिवः । सहसः । सूनोऽइति । अग्ने । यं । देवः । आ । चित् । सचसे । स्वस्ति ॥
+
+> *āre | asmat | amatiṃ | āre | aṃhaḥ | āre | viśvāṃ | duḥmatiṃ | yat | nipāsi |*  
+> *doṣā | śivaḥ | sahasaḥ | sūno 'iti | agne | yaṃ | devaḥ | ā | cit | sacase | svasti ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वस्त्ययन्यामारे अस्मदिति स्वस्तिमतोऽग्नेयाज्या । सूत्रितं च । आरे
+> अस्मदमतिमारे अंहः । आ. २-८० । इति ॥
+> हे सहसः सूनो बलस्य पुत्र । मध्यमानोऽग्निर्मथनकारिणां हि बलेन
+> जायत इत्यग्नेर्बलपुत्रत्वं । हे अग्ने दोषा रात्रौ शिवः शिवकरो देवो द्योतमानस्त्वं यं यानस्मान् स्वस्त्रविनाशाय आ सचसे । परितः सेवसे। चिदिति पूरणः।
+> यद्यस्मात्कारणान्निपासि । यजमानान्वितरां पालयसि । तेभ्योऽस्मदस्मत्तोऽमतिं
+> पापरूपामशनेच्छामारे दूरे कुरु । अशनाया वै पाप्मामतिः । ऐ. ब्रा. २-२ ।
+> इति ब्राह्मणं । आरे दूरेऽस्मत्तोऽंहः पापं कुरु । आरे इति दूरनामैतत् ।
+> अस्मत्त आरे दूरे दुर्मतिं दुर्मनस्त्वं कुरु ॥
+
+##### Gist of the bhāṣya
+
+This is the yājyā of Agni Svastimat in the Svastyayanī ishti; it is prescribed in the sūtra आरे अस्मदमतिमारे अंहः (*āre asmadamatimāre aṃhaḥ*) (Ā. 2-80). "O son of strength (sahas)": fire, when churned, is born from the strength of the churners, hence Agni is called the son of strength. O Agni, auspicious by night, shining, you attend all around us for our well-being (चित् (*cit*) is expletive); since you protect the sacrificers, remove far from us amati, i.e. the desire to eat, which is sin. Quoted: अशनाया वै पाप्मामतिः (*aśanāyā vai pāpmāmatiḥ*) (Ai. Brā. 2-2), thus the Brāhmaṇa. Make sin (aṃhas) far from us. आरे (*āre*) is a name for "far". Make ill-mindedness far from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—Agni
+- दोषा (*doṣā*)—in the nights
+- शिवः (*śivaḥ*)—auspicious
+- देवः (*devaḥ*)—you, the shining
+- यत् (*yat*)—with which gracious intention
+- स्वस्ति (*svasti*)—for imperishable welfare
+- यं (*yaṃ*)—us, the sacrificers whom
+- आ सचसे चित् (*ā sacase cit*)—you attend all around
+- निपासि (*nipāsi*)—you protect us the sacrificers
+- अस्मत् (*asmat*)—from us
+- अमतिं (*amatiṃ*)—evil-mindedness
+- आरे (*āre*)—keep far
+- अंहः (*aṃhaḥ*)—sin
+- आरे (*āre*)—make far
+- विश्वा (*viśvā*)—all
+- दुर्मतिं (*durmatiṃ*)—even sinful thought
+- आरे (*āre*)—make far from us
+
+### Printed p. 891
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you who are auspicious by night and shining, with whatever gracious intention you attend all around us the sacrificers for imperishable welfare, make evil-mindedness, the sin caused by poverty, and all sinful thought remain far from those same sacrificers, us.
+
+##### English translation (H. H. Wilson)
+Agni, son of strength, since you protect (your worshippers), far (remove) from us all iniquity ; far ( remove from us ) sin; far (from us) all evil thoughts; for prosperous is he of whom you, who are radiant by night, promote the well-being.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the ishti called Svastyayanī, this Ṛk आरे अस्मत् (*āre asmat*) is to be recited as the yājyā mantra when the oblation is offered to Agni Svastimat. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra आरे अस्मदमतिमारे अंहः (*āre asmadamatimāre aṃhaḥ*) (Ā. 2-10). The bhāṣyakāra quotes the Aitareya Brāhmaṇa sentence अशनाया वै पाप्मामतिः (*aśanāyā vai pāpmāmatiḥ*) (Ai. Brā. 2-2). This matter was explained clearly when we expounded Ṛk 3-8-2 (Ṛ. Saṃ. Part 15, pp. 82-83).**NOTE**
+
+## Sūkta 12 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्त्वामग्न इति षडृचं द्वितीयं सूक्तं । वामदेव ऋषिः । त्रैष्टुभं
+> छंदः । अग्निर्देवता । यस्त्वामित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, of six Ṛks, beginning यस्त्वामग्न (*yastvāmagna*). The seer is Vāmadeva, the metre Triṣṭubh, the deity Agni; the Anukramaṇī says यस्त्वां (*yastvāṃ*). Its application, together with the preceding sūkta, is stated for the Prātaranuvāka and the Āśvina śastra.
+
+### Printed p. 892
+
+> अनुवादवु—यस्त्वामग्ने ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि ऎरडनॆय सूक्तवु.
+> इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; अग्नियु देवतॆयु ; त्रिष्टुप्
+> छंदस्सु. अनुक्रमणिकॆयल्लि—यस्त्वां ऎंदु मॊदलागि हेळिरुवुदु. प्रातरनुवाक मत्तु
+> आश्विनशस्त्रमंत्रपठनक्कागि हिंदिन सूक्तदॊडनॆ ई सूक्तद विनियोगवू इरुवुदु.
+> सूक्त-१२
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—१२
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—१२ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६
+> ऋषिः—वामदेवः
+> देवता—अग्निः
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वाम॑ग्न इ॒नध॑ते य॒तसु॒क्‌त्रिस्ते॒ अन्नं॑ कृ॒णव॒त्सस्मि॒न्नह॑न् ।  
+> स सु द्यु॒म्नैर॒भ्य॑स्तु प्र॒सक्ष॒त्तव॒ क्रत्वा॑ जातवेदश्चिकि॒त्वान् ॥१॥
+
+> *yastvāmagna inadhate yatasuktriste annaṃ kṛṇavatsasminnahan |*  
+> *sa su dyumnairabhyastu prasakṣattava kratvā jātavedaścikitvān ‖1‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वां । अग्ने । इनधते । यत्स्रुक् । त्रिः । ते । अन्नं । कृणवत् । सस्मिन् ।  
+> अहन् ।  
+> सः । सु । द्युम्नैः । अभि । अस्तु । प्रसक्षत् । तव । क्रत्वा । जातवेदः । चिकित्वान् ॥१॥
+
+> *yaḥ | tvāṃ | agne | inadhate | yatsruk | triḥ | te | annaṃ | kṛṇavat | sasmin |*  
+> *ahan |*  
+> *saḥ | su | dyumnaiḥ | abhi | astu | prasakṣat | tava | kratvā | jātavedaḥ | cikitvān ‖1‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यतस्रुक् स्रुचा संबद्धो यो यजमानस्त्वामिनधते । दीप्तियुक्तं कुर्यात् । यः सस्मिन्नहन् सर्वस्मिन्नहनि ते तुभ्यं त्रिस्तिवारं सवनत्रयेऽन्नं हविर्लक्षणमन्नं कृणवत् । कुर्यात् । हे जातवेदो जातानां वेदितरग्ने
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificer who, ladle in hand, kindles you, makes you blazing; who on every day offers you the oblation-food three times, at the three libations; O Jātavedas, knower of all that is born—
+
 ---
 
-**Progress note:** Done through printed p. 886. pp. 881-886 (batch API)
+**Progress note:** Done through printed p. 892. pp. 887-892 (batch API)
