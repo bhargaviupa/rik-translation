@@ -19435,6 +19435,215 @@ Continuing the same praise, Ṛ. Saṃ. 10-13-2 is recited and the praise runs t
 अधि द्वयोरदधा उक्थ्यं वच इति द्वयोर्ह्येतत्तृतीयं छदिरधि निधीयते, उक्थ्यं वच इति यदाह यज्ञियं वै कर्मोक्ष्यं वचो यज्ञमेवैतेन समर्धयति । यतस्रुचा मिथुना या सपर्यतः । असंयत्तो व्रते ते क्षेति पुष्यतीति । यदेवादः पूर्वं यत्तवत्पदमाह तदेवैतेन शांत्या शमयति । भद्रा शक्तिर्यजमानाय सुन्वत इत्याशिषमाशास्त्रे ॥ (*adhi dvayoradadhā ukthyaṃ vaca iti dvayorhyetattṛtīyaṃ chadiradhi nidhīyate, ukthyaṃ vaca iti yadāha yajñiyaṃ vai karmokṣyaṃ vaco yajñamevaitena samardhayati | yatasrucā mithunā yā saparyataḥ | asaṃyatto vrate te kṣeti puṣyatīti | yadevādaḥ pūrvaṃ yattavatpadamāha tadevaitena śāṃtyā śamayati | bhadrā śaktiryajamānāya sunvata ityāśiṣamāśāstre ‖*)
 The uktha is placed upon two chadis. The chadi is the covering built around in the form of a house, for placing the Soma on the carts called havirdhāna. Having built two such chadis over the two havirdhānas, a third is placed over the two; this is the order. This is indicated in the Taittirīya also by the sentences दंडो वा औदुंबरस्त्रीयस्य हविर्धानस्य.... (*daṃḍo vā auduṃbarastrīyasya havirdhānasya....*). The order arises because the third chadi is set on the two. Since the uktha itself is of the nature of sacrificial action, by the recitation उक्थं वचः (*ukthaṃ vacaḥ*) or by such ritual acts the sacrifice is brought to completion without obstacle. Therefore: "In both havirdhānas, where barley, oblation and grains are placed together in vessels such as the camasa and offered together for your worship, you have set the mantra in the form of uktha." The sacrificer who keeps havirdhānas thus purified by mantras is occupied in the rite addressed to you without the trouble of fighting enemies. He obtains wealth such as cattle and sons, and in the sacrifice
 
+### Printed p. 646
+for you, that sacrificer who presses the Soma for you attains auspiciousness and his strength increases; it is for this reason that the prayer has been made.
+
+विश्वारूपाणि प्रतिमुंचते कविरिति विश्वरूपामन्वाह स रराट्यामीक्षमाणोऽनुब्रूयात् विश्वमिव हि रूपं रराट्याः शुक्लमिव च कृष्णमिव च विश्वं रूपमवरुंध आत्मने च यजमानाय च यत्रैवं विद्वानेतां रराट्यामीक्षमाणोऽन्वाह ॥ (*viśvārūpāṇi pratimuṃcate kaviriti viśvarūpāmanvāha sa rarāṭyāmīkṣamāṇo 'nubrūyāt viśvamiva hi rūpaṃ rarāṭyāḥ śuklamiva ca kṛṣṇamiva ca viśvaṃ rūpamavaruṃdha ātmane ca yajamānāya ca yatraivaṃ vidvānetāṃ rarāṭyāmīkṣamāṇo 'nvāha ‖*)
+
+One should recite the mantra विश्वारूपाणि (*viśvārūpāṇi*) (Ṛ. Saṃ. 5-81-2) while looking at the rarāṭī. (The garland of darbha grass that is tied at the eastern doorway when the Havirdhāna shed is built is called rarāṭī.) In this garland some of the blades are dry and others are green. Because there are thus various colours, the recitation of the mantra विश्वा रूपाणि (*viśvā rūpāṇi*) while looking at the rarāṭī in this way gives the sacrificer the power to obtain every form.
+
+परि त्वा गीर्वणो गिर इत्युत्तमया परिदधाति। स यदैव हविर्धाने संपरिश्रिते मन्येताथ परिदध्यात् । अनग्नंभावुका ह होतुश्च यजमानस्य च भार्या भवंति यत्रैवं विद्वान्तय्या हविर्धानयोः संपरिश्रितयोः परिदधाति । यजुषा वा एते सं परिश्रियेते यद्धविर्धाने यजुषैवैने एतत्परि श्रयंति ॥ (*pari tvā gīrvaṇo gira ityuttamayā paridadhāti| sa yadaiva havirdhāne saṃpariśrite manyetātha paridadhyāt | anagnaṃbhāvukā ha hotuśca yajamānasya ca bhāryā bhavaṃti yatraivaṃ vidvāntayyā havirdhānayoḥ saṃpariśritayoḥ paridadhāti | yajuṣā vā ete saṃ pariśriyete yaddhavirdhāne yajuṣaivaine etatpari śrayaṃti ‖*)
+
+He concludes by reciting the final mantra परि त्वा गिर्वणो गिरः (*pari tvā girvaṇo giraḥ*) (Ṛ. Saṃ. 1-10-12). May these words of praise, made by us, come to you from every side, encompass you and give you delight; and from this may delight and increase of life come to us as well — this is the purport of the mantra. The Hotṛ should bring his action to an end immediately after the act of covering the two Havirdhānas. If this covering is accomplished without obstruction, then the wives of the Hotṛ and of the sacrificer will also be clothed; there is no occasion for them to be naked. The covering is to be done by reciting the Yajus mantra विष्णो रराटमसि विष्णोः पृष्ठमसि (*viṣṇo rarāṭamasi viṣṇoḥ pṛṣṭhamasi*) (Tai. Saṃ. 1-2-13). In this way the nature of the Havirdhānas and the rites of consecration are described.
+
+एतद्वै देवानां निष्केवल्यं यद्ध विधानं तस्मात्तत्र नाश्नंति न भक्षयंति ॥ (*etadvai devānāṃ niṣkevalyaṃ yaddha vidhānaṃ tasmāttatra nāśnaṃti na bhakṣayaṃti ‖*)
+(Śa. Brā. 3-6-1-23)
+
+### Printed p. 647
+Since the Havirdhāna belongs wholly to the gods, eating, drinking and the like are forbidden here; thus its sanctity is declared. And,
+
+शिर एवास्य हविर्धानं । वैष्णवं देवतयाथ यदस्मिन्मो भवति हविर्वै देवानां सोमस्तस्माद्दविर्धानं नाम ॥ (*śira evāsya havirdhānaṃ | vaiṣṇavaṃ devatayātha yadasminmo bhavati havirvai devānāṃ somastasmāddavirdhānaṃ nāma ‖*)
+(Śa. Brā. 3-5-3-2)
+
+Therefore the Havirdhāna is the head of the Puruṣa who is the sacrifice itself. Because Soma is contained wholly in it, and because Soma himself is of the form of Viṣṇu, it has Viṣṇu as its deity. Because Soma, the oblation of the gods, is in it, the name Havirdhāna became established for it; thus the Havirdhāna is praised. That Soma attained the designation Havirdhāna is the purport, in the Ṛk under discussion, of the sentence ऋतस्य योनिं एति (*ṛtasya yoniṃ eti*).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ अ॒स्मभ्यं॑ द्वि॒पदे॒ चतु॑ष्पदे च प॒शवे॑ ।  
+> अ॒न॒मी॒वा इष॑स्करत् ॥ १४ ॥
+
+> *somo asmabhyaṃ dvipade catuṣpade ca paśave |*  
+> *anamīvā iṣaskarat ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । अस्मभ्यं । द्विपदे । चतुःपदे । च । पशवे ।  
+> अनमीवाः । इषः । करत् ॥ १४ ॥
+
+> *somaḥ | asmabhyaṃ | dvipade | catuḥpade | ca | paśave |*  
+> *anamīvāḥ | iṣaḥ | karat ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः स्तोतृभ्योऽस्मभ्यं तथा द्विपदेऽस्मदीयाभ्यो द्विपाद्भ्यः प्रजाभ्यशतुष्पदे पशवे चतुष्पाद्द्यो गवादिपशुभ्यश्चानमीवा रोगवर्जितानीषोऽन्नानि
+> करत् । करोतु ॥ चतुष्पदे । भसंज्ञायां पादस्य पद्भावः । इसुसोः सामर्थ्य इति
+> संहितायां सत्वं । आदेशप्रत्यययोरिति षत्वं । बहुव्रीहौ पूर्वपदस्वरः । करत् ।
+> करोतेर्लॆट्ट्यडागमः । इषस्करदित्यत्र संहितायां कःकरत्करतीत्यादिना सत्वं ॥
+
+##### Gist of the bhāṣya
+
+Soma is to make food free of disease (अनमीवा (*anamīvā*), "without sickness") for us the singers; likewise for our two-footed creatures, our offspring, and for the four-footed beasts, cows and the rest. करत् (*karat*) is "let him make". The rest of the block is grammar.
+
+### Printed p. 648
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—Soma
+- अस्मभ्यं (*asmabhyaṃ*)—to us, the singers
+- द्विपदे (*dvipade*)—to our sons and the like
+- चतुष्पदे (*catuṣpade*)—four-footed
+- पशवे च (*paśave ca*)—and to our animals as well
+- अनमीवाः (*anamīvāḥ*)—free of disease
+- इषः (*iṣaḥ*)—food
+- करत् (*karat*)—let him provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma provide food free of disease to us the singers, to our sons and the like, and to our four-footed animals as well.
+
+##### English translation (H. H. Wilson)
+May Soma grant to us and to (our) biped and quadruped animals, wholesome food.
+
+##### विशेषविषयगळु (Special Topics)
+
+अनमीवाः (*anamīvāḥ*)—अम-रोगे (*ama-roge*). The word अमीवा (*amīvā*) is formed from the word अम (*ama*), which gives the meaning "disease". The epithet अमीवाहा (*amīvāhā*), "destroyer of disease", of Indra and other deities gives in many places also the meaning "destroyer of enemies". Here too, for the word अनमीवाः (*anamīvāḥ*) both meanings, "free of disease" and "free of enemies", are possible.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॒मायु॑र्व॒र्धय॑न्न॒भिमा॑तीः॒ सह॑मानः ।  
+> सोमः॑ स॒धस्थ॒मास॑दत् ॥ १५ ॥
+
+> *asmākamāyurvardhayannabhimātīḥ sahamānaḥ |*  
+> *somaḥ sadhasthamāsadat ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । आयुः । वर्धयन् । अभिमातीः । सहमानः ।  
+> सोमः । सधस्थं । आ । असदत् ॥ १५ ॥
+
+> *asmākaṃ | āyuḥ | vardhayan | abhimātīḥ | sahamānaḥ |*  
+> *somaḥ | sadhasthaṃ | ā | asadat ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमो देवोऽस्माकमायुरन्नं जीवनं वा वर्धयन्तृद्धिं प्रापयन्नभिमातीः कर्मविघ्नकारिणः शत्रून् सहमानोऽभिभवन्नस्माकं सधस्थं हविर्धानाख्यं
+> स्थानमासदत् । आसीदतु ॥ असदत् । सदेर्लेटि रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+That god Soma, increasing our life (आयुः (*āyuḥ*)), which may be food or living, that is, bringing it to growth, and overcoming the अभिमातीः (*abhimātīḥ*), the enemies who obstruct the rite, is to take his seat in our सधस्थं (*sadhasthaṃ*), the place called Havirdhāna. आसदत् (*āsadat*) means "let him sit". The rest is grammar.
+
+### Printed p. 649
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the god Soma
+- अस्माकं (*asmākaṃ*)—our
+- आयुः (*āyuḥ*)—life
+- वर्धयन् (*vardhayan*)—increasing
+- अभिमातीः (*abhimātīḥ*)—the enemies who cause us harm
+- सहमानः (*sahamānaḥ*)—striking and driving away
+- सधस्थं (*sadhasthaṃ*)—on the sacrificial altar
+- आसदत् (*āsadat*)—let him come and take his place
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Soma, increasing our life and striking down and driving away the enemies who cause us harm, come and sit on the sacrificial altar.
+
+##### English translation (H. H. Wilson)
+May Soma, prolonging our lives and overcoming our adversaries, sit down in our place of sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+अभिमातिः (*abhimātiḥ*)—अभितः हिंसतीत्यभिमातिः (*abhitaḥ hiṃsatītyabhimātiḥ*). The meaning is an enemy who harms from all around. There is no rule that the one who harms must be an enemy.
+
+पाप्मा ना अभिमातिरिंद्रमेवाभिमातिहनग् स्वेन भागधेयेनोपधावति ॥ (*pāpmā nā abhimātiriṃdramevābhimātihanag svena bhāgadheyenopadhāvati ‖*)
+(Tai. Saṃ. 2-1-3-5)
+
+Sin is the enemy. Indra himself destroys this enemy that is of the nature of sin. From sentences such as this it is understood that the word अभिमाति (*abhimāti*) is also used in the senses "sin" or "most sinful".
+
+सधस्थं (*sadhasthaṃ*)—Here the word सधस्थ (*sadhastha*) has been explained as the place called Havirdhāna. Any place in which all are gathered together may be what is meant. In some places it is explained as a synonym of the atmosphere: सहस्थानं लोकत्रयाशयभूतमंतरिक्षं (*sahasthānaṃ lokatrayāśayabhūtamaṃtarikṣaṃ*). The place in the form of the altar where all the priests gather is also called सदस्य (*sadasya*).
+
+कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः । को नां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सदस्य आ ॥ (*kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ | ko nāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadasya ā ‖*)
+(Ṛ. Saṃ. 10-40-2)
+
+In this passage Sāyaṇa has taken the word सधस्थ (*sadhastha*) to mean a place in the form of the altar, while the author of the Nirukta takes it to mean a dwelling in the form of a house where all live together. Likewise for the word त्रिषथस्थः (*triṣathasthaḥ*) too (Ṛ. Saṃ. 6-12-2 and elsewhere) the meaning given is लोकेषु सहावस्थानं (*lokeṣu sahāvasthānaṃ*). *sahasthānaṃ
+
+### Printed p. 650
+puṇyakṛtāṃ sahanivāsayogyaṃ bhūrādilokasaptakaṃ* — in some places it is explained as the seven worlds, Bhū and the rest, in which the virtuous can dwell together; and उत्तरं उकृष्टतरं सर्वेषां लोकानां उपरिभूतं सहस्थानं सत्यलोकं (*uttaraṃ ukṛṣṭataraṃ sarveṣāṃ lokānāṃ uparibhūtaṃ sahasthānaṃ satyalokaṃ*) — in some places as Satyaloka, which lies above all the worlds and is the best of all. In the Ṛk under discussion the meaning is either the place in the form of the sacrificial altar or the place called Havirdhāna.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ मित्रावरुणा स्फु॒तैर्गव्यू॑तिमुक्षतं ।  
+> मध्वा॒ रजां॑सि सुक्रतू ॥ १६ ॥
+
+> *ā no mitrāvaruṇā sphutairgavyūtimukṣataṃ |*  
+> *madhvā rajāṃsi sukratū ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । मित्रावरुणा । धृतैः । गव्यूतिं । उक्षतं ।  
+> मध्वा । रजांसि । सुक्रतू इति सुक्रतू ॥ १६ ॥
+
+> *ā | naḥ | mitrāvaruṇā | dhṛtaiḥ | gavyūtiṃ | ukṣataṃ |*  
+> *madhvā | rajāṃsi | sukratū iti sukratū ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निष्टोमे प्रातःसवने मैत्रावरुणशस्त्र आ नो मित्रावरुणेति स्तोत्रियस्तृचः । सूत्रितं च । आ नो मित्रावरुणा नो गंतं रिशादसा । आ. ५-१० । इति ॥
+> चतुर्विंशेऽहनि प्रातःसवने मैत्रावरुणे शस्त्र आ नो मित्रावरुणेति षडहस्तोत्रियसंज्ञकस्तृचः । सूत्रितं च । आ नॆ ६ मित्रावरुणा मित्रं वयं हवामहे । आ. ७-२ ।
+> इति ॥ स्तोमवृद्दावयमेव तृच आवापार्थः । सूत्रितं च । आ नो मित्रावरुणेति
+> तृचौ । आ. ७-५ । इति ॥ दाक्षायणे यज्ञे द्वे अमावास्यॆ कर्तव्ये । तत्रोत्तरस्याममावास्यायां द्वितीयेऽहनि मैत्रावरुण आ नो मित्रावरुणेति तस्यानुवाक्या ।
+> सूत्रितं च । आ नो मित्रावरुणा यद्भंहिष्ठं नातिविधे सुदाना । आ. २-१४ । इति ॥
+> सुक्रतू शोभनकर्माण् हे मित्रावरुण् नोऽस्माकं गव्यूतिं गवां मार्गं
+> गोनिवासस्थानं धृतैः क्षरणसाधनैः पयोधिरोक्षतं । समंतात्सिंचतं । अस्मभ्यं
+> दॊग्धिर्गाः प्रयच्छतमिति भावः । रजांस्यस्मदावासस्थानानि मध्वा मधुररसेन
+
+##### Gist of the bhāṣya
+
+In the Agniṣṭoma, at the morning pressing, in the Maitrāvaruṇa's śastra, the tṛca beginning आ नो मित्रावरुण (*ā no mitrāvaruṇa*) is the stotriya tṛca. It is prescribed in the sūtra आ नो मित्रावरुणा नो गंतं रिशादसा (*ā no mitrāvaruṇā no gaṃtaṃ riśādasā*) (Ā. 5-10). On the twenty-fourth day, at the morning pressing, in the Maitrāvaruṇa's śastra, the tṛca beginning आ नो मित्रावरुण (*ā no mitrāvaruṇa*) is the one called the ṣaḍaha-stotriya; the sūtra is आ नॆ ६ मित्रावरुणा मित्रं वयं हवामहे (*ā nè 6 mitrāvaruṇā mitraṃ vayaṃ havāmahe*) (Ā. 7-2). For the increase of the stoma the same tṛca is the one to be inserted (āvāpa); the sūtra is आ नो मित्रावरुणेति तृचौ (*ā no mitrāvaruṇeti tṛcau*) (Ā. 7-5). In the Dākṣāyaṇa sacrifice two new-moon rites are to be performed; in the later new moon, on the second day, the Maitrāvaruṇa's anuvākyā is आ नो मित्रावरुणे (*ā no mitrāvaruṇe*) [the Ṛk beginning आ नो मित्रावरुण (*ā no mitrāvaruṇa*)]; the sūtra is आ नो मित्रावरुणा यद्भंहिष्ठं नातिविधे सुदाना (*ā no mitrāvaruṇā yadbhaṃhiṣṭhaṃ nātividhe sudānā*) (Ā. 2-14).
+Explanation: O सुक्रतू (*sukratū*), doers of good works, O Mitra and Varuṇa, नः (*naḥ*) our गव्यूतिं (*gavyūtiṃ*), the path of the cows, the place where the cows dwell, उक्षतं (*ukṣataṃ*), sprinkle all around with धृतैः (*dhṛtaiḥ*), the means of flowing, that is, with milk; the sense is: give us cows that yield milk. रजांसि (*rajāṃsi*), our dwelling places, sprinkle with मध्वा (*madhvā*), sweet juice
+
+### Printed p. 651
+
+> सिंचतं ॥ गव्यूतिं । गोर्यूत् छंदसीति वांतादेशः । मध्वा। सर्वविधीनां छंदसि
+> विकल्पितत्वादत्र नुमागमाभावः ॥
+
+##### Gist of the bhāṣya
+
+The block completes the sentence: "sprinkle" (सिंचतं (*siṃcataṃ*)). The rest of the block is grammar (the forms गव्यूतिं (*gavyūtiṃ*) and मध्वा (*madhvā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतू (*sukratū*)—O you two who are doers of excellent works
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- नः (*naḥ*)—our
+- गव्यूतिं (*gavyūtiṃ*)—the dwelling place of the cows
+- धृतैः (*dhṛtaiḥ*)—with waters
+- आ उक्षतं (*ā ukṣataṃ*)—fill completely
+- रजांसि (*rajāṃsi*)—all the worlds
+- मध्वा (*madhvā*)—with sweet juice (fill)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, doers of excellent works, fill the dwelling place of our cows completely with milk and the like. Fill all the worlds with sweet juice.
+
+##### English translation (H. H. Wilson)
+Mitra and Varuna, sprinkle our cow-stalls with butter ; performers of
+of good works, (sprinkle) the worlds with honey.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the morning pressing of the Agniṣṭoma sacrifice, when the priest called Maitrāvaruṇa recites the śastra mantras, the three Ṛks beginning आ नो मित्रावरुणा (*ā no mitrāvaruṇā*) (Ṛks 16–18 of this sūkta) are to be recited as the stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ नो मित्रावरुणा नो गंतं रिशादसा (*ā no mitrāvaruṇā no gaṃtaṃ riśādasā*) (Ā. 5-10). On the twenty-fourth day, at the time of the morning pressing, when the priest called Maitrāvaruṇa recites the śastra mantra, these three Ṛks beginning आ नो मित्रावरुणा (*ā no mitrāvaruṇā*) are to be recited as the tṛca called ṣaḍaha-stotriya**NOTE**; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ नो मित्रावरुणा मित्रं वयं हवामहे (*ā no mitrāvaruṇā mitraṃ vayaṃ havāmahe*) (Ā. 7-2). This tṛca is also applied to the āvāpa mantras to be recited for the increase of the stoma; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ नो मित्रावरुणेति तृचौ (*ā no mitrāvaruṇeti tṛcau*) (Ā. 7-5). The sacrifice called Dākṣāyaṇa is to be performed on two new-moon days. On that occasion, on the day of the second new moon, this Ṛk आ नो मित्रावरुणा (*ā no mitrāvaruṇā*) is to be used on the second day as the purorucā-type anuvākyā mantra**NOTE** addressed to Mitra and Varuṇa; this is explained by the sūtra of the Āśvalāyana Sūtra, आ नो मित्रावरुणा यद्भंहिष्ठं नातिविधे सुदानू (*ā no mitrāvaruṇā yadbhaṃhiṣṭhaṃ nātividhe sudānū*)**NOTE** (Ā. 2-14).
+
+गव्यूतिं (*gavyūtiṃ*)—For this word, गवां मार्गं गोनिवासस्थानं (*gavāṃ mārgaṃ gonivāsasthānaṃ*): the meaning is the path on which cows move, or the dwelling place of cows. In गावो न गव्यूतीः (*gāvo na gavyūtīḥ*) (1-25-16), where
+
 ---
 
-**Progress note:** Done through printed p. 645. pp. 640-645 (batch API)
+**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
