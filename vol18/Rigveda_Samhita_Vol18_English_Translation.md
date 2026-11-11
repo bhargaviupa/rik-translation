@@ -27092,6 +27092,258 @@ Or, if the word ṛta is taken to mean truth, then by the oblation of the nature
 
 Agni is to be cleansed (मार्जाल्यः (*mārjālyaḥ*)); he is cleansed, that is, attended, in his own place. What is he like? दमूना (*damūnā*): of a giving mind or of a controlled mind; कविप्रशस्तः (*kavipraśastaḥ*): praised by the poets, the wise … (the block breaks off here; the next window continues it).
 
+### Printed p. 723
+
+> विभिः प्रशस्तः प्रकर्षेण स्तुत्यो नोऽस्माकमतिथिरतिथिवत्पूज्यः शिवः सुखकरश्च ।
+> सहस्रशृंगोऽपरिमितज्वालो वृषभो वर्षिता फलानां तदोजाः । यत्पसिद्धं
+> बलं तेजो वास्ति तदेवौजो यस्य तादृशः । सर्वबलस्वरूप इत्यर्थः । अथ प्रत्यक्षवादः । हे अग्ने विश्वानन्यान् स्वव्यतिरिक्तान् सर्वान् सहसा बलेन प्रासि । प्रेति
+> परेत्यर्थे । पराभवसि । व्याप्तं वा प्रभवसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of Ṛk 8. Agni is the one to be served, and he is served in his own place. He is kind-hearted, praised by sages, and honoured as a guest and as a bringer of happiness. He has a thousand horns, that is, boundless flames. He is the showerer of fruits. "Of that might" (तदोजाः (*tadojāḥ*)) means that he has that well-known strength or brilliance; he is of the nature of all strength. Then he turns to direct address: "O Agni, you surpass (प्रासि (*prāsi*)) all others, all besides yourself, by your force." Here प्र (*pra*) is in the sense of परा (*parā*), so you overcome them; or, you prevail by pervading them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दमूनाः (*damūnāḥ*)—one whose mind is given to giving
+- कविप्रशस्तः (*kavipraśastaḥ*)—praised by the sages
+- नः (*naḥ*)—to us
+- अतिथिः (*atithiḥ*)—worthy of worship like a guest
+- शिवः (*śivaḥ*)—the auspicious one
+- सहस्रशृंगः (*sahasraśṛṃgaḥ*)—one who has thousands of flames
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- तदोजाः (*tadojāḥ*)—one of well-known strength
+- मार्जाल्यः (*mārjālyaḥ*)—Agni, who is worthy of worship
+- स्वे (*sve*)—in his own house of sacrifice
+- मृज्यते (*mṛjyate*)—is worshipped
+- अग्ने (*agne*)—O Agni
+- विश्वान् अन्यान् (*viśvān anyān*)—all others than you
+- सहसा (*sahasā*)—by (your) power
+- प्रासि (*prāsi*)—you are one whose power overcomes (them)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is of generous mind, praised by the sages, worthy of worship like a guest to all of us, auspicious, with thousands of flames, the showerer of desires, of well-known strength, and worthy of worship, is worshipped in his own house of sacrifice. O Agni, by your power you are one whose might overcomes all others than yourself.
+
+##### English translation (H. H. Wilson)
+Entitled to worship, he is worshipped in his own (abode); humble-minded, eminent amongst sages, our auspicious guest, the thousand-rayed the showerer (of benefits). of well-known might, you, Agni, surpass all others in strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+मार्जाल्यः—संमार्जनीयोऽयमग्निः । मृज्यते परिचर्यते (*mārjālyaḥ—saṃmārjanīyo 'yamagniḥ | mṛjyate paricaryate*). The root मृज (*mṛja*) has the sense "to attend, to serve", so the word मार्जाल्यः (*mārjālyaḥ*) formed from that root means "one who is worshipped, one who is served", and is an epithet of Agni.
+
+दमूना (*damūnā*)—Yāska gives the etymology of this word: दमूनाः । दमूना दममना वा, दानमना वा दांतमना वा । अपि वा दम इति गृहनाम तन्मनाःस्यात् । मनो मनोतेः ॥ (*damūnāḥ | damūnā damamanā vā, dānamanā vā dāṃtamanā vā | api vā dama iti gṛhanāma tanmanāḥsyāt | mano manoteḥ ‖*) (Ni. 4+4) **NOTE**
+### Printed p. 724
+That is, the word दमूनाः (*damūnāḥ*) has a threefold meaning: one who is not cruel, or who is compassionate; or one whose mind is set on giving gifts; or one who keeps his own mind under his own control and restraint. Or, since दम (*dama*) means "house", दमूनाः (*damūnāḥ*) may be understood as one who is fond of dwelling in a house. The word मनः (*manaḥ*) is formed from the root मन् (*man*), which means "to think".
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒द्यो अ॑ग्ने॒ अत्ये॑ष्य॒न्याना॒वियर्यस्मै॒ चारु॑तमो ब॒भूथ॑ ॥  
+> ई॒ळेन्नो॑ वपु॒ष्यो॑ वि॒भावा॑ प्रि॒यो वि॒शामति॑थि॒र्मानु॑षीणां ॥ ९ ॥
+
+> *pra sadyo agne atyeṣyanyānāviyaryasmai cārutamo babhūtha ‖*  
+> *īḷenno vapuṣyo vibhāvā priyo viśāmatithirmānuṣīṇāṃ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सद्यः । अग्ने । अति । एषि । अन्यान् । आविः । यस्मै । चारुतमः । बभूथ ।  
+> ईळेन्यः । वपुष्यः । विभावा । प्रियः । विशां । अतिथिः । मानुषीणां ॥ ९ ॥
+
+> *pra | sadyaḥ | agne | ati | eṣi | anyān | āviḥ | yasmai | cārutamaḥ | babhūtha |*  
+> *īḷenyaḥ | vapuṣyaḥ | vibhāvā | priyaḥ | viśāṃ | atithiḥ | mānuṣīṇāṃ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं यज्ञमासाद्य सद्यस्तदानीमेवान्यान् स्वसमानानत्येषि
+> अतिक्रामसि । यस्मै चारुतमः सन्नाविर्बभूव । किंच त्वमीळेन्यः स्तुत्यो वपुष्यो
+> वपुष्करो दीप्ति करो वा विभावा विशिष्टदीप्तिमान् प्रियः प्रियभूतो विशां
+> सर्वेषां प्राणिनां तथातिथिः पूज्यो मानुषीणां प्रजानां भवसि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, having reached the sacrifice, you at once surpass (अत्येषि (*atyeṣi*)) others like yourself, that is, you go beyond them, for the sake of whom you become manifest as the most beautiful." Further: you are to be praised (ईळेन्यः (*īḷenyaḥ*)); वपुष्यः (*vapuṣyaḥ*) is the maker of the body or the maker of splendour; विभावा (*vibhāvā*) is one of distinguished radiance. You are dear to all (विशां (*viśāṃ*)) living beings, and you are, like a guest, to be honoured by the human peoples (मानुषीणां (*mānuṣīṇāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यस्मै (*yasmai*)—for whichever sacrificer
+- चारुतमः (*cārutamaḥ*)—having a most attractive form
+- प्र (*pra*)—exceedingly
+- आविर्बभूथ (*āvirbabhūtha*)—you become manifest
+- सद्यः (*sadyaḥ*)—at once
+- अन्यान् (*anyān*)—to others as well
+- अत्येषि (*atyeṣi*)—you pass over
+- ईळेन्यः (*īḷenyaḥ*)—one to be praised
+- वपुष्यः (*vapuṣyaḥ*)—one of beautiful form
+- विभावा (*vibhāvā*)—one of excessive splendour
+- प्रियः (*priyaḥ*)—one who is dear
+- मानुषीणां विशां (*mānuṣīṇāṃ viśāṃ*)—to all the human peoples
+- अतिथिः (*atithiḥ*)—worthy of worship like a guest (you are)
+### Printed p. 725
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for whichever sacrificer you become manifest, with a most excellent bodily form, at that very moment you pass on to others. You are one to be praised, of beautiful form, of exceeding radiance, dear, and worthy of worship to all human peoples.
+
+##### English translation (H. H. Wilson)
+(Too) quickly, Agni, you pass to others from him to whom you have been manifest: most beautiful, adorable, radiant, many-shinning, the loved of people, the guest of men.
+
+##### विशेषविषयगळु (Special Topics)
+
+The main sense is this: O Agni, the sacrificer for whom you shine in his house of sacrifice, with the intention of helping him, with an attractive form, that is, most brilliant, you do not leave him and go to the other sacrificers. All praise you. Your form is very attractive and lustrous. Therefore you are dear to all and worthy of worship like a guest.
+
+अतिथिः (*atithiḥ*)—For the word अतिथि (*atithi*) Yāska gives the etymology अतिथिरभ्यतितो गृहान् भवति । अभ्येति तिथिसु परकुलानीति वा परगृहाणीति वा । अयमपीतरोऽतिथिरेतस्मादेव (*atithirabhyatito gṛhān bhavati | abhyeti tithisu parakulānīti vā paragṛhāṇīti vā | ayamapītaro 'tithiretasmādeva*) (Ni. 4-4). That is, the word means one who, wandering outside, comes to houses without prior notice; or one who comes on business, on the तिथि (*tithi*) days such as the full-moon day, to the houses of others who are not of his own family or house. Or, since he goes to the house of others on whatever day it may be, without fixed days (तिथि (*tithi*)), he can be explained as "the one without a fixed day".
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॑ भरंति क्षि॒तयो॑ यविष्ठ ब॒लिम॑ग्ने॒ अंति॑त॒ ओत दू॒रात् ।  
+> आ भंदि॑ष्ठस्य सुम॒तिं चि॑किद्दि बृ॒हत्ते॑ अग्ने॒ महि॒ शर्म॑ भ॒द्रं ॥
+
+> *tubhyaṃ bharaṃti kṣitayo yaviṣṭha balimagne aṃtita ota dūrāt |*  
+> *ā bhaṃdiṣṭhasya sumatiṃ cikiddi bṛhatte agne mahi śarma bhadraṃ ‖*
+
+### Printed p. 726
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । भरंति । क्षितयः । यविष्ठ । बलिं । अग्ने । अंतितः । अ । उत । दूरात् ।  
+> आ । भंदिष्ठस्य । सुमतिं । चिकिद्दि । बृहत् । ते । अग्ने । महि । शर्म । भद्रं ॥ १० ॥
+
+> *tubhyaṃ | bharaṃti | kṣitayaḥ | yaviṣṭha | baliṃ | agne | aṃtitaḥ | a | uta | dūrāt |*  
+> *ā | bhaṃdiṣṭhasya | sumatiṃ | cikiddi | bṛhat | te | agne | mahi | śarma | bhadraṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतमाग्ने तुभ्यं क्षितयो मनुष्या भरंति । संपादयंति ।
+> किं । बलिं पूजां हविर्लक्षणामंतितोऽंतिकादुतापि च दूरात् । आ इति चार्थे ।
+> किंच भंदिष्ठ स्यातिशयेन स्तोतुः सुमतिं स्तुतिमा चिकिद्दि । आजानीहि । हे अग्ने ते
+> तव शर्म सुखमस्मभ्यं दातव्यं बृहन्महद्भद्रं स्तुत्यं च ॥
+
+##### Gist of the bhāṣya
+
+"O youngest Agni (यविष्ठ (*yaviṣṭha*)), the people (क्षितयः (*kṣitayaḥ*), men) bring (भरंति (*bharaṃti*)) to you", that is, they prepare. What? An offering (बलिं (*baliṃ*)), worship in the form of oblation, from near and also from far; आ (*ā*) is in the sense of "and". Further, grasp (चिकिद्दि (*cikiddi*)), that is, know, the good thought (सुमतिं (*sumatiṃ*)), the praise, of the worshipper who most delights you (भंदिष्ठस्य (*bhaṃdiṣṭhasya*)). O Agni, your happiness (शर्म (*śarma*)), which is to be given to us, is great, vast, auspicious and praiseworthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—exceedingly young
+- अग्ने (*agne*)—O Agni
+- क्षितयः (*kṣitayaḥ*)—the sacrificers, in the form of men
+- तुभ्यं (*tubhyaṃ*)—for you
+- बलिं (*baliṃ*)—worship together with the oblation
+- भरंति (*bharaṃti*)—they prepare
+- अंतितः (*aṃtitaḥ*)—whether from near
+- उत (*uta*)—or
+- दूरात् (*dūrāt*)—from a far region
+- भंदिष्ठस्य (*bhaṃdiṣṭhasya*)—of the worshipper who praises exceedingly
+- सुमतिं (*sumatiṃ*)—the excellent praise
+- आ चिकिद्दि (*ā cikiddi*)—know well (and accept)
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—(given) by you
+- शर्म (*śarma*)—the happiness
+- बृहत् (*bṛhat*)—abundant
+- महि (*mahi*)—great
+- भद्रं (*bhadraṃ*)—and auspicious in nature (it is)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, exceedingly young, the sacrificers in the form of men prepare and offer to you worship together with the oblation. Whether from near or from a far region, know well and accept the excellent praise of the worshipper who praises you exceedingly. O Agni, the happiness given by you to us is abundant, great and auspicious in nature.
+
+##### English translation (H. H. Wilson)
+To you, youngest (of the gods), men present oblations, whether
+nigh or from far : accept the praise of him who most extols you ; for the
+felicity (which you confer), Agni, is great, vast, auspicious.
+
+##### विशेषविषयगळु (Special Topics)
+
+क्षितयः (*kṣitayaḥ*)—Since the word क्षितयः (*kṣitayaḥ*) is read among the twenty-five names of man beginning मनुष्याः (*manuṣyāḥ*), नरः (*naraḥ*) (Ni. 3-7), क्षितयः (*kṣitayaḥ*) means men.
+### Printed p. 727
+
+यविष्ठ (*yaviṣṭha*)—युवतम (*yuvatama*). Addressing Agni by the word यविष्ठ (*yaviṣṭha*) is a particular usage in the Ṛgveda. When fuel, wood and the like are put on a burning fire, it keeps burning well. When men or animals, in their middle age, grown by nourishing food and the like and endowed with full strength and capacity, are said to be young, that is, in the state of greatest strength and capacity in their lifetime. In the same way fire burns well when wood and the like are put on it, and this is compared with the state of the young. The youth of men and other beings lasts only for some time, then diminishes and at last is lost. But it is not so with Agni. As long as wood and the like are put on to kindle him, he burns well for any length of time; so in many contexts he is praised with the epithets "ever-young" and "always a youth".
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आद्य रथं॑ भानुमो भानु॒मंत॒मग्ने॒ तिष्ठ॑ यज॒तेभिः॒  ॑
+> समंतं ।  
+> वि॒द्वान्प॑थी॒नामु॒र्व१॒॑गन्तरी॑क्ष॒मेह दे॒वान्ह॑वि॒रद्या॑य वक्षि ॥ ११ ॥
+
+> *ādya rathaṃ bhānumo bhānumaṃtamagne tiṣṭha yajatebhiḥ*  
+> *samaṃtaṃ |*  
+> *vidvānpathīnāmurvagantarīkṣameha devānhaviradyāya vakṣi ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अद्य । रथं । भानुमः । भानुमंतं । आग्ने । तिष्ठ । यजतेभिः । संअंतं ।  
+> विद्वान् । पथीनां । उरु । अंतरिक्षं । आ । इह । देवान् । हविःs आद्याय । वक्षि ॥१०॥
+
+> *ā | adya | rathaṃ | bhānumaḥ | bhānumaṃtaṃ | āgne | tiṣṭha | yajatebhiḥ | saṃaṃtaṃ |*  
+> *vidvān | pathīnāṃ | uru | aṃtarikṣaṃ | ā | iha | devān | haviḥs ādyāya | vakṣi ‖10‖*
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भानुमो दीप्तिमन्नग्ने अद्यास्मिन्यागदिने भानुमंतं दीप्तिमंतं
+> समंतं समीचीनप्रांतोपेतं रथं यजतेभिर्यष्टवैर्देवैः सहा तिष्ठ । आरोह ।
+> विद्वान्यष्टव्यदेवपरिज्ञानवांत्वं पथीनां देवयजनमार्गान्प्रति ॥ द्वितीयार्थे
+> षष्ठि ॥ उर्वंतरिक्षं प्रभूते०तरिक्षे देवान्यष्टव्यान्हविरद्याय हविर्भक्षणायेहा
+> वक्षि । आवहसि ॥
+
+##### Gist of the bhāṣya
+
+"O radiant Agni (भानुमः (*bhānumaḥ*)), today, on this day of sacrifice, mount (तिष्ठ (*tiṣṭha*), ascend) together with the gods to be worshipped (यजतेभिः (*yajatebhiḥ*)) the chariot which is radiant (भानुमंतं (*bhānumaṃtaṃ*)) and has well-formed (समंतं (*samaṃtaṃ*)) edges. Knowing the gods to be worshipped, knowing the paths (पथीनां (*pathīnāṃ*)) of the divine sacrifice (here the genitive stands in the sense of the accusative), bring (वक्षि (*vakṣi*)) hither, through the vast firmament (उरु अंतरिक्षं (*uru aṃtarikṣaṃ*)), the gods to be worshipped, to eat the oblation (हविरद्याय (*haviradyāya*))."
+
+### Printed p. 728
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भानुमः (*bhānumaḥ*)—O one of splendour
+- अग्ने (*agne*)—O Agni
+- अद्य (*adya*)—today, this day of the sacrifice
+- यजतेभिः (*yajatebhiḥ*)—together with the other gods worthy of the sacrifice
+- भानुमंतं (*bhānumaṃtaṃ*)—lustrous
+- समंतं (*samaṃtaṃ*)—having decorated edges
+- रथं (*rathaṃ*)—your chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount and sit
+- विद्वान् (*vidvān*)—you who know everything
+- उर्वंतरिक्षं (*urvaṃtarikṣaṃ*)—in the vast firmament
+- पथीनां (*pathīnāṃ*)—by the path of going to the sacrifice **NOTE**
+- देवान् (*devān*)—the gods
+- हविरद्याय (*haviradyāya*)—in order to receive the oblation
+- इह (*iha*)—to this sacrifice
+- आ वक्षि (*ā vakṣi*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, full of splendour, today, the day of this sacrifice, mount and sit in your chariot, lustrous and with decorated edges, together with the other gods worthy of the sacrifice. You, the all-knowing, through the vast firmament, by the path of going to the sacrifice, bring the gods to this sacrifice to receive and eat the oblation.
+
+##### English translation (H. H. Wilson)
+Ascend to-day, radiant Agni, your resplendent, well-conducted
+chariot, together with the adorable (gods): cognizant of the ways (of
+worship), bring hither, by the vast firmament, the gods to partake of
+the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is prayed to come to the place of sacrifice seated in his chariot and to bring the gods worthy of the sacrifice. It is described that the chariot of Agni is exceedingly brilliant, and that, seated in such a chariot, he should bring through the path of the firmament the invited gods to eat the oblation offered in the sacrifice.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवो॑चाम क॒वये॒ मेध्या॑य॒ वचो॑ वं॒दारु॑ वृष॒भाय॒  ॑
+> वृष्टे ।  
+> गवि॑ष्ठिरो॒ नम॑सा॒ स्तोम॑म॒ग्नौ दि॒वी॑व रु॒क्कमु॑रु॒व्यंच॑मश्रेत् ॥ १२ ॥
+
+> *avocāma kavaye medhyāya vaco vaṃdāru vṛṣabhāya*  
+> *vṛṣṭe |*  
+> *gaviṣṭhiro namasā stomamagnau divīva rukkamuruvyaṃcamaśret ‖ 12 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 722. pp. 716-722 (batch API)
+**Progress note:** Done through printed p. 728. pp. 723-728 (batch API)
