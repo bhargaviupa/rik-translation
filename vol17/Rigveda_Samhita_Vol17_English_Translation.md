@@ -19323,6 +19323,118 @@ O Savitṛ, the adhvaryus and others, leaders of rites and wise, impelled by the
 ##### English translation (H. H. Wilson)
 Devout and wise men, impelled by intelligence, adore the divine Savitri with sacrifices and sacred hymns.
 
+### Printed p. 640
+
+##### विशेषविषयगळु (Special Topics)
+
+Suvṛktibhiḥ—the word सुवृक्ति (*suvṛkti*) means an excellent hymn of praise. One may say that it is formed from the root वृज् (*vṛj*) preceded by सु (*su*). In places such as नासत्याभ्यां बर्हिरिव प्र वृंजे (*nāsatyābhyāṃ barhiriva pra vṛṃje*) the root (वृज् (*vṛj*), वृंज् (*vṛṃj*)) has the sense "cuts", yet the purport is given as "procure"; in the same way the word सुवृक्ति (*suvṛkti*) too may be taken to mean something excellently constructed, something procured. Ordinarily the word सुवृक्ति (*suvṛkti*) is used only as a synonym of "hymn". The sense "purify by cutting" is natural to it. For example, just as in places such as दधिध्वे व्यक्तबर्हिषः (*dadhidhve vyaktabarhiṣaḥ*) (1-38-1) the purport is that the darbha grass is cut properly and purified, so here too the meaning is a hymn constructed with purified words; that is, the purport is a sacred and venerable hymn.
+
+Some scholars show the derivation of this word as सु (*su*) + ऋक्ति (*ṛkti*) and explain it as an excellent hymn. For example, the scholar Monier Williams, in his Sanskrit English Dictionary, explains su-ṛkti as su- + ṛc, ṛc preceded by su, meaning an excellent hymn consisting of ṛks, and states that the derivation should be shown in the way su-ita becomes suvita. But in places such as नमोव्यक्ति (*namovyakti*) the derivation namaḥ + ṛc is not valid.
+इहेहैषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः (*ihehaiṣāṃ kṛṇuhi bhojanāni ye barhiṣo namovṛktiṃ na jagmuḥ*) (Ṛ. Saṃ. 10-131-2)
+In such places the word नमस् (*namas*) is explained as food or praise, and the word व्यक्ति (*vyakti*) as avoidance. It is shown to be formed from the root वृज् (*vṛj*) and used in the sense of cutting, and the purport in the quoted ṛk is that a cutting of praise does not occur. On the basis of such examples there is no difficulty in saying that the present word su-vyakti also is formed from the root वृज् (*vṛj*). Hymns made by choosing words suited to the occasion and refining them in poetic praises are what the word सुवृक्ति (*suvṛkti*) denotes.
+
+That example of नमोव्यक्ति (*namovyakti*) is taken only to show that the word व्यक्ति (*vyakti*) in it is formed from the root वृज् (*vṛj*); the purport of the two words is not the same. Or else, there is room to say that even where this word is used in the sense of avoidance, the meaning is still an excellent hymn. For example—
+
+### Printed p. 641
+अग्निः न स्ववृक्तिभिर्होतारु त्वा वृणीमहे (*agniḥ na svavṛktibhirhotāru tvā vṛṇīmahe*) (Ṛ. Saṃ. 10-1-1)
+Here, in the word स्वव्यक्ति (*svavyakti*), the word स्व (*sva*) is explained as स्वयंकृताभिः (*svayaṃkṛtābhiḥ*)—made by oneself—and व्यक्तिभिः (*vyaktibhiḥ*) as दोषवर्जिताभिः (*doṣavarjitābhiḥ*)—separated from faults. The purport is "(we choose you) with hymns made by oneself and free of faults, hence excellent"; so in the present case too, सुवृक्तिभिः (*suvṛktibhiḥ*) may be explained as "with hymns that are excellent and, being free of faults, superior".
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ जिगाति गातु॒विद्दे॒वाना॑मेति निष्कृ॒तं ।  
+> ऋ॒तस्य॒ योनि॑मा॒सदं॑ ॥ १३ ॥
+
+> *somo jigāti gātuviddevānāmeti niṣkṛtaṃ |*  
+> *ṛtasya yonimāsadaṃ ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । जिगाति । गात्वुविश् । देवानां । ऐति । निःकृतं ।  
+> यतस्य । योनिं । आसवं ॥ १३ ॥
+
+> *somaḥ | jigāti | gātvuviś | devānāṃ | aiti | niḥkṛtaṃ |*  
+> *yatasya | yoniṃ | āsavaṃ ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निषोमप्रणयने सोमो जिगातीत्याद्यास्ति स ऋचः । सूत्रितं च ।
+> सोमो जिगाति गातुविद्देवानां तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् ।
+> आ. ४-१८ इति ॥
+> गातुवित् गातुर्वेदिमार्गः तं जानानः सोमो जिगाति । गच्छति । गंतव्यं
+> स्थानं दर्शयति । देवानां संबंधि निष्कृतं संस्कृतमासदं सर्वैरासदनीयमृतस्य
+> यज्ञस्य योनिं स्थानं हविर्धानाख्यमेशि । प्राप्नोति ॥ जिगाति । गा स्तुतौ । जुहोत्यादिः ॥
+
+##### Gist of the bhāṣya
+
+In the Agniṣoma-praṇayana, the seven ṛks beginning सोमो जिगाति (*somo jigāti*) are used; and it is prescribed in the sūtra: सोमो जिगाति गातुविद्देवानां तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् (*somo jigāti gātuviddevānāṃ tamasya rājā varuṇastamaśvinetyardharca āramet*) (Ā. 4-18). Soma, who knows the gātu (the path to the altar), goes; he goes and shows the place to be reached. He reaches the place of the sacrifice (ṛta), called the havirdhāna, which belongs to the gods, is prepared, and is to be occupied by all. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गातुनित् (*gātunit*)—knowing his place to be reached
+- सोमः (*somaḥ*)—Soma
+- जिगाति (*jigāti*)—goes and reaches
+- देवानां (*devānāṃ*)—that which is to belong to the gods
+- निष्कृतं (*niṣkṛtaṃ*)—well prepared
+- असदं (*asadaṃ*)—
+
+### Printed p. 642
+having a seat for the gods
+- ऋतस्य योनिं (*ṛtasya yoniṃ*)—as the womb of the sacrifice (in the form of the havirdhāna)
+- एति (*eti*)—is transformed into
+
+##### भावार्थ (Bhāvārtha)
+
+Knowing the place he is to reach, Soma reaches the sacrificial altar, which is the seat of the gods and well prepared, and is offered to the gods in the form of the oblation.
+
+##### English translation (H. H. Wilson)
+Soma, knowing the right path, proceeds (by it) : he goes to the excellent seat of the gods, the place of sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agniṣoma-praṇayana rite, these three ṛks beginning सोमो जिगाति (*somo jigāti*) are to be recited for the first three ṛks to be recited at that time, as explained by the Āśvalāyana-śrauta-sūtra: सोमो जिगाति गातुविद्देवानां तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् (*somo jigāti gātuviddevānāṃ tamasya rājā varuṇastamaśvinetyardharca āramet*) (Ā. 4-10).
+
+Gātuvit—the word गातु (*gātu*) means the place to be reached; it also means the path to be gone. This place to be reached is the sacrificial place on earth; this is the path of performance. (It may also be the path of going to the world of the gods.) Here it is explained as the path leading to the sacrificial altar. That this word is also used in the senses of house, hymn, etc., was stated earlier (Ṛgveda-saṃhitā, Part 11, p. 503).
+
+ऋतस्य योनिं एति (*ṛtasya yoniṃ eti*)—यज्ञस्य स्थानं हविर्धानाख्यं प्राप्नोति (*yajñasya sthānaṃ havirdhānākhyaṃ prāpnoti*). The purport is that he reaches the sacrificial place called the havirdhāna. Hence here the word गातु (*gātu*) means the womb of ṛta. It was stated earlier that the word योनि (*yoni*) too has meanings such as house, place of origin, and the chief place called Veda. Here it is explained as the chief place called havirdhāna. The pavilion built separately for placing Soma, the chief implement of the Soma sacrifice, is called havirdhāna. Or this name is also well known for the cart that brings the Soma oblation.
+यदस्मिन्मोहो भवति हविर्वै देवानाग्ं सोमस्तस्माद्धविधानं नाम (*yadasminmoho bhavati havirvai devānāgṃ somastasmāddhavidhānaṃ nāma*) (Śa. Brā. 3 5-3-2)
+
+### Printed p. 643
+The Śatapatha-brāhmaṇa gives its purport thus: since Soma, the oblation of the gods, is placed in it, it is called havirdhāna. The Soma-carrier may be the cart that brings the Soma, or the chief place where it is placed.
+यज्ञं वा एतत्संभरंति यत्सोमक्रयणै पदं यज्ञमुखग्ं हविर्धाने यर्हि हविर्धाने प्राची प्रवर्तयेयुः ॥ (*yajñaṃ vā etatsaṃbharaṃti yatsomakrayaṇai padaṃ yajñamukhagṃ havirdhāne yarhi havirdhāne prācī pravartayeyuḥ ‖*) (Tai. Saṃ. 3-1-3-1)
+In this description—the havirdhānas are the mouths of the sacrifice; when they are moved forward, oil is to be put on their axles—it is clear that they are carts bringing the Soma. Bhaṭṭabhāskara, explaining the purport of this word, says हवींषि निधीयंते अनयोरिति हविर्धाने शकटे (*havīṃṣi nidhīyaṃte anayoriti havirdhāne śakaṭe*)—the name is because oblations are placed in these—as in the sentence quoted above. Whether the cart that carries Soma or the pavilion built separately to place it, both hold the chief implement of the sacrifice; so the havirdhāna that designates them is well known as the mouth of the sacrifice. In many places this havirdhāna is also used figuratively and contains a profound hidden meaning.
+पुरुषो वाव यज्ञः.... .... .... .... (*puruṣo vāva yajñaḥ.... .... .... ....*) (Chā. U. 3-16-1) "The person himself is the sacrifice." Thus in the Chāndogya and others there is a description showing the identity of the limbs of the person with the limbs that are the implements of the sacrifice. Explaining this very point, the Śatapatha-brāhmaṇa says:
+पुरुषो वै यज्ञः .... शिर एवास्य हविर्धानं । (*puruṣo vai yajñaḥ .... śira evāsya havirdhānaṃ |*)
+मुखमेवास्याहवनीयः .... ....। उदरमेवास्य सदः.... ....। (*mukhamevāsyāhavanīyaḥ .... ....| udaramevāsya sadaḥ.... ....|*)
+(Śa. Brā. 3-5-3-1 to 24)
+As the head is the chief limb of a person, so for the sacrifice, which is of the form of a person, the havirdhāna is chief. The āhavanīya is the mouth; the sadas is the belly; and so on—thus the chief place of the havirdhāna is declared. In many places the pair of carts is specified as the havirdhāna, and it holds a most venerable position.
+प्रेतां यज्ञस्य कंभुवा युवामिदा वृणीमहे । अग्निं च हव्यवाहनं ॥ (*pretāṃ yajñasya kaṃbhuvā yuvāmidā vṛṇīmahe | agniṃ ca havyavāhanaṃ ‖*) (Ṛ. Saṃ. 2-41-19)
+आ नामुपस्थमद्रुहा देवाः सीदंतु यज्ञियाः । इहाद्य सोमपीतये ॥ (*ā nāmupasthamadruhā devāḥ sīdaṃtu yajñiyāḥ | ihādya somapītaye ‖*) (Ṛ. Saṃ. 2-41-21)
+In such ṛks both havirdhānas are described as bringing comfort to the sacrifice and as free of hostility. But what is the havirdhāna here? It may be the pair of carts, or it may be heaven and earth. हविर्धाने अनसी तद्रूपे द्यावापृथिव्यौ वा (*havirdhāne anasī tadrūpe dyāvāpṛthivyau vā*): when the two carts that carry the oblation are decorated,
+
+### Printed p. 644
+there is a practice of reciting the very mantras that praise heaven and earth while offering them ointment and the like. Heaven and earth themselves are also addressed as havirdhānas. The praise of these at the time of decorating them is stated in the Aitareya-brāhmaṇa thus:
+हविर्धानाभ्यां प्रोह्यमाणाभ्यामनुब्रूहीत्याहाध्वर्युः । (*havirdhānābhyāṃ prohyamāṇābhyāmanubrūhītyāhādhvaryuḥ |*) (I. Brā. 1-29)
+When the Soma carts called havirdhāna are being brought forward, the Adhvaryu gives the order, "Recite the mantra that praises them." Then the Hotṛ recites some ṛk mantras and praises them. The first of them is:
+युजे वां ब्रह्म पूर्व्यं नमोभिर्वि श्लोक एतु पथ्येव सूरेः । (*yuje vāṃ brahma pūrvyaṃ namobhirvi śloka etu pathyeva sūreḥ |*)
+शृण्वंतु विश्वे अमृतस्य पुत्रा आ ये धामानि दिव्यानि तस्थुः ॥ (*śṛṇvaṃtu viśve amṛtasya putrā ā ye dhāmāni divyāni tasthuḥ ‖*)
+(Ṛ. Saṃ. 10-13-1)
+He recites: "Reciting the ancient mantra, I fill you with the venerable oblation. May your sound reach the gods. May all the sons of the immortal Prajāpati hear your sound."
+ब्रह्मणा ना एते देवा आयुंजत यद्धविर्धाने ब्रह्मणैवैने एतद्युंक्ते न वै ब्रह्मण्वद्रिष्यति ॥ (*brahmaṇā nā ete devā āyuṃjata yaddhavirdhāne brahmaṇaivaine etadyuṃkte na vai brahmaṇvadriṣyati ‖*) **NOTE**
+"O carts, in the past the gods yoked you reciting this very ancient mantra. Even now the same course is followed. No trouble approaches the person through this recitation." Then he recites the mantras praising heaven and earth beginning "प्रेतां यज्ञस्य.... (*pretāṃ yajñasya....*)". But what is the connection between the praise of the havirdhāna and the praise of heaven and earth?
+द्यावापृथिवी वै देवानां हविर्धाने आस्तां ते उ एवाद्यापि हविर्धाने ते हीदमंतरेण सर्वं हविर्यदिदं किं च तस्मात्तृचं द्यावापृथिवीयमन्वाह ॥ (*dyāvāpṛthivī vai devānāṃ havirdhāne āstāṃ te u evādyāpi havirdhāne te hīdamaṃtareṇa sarvaṃ haviryadidaṃ kiṃ ca tasmāttṛcaṃ dyāvāpṛthivīyamanvāha ‖*)
+Heaven and earth were the havirdhānas of the gods; even now they are the same. In them all oblations are contained. Therefore the triplet addressed to heaven and earth is to be recited: "प्रेतां यज्ञस्य.... (*pretāṃ yajñasya....*)", "द्यावा नः पृथिवी.... (*dyāvā naḥ pṛthivī....*)", "आ वा मुपस्थमद्रुहा.... (*ā vā mupasthamadruhā....*)" (Ṛ. Saṃ. 2-41-19 to 28) — these three are the triplets to be recited at this time.
+Continuing the same praise, Ṛ. Saṃ. 10-13-2 is recited and the praise runs thus:
+
+### Printed p. 645
+यमे इव यतमाने यदैतमिति यमे इव हैते यतमाने प्रबाहुगितः॥ (*yame iva yatamāne yadaitamiti yame iva haite yatamāne prabāhugitaḥ‖*)
+"You two come together, like twin girls born of one womb, striving alike for the benefit of the world."
+प्र वां भरन्मानुषा देवयंत इति देवयंतो ह्येने मानुषाः प्रभरंति ॥ (*pra vāṃ bharanmānuṣā devayaṃta iti devayaṃto hyene mānuṣāḥ prabharaṃti ‖*)
+"O havirdhānas, for the benefit of the world for which you come together, the priests and the sacrificer bring you forward."
+आसीदतं स्वमु लोकं विदाने स्वासस्थे भवतमिंदवे न इति सोमो वै राजेंदुः सोमाय्वैवैने एतद्राज्ञ आसदेचीक्लृपत् ॥ (*āsīdataṃ svamu lokaṃ vidāne svāsasthe bhavatamiṃdave na iti somo vai rājeṃduḥ somāyvaivaine etadrājña āsadecīklṛpat ‖*)
+"O havirdhānas, knowing your own separate place, be seated. Be well-guarded supports for our Soma. Since Soma is king, these two seats are prepared for him to sit." Thus he praises, and then, reciting Ṛ. Saṃ. 1-83-3, praises thus:
+अधि द्वयोरदधा उक्थ्यं वच इति द्वयोर्ह्येतत्तृतीयं छदिरधि निधीयते, उक्थ्यं वच इति यदाह यज्ञियं वै कर्मोक्ष्यं वचो यज्ञमेवैतेन समर्धयति । यतस्रुचा मिथुना या सपर्यतः । असंयत्तो व्रते ते क्षेति पुष्यतीति । यदेवादः पूर्वं यत्तवत्पदमाह तदेवैतेन शांत्या शमयति । भद्रा शक्तिर्यजमानाय सुन्वत इत्याशिषमाशास्त्रे ॥ (*adhi dvayoradadhā ukthyaṃ vaca iti dvayorhyetattṛtīyaṃ chadiradhi nidhīyate, ukthyaṃ vaca iti yadāha yajñiyaṃ vai karmokṣyaṃ vaco yajñamevaitena samardhayati | yatasrucā mithunā yā saparyataḥ | asaṃyatto vrate te kṣeti puṣyatīti | yadevādaḥ pūrvaṃ yattavatpadamāha tadevaitena śāṃtyā śamayati | bhadrā śaktiryajamānāya sunvata ityāśiṣamāśāstre ‖*)
+The uktha is placed upon two chadis. The chadi is the covering built around in the form of a house, for placing the Soma on the carts called havirdhāna. Having built two such chadis over the two havirdhānas, a third is placed over the two; this is the order. This is indicated in the Taittirīya also by the sentences दंडो वा औदुंबरस्त्रीयस्य हविर्धानस्य.... (*daṃḍo vā auduṃbarastrīyasya havirdhānasya....*). The order arises because the third chadi is set on the two. Since the uktha itself is of the nature of sacrificial action, by the recitation उक्थं वचः (*ukthaṃ vacaḥ*) or by such ritual acts the sacrifice is brought to completion without obstacle. Therefore: "In both havirdhānas, where barley, oblation and grains are placed together in vessels such as the camasa and offered together for your worship, you have set the mantra in the form of uktha." The sacrificer who keeps havirdhānas thus purified by mantras is occupied in the rite addressed to you without the trouble of fighting enemies. He obtains wealth such as cattle and sons, and in the sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 639. pp. 634-639 (batch API)
+**Progress note:** Done through printed p. 645. pp. 640-645 (batch API)
