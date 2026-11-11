@@ -23486,6 +23486,182 @@ Agni is lord over treasure : Agni (is lord) over great good fortune : may he bes
 > *uṣo maghonyā vaha sūnṛte vāyā puru |*  
 > *asmabhyaṃ vājinīvati ‖ 9 ‖*
 
+### Printed p. 605
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषः । मघोनि । आ । वह । सूनृते । वार्या । पुरु ।  
+> अस्मभ्यं । वाजिनीवति ॥ ९ ॥
+
+> *uṣaḥ | maghoni | ā | vaha | sūnṛte | vāryā | puru |*  
+> *asmabhyaṃ | vājinīvati ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो हे मघोनि धनवति हे सूनृते प्रियसत्यरूपवागभिमानिनि हे
+> वाजिनीवत्यन्नवति देवि अस्मभ्यं वार्या वरणीयानि पुरु बहूनि धनान्या वह
+> प्रापयॆ ॥
+
+##### Gist of the bhāṣya
+
+"O Uṣas, O Maghoni, wealthy one, O Sūnṛtā, deity identified with pleasant and true speech, O Vājinīvatī, possessor of food, goddess: bring to us (ā vaha, make us obtain) many (puru) desirable (vāryā) riches."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनि (*maghoni*)—wealthy one
+- सूनृते (*sūnṛte*)—one who delights in truthful speech
+- वाजिनीवति (*vājinīvati*)—one who possesses food
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- वार्या (*vāryā*)—desired ones
+- पुरु (*puru*)—abundant riches
+- आ वह (*ā vaha*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, wealthy, delighting in truthful speech, possessing food: bring and provide for us desired and abundant riches.
+
+##### English translation (H. H. Wilson)
+Opulent Ushas, truth-speaking, food-abounding, bestow upon us many good things.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नः॑ सवि॒ता भगो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> इंद्रो॑ नो॒ राध॒सा ग॑मत् ॥ १० ॥
+
+> *tatsu naḥ savitā bhago varuṇo mitro aryamā |*  
+> *iṃdro no rādhasā gamat ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शत् । सु । नः । सविता । भगः । वरुणः । मित्रः । अर्यमा ।  
+> इंद्रः । नः । राधसा । आ । गमत् ॥ १० ॥
+
+> *śat | su | naḥ | savitā | bhagaḥ | varuṇaḥ | mitraḥ | aryamā |*  
+> *iṃdraḥ | naḥ | rādhasā | ā | gamat ‖ 10 ‖*
+
+### Printed p. 606
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन राधसा धनेन सह सविता भगो वरुणो मित्रोऽर्यमेंद्रः प्रत्येकमा
+> गमत् । आगच्छति यज्ञं । तद्राधो धनं ते देवा नोऽस्मभ्यं सु सुष्टु प्रयच्छंत्विति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+With the wealth (rādhas) with which Savitṛ, Bhaga, Varuṇa, Mitra, Aryaman and Indra, each one, comes (ā gamat) to the sacrifice, may those gods give that wealth to us well (su, properly). The verb "may they give" is the understood remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—Savitṛ
+- भगः (*bhagaḥ*)—Bhaga
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- इंद्रः (*iṃdraḥ*)—Indra
+- राधसा (*rādhasā*)—with riches
+- नः (*naḥ*)—to this sacrifice of ours
+- आ गमत् (*ā gamat*)—may he be gracious
+- तत् (*tat*)—the wealth belonging to each respective deity
+- नः (*naḥ*)—to us
+- नु (*nu*)—may he give abundantly **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May Savitṛ, Bhaga, Varuṇa, Mitra, Aryaman and Indra too come to our sacrifice with their riches. And may each deity give us the wealth that belongs to him.
+
+##### English translation (H. H. Wilson)
+May Savitri, Bhaga, Varuna, Mitra, Aryaman, Indra, come to us with the wealth (that each bestows).
+
+## Sūkta 56 (Maṇḍala 4)
+**Introduction**
+Heaven and Earth (Dyāvāpṛthivī) are most ancient and are praised as the father and mother of all the gods; it is fitting to examine their nature and power. Therefore in this part the passages that describe their surpassing greatness are cited and explained. Heaven and Earth are commonly invoked, prayed to and worshipped together with other deities, and are praised in the mantras contained in many hymns addressed to those other deities. Even so, some hymns have been composed expressly to praise their individual qualities (1-159; 1-160; 1-185; 4-56; 6-72; 7-53). By way of example, the meanings of some mantras praising them are explained here.
+
+### Printed p. 607
+"I pray to Heaven and Earth, who cause the growth of the sacrifice, who are of great nature, who are praised in sacrifices, praising them for the offering of oblations. Heaven and Earth, mothers of the gods, endowed with the excellent rites performed by the sacrificer, fulfil the sacrificer's desires with their gracious mind." (1-159-1)
+
+"I worship and gratify, with praises accompanied by prayer, the mind of the deity of the heavenly world, which never does harm and is of independent inclination, and therefore is great and gracious, and likewise the mind of Earth, which has the same qualities. Heaven and Earth, mother and father of the whole world, with their excellent power make the desires of the people, who are in the position of sacrificers, extremely wide-reaching and lasting, through their protective helps." (1-159-2)
+
+Heaven and Earth, which are spread very widely and therefore great, and which do not cling to one another, guard all the worlds safely. Heaven and Earth, firm in resolve, seem to exist solely for the welfare of all creatures. The atmosphere, standing in the place of the father, has spread its splendid radiance all around and pervades everywhere. (1-160-2)
+
+"O renowned and great Heaven and Earth, praised by us, give us abundant food and strength. Thereby grant that we may increase our progeny day by day. Increase for us praiseworthy vigour." (1-168-5) **NOTE**
+
+In all the hymns that praise Heaven and Earth, many epithets showing their special qualities celebrate their greatness. There are epithets describing their great physical qualities, such as their extraordinary expanse (उरुव्यचसा (*uruvyacasā*)), depth (गभीरे (*gabhīre*)), power of producing fruit (भूरिरेतसा (*bhūriretasā*)), steadiness (अचरे (*acare*)) (1-160-2; 1-185-7; 4-56-3; 6-70-1; 6-70-2); and epithets such as guardians of truth and promoters of truth (ऋतावरी (*ṛtāvarī*), यतावृधा (*yatāvṛdhā*)), possessors of excellent knowledge (प्रचेतसा (*pracetasā*)), benefactors of the world (अद्रुहा (*adruhā*)) are also abundant. (1-159-1; 1-160-1; 4-56-2; 6-70-6; 10-36-2).
+
+**1. Śruti passages describing Heaven and Earth as the parents of the whole universe.**
+Heaven and Earth together are described as the fathers of the universe (पितरा (*pitarā*); 1-159-2; 3-3-11; 7-53-2; 10-65-8), as mothers (मातरा (*mātarā*); 1-155-3; 9-85-12; 1:-1-7; 1:-35-3; 10-64-14) **NOTE** and as progenitors (जनित्री (*janitrī*); 10-110-9). In some places
+
+### Printed p. 608
+the heavenly world is designated the father and Earth the mother (1-89-4; 1-90-7; 1-159-2; 1-160-2; 1-185-11; 4-1-10; 5-42-16; 5-43-2; 5-43-15; 6-51-5; 6-70-6; 6-72-2; 8-92-2; 10-54-3; 10-88-15; Vā. Saṃ. 19-47; Atharvaveda 2-28-4; 3-23-6 6-4-3; 6-120-2; 8-7-2; 12-1-10). In another place in the Atharvaveda a somewhat different description is found.
+
+माता भूमिः पुत्रोऽहं पृथिव्याः । पर्जन्यः पिता स उ नः पिपर्तु ॥ (*mātā bhūmiḥ putro 'haṃ pṛthivyāḥ | parjanyaḥ pitā sa u naḥ pipartu ‖*)
+(Atharvaveda 12-1-12)
+
+"The Earth is our mother; I am the son of the Earth. Parjanya is our father; may that same Parjanya nourish us fully": thus it is praised and prayed to. In the 42nd mantra of the same section, quoted from the Atharvaveda, there is this praise:
+
+भूम्य पर्जन्यपत्नैलि नमोऽस्तु वर्षमेदसे (*bhūmya parjanyapatnaili namo 'stu varṣamedase*) **NOTE**
+
+In this praise, "Homage to the Earth, who increases her wealth by rain, who is the power of Parjanya," Parjanya is described as the husband of Earth, in the place of the heavenly world. The description जाया भूमिः पतिव्योम मिथुनं ता (*jāyā bhūmiḥ pativyoma mithunaṃ tā*), "the Earth is the wife, the atmosphere is the husband," is stated in the Taittirīya Āraṇyaka.
+
+In the Aitareya Brāhmaṇa the conjugal relation of Heaven and Earth is described thus in the passages quoted below.
+
+इमौ वै लोकौ सह आस्तां । तौ व्यैतां । न अवर्षत् न समतपत्............ न द्यावा अंतरिक्षत् न अंतरिक्षाद्दूमिः (*imau vai lokau saha āstāṃ | tau vyaitāṃ | na avarṣat na samatapat............ na dyāvā aṃtarikṣat na aṃtarikṣāddūmiḥ*)
+(Ai. Brā. 4-27)
+
+Heaven and Earth were once united. Afterwards they separated from one another. As soon as they separated, neither fall of rain nor sunlight occurred. The five peoples, gods, men and the rest, were also unable to maintain peace with one another. Then the gods tried to bring these two worlds together. Their effort succeeded and Heaven and Earth were united again. A formal marriage took place between the two. At the end of this section: the heavenly world approached the Earth. Then the name "Dyāvāpṛthivī", indicating union, became famous. Neither the heavenly world nor the Earth arose from the atmosphere.
+
+Since Heaven and Earth are designated in many śruti passages as देवपुत्रे (*devaputre*), not merely parents of men, it is a well-known matter that they are the parents of the gods too.
+
+### Printed p. 609
+This epithet in many places establishes their parenthood of the gods (for example: 1-106-3; 1-159-1; 1-185-4; 4-56-2; 6-17-7; 7-53-1; 10-11-9). In 7-97-8 it is described that Heaven and Earth (रोदसी (*rodasī*)), the progenitors, nourished Bṛhaspati. In mantras 3-53-7 and 4-2-15 the Aṅgirases are designated sons of Heaven (*divasputraru*). In 10-2-7 these same Heaven and Earth, together with Tvaṣṭṛ and the waters, are praised as having caused Agni to be produced. Besides this, in many passages they are praised as having made all the worlds and as supporting and nourishing all beings (1-150-2; 1-160-2; 1-185-1). [Only in mantra 6-50-2 is it stated definitely that water is the source of the whole moving and unmoving world.] **NOTE**
+
+In mantra 10-63-2 the order of origin of the gods is divided into three: some are said to have been born from the waters, whose place is the atmosphere, and others from the Earth. The explanation of this will be given in the next section.
+
+**2. Passages explaining the origin of Heaven and Earth.**
+There are also many passages describing Heaven and Earth, the progenitors of all beings, gods, men and the rest, as themselves arising from another source. "The god who made these Heaven and Earth must be the most skilful of all divine craftsmen": thus it is praised in mantras 1-160-4 and 4-56-3.
+
+The occasions describing the maker of Heaven and Earth, endowed with such greatness, as truly a skilful artisan may be called passages of praise; Sāyaṇa's sentence पूर्व० पुत्रमाहात्म्येन एते प्रशस्य (*pūrva0 putramāhātmyena ete praśasya*) also indicates this very purport (1-160-4, Sā. Bhā.). Even so, the seer's faith in yet another supreme entity that is the source of Heaven and Earth, the mothers of the world, is shown by this. Mantras 6-30-5 and 8-36-4 declare that Indra is the maker of Heaven and Earth (जनिता दिवो जनिता पृथिव्याः (*janitā divo janitā pṛthivyāḥ*)). इंद्रो यां चक्रे ............ (*iṃdro yāṃ cakre ............*): "May that Earth, whom Indra made his companion and fashioned, supply milk to me, her son," says a sentence of the Atharvaveda (Atharvaveda 12-1-10). Some of the passages describing Indra as maker of Heaven and Earth may be cited here.
+
+"Indra, by his skill in making, has fashioned Heaven and Earth to be attractive." (10-29-6)
+
+### Printed p. 610
+"O Indra, you made Heaven and Earth, the mother and father of the world, from your own body." (10-54-4)
+
+"Indra apportioned the Earth, the heavenly world and the atmosphere to the inhabitants of the respective worlds." (3-54-4)
+
+"Indra has supported the Earth, the heavenly world and the atmosphere too by his own power." (3-32-8; 3-44-3; 6-17-7; 10-55-1)
+
+"O Indra, you hold and keep these Heaven and Earth in your fist." (3-30-5)
+
+"Indra, by his greatness, contracts these Heaven and Earth as he pleases, and expands them." (8-6-5)
+
+"Heaven and Earth together are equal to half of Indra. Indra has sold them." (6-30-1) **NOTE**
+
+"As the wheel of a chariot follows the horses, Heaven and Earth follow Indra himself." (8-6-38)
+
+"Heaven and Earth both bow to Indra." (1-131-1)
+
+"Heaven and Earth, afraid of Indra, tremble before him." (5-17-2), (4-22-3; 6-17-9; 8-86-14)
+
+"Seeing Indra's greatness, Heaven and Earth are shaken." (7-23-3)
+
+"Submitting to his lordship, they remain under his control." (10-89-10)
+
+"Bowing to his power, they show their reverence." (8-82-12)
+
+There are also explanations in many places that these same Heaven and Earth were made by other deities too, such as Soma. For example:
+
+"Soma and Pūṣan produced Heaven and Earth." (2-40-1)
+
+"Soma caused the two worlds (*rodasigaḷu*) to be born." (9-98-9; 9-90-1; 9-96-5)
+
+"Dhātṛ made the heavenly world and the Earth just as he made the sun and moon." (10-19-3)
+
+"Hiraṇyagarbha caused the heavenly world and the Earth to come into being." (10-1-9)
+
 ---
 
-**Progress note:** Done through printed p. 604. pp. 599-604 (batch API)
+**Progress note:** Done through printed p. 610. pp. 605-610 (batch API)
