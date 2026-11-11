@@ -15475,6 +15475,191 @@ In such places it is used in the sense of "very dear". Of these, in the first ex
 व्येतु विद्युद्विषामशेवा युयोत विष्णुग्रपस्तनूनां (*vyetu vidyudviṣāmaśevā yuyota viṣṇugrapastanūnāṃ*) (Ṛ. Saṃ. 7-34-13)
 Here, "may this weapon of the enemies, or this poverty, harmful like a weapon, being अशेव (*aśeva*), be far from us, that is, be destroyed": the word अशेव (*aśeva*) has the sense "not productive of happiness, harmful". Thus there are uses of the words सुशेव (*suśeva*) and अशेव (*aśeva*).
 
+### Printed p. 468
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रस्य॑ चर्षणी॒धृतोऽवो॑ दे॒वस्य॑ सान॒सि ।  
+> द्यु॒म्नं चि॒त्रश्र॑वस्तमं ॥ ६ ॥
+
+> *mitrasya carṣaṇīdhṛto 'vo devasya sānasi |*  
+> *dyumnaṃ citraśravastamaṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रस्य । चर्षणिधृतः । अवः । देवस्य । सानसि ।  
+> द्युम्नं । चित्रश्रवतमं ॥ ६ ॥
+
+> *mitrasya | carṣaṇidhṛtaḥ | avaḥ | devasya | sānasi |*  
+> *dyumnaṃ | citraśravatamaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लवषडहे दशरात्रे च सप्तदशैकविंशादिस्तोमे सति होत्रादिकशस्त्रेष्वावापस्थाने पंचसप्तादिसंख्याका ऋच आवपनीयाः । तत्र मैत्रावरुणशस्त्रे मित्रस्य
+> चर्षन्णीधृत इत्याद्याश्चतस्र आवापार्थाः । सूत्रितं च । मित्रस्य चर्षन्णीधृत इति
+> चितस्रो मैत्र्यः । आ. ७-५ । इति ॥
+> चर्षणीधृतो मनुष्याणां वृष्टिप्रदानेन धारकस्य मित्रस्य देवस्य संजंध्यवोऽन्नं सानसि सर्वैः संभजनीयं द्युम्नं तदीयं धनं च चित्रश्रवस्तमं । अतिशयेन चायनीयकीर्तियुक्तं ॥ सानसि । सनोतेः सानसिपर्णसीत्यादिनासिच् प्रत्ययांतत्वेन निपातनादुपधावृद्धिः । चित्तादंतोदात्तः । स्वमोरिति स्वमोर्लुक् ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava-ṣaḍaha and in the Daśarātra, when the stomas are the seventeen-fold, the twenty-one-fold and so on, verses numbering five, seven and so on are to be inserted (āvāpa) at the place of insertion in the hotṛ-type śastras. Among them, in the Maitrāvaruṇa śastra the four verses beginning मित्रस्य चर्षन्णीधृत (*mitrasya carṣanṇīdhṛta*) are meant for insertion. This is stated in the sūtra मित्रस्य चर्षन्णीधृत इति चितस्रो मैत्र्यः (*mitrasya carṣanṇīdhṛta iti citasro maitryaḥ*) (Ā. 7-5).
+Of the divine Mitra, who upholds men by giving rain, the food (avaḥ) is to be shared by all (sānasi), and his wealth (dyumna) is also most endowed with wonderful, hearable fame. On सानसि (*sānasi*) he gives a derivation: the affix is formed by the rule for words ending in -asi, and the penultimate vowel is lengthened. The word has acute accent on its final syllable because of चित्तादंतोदात्तः (*cittādaṃtodāttaḥ*); the loss of the case-ending is by the rule on sū and am.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणीधृतः (*carṣaṇīdhṛtaḥ*)—who sustains all creatures by giving rain
+- देवस्य (*devasya*)—who is of divine nature
+- मित्रस्य (*mitrasya*)—of Mitra
+- अवः (*avaḥ*)—the food
+- सानसि (*sānasi*)—honoured by all
+- द्युम्नं (*dyumnaṃ*)—the wealth
+- चित्रश्रवस्तमं (*citraśravastamaṃ*)—is worthy of exceeding fame
+
+##### भावार्थ (Bhāvārtha)
+
+The food of Mitra, who sustains all creatures by giving rain and is of divine nature, and his wealth honoured by all, are worthy of exceeding fame.
+
+##### English translation (H. H. Wilson)
+Desirable food and most renowned wealth are (the gifts) of the divine Mitra, the supporter of man
+### Printed p. 469
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifices called Abhiplava-ṣaḍaha and Daśarātra, when the seventeen-fold and twenty-one-fold stomas are recited, the priests of the hotṛ group recite verses of five, seven and similar numbers as insertion (āvapanīya) mantras among the śastra mantras they must recite. Then, when the priest called Maitrāvaruṇa recites his śastra mantra, four verses beginning मित्रस्य चर्षणीधृतः (*mitrasya carṣaṇīdhṛtaḥ*) (the 6th, 7th, 8th and 9th verses of this sūkta) are to be used as insertions. This is set out in the Āśvalāyana-śrautasūtra by the sūtra मित्रस्य चर्षणीधृत इति चतस्रो मैत्र्यः (*mitrasya carṣaṇīdhṛta iti catasro maitryaḥ*) (Ā. 7-5).
+By the epithet चर्षणीधृतः (*carṣaṇīdhṛtaḥ*) Mitra, the support of the universe, is praised. If one examines the greatness of this epithet, the power of Mitra, that is of the Āditya in the form of Mitra, becomes clear. In this verse Sāyaṇa has said that the word चर्षणीधृतः (*carṣaṇīdhṛtaḥ*) means मनुष्याणां धारकस्य (*manuṣyāṇāṃ dhārakasya*), "the one who holds up human beings". Earlier, when explaining the sense of words such as पंचकृष्टयः (*paṃcakṛṣṭayaḥ*) and पंचजनाः (*paṃcajanāḥ*), quotations from authorities such as the Aitareya-Brāhmaṇa and the Bṛhaddevatā were cited, and it was shown that these words do not mean merely earthly human beings but include gods, humans and all. By sentences such as गंधर्वाः पितरो देवा.... (*gaṃdharvāḥ pitaro devā....*) (Bṛ. De. 7-68) or चक्षुःशोत्रं मनो वाक् (*cakṣuḥśotraṃ mano vāk*) (7-71), this wider sense is established (Ṛgveda Saṃhitā, Part 12, pp. 378-381). In the Ṛk Saṃhitā too, sentences such as पंच जना मम होत्रं जुषंतां (*paṃca janā mama hotraṃ juṣaṃtāṃ*) (Ṛ. Saṃ. 10-53-5) support the sense "gods and others". Therefore in the present verse the word चर्षणीधृतः (*carṣaṇīdhṛtaḥ*) indicates Mitra's upholding of the whole universe.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि यो म॑हि॒ना दिवं॑ मि॒त्रो ब॒भूव॑ स॒प्रथाः॑ ।  
+> अ॒भि श्रवो॑भिः पृथि॒वीं ॥ ७ ॥
+
+> *abhi yo mahinā divaṃ mitro babhūva saprathāḥ |*  
+> *abhi śravobhiḥ pṛthivīṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । यः । महिना । दिवं । मित्रः । बभूव । सप्रथाः ।  
+> अभि । श्रवःभिः । पृथिवीं ॥ ७ ॥
+
+> *abhi | yaḥ | mahinā | divaṃ | mitraḥ | babhūva | saprathāḥ |*  
+> *abhi | śravaḥbhiḥ | pṛthivīṃ ‖ 7 ‖*
+
+### Printed p. 470
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातर्होमस्य कालात्यये मैत्रेष्टिः । तस्यामभि यो महिनेत्यनुवाक्या ।
+> सूत्रितं च । अभि यो महिना दिवं प्र स मित्र मर्तो अस्तु प्रयस्वान् । आ. ३-१२ ।
+> इति ॥
+> यो मित्रो महिना स्वकीयेन महिम्ना दिवमंतरिक्षमभि बभूवाभिभवति स
+> मित्रः सप्रथाः प्रथः प्रसिद्धिः कीर्तिः । तत्सहितः श्रवोभिवृष्टिद्वारोत्पादितैरन्नैः पृथिवीमप्यभिभवति । बह्वन्नयुक्तां करोतीत्यर्थः ॥ सप्रथाः । प्रथ प्रख्याने । असुन् ।
+> वोपसर्जनस्यॆति सहस्य सभावः ॥
+
+##### Gist of the bhāṣya
+
+When the time of the morning homa has passed, there is a Maitra offering (iṣṭi); in it the verse अभि यो महिन (*abhi yo mahina*) is the anuvākyā. It is stated in the sūtra अभि यो महिना दिवं प्र स मित्र मर्तो अस्तु प्रयस्वान् (*abhi yo mahinā divaṃ pra sa mitra marto astu prayasvān*) (Ā. 3-12).
+Mitra, who by his own greatness (mahinā) overcomes (abhi babhūva) the heaven, that is the atmosphere, that Mitra, with fame (saprathāḥ: प्रथः प्रसिद्धिः कीर्तिः (*prathaḥ prasiddhiḥ kīrtiḥ*), "praise is renown, fame"), overcomes also the earth with food produced by way of rain; that is, he makes it rich in food. On सप्रथाः (*saprathāḥ*): the root प्रथ (*pratha*) is in the sense of renown; the affix asun; sa is substituted for saha.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- मित्रः (*mitraḥ*)—Mitra
+- महिना (*mahinā*)—by his greatness
+- दिवं (*divaṃ*)—the atmosphere
+- अभि बभूव (*abhi babhūva*)—has overcome and pervaded (that same Mitra)
+- सप्रथाः (*saprathāḥ*)—endowed with fame
+- श्रवोभिः (*śravobhiḥ*)—endowed with food
+- पृथिवीं (*pṛthivīṃ*)—has also pervaded the earth
+
+##### भावार्थ (Bhāvārtha)
+
+Just as Mitra has overcome and pervaded the atmosphere by his greatness, so he stands pervading the earth also, joined with his fame and with food.
+
+##### English translation (H. H. Wilson)
+The renowned Mitra, who by his might presides over heaven, is he who presides over the earth by (the gift of) food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Maitra offering, if the morning homa has passed its time, then in the homa performed as its expiation this verse अभि यो महिना (*abhi yo mahinā*) is to be used as an anuvākyā mantra. This is set out in the Āśvalāyana-śrautasūtra by the sūtra अभि ये महिना दिवं प्रसमित्र मर्तो अस्तु प्रयस्वान् (*abhi ye mahinā divaṃ prasamitra marto astu prayasvān*) (Ā. 3-12).**NOTE**
+In every verse of this sūkta there is praise of the Āditya in the form of Mitra. Especially in verses 6, 7 and 8 one important, all-pervading quality of Mitra is set out. In the verse before this, the 6th, he is described as मित्रस्य चर्षणीधृतः (*mitrasya carṣaṇīdhṛtaḥ*). In the special topics on that verse it was explained that the word carṣaṇi does not mean merely human beings on earth but is a word of wide scope, indicating gods, humans and all. In the verse after this, the 8th, it is likewise described that पंच जनाः येमिरे (*paṃca janāḥ yemire*), the five peoples serve him.
+### Printed p. 471
+अभि बभूव (*abhi babhūva*)—When the root bhū is joined with the prefix abhi it commonly means "defeat, overrun". In the present verse it means that by his lordship he has brought the whole atmosphere under his control and stands overrunning all heaven and earth. But in
+अभी षू णः सखीनामविता जरित्कृणां । शतं भवास्कृतिभिः ॥ (*abhī ṣū ṇaḥ sakhīnāmavitā jaritkṛṇāṃ | śataṃ bhavāskṛtibhiḥ ‖*) (Ṛ. Saṃ. 4-31-3)
+the sense is, "O Indra, be (abhi bhavāsi) turned toward the singers". Elsewhere the sense is "subdue and defeat", but in this verse a coming of the nature of favour is prayed for. Even in the present verse it would not be wrong to say that Mitra stands pervading the whole atmosphere in the form of favour.
+सप्रथाः (*saprathāḥ*)—प्रथः प्रसिद्धिः कीर्तिः । तत्सहितः (*prathaḥ prasiddhiḥ kīrtiḥ | tatsahitaḥ*). Pratha means fame; sapratha means one endowed with fame. The original sense of the word pratha is "to spread widely". Because a person's quality spreads widely everywhere, he becomes renowned everywhere; the sense is fame. The Nirukta-author also explains it so: after showing that सप्रथाः सर्वतः पृथुः (*saprathāḥ sarvataḥ pṛthuḥ*) means "spread out widely all round", he cites the verse त्वमग्ने सप्रथा असि .... .... (*tvamagne saprathā asi .... ....*) (Ṛ. Saṃ. 5-13-4) and thereby shows the special sense of this word (Ni. 6-8).
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्राय॒ पंच॑ येमिरे॒ जना॑ अ॒भिष्टि॑शवसे ।  
+> स दे॒वान्विश्वा॑न्बिभर्ति ॥ ८ ॥
+
+> *mitrāya paṃca yemire janā abhiṣṭiśavase |*  
+> *sa devānviśvānbibharti ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्राय । पंच । येमिरे । जनाः । अभिष्टिशवसे ।  
+> सः । देवान् । विश्वान् । बि भ र्ति ॥ ८ ॥
+
+> *mitrāya | paṃca | yemire | janāḥ | abhiṣṭiśavase |*  
+> *saḥ | devān | viśvān | bi bha rti ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंच जना निषादपंचमाश्चत्वारो वर्णा अभिष्टिशवसे शत्रूणामभिगंतृबलयुक्ताय मित्राय येमिरे । हवींष्युद्यच्छंति । स तादृशो मित्रो विश्वान्
+
+##### Gist of the bhāṣya
+
+The five peoples (pañca janāḥ), that is the four varṇas with the Niṣāda as the fifth, offer (yemire) their oblations to Mitra, who has the strength that goes against enemies (abhiṣṭiśavase). The Gist continues in the next block.
+### Printed p. 472
+
+> सर्वान्देवान्बिभर्ति । स्वस्वरूपतया धारयति ॥ अभिष्टिशवसे । इषेर्मंत्रे वृषेत्यादिना क्तिन् । तादौ च नितीत्यभेरंतोदात्तत्वं । शकंध्वादित्वात्पररूपत्वं । बहुव्रीह
+> पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Such a Mitra bears all the gods, holding them in his own form. On अभिष्टिशवसे (*abhiṣṭiśavase*) the remainder of the block gives derivation and accent only (the affix ktin, the accent on the final of abhi, the pararūpa and the accent of the bahuvrīhi compound).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पंचजनाः (*paṃcajanāḥ*)—the people, consisting of the five classes beginning with the Niṣādas, also
+- अभिष्टिशवसे (*abhiṣṭiśavase*)—who has the power to destroy enemies
+- मित्राय (*mitrāya*)—to Mitra
+- येमिरे (*yemire*)—offer the oblation
+- सः (*saḥ*)—such a Mitra
+- विश्वान् (*viśvān*)—all
+- देवान् (*devān*)—the gods
+- बिभर्ति (*bibharti*)—bears in his own form
+
+##### भावार्थ (Bhāvārtha)
+
+The people, consisting of the five classes beginning with the Niṣādas, also offer oblation to Mitra, who has the power to destroy enemies. Such a Mitra bears all the gods in his own form.
+
+##### English translation (H. H. Wilson)
+The five classes of men have repaired to the victorious Mitra, for he supports all the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+अभिष्टिशवसे (*abhiṣṭiśavase*)—The word abhiṣṭi is commonly used in the sense of help in the form of protection. The word śavaḥ means strength. Here the sense is the power that can destroy enemies and protect the singer. The special senses of this word are explained in passages such as अभिष्टिमन्नासत्या वरूथं (*abhiṣṭimannāsatyā varūthaṃ*) (Ṛ. Saṃ. 1-116-11).
+पंच जनाः (*paṃca janāḥ*)—गंधर्वा अप्सरसो देवा असुरा रक्षांसि पंचजनाः । निषादपंचमाश्चात्वारो वर्णा वा । (*gaṃdharvā apsaraso devā asurā rakṣāṃsi paṃcajanāḥ | niṣādapaṃcamāścātvāro varṇā vā |*). Sāyaṇa's explanation is: five groups, namely Gandharvas, Apsarases, gods, Asuras and Rākṣasas; or the people of the four varṇas together with the fifth group of Niṣādas, that is hunters. There are differences of opinion in this classification. The Nirukta-author, without saying what his own view is, only cites the opinions of others:
+गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके (*gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke*) । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः (*catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ*) (Ni. 3-8).
+He states only the opinions of others: some hold that the five kinds of people are Gandharvas, Pitṛs, gods, Asuras and Rākṣasas; Aupamanyu and others hold that the five peoples are the four varṇas beginning with Brāhmaṇas together with a fifth group, the Niṣādas.
+### Printed p. 473
+Once, when all the gods prayed to Agni to accept the oblation offered for them in the sacrifice and to distribute it to all, Agni agreed and said:
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्जियासः पंच जना मम होत्रं जुषध्वं । (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajjiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ |*) (Ṛ. Saṃ. 10-53-4)
+"May the five peoples enjoy this oblation": the authors of the Bṛhaddevatā cite this sentence, which gives the answer, show the differences of opinion on who the five peoples are, and discuss them.
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*) (Bṛ. De. 7-66)
+In this verse the answer Agni gave to the gods is stated, and afterwards the word pañcajana is explained.
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Bṛ. De. 7-67)
+That is, the fire at the entrance of the hall, the consecrated Āhavanīya fire, the Gārhapatya fire which is as the son of the sacrificer, and the southern and northern fires, these five kinds of fires are traditionally called five classes. This is one view. Moreover:
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः । गंधर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ | gaṃdharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68)
+By the first view, one group is made of human beings and others together with serpents and Rākṣasas; in the second, Yakṣas and Rākṣasas form one group.
+यास्कौपमन्यवावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāskaupamanyavāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69)
+In this sentence the authors of the Bṛhaddevatā say that Yāska's view is the first. But in the Nirukta the views of others are stated and Yāska's own view is not stated definitively. Perhaps he too accepted that one.
+
 ---
 
-**Progress note:** Done through printed p. 467. pp. 462-467 (batch API)
+**Progress note:** Done through printed p. 473. pp. 468-473 (batch API)
