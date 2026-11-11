@@ -11543,6 +11543,283 @@ Since it has been said that the Ṛbhus are rays, they are praised here in that 
 
 While the Ṛbhus lived happily for twelve days in the hospitality, a form of honour, of the Āditya who shone unhidden, and were content, they made barren land fertile. They made the rivers flow. They made plants grow and stand even in the waterless desert. They made the waters rest in the low-lying places.
 
+### Printed p. 310
+#### Ṛk 8
+
+##### English translation (H. H. Wilson)
+When the Ribhus, reposing for twelve days, remained in the hospitality of the unconcealable (sun), they rendered the fields fertile, they led forth the rivers. plants sprung upon the waste, and waters (spread over) the low (places).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ ये च॒क्रुः सु॒वृतं॑ नरे॒ष्ठां ये धे॒नुं वि॑श्व॒जुवं॑  ॒॑
+> विश्वरूपां ।  
+> त आ त॑क्षंत्वृ॒भवो॑ र॒यिं नः॒ स्वव॑सः॒ स्वप॑सः सु॒हस्ताः॑ ॥ ८ ॥
+
+> *rathaṃ ye cakruḥ suvṛtaṃ nareṣṭhāṃ ye dhenuṃ viśvajuvaṃ*  
+> *viśvarūpāṃ |*  
+> *ta ā takṣaṃtvṛbhavo rayiṃ naḥ svavasaḥ svapasaḥ suhastāḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । ये । चक्रुः । सुवृतं । नरेष्ठां । ये । धेनुं । विश्वजुवं ।  
+> विश्वरूपां ।  
+> ते । आ । तक्षंतु । ऋभवः । रयिं । नः । सुअवसः । सुअपसः । सुहस्ताः ॥ ८॥
+
+> *rathaṃ | ye | cakruḥ | suvṛtaṃ | nareṣṭhāṃ | ye | dhenuṃ | viśvajuvaṃ |*  
+> *viśvarūpāṃ |*  
+> *te | ā | takṣaṃtu | ṛbhavaḥ | rayiṃ | naḥ | suavasaḥ | suapasaḥ | suhastāḥ ‖ 8‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ऋभवः सुवृतं सुचक्रं सुष्टु वर्तमानं वा नरेष्ठां नेतरि चक्रे
+> वर्तमानं रथं चक्रुः । ये च विश्वजुवं विश्वस्य प्रेरयित्रीं विश्वरूपां
+> बहुरूपामेतन्नामिकां वा धेनुं गां चक्रुः । अकुर्वन् । बृहस्पतिर्विश्वरूपामुपाजत । ऋग्वे. १-१६१-६ । इति ह्युक्तं । ते महांत ऋभवो नोऽस्माकं रयिं
+> धनमा तक्षंतु । सर्वतो निष्पादयंतु । कीदृशास्त्र ऋभवः । स्वपसः सुकर्माणः
+> स्ववसः शोभनान्नोपेताः सुरक्षणा वा सुहस्ताः शोभनहस्ताः कुशलहस्ताः ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus made a chariot that is well-wheeled, or that moves well, and that runs on the guiding wheel. They also made the cow, the "dhenu", who impels the whole world and is multiform (or bears that name). He quotes: बृहस्पतिर्विश्वरूपामुपाजत (*bṛhaspatirviśvarūpāmupājata*) (Ṛgve. 1-161-6)**NOTE**, "for so it has been said". Sāyaṇa then asks those great Ṛbhus to fashion wealth for us on every side. He describes them as स्वपसः (*svapasaḥ*), doers of good deeds; स्ववसः (*svavasaḥ*), endowed with good food or good protectors; and सुहस्ताः (*suhastāḥ*), having fair, skilful hands.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—the Ṛbhus who
+- सुवृतं (*suvṛtaṃ*)—excellently established
+- नरेष्ठां (*nareṣṭhāṃ*)—standing on an excellent wheel
+- रथं (*rathaṃ*)—the chariot
+- चक्रुः (*cakruḥ*)—made
+### Printed p. 311
+- ये (*ye*)—the Ṛbhus who
+- विश्वजुवं (*viśvajuvaṃ*)—impelling the world
+- विश्वरूपां (*viśvarūpāṃ*)—multiform
+- धेनुं (*dhenuṃ*)—the cow (they made)
+- ते (*te*)—those great ones
+- स्वपसः (*svapasaḥ*)—having excellent works
+- स्ववसः (*svavasaḥ*)—having excellent food
+- सुहस्ताः (*suhastāḥ*)—having hands fit for skilful work
+- ऋभवः (*ṛbhavaḥ*)—those Ṛbhus
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- आ तक्षंतु (*ā takṣaṃtu*)—let them acquire and give
+
+##### भावार्थ (Bhāvārtha)
+
+May the Ṛbhus who made the chariot that is excellently established and stands on an excellent wheel, and who made the cow that impels the world and is multiform: those great ones, doers of excellent works, possessed of excellent food, with hands fit for skilful work, acquire and give wealth to us.
+
+##### English translation (H. H. Wilson)
+May those Ribhus who constructed the firm-abiding, wheel-
+conducting car; who formed the all-impelling multiform milch cow:
+they who are bestowers of food, the doers of great deeds, and dexterous
+of hand, fabricate for us riches.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपो॒ ह्ये॑षा॒मजु॑षंत दे॒वा अ॒भि क्रत्वा॒ मन॑सा॒ दीध्या॑नाः ।  
+> वाजो॑ दे॒वाना॑मभवत्सु॒कर्मेंद्र॑स्य ऋभु॒क्षा वरु॑णस्य॒  ॑
+> विभ्वा ॥ ९ ॥
+
+> *apo hyeṣāmajuṣaṃta devā abhi kratvā manasā dīdhyānāḥ |*  
+> *vājo devānāmabhavatsukarmeṃdrasya ṛbhukṣā varuṇasya*  
+> *vibhvā ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपः । हि । एषां । अजुषंत । देवाः । अभि । क्रत्वा । मनसा । दीध्यानाः ।  
+> वाजः । देवानां । अभवत् । सुकर्मा । इंद्रस्य । यभुक्षाः । वरुणस्य ।  
+> विभ्वा ॥ ९ ॥
+
+> *apaḥ | hi | eṣāṃ | ajuṣaṃta | devāḥ | abhi | kratvā | manasā | dīdhyānāḥ |*  
+> *vājaḥ | devānāṃ | abhavat | sukarmā | iṃdrasya | yabhukṣāḥ | varuṇasya |*  
+> *vibhvā ‖ 9 ‖*
+
+### Printed p. 312
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामृभूणामपोऽश्वरथनिर्माणादिरूपं कर्म देवा इंद्रादयोऽजुषंत । असेवंत । इंद्रो हरी युयुजे अश्विना रथमित्यादिमंत्रोक्तप्रकारेण
+> स्वीकृतवंत इत्यर्थः । कीदृशास्ते! क्रत्वा वरप्रदानरूपेण कर्मणा मनसा शोभनेन
+> चित्तेनानुग्रहयुक्तेनाभि दीध्याना दीप्यमानाः । देवानामनुग्रहेण किं लब्धमित्याह । सुकर्मा शोभनव्यापारो वाजः कनीयान्देवानां सर्वेषां संबंध्यभवत् ।
+> तथेंद्रस्य संबंध्यभुक्षा ऋभुज्येष्ठः । विभ्वा मध्यमो वरुणस्य संबंध्यभवत् ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others, took pleasure in (served) the work of these Ṛbhus, namely the making of the horses and the chariot; that is, they accepted it in the manner told in such mantras as *iṃdro harī yuyuje aśvinā rathaṃ*. The Ṛbhus are described as shining forth through क्रत्वा (*kratvā*), the act of granting boons, and through मनसा (*manasā*), a good and gracious mind. Asked what was gained through the gods' favour, he says: Vāja, the youngest, of good work, became connected with all the gods; Ṛbhukṣan, the eldest of the Ṛbhus, became connected with Indra; Vibhvan, the middle one, became connected with Varuṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रत्वा (*kratvā*)—by skill in work
+- मनसा (*manasā*)—by a pure mind
+- अभि दीध्यानाः (*abhi dīdhyānāḥ*)—shining
+- एषां अपः (*eṣāṃ apaḥ*)—the extraordinary works of the Ṛbhus
+- देवाः (*devāḥ*)—the gods, Indra and others
+- अजुषंत (*ajuṣaṃta*)—serve (take pleasure in)
+- सुकर्मा (*sukarmā*)—the doer of excellent work
+- वाजः (*vājaḥ*)—Vāja
+- देवानां (*devānāṃ*)—for the gods
+- अभवत् (*abhavat*)—became one needed
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—the eldest Ṛbhu
+- इंद्रस्य (*iṃdrasya*)—became the skilful worker needed by Indra
+- विभ्वा (*vibhvā*)—Vibhvan, the middle one
+- वरुणस्य (*varuṇasya*)—became one needed by Varuṇa
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Indra and the others, have been pleased with the extraordinary works of the Ṛbhus, who shone with skill in work and a good mind. Vāja, the excellent doer of works, became one needed by the gods. The eldest Ṛbhu became the skilful worker needed by Indra. Vibhvan, the middle one, became one needed by Varuṇa.
+
+##### English translation (H. H. Wilson)
+The gods were pleased by their works, illustrious in act and in thought: Vaja was the artificer of the gods, Ribhukshin of Indra, Vibhwan of Varuna.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये हरी॑ मे॒धयो॒क्का मदं॑त॒ इंद्रा॑य च॒क्रुः सु॒युजा॒  ॑
+> ये अश्वा॑ ।
+
+> *ye harī medhayokkā madaṃta iṃdrāya cakruḥ suyujā*  
+> *ye aśvā |*
+
+### Printed p. 313
+
+> ते रायस्पोषं द्रविणान्यस्मे धत्त ऋभवः क्षेमयंतो  
+> न मित्रं । १० ॥
+
+> *te rāyaspoṣaṃ draviṇānyasme dhatta ṛbhavaḥ kṣemayaṃto*  
+> *na mitraṃ | 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । हरी इति । मेधया । उक्ता । मदंतः । इंद्राय । चक्रुः । सुयुजा ।  
+> ये । अश्वा ।  
+> ते । रायः । पोषं । द्रविणानि । अस्मे इति । धत्त । ऋभवः । क्षेमयंतः ।  
+> न मित्रं ॥ १० ॥
+
+> *ye | harī iti | medhayā | uktā | madaṃtaḥ | iṃdrāya | cakruḥ | suyujā |*  
+> *ye | aśvā |*  
+> *te | rāyaḥ | poṣaṃ | draviṇāni | asme iti | dhatta | ṛbhavaḥ | kṣemayaṃtaḥ |*  
+> *na mitraṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ऋभवो हरी अश्वे मेधया प्रज्ञयोक्षा उक्थैः स्तुतिभिर्मदंतो
+> हर्षयंतश्चक्रुः। ये च तौ सुयुजा सुयुजौ सुयोजनावश्वाविंद्रायेंद्रार्थं
+> चक्रुः । अकुर्वन् । हे ऋभवस्ते यूयं रायस्पोषं धनपुष्टिं द्रविणानि
+> गवादिधनानि च सुखानि वास्मे आस्मासु धत्त । धारयत । किमिव । क्षेमयंतः
+> क्षेममिच्छंतो मित्रं न मित्रमिव । अत्र यद्यप्येक एव ऋभुनामा तत्संबंधादितरेऽप्यभव उच्यंते प्राणभृन्यायेन ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus gladdened the two bay horses (Hari) with मेधया (*medhayā*), insight, and with उक्थैः (*ukthaiḥ*), praises; and they made for Indra the two well-yoked horses. He addresses the Ṛbhus: "You, place (bestow) upon us increase of wealth, riches (cows and the like), or pleasures, like a friend desiring our welfare." He adds that although only one is named Ṛbhu, the others are also called so through connection with him, by the analogy of *prāṇabhṛt* (prāṇabhṛt).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- ये (*ye*)—you who
+- हरी (*harī*)—Indra's two horses named Hari
+- मेधया (*medhayā*)—by your insight
+- उक्का (*ukkā*)—and by praises
+- मदंतः (*madaṃtaḥ*)—gladdened
+- ये (*ye*)—you, the same
+- सुयुजा (*suyujā*)—fit to be yoked to the chariot
+- अश्वा (*aśvā*)—the pair of horses
+- इंद्राय (*iṃdrāya*)—for Indra
+- चक्रुः (*cakruḥ*)—made
+- ते (*te*)—you, the same
+- मित्रं न (*mitraṃ na*)—like a friend
+- क्षेमयंतः (*kṣemayaṃtaḥ*)—desiring our welfare
+- रायस्पोषं (*rāyaspoṣaṃ*)—increase of wealth
+- द्रविणानि (*draviṇāni*)—wealth in cows and the like
+- अस्मे (*asme*)—to us
+- धत्त (*dhatta*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you made the pair of horses fit to be yoked to Indra's chariot. You gladdened those same horses named Hari with your insight and with praises. You, the same, desiring our welfare like a close friend, provide us also with wealth in cows and the like and with increase of wealth.
+### Printed p. 314
+
+##### English translation (H. H. Wilson)
+May those Ribhus who gratified the horses (of Indra) by pious praise, who constructed for Indra his two decile steeds, bestow upon us satiety of riches, and wealth (of cattle), like those who devise prosperity for a friend.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दाह्नः॑ प्री॒तिमु॒त वो॒ मदं॑ धु॒र्न ऋ॒ते श्रां॒तस्य॑ स॒ख्याय॑  ॒
+> देवाः ।  
+> ते नू॒नम॒स्मे ऋ॑भवो॒ वसू॑नि तृ॒तीये॑ अ॒स्मिन्त्सव॑ने  
+> दधात ॥ ११ ॥
+
+> *idāhnaḥ prītimuta vo madaṃ dhurna ṛte śrāṃtasya sakhyāya*  
+> *devāḥ |*  
+> *te nūnamasme ṛbhavo vasūni tṛtīye asmintsavane*  
+> *dadhāta ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदा । अह्नः । प्रीतिं । उत । वः । मदं । धुः । न । ऋते । श्रांतस्य । सख्याय ।  
+> देवाः ॥  
+> ते । नूनं । अस्मे इति । ऋभवः । वसूनि । तृतीये । अस्मिन् । सवने । दधात ।
+
+> *idā | ahnaḥ | prītiṃ | uta | vaḥ | madaṃ | dhuḥ | na | ṛte | śrāṃtasya | sakhyāya |*  
+> *devāḥ ‖*  
+> *te | nūnaṃ | asme iti | ṛbhavaḥ | vasūni | tṛtīye | asmin | savane | dadhāta |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदेदानीं चमसादिनिर्माणानंतरमह्नः सुत्याहसंबंधिनस्तृतीये सवने
+> पीतिं सोमपानमुतापि च मदं तज्जनितं वो युष्माकं धुः । ददुर्दॆवाः ।
+> श्रांतस्य श्रांतात्तपोयुक्तादृते सख्याय सखित्वाय न भवंति देवाः । यत एते
+> श्रांता अतो ददुरित्यर्थः । हे ऋभवस्ते महांतो यूयं नूनं निश्चयमस्मे
+> अस्मास्वस्मिन् तृतीये सवने वसूनि धनानि दधात । धारयत ॥
+
+##### Gist of the bhāṣya
+
+Now, after the making of the cups and the rest, the gods gave you, the Ṛbhus, at the third pressing connected with the day's soma-pressing, the drinking of soma and the exhilaration arising from it. He explains: the gods are not (disposed) to friendship except with one wearied, one endowed with austerity; since these Ṛbhus are wearied, therefore the gods gave. "O Ṛbhus, you great ones, certainly bestow wealth upon us at this third pressing."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- अह्नः (*ahnaḥ*)—of the day
+- इदा (*idā*)—at this time of the third pressing (after the making of your skilful works)
+- देवाः (*devāḥ*)—the gods
+- वः (*vaḥ*)—to you
+- पीतिं (*pītiṃ*)—the drinking of soma
+### Printed p. 315
+- उत (*uta*)—and
+- मंदं (*maṃdaṃ*)—the exhilaration arising from it
+- धुः (*dhuḥ*)—produced
+- श्रांतस्य ऋते (*śrāṃtasya ṛte*)—not other than the fruit of your austerity
+- सख्याय (*sakhyāya*)—for the purpose of friendship (of the gods with you)
+- न (*na*)—certainly not obtained
+- ते (*te*)—you, who have obtained such power of austerity
+- नूनं (*nūnaṃ*)—certainly
+- अस्मे (*asme*)—to us
+- आस्मिन् तृतीये सवने (*āsmin tṛtīye savane*)—at this time of the third pressing
+- वसूनि (*vasūni*)—riches
+- दधात (*dadhāta*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, at this third pressing of the day, after the making of your skilful works, the gods brought about for you the drinking of soma and the exhilaration arising from it. That was nothing but the fruit of your austerity; the gods did not give it to you out of duty, nor as a mark of friendship. You, who have obtained such power of austerity, certainly provide us with riches at this third pressing.
+
+##### English translation (H. H. Wilson)
+The gods verily have given you the beverage at the (third sacrifice of the) day, and its exhilaration, not through regard, but (as the gift of one) wearied out (by penance): Ribhus, who are so (eminent), grant us, verily, wealth and this third (diurnal) sacrifice.
+## Sūkta 34 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुर्विभ्वेत्येकादशर्चं द्वितीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमार्भवं । ऋभुर्विभ्वेत्यनुक्रमणिका ॥ व्यूढे दशरात्रे पंचमेऽहनि वैश्वदेवशस्त्र
+> आर्भवनिविद्धानीयमिदं । ऋभुर्विभ्वा स्तुषे जिनं । आ ८_८ । इति सूत्रितत्वात् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ऋभुर्विभ्वा (*ṛbhurvibhvā*) has eleven verses and is the second sūkta. Its seer is Vāmadeva, its metre is Triṣṭubh, and its deity is the Ṛbhus (Ārbhava). The Anukramaṇikā says *ṛbhurvibhveti*. On the fifth day of the Vyūḍha daśarātra, in the Vaiśvadeva śastra, this sūkta serves as the Ārbhava nivid-hānīya (the sūkta in which the nivid is placed), because the sūtra ऋभुर्विभ्वा स्तुषे जिनं (*ṛbhurvibhvā stuṣe jinaṃ*) (Ā. 8-8) lays it down.
+
+##### Anuvāda
+
+This sūkta beginning "Ṛbhur vibhvā" is the second sūkta in the fourth anuvāka. It has eleven Ṛks. Vāmadeva is the seer of this sūkta; the Ṛbhus are the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is stated as beginning "Ṛbhur vibhvā". It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra "Ṛbhur vibhvā stuṣe janam" (8-8), that at the time of reciting the Vaiśvadeva śastra mantras on the fifth day of the daśarātra sacrifice called Vyūḍha, this sūkta too is to be recited as the Ārbhava nivid-hānīya sūkta.
+
 ---
 
-**Progress note:** Done through printed p. 309. pp. 304-309 (batch API)
+**Progress note:** Done through printed p. 315. pp. 310-315 (batch API)
