@@ -6922,6 +6922,230 @@ A man's wife, Maghavan, is his dwelling ; verily she is his place of birth : thi
 जाया इत् (*jāyā it*)—जायैव गृहं भवति (*jāyaiva gṛhaṃ bhavati*). *Jāyā* means the wife or the housewife. Explaining the word *gṛha* to mean that for a man his own wife, or the place where his wife is, is regarded as the house, he gives in support of it the smṛti sentence न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते (*na gṛhaṃ gṛhamityāhurgṛhiṇī gṛhamucyate*) as an example. *Gṛha* does not mean a house or building built for dwelling. For a householder his own wife, or the place where the wife is, is called the *gṛha*. The sense of this sentence is that a house without a wife is not called a house. Therefore it is indicated that the role of the wife in the householder's home is of the greatest importance.
 सा इत् योनिः उ (*sā it yoniḥ u*)—सा जायेव पुरुषस्य योनिः मिश्रणस्थानं (*sā jāyeva puruṣasya yoniḥ miśraṇasthānaṃ*). That wife is for the man the place of origin of pleasure and pain; "this is well known" means that a man obtains happiness only from his wife, and that in many circumstances, while carrying out household duties and so on, sorrow also arises. It is for this reason that the commentator has explained the word *yoni* as *miśraṇasthāna*, "a place together with happiness and sorrow". The sense is that this matter is well known, that is, known to everyone.
 
+### Printed p. 181
+तत् इत् त्वा युक्ताः हरयः वहंतु (*tat it tvā yuktāḥ harayaḥ vahaṃtu*)—therefore let the yoked bay horses carry you there. तस्मात्तत्र गृह एव रथे योजयिता हरयोऽश्वास्तां वहंतु । (*tasmāttatra gṛha eva rathe yojayitā harayo 'śvāstāṃ vahaṃtu |*). For that very reason, may your horses bring you in the chariot to such a house. "House" here should be understood as the sacrificial house of the sacrificer (yajamāna). Just as a man comes eagerly to the house where his housewife or wife is, so the sacrificer's sacrificial house, where the sacrifice or Soma juice dear to Indra like a wife stands ready, is welcome to him. The ṛṣi prays that Indra's horses bring Indra in the chariot to such a sacrificial house.
+यदा कदा च सोमं सुनवाम अग्निः त्वा दूतः अच्छ धन्वति । (*yadā kadā ca somaṃ sunavāma agniḥ tvā dūtaḥ accha dhanvati |*)—O Indra, whenever we prepare Soma juice for you, you must come toward our sacrificial house; for that Agni, as messenger, comes toward you (to you). This is the main purport of this sentence.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ याहि मघव॒न्ना च॑ या॒हींद्र॑ भ्रातरुभ॒यत्रा॑ते॒ अर्थं॑।  
+> यत्रा॒ रथ॑स्य बृह॒तो नि॒धानं॑ वि॒मोच॑िनं वा॒जिनो॒ रास॑भस्य ॥
+
+> *parā yāhi maghavannā ca yāhīṃdra bhrātarubhayatrāte arthaṃ|*  
+> *yatrā rathasya bṛhato nidhānaṃ vimocinaṃ vājino rāsabhasya ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । याहि । मघवन् । आ । च । याहि । इंद्र । भ्रातः । उभयत्र । ते । अर्थं ।  
+> यत्र । रथस्य । बृहतः । निधानं । विमोचनं । वाजिनः । रासभस्य ॥ ५ ॥
+
+> *parā | yāhi | maghavan | ā | ca | yāhi | iṃdra | bhrātaḥ | ubhayatra | te | arthaṃ |*  
+> *yatra | rathasya | bṛhataḥ | nidhānaṃ | vimocanaṃ | vājinaḥ | rāsabhasya ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहर्गणेऽंत्यवर्जितेष्वहःसु हारियोजनस्य वैकल्पिकी परा याहीत्यनुवाक्या । परा याहि मघवन्ना च याहीति वानुवाक्येति सूत्रितं । आ. ६-११ ॥
+> हे मघवन्थनवन्निंद्र त्वं परा याहि । अस्माद्वेदयजनात्पराज्मुखो गृहं
+> प्रति गच्छ । अथवा देवयजनं प्रत्यायाहि । हे भ्रातः पोषकोभयत्रापि ते
+> तवार्थं अर्यते प्राप्यत इत्यर्थः प्रयोजनं । अस्ति तत्र जायात्र सोमः !
+> प्रयोजनांतरमाह । यत्र गृहं प्रति गमने बृहतो महतो रथस्योपरि निधानमवस्थानं प्रयोजनं । अत्र स्थितौ रासभस्य हेषारवं कुर्वतो वाजिनोऽश्वस्य
+
+##### Gist of the bhāṣya
+
+On the ahargaṇa, on the days other than the last, the verse परा याहि (*parā yāhi*) is an optional anuvākyā of the Hāriyojana; it is prescribed by the sūtra "परा याहि मघवन्ना च याहीति वानुवाक्या (*parā yāhi maghavannā ca yāhīti vānuvākyā*)" (Ā. Sū. 6-11). "O wealthy Indra, go away: turn your back on this place of the Veda-sacrifice and go to your house; or else come to the divine sacrificial place. O brother, nourisher: in both cases there is a purpose (artha: what is reached, a use) for you. There (at home) is the wife; here is the Soma." He then states the other purpose: in going home, the purpose is the standing (nidhāna, remaining) upon the great chariot; and if he stays here, the purpose is the unyoking from the chariot of the neighing horse (vājin), which makes a braying/neighing sound (rāsabha)…
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- परा (*parā*)—away from the sacrificial house
+- याहि (*yāhi*)—you may go (or)
+- आ याहि (*ā yāhi*)—come to this sacrificial house
+- भ्रातः (*bhrātaḥ*)—O Indra, the nourisher
+- ते (*te*)—your
+- अर्थं (*arthaṃ*)—purpose
+- उभयत्र (*ubhayatra*)—is served in both ways
+- यत्र (*yatra*)—by your act of going
+- बृहतः (*bṛhataḥ*)—great
+- रथस्य (*rathasya*)—upon the chariot
+- निधानं (*nidhānaṃ*)—your placing (becomes the purpose) (if you go home)
+- रासभस्य (*rāsabhasya*)—your neighing
+- वाजिनः (*vājinaḥ*)—of the horse
+- विमोचनं (*vimocanaṃ*)—release (from the chariot) (becomes the second purpose)
+
+### Printed p. 182
+
+> रथाद्विमोचनं प्रयोजनं ॥ अर्थं । ऋ गतौ । उषिकुषिगार्तिभ्यस्थन्निति थन् ।
+> नित्स्वरः । निधानं । दधातेर्भावे ल्युट् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं ।
+> रासभस्य । रासृ शब्दे । रासिवल्लिभ्यां च । उ. ३-१२५ । इति कर्तर्यभच्‌प्रत्ययः ।
+> ग्रामादित्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The release from the chariot is the purpose. (The rest of the block gives the grammar of अर्थं (*arthaṃ*), निधानं (*nidhānaṃ*) and रासभस्य (*rāsabhasya*); रासभस्य (*rāsabhasya*) is derived from the root रासृ शब्दे (*rāsṛ śabde*).)
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, whether you depart from this sacrificial house or come here, there is a twofold purpose in both courses of action. By departing from here, your being seated in your chariot is one purpose. Or, if you stay here, the release of your neighing horse is another purpose.
+
+##### English translation (H. H. Wilson)
+Depart, Maghavan ; come Indra : both ways, protector, there is a motive for you, whether it be standing in your vast chariot, or liberating your neighing steed.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day before the last day of the sacrifice called ahargaṇa, in the rite called Hāriyojana, this ṛk "Parā yāhi" may optionally be recited as the anuvākyā mantra; this is stated by the sūtra of the Āśvalāyana Śrauta Sūtra, "परा याहि मघवन्ना च याहीति वानुवाक्या (*parā yāhi maghavannā ca yāhīti vānuvākyā*)" (Ā. Sū. 6-11).
+भ्रातः (*bhrātaḥ*)—For this word, derived from the root भृञ् भरणे (*bhṛñ bharaṇe*), the commentator gives the meaning "Indra the nourisher". Or the meaning "brother" belonging to the word भ्रातृ (*bhrātṛ*) may also be taken. It should be understood that out of great regard Indra is addressed as brother.
+
+### Printed p. 183
+रासभस्य (*rāsabhasya*)—रासृ शब्दे (*rāsṛ śabde*). हेषारवं कुर्वतः वाजिनः (*heṣāravaṃ kurvataḥ vājinaḥ*). The commentator says that this word is derived from the root रासृ (*rāsṛ*), meaning "to make a sound", and therefore explains the word as "of the horse that makes a sound, or that neighs".
+In this ṛk it is explained that Indra (after coming to the sacrificial ground and drinking Soma) may stay right here, that is, on the sacrificial ground, if he wishes; otherwise he may depart to his own abode. In both these courses there is a purpose. How? If Indra goes back toward his own house, he will sit in his great chariot; our seeing this is the purpose. Or, if Indra stays here, then the horse harnessed to the chariot is unyoked and let loose, not yoked to the chariot; it will neigh with joy. Thus the ṛṣi has explained the purpose that lies in Indra's coming and returning.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपाः॒ सोम॒मस्त॑मिंद्र॒ प्र या॑हि कल्या॒णीर्जा॒या सु॒रणं॑ ॒ ॑
+> गृहे ते ।  
+> यत्रा॒ रथ॑स्य बृह॒तो नि॒धानं॑ वि॒मोच॑नं वा॒जिनो॒ दक्षि॑णावत् ॥ ६ ॥
+
+> *apāḥ somamastamiṃdra pra yāhi kalyāṇīrjāyā suraṇaṃ*  
+> *gṛhe te |*  
+> *yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino dakṣiṇāvat ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपाः । सोमं । अस्तं । इंद्र । प्र । याहि । कल्याणीः । जाया । सुरणं । गृहे ।  
+> ते ।  
+> यत्र । रथस्य । बृहतः । निधानं । विमोचनं । वाजिनः । दक्षिणावत् ॥ ६ ॥
+
+> *apāḥ | somaṃ | astaṃ | iṃdra | pra | yāhi | kalyāṇīḥ | jāyā | suraṇaṃ | gṛhe |*  
+> *te |*  
+> *yatra | rathasya | bṛhataḥ | nidhānaṃ | vimocanaṃ | vājinaḥ | dakṣiṇāvat ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंत्येष्वहःसु हारियोजनस्यापाः सोममित्यनुवाक्या । सूत्रितं च । हारियोजनोऽपाः सोममस्तमिंद्र प्र याहि । आ. ६-११ । इति ॥
+> हे इंद्र सोममपाः । अत्रैव स्थित्वा सोमं पिब । पीत्वास्तं गृहं प्र
+> याहि । प्रकर्षेण गच्छ । ते तव गृहे कल्याणीर्मंगलकारिणी जाया शची विद्यते ।
+> सुरणं शोभनगीतादिध्वनिश्चास्ति । यद्वा ।सुरणं सुरमणीयं यथा भवति तथा गृहे
+
+##### Gist of the bhāṣya
+
+On the last days, अपाः सोमं (*apāḥ somaṃ*) is the anuvākyā of the Hāriyojana; it is prescribed by the sūtra "हारियोजनोऽपाः सोममस्तमिंद्र प्र याहि (*hāriyojano 'pāḥ somamastamiṃdra pra yāhi*)" (Ā. Sū. 6-11). "O Indra, drink the Soma: staying right here, drink Soma. Having drunk, go to your house (astam), go forth. In your house there is your auspicious wife Śacī, and there is also the sound of fine songs and the like. Or else: your wife stays in the house in such a way that it is delightful to the gods (surana)…
+### Printed p. 184
+
+> जाया तिष्ठति । यत्रेत्यादि गतं । दक्षिणावत् । अत्र स्थितौ सत्यां रथे योजितानां
+> वाजिनां विमोचनं खादनपानादिना दक्षिणावत् प्रयोजनवद्भवति । विमुक्तेभ्यो
+> वाजिभ्यो खादनं पानं चोपहरंति ॥ आपाः । पा पाने । लुजि गातिस्थेति सिचो
+> लुक् । अडागमस्वरः । कल्याणेः । कल्याणमस्यास्तीति मत्वर्थे छंदसीवनिपाविति
+> ईप्रत्ययः । प्रत्ययस्वरः । सुरणं । रण शब्दार्थः । आस्मादकृच्छार्थे खल् ।
+> लित्स्वरः । प्रत्ययस्य पित्तादनुदात्तत्वे धातुस्वरः । समासे कृदुत्तरपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+…The rest of the sentence is as above ("yatra" etc., already treated). दक्षिणावत् (*dakṣiṇāvat*): if you stay here, the unyoking of the horses yoked to the chariot becomes fruitful (dakṣiṇāvat, "with a reward") through their eating, drinking and so on; for to the released horses they bring food and drink. (The rest of the block is grammar of आपाः (*āpāḥ*), कल्याणेः (*kalyāṇeḥ*) and सुरणं (*suraṇaṃ*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सोमं (*somaṃ*)—the Soma
+- अपाः (*apāḥ*)—drink (afterwards) to your house (astam)
+- प्र याहि (*pra yāhi*)—go
+- ते (*te*)—your
+- गृहे (*gṛhe*)—in the house
+- कल्याणीः (*kalyāṇīḥ*)—auspicious
+- जाया (*jāyā*)—your wife
+- सुरणं (*suraṇaṃ*)—is delightful to you
+- बृहतः (*bṛhataḥ*)—great
+- रथस्य (*rathasya*)—upon the chariot
+- निधानं (*nidhānaṃ*)—your placing
+- दक्षिणावत् (*dakṣiṇāvat*)—becomes beneficial (or, if you stay here)
+- वाजिनः (*vājinaḥ*)—of the horse
+- विमोचनं (*vimocanaṃ*)—there is release (from the chariot)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, first drink the Soma. Afterwards go to your house. In your house your auspicious wife is a delight to you. Your being placed upon the great chariot is beneficial. Or, if you stay here, the horse is released from your chariot.
+
+##### English translation (H. H. Wilson)
+When you have drunk the Soma, then, Indra, go home : an auspicious life (abides) pleasantly in your dwelling : in either (case) there is the standing in your car or liberating the steeds for provender.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the last day of the sacrifice called ahargaṇa this ṛk "Āpāḥ somaṃ" is to be recited as the anuvākyā mantra; this is stated by the sūtra of the Āśvalāyana Śrauta Sūtra, "हारियोजनापाः सोममस्तमिंद्र (*hāriyojanāpāḥ somamastamiṃdra*)" (Ā. Sū. 6-11).
+In this ṛk too the matter stated in the previous ṛk is set out in detail. And there is also a description that in Indra's house Indra's wife welcomes him with the sound of auspicious songs.
+इंद्र सोममपाः अस्तं प्र याहि (*iṃdra somamapāḥ astaṃ pra yāhi*)—O Indra, drink Soma on our sacrificial ground; after drinking, set out toward your own house. As was said in the 4th ṛk, here too the word अस्तं (*astaṃ*) is explained as "house".
+
+### Printed p. 185
+कल्याणी जाया ते गृहे सुरणं (*kalyāṇī jāyā te gṛhe suraṇaṃ*)—तव गृहे मंगलकारिणी तव जाया (शची) विद्यते । शोभनगीतादिध्वनिश्चास्ति । (*tava gṛhe maṃgalakāriṇī tava jāyā (śacī) vidyate | śobhanagītādidhvaniścāsti |*) In your house there is your wife (Śacī), shining delightfully, that is, an ornament to the house; and there is the sound of the sweet songs and the like that she sings to welcome you; that is, it is heard. This is the purport.
+यत्र रथस्य........दक्षिणावत् (*yatra rathasya........dakṣiṇāvat*)—What was said in the latter half of the previous ṛk is said again here. If Indra departs, he sits in his great chariot and gives darśana to all; if he does not depart but stays here, he has the horses of his chariot unyoked and sees that food and drink are provided for them: these two kinds of purpose are there, the ṛṣi says once more.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे भो॒जा अंगि॑रसो॒ विरू॑पा दि॒वस्पु॒त्रासो॒ असु॑रस्य  ॒
+> वीराः ।  
+> वि॒श्वामि॑त्राय॒ दद॑तो म॒घानि॑ सहस्रसा॒वे प्र ति॑रंत॒ आयुः॑॥
+
+> *ime bhojā aṃgiraso virūpā divasputrāso asurasya*  
+> *vīrāḥ |*  
+> *viśvāmitrāya dadato maghāni sahasrasāve pra tiraṃta āyuḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । भोजाः । अंगिरसः । विरूपाः । दिवः । पुत्रासः । असुरस्य । वीराः ।  
+> विश्वामित्राय । ददतः । मघानि । सहस्रसावे । प्र । तिरंते । आयुः ॥ ७ ॥
+
+> *ime | bhojāḥ | aṃgirasaḥ | virūpāḥ | divaḥ | putrāsaḥ | asurasya | vīrāḥ |*  
+> *viśvāmitrāya | dadataḥ | maghāni | sahasrasāve | pra | tiraṃte | āyuḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इमे यागं कुर्वाणा भोजाः सौदासाः क्षत्रियाः तेषां याजका
+> विरूपा नानारूपा मेधातिथिप्रभृतयोंगिरसश्च दिवोऽसुरस्य देवेभ्योऽपि बलवतो रुद्रस्य पुत्रासः पुत्रा वीरा बलवंतो मरुतः ते सर्वे विश्वामित्राय मह्यं
+> सहस्रसावे । सहस्रं सूयतेऽत्रेति सहस्रसावोऽश्वमेधः । तस्मिन्नश्वमेधे मघानि
+> महनीयानि धनानि वदतः प्रयच्छंतः संत आयुर्जीवनमन्नं ना प्र तिरंते ।
+> प्रकर्षण वर्धयंति ॥ दिवस्पुत्रास इति संहितायां षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य सत्वं । दवतः । डुदाण् दान इत्यस्य शतरि रूपं । अभ्यस्तानामादिरित्याद्युदात्तत्वं । तिरंते । तरतेर्व्यत्ययेन शः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, these Bhojas who perform the sacrifice are Saudāsa kṣatriyas; their priests are the Aṅgirases of diverse forms, Medhātithi and others; and the sons (putrāsaḥ) of the asura Rudra, who is stronger even than the gods, are the heroic, mighty Maruts. All these, giving to me, Viśvāmitra, at the sahasrasāva (the Aśvamedha, in which a thousand are pressed), magnificent riches (maghāni), prolong life, that is, living and food, and make them increase." (The rest of the block is grammar: the visarjanīya of दिवस्पुत्रास (*divasputrāsa*) in the Saṃhitā, ददतः (*dadataḥ*), तिरंते (*tiraṃte*).)
+
+### Printed p. 186
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) इमे (*ime*)—the sacrificers who perform the sacrifice here
+- भोजाः (*bhojāḥ*)—sons of the kṣatriya named Sudāsa
+- विरूपाः (*virūpāḥ*)—of diverse forms, Medhātithi and others
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases (are the priests of these sacrificers)
+- दिवः (*divaḥ*)—than the gods
+- असुरस्य (*asurasya*)—of Rudra, who has greater strength
+- पुत्रासः (*putrāsaḥ*)—sons
+- वीराः (*vīrāḥ*)—the Maruts, endowed with strength
+- विश्वामित्राय (*viśvāmitrāya*)—to me, Viśvāmitra
+- सहस्रसावे (*sahasrasāve*)—in this Aśvamedha sacrifice
+- मघानि (*maghāni*)—riches
+- ददतः (*dadataḥ*)—giving
+- आयुः (*āyuḥ*)—life
+- प्रति तिरंते (*prati tiraṃte*)—they increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sacrificers who perform the sacrifice here are the sons of the kṣatriya named Sudāsa. The Aṅgirases of diverse forms, Medhātithi and others, are priests (ṛtvik) of this sacrificer. The Maruts, sons of Rudra, who has greater strength than the gods, and endowed with strength, giving wealth and riches to me, Viśvāmitra, in this Aśvamedha sacrifice, increase my life.**NOTE**
+
+##### English translation (H. H. Wilson)
+These (sacrificers) are the Bhojas, of whom the diversified Angirasas (are the priests) : and the heroic sons of the expeller (of the foes of the gods) from heaven, bestowing riches upon Vishwamitra at the sacrifice of a thousand (victims), prolong (his) life.
+
+##### विशेषविषयगळु (Special Topics)
+
+भोजाः (*bhojāḥ*)—सौदासः क्षत्रियाः (*saudāsaḥ kṣatriyāḥ*). Sāyaṇa explains this as "sons of the king named Sudāsa". Sudāsa is the son of a well-known king named Pijavana. In the Viṣṇu Purāṇa it is explained that there was a king named Sudāsa in the Solar dynasty, that another king of the same name was in the Lunar dynasty, and that another king of the same name was in the Lunar dynasty as son of the king Divodāsa.**NOTE**. The name of Divodāsa is mentioned in many places in the Ṛgveda.
+Concerning the king Sudāsa, the commentator, in explaining Ṛ. Saṃ. 1-112-9, has told an earlier story:
+अत्रापीतिहासमाचक्षते । सुदासनामा पैजवनो राजा यस्य विश्वामित्रः पुरोहितो बभूव । स यष्टु कामः सारवत्प्रभूतं धनमश्विन् ययाचे। तस्मै रथेनानीयाश्विस्सौ ददुतुरिति ॥ (*atrāpītihāsamācakṣate | sudāsanāmā paijavano rājā yasya viśvāmitraḥ purohito babhūva | sa yaṣṭu kāmaḥ sāravatprabhūtaṃ dhanamaśvin yayāce| tasmai rathenānīyāśvissau daduturiti ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 180. pp. 174-180 (batch API, retry 1)
+**Progress note:** Done through printed p. 186. pp. 181-186 (batch API, retry 1)
