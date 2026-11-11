@@ -3106,6 +3106,271 @@ As described in the Aitareya Brāhmaṇa, the word स्वराट् (*svar�
 
 स्मद्दिष्टिः (*smaddiṣṭiḥ*)—It was stated earlier that the word स्मत् (*smat*) has the meanings beautiful, auspicious, propitious. दिष्टि (*diṣṭi*) is explained here as speech. The meaning is: one with auspicious speech. In Ṛ. Saṃ. 6-3-69 **NOTE** and similar places it means "of pleasing sight".
 
+### Printed p. 82
+## Sūkta 46 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युध्मस्य त इति पंचर्चमष्टमं सूक्तं वैश्वामित्रमैंद्रं । युद्धस्येत्यनुक्रमणिका ॥ दशरात्रे चतुर्थेऽहनि निष्केवल्ये युध्मस्य त इति सूक्तं निविद्वानं ।
+> सूत्रितं च । कुह श्रुत इंद्रो युध्मस्य त इति निष्केवल्यं । आ. ७-११ । इति ॥ ऋषभनाम्मेकाहेऽपि निष्केवल्यइदं सूक्तं निविद्वानं । सूत्रितं च । युध्मस्य त इति
+> मध्यंदिनः । आ. ९-७ इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning युध्मस्य ते (*yudhmasya te*) is a group of five ṛks, the eighth hymn. It is by Viśvāmitra and addressed to Indra (the Anukramaṇikā: युद्धस्य (*yuddhasya*)). Use: on the fourth day of the Daśarātra, at the Niṣkevalya, the hymn युध्मस्य ते (*yudhmasya te*) serves as the nivid-hymn. The sūtra is: कुह श्रुत इंद्रो युध्मस्य त इति निष्केवल्यं (*kuha śruta iṃdro yudhmasya ta iti niṣkevalyaṃ*) (Ā. 7-11). In the one-day rite called Ṛṣabha as well, this hymn is the nivid-hymn at the Niṣkevalya. The sūtra is: युध्मस्य त इति मध्यंदिनः (*yudhmasya ta iti madhyaṃdinaḥ*) (Ā. 9-7).
+
+##### Anuvāda
+
+This hymn, "Yudhmasya te", is the eighth hymn in the fourth anuvāka. It has five ṛks. Its seer is Viśvāmitra, its deity Indra, its metre Triṣṭubh. The Anukramaṇikā begins with "Yudhmasya". When the Niṣkevalya śastra mantras are recited on the fourth day of the sacrifice called Daśarātra, the ṛks of this hymn are used for the nivid mantras; this is stated by the Āśvalāyana-śrautasūtra, in the sūtra "Kuha śruta Indro yudhmasya ta iti niṣkevalyam" (Ā. 7-11). It is likewise explained by the sūtra of the Āśvalāyana-śrautasūtra, "Yudhmasya ta iti madhyandinaḥ" (Ā. 9-7), that in the one-day sacrifice called Ṛṣabhanāman the ṛks of this hymn are used for the nivid mantras of the Niṣkevalya śastra.
+
+##### Particulars
+
+Hymn 46. Maṇḍala 3, Anuvāka 4, Sūkta 46. Aṣṭaka 3, Adhyāya 3, Varga 10. Number of the book (Ṛks) in the hymn: 5. Seer: Viśvāmitra. Deity: Indra. Metre: Triṣṭubh.
+
+### Printed p. 83
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ध्मस्य॑ ते वृष॒भस्य॑ स्व॒राज॑ उ॒ग्रस्य॒ यूनः॒ स्थवि॑रस्य॒ फृष्टेः॑ ।  
+> अजू॑र्यतो व॒ज्रिणो॑ वी॒र्या॒३॒॑णींद्र॑ श्रु॒तस्य॑ मह॒तो  ॒॑
+> महानि ॥ १ ॥
+
+> *yudhmasya te vṛṣabhasya svarāja ugrasya yūnaḥ sthavirasya phṛṣṭeḥ |*  
+> *ajūryato vajriṇo vīryāṇīṃdra śrutasya mahato*  
+> *mahāni ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युध्मस्य । ते । वृषभस्य । स्वराजः । उग्रस्य । यूनः । स्थविरस्य । फृष्टेः ।  
+> अजूर्यतः । वज्रिणः । वीर्याणि । इंद्र । श्रुतस्य । महतः । महानि ॥ १ ॥
+
+> *yudhmasya | te | vṛṣabhasya | svarājaḥ | ugrasya | yūnaḥ | sthavirasya | phṛṣṭeḥ |*  
+> *ajūryataḥ | vajriṇaḥ | vīryāṇi | iṃdra | śrutasya | mahataḥ | mahāni ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र युध्मस्य योधनशीलस्य वृषभस्याभिमतफलसेचकस्य स्वराजो धनाधिपतेरुग्रस्य समर्थस्य यूनो नित्यतरुणस्य स्थविरस्य चिरंतनस्य घृष्टेः शत्रूणां
+> संघर्षकस्याजूर्यतो जरारहितस्य वज्रिणः श्रुतस्य त्रिषु लोकेषु प्रसिद्धस्य अत
+> एव महतस्ते तव वीर्याणि महानि । महांति खलु ॥ युध्मस्य । युध संप्रहारे ।
+> इषियुधींधिदसीत्यादिना मक्प्रत्ययः । यूनः । यौतेः कनिन्युवृषीत्यादिना कनिन्।
+> श्वयुवमघोनामतद्धित इति संप्रसारणं । नित्स्वरः । स्थविरस्य । अजिरशिशिरशिथिलेत्यादिना किरन्प्रत्ययांतो । निपातितः । घृष्टेः । घृषु संघर्षे । कृविघृष्टिच्छवीत्यादिना
+> क्विन्प्रत्ययांतो निपात्यते । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your heroic deeds are great: you are युध्मस्य (*yudhmasya*), given to fighting; वृषभस्य (*vṛṣabhasya*), the sprinkler of the desired fruit; स्वराजः (*svarājaḥ*), lord of wealth; उग्रस्य (*ugrasya*), capable; यूनः (*yūnaḥ*), ever young; स्थविरस्य (*sthavirasya*), ancient; घृष्टेः (*ghṛṣṭeḥ*), the grinder-down of enemies; अजूर्यतः (*ajūryataḥ*), free of old age; वज्रिणः (*vajriṇaḥ*), bearer of the thunderbolt; श्रुतस्य (*śrutasya*), famed in the three worlds. Therefore, being great, your heroic deeds are great; for they are indeed mighty. The remainder of the block gives derivations and accent notes on yudhmasya, yūnaḥ, sthavirasya and ghṛṣṭeḥ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- युद्धस्य (*yuddhasya*)—of the excellent warrior
+- वृषभस्य (*vṛṣabhasya*)—of the showerer of desires
+- स्वराजः (*svarājaḥ*)—of the lord of all wealth
+- उग्रस्य (*ugrasya*)—of the fearsome
+- यूनः (*yūnaḥ*)—of the young
+- स्थविरस्य (*sthavirasya*)—(at the same time) of the aged (the ancient)
+- फृष्टैः (*phṛṣṭaiḥ*)—of him who crushes enemies
+- अजूरतः (*ajūrataḥ*)—of him free from old age (decrepitude)
+- वज्रिणः (*vajriṇaḥ*)—of the holder of the thunderbolt
+- श्रुतस्य (*śrutasya*)—of him famed in the three worlds
+- महतः (*mahataḥ*)—of him who is therefore endowed with greatness
+- ते (*te*)—your
+- वीर्याणि (*vīryāṇi*)—deeds of valour
+- महानि (*mahāni*)—are most wonderful
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, excellent warrior, showerer of desires, lord of all wealth, young and ancient, crusher of enemies, free from old age, holder of the thunderbolt: for that very reason you are endowed with greatness, and your deeds of valour are most wonderful.
+
+### Printed p. 84
+
+##### English translation (H. H. Wilson)
+Vast are the energies of you, Indra, the warrior, (the showerer of benefits), the lord of wealth, the fierce; you are (both) young and old; the overcomer of foes, the undecaying, the wielder of the thunderbolt; and you are mighty and renowned.
+
+##### विशेषविषयगळु (Special Topics)
+
+ते वीर्याणि महानि (*te vīryāṇi mahāni*)—In praising your heroic deeds as most wonderful, the verse also describes together with them the great qualities needed for such deeds. Earlier, "अहन्नहिमन्वपस्तर्द प्र वक्षणा अभिनत्पर्वतानां ; आत्सूरं जनयन्दामुषासं (*ahannahimanvapastarda pra vakṣaṇā abhinatparvatānāṃ ; ātsūraṃ janayandāmuṣāsaṃ*)" (Indra split the cloud, made a way for the streams flowing in the mountains, and created the sun, the dawn and the firmament for their light), and so on, describing Indra's valour, the glory of Indra was described with "इंद्रस्य नु वीर्याणि प्रवोचं (*iṃdrasya nu vīryāṇi pravocaṃ*)" (Ṛ. Saṃ. 1-32). The fighting capacity, fierceness and self-rule useful for such great deeds are described in the present ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हा अ॑सि महिष॒ वृष्ट्ये॑भिर्धन॒स्पृदु॑ग्र॒ सह॑मानो अ॒न्यान् ।  
+> एको॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॒ स यो॒धया॑ च क्ष॒यया॑ च॒  ॑
+> जनान् ॥ २ ॥
+
+> *mahā asi mahiṣa vṛṣṭyebhirdhanaspṛdugra sahamāno anyān |*  
+> *eko viśvasya bhuvanasya rājā sa yodhayā ca kṣayayā ca*  
+> *janān ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । असि । महिष । वृष्ण्येभिः । धनस्पृत् । उग्र । सहमानः । अन्यान् ।  
+> एकः । विश्वस्य । भुवनस्य । राजा । सः । योधय । च । क्षयय । च । जनान् ॥ २ ॥
+
+> *mahān | asi | mahiṣa | vṛṣṇyebhiḥ | dhanaspṛt | ugra | sahamānaḥ | anyān |*  
+> *ekaḥ | viśvasya | bhuvanasya | rājā | saḥ | yodhaya | ca | kṣayaya | ca | janān ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महिष महनीय उग्र इंद्र त्वं महानसि । धनस्पृत् धनानि दानभोगत्यागैः पारं नयंस्त्वं वृष्ट्येभिर्वीरैरन्यान् । शत्रून्सहमानोऽभिभवन्वर्तसे । तथा
+> विश्वस्य सर्वस्य भुवनस्यैकोऽसहायो राजा स त्वं योधय च । ससत्नान् प्रहर ।
+> जनान् क्षयय च । निवासय । बाधकान्हत्वा साधुजनान् स्वस्थाने स्थापयेत्यभिप्रायः ॥ महिष । मह पूजायां । अविमहोष्टिषच् । उ. १-४६ । इति टिषच्-
+
+##### Gist of the bhāṣya
+
+O Mahiṣa (worshipful), fierce Indra, you are great. As धनस्पृत् (*dhanaspṛt*) you carry riches across (to the far shore) by giving, enjoying and relinquishing them. With वृष्ट्येभिः (*vṛṣṭyebhiḥ*), with heroes, you overpower other enemies. You are the sole, unaided king of the whole world. Such as you, fight, and make the people dwell: slay the obstructors and settle good people in their own place, is the intention. The derivation of महिष (*mahiṣa*) is from mah, "to worship", with the suffix ṭiṣac (Uṇ. Sū. 1-46).
+
+### Printed p. 85
+
+> प्रत्ययः । आमंत्रितत्वान्निघातः । वृष्ट्येभिः । वृष्टि भवानि भवे छंदसीति यत् ।
+> यतोऽनाव इत्याद्युदात्तः । योधय । युध संप्रहार इत्यस्य ण्यंतस्य लोटि
+> रूपं । चादिषु चेति न निघातः । णित्स्वरः । क्षयय । क्षिनिवासगत्योरित्यस्य ण्यंतस्य
+> लोटि रूपं । अत्रापि पूर्ववदनिघातः ॥
+
+##### Gist of the bhāṣya
+
+This block continues with grammatical remarks (suffix, accent) on mahiṣa, vṛṣṭyebhiḥ, yodhaya and kṣayaya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिष (*mahiṣa*)—venerable one
+- उग्र (*ugra*)—fierce Indra
+- त्वं (*tvaṃ*)—you
+- महान् असि (*mahān asi*)—you are of great form
+- धनस्पृत् (*dhanaspṛt*)—you show wealth its uses such as giving
+- वृष्ट्येभिः (*vṛṣṭyebhiḥ*)—by your valorous powers
+- अन्यान् (*anyān*)—enemies
+- सहमानः (*sahamānaḥ*)—you are the defeater
+- विश्वस्य (*viśvasya*)—of all
+- भुवनस्य (*bhuvanasya*)—the world
+- एकः (*ekaḥ*)—alone
+- राजा (*rājā*)—you are lord
+- सः (*saḥ*)—such as you
+- योधय च (*yodhaya ca*)—fight (our enemies and defeat them)
+- जनान् (*janān*)—the people who perform sacrifice
+- क्षयय चॆ (*kṣayaya cè*)—make them possessors of dwellings
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful and fearsome Indra, you are of great form. You show wealth its uses such as giving, and you defeat enemies by your valorous powers. You alone are lord of the whole world. Such as you, fight our enemies and defeat them, and give houses and other dwellings to the human sacrificers and protect them.
+
+##### English translation (H. H. Wilson)
+Adorable and powerful Indra, you are great and magnificent, over-coming adversaries by your prowess ; you alone are lord of all the world ; war (upon our enemies), and give safe dwellings to men.
+
+##### विशेषविषयगळु (Special Topics)
+
+महिष (*mahiṣa*)—The word mahiṣa is read among the names for "great" in the Nirukta (Ni. 3-3). It means venerable, or else the accomplisher of great deeds. The Nirukta-author quotes the ṛk "अपामुपस्थे महिषा... (*apāmupasthe mahiṣā...*)" (Ṛ. Saṃ. 6-8-4) and there explains this word as "deep". The intention here is that Indra's personal power is deep. In this power there is a blending of both beauty and terror(?). **NOTE**For that reason the epithet उग्र (*ugra*) is fitting. Hence, without giving here the meaning "sprinkler" for the word वृष्णेभिः (*vṛṣṇebhiḥ*), it is shown that it is used in the sense of "power": वृष्णेभिः (*vṛṣṇebhiḥ*) means "by powers that accomplish great deeds".
+
+### Printed p. 86
+As described in the Aitareya-brāhmaṇa, Indra, once consecrated, obtained the rank of self-rule. The description "भुवनस्य एकः राजाः (*bhuvanasya ekaḥ rājāḥ*)" shows the point that there is no other lord of the world than him. Or else this description also shows that there is no other illuminator of the world than Indra, who is of the nature of the sun.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मात्रा॑भी रिरिचे॒ रोच॑मानः॒ प्र दे॒वेभि॑र्वि॒श्वतो॒  ॑
+> अप्र॑तीतः ।  
+> प्र म॒ज्मना॑ दि॒व इंद्रः॑ पृथि॒व्याः प्रोरोर्म॒हो अं॒तरि॑क्षादृजी॒षी ॥ ३ ॥
+
+> *pra mātrābhī ririce rocamānaḥ pra devebhirviśvato*  
+> *apratītaḥ |*  
+> *pra majmanā diva iṃdraḥ pṛthivyāḥ prorormaho aṃtarikṣādṛjīṣī ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मात्राभिः । रिरिचे । रोचमानः । प्र । देवेभिः । विश्वतः । अप्रतिइत ।  
+> प्र । मज्मना । दिवः । इंद्रः । पृथिव्याः । प्र । उरोः । महः । अंतरिक्षात् । ऋजीषी॥
+
+> *pra | mātrābhiḥ | ririce | rocamānaḥ | pra | devebhiḥ | viśvataḥ | apratiita |*  
+> *pra | majmanā | divaḥ | iṃdraḥ | pṛthivyāḥ | pra | uroḥ | mahaḥ | aṃtarikṣāt | ṛjīṣī‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोचमानो दीप्यमानो विश्वतः सर्वैरप्रतीत एतावदस्य सामर्थ्यमित्यपरिच्छिद्यमान यजीषी सोमवानिंद्रो मात्राभिः । मीयंते परिच्चिद्यंत इति मात्राः
+> शिलोच्चयाः । तेभ्योऽपि प्र रिरिचे । प्रकर्षण महत्तयातिरिक्कोऽभूत् । तथा
+> देवेभिर्देवेभ्योऽपि मज्जना । मज्जयति शत्रोन्मुखसागर इति मज्ज बलं । तेन
+> बलेन प्ररिरिचे । तथा दिवः पृथिव्या द्यावापृथिवीभ्यां च प्ररिरिचे । तथोरोर्विस्तीर्णान्महो महतोंतरिक्षादपि प्ररिरिचे॥ मात्राभिः माज् माने शब्द चेत्यस्मात्
+> हुयामाश्रुभसिभ्यस्त्रन्निति त्रन्प्रत्ययः । नित्वादाद्युदात्तः । ढ्रलोपे पूर्वस्य
+> दीर्घोऽण इति संहितायां दीर्घः । रोचमानः । रुच दीप्तावित्यस्मात् शानचि
+> रूपं । तस्य लसार्वधातुकस्वरे धातुस्वरः । अप्रतीतः। इण् गतौ । कर्मणि क्तः। प्रादिसमासः । नञा समासे तस्य स्वरः । मज्जना । टुमस्टो शुद्धौ । औणादिको मनिच्प्रत्ययः । झलां झश् झशीति जत्त्वं । चित्वादंतोदात्तः । पृथिव्याः । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Indra, shining, not fully known by all ("this much is his power"), the Soma-possessor, has surpassed the मात्राः (*mātrāḥ*). These are things that are measured and bounded, namely rock-heaps (शिलोच्चयाः (*śiloccayāḥ*)); he has exceeded even these, becoming greatly excessive. Likewise he has surpassed even the gods by मज्जना (*majjanā*), that is by strength: majja is strength, because it plunges (मज्जयति (*majjayati*)) into the face of the sea of enemies. By that strength he has surpassed; so too heaven and earth, and the vast, great firmament. The rest of the block gives derivations and accent notes (mātrābhiḥ, rocamānaḥ, apratītaḥ, majjanā, pṛthivyāḥ). **NOTE**
+
+### Printed p. 87
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोचमानः (*rocamānaḥ*)—shining
+- विश्वतः (*viśvataḥ*)—by all people (by anyone)
+- अप्रतीतः (*apratītaḥ*)—one who cannot be measured
+- ऋजीषीः (*ṛjīṣīḥ*)—Soma-possessing
+- इंद्रः (*iṃdraḥ*)—Indra
+- मात्राभिः (*mātrābhiḥ*)—than all beings
+- प्र रिरिचे (*pra ririce*)—has grown with greater measure
+- मज्मना (*majmanā*)—by power
+- देवेभिः (*devebhiḥ*)—than the gods
+- प्र (*pra*)—he is greater
+- दिवः (*divaḥ*)—than the heavenly world
+- पृथिव्याः (*pṛthivyāḥ*)—than the earth
+- प्र रिरिचे (*pra ririce*)—he is greater
+- उरोः (*uroḥ*)—than the wide
+- महः (*mahaḥ*)—and great
+- अंतरिक्षात् (*aṃtarikṣāt*)—than the firmament
+- प्र (रिरिचे) (*pra (ririce)*)—he is exceedingly greater
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, shining, immeasurable by anyone, and Soma-possessing, has grown with greater measure than all beings. In power he is greater than the gods. He is exceedingly greater than the firmament, which is wider and greater than the earth.
+
+##### English translation (H. H. Wilson)
+The resplendent and every way unlimited Indra, drinking the spiritless Soma juice, far surpasses the elements, (far exceeds) the gods in power; he is more vast than heaven and earth, or the widespread spacious firmament.
+
+##### विशेषविषयगळु (Special Topics)
+
+Indra's immeasurable nature is described here. The meaning is that he is greater than all things that are bounded, that is, that come within man's measure; in other words he is not an object that comes within man's measure.
+मात्राभिः (*mātrābhiḥ*)—As explained earlier in Ṛ. Saṃ. 3-38-3, here too it is explained: "मीयंते मांतीति वा मात्रा: शिलोच्चयाः (*mīyaṃte māṃtīti vā mātrā: śiloccayāḥ*)". It is formed from the root mā, meaning "to measure". Although it applies to all things possessing limit, here it is explained as lofty rock-heaps. When describing the nature of all the elements such as earth, the Upaniṣads use this word thus: "पृथिवी च पृथिवीमात्रा चापश्चापोमात्राच तेजश्चतेजोमात्रा च वायुश्च नायुमात्रा च आकाशश्चाकाशमात्रा ॥ (*pṛthivī ca pṛthivīmātrā cāpaścāpomātrāca tejaścatejomātrā ca vāyuśca nāyumātrā ca ākāśaścākāśamātrā ‖*)" (Praśne. 4-8). **NOTE** In the quoted sentence the word mātrā has the technical meaning tanmātra ("subtle element"). Here there is no room for a philosophical discussion; in sum, they may be called things confined to the limits of man. The intention is that Indra has grown beyond all these.
+
+### Printed p. 88
+ऋजीषी (*ṛjīṣī*)—This epithet is because he is accompanied by Soma. It is used chiefly in describing the nature of Indra and the Maruts. In such contexts as "अमत्रेभिर्यजीषिणिमिंद्रं (*amatrebhiryajīṣiṇimiṃdraṃ*)" (Ṛ. Saṃ. 6-42-2) **NOTE** the word ṛjīṣa is explained as power; it is explained as "of Indra, who has obtained power that obstructs enemies". But in many contexts this epithet is well known precisely because he is accompanied by Soma.
+As in "अणोरणीयान् महतो महीयान् (*aṇoraṇīyān mahato mahīyān*)", here too Indra's greatness is described by "उरोः महः अंतरिक्षात् प्र रिरिचे (*uroḥ mahaḥ aṃtarikṣāt pra ririce*)". Since Indra reflects all principles such as Vāyu and Āditya, it may be said that the supreme principle described in the Upaniṣads is at times regarded in the Saṃhitā in the form of Indra. This point will be explained later in the description of the spiritual nature of Indra and the other deities.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रुं ग॑भी॒रं ज॒नुषा॒भ्यु१॒ं॑ग्रं वि॒श्वव्य॑चसमव॒तं म॑ती॒नां ।  
+> इंद्रं॒ सोमा॑सः प्र॒दिवि॑ सु॒तासः॑ समु॒द्रं न स्र॒वत॒ आ वि॑शंति ॥
+
+> *uruṃ gabhīraṃ januṣābhyuṃgraṃ viśvavyacasamavataṃ matīnāṃ |*  
+> *iṃdraṃ somāsaḥ pradivi sutāsaḥ samudraṃ na sravata ā viśaṃti ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुं । गभीरं । जनुषा । अभि । उग्रं । विश्वव्यचसं । अवतं । मतीनां ।  
+> इंद्रं । सोमासः । प्रदिवि । सुतासः । समुद्रं । न । स्रवतः । आ । विशंति ॥ ४ ॥
+
+> *uruṃ | gabhīraṃ | januṣā | abhi | ugraṃ | viśvavyacasaṃ | avataṃ | matīnāṃ |*  
+> *iṃdraṃ | somāsaḥ | pradivi | sutāsaḥ | samudraṃ | na | sravataḥ | ā | viśaṃti ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुं महांतं आत एव गभीरं महावकाशं जनुषा जन्मना स्वभावत एवोग्रं
+> शत्रूणां भयंकरं । गभीरत्वमेवोच्यते । विश्वव्यचसं विश्वव्याप्तं मतीनां
+> स्तुतीनां स्तोत्कणां वावतं रक्षकं तादृशनिंद्रं प्रदिवि पूर्वष्टहःसु सुतासो
+> ग्रावभिरभिषुताः सोमासः सोमा अभि आभिमुख्येना विशंति । तत्र दृष्टांतः ।
+> समुद्रं न । यथा स्रवतः स्रवंत्यो नद्यः समुद्रमाविशंति तद्वत् ॥ जनुषा । जनी
+> प्रादुर्भाव इत्यस्माज्जनेरुसिरित्युसिप्रत्ययः । विश्वव्यचसं ! व्यच वाजीकरण इत्यस्मादसुन् । व्यचेः कुटादित्वमनसीति वक्तव्यमिश्यत्रानसीति पर्युदासात् जित्वाभावः ।
+> बहुन्रीहौ विश्वं संज्ञायामिति पूर्वपदस्यांतोदात्तत्वं । अवतु । अव
+> रक्षणादिषु । औणादिकोऽतच् प्रत्ययः । चित्वादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+Indra is उरुं (*uruṃ*), great, and therefore गभीरं (*gabhīraṃ*), of great expanse; जनुषा (*januṣā*), by birth, by nature, fierce, terrifying to enemies. (Only depth is meant.) He is विश्वव्यचसं (*viśvavyacasaṃ*), all-pervading, and the protector (अवतं (*avataṃ*)) of the praises, or of the praisers. To such an Indra the Somas, pressed with the stones in प्रदिवि (*pradivi*), the earlier days, enter from the front. The illustration: समुद्रं न (*samudraṃ na*), as flowing rivers enter the ocean, so they. The rest of the block gives derivations and accent notes (januṣā, viśvavyacasam, avatam).
+
 ---
 
-**Progress note:** Done through printed p. 81. pp. 76-81 (batch API, retry 1)
+**Progress note:** Done through printed p. 88. pp. 82-88 (batch API, retry 2)

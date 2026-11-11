@@ -51,3 +51,5 @@
 | w0064 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 23382, out 5060 | $0.098 |
 | w0070 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 22448, out 5022 | $0.096 |
 | w0076 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 25811, out 6398 | $0.117 |
+| w0082 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 30000, out 8591 | $0.147 |
+| w0082 retry 2 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 30078, out 8364 | $0.145 |
