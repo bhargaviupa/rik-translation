@@ -12028,6 +12028,141 @@ The cosmic order can be broken by two kinds of power. It may be attempted by dem
 
 Broadly it can be said that this word is used in four main senses: as divine creative power, as merely physical power, as stratagem, or as the art of magic (indrajāla). It can be said to be derived from the root माज् माने (*māj māne*) **NOTE**, which has the sense of creation.
 
+### Printed p. 325
+"Māyā means prajñā (intelligence)": मायेति प्रज्ञानाम । माया, वयुनं इति तन्नामसु पाठात् । (नि. ३-१३) (*māyeti prajñānāma | māyā, vayunaṃ iti tannāmasu pāṭhāt | (ni. 3-13)*) Thus the Nirukta-writers have explained this word as prajñā. Citing the Ṛks मायामू तु यज्ञियानां (*māyāmū tu yajñiyānāṃ*) (10-88-6) and शुक्रं ते अन्यद्यजतं ते (*śukraṃ te anyadyajataṃ te*) (6-58-1), the appropriateness of taking the word as prajñā there was explained earlier (Ṛgveda Saṃhitā, Part 11, p. 514).
+
+रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*) (Ṛ. Saṃ. 6-47-18)
+
+This well-known mantra describes Indra's power of māyā. It is also recited in the Bṛhadāraṇyaka. Sāyaṇa explains this mantra in the Ṛk-Saṃhitā in two ways. First: मायाभिः—ज्ञानमेतत् । ज्ञानैः । आत्मीयैः संकल्पैः (*māyābhiḥ—jñānametat | jñānaiḥ | ātmīyaiḥ saṃkalpaiḥ*)—by cognitions that are of the nature of his own resolves Indra took on manifold forms. Second: इदि परमैश्वरै इत्यस्य धातोरर्थानुगमात् इंद्रः परमात्मा । स चाकाशवत् सर्वगतः सदानंदरूपः (*idi paramaiśvarai ityasya dhātorarthānugamāt iṃdraḥ paramātmā | sa cākāśavat sarvagataḥ sadānaṃdarūpaḥ*)—the word Indra is formed from the root id, which gives the sense "lord of the whole universe"; therefore Indra here means the Supreme Self. He explains that the all-pervading Supreme Person is transformed, by his powers of māyā, into the form of the world beginning with ether. In both constructions the word māyā is taken as creative power. Moreover, Śaṅkarācārya too explains this mantra in the Bṛhadāraṇyaka in two ways: first प्रज्ञाभिः (*prajñābhiḥ*), by intelligences that effect creation; second नामरूपभूतकृतमिथ्याभिमानैर्वा (*nāmarūpabhūtakṛtamithyābhimānairvā*), that is, by powers of imagining such as "I" and "form". Here too the purport of the word is creative power. Power of imagination means mental creation. Mental creation may lack physical reality, but creative power must be present. For both kinds of power the synonym māyā is used in many places. Likewise:
+
+माया वां मित्रावरुणा दिवि श्रिता सूरो ज्योतिश्चरति चित्रमायुधं । तमभ्रेण वृष्ट्या गूहथो दिवि पर्जन्य द्रप्सा मधुमंत ईरते ॥ (*māyā vāṃ mitrāvaruṇā divi śritā sūro jyotiścarati citramāyudhaṃ | tamabhreṇa vṛṣṭyā gūhatho divi parjanya drapsā madhumaṃta īrate ‖*) (Ṛ. Saṃ. 5-63-4)
+
+In all such places the extraordinary intelligence and creative power of Mitra and Varuṇa are described. Likewise, in the previously cited mantras such as मही मित्रस्य वरुण्य माया (*mahī mitrasya varuṇya māyā*) there is no room for the sense "ignorance" for māyā. In पूर्वापरं चरतो माययौता (*pūrvāparaṃ carato māyayautā*) (10-85-18) it is said that the Sun and Moon travel in the atmosphere by their special power of intelligence; there is no imagination in this, it is physical truth. Therefore, as stated in the Sūtra-bhāṣya and the like,
+
+### Printed p. 326
+there is no room for the sense of ignorance or imagination. This meaning becomes clear if one examines the mantra cited in the Aitareya Brāhmaṇa in the Pravargya section:
+
+पतंगमक्तमसुरस्य मायया हृदा पश्यंति मनसा विपश्चितः । समुद्रे अंतः कवयो वि चक्षते मॆरीचीनां पदमिच्छंति वेधसः (*pataṃgamaktamasurasya māyayā hṛdā paśyaṃti manasā vipaścitaḥ | samudre aṃtaḥ kavayo vi cakṣate mèrīcīnāṃ padamicchaṃti vedhasaḥ*) (Ṛ. Saṃ. 10-177-1)
+
+There Sāyaṇa explains the word asura as the Supreme Brahman and māyā as the intelligence belonging to the Supreme Brahman. Pataṅga means the Sun. The wise realise, with the heart and a restrained mind, that is, in meditation, the Sun pervaded (aktaḥ) by the intelligence of the Supreme Brahman. Hence here too there is no room for "ignorance". Just as in the Ṛk-Saṃhitā the resolve of Indra and others is designated by the synonym māyā, so the Gītā too follows it; to show this, in the Śrī-bhāṣya, in the Antaradhikaraṇa, the Gītā sentence प्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया (*prakṛtiṃ svāmadhiṣṭhāya saṃbhavāmyātmamāyayā*) (Bha. Gī. 4-6) is cited and the word māyā there is explained as intelligence in the form of the Lord's resolve. The Nirukta sentence माया वयुनं, ज्ञानं (*māyā vayunaṃ, jñānaṃ*) is recited there as authority. There is no need to explain here what the exact purport is of the word māyā in the Brahma-sūtra passage माया मात्रं.... (*māyā mātraṃ....*) and the like, nor what the source of the māyā-doctrine is in philosophical procedure, its essential meaning, how this idea grew, or the purport of the contradictory statements.
+
+Besides creative resolve or power, the word is also used in the senses of deceit, fraud, trickery:
+
+त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः । त्वामिन्नरो वृणते गविष्टषु त्वां विश्वासु हव्यास्विष्टिषु ॥ (*tvaṃ māyābhiranavadya māyinaṃ śravasyatā manasā vṛtramardayaḥ | tvāminnaro vṛṇate gaviṣṭaṣu tvāṃ viśvāsu havyāsviṣṭiṣu ‖*) (Ṛ. Saṃ. 10-147-2)
+
+Here both meanings of the word māyā are shown: the intelligent Indra destroyed the deceitful enemy. Therefore, when used of Indra and the other deities, the word means creative resolve or powerful intelligence; when used of the asuras, it means deceit or fraud. In the present Ṛk too the word is used in the sense of power. Deceitful asuras need extraordinary power to obstruct the guardian and other works of the gods. But the vrata of the gods, protectors of ṛta, is not to be broken by anyone.
+
+Vratā: the word vrata is explained as works such as protecting the world. The meaning of the word is an act performed under a fixed rule. From this point of view, in general the word vrata
+
+### Printed p. 327
+is well known as the name for sacrifices and other rites that humans perform for the gods, to please them. Here, however, the word vrata is used for the works of Indra and others; in the present Ṛk the works of the gods are also called vrata. That is, such usages show that, as the performance of sacrifice is necessary for a human from the Vedic point of view, so works such as protecting the world are equally necessary for the gods.
+
+In sentences such as अग्ने व्रतपते व्रतं चरिष्यामि (*agne vratapate vrataṃ cariṣyāmi*) (Śa. Brā. 1-1-1-2) the common relation of gods and humans to vrata is indicated. Vrata can be taken to mean yajña. But if one asks how to say which of the works a human does is yajña and which is not, one must examine a mantra in the Ṛk-Saṃhitā as the answer:
+
+नानानं वा उ नो धियो वि व्रतानि जनानां । तक्षा रिष्टं रुतं भिषग्ब्रह्मा सुन्वंतमिच्छतींद्रायेंदो परि स्रव ॥ (*nānānaṃ vā u no dhiyo vi vratāni janānāṃ | takṣā riṣṭaṃ rutaṃ bhiṣagbrahmā sunvaṃtamicchatīṃdrāyeṃdo pari srava ‖*) (Ṛ. Saṃ. 9-112-1)
+
+In this mantra the many-sided works of humans are described. The vratas of people are many. Among them, the carpenter wishes to do carpentry, the physician to treat disease, the sacrificer to press soma and perform the sacrifice. That is, if each person does the occupation suited to his capacity and nature, with faith and from a sense of duty, then all the works of a human are in the form of vrata; the very life of a human is in the form of vrata. In the same way all the works that the gods do for the maintenance of the world are vrata. As a human performs sacrifices and the like for the gods' satisfaction, the gods too must supply the wealth of help suited to the human's existence and nourishment. This discharge of duty is described here as vrata. As firm as all the vratas observed according to the law of the seasons are the vratas of the gods.
+
+Two explanations of the word vrata are given in the Nirukta: निवृत्तिकर्म वारयतीति सतः (*nivṛttikarma vārayatīti sataḥ*)—since it forbids improper actions, it is called vrata; or since it chooses the duty to be done, it is called vrata (वृणोतीति सतः (*vṛṇotīti sataḥ*) Ni. 2-12). In the explanation वृणोतीति व्रतं (*vṛṇotīti vrataṃ*) the duty that every individual, human or god, must observe regularly is indicated. Third: यदावृणोति शरीरं । तस्मादन्नमपि व्रतमुच्यते (*yadāvṛṇoti śarīraṃ | tasmādannamapi vratamucyate*) (Ni. 2-12). Because it pervades the whole body and gives it strength, food too is called vrata. The word vrata in the present Ṛk can be taken to mean food. The purport is that since the wealth of food supplied by the gods is firm, no one can harm it.
+
+### Printed p. 328
+Dhīrāḥ: धीरो धीमान् (*dhīro dhīmān*)—this word is read among the names of the intelligent (Ni. 3-9). In the Vedas and Upaniṣads the word is used in the sense of wise, discriminating. Since the dhīra is wise, and has qualities such as conquering fear and being fearless, remaining calm of mind even in calamity, the purport is "courageous". Citing sentences such as महांतं विभुमात्मानं मत्वा धीरो न शोचति (*mahāṃtaṃ vibhumātmānaṃ matvā dhīro na śocati*) (Kaṭha 5-4)**NOTE**, the distinctive character of this word was explained earlier. Since the wise, discerning person follows the vrata of the gods, there is no violation of this cosmic order. For deceitful asuras it is not possible. Therefore the vratas of the gods are unshakable and eternal. The vrata of Varuṇa, described in the Ṛk-Saṃhitā as dhṛtavrata, is likewise described elsewhere. The nature of these vratas, which cause the world's stability and protection, is this:
+
+अमी य ऋक्षा निहितास उच्चा नक्तं ददृश्रे कुह चिद्दिवेयुः । अदब्धानि वरुणस्य व्रतानि विचाकशच्चंद्रमा नक्तमेति ॥ (*amī ya ṛkṣā nihitāsa uccā naktaṃ dadṛśre kuha ciddiveyuḥ | adabdhāni varuṇasya vratāni vicākaśaccaṃdramā naktameti ‖*) (Ṛ. Saṃ. 1-24-10)
+
+The light of the stars at night and the light of the sun by day are Varuṇa's vratas. The rule of this vrata is unobstructed. Varuṇa's command is the command of the universe; no one can transgress it. Because of this inviolability Mitra and Varuṇa are described as dhṛtavrata (Ni. 8-25-2)**NOTE**. Likewise:
+
+नहि त्वा शूर देवा न मर्तासो दित्संतं । भीमं न गां वारयंते ॥ (*nahi tvā śūra devā na martāso ditsaṃtaṃ | bhīmaṃ na gāṃ vārayaṃte ‖*) (Ṛ. Saṃ. 8-8-3)
+
+Neither gods nor humans can hinder the great, generous works of Indra. All Indra's works are in the form of vrata; therefore the purport is that they are firm and protect the world.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> षड्भा॒रां एको॒ अच॑रन्बिभर्तृ॒तं वर्षि॑ष्ठ॒मुप॒ गाव॒ आगुः॑ ।  
+> ति॒स्रो म॒हीरुप॑रास्तस्थु॒रत्या॒ गुहा॒ द्वे निहि॑ते॒ दर्श्येका॑ ॥२॥
+
+> *ṣaḍbhārāṃ eko acaranbibhartṛtaṃ varṣiṣṭhamupa gāva āguḥ |*  
+> *tisro mahīruparāstasthuratyā guhā dve nihite darśyekā ‖2‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> षट् । भारान् । एकः । आचरन् । बिभर्ति । यतम् । वर्षिष्ठं । उप । गावः । आ  
+> अगुः ।
+
+> *ṣaṭ | bhārān | ekaḥ | ācaran | bibharti | yatam | varṣiṣṭhaṃ | upa | gāvaḥ | ā*  
+> *aguḥ |*
+
+### Printed p. 329
+
+> तिस्रः । महीः । उपराः । तस्थुः । अत्याः। गुहा । द्वे इति । निहिते इति निहिते । दर्शि ।  
+> एका ॥ २ ॥
+
+> *tisraḥ | mahīḥ | uparāḥ | tasthuḥ | atyāḥ| guhā | dve iti | nihite iti nihite | darśi |*  
+> *ekā ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अचरन् स्थायी एकः संवत्सरः षट् षट् संख्याकान् भारान् । भ्रियते पुष्पनिकासादि येष्टिति भारा ऋतवः । तान्यसंतादीन् बिभर्ति । अवयवत्वेन धारयति ।
+> तथा ऋतं सत्यभूतं वर्षिष्टं वृद्धतरमादित्यात्मकं तमेव संवत्सरं गावो रश्मय
+> उपागुः ! प्राप्रुवंति । किंच तस्मिन्नेव संवत्सरेऽत्या आतनशीला आगमापायिधर्मोपेतास्तिस्रो महीस्त्रयो लोका उपरा उपर्युपरि वर्तमानास्तस्थुः । तिष्ठंति ।
+> लोकत्रयमेव दर्शयति । गुहा गुहायां स्वात्मनि द्वे द्यौश्चांतरिक्षं चेत्येते
+> निहिते । न दृश्येते । एका भूमिदर्शि । सर्वभूताधारतया दृश्यते ॥ भारान् ।
+> डुभृञ् धारणपोषणयोरित्यसा दधिकरणे घञ् । कर्षात्वतो घञ् इत्यंतोदात्तत्वं । निहिते । दधातेः कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । दर्शि ।
+> दृशिर् प्रेक्षणे । कर्मणि लुङ् चिणि चिणो लुगिति प्रत्ययस्य लुक् । वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Acaran, the one stationary year, bears six burdens (bhārāḥ); the seasons are called bhāras because from them flowers, shoots and the like are borne. It holds spring and the others as its parts. Likewise the rays (gāvaḥ) reach that same year, which is ṛta, true, the most extensive, of the nature of the Sun. Further, in that same year the three great worlds (mahīḥ), moving, subject to coming and going, stand one above another. He shows the three worlds: of these, two, heaven and atmosphere, are hidden in a cave, in the year's own self, not seen; one, the earth, is seen, since it is seen as the support of all beings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अचरन् (*acaran*)—remaining stationary, without movement
+- एकः (*ekaḥ*)—the one principle in the form of the year
+- षट् भारान् (*ṣaṭ bhārān*)—the six burdens in the form of seasons
+- बिभर्ति (*bibharti*)—bears
+- ऋतं (*ṛtaṃ*)—that which is of the nature of truth
+- वर्षिष्ठं (*varṣiṣṭhaṃ*)—the Āditya-principle, eldest of all
+- गावः (*gāvaḥ*)—rays
+- उप आगुः (*upa āguḥ*)—attach themselves
+- अत्याः (*atyāḥ*)—moving
+- तिस्रो महीः (*tisro mahīḥ*)—the three worlds also
+- उपराः (*uparāḥ*)—one above another
+- तस्थुः (*tasthuḥ*)—are established
+- द्वे (*dve*)—(of them) both heaven and atmosphere
+- गुहा (*guhā*)—in a hidden, imperceptible region
+- निहिते (*nihite*)—are placed
+- एका (*ekā*)—the other, the earth
+- दर्शि (*darśi*)—is visible (to all)
+
+##### भावार्थ (Bhāvārtha)
+
+The principle in the form of the year, remaining stationary without movement, bears the six burdens in the form of the seasons. The rays join the Āditya, who is of the nature of truth and the best of all. The three moving worlds are established one above another. Of them, heaven and atmosphere are placed in a hidden, imperceptible region. The other, the earth, is visible to all.
+
+### Printed p. 330
+
+##### English translation (H. H. Wilson)
+One stationary (year) sustains six burthens (in the seasons); the (solar) rays spread through that true and extensive (term); three revolving spheres are severally above, two of which are placed in secret, and one is visible.
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra describes the nature of the Āditya-principle, itself unmoving and the basis of all movements of the universe. By showing the identity of the year and Āditya, it also indicates the common nature of the seasons, parts of the year, and the rays, parts of Āditya. Or, since it says षट् भारान् बिभर्ति (*ṣaṭ bhārān bibharti*), "bears six burdens in the form of seasons", the seasons are said to be parts of Āditya; that is, one may say that it shows non-difference between Āditya and the year. Showing their non-difference, both teach the Prajāpati-principle. One may also say that the nature of Āditya is the nature of the year, and the nature of the year is the nature of Prajāpati. There are many authorities for this.
+
+त्रीणि च वै शतानि षष्टिश्च संवत्सरस्याहानि तावान्तंवत्सरः संवत्सरः प्रजापतिः .... .... .... .... यं प्रजायमानं विश्वं रूपमिदमनुप्रजायते ॥ (*trīṇi ca vai śatāni ṣaṣṭiśca saṃvatsarasyāhāni tāvāntaṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ .... .... .... .... yaṃ prajāyamānaṃ viśvaṃ rūpamidamanuprajāyate ‖*) (Ai. Brā. 2-17)
+
+The Aitareya Brāhmaṇa says that the year, with three hundred and sixty days, twelve months and six seasons, is Prajāpati.
+
+कालात्स्रवंति भूतानि कालाद्वृद्धिं प्रयांति च । काले चास्तं नियच्छंति कालो मूर्तिरमूर्तिमान् ॥ (*kālātsravaṃti bhūtāni kālādvṛddhiṃ prayāṃti ca | kāle cāstaṃ niyacchaṃti kālo mūrtiramūrtimān ‖*) (Mai. U. 6-14)
+
+Brahman, in the form of Āditya, has two forms: the first is time, the second is non-time. The root-reality of the Āditya-principle is timeless and without kalā. The whole universe produced from Āditya is kalā-natured. From this arises the birth of creatures. Therefore the year, which is of the nature of time and of kalā, is Prajāpati; such is the explanation of the Maitrī Upaniṣad. This very idea is in the present Ṛk, अचरन् एकः षड्भारान् बिभर्ति (*acaran ekaḥ ṣaḍbhārān bibharti*): the root-reality itself not moving, makes the whole universe produced from it move, and itself holds that whole moving universe.
+
+चतुर्भिः साकं नवतिं च नामभिश्चक्रं न वृत्तं व्यतीरवीविपत् । (*caturbhiḥ sākaṃ navatiṃ ca nāmabhiścakraṃ na vṛttaṃ vyatīravīvipat |*) (Ṛ. Saṃ. 1-155-6)
+
+##### Grammar
+
+- भारान् — डुभृञ् धारणपोषणयोः इत्यस्मादधिकरणे घञ् । कर्षात्वतो घञ् इत्यंतोदात्तत्वम् ।
+- निहिते — दधातेः कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वम् ।
+- दर्शि — दृशिर् प्रेक्षणे । कर्मणि लुङ् । चिण् । चिणो लुगिति प्रत्ययस्य लुक् । वाक्यभेदादनिघातः ।
+
 ---
 
-**Progress note:** Done through printed p. 324. pp. 318-324 (batch API)
+**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
