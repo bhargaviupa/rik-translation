@@ -17674,6 +17674,334 @@ Ashwins, grandsons of heaven, divinities, you enjoy that glory by your actions, 
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
+### Printed p. 451
+#### Ṛk 3 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । नां । आद्य । करते । रातहव्यः । ऊतये । वा । सुतपेयाय । वा । अर्कैः।  
+> ऋतस्य । वा । वनुषे । पूर्व्याय । नमः । येमानः । अश्विना । आ । ववर्तत् ॥ ३ ॥
+
+> *kaḥ | nāṃ | ādya | karate | rātahavyaḥ | ūtaye | vā | sutapeyāya | vā | arkaiḥ|*  
+> *ṛtasya | vā | vanuṣe | pūrvyāya | namaḥ | yemānaḥ | aśvinā | ā | vavartat ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> को यजमानोऽद्य वां युवयोः करते । कुर्यात् स्तुतिं ।
+> अर्कैर्मंत्रै रातहव्यो दत्तसोम ऊतये वा रक्षणाय ।वा सुतपेयाय
+> सोमपानाय वा । ऋतस्योदकस्य यज्ञस्य वा पूर्व्याय पुराणाय वनुषे
+> संभजनाय हे अश्विना नमो येमानो नमस्कारं कुर्वाणाः क आ ववर्तत् ।
+> आवर्तयेद्यज्ञं प्रति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa asks which sacrificer today makes (karate, "would make") a praise for the two Aśvins. The sacrificer is one who has given the Soma oblation (रातहव्यः (*rātahavyaḥ*)) and acts with the arkas, that is, with mantras. The praise is made either for protection (ऊतये (*ūtaye*)), or for the Soma-drinking (सुतपेयाय (*sutapeyāya*)). Further, ऋतस्य (*ṛtasya*) is "of water" or "of the sacrifice". पूर्व्याय (*pūrvyāya*) means "ancient", and वनुषे (*vanuṣe*) means "for sharing/enjoyment". Addressing the Aśvins, he asks who, paying homage, would turn (the sacrifice) toward them: आ ववर्तत् (*ā vavartat*), "would cause the sacrifice to turn towards (them)".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अर्कैः (*arkaiḥ*)—with mantras
+- रातहव्यः (*rātahavyaḥ*)—who has offered Soma
+- कः (*kaḥ*)—which sacrificer indeed
+- ऊतये वा (*ūtaye vā*)—whether for protection
+- सुतपेयाय वा (*sutapeyāya vā*)—or for the drinking of Soma
+- वनुषे (*vanuṣe*)—venerable
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पूर्वाय्य वा (*pūrvāyya vā*)—or for obtaining completeness
+- आद्य (*ādya*)—today
+- नां (*nāṃ*)—addressing you
+- करते (*karate*)—offers praise
+- नमो येमानः (*namo yemānaḥ*)—which sacrificer offering you homage
+- आ ववर्तत् (*ā vavartat*)—could bring you to this sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, which sacrificer, having offered Soma with mantras, offers praise to you today, whether for protection, for the drinking of Soma, or for obtaining the completeness of the venerable sacrifice? Which sacrificer, offering you homage, can bring you to this sacrifice?
+
+##### English translation (H. H. Wilson)
+What offerer of oblations addresses you to-day with hymns for the
+sake (of obtaining) protection, for the drinking of the Soma, or for the
+ancient fulfilment of the sacrifice? What offerer of adoration may bring
+you Ashwins (to this rite).
+
+### Printed p. 452
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒र॒ण्यये॑न पुरुभू॒ रथे॑ने॒मं य॒ज्ञं ना॑स॒त्योप॑ यातं ।  
+> पिबा॑थ॒ इन्मधु॑नः सो॒म्यस्य॒ दध॑थो॒ रत्नं॑ विध॒ते जना॑य॥४॥
+
+> *hiraṇyayena purubhū rathenemaṃ yajñaṃ nāsatyopa yātaṃ |*  
+> *pibātha inmadhunaḥ somyasya dadhatho ratnaṃ vidhate janāya‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्ययेन । पुरुभू इति पुरुऽभू। रथेन। इमं । यज्ञं । नासत्या । उप । यातं।  
+> पिबाधः । इत् । मधुनः । सोम्यस्य । दधथः । रत्नं । विधते । जनाय ॥ ४ ॥
+
+> *hiraṇyayena | purubhū iti puru 'bhū| rathena| imaṃ | yajñaṃ | nāsatyā | upa | yātaṃ|*  
+> *pibādhaḥ | it | madhunaḥ | somyasya | dadhathaḥ | ratnaṃ | vidhate | janāya ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुभू बहु भवंतौ नासत्याविमं यज्ञं हिरण्ययेन रथेनोप
+> यातं । सोम्यस्य सोमसंबंधिनो मधुनो मधुररसस्य ॥ कर्मणि षष्ठौ ॥
+> सोमरसं पिबाथः । पिबथः । विधते परिचरते जनाय मह्यं रत्नं रमणीयं धनं
+> दधथः । धारयथः ॥ दधतेर्दानार्थस्य लेटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O Purubhū (those who are many), Nāsatyas, come to this sacrifice with a golden chariot." *somyasya madhunaḥ* means "of the sweet juice connected with Soma"; the genitive here stands in the sense of the object, so he says: "drink the Soma juice". विधते (*vidhate*) means "to one who serves"; जनाय (*janāya*) means "to me". "Bestow (दधथः (*dadhathaḥ*), "you two hold") delightful wealth (रत्नं (*ratnaṃ*))." The form दधथः (*dadhathaḥ*) is a leṭ form of the root dadhāti in the sense of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभू (*purubhū*)—who dwell in many forms
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- इमं यज्ञं (*imaṃ yajñaṃ*)—to this sacrifice of ours
+- हिरण्ययेन (*hiraṇyayena*)—made of gold
+- रथेन (*rathena*)—with the chariot
+- उप यातं (*upa yātaṃ*)—graciously come
+- सोमस्य (*somasya*)—connected with Soma
+- मधुनः (*madhunaḥ*)—the sweet juice
+- पिबाथः (*pibāthaḥ*)—drink
+- विधते (*vidhate*)—who serves you
+- जनाय (*janāya*)—to me, the sacrificer
+- रत्नं (*ratnaṃ*)—delightful wealth
+- दधथः (*dadhathaḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, endowed with power in many forms, come to this sacrifice of ours with a chariot made of gold; drink the sweet juice connected with Soma. Provide delightful wealth to me, the sacrificer who serves you.
+
+##### English translation (H. H. Wilson)
+Nasatyas, who are manifold, come with your golden chariot to this sacrifice; drink of the sweet Soma beverage, and give precious things to the man who celebrates (your worship).
+
+### Printed p. 453
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ यातं दि॒वो अच्छा॑ पृथि॒व्या हि॑र॒ण्यये॑न सु॒वृता॒  ॑
+> रथेन ।  
+> मा वा॑म॒न्ये नि य॑मन्नेव॒यंतः॒ सं यद्द॒दे नाभिः॑  
+> पू॒र्व्या वां॑ ॥ ५ ॥
+
+> *ā no yātaṃ divo acchā pṛthivyā hiraṇyayena suvṛtā*  
+> *rathena |*  
+> *mā vāmanye ni yamannevayaṃtaḥ saṃ yaddade nābhiḥ*  
+> *pūrvyā vāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यातं । दिवः । अच्छ । पृथिव्याः । हिरण्ययेन । सुवृता । रथेन ।  
+> मा । वां । अन्वे । नि । यमन् । देवयंतः । सं । यत् । ददे । नाभिः । पूर्व्या ।  
+> वां ॥ ५ ॥
+
+> *ā | naḥ | yātaṃ | divaḥ | accha | pṛthivyāḥ | hiraṇyayena | suvṛtā | rathena |*  
+> *mā | vāṃ | anve | ni | yaman | devayaṃtaḥ | saṃ | yat | dade | nābhiḥ | pūrvyā |*  
+> *vāṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मानच्छाभि प्राप्तं दिवो द्युलोकात्पृथिव्याः सकाशाद्वा आ यातं ।
+> केन साधनेन । हिरण्ययेन हितरमणीयेन सुवृता शोभनावर्तनेन रथेन्य । वां
+> युवामन्ये देवयंतो देवौ युवामिच्छंतो यजमाना मा नि यमन् ।
+> नियमनं मा कुर्वन् । यद्यस्मात्तूर्व्या पूर्वार्हेतरयष्टृभ्यः पूर्वभाविनी
+> नाभिर्बंधिका स्तुतिः सं ददे । संबध्नाति । तस्मादायातं ॥
+
+##### Gist of the bhāṣya
+
+"Come to us (नः (*naḥ*) = *asmān*), approaching (अच्छ (*accha*)) from the world of heaven (दिवः (*divaḥ*)) or from the neighbourhood of the earth." **NOTE** By what means? By a golden chariot (हिरण्ययेन (*hiraṇyayena*), glossed हितरमणीयेन (*hitaramaṇīyena*), "beneficial and delightful"), well-turning (सुवृता (*suvṛtā*), "of good revolution"). "Let other sacrificers desiring you two as gods not restrain you (नि यमन् (*ni yaman*))." Because the praise (नाभिः (*nābhiḥ*), glossed बंधिका (*baṃdhikā*), "binding"), which is first for the other worshippers (the text printed तूर्व्या (*tūrvyā*) **NOTE** पूर्वार्हेतरयष्टृभ्यः पूर्वभाविनी (*pūrvārhetarayaṣṭṛbhyaḥ pūrvabhāvinī*)), binds (सं ददे (*saṃ dade*)) you, therefore come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नः अच्छ (*naḥ accha*)—to come towards us
+- दिवः (*divaḥ*)—whether from the sky
+- पृथिव्याः (*pṛthivyāḥ*)—or from the earth
+- हिरण्ययेन (*hiraṇyayena*)—made of gold
+- सुवृता (*suvṛtā*)—of excellent construction
+- रथेन (*rathena*)—with the chariot
+- आ यातं (*ā yātaṃ*)—come
+- यत् (*yat*)—for which reason
+- पूर्व्या (*pūrvyā*)—to be offered before other sacrifices
+- नाभिः (*nābhiḥ*)—attractive
+- वां (*vāṃ*)—you
+- सं ददे (*saṃ dade*)—the praise attracts
+- वां (*vāṃ*)—you
+- देवयंतः (*devayaṃtaḥ*)—praying to the gods
+- अन्ये (*anye*)—other sacrificers
+- मा नि यमन् (*mā ni yaman*)—let them not detain you for their own worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whether you are in the sky or on the earth, come to us with your chariot made of gold and of excellent construction. Since the praise, which is to be offered before other sacrifices and is attractive, draws you to us alone, let other sacrificers who desire your help not detain you for their own worship.
+
+##### English translation (H. H. Wilson)
+Come to our presence, whether from heaven or earth, with your well-constructed golden chariot: let not other devout worshippers detain you, for a prior attraction awaits you (here).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॑ र॒यिं पु॑रु॒वीरं॑ बृ॒हंतं॒ दस्रा॒ मिमा॑थामु॒भये॑ष्व॒स्मे ।  
+> नरो॒ यद्वा॑मश्विना॒ स्तोम॒माव॑न्त॒धस्तु॑तिमाजमा॒ळ्हासो॑  
+> आग्मन् ॥ ६ ॥
+
+> *nū no rayiṃ puruvīraṃ bṛhaṃtaṃ dasrā mimāthāmubhayeṣvasme |*  
+> *naro yadvāmaśvinā stomamāvantadhastutimājamāḷhāso*  
+> *āgman ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । रयं । पुरुवीरं बृहंतं । वस्त्रा । मिमाथां । उभयेषु । अष्टे इति ।  
+> वरः । यश् । वां । अश्विना । स्तोमं । अवन् । सधस्तुतिं । आजमीळ्हासः । अग्नम् ॥
+
+> *nu | naḥ | rayaṃ | puruvīraṃ bṛhaṃtaṃ | vastrā | mimāthāṃ | ubhayeṣu | aṣṭe iti |*  
+> *varaḥ | yaś | vāṃ | aśvinā | stomaṃ | avan | sadhastutiṃ | ājamīḷhāsaḥ | agnam ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ ह. जगद्गुरुः ॥
+> नु क्षिप्रं नोस्ताकं रयिं धनं पुरुवीरं बहुपुत्रोपेतं बृहंतं
+> महांतं हे दस्ताश्विनौ मिमाथां ! कुरुतं उभयेतु पुरुषोत्तमजातिमाळ्वेष्टस्ये
+> अस्मासु यद्यदा नरो नेतार ऋत्विजः पुरुषोत्तंसंबंधिनो वां युवयोः
+> स्तोमं स्तोत्रमावन् । आगमत् । प्राप्ताः । तथा सधस्तुतिं सहस्तुतिमाजमीळ्हा
+> सोजमीळ्हसंबंधिनोऽपि शैः सहागम्न् अगमन् ॥
+
+##### Gist of the bhāṣya
+
+"Quickly (नु (*nu*)) make for us (नोस्ताकं (*nostākaṃ*)) **NOTE** wealth (रयिं (*rayiṃ*)), endowed with many sons (पुरुवीरं (*puruvīraṃ*)) and great (बृहंतं (*bṛhaṃtaṃ*)), O Dasra Aśvins" (मिमाथां (*mimāthāṃ*) = कुरुतं (*kurutaṃ*)). उभयेषु (*ubhayeṣu*) is explained in damaged text **NOTE**. "When the leaders (नरः (*naraḥ*)), the priests connected with ... (Purumīḷha), have reached (आवन् (*āvan*) = आगमत् (*āgamat*), "came", "obtained") your praise (स्तोमं (*stomaṃ*)); and likewise the Ajamīḷhas, together with them, have come to the joint praise (सधस्तुतिं (*sadhastutiṃ*) = सधस्तुतिं (*sadhastutiṃ*))." (Then make us wealth.)
+### Printed p. 455
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—of beautiful form
+- अश्विना (*aśvinā*)—O Aśvin deities
+- उभयेषु (*ubhayeṣu*)—belonging to both groups, those of Purumāḷa and Ajamāḷa
+- आस्मे (*āsme*)—among us
+- यत् (*yat*)—when
+- नरः (*naraḥ*)—the priests (on the side of Purumāḷa)
+- वां (*vāṃ*)—addressing you
+- स्तोमं (*stomaṃ*)—the praise
+- आवन् (*āvan*)—recite (and likewise)
+- आजमाळासः (*ājamāḷāsaḥ*)—the priests on the side of Ajimāḷa also
+- सधस्तुतिं (*sadhastutiṃ*)—praises fit to be combined with the above praises
+- अग्मन् (*agman*)—recite along (then)
+- नु (*nu*)—quickly
+- नः (*naḥ*)—to us
+- पुरुवीरं (*puruvīraṃ*)—endowed with many sons
+- बृहंतं (*bṛhaṃtaṃ*)—and great
+- रयिं (*rayiṃ*)—wealth
+- मिमाथां (*mimāthāṃ*)—produce and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities of beautiful form, when, among us who belong to both the Purumiḷa and Ajamiḷa groups, the priests on Purumiḷa's side recite praise addressed to you, and likewise the priests on Ajamiḷa's side recite along with it praises fit to be combined with it, then quickly produce and give us wealth endowed with many sons and great.
+
+##### English translation (H. H. Wilson)
+Dasras, mete out for us both great opulence, comprising many descendants, since the leaders of the rite (the Purumilhas), have addressed to you, Ashwins, their praise, and the Ajamilhas have united with it their laudation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हेह॒ यद्वां॑ सम॒ना प॑पृ॒क्षे सेयम॒स्मे सु॑म॒तिर्वा॑जरत्ना ।  
+> उ॒रु॒ष्यतं॑ जरि॒तारं॑ यु॒वं ह॑ श्रि॒तः कामो॑ नासत्या युव॒द्रिक् ॥ ७ ॥
+
+> *iheha yadvāṃ samanā papṛkṣe seyamasme sumatirvājaratnā |*  
+> *uruṣyataṃ jaritāraṃ yuvaṃ ha śritaḥ kāmo nāsatyā yuvadrik ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इहइह । यत् । नां । समना । पपृक्षे । सा । इयं । अस्मे इति । सुमतिः ।  
+> वाजरत्ना ।  
+> उरुष्यतं । जरितारं । युवं । ह । श्रितः । कामः । नासत्या । युवद्रिक् ॥ ७ ॥
+
+> *ihaiha | yat | nāṃ | samanā | papṛkṣe | sā | iyaṃ | asme iti | sumatiḥ |*  
+> *vājaratnā |*  
+> *uruṣyataṃ | jaritāraṃ | yuvaṃ | ha | śritaḥ | kāmaḥ | nāsatyā | yuvadrik ‖ 7 ‖*
+
+### Printed p. 456
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यद्यस्मात् । यथा वा सुमत्या । इहेहास्मिन्नेव यज्ञे समना
+> समानमनस्कौ । सदृशावित्यर्थः । तौ वां युवां सुमत्या पपृक्षे । स्तुत्या संयो..
+> जयामि । सेयमिदानीं क्रियमाणा सुमतिः शोभनस्तुतिरस्मे अस्माकमेव फलवती
+> भवत्विति शेषः । हे वाजरत्ना रमणीयान् । अन्नं वै वाजः । शत. ब्रा. ९-३-४-१ ।
+> इति श्रुतेः । युवं युवां जरितारं गरितारं स्तोतारं मामुरुष्यतं । रक्षतं ।
+> हे नासत्याश्विनौ कामोऽस्मदीयो युवद्रिक् ह युवामेव गच्छन् श्रितः प्राप्तः ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, since (यत् (*yat*); or "as", with the good mind) in this very sacrifice (इहेह (*iheha*)) you two, like-minded (समना (*samanā*), "of the same mind", i.e. alike), I unite with good praise (पपृक्षे (*papṛkṣe*) = संयो.. जयामि (*saṃyo.. jayāmi*))." "May this good praise now being performed be fruitful for us alone." O Vājaratnā (the text reads रमणीयान् (*ramaṇīyān*), "delightful"), "food is indeed vāja", by the śruti (Śata. Brā. 9-3-4-1 **NOTE**). "You two protect (उरुष्यतं (*uruṣyataṃ*) = रक्षतं (*rakṣataṃ*)) me, the praiser (जरितारं (*jaritāraṃ*) = स्तोतारं (*stotāraṃ*))." "O Nāsatya Aśvins, our desire, going towards you (युवद्रिक् (*yuvadrik*)), has reached (श्रितः (*śritaḥ*) = प्राप्तः (*prāptaḥ*)) you alone."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अश्विना (*aśvinā*)—O Aśvin deities)
+- यत् (*yat*)—by which praise
+- इहेह (*iheha*)—in this very sacrifice
+- समनस्का (*samanaskā*)—of one and the same mind
+- नां (*nāṃ*)—you both
+- पपृक्षे (*papṛkṣe*)—I cause to be joined (with the praise)
+- सेयं सुमतिः (*seyaṃ sumatiḥ*)—that same praise now being recited
+- अस्मे (*asme*)—for us (may it be fruitful)
+- वाजरत्ना (*vājaratnā*)—O Aśvin deities who have delightful food
+- युवं (*yuvaṃ*)—you both
+- जरितारं (*jaritāraṃ*)—me, the praiser
+- उरुष्यतं (*uruṣyataṃ*)—protect
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- कामः (*kāmaḥ*)—our desire
+- युवद्रिक् ह (*yuvadrik ha*)—as soon as it reaches you
+- श्रितः (*śritaḥ*)—attains fulfilment
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whatever praise by which I pray to you two, of one mind, in this very sacrifice and cause you to be joined with the praise, may that same praise now being recited be fruitful for us. O Aśvin deities who have delightful food, protect me, the praiser. O Aśvin deities, our desire attains fulfilment as soon as it reaches you.
+
+##### English translation (H. H. Wilson)
+May the earnest praise, distributers of food, wherewith I associate you both like-minded at this sacrifice, be (beneficial) to us: protect your worshipper : my desire, Nasatyas, directed towards you is gratified.
+
+### Printed p. 457
+## Sūkta 45 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष स्य भानुरिति सप्तर्चं त्रयोदशं सूक्तं । आदितः षट् जगत्यः सप्तमी
+> त्रिष्टुप् । मंडलद्रष्टा वामदेव ऋषिः । अश्विनौ देवता । एष स्य त्रिष्टुबंतमिति
+> ह्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदसीदं शस्यं । तथा च सूत्रितं।
+> अबोध्यग्निर्ज्म एष स्य भानुः । आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एष स्य भानुः (*eṣa sya bhānuḥ*) has seven ṛks and is the thirteenth sūkta. The first six are in jagatī; the seventh is in triṣṭubh. The seer of the maṇḍala is Vāmadeva; the deity is the Aśvins. The Anukramaṇī says: एष स्य त्रिष्टुबंतं (*eṣa sya triṣṭubaṃtaṃ*). In the Prātaranuvāka and the Aśvina-śastra, this hymn is to be recited for the jagatī-metre portion. As it is stated in the sūtra: अबोध्यग्निर्ज्म एष स्य भानुः (*abodhyagnirjma eṣa sya bhānuḥ*) (Ā. Sū. 4-15).
+
+##### Anuvāda
+
+This sūkta, "Eṣa syā bhānuḥ", is the thirteenth sūkta in the fourth anuvāka. It has seven ṛks. The seer of this sūkta is Vāmadeva, the seer of the maṇḍala; the deity is the Aśvins; the first six ṛks of this sūkta are in jagatī metre; the seventh is in triṣṭubh metre. The Anukramaṇī says "Eṣa sya triṣṭubantam". The use of this sūkta for the jagatī-metre mantras at the time of reciting the Prātaranuvāka and the Aśvina-śastra mantras is concluded from the Āśvalāyana Śrauta Sūtra, "Abodhy agnir jma eṣa sya bhānuḥ" (Ā. Sū. 4-15).
+Sūkta—45
+Maṇḍala—4; Anuvāka—4; Sūkta—45
+Aṣṭaka—3; Adhyāya—7; Varga—21
+Number of ṛks in the sūkta—7
+Ṛṣi—Vāmadeva
+Devatā—the Aśvins
+Chandas—1-6 Jagatī; 7 Triṣṭubh
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य भा॒नुरुदि॑यर्ति यु॒ज्यते॒ रथः॒ परि॑ज्मा दि॒वो अ॒स्य  ॑
+> सानवि ।  
+> पृ॒क्षासो॑ अस्मिन्मिथु॒ना अधि॒ त्रयो॒ दृति॑स्तु॒रीयो॒ मधु॑नो॒  ॑
+> वि रष्यते ॥ १ ॥
+
+> *eṣa sya bhānurudiyarti yujyate rathaḥ parijmā divo asya*  
+> *sānavi |*  
+> *pṛkṣāso asminmithunā adhi trayo dṛtisturīyo madhuno*  
+> *vi raṣyate ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
+**Progress note:** Done through printed p. 457. pp. 451-457 (batch API)
