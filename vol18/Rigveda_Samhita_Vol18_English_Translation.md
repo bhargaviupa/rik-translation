@@ -4563,6 +4563,227 @@ The singer, bringing the god Ṛta under his control by his praise, serves him a
 ##### English translation (H. H. Wilson)
 The (worshipper) subjecting Rita (to his will) verily enjoys Rita : the strength of Rita is (developed) with speed, and is desirous of (possesing) water : to Rita belong the wide and profound heaven and earth : supreme milch cows, they yield their milk to Rita.
 
+### Printed p. 131
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदासाः ॥ ११ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | harivaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadāsāḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्त्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनदीरिव पीपेः ।
+> प्यायय । प्रवृद्धं कुरु । हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो वयं धिया
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्त्वदर्थं हवीरूपस्यान्नस्य
+> दातारो ना स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. "O Indra, quickly praised by the earlier seers, and quickly being praised by us, fill up (make abundant) food for me, your praiser, as rivers are filled with waters. O Hari-lord (Indra, owner of the horses named Hari), a newer hymn is made for you; it is made by us. May we, possessed of chariots, constantly serving you with praise in the form of insight, become givers of oblation-food for you." The closing word भूयास्मै (*bhūyāsmai*) is the "may we be" of the last clause.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—one praised by the former seers
+- नु (*nu*)—with the same devotion
+- गृणानः (*gṛṇānaḥ*)—being one to be praised (by us also)
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with waters
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill up and give
+- हरिवः (*harivaḥ*)—O Indra, possessor of the horses called Hari
+- ते (*te*)—addressed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- अकारि (*akāri*)—is made
+- रथ्यः (*rathyaḥ*)—we who possess chariots
+- धिया (*dhiyā*)—with praise offered with understanding
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the former seers and who, with the same devotion, are to be praised by us also, fill up food for me, your praiser, as rivers are filled with waters. O Indra, lord of the horses called Hari, a new hymn is made addressed to you.
+
+### Printed p. 132
+We who possess chariots, worshipping you with praise offered with understanding and offering oblations, may we become (givers of the oblation).
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk occurs not only in this sūkta but also as the final Ṛk of Sūktas 20–24.
+इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पीपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pīpeḥ*)—O Indra, you were praised formerly by many seers. Now you are praised by us. As rivers are filled and flow fully with rain-water, fill up for us, who praise you, food (food and other sustenance); that is, give it as much as we wish.
+नु (*nu*)—The particle नु (*nu*) has many meanings. In नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4): when one says "he will do this, therefore" (इदं नु करिष्यति (*idaṃ nu kariṣyati*)) the word नु (*nu*) has the sense of cause, "therefore"; when one says कथं नु करिष्यति (*kathaṃ nu kariṣyati*) the word नु (*nu*) has the interrogative sense "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate a comparison. For example:
+अक्षो न चक्र्योः शूर बृहन्स्रु ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhansru te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*) (Ṛ. Saṃ. 6-24-3)
+The author of the Nirukta cites this Ṛk (Ni. 1-4) and says that in वृक्षस्य नु ते (*vṛkṣasya nu te*) the word नु (*nu*) has the sense of comparison: वृक्षस्येव ते (*vṛkṣasyeva te*), "like a tree, or like the branches of a tree". Likewise:
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*) (Ṛ. Saṃ. 7-100-11)
+In Ṛks of this kind the word नु (*nu*) has the meaning क्षिप्रं (*kṣipraṃ*), "quickly, speedily"; and in
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*) (Ṛ. Saṃ. 7-19-11)
+
+### Printed p. 133
+and similar Ṛks, the author of the Nirukta explains with examples that नु (*nu*) means "today, now, at once". In the present Ṛk the meaning is क्षिप्रं (*kṣipraṃ*), "quickly, speedily".
+जरित्रे (*jaritre*)—The word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19), and there is also the etymology जरिता गरिता (*jaritā garitā*) (Ni. 1-7); so जरित्रे (*jaritre*) here means "to me, who praise".
+न (*na*)—The author of the Nirukta gives two kinds of meaning for the word न (*na*):
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वाधाय्यं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्पतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvādhāyyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpatiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4)
+That is, in the language of common usage, in modern Sanskrit that is not the Vedic language, the word न (*na*) is used in the sense of negation ("not, no"). This is known to all. But in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? The word न (*na*) in the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) is used in the sense of negation. Negation (pratiṣedha) is not praising a person directly or to his face. In the sentence "Indra cannot be regarded as endowed with brilliance", the word "not" (the meaning of न (*na*)) indicates a sense contrary to the courteous statement concerning Indra. This is called the sense of negation. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates comparison (likeness). The sentence means "arrogant like people who have drunk liquor". Here, speaking of the good or bad qualities of one person by comparing them with the good or bad qualities of another is the sense of comparison. Those who have drunk liquor, bereft of sense, behave in a base way out of arrogance; "arrogant like those people" is the sense of comparison. In the Vedas such meanings are indicated by the word न (*na*) and by the word इव (*iva*). The use of the word न (*na*) in this sense of comparison occurs only in the Vedas, not in the language in common use; there only the word इव (*iva*) is used instead.
+In this Ṛk, which forms the conclusion of the sūkta, it is stated that the seer Vāmadeva, offering a newly composed hymn to the deity, prays for the deity's favour.
+
+### Printed p. 134
+## Sūkta 24 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> का सुष्टुतिरित्येकादशर्चं तृतीयं सूक्तं वामदेवस्यार्षमैंद्रं । दशम्यनुष्टुप् शिष्टास्त्रिष्टुभः । तथा चानुक्रमणिका । का सुष्टुतिरुपांत्यानुष्टुबिति ।
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning का सुष्टुतिः (*kā suṣṭutiḥ*) has eleven Ṛks and is the third sūkta. Its seer is Vāmadeva, its deity Indra. The tenth Ṛk is in the anuṣṭubh metre; the rest are triṣṭubh. The Anukramaṇikā says: का सुष्टुतिरुपांत्यानुष्टुबिति (*kā suṣṭutirupāṃtyānuṣṭubiti*). The viniyoga (ritual application) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+**Anuvāda**: The sūkta का सुष्टुतिः (*kā suṣṭutiḥ*) is the third sūkta in the third anuvāka. It has eleven Ṛks. Vāmadeva is the seer and Indra the deity of this sūkta. The tenth Ṛk of this sūkta is in the anuṣṭubh metre; the remaining Ṛks are in triṣṭubh. In the Anukramaṇikā it is said: का सुष्टुतिरुपांत्यानुष्टुप् (*kā suṣṭutirupāṃtyānuṣṭup*). The viniyoga is लैंगिक (*laiṃgika*).
+Sūkta 24; Maṇḍala 4; Anuvāka 3; Sūkta 24. Aṣṭaka 3; Adhyāya 6; Vargas 11, 12. Number of Ṛks in the sūkta: 11. Ṛṣi: Vāmadeva. Devatā: Indra. Chandas: 1–9 and 11 triṣṭubh; 10 anuṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> का सुष्टुतिः शवसः सूनुमिंद्रमर्वाचीनं राधस आ ववर्तत् ।  
+> ददिर्हि वीरो गृणते वसूनि स गोपतिर्निष्पिधां नो  
+> जनासः ॥ १ ॥
+
+> *kā suṣṭutiḥ śavasaḥ sūnumiṃdramarvācīnaṃ rādhasa ā vavartat |*  
+> *dadirhi vīro gṛṇate vasūni sa gopatirniṣpidhāṃ no*  
+> *janāsaḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> का । सुस्तुतिः । शवसः । सूनुं । इंद्रं । अर्वाचीनं । राधसे । आ । ववर्तत् ।  
+> ददिः । हि । वीरः । गृणते । वसूनि । सः । गोऽपतिः । निऽसिधां । नः । जनासः ॥ १ ॥
+
+> *kā | sustutiḥ | śavasaḥ | sūnuṃ | iṃdraṃ | arvācīnaṃ | rādhase | ā | vavartat |*  
+> *dadiḥ | hi | vīraḥ | gṛṇate | vasūni | saḥ | go 'patiḥ | ni 'sidhāṃ | naḥ | janāsaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> का कीदृशी सुष्टुतिः शवसः सूनुं बलस्य पुत्रं । अतिबलिनमित्यर्थः । अर्वाचीनमस्मदभिमुखमिंद्रं परमैश्वर्ययुक्तं राधसे धनायास्मभ्यं धनं दातुमा
+
+##### Gist of the bhāṣya
+
+"What (of what kind) is the good praise (that can turn) Indra, the son of strength, that is, the very mighty one, facing us (अर्वाचीनं (*arvācīnaṃ*)), Indra of supreme lordship, so as to give wealth to us, for riches (राधसे (*rādhase*))? Let it turn him (आ ववर्तत् (*ā vavartat*), आवर्तयेत् (*āvartayet*))." The sentence is continued in the next block.
+
+### Printed p. 135
+
+> ववर्तत् । आवर्तयेत् । हे जनासो जना यजमाना वीरो विक्रांतो गोपतिः
+> पश्वादिधनस्य पालकः स इंद्रो निष्पिधां निष्टेद्धृणां शत्रूणां संबंधीनि वसूनि
+> धनानि गृणते गृणद्भ्यः स्तोतृभ्यो नोऽस्मभ्यं ददिर्हि । दाता खलु भवति ॥
+
+##### Gist of the bhāṣya
+
+"O people (जनासः (*janāsaḥ*)), sacrificers: Indra, the hero (valiant), lord of cows, protector of wealth such as cattle, is a giver (ददिर्हि (*dadirhi*), दाता खलु भवति (*dātā khalu bhavati*)) to us, the praisers, of the riches belonging to the enemies (निष्पिधां (*niṣpidhāṃ*), glossed निष्टेद्धृणां शत्रूणां (*niṣṭeddhṛṇāṃ śatrūṇāṃ*))." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- का (*kā*)—what kind of
+- सुष्टुतिः (*suṣṭutiḥ*)—excellent praise
+- शवसः सूनुं (*śavasaḥ sūnuṃ*)—the son of strength (the very mighty)
+- इंद्रं (*iṃdraṃ*)—Indra
+- राधसे (*rādhase*)—to give us wealth
+- अर्वाचीनं (*arvācīnaṃ*)—so that he is turned towards us
+- आ ववर्तत् (*ā vavartat*)—can it turn him?
+- जनासः (*janāsaḥ*)—O sacrificers who are men
+- वीरः (*vīraḥ*)—the valiant
+- गोपतिः (*gopatiḥ*)—protector of wealth such as cattle
+- सः (*saḥ*)—that Indra
+- निष्पिधां (*niṣpidhāṃ*)—belonging to the enemies who obstruct
+- वसूनि (*vasūni*)—riches
+- गृणते (*gṛṇate*)—to us who praise him
+- नः (*naḥ*)—to us
+- ददिर्हि (*dadirhi*)—is the giver
+
+##### भावार्थ (Bhāvārtha)
+
+What kind of praise can turn Indra, who is able to give us wealth and the like and is exceedingly mighty, towards us and make him favour us? O sacrificers who are men, Indra, the valiant protector of wealth such as cattle, snatches the riches belonging to the hostile enemies and is the giver of them to us who praise him.
+
+##### English translation (H. H. Wilson)
+What suitable praise may bring the son of strength, Indra, before us, to give us wealth : the hero, the lord of cattle, is the donor, oh man, of the wealth of his adversaries to him who glorifies him.
+
+##### विशेषविषयगळु (Special Topics)
+
+शवसः सूनुं (*śavasaḥ sūnuṃ*)—Words such as शवसः सूनुं (*śavasaḥ sūnuṃ*) and सहसः पुत्र (*sahasaḥ putra*) are used in the Ṛgveda with reference to Agni. Because in churning fire one must churn by applying force, Agni is customarily addressed as the son of strength (born of the application of force). In the present Ṛk these words are used with reference to Indra. As the commentator says, अतिबलिनमित्यर्थः (*atibalinamityarthaḥ*): the words are to be understood as used in the sense "Indra, who is exceedingly strong".
+सः निष्पिधां वसूनि गृणते नः ददिर्हि (*saḥ niṣpidhāṃ vasūni gṛṇate naḥ dadirhi*)—It is said that that Indra gives us the riches belonging to the enemies who oppose us. That is, when we fight with enemies
+
+### Printed p. 136
+victory comes to us by Indra's favour and the riches that the enemies hold fall to us; this is the intention indicated. **NOTE**
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वृत्रहत्ये हव्यः स ईड्यः स सुष्टुत इंद्रः सत्यराधाः ।  
+> स यामन्ना मघवा मर्त्याय ब्रह्मण्यते सुस्वये वरिवो  
+> धात् ॥ २ ॥
+
+> *sa vṛtrahatye havyaḥ sa īḍyaḥ sa suṣṭuta iṃdraḥ satyarādhāḥ |*  
+> *sa yāmannā maghavā martyāya brahmaṇyate susvaye varivo*  
+> *dhāt ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वृत्रहत्ये । हव्यः । सः । ईड्यः । सः । सुस्तुतः । इंद्रः । सत्यराधाः ।  
+> सः । यामन् । आ । मघवा । मर्त्याय । ब्रह्मण्यते । सुस्वये । वरिवः । धात् ॥
+
+> *saḥ | vṛtrahatye | havyaḥ | saḥ | īḍyaḥ | saḥ | sustutaḥ | iṃdraḥ | satyarādhāḥ |*  
+> *saḥ | yāman | ā | maghavā | martyāya | brahmaṇyate | susvaye | varivaḥ | dhāt ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो वृत्रहत्ये वृत्राणां शत्रूणां हत्ये हनने निमित्तभूते सति
+> यामन्युद्धे हव्य आह्वातव्यो भवत्ति । स इंद्र ईड्यः स्तुत्यो भवति । स इंद्रः
+> सुष्टुतः सन् सत्यराधा यजमानेभ्यो दातुं सत्यधनो भवति । मघवा धनवान् स
+> इंद्रो ब्रह्मण्यते स्तोत्रमिच्छते सुस्वये सोमं सुन्वते मर्त्याय मनुष्याय
+> यजमानाय वरिवो धनं । वरिव इति धननामैतत् । आ धात् । आ समंताद्ददाति ॥
+
+##### Gist of the bhāṣya
+
+That Indra, in वृत्रहत्ये (*vṛtrahatye*), that is, when there is occasion for the slaying of the Vṛtras (enemies), in battle (यामन् (*yāman*)), becomes one to be invoked (हव्यः (*havyaḥ*)). That Indra is to be praised (ईड्यः (*īḍyaḥ*)). That Indra, being well praised, becomes सत्यराधाः (*satyarādhāḥ*), one of true wealth for giving to the sacrificers. मघवा (*maghavā*) is "wealthy". That Indra gives fully (आ धात् (*ā dhāt*), आ समंताद्ददाति (*ā samaṃtāddadāti*)) वरिवः (*varivaḥ*), wealth, to the mortal, the man, the sacrificer, who desires a hymn (ब्रह्मण्यते (*brahmaṇyate*)) and who presses soma (सुस्वये (*susvaye*)). Sāyaṇa says: वरिव इति धननामैतत् (*variva iti dhananāmaitat*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Indra
+- वृत्रहत्ये (*vṛtrahatye*)—in the enemy-destroying
+- यामन् (*yāman*)—time of battle
+- हव्यः (*havyaḥ*)—is one called for help
+- सः (*saḥ*)—Indra
+- ईड्यः (*īḍyaḥ*)—is worthy of worship
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra who is worthy of worship
+- सुष्टुतः (*suṣṭutaḥ*)—when exceedingly praised
+- सत्यराधाः (*satyarādhāḥ*)—becomes a giver of wealth that is real (satyātmaka) **NOTE**
+- मघवा (*maghavā*)—wealthy
+- सः (*saḥ*)—that same Indra
+- ब्रह्मण्यते (*brahmaṇyate*)—to the one who praises
+- सुष्टये (*suṣṭaye*)—and presses soma **NOTE**
+- मर्त्याय (*martyāya*)—to the sacrificer
+- वरिवः (*varivaḥ*)—wealth
+- आ धात् (*ā dhāt*)—gives fully
+
+##### भावार्थ (Bhāvārtha)
+
+The valiant Indra is called for help in battle, which destroys enemies. He is exceedingly worthy of worship. Indra, thus worthy of worship, when praised by the sacrificers, becomes a giver of real (satyātmaka)
+
 ---
 
-**Progress note:** Done through printed p. 130. pp. 125-130 (batch API)
+**Progress note:** Done through printed p. 136. pp. 131-136 (batch API)
