@@ -13239,6 +13239,291 @@ We invoke you respectfully, Vajas and Ribhus, to drink of this libation, for you
 
 O Vājas, O Ṛbhus, O Vibhvas. The plural is said in relation to the others, mutually (*itarāpekṣayā parasparaṃ bahuvacanaṃ*). That greatness of yours, your majesty, became well-proclaimed among the gods. He states what it was ("that", तत् (*tat*), referring to यत् (*yat*)): you made your parents, who were old and always worn with age, perpetually young, so that they might move about at will.
 
+### Printed p. 346
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः, ऋभवः, विभ्वः (*vājāḥ, ṛbhavaḥ, vibhvaḥ*)—O Ṛbhus, who are Vāja, Vibhvan and Ṛbhu
+- यत् (*yat*)—by which extraordinary act of yours
+- जिव्री संता (*jivrī saṃtā*)—who were aged
+- सनाजुरा (*sanājurā*)—and therefore had bodies wholly worn out
+- पितरा (*pitarā*)—your mother and father
+- पुनः (*punaḥ*)—again
+- युवाना (*yuvānā*)—you made ever young
+- चरथाय (*carathāya*)—and able to move about
+- तक्षथ (*takṣatha*)—you made
+- तत् (*tat*)—that
+- युष्माकं (*yuṣmākaṃ*)—your
+- महित्वनं (*mahitvanaṃ*)—greatness
+- देवेषु (*deveṣu*)—among the gods
+- सुप्रवाचनं (*supravācanaṃ*)—as well praised
+- अभवक् (*abhavak*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, called Vāja, Vibhvan and Ṛbhu: by that extraordinary act of yours by which you made your mother and father, who were aged and therefore wholly worn out in body, ever young again and able to move about, such greatness of yours became well praised among the gods.
+
+##### English translation (H. H. Wilson)
+Therefore, Vaja, Ribhu, Vibhwan, was your greatness proclaimed amongst the gods, that you made your aged and infirm parents again young (and able) to go (where they would).
+
+#### Ṛk 4
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एकं॒ वि च॑क्र चम॒सं चतु॑र्वयं॒ निश्चर्म॑णो॒ गाम॑रिणीत  ॒॑
+> धीतिभिः ॥  
+> अथा॑ दे॒वेष्व॑मृत॒त्वमा॑नश श्रु॒ष्टि वा॑जा ऋभव॒स्तद्व॑ उ॒क्ष्यं॑ ॥
+
+> *ekaṃ vi cakra camasaṃ caturvayaṃ niścarmaṇo gāmariṇīta*  
+> *dhītibhiḥ ‖*  
+> *athā deveṣvamṛtatvamānaśa śruṣṭi vājā ṛbhavastadva ukṣyaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकं । वि । चक्र । चमसं । चतुःवयं । निः । चर्मणः । गां । अरिणीत । धीतिभिः ॥  
+> अथ । देवेषु । अमृतत्वं । आनश । श्रुष्टि । वाजाः । ऋभवः । तत् । वः । उक्त्यं ॥
+
+> *ekaṃ | vi | cakra | camasaṃ | catuḥvayaṃ | niḥ | carmaṇaḥ | gāṃ | ariṇīta | dhītibhiḥ ‖*  
+> *atha | deveṣu | amṛtatvaṃ | ānaśa | śruṣṭi | vājāḥ | ṛbhavaḥ | tat | vaḥ | uktyaṃ ‖*
+
+### Printed p. 347
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभव एकं चमसमेकमेव संतं पानसाधनं चमसं चतुर्वयं ।
+> वयाः शाखाः । चतुःशाखं चतुरवयवं वि चक्र । व्यकुरुत । तथा धीतिभिः कर्मभिश्चर्मणो नूतनां गां निररिणीत । समस्कुरुत । निरित्येष समित्येतस्य स्थाने । अथ
+> अतः कारणात् देवेषु मध्येऽमृतत्वमानश । प्राप्नुत । हे वाजा हे ऋभवस्तत्तादृशं वो युष्माकं कर्म । श्रुष्टीति क्षिप्रनामैतत् । क्षिप्रमुक्थं स्तुत्यं भवति ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, you made the one camasa, a vessel for drinking, four-fold: वयाः (*vayāḥ*) are branches, so "four-branched", having four parts, you made it so. Likewise by your acts (धीतिभिः (*dhītibhiḥ*)) you fashioned a new cow out of a hide; निः (*niḥ*) stands here in the place of सं (*saṃ*). Therefore you obtained immortality among the gods. O Vājas, O Ṛbhus, such is your work. श्रुष्टि (*śruṣṭi*) is a word meaning "quickly"; quickly it becomes worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऋभवः (*ṛbhavaḥ*)—O Ṛbhus)
+- एकं चमसं (*ekaṃ camasaṃ*)—the camasa vessel that was one
+- चतुर्वयं (*caturvayaṃ*)—so that it became four branches
+- वि चक्र (*vi cakra*)—you made
+- धीतिभिः (*dhītibhiḥ*)—by your acts
+- चर्मणः (*carmaṇaḥ*)—with the help of a mere hide
+- गां (*gāṃ*)—the cow, a living being
+- निः अरिणीत (*niḥ ariṇīta*)—you fashioned and produced
+- अथ (*atha*)—for that very reason
+- देवेषु (*deveṣu*)—among the gods
+- अमृतत्वं (*amṛtatvaṃ*)—deathlessness
+- आनश (*ānaśa*)—you obtained
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- तत् (*tat*)—such
+- वः (*vaḥ*)—your act
+- श्रुष्टि (*śruṣṭi*)—quickly
+- उक्ष्यं (*ukṣyaṃ*)—becomes worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you made the camasa vessel that was one into four branches. By your acts you fashioned a living cow out of the hide of a lifeless cow. By this greatness you obtained immortality among the gods. O Vājas, O Ṛbhus, such an act of yours quickly becomes worthy of praise.
+
+##### English translation (H. H. Wilson)
+You have made the single ladle four-fold: by your (marvellous) acts you have clothed the cow with a (new) hide; therefore you have obtained immortality amongst the gods: such acts, Vajas and Ribhus, are to be eagerly glorified.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भु॒तो र॒यिः प्र॑थ॒मश्र॑वस्तमो॒ वाज॑श्रुतासो॒ यमजी॑जन॒न्नरः॑ ॥
+
+> *ṛbhuto rayiḥ prathamaśravastamo vājaśrutāso yamajījanannaraḥ ‖*
+
+### Printed p. 348
+
+> विभ्वतष्टो विदथेषु प्रवाच्यो यं देवासोऽवथा स  
+> विचर्षणिः ॥ ५ ॥
+
+> *vibhvataṣṭo vidatheṣu pravācyo yaṃ devāso 'vathā sa*  
+> *vicarṣaṇiḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यभुतः । रयिः । प्रथमश्रवःतमः । वाजश्रुतासः । यं । अजीजनन् । नरः ॥  
+> विभ्वतष्टः । विदथेषु । प्रवाच्यः । यं । देवासः । अवथ । सः । विचर्षणिः ॥ ५ ॥
+
+> *yabhutaḥ | rayiḥ | prathamaśravaḥtamaḥ | vājaśrutāsaḥ | yaṃ | ajījanan | naraḥ ‖*  
+> *vibhvataṣṭaḥ | vidatheṣu | pravācyaḥ | yaṃ | devāsaḥ | avatha | saḥ | vicarṣaṇiḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभःत ऋभूणां सकाशात्पथमश्रवस्तमः प्रथमं मुख्यमतिशयितमन्नं
+> यशो वा यस्य धनस्य तद्रयिर्धनं । अस्माकं भवत्विति शेषः । वाजश्रुतासो वाजैः
+> सह विख्याता नरो नेतार ऋभवो यं रयिमजीजनन् । उत्पादितवंतः । विभ्वतष्टो
+> विभ्वभिर्यभुभिस्तष्टस्थक्षणसंपन्नश्चमसोऽश्विनो रथो वा विदथेषु यज्ञेषु
+> प्रवाच्यः । प्रकर्षेण स्तुत्यः ! हे देवासो द्योतमाना यूयं यं रथं
+> चमसं वावथ । रक्षथ । स विचर्षणिर्विविधं द्रष्टा भवति । द्रष्टव्यो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+ऋभुतः (*ṛbhutaḥ*): from the Ṛbhus. प्रथमश्रवस्तमः (*prathamaśravastamaḥ*): wealth whose food, or whose fame, is first, that is chief and surpassing; "may it be ours" is to be supplied. वाजश्रुतासः (*vājaśrutāsaḥ*): renowned together with the Vājas; नरः (*naraḥ*) are the leaders, the Ṛbhus, who produced (अजीजनन् (*ajījanan*)) that wealth. विभ्वतष्टः (*vibhvataṣṭaḥ*): the camasa fashioned, finished by hewing, by the Vibhvans, the Ṛbhus, or else the chariot of the Aśvins, is at the sacrifices (विदथेषु (*vidatheṣu*)) to be extolled exceedingly. O shining ones, the chariot or camasa which you protect (अवथ (*avatha*)), that is विचर्षणिः (*vicarṣaṇiḥ*), a manifold seer; the meaning is that it is to be looked upon.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजश्रुतासः (*vājaśrutāsaḥ*)—those renowned together with food
+- नरः (*naraḥ*)—the Ṛbhus, who are leaders
+- यं (*yaṃ*)—which wealth
+- अजीजनन् (*ajījanan*)—they produced; such wealth
+- प्रथमश्रवस्तमः (*prathamaśravastamaḥ*)—deserving surpassing fame
+- रयिः (*rayiḥ*)—wealth
+- ऋभुतः (*ṛbhutaḥ*)—may it come to us from the Ṛbhus
+- विभ्वतष्टः (*vibhvataṣṭaḥ*)—the part of the camasa made by the Ṛbhus, or the chariot
+- विदधेषु (*vidadheṣu*)—at the sacrifices
+- प्रवाच्यः (*pravācyaḥ*)—becomes exceedingly worthy of praise
+- देवासः (*devāsaḥ*)—O shining Ṛbhus
+- यं (*yaṃ*)—which camasa or chariot
+- अवथ (*avatha*)—you protected
+- सः (*saḥ*)—that
+- विचर्षणिः (*vicarṣaṇiḥ*)—is to be looked upon with a discerning eye
+
+##### भावार्थ (Bhāvārtha)
+
+May the wealth which the Ṛbhus, renowned together with food and leaders, produced, wealth that deserves surpassing fame, come to us from the Ṛbhus. The part of the camasa made by the Ṛbhus, or the chariot, becomes exceedingly worthy of praise at the sacrifices. O shining Ṛbhus, the camasa or chariot which you protected is to be looked upon with a discerning eye.
+
+### Printed p. 349
+
+##### English translation (H. H. Wilson)
+From the Ribhus may wealth, the best and most productive of food, (come to me); that which the leaders (of rites) renowned together with the Vajas, have engendered; that which has been fabricated by Vibhwan and is to be celebrated at sacrifices; that which, deities, you protect, that is to be beheld.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॒ज्यर्वा॒ स ऋषि॑र्वच॒स्यया॒ स शूरो॒ अस्ता॒ पृत॑नासु  ॒॑
+> दुष्टरः ।  
+> स रा॒यस्पोषं॒ स सु॒वीर्यं॑ दधे॒ यं वाजो॒ विभ्वा॑  
+> ऋ॒भवो॒ यमावि॑षुः ॥ ६ ॥
+
+> *sa vājyarvā sa ṛṣirvacasyayā sa śūro astā pṛtanāsu*  
+> *duṣṭaraḥ |*  
+> *sa rāyaspoṣaṃ sa suvīryaṃ dadhe yaṃ vājo vibhvā*  
+> *ṛbhavo yamāviṣuḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वाजी । अर्वा । सः । ऋषिः । वचस्यया । सः । शूरः । अस्ता । पृतनासु । दुस्तरः ।  
+> सः । रायः । पोषं । सः । सुवीर्यं । दधे । यं । वाजः । विभ्वा । ऋभवः ।  
+> यं । आविषुः ॥ ६ ॥
+
+> *saḥ | vājī | arvā | saḥ | ṛṣiḥ | vacasyayā | saḥ | śūraḥ | astā | pṛtanāsu | dustaraḥ |*  
+> *saḥ | rāyaḥ | poṣaṃ | saḥ | suvīryaṃ | dadhe | yaṃ | vājaḥ | vibhvā | ṛbhavaḥ |*  
+> *yaṃ | āviṣuḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वाजी वेजनवान् बलवान् सन् आर्वारणकुशलो भवति । स ऋषिरतींद्रियज्ञानी सन् वचस्यया स्तुत्या युक्तो भवति । स शूरो विक्रांतः सन् अस्ता
+> क्षेप्ता शत्रूणां भवति । स्वयं च पृतनासु संग्रामेषु दुष्टरो नाभिभाव्यो भवति ।
+> स एव रायस्पोषं धनपुष्टिं दधे । धत्ते । स सुवीर्यं सुवीरत्वं दधे । धत्ते ।
+> यं मनुष्यं वाजो विभ्वा ऋभवश्चाविषुः । अरक्षन् । स एवमेवं भवतीति । अंत्यस्य
+> बहुवन्निर्देशस्त्रयाणामृभुव्यवहारप्राचुर्याभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+He becomes वाजी (*vājī*), possessed of vigour, strong, and skilled in आर्वारणकुशलो (*ārvāraṇakuśalo*) **NOTE**. He, being a ṛṣi, a knower of what lies beyond the senses, becomes endowed with praise (वचस्यया (*vacasyayā*)). Being a hero, valiant, he becomes the hurler (अस्ता (*astā*)) of his enemies, and himself in the battles (पृतनासु (*pṛtanāsu*)) he is दुष्टरः (*duṣṭaraḥ*), not to be overcome. He alone bears (दधे (*dadhe*) = धत्ते (*dhatte*)) increase of wealth, and he bears good heroism, the man whom Vāja, Vibhvan and the Ṛbhus protected (आविषुः (*āviṣuḥ*) = अरक्षन् (*arakṣan*)); such he becomes. The plural used for the last (ऋभवः (*ṛbhavaḥ*)) shows the intention that the three are mostly spoken of as Ṛbhus.
+
+### Printed p. 350
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—whom, the man
+- वाजः (*vājaḥ*)—Vāja
+- विभ्वा (*vibhvā*)—Vibhvan
+- ऋभवः (*ṛbhavaḥ*)—and all the Ṛbhus
+- आविषुः (*āviṣuḥ*)—protect
+- सः (*saḥ*)—he
+- वाजी (*vājī*)—becomes possessed of strength
+- अर्वा (*arvā*)—and skilled in action
+- सः (*saḥ*)—the same man
+- ऋषिः (*ṛṣiḥ*)—becomes a knower of what is beyond the senses
+- वचस्यया (*vacasyayā*)—and a maker of praise
+- सः (*saḥ*)—he
+- शूरः (*śūraḥ*)—being valiant
+- अस्ता (*astā*)—becomes one who strikes and drives off enemies (and)
+- पृतनासु (*pṛtanāsu*)—in battles
+- दुष्टरः (*duṣṭaraḥ*)—becomes unassailable
+- सः (*saḥ*)—the same man
+- रायस्पोषं (*rāyaspoṣaṃ*)—increase of wealth
+- दधे (*dadhe*)—obtains
+- सः (*saḥ*)—he
+- सुवीर्यं (*suvīryaṃ*)—obtains excellent strength
+
+##### भावार्थ (Bhāvārtha)
+
+The man whom Vāja, Vibhvan and all the Ṛbhus together protect becomes possessed of strength and skilled in action. The same man becomes a knower of what is beyond the senses and a maker of praise. Being valiant, he becomes one who strikes and drives off his enemies, and he becomes unassailable in battles. The same man obtains increase of wealth. He obtains most excellent heroic power.
+
+##### English translation (H. H. Wilson)
+He is vigorous and skilled in war, he is a Rishi worthy of homage, he is a hero, the discomfiter of foes, invincible in battles, he is possessed of ample wealth, and (is blessed) with excellent posterity, whom Vaja and Vibhawan, whom the Ribhus protect.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रेष्ठं॑ वः॒ पेशो॒ अधि॑ धायि दर्श॒तं स्तोमो॑ वाजा  
+> ऋभव॒स्तं जु॑जुष्टन ।  
+> धीरा॑सो॒ हि ष्ठा क॒वयो॑ विप॒श्चित॒स्तान्व॑ ए॒ना ब्रह्म॒णा  ॑
+> वेदयामसि ॥ ७ ॥
+
+> *śreṣṭhaṃ vaḥ peśo adhi dhāyi darśataṃ stomo vājā*  
+> *ṛbhavastaṃ jujuṣṭana |*  
+> *dhīrāso hi ṣṭhā kavayo vipaścitastānva enā brahmaṇā*  
+> *vedayāmasi ‖ 7 ‖*
+
+### Printed p. 351
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रेष्ठं । वः । पेशः । अधि । धायि । दर्शतं । स्तोमः । वाजाः । ऋभवः । तं ।  
+> जुजुष्टन ।  
+> धीरासः । हि । स्थ । कवयः । विपःचितः । तान् । वः । एना । ब्रह्मणा । आ । वेदयामसि ॥ ७ ॥
+
+> *śreṣṭhaṃ | vaḥ | peśaḥ | adhi | dhāyi | darśataṃ | stomaḥ | vājāḥ | ṛbhavaḥ | taṃ |*  
+> *jujuṣṭana |*  
+> *dhīrāsaḥ | hi | stha | kavayaḥ | vipaḥcitaḥ | tān | vaḥ | enā | brahmaṇā | ā | vedayāmasi ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रेष्ठमत्युत्कृष्टमत एव दर्शतं दर्शनीयं वो युष्माकं पेशो रूपमधि धायि । अधिनिहितं । अतस्तदुचितो यः स्तोमः स्तोत्रमस्मत्कृतमस्ति हे
+> वाजा ऋभवस्तं स्तोमं स्तोत्रं जुजुष्टन । सेवध्वं । ये यूयं धीरासो
+> हि धीमंतः प्रसिद्धाः कवयो मेधाविनो विपश्चितो ज्ञानवंतः स्थ तान्वो युष्मानेनैनेन ब्रह्मणा मंत्रेण शस्त्रात्मकेना वेदयामसि । अथवोक्तलक्षणा विपश्चितः
+> स्तोतारो यान् । स्तुवंतीति शेषः । तान्ब्रह्मणा आ वेदयामसि । प्रज्ञापयामः ॥
+
+##### Gist of the bhāṣya
+
+Your form (पेशः (*peśaḥ*)), most excellent and therefore beautiful, has been placed upon (अधि धायि (*adhi dhāyi*) = अधिनिहितं (*adhinihitaṃ*)) you. Therefore the praise (स्तोमः (*stomaḥ*)) fitting to it, the hymn made by us: O Vājas, O Ṛbhus, enjoy (जुजुष्टन (*jujuṣṭana*) = सेवध्वं (*sevadhvaṃ*)) that praise. You who are धीरासः (*dhīrāsaḥ*), the renowned wise, कवयः (*kavayaḥ*), the intelligent, विपश्चितः (*vipaścitaḥ*), the knowing: such you we make known (आ वेदयामसि (*ā vedayāmasi*)) by this ब्रह्मणा (*brahmaṇā*), a mantra in the form of a śastra. Or else: the wise praisers of the kind described, whom they praise ("they praise" is to be supplied), those we make known by the ब्रह्मणा (*brahmaṇā*); we cause them to understand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऋभवः (*ṛbhavaḥ*)—O Ṛbhus)
+- श्रेष्ठं (*śreṣṭhaṃ*)—most excellent
+- दर्शतं (*darśataṃ*)—and attractive to the sight
+- वः (*vaḥ*)—your
+- पेशः (*peśaḥ*)—form
+- अधि धायि (*adhi dhāyi*)—has been obtained by you
+- स्तोमः (*stomaḥ*)—this praise of ours, which praises it
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- तत् जुजुष्ट न (*tat jujuṣṭa na*)—enjoy that praise
+- धीरासः (*dhīrāsaḥ*)—(you) are wise
+- कवयः (*kavayaḥ*)—intelligent
+- विपश्चितः (*vipaścitaḥ*)—learned
+- स्थ (*stha*)—you are
+- तान् वः (*tān vaḥ*)—such you
+- एना ब्रह्मणा (*enā brahmaṇā*)—with this mantra
+- आ वेदयामसि (*ā vedayāmasi*)—we praise and make known
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you have a form most excellent and attractive to the sight. This praise, made by us, praises that form. Enjoy this praise of ours. You are wise, intelligent and learned. Such you we praise and make known with this mantra.
+
+##### English translation (H. H. Wilson)
+An excellent and agreeable from has been assumed by you: (this is onr own) praise; Vajas aud Ribhus we grstified (thereby), for you are **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 345. pp. 340-345 (batch API)
+**Progress note:** Done through printed p. 351. pp. 346-351 (batch API)
