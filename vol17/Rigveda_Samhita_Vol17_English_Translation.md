@@ -18946,6 +18946,92 @@ The light of Āditya described above evolved in the form of Oṃ. It became thre
 
 नवाक्षराणि गायत्र्यष्टौ तानि यान्यन्वाह प्रणवो नवमः ॥ (*navākṣarāṇi gāyatryaṣṭau tāni yānyanvāha praṇavo navamaḥ ‖*) (Śa. Brā. 3-4-1-15)
 
+### Printed p. 616
+
+The Gāyatrī consists of nine syllables. The Praṇava, which is the syllable Oṃ, is the ninth. The Praṇava is a part of the mantra that is to be recited as eight-syllabled. The passage thus shows that the Praṇava, which must always be recited together with the Gāyatrī (itself a means of meditation), is also of the nature of the Gāyatrī. In the same way as the Gāyatrī is praised, in the words गायत्रि वा इदग्ं सर्व० भूतं (*gāyatri vā idagṃ sarva0 bhūtaṃ*) and so on, as the all-pervading form of the Supreme Brahman, it is shown that no mantra is higher than the Praṇava, since it expounds the Brahman-principle that lies beyond the three times: न हि प्रणवादधिकं किंचिन्मंत्रजात्रमस्ति त्रिकालातीतस्य ब्रह्मणः प्रतिपादकत्वात्. (*na hi praṇavādadhikaṃ kiṃcinmaṃtrajātramasti trikālātītasya brahmaṇaḥ pratipādakatvāt.*). The greatness of this Praṇava is described thus:
+
+ओमित्येतदक्षरमिदग्ं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोंकार एव । यच्चान्यत्रिकालातीतं तदप्योंकार एव ॥ (*omityetadakṣaramidagṃ sarvaṃ tasyopavyākhyānaṃ bhūtaṃ bhavadbhaviṣyaditi sarvamoṃkāra eva | yaccānyatrikālātītaṃ tadapyoṃkāra eva ‖*) (Mā. U. 1) **NOTE**
+
+The whole universe consists of Oṃkāra. Therefore the Praṇava in the form of Oṃkāra is the Supreme Brahman. Commenting on this sentence, Śrī Śaṅkarācārya says:
+
+यदिदं अर्थजातं अभिधेयभूतं तस्य अभिधानाव्यतिरेकात् अभिधानस्य च ओंकाराव्यतिरेकात् ओंकार एवेदं सर्वं परं च ब्रह्म अभिधानाभिधेयोपायपूर्वकमेव गम्यत इति ओंकार एव । तस्य एतस्य परापरब्रह्मरूपस्य अक्षरस्य ओं इत्येतस्य उपव्याख्यानं ॥ (*yadidaṃ arthajātaṃ abhidheyabhūtaṃ tasya abhidhānāvyatirekāt abhidhānasya ca oṃkārāvyatirekāt oṃkāra evedaṃ sarvaṃ paraṃ ca brahma abhidhānābhidheyopāyapūrvakameva gamyata iti oṃkāra eva | tasya etasya parāparabrahmarūpasya akṣarasya oṃ ityetasya upavyākhyānaṃ ‖*) (Mā. U. Śaṅkara-bhāṣya 1) **NOTE**
+
+All the things in the world that are denoted by name and form, and are thus objects of denotation, consist of Oṃkāra. The denotation itself (the manner of denoting) is also Oṃkāra. Since the Supreme Brahman too is known only by way of the means called denotation and the denoted, it too is Oṃkāra. The explanation of this syllable Oṃ, which is of the form of the higher and the lower Brahman, is a means to the understanding of Brahman and therefore stands close to Brahman; thus he has shown the identity of the Praṇava with Brahman. Here only the significance of the Praṇava at the time of reciting the Gāyatrī, which is a means to the realisation of Brahman, is examined. Just as the Upaniṣad texts describe the Gāyatrī, which is of the form of Brahman, as the direct means to the knowledge of Brahman, so too the Praṇava, which is a part of the Gāyatrī and of the form of Brahman, is a chief limb of the meditation in the form of the Gāyatrī, and is a direct means to the realisation of Brahman, which is one with it; this is also stated clearly.
+
+एतद्वाव तत्स्वरूपं नभसः खेंतर्भूतस्य यत् परं तेजस्तत्रेधाभिहितमग्नावादित्ये प्राण एतद्वाव तत् स्वरूपं नभसः खेंतर्भूतस्य यदो- मित्येतदक्षरमनेनैव तदुद्भुद्यत्युदयत्युच्छूसत्यजस्रं ब्रह्मधीयालंबं .... .... .... .... ॥ (*etadvāva tatsvarūpaṃ nabhasaḥ kheṃtarbhūtasya yat paraṃ tejastatredhābhihitamagnāvāditye prāṇa etadvāva tat svarūpaṃ nabhasaḥ kheṃtarbhūtasya yado- mityetadakṣaramanenaiva tadudbhudyatyudayatyucchūsatyajasraṃ brahmadhīyālaṃbaṃ .... .... .... .... ‖*) (Maitrī Upaniṣad 7-11) **NOTE**
+
+### Printed p. 617
+
+The space in the lotus of the heart is the supreme light. It has become transformed into the forms of Āditya, Vāyu and Agni (this has been explained earlier). The Brahman-principle that is of the nature of space in the lotus of the heart is itself the Praṇava in the form of Oṃkāra. From this Praṇava alone the supreme light arises, rises, and spreads to the whole universe. This light is the support of the universe. The Gāyatrī form, which is the mother of the metres and the essence of the Vedas, is of the nature of this Praṇava. (एतद्वाव तत्स्वरूपं (*etadvāva tatsvarūpaṃ*)) In the time of meditation, contemplating this is contemplating Brahman. Through this complete contemplation one can know that the goal and the means are one. That this Praṇava is Brahman is shown thus:
+
+ओमिति ब्रह्म । ओमितीदग्ं सर्वं । ओमित्येतदनुकृति ह स्म वा अप्यो श्रावयेत्याश्रावयंति । ओमिति सामानि गायंति । ओग्ं शोमिति शस्त्राणि शग्ंसंति । ओमित्यध्वर्युः प्रतिगरं प्रतिगृणाति । ओमिति ब्रह्मा प्रसौति । ओमित्यग्निहोत्रमनुजानाति । ओमिति ब्राह्मणः प्रवक्ष्यन्नाह ब्रह्मोपाप्नवानीति । ब्रह्मैवोपाप्णोति ॥ (*omiti brahma | omitīdagṃ sarvaṃ | omityetadanukṛti ha sma vā apyo śrāvayetyāśrāvayaṃti | omiti sāmāni gāyaṃti | ogṃ śomiti śastrāṇi śagṃsaṃti | omityadhvaryuḥ pratigaraṃ pratigṛṇāti | omiti brahmā prasauti | omityagnihotramanujānāti | omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti | brahmaivopāpṇoti ‖*) (Trai. U. 1-8) **NOTE**
+
+Oṃ (the Praṇava) is Brahman. The whole universe is Oṃ. That is the imitation. Those who sing the Sāman, and the Adhvaryu and others, utter the response (pratigara) with it. One who studies the Veda, before beginning study, with the thought "Let me obtain Brahman", obtains Brahman itself by uttering Oṃkāra. Oṃ means the Supreme Self; by uttering it the Supreme Self is attained.
+
+स य एतदेवं विद्वानक्षरं प्रणत्येतदेवाक्षरं स्वरममृतमभयं प्रविशति तत्प्रविश्य यदमृता देवास्त्रदमृतो भवति ॥ (*sa ya etadevaṃ vidvānakṣaraṃ praṇatyetadevākṣaraṃ svaramamṛtamabhayaṃ praviśati tatpraviśya yadamṛtā devāstradamṛto bhavati ‖*) (Chā. U. 1-4-5)
+
+This Praṇava in the form of Oṃkāra is immortal and of the nature of fearlessness. The gods too took refuge in it and obtained immortality and fearlessness. Those who know this truth and take refuge in this sound in the form of Oṃkāra become immortal and obtain fearlessness. How is it possible that the state of mind indicated by the mantra beginning युंजते मन उत युंजते (*yuṃjate mana uta yuṃjate*), and the meditative search for knowledge in it, accomplish the goal through the power of the Praṇava?—
+
+### Printed p. 618
+
+प्रणवो धनुः शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते । अप्रमत्तेन वेद्धव्यं शरवत्तन्मयो भवेत् ॥ (*praṇavo dhanuḥ śaro hyātmā brahma tallakṣyamucyate | apramattena veddhavyaṃ śaravattanmayo bhavet ‖*) (Mu. U. 2-2-4) **NOTE**
+
+The Praṇava is the bow. The Self is the arrow. Brahman is the target. It must be pierced without heedlessness. One must become one with it, like the arrow. Just as the bow is the cause of the arrow's going and reaching the target, so the Praṇava must be the means by which the arrow called the Self reaches the target called the Imperishable. Thus the nature of the Praṇava as a means of meditation is shown. And further:
+
+यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये संपन्नः । यथा पादोदरस्त्वचा विनिर्मुच्यत एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात्परात्परं पुरिशयं पुरुषमीक्षते ॥ (*yaḥ punaretaṃ trimātreṇomityetenaivākṣareṇa paraṃ puruṣamabhidhyāyīta sa tejasi sūrye saṃpannaḥ | yathā pādodarastvacā vinirmucyata evaṃ ha vai sa pāpmanā vinirmuktaḥ sa sāmabhirunnīyate brahmalokaṃ sa etasmājjīvaghanātparātparaṃ puriśayaṃ puruṣamīkṣate ‖*) (Praśna. U. 5-5) **NOTE**
+
+The man who meditates on the Supreme Person with the help of the three mātrās a, u, m — which are the parts of the Praṇava and which also denote the three worlds Bhūḥ, Bhuvaḥ, Svaḥ, the parts of the Gāyatrī — attains union with the radiance of Āditya. As a serpent casts off its slough and becomes clean, such a worshipper too wholly casts off his sin and becomes pure. He is carried to the world of Brahman by means of the Sāman chant. He obtains the vision of the Supreme Self, who is higher than the whole mass of conscious living beings and dwells within the heart. And the fruit of this meditation is:
+
+तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्नोन्यसक्ता अनविप्रयुक्ताः । क्रियासु बाह्याभ्यंतरमध्यमासु सम्यक्प्रयुक्तासु न कंपते ज्ञः ॥ (*tisro mātrā mṛtyumatyaḥ prayuktā annonyasaktā anaviprayuktāḥ | kriyāsu bāhyābhyaṃtaramadhyamāsu samyakprayuktāsu na kaṃpate jñaḥ ‖*) (Pra. U. 5-6) **NOTE**
+
+If these three mātrās are separated and used without relation of one to another, they become destructive. If, in all the bodily actions of man — external, internal and intermediate — one worships by joining them all together so as to bring them into harmony, and obtains their power for all one's dealings, then the man, fearing nothing in any circumstance, remains unshaken.
+
+ऋग्भिरेतं यजुर्भिरंतरिक्षं सामभिर्यत्तत्कवयो वेदयंते । तमोंकारेणैवायतनेनान्वेति विद्वान्यत्तच्छांतमजरममृतभयं परं चेति॥ (*ṛgbhiretaṃ yajurbhiraṃtarikṣaṃ sāmabhiryattatkavayo vedayaṃte | tamoṃkāreṇaivāyatanenānveti vidvānyattacchāṃtamajaramamṛtabhayaṃ paraṃ ceti‖*) (Pra. U. 5-7)
+
+### Printed p. 619
+
+The man who worships in this manner obtains this world by the Ṛks, the atmosphere by the Yajus, and by the Sāmans the world of Āditya which the seers perceive. And further, with the help of Oṃkāra, which is the synthesis of all these, he realises the principle that is tranquil, free from old age, free from death, free from fear and higher than the highest.
+
+By these descriptions and explanations above, the common nature of the Gāyatrī and the Praṇava has been indicated. Although the order of utterance in time states that, from the practical standpoint, the Praṇava comes first and the Gāyatrī afterwards, the nature and power of the Praṇava are indeed the nature and power of the Gāyatrī.
+
+**26. The Praṇava and the Gāyatrī are both forms of Brahman; the fruit of worshipping Brahman in the form of the Vyāhṛtis Bhūḥ, Bhuvaḥ, Suvaḥ, Mahaḥ.**
+
+If these two, which are direct means to the realisation of Brahman, are said to be forms of Brahman, then it becomes necessary at once to examine such matters as: what are the Vyāhṛtis, which are worldly divisions of the Brahman indicated as Savitṛ and which are parts common to the Praṇava and the Gāyatrī; how many are their divisions; and what is the nature of the Vyāhṛtis as aids to meditation that is of the nature of the Praṇava and of the Gāyatrī. It was stated above that the Maitrī Upaniṣad explains the letters a, u, m of the Praṇava as masculine, feminine and neuter, and in other ways. Similar divisions are given, somewhat differently, in the Taittirīya Upaniṣad also. The divisions in the Taittirīya Upaniṣad have gained great importance from the standpoint of spiritual knowledge and of worship. Śaṅkarācārya too has given these divisions great prominence from the standpoint of worship and explained them at length. The divisions are given thus in the Taittirīya:
+
+अनंतरं व्याहृत्यात्मनो ब्रह्मणः अंतरुपासनं स्वाराज्यफलं प्रस्तुयते (*anaṃtaraṃ vyāhṛtyātmano brahmaṇaḥ aṃtarupāsanaṃ svārājyaphalaṃ prastuyate*) (Tai. U. Śa. Bhā. 1-5) **NOTE**
+
+Having stated that worship concerning the Saṃhitās also is a means to knowledge, Śaṅkarācārya says in his introduction to the worship of Brahman through the Vyāhṛtis that the method is now stated of worshipping inwardly the Brahman in the form of the Vyāhṛtis, which gives the fruit called svārājya. Its order is as follows—
+
+### Printed p. 620
+
+भूर्भुवः सुवरिति वा एतास्तिस्रो व्याहृतयः । तासा मुहस्मै तां चतुर्थीं। माहाचमस्यः प्रवेदयते । मह इति । तत् ब्रह्म । स आत्मा । अंगान्यन्या देवताः । भूरिति वा अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्येन वाव सर्वॆ लोका महीयंते । भूरिति ना अग्निः । भुव इति वायुः । सुवरित्यादित्यः । मह इति चंद्रमाः । चंद्रमसा वाव सर्वाणि ज्योतिर्गंषि महीयंते । भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूगंषि । मह इति ब्रह्म । ब्रह्मणा वाव सर्वे वेदा महीयंते । भूरिति वै प्राणः । भुव इत्यपानः । सुवरिति व्यानः । मह इत्यन्नं । अन्नेन वाव सर्वॆ प्राणा महीयंते । ता वा एताश्चतस्रश्चतुर्धा। चितस्रश्चतस्रो व्याहृतयः । ता यो वेद । स वेद ब्रह्म । सर्वेऽस्मै देवा बलिमावहंति ॥ (*bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ | tāsā muhasmai tāṃ caturthīṃ| māhācamasyaḥ pravedayate | maha iti | tat brahma | sa ātmā | aṃgānyanyā devatāḥ | bhūriti vā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | ādityena vāva sarvè lokā mahīyaṃte | bhūriti nā agniḥ | bhuva iti vāyuḥ | suvarityādityaḥ | maha iti caṃdramāḥ | caṃdramasā vāva sarvāṇi jyotirgaṃṣi mahīyaṃte | bhūriti vā ṛcaḥ | bhuva iti sāmāni | suvariti yajūgaṃṣi | maha iti brahma | brahmaṇā vāva sarve vedā mahīyaṃte | bhūriti vai prāṇaḥ | bhuva ityapānaḥ | suvariti vyānaḥ | maha ityannaṃ | annena vāva sarvè prāṇā mahīyaṃte | tā vā etāścatasraścaturdhā| citasraścatasro vyāhṛtayaḥ | tā yo veda | sa veda brahma | sarve 'smai devā balimāvahaṃti ‖*) (Kṛ. U. 1-5) **NOTE**
+
+The three Vyāhṛtis Bhūḥ, Bhuvaḥ, Suvaḥ, which are limbs, are the three; the fourth Vyāhṛti, Mahaḥ, was made known by Māhācamasya. (ऋष्यनुस्मरणमपि उपासनांगं (*ṛṣyanusmaraṇamapi upāsanāṃgaṃ*) — remembering the seer's name is also a limb of worship.) This Vyāhṛti, bearing the name Mahaḥ, is the great Brahman. It is the all-pervading Self. All the rest are its limbs.
+
+इतराश्च वाहृतयो लोकाः देवाः वेदाः प्राणाश्च महः इत्यनेन व्याहृत्यात्मना आदित्यचंद्रब्रह्मान्नभूतेन वाप्यंते यतः ॥ (*itarāśca vāhṛtayo lokāḥ devāḥ vedāḥ prāṇāśca mahaḥ ityanena vyāhṛtyātmanā ādityacaṃdrabrahmānnabhūtena vāpyaṃte yataḥ ‖*) (Śa. Bhā.) **NOTE**
+
+All the worlds beginning with Bhūḥ, the gods, the Vedas and the vital airs are pervaded by the Self in the form of the great Vyāhṛti, which has the forms of the sun, the moon, Brahman and food, called Mahaḥ. Therefore all of them are limbs of this Self called Mahaḥ. In the statement अंगान्यन्या देवताः (*aṃgānyanyā devatāḥ*), the word "deities" is used as an indicator; all worldly beings pervaded by the Self are included in it. The order of the division ता वा एताश्च तस्रश्चतुर्धा (*tā vā etāśca tasraścaturdhā*) is as follows—
+
+(1) Bhūḥ is this world. Bhuvaḥ is the atmosphere. Suvaḥ is the world of heaven. Mahaḥ is Āditya. By Āditya all the worlds become great. This is the Supreme Brahman, the inner controller of all.
+
+(2) Bhūḥ is Agni, Bhuvaḥ is Vāyu, Suvaḥ is Āditya. Mahaḥ is the moon. By the moon all the lights become great. (It was stated earlier, in Sūkta 1-164, that this moon-world is beyond the world of Āditya and does not mean the familiar disc of the moon.
+
+### Printed p. 621
+
+(3) Bhūḥ is the Ṛks. Bhuvaḥ is the Sāmans. Suvaḥ is the Yajus texts. Mahaḥ is Brahman; by Brahman all become great.
+
+(4) In the fourth division, Bhūḥ is prāṇa, Bhuvaḥ is apāna, Suvaḥ is vyāna, and Mahaḥ is food. Food is the cause of the greatness of all the vital airs.
+
+Thus each of them is of four kinds. He who knows their nature fully is as one who has known the complete Brahman. All the gods serve him and offer him tribute.
+
+The method of worship, which is the means to the realisation of the Supreme Brahman — of that form of Brahman explained above, in which all the other deities named Bhūḥ, Bhuvaḥ, Suvaḥ are limbs of the Brahman known as Mahaḥ — is also stated in the Taittirīya thus:
+
+स य एषोंतर्हृदय आकाशः । तस्मिन्नयं पुरुषो मनोमयः । अमृतो हिरण्मयः । अंतरेण तालुके । य एषस्तन इवावलंबते । सेंद्रयोनिः । यत्रासौ केशांतो विवर्तते । व्यपोह्य शीर्षकपाले । भूरित्यग्नौ प्रतितिष्ठति । भुव इति वायौ । सुवरित्यादित्ये । मह इति ब्रह्मणि । अप्पोति स्वाराज्यं । अप्पोति मनसस्पतिं । वाक्पतिश्चक्षुष्पतिः । श्रोत्रपतिर्विज्ञानपतिः । एतत्ततो भवति । आकाशशरीरं ब्रह्म । सत्यात्मप्राणारावं मन आनंदं शांतिसमृद्धममृतं । इति प्राचीनयोगोपास्त्व ॥ (*sa ya eṣoṃtarhṛdaya ākāśaḥ | tasminnayaṃ puruṣo manomayaḥ | amṛto hiraṇmayaḥ | aṃtareṇa tāluke | ya eṣastana ivāvalaṃbate | seṃdrayoniḥ | yatrāsau keśāṃto vivartate | vyapohya śīrṣakapāle | bhūrityagnau pratitiṣṭhati | bhuva iti vāyau | suvarityāditye | maha iti brahmaṇi | appoti svārājyaṃ | appoti manasaspatiṃ | vākpatiścakṣuṣpatiḥ | śrotrapatirvijñānapatiḥ | etattato bhavati | ākāśaśarīraṃ brahma | satyātmaprāṇārāvaṃ mana ānaṃdaṃ śāṃtisamṛddhamamṛtaṃ | iti prācīnayogopāstva ‖*) (Kṛ. U. 1-6) **NOTE**
+
+In the space within the heart there is a Person, consisting of mind, immortal, golden. What hangs between the two jaws like a breast, where the ends of the hair part in two, is the womb of Indra. The worshipper is established in Agni called Bhūḥ, in Vāyu called Bhuvaḥ, in Āditya called Suvaḥ, in Brahman called Mahaḥ. He obtains svārājya. He becomes lord of the mind. He becomes lord of the speech organs, of the eyes, of the ears, and of the faculties of knowledge. Beyond that, he is established in Brahman, whose body is space, who is the Self of all, who delights in the vital airs, whose mind is bliss, who is rich in peace and immortal, and he becomes of the form of Brahman itself.
+
+तेषु आत्मभावेन स्थित्वा आप्नोति ब्रह्मभूतः स्वाराज्यं स्वराड्भावं । स्वयमेव राजा अधिपतिर्भवति अंगभूतानां देवानां यथाब्रह्म ॥ (*teṣu ātmabhāvena sthitvā āpnoti brahmabhūtaḥ svārājyaṃ svarāḍbhāvaṃ | svayameva rājā adhipatirbhavati aṃgabhūtānāṃ devānāṃ yathābrahma ‖*) (Śa. Bhā.)
+
 ---
 
-**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
+**Progress note:** Done through printed p. 621. pp. 616-621 (batch API)
