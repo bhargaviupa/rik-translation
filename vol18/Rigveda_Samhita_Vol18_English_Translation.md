@@ -31184,6 +31184,299 @@ O Agni, bring to us, the praisers, new (navāḥ)—or praiseworthy—and well-s
 
 O Agni, provide to us, the praisers, new and excellent dwellings and foods. May we, who worship you in every sacrificial house, having chosen you as divine messenger, be happy. O Agni, bring foods to us who praise you.
 
+### Printed p. 827
+
+##### English translation (H. H. Wilson)
+Grant, Agni, to us who praise you, new dwellings, and (abundant) food : may we be those who worship you, having you for a messanger (to the gods) in every house : bring, Agni, food to your adorers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे सु॑श्चंद्र स॒र्पिषो॒ दर्वी॑ श्रीणीष आ॒सनि॑ ।  
+> उ॒तो न॒ उत्पु॑पूर्या उ॒क्षेषु॑ शवसस्पत॒ इषं॑ स्तो॒तृभ्य॒  ॑
+> आ भर ॥ ९ ॥
+
+> *ubhe suścaṃdra sarpiṣo darvī śrīṇīṣa āsani |*  
+> *uto na utpupūryā ukṣeṣu śavasaspata iṣaṃ stotṛbhya*  
+> *ā bhara ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । सुचंद्र । सर्पिषः । दर्वी इति । श्रीणीषे । आसनि ।  
+> उतो इति । नः । उत् । पुपूर्याः । उक्षेषु । शवसः । पते । इषं । स्तोतृभ्यः ।  
+> आ । भर ॥ ९ ॥
+
+> *ubhe iti | sucaṃdra | sarpiṣaḥ | darvī iti | śrīṇīṣe | āsani |*  
+> *uto iti | naḥ | ut | pupūryāḥ | ukṣeṣu | śavasaḥ | pate | iṣaṃ | stotṛbhyaḥ |*  
+> *ā | bhara ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने वैकल्पिकस्तोत्रियतृच उभे सुच्चंद्रेत्येषा तृतीया । सूत्रमुक्तं ॥
+> हे सुश्चंद्र शोभनाह्लादन शोभनहिरण्य वाग्ने उभे सर्पिषः पूर्णे दर्वी
+> जुहूपभृतावासन्यास्ये श्रीणीषे । श्रयसि पचसि वा। उतो अपि च नोऽस्मानुक्थेषु
+> यागेषूत्पुपूर्याः । उत्सूरय फलैः । हे शवसस्पते बलस्य पालयितः ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava ukthya rites, at the third pressing, this is the third verse, beginning उभे सुच्चंद्र (*ubhe succaṃdra*), of the optional stotriya tṛca. The sūtra has been stated. "O Sucandra", of beautiful delight or beautiful gold, Agni, you receive in your mouth (āsani) both ladles, the juhū and the upabhṛt, full of ghee (śrīṇīṣe means "you cook" or "you mature"). And you also should fill us up (utpupūryāḥ) with their fruits at the uktha sacrifices. O Śavasaspati, protector of strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुश्चंद्र (*suścaṃdra*)—O Agni, the giver of delight
+- सर्पिषः (*sarpiṣaḥ*)—filled with ghee
+- उभे दर्वी (*ubhe darvī*)—both ladles
+- आसनि (*āsani*)—in your mouth
+- श्रीणीषे (*śrīṇīṣe*)—you receive
+- उत (*uta*)—and
+- शवसस्पते (*śavasaspate*)—O Agni, protector of strength
+- नः (*naḥ*)—us
+- उक्षेषु (*ukṣeṣu*)—at the sacrifices
+- उत्पुपूर्याः (*utpupūryāḥ*)—fill us full with fruits
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- इषः (*iṣaḥ*)—food
+- आ भर (*ā bhara*)—bring
+
+### Printed p. 828
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of delight, with your mouth you receive the two ladle-vessels filled with ghee. And O Agni, protector of strength, make us rich in prosperity through the fruits of the sacrifice. Bring food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+Giver of delight, you receive:into your mouth the two ladles (full)
+of butter ; so may:you fulfil (our desires), lord of strength, at our solemn
+rites : bring, Agni, food to your adorers.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the third pressing of the Ukthya sacrifice connected with the Abhiplava, this Ṛk उभे सुश्चंद्र (*ubhe suścaṃdra*) is to be recited as the third Ṛk of the optional stotriya tṛca. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra आ ते अग्न इधीमह्युभे सुश्चंद्र सर्पिष इति द्वे एका च (*ā te agna idhīmahyubhe suścaṃdra sarpiṣa iti dve ekā ca*) (Ā. 7-8). (See the notes on the 4th Ṛk of this sūkta.)
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा अ॒ग्नि म॑जुर्यमुर्गी॒र्भर्य॒ज्ञेभि॑रानु॒षक् ।  
+> दध॑द॒स्मे सु॒वीर्य॑मु॒त त्यदा॒श्वश्व॒मिषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
+
+> *evā agni majuryamurgīrbharyajñebhirānuṣak |*  
+> *dadhadasme suvīryamuta tyadāśvaśvamiṣaṃ stotṛbhya ā bhara ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । अग्निं । अजुर्यमुः । गीर्भिः । यज्ञेभिः । आनुषक् ।  
+> दधत् । अस्मे इति । सुवीर्यं । उत । त्यत् । आशुअश्वं । इषं । स्तोतृभ्य ।  
+> आ । भर ॥ १० ॥
+
+> *eva | agniṃ | ajuryamuḥ | gīrbhiḥ | yajñebhiḥ | ānuṣak |*  
+> *dadhat | asme iti | suvīryaṃ | uta | tyat | āśuaśvaṃ | iṣaṃ | stotṛbhya |*  
+> *ā | bhara ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवोक्तरीत्याग्निं गीर्भिः स्तुतिभिर्यज्ञेभिर्यज्ञैर्वा तत्साधनैर्हविर्भिर्वा
+> नुषगनुषक्तमजुः । गच्छंति । तथा कृत्वा यमुः । यमयंति । स्थापयंति ।
+> हविर्भिर्यजंतीत्यर्थः । एवमात्रेयाः स्वान्परोक्षतया निर्दिशंति ॥ अजुर्यमुरि-
+
+##### Gist of the bhāṣya
+
+In the manner stated above, the priests have approached Agni continuously (ānuṣak, "in unbroken succession") with praises (gīrbhiḥ) and with sacrifices (yajñebhiḥ), that is, with the oblations that are their means. They go (ajuḥ), and having done so they establish (yamuḥ, "they restrain, they settle"); the meaning is that they sacrifice with oblations. In this way the Ātreyas refer to themselves indirectly, in the third person.
+
+### Printed p. 829
+
+> त्यत्राख्यातमाख्यातेन क्रियासातत्य इति समासः ॥ किंच अस्मे अस्मासु सुवीर्यं
+> शोभनपुत्रादिकमुतापि च त्यत्तदाश्वश्वं । आशवोऽश्वा यस्य भवंति स आश्वश्वः । तस्य
+> भाव आश्वश्वं । तदपि दधत् । धारयति ॥
+
+##### Gist of the bhāṣya
+
+In अजुर्यमुः (*ajuryamuḥ*) the finite verb is joined with a finite verb in the sense of continuity of action, so he explains it as a compound. Further: in us (asme) he places good heroism (suvīryam), that is, good sons and the like; and also that "āśvaśvam": he whose horses are swift is āśvaśva, and its state is āśvaśvam. That too he bears (dadhat, "he holds").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—in the manner stated above (the priests and others)
+- अग्निं (*agniṃ*)—Agni
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- यज्ञेभिः (*yajñebhiḥ*)—with the means of sacrifice
+- आनुषक् (*ānuṣak*)—continuously
+- अजुः (*ajuḥ*)—have approached
+- यमुः (*yamuḥ*)—have worshipped with sacrifices and the like
+- अस्मे (*asme*)—for us
+- सुवीर्यं (*suvīryaṃ*)—possessed of excellent strength, with sons and the like
+- उत (*uta*)—and
+- आश्वश्वं (*āśvaśvaṃ*)—endowed with swift-going horses
+- त्यत् (*tyat*)—that wealth
+- दधत् (*dadhat*)—has borne
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner stated above, the priests and others have approached Agni continuously with praises and with the means of sacrifice, and have worshipped him with sacrifices and the like. That same Agni has borne for us wealth that has sons and the like of excellent strength and is joined with swift-going horses. O Agni, bring food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+Thus have they repaired to Agni with praises and with sacrifice successively, and have established (the manner of his worship); and he has given us male descendants, and wealth of fleet horses: bring, Agni food to your adorers.
+
+## Sūkta 7 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखायः सं व इति दशर्चं सप्तमं सूक्तं । आत्रेय इष ऋषिः । अंत्या
+> पंक्तिः शिष्टाः पंक्त्यंतपरिभाषयानुष्टुभः । तथा चानुक्रांतं । सखाय इषः
+> पंक्त्यंतमिति ॥ प्रातरनुवाक आग्नेये क्रतावानुष्टुभे च्छंदस्याश्विनशस्त्रे चोत्तमावर्जमिदं सूक्तं । सूत्रितं च । सखायः सं वस्त्वामग्ने हविष्मंत इति सूक्ते ।
+> आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, of ten Ṛks, begins सखायः सं वः (*sakhāyaḥ saṃ vaḥ*). Iṣa Ātreya is the seer. The last verse is a paṅkti; the remaining ones are anuṣṭubh by the rule of the paṅkti-ending. So the Anukramaṇī says: सखाय इषः पंक्त्यंतमिति (*sakhāya iṣaḥ paṃktyaṃtamiti*). In the Prātaranuvāka, in the Āgneya rite, in the anuṣṭubh metre, and in the Aśvina-śastra, this sūkta is used except for the last verse. And it is stated in the sūtra सखायः सं वस्त्वामग्ने हविष्मंत इति सूक्ते (*sakhāyaḥ saṃ vastvāmagne haviṣmaṃta iti sūkte*) (Ā. 4-13).
+
+### Printed p. 830
+
+Anuvāda: This sūkta सखायः सं वः (*sakhāyaḥ saṃ vaḥ*) is the seventh sūkta in the first anuvāka. It has ten Ṛks. Its seer is Iṣa, born in the Atri line; the deity is Agni; the last Ṛk of this sūkta is in the paṅkti metre and the remaining Ṛks are in the anuṣṭubh metre. In the Anukramaṇī it is said: सखाय इषः पक्त्यंतं (*sakhāya iṣaḥ paktyaṃtaṃ*). At the time of reciting the mantras of the Prātaranuvāka, this sūkta, except its last Ṛk, is employed for the Ṛks in the anuṣṭubh metre connected with the Āgneya rite. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra सखायः सं वस्त्वामग्ने हविष्मंत इति सूक्ते (*sakhāyaḥ saṃ vastvāmagne haviṣmaṃta iti sūkte*) (Ā. 4-13).
+
+Particulars:
+- Maṇḍala 5; Anuvāka 1; Sūkta 7.
+- Aṣṭaka 3; Adhyāya 8; Vargas 24, 25.
+- Number of Ṛks in the sūkta: 10.
+- Ṛṣi: Iṣa Ātreya.
+- Devatā: Agni.
+- Metre: Ṛks 1–9 anuṣṭubh; Ṛk 10 paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑यः॒ सं वः॑ स॒म्यंच॒मिषं॒ स्तोमं॑ चा॒ग्नये॑ ।  
+> वर्षि॑ष्ठाय क्षिती॒नामू॒र्जो नप्रे॒ सह॑स्वते ॥ १ ॥
+
+> *sakhāyaḥ saṃ vaḥ samyaṃcamiṣaṃ stomaṃ cāgnaye |*  
+> *varṣiṣṭhāya kṣitīnāmūrjo napre sahasvate ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । सं । वः । सम्यंचं । इषं । स्तोमं । च । अग्नये ॥  
+> वर्षिष्ठाय । क्षितीनां । ऊर्जः । नप्रे । सहस्वते ॥ १ ॥
+
+> *sakhāyaḥ | saṃ | vaḥ | samyaṃcaṃ | iṣaṃ | stomaṃ | ca | agnaye ‖*  
+> *varṣiṣṭhāya | kṣitīnāṃ | ūrjaḥ | napre | sahasvate ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः सखिभूता ऋत्विजो वो यूयं संस्कुरुत । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । किंच सम्यंचमिषमन्नं स्तोमं स्तोत्रं चाग्नये
+> वर्षिष्ठायातिशयेन प्रवृद्धाय क्षितीनां यजमानानामर्थाय वर्षिष्टाय
+> प्रवृद्धतमायोर्जो नष्टे बलस्य न पातयित्रे तत्पुत्राय वा सहस्वते बलवते
+> संस्कुरुतेति ॥
+
+##### Gist of the bhāṣya
+
+"O friends", you priests who are as friends, prepare (saṃskuruta). The verb suitable to the preposition heard (saṃ) is supplied. Further, prepare for Agni the fitting food (iṣam) and the praise (stoma, stotra): for Agni, who is the most grown (varṣiṣṭha), most extremely increased, for the sake of the kṣitis, that is, the sacrificers; the most grown; for him who is "ūrjo napre", the one who does not make strength fall, or for his son; for the mighty (sahasvate), the strong one. Prepare thus. **NOTE**
+
+### Printed p. 831
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests who are as friends
+- क्षितीनां (*kṣitīnāṃ*)—for the sacrificers and others
+- वर्षिष्टाय (*varṣiṣṭāya*)—him who attains growth
+- ऊर्जो नप्रे (*ūrjo napre*)—the son of strength
+- सहस्वते (*sahasvate*)—the powerful one
+- अग्नये (*agnaye*)—addressing Agni
+- वः (*vaḥ*)—you
+- सम्यंचं (*samyaṃcaṃ*)—complete, in keeping with that
+- इषं (*iṣaṃ*)—food
+- स्तोमं च (*stomaṃ ca*)—and praise
+- सं (*saṃ*)—prepare and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O priests who are as friends, addressing Agni, who attains growth for the welfare of the sacrificers and others, the son of strength, the powerful one, procure and offer food that is fitting and well prepared, and praise.
+
+##### English translation (H. H. Wilson)
+Friends, offer fitting praise and food to Agni, the most liberal
+benefactor of men, the powerful son of strength.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुत्रा॑ चि॒द्यस्य॒ समृ॑तौ र॒ण्वा नरो॑ नृ॒षद॑ने ।  
+> अर्हं॑तश्चि॒द्यमिं॑ध॒ते सं॑ज॒नयं॑ति जं॒तवः॑ ॥ २ ॥
+
+> *kutrā cidyasya samṛtau raṇvā naro nṛṣadane |*  
+> *arhaṃtaścidyamiṃdhate saṃjanayaṃti jaṃtavaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुत्र । चित् । यस्य । संऋतौ । रण्वाः । नरः । नृसदने ॥  
+> अर्हंतः । चित् । यं । इंधते । संजनयंति । जंतवः ॥ २ ॥
+
+> *kutra | cit | yasya | saṃṛtau | raṇvāḥ | naraḥ | nṛsadane ‖*  
+> *arhaṃtaḥ | cit | yaṃ | iṃdhate | saṃjanayaṃti | jaṃtavaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः कुत्र चिद्वर्तत इति शेषः । कुत्रास्ते । यस्याग्नेः समृतौ संप्राप्तौ
+> रण्वा रममाणा नरो नेतार ऋत्विजः । नृषदने यागगृहेऽर्हंतश्चित् । चिदिति
+> पूजायां । अर्हंतः पूज्याः पूजयंतो वा संतो यमिंधते । दीपयंति ।
+> तदर्थं संजनयंति चारण्यां जंतवः प्राणिनः । स कुत्रॆति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"That Agni is somewhere": the verb "is" is the remainder to be supplied. Where is he? Of which Agni, on his arrival (samṛtau, "in coming together"), the leaders (naraḥ), the priests, rejoicing (raṇvāḥ), in the hall of sacrifice (nṛṣadane), that is, the sacrificial house, are "arhantaḥ cit". Here cit is in the sense of worship; being worthy, or worshipping, they kindle (indhate, "they make blaze") whom; and for that purpose living beings (jantavaḥ), creatures, also generate him in the araṇi. The connection is: where is he?
+
+### Printed p. 832
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Agni
+- समृतौ (*samṛtau*)—at the time of arrival
+- रण्वाः (*raṇvāḥ*)—those who rejoice
+- नरः (*naraḥ*)—the leaders, the priests and others
+- नृषदने (*nṛṣadane*)—in the sacrificial house
+- अर्हंतश्चित् (*arhaṃtaścit*)—worshipping
+- यं (*yaṃ*)—which god
+- जंतवः (*jaṃtavaḥ*)—living beings (men)
+- संजनयंति (*saṃjanayaṃti*)—whom they cause to be born (that god Agni)
+- कुत्र चित् (*kutra cit*)—where is he?
+
+##### भावार्थ (Bhāvārtha)
+
+Where is that god Agni, on whose arrival the priests and others, who rejoice and are leaders, worship in the sacrificial house and make him blaze, and whom all men cause to be born?
+
+##### English translation (H. H. Wilson)
+Where is (the deity) upon whose presence the rejoicing conductors
+(of the ceremony) are offering homage in the hall of sacrifice, (he) whom
+they kindle, and living beings generate.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यदि॒षो वना॑महे॒ सं ह॒व्या मानु॑षाणां ।  
+> उ॒त द्यु॒म्नस्य॒ शव॑स ऋ॒तस्य॑ र॒श्मिमा द॑दे ॥ ३ ॥
+
+> *saṃ yadiṣo vanāmahe saṃ havyā mānuṣāṇāṃ |*  
+> *uta dyumnasya śavasa ṛtasya raśmimā dade ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । इषः । वनामहे । सं । हव्या । मानुषाणां ।  
+> उत । द्युम्नस्य । शवसा । ऋतस्य । रश्मिं । आ । ददे ॥ ३ ॥
+
+> *saṃ | yat | iṣaḥ | vanāmahe | saṃ | havyā | mānuṣāṇāṃ |*  
+> *uta | dyumnasya | śavasā | ṛtasya | raśmiṃ | ā | dade ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदेषोऽन्नानि सं वनामहे । संभजामहे । यदा च मानुषाणामस्माकं हव्या हवींष्यग्निः संसेवते तव तदानीं द्युम्नस्य द्योतमानस्यान्नस्य
+> शवसा बलेन सामर्थ्येन ऋतस्योदकस्य ग्राहकं रश्मिमा ददे । आदत्तेऽग्निः ।
+
+##### Gist of the bhāṣya
+
+When we win and enjoy foods (iṣaḥ, "we share them"), and when Agni partakes of the oblations of us men, then, by the strength, the power, of the shining food (dyumna), I take the ray (raśmi) that grasps the water (ṛta, "water"). Agni takes. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 826. pp. 821-826 (batch API)
+**Progress note:** Done through printed p. 832. pp. 827-832 (batch API)
