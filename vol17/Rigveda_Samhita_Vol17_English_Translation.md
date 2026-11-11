@@ -14024,6 +14024,196 @@ There are contexts where parvata is understood as a particular luminous deity. F
 
 In all such places the parvatas too are prayed to for favour along with deities such as Indra and Mitra; it is prayed that the mountains be pleasant to us. In such contexts Sāyaṇa explains: पर्वतान् अद्रीन् इत्येतान् देवान् । (*parvatān adrīn ityetān devān |*) the deities called parvata are joined with Indra and the other deities and prayed to for our protection. But in places such as न पर्वता न नद्यः (*na parvatā na nadyaḥ*) (Ṛ. Saṃ. 5-55-7) he explains it as the earthly mountain. In contexts such as ध्रुवा ह पर्वता इमे (*dhruvā ha parvatā ime*) (Tai. Brā. 2-4-28) and पर्वत इवाविचाचलिः (*parvata ivāvicācaliḥ*) (Ṛ. Saṃ. 10-173-2), too, the simile is of the earthly mountain, firmly established.
 
+### Printed p. 412
+In the verse under discussion, the comparisons beginning with धारा इव (*dhārā iva*) support the meaning "cloud" itself.
+
+विश्वजन्या (*viśvajanyā*)—beneficial to all people. It is an adjective of the word सुमतिं (*sumatiṃ*), "excellent understanding": an understanding that brings welfare to everyone. The word जन्य (*janya*) is used in three senses. First, formed from the root जन् (*jan*), it means "fit for birth"; this is the conventional sense. In passages such as पात्पतिर्जन्यादंहसो नो मित्रः (*pātpatirjanyādaṃhaso no mitraḥ*) (4-55-5) the word जन्य (*janya*) denotes what is connected with people; the prayer there is "free us from the sin connected with people". Besides this, जन्य (*janya*) denotes what is beneficial to people. In contexts such as जनंजनं जन्यो नातिमन्यते (*janaṃjanaṃ janyo nātimanyate*) (10-91-2), जन्य (*janya*) means "beneficial to people". The same meaning must be stated for विश्वजन्यां (*viśvajanyāṃ*).
+
+स आ यजस्व नृवतीरनु क्षाः स्वार्हा इषः क्षुमतीर्विश्वदन्याः ॥ (*sa ā yajasva nṛvatīranu kṣāḥ svārhā iṣaḥ kṣumatīrviśvadanyāḥ ‖*) (Ṛ. Saṃ. 10-2-6)
+
+The sense is: offer to the gods food that is a means to the welfare of all people. In the same way, in the present verse too the purport of the word विश्वजन्य (*viśvajanya*) must be stated as "what brings welfare to all people".
+
+विश्वजन्यां सुमतिं (*viśvajanyāṃ sumatiṃ*)—in the prayer "grant a good understanding that brings welfare to all", a vision of the welfare of the world is indicated: not looking only to one's own selfish good, but that the whole world may find well-being.
+
+## Sūkta 58 (Maṇḍala 3)
+
+> धेनुः प्रत्नस्येति नवर्चं पंचमं सूक्तं वैश्वामित्रं त्रिष्टुभमाश्विनं । तथा
+> चानुक्रांतं । धेनुर्नवाश्विनमिति ॥ प्रातरनुवाक आश्विनक्रत् त्रिष्टुभे छंदस्याश्विन
+> शस्त्रे चास्य सूक्तस्य विनियोगः । सूत्रितं च । धेनु: प्रत्नस्य क उ श्रवदिति सूक्ते ।
+> आ. ४-१५ । इति ॥ व्यूक्षे दशरात्रे द्वितीये छंदोमे प्रउगशस्त्रेयमाश्विनश्च
+> तुर्थस्तृचः । द्वितीयस्याग्निं व इति खंडे सूत्रितं । धेनुः प्रत्नस्य काम्यं दुहाना
+> ब्रह्माण इंद्रोप याहि विद्वान् । आ. ८-१० । इति ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning धेनुः प्रत्नस्य (*dhenuḥ pratnasya*) is the fifth sūkta, of nine verses. Its seer is Viśvāmitra, its deity the Aśvins, its metre Triṣṭubh. The Anukramaṇī says धेनुर्नवाश्विनमिति (*dhenurnavāśvinamiti*). The sūkta is applied in the Prātaranuvāka, in the Āśvina-kratu, to the Āśvina-śastra in the Triṣṭubh metre. The sūtra says: धेनु: प्रत्नस्य क उ श्रवदिति सूक्ते (*dhenu: pratnasya ka u śravaditi sūkte*) (Ā. Sū. 4-15). Further, in the Vyūḍha Daśarātra, in the second Chandoma, in the Prauga-śastra, the fourth tṛca (set of three verses) is the Āśvina one; the sūtra in the khaṇḍa beginning द्वितीयस्याग्निं व (*dvitīyasyāgniṃ va*) reads धेनुः प्रत्नस्य काम्यं दुहाना ब्रह्माण इंद्रोप याहि विद्वान् (*dhenuḥ pratnasya kāmyaṃ duhānā brahmāṇa iṃdropa yāhi vidvān*) (Ā. Sū. 8-10).
+
+##### Anuvāda
+
+This sūkta beginning धेनुः प्रत्नस्य (*dhenuḥ pratnasya*) is the fifth sūkta in the fifth anuvāka. It has nine ṛks. Viśvāmitra is its seer; the Aśvins are its deity; Triṣṭubh is its metre. In the Anukramaṇī it is described as धेनुर्नवाश्विनं (*dhenurnavāśvinaṃ*). At the time of reciting the mantras of the Prātaranuvāka, this sūkta is applied to the Āśvina-śastra mantras in the Triṣṭubh metre belonging to the Āśvina-kratu; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra धेनुः प्रत्नस्य क उ श्रवदिति सूक्ते (*dhenuḥ pratnasya ka u śravaditi sūkte*) (Ā. 4-15). And in the Daśarātra sacrifice called Vyūḍha, in the second Chandoma, among the Prauga-śastra mantras, the first three ṛks of this sūkta are applied to the fourth tṛca (tṛca means three ṛks), which has the Aśvins as deity; this is set out in the khaṇḍa द्वितीयस्याग्निं व (*dvitīyasyāgniṃ va*) of the Āśvalāyana Śrauta-sūtra by the sūtra धेनुः प्रत्नस्य काम्यं दुहाना ब्रह्माण इंद्रोप याहि विद्वान् (*dhenuḥ pratnasya kāmyaṃ duhānā brahmāṇa iṃdropa yāhi vidvān*) (Ā. 8-10).
+
+Sūkta 58
+Maṇḍala 3 · Anuvāka 5 · Sūkta 58
+Aṣṭaka 3 · Adhyāya 4 · Varga 3, 4
+Number of ṛks in the sūkta: 9
+Seer: Viśvāmitra
+Deity: the Aśvins
+Metre: Triṣṭubh
+
+### Printed p. 413
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धे॒नुः प्र॒त्नस्य॒ काम्यं॒ दुहा॑नां॒तः पु॒त्रश्च॑रति॒ दक्षि॑णायाः ।  
+> आ द्यो॑त॒निं व॑हति शु॒भ्रया॑मो॒षसः॒ स्तोमो॑ अ॒श्विना॑वजीगः॥
+
+> *dhenuḥ pratnasya kāmyaṃ duhānāṃtaḥ putraścarati dakṣiṇāyāḥ |*  
+> *ā dyotaniṃ vahati śubhrayāmoṣasaḥ stomo aśvināvajīgaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धेनुः । प्रत्नस्य । काम्यं । दुहाना । अंतरिति । पुत्रः । च र ति । दक्षिणायाः ।  
+> आ । द्योतनिं । वहति । शुभ्रयामा । उषसः । स्तोमः । अश्विनौ । अजीगरिति ॥ १ ॥
+
+> *dhenuḥ | pratnasya | kāmyaṃ | duhānā | aṃtariti | putraḥ | ca ra ti | dakṣiṇāyāḥ |*  
+> *ā | dyotaniṃ | vahati | śubhrayāmā | uṣasaḥ | stomaḥ | aśvinau | ajīgariti ‖ 1 ‖*
+
+### Printed p. 414
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धेनुः प्रीणयित्रुषाः प्रत्नस्य पुरातनस्याग्नेः काम्यं कमनीयं पयो
+> दुहाना । दोग्द्रि भवति । दक्षिणाया उषसः पुत्रः सूरस्तस्या अंतश्चरति ! उषसोऽनंतरं शुभ्रयामा । सूर्यकिरणसंपर्काच्छुभ्रतया गमनं यस्यासौ शुभ्रयामा दिवसः । द्योतनिं सर्वस्य प्रकाशकं सूर्यमा वहति । बिभर्ति । अत उषसः
+> पुराश्विन् स्तोतुं स्तोमः स्तोत्रकारी होत्रादिरजीगः । जागर्ति । उत्तिष्ठति ॥
+> शुभ्रयामा । या प्रापणे । आतो मनिन् । बहुप्रीहौ पूर्वपदस्वरः । अजीग ।
+> जागृ निद्राक्षये । लजतिष्यदादित्वाच्छपो लुक् । आकारस्येकारश्चांदसः । गुणे कृते
+> हल्ब्यादिना तिपो लोपः ॥
+
+##### Gist of the bhāṣya
+
+धेनुः (*dhenuḥ*) is the one who gratifies, Uṣas. She yields (दुहाना (*duhānā*), a milker) the desirable milk of ancient Agni. The son of the southern Uṣas, the sun, moves within her. After Uṣas comes the "bright-coursed" one (शुभ्रयामा (*śubhrayāmā*)), the day, whose going is bright through contact with the sun's rays. It bears (वहति (*vahati*), "carries") the illuminator of all, the sun. Therefore the praiser (स्तोमः (*stomaḥ*)), the hotṛ and others, wakes (अजीगः (*ajīgaḥ*), "is awake, rises") in order to praise the Aśvins before Uṣas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनुः (*dhenuḥ*)—Uṣas, the goddess who gives joy to the world
+- प्रत्नस्य (*pratnasya*)—for the ancient Agni
+- काम्यं (*kāmyaṃ*)—the desired age (vayas)**NOTE**
+- दुहाना (*duhānā*)—she milks
+- दक्षिणायाः (*dakṣiṇāyāḥ*)—of Uṣas
+- पुत्रः (*putraḥ*)—the son, the sun
+- अंतः (*aṃtaḥ*)—in the atmosphere
+- चरति (*carati*)—he moves
+- शुभ्रयामा (*śubhrayāmā*)—the day lit up by the sun's rays
+- द्योतनिं (*dyotaniṃ*)—the sun, the illuminator of all
+- आ वहति (*ā vahati*)—it bears
+- उषसः (*uṣasaḥ*)—before the appearance of Uṣas
+- अश्विनौ (*aśvinau*)—to praise the Aśvins
+- स्तोमः (*stomaḥ*)—the praiser
+- अजीगः (*ajīgaḥ*)—wakes
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, who gives joy to the world, milks the desired age for ancient Agni. The sun, son of Uṣas, moves in the atmosphere. The day, lit up by the sun's rays, bears the sun, the illuminator of all. Before the appearance of Uṣas the praiser wakes in order to praise the Aśvins.
+
+##### English translation (H. H. Wilson)
+The milch-cow (the dawn) yields the desired milk to the ancient (Agni); the son of the south passes within (the firmament) ; the bright-houred (day) brings the illuminative (sun) : the praiser awakes to (glory) the Ashwins preceding the dawn.
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra describes the relation of Uṣas to the sacrificial fire, how the world is lit by the sun's radiance as soon as Uṣas appears, and also the companionship of Uṣas with the Aśvins. Because Uṣas gives joy to the world, she is denoted by the word धेनु (*dhenu*)
+
+### Printed p. 415
+(cow). The special meaning suggested by the word धेनु (*dhenu*) has been stated earlier. Here the word is used to show the relation between Agni and Uṣas. Or it may be said that just as she is a cause of growth for Agni, so through Agni she is a cause of growth for the world. There is no doubt that the world gets still greater joy from the sight of Uṣas than the calf gets from the sight of the cow. Darkness is destroyed, and not only physical darkness: the darkness of ignorance too is destroyed. Along with the delight that comes from seeing with the eye, delight of the self is also gained. Since she gives satisfaction in many ways, it is quite proper that she is denoted by the word धेनु (*dhenu*). She is also described by the word दक्षिणायाः (*dakṣiṇāyāḥ*). And it is stated here that Āditya is her son; in the same way Agni too can be called her son. How the relation of mother and son holds between Uṣas and Āditya and Agni is also explained in many places.
+
+ऋतवस्तेऽथ यः स भूतानां पतिः संवत्सरः सोऽथ या सोषाः पत्न्यौषसी सा तानीमानि भूतानि च भूतानां च पतिः संवत्सर उषसि रेतोऽसिंचन्त न संवत्सरे कुमारोऽजायत ॥ (*ṛtavaste 'tha yaḥ sa bhūtānāṃ patiḥ saṃvatsaraḥ so 'tha yā soṣāḥ patnyauṣasī sā tānīmāni bhūtāni ca bhūtānāṃ ca patiḥ saṃvatsara uṣasi reto 'siṃcanta na saṃvatsare kumāro 'jāyata ‖*) (Śa. Brā. 6-1-3-8)
+
+The beings created by Prajāpati are the seasons. The lord of beings is the year. Uṣas is his wife. At first this year, lord of beings, and the seasons cast seed in Uṣas. Then a son was born. This boy is the one marked by the name Agni. Varieties of names suited to their natures became known for him. The relation of mother and son between Uṣas and Agni is suggested also in the present verse. In passages such as नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समाची (*naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samācī*) (Ṛ. Saṃ. 1-96-4), where Night and Uṣas together nourish one son common to both, this son may be either Agni or the sun. Through these sons she possesses the power to protect the world and the power to bestow wealth on the world. Therefore she is described by the epithet दक्षिणा (*dakṣiṇā*).
+
+उदु श्रिय उषसो रोचमाना अस्तुरपां नोर्मयो रुशंतः कृणोति विश्वा सुपथा सुगान्यभूदु वस्वी दक्षिणा मघोनी ॥ (*udu śriya uṣaso rocamānā asturapāṃ normayo ruśaṃtaḥ kṛṇoti viśvā supathā sugānyabhūdu vasvī dakṣiṇā maghonī ‖*) (Ṛ. Saṃ. 6-64-1)
+
+As soon as the rays of the radiant Uṣas spread over the universe like a flow of water, the world gets new vitality and becomes a bestower of wealth. For this very reason she is described by the epithets मघोनी (*maghonī*) and दक्षिणा (*dakṣiṇā*). All these points are suggested in the present verse.
+
+### Printed p. 416
+सोमः (*somaḥ*)—this word means "praise". **NOTE**. In some contexts it is also used of the praiser.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒युग्व॑हंति॒ प्रति॑ नामृ॒तेनो॒र्ध्वा भ॑वंति पि॒तरे॑व॒ मेधाः॑।  
+> जरे॑थाम॒स्मद्वि प॒णेर्म॑नी॒षां यु॒वोरव॑श्चकृ॒मा या॑तम॒र्वाक् ॥ २ ॥
+
+> *suyugvahaṃti prati nāmṛtenordhvā bhavaṃti pitareva medhāḥ|*  
+> *jarethāmasmadvi paṇermanīṣāṃ yuvoravaścakṛmā yātamarvāk ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुयुक् । वहंति । प्रति । वां । ऋतेन । ऊर्ध्वाः । भवंति । पितरा इव । मेधाः ।  
+> जरेथां । अस्मत् । वि । पणेः । मनीषां । युवोः । अवः । चकृम । आ । यातं ।  
+> अर्वाक् ॥ २ ॥
+
+> *suyuk | vahaṃti | prati | vāṃ | ṛtena | ūrdhvāḥ | bhavaṃti | pitarā iva | medhāḥ |*  
+> *jarethāṃ | asmat | vi | paṇeḥ | manīṣāṃ | yuvoḥ | avaḥ | cakṛma | ā | yātaṃ |*  
+> *arvāk ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ सुयुक् सुष्टु रथे योजिता अश्वा ऋतेन सत्यभूतेन रथेन वां
+> युवां प्रति वहंति । यज्ञं प्रत्यागमनाय धारयंति । मेधा यज्ञाश्चोर्ध्वा
+> युष्मदभिमुखमूर्ध्वा भवंति । तत्र दृष्टांतः । पितरेव ' यथा पुत्राः पितर मातापितरावभिलक्ष्य गच्छंति तद्वत् । अस्मदस्मत्तः सकाशात्पणेर्मनीषामासुरीं बुद्धिं वि
+> जरेथां । विशेषेण नाशयतं । वयं तु युवोर्युवयोरवो हनिर्लक्षणमन्नं
+> चक्रम । कुर्मः । युवामर्वागस्मादाभिमुख्येना यातं ॥ सुयुक् । युजे
+> क्विप् । सुपां सुलुगिति सुपो लुक् । पितरेव । पिता मात्रेति पितुः शेषः । सुपो
+> डादेशः । जरेथां । ज्ञष वयोहान् । ण्यंतस्य जनीज्यष्ट सुरंजोऽमंताश्वेति
+> मित्त्वाद्वृद्ध्यभावः । छंदस्युभयथेत्याधाम आर्धधातुकत्याणिलोपतः । शपः पिता ;
+> दनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the horses well yoked (सुयुक् (*suyuk*)) to the chariot carry you both (प्रति वहंति (*prati vahaṃti*)) by the chariot that is true (ऋतेन (*ṛtena*), "of the nature of truth"), that is, they bear you to come to the sacrifice. The sacrifices (मेधाः (*medhāḥ*)) turn upward (ऊर्ध्वाः (*ūrdhvāḥ*)) towards you. The illustration: पितरेव (*pitareva*), as sons go towards their parents, mother and father. Utterly destroy (वि जरेथां (*vi jarethāṃ*)) from us the Asura mind (मनीषां (*manīṣāṃ*)) of the niggard (पणेः (*paṇeḥ*)). We, for our part, have made for you both (युवोः (*yuvoḥ*)) food (अवः (*avaḥ*)) in the form of oblation. Come to us, facing us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अश्विनौ (*aśvinau*)—O Aśvins)
+- सुयुक् (*suyuk*)—horses yoked to a fine chariot
+- ऋतेन (*ṛtena*)—in the chariot of the nature of truth
+- वां (*vāṃ*)—you both
+- प्रति वहंति (*prati vahaṃti*)—bring, for coming to the sacrifice
+- मेधाः (*medhāḥ*)—the sacrifices
+- ऊर्ध्वाः (*ūrdhvāḥ*)—facing you
+
+### Printed p. 417
+- पितरेव (*pitareva*)—as children go facing their father
+- भवंति (*bhavaṃti*)—they look to you
+- अस्मत् (*asmat*)—from us
+- पणेः मनीषां (*paṇeḥ manīṣāṃ*)—the understanding connected with the wicked
+- वि जरेथां (*vi jarethāṃ*)—destroy completely
+- युवोः (*yuvoḥ*)—addressing you both
+- अवः (*avaḥ*)—food in the form of oblation
+- चक्रम (*cakrama*)—we have prepared
+- आर्वाक् (*ārvāk*)—facing us
+- आ यातं (*ā yātaṃ*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, horses yoked to a fine chariot bring you both, in the chariot of the nature of truth, to come to the sacrifice. As children stand facing their father, the sacrifices face you. Destroy from us the understanding connected with the wicked. Addressing you both, we have prepared food in the form of oblation. Be gracious and come facing us.
+
+##### English translation (H. H. Wilson)
+The well-yoked (horses) bear you both in your truth (preserving car): the offerings proceed towards you as (children to their parents): discard from us the disposition of the niggard : we have made ready for you our offering : come to our presence.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous mantra the relation of Uṣas to the Aśvins was stated; in the present one the prayer is that the Aśvins come towards the sacrifice. Stating the manner in which they are to come to the sacrifice, the mantra indicates the route of their coming with सुयुक् ऋतेन तां प्रतिवहंति (*suyuk ṛtena tāṃ prativahaṃti*).
+
+Here the word ऋत (*ṛta*) has been explained as "chariot". But that is not its direct meaning: the word ऋत (*ṛta*) is first taken as "truth", and then it is explained as "of the nature of truth", with the construction with "in the chariot" or "on the chariot-way". As described in mantras such as
+
+नृवद्दस्रा मनोयुजा रथेन पृथुपाजसा । सचेथे अश्विनोषसं ॥ (*nṛvaddasrā manoyujā rathena pṛthupājasā | sacethe aśvinoṣasaṃ ‖*) (Ṛ. Saṃ. 8-5-2)
+
+the manner of coming to the sacrifice in a splendid chariot, following Uṣas as soon as she appears, is described. The word ऋत (*ṛta*) is used in the senses of truth, sacrifice, water, conduct of the nature of truth, and so on. If here it is taken as "path of the nature of truth", it may suit the context.
+
+Even if ऋत (*ṛta*) is taken as "truth", it means that which has an eternal state. The sun and the other planets all move regularly, eternal and radiant, and (the text breaks off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 411. pp. 406-411 (batch API)
+**Progress note:** Done through printed p. 417. pp. 412-417 (batch API)
