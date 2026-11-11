@@ -2675,6 +2675,207 @@ When the praisers, who wish to praise Indra and sit in the sacrificial house of 
 ##### English translation (H. H. Wilson)
 When the repeaters of (his) commendations, abiding in the dwelling of the worshipper, approach Indra with praise, may he who is our (great) sustainer in conflicts, whose wrath is difficult to be (appeased), become the ministering priest of the master of the house.
 
+### Printed p. 83
+
+##### विशेषविषयगळु (Special Topics)
+
+धिषण्यंतः औशिजस्य गोहे सदंतः अद्रिं धिषा यदि सरण्यान् आ (यातु) (*dhiṣaṇyaṃtaḥ auśijasya gohe sadaṃtaḥ adriṃ dhiṣā yadi saraṇyān ā (yātu)*)—The word धिषणा (*dhiṣaṇā*) is read among the names of speech (Ni. 2-23); it means speech in the form of praise. धिषण्यंतः (*dhiṣaṇyaṃtaḥ*) means those who wish to praise Indra with words of praise.
+The word उशिक् (*uśik*) is read among the names for radiance (Ni. 3-9) and among the names for the wise (Ni. 3-19). Here it is used in the sense of the wise priests. Since the priests and the sacrificer who performs the sacrifice are closely connected, the word औशिजस्य (*auśijasya*) is used here to indicate the sacrificer. Yāska has given no etymology for the word गोह (*goha*), but the commentator has explained it as "house". The chief sense of this sentence is: when the priests, seated in the sacrificer's sacrificial house, call Indra with words of praise, may Indra come to this sacrificial ground. Because this sentence has no verb and has only the preposition आ (*ā*), the commentators have supplied the verb यातु (*yātu*), "may he come", in explaining the sense.
+
+संवरणेषु नः वह्निः पास्त्यस्य होता दुरोषाः यः महान् (सः आयातु) (*saṃvaraṇeṣu naḥ vahniḥ pāstyasya hotā duroṣāḥ yaḥ mahān (saḥ āyātu)*)
+This sentence is a qualifier of Indra. The word पस्त्य (*pastya*) is read among the names of the house (Ni. 3-13). पास्त्यस्य (*pāstyasya*) means of the sacrificer who dwells in the house. The sense: may Indra come to the sacrificial ground, he who protects us by fighting the enemies with irresistible wrath at the time of battle, who is called upon with prayer by the sacrificer, and who is endowed with the quality of greatness. This connects with the previous sentence.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा यदीं॑ भार्व॒रस्य॒ वृष्णः॒ सिष॑क्ति॒ शुष्मः॑ स्तुव॒ते भरा॑य ।  
+> गुहा॒ यदी॑मौशि॒जस्य॒ गोहे॒ प्र यद्धि॒ये प्राय॑से॒  ॑
+> मदाय ॥ ७ ॥
+
+> *satrā yadīṃ bhārvarasya vṛṣṇaḥ siṣakti śuṣmaḥ stuvate bharāya |*  
+> *guhā yadīmauśijasya gohe pra yaddhiye prāyase*  
+> *madāya ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रा । यत् । ईं । भार्वरस्य । वृष्णः । सिसक्ति । शुष्मः । स्तुवते । भराय ।  
+> गुहा । यत् । ईं । औशजस्य । गोहे । प्र । यत् । धिये । प्र । अयसे । मदाय ॥
+
+> *satrā | yat | īṃ | bhārvarasya | vṛṣṇaḥ | sisakti | śuṣmaḥ | stuvate | bharāya |*  
+> *guhā | yat | īṃ | auśajasya | gohe | pra | yat | dhiye | pra | ayase | madāya ‖*
+
+### Printed p. 84
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भार्वरस्य । भर्वरो जगद्भर्ता प्रजापतिः । तस्य पुत्रो भार्वरः । तस्य वृष्णः
+> कामानां वर्षितुरिंद्रस्य संबंधी ईमेष शुष्मो बलं स्तुवते स्तोत्रं कुर्वंतं
+> यजमानं सिषक्ति सेवत इति यत्तत्सत्रा सत्यमेव । ईमेतद्वलमौशिजस्य यजमानस्य
+> भराय भर्तुं गुहा गुहायां गुहारूपे हृदये प्र भवतीति यत्तत्सत्यं । यजमानस्य गोहे गृहे धिये कर्मणे प्र भवतीति यत्तत्सत्यं । अयसे गमनाय
+> कामानां प्राप्तॆये मदाय हर्षाय तत्र यद्बलं प्रभवति तत्सत्यं । इंद्रस्य बलं
+> यजमानं सर्वदा पालयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+भर्वर (*bharvara*) is Prajāpati, the supporter of the world; his son is भार्वर (*bhārvara*) (Indra). This might (शुष्मः (*śuṣmaḥ*)) of Indra, the showerer of desires, serves the sacrificer who praises him; that is true. The same might is able to sustain the sacrificer (भराय (*bharāya*)) in the hidden place (गुहा (*guhā*)), the heart, and prevails in the sacrificer's house (गोहे (*gohe*)) for the rite (धिये (*dhiye*)). It prevails also for going (अयसे (*ayase*)), that is, for obtaining desires, and for delight (मदाय (*madāya*)); that too is true. The meaning: Indra's might always protects the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भार्वरस्य (*bhārvarasya*)—of the son of Prajāpati, the supporter of the world
+- वृष्णः (*vṛṣṇaḥ*)—of Indra, the showerer of desires
+- ईं शुष्मः (*īṃ śuṣmaḥ*)—the well-known might
+- स्तुवते (*stuvate*)—the sacrificer who praises Indra
+- सिषक्ति यत् (*siṣakti yat*)—that matter which is well known, that it serves
+- सत्रा (*satrā*)—is true indeed
+- ईं (*īṃ*)—this same might
+- औशिजस्य (*auśijasya*)—of the sacrificer
+- भराय (*bharāya*)—to be of help in sustaining
+- गुहा (*guhā*)—in the heart, which is like a cave
+- प्र (भवति) (*pra (bhavati)*)—it is nourished; the matter that is thus
+- यत् (*yat*)—that too is true
+- गोहे (*gohe*)—in the sacrificer's house
+- धिये (*dhiye*)—for the performance of rites
+- प्र (भवति) (*pra (bhavati)*)—it helps
+- यत् (*yat*)—what is so, that too is well known
+- अयसे (*ayase*)—for obtaining the desired object
+- मदाय (*madāya*)—and for producing delight, that it is a means to these also is true
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known might of Indra, son of Prajāpati the supporter of the world and showerer of desires, serves the sacrificer who praises Indra; that is well known. It is also true that this same might, to help in the sacrificer's protection and nourishment, is nourished in his heart in the form of meditation; that it is favourable for all his rites to be completed fully in his house; and that it is a means to the fulfilment of his desires and to his delight. All this is true; there is no exaggeration in it.
+
+##### English translation (H. H. Wilson)
+True it is that this might of the son of the protector of the world, the showerer (of benifits), affects for his advantage the offerer of praise:
+
+### Printed p. 85
+
+##### English translation (H. H. Wilson)
+it (prevails) in the secret (thoughts) of the worshipper, and in his dwelling, for (the accomplishment of his) pious acts. (the attainment of his) desires, and his delight.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here for the word भार्वरस्य (*bhārvarasya*) Sāyaṇa says भर्वरो जगद्भर्ता प्रजापतिः तस्य पुत्रो भार्वरः (*bharvaro jagadbhartā prajāpatiḥ tasya putro bhārvaraḥ*); the commentator's explanation is that Prajāpati, the supporter of the world, is Bharvara and his son Indra is Bhārvara. Since it is said in the Yajurveda and elsewhere प्रजापतिरिंद्रमसृजतानुजावरं देवानां (*prajāpatiriṃdramasṛjatānujāvaraṃ devānāṃ*), Indra comes to be a son of Prajāpati. We have stated this in this part when explaining the Niṣkevalya-śastra mantras. The matter is true that the might of such an Indra, the showerer of desires, that is, his graciously disposed mind, does good to the sacrificer who performs the sacrifice. The chief purport of this Ṛk is that Indra's immeasurable greatness, and the valiant deeds he shows for those who praise him, not only give the sacrificer his desired objects and nourish him but, while nourishing him, help the sacrifices and the like that he performs, and that through such favour of Indra the sacrificer comes to have joy.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यद्वरां॑सि॒ पर्व॑तस्य वृ॒ण्वे पयो॑भिर्जि॒न्वे अ॒पां जवां॑सि ।  
+> वि॒दद्गौ॒रस्य॑ गव॒यस्य॒ गोहे॒ यदी॒ वाजा॑य सु॒ध्यो॒३॒॑३ वहं॑ति॥
+
+> *vi yadvarāṃsi parvatasya vṛṇve payobhirjinve apāṃ javāṃsi |*  
+> *vidadgaurasya gavayasya gohe yadī vājāya sudhyo3 vahaṃti‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यत् । वरांसि । पर्वतस्य । वृण्वे । पयःभिः । जिन्वे । अपां । जवांसि ।  
+> विदत् । गौरस्य । गवयस्य । गोहे । यदि । वाजाय । सुध्यः । वहंति ॥ ८ ॥
+
+> *vi | yat | varāṃsi | parvatasya | vṛṇve | payaḥbhiḥ | jinve | apāṃ | javāṃsi |*  
+> *vidat | gaurasya | gavayasya | gohe | yadi | vājāya | sudhyaḥ | vahaṃti ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः पर्वतस्य मेघस्य वरांसि द्वाराणि वि वृण्वे निवृतानि कृतवानिति यत् ।
+> अपामुदकानां जवांसि वेगान्पयोभिर्जलैर्जिन्वे प्यायतीति यत् । यदि यदा
+
+##### Gist of the bhāṣya
+
+Indra has opened (वि वृण्वे (*vi vṛṇve*)) the doors (वरांसि (*varāṃsi*)) of the cloud (पर्वतस्य (*parvatasya*)): that is so. He fills the speeds (जवांसि (*javāṃsi*)) of the waters with waters (पयोभिः (*payobhiḥ*)): that too. And when (यदि (*yadi*))
+
+### Printed p. 86
+
+> सुद्द्यः शोभनकर्माणो यजमाना वाजायान्नाय वहंति इंद्रं प्राप्नु वंति
+> तथा गोहे गृहे गौरस्य गौरमृगस्य गवयस्य पवयमृगस्य च विदत् तौ द्वौ पशू
+> लभत इति यत् । तत्सर्वं सत्रेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+…the sacrificers of good works carry (वहंति (*vahaṃti*)), that is, bring, Indra for food (वाजाय (*vājāya*)), then in the house (गोहे (*gohe*)) he finds those two animals, the Gaura, a gaur deer, and the Gavaya: that too. All that is connected with the preceding "सत्रा (*satrā*)" (is true).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्रः (*iṃdraḥ*)—Indra)
+- पर्वतस्य (*parvatasya*)—of the cloud
+- वरांसि (*varāṃsi*)—the doors
+- वि वृण्वे (*vi vṛṇve*)—he opened; the matter that is so
+- यत् (*yat*)—what is so, that too
+- अपां (*apāṃ*)—of the waters
+- जवांसि (*javāṃsi*)—the swift streams
+- पयोभिः (*payobhiḥ*)—with waters
+- जिन्वे (*jinve*)—he fills; what is so, that too
+- यदि (*yadi*)—when
+- सुध्यः (*sudhyaḥ*)—the sacrificers, doers of excellent rites
+- वाजाय (*vājāya*)—for food
+- वहंति (*vahaṃti*)—have approached Indra, then
+- गौरस्य (*gaurasya*)—of the animal called Gaura
+- (and) गवयस्य (*gavayasya*)—of the animal called Gavaya
+- गोहे (*gohe*)—in the cave-like house
+- विदत् (*vidat*)—he found it; all that is so is true indeed
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra opened the doors of the cloud, that he fills the swift streams of the waters with waters, and that when the sacrificers, doers of excellent rites, approached Indra for food he found food in the cave-like house of the animals called Gaura and Gavaya: all this is true.
+
+##### English translation (H. H. Wilson)
+Inasmuch as he has opened the doors of the cloud, and has supplied the rapid courses of the waters with (additional) torrents, so when the pious have recourse to Indra for food, he finds (it) in the haunt of the Gaura and Gavaya.
+
+##### विशेषविषयगळु (Special Topics)
+
+As with the previous Ṛk, the explanation of this Ṛk too is somewhat difficult. The main purport is: when the sacrificer who performs the sacrifice approaches Indra and prays for food and the like, Indra makes the clouds that held back the rain-waters (as one opens the door and lets out a creature shut within) pour rain, and makes those waters flow in the currents of the rivers. By this act of bestowing rain, plants and other foods were provided for the sacrificer. Besides, in
+
+### Printed p. 87
+
+गौरस्य गवयस्य गोहे विदत् (*gaurasya gavayasya gohe vidat*) it is said that he supplied the animals Gaura and Gavaya for food. Gaura and Gavaya are said to be a kind of wild ox. Some say they are a kind of animal that roams in the forest and whose flesh is used as human food. The purport is that Indra supplied these animals for the sacrificer's food or for sacrificial victims. The words गवयः गौरः (*gavayaḥ gauraḥ*) are included in the list of animals mentioned in the Aśvamedha sacrifice. On this, in the Taittirīya Saṃhitā:
+इंद्राय राजे सूकरो वरुणाय राजे कृष्णो यमाय राज ऋश्य यषभाय राजे गवयः शार्दूलाय राजे गौरः पुरुषराजाय मर्कटः क्षिप्रश्चेनस्य वर्तिका नीलंगोः क्रिमिः सोमस्य राज्यः कुलुंगः सिंधोः शिग्ंशुमारोर्हिमवतो हस्ती ॥ (*iṃdrāya rāje sūkaro varuṇāya rāje kṛṣṇo yamāya rāja ṛśya yaṣabhāya rāje gavayaḥ śārdūlāya rāje gauraḥ puruṣarājāya markaṭaḥ kṣipraścenasya vartikā nīlaṃgoḥ krimiḥ somasya rājyaḥ kuluṃgaḥ siṃdhoḥ śigṃśumārorhimavato hastī ‖*)
+(Tai. Saṃ. 5-5-11-1)
+and in another place of the Taittirīya Saṃhitā of the Yajurveda also:
+गवयमारण्यमनु ते दिशामि तेन चिन्वानस्तनुवो निषीद । (*gavayamāraṇyamanu te diśāmi tena cinvānastanuvo niṣīda |*)
+गवयमारण्यमनु ते दिशामि तेन चिन्वानस्तनुवो निषीद । (*gavayamāraṇyamanu te diśāmi tena cinvānastanuvo niṣīda |*)
+(Tai. Saṃ. 4-2-10-3)
+This is said about offering the forest animal called Gavaya. The animals Gaura and Gavaya (Gayal and Bos gavaeus), a kind of deer and ox living in the forest, are mentioned among the list of about 81 forest animals used in the Aśvamedha sacrifice, in the anuvākas 5-5-11 to 28 of the Tai. Saṃ. In Kannada there are no proper names for these. Gavaya means a kind of wild ox. Its name is mentioned in the Ṛgveda only in a few places. But the word Gavaya is used in the Maitrāyaṇī Saṃhitā 3-14-10; Kāṭhaka Saṃhitā 16-17; Vājasaneyi Saṃhitā 24-28; Aitareya Brāhmaṇa 2-8; 3-34; Śatapatha Brāhmaṇa 1-2-3-9; Sāṅkhyāyana Śrauta Sūtra 3-14 and other places. This word is read together with the word Gaura in the present Ṛk, with the words Gaura and Mahiṣa in Vā. Saṃ. 24-28; 13-49, and in Maitrāyaṇī Saṃhitā 2-7-17 and Kāṭhaka Saṃhitā 16-17.
+Gaura too is a kind of wild ox (Bos gaurus). It is generally mentioned together with the word Gavaya in Ṛgveda 1-16-5; 4-21-8; 4-58-2; 5-78-2; 7-69-6; 7-98-1 and other places. In Maitrāyaṇīya Saṃhitā 3-14-10; Vājasaneya Saṃhitā 24-28;
+
+### Printed p. 88
+
+Aitareya Brāhmaṇa 3-34 and other places this word is also used. That it is a forest animal is stated in Vā. Saṃ. 13-48. The name of the female animal Gaurī occurs in the Ṛks Ṛ. Saṃ. 1-84-10; 4-12-6; 9-12-3; 1-164-11. The name Gaura-mṛga also occurs in Vājasaneya Saṃhitā 24-32 and Aitareya Brāhmaṇa 2-8.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रा ते॒ हस्ता॒ सुकृ॑तो॒त पा॒णी प्र॑यं॒तारा॑ स्तुव॒ते राध॑  
+> इंद्र ।  
+> का ते॒ निष॑त्तिः॒ किमु॒ नो म॑मत्सि॒ किं नोडु॑दु हर्षसे॒ ॒ ॑
+> दातवा उ ॥ ९ ॥
+
+> *bhadrā te hastā sukṛtota pāṇī prayaṃtārā stuvate rādha*  
+> *iṃdra |*  
+> *kā te niṣattiḥ kimu no mamatsi kiṃ noḍudu harṣase*  
+> *dātavā u ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रा । ते । हस्ता । सुकृता । उत । पाणी इति । प्रयंतारा । स्तुवते । राधः । इंद्र ।  
+> का । ते । निसत्तिः । किं । ऊं इति । नो इति । ममत्सि । किं । न । उत्उत् । ऊंइति । हर्षसे । दातवै । ऊं इति ॥ ९ ॥
+
+> *bhadrā | te | hastā | sukṛtā | uta | pāṇī iti | prayaṃtārā | stuvate | rādhaḥ | iṃdra |*  
+> *kā | te | nisattiḥ | kiṃ | ūṃ iti | no iti | mamatsi | kiṃ | na | utut | ūṃiti | harṣase | dātavai | ūṃ iti ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्युदयेष्टाविंद्रस्य प्रदातुर्भद्रा ते हस्तेति याज्या । सूत्रितं च ।
+> दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी । आ. ३-१३ । इति ॥
+> हे इंद्र ते त्वदीयौ भद्रा भद्रौ कल्याणौ हस्ता हस्तौ सुकृता सुकृतौ शोभनकर्माण् भवतः । उतापि च पाणी त्वदीयौ हस्तौ स्तुवते स्तोत्रे यजमानाय
+> राधो धनं प्रयंतारा प्रयंतार् प्रदातार् भवतः । हे इंद्र ते त्वदीया
+> निषत्तिर्निषदनं स्थितिः का । त्वमस्मान् किमु किमर्थं नो ममत्सि । न मादयसि ।
+> किमुदुदु किमर्थमेव दातवा अस्माकं धनं दातुं न हर्षसे । हृष्टो न भवसि ॥
+
+##### Gist of the bhāṣya
+
+In the Abhyudayeṣṭi, addressed to Indra the giver, the verse भद्रा ते हस्ता (*bhadrā te hastā*) is the yājyā. It is also given in the sūtra: दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी । आ. ३-१३ । इति ॥ (*dīrghaste astvaṃkuśo bhadrā te hastā sukṛtota pāṇī | ā. 3-13 | iti ‖*) (Ā. 3-13). O Indra, your two hands are auspicious, beneficent and of good works; and your two hands (पाणी (*pāṇī*)) are givers of wealth (राधः (*rādhaḥ*)) to the sacrificer who praises you. O Indra, what is your abode, your sitting-place (निषत्तिः (*niṣattiḥ*))? Why do you not gladden us (ममत्सि (*mamatsi*))? Why indeed are you not pleased to give us wealth (दातवै (*dātavai*))? You are not glad.
+
 ---
 
-**Progress note:** Done through printed p. 82. pp. 76-82 (batch API)
+**Progress note:** Done through printed p. 88. pp. 83-88 (batch API)
