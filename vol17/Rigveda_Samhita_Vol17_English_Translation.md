@@ -4587,6 +4587,233 @@ That Indra is mighty, and in the pṛtanās, the battles, he is तरणिः 
 
 Indra, endowed with might, like a swiftly running horse, crosses over the enemy armies in battles, pervades heaven and earth, and distributes wealth in the form of rain. In the sacrifice, like Bhaga
 
+### Printed p. 120
+
+*Bhāvārtha (continued)*
+He is worthy to receive the oblation, a protector of the praisers, of lovely form, one who is invoked with excellent invocation, and a giver of food.
+
+##### English translation (H. H. Wilson)
+Vigorous, rushing through (hostile), like a warhorse, he has pervaded heaven and earth, sending down rain : he is to be worshipped with oblations at the solemn (rite) like Bhaga : he is as the father of those who adore (him); he is beautiful, worthy of invocation, the bestower of food.
+
+##### विशेषविषयगळु (Special Topics)
+
+- सहावा (*sahāvā*)—The word सहः (*sahaḥ*) is read among the names for strength (Ni. 3-9). The meaning is "one who has strength".
+- तरणिः (*taraṇiḥ*)—शत्रूनुत्तीर्य वर्तत इति तरणिः । (*śatrūnuttīrya vartata iti taraṇiḥ |*) Because he overcomes the enemies, that is, defeats them and stays steadfast, Indra is called taraṇi.
+- मेहनावान् (*mehanāvān*)—मिह सेचने । (*miha secane |*) मिह्यते सिच्यते दीयतेऽर्थिभ्य इति मेहनं धनं तद्वान् । (*mihyate sicyate dīyate 'rthibhya iti mehanaṃ dhanaṃ tadvān |*) What is given to those who ask is wealth. The meaning is "one who possesses such wealth".
+- मतीनां (*matīnāṃ*)—The word मति (*mati*) is read among the names for the wise (Ni. 3-19). Here the commentator has explained मतीनां (*matīnāṃ*) as "of the hymns" or "of those who praise".
+- कारे (*kāre*)—क्रियत इति कारो यज्ञादिः । (*kriyata iti kāro yajñādiḥ |*) The rite that is done or carried out, that is, the sacrificial rite.
+- सुहवः (*suhavaḥ*)—सुष्ठाह्वानोपेतः । (*suṣṭhāhvānopetaḥ |*) One who is invoked well, that is, with faith: one who is called, with mantras, by the priests such as the Hotṛ to come to the sacrificial altar.
+- अन्नस्य दाता । (*annasya dātā |*) वयोधाः (*vayodhāḥ*)—The word वयः (*vayaḥ*) is read among the names for food (Ni. 3-9). He bears food, that is, he gives food to those who ask.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध॒र्ता दि॒वो रज॑सस्पृ॒ष्ट ऊ॒र्ध्वो रथो॒ न वा॒युर्वसु॑भिर्नि॒युत्वा॑न् ।  
+> क्ष॒पां व॒स्ता ज॑नि॒ता सूर्य॑स्य॒ विभ॑क्ता भा॒गं धि॒षणे॑व॒ वाजं॑ ॥४॥
+
+> *dhartā divo rajasaspṛṣṭa ūrdhvo ratho na vāyurvasubhirniyutvān |*  
+> *kṣapāṃ vastā janitā sūryasya vibhaktā bhāgaṃ dhiṣaṇeva vājaṃ ‖4‖*
+
+### Printed p. 121
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धर्ता । दिवः । रजसः । पृष्टः । ऊर्ध्वः । रथः । न । वायुः । वसुभिः । नियुत्वान् ।  
+> क्षपां । वस्ता । जनिता । सूर्यस्य । विभक्ता । भागं । धिषणा इव । वाजं ॥ ४ ॥
+
+> *dhartā | divaḥ | rajasaḥ | pṛṣṭaḥ | ūrdhvaḥ | rathaḥ | na | vāyuḥ | vasubhiḥ | niyutvān |*  
+> *kṣapāṃ | vastā | janitā | sūryasya | vibhaktā | bhāgaṃ | dhiṣaṇā iva | vājaṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो दिवो द्युलोकस्य रजसोंतरिक्षस्य च धर्ता धारकः पृष्टः सर्वत्र
+> वर्तमानो रथो न तदियो रथ इवोर्धो वायुरूर्ध्वं गंता वसुभिः सहायतया निवसद्भिमरुद्धिर्नियुत्पान्सहायवान् । यद्वा नेत्ययमुत्तरेणापि
+> संबध्यते । यथा वायुर्नियुत्वान्नियुन्नामकवडवाभिस्तद्वानेवमिंद्रो वसुभिर्मरुद्धिः सहायवान् । तथा क्षपां वस्ता रात्रिमाच्छादयनूर्यस्य जगत्पकाशकस्यादित्यस्य जनिता जनयिता भागं भजनीयं वाजं कर्मफलरूपमन्नं विभक्ता साधु
+> विभागकर्ता भवति । तत्र दृष्टांतः । धिषणेव । यथाड्यानां वागस्येदमिति विभागं
+> करोति तद्वत् ॥ रजसः । रंज राग इत्यस्माद्भरंजिभ्यां कित् । उ. ४-२१६ । इत्यसुन् ।
+> कित्वान्नलोपः । रज्यते प्रकाशेनेति रजोंतरिक्षं । नित्वादाद्युदात्तः । वस्ता । वस
+> आच्छादन इत्यस्य तृचि रूपं । जनिता ! जनयतेस्तृचि जनिता मंत्र इति निपातनाण्णिलोपः । चित्वादंतोदात्तः विभक्ता । भज सेवायामित्यस्य साधुकारिण्यर्थे तृन् ।
+> एकाच उपदेश इतीट् प्रतिषेधः । तादौ च निति कृत्यतानिति गतेः प्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+That Indra is the upholder of heaven, the world of light, and of the रजसः (*rajasaḥ*), the atmosphere. पृष्टः (*pṛṣṭaḥ*) means present everywhere. Like his own chariot he is ऊर्ध्वः (*ūrdhvaḥ*), one who goes upward; he is वायुः (*vāyuḥ*), the wind. He is नियुत्वान् (*niyutvān*), possessed of helpers, through the Vasus, the Maruts who dwell with him as helpers. Or else, the word न (*na*) is connected also with what follows: as the wind is नियुत्वान् (*niyutvān*), possessed of the mares called Niyut, so Indra is accompanied by the Vasus, the Maruts. Likewise he covers the night; he is the begetter of the sun, the illuminer of the world; he is the apportioner of the portion, the worshipful food (वाजं (*vājaṃ*)) that is the fruit of rites, a good divider. The example is धिषणेव (*dhiṣaṇeva*): as speech divides among the wealthy, "this is his", so he divides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- दिवः (*divaḥ*)—of heaven
+- रजसः (*rajasaḥ*)—of the atmosphere
+- धर्ता (*dhartā*)—the upholder
+- पृष्टः (*pṛṣṭaḥ*)—present everywhere
+- रथो न (*ratho na*)—like his chariot
+- ऊर्ध्वः वायुः (*ūrdhvaḥ vāyuḥ*)—going upward
+- वसुभिः (*vasubhiḥ*)—with the Vasus
+- नियुत्वान् (*niyutvān*)—joined (with them)
+- क्षपां (*kṣapāṃ*)—the night
+- वस्ता (*vastā*)—who covers (with darkness)
+- सूर्यस्य (*sūryasya*)—of the sun
+- जनिता (*janitā*)—the begetter
+- धिषणा इव (*dhiṣaṇā iva*)—like the speech that has a rich man's wealth divided
+- भागं (*bhāgaṃ*)—worshipful
+- वाजं (*vājaṃ*)—food
+- विभक्ता (*vibhaktā*)—the divider
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is the upholder of heaven and the atmosphere, present everywhere, going upward like his chariot, joined with the Vasus. He covers the night with darkness, is the begetter of the sun, and divides the worshipful food, like the speech that has a rich man's wealth divided.
+
+### Printed p. 122
+
+##### English translation (H. H. Wilson)
+The upholder of heaven and of the firmament, the wind, like a chariot traversing the upper (region) accompanied by the Vasus; the clother of the night (with gloom). the parent of the sun, the distributor of the portion (allotted to the pious), like the words (of the wealthy appropriating to all) the food.
+
+##### विशेषविषयगळु (Special Topics)
+
+धर्ता दिवो रजसः (*dhartā divo rajasaḥ*)—For the word रजः (*rajaḥ*) Yāska gave the etymology: रजो रजतेर्ज्योती रज उच्यते । (*rajo rajaterjyotī raja ucyate |*) उदकं रज उच्यते । (*udakaṃ raja ucyate |*) लोका रजांस्युच्यंते (*lokā rajāṃsyucyaṃte*) (Ni. 4-19). रज्यते प्रकाशेनेति रजोंतरिक्षं (*rajyate prakāśeneti rajoṃtarikṣaṃ*)—Indra is the regulator of heaven and the atmosphere; that is the meaning.
+
+पृष्टः ऊर्ध्वः रथः न वायुः (*pṛṣṭaḥ ūrdhvaḥ rathaḥ na vāyuḥ*)—Just as Indra's chariot moves everywhere, that is, in all places and in the upper region, so Indra too goes to the worlds above, heaven and the rest. Or, if only the words पृष्टः ऊर्ध्व रथः (*pṛṣṭaḥ ūrdhva rathaḥ*) are explained, the meaning is: he has a chariot able to travel in the upper region, in heaven and so on. In that case the word of comparison न (*na*) has to be joined with the word वायुः (*vāyuḥ*) in explaining. Then:
+
+वायुः न वसुभिः नियुत्वान् (*vāyuḥ na vasubhiḥ niyutvān*)—The sense can be given: Indra, helped by the Marut deities, like the wind that has the vehicle called Niyuta. Or वसुभिर्नियुत्वान्—निवसद्भिमरुद्भिर्नियुत्वान् सहायवान् (*vasubhirniyutvān—nivasadbhimarudbhirniyutvān sahāyavān*)—the meaning can also be given as: one who has obtained help from the Maruts who are always with Indra.
+
+क्षपां (*kṣapāṃ*)—Since the word क्षपा (*kṣapā*) is read among the names of night (Ni. 22-8), क्षपां (*kṣapāṃ*) means the night together with its darkness.
+
+जनिता सूर्यस्य (*janitā sūryasya*)—It has been explained earlier that the sun rises and shines by Indra's power.
+
+विभक्ता भागं धिषणेव वाजं (*vibhaktā bhāgaṃ dhiṣaṇeva vājaṃ*)—यथाड्यानां वागस्येदमिति करोति तद्वत् कर्मफलरूपमन्नं साधु विभागकर्ता भवति । (*yathāḍyānāṃ vāgasyedamiti karoti tadvat karmaphalarūpamannaṃ sādhu vibhāgakartā bhavati |*) The sense of this sentence is: as the wealthy divide, saying "this is for you, this is for him", so Indra distributes food and the like, the fruit in accordance with their rites, to those who have performed sacrifices and other rites.
+
+### Printed p. 123
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒  ॑
+> धनानां ॥ ५ ॥
+
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*  
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ*  
+> *dhanānāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघ्नवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghnavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*  
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजसात् । वाजस्यान्नस्य सातिर्लाभो यस्मिन् सोऽयं वाजसातिः।
+> अस्मिन्भरे । बिभ्रति जयलक्ष्मीमनेन योद्धार इति भरः संग्रामः । तस्मिन् संग्रामे
+> शुनं शूनमुत्साहेन प्रवृद्धं । यद्वा शुनमिति सुखनाम । सुखकरं मघवानं
+> धनवंतं अत एवेंद्रं निरतिशयैश्वर्यसंपन्नं नृतमं सर्वस्य जगतोऽतिशयेन
+> नेतारं त्वां हुवेम । कुशिका वयं यज्ञार्थमाह्वयेम । तथा शृण्वंतमस्माभिः
+> क्रियमाणां स्तुतिं शृण्वंतमुग्रं शत्रूणां भयंकरं समत्तु संग्रामेषु वृत्राणि
+> वृत्रोपलक्षितानि सर्वाणि रक्षांसि घ्नंतं हिंसंतं धनानां शत्रुसंबंधिनां संजितं
+> सम्यग्जेतारं त्वामूतये रक्षणाय वयमाह्वयेम ॥ शुनं । टुओश्वि गतिवृद्ध्योरित्यस्य निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । यजादित्वात्संप्रसारणं । दीर्घाभावश्चांदसः । प्रत्ययस्वरः । हुवेम । हैयतेर्बहुलं छंदसीति संप्रसारणे कृते
+> शपो लुकि कृते च लिजि रूपं । निघातः । भरे । भृञ् भरणे । घः । वृषादित्वादाद्युदात्तः । वाजसात् । षणु दार् । भावे क्तिन् । जनसनेत्यादिनानुनासिकस्यात्वं ।
+> बहुप्रीहौ पूर्वपदस्वरः । समत्तु । अद भक्षणे । संपूर्वात् क्विप् । संभक्षयंति
+> योद्धृणामायूंषीति समदः संग्रामाः । कृदुत्तरपदस्वरः । घ्नंतं । हन हिंसागत्योरित्यस्य शतरि गमहनेत्यादिनोपधालोपः । हो हंतेरिति घत्वं । संजितं ।
+> जि जये । क्विप् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, वाजसात् (*vājasāt*): he in whom there is the winning (सातिः (*sātiḥ*)) of food (वाज (*vāja*)), is वाजसातिः (*vājasātiḥ*). भरे (*bhare*): because by it the warriors bear the fortune of victory, भरः (*bharaḥ*) is battle; in this battle. शुनं (*śunaṃ*) means swollen, grown by zeal; or else शुनं (*śunaṃ*) is a name for happiness, so "giver of happiness". मघवानं (*maghavānaṃ*) is the wealthy one, and therefore इंद्रं (*iṃdraṃ*), endowed with unsurpassed lordship; नृतमं (*nṛtamaṃ*), the supreme leader of the whole world: you we, the Kuśikas, invoke for the sacrifice. Likewise, hearing the praise made by us, शृण्वंतं (*śṛṇvaṃtaṃ*); उग्रं (*ugraṃ*), terrible to the enemies; समत्सु (*samatsu*), in battles, slaying all the demons denoted by Vṛtra (वृत्राणि (*vṛtrāṇi*)); संजितं (*saṃjitaṃ*), the full conqueror of the enemies' wealth: you we invoke for protection (ऊतये (*ūtaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजसात् (*vājasāt*)—proceeding for the sake of food
+- भरे (*bhare*)—in the battle
+- शुनं (*śunaṃ*)—one who grows through zeal, or who produces happiness
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—endowed with unsurpassed lordship
+- नृतमं (*nṛtamaṃ*)—who is the leader
+- (you) हुवेम (*huvema*)—we call, praying
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—who listens (to our praises)
+- उग्रं (*ugraṃ*)—who is terrible to enemies
+- समत्सु (*samatsu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—the demons beginning with Vṛtra
+- घ्नंतं (*ghnaṃtaṃ*)—who destroys, slaying
+- धनानां (*dhanānāṃ*)—the wealth (of the enemies)
+- संजितं (*saṃjitaṃ*)—who gathers (for us)
+- ऊतये (*ūtaye*)—for protection
+
+### Printed p. 124
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle that is fought for the sake of food, you who give happiness, are wealthy, endowed with unsurpassed lordship, a leader, who listen to our praises, are terrible to enemies, slay and destroy the demons beginning with Vṛtra in battles, and gather the enemies' wealth for us—you we call, praying, for protection.
+
+##### English translation (H. H. Wilson)
+We invoke for our protection the opulent Indra, distinguished in this combat, the leader in the food-bestowing (strife), hearing (our praises), terri- ble in battles, the destroyer of foes, the conqueror of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+The special topics of this ṛk have been explained earlier. This is the fiftieth sūkta.**NOTE**
+
+## Sūkta 50 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः स्वाहेति पंचर्चं द्वादशं सूक्तं वैश्वामित्रं त्रैष्टुभमैंद्रं ॥ दशरात्रॆ नवमेऽहनि मरुत्वतीयशस्त्र इदं सूक्तं । सूत्रितं च । तृतीयस्येंद्रः स्वाहा
+> गायत्साम । आ. ८-७ । इति ॥
+> अनुवादवु—इंद्रः स्वाहा ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि हन्नॆरडनॆय
+> सूक्तवु. इदरल्लि ऐदु ऋक्कुगळिरुवुवु ई सूक्तक्कॆ विश्वामित्रनु ऋषियु ; इंद्रनु देवतॆयु
+> त्रिष्टुप्छंदस्सु. दशरात्रवॆंब यागद ऒंभत्तनॆय दिनदल्लि मरुत्वतीयशस्त्रमंत्रगळन्नु पठिसुवाग
+> ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौतसूत्रद-तृतीयस्येंद्रः स्वाहा गायत्साम
+> ऎंब सूत्रदिंद विवृतवागिरुवुदु. (अ. ८-७)
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, इंद्रः स्वाहा (*iṃdraḥ svāhā*), of five ṛks, is by Viśvāmitra, in the triṣṭubh metre, addressed to Indra. On the ninth day of the Daśarātra this sūkta is used in the Marutvatīya Śastra. The Sūtra says: तृतीयस्येंद्रः स्वाहा गायत्साम (*tṛtīyasyeṃdraḥ svāhā gāyatsāma*) (Ā. 8-7). The Kannada Anuvāda repeats this: the sūkta is the twelfth in the fourth anuvāka, with five ṛks, seer Viśvāmitra, deity Indra, metre Triṣṭubh, used when the Marutvatīya Śastra mantras are recited on the ninth day of the Daśarātra sacrifice, as set out by the Āśvalāyana Śrauta Sūtra.
+
+### Printed p. 125
+
+> ॥ ओं ॥
+> सूक्त—५०
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—५० ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—१४ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> । ऋषिः—विश्वामित्रः ।
+> । देवता—इंद्रः ।
+> । छंदः—त्रिष्टुप् ।
+> संहितापारकि
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ स्वाहा॑ पिबतु॒ यस्य॒ सोम॑ आ॒गत्या॒ तुम्रो॑ वृष॒भो  ॒॑
+> मरुत्वान् ।  
+> ओरु॒व्यचाः॑ पृणतामे॒भिरन्नै॒रास्य॑ ह॒विस्त॒न्व१॒ः॑काम॑मृध्याः ॥१॥
+
+> *iṃdraḥ svāhā pibatu yasya soma āgatyā tumro vṛṣabho*  
+> *marutvān |*  
+> *oruvyacāḥ pṛṇatāmebhirannairāsya havistanvaḥkāmamṛdhyāḥ ‖1‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । स्वाहा । पिबतु । यस्य । सोमः । आगत्य । तुम्रः । वृषभः । मरुत्वान् ।  
+> आ । उरुव्यचाः । पृणतां । एभिः । अन्नैः । आ । अस्य । हविः । तन्नः । कामं । यध्याः॥
+
+> *iṃdraḥ | svāhā | pibatu | yasya | somaḥ | āgatya | tumraḥ | vṛṣabhaḥ | marutvān |*  
+> *ā | uruvyacāḥ | pṛṇatāṃ | ebhiḥ | annaiḥ | ā | asya | haviḥ | tannaḥ | kāmaṃ | yadhyāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः स्वाहा स्वाहाकृतमिमं सोमं पिबतु । यस्येंद्रस्यायं सोमः
+> स इंद्रो यज्ञं प्रत्यागत्य तुम्रः कर्मविघ्नकारिणां हिंसको वृषभो यष्टणामभिमतफलवर्षको मरुत्वान्मरुद्धिस्तद्वान् उरुव्यचाः प्रभूतव्याप्तिः सन् एभिरस्माभिर्दत्तैरन्नैः सोमादिलक्षणैर्हविर्भिरा पृणतां । समंतात्पूरयतु । ततोऽस्येंद्रस्य संबंधिनस्तन्वः शरीरस्य कामं पुष्पादिलक्षणविषयमभिलाषं हविरस्माभिर्दत्तमा ऋध्याः । सर्वतः पूरयतु ॥ तुम्रः । तुमिराहननार्थः । उरुव्यचाः ।
+> व्यचेरसुन् । व्यचेः कुटादित्वमनसीति वक्तव्यमित्यत्रानसीति पर्युदासात् जिताभावः । कृदुत्तरपदस्वरः । ऋध्याः । ऋध्योतेराशीर्लिज रूपं ॥
+
+##### Gist of the bhāṣya
+
+May this Indra drink this soma offered with स्वाहा (*svāhā*) (the svāhā-call). The Indra whose soma this is, having come to the sacrifice, is तुम्रः (*tumraḥ*), the destroyer of those who obstruct the rite; वृषभः (*vṛṣabhaḥ*), the one who showers the desired fruit on the sacrificers; मरुत्वान् (*marutvān*), accompanied by the Maruts; उरुव्यचाः (*uruvyacāḥ*), of wide extent. Let him fill himself fully with these foods given by us, the oblations beginning with soma. Then let him fulfil on all sides the desire of this Indra's body, whose object is flowers and the like, the oblation given by us.
+
 ---
 
-**Progress note:** Done through printed p. 119. pp. 114-119 (batch API, retry 1)
+**Progress note:** Done through printed p. 125. pp. 120-125 (batch API, retry 1)
