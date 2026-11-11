@@ -28461,6 +28461,269 @@ May your roaring (flames), Agni, be manifest in the sky as sharp weapons wherewi
 
 O Agni, born in many forms (tuvijāta), for you I, the wise (vipra) and steady praiser, of good works (svapāḥ), have fashioned (atakṣam), i.e. produced, this hymn, as one fashions a chariot. O divine Agni, if you favour (prati haryāḥ), i.e. desire, this hymn, then with it may we win the waters (apaḥ), svarvatīḥ, i.e. resounding and extensive; may we obtain them.
 
+### Printed p. 767
+
+#### Ṛk 11 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविजात (*tuvijāta*)—O Agni, who appear in many forms
+- विप्रः (*vipraḥ*)—the wise one
+- धीरः (*dhīraḥ*)—the one of excellent understanding
+- स्वपाः (*svapāḥ*)—the one of good works; I who am such
+- ते (*te*)—addressed to you
+- एतं स्तोमं (*etaṃ stomaṃ*)—this praise
+- रथं न (*rathaṃ na*)—as one skilfully builds a chariot
+- अतक्षं (*atakṣaṃ*)—I have fashioned
+- देव (*deva*)—O Agni, divine in nature
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यदीत् (*yadīt*)—this hymn
+- प्रति हर्याः (*prati haryāḥ*)—graciously accept
+- एना (*enā*)—by the greatness of this praise
+- स्वर्वतीः (*svarvatīḥ*)—that spread everywhere
+- अपः (*apaḥ*)—the waters
+- जयेम (*jayema*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who appear in many forms: I, who am wise, of excellent understanding and of good works, have fashioned this praise for you as one skilfully builds a chariot. O Agni, divine in nature, graciously accept this hymn. By the greatness of this praise, may we obtain the waters that spread everywhere and flow.
+
+##### English translation (H. H. Wilson)
+This praise have I, a devout worshipper, composed for your, (Agni), who are born with many (faculties), as a steady dexterous (artisan fabricates)- a car : if, divine Agni, you approve of it, then may we obtain abundant flowing water.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒वि॒ग्रीवो॑ वृष॒भो ना॑वृधा॒नो॑ऽश॒त्रुग१॒॑र्यः सम॑जाति॒वेदः॑।  
+> इती॒मम॒ग्निम॒मृता॑ अवोचन्ब॒र्हिष्म॑ते॒ मन॑वे॒ शर्म॑ यंसद्ध॒विष्म॑ते॒ मन॑वे॒ शर्म॑ यंसत् ॥ १२ ॥
+
+> *tuvigrīvo vṛṣabho nāvṛdhāno 'śatrugaryaḥ samajātivedaḥ|*  
+> *itīmamagnimamṛtā avocanbarhiṣmate manave śarma yaṃsaddhaviṣmate manave śarma yaṃsat ‖ 12 ‖*
+
+### Printed p. 768
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुविग्रीवः । वृषभः । ववृधानः । अशत्रु । अर्यः । सं । अजाति । वेदः ।  
+> इति । इमं । अग्निं । अमृताः । अवोचन् । बर्हिष्मते । मनवे । शर्म । यंसत् ।  
+> हविष्मते । मनवे । शर्म । यंसत् ॥ १२ ॥
+
+> *tuvigrīvaḥ | vṛṣabhaḥ | vavṛdhānaḥ | aśatru | aryaḥ | saṃ | ajāti | vedaḥ |*  
+> *iti | imaṃ | agniṃ | amṛtāḥ | avocan | barhiṣmate | manave | śarma | yaṃsat |*  
+> *haviṣmate | manave | śarma | yaṃsat ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुविग्रीवो बहुज्वालः प्रभूतग्रीवो ना वृषभो वर्षिता कामानां
+> ववृधानो वर्धमानोऽग्निरर्योऽरेर्वेदो धनमशत्त्वकंटकं समजाति ।
+> संयोजयति ! इतीममर्थमग्निममृता अन्ये देवा आवोचन् ! यस्मादेवं
+> तस्माद्वर्हिष्मते यागवते मनवे मनुष्याय यजमानाय शर्म सुखं यंनत् ।
+> यच्छतु । हविष्मते च शर्म यंसत् ॥
+
+##### Gist of the bhāṣya
+
+Agni is "thick-necked", that is, many-flamed (the "neck" being his flames); he is the showerer of desires and is growing. He gathers together the wealth of the enemy, which is without opposition (free of thorns). The other gods, the immortals, have declared this about Agni. Since that is so, he is to bestow happiness on the human worshipper, the man who has the sacrifice, and likewise on the man who has the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविग्रीवः (*tuvigrīvaḥ*)—the one with many flames like necks
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- ववृधानः (*vavṛdhānaḥ*)—the one who grows; Agni who is such
+- आर्यः (*āryaḥ*)—of the enemy
+- वेदः (*vedaḥ*)—the wealth
+- अशत्रु (*aśatru*)—without opposition
+- समजाति (*samajāti*)—gathers
+- इतीमं (*itīmaṃ*)—such, endowed with wealth
+- अग्निं (*agniṃ*)—Agni
+- अमृताः (*amṛtāḥ*)—all the (other) gods
+- अवोचन् (*avocan*)—praise (and by the power of this praise)
+- बर्हिष्मते (*barhiṣmate*)—to the one who has the sacrifice
+- मनवे (*manave*)—to the sacrificer
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may he give
+- हविष्यते मनवे (*haviṣyate manave*)—to the sacrificer who offers oblations
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has many flames in the form of necks, who showers desires and who grows, gathers the wealth of the enemy without any opposition. All the other gods praise Agni, who is endowed with such wealth. By the power of this praise, may Agni bring happiness to the sacrificer who has the sacrifice and offers the oblation.
+
+##### English translation (H. H. Wilson)
+The many-necked, the showerer (of benefits), ever increasing,
+collects together the wealth of the enemy without opposition: the immortals
+have enjoined Agni that he will bestow happiness on the man who offers
+sacrifice; that he will bestow happiness on the man who offers oblations.
+
+### Printed p. 769
+
+## Sūkta 3 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वमग्ने वरुण इति द्वादशर्चं तृतीयं सूक्तमात्रेयस्य वसुश्रुतस्यार્ષं
+> त्रैष्टुभमाग्नेयं । त्वमग्ने वसुश्रुत इत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोगोऽबोध्यग्निरित्युक्तः ॥
+
+##### Gist of the bhāṣya
+
+The twelve-verse third hymn, त्वमग्ने वरुण (*tvamagne varuṇa*), has Vasuśruta of the Ātreya line as seer, Agni as deity and Triṣṭubh as metre. The Anukramaṇī says त्वमग्ने वसुश्रुत (*tvamagne vasuśruta*). Its use (viniyoga) in the Prātaranuvāka and the Aśvinaśastra was stated with the hymn अबोध्यग्निः (*abodhyagniḥ*).
+
+##### Anuvāda
+
+This hymn beginning त्वमग्ने वरुणः (*tvamagne varuṇaḥ*) is the third hymn in the first anuvāka. It has twelve ṛks. Its seer is Vasuśruta, born in the Atri lineage; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇī it is said त्वमग्ने वसुश्रुतः (*tvamagne vasuśrutaḥ*). The use of this hymn for reciting the mantras of the Prātaranuvāka and the Aśvinaśastra was stated in the viniyoga of the hymn अबोध्यग्निः (*abodhyagniḥ*) (the first hymn of this maṇḍala).
+
+Hymn 3. Maṇḍala 5; Anuvāka 1; Sūkta 3; Aṣṭaka 3; Adhyāya 8; Vargas 16, 17. Number of ṛks in the hymn: 12. Seer: Vasuśruta Ātreya. Deity: Agni. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने॒ वरु॑णो॒ जाय॑से॒ यत्त्वं मि॒त्रो भ॑वसि॒ यत्समि॑द्दः ।  
+> त्वे विश्वे॑ सहसस्पुत्र दे॒वास्त्विंद्रो॑ दा॒शुषे॒ मर्त्या॑य ॥
+
+> *tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddaḥ |*  
+> *tve viśve sahasasputra devāstviṃdro dāśuṣe martyāya ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । वरुणः । जायसे । यत् । त्वं । मित्रः । भवसि । यत् । संइद्धः ।  
+> तै इति । विश्वे । सहसः । पुत्र । देवाः । त्वं । इंद्रः । दातुषे । मर्त्याय ॥ १ ॥
+
+> *tvaṃ | agne | varuṇaḥ | jāyase | yat | tvaṃ | mitraḥ | bhavasi | yat | saṃiddhaḥ |*  
+> *tai iti | viśve | sahasaḥ | putra | devāḥ | tvaṃ | iṃdraḥ | dātuṣe | martyāya ‖ 1 ‖*
+
+### Printed p. 770
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं वरुणस्तमसां वारको रात्रभिमानी देवोऽपि त्वमेव
+> यद्यदा जायसे । किंच त्वं मित्रोऽहरभिमानी देवः प्रमितेस्त्राता यद्यदा
+> समिद्धः । त्वमुत्पन्नमात्रः सन् तमो निवारयसि प्रवृद्धः सन् हितकारी भवसीत्यर्थः।
+> त्वे त्वयि विश्वे सर्वॆऽपि देवा वर्तंते । त्वद्धत्तेन हविषा तेषां जीवनात् । ते
+> देवा बिभ्यतोऽग्निं प्राविशन्निति हि श्रुतेः । हे सहसस्पुत्र बलेन मध्यमानत्वात् ।
+> किंच त्वमिंद्रः स्वामी दाशुषे हविर्दात्रे मर्त्याय यजमानाय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are Varuṇa, the restrainer of darkness, the god presiding over night, when you are born. And you are Mitra, the god presiding over day, the protector from death, when you are kindled: when you have just arisen you ward off darkness, and when you are grown you do good. In you all the gods abide, since they live by the oblation given through you; for the śruti says that the gods, afraid, entered Agni. He is addressed as "son of strength" because he is produced by the force of churning. And you are Indra, the lord, to the mortal, the sacrificer who gives the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यत् (*yat*)—when
+- जायसे (*jāyase*)—you are born (then)
+- वरुणः (*varuṇaḥ*)—you are of the form of Varuṇa
+- यत् (*yat*)—when
+- समिद्धः (*samiddhaḥ*)—you blaze up (then)
+- त्वं (*tvaṃ*)—you
+- मित्रः भवसि (*mitraḥ bhavasi*)—become of the form of Mitra
+- त्वे (*tve*)—in you
+- विश्वे (*viśve*)—all
+- देवा (*devā*)—the gods (are contained)
+- सहसस्पुत्र (*sahasasputra*)—O Agni, son of strength
+- त्वं (*tvaṃ*)—you
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- मर्त्याय (*martyāya*)—to the human
+- इंद्रः (*iṃdraḥ*)—you are of the form of Indra (the lord)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, at the time you are born you are of the form of Varuṇa; then, when you blaze up, of the form of Mitra. In you all the gods are contained. O Agni, son of strength, you are of the form of Indra for the share of the man who offers the oblation.
+
+##### English translation (H. H. Wilson)
+You, Agni, are born Varuna, you become Mitra when kindled : in
+you, son of strength, are all the gods : you are Indra, son of strength, to
+the mortal who presents (oblations).
+
+##### विशेषविषयगळु (Special Topics)
+
+Vasuśruta is the seer of this hymn and of the next three hymns (hymns 3, 4, 5, 6 of this maṇḍala). Beyond the fact that this Vasuśruta was born in the Ātreya line, nothing else is known about him.
+
+In this ṛk and in some of the following ṛks Agni is praised as having the nature of other deities. Since all the gods receive the oblations offered in Agni through Agni's mouth, Agni is said to be of the nature of all the gods. To support this, the commentator quotes the Taittirīya Saṃhitā passage:
+
+### Printed p. 771
+
+देवासुराः संयत्ता आसन्ते देवा बिभ्यतोऽग्निं प्राविशन्तस्मादाहुरग्निः सर्वा देवता इति तेऽग्निमेव वरूथं कृत्वासुरानभ्यभवन् । (*devāsurāḥ saṃyattā āsante devā bibhyato 'gniṃ prāviśantasmādāhuragniḥ sarvā devatā iti te 'gnimeva varūthaṃ kṛtvāsurānabhyabhavan |*) (Tai. Saṃ. 6-2-2-6, 7).
+
+That is: in former times the gods and the asuras were drawn up for battle. Seeing that the strength of the asuras was greater, fear arose in the gods. So the gods took refuge in Agni, that he must protect them; they entered into him and became one with him. Afterwards, by Agni's protection, the gods were able to conquer the asuras. For this and similar reasons it is well known that all the gods dwell in Agni and that Agni has the nature of all the gods.
+
+Varuṇa, Mitra: the śruti sentence मैत्र्यं वा अहः । वारुणी रात्रिः (*maitryaṃ vā ahaḥ | vāruṇī rātriḥ*) declares that Mitra is the presiding deity of the day (ahas) and Varuṇa of the night. Because Agni's light shines chiefly at night, and because Agni with his light dispels darkness and makes light, Agni is praised as the gods Varuṇa and Mitra.
+
+Sahasaḥ putra: Agni is addressed as the son of strength. In sacrifices and the like, when Agni is produced by churning in the araṇis (pieces of wood), much strength has to be used for the churning, so Agni is born of strength (force); hence it is customary to call Agni the son of strength.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑र्य॒मा भ॑वसि॒ यत्क॒नीनां॒ नाम॑ स्वधाव॒न्गुह्यं॑ बिभर्षि ।  
+> अं॒जंति॑ मि॒त्रं सुधि॑तं॒ न गोभि॒र्यद्दंप॑ती॒ सम॑नसा कृ॒णोषि॑॥
+
+> *tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvanguhyaṃ bibharṣi |*  
+> *aṃjaṃti mitraṃ sudhitaṃ na gobhiryaddaṃpatī samanasā kṛṇoṣi‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अर्यमा । भवसि । यत् । कनीनां । नाम । स्वधावन् । गुह्यं । बिभर्षि ।  
+> अंजंति । मित्रं । सुधितं । न । गोभिः । यत् । दंपती इति दंपती । समनसा ।  
+> कृणोषि ॥ २ ॥
+
+> *tvaṃ | aryamā | bhavasi | yat | kanīnāṃ | nāma | svadhāvan | guhyaṃ | bibharṣi |*  
+> *aṃjaṃti | mitraṃ | sudhitaṃ | na | gobhiḥ | yat | daṃpatī iti daṃpatī | samanasā |*  
+> *kṛṇoṣi ‖ 2 ‖*
+
+### Printed p. 772
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विवाहे चतुर्थ्यामाज्याहुतौ त्वमर्यमेत्येषा । सूत्रितं च । त्वमर्यमा
+> भवसि यत्कनीनामिति विवाहे चतुर्थीं । आ. गृ. १-४ । इति ॥
+> हे अग्ने त्वमर्यमा भवसि । सर्वेषां नियमितासि । यद्यदा कनीनां
+> कन्यकानां संबंध्यसि । किंच हे स्वधावन् हविर्लक्षणान्नवन् गुह्यं गोपनीयं
+> नाम बिभर्षि वैश्वानर इति तन्नाम । सुधितं सुष्टु निहितं मित्रं न मित्रमिव गोभिः ।
+> विकारे प्रकृतिशब्दः । गोविकार्यै क्षीरादिभिरंजंति । यद्यस्माद्दंपती ज्यायापती।
+> समनसा समानमनस्कौ कृणोषि । करोषि ॥
+
+##### Gist of the bhāṣya
+
+This ṛk is used at a wedding in the fourth ājya oblation; it is also set down in the sūtra: त्वमर्यमा भवसि यत्कनीनामिति विवाहे चतुर्थीं (*tvamaryamā bhavasi yatkanīnāmiti vivāhe caturthīṃ*) (Ā. Gṛ. 1-4)**NOTE**. O Agni, you are Aryaman, the regulator of all, when you are connected with maidens. And, O possessor of svadhā (food in the form of oblation), you bear a secret name, which is the name Vaiśvānara. "Like a friend well placed": the word for the source (prakṛti) stands for the product, that is, they anoint with milk and the like, made from the cow. Since you make husband and wife of one mind, (they anoint you).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अग्नौ (*he agnau*)—O Agni
+- यत् (*yat*)—when
+- त्वं (*tvaṃ*)—you
+- कनीनां (*kanīnāṃ*)—are connected with maidens (then)
+- आर्यमा (*āryamā*)—of the form of Aryaman
+- भवसि (*bhavasi*)—you become
+- स्वधावन् (*svadhāvan*)—O Agni, who have food in the form of oblation
+- गुह्यं (*guhyaṃ*)—secret
+- नाम (*nāma*)—name
+- बिभर्षि (*bibharṣi*)—you bear
+- यत् (*yat*)—by what power
+- दंपती (*daṃpatī*)—husband and wife
+- समनसा (*samanasā*)—of one mind
+- कृणोषि (*kṛṇoṣi*)—you make (therefore)
+- सुधितं (*sudhitaṃ*)—excellently honoured
+- मित्रं न (*mitraṃ na*)—like a friend
+- गोभिः (*gobhiḥ*)—with milk and the like, products of the cow
+- अंजंति (*aṃjaṃti*)—they adorn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you are connected with maidens you become the god Aryaman**NOTE**. O Agni, who have food in the form of oblation, you bear a secret name. By the power by which you make husband and wife of one mind, for that very reason they adorn you with milk and the like, products of the cow, as one adorns a friend who is excellently honoured.
+
+##### English translation (H. H. Wilson)
+You are Aryaman in relation to maidens ; you bear, enjoyer of
+sacrificial food, a mysterious name : they anoint you, like a welcowe friend
+with milk and butter, when you make husband and wife of one mind.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the principal homa of the wedding, when the ājya oblation is offered in Agni, this ṛk त्वमर्यमा (*tvamaryamā*) is to be used as the mantra of the fourth oblation, according to the Āśvalāyana Gṛhyasūtra
+
 ---
 
-**Progress note:** Done through printed p. 766. pp. 761-766 (batch API)
+**Progress note:** Done through printed p. 772. pp. 767-772 (batch API)
