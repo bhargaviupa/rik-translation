@@ -10665,6 +10665,264 @@ O Indra, we shall make hundreds and thousands of your cattle come to us. May all
 ##### English translation (H. H. Wilson)
 We seek to bring down from you thousands and hundreds of cattle; may riches come to us from you.
 
+### Printed p. 284
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॑ श्वे क॒लशा॑नां॒ हिर॑ण्यानामधीमहि ।  
+> भू॒रि॒दा अ॑सि वृत्रहन् ॥ १९ ॥
+
+> *daśa śve kalaśānāṃ hiraṇyānāmadhīmahi |*  
+> *bhūridā asi vṛtrahan ‖ 19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । ते । कलशानां । हिरण्यानां । अधीमहि ।  
+> भूर्इदाः । असि । वृत्रहन् ॥ १९ ॥
+
+> *daśa | te | kalaśānāṃ | hiraṇyānāṃ | adhīmahi |*  
+> *bhūridāḥ | asi | vṛtrahan ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वत्तः कलशानां कुंभानां । कुंभपरिमितानामिति यावत् ।
+> हिरण्यानां हितरमणीयानां धनानां दश दशसंख्याकान्यधीमहि । धारयामः ।
+> हे वृत्रहन्वृत्राणां शत्रूणां हिंसकेंद्र त्वं भूरिदा असि । बहुप्रदो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, from you we hold ten (ten in number) कलशानां (*kalaśānāṃ*), that is, pitchers, i.e. pitchers' measures, of हिरण्यानां (*hiraṇyānāṃ*), that is, beneficial and delightful riches. O Vṛtrahan, slayer of the enemies called Vṛtras, you are भूरिदा (*bhūridā*), a giver of much.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—O Indra
+- ते (*te*)—from you
+- हिरण्यानां (*hiraṇyānāṃ*)—filled with riches in the form of gold
+- कलशानां (*kalaśānāṃ*)—of pitchers
+- दश (*daśa*)—the number ten
+- अधीमहि (*adhīmahi*)—we obtain
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of enemies
+- भूरिदाः (*bhūridāḥ*)—(you) as a generous giver
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we obtain from you pitchers, ten in number, filled with riches in the form of gold. O Indra, slayer of enemies, you are an exceedingly generous giver.
+
+##### English translation (H. H. Wilson)
+May we obtain from you, ten golden ewers, for you, slayer of Vritra, are a bountiful giver.
+
+### Printed p. 285
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॑दा॒ भूरि॑ देहि नो॒ मा द॒भ्रं भूर्या भ॑र ।  
+> भूरि॒ घेदिं॑द्र दित्ससि ॥ २० ॥
+
+> *bhūridā bhūri dehi no mā dabhraṃ bhūryā bhara |*  
+> *bhūri ghediṃdra ditsasi ‖ 20 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूर्isedाः । भूरि । देहि । नः । मा । दभ्रं । भूरि । आ । भर ।  
+> भूरि । घ । इत् । इंद्र । दित्ससि ॥ २० ॥
+
+> *bhūrisedāḥ | bhūri | dehi | naḥ | mā | dabhraṃ | bhūri | ā | bhara |*  
+> *bhūri | gha | it | iṃdra | ditsasi ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र भूरिदा बहुप्रदस्त्वं भूरि बहु धनं नोऽस्मभ्यं देहि । प्रयच्छ ।
+> किंतु दभ्रमल्पं धनं मा प्रयच्छ । भूरि बहुलं धनमस्मभ्यमा भर । आहर । किंच
+> भूरीत् अदभ्रमेव धनं दित्ससि घ । अस्मभ्यं दातुमिच्छसि खलु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who give much, give us much wealth; do not give little wealth. Bring (आहर (*āhara*)) abundant wealth for us. Moreover, you indeed wish to give only abundant wealth (not little); you desire to give to us, surely.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- भूरिदाः (*bhūridāḥ*)—you who give generously
+- भूरि (*bhūri*)—abundant wealth
+- नः (*naḥ*)—to us
+- देहि (*dehi*)—give
+- दभ्रं (*dabhraṃ*)—little wealth
+- मा (प्रयच्छ) (*mā (prayaccha)*)—do not give
+- भूरि (*bhūri*)—abundant wealth
+- आ भर (*ā bhara*)—bring for us
+- भूरि इति (*bhūri iti*)—abundant wealth only
+- दित्ससि घु (*ditsasi ghu*)—you are renowned as one who gives, are you not?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, generous as you are, give us abundant wealth. Do not give little wealth. Bring abundant wealth for us. You are renowned as one who gives wealth abundantly.
+
+##### English translation (H. H. Wilson)
+A bountiful giver are you, Indra : give bountifully to us ; (give) not little; bring much ; for verily you desire to give much.
+
+### Printed p. 286
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भू॒रि॒दा ह्यसि॑ श्रु॒तः पु॑रु॒त्रा शू॑र वृत्रहन् ।  
+> आ नो॑ भजस्व॒ राध॑सि ॥ २१ ॥
+
+> *bhūridā hyasi śrutaḥ purutrā śūra vṛtrahan |*  
+> *ā no bhajasva rādhasi ‖ 21 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूर्सिदाः । हि । असि । श्रुतः । पुरुत्रा । शूर । वृत्रहन् ।  
+> आ । नः । भजस्व । राधसि ॥ २१ ॥
+
+> *bhūrsidāḥ | hi | asi | śrutaḥ | purutrā | śūra | vṛtrahan |*  
+> *ā | naḥ | bhajasva | rādhasi ‖ 21 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्वृत्रस्य हिंसक शूर विक्रांतेंद्र भूरिदा बहुप्रदस्त्वं पुरुत्रा
+> पुरुषु बहुषु यजमानेषु श्रुतोऽसि हि । विख्यातो भवसि खलु । राधसि धने
+> नोऽस्माना भजस्व । आ समंताद्दागिनः कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Vṛtrahan, slayer of Vṛtra, O Śūra, valiant Indra, you who give much are renowned (श्रुतः (*śrutaḥ*)) पुरुत्रा (*purutrā*), that is, among many sacrificers; you are famous, surely. Make us share (भजस्व (*bhajasva*)) in wealth, आ (*ā*), that is, make us on every side partakers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—Indra, slayer of Vṛtra
+- शूर (*śūra*)—and valiant
+- भूरिदाः (*bhūridāḥ*)—you as a generous giver
+- पुरुत्सा (*purutsā*)—among many sacrificers
+- श्रुतः (*śrutaḥ*)—renowned
+- असि हि (*asi hi*)—you are, are you not
+- राधसि (*rādhasi*)—in wealth
+- नः (*naḥ*)—us
+- आ भजस्व (*ā bhajasva*)—make us worthy recipients who enjoy it
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra and valiant, you are renowned among many sacrificers as generous. Make us too worthy recipients of your wealth, so that we may also enjoy it.
+
+##### English translation (H. H. Wilson)
+Verily you are renowned amongst many as a bountiful giver ; hero, slayer of Vritra, make us sharers in wealth.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ ब॒भ्रू वि॑चक्षण॒ शंसा॑मि गोषणो नपात् ।  
+> मा भ्यां॒ गा अनु॑ शिश्रथः ॥ २२ ॥
+
+> *pra te babhrū vicakṣaṇa śaṃsāmi goṣaṇo napāt |*  
+> *mā bhyāṃ gā anu śiśrathaḥ ‖ 22 ‖*
+
+### Printed p. 287
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । बभ्रू इति । विचक्षण । शंसामि । गोऽसनः । नपात् ।  
+> मा । अभ्यां । गाः । अनु । शिश्रथः ॥ २२ ॥
+
+> *pra | te | babhrū iti | vicakṣaṇa | śaṃsāmi | go 'sanaḥ | napāt |*  
+> *mā | abhyāṃ | gāḥ | anu | śiśrathaḥ ‖ 22 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचक्षण प्राज्ञेंद्र ते त्वदीयौ बभ्रू बभ्रुवर्णावश्वा प्र शंसामि ।
+> प्रकर्षेण सौमि । हे गोसनो गवां सनितर्हे नपात् न पातयितः स्तोत्थनविनाशयितः । किंतु पालयितरित्यर्थः । हे इंद्र त्वमाभ्यां त्वदीयाभ्यामश्वाभ्यां गा
+> अनु अस्मदीया गा लक्षीकृत्य मा शिश्रथः । विनष्टा मा कार्षिः । गावोऽश्वदर्शनाद्विश्लिष्यंते । तन्मा भूदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Vicakṣaṇa, wise Indra, I praise (प्र शंसामि (*pra śaṃsāmi*)) your two brown-coloured horses, that is, I extol them exceedingly. O Gosana, winner of cows, O Napāt, not one who causes to fall, not a destroyer of worshippers (the Sanskrit here is damaged), but a protector — this is the meaning. O Indra, do not, with these two horses of yours, make our cows your target and cause them to be harmed (मा शिश्रथः (*mā śiśrathaḥ*)). Cows are scattered at the sight of horses; let that not be, this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचक्षण (*vicakṣaṇa*)—O wise Indra
+- ते (*te*)—your
+- बभ्रू (*babhrū*)—the golden-brown horses
+- प्र शंसामि (*pra śaṃsāmi*)—I praise exceedingly
+- गोसनः (*gosanaḥ*)—Indra, giver of cows
+- नपात् (*napāt*)—and one who does not harm worshippers
+- अभ्यां (*abhyāṃ*)—with your two horses
+- गाः अनु (*gāḥ anu*)—coming before our cows
+- मा शिश्रथः (*mā śiśrathaḥ*)—do not frighten them
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Indra, I praise your golden-brown horses exceedingly. O Indra, giver of cows and one who does not harm worshippers, do not come before our cows with your two horses and frighten them.
+
+##### English translation (H. H. Wilson)
+Wise Indra, I praise your brown (horses); bestower of cows you (are) not regardless (of your worshippers): with those two steeds terrify not our cattle.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒नी॒न॒केव॑ विद्र॒धे नवे॑ द्रुप॒दे अ॑भर्॒के ।  
+> ब॒भ्रू यामे॑षु शोभेते ॥ २३ ॥
+
+> *kanīnakeva vidradhe nave drupade abharke |*  
+> *babhrū yāmeṣu śobhete ‖ 23 ‖*
+
+### Printed p. 288
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कनीनकाइव । विद्रधे । नवे । द्रुपदे । अभर्के ।  
+> बभ्रू इति । यामेषु । शोभेते इति ॥ २३ ॥
+
+> *kanīnakāiva | vidradhe | nave | drupade | abharke |*  
+> *babhrū iti | yāmeṣu | śobhete iti ‖ 23 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्रधे विदृढे व्यूढे नवे नवजातेऽर्भकेऽल्पके द्रुपदे द्रुमाख्यस्थाने
+> स्थिते कनीनकेव कमनीये शालभंजिके इव हे इंद्र बभ्रुवर्णौ त्वदीयावश्वा यामेषु यज्ञेषु शोभेते । कांतियुक्ता भवतः ॥ कनीनके कन्यके । कन्या
+> कमनीया भवति क्वयं नेतव्येति वा कमनेनानीयत इति वा कनतीर्वा स्यात्कांतिकर्मण इत्यादि निरुक्तं । ४-१५ ॥
+
+##### Gist of the bhāṣya
+
+Like lovely wooden maidens (शालभंजिके (*śālabhaṃjike*)) — कनीनकेव (*kanīnakeva*) — standing on a द्रुपदे (*drupade*), a place called Druma, firmly constructed (विदृढे व्यूढे (*vidṛḍhe vyūḍhe*)), new, freshly made and small, your two brown-coloured horses, O Indra, shine at the sacrifices (यामेषु (*yāmeṣu*)), that is, they become radiant. Then he explains कनीनके (*kanīnake*) as कन्यके (*kanyake*): a maiden is lovely, or (the word arises from the thought) "where is she to be led?" or "she is led away by desire", or from the root कन (*kana*) in the sense of desire (कांतिकर्मणः (*kāṃtikarmaṇaḥ*)), and so on, as in the Nirukta, 4-15.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्रधे (*vidradhe*)—skilfully constructed
+- नवे (*nave*)—new
+- अर्भके (*arbhake*)—small
+- द्रुपदे (*drupade*)—standing on a stage
+- कनीनकेव (*kanīnakeva*)—like attractive puppets
+- बभ्रू (*babhrū*)—your two golden-brown horses
+- यामेषु (*yāmeṣu*)—in the places of sacrifice
+- शोभेते (*śobhete*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+Like attractive puppets standing on a skilfully constructed, new, small stage, your two golden-brown horses shine in the places of sacrifice.
+
+##### English translation (H. H. Wilson)
+Like two puppets on an arranged, new and slender stage, your two brown (steeds) are brilliant at sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, Indra's horses are praised. In many Ṛks, when occasion arises, Indra's horses are praised with one or two qualifying words, but nowhere are they praised separately in this way, that is, as the deity treated by the mantra. Indra's horses are two. They are named Hari. When Yāska, in the Nirukta, describes the various vehicles of the deities —
+
+### Printed p. 289
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुतां । आरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥ (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutāṃ | āruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ ‖*) (Ni. 9-28)
+— he gives this explanation. That is: for Indra the vehicles are two horses named Hari; for Agni a red horse called Rohita; for Āditya green horses called Harita; for the Aśvin deities the रासभौ (*rāsabhau*), that is, two donkeys; for the deity Pūṣan she-goats called अजाः (*ajāḥ*); for the Marut deities deer with white spots called पृषत्यः (*pṛṣatyaḥ*); for the deity Uṣas red-coloured cows called अरुण्यो गावः (*aruṇyo gāvaḥ*); for the deity Savitṛ dusky-red horses called श्यावाः (*śyāvāḥ*); for Bṛhaspati horses of many kinds of forms called विश्वरूपा (*viśvarūpā*); and for Vāyu horses of swift gait called नियुतः (*niyutaḥ*) are the vehicles.
+In this Ṛk the colour of Indra's horses is described: they are of brown (babhru, golden-brown) colour. And by way of an illustration it is described here that Indra's horses shine on the sacrificial ground like beautiful puppets, delightful to look at, standing on a stage built for dramatic performance.
+कनीनकेव (*kanīnakeva*)—On this Ṛk Yāska gives an explanation and offers this account of the word कनीनिके (*kanīnike*)—
+कनीनके कन्यके । कन्या कमनीया भवति । क्वयं नेतव्येति वा कमनेनानीयत इति वा । कनतेर्वा स्यात्कांतिकर्मणः । कन्ययोरधिष्ठानप्रवचनानि सप्तम्या एकवचनानीति शाकपूणिः ॥ (*kanīnake kanyake | kanyā kamanīyā bhavati | kvayaṃ netavyeti vā kamanenānīyata iti vā | kanatervā syātkāṃtikarmaṇaḥ | kanyayoradhiṣṭhānapravacanāni saptamyā ekavacanānīti śākapūṇiḥ ‖*) (Ni. 4-15)
+That is, the word कनीनिके (*kanīnike*) means कन्यके (*kanyake*). A कन्यका (*kanyakā*) or कन्या (*kanyā*) is कमनीया (*kamanīyā*), one desired by all; therefore the maiden is called कन्या (*kanyā*) or कमनीया (*kamanīyā*). Or, when the father gives her in marriage, he thinks "क्वयं नेतव्येति वा (*kvayaṃ netavyeti vā*)", that is, where (by whom) will she be taken away after marriage; hence the name कन्या (*kanyā*) — this too is the derivation of the word. For the root कनति (*kanati*) is used in the sense of कांतिकर्म (*kāṃtikarma*), that is, to desire, to request; so कन्या (*kanyā*) means that many will desire or request this woman in order to marry her; this is the explanation of the meaning of the word कन्या (*kanyā*). In this Ṛk, विद्रधे (*vidradhe*),
+
 ---
 
-**Progress note:** Done through printed p. 283. pp. 278-283 (batch API)
+**Progress note:** Done through printed p. 289. pp. 284-289 (batch API)
