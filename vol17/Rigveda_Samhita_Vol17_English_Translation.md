@@ -5089,6 +5089,213 @@ Gratify this our desire (of wealth) with cows, with horses, with shining treasur
 
 "O Indra, in this भरे (*bhare*)", a battle, so called because warriors bear (बिभ्रति (*bibhrati*)) the goddess of victory by it, the "वाजसात् (*vājasāt*)" is that in which there is gain (सातिः (*sātiḥ*)) of food (वाज (*vāja*)). In that battle we call you, शुनं (*śunaṃ*), swollen, that is, grown strong in zeal; or else शुनमिति (*śunamiti*) is a name for happiness, so, the giver of happiness. You are मघवानं (*maghavānaṃ*), wealthy, hence Indra, possessed of unsurpassed lordship, and नृतमं (*nṛtamaṃ*), the supreme leader of the whole world. We Kuśikas call you for the sacrifice. Likewise you hear the praise made by us, you are fierce (उग्रं (*ugraṃ*)), terrifying to enemies, in battles (समत्सु (*samatsu*)) you slay all the demons marked by Vṛtra, and you are the complete conqueror of the enemies' wealth. We call you, such a one, for protection (ऊतये (*ūtaye*)). The rest is grammar.
 
+### Printed p. 132
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजसात् (*vājasāt*)—proceeding for the sake of food
+- भरे (*bhare*)—in battle
+- शुनं (*śunaṃ*)—one who grows with zeal, or one who produces happiness
+- मघवानं (*maghavānaṃ*)—the wealthy one
+- इंद्रं (*iṃdraṃ*)—the one endowed with unsurpassed lordship
+- नृतमं (*nṛtamaṃ*)—the one who is the leader; you who are such
+- हुवेम (*huvema*)—we pray and call (likewise)
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—the one who listens to (our praises)
+- उग्रं (*ugraṃ*)—the one who is terrible to enemies
+- समत्तु (*samattu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—the asuras beginning with Vṛtra
+- घ्नंतं (*ghnaṃtaṃ*)—the one who injures and destroys
+- धनानां (*dhanānāṃ*)—the wealth (of enemies)
+- संचितं (*saṃcitaṃ*)—the one who gathers and gives (to us); you who are such
+- ऊतये (*ūtaye*)—for protection
+- हुवेम (*huvema*)—I pray and call.
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who give happiness in the battle fought for the sake of food, who are wealthy, endowed with unsurpassed lordship, a leader, who listen to our praises, who are terrible to enemies, who in battles injure and destroy asuras such as Vṛtra, and who gather the wealth of enemies and give it to us — you we pray and call for protection.
+
+##### English translation (H. H. Wilson)
+We invoke for our protection the opulent Indra, distinguished in this combat, the leader in the food-bestowing (strife), hearing (our praises), terrible in battles, the destroyer of foes, the conqueror of wealth.
+
+## Sūkta 51 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चर्षणीधृतमिति द्वादशर्चं त्रयोदशं सूक्तं वैश्वामित्रमैंद्रं । अत्रानुक्रमणिका । चर्षणीधृतं द्वादशाद्यांत्यौ तृचौ जागतगायत्राविति । आद्यस्तृचो
+> जागतोऽंत्यस्तृचो गायत्रः शिष्टा ऋचस्त्रिष्टुभः ॥ सूक्तविनियोगो लैंगिकः ।
+> उक्ते क्रत्वा मैत्रा वरुणशस्त्रेऽनुरूपतृचानंतरमाद्यस्तृ चः शंसनीयः । सूत्रितं ।
+> च चर्षणीधृतमस्तभ्नाद्दामसुर इति तृचौ आ. ६-१ । इति ॥ विषुवति निष्केवल्ये नृणामु त्वैति तृचः । विषुवानिति खंडे सूत्रितं । नृणामु त्वा नृतमं गीर्भिरुक्थैरिति
+> शिस्त्रः । आ. ८-६ । इति ॥ बृहस्पतिसवेऽप्ययं तृचो निष्केवल्ये निविद्वान्नीयः । सूत्रितं
+> च । नृणामु त्वैति मध्यंदिनः । आ. ९-५ । इति ॥ महाव्रतेऽपि निष्केवल्येऽयं तृचः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning चर्षणीधृतं (*carṣaṇīdhṛtaṃ*) has twelve Ṛks and is Vaiśvāmitra (its seer is Viśvāmitra) and Aindra (its deity is Indra). The Anukramaṇikā says: चर्षणीधृतं द्वादशाद्यांत्यौ तृचौ जागतगायत्राविति (*carṣaṇīdhṛtaṃ dvādaśādyāṃtyau tṛcau jāgatagāyatrāviti*), i.e. the first triplet is in Jagatī, the last triplet in Gāyatrī, and the remaining Ṛks are in Triṣṭubh. The use of the sūkta is Laiṅgika (by the indication of the text). In the ukthya rite (the Kannada reading उक्ते क्रत्वा (*ukte kratvā*) is garbled) **NOTE**, in the Maitrāvaruṇa śastra, after the anurūpa triplet, the first triplet of this sūkta is to be recited. It is stated in the sūtra: चर्षणीधृतमस्तभ्नाद्दामसुर इति तृचौ (*carṣaṇīdhṛtamastabhnāddāmasura iti tṛcau*) (Ā. 6-1). At the Viṣuvat in the niṣkevalya the triplet नृणामु त्वा (*nṛṇāmu tvā*) is used; this is stated in the Viṣuvān section: नृणामु त्वा नृतमं गीर्भिरुक्थैरिति शिस्त्रः (*nṛṇāmu tvā nṛtamaṃ gīrbhirukthairiti śistraḥ*) **NOTE** (Ā. 8-6). In the Bṛhaspatisava also this triplet is used as the nivid in the niṣkevalya; the sūtra says: नृणामु त्वैति मध्यंदिनः (*nṛṇāmu tvaiti madhyaṃdinaḥ*) (Ā. 9-5). In the Mahāvrata also this triplet is used in the niṣkevalya.
+
+### Printed p. 133
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रे चतुर्थेऽहनि मरुत्वतीय इंद्र मरुत्व इति तिस्रः । षष्ठेऽहनि षष्ठस्यॆति
+> खंडे सूत्रितं । इंद्र मरुत्व इति तिस्र इति मरुत्वतीयं । आ. ८-१ । इति ॥ बृहस्पतिसवेऽपि मरुत्वतीयशस्त्रेऽयं तृचो निविद्धानीयः । सूत्रितं च । इंद्र मरुत्व
+> इह नृणामु तैति मध्यंदिनः । आ ९ ५ । इति । आद्या मरुत्वतीयग्रहस्यानुवाक्या ।
+> सूत्रितं च । मरुत्वतीयेन ग्रहेण चरंतींद्र मरुत्व इह पाहि सोमं । आ.
+> ५-१४ । इति । तृतीये पर्याये होतुः शस्त्र इदं ह्यन्नोजसेति स्तोत्रियस्तृचः ।
+> सूत्रितं च । इदं ह्यन्नोजसा महा इंद्रो य ओजसा । आ. ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Daśarātra, on the fourth day, at the Marutvatīya, the three Ṛks इंद्र मरुत्व (*iṃdra marutva*) are used; the Khaṇḍa on the sixth day states: इंद्र मरुत्व इति तिस्र इति मरुत्वतीयं (*iṃdra marutva iti tisra iti marutvatīyaṃ*) (Ā. 8-1). In the Bṛhaspatisava also this triplet is used as the nivid in the Marutvatīya śastra; the sūtra says: इंद्र मरुत्व इह नृणामु तैति मध्यंदिनः (*iṃdra marutva iha nṛṇāmu taiti madhyaṃdinaḥ*) (Ā. 9-5). The first Ṛk is the anuvākyā of the Marutvatīya cup; the sūtra says: मरुत्वतीयेन ग्रहेण चरंतींद्र मरुत्व इह पाहि सोमं (*marutvatīyena graheṇa caraṃtīṃdra marutva iha pāhi somaṃ*) (Ā. 5-14). In the third paryāya, in the Hotṛ's śastra, the triplet इदं ह्यन्नोजसेति (*idaṃ hyannojaseti*) is the stotriya triplet; the sūtra says: इदं ह्यन्नोजसा महा इंद्रो य ओजसा (*idaṃ hyannojasā mahā iṃdro ya ojasā*) (Ā. 6-4).
+
+##### Anuvāda
+
+The sūkta beginning चर्षणीधृतं (*carṣaṇīdhṛtaṃ*) is the thirteenth sūkta in the fourth anuvāka. It has twelve Ṛks. Viśvāmitra is the seer of this sūkta and Indra the deity. The Anukramaṇikā says: चर्षणीधृतं द्वादशाद्यांत्यौ तृचौ जागतगायत्राविति (*carṣaṇīdhṛtaṃ dvādaśādyāṃtyau tṛcau jāgatagāyatrāviti*). That is, the first three Ṛks are in the Jagatī metre; the last three are in the Gāyatrī metre; the remaining Ṛks are in the Triṣṭubh metre. The use of the sūkta is Laiṅgika. In the sacrifice called Ukthya, at the time of reciting the Maitrāvaruṇa śastra mantras, after the anurūpa Ṛks (a triplet) have been recited, the first three Ṛks of this sūkta are to be recited; this is explained by the Āśvalāyana Śrauta Sūtra: चर्षणीधृतमस्तभ्नाद्यामसुर इति तृचौ (*carṣaṇīdhṛtamastabhnādyāmasura iti tṛcau*) (Ā. 6-1). In the Viṣuvat sacrifice, for the niṣkevalya śastra mantras, three Ṛks beginning नृणामु त्वा (*nṛṇāmu tvā*) (Ṛks 3-5 of this sūkta) are used; this is explained by the Āśvalāyana Śrauta Sūtra in the Khaṇḍa called Viṣuvān: नृणामु त्वा नृतमं गीर्भिरुक्कैरिति तिस्रः (*nṛṇāmu tvā nṛtamaṃ gīrbhirukkairiti tisraḥ*) (Ā. 8-6). In the sacrifice called Bṛhaspatisava also, the same three Ṛks beginning नृणामु त्वा (*nṛṇāmu tvā*) are to be used as nivid mantras at the time of reciting the niṣkevalya śastra mantras; this is explained by the Āśvalāyana Śrauta Sūtra: नृणामु त्वेति मध्यंदिनः (*nṛṇāmu tveti madhyaṃdinaḥ*) (Ā. 9-5). In the Mahāvrata also these three Ṛks are recited for the niṣkevalya śastra mantras. In the sacrifice called Daśarātra, on the fourth day, for the Marutvatīya śastra mantras, three Ṛks of this sūkta beginning इंद्र मरुत्व (*iṃdra marutva*) (Ṛks 6-8 of this sūkta) are used; this is explained by the Āśvalāyana Śrauta Sūtra in the Khaṇḍa षष्ठेऽहनि षष्ठस्य (*ṣaṣṭhe 'hani ṣaṣṭhasya*) by the sūtra इंद्रमरुत्व इति तिस्त्र इति मरुत्वतीया (*iṃdramarutva iti tistra iti marutvatīyā*) (Ā. 8-1). In the Bṛhaspatisava also, the three Ṛks just mentioned are to be used as nivid mantras for the Marutvatīya śastra mantras; this is explained by the Āśvalāyana Śrauta Sūtra: इंद्र मरुत्व इह नृणामु त्वेति मध्यंदिनः (*iṃdra marutva iha nṛṇāmu tveti madhyaṃdinaḥ*) (Ā. 9-5). The first Ṛk of this sūkta is to be recited as the puronuvākyā mantra of the Marutvatīya cup; the Āśvalāyana Śrauta Sūtra says: मरुत्वतीयेन ग्रहेण चरंतींद्र मरुत्व इह पाहि सोमं (*marutvatīyena graheṇa caraṃtīṃdra marutva iha pāhi somaṃ*)
+
+### Printed p. 134
+
+which sūtra explains it (Ā. 5-14). Moreover, in the third paryāya, when the Hotṛ recites the śastra mantra, three Ṛks beginning इदं ह्यन्नोजसा (*idaṃ hyannojasā*) (Ṛks 10-12 of this sūkta) are to be recited as the stotriya triplet; this is explained by the Āśvalāyana Śrauta Sūtra: इदं ह्यन्नोजसा महा इंड्रो य ओजसा (*idaṃ hyannojasā mahā iṃḍro ya ojasā*) (Ā. 6-4).
+
+Om.
+Sūkta 51.
+Maṇḍala 3; Anuvāka 4; Sūkta 51.
+Aṣṭaka 3; Adhyāya 3; Varga 15, 16.
+Number of Ṛks in the sūkta: 12.
+Ṛṣi: Viśvāmitra.
+Devatā: Indra.
+Metre: 1-3 Jagatī; 4-9 Triṣṭubh; 10-12 Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒र्ष॒णी॒धृतं॑ म॒घवा॑नमु॒क्थ्य१॒॑मिंद्रं॒ गिरो॑ बृह॒तीर॒भ्य॑नूषत ।  
+> वा॒वृ॒धा॒नं पु॑रुहू॒तं सु॑वृ॒क्तिभि॒रम॑र्त्यं॒ जर॑माणं दि॒वेदि॑वे ॥ १ ॥
+
+> *carṣaṇīdhṛtaṃ maghavānamukthyamiṃdraṃ giro bṛhatīrabhyanūṣata |*  
+> *vāvṛdhānaṃ puruhūtaṃ suvṛktibhiramartyaṃ jaramāṇaṃ divedive ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चर्षणीधृतं । मघवानं । उक्ष्यं । इंद्रं । गिरः । बृहतीः । अभि । अनूषत ।  
+> वावृधानं । पुरुहूतं । सुवृक्तिभिः । अमर्त्यं । जरमाणं । दिवेऽदिवे ॥ १ ॥
+
+> *carṣaṇīdhṛtaṃ | maghavānaṃ | ukṣyaṃ | iṃdraṃ | giraḥ | bṛhatīḥ | abhi | anūṣata |*  
+> *vāvṛdhānaṃ | puruhūtaṃ | suvṛktibhiḥ | amartyaṃ | jaramāṇaṃ | dive 'dive ‖ 1 ‖*
+
+### Printed p. 135
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहतीः प्रभूता गिरोऽस्मदीयाः स्तुतिलक्षणा वाचश्चर्यणेधृतं चर्षणीनां
+> मनुष्याणामभिमतफलप्रदानेन धारकं पोषकं । यद्वा । आकृषंत्यनेन सर्वमिति
+> चर्षन् बलं तद्वारकं । मघवानं धनवंतमुक्त्र्यमुक्त्यैः शस्त्रैः शंसनीयं वावृधानं बलधनादिसंपत्ता प्रतिक्षणं वर्धमानं पुरुहूतु स्तोतृभिर्बहुवारमाहूतममर्त्यं मरणधर्मरहितं सुवृक्तिभिः शोभनस्तुतिवाक्यर्दिवे प्रत्यहं जरमाणं स्तूयमानं तमिमदिंद्रमभ्यनूषत । अभितः सर्वतः स्तुवंतु ॥ बृहतीः ।
+> ना छंदसीति सवर्णदीर्घः। अनूषत । णू स्तवने । अस्माल्लुजु सिच् । धातोः कुटादित्वात्सिजो जित्वेन गुणाभावः । सुवृक्तिभिः । नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं।
+> यद्वा ! सुवृक्तय इति स्तुतिकरणभूता ऋचो व्यक्तिशब्देनोच्यंते । क्तिच्क्त्य चेति
+> क्तिच् । कृत्सरेणांतोदात्तः । दिवे दिवे । नित्यवीप्सयोरिति द्विर्वचनं । परस्याम्रेडितत्पादनुदात्तत्वे पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+बृहतीः (*bṛhatīḥ*): abundant; गिरः (*giraḥ*): our words in the form of praise. They should praise this Indra on every side (अभ्यनूषत (*abhyanūṣata*)). Indra is चर्षणीधृतं (*carṣaṇīdhṛtaṃ*): the upholder, nourisher, of men (चर्षणीनां (*carṣaṇīnāṃ*)) by granting the fruit they desire. Or else: that by which everything is drawn is चर्षन् (*carṣan*), strength, and he is its holder. मघवानं (*maghavānaṃ*): the wealthy; the ukthya: to be praised by ukthas, by śastras; वावृधानं (*vāvṛdhānaṃ*): increasing every moment through the wealth of strength, riches and the like; पुरुहूतं (*puruhūtaṃ*): called many times by the singers; अमर्त्यं (*amartyaṃ*): free from the nature of death; सुवृक्तिभिः (*suvṛktibhiḥ*): with good words of praise; दिवे दिवे (*dive dive*): every day; जरमाणं (*jaramāṇaṃ*): being praised. अभितः (*abhitaḥ*) means on all sides; "let them praise". Or else: सुवृक्तय (*suvṛktaya*) are the Ṛks, the instruments of praise, which are called by the word vṛkti.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणीधृतं (*carṣaṇīdhṛtaṃ*)—the nourisher of men
+- मघवानं (*maghavānaṃ*)—the wealthy
+- उक्ष्यं (*ukṣyaṃ*)—the one praised by hymns in the form of ukṣa **NOTE**
+- वावृधानं (*vāvṛdhānaṃ*)—the one who grows through wealth
+- पुरुहूतं (*puruhūtaṃ*)—the one called by many
+- अमर्त्यं (*amartyaṃ*)—the one free from the nature of death
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent words of praise
+- दिवे दिवे (*dive dive*)—every day
+- जरमाणं (*jaramāṇaṃ*)—the one who is praised
+- इंद्रं (*iṃdraṃ*)—Indra
+- बृहतीः (*bṛhatīḥ*)—abundant
+- गिरः (*giraḥ*)—our words of praise
+- अभ्यनूषत (*abhyanūṣata*)—let them praise fully.
+
+##### भावार्थ (Bhāvārtha)
+
+May our abundant words of praise praise fully Indra, who nourishes men, is wealthy, is praised by hymns in the uktha form, grows through wealth, is called by many, is free from the nature of death, and is praised every day with excellent words of praise.
+
+##### English translation (H. H. Wilson)
+Let abundant praises celebrate Indra, the stay of man, the possessor of opulence, the adorable, prospering with increase, the invoked of many, the immortal, who is daily to be propitiated with sacred hymns.
+
+### Printed p. 136
+
+##### विशेषविषयगळु (Special Topics)
+
+चर्षणीधृतं (*carṣaṇīdhṛtaṃ*)—मनुष्याणामभिमतफलप्रदानेन धारकं पोषकं (*manuṣyāṇāmabhimataphalapradānena dhārakaṃ poṣakaṃ*). यद्वा अकृषंत्यनेन सर्वमिति चर्षणि बलं तद्धारकं (*yadvā akṛṣaṃtyanena sarvamiti carṣaṇi balaṃ taddhārakaṃ*). The word चर्षणी (*carṣaṇī*) is read among the names of man (Ni. 3-7). Because Indra gives and protects the fruits that correspond to the sacrifices and other rites performed by men, he is called चर्षणीधृतं (*carṣaṇīdhṛtaṃ*). Or else, since everything is drawn, the word चर्षणी (*carṣaṇī*) is understood to mean strength; Indra is praised as the one who holds such strength, that is, as mighty.
+
+उक्थं (*ukthaṃ*)—उक्थैः शस्त्रैः शंसनीयं (*ukthaiḥ śastraiḥ śaṃsanīyaṃ*). Uktha means hymn. The sense is: Indra, who is praised both by hymns and by śastra mantras.
+
+पुरुहूतं (*puruhūtaṃ*)—स्तोतृभिर्बहुवारमाहूतं (*stotṛbhirbahuvāramāhūtaṃ*). The one called many times by the people who sing hymns; or by many people, that is, the one invited by the sacrificer who performs the sacrifice, the priests, other singers and the like.
+
+सुवृक्तिभिः (*suvṛktibhiḥ*)—स्तुतिकरणभूता ऋचो व्यक्तिशब्देनोच्यंते (*stutikaraṇabhūtā ṛco vyaktiśabdenocyaṃte*). Ṛks that are devoted to praise are named vyakti (vṛkti). For this word Yāska has given the explanation सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः (*supravṛttābhiḥ śobhanābhiḥ stutibhiḥ*) (Ni. 2-24): with excellent words of praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तक्र॑तुमर्ण॒वं शा॒किनं॒ नरं॒ गिरो॑ म॒ इंद्र॒मुप॑ यंति  ॒॑
+> विश्वतः ।  
+> वा॒ज॒सनिं॑ पू॒र्विदं॒ तूर्णि॑म॒पुरं॑ धाम॒साच॑मभि॒षाचं॑  
+> स्व॒र्विदं॑ ॥ २ ॥
+
+> *śatakratumarṇavaṃ śākinaṃ naraṃ giro ma iṃdramupa yaṃti*  
+> *viśvataḥ |*  
+> *vājasaniṃ pūrvidaṃ tūrṇimapuraṃ dhāmasācamabhiṣācaṃ*  
+> *svarvidaṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शत्क्रतुं । अर्णवं । शाकिनं । नरं । गिरः । मे । इंद्रं । उप । यंति । विश्वतः ।  
+> वाजसनिं । पूःभिदं । तोर्णिं । अप्तुरं । धामसाचं । अभिसाचं । स्वःविदम् ॥ २ ॥
+
+> *śatkratuṃ | arṇavaṃ | śākinaṃ | naraṃ | giraḥ | me | iṃdraṃ | upa | yaṃti | viśvataḥ |*  
+> *vājasaniṃ | pūḥbhidaṃ | torṇiṃ | apturaṃ | dhāmasācaṃ | abhisācaṃ | svaḥvidam ‖ 2 ‖*
+
+### Printed p. 137
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मदीया गिरः स्तुतिलक्षणा वाचः शतक्रतुं । शतं क्रतवो यज्ञा यस्य
+> तं । अर्णवं पर्जन्यात्मनोदकवंतं शाकिनं । शक्नोत्येभिरिंद्र इति शाकाः सहायभूता मरुतः । तद्वंतं। नरं सर्वस्य जगतो नेतारं वाजसनिं वाजस्यान्नस्य दातारं
+> पूर्भिदं शत्रुपुरां भेत्तारं तूर्णिं युद्धं प्रति शीघ्रं गंतारमप्पुरं मेघभेदनद्वारापां प्रेरकं धामसाचं तेजो भजमानं । यद्वा धनं धाम । तदर्थिभिः
+> सह योजयितारं । अभिषाचं शत्रूणामभिभवितारं स्वर्विदं स्वर्गस्य लंभकं तमिमनिंद्रं विश्वतः सर्वत उप यंति । उपगच्छंतु ॥ अर्णवं । अर्णोऽस्यास्तीति
+> मत्त्वर्थेऽर्णसः सलॊपश्चति वप्रत्ययः सकारलोपश्च । प्रत्ययस्वरः । नरं । नयतेर्डिच्चेत्कृप्रत्ययः । अमः सुप्त्वादनुदात्तत्वे प्रत्ययस्वरः । यंति । इण् गतावित्यस्य लटीणो यणिति यण् । निघातः । वाजसनिं । षणु दाने । खनिकष्यंज्यसिवसीत्यादिना इप्रत्ययः ; परादिष्पंदसि बहुलमित्युत्तरपदाद्युदात्तत्वं । तूर्णिं ।
+> इत्वरा संभ्रमे । वहिश्रीत्यादिना निप्रत्ययः । ज्वरत्वरेत्यादिना ऊट् । निदित्यतिदेशादाद्युदात्तः । अप्पुरं । तुर त्वर्णे । क्विप् । कृदुत्तरपदस्वरः । अभिषाचं । षच समवाये । ण्यंतस्य क्विप् ॥
+
+##### Gist of the bhāṣya
+
+मे मदीया गिरः (*me madīyā giraḥ*): my words in the form of praise should approach on every side (विश्वतः (*viśvataḥ*), from all directions) this Indra (उप यंति (*upa yaṃti*): let them approach), who is: शतक्रतुं (*śatakratuṃ*), he of whom there are a hundred sacrifices (kratu); अर्णवं (*arṇavaṃ*), the possessor of water in the form of Parjanya; शाकिनं (*śākinaṃ*), he by whom Indra is able — the शाकाः (*śākāḥ*) are the Maruts, who are his helpers — the possessor of them; नरं (*naraṃ*), the leader of the whole world; वाजसनिं (*vājasaniṃ*), the giver of food (वाज (*vāja*)); पूर्भिदं (*pūrbhidaṃ*), the breaker of the cities of enemies; तूर्णिं (*tūrṇiṃ*), one who goes swiftly to battle; अप्पुरं (*appuraṃ*), the impeller of the waters by splitting the cloud; धामसाचं (*dhāmasācaṃ*), one who partakes of splendour; or else धाम (*dhāma*) is wealth, and he is the one who unites with those who desire it; अभिषाचं (*abhiṣācaṃ*), the overcomer of enemies; स्वर्विदं (*svarvidaṃ*), the obtainer of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- गिरः (*giraḥ*)—words in the form of praise
+- शतक्रतुं (*śatakratuṃ*)—the performer of many sacrifices
+- अर्णवं (*arṇavaṃ*)—the one filled with water as Parjanya
+- शाकिनं (*śākinaṃ*)—the one accompanied by the Maruts
+- नरं (*naraṃ*)—the one who is the leader
+- वाजसनिं (*vājasaniṃ*)—the giver of food
+- पूर्विदं (*pūrvidaṃ*)—the destroyer of enemy cities
+- तूर्णिं (*tūrṇiṃ*)—the one who runs toward battle
+- अफ्पुरं (*aphpuraṃ*)—the one who pours down rain
+- धामसाचं (*dhāmasācaṃ*)—the one endowed with splendour
+- अभिषाचं (*abhiṣācaṃ*)—the conqueror of enemies
+- स्वर्विदं (*svarvidaṃ*)—the one who brings heaven within reach; who is such
+- इंद्रं (*iṃdraṃ*)—Indra
+- विश्वतः (*viśvataḥ*)—from all sides
+- उप यंति (*upa yaṃti*)—let them approach and join.
+
+##### भावार्थ (Bhāvārtha)
+
+May my words in the form of praise approach and join, from all sides, Indra, who is the performer of many sacrifices, filled with water as Parjanya, accompanied by the Maruts, the leader, the giver of food, the destroyer of enemy cities, who runs toward battle, pours down rain, is endowed with splendour, conquers enemies and brings heaven within reach.
+
+##### English translation (H. H. Wilson)
+My praises constantly propitiate Indra, the object of many rites, the sender of rain attended by the Maruts, the leader (of all), the giver of food,
+
 ---
 
-**Progress note:** Done through printed p. 131. pp. 126-131 (batch API, retry 1)
+**Progress note:** Done through printed p. 137. pp. 132-137 (batch API, retry 2)
