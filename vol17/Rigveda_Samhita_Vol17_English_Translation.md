@@ -142,6 +142,200 @@ Besides, Yāska has given the etymology of the word Indra in many ways—
 
 (15) यज्ञनां यागानुष्ठायिनामादरयिता भयस्य परिहर्ता (*yajñanāṃ yāgānuṣṭhāyināmādarayitā bhayasya parihartā*)—He honours those who worship him with sacrifices and the like, and removes their fear; hence the name Indra for this god. In the same way many etymologies can be devised for the word Indra.
 
+### Printed p. 8
+
+Besides these meanings, the commentator says that in each context whichever meaning suits Indra should be accepted there. For example: इदं दर्शनादित्यौवमन्यवः । इदं ब्रह्म साक्षात्पश्यतीतींद्रः । (*idaṃ darśanādityauvamanyavaḥ | idaṃ brahma sākṣātpaśyatītīṃdraḥ |*) And in the Āraṇyaka it is heard: स एतमेव पुरुषं ब्रह्मततममपश्यदिदमदर्शमिती ३ । तस्मादिंद्रो नामेदंद्रो ह वै नाम तमिदंद्रं संतमिंद्र इत्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः (*sa etameva puruṣaṃ brahmatatamamapaśyadidamadarśamitī 3 | tasmādiṃdro nāmedaṃdro ha vai nāma tamidaṃdraṃ saṃtamiṃdra ityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ*) (Ai. Ā. 2-4-3).
+
+Here the word इदं (*idaṃ*) denotes Brahman. Since Indra sees that Brahman directly, that is, is able to see it, he is named Indra. After explaining the meaning in this way, the commentator quoted the Aitareya Āraṇyaka passage above, from स एतमेव (*sa etameva*) to इव हि देवाः (*iva hi devāḥ*), in support of it.
+
+वृषभं (*vṛṣabhaṃ*)—This word is formed from the root वृषु वर्षणे (*vṛṣu varṣaṇe*). It means one who pours down the desired objects of those who serve him, as rain pours down. The word is generally used of Indra.
+
+सोमे सुते (*some sute*)—ग्रावभिरभिषुते सोमे (*grāvabhirabhiṣute some*): in the Soma pressed with the stones. The meaning is: after the Soma plants have been crushed with stones, the juice squeezed out, and the juice strained and made ready, fit for drinking. I have explained the method of preparing the Soma juice at length many times before; see Ṛ. Saṃ. Part 10, pages 631, 637 and 697. For Indra's drinking of Soma, see Part 14, page 606.
+
+मध्वः अंधसः (*madhvaḥ aṃdhasaḥ*)—मदकरमंधसोऽन्नलक्षणं सोमं (*madakaramaṃdhaso 'nnalakṣaṇaṃ somaṃ*). The word मध्वः (*madhvaḥ*) is an adjective of the word अंधसः (*aṃdhasaḥ*). It may be given the meanings sweet, tasty, delightful, causing intoxication or joy. The word अंध (*aṃdha*) is read among the names of food (Ni. 3-9). Besides, Yāska says of the word अंधस् (*aṃdhas*): अंध इत्यन्ननामाध्यानीयं भवति । तमोऽप्यंध उच्यते नास्मिन् ध्यानं भवति । न दर्शनमंधंतम इत्यभिभाषंते । अयमपीतरोऽन्न एतस्मादेव । पश्यदक्षण्वान्न विचेतदंध इत्यपि निगमो भवति ॥ (*aṃdha ityannanāmādhyānīyaṃ bhavati | tamo 'pyaṃdha ucyate nāsmin dhyānaṃ bhavati | na darśanamaṃdhaṃtama ityabhibhāṣaṃte | ayamapītaro 'nna etasmādeva | paśyadakṣaṇvānna vicetadaṃdha ityapi nigamo bhavati ‖*) (Ni. 5-1).
+
+That is, the word अंधः (*aṃdhaḥ*) is a name for food. Why? Because food is needed by everyone, it is prayed for (desired) by everyone; therefore अंधः (*aṃdhaḥ*) means food. Also in connection with Soma
+
+### Printed p. 9
+
+juice, the use of the word अंधः (*aṃdhaḥ*) in the sense of the Soma juice, which is of the nature of food, is especially frequent in the Ṛgveda. अंधः (*aṃdhaḥ*) is also a name for darkness (tamas). For in darkness nothing is seen, so nothing can be done. Even in worldly usage, people say अंधंतम (*aṃdhaṃtama*) when darkness has fallen so that nothing can be seen by the eye. He says that there is also an example of this in the Vedic text पश्यदक्षण्वान्न उचेतदंधः (*paśyadakṣaṇvānna ucetadaṃdhaḥ*) (Ṛ. Saṃ. 1-164-16).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ क्रतु॒विदं॑ सु॒तं सोमं॑ हर्य पुरुष्टुत ।  
+> पिबा वृ॑षस्व॒ तातृ॑सिं ॥ २ ॥
+
+> *iṃdra kratuvidaṃ sutaṃ somaṃ harya puruṣṭuta |*  
+> *pibā vṛṣasva tātṛsiṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । क्रत्युविदं । सुतं । सोमं । हर्य । पुरुस्तुत ।  
+> पिब । आ । वृषस्व । ततृसिं ॥ २ ॥
+
+> *iṃdra | kratyuvidaṃ | sutaṃ | somaṃ | harya | purustuta |*  
+> *piba | ā | vṛṣasva | tatṛsiṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्राह्मणाच्छंसिनः प्रातःसवन इंद्र क्रतुविदमिति शस्त्रयाज्या । सूत्रितं च ।
+> इंद्र क्रतुविदं सुतमिति याज्या । आ. ५-१० । इति ॥
+> हे इंद्र क्रतुविदं क्रतोः प्रज्ञाया लंभकं सुतमभिषुतमिमं सोमं
+> हर्य । पातुं कामयस्व । हे पुरुष्टुत पुरुभिर्बहुभिः स्तुतेंद्र तातृपिं तर्पकमास्यायनकारिणिममं सोमं पिब । पीतमिमं सोममा वृषस्व । जठरे सिंच ।
+> यथा नाभेरधो न पतति तथा धारयेति भावः ॥ हर्य । हर्य गतिकांत्योरित्यस्य
+> लोटि रूपं । निघातः । पुरुष्टुत । स्तुतस्तोमयोश्चंदसीति संहितायां षत्वं ।
+> वृषस्व । वृष सेचन इत्यस्य लोटि रूपं । आण उत्तरत्वान्निघातः । तातृपिं । तृप
+> प्रीणन इत्यस्माच्छंदसि सदादिभ्यो दर्शनादिति किन् । तस्य लिड्वद्भावाद्दिर्वचनादि ।
+> संहितायामन्येषामपीत्यभ्यासस्य दीर्घः । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+For the Brāhmaṇācchaṃsin priest at the morning pressing, this verse इंद्र क्रतुविदं (*iṃdra kratuvidaṃ*) is the śastra-yājyā; and it is prescribed in the sūtra इंद्र क्रतुविदं सुतमिति याज्या (*iṃdra kratuvidaṃ sutamiti yājyā*) (Ā. 5-10). "O Indra, desire to drink this pressed Soma, the obtainer of kratu, that is, of wisdom (prajñā). O Indra, praised by many, drink this Soma, which satisfies and refreshes. Having drunk it, pour it into the belly; the sense is: hold it so that it does not fall below the navel."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—praised by many
+- इंद्र (*iṃdra*)—O Indra
+- क्रतुविदं (*kratuvidaṃ*)—the giver of wisdom
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma juice
+- हर्य (*harya*)—desire to drink
+
+### Printed p. 10
+
+- तातृपिं (*tātṛpiṃ*)—this Soma, which gives satisfaction
+- पिब (*piba*)—drink
+- आ वृषस्व (*ā vṛṣasva*)—pour it into the belly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many, desire to drink the Soma juice, which gives wisdom and is ready, pressed. Drink this satisfying juice and fill your belly.
+
+##### English translation (H. H. Wilson)
+Indra, the praised of many, accept the effused Soma juice, the conferrer of knowledge ; drink ; imbibe the satisfactory draught.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the morning pressing the priest called Brāhmaṇācchaṃsin is to use this verse इंद्र क्रतुविदं (*iṃdra kratuvidaṃ*) as a śastra-yājyā mantra; this is stated by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्र क्रतुविदं सुतमिति याज्या (*iṃdra kratuvidaṃ sutamiti yājyā*).
+
+क्रतुविदं (*kratuvidaṃ*)—For the word क्रतु (*kratu*) Yāska gave the explanation क्रतुं कर्म वा प्रज्ञां ना (*kratuṃ karma vā prajñāṃ nā*) (Ni. 2-28). Moreover the word क्रतु (*kratu*) is read among the twenty-six names of action beginning with अपः (*apaḥ*) and अष्टः (*aṣṭaḥ*) (Ni. 3-1), and among the eleven names of wisdom beginning with केतः (*ketaḥ*) and केतुः (*ketuḥ*) (Ni. 3-13). Therefore क्रतुविदं (*kratuvidaṃ*) means प्रज्ञया लंभकं (*prajñayā laṃbhakaṃ*): that which can be obtained by wisdom, by knowledge. The meaning is that proper understanding or knowledge is needed to prepare the Soma juice. Or, if the word क्रतु (*kratu*) is taken to mean action, it may mean the Soma juice prepared in the sacrificial action. The sense is: such a Soma juice.
+
+सुतं सोमं (*sutaṃ somaṃ*)—The use of the word सुतं (*sutaṃ*) here means the Soma juice that has just now, in this sacrifice, been freshly prepared: the Soma plants crushed, the juice squeezed out, strained and made ready, fit for drinking.
+
+पुरुष्टुत (*puruṣṭuta*)—पुरुभिर्बहुभिः स्तुतेंद्र (*purubhirbahubhiḥ stuteṃdra*): Indra, who is praised by many people. Many people, priests, sacrificers and others, praise Indra.
+
+पिब (*piba*)—The final syllable of this word is made long in the Saṃhitā text for the convenience of the metre. Such usage is frequent in the Ṛgveda. For example, the word पिब (*piba*) in पिबा सोममभि (*pibā somamabhi*) (Ṛ. Saṃ. 6-17-1); पिबा सोममिंद्र मंदतु (*pibā somamiṃdra maṃdatu*) (Ṛ. Saṃ. 7-22-1); पिबा सोमं मदाय (*pibā somaṃ madāya*) (Ṛ. Saṃ. 8-95-3); पिबा सोमं महते (*pibā somaṃ mahate*) (Ṛ. Saṃ. 10-116-1); the verse **NOTE**
+
+### Printed p. 11
+
+The word श्रुधि (*śrudhi*) too is used with a long final syllable in verses such as श्रुधी नो अग्ने सदने (*śrudhī no agne sadane*) (Ṛ. Saṃ. 10-11-9), श्रुधी न इंद्र (*śrudhī na iṃdra*) (Ṛ. Saṃ. 6-26-1), श्रुधी हवमिंद्र शूर (*śrudhī havamiṃdra śūra*) (Ṛ. Saṃ. 10-148-5), श्रुधी हवं तिरश्चाशि (*śrudhī havaṃ tiraścāśi*) (Ṛ. Saṃ. 8-95-4), and so on. There are many such examples.
+
+तातृपिं (*tātṛpiṃ*)—तर्पकमाप्यायनकारिणमिमं सोमं (*tarpakamāpyāyanakāriṇamimaṃ somaṃ*): the Soma that causes satisfaction; that is, the Soma juice which, after being drunk, settles in the belly, cools it and makes joy arise. There are many descriptions that drinking Soma juice produces satisfaction or joy and also intoxication.
+
+वृषस्व (*vṛṣasva*)—जठरे सिंच । यथा नाभेरधो न पतति तथा धारयेति भावः । (*jaṭhare siṃca | yathā nābheradho na patati tathā dhārayeti bhāvaḥ |*) In this verse it is plainly said पिब (*piba*), "drink the Soma juice"; is not the use of the word वृषस्व (*vṛṣasva*) then useless? The answer: since Indra is famous as extremely fond of drinking Soma juice, the use of the two words पिब (*piba*) and वृषभ (*vṛṣabha*) **NOTE** is also proper, to stress plainly: "when drinking Soma, drink as much as you wish, so that it does not fall below the navel, and drink so that the inner part of the belly is well soaked and refreshed."
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ प्र णो॑ धि॒तावा॑नं य॒ज्ञं विश्वे॑भिर्दे॒वेभिः॑ ।  
+> ति॒रः स्त॑वान विश्वते ॥ ३ ॥
+
+> *iṃdra pra ṇo dhitāvānaṃ yajñaṃ viśvebhirdevebhiḥ |*  
+> *tiraḥ stavāna viśvate ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । प्र । नः । धितवानं । यज्ञं । विश्वेभिः । देवेभिः ।  
+> तिरः । स्तवान । विश्वते ॥ ३ ॥
+
+> *iṃdra | pra | naḥ | dhitavānaṃ | yajñaṃ | viśvebhiḥ | devebhiḥ |*  
+> *tiraḥ | stavāna | viśvate ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तवान स्तोतृभिः स्तूयमान विश्वते विशां मरुतां पते हे इंद्र विश्वेभिर्देवेभिः सर्वैर्यजनीयैर्देवैः सहितस्तं धितावानं । वन्यते संभज्यत इति
+> वानं हविः । धितं निहितं हविर्यस्य तं । संभृतहविष्कमित्यर्थः । अस्मदीयमिमं
+> यज्ञं प्र तिरः । प्रकर्षेण वर्धय । हविःस्वीकरणेन संपूर्णं कुर्विति भावः ॥ णः ।
+
+##### Gist of the bhāṣya
+
+"O Indra, praised by singers (स्तवान (*stavāna*)), lord of the विश् (*viś*), that is, of the Maruts (विश्वते (*viśvate*)): together with all the gods worthy of sacrifice, प्र तिरः (*pra tiraḥ*), make grow vigorously this sacrifice of ours, which is धितावानं (*dhitāvānaṃ*)." वानं (*vānaṃ*) is the oblation, because it is shared out (वन्यते संभज्यते (*vanyate saṃbhajyate*)); धितं (*dhitaṃ*) means placed; so the sacrifice is one in which the oblation has been placed, that is, in which the oblation has been gathered. "Make it grow" means: complete it by accepting the oblation.
+
+### Printed p. 12
+
+> उपसर्गाद्बहुलमिति संहितायां णत्वं । धितावानं । डुधाण् धारणपोषणयोरित्यस्मान्निष्ठा । बहुव्रीहौ पूर्वपदस्वरः । तिरः । तरतेर्व्यत्ययेन शः । प्रत्ययस्वरः ।
+> स्तवान । ष्टुञ् स्तुत् । सम्यानच् स्तुव इत्युपपदाभावेऽपि कर्मण्यानच् प्रत्ययः ।
+> आमंत्रितत्वान्निघातः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तवान (*stavāna*)—he who is praised (by the devotees)
+- विश्वते (*viśvate*)—lord of the Maruts, who are of the nature of subjects
+- इंद्र (*iṃdra*)—O Indra
+- विश्वेभिः देवेभिः (*viśvebhiḥ devebhiḥ*)—together with all the gods
+- धितावानं (*dhitāvānaṃ*)—furnished with oblation
+- नः यज्ञं (*naḥ yajñaṃ*)—this sacrifice of ours
+- प्रतिर (*pratira*)—make it grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are praised by the devotees and are lord of the Maruts, who are of the nature of subjects, together with all the gods make this sacrifice of ours, furnished with oblation, grow.
+
+##### English translation (H. H. Wilson)
+Indra, lord of men, you are praised (by the devout) and aided by the gods ; perfect this our sacrifice in which the oblation is offered (to you).
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वते (*viśvate*)—विशां मरुतां पते (*viśāṃ marutāṃ pate*): Indra, the leader of the Marut gods. There is a very important companionship between the Marut gods and Indra. We have explained this at length in Ṛ. Saṃ. Part 8, page 172, and Part 13, page 210.
+
+The eternal companionship of Indra and the Maruts is well known from the Śruti. The relation of king and subjects between Indra and the Maruts, the offering of oblations to Indra together with the Maruts in the principal sacrificial acts, and the Maruts' helping Indra when he fights with the demon Vṛtra, are described in many places in the Saṃhitās and the Brāhmaṇas.
+
+क्षत्रं वा इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति ॥ (*kṣatraṃ vā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati ‖*) (Śa. Brā. 4-3-3-6).
+
+Indra is the king of kṣatriya splendour, the Maruts are the subjects; it is indicated here that the king becomes powerful only through the support of the subjects, and that through the help of the Maruts Indra's valour increased.
+
+### Printed p. 13
+
+मरुद्दिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*maruddiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56).
+
+The Bṛhaddevatā explains this adjective, which indicates the relation of these deities: wherever Indra together with the Maruts is addressed, he is called मरुत्वान् (*marutvān*).
+
+धितानानं (*dhitānānaṃ*)—वन्यते संभज्यते इति वानं हविः । धितं निहितं हविर्यस्य तं । संभृतहविष्यमित्यर्थः । (*vanyate saṃbhajyate iti vānaṃ haviḥ | dhitaṃ nihitaṃ haviryasya taṃ | saṃbhṛtahaviṣyamityarthaḥ |*) The word वानं (*vānaṃ*), formed from the root वन षण संभक्तौ (*vana ṣaṇa saṃbhaktau*), means a thing prepared. The sense is: the action, that is, the sacrifice, in which such a thing, that is, an oblation, has been set down to be offered to the gods. In the sacrifice the oblation is prepared and kept ready to offer to the gods. The meaning of the word is: a sacrifice furnished with such an oblation.
+
+प्रति (*prati*)—Accept the oblation we offer and make this sacrifice grow, make it complete.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ सोमाः॑ सु॒ता इ॒मे तव॒ प्र यं॑ति सत्पते ।  
+> क्षयं॑ चं॒द्रास॒ इंद॑वः ॥ ४ ॥
+
+> *iṃdra somāḥ sutā ime tava pra yaṃti satpate |*  
+> *kṣayaṃ caṃdrāsa iṃdavaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । सोमाः । सुताः । इमे । तव । प्र । यंति । सत्पते ।  
+> क्षयं । चंद्रासः । इंदवः ॥ ४ ॥
+
+> *iṃdra | somāḥ | sutāḥ | ime | tava | pra | yaṃti | satpate |*  
+> *kṣayaṃ | caṃdrāsaḥ | iṃdavaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सत्पते इंद्र चंद्रास आह्लादयितार इंदवो दीप्ताः सुता अभिषुता
+> इमेऽस्माभिर्दत्ताः सोमाः क्षयं । क्षियंति निवसंत्यन्नादीन्यत्रेति क्षयो जठरं ।
+> प्र यंति । प्रकर्षण गच्छंति । तान् धारयेति भावः ॥ क्षयं । क्षि निवासगत्योरित्यस्मादधिकरणे घप्रत्ययः । प्रत्ययस्वरेणांतोदात्ते प्राप्ते क्षयो निवास इत्याद्युदात्तत्वं । चंद्रासः । चदि आह्लादने दीप्ता च । अस्मात्सा यितंचीत्यादिना रक्षत्ययः । आज्ञसेरसुगित्यसुक् । प्रत्ययस्वरः । इंदवः । उंदेरिच्चा देरित्युप्रत्ययः ।
+> निदित्यनुवृत्तेराद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, lord of the good (सत्पते (*satpate*)): these Soma juices, gladdening (चंद्रासः (*caṃdrāsaḥ*)) and bright (इंदवः (*iṃdavaḥ*)), pressed and offered by us, go forth (प्र यंति (*pra yaṃti*)) into क्षयं (*kṣayaṃ*)." क्षय (*kṣaya*) is the belly, since food and the like dwell (क्षियंति (*kṣiyaṃti*)) in it; प्र यंति (*pra yaṃti*) means they go forth vigorously. The sense is: hold them. चंद्रासः (*caṃdrāsaḥ*) is from चदि (*cadi*), in the sense of gladdening and shining.
+
 ---
 
-**Progress note:** Done through printed p. 7. pilot by the batch API; rebuilt with sub-headings
+**Progress note:** Done through printed p. 13. pilot by the batch API; rebuilt with sub-headings
