@@ -8814,6 +8814,275 @@ Indra, by his own power of māyā, slew with weapons, the instruments of killing
 - हथैः (*hathaiḥ*)—with weapons that are instruments of killing and are sharp
 - अस्वापयत् (*asvāpayat*)—he destroyed
 
+### Printed p. 247
+
+##### भावार्थ (Bhāvārtha)
+
+By his power of wisdom, Indra destroyed thirty thousand world-destroying Rākṣasas with sharp weapons that serve for killing, in order to help the Ārya named Dabhīti.
+
+##### English translation (H. H. Wilson)
+He put to sleep, by delusion, with his destructive (weapons), thirty thousand of the servile (races) for the sake of Dabhiti.
+
+##### विशेषविषयगळु (Special Topics)
+
+दभीतिं (*dabhītiṃ*)—Dabhīti is described in some places as a warrior and in others as a seer.
+इंद्रो धुनिं च चुमुरिं च दंभयञ्छ्रद्धामनस्या शृणुते दभीतये । (*iṃdro dhuniṃ ca cumuriṃ ca daṃbhayañchraddhāmanasyā śṛṇute dabhītaye |*) (Ṛ. Sū. 10-113-9)
+स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः । (*svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ |*) (Ṛ. Saṃ. 2-15-9)
+In these Ṛks Dabhīti is called a royal seer, and it is said that Indra conquered Chumuri and Dhuni for him. It becomes clear that he obtained Indra's favour because he pressed Soma juice and offered it to Indra.
+अस्वापयद्दभीतये सहस्रा त्रिंशतं हथैः । दासानामिंद्रो मायया । (*asvāpayaddabhītaye sahasrā triṃśataṃ hathaiḥ | dāsānāmiṃdro māyayā |*) (Ṛ. Saṃ. 4-30-21)
+आरज्जा दस्यून्तमुनब्दभीतये सुप्राव्यो अभवः सासुक्थ्यः । (*ārajjā dasyūntamunabdabhītaye suprāvyo abhavaḥ sāsukthyaḥ |*) (Ṛ. Saṃ. 2-13-9)
+By these Ṛks it is described how Indra, for Dabhīti, put thirty thousand Dāsas to sleep and bound all the Dasyus without a rope.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स फेदु॒तासि॑ वृत्रहन्‌त्समा॒न इं॑द्र॒ गोप॑तिः ।  
+> यस्त्वा विश्वा॑नि चिच्यु॒षे ॥ २२ ॥
+
+> *sa phedutāsi vṛtrahantsamāna iṃdra gopatiḥ |*  
+> *yastvā viśvāni cicyuṣe ‖ 22 ‖*
+
+### Printed p. 248
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । घ । इत् । उत । असि । वृत्रहन् । समानः । इंद्र । गोऽपतिः ।  
+> यः । ता । विश्वानि । चिच्युषे ॥ २२ ॥
+
+> *saḥ | gha | it | uta | asi | vṛtrahan | samānaḥ | iṃdra | go 'patiḥ |*  
+> *yaḥ | tā | viśvāni | cicyuṣe ‖ 22 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र यस्त्वं ता तानि विश्वानि समस्तान् शत्रून् चिच्युषे ।
+> प्रच्यावयः । हे वृत्रहन् वृत्राणां शत्रूणां हिंसकेंद्र गोपतिर्गवां पालकः स
+> त्वं समानः सर्वेषां यजमानानां समः सन् प्रख्यातोऽसि । घेदिति पूर्णा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, you who have cast down all those enemies. O Vṛtrahan, slayer of the Vṛtras, the enemies, and protector of cattle, you are renowned as समानः (*samānaḥ*), equal to all sacrificers. *ghed* is a mere filler (पूर्णा (*pūrṇā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O slayer of Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- गोपतिः (*gopatiḥ*)—protector of cattle
+- यः (*yaḥ*)—you who
+- ता (*tā*)—those mentioned before
+- विश्वानि (*viśvāni*)—all the Asuras
+- चिच्युषे (*cicyuṣe*)—have thrown down
+- सः (*saḥ*)—such a you
+- समानः (*samānaḥ*)—having equal affection toward all sacrificers
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra: you, the herdsman, who threw down and destroyed all the Asuras mentioned above, are that same one, having equal affection toward all sacrificers.
+
+##### English translation (H. H. Wilson)
+Slayer of Vritra, you are the same (to all your worshippers) the lord of cattle, who cast down all these (your enemies).
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नू॒नं यदिं॑द्रि॒यं क॑रि॒ष्या इं॑द्र॒ पौंस्यं॑ ।  
+> अ॒द्या नकि॒ष्टदा मि॑नत् ॥ २३ ॥
+
+> *uta nūnaṃ yadiṃdriyaṃ kariṣyā iṃdra pauṃsyaṃ |*  
+> *adyā nakiṣṭadā minat ‖ 23 ‖*
+
+### Printed p. 249
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नूनं । यत् । इंद्रियं । करिष्याः । इंद्र । पौंस्यं ।  
+> ।  
+> अद्य । नकिः । तत् । आ । मिनत् ॥ २३ ॥
+
+> *uta | nūnaṃ | yat | iṃdriyaṃ | kariṣyāḥ | iṃdra | pauṃsyaṃ |*  
+> *|*  
+> *adya | nakiḥ | tat | ā | minat ‖ 23 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र यत्पौंस्यं त्वदीयं बलमिंद्रियं सामर्थ्योपेतं
+> नूनं करिष्याः । कृतवानसि खलु । अद्याद्यतनः कश्चित्तद्बलं नकिरा मिनत् । न
+> हिंस्यात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, the manly strength of yours, endowed with capacity (इंद्रियं (*iṃdriyaṃ*)), which you have surely displayed—no one of the present day can injure it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—which of yours
+- पौंस्यं (*pauṃsyaṃ*)—indicating the mark of manhood
+- इंद्रियं (*iṃdriyaṃ*)—capacity
+- नूनं (*nūnaṃ*)—surely
+- करिष्याः (*kariṣyāḥ*)—you have displayed
+- तत् (*tat*)—that capacity
+- अद्य (*adya*)—among people of the present time
+- नकिः (*nakiḥ*)—no one at all
+- आ मिनत् (*ā minat*)—can injure
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, there is no one at the present time who can resist that capacity, showing your manly nature, which you have displayed.
+
+##### English translation (H. H. Wilson)
+When, indeed, Indra, you excite your vigorous manhood, there is no one at the present time who may resist it.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒मंवा॑मं त आदुरे दे॒वो द॑दात्वर्य॒मा ।  
+> वा॒मं पू॒षा वा॒मं भगो॑ वा॒मं दे॒वः करू॑ळती ॥२४॥
+
+> *vāmaṃvāmaṃ ta ādure devo dadātvaryamā |*  
+> *vāmaṃ pūṣā vāmaṃ bhago vāmaṃ devaḥ karūḷatī ‖24‖*
+
+### Printed p. 250
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वामंऽवामं । ते । आदुरे । देवः । ददातु । अर्यमा ।  
+> वामं । पूषा । वामं । भगः । वामं । देवः । करूळती ॥ २४ ॥
+
+> *vāmaṃ 'vāmaṃ | te | ādure | devaḥ | dadātu | aryamā |*  
+> *vāmaṃ | pūṣā | vāmaṃ | bhagaḥ | vāmaṃ | devaḥ | karūḷatī ‖ 24 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदुरे शत्रूणामादारयितरिंद्र ते तव वामं वामं यद्यद्वननीयं
+> संभजनीयं धनमस्ति लोके तद्वामं वस्वर्यमारीणां नियमयित्यैतन्नामको
+> देवो ददातु । प्रयच्छतु । तथा करूळती कृत्तदंतः पूषा पोषको देवो
+> वामं धनं ददातु । भगोऽपि धनं ददातु । ननु करूळतीत्येतत्संनिहितत्वाद्भग
+> इत्यनेन संबंधनीयं । अथवार्यमादीनां त्रयाणामपि विशेषणत्वेन भाव्यं
+> कथं पूष्टो विशेषणं स्यादिति साकांक्षत्वात् न । सांनिध्याकांक्षयोः सद्भावेऽपि
+> योग्यतामंतरेणान्वयायोगात् । तस्मात्पूषा प्रपिष्टभागोदंतको हि । तै. सं
+> २-६-८-५ । इत्यादिश्रुतिषु पूष्ण एनादंतकत्वेन प्रसिद्धेर्व्यवहितस्यापि तस्यैव विशेषत्वं युक्तं । वामं वननीयं भवतीत्यादि निरुक्तं । ६-३१ । अत्र द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Ādura, splitter of enemies, Indra: whatever desirable, shareable wealth of yours there is in the world, may the god named Aryaman, restrainer of enemies, give it. Likewise may Pūṣan, the nourisher, करूळती (*karūḷatī*) (one whose teeth are cut), give the wealth; may Bhaga also give wealth. An objection: since करूळती (*karūḷatī*) stands nearest, it should be connected with भग (*bhaga*); or else it should be an epithet of all three, Aryaman and the others; how could it be an epithet of Pūṣan alone? He answers: no; although proximity and expectancy are present, connection is impossible without fitness. Therefore, since in Śruti passages such as पूषा प्रपिष्टभागोदंतको हि (*pūṣā prapiṣṭabhāgodaṃtako hi*) (Tai. Saṃ. 2-6-8-5) Pūṣan is well known as toothless, it is proper that it be his epithet even though separated. *vāmaṃ vananīyaṃ bhavati* and so on is the Nirukta (6-31); it is to be seen here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदुरे (*ādure*)—O Indra, who split and destroy enemies
+- ते (*te*)—that which belongs to you
+- नामंनामं (*nāmaṃnāmaṃ*)—whatever wealth there is that is venerable to all, that
+- अर्यमा (*aryamā*)—named Aryaman
+- देवः (*devaḥ*)—the god
+- ददातु (*dadātu*)—may he distribute (to us)
+- करूळती (*karūḷatī*)—toothless
+- पूषा देवः (*pūṣā devaḥ*)—the god Pūṣan
+- नामं (*nāmaṃ*)—that venerable wealth (may he distribute)
+- भगः (*bhagaḥ*)—the god named Bhaga also
+- नामं (*nāmaṃ*)—that esteemed wealth (may he distribute to us)
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies who split them: whatever wealth of yours, venerable to all, there is, may Aryaman, who restrains and punishes the enemy, Pūṣan whose teeth are cut off, and Bhaga also, distribute that wealth to all of us.
+
+##### English translation (H. H. Wilson)
+Destroyer of foes, may the devine Aryaman distribute your precious wealth ; (may) Pushan (bestow it), (may) Bhaga (bestow it); may the toothless deity bestow the desired wealth.
+
+### Printed p. 251
+## Sūkta 31 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कया न इति पंचदशर्चं दशमं सूक्तं वामदेवस्यार्षमैंद्रं गायत्रं ।
+> अभी षु ण इत्येषा पादनिच्छन्नाम गायत्री त्रयः सप्तकाः पादनिच्छदिति तल्लक्षणयुक्तत्वात् । तथा चानुक्रमणिका । कया पंचोनाभी षु पादनिच्छदिति ॥ सूक्तविनियोगो लैंगिकः । अग्निष्टोमे चातुर्विंशिकेऽहनि च माध्यंदिने सवने मैत्रावरुणस्य कया न इत्याद्यस्तृचः स्तोत्रियः । सूत्रितं च । होत्रकाणां कया नश्चित्र
+> आ भुवत् । अ. ७-४ । इति ॥ वरुणप्रघासेषु कायस्य हविषोऽनुवाक्या कया न
+> इत्येषा । तथा च सूत्रितं । कया नश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्रे ॥
+> आ. २-१७ । इति ॥
+> अनुवादवु—कया न ऎंब ई सूक्तवु मूरनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
+> इदरल्लि हदिनैदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्रनु देवतॆयु ;
+> गायत्री छंदस्सु. अभी षु णः ऎंब ऋक्कु (ई सूक्तद मूरनॆय ऋक्कु) पादनिचृत् ऎंब
+> गायत्रीछंदस्सिन प्रभेदवु. त्रयः सप्तकाः पादनिचृत् (अनु. ४-४) ऎंदरॆ एळेळु अक्षरगळ
+> मूरु पादगळिरुव ऋक्किगॆ पादनिचृत् ऎंदु अनुक्रमणिकॆयल्लि ई छंदस्सिन लक्षणवन्नु हेळिरु
+> वुदु. ई सूक्तद विषयवागि अनुक्रमणिकॆयल्लि - कया पंचोनाभी षु पादनिचृत् ऎंदु
+> हेळिरुवुदु. सूक्तविनियोगवु लैंगिकवु. अग्निष्टोमयागदल्लियू चातुर्विंशकवॆंब याग
+> दल्लियू माध्यंदिनसवनकालदल्लि मैत्रावरुणनॆंब ऋत्विजनु पठिसबेकाद स्तोत्रिय तृचक्कागि
+> कया नः ऎंदु मॊदलागुव ई सूक्तद मूरु ऋक्कुगळ विनियोगविरुवुदॆंदु आश्वलायन
+> शौतसूत्रद होत्रकाणां कया नश्चित्र आ भुवत् ऎंब सूत्रदिंद (आ. ७-४) विवृतवागिरु
+> वुदु. वरुणप्रघासवॆंब इष्टियल्लियू सह हविस्सन्नु होममाडुवाग कया नः ऎंब ऋक्कन्नु
+> अनुवाक्यामंत्रवन्नागि पठिसबेकॆंदु अश्वलायनशौतसूत्रद—कया नश्चित्र आ भुवद्दिरण्य
+> गर्भः समवर्तताग्रे ऎंब सूत्रदिंद विवृतवागिरुवुदु. (आ. २-१७)
+> सूक्त-३१
+> मंडल—४ ॥ अनुवाक—३ ॥ सूक्त—३१ ॥
+> अष्टक—३ ॥ अध्याय—६ ॥ वर्ग - २४, २५, २६ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ — १५ !!
+> ऋषिः—वामदेवः ॥
+> देवता—इंद्रः ॥
+> छंदः—१, २, ४-२५ गायत्रि । ३ पादनिच्छत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa: the hymn कया न (*kayā na*), of fifteen Ṛks, is the tenth sūkta; its seer is Vāmadeva, its deity Indra, its metre Gāyatrī. The Ṛk अभी षु ण (*abhī ṣu ṇa*) is the Gāyatrī variety called Pādanicṛt (three heptasyllabic pādas), by its characteristics. The Anukramaṇikā: कया पंचोनाभी षु पादनिचृत् (*kayā paṃconābhī ṣu pādanicṛt*). The use of the sūkta is by indication (liṅga): in the Agniṣṭoma and on the Cāturviṃśika day, at the midday pressing, the first three Ṛks beginning कया न (*kayā na*) are the stotriya of the Maitrāvaruṇa. Sūtra: होत्रकाणां कया नश्चित्र आ भुवत् (*hotrakāṇāṃ kayā naścitra ā bhuvat*) (Ā. 7-4). In the Varuṇapraghāsa offerings, कया न (*kayā na*) is the anuvākyā for the Kāya oblation, as the sūtra कया नश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्रे (*kayā naścitra ā bhuvaddhiraṇyagarbhaḥ samavartatāgre*) (Ā. 2-17) states.
+
+##### Anuvāda and particulars
+
+This sūkta कया न (*kayā na*) is the tenth sūkta in the third anuvāka. It has fifteen Ṛks. Its seer is Vāmadeva; the deity is Indra; the metre is Gāyatrī. The Ṛk अभी षु णः (*abhī ṣu ṇaḥ*) (the third Ṛk of this sūkta) is a variety of Gāyatrī called Pādanicṛt; त्रयः सप्तकाः पादनिचृत् (*trayaḥ saptakāḥ pādanicṛt*) (Anu. 4-4) means that a Ṛk with three pādas of seven syllables each is called Pādanicṛt in the Anukramaṇikā. Concerning this sūkta the Anukramaṇikā says: कया पंचोनाभी षु पादनिचृत् (*kayā paṃconābhī ṣu pādanicṛt*). The use of the sūkta is by indication. In the Agniṣṭoma and in the Cāturviṃśaka sacrifice, at the midday pressing, the use of the three Ṛks of this sūkta beginning कया नः (*kayā naḥ*) for the stotriya tṛca to be recited by the priest called Maitrāvaruṇa is explained by the Āśvalāyana Śrauta Sūtra, होत्रकाणां कया नश्चित्र आ भुवत् (*hotrakāṇāṃ kayā naścitra ā bhuvat*) (Ā. 7-4). In the oblation called Varuṇapraghāsa too, when the offering is made, the Ṛk कया नः (*kayā naḥ*) is to be recited as the anuvākyā, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra, कया नश्चित्र आ भुवद्दिरण्यगर्भः समवर्तताग्रे (*kayā naścitra ā bhuvaddiraṇyagarbhaḥ samavartatāgre*) (Ā. 2-17).
+Sūkta 31. Maṇḍala 4. Anuvāka 3. Sūkta 31. Aṣṭaka 3. Adhyāya 6. Vargas 24, 25, 26. Number of Ṛks in the sūkta: 15. Ṛṣi: Vāmadeva. Devatā: Indra. Chandas: 1, 2, 4–25 Gāyatrī; 3 Pādanicṛt. **NOTE**
+
+### Printed p. 252
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
+> कया॒ शचि॑ष्ठया वृ॒ता ॥ १ ॥
+
+> *kayā naścitra ā bhuvadūtī sadāvṛdhaḥ sakhā |*  
+> *kayā śaciṣṭhayā vṛtā ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । नः । चित्रः । आ । भुवत् । ऊती । सदावृधः । सखा ।  
+> कया । शचिष्ठया । वृता । १ ॥
+
+> *kayā | naḥ | citraḥ | ā | bhuvat | ūtī | sadāvṛdhaḥ | sakhā |*  
+> *kayā | śaciṣṭhayā | vṛtā | 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सदावृधः सदा वर्धमानश्चित्रश्चायनीयः पूजनीयः सखा मित्रभूत इंद्रः
+> कयोती ऊत्या तर्पणेन नोऽस्माना भुवत् । अभिमुख्येन भवेत् । शचिष्ठया
+> प्रज्ञावत्तमया प्रज्ञासहितमनुष्ठीयमानेन कया वृता केन वर्तनेन कर्मणा
+> चाभिमुखो भवेत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra, सदावृधः (*sadāvṛdhaḥ*) ever increasing, चित्रः (*citraḥ*) worthy of worship, a friend, by what ऊती (*ūtī*) (help, satisfaction) may he turn toward us (आ भुवत् (*ā bhuvat*), be favourably disposed)? शचिष्ठया (*śaciṣṭhayā*)—by the most wise, the rite performed with wisdom; by what वृता (*vṛtā*), what conduct or action, would he be turned toward us?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सदावृधः (*sadāvṛdhaḥ*)—ever growing
+- चित्रः (*citraḥ*)—worthy of worship
+- सखा (*sakhā*)—Indra, the friend
+- कया (*kayā*)—by what kind of
+- ऊती (*ūtī*)—satisfactions
+- नः (*naḥ*)—to us
+- अ भुवत् (*a bhuvat*)—comes to meet
+- शचिष्ठया (*śaciṣṭhayā*)—accompanied with wisdom
+- कया (*kayā*)—by what kind of
+- वृता (*vṛtā*)—by action (will he come toward us?)
+
+##### भावार्थ (Bhāvārtha)
+
+By what kinds of satisfactions does Indra, ever growing, worthy of worship and a friend, come toward us? By what action done with wisdom does he come toward us?
+
+##### English translation (H. H. Wilson)
+By what means may he who is ever augmenting, who is wonderful who is our friend, be present with us, by what most effective rite ?
+
 ---
 
-**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
+**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
