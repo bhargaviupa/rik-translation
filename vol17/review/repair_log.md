@@ -2,3 +2,4 @@
 - front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 5 NOTE rows added at the top of review/notes.tsv.
 - 2026-11-11: English file: the heading "## Sūkta 52 (Maṇḍala 3)" stood twice (at Sāyaṇa's introduction on p. 155 and again at the printed sūkta heading on p. 156); the second one removed. `batch.py check`/`audit` now refuse a sūkta heading that occurs twice.
 - 2026-11-11: English file: the heading "## Maṇḍala 4" inserted before "## Sūkta 1 (Maṇḍala 4)" (a new Maṇḍala gets its own heading; the window had not written it).
+- 2026-11-11: windows w0807, w0832, w0954: four [figure: …] lines removed from kn.md by the dispatcher after looking at the pictures (fig3_line05046, 05094, 06025, 10850): each shows only the Saṃhitā and Pada of a verse that the supplied text already has as lines; the text was kept as supplied.

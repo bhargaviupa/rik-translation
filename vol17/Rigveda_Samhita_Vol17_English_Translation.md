@@ -24351,6 +24351,279 @@ May the liberal man ever be prosperous who propitiates you with constant oblatio
 
 > *arcāmi te sumatiṃ ghoṣyarvāksaṃ te vāvātā jaratāmiyaṃ gīḥ |*
 
+### Printed p. 774
+
+> स्वश्वास्त्वा सुरथा मर्जयेमास्मै क्षत्राणि धारयेरनु
+> द्यून् ॥ ८ ॥
+
+> *svaśvāstvā surathā marjayemāsmai kṣatrāṇi dhārayeranu*
+> *dyūn ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चामि । ते । सुमतिं । घोषि । अर्वाक् । सं । ते । वनाता । जरतां । इयं । गीः।  
+> सुअश्वाः । त्वा । सुरथाः । मर्जयेम । अस्मे इति । क्षत्राणि । धारयेः । अनु ।  
+> द्यून् ॥ ८ ॥
+
+> *arcāmi | te | sumatiṃ | ghoṣi | arvāk | saṃ | te | vanātā | jaratāṃ | iyaṃ | gīḥ|*  
+> *suaśvāḥ | tvā | surathāḥ | marjayema | asme iti | kṣatrāṇi | dhārayeḥ | anu |*  
+> *dyūn ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उखासंभरणीयेष्टावग्नेः क्षत्रभृतोऽर्चामि त इति याज्या । सूत्रितं च ।
+> अर्चामि ते सुमतिं घोष्यर्वागितीदंप्रभृतिकर्मणां । आ. ४-१ । इति ॥
+> हॆ अग्ने ते तव सुमतिमनुग्रहकरां शोभनां बुद्धिमर्चामि । पूजयामि ।
+> ववाता पुनःपुनस्त्वामभिगच्छंतीयमुच्यमाना गीर्वाग्घोषि घोषयुक्तं
+> यथा भवति तथार्वाक् त्वदभिमुखु ते त्वां सं जरतां । स्तौतु । वयमपि
+> स्वश्वाः शोभनाश्वोपेताः सुरथाश्च । उपलक्षणमेतत् । पुत्रपौत्रादिभिः सहिताः
+> संतस्त्वां मर्जयेम । अलंकुर्याम । परिचरेमेति यावत् । त्वं तु अनु
+> द्यूनन्वहमस्मै अस्मासु क्षत्राणि धनानि धारयेः । निधेहि ॥ घोषि । घुष शब्दने ।
+> औणादिक इन्। नित्त्वादाद्युदात्तः । नावाता । वा गतिगंधनयोरित्यस्य यज्लुगंतस्य
+> निष्ठायां रूपं । मर्जयेम । मृजू शौचालंकारयोः । ण्यंतस्य लिजु रूपं ।
+> वृद्धभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+This verse is the yājyā of Agni Kṣatrabhṛt in the Ukhāsaṃbharaṇīya oblation (iṣṭi). The sūtra says: अर्चामि ते सुमतिं घोष्यर्वागितीदंप्रभृतिकर्मणां (*arcāmi te sumatiṃ ghoṣyarvāgitīdaṃprabhṛtikarmaṇāṃ*) (Ā. 4-1).
+
+"O Agni, I honour your good mind (sumati), which means your gracious and excellent thought. This speech (gīḥ) that is now uttered, going to you again and again, let it praise you (jaratām) facing you, in such a way that it is full of sound (ghoṣi). We also, having good horses (svaśvāḥ) and good chariots, are meant here as accompanied by sons, grandsons and the rest. We would adorn (marjayema) you, that is, serve you. You, day after day, place (dhārayeḥ) among us the kṣatrāṇi, that is, riches."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- सुमतिं (*sumatiṃ*)—the gracious mind
+- अर्चामि (*arcāmi*)—I worship
+- ववाता (*vavātā*)—being recited, praising you again and again
+- इयं गीः (*iyaṃ gīḥ*)—this speech
+- घोषि (*ghoṣi*)—sounding
+- अर्वाक् (*arvāk*)—facing you
+- ते (*te*)—you
+- सं जरताः (*saṃ jaratāḥ*)—let it praise
+- स्वश्वाः (*svaśvāḥ*)—those who have excellent horses
+- सुरथाः (*surathāḥ*)—those who are accompanied by sons, grandsons and the rest
+- त्वा मर्जयेम (*tvā marjayema*)—we adorn you
+- अनु द्यून् (*anu dyūn*)—every day
+- अस्मे (*asme*)—among us
+- क्षेत्राणि (*kṣetrāṇi*)—riches **NOTE**
+- धारयेः (*dhārayeḥ*)—place
+
+### Printed p. 775
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I worship your gracious mind. May this speech, recited in praise of you again and again, sound out, turn towards you and praise you. Having excellent horses and being accompanied by sons, grandsons and the rest, we adorn you. Grant that we may have wealth every day.
+
+##### English translation (H. H. Wilson)
+I reverence your good favour, Agni ; may this reiterated and resounding hymn convey due praise to your presence : may we be possessed of good horses and good cars, that we may pay you homage; and daily bestow upon us riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Ukhāsaṃbharaṇa, in the Kṣatrabhṛt homa, this ṛk अर्चामि ते (*arcāmi te*) is to be used as a yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अर्चामि ते सुमतिं घोष्यर्वागितीदंप्रभृतिकर्मणां (*arcāmi te sumatiṃ ghoṣyarvāgitīdaṃprabhṛtikarmaṇāṃ*) (Ā. 4-1).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्वा॒ भूर्या च॑रे॒दुप॒ त्मनोषा॑वस्तर्दीदि॒वांस॒मनु॒  
+> द्यून् ।  
+> क्रीळं॑तस्त्वा सु॒मन॑सः सपेमा॒भि द्यु॒म्ना त॑स्थि॒वांसो॒ जना॑नां॥
+
+> *iha tvā bhūryā caredupa tmanoṣāvastardīdivāṃsamanu*  
+> *dyūn |*  
+> *krīḷaṃtastvā sumanasaḥ sapemābhi dyumnā tasthivāṃso janānāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्वा । भूरि । आ । चरेत् । उप । त्मन् । दोषावस्तः । दीदिवांसं । अनु ।  
+> द्यून् ।  
+> क्रीळंतः । त्वा । सुमनसः । सपेम । अभि । द्युम्ना । तस्थिवांसः । जनानां ॥ ९ ॥
+
+> *iha | tvā | bhūri | ā | caret | upa | tman | doṣāvastaḥ | dīdivāṃsaṃ | anu |*  
+> *dyūn |*  
+> *krīḷaṃtaḥ | tvā | sumanasaḥ | sapema | abhi | dyumnā | tasthivāṃsaḥ | janānāṃ ‖ 9 ‖*
+
+### Printed p. 776
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने इह रक्षोहननाख्ये कर्मणि यद्वास्मिल्लोके यः पुरुषो दोषावस्ता रात्रावहनि च दीदिवांसं दीप्यमानं त्वामनु द्यूनन्वहं त्मन् आत्मना
+> स्वयमेवोप समीपे भूरि भूयिष्ठं यथा भवति तथा चरेत् । परिचरति । तस्माद्वयमपि जनानां शत्रूणां द्युम्ना द्युम्नानि धनान्यभि तस्थिनांसत्वप्रसादादात्मसात्कुर्वंतोऽत एव क्रीळंतः स्वे स्वे गृहे पुत्रपौत्रादिभिः सह संक्रीडमानास्तथा सुमनसः शोभनमनस्काः संतस्त्वां सपेम । परिचरेम । यद्वा । दोषावस्तरिति संबुद्धिः । दोषाया रात्रिकृतस्य तमसो वस्तराच्छादयितर्निवारयितः ॥
+> त्मन् । आत्मनब्दस्य तृतीयायाः सुपां सुलुगिति लुक् । मंत्रेष्याज्यादेरात्मन
+> इत्याकारलोपः । दोषावस्तः । द्वंद्वपक्षे कार्तकौजपादयश्चति पूर्वपदप्रकृतिस्वरः । संबुद्धिपक्ष आमंत्रितस्य पादादित्वात् षाष्टिकमाद्युदात्तत्वं । सपेम । षप
+> समवाये । लिजु रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, here, that is, in this rite called the slaying of the rakṣas, or else in this world, whatever man serves you, shining (dīdivāṃsam) by night and by day, every day, of himself (tman, by his own self), near you and abundantly (bhūri), therefore we also serve you. We make our own, through your favour, the dyumnā of the enemies (janānām), that is, their riches. For that very reason we sport (krīḷantaḥ), each in his own house, playing with sons, grandsons and the rest. We are well-minded (sumanasaḥ), of good mind, and so we serve you (sapema)."
+
+Or else: दोषावस्तः (*doṣāvastaḥ*) is a vocative, meaning "O you who cover or ward off (vastar) the darkness (doṣā) caused by night."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—in this world
+- दोषावस्तः (*doṣāvastaḥ*)—night and day
+- दीदिवांसं (*dīdivāṃsaṃ*)—shining
+- त्वा (*tvā*)—you
+- अनु द्यून् (*anu dyūn*)—every day
+- त्मन् (*tman*)—each one, of his own inner impulse
+- उप (*upa*)—near you
+- भूरि (*bhūri*)—exceedingly
+- आ चरेत् (*ā caret*)—let him attend upon
+- जनानां (*janānāṃ*)—of the enemy people
+- द्युम्ना (*dyumnā*)—the riches
+- अभि तस्थिवांसः (*abhi tasthivāṃsaḥ*)—those who make them their own
+- क्रीळंतः (*krīḷaṃtaḥ*)—those who rejoice with sons, grandsons and the rest
+- सुमनसः (*sumanasaḥ*)—those whose minds are full of devotion
+- त्वा सपेम (*tvā sapema*)—we attend upon you (the Kannada prints पचरिसुत्तेवॆ (*pacarisuttevè*)) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in this world may every man, of his own inner impulse, worship and attend upon you, who shine night and day, every day. By your favour we make our own the riches of enemy people, we rejoice with sons, grandsons and the rest, and with devout minds we attend upon you.
+
+##### English translation (H. H. Wilson)
+May every one of his own accord diligently worship you, shining in the (hall) morning and evening, every day : thus, sporting in our dwellings, (enjoying) the wealth of (hostile) man, may we with happy hearts worship you.
+
+### Printed p. 777
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॒ स्वश्वः॑ सुहिर॒ण्यो अ॑ग्न उप॒याति॒ वसु॑मता॒ रथे॑न ।  
+> तस्य॑ त्रा॒ता भ॑वसि॒ तस्य॒ सखा॒ यस्त॑ आति॒थ्यमा॑नु॒षग्जु जो॑षत् ॥
+
+> *yastvā svaśvaḥ suhiraṇyo agna upayāti vasumatā rathena |*  
+> *tasya trātā bhavasi tasya sakhā yasta ātithyamānuṣagju joṣat ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । सुअश्वः । सुहिरण्यः । अग्ने । उपयाति । वसुमता । रथेन ।  
+> तस्य । त्राता । भवसि । तस्य । सखा । यः । ते । आतिथ्यं । अनुषक् । जुजोषत् ॥ १० ॥
+
+> *yaḥ | tvā | suaśvaḥ | suhiraṇyaḥ | agne | upayāti | vasumatā | rathena |*  
+> *tasya | trātā | bhavasi | tasya | sakhā | yaḥ | te | ātithyaṃ | anuṣak | jujoṣat ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यः पुमान् स्वश्वः शोभनाश्वोपेतः सुहिरण्यो यागयोग्यधनोपेतो वसुमता व्रीह्यादिधनयुक्तन रथेन सहितः सन् त्वामुपयाति । परिचरणार्थं तव समीपं गच्छति । तस्य पुंसस्त्राता सर्वदुरितेभ्यो रक्षको भवसि ।
+> यश्च पुमान् ते तदातिथ्यमतिथियोग्यां पूजामानुषगनुक्रमेण जुजोषत्
+> प्रापयति तस्यः पुंसः सखा तदुचितफलप्रदानेनोपकर्ता भवसि ॥ उपयाति । सह
+> सुपेत्यत्र सहेति योगविभागात्समासः । तिपः पित्त्वादनुदात्तत्वे धातुस्वरः । तिजु
+> चोदात्तवतीति गतेर्निघातः । आतिथ्यं अतिथिशब्दात्तादर्थ्ये अतिथेर्ञ इति इत्यप्रत्ययः । प्रत्ययस्वरः । जुजोषत् । जोषयतेर्लजि बहुलं छंदसीति शपः श्लुः ।
+> अडागमः । छंदस्युभयथेति तिप आर्धधातुकत्वाण्णिलोपः । अभ्यस्तानामादिरित्याद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the man who has good horses (svaśva) and good gold (suhiraṇya), that is, wealth fit for sacrifice, and who comes to you (upayāti) together with a chariot (rathena) laden with wealth (vasumatā), such as grain and the like, going near you in order to attend upon you: of that man you are the protector (trātā), the guardian from all misfortunes. And the man who offers you in due order (ānuṣak) the hospitality (ātithya), the worship fit for a guest, of him you are the friend (sakhā); you are his benefactor by giving him the fruit that befits it."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the man who
+- स्वश्वः (*svaśvaḥ*)—one who has excellent horses
+- सुहिरण्यः (*suhiraṇyaḥ*)—one who has wealth that is an instrument of sacrifice
+- वसुमता (*vasumatā*)—wealth-laden
+- रथेन (*rathena*)—together with a chariot
+- त्वा (*tvā*)—you
+- उपयाति (*upayāti*)—approaches and worships
+- तस्य (*tasya*)—of that man
+- त्राता (*trātā*)—protector
+- भवसि (*bhavasi*)—you become
+- यः (*yaḥ*)—the man who
+- ते (*te*)—your
+- आतिथ्यं (*ātithyaṃ*)—worship fit for a guest
+- आनुषक् (*ānuṣak*)—according to rule
+- जुजोषत् (*jujoṣat*)—offers
+- तस्य (*tasya*)—of that man
+- सखा (*sakhā*)—you are the friend
+
+### Printed p. 778
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who has excellent horses and wealth that is an instrument of sacrifice, and who approaches and worships you together with a wealth-laden chariot: you are the protector of that man. The man who offers according to rule the worship due to you as a guest: to that man you are a friend.
+
+##### English translation (H. H. Wilson)
+You, Agni, are the protector of him who, possessed of good horses and a golden car, approches you with a chariot laden with wealth : you are the friend of him who gratifies you by the due performance of hospitality to you.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो रु॑जामि बं॒धुता॒ वचो॑भि॒स्तन्मा॑ पि॒तुर्गोत॑मा॒दन्वि॑याय ।  
+> त्वं नो॑ अ॒स्य वच॑सत्किद्दि॒ होत॑र्यविष्ठ सुक्रतो॒ दमू॑नाः॥
+
+> *maho rujāmi baṃdhutā vacobhistanmā piturgotamādanviyāya |*  
+> *tvaṃ no asya vacasatkiddi hotaryaviṣṭha sukrato damūnāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । रुजामि । बंधुता । वचःभिः । तत् । मा । पितुः । गोतमात् । अनु ।  
+> इयाय ।  
+> त्वं । नः । अस्य । वचसः । चिकिद्दि । होतः । यविष्ठ । सुक्रतो इति सुक्रतो  
+> दमूनाः ॥ ११ ॥
+
+> *mahaḥ | rujāmi | baṃdhutā | vacaḥbhiḥ | tat | mā | pituḥ | gotamāt | anu |*  
+> *iyāya |*  
+> *tvaṃ | naḥ | asya | vacasaḥ | cikiddi | hotaḥ | yaviṣṭha | sukrato iti sukrato*  
+> *damūnāḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होतर्देवानामह्वातर्यविष्ठ युवतम सुक्रतो शोभनप्रज्ञ हे
+> अग्ने वचोभिस्त्वदुद्देशेन कृतैः स्तोत्रैः समुपजाता येयं बंधुता बंधुभावस्तया बंधुतया महो महतो राक्षासान्रुजामि । भनज्मि । तत्तादृशं स्तोत्रात्मकं वचः पितुरुत्पादयितुर्गोतमादृषेः सकाशान्मा नामदेवं मामन्वि-
+
+##### Gist of the bhāṣya
+
+"O Hotṛ, caller of the gods, O Yaviṣṭha, youngest, O Sukratu, of good understanding, O Agni: by the kinship (bandhutā) that has arisen through praises (vacobhiḥ) made with you as their aim, I crush (rujāmi), that is, I break, the great (mahaḥ) rākṣasas. Such a speech, of the nature of praise, has come (anviyāya) to me from my father (pituḥ), the seer Gotama." The text then reads मा नामदेवं मामन्वि (*mā nāmadevaṃ māmanvi*) … **NOTE**, breaking off at the page end. **NOTE**
+
+### Printed p. 779
+
+> याय । दमूना दांतमना दानमना वा शत्रूणामुपक्षपयिता वा तादृशस्त्वं
+> नोऽस्मदीयस्यास्य वचसः स्तोत्रात्मकमेतद्वाक्यं चिकिद्दि । जानीहि ॥ चिकिद्दि । कित
+> ज्ञाने । चौहोत्यादिकः । लोटि रूपं । होतः । पादादित्वात् षाष्ठिकमाद्युदात्तत्वं । इतरयोस्तु नामंत्रिते समानाधिकरण इति प्रथमस्याविद्यमानवद्भावनिषेधादपादादित्वेन निघातः ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues: अन्वियाय (*anviyāya*), "has come to me". Damūnāḥ means one whose mind is self-controlled, or whose mind is given to giving, or one who destroys enemies. "Such as you are, know (cikiddhi), understand, this speech of ours, this sentence of the nature of praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतः (*hotaḥ*)—O caller of the gods to the sacrifice
+- यविष्ठ (*yaviṣṭha*)—O most youthful
+- सुक्रतो (*sukrato*)—O Agni, who have excellent understanding
+- वचोभिः (*vacobhiḥ*)—arisen from the praises addressed to you
+- बंधुता (*baṃdhutā*)—by the bond of kinship
+- महः (*mahaḥ*)—even the rākṣasas who have great power
+- रुजामि (*rujāmi*)—I am able to destroy
+- तत् (*tat*)—such a word of praise
+- पितुः (*pituḥ*)—of our father
+- गोतमात् (*gotamāt*)—from the seer Gotama (printed गोतमऋषियिंद (*gotamaṛṣiyiṃda*))
+- मा (*mā*)—to me
+- अन्वियाय (*anviyāya*)—has come
+- दमूनाः (*damūnāḥ*)—you who have the power to destroy enemies
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our
+- अस्य वचसः (*asya vacasaḥ*)—of this word of praise
+- चिकिद्दि (*cikiddi*)—know (the Kannada adds "its nature")
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, caller of the gods to the sacrifice, most youthful, of excellent understanding: through the force of the bond of kinship arisen from the praises addressed to you, I am able to destroy even the rākṣasas of great power. Such a word of praise has come to me from our father, the seer Gotama. You who have the power to destroy enemies, know the nature of this word of praise of ours.
+
+##### English translation (H. H. Wilson)
+Invoker (of the gods), youngest (of the deities) ; possessed of excellent wisdom, through the alliance (with you produced) by holy texts, which came to me from my father Gotama, I demolish the powerful (demons) : you are the humbler (of foes) ; be cognizant of our praises,
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॑प्नजस्त॒रण॑यः सु॒शेवा॒ अतं॑द्रासोऽवृ॒का अश्र॑मिष्ठाः ।  
+> ते पा॒यवः॑ स॒ध्यं॑चो नि॒षद्याग्ने॒ तव॑ नः सांत्वमूर ॥१२॥
+
+> *svapnajastaraṇayaḥ suśevā ataṃdrāso 'vṛkā aśramiṣṭhāḥ |*  
+> *te pāyavaḥ sadhyaṃco niṣadyāgne tava naḥ sāṃtvamūra ‖12‖*
+
 ---
 
-**Progress note:** Done through printed p. 773. pp. 768-773 (batch API)
+**Progress note:** Done through printed p. 779. pp. 774-779 (batch API)
