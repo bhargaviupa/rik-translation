@@ -30884,6 +30884,295 @@ Agni, who sees all, gives to the sacrificers sons and the like, endowed with abu
 ##### English translation (H. H. Wilson)
 Agni, the all-beholding, gives, verily, to the man (who worships him, a son) possessing abundant food : Agni, when propitiated, proceeds (to bestow) that wealth which is of its own nature precious: Agni, bring food to your adorers.
 
+### Printed p. 821
+
+> आ ते अग्न इधीमहि द्युमंतं देवाजरं ।
+> यद्ध स्या ते पनीयसी समिद्दीदयति द्यवीषं स्तोतृभ्य आ
+> भर ॥ ४ ॥
+> आ । ते । अग्ने । इधीमहि । द्युमंतं । देव । अजरं ॥
+> यत् । ह । स्या । ते । पनीयसी । संइत् । दीदयति । द्यवि । इषं । स्तोतृभ्यः ।
+> अ । भर ॥ ४ ॥
+
+> *ā te agna idhīmahi dyumaṃtaṃ devājaraṃ |*
+> *yaddha syā te panīyasī samiddīdayati dyavīṣaṃ stotṛbhya ā*
+> *bhara ‖ 4 ‖*
+> *ā | te | agne | idhīmahi | dyumaṃtaṃ | deva | ajaraṃ ‖*
+> *yat | ha | syā | te | panīyasī | saṃit | dīdayati | dyavi | iṣaṃ | stotṛbhyaḥ |*
+> *a | bhara ‖ 4 ‖*
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने स्तोत्रियतृचस्या ते अग्न इधीमहीत्यादिके प्रथमाद्वितीये । सूत्रितं च भवति । आ ते अग्ने इधीमह्युभे सुश्चंद्र
+> सर्पिष इति द्वे एका च । आ. ७_८ । इति ॥
+> हे अग्ने देव द्युमंतं दीप्तिमंतमजरमजीर्णं ते त्वामा सर्वत
+> इधीमहि । दीपयामः । यद्ध खलु स्या सा ते तव पनीयसी स्तुत्या समिद्दीप्तिर्दिदयति । दीप्यते । द्यवि द्युलोके ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava Ukthya rites, at the third pressing, the first two verses of the Stotriya tṛca beginning "ā te agna idhīmahi" are used. It is prescribed in the sūtra: आ ते अग्ने इधीमह्युभे सुश्चंद्र सर्पिष इति द्वे एका च (*ā te agne idhīmahyubhe suścaṃdra sarpiṣa iti dve ekā ca*) (Ā. 7-8). O divine Agni, we kindle you on every side, you who are radiant (dyumantam) and undecaying (ajaram). Because that praised radiance of yours blazes in heaven (dyavi, the world of heaven), we kindle you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—radiant
+- अग्ने (*agne*)—O Agni
+- यद्ध (*yaddha*)—by what greatness
+- ते (*te*)—your
+- स्या (*syā*)—famous
+- पनीयसी (*panīyasī*)—praised
+- समित् (*samit*)—radiance
+- द्यवि (*dyavi*)—in the atmosphere
+- दीदयति (*dīdayati*)—shines (therefore)
+- द्युमंतं (*dyumaṃtaṃ*)—endowed with brilliance
+- अजरं (*ajaraṃ*)—free from decay
+- ते (*te*)—you
+- आ इधीमहि (*ā idhīmahi*)—we cause to blaze everywhere
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to those who praise you
+- इषः (*iṣaḥ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Agni, by that greatness of yours through which your famous and praised radiance shines in the atmosphere, for that very reason we kindle you everywhere, you who are brilliant and (continued on the next page)
+
+### Printed p. 822
+undecaying. O Agni, bring food to those who praise you.
+
+##### English translation (H. H. Wilson)
+We kindle you, divine Agni, bright, undecaying, so that your glorious blaze shines in heaven : bring food to your adorers.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the third pressing of the Ukthya sacrifice connected with the Abhiplava, the first two verses of this sūkta beginning "ā te agna idhīmahi" are to be used for the first two verses of the Stotriya tṛca; this is set out by the sūtra of the Āśvalāyana Śrautasūtra आ ते अग्न इधीमह्युभे सुश्चंद्र सर्पिष इति द्वे एकाच (*ā te agna idhīmahyubhe suścaṃdra sarpiṣa iti dve ekāca*) (Ā. 7-8).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ अग्न ऋ॒चा ह॒विः शुक्र॑स्य शोचिषस्पते ।  
+> सुश्चं॑द्र॒ दस्म॒ विश्व॑ते॒ हव्य॑वा॒ट् तुभ्यं॑ हूयत॒ इषं॑ ॒॒ ॑
+> स्तोतृभ्य आ भर ॥ ५ ॥
+
+> *ā te agna ṛcā haviḥ śukrasya śociṣaspate |*  
+> *suścaṃdra dasma viśvate havyavāṭ tubhyaṃ hūyata iṣaṃ*  
+> *stotṛbhya ā bhara ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । अग्ने । ऋचा । हविः । शुक्रस्य । शोचिषः । पते ॥  
+> सुचंद्र । दस्म । विश्वते । हव्यवाट् । तुभ्यं । हूयते । इषं । स्तोतृभ्यः ।  
+> आ । भर ॥ ५ ॥
+
+> *ā | te | agne | ṛcā | haviḥ | śukrasya | śociṣaḥ | pate ‖*  
+> *sucaṃdra | dasma | viśvate | havyavāṭ | tubhyaṃ | hūyate | iṣaṃ | stotṛbhyaḥ |*  
+> *ā | bhara ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शोचिषो दीप्तेः पते स्वामिन्नग्ने शुक्रस्य दीप्तस्य ते तुभ्यमृचा
+> मंत्रेण सह हविर्हूयते । हे सुश्चंद्र सुष्वाह्लादक शोभनहिरण्य वा हे दस्म
+> शत्रूणामुपक्षपयितर्विश्वते विशां प्रजानां पालक हव्यवाट् हविषो वोढः ।
+> इषमिति गतं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, lord (pati) of light (śocis), to you who are radiant (śukra) the oblation is offered together with the verse (ṛc). O Suścandra—delighting well, or having beautiful gold—O Dasma, destroyer of enemies, O Viśvate, protector of the subjects (viś), O Havyavāṭ, bearer of the oblation. The word "iṣam" is as explained before.
+
+### Printed p. 823
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शोचिषः (*śociṣaḥ*)—of the radiance
+- पते (*pate*)—lord
+- अग्ने (*agne*)—O Agni
+- शुक्रस्य (*śukrasya*)—brilliant
+- ते (*te*)—directed to you
+- ऋचा (*ṛcā*)—with the mantra
+- हविः (*haviḥ*)—the oblation (is offered)
+- सुश्चंद्र (*suścaṃdra*)—exceedingly delightful
+- दस्म (*dasma*)—destroyer of enemies
+- विश्वते (*viśvate*)—protector of the sacrificers
+- हव्यवाट् (*havyavāṭ*)—Agni, who carries the oblation (to the gods)
+- तुभ्यं (*tubhyaṃ*)—directed to you
+- हूयते (*hūyate*)—the oblation is offered
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to your praisers
+- इषः (*iṣaḥ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, lord of all radiance, to you who are brilliant the oblation is offered with the mantra. O Agni, exceedingly delightful, destroyer of enemies, protector of the sacrificers, bearer of the oblation to the gods, for you the oblation is offered. O Agni, bring food to those who praise you.
+
+##### English translation (H. H. Wilson)
+To you, radiant Agni, lord of light, giver of pleasure, destroyer (of foes), protector of man, the bearer of oblations, to you the oblation is offered with the sacred verse : bring food to your adorers.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो त्ये अ॒ग्नयो॒ऽग्निषु॒ विश्वं॑ पुष्यंति॒ वार्यं॑ ।  
+> ते हि॑न्विरे॒ त इ॑न्विरे॒ त इ॑षण्यंत्यानु॒षगिषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥ ६ ॥
+
+> *pro tye agnayo 'gniṣu viśvaṃ puṣyaṃti vāryaṃ |*  
+> *te hinvire ta invire ta iṣaṇyaṃtyānuṣagiṣaṃ stotṛbhya ā bhara ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । त्ये । अग्नयः । अग्निषु । विश्वं । पुष्यंति । वार्यं ॥  
+> ते । हिन्विरे । ते । इन्विरे । ते । इषण्यंति । आनुषक् । इषं। स्तोतृभ्यः। आ । भर ॥६॥
+
+> *pro iti | tye | agnayaḥ | agniṣu | viśvaṃ | puṣyaṃti | vāryaṃ ‖*  
+> *te | hinvire | te | invire | te | iṣaṇyaṃti | ānuṣak | iṣaṃ| stotṛbhyaḥ| ā | bhara ‖6‖*
+
+### Printed p. 824
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रो प्रैव पुष्यंति त्ये तेऽग्नयो धिष्ण्या अग्निषु गार्हपत्यादिषु । यद्वा।
+> लौकिका अग्नयस्तेजःपदार्थोऽग्निषु वैदिकेषु विश्वं सर्वं वार्यं वरणीयमपेक्षितं धनं पुष्यंति । तेऽग्नयो हिन्निरे । प्रीणयंति । इन्विरे । व्याप्पुवंति च । त
+> इषण्यंति । अन्नमिच्छंति । आनुषक् सर्वत्रानुषक्तं । तत्राग्निसामान्याभिप्रायेणैकवचनं ॥
+
+##### Gist of the bhāṣya
+
+"Pro" is the prefix of "puṣyanti" (they nourish). Those fires, the dhiṣṇya fires, nourish in the fires such as the Gārhapatya. Or else: the worldly fires, which are the substance of heat, nourish in the Vedic fires everything that is choice (vāryam), desirable, namely wealth. Those fires delight (hinvire, they please), they pervade (invire), they desire (iṣaṇyanti) food. "Ānuṣak" means attached everywhere. The singular is used here with the common nature of fire in view.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये (*tye*)—the famous
+- अग्नयः (*agnayaḥ*)—fires
+- अग्निषु (*agniṣu*)—in the sacrificial fires
+- विश्वं (*viśvaṃ*)—all
+- वार्यं (*vāryaṃ*)—and desirable wealth
+- प्रो पुष्यंति (*pro puṣyaṃti*)—nourish abundantly
+- ते (*te*)—those same fires
+- हिन्विरे (*hinvire*)—satisfy
+- ते (*te*)—those
+- इन्निरे (*innire*)—pervade
+- ते (*te*)—those
+- आनुषक् (*ānuṣak*)—everywhere
+- इषण्यंति (*iṣaṇyaṃti*)—desire sacrificial food (O Agni)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+The famous worldly fires abundantly nourish, in the sacrificial fires, all desirable wealth wanted by all. Those same fires, pervading everywhere, satisfy the sacrificers, and themselves too desire sacrificial food at all times. O Agni, bring food to those who praise you.
+
+##### English translation (H. H. Wilson)
+These fires cherish all that is precious in the fires (of sacrifice); they give delight; they spread abroad; they crave perpetually (sacrificial) food: bring, Agni, food to your adorers.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ तै अ॑ग्ने अ॒र्चयो॒ महि॑ व्राधंत वा॒जिनः॑ ।  
+> ये पत्व॑भिः श॒फानां॑ व्र॒जा भु॒रंत॒ गोना॒मिषं॑ स्तो॒तृभ्य॒ आ  ॑
+> भर ॥ ७ ॥
+
+> *tava tai agne arcayo mahi vrādhaṃta vājinaḥ |*  
+> *ye patvabhiḥ śaphānāṃ vrajā bhuraṃta gonāmiṣaṃ stotṛbhya ā*  
+> *bhara ‖ 7 ‖*
+
+### Printed p. 825
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शव । त्ये । अग्ने । अर्चयः । महि । व्राधंत । वाजिनः ।  
+> ये । पत्त्वभिः । शफानां । व्रजा । भुरंत । गोनां । इषं । स्तोतृभ्यः । आ । भर ॥
+
+> *śava | tye | agne | arcayaḥ | mahi | vrādhaṃta | vājinaḥ |*  
+> *ye | pattvabhiḥ | śaphānāṃ | vrajā | bhuraṃta | gonāṃ | iṣaṃ | stotṛbhyaḥ | ā | bhara ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तव त्वदीयास्त्ये तेर्चयो रश्मयो महि महदत्यधिकं
+> वाजिनोऽन्नवंतो वा व्राधंत । वर्धंते । यद्वा लुप्तोपमा । वाजिनोऽश्वा इव ।
+> ये रश्मयः पत्त्वभिः पतनैः शफानां गोनां व्रजा यूथानि भुरंत । इच्छंति ।
+> आयता ज्वाला होमाय कांक्षंत इत्यर्थः । ते वर्धंते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, those rays (arcayaḥ) of yours grow greatly (mahi), being rich in food (vājinaḥ); or, with a suppressed comparison, like horses (vājin). Those rays that by their descents (patvabhiḥ) desire the herds of hoofed cattle (śaphānām gonām vrajā), that is, the flames stretched out long for the offering; they increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—which rays of yours
+- पत्वभिः (*patvabhiḥ*)—by their spreading in the form of descent
+- शफानां (*śaphānāṃ*)—of hoofed
+- गोनां (*gonāṃ*)—cattle
+- व्रजा (*vrajā*)—the pens
+- भुरंत (*bhuraṃta*)—desire (as means of the sacrifice)
+- त्यै (*tyai*)—those famous
+- तव (*tava*)—your
+- अर्चयः (*arcayaḥ*)—rays
+- महि (*mahi*)—exceedingly
+- वाजिनं (*vājinaṃ*)—rich in food
+- वृद्धंते (*vṛddhaṃte*)—grow
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those rays of yours which by their spreading in the form of descent desire the pen of the cattle—cattle with hooves, which supply the milk-products that are a limb of the sacrifice—those rays of yours grow, rich in abundant food. Bring food to us, the praisers.
+
+##### English translation (H. H. Wilson)
+These your flames, Agni, fed with abundant food, increase, as, by their descent, they seek the pastures of the hoofed cattle: bring, Agni, food to your adorers.
+
+### Printed p. 826
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नवा॑ नो अग्न॒ आ भ॑र स्तो॒तृभ्यः॑ सुक्षि॒तीरिषः॑ ।  
+> ते स्या॑म॒ य आ॑न्ृ॒चुस्त्वादू॑तासो॒ दमे॑दनु॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥ ८ ॥
+
+> *navā no agna ā bhara stotṛbhyaḥ sukṣitīriṣaḥ |*  
+> *te syāma ya ānṛcustvādūtāso damedanu iṣaṃ stotṛbhya ā bhara ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नवाः । नः । अग्ने । आ । भर । स्तोतृभ्यः । सुक्षितीः । इषः ।  
+> ते । स्याम । ये । आन्रचुः । त्वादूतासः । दमेदमे । इषं । स्तोतृभ्यः । आ ।  
+> भर ॥ ८ ॥
+
+> *navāḥ | naḥ | agne | ā | bhara | stotṛbhyaḥ | sukṣitīḥ | iṣaḥ |*  
+> *te | syāma | ye | ānracuḥ | tvādūtāsaḥ | damedame | iṣaṃ | stotṛbhyaḥ | ā |*  
+> *bhara ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्तोतृभ्यो नोऽस्मभ्यं नवाः स्तुत्या नूत्ना वा सुक्षितीः सुनिवासाः
+> सुप्रजा ना इष उक्तलक्षणान्यन्नान्या भर । प्रयच्छ । ये वयं दमे दमे
+> सर्वॆषु यागगृहेषु त्वामान्यचुः । अर्चयंति । ते वयं त्वादूतासस्त्वां दूतं
+> फलसूचकं लब्धवंतः संतः स्याम । समृद्धा भूयास्मै । दमे दमे स्यामेति वा
+> योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring to us, the praisers, new (navāḥ)—or praiseworthy—and well-settled (sukṣitīḥ), that is, good dwellings with good progeny, and foods of the kind described; give them. We who in every sacrificial house (dame dame) worship you, having obtained you as messenger (dūta), indicator of the fruit, may we prosper. Or else "dame dame syāma" is to be construed together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- नः (*naḥ*)—to us
+- नवाः (*navāḥ*)—new
+- सुक्षितीः (*sukṣitīḥ*)—and excellent dwelling-places
+- इषः (*iṣaḥ*)—and foods
+- आ भर (*ā bhara*)—provide
+- ये (*ye*)—we who
+- दमेदमे (*damedame*)—in every sacrificial house
+- आनृचुः (*ānṛcuḥ*)—worship you
+- ते (*te*)—such we
+- त्वादूतासः (*tvādūtāsaḥ*)—having chosen you as divine messenger
+- स्याम (*syāma*)—may we be happy (O Agni)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us who praise you
+- इषः (*iṣaḥ*)—foods
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide to us, the praisers, new and excellent dwellings and foods. May we, who worship you in every sacrificial house, having chosen you as divine messenger, be happy. O Agni, bring foods to us who praise you.
+
 ---
 
-**Progress note:** Done through printed p. 820. pp. 815-820 (batch API)
+**Progress note:** Done through printed p. 826. pp. 821-826 (batch API)
