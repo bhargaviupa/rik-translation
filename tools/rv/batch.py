@@ -204,6 +204,10 @@ def cmd_check(a):
     res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
     print(numerals.report(res))
     if res['near']: fail.append(f"{len(res['near'])} numerals differ from the numeral file by 1-2 characters (the file is the reference: correct kn.md, or tell the user)")
+    if note_style(cfg):                                  # a reference that carries a **NOTE** about itself is settled (the editor decides), and so is one whose numbers are a printed reference in other punctuation
+        det=' '.join(d for _,d,_ in split_notes(raw)[1]); groups=[k.split('-') for k in set(numerals.refs_kn(knr))|set(numerals.refs_en(knr))]
+        sub=lambda r:(lambda g:any(k[i:i+len(g)]==g for k in groups for i in range(len(k)-len(g)+1)) or any(''.join(k)==''.join(g) for k in groups))(r.split('-'))
+        res['twin_bad']=[r for r in res['twin_bad'] if ('reference '+r) not in det and not sub(r)]
     if res['twin_bad']: fail.append(f"English references without Kannada twin: {res['twin_bad']}")
     if res['missing']: fail.append(f"{len(res['missing'])} numeral-file rows have no counterpart in the Kannada text")
     if re.search(r'\[\[b\d+\]\]',enf): fail.append('unresolved [[bN]] in en_final.md')

@@ -19936,6 +19936,8 @@ In the passage of the Chāndogya Upaniṣad अनेन जीवेनात�
 
 ### Printed p. 666
 
+## Maṇḍala 4
+
 ## Sūkta 1 (Maṇḍala 4)
 
 The first sūkta.

@@ -7,7 +7,7 @@
         with the API's token counter (free) and prints the cost estimate.  Nothing is sent.
   python3 tools/rv/api_batch.py submit  VOL          sends the planned requests as ONE batch (this spends money); id in work/api_batch.json
   python3 tools/rv/api_batch.py status  VOL          batch state
-  python3 tools/rv/api_batch.py collect VOL          fetches the results: writes each window's en.md (and applies the Kannada-file repairs the model
+  python3 tools/rv/api_batch.py collect VOL [--no-retry | --retries N]   fetches the results: writes each window's en.md (and applies the Kannada-file repairs the model
         asked for), logs real usage and cost per window in volN/parts/batch_costs.md, then runs `batch.py done` window after window IN PAGE ORDER
         and stops at the first window whose gates fail (fix it by hand or with an agent, then `collect` again: finished windows are skipped).
 
@@ -121,6 +121,44 @@ def autofix_inline(w, en, kn):
         if not b: return m.group(0)
         log.append((seg, b[1].strip('।॥ '), round(b[0], 2))); return '⟦' + b[1].strip('।॥ ') + '⟧'
     return re.sub(r'⟦([^⟧]+)⟧', rep, en), log
+def soften(en, kn, w):
+    """What a script can settle is settled here, so that a window is not sent to the model twice for it (user, Nov 11 2026: too many retries):
+      * a `## Sūkta N (Maṇḍala M)` heading that the volume already has, or that stands twice in the window, is dropped (kept once);
+      * a `⟦START~~END⟧` quotation that cannot be located even approximately is given by its first and last words with … between, and marked **NOTE**;
+      * a reference that is not in kn.md in that form: accepted when its numbers are those of a printed reference in another punctuation
+        (2-3-13 for the printed 2-3 13) or part of one; otherwise kept as written and marked **NOTE**.
+    Returns the changed en and a list of what was done (also written to WIN/softened.tsv)."""
+    import convert, numerals
+    log = []; vol = re.search(r'vol(\d+)', w).group(1)
+    have = set(re.findall(r'(?m)^## Sūkta \d+ \(Maṇḍala \d+\)', open(os.path.join(ROOT, f'vol{vol}', f'Rigveda_Samhita_Vol{vol}_English_Translation.md'), encoding='utf8').read()))
+    out = []
+    for l in en.split('\n'):
+        h = re.fullmatch(r'## Sūkta \d+ \(Maṇḍala \d+\)\s*', l)
+        if h and l.strip() in have: log.append(('heading dropped (already written)', l.strip())); continue
+        if h: have.add(l.strip())
+        out.append(l)
+    en = '\n'.join(out)
+    probs = []; en = convert.resolve_markers(en, kn, probs)
+    def unres(m):
+        a, b = [x.strip() for x in m.group(1).split('~~', 1)]; log.append(('quotation not located: first and last words only', m.group(0)[:80]))
+        return f'⟦{a}⟧ … ⟦{b}⟧ **NOTE**{{long quotation not located in the supplied text of these pages: only its first and last words are given}}'
+    en = re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧', unres, en)
+    knr = re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])', '-', kn); knr = kn + '\n' + re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])', '-', knr)
+    kset = set(numerals.refs_kn(knr)) | set(numerals.refs_en(knr)); groups = [k.split('-') for k in kset]
+    def part_of(r):
+        g = r.split('-'); n = len(g)
+        return any(k[i:i + n] == g for k in groups for i in range(len(k) - n + 1)) or any(''.join(k) == ''.join(g) for k in groups)
+    parts = re.split(r'(⟦[^⟧]*⟧|⟪[^⟫]*⟫|\*\*NOTE\*\*\{[^{}]*\})', en)
+    for i in range(0, len(parts), 2):
+        def ref(m):
+            r = numerals.norm(m.group()); nxt = parts[i + 1] if i + 1 < len(parts) else ''
+            if r in kset or part_of(r): return m.group()
+            log.append(('reference marked NOTE', m.group()))
+            return m.group() + ' **NOTE**{reference ' + r + ' is not in the supplied text of these pages in this form}'
+        parts[i] = numerals.EN_REF.sub(ref, parts[i])
+    en = ''.join(parts)
+    if log: open(os.path.join(w, 'softened.tsv'), 'w', encoding='utf8').write(''.join(f'{a}\t{b}\n' for a, b in log))
+    return en, log
 def wrap_bare_kannada(en):
     """Kannada-script words the model left outside ⟦ ⟧ (usually a Sanskrit quotation put in plain quotation marks) are put inside ⟦ ⟧,
     so that the script converts and checks them like every other quotation.  NOTE details and existing segments are left alone."""
@@ -166,7 +204,8 @@ def apply_answer(w, text):
         for n in re.findall(r'<!-- printed (\d+)', kn):
             if int(n) not in have: pg.append(dict(printed=int(n), pdf=None, file_page=None, numeral_rows=0)); have.add(int(n))
         json.dump(sorted(pg, key=lambda x: x['printed']), open(pj, 'w'), indent=1)
-    en = wrap_bare_kannada(m.group(1).strip() + '\n')
+    en, soft = soften(m.group(1).strip() + '\n', kn, w)
+    en = wrap_bare_kannada(en)
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
@@ -217,7 +256,8 @@ def cmd_collect(a):
     def gate(x):
         r = subprocess.run(['python3', 'tools/rv/batch.py', 'done', str(cfg.vol), x['win'], '--dry-run'], capture_output=True, text=True, cwd=ROOT)
         return r.returncode == 0, (r.stdout + r.stderr).strip()
-    for rnd in (1, 2):                                             # windows whose gates fail go back with the gate message, as ONE batch per round (half price)
+    rounds = int(a[a.index('--retries') + 1]) if '--retries' in a else 1      # default: ONE half-price retry round, for structural faults only (the scripts settle the rest)
+    for rnd in range(1, rounds + 1):                               # windows whose gates fail go back with the gate message, as ONE batch per round
         if '--no-retry' in a: break
         bad = []
         for x in st['windows']:
