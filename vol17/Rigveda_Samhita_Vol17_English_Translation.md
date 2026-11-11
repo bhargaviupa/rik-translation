@@ -817,6 +817,239 @@ Now everything is ready in the sacrifice we perform. The priest called Hotṛ ha
 > *imā brahma brahmavāhaḥ kriyaṃta ā barhiḥ sīda |*  
 > *vīhi śūra puroḷāśaṃ ‖ 3 ‖*
 
+### Printed p. 27
+#### Ṛk 3
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । ब्रह्म । ब्रह्मवाहः । क्रियंते । आ । बर्हिः । सीद ।  
+> वीहि । शूर । पुरोळाशं ॥ ३ ॥
+
+> *imā | brahma | brahmavāhaḥ | kriyaṃte | ā | barhiḥ | sīda |*  
+> *vīhi | śūra | puroḷāśaṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बह्माणि स्तोत्राणि स्तुत्यतया वहतीति ब्रह्मवाहा ब्रह्मणा स्तोत्रेण प्राप्यत
+> इति ना । हे ब्रह्मवाह इंद्र तुभ्यमिमेमानि ब्रह्म ब्रह्माणि स्तोत्राण्यस्माभिः
+> क्रियंते । अतो बर्हिरा सीद । स्तुत्यतया बर्हिषि यज्ञ उपनिश । हे शूर समर्थेंद्रास्माभिर्दीयमानमिमं पुरोडाशं पुरोडाशाख्यं हनिर्विहि । भक्षय ॥
+> ब्रह्मवाहः । वह प्रापण इत्यस्माद्वहिहाधाञ्छंदसीत्यसुन् । णिदित्यनुवृत्तेरुपधावृद्धिः । आमंत्रितत्वान्निघातः । क्रियंते । करोतेः कर्मणि यक् । रिज् शयग्लिंक्षिति रिणादेशः । प्रत्ययस्वरः । पादादित्पादनिघातः । बर्हिः । कालाध्वनोरत्यंतसंयोगे द्वितीया । वीहि । वी कांत्यादिषु । लोटि रूपं । हेर्जित्वादुदात्तः
+> पुरोळाशं । दाश्य दान इत्यस्मात्पुरस्पूर्वान्मंत्रे श्वेतवहोक्तशस्पुरोडाशो
+> ण्वन् । पुरो दाशंत एनमिति । निपातनाद्दकारस्य ळकारः । कृदुत्तरपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+ब्रह्मवाहः (*brahmavāhaḥ*) is explained as one who carries *brahmāṇi*, hymns of praise, as objects of praise; or as one who is reached by *brahma*, a hymn. "O Indra, bearer of prayers, these *brahma*, that is, hymns, are made by us for you. Therefore sit down on the sacred grass; take your seat on the *barhis* at the sacrifice, being praised. O hero, O capable Indra, eat this oblation called *purodāśa*, which is being given by us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मवाहः (*brahmavāhaḥ*)—O Indra, who, pleased by praises, approach us
+- इमा ब्रह्म (*imā brahma*)—these praises
+- क्रियंते (*kriyaṃte*)—are made by us (therefore)
+- बर्हिः (*barhiḥ*)—upon the seat of darbha grass
+- आ सीद (*ā sīda*)—sit down
+- शूर (*śūra*)—O capable Indra
+- पुरोडाशं (*puroḍāśaṃ*)—this oblation in the form of *purodāśa*
+- वीहि (*vīhi*)—eat
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who, pleased by praises, approach us: these praises have been made by us. Therefore sit down on the seat of darbha grass. O capable Indra, eat this oblation in the form of *purodāśa*.
+
+##### English translation (H. H. Wilson)
+Bearer of prayers, these prayers are offered (by us): sit down on the sacred grass : partake, hero, of the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+ब्रह्मवाहः (*brahmavāhaḥ*)—This is the vocative singular. It is used to address Indra. *Brahma* means a hymn. Because he comes to our presence, praised with such hymns, he is called by the word ब्रह्मवाहः (*brahmavāhaḥ*).
+
+### Printed p. 28
+इमा ब्रह्म क्रियंते (*imā brahma kriyaṃte*)—इमानि स्तोत्राणि अस्माभिः क्रियंते । (*imāni stotrāṇi asmābhiḥ kriyaṃte |*) These hymns are made by us. Although the singular *brahma* is used here, it must be taken to mean the plural *brahmāṇi*. For the word इमाः (*imāḥ*) that qualifies it and the verb क्रियंते (*kriyaṃte*) are both plural, so the word *brahma* too must be regarded as plural.
+आ बर्हिः सीद (*ā barhiḥ sīda*)—Sit down on this seat of darbha grass that has been prepared.
+शूर पुरोळाशं वीहि (*śūra puroḷāśaṃ vīhi*)—O capable Indra, eat this oblation called *purodāśa* that we now offer you. *Purodāśa* means पुरो दाशंत एनमिति । निपातनाद्दकारस्य ळकारः (*puro dāśaṃta enamiti | nipātanāddakārasya ḷakāraḥ*): because this is offered to the gods in front of the sacrificial altar, this oblation is called *purodāśa*.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒रं॒भि सव॑नेषु ण ए॒षु स्तोमे॑षु वृत्रहन् ।  
+> उ॒क्थेष्टिं॑द्र गिर्वणः ॥ ४ ॥
+
+> *rāraṃbhi savaneṣu ṇa eṣu stomeṣu vṛtrahan |*  
+> *uktheṣṭiṃdra girvaṇaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ररंधि । सवनेषु । नः । एषु । स्तोमेषु । वृत्रहन् ।  
+> उक्षेषु । इंद्र । गिर्वणः ॥ ४ ॥
+
+> *raraṃdhi | savaneṣu | naḥ | eṣu | stomeṣu | vṛtrahan |*  
+> *ukṣeṣu | iṃdra | girvaṇaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गीर्भिः स्तुतिभिर्वननीय वृत्रहन् वृत्रस्य हंतर्हे इंद्र
+> नोऽस्माकं संबंधिषु त्रिषु सवनेष्वेषु क्रियमाणेषु सोमेषु सोत्रेषूक्षेषु शस्त्रेषु च रारंधि । रमस्व ॥ रारंधि । रमतेर्लोटि बहुलं छंदसीति शपः
+> श्लुः । छंदस्युभयथेति हेरार्धधातुकत्वेनाजित्तादजतश्चति हेर्धिः । सवनेषु ।
+> सूयते सोमो येष्वत्यधिकरणे सुनोतेल्र्युट् । लित्स्वरः । णः । नसो नकारस्य
+> नश्च धातुस्थोरुषभ्य इति संहितायां णत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, to be won (*vananīya*) by songs, that is, by praises; O slayer of Vṛtra, take your pleasure in these three pressings of ours, and in the Soma-hymns (*stoma*) and the recitations (*ukthā*, *śastra*) that are performed in them." रारंधि (*rāraṃdhi*) means "take delight". सवनेषु (*savaneṣu*) means those in which Soma is pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—you who are pleased by praises
+- वृत्रहन् (*vṛtrahan*)—and are the slayer of Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—performed by us
+- सवनेषु (*savaneṣu*)—in the three pressings too
+- विषु (*viṣu*)—(broken in print; continues on the next page) **NOTE**
+
+### Printed p. 29
+- पल्पडुव (*palpaḍuva*)—(…performed) **NOTE**
+- स्तोमेषु (*stomeṣu*)—by praises in the form of *stoma*
+- उक्षेषु (*ukṣeṣu*)—by the *stoma* in the form of *śastra*
+- रारंभि (*rāraṃbhi*)—take delight (be satisfied)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are pleased by praises and are the slayer of Vṛtra: in the three pressings performed by us, take delight, and obtain satisfaction, through the praises in the form of *stoma* that are made here and through the praises in the form of *śastra*.
+
+##### English translation (H. H. Wilson)
+Slayer of Vritra, Indra, you are gratified by praise, be pleased with these our praises and prayers at our (daily) secrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+गिर्वणः (*girvaṇaḥ*)—गीर्भिः स्तूतिभिर्वननीय । (*gīrbhiḥ stūtibhirvananīya |*) One who is attained through words in the form of hymns; that is, one who hears the hymns we make, is pleased, and comes into our presence.
+वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of Vṛtra. Indra's most prominent heroic deed is the destruction of Vṛtra. Hence calling Indra the destroyer of Vṛtra is common in the Ṛgveda.
+सवनेषु (*savaneṣu*)—There are three pressings: the morning pressing, the midday pressing and the third pressing. The Soma plants are crushed with stones, the Soma juice is extracted, filtered and offered to the gods. This work must be done with mantras. In sacrifices it is done in the morning, at midday and in the evening. The day on which this Soma-pressing is done is called the *sutyā* day. We have explained this matter at length before.
+स्तोमेषु (*stomeṣu*)—Vedic mantras in the form of hymns. For a detailed explanation of these *stoma*, see what we have explained in Ṛ. Saṃ. Part 2, page 138.
+उक्षेषु (*ukṣeṣu*)—The Vedic mantras used when invoking the gods are called *śastra* mantras. Ordinarily the word *uktha* is used to denote this kind of mantras and also hymns. For a detailed explanation of this word see Ṛ. Saṃ. Part 8-252, 10-695, 13-421.
+
+### Printed p. 30
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒तयः॑ सोम॒पामु॒रुं रि॒हंति॒ शव॑स॒स्पतिं॑ ।  
+> इंद्रं॑ व॒त्सं न मा॒तरः॑ ॥ ५ ॥
+
+> *matayaḥ somapāmuruṃ rihaṃti śavasaspatiṃ |*  
+> *iṃdraṃ vatsaṃ na mātaraḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मतयः । सोमसां । उरुं । रिहंति । शवसः । पतिं ।  
+> इंद्रं । वत्सं । न । मातरः ॥ ५ ॥
+
+> *matayaḥ | somasāṃ | uruṃ | rihaṃti | śavasaḥ | patiṃ |*  
+> *iṃdraṃ | vatsaṃ | na | mātaraḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मतयोऽस्माभिः क्रियमाणाः स्तुतय उरुं महांतं सोमसां
+> सोमस्य पातारं शवसो बलस्य पतिमिंद्रं त्वां रिहंति । लिहंति । तत्र दृष्टांतः ।
+> वत्सं न । यथा वत्सं मातरो धेनवो लिहंति तद्वत् ॥ मतयः । मन ज्ञान इत्यस्मात्कर्मणि मंत्रे वृषेत्यादिना क्किन्नु दात्तः । उरुं । ऊर्णुञ् आच्छादन इत्यस्मान्महत्यर्थे गम्यमाने महति ह्रस्वश्च । उ. १-३२ । इति कुप्रत्ययो धातोर्ह्रस्वश्च ।
+> प्रत्ययस्वरः । रिहंति । लिह आस्वादन इत्यस्य लटि रूपं । रलयोरभेदः । प्रत्ययस्वरः । शवसस्पतिमिति संहितायां षष्ठ्याः पतिपुत्र स्पष्टेत्यादिना विसर्जनीयस्य सत्वं ।
+> वत्सं । वद व्यक्तायां वाचि । अस्माद्वृत्यवदिहनीत्यादिना सप्रत्ययः । वदत्यभीक्ष्णं
+> मातरमिति वॆत्सो गोबालः । प्रत्ययस्वरः ii
+
+##### Gist of the bhāṣya
+
+"O Indra, the hymns (*mati*) made by us lick you, the great one, the drinker of Soma, the lord of strength (*śavas*)." रिहंति (*rihaṃti*) is लिहंति (*lihaṃti*) (r and l are not distinguished). The illustration is वत्सं न (*vatsaṃ na*): as mother cows lick the calf, so. मतयः (*matayaḥ*) is from the root *man* (to know). उरुं (*uruṃ*) is from *ūrṇuñ* (to cover), with the sense "great" (Uṇ. Sū. 1-32). वत्सं (*vatsaṃ*) is from *vad* (to speak clearly): the calf is one who constantly "speaks" to its mother; a young cow-child.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतयः (*matayaḥ*)—(O Indra,) the praises made by us
+- उरुं (*uruṃ*)—you of mighty form
+- सोमपां (*somapāṃ*)—drinker of Soma juice
+- शवस्य (*śavasya*)—of strength
+- पतिं (*patiṃ*)—lord
+- इंद्रं (*iṃdraṃ*)—you, who are Indra
+- मातरः (*mātaraḥ*)—cows
+- वत्सं न (*vatsaṃ na*)—as they lovingly lick their calves
+- रिहंति (*rihaṃti*)—lick (become one with you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these praises made by us lick you, who are of mighty form, the drinker of Soma juice, the lord of strength, in the form of Indra, as cows lovingly lick their calves. That is, they become one with you and bring you delight.
+
+##### English translation (H. H. Wilson)
+Our praises caress the mighty Indra, the drinker of the Soma juice. as cows lick their calves.
+
+### Printed p. 31
+
+##### विशेषविषयगळु (Special Topics)
+
+मतयः (*matayaḥ*)—The word मतयः (*matayaḥ*) is formed from the root *man jñāne* and is read among the names of the wise (Ni. 3-9). But here the word *mati* means intellect or mantra. That is, hymn-sentences that we recite with understanding.
+शवस्य पतिं (*śavasya patiṃ*)—The word *śavas* is read among the one hundred and one names of water (Ni. 2-24) and among the twenty-eight names of strength (Ni. 3-9). Here it is used in the sense of strength. "Lord of strength" means exceedingly strong.
+मातरः वत्सं न रिहंति (*mātaraḥ vatsaṃ na rihaṃti*)—यथा धेनवो वत्सं लिहंति तद्वत् । (*yathā dhenavo vatsaṃ lihaṃti tadvat |*) Just as cows lovingly lick their calves, so the hymns we make lick you (Indra); that is, reach you. The meaning is that the hymns we make with great reverence touch you, Indra, and bring you love and delight. As cows have love for their calves, so we have love (devotion) for Indra; with such love we make our hymns. This is the purport of the illustration.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मं॑दस्वा॒ व्यंध॑सो॒ राध॑से त॒न्वा॑ म॒हे ।  
+> न स्तो॒त्रं॑ नि॒दे क॑रः ॥ ६ ॥
+
+> *sa maṃdasvā vyaṃdhaso rādhase tanvā mahe |*  
+> *na stotraṃ nide karaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सु । मंदस्व । हि ! अंधस । राधसे । तन्वा । महे ।  
+> न । स्तोतारं । निदे । करः ॥ ६ ॥
+
+> *su | maṃdasva | hi ! aṃdhasa | rādhase | tanvā | mahe |*  
+> *na | stotāraṃ | nide | karaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स तथाविधस्त्वं महे महते राधसे धनायांधसोऽस्माभिर्दीयमानस्य सोमस्य पानेन तन्ना शरीरेण सह मंदस्व । हृष्टो भव । हिरत्र समुच्चयार्थः । किं च त्वं स्तोतारं मां निदे निंदाय्कॆ विषयभूतं न करः । मा
+> कार्षिः ॥ मंदस्व । मदि स्तुत्यादिष्ठित्यस्य लोटि रूपं । हि चेति निघातप्रतिषेधेन
+> भवितव्यमिति चेन्न । तत्राप्रातिलोम्य इति वर्तते । अत्र हेः समुच्चयार्थत्वान्नि-
+
+##### Gist of the bhāṣya
+
+"O Indra, you, such as you are, rejoice together with your body (तन्ना (*tannā*)) on drinking the Soma (*andhas*) given by us, for great wealth (*rādhas*). Be glad. हि (*hi*) here has the sense of conjunction. And do not make me, your praiser, an object of reproach (निदे (*nide*))." मंदस्व (*maṃdasva*) is the imperative of *mad*, in the sense of praising and the like.
+
+### Printed p. 32
+
+> घातः । तन्ना । उदात्तस्वरितयोरिति स्वरितत्वं । महे । तकारलोपश्छंदसः । बृहन्महतोरुपसंख्यानमिति विभक्तेरुदात्तत्वं । निदे । णिदि कुत्सायामित्यस्मात्संपदादिलक्षणो भावे क्विप् । आगमानुशासनस्यानित्यत्वान्नु मभावः । सावेकाच इति विभक्तेरुदात्तत्वं । करः । करोतेर्लुजं ज्लेः क्रमृद्यरुहिभ्यश्चंदसीत्यजादेशः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+निदे (*nide*) is from *ṇid* (to blame). करः (*karaḥ*) is from *kṛ* in the aorist-injunctive sense (the "*luk*" form).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you, of such greatness
+- महे (*mahe*)—abundant
+- राधसे (*rādhase*)—for obtaining wealth
+- अंधसः (*aṃdhasaḥ*)—by drinking Soma (given by us)
+- तन्वा (*tanvā*)—with bodily strength
+- मंदस्व (*maṃdasva*)—be gladdened
+- हि (*hi*)—and
+- स्तोतारं (*stotāraṃ*)—me, who praise you
+- निदे (*nide*)—as a target of reproach
+- न करः (*na karaḥ*)—do not make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you of great majesty, for the sake of our obtaining wealth, be gladdened, with bodily strength, by drinking the Soma given by us. Do not make me, who praise you, a target of reproach.
+
+##### English translation (H. H. Wilson)
+Be exhilarated bodily (by drinking) of the libation which we offer for the sake of ample wealth : expose not your adorer to reproach.
+
+##### विशेषविषयगळु (Special Topics)
+
+सः (*saḥ*)—Here the word *tad* is used instead of *yuṣmad*. That is, the commentators give the word सः (*saḥ*) the meaning त्वं (*tvaṃ*), "you". For the verb मंदस्व (*maṃdasva*), "be gladdened", in this sentence is in the second person, so even though the subject word सः (*saḥ*) is in the third person, it is proper to give it the sense of the second person.
+राधसे (*rādhase*)—The word *rādhas* is read among the twenty-eight names of wealth beginning with *magham*, *rekṣas* (Ni. 3-9), and Yāska has given the etymology "*rādha* is a name for wealth; by it they succeed" (Ni. 4-4).
+अंधसः (*aṃdhasaḥ*)—The word *andhas* is read among the names of food (Ni. 3-9). As we said before, the word *andhas* is used here to denote Soma juice.
+स्तोतारं निदे न करः (*stotāraṃ nide na karaḥ*)—त्वं स्तोतारं मां निंदायै विषयभूतं मा कार्षिः । (*tvaṃ stotāraṃ māṃ niṃdāyai viṣayabhūtaṃ mā kārṣiḥ |*) O Indra, do not let me, who am praising you, become an object of blame. That is, let no one reproach me.
+
 ---
 
-**Progress note:** Done through printed p. 26. pilot by the batch API; rebuilt with sub-headings
+**Progress note:** Done through printed p. 32. pilot by the batch API; rebuilt with sub-headings
