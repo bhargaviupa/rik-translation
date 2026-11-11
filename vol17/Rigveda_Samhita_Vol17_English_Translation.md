@@ -2677,6 +2677,218 @@ When the greatness of Indra, the cause of the world's prosperity, is described, 
 > *iṃdro haryaṃtamarjunaṃ vajraṃ śukrairabhīvṛtaṃ |*  
 > *āpāvṛṇoddharibhiradribhiḥ sutamudgā haribhirājata ‖ 5 ‖*
 
+### Printed p. 70
+#### Ṛk 5
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । हर्यंतं । अर्जुनं । वज्रं । शुक्रैः । अभिवृतं ।  
+> अप । अवृणोत् । हरिभिः । अद्रिभिः । सुतं । उत् । गाः । हरिभिः । आजत ॥ ५ ॥
+
+> *iṃdraḥ | haryaṃtaṃ | arjunaṃ | vajraṃ | śukraiḥ | abhivṛtaṃ |*  
+> *apa | avṛṇot | haribhiḥ | adribhiḥ | sutaṃ | ut | gāḥ | haribhiḥ | ājata ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽयमिंद्रो हर्यंतं कमनीयमर्जुनं शुभ्रं । शुभ्रत्वमुपपादयति । शुक्रैः शुभैः क्षीरादिभिरभिवृतं व्याप्तं वज्रं वेगवंतं हरिभिः । हरंत्येभिः
+> सोमरसानिति हरयः। तैरद्रिभिग्रावभिः सुतमभिषुतं सोममपावृणोत् । आवरणरहितमकरोत् । तथा च मंत्रवर्णः । पूषा राजानमाघृणिरपगूळ्हं गुहा हितं
+> अविंदत् । ऋग्वे. १-२३-१४ । इति । तथा गाः पणिभिरपहृता गा हरिभिरश्वैरुपेतः स
+> इंद्र उदाजत । विलान्नि रगमयत् ॥ अर्जुनं । अर्ज षर्ज आर्जन इत्यस्मादर्जॆर्णिलुक्चेत्युनन् । नित्स्वरः । अभिवृतं । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । आजत । अज
+> गतिक्षेपणयोः । लजि व्यत्ययेनात्मनेपदं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+This Indra has uncovered the desirable (हर्यंतं (*haryaṃtaṃ*)) bright (अर्जुनं (*arjunaṃ*)) Soma. Sāyaṇa justifies the brightness: it is overlaid (अभिवृतं (*abhivṛtaṃ*)) with shining milk and the like; the vajra is swift. The हरिभिः (*haribhiḥ*) are the stones by which the Soma juices are carried off (हरंत्येभिः (*haraṃtyebhiḥ*)); with these pressing stones he made the pressed Soma free of covering. The mantra text is cited: "Pūṣan found the king, hidden, placed in the cave" (Ṛ. Saṃ. 1-23-14). Likewise Indra, accompanied by his tawny horses, drove out the cows carried off by the Paṇis, making them come out of the cave. The grammatical remainder is omitted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- हर्यंतं (*haryaṃtaṃ*)—attractive
+- अर्जुनं (*arjunaṃ*)—bright
+- शुक्रैः (*śukraiḥ*)—with pure milk and the like
+- अभिवृतं (*abhivṛtaṃ*)—overlaid
+- वज्रं (*vajraṃ*)—swift-flowing
+- हरिभिः (*haribhiḥ*)—pressing out the juice
+- अद्रिभिः (*adribhiḥ*)—with stones
+- सुतं (*sutaṃ*)—crushed and pressed, the Soma juice
+- अपावृणोत् (*apāvṛṇot*)—released from concealment and made to appear shining
+- गाः (*gāḥ*)—the cows (carried off by the Paṇis)
+- हरिभिः (*haribhiḥ*)—Indra, furnished with horses
+- उत् अजत (*ut ajata*)—made them come out of the cave
+
+##### भावार्थ (Bhāvārtha)
+
+Indra uncovered the Soma juice, which is attractive, bright, overlaid with pure milk and the like, swift-flowing, and crushed and pressed by the pressing stones, releasing it from concealment and making it appear shining. Indra, furnished with horses, made the cows carried off by the Paṇis come out of the cave.
+
+##### English translation (H. H. Wilson)
+Indra has uncovered the desirable white-coloured, fast-flowing Soma, effused by the expressing stones, and overlaid with the shining (milk and other liquids), in like manner as when, borne by his tawny steeds, he rescued the cattle
+### Printed p. 71
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra the words arjuna, vajra and the rest are all epithets of the Soma juice. Arjuna is taken to mean bright; it is formed from the root raṃj, "to shine". In the Nirukta the word arjuna is read among the names of dawn (Ni. 1-8) and among the names of form (Ni. 3-7). The Nirukta author quotes
+अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः (*ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ*) (Ṛ. Saṃ. 6-9-1)
+and explains kṛṣṇa as night and arjuna as the day of white colour. Also in भद्रा वस्त्राण्यर्जुना वसाना (*bhadrā vastrāṇyarjunā vasānā*) (Ṛ. Saṃ. 3-9-2) it indicates the bright colour of cloth. Thus the word serves not only where a merely physical matter is expressed but also where a spiritual principle is expressed. For example, the two names Kṛṣṇa and Arjuna may be said to reflect two principles of the Lord, the hidden and the manifest. All principles perceptible to the outer eye are indicated by the word arjuna; and Ṛgvedic passages describing the hidden principle, such as महत्तन्नाम गुह्यं (*mahattannāma guhyaṃ*) (Ṛ. Saṃ. 10-55-1) and एकस्यदृशे न रूपं (*ekasyadṛśe na rūpaṃ*) (1-164-44), suggest the meaning of the Bhagavadgītā phrase गुह्याद्गुह्यतरं (*guhyādguhyataraṃ*). So the uses of kṛṣṇa and arjuna in the senses of hidden (secret) and perceptible (bright) convey a spiritual principle.
+Vajra: explained as विवर्जयति प्राणान् (*vivarjayati prāṇān*), the thunderbolt having a destructive power. Its particulars were given earlier. In the present Ṛk it is used in the sense "swift-going".
+Adribhiḥ: आद्रिरादृणात्येतेन । अपि वा अत्तेः सात् (*ādrirādṛṇātyetena | api vā atteḥ sāt*). The word adri is formed either from the root dṛ meaning "to split" or from the root ad meaning "to eat". It is used in many places as a synonym both for the stones that press Soma and for Indra's vajra. Its particulars are given in the Special Topics of Ṛ. Saṃ. 8-149-1, in the 11th volume of the Ṛgveda Saṃhitā.
+### Printed p. 72
+## Sūkta 45 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ मंद्रॆरिति पंचर्चं सप्तमं सूक्तं वैश्वामित्रं बार्हतमैंद्रं ; आ
+> मंद्रॆरित्यनुक्रमणिका । पूर्वसूक्ते बार्हतं त्वित्युक्तत्वादस्यापि बार्हतत्वं ॥
+> विशेषविनियोगस्तु यत्र श्रुत्या न सूत्रितः । स्मार्तं तत्र विजानीयादृग्विधानादि
+> शास्त्रतः ॥
+> अनुवादवु—आ मंद्रॆः ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि एळनॆय सूक्तवु.
+> इदरल्लि ऐदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ विश्वामित्रनु ऋषियु, इंद्रनु देवतॆयु, बृहती
+> छंदस्सु. अनुक्रमणिकॆयल्लि आ मंद्रॆः ऎंदु मॊदलागि हेळिरुवुदु. हिंदिन सूक्तदल्लि
+> हेळिरुवंतॆ बृहतीछंदस्सिन शस्त्रमंत्रगळिगागि ई सूक्तद विनियोगविरुवुदु. याव सूक्त
+> अथवा मंत्रगळिगॆ शौतसूत्रादिगळल्लि विनियोगवु हेळल्पट्टिरुवुदिल्लवो अवुगळिगॆ स्मार्तप्रयोग
+> गदल्लियू, शौनकोक्तवाद ऋग्विधानवॆंब ग्रंथदल्लि हेळिरुवंतॆयू, इतर शास्त्रगळल्लि हेळिरु
+> वंतॆयू विनियोगविरुवुदॆंदु भाविसबेकु.
+> ॥ ओं ॥
+> सूक्त—४५
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—४५ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—९ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> । ऋषिः— विश्वामित्र ।
+> । देवता— इंद्र ।
+> । छंदः— बृहती ।
+
+##### Gist of the bhāṣya
+
+The sūkta आ मंद्रैः (*ā maṃdraiḥ*) has five Ṛks and is the seventh sūkta; seer Viśvāmitra, deity Indra; the Anukramaṇikā begins "ā mandraiḥ". Since the previous sūkta was said to be Bārhata, this one too is Bārhata. Where no specific use is given by Śruti-sūtra, one should know it from the Smārta rule, the Ṛgvidhāna and other śāstras.
+
+##### भावार्थ (Bhāvārtha)
+
+This sūkta, आ मंद्रैः (*ā maṃdraiḥ*), is the seventh in the fourth anuvāka. It has five Ṛks. Viśvāmitra is the seer, Indra the deity, Bṛhatī the metre. Its use is for the śastra mantras of Bṛhatī metre, as stated for the previous sūkta. For any sūkta or mantras whose use is not stated in the Śrauta-sūtras and the like, the use is to be understood as in the Smārta practice, in the Ṛgvidhāna attributed to Śaunaka, and in other śāstras.
+
+##### Particulars
+
+Maṇḍala 3; Anuvāka 4; Sūkta 45; Aṣṭaka 3; Adhyāya 3; Varga 9. Number of Ṛks in the sūkta: 5. Seer: Viśvāmitra. Deity: Indra. Metre: Bṛhatī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मं॒द्रैरिं॑द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः ।  
+> मा त्वा॒ के चि॒न्नि य॑म॒न्विं न पा॒शिनोऽति॒ धन्वे॑व॒ ता इ॑हि ॥ १ ॥
+
+> *ā maṃdrairiṃdra haribhiryāhi mayūraromabhiḥ |*  
+> *mā tvā ke cinni yamanviṃ na pāśino 'ti dhanveva tā ihi ‖ 1 ‖*
+
+### Printed p. 73
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मंद्रैः । इंद्र । हरिभिः । याहि । मयूररोमभिः ।  
+> मा । त्वा । के । चित् । नि । यमन् । विं । न । पाशिनः । अति । धन्वइव । तान् । इहि॥१॥
+
+> *ā | maṃdraiḥ | iṃdra | haribhiḥ | yāhi | mayūraromabhiḥ |*  
+> *mā | tvā | ke | cit | ni | yaman | viṃ | na | pāśinaḥ | ati | dhanvaiva | tān | ihi‖1‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मंद्रैर्मादयितृभिर्मयूररोमभिर्मयूररोमसदृशरोमयुक्तैर्हरिभिरश्चैरुपेतस्त्वमा याहि । यज्ञं प्रत्यागच्छ । केचिदपि जनास्त्वा त्वां
+> मा नि यमन् । मा नियच्छंतु । गमनप्रतिबंधं मा कुर्वंत्वित्यभिप्रायः । प्रतिबंधे दृष्टांतः । विं न । यथा पाशिनः पाशहस्ता व्याधा विं गच्छंतं दक्षिणं नियच्छंति तद्वन्मा नियच्छंतु । किंच धन्वेव । यथा पांथा धन्व मरुदेशं शीघ्रमतिगच्छंति । तद्वद्दमनप्रतिबंधकानतीत्य शीघ्रमिहि । आगच्छ ॥ मंद्रॆः । मदि स्तुत्यादिश्वित्यस्य स्थायितंचीत्यादिना रक्षृत्ययः । इदित्तान्नुम् । प्रत्ययस्वरः । मयूररोमभिः । मयूररोमवद्रोमाणि येषामिति सप्तम्युपमानपूर्वपदस्य बहुव्रीहिरुत्तरपदलोपश्च । पा. २-२-२४-१२ । इति समास उत्तरपदलोपश्च । मयूरशब्दो मीनातेरूरन् । उ. १-६८ । इत्यूरन्प्रत्ययांतः । मीनाति सर्पानिति मयूरो बर्हि । नित्वादाद्युदात्तत्वे प्राप्ते मादीनां । फि. ३-४ । इति सूत्रेण मध्योदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । यमन् यम उपरम इत्यस्य लेट्यडागमे रूपं । इहि । इण् गतावित्यस्य लोटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, come to the sacrifice with your delighting horses, whose hair is like peacock hair. Let no persons restrain you." The example of restraint: as fowlers with snares in hand restrain a bird flying straight, let them not restrain you. Further, धन्वेव (*dhanveva*): as travellers quickly cross a desert, so pass beyond those who would hold you back and come quickly. Mayūra is derived from मीनाति सर्पानिति (*mīnāti sarpāniti*) ("he injures snakes"), the peacock. The grammatical remainder is omitted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मंद्रैः (*maṃdraiḥ*)—radiant
+- मयूररोमभिः (*mayūraromabhiḥ*)—having hair attractive like peacock feathers
+- हरिभिः (*haribhiḥ*)—you, joined with the horses
+- आ याहि (*ā yāhi*)—come to the sacrificial place
+- पाशिनः (*pāśinaḥ*)—fowlers holding a net
+- विं न (*viṃ na*)—as they stop a bird
+- के चित् (*ke cit*)—let no one (on the way)
+- त्वा (*tvā*)—you
+- मा नि यमन् (*mā ni yaman*)—stop
+- धन्वेव (*dhanveva*)—as travellers walk quickly to cross the obstacle of a desert
+- तान् (*tān*)—(you also) the obstacles (on the way)
+- अति (*ati*)—having crossed
+- इहि (*ihi*)—come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come to our sacrificial place with horses that are radiant and have hair attractive like peacock feathers. As fowlers holding a net stop a bird
+### Printed p. 74
+so let no one on the way stop you. As travellers walk quickly and cross a desert, so do you also cross the obstacles that may arise on the way and come quickly.
+
+##### English translation (H. H. Wilson)
+Come, Indra, with your exulting peacock-haired steeds; let no persons detain you as (fowlers) throwing snares catch a bird : pass them by (quickly) as (travellers cross) a desert.
+
+##### विशेषविषयगळु (Special Topics)
+
+In describing Indra's unobstructed power, his swiftness is compared to the unobstructed flight of a bird. There is another comparison, धन्वेव (*dhanveva*). The word dhanva is read in the Nirukta among the names of the atmosphere (Ni. 1-2) and among the names of motion (Ni. 4-2). Here it means motion; Indra's speed is compared to the swiftness of travellers in a desert.
+In places such as धन्वचरो न वंसगस्तृषाणश्चकमानः (*dhanvacaro na vaṃsagastṛṣāṇaścakamānaḥ*) (Ṛ. Saṃ. 5-36-1), dhanvacara is explained as a man who moves swiftly in a desert. Sāyaṇa sometimes explains it as a man who moves carrying a bow. Here the speed of motion and unobstructed power are indicated.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒त्र॒खा॒दो व॑लंरु॒जः पु॒रां द॒र्मो अ॒पाम॒जः ।  
+> स्थात्ता॒ रथ॑स्य॒ हर्यो॑रभिस्व॒र इंद्रो॑ दृ॒ळ्हा चि॑दारु॒जः ॥ २ ॥
+
+> *vṛtrakhādo valaṃrujaḥ purāṃ darmo apāmajaḥ |*  
+> *sthāttā rathasya haryorabhisvara iṃdro dṛḷhā cidārujaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृत्रखादः । वलंरुज: । पुरां । दर्मः । अपां । अज: ।  
+> स्थाता । रथस्य । हर्योः । अभिस्वरे । इंद्रः । दृळ्हा । चित् । आरुज: ॥ २ ॥
+
+> *vṛtrakhādaḥ | valaṃruja: | purāṃ | darmaḥ | apāṃ | aja: |*  
+> *sthātā | rathasya | haryoḥ | abhisvare | iṃdraḥ | dṛḷhā | cit | āruja: ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽयमिंद्रो वृत्रखादः । वृत्रं खादति हिनस्तीति वृत्रखादः । वलंरुज: ।
+> वृणोश्याकाशमिति वलो मेघः । तस्य भंजकः । तथा च मंत्रवर्णः । बिभेद वलं ।
+
+##### Gist of the bhāṣya
+
+This Indra is vṛtrakhāda: he devours (injures) Vṛtra. Valaṃruja: vala is the cloud, since it covers the sky (the verb is vṛṇoti); he is its breaker. So the mantra text: "he split Vala"
+### Printed p. 75
+
+> ऋग्वे ३-३४-१० । इति । ततोऽपामजो मेघभेदनद्वारापां प्रेरकः पुरां शत्रुसंबंधिनां पुराणां दर्मो दारकः । तथा हर्योरश्वयोरभिस्वरेऽस्मदाभिमुख्येन
+> प्रेरणे निमित्तभूते सति रथस्य स्थाता रथमधिष्ठाता । तथा दृळ्हा चित् दृढानामतिबलवतां शत्रूणामस्यारुजः समंताद्वंजको भवति ॥ वृत्रखादः । खादृ भक्षण इत्यस्मात्मर्मण्यण् । कृदुत्तरपदस्वरः । वलंरुजः । रुजो भंगे। कर्मण्युपपदे मूलविभुजादित्वात्कृत्ययः । तत्पुरुषे कृति बहुलमिति द्वितीयाया आलुक् । थाधादिस्वरः।
+> आरुजः । रुजो भंग इत्यस्मादिगुपधलक्षणः कः । समासे थाधादिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+(Ṛ. Saṃ. 3-34-10). Hence he is apāmaja, the impeller of the waters by splitting the cloud; darma, the tearer of the cities of the enemy. When his two horses are urged towards us (abhisvara), he is the stander on the chariot, its mounter. And he is the breaker on all sides of firm, very mighty enemies. The grammatical remainder is omitted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रखादः (*vṛtrakhādaḥ*)—slayer of Vṛtra
+- वलंरुजः (*valaṃrujaḥ*)—splitter of the cloud
+- अपामजः (*apāmajaḥ*)—sender down of water in the form of rain
+- पुरां (*purāṃ*)—of enemy cities
+- दर्मः (*darmaḥ*)—destroyer
+- इंद्रः (*iṃdraḥ*)—Indra
+- हर्योः (*haryoḥ*)—his horses
+- अभिस्वरे (*abhisvare*)—to urge to run towards us
+- रथस्य (*rathasya*)—in his chariot
+- स्थाता (*sthātā*)—sitting
+- दृळ्हा चित् (*dṛḷhā cit*)—even the exceedingly mighty enemies
+- आरुजः (*ārujaḥ*)—has the power to destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the slayer of Vṛtra, splitter of the cloud, sender down of water in the form of rain, destroyer of enemy cities, sits in his chariot to urge his horses to run towards us, and has the power to destroy even the exceedingly mighty enemies.
+
+##### English translation (H. H. Wilson)
+The devourer of Vritra, the fracturer of the cloud, the sender of the waters, the demolisher of cities. Indra, the destroyer of powerful enemies, has mounted his chariot to urge his horses to our presence.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matters of Vala and Vṛtra were explained in detail earlier. Some hold that Vala and Vṛtra were brothers; they may also be understood as persons reflecting darkness. In the present Ṛk too, from वृणोतीति वलः (*vṛṇotīti valaḥ*) ("it covers the atmosphere"), the word vala is a synonym for cloud.
+Abhisvare: the word abhisvara is used in different senses. Its particular meaning was given earlier in the Special Topics of Ṛ. Saṃ. 1-164-21. "अभिस्वर्तारो अर्कं न (*abhisvartāro arkaṃ na*)
+
 ---
 
-**Progress note:** Done through printed p. 69. pp. 64-69 (batch API, retry 1)
+**Progress note:** Done through printed p. 75. pp. 70-75 (batch API, retry 1)
