@@ -24995,6 +24995,296 @@ In the example given before, in the sentence वैश्वानरो यत�
 
 If Vaiselvānara were Āditya, then in the hymns or Ṛks relating to Āditya or Savitṛ, or in the hymns in which Sūrya, Pūṣan, Viṣṇu or the Viśve-devas are the subjects, the qualities and distinctions pertaining to Āditya would be attributed to Vaiśvānara Agni, that is (as is said of the sun) "you rise, you set, you travel in the atmosphere", and so on in the sense …
 
+### Printed p. 794
+
+##### भावार्थ (Bhāvārtha)
+
+…they ought to have been praised by signifying sentences and the like. But it is not so. Only in the hymns that concern Agni are the sentences describing Agni's qualities and functions, such as carrying the oblation, cooking and burning, said in a way that applies also to Vaiśvānara-Agni. That is, Agni's own qualities are applied to Vaiśvānara-Agni and described. Therefore Vaiśvānara-Agni is the terrestrial fire and not Āditya.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथो एतद्वर्षकर्मणा ह्येनं स्तोतीत्यस्मिन्नप्येतदुपपद्यते ।
+> समानमेतदुदकमुच्चैत्यव चाहभिः ।
+> भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ॥
+
+> *yatho etadvarṣakarmaṇā hyenaṃ stotītyasminnapyetadupapadyate |*
+> *samānametadudakamuccaityava cāhabhiḥ |*
+> *bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ ‖*
+
+##### Gist of the bhāṣya
+
+Yāska says that this, too, holds in the case of the one who is praised through the rain-action (the rain-work). The water is common to both: it goes up and, by the days, comes down again (े । समानमेतदुदकमुच्चैत्यव चाहभिः । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ॥ (*e | samānametadudakamuccaityava cāhabhiḥ | bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ ‖*)). He then cites the Ṛk: the Parjanyas quicken the earth, the fires quicken heaven. (Ṛ. Saṃ. 1-164-51)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इति सा निगदव्याख्याता ॥
+
+> *iti sā nigadavyākhyātā ‖*
+
+##### Gist of the bhāṣya
+
+Yāska says that this Ṛk is "nigada-explained" **NOTE**. (Ni. 7-23)
+
+##### भावार्थ (Bhāvārtha)
+
+There are mantras that praise this Vaiśvānara-Agni as the one who impels the rain-action. Since Āditya is the impeller of the rain-action, Vaiśvānara-Agni would also possess Āditya's qualities; so can one not say that Vaiśvānara-Agni is Āditya himself? No, it is not so. As the days come again and again after the night has passed, so the waters come again and again from the earth up to the atmosphere and from the atmosphere to the earth. So the waters and the days have a common property. Therefore the deity Parjanya satisfies the earth with rain-water, and the fires satisfy heaven. How Agni satisfies heaven: the oblations and the like that the sacrificers offer into Agni in the sacrifice take, in subtle form, that is in the form of smoke, a shape fit for the gods, and bring satisfaction to the gods; the gods, being pleased, bring satisfaction to the dwellers of the earth through rain. Moreover, according to the sentence अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate*), the oblation offered into Agni gladdens Āditya who is in heaven; so Agni satisfies heaven or Āditya. Rain became the means of mutual help from the earth to heaven and from heaven to the earth. For these reasons Agni, or Vaiśvānara-Agni, is praised as the cause of the rain-action; it does not follow clearly from this that Vaiśvānara is Āditya himself. Since the meaning of this Ṛk is clear, no further explanation is needed.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतंति ।
+> त आववृत्रन्तदनादृतस्यादिद्भृतेन पृथिवी व्युद्यते ॥
+
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpataṃti |*
+> *ta āvavṛtrantadanādṛtasyādidbhṛtena pṛthivī vyudyate ‖*
+
+##### Gist of the bhāṣya
+
+Sāyaṇa cites the Ṛk without a gloss of his own. It says: the bay, fair-winged ones, clothing themselves in the waters, fly up to heaven towards the dark course; they turned back from the seat of ṛta, and then the earth is wetted with ghṛta (water). (Ṛ. Saṃ. 1-164-47)
+
+### Printed p. 795
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णं निरयणं रात्रिरादित्यस्य हरयः सुपर्णा हरणा आदित्यरश्मयस्ते यदामुतोऽर्वांचः पर्यावर्तंते सहस्थानादुदकस्यादित्यादथ धृतेनोदकेन पृथिवी व्युद्यते धृतमित्युदकनाम जिघर्तॆः सिंचतिकर्मणः ॥
+
+> *kṛṣṇaṃ nirayaṇaṃ rātrirādityasya harayaḥ suparṇā haraṇā ādityaraśmayaste yadāmuto 'rvāṃcaḥ paryāvartaṃte sahasthānādudakasyādityādatha dhṛtenodakena pṛthivī vyudyate dhṛtamityudakanāma jighartèḥ siṃcatikarmaṇaḥ ‖*
+
+##### Gist of the bhāṣya
+
+Yāska explains the verse. The dark course (niyāna, niraya) is the night of Āditya. The bay, fair-winged ones (hari, suparṇa) are the bearers, the rays of Āditya. When they turn back from there, from the common seat of the water, Āditya, then the earth is wetted with ghṛta, i.e. water. *dhṛtam* is a name of water, from the root जिघर्ति (*jigharti*), which has the sense of sprinkling. (Ni. 7-24)
+
+##### भावार्थ (Bhāvārtha)
+
+The rays, which carry water and have an excellent motion, cover with water the dark cloud (or the night) of fixed course; that is, joined with water they spread upward towards heaven. Again they return from Āditya, the seat of the water. At once the earth is wetted (soaked) with water. Here niraya·ṇa may be said to mean a course of movement; the ordinary meaning of this word is a path of exit. Āditya has two courses of movement, one dark in colour and one bright. The dark course may be understood as the night or as the southern course (dakṣiṇāyana); or the movement of the southern course may itself be called Āditya's night-movement. Durgācārya wrote the following explanation of the above Nirukta sentence—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नियानं निरयणं निर्गतिः (निर्याति) निर्गच्छंत्येतदिति नियानं वर्त्म पंथाः।
+> तच्च पुनरेतत् । रात्रि आदित्यस्य । द्वे ह्यस्यायने शुक्लं चोत्तरं कृष्णं च
+> दक्षिणं । सा हि दैवीरात्रिरभिप्रेता । ततो ब्रवीति रात्रिरादित्यस्य ज्योतिषः ।
+> स एष भगवानादित्यो यदा जगदनुग्रहाय गर्भमुदकमात्मन्याधित्सुरुत्त
+> रायणं प्रतिपद्यते तदैते हरयः रसहरणाः सुपर्णास्तस्य रश्मयः सर्वस्मादस्माल्लोकादपोवसानाः आत्मन्याच्छादयंतः आददानाः दिवं द्योतनवंतमेतमादित्यं प्रत्युत्पतंति ।
+
+> *niyānaṃ nirayaṇaṃ nirgatiḥ (niryāti) nirgacchaṃtyetaditi niyānaṃ vartma paṃthāḥ|*
+> *tacca punaretat | rātri ādityasya | dve hyasyāyane śuklaṃ cottaraṃ kṛṣṇaṃ ca*
+> *dakṣiṇaṃ | sā hi daivīrātrirabhipretā | tato bravīti rātrirādityasya jyotiṣaḥ |*
+> *sa eṣa bhagavānādityo yadā jagadanugrahāya garbhamudakamātmanyādhitsurutta*
+> *rāyaṇaṃ pratipadyate tadaite harayaḥ rasaharaṇāḥ suparṇāstasya raśmayaḥ sarvasmādasmāllokādapovasānāḥ ātmanyācchādayaṃtaḥ ādadānāḥ divaṃ dyotanavaṃtametamādityaṃ pratyutpataṃti |*
+
+##### Gist of the bhāṣya
+
+Durga says: niyāna is going out; it is the way, the path. That is the night of Āditya. For he has two courses, the bright northern and the dark southern; the southern is the intended divine night; therefore the text says "the night of Āditya's light". When the venerable Āditya, wishing for the good of the world to place the embryo, water, in himself, enters the northern course, then these bay ones, the carriers of sap, the fair-winged, his rays, covering themselves with the waters from this whole world, taking them, fly up towards the shining Āditya. (Nirukta-vyākhyā 7-24)
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya's course is of two kinds: one belongs to the northern course and the other to the southern. One is called bright and the other dark. Here "night" is a synonym for the dark course. कृष्णं नियानं नियमनं रात्रिः । देवानां हि रात्रिर्दक्षिणायनं । (*kṛṣṇaṃ niyānaṃ niyamanaṃ rātriḥ | devānāṃ hi rātrirdakṣiṇāyanaṃ |*) "In that" means in that rainy season. The night-time of the gods is called the southern course. When Āditya follows the course of the northern course, all his rays spread through the world, gather water from every region, and join Āditya again at the right time of this night. This is the rainy season; in this season the rain pours down in plenty. धृत (*dhṛta*) is a name for water; the word ghṛta is formed from the root जिघर्ति (*jigharti*), "to sprinkle".
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथापि ब्राह्मणं भवत्यग्निर्वा इतो वृष्टिं समीरयति धामच्छदिति खलु
+> भूत्वा वर्षति मरुतः सृष्टां वृष्टिं नयंति ।
+> यदा खलु वासानादित्योग्निं रश्मिभिः पर्यावर्ततेऽथ वर्षतीति ।
+
+> *athāpi brāhmaṇaṃ bhavatyagnirvā ito vṛṣṭiṃ samīrayati dhāmacchaditi khalu*
+> *bhūtvā varṣati marutaḥ sṛṣṭāṃ vṛṣṭiṃ nayaṃti |*
+> *yadā khalu vāsānādityogniṃ raśmibhiḥ paryāvartate 'tha varṣatīti |*
+
+##### Gist of the bhāṣya
+
+There is also a Brāhmaṇa: Agni sends the rain from here; having become "dhāmacchad" he rains; the Maruts lead the released rain. When Āditya, clothing himself, turns Agni about with his rays, then it rains. **NOTE**
+
+### Printed p. 796
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथो एतद्रोहात् प्रत्यवरोहश्तिकीर्षित इत्याम्नायवचनादेतद्भवति ।
+> यथो एतद्वैश्वानरीयो द्वादशकपालो भवतीत्यनिर्वचनं कपालानि भवंत्यस्ति हि सौर्य एककपालः पंचकपालश्च ।
+> यथो एतद्ब्राह्मणं भवतीति-बहुभक्तिवादीनि हि ब्राह्मणानि भवंति-पृथिवी
+> वैश्वानरः संवत्सरो वैश्वानरो ब्राह्मणो वैश्वानर इति ॥
+
+> *yatho etadrohāt pratyavarohaśtikīrṣita ityāmnāyavacanādetadbhavati |*
+> *yatho etadvaiśvānarīyo dvādaśakapālo bhavatītyanirvacanaṃ kapālāni bhavaṃtyasti hi saurya ekakapālaḥ paṃcakapālaśca |*
+> *yatho etadbrāhmaṇaṃ bhavatīti-bahubhaktivādīni hi brāhmaṇāni bhavaṃti-pṛthivī*
+> *vaiśvānaraḥ saṃvatsaro vaiśvānaro brāhmaṇo vaiśvānara iti ‖*
+
+##### Gist of the bhāṣya
+
+Sāyaṇa (Yāska) adds that this also follows from the Āmnāya statement about ascent and descent **NOTE**. The statement that the Vaiśvānarīya has twelve potsherds is no explanation; potsherds belong to the offering, and there is also a Saurya offering with one potsherd and one with five. And as to the Brāhmaṇa statement: Brāhmaṇas speak with many figurative ascriptions; "the earth is Vaiśvānara, the year is Vaiśvānara, the Brāhmaṇa is Vaiśvānara". (Ni. 7-24)
+
+##### भावार्थ (Bhāvārtha)
+
+Besides this, many Brāhmaṇa sentences also support this meaning. For example, there is the Brāhmaṇa sentence "Agni sends the rain from this world": अग्नेवै धूमो जायते, धूमादभ्रं, अभ्रात् वृष्टिरिति ह विज्ञायते (*agnevai dhūmo jāyate, dhūmādabhraṃ, abhrāt vṛṣṭiriti ha vijñāyate*)—smoke arises from Agni; from the smoke the cloud and from the cloud the rain; so it is to be understood. Or, when this Āditya makes Agni turn back with his rays, rain comes. Or, by the order of ascent and descent, that is, the oblation offered into Agni reaches, as subtle smoke, the gods in heaven, they are satisfied, and from that the rain-action comes about: for saying this there is no other support than the Brāhmaṇa sentence. The statement that the offering for Vaiśvānara-Agni is of twelve potsherds and that for Sūrya of one potsherd or five is not connected with this matter; it belongs only to the acts that are parts of the sacrifice. In some other Brāhmaṇa sentences, पृथिवी वैश्वानरः (*pṛthivī vaiśvānaraḥ*) and so on, it is said that the earth is Vaiśvānara, the year is Vaiśvānara, the Brāhmaṇa is Vaiśvānara; that is right. But in this context it does not mean that the deities such as the earth are Vaiśvānara-Agni; these are praising sentences, spoken to describe Vaiśvānara's qualities, saying that Vaiśvānara has the qualities of deities such as the earth.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथो एतन्निवित्सौर्यवैश्वानरी भवतीत्यस्यैव सा भवति—यो विड्भो
+> मानुषीभ्यो दीदेत्-इत्येष हि विड्भो मानुषीभ्यो दीप्यते ।
+> यथो एतच्छांदोमिकं सूक्तं सौर्यवैश्वानरं भवतीत्यस्यैवैतद्भवति
+> जमदग्निभिराहुत इति। जमदग्नयः प्रजमिताग्नयो वा प्रज्वलिताग्नयो ना
+> तैरभिहुतो भवति ॥
+
+> *yatho etannivitsauryavaiśvānarī bhavatītyasyaiva sā bhavati—yo viḍbho*
+> *mānuṣībhyo dīdet-ityeṣa hi viḍbho mānuṣībhyo dīpyate |*
+> *yatho etacchāṃdomikaṃ sūktaṃ sauryavaiśvānaraṃ bhavatītyasyaivaitadbhavati*
+> *jamadagnibhirāhuta iti| jamadagnayaḥ prajamitāgnayo vā prajvalitāgnayo nā*
+> *tairabhihuto bhavati ‖*
+
+##### Gist of the bhāṣya
+
+The Saurya-Vaiśvānarī nivid belongs to him (Agni): "he who shines for the human clans"; for he shines for the human clans. And the Chandomika hymn that is Saurya-Vaiśvānara, "invoked by the Jamadagnis", also belongs to him. The Jamadagnis are kindled fires, or blazing fires; by them he is invoked **NOTE**. (Ni. 7-24)
+
+##### भावार्थ (Bhāvārtha)
+
+There is a nivid-hymn that praises Sūrya and Vaiśvānara. This hymn is recited in the Āgnimāruta-śastra.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्वैश्वानरः सोमस्य मत्सत् । विश्वेषां देवानां समित् । अजस्रं दैवं
+> ज्योतिः । यो विड्भ्यो मानुषीभ्यो दीदेत् । द्युषु पूर्वासु दिद्युतानः । अजर उषसामनीके । आ यो द्यां भात्या पृथिवीं । और्वमुत-
+
+> *agnirvaiśvānaraḥ somasya matsat | viśveṣāṃ devānāṃ samit | ajasraṃ daivaṃ*
+> *jyotiḥ | yo viḍbhyo mānuṣībhyo dīdet | dyuṣu pūrvāsu didyutānaḥ | ajara uṣasāmanīke | ā yo dyāṃ bhātyā pṛthivīṃ | aurvamuta-*
+
+##### Gist of the bhāṣya
+
+The text of the hymn begins: Agni Vaiśvānara, may he rejoice in the Soma; the sāmidhenī of all the gods; unceasing divine light; he who shines for the human clans; shining in the former days; ageless at the front of the dawns; who shines upon heaven and earth… (continued on the next page).
+
+### Printed p. 797
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रिक्षं । ज्योतिषा यज्ञाय शर्म संयत् । अग्निर्वैश्वानर इह श्रवदिह
+> सोमस्य मत्सत् । प्रेमां देवो देवहूतिमवतु देव्या धिया । प्रेदं
+> ब्रह्म प्रेदं क्षत्रं । प्रेमं सुन्वंतं यजमानमवतु । चित्रश्चित्ताभिरूतिभिः।
+> श्रवद्ब्रह्मण्यवसागमत् ॥
+
+> *rikṣaṃ | jyotiṣā yajñāya śarma saṃyat | agnirvaiśvānara iha śravadiha*
+> *somasya matsat | premāṃ devo devahūtimavatu devyā dhiyā | predaṃ*
+> *brahma predaṃ kṣatraṃ | premaṃ sunvaṃtaṃ yajamānamavatu | citraścittābhirūtibhiḥ|*
+> *śravadbrahmaṇyavasāgamat ‖*
+
+##### Gist of the bhāṣya
+
+The hymn continues: the wide atmosphere; with his light he gives shelter to the sacrifice; may Agni Vaiśvānara hear here and rejoice in the Soma; may the god favour this invocation of the gods with his divine thought; this prayer, this lordly power; may he favour the sacrificer who presses the Soma; wondrous with wondrous helps, may he come hearing the prayer with his aid.
+
+##### भावार्थ (Bhāvārtha)
+
+This hymn is recited in the Āgnimāruta-śastra addressed to Vaiśvānara-Agni. In the middle of this mantra there is the sentence यो विड्भो मानुषीभ्यो दीदेत् (*yo viḍbho mānuṣībhyo dīdet*). Some may say: the one who shines for the benefit of human subjects is Sūrya, so here Sūrya himself is addressed by the word Vaiśvānara, and there is no difference between Sūrya and Vaiśvānara-Agni. Not so. This mantra is recited addressed to Agni. The meaning that the terrestrial fire on the sacrificial altar shines for the benefit of the sacrificers and other people also fits this mantra. Therefore it should be said that Vaiśvānara-Agni is not Sūrya but the terrestrial fire. Besides, in the Chandomika sacrifice called Daśarātra the Saurya-Vaiśvānara hymn जमदग्निभिराहुतः (*jamadagnibhirāhutaḥ*) is recited. This hymn also does not belong to Sūrya; it applies to Agni. For the word jamadagni means a fire well kindled and blazing. In sacrifices and the like, when offering into Agni, it is the custom to make Agni blaze with fuel, ghee and other substances and to make the offerings into that well-burning Agni itself. So the meaning is that this points to the terrestrial fire and not to Āditya (or Sūrya).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथो एतद्धविष्वांतीयं सूक्तं सौर्यवैश्वानरं भवतीत्यस्यैव तद्भवति ।
+> हविष्वांतमजरं स्वर्विदि दिविस्सृश्याहुतं जुष्टमग्नौ ।
+> तस्य भर्मणे भुवनाय देवा धर्मणे कं स्वधया पप्रथंत ॥
+
+> *yatho etaddhaviṣvāṃtīyaṃ sūktaṃ sauryavaiśvānaraṃ bhavatītyasyaiva tadbhavati |*
+> *haviṣvāṃtamajaraṃ svarvidi divissṛśyāhutaṃ juṣṭamagnau |*
+> *tasya bharmaṇe bhuvanāya devā dharmaṇe kaṃ svadhayā paprathaṃta ‖*
+
+##### Gist of the bhāṣya
+
+The hymn beginning हविष्वांतमजरं (*haviṣvāṃtamajaraṃ*) (Haviṣvāntīya), the Saurya-Vaiśvānara hymn, also belongs to him (Agni). The verse says: the oblation, ageless, knowing heaven (svarvid), touching heaven, offered, welcome in Agni; for the bearing, becoming and holding of the world the gods, with svadhā, spread it out. (Ṛ. Saṃ. 10-88-1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हविर्यत्सानीयमजरं सूर्यविदि दिविस्पृश्यभिहुतं जुष्टमग्नौ तस्य
+> भरणाय च भावनाय च धारणाय च चैतेभ्यः सर्वेभ्यः कर्मभ
+> इममग्निमन्नेनापप्रथंतेति.
+
+> *haviryatsānīyamajaraṃ sūryavidi divispṛśyabhihutaṃ juṣṭamagnau tasya*
+> *bharaṇāya ca bhāvanāya ca dhāraṇāya ca caitebhyaḥ sarvebhyaḥ karmabha*
+> *imamagnimannenāpaprathaṃteti.*
+
+##### Gist of the bhāṣya
+
+Yāska explains: the oblation that is ageless, सूर्यविदि (*sūryavidi*), touching heaven, offered into Agni and welcomed; for the bearing, becoming and holding, for all these acts, the gods increase this Agni with food. (Ni. 7-25)
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover, the hymn हविष्वांतमजरं (*haviṣvāṃtamajaraṃ*) has the Saurya-Vaiśvānara-Agni as deity. If it is said that the Vaiśvānara praised in this hymn is Āditya, that is not right. The Vaiśvānara-Agni spoken of there is the terrestrial fire. This becomes clear if the meaning is examined: this oblation, ageless, that is imperishable, and pleasing, is offered, before it is drunk, into this Agni who touches heaven with his light and knows the sun well.
+
+### Printed p. 798
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, for the bearing, holding, becoming and other acts of that oblation, join food with it and make it grow; this is the main sense of the Ṛk. Before drinking the oblation spoken of in this hymn or Ṛk, they offer it into Agni. This oblation is imperishable and pleasant to the mind (for drinking). They offer it into the sacrificial fire that touches the sky (heaven) with its flames, that is, that is well kindled and is aware of the sun. In order that this oblation may have the powers of holding, nourishing, bearing, becoming and so on, the gods add food to it and make it increase. Since the offering of the oblation is spoken of here, the offering belongs to Agni, that is to the terrestrial fire, not to Sūrya. They offer into Agni and not into Sūrya. Therefore the deity Vaiśvānara set forth in this hymn is not Āditya or Sūrya; it must be said that it is the terrestrial fire.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथाप्याह—
+> अपामुपस्थे महिषा अगृभ्यत विशो राजानमुप तस्थु र्ऋग्मीयं ।
+> आ दूतो अग्निरभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥
+
+> *athāpyāha—*
+> *apāmupasthe mahiṣā agṛbhyata viśo rājānamupa tasthu rṛgmīyaṃ |*
+> *ā dūto agnirabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*
+
+##### Gist of the bhāṣya
+
+He says further: in the lap of the waters the great ones were seized; the clans waited upon the king, the worthy of praise; the messenger Agni brought Vaiśvānara from afar, from Vivasvat; Mātariśvan. (Ṛ. Saṃ. 6-8-4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपामुपस्थ उपस्थाने महत्यंतरिक्षलोक आसीना महांत इति वागृह्णत
+> माध्यमिका देवगणा विश इव राजानमुपतस्थु र्यग्नियमृग्यंतमिति
+> वार्चनीयमिति ना पूजनीयमिति वाहरद्यं दूतो देवानां विवस्वत
+> आदित्याद्वि वस्वाद्विवासनवान् प्रेरितवतः परागताद्वापि वास्याग्नेर्वैश्वानरस्य
+> मातरिश्वानमाहर्तारमाड ॥
+> मातरिश्वा वायुर्मा तर्यंतरिक्षे श्वसिति मातर्याश्वनितीति वा ॥
+
+> *apāmupastha upasthāne mahatyaṃtarikṣaloka āsīnā mahāṃta iti vāgṛhṇata*
+> *mādhyamikā devagaṇā viśa iva rājānamupatasthu ryagniyamṛgyaṃtamiti*
+> *vārcanīyamiti nā pūjanīyamiti vāharadyaṃ dūto devānāṃ vivasvata*
+> *ādityādvi vasvādvivāsanavān preritavataḥ parāgatādvāpi vāsyāgnervaiśvānarasya*
+> *mātariśvānamāhartāramāḍa ‖*
+> *mātariśvā vāyurmā taryaṃtarikṣe śvasiti mātaryāśvanitīti vā ‖*
+
+##### Gist of the bhāṣya
+
+Yāska explains: "in the lap of the waters", in the great atmosphere world, seated, the great ones (mahānta), the divine hosts of the middle region, waited upon him as clans upon a king, upon the praiseworthy or the worshipful; the messenger of the gods, from Vivasvat, i.e. Āditya, the radiant, or from one sent, or from afar; Mātariśvan brought Vaiśvānara Agni **NOTE**. Mātariśvan is the wind: he breathes in the mātar (the atmosphere), or मातर्याश्वनितीति वा (*mātaryāśvanitīti vā*). (Ni. 7-26)
+
+##### भावार्थ (Bhāvārtha)
+
+And on this point another Ṛk is cited as an example. Near the lap of the waters, that is in the wide atmosphere world, the greatly glorious Mādhyamika (atmosphere-dwelling) gods welcomed this Agni. As subjects receive their king with great honour, so the gods welcomed and honoured this Agni, who is to be set forth by mantras, worshipful and venerable. Mātariśvan (the wind), who lives in the atmosphere, first impelled by the gods, brought Vaiśvānara-Agni from Āditya, who is in a very distant region. Vaiśvānara-Agni first became visible in the atmosphere to Mātariśvan himself. That Mātariśvan brought Vaiśvānara-Agni from near Āditya who was in the very distant region.
+
+### Printed p. 799
+
+##### भावार्थ (Bhāvārtha)
+
+Mātariśvan means the wind. The wind gets the name Mātariśvan either because it lives in the atmosphere or because it moves swiftly in the atmosphere. What is to be noted here is that it is said that the gods of the atmosphere brought Agni from the region where Sūrya is. No one can bring Sūrya from one region to another; only Agni can be brought. So it must be understood that here Vaiśvānara means the terrestrial fire. Besides, in many mantras the qualities of Sūrya (Āditya) are said of Vaiśvānara-Agni: in the twelfth Ṛk of the Haviṣkānta hymn, in the mantra विश्वस्मा अग्निं भुवनाय देवा वैश्वानरं केतुमह्नामकृण्वन् (*viśvasmā agniṃ bhuvanāya devā vaiśvānaraṃ ketumahnāmakṛṇvan*), it is said that the gods made Vaiśvānara-Agni the maker of the days (ahas). Although the quality of being the maker of the days belongs properly to Sūrya, here this quality is said of Vaiśvānara-Agni. For this Agni is said to be of the nature of all the deities in mantras such as अग्निः सर्वादेवताः (*agniḥ sarvādevatāḥ*) (Ai. Brā. 2-1-2) and इंद्रं मित्रं वरुणमग्निमाहुः (*iṃdraṃ mitraṃ varuṇamagnimāhuḥ*) (1-164-46); so it is common to ascribe to Agni the qualities of Sūrya and other deities. Therefore Vaiśvānara-Agni is the terrestrial fire, not Āditya.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथैनमेताभ्यां सर्वाणि स्थानान्यभ्यापादं स्तौति ।
+> मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ।
+> मायामू तु यज्जियानामेतामपो यत्तूर्णिश्चरति प्रजानन् ॥
+
+> *athainametābhyāṃ sarvāṇi sthānānyabhyāpādaṃ stauti |*
+> *mūrdhā bhuvo bhavati naktamagnistataḥ sūryo jāyate prātarudyan |*
+> *māyāmū tu yajjiyānāmetāmapo yattūrṇiścarati prajānan ‖*
+
+##### Gist of the bhāṣya
+
+Then with these two verses he praises him in all places from the foot. The verse says: the head of the world he becomes; at night he is Agni, then Sūrya is born rising at dawn; … (Ṛ. Saṃ. 10-88-6) **NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मूर्धा मूर्तमस्मिन्दीयते मूर्धायः सर्वेषां भूतानां भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् स एव प्रज्ञां त्वेतां मन्यंते
+> यज्ञियानां देवानां यज्ञसंपादिनामपो यत्कर्म चरति प्रजानन्
+> सर्वाणि स्थानान्यनु संचरते त्वरमाणः ॥
+
+> *mūrdhā mūrtamasmindīyate mūrdhāyaḥ sarveṣāṃ bhūtānāṃ bhavati naktamagnistataḥ sūryo jāyate prātarudyan sa eva prajñāṃ tvetāṃ manyaṃte*
+> *yajñiyānāṃ devānāṃ yajñasaṃpādināmapo yatkarma carati prajānan*
+> *sarvāṇi sthānānyanu saṃcarate tvaramāṇaḥ ‖*
+
+##### Gist of the bhāṣya
+
+Yāska explains: mūrdhā, that on which the head is placed; he becomes the head of all beings; at night Agni, then Sūrya is born rising at dawn; he himself … of the sacrificial gods who accomplish the sacrifice, the work he moves about knowing; hastening he moves through all places. (Ni. 7-27) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The terrestrial fire is praised in many contexts as containing the distinguishing qualities of other special deities such as Sūrya. In this matter the author of the Nirukta has given two Ṛks as examples: for all living creatures Agni is absolutely necessary for life. Without Agni (the heat in the body, which is called Vaiśvānara-Agni) it is impossible to live. Such an Agni (the Agni in the form of Sūrya) shines at night as lord of the world that contains all creatures. In the morning the same Agni rises in the form of Sūrya. The gods can know the unique power and capacity of such an Agni, that is, how, being Sūrya by day and Agni by night, he carries out his duty.
+
 ---
 
-**Progress note:** Done through printed p. 793. pp. 786-793 (batch API)
+**Progress note:** Done through printed p. 799. pp. 794-799 (batch API)
