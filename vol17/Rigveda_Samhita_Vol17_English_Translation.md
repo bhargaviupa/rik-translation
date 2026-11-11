@@ -3371,6 +3371,252 @@ As in "अणोरणीयान् महतो महीयान् (*aṇo
 
 Indra is उरुं (*uruṃ*), great, and therefore गभीरं (*gabhīraṃ*), of great expanse; जनुषा (*januṣā*), by birth, by nature, fierce, terrifying to enemies. (Only depth is meant.) He is विश्वव्यचसं (*viśvavyacasaṃ*), all-pervading, and the protector (अवतं (*avataṃ*)) of the praises, or of the praisers. To such an Indra the Somas, pressed with the stones in प्रदिवि (*pradivi*), the earlier days, enter from the front. The illustration: समुद्रं न (*samudraṃ na*), as flowing rivers enter the ocean, so they. The rest of the block gives derivations and accent notes (januṣā, viśvavyacasam, avatam).
 
+### Printed p. 89
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुं (*uruṃ*)—one of vast form
+- गभीरं (*gabhīraṃ*)—one with an unfathomable belly
+- जनुषा (*januṣā*)—naturally (from birth itself)
+- उग्रं (*ugraṃ*)—terrible to enemies
+- विश्वव्यचसं (*viśvavyacasaṃ*)—all-pervading
+- मतीनां (*matīnāṃ*)—to the praises
+- अवतं (*avataṃ*)—the protector
+- इंद्रं (*iṃdraṃ*)—Indra (accusative)
+- प्रदिवि (*pradivi*)—on former days
+- सुतासः (*sutāsaḥ*)—pressed
+- सोमासः (*somāsaḥ*)—the Soma juices
+- स्रवतः (*sravataḥ*)—flowing rivers
+- समुद्रं न (*samudraṃ na*)—as they enter the deep sea
+- अभि (*abhi*)—towards Indra's belly
+- आ विशंति (*ā viśaṃti*)—enter, flowing
+
+##### भावार्थ (Bhāvārtha)
+
+As long-flowing rivers enter the unfathomable sea, the Soma juices pressed on former days enter Indra, who is of vast form, who has an unfathomable belly, who is naturally terrible to enemies, all-pervading, and the protector of the praises.
+
+##### English translation (H. H. Wilson)
+The Soma juices daily poured out enter into the vast and profound Indra, fierce from his birth, all-pervading, the protector of the pious (worshippers), as rivers flow into the sea.
+
+##### विशेषविषयगळु (Special Topics)
+
+As described in the previous Ṛk, here too Indra's all-pervasiveness is described. In such contexts सोमासः (*somāsaḥ*) cannot be given merely the sacrificial-procedure meaning "Soma juice"; moreover the simile स्रवतः समुद्रं न (*sravataḥ samudraṃ na*) conveys an extraordinary meaning in such contexts. What is Indra's belly? How does a flow of Soma run there? One must examine what common quality there is between this vast form and the form described by the epithet विश्वव्यचसं (*viśvavyacasaṃ*). Examining the extraordinary qualities of Indra described earlier and those to be described later, it must be decided further on whether the principle of Indra is identical with the principle of the Supreme Brahman described in the Upaniṣads and the like, or whether, as modern scholars hold, Indra is a deity subject to a lower principle.
+
+### Printed p. 90
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं सोम॑मिंद्र पृथि॒वीद्यावा॒ गर्भं॒ न मा॒ता बि॑भृ॒तस्त्वा॒या ।  
+> तं ते॑ हिन्वंति॒ तमु॑ ते मृजंत्यध्व॒र्यवो॑ वृषभ॒ पात॒वा  ॑
+> उ ॥ ५ ॥
+
+> *yaṃ somamiṃdra pṛthivīdyāvā garbhaṃ na mātā bibhṛtastvāyā |*  
+> *taṃ te hinvaṃti tamu te mṛjaṃtyadhvaryavo vṛṣabha pātavā*  
+> *u ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । सोमं । इंद्र । प्रधिवीद्यावा । गर्भं । न । माता । बिभृतः । त्वाया ।  
+> तं । ते । हिन्वंति । तं । ऊं इति । ते । मृजंति । अध्वर्यवः । वृषभ । पातवै ।  
+> ऊं इति ॥ ५ ॥
+
+> *yaṃ | somaṃ | iṃdra | pradhivīdyāvā | garbhaṃ | na | mātā | bibhṛtaḥ | tvāyā |*  
+> *taṃ | te | hinvaṃti | taṃ | ūṃ iti | te | mṛjaṃti | adhvaryavaḥ | vṛṣabha | pātavai |*  
+> *ūṃ iti ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पृथिवीद्यावा द्यावापृथिव्य त्वाया त्वत्कामनया यं सोमं
+> बिभृतोऽंतर्धारयतः । अत्र दृष्टांतः । गर्भ० न । यथा माता गर्भ० बिभर्ति तद्वत्
+> हे वृषभ कामानां वर्षक हे इंद्र अध्वर्यवोऽध्वरं यजमानायेच्छंतस्ते
+> त्वदर्थ० तं सोमं हिन्वंति । प्रेरयंति । किंच ते तव पातवै पानाय तं सोमं
+> मृजंति । शोधयंति । उ प्रसिद्धौ ॥ पृथिवीद्यावा । दिवो द्यावेति द्यावादेशः ।
+> आद्युदात्तः । नोत्तरपदेऽनुदात्तादावपृथिवीरुद्रपूषमंथिष्यत्र पर्युदासाद्देवताद्वंद्व चेत्युभयपदप्रकृतिस्वरः । कृतसमासस्य विपर्यासश्चांदसः । बिभृतः ।
+> डुभृञ् धारणपोषणयोरित्यस्माल्लट भृञामिदित्यभ्यासस्यॆत्वं । यद्वृत्तयोगादनिघातः । अजादिप्रत्ययपरत्वाभावादत्राभ्यस्तानामादिरिति स्वरो न भवति । प्रत्ययस्वरः । त्वाया । त्वामिच्छतीत्यर्थे सुप आत्मनः क्यच् । पूर्वपददकारस्याकारश्चांदसः।
+> अ प्रत्ययादिति भावेऽप्रत्ययः । सुपां सुलुगिति तृतीयायाः सवर्णदीर्घः । एकादेशस्वरः । अध्वर्यवः । अध्वरमिच्छंतः । सुपः क्यच् । कव्यध्वरपृतनस्यर्चि लोप
+> इत्याकारलोपः । क्याच्छंदसीत्युप्रत्ययः। प्रत्ययस्वरः । पातवै । पा पाने। तुमर्थे
+> तवैप्रत्ययः । अंतश्च तवै युगपदिति धात्वंतस्य प्रत्ययस्य चोदात्तत्वं । उञ् इति
+> प्रगृह्यसंज्ञा ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, the Heaven and Earth, out of desire for you (त्वाया (*tvāyā*), "wishing you"), hold within themselves the Soma." Here is the example: गर्भ० न (*garbha0 na*)—as a mother carries the embryo. "O Indra, showerer (वृषभ (*vṛṣabha*)) of desires, the Adhvaryus, desiring the sacrifice for the sacrificer, impel (हिन्वंति (*hinvaṃti*), "send forth") that Soma for you. Moreover they purify (मृजंति (*mṛjaṃti*)) that Soma for your drinking (पातवै (*pātavai*))." उ (*u*) is a particle of well-known (emphatic) sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- माता (*mātā*)—the mother
+- गर्भं न (*garbhaṃ na*)—as she carefully protects and bears her child in the womb with affection
+- पृथिवीद्यावा (*pṛthivīdyāvā*)—Heaven and Earth both
+- त्वाया (*tvāyā*)—with reference to you
+- यं सोमं (*yaṃ somaṃ*)—which Soma
+- बिभृतः (*bibhṛtaḥ*)—they hold
+- तं (*taṃ*)—that same Soma
+- वृषभ (*vṛṣabha*)—O Indra, showerer of desires
+- अध्वरवः (*adhvaravaḥ*)—the Adhvaryus **NOTE**
+- ते (*te*)—for you
+- हिन्वंति (*hinvaṃti*)—press and hold
+- ते (*te*)—your
+- पातनै (*pātanai*)—for drinking **NOTE**
+- तं (*taṃ*)—that Soma
+- मृजंति (*mṛjaṃti*)—they purify
+
+### Printed p. 91
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, as a mother carefully protects and bears her child in her womb, so Heaven and Earth both hold for you the Soma; in the same way the Adhvaryus hold Soma for you. For your drinking they purify that same Soma.
+
+##### English translation (H. H. Wilson)
+Which Soma, Indra, the heaven and earth contain for you, as a mother contains the embryo; showerer (of benefits), the priests pour it out for you they purify it for your drinking.
+
+##### विशेषविषयगळु (Special Topics)
+
+As indicated in the previous Ṛk, it is understood that here too the word सोम (*soma*) must have a special meaning. As described in the Śatapatha Brāhmaṇa (11-5-9-10-11), it can be understood as a special radiance that gives beauty to creative power; or it may be a special essence that is the cause of that radiance. The god Soma is also of the form of Āditya, lord of radiance (Śa. Brā. 11-5-9). In the contexts where it is said that Soma is offered to Soma himself, the same kind of special meaning must be given. There is a hidden meaning in the statement that Heaven and Earth hold Soma for the increase of Indra: just as Heaven and Earth, fundamental to the world's functioning, are the cause of the increase of Indra's radiance, so the Adhvaryus too are the cause. This purport is stated on the basis of the above-cited passage of the Śatapatha Brāhmaṇa.
+
+## Sūkta 47 (Maṇḍala 3)
+The forty-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वानिति पंचर्चं नवमं सूक्तं वैश्वामित्रं त्रैष्टुभमैंद्रं । मरुत्वानित्यनुक्रमणिका ॥ दशरात्रे चतुर्थेऽहनि मरुत्वतीयशस्त्र एतत्तूक्तं निविद्धानीयं ।
+> सूत्रितं च । श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं । आ. ७-११ । इति ॥
+> ऋषभनाम्न्यकाहेऽपि मरुत्वतीयशस्त्र एतन्निविद्वानं । सूत्रितं च । मरुत्वा इंद्र
+> युध्मस्य त इति मध्यंदिनः । आ. ९-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मरुत्वान् (*marutvān*) has five Ṛks; it is the ninth sūkta (of the anuvāka), by Viśvāmitra, in the Triṣṭubh metre, addressed to Indra; the Anukramaṇikā says "मरुत्वान् (*marutvān*)". In the Daśarātra, on the fourth day, this sūkta is used at the Marutvatīya śastra as the one carrying the nivid. The sūtra says: श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं (*śrudhī havamiṃdra marutvā iṃdreti marutvatīyaṃ*) (Ā. 7-11). In the one-day rite named Ṛṣabha also, this is the nivid-bearing sūkta at the Marutvatīya śastra; the sūtra says: मरुत्वा इंद्र युध्मस्य त इति मध्यंदिनः (*marutvā iṃdra yudhmasya ta iti madhyaṃdinaḥ*) (Ā. 9-7).
+
+### Printed p. 92
+
+> अनुवादवु— मरुत्वान् ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि ऒंभत्तनॆय सूक्तवु.
+> इदरल्लि ऐदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ विश्वामित्रनु ऋषियु, इंद्रनु देवतॆयु, त्रिष्टुप्
+> छंदस्सु. अनुक्रमणिकॆयल्लि मरुत्वान् ऎंदु मॊदलागि हेळिरुवुदु दशरात्रवॆंब यागद
+> नाल्कनॆय दिवस मरुत्वतीयशस्त्रमंत्रपठनकालदल्लि ई सूक्तवन्नु निविन्मंत्रगळिगागि उपयोगि
+> सबेकॆंदु अश्वलायनशौतसूत्रद—श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं ऎंब
+> सूत्रदिंदलू (आ. ७-११), ऒंदु दिवसमात्र माडल्पडुव ऋषभनाम्मियॆंब यागदल्लि मरु
+> त्वतीयशस्त्रमंत्रगळन्नु पठिसुवाग निविन्मंत्रगळिगागि ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायन
+> शौतसूत्रद—मरुत्वा इंद्र युध्मस्य त इति मध्यंदिनः ऎंब सूत्रदिंदलू (आ. ९-७)
+> विवृतवागिरुवुदु.
+> ॥ ओं ॥
+> सूक्त—४७
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—४७ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—११ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> , ऋषिः— विश्वामित्रः
+> । देवता— इंद्रः ।
+> । छंदः — त्रिष्टुप् ।
+
+Anuvāda: This sūkta beginning "Marutvān" is the ninth sūkta in the fourth anuvāka and has five Ṛks. Viśvāmitra is its seer, Indra the deity, Triṣṭubh the metre. The Anukramaṇikā begins with "Marutvān". It is to be used for the nivid mantras at the time of reciting the Marutvatīya śastra mantras on the fourth day of the sacrifice called Daśarātra, as stated by the Āśvalāyana-Śrautasūtra "श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं (*śrudhī havamiṃdra marutvā iṃdreti marutvatīyaṃ*)" (Ā. 7-11); and in the sacrifice called Ṛṣabhanāmnī, performed in a single day, the use of this sūkta for the nivid mantras while reciting the Marutvatīya śastra mantras is explained by the Āśvalāyana-Śrautasūtra "मरुत्वा इंद्र युध्मस्य त इति मध्यंदिनः (*marutvā iṃdra yudhmasya ta iti madhyaṃdinaḥ*)" (Ā. 9-7). Particulars: Sūkta 47; Maṇḍala 3, Anuvāka 4, Sūkta 47; Aṣṭaka 3, Adhyāya 3, Varga 11; number of Ṛks in the sūkta: 5; Ṛṣi: Viśvāmitra; Devatā: Indra; Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्वा॑ इंद्र वृष॒भो रणा॑य॒ सिबा॒ सोम॑नुस्व॒धं  ॑
+> मदा॑य ।  
+> आ सिं॑चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒तानां॑॥
+
+> *marutvā iṃdra vṛṣabho raṇāya sibā somanusvadhaṃ*  
+> *madāya |*  
+> *ā siṃcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वान् । इंद्र । वृषभः । रणाय । पिज । सोमं । अनुस्वधं । मदाय ।  
+> आ । सिंचस्व । जठरे । मध्वः । उर्मिं । त्वं । राजा । असि । प्रदिवः । सुतानां ॥ १ ॥
+
+> *marutvān | iṃdra | vṛṣabhaḥ | raṇāya | pija | somaṃ | anusvadhaṃ | madāya |*  
+> *ā | siṃcasva | jaṭhare | madhvaḥ | urmiṃ | tvaṃ | rājā | asi | pradivaḥ | sutānāṃ ‖ 1 ‖*
+
+### Printed p. 93
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यो वृषभोऽपां वर्षिता मरुत्वान् । मरुतो देवविशस्तद्वान् ।
+> स त्वमनुष्वधं स्वधया सवनीयपुरोडाशादिरूपेणान्नेनानुगतं सोमं रणाय
+> रमणीयसंग्रामार्थं मदाय तं सोमं पिब । किंच मध्यो मदकॆरस्य सोमस्त्योर्मि संघातं बहुरसं जठरे । जग्धमन्नमस्मिंस्तिष्ठतीति जठरमुदरं । तस्मिन्नुदर आ सिंचस्व । सर्वतः क्षारय । यतस्त्वं प्रदिवः पूर्वेष्वहःसु सुतानामभिषुतानां सोमानां राजासीशितासि । न केवलमधुनातनानामिति भावः । उक्तमर्थं
+> यास्को ब्रवीति । मरुत्वानिंद मरुद्भिस्तद्वान् वृषभो वर्षितापां रणाय
+> रमणीयाय संग्रामाय पिब सोममनुष्वधमन्वन्नं मदाय मदनीयाय
+> जैत्रायासिंच स्वजठरे मधुन ऊर्मि० । मधु सोममित्यौपमिकं माद्यतेरिदमपीतरन्मध्वतस्मादेव । त्वं राजासि पूर्वेष्वस्यहःसु सुतानां । नि. ४-८ । इति ॥
+> अनुस्वधं । स्वधामनुगम्य वर्तमानं । अत्यादयः क्रांताद्यर्थे द्वितीययेति
+> समासः । संहितायां पूर्वपदात् । पा. ८-३-१०६ । इति षत्वं । निरुदकादित्वादंतोदात्तत्वं । ऊर्मि० । अर्तॆरुच्चेति मिप्रत्ययः धातोरू इत्यादेशो रपरः ।
+> प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you who are the showerer (वृषभ (*vṛṣabha*)) of waters and मरुत्वान् (*marutvān*)—possessed of the Maruts, the divine clan—drink that Soma, which is accompanied (अनुस्वधं (*anusvadhaṃ*)) by स्वधा (*svadhā*), that is, by food in the form of the puroḍāśa and the like of the pressing, for the delightful (रणाय (*raṇāya*)) battle and for exhilaration (मदाय (*madāya*)). Moreover, pour the wave (ऊर्मिं (*ūrmiṃ*), the collected mass, abundant juice) of the intoxicating sweet Soma into your belly (जठरे (*jaṭhare*); the belly is so called because the food eaten stays in it); pour it in all around. For you are the lord of the Somas pressed on former days (प्रदिवः (*pradivaḥ*))—not only of the present ones." Yāska states the same meaning: मरुत्वानिंद मरुद्भिस्तद्वान् वृषभो वर्षितापां रणाय रमणीयाय संग्रामाय पिब सोममनुष्वधमन्वन्नं मदाय मदनीयाय जैत्रायासिंच स्वजठरे मधुन ऊर्मि० । मधु सोममित्यौपमिकं माद्यतेरिदमपीतरन्मध्वतस्मादेव । त्वं राजासि पूर्वेष्वस्यहःसु सुतानां । (*marutvāniṃda marudbhistadvān vṛṣabho varṣitāpāṃ raṇāya ramaṇīyāya saṃgrāmāya piba somamanuṣvadhamanvannaṃ madāya madanīyāya jaitrāyāsiṃca svajaṭhare madhuna ūrmi0 | madhu somamityaupamikaṃ mādyateridamapītaranmadhvatasmādeva | tvaṃ rājāsi pūrveṣvasyahaḥsu sutānāṃ |*) (Ni. 4-8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृषभः (*vṛṣabhaḥ*)—you who pour down rain
+- मरुत्वान् (*marutvān*)—who are accompanied by the Maruts
+- अनुष्वधं (*anuṣvadhaṃ*)—accompanied by food in the form of svadhā
+- सोमं (*somaṃ*)—the Soma
+- रणाय (*raṇāya*)—in battle
+- मदाय (*madāya*)—for increasing your valour
+- पिब (*piba*)—drink
+- मध्वः (*madhvaḥ*)—of the intoxicating Soma
+- ऊर्मि (*ūrmi*)—the essence in the form of a wave
+- जठरे (*jaṭhare*)—in your belly
+- आ सिंचस्व (*ā siṃcasva*)—pour fully
+- त्वं (*tvaṃ*)—you
+- प्रदिवः (*pradivaḥ*)—on former days
+- सुतानां (*sutānāṃ*)—of all the pressed Somas
+- राजा (*rājā*)—as lord
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who pour down rain and are accompanied by the Maruts, drink the Soma accompanied by food in the form of svadhā, in battle, to increase your valour. Pour fully into your belly the Soma essence, which is intoxicating and in the form of a wave. You are the lord of all the Somas pressed on former days.
+
+##### English translation (H. H. Wilson)
+Indra, attended by the Maruts, the showerer (of benefits), drink the Soma offered after the other presentations, for your exhilaration for battle ; take into your belly the (full) wave of the inebriating (Soma), for you are lord of libations from the days of old.
+
+### Printed p. 94
+
+##### विशेषविषयगळु (Special Topics)
+
+अनुष्पधं (*anuṣpadhaṃ*)—two words, अनु (*anu*) + स्वधा (*svadhā*), are joined: drinking of Soma after the offering of food in the form of svadhā. The scholar Monier Williams, giving the meaning of the word अनुष्पधं (*anuṣpadhaṃ*), says "According one's own will ; voluntary ;" that is, acting by one's own impulse without the prompting of others, and he refers to the Ṛgveda Saṃhitā; but nowhere in the Ṛgveda Saṃhitā has Sāyaṇa given this meaning.
+ऊर्मि (*ūrmi*)—ऊर्मिरूर्णोतेः (*ūrmirūrṇoteḥ*): it is the view of the Nirukta author that it is derived from the root ऊर्ण (*ūrṇa*), meaning to cover, conceal, envelop (Ni. 5-23). (The Uṇādi sūtra आर्तॆरच्च (*ārtèracca*) is recited.) Just as it is used in the sense of wave (billow), the word is also used in the sense of mass of water, collection of water. Here it indicates the abundance of the Soma juice.
+रणाय (*raṇāya*)—On the basis of the original meaning "delightful", the word रण (*raṇa*) is a synonym of battle. When the gods gather together and fight, there is a joyful cry that victory is assured; so (रणयंति (*raṇayaṃti*)) the word indicates that the battlefield too is delightful.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जोषा॑ इंद्र॒ सग॑णो म॒रुद्भिः॒ सोमं॑ पिब वृतह्र॒ा शू॑र  ॒
+> विद्वान् ।  
+> ज॒हि शत्रू॒रप॒ मृधो॑ नुद॒स्वाथाभ॑यं कृणुहि वि॒श्वतो॑ नः
+
+> *sajoṣā iṃdra sagaṇo marudbhiḥ somaṃ piba vṛtahrā śūra*  
+> *vidvān |*  
+> *jahi śatrūrapa mṛdho nudasvāthābhayaṃ kṛṇuhi viśvato naḥ*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजोषाः । इंद्र । सगणः । मरुत्भिः । सोमं । पिब । वृत्रहा । शूर । विद्वान् ।  
+> जहि । शत्रून् । अप । मृधः । नुदस्व । अथ । अभयं । कृणुहि । विश्वतः । नः । ॥ २ ॥
+
+> *sajoṣāḥ | iṃdra | sagaṇaḥ | marutbhiḥ | somaṃ | piba | vṛtrahā | śūra | vidvān |*  
+> *jahi | śatrūn | apa | mṛdhaḥ | nudasva | atha | abhayaṃ | kṛṇuhi | viśvataḥ | naḥ | ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सजोषा इंद्रेति मरुत्वतीयग्रहस्य याज्या । सूत्रितं च । सजोषा इंद्र
+> सगणो मरुद्भिरिति भक्षयित्वैतत्पात्रं । आ. ५-१४ । इति ॥
+> हे शूर बलवन् हे इंद्र सजोषाः संगतो देवैर्मरुद्भिः सगणो मरुद्भिरेव वृत्रहा वृत्रस्य हंता विद्वान्कर्मविषयाभिज्ञस्त्वं सोमं पिब । ततो नः
+
+##### Gist of the bhāṣya
+
+The verse सजोषा इंद्र (*sajoṣā iṃdra*) is the yājyā of the Marutvatīya graha. The sūtra says: सजोषा इंद्र सगणो मरुद्भिरिति भक्षयित्वैतत्पात्रं (*sajoṣā iṃdra sagaṇo marudbhiriti bhakṣayitvaitatpātraṃ*) (Ā. 5-14). "O mighty hero (शूर (*śūra*)) Indra, you who are united (सजोषाः (*sajoṣāḥ*)) with the gods the Maruts, accompanied by your troop (सगणः (*sagaṇaḥ*)) by the Maruts alone, the slayer of Vṛtra, knowing (विद्वान् (*vidvān*)) the subject of the rites—drink the Soma. Then for us …" (the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 88. pp. 82-88 (batch API, retry 2)
+**Progress note:** Done through printed p. 94. pp. 89-94 (batch API)
