@@ -15,7 +15,7 @@ Maṇḍala 3 Sūktas 7–39 (Third Aṣṭaka, Adhyāyas 1–2), printed pp. 2�
 Vol 15 workflow: one fresh Sonnet agent per window of 3 (sometimes 4) printed pages, dispatcher verifies each commit and appends the cost line (`parts/batch_costs.md`; token numbers mostly not recorded). `tools/rv/html_to_kn.py` was changed on this branch (labels with a trailing full stop or a one-letter OCR slip are now recognised). Window prompts were extended during the volume (standard labels only, `check_inline` before commit, accent regex checks, `--max-doubts` is the sum of both files, never remove a `[?]` to meet the count, read the pictures).
 
 ## Status
-Translated through printed p. 884 (FINAL: Sūkta 39 end, adhyāya colophon, closing verses and printer line). Volume text complete. Finishing checklist done except: print PDFs (need the front-matter scan PDF from the user), the open items below, and the merge into `main` (only when the user says so).
+Translated through printed p. 884 (FINAL: Sūkta 39 end, adhyāya colophon, closing verses and printer line). Volume text complete. Finishing checklist done except: print PDFs (need the front-matter scan PDF from the user), the open items below, and (done Nov 11 2026 at the user's request: merged into `main`, commit 97fe1873).
 
 ## Open items
 **User / later pass**
