@@ -15916,6 +15916,136 @@ Your connexion (with the consequence, of acts) Ribhus is here (acknowledged) by 
 
 आद्याश्चतस्रः पृष्ठाभिप्लवषडहयोः प्रथमेऽहनि वैश्वदेवशस्त्रे अर्भवनिविद्धानीयाः । (*ādyāścatasraḥ pṛṣṭhābhiplavaṣaḍahayoḥ prathame 'hani vaiśvadevaśastre arbhavanividdhānīyāḥ |*). The commentator indicates the rule that the first four mantras of this sūkta are to be recited, in the form of the Vaiśvadeva śastra, on the first day of the Pṛṣṭha and Abhiplava ṣaḍahas. Abhiplava and Pṛṣṭha are sacrifices of the nature of śastra and stotra, to be performed in the ṣaḍahas; their differences will be stated as the occasion arises. Here only their special character in the present context will be explained.
 
+### Printed p. 486
+Abhiplava and Pṛṣṭha (continued from the preceding discussion of the introductory particulars):
+
+अभिप्लवः षडहः स्वर्गस्य लोकस्याथ यथा महापथः पर्याण एवं पृष्ठः षळहः स्वर्गस्य लोकस्य । (*abhiplavaḥ ṣaḍahaḥ svargasya lokasyātha yathā mahāpathaḥ paryāṇa evaṃ pṛṣṭhaḥ ṣaḷahaḥ svargasya lokasya |*) (Ai. Brā. 4-17).
+
+It is stated that the Abhiplava ṣaḍaha is the path that leads straight to heaven, while the Pṛṣṭha ṣaḍaha is the path that leads to the same heaven by a somewhat roundabout way. Yet both are declared to be principal means of reaching heaven. Of their details, the nature and greatness of the Abhiplava ṣaḍaha are given here; the procedures of the Pṛṣṭha ṣaḍaha and their greatness will be given later, as the occasion arises.
+
+1) The reason for the names Abhiplava and Pṛṣṭha, and the characteristics the two have in common—
+
+तआदित्याः । चतुर्भिः स्तोमैश्चतुर्भिः पृष्ठैर्लघुभिः सामभिः स्वर्गं लोकमभ्यप्लवंत यदभ्यप्लवंत तस्मादभिप्लवाः । (*taādityāḥ | caturbhiḥ stomaiścaturbhiḥ pṛṣṭhairlaghubhiḥ sāmabhiḥ svargaṃ lokamabhyaplavaṃta yadabhyaplavaṃta tasmādabhiplavāḥ |*) (Śa. Brā. 12-2-2-10).
+
+The Ādityas crossed over to the world of heaven with the four Stomas, the four Pṛṣṭhas and the four light sāmans. Because they thus "crossed over" (abhiplava), this rite, which is the means of crossing, also came to be called Abhiplava.
+
+अन्वंच इवांगिरसः । सर्वै स्तोमैः सर्वैः पृष्टैर्गुरुभिः सामभिः स्वर्गं लोकमस्पृशन्यदस्पृशंस्तस्मात्पृष्टिः ॥ (*anvaṃca ivāṃgirasaḥ | sarvai stomaiḥ sarvaiḥ pṛṣṭairgurubhiḥ sāmabhiḥ svargaṃ lokamaspṛśanyadaspṛśaṃstasmātpṛṣṭiḥ ‖*) (Śa. Brā. 12-2-11).
+
+The Aṅgirases touched the world of heaven with all the Stomas, all the Pṛṣṭhas and the heavy sāmans. Because this rite is the means of touching, it received the name Pṛṣṭha. Thus the characteristics of the two rites are stated.
+
+तदाहुः । तस्मादुभयतो ज्योतिषोऽभिप्लवा भवंत्यन्यतो ज्योतिः पृष्ठि इतिमे वै लोका अभिप्लवा उभयतो ज्योतिषो वा इमे लोका अग्निनेत आदित्येनामुत ऋतवः पृष्ठोऽन्यतो ज्योतिषो वा ऋतव एष एषां ज्योतिर‍्य एष तपति ॥ (*tadāhuḥ | tasmādubhayato jyotiṣo 'bhiplavā bhavaṃtyanyato jyotiḥ pṛṣṭhi itime vai lokā abhiplavā ubhayato jyotiṣo vā ime lokā agnineta ādityenāmuta ṛtavaḥ pṛṣṭho 'nyato jyotiṣo vā ṛtava eṣa eṣāṃ jyotirya eṣa tapati ‖*) (Śa. Brā. 12-2-2-1).
+
+The Abhiplava ṣaḍaha is luminous on both sides, whereas the Pṛṣṭha has light on one side only. If one asks the reason: the Abhiplava ṣaḍahas are none other than these worlds. Above these worlds, light streams from one side from the terrestrial fire and from the other side from the sun in the atmosphere.
+### Printed p. 487
+The Pṛṣṭha ṣaḍahas, being of the nature of the seasons, can have light from one side only; they receive their brilliance only from the sun in the atmosphere.
+
+देवचक्रे ना एते पृष्य प्रतिष्ठिते । यजमानस्य पाप्मानं तृग्ंहितो परिप्लवेते स यो हैवं विमषां दीक्षितानां पापग्ं सत्त्रे कीर्तयत्येते हास्य देवचक्रे (*devacakre nā ete pṛṣya pratiṣṭhite | yajamānasya pāpmānaṃ tṛgṃhito pariplavete sa yo haivaṃ vimaṣāṃ dīkṣitānāṃ pāpagṃ sattre kīrtayatyete hāsya devacakre*)
+
+These Pṛṣṭha and the firmly established Abhiplava are two divine wheels. While they revolve, all the sins of the sacrificer are ground to pieces and destroyed. If anyone at the time of the sacrifice utters words disparaging them, his head is cut off. The dasarātra is the main seat of the chariot of the gods; the Pṛṣṭha and Abhiplava are the two wheels.
+
+तदाहुः । यत्समे एव चक्रे भवतोऽथैते विषमास्तोमाः कथमस्यैते समाः स्तोमास्तोमा उपेता भवंतीति यदेव षडन्यान्यहानि षडन्यानि तेनेति ब्रूयात् ॥ (*tadāhuḥ | yatsame eva cakre bhavato 'thaite viṣamāstomāḥ kathamasyaite samāḥ stomāstomā upetā bhavaṃtīti yadeva ṣaḍanyānyahāni ṣaḍanyāni teneti brūyāt ‖*)
+
+These two wheels are equal (similar in form, each being a ṣaḍaha), but the Stomas connected with them are not of equal form. If one asks how that is consistent, it is consistent if one says that each of them has six days of like character.
+
+पृष्ठाभिप्लवौ तंत्रे कुर्वीतेति ह स्माह पैंग्यः । तयोः स्तोत्राणि च शस्त्राणि च संचारयेदिति स यत्संचारयति तस्मादिमे प्राणा नाना संत एकोतयः समानमूतिमनुसंचरंत्यथ यन्न संचारयेत्प्रमायुको यजमानः स्यादेष ह वै प्रमायुक्तो योऽंधो वा बधिरो वा ॥ (*pṛṣṭhābhiplavau taṃtre kurvīteti ha smāha paiṃgyaḥ | tayoḥ stotrāṇi ca śastrāṇi ca saṃcārayediti sa yatsaṃcārayati tasmādime prāṇā nānā saṃta ekotayaḥ samānamūtimanusaṃcaraṃtyatha yanna saṃcārayetpramāyuko yajamānaḥ syādeṣa ha vai pramāyukto yo 'ṃdho vā badhiro vā ‖*) (Śa. Brā. 12-2-2-4).
+
+Pṛṣṭha and Abhiplava are to be made two tantras (systems), and both made to move along in the same manner. On that occasion, just as the vital airs, though flowing in different channels, move in one way and have one aim, so these too have a common aim. Otherwise it may cause the destruction of the sacrificer, or he becomes blind or deaf. In such ways the greatness of the two is extolled. And just as the Abhiplava is described as luminous in both directions, the same point is stated at greater length in the Aitareya Brāhmaṇa as follows—
+
+Jyotir gaur āyur iti stomebhir yanti, ayaṃ vai loko jyotir antarikṣaṃ gaur asau loka āyuḥ (Ai. Brā. 18-15).
+### Printed p. 488
+Jyotiḥ, Gauḥ, Āyuḥ mean the Jyotiṣṭoma, Gostoma and Āyuṣṭoma. The Jyotiṣṭoma is the earth-world, the Gostoma the atmosphere and the Āyuṣṭoma the heaven-world. The same idea is stated in the Yajurveda, in the passage beginning "Jyotiṣṭomaṃ prathamam upayanti" and ending "amuṣminn eva loke pratitiṣṭhanti".
+
+स एवैष उत्तरस्प्रहः । ज्योतिर्गौरायुरिति त्रीण्यहानि गौरायुर्ज्योतिरिति त्रीणि । अयं वै लोको ज्योतिरस्लो लोको ज्योतिस्ते एते ज्योतिषी उभयतः संलोकेते ॥ (*sa evaiṣa uttarasprahaḥ | jyotirgaurāyuriti trīṇyahāni gaurāyurjyotiriti trīṇi | ayaṃ vai loko jyotiraslo loko jyotiste ete jyotiṣī ubhayataḥ saṃlokete ‖*)
+
+The order of the second group of the tryaha is this: Jyotiḥ, Gauḥ, Āyuḥ form one group; Gauḥ, Āyuḥ, Jyotiḥ the other. Again, both groups, each belonging to the three worlds and filled with light on both sides, are of the nature of a ṣaḍaha.
+
+तैनेतेनोभयतो ज्योतिषा षळहेन यंति तद्यदेतेनोभयतो ज्योतिषा षळहेन यंत्यनयोरेव तल्लोकयोरुभयतः प्रतितिष्ठंतो यंत्यस्मिंश्च लोकेऽमुष्मिंश्चोभयोः । परियद्वा एतद्देवचक्रं यदभिप्लवः षळहस्तस्य यावभितोऽग्निष्टोमौ ता प्रधी ये चत्वारो मध्य उक्थास्तन्नभ्यं ॥ (*tainetenobhayato jyotiṣā ṣaḷahena yaṃti tadyadetenobhayato jyotiṣā ṣaḷahena yaṃtyanayoreva tallokayorubhayataḥ pratitiṣṭhaṃto yaṃtyasmiṃśca loke 'muṣmiṃścobhayoḥ | pariyadvā etaddevacakraṃ yadabhiplavaḥ ṣaḷahastasya yāvabhito 'gniṣṭomau tā pradhī ye catvāro madhya ukthāstannabhyaṃ ‖*) (Ai. Brā. 18-15).
+
+They proceed with the six groups of the ṣaḍaha, luminous on both sides, finding support and foothold on both sides of these two worlds. The Abhiplava ṣaḍaha is a divine wheel, which revolves in a circle. Its two Agniṣṭomas are the rims; the four Ukthas in the middle are the naves. In such words the greatness of the Abhiplava is praised. It is said that during that Abhiplava, which is thus joined with light on both sides, the first four mantras of the present sūkta are to be recited. Regarding their application, the Aitareya Brāhmaṇa says:
+
+इहेह वो मनसा बंधुता नर इत्यार्भवं यद्वा एति च प्रेति च तत्प्रथमस्याह्नो रूपं तद्यत्प्रीति सर्वमभविष्यत्पृष्यन्नेवास्माल्लोकाद्यजमाना इति तद्यदिहेह वो मनसा बंधुता नर इत्यार्भवं प्रथमेऽहनि शंसत्य यं वै लोक इहेहास्मिन्नेवैनांस्तल्लोके रमयति ॥ (*iheha vo manasā baṃdhutā nara ityārbhavaṃ yadvā eti ca preti ca tatprathamasyāhno rūpaṃ tadyatprīti sarvamabhaviṣyatpṛṣyannevāsmāllokādyajamānā iti tadyadiheha vo manasā baṃdhutā nara ityārbhavaṃ prathame 'hani śaṃsatya yaṃ vai loka ihehāsminnevaināṃstalloke ramayati ‖*) (Ai. Brā. 28-30).
+### Printed p. 489
+Here "eti" and "preti" are forms of the first day. Therefore the mantra इहेह वो मनसा (*iheha vo manasā*), addressed to the Ṛbhus, is indicated as recited on the first day of the Pṛṣṭhya ṣaḍaha. What the Pṛṣṭhya ṣaḍaha is, and why praise of the Ṛbhus occurs in it, will be told later.
+
+The present mantra also describes how the Ṛbhus, though human, looked upon the sacrificial share; how, to obtain that qualification, they performed excellent acts and attained divinity; and how they then obtained the Soma and other offerings fit for sacrifice. The Aitareya Brāhmaṇa tells the same in story form:
+
+यभवो वै .... .... .... पर्यपिबत् ॥ (*yabhavo vai .... .... .... paryapibat ‖*) (Ai. Brā. 13-20).
+
+The Ṛbhus, who were human, performed supernatural deeds by their superhuman power and, by their supreme power of austerity, became doers of divine works and attained divinity. Then they too wished to drink Soma with the gods. First they made the attempt at the morning pressing. Agni, the chief deity of the morning pressing, joined with his companions the Vasus, gave them no opportunity to drink Soma, rejected them and drove them off. Then they tried again at the midday pressing. Indra, the lord of the midday pressing, joined with the Rudras and drove them away. Again they tried at the third pressing. Then the Viśvedevas said harshly, "You have no right to drink Soma; you have no entry here," and sent them away. Seeing their distress, Prajāpati addressed Savitṛ: "These Ṛbhus are your pupils; you must drink Soma with them." Savitṛ agreed. Prajāpati too drank Soma together with them. This is the situation told in the Aitareya Brāhmaṇa. Referring to this in the present Ṛk, Sāyaṇa says आयमर्थो ब्राह्मणेऽपि “ ऋभवो वै ... .... ” इत्यत्रोपाख्यानपूर्वकं स्पष्टमभिहितः । (*āyamartho brāhmaṇe 'pi “ ṛbhavo vai ... .... ” ityatropākhyānapūrvakaṃ spaṣṭamabhihitaḥ |*), that is, this same meaning is clearly stated in the Brāhmaṇa too.
+
+Bandhutā—बद्धंति फलेन संयोजयंतीति बंधवः कर्माणि । तेषां समूहः बंधुता । (*baddhaṃti phalena saṃyojayaṃtīti baṃdhavaḥ karmāṇi | teṣāṃ samūhaḥ baṃdhutā |*). Because they join all acts with their fruit, or join the doer with the fruit, the word bandhu means "act"; the group of such acts is called bandhutā. This meaning is given for this word only in the present Ṛk, as appropriate.
+### Printed p. 490
+Varaḥ—मनुष्याः (*manuṣyāḥ*): "men", that is, those who were human (and attained divinity). **NOTE**
+
+ऋभुर्विभ्वा वाज इति सुधन्वन आंगिरसस्य त्रयः पुत्रा बभूवुः । (नि. ११-१६) ते अतिशयवद्भिः कर्मभिर्देवत्त्वमीयुः । (*ṛbhurvibhvā vāja iti sudhanvana āṃgirasasya trayaḥ putrā babhūvuḥ | (ni. 11-16) te atiśayavadbhiḥ karmabhirdevattvamīyuḥ |*) (Ni. 11-16). Sudhanvan Āṅgirasa had three sons named Ṛbhu, Vibhu and Vāja. By exceedingly good acts they attained divinity. The Nirukta author explains that here, through association, all three are addressed together by the name of the eldest.
+
+Yābhiḥ māyābhiḥ—The special senses of the word māyā were stated earlier in this same volume, in the special topics of the first Ṛk of sūkta 3-56. Here it means "by extraordinary acts".
+
+Pratijūtivarpasaḥ—It is somewhat difficult to give the meaning of this epithet. Sāyaṇa explains प्रतिपक्षाभिभवनशीलतेजोयुक्ताः (*pratipakṣābhibhavanaśīlatejoyuktāḥ*): possessed of the power to confront and defeat enemies. The scholar Monier Williams, in his Sanskrit-English Dictionary, explains the word as "Assuming any form according to their will", that is, having the power to assume any form they wish. Both meanings can fit here. How? Jūti has two meanings, speed and power. Varpas ordinarily means radiant lustre; it may also mean "body". So it can mean the inner brilliance that destroys the enemy's power, or the brilliance of a body that changes as the mind resolves. Its special force will be explained in the special topics of the next Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभिः॒ शची॑भिश्चम॒सां अपिं॑शत॒ यया॑ धि॒या गामरि॑णीत॒  ॑
+> चर्मणः ।  
+> येन॒ हरी॒ मन॑सा नि॒रत॑क्षत॒ तेन॑ देव॒त्वमृ॑भवः॒ समा॑नश ॥ २ ॥
+
+> *yābhiḥ śacībhiścamasāṃ apiṃśata yayā dhiyā gāmariṇīta*  
+> *carmaṇaḥ |*  
+> *yena harī manasā niratakṣata tena devatvamṛbhavaḥ samānaśa ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । शचीभिः । चमसान् । अपिंशत । यया । धिया । गां । अरिणीत । चर्मणः ।  
+> येन । हरी इति । मनसा । निःऽअतक्षत । तेन । देवत्वं । यभवः । सम् । आनश ॥
+
+> *yābhiḥ | śacībhiḥ | camasān | apiṃśata | yayā | dhiyā | gāṃ | ariṇīta | carmaṇaḥ |*  
+> *yena | harī iti | manasā | niḥ 'atakṣata | tena | devatvaṃ | yabhavaḥ | sam | ānaśa ‖*
+
+### Printed p. 491
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो याभिः शचीभिः शक्तिभिश्चमसान् चतुरोऽपिंशत विभक्तवंतः स्थ ।
+> यया धिया प्रज्ञया गां मृतामरिणीत चर्मणः चर्मणा योजनात्पापितवंतः
+> स्थ । येन मनसा प्रज्ञानेन हरी एतन्नामकाविंद्रस्याश्वै निरतक्षत नितरामकुरुत ।
+> तथायं मंत्रवर्णः । य इंद्राय वचोयुजा ततक्षुर्मनसा हरी । ऋग्वे.
+> १-२०-२ । इति । तेन सर्वॆणानेन कर्मणा देवत्वं यज्ञभागार्हत्वलक्षणं देवभावं
+> समानश । सम्यक् प्राप्ताः स्थ ॥ अपिंशत । पिश अवयवे । तुदादिः । तस्य लजि मध्यमे
+> रूपं । यद्वृत्तयोगादनिघातः । अरिणीत । री गतिरेषणयोः । क्रादिः । तस्य लजि
+> रूपं । अत्रापि पूर्ववदनिघातः । निरतक्षत । तक्षू त्वक्षू तनूकरणे । लजि रूपं ।
+> पूर्ववदनिघाते तिङ् चोदात्तवतीति गतेर्निघातः। आडुदात्तः । आनश। अश्नोतेर्लिट
+> रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"Ṛbhus, with what powers (śacī, *śaktibhiḥ*) you divided the four chamasa cups; with what insight (dhī, प्रज्ञया (*prajñayā*)) you made the dead cow (*gāṃ mṛtāṃ*) reach life by joining it with its skin; with what mind (प्रज्ञानेन (*prajñānena*)) you fashioned the two horses named Hari, those of Indra." He confirms the last point with a mantra text: य इंद्राय वचोयुजा ततक्षुर्मनसा हरी (*ya iṃdrāya vacoyujā tatakṣurmanasā harī*) (Ṛ. Saṃ. 1-20-2). "By all this work you have fully attained divinity (देवत्वं (*devatvaṃ*))", the divine state characterised by fitness for a share in the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- याभिः (*yābhiḥ*)—by which
+- शचीभिः (*śacībhiḥ*)—powers
+- चमसान् (*camasān*)—the chamasa vessels
+- अपिंशत (*apiṃśata*)—you made into four parts
+- यया धिया (*yayā dhiyā*)—by which insight
+- गां (*gāṃ*)—the dead cow
+- चर्मणः आरिणीत (*carmaṇaḥ āriṇīta*)—you made live by a covering of skin
+- येन मनसा (*yena manasā*)—by which intellect
+- हरी (*harī*)—Indra's horses
+- निरतक्षत (*niratakṣata*)—you fashioned
+- तेन (*tena*)—by all these abilities
+- देवत्वं (*devatvaṃ*)—divinity fit for sacrifice
+- समानश (*samānaśa*)—you have fully attained
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, by the powers with which you made the chamasa vessels into four parts, by the insight with which you made the dead cow live through a covering of skin, by the intellect with which you fashioned Indra's horses: because you possess all these abilities, you have fully attained the divinity that is fit for sacrifice.
+
+##### English translation (H. H. Wilson)
+With those faculties by which you have divided the ladles ; with that intelligence wherewith you have covered the (dead) cow with skin; with that will by which you have fabricated the two horses (of Indra); with those (means), Ribhus, you have attained divinity.
+
 ---
 
-**Progress note:** Done through printed p. 485. pp. 480-485 (batch API)
+**Progress note:** Done through printed p. 491. pp. 486-491 (batch API)
