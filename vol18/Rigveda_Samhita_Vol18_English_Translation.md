@@ -3084,6 +3084,247 @@ The third anuvāka (of Maṇḍala 4) has eleven sūktas. Of these, the first, t
 
 In the third anuvāka of the fourth maṇḍala there are eleven sūktas. Of them this sūkta beginning यन्न इंद्रः (*yanna iṃdraḥ*) is the first. It has eleven Ṛks. Vāmadeva is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. What is said in the Anukramaṇikā beginning with यन्नः (*yannaḥ*): of the three saṃpāta-sūktas to be recited in the midst of the Maitrāvaruṇa-śastra mantras at the midday-pressing time on the first day of the sacrifices called Pṛṣṭha and Abhiplava Ṣaḍaha, this sūkta is the second. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra एवा त्वामिंद्र यन्न इंद्रः (*evā tvāmiṃdra yanna iṃdraḥ*) (Ā. 7-5).
 
+### Printed p. 95
+Maṇḍala 4; Anuvāka 3; Sūkta 22. Aṣṭaka 3; Adhyāya 6; Varga 7, 8. Number of ṛks in the sūkta: 11. Seer: Vāmadeva. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्न॒ इंद्रो॑ जुजु॒षे यच्च॒ वष्टि॒ तन्नो॑ म॒हान्क॑रति शु॒ष्मा  ॑
+> चित् ।  
+> ब्रह्म॒ सोमं॑ म॒घवा॒ सोम॑मु॒क्था यो अश्मा॑नं॒ शव॑सा॒  ॒॑
+> बिभ्रदेति ॥ १ ॥
+
+> *yanna iṃdro jujuṣe yacca vaṣṭi tanno mahānkarati śuṣmā*  
+> *cit |*  
+> *brahma somaṃ maghavā somamukthā yo aśmānaṃ śavasā*  
+> *bibhradeti ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नः । इंद्रः । जुजुषे । यत् । च । वष्टि । तत् । नः । महान् । करति । शुष्मी ।  
+> आ । चित् ।  
+> ब्रह्म । स्तोमं । मघवा । सोमं । उक्था । यः । आश्मानं । शवसा । बिभ्रत् ।  
+> एति ॥ १ ॥
+
+> *yat | naḥ | iṃdraḥ | jujuṣe | yat | ca | vaṣṭi | tat | naḥ | mahān | karati | śuṣmī |*  
+> *ā | cit |*  
+> *brahma | stomaṃ | maghavā | somaṃ | ukthā | yaḥ | āśmānaṃ | śavasā | bibhrat |*  
+> *eti ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो नोऽस्मदीयं यद्धविर्लक्षणान्नादिकं जुजुषे सेवते यच्च हविरादिकं च वष्टि कामयते महान् प्रभूतः शुष्मी बलवानिंद्रः । चिदिति चार्थे ।
+> ब्रह्म चित् हविर्लक्षणपुरोडाशादिकमन्नं च स्तोमं स्तोत्रसमूहं च सोममभिषुतं सोमं चोक्थोक्थानि शस्त्राणि चेत्येवंभूतं तद्ब्रह्मादिचतुष्टयमा
+> करति । आकरोतु । स्वीकरोतु । मघवा धनवान् । अत्राश्मशब्दो वज्रवाची । आश्मानं
+
+##### Gist of the bhāṣya
+
+Indra enjoys (जुजुषे (*jujuṣe*), "serves") whatever oblation of ours, in the form of food, and whatever else, such as the oblation, he desires. महान् (*mahān*) means abundant, great; शुष्मी (*śuṣmī*) means powerful. चित् (*cit*) is used in the sense of "and". The four things are: ब्रह्म (*brahma*), the food in the form of the oblation, such as the cake (पुरोडाश (*puroḍāśa*)); स्तोमं (*stomaṃ*), the collection of praises; सोमं (*somaṃ*), the pressed Soma; and उक्था (*ukthā*), the recitations (शस्त्राणि (*śastrāṇi*)). May he accept (करति (*karati*) = आकरोतु (*ākarotu*), स्वीकरोतु (*svīkarotu*)) that group of four, beginning with ब्रह्म (*brahma*). मघवा (*maghavā*) means the wealthy one. Here the word अश्म (*aśma*) denotes the thunderbolt. The sentence continues in the next block.
+
+### Printed p. 96
+
+> वज्रं बिभ्रत् धारयन् शवसा बलेन युक्तो य इंद्र एति आगच्छति । स इंद्रः
+> स्वीकरोत्वाति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The one who comes bearing (बिभ्रत् (*bibhrat*)) the thunderbolt, endowed with strength (शवसा (*śavasā*)), is Indra; the construction is with the preceding: that Indra is to accept.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the wealthy one
+- अश्मानं (*aśmānaṃ*)—the thunderbolt weapon
+- बिभ्रत् (*bibhrat*)—holding
+- शवसा (*śavasā*)—endowed with strength
+- यः (*yaḥ*)—the Indra who
+- एति (*eti*)—comes; such a one
+- महान् (*mahān*)—of great nature
+- शुष्मी (*śuṣmī*)—powerful
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- यत् (*yat*)—which oblations and the like he enjoys
+- जुजुषे (*jujuṣe*)—enjoys
+- यत् च (*yat ca*)—and which oblations and the like
+- वष्टि (*vaṣṭi*)—he desires; such
+- ब्रह्मचित् (*brahmacit*)—the food in the form of the cake and the like
+- स्तोमं (*stomaṃ*)—the collection of praises
+- सोमं (*somaṃ*)—the pressed Soma
+- उक्ता (*uktā*)—the recitations
+- तत् (*tat*)—these four together
+- आ करति (*ā karati*)—may he accept
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the wealthy one, who comes before us holding the thunderbolt and by its help is of excess power, who is of great nature and powerful, accept together all our food in the form of the cake and the like, the collection of praises, the pressed Soma, and the recitation-mantras, which he desires to enjoy.
+
+##### English translation (H. H. Wilson)
+Since the great and mighty Indra is propitiated by our (oblations), since he desires (them) from us, may he, the possessor of opulence, who comes wielding the thunderbolt by his strength, accept the (sacrificial) food, the hymn, the Soma libation, and the prayers.
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer prays that the mighty Indra, coming to our sacrifice holding the thunderbolt, will accept the food that we offer as oblation, the oblations such as the cake, the praises and the Soma. That is, accepting the invitation of the sacrificers, Indra, endowed with power and bearing the thunderbolt, comes to the sacrificial ground, hears the praises and the like made by the priests, is delighted, accepts the food and cake offered in the sacrifice as oblation, and drinks the prepared Soma juice and becomes satisfied. This is the wish that the seer Vāmadeva has expressed.
+
+### Printed p. 97
+The word शुष्क (*śuṣka*)**NOTE** and the word शवः (*śavaḥ*) are read among the names of strength (Ni. 3-9). The word उक्त (*ukta*) is read among the names of praise (Ni. 3-13), the word ब्रह्म (*brahma*) among the names of wealth (Ni. 3-9), and the word अश्मा (*aśmā*) among the names of cloud (Ni. 2-21). But here the word ब्रह्म (*brahma*) is explained as food, the word उक्त (*ukta*) as praise, and the word अश्मा (*aśmā*) as the thunderbolt.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ वृषं॑धिं॒ चतु॑रत्रि॒मस्य॑न्नु॒ ग्रो बा॒हुभ्यां॒ नृत॑मः॒ शची॑वान् ।  
+> श्रि॒ये परु॑ष्णीमु॒षमा॑ण॒ ऊर्णां॒ यस्याः॒ पर्वा॑णि स॒ख्याय॑  ॒
+> विव्ये ॥ २ ॥
+
+> *vṛṣā vṛṣaṃdhiṃ caturatrimasyannu gro bāhubhyāṃ nṛtamaḥ śacīvān |*  
+> *śriye paruṣṇīmuṣamāṇa ūrṇāṃ yasyāḥ parvāṇi sakhyāya*  
+> *vivye ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । वृषंधिं । चतुःऽअश्रिं । अस्यन् । उग्रः । बाहुभ्यां । नृतमः । शचीऽवान् ।  
+> श्रीये । परुष्ठीं । उषमाणः । ऊर्णां । यस्याः । पर्वाणि । सख्याय । विव्ये ॥ २ ॥
+
+> *vṛṣā | vṛṣaṃdhiṃ | catuḥ 'aśriṃ | asyan | ugraḥ | bāhubhyāṃ | nṛtamaḥ | śacī 'vān |*  
+> *śrīye | paruṣṭhīṃ | uṣamāṇaḥ | ūrṇāṃ | yasyāḥ | parvāṇi | sakhyāya | vivye ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षिता वृषंधिं मेघभेदनद्वारेण वर्षं कुर्वंतं
+> चतुरश्रिं चतुसृभिरश्रिभिर्धाराभिरुपेतं वज्रं बाहुभ्यां हस्ताभ्यामस्यन् शत्रुषु
+> प्रक्षिपन् उग्र उद्धूर्णबलो नृतमः नेतृतमः शचीवान् कर्मवानिंद्र ऊर्णामाच्छादिकां परुष्णीं पर्ववतीं नदीं श्रिय आश्रयणार्थमुषमाणः सेवमानो
+> भवति । यस्या नद्याः पर्वाणि भिन्नान्देशान् सख्याय सखिकर्मणे विव्ये संवृतान् ॥
+
+##### Gist of the bhāṣya
+
+वृषा (*vṛṣā*) is the showerer of desires. वृषंधिं (*vṛṣaṃdhiṃ*) is the thunderbolt that makes rain by splitting the cloud. चतुरश्रिं (*caturaśriṃ*) is the thunderbolt furnished with four edges, i.e. streams. Casting it with his two arms upon the enemies, he is उग्र (*ugra*), of uplifted strength, नृतमः (*nṛtamaḥ*), the best of leaders, शचीवान् (*śacīvān*), possessed of action; this Indra serves, for the sake of refuge (श्रिये (*śriye*)), the Paruṣṇī river, which is ऊर्णां (*ūrṇāṃ*), covering, and परुष्णीं (*paruṣṇīṃ*), having joints. Of that river the joints, i.e. the divided regions, he has enveloped (विव्ये (*vivye*)) for the sake of friendship (सख्याय (*sakhyāya*)), the work of a friend.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the showerer of desires
+- वृषंधिं (*vṛṣaṃdhiṃ*)—that which sends rain by splitting the cloud
+- चतुरश्रिं (*caturaśriṃ*)—the thunderbolt weapon that has four sharp edges
+- बाहुभ्यां (*bāhubhyāṃ*)—with the arms
+- अस्यन् (*asyan*)—casting upon the enemies
+- उग्रः (*ugraḥ*)—one displaying his strength
+- नृतमः (*nṛtamaḥ*)—the best of leaders
+- शचीवान् (*śacīvān*)—the possessor of action, Indra
+- यस्याः (*yasyāḥ*)—
+
+### Printed p. 98
+ of which river
+- पर्वाणि (*parvāṇi*)—the divided regions
+- सख्याय (*sakhyāya*)—to show his friendship
+- दिव्ये (*divye*)—moves about and pervades; such
+- ऊर्णां (*ūrṇāṃ*)—pervading in the form of a flow
+- परुष्टीं (*paruṣṭīṃ*)—the river Paruṣṭī
+- श्रिये (*śriye*)—for increase of prosperity
+- उषमाणः (*uṣamāṇaḥ*)—serves
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the showerer of desires, who sends rain by splitting the cloud, who hurls with his hands upon the enemies the thunderbolt with four sharp edges and so displays his strength, who is fearsome, the best of leaders, the possessor of action, serves, for the increase of prosperity, that very river Paruṣṭī, pervading in the form of a flow, whose divided regions he moved through, pervading everywhere, to show his friendship.
+
+##### English translation (H. H. Wilson)
+The showerer (of benefits), casting with his hands the quadrangular bolt that causes rain, fierce, the chief of leaders, the achiever of (glorious) acts, is desirous of the prosperity of the investing Parushni (river), whose (bordering) districts he has frequented through regard.
+
+##### विशेषविषयगळु (Special Topics)
+
+चतुरश्रिं (*caturaśriṃ*)—In this ṛk the thunderbolt is said to have four edges. In some places it is described as having eight edges. That Indra himself says that Tvaṣṭṛ, the divine craftsman, made this thunderbolt of steel (iron) and gave it to him, in the ṛk मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासो वृजन्नपि क्रतुं । (*mahyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāso vṛjannapi kratuṃ |*) (Ṛ. Saṃ. 10-48-3). In many places the lightning or flash visible among the clouds in the atmosphere is described as Indra's thunderbolt. Although the thunderbolt is ordinarily used when striking Vṛtra, here it is said that Indra uses his thunderbolt also to subdue other enemies. Its description will be given later.
+
+### Printed p. 99
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो दे॒वो दे॒वत॑मो॒ जाय॑मानो म॒हो वाजे॑भिर्म॒हद्वि॑श्च॒ शुष्मैः॑ ।  
+> दधा॑नो॒ वज्रं॑ बा॒ह्वोरु॒शंतं॒ द्याममे॑न रेजय॒त्प  ॑
+> भूम ॥ ३ ॥
+
+> *yo devo devatamo jāyamāno maho vājebhirmahadviśca śuṣmaiḥ |*  
+> *dadhāno vajraṃ bāhvoruśaṃtaṃ dyāmamena rejayatpa*  
+> *bhūma ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । देवः । देवतमः । जायमानः । महः । वाजेभिः । महत्भिः । च । शुष्मैः ।  
+> दधानः । वज्रं । बाह्वोः । उशंतं । द्यां । अमेन । रेजयत् । प्र । भूम ॥ ३ ॥
+
+> *yaḥ | devaḥ | devatamaḥ | jāyamānaḥ | mahaḥ | vājebhiḥ | mahatbhiḥ | ca | śuṣmaiḥ |*  
+> *dadhānaḥ | vajraṃ | bāhvoḥ | uśaṃtaṃ | dyāṃ | amena | rejayat | pra | bhūma ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो दीप्यमानो देवतमो दातृतमो जायमान उत्पद्यमानो य
+> इंद्रो महो महद्भिर्वाजेभिरन्नैर्महद्भिः शुष्मैर्बलैश्च । युक्तोऽभवदिति
+> शेषः । स इंद्रो बाह्वोर्हस्तयोरुशंतं कामयमानं वज्रं दधानो धारयन्
+> अमेन बलेन द्यां द्युलोकं च भूम भूलोकं च प्र रेजयत्। प्रकंपयति स्म॥
+
+##### Gist of the bhāṣya
+
+देवः (*devaḥ*) is the shining one, देवतमः (*devatamaḥ*) the greatest giver; जायमानः (*jāyamānaḥ*) means being born. The Indra who, as soon as born, was endowed with great (महः (*mahaḥ*)) foods (वाजेभिः (*vājebhiḥ*)) and great powers (शुष्मैः (*śuṣmaiḥ*)): "was endowed" is to be supplied. That Indra, holding in his two arms the thunderbolt that is उशंतं (*uśaṃtaṃ*), desiring, by his strength (अमेन (*amena*)) made heaven (द्यां (*dyāṃ*)) and earth (भूम (*bhūma*)) tremble (प्र रेजयत् (*pra rejayat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the shining one
+- देवतमः (*devatamaḥ*)—the best among generous givers
+- यः (*yaḥ*)—the Indra who
+- जायमानः (*jāyamānaḥ*)—as soon as born
+- महः (*mahaḥ*)—great
+- वाजेभिः (*vājebhiḥ*)—with foods
+- महद्भिः (*mahadbhiḥ*)—of excessive quality
+- शुष्मैः (*śuṣmaiḥ*)—with powers, was endowed; such Indra
+- बाह्वोः (*bāhvoḥ*)—with the arms
+- उशंतं (*uśaṃtaṃ*)—the desired
+- वज्रं (*vajraṃ*)—thunderbolt weapon
+- दधानः (*dadhānaḥ*)—holding
+- अमेन (*amena*)—by strength
+- द्यां (*dyāṃ*)—heaven
+- भूम (*bhūma*)—earth
+- प्ररेजयत् (*prarejayat*)—was making tremble
+
+##### भावार्थ (Bhāvārtha)
+
+The shining Indra, best among generous givers, who as soon as born was endowed with great foods and with powers of excessive quality, holding in his arms the thunderbolt that he desired, was making heaven and earth
+
+### Printed p. 100
+ tremble by his own power.
+
+##### English translation (H. H. Wilson)
+Who divine, most divine, as soon as born (was endowed) with abundant viands, and great energies, holding in his arms the willing thunderbolt, and causing by his strength (both) heaven and earth to tremble.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here it is said that Indra by his strength made heaven and earth tremble. Likewise in places such as अरेजेतां रोदसी भियाने कनिक्रदतो वृष्णो अस्य वज्रान् । (*arejetāṃ rodasī bhiyāne kanikradato vṛṣṇo asya vajrān |*) (Ṛ. Saṃ. 2-11-9) it is said that heaven and earth trembled, fearing the strength of Indra who holds the thunderbolt.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ रोधां॑सि प्र॒वत॑श्च पू॒र्विद्यौर्ऋ॒ष्वाज्जनि॑मन्रेजत॒ क्षाः ।  
+> आ मा॒तरा॒ भर॑ति शु॒ष्मा गोर्नृ॒वत्परि॑ज्मन्नोनुवंत॒ वाताः॑ ॥४॥
+
+> *viśvā rodhāṃsi pravataśca pūrvidyaurṛṣvājjanimanrejata kṣāḥ |*  
+> *ā mātarā bharati śuṣmā gornṛvatparijmannonuvaṃta vātāḥ ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । रोधांसि । प्रवतः । च । पूर्वीः । द्यौः । ऋष्वात् । जनिमन् । रेजत । क्षाः।  
+> आ । मातरा । भरति । शुष्मी । आ । गोः । नृवत् । परिज्मन् । नोनुवंत । वाताः ॥ ४ ॥
+
+> *viśvā | rodhāṃsi | pravataḥ | ca | pūrvīḥ | dyauḥ | ṛṣvāt | janiman | rejata | kṣāḥ|*  
+> *ā | mātarā | bharati | śuṣmī | ā | goḥ | nṛvat | parijman | nonuvaṃta | vātāḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वा विश्वानि रोधांसि । रोधःशब्देनोन्नतप्रदेशा उच्यंते। उन्नतप्रदेशाः
+> पर्वताश्च पूर्वीः पूर्वो बहूनि प्रवतः प्रवणानि । समुद्राश्चेत्यर्थः । द्यौर्मु-
+
+##### Gist of the bhāṣya
+
+विश्वा (*viśvā*) means all रोधांसि (*rodhāṃsi*). By the word रोधः (*rodhaḥ*) elevated places are meant, that is, mountains. पूर्वीः (*pūrvīḥ*) means many. प्रवतः (*pravataḥ*) are low places, that is, oceans. The explanation of द्यौः (*dyauḥ*) begins at the end of the block, which breaks off here.
+
 ---
 
-**Progress note:** Done through printed p. 94. pp. 89-94 (batch API)
+**Progress note:** Done through printed p. 100. pp. 95-100 (batch API)
