@@ -13019,6 +13019,174 @@ The etymology is that what has the power to pervade everything is known by the n
 
 It says that one who worships water as Brahman obtains all the aims of human life. But here it does not mean water as the complete Brahman. Water and fire are all parts of Brahman. Even so,
 
+### Printed p. 369
+
+Identity is stated; and it is also made known that the world of waters is a created world and not something existing before the creation of the universe:
+
+आत्मा वा इदमेक एवाग्र आसीन्नान्यत्किंचन मिषत् । स ई क्षत । लोकान्नु सृजा इति । इमांल्लोकानसृजत । अंभोमरीचीर्मरमापः । (*ātmā vā idameka evāgra āsīnnānyatkiṃcana miṣat | sa ī kṣata | lokānnu sṛjā iti | imāṃllokānasṛjata | aṃbhomarīcīrmaramāpaḥ |*) (Ai. Ā. 9-4-1) **NOTE**
+
+It says: before the creation of the universe only this principle of the Self existed; nothing else existed. Then, desiring the work of creation, it created these four worlds: Ambhaḥ, Marīci, Mara and Āpaḥ. Of these, Ambhaḥ is the heavenly world. [Ambhaḥ commonly means water, but in this quoted sentence it means the heavenly world, which lies above the atmosphere.] Marīci is the atmosphere pervaded by radiance. Mara, subject to death, is this earth. What lies below this is the world of waters (Āpaḥ). Ordinarily only the three divisions heaven, earth and atmosphere are well known, but here a fourth is added.
+
+If such contexts are examined, a difference appears between the atmosphere as explained in the bhāṣya on the present Ṛk and the world called Āpaḥ explained in the quoted sentence. Even so, because of its pervasiveness the derivation of the word Āpaḥ fits both places. Whether it be the atmosphere or the world below the earth, the purport is that everything is nourished by the grace of Savitṛ.
+
+उर्वी रोदसी (*urvī rodasī*)—the very extensive heaven and earth. From a gross point of view the epithet उर्वी (*urvī*) for the word रोदसी (*rodasī*) seems slightly unsuitable. The word उर्वी (*urvī*) means "very extended". रोदसी द्यावापृथिव्य विरोधनात् (*rodasī dyāvāpṛthivya virodhanāt*): because heaven and earth are bound and limited by a bounded limit (sīmā), they have the synonym रोदसी (*rodasī*). So the doubt arises naturally that the epithet उर्वी (*urvī*), which shows wide extent, cannot suit a world that is limited and bound. The Nirukta-author has read the word उर्वी (*urvī*) among the names of the earth and again among the names of "heaven and earth" (Ni. 1-1; 1-30). So it cannot be said that there is any incongruity here. Since the word रोदसी (*rodasī*) is here a synonym of heaven and earth, उर्वी (*urvī*) must be taken to mean "extended". It is a very meaningful word for indicating greatness and extent.
+
+अयं मे पीत उदियर्ति वाचमयं मनीषामुशतीमजीगः । अयं षळुर्वीरमिमीत धीरो न याभ्यो भुवनं कच्चनारे ॥ (*ayaṃ me pīta udiyarti vācamayaṃ manīṣāmuśatīmajīgaḥ | ayaṃ ṣaḷurvīramimīta dhīro na yābhyo bhuvanaṃ kaccanāre ‖*) (Ṛ. Saṃ. 6-47-3)
+
+### Printed p. 370
+
+This King Soma has created the six Urvīs; no region in the world lies beyond these Urvīs. These six are all-pervading. When this is said, which are these six Urvīs? They are the earth, the heavenly world, day, night, the waters and the plants. How? In the Śatapatha mantra
+
+षण्मोर्वीर्गंहसस्पांत्वग्निश्च पृथिवी चापश्च वाजश्च रात्रिश्चेता मा देवताः (*ṣaṇmorvīrgaṃhasaspāṃtvagniśca pṛthivī cāpaśca vājaśca rātriścetā mā devatāḥ*) (Śa. Brā. 1-5-1-22)
+
+there is an enumeration of which these Urvīs are. On this basis Sāyaṇa quoted this Brāhmaṇa sentence and explained as stated above. The same is continued and explained in the Ṛk-saṃhitā too; each Urvī is described with an epithet.
+
+अयं स यो वरिमाणं पृथिव्या वर्षाणं दिवो अकृणोदयं सः । अयं पीयूषं त्रिसृषु प्रवत्सु सोमो दाधारोर्वं १ तरिक्षं ॥ अयं विदच्चित्रदृशीकमर्णः शुक्रसद्मनामुषसामनीके । अयं महान्महता स्यंभनेनोद्द्यामस्तभ्नाद्वषभो मरुत्वान् ॥ (*ayaṃ sa yo varimāṇaṃ pṛthivyā varṣāṇaṃ divo akṛṇodayaṃ saḥ | ayaṃ pīyūṣaṃ trisṛṣu pravatsu somo dādhārorvaṃ 1 tarikṣaṃ ‖ ayaṃ vidaccitradṛśīkamarṇaḥ śukrasadmanāmuṣasāmanīke | ayaṃ mahānmahatā syaṃbhanenoddyāmastabhnādvaṣabho marutvān ‖*) (Ṛ. Saṃ. 6-47-4, 5)
+
+This Soma made the extent of the earth still greater; he increased the height of the heavenly world; he caused the three kinds of plants to spread throughout the universe; he increased the very extended atmosphere; he lit the world-attracting light of the sun endlessly; likewise he caused the middle world to become extended; and so on: the extension of all the worlds indicated by the word उर्वी (*urvī*) is described. Besides:
+
+आ यः पप्र जायमान उर्वी दूरेदृशा भासा कृष्णाध्वा । (*ā yaḥ papra jāyamāna urvī dūredṛśā bhāsā kṛṣṇādhvā |*) (Ṛ. Saṃ. 6-10-4)
+
+Agni, whose path is black, as soon as he was born pervaded the very extended Urvīs, that is, all of heaven and earth. Here the word Urvī is a synonym for heaven and earth only; or it may be a synonym for the earth alone. For example:
+
+उर्वाः पदो नि दधाति सानौ रिंहत्योधो अरुषासो अस्य ॥ (*urvāḥ pado ni dadhāti sānau riṃhatyodho aruṣāso asya ‖*) (Ṛ. Saṃ. 1-146-2)
+
+Agni sets his foot on the altar of the earth, very extended and high like a peak; so here the word Urvī indicates the earth alone.
+
+Thus, when the word Urvī indicates endless extension, is this epithet fitting for Rodasī, which has a fixed limit? Here it may be said that the epithet is entirely proper.
+
+### Printed p. 371
+
+How? The etymology विरोधनाद्रोदसी (*virodhanādrodasī*) can be given only in one context; the pervasiveness to be indicated by the word रोदसी (*rodasī*) is itself well known. With this purport, when describing the nature of the Aśvin deities too (?), because this pervasiveness exists, identity of the Aśvin deities with heaven and earth is stated. **NOTE**
+
+अथ यदश्विनावितीमे ह वै द्यावापृथिवी प्रत्यक्षमश्विनाविमे हीदग्ंसर्वमाश्नुनातां पुष्करस्रजावित्यग्निरेवास्यै पुष्करमादित्योऽमुष्यै (*atha yadaśvināvitīme ha vai dyāvāpṛthivī pratyakṣamaśvināvime hīdagṃsarvamāśnunātāṃ puṣkarasrajāvityagnirevāsyai puṣkaramādityo 'muṣyai*) (Śa. Brā. 4-1-5-16)
+
+The Aśvin deities are directly manifest in this very form of heaven and earth. Because they have a nature that pervades every region, they have this name. They are called Puṣkara-srajas. Agni and Āditya are these Puṣkaras: Agni is the lotus (puṣkara) of the earth, Āditya that of the heavenly world.
+
+शौर्णवाभोः दृच्छेत्वस्मिन् अश्विनौ मन्यते स्तुता । अहोरात्रौ च तावेव स्यातां तावेन रोदसी ॥ (*śaurṇavābhoḥ dṛcchetvasmin aśvinau manyate stutā | ahorātrau ca tāveva syātāṃ tāvena rodasī ‖*) (Bṛ. De. 7-126)
+
+An opinion that this very heaven and earth, well known as Rodasī, are also well known as the Aśvin deities has been cited in the Bṛhaddevatā and other works. It is because of this attribute of pervasiveness that the name arises; therefore the epithet उर्वी (*urvī*) is proper.
+
+The word रोदसी (*rodasī*) is used in the dual, but in some places it is also used in the singular. In those contexts it is not easy to say definitely what it means. In some cases the word occurs in one and the same mantra in both the first half and the second half; then a different meaning has to be given for each occurrence. For example:
+
+इदुग्राः शवसा धृष्णुषेणा उभे युजंत रोदसी सुमेके ! अध स्मैषु रोदसी स्वशोचिरामवत्सु तस्थौ न रोकः ॥ (*idugrāḥ śavasā dhṛṣṇuṣeṇā ubhe yujaṃta rodasī sumeke ! adha smaiṣu rodasī svaśocirāmavatsu tasthau na rokaḥ ‖*) (Ṛ. Saṃ. 6-66-6)
+
+This mantra praises the Maruts. The meaning of the first sentence is that these Maruts yoke both heaven and earth; and the meaning of the second sentence is that Rodasī unites her radiance in these Maruts. But who is this Rodasī? Sāyaṇa has explained it as the middle speech (mādhyamikā vāk). One view is that this Rodasī is the wife of Rudra.
+
+### Printed p. 372
+
+Another view is that she is the wife of the Maruts. "Wife of Rudra" means the mother of the Maruts. Rudra is Vāyu. This wife of Vāyu is the middle speech. The radiance in the form of lightning in that speech, joined with thunder, is called Rodasī. Supporting this very view:
+
+रोदसी देवपत्नीनां अथर्वांगिरसे यथा (*rodasī devapatnīnāṃ atharvāṃgirase yathā*) (Bṛ. De. 2-143)
+
+According to the Atharvāṅgirasa view, Rodasī is one of the wives of the gods: here is an example with the singular used. Even in such places, since the attribute of pervasiveness is present, the epithet उर्वी (*urvī*) is natural. In the present mantra the meaning is: heaven and earth, very extended and all-pervading.
+
+सवितुः (*savituḥ*)—सवाय (*savāya*)—these two words also describe the nature of Savitṛ. Because he is the impeller of the world, the impelling function of the deity known by the word Savitṛ is described by these words. This attribute of Savitṛ will be explained further on. Mitra and Varuṇa, and heaven and earth, though they are purifiers of the world, maintainers of the world's order, givers of wealth and possessed of the highest greatness, all have their activity accomplished only by the impulsion of this Savitṛ: this is the purport of the description.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिरु॑त्त॒मा दू॒णशा॑ रोच॒नानि॒ त्रयो॑ राजं॒त्यसु॑रस्य वी॒राः ।  
+> ऋ॒तवा॑न इषि॒रा दू॒ळभा॑स॒स्त्रिरा दि॒वो वि॒दथे॑ संतु दे॒वाः ॥८॥
+
+> *triruttamā dūṇaśā rocanāni trayo rājaṃtyasurasya vīrāḥ |*  
+> *ṛtavāna iṣirā dūḷabhāsastrirā divo vidathe saṃtu devāḥ ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । उत्तमा । दुःनशा । रोचनानि । त्रयः । राजंति । असुरस्य । वीराः ।  
+> ऋतवानः । इषिराः । दुःदभासः । त्रिः । आ । दिवः । विदथे । संतु । देवाः ॥ ८ ॥
+
+> *triḥ | uttamā | duḥnaśā | rocanāni | trayaḥ | rājaṃti | asurasya | vīrāḥ |*  
+> *ṛtavānaḥ | iṣirāḥ | duḥdabhāsaḥ | triḥ | ā | divaḥ | vidathe | saṃtu | devāḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूणशा दुर्नशा केनापि विनाशयितुमशक्यानि रोचनानि दीप्यमानानि त्रिस्त्रिण्यंतमानि स्थानानि संति । एतेषु त्रिषु स्थानेष्टसुरस्य । अस्यति क्षिपति सर्वमित्यसुरः
+> कालात्मा संवत्सरः । तस्य वीराः पुत्रास्त्रयोऽग्नि वायुसूर्यरूपा राजंति
+> शोभंते । तानेव विशिनष्टि । ऋतावानः । ऋतं सत्यभूतमग्निहोत्रादिकं कर्म
+
+##### Gist of the bhāṣya
+
+दूणशा (*dūṇaśā*) is दुर्नशा (*durnaśā*): the bright (रोचनानि (*rocanāni*), shining) places, that cannot be destroyed by anyone, are three in number, the highest. In these three places there are the sons (वीराः (*vīrāḥ*)) of the Asura. Asura is he who throws out (अस्यति (*asyati*)) everything: the year, whose nature is Time. His three sons, in the forms of Agni, Vāyu and Sūrya, shine. He now qualifies them: ऋतावानः (*ṛtāvānaḥ*); ऋतं (*ṛtaṃ*) is the rite such as the Agnihotra, which is true (the text breaks off here and continues on the next page).
+
+### Printed p. 373
+
+> तद्वंतः । इषिरा यज्ञार्थं शीघ्रगतिमंतो दूळभासो दुर्दभासः केनापि स्वतेजसा तिरस्कर्तुमशक्या एते सर्वे देवा विदथेऽस्मदीये यज्ञे दिवोऽह्नः संबंधिषु
+> त्रिस्त्रिषु सवनेष्वा संतु । समंताद्यजनीयतया भवंतु ॥ उत्तमा । उत्तमशश्वत्तमौ
+> सर्वत्रेत्युंभादिषु पाठादंतोदात्तत्वं । दूणशा । नशेः कृच्छार्थे खल् । दुरो
+> दाशनाशदभेषूत्वं वक्तव्यमिति रेफस्योत्वं । उत्तरपदादेः ष्टुत्वं । लित्स्वरः ।
+> दूळभासः । पूर्ववदुत्वष्टुत्वे ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) Those who possess it (the ṛta). इषिरा (*iṣirā*): swift-moving for the sacrifice. दूळभासः (*dūḷabhāsaḥ*) is दुर्दभासः (*durdabhāsaḥ*): that cannot be overcome by anyone with his own radiance. May all these deities be present at our sacrifice (विदथे (*vidathe*)), in each of the three libations belonging to the day (दिवः (*divaḥ*)): that is, may they be there on all sides as worthy of worship. (The rest of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूणशा (*dūṇaśā*)—beyond destruction
+- रोचनानि (*rocanāni*)—shining
+- उत्तमा त्रिः (*uttamā triḥ*)—there are three highest places (in these places)
+- असुरस्य (*asurasya*)—of the year, whose nature is time
+- वीराः त्रयः (*vīrāḥ trayaḥ*)—the three sons in the forms of Agni, Vāyu and Sūrya
+- राजंति (*rājaṃti*)—shine
+- ऋतावानः (*ṛtāvānaḥ*)—those whose rite is of the nature of truth
+- इषिरः (*iṣiraḥ*)—swift-moving for the sacrifice
+- दूळभासः (*dūḷabhāsaḥ*)—those whose radiance cannot be checked
+- देवाः (*devāḥ*)—the deities
+- विदथे (*vidathe*)—in the sacrifices
+- दिवः (*divaḥ*)—of each day
+- त्रिः (*triḥ*)—also at the time of the three libations
+- आ संतु (*ā saṃtu*)—may they come as worthy of worship and sit
+
+##### भावार्थ (Bhāvārtha)
+
+There are three highest places, beyond destruction and shining. In these places Agni, Vāyu and Sūrya, the sons in form of the year whose nature is time, shine. May the deities, whose rite is of the nature of truth, who are swift-moving for the sacrifice and whose radiance cannot be checked, come in the sacrifices, at the times of the three libations of each day too, as worthy of worship, and sit.
+
+##### English translation (H. H. Wilson)
+Three are the excellent uninjurable bright regions, three scions of the powerful (year) are shining; practisers of truth, quick-moving of surpassing radiance: may the deities be present thrice daily at the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present mantra the three worlds beginning with the earth, and the greatness of the presiding deities of the three worlds, Agni and the others, are praised. To make known the nature of the three worlds indicated by त्रिः (*triḥ*) there are three epithets: दूणशा (*dūṇaśā*), रोचनानि (*rocanāni*), उत्तमा (*uttamā*). The bhāṣya does not specify which the highest places are. But वीराः त्रयः (*vīrāḥ trayaḥ*) must be understood as the worlds of Agni, Vāyu and heaven. Ordinarily these worlds are often specified by epithets that show their individual peculiarity.
+
+### Printed p. 374
+
+For example: उर्वि (*urvi*), पृथिवी (*pṛthivī*), अपरा (*aparā*) and the like show the extent of the earth; भूमिः (*bhūmiḥ*) shows that the earth is the place of origin for beings; मही (*mahī*), उत्ताना (*uttānā*) and the like show its height. In many places the earth is indicated merely by the word इदं (*idaṃ*); in such contexts it means what is distinct from the worlds above. Epithets such as दिवि (*divi*), रोचन (*rocana*), व्योम (*vyoma*) describe the radiance of the atmosphere; सानु (*sānu*), विष्टप (*viṣṭapa*), पृष्ठ (*pṛṣṭha*) indicate its height. In some places it is even hard to say what the difference between the atmosphere and the heavenly world is. For example, if there is a difference between atmosphere and heaven (द्यौः (*dyauḥ*)), it is hard to say whether the word रोदसी (*rodasī*) means earth and atmosphere or heaven and earth.
+
+The epithet or synonym रजस् (*rajas*) often indicates the atmosphere. But, just as in the present Ṛk there is the epithet उत्तमा (*uttamā*), रजस् (*rajas*) too is a word that can indicate the three worlds. In such contexts the epithets तृतीय (*tṛtīya*), उत्तम (*uttama*), परम (*parama*) tell which of the three worlds is meant; but there too one must say according to the context. For example:
+
+सहस्रधारेव ता असश्च तस्य तीये संतु रजसि प्रजावतीः । (*sahasradhāreva tā asaśca tasya tīye saṃtu rajasi prajāvatīḥ |*) (Ṛ. Saṃ. 9-74-6)
+
+Here तृतीये रजसि (*tṛtīye rajasi*) is explained as heaven; one may say the heavenly world.
+
+समुद्रे त्वा नृमणा अप्पं १ तर्नृचक्षा ईधे दिवो अग्न ऊधन् । तृतीये त्वा रजसि तस्थिवांसमपामुपस्थे महिषा अवर्धन् ॥ (*samudre tvā nṛmaṇā appaṃ 1 tarnṛcakṣā īdhe divo agna ūdhan | tṛtīye tvā rajasi tasthivāṃsamapāmupasthe mahiṣā avardhan ‖*) (Ṛ. Saṃ. 10-45-3)
+
+Here there is the word दिवः (*divaḥ*) indicating the heavenly world. In this context तृतीये रजसि (*tṛtīye rajasi*) is explained as the atmosphere. The word तृतीय (*tṛtīya*) is not explained as "the third world" but explained otherwise. In उतेदमुत्तमं रजः (*utedamuttamaṃ rajaḥ*) (9-22-5) the "highest region" is understood as the heavenly world.
+
+तिस्रो द्यावो निहिता अंतरस्मिंस्तिस्रो भूमीरुपराः षड्विधानाः । गृत्सो राजा वरुणश्चक्र एतं दिवि प्रेंखं हिरण्ययं शुभे कं ॥ (*tisro dyāvo nihitā aṃtarasmiṃstisro bhūmīruparāḥ ṣaḍvidhānāḥ | gṛtso rājā varuṇaścakra etaṃ divi preṃkhaṃ hiraṇyayaṃ śubhe kaṃ ‖*) (Ṛ. Saṃ. 7-87-5)
+
+Here, as stated earlier in the mantra त्रिपाजस्यः (*tripājasyaḥ*) of the present sūkta (3-56-3), the heavenly world and the earth are shown as threefold by तिस्रः द्यावः (*tisraḥ dyāvaḥ*) and तिस्रः भूमीः (*tisraḥ bhūmīḥ*), and the atmosphere is stated in the singular. It is also a special feature that दिवि (*divi*) is used as a synonym of the atmosphere.
+
+### Printed p. 375
+
+त्रिरश्विना सिंधुभिः सप्तमातृभिस्त्रय आहवास्त्रेधा हविष्कृतं । तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितं ॥ (*triraśvinā siṃdhubhiḥ saptamātṛbhistraya āhavāstredhā haviṣkṛtaṃ | tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitaṃ ‖*) (Ṛ. Saṃ. 1-34-8)
+
+Here the word नाक (*nāka*) indicates the fourth world. "पृथिव्यादिलोकेभ्यः ऊर्ध्वं आदित्यलोकं (*pṛthivyādilokebhyaḥ ūrdhvaṃ ādityalokaṃ*)": it is explained as the world of Āditya lying above the three worlds beginning with the earth. In many places the fourth world is described, as shown by the contexts. For example:
+
+चमूषच्छेनः शकुनो विभृत्वा गोविंदुर्द्रप्स आयुधानि बिभ्रत् । अपामूर्मिं सचमानः समुद्रं तुरीयं धाम महिषो विवक्ति ॥ (*camūṣacchenaḥ śakuno vibhṛtvā goviṃdurdrapsa āyudhāni bibhrat | apāmūrmiṃ sacamānaḥ samudraṃ turīyaṃ dhāma mahiṣo vivakti ‖*) (Ṛ. Saṃ. 9-96-19)
+
+King Soma, having traversed the entire atmosphere, then entered the fourth abode (तुरीयधाम (*turīyadhāma*)) and moved about there: thus it is made known that the fourth world is beyond the well-known three worlds, and that it is the world of Āditya. The greatness of this fourth world will be shown later when the Gāyatrī mantra is explained; here only its distinctness may be noted. Sāyaṇa here says तुरीयं चतुर्थं धाम चांद्रमसं स्थानं सेवते । सूरलोकस्योपरि चंद्रमसः लोकः विद्यते । (*turīyaṃ caturthaṃ dhāma cāṃdramasaṃ sthānaṃ sevate | sūralokasyopari caṃdramasaḥ lokaḥ vidyate |*), that is, that this fourth world is known as the world of the moon and is beyond the solar world. But that this fourth world is described as the world of Āditya in the Upaniṣads and other works may be examined later. Even where it says तिस्रः पृथिवीः त्रीणि रोचना (*tisraḥ pṛthivīḥ trīṇi rocanā*), the meaning has to be given according to the context.
+
+त्रिरुत्तराणि पप्रतुर्वरुणस्य ध्रुवं सदः स सप्तानामिरज्यति नभंतामन्यके समे । (*triruttarāṇi papraturvaruṇasya dhruvaṃ sadaḥ sa saptānāmirajyati nabhaṃtāmanyake same |*) (Ṛ. Saṃ. 8-41-9)
+
+Here it is said that the rays of Varuṇa pervaded not only the three earths but, passing beyond them, the three highest worlds (उत्तराणि त्रिः (*uttarāṇi triḥ*)): a threefold world beyond the worlds beginning with the earth. Descriptions such as तिस्रः परावतो दिवः (*tisraḥ parāvato divaḥ*) (8-5 8) indicate the same point. **NOTE**. One of the mantras that give room for disagreement may be taken as an example and examined.
+
+तिस्रो द्यावः सवितुर्दा उपस्था एका यमस्य भुवने विराषाट् । आणिं न रथ्यममृताधि तस्थुरिह ब्रवीतु य उ तच्छिकेतत् ॥ (*tisro dyāvaḥ saviturdā upasthā ekā yamasya bhuvane virāṣāṭ | āṇiṃ na rathyamamṛtādhi tasthuriha bravītu ya u tacchiketat ‖*) (Ṛ. Saṃ. 1-35-6)
+
+Of the three kinds of heavenly worlds, two belong to Savitṛ and one to Yama. Just as all the parts of a chariot rest on the linchpin and are joined depending on it, all the deathless worlds on this (the text breaks off here and the next window continues it).
+
 ---
 
-**Progress note:** Done through printed p. 368. pp. 363-368 (batch API)
+**Progress note:** Done through printed p. 375. pp. 369-375 (batch API)
