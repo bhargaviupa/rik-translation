@@ -28918,6 +28918,299 @@ Giver of sustenance, (Agni), your favour is free from fault, like clarified butt
 
 O ऋतावः (*ṛtāvaḥ*), truthful Agni: कृतं चित् (*kṛtaṃ cit*), even what has been done by the sacrificer, सनेमि (*sanemi*), of long standing; सनेमि (*sanemi*) is a name for "ancient", since it is read among the names of what is ancient (*sanemi pūrvam*). द्वेषः (*dveṣaḥ*), sin, from the mortal, the human sacrificer, इत्था (*itthā*), truly; इत्था (*itthā*) is a name for "truth", since it is read among the names of truth (*addha itthā*). इनोषि हि स्म (*inoṣi hi sma*): you indeed drive it away, that is, you destroy it.
 
+### Printed p. 881
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावः (*ṛtāvaḥ*)—O truthful one
+- अग्ने (*agne*)—O Agni
+- कृतं (*kṛtaṃ*)—done by the sacrificer
+- द्वेषः (*dveṣaḥ*)—the sin
+- सनेमि चित् (*sanemi cit*)—even though extremely ancient
+- मर्तात् यजमानात् (*martāt yajamānāt*)—from that same human sacrificer
+- इत्था (*itthā*)—certainly
+- इनोषि हि स्म (*inoṣi hi sma*)—you do indeed destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O truthful Agni, the sin committed by the sacrificer, even though it is extremely ancient, you favour (him) and destroy it without fail from that same human sacrificer.
+
+##### English translation (H. H. Wilson)
+Truthful Agni, verily you remove from the mortal who institutes (your) worship, whatever sin has been committed (by him) of old-
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शि॒वा नः॑ स॒ख्या संतु॑ भ्रा॒त्राग्ने॑ दे॒वेषु॑ यु॒ष्टे ।  
+> सा नो॒ नाभिः॒ सद॑ने॒ सस्मि॒न्नूध॑न् ॥ ८ ॥
+
+> *śivā naḥ sakhyā saṃtu bhrātrāgne deveṣu yuṣṭe |*  
+> *sā no nābhiḥ sadane sasminnūdhan ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिवा । नः । सख्या । संतु । भ्रात्रा । अग्ने । देवेषु । युष्टे इति ।  
+> सा । सः । नाभिः । सदने । हस्मिन् । ऊधन् ॥ ८ ॥
+
+> *śivā | naḥ | sakhyā | saṃtu | bhrātrā | agne | deveṣu | yuṣṭe iti |*  
+> *sā | saḥ | nābhiḥ | sadane | hasmin | ūdhan ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मदीयानि सख्या सख्यानि सखित्वानि भ्रात्रा भ्रातृणि भ्रातृसंबंधीनि कर्माणि देवेषु द्योतमानेषु युष्टे युष्मासु ॥ सुपां सुलुगिति सप्तमीबहुवचनस्य शेआदेशः ॥ शिवा शिवानि संतु । मंगलानि भवंतु । सा सखित्वभ्रातृकर्मसंततिः सदने देवानां स्थाने सस्मिन्नूधनि सर्वस्मिन्यज्ञे नोऽस्माकं नाभिर्बंधनं
+> भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, our friendly and fraternal rites (सख्या (*sakhyā*) = friendships, भ्रात्रा (*bhrātrā*) = rites connected with brotherhood), directed to you, the shining gods (युष्टे (*yuṣṭe*) = in you; the seventh-case plural takes the substitute शे (*śe*)), be auspicious; may they be blessed. That succession of rites of friendship and brotherhood, in the dwelling (सदने (*sadane*)), the place of the gods, in every sacrifice (सस्मिन्नूधन् (*sasminnūdhan*)), becomes our bond.
+
+> [56] Vol 17.
+
+### Printed p. 882
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—done by us
+- सख्या (*sakhyā*)—those of the nature of friendship
+- भ्रात्रा (*bhrātrā*)—and those with brotherly affection: the rites
+- देवेषु (*deveṣu*)—the shining
+- युष्मे (*yuṣme*)—joining you**NOTE**
+- शिवा (*śivā*)—being auspicious
+- संतु (*saṃtu*)—let them be
+- सा (*sā*)—that same spirit of friendship
+- सदने (*sadane*)—the dwelling-place of the gods
+- सस्मिन्नूधन् (*sasminnūdhan*)—in all sacrifices
+- नः (*naḥ*)—our
+- नाभिः (*nābhiḥ*)—let it be the maker of connection
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may the rites done by us, of the nature of friendship and with brotherly affection, joining you the shining ones, be auspicious. May that same spirit of friendship, in all the sacrifices, the dwelling-place of the gods, be the maker of our connection.
+
+##### English translation (H. H. Wilson)
+May our friendly and fraternal attentions to you deities prove fortunate ; for such (attentions shewn) in every sacrifice (form) our security in the spehre (of the gods).
+
+## Sūkta 11 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाक एकादश सूक्तानि । तत्र भद्रं त इति षडृचं प्रथमं सूक्तं
+> नामदेवस्यार्षं तिष्टुप्पंदस्कमग्निदेवताकं । भद्रं षडित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रत्ौ त्रैष्टुभे छंदसीदमादिके द्वे सूक्ते विनियुक्ते।
+> तथा च सूत्रितं । भद्रं ते अग्न इति सूक्ते । आ. ४-१३ । इति ॥
+> अनुवादवु—नाल्कनॆय मंडलद ऎरडनॆय अनुवाकदल्लि हन्नॊंदु सूक्तगळिरुववु.
+> अवुगळल्लि भद्रं ते ऎंब ई सूक्तवु मॊदलनॆयदु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ
+> वामदेवनु ऋषियु ; अग्नियु देवतॆयु ; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि—भद्रं षट्
+> ऎंदु हेळिरुवुदु. प्रातरॆनुवाक मत्तु आश्विनशस्त्रमंत्रगळ पठनकालदल्लि आग्नेयक्रतु संबंध
+> वाद त्रिष्टुप्‌छंदस्सिन मंत्रगळिगागि ई सूक्त मत्तु मुंदिन सूक्तद विनियोगविरुवुदॆंदु
+> आश्वलायनशौतसूत्रद--भद्रं ते अग्नि इति सूक्ते ऎंब सूत्रदिंद (आ ४-१३) विवृत
+> वागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+In the second anuvāka there are eleven sūktas. Of them the first is भद्रं ते (*bhadraṃ te*), of six ṛks; its seer is Vāmadeva, the deity Agni, the metre Triṣṭubh. The Anukramaṇikā says भद्रं षट् (*bhadraṃ ṣaṭ*). This sūkta and the next are applied, for the Triṣṭubh verses of the Āgneya kratu, at the recitation of the Prātaranuvāka and the Āśvina-śastra. So it is stated in the sūtra भद्रं ते अग्न इति सूक्ते (*bhadraṃ te agna iti sūkte*) (Ā. 4-13).
+
+*Anuvāda:* In the second anuvāka of the fourth maṇḍala there are eleven sūktas. Of them this sūkta भद्रं ते (*bhadraṃ te*) is the first, with six ṛks. Vāmadeva is its seer, Agni its deity, Triṣṭubh its metre. The Anukramaṇikā says भद्रं षट् (*bhadraṃ ṣaṭ*). The application of this and the next sūkta, for the Triṣṭubh mantras of the Āgneya kratu at the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras, is explained by the sūtra भद्रं ते अग्न इति सूक्ते (*bhadraṃ te agna iti sūkte*) of the Āśvalāyana-śrauta-sūtra (Ā. 4-13).
+
+### Printed p. 883
+
+##### Particulars
+
+> सूक्त—११
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—११ ॥
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—११ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—अग्निः ॥
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रं ते॑ अग्ने सहसि॒न्ननी॑कमुपा॒क आ रो॑चते॒ सूर्य॑स्य ।  
+> रुश॑द्दृ॒शे द॑दृशे नक्त॒या चि॒दरू॑क्षितं दृ॒श आ रू॒पे अन्नं॑ ॥
+
+> *bhadraṃ te agne sahasinnanīkamupāka ā rocate sūryasya |*  
+> *ruśaddṛśe dadṛśe naktayā cidarūkṣitaṃ dṛśa ā rūpe annaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । ते । अग्ने । सहसिन् । अनेकं । उपाके । आ । रोचते । सूर्यस्य ।  
+> रुशत् । दृशे । ददृशे । नक्तया । चित् । अरूक्षितं । दृशे । आ । रूपे । अन्नं ॥ १ ॥
+
+> *bhadraṃ | te | agne | sahasin | anekaṃ | upāke | ā | rocate | sūryasya |*  
+> *ruśat | dṛśe | dadṛśe | naktayā | cit | arūkṣitaṃ | dṛśe | ā | rūpe | annaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसिन् बलवन्नग्ने ते त्वदीयं भद्रं भजनीयमनीकं तेजः सूर्यस्योपाके समीपभूते । दिवस इत्यर्थः । आ रोचते । समंताद्दीप्यते । रुशद्रोचमानं दृशे दर्शनीयं तेजो नक्तया चिद्रात्रावपि ददृशे । दृश्यशे । आ
+> इत्ययं शब्दश्चेत्यर्थे वर्तते । आ किंच अरूक्षितु स्निग्धं दृशे दर्शनीयमन्नं
+> पुरोडाशादिरूपं हवी रूपे रूपवति त्वय्यत्विगादिभिर्हुतं भवति ॥
+
+##### Gist of the bhāṣya
+
+O mighty Agni, your auspicious (भद्रं (*bhadraṃ*), to be resorted to) radiance (अनीकं (*anīkaṃ*)) shines all around (आ रोचते (*ā rocate*)) near the sun (उपाके (*upāke*), in proximity), that is, by day. That bright (रुशत् (*ruśat*)), beautiful-to-see radiance is seen (ददृशे (*dadṛśe*)) by night (नक्तया (*naktayā*)) as well. The word आ (*ā*) here has the sense of "and" (च (*ca*)). Moreover the unctuous (अरूक्षितं (*arūkṣitaṃ*)), pleasing food, the oblation in the form of puroḍāśa and the like, is offered by the priests and others in you, the beautiful-formed one (रूपे (*rūpe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसिन् (*sahasin*)—O mighty
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- भद्रं (*bhadraṃ*)—auspicious
+- अनीकं (*anīkaṃ*)—radiance
+- सूर्यस्य (*sūryasya*)—of the sun
+- उपाके (*upāke*)—in the proximity
+- आ रोचत् (*ā rocat*)—shines fully by day
+- रुशत् (*ruśat*)—that which is bright
+- दृशे (*dṛśe*)—and attractive, that radiance
+- नक्तयाचित् (*naktayācit*)—by night too
+- ददृशे (*dadṛśe*)—appears
+- आ (*ā*)—and
+- अरूक्षितं (*arūkṣitaṃ*)—beneficial
+- दृशे (*dṛśe*)—and attractive
+- अन्नं (*annaṃ*)—food in the form of puroḍāśa and the like
+- रूपे (*rūpe*)—in you of beautiful form (is offered)
+
+### Printed p. 884
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Agni, your auspicious radiance shines fully around the sun at the time of day. That radiant and attractive radiance appears at night too. The beneficial and attractive food in the form of puroḍāśa and the like is offered in you, the beautiful-formed.
+
+##### English translation (H. H. Wilson)
+Powerful Agni, your auspicious radiance shines upon the proximity of the sun (by day); your bright and visible (lustre) is conspicuous by night, as the bland and pleasing food (of sacrifice, the oblation) becomes manifest in your form.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि षा॑ह्यग्ने गृण॒ते म॑नी॒षां खं वेप॑सा तुविजात॒ स्तवा॑नः ।  
+> विश्वे॑भि॒र्यद्वा॒वनः॑ शुक्र दे॒वैस्तन्नो॑ रास्व सुमहो॒ भूरि॒  ॑
+> मन्म ॥ २ ॥
+
+> *vi ṣāhyagne gṛṇate manīṣāṃ khaṃ vepasā tuvijāta stavānaḥ |*  
+> *viśvebhiryadvāvanaḥ śukra devaistanno rāsva sumaho bhūri*  
+> *manma ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । साहि । अग्ने । गृणते । मनीषां । खं । वेपसा । तुविजात । स्तवानः ।  
+> विश्वेभिः । यत् । ववनः । शुक्र । देवैः । तत् । नः । रास्व । सुमहः । भूरि । मन्म ॥
+
+> *vi | sāhi | agne | gṛṇate | manīṣāṃ | khaṃ | vepasā | tuvijāta | stavānaḥ |*  
+> *viśvebhiḥ | yat | vavanaḥ | śukra | devaiḥ | tat | naḥ | rāsva | sumahaḥ | bhūri | manma ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविजात मथनेनारणिद्वारा यज्ञादिकर्मसु बहुजन्मन्नग्ने स्तवान
+> ऋत्विगादिभिः स्तूयमानस्त्वं वेपसा यज्ञादिकर्मणा । वेप इति कर्मनाम
+> वेषो वेपो विष्टीति कर्मनामसु पाठात् । मनीषां स्तुतिं गृणते कुर्वते
+
+##### Gist of the bhāṣya
+
+O Tuvijāta, Agni, born in many ways in sacrificial rites through the churning of the araṇi, being praised by the priests and others, you (act) with वेपसा (*vepasā*), that is, with sacrificial and other rites; वेप (*vepa*) is a name of ritual action, since it is read among the names of action: वेषो वेपो विष्टीति कर्मनामसु पाठात् (*veṣo vepo viṣṭīti karmanāmasu pāṭhāt*). For the sacrificer who offers praise (मनीषां (*manīṣāṃ*) = stuti), the door (खं (*khaṃ*)) of the meritorious world to be attained by the sacrificer,
+
+### Printed p. 885
+
+> यजमानाय खं यजमानप्राप्यस्य पुण्यलोकस्य द्वारं वि षाहि । विष्य । विमुंचेतृर्थः ॥ षोंतकर्मणीत्यस्माद्धातोर्लोण्मध्यमपुरुषैकवचनं । सिप् । दिवादिभ्यः श्यन् । तस्य बहुलं छंदसीति लुक् । आदेच उपदेशेशितीत्यात्वं । सेर्हिरादेशः । तिज्जतिज इति निघातः ॥ हे शुक्र दीप्यमानाग्ने त्वं विश्वेभिर्विश्वैः सर्वॆः ॥
+> बहुलं छंदसीति भिस ऐसभावः ॥ देवैरिंद्रादिभिः सह यत्पश्वादिधनं ववनः । यजमानेभ्यः प्रयच्छेः ॥ वनतेर्लॆट् । तस्य सिप इतॆश्च लोप इतीकारलोपः । बहुलं
+> छंदसीति विकरणस्य श्लुः । श्ला पिति द्विर्वचनं । हलादिशेषः । लेटोऽडाटावित्यडागमः।
+> यद्वृत्तान्वितमिति निघाताभावः ॥ हे सुमहः शोभनतेजस्काग्ने भूरि प्रभूतं
+> मन्म मननीयं तद्धनं नोऽस्मभ्यं रास्व । देहि ॥
+
+##### Gist of the bhāṣya
+
+… open it (वि षाहि (*vi ṣāhi*), release). O Śukra, shining Agni, the wealth of cattle and the like which you, together with all (विश्वेभिः (*viśvebhiḥ*)) the gods, Indra and the others, have given (ववनः (*vavanaḥ*)) to sacrificers: O Sumahas, of fair splendour, that abundant (भूरि (*bhūri*)) and laudable (मन्म (*manma*)) wealth give (रास्व (*rāsva*)) to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविजात (*tuvijāta*)—O Agni, who are born in many forms in sacrifices of many kinds
+- अग्ने (*agne*)—O Agni
+- स्तवानः (*stavānaḥ*)—you who are praised by the priests and others
+- वेपसा (*vepasā*)—by sacrificial and other rites (through them)
+- मनीषां (*manīṣāṃ*)—praise
+- गृणते (*gṛṇate*)—to the sacrificer who offers
+- खं (*khaṃ*)—the path to heaven
+- नि षाहि (*ni ṣāhi*)—be one who opens**NOTE**
+- सुमहः (*sumahaḥ*)—you of excellent radiance
+- शुक्र (*śukra*)—O shining Agni
+- विश्वेभिः (*viśvebhiḥ*)—all
+- देवैः (*devaiḥ*)—with the gods, Indra and others
+- यत् (*yat*)—whatever wealth of cattle and the like
+- ववनः (*vavanaḥ*)—you have favoured by having it given (to the sacrificers)
+- भूरि (*bhūri*)—abundant
+- मन्म (*manma*)—and venerable
+- तत् (*tat*)—that same wealth
+- नः (*naḥ*)—to us also
+- रास्व (*rāsva*)—graciously grant
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, born in many forms in sacrifices of many kinds, you who are praised by the priests and others, be the one who opens the path to heaven for the sacrificer who offers you praise through sacrificial and other rites. O Agni, of excellent radiance and shining, whatever wealth of cattle and the like you have favoured the sacrificers by having it given, together with all the gods, Indra and others, that same abundant and venerable wealth have given to us also.
+
+##### English translation (H. H. Wilson)
+Agni, who are engendered repeatedly, and glorified by sacrifice, set open heaven to him who offers you adoration ; resplendent (Agni), bestow upon us that ample and acceptable (wealth), which, radiant (deity), you, with all the gods have given (to other worshippers).
+
+### Printed p. 886
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद॑ग्ने॒ काव्या॒ त्वन्म॑नी॒षास्त्वदु॒क्था जा॑यंते॒ राध्या॑नि ।  
+> त्वदे॑ति॒ द्रवि॑णं वी॒रपे॑शा इ॒त्थाधि॑ये दा॒शुषे॒ मर्त्या॑य ॥३॥
+
+> *tvadagne kāvyā tvanmanīṣāstvadukthā jāyaṃte rādhyāni |*  
+> *tvadeti draviṇaṃ vīrapeśā itthādhiye dāśuṣe martyāya ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वत् । आग्ने । काव्या । त्वत् । मनीषाः । त्वत् । उक्धा । जायंते । राध्यानि ।  
+> त्वत् । एति । द्रविणं । वीर्यपेशाः । इत्याधिये । दाशुषे । मर्त्याय ॥ ३ ॥
+
+> *tvat | āgne | kāvyā | tvat | manīṣāḥ | tvat | ukdhā | jāyaṃte | rādhyāni |*  
+> *tvat | eti | draviṇaṃ | vīryapeśāḥ | ityādhiye | dāśuṣe | martyāya ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे स्विष्टकृदग्निः कव्यवाहनो यष्टव्यः । तस्य द्वे अनुवाक्ये ।
+> तत्र त्वदग्ने काव्येति द्वितीयानुवाक्या । तथा च सूत्रितं । त्वदग्ने काव्या त्वन्मनीषाः
+> स प्रत्नथा सहसा जायमानः । आ. २-१९ । इति ॥
+> हे अग्ने काव्या काव्यानि हविर्वहनदेवतानयनादीन्यग्नि संबंधीनि कर्माण्याध्वर्यवाणि कर्माणि वा त्वद्भवतो जायंते । उत्पद्यंते । मनीषाः स्तुतिरूपा
+> वाचस्त्वदेव जायंते । राध्यानि राद्भुं योग्यान्युक्कोत्थानि शस्त्राणि त्वत्त्वत्तो
+> जायंते । इत्याधिये । धीरिति कर्मनाम । इत्थेति सत्यनामसु पाठात् सत्यकर्मणे दाशुषे हवींषि दत्तवते मर्ताय मनुष्याय यजमानाय वीरपेशाः।
+> पेश इति रूपनाम । इदं विक्रांतं रूपं । अत्र लिंगव्यत्ययेन वीरपेशा इति
+> रूपं । द्रविणं पश्वादिधनं त्वत्त्वत्त एति । निर्गच्छति । उत्पन्न इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, Agni Sviṣṭakṛt, the bearer of the offerings to the ancestors, is to be worshipped. He has two anuvākyās; of these त्वदग्ने काव्या (*tvadagne kāvyā*) is the second. So it is stated in the sūtra: त्वदग्ने काव्या त्वन्मनीषाः स प्रत्नथा सहसा जायमानः (*tvadagne kāvyā tvanmanīṣāḥ sa pratnathā sahasā jāyamānaḥ*) (Ā. 2-19).
+O Agni, the काव्या (*kāvyā*), that is, the rites connected with Agni such as carrying the oblation and conducting the gods, or the rites of the Adhvaryu, are born (जायंते (*jāyaṃte*)) from you. The मनीषाः (*manīṣāḥ*), words in the form of praise, are born from you alone. The राध्यानि (*rādhyāni*), the śastras fit to be accomplished, consisting of uktha, are born from you. इत्थाधिये (*itthādhiye*): धी (*dhī*) is a name of action, and इत्था (*itthā*) is read among the names of truth (इत्थेति सत्यनामसु पाठात् (*ittheti satyanāmasu pāṭhāt*)); so for the mortal, the human sacrificer, of true action, who has given oblations (दाशुषे (*dāśuṣe*)), वीरपेशाः (*vīrapeśāḥ*): पेश (*peśa*) is a name of form, meaning a valorous form (the gender is altered here); and wealth (द्रविणं (*draviṇaṃ*)) of cattle and the like comes forth (एति (*eti*)) from you alone, that is, arises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- काव्या (*kāvyā*)—all rites connected with the sacrifice
+- त्वत् (*tvat*)—from you
+- जायंते (*jāyaṃte*)—are born
+- मनीषाः (*manīṣāḥ*)—words in the form of praise also
+- त्वत् (*tvat*)—are made from you alone
+- राध्यानि (*rādhyāni*)—fit to be carried out
+- उक्ता (*uktā*)—hymns in the form of uktha also
+- त्वत् (*tvat*)—are born from you alone
+- इत्थाधिये (*itthādhiye*)—to the one of truthful action
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- मर्त्याय (*martyāya*)—the human sacrificer
+- वीरपेशाः (*vīrapeśāḥ*)—the form that displays valour
+- द्रविणं (*draviṇaṃ*)—and the wealth of cattle and the like
+- त्वत् (*tvat*)—from you alone
+- एति (*eti*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all the rites connected with the sacrifice are born from you. The words in the form of praise and the hymns in the form of uktha are born from you alone. The truthful rite
+
 ---
 
-**Progress note:** Done through printed p. 880. pp. 875-880 (batch API)
+**Progress note:** Done through printed p. 886. pp. 881-886 (batch API)
