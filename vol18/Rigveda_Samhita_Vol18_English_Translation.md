@@ -10923,6 +10923,138 @@ In this Ṛk the colour of Indra's horses is described: they are of brown (babhr
 कनीनके कन्यके । कन्या कमनीया भवति । क्वयं नेतव्येति वा कमनेनानीयत इति वा । कनतेर्वा स्यात्कांतिकर्मणः । कन्ययोरधिष्ठानप्रवचनानि सप्तम्या एकवचनानीति शाकपूणिः ॥ (*kanīnake kanyake | kanyā kamanīyā bhavati | kvayaṃ netavyeti vā kamanenānīyata iti vā | kanatervā syātkāṃtikarmaṇaḥ | kanyayoradhiṣṭhānapravacanāni saptamyā ekavacanānīti śākapūṇiḥ ‖*) (Ni. 4-15)
 That is, the word कनीनिके (*kanīnike*) means कन्यके (*kanyake*). A कन्यका (*kanyakā*) or कन्या (*kanyā*) is कमनीया (*kamanīyā*), one desired by all; therefore the maiden is called कन्या (*kanyā*) or कमनीया (*kamanīyā*). Or, when the father gives her in marriage, he thinks "क्वयं नेतव्येति वा (*kvayaṃ netavyeti vā*)", that is, where (by whom) will she be taken away after marriage; hence the name कन्या (*kanyā*) — this too is the derivation of the word. For the root कनति (*kanati*) is used in the sense of कांतिकर्म (*kāṃtikarma*), that is, to desire, to request; so कन्या (*kanyā*) means that many will desire or request this woman in order to marry her; this is the explanation of the meaning of the word कन्या (*kanyā*). In this Ṛk, विद्रधे (*vidradhe*),
 
+### Printed p. 290
+The four words नवे (*nave*), द्रुपदे (*drupade*), अर्भके (*arbhake*) and विद्रधे (*vidradhe*) stand in the locative singular and are used as adjectives of the word कनीनिके (*kanīnike*) (that is, of the word कन्या (*kanyā*)). This is the opinion of the teacher Śākapūṇi. And Yāska, in explaining these four words, says:
+
+विद्दयोर्दारुपाद्योः । दारु दृणातेर्वा द्रोणातेर्वा । तस्मादेव द्रु । नवे नवजाते । अर्भके अवृद्धे ते यथा तदधिष्ठानेषु शोभेते एवं बभ्रू यामेषु शोभेते बभ्रोरश्वयोः संस्तवः ॥ (*viddayordārupādyoḥ | dāru dṛṇātervā droṇātervā | tasmādeva dru | nave navajāte | arbhake avṛddhe te yathā tadadhiṣṭhāneṣu śobhete evaṃ babhrū yāmeṣu śobhete babhroraśvayoḥ saṃstavaḥ ‖*) (Ni. 4-15)
+
+The word विद्रधे (*vidradhe*) means "cut, hewn". When figures such as dolls are made of wood, the wood is cut or carved. The word विद्रधे (*vidradhe*) is used here to indicate that the wooden dolls called कनीनिकॆ (*kanīnikè*) are made by carving wood. The word द्रुपदे (*drupade*) means द्रुममये (*drumamaye*), "made of wood". द्रु (*dru*) or द्रुम (*druma*) is दारु (*dāru*), dried wood. Yāska explains that this word द्रु (*dru*) may be formed either from the root दृणाति (*dṛṇāti*), meaning "to cut, to carve", or from the root द्रूणाति (*drūṇāti*), meaning "to cut down, to injure". That is: when things are made from a tree, the tree is cut down (injured), dried and made into timber (दारु (*dāru*)); then it is cut to the required size, carved and smoothed, and dolls and the like are made. That very matter is explained here by the words विद्रधे द्रुपदे (*vidradhe drupade*).
+
+The word नवे (*nave*) means नवजाते (*navajāte*): newly born, or (wood or a tree) newly cut and brought. अर्भके (*arbhake*) means अवृद्धे (*avṛddhe*): not grown, not large, small. The piece of wood used for dolls and the like need not be large; it must be small. The words नवे अर्भके (*nave arbhake*) are used here to indicate such wood.
+
+The main sense is this: just as dolls made of newly cut and brought wood shine charmingly on the stage and give delight to the people watching, so the brown-coloured (Brown) horses of Indra, when they come and stand in the यामेषु (*yāmeṣu*) — whether on the battlefield, or in the stable where horses are tied, or at the sacrificial ground to which Indra goes — shine like charming dolls. Thus the seer, giving the example of dolls, praises Indra's horses.
+
+### Printed p. 291
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं॑ म उ॒स्रया॒म्णेऽर॒मनु॑स्रयाम्णे ।  
+> ब॒भ्रू यामे॑ष्व॒स्रिधा॑ ॥ २४ ॥
+
+> *araṃ ma usrayāmṇe 'ramanusrayāmṇe |*  
+> *babhrū yāmeṣvasridhā ‖ 24 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरं । मे । उस्रयान्ने । अरं । अनुस्रयान्ने ।  
+> बभ्रू इति । योमेषु । अस्त्रिधा ॥ २४ ॥
+
+> *araṃ | me | usrayānne | araṃ | anusrayānne |*  
+> *babhrū iti | yomeṣu | astridhā ‖ 24 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्त्रिधास्रिधावहिंसकौ बभ्रू बभ्रुवर्ण् त्वदीयावश्नौ यामेषु
+> गमनेषु प्राप्तेषु सत्सूस्रयाम्ने । उस्राभ्यामनडुड्भ्यां युक्तेन रथेन यातीत्युस्रयामा । तस्यै मे मह्यमरमलं पर्याप्तकारिणौ भवतां । अनुस्रयाम्ने
+> पद्भ्यामेव गच्छते मह्यमरं पर्याप्तकारिणौ भवतां ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, your two brown horses, अस्त्रिधा (*astridhā*), that is, non-injuring, बभ्रू (*babhrū*), brown-coloured: when the goings (यामेषु (*yāmeṣu*)) have arrived, let them be अरं (*araṃ*), that is, sufficient, doing what is adequate, for me, उस्रयाम्ने (*usrayāmne*)." He explains *usrayāmā* as one who travels in a chariot yoked with two उस्र (*usra*), oxen. Likewise, for me who go अनुस्रयाम्ने (*anusrayāmne*), only on foot, let the two be sufficient and adequate.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्सिधा (*assidhā*)—non-injuring
+- बभ्रू (*babhrū*)—and golden-coloured, your two horses
+- यामेषु (*yāmeṣu*)—at the times of sacrifice
+- उस्रयाम्ने (*usrayāmne*)—going in a bullock cart
+- मे (*me*)—for me
+- आरं (*āraṃ*)—are sufficient
+- अनुस्रयाम्ने (*anusrayāmne*)—even if I go on foot without that
+- आरं (*āraṃ*)—are enough for me
+
+##### भावार्थ (Bhāvārtha)
+
+For me, who go at the times of sacrifice facing your non-injuring, golden-coloured horses, whether I go in a bullock cart or go on foot without it, those two horses alone are satisfying.
+
+##### English translation (H. H. Wilson)
+You two innocuous brown (steeds) are sufficient at sacrifices for me, whether going (to them) in (a waggon drawn by) oxen, or going without (such) a conveyance.
+
+### Printed p. 292
+The concluding verse: वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+The colophon: इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपाल साम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये तृतीयाष्टके षष्ठोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrīvīrabukkabhūpāla sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye tṛtīyāṣṭake ṣaṣṭho 'dhyāyaḥ samāptaḥ ‖*) ओं तत्त्वत् (*oṃ tattvat*).
+
+Here ends the sixth chapter in the second Aṣṭaka of the Ṛgveda-Saṃhitā, with the Bhāṣya of Śrī Sāyaṇa and a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यता देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatā deva vāgīśvara namo 'stute ‖*) शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*).
+
+ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+Opening verses: वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) यस्य निश्चसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niścasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+The Ṛgveda-Saṃhitā with the Sāyaṇa-bhāṣya (with explanation in Kannada translation). Seventh chapter in the third Aṣṭaka. Fourth Maṇḍala. The thirty-third sūkta.
+
+## Sūkta 33 (Maṇḍala 4)
+**Introduction**
+
+The Ṛbhus are the deity of this sūkta and of the next four sūktas. It is necessary to know their earlier history, the daring deeds they performed, and the skill of intelligence they showed in their works.
+
+In many places the Ṛgveda says that the Ṛbhus were formerly human beings and attained divinity by their excellent conduct and the performance of good rites. Formerly
+
+### Printed p. 294
+the seer Aṅgiras had a son named Nītimañjari. In his line the seer Sudhanvā had three sons, Ṛbhu, Vibhu and Vāja. It is traditionally told that by good deeds such as the performance of good rites and helping the gods they obtained the birth of gods, or became gods. These three sons of Sudhanvā, Ṛbhu and the others, are customarily all called Ṛbhus; all three sons are called by the name of the eldest. Since they were pupils of Tvaṣṭā, they are also called the craftsmen of the gods. It is said in various places that they made the requisites needed by the gods, Indra and others — that is, Indra's chariot and Agni's cup (चमस (*camasa*)). In these sūktas some of the works they did are described. In various places there are descriptions that they have wonderful power and are able to do any work whatever. Since they have the very power and capacity that the gods have, the seers, regarding them as belonging to the company of the gods, describe them and their deeds in various ways. It is traditionally held that they dwell in the orb of the sun and do their work through the sun's rays.
+
+Yāska has given three etymologies of the word ऋभु (*ṛbhu*):
+
+(1) ऋभव उरु भांतीति वा (*ṛbhava uru bhāṃtīti vā*). उरु (*uru*): greatly; भांति (*bhāṃti*): they shine. Therefore they are named Ṛbhus. Here some hold that the word ऋभु (*ṛbhu*) or रुभु (*rubhu*) arose by joining the final syllable रु (*ru*) of the word उरु (*uru*) with the first syllable of the word भांति (*bhāṃti*), as in अहः + रात्रिः = होरा (*ahaḥ + rātriḥ = horā*).
+
+(2) ऋतेन भांतीति वा (*ṛtena bhāṃtīti vā*). ऋतेन (*ṛtena*): by truth or by sacrifice; since they shine thereby, they are named Ṛbhus.
+
+(3) ऋतेन भवंतीति वा (*ṛtena bhavaṃtīti vā*). ऋतेन (*ṛtena*): by strength (capacity); since they exist by it, that is, are possessed of capacity, they are named Ṛbhus. Some say that the word ऋभु (*ṛbhu*) arose by joining the first syllable ऋ (*ṛ*) of the word ऋतेन (*ṛtena*) with the first syllable भ (*bha*) of the word भवंति (*bhavaṃti*).
+
+This Ṛk makes clear that the Ṛbhus were formerly human and later obtained divinity:
+
+विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः संतो अमृतत्वमानशुः । सौधन्वना यभवः सूरचक्षसः संवत्सरे समपृच्यंत धीतिभिः ॥ (*viṣṭvī śamī taraṇitvena vāghato martāsaḥ saṃto amṛtatvamānaśuḥ | saudhanvanā yabhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyaṃta dhītibhiḥ ‖*) (Ṛ. Saṃ. 1-110-4)
+
+### Printed p. 295
+Yāska's Nirukta on this is:
+
+कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्तासः संतो अमृतत्वमानशिरे ऋभवः सूरख्याना वा, सूरप्रज्ञा वा, संवत्सरे समपृच्यंत धीतिभिः कर्मभिः ॥ (*kṛtvā karmāṇi kṣipratvena voḍhāro medhāvino vā martāsaḥ saṃto amṛtatvamānaśire ṛbhavaḥ sūrakhyānā vā, sūraprajñā vā, saṃvatsare samapṛcyaṃta dhītibhiḥ karmabhiḥ ‖*)
+
+The main sense is: these Ṛbhus, the sons of Sudhanvā, were formerly human beings. By their wisdom or intellectual power, equal to the sun, they quickly, that is, within a single year, performed all the sacrifices and obtained अमृतत्वं (*amṛtatvaṃ*), that is, divinity (deathlessness).
+
+Yāska has stated yet another meaning of the word ऋभु (*ṛbhu*):
+
+आदित्यरश्मयोऽप्यभव उच्यंते (*ādityaraśmayo 'pyabhava ucyaṃte*) — the rays of the sun also are called ऋभवः (*ṛbhavaḥ*). For example:
+
+उद्वत्समा अकृणोतना तृणं निवत्स्वपः स्वपस्यया नरः । अगो ह्यस्य यदसस्तना गृहे तदद्येदमृभवो नानु गच्छथ ॥ (*udvatsamā akṛṇotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ | ago hyasya yadasastanā gṛhe tadadyedamṛbhavo nānu gacchatha ‖*) (Ṛ. Saṃ. 1-161-11)
+
+On this Ṛk Yāska has given the Nirukta: अगोह्य आदित्योऽगूहनीयस्तस्य यदस्वपथ गृहे यावत्तत्र भवथ न तावदिह भवथेति । (*agohya ādityo 'gūhanīyastasya yadasvapatha gṛhe yāvattatra bhavatha na tāvadiha bhavatheti |*). The Bhāṣyakāra too, in explaining this Ṛk, has interpreted the word ऋभवः (*ṛbhavaḥ*) thus: ऋभवः उरु प्रभूतं भासमानाः ऋतेनादित्येन भासमाना वा ऋतेनोदकेनोदकार्थमुत्पन्ना वा (*ṛbhavaḥ uru prabhūtaṃ bhāsamānāḥ ṛtenādityena bhāsamānā vā ṛtenodakenodakārthamutpannā vā*).
+
+In Ṛ. Saṃ. 1-110-2 the context of the earlier history indicates that the Ṛbhus went to the house of Savitṛ, who had offered an oblation in the sacrifice or had given hospitality. Skandasvāmin has explained this history in one way, and Sāyaṇa in another. In this connection:
+
+अत्रेतिहासमाचक्षते । ऋभवो यज्ञियत्वं प्रार्थयमानाः प्रजापतेः सकाशमगमन् । अथ प्रजापतिः सवितारमाहूयावोचत् । एतेऽपि यज्ञिया भवंत्विति । तथेति सविता प्रतिपद्य तान् स्वगृहं नीत्वा द्वादश दिनान्यातिथ्यमेषामकार्षिदिति । तदेतद्वामदेवो वक्ष्यति । (*atretihāsamācakṣate | ṛbhavo yajñiyatvaṃ prārthayamānāḥ prajāpateḥ sakāśamagaman | atha prajāpatiḥ savitāramāhūyāvocat | ete 'pi yajñiyā bhavaṃtviti | tatheti savitā pratipadya tān svagṛhaṃ nītvā dvādaśa dinānyātithyameṣāmakārṣiditi | tadetadvāmadevo vakṣyati |*)
+
+The Ṛbhus, wishing to be invited to take part in the sacrifice and receive the oblation, went to the presence of Prajāpati. Then Prajāpati called Savitṛ and said, "Let these also be fit for sacrifice (help them in it)." Savitṛ agreed, "So be it," and took them to his own house
+
+### Printed p. 296
+and performed hospitality for them for twelve days. Having told the story briefly in this way, Skandasvāmin cites, as indicating the context of the story, the Ṛk
+
+द्वादश द्यून्यदगोह्यस्यातिथ्ये रणन्नृभवः ससंतः । सुक्षेत्राकृण्वन्ननयंत सिंधून्धन्वातिष्ठन्नोषधीर्निम्नमापः ॥ (*dvādaśa dyūnyadagohyasyātithye raṇannṛbhavaḥ sasaṃtaḥ | sukṣetrākṛṇvannanayaṃta siṃdhūndhanvātiṣṭhannoṣadhīrnimnamāpaḥ ‖*) (Ṛ. Saṃ. 4-33-7).
+
+In the same context Sāyaṇa has pointed out the part that tells the reasons for the Ṛbhus' going to Savitṛ's house:
+
+दाशुषः प्रातःसवनादिष्वग्न्यादिभिरपसारितेभ्य ऋभुभ्यः सोमपानं दत्तवतः सवितुः गृहं निवासस्थानं तृतीयसवनाख्यमगच्छत प्राप्ताः ॥ (*dāśuṣaḥ prātaḥsavanādiṣvagnyādibhirapasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savituḥ gṛhaṃ nivāsasthānaṃ tṛtīyasavanākhyamagacchata prāptāḥ ‖*)
+
+That is: "Enter the sacrificial house, in the form of the third pressing, of Savitṛ, who offered the Soma-drinking to you Ṛbhus, who had been rejected and sent out by Agni and the other gods at the morning pressing and the others." Thus he has also mentioned the rejection that came from Agni and the others. This matter is stated in detail in the Aitareya-Brāhmaṇa:
+
+ऋभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रॆर्माध्यंदिनात्सवनादनुदत तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वे देवा अनोनुद्यंत नेह षास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव ना इमेंतेवासास्त्वमेवैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् । (*ṛbhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātaḥsavanādanudata tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrèrmādhyaṃdinātsavanādanudata tebhyastṛtīyasavane vāci kalpayiṣaṃstānviśve devā anonudyaṃta neha ṣāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava nā imeṃtevāsāstvamevaibhiḥ saṃpibasveti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat |*) (Ai. Brā. 13-20)
+
+By their austerity and their intense desire the Ṛbhus won a share of the Soma-drinking among the gods. At first, when they wished to have it at the morning pressing, Agni, together with the Vasus, rejected them and drove them away. Then, when they wished to get it at the midday pressing, Indra, together with the Rudras, drove them away. Again, when they wished to get it at the third pressing, the Viśvedevas rejected them there too with harsh words: "You are certainly not fit to drink Soma here; you must not do so." Then Prajāpati said to Savitṛ, "These Ṛbhus are your pupils. Drink Soma together with them." Thereupon Savitṛ agreed.
+
 ---
 
-**Progress note:** Done through printed p. 289. pp. 284-289 (batch API)
+**Progress note:** Done through printed p. 296. pp. 290-296 (batch API)
