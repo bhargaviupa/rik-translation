@@ -5483,6 +5483,276 @@ What friend of man, or worshipper of the gods, deserving the friendship of Indra
 
 In this Ṛk the seer Vāmadeva praises Indra. All sacrificers who perform sacrifices desire Indra's friendship and favour, and Indra is able to go at one and the same time to the many sacrifices that are being performed. So he asks: which sacrificer has now invited Indra to come to his sacrificial ground? Which sacrificer desires Indra's friendship? Which sacrificer, for Indra's satisfaction, having prepared the soma juice
 
+### Printed p. 156
+
+> को नानाम वचसा सोम्याय मनायुर्वा भवति वस्त
+> उस्राः ।
+> क इंद्रस्य युज्यं कः सखित्वं को भ्रात्रं वष्टि कवये क
+> ऊती ॥ २ ॥
+> कः । ननाम । वचसा । सोम्याय । मनायुः । वा । भवति । वस्ते । उस्राः ।
+> कः । इंद्रस्य । युज्यं । कः । सखित्वं । कः । भ्रातृं । वष्टि । कवये । कः । ऊती ॥
+
+> *ko nānāma vacasā somyāya manāyurvā bhavati vasta*
+> *usrāḥ |*
+> *ka iṃdrasya yujyaṃ kaḥ sakhitvaṃ ko bhrātraṃ vaṣṭi kavaye ka*
+> *ūtī ‖ 2 ‖*
+> *kaḥ | nanāma | vacasā | somyāya | manāyuḥ | vā | bhavati | vaste | usrāḥ |*
+> *kaḥ | iṃdrasya | yujyaṃ | kaḥ | sakhitvaṃ | kaḥ | bhrātṛṃ | vaṣṭi | kavaye | kaḥ | ūtī ‖*
+> को यजमानो वचसा वाग्रूपया स्तुत्या सोम्याय सोमार्हायेंद्राय ननाम । नमति । प्रह्वीभवति । को वेंद्राय मनायुर्भवति । स्तुतिकामोऽस्ति । क उस्रा इंद्रेण दत्ता गा वस्ते । आच्छादयति । धारयतीत्यर्थः । क
+> इंद्रस्य युज्यं साहाय्क्यं वष्टि । इच्छति । कः सखित्वं कः भ्रातृभावं वष्टि ।
+> इच्छति। कवये क्रांतदर्शिन इंद्रायोती ऊतये तर्पणाय । को भवतीति शेषः॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: which sacrificer bows to Indra, who is worthy of Soma, with praise in the form of speech, i.e. becomes humbly submissive; or who becomes desirous of praising Indra; who clothes himself in, that is, keeps, the cows (उस्रा (*usrā*)) given by Indra. Who desires Indra's help (युज्यं (*yujyaṃ*)); who desires friendship, who brotherhood. कवये (*kavaye*) means for Indra, who sees beyond (क्रांतदर्शिन (*krāṃtadarśina*)); ऊती (*ūtī*) means for his satisfaction (तर्पणाय (*tarpaṇāya*)). The words "who is he?" (को भवतीति (*ko bhavatīti*)) are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः (*kaḥ*)—which sacrificer
+- वचसा (*vacasā*)—with praise in the form of speech
+- सोम्याय (*somyāya*)—Indra, who is worthy of Soma-drinking
+- ननाम (*nanāma*)—worships and bows
+- (को) वा (*(ko) vā*)—who indeed
+- मनायुः (*manāyuḥ*)—desirous of praising
+- भवति (*bhavati*)—becomes
+- उस्राः (*usrāḥ*)—the cows given (by Indra)
+- वस्ते (*vaste*)—(who) nourishes
+- कः (*kaḥ*)—who
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- युज्यं (*yujyaṃ*)—help
+- वष्टि (*vaṣṭi*)—desires
+- कः (*kaḥ*)—who
+- सखित्वं (*sakhitvaṃ*)—friendship
+- कः (*kaḥ*)—who
+- भ्रात्रं (*bhrātraṃ*)—brotherhood (desires)
+- कवये (*kavaye*)—of Indra, who sees beyond
+- ऊती (*ūtī*)—as one who gives satisfaction
+- कः (*kaḥ*)—who is there
+
+### Printed p. 157
+
+##### भावार्थ (Bhāvārtha)
+
+Which sacrificer worships and bows to Indra, who is worthy of Soma-drinking, with praise in the form of speech? Who becomes desirous of praising Indra? Which sacrificer nourishes the cows given by Indra? Who is the sacrificer who desires Indra's help? Who is the sacrificer who desires Indra's friendship and brotherhood? Who is the sacrificer who gives satisfaction to Indra, who sees beyond?
+
+##### English translation (H. H. Wilson)
+who has reverenced with (suitable) words the (deity) worthy of the libation ? who supports the cattle (given by him)? who desires the society of Indra ? who his friendship ? who his fraternity ? who (has recourse) to the sage Indra for protection ?
+
+##### विशेषविषयगळु (Special Topics)
+
+As in the previous Ṛk, in this Ṛk too the seer expresses his curiosity by questions: which sacrificer invites Indra to drink Soma and praises him, and which man desires Indra's help, friendship and brotherhood.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को दे॒वाना॒मवो॑ अ॒द्या वृ॑णीते॒ क आ॑दि॒त्या अदि॑तिं॒ ज्योति॑रीट्टे ।  
+> कस्या॒श्विना॒विंद्रो॑ अ॒ग्निः सु॒तस्यां॒शोः पि॑बंति॒ मन॒सावि॑वेनं ॥
+
+> *ko devānāmavo adyā vṛṇīte ka ādityā aditiṃ jyotirīṭṭe |*  
+> *kasyāśvināviṃdro agniḥ sutasyāṃśoḥ pibaṃti manasāvivenaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । देवानां । अवः । अद्य । वृणीते । कः । आदित्यान् । अदितिं । ज्योतिः । ईट्वे ।  
+> कस्य । अश्विनौ । इंद्रः । अग्निः । सुतस्य । अंशोः । पिबंति । मनसा । अविवेनं ॥ ३ ॥
+
+> *kaḥ | devānāṃ | avaḥ | adya | vṛṇīte | kaḥ | ādityān | aditiṃ | jyotiḥ | īṭve |*  
+> *kasya | aśvinau | iṃdraḥ | agniḥ | sutasya | aṃśoḥ | pibaṃti | manasā | avivenaṃ ‖ 3 ‖*
+
+### Printed p. 158
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्निने को यजमानो देवानां द्योतमानानामिंद्रादीनामवो
+> रक्षणं वृणीते । प्रार्थयते । क आदित्यान्देवानदितिं देवमातरं च ज्योतिरुदकं
+> चेट्टे । याचते । अश्विनावश्विदेवाविंद्रश्चाग्निश्च मनसा स्तुत्या प्रीताः संतोऽविवेनमविगतकामं । यथाकाममित्यर्थः । कस्य यजमानस्य संबंधिनं सुतस्याभिषुतस्यांशोः सोमस्य । सोममित्यर्थः । पिबंति । पानं कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+Today, at this sacrifice, which sacrificer solicits (वृणीते (*vṛṇīte*)) the protection of the shining gods, Indra and the others? Who begs (ईट्टे (*īṭṭe*)) of the Ādityas, of Aditi the mother of the gods, and of light, that is, water? The Aśvins, Indra and Agni, pleased by the praise (मनसा (*manasā*)), drink अविवेनं (*avivenaṃ*), that is, without their desire being cut short, at will, the pressed Soma of which sacrificer?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—today
+- कः (*kaḥ*)—which sacrificer
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- अवः (*avaḥ*)—protection
+- वृणीते (*vṛṇīte*)—desires and begs
+- कः (*kaḥ*)—who
+- आदित्यान् (*ādityān*)—the gods, sons of Aditi
+- अदितिं (*aditiṃ*)—Aditi
+- ज्योतिः (*jyotiḥ*)—radiance
+- ईट्टे (*īṭṭe*)—begs
+- अश्विनौ (*aśvinau*)—the Aśvin gods
+- इंद्रः (*iṃdraḥ*)—Indra
+- अग्निः (*agniḥ*)—Agni
+- मनसा (*manasā*)—pleased by praise
+- अविवेनं (*avivenaṃ*)—until they are fully satisfied
+- कस्य (*kasya*)—of which sacrificer
+- सुतस्य (*sutasya*)—pressed
+- अंशोः (*aṃśoḥ*)—Soma
+- पिबंति (*pibaṃti*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+Which sacrificer today desires and begs the protection of the gods, Indra and the rest? Who begs of the gods, sons of Aditi, of Aditi, and of water, which is of the nature of radiance? Of which sacrificer, pleased by his praise, do the Aśvin gods, Indra and Agni drink the Soma pressed and offered by him until they are satisfied?
+
+##### English translation (H. H. Wilson)
+who solicits to-day the protection of the gods ? who glorifies the Adityas, Aditi, light ? of whose effused libation do the Ashwins, Indra, Agni, drink at will, propitiated by his praise ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॑ अ॒ग्निर्भार॑तः॒ शर्म॑ यंस॒ज्योक्प॑श्या॒त्सूर्य॑मु॒च्चरं॑तं ।
+
+> *tasmā agnirbhārataḥ śarma yaṃsajyokpaśyātsūryamuccaraṃtaṃ |*
+
+### Printed p. 159
+
+> य इंद्राय सुनवामेत्याह नरे नर्याय नृतमाय  
+> नृणां ॥ ४ ॥
+
+> *ya iṃdrāya sunavāmetyāha nare naryāya nṛtamāya*  
+> *nṛṇāṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मै । अग्निः । भारतः । शर्म । यंसत् । ज्योक् । पश्यात् । सूर्यं । उत्चरंतं ।  
+> यः । इंद्राय । सुनवाम । इति । आह । नरे । नर्याय । नृतमाय । नृणां ॥ ४ ॥
+
+> *tasmai | agniḥ | bhārataḥ | śarma | yaṃsat | jyok | paśyāt | sūryaṃ | utcaraṃtaṃ |*  
+> *yaḥ | iṃdrāya | sunavāma | iti | āha | nare | naryāya | nṛtamāya | nṛṇāṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भारतो हविषो भर्ताग्निः । प्राणो भूत्वा प्रजा धारयन् भारत इति
+> वाजसनेयकं । अग्निस्तस्मै यजमानाय शर्म सुखं यंसत् । यच्छेत् । किंच
+> अयमग्निर्ज्योक् चिरकालमुच्चरंतमुद्यंतं सूर्यं पश्यात् । पश्येत् । यो
+> यजमान इंद्राय सुनवामेत्याह इंद्रार्थं सोमाभिषवं कुर्यामिति ब्रवीति ।
+> कीदृशायेंद्राय । नरे नेत्रे नर्याय नरहिताय नृणां नराणां नेतृणां
+> मध्ये नृतमाय नेतृतमाय ॥
+
+##### Gist of the bhāṣya
+
+भारतः (*bhārataḥ*) is Agni, the bearer of the oblation; the Vājasaneyaka says "becoming breath and sustaining creatures, he is Bhārata". May Agni grant happiness (शर्म (*śarma*)) to that sacrificer. Further, may this one see the sun rising for a long time — the sacrificer who says "let us press Soma for Indra", that is, declares he will perform the Soma-pressing for Indra's sake. For what kind of Indra? For the leader (नरे (*nare*)), the benefactor of men (नर्याय (*naryāya*)), the best leader (नृतमाय (*nṛtamāya*)) among leaders (नृणां (*nṛṇāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which sacrificer
+- नरे (*nare*)—who is a leader
+- नर्याय (*naryāya*)—beneficial to men
+- नृणां (*nṛṇāṃ*)—among men (among leaders)
+- नृतमाय (*nṛtamāya*)—the most excellent person (the most excellent leader)
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुनवाम (*sunavāma*)—let us press Soma (for the sacrifice)
+- इत्याह (*ityāha*)—so resolves
+- तस्मै (*tasmai*)—to that sacrificer
+- भारतः (*bhārataḥ*)—the bearer of the oblation
+- अग्निः (*agniḥ*)—Agni
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may he provide
+- ज्योक् (*jyok*)—for a very long time
+- उच्चरंतं (*uccaraṃtaṃ*)—rising
+- सूर्यं (*sūryaṃ*)—the sun
+- पश्यात् (*paśyāt*)—may he see (from his house)
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who resolves, "Let us press Soma for the sacrifice, for Indra, who is a leader, a benefactor of men, and the most excellent leader among leaders" — may Agni, the carrier of oblations, bring happiness to that sacrificer. From his sacrificial house may he see the sun rise for a very long time (that is, may he live long).
+
+### Printed p. 160
+
+##### English translation (H. H. Wilson)
+May Agni, the bearer of oblations, grant him felicity, and long behold the rising sun (in the dwelling of him) who says, let us offer libations to Indra, leader (of rites), the friend of man, the chief leader amongst leaders.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तं जि॑नंति ब॒हवो॒ न द॒भ्रा उ॒र्व॑स्मा॒ अदि॑तिः॒ शर्म॑ यंसत् ।  
+> प्रि॒यः सु॒कृत्र्यि॒य इंद्रे॑ मना॒युः प्रि॒यः सु॑प्रा॒वीः प्रि॒यो ॑ ॒
+> अस्य सोमी ॥ ५ ॥
+
+> *na taṃ jinaṃti bahavo na dabhrā urvasmā aditiḥ śarma yaṃsat |*  
+> *priyaḥ sukṛtryiya iṃdre manāyuḥ priyaḥ suprāvīḥ priyo*  
+> *asya somī ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । जिनंति । बहवः । न । दभ्राः । उरु । अस्मै । अदितिः । शर्म । यंसत् ।  
+> प्रियः । सुकृत् । प्रियः । इंद्रे । मनायुः । प्रियः । सुप्रावीः । प्रियः । अस्य ।  
+> सोमी ॥ ५ ॥
+
+> *na | taṃ | jinaṃti | bahavaḥ | na | dabhrāḥ | uru | asmai | aditiḥ | śarma | yaṃsat |*  
+> *priyaḥ | sukṛt | priyaḥ | iṃdre | manāyuḥ | priyaḥ | suprāvīḥ | priyaḥ | asya |*  
+> *somī ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दभ्रा अल्पा बहवो न बहवोऽपि शत्रुजनास्तं यजमानं न जिनंति । न
+> हिंसंतु । य इंद्राय सुनवामेत्याह तमिति पूर्वेण संबंधः । अदितिरिंद्रमातास्मै यजमानायोरु विस्तीर्णं शर्म सुखं यंसत् । यच्छतु । किंच इंद्र
+> इंद्राय सुकृत् शोभनयागादीनां कर्ता यजमानः प्रियो भवति । मनायुरिंद्रविषयस्तुतिकामश्चास्येंद्रस्य प्रियो भवति । सुप्रावीः सुष्टु प्राविता सुष्टु
+> प्रगच्छन्नुपगच्छन्वा यजमानोऽस्येंद्रस्य प्रियो भवति । सोमी सोमवान्यजमानोऽस्येंद्रस्य प्रियो भवति ॥
+
+##### Gist of the bhāṣya
+
+Neither many nor few (दभ्राः (*dabhrāḥ*)) enemies harm that sacrificer who says "let us press Soma for Indra" (connected with तं (*taṃ*) of the earlier part). May Aditi, Indra's mother, grant this sacrificer wide happiness. Further, the sacrificer who does good rites (सुकृत् (*sukṛt*)) is dear to Indra; one desirous of praising Indra (मनायुः (*manāyuḥ*)) is dear to him; the sacrificer who aids well (सुप्रावीः (*suprāvīḥ*)), or who approaches well, is dear to him; the sacrificer who has Soma (सोमी (*somī*)) is dear to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दभ्राः (*dabhrāḥ*)—those few in number
+- बहवः (*bahavaḥ*)—the wicked, many in number
+- तं (*taṃ*)—that sacrificer (who resolved to offer Soma to Indra)
+- न जिनंति (*na jinaṃti*)—let them not harm
+
+### Printed p. 161
+- अदितिः (*aditiḥ*)—Indra's mother
+- अस्मै (*asmai*)—to this sacrificer
+- उरु (*uru*)—abundant
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may she provide
+- इंद्रे (*iṃdre*)—for Indra
+- सुकृत् (*sukṛt*)—the sacrificer who performs excellent rites such as sacrifices
+- प्रियः (*priyaḥ*)—becomes dear to Indra
+- मनायुः (*manāyuḥ*)—one who wishes to praise Indra
+- प्रियः (*priyaḥ*)—becomes beloved
+- सुप्रावीः (*suprāvīḥ*)—one who approaches Indra with humility
+- प्रियः (*priyaḥ*)—becomes worthy of regard
+- सोमीा (*somīā*)—the sacrificer who offers Soma to Indra
+- अस्य (*asya*)—to this Indra
+- प्रियः (*priyaḥ*)—becomes an object of affection
+
+##### भावार्थ (Bhāvārtha)
+
+May the enemies not harm the sacrificer who wishes to offer Soma to Indra. Whether those enemies be many or few, may this sacrificer suffer no trouble from them. The sacrificer who performs excellent sacrifices for Indra's satisfaction, who praises Indra, who approaches Indra with fear and devotion, and who offers Soma to Indra becomes an object of Indra's affection. Even if he pleases Indra in only one of these ways, he becomes worthy of his regard.
+
+##### English translation (H. H. Wilson)
+Him neither many nor few can molest : may Aditi grant him infinite happiness : the performer of pious acts is dear (to Indra) : dear to Indra is he whose mind is intent upon him ; dear is he who approaches him with homage ; dear to him is the offerer of the libation.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प्रा॒व्यः॑ प्राशु॒षाळे॒ष वी॒रः सुष्टेः॑ प॒क्तिं कृ॑णुते॒ केव॒लेंद्रः॑ ।  
+> नासु॑ष्टेरा॒पिर्न सखा॒ न जा॒मिर्दु॑ष्प्रा॒व्यो॑वहं॒तेदवा॑चः ॥
+
+> *suprāvyaḥ prāśuṣāḷeṣa vīraḥ suṣṭeḥ paktiṃ kṛṇute kevaleṃdraḥ |*  
+> *nāsuṣṭerāpirna sakhā na jāmirduṣprāvyovahaṃtedavācaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुप्राव्यः । प्राशुषाट् । एषः । वीरः । सुस्वः । पक्तिं । कृणुते । केवला । इंद्रः ।  
+> न । असुस्वः । आपिः । न । सखा । न । जामिः । दुःप्राव्यः । अवहंता । इत् ।  
+> अवाचः ॥ ६ ॥
+
+> *suprāvyaḥ | prāśuṣāṭ | eṣaḥ | vīraḥ | susvaḥ | paktiṃ | kṛṇute | kevalā | iṃdraḥ |*  
+> *na | asusvaḥ | āpiḥ | na | sakhā | na | jāmiḥ | duḥprāvyaḥ | avahaṃtā | it |*  
+> *avācaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 ---
 
-**Progress note:** Done through printed p. 155. pp. 150-155 (batch API)
+**Progress note:** Done through printed p. 161. pp. 156-161 (batch API)
