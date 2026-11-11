@@ -18723,6 +18723,287 @@ The tṛca beginning रथेन पृथु (*rathena pṛthu*) is, on the fi
 - इह (*iha*)—here, in this sacrifice (to take part)
 - आ गतं (*ā gataṃ*)—be gracious and come
 
+### Printed p. 476
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, come with your exceedingly powerful chariot to the neighbourhood of the sacrificer, the giver of oblations. Be pleased to take part in this sacrifice.
+
+##### English translation (H. H. Wilson)
+Indra and Vayu, come with your very strong chariot to the sacrifice; come hither.
+
+##### विशेषविषयगळु (Special Topics)
+
+The tṛca beginning रथेन पृथु (*rathena pṛthu*) (Ṛks 5, 6, 7) is to be recited, when the prauga-śastra mantras are recited on the fifth day of the sacrifice called Daśarātra, as the second tṛca, addressed to Indra and Vāyu. This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra रथेन पृथुपाजसा बहवः सूरचक्षसः (*rathena pṛthupājasā bahavaḥ sūracakṣasaḥ*) (Ā. 7-12).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑वायू अ॒यं सु॒तस्तं दे॒वेभिः॑ स॒जोष॑सा ।  
+> पिब॑तं दा॒शुषो॑ गृ॒हे ॥ ६ ॥
+
+> *iṃdravāyū ayaṃ sutastaṃ devebhiḥ sajoṣasā |*  
+> *pibataṃ dāśuṣo gṛhe ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रवायू इति । अयं । सुतः । तं । देवेभिः । सजोषसा ।  
+> पिबतं । दाशुषः । गृहे ॥ ६ ॥
+
+> *iṃdravāyū iti | ayaṃ | sutaḥ | taṃ | devebhiḥ | sajoṣasā |*  
+> *pibataṃ | dāśuṣaḥ | gṛhe ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू आयं सोमः सुतोऽभिषुतः । तं सोमं देवेभिर्देवैः
+> सजोषसा समानप्रीत् दाशुषो हविर्दातुर्गृहे यागशालायां पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vāyu, this Soma is pressed (सुतः (*sutaḥ*), "pressed out"). Drink that Soma, together with the gods, being of equal delight (सजोषसा (*sajoṣasā*), "of the same pleasure"), in the house of the giver of oblations (दाशुषः (*dāśuṣaḥ*)), that is, in the sacrificial hall.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- आयं (*āyaṃ*)—this Soma
+- सुतः (*sutaḥ*)—is pressed and made ready
+- तं (*taṃ*)—this very Soma
+- देवेभिः (*devebhiḥ*)—together with all the gods
+- सजोषसा (*sajoṣasā*)—being of equal delight
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who gives oblations
+- गृहे (*gṛhe*)—in the sacrificial house
+- पिबतं (*pibataṃ*)—drink
+
+### Printed p. 477
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, this Soma has been pressed and made ready. Drink this very Soma, together with all the gods, being of equal delight, in the sacrificial house of the sacrificer, the giver of oblations.
+
+##### English translation (H. H. Wilson)
+Indra and Vayu, this (libation) is poured out : sympathizing with the gods, drink it in the dwelling of the donor.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह प्र॒याण॑मस्तु वा॒मिंद्र॑वायू वि॒मोच॑नं ।  
+> इ॒ह वां॒ सोम॑पीतये ॥ ७ ॥
+
+> *iha prayāṇamastu vāmiṃdravāyū vimocanaṃ |*  
+> *iha vāṃ somapītaye ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । स्रयानं । अस्तु । नां । इंद्रवायू इति । विमोचनं ।  
+> इह । नां । सोमपीतये ॥ ७ ॥
+
+> *iha | srayānaṃ | astu | nāṃ | iṃdravāyū iti | vimocanaṃ |*  
+> *iha | nāṃ | somapītaye ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू वां युवयोरिहास्मिन्यज्ञे प्रयाणं गमनमस्तु ।
+> इहास्मिन्नेव यज्ञे वां सोमपीतये विमोचनमश्वानामस्तु । पर्यवसानत
+> एकार्थत्वेऽप्यादरार्थत्वादविरोधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vāyu, let your going (प्रयाणं (*prayāṇaṃ*)) be here, to this sacrifice. Here, in this very sacrifice, let there be an unyoking (विमोचनं (*vimocanaṃ*)) of your horses, for the drinking of Soma. Although in the end the meaning of the two statements is one, there is no contradiction, since the purpose is respect (*ādarārthatvāt*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- वां (*vāṃ*)—your
+- प्रयाणं (*prayāṇaṃ*)—going
+- इह (*iha*)—towards this place of sacrifice
+- अस्तु (*astu*)—let it be
+- वां (*vāṃ*)—of your horses
+- विमोचनं (*vimocanaṃ*)—the unyoking
+- इह (*iha*)—in this sacrifice
+- सोमपीतये (*somapītaye*)—let it be for the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, let your going be towards this place of sacrifice. For the sake of drinking Soma at this sacrifice, bring your chariot here, unyoke the horses, and drink the Soma.
+
+### Printed p. 478
+
+##### English translation (H. H. Wilson)
+Hither be your course; here, Indra and Vayu, be the letting of your horses loose, for your drinking of the Soma.
+
+## Sūkta 47 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायो शुक्र इति चतुर्यचं द्वितीयं सूक्तमानुष्टुभं वामदेवस्यार्षमैंद्रवायवं । आद्या केवलवायव्या । अत्रानुक्रमणिका । वायो चतुष्कमाद्या
+> वायव्यानुष्टुभं त्विति ॥ सूक्तविनियोगो लैंगिकः ॥ आद्या दशरात्रे चतुर्थेऽहनि
+> प्रउगशस्त्रे वायव्यतृचे प्रथमा । वायो शुक्रो आयामि ते विहि होत्रा
+> अवीताः । आ. ७-११ । इति सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+The sūkta वायो शुक्र (*vāyo śukra*), of four verses, is the second sūkta; it is in the anuṣṭubh metre, its seer is Vāmadeva, and its deity is Indra–Vāyu. The first verse is addressed to Vāyu alone. The Anukramaṇikā says: वायो चतुष्कमाद्या वायव्यानुष्टुभं त्विति (*vāyo catuṣkamādyā vāyavyānuṣṭubhaṃ tviti*). The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). The first verse is the first of the Vāyu tṛca in the prauga-śastra on the fourth day of the Daśarātra, as laid down by the sūtra वायो शुक्रो आयामि ते विहि होत्रा अवीताः (*vāyo śukro āyāmi te vihi hotrā avītāḥ*) (Ā. 7-11).
+
+Anuvāda: This sūkta, वायो शुक्रः (*vāyo śukraḥ*), is the second sūkta in the fifth anuvāka. It has four Ṛks. Its seer is Vāmadeva; its deities are Indra and Vāyu; its metre is anuṣṭubh. For the first Ṛk of this sūkta Vāyu alone is the deity; for the remaining Ṛks Indra and Vāyu are the deities. In the Anukramaṇikā it is said: वायो चतुष्कमाद्या वायुव्यानुष्टुभं तु (*vāyo catuṣkamādyā vāyuvyānuṣṭubhaṃ tu*). The use of the sūkta is by indication. The first Ṛk of this sūkta is to be recited, when the prauga-śastra mantras are recited on the fourth day of the sacrifice called Daśarātra, as the first Ṛk of the tṛca addressed to Vāyu (three Ṛks). This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra वायो शुक्रो अयामि ते विहि होत्रा अवीताः (*vāyo śukro ayāmi te vihi hotrā avītāḥ*) (Ā. 7-11).
+
+Sūkta 47. Maṇḍala 4; Anuvāka 5; Sūkta 47. Aṣṭaka 3; Adhyāya 7; Varga 23. Number of Ṛks in the sūkta: 4. Seer: Vāmadeva. Deity: 1 Vāyu; 2–4 Indra and Vāyu. Metre: Anuṣṭubh.
+
+### Printed p. 479
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वायो॑ शु॒क्रो अ॑यामि ते॒ मध्वो॒ अग्रं॒ दिवि॑ष्टिषु ।  
+> आ या॑हि॒ सोम॑पीतये स्वा॒होर्दे॑व नि॒युत्व॑ता ॥ १ ॥
+
+> *vāyo śukro ayāmi te madhvo agraṃ diviṣṭiṣu |*  
+> *ā yāhi somapītaye svāhordeva niyutvatā ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायो इति । शुक्रः । अयामि । ते । मध्वः । अग्रं । दिविष्टिषु ।  
+> आ । याहि । सोमपीतये । स्पार्हः । देव । नियुत्वता ॥ १ ॥
+
+> *vāyo iti | śukraḥ | ayāmi | te | madhvaḥ | agraṃ | diviṣṭiṣu |*  
+> *ā | yāhi | somapītaye | spārhaḥ | deva | niyutvatā ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो ते तुभ्यं शुक्रो व्रतचर्यादिना दीप्तोऽहं मध्यो मधुरं
+> सोमरसं ॥ कर्मणि षष्ठि ॥ अग्रमितरेभ्यः पूर्वमयामि । आययामि ॥
+> अयतिरंतर्भावितण्यर्थः ॥ किमर्थं । दिविष्टिषु दिवो द्युलोकस्यैषणेषु सत्सु हे
+> देव वायो स्पार्हः स्पृहणीयस्त्वं नियुत्वता । नियुद्वायोः प्रतिनियुतोऽश्वः।
+> तेन साधनेना याहि सोमपीतये सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, I, radiant through observance of vows and the like, offer to you (ते (*te*) is you, the dative) the sweet Soma juice (the genitive being in the sense of the object), first, before the others; आययामि (*āyayāmi*), "I bring" (the root अय (*aya*) has the causative sense within it). For what purpose? When there are desires (*eṣaṇeṣu*) for heaven, the world of light (दिविष्टिषु (*diviṣṭiṣu*)), O god Vāyu, you who are to be desired (स्पार्हः (*spārhaḥ*)), come with the niyut. The niyut is Vāyu's team, each horse paired with another; come by that means for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- ते (*te*)—addressed to you
+- शुक्रः (*śukraḥ*)—I, who am radiant (through observance of vows and the like)
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- अग्रं (*agraṃ*)—before offering to the other gods
+- दिविष्टिषु (*diviṣṭiṣu*)—in this sacrifice, performed in expectation of a place in the world of the gods
+- अयामि (*ayāmi*)—I bring and offer
+- देव (*deva*)—O radiant Vāyu
+- स्पार्हः (*spārhaḥ*)—you, who are desired
+- नियुत्वता (*niyutvatā*)—with the horses called niyut
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- आ याहि (*ā yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, I, who am radiant through observance of vows and the like, in expectation of a place in the world of the gods, bring sweet Soma juice and offer it to you even before offering it to the other gods. O radiant Vāyu, you who are desired by all, be pleased to come with your horses called niyut, for the drinking of Soma.
+
+### Printed p. 480
+
+##### English translation (H. H. Wilson)
+Purified (by holy acts) I bring to you, Vayu, the Soma, first (offered to you at sacrifices) that seek to gain heaven : deity, you are ever longed for, come with thy Niyut steeds to drink the Soma juice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑श्च वायवेषां॒ सोमा॑नां प्री॒तिम॑र्हथः ।  
+> यु॒वां हि यंतींद॑वो नि॒म्म मापो॒ न स॒ध्र्य॑क् ॥ २ ॥
+
+> *iṃdraśca vāyaveṣāṃ somānāṃ prītimarhathaḥ |*  
+> *yuvāṃ hi yaṃtīṃdavo nimma māpo na sadhryak ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । च । वायो इति । एषां । सोमानां । प्रीतिं । अर्हथः ।  
+> युवां । हि । यंति । इंदवः । निम्मं । आपः । न । सध्र्यक् ॥ २ ॥
+
+> *iṃdraḥ | ca | vāyo iti | eṣāṃ | somānāṃ | prītiṃ | arhathaḥ |*  
+> *yuvāṃ | hi | yaṃti | iṃdavaḥ | nimmaṃ | āpaḥ | na | sadhryak ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रश्चेत्यादिस्तृचो दशरात्रे चतुर्थेऽहन्यैंद्रवायवो द्वितीयः ।
+> सूत्रितं च । इंद्रश्च वायवेषां सोमानामा चिकित्सान सुक्रतू । आ. ७-११ । इति ॥
+> हे वायो त्वमिंद्रश्चैषां गृहीतानां सोमानां पीतिं पानमर्हथः ।
+> युवां हि खल्विंदवः सोमा यंति । प्राप्नुवंति । निम्मं खातप्रदेशमापो न
+> सध्र्यक् उदकानि यथा सह्येव गच्छंति तद्वत्सर्वे सोमा युवां हि यंति ॥
+
+##### Gist of the bhāṣya
+
+The tṛca beginning इंद्रश्च (*iṃdraśca*) is the second, the Aindravāyava one, on the fourth day of the Daśarātra. It is laid down by the sūtra इंद्रश्च वायवेषां सोमानामा चिकित्सान सुक्रतू (*iṃdraśca vāyaveṣāṃ somānāmā cikitsāna sukratū*) (Ā. 7-11). O Vāyu, you and Indra are worthy of the drinking (पीतिं (*pītiṃ*), "drinking") of these Somas that have been taken up. For the Soma drops (इंदवः (*iṃdavaḥ*)) go (यंति (*yaṃti*), "reach") to you both, just as waters (आपः (*āpaḥ*)) go together (सध्र्यक् (*sadhryak*)) to a hollow, a dug-out place (निम्मं (*nimmaṃ*)); in the same way all the Somas go to you two.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- इंद्रः (*iṃdraḥ*)—O Indra
+- युवां हि (*yuvāṃ hi*)—you two alone
+- एषां (*eṣāṃ*)—of these, made ready here
+- सोमानां (*somānāṃ*)—of the Soma juices
+- पीतिं (*pītiṃ*)—for the drinking
+- अर्हतः (*arhataḥ*)—you are worthy
+- निम्मं (*nimmaṃ*)—to low-lying places
+- सध्र्यक् (*sadhryak*)—gathering together in the form of a stream
+- आपो न (*āpo na*)—as waters flow
+- इंदवः (*iṃdavaḥ*)—these Soma juices
+- यंति (*yaṃti*)—join (you alone)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, you two alone are worthy of the drinking of the Soma juices made ready here. As waters gather together in the form of a stream and flow to low-lying places, these Soma juices join you alone.
+
+### Printed p. 481
+
+##### English translation (H. H. Wilson)
+Indra and Vayu, you are fit for the drinking of theeS Soma libations, for the drops flow towards you as waters (run) together into a deep place.
+
+##### विशेषविषयगळु (Special Topics)
+
+The tṛca of this sūkta beginning इंद्रश्च (*iṃdraśca*) (Ṛks 2-3-4) is to be recited on the fourth day of the sacrifice called Daśarātra as the second tṛca, addressed to Indra and Vāyu. This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra (printed सूक्तद (*sūktada*), "of the sūkta") इंद्रश्च वायुवेषां सोमनामा चिकितान सुक्रतू (*iṃdraśca vāyuveṣāṃ somanāmā cikitāna sukratū*) (Ā. 7-11).**NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाय॒ुविंद्र॑श्च शु॒ष्मिणा॑ स॒रथं॑ शवसस्पती ।  
+> नि॒युत्वं॑ता न ऊ॒तय॒ आ या॑तं॒ सोम॑पीतये ॥ ३ ॥
+
+> *vāyuviṃdraśca śuṣmiṇā sarathaṃ śavasaspatī |*  
+> *niyutvaṃtā na ūtaya ā yātaṃ somapītaye ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायो इति । इंद्रः । च । शुष्मिणा । सरथं । शवसः । पती इति ॥  
+> नियुत्वंता । नः । ऊतये । आ । यातं । सोमपीतये. ९ ॥ ३ ॥
+
+> *vāyo iti | iṃdraḥ | ca | śuṣmiṇā | sarathaṃ | śavasaḥ | patī iti ‖*  
+> *niyutvaṃtā | naḥ | ūtaye | ā | yātaṃ | somapītaye. 9 ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो त्वमिंद्रश्च हे शवसस्पती बलस्य पती शुष्मिणा बलवंतौ नियुत्वंता
+> नियुत्संज्ञॆ काश्ववंतौ युवां सरथं समानमेव रथमारुह्येति शेषः । न ऊतये
+> रक्षणाय सोमपीतये सोमपानायात्रा यातं । आगच्छृतं । यद्वा । सरथमधितिष्ठतमारुह्य चायातमिति च वाक्यद्वयं ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, you and Indra, O lords of strength (शवसस्पती (*śavasaspatī*)), mighty (शुष्मिणा (*śuṣmiṇā*)), possessing the horses called niyut (नियुत्वंता (*niyutvaṃtā*)), having mounted one and the same chariot (सरथं (*sarathaṃ*); "having mounted" is to be supplied), come here for our protection (ऊतये (*ūtaye*)) and for the drinking of Soma. Or else there are two sentences: "mount the same chariot" and "come".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- इंद्रः (*iṃdraḥ*)—O Indra
+- शवसस्पती (*śavasaspatī*)—you who are protectors of strength
+- शुष्मिणा (*śuṣmiṇā*)—and are full of valour
+- नियुत्वंता (*niyutvaṃtā*)—and have the horses called niyut
+- सरथं (*sarathaṃ*)—riding on one chariot
+- नः (*naḥ*)—our
+- ऊतये (*ūtaye*)—for protection
+- सोमपीतये (*somapītaye*)—and for the drinking of Soma
+- आ यातं (*ā yātaṃ*)—be pleased to come
+
 ---
 
-**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
+**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
