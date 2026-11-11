@@ -30848,6 +30848,264 @@ They diligently worship him daily who is like a horse (to convey oblations), who
 > *bodhat | yat | mā | haribhyāṃ | kumāraḥ | sāhadevyaḥ |*  
 > *accha | na | hūtaḥ | ut | araṃ ‖ 7 ‖*
 
+### Printed p. 924
+#### Ṛk 7
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साहदेव्यः सहदेवनान्नो राज्यः पुत्रः कुमारः सोमकाभिधो राजा
+> हरिभ्यामश्वाभ्यामश्वा दातुं मा मां यद्यदा बोधत् । बोधयामासेमौ
+> तवाश्वाविति । तदाहमच्छाभिमुख्येन कुमारेण हूतः सन् नोदरं । तावश्वावलब्धान निर्गतवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+Sāhadevya is the son of the king named Sahadeva, the prince (kumāra), the king called Somaka. When he made me aware (bodhat) that "these two horses are yours", that is, when he pointed out the two horses (harī) to give to me, I was called (hūta) towards him (accha). I did not go away from there without receiving those two horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साहदेव्यः (*sāhadevyaḥ*)—the son of the king named Sahadeva
+- कुमारः (*kumāraḥ*)—the prince, who bears the name Somaka
+- हरिभ्यां (*haribhyāṃ*)—having come with two horses
+- मा (*mā*)—me
+- यत् (*yat*)—when
+- बोधत् (*bodhat*)—when he pointed out and said (that these belong to you)
+- अच्छ (*accha*)—facing him
+- हूतः (*hūtaḥ*)—having been called
+- न उत् अरं (*na ut araṃ*)—I did not return without getting them
+
+##### भावार्थ (Bhāvārtha)
+
+The prince, the son of the king named Sahadeva and bearing the name Somaka, came with two horses, called me and said, "These two are yours", pointing me out for them. Then I did not return without receiving them.
+
+##### English translation (H. H. Wilson)
+When the prince, the son of Sahadéva, promised (to present) me with two horses, I withdrew not when called before him.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāhadevya Kumāra—the king named Somaka, son of one named Sahadeva. It is to be understood that he was a king of the people called Sṛñjayas. The Aitareya Brāhmaṇa says that two seers, Parvata and Nārada, were his priests:
+एतमु हैव प्रोवाच तुरः काषवेयो जनमेजयाय पारिक्षिताय्कॆतमु हैव प्रोचतुः पर्वतनारदौ सार्ङ्ज्यायाय बभ्रवे दैवावृधाय भीमाय वैदर्भाय नग्नजिते गांधारायैतमु हैव प्रोवाचाग्निः सनश्रुतायारिंदमाय क्रतुविदे जानकाय एतमु हैव प्रोवाच वसिष्ठ सुदासे पैजवनाय ते ह ते सर्व एव महज्जग्मुरेतं भक्तं भक्षयित्वा सर्वॆ हैव महाराजा आसुरादित्य इव स्म श्रियां प्रतिष्ठितास्तपंति सर्वाभ्यो दिग्भो बलिमावहंतः । (*etamu haiva provāca turaḥ kāṣaveyo janamejayāya pārikṣitāykètamu haiva procatuḥ parvatanāradau sārṅjyāyāya babhrave daivāvṛdhāya bhīmāya vaidarbhāya nagnajite gāṃdhārāyaitamu haiva provācāgniḥ sanaśrutāyāriṃdamāya kratuvide jānakāya etamu haiva provāca vasiṣṭha sudāse paijavanāya te ha te sarva eva mahajjagmuretaṃ bhaktaṃ bhakṣayitvā sarvè haiva mahārājā āsurāditya iva sma śriyāṃ pratiṣṭhitāstapaṃti sarvābhyo digbho balimāvahaṃtaḥ |*) (Ai. Brā. 35-36)
+
+### Printed p. 925
+In speaking of certain special matters (traditions handed down) concerning kings' drinking of Soma at the sacrifice, the names of some kings are mentioned here. Among them the name of King Somaka and the names of his priests Parvata and Nārada are stated. It is thus: on the subject of the Soma-draught, the great seer Tura, son of Kavaṣa, told it to one named Janamejaya, son of Parīkṣit. This is one tradition. This matter the two seers Parvata and Nārada told to the king named Somaka, son of Sahadeva. That Somaka told it to another named Sahadeva of the Sṛñjaya line; that Sahadeva to Babhru of the same line; Babhru to Daivāvṛdha; Daivāvṛdha to Bhīma; Bhīma to Vaidarbha; Vaidarbha to Nagnajit; Nagnajit to Gāndhāra. This is the second tradition.
+In the same way the great seer Agni told it to Sanaśruta; Sanaśruta to Arindama; Arindama to Kratuvid; Kratuvid to Jānaka. This is the third tradition. Likewise the great seer Vasiṣṭha told it to Sudāsa, and Sudāsa to Paijavana. It is said here that all the men from Tura down to Paijavana followed this tradition and attained high station.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्या य॑ज॒ता हरी॑ कुमा॒रात्सा॑हदे॒व्यात् ।  
+> प्रय॑ता स॒द्य आ द॑दे ॥ ८ ॥
+
+> *uta tyā yajatā harī kumārātsāhadevyāt |*  
+> *prayatā sadya ā dade ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्या । यजता । हरी इति । कुमारात् । साह्यदेव्यात् ।  
+> प्रयता । सद्यः । आ । ददे ॥ ८ ॥
+
+> *uta | tyā | yajatā | harī iti | kumārāt | sāhyadevyāt |*  
+> *prayatā | sadyaḥ | ā | dade ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च साहदेव्यात्सहदेवस्य पुत्रात्कुमारात्सोमकाद्राज्ञो यजता
+> पूजनीयौ प्रयता प्रयत् त्या त्यौ तौ प्रसिद्धौ हरी अश्वा सद्यो ऋस्मिन्निने तेना.
+> हूतस्तस्मिन्नेव दिन आ ददे । आदत्तवानस्मि । मंत्रद्रष्टा ऋषिर्बोधदित्यग्वयेन
+> कुमारमश्वेप्सयाभ्युपगम्याश्वावेतस्माल्लब्द्वा प्रीतोऽभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Uta" means "and also". From the prince Somaka, the king, son of Sahadeva (Sāhadevya), those two well-known horses (hari), worthy of worship (yajatā) and trained (prayatā), I took (ā dade) on that very day (sadyaḥ), the day on which I was called. The seer, the mantra-seer, construing "bodhat" with this: having approached the prince out of desire for horses and having obtained the two horses from him, he became pleased. This is the meaning.
+
+### Printed p. 926
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- साहदेव्यात् (*sāhadevyāt*)—from the son of Sahadeva
+- कुमारात् (*kumārāt*)—from the prince named Somaka
+- यजता (*yajatā*)—worthy of worship
+- प्रयता (*prayatā*)—trained
+- त्या (*tyā*)—well-known
+- हरी (*harī*)—the two horses
+- सद्यः (*sadyaḥ*)—on the very day he had me brought
+- आ ददे (*ā dade*)—I accepted
+
+##### भावार्थ (Bhāvārtha)
+
+From the prince, the son of Sahadeva and named Somaka, I received, on the very day he had me brought, the two horses, worthy of worship, trained and well known.
+
+##### English translation (H. H. Wilson)
+But immediately accepted those two excellent and well-trained horses from the prince, the son of Sahadeva.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष नां॑ देवानश्विना कुमा॒रः सा॑हदे॒व्यः ।  
+> दी॒र्घायु॑रस्तु॒ सोम॑कः ॥ ९ ॥
+
+> *eṣa nāṃ devānaśvinā kumāraḥ sāhadevyaḥ |*  
+> *dīrghāyurastu somakaḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । नां । देवौ । अश्विना । कुमारः । साहसदेव्यः ।  
+> दीर्घआयुः । अस्तु । सोमकः ॥ ९ ॥
+
+> *eṣaḥ | nāṃ | devau | aśvinā | kumāraḥ | sāhasadevyaḥ |*  
+> *dīrghaāyuḥ | astu | somakaḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवौ द्योतमानौ हे आश्विनौ नां युवां तर्पकः साहदेव्यः सहदेवस्य
+> पुत्रः कुमारः सोमकः सोमकाभिधान एष राजा दीर्घायुरस्तु । शतायुष्को
+> भवतु । एतमु हैव प्रोचतुः पर्वतनारदौ सोमकायेत्यादिना सर्वे हैव
+> महाराजा आसुः। ऐ. ब्रा. ७-३४। इत्यनेन ब्राह्मणेन सोमकस्यराजत्वं स्पष्टीकृतं॥
+
+##### Gist of the bhāṣya
+
+O divine (shining) Aśvins, this king Somaka, the prince, son of Sahadeva, who is your gratifier (nāṃ = yuvām tarpakaḥ), bearing the name Somaka, may he be long-lived, that is, may he live a hundred years. By the Brāhmaṇa beginning एतमु हैव प्रोचतुः पर्वतनारदौ सोमकाय (*etamu haiva procatuḥ parvatanāradau somakāya*) and continuing सर्वे हैव महाराजा आसुः (*sarve haiva mahārājā āsuḥ*) (Ai. Brā. 7-34), the kingship of Somaka is made clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—shining
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—one who gratifies you
+- साहदेव्यः (*sāhadevyaḥ*)—son of Sahadeva
+- कुमारः (*kumāraḥ*)—the prince
+- सोमकः (*somakaḥ*)—
+
+### Printed p. 927
+- (सोमकः (*somakaḥ*) continued) bearing the name Somaka
+- एषः (*eṣaḥ*)—this king
+- दीर्घायुः (*dīrghāyuḥ*)—possessed of a full life
+- अस्तु (*astu*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Aśvin deities, may this king, who gratifies you, the son of Sahadeva, the prince, bearing the name Somaka, be possessed of a full life.
+
+##### English translation (H. H. Wilson)
+Divinc Ashwins, may this prince, Somaka, the son of Sahadeva, your (worshipper), enjoy long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+Somaka—the matter of the king named Somaka, son of Sahadeva, mentioned in the 8th, 9th and 10th ṛks of this sūkta, has been explained in the 7th ṛk of this sūkta. It may be understood by looking there.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं यु॒वं दे॑वानश्विना कुमा॒रं सा॑हदे॒व्यं ।  
+> दी॒र्घायु॑षं कृणोतन ॥ १० ॥
+
+> *taṃ yuvaṃ devānaśvinā kumāraṃ sāhadevyaṃ |*  
+> *dīrghāyuṣaṃ kṛṇotana ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । युवं । देवौ । अश्विना । कुमारं । साह्यदेव्यं ।  
+> दीर्घआयुषं । कृणोतन ॥ १० ॥
+
+> *taṃ | yuvaṃ | devau | aśvinā | kumāraṃ | sāhyadevyaṃ |*  
+> *dīrghaāyuṣaṃ | kṛṇotana ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवावश्विना द्योतमानावश्विन् युवं युवां साहदेव्यं सहदेवस्य
+> पुत्रं कुमारं सोमकाख्यं राजानं दीर्घायुषं शतायुष्कं कृणोःतन ।
+> कुरुतं । अनेन द्वचेनास्य कुमारस्य दीर्घमायुरश्विनावृषिरयाचतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O divine, shining Aśvins, you two make the son of Sahadeva, the prince, the king named Somaka, long-lived, that is, of a hundred years' life. By this ṛk the seer asks the Aśvins for a long life for this prince. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—shining
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- तं (*taṃ*)—the well-known
+- साहदेव्यं (*sāhadevyaṃ*)—son of Sahadeva
+- कुमारं (*kumāraṃ*)—the prince bearing the name Somaka
+- दीर्घायुषं (*dīrghāyuṣaṃ*)—as one possessed of a full life
+- कृणोतन (*kṛṇotana*)—make
+
+### Printed p. 928
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Aśvin deities, make the well-known prince, the son of Sahadeva, bearing the name Somaka, one possessed of a full life.
+
+##### English translation (H. H. Wilson)
+Divine Ashvins, do you two make the prince, the son of Sahadeva-long-lived.
+
+## Sūkta 16 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ सत्यो यात्वित्येकविंशत्यृचं षष्ठं सूक्तं त्रैष्टुभमैंद्रं । आत्रेयमनुक्रमणिका । आ सत्यः सैकैंद्रमिति । तत्रैंद्रमित्युक्तत्वादग्न्यधिकारो निवृत्त इत्यवगम्यते॥ चतुर्विंशेऽहनि माध्यंदिनसवने मैत्रावरुणशस्त्र इदं द्वितीयमहीनसूक्तं।
+> तथा च सूत्रितं । आ सत्यो यात्वित्यहीनसूक्तं द्वितीयं मैत्रावरुणः । आ. ७-४ ।
+> इति ॥ समूळ्हे दशरात्रे नवमेऽहनि निष्केवल्यशस्त्र इदं सूक्तं । तथा च सूत्रितं ।
+> आ सत्यो यात्वहं भुवं तत्त इंद्रियमिति निष्केवल्यं । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आ सत्यो यातु (*ā satyo yātu*) has twenty-one ṛks and is the sixth sūkta; it is in Triṣṭubh metre and addressed to Indra. The Anukramaṇikā (of the Ātreya) says आ सत्यः सैकैंद्रं (*ā satyaḥ saikaiṃdraṃ*). Since "aindra" is stated there, it is understood that the Agni section has ended. On the twenty-fourth day, at the midday pressing (mādhyandina-savana), in the Maitrāvaruṇa's śastra, this is the second Ahīna-sūkta. So it is stated in the sūtra आ सत्यो यात्वित्यहीनसूक्तं द्वितीयं मैत्रावरुणः (*ā satyo yātvityahīnasūktaṃ dvitīyaṃ maitrāvaruṇaḥ*) (Ā. Sū. 7-4). In the Samūḍha ten-night rite, on the ninth day, in the Niṣkevalya-śastra, this sūkta is used. So it is stated: आ सत्यो यात्वहं भुवं तत्त इंद्रियमिति निष्केवल्यं (*ā satyo yātvahaṃ bhuvaṃ tatta iṃdriyamiti niṣkevalyaṃ*) (Ā. Sū. 8-7).
+Anuvāda (Kannada): This sūkta आ सत्यो यातु (*ā satyo yātu*) is the sixth sūkta in the second anuvāka; it has twenty-one ṛks. Its seer is Vāmadeva; the deity Indra; the metre Triṣṭubh. In the Anukramaṇikā it is said आ सत्यः सैकैंद्रं (*ā satyaḥ saikaiṃdraṃ*). Since "aindra" is said here, it becomes evident that the sūktas with Agni as deity have ended. On the twenty-fourth day of the sacrifice, at the midday pressing, among the śastra mantras to be recited by the priest called Maitrāvaruṇa, this sūkta is to be recited as the second Ahīna-sūkta; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra आ सत्यो यातित्यहीनसूक्तं द्वितीयं मैत्रावरुणः (*ā satyo yātityahīnasūktaṃ dvitīyaṃ maitrāvaruṇaḥ*) (Ā. 7-4). And in the ten-night rite called Samūḍha, the use of this sūkta for the recitation of the Niṣkevalya-śastra mantras on the ninth day is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra आ सत्यो यात्वहं भुवं तत्त इंद्रियमिति निष्केवल्यं (*ā satyo yātvahaṃ bhuvaṃ tatta iṃdriyamiti niṣkevalyaṃ*) (Ā. 8-7).
+
+### Printed p. 929
+
+> सूक्त-१६
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—१६
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—१७, १८, १९, २० ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—२१ ॥
+> ऋषि:—वामदेवः ॥
+> देवता—इंद्रः ॥
+> छंदः—त्रिष्टप् ॥
+
+Sūkta 16. Maṇḍala 4; Anuvāka 2; Sūkta 16. Aṣṭaka 3; Adhyāya 5; Vargas 17, 18, 19, 20. Number of ṛks in the sūkta: 21. Seer: Vāmadeva. Deity: Indra. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स॒त्यो या॑तु म॒घवा॑ ऋजी॒षी द्रवं॑त्वस्य॒ हर॑य॒ उप॑ नः।  
+> तस्मा॒ इदंधः॑ सुषुमा सु॒दक्ष॑मि॒हाभि॑पि॒त्वं क॑रते गृणा॒नः ॥१॥
+
+> *ā satyo yātu maghavā ṛjīṣī dravaṃtvasya haraya upa naḥ|*  
+> *tasmā idaṃdhaḥ suṣumā sudakṣamihābhipitvaṃ karate gṛṇānaḥ ‖1‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सत्यः । यातु । मघ्वान् । ऋजीषी । द्रवंतु । अस्य । हरयः । उप । नः ।  
+> तस्मै । इत् । अंधः । सुसुम । सुदक्षं । इह । अभिपित्वं । करते । गृणानः ॥ १ ॥
+
+> *ā | satyaḥ | yātu | maghvān | ṛjīṣī | dravaṃtu | asya | harayaḥ | upa | naḥ |*  
+> *tasmai | it | aṃdhaḥ | susuma | sudakṣaṃ | iha | abhipitvaṃ | karate | gṛṇānaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजीषी । ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वान्
+> सत्यः सत्यवान्मघवान्थनवानिंद्रो नोऽस्माकमुप समीप आ यातु । आगच्छतु । किंच
+> अस्येंद्रस्य हरयोऽश्वा नोऽस्माकमुप समीपे द्रवंतु । आगच्छंतु । वयं यजमाना इहास्मिन्यज्ञे तस्मा इंद्राय सुदक्षं शोभनबलं । सारोपेतमित्यर्थः ।
+> इदिदं प्रत्यक्षेणोपलभ्यमानमंधोऽन्नरूपं सोमं सुषुम। अभिषुतं कुर्याम । गृणानोऽस्माभिः स्तूयमान इंद्रोऽभिपित्वमस्मदभिमतप्राप्तिं करते करोतु॥
+
+##### Gist of the bhāṣya
+
+"Ṛjīṣī": by the word ṛjīṣa is meant Soma that has been pressed and whose essence is gone. Possessed of it, true (satya), wealthy (maghavān, "possessing wealth") Indra, may he come (ā yātu) near us. Further, may this Indra's bay horses (harayaḥ) run, that is, come, near us. We sacrificers, here (iha) in this sacrifice, for that Indra, would press (suṣumā) this very food (andhas), the Soma visible before us, of good strength (sudakṣa), that is, endowed with essence. May Indra, being praised (gṛṇāna) by us, bring about the attainment of what we desire (abhipitva).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषी (*ṛjīṣī*)—one who has Soma of the nature of ṛjīṣa
+- सत्यः (*satyaḥ*)—the truthful
+- मघवान् (*maghavān*)—Indra, the wealthy
+- नः (*naḥ*)—our
+- उप (*upa*)—near
+- आ यातु (*ā yātu*)—may he come and join
+- अस्य (*asya*)—his
+
 ---
 
-**Progress note:** Done through printed p. 923. pp. 918-923 (batch API)
+**Progress note:** Done through printed p. 929. pp. 924-929 (batch API)
