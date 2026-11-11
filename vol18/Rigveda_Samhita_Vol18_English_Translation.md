@@ -25089,6 +25089,125 @@ We celebrate the name of Ghrita at this sacrifice, we offer it with adoration : 
 
 चतुःशृंगः ब्रह्मा (*catuḥśṛṃgaḥ brahmā*)—here "four horns" means the four Vedas. "Brahmā" means the ṛtvij (priest). The meaning is the priest called Brahmā, who knows the four Vedas well. In the sacrifice the mantra
 
+### Printed p. 649
+
+and the like in the sacrifice may proceed without omission and in full; and if lapses occur through negligence, to remedy them by expiations and the like and to see that the sacrifice is completed according to rule — this is the duty of the officiating priest called Brahmā.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒त्वारि॒ शृंगा॒ त्रयो॑ अस्य॒ पादा॒ द्वे शी॒र्षे स॒प्त हस्ता॑सो  
+> अस्य !  
+> त्रिधा॑ ब॒द्धो वृ॑ष॒भो रो॑रवीति म॒हो दे॒वो मर्त्या॒ आ  ॑
+> विवेश ॥ ३ ॥
+
+> *catvāri śṛṃgā trayo asya pādā dve śīrṣe sapta hastāso*  
+> *asya !*  
+> *tridhā baddho vṛṣabho roravīti maho devo martyā ā*  
+> *viveśa ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चत्वारि । शृंगा । त्रयः । अस्य । पादाः । द्वे इति । शीर्षे इति । सप्त । हस्तासः । अस्य ।  
+> त्रिधा । बद्धः । वृषभः । रोरवीति । महः । देवः । मर्त्यान् । आ । विवेश ॥ ३ ॥
+
+> *catvāri | śṛṃgā | trayaḥ | asya | pādāḥ | dve iti | śīrṣe iti | sapta | hastāsaḥ | asya |*  
+> *tridhā | baddhaḥ | vṛṣabhaḥ | roravīti | mahaḥ | devaḥ | martyān | ā | viveśa ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यपि सूक्तस्याग्नि सूर्यादिपंचदेवताकत्वात्पंचधायं मंत्रो व्याख्येयस्तथापि निरुक्ताद्युक्तनीत्या यज्ञात्मकाग्नेः सूर्यस्य च प्रकाशकत्वेन तत्परतया
+> व्याख्यायते । अस्य यज्ञात्मकस्याग्नेश्वारि शृंगा चत्वारो वेदाः शृंगस्थानीयाः ।
+> यद्यप्यापस्तंबेन यज्ञं व्याख्यान्यामः स त्रिभिर्वेदैर्विधीयते । परिभा. १-३ ।
+> इत्युक्तं तथाप्याथर्वणस्येतरानपेक्षयैवै काग्नि साध्यानां कृत्स्नकर्मणामभिधायकत्वात्तदपेक्षया चत्वारि शृंगेत्युक्तं। त्रयो अस्य पादाः सवनानि त्रीण्यस्य पादाः।
+> प्रवृत्तिसाधनत्वात्पादा इत्युच्यंते । द्वे शीर्षे बह्मौ दनं प्रवर्गश्च । इष्टिसोमप्राधान्येनेदमुक्तं । सप्त हस्तासः सप्त छंदांसि । हस्ता अनुष्ठानस्य मुख्यसाधनं ।
+> छंदांस्यपि देवताप्रीणनस्य मुख्यसाधनमिति हस्तव्यवहारः । त्रिधा बद्धो मंत्रकल्पब्राह्मणैस्त्रि प्रकारं बद्धः । बंधनमस्य तन्निष्टाद्यत्वं । वृषभः फलानां वर्षिता
+> रोरवीति । भृशं शब्दायते । ऋग्यजुःसामोक्षैः शस्त्रयागस्तुतिरूपैर्होत्राद्युत्पादितैर्ध्वनिभिरसौ रौति । एवं महो देवो मर्त्याना विवेश । मर्त्यार्यजमानैर्निष्पाद्यत्वात्पवेश उपचर्यते ॥ अत्र यास्कश्चत्वारि शृंगेति वेदा वा एत उक्ताः ।
+
+##### Gist of the bhāṣya
+
+Although the sūkta has five deities, Agni, Sūrya and the others, so that this mantra ought to be explained in five ways, Sāyaṇa explains it here, following the Nirukta and the rest, as referring to the sacrificial Agni and to Sūrya, because they are what gives light. The four horns of this sacrificial Agni are the four Vedas, which stand in the place of horns. It has indeed been said, in the words quoted from Āpastamba (यद्यप्यापस्तंबेन यज्ञं व्याख्यान्यामः स त्रिभिर्वेदैर्विधीयते (*yadyapyāpastaṃbena yajñaṃ vyākhyānyāmaḥ sa tribhirvedairvidhīyate*), Paribhā. 1-3), that the sacrifice is enjoined by three Vedas; yet the Atharvan Veda, without regard to the others, sets forth all the rites that are accomplished by Agni alone, and in relation to it the "four horns" are spoken of. "Three are his feet": the three savanas are his feet; they are called feet because they are the means of progress. "Two heads": the Brahmaudana and the Pravargya; this is said with regard to the prominence of the iṣṭi and of soma. "Seven hands": the seven metres. The hand is the chief instrument of performance, and the metres are likewise the chief means of pleasing the deities; hence the figure of hands. "Bound threefold": he is bound in three ways by mantra, kalpa and brāhmaṇa; his being bound is his dependence on them **NOTE**. "Bull": the showerer of fruits. "Roars": sounds loudly; he roars with the sounds produced by the hotṛ priests and others, in the Ṛg, Yajus and Sāman, in the form of śastra, yāga and stuti. Thus the great god has "entered mortals"; since he is accomplished by mortal sacrificers, the entering is spoken of figuratively. Here Yāska has said, "By 'four horns' the Vedas are meant" (the sentence continues on the next page).
+
+### Printed p. 650
+
+> नि. १३-७। इत्यादिना निरवोचत् । तदत्रानुसंधेयं ॥ अथ सूर्यपक्षे व्याख्यायते!
+> अस्यादित्यस्य चत्वारि शृंगाणि चतुस्रो दिशः । एताः श्रयणार्थत्वाच्छृंगाणीत्युपचर्यंते। त्रयो अस्य पादाः । त्रयो वेदाः पादस्थानीया भवंति गमनसाधनत्वात् ।
+> तथा ह्यग्भिः पूर्वाह्ने दिवि देव ईयत इत्युपक्रम्य वेदैरशून्यस्त्रिभिरेति सूर्यः ।
+> तै. ब्रा. ३-१२-९-१ । इति हि वेदत्रयेण गतिराम्नाता । द्वे शीर्षे । अहश्च रात्रिश्चेति
+> द्वे शिरसी । सप्त हस्तासो अस्य । सप्त रश्मयः षड्विलक्षणा ऋतव एकः साधारण इति वा
+> सप्त हस्ता भवंति । त्रिधा बद्धस्त्रिषु स्थानेषु क्षित्यादिष्टग्न्याद्यात्मकत्वेन संबद्धः । ग्रीष्म
+> वर्षाहेमंताख्यॆ स्त्रिभिस्त्रेधा बद्दो ना । वृषभो वर्षिता रोरवीति । शब्दं करोति
+> वृष्ट्वादिद्वारा। स महो महान् देवो मर्त्याना विवेश तन्नियंतृतया। सूर्य
+> आत्मा जगतस्तस्थुषश्च । ऋग्वे. १-११५-१ । इति हि श्रुतं॥ एवं त्वबादिपक्षेऽपि योज्यं ।
+> शाब्दिकास्तु शब्दब्रह्मपरतया चत्वारि शृंगेति चत्वारि पदजातानि नामाख्याते
+> चोपसर्गनिपाताश्चेत्यादिना व्याचक्षते । अपरे त्वपरथा । तत्सर्वमत्र द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+Yāska explained the verse in this way, beginning with चत्वारि शृंगेति (*catvāri śṛṃgeti*) (Ni. 13-7); this is to be consulted here. Now it is explained for the Sun. Of this Āditya the four horns are the four quarters; they are called horns because they are resorts. "Three are his feet": the three Vedas are in the place of feet, being the means of going. For after beginning with the words ऋग्भिः पूर्वाह्ने दिवि देव ईयते (*ṛgbhiḥ pūrvāhne divi deva īyate*) ("with Ṛks in the forenoon the god goes in the sky"), the text says वेदैरशून्यस्त्रिभिरेति सूर्यः (*vedairaśūnyastribhireti sūryaḥ*) (Tai. Brā. 3-12-9-1): the going is thus handed down as accomplished by the three Vedas. "Two heads": day and night are the two heads. "Seven hands": the seven rays; or the six seasons of differing characters and one common season make seven hands. "Bound threefold": bound in three places, earth and the rest, as being of the nature of Agni and the others; or bound threefold by the three called summer, rains and winter. "Bull": the showerer; "roars": makes sound by way of rain and the like. That great god "has entered mortals" as their controller; so it is heard: सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) (Ṛ. Saṃ. 1-115-1). The same is to be applied in the case of the waters and the other deities. The grammarians, however, taking it as referring to Śabda-brahman, explain "four horns" as the four classes of words, beginning with noun and verb, and upasarga and nipāta; others explain otherwise. All that is to be seen here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—to this Agni, who is the sacrifice itself
+- चत्वारि शृंगाः (*catvāri śṛṃgāḥ*)—there are four horns (in the form of the Vedas)
+- त्रयः पादाः (*trayaḥ pādāḥ*)—there are three feet (in the form of the three savanas)
+- द्वे शीर्षे (*dve śīrṣe*)—there are two heads (in the form of the Brahmaudana and the Pravargya)
+- अस्य (*asya*)—to this god
+- सप्त हस्तासः (*sapta hastāsaḥ*)—there are seven hands (in the form of the seven metres)
+- त्रिधा बद्धः (*tridhā baddhaḥ*)—bound in three ways (by mantra, brāhmaṇa and kalpa)
+- वृषभः (*vṛṣabhaḥ*)—this god, the showerer of desires
+- रोरवीति (*roravīti*)—makes much sound
+- महो देवः (*maho devaḥ*)—this great-souled god
+- मर्त्यान् (*martyān*)—all men
+- अविवेश (*aviveśa*)—has pervaded
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, who is the sacrifice itself, has four horns in the form of the Vedas, three feet in the form of the three savanas, two heads in the form of the Brahmaudana and the Pravargya, and seven hands in the form of the seven metres. Bound in three ways, by mantra, brāhmaṇa and kalpa, and a showerer of desires, this god makes much sound. This great-souled god has pervaded all men.
+
+##### English translation (H. H. Wilson)
+Four are his horns ; three are his feet ; his heads are two, his hands are seven : the triple-bound showerer (of benefits) roars aloud : the mighty deity has entered amongst men.
+
+### Printed p. 651
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining this Ṛk the commentator has followed the interpretation given by Yāska. As stated before, the Ṛks of this sūkta ought to be explained with reference to the five deities, Agni, Sūrya and the rest; but, following the view of the Nirukta authors, the meaning will be given in only two ways, with reference to Agni as the sacrifice and to Sūrya. The meaning with reference to the other deities the reader may supply for himself. So saying, the commentator has explained first with reference to Agni as the sacrifice and afterwards with reference to Sūrya. The meaning for the sacrificial Agni has been given by us in the Pratipadārtha part of this Ṛk, and since the Nirukta text is of the same kind, we shall first explain the meaning of Yāska's interpretation of this Ṛk and afterwards the meaning for Sūrya.
+चत्वारि शृंगेति वेदा वा एत उक्ताः । त्रयो अस्य पादा इति सवनानि त्रीणि । द्वे शीर्षे प्रायणीयोदयनीये । सप्त हस्तासः सप्त छंदांसि । त्रिधा बद्धस्रेधा बद्धो मंत्रब्राह्मणकल्पैः । वृषभो रोरवीति रोरवणमस्य सवनक्रमेण ऋग्भिर्यजुर्भिः सामभिर्यदेनमृग्भिः शंसंति यजुर्भिर्यजंति सामभिः स्तुवंति महो देव इत्येष हि महान् देवो यद्यज्ञो मर्त्यान् आविवेशेत्येष हि मनुष्यानाविशति यजनाय ॥ (*catvāri śṛṃgeti vedā vā eta uktāḥ | trayo asya pādā iti savanāni trīṇi | dve śīrṣe prāyaṇīyodayanīye | sapta hastāsaḥ sapta chaṃdāṃsi | tridhā baddhasredhā baddho maṃtrabrāhmaṇakalpaiḥ | vṛṣabho roravīti roravaṇamasya savanakrameṇa ṛgbhiryajurbhiḥ sāmabhiryadenamṛgbhiḥ śaṃsaṃti yajurbhiryajaṃti sāmabhiḥ stuvaṃti maho deva ityeṣa hi mahān devo yadyajño martyān āviveśetyeṣa hi manuṣyānāviśati yajanāya ‖*) (Ni. 13-7)
+We explain this interpretation together with the commentator's meaning.
+चत्वारि शृंगाः (*catvāri śṛṃgāḥ*)—This Agni, the sacrifice, has four horns. Horns here means the Vedas. The four horns are the four Vedas, the Ṛgveda, Yajurveda, Sāmaveda and Atharvaveda.
+त्रयो अस्य पादाः (*trayo asya pādāḥ*)—The parts of the sacrifice, that is, the three savana rites performed in the sacrifice in the morning, at midday and in the evening: the morning savana, the midday savana and the third savana. Savana means this: in order to offer soma to the deities and in order that the priests may drink soma, soma creepers are brought to the sacrifice, crushed with stones, the juice pressed out, strained, filled into vessels and consecrated with mantras and the like. Then it is offered in the fire to the several deities, and afterwards drunk. This is called the savana (pressing-out of the juice) rite. This rite takes place on the day of the pressing (sutyā), at the three times, morning, midday and evening. Because these rites are the chief means of the sacrifice, they are here described as the three feet of the sacrifice (or of the sacrificial fire).
+
+### Printed p. 652
+
+द्वे शिर्षे (*dve śirṣe*)—The two rites called Brahmaudana and Pravargya. Yāska explains them as the two rites called Prāyaṇīya and Udayanīya; that is, in the sacrifice the rite called Prāyaṇīyoṣṭi is performed at the beginning and the Udayanīyeṣṭi at the end. These two rites are here called the two heads of the sacrifice.
+सप्त हस्तासो अस्य (*sapta hastāso asya*)—The seven kinds of metres, Gāyatrī, Anuṣṭup, Triṣṭup, Bṛhatī, Uṣṇik, Jagatī and Paṅkti, are the seven hands. There is a rule that in the Prātaranuvāka and in reciting the śastra mantras in the sacrifice, the mantras recited to the several deities must be those made up of Ṛks of these seven metres. Here those seven metres are described as the seven hands of the sacrificial fire.
+त्रिधा बद्धः (*tridhā baddhaḥ*)—Since the sacrificial rite proceeds subject to the rules laid down in three kinds of texts, called mantra, brāhmaṇa and kalpa, it is said here that this sacrifice is bound by threefold rules. Mantra means the Vedic mantras recited, as occasion requires, by the hotṛ and other priests in each rite of the sacrifice. The meaning indicated in a mantra makes the rite concerned clear; therefore there is a rule that in every rite the mantra that indicates that meaning must be recited (this is explained in the Aitareya Brāhmaṇa as rūpasamṛddhi). Brāhmaṇa means: injunctions and explanations such as that such a rite is to be done in this way at such a time, that there is such a reason for doing it in this way, that there is such an ancient story in this matter, and that therefore the rite must be done just so. Kalpa means the sūtras such as the Śrauta-sūtra. Great sages such as Āśvalāyana and Āpastamba have explained well in the Śrauta and other sūtras what mantras are to be said at what time in the sacrifice, how the rites are to be done, and so on. Sacrifices and the like must be conducted accordingly. It is therefore explained here that the sacrificial rite is subject to the sūtras and the like of the three kinds of rule-books, mantra, brāhmaṇa and kalpa.
+वृषभो रोरवीति (*vṛṣabho roravīti*)—The word vṛṣabha means फलानां वर्षिता (*phalānāṃ varṣitā*), one who showers desired fruits. The sacrifice supplies the sacrificer abundantly with desired fruits. Such a sacrifice is accompanied by sound, that is, by the sound of mantras; the meaning is that the priests in the sacrifice recite the Vedic mantras with loud voice. At all three savana times the hotṛ and the other priests recite the three Vedas. The priests of the hotṛ group praise the deities with the mantras of the Ṛgveda. The priests of the adhvaryu group carry out the various operations of the sacrifice with the mantras of the Yajurveda. The priests of the udgātṛ group sing, in order to please the deities, with audible Sāma mantras. In this way, by the recitation of the mantras of the three Vedas
+
+### Printed p. 653
+
+the sacrifice has a sweet sound. Therefore the sacrifice is described by the words वृषभो रोरवीति (*vṛṣabho roravīti*).
+महो देवः मर्त्यान् आविवेश (*maho devaḥ martyān āviveśa*)—The sacrifice, the great deity, entered, that is, pervaded, the priests, the sacrificers who perform the sacrifice. That is, since human sacrificers perform sacrifices and the like together with the priests, it is described in another manner that the sacrifice has entered men. This is the explanation of the meaning with reference to the sacrificial Agni. Now we give the explanation with reference to Sūrya (Āditya).
+Explanation of the meaning with reference to Sūrya
+चत्वारि शृंगाणि (*catvāri śṛṃgāṇi*)—चतस्रो दिशः । (*catasro diśaḥ |*) The four quarters are the four horns. There is a Vedic text that these four quarters are the four Vedas:
+यचां प्राची महती दिगुच्यते । दक्षिणामाहुर्यजुषामपारां । अथर्वणामंगिरसां प्रतीची । साम्यामुदीची महती दिगुच्यते ॥ (*yacāṃ prācī mahatī digucyate | dakṣiṇāmāhuryajuṣāmapārāṃ | atharvaṇāmaṃgirasāṃ pratīcī | sāmyāmudīcī mahatī digucyate ‖*) (Tai. Brā. 3-12-9-1) **NOTE**
+That is, the Ṛgveda has the name of the east quarter, the Yajurveda the south, the Atharvaveda the west, and the Sāmaveda the north.
+त्रयो अस्य पादाः (*trayo asya pādāḥ*)—त्रयो वेदाः पादस्थानीया भवंति गमनसाधनत्वात् । (*trayo vedāḥ pādasthānīyā bhavaṃti gamanasādhanatvāt |*) तथा हि—ऋग्भिः पूर्वाह्ने दिवि देवा ईयते इत्युपक्रम्य वेदैरशून्यस्त्रिभिरीति सूर्यः (*tathā hi—ṛgbhiḥ pūrvāhne divi devā īyate ityupakramya vedairaśūnyastribhirīti sūryaḥ*) (Tai. Brā. 3-12-9-1) इति हि वेदत्रयेण गतिराम्नाता । (*iti hi vedatrayeṇa gatirāmnātā |*) For Sūrya the three Vedas, Ṛk, Yajus and Sāman, are like three feet. That is, the meaning is that Sūrya's course proceeds by means of the three Vedas. On this subject:
+ऋग्भिः पूर्वाह्ने दिवि देव ईयते । यजुर्वेदे तिष्ठति मध्यॆ अह्नः । सामवेदेनास्तमये महीयते । वेद्यरशून्यस्त्रिभिरेति सूर्यः ॥ (*ṛgbhiḥ pūrvāhne divi deva īyate | yajurvede tiṣṭhati madhyè ahnaḥ | sāmavedenāstamaye mahīyate | vedyaraśūnyastribhireti sūryaḥ ‖*) (Tai. Brā. 3-12-9-1) **NOTE**
+Such is the Vedic text. That is, by the power of the Ṛgveda mantras the Sun rises in the forenoon or early morning (in the east) and shines; by the power of the Yajurveda mantras he is at midday in the middle of the sky (overhead); by the power of the Sāmaveda mantras he sets in the evening in the western quarter. The meaning is that in this way the Sun has the power to move by the force of the mantras of the three Vedas. It is for this reason that these three Vedas, which are the means of his movement, are said to stand in the place of feet for Āditya.
+
+### Printed p. 654
+
+द्वे शीर्षे (*dve śīrṣe*)—अहश्च रात्रिश्चेति द्वे शिरसी । (*ahaśca rātriśceti dve śirasī |*) The two times, day and night, are the two heads of Sūrya.
+सप्त हस्तासो अस्य (*sapta hastāso asya*)—सप्तरश्मयः षड्विलक्षणा ऋतवः एकः साधारण इति वा सप्त हस्ता भवंति । (*saptaraśmayaḥ ṣaḍvilakṣaṇā ṛtavaḥ ekaḥ sādhāraṇa iti vā sapta hastā bhavaṃti |*) The seven kinds of rays are the seven hands of Sūrya. Or the six seasons, distinguished by various qualities such as heat and cold, together with one season common to all, may make the seven hands. Or it may be said, if one wishes, that the seven horses of Sūrya are the seven hands.
+त्रिधा बद्धस्त्रिषु स्थानेषु क्षित्यादिषु आग्न्याद्यात्मकत्वेन संबंधः । ग्रीष्मवर्षा हेमंताख्यैस्त्रिभिस्त्रेधा बद्धो वा ॥ (*tridhā baddhastriṣu sthāneṣu kṣityādiṣu āgnyādyātmakatvena saṃbaṃdhaḥ | grīṣmavarṣā hemaṃtākhyaistribhistredhā baddho vā ‖*) Since he is in the three places, earth, atmosphere and heaven, Sūrya has a threefold connection. Or, since he is the cause of the three chief seasonal conditions, the summer season, the rainy season and the winter season, Sūrya has a threefold connection.
+वृषभो वर्षिता रोरवीति शब्दं करोति वृष्ट्यादिद्वारा (*vṛṣabho varṣitā roravīti śabdaṃ karoti vṛṣṭyādidvārā*)—Because Sūrya draws up by his rays the moisture and the like of reservoirs of water and causes it to pour down as rain in the form of clouds, he is called vṛṣabha, that is, one who showers rain. And because there are sounds such as thunder and lightning at the time of rain, he is also said to be making sound (the cause of the sounds).
+महो देवो मर्त्यान् आ विवेश (*maho devo martyān ā viveśa*)—स महान् देवो मर्त्यानां नियंतृतया तान् प्रविशति । सूर्य आत्मा जगतस्तस्थुषश्च (*sa mahān devo martyānāṃ niyaṃtṛtayā tān praviśati | sūrya ātmā jagatastasthuṣaśca*) (Ṛ. Saṃ. 1-115. 1) इति हि श्रुतं। (*iti hi śrutaṃ|*) Such a Sūrya of great glory enters the body of all beings as the inner self, in order to impel them. All beings live by Sūrya. That Sūrya is the impeller of the whole class of beings, moving and unmoving, and dwells in them as the inner self, is confirmed by the Vedic text सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*).
+Such is the explanation of the meaning with reference to Sūrya. In the same way the meaning is to be supplied for the other deities, such as Āpaḥ (the waters). The experts in the science of words (the grammarians) understand the words चत्वारि शृंगा (*catvāri śṛṃgā*), with reference to Śabda-brahman, as the four kinds of words: noun, verb, upasarga and nipāta. Others speak in other ways. Therefore the meaning must be made according to each context.
+In Ṛ. Saṃ. Part 1, page 401, in explaining the Sāyaṇa-bhāṣya introduction, the commentator has explained the meaning of this Ṛk in a slightly different way. It can be seen there.
+
 ---
 
-**Progress note:** Done through printed p. 647. pp. 641-647 (batch API)
+**Progress note:** Done through printed p. 654. pp. 649-654 (batch API)
