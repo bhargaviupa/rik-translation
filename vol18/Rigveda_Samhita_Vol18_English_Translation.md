@@ -14318,6 +14318,301 @@ This king Trasadasyu, Purukutsa's son, is also renowned as a seer. He is the see
 
 उत (*uta*) means "and also". वाजिनं (*vājinaṃ*) is "going", or the god in the form of a horse, since Agni in horse form alone is called Dadhikrā; that Agni has that form is recorded in a Brāhmaṇa: तानग्निरश्वो भूत्वाभ्यद्रवदिति (*tānagniraśvo bhūtvābhyadravaditi*). पुरुनिष्पिध्वानं (*puruniṣpidhvānaṃ*) is the driver away of many enemies. दधिक्रां (*dadhikrāṃ*): one who goes bearing another is Dadhikrā; the god of that name. ऊ (*ū*) is a filler. विश्वकृष्टिं (*viśvakṛṣṭiṃ*): he whose people, all to be protected, or servants, are all. ऋजिप्यं (*ṛjipyaṃ*): one who reaches straight, goes. श्येनं (*śyenaṃ*): of praiseworthy gait. प्रुषितप्सुं (*pruṣitapsuṃ*): of shining form. आशुं (*āśuṃ*): pervading, swift-going. *aryaḥ carkṛtyaṃ*: given to cutting down the enemy. नृपतिं न शूरं (*nṛpatiṃ na śūraṃ*): standing like a heroic king, the god; Dyāvāpṛthivī you two hold (ददथुः (*dadathuḥ*) means "you two hold").
 
+### Printed p. 371
+#### Ṛk 2 (concluding portion) (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनं (*vājinaṃ*)—one having the form of a horse
+- पुरुनिष्पिध्वानं (*puruniṣpidhvānaṃ*)—one who restrains many enemies
+- विश्वकृष्टिं (*viśvakṛṣṭiṃ*)—protector of all people
+- यजिष्यं (*yajiṣyaṃ*)—one of straight movement
+- श्वेनं (*śvenaṃ*)—one of praiseworthy gait
+- प्रुषितप्पुं (*pruṣitappuṃ*)—one of shining form
+- आशुं (*āśuṃ*)—swift-moving
+- शूरं (*śūraṃ*)—valiant
+- नृपतिं न (*nṛpatiṃ na*)—like a king
+- अर्यः (*aryaḥ*)—of the enemy (the head)
+- चर्कृत्यं (*carkṛtyaṃ*)—one who cuts off
+- दधिक्रां (*dadhikrāṃ*)—the deity named Dadhikrā
+- ददथुः (*dadathuḥ*)—you have upheld
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, you have upheld the deity named Dadhikrā, who has the form of a horse, restrains many enemies, protects all people, moves straight, has a praiseworthy gait, is of shining form, is swift, and, like a valiant king, cuts off the enemy's head.
+
+##### English translation (H. H. Wilson)
+And you two have given the swift Dadhikra, the repeller of many (foes) the defender of all men, the straight-going, the gracefull-moving, the destroyer of enemies like a heroic prince.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं सी॒मनु॑ प्र॒वते॑व॒ द्रवं॑तं॒ विश्वः॑ पू॒रुर्मद॑ति॒ हर्ष॑माणः।  
+> प॒द्भिर्गृध्यं॑तं मेध॒युं न शूरं॑ रथ॒तुरं॒ वात॑मिव॒ ध्रजं॑तं॥
+
+> *yaṃ sīmanu pravateva dravaṃtaṃ viśvaḥ pūrurmadati harṣamāṇaḥ|*  
+> *padbhirgṛdhyaṃtaṃ medhayuṃ na śūraṃ rathaturaṃ vātamiva dhrajaṃtaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । सीं । अनु । प्रवताऽइव । द्रवंतं । विश्वः । पूरुः । मदति । हर्षमाणः ।  
+> पट्भिः । गृध्यंतं । मेधयुं । न । शूरं । रथतुरं । वातंइव । ध्रजंतं ॥३॥
+
+> *yaṃ | sīṃ | anu | pravatā 'iva | dravaṃtaṃ | viśvaḥ | pūruḥ | madati | harṣamāṇaḥ |*  
+> *paṭbhiḥ | gṛdhyaṃtaṃ | medhayuṃ | na | śūraṃ | rathaturaṃ | vātaṃiva | dhrajaṃtaṃ ‖3‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं दधिक्रां विश्वः पूरुः सर्वोऽपि मनुष्यो हर्षमाणो हृष्यन्
+> हर्षयन्ना मदति । स्तौति । तं देवं द्यावापृथिव्यौ ददथुरिति संबंधः । स देवो
+
+##### Gist of the bhāṣya
+
+Sāyaṇa connects: Heaven and Earth have upheld that deity Dadhikrā whom every man (विश्वः पूरुः (*viśvaḥ pūruḥ*)), rejoicing and gladdening others, praises (मदति (*madati*) = स्तौति (*stauti*)). The block then begins to qualify that deity (continued on the next page).
+
+### Printed p. 372
+
+> विशेष्यते । सीं सर्वतः प्रवता प्रवणवता निम्मेन मार्गेणोदकमिवानुक्रमेण
+> द्रवंतं गच्छंतं पद्भिः पादैर्गृध्यंतमभिकांक्षंतं दिशो लंघितुं । तत्र दृष्टांतः ।
+> मेधयुं न शूरं । संग्रामेच्चुं शूरमिव । यद्वा । यज्ञक्रमणेच्चुमध्वय्वादिकमिव । रथतुरं रथेन गच्छंतं वातमिव ध्रजंतं शीघ्रगं वायुविमिव । उक्तविशेषविशिष्टानुदकशूरवायून्यथा सर्वो जनः स्तौति तथा यं देवं स्तौति तं
+> ददथुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सीं (*sīṃ*) means "on all sides". The deity runs in succession, like water along a sloping, low course; he longs with his feet to traverse the quarters. Illustration: like a hero eager for battle; or else, like an adhvaryu or the like eager for the sacrificial advance. रथतुरं (*rathaturaṃ*): going by chariot; ध्रजंतं (*dhrajaṃtaṃ*): swift, like the wind. As all people praise water, hero and wind so qualified, so they praise the deity; this is what Heaven and Earth have upheld.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सीं (*sīṃ*)—all around
+- प्रवतेव (*pravateva*)—like a stream flowing in a low-lying place
+- द्रवंतं (*dravaṃtaṃ*)—one coming down swiftly
+- मेधयुं (*medhayuṃ*)—setting out for battle
+- शूरं न (*śūraṃ na*)—like a hero
+- पद्भिः (*padbhiḥ*)—with feet
+- गृध्यंतं (*gṛdhyaṃtaṃ*)—one desiring to pervade all the quarters
+- रथतुरं (*rathaturaṃ*)—one moving in a chariot
+- वातमिव (*vātamiva*)—like the wind
+- ध्रजंतं (*dhrajaṃtaṃ*)—swift-moving
+- यं (*yaṃ*)—which deity Dadhikrā
+- विश्वः (*viśvaḥ*)—entire
+- पूरुः (*pūruḥ*)—all mankind too
+- हर्षमाणः (*harṣamāṇaḥ*)—rejoicing
+- मदति (*madati*)—praises (that Dadhikrā deity Heaven and Earth have upheld)
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth have upheld that Dadhikrā deity whom all mankind joyfully praise: he who comes down swiftly on all sides like a stream flowing in low ground, who, like a hero setting out for battle, desires to pervade all the quarters with his own feet, and who is swift like the wind.
+
+##### English translation (H. H. Wilson)
+Whom all men, rejoicing, praise, rushing everywhere, as if down a precipice, springing with his feet like a hero eager for war, drawing a car, and going as swift as the wind.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः स्मा॑रुंधा॒नो गध्या॑ स॒मत्सु॒ सनु॑तर॒श्चर॑ति॒ गोषु॒ गच्छ॑न् ।  
+> आ॒विऋ॑जीको वि॒दथा॑ नि॒चिक्य॑त्ति॒रो अ॑र॒तिं पर्याप॑ आ॒योः ॥
+
+> *yaḥ smāruṃdhāno gadhyā samatsu sanutaraścarati goṣu gacchan |*  
+> *āviṛjīko vidathā nicikyattiro aratiṃ paryāpa āyoḥ ‖*
+
+### Printed p. 373
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पपापति ॥  
+> यः । स्म । आरुंधानः । गध्या । समत्सु । सनुतरः । चरति । गोषु । गच्छन् ।  
+> आविऋजीकः । विदथा । निचिक्यत् । तिरः । अरतिं । परि । अपः । आयोः ॥ ४ ॥
+
+> *‖ papāpati ‖*  
+> *yaḥ | sma | āruṃdhānaḥ | gadhyā | samatsu | sanutaraḥ | carati | goṣu | gacchan |*  
+> *āviṛjīkaḥ | vidathā | nicikyat | tiraḥ | aratiṃ | pari | apaḥ | āyoḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः स्म यः खलु देवो गध्या गध्यानि । गध्यतिर्मिश्रीभावकर्मेति निरुक्तं । ५-१५।
+> मिश्रयितव्यानि फलानि समत्सु संग्रामेष्वारुंधानः सर्वतो निरोधयन् सनुतरः
+> संभक्तृतरो गोषु सर्वासु दिक्षु गोषु वा निमित्तभूतेषु गच्छन्नाविर्यजीक
+> आविर्भूतसाधन आविर्भूतमुष्को ना विदथा विदथानि ज्ञातव्यानि निचिक्यत् पश्यतिकर्मैतत् । जानन् अरतिमरमणं दुःखमभिगंतारमरिं वा परि सर्वतस्तियरश्चरति ।
+> शिरस्करोति । कस्यारतिमिति । अपो व्याप्तस्य स्तोतुरायोर्मनुष्यस्य यजमानस्य ॥
+
+##### Gist of the bhāṣya
+
+The deity, in battles, obstructs on all sides the fruits (spoils) that are to be mingled (गध्या (*gadhyā*); Sāyaṇa cites गध्यतिर्मिश्रीभावकर्म (*gadhyatirmiśrībhāvakarma*), Ni. 5-15), is a better sharer, moves in all quarters (or toward cattle as the occasion), with his means (or vigour) manifest; knowing what is to be known (निचिक्यत् (*nicikyat*) is a verb of seeing), he overcomes on every side the adversary (अरतिं (*aratiṃ*), distress or foe) of the pervading praiser, the man, the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः स्म (*yaḥ sma*)—that same Dadhikrā deity who
+- समत्सु (*samatsu*)—in battles
+- गध्या (*gadhyā*)—the enemies mingled together
+- आरुंधानः (*āruṃdhānaḥ*)—restraining
+- सनुतरः (*sanutaraḥ*)—winning exceeding victory
+- गोषु (*goṣu*)—in all quarters
+- गच्छन् (*gacchan*)—moving
+- आविर्य्जीकः (*āviryjīkaḥ*)—one with manifest vigour
+- विदथा (*vidathā*)—circumstances to be known
+- निचिक्यत् (*nicikyat*)—fully understanding
+- आपः (*āpaḥ*)—of the praiser
+- आयोः (*āyoḥ*)—of the sacrificer
+- अरतिं (*aratiṃ*)—the enemy
+- परि (*pari*)—all around
+- तिरश्चरति (*tiraścarati*)—makes despised
+
+##### भावार्थ (Bhāvārtha)
+
+That same Dadhikrā, favoured by Heaven and Earth, restrains in battles the enemies mingled together, wins exceeding victory, moves in all quarters displaying his vigour, fully understands the circumstances to be known, and makes the enemy of the praising sacrificer despised on every side (defeats him).
+
+##### English translation (H. H. Wilson)
+Who, opposing the mingled multitude in battles, rushes eager, passing through the regions, whose vigour is mainfest, who, understanding what is to be known, puts to shame the adversary of the (pious) man.
+
+### Printed p. 374
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मै॑नं वस्त्र॒मथिं॒ न ता॒युमनु॑ क्रोशंति क्षि॒तयो॒ भरे॑षु।  
+> नी॒चाय॑मानं॒ जसु॑रिं॒ न श्वे॒नं श्रव॒श्चाच्छ॑ पशु॒मच्च॑  ॒
+> यूथं ॥ ५ ॥
+
+> *uta smainaṃ vastramathiṃ na tāyumanu krośaṃti kṣitayo bhareṣu|*  
+> *nīcāyamānaṃ jasuriṃ na śvenaṃ śravaścāccha paśumacca*  
+> *yūthaṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । एनं । वस्त्रमथिं । न । तायुं । अनु । क्रोशंति । क्षितयः । भरेषु ।  
+> नीचा । अयमानं । जसुरिं । न । श्येनं । श्रवः । च । अच्छ । पत्रुमत् । च ।  
+> यूथं ॥ ५ ॥
+
+> *uta | sma | enaṃ | vastramathiṃ | na | tāyuṃ | anu | krośaṃti | kṣitayaḥ | bhareṣu |*  
+> *nīcā | ayamānaṃ | jasuriṃ | na | śyenaṃ | śravaḥ | ca | accha | patrumat | ca |*  
+> *yūthaṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि खल्वेनं दधिक्रां भरेषु संग्रामेषु वस्त्रमथिं तायुं न वस्त्रमाथिनं तस्करमिव । तं दृष्ट्वा क्षितयो मनुष्या यथानु क्रोशंति तद्वद्वैरिणोऽनुक्रोशंति । किंच नीचा नीचैरयमानं गच्छंतं जसुरिं न श्येनं क्षुधितं श्येनं
+> पक्षिणमिव । तं यथा दृष्ट्वा दक्षिणः पलायंते तद्वत् । श्रवोऽन्नं कीर्तिं वा
+> पशुमद्यूथं चाच्चाभिलक्ष्य गच्छंतमेनमनुक्रोशंतीति संबंधः । अपि सैनं
+> वस्त्रमथिमिव वस्त्रमाथिनमित्यादिनिरुक्तमत्तानुसंधेयं । नि. ४-२४ ॥
+
+##### Gist of the bhāṣya
+
+In the battles people cry out after this Dadhikrā as they cry after a thief (तायु (*tāyu*)) who steals a garment, and enemies cry out likewise. Further, he goes low, swooping, like a hungry hawk; seeing it, the birds flee, so do they. They cry after him as he goes aiming at food or fame, or at a herd rich in cattle. Sāyaṇa refers for वस्त्रमथिं (*vastramathiṃ*) and the like to the Nirukta: Ni. 4-24.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वस्त्रमथिं (*vastramathiṃ*)—one running off having stolen cloth
+- तायुं न (*tāyuṃ na*)—as people cry out on seeing a thief
+- नीचा (*nīcā*)—upon its prey, a small bird
+- अयमानं (*ayamānaṃ*)—falling
+- जसुरिं (*jasuriṃ*)—hungry
+- श्येनं न (*śyenaṃ na*)—as they cry out on seeing a hawk
+- श्रवः (*śravaḥ*)—food
+- पशुमत् (*paśumat*)—consisting of cattle
+- यूथं (*yūthaṃ*)—a group (a herd of cattle)
+- अच्छ (*accha*)—aiming at, running
+- एनं (*enaṃ*)—this Dadhikrā deity
+- भरेषु (*bhareṣu*)—in battles
+- क्षितयः (*kṣitayaḥ*)—men
+- अनुक्रोशंति (*anukrośaṃti*)—cry out
+
+##### भावार्थ (Bhāvārtha)
+
+As people cry out on seeing a thief running off with a garment, and as they cry out on seeing a hungry hawk fall upon a small bird that is its prey, so in battles men cry out on seeing this Dadhikrā deity running for food and for the acquisition of a herd of cattle.
+
+### Printed p. 375
+
+##### English translation (H. H. Wilson)
+Whom men call after in battles, as after a thief carrying off a garment, or as (after) a hungry hawk pouncing (upon his prey): they call after him, hastening to obtain food, or a herd of cattle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॑सु प्रथ॒मः स॑रि॒ष्यन्नि वे॑वेति॒ श्रेणि॑भी॒ रथा॑नां ॥  
+> स्रजं॑ कृण्वा॒नो जन्नो॒ न शुभ्वा॑ रे॒णुं रेरि॑हत्कि॒रणं॑ दद॒श्वान्॥
+
+> *uta smāsu prathamaḥ sariṣyanni veveti śreṇibhī rathānāṃ ‖*  
+> *srajaṃ kṛṇvāno janno na śubhvā reṇuṃ rerihatkiraṇaṃ dadaśvān‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । आसु । प्रथमः । सरिष्यन् । नि । वेवेति । श्रेणिभिः । रथानां ।  
+> प्रजं । कृण्वानः । जन्यः । न । शुभ्वा । रेणुं । रेरिहत् । किरणं । ददश्वान् ॥ ६ ॥
+
+> *uta | sma | āsu | prathamaḥ | sariṣyan | ni | veveti | śreṇibhiḥ | rathānāṃ |*  
+> *prajaṃ | kṛṇvānaḥ | janyaḥ | na | śubhvā | reṇuṃ | rerihat | kiraṇaṃ | dadaśvān ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च खल्वास्वसुरसेनासु सरिष्यन् सर्तुमिच्छन् प्रथमः प्रतम
+> उत्कृष्टतमो मुख्यः सन् रथानां श्रेणिभी राजिभिर्युक्तः सन् नि वेवेति । नितरां
+> गच्छति । इतस्ततो धावति । क इवेति । उच्यते । स्रजं । सृज्यत उत्पाद्यते रूपमनयेति स्रगलंकृतिः । तां कृण्वान्नो जन्यो न जनेभ्यो हितोऽश्व इव सुभ्वा । सुष्टु
+> भवतीति सुभ्वा शोभमानः । किरणमास्यगतं खलीनं ददश्वान् दशन् रेणुं स्वपादघातजनितं रेरिहत् । भृशं लेढि ॥
+
+##### Gist of the bhāṣya
+
+Further, among these demon armies, desiring to advance, foremost and chief, accompanied by rows of chariots, he moves about continually, running here and there. Like what? स्रजं (*srajaṃ*) is an ornament by which beauty is produced; making it, like a horse good for people (जन्यः (*janyaḥ*)), he is splendid (सुभ्वा (*subhvā*)). Biting (ददश्वान् (*dadaśvān*)) the bit (किरणं (*kiraṇaṃ*)) that is in his mouth, he repeatedly licks (रेरिहत् (*rerihat*) = greatly licks) the dust raised by his own hoof-strokes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्रजं (*srajaṃ*)—ornaments such as a garland
+- कृष्णानः (*kṛṣṇānaḥ*)—one who has made (for himself)
+- शुभ्वा (*śubhvā*)—shining
+- किरणं (*kiraṇaṃ*)—the bit
+- ददश्वान् (*dadaśvān*)—biting
+- रेणुं (*reṇuṃ*)—the dust
+- रेरिहत् (*rerihat*)—raising upwards
+- जन्यो न (*janyo na*)—like a horse
+- आसु (*āsu*)—among the demon armies
+- सरिष्यन् (*sariṣyan*)—desiring to move
+- प्रथमः (*prathamaḥ*)—and chief of all
+- रथानां (*rathānāṃ*)—of chariots
+- श्रेणिभिः (*śreṇibhiḥ*)—with rows (Dadhikrā, the deity)
+- नि वेवेति (*ni veveti*)—moves about in all quarters
+**NOTE**
+
+### Printed p. 376
+
+##### भावार्थ (Bhāvārtha)
+
+Like a thoroughbred horse that adorns itself with garlands and the like and shines, and that champs the bit and raises the dust, the deity Dadhikrā, desiring to move among the demon armies and being the foremost leader of all, moves in all regions together with rows of chariots.
+
+##### English translation (H. H. Wilson)
+And who, issuing forth the first in those encounters, rushes in various directions with rows of chariots ; like an elegant (courser), friendly to man decorated with a garland, raising the dust. and champing his bit.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्य वा॒जी सहु॑रिर्ऋ॒तावा॒ शुश्रू॑षमाणस्त॒न्व॑ सम॒र्ये ।  
+> तुरं॑ य॒तीषु॑ तु॒रय॑न्नृजि॒प्योऽधि॑ भ्रु॒वोः कि॑रते रे॒णुमृं॒जन् ॥ ७ ॥
+
+> *uta sya vājī sahurirṛtāvā śuśrūṣamāṇastanva samarye |*  
+> *turaṃ yatīṣu turayannṛjipyo 'dhi bhruvoḥ kirate reṇumṛṃjan ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्यः । वाजी । सहुरिः । ऋत्यवा । शुशूषमाणः । तन्वा । समर्ये ।  
+> तुरं । यतीषु । तुरयन् । ऋजिप्यः । अधि । भ्रुवोः । किरते । रेणुं । यंजन् ॥
+
+> *uta | syaḥ | vājī | sahuriḥ | ṛtyavā | śuśūṣamāṇaḥ | tanvā | samarye |*  
+> *turaṃ | yatīṣu | turayan | ṛjipyaḥ | adhi | bhruvoḥ | kirate | reṇuṃ | yaṃjan ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च स्य स उक्तलक्षणो वाजी वेजनवान् गमनवान् समर्ये
+> समरणे सहुरिः सहनशीलः शत्रूणामृतावान्नवांस्तन्वा स्वावयवेन खुरादिना
+> स्वतनुं शुशूषमाणस्तुरं यतेषु त्वरगामिनीष्वसुरसेनासु तुरयन् त्वरयन्
+> ऋजिप्य ऋजुगामि रेणुं धूलिमृंजन्प्रसाधयंस्तमेव रेणुं भ्रुवोरध्युपरि
+> किरते । विक्षिपति ॥
+
+##### Gist of the bhāṣya
+
+And that steed of the described character, swift and going, in the battle (समर्ये (*samarye*)) a vanquisher, possessed of truth (or food) over enemies, adorning (शुशूषमाणः (*śuśūṣamāṇaḥ*)) his body with his own parts such as the hoofs, urging on the hastening demon armies, going straight (ऋजिप्यः (*ṛjipyaḥ*)), adorning the dust, scatters that same dust above his brows.
+
 ---
 
-**Progress note:** Done through printed p. 370. pp. 365-370 (batch API)
+**Progress note:** Done through printed p. 376. pp. 371-376 (batch API)
