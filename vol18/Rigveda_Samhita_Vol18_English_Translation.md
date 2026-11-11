@@ -16738,6 +16738,248 @@ Warriors well mounted, ardent for contest, invoke me : selected (combatants invo
 > *yat | mā | somāsaḥ | mamadan | yat | uktā | ubhe iti | bhayete iti |*  
 > *rajasī iti | apāre iti ‖ 6 ‖*
 
+### Printed p. 427
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं त्रसदस्युस्ता तानि प्रसिद्धानि विश्वा सर्वाणि चकरं । अकार्षं । अप्रतीतमप्रतिगतं मा मां दैव्यं सहो देवसंबंधि सहो बलं नकिर्वरते । नैव
+> वारयति । यद्यस्मात्सोमासः सोमा मा मां ममदन्। अमदयन्। यच्चोक्षा
+> शस्त्राण्यपि ममदन् तस्मान्मत्तोऽपारे दूरपारे उभे रजसी द्यावापृथिव्यौ
+> भयेते । चलतः ॥
+
+##### Gist of the bhāṣya
+
+"I, Trasadasyu, have done all those well-known deeds. No one holds back that unopposed divine might of mine, the might that belongs to the gods. Since the Soma juices have exhilarated me, and since the recited hymns (ukthas) too have exhilarated me, therefore, on account of me, both worlds, heaven and earth, which are boundless, tremble."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, named Trasadasyu
+- ता विश्वा (*tā viśvā*)—all the deeds spoken of above
+- चकरं (*cakaraṃ*)—I did
+- अप्रतीतं (*apratītaṃ*)—unopposed
+- मा (*mā*)—me
+- दैव्यं सहः (*daivyaṃ sahaḥ*)—my divine power
+- नकिः वरते (*nakiḥ varate*)—no one can obstruct
+- यत् (*yat*)—when
+- सोमासः (*somāsaḥ*)—the Soma juices
+- मा (*mā*)—me
+- ममदन् (*mamadan*)—gladden
+- यत् (*yat*)—when
+- उक्ता (*uktā*)—the recited hymns (gladden me), then
+- अपारे (*apāre*)—boundless
+- उभे रजसी (*ubhe rajasī*)—both heaven and earth
+- भयेते (*bhayete*)—tremble with fear
+
+##### भावार्थ (Bhāvārtha)
+
+I, named Trasadasyu, have done all the deeds mentioned above. No one can obstruct me, the unopposed, or my divine power. When the Soma juices and the praises gladden me, then both the boundless heaven and earth tremble with fear.
+
+##### English translation (H. H. Wilson)
+I have done all these (deeds): no one resists my divine, unsurpassed vigour; and when the Soma juices, when sacred songs exhilarate me, then the unbounded heaven and earth are both alarmed.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दुष्टे॒ विश्वा॒ भुव॑नानि॒ तस्य॒ ता प्र ब्र॑वीषि॒ वरु॑णाय वेधः ।  
+> त्वं वृ॒त्राणि॑ शृण्वीषे जघ॒न्वान्वं वृ॒ता अ॑रिणा इंद्र॒ सिंधू॑न् ॥
+
+> *viduṣṭe viśvā bhuvanāni tasya tā pra bravīṣi varuṇāya vedhaḥ |*  
+> *tvaṃ vṛtrāṇi śṛṇvīṣe jaghanvānvaṃ vṛtā ariṇā iṃdra siṃdhūn ‖*
+
+### Printed p. 428
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विदुः । ते । विश्वा । भुवनानि । तस्य । ता । प्र । ब्रवीषि । वरुणाय । वेधः ।  
+> त्वं । वृत्राणि । शृण्वषे । जघन्वान् । त्वं । वृतान् । अरिणाः । इंद्र । सिंधून् ॥ ७ ॥
+
+> *viduḥ | te | viśvā | bhuvanāni | tasya | tā | pra | bravīṣi | varuṇāya | vedhaḥ |*  
+> *tvaṃ | vṛtrāṇi | śṛṇvaṣe | jaghanvān | tvaṃ | vṛtān | ariṇāḥ | iṃdra | siṃdhūn ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इतः परमिंद्रावरुणयोः स्तुतिः । हे वरुण तस्य ते ॥ कर्मणि षष्ठी ॥ तं
+> त्वां विश्वा सर्वाणि ता तानि भुवनानि भूतजातानि विदुः । जानंति । हे वेधः । स्तोतृनामैतत् । हे स्तोतर्वरुणाय प्र ब्रवीषि । वरुणं स्तौषि । हे इंद्र त्वं वृत्राणि
+> वैरिणो जघन्वान् हतवानिति शृण्वषे । श्रूयसे । किंच हे इंद्र त्वं वृतानाच्छन्नान्
+> सिंधून् स्यंदनस्वभादानप्संघानरिणाः । आगमयः ॥
+
+##### Gist of the bhāṣya
+
+From here on, praise of Indra and Varuṇa. "O Varuṇa, all those beings know you, such as you are" (the genitive ते (*te*) stands for the accusative, a genitive of the object). "O वेधः (*vedhaḥ*)"—this is a name for the praiser—"O praiser, you extol Varuṇa." "O Indra, you are heard of (renowned) as having slain the enemies, the Vṛtras." Further: "O Indra, you have set free the rivers, which are by nature flowing, and which were enclosed, covered over, among the masses of waters."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्य ते (*tasya te*)—you, the renowned (O Varuṇa)
+- विश्वा (*viśvā*)—all
+- ता (*tā*)—those well-known
+- भुवनानि (*bhuvanāni*)—all beings
+- विदुः (*viduḥ*)—know
+- वेधः (*vedhaḥ*)—O praiser
+- वरुणाय (*varuṇāya*)—addressing Varuṇa
+- प्र ब्रवीषि (*pra bravīṣi*)—praise exceedingly
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- जघन्वान् (*jaghanvān*)—as having destroyed
+- शृण्वषे (*śṛṇvaṣe*)—you are renowned
+- त्वं (*tvaṃ*)—you
+- वृतान् (*vṛtān*)—those that were enclosed
+- सिंधून् (*siṃdhūn*)—waters of a flowing nature
+- अरिणाः (*ariṇāḥ*)—released and made to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, all beings know you, the renowned. O praiser, praise Varuṇa exceedingly. O Indra, you are renowned as having destroyed your enemies. You released the enclosed waters, which are of a flowing nature, and made them flow.
+
+##### English translation (H. H. Wilson)
+All beings recognize you (Varuna), and you, worshipper, address these (encomiums) to Varuna: you, Indra, are renowned as slaying Vritra; you have set the obstructed rivers free to flow.
+
+### Printed p. 429
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॒मत्र॑ पि॒तर॒स्त आ॑सन्त॒प्त ऋष॑यो दौर्ग॒हे ब॒ध्यमा॑ने ।  
+> त आय॑जंत त्र॒सद॑स्युमस्या॒ इंद्रं॒ न वृ॑त्र॒तुर॑मर्धदे॒वं ॥८॥
+
+> *asmākamatra pitarasta āsantapta ṛṣayo daurgahe badhyamāne |*  
+> *ta āyajaṃta trasadasyumasyā iṃdraṃ na vṛtraturamardhadevaṃ ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अत्र । पितरः । ते । आसन् । सप्त । ऋषयः । दौःगहे । बध्यमाने ।  
+> ते । आ । अयजंत । त्रसदस्युं । अस्याः । इंद्रं । न । वृत्रतुरं । अर्धदेवं ॥ ८ ॥
+
+> *asmākaṃ | atra | pitaraḥ | te | āsan | sapta | ṛṣayaḥ | dauḥgahe | badhyamāne |*  
+> *te | ā | ayajaṃta | trasadasyuṃ | asyāḥ | iṃdraṃ | na | vṛtraturaṃ | ardhadevaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुकुत्सस्य महिषी दौर्गहे बंधनस्थिते । पत्यावराजकं दृष्ट्वा राष्ट्रं
+> पुत्रस्य लिप्सया ॥ यदृच्छया समायातान् सप्तर्षीन्पर्यपूजयत् । ते च
+> प्रीताः पुनः प्रोचुर्यजेंद्रावरुणौ भृशं ॥ सा चेंद्रावरुणाविष्टा त्रसदस्युमजीजनत् । इतिहासमिमं जानन्नृषिर्ब्रूते ऋचाविह ॥ अथास्माकमत्रास्मिन्नराजके
+> देशेऽस्यां पृथिव्यां वा पितरः पालयितार उत्पादकास्त आसन् । अभवन् । एते
+> सप्तर्षयः प्रसिद्धा दौर्गहे दुर्गहस्य पुत्रे पुरुकुत्से बध्यमाने दृढं पाशैर्यस्मादस्या अस्यॆ पुरुकुत्सानि त्रसदस्युमायजंत । प्रादुरिंद्रावरुणयोरनुग्रहात् ।
+> कीदृशं तं । वृत्रतुरं वृत्रस्य शत्रोर्हंतारमर्धदेवं देवानामर्धे समीपे
+> वर्तमानं । यद्वा । देवानामर्धभूतमिंद्रं न इंद्रमिव स्थितं पुत्रं दत्तवंतः ।
+> यत्सर्वेषामर्धमिंद्रः प्रति तस्मादिंद्रो देवतानां भूयिष्ठभाक्तम इति तैत्तिरीयकं । तै. सं. ५-४-८-३ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa first gives the story in verse: when Purukutsa was held in bonds in the Durgaha fortress, his queen, seeing the kingdom without a king and desiring a son, honoured the seven seers who had come by chance. Pleased, they told her to worship Indra and Varuṇa earnestly. Having worshipped them she bore Trasadasyu. Knowing this story, the seer speaks in this verse and the next. Then the explanation: "Here, in our kingless land (or on this earth), the seven well-known seers were our fathers, protectors and progenitors. When Purukutsa, son of Durgaha, was firmly bound with fetters, those seers, by the favour of Indra and Varuṇa, caused Trasadasyu to be brought forth for this wife of Purukutsa." What kind of son? वृत्रतुरं (*vṛtraturaṃ*), slayer of the enemy Vṛtra; अर्धदेवं (*ardhadevaṃ*), one who stands in the अर्ध (*ardha*) (proximity) of the gods. Or else: they gave a son who stood like Indra, who is the half-share of the gods ("ardha-bhūta"). Authority quoted: "Since Indra has a share of all, therefore Indra is the one among the deities who has the largest portion," says the Taittirīya (Tai. Saṃ. 5-4-8-3).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्माकं (*asmākaṃ*)—our
+- अत्र (*atra*)—in this (kingless) land
+- ते (*te*)—the renowned
+- सप्त ऋषयः (*sapta ṛṣayaḥ*)—the seven seers also
+- पितरः (*pitaraḥ*)—as protectors
+- आसन् (*āsan*)—became
+- दौर्गहे (*daurgahe*)—when Purukutsa, son of Durgaha
+- बध्यमाने (*badhyamāne*)—was bound
+- अस्याः (*asyāḥ*)—in Purukutsa's wife
+- इंद्रं न (*iṃdraṃ na*)—like Indra
+- वृत्रतुरं (*vṛtraturaṃ*)—destroyer of enemies
+- अर्धदेवं (*ardhadevaṃ*)—having the nearness of the gods
+- त्रसदस्युं (*trasadasyuṃ*)—Trasadasyu
+- ते (*te*)—those seven seers
+- आ आयजंत (*ā āyajaṃta*)—caused to be born
+
+### Printed p. 430
+
+##### भावार्थ (Bhāvārtha)
+
+Because Purukutsa was bound, even the renowned seers became protectors in this kingless land. When Purukutsa was bound, the same seers, by the favour of Indra and Varuṇa, caused Trasadasyu, the destroyer of enemies, like Indra and having the nearness of the gods, to be born in Purukutsa's wife.
+
+##### English translation (H. H. Wilson)
+The seven Rishis were the protectors of this our (kingdom) when the son of Durgaha was in bonds: performing worship they obtained for (his queen) from the favour of Indra and Varuna, a son like Indra the slayer of foes, dwelling near the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the story of the birth of Trasadasyu, the seer of this sūkta, is told. On this matter the commentator has given a story:— पुरुकुत्सस्य महिषी दौर्गहे बंधनस्थिते । पत्यावराजकं दृष्ट्वा राष्ट्रं पुत्रस्य लिप्सया ॥ यदृच्छया समायातान् सप्तर्षीन्पर्यपूजयत् । ते च प्रीताः पुनः प्रोचुर्यजेंद्रावरुणौ भृशं ॥ सा चेंद्रावरुणाविष्टा त्रसदस्युमजीजनत् । इतिहासमिमं जानन्नृषिर्ब्रूते ऋचाविह ॥ (*purukutsasya mahiṣī daurgahe baṃdhanasthite | patyāvarājakaṃ dṛṣṭvā rāṣṭraṃ putrasya lipsayā ‖ yadṛcchayā samāyātān saptarṣīnparyapūjayat | te ca prītāḥ punaḥ procuryajeṃdrāvaruṇau bhṛśaṃ ‖ sā ceṃdrāvaruṇāviṣṭā trasadasyumajījanat | itihāsamimaṃ jānannṛṣirbrūte ṛcāviha ‖*)
+In former times the king named Purukutsa, son of Durgaha, was captured by enemies while fighting and was kept in prison. Since the king could not be released, and since he had no son, his wife, the queen named Purukutsānī, was overcome with worry that the kingdom, without a leader, would fall to the enemies. At that time the seven seers came there unexpectedly; the queen honoured them with respectful hospitality and worship, and told them her story. The seven seers, pleased with her worship and hospitality, instructed her: "O queen, worship Indra and Varuṇa with devotion." Accordingly the queen entreated Indra and Varuṇa, and by their favour a son named Trasadasyu was born. Since he learned the story of his birth from his mother, Trasadasyu has told this matter in this Ṛk and in the next.
+
+### Printed p. 431
+The name of the king Durgaha is found in the Ṛks
+नपातो दुर्गहस्य मे सहस्रेण सुराधसः । (*napāto durgahasya me sahasreṇa surādhasaḥ |*) (Ṛ. Saṃ. 8-65-12)
+अग्ने बाधस्व वि मृधो वि दुर्गहापामिवावामप रक्षांसि सेध । (*agne bādhasva vi mṛdho vi durgahāpāmivāvāmapa rakṣāṃsi sedha |*) (Ṛ. Saṃ. 10-98.12)
+This king is said to be the father of Purukutsa. It is stated clearly in the present Ṛk and the next that the enemies captured this Purukutsa in battle and destroyed him, and that, since the king had no children, his wife named Purukutsānī, by the instruction of the seven seers, praised Indra and Varuṇa and by their favour obtained a son named Trasadasyu. On this matter some Western scholars have expressed a different opinion. Since the word दुर्गहा (*durgahā*) is read among the names of the horse (Ni. 2-27), some hold that Purukutsa performed the Aśvamedha sacrifice and obtained a son named Trasadasyu. But none of that is trustworthy.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒कुत्सा॑नी॒ हि वा॒मदा॑शद्ध॒व्येभि॑रिंद्रावरुणा॒ नमो॑भिः ।  
+> अथा॒ राजा॑नं त्र॒सद॑स्युमस्या वृत्र॒हणं॑ ददथुरर्धदे॒वं ॥९।
+
+> *purukutsānī hi vāmadāśaddhavyebhiriṃdrāvaruṇā namobhiḥ |*  
+> *athā rājānaṃ trasadasyumasyā vṛtrahaṇaṃ dadathurardhadevaṃ ‖9|*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुकुत्सानी । हि । वां । आदाशत् । हव्येभिः । इंद्रावरुणा । नमःभिः ।  
+> अथ । राजानं । त्रसदस्युं । आस्त्याः । वृत्रहनं । ददथुः । अर्धदेवं ॥ ९ ॥
+
+> *purukutsānī | hi | vāṃ | ādāśat | havyebhiḥ | iṃdrāvaruṇā | namaḥbhiḥ |*  
+> *atha | rājānaṃ | trasadasyuṃ | āstyāḥ | vṛtrahanaṃ | dadathuḥ | ardhadevaṃ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ पुरुकुत्सानी पुरुकुत्सस्य पत्नि ऋषिप्रेरिता वां युवामदाशद्धि । अप्रीणयत् खलु । हव्येभिर्हविर्भिर्नमोभिः स्तुतिभिश्च । अथ राजानं
+> त्रसदस्युं वृत्रहणमर्धदेवमुक्तलक्षणं पुत्रमस्या अस्यै पुरुकुत्सानि ददथुः ।
+> दत्तवंताविति ॥
+
+##### Gist of the bhāṣya
+
+"O Indra and Varuṇa, Purukutsānī, the wife of Purukutsa, urged on by the seer, has indeed propitiated you with oblations and with praises (नमोभिः (*namobhiḥ*)). Then you gave to this Purukutsānī a son as described, the king Trasadasyu, slayer of Vṛtra, standing in the proximity of the gods."
+
+### Printed p. 432
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- पुरुकुत्सानी (*purukutsānī*)—the wife of Purukutsa
+- नां (*nāṃ*)—you two
+- हव्येभिः (*havyebhiḥ*)—with oblations
+- नमोभिः (*namobhiḥ*)—with praises
+- अदाशत् हि (*adāśat hi*)—did she not worship and satisfy you
+- अथ (*atha*)—afterwards
+- अस्याः (*asyāḥ*)—to her
+- वृत्रहनं (*vṛtrahanaṃ*)—destroyer of enemies
+- अर्धदेवं (*ardhadevaṃ*)—one who stands in the nearness of the gods
+- राजानं (*rājānaṃ*)—worthy to be a lord
+- त्रसदस्युं (*trasadasyuṃ*)—a son named Trasadasyu
+- ददथुः (*dadathuḥ*)—you have graciously given
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, did not the wife of Purukutsa worship and satisfy you both with oblations and praises? As the result you have graciously given her a son named Trasadasyu, destroyer of enemies, standing in the nearness of the gods, and worthy to be a lord.
+
+##### English translation (H. H. Wilson)
+The wife of Purukutsa propitiated you two, Indra and Varuna, with oblations and prostrations, and therefore you gave her the king Trasadasyu, the slayer of foes, dwelling near the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒या व॒यं स॑स॒वांसो॑ मदेम ह॒व्येन॑ दे॒वा यव॑सेन॒  ॑
+> गावः ।  
+> तां धे॒नुमिं॑द्रावरुणा यु॒वं नो॑ वि॒श्वाहा॑ धत्त॒मन॑पस्फुरंतीं ॥ १० ॥
+
+> *rāyā vayaṃ sasavāṃso madema havyena devā yavasena*  
+> *gāvaḥ |*  
+> *tāṃ dhenumiṃdrāvaruṇā yuvaṃ no viśvāhā dhattamanapasphuraṃtīṃ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राया । वयं । ससवांसः । मदेम । हव्येन । देवाः । यवसेन । गावः ।  
+> तां । धेनुं । इंद्रावरुणा । युवं । नः । विश्वाहा । धत्तं । अनपस्फुरंती ॥ १० ॥
+
+> *rāyā | vayaṃ | sasavāṃsaḥ | madema | havyena | devāḥ | yavasena | gāvaḥ |*  
+> *tāṃ | dhenuṃ | iṃdrāvaruṇā | yuvaṃ | naḥ | viśvāhā | dhattaṃ | anapasphuraṃtī ‖ 10 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 426. pp. 421-426 (batch API)
+**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
