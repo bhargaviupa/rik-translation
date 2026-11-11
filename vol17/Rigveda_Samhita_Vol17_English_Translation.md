@@ -2128,6 +2128,304 @@ friend (the worshipper)
 - वस्वः (*vasvaḥ*)—wealth
 - शिक्षाः (*śikṣāḥ*)—give
 
+### Printed p. 57
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make me the protector of the people. O Indra, possessor of wealth and of Soma, make me a lord. Otherwise, make me one able to see the supersensuous meaning. Make me qualified to drink the Soma juice. Give me imperishable wealth.
+
+##### English translation (H. H. Wilson)
+Possessor of wealth, accept of the spiritless Soma juice; make me the protector, or rather a monarch of men; make me verily a holy sage, a drinker of the libation; make me verily the possessor of imperishable wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+Kuvit: this word is read among the "many names" of the Nirukta (Ni. 3-1). In the Ṛk Saṃhitā also, in places such as कुवित्स देवीः सनयो नवो वा (*kuvitsa devīḥ sanayo navo vā*) (Ṛ. Saṃ. 4-51-4), it is used in the sense "many times, in many ways". In the present Ṛk the word is employed in three senses: first in the established sense कुवित्-अपि च (*kuvit-api ca*); second in a conjunctive sense; the third time in the contrary sense "or".
+
+Ṛṣi: the word ṛṣi is explained here as a knower of reality (tattvajña) who has the capacity to see supersensuous meanings. That the word can bear this meaning was shown earlier in the Special Topics of Ṛk 1-179-6 (Ṛ. Saṃ.). In general the word ṛṣi is used in the Ṛk Saṃhitā in the sense of a poet (kavi) who sees beyond the ordinary:
+
+अग्निः पूर्वभिर्यषिभिरीड्यः (*agniḥ pūrvabhiryaṣibhirīḍyaḥ*) (Ṛ. Saṃ. 1-1-2);
+ये च पूर्व ऋषयो ये च नूत्नाः (*ye ca pūrva ṛṣayo ye ca nūtnāḥ*) (Ṛ. Saṃ. 7-22-9);
+तमेव ऋषिं तमु ब्रह्माणमाहुः (*tameva ṛṣiṃ tamu brahmāṇamāhuḥ*) (Ṛ. Saṃ. 10-107 6).
+
+In such contexts the meaning "poet" is well established, and in contexts such as अग्निं मनुष्या ऋषयः समीधिरे (*agniṃ manuṣyā ṛṣayaḥ samīdhire*) (10-150-4) the meaning "praiser" is well established. The meaning "hotṛ" also becomes possible in some places.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ त्वा॑ बृ॒हंतो॒ हर॑यो युजा॒ना अ॒र्वागिं॑द्र सध॒मादो॑  
+> वहंतु ।
+
+> *a tvā bṛhaṃto harayo yujānā arvāgiṃdra sadhamādo*  
+> *vahaṃtu |*
+
+### Printed p. 58
+
+> प्र ये द्विता दिन ऋंजंत्याताः सुसंमृष्टासो वृषभस्य  
+> मूराः ॥ ६ ॥
+
+> *pra ye dvitā dina ṛṃjaṃtyātāḥ susaṃmṛṣṭāso vṛṣabhasya*  
+> *mūrāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । बृहंतः । हरयः । युजानाः । अर्वाक् । इंद्र । सध्वमादः । वहंतु ।  
+> प्र । ये । द्विता । दिवः । यंजंति । आताः । सुसंमृष्टासः । वृषभस्य । मूराः ॥ ६ ॥
+
+> *ā | tvā | bṛhaṃtaḥ | harayaḥ | yujānāḥ | arvāk | iṃdra | sadhvamādaḥ | vahaṃtu |*  
+> *pra | ye | dvitā | divaḥ | yaṃjaṃti | ātāḥ | susaṃmṛṣṭāsaḥ | vṛṣabhasya | mūrāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां बृहंतो महांतो युजाना रथे युज्यमाना
+> हरयोऽश्वाः सधमादः सह मादयंतः संतोऽर्वाक् अस्मदभिमुखमा वहंतु ।
+> वृषभस्य कामानां वर्षितुरिंद्रस्य मूराः शत्रोणां मारकाः सुसंमृष्टास इंद्रस्य
+> हस्ताभ्यां पृष्ठभागे सुष्टु संस्पृष्टा दिवो नभसः सकाशादागच्छंतो येऽश्वा
+> आताः । अभिमुख्यन गम्यंते प्राणिभिस्तत्तत्कार्यं प्रतीत्याता दिशः । सर्वा दिशो
+> द्विता द्वैधं यथा भवति तथा प्र ऋंजंति । प्रकर्षण साधयंति ॥ युजानाः ।
+> युजिर् योगे युजिबुधिदृशः किच्च । उ. २.९०. । इत्यानच् । चित्वादंतोदात्तः ।
+> सधमादः । मदी हर्ष इत्यस्माण्यंतात् क्विप् । कृदुत्तरपदस्वरः । द्विता । द्विशब्दात्संख्याया विधार्थे धेति धाप्रत्ययः । धकारस्य तकारश्चांदसः । प्रत्ययस्वरः ।
+> दिवः । ऊडिदमिति विभक्तेरुदात्तत्वं । आताः । आत सातत्यगमन इत्यस्मात्कर्मणि घञ् ।
+> व्यत्ययेनाद्युदात्तः ।
+
+##### Gist of the bhāṣya
+
+O Indra, may the great (बृहंतः (*bṛhaṃtaḥ*)) horses, yoked to the chariot, delighting together (सधमादः (*sadhamādaḥ*)), bring you hither, toward us. Those horses are the slayers (मूराः (*mūrāḥ*)) of the enemies of Indra, the "bull", the showerer of desires. They are well rubbed (सुसंमृष्टासः (*susaṃmṛṣṭāsaḥ*)) on the back by Indra's two hands, and they come from heaven, from the sky. They are ātāḥ: the directions are called ātāḥ because creatures go toward them for their various tasks. These horses accomplish (प्र ऋंजंति (*pra ṛṃjaṃti*): they bring to completion eminently) all the directions in a twofold manner (द्विता (*dvitā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- बृहंतः (*bṛhaṃtaḥ*)—of great form
+- युजानाः (*yujānāḥ*)—yoked to the chariot
+- हरयः (*harayaḥ*)—horses
+- सधमादः (*sadhamādaḥ*)—rejoicing together
+- अर्वाक् (*arvāk*)—toward us
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+- वृषभस्य (*vṛṣabhasya*)—of Indra, the showerer of desires
+- मूराः (*mūrāḥ*)—destroyers (of enemies)
+- सुसंमृष्टासः (*susaṃmṛṣṭāsaḥ*)—(lovingly) patted on the back
+- दिवः (*divaḥ*)—from the atmosphere
+- ये (*ye*)—which, those very horses
+- आताः (*ātāḥ*)—in all directions
+- द्विता (*dvitā*)—doubled
+- प्र ऋंजंति (*pra ṛṃjaṃti*)—(exceedingly) shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the great horses, yoked to the chariot, rejoicing together, bring you toward us. Those same horses of Indra, the showerer of desires, destroyers of enemies, patted on the back, shine doubled in all the directions.
+
+### Printed p. 59
+
+##### English translation (H. H. Wilson)
+May your mighty horses, Indra, harnessed (in your car), and alike exhilarated (by the beverage) bring you to our presence, for they are the destroyers (of the foes) of the showerer (of benefits), and kindly rubbed by his hand they traverse, going quickly, the regions of the sky, making them as it were twofold.
+
+##### विशेषविषयगळु (Special Topics)
+
+Mūrāḥ: for the word mūra the meaning "foolish" (mūḍha), i.e. ignorant, is generally well known; mūra is popularly an ignorant person and amūra a knowing one. In the present Ṛk, however, Sāyaṇa explains the word as a destroying power. The scholar Monier Wiliam, explaining this word, cites this very Ṛk and in his dictionary gives the meaning "Rushing, impetuous"; he also records Sāyaṇa's opinion "destroyer" (māraka). Besides, it also means "firm, secure, well established". The word is also used in the sense of "root, base" (A. Ve. 1-28-3).**NOTE**
+
+Ātāḥ: since it is the means by which birds and others move here and there, ātā is a synonym for the side of a direction. In many places it also means the door of a shutter.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ पिब॒ वृष॑धूतस्य॒ वृष्ण॒ आ यं ते॑ श्ये॒न उ॑श॒ते ज॒भार॑ ।  
+> यस्य॒ मदे॑ च्या॒वय॑सि॒ प्र कृ॒ष्टीर्यस्य॒ मदे॒ अप॑ गो॒त्रा  ॒॑
+> ववर्थ ॥ ७ ॥
+
+> *iṃdra piba vṛṣadhūtasya vṛṣṇa ā yaṃ te śyena uśate jabhāra |*  
+> *yasya made cyāvayasi pra kṛṣṭīryasya made apa gotrā*  
+> *vavartha ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । पिब । वृषधूतस्य । वृष्णः ! आ । यं । ते । श्येनः । उशते । जभार ।  
+> यस्य । मदे । च्यवयसि । प्र । कृष्टीः । यस्य । मदे । अप । गोत्रा । ववर्थ ॥ ७ ॥
+
+> *iṃdra | piba | vṛṣadhūtasya | vṛṣṇaḥ ! ā | yaṃ | te | śyenaḥ | uśate | jabhāra |*  
+> *yasya | made | cyavayasi | pra | kṛṣṭīḥ | yasya | made | apa | gotrā | vavartha ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषधूतस्य ग्रावभिरभिषुतं वृष्णोऽभिमतफलसेचकं सोमं
+> पिब । श्येनः शंसनीयगतिश्चंदोरूपः सुपर्ण उशते सोमं कामयमानाय
+
+##### Gist of the bhāṣya
+
+O Indra, drink the Soma that is pressed with the stones (ग्रावभिरभिषुतं (*grāvabhirabhiṣutaṃ*)) and is the sprinkler (वृष्णः (*vṛṣṇaḥ*)) of the desired fruit. The Śyena, the hawk of praiseworthy flight, who has the form of a metre, brought (जभार (*jabhāra*): आजहार (*ājahāra*)) to you, who desire Soma, that Soma.
+
+### Printed p. 60
+
+> ते तुभ्यं यं सोममा जभार । आजहार । यस्य सोमस्य मदे हर्ष संजाते
+> सति कृष्टीः । आकर्षंति वशीकुर्वंति कर्मणा सर्वानिति कृस्टयो मनुष्याः । तान्
+> सपत्नभूतान्मनुष्यान् प्र च्यावयसि । प्रकर्षण पातयसि । यस्य सोमस्य मदे
+> संजाते सति गोत्रा । गामुदकं रश्मिभिरावृतं वर्षास्वतुषु त्रायंते पालयंतीति
+> गोत्रा मुघाः । तानह ववर्थ । अपवृणेषि ॥ वृषधूतस्य । धूञ् कंपन इत्यस्य
+> निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । तृतीया कर्मणीति पूर्वपदस्वरः । शैनः ।
+> श्येज् गतौ । श्यास्ताहृञ्विभ्य इनच् । उ २.४६. । इतीनच् प्रत्ययः । श्यायत इति
+> शैनः । चित्तादंतोदात्तः । जभार । हरतेर्लिटि णलि रूपं । हृग्रहोर्भश्चंदसीति
+> भकारः । यद्वृत्तयोगादनिघातः । लित्स्वरः । मदे । मदी हर्षे । मदोऽनुपसर्ग
+> इत्यप्रत्ययः । तस्य पित्वादनुदात्तत्वे धातुस्वरः । गोत्रा । त्रैज् पालन इत्यस्यातोऽनुपसर्गे क इति कः । सुपो डादेशः । एकादेशस्वरः । ववर्थ । वृञ् वरण इत्यस्य
+> लिट थल्यतो भारद्वाजस्येतीट् प्रतिषेधः । गुणः लित्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+When joy is born from that Soma, you make fall, you cast down eminently, the kṛṣṭayaḥ, human beings who are your rivals (kṛṣṭayaḥ are people who draw all, bring all under control, by their action). When joy is born from that Soma, you uncover (अप ववर्थ (*apa vavartha*): अपवृणेषि (*apavṛṇeṣi*)) the gotrās, the clouds, which in the rainy seasons protect (त्रायंते पालयंतीति (*trāyaṃte pālayaṃtīti*)) the water enveloped in rays (go means water).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यं (*yaṃ*)—which Soma
+- श्येनः (*śyenaḥ*)—the Śyena bird in the form of a metre
+- उशते (*uśate*)—to you who desired it
+- ते (*te*)—for you
+- आ जभार (*ā jabhāra*)—brought (and)
+- यस्य (*yasya*)—by drinking which Soma juice
+- मदे (*made*)—becoming exhilarated
+- कृष्टीः (*kṛṣṭīḥ*)—men (who are enemies)
+- प्रच्यावयसि (*pracyāvayasi*)—you beat down and drive away (and)
+- यस्य (*yasya*)—by drinking which Soma juice
+- मदे (*made*)—becoming exhilarated
+- गोत्रा (*gotrā*)—the clouds
+- अप ववर्थ (*apa vavartha*)—you split open; such
+- वृषधूतस्य (*vṛṣadhūtasya*)—pressed by the pressing stones
+- वृष्णः (*vṛṣṇaḥ*)—the Soma that grants desires
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink that pressed Soma juice, the granter of desires, which the Śyena bird in the form of a metre brought for you who desired it; by drinking which, rejoicing, you beat down the enemies; and by drinking which Soma, exhilarated, you split open the clouds for the sake of rain.
+
+##### English translation (H. H. Wilson)
+Drink, Indra, of the bountiful (libation) expressed by the beneficent (stones); that which the falcon has borne to you desiring it, in whose exhilaration you cast down (opposing) men, in whose exhilaration you have set open the clouds.
+
+### Printed p. 61
+
+##### विशेषविषयगळु (Special Topics)
+
+Śyena: the occasion on which the Śyena bird, of the nature of the Gāyatrī, brought the Soma was told earlier, and it will be told later when the greatness of the Gāyatrī is described.
+
+Kṛṣṭīḥ: the special meanings of the words kṛṣṭi and carṣaṇi were explained earlier. The uses of the words pañcakṛṣṭayaḥ and pañcajanāḥ, which signify identity, were also explained.
+
+Gotrā: the word gotra generally means a cowshed that protects cows; this is well known, and the same meaning is indicated in the Nirukta (Ni. 1-2). In the present Ṛk gotra is explained as "cloud". Since the word go is a synonym of water, and since the cloud holds back and protects the water, gotra also means "cloud". The special meaning of this word will be explained when Indra's valour is described with the word गोत्रभित् (*gotrabhit*).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒  ॑
+> धॆनानां ॥ ८ ॥
+
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*  
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ*  
+> *dhènānāṃ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*  
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजसात् । वाजस्यान्नस्य सातिर्लाभो यस्मिन् सोऽयं वाजसातिः।
+> अस्मिन्भरे । बिभ्रति जयलक्ष्मीमनेन योद्धार इति भरः संग्रामः । तस्मिन् संग्रामे
+> शुनं शूनमुत्साहेन प्रवृद्धं । यद्वा शुनमिति सुखनाम । सुखकरं मघवानं धनवंतं आत एवेंद्रं निरतिशयैश्वर्यसंपन्नं नृतमं सर्वस्य जगतोऽतिशयेन
+> नेतारं त्वां हुवेम । कुशिका वयं यज्ञार्थमाह्वयेम । तथा तृण्यंतमस्माभिः
+> क्रियमाणां स्तुतिं शृण्यंतमुग्रं शत्रूणां भयंकरं समत्तु संग्रामेषु वृत्राणि
+
+##### Gist of the bhāṣya
+
+O Indra, vājasāt: the one in whom there is the gain (सातिः (*sātiḥ*)) of food (वाज (*vāja*)). Bhara is battle, since in it warriors bear (बिभ्रति (*bibhrati*)) the goddess of victory. In this battle we call you, who are śuna, swollen, grown through enthusiasm; or else śuna is a name for happiness, so "making happiness"; who are wealthy (मघवानं (*maghavānaṃ*)), and therefore Indra endowed with unsurpassed lordship, the supreme leader (नृतमं (*nṛtamaṃ*)) of the whole world. We Kuśikas call you for the sacrifice. We call you who hear the praise made by us, fierce (उग्रं (*ugraṃ*)), a terror to enemies, in the battles (समत्सु (*samatsu*))…
+
+### Printed p. 62
+
+> वृत्रोपलक्षितानि सर्वाणि रक्षांसि घ्नंतं हिंसंतं धनानां शत्रुसंबंधिनां संजितं
+> सम्यग्नेतारं त्वामूतये रक्षणाय वयमाह्वयेम ॥ शुनं । टुओश्चि गतिवृद्ध्योरित्यस्य निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । यजादित्वात्संप्रसारणं । दीर्घाभावश्चांदसः । प्रत्ययस्वरः । हुवेम । ह्वयतेर्बहुलं छंदसीति संप्रसारणे कृते
+> शपो लुकि कृते च लिजि रूपं । निघातः । भरे । बृञ् भरणे । घः । वृषादित्वादाद्युदात्तः । वाजसात् । षणु दाने । भावे क्तिन् । जनसनेत्यादिनानुनासिकस्यात्वं ।
+> बहुप्रीहौ पूर्वपदस्वरः । समत्तु । अद भक्षणे । संपूर्वात् क्विप् । संभक्षयंति
+> योद्धाणामायूंशीति समदः संग्रामाः ! कृदुत्तरपदस्वरः । घ्नंतं । हन हिंसागत्योरित्यस्य शतरि गमहनेत्यादिनोपधालोपः । हो हंतेरिति घत्वं । संजितं ।
+> जि जये । क्विप् !'
+
+##### Gist of the bhāṣya
+
+…who destroy (घ्नंतं (*ghnaṃtaṃ*)) all the Rākṣasas, who are called by the name Vṛtra; who is the good leader and conqueror (संजितं (*saṃjitaṃ*)) of the wealth belonging to the enemies. We call you for protection (ऊतये (*ūtaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजसात् (*vājasāt*)—proceeding for the sake of food
+- भरे (*bhare*)—in the battle
+- शुनं (*śunaṃ*)—who grow through enthusiasm, or who produce happiness
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—endowed with unsurpassed lordship
+- नृतमं (*nṛtamaṃ*)—the leader; you
+- हुवेम (*huvema*)—we invoke and call (likewise)
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—who listen (to our praises)
+- उग्रं (*ugraṃ*)—fearsome to enemies
+- समत्तु (*samattu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—the Asuras beginning with Vṛtra
+- घ्नंतं (*ghnaṃtaṃ*)—who injure and destroy
+- धनानां (*dhanānāṃ*)—the wealth (of enemies)
+- संचितं (*saṃcitaṃ*)—who gather and give (to us); you
+- ऊतये (*ūtaye*)—for protection
+- हवेम (*havema*)—(we invoke and call)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle waged for the sake of food, you who produce happiness, are wealthy, are endowed with unsurpassed lordship, are the leader, listen to our praises, are fearsome to enemies, injure and destroy Vṛtra and the other Asuras in battles, and gather the wealth of the enemies and give it to us—you we invoke and call for protection.
+
+##### English translation (H. H. Wilson)
+We invoke for our protection the opulent Indra, distinguished in this combat, the leader in the food-bestowing (strife), hearing (our praises), terri-ble in battles, the destroyer of foes, the conqueror of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+The special topics of this Ṛk have already been explained earlier.
+
+## Sūkta 44 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं ते अस्त्विति पंचर्चं षष्ठं सूक्तं वैश्वामित्रं बार्हतमैंद्रं ।
+> अत्रानुक्रमणिका । आयं ते पंच बार्हतं त्विति ॥ महाव्रते बार्हत्यां तृचाशीताविदं सूक्तं । ऐ. आ ५२ ॥ षोडशिशस्त्रेयं ते अस्तु हर्यत इत्याद्यस्तृचो विनियुक्तः ! सूत्रितं च । आयं ते अस्तु हर्यत इत्यौष्टिहबार्हतौ तृचौ । आ. ६.२ ।
+> इति !!
+> अनुवादवु — आयं ते अस्तु ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि आरनॆय सूक्तवु.
+> इदरल्लि ऐदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ विश्वामित्रनु ऋषियु, इंद्रनु देवतॆयु, बृहती
+> छंदस्सु- अनुक्रमणिकॆयल्लि—आयं ते पंच बार्हतं तु ऎंदु हेळिरुवुदु. महाव्रत
+> दल्लि बृहती छंदस्सिन तृच (मूरु ऋक्कु) क्कागि ई सूक्तद विनियोगविरुवुदॆंदु ऐतरेयारण्य
+> कदल्लियू (ऐ. आ. ५-२) षोडशियॆंब यागदल्लि शस्त्रमंत्रपठनकालदल्लि आयं ते अस्तु
+> हर्यतः ऎंब ई सूक्तद मॊदलनॆय मूरु ऋक्कुगळ विनियोगविरुवुदॆंदु अश्वलायनश्रौत
+> सूत्रद—आयं ते अस्तु हर्यत इत्यौष्ठिहबार्हत् तृचौ ऎंब सूत्रदिंदलू विवृत
+> वागिरुवुदु (आ. ६-२).
+> ॥ ओं ॥
+> सूक्त—४४
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—४४ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—८ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
+> ॥ ऋषिः—विश्वामित्रः ॥
+> ॥ देवता—इंद्रः ॥
+> ॥ छंदः—बृहती ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अयं ते अस्तु (*ayaṃ te astu*), of five Ṛks, is the sixth sūkta; its seer is Viśvāmitra, it is Bārhata in metre and addressed to Indra. On it the Anukramaṇikā says आयं ते पंच बार्हतं त्विति (*āyaṃ te paṃca bārhataṃ tviti*). In the Mahāvrata this sūkta is used for the Bṛhatī tṛca: महाव्रते बार्हत्यां तृचाशीताविदं सूक्तं (*mahāvrate bārhatyāṃ tṛcāśītāvidaṃ sūktaṃ*) (Ai. Ā. 52). In the Ṣoḍaśin śastra the first tṛca of it, beginning अयं ते अस्तु हर्यतः (*ayaṃ te astu haryataḥ*), is applied; and it is given in the sūtra: आयं ते अस्तु हर्यत इत्यौष्टिहबार्हतौ तृचौ (*āyaṃ te astu haryata ityauṣṭihabārhatau tṛcau*) (Ā. 6-2).
+
+The Anuvāda adds the particulars: Maṇḍala 3, Anuvāka 4, Sūkta 44; Aṣṭaka 3, Adhyāya 3, Varga 8; number of Ṛks in the sūkta 5; seer Viśvāmitra; deity Indra; metre Bṛhatī. It gives the Aitareya Āraṇyaka reference as Ai. Ā. 5-2 and the Āśvalāyana Śrauta Sūtra reference as 6-2.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ते॑ अस्तु हर्य॒तः सोम॒ आ हरि॑भिः सु॒तः ।  
+> जु॒षा॒ण इं॑द्र॒ हरि॑भिर्न॒ आ ग॒ह्या ति॑ष्ठ॒ हरि॑तं॒ रथं॑ ॥ १ ॥
+
+> *ayaṃ te astu haryataḥ soma ā haribhiḥ sutaḥ |*  
+> *juṣāṇa iṃdra haribhirna ā gahyā tiṣṭha haritaṃ rathaṃ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 56. pp. 51-56 (batch API, retry 2)
+**Progress note:** Done through printed p. 62. pp. 57-62 (batch API, retry 1)
