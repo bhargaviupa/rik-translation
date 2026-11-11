@@ -13878,6 +13878,152 @@ O Agni, in the form of Apāṃnapāt, the waters are your face. To escape the on
 - उरूची — अंचतेः क्विन् । अंचतेश्चोपसंख्यानमिति जीप् । अनुदात्तस्य च यत्रोदात्तलोप इति जीप उदात्तत्वं ।
 - पायय — पा पान इत्यस्य णौ परतः शाच्छासाह्वान्नावेषां युगिति युक् । तिजि उत्तरत्वादनिघातः ।
 
+### Printed p. 406
+ते चेतयमानाः । एतदपश्यन्नप एवैनदभ्यवहरामापो वा अस्य सर्वस्य प्रतिष्ठा तद्यत्रास्य सर्वस्य प्रतिष्ठा तदेनत्प्रतिष्ठाप्य यदत्राग्नेयं तदद्व्योधि जनयिष्याम इति तदपोऽभ्यवाहरन् । (*te cetayamānāḥ | etadapaśyannapa evainadabhyavaharāmāpo vā asya sarvasya pratiṣṭhā tadyatrāsya sarvasya pratiṣṭhā tadenatpratiṣṭhāpya yadatrāgneyaṃ tadadvyodhi janayiṣyāma iti tadapo 'bhyavāharan |*) (Śa. Brā. 6-8-22)
+
+The waters (water) are the support of this whole world. Therefore let us carry this brick-pile to the presence of the waters. Then, having established it in the waters, the support of the universe, let us take from there only the fiery part. So the priests carry the fire-altar to the presence of the waters, which are the mouth of Agni. Then, reciting the mantra
+
+अप्सग्ने सधिष्टव सौषधीरनु रुध्यसे । गर्भे संजायसे पुनः । (*apsagne sadhiṣṭava sauṣadhīranu rudhyase | garbhe saṃjāyase punaḥ |*) (Mai. Saṃ. 8-43-9)
+
+they praise Agni, who is filled by the waters and has spread those water-principles into the plants and the rest, and they glorify in another way the matter described in the Ṛk at hand.
+
+Next, the flame spreading toward the Sun, and this flame, filled by the waters, joining the water that stands in the atmosphere and is of the nature of the Sun's rays, is described thus:
+
+अग्ने दिवो अर्णमच्छा जिगासीति । आपो वा अस्य दिवोर्णस्ता एष धूमेनाभैत्यच्छा देवाग्ं ऊचिषे धिष्ण्या य इति प्राणा वै देवा धिष्ण्यास्ते हि सर्वाधिय इष्टंति या रोचने परस्तात्सूरस्य याश्चावस्तादुपतिष्यंत आप इति रोचनो ह नामैष लोको यत्रैष एतत्तपति तद्याश्चृतं परेणापो याश्चावरेण ता एतदाह ॥ (*agne divo arṇamacchā jigāsīti | āpo vā asya divorṇastā eṣa dhūmenābhaityacchā devāgṃ ūciṣe dhiṣṇyā ya iti prāṇā vai devā dhiṣṇyāste hi sarvādhiya iṣṭaṃti yā rocane parastātsūrasya yāścāvastādupatiṣyaṃta āpa iti rocano ha nāmaiṣa loko yatraiṣa etattapati tadyāścṛtaṃ pareṇāpo yāścāvareṇa tā etadāha ‖*) (Śa. Brā. 7-1-1-24)
+
+The whole atmosphere is a flowing stream of water. O Agni, your attractive flames go and join that stream of water. O Agni, as soon as you, in the form of flame, join the stream of the atmosphere, impel the gods, the representatives of the vital principle, to favour us. May the water-principle that is pervasive beyond even the radiance of heaven, that extends over earth and the other places, and that is all-pervading, become one with you: so it is prayed. Therefore it is described by the epithet madhumatī; it should be understood what nature the epithet sumedhāḥ shows for this same tongue.
+
+अग्ने नय सुसथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ॥ (*agne naya susathā rāye asmān viśvāni deva vayunāni vidvān ‖*) (Ī. Ka. 15)
+
+### Printed p. 407
+In this mantra the nature of Agni described by the epithet sumedhāḥ is what is praised. Because Agni is omniscient, knows the principle of sacrifice fully and is famed as Jātaveda, he is prayed to be the guide along the good path.
+
+उरूची (*urūcī*)—Because he pervades the three forms (Agni, Vāyu, Āditya) and the three worlds, the epithet urūcī shows the property of pervasiveness.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॑ : ग्ने॒ पर्व॑तस्येव॒ धारास॑श्चंती पी॒पय॑द्देव चि॒त्रा ।  
+> ताम॒स्मभ्यं॒ प्रम॑तिं जातवेदो॒ वसो॒ रास्व॑ सुम॒तिं वि॒श्वज॑न्यां ॥ ६ ॥
+
+> *yā te : gne parvatasyeva dhārāsaścaṃtī pīpayaddeva citrā |*  
+> *tāmasmabhyaṃ pramatiṃ jātavedo vaso rāsva sumatiṃ viśvajanyāṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । अग्ने । पर्वतस्य इव । धारा । असश्चंती । पीपयत् । देव । चित्रा !  
+> तां । अस्मभ्यं । प्रमतिं । जातवेदः । वसो इति । रास्व । सु ; मतिं । विश्वजन्यां ॥
+
+> *yā | te | agne | parvatasya iva | dhārā | asaścaṃtī | pīpayat | deva | citrā !*  
+> *tāṃ | asmabhyaṃ | pramatiṃ | jātavedaḥ | vaso iti | rāsva | su ; matiṃ | viśvajanyāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देव दीप्यमान हे अग्ने चित्रा नानारूपासश्चंत्यस्मदन्यत्र संगतिमकुर्वाणा
+> या ते तव प्रमतिः प्रकृष्टा बुद्धिः पीपयत् अपेक्षितफलदानेनास्मान्वर्धयति । तत्र
+> दृष्टांतः । पर्वतस्येव धारा । यथा पर्वतस्य मेघस्योदकधारौषधिवनस्पत्यादिषु
+> संगतिं कुर्वाणा तान्वर्धयति तद्वत् । वसो सर्वस्य वासयितर्जातवेदो जातप्रज्ञ हे अग्ने तां प्रमतिं परहितकरणसमर्थां बुद्धिमस्सभ्यं रास्व । दत्त्व । तथा
+> विश्वजन्यां सर्वजनहितां सुमतिं शोभनां बुद्धिं दत्त्व ॥ असश्चंती । सश्चतिर्गतिकर्मा । शतर्युगितश्चेति जीप् । नञ्जा समासे नञ्परः । पीपयत् । पा पाने ।
+> ण्यंतस्य लुजि चचॆ रूपं । चच्यन्यतरस्यामिति चचि परतः पूर्वस्कोदात्तत्वं ।
+> यद्वृत्तयोगादनिघातः । प्रमतिं । तादौ च निति कृत्यशाविति गतेः प्रकृतिस्वरत्वं ।
+> रास्व । रा दाने । व्यत्ययेनात्मनेपदु । लोटि रूपं । आमंत्रितस्याविद्यमानत्वान्निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni! Your wisdom (pramati), of many forms and not consorting with anyone other than us, nourishes us by giving the desired fruit. The illustration: like the stream of a mountain, that is, as the water-stream of a cloud, joining the plants, trees and so on, makes them grow. O Vasu, who causes all to dwell, O Jātaveda, of born wisdom, Agni, give us that wisdom, able to do good to others; and likewise give a good wisdom (sumati), beneficial to all people. असश्चंती (*asaścaṃtī*): the root saśc means movement; पीपयत् (*pīpayat*) from the root pā (to drink); रास्व (*rāsva*) from rā (to give), a middle-voice form by vyatyaya. (The accent remarks are omitted.)
+
+### Printed p. 408
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव अग्ने (*deva agne*)—O shining Agni!
+- चित्रा (*citrā*)—of many forms
+- असश्चंती (*asaścaṃtī*)—not moving elsewhere (leaving us)
+- या ते (*yā te*)—your wisdom of favour, which
+- पर्वतस्य (*parvatasya*)—of the cloud
+- धारा इव (*dhārā iva*)—as the stream in the form of rain makes plants and the rest grow
+- पीपयत् (*pīpayat*)—nourishes us and makes us grow
+- वसो (*vaso*)—O causer of dwelling for all
+- जातवेदः (*jātavedaḥ*)—O Agni of born wisdom
+- तां प्रमतिं (*tāṃ pramatiṃ*)—that same wisdom of favour
+- अस्मभ्यं (*asmabhyaṃ*)—in us
+- रास्व (*rāsva*)—place
+- विश्वजन्यां (*viśvajanyāṃ*)—beneficial to all
+- सुमतिं (*sumatiṃ*)—excellent wisdom: grant it
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, shining, causer of dwelling, of born wisdom! Your wisdom of favour, of many forms and moving nowhere else away from us, nourishes us and makes us grow, as the rain-stream of the cloud makes plants and the rest grow. Set that wisdom, which brings good to all, on our side.
+
+##### English translation (H. H. Wilson)
+Divine Agni, giver of dwellings, knower of all that exists. extend to us that bencvolence which, unshared by others, cherishes us like the showers of the rain-cloud ; that kindness which is beneficent for all mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+जातवेदाः (*jātavedāḥ*)—Having cited the Nirukta explanation जातानि वेद, जातानि वैनं विदुः (*jātāni veda, jātāni vainaṃ viduḥ*) and so on, it was explained earlier how the name Jātavedas suits Agni (Ṛgveda Saṃhitā, part 8, p. 161-1).
+
+सुमतिं (*sumatiṃ*)—प्रमतिं (*pramatiṃ*): two kinds of distinction are shown in wisdom. The word pramati is explained as excellent wisdom and sumati as good wisdom,
+
+वसो (*vaso*)—Sāyaṇa takes the word as meaning one called vasu because he causes all to dwell. It was shown in the special topics of the 2nd Ṛk of this same sūkta that, being all-pervading, he may also be denoted by the word vasu. Where Agni is said to be joined with the Vasus, they are indicated as different deities; but since in many places the all-pervading Agni, Āditya and the Vasus are said to be identical, the epithet vasu for Agni is fitting.
+
+### Printed p. 409
+it may be said that the word pramati indicates the power of knowledge useful for grasping the meaning of principles, and sumati the moral power of action needed for excellent conduct of rites.
+
+पर्वतस्य धारा इव (*parvatasya dhārā iva*)—In this simile the word parvata is explained as cloud. How the meaning "cloud" suits parvata is a matter to be considered. In the Ṛk Saṃhitā the word parvata is used mostly in sūktas addressed to Indra and to the Maruts. The current meaning is famous as "mountain"; the question is what is the basis for explaining it as cloud. Yāska's explanation is:
+
+पर्ववान् पर्वतः ; पर्व पुनः प्रणातेः प्रीणातीर्वा (*parvavān parvataḥ ; parva punaḥ praṇāteḥ prīṇātīrvā*) (Ni. 1-20)
+
+Parvata is that which has joints (parva). The word parva is formed from the root pṛ, meaning "fill", or from the root prī, meaning "satisfy". The etymologists' explanation is that what has such a parva is parvata. According to this, there is no objection to a cloud being named parvata, either because clouds fill the empty sky or because through rain they satisfy the world. The same word is used in many places as an epithet of giri.
+
+आश्मानं चित्सर्वं १ पर्वतं गिरिं प्र च्यावयंति यामभिः । (*āśmānaṃ citsarvaṃ 1 parvataṃ giriṃ pra cyāvayaṃti yāmabhiḥ |*) (Ṛ. Saṃ. 5-56-4)
+त्यं चित्पर्वतं गिरिं शतवंतं सहस्रिणं । वि स्तोतृभ्यो रुरोजिथ ॥ (*tyaṃ citparvataṃ giriṃ śatavaṃtaṃ sahasriṇaṃ | vi stotṛbhyo rurojitha ‖*) (Ṛ. Saṃ. 8-64-5)
+
+In these places parvata is an epithet of giri. Of these, in the first it is explained as उदकवान् मेघः (*udakavān meghaḥ*), a cloud able to fill the world with water, and in the second as पर्ववान् गिरिः (*parvavān giriḥ*), a cloud having joints.
+
+In the Nighaṇṭu parvata, adri and giri are all read among the names of cloud (Ni. 1-10). Sāyaṇa, on Ṛ. Saṃ. 5-56-4, says the word giri is formed from the root gṛ, निगिरत्युदकमिति गिरिः (*nigiratyudakamiti giriḥ*): the cloud is called giri because it pours out water; and that the word adri is formed from the root ad (2-165-4). Since Indra is described as splitting all these with his thunderbolt and releasing water, cloud must be the well-known meaning of all of them in the Ṛk Saṃhitā. But that the original meaning of all the words is the common "mountain" is also known from many sources.
+
+### Printed p. 410
+वि वृत्रं पर्वशो ययुर्वि पर्वता अराजिनः । चक्राणा वृष्टि पौंस्यं ॥ (*vi vṛtraṃ parvaśo yayurvi parvatā arājinaḥ | cakrāṇā vṛṣṭi pauṃsyaṃ ‖*) (Ṛ. Saṃ. 8-7-23)
+
+Here Indra struck with his thunderbolt and split these mountains, lightless and full of darkness; so it is understood that the word parvata denoted the mass of darkness. This mass of darkness is the cloud.
+
+But to explain the word parvata everywhere simply as cloud would not be proper either. For after Indra's victory there are four kinds of attainment: 1) release of the cows; 2) unobstructed flow of the waters; 3) appearance of the dawn; 4) sunrise. These four are what occurs after Indra's victory. Therefore explaining parvata merely as cloud is possible only in some contexts.
+
+स मातरा सूर्येणा कवीनामवासयद्रुजदद्रिं गृणानः ॥ (*sa mātarā sūryeṇā kavīnāmavāsayadrujadadriṃ gṛṇānaḥ ‖*) (Ṛ. Saṃ. 6-32-2)
+
+In such places it says that having split the adri he caused the sunlight and spread it over heaven and earth. Here the word adri is explained as parvata, but not the mountain commonly so called; so it must be explained as a mass of darkness resembling a mountain. Similarly:
+
+महांतमिंद्र पर्वतं वि यद्वः सृजो सि धारा अव धानवं हन् ॥ (*mahāṃtamiṃdra parvataṃ vi yadvaḥ sṛjo si dhārā ava dhānavaṃ han ‖*) (Saṃ. 5-32-1)
+
+The mountain that holds back the water must be explained as the dark cloud. The sense fits if it is the deep cloud standing in the atmosphere, as in:
+
+शिशुं नदीनाग्ं हरिमदिबुध्नमिति गिरिर्वा अद्रिगिरिबुध्ना उ वा आपः ॥ (*śiśuṃ nadīnāgṃ harimadibudhnamiti girirvā adrigiribudhnā u vā āpaḥ ‖*) (Śa. Brā. 7-5-2-18)
+
+This supports the idea stated in the Brāhmaṇa passage that the water, the embryo of that Varuṇa's horse which was earlier called the Sun's rays (वारुणो ना अश्वः (*vāruṇo nā aśvaḥ*)), rests at the base of the adri. This darkness, dense like a mountain and pervasive, holds back the water and the sun's rays (Ṛ. Saṃ. 4-16 6; 8). Its use in this very sense of "full of darkness" is seen in many other places. For example,
+
+त्वमपापसिधानावृणोरपाधारयः पर्वते दानुमद्वसु । (*tvamapāpasidhānāvṛṇorapādhārayaḥ parvate dānumadvasu |*) (Pa. Saṃ. 102-4) **NOTE**
+
+### Printed p. 411
+Many places describe how Indra (Indra in the form of the Sun), with his shining rays, set all the mountains in motion and made the hidden Sun shine; in them the meaning must be taken as stated above. Passages such as "शिशुं नदीनां हरिमद्रिबुद्धं (*śiśuṃ nadīnāṃ harimadribuddhaṃ*)" (Vā. Saṃ. 13-82) also support this meaning.
+
+Just as the word parvata is used to denote a mass of darkness and its density, so it is used also to denote a mass of light, the opposite of darkness. For example,
+
+प्राक्तादपाक्तादधरादुदक्तादभि जहि रक्षसः पर्वतेन । (*prāktādapāktādadharādudaktādabhi jahi rakṣasaḥ parvatena |*) (Ṛ. Saṃ. 7-104-9)
+
+In such places the explanation पर्ववान् पर्वतः (*parvavān parvataḥ*) is given. Here "thunderbolt" is the meaning, that is, a mass of light. If the word parvata is formed from the root prī, as in the etymologists' second explanation, it may also have been used in the sense of friends who give pleasure. For example,
+
+अस्मे रुद्रा मेहना पर्वतासो वृत्रहत्ये भरहूत् सजोषाः ॥ (*asme rudrā mehanā parvatāso vṛtrahatye bharahūt sajoṣāḥ ‖*) (Ṛ. Saṃ. 8-63-12)
+
+Here the Maruts are Indra's friends. Because they helped Indra in battle and in slaying Vṛtra, they became dear to him. Therefore they are denoted by the word parvata. Sāyaṇa explains the sense of this word: पर्वतसद्वशाः पूरणवंतः प्रीणनवंतो वा मरुतः । (*parvatasadvaśāḥ pūraṇavaṃtaḥ prīṇanavaṃto vā marutaḥ |*)
+
+There are contexts where parvata is understood as a particular luminous deity. For example,
+
+प्रोतये वरुणं मित्रमिंद्रं मरुतः कृष्वावसे नो अद्य । प्र पूषणं विष्णुमग्निं पुरंधिं सवितारमोषधीः पर्वतांश्च ॥ (*protaye varuṇaṃ mitramiṃdraṃ marutaḥ kṛṣvāvase no adya | pra pūṣaṇaṃ viṣṇumagniṃ puraṃdhiṃ savitāramoṣadhīḥ parvatāṃśca ‖*) (Ṛ. Saṃ. 6-21-9)
+शं नः पर्वता ध्रुवयो भवंतु शं नः सिंधवः शमु सन्त्वापः ॥ (*śaṃ naḥ parvatā dhruvayo bhavaṃtu śaṃ naḥ siṃdhavaḥ śamu santvāpaḥ ‖*) (Ṛ. Saṃ. 7-35-8)
+
+In all such places the parvatas too are prayed to for favour along with deities such as Indra and Mitra; it is prayed that the mountains be pleasant to us. In such contexts Sāyaṇa explains: पर्वतान् अद्रीन् इत्येतान् देवान् । (*parvatān adrīn ityetān devān |*) the deities called parvata are joined with Indra and the other deities and prayed to for our protection. But in places such as न पर्वता न नद्यः (*na parvatā na nadyaḥ*) (Ṛ. Saṃ. 5-55-7) he explains it as the earthly mountain. In contexts such as ध्रुवा ह पर्वता इमे (*dhruvā ha parvatā ime*) (Tai. Brā. 2-4-28) and पर्वत इवाविचाचलिः (*parvata ivāvicācaliḥ*) (Ṛ. Saṃ. 10-173-2), too, the simile is of the earthly mountain, firmly established.
+
 ---
 
-**Progress note:** Done through printed p. 405. pp. 400-405 (batch API)
+**Progress note:** Done through printed p. 411. pp. 406-411 (batch API)
