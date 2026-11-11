@@ -23010,6 +23010,221 @@ Aryaman and Varuna, instruct us in the path (of worship) : Agni the lord of food
 > *ā parvatasya marutāmavāṃsi devasya trāturavi bhagasya |*  
 > *pātpatirjanyādaṃhaso no mitro mitriyāduta na uruṣyet ‖ 5 ‖*
 
+### Printed p. 585
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पर्वतस्य । मरुतां । अवांसि । देवस्य । त्रातुः । अव्रि । भगस्य ।  
+> पात् । पतिः । जन्यात् । अ०हसः । नः । मित्रः । मित्रियात् । उत । नः । उरुष्येत् ॥
+
+> *ā | parvatasya | marutāṃ | avāṃsi | devasya | trātuḥ | avri | bhagasya |*  
+> *pāt | patiḥ | janyāt | a0hasaḥ | naḥ | mitraḥ | mitriyāt | uta | naḥ | uruṣyet ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्वतस्येंद्रसखस्यॆतन्नामकस्य देवस्य मरुतां च त्रातू रक्षकस्य भगस्य
+> देवस्य चावांसि रक्षणान्याव्रि। आवृणे । किंच पतिर्वरुणो देवो जन्याज्जनसंबंधादंहसः पापात् नोऽस्मान्पात् । पातु । रक्षतु । उतापि च मित्रश्च मित्रियात्
+> मित्रभावेन न उरुष्येत् । रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+Parvata is the deity so named, a friend of Indra. Sāyaṇa takes "the protections of Parvata, of the Maruts, and of the protecting god Bhaga" as अवांसि (*avāṃsi*), protections (rakṣaṇāni), and glosses *āvri* as आवृणे (*āvṛṇe*) (I solicit). Further, the lord, the god Varuṇa, is to protect us from the sin that arises from the relations of men (जन्यात् (*janyāt*) = *janasaṃbaṃdhāt*). Mitra also is to protect us with the feeling of a friend (मित्रियात् (*mitriyāt*) = मित्रभावेन (*mitrabhāvena*)); उरुष्येत् (*uruṣyet*) means "let him protect".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine one
+- पर्वतस्य (*parvatasya*)—also from the god Parvata
+- मरुतां (च) (*marutāṃ (ca)*)—also from the Maruts
+- त्रातुः (*trātuḥ*)—the protector
+- भगस्य (*bhagasya*)—also from Bhaga
+- अवांसि (*avāṃsi*)—protections
+- आ अव्रि (*ā avri*)—I desire and pray for
+- पतिः (*patiḥ*)—Varuṇa, the guardian
+- जन्यात् (*janyāt*)—arising from the fault of men
+- आंहसः (*āṃhasaḥ*)—from sin
+- नः (*naḥ*)—us
+- पात् (*pāt*)—may he protect
+- उत (*uta*)—and
+- मित्रः (*mitraḥ*)—Mitra also
+- मित्रियात् (*mitriyāt*)—with the feeling of a friend
+- नः (*naḥ*)—us
+- उरुष्येत् (*uruṣyet*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+I pray, desiring the protections of all these: Parvata and the Maruts, who are of divine nature, and Bhaga the protector. May Varuṇa the guardian protect us from the sin that arises from the fault of men. May Mitra too protect us with that same feeling of a friend.
+
+##### English translation (H. H. Wilson)
+I have recourse to the protection of Parvata, of the Maruts, and of
+the divine protector, Bhaga : may the lord (Varuna) presrve us from
+human wretchedness, and may Mitra defend us with a friendly regard.
+
+### Printed p. 586
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू रो॑दसी॒ अहि॑ना बु॒ध्ये॑न सुवी॒त दे॑वी॒ अप्ये॑भिरि॒ष्टैः ।  
+> स॒मु॒द्रं न सं॒चर॑णे सनि॒ष्यवो॑ घ॒र्मस्व॑रसो न॒द्यो॒३॒॑ ३ अप॑  
+> व्रन् ॥ ६ ॥
+
+> *nū rodasī ahinā budhyena suvīta devī apyebhiriṣṭaiḥ |*  
+> *samudraṃ na saṃcaraṇe saniṣyavo gharmasvaraso nadyo 3 apa*  
+> *vran ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । रोदसी इति । अहिना । बुध्येन । स्तुवीत । देवी इति । अप्येभिः । इष्टैः ।  
+> समुद्रं । न । संचरणे । सनिष्यवः । घर्मस्वरसः । नद्यः । आप । व्रन् ॥ ६ ॥
+
+> *nu | rodasī iti | ahinā | budhyena | stuvīta | devī iti | apyebhiḥ | iṣṭaiḥ |*  
+> *samudraṃ | na | saṃcaraṇe | saniṣyavaḥ | gharmasvarasaḥ | nadyaḥ | āpa | vran ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्यौ युवामहिना बुध्येनाहिर्बुध्न्यनामकेन
+> देवेन सह नु क्षिप्रमप्येभिरापनीयैरिष्ट्यैः कामैर्निमित्तभूतैः स्तुवीत । स्तुवे ।
+> सनिष्यवो धनानां संभक्तुमिच्छंतः संचरणे संचाराय समुद्रमध्यगमनाय
+> समुद्रमिव । तं यथा स्तुवंति तद्वत् । यस्मादेते देवा घर्मस्वरसो दीप्तध्वनयो नद्यो नदीरप व्रन् । अपवृण्वंतीति परोक्ष इव । अथवा ते देवा नदीरपवृण्वंतित्याशीः । तस्मात् स्तुव इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"O Heaven and Earth (रोदसी (*rodasī*)), I praise you quickly (नु (*nu*)) together with the deity named Ahirbudhnya, for the sake of these desired objects to be obtained (*āpanīyaiḥ*), the wishes that are the cause." स्तुवीत (*stuvīta*) is read as स्तुवे (*stuve*). The comparison: as those who wish to share out wealth (सनिष्यवः (*saniṣyavaḥ*)) praise the sea for going about, that is, for going through the middle of the sea, so I praise you. Because these gods, घर्मस्वरसः (*gharmasvarasaḥ*) (of bright sounds), uncover the rivers (अप व्रन् (*apa vran*) = अपवृण्वंतीति (*apavṛṇvaṃtīti*), a past form in the sense of the present, as in indirect address); or else the sense is a blessing: "may those gods uncover the rivers". Therefore the connection is "I praise".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—of divine nature
+- रोदसी (*rodasī*)—O Heaven and Earth
+- सनिष्यवः (*saniṣyavaḥ*)—those desiring wealth
+- संचरणे (*saṃcaraṇe*)—for travelling (to help)
+- घर्मस्वरसः (*gharmasvarasaḥ*)—endowed with shining sounds
+- नद्यः (*nadyaḥ*)—rivers
+- अपव्रन् (*apavran*)—where they disappear, such
+- समुद्रं न (*samudraṃ na*)—as they pray to the sea
+- अहिना बुद्ध्येन (*ahinā buddhyena*)—you who are joined with the god Ahirbudhnya
+- नु (*nu*)—quickly
+- आप्येभिः (*āpyebhiḥ*)—desired
+- इष्टैः (*iṣṭaiḥ*)—for the accomplishment of desired ends
+- स्तुवीत (*stuvīta*)—I pray
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, of divine nature: as those desiring wealth pray, for help in their travelling, to the sea where the rivers of shining sounds disappear, so I pray to you, joined with the god Ahirbudhnya, for the quick accomplishment of the desired ends.
+
+### Printed p. 587
+
+##### English translation (H. H. Wilson)
+Divine Heaven and Earth, I praise you together with Ahibudhnya for those (good things that are) desired. as those desirous of acquiring (riches) praise the ocean on traversing it (in which) the sounding rivers disappear.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वैनो॑र्दे॒व्यदि॑ति॒र्नि पा॑तु दे॒वस्त्रा॒ता त्रा॑यता॒मप्र॑युच्छन् ।  
+> न॒हि मि॒त्रस्य॒ वरु॑णस्य धा॒सिमर्हा॑मसि प्र॒मियं॒ सान्व॒ग्नेः ॥ ७ ॥
+
+> *devainordevyaditirni pātu devastrātā trāyatāmaprayucchan |*  
+> *nahi mitrasya varuṇasya dhāsimarhāmasi pramiyaṃ sānvagneḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवैः । नः । देवी । अदितिः । नि । पातु । देवः । त्राता । त्रायतां । अप्रयुच्छन् ॥  
+> नहि । मित्रस्य । वरुणस्य । धासिं । अर्हामसि । प्रमियं । सानु । अग्नेः ॥ ७ ॥
+
+> *devaiḥ | naḥ | devī | aditiḥ | ni | pātu | devaḥ | trātā | trāyatāṃ | aprayucchan ‖*  
+> *nahi | mitrasya | varuṇasya | dhāsiṃ | arhāmasi | pramiyaṃ | sānu | agneḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतितिर्देव्यदीना देवमाता देवैरन्यॆर्मित्रादिभिः सह नोऽस्मान्नि पातु ।
+> पालयतु । तथा त्राता पालको देवः । इंद्र इत्यर्थः। सोp्यप्रयुच्छन् अप्रमाद्यन् त्रायतां । वयं च मित्रस्य वरुणस्याग्नेश्व सानु समुच्च्रितं धासिमन्नं
+> सोमादिलक्षणं प्रमियं हिंसितुं नह्यर्हामसि । आर्हामः । समर्था भवामः ।
+> किंत्वनुष्ठानेन संवर्धितुमर्हाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Aditi, the divine one, the mother of the gods, is to protect us together with the other gods, Mitra and the rest. So too the protector (त्राता (*trātā*)), the god, that is Indra, being unremitting (अप्रयुच्छन् (*aprayucchan*) = not negligent), is to protect. And we are not able (अर्हामसि (*arhāmasi*) = आर्हामः (*ārhāmaḥ*), we are capable) to harm the elevated (सानु (*sānu*) = समुच्च्रितं (*samuccritaṃ*)) food (धासिं (*dhāsiṃ*) = *annaṃ*), of the nature of Soma and the like, of Mitra, Varuṇa and Agni (प्रमियं (*pramiyaṃ*) = to injure); rather we are fit to increase it by performing the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—the divine mother of gods
+- अदितिः (*aditiḥ*)—Aditi
+- देवैः (*devaiḥ*)—together with all the gods, Mitra and the rest
+- नः (*naḥ*)—us
+- नि पातु (*ni pātu*)—may she protect fully
+- त्राता (*trātā*)—the guardian
+- देवः (*devaḥ*)—the god Indra
+- अप्रयुच्छन् (*aprayucchan*)—with no other attention
+- त्रायतां (*trāyatāṃ*)—may he protect
+
+### Printed p. 588
+- मित्रस्य (*mitrasya*)—to Mitra
+- वरुणस्य (*varuṇasya*)—to Varuṇa
+- अग्नेः (*agneḥ*)—to Agni
+- सानु (*sānu*)—offered in an excellent manner
+- धासिं (*dhāsiṃ*)—food
+- प्रमियं (*pramiyaṃ*)—to obstruct
+- नहि अर्हामसि (*nahi arhāmasi*)—we are not able (we do not hinder)
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi, the mother of the gods, together with Mitra and all the other gods, protect us fully. May Indra the guardian protect us with no other attention. We are not able to obstruct the food offered in excellent manner to Mitra, Varuṇa and Agni.
+
+##### English translation (H. H. Wilson)
+May the divine Aditi, with the gods, preserve us : may the ever-
+attentive protecting (deity, Indra,) protect us: we are not able to withhold
+the elevated (sacrificial) food of Mitra, of Varuna, of Agni.
+
+##### विशेषविषयगळु (Special Topics)
+
+Aditi — Setting aside the two deities Niṣṭigrī and Uṣas, Aditi is the first deity among those directly designated as mother of the gods.
+
+1. Particulars describing the nature of Aditi.
+Although there is no separate sūkta addressed to Aditi, she is praised and prayed to through the mantras contained in many sūktas. She is prayed to bestow sons and the like and wealth such as cattle. Her protection and forgiveness are asked in many places (1-43-2). She is described as mother of Varuṇa and of some other deities. In the Nighaṇṭu the word Aditi is read among the names of the earth, among the names of speech, among the names of the cow, and among the names of heaven and earth (Ni. 1-1; 1-11; 2-11; 3-30). In the Nirukta, section 4-22, Aditi is described as अदीना देवमाता (*adīnā devamātā*), the great mother of the gods.
+
+In the Ṛksaṃhitā (1-113-19) Uṣas, the mother of the gods, is described as the face (anīka) of Aditi (Sāyaṇa gives a slightly different meaning). The gross sense "face of Aditi" here might be said to mean her other form. In another part of the Nirukta (11-22), following the classification of the deities (as shown earlier), when the deities of the middle region are explained, Aditi is given the first place among the female deities.
+
+### Printed p. 589
+"अथातो मध्यस्थानाः स्त्रीयः । तासां अदितिः प्रथमागामिनी भवति (*athāto madhyasthānāḥ strīyaḥ | tāsāṃ aditiḥ prathamāgāminī bhavati*)" (Ni. 11-22)
+Among the female deities of the middle world Aditi occupies the first place.
+
+In the Ṛksaṃhitā, in the Ṛks 4-55-3; 4-55-7; 5-51-11; 6-50-1; 7-38-4; 7-40-2; 8-25-10; 8-27-5; 8-56-10 and others, Aditi is called a goddess; in the mantras 2-42-6; 7-40-4; 10-92-14, as देवी आदितिरनर्वा (*devī āditiranarvā*), Aditi of unhindered power and of divine nature; in 1-136-3 as radiant, supporter of the earth, and dwelling in heaven (चोतिष्मतीमदितिं........................ (*cotiṣmatīmaditiṃ........................*)). Besides, the epithets उरुव्यचाः (*uruvyacāḥ*), she who pervades very widely (5-46-6); विश्वजन्यां (*viśvajanyāṃ*), the dear friend of all men (7-10-4), and the like, are noteworthy. Praising such an excellent Aditi, benefactress of the world, the seer praises and prays: "In the morning, at midday and in the evening also I pray to Aditi and invoke her continuously." (5-69-3)
+In the mantra 1-185-3 a gift of wealth from that same Aditi, pure, imperishable, divine and most worthy of worship, is asked. In 1-166-12, in praising the Maruts, there is praise of Aditi in that the favour to be granted by them is equal to the gifts of the Aditis. In 4-55-3 पत्स्य (*patsya*) is an epithet indicating a special quality of Aditi; from this it is understood that she is the household deity who gives shelter to all. In the Vājasaneyi Saṃhitā the great qualities of Aditi are praised thus:
+महीमू षु मातरं सुव्रतानां.......... अदितिं सुप्रणीतिं । (*mahīmū ṣu mātaraṃ suvratānāṃ.......... aditiṃ supraṇītiṃ |*)
+(Tai. Saṃ. 1-5-11-5 and Vā. Saṃ. 21-5).
+Her greatness is described thus: "Let us pray to and invoke Aditi, who is in the form of a mother giving shelter to devotees, a leader of the sacrifice, possessed of surpassing power, free from decay, pervading very widely, a protector, who skilfully shows the way to all and leads all on the right path."
+
+2. The opinions stated by Roth and Max-Muller on the original form of Aditi:—
+Aditi is, in the opinion of the scholar Roth, a synonym with the meaning "infinite", used to describe the infinity of the atmospheric space, which has greater importance than the earth with its fixed boundaries and has a measureless extent.
+
+### Printed p. 590
+The same scholar has expressed this same opinion also when explaining the Nirukta passage. For the word Aditi the meaning "unbounded, not to be transgressed, imperishable, beyond measure" is natural. She is a special deity reflecting "infinity". In this very form she is worshipped. As the unearthly divine radiance is regarded as a non-earthly and eternal principle, so Varuṇa, Mitra, Aryaman, Bhaga and the other Ādityas, of the nature of light, are regarded as sons of this eternal principle in the form of Aditi. "Because it reflects the eternal principle that is beyond measure and beyond worldly perception, it has not been possible that a definite form and the like of this deity should be described in Vedic literature. This eternal principle, which upholds the Ādityas and is itself upheld by the Ādityas, is the support of all the Ādityas. This same divine light is also the essence of them all." Thus the same scholar has stated his opinion.
+(Journal of the German Oriental Society Vol. 6. p. 68)
+"The goddess Aditi, reflecting the principle of 'the infinite', is the most ancient of the deities seen by the seers. But she is not a principle conceived in abstract form in a merely mental imagining; she is a deity comprising universality in concrete form. She is perceptible to human sight, of infinite extent, greater than the earth, and beyond the atmosphere and the other worlds. Because she reflects this infinity, Aditi is described by many kinds of epithets."
+(Translation of the Rig-veda. I-230)
+
+1. Passages describing Aditi as mother of the Ādityas:—
+From the sentences cited below it is understood that Aditi is the mother of Varuṇa and the other deities. Not only the sentences of the Ṛksaṃhitā but other śrutis also state this.
+"That Mitra and Varuṇa, lords of all wealth, might manifest their divine power, Aditi, mother of the world, of great form and worthy of worship, gave birth to Mitra and Varuṇa." (8-25-3)
+"May Aditi, mother of the wealthy Mitra, of Aryaman, and of the pure-souled Varuṇa, grant us protection. (cf. 10-36-3; 10-132-6; Atha. Ve. 5-1-9)" (8-47-9)
+In 2-27-7 राजपुत्रा (*rājaputrā*) means she whose sons are the Ādityas headed by Varuṇa, lords of the world; in 3-4-11 सुपुत्रा (*suputrā*), she who has excellent sons; in 8-56-11 उग्रपुत्रा (*ugraputrā*), she who has very mighty sons;
+
+### Printed p. 591
+and in the mantras Atharvaveda 3-8-2 and 11-1-11 she is designated शूरपुत्रा (*śūraputrā*). In the mantra Atha. Ve. 8-9-21, "अष्टयोनीरदितिरष्टपुत्रा (*aṣṭayonīraditiraṣṭaputrā*)", Aditi is praised as having eight wombs and eight sons.
+In the mantra 8-90-15 of the same Atharvaveda the relation between the Ādityas and Aditi is stated somewhat differently.
+"माता रुद्राणां दुहिता वसूनां स्वसादित्यानां..................अदितिं वधिष्ट (*mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānāṃ..................aditiṃ vadhiṣṭa*)"
+She is described as daughter of the Vasus, mother of the Rudras, and sister of the Ādityas.
+In the Sāmaveda the brothers and sons of Aditi are also separately designated, as stated in the sentence cited below.
+"त्वष्टा नो दैव्यं वचः.................. श्रामणं वचः (*tvaṣṭā no daivyaṃ vacaḥ.................. śrāmaṇaṃ vacaḥ*)"
+(Sā. Ve. 1-299)
+May Tvaṣṭṛ, Parjanya and Brahmaṇaspati recite blessings for us. May Aditi also, with her sons and brothers (पुत्रैर्भ्रातृभिः (*putrairbhrātṛbhiḥ*)), recite words of protection for us.
+
+4. Is Aditi identical with the atmospheric space?
+In the Ṛk 1-63-2 Aditi, together with water and earth, is described as a womb of the gods. The meaning of that mantra is: "O gods, all your names are sacred and worthy of worship. You who were born in the womb of Aditi, in the womb of the earth, and also of the waters, hear our prayer."
+[This division of the gods is threefold: those of the heavenly world, those of the atmosphere, and those of the earth. (We discussed this order of division earlier when citing the mantra 1-139-11.) It is a peculiarity that instead of "dwellers in the atmosphere" it says "born of water". But not only in this context: the same usage occurs also in 10-49-2. "All the gods, born of heaven, born of the atmosphere and born of the earth, worship me alone as Indra", thus runs this division (in both of these present examples the word अप् (*ap*) may be given the meaning atmosphere). Likewise in the Ṛks 10-65-9 **NOTE**; 2-38-11; 10-45-1 and 7-35-11 these same divisions are clearly found. But in the mantras 6-50-11 and 7-35-14 there are four divisions: दिव्याः (*divyāḥ*), पार्थिवासः (*pārthivāsaḥ*), गोजाताः (*gojātāḥ*), अप्याः (*apyāḥ*).]
+As in 10-63-2, this point can be noticed also in the Ṛk 10-63-3. "The Ādityas, whose mother the earth yields sweet milk, and the heavenly world in the form of Aditi
+
 ---
 
-**Progress note:** Done through printed p. 584. pp. 579-584 (batch API)
+**Progress note:** Done through printed p. 591. pp. 585-591 (batch API)
