@@ -7765,6 +7765,146 @@ The Vishwamitras have addressd the prayer to Indra, the wielder of the thunderbo
 
 विश्वामित्राः (*viśvāmitrāḥ*)—Here the plural form Viśvāmitrāḥ is used to indicate Viśvāmitra and his sons, other relatives, those born in the Kuśika line, and others.
 
+### Printed p. 206
+अरासत (*arāsata*)—स्तोत्रमकुर्वन् (*stotramakurvan*). The word अरासत (*arāsata*) is formed from the root रासृ (*rāsṛ*) (रासृ शब्दे (*rāsṛ śabde*)), meaning "to make a sound". It means "they made a sound", that is, they recited praise.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं ते॑ कृण्वंति॒ कीक॑टेषु॒ गावो॒ नाशिरं॑ दु॒ह्रे न त॑पंति  ॒
+> घर्मं ।  
+> आ नो॑ भर॒ प्रम॑गंदस्य॒ वेदो॑ नैचाशा॒खं म॑घवन्रंधया  
+> नः ॥ १४ ॥
+
+> *kiṃ te kṛṇvaṃti kīkaṭeṣu gāvo nāśiraṃ duhre na tapaṃti*  
+> *gharmaṃ |*  
+> *ā no bhara pramagaṃdasya vedo naicāśākhaṃ maghavanraṃdhayā*  
+> *naḥ ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । ते । कृण्वंति । कीकटेषु । गावः । न । आशिरम् । दुह्रे । न । तपंति । घर्म० ।  
+> आ । नः । भर । प्रमगंदस्य । वेदः । नैचाशाखं । मघवन् । रंधये । नः ॥ १४ '
+
+> *kaṃ | te | kṛṇvaṃti | kīkaṭeṣu | gāvaḥ | na | āśiram | duhre | na | tapaṃti | gharma0 |*  
+> *ā | naḥ | bhara | pramagaṃdasya | vedaḥ | naicāśākhaṃ | maghavan | raṃdhaye | naḥ ‖ 14 '*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कीकटॆः स्वनार्यनिवासेषु जनपदेषु । यद्वा । क्रियाभिर्यागदानहोमलक्षणाभिः किं फलिष्यतीत्यश्रद्धधानाः प्रत्युत पिबत खादतायमेव लोको न
+> पर इति वदंतो नास्तिका कीयटाः । तेषु गावस्ते तव किं कृण्वंति । किं कुर्वंति ।
+> न क्वचित्तवोपयोगं कुर्वंतीत्यर्थः । अनुपयोगं दर्शयति आशिरं सोममिश्रणयोग्यं पयो न दुह्रे । न दुहंति । किंच घर्मं प्रवर्ग्याख्यकर्मोपयुक्तं
+> महावीरपात्रं स्वपयःप्रदानद्वारेण न तपंति । न दीपयंति । एतेन णांनाय्याद्यर्थमपि नोपयुज्यंत इत्यपि सूचितं भवति । एवं क्वचिदसि नैरिके कर्मण्णनप
+> युक्तास्ता गा नोऽस्मभ्यमा भर । अहर । न केवलं ता एव किं तर्हि प्रमगंदस ।
+> द्वैगुणादिलक्षणपरिमाणं गतोऽर्थो मामेव गमिष्यतीति बुद्ध्या परेषां ददातीति मगंदो वार्धुषिकः । तस्यापत्यं पुत्रादिः प्रमगंद प्रस्कण्वादिवदपत्यार्थ,
+> प्रशब्देन द्योत्यते । तस्यात्यंतकुसीदिकुलस्य वेदो धनमाहर । किंच हे मघव
+> न्नवन्निंद्र नैचाशाखं । नीचासु शूद्रयोनिषूत्पादिता शाखा पुत्रपौत्रादिपरंपरा
+> येन स नीचाराखः । शूद्रापत्यैश्च केवलैः शूद्रवेदी पतत्त्वथ इति च पातकहेतुतेन स्मरणात् । पतितस्य संबंधि धनं नैचाशाख. । तद्वनु नोऽस्मभ्यं रुधय
+
+##### Gist of the bhāṣya
+
+"O Indra, what do the cattle do for you among the Kīkaṭas?" Kīkaṭas are the countries that are dwellings of non-Āryas; or else, the unbelieving nāstikas who, doubting what any rite of sacrifice, gift and oblation will yield, say "drink, eat, only this world exists, there is no other". What do the cattle among them do for you? They are of no use to you. He shows their uselessness: they do not milk the आशिरं (*āśiraṃ*), the milk fit for mixing with Soma. Further, the Mahāvīra vessel used in the rite called Pravargya, the घर्मं (*gharmaṃ*), they do not heat, they do not make it glow by giving it their milk. By this it is also suggested that they are not used even for the Sāṃnāyya and the like. Thus they are useless in any rite; "bring those cattle to us". Not only these: also the wealth of Pramagaṇḍa. A मगंद (*magaṃda*) is a usurer, who lends to others with the thought "the wealth, once it has grown to double and so on, will come back to me alone". His offspring, a son and the like, is Pramagaṇḍa; the sense of offspring is conveyed by the prefix प्र (*pra*), as in Praskaṇva and others. "Bring the wealth of that family of extreme usurers." Further, "O Maghavan, Indra, नैचाशाखं (*naicāśākhaṃ*)": he by whom a branch, a line of sons and grandsons, has been produced in low (women), in śūdra wombs, is नीचाशाख (*nīcāśākha*); for by the smṛti, one who marries a śūdra woman, and one who is a śūdra-husband with children only by śūdra women, falls, being a cause of sin. The wealth connected with such a fallen man is नैचाशाखं (*naicāśākhaṃ*); "accomplish that for us" (the text continues on the next page).
+
+### Printed p. 207
+
+> साधय । एतेषां तद्धनं तव नोपयुज्यते अस्मदायत्तं तु तद्धनं यागादिद्वारा
+> तवोऽपयुज्यते । तस्मात्तदस्मभ्यं प्रयच्छेति भावः ॥ एतमर्थं यास्कोऽपाह । किं
+> ते कुर्वंति कीकटेषु गावः । कीकटो नाम देशोऽनार्यनिवासः । कीकटाः
+> किंकृताः किं क्रियाभिरितिप्रेप्सा वा । नैव चाशिरं दुह्रे न तपंति घर्मं घरणं ।
+> आ हर नः प्रमगंदस्य धनानि । मगंदः कुसीदी मांगदो मामागमिष्यतीति च
+> ददाति । तदसत्यं प्रमगंदोऽत्यंतकुसीदिकुलीनः । प्रमदको वा योऽयमेवास्ति
+> लोको न पर इति प्रेप्पुः । पंडको वा पंडकः पंडगः प्रार्दको वा प्रार्दयत्यांडौ । आंडावाणी इव व्रीडयति । तत्स्थं नैचाशाखं। नीचाशाखो नीचैः
+> शाखः । शाखाः शक्नोतेः । आणिररणात्। तन्नो मघवन्रंधयेति रध्यतिर्वशगमने ।
+> नि. ६-३२ । इति ॥ आशिरं । आज्‌पूर्वाच्चीणातेः क्विप्यपस्पृधेथामित्यादिना शिरित्यादेशः। दुह्रे। दुहेर्लिटीरयोर इति रेआदेशः । द्विर्वचनस्यविकल्पितत्वात् द्विर्वचनाभावः । चादिलोपे विभाषेति न निघातः । नैचाशाखं । तस्येदमित्यण् । प्रत्ययस्वरः।
+> रंधय । रधेर्ण्यंतस्य रधिजभोरचीति नुमागमः ॥
+
+##### Gist of the bhāṣya
+
+"Accomplish it": their wealth is of no use to you, but our wealth, depending on us, is of use to you through sacrifices and the like; therefore give it to us, is the sense. Yāska says on this meaning: "What do the cattle do for you among the Kīkaṭas? Kīkaṭa is the name of a country, the dwelling of non-Āryas. Or the Kīkaṭas are किंकृताः (*kiṃkṛtāḥ*), those who ask 'what by rites?'. They do not milk the āśira, they do not heat the gharma. Bring us the wealth of Pramagaṇḍa. A मगंद (*magaṃda*) is a usurer: 'it will come to me', so he gives. That is untrue: Pramagaṇḍa is one born in an extremely usurious family; or प्रमदक (*pramadaka*), one who desires 'only this world exists, no other'; or पंडक (*paṃḍaka*), पंडग (*paṃḍaga*), or प्रार्दक (*prārdaka*), who ... ; नैचाशाखं (*naicāśākhaṃ*): नीचाशाख (*nīcāśākha*) is नीचैः शाखः (*nīcaiḥ śākhaḥ*) ... 'that, Maghavan, accomplish for us'; the root रध्यति (*radhyati*) is in the sense of coming into one's power" (Ni. 6-32). **NOTE**. The remainder of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कीकटेषु (*kīkaṭeṣu*)—among the community of unbelieving Kīkaṭas
+- गावः (*gāvaḥ*)—cattle
+- ते (*te*)—to you
+- किं कृण्वंति (*kiṃ kṛṇvaṃti*)—what use do they produce
+- आशिरं (*āśiraṃ*)—the milk fit for mixing with Soma
+- न दुह्रे (*na duhre*)—they do not yield
+- घर्मं (*gharmaṃ*)—the Mahāvīra vessel used in the Pravargya sacrifice
+- न तपंति (*na tapaṃti*)—they do not make it glow (therefore)
+- नः (*naḥ*)—to us who serve you in the sacrifice
+- आ भर (*ā bhara*)—bring (those cattle)
+- प्रमगंदस्य (*pramagaṃdasya*)—of the line of Pramagaṇḍa, of ill family
+- वेदः (*vedaḥ*)—the wealth (bring to us)
+- मघवन् (*maghavan*)—O wealthy Indra
+- नैचाशाखं (*naicāśākhaṃ*)—the wealth of those born in low lineage
+- नः (*naḥ*)—to us
+- रंधय (*raṃdhaya*)—accomplish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of wealth, the cattle in the community of the unbelieving Kīkaṭas are not useful for your sacrifice; their milk is not used for mixing with Soma, and their milk does not make the Mahāvīra vessel of the Pravargya glow. Therefore bring those cattle to us, who serve you in sacrificing. Accomplish for us also the wealth of the line of the ill-born Pramagaṇḍa and of the other low branches.
+
+### Printed p. 208
+
+##### English translation (H. H. Wilson)
+What do the cattle for you among the Kikasas ; they yield no milk to mix with the Soma, they need not the vessel (for the libation) : bring them to us : (bring also) the wealth of the son of the usurer, and give us, Maghavan, (the possessions) of the low branches (of the community).
+
+##### विशेषविषयगळु (Special Topics)
+
+कीकटेषु गावः ते किं कृण्वंति (*kīkaṭeṣu gāvaḥ te kiṃ kṛṇvaṃti*)—O Indra, the cattle among wicked people, non-Āryas and unbelievers, do no useful work for you; since wicked non-Āryas do not perform sacrifices and the like for Indra, the cattle among them and their milk are wasted, not used for sacrifices. So how could those cattle be of use to you, Indra? They are not, is the sense.
+
+कीकटेषु (*kīkaṭeṣu*)—आनार्यनिवासेषु जनपदेषु । यद्वा । क्रियाभिर्यागदानहोमलक्षणाभिः किंफलिष्यतीत्यश्रद्दधानाः प्रत्युत पिबत खादतायमेव लोको न पर इति वदंतो नास्तिकाः कीकटाः तेषु। (*ānāryanivāseṣu janapadeṣu | yadvā | kriyābhiryāgadānahomalakṣaṇābhiḥ kiṃphaliṣyatītyaśraddadhānāḥ pratyuta pibata khādatāyameva loko na para iti vadaṃto nāstikāḥ kīkaṭāḥ teṣu|*) Kīkaṭas are the uncivilized earlier inhabitants of this country, not of the Ārya lineage, who do not perform sacrifices like Āryas, do not worship Indra and the other gods, and trouble the Āryas and their sacrifices. Or, though born in the Ārya line, they perform no good deeds such as sacrifice, gift and homa, and without faith in them say "what use are they? there is no world but this; no heaven, hell, sin or merit; all that is imagination; so eat and drink what you want to be happy": such wicked unbelievers. Thus the meaning has been explained.
+
+आशिरं न दुह्रे न तपंति घर्मं (*āśiraṃ na duhre na tapaṃti gharmaṃ*)—सोममिश्रणयोग्यं पयः न दुहंति । किंच प्रवर्ग्यकर्मोपयुक्तं महावीरपात्रं स्वपयःप्रदानद्वारेण न दीपयंति । एतेन सांनाय्यार्थमपि नोपयुज्यंत इत्यपि सूचितं भवति । (*somamiśraṇayogyaṃ payaḥ na duhaṃti | kiṃca pravargyakarmopayuktaṃ mahāvīrapātraṃ svapayaḥpradānadvāreṇa na dīpayaṃti | etena sāṃnāyyārthamapi nopayujyaṃta ityapi sūcitaṃ bhavati |*) The milk that cattle among non-Āryas yield serves no good rite; they do not give milk for mixing with the Soma juice, that is, their milk is not useful for Soma mixed with the milk called gavāśira. Moreover, their milk cannot be used for the milk placed in the Mahāvīra vessel in the Pravargya sacrifice, nor for the Sāṃnāyya.
+
+### Printed p. 209
+नः आ भर (*naḥ ā bhara*)—Therefore Indra is prayed: bring to us the cattle that are among those wicked people.
+
+प्रमगंदस्य वेदः (*pramagaṃdasya vedaḥ*)—द्वैगुण्यादिलक्षणपरिमाणं गतोऽर्थो मामेव गमिष्यतीति बुद्धा परेषां ददातीति मगंदो वार्धुषिकः। तस्यापत्यं पुत्रादिः प्रमगंदः । प्रस्कण्वादिवदपत्यार्थः प्रशब्देन द्योत्यते । तस्यात्यंतकुसीदकुलस्य वेदः धनमाहर । (*dvaiguṇyādilakṣaṇaparimāṇaṃ gato 'rtho māmeva gamiṣyatīti buddhā pareṣāṃ dadātīti magaṃdo vārdhuṣikaḥ| tasyāpatyaṃ putrādiḥ pramagaṃdaḥ | praskaṇvādivadapatyārthaḥ praśabdena dyotyate | tasyātyaṃtakusīdakulasya vedaḥ dhanamāhara |*) One who lends money to others with the evil thought that, lent to someone, it will come back with interest at double the sum, is called मगंद (*magaṃda*). His son is प्रमगंद (*pramagaṃda*). As the son of the sage Kaṇva is called Praskaṇva, the prefix प्र (*pra*) indicates the sense of son (apatya); so when the prefix प्र (*pra*) is joined to मगंद (*magaṃda*), Pramagaṇḍa means the son of Magaṇḍa. Indra is prayed to bring to us the unjustly acquired wealth of such a Pramagaṇḍa.
+
+नैचाशाखं (*naicāśākhaṃ*)—नीचासु शूद्रयोनिषु उत्पादिता शाखा पुत्रपौत्रादिपरंपरा येन स नीचाशाखः । पतितस्य संबंधि धनं नैचशाखं । तद्धनं नः साधय । एतेषां तद्धनं तव नोपयुज्यते अस्मादायत्तं तु तद्धनं यागादिद्वारा तवोपयुज्यते । तस्मात्तदस्मभ्यं प्रयच्छेति भावः । (*nīcāsu śūdrayoniṣu utpāditā śākhā putrapautrādiparaṃparā yena sa nīcāśākhaḥ | patitasya saṃbaṃdhi dhanaṃ naicaśākhaṃ | taddhanaṃ naḥ sādhaya | eteṣāṃ taddhanaṃ tava nopayujyate asmādāyattaṃ tu taddhanaṃ yāgādidvārā tavopayujyate | tasmāttadasmabhyaṃ prayaccheti bhāvaḥ |*) The line of sons, grandsons and so on begotten by a Brāhmaṇa or others in low śūdra women is called "low branch". Since they are unfit for upanayana, Vedic study, sacrifice, gifts and other good rites and do not perform them, they are called fallen. Indra is prayed to bring to us also the wealth of such low-branch people, the fallen. For the non-Āryas, Pramagaṇḍas and fallen low-branch people mentioned before do not sacrifice or worship Indra and the other gods, so their cattle and wealth are not offered to Indra and are wasted; but if Indra brings that wealth to us, we shall use the milk of those cattle and their wealth for performing sacrifices and worshipping Indra, so the wealth will become as if useful to Indra. Hence the prayer "bring them to us" is uttered.
+
+Yāska has given this explanation of the Mantra:
+किं ते कृण्वंति कीकटेषु गावो नाशिरं दुह्रे न तपंति घर्म० ॥ (*kiṃ te kṛṇvaṃti kīkaṭeṣu gāvo nāśiraṃ duhre na tapaṃti gharma0 ‖*)
+आ नो भर प्रमगंदस्य वेदो नैचाशाखं मघवन्बंधया नः ॥ (*ā no bhara pramagaṃdasya vedo naicāśākhaṃ maghavanbaṃdhayā naḥ ‖*)
+
+### Printed p. 210
+Its explanation is:
+किं ते कुर्वंति कीकटेषु गावः । कीकटा नाम देशोऽनार्यनिवासः । कीकटाः किंकृताः किं क्रियाभिरिति प्रेप्सा वा । नैव चाशिरं दुह्रे न तपंति घर्म० हर्म्यमा हर नः प्रमगंदस्य धनानि । मगंदः कुसीदी । मांगदो मामागमिष्यतीति च ददाति तदपत्यं प्रमगंदोऽत्यंतकुसीदिकुलीनः । प्रमदको वा योऽयमेवास्ति लोको न पर इति प्रेप्सुः । पंडको वा । पंडकः पंडगः प्रार्दको वा प्रार्दयत्यांडावांडावाणी इव व्रीडयति तस्तंभे । नैचाशाखं नीचाशाखो नीचैः शाखः । शाखाः शक्कोतेः । आणिररणात् । तन्नो मघवन्रंधयेति रध्यतिर्वशगमने ॥ (*kiṃ te kurvaṃti kīkaṭeṣu gāvaḥ | kīkaṭā nāma deśo 'nāryanivāsaḥ | kīkaṭāḥ kiṃkṛtāḥ kiṃ kriyābhiriti prepsā vā | naiva cāśiraṃ duhre na tapaṃti gharma0 harmyamā hara naḥ pramagaṃdasya dhanāni | magaṃdaḥ kusīdī | māṃgado māmāgamiṣyatīti ca dadāti tadapatyaṃ pramagaṃdo 'tyaṃtakusīdikulīnaḥ | pramadako vā yo 'yamevāsti loko na para iti prepsuḥ | paṃḍako vā | paṃḍakaḥ paṃḍagaḥ prārdako vā prārdayatyāṃḍāvāṃḍāvāṇī iva vrīḍayati tastaṃbhe | naicāśākhaṃ nīcāśākho nīcaiḥ śākhaḥ | śākhāḥ śakkoteḥ | āṇiraraṇāt | tanno maghavanraṃdhayeti radhyatirvaśagamane ‖*) (Ni. 6-32)
+
+That is: the word Kīkaṭa is the name of the country where the non-Ārya earlier inhabitants of this land live. How did these non-Ārya dwellers get the name? "Or किं कृताः (*kiṃ kṛtāḥ*), किं क्रियाभिरिति प्रेप्सा वा (*kiṃ kriyābhiriti prepsā vā*)": unbelievers who, neglecting good rites, speak with contempt, "what use are sacrifices and rites?", got the name Kiṅkṛtāḥ, or Kīkaṭāḥ. The milk of cattle among them is not rightly used, because, since they do not sacrifice, their cattle's milk is not of use for sacrifices; it is of no use as the āśira substance to be added to Soma juice; nor are the products made by heating the milk, curd, ghee and the like, fit for sacrifice. Therefore bring to us the cattle among these uncivilized people. If we get those cattle, we shall sacrifice and offer their milk, curd, ghee and so on to Indra and the other gods. Therefore Indra is prayed to give us their cattle and wealth. Further, मगंदः (*magaṃdaḥ*) means कुसीदी (*kusīdī*), a merchant whose occupation is lending goods to others and after some time taking back the money with its interest. As the prefix प्र (*pra*) is joined to मगंद (*magaṃda*), प्रमगंद (*pramagaṃda*) means a Magaṇḍa or one of the usurer family; or the prefix प्र (*pra*) in the sense of excess means one born in an exceedingly bad family. Since he gains money unjustly by taking interest at one-for-two, bring us his wealth also. Or प्रमगंद (*pramagaṃda*) may mean प्रमदक (*pramadaka*): one who says, "there is only this visible world, no heaven or other worlds; so merit and sin mean nothing; to be happy now is all; why suffer? it is good to eat, drink and live at ease; hard sacrifices are of no use" (continuing).
+
+### Printed p. 211
+—such an unbeliever. Or प्रमगंद (*pramagaṃda*) may mean पंडकः (*paṃḍakaḥ*), पंडगः (*paṃḍagaḥ*) or प्रार्दक (*prārdaka*). पंडक (*paṃḍaka*) or पंडग (*paṃḍaga*) is a eunuch, one who is helpless like women. प्रार्दक (*prārdaka*) is one who behaves like women in dealings and the like, effeminate, shameless. Indra is prayed to bring the wealth of such persons also to us. And those born of upper-class parents among śūdra and other low castes are called low-branch people; since they are fallen and excluded from sacrifices and rites, their wealth is of no use for good rites. Therefore नैचाशाखं धनं (*naicāśākhaṃ dhanaṃ*): prayer is made that the wealth among such low-class people be brought to us. Here, since the root रध्यति (*radhyati*) has the sense "bring into one's power", the words मघवन् रंधय (*maghavan raṃdhaya*) in this Ṛk mean: O Indra, make (the wealth of the people mentioned above) come into our power.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒स॒र्प॒रीरम॑तिं॒ बाध॑माना बृ॒हन्मि॑माय ज॒मद॑ग्निदत्ता ।  
+> आ सूर्य॑स्य दुहि॒ता त॑तान॒ श्रवो॑ दे॒वेष्व॒मृत॑मजु॒र्य० ॥
+
+> *sasarparīramatiṃ bādhamānā bṛhanmimāya jamadagnidattā |*  
+> *ā sūryasya duhitā tatāna śravo deveṣvamṛtamajurya0 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ससर्परीः । अमतिं । बाधमाना । बृहत् । मिमाय । जमदग्निदत्ता ।  
+> आ । सूर्यस्य । दुहिता । ततान । श्रवः । देवेषु । अमृतं । अजुर्यं ॥ १५ ॥
+
+> *sasarparīḥ | amatiṃ | bādhamānā | bṛhat | mimāya | jamadagnidattā |*  
+> *ā | sūryasya | duhitā | tatāna | śravaḥ | deveṣu | amṛtaṃ | ajuryaṃ ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ससर्परीद्वृचे प्राहुरितिहासं पुराविदः । सौदासनृपयज्ञे वै वसिष्ठात्मजशक्तिना । विश्वामित्रस्याभिभूतं बलं वाक् च समंततः । वासिष्ठेनाभिभूतः स ह्यवासीदथ गाधिजः । तस्मै ब्राह्मीं तु सौरीं ना नाम्ना वाचं ससर्परीं । सूर्यवेश्मन
+> आहृत्य ददुर्वै जमदग्नयः । कुशिकानां मतिः सा वागमतिं तामपानुदत् ॥
+> जमदग्निदत्ता जमदग्निभिः प्रज्वलिताग्निभिर्यषिभिरस्मभ्यं दत्तामतिमज्ञानं
+> बाधमाना ससर्परीः सर्वत्र शब्दरूपतया सर्पणशीला वाक् बृहत्प्रभूतं यथा
+> भवति तथा मिमाय । नभसि शब्दं करोति । सैषा सूर्यस्य दुहिता वाग्देवता देवेष्ट्विंद्रादिष्वजुर्यं क्षयरहितममृतममृतलक्षणं श्रवोऽन्नमा ततान । समंतात्स्वाहाकारवाचं तनोति ॥ जमदग्निदत्ता! दाण् दान इत्यस्यनिष्ठायां दो दद्वो-
+
+##### Gist of the bhāṣya
+
+Those versed in ancient lore tell the story relating to ससर्परी (*sasarparī*) in this Ṛk: at the sacrifice of King Sudāsa, Śakti, son of Vasiṣṭha, overcame the strength and speech of Viśvāmitra on every side; overcome by the Vāsiṣṭha, the son of Gādhi sank down. The Jamadagnis brought for him from the house of the Sun the Brahma-speech called Sasarpari, of solar nature, and gave it. That was the understanding of the Kuśikas, the speech, and it drove off their lack of understanding. जमदग्निदत्ता (*jamadagnidattā*): given to us by the Jamadagnis, the sages with blazing fires; अमतिं (*amatiṃ*) is ignorance; warding it off, ससर्परीः (*sasarparīḥ*), speech, whose nature is to move everywhere in the form of sound, मिमाय (*mimāya*) makes sound in the sky abundantly. This same daughter of the Sun, the goddess Speech, spreads among the gods, Indra and others, अजुर्यं (*ajuryaṃ*) imperishable, अमृतं (*amṛtaṃ*) of the nature of immortality, श्रवः (*śravaḥ*) food, in the form of the utterance of svāhā on all sides. The text continues with grammar on जमदग्निदत्ता (*jamadagnidattā*) (broken off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 205. pp. 199-205 (batch API)
+**Progress note:** Done through printed p. 211. pp. 206-211 (batch API, retry 1)
