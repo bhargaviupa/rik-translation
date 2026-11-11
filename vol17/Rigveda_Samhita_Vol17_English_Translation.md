@@ -7905,6 +7905,161 @@ That is: the word Kīkaṭa is the name of the country where the non-Ārya earli
 
 Those versed in ancient lore tell the story relating to ससर्परी (*sasarparī*) in this Ṛk: at the sacrifice of King Sudāsa, Śakti, son of Vasiṣṭha, overcame the strength and speech of Viśvāmitra on every side; overcome by the Vāsiṣṭha, the son of Gādhi sank down. The Jamadagnis brought for him from the house of the Sun the Brahma-speech called Sasarpari, of solar nature, and gave it. That was the understanding of the Kuśikas, the speech, and it drove off their lack of understanding. जमदग्निदत्ता (*jamadagnidattā*): given to us by the Jamadagnis, the sages with blazing fires; अमतिं (*amatiṃ*) is ignorance; warding it off, ससर्परीः (*sasarparīḥ*), speech, whose nature is to move everywhere in the form of sound, मिमाय (*mimāya*) makes sound in the sky abundantly. This same daughter of the Sun, the goddess Speech, spreads among the gods, Indra and others, अजुर्यं (*ajuryaṃ*) imperishable, अमृतं (*amṛtaṃ*) of the nature of immortality, श्रवः (*śravaḥ*) food, in the form of the utterance of svāhā on all sides. The text continues with grammar on जमदग्निदत्ता (*jamadagnidattā*) (broken off at the end of the window).
 
+### Printed p. 212
+
+> रिति ददादेशः । तृतीया कर्मणीति पूर्वसदप्रकृतिस्वरः । अजुर्युं । ज्ञ वयोहानौ । ऋहलोर्ण्यत् । बहुलं छंदसीत्युत्वं । नञ्सुभ्यामित्यंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+This block holds only the grammatical tail of Sāyaṇa's comment on the preceding Ṛk (the forms जमदग्निदत्ता (*jamadagnidattā*) and अजुर्युं (*ajuryuṃ*): the substitution दद (*dada*) for the root, the accent of the compound, and the accent of अजुर्युं (*ajuryuṃ*)). It contains no statement of meaning; the Grammar remarks are left out of the Gist.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जमदग्नि दत्ता (*jamadagni dattā*)—she who was given by the sages Jamadagni
+- अमतिं (*amatiṃ*)—ignorance
+- बाधमाना (*bādhamānā*)—she who destroys
+- ससर्परीः (*sasarparīḥ*)—she who pervades everywhere in the form of sound
+- बृहत् (*bṛhat*)—abundantly
+- मिमाय (*mimāya*)—she who makes sound (in the atmosphere)
+- सूरस्य दुहिता (*sūrasya duhitā*)—the daughter of Sūrya, the goddess of speech
+- देवेषु (*deveṣu*)—among the gods, Indra and the others
+- अजुर्यं (*ajuryaṃ*)—that which is without decay
+- अमृतं (*amṛtaṃ*)—that which is eternal
+- श्रवः (*śravaḥ*)—food
+- आ ततान (*ā tatāna*)—spread out widely
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess of speech, who was given by the sage Jamadagni, who destroys ignorance, who pervades everywhere in the form of sound, who sounds abundantly in the atmosphere, and who is the daughter of Sūrya, has spread widely among the gods, Indra and the others, food that is without decay and eternal.
+
+##### English translation (H. H. Wilson)
+The daughter of Surya given by Jamadagni gliding everywhere and dissipating ignorance, has emitted a mighty (sound), and has diffused ambrosial imperishable food amongst the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning this Ṛk and the next, ससर्परी (*sasarparī*), the ancients tell a story:
+
+ससर्परीद्वचे प्राहुरितिहासं पुराविदः । सौदासनृपयज्ञे वै वसिष्ठात्मजशक्तिना ॥ विश्वामित्रस्याभिभूतं बलं वाक्च समंततः । वासिष्ठेनाभिभूतः स ह्यवासीदथ गाधिजः । तस्मै ब्राह्मीं तु सौरीं ना नाम्मा वाचं ससर्परीं । सूर्यवेश्मन आहृत्य ददुर्वै जमदग्नयः । कुशिकानां मतिः सा वागमतिं तामपानुदत् ॥ (*sasarparīdvace prāhuritihāsaṃ purāvidaḥ | saudāsanṛpayajñe vai vasiṣṭhātmajaśaktinā ‖ viśvāmitrasyābhibhūtaṃ balaṃ vākca samaṃtataḥ | vāsiṣṭhenābhibhūtaḥ sa hyavāsīdatha gādhijaḥ | tasmai brāhmīṃ tu saurīṃ nā nāmmā vācaṃ sasarparīṃ | sūryaveśmana āhṛtya dadurvai jamadagnayaḥ | kuśikānāṃ matiḥ sā vāgamatiṃ tāmapānudat ‖*)
+
+The ancients tell a story concerning these Ṛks. In former times, when the sage Viśvāmitra was conducting the sacrifice of a king named Sudāsa, Śakti, a son of Vasiṣṭha,
+
+### Printed p. 213
+paralysed Viśvāmitra's strength and his power of speech. Because of this Viśvāmitra, the son of Gādhi, became devoid of strength and enveloped in ignorance, and had to remain silent, unable to utter mantras and the like. Then the aged sages called Jamadagnis brought from the abode of the Sun (from the orb of the Sun) the speech-power (vāk), endowed with the radiance of Brahman and known as the daughter of the Sun, and gave it to the sage Viśvāmitra. Through it Viśvāmitra and his kinsmen the Kuśikas were freed from the ignorance that had enveloped them and regained good understanding, knowledge, and the power of speech, or of reciting mantras. This is the matter described in this Ṛk and in the next.
+
+जमदग्नि दत्ता (*jamadagni dattā*)—जमदग्निभिः प्रज्वलिताग्निभिर्यषिभिः (*jamadagnibhiḥ prajvalitāgnibhiryaṣibhiḥ*). The Bhāṣyakāra explains the word Jamadagni as sages who take care that the fire in the sacrifice does not go out but always burns well.
+
+For the word Jamadagni, Yāska says जमदग्नयः प्रजमिताग्नयो वा प्रज्वलिताग्नयो वा तैरभिहुतो भवति (*jamadagnayaḥ prajamitāgnayo vā prajvalitāgnayo vā tairabhihuto bhavati*) (Ni. 7-24). That is, he gives the etymology that the word means those who have abundant fire, or those who kindle fires and make them burn well, or those who pray to Agni, "Blaze well in this sacrificial rite."
+
+सूर्यस्य दुहिता (*sūryasya duhitā*)—वाग्देवता (*vāgdevatā*). The Bhāṣyakāra explains it as the goddess of speech, the daughter of Sūrya.
+
+The chief sense of ससर्परीः अमतिं बाधमाना जमदग्नि दत्ता सूर्यस्य दुहिता बृहत् मिमाय देवेषु अजुर्यं अमृतं आ ततान (*sasarparīḥ amatiṃ bādhamānā jamadagni dattā sūryasya duhitā bṛhat mimāya deveṣu ajuryaṃ amṛtaṃ ā tatāna*) is this: the goddess of speech, the daughter of Sūrya, all-pervading, brought by the sage Jamadagnis, removed the ignorance of Viśvāmitra and the others and sounded in the atmosphere; that is, she uttered speech in the form of the svāhā-call, and she also brought and provided for Viśvāmitra and the others the undecaying, ambrosial food that was with Indra and the other gods.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒स॒र्प॒रीर॑भर॒त्तूय॑मे॒भ्यो 5 धि॒ श्रवः॒ पांच॑जन्यासु कृ॒ष्टिषु॑।  
+> सा प॒क्ष्या॒३॒॑ति नव्य॒मायु॒र्दधा॑ना॒ यां मे॑ पलस्ति जमद॒ग्नयो॑  ॒
+> ददुः ॥ १६ ॥
+
+> *sasarparīrabharattūyamebhyo 5 dhi śravaḥ pāṃcajanyāsu kṛṣṭiṣu|*  
+> *sā pakṣyāti navyamāyurdadhānā yāṃ me palasti jamadagnayo*  
+> *daduḥ ‖ 16 ‖*
+
+### Printed p. 214
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स सर्परीः । अभरत् । तूयं । विभ्यः । अधि । श्रवः । पांचजन्यासु । कृष्णिषु ।  
+> सा । पक्ष्या । नव्यं । आयुः । दधाना । यां । मे! पलस्तिजमदग्नयः । ददुः ॥ १६ ॥
+
+> *sa sarparīḥ | abharat | tūyaṃ | vibhyaḥ | adhi | śravaḥ | pāṃcajanyāsu | kṛṣṇiṣu |*  
+> *sā | pakṣyā | navyaṃ | āyuḥ | dadhānā | yāṃ | me! palastijamadagnayaḥ | daduḥ ‖ 16 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ससर्परीः सर्वत्र गद्यपद्यात्मकत्वेन सर्पणशीला वाग्गेवता पांचजन्यासु
+> कृष्टषु। निषादपंचमाश्चत्वारो वर्णा: पंचजनाः। तत्संबंधिनीषु प्रजासु यच्छवोऽन्नं विद्यते तन्नोऽस्मभ्यमधि अधिकं यथा भवति तथा तूयं क्षिप्रमभरत्।भरतु।
+> संपादयतु। पलस्तिजमदग्नयः पलस्तयः पलिता दीर्घायुषो जमदग्नयो मुनयो यां वाचं सूर्यादाहृत्य मे मह्यं ददुरदधुः पक्ष्या पक्षस्यपक्षादिनिर्वाहकस्य सूर्यस्य दुहिता सा वाक् नव्यं नवतरमायुरन्नं जीवनं वा दधाना मम
+> कुर्वाणा भवतु ॥ पांचजन्यासु । बहिर्देवपंचजनेभ्यश्चति वक्तव्यमिति इाप्रत्ययः।
+> इत्त्वादाद्युदात्तः । पक्ष्या । पक्षे भवा । दिगादित्वाद्यत् । तित्स्वरितः । नव्यं । नवशब्दाद्वस्वादित्वात्स्वार्थिको यत् । पलस्तिजमदग्नयः पलस्तयो जमदग्नयः ।
+> कर्मधारय समासः । समासस्वरः ॥
+
+##### Gist of the bhāṣya
+
+ससर्परीः (*sasarparīḥ*) is the goddess of speech, who moves everywhere in the form of prose and verse. पांचजन्यासु कृष्टिषु (*pāṃcajanyāsu kṛṣṭiṣu*): the "five peoples" are the four classes (varṇas) with the Niṣāda as the fifth; among the subjects belonging to them, whatever food there is, let her quickly bring that to us, in greater measure (अधि (*adhi*)). पलस्तिजमदग्नयः (*palastijamadagnayaḥ*) are the grey-haired, long-lived sages Jamadagnis, who fetched the Speech from the Sun and gave her to me. पक्ष्या (*pakṣyā*) is the daughter of Sūrya, who manages the fortnight (pakṣa) and the like; may that Speech, bestowing on me newer life, or food, or livelihood (नव्यं आयुः (*navyaṃ āyuḥ*)), be mine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ससर्परीः (*sasarparīḥ*)—the goddess of speech, who spreads everywhere in forms of prose and verse
+- पांचजन्यासु (*pāṃcajanyāsu*)—fivefold
+- कृष्टिषु (*kṛṣṭiṣu*)—to the people
+- श्रवः (*śravaḥ*)—food
+- अधि (*adhi*)—abundantly
+- तूयं (*tūyaṃ*)—quickly
+- अभरत् (*abharat*)—may she procure and give
+- पलस्तिजमदग्नयः (*palastijamadagnayaḥ*)—the aged Jamadagnis
+- यां (*yāṃ*)—which goddess of speech
+- मे (*me*)—to me
+- ददुः (*daduḥ*)—offered
+- पक्ष्या सा (*pakṣyā sā*)—that goddess of speech, the daughter of the Sun
+- नव्यं (*navyaṃ*)—newer
+- आयुः (*āyuḥ*)—food, or life
+- दधाना (*dadhānā*)—may she go on giving
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess of speech, who spreads everywhere in forms of prose and verse, procure food abundantly and quickly for the fivefold peoples. May that goddess of speech, the daughter of the Sun, whom the aged Jamadagnis offered to me, go on giving newer life.
+
+### Printed p. 215
+
+##### English translation (H. H. Wilson)
+May she, gilding everywhere, quickly bring us food (suited) to the five races of men: may she, the daughter of the sun whom the grey-haired Jamadagnis gave to me, (be) the bestower of new life. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Viśvāmitra expresses his gratitude for the food and the rest which the goddess of speech had granted in the previous Ṛk, and prays to the goddess of speech.
+
+पंचजन्यासु कृष्टिषु (*paṃcajanyāsu kṛṣṭiṣu*): The word कृष्टयः (*kṛṣṭayaḥ*) is read among the twenty-five words denoting men, such as मनुष्याः (*manuṣyāḥ*) and नराः (*narāḥ*) (Ni. 3-7). पंच कृष्टीनां (*paṃca kṛṣṭīnāṃ*) means पंच जनानां (*paṃca janānāṃ*). The Bhāṣyakāra explains this as निषादपंचमानां (*niṣādapaṃcamānāṃ*); Skandasvāmin as क्षितीनां मनुष्यजातीनां गंधर्वाः पितरो देवा इत्येतासां (*kṣitīnāṃ manuṣyajātīnāṃ gaṃdharvāḥ pitaro devā ityetāsāṃ*); and Veṅkaṭamādhava as मनुष्याणां पंचानां क्षितीनां निवसतां गंधर्वाः पितरो देवा असुरा रक्षांसीति पंचत्वं (*manuṣyāṇāṃ paṃcānāṃ kṣitīnāṃ nivasatāṃ gaṃdharvāḥ pitaro devā asurā rakṣāṃsīti paṃcatvaṃ*). According to Sāyaṇa's view, क्षितीनां (*kṣitīnāṃ*) means the people of five classes fit to dwell on the earth: Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and Niṣāda. Niṣādas are people who do not belong to the four classes beginning with the Brāhmaṇa and who live only by hunting animals. The Goṇḍas, Kolas, Bhillas and others, the earlier inhabitants of this country, belong to this class. They still live, in very small numbers, only in a few places such as the Central Provinces. The words पंच जनाः (*paṃca janāḥ*) and पंचकृष्टीः (*paṃcakṛṣṭīḥ*) occur in many places in the Ṛgveda— **NOTE**
+
+That is, some say that the five peoples are five kinds of beings: Gandharvas, Pitṛs, gods, Asuras and Rākṣasas. The opinion of Upamanyu and others is that the five are the four classes beginning with the Brāhmaṇa together with the hunter class called Niṣāda (Sāyaṇa has approved this). The Nairuktas say that Niṣādas are those who kill animals, or that they are so called because sin is full in them. Besides, there may have been five principal tribes at that time; the poet may have had this in mind and said पंच क्षितीनां (*paṃca kṣitīnāṃ*). In any case it is clear that even in the time of Yāska, the author of the Nirukta, there was a difference of opinion on this matter.
+
+1. [Yāska explains the five peoples:] देवा मनुष्याः पितरः पशवः पक्षिणश्चति पंच जनाः (*devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaścati paṃca janāḥ*): the five kinds are the gods, men, Pitṛs, animals and birds; and, secondly,
+
+### Printed p. 216
+2. चत्वारो वर्णाः निषादपंचमाः पंच जना इत्यन्ये (*catvāro varṇāḥ niṣādapaṃcamāḥ paṃca janā ityanye*): the people of the four classes together with the Niṣādas, as another explanation. For both these meanings the authority of Vedic texts can be shown. One may first examine the etymology of the word क्षिति (*kṣiti*), and afterwards consider what meaning of पंचक्षिति (*paṃcakṣiti*) can be given in the present context.
+
+क्षितीनां (*kṣitīnāṃ*): Sāyaṇa explains: क्षियंति निवसंति गच्छंति वा क्षितयो मनुष्याः (*kṣiyaṃti nivasaṃti gacchaṃti vā kṣitayo manuṣyāḥ*)—they dwell or they move about; therefore this epithet belongs to men. The author of the Nirukta has read the word क्षिति (*kṣiti*) among the twenty-five names of man beginning with नरः (*naraḥ*) (Ni. 3-7).
+
+अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतुवा । स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणंतं । (*agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtuvā | sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇaṃtaṃ |*) (Ṛ. Saṃ. 3-28-4). In such Ṛks, when the difference between men and the subjects belonging to the gods is shown, the word क्षिति (*kṣiti*) indicates men, the subjects of the earth. But in the present Ṛk it cannot be said precisely that earthly men alone are meant, because Indra's wealth pervades the whole of earth and atmosphere.
+
+न यस्य देवा देवता न मर्ता आपश्चन शवसो अंशमापुः । स प्ररिक्वा त्वक्षसा क्ष्मो दिवश्च मरुत्वान्नो भवत्स्वंद्र ऊती । (*na yasya devā devatā na martā āpaścana śavaso aṃśamāpuḥ | sa prarikvā tvakṣasā kṣmo divaśca marutvānno bhavatsvaṃdra ūtī |*) (Ṛ. Saṃ. 1-100-15). In such Ṛks it is described that the power of Indra, who is divine in nature and endowed with the quality of giving and the like, surpasses the power of all others in the world, that neither gods nor men could reach its end, and that Indra with his enemy-destroying and majestic power makes earth and heaven shine together. Since in the present Ṛk also Indra's wealth is described as all-pervading, it cannot be said that पंचजन्यासु (*paṃcajanyāsu*) means merely the group of four classes together with the Niṣāda as fifth. In this matter the author of the Nirukta does not state his own view but reports only the opinions of others.
+
+पंचजना (*paṃcajanā*) “मम होत्रं जुषध्वं (*mama hotraṃ juṣadhvaṃ*)” गंधर्वाः पितरो देवा आसुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । (*gaṃdharvāḥ pitaro devā āsurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ |*) (Ni. 3-8). He has reported only the opinions of others: that some hold the five-fold groups to be Gandharvas, Pitṛs, gods, Asuras and Rākṣasas, and that Upamanyu and others hold that the five peoples are the four classes beginning with the Brāhmaṇa together with the fifth group called Niṣādas.
+
+### Printed p. 217
+Formerly, when all the gods prayed to Agni to accept the oblation offered in the sacrifice for them and to distribute it to all, Agni agreed, saying:
+
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं । (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ |*) (Ṛ. Saṃ. 10-53-4).
+
+The author of the Bṛhaddevatā quotes this sentence, which gives the answer "Let the five peoples together enjoy this oblation," and shows and discusses the differences of opinion about the "five peoples."
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*) (Bṛ. De. 7-66).
+
+In this verse he states the answer Agni gave to the gods, and then explains the word पंचजन (*paṃcajana*).
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Bṛ. De. 7-67).
+
+That is, the fire at the entrance of the hall, the consecrated Āhavanīya fire, the Gārhapatya fire, which is the son of the sacrificer, and the southern and northern fires: these five kinds of fires are traditionally reckoned as the five classes. Besides this view,
+
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः गंधर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ gaṃdharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68).
+
+According to the first opinion the serpents and Rākṣasas form one group; according to the second, the Yakṣas and Rākṣasas form one group.
+
+यास्कौपमन्यवावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णान् मन्यते शाकटायनः ॥ (*yāskaupamanyavāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇān manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69).
+
+In this verse the author of the Bṛhaddevatā says that Yāska's view is the first. But in the Nirukta only the views of others are stated; Yāska has not given his own view precisely. Probably he may have accepted that one.
+
 ---
 
-**Progress note:** Done through printed p. 211. pp. 206-211 (batch API, retry 1)
+**Progress note:** Done through printed p. 217. pp. 212-217 (batch API, retry 1)
