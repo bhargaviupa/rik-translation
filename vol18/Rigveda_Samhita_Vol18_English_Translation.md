@@ -7915,6 +7915,304 @@ Concerning Indra's protection of the seer Etaśa:
 प्रैतशं सूर्ये हस्पृधानं सौवश्ये सुष्टिमावदिंद्रः । (*praitaśaṃ sūrye haspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ |*) (Ṛ. Saṃ. 1-61-15)
 In this Ṛk: formerly a king named Svaśva, desiring a son, performed austerities addressed to the sun. Pleased with his austerity, the sun himself was born as that king's son. A terrible battle took place between him and the great seer Etaśa. When Etaśa was about to be defeated in that battle, he offered Indra soma juice
 
+### Printed p. 223
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमादु॒तासि॑ वृत्रह॒न्मघ॑वन्मन्न्यु॒मत्त॑मः ।  
+> अत्राह॒ दानु॒माति॑रः ॥ ७ ॥
+
+> *kimādutāsi vṛtrahanmaghavanmannyumattamaḥ |*  
+> *atrāha dānumātiraḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । आत् । उत । असि । वृत्रहन् । मघवन् । मन्युमत्कतमः ।  
+> अत्र । अह । दानुं । आ । अतिरः ॥ ७ ॥
+
+> *kiṃ | āt | uta | asi | vṛtrahan | maghavan | manyumatkatamaḥ |*  
+> *atra | aha | dānuṃ | ā | atiraḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्वृत्राणामावरकाणां तमसां हंतर्मघवन्थनवन्निंद्र त्वमादनंतरमेव उतापि च । किमितिः प्रश्नॆ । मन्युमत्तमोऽसि । अत्यंतं क्रोधवान् भवसि!
+> अत्रास्मिन्नंतरिक्षेऽहैव दानुं दनोः पुत्रं वृत्रमातिरः । आ समंतादहिंसीः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra as वृत्रहन् (*vṛtrahan*), slayer of the Vṛtras, that is, of the darkness that covers things, and as मघवन् (*maghavan*), the wealthy. "Thereupon, immediately after that, why are you most wrathful? Here, in this very firmament, you have utterly slain Vṛtra, the son of Danu." The word किं (*kiṃ*) is used in the sense of a question; अह (*aha*) is explained as emphatic ("in this very firmament").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- वृत्रहन् (*vṛtrahan*)—O slayer of Vṛtra
+- मघवन् (*maghavan*)—O wealthy one, Indra
+- आत् (*āt*)—immediately thereafter
+- किं (*kiṃ*)—for what purpose
+- मन्युमत्तमः (*manyumattamaḥ*)—exceedingly full of wrath
+- असि (*asi*)—do you become
+- अत्र अह (*atra aha*)—in that very firmament
+- दानुं (*dānuṃ*)—Vṛtra, the son of Danu
+- आ शिरः (*ā śiraḥ*)—you have utterly destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra and wealthy one, for what purpose, and where, do you become exceedingly full of wrath? In that very firmament you have utterly destroyed Vṛtra, the son of Danu.
+
+### Printed p. 224
+
+##### English translation (H. H. Wilson)
+Wherefore, slayer of Vritra, opulent Indra, have you thereupon become most incensed, and, in consequence, have slain the son of Danu (Vritra) in this firmament.
+
+##### विशेषविषयगळु (Special Topics)
+
+Dānu: Danu is an Asura woman. Her son is called Dānu. Here the commentator explains the word as Vṛtra.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तद्भेदु॒त वी॒र्य१॒ं॑मिंद्र॑ च॒कर्थ॒ पौंस्यं॑ ।  
+> स्त्रियं॒ यद्दु॑ र्हणा॒युवं॒ वधी॑र्दुहि॒तरं॑ दि॒वः ॥ ८ ॥
+
+> *etadbheduta vīryaṃmiṃdra cakartha pauṃsyaṃ |*  
+> *striyaṃ yaddu rhaṇāyuvaṃ vadhīrduhitaraṃ divaḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतत् । घ । इत् । उत । वीर्यं । इंद्र । चकर्थ । पौंस्यं ।  
+> स्त्रियं । यत् । दुःहनायुवं । वधीः । दुहितरं । दिवः ॥ ८ ॥
+
+> *etat | gha | it | uta | vīryaṃ | iṃdra | cakartha | pauṃsyaṃ |*  
+> *striyaṃ | yat | duḥhanāyuvaṃ | vadhīḥ | duhitaraṃ | divaḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उतापि च यद्यस्त्वमेतदुपलक्षितं पौंस्यं बलं वीर्यं
+> सामर्थ्योपेतं चकर्थ । कृतवानसि । घेदिति पूरण् । किंच दुर्हणायुवं
+> दुष्टं हननमिच्छंतीं दिवो दुहितरं द्युलोकसकाशादुत्पन्नां स्त्रियमुषसं
+> वधीः । अवधीः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, since you have performed this manly prowess, this power endowed with capacity (*ghet* is a filler word), and moreover you slew the woman Uṣas, born from the world of heaven, the daughter of heaven, who was bent on evil killing."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—you who
+- एतत् (*etat*)—such as is thus indicated
+- पौंस्यं (*pauṃsyaṃ*)—characteristic of a man
+- वीर्यं (*vīryaṃ*)—prowess
+- चकर्थ (*cakartha*)—when you displayed
+- दुर्हणायुवं (*durhaṇāyuvaṃ*)—one who was bent on harming in an evil manner
+- दिवः (*divaḥ*)—of the firmament
+- दुहितरं (*duhitaraṃ*)—daughter
+- स्त्रीयं (*strīyaṃ*)—woman
+- वधीः (*vadhīḥ*)—you have slain
+
+### Printed p. 225
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you displayed the prowess described above, as indicated, characteristic of a man, you slew the woman who was bent on harming in an evil manner, the daughter of the firmament.
+
+##### English translation (H. H. Wilson)
+Inasmvch, Indra, as you have displayed such manly prowess, you have slain the woman, the daughter of the sky, when meditating michicf.
+
+##### विशेषविषयगळु (Special Topics)
+
+Divaḥ duhitaraṃ striyam: here "woman" means Danu, the Asura woman who was the mother of the Asura Vṛtra. Or else the words दिवो दुहितरं (*divo duhitaraṃ*) may mean Uṣas, the daughter of the firmament (heaven). This is supported by what is said in the following ṛks.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वश्चि॑द्वा दुहि॒तरं॑ म॒हान्म॑ही॒यमा॑नां ।  
+> उ॒षास॑मिंद्र॒ सं पि॑णक् ॥ ९ ॥
+
+> *divaścidvā duhitaraṃ mahānmahīyamānāṃ |*  
+> *uṣāsamiṃdra saṃ piṇak ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । चित् । घ । दुहितरं । महान् । महीयमानां ।  
+> उषसं । इंद्र । सं । पिणक् ॥ ९ ॥
+
+> *divaḥ | cit | gha | duhitaraṃ | mahān | mahīyamānāṃ |*  
+> *uṣasaṃ | iṃdra | saṃ | piṇak ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महांस्त्वं दिवो दुहितरं द्युलोकस्य पुत्रीं महीयमानां
+> पूज्यमानामुषसमुषोदेवीं सं पिणक् चिद्भ । संपिष्टवानसि खलु ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you, the great, have crushed together the goddess Uṣas, the daughter of heaven, who is being honoured." चिद् (*cid*) is taken as filler; the verb is संपिष्टवानसि खलु (*saṃpiṣṭavānasi khalu*), "you have indeed crushed".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महान् (*mahān*)—you of great nature
+- दिवः (*divaḥ*)—of the world of heaven
+- दुहितरं (*duhitaraṃ*)—daughter
+- महीयमानां (*mahīyamānāṃ*)—one who has attained honour
+- उषसं (*uṣasaṃ*)—the goddess Uṣas
+- सं पिणक् चित् (*saṃ piṇak cit*)—you have wrung and utterly harmed
+
+### Printed p. 226
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you of great nature have utterly harmed the goddess Uṣas, the daughter of the world of heaven, who has attained honour.
+
+##### English translation (H. H. Wilson)
+You, Indra, who are mighty, have enriched the glorious dawn, the daughter of heaven.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपो॒षा अन॑सः सर॒त्संपि॑ष्टा॒दह॑ बि॒भ्युषी॑ ।  
+> नि यत्सें॑ शि॒श्नथ॒द्वृषा॑ १० ॥
+
+> *apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī |*  
+> *ni yatseṃ śiśnathadvṛṣā 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप । उषाः । अनसः । सरत् । संपिष्टात् । अह । बिभ्युषी ।
+> नि । यत् । सीं । शिश्नथत् । वृषा ॥ १८ ॥
+
+> *apa | uṣāḥ | anasaḥ | sarat | saṃpiṣṭāt | aha | bibhyuṣī |*
+> *ni | yat | sīṃ | śiśnathat | vṛṣā ‖ 18 ‖*
+
+##### Gist of the bhāṣya
+
+"The showerer of desires, Indra, when he smote this cart belonging to Uṣas, then the goddess Uṣas, terrified of Indra, moved away from the cart crushed by Indra." अह (*aha*) is a filler word. अप सरत् (*apa sarat*) is glossed as अपजगाम (*apajagāma*), "went away".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—Indra, the showerer of desires
+- यत् (*yat*)—when
+- सीं (*sīṃ*)—this chariot of Uṣas
+- नि शिश्नथत् (*ni śiśnathat*)—he utterly destroyed
+- उषाः (*uṣāḥ*)—the goddess Uṣas
+- बिभ्युषी (*bibhyuṣī*)—greatly frightened
+- संपिष्वात् (*saṃpiṣvāt*)—crushed by Indra
+- अनसः (*anasaḥ*)—from the cart
+- अप सरत् (*apa sarat*)—went down and away
+
+### Printed p. 227
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Indra, the showerer of desires, utterly destroyed the chariot of Uṣas, the goddess Uṣas, greatly frightened, went down from the cart crushed by Indra.
+
+##### English translation (H. H. Wilson)
+The terrified Ushas descended from the broken waggon when the (showerer of benefits) had smashed it.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk, and in the following and the preceding ones, there is the description that Indra smashed the chariot of the goddess Uṣas to pieces. We have explained this matter earlier.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा कामानां वर्षितेंद्रो यद्यदा सीमेतदुषःसंबंधि शकटं  
+> नि शिश्नथत् । व्यवधीत् । तदोषा उषोदेवता बिभ्युषींद्रसकाशाद्भीता सती  
+> संपिष्टादिंद्रेण संचूर्णितादनसः शकटादप सरत् । आसासरत् । अपजगाम ।  
+> अहेति पूरणः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतदस्या अनः शये सुसंपिष्टं विपाश्या ।  
+> ससार सीं परावतः ॥ ११ ॥
+
+> *etadasyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā |*  
+> *sasāra sīṃ parāvataḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतत् । अस्याः । अनः । शये । सुसंपिष्टं । विपाशि । आ ।
+> ससार । सीं । परावतः ॥ ११ ॥
+
+> *etat | asyāḥ | anaḥ | śaye | susaṃpiṣṭaṃ | vipāśi | ā |*
+> *sasāra | sīṃ | parāvataḥ ‖ 11 ‖*
+
+##### Gist of the bhāṣya
+
+"This cart of Uṣas, well crushed by Indra, lay on the Vipāś, the river called Vipāṭ, on its bank (आ शये (*ā śaye*) is explained as अशेत (*aśeta*), "lay"). This goddess Uṣas, when the cart was broken, went away from a far-off place (अपससार (*apasasāra*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सु संपिष्टं (*su saṃpiṣṭaṃ*)—utterly destroyed
+- अस्याः (*asyāḥ*)—belonging to Uṣas
+- एतत् अनः (*etat anaḥ*)—this cart (chariot)
+- विपाशि (*vipāśi*)—on the bank of the river called Vipāṭ
+- आ तये (*ā taye*)—lay rolled over **NOTE**
+
+### Printed p. 228
+- सीं (*sīṃ*)—immediately (the goddess Uṣas)
+- परावतः (*parāvataḥ*)—from a very distant region (to a very distant region)
+- ससार (*sasāra*)—went away
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the chariot of Uṣas, utterly destroyed by Indra, lay rolled over on the bank of the river Vipāṭ, the goddess Uṣas went away to a very distant region.
+
+##### English translation (H. H. Wilson)
+Then her shattered waggon reposed (on the bank) of the Vipash (river), and she departed from afar.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सुसंपिष्टमिंद्रेण सुष्टु संचूर्णितमस्या उषसः संबंध्येतदनः शकटं  
+> विपाशि । विपाडाख्या नदी । तस्यां तत्तीर आ शये । आ समंताच्छेते । अशेत । सीमियमुषोदेवता शकटे भग्ने सति परावतो दूरदेशात्ससार । अपससार ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत सिंधुं विबाल्यं वितस्थानामधि क्षमि ।  
+> परि ष्ठा इंद्र मायया ॥ १२ ॥
+
+> *uta siṃdhuṃ vibālyaṃ vitasthānāmadhi kṣami |*  
+> *pari ṣṭhā iṃdra māyayā ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत । सिंधुं । विबाल्यं । वितस्थानां । अधि । क्षमि ।
+> परि । स्थाः । इंद्र । मायया ॥ १२ ॥
+
+> *uta | siṃdhuṃ | vibālyaṃ | vitasthānāṃ | adhi | kṣami |*
+> *pari | sthāḥ | iṃdra | māyayā ‖ 12 ‖*
+
+**NOTE**
+
+> हे इंद्र उतापि च विबाल्यं विगतबाल्यावस्थां संपूर्णजलां वितस्थानां
+> वितिष्ठमानां सिंधुं नदीमधि क्षमि क्षमायां मायया प्रज्ञया परि ष्ठाः ।
+> पर्यस्थाः । सर्वतः स्थापनं कृतवानसि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you have also, by your माया (*māyā*), that is, wisdom, set round about on the earth the river Sindhu, which has passed out of its childhood (विबाल्यं (*vibālyaṃ*): it is full of water) and was standing apart (वितस्थानां (*vitasthānāṃ*): वितिष्ठमानां (*vitiṣṭhamānāṃ*)); you have made it established on all sides."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- विजाल्यं (*vijālyaṃ*)—one that has passed beyond the stage of childhood (having a full flow) **NOTE**
+- वितस्थानां (*vitasthānāṃ*)—held back and made to stand (by the Asuras)
+- सिंधुं (*siṃdhuṃ*)—the river Sindhu
+- अधि क्षमि (*adhi kṣami*)—upon the earth
+- मायया (*māyayā*)—by the power of your wisdom
+- परि ष्ठाः (*pari ṣṭhāḥ*)—you have caused it to spread all around and flow
+
 ---
 
-**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
+**Progress note:** Done through printed p. 228. pp. 223-228 (batch API)
