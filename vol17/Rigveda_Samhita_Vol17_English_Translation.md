@@ -11667,6 +11667,178 @@ The word क्षपा (*kṣapā*) is listed among the names of night (Ni. 2-
 - षोळ्हा (*ṣoḷhā*)—the horses in the form of the six seasons
 - पंचपंचयुक्ताः (*paṃcapaṃcayuktāḥ*)—(Hemanta and Śiśira being undivided) five
 
+### Printed p. 312
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आ वहंति (*ā vahaṃti*)—carry Indra
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—great
+- एकं (*ekaṃ*)—unique (one without a second)
+
+##### भावार्थ (Bhāvārtha)
+
+People, we proclaim and praise the fact that Indra, the hero, is endowed with horses. The gods too know that Indra is endowed with horses. The horses, which are of the nature of time as the six seasons, are five in form through the union of the seasons Hemanta and Śiśira, and they carry Indra. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+We proclaim, people, the wealth of the hero, (Indra), in horses ; the gods know his (affluence) ; six, or five and five, harnessed to his car, convey him ; great and unequalled is the might of the gods,
+
+##### विशेषविषयगळु (Special Topics)
+
+षोळ्ता (*ṣoḷtā*)—मासानां द्वंद्वयोगकाले षोढा दृश्यमानाः ऋतवः अश्वाः निरूप्यंते । (*māsānāṃ dvaṃdvayogakāle ṣoḍhā dṛśyamānāḥ ṛtavaḥ aśvāḥ nirūpyaṃte |*) । ते च षट् संख्याकाः (*te ca ṣaṭ saṃkhyākāḥ*) । ऋतवः हेमंतशिशिरयोः समासेन पंचपंच युक्ताः संतः कालात्मकमिंद्रं आवहंति । (*ṛtavaḥ hemaṃtaśiśirayoḥ samāsena paṃcapaṃca yuktāḥ saṃtaḥ kālātmakamiṃdraṃ āvahaṃti |*) । तदिदं इंद्रस्य स्वश्वत्वं यदृतभिरूढत्वं (*tadidaṃ iṃdrasya svaśvatvaṃ yadṛtabhirūḍhatvaṃ*) ।
+It is described that Indra is endowed with excellent horses, and that the gods too know this endowment of Indra with excellent horses: अस्य स्वश्वत्वं देवा आपि जानंति (*asya svaśvatvaṃ devā āpi jānaṃti*). The endowment with excellent horses stated here is explained by the exposition "ṣoḷhā". Indra is of the form of time; for Indra, who is of the nature of time, the twelve months combine into six pairs of seasons. Of these, if the two seasons Hemanta and Śiśira join as one, there are five seasons. Thus these seasons, five in number, are represented as five horses; these five horses carry Indra, who is of the form of time. This is what is meant by Indra's being endowed with excellent horses through the seasons. Although six seasons arise from twelve months, Hemanta and Śiśira, being possessed of one and the same kind of quality, are reckoned as one. Thus the five seasons are five horses, and they carry Indra, who is time-natured through identity with the sun; and the greatness of Indra is described as mighty.
+वीरो वीरयत्यमित्रान् वेतेर्वा स्याद्गतिकर्मणः वीरयेतेर्वा (*vīro vīrayatyamitrān vetervā syādgatikarmaṇaḥ vīrayetervā*) (Ni. 1-7). Yāska explains the word vīra thus: one who destroys enemies in many ways, who goes to face the enemies and confronts them, who is endowed with valour.
+
+### Printed p. 313
+
+> देवत्वष्टा सविता विश्वरूपः पुपोष प्रजाः पुरुधा जजान।
+> इमा च विश्वा भुवनान्यस्य महद्देवानामसुरत्वमेकं ॥१९॥
+> देव । त्वष्टा । सविता । विश्वरूपः । पुपोष । प्रजाः । पुरुधा । जजान ।
+> इमा । च । विश्वा । भुवनानि । अस्य । महत् । देवानां । असुरत्वं । एकं ॥ १९ ॥
+
+> *devatvaṣṭā savitā viśvarūpaḥ pupoṣa prajāḥ purudhā jajāna|*
+> *imā ca viśvā bhuvanānyasya mahaddevānāmasuratvamekaṃ ‖19‖*
+> *deva | tvaṣṭā | savitā | viśvarūpaḥ | pupoṣa | prajāḥ | purudhā | jajāna |*
+> *imā | ca | viśvā | bhuvanāni | asya | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 19 ‖*
+> त्वाष्टे पशौ हविषोऽनुवाक्या देवस्त त्वष्टेतेषा । सूत्रितं च । देवस्त त्वष्टा
+> सविता विश्वरूपो देव त्वष्टर्यद्ध चारुत्वमानट् । आ. ३-८ । इति ॥
+> सवितांतर्यामितया सर्वस्य प्रेरको विश्वरूपो नानाविधरूपस्त्वष्टा
+> त्वष्टनामको देवः प्रजाः पुरुधा बहुधा जजान । जनयति । ताश्च पुपोष ।
+> पोषयति । इमेमानि विश्वा विश्वानि सर्वाणि भुवनानि भूतजातानि चास्य त्वष्टुः
+> संबंधीनि ॥ विश्वरूपः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The verse is the anuvākyā for the oblation in the Tvāṣṭra animal sacrifice, the verse देवस्त त्वष्टेतेषा (*devasta tvaṣṭeteṣā*); and it is prescribed in the sūtra (Ā. Sū. 3-8).**NOTE** Savitā is the impeller of all as the inner controller; Tvaṣṭṛ, the god so named, of many kinds of form (viśvarūpa), begets the creatures in many ways (purudhā) and nourishes them. All these worlds, all the beings, belong to this Tvaṣṭṛ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—the impeller of all
+- विश्वरूपः (*viśvarūpaḥ*)—the one with many kinds of form
+- त्वष्टा देवः (*tvaṣṭā devaḥ*)—Tvaṣṭṛ, who is of divine nature
+- प्रजाः (*prajāḥ*)—the creatures
+- पुरुधा (*purudhā*)—in many ways
+- जजान (*jajāna*)—creates
+- पुपोष (*pupoṣa*)—(and) nourishes
+- इमा विश्वा भुवनानि (*imā viśvā bhuvanāni*)—all these beings, all of them
+- अस्य (*asya*)—belong to this Tvaṣṭṛ
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—great
+- एकं (*ekaṃ*)—extraordinary
+
+##### भावार्थ (Bhāvārtha)
+
+Tvaṣṭṛ, the impeller of all, of many kinds of form, of divine nature, creates the creatures in many ways and nourishes them. All these beings too belong to that Tvaṣṭṛ. The might of the gods is great and extraordinary.
+
+##### English translation (H. H. Wilson)
+The divine Twashtri the impeller (of all), the multiform, has begotten and nourished a numerous progeny, for all these worlds are of him : great and unequalled is the might of the gods.
+
+### Printed p. 314
+
+##### विशेषविषयगळु (Special Topics)
+
+सविता (*savitā*)—अंतर्यामितया सर्वस्य प्रेरकः (*aṃtaryāmitayā sarvasya prerakaḥ*) । Sāyaṇa explains that the word savitṛ means "one who impels everything, since he is the inner controller". Yāska explains: सविता सर्वस्य प्रसविता (*savitā sarvasya prasavitā*)—Savitā is the one who brings forth everything.
+त्वष्टा देवः प्रजाः पुरुधा जजान पुपोष विश्वा भुवनानि च अस्य (*tvaṣṭā devaḥ prajāḥ purudhā jajāna pupoṣa viśvā bhuvanāni ca asya*)—तृष्णनामकः देवः प्रजाः बहुधा जनयति पोषयति (*tṛṣṇanāmakaḥ devaḥ prajāḥ bahudhā janayati poṣayati*) । इमानि सर्वाणि भूतजातानि च त्वष्टुः संबंधीनि (*imāni sarvāṇi bhūtajātāni ca tvaṣṭuḥ saṃbaṃdhīni*) । Sāyaṇa states that the god named Tvaṣṭṛ has fashioned the creatures in many ways and nourishes them, and that all these creatures belong to the god Tvaṣṭṛ.
+Yāska gives the etymology of this Ṛk as follows: देवस्त्वष्टा सविता सर्वरूपः पोषति प्रजाः रसानुप्रदादेन बहुधा चेमा जनयतीमानि च सर्वाणि भूतान्वयदकान्यस्य महच्चास्मै देवानामसुरत्वमेकं प्रज्ञावत्त्वं वानवत्त्वं नापि ना । (*devastvaṣṭā savitā sarvarūpaḥ poṣati prajāḥ rasānupradādena bahudhā cemā janayatīmāni ca sarvāṇi bhūtānvayadakānyasya mahaccāsmai devānāmasuratvamekaṃ prajñāvattvaṃ vānavattvaṃ nāpi nā |*) । असुरिति प्रज्ञानाम अस्यत्यनर्थान् अस्ताश्चास्यामर्थाः (*asuriti prajñānāma asyatyanarthān astāścāsyāmarthāḥ*) । असुरत्वमादिलुप्तं (*asuratvamādiluptaṃ*) । (Ni. 10-34) The god Tvaṣṭṛ has brought all creatures into being. By bestowing waters he nourishes and increases them. These beings and the waters belong to this god; therefore this god produces the creatures, nourishes and increases them. Hence the asuratva of this god is explained as extraordinary. He also explains the meaning of the word asura: because it averts dangers, nothing is expressible by the word asu as "intelligence", or falls outside the range of intelligence; therefore asura is said to mean "possessed of intelligence".**NOTE** And: असुरत्वं वसुमतो भावः वसुरत्वं (*asuratvaṃ vasumato bhāvaḥ vasuratvaṃ*) । रः मत्त्वर्थे वकारलोपश्च (*raḥ mattvarthe vakāralopaśca*) वसुना उदकेन तद्वान् असौ त्वष्टा (*vasunā udakena tadvān asau tvaṣṭā*) । He explains that the word asuratva is used for vasuratva, that here "ra" is used in the sense of "possessing" and that "va" is dropped, and he gives another meaning: वसुना उदकेन तद्वान् (*vasunā udakena tadvān*)—one who is endowed with waters. Durgācārya comments: तया महत्या प्रज्ञया उदकेन साधनेन सर्वमिदं जनयति पुष्णाति वर्धयति च । (*tayā mahatyā prajñayā udakena sādhanena sarvamidaṃ janayati puṣṇāti vardhayati ca |*)—being possessed of abundant intelligence, the god Tvaṣṭṛ produces everything by means of the waters, nourishes it and increases it. In the second explanation given by him: असुरत्वं अन्नवत्त्वं (*asuratvaṃ annavattvaṃ*) । असुः प्राणः तेन तद्वत्वं (*asuḥ prāṇaḥ tena tadvatvaṃ*)—asuratva is the state of being endowed with breath; अन्नवत्त्वं तेषामन्नहेतुनोदकेन तद्वत्वं (*annavattvaṃ teṣāmannahetunodakena tadvatvaṃ*)—he is endowed with the waters that are the cause of food for the creatures.
+
+### Printed p. 315
+In Sāyaṇa's explanation, विश्वा भुवनानि (*viśvā bhuvanāni*) is given the meaning सर्वाणि भूतजातानि (*sarvāṇi bhūtajātāni*)—the totality of creatures of many kinds. In the Nirukta commentators' explanation, सर्वाणि भूतानि उदकानि (*sarvāṇi bhūtāni udakāni*)—he makes all creatures and the waters, nourishes and increases them; thus a difference can be seen. A difference is also seen in the explanation of the meaning of the word asuratva.
+
+> मही समैरच्चम्वा समीची उभे ते अस्य वसुना नृष्टे ।
+> शृण्वे वीरो विंदमानो वसूनि महद्देवानामसुरत्वमेकं ॥ २० ॥
+> मही इति । सम् । ऐरत् । चम्या । समीची इति सम्ईची । उभे इति । ते इति ।
+> अस्य । वसुना । नृष्टे इति निऋष्टे ।
+> शृण्वे । वीरः । विंदमानः । वसूनि । महत् । देवानां । असुरत्वं । एकं ॥ २० ॥
+
+> *mahī samairaccamvā samīcī ubhe te asya vasunā nṛṣṭe |*
+> *śṛṇve vīro viṃdamāno vasūni mahaddevānāmasuratvamekaṃ ‖ 20 ‖*
+> *mahī iti | sam | airat | camyā | samīcī iti samīcī | ubhe iti | te iti |*
+> *asya | vasunā | nṛṣṭe iti niṛṣṭe |*
+> *śṛṇve | vīraḥ | viṃdamānaḥ | vasūni | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 20 ‖*
+> मही महत्वा समीचि परस्परं संगते चम्वा चमंत्यदंत्यनयोर्देवमनुष्या इति चम्वौ । यद्वा चम्येते आद्येते भूतजातैरिति चम्वौ द्यावापृथिव्यौ ।
+> समैरत् । इंद्रः प्रजापश्वादिभिः सम्यगयोजयत् । ते उभे द्यावापृथिव्यावस्येंद्रस्य वसुना तेजसा धनेन वा नृष्टे निकरां व्याप्ते भवतः।वीरः समर्थः स इंद्रो
+> वसूनि शत्रूनभिभूय तदीयानि धनानि विंदमानो लभमानः सन् श्वण्वे । सर्वैः
+> श्रूयते । तवेदिदमभितश्चेकिते वसु। ऋग्वे. १-५३-३ । इत्यादिषु दृष्टत्वात् ॥ ऐरत्।
+> ईर गतावित्यस्य लजि रूपं । नृष्टे । ऋषी गतौ । कर्मणि क्तः । गतिरनंतर इति गतेः
+> स्वरः । शृण्वे । श्रु श्रवण इत्यस्य व्यत्ययेन कर्मणि श्नुः । लोपस्त आत्मनेपदेष्टिति
+> तलोपः । विंदमानः । विद्ल लाभ इत्यस्य लटि शानचि रूपं । तस्य लसार्वधातुकस्वरे
+> धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+चम्वा (*camvā*) (dual) are the two that are "chewed", for in them gods and men eat (चमंत्यदंत्यनयोर्देवमनुष्या इति (*camaṃtyadaṃtyanayordevamanuṣyā iti*)); or else they are the two that are eaten by the creatures—heaven and earth. "Mahī" means great, "samīcī" mutually joined. समैरत् (*samairat*): Indra joined them well with creatures, animals and the rest. Both heaven and earth are pervaded by this Indra's वसुना (*vasunā*)—by his splendour or by his wealth. वीरः (*vīraḥ*) means capable. That Indra, overcoming his enemies and obtaining their wealth (वसूनि (*vasūni*)), is heard of by all; for this is seen in such passages as तवेदिदमभितश्चेकिते वसु (*tavedidamabhitaścekite vasu*) (Ṛgve. 1-53-3).**NOTE**
+
+### Printed p. 316
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—those of great nature
+- समीची (*samīcī*)—and joined together
+- चम्वा (*camvā*)—heaven and earth
+- सम्मैरत् (*sammairat*)—(Indra) made them endowed with creatures
+- ते उभे (*te ubhe*)—both of them, heaven and earth
+- अस्य (*asya*)—of Indra
+- वसुना (*vasunā*)—by the splendour
+- नृष्टे (*nṛṣṭe*)—are pervaded
+- वीरः (*vīraḥ*)—the capable Indra
+- वसूनि (*vasūni*)—the wealth of enemies
+- विंदमानः (*viṃdamānaḥ*)—as one who seizes
+- शृण्वे (*śṛṇve*)—is heard of as well known
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—great
+- एकं (*ekaṃ*)—unique
+
+##### भावार्थ (Bhāvārtha)
+
+Indra made heaven and earth, which are of great nature and joined together, endowed with creatures. Both heaven and earth are pervaded by Indra's splendour. It is well known that Indra, the capable, seizes the wealth of enemies. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+He has filled the two vast receptacles (heaven and earth) united (with creatures): they are both penetrated by his lustre: the hero spoiling the treasures (of the foe) is renowned : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+चम्वा (*camvā*)—चमंति अदंति अनयोः देवमनुष्याः इति चम्वा (*camaṃti adaṃti anayoḥ devamanuṣyāḥ iti camvā*) । यद्वा चम्येते अद्येते भूतजात्यैरिति चम्वा द्यावापृथिव्यौ । (*yadvā camyete adyete bhūtajātyairiti camvā dyāvāpṛthivyau |*) । The word chamvā is stated among the names of heaven and earth (Ni. 3-22). Since they are the cause of the production of food fit to be eaten by gods and men, and since they are consumed by all creatures, heaven and earth are designated by the word chamvā.
+वसुना (*vasunā*)—तेजसा धनेन वा (*tejasā dhanena vā*) । The word vasu is stated among the names of rays (Ni. 2-15) and among the names of wealth (Ni. 3-9); and in सुगुर सत्सुहिरण्यः (*sugura satsuhiraṇyaḥ*) (Ṛ. Saṃ. 2-1-18) it is used in the sense वसुना अन्नेन (*vasunā annena*)—"with food". And it is also explained: वसवः आदित्यरश्मयः (*vasavaḥ ādityaraśmayaḥ*) (Ni. 12-42)—the rays of the sun. Here it is described that heaven and earth are pervaded by Indra's splendours and wealth, pervaded by Indra's lordliness.
+
+### Printed p. 317
+वीरः वसूनि विंदमानः शृण्वे (*vīraḥ vasūni viṃdamānaḥ śṛṇve*)—समर्थः सः इंद्रः शत्रूनभिभूय तदीयानि धनानि लभमानस्सर् (*samarthaḥ saḥ iṃdraḥ śatrūnabhibhūya tadīyāni dhanāni labhamānassar*) सर्वैः श्रूयते (*sarvaiḥ śrūyate*)**NOTE**—having explained that the heroic Indra subdues his enemies and seizes their wealth, he describes that this matter is stated in the Ṛk तवेदिदमभितश्चेकिते वसु (*tavedidamabhitaścekite vasu*) (Ṛ. Saṃ. 1-53-3).
+
+> इमां च नः पृथिवीं विश्वधायाउप क्षेति हितमित्रो न राजा।
+> इमां । च । नः । पृथिवीं । विश्वधायाः । उप । क्षेति । हितमित्रः ! न ! राजा ।
+> पुरःसदः । शर्मसदः । न । वीराः । महत् । देवानां । असुरत्वं । एकं ॥ २१ ॥
+
+> *imāṃ ca naḥ pṛthivīṃ viśvadhāyāupa kṣeti hitamitro na rājā|*
+> *imāṃ | ca | naḥ | pṛthivīṃ | viśvadhāyāḥ | upa | kṣeti | hitamitraḥ ! na ! rājā |*
+> *puraḥsadaḥ | śarmasadaḥ | na | vīrāḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 21 ‖*
+> विश्वधाया विश्वस्य धाता सर्वान्नो ना नोऽस्माकं राजेंद्र इमां पृथिवीमंतरिक्षं चोप तयोः समीपे क्षेति । निवसति । तत्र दृष्टांतः । हितमित्रो न । यथा
+> कस्यचित् हितोपदेष्टा सुहृत्समीपे निवसति तद्वत् । वीराः समर्था युद्धसहाया
+> मरुतः पुरःसदो युद्धार्थं पुरतो निश्चयेन गंतार इंद्रस्य शर्मसदः । न
+> चार्थे । शर्मणि गृहे सीदंतश्च भवंति । यत्र यत्रासौ तत्र तत्र संनिधिं कुर्वाणा
+> इत्यर्थः ॥ क्षेति । क्षि निवासगत्योरित्यस्य लटि बहुलं छंदसीति विकरणस्य लुक् । निघातः ॥
+
+##### Gist of the bhāṣya
+
+विश्वधायाः (*viśvadhāyāḥ*) is the supporter of all. Our king Indra dwells near this earth and the atmosphere, close to them. The illustration: हितमित्रो न (*hitamitro na*)—as a friend who gives beneficial counsel dwells near one's side. The वीराः (*vīrāḥ*) are the capable Maruts, helpers in battle, पुरःसदः (*puraḥsadaḥ*)—those who go resolutely before Indra for battle; शर्मसदः (*śarmasadaḥ*)—here न (*na*) is in the sense of "and" (न चार्थे (*na cārthe*)): they are also seated in his house (śarman); the meaning is that wherever he is, there they keep close at hand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वधायाः (*viśvadhāyāḥ*)—the supporter of the whole world
+- नः (*naḥ*)—to us
+- राजा (*rājā*)—the lord, Indra
+- हितमित्रो न (*hitamitro na*)—like a friend who wishes one well
+- इमां पृथिवीं उप (*imāṃ pṛthivīṃ upa*)—in the atmosphere near this earth
+- क्षेति (*kṣeti*)—dwells
+- वीराः (*vīrāḥ*)—the capable Maruts
+- पुरःसदः (*puraḥsadaḥ*)—going in front of him (in battle)
+- शर्मसदः (*śarmasadaḥ*)—dwell in his very house
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—great
+- एकं (*ekaṃ*)—extraordinary
+
 ---
 
-**Progress note:** Done through printed p. 311. pp. 306-311 (batch API)
+**Progress note:** Done through printed p. 317. pp. 312-317 (batch API)
