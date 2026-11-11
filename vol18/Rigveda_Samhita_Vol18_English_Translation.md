@@ -4325,6 +4325,244 @@ May we in any manner proclaim your friendship for your friends? when may (we mak
 
 This Indra, wishing to slay (जिघांसन् (*jighāṃsan*)) the demoness who does harm (द्रुहं (*druhaṃ*)), who injures (ध्वरसं (*dhvarasaṃ*)) and who does not know Indra (अनिंद्रां (*aniṃdrāṃ*)), sharpens exceedingly (तेतिक्ते (*tetikte*)) for her slaying his weapons (अनीका (*anīkā*)), already sharp (तिग्मा (*tigmā*)). Then, in the dawns in which even debts (ऋणा (*ṛṇā*)) afflict us, "they afflict us" being the words to be supplied, the fierce (उग्रः (*ugraḥ*)) Indra, of mighty strength, the slayer of the debt (ऋणयाः (*ṛṇayāḥ*)), afflicted those dawns, which were unknown, unexperienced, far away; *yātiḥ* is a word for the act of slaying. **NOTE**
 
+### Printed p. 125
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- द्रुहं (*druhaṃ*)—(the Rākṣasī) who practises treachery
+- ध्वरसं (*dhvarasaṃ*)—who is a doer of violence
+- अनिंद्रां (*aniṃdrāṃ*)—who does not worship Indra; such a Rākṣasī
+- जिघांसन् (*jighāṃsan*)—wishing to kill
+- तिग्मा (*tigmā*)—(already) sharp
+- अनीका (*anīkā*)—weapons
+- तुजसे (*tujase*)—to kill her
+- तेतिक्ते (*tetikte*)—made still sharper
+- यत्र (*yatra*)—in which dawn-times (in which days)
+- ऋणा चित् (*ṛṇā cit*)—debts also (like enemies)
+- नः (*naḥ*)—torment us; such
+- उषसः (*uṣasaḥ*)—dawn-times (such days)
+- उग्रः (*ugraḥ*)—the one of fearsome strength
+- ऋणयाः (*ṛṇayāḥ*)—the destroyer of debts, Indra
+- दूरे (*dūre*)—very far away
+- अज्ञाताः (*ajñātāḥ*)—so that they do not come within our ken
+- बबाधे (*babādhe*)—has pushed away
+
+##### भावार्थ (Bhāvārtha)
+
+Wishing to kill the Rākṣasī who practises treachery, does violence and does not worship Indra, Indra made his weapons, already sharp, still sharper for her destruction. The days on which debts too torment us like enemies, those days Indra, of fearsome might and destroyer of debts, has pushed far away so that they do not come within our ken. That is, he has protected us so that we never groan under the burden of debt.
+
+##### English translation (H. H. Wilson)
+Resolving to kill the oppressing, malevolent (Rakshasi), not acknowledging Indra, he sharpened his sharp weapons for (her) destruction and the fierce (Indra), the canceller of debts, has kept afar the unknown dawns in which the debts (are to be paid).
+
+##### विशेषविषयगळु (Special Topics)
+
+द्रुहं ध्वरसं अनिंद्रां जिघांसन् तिग्मा अनीका तुजसे तेतिक्ते (*druhaṃ dhvarasaṃ aniṃdrāṃ jighāṃsan tigmā anīkā tujase tetikte*)—
+अयमिंद्रः द्रोहं कुर्वतीं हिंसिकां इंद्रमजानतीं राक्षसीं हंतुमिच्छन् पूर्वमेव तीक्ष्णानि आयुधानि तद्वधाय अत्यर्थं तीक्ष्णीकरोति । (*ayamiṃdraḥ drohaṃ kurvatīṃ hiṃsikāṃ iṃdramajānatīṃ rākṣasīṃ haṃtumicchan pūrvameva tīkṣṇāni āyudhāni tadvadhāya atyarthaṃ tīkṣṇīkaroti |*). That is: in order to kill a Rākṣasī who behaves with treacherous intent towards others, causes violence, and hates Indra when she sees him, Indra made his weapon still sharper although it was already sharp. Who the Rākṣasī spoken of here is, is not clear. She may be a woman of evil nature belonging to the Dasyu race, who caused violence to the seer-folk.
+
+### Printed p. 126
+
+That the word ध्वर (*dhvara*) has the meaning "violence" Yāska states by the etymology ध्वरतिर्हिंसाकर्मा (*dhvaratirhiṃsākarmā*) (Ni. 1-8). Although the word तिग्मं (*tigmaṃ*) is read among the names of the thunderbolt-weapon (Ni. 3-11), that the word तिग्म (*tigma*) has the sense "sharp" Yāska shows by citing the Ṛk
+इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधान्ने (*imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhānne*)
+अषाळ्हाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः (*aṣāḷhāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ*)
+(Ṛ. Saṃ. 7-46-1)
+and explaining the word तिग्मायुधाय (*tigmāyudhāya*) in it as तीक्ष्णायुधाय (*tīkṣṇāyudhāya*) (Ni. 10-7). The word तुजः (*tujaḥ*) too is read among the names of the thunderbolt (Ni. 3-11). Here, holding that it is formed from the root तुज हिंसायां (*tuja hiṃsāyāṃ*), he has given for the word तुजसे (*tujase*) the meaning "for killing".
+The meaning of the sentence यत्र ऋणाचित् नः उषसः उग्रः ऋणयाः दूरे अज्ञाताः बबाधे (*yatra ṛṇācit naḥ uṣasaḥ ugraḥ ṛṇayāḥ dūre ajñātāḥ babādhe*) is not clear. Debts (loans), which like enemies torment the mind, cause us distress always, that is every day, as the dawn-times come every day. Indra has removed their burden; that is, the intention is that by giving us wealth and the like he has done us the kindness of freeing us from the harassment of creditors.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॒ हि शु॒रुधः॒ संति॑ पू॒र्वीर्यु॒तस्य॑ धी॒तिर्वृ॑जि॒नानि॑ हंति ।  
+> ऋ॒तस्य॒ श्लोको॑ बधि॒रा त॑तर्द॒ कर्णा॑ बुधा॒नः शु॒चमा॑न  ॒
+> आयोः ॥ ८ ॥
+
+> *ṛtasya hi śurudhaḥ saṃti pūrvīryutasya dhītirvṛjināni haṃti |*  
+> *ṛtasya śloko badhirā tatarda karṇā budhānaḥ śucamāna*  
+> *āyoḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । हि । शुरुधः । संति । पूर्विः । ऋतस्य । धीतिः । वृजिनानि । हंति ।  
+> ऋतस्य । श्लोकः । बधिरा । ततर्द । कर्णा । बुधानः । शुचमानः । आयोः ॥ ८ ॥
+
+> *ṛtasya | hi | śurudhaḥ | saṃti | pūrviḥ | ṛtasya | dhītiḥ | vṛjināni | haṃti |*  
+> *ṛtasya | ślokaḥ | badhirā | tatarda | karṇā | budhānaḥ | śucamānaḥ | āyoḥ ‖ 8 ‖*
+
+### Printed p. 127
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतपेयनाम्मेकाहे मरुत्वतीयनिष्केवल्यशस्त्रयोर्निविद्धानात्पुरस्तादृतस्य हीत्येतदादिके द्वे ऋचौ क्रमेण शंसनीये । सूत्रितं च । ऋतस्य हि शुरुधः
+> संति पूर्विीरिति सूक्तमुखीये । आ. ९-७ । इति ॥
+> अत्र ऋतशब्देनेंद्रो वादित्यो वा सत्यं वा यज्ञो वोच्यते ॥ ऋतस्य
+> ऋतदेवस्य संबंधिन्यः पूर्विर्बह्वः शुरुध आपः संति हि । भवंति खलु । ऋतस्य
+> ऋतदेवस्य संबंधिनी धीतिः प्रज्ञा तद्विषया स्तुतिर्वा वृजिनानि वर्जनीयानि पापानि
+> हंति । हिनस्ति । ऋतस्य ऋतदेवस्य संबंधिनी श्लोकः स्तुतिरूपा नागायोर्गंतुर्मनुष्यस्य संबंधिनौ बधिरा बधिरौ प्रतिबद्धौ कर्णा कर्णौ ततर्द । तृणत्ति । कीदृशः
+> श्लोकः । बुधानो बुध्यमानः शुचमानो दीप्यमानः ॥
+
+##### Gist of the bhāṣya
+
+In the Ekāha sacrifice called Ṛtapeya, the two Ṛks beginning ऋतस्य हि (*ṛtasya hi*) are to be recited in order, before the nivid, in the Marutvatīya and Niṣkevalya śastras. It is also laid down in a sūtra: "ऋतस्य हि शुरुधः संति पूर्विीरिति (*ṛtasya hi śurudhaḥ saṃti pūrviīriti*) in the sūktamukhīya" (Ā. Sū. 9-7).
+Here by the word ऋत (*ṛta*) is meant Indra, or Āditya, or truth, or sacrifice. The many waters (शुरुधः (*śurudhaḥ*) = waters) belonging to Ṛta, the god Ṛta, exist indeed. The धीतिः (*dhītiḥ*) of Ṛta—understanding, or praise directed to him—destroys sins, that is, what is to be shunned. The श्लोकः (*ślokaḥ*) of Ṛta, in the form of praise, pierces open the closed, deaf ears of the moving man (आयोः (*āyoḥ*) = man). **NOTE** What kind of praise? One that is awakening (बुधानः (*budhānaḥ*) = being known) and shining (शुचमानः (*śucamānaḥ*) = blazing).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—belonging to the god Ṛta
+- शुरुधः (*śurudhaḥ*)—waters
+- पूर्विः (*pūrviḥ*)—of many kinds
+- संति हि (*saṃti hi*)—are they not well known?
+- ऋतस्य (*ṛtasya*)—relating to the god Ṛta
+- धीतिः (*dhītiḥ*)—understanding (or praise concerning him)
+- वृजिनानि (*vṛjināni*)—sins
+- हंति (*haṃti*)—destroys
+- ऋतस्य (*ṛtasya*)—addressed to the god Ṛta
+- बुधानः (*budhānaḥ*)—filled with understanding
+- शुचमानः (*śucamānaḥ*)—shining
+- श्लोकः (*ślokaḥ*)—the praise
+- आयोः (*āyoḥ*)—of man
+- बधिरा (*badhirā*)—deaf
+- कर्णा (*karṇā*)—ears
+- ततर्द (*tatarda*)—opens (gives the power of hearing)
+
+##### भावार्थ (Bhāvārtha)
+
+It is well known that the waters belonging to the god Ṛta are of many kinds. Praise addressed to Ṛta destroys sin. Praise addressed to Ṛta, filled with understanding and shining, opens man's deaf ears and gives them the power of hearing.
+
+##### English translation (H. H. Wilson)
+Many are the waters of Rita : the adoration of Rita destroys iniquities ; the intelligent and brilliant praise of Rita has opened the deaf (ears) of man.
+
+### Printed p. 128
+
+##### विशेषविषयगळु (Special Topics)
+
+In the bhāṣya of this Ṛk Sāyaṇa says: अत्र ऋतशब्देनेंद्रो वादित्यो वा सत्यं वा (*atra ṛtaśabdeneṃdro vādityo vā satyaṃ vā*) यज्ञो वोच्यते (*yajño vocyate*). That is, the word ऋत (*ṛta*) in this Ṛk and in the next two Ṛks indicates the deity denoted by the word ऋत (*ṛta*). This deity, he says, may be any one among the deities Indra, Āditya, Satya, Yajña. For the word ऋत (*ṛta*) Yāska gives the etymology सत्यं वा (*satyaṃ vā*) यज्ञं वा (*yajñaṃ vā*). Since subjects such as water, rain, food and praise are in question here, all of these can be applied to any of the deities mentioned above.
+In the sacrifice called ऋतपेय (*ṛtapeya*), performed for one day only, the nivid-sūkta is recited at the beginning of the recitation of the mantras of the Marutvatīya and Niṣkevalya śastras. Before that nivid-sūkta the two Ṛks of this sūkta beginning ऋतस्य हि (*ṛtasya hi*) (the 8th and 9th Ṛks of this sūkta) are to be recited in order, that is, one Ṛk before each nividdhānīya-sūkta. This is explained by the sūtra of the Āśvalāyana-śrauta-sūtra ऋतस्य हि शुरुधः संति पूर्विरिति (*ṛtasya hi śurudhaḥ saṃti pūrviriti*) सूक्तमुखीये (*sūktamukhīye*) (Ā. Sū. 9-7).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ दृ॒ळ्हा ध॒रुणा॑नि संति पु॒रूणि॑ चं॒द्रा वपु॑षे॒ वपूं॑षि ।  
+> ऋ॒तेन॑ दी॒र्घमि॑षणंत॒ पृक्ष॑ ऋ॒तेन॒ गाव॑ ऋ॒तमा वि॑वेशुः ॥
+
+> *ṛtasya dṛḷhā dharuṇāni saṃti purūṇi caṃdrā vapuṣe vapūṃṣi |*  
+> *ṛtena dīrghamiṣaṇaṃta pṛkṣa ṛtena gāva ṛtamā viveśuḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । दृळ्हा । धरुणानि । संति । पुरूणि । चंद्रा । वपुषे । वपूंषि ॥  
+> ऋतेन । दीर्घं । इषणंत । पृक्षः । ऋतेन । गावः । ऋतं । आ । विवेशुः ॥ ९ ॥
+
+> *ṛtasya | dṛḷhā | dharuṇāni | saṃti | purūṇi | caṃdrā | vapuṣe | vapūṃṣi ‖*  
+> *ṛtena | dīrghaṃ | iṣaṇaṃta | pṛkṣaḥ | ṛtena | gāvaḥ | ṛtaṃ | ā | viveśuḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वपुषे वपुष्मतः । षष्ठ्यर्थे चतुर्थी । ऋतस्य ऋतदेवस्य संबंधीनि दृळ्हा
+> दृढानि धरुणानि धारकाणि पुरूणि बहूनि चंद्रा चंद्राण्याह्लादकानि वपूंषि रूपाणि
+> संति । भवंति । ऋतेन ऋतदेवेन दीर्घमत्यधिकं पृक्षोऽन्नमिषणंत । स्तोतार
+> इच्छंति । ऋतेन ऋतदेवेन गावो धेनव ऋतं यज्ञं दक्षिणात्वेना विवेशुः ।
+> प्रविशंति । यद्वा । गावो रश्मय ऋतमुदकमा विवेशुः ॥
+
+##### Gist of the bhāṣya
+
+वपुषे (*vapuṣe*) means वपुष्मतः (*vapuṣmataḥ*) ("of the embodied"); the dative is used in the sense of the genitive. Firm (दृळ्हा (*dṛḷhā*) = दृढानि (*dṛḍhāni*)), sustaining (धरुणानि (*dharuṇāni*) = धारकाणि (*dhārakāṇi*)), many (पुरूणि (*purūṇi*) = बहूनि (*bahūni*)) and delightful (चंद्रा (*caṃdrā*) = *āhlādakāni*) are the forms (वपूंषि (*vapūṃṣi*) = रूपाणि (*rūpāṇi*)) belonging to Ṛta, the god Ṛta. Through Ṛta the singers greatly desire (इषणंत (*iṣaṇaṃta*)) food (पृक्षः (*pṛkṣaḥ*) = *annaṃ*). Through Ṛta the cows, the milch cows, enter the Ṛta, the sacrifice, in the form of the sacrificial fee (दक्षिणात्वेन (*dakṣiṇātvena*)). Or else: the cows, that is the rays, enter the Ṛta, that is water.
+
+### Printed p. 129
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वपुषे (*vapuṣe*)—having an excellent form
+- ऋतस्य (*ṛtasya*)—of the god Ṛta
+- दृळ्हा (*dṛḷhā*)—firm
+- धरुणानि (*dharuṇāni*)—having the power to sustain the world
+- वपूंषि (*vapūṃṣi*)—forms
+- पुरूणि (*purūṇi*)—of many kinds
+- चंद्रा (*caṃdrā*)—and delightful
+- संति (*saṃti*)—are
+- ऋतेन (*ṛtena*)—with the help of the god Ṛta
+- दीर्घं (*dīrghaṃ*)—abundant
+- पृक्षः (*pṛkṣaḥ*)—food
+- इषणंत (*iṣaṇaṃta*)—(the singers) desire (and obtain)
+- ऋतेन (*ṛtena*)—through the god Ṛta alone
+- गावः (*gāvaḥ*)—milch cows
+- ऋतं (*ṛtaṃ*)—the sacrifice
+- आ विवेशुः (*ā viveśuḥ*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+The firm forms of the god Ṛta, of excellent form, which have the power to sustain the world, are of many kinds and delightful. With the help of Ṛta alone the singers obtain abundant food. With the help of Ṛta alone the milch cows enter the sacrifice.
+
+##### English translation (H. H. Wilson)
+Many are the stable, sustaining, delightful forms of the embodied Rita : by Rita are (the pious) expectant of food ; by Rita have the cows entered into the sacrifice.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं ये॑मा॒न ऋ॒तमिद्व॑नोत्कृ॒तस्य॒ शुष्म॑स्तुर॒या उ॑ ग॒व्युः।  
+> ऋ॒ताय॑ पृ॒थ्वी ब॑हु॒ले ग॑भी॒रे ऋ॒ताय॑ धे॒नू प॑र॒मे  ॑
+> दुहाते ॥ १० ॥
+
+> *ṛtaṃ yemāna ṛtamidvanotkṛtasya śuṣmasturayā u gavyuḥ|*  
+> *ṛtāya pṛthvī bahule gabhīre ṛtāya dhenū parame*  
+> *duhāte ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं । येमानः । ऋतं । इत् । वनोति । ऋतस्य । शुष्मः । तुर‍्ययाः । ऊं इति ।  
+> गव्युः ।  
+> ऋताय । पृथ्वी इति । बहुले इति । गभीरे इति । ऋताय । धेनू इति । परमे इति ।  
+> दुहाते इति ॥ १० ॥
+
+> *ṛtaṃ | yemānaḥ | ṛtaṃ | it | vanoti | ṛtasya | śuṣmaḥ | turyayāḥ | ūṃ iti |*  
+> *gavyuḥ |*  
+> *ṛtāya | pṛthvī iti | bahule iti | gabhīre iti | ṛtāya | dhenū iti | parame iti |*  
+> *duhāte iti ‖ 10 ‖*
+
+### Printed p. 130
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतमृतदेवं येमानो नियच्छन् स्तुतिभिर्वशीकुर्वन् स्तोता ऋतमित्
+> ऋतदेवमेव वनोति । संभजते । ऋतस्य ऋतदेवस्य संबंधि शुष्मो बलं
+> तुरयास्तूर्णं गव्युः । उ इति चार्थे । जलकामश्च भवति । बहुले विस्तीर्णे
+> गभीरे दुरवगाहे पृथ्वी द्यावापृथिव्यावृताय ऋतदेवाय भवतः । धेनू
+> प्रीणयित्र्यौ परमे उत्कृष्टे द्यावापृथिव्यावृताय ऋतदेवाय्कॆव दुहाते ।
+> दोहनं कुर्वाते ॥
+
+##### Gist of the bhāṣya
+
+The singer, restraining (येमानः (*yemānaḥ*) = नियच्छन् (*niyacchan*)) Ṛta, the god Ṛta, that is bringing him under control by praises, serves (वनोति (*vanoti*) = संभजते (*saṃbhajate*)) Ṛta alone. The strength (शुष्मः (*śuṣmaḥ*)) of Ṛta is swift (तुरयाः (*turayāḥ*) = तूर्णं (*tūrṇaṃ*)) and desirous (गव्युः (*gavyuḥ*)); उ (*u*) is in the sense of "and"; it is desirous of water. Heaven and earth, wide (बहुले (*bahule*) = विस्तीर्णे (*vistīrṇe*)) and deep (गभीरे (*gabhīre*) = दुरवगाहे (*duravagāhe*), hard to fathom), exist for Ṛta, the god Ṛta. Heaven and earth, the nourishing (धेनू (*dhenū*) = प्रीणयित्र्यौ (*prīṇayitryau*)) and supreme, excellent (परमे (*parame*) = उत्कृष्टे (*utkṛṣṭe*)) ones, milk (दुहाते (*duhāte*) = दोहनं कुर्वाते (*dohanaṃ kurvāte*)) for Ṛta, the god Ṛta, alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतं (*ṛtaṃ*)—the god Ṛta
+- येमानः (*yemānaḥ*)—bringing under his own control (by praises)
+- ऋतमित् (*ṛtamit*)—that very Ṛta
+- वनोति (*vanoti*)—(the singer) serves
+- ऋतस्य (*ṛtasya*)—of the god Ṛta
+- शुष्कः (*śuṣkaḥ*)—the strength
+- तुरयाः (*turayāḥ*)—which grows swiftly
+- उ (*u*)—and
+- गव्युः (*gavyuḥ*)—is also desirous of water
+- बहुले (*bahule*)—wide
+- गभीरे (*gabhīre*)—and exceedingly deep
+- पृथ्वी (*pṛthvī*)—heaven and earth
+- ऋताय (*ṛtāya*)—are ready to help the work of the god Ṛta
+- धेनू (*dhenū*)—those that satisfy the world
+- परमे (*parame*)—and are excellent, heaven and earth
+- ऋताय (*ṛtāya*)—with the god Ṛta in view alone
+- दुहाते (*duhāte*)—milk the water in the form of rain
+
+##### भावार्थ (Bhāvārtha)
+
+The singer, bringing the god Ṛta under his control by his praise, serves him alone. The strength of the god Ṛta grows swiftly and is desirous of water. Heaven and earth, wide and exceedingly deep, are ready to help the work of Ṛta. Heaven and earth, which satisfy the world and are excellent, milk the water in the form of rain with Ṛta in view alone.
+
+##### English translation (H. H. Wilson)
+The (worshipper) subjecting Rita (to his will) verily enjoys Rita : the strength of Rita is (developed) with speed, and is desirous of (possesing) water : to Rita belong the wide and profound heaven and earth : supreme milch cows, they yield their milk to Rita.
+
 ---
 
-**Progress note:** Done through printed p. 124. pp. 119-124 (batch API)
+**Progress note:** Done through printed p. 130. pp. 125-130 (batch API)
