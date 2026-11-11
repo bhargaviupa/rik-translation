@@ -1829,6 +1829,63 @@ There is a narrative on this matter:
 
 In former times, after Indra had slain Vṛtra, he conquered all the regions of the earth and said to Prajāpati: "O Prajāpati, you have now gained a great position and are worshipful. From now on I want your great rank." To that Prajāpati asked: "If you take my rank, then who (कः (*kaḥ*)) am I? What is my station?" To that Indra—"O **NOTE**
 
+### Printed p. 49
+
+…"O Prajāpati, as you yourself have said, from now on your name shall be Ka (Who)." That is, you will be denoted by the word ka. So from that time Prajāpati became denoted by the word ka. This is well known. That is why this matter is stated in the pratigraha mantras, which are recited when one accepts any gift. That is, the Brāhmaṇa sentence of the other Vedas runs: क इदं कस्मा अदादित्याह (*ka idaṃ kasmā adādityāha*) प्रजापतिर्वै कः प्रजापतय एव तद्ददाति (*prajāpatirvai kaḥ prajāpataya eva taddadāti*). Because the word ka means "happiness", in matters and dealings connected with Prajāpati he is always spoken of as the embodiment of happiness. Since Indra took over the greatness of Prajāpati in this way, the designation "Mahān" came to Indra. That is, Indra became Mahendra. In the other Vedas this is said: इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्यायमभूद्यो वृत्रमवधीदिति तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vṛtramahantaṃ devā abruvanmahānyāyamabhūdyo vṛtramavadhīditi tanmaheṃdrasya maheṃdratvaṃ |*). The gods, praising Indra's killing of Vṛtra, said: "Because he killed Vṛtra, this Indra became Mahendra" (he attained high rank), that is, he became the best of all the gods. This is the reason why Indra got the name Mahendra.
+
+Then Indra, having gained high rank as described above, called the gods and said: "O gods, since I have gained high rank, arrange on this account a ceremony of honour in my favour, to felicitate me." In worldly custom too, when a man attains unequalled prosperity, or distinction in learning and the like, or royal honour, he becomes known as a person of eminence among the people, and people commonly hold a reception to felicitate such a man. In the same way Indra put this question to the gods. The gods too agreed with Indra's words and said: "O Indra, how should this ceremony of honour be performed? How would it please you? You yourself must tell us; we shall act accordingly." Then Indra said: "Among the grahas (a graha is a special vessel for drinking Soma) the Mahendra graha (the Soma vessel offered to me, Mahendra) must be the best of all grahas. Likewise, of the three savanas — the morning, midday and third savanas — the midday savana must be the best; among the śastras (mantras) such as the Āśvina and Marutvatīya, the Niṣkevalya śastra; among the metres such as Gāyatrī, the Triṣṭubh metre;
+
+### Printed p. 50
+
+among the Sāman chants, the Bṛhad-rathantara Sāman that produces the pṛṣṭha-stotra: you must approve all these as the best. For all of them are dear to me. This is the honour you shall do me." The gods agreed to it, and approved the pre-eminence of the Māhendra graha and the others in sacrifices. In the other Vedas also it is said: स एतं माहेंद्रमुदहरत वृत्रं हत्वान्यासु देवतास्वधीति यन्माहेंद्रो गृह्यत उद्धारमेव तं यजमान उद्धरते न प्रजास्वधि । (*sa etaṃ māheṃdramudaharata vṛtraṃ hatvānyāsu devatāsvadhīti yanmāheṃdro gṛhyata uddhārameva taṃ yajamāna uddharate na prajāsvadhi |*). The yajamāna who knows this matter obtains pre-eminence and a place of distinction among the people.
+
+(Ai. Brā. 12-21 **NOTE**)
+
+After that the gods said to Indra: "O Indra, we have honoured you and offered you in the sacrifice all the essential things you wanted. You yourself have taken all the essential things. Give us some of them too." Indra said: "That cannot be. I desired all these essential things myself; all of them came to me. What reason is there to give them to you?" The gods again said: "O Indra, do not refuse our request in this way. Give us a little share too." When they prayed thus, Indra looked at them with a gracious eye. He said nothing more.
+
+Prefatory story concerning the yājyā offering in the Niṣkevalya śastra (the story of Prāsahā-devī, Indra's wife — the earlier history of the dhāyyā mantra in the Niṣkevalya śastra — how a king defeats the enemy army — the oblation-share of all the gods in the yājyā mantra of the Virāj metre — the importance of the Virāj metre in this context).
+
+(Ai. Brā. 12-22)
+
+Since Indra said nothing, the gods did not understand his intention, so they spoke among themselves thus: "This woman before us is Indra's beloved wife. She is of the middle class. Her name is Vāvātā. Kings have three kinds of wives.
+
+### Printed p. 51
+
+Of them, the wife of the highest class is called Mahiṣī, the wife of the middle class Vāvātā, and the wife of the lowest class Parivṛkti; this is the custom. That is why, in the duties to be performed by the wives in the Aśvamedha sacrifice, the Mahiṣī is designated by the word bhūḥ, the wife Nāvātā by the word bhuvaḥ, and the wife Parivṛkti by the word suvaḥ. Of these three, the wife of the middle class, Nāvātā, bears the name Prāsahā. For this wife, knowing her husband's wishes and acting accordingly, is able to do every task by force, and so she is very dear to the king. Therefore the gods thought it fitting to learn the intention of King Indra through her, and laid their matter before her. Hearing it, Nāvātā said: "O gods, this is not the right time to tell Indra of your matter and learn his intention. In the world it is the custom for wives to tell their husbands any important matter at night, when they are alone. Since there are no obstacles or worries in privacy, the husband listens sympathetically to what his wife says and gives a fitting reply. So tonight, when I am alone with Indra, I shall bring up your matter and learn Indra's intention. Therefore come tomorrow morning and I shall tell you Indra's answer." The gods agreed, and when they came the next morning and asked, that Nāvātā spoke this sentence in the form of a mantra as her reply:
+
+(Ṛ. Saṃ. 10-74-6)
+
+Among the men of old, Indra killed Vṛtra, was victorious in many other battles too, and has won fame throughout the world. Therefore Indra has the name Prāsahaspati. Pra means "excessive", sahaḥ "of strength", patiḥ "lord": "one of exceeding strength" — the name is apt to its meaning. Having won such a name by the great deed of slaying Vṛtra, he has spread through the whole world that titles of honour such as the Māhendra graha and the midday savana are very dear to him. This Indra knows the wishes of the gods, and he is very strong. This is the meaning of the three pādas of this Ṛk. This is what Vāvātā told the gods.
+
+### Printed p. 52
+
+Hearing the answer that Vāvātā gave through the three pādas of the mantra as described above, the gods spoke among themselves with the fourth pāda:
+
+The meaning is: if we gods too have a share in the sacrifice, and if Indra arranges that sacrificial share for us, Indra will have fulfilled our wish. Or, if this fourth pāda is itself taken as Vāvātā's reply, then the meaning of the fourth pāda is: "O gods, Indra will accomplish, or will carry out, the matter that you have considered and prayed to Indra for." This is what is stated plainly here.
+
+Hearing this reply of Vāvātā, the gods thought: "This Vāvātā has done us gods a great service. So we must do her a service in return. We do not know whether she has any connection with the Niṣkevalya śastra or not. Whatever the case, let us establish a fitting connection for this Vāvātā in the Niṣkevalya śastra"; and they did so.
+
+Because the gods thus established the connection of this Ṛk (यद्वावान (*yadvāvāna*), Ṛ. Saṃ. 10-74-6) with Vāvātā in the Niṣkevalya śastra, this Ṛk is called the dhāyyā mantra in the Niṣkevalya śastra.
+
+Here the praise of Vāvātā, Indra's wife, who spoke this dhāyyā mantra, is given in some detail. It was said earlier that Vāvātā is Indra's beloved wife and that her name is Prāsahā. In worldly usage this Vāvātā or Prāsahā is said to stand in the form of an army ready for battle, for Indra's wife is the deity presiding over the army. In the Veda also it is said: इंद्राणि वै सेनाय देवता (*iṃdrāṇi vai senāya devatā*). And as for को नाम (*ko nāma*) — "who am I" —
+
+### Printed p. 53
+
+it was explained earlier that Prajāpati is denoted by the word ka, because he said "who (kaḥ) am I?" That Prajāpati is the śvaśura, the father-in-law, of Indra's wife. As to Indra being the son of Prajāpati, the Veda itself says: प्रजापतिरिंद्रमसृजतानुजावरं देवानां (*prajāpatiriṃdramasṛjatānujāvaraṃ devānāṃ*). This being so, in worldly practice a man eager for battle, if he wishes his army to win, must perform one act. When the two armies stand facing each other to fight, that man goes beyond his own army — that is, goes a little forward from the middle of the army — and, standing on the ground, takes a blade of grass, cuts off its root and its tip, and throws the remaining middle part toward the enemy army, as one shoots an arrow. As he throws, he must hurl the blade of grass with the mantra प्रासहे कस्त्या पश्यति (*prāsahe kastyā paśyati*): "O Prāsahā, wife of Indra, Prajāpati, who is denoted by the word ka and is your father-in-law, will look at you with his eyes." If the blade of grass is thrown in this way with this mantra, the enemy army suffers defeat. This is made clear by an illustration. In worldly life, in the house of a respectable householder who is devoted to ancestral custom, when a young daughter-in-law sees her father-in-law she is shy; adjusting the end of her sari, drawing in her hands and other limbs, she slips quietly into the inner part of the house. In the same way, through the throwing of the blade of grass with the mantra, the enemy army is defeated and, crossing mountains, forests and rivers, retreats and flees to its own country. Leaving off this incidental matter, the text now takes up the present context again:
+
+Hearing Vāvātā's word (reply), the gods went to Indra's presence, and Indra said to them: "O gods, as you desire, a sacrificial share has been given to you in the Niṣkevalya śastra of the sacrifice." Hearing this the gods said: "We (the gods) are thirty-three. How? Eight Vasus, eleven Rudras, twelve Ādityas, and with them one Prajāpati and one vaṣaṭkāra: in all thirty-three deities. Therefore, with the yājyā mantra of the Virāj metre, which has thirty-three syllables, that is,
+
+### Printed p. 54
+
+with this yājyā mantra (Ṛ. Saṃ. 7-22-1), they prayed Indra to arrange the drinking of Soma." This yājyā mantra ought to have thirty-three syllables. But it does not; it has only twenty-nine. Even so, by the method of combining syllables, it must be reckoned as having thirty-three syllables although the syllables are fewer. Thus the thirty-three syllables in the yājyā mantra, each syllable like one deity, will satisfy all thirty-three deities. The harm that results if the yājyā oblation is offered with a mantra of another metre, departing from this procedure, is now explained:
+
+(Ai. Brā. 12-22)
+
+If the hotṛ wishes that the yajamāna who performs the sacrifice should lose his house and other possessions, he should not recite the yājyā mantra to be recited in the Niṣkevalya śastra with a Ṛk of the Virāj metre, but make the offering reciting mantras of the Gāyatrī, Triṣṭubh or another metre. If he does so, the yajamāna's house and dwellings will be destroyed. Therefore, if he wishes that the yajamāna's house and wealth be lasting, the hotṛ must perform this yājyā offering with the very mantra of the Virāj metre, पिबा सोममिंद्र (*pibā somamiṃdra*) (Ṛ. Saṃ. 7-22-1). If he does so, the yajamāna will have prosperity of house and dwellings.
+
+The Yak (Ṛk) and Sāman mantras in the Niṣkevalya śastra mantras
+The close relation of the Ṛks and the Sāman — why the officiating priests who sing the Sāman recite three Ṛks (a tṛca) and sing — the five kinds of divisions of these Ṛk and Sāman mantras — both kinds are in the Virāj metre — the five divisions of the Niṣkevalya śastra.
+
 ---
 
-**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
+**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
