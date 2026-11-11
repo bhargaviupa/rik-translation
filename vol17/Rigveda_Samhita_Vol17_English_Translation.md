@@ -14700,6 +14700,204 @@ Ashwins, endowed with power, ever young, in whom is no untruth, unwearied, munif
 > *aśvinā | pari | vāṃ | iṣaḥ | purūcīḥ | īyuḥ | gīḥbhiḥ | yatamānāḥ | amṛdhrāḥ |*  
 > *rathaḥ | ha | vāṃ | ṛtajāḥ | adrijūtaḥ | pari | dyāvāpṛthivī iti | yāti | sadyaḥ ‖8‖*
 
+### Printed p. 436
+#### Ṛk 8
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ पुरूचीः पूर्वंचंति गच्छंतीति पुरूचीर्बहूनीषो हविर्लक्षणान्यन्नानि वां युवां परीयुः । परितो गच्छंति । तथामृध्राः केनाप्यतिरस्कृता
+> यतमानाः कर्मणि प्रवर्तमानाः स्तोतारो गीर्भिः स्तुतिलक्षणाभिर्वाग्भियुवां
+> परिचरंति । ऋतजा ऋतस्योदकस्य जनयिता । ऋते यज्ञे प्रादुर्भवतीति वा ।
+> अद्रिजूतः स्तोतृभिराकृष्टो नां युवयो रथो द्यावापृथिवी द्यावापृथिव्य
+> सद्यस्तदानीमेव परि याति ह । सर्वतः प्राप्नोति खलु । अश्विनो रथस्य वेगवत्त्वे
+> मंत्रवर्णः । यो वामश्विना मनसा जवीयान्रथः स्वश्वो विश आजिगाति । ऋग्वे.
+> १-११७-२ । इति । अतः कारणादस्मदीयं यज्ञं प्रत्यागच्छतमिति भावः ॥ ईयुः । इण्
+> गतावित्यस्य लिटि दीर्घ इणः कितीत्यभ्यासस्य दीर्घः । पादादित्पादनिघातः । यतमानाः ।
+> यती प्रयत्न इत्यस्य शानचि रूपं । शपः पित्वादनुदात्तत्वे शानचो लसार्वधातुकस्वरेणानुदात्तत्वे धातुस्वरः । ऋतजाः । जनेर्विट् । विड्वनोरित्यात्वं । अद्रिजूतः ।
+> जू इति सौत्रो धातुः । कर्मणि क्तः । तृतीया कर्मणीति पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"Ashvins! The many (पुरूचीः (*purūcīḥ*), those that go forward) इषः (*iṣaḥ*), foods in the form of oblations, move round about you. So too the worshippers, unrebuked by anyone (अमृध्राः (*amṛdhrāḥ*)) and striving (यतमानाः (*yatamānāḥ*)) in the rite, attend you with their praise-words (गीर्भिः (*gīrbhiḥ*)). ऋतजा (*ṛtajā*) is the begetter of ṛta, that is, of water; or it is that which comes into being in the ṛta, the sacrifice. अद्रिजूतः (*adrijūtaḥ*) means drawn by the worshippers. Your chariot goes round heaven and earth at once, instantly; it reaches everywhere." For the speed of the Ashvins' chariot he cites a mantra: "Ashvins, the chariot of yours that is swifter than thought, with good horses, comes to the peoples" (Ṛ. Saṃ. 1-117-2). Therefore, he says, the sense is: come to our sacrifice.
+
+The rest of the block is grammar (īyuḥ, yatamānāḥ, ṛtajāḥ, adrijūtaḥ), which the Grammar section carries.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूचीः (*purūcīḥ*)—very abundant
+- इषः (*iṣaḥ*)—foods in the form of oblations
+- वां परि (*vāṃ pari*)—towards you
+- ईयुः (*īyuḥ*)—approach
+- अमृध्राः (*amṛdhrāḥ*)—the blameless
+- यतमानाः (*yatamānāḥ*)—those engaged in the rite, the worshippers
+- गीर्भिः (*gīrbhiḥ*)—with their praises (they serve)
+- ऋतजाः (*ṛtajāḥ*)—that which sheds water in the form of rain
+- अद्रिजूतः (*adrijūtaḥ*)—that which is drawn by praises
+- वां (*vāṃ*)—your
+- रथः (*rathaḥ*)—chariot
+- सद्यः (*sadyaḥ*)—at once
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- परि याति ह (*pari yāti ha*)—pervades, does it not
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvins, very abundant foods in the form of oblations are offered towards you. The blameless worshippers, engaged in the rite, serve you with their praises. Your chariot, which sheds water in the form of rain and is drawn by the worshippers, at once pervades heaven and earth.
+
+##### English translation (H. H. Wilson)
+Ashwins, abundant (sacrificial) viands are presented to you, and blameless worshippers (salute you) with praises : your water-shedding car, attracted by the sacrificers, quickly compasses earth and heaven.
+
+### Printed p. 437
+
+##### विशेषविषयगळु (Special Topics)
+
+Purūcī: this word is formed from the root añc, of the sense of going, joined with the word puru. It is used to express a very great quantity or a multitude in number. Here it is an adjective of इषः (*iṣaḥ*).
+
+Amṛdhrāḥ: the word mṛdhra means contempt; amṛdhra is that which lacks it. It is an adjective of the worshippers; the purport is "those who are scorned by no one".
+
+Ṛtajāḥ: if ṛta is taken here to mean water, the word means "that which produces water". This word is an adjective of the chariot of the Ashvins. That the chariot of the Ashvins is a cause of the creation of water is perhaps nowhere to be found; yet what Sāyaṇa has explained is not without basis. Since there is the description "your chariot at once pervades heaven and earth" (नां रथः सद्यः द्यावा पृथिवी परि याति (*nāṃ rathaḥ sadyaḥ dyāvā pṛthivī pari yāti*)), and since there is also one view that the Ashvins are themselves heaven and earth, on that basis their chariot may be called a means of rain. It was said earlier, in the form of a story, that the union of heaven and earth is the cause of rain. Or one may infer that when rain falls, these two are united. The sentence कौ वैतां नावर्षं (*kau vaitāṃ nāvarṣaṃ*) (Ai. Brā. 4-27) was cited earlier: if they are separated there is no fall of rain at all. Hence it may be said that the chariot of the Ashvins, who are themselves of the form of heaven and earth, became also the cause of the fall of rain. Sāyaṇa has explained ऋतस्य उदकस्य जनयिता (*ṛtasya udakasya janayitā*). Or, as another explanation, ऋते यज्ञॆ प्रादुर्भवतीति वा (*ṛte yajñè prādurbhavatīti vā*), "that which is born in the sacrifice". What the basis of this explanation is cannot be said.
+
+Adrijūtaḥ: स्तोतृभिराकृष्टः (*stotṛbhirākṛṣṭaḥ*), meaning "drawn by the worshippers". For this word the scholar Monier Williams, in his Sanskrit-English Dictionary, gives "Excited by the friction of Stones", that is, impelled by the rubbing of stones, meaning pressed out, and cites this very Ṛk. This meaning too cannot be called unsound. If the two words ṛtajāḥ and adrijūtaḥ are taken as synonyms of the Soma juice, the sense is that the Soma juice is produced for the sacrifice and is crushed and pressed out with stones. To state the purport thus is more fitting to the context than Sāyaṇa's explanation. To fit the purport to this Ṛk as Sāyaṇa explains it is rather laborious work.
+
+### Printed p. 438
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना मधु॒षुत्त॑मो यु॒वाकुः॒ सोम॒स्तं पा॑त॒मा ग॑तं  ॒
+> दुरोणे ।  
+> रथो॑ ह वां॒ भूरि॒ वर्षः॒ करि॑क्रत्सु॒ताव॑तो निष्कृ॒तमाग॑मिष्ठः ॥ ९ ॥
+
+> *aśvinā madhuṣuttamo yuvākuḥ somastaṃ pātamā gataṃ*  
+> *duroṇe |*  
+> *ratho ha vāṃ bhūri varṣaḥ karikratsutāvato niṣkṛtamāgamiṣṭhaḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । मधुसःत्कमः । युवाकुः । सोमः । तं । पातं । आ । गतं । दुरोणी ।  
+> रथः । ह । वां । भूरि । वर्पः । करिक्रत् । सुत्यवतः । निःकृतं । आगमिष्यः ॥ ९ ॥
+
+> *aśvinā | madhusaḥtkamaḥ | yuvākuḥ | somaḥ | taṃ | pātaṃ | ā | gataṃ | duroṇī |*  
+> *rathaḥ | ha | vāṃ | bhūri | varpaḥ | karikrat | sutyavataḥ | niḥkṛtaṃ | āgamiṣyaḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यः सोमो मधुषुत्तमो मधुरसमत्यंतं प्रेरय्यन्युवाकुयुवां कामयमानो वर्तते । यद्वा । युवाकुर्वसतीवरीप्रभृतिभिर्मिश्रित
+> इत्यर्थः । तमिमं सोमं पातं । पिबतं । दुरोणेऽस्माकं गृह आ गतं । आगच्छतं।
+> भूरि प्रभूतं वर्पो वारकं तेजः रूपं वा सर्वैवर्रणीयं धनं वा करिक्रत्सुनः
+> पुनः कुर्वणां युवयो रथः सुतवतः सोममभिषुतवतो यजमानस्य निष्कृतः ।
+> निरित्येष समित्येतस्य स्थाने । नि. १२-७ । इति यास्कः । संस्कारि । यद्वा । संस्कृतं गृहमागमिष्ठोऽतिशयेनागच्छन् भवति ॥ युवाकुः । यातेः कटिकुषिभ्यां काकुरिति
+> बाहुलकादस्मादपि भवति । प्रत्ययस्वरेण मध्योदात्तः । करिक्रत् । करोतेर्यज्लुकि
+> शतरि दाधर्ति दर्धर्ति दर्धर्षित्यादिना चुत्वाभावे यणादेशे कृतेऽंगस्यानृकारांतत्पादभ्यासस्य रिगागमो न प्राप्नोतीति सोऽपि निपात्यते ॥ अभ्यस्तस्वरः । निष्कृतं ।
+> करोतेरादिकर्मणि क्तः । संस्कर्तुं प्रवृक्त इत्यर्थः । थाथादिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"Ashvins! The Soma that is मधुषुत्तमो (*madhuṣuttamo*), sending forth sweet juice to the utmost, is युवाकुः (*yuvākuḥ*), desiring you; or else युवाकुः (*yuvākuḥ*) means mixed with vasatīvarī waters and the like. Drink (पातं (*pātaṃ*)) this Soma and come (आ गतं (*ā gataṃ*)) to our house (दुरोणे (*duroṇe*)). भूरि (*bhūri*) is abundant; वर्पः (*varpaḥ*) is protecting brilliance, or form, or wealth to be chosen by all. Your chariot, करिक्रत् (*karikrat*), producing this again and again, is आगमिष्ठः (*āgamiṣṭhaḥ*), most coming, to the निष्कृतं (*niṣkṛtaṃ*) of the offerer who has pressed the Soma." Here निः (*niḥ*) stands in place of सम् (*sam*), according to Yāska (Ni. 12-7); निष्कृतं (*niṣkṛtaṃ*) is thus the prepared, refined place. Or: the chariot comes most surely to the house that has been prepared. The remainder (युवाकुः (*yuvākuḥ*), करिक्रत् (*karikrat*), निष्कृतं (*niṣkṛtaṃ*): formation and accent) is grammar. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvins
+- सोमः (*somaḥ*)—this Soma
+- मधषुत्तमः (*madhaṣuttamaḥ*)—full of sweet juice **NOTE**
+- युवाकुः (*yuvākuḥ*)—desiring you
+- तं (*taṃ*)—this Soma
+- पातं (*pātaṃ*)—drink
+- दुरोणे (*duroṇe*)—to our house
+- आ गतं (*ā gataṃ*)—come
+- भूरि (*bhūri*)—abundant
+- वर्पः (*varpaḥ*)—brilliance
+- करिक्रत् (*karikrat*)—making it spread again and again
+- वां (*vāṃ*)—your
+- रथः (*rathaḥ*)—chariot
+- सुतवर्तः (*sutavartaḥ*)—of the sacrificer who has pressed the Soma juice **NOTE**
+- निष्कृतं (*niṣkṛtaṃ*)—to the sacrificial house
+- आगमिष्ठः (*āgamiṣṭhaḥ*)—may it come
+
+### Printed p. 439
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvins, this Soma is full of sweet juice and desires you. Drink this Soma. Come to our house. May your chariot, which is abundant and makes its brilliance spread again and again, come to the sacrificial house of the sacrificer who has pressed the Soma juice.
+
+##### English translation (H. H. Wilson)
+Ashwins, this most sweet Soma is mixed ; drink it : come to (our) dwelling: your car, repeatedly bestowing wealth, is coming to the appointed place of the offerer of the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+Duroṇe: this word is read among the names of houses (Ni. 3-13). It means a dwelling-house. But in the Ṛk-Saṃhitā it is generally used in the sense of the sacrificial house.
+
+Varpaḥ: this word is read among the names of form (Ni. 3-7). In this word beauty and radiance are suggested together. The word is used when describing a form that is full of lustre and attractive.
+
+In the present Ṛk two or three explanations of the meaning of this word are given: वर्षः वारकं तेजः, रूपं वा, सर्वै: वरणीयं धनं वा (*varṣaḥ vārakaṃ tejaḥ, rūpaṃ vā, sarvai: varaṇīyaṃ dhanaṃ vā*). It is indicated that it may mean brilliance, or form, or wealth desired by all.
+
+The sentence भूरि वर्षः करिक्रत् (*bhūri varṣaḥ karikrat*) shows that two kinds of meaning are possible for the word varṣa. Karikrat means making something spread again and again; bhūri means very abundant. If the meaning given is that the chariot of the Ashvins makes brilliance spread again and again, taking varṣa as brilliance, then, since the chariot of the Ashvins is itself full of brilliance, its brilliance spreads whenever that chariot comes to the sacrificial house: this is one kind of purport. Secondly, since however many times their chariot comes the sacrificer's prosperity increases, भूरि वर्षः करिक्रत् (*bhūri varṣaḥ karikrat*) also fits when the meaning is given in terms of wealth. But to say that it means the radiant form, which is the established sense of the word varṣa, is proper in the present context. [Karikrata is also the name of the seer of the mantra 10-136-5.]
+
+Niṣkṛta: this word is used in the sense of a house. As to how this purport is obtained, the author of the Nirukta has given its explanation and illustrated it with an example.
+
+### Printed p. 440
+निरित्येष समित्येतस्य स्थाने (*nirityeṣa samityetasya sthāne*) (Ni. 12-2). The prefix niḥ is used in the sense of sam. Saṃskṛta means a place that has been refined. But "refined" here may be an arrangement made so that a dwelling-place is a place of assignation and secret. The author of the Nirukta, citing the Ṛk यदादीध्ये न दविषाण्येभिः परायध्योऽव हीये सखिभ्यः । न्युप्ताश्च बभ्रवो वाचमक्रत्र एमीदेषां निष्कृतं जारिणीव ॥ (*yadādīdhye na daviṣāṇyebhiḥ parāyadhyo 'va hīye sakhibhyaḥ | nyuptāśca babhravo vācamakratra emīdeṣāṃ niṣkṛtaṃ jāriṇīva ‖*) (Ṛ. Saṃ. 10-34-) **NOTE**, has shown that there the word niṣkṛta means a place of tryst. A woman of loose conduct going to the niṣkṛta and joining him means going to a secret place and meeting him.
+
+But this purport is not found everywhere. A refined house may also mean the preparations made for sacrifices and the like. In the present context it means the sacrificial house of the sacrificer.
+
+_______ : 0 : _______
+
+## Sūkta 59 (Maṇḍala 3)
+The fifty-ninth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो जनानिति नवर्चं षष्ठं सूक्तं वैश्वामित्रं त्रैष्टुभं मैत्रं । मित्रो
+> मैत्रं चतुर्गायत्र्यंतमित्यनुक्रमणिका । आदितः पंच त्रिष्टुभः शिष्टाश्चतस्रो
+> गायत्र्यः । मित्रो देवता ॥ अग्निहोत्रार्थे पयसि वर्षविंदुपतने मित्रो जनानित्यनया समिधमादध्यात् । सूत्रितं च । मित्रो जनान्यातयति ब्रुवाण इति समिदाधानं । आ. ३-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मित्रो जनान् (*mitro janān*) has nine ṛks and is the sixth sūkta; its seer is Viśvāmitra, its metre is triṣṭubh, and it is addressed to Mitra. The Anukramaṇikā says: मित्रो मैत्रं चतुर्गायत्र्यंतं (*mitro maitraṃ caturgāyatryaṃtaṃ*). The first five ṛks are triṣṭubh, the remaining four gāyatrī; the deity is Mitra. Use: when, in the milk drawn for the agnihotra, drops of rain fall, one should place a fuel-stick (samidh) on the fire with this ṛk मित्रो जनान् (*mitro janān*). It is also laid down in the sūtra: मित्रो जनान्यातयति ब्रुवाण इति समिदाधानं (*mitro janānyātayati bruvāṇa iti samidādhānaṃ*) (Ā. 3-11). **NOTE**
+
+##### Anuvāda
+
+This sūkta, "Mitro janān", is the sixth sūkta in the fifth anuvāka. It contains nine ṛks. Viśvāmitra is the seer of this sūkta; Mitra is the deity; the metre is triṣṭubh. In the Anukramaṇikā it is said: मित्रो मैत्रं चतुर्गायत्र्यंतं (*mitro maitraṃ caturgāyatryaṃtaṃ*). In this sūkta the first five ṛks are in the triṣṭubh metre; the remaining four ṛks are in the gāyatrī metre; Mitra is the deity. It is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, मित्रो जनान्यातयति ब्रुवाण इति समिदाधानं (*mitro janānyātayati bruvāṇa iti samidādhānaṃ*) (Ā. 3-21), that when, while milking for the agnihotra, drops of rain fall in the milk, a samidh-offering should be made in the fire with the ṛk "Mitro janān".
+
+### Printed p. 441
+
+> ॥ ओं ॥
+> सूक्त—५९
+> मंडल—३ ॥ अनुवाक—५ ॥ सूक्त—५९ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—५, ६ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ— ९॥
+> ऋषिः—विश्वामित्रः ॥
+> देवता—अश्विनौ॥
+> छंदः—१-५. त्रिष्टुप् । ६-९ गायत्री ॥
+
+**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रो जना॑न्यातयति ब्रुवा॒णो मि॒त्रो दा॑धार पृथि॒वीमु॒त द्यां ।  
+> मि॒त्रः कृ॒ष्टीरनि॑मिषा॒बि च॑ष्टे मि॒त्राय॑ ह॒व्यं घृ॒तव॑ज्जुहोत॥
+
+> *mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyāṃ |*  
+> *mitraḥ kṛṣṭīranimiṣābi caṣṭe mitrāya havyaṃ ghṛtavajjuhota‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । जनान् । यातयति । ब्रुवाणः । मित्रः । दाधार । पृथिवीं । उत । द्यां ।  
+> मित्रः । कृष्टीः । अनिमिषा । अभि । चष्टे । मित्राय । हव्यं । धृतवत् । जुहोत ॥१॥
+
+> *mitraḥ | janān | yātayati | bruvāṇaḥ | mitraḥ | dādhāra | pṛthivīṃ | uta | dyāṃ |*  
+> *mitraḥ | kṛṣṭīḥ | animiṣā | abhi | caṣṭe | mitrāya | havyaṃ | dhṛtavat | juhota ‖1‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रुवाणः स्तूयमानः शब्दं कुर्वाणो वा मित्रः । प्रकर्षेण सर्वैर्मायते ज्ञायते तथा सर्वान्वृष्टिप्रदानेन त्रायत इति वा मित्रः सूरः । जनान्
+> कर्षकादिजनान्यातयति । कृष्यादिकर्मसु प्रयत्नं कारयति । तथा मित्र एव पृथिवीमुतापि च द्यामेतावुभौ लोकौ वृष्टिद्वारान्नं यागांश्च जनयन् दाधार । धारयति । तथा सति मित्रोऽनिमिषानिमिषेणानुग्रहदृष्ट्वा कृष्टीः कर्मवतो मनुष्यानभि चष्टे । सर्वतः पश्यति । एतत्सर्वं ज्ञात्वा हे ऋत्विजो धृतवदुपस्तरणाभिघारणयुक्तं हव्यं हवनयोग्यं पुरोडाशादिकं तस्मै मित्राय देवाय जुहोत ।
+
+##### Gist of the bhāṣya
+
+ब्रुवाणः (*bruvāṇaḥ*) means being praised, or making sound; this is Mitra. Mitra is so called because he is widely known (मायते (*māyate*), from प्रकर्षेण (*prakarṣeṇa*)) by all, or because he protects all by granting rain; Mitra is the sun. He यातयति (*yātayati*) the people, the farmers and others: he makes them strive in tilling and other works. Likewise Mitra alone sustains (दाधार (*dādhāra*)) both earth and heaven, these two worlds, by producing food and sacrifices through rain. That being so, Mitra with an unwinking, gracious gaze (अनिमिषा (*animiṣā*)) looks all around (अभि चष्टे (*abhi caṣṭe*)) on the कृष्टीः (*kṛṣṭīḥ*), men engaged in work. Knowing all this, O priests, offer (जुहोत (*juhota*)) to that god Mitra the oblation fit for offering, such as the puroḍāśa, accompanied by ghee (धृतवत् (*dhṛtavat*)), with the spreading of ghee beneath and the pouring of it over.
+
 ---
 
-**Progress note:** Done through printed p. 435. pp. 430-435 (batch API)
+**Progress note:** Done through printed p. 441. pp. 436-441 (batch API)
