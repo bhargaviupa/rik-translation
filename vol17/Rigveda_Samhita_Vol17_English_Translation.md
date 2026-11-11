@@ -18347,6 +18347,119 @@ And further:
 
 अग्ने जुषस्व नो हविः पुरोळाशं जातवेदः । प्रातःसावे धियावसो ॥ (*agne juṣasva no haviḥ puroḷāśaṃ jātavedaḥ | prātaḥsāve dhiyāvaso ‖*) (Ṛ. Saṃ. 3-28-1)
 
+### Printed p. 580
+
+The Agni-hymn (आग्नेयं हि प्रातः सवनं (*āgneyaṃ hi prātaḥ savanaṃ*) Śa. Brā. 3-4-9-12) and भूरग्निर्ज्योतिरग्निरिति (*bhūragnirjyotiragniriti*) and what follows (Ai. Brā. 2-32): in this way the direct connection between the morning pressing and Agni is well known from the Śruti. Further: वसवस्तर्हग्निः। तस्मिन् यस्य तथाविधे जुह्वति।वसुष्टेवास्याग्निहोत्रग्ं हुतं भवति । (*vasavastarhagniḥ| tasmin yasya tathāvidhe juhvati|vasuṣṭevāsyāgnihotragṃ hutaṃ bhavati |*) (Tai. Brā. 2-1-10-1). Having thus stated the identity of Agni and the Vasus, it praises the matter by saying that an oblation offered in Agni is as if offered to the Vasus. For this very reason the deity who takes part in the morning pressing along with the Gāyatrī is indicated in some places as Agni and in others as the Vasus.
+
+चतुर्विंशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा एव वसव एते हीदं सर्वं वासयंति । ( (*caturviṃśatyakṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ tadasya vasavo 'nvāyattāḥ prāṇā eva vasava ete hīdaṃ sarvaṃ vāsayaṃti | (*) (Bhā. 81, 3-6-1) **NOTE**
+
+The morning pressing is offered together with the Gāyatrī mantra (metre) of twenty-four syllables; the Vasus are those entitled to this share of the sacrifice. In the context of stating in this way the direct connection of Agni and the Gāyatrī, what is relevant for us is to examine whether these three, Agni, Śyena and Gāyatrī, all indicate one identity, or are different principles.
+
+नवं नु स्तोममग्नये दिवः श्वेनाय जीजनं । वस्वः कुविद्वनाति नः ॥ (*navaṃ nu stomamagnaye divaḥ śvenāya jījanaṃ | vasvaḥ kuvidvanāti naḥ ‖*) (Ṛ. Saṃ. 7-15-4)
+
+Here Agni is designated as the Śyena of the heaven-world. The same sentence is cited in the Taittirīya Brāhmaṇa (Tai. Brā. 2-4-8-1). The words दिवः शैनः (*divaḥ śainaḥ*) are used in the Ṛk-Saṃhitā, besides the mantra cited above, in two Ṛks, 7-56-3 and 10-92-6; but in those passages the word Śyena tells the nature of the Marut deities. If, however, Agni is regarded as belonging to lightning, then this word Śyena can apply to Agni also; this conclusion can be drawn on the strength of sentences such as वैश्वानरो यदि वा वैद्युतोऽसि (*vaiśvānaro yadi vā vaidyuto 'si*) (Tai. Brā. 3-10-5). In the Ṛk-Saṃhitā too support for this conclusion is found: गर्भे मातुः ऒतुष्टिता विदिद्युतानो अक्षरे (*garbhe mātuḥ òtuṣṭitā vididyutāno akṣare*) (Ṛ. Saṃ. 6-16 35) **NOTE**. The Gāyatrī, which has Agni as her food or accompaniment, is likewise described with the epithet विदिद्युदती (*vididyudatī*) (Pañcaviṃśa Brāhmaṇa 12-1-) **NOTE**. The commentator, explaining this Brāhmaṇa sentence, says: गायत्री च अग्निना सरोत्पत्तेस्तेजोरूपत्वात् दीप्यमाना भवति । अतः .... .... गायत्री एवोपस्थाते ॥ (*gāyatrī ca agninā sarotpattestejorūpatvāt dīpyamānā bhavati | ataḥ .... .... gāyatrī evopasthāte ‖*)
+
+Since the Gāyatrī too was born together with Agni, the epithet विदिद्युदती (*vididyudatī*) that applies to Agni applies to the Gāyatrī as well. As in the sentence तेजो गायत्री (*tejo gāyatrī*) (Tai. Brā. 3-8-4), just as Agni is of the form of brilliance, the Gāyatrī too has the form of brilliance. In Ṛ. Saṃ. 6-3-8 and 10-95-10 also the word दविद्योत् (*davidyot*) is connected with the word विद्युत् (*vidyut*)
+
+### Printed p. 581
+
+In the Taittirīya Brāhmaṇa, in the context of the Divaḥ-Śyena offering (3-12-1, 2), the mantra तुभ्यं ता अंगिरस्तम (*tubhyaṃ tā aṃgirastama*) (Ṛ. Saṃ. 8-43-18) clearly points to Agni; and in the same context the mantra अश्याम तं काममग्ने (*aśyāma taṃ kāmamagne*) (Ṛ. Saṃ. 6-5-7) also is addressed to Agni. Therefore there is no doubt that the epithet दिवःशैन (*divaḥśaina*) is a description of Agni. Further, is there a context in which the word सुपर्ण (*suparṇa*) too, just as it indicates the Śyena, indicates Agni? If so, what its meaning is must also be examined. Although this word Suparṇa is merely a synonym of "bird", in many places it has a hidden meaning. For example:
+
+सुपर्णं विप्राः कवयो वचोभिरेकं संतं बहुधा कल्पयंति । (*suparṇaṃ viprāḥ kavayo vacobhirekaṃ saṃtaṃ bahudhā kalpayaṃti |*) (Ṛ. Saṃ. 10-114 5)
+
+Here, according to Sāyaṇa, it is an epithet of the Supreme Self; he explains सुपर्णं सुपतनं एकं संतं परमात्मानं (*suparṇaṃ supatanaṃ ekaṃ saṃtaṃ paramātmānaṃ*). This meaning of the principle will have to be examined later. In the present context, where the word Suparṇa is used with reference to the Āditya or Agni, it is explained as "rays":
+
+यत्रा सुपर्णा अमृतस्य भागमनिमेषं विदथाभिस्स्वरंति । (*yatrā suparṇā amṛtasya bhāgamanimeṣaṃ vidathābhissvaraṃti |*) (1-164-21)
+
+यस्मिन्वृक्षे मध्वदः सुपर्णा निविशंते सुवते चाधिविश्वे ॥ (*yasminvṛkṣe madhvadaḥ suparṇā niviśaṃte suvate cādhiviśve ‖*) (1-164.22)
+
+In such places, when the material meaning is given, they are called the rays of the Āditya. The word Suparṇa is also used as a synonym for Agni or the Āditya: दिव्यं सुपर्णं वायसं बृहंतमपां गर्भं दर्शतनोषधीनां । (*divyaṃ suparṇaṃ vāyasaṃ bṛhaṃtamapāṃ garbhaṃ darśatanoṣadhīnāṃ |*) (1-164-52); this description indicates Agni who dwells in the middle region. In the places दिवः श्येनः (*divaḥ śyenaḥ*) and दिव्यं सुपर्णं (*divyaṃ suparṇaṃ*) the identity of Agni and the Āditya is what is stated. Thus it is understood that Śyena, Suparṇa, Agni and Gāyatrī are all synonyms of one principle; but the technical meaning has to be explained according to each context.
+
+Śrī Rāmacandra.
+
+9. Soma is the brilliance of the Āditya; the Gāyatrī is the chief means for knowing this.
+
+In the present context, if the word Śyena is taken to mean Agni of the middle region or the Āditya, then the word Soma comes to mean the seed (retas) of that Āditya. That is, for the Supreme Brahman who is in the form of the Āditya also, Soma is present in the form of seed. This Soma is the seed that produces the creation of all beings.
+
+### Printed p. 582
+
+अथ यत्किंचेदमार्द्रं तद्रेतसोऽसृजत तदु सोम एतवद्वा इदं सर्वमन्नं चैवान्नादश्च सोम एवान्नमग्निरन्नादः । (*atha yatkiṃcedamārdraṃ tadretaso 'sṛjata tadu soma etavadvā idaṃ sarvamannaṃ caivānnādaśca soma evānnamagnirannādaḥ |*) (Bṛ. U. 1-4-6)
+
+The one Supreme Brahman created from his seed all the moist things in the world. That seed is Soma. This Soma, offered in Agni, becomes with it mutually food and eater. Explaining this very matter, the Maitrī Upaniṣad says:
+
+रविमध्ये स्थितः सोमः सोममध्ये हुताशनः । (*ravimadhye sthitaḥ somaḥ somamadhye hutāśanaḥ |*) (Mai. U. 6-38) **NOTE**
+
+It states that Soma stands in the middle of the orb of the Āditya, and Agni in the middle of Soma. The relation between the Āditya and Soma is stated in many places of the Ṛk-Saṃhitā. For example:
+
+महत्तत्सोमो महिषश्च कारापां यद्दर्भोऽवृणीत देवान् । (*mahattatsomo mahiṣaśca kārāpāṃ yaddarbho 'vṛṇīta devān |*)
+आदधादिंद्रे पवमान ओजोऽजनयत्सूर्ये ज्योतिरिंदुः ॥ (*ādadhādiṃdre pavamāna ojo 'janayatsūrye jyotiriṃduḥ ‖*) (Ṛ. Saṃ. 9-97-41)
+
+Soma, the embryo of the waters that are in the Āditya, brought satisfaction to the gods; being in the form of virile power, it created in the Āditya the light of the universe. And:
+
+त्वं समुद्रो आसि विश्ववित्कवे तवेमाः पंच प्रदिशो विधर्मणि । (*tvaṃ samudro āsi viśvavitkave tavemāḥ paṃca pradiśo vidharmaṇi |*)
+त्वं द्यां च पृथिवीं चाति जभ्रिषे तव ज्योतींषि पवमान सूर्यः ॥ (*tvaṃ dyāṃ ca pṛthivīṃ cāti jabhriṣe tava jyotīṃṣi pavamāna sūryaḥ ‖*) (Ṛ. Saṃ. 9-86-29)
+
+Here it is stated that Soma is the ocean of the middle region, the support of all light, and that the Āditya shines by Soma's power. Explaining what principle Soma reflects here, the scholar Eggeling has said as follows:
+
+"The poet of 9-86-29 while saying ' Thou art the heavenly ocean (Samudra), thine are the lights (ज्योतींषि (*jyotīṃṣi*)) O Pavamana, thine the Sun ' seems to conceive Soma, as the bright ether, the azure ' Sea of light ' generally ". [Sacred Books of the East. Vol. XXVI. p. XV.]
+
+Thus, on the basis of Śruti sentences, they hold that Soma is the luminous essence of the Āditya. The purport is that the nature of such brilliance is obtainable only with the help of the Gāyatrī.
+
+### Printed p. 583
+
+Secondly, what is the place of the Gāyatrī in the story cited from the Aitareya Brāhmaṇa: सोमो वै राजा गंधर्वेष्वासीत्.... ....तया महानग्न्या भूतया सोमं राजानमक्रीणन् (*somo vai rājā gaṃdharveṣvāsīt.... ....tayā mahānagnyā bhūtayā somaṃ rājānamakrīṇan*) (Ai. Brā. 1-27)? There is no reason for the doubt that here the bringing of Soma was done by a woman in the form of Speech, and that the Gāyatrī has no connection with Soma. Here the word Gandharva must be taken to mean the Āditya, the word Soma the brilliance of the Āditya, and the word Vāk the Gāyatrī in the form of speech. If it is asked what is the authority for this, the Śruti sentences themselves are the authority.
+
+10. The Gandharva who guarded the Soma, the brilliance of the Āditya, is Hiraṇyagarbha.
+
+गंधर्व इत्था पदमस्य रक्षति पाति देवानां जनिमान्यद्भुतः । (*gaṃdharva itthā padamasya rakṣati pāti devānāṃ janimānyadbhutaḥ |*) (Ṛ. Saṃ. 9-83-4)
+
+गंधर्वः उदकानां धारकः आदित्यः सोमस्य द्युसंबंधिस्थानं रक्षति । (*gaṃdharvaḥ udakānāṃ dhārakaḥ ādityaḥ somasya dyusaṃbaṃdhisthānaṃ rakṣati |*) The Āditya, the bearer of the waters, guards the dwelling-place of Soma. There is a praise of the Āditya saying that this Soma protects the gods. This same Gandharva is also designated as Hiraṇyagarbha. On the sentence पतंगो वाचं मनसा बिभर्ति तां गंधर्वोऽवदद्गर्भे अंतः (*pataṃgo vācaṃ manasā bibharti tāṃ gaṃdharvo 'vadadgarbhe aṃtaḥ*) (10-177-2) Sāyaṇa says: गर्भॆ हिरण्मये ब्रह्मांडेऽंतर्वर्तमानः गंधर्वः हिरण्यगर्भः तां वाचमवदत् । (*garbhè hiraṇmaye brahmāṃḍe 'ṃtarvartamānaḥ gaṃdharvaḥ hiraṇyagarbhaḥ tāṃ vācamavadat |*)
+
+The Gandharva, of the form of Hiraṇyagarbha, who is within the Brahmāṇḍa, first uttered the Speech lodged in himself; afterwards the gods, seers of the end (of things), placed that Speech in the place of truth. Thus the relation between the Supreme Self, of the nature of the Āditya, and Speech is described. The story of the bringing of Soma told in the Śatapatha Brāhmaṇa tells of the relation between this Supreme Person, who is within the Āditya, and the principle of Speech, and afterwards how Soma, the brilliance of the Āditya, became the protector of the gods.
+
+दिवि वै सोम आसीत् ।....गंधर्वो विश्वावसुः पर्यमुष्णात् ।....सोमो वै भ्राट् । (*divi vai soma āsīt |....gaṃdharvo viśvāvasuḥ paryamuṣṇāt |....somo vai bhrāṭ |*) (Śa. Brā. 3-2-4-4)
+
+By these sentences the Śatapatha Brāhmaṇa tells the story cited earlier from the Aitareya Brāhmaṇa. Here too it tells the manner in which the Gāyatrī, in the form of speech, carried off the Soma; the manner in which this Soma, in the form of brilliance, was contained within the Gandharva in the form of the Āditya; and that afterwards this brilliance is obtained by the man who worships the goddess Speech. By sentences such as सोमो वै भ्राट् (*somo vai bhrāṭ*) Soma is described as brilliance itself. The meaning is that the brilliance of the nature of Soma, from the Gandharva in the form of the Āditya, becomes obtainable through the Gāyatrī, which is of the nature of speech, and by means of this Gāyatrī, to the man who performs the worship. Thus, with Śruti sentences as proofs, for the words Suparṇa, Soma, Gandharva,
+
+### Printed p. 584
+
+Vāk and so on, the purport stated is not improper; this can be shown by citing it together with Sāyaṇa's commentary, and the explanation above can also be shown to be consistent.
+
+चतुष्कपर्दा युवतिः सुपेशा धृतप्रतीका वयुनानि वस्ते । (*catuṣkapardā yuvatiḥ supeśā dhṛtapratīkā vayunāni vaste |*)
+तस्यां सुपर्णा वृषणा नि षेदतुर्यत्र देवा दधिरे भागधेयं ॥ (*tasyāṃ suparṇā vṛṣaṇā ni ṣedaturyatra devā dadhire bhāgadheyaṃ ‖*) (Ṛ. Saṃ. 10-114-3)
+
+Here, and in the following mantras of this same sūkta, Sāyaṇa gives two kinds of purport: one an explanation that tells a material principle, the other one that explains a spiritual principle. In this cited mantra the meaning is that the Suparṇas are established in Speech. The woman who has four braids (kaparda), namely noun, verb, preposition and particle, who is of ever-youthful form, of the nature of the shining Upaniṣad and the like, adorns herself with garments in the form of knowledge. In such a beautiful woman the individual self and the Supreme Self are established. The meaning is that the principle of light, described as of the nature of Suparṇa and Gandharva, can be realised only through the woman in the form of Speech. Sāyaṇa holds that this is what is described by योषित्कामा वै गंधर्वाः (*yoṣitkāmā vai gaṃdharvāḥ*) and the like (Śatapatha Brāhmaṇa commentary 3-2-4-5).
+
+सुपर्णं विप्राः कवयो वचोभिरेकं संतं बहुधा कल्पयंति । (*suparṇaṃ viprāḥ kavayo vacobhirekaṃ saṃtaṃ bahudhā kalpayaṃti |*)
+छंदांसि च दधतो अध्वरेषु ग्रहान्त्सोमस्य मिमते द्वादश ॥ (*chaṃdāṃsi ca dadhato adhvareṣu grahāntsomasya mimate dvādaśa ‖*) (Ṛ. Saṃ. 10-114-2)
+
+In Ṛks of this kind also the above view is what is explained. Stating the relation among the Supreme Self in the form of Suparṇa, the metres such as Gāyatrī, and Soma as the means of worship, the purport is that the nature of the Supreme Self can be known with the help of metres such as Gāyatrī and by the means in the form of Soma. In all such contexts there is a praise of the Gāyatrī, which possesses a special power either as the direct means of knowledge or as a supporter of the rite that is a means of knowledge.
+
+It was stated earlier that the Ācārya says in the Śaṅkara-bhāṣya that the Gāyatrī is the most important means for realising the Supreme Brahman, and that the greatness of the Gāyatrī is known from three points. Of these, the first, namely the manner of the bringing of Soma and its purpose, and the purport of the statement that the Gāyatrī carried off Soma, has been stated along with proofs from Śruti sentences. Of the points stated by Śaṅkarācārya, the second must now be examined.
+
+### Printed p. 585
+
+The distinctiveness of the Gāyatrī among the metres.
+
+इतश्चंदोक्षराहरणेन.... अनेकेषु छंदस्सु गायत्रा एव ब्रह्मज्ञानद्वारतयोपादानं प्राधान्यं । (*itaścaṃdokṣarāharaṇena.... anekeṣu chaṃdassu gāyatrā eva brahmajñānadvāratayopādānaṃ prādhānyaṃ |*) **NOTE**
+
+The praise that the Gāyatrī is pre-eminent because it pervades all the other metres and has unified everything in itself is well known in the Śruti sentences themselves.
+
+तद्वै कनिष्ठं छंदः सद्गायत्री प्रथमा छंदसां युज्यते तदु तद्विर्येणैव यच्छ्येनो भूत्वा दिवः सोममाभरत् । (*tadvai kaniṣṭhaṃ chaṃdaḥ sadgāyatrī prathamā chaṃdasāṃ yujyate tadu tadviryeṇaiva yacchyeno bhūtvā divaḥ somamābharat |*) (Śa. Brā. 1-6-2-10)
+
+Although it is the smallest in form among all metres, the Gāyatrī holds the foremost place among all metres. The explanation that by its own power it was transformed into the form of the Śyena and brought the Soma has been given above. Moreover, it has been stated earlier, citing sentences of the Aitareya Brāhmaṇa, that it added its own eight syllables to the Triṣṭubh, which remained with three syllables, and made it of eleven syllables; and that the Jagatī, which remained with one syllable, joined with the Triṣṭubh united with the Gāyatrī and was made to become of twelve syllables (Ai. Brā. 13-28).
+
+गायत्री कनिष्ठा छंदसागं सती यज्ञमुखं परीयाय । (*gāyatrī kaniṣṭhā chaṃdasāgaṃ satī yajñamukhaṃ parīyāya |*) (Tai. Saṃ. 6-1-6-3)
+
+अधातः शिरः । तद्दायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । (*adhātaḥ śiraḥ | taddāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ |*) (Ai. Ā. 1-4-1)
+
+It is stated that just as the head is the chief of all the limbs of the body, so the Gāyatrī is the chief of all metres, and that afterwards the remaining metres were constructed on its basis. For this very reason गायत्री छंदसां माता (*gāyatrī chaṃdasāṃ mātā*) (Tai. U. 4-15-1) **NOTE**: the Gāyatrī is praised as the mother of all metres. All the other metres are formed on the basis of this metre. In the Sāyaṇa-bhāṣya (Ai. Ā. 10-4-1) **NOTE** there is the explanation, for the Aitareya Āraṇyaka sentence छंदसां माता (*chaṃdasāṃ mātā*), that the other metres are constructed on its basis: इतरेषां छंदसामस्यॆव चतुश्चतुरक्षराधिक्येन तत्तच्छंदोभिः प्रतिमिवीते ॥ (*itareṣāṃ chaṃdasāmasyèva catuścaturakṣarādhikyena tattacchaṃdobhiḥ pratimivīte ‖*) How this is so: if the Gāyatrī metre has twenty-four syllables—
+
+Uṣṇik 24+4 = 28
+Anuṣṭubh 24+4+4 = 32
+Bṛhatī 24+4+4+4 = 36
+Paṅkti 24+4+4+4+4+4 = 40 **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 579. pp. 574-579 (batch API)
+**Progress note:** Done through printed p. 585. pp. 580-585 (batch API)
