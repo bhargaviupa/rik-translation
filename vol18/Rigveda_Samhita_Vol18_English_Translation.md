@@ -244,6 +244,222 @@ Translator:
 H. P. Venkata Rao,
 Court Mahāvidvān.
 
+### Printed p. 1
+
+Śrī. Salutation to Gaṇādhipati.
+
+Invocation verses:
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda Saṃhitā with Sāyaṇa's commentary (with the Kannada translation of the meaning and explanation). Part 18.
+
+Third Aṣṭaka, sixth Adhyāya.
+
+Fourth Maṇḍala. The nineteenth Sūkta in the fourth Maṇḍala.
+
+## Sūkta 19 (Maṇḍala 4)
+
+**Introduction**
+
+This sūkta was seen by the seer Vāmadeva. We have described the seer Vāmadeva briefly at the beginning of this maṇḍala, that is, in Part 17. This Vāmadeva is the son of the seer Gotama. Of the sūktas of this fourth maṇḍala, sūktas 1–7 (in all 206 ṛks); in sūkta 18, verses 2–3½ and 8–13 (in all 8½ ṛks); sūktas 19–41 (in all 239 ṛks); and 45–58 (in all 107 ṛks) — all of these together make a total of 560½ ṛks, for which he is the seer. In the previous part the 18 sūktas of this maṇḍala were completed, and now this part begins with the 19th sūkta.
+
+### Printed p. 2
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुर्थे मंडले द्वितीयानुवाकेऽष्ट सूक्तानि व्याख्यातानि । एवा
+> त्वामिंद्रेत्येकादशर्चं नवमं सूक्तं । तस्य मंडलादिपरिभाषया नामदेव
+> ऋषिः । अनादेशपरिभाषया त्रिष्टुप् छंदः । इंद्रो देवता । तथा चानुक्रांतं ।
+> एवैकादशेति ॥ अग्निष्टोमे माध्यंदिनसवने मैत्रावरुणशस्त्र इदं सूक्तं ।
+> सूत्रते हि । एवा त्वामिंद्रोशन्नु षु णः सुमना उपाक इति याज्या । आ. ५-१६ ।
+> इति ॥ पृष्ठाभिप्लवषडहयोः प्रथमेऽहनि मैत्रावरुणशस्त्रेऽहीनसूक्तं तत्स्थाने
+> श्रीणि संपातसूक्तानि । तत्रेदं प्रथमं सूक्तं । सूत्रितं च । एवा त्वामिंद्र
+> यन्न इंद्रः । आ. ७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Eight sūktas of the second anuvāka of the fourth maṇḍala have been expounded. The ninth sūkta, "Evā tvām indra", has eleven ṛks. By the maṇḍala-rule its seer is नामदेव (*nāmadeva*)**NOTE**. By the rule for what is not specified, the metre is Triṣṭubh; the deity is Indra. So the Anukramaṇī: एवैकादश (*evaikādaśa*). In the Agniṣṭoma, at the midday pressing, this sūkta is used in the Maitrāvaruṇa śastra. For it is stated in the sūtra: एवा त्वामिंद्रोशन्नु षु णः सुमना उपाक इति याज्या (*evā tvāmiṃdrośannu ṣu ṇaḥ sumanā upāka iti yājyā*) (Ā. 5-16). In the Pṛṣṭhya and Abhiplava ṣaḍahas, on the first day, in the Maitrāvaruṇa śastra, in place of the Ahīna sūkta three Sampāta sūktas are used; of these this is the first. It is also stated in the sūtra: एवा त्वामिंद्र यन्न इंद्रः (*evā tvāmiṃdra yanna iṃdraḥ*) (Ā. 7-5).
+
+**Kannada Anuvāda**
+
+The Anuvāda: In the previous part, eight sūktas in the second anuvāka of this fourth maṇḍala were explained. The sūkta now to be explained, "Evā tvām indra", is the ninth sūkta in the second anuvāka. The seer of this sūkta is Vāmadeva himself, the seer of the maṇḍala; the metre is Triṣṭubh; the deity is Indra. In the Anukramaṇī it is stated beginning with "Evaikādaśa". In the Agniṣṭoma sacrifice, at the time of the midday pressing, this sūkta is applied for the recitation of the Maitrāvaruṇa śastra mantras, as is explained in the Āśvalāyana Śrauta Sūtra: "Evā tvām indrośan nu ṣu ṇaḥ sumanā upāka iti yājyā" (Ā. 5-16). In the sacrifices called Pṛṣṭha and Abhiplava ṣaḍaha, when reciting the Maitrāvaruṇa śastra mantras on the first day, three Sampāta sūktas are to be recited in place of reciting the Ahīna sūkta. Among them this sūkta is the first. This matter is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "Evā tvām indra yan na indraḥ" (Ā. 7-5).
+
+Sūkta 19. Maṇḍala 4; Anuvāka 2; Sūkta 19. Aṣṭaka 3; Adhyāya 6; Varga 1, 2. Number of ṛks in the sūkta: 11. Ṛṣi: Vāmadeva. Devatā: Indra. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा त्वामिं॑द्र वज्रि॒न्नत्र॒ विश्वे॑ दे॒वासः॑ सु॒हवा॑स॒ ऊमाः॑ ।  
+> म॒हामु॒भे रोद॑सी वृ॒द्धमृ॒ष्टं निरेक॒मिद्वृ॑णते वृत्र॒हत्ये॑ ॥
+
+> *evā tvāmiṃdra vajrinnatra viśve devāsaḥ suhavāsa ūmāḥ |*  
+> *mahāmubhe rodasī vṛddhamṛṣṭaṃ nirekamidvṛṇate vṛtrahatye ‖*
+
+### Printed p. 3
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । त्वां । इंद्र । वज्रिन् । अत्र । विश्वे । देवासः । सुहवासः । ऊमाः ।  
+> महां । उभे इति । रोदसी इति । वृद्धं । ऋष्टं । निः । एकं । इत् । वृणते ।  
+> वृत्रहत्ये ॥ १ ॥
+
+> *eva | tvāṃ | iṃdra | vajrin | atra | viśve | devāsaḥ | suhavāsaḥ | ūmāḥ |*  
+> *mahāṃ | ubhe iti | rodasī iti | vṛddhaṃ | ṛṣṭaṃ | niḥ | ekaṃ | it | vṛṇate |*  
+> *vṛtrahatye ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्यज्ञे वज्रेन् हे वज्रवन्निंद्र सुहवासः सुहवाः शोभनाह्वाना
+> ऊमा रक्षका विश्वे देवासः सर्वॆ देवा उभे रोदसी द्यावापृथिव्यौ च एवैवमुक्तप्रकारेण स्तूयमानं महां महांतं प्रभूतं वृद्धं गुणैः प्रवृद्धमृष्टं
+> दर्शनीयं त्वामेकमिदेकमेव वृत्रहत्ये वृत्रहननार्थं निर्वृणते । निःशेषेण
+> संभजंते ॥
+
+##### Gist of the bhāṣya
+
+In this sacrifice, O Indra, wielder of the thunderbolt; all the gods, who are सुहवासः (*suhavāsaḥ*), "of good invocation" (well invoked), and ऊमाः (*ūmāḥ*), protectors; and both heaven and earth: in the manner stated, they all praise you, who are great (महां (*mahāṃ*), large, abundant), grown by your qualities, and ऋष्टं (*ṛṣṭaṃ*), worth beholding. You alone they निर्वृणते (*nirvṛṇate*) — they resort to you completely (निःशेषेण संभजंते (*niḥśeṣeṇa saṃbhajaṃte*)) — for the slaying of Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—holder of the thunderbolt weapon
+- इंद्र (*iṃdra*)—O Indra
+- अत्र (*atra*)—in this sacrifice
+- सुहवासः (*suhavāsaḥ*)—those invoked with devotion
+- ऊमाः (*ūmāḥ*)—and protectors
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth also
+- एव (*eva*)—praised in this manner
+- महां (*mahāṃ*)—great one
+- वृद्धं (*vṛddhaṃ*)—one possessed of grown, great qualities
+- ऋष्टं (*ṛṣṭaṃ*)—one with an attractive form
+- त्वां (*tvāṃ*)—you
+- एकमित् (*ekamit*)—one alone
+- वृत्रहत्ये (*vṛtrahatye*)—for destroying Vṛtra
+- निः वृणते (*niḥ vṛṇate*)—they call, praying fully (they worship and pray)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, all the gods, who are invoked with devotion in this sacrifice and are protectors, and also heaven and earth, worship you alone and pray to you for the slaying of Vṛtra. No one other than you is capable of this task. You are one with an attractive form, possessed of grown, great qualities. Therefore they trust in you alone for this task and pray to you.
+
+##### English translation (H. H. Wilson)
+Indra, wielder of the thunderbolt, all the protecting deities who are reverently invoked, and both the heaven and the earth, glorify you who are verily one alone, mighty, vast, and pleasing of aspect, for the destruction of Vritra.
+
+### Printed p. 4
+
+##### विशेषविषयगळु (Special Topics)
+
+वज्रिन् इंद्र अत्र सुहवासः ऊमाः विश्वे देवासः उभे रोदसी एव महां वृद्धं ऋष्टं त्वां एकमित् वृत्रहत्ये निः वृणते (*vajrin iṃdra atra suhavāsaḥ ūmāḥ viśve devāsaḥ ubhe rodasī eva mahāṃ vṛddhaṃ ṛṣṭaṃ tvāṃ ekamit vṛtrahatye niḥ vṛṇate*)—O Indra, who bear the thunderbolt weapon, all the gods call upon you in prayer for the slaying of Vṛtra. Those gods have been invoked by us in this sacrifice for the protection of the sacrifice. All such gods, together with heaven and earth, honour you alone — the great one, who shine well on the sacrificial ground and have a gentle form — and have prayed to you for the slaying of Vṛtra. For it is not possible for others than you to destroy Vṛtra; therefore in this matter they do not pray to other gods but pray to you alone: this is the main intention.
+
+चित् (*cit*)**NOTE**—Yāska, saying that the particle चित् (*cit*) is used in many kinds of meanings (चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*)), explained the meaning by giving examples: आचार्यश्चिदिदं ब्रूयादिति पूजायां (*ācāryaścididaṃ brūyāditi pūjāyāṃ*), दधिचिदित्युपमार्थे (*dadhicidityupamārthe*), कुल्माषांश्चिदाहरेत्यवकुत्सिते (*kulmāṣāṃścidāharetyavakutsite*). In the sentence आचार्यश्चिद् (*ācāryaścid*) it is used in the sense of honour; in the sentence दधिचित् (*dadhicit*) in the sense of comparison; and in कुल्माषांश्चिद् (*kulmāṣāṃścid*) in the sense of disparagement. Here Sāyaṇa, describing the meaning as used in the sense of honour, has said that this explains Indra's greatness and surpassing capacity.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॑सृजंत॒ जिव्र॑यो॒ न दे॒वा भुवः॑ स॒म्राळिं॑द्र स॒त्ययो॑निः ।  
+> अह॒न्नहिं॑ परि॒शया॑न॒मर्णः॒ प्र व॑र्त॒नीर॑रदो वि॒श्वधे॑नाः ॥ २ ॥
+
+> *avāsṛjaṃta jivrayo na devā bhuvaḥ samrāḷiṃdra satyayoniḥ |*  
+> *ahannahiṃ pariśayānamarṇaḥ pra vartanīrarado viśvadhenāḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । अस्यजंत । जिव्रयः । न । देवाः । भुवः । संराट् । इंद्र । सत्ययोनिः ।  
+> अहन् । अहिं । परिशयानं । अर्णः । प्र । वर्तनीः । अरदॆः । विश्वधेनाः ॥ २ ॥
+
+> *ava | asyajaṃta | jivrayaḥ | na | devāḥ | bhuvaḥ | saṃrāṭ | iṃdra | satyayoniḥ |*  
+> *ahan | ahiṃ | pariśayānaṃ | arṇaḥ | pra | vartanīḥ | aradèḥ | viśvadhenāḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र देवास्तां जीवयो न जीर्णाः प्रवृद्धाः पितरो यूनः पुत्रानिवानासृजंत । असुरवधार्थं प्रैरयन् । ततो हे इंद्र सत्ययोनिः सत्यनिवासस्त्वं
+
+##### Gist of the bhāṣya
+
+O Indra, the gods sent you forth, as जीर्णाः प्रवृद्धाः पितरो (*jīrṇāḥ pravṛddhāḥ pitaro*) — aged, grown fathers — send forth young sons: they impelled you for the slaying of the asuras**NOTE**. Thereupon, O Indra, you, the abode of truth (*satyanivāsaḥ*), … (the sentence continues on the next page).
+
+### Printed p. 5
+
+> सम्राट् सर्वेषां लोकानामधीश्वरो भुवः । अभवः । अर्ण उदकं लक्ष्मीकृत्य
+> परिशयानं परितः समंताच्छयनं कुर्वंतमहिं वृत्रासुरमहन् । अवधीः ।
+> विश्वधेना विश्वस्य प्रीणयित्रीर्वर्तनीः सर्वत्र प्रवर्तिका नदीः प्रारदः । प्रकर्षण
+> विलेखनं कृतवानसि । इंद्रो वृत्रं हत्वा तेनावृतान्न्युदकानि प्रवाहरूपेण
+> प्रवर्तयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+… you became सम्राट् (*samrāṭ*), the overlord of all the worlds (भुवः (*bhuvaḥ*) = अभवः (*abhavaḥ*)). You slew Ahi, the asura Vṛtra, who lay all around (परिशयानं (*pariśayānaṃ*)), having made the water (अर्णः (*arṇaḥ*)) his object. विश्वधेनाः (*viśvadhenāḥ*): pleasing the whole world; वर्तनीः (*vartanīḥ*): rivers flowing everywhere; you scored them out (प्रारदः (*prāradaḥ*) — drawn out with force). The meaning: Indra, having slain Vṛtra, sets flowing in the form of streams the waters enclosed by him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- जिव्रयो न (*jivrayo na*)—as the aged send forth their young sons
+- देवाः (*devāḥ*)—the gods
+- अवास्यजंत (*avāsyajaṃta*)—impelled you for the slaying of the asuras and sent you forth (only after that)
+- सत्ययोनिः (*satyayoniḥ*)—you, the source of truth
+- सम्राट् (*samrāṭ*)—being the lord of gods, humans and all
+- भुवः (*bhuvaḥ*)—you became
+- अर्णः (*arṇaḥ*)—facing the water
+- परिशयानं (*pariśayānaṃ*)—lying down, blocking all around
+- अहिं (*ahiṃ*)—Vṛtra the asura
+- अहन् (*ahan*)—you destroyed
+- विश्वधेनाः (*viśvadhenāḥ*)—dear to the whole world
+- वर्तनीः (*vartanīḥ*)—and spreading all around: the rivers
+- प्र अरदः (*pra aradaḥ*)—you cleft them so that they flow easily
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the aged send forth their young sons, the gods impelled you and sent you forth for the slaying of the asuras. Only after that did you, the source of truth, become lord of gods, humans and all. You destroyed Vṛtra the asura, who lay blocking all around, facing the water. You cleft the rivers, which are dear to the whole world and spread all around, and made them flow easily.
+
+##### English translation (H. H. Wilson)
+As elders (send forth their young), so the gods have sent you (against Vritra) : thence you became, Indra who are the abode of truth, the sovereign of the world : you have slain the slumbering Ahi for (the release of) the water, and have marked out (the channels of) the all delighting rivers.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्र जिव्रयो न देवाः अवासृजंत (*iṃdra jivrayo na devāḥ avāsṛjaṃta*)—प्रवृद्धाः पितरो यूनः पुत्रानिव असुरवधार्थं प्रैरयन् (*pravṛddhāḥ pitaro yūnaḥ putrāniva asuravadhārthaṃ prairayan*). In the world, parents send their sons — who are youthful, firm of limb and full of energy — to accomplish difficult tasks, or to conquer enemies in battles and the like; that is indeed proper.
+
+### Printed p. 6
+
+Likewise, the gods all together impelled Indra to destroy the exceedingly powerful Vṛtra: this is the intention.
+
+सत्ययोनिः साम्राट् भुवः (*satyayoniḥ sāmrāṭ bhuvaḥ*)—O Indra, you are the one who is the support of truth, the lord of gods and of humans. Such a you are capable of destroying the asura Vṛtra.
+
+अर्णः परिशयानं अहिं अहन् (*arṇaḥ pariśayānaṃ ahiṃ ahan*)—O Indra, you destroyed Vṛtra the asura, who lay spread all around the water in the cloud-region, blocking it so that the water would not fall on the earth: this is the intention. This same intention was explained earlier by the seer Hiraṇyastūpa in the ṛk अहन्नहिमन्वपस्ततर्द (*ahannahimanvapastatarda*) (Ṛ. Saṃ. 1-32-1).
+
+अर्णः (*arṇaḥ*) — विश्वधेनाः वर्तनीः प्र अरदः (*viśvadhenāḥ vartanīḥ pra aradaḥ*)—You made the rivers, which delight all people, flow in their beds. That is, after the slaying of Vṛtra the waters he had held back fell on the earth through rain, and, in the form of rivers, providing food and the like to all people and satisfying them, they flow in the prepared paths, that is, in the river-beds. Indra is praised: "You have done such a mighty deed."
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अतृ॑ष्णुवंतं॒ विय॑तमबु॒ध्यमबु॑ध्यमानं सुषुपा॒णमिं॑द्र ।  
+> स॒प्त प्रति॑ प्र॒वत॑ आ॒शया॑न॒महिं॒ वज्रे॑ण॒ वि रि॑णा अप॒र्वन् ॥ ३ ॥
+
+> *atṛṣṇuvaṃtaṃ viyatamabudhyamabudhyamānaṃ suṣupāṇamiṃdra |*  
+> *sapta prati pravata āśayānamahiṃ vajreṇa vi riṇā aparvan ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतृष्णुवंतं । वियतं । अबुध्यं । अबुध्यमानं । सुसुपानं । इंद्र ।  
+> सप्त । प्रति । प्रवतः । आशयानं । अहिं । वज्रेण । वि । रिणाः । अपर्व्वन् ॥ ३ ॥
+
+> *atṛṣṇuvaṃtaṃ | viyataṃ | abudhyaṃ | abudhyamānaṃ | susupānaṃ | iṃdra |*  
+> *sapta | prati | pravataḥ | āśayānaṃ | ahiṃ | vajreṇa | vi | riṇāḥ | aparvvan ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमतृप्नुवंतं भोगेष्वतृप्यंतं वियतं शिथिलांगमबुध्यं
+> दुर्विज्ञानमबुध्यमानं किमप्यजानंतं सुषुपाणं सुप्तं सप्त सर्पणस्वभावाः
+
+##### Gist of the bhāṣya
+
+O Indra, you [slew] the one *atṛpnuvaṃtaṃ*, not satisfied in enjoyments; वियतं (*viyataṃ*), with loosened limbs; अबुध्यं (*abudhyaṃ*), hard to understand; अबुध्यमानं (*abudhyamānaṃ*), knowing nothing at all; सुषुपाणं (*suṣupāṇaṃ*), asleep; सप्त (*sapta*) seven, having the nature of creeping … (the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 0; nothing translated yet.
+**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
