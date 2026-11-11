@@ -2889,6 +2889,223 @@ The devourer of Vritra, the fracturer of the cloud, the sender of the waters, th
 The matters of Vala and Vṛtra were explained in detail earlier. Some hold that Vala and Vṛtra were brothers; they may also be understood as persons reflecting darkness. In the present Ṛk too, from वृणोतीति वलः (*vṛṇotīti valaḥ*) ("it covers the atmosphere"), the word vala is a synonym for cloud.
 Abhisvare: the word abhisvara is used in different senses. Its particular meaning was given earlier in the Special Topics of Ṛ. Saṃ. 1-164-21. "अभिस्वर्तारो अर्कं न (*abhisvartāro arkaṃ na*)
 
+### Printed p. 76
+
+The word अभिस्वर (*abhisvara*) is a synonym for the worshippers in passages such as सुष्टुभः (*suṣṭubhaḥ*) (Ṛ. Saṃ. 10-78-4): those who all around (अभितः (*abhitaḥ*)) make the sound of praise in order to impel the gods. In the present context, as it is explained in passages such as चतुष्पादेति द्विपदामभिस्वरे संपश्यन् पंक्तिरुपतिष्ठमानः (*catuṣpādeti dvipadāmabhisvare saṃpaśyan paṃktirupatiṣṭhamānaḥ*) (Ṛ. Saṃ. 10-117-8), the word अभिस्वर (*abhisvara*) can be taken to mean "approach"; the purport is "go towards". The purport is: to impel the horses to run towards us. The technical usages such as अभिस्वरंति (*abhisvaraṃti*) were also explained earlier.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गं॒भी॒रा उ॑द॒धीरि॑व॒ क्रतुं॑ पुष्यसि॒ गा इ॑व ।  
+> प्र सु॑गो॒पा यव॑सं धे॒नवो॑ यथा प्र॒दं कु॒ल्या इ॑वाशत ॥
+
+> *gaṃbhīrā udadhīriva kratuṃ puṣyasi gā iva |*  
+> *pra sugopā yavasaṃ dhenavo yathā pradaṃ kulyā ivāśata ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गंभीरान् । उदधीन् इव । क्रतुं । पुष्यसि । गाः इव ।  
+> प्र । सुगोपाः । यवसं । धेनवः । यथा । ह्रदं । कुल्याः इव । आशश ॥ ३ ॥
+
+> *gaṃbhīrān | udadhīn iva | kratuṃ | puṣyasi | gāḥ iva |*  
+> *pra | sugopāḥ | yavasaṃ | dhenavaḥ | yathā | hradaṃ | kulyāḥ iva | āśaśa ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं गंभीरान्महावकाशानुदधीन् समुद्रानुदकैर्यथा पोषयसि
+> तद्वत्कृतुं यज्ञस्य कर्तारमिमं यजमानमभिपुतफलप्रदानेन पुष्यसि । पोषयसि । अत्र दृष्टांतः । यथा सुगोपाः सविचीनो गोपालो यवसेन गा:
+> पोषयति तद्वत्।यथा धेनवो यवसं तृणादिकं प्राप्नुवंति तद्वत्त्वं सोमान्
+> प्राप्नोषि । ते च सोमाः कुल्या इव कृत्रिमसरितो ह्रदं महाजलाशयं यथा
+> प्राप्नुवंति तद्वत्वामाशत । व्याप्नुवंति ॥ गंभीरान् । गाध्य प्रतिष्ठालिप्सयोग्रंथे
+> चेत्यस्माद्गंभीरगभीरावित्यनेन सूत्रेण इरच् प्रत्ययः । नुमागमोपधाह्रस्वभकाराः
+> सर्वे निपात्यंते । चित्तादंतोदात्तः । उदधीनिव । उदकशब्द उपपदे दधातेरधिकरणेऽर्थे कर्मण्यधिकरणे चेति किप्रत्ययः । उदकशब्दस्य पेषंवासवाहनधिषु च ।
+> पा. ६-३-५८ । इत्युदभावः । कृत्स्वरः । इवेन विभक्त्यलोपः । पुष्यसि । पुष पुष्टावित्यस्यांतर्णितण्यर्थस्य लटि रूपं । निघातः । सुगोपाः । गोपायतेः क्विपि रूपं ।
+> यथा । यथेति पादांते : फि ४-१७ । इति निघातः । आतत । अशू व्याप्तानित्यस्माल्लजि
+> बहुलं छंदसीति विकरणस्य लुक् । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, as you nourish with waters the deep oceans of great extent, so you nourish this sacrificer, the doer (क्रतुं (*kratuṃ*)) of the sacrifice, by granting the fruit he desires. An illustration is given here: as a good herdsman, one who watches well, nourishes the cows with fodder; as cows obtain fodder, grass and the like, so you obtain the Soma-juices. And those Soma-juices reach you, as artificial channels reach a lake, a great reservoir of water. They pervade you."
+
+### Printed p. 77
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- गंभीरान् (*gaṃbhīrān*)—very deep
+- उदधीन् इव (*udadhīn iva*)—(as you fill) the oceans (with waters)
+- सुगोपाः (*sugopāḥ*)—an excellent herdsman
+- गाः इव (*gāḥ iva*)—as (he) nourishes the cows
+- क्रतुं (*kratuṃ*)—the sacrificer
+- पुष्यसि (*puṣyasi*)—you nourish (with the granting of what he desires)
+- यथा (*yathā*)—in the way in which
+- धेनवः (*dhenavaḥ*)—cows
+- यवसं (*yavasaṃ*)—obtain fodder and the like (so you too obtain the Soma)
+- कुल्याः इव (*kulyāḥ iva*)—as small rivers
+- ह्रदं (*hradaṃ*)—reach a lake
+- प्र आशत (*pra āśata*)—(those Soma-juices) reach your belly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you fill the very deep oceans with waters, and as an excellent herdsman nourishes the cows, so you nourish the sacrificer with the granting of what he desires. As cows abundantly obtain fodder and the like, so you too obtain the Soma. As small rivers reach a lake, so those streams of Soma-juice reach your belly.
+
+##### English translation (H. H. Wilson)
+You cherish the celebrator of the pious rite as (you fill) the deep seas (with water) ; or as a careful herdsman (cherishes) the cows ; (you imbibe the Soma) as cows (obtain) fodder, (and the juices flow into you) as rivulets flow into a lake.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the nature of the wealth that Indra provides for a sacrificer who performs good rites is described. Two aspects of this bestowal of wealth are given by way of comparison. This wealth is deep like the ocean. And the regard that Indra shows towards the sacrificer in this bestowal: both of these are possible only for an excellent sacrificer. In this Ṛk the word क्रतु (*kratu*) is a synonym for the sacrificer.
+
+In the Ṛk-saṃhitā the word क्रतु (*kratu*) for the most part denotes the rite (karma); in some places it also denotes the aim of the rite. The deeper sense of this word has been explained in detail in the 13th part of the Ṛgveda-saṃhitā. Here, since it is a synonym for the sacrificer, it is used in a special sense. This word denotes both the sacrificer's aim and his power of action.
+
+In the Saṃhitā and also in the Upaniṣads the two words क्रतु (*kratu*) and दक्ष (*dakṣa*) denote the person's power of will and power of action; or they may denote both the inner power and the outward action.
+
+### Printed p. 78
+
+The Ṛk-saṃhitā explains in detail that if a person's wish or resolve is pure, then his practical capacity to obtain the human aim also grows.
+इंद्रः सुतेषु सोमेषु क्रतुं पुनीत उक्थं (*iṃdraḥ suteṣu someṣu kratuṃ punīta ukthaṃ*)
+विदे वृधस्य दक्षसो महान्हि षः (*vide vṛdhasya dakṣaso mahānhi ṣaḥ*)
+(Ṛ. Saṃ. 8-13-1)
+Here, in वृधस्य दक्षसः विदे (*vṛdhasya dakṣasaḥ vide*), it is stated that in order to acquire strength that makes one grow, Indra purifies the sacrificer (his resolve), as in क्रतुं पुनीते (*kratuṃ punīte*). Even when the person's spiritual aim is explained, it is set out in sentences such as ओं क्रतो स्मर (*oṃ krato smara*) (Īśa. 17) **NOTE** and क्रतुमयःपुरुषः (*kratumayaḥpuruṣaḥ*) (Chā. U. 3-14-2). In such contexts Śaṅkarācārya has explained the word क्रतु (*kratu*) as resolution, or as the person's duty; the purport is resolve, and the power of action that accomplishes the resolve. According to this resolve and power the aim is accomplished. The nature of क्रतु (*kratu*) is stated thus: यथाक्रतुरस्मिल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत (*yathākraturasmilloke puruṣo bhavati tathetaḥ pretya bhavati sa kratuṃ kurvīta*) and so on. In the present Ṛk too the nature of the wealth that comes to such a person made of क्रतु (*kratu*) is described.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॒स्तुजं॑ र॒यिं भ॒रांशं॒ न प्र॑तिजान॒ते ।  
+> वृ॒क्षं प॒क्वं फल॑मं॒कीव॑ धूनु॒हींद्र॑ सं॒पार॑णं॒ वसु॑ ॥ ४ ॥
+
+> *ā nastujaṃ rayiṃ bharāṃśaṃ na pratijānate |*  
+> *vṛkṣaṃ pakvaṃ phalamaṃkīva dhūnuhīṃdra saṃpāraṇaṃ vasu ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । तुजं । रयिं । भर । अंशं । न । प्रतिजानते ।  
+> वृक्षं । पक्वं । फलं । अंकीऽइव । धूनुहि । इंद्र । संपारणं । वसु ॥ ४ ॥
+
+> *ā | naḥ | tujaṃ | rayiṃ | bhara | aṃśaṃ | na | pratijānate |*  
+> *vṛkṣaṃ | pakvaṃ | phalaṃ | aṃkī 'iva | dhūnuhi | iṃdra | saṃpāraṇaṃ | vasu ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> -हे इंद्र नोऽस्माकं तुजं शत्रूणां बाधकं रयिं धनेनोपलक्षितं पुत्रमा भर । संपादय । तत्र दृष्टांतः । अंशं न ! यथा पिता प्रतिजानते व्यवहारज्ञाय पुत्राय स्वकीयस्य धनस्य भागं ददाति तद्वत् । किंच पक्वं फलं प्रति वृक्षमंकीवांकुशी यथा धूनोति तथा त्वं संपारणमस्मदच्छायाः सम्यक् पूरकं
+> वसु धनं धूनुहि । चालय । प्रयच्छेत्यर्थः " प्रतिजानते । ज्ञा अवबोधन इत्यस्य
+
+##### Gist of the bhāṣya
+
+"O Indra, bring to us तुजं (*tujaṃ*), the harasser of enemies, रयिं (*rayiṃ*), that is, a son marked by wealth; provide him. An illustration: अंशं न (*aṃśaṃ na*), as a father gives a share of his own wealth to a son who knows how to manage affairs (प्रतिजानते (*pratijānate*)). Further: as a man with a hook (अंकी (*aṃkī*)) shakes a tree for the ripe fruit, so you shake down for us the wealth that is संपारणं (*saṃpāraṇaṃ*), that fully satisfies our wishes; that is, give it."
+
+### Printed p. 79
+
+> शतरि रूपं । प्रादिसमास- । शतुरनुम इति विभक्तेरुदात्तत्वं । धूनुहि । धूञ् कंपन
+> इत्यस्य लोटि रूपं । संपारणं । प्प पालनपूरणयोरित्यस्य ण्यंतस्य करणे ल्युट् ।
+> समासे कृत्स्वर ॥
+
+##### Gist of the bhāṣya
+
+This block contains only Sāyaṇa's grammatical notes on the words of the Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्रतिजानते (*pratijānate*)—to a son who has acquired knowledge of practical affairs
+- अंशं न (*aṃśaṃ na*)—as a father gives a share of wealth
+- नः (*naḥ*)—to me
+- तुजं (*tujaṃ*)—harmful to enemies
+- रयिं (*rayiṃ*)—wealth in the form of a son
+- आ भर (*ā bhara*)—provide
+- सक्वं (*sakvaṃ*)—ripe
+- फलं (*phalaṃ*)—for the fruit
+- अंकी (*aṃkī*)—a hook
+- वृक्षं इव (*vṛkṣaṃ iva*)—as it shakes the tree (and provides the fruit)
+- संपारणं (*saṃpāraṇaṃ*)—that gives us satisfaction
+- वसु (*vasu*)—wealth
+- धनुहि (*dhanuhi*)—make it move (make it reach us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a father gives a share of wealth to a son who has acquired knowledge of practical affairs, provide us with a son who harasses enemies. As a hook shakes the tree for the ripe fruit and provides the fruit, set in motion the wealth that gives us satisfaction and provide it to us.
+
+##### English translation (H. H. Wilson)
+Grant us riches, securing (us against foes), (as a father bestows) his portion on (a son) arrived at maturity; send down upon us, Indra, wealth adequate (to our desires), as a crook brings down the ripe fruit from a tree.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too there is a description of the wealth that comes to a person who knows the duty of sacrifice. The word तुजं (*tujaṃ*) is used in the sense of harming. In the Nirukta this word is listed among the names of the thunderbolt. It is also used in the sense of giving: तुजतिः दानकर्मा (*tujatiḥ dānakarmā*). In Ṛks such as भूं चिद्दि तुजशो मर्त्यस्य (*bhūṃ ciddi tujaśo martyasya*) (Ṛ. Saṃ. 3-39-8) the generosity of the patron is described as "giver of much". In the present Ṛk too, when it says तुजं रयिं आ भर (*tujaṃ rayiṃ ā bhara*), it may be explained either as "provide the wealth of a son who harasses enemies" or as "give a generous son".
+
+संपारणं (*saṃpāraṇaṃ*) is formed from the root पृ पालनतरणयोः (*pṛ pālanataraṇayoḥ*), "to protect" or "to carry across". It may mean wealth that protects from poverty, or that carries one across poverty and brings one to the end. In sum the purport is: what gives satisfaction.
+
+### Printed p. 80
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒युरिं॑द्र स्व॒राळ॑सि॒ स्मद्दि॑ष्टिः॒ स्वय॑शस्तरः ।  
+> स ना॑वृधा॒न ओज॑सा पुरुष्टुत॒ भवा॑ नः सु॒श्रव॑स्तमः ॥ ५ ॥
+
+> *svayuriṃdra svarāḷasi smaddiṣṭiḥ svayaśastaraḥ |*  
+> *sa nāvṛdhāna ojasā puruṣṭuta bhavā naḥ suśravastamaḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वयुः। इंद्र । स्वराट् । असि । स्मर्त्‌दिष्टिः । स्वयशःतरः !  
+> सः । ववृधानः । ओजसा । पुरुस्तुत । भव । नः । सुश्रवःतमः ॥ ५ ॥
+
+> *svayuḥ| iṃdra | svarāṭ | asi | smartdiṣṭiḥ | svayaśaḥtaraḥ !*  
+> *saḥ | vavṛdhānaḥ | ojasā | purustuta | bhava | naḥ | suśravaḥtamaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्वयुर्धनवानसि । तथा स्वराट् स्वर्गस्य राजासि । स्मद्दिष्टिर्भद्रवाक्यः
+> स्वयशस्तरोऽतिशयेन प्रभूतकीर्तिरसि । हे पुरुष्टुत बहुभिराहूतेंद्र स त्वमोजसा बलेन वावृधानः वर्धमानः सन् नोऽस्मदर्थं सुश्रवस्तमोऽतिशयेन शोभनान्नोपेतो भव ॥ स्वयुः स्वशब्दान्मत्त्वर्थियो युः। स्वराट् । राज्य दीप्ता । क्विप् ।
+> व्रश्चादिना षत्वं । स्मद्दिष्टिः । स्सत् सुमदित्यर्थे । उकारलोपश्कांदसः । बहुव्रीहौ
+> पूर्वपदस्वरः । पुरुष्टुत । संहितायां स्तुतस्तोमयोश्चंदसीति षत्वं । भव ।
+> भवतेर्लोटि रूपं । द्व्यचोऽतस्तिज इति संहितायां दीर्घः । सुश्रवस्तमः । श्रवः
+> शब्दोऽसुनंतः । बहुव्रीहावाद्युदात्तं द्व्यच्छंदसीत्युत्तरपदाद्युदात्तत्वं। तदंतादतिशायने तमप् । तस्य पित्तादनुदात्तत्वे बहुव्रीहिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you are स्वयुः (*svayuḥ*), possessed of wealth; likewise स्वराट् (*svarāṭ*), king of heaven. You are स्मद्दिष्टिः (*smaddiṣṭiḥ*), of auspicious speech, and स्वयशस्तरः (*svayaśastaraḥ*), of exceedingly great fame. O पुरुष्टुत (*puruṣṭuta*), Indra called upon by many, you, growing in strength (ओजसा (*ojasā*)), be for us सुश्रवस्तमः (*suśravastamaḥ*), most excellently endowed with good food." The rest of the block is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वयुः (*svayuḥ*)—(you) are possessed of wealth
+- स्वराट् (*svarāṭ*)—lord of all heaven
+- स्मद्दिष्टिः (*smaddiṣṭiḥ*)—of auspicious speech
+- स्वयशस्तरः (*svayaśastaraḥ*)—exceedingly famous
+- असि (*asi*)—you are
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, praised by many
+- सः (*saḥ*)—you, of such greatness
+- ओजसा (*ojasā*)—with strength
+- वावृधानः (*vāvṛdhānaḥ*)—growing
+- नः (*naḥ*)—to us
+- सुश्रवस्तमः (*suśravastamaḥ*)—become an excellent giver of food
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are possessed of wealth, lord of all heaven, of auspicious speech and exceedingly famous. O Indra, praised by many, you who have such greatness, growing in strength, become for us an excellent giver of food.
+
+### Printed p. 81
+
+##### English translation (H. H. Wilson)
+You are possessed of opulence, Indra; you are the lord of heaven, auspicious and renowend: may you who are adored of many, increasing in vigour, be to us a most (bountiful bestower) of food.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here Indra's independence and sovereignty are described. The words स्वायुः (*svāyuḥ*) and स्वराट् (*svarāṭ*) also indicate independence.
+
+स्वयुः (*svayuḥ*)—This word is used in two places. In पशुर्नैति स्वयुरगोपाः (*paśurnaiti svayuragopāḥ*) (Ṛ. Saṃ. 2-4-7) it is explained as "one who moves about independently like an animal". In the present Ṛk it is explained as "one possessed of wealth". The purport lies in being without dependence on others and without subordination.
+
+स्वराट् (*svarāṭ*)—It means one who is lord of himself. It can be taken as "self-luminous by his own greatness" or as "sovereign". This sovereignty is full of spiritual and moral principle. स्वराट् (*svarāṭ*) also means one who is lord over himself. Considered from that point of view, it also means that a person who is lord over himself is fit to be lord of the world. This very point is stated in the Aitareya Brāhmaṇa: the purport is that one who is to be lord of the world must have complete self-restraint, and must have self-independence without being subject to outward powers. In this word स्वराट् (*svarāṭ*) a harmony of spiritual and Vedic practice is seen; the presence of a harmony of these two practices is the chief mark of Vedic culture. Besides this, the commentators have explained the word स्वराट् (*svarāṭ*) as "king of heaven". In accordance with the śruti sentence स एक राजो जगतः (*sa eka rājo jagataḥ*), the meaning that Indra himself is king of this world and of heaven is described in many places in the Ṛgveda and the Yajurveda.
+
+As described in the Aitareya Brāhmaṇa, the word स्वराट् (*svarāṭ*) must combine both aspects, lord of oneself and lord of the world. The purport is that one who is not self-restrained cannot be a sovereign. In the present Ṛk the two words स्वयुः (*svayuḥ*) and स्वराट् (*svarāṭ*) indicate these two special qualities of Indra. The meaning of the word स्वराट् (*svarāṭ*) can be stated from many points of view.
+
+स्मद्दिष्टिः (*smaddiṣṭiḥ*)—It was stated earlier that the word स्मत् (*smat*) has the meanings beautiful, auspicious, propitious. दिष्टि (*diṣṭi*) is explained here as speech. The meaning is: one with auspicious speech. In Ṛ. Saṃ. 6-3-69 **NOTE** and similar places it means "of pleasing sight".
+
 ---
 
-**Progress note:** Done through printed p. 75. pp. 70-75 (batch API, retry 1)
+**Progress note:** Done through printed p. 81. pp. 76-81 (batch API, retry 1)
