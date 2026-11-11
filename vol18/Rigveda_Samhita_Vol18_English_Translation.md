@@ -24463,6 +24463,176 @@ This Ṛk is the closing verse (paridhānīyā) in the अप्पोर्य�
 
 O deva, lord of the field, as a cow yields milk, milk out and pour for us water that is tasty like drops of honey, pure like ghee, endowed with sweetness, and swollen. May the devas who are lords of the water make us happy.
 
+### Printed p. 629
+
+##### English translation (H. H. Wilson)
+Lord of the field, bestow upon us sweet abundant, (water), as the milch cow (yields her) milk, dropping like honey, bland as butter : may the lords of the water make us happy.
+
+##### विशेषविषयगळु (Special Topics)
+
+The explanation that Yāska wrote for this Ṛk has already been given under the Special Topics of the first Ṛk. In the Āptoryāma sacrifice, when the priest called Maitrāvaruṇa recites the atiriktokthya mantras, this Ṛk is to be recited as the concluding (parinidhānīya) mantra. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra क्षेत्रस्य पते मधुमंतमूर्मिमिति परिधानीया (*kṣetrasya pate madhumaṃtamūrmimiti paridhānīyā*) (Ā. 9-1). **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मधु॑मती॒रोष॑धी॒र्द्याव॒ आपो॒ मधु॑मन्नो भवत्वं॒तरि॑क्षं ।  
+> क्षेत्र॑स्य॒ पति॒र्मधु॑मान्नो अ॒स्वरि॑ष्यंतो॒ अन्वे॑नं चरेम ॥३॥
+
+> *madhumatīroṣadhīrdyāva āpo madhumanno bhavatvaṃtarikṣaṃ |*  
+> *kṣetrasya patirmadhumānno asvariṣyaṃto anvenaṃ carema ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मधुमतीः । ओषधीः । द्यावः । आपः । मधुमत् । नः । भवतु । अंतरिक्षं ।  
+> क्षेत्रस्य । पतिः । मधुमान् । नः । अस्तु । अरिष्यंतः । अनु । एनं । चरेम ॥ ३ ॥
+
+> *madhumatīḥ | oṣadhīḥ | dyāvaḥ | āpaḥ | madhumat | naḥ | bhavatu | aṃtarikṣaṃ |*  
+> *kṣetrasya | patiḥ | madhumān | naḥ | astu | ariṣyaṃtaḥ | anu | enaṃ | carema ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्राह्मणाच्छंसिनोऽतिरिक्तोक्ष्ये परिधानीयैषा । मधुमतीरोषधीद्याव
+> आप इति परिधानीया । आ. ९-११ । इति सूत्रितत्वात् ॥
+> ओषधीरोषध्यो व्रीहिप्रियंग्वादयो नोऽस्मभ्यं मधुमतीर्मधुमत्तो
+> भवंतु । तथा द्यावः । तिस्रो दिव इत्युक्तत्वाद्बहुवचनं युक्तं । तथापोऽंतरिक्षं
+> च नो मधुमद्भवतु । किंच क्षेत्रस्य पतिरपि मधुमान्नोऽस्तु । अरिष्यंतोऽन्यैर_
+> हिंस्यंतो वयमेनं क्षेत्रपतिमनु अनुसृत्य चरेम । संचरेम सुखेन ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk is the concluding (parinidhānīya) verse for the Brāhmaṇācchaṁsin in the atiriktokthya, since it is laid down in the sūtra मधुमतीरोषधीद्याव आप इति परिधानीया (*madhumatīroṣadhīdyāva āpa iti paridhānīyā*) (Ā. 9-11). He explains: may the herbs (ओषधीः (*oṣadhīḥ*)), rice, millet and the like, become sweet (मधुमतीः (*madhumatīḥ*)) for us. So also the heavens (द्यावः (*dyāvaḥ*)); the plural is proper because "three heavens" is stated. So also may the waters and the firmament be sweet for us. Moreover, may the lord of the field also be sweet to us. Unharmed (अरिष्यंतः (*ariṣyaṃtaḥ*)) by others, may we follow (अनु (*anu*)) this lord of the field and move about (चरेम (*carema*)) together happily.
+
+### Printed p. 630
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधीः (*oṣadhīḥ*)—the herbs such as rice
+- नः (*naḥ*)—to us
+- मधुमतीः (*madhumatīḥ*)—possessed of sweetness
+- भवतु (*bhavatu*)—may be
+- द्यावः (*dyāvaḥ*)—the heavens
+- आपः (*āpaḥ*)—the waters
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- मधुमत् (*madhumat*)—possessed of a sweet essence (may they be)
+- क्षेत्रस्य पतिः (*kṣetrasya patiḥ*)—the lord of the field also
+- नः (*naḥ*)—to us
+- मधुमान् (*madhumān*)—beneficent
+- अस्तु (*astu*)—may he be
+- अरिष्यंतः (*ariṣyaṃtaḥ*)—we, unharmed by enemies
+- एनं अनु (*enaṃ anu*)—following the command of this lord of the field
+- चरेम (*carema*)—let us conduct ourselves
+
+##### भावार्थ (Bhāvārtha)
+
+May the herbs such as rice be sweet for us. May the heavens, the waters and the firmament be possessed of a sweet essence in our regard. May the lord of the field also be beneficent to us. Unharmed by enemies, let us conduct ourselves according to the command of this lord of the field.
+
+##### English translation (H. H. Wilson)
+May the herbs (of the field) be sweet for us ; may the heavens, the waters, the firmament, be kind to us ; may the lord of the field be gracious to us : let us, undeterred (by foes), have recourse to him.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Āptoryāma sacrifice mentioned above, among the atiriktokthya mantras to be recited by the Brāhmaṇācchaṁsin, this Ṛk is to be recited as the concluding (parinidhānīya) Ṛk. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra मधुमतीरोषधीर्द्याव आप इति परिधानीया (*madhumatīroṣadhīrdyāva āpa iti paridhānīyā*) (Ā. 9-11).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लांग॑लं ।  
+> शु॒नं व॑र॒त्रा ब॑ध्यंतां शु॒नमष्ट्रा॒मुदिं॑गय ॥ ४ ॥
+
+> *śunaṃ vāhāḥ śunaṃ naraḥ śunaṃ kṛṣatu lāṃgalaṃ |*  
+> *śunaṃ varatrā badhyaṃtāṃ śunamaṣṭrāmudiṃgaya ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । वाहाः । शुनं । नरः । शुनं । कृषतु । लांगलं ।  
+> शुनं । वरत्राः । बध्यंतां । शुनं । अष्टां । उत् । इंगय ॥ ४ ॥
+
+> *śunaṃ | vāhāḥ | śunaṃ | naraḥ | śunaṃ | kṛṣatu | lāṃgalaṃ |*  
+> *śunaṃ | varatrāḥ | badhyaṃtāṃ | śunaṃ | aṣṭāṃ | ut | iṃgaya ‖ 4 ‖*
+
+### Printed p. 631
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाहा बलीवर्दाः शुनं । सुखनामैतत् । सुखं यथा भवति तथा वहंत्विति
+> शेषः । तथा नरो नेतारो मनुष्याः कर्षकाः शुनं कुर्वंतु । तथा लांगलमपि
+> शुनं कृषतु । वरत्रा वरणेन त्रायमाणाः प्रग्रहाः शुनं बध्यंतां । अष्टां
+> प्रतोदं शुनमुदिंगय । प्रेरय । शुनाख्यो वाय्विंद्रयोरन्यतमः सुखकृद्देवः । तदनुग्रहादेतत्सर्वं भवत्त्विति । तस्य श्रुतिसामान्येन स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+वाहाः (*vāhāḥ*) are the draught oxen; शुनं (*śunaṃ*) is a word meaning happiness. "Let them draw so that it be pleasant" is to be supplied. So also let the men (नरः (*naraḥ*)), the leaders, that is the human cultivators, work happily. Let the plough also furrow happily. वरत्रा (*varatrā*) are the straps (प्रग्रहाः (*pragrahāḥ*)) that protect by encircling; let them be bound happily. अष्टां (*aṣṭāṃ*) is the goad; उदिंगय (*udiṃgaya*) means "drive it, urge it" happily. Śuna is a deity, the giver of happiness, one or other of Vāyu and Indra; "may all this be so by his favour": thus there is praise of him by similarity of the word.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाहाः (*vāhāḥ*)—the oxen that bear burdens
+- शुनं (*śunaṃ*)—happily (let them bear the burdens)
+- नरः (*naraḥ*)—the men who are cultivators
+- शुनं (*śunaṃ*)—happily (let them do their work)
+- लांगलं (*lāṃgalaṃ*)—the plough, the instrument of tilling
+- शुनं (*śunaṃ*)—happily
+- कृषतु (*kṛṣatu*)—let it till
+- वरत्राः (*varatrāḥ*)—the bridles (or nose-ropes)
+- शुनं (*śunaṃ*)—happily
+- बध्यंतां (*badhyaṃtāṃ*)—let them hold the oxen and the like
+- अष्टां (*aṣṭāṃ*)—the burden
+- शुनं (*śunaṃ*)—so that it be happy
+- उदिंगय (*udiṃgaya*)—make (them) carry
+
+##### भावार्थ (Bhāvārtha)
+
+Let the oxen and other animals that bear burdens bear them happily. Let the human cultivators do their work happily. Let the plough, the instrument of tilling, till happily. Let the bridles or nose-ropes hold the oxen and the rest happily. Make the oxen and the rest carry the burden so that they bear it easily.
+
+##### English translation (H. H. Wilson)
+May the oxen (draw) happily, the men (labour) happily ; the plough furrow happily ; may the traces bind happily : wield the goad happily.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Śunāsīrīya soma-day (savana), in the offering of the oblation addressed to the deity Śunāsīra, this Ṛk is to be recited as the puronuvākyā mantra, and the last Ṛk of this sūkta, शुनं नः फाला (*śunaṃ naḥ phālā*), as the yājyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra शुनासीराविमां वाचं जुषेथां शुनं नः फालाः (*śunāsīrāvimāṃ vācaṃ juṣethāṃ śunaṃ naḥ phālāḥ*) (Ā. 2-20).
+
+The deities Śuna and Śunāsīra: mantra 4-57-4 is addressed to Śuna. Explaining the word śuna, Sāyaṇa says: शुनाख्यो वाय्विंद्रयोरन्यतमः सुखकृद्देवः । तदनुग्रहादेतत्सर्वं भवत्वति तस्य श्रुतिसामान्येन स्तुतिः ॥ (*śunākhyo vāyviṃdrayoranyatamaḥ sukhakṛddevaḥ | tadanugrahādetatsarvaṃ bhavatvati tasya śrutisāmānyena stutiḥ ‖*) He explains that the name Śuna is apt (anvartha) for one or other of Vāyu and Indra; since all becomes happy if their favour is present, the naming of one of the two as Śuna is meaningful.
+
+### Printed p. 632
+
+Again, in explaining the word Śunāsīra in the 5th mantra, he has said as follows: 'द्युदेवः शुनदेवता' इति शौनकः (*'dyudevaḥ śunadevatā ' iti śaunakaḥ*); hence Śuna is Indra. And: शुनो वायुः शु एत्यंतरिक्षे सीर आदित्यः सरणात् (*śuno vāyuḥ śu etyaṃtarikṣe sīra ādityaḥ saraṇāt*) (Ni. 9-40). Having stated Śaunaka's opinion, that the deity Śuna dwelling in the heaven is Indra, he then cites the Nirukta passage which explains that Śuna is Vāyu because he moves in the firmament, and that the name Sīra is well known for Āditya because he is of a revolving nature. And in the 8th mantra he explains again: Śunāsīrā are Indra and Vāyu; or the Śunāsīras may be Vāyu and Āditya.
+
+The authors of the Bṛhaddevatā, who generally follow the Nirukta view, suggest a somewhat different opinion only in giving the precise meaning of the word Śunāsīra; they also cite the view of other great seers and state the difference between Yāska and themselves:
+वायुः शुनः सूर्य एपात्र सीरः शुनासीरौ वायुसूर्या वदंति । शुनासीरं यास्क इंद्रं तु मेने सूर्येंद्रौ तौ मन्यते शाकपूणिः ॥ (*vāyuḥ śunaḥ sūrya epātra sīraḥ śunāsīrau vāyusūryā vadaṃti | śunāsīraṃ yāska iṃdraṃ tu mene sūryeṃdrau tau manyate śākapūṇiḥ ‖*) (Bṛhaddevatā 5-8)
+Since the earlier seers have said that śuna and sīra are the names that designate Vāyu and Sūra (the Sun), here the word śuna means Vāyu; that is, it is a synonym of Vāyu. In the view of Śākapūṇi the word śuna designates Sūrya and the word sīra designates Indra. Yāska, however, has taken the word Śunāsīra to mean Indra alone.
+
+[Regarding the Bṛhaddevatā author's statement of the Nirukta authors' view, one special point is to be noted. His own view, stated as वायुः शुनः सूर्य एवात्र सीरः शुनासीरौ वायुसूर्यौ वदंति (*vāyuḥ śunaḥ sūrya evātra sīraḥ śunāsīrau vāyusūryau vadaṃti*), is the same as the opinion that Yāska has stated in the Nirukta (Ni. 9 4-). **NOTE** But he states that Yāska took the word Śunāsīra to mean Indra alone. What his intention may be, perhaps cannot be said. Yāska has not cited Śākapūṇi's view.]
+
+शुनासीर् पंचम्यां तु स्तुता तौ द्वे तु सीमाय्कॆ षष्ठी सत्तमी च । शुनं नः फालाः कृषिं स्तोति पादः शुनं कीनाशाः कृषिजीनान्मनुष्यान् ॥ (*śunāsīr paṃcamyāṃ tu stutā tau dve tu sīmāykè ṣaṣṭhī sattamī ca | śunaṃ naḥ phālāḥ kṛṣiṃ stoti pādaḥ śunaṃ kīnāśāḥ kṛṣijīnānmanuṣyān ‖*) (Bṛ. De. 5.9)
+These two deities, Śuna and Sīra, are praised in the 5th and 8th Ṛks of the Ṛk-saṃhitā. The sixth and seventh are addressed to the deity named Sītā. The pāda शुनं नः फालाः (*śunaṃ naḥ phālāḥ*)
+
+### Printed p. 633
+
+praises agriculture (Praises Agriculture); the blessing for the welfare of those who live by agriculture is stated in the following part.
+
+The very deities Śuna and Sīra, who are said above to be Indra and Vāyu, or Vāyu and Āditya, have also been described earlier as being contained within Agni. For example: यौ च देवौ शुनासीरौ तौ चाग्नी चैतदाश्रयौ । (*yau ca devau śunāsīrau tau cāgnī caitadāśrayau |*) The Bṛhaddevatā states that Śuna and Sīra are both forms of Agni and are contained within Agni itself. Because there is no determination of the form of these deities in this way, the scholar Max Müller has stated in this context as follows:
+
+"In Rig-Veda VII. 70-1, a horse is called शुनपृष्टो अश्वः (*śunapṛṣṭo aśvaḥ*), meaninge evidently a horse having a plump back. But there are compounds in which शुन (*śuna*) would seem to have the meaning of a dog. In 8-46-28, शुन-इषितं (*śuna-iṣitaṃ*) most likely means carried by dogs and in शुनासीरौ (*śunāsīrau*) we have a name of a couple of deities, the former of which is said to be शुन (*śuna*), the latter, सीर (*sīra*)- Yaska recognises in this शुन (*śuna*) a name of Vayu. in सीर (*sīra*) a name of the Sun. Another anthority, शौनक (*śaunaka*) declares शुन (*śuna*) to be a name of Indra, सीर (*sīra*), a name of the Wind. Asvalayana (श्रौ. सू. (*śrau. sū.*) 2-20) declares that शुनासीरौ (*śunāsīrau*) may be meant for वायु (*vāyu*) or for इंद्र (*iṃdra*) and सूर्य (*sūrya*) together. This shows, at all events, that the meaning of the two names was doubtful, even among early native theologians"
+[Science of Language. II. p. 525]
+**NOTE**
+
+In Ṛ. Saṃ. 7-20-1, in शुनपृष्ठः अश्वः (*śunapṛṣṭhaḥ aśvaḥ*), the word śuna means "plump". There is also a usage in which the word śuna has the meaning "dog". In Ṛ. Saṃ. 8-47-28 the words शुन इषितं (*śuna iṣitaṃ*) probably mean "carried off by a dog". (अश्लेषितं, रजेषितं, शुनेषितं (*aśleṣitaṃ, rajeṣitaṃ, śuneṣitaṃ*); the meanings being horse, ass, dog. Here Sāyaṇa has not given a meaning for the word śuna; yet the context suggests the above meaning.) In शुनासीरा (*śunāsīrā*) Yāska explains in one way and Śaunaka in another (how, has been stated above). Āśvalāyana (Śrauta Sūtra 2-20) gives alternative meanings: that शुनासीरा (*śunāsīrā*) may be specified as Vāyu, or as Indra, or as the two Indra and Sūrya taken together. From these circumstances,
+
+### Printed p. 634
+
+it may be said that even the great scholars of old who followed the Vedic tradition did not know the precise meaning of these words; so he has stated in his book.
+
+[The feminine word sīrā is used in the mantras 1-174-9; 4-19-8; 10-49-9; 10-97-7; 10-101-3, 4. In all of them the name means rivers. In some places it is used in the singular, in others in the plural. When used in the masculine it means an implement of agriculture (the plough). This will be explained according to the context.]
+
+In the Taittirīya Saṃhitā, at the time of offering the Śunāsīrīya oblation, it is made clear in the mantra इंद्राय शुनासीराय (*iṃdrāya śunāsīrāya*) that Indra is distinct. The commentator, explaining the meaning of this same passage, has said as follows:
+शुनो वायुः सीर आदित्यः । तद्वानिंद्र इहोच्यते अभेदात्मत्वात् । मत्वर्थीयो ना अत्र लुप्यते ॥ (*śuno vāyuḥ sīra ādityaḥ | tadvāniṃdra ihocyate abhedātmatvāt | matvarthīyo nā atra lupyate ‖*) (Tai. Saṃ. Bhā. 1-8-7-1) **NOTE**
+इंद्राय शुनासीराय (*iṃdrāya śunāsīrāya*) means "addressed to Indra accompanied by Śunāsīra". शुनासीराय (*śunāsīrāya*) stands for शुनासीरवते (*śunāsīravate*) (to Indra), in which the matvarthīya affix is dropped; he explains that the purport is "to Indra accompanied by Vāyu and Āditya". Hence it became clear that Indra is different from Śunāsīra. Keith, in translating this same passage, has stated that it may also be possible to take the word śuna in Śunāsīra as गुळ (*guḷa*) and the word sīra as "plough". **NOTE**  (Macdonell has explained this in detail in the book Vedic Mythology; its substance too is the same as the explanations above.)
+
+Whatever the meaning of the word Śunāsīra, the Śunāsīrīya oblation is very famous and its praise is stated in many places. The Śatapatha Brāhmaṇa, stating the importance of this same Śunāsīrīya oblation, also gives another meaning, specific to that place, for the words Śuna and Sīra:
+अथ यस्माच्छुनासीरैण यजेत । या वै देवानाग्ं श्रीरासीत्साकमेधैरीजानानां विजिग्यानानां तच्चुनमथ यः संवत्सरस्य प्रजितस्य रस आसीत्तत्सीरग्ं सा या चैव देवानाग्ं श्रीरासीत्साकमेधैरीजानानां विजिग्यानानां य उ च संवत्सरस्य प्रजितस्य रस आसीत्तमेवैतदुभयं परिगृह्यात्मन्नुरुते तस्माच्छुनासीरैण यजते ॥ (*atha yasmācchunāsīraiṇa yajeta | yā vai devānāgṃ śrīrāsītsākamedhairījānānāṃ vijigyānānāṃ taccunamatha yaḥ saṃvatsarasya prajitasya rasa āsīttatsīragṃ sā yā caiva devānāgṃ śrīrāsītsākamedhairījānānāṃ vijigyānānāṃ ya u ca saṃvatsarasya prajitasya rasa āsīttamevaitadubhayaṃ parigṛhyātmannurute tasmācchunāsīraiṇa yajate ‖*)
+(Śa. Brā. 2-6-3-2)
+
 ---
 
-**Progress note:** Done through printed p. 628. pp. 623-628 (batch API)
+**Progress note:** Done through printed p. 634. pp. 629-634 (batch API)
