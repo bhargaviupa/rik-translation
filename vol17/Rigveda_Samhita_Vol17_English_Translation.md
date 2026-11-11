@@ -8987,6 +8987,251 @@ The unsurpassed and abundant greatness of heaven and earth is described: they br
 
 "Who (को (*ko*)) truly knows (अद्धा वेद (*addhā veda*)) such a true matter? Who here (इह (*iha*)) will declare (प्र वोचत् (*pra vocat*)) what is known about it? What is said? With reference to the gods (देवानच्छ (*devānaccha*)), what path (पथ्या (*pathyā*)), good and proper on the road, goes (समेति (*sameti*)) rightly, arrives properly? No one knows this matter; no one tells it." Do those gods then exist? He answers: certainly. The lower (अवमा (*avamā*)), downward-facing abodes (सदांसि (*sadāṃsi*)) of these gods, who stand in the sky in the form of stars, are seen (ददृश्रे (*dadṛśre*)). Yet in the highest (परेषु (*pareṣu*)), hidden (गुह्येषु (*guhyeṣu*)), hard-to-know rites (व्रतेषु (*vrateṣu*)) that are performed, which …
 
+### Printed p. 242
+
+> दिवि देवस्थानानि लभ्यंते तत्रागंतुं को मार्ग इति वेदमंतरेण न कश्चिज्ञानातीत्यभिप्रायः ॥ अद्धा । स्वरादिसंतोदात्तत्वेन पठितश्वादंतोदात्तः । वोचत् । ब्रूञ्
+> व्यक्तायां वाचि लुजि ब्रुवो वचिरिति वच्यादेशः । अस्यतिवक्तिख्यातिभ्य इति चेरजादेशः । वच उमित्युमागमः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa concludes his comment on the previous verse. The abodes of the gods are to be found in heaven, and no one but the Veda knows the road by which to reach them; this is the intended sense. The rest of the block is grammatical (the accent of अद्धा (*addhā*), the formation of वोचत् (*vocat*)) and is left to the grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्धा (*addhā*)—the path that makes known the true meaning
+- कः वेद (*kaḥ veda*)—who indeed knows
+- इह (*iha*)—in this matter
+- कः (*kaḥ*)—who indeed
+- प्र वोचत् (*pra vocat*)—can declare the settled meaning
+- का पथ्या (*kā pathyā*)—what path
+- देवान् अच्छ (*devān accha*)—facing the gods
+- समेति (*sameti*)—takes one along (that too no one can know)
+- एषाः (*eṣāḥ*)—of these gods who are in the form of stars
+- अवमा (*avamā*)—downward-facing
+- सदांसि (*sadāṃsi*)—only the abodes
+- ददृश्रे (*dadṛśre*)—are seen
+- परेषु (*pareṣu*)—and the superior
+- गुह्येषु (*guhyeṣu*)—and the hidden
+- व्रतेषु (*vrateṣu*)—of the gods engaged in rites
+- या (*yā*)—whichever abodes there are (no one can know them)
+
+##### भावार्थ (Bhāvārtha)
+
+Who indeed knows the path that makes known the true meaning? Who in this matter can declare the settled meaning? No one can know the path that leads one towards the gods. Only the downward-facing abodes of the gods who are in the form of stars are seen. No one can know the hidden abodes of the gods who are engaged in rites that are both superior and mysterious.
+
+##### English translation (H. H. Wilson)
+Who knows what is the truth, or who may here declare it? what is the proper path that leads to the gods? their inferior abiding places are beheld, as are those which (are situated) in superior mysterious rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+By the sentences को अद्धा वेद क इह प्रवोचत् का पथ्या अच्छा देवान् समिति (*ko addhā veda ka iha pravocat kā pathyā acchā devān samiti*) it is said that the nature of the gods, and the straight path by which to obtain their grace, can neither be known with certainty by anyone nor even be made known to others. It is also said that the greatness of Heaven and Earth, who contain such gods as if in subtle form, is beyond turning back. And it is said that this path, which is suited to reaching these gods seen in the form of stars, can be known through knowledge of the meaning of the Vedas and through performance of the rites the Vedas teach; thus the
+
+### Printed p. 243
+
+abundant greatness of the Vedas is declared. Sāyaṇa has expressed this idea in the sentence या परेषु गुह्येषु व्रतेषु ददृश्रे (*yā pareṣu guhyeṣu vrateṣu dadṛśre*) — उत्तमेषु दुर्ज्ञानेषु कर्मसु अनुष्ठितेषु यानि दिवि देवस्थानानि लभ्यंते तत्रा गंतुं को मार्ग इति वेदमंतरेण न कश्चित् जानाति (*uttameṣu durjñāneṣu karmasu anuṣṭhiteṣu yāni divi devasthānāni labhyaṃte tatrā gaṃtuṃ ko mārga iti vedamaṃtareṇa na kaścit jānāti*).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विर्नृ॒चक्षा॑ अ॒भि षी॑मचष्ट ऋ॒तस्य॒ योना॒ विघृ॑ते॒ मदं॑ती।  
+> नाना॑ चक्राते॒ सद॑नं॒ यथा॒ वेः स॑मा॒नेन॒ क्रतु॑ना संविदा॒ने॥
+
+> *kavirnṛcakṣā abhi ṣīmacaṣṭa ṛtasya yonā vighṛte madaṃtī|*  
+> *nānā cakrāte sadanaṃ yathā veḥ samānena kratunā saṃvidāne‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविः । नृचक्षाः । अभि । सीं । अचष्ट । ऋतस्य । योना । विघृते इति विघृते ।  
+> मदंती इति ।  
+> नाना । चक्राते इति । सदनं । यथा । वेः । समानेन । क्रतुना । संविदाने इति  
+> संविदाने ॥ ६ ॥
+
+> *kaviḥ | nṛcakṣāḥ | abhi | sīṃ | acaṣṭa | ṛtasya | yonā | vighṛte iti vighṛte |*  
+> *madaṃtī iti |*  
+> *nānā | cakrāte iti | sadanaṃ | yathā | veḥ | samānena | kratunā | saṃvidāne iti*  
+> *saṃvidāne ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतदर्शि नृचक्षा नृणां द्रष्टा सूर्यः सीमेते द्यावापृथिव्यावभ्यचष्ट । सर्वतः पश्यति । ऋतस्य योना जलस्य स्थानेऽंतरिक्षे मदंती हृष्यंत्यौ
+> विघृते । घृतमस्या ओषधयो जलममुष्या इति । एवंविधरसोपेते समानेन ।
+> समानमेतदुदकमुच्चैत्यव चाहभिः । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नय
+> इति परस्परप्रीणनाख्येनैकेन क्रतुना कर्मणा संविदाने परस्परमैकमत्यं प्राप्ते
+> ते द्यावापृथिव्यौ नाना पृथग्भूतं सदनं स्थानं चक्राते । तथा च श्रुतिः । इमौ वै
+> लोकौ सहास्तां तौ व्यैतामिति । तत्र दृष्टांतः । यथा वेः कुलायं नाना भवति
+> तद्वत् ॥ अचष्ट । चक्षिज् व्यक्तायां वाचीत्यस्य लजः स्कोः संयोगाद्योरिति
+> ककारलोपः । निघातः । संविदाने । विद ज्ञान इत्यस्य समो गमीत्यादिनात्मनेपदे
+> शानच् । चित्तावंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+कविः (*kaviḥ*) is the far-seeing one; नृचक्षाः (*nṛcakṣāḥ*) is the beholder of men, the Sun. He looks all round at these two, Heaven and Earth (सीं (*sīṃ*)). ऋतस्य योना (*ṛtasya yonā*): in the place of water, the atmosphere, the two are rejoicing. विघृते (*vighṛte*): of one of them the ghee is the herbs, of the other the water, as the text says, "ghee of this one is the herbs, water of that one"; so they are endowed with such juices. समानेन (*samānena*): "common is this water, rising and falling with the days; the clouds gladden the earth, the fires gladden the sky." Thus, by one rite, called the mutual gratifying, the two have attained mutual agreement (संविदाने (*saṃvidāne*)); yet Heaven and Earth have made (चक्राते (*cakrāte*)) separate abodes (नाना सदनं (*nānā sadanaṃ*)). The śruti says likewise: "These two worlds were together; they parted." The illustration: as the nest of a bird is separate, so are theirs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the far-seeing one
+- नृचक्षाः (*nṛcakṣāḥ*)—Āditya, who looks upon all creatures
+- सीं (*sīṃ*)—these Heaven and Earth
+- अभि अचष्ट (*abhi acaṣṭa*)—looks at all round
+- ऋतस्य (*ṛtasya*)—of water
+
+### Printed p. 244
+
+- योना (*yonā*)—in the atmosphere, the place of origin
+- मदंती (*madaṃtī*)—rejoicing
+- विघृते (*vighṛte*)—Heaven and Earth, of diverse juices
+- वेः यथा (*veḥ yathā*)—as birds build separate nests
+- नाना (*nānā*)—different
+- सदनं (*sadanaṃ*)—dwelling-place
+- चक्राते (*cakrāte*)—though they have made
+- समानेन क्रतुना (*samānena kratunā*)—by rites that help one another
+- संविधाने (*saṃvidhāne*)—they have attained agreement
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya, the far-seeing one, who looks upon all creatures, looks all round at these Heaven and Earth. Though Heaven and Earth, rejoicing in the atmosphere, the place where water originates, and of diverse juices, have made separate dwelling-places, as birds build separate nests, they have attained agreement through rites that help one another.
+
+##### English translation (H. H. Wilson)
+The far-seeing beholder of mankind (the sun), surveys this heaven and earth, rejoicing when deficient in moisture in the womb of the waters (the firmament), both concurrnig in community (of function), although they occupy various dwellings, like the diversified nests of a bird.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतस्य योना मदंती विधृते समानेन क्रतुना संविदाने (*ṛtasya yonā madaṃtī vidhṛte samānena kratunā saṃvidāne*)—जलस्य स्थाने अंतरिक्षे हृष्यंत्यौ परस्परमैकमत्यं प्राप्ते ते द्यावापृथिव्यौ । (*jalasya sthāne aṃtarikṣe hṛṣyaṃtyau parasparamaikamatyaṃ prāpte te dyāvāpṛthivyau |*). The word ṛta is listed among the names of water (Ni. 3-24). Heaven and Earth dwell in joy in the atmosphere, where all the waters gather. They practise mutual helpfulness: the atmosphere supplies water to the earth, and the earth supplies the ghee fit for sacrifice. By this exchange of work the two bring about each other's growth. Sāyaṇa explains this idea with परस्परप्रीणनाख्यॆन कर्मणा परस्परमैकमत्यं प्राप्ते (*parasparaprīṇanākhyèna karmaṇā parasparamaikamatyaṃ prāpte*) and quotes the sentence समानमेतदुदकमुच्छैत्यवचाहभिः । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः (*samānametadudakamucchaityavacāhabhiḥ | bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ*) (Ṛ. Saṃ. 1-164-51).
+From these activities of Heaven and Earth, नाना सदनं चक्राते (*nānā sadanaṃ cakrāte*)—पृथग्भूतं स्थानं चक्राते (*pṛthagbhūtaṃ sthānaṃ cakrāte*): they have made separate places. Having explained the meaning thus, Sāyaṇa cites on this point the sentence इमौ वै लोकौ सहा स्तां तौ वैतां (*imau vai lokau sahā stāṃ tau vaitāṃ*) (Ai. Brā. 4-27).
+
+### Printed p. 245
+
+यथा वेः—कुलायं नाना भवति तद्वत् (*yathā veḥ—kulāyaṃ nānā bhavati tadvat*): as a bird builds its nests in many ways to suit itself, so Heaven and Earth have made places of many kinds; this too is explained. Moreover, their living in agreement is for the benefit of the world. That the Āditya also helps in this matter is stated by the sentence नृचक्षाः सीं अभि अचष्ट (*nṛcakṣāḥ sīṃ abhi acaṣṭa*)—नृणां द्रष्टा सूर्यः एतौ द्यावापृथिवी सर्वतः पश्यति (*nṛṇāṃ draṣṭā sūryaḥ etau dyāvāpṛthivī sarvataḥ paśyati*).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒न्या वियु॑ते दू॒रेअं॑ते ध्रु॒वे प॒दे त॑स्थतुर्जाग॒रूके॑।  
+> उ॒त स्वसा॑रा युव॒ती भवं॑ती॒ आदु॑ ब्रुवाते मिथु॒नानि॒ नाम॑॥
+
+> *samānyā viyute dūreaṃte dhruve pade tasthaturjāgarūke|*  
+> *uta svasārā yuvatī bhavaṃtī ādu bruvāte mithunāni nāma‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समान्या । वियुते इति वियुते । दूरेअंते इति दूरेअंते । ध्रुवे । पदे ।  
+> तस्थतुः । जागरूके इति ।  
+> उत । स्वसारा । युवती इति । भवंती इति । आत् । ऊं इति । ब्रुवाते इति । मिथुनानि । नाम ॥ ७ ॥
+
+> *samānyā | viyute iti viyute | dūreaṃte iti dūreaṃte | dhruve | pade |*  
+> *tasthatuḥ | jāgarūke iti |*  
+> *uta | svasārā | yuvatī iti | bhavaṃtī iti | āt | ūṃ iti | bruvāte iti | mithunāni | nāma ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समान्या समाने परस्परप्रीणनाख्येन कर्मणैकमत्यं गते वियुते वियुज्य
+> वर्तमाने दूरेअंते । दूरेंतोऽवसानं ययोस्ते दूरेअंते । अविनाशिन्यौ
+> ते द्यावापृथिव्यौ जागरूके जागरणशीले सत्यौ ध्रुवेऽविनाशिनि पदेऽंतरिक्षे तस्थतुः ।
+> तिष्ठतः । उतापि च युवती नित्यतरुणे स्वसारा भगिन्यावेकस्मादात्मनो जाते इति
+> भवंती तस्थतुरित्यन्वयः । आदनंतरं मिथुनानि द्वंद्वानि नाम उर्वि पृथ्वी बहुले
+> दूरेअंते रोदसी पुरोहिते इत्यादीनि नामानि ब्रुवाते । ते परस्परं ब्रूतः ।
+> उर्वादिभिर्द्वंद्वनामभिर्दावापृथिव्यावुच्येते इत्यर्थः ॥ समान्या । सुपां सुलुगिति
+> विभक्तेर्डादेशः । दूरेअंते । इण् गतौ । दुरीणो लोपश्च । उ. २-२० । इति
+> रक्षृत्ययो धातोर्लोपश्च । रो रीति रेफलोपः । ढ्रलोप इति दीर्घः । अंतशब्दोऽमेरसिहसीत्यादिना तन्नत्ययांतः । सप्तम्युपमानेति बहुव्रीहिः । हलदंता-
+
+##### Gist of the bhāṣya
+
+समान्या (*samānyā*): the two being common, having reached agreement through the rite called the mutual gratifying; वियुते (*viyute*): remaining apart; दूरेअंते (*dūreaṃte*): those whose end is far away. These two, Heaven and Earth, being imperishable and जागरूके (*jāgarūke*), vigilant, stand in the firm, imperishable station, the atmosphere. Also, being युवती (*yuvatī*), ever young, and स्वसारा (*svasārā*), two sisters born of one self, they stand; this is the construction. After that, मिथुनानि (*mithunāni*), pairs, नाम (*nāma*), names such as उर्वि पृथ्वी बहुले दूरेअंते रोदसी पुरोहिते (*urvi pṛthvī bahule dūreaṃte rodasī purohite*) and others, ब्रुवाते (*bruvāte*), they say to each other; that is, Heaven and Earth are called by pair-names beginning with Urvī. The remainder of the block is grammatical derivation.
+
+### Printed p. 246
+
+> दिति सप्तम्या अलुक् । पूर्वपदस्वरः । जागरूके । जागृ निद्राक्षय इत्यस्मात्ताच्छेल्यार्थे जागरूकः । पा. ३-२-१६५ । इत्येकप्रत्ययः । प्रत्ययस्वरः । स्वसारा । न
+> षट्स्वस्रादिभ्य इति जीपः प्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+This block contains only the remaining grammatical derivations (of जागरूके (*jāgarūke*) and स्वसारा (*svasārā*)), which are left to the grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समान्या (*samānyā*)—those who have attained agreement through mutually helpful acts
+- वियुते (*viyute*)—those who are separate
+- दूरेअंते (*dūreaṃte*)—those who are far away; Heaven and Earth
+- जागरूके (*jāgarūke*)—intent on their tasks
+- ध्रुवे (*dhruve*)—eternal
+- पदे (*pade*)—in the station of the atmosphere
+- तस्थतुः (*tasthatuḥ*)—have been established
+- उत (*uta*)—and
+- युवती (*yuvatī*)—ever young
+- स्वसारा (*svasārā*)—being sisters
+- भवंती (*bhavaṃtī*)—are
+- अदु (*adu*)—afterwards
+- मिथुनानि नाम (*mithunāni nāma*)—names in pairs
+- ब्रुवाते (*bruvāte*)—they designate and call
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth, who have attained agreement through mutually helpful acts and are far away, intent on their tasks, have been established in the eternal station of the atmosphere; and, ever young and sisterly, they are designated and called by names in pairs.
+
+##### English translation (H. H. Wilson)
+Common (in function), disjoined, of distant termination, they remain vigilant in a permanent station : being, as it were, sisters, and ever young : they therefore address each other by twin appellations.
+
+##### विशेषविषयगळु (Special Topics)
+
+Because Heaven and Earth are mutually helpful (that is, for water to gather on the earth the atmosphere, and for water to gather in the atmosphere the earth, carry out their tasks in agreement), though separate in nature they live in agreement. It is described that, being ever young, abiding in an eternal place, being always devoted and intent on their respective tasks, and being born of the Self, they are designated and dealt with by pair-names only.
+आदु मिथुनानि नाम ब्रुवाते (*ādu mithunāni nāma bruvāte*)—आनंतरं उर्व्यादिभिः द्वंद्वनामभिर्द्यावापृथिव्यावुच्येते (*ānaṃtaraṃ urvyādibhiḥ dvaṃdvanāmabhirdyāvāpṛthivyāvucyete*). The Nirukta authors, when reciting the names of Heaven and Earth, have designated them in pair form only. It is explained that their origin, their activity and their state are the chief reason for reciting them thus.
+
+### Printed p. 247
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वेदे॒ते जनि॑मा॒ सं वि॑विक्तो म॒हो दे॒वान्बिभ्र॑ती॒ न  ॑
+> व्यथेते ।  
+> एज॑द्दु॒नं प॑त्यते॒ विश्व॒मेकं॒ चर॑त्पत॒त्रि विषु॑णं॒ वि जा॒तं॥८॥
+
+> *viśvedete janimā saṃ vivikto maho devānbibhratī na*  
+> *vyathete |*  
+> *ejaddunaṃ patyate viśvamekaṃ caratpatatri viṣuṇaṃ vi jātaṃ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । इत् । एते इति । जनिमा । सं । विविक्तः । महः । देवान् । बिभ्रती इति । न ।  
+> व्यथेते इति ।  
+> एजत् । ध्रुवं । पत्यते । विश्वं । एकं । चरत् । पतत्रि । विषुणं । वि । जातं ॥ ८ ॥
+
+> *viśvā | it | ete iti | janimā | saṃ | viviktaḥ | mahaḥ | devān | bibhratī iti | na |*  
+> *vyathete iti |*  
+> *ejat | dhruvaṃ | patyate | viśvaṃ | ekaṃ | carat | patatri | viṣuṇaṃ | vi | jātaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते द्यावापृथिव्यौ विश्वेज्जनिम सर्वाण्यपि भूतजातानि सं विविक्तः । अवकाशप्रदानेन संविभज्य कुरुतः । किंच महो महतो देवानिंद्रसूर्यादीन् सरित्समुद्रपर्वतादींश्च बिभ्रती बिभ्राणे आपि न व्यथेते । न खिद्येते । किंच विजज्जंगमात्मकं ध्रुवं स्थावरात्मकं च विश्वं जगदेकं स्थानं पृथिवीमेव सत्यते । अभिगच्छति ।
+> तथा चरच्चंचलं पशुजातं पतत्रि पक्षिजातं च विषुणं विश्वक् नानारूपमनयोर्मध्यॆ वितिष्ठते । योग्यक्रियाध्याहारः ॥ विविक्तः । विचिर् पृथग्भावे । जुहोत्यादिः ।
+> निघातः । बिभ्रती । डुब्बञ् धारणपोषणयोरित्यस्य शतरि नाभ्यस्ताच्छतुरिति नुमभावः । अभ्यस्तस्वरः । विजत् । एजृ कंपने । शतरि रूपं । सत्यते । पद गतौ । दिवादिरात्मनेपदी । दकारस्य तकारो व्यत्ययेन । निघातः ॥
+
+##### Gist of the bhāṣya
+
+These two, Heaven and Earth, विश्वेज्जनिम (*viśvejjanima*), all beings, सं विविक्तः (*saṃ viviktaḥ*), separate and set apart by giving them room. Further, महः (*mahaḥ*), the great gods, Indra, Sūrya and others, and rivers, seas, mountains and the like, they bear, and yet न व्यथेते (*na vyathete*), they are not wearied. Further, the moving एजत् (*ejat*) and the standing ध्रुवं (*dhruvaṃ*) world, the whole विश्वं (*viśvaṃ*), goes to one place, the earth alone. So too the moving herds of animals चरत् (*carat*) and the flocks of birds पतत्रि (*patatri*), of manifold forms, stand between these two; a suitable verb is to be supplied. The rest of the block is grammatical derivation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these Heaven and Earth
+- विश्वेत् (*viśvet*)—all
+- जनिम (*janima*)—beings
+- सं विविक्तः (*saṃ viviktaḥ*)—have separated and placed in their places
+- महः (*mahaḥ*)—of great nature
+- देवान् (*devān*)—the gods, Indra and others
+- बिभ्रती (*bibhratī*)—though bearing
+- न व्यथेते (*na vyathete*)—they do not suffer weariness
+- विजत् (*vijat*)—what is moving
+- ध्रुवं (*dhruvaṃ*)—and what is standing
+- विश्वं (*viśvaṃ*)—the whole world too
+- एकं (*ekaṃ*)—one place (in the form of the earth)
+- पत्यते (*patyate*)—resorts to
+- चरत् (*carat*)—animals and others that move about
+- पतत्रि (*patatri*)—birds
+- विषुणं (*viṣuṇaṃ*)—being of manifold forms
+- वि (*vi*)—are placed (between Heaven and Earth)
+
 ---
 
-**Progress note:** Done through printed p. 241. pp. 236-241 (batch API, retry 2)
+**Progress note:** Done through printed p. 247. pp. 242-247 (batch API, retry 1)
