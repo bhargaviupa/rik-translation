@@ -4830,6 +4830,8 @@ Since Indra's favour is necessary for victory in battle and the like, we call up
 
 The men (the leaders, human beings) call upon that very Indra in various ways in the battle (समीके (*samīke*) = in battle). The sacrificers, रिरिक्वांसः (*ririkvāṃsaḥ*), who make their own bodies lean (empty them) by austerity, make that same Indra their protector (त्रां (*trāṃ*) = protector; कृण्वत (*kṛṇvata*) = कृण्वते (*kṛṇvate*), they make). When both parties, the sacrificers and the praisers, come together and approach Indra, the renouncer (त्यागं (*tyāgaṃ*) = the giver), then both kinds of men make that same Indra their protector, there being occasion for obtaining (सात् (*sāt*) = gain) a son (तोकस्य (*tokasya*)) and a grandson (तनयस्य (*tanayasya*)). This is the construction.
 
+### Printed p. 138
+
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - नरः (*naraḥ*)—men
@@ -7198,6 +7200,8 @@ O Indra, you made these Dasyus fall from all good qualities. You made the human 
 Indra, you have made these Dasyus devoid of all (good qualities);
 you have made the servile races abject : may you, (Soma and Indra), repel
 (and) destroy (your) enemies: accept (our) homage for their destruction.
+
+### Printed p. 208
 
 #### Ṛk 5
 
@@ -10990,6 +10994,8 @@ The colophon: इति श्रीमद्राजाधिराज पर�
 Here ends the sixth chapter in the second Aṣṭaka of the Ṛgveda-Saṃhitā, with the Bhāṣya of Śrī Sāyaṇa and a Kannada translation.
 
 यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यता देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatā deva vāgīśvara namo 'stute ‖*) शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*).
+
+### Printed p. 293
 
 ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
 
@@ -17838,6 +17844,8 @@ Nasatyas, who are manifold, come with your golden chariot to this sacrifice; dri
 
 O Aśvin deities, whether you are in the sky or on the earth, come to us with your chariot made of gold and of excellent construction. Since the praise, which is to be offered before other sacrifices and is attractive, draws you to us alone, let other sacrificers who desire your help not detain you for their own worship.
 
+### Printed p. 454
+
 ##### English translation (H. H. Wilson)
 Come to our presence, whether from heaven or earth, with your well-constructed golden chariot: let not other devout worshippers detain you, for a prior attraction awaits you (here).
 
@@ -20207,7 +20215,7 @@ The position and honour of the purohita
 
 The power and capacity of the purohita and his greatness have been described by the mantra-seer Vāmadeva in the three verses beginning स इद्राजा प्रतिजन्यानि (*sa idrājā pratijanyāni*) (Ṛ. Saṃ. 4-50-7, 8, 9). The first half of the first of those three mantras is स इद्राजा प्रतिजन्यानि विश्वा शुष्मेण तस्थावभि वीर्येण (*sa idrājā pratijanyāni viśvā śuṣmeṇa tasthāvabhi vīryeṇa*). Its meaning is: the king joined with a purohita overcomes all his enemies by his own capacity. Here सपत्ना (*sapatnā*) means hating enemies. They are explained here by the words भ्रातृव्या (*bhrātṛvyā*) and जन्यानि (*janyāni*). Enemies are people who hate him or whom he hates, who do not wish him well, and who do harm or evil. The sense is that the king joined with a purohita defeats such enemies.
 
-### Printed p. 514
+### Printed p. 513
 By appointing a purohita the king, as it were, keeps within himself the very fire that provides him heaven. आग्नेयो वै ब्राह्मणः (*āgneyo vai brāhmaṇaḥ*) (Tai. Brā. 2-7-3-1): the Śruti statement itself is that the Brahmin is of the nature of fire. **NOTE** For the king the purohita is in the position of the fire called Āhavanīya; that is, he must be regarded as the Āhavanīya fire. The purohita's wife is the Gārhapatya fire; his son is the Dakṣiṇāgni. Therefore, if the king gives to the purohita, his wife and his son the wealth and the like that they desire, it is as though he had made offering in the three fires, Āhavanīya, Gārhapatya and Dakṣiṇa, and satisfied Agni. Moreover, if the king performs homa and the like through the purohita, the Āhavanīya and other fires mentioned above give up their fierce form and remain gentle towards the king, fulfil all his wishes, and also provide that king with attainment of heaven and other worlds, with valour in the form of mental courage, with bodily strength (prowess), with the country and with the subjects, and protect the king lovingly.
 
 त एवैनमशांततनवोऽनभिहुता अनभिप्रीताः स्वर्गाल्लोकान्नुदंते क्षत्राच्च बलाच्च राष्ट्राच्च विशश्च । (*ta evainamaśāṃtatanavo 'nabhihutā anabhiprītāḥ svargāllokānnudaṃte kṣatrācca balācca rāṣṭrācca viśaśca |*)
@@ -20216,6 +20224,8 @@ If the king does not appoint a purohita and does not perform sacrifices and the 
 अग्निर्वा एष वैश्वानरः पंचमेनिर्यत्पुरोहितस्तस्य वाच्यैवैका मेनिर्भवति पादयोरेका त्वच्येका हृदय एकोपस्थ एका ताभिर्ज्वलंतीभिर्दिप्यमानाभिरुपोदेति राजानं स यदाह क्व भगवोऽवात्सीस्तृणान्यस्मा आहरतेति तेनास्य तां शमयति यास्य वाचि मेनिर्भवत्यथ यदस्मा उदकमानयंति पाद्यं तेनास्य तां शमयति यास्य पादयोर्मेनिर्भवत्यथ यदेनमलं कुर्वंति तेनास्य तां शमयति यास्य त्वचि मेनिर्भवत्यथ यदेनं तर्पयंति तेनास्य तां शमयति यास्य हृदये मेनिर्भवत्यथ यदस्यानारुद्धो वेश्मसु वसति तेनास्य तां शमयति यास्कोपस्थे मेनिर्भवति । स एनं शांततनुरभिहुतोऽभिप्रीतः स्वर्गं लोकमभिवहति क्षत्रं च बलं च राष्ट्रं च विशं च स एवैनमशांततनुरनभिहुतोऽनभिप्रीतः स्वर्गाल्लोकान्नुदते क्षत्राच्च बलाच्च राष्ट्राच्च विशश्च ॥ (*agnirvā eṣa vaiśvānaraḥ paṃcameniryatpurohitastasya vācyaivaikā menirbhavati pādayorekā tvacyekā hṛdaya ekopastha ekā tābhirjvalaṃtībhirdipyamānābhirupodeti rājānaṃ sa yadāha kva bhagavo 'vātsīstṛṇānyasmā āharateti tenāsya tāṃ śamayati yāsya vāci menirbhavatyatha yadasmā udakamānayaṃti pādyaṃ tenāsya tāṃ śamayati yāsya pādayormenirbhavatyatha yadenamalaṃ kurvaṃti tenāsya tāṃ śamayati yāsya tvaci menirbhavatyatha yadenaṃ tarpayaṃti tenāsya tāṃ śamayati yāsya hṛdaye menirbhavatyatha yadasyānāruddho veśmasu vasati tenāsya tāṃ śamayati yāskopasthe menirbhavati | sa enaṃ śāṃtatanurabhihuto 'bhiprītaḥ svargaṃ lokamabhivahati kṣatraṃ ca balaṃ ca rāṣṭraṃ ca viśaṃ ca sa evainamaśāṃtatanuranabhihuto 'nabhiprītaḥ svargāllokānnudate kṣatrācca balācca rāṣṭrācca viśaśca ‖*) (Ai. Brā. 40-24)
 
 The influence of this purohita is described in another way. The word मेनि (*meni*) used here means the disposition to do harm in anger. The meaning is: just as the flames of a fire burn those who touch them. Therefore the purohita is equal to the fire called Vaiśvānara. In him there are five kinds of मेनि (*meni*), that is, five kinds of power and capacity to do harm. They are: speech, the feet, the skin, the heart, the generative organ; these are the places. In these there are powers and capacities to do harm. The way of removing them and making the purohita calm is this: when the purohita comes to the king, the king should receive that purohita with respect and honour him, and speak kindly words: "O purohita, where have you been all this time? From where have you graciously come?"; and then say to the attendants: "O servants, quickly bring an excellent seat of kuśa grass for the purohita to sit on." By saying so, the मेनि (*meni*) (power to do harm) connected with speech in the purohita is removed, and he becomes appeased towards the king and bestows favour. By bringing water for honouring that purohita, that is, for washing his feet, and attending on him, the मेनि (*meni*) in the feet is quieted. If he is attended with garments, perfumes and the like, the मेनि (*meni*) connected with the skin is calmed. By giving that purohita the wealth and the like that he likes, the मेनि (*meni*) in the heart is calmed. When the king says to the purohita: "Sir, this royal house is yours. Here you have complete freedom. Behaving as you please, you may live here happily. No one will cause you any kind of trouble"—and the like courteous words—the मेनि (*meni*) connected with the generative organ is removed. Therefore such attentions must be paid to a purohita who has come to the house. If he is attended in the prescribed manner, Agni or the purohita becomes gentle in nature towards the king and by the homa and the like that the king performs secures for him the desired ends, heaven and the rest. If it is not so, and the purohita who has come to the house is slighted with contempt, then that king obtains neither heaven and the like nor any of the comforts and riches such as vigour, prowess, strength, realm and subjects.
+
+### Printed p. 514
 
 [Agni protects the king who appoints a purohita and performs sacrifices and the like with his help]
 अग्निर्वा एष वैश्वानरः पंचमेनिर्यत्परोहितस्ताभी राजानं परिगृह्य तिष्ठति समुद्र इव भूमिं । (*agnirvā eṣa vaiśvānaraḥ paṃcameniryatparohitastābhī rājānaṃ parigṛhya tiṣṭhati samudra iva bhūmiṃ |*) (Ai. Brā. 40-25)
@@ -20544,6 +20554,8 @@ Thus ends, in the Mādhavīya Vedārthaprakāśa, the Ṛksaṃhitā-bhāṣya c
 Here ends the seventh adhyāya in the third aṣṭaka of the Ṛgveda Saṃhitā, with the Bhāṣya of Śrī Sāyaṇa and with the Kannada translation.
 
 यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यता देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatā deva vāgīśvara namo 'stute ‖*) शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*)
+
+### Printed p. 525
 
 ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
 
@@ -24948,6 +24960,8 @@ The use (viniyoga) of this Ṛk has been stated in the Special Topics of the fou
 > ॥ देवता—अग्निः सूर्यो वापो वा गावो वा धृतं वा ॥
 > ॥ छंदः—१-१०, त्रिष्टुप् । ११. जगती ॥
 
+### Printed p. 644
+
 ##### Gist of the bhāṣya
 
 The sūkta beginning समुद्रादूर्मिः (*samudrādūrmiḥ*) has eleven Ṛks (the Kannada says thirteen Ṛks) **NOTE**. It is the thirteenth sūkta in the fifth anuvāka. The last verse is in Jagatī, the rest in Triṣṭubh. The deity is any one of Agni, Sūrya, the waters, the cows (their product) and ghee. The seer is Vāmadeva. The Anukramaṇikā says: समुद्रादूर्मिरेकादशाग्नियं जगत्त्यंतं सौर्यं वापं वा गव्यं वा घृतस्तुतिर्वेति (*samudrādūrmirekādaśāgniyaṃ jagattyaṃtaṃ sauryaṃ vāpaṃ vā gavyaṃ vā ghṛtastutirveti*): the eleven verses are addressed to Agni, ending in a Jagatī, or to Sūrya, or to the waters, or to the cows' product, or are a praise of ghee. This sūkta is the ājya-śastra in the Viṣuvat (day), and the sūtra says: समुद्रादूर्मिरित्याज्यं त्यं सुमेषं (*samudrādūrmirityājyaṃ tyaṃ sumeṣaṃ*) (Ā. 8-6). In the Vyūḍha Daśarātra, on the seventh day, this very sūkta is the ājya (-śastra); it is written: अथ छंदोमाः समुद्रादूर्मिरित्याज्यं (*atha chaṃdomāḥ samudrādūrmirityājyaṃ*) (Ā. 8-9). The Kannada anuvāda repeats this and adds that the use is described in the Āśvalāyana Śrauta Sūtra. The particulars: Maṇḍala 4, Anuvāka 5, Sūkta 58, Aṣṭaka 3, Adhyāya 8, Vargas 10 and 11; Ṛks in the sūkta 11; seer Vāmadeva; deity Agni, or Sūrya, or the waters, or the cows, or ghee; metre: verses 1–10 Triṣṭubh, verse 11 Jagatī.
@@ -25892,7 +25906,7 @@ Details of the other seers in the Fifth Maṇḍala (apart from Atri), and the s
 
 Including the seer Atri, the seer of the maṇḍala, there are 50 seers in this maṇḍala. In this maṇḍala there are 6 anuvākas, 87 sūktas and in all 727 ṛks.
 
-### Printed p. 675
+### Printed p. 674
 
 **Introduction to the seer Atri, the seer of the maṇḍala**
 
@@ -25911,6 +25925,8 @@ Vāgdevī, taking a human body, came to this Dakṣa sacrifice which Prajāpati 
 शुक्रं चस्यंद तद्वायुरग्नौ प्रास्यदृच्छया । ततोर्चिभ्यो भृगुर्जज्ञे अंगारेष्वंगिरा ऋषिः ॥ प्रजापतिगू वरुणनिगू कामविकारवुंटादुदरिंद अवर रेतस्सु स्खलितवागि पतितवायितु. वायुवु अदन्नु हिडिदु तन्न इष्टबंदंतॆ अग्नियल्लि चदुरिसिदनु. आग आ रेतस्सु अग्नियल्लि प्रवेशिसि दॊडनॆये, अग्नि ज्वालॆयिंद भृगुवू, अंगारदिंद (कॆंडदिंद) अंगिराऋषिग (*śukraṃ casyaṃda tadvāyuragnau prāsyadṛcchayā | tatorcibhyo bhṛgurjajñe aṃgāreṣvaṃgirā ṛṣiḥ ‖ prajāpatigū varuṇanigū kāmavikāravuṃṭādudariṃda avara retassu skhalitavāgi patitavāyitu. vāyuvu adannu hiḍidu tanna iṣṭabaṃdaṃtè agniyalli cadurisidanu. āga ā retassu agniyalli praveśisi dòḍanèye, agni jvālèyiṃda bhṛguvū, aṃgāradiṃda (kèṃḍadiṃda) aṃgirāṛṣiga*)
 
 Because desire arose in Prajāpati and Varuṇa, their semen was discharged and fell. Vāyu took it and scattered it into the fire as he pleased. As soon as that semen entered the fire, Bhṛgu was born from the flame of the fire, and the seer Aṅgirā from the ember (aṅgāra).
+
+### Printed p. 675
 
 प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वागभ्यभाषत । आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥ (*prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*)
 
@@ -27603,6 +27619,8 @@ Concerning the matter described in the first Ṛk of this sūkta, the commentato
 
 In the Ikṣvāku line there was a king named Tryaruṇa, the son of Trivṛṣṭa. He had a purohita named Vṛśa, the son of Jana and a great Ṛṣi. There was a custom that when the king and the purohita went out together, the purohita should act as charioteer and drive the chariot. Accordingly Vṛśa, holding the reins of the horses, was driving the chariot. On this occasion a Brahmin's boy was playing on the path of the chariot. The wheel of the chariot ran over the boy, and the boy died at once. A dispute arose between the two as to who was a sharer in the sin arising from the death. The king said that the purohita himself, since he was driving the chariot, was the sharer in the sin; the purohita said that the king, since he was the master of the chariot, was the sharer. Thus each began to lay the fault on the other. Then the two put their dispute before the assembly of the Ikṣvākus. There it was decided that the fault was the purohita's. (That the dispute was thus put before the assembly, and that the assembly announced its decision, is not in the Bṛhaddevatā verses quoted earlier.) As soon as it was decided that he was the sharer in the sin, because restraining the speed of the chariot is the duty of the charioteer and Vṛśa, being the charioteer, had not done it, the Ṛṣi received the vision of a sāman-mantra called the Vārśa-sāman, recited that mantra, and by its power brought the dead boy back to life. But he became angry with the Ikṣvākus, who had wrongly laid the fault upon him and pronounced a decision against him, and cursed them: "In their house let vigour and splendour be lost to the fire that is kindled there." And he abandoned them and went away. (There is a Bṛhaddevatā statement that he went to the king of that country and joined him.) As a result of that curse all the splendour of the fire established in the house of the Ikṣvākus was lost. अग्नौ प्रास्तानि हव्यानि न हैपच्यंत कानिचित् (*agnau prāstāni havyāni na haipacyaṃta kānicit*). Because the splendour of the fire was lost, the oblations and the like offered in that fire were not cooked, and since there was no fire in the kitchen either, cooking and the like could not be done.
 
+### Printed p. 738
+
 So they all, in distress, went to the place where Vṛśa was, entreated him, and brought him back. Then, when he again recited the Vārśa-sāman, the mantra he had recited before, the lost splendour of the fire reappeared. (Up to here the story fits the setting. But the same matter is continued and the story is further developed.) Because he had cursed them as soon as he was displeased earlier, the guilt of Brahmin-slaying, dwelling in the form of the wife of Trasadasyu and in the guise of a Piśācī, carried off the splendour of the fire and hid it in her garment. Vṛśa discovered this, freed the haras (the splendour of the fire) from there and joined it again to the fire. At once the fire blazed up and began to cook the oblations and the like offered in it. (The Bṛhaddevatā tells that Vṛśa recited the mantra with reference to the guilt of Brahmin-slaying in the form of a Piśācī. This was quoted earlier.)
 
 The story told so far has been set out as Śāṭyāyana the great Ṛṣi has told it. Now the difference in the part of the story told in the Tāṇḍya-brāhmaṇa will be set out. When King Trasadasyu entreated Vṛśa to become his purohita and remove his guilt of Brahmin-slaying, Vṛśa became his purohita again, and by the power of the Vārśa-sāman he revived the dead boy. Thus the greatness of Vṛśa is praised. This is the setting of the story.
@@ -27612,7 +27630,7 @@ Because there is this introduction in story form, it must be said that in the pr
 (Bṛ. De. 5-20)
 It says that Vṛśa, seated on one seat with that wife of Tryaruṇa in the form of a Piśācī, recited the mantra कमेतं त्वं युवते कुमारं (*kametaṃ tvaṃ yuvate kumāraṃ*) (5-2-2). Since Sāyaṇa there (5-2-2) explains पेषी हिंसिका पिशाचिका सती (*peṣī hiṃsikā piśācikā satī*) **NOTE** as "a young woman who is a Piśācī", it would not be unsuitable to explain the word युवति (*yuvati*) in the first mantra, that is, in the present mantra, also as the Piśācī woman. One kind of meaning can be given: she does not give to the protector, the sacrificer, the fire in the form of a boy (अग्नेरुत्पाद्यमानत्वात् कुमारशब्देन व्यवहारः (*agnerutpādyamānatvāt kumāraśabdena vyavahāraḥ*)), having hidden him. This meaning fits the setting of the story and the explanation given in the Bṛhaddevatā.
 
-### Printed p. 740
+### Printed p. 739
 
 But Sāyaṇa has explained the word कुमार (*kumāra*) as the boy killed by the chariot wheel, and said that this young woman, not offering him to his father, keeps him hidden within herself, and that therefore this is the praise. This meaning does not seem so appropriate. Moreover, the second half has not been explained so as to agree with it. Therefore it is proper to explain the word "kumāra" here as Agni. Sāyaṇa's second, alternative explanation supports this meaning. It is this:
 माता सर्वस्य निर्मात्री पृथिवी समुब्बं सम्यक् निगूढं गुहा बिभर्ति । न ददाति पित्रे । (*mātā sarvasya nirmātrī pṛthivī samubbaṃ samyak nigūḍhaṃ guhā bibharti | na dadāti pitre |*)
@@ -27629,6 +27647,8 @@ In these and many other contexts Agni is praised as one who, though in the form 
 
 बोधद्यन्ना हरिभ्यां कुमारः साहदेव्यः । अच्छा न हूत उदरं । (*bodhadyannā haribhyāṃ kumāraḥ sāhadevyaḥ | acchā na hūta udaraṃ |*)
 (4-15-7)
+### Printed p. 740
+
 उत क्या यजता हरी कुमारात्साहदेव्यात् । प्रयता सद्य आ ददे ॥ (*uta kyā yajatā harī kumārātsāhadevyāt | prayatā sadya ā dade ‖*)
 (4-15-8)
 
