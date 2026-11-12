@@ -88,6 +88,149 @@ Translator,
 H. P. Venkata Rao,
 Āsthāna Mahāvidvān
 
+### Printed p. 1
+## Sūkta 137 (Maṇḍala 1)
+
+Om. Śrī. Homage to the Lord of the Gaṇas, Mahāgaṇādhipati. The prefatory verses salute Gajāsana (Gaṇeśa), at whose worship Vāgīśa (Brahmā) and the other gods become successful in all undertakings. They salute Vidyātīrtha-Maheśvara, whose breath is the Vedas and who from the Vedas made the whole world. They state that the Veda is Śiva and Śiva is the Veda, that Sadāśiva is the student of the Veda, and that therefore one should always recite the Veda itself with all effort.
+
+Ṛgveda Saṃhitā with Sāyaṇa's commentary, Part 11. The Second Adhyāya in the Second Aṣṭaka. The 137th Sūkta in the First Maṇḍala.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ द्वितीयाष्टके द्वितीयोऽध्याय आरभ्यते । सुषुमा यातमिति तृचात्मकं
+> चतुर्थं सूक्तं पारुच्छेपमतिशाक्वरं षष्ट्यक्षरोपेतत्वात् । पूर्वत्र तुशब्द प्रयोगान्मैत्रावरुणं । अत्रात्यष्टिपरिभाषा नाश्रीयतेऽतिशाक्वरमिति वितेषितत्वात् । अत्रानुक्रमणिका ! सुषुम तृचमतिशाक्वरमिति ॥ दशरात्रस्य षष्ठेऽहनि प्रातःसवने प्रलुग
+
+##### Gist of the bhāṣya
+
+The second adhyāya of the second aṣṭaka now begins. The sūkta "suṣumā yātam" consists of three ṛks and is the fourth sūkta (of this anuvāka). Its seer is Pārucchepa (Paruchchepa). Because each ṛk has sixty syllables it is of the Atiśakvarī metre; the rule of the atyaṣṭi is not applied here, since atiśakvarī is expressly stated. Because the word "tu" is used in the earlier sūkta, its deity, Maitrāvaruṇa (Mitra and Varuṇa), carries over here. Sāyaṇa quotes the Anukramaṇikā: "suṣumā tṛcam atiśākvaram". The text then begins to state the use in the Daśarātrā rite, on the sixth day, at the morning pressing, in the Praüga-śastra; the sentence continues on the next page.
+
+### Printed p. 2
+
+> शस्त्र इदं सूक्तं मित्रावरुणदेवत्यं तृतीयतृचं । सूत्रितं च । स्तीर्णं बर्हिरिति
+> तृचौ सुषुमा यातमद्रिभिः । आ. ८-१ । इति ॥ तथास्मिन्नेव मैत्रावरुणस्य प्रस्थितयाज्यायाः पुरस्तादाद्या प्रक्षेपणीया । षष्ठस्य प्रातःसवन इति खंडे सूत्रितं ।
+> सुषुमा यातमद्रिभिः । आ. ८-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, addressed to Mitra and Varuṇa, is used as the third tṛca of the Mitrāvaruṇa recitation. It is prescribed by the sūtra "stīrṇaṃ barhiḥ iti tṛcau suṣumā yātam adribhiḥ" (Ā. 8-1). In the same rite its first ṛk is to be inserted before the Maitrāvaruṇa's prasthita-yājyā; this is prescribed in the section "ṣaṣṭhasya prātaḥsavane" by "suṣumā yātam adribhiḥ" (Ā. 8-1).
+
+##### Anuvāda
+
+Since the first adhyāya of the second aṣṭaka has ended, we now begin the second adhyāya. This sūkta "suṣumā yātaṃ" is the fourth sūkta in the twentieth anuvāka of the first maṇḍala. It has three ṛks. Its seer is Paruchchepa, son of Divodāsa. Since each ṛk has sixty syllables, the ṛks of this sūkta are of the Atiśakvarī metre. Since the Anukramaṇikā uses the word "tu" when naming the deity, Mitra and Varuṇa are the deity here too, as in the preceding sūkta. Since the Anukramaṇikā says "suṣumā tṛcam atiśākvaram", this sūkta of three ṛks is to be known as of the Atiśakvarī metre. In the sacrifice of ten days called Daśarātra, on the sixth day at the morning pressing, when the Praüga-śastra mantras are recited, this sūkta is applied to the recitation of the third tṛca (a tṛca is three ṛks) addressed to Mitra and Varuṇa; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra "stīrṇaṃ barhiḥ iti tṛcau suṣumāyātam adribhiḥ" (Ā. 8. 1). And in this same sacrifice the first ṛk of this sūkta is applied to the prasthita-yājyā mantras relating to Maitrāvaruṇa; this is shown by the sūtra "suṣumā yātam adribhiḥ" in the section "ṣaṣṭhasya prātassavane" of the Āśvalāyana Śrauta-sūtra (Ā. 8-1).
+
+Om. Sūkta 137. Maṇḍala 1, Anuvāka 2, Sūkta 136**NOTE**. Aṣṭaka 2, Adhyāya 2, Varga 1. Number of ṛks in the sūkta: 3. Seer: Paruchchepa**NOTE**. Deity: Mitra and Varuṇa. Metre: Atiśakvarī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒षु॒मा या॑त॒मदि॑भि॒र्गोश्री॑ता मत्स॒रा इ॒मे सोमा॑सो ॒ ॒
+> मत्सरा इमे ।
+
+### Printed p. 3
+#### Ṛk 1 (continued)
+
+> आ राजाना दिविस्पृशास्मत्रा गंतमुप नः ।
+> इमे वां मित्रावरुणा गवाशिरः सोमाः शुक्रा गवाशिरः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुसुम । आ । यातं । अद्रिभिः । गोश्रीताः । मत्सराः । इमे । सोमासः । मत्सराः ।  
+> इमे ।  
+> आ । राजानाः । दिविस्पृशा । अस्मत्रा । गंतं । उप । नः ।  
+> इमे । वां । मित्रावरुणा । गोऽआशिरः । सोमाः । शुक्राः । गोऽआशिरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ आ यातं । अस्मद्यज्ञं प्रत्यागच्छतं । आगमनाय किमस्तीति
+> चेत् तत्राह । अद्रिभिरभिषवसाधनैर्ग्रावभिः सुषुम । सोमं सुतवंतो वयं ॥
+> सुनोतेर्लिटि रूपं ॥ अतो गोश्रीताः । विकारे प्रकृतिशब्दः । पयोभिर्मिश्रिताः ।
+> तस्मान्मैत्रावरुणं पयसा श्रीणातीति हि ब्राह्मणं । मत्सरास्त्रि हेतवः सोमाः ।
+> मत्सरः सोमो मंदतेस्तृप्तिकर्मण इति यास्कः । नि. २-५ । इमेपुरतो गृहीता
+> वर्तंते । आत आ यातं ! पुनस्त एव विशेष्यंते । इमे सोमासो मत्सरा मदहेतवो मादने मात्सर्यवंतो वेतरयज्ञगतसोमेभ्यः सोमाः । कीदृशौ
+> युवां । राजाना राजनशीलौ । दिविस्पृशा द्युलोकवासिनौ ॥ हृद्दुभ्यां जीरुपसंख्यानं । पा. ६-३-९-१ । इत्यलुक् ॥ ईदृश् युवामस्मत्रास्मासु मध्येऽस्मत्पालका वा युवां नोऽस्मत्संबंधिनं यज्ञमुप गंतं । आगच्छतं । किंच हे मित्रावरुणैतन्नामान् देवौ नां युवयोरर्थायेमे सोमा गवाशिरः । पूर्ववद्विकारे प्रकृतिशब्दः । गोभिः क्षीरैराशिरो मिश्रिताः संजाताः । किंच गवाशिरो गोभिरुदकेभिर्मिश्रिताः संजाताः । यद्वा । गोभिः स्तुतिलक्षणैर्मंत्रैर्मिश्रिताः । अत एव
+> शुक्रा दीप्ताः संजाताः । आशिरमव नयति सशुक्रत्वाय । तै. सं. ६-१-५ । इति
+> श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, come: come to our sacrifice." If asked what reason there is for coming, he answers: "adribhiḥ", with the pressing instruments, the stones (grāvan), "suṣuma", we have pressed Soma (a perfect-tense form of su). Hence the Soma is "gośrītāḥ": the word prakṛti stands for the modification, so "mixed with milk"; the Brāhmaṇa says "tasmān maitrāvaruṇaṃ payasā śrīṇāti". "Matsarāḥ": Soma, causes of exhilaration; Yāska says "matsaraḥ somo mandateḥ tṛptikarmaṇaḥ" (Ni. 2-5)**NOTE**. "Ime": these are taken up and stand before us; therefore "come". They are again qualified: "ime somāso matsarāḥ", causes of intoxication, or "possessed of rivalry" in comparison with the Soma of other sacrifices**NOTE**. Of what kind are you two? "Rājānā": shining by nature; "divispṛśā": dwellers in heaven. Among us ("asmatrā") or as our protectors, you two come to "naḥ", our sacrifice. Further, O Mitra and Varuṇa, for your sake these Soma juices are "gavāśiraḥ": as before, the prakṛti stands for the modification, mixed with "go", milk; and again "gavāśiraḥ", mixed with "go", waters; or else mixed with mantras of praise (gobhiḥ). Hence "śukrāḥ", bright. Śruti: "āśiram ava nayati saśukratvāya" (Tai. Saṃ. 6-1-5)**NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa)
+- आ यातं (*ā yātaṃ*)—favour (our sacrifice) with your presence
+- अद्रिभिः (*adribhiḥ*)—with the stones (the instruments of pressing)
+- सुषुम (*suṣuma*)—we have pressed (the Soma juice); therefore
+
+### Printed p. 4
+- गोश्रीताः (*gośrītāḥ*)—mixed with the milk of cows
+- मत्सराः (*matsarāḥ*)—giving satisfaction; the Soma juices
+- इमे (*ime*)—lo, here they are prepared
+- इमे सोमासः (*ime somāsaḥ*)—these Soma juices
+- मत्सराः (*matsarāḥ*)—excellent, vying with the Soma juices of other sacrifices
+- राजाना (*rājānā*)—you who are resplendent
+- दिविस्पृशा (*divispṛśā*)—dwellers in heaven
+- अस्मत्रा (*asmatrā*)—and our protectors
+- नः (*naḥ*)—to our (sacrifice)
+- आ उप गंतं (*ā upa gaṃtaṃ*)—come near
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- नां (*nāṃ*)—for you
+- इमे सोमाः (*ime somāḥ*)—these Soma juices
+- गवाशिरः (*gavāśiraḥ*)—mixed with milk (and)
+- गवाशिरः (*gavāśiraḥ*)—mixed with holy waters
+- शुक्राः (*śukrāḥ*)—bright, or pure
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, favour our sacrifice. For you we have pressed and prepared the Soma juice with the pressing stones. Here, prepared for you, are Soma juices mixed with the milk of cows and giving delight. They are excellent, vying with the Soma juices of other sacrifices. You who are resplendent, dwellers in heaven and our protectors, come to our sacrifice. O Mitra and Varuṇa, for you these Soma juices are mixed with milk, mixed with holy waters, and pure and bright.
+
+##### Printed English
+
+Come, (Mitra and Varuna, to our sacrifice); where we express (the Soma juice) with stones : these juices mixed with milk are exhilarating ; these (juices) are exhilarating : come to us, royal divinities, dwellers in heaven, and our protectors ; these juices are mixed with milk for you, Mitra and Varuna ; they are pure, mixed with milk.
+
+##### विशेषविषयगळु (Special Topics)
+
+अद्रिभिः—अभिषवसाधनैर्ग्रावभिः (*adribhiḥ—abhiṣavasādhanairgrāvabhiḥ*): it means "with the stones that are the instruments for pressing the Soma juice". Although the two words adri and grāva both have in common use the general meaning "stone", it may be said from their descriptions and epithets that the adri and the grāva that serve in pressing the Soma must differ in their very form. Whenever the word adri occurs, Sāyaṇa generally explains it as grāva, and whenever the word grāva occurs, as pāṣāṇa ("stone"). But this difference in meaning is not the basis for showing their difference. From the epithets that describe their form, from the comparisons, and from the sound-indicating words they make while pressing the Soma juice, it is understood that these two instruments are different.
+
+### Printed p. 5
+Babṛhāṇa (5-41-12); parvata (10-94-1); aśramaṇa, aśṛthita, amṛtyu, anātura, ajara, amaviṣṇu (10-94-11), dhruva, kṣemakāma (10-94-12): all these are epithets showing the distinctive quality of the adri. In the same way epithets such as pṛthu and pṛthubudhna show the distinctive quality of the grāva alone. The grāva is generally compared to a bull and the adri to a horse. It was said earlier, with the Nirukta explanations, that the word adri is read both among the names of cloud and among the names of the thunderbolt. In ṛks such as शुष्म इयर्ति प्रभृतो मे अद्रिः (*śuṣma iyarti prabhṛto me adriḥ*) (1-165-4) it is understood as the thunderbolt that devours enemies, and in ṛks such as उत पद्मा रथानामद्रिं (*uta padmā rathānāmadriṃ*) (5-52-9) as cloud or mountain.
+
+गोश्रीताः—पयोभिर्मिश्रिताः (*gośrītāḥ—payobhirmiśritāḥ*): Soma juice mixed with milk. Sentences such as तस्मान्मैत्रावरुणं पयसा श्रीणाति (*tasmānmaitrāvaruṇaṃ payasā śrīṇāti*) (Tai. Saṃ. 6-4-8-1) say that mixing milk into the Soma juice to be offered to Mitra and Varuṇa is a rule of the śāstra. The occasion on which the offering of milk-mixed Soma juice to Mitra and Varuṇa, the presiding deities of day and night, was ordained, and the account of these deities, are told in the Taittirīya Saṃhitā:
+
+मित्रं देवा अब्रुवन्सोमग्ं राजानग्ं हनामेति सोऽब्रवीन्नाहग्ं सर्वस्य वा आहं मित्रमस्मीति तमब्रुवन् हनामैवेति सोऽब्रवीद्वरं वृणै पयसैव मे सोमग्ग् श्रीणन्नि ति तस्मान्मैत्रावरुणं पयसा श्रीणंति । (*mitraṃ devā abruvansomagṃ rājānagṃ hanāmeti so 'bravīnnāhagṃ sarvasya vā āhaṃ mitramasmīti tamabruvan hanāmaiveti so 'bravīdvaraṃ vṛṇai payasaiva me somagg śrīṇanni ti tasmānmaitrāvaruṇaṃ payasā śrīṇaṃti |*) (Tai. Saṃ. 6-4-8)
+
+The gods said to Mitra, "Let us slay Soma, the king." Mitra said that he was a friend to all, and therefore he alone would not agree. But when the gods insisted that they must slay him, Mitra asked as a boon that milk be mixed with the Soma and offered; so the gods mixed milk into the Soma offered to Mitra and Varuṇa. Such is the occasion that is told.
+
+गवाशिरः (*gavāśiraḥ*): the details and use of the āśira substances to be added to the Soma juice are told at length in Ṛgveda Saṃhitā Part 1, page 676, and in Part 2, pages 172 to 174. In this ṛk the word is repeated. For the first word Sāyaṇa explains "gobhiḥ kṣīraiḥ miśritāḥ" (mixed with cows' milk), and for the second "gobhiḥ udakaiḥ miśritāḥ" (mixed with waters), or else "stutilakṣaṇair mantraiḥ" (with mantras of the nature of praise).
+
+### Printed p. 6
+मत्सराः (*matsarāḥ*): this word too is repeated. He has explained it once as "causing intoxication" (madahetu) and the other time as "possessed of rivalry" (mātsaryavantaḥ). The Nirukta authors also give both meanings of this word. मत्सरः सोमो मंदतेस्तृप्तिकर्मणः (*matsaraḥ somo maṃdatestṛptikarmaṇaḥ*) (Ni. 2-25): derived from the root mand, which gives the sense "to cause satisfaction", it is used as a synonym of Soma juice. And the Nirukta authors' explanation of the word is: मत्सर इति लोभनाम (*matsara iti lobhanāma*), "the name matsara, since it shows excessive desire and self-assertion". In the present ṛk the second word matsara means "excellent, vying with the Soma juices of other sacrifices".
+
+##### Grammar
+
+- सुसुम — सुञ् अभिषवे इति धातुः । लिटि प्रथमपुरुषबहुवचने परस्मैपदानां (पा. सू. ३-४-८२) इति मसि मादेशः । धात्वादेःषःसः (पा. सू. ६ १-६४) इति धात्वादेः सत्वम् । लिटि धातोरनभ्यासस्य इति धातोः द्वित्वम् । असंयोगाल्लिट्‌कित् (पा. सू. १-२-५) इति प्रत्ययस्य कित्वातिदेशात् तं निमित्तीकृत्य गुणो न भवति । सुसुम इति रूपं भवति । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- यातम् — या प्रापणे इति धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- गोश्रीताः — गोभिः श्रीताः गोश्रीताः । श्रीञ् पाके इति धातुः । निष्ठा (पा. सू. ३-२ १०२) इति कर्मणि क्तप्रत्ययः । त्रतीया कर्मणि (पा. सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- मत्सराः — मद तृप्तियोगे इति धातुः । चित् इति अनुवृत्तौ कृधूमदिभ्यः कित् (उ. सू. ३-३५३) इति सरप्रत्ययः । तितुत्रतथसिसुसरकसेषुच (पा. सू. ७-२-९) इति प्रत्ययस्य इडागमप्रतिषेधो भवति । प्रत्ययस्य चित्वातिदेशात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- सोमासः — सोमशब्दात् जसि परे आज्ञसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुकागमः ।
+- राजाना — राजृ दीप्तौ इति धातुः । कनिन्‌यु (उ. सू. १-१५४) इति कनिन् प्रत्ययः । संबोधनाद्विवचने औ परे सुपां सुलुक् (पा. सू. ७-१-३९) इति तस्य आकारादेशः । आमंत्रितनिघातस्वरो भवति ।**NOTE**
+
+### Printed p. 7
+- दिविस्पृशा — दिवि स्पृशतः इति दिविस्पौ । स्पृशोऽनुदके क्विन् (पा. सू. ३-२-५८) इति क्विन् प्रत्ययः । हृद्मभ्यां जीरुपसंख्यानम् (पा. सू. ६-३-९-१) इति सप्तम्या अलुग् भवति । पूर्ववत् संबोधने आकारादेशः । अमंत्रितस्य चॆ (पा. सू. ८-१-१७) इति निघातस्वरो भवति ।**NOTE**
+- अस्मत्वा — अस्मद् शब्दः । सप्तम्यंतात् अस्मात् देवमनुष्यपुरुषपुरु—(पा. सू. ५-४-५६) इत्यत्र बहुलग्रहणत्वात् तत्‌सामर्थ्यात् त्रा प्रत्ययः स्वार्थे भवति । प्रत्ययस्तरेण अंतोदात्तो भवति ।**NOTE**
+- गंतम् — गम्‌ल्य गतौ इति धातुः । लोट् मध्यनुपुरुषद्विवचने लज्जद्धानत्वात् तपादेशः । बहुलं छंदसि इति विकरणस्य लुक् । अतः भावेशो न भवति । धातोः मकारस्य व्यत्ययेन अनुस्वारः परनवर्णः । अतिजंतस्य वंशत्वात् निघातस्वरो भवति । अथवा प्रत्ययस्य तप्तनप्तनथनाश्च (पा. सू. ७-१-४५) इति तपादेशः । अपित् सार्वधातुकस्य जृत्वं उक्तत्वात् अस्य जृत्वाभावात् अनुनासिकलोपो न भवति ।**NOTE**
+- मित्रावरुणा — मित्रश्च वरुणश्च मित्रावरुण् । देवताद्वंद्वेच (पा. सू. ६-३.२६) इति पूर्वपदस्य आनहादेशः । द्विवचनस्य सुपां सुलुक् (पा सू. ७-१-३९) इति आकारादेशः । आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒म आ या॑त॒निंद॑वः॒ सोमा॑सो॒ दध्या॑शिर सु॒तासो॒ दध्या॑शिरः ।  
+> उ॒त वा॑मु॒षसो॑ बु॒धि सा॒कं सूर्य॑स्य र॒त्नाभिः॑ ।  
+> सु॒तो मि॒त्राय॒ वरु॑णाय पी॒तये॒ चारु॑र्ऋ॒ताय॑  ॒॑
+> पीतये ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 0; nothing translated yet.
+**Progress note:** Done through printed p. 7. pp. 1-7 (batch API)
