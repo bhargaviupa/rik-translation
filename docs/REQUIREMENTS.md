@@ -220,7 +220,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | Original page numbers out of the body, into the footer (A4) | to change in the print build | to change in the print build |
 | Front-matter order (A2) | Vol 15 built in the old order | not built yet |
 
-The scan-based volumes (1–10, 13) are not in this table: what they need depends on F7 and on the error list (`docs/ERROR_KINDS.md`, in preparation).
+**The scan-based volumes (1–10, 13)** need all of the above and, first, the correction of their reading errors and a Kannada book each (none exists for Vols 2–10 and 13). What goes wrong in them is in `docs/ERROR_KINDS.md`, Part 2; a proposal for doing it at low cost is in `docs/LEGACY_VOLUMES_PLAN.md`. It depends on the supplied machine-read text of those volumes.
 
 ---
 
