@@ -2212,6 +2212,168 @@ This Hotā, the divine Agni (or a human priest), the invoker of the gods, shall 
 
 We, the sacrificers, जगृभ्य (*jagṛbhya*): we take with our ears the श्लोकं (*ślokaṃ*), the voice or sound, of the pressing stone (अद्रेः (*adreḥ*), a generic singular), the instrument of pressing, दूरआदिशं (*dūraādiśaṃ*), whose direction reaches a far place. (The plural is for honour.) Now, with a past-tense sense: सुक्रतुः (*sukratuḥ*), this sacrificer of good deeds, अध (*adha*), after the completion of the sacrifice, त्मना (*tmanā*), himself, अधारयत् (*adhārayat*), holds अररिंदानि (*arariṃdāni*). This is a name of water, since it is read among the names of water. The waters in the form of rain he holds. Several explanations of अररिंदानि (*arariṃdāni*): *rariḥ* is a giver; there is no other giver like this quencher of thirst; so they give thirst-quenching, hence अररिंदानि (*arariṃdāni*). Or *ārariḥ* is going hither and thither (an Uṇādi affix); they give that; the waters are givers of what is desired. The scriptural statement आपोमयः प्राणः (*āpomayaḥ prāṇaḥ*) (Chā. U. 6-5-4) is cited. Or *rariḥ* is gift; such a gift is not found among other beings; they give such a thing; that is, they give enjoyment beneficial to the world which others cannot give. The meaning is that such waters were produced by the sacrifice. Further, सुक्रतुः (*sukratuḥ*), this sacrificer of good deeds, पुरु (*puru*), many, सद्मानि (*sadmāni*), houses fit for comfortable dwelling, he holds.
 
+### Printed p. 90
+
+> यद्वा । बृहस्पतिः सुक्रतुश्चायमध्वर्युरररिंदान्युक्तलक्षणान्यभिषवसाधनान्युदकान्यधारयत् । धारितवान् । तथा सुक्रतुः शोभनप्रज्ञः पुरु सद्मानि सवनानि हविरासादनान्यधारयत् ॥
+
+##### Gist of the bhāṣya
+
+Alternatively, Bṛhaspati, and this Sukratu, the Adhvaryu, held the waters of the kind described (the *ararindāni*), which are the means of pressing the Soma. The word धारितवान् (*dhāritavān*) is given for आधारयत्— (*ādhārayat—*). Likewise Sukratu, the one of excellent understanding, held the many *sadmāni*, here taken as the *savanas* (pressings) and the seats for placing the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the divine invoker Agni, or the human invoker
+- यक्षत् (*yakṣat*)—let him recite the sacrificial verse
+- वनिनः (*vaninaḥ*)—those who desire the oblation
+- वार्यं (*vāryaṃ*)—the desired (oblation)
+- वंत (*vaṃta*)—let them partake of
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati, the priest of the gods, or the Adhvaryu
+- वेनः (*venaḥ*)—desiring (the sacrificial oblation)
+- उक्षभिः (*ukṣabhiḥ*)—with the sprinkling Soma juices (and likewise)
+- पुरुवारेभिः (*puruvārebhiḥ*)—chosen by many
+- उक्षभिः (*ukṣabhiḥ*)—with waters able to sprinkle
+- यजति (*yajati*)—performs the sacrifice
+- वयं (*vayaṃ*)—we, the sacrificers
+- दूर आदिशं (*dūra ādiśaṃ*)—audible from afar
+- अद्रेः (*adreḥ*)—of the stones that press the Soma juice
+- श्लोकं (*ślokaṃ*)—the sound
+- जगृभ्य (*jagṛbhya*)—we hear
+- सुक्रतुः (*sukratuḥ*)—the sacrificer, the performer of excellent rites
+- अध (*adha*)—after the completion of the sacrifice
+- अररिंदानि (*arariṃdāni*)—the waters in the form of rain
+- त्मना (*tmanā*)—in himself
+- आधारयत् (*ādhārayat*)—has obtained
+- सुक्रतुः (*sukratuḥ*)—that same sacrificer, the performer of excellent rites
+- सद्मानि (*sadmāni*)—comfortable houses
+- पुरु (*puru*)—in abundance (he has)
+
+##### भावार्थ (Bhāvārtha)
+
+Let the invoker recite the sacrificial verse; let those who desire the oblation partake of the oblation they desire. The Adhvaryu, desiring the sacrificial oblation, performs the sacrifice with the Soma juices, which sprinkle and are desired by many, and with the pure waters. We, the sacrificers, hear from very far away the sound of the stones that press the Soma juice, reaching our ears. The sacrificer, the performer of excellent rites, after the completion of the sacrifice has obtained the waters in the form of rain and comfortable houses.
+
+##### Printed English
+
+Let the invoker (of the gods) offer sacrifice, and may they, desirous of
+the offering, ( partake of ) the acceptable (libation): Brihaspati himself,
+desiring ( libation), celebrates worship with libations; with copious and
+excellent libations. We catch from a distant quarter the sound of the stones,
+whereby the performer of picus acts has of himself secured the waters (of
+the clouds): the performer of pious acts (has secured) many habitations.
+
+##### विशेषविषयगळु (Special Topics)
+
+होता (*hotā*)—दैव्योग्निर्मानुषो ना देवानामाह्वाता (*daivyognirmānuṣo nā devānāmāhvātā*). Either the human invoker who gives the invitation to the gods, or Agni. यक्षत् (*yakṣat*)—याज्यां पठतु (*yājyāṃ paṭhatu*): let him recite the invocatory hymn.
+
+### Printed p. 91
+Since it is well known as यक्षदग्निर्देवो देवानिति (*yakṣadagnirdevo devāniti*) (Ai. Brā. 10-74), the meaning is "let Agni recite, or let him perform the sacrifice."
+
+बृहस्पतिः (*bṛhaspatiḥ*)—बृहतो मंत्रस्य हविषो ना पालकः अध्वर्युः दैव्यू बृहस्पतिर्वा । (*bṛhato maṃtrasya haviṣo nā pālakaḥ adhvaryuḥ daivyū bṛhaspatirvā |*). That is, the Adhvaryu, protector of the great mantra or of the oblation, or the divine Bṛhaspati.
+
+The author of the Bṛhaddevatā calls this Ṛk a Bārhaspatya Ṛk: मारुत्येका तत ऐंद्राग्न्यनंतरा बार्हस्पत्या चोत्तमा स्तौति देवान् (*mārutyekā tata aiṃdrāgnyanaṃtarā bārhaspatyā cottamā stauti devān*) (Bṛ. De. 4-9). Since Bṛhaspati is the deity of this Ṛk, the word Bṛhaspati may here be taken to mean the deity. Sāyaṇa has also explained it as the Adhvaryu. Since Bṛhaspati too is the priest of the gods, this meaning can also apply to him.
+
+उक्षभिः यजति (*ukṣabhiḥ yajati*)—he sacrifices with the sprinkling Soma juice (by the offering of the juice). The word उक्षभिः (*ukṣabhiḥ*) is repeated: the first word means "with Soma juice", the second means उदकैः (*udakaiḥ*), "with waters".
+
+अद्रेः श्लोकं जगृभ्य (*adreḥ ślokaṃ jagṛbhya*)—we hear the sound of the stone that presses the Soma juice. As stated in बृहस्पतिसुतस्य (*bṛhaspatisutasya*) (Tai. Saṃ. 1-4-27), Bṛhaspati too presses the Soma juice with the stones; hence the meaning is that we hear that sound, which gladdens. Here श्लोक (*śloka*) should be understood as the sound produced by the stones. The difference between the two implements, *adri* and *grāvan*, was shown earlier. For the most part the word श्लोक (*śloka*), in the sense of "sound", is used together with the word अद्रि (*adri*) and shows the distinctive character of the word अद्रि (*adri*).
+
+अररिंदानि (*arariṃdāni*)—the word अररिंद (*arariṃda*) is read among the names of water (Nighaṇṭu 1-12-26). Its derivation can be given in two or three ways. नास्त्यन्नो ररिः पिपासोपशमनस्य तादृशं पिपासोमशमनं ददातीत्यररिंदानि । (*nāstyanno rariḥ pipāsopaśamanasya tādṛśaṃ pipāsomaśamanaṃ dadātītyarariṃdāni |*): nothing else equals it in destroying thirst; since it gives such relief, it is called *ararinda*. Or: अररिः इतश्चेतश्च गमनं (*arariḥ itaścetaśca gamanaṃ*); तद्ददतीत्यररिंदानि उदकानि चेष्टाप्रदानि इत्यर्थः (*taddadatītyarariṃdāni udakāni ceṣṭāpradāni ityarthaḥ*): since it gives the power of moving from place to place, water may be called *ararinda*. Sāyaṇa cites the Upaniṣad sentence आपोमयः प्राणः (*āpomayaḥ prāṇaḥ*) (Chā. U. 6-5-4) and says that, since water is of the nature of life-breath, the second meaning is possible. Besides these two: ररिर्दानं (*rarirdānaṃ*); the word *rari* means a gift. Since it gives an enjoyment that others cannot supply and that benefits the world, the name *ararinda* is explained, and this makes a third derivation possible.
+
+सुक्रतुः (*sukratuḥ*)—this word can mean the sacrificer, the performer of excellent rites, or Bṛhaspati. If it means the sacrificer, अररिंदानि (*arariṃdāni*) should be understood as the water that is the means of the sacrifice; if Bṛhaspati, as water in the form of rain.
+
+### Printed p. 92
+
+##### Grammar
+
+- होता — हु दानादनयोः धातुः । कर्तरि तृन्प्रत्ययः । तन्निमित्तं धातोरिकः गुणः । नित्त्वादाद्युदात्तस्वरः भवति । प्रथमाएकवचनांतरूपम् ।
+- यक्षत् — यज देवपूजासंगतिकरणदानेषु धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः पर—(पा. सू. ३-४-९७) इति अंत्यस्य इकारस्य लोपः । लेटोडाटौ (पा सू ३-४-९४) इति तस्य अडागमः । सिब्बहुलंलेटि (पा. सू. ३-१-३४) इति सिप् । चोःकुः सूत्रेण जकारस्य कुत्वम् । खरिच सूत्रेण चर्त्वम् । प्रत्ययसकारस्य तन्निमित्तं षत्वम् । यक्षत् इति रूपं भवति । अतिजंतस्य परत्वान्निघातस्वरः भवति ।
+- वंत — वन संभक्तौ धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति लोडर्थे लच् । प्रथम पुरुषबहुवचने झोंतः इति अंतादेशः । व्यत्ययोबहुलं इति धातोः परसैपदित्वेऽपि आत्मनेपदित्वं भवति । बहुलं छंदसि इति विकरणस्य (शप्) लुक् । छांदसत्वेन धातोरंत्यस्य लोपः । तिजंतनिघातस्वरः भवति ।
+- वार्यम् — वृज् वरणे धातुः । ऋहलोर्ण्यत् (पा. सू. ३-१-१२४) इति ण्यत् प्रत्ययः । णित्त्वाद् अचोञ्ञिति इति वृद्धिः । ईडवृंद-(पा. सू. ६-१-२१४) इति आद्युदात्तस्वरः भवति ।
+- बृहस्पतिः — तद्बृहतोः करपत्योश्चोरदे—(पा. सू. ६-१-१५७-१) इति सुट् । उभे वनस्पत्यादिषु (पा. सू. ६-२-१४०) इति उभयपदप्रकृतिस्वरः भवति ।
+- यजति — यज देवपूजासंगतिकरणदानेषु धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- वेनः — वेनः कांतिकर्मा इति निरुक्ते उक्तम् । कर्तरि पचादिषु अंतर्भूतत्वाद् अच् प्रत्ययः । चित्त्वाद् अंतोदात्तः भवति ।
+
+### Printed p. 93
+- उक्षभिः — श्वन्नुक्षन्—(उ सू. १-१-५७) इति कनि प्रत्ययांतः निपातितः । प्रत्ययस्य आद्युदात्तस्वरः भवति । तृतीयाबहुवचनांतरूपम् ।
+- पुरुवारेभिः — वृञ् वरणे धातुः । घंञ प्रत्ययः । इत्त्वाद् धातोः ऋकारस्य वृद्धिः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । समासे कृदुत्तरपदप्रकृतिस्वरः भवति । तृतीया बहुवचने बहुलं छंदसि इति भिसः ऐस् भावः न भवति । बहुवचने झल्येत् इति एत्र । **NOTE**
+- जगृभ्य — गृह उपादाने धातुः । छंदसि लुज्लज्लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । उत्तमपुरुष बहुवचने मसः मादेशः । बभूथतंथ जगृभ्य—(पा. सू. ७-२-६४) इति छंदसि इडभावः निपातितः । ह्रग्रहोर्भश्चंदसि इति वचनात् दकारस्य भत्वम् । पादादित्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- दूरेआदिशम् — दूरे आदिक् यस्य सः तन् दूरॆआदिशम् । हलदंतात् सप्तम्याः (पा. सू. ६-३-९) इति समासे सप्तम्याः अलुक् । पूर्वपदप्रकृतिस्वरः भवति ।
+- अध — कथ इत्यत्र छंदसत्वेन वर्णविकारः आगतः ।
+- त्मना — आत्मना इति रूपे संजाते मंत्रेष्वाज्ञादेरात्मनः इति आदेः अकारस्य लोपः ।
+- आधारयत् — धृञ् धारणे धातुः । प्रयोजकव्यापारदर्शनात् हेतुमति च सूत्रेण णिच् । छांदसत्वेन लडर्थे लज् । प्रथमपुरुषएकवचनांतरूपम् । पादादित्वात् निघातस्वरः न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तः भवति ।
+- आररिंदानि — ररिः दाता । रा दाने धातुः । लडर्थे कि प्रत्ययः । नास्त्यन्यो ररिरस्य पिपासोपशमनस्य अररि । तत् ददति इति आररिंदानि । यद्वा आररिः=इतश्च इतश्च गमनम् । औणादिक अरि प्रत्ययः । यद्वा आतोनुपसर्गेकः इति क प्रत्ययः । पृषोदरादीनि यथोपदिष्टम् इति अभिमतरूपसिद्धिः स्वरः च भवति । तद्ददातीति अररिंदानि=उदकानि (चेष्टादायकानि) । आपोमयः प्राणः इति शृतौ प्रतिपादितम् । यद्वा ररि इति दानम् । न विद्यते दानमितरभूतेषु तत् अररि तत् ददाति इति अररिंदानि इतरैः दातुं अशक्यं भोगं ददातीति तात्पर्यम् ।
+- सुक्रतुः — क्रत्वादयश्च (पा. सू. ६-२-११८) इति सोः परस्य क्रतुशब्दस्य अद्युदात्तस्वरः भवति ।
+
+### Printed p. 94
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये दे॑वासो दि॒व्येका॑दश॒ स्थ पृ॑थि॒व्यामध्येका॑दश॒ स्थ ।  
+> अ॒प्सु॒क्षितो॑ महि॒नैका॑दश॒स्थते दे॑वासो य॒ज्ञमि॒मं जु॑षध्वं  
+> ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । देवासः । दिवि । एकादश । स्थ । पृथिव्यां । अधि । एकादश । स्थ ।  
+> अप्स्युक्षितः । महिना । एकादश । स्थ । ते।देवासः । यज्ञं । इमं । जुषध्वं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रे षष्ठेऽहनि प्रउगशस्त्रे वृश्वदेवतृचस्य द्वितीया ये देवास इत्येषा ।
+> सूत्रितं च । ये देवासो दिव्येकादश स्थेयमददाद्रभसु । आ. ८-१ । इति ॥
+> हे देवासो देवा द्योतनशीला ये यूयं दिवि द्युलोक एकादश स्थ
+> एकं च दश चेत्येतत्संख्याका भवथ तथा पृथिव्यामध्युपर्येकादश स्थ एतत्संख्याका
+> भवथ किंचाप्सुक्षितः । तद्वेतुत्वात्ताच्छब्दं । अस्वंतरिक्षे क्षियंति निवसंतीत्यप्पुक्षितः ॥ क्षियतेः क्विप् । तत्पुरुषे कृतीत्यलुक् ॥ अंतरिक्षवासिनो देवा एकादश स्थ
+> तत्संख्याका भवथ । यद्वा । अंतरिक्षस्येयं संज्ञा । आपः पृथिवीत्यंतरिक्षनामसु
+> पाठात् । यद्यपि तिस्र एव देवता इत्युक्तत्वात् क्षित्याद्यभिमानिन्नो देवतास्तिस्र एव
+> तथापि महिना महत्वेन स्वस्वनिभूत्या त्रयस्त्रिंशत्संख्याका भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् । महिना देवास इत्येते सर्वत्र संबध्येते । ते यूयं
+> हे देवासो मिलित्योक्तसंख्याका देवा इममस्मदीयं यज्ञं जुषध्वं । संभजध्वं । तत्संबंधि हविर्वा सेवित्वा प्रीणयध्वं ॥ एकं च दश चैकादश । प्रागेकादशभ्यः । पा. ५-३-४९ । इति निपातनाद्दीर्घः । संख्यॆति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: on the sixth day of the Daśarātra, in the Prauga-śastra, this is the second Ṛk, ये देवास (*ye devāsa*), of the Viśvedeva tṛca. It is prescribed in the sūtra ये देवासो दिव्येकादश स्थेयमददाद्रभसु (*ye devāso divyekādaśa stheyamadadādrabhasu*) (Ā. 8-1).
+
+"O gods, shining ones, you who are eleven in heaven, the world of Dyu; likewise you are eleven on the earth, above; and further you are the अप्स्युक्षितः (*apsyukṣitaḥ*), eleven in number." The word means those who dwell (क्षियंति (*kṣiyaṃti*)) in the *apas*, the atmosphere; it is formed from the root *kṣi* with *kvip*, and the case ending is not elided in a tatpuruṣa. So "you who dwell in the atmosphere are eleven." Or else *apas* here is a name of the atmosphere, since आपः पृथिवी (*āpaḥ pṛthivī*) are read among the names of the atmosphere. Although, as stated, there are only three deities, the deities presiding over the earth and the rest, yet by महिना (*mahinā*), their greatness and their own powers, they come to be thirty-three in number; for it is said that the others, abiding in those places, are their manifestations. महिना (*mahinā*) and देवासः (*devāsaḥ*) are to be connected throughout. "You, O gods, of the numbers stated, taken together, enjoy this sacrifice of ours": accept it, or be gratified by partaking of the oblation connected with it. एकं च दश चैकादश (*ekaṃ ca daśa caikādaśa*) (eleven is one and ten): the lengthening is by *nipātana* in accordance with प्रागेकादशभ्यः (*prāgekādaśabhyaḥ*) (Pā. 5-3-49), and the word has the accent of its first member.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- ये (*ye*)—you who
+- महिना (*mahinā*)—by the power of your greatness
+- दिवि (*divi*)—in the world of Dyu
+- एकादश (*ekādaśa*)—eleven in number
+- स्थ (*stha*)—you are
+- पृथिव्यां अधि (*pṛthivyāṃ adhi*)—on the earth
+- एकादश (*ekādaśa*)—eleven in number
+- स्थ (*stha*)—you are
+- अप्स्युक्षितः (*apsyukṣitaḥ*)—dwellers of the atmosphere
+- एकादश (*ekādaśa*)—eleven in number
+- स्थ (*stha*)—you are
+- ते देवासः (*te devāsaḥ*)—such you, all gathered together
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this (our) sacrifice
+- जुषध्वं (*juṣadhvaṃ*)—partake of
+
+### Printed p. 95
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you are eleven in number in the world of Dyu, eleven in number on the earth, and, as dwellers of the atmosphere, eleven in number. All this shows your greatness. Come, all of you together, and partake of this sacrifice of ours.
+
+##### Printed English
+
+Gods who are eleven in heaven; who are eleven on earth ; and who
+are eleven dwelling with glory in mid-air ; may ye be pleased with this our
+sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice called Daśarātra, at the time of reciting the Prauga-śastra mantras, when the tṛca addressed to the Viśvedevas is recited, this Ṛk ये देवासो दिव्येकादस्थ (*ye devāso divyekādastha*) is to be recited as the second Ṛk of the tṛca. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra ये देवासो दिव्येकादश स्थेयमददाद्रभसं (*ye devāso divyekādaśa stheyamadadādrabhasaṃ*) (Ā. 8-1).
+
+ते देवासः यज्ञमिमं जुषध्वं (*te devāsaḥ yajñamimaṃ juṣadhvaṃ*)—"you, all the gods, partake of this sacrifice of ours": it is addressed to the gods of the three worlds. By दिवि एकादश, पृथिव्यां एकादश, अप्सुक्षितो एकादश (*divi ekādaśa, pṛthivyāṃ ekādaśa, apsukṣito ekādaśa*) the total number of the gods from the three worlds is said to be thirty-three. Sāyaṇa cites the Nirukta statement यव्यपि तिस्र एव देवताः (*yavyapi tisra eva devatāḥ*) (Ni. 7-5) and explains: क्षित्याद्यभिमानिन्नो देवतास्तिस्र एव तथापि महिता महत्त्वेन स्वस्वविभूत्या त्रयस्त्रिंशत्संख्याता भवंति । तत्तत्स्थाना अन्यास्तद्विभूतॆय इत्युक्तत्वात् । (*kṣityādyabhimāninno devatāstisra eva tathāpi mahitā mahattvena svasvavibhūtyā trayastriṃśatsaṃkhyātā bhavaṃti | tattatsthānā anyāstadvibhūtèya ityuktatvāt |*). That is, although the deities presiding over the earth, the atmosphere and the world of Dyu are only three, they appear as thirty-three in number through their own greatness; all the other deities in those worlds are explained as their manifestations. The author of the Nirukta too says:
+
+तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इंद्रो ना अंतरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यात् एकैकस्या अपि बहूनि नामधेयानि भवंति । अपि वा कर्मपृथक्त्वात् । (*tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā iṃdro nā aṃtarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyāt ekaikasyā api bahūni nāmadheyāni bhavaṃti | api vā karmapṛthaktvāt |*) (Ni. 7-5).
+
+According to the view of the Nairuktas, the three deities Agni, Vāyu or Indra, and Sūrya are the presiding deities of the three worlds, earth, atmosphere and the world of Dyu. These very deities have many kinds of names, whether in keeping with their greatness or because of the diversity of their actions. Having said this, he continues: अथातोऽनुक्रमिष्याम अग्निः पृथिवीस्थानः तं प्रथमं व्याख्यास्यामः (*athāto 'nukramiṣyāma agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vyākhyāsyāmaḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 89. pp. 84-89 (batch API)
+**Progress note:** Done through printed p. 95. pp. 90-95 (batch API)
