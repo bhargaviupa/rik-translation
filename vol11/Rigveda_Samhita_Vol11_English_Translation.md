@@ -15320,6 +15320,131 @@ It describes: for the sacrificial horse in the form of Prajāpati, or Prajāpati
 
 In the elaborate rite of the piling of the fire-aliars lies the most philosophic content of the Samhita, for in it finds expression the chief doctrine of the sacrificial ritual, the sacrifice as a cosmic power of the highest potency. The first expression of it is preserved
 
+### Printed p. 636
+The passage on the Purusha hymn of the Ṛgveda (X-90) continues: there the creation of the universe is figured as the sacrifice of a Primeval Purusha, who is all that is and that shall be. This creation cannot be regarded as ever proceeding, and the year, the symbol of time, takes its part in that the three seasons, spring, summer and autumn form the ghee, the kindling sticks and the oblation, undoubtedly an attempt to recognise and explain time in its relation to the Universe.
+(A. B. Keith: The Taittirīya Saṃhitā — I. Introduction: Harvard Oriental Series Vol. 18, p. CXXVI)
+
+The Śatapatha Brāhmaṇa in the tenth book (X. 6·4), which deals with the secret of the fire, develops the theme more philosophically. Prajāpati is the year, for he is essentially, as the creator, time, and the year is at once the symbol of time, and the period in which the working of nature completes a round and commences again.
+(A. B. Keith, The Religion and Philosophy of the Veda, Vol. II, p. 466.)
+
+The summary of the above opinion is that a profound cosmic principle lies hidden in this account: just as the year, together with its beginning and end and its parts such as the solstices, goes on continuously and endlessly by repeated recurrences, so also the life of the universe proceeds continuously, with individual beginnings and ends, yet as a whole with a beginningless, endless flow of revolution.
+
+Just as the present Ṛk describes the whole cosmic principle as contained in the body of Viṣṇu, who is of the nature of the Sun, so the Upaniṣads and other texts describe all the principles of the nature of time as contained in Prajāpati, who is of the nature of the Sun; Agni, Viṣṇu, Āditya and Prajāpati all reflect one cosmic principle; time is the basis of all the affairs of the world; and that time is a part of Viṣṇu in the form of Prajāpati.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖*) (Praśna Upaniṣad, 1-8). In this passage Āditya, the life-breath of all beings, is described as the universal-formed, the omniscient, the final goal (parāyaṇa), the one light of the whole world, existing in thousands of forms; the sun, the Āditya who is the soul of the universe, is thus described, and then:
+
+### Printed p. 637
+संवत्सरो वै प्रजापतिस्तस्यायने (*saṃvatsaro vai prajāpatistasyāyane*) … .... ॥ (*.... ‖*) **NOTE**
+पंचपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणं । अथेमे अन्य उपरे विचक्षणं सप्तचक्रे षळर आहुरर्पितं ॥ ( (*paṃcapādaṃ pitaraṃ dvādaśākṛtiṃ diva āhuḥ pare ardhe purīṣiṇaṃ | atheme anya upare vicakṣaṇaṃ saptacakre ṣaḷara āhurarpitaṃ ‖ (*)
+(Repetition of Ṛ. Saṃ. 1-154-12)
+मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणः । (*māso vai prajāpatistasya kṛṣṇapakṣa eva rayiḥ śuklaḥ prāṇaḥ |*)
+अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः । (*ahorātro vai prajāpatistasyāhareva prāṇo rātrireva rayiḥ |*)
+(Praśna Upaniṣad 1-9 to 13)
+
+In these passages the identity of day-and-night, the month, the fortnights and Prajāpati is stated, and all the parts of time are said to be portions of Prajāpati.
+
+Thus in all the Śruti passages quoted above a relation of part and whole is stated between time and Prajāpati, while in the present Ṛk such a relation is stated between time and Viṣṇu; if this raises a doubt, one may look at passages that teach non-difference: Prajāpati is of the nature of the Sun, and Viṣṇu is of the nature of the Sun.
+
+एष ब्रह्मैष इंद्र एष प्रजापतिरेते सर्वे देवा इमानि च पंच महाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव ॥ (*eṣa brahmaiṣa iṃdra eṣa prajāpatirete sarve devā imāni ca paṃca mahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva ‖*) (Aitareya Upaniṣad 3-3)
+देवो वरुणः प्रजापतिः सविता । (*devo varuṇaḥ prajāpatiḥ savitā |*) (Chā. U. 1-12-5)
+
+In these and similar passages Prajāpati is described as the soul of all. Just as Sāyaṇa calls Viṣṇu, who is of the nature of the Sun, the soul of all, so in these passages Prajāpati, of the nature of the Sun, is called the soul of all. The Sun is of the nature of time, the basis of time, and the impeller of temporal activities. Hence Sāyaṇa's solution is that Viṣṇu, who is of the nature of the Sun, carries on his own revolution and the revolutions of the times as non-different; this is supported by the sentence स्वभ्रमणाधीनत्वादितरेषां परिभ्रमणस्य । अतः स्वयं भ्रमतीत्युच्यते । (*svabhramaṇādhīnatvāditareṣāṃ paribhramaṇasya | ataḥ svayaṃ bhramatītyucyate |*)
+
+विमिमानः (*vimimānaḥ*)—विविधमात्मनं मिमानः देवतिर्यगात्मना विभज्य स्थापयन् । (*vividhamātmanaṃ mimānaḥ devatiryagātmanā vibhajya sthāpayan |*) This is explained as: developing his own subtle self-principle in forms such as gods and animals, and establishing it in different forms. The purport is: though one in origin, he himself undergoes manifold transformations and in effect takes on different states and forms.
+
+### Printed p. 638
+
+##### Grammar
+
+- चतुर्भिः — झल्युपोत्तम् (पा. सू. ८६-१-१८०) इति झलादिविभक्त्यंतत्वात् उपोत्तम उदात्तं भवति ।
+- व्यतीन् — वि उपसर्गः । अत सातत्यगमने धातुः । इन् सार्वधातुभ्यः इति इन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+- वृत्तम् — वृतु वर्तने धातुः । अस्मात् निष्ठा क्त प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । प्रत्ययस्वरो भवति ।
+- अवीविपत् — टुवेपृ कंपने धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । णिजंतात् लुज् । प्रथमपुरुषैकवचने ति प्रत्ययः । इतश्च इति इकारलोपः । णिश्रिद्रुसुभ्यः (पा. सू. ३-१-८४) इति कर्तरि चज् । णौचङ्जुपधायाः ह्रस्वः (पा सव. ७-४-१) इति धातोरुपधाया ह्रस्वः । एचइत् ह्रस्वादेशे इति इकारो भवति । चजि (पा. सू. ६-१-११) इति द्वित्वम् । सन्वल्लघुनि चज् (पा सू. ७-४-९३) इति सन्वद्भावे सति दीर्घो लघोः (पा सू ७-४-९४) इति अभ्यासस्य दीर्घः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- बृहत् शरीरः — बृहत् शरीरः यस्य सः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- विमिमानः — माज् माने धातुः । जुहोत्यादिः । लडर्थे शानच् प्रत्ययः । श्लौ इति धातोर्द्वित्वम् । बृञामित् (पा. सू. ७-४-७६) इति अभ्यासस्य इत्वम् । अभ्यस्तानामादिः (पा. सू. ६-१-८९) इति आद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- ऋक्वभिः — ऋच स्तुतौ धातुः । अन्येभ्योऽपिदृश्यंते (पा. सू. ३-२-३५) इति क्वनिप् प्रत्ययः । व्यत्ययेन कुत्वं भवति । प्रत्ययस्य पित्त्वात् अनुदात्तत्वं भवति ।
+- अकुमारः — न कुमारः अकुमारः । तत्पुरुषेकुतुल्या- (पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरो भवति ।
+- आहवम् — आज् उपसर्गे धातुः । ह्वेञ् स्पर्धायां शब्दे च धातुः । व्यत्ययेन भावार्थे अट् प्रत्ययः । बहुलं छंदसि इति संप्रसारणम् । पूर्वरूपम् । उकारस्य ग.१.
+
+### Printed p. 639
+- (आहवम् इत्यस्य शेषः) अवादेशः । समासे कृदुत्तरपदप्रकृतिस्वरो भवति । अथवा आजियुद्धे (पा. सू. ३-३-७३) इति आगतः अप् प्रत्ययः व्यत्ययेन अत्रापि भवति । **NOTE**
+
+Here the 155th sūkta ends.
+
+## Sūkta 156 (Maṇḍala 1)
+[[b-intro not separate]]
+Introduction (the printed Sanskrit introduction): the sūkta भवा मित्र (*bhavā mitra*) of five Ṛks is the seventeenth sūkta; it is by Dīrghatamas, of the Dairghatamasa line; since it is said "jāgata" it is also jāgata (Jagatī metre); since "vaiṣṇava" is said, it is Viṣṇu's; the Anukramaṇī says भव पंच (*bhava paṃca*). It is applied in the Ukthya rite, at the third pressing, for the Acchāvāka's recitation; the Sūtra in the section उक्ष्ये तु होत्रकाणामिति (*ukṣye tu hotrakāṇāmiti*) prescribes it: भवा मित्रः सं नां कर्मणा (*bhavā mitraḥ saṃ nāṃ karmaṇā*) (Ā. 6-1). In the Saumya-caru, ghee is to be used on both sides; in the upper ghee-offering the ordinary yājyā is उरु विष्णो वि क्रमस्व (*uru viṣṇo vi kramasva*); on the tenth day this Ṛk भवा मित्र (*bhavā mitra*) is to be used in its place, as the section दशमेऽहनि (*daśame 'hani*) states: उरु विष्णो वि क्रमस्वीति धृतयज्यास्थाने भवा मित्रः (*uru viṣṇo vi kramasvīti dhṛtayajyāsthāne bhavā mitraḥ*) (Ā. 8-12).
+
+**Anuvāda.** This sūkta भवा मित्र (*bhavā mitra*) is the seventeenth sūkta in the twenty-first anuvāka. It has five Ṛks. Its seer is Dīrghatamas, son of Ucathya; the deity is Viṣṇu; the metre Jagatī. The Anukramaṇī says "bhava pañca". In the Ukthya sacrifice, at the third pressing, the priest called Acchāvāka is to recite this sūkta, as explained by the Āśvalāyana Śrauta Sūtra, in the section "Ukthe tu hotrāṇām", by the sūtra "Bhavā mitraḥ saṃ nāṃ karmaṇā" (Ā. 6-1). In both caru-oblations connected with Soma, ghee is to be used; in this ghee-offering the Ṛk "Uru viṣṇo vi kramasva" is to be used as the ordinary yājyā; but on the tenth day the Ṛk "Bhavā mitra" is to be used in place of it, as the sūtra "Uru viṣṇo vikramasveti dhṛtayājyāsthāne bhavā mitraḥ" in the section "Daśame 'hani" of the Āśvalāyana Śrauta Sūtra directs (Ā. 8-12).
+
+### Printed p. 640
+Maṇḍala 1, Anuvāka 21, Sūkta 156; Aṣṭaka 2, Adhyāya 2, Varga 26. Number of Ṛks in the sūkta: 5. Seer: Dīrghatamas Aucathya. Deity: Viṣṇu. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भवा॑ मि॒त्रो न शेव्यो॑ घृ॒तासु॑ति॒र्विभू॑तद्युम्न एव॒या उ॑  ॒॑
+> सप्रथाः ।  
+> अधा॑ ते विष्णो वि॒दुषा॑ चि॒दर्ध्यः॒ स्तोमो॑ य॒ज्ञश्च॒ राध्यो॑  ॒॑
+> हविष्मता ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भव । मित्रः । न । शेव्यः । धृतआसुतिः । विभूतद्युम्नः । एवयाः । ऊं इति ।  
+> सप्रथाः ।  
+> अध । ते । विष्णो इति । विदुषा । चित् । अध्य ९ः । स्तोमः । यज्ञः । च । राध्यः ।  
+> हविष्मता ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विष्णो मित्रो न । मितेर्दुःखात् त्राता सखा आदित्यो ना मित्रः । प्रमीतेस्त्रायत इति निरुक्तं । १०-२१ । तद्वत् शेव्यः सुखे साधुः सुखकर्ता घृतासुतिः
+
+##### Gist of the bhāṣya
+
+"O Viṣṇu, like Mitra": Mitra is the friend, the Āditya who saves from distress; he cites Nirukta 10-21, प्रमीतेस्त्रायत इति (*pramītestrāyata iti*). Like him, Viṣṇu is शेव्यः (*śevyaḥ*), good at giving happiness, the maker of happiness, and घृतासुतिः (*ghṛtāsutiḥ*) (continued in the next block).
+
+### Printed p. 641
+
+> धृतमुदकमासूयते येन स तादृशः । यद्वा । धृतमाज्यमाभिमुख्येन नीयते
+> यस्मै स तादृशः । विभूतद्युम्नः प्रभूतयशाः प्रभूतान्नो वा । एवया रक्षणस्य
+> मिश्रयिता प्रापयिता । सप्रथाः सर्वतः पृथुः । प्रतिविशेषणं नो भवेति संबंधः ॥
+> द्व्यचोऽतस्तिज इति दीर्घः । उ इति पादपूरणः ॥ हे विष्णो त्वं यस्मादीवृशो
+> भवसि अधास्मात्ते तव स्तोमः स्तोत्रविशेषो विदुषा त्वन्माहात्म्यवेदित्रा यजमानेनार्ध्यः पुनः पुनः प्रवर्धनार्हः । एकवारकरणे न संपूर्यत इत्यर्थः । तथा
+> ते यज्ञश्च हविष्मता तेन यजमानेन राध्यः समाराधनीयः । यद्वा । विदुषा
+> होत्रा स्तोमो राध्यो हविष्मता यज्ञश्च राध्यः ॥
+
+##### Gist of the bhāṣya
+
+घृतासुतिः (*ghṛtāsutiḥ*): he by whom water is pressed out; or else he to whom ghee is brought face to face. विभूतद्युम्नः (*vibhūtadyumnaḥ*): of abundant fame, or of abundant food. एवयाः (*evayāḥ*): the one who brings or bestows protection. सप्रथाः (*saprathāḥ*): broad on all sides. Each of these epithets is connected with "be to us". उ (*u*) is a verse-filler. O Viṣṇu, since you are such, therefore your स्तोमः (*stomaḥ*), a special praise, is अर्ध्यः (*ardhyaḥ*) for the knowing sacrificer who knows your greatness: fit to be furthered again and again; it is not completed by being done once. Likewise your sacrifice is राध्यः (*rādhyaḥ*), to be accomplished by that sacrificer who has the oblation. Or else: the praise is to be accomplished by the knowing Hotṛ, and the sacrifice by the sacrificer with the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रो न (*mitro na*)—like a friend, or like the Āditya in the form of Mitra
+- शेव्यः (*śevyaḥ*)—the giver of happiness
+- धृतासुतिः (*dhṛtāsutiḥ*)—the accepter of the offering of ghee
+- विभूतद्युम्नः (*vibhūtadyumnaḥ*)—having abundant fame, or abundant food
+- एवयाः (*evayāḥ*)—the giver of protection
+- सप्रथाः (*saprathāḥ*)—easily approachable on every side
+- भव (*bhava*)—be (in our regard)
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- अध (*adha*)—because you are filled with these qualities
+- ते (*te*)—your
+- स्तोमः (*stomaḥ*)—special praise
+- विदुषा (*viduṣā*)—by the sacrificer who knows (your greatness)
+- अर्ध्यः (*ardhyaḥ*)—to be recited again and again
+- यज्ञश्च (*yajñaśca*)—and the sacrifice (directed to you)
+- हविष्मता (*haviṣmatā*)—by the sacrificer who has the oblation
+- राध्यः (*rādhyaḥ*)—to be accomplished
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, be to us like a friend: the giver of happiness, the accepter of the ghee offering, of abundant fame, the giver of protection, and easily approachable on every side. O Viṣṇu, since you are filled with these qualities, your special praise is to be recited again and again by the sacrificer who knows your greatness; and the sacrifice directed to you is also to be accomplished by the sacrificer who has the oblation.
+
+##### Printed English
+
+Be (to us), Vishnu, like a friend, the giver of happiness, the accepter of oblations, abounding with food, the granter of protection, and every way accessible; on which account your praise is to be repeatedly recited by the wise, and your worship to be celebrated by the offerer of oblations.
+
 ---
 
-**Progress note:** Done through printed p. 635. pp. 630-635 (batch API)
+**Progress note:** Done through printed p. 641. pp. 636-641 (batch API)
