@@ -10799,6 +10799,136 @@ This Agni, who stays protected like a child in the womb between the araṇis, ca
 
 The blind (of intellect), or those who see not (physically), detract not from his glory, whom no enemies, no malevolent adversaries, harm, even whilst yet in (his) embryo (condition); for bis constant encouragers defend him.
 
+### Printed p. 442
+Although Sāyaṇa has explained गर्भे संतं (*garbhe saṃtaṃ*) in this Ṛk as "protects like an embryo in the middle of the aranis", i.e. like a child lying in the womb between the two aranis,
+in the Ṛk
+गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथां । अद्रौ चिदस्मा अंतर्दुरोणे विशां न विश्वो अमृतः स्वाधीः ॥ (*garbho yo apāṃ garbho vanānāṃ garbhaśca sthātāṃ garbhaścarathāṃ | adrau cidasmā aṃtarduroṇe viśāṃ na viśvo amṛtaḥ svādhīḥ ‖*)
+(Ṛ. Saṃ. 1-70-2)
+the embryonic state of Agni, who is present within many things, is described thus: (1) अपां गर्भः (*apāṃ garbhaḥ*), one who is within the waters like an embryo, called Apāṃ Napāt; (2) *vanānāṃ garbhaḥ*, one who abides in the forest trees as forest-fire, inside them; (3) *sthātāṃ garbhaḥ*, one who lies hidden in immovable things such as wood; (4) *carathāṃ garbhaḥ*, one who is in the bodies of moving beings as the digestive fire (jāṭharāgni).
+
+In
+क इमं वो निण्यमा चिकेत वत्सो मातृर्जनयत स्वधाभिः । बह्वीनां गर्भो अपसामुपस्थान्महान्नविर्निश्चरति स्वधावान् ॥ (*ka imaṃ vo niṇyamā ciketa vatso mātṛrjanayata svadhābhiḥ | bahvīnāṃ garbho apasāmupasthānmahānnavirniścarati svadhāvān ‖*)
+(Ṛ. Saṃ. 1-95-4)
+also, the phrase बह्वीनां गर्भो (*bahvīnāṃ garbho*) is explained in one way as the Agni who is in the midst of the many waters in the clouds, in the form of lightning; and in another way as the one who is within the plants, or who lies asleep as an embryo within the ten directions. As the nature of Agni as embryo is stated there, so it is stated in the present Ṛk too.
+
+अंधाः अपश्याः (*aṃdhāḥ apaśyāḥ*)—explained here in two ways. First: अंधाः (*aṃdhāḥ*) are the unlearned, without knowledge and power; hence अपश्याः (*apaśyāḥ*), non-seers. Those lacking knowledge and power, like blind men, are unable to understand the special features of rites and the like. Second: learned men who, though possessed of knowledge, do not worship with constant devotion and faith and are therefore almost blind.
+
+अभिख्या (*abhikhyā*)—this word is read among the names for knowledge (Ni. 3-17). Here it means अभितः ख्यातिं माहात्म्यं (*abhitaḥ khyātiṃ māhātmyaṃ*): the greatness of Agni, who is famed having spread his glory everywhere.
+
+### Printed p. 443
+प्रेतारः (*pretāraḥ*)—the sacrificers who gratify him, Agni, with sacrifices and the like.
+
+##### Grammar
+
+- रिपवः — रस व्यक्तायां वाचि धातुः । रपेरिच्चोपधायाः (उ. सू. १-२६) इति कुप्रत्ययः । धातोरुपधाया इत्वम् । अनिष्टं रपति इति रिपुः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- रिषण्यवः — रिष हिंसायां धातुः । दुरस्युद्रविणस्युर्वृषण्यति रिषण्यति (पा. सू. ७-४-३६) इति क्यच्प्रत्ययेन निपातितः । क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतादुप्रत्ययः । अतो लोपः इत्यकारलोपः । प्रत्ययस्वरेण अंतोदात्तः भवति । प्रथमाबहुवचनांतरूपम् ।
+- रेषणाः — रिष हिंसायां धातुः । कर्तरि युच्प्रत्ययः । तस्य अनादेशः । चित्त्वात् अंतोदात्तस्वरः भवति ।
+- रेषयंति — पूर्वोक्तात् धातोः प्रेरणार्थे हेतुमति च (पा. सू. ३-१-२३) इति णिच्प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधगुणः । लट्प्रथमपुरुषबहुवचनांतरूपम् । लसार्वधातुकस्य अनुदात्तत्वात् णिच्स्वरः अवशिष्यते ।
+- अपश्याः — न पश्यंति इति अपश्याः । व्यत्ययेन अंतोदात्तस्वरः भवति ।
+- दभन् — दंभु दंभे धातुः । वर्तमानार्थे छांदसः लज् । प्रथमपुरुषबहुवचने झेः अंतादेशः । इकारलोपः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य जित्त्वादेशत्वात् धातोरुपधानकारस्य लोपः । बहुलं छंदस्यमाज्योगेऽपि इति अडागमः न भवति । तिजंतनिघातस्वरः भवति ।
+- नित्यासः — नित्यशब्दात् जसि परे आज्जसेरसुक् (पा. सू. ६-१-५०) इति तस्य आसुकागमः ।
+- प्रेतारः — प्रीञ् तर्पणे धातुः । कर्तरि तृच्प्रत्ययः । अर्धधातुकस्येड्वलादेः इति इडागमः । गुणः । चित्त्वात् अंतोदात्तस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+- अरक्षन् — रक्ष पालने धातुः । छांदसः वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति । ॥ ५ ॥ **NOTE**
+
+Here ends the one hundred and forty-eighth sūkta.
+
+### Printed p. 444
+## Sūkta 149 (Maṇḍala 1)
+Sāyaṇa's introduction: this is the ninth sūkta, of five Ṛks, beginning महः स (*mahaḥ sa*), seen by Dīrghatamas, addressed to Agni, in the Virāj metre, because the stated characteristic is present: दशकास्त्रयो विराळेकादशका वा (*daśakāstrayo virāḷekādaśakā vā*) (Anu. 6.7). And the Anukramaṇī says महः स वैराजमिति (*mahaḥ sa vairājamiti*). The application (viniyoga) is as indicated by the text itself (laiṅgika).
+
+Anuvāda: This sūkta beginning महः स (*mahaḥ sa*) is the ninth sūkta in the twenty-first anuvāka. It has five Ṛks. Its seer is Dīrghatamas Aucathya; the deity is Agni; the metre is Virāṭ. The Anukramaṇī says महः स वैराजं (*mahaḥ sa vairājaṃ*) and also states the characteristic of the Virāṭ metre as दशकास्त्रयो विराळेकादशका वा (*daśakāstrayo virāḷekādaśakā vā*). The application is laiṅgika.
+
+Sūkta 149; Maṇḍala 1; Anuvāka 21; Aṣṭaka 2; Adhyāya 2; Varga 18. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Deity: Agni. Metre: Virāṭ. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हः स रा॒य एष॑ते॒ पति॒र्दन्नि॒न इ॒नस्य॒ वसु॑नः प॒द आ ।  
+> उप॒ ध्रजं॑त॒मद्र॑यो वि॒धन्नित् ॥ १ ॥
+
+### Printed p. 445
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । सः । रायः । अ । ईषते । पतिः । दन् । इनः । इनस्य । वसुनः । पदे । आ i  
+> उप । ध्रजंतं । अद्रयः । विधन् । इत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महो महतः पूज्यस्य रायो गवादिरूपस्य धनस्य पतिः पालकः स्वामीा
+> सोऽग्निर्दन् दददभिमतं प्रयच्छन् ॥ ददातेः शतरि च्छांदसः शपो लुक् । तस्य
+> च्छंदस्युभयफेत्यार्थधातुकत्वादातो लोप इति चेत्याकारलोपः ॥ आ अभिमुख्येनास्मद्देवयजनं प्रतीषते । गच्छति । किंचेनस्य स्वामिनोऽपीनः स्वामीा । सर्वस्य
+> पतिरित्यर्थः । ईदृशोऽयं वसुनो धनस्य पद आस्पदभूते वेदिस्थान आ । आश्रयति ॥
+> उपसर्गवशाोग्यक्रियाध्याहारः ॥ यद्वा । वसुनो निवासयोग्यस्य धनस्यापीन
+> इति संबंधः । यद्वा । वसुप्राप्तिः प्रसिद्धा । किंचोप द्रजंतमुपगच्छंतमेनमभिषवार्थमद्रयो ग्राववंतो यजमाना विधन्नित् । परिचरंत्येव ॥ विध विधाने ।
+> तौदादिकः । लजि बहुलं छंदसीत्यडभावः ! निघाताभावश्चांदसः । यद्वा । पूर्वत्र
+> तच्छब्दश्रुतेरत्र यच्छब्दाध्याहारेणास्य संबंधादनिघातः । यद्वा । आद्रयोऽभिषवग्रावाणः स्वशब्दैरुपोपेत्य विधन्नित् । पूजयंत्येव । आह्लादं जनयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+महः (*mahaḥ*) is the great, the venerable; he is the master and protector of रायः (*rāyaḥ*), wealth in the form of cattle and the like. That Agni is दन् (*dan*), giving, bestowing what is desired (Śatṛ of the root dā, with Vedic loss of śap and elision of ā). ईषते (*īṣate*): he comes, facing our place of worship. Further, he is इनः (*inaḥ*), lord, even of the lord इनस्य (*inasya*), i.e. master of all. Such a one resorts to the पदे (*pade*), the seat of wealth, the place of the altar; the verb is supplied by force of the preposition. Or else: वसुनः (*vasunaḥ*) means wealth fit for dwelling, construed with इनः (*inaḥ*). Or else the gaining of wealth is well known. Further, as he approaches, the अद्रयः (*adrayaḥ*), sacrificers possessing pressing stones for the pressing, विधन् इत् (*vidhan it*) serve him indeed (root vidh in the sense of arranging, tudādi class; no augment aṭ in the laṅ, by "bahulaṃ chandasi"; absence of nighāta is Vedic). Or: since the word "that" occurs earlier, by supplying "which" there is connection with it, hence no nighāta. Or else: the अद्रयः (*adrayaḥ*) are the pressing stones themselves, which approach with their own sounds and honour him, that is, produce delight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—great
+- रायः (*rāyaḥ*)—of wealth in the form of cattle and the like
+- पतिः (*patiḥ*)—the lord
+- सः (*saḥ*)—Agni
+- दन् (*dan*)—giving (desired objects)
+- आ (*ā*)—facing the sacrifice
+- ईषते (*īṣate*)—comes
+- इनस्य (*inasya*)—even of the one who is lord
+- इनः (*inaḥ*)—Agni, the lord
+- वसुनः (*vasunaḥ*)—of wealth
+- पदे (*pade*)—to the altar, the seat
+- आ (*ā*)—comes and sits
+- उप ध्रजंतं (*upa dhrajaṃtaṃ*)—this Agni who is coming near
+- अद्रयः (*adrayaḥ*)—the sacrificers holding the stones (that press the Soma juice); (or) अद्रयः (*adrayaḥ*)—the stones that press the Soma juice
+- ध्रजंतं (*dhrajaṃtaṃ*)—this Agni who is coming
+- उप (*upa*)—approaching (with their sounds)
+- विधन्नित् (*vidhannit*)—surely honour and delight
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the lord of great wealth in the form of cattle and the like, comes facing the sacrifice, giving desired things. He who is lord even of the lord comes and sits at the altar, the seat of wealth. The stones that press the Soma juice delight this Agni, who is coming near, with their sounds.
+
+### Printed p. 446
+
+##### Printed English
+
+Agni, the lord of great wealth, the granter (of desires), comes (to the place of sacrifice); he, the lord of lords, comes to the place of affluence, (the altar) ; the stone prepares (the libation for him) as he approaches
+
+##### विशेषविषयगळु (Special Topics)
+
+इनः (*inaḥ*)—this word is read among the names of the lord (Ni. 3-1). Agni is praised as इनस्य इनः (*inasya inaḥ*), lord even of the lord.
+प्र सम्राजो असुरस्य प्रशस्तिं पुंसः कृष्टीनामनुमाद्यस्य । इंद्रस्येव प्र तवसस्कृतानि वंदे दारुं वंदमानो विवक्कि । (*pra samrājo asurasya praśastiṃ puṃsaḥ kṛṣṭīnāmanumādyasya | iṃdrasyeva pra tavasaskṛtāni vaṃde dāruṃ vaṃdamāno vivakki |*) (Ṛ. Saṃ. 7-6-1)
+By such Saṃhitā passages, and by Brāhmaṇa passages such as अग्निर्वै देवतानां मुखा, प्रजनयिता स प्रजापतिः स उ एव यजमानः । (*agnirvai devatānāṃ mukhā, prajanayitā sa prajāpatiḥ sa u eva yajamānaḥ |*) (Śa. Brā. 3-9-1-6), Agni is praised as the highest.
+
+अद्रयः (*adrayaḥ*)—explained as the stones that press the Soma juice, or the sacrificers who hold such stones. The difference between the words adri and grāvan as instruments for pressing Soma has been shown in this same part, in the Special Topics of Ṛk 1-137-1.
+
+The word is used not only in the sense of pressing the juice or its instrument but in other senses too.
+उत स्म ते परुष्ण्यामूर्णा वसत शुंध्यवः । उत पन्या रथानामद्रिं भिंदंत्योजसा ॥ (*uta sma te paruṣṇyāmūrṇā vasata śuṃdhyavaḥ | uta panyā rathānāmadriṃ bhiṃdaṃtyojasā ‖*) (Ṛ. Saṃ. 5-52-9)
+In such Ṛks it means mountain;
+ब्रह्माणि मे मतयः शं सुतासः शुष्म इयर्ति प्रभृतो मे अद्रिः । आ शासते प्रति हर्यंत्युक्थेमा हरी वहतस्ता नो अच्छ । (*brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto me adriḥ | ā śāsate prati haryaṃtyukthemā harī vahatastā no accha |*) (Ṛ. Saṃ. 1-165-4)
+in this Ṛk, शत्रूणां भक्षको वज्रः (*śatrūṇāṃ bhakṣako vajraḥ*): the thunderbolt weapon that destroys enemies;
+इंद्रस्यांगिरसां चेष्टौ विदत्सरमा तनयाय धासिं । बृहस्पतिर्भिनवद्रिं विदद्गाः समुस्रियाभिर्नवशंत नरः ॥ (*iṃdrasyāṃgirasāṃ ceṣṭau vidatsaramā tanayāya dhāsiṃ | bṛhaspatirbhinavadriṃ vidadgāḥ samusriyābhirnavaśaṃta naraḥ ‖*) (Ṛ. Saṃ. 1 6 2-3 **NOTE**) **NOTE**
+
+### Printed p. 447
+in such Ṛks, an asura;
+प्र यद्रथेषु पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयंतः । उतारुषस्य वि ष्यंति धाराश्चर्मेवोदभिव्युर्व्यंदंति भूम ॥ (*pra yadratheṣu pṛṣatīrayugdhvaṃ vāje adriṃ maruto raṃhayaṃtaḥ | utāruṣasya vi ṣyaṃti dhārāścarmevodabhivyurvyaṃdaṃti bhūma ‖*) (Ṛ. Saṃ. 1-85-5)
+here, cloud;
+महः स राय एषते पतिर्दन्निन इनस्य वसुनः पद आ ! उप ध्रजंतमद्रॆयो विधन्नित् ॥ ( (*mahaḥ sa rāya eṣate patirdannina inasya vasunaḥ pada ā ! upa dhrajaṃtamadrèyo vidhannit ‖ (*) (Ṛ. Saṃ. 1-149-1)
+in such places, those possessing adris, i.e. sacrificers possessing pressing stones. Thus there are many meanings.
+
+That the word adri thus means thunderbolt, demon, stone, mountain, cloud and so on, the Nirukta writers have shown by derivations as follows:
+अद्रिरादृणात्येतेन । आपि वा अत्तेः स्यात् । (*adrirādṛṇātyetena | āpi vā atteḥ syāt |*) (Ni. 3-9-4 **NOTE**) **NOTE**
+The word adri is formed either from the root dṛ meaning "to split" or from the root ad meaning "to eat". Because it splits mountains and the like, the thunderbolt is called adri. Likewise, in Ṛks such as 1-161-4, the word adri is explained as भक्षकः वज्रः (*bhakṣakaḥ vajraḥ*). It is also explained as अत्तारं, असुरं, भक्षकं पणिं (*attāraṃ, asuraṃ, bhakṣakaṃ paṇiṃ*). In giving this explanation the Nirukta writers quoted the Ṛk
+यदिंद्र चित्र मेहनास्ति त्वादातमद्रिवः । राधस्तन्नो विदद्वस उभयाहस्त्या भर ॥ (*yadiṃdra citra mehanāsti tvādātamadrivaḥ | rādhastanno vidadvasa ubhayāhastyā bhara ‖*) (Ṛ. Saṃ. 5-39-1)
+and showed how अद्रिवः (*adrivaḥ*) can mean "Indra, possessor of the thunderbolt". Thus, since the root or roots of the word adri give different meanings by derivations suited to the context, it must be interpreted according to each context. In the present Ṛk it is explained as ग्राववंतो यजमानाः (*grāvavaṃto yajamānāḥ*): sacrificers holding the stones that press the Soma juice.
+
+Since the word ध्रजति (*dhrajati*) is read among the names of motion, उप ध्रजंतं (*upa dhrajaṃtaṃ*) means उप गच्छंतं (*upa gacchaṃtaṃ*), Agni who approaches (Ni. 3-9).
+
 ---
 
-**Progress note:** Done through printed p. 441. pp. 436-441 (batch API)
+**Progress note:** Done through printed p. 447. pp. 442-447 (batch API)
