@@ -3318,6 +3318,217 @@ they strive eagerly for an embrace. In the same way the thin flames of Agni embr
 - प्रमुञ्ज्न् — मुच्ल्य मोक्षणे इति धातुः । प्रेरणातोरुवुदरिंद अंतर्भावितण्यर्थको धातुः । लडर्थे शतृप्रत्ययः । श विकरणम् । शेमुचादीनाम् (पा. सू. ६-१-२०) इति सुमागमः । प्रथमाएकवचनांतरूपम् । विकरणस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
 - नानदत् — णद अव्यक्ते शब्दे इति धातुः । यज् लुजंतात् लडर्थे शतृप्रत्ययः । अभ्यस्तानामादिः (पा सू. ६-१-१८०) इति आमुद्दात्तस्वरो भवति ।
 
+### Printed p. 135
+जनयन् — जनी प्रामुर्भावे इति धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । जनीज्यष्‌न्नुसुरंजोमांताश्च इति मित् संज्ञात्वात्, अत उपधायाः सूत्रेण वृद्धौ प्राप्तायां मितां ह्रस्वः (पा सू. ६-४-९२) इति उपधाया ह्रस्वः । णिजंतात् लडर्थे शतृप्रत्ययः । शप् निमित्तं णिचो गुणः अयादेशः । लसार्वधातुकस्य तास्यनुदात्तेत्— (पा सू. ६-१-१८६) सूत्रेण अनुदात्तत्वात् णिच् स्वरः शिष्यते ।
+- अस्तृतम् — नञ् तत्पुरुषसमासः । तत्पुरुषेतुल्या— (पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरः भवति । ॥ ८ ॥
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒धी॒वा॒सं परि॑ मा॒तू रि॒हन्नह॑ तुवि॒ग्रेभिः॒ सत्व॑भिर्याति॒ वि  ॑
+> ज्रयः ।  
+> वयो॒ दध॑त्प॒द्वते॒ रेरि॑ह॒त्सदानु॒ श्येनी॑ सचते वर्त॒नीरह॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधीवासं । परि । मातुः । रिहन् । अह । तुविग्रेभिः । सत्वभिः । याति । वि । ज्रयः ।  
+> वयः । दधत् । पत् र्वते । रेरिहत् । सदा । अनु । श्येनी । सचते । वर्तनिः । आह ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दानाग्निः स्तूयते । अयमग्निर्मातुर्भूतानां निर्मातुर्भूमेरधीवासमुपर्याच्छादनस्थानीयं तृणगुल्मौषध्यादिकं परि परितो रिहन् लिहन् । अहेति
+> प्रसिद्धौ । यद्वा । मातुर्भूमेरधीवासमुपरि धार्यमाणं वस्त्रं परि परितो रिहन्
+> संपादयन् । तुविग्रेभिः प्रभूतं शब्दयद्धिः प्रभूतगमनैर्वा सत्वभिः प्राणिभिः
+> सहितो ज्रियो ज्रियसा जवेन वि याति । विविधं गच्छति । किंच पद्वते पादवते
+> द्विपदे चतुस्पदे च वयोऽन्नं तत्तदुचितं दधद्ददत् । विवने दावानले भीत्या
+> पलायमानान्प्राणिनो व्याघ्रादयो भक्षयंतीति प्रसिद्धं । किं कुर्वन् । सदा
+> सर्वदा तृणादिकं रेरिहद्दहन् । किंच श्येनी श्यामवर्णो वर्तनिर्मार्गो वियांत-
+
+##### Gist of the bhāṣya
+
+Agni is praised as the forest fire (printed दानाग्निः (*dānāgniḥ*)) **NOTE**. This Agni goes all round (परि (*pari*)) licking (रिहन् (*rihan*) = लिहन् (*lihan*)) the अधीवासं (*adhīvāsaṃ*) of the mother, that is, of the Earth, the maker of beings: the grass, shrubs, herbs and the like, which stand as a covering over her. अह (*aha*) is a well-known particle. Or else: all round he provides (संपादयन् (*saṃpādayan*)) for the mother Earth a garment worn over her. Accompanied by creatures that make much noise (तुविग्रेभिः (*tuvigrebhiḥ*)), or that go far and wide, he moves in many directions with speed (ज्रयसा जवेन (*jrayasā javena*)). Further, to the footed (पद्वते (*padvate*)), that is to the biped and the quadruped, he gives food (वयः (*vayaḥ*)), each its fitting kind: it is well known that in a forest fire tigers and the like devour the creatures fleeing in fear. Doing what? Always (सदा (*sadā*)) burning (रेरिहत् (*rerihat*)) grass and the like. Moreover the dark-coloured (श्येनी (*śyenī*)) path (वर्तनिः (*vartaniḥ*)) follows him as he goes; (the sentence continues in the next block).
+
+> मन्वनुक्रमेण सचते । सेवते । यत्र यत्राग्निर्गच्छति तत्र तत्र मार्गोऽपि कृष्णो
+> भवति । अहेति प्रसिद्धौ ॥
+
+##### Gist of the bhāṣya
+
+Wherever Agni goes, there the path too becomes black. अह (*aha*) is a well-known particle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातुः (*mātuḥ*)—of the mother (of all beings), the earth
+- अधीवासं (*adhīvāsaṃ*)—the grass, shrubs and the like that are like an upper covering
+- परि (*pari*)—all round
+- रिहन् अह (*rihan aha*)—as if licking (while spreading over)
+- or मातुः (*mātuḥ*)—for Mother Earth
+- अधीवासं (*adhīvāsaṃ*)—an upper covering
+- परि (*pari*)—all round
+- रिहन् अह (*rihan aha*)—as if providing (while spreading over)
+- पद्वते (*padvate*)—to all creatures with two and four feet
+- वयः (*vayaḥ*)—food
+- दधत् (*dadhat*)—supplying
+- सदा (*sadā*)—always
+- रेरिहत् (*rerihat*)—burning (grass and the like)
+- तुविग्रेभिः (*tuvigrebhiḥ*)—making much noise (in fear)
+- सत्वभिः (*satvabhiḥ*)—together with the creatures
+- ज्रयः (*jrayaḥ*)—swiftly
+- वि यांति (*vi yāṃti*)—spreads in many directions
+- श्येने (*śyene*)—black-coloured
+- वर्तनिः (*vartaniḥ*)—the path (of this Agni)
+- अनु सचते अह (*anu sacate aha*)—follows (this Agni), does it not?
+
+### Printed p. 136
+
+##### भावार्थ (Bhāvārtha)
+
+This forest fire, spreading all round, as if licking the grass, shrubs and the rest that lie like an upper covering over Mother Earth, supplying food to all the moving creatures, always burning grass and the like, spreads swiftly in all directions together with the creatures that cry loudly in fear. The black track follows the very path of this Agni.
+
+##### Printed English
+
+Licking up the (verdant) vesture of the mother (of all things, earth)
+the rapid (Agni) proceeds with resounding existences : granting sustenance
+to (every) footed (creature) : ever consuming (fuel), so that a blackened
+track follows (his path).
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa has shown that the phrase मातुः अधीवासं परि रिहन् (*mātuḥ adhīvāsaṃ pari rihan*) can be explained in two ways. First: मातुः (*mātuḥ*) is भूतानां निर्मातुः भूमेः (*bhūtānāṃ nirmātuḥ bhūmeḥ*), of the Earth, the maker of all beings (the Kannada prints "the creator सृत्विगॆ (*sṛtvigè*)") **NOTE**; अधीवासं (*adhīvāsaṃ*) is उपर्याच्छादनस्थानीयं तृणगुल्मौषध्यादिकं (*uparyācchādanasthānīyaṃ tṛṇagulmauṣadhyādikaṃ*), the grass, bushes, creepers and the like that are like an upper covering; परि (*pari*) is परितः (*paritaḥ*), all round; रिहन् (*rihan*) is लिहन् (*lihan*), spreading over. Second: मातुः (*mātuḥ*) is भूमेः (*bhūmeḥ*), अधीवासं (*adhīvāsaṃ*) is उपरि धार्यमाणं वस्त्रं (*upari dhāryamāṇaṃ vastraṃ*), and परि परितः रिहन् संपादयन् (*pari paritaḥ rihan saṃpādayan*) may be understood as: by his spreading all round, as if providing Mother Earth with an upper covering.
+
+### Printed p. 137
+पद्वते पादवते, द्विपदे चतुष्पदे च (*padvate pādavate, dvipade catuṣpade ca*): it means, to all kinds of creatures with two and four feet. It is customary to use the word पद्वत् (*padvat*) to denote living creatures generally, and the word आपात् (*āpāt*) **NOTE** to denote plants and the like. For example, in the sentence
+द्वे वशाक्षरे भवत उभयोरन्नाद्ययोरुपाप्त्यै यच्च पद्वद्यच्चापादकमिति । (*dve vaśākṣare bhavata ubhayorannādyayorupāptyai yacca padvadyaccāpādakamiti |*) (Ai. Ā. 1-3-7)
+Sāyaṇa has explained the word पद्यत् (*padyat*) **NOTE** as the class of creatures with feet, and अपादक (*apādaka*) as plants and the like. But in some Ṛks of the Ṛk-saṃhitā it is clear that this word denotes only creatures that walk on feet, and does not extend to flying creatures such as birds. For example, in the Ṛk
+आ घा योषेव सूनर्युषा याति प्रभुंजती । जरयंती वृजनं पद्यदीयत उत्पातयति दक्षिणः ॥ (*ā ghā yoṣeva sūnaryuṣā yāti prabhuṃjatī | jarayaṃtī vṛjanaṃ padyadīyata utpātayati dakṣiṇaḥ ‖*) (Ṛ. Saṃ. 1-48-5)
+since the separate word पक्षिणि (*pakṣiṇi*) occurs, it is clear that the word पद्वत् (*padvat*) denotes only creatures that move on foot. Likewise in the Ṛk
+नि ग्रामासो अविक्षत नि पद्वंतो नि पक्षिणः । नि श्येनासश्चि दर्थिनः । (*ni grāmāso avikṣata ni padvaṃto ni pakṣiṇaḥ | ni śyenāsaści darthinaḥ |*) (Ṛ. Saṃ. 10-127-5)
+पद्वंतः (*padvaṃtaḥ*) and पक्षिणः (*pakṣiṇaḥ*) are separately mentioned.
+तुविग्रेभिः (*tuvigrebhiḥ*)—the word तुवि (*tuvi*) is read among the names for "much" (Ni. 3-13). प्रभूतं शब्दयद्भिः (*prabhūtaṃ śabdayadbhiḥ*), "making a great noise, frightened by the spread of the forest fire", is an epithet of सत्वभिः (*satvabhiḥ*); or, प्रभूतगमनैर्वा (*prabhūtagamanairvā*), it may mean creatures running off in many directions; so he says.
+ज्रयः (*jrayaḥ*)—ज्रयसा जवेन (*jrayasā javena*); it means, swiftly. Since the word ज्रयति (*jrayati*) is read in general among the verbs of motion such as वर्तते (*vartate*), अयते (*ayate*), लोटते (*loṭate*) (Ni. 3-9), it means going; but this word is used to speak of the speed of the going, showing a peculiarity within the going. For example,
+यादृगेव ददृशे तादृगुच्यते सं छायया दधिरे सिद्धर्याप्सा । महीमस्मभ्यमुरुषामुरु ज्रयो बृहत्सुवीरमनपच्युतं सहः । (*yādṛgeva dadṛśe tādṛgucyate saṃ chāyayā dadhire siddharyāpsā | mahīmasmabhyamuruṣāmuru jrayo bṛhatsuvīramanapacyutaṃ sahaḥ |*) (Ṛ. Saṃ. 5-44-6) **NOTE**
+अवितासि सुन्वतो व्यक्तबर्हिषः पिबा सोमं मदाय कं शतक्रतो । यं ते भागमधारयन्विश्वाः सेहानः पृतना उरु ज्रयः समप्सुजिन्मरुत्वा इंद्र सत्पते ॥ (*avitāsi sunvato vyaktabarhiṣaḥ pibā somaṃ madāya kaṃ śatakrato | yaṃ te bhāgamadhārayanviśvāḥ sehānaḥ pṛtanā uru jrayaḥ samapsujinmarutvā iṃdra satpate ‖*) (Ṛ. Saṃ. 8-36-1)
+
+### Printed p. 138
+In these and other Ṛks the word ज्यय (*jyaya*) **NOTE**is explained as speed. And in
+प्रतिभद्रा अदृक्षत गवां सर्गा न रश्मयः । ओषा अप्रा उरु ज्रयः । (*pratibhadrā adṛkṣata gavāṃ sargā na raśmayaḥ | oṣā aprā uru jrayaḥ |*) (Ṛ. Saṃ. 4-52-5)
+the word ज्रय (*jraya*) is understood as great brilliance. But here too the speed of power is indicated. In the present Ṛk also, the speed of the creatures that run in all directions in extreme fear at the time of the spreading of the forest fire is what is meant.
+
+##### Grammar
+
+- अधीवासम्—वस अच्छादने इति धातुः । घञ् प्रत्ययः । आत उपधायाः (पा. सू. ७-२-११६) इति धातोरुपधाया वृद्धिः । अन्येषामपि दृश्यते (पा. सू. ६-३-१३७) इति पूर्वपदस्य दीर्घः । थाथघञ् क्ताज—(पा. सू. ६-२-१४४) इति अंतो दात्तस्वरः भवति ।
+- मातुः—माज् माने इति धातुः । कर्तरि तृच् प्रत्ययः । चितः इति अंतो दात्तस्वरः भवति । षष्ठी एकवचनांतरूपम् ।
+- रिहन्—रिह कत्थनयुद्धनिंदाहिंसादानेषु इति धातुः । तुदादिः । लडर्थे शतृप्रत्ययः । तुदादिभ्यः शः इति श विकरणम् । विकरणस्वरः शिष्यते ।
+- तुविग्रेभिः—बहुलं छंदसि इति भिसः ऐस्‌भावः न भवति । बहुवचनेझल्येत् इति एत्वम् । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- याति—या प्रापणे इति धातुः । अदादिः । लट् प्रथमपुरुष एकवचनांतरूपं तिजंतम् । निघातस्वरः भवति ।
+- ज्रयः—ज्रि अभिभवे इति धातुः । सर्वधातुभ्यअसुन् इति असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- दधत्—डुधाञ् धारणपोषणयोः इति धातुः । जुहोत्यादिः । लडर्थे शतृप्रत्ययः । श्लुकीकरणम् । अभ्यस्तानामादिः (पा सू ६-१-१८९) इति आद्युदात्तस्वरः भवति । नाभ्यस्ताच्छतुः इति सुमागमः न भवति ।
+- पद्वते—सत्=पादः अस्य अस्ति इति पद्वत् । तदस्या— इति मतुप् प्रत्ययः । झयः (पा. सू. ८-२-१०) इति मतुपो मकारस्य वत्वम् । व्यत्ययेन मतुप उदात्तस्वरः भवति । चतुर्थी एकवचनांतरूपम् ।
+
+### Printed p. 139
+- रेरिहत्—पूर्वोक्तात् धातोः अतिशयार्थे यज् । यजोचिच इति तस्य लुक् । यज्लुगंतात् लडर्थे शतृ प्रत्ययः । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
+- श्येनी—श्येत शब्दः । अस्मात् स्त्रीत्वे वर्णादनुदात्तात्— (पा. सू. ४-१-३९) इति जीप् । तत्सन्नियोगेन तकारस्य नकारादेशः ।
+- सचते—षच समवाये इति धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- वर्तनिः—वर्तते अनेन इति वर्तनिः । वृतु वर्तने इति धातुः । वर्तनिः स्तोत्रे (पा. सू. ६-१-१६०) इति सिद्धस्य अस्य शब्दस्य व्यत्ययेन अंतोदात्तत्वं सिद्ध्यति । ॥ ९ ॥
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मग्ने म॒घव॑त्सु दीदि॒ह्यध॒ श्वसी॑वान्वृष॒भो दमू॑नाः।  
+> अ॒वास्या॒ शिशु॑मतीरदीदे॒र्वर्मे॑व यु॒त्सु प॑रि॒जर्भु॑राणः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अग्ने । मघवत्सु । दीदिहि । अध । श्वसीनान् । वृषभः । दमूनाः ।  
+> अव्यअस्य । शिशुमतीः । अदीदेः । वर्मइव । युत्सु । परिजर्भुराणः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अस्माकं मघवत्स्वस्मत्संबंधिष्टन्नवत्तु यागेषु गृहेषु ना दीदिहि ।
+> दीप्यस्व । अधाथानंतरं श्वसीनान् श्वसनवान् ज्वालाभिश्चेष्टान् अस्मत्पाणनवान्यावृषभो वर्षिताभिमतानां दमूना दानमना दममना दांतमना ना सर्वत्र भवेति
+> शेषः। स उक्तलक्षणस्त्वं शिशुमतीरनास्य। शिशुशब्देन तदवस्था लक्ष्यते। शैशववतीर्ज्वाला
+> अपक्षेप्य विहायादीदेः । भृशं दीप्यस्व । कीदृशस्त्वं । युत्सु संग्रामेषु वर्मेव
+> कवचमिव परिजर्भुराणोऽस्मद्वेष्टान् पुनःपुनः परिहरन् । यद्वा । युत्सु
+
+##### Gist of the bhāṣya
+
+O Agni, shine (दीदिहि (*dīdihi*)) in the sacrifices and houses of ours that are wealthy (मघवत्सु (*maghavatsu*)), that is, supplied with food. Then (अध (*adha*)), being श्वसीवान् (*śvasīvān*), "possessing breath", and with flames … our enemies, the text being damaged **NOTE**, be वृषभः (*vṛṣabhaḥ*), a showerer of what is desired, and दमूनाः (*damūnāḥ*), of a giving mind, of a subdued mind, or of a restrained mind; "be so everywhere" is the word to be supplied. You, of the said qualities, शिशुमतीः (*śiśumatīḥ*): by the word शिशु (*śiśu*) the infant state is meant; casting off (अवास्य (*avāsya*)) flames that are in their infancy, abandoning them, blaze (अदीदेः (*adīdeḥ*)) greatly. Of what kind are you? Like a coat of mail (वर्मेव कवचमिव (*varmeva kavacamiva*)) in battles (युत्सु (*yutsu*)), परिजर्भुराणः (*parijarbhurāṇaḥ*), warding off our enemies again and again. Or else: in battles be one who परिजर्भुराणः (*parijarbhurāṇaḥ*) like a coat of mail.
+
+> संग्रामेषु वर्मेव परिजर्भुराणो भव ॥ हरतेर्यज् लुगंताद्व्यत्ययेन शानच् ।
+> अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ उक्तगुणको भवान्मघवत्सु यज्ञेषु दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+(The grammatical tail: the form comes from *harateḥ* with yaṅ-luk, with शानच् (*śānac*) by vyatyaya, and is ādyudātta.) You, having the said qualities, shine in the sacrifices of the wealthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अस्माकं (*asmākaṃ*)—our
+- मघवत्सु (*maghavatsu*)—in (our) sacrificial houses filled with food
+- दीदिहि (*dīdihi*)—shine
+- अध (*adha*)—afterwards
+- श्वासीर्वान् (*śvāsīrvān*) **NOTE**—burning with flames, or making us full of vigour
+- वृषभः (*vṛṣabhaḥ*)—be one who showers desired objects
+- दमूनाः (*damūnāḥ*)—be generous, or self-controlled
+- शिशुमति ८ (*śiśumati 8*) **NOTE**—(lightless) young flames
+- अवास्य (*avāsya*)—leaving off
+- अदीदेः (*adīdeḥ*)—shine exceedingly
+- युत्सु (*yutsu*)—in battles
+- वर्मेव (*varmeva*)—as a coat of mail protects
+- परि जर्भुराणः (*pari jarbhurāṇaḥ*)—(repeatedly) warding off (the blows of enemies that may fall again and again), protect us
+
+### Printed p. 140
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, shine exceedingly in our sacrificial houses filled with food. Then, making us full of vigour with your flames, be one who showers what is desired and be a giver. Leaving off the lightless young flames, shine with keen flames. In battles, warding off the enemies, as a coat of mail protects, ward off the blows of enemies that may fall again and again and protect us.
+
+##### Printed English
+
+Shine, Agni, in our opulent (abodes), vivifying, showering (blssings)
+bounteous, casting off infantine (glimmerings); blaze (fiercely), repelling
+repeatedly like a coat of mail, (our enemies) in combats.
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्माकं (*asmākaṃ*)—ordinarily we use the word अस्माकं (*asmākaṃ*) only in the sense of the genitive case. But it does not indicate that case alone: its use in other cases too can be observed. In some places it is also adverbial.
+नू नो अग्न ऊतये सबाधसश्च रातये । अस्माकासश्च सूरयो विश्वा आशास्तरीषणि । (*nū no agna ūtaye sabādhasaśca rātaye | asmākāsaśca sūrayo viśvā āśāstarīṣaṇi |*) (Ṛ. Saṃ. 5-10-6)
+here it is used in the nominative, as an epithet of सूरयः (*sūrayaḥ*), and
+
+### Printed p. 141
+स रथेन रथीतमोऽस्माकेनाभियुग्वना । जेषि जिष्णो हितं धनं । (*sa rathena rathītamo 'smākenābhiyugvanā | jeṣi jiṣṇo hitaṃ dhanaṃ |*) (Ṛ. Saṃ. 6-45-15)
+here in the instrumental. Likewise the word अस्मे (*asme*) also ends in all case-endings; the author of the Nirukta has shown this with examples (Ni. 6-2), and it is stated in the special topics of Ṛ. Saṃ. 1-102-2.
+दमूनाः (*damūnāḥ*)—दमूना दममना ना, दानमना ना, दांतमना ना । अपि वा दम इति गृहनाम तन्मनाः स्यात् । (*damūnā damamanā nā, dānamanā nā, dāṃtamanā nā | api vā dama iti gṛhanāma tanmanāḥ syāt |*) (Ni. 4-5). The epithet दमूनाः (*damūnāḥ*) is used either because he has a mind full of compassion, or because he has a mind that gives, or because he is intent on self-restraint; or, since the word दम (*dama*) is a synonym of "house", it may be said of one attached to the house. Therefore Sāyaṇa too has explained that the prayer is made to Agni: दानमना, दममना, दांतमना ना सर्वत्र भव (*dānamanā, damamanā, dāṃtamanā nā sarvatra bhava*).
+वर्म इव (*varma iva*)—कवचमिव (*kavacamiva*); "like a coat of mail": the protection obtained from Agni is compared to it.
+न तस्य मायया चन रिपुरीशीत मर्त्यः । यो अग्नये ददाश हव्यदातिभिः । (*na tasya māyayā cana ripurīśīta martyaḥ | yo agnaye dadāśa havyadātibhiḥ |*) (Ṛ. Saṃ. 8-23-15)
+In Ṛks such as this it is said that for one who has obtained Agni's refuge, however powerful the enemies, no one can do harm. The prayer is that such protection may be ours too.
+
+##### Grammar
+
+- मघवत्सु—मघः येषां अस्ति इति मघवंतः । मतुप् प्रत्ययः । पित्त्वात् प्रत्ययः अनुदात्तः भवति । सप्तमी बहुवचनांतरूपम् ।
+- दीदिहि—दीदि धातुः दीप्त्यर्थे पठितः । अयं छांदसः धातुः । लोट् मध्यमपुरुष एकवचने सेर्ह्यपिच्च इति सिसः हि आदेशः । बहुलं छंदसि इति शपो लुक् । एवं अपित्त्वविधानात् तन्निमित्तीकृत्य गुणः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- अध—छंदसः धकारस्य वर्णविकारः आगतः ।
+- श्वसीवान्—श्वस प्राणने इति धातुः । मतुप् प्रत्ययः । पित्त्वात् धातुस्वरः शिष्यते ।
+- वृषभः—वृषु सेचने इति धातुः । ऋषिवृषिभ्यां कित् (उ. सू. ४-४०३) इति अभच् प्रत्ययः । कित्त्वविधानात् गुणः न भवति । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+
+### Printed p. 142
+- दमूनाः—दमयति इति दमूनाः । दम उपशमे इति धातुः । दमेरूनसिः (उ. सू. ४-६७४) इति औणादिकः ऊनसि प्रत्ययः । अस्य शब्दस्य विषये यास्केनापि एवमुक्तम् । दमूना दममाना वा दानमना वा दांतमना वापि दम इति गृहनाम तन्मनाः स्यात् (निरु. ४-४) इति ।
+- अवास्य—अव उपसर्गः । असु क्षेपणे इति धातुः । समासेनञ् पूर्वेक्तोल्यप् (पा.सू. ७-१-३७) इति ल्यप् । अयं पित्त्वात् धातुस्वरः शिष्यते । गतिकारकोपपदात्‌कृत् इति कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- अदीदेः—दीदि धातुः पूर्वमुक्तः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति लोडर्थे लज् । मध्यमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- युत्सु—यु मिश्रणामिश्रणयोः इति धातुः । क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । ह्रस्वस्य पिति कृति तुक् (पा सू. ६-१-७१) इति धातोः तुकागमः । सप्तमी बहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरः भवति ।
+- परिजर्भुराणः—हृञ् हरणे इति धातुः । अस्य पौन्यःपुन्यार्थे धातोरेकाचः—(पा.सू. ३-१-२२) इति यज् । यजोचिच (पा. सू. २-४-७४) इति तस्य लुक् । व्यत्ययो बहुलम् (पा.सू. ३-१-८५) इति लडर्थे शानच् प्रत्ययः । रुक् रिगौचलुकि (पा. सू. ७-४-९१) इति अभ्यासस्य रुकागमः । अभ्यस्तानामादिः (पा. सू. ६-१-१८६) इति आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरसद प्रकृतिस्वरः भवति । ॥ १० ॥ **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दम॑ग्ने॒ सुधि॑तं॒ दुर्धि॑ता॒दधि॑ प्रि॒यादु॑ चि॒न्मन्म॑नः॒ प्रेयो॑  
+> अस्तु ते ।  
+> यत्ते॑ शु॒क्रं त॒न्नो॒३॒॑ ३ रोच॑ते॒ शुचि॒ तेना॒स्मभ्यं॑ वनसे॒ रत्न॒मा  
+> त्वं ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 134. pp. 128-134 (batch API)
+**Progress note:** Done through printed p. 142. pp. 135-142 (batch API)
