@@ -1,6 +1,6 @@
 # Requirements — Ṛgveda-saṃhitā (Kannada edition) in English
 
-**Draft 2, Nov 12 2026 — for the user's review. Nothing in the tools or volumes has been changed to match it.**
+**Draft 3, Nov 12 2026 — for the user's review. Nothing in the tools or volumes has been changed to match it.**
 Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` and `tools/rv/BRIEF.md`. Once approved, this is the one place that says *what* a volume must be; the other files say only *how* it is made and point here.
 
 **How to read it**
@@ -14,6 +14,7 @@ Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` 
 | E. Working rules | How the work itself is carried out (unchanged rules, kept short). |
 | F. Open questions | What the user still has to decide. |
 | G. Effect on existing volumes | What each finished volume would need. |
+| H. Publication readiness | What is still missing before any volume can actually be published. |
 
 Marks used: **NEW** = differs from the volumes made so far. **(F3)** = see open question 3 in Part F. The source of every requirement is listed in the appendix; the user's review comments of Nov 12 are kept verbatim in `docs/review/USER_REVIEW_2026-11-12.md`.
 
@@ -197,6 +198,10 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F8 | **Credits.** One combined page or two? Wording of the thanks; where the AI assistance is mentioned once it leaves the copyright lines. | A2 |
 | F9 | **Kannada book.** May it carry our added sūkta and Ṛk headings and page marks, or the original text only? | A5 |
 | F10 | **Verse differences.** When the supplied verse differs from the reference, is the difference listed for the editor? | C1 |
+| F11 | **Rights (H1.1–H1.3).** Who can you approach for the rights in the edition, the portraits and the reference text? Do you want a lawyer's view before more work is done on the Kannada book? | H1 |
+| F12 | **Length (H3.1).** Split volumes into parts, or change the page format? This also decides the ISBN count. | H3 |
+| F13 | **Release standard (H2.2).** What sample size and what result would you accept as "ready"? Proposal: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
+| F14 | **Published form of doubts (H2.1).** After your decisions, do remaining doubts appear as editorial footnotes, or not at all? | H2 |
 
 ---
 
@@ -219,6 +224,71 @@ The scan-based volumes (1–10, 13) are not in this table: what they need depend
 
 ---
 
+## H. Publication readiness — what is missing before a volume can be published **NEW**
+
+Parts A–G describe the book. This part lists what a *published* book needs beyond that. It was added on Nov 12 2026 at the user's request ("think carefully as to what we are missing if we want to actually publish these documents soon"). Facts marked *(to verify)* were looked up on the web on Nov 12 2026 from secondary sources and must be confirmed before anyone relies on them; nothing here is legal advice.
+
+**The four items marked BLOCKING stop publication of every volume, however good the text is. They need the user, and probably a lawyer, not more translation work.**
+
+### H1. Rights and permissions
+
+| No. | Requirement | Why | State today |
+|---|---|---|---|
+| H1.1 **BLOCKING** | **The rights in the 1949–52 Kannada edition are established in writing**: who holds them (the editor's heirs, the Palace, the publisher), and either their permission or evidence that the work is in the public domain. | In India copyright in a literary work lasts for the author's life plus 60 years *(to verify)*. The edition was published 1947–52; its editor H. P. Venkata Rao's year of death was not found. If he died after 1965, the work is still protected. Translating it and, even more, reprinting its Kannada text both need the owner's permission. | Recorded in the repo only as "permissions status — to be confirmed". |
+| H1.2 **BLOCKING** | **The source of the accented Saṃhitā may be published.** Either the maintainer of the reference text permits it, or another source with a licence that allows publication is used, or every verse is verified against a public-domain printed edition. | Requirement B1.2 makes the reference text the source of every verse. That text carries the note "personal study and research only, not to be reposted" (`refs/mandala/README.md`). The Vedic text itself is ancient; the terms attach to this digital edition. | Unresolved. Until now only accent marks were taken from it. |
+| H1.3 **BLOCKING** | **Portraits and cover art are cleared**: the king's and the guru's portraits, the cover of each volume; and the consent of the present king and present guru before their portraits and names appear (page 5 of the front matter). | Using a living person's portrait and title implies their blessing. | Placeholders. |
+| H1.4 | **The English printed under each verse is identified.** If it is H. H. Wilson's (died 1860), it is in the public domain and is credited by name; if it is the edition's own, it falls under H1.1. | The heading "English translation (H. H. Wilson)" rests on the wording only. | Not verified against a Wilson edition. |
+| H1.5 **BLOCKING** | **The statement about how the translation was made is decided**, with advice: what the copyright line claims, and where the AI assistance is stated. | The user wants no reference to Claude in the copyright line (A2, page 7). That is the user's choice. Three things follow from it: (a) where copyright is registered, the US Copyright Office requires AI-generated material beyond a trivial amount to be disclosed and protects only the human contribution *(to verify for the current rules; India's position is not settled)*; (b) retailers such as Amazon ask at upload whether a book contains AI-generated content; (c) readers of a sacred text are owed an honest account of the method. A "Note on this translation" can carry it without touching the copyright line. | Open (F8). |
+| H1.6 | Fonts are licensed for commercial print and are named in the colophon. | Printers and retailers may ask. | The fonts in use are open-licence families *(to verify per font)*. |
+
+### H2. Editorial readiness
+
+| No. | Requirement | State today |
+|---|---|---|
+| H2.1 | **No `NOTE` mark in a published book.** Every question in a volume's list is decided by the editor, and the mark is removed or turned into an editorial footnote by one stated rule. | Vol 17: 472 open; Vol 18 and new Vol 11: several hundred each. |
+| H2.2 | **A release standard, stated in numbers:** all checks of Part D pass; the second reading is done; a QA sample of a stated size finds no error of meaning; what was found is repaired. | No volume meets it. The last three samples found 4, 8 and 18 errors. |
+| H2.3 | **A scholar of Sanskrit and Kannada reads a sample of every volume** and is named in the book. | The records say "outside expert review still wanted". |
+| H2.4 | **A "Note on this translation"** in every volume: the source edition, what is reproduced and what is translated, the transliteration scheme (including the edition's habit of writing the anusvāra, as in "iṃdra"), what is kept as printed, known limitations, how to report an error. | Not written. |
+| H2.5 | **One vocabulary for the whole series:** names of deities, seers, metres and ritual terms are spelt and translated the same way in every volume; one English spelling style. | No such list; volumes were made at different times by different models. |
+| H2.6 | **Pages missing from the source are obtained or declared**: from a printed copy or a library scan, or stated on the page where they fall. | Missing page marks: Vol 17 six, Vol 18 five, Vol 11 one undecided; Vol 1 pp. 17–24 and Vol 14 pp. 499–500 missing in the source. |
+| H2.7 | **Edition and errata:** each PDF carries a version and date; corrections after release are listed; a volume can be rebuilt exactly from the repository. | Not in place. |
+| H2.8 | **The series is described:** how many volumes the original has, which are published, what "Volume 17" means to a buyer. | The original Ṛgveda set is described elsewhere as thirty volumes *(to verify)*; the repo holds Vols 1–18. |
+
+### H3. Making the physical book
+
+| No. | Requirement | State today |
+|---|---|---|
+| H3.1 | **Page count within the printer's limit.** Decide: split each volume into parts, or change the format (larger page, smaller type, word lists in two columns). | Our PDFs run from 666 to 1,645 pages. Print-on-demand limits are roughly 800–1,200 pages depending on printer, paper and binding *(to verify with the printer chosen)*. The restored transliteration under the bhāṣya (C3) makes the books longer still. |
+| H3.2 | **A standard page size** offered by the printer. | The build uses 6.5 × 9.5 inches, which is not a common print-on-demand size. |
+| H3.3 | **Print-ready files to the printer's specification:** fonts embedded, images at print resolution, inner margin wide enough for a thick book, colour pages decided (portraits). | PDFs are review copies; portraits are scans of unknown resolution. |
+| H3.4 | **A full cover:** front, spine and back to the printer's template, with the barcode. | Front cover scans only. |
+| H3.5 | **A printed proof is read** before release: accents sitting on their letters, Kannada conjuncts, line breaks inside Sanskrit, page breaks inside a verse. | Only screen images have been looked at. |
+| H3.6 | **Finding aids:** contents with our page numbers; running heads showing Maṇḍala and sūkta; a table that leads from Maṇḍala–Sūkta–Ṛk to Aṣṭaka–Adhyāya–Varga and to the page; a list of all volumes. Optional: index of first words of verses, of deities and seers; glossary. | Contents and a sūkta index exist in the build; the rest does not. |
+| H3.7 | **Electronic edition decided:** PDF only, or an e-book as well; searchable and accessible text. | Not decided. |
+
+### H4. Registration and distribution
+
+| No. | Requirement | State today |
+|---|---|---|
+| H4.1 | **A publisher of record**: the user as self-publisher, or an imprint. | `publish/release.json` is empty. |
+| H4.2 | **ISBNs:** one for each volume in each format (and for each part, if volumes are split). India's national agency issues them to Indian citizens free of charge *(to verify; the per-volume and per-format rule is to be confirmed with the agency)*. | None. |
+| H4.3 | **Legal deposit:** copies delivered to the National Library, Kolkata, and three other public libraries within 30 days of publication *(to verify)*. | — |
+| H4.4 | **Catalogue data for each volume:** title, series, volume, contributors and their roles (Sāyaṇa, the Kannada editor, the translator), languages, subjects, description, price. | Not written. |
+| H4.5 | **How it is sold or given:** channel, price, and whether a free edition exists beside the printed one; the licence a reader receives. | Not decided. |
+
+### H5. Standing of the work
+- H5.1 A sacred text and a royal and monastic foundation are named on the first pages. The book must not suggest an endorsement that was not given (H1.3).
+- H5.2 The commentary's and the 1950 editor's views are reproduced, not ours; the Note on this translation says so.
+
+### H6. The shortest sound route to a first published volume (proposal)
+1. Settle H1.1–H1.3 and H1.5 first. They take calendar time, cost no translation work, and decide whether the Kannada book can be published at all.
+2. Answer the open questions of Part F, so that the format is fixed once.
+3. Choose **one pilot volume** already translated from the supplied text (Vol 17 or 18) and bring it to the release standard (H2.2): standard structure, second reading, editor's decisions on its `NOTE` list, a scholar's sample.
+4. Choose the printer and page size (H3.1–H3.2), build, read a printed proof.
+5. Register (H4) and release. Then the same route for the other volumes, with the format no longer changing.
+
+---
+
 ## Appendix: where each requirement comes from
 
 | Requirement | Source |
@@ -229,3 +299,4 @@ The scan-based volumes (1–10, 13) are not in this table: what they need depend
 | A1, B1.1, B1.4, B2.2, B6, E | standing rules (`CLAUDE.md`, `docs/HANDBOOK.md` §2, §7, §8, §11) |
 | D1, D2 | agreed in principle in the session of Nov 12 2026 |
 | D3–D8 | existing checks and the lessons of Vols 17, 18, 11 (`docs/LESSONS.md`) |
+| H | added Nov 12 2026 at the user's request; facts marked *(to verify)* from a web search of that day |
