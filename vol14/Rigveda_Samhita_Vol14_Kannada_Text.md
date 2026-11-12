@@ -3349,6 +3349,7 @@ with their protection.
 
 *[stray line in the supplied text: [7] Vol. 14]*
 
+<!-- printed 98 -->
 *[page break of the print: from here the text is on printed p. 98 (the supplied text has no page marker); header as supplied: 98 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೪. ಸೂ. ೧೮೫]*
 
 > ಮಾತಃ ಪೃಥಿವಿ ನಾಂ ಯುವಾಂ ಪ್ರತೀಹಾಸ್ಮಿನ್ಯಜ್ಞೇ ಯತ್ಸೋತ್ರಮುಪಬ್ರುವೇ ಉಪೇತ್ಯ ಬ್ರವೀಮಿ
@@ -4242,6 +4243,7 @@ May all the triumphant gods, Mitra, Aryaman, Varuna equally well pleased, come (
 ಪೀತಯೇ ॥
 (ಮ. ಸಂ. ೫-೨-೨)
 
+<!-- printed 124 -->
 *[page break of the print: from here the text is on printed p. 124 (the supplied text has no page marker); header as supplied: 124 ಸಾಯಿಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೬]*
 
 ಇತ್ಯಾದಿಯುಕ್ಕುಗಳಲ್ಲಿ ಸೋಮಪಾನಕ್ಕಾಗಿ ಮಿತ್ರ, ವರುಣ, ಅರ್ಯಮರನ್ನು ಯಜ್ಞವೇದಿಯಲ್ಲಿ ಹಾಸಿರುವ
@@ -5553,6 +5555,7 @@ as light spreads (universally) on a fine day.
 ಸುದಿನೇ—ಮೇಘಾವರಣಾದಿರಹಿತೇ ದಿನೇ । ಮೋಡಗಳಿಲ್ಲದೆ ಸ್ವಚ್ಛವಾದ ಸೂರ್ಯಪ್ರಕಾಶದಿಂದ
 ಕೂಡಿದ ದಿನಕ್ಕೆ ಸುದಿನವೆಂದು ಭಾಷ್ಯಕಾರರು ಹೇಳಿರುವರು. ರೂಢಿಯಲ್ಲಿಯೂ ಇದೇ ರೀತಿ ಇದೆ ಮೇಘಚ್ಛ-
 
+<!-- printed 160 -->
 *[page break of the print: from here the text is on printed p. 160 (the supplied text has no page marker); header as supplied: 160 ಗಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೪. ಸೂ. ೧೮೬]*
 
 ಹೈದುರ್ದಿನಂ—ಮೋಡ ಮುಚ್ಚಿಕೊಂಡು ಸೂರ್ಯರಶ್ಮಿಯು ಬೀಳದಿರುವ ದಿನಕ್ಕೆ ದುರ್ದಿನವೆಂದು ಕೋಶದ
@@ -5934,6 +5937,7 @@ and setting of the sun.]
 ಅವನಿಗೆ ಓರ್ವ ಪತ್ನಿಯನ್ನೂ (೧-೧೧೭-೧) ಅನುಗ್ರಹಿಸಿದರು. ಅವಳು ಪುರಮಿತ್ರನ ಪತ್ನಿಯಾಗಿದ್ದಳೆಂದು
 ತೋರುತ್ತದೆ. (ಋ. ಸಂ. ೧-೧೧೩-೨೦ ; ೧೦-೩೯-೭) ಮತ್ತು ಅವಳ ಹೆಸರು ಕಮಧ್ಯು (೧೦-೬೫-೧೨)
 
+<!-- printed 171 -->
 *[page break of the print: from here the text is on printed p. 171 (the supplied text has no page marker); header as supplied: ಅ.. ೨. ಆ. ೫. ವ ೫] ಋಗ್ವೇದಸಂಹಿತಾ 17]]*
 
 ಕೃಷ್ಣ ಎಂಬುವನ ಮಗನಾದ ವಿಶ್ವಕನಿಗೆ ಕಳೆದುಹೋಗಿದ್ದ ಅವನ ಮಗನನ್ನು ತಂದು ಒಪ್ಪಿಸಿದರು.
@@ -6170,6 +6174,7 @@ and long life.
 
 *[stray lines in the supplied text, twice: [12] Vol. 14]*
 
+<!-- printed 178 -->
 *[page break of the print: from here the text is on printed p. 178 (the supplied text has no page marker); header as supplied: 178 ಸಾಯಣಭಾನ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೭]*
 
 ಯುಂಟಾಯಿತೆಂದೂ ಹೇಳಿದೆ. ಮತ್ತು ಅನ್ನಕ್ಕೆ ಇರುವ ಪ್ರಾಶಸ್ತ್ರವೇನು ? ಅನ್ನದಿಂದ ಆಗುವ ಉಪಯೋಗ
@@ -6375,6 +6380,7 @@ and long life.
 ಅನ್ನವನ್ನು ಪರಬ್ರಹ್ಮಸ್ವರೂಪವೆಂದು ತಿಳಿದು ಅದನ್ನು ಪುರುಷನು ಯಾವ ಭಾವನೆಯಿಂದ ಉಪಾಸನೆ
 ಮಾಡುವನೋ ಅವನ ಭಾವನೆಗೆ ಅನುಸಾರವಾಗಿ ಅದಕ್ಕೆ ಫಲವನ್ನು ಪಡೆಯುವನು ಎಂದು ವಿವರಿಸಿದೆ. ಹೇಗೆಂದರೆ—
 
+<!-- printed 184 -->
 *[page break of the print: from here the text is on printed p. 184 (the supplied text has no page marker); header as supplied: 184 ಸಾಯಣಭಾಷ್ಪಸಹಿತಾ । ಮಂ. ೧. ಅ. ೨೪ ಸೂ. ೧೮೭]*
 
 ತತ್ಪತಿಷ್ಠೇತ್ಯುಪಾಸೀತ । ಪ್ರತಿಷ್ಠಾವಾನ್ಭವತಿ! ಅದನ್ನು ಪ್ರತಿಷ್ಠೆಯೆಂದು ಭಾವಿಸಿ ಉಪಾಸನೆ ಮಾಡಿದರೆ
@@ -8471,6 +8477,7 @@ By the power (of their prayers) they have strewn the sacred grass, the seat of n
 ಕೊಂಚವೂ ಅವಕಾಶವಿಲ್ಲವೆಂದು ತಿಳಿಯುತ್ತದೆ.
 ನಿರುಕ್ತಕಾರರು ಬರ್ಹಿಃ ಪರಿಬರ್ಹಣಾತ್ । ವೇಗವಾಗಿ ಬೆಳೆಯುವುದರಿಂದ ದರ್ಭೆಗೆ ಬರ್ಹಿಯೆಂದು
 ಹೆಸರೆಂದು ಹೇಳಿದ್ದಾರೆ. (ನಿ ೮-೮) ಬೃಹದ್ದೇವತೆಯಲ್ಲಿ,
+<!-- printed 238 -->
 *[unmarked page break in the supplied text; the printed header reads:]*
 *[238 ಸಾಯುಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೮]*
 ಬರ್ಹಿರೇವಾಯಮಗ್ನಿಸ್ತು ಸರ್ವಂ ಹಿ ಪರಿಬೃಂಹಿತಂ ।
@@ -8691,6 +8698,7 @@ of Ancient Sanskrit Literature. p. 245). ಪ್ರೈಷಸೂಕ್ತದಲ್
 ವ್ರಶ್ಚಭೃಸ್ಥ—ಎಂಬುದರಿಂದ ಧಾತು ಜಕಾರಕ್ಕೆ ಷತ್ವ. ಗತಿಕಾರಕೋಪಪದಾತ್‌ಕೃತ್ ಸೂತ್ರದಿಂದ ಕೃದುತ್ತರ
 ಪದ ಪ್ರಕೃತಿಸ್ವರ ಬರುತ್ತದೆ. ಹೀಗೆಯೇ ಸಮ್ರಾಟ್ ಎಂಬಲ್ಲಿಯೂ ವ್ಯತ್ಯಯದಿಂದ ಏಕವಚನ ಬಂದಿದೆ.
 
+<!-- printed 244 -->
 *[unmarked page break in the supplied text; the printed header reads:]*
 *[244 ಸಾಯಣಭಾಷ್ಮಸಹಿತಾ । ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೮]*
 
@@ -9166,6 +9174,7 @@ Bharati, Ila, Saraswati, I invoke you all, that you may direct us to prosperity.
 ಅಚ್ಛಾ ನಮೋಭಿರ್ವೃಷಭಂ ವಂದಧ್ಯೈ ಸ ದೇವಾನ್ಯಕ್ಷದಿಷಿತೋ ಯಜೀಯಾನ್ ।
 (ಮ. ಸಂ. ೩-೪-೩)
 
+<!-- printed 257 -->
 *[unmarked page break in the supplied text; the printed header reads:]*
 *[ಅ ೨ ಅ. ೫. ವ. ೯] ಮುಗ್ವೇದಸಂಹಿತಾ 257]*
 
@@ -10182,6 +10191,7 @@ immortals, rfo our welfare.
 ಯಜತ್ರ—ಯಜ ದೇವಪೂಜಾದಿಷು. ಧಾತು, ಅಮಿನಕ್ಷಿಯಜಿ—(ಉ ಸೂ. ೩-೩೮೪) ಎಂಬುದ
 ರಿಂದ ಅತ್ರನ್ ಪ್ರತ್ಯಯ. ಸಂಬುದ್ಧಿಯಲ್ಲಿ ಆಮಂತ್ರಿತಸ್ಯಚ ಎಂಬುದರಿಂದ ನಿಘಾತಸ್ವರ ಬರುತ್ತದೆ.
 
+<!-- printed 284 -->
 *[unmarked page break in the supplied text; the printed header reads:]*
 *[284 ಸಾಯಣಭಾಷ್ಪಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೪. ಸೂ. ೧೮೯]*
 
@@ -11202,6 +11212,7 @@ pensing) blessing has been produced for (the diffusion of water).
 ಇಲ್ಲಿ ವರ್ಷತುರ್ಸಂಬಂಧವಾದ ವಾಕ್ಯಗಳೆಂದು ಹೇಳಿದೆ.
 ನ-ನ ಎಂಬ ಶಬ್ದವು ಇಲ್ಲಿ ಸಮುಚ್ಚಯಾರ್ಥದಲ್ಲಿ (ಅಪಿ ಎಂಬರ್ಥದಲ್ಲಿ) ಪ್ರಯುಕ್ತವಾಗಿದೆ. ಇದಲ್ಲದೆ-
 ನೇತಿ ಪ್ರತಿಷೇಧಾರ್ಥಿಯೋ ಭಾಷಾಯಾಂ । ಉಭಯಮನ್ವಧ್ಯಾಯಂ । ಎಂದರೆ ಬಳಕೆಯಲ್ಲಿರುವ ಸಾಧಾರಣ
+<!-- printed 312 -->
 *[unmarked page break in the supplied text; the printed header reads:]*
 *[312 ಸಾಯುಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೪. ಸೂ. ೧೯೦]*
 ಭಾಷೆಯಲ್ಲಿ ನ ಎಂಬ ಶಬ್ದವು ಪ್ರತಿಷೇದಾರ್ಥಕವು. (ಇಲ್ಲವೆಂಬರ್ಥವನ್ನು ಸೂಚಿಸುವುದು) ಛಂದಸ್ಸಿನಲ್ಲಿ ಎರಡು
@@ -11852,6 +11863,7 @@ To whom praises (necessarily) proceed, as men (assemble round a master); as rive
 ನದ್ಯಃ । ಸಕಾರಲೋಪಶ್ಚಾಂದಸಃ । ಅಥವಾ-ರೋಧವೆಂದರೆ ದಡವು, ತೀರವು ; ನದಿಗಳು ಹರಿಯುವಾಗ ತಮ್ಮ
 ಎರಡು ಪಕ್ಕಗಳಲ್ಲಿಯೂ ದಡವನ್ನು ನಿರ್ಮಿಸಿಕೊಳ್ಳುವುವು. ಆದುದರಿಂದ ಎರಡು ದಡಗಳ ಮಧ್ಯೆ ಪ್ರವ
 ಹಿಸುವುದರಿಂದ ನದಿಗಳಿಗೆ ರೋಧಚಕ್ರಾ ಎಂದು ಹೆಸರು.
+<!-- printed 329 -->
 *[unmarked page break in the supplied text: the running head of printed p. 329 stands inside the text and reads: ಅ. ೨. ಅ. ೫ ವ. ೧೩ ] ಸುಗ್ವೇದಸಂಹಿತಾ 329]*
 (೩) ಯದ್ವಾ । ರುಧ್ಯತೇಽನೇನ ಜಲಪ್ರವಾಹ ಇತಿ ರೋಧಃ ಶಬ್ದಃ ಕರಣಂ ನಿರ್ಮಾಣಮಾಸಾಂ
 ವಿದ್ಯತೇ । ಅಥವಾ ನದಿಯಲ್ಲಿ ಹರಿಯುತ್ತಿರುವ ಜಲಪ್ರವಾಹವು ಅತಿಕ್ರಮಿಸಿ ಹರಿಯದಂತೆ ಇದರ ಪಕ್ಕಗಳಲ್ಲಿರುವ
@@ -12843,6 +12855,7 @@ ing away all the unseen (venomous creatures), and all evil spirits.
 ರೂಪನೂ । ವಿಶ್ವದೃಷ್ಟಿಃ—ಸಕಲವನ್ನೂ ನೋಡತಕ್ಕವನೂ । ಅದೃಷ್ಟಹಾ—ಸೂಕ್ಷ್ಮವಾದ ವಿಷಚರಗಳನ್ನು
 *[stray line in the supplied text: [23]Vol. 14.]*
 
+<!-- printed 354 -->
 *[unmarked page break in the supplied text: the running head of printed p. 354 stands inside the text and reads: 354 ರಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೯೧]*
 ನಾಶಮಾಡುವವನೂ ಆದ । ಆಸೌ ಸೂರ‍್ಯಃ—ಈ ಸೂರ‍್ಯನು । ವಿಶ್ವಾನಿ—ಸಮಸ್ತವಾದ ವಿಷಗಳನ್ನೂ । ಪುರು—
 ಪೂರ್ಣವಾಗಿ । ಜೂರ್ವನ್—ನಾಶಮಾಡುತ್ತಾ । ಉದಪಪ್ತತ್—ಉದಯಿಸಿ ಮೇಲಕ್ಕೆ ಬರುತ್ತಾನೆ.
@@ -13248,6 +13261,7 @@ antidotes has converted you, (Poison), to ambrosia.
 > ನವಾನಾಂ ನವತೀನಾಂ ನವಾಧಿಕಾನಾಂ ನವತಿಸಂಖ್ಯಾಕಾನಾಂ ನದೀನಾಂ। ಪುನಃ ಕೀದೃಶೀನಾಂ ।
 > ವಿಷಸ್ಯಾಸ್ಮದ್ವ್ಯಾಪಕಸ್ಯ ಸರ್ವಸ್ಯ ವಿಷಸ್ಯ ರೋಪುಷೀಣಾಂ ಲೋಪಯಿತ್ರೀಣಾಂ ಛೇತ್ರೀಣಾಂ । ಸರ್ವಾ-
 
+<!-- printed 365 -->
 *[unmarked page break in the supplied text: the running head of printed p. 365 stands inside the bhāṣya block and reads: ಅ. ೨: ಅ. ೫ ವ. ೧೬ ] ಸುಗ್ವೇದಸಂಹಿತಾ 365 ; the bhāṣya block is divided here. Three readings, one in the Pada of Ṛk 13 and one each in the Saṃhitā and Pada of Ṛk 14, are marked with a query, as they differ from the other lines]*
 
 > ಸಾಮುಕ್ತಾನಾಂ ಗಂಗಾದಿನದೀನಾಂ ನಾಮಾಗ್ರಭಂ । ಗೃಹ್ಣಾಮಿ । ಸಂಕೀರ್ತಯಾಮಿ ॥ ಗೃಹೇಶ್ಚಾಂದಸೇ
