@@ -7343,6 +7343,40 @@ Maruts, who are of one mind, and are armed with shining lances, come with the br
 
 मधोर्मदाय—सोमस्य मदार्थं । (*madhormadāya—somasya madārthaṃ |*) The word मधु (*madhu*) is stated among the names of water (नि. (*ni.*) 2-24). And—
 
+> मरुत्वा इंद्र वृषभो रणाय पिबा सोममनुष्वधं मदाय ।
+> आ सिंचस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानां ॥
+
+> *marutvā iṃdra vṛṣabho raṇāya pibā somamanuṣvadhaṃ madāya |*
+> *ā siṃcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānāṃ ‖*
+
+(मि. सं. (*mi. saṃ.*) 3-47-1, as supplied)
+
+In this Ṛk: मधु न ऊर्मि० । मधु सोमं इत्यौपमिकं माद्यतेः । इदमपीतरन्मध्वेतस्मादेव । (*madhu na ūrmi0 | madhu somaṃ ityaupamikaṃ mādyateḥ | idamapītaranmadhvetasmādeva |*) (नि. (*ni.*) 4-8). Because it produces intoxication, Soma is described as the meaning of the word मधु (*madhu*).
+
+### Printed p. 238
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 4, Sū. 34 (as supplied).*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आ नो ब्रह्माणि मरुतः समन्यवो नरां न शंसः सवनानि गंतन ।
+> अश्वामिव पिप्यत धेनुमूधनि कर्ता धियं जरिते वाजपेशसं ॥ ६ ॥
+
+> *ā no brahmāṇi marutaḥ samanyavo narāṃ na śaṃsaḥ savanāni gaṃtana |*
+> *aśvāmiva pipyata dhenumūdhani kartā dhiyaṃ jarite vājapeśasaṃ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । ब्रह्माणि । मरुतः । समन्यवः । नरां । न । शंसः । सवनानि । गंतन ।
+> अश्वां इव । पिप्यत । धेनुं । ऊधनि । कर्त । धियं । जरित्रे । वाजपेशसं ॥ ६ ॥
+
+> *ā | naḥ | brahmāṇi | marutaḥ | samanyavaḥ | narāṃ | na | śaṃsaḥ | savanāni | gaṃtana |*
+> *aśvāṃ iva | pipyata | dhenuṃ | ūdhani | karta | dhiyaṃ | jaritre | vājapeśasaṃ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
 > समन्यवः समानमनसः समानक्रोधा वा हे मरुतो नोऽस्माकं ब्रह्माणि ॥
 > अन्ननामैतत् ॥ अन्नानि सवनान्यभिषुतसोमलक्षणानि हवींष्यागंतन । आगच्छत ॥
 > गमेर्लोटि छांदसः शपो लुक् । तप्तनप्तनथनाश्चति तस्य तनबादेशः । आत एव
@@ -7364,34 +7398,6 @@ Maruts, who are of one mind, and are armed with shining lances, come with the br
 > *yathāśvāḥ pīnāvayavā bhavaṃti tadvanmeghaṃ varṣaṇasamarthamāpyāyitaṃ kurutetyarthaḥ |*
 > *api ca jaritrè stotre vājapeśasaṃ vājairannèrāśliṣṭaṃ ‖ piśa avayave ‖ dhiyaṃ*
 > *karma karta | kuruta ‖ karoteśchāṃdasaḥ śapo luk | pūrvavattaśabdasya tabādeśaḥ ‖*
-
-(मि. सं. (*mi. saṃ.*) 3-47-1, as supplied)
-
-In this Ṛk: मधु न ऊर्मि० । मधु सोमं इत्यौपमिकं माद्यतेः । इदमपीतरन्मध्वेतस्मादेव । (*madhu na ūrmi0 | madhu somaṃ ityaupamikaṃ mādyateḥ | idamapītaranmadhvetasmādeva |*) (नि. (*ni.*) 4-8). Because it produces intoxication, Soma is described as the meaning of the word मधु (*madhu*).
-
-### Printed p. 238
-
-*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 4, Sū. 34 (as supplied).*
-
-#### Ṛk 6
-
-**॥ संहितापाठः ॥**
-
-> म॒रुत्वा॑ इंद्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य ।
-> आ सिं॑चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒तानां॑ ॥
-
-**॥ पदपाठः ॥**
-
-> आ नो ब्रह्माणि मरुतः समन्यवो नरां न शंसः सवनानि गंतन ।
-> अश्वामिव पिप्यत धेनुमूधनि कर्ता धियं जरिते वाजपेशसं ॥ ६ ॥
-
-**॥ सायणभाष्यम् ॥**
-
-> आ । नः । ब्रह्माणि । मरुतः । समन्यवः । नरां । न । शंसः । सवनानि । गंतन ।
-> अश्वां इव । पिप्यत । धेनुं । ऊधनि । कर्त । धियं । जरित्रे । वाजपेशसं ॥ ६ ॥
-
-> *ā | naḥ | brahmāṇi | marutaḥ | samanyavaḥ | narāṃ | na | śaṃsaḥ | savanāni | gaṃtana |*
-> *aśvāṃ iva | pipyata | dhenuṃ | ūdhani | karta | dhiyaṃ | jaritre | vājapeśasaṃ ‖ 6 ‖*
 
 Gist: O Maruts of one mind, come to our food-offerings and Soma-libations as to the praise of men, make the cloud swell like a mare's udder, and fashion a rite that brings food to the singer.
 

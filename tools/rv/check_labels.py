@@ -3,7 +3,7 @@
 
   python3 tools/rv/check_labels.py N
 
-Needs the sub-heading layout (`##### ॥ संहितापाठः ॥`, `##### ॥ पदपाठः ॥`, `##### ॥ सायणभाष्यम् ॥`: Vols 17, 18).  Each Devanagari block of the English file is matched
+Reads the sub-heading layout (`##### ॥ संहितापाठः ॥`, `##### ॥ पदपाठः ॥`, `##### ॥ सायणभाष्यम् ॥`: Vols 17, 18) and the older bold label lines (`**॥ संहितापाठः ॥**`: Vols 12-16).  Each Devanagari block of the English file is matched
 (letters only, accents/punctuation/spaces dropped) with the Kannada blocks near the same position of the Kannada file, converted letter for letter; the
 section of the best match (the label line before it in the Kannada file) is compared with the sub-heading above the English block.  Blocks that match
 nothing (a bhāṣya cut in the English by the window's page break, a Kannada block with no label) are counted but not reported.
@@ -23,20 +23,26 @@ kb = []; sec = None; cur = None; page = None
 for l in kn:
     m = re.match(r'<!-- printed (\d+)', l)
     if m: page = int(m.group(1))
-    m = re.fullmatch(r'\*([^*\[\]]+)\*', l.strip())
+    if m: sec = None                       # a block that runs on from the page before keeps no section: its label may be one the supplied text lost
+    m = re.fullmatch(r'\*([^*\[\]]+?)[.:]?\*', l.strip())
     if m: sec = SEC.get(m.group(1).strip(), sec if m.group(1).strip() not in SEC else None); cur = None; continue
     if l.startswith('> ') and not l.startswith('> *'):
         if cur is None: cur = []; kb.append([sec, page, cur])
         cur.append(kn2deva(l[2:]))
-    else: cur = None
+    else:
+        cur = None
+        if l.strip() and not l.startswith(('<!--', '*[', '#', '[figure')): sec = None      # other text between: a later block with no label of its own (label lost in the supplied text) has no known section
 for b in kb: b[2] = norm(' '.join(b[2]))
 # English blocks with the sub-heading above them
 eb = []; lab = None; cur = None; page = None
 for l in en:
     m = re.match(r'### Printed p\. (\d+)', l)
     if m: page = int(m.group(1))
-    m = re.match(r'##### ॥ (\S+) ॥', l)
+    m = re.match(r'##### ॥ (\S+) ॥', l) or re.fullmatch(r'\*\*॥ (\S+) ॥\*\*', l.strip())      # sub-heading layout (Vols 17, 18) or bold label line (Vols 12-16)
     if m: lab = ESEC.get(m.group(1)); cur = None; continue
+    m = re.match(r'\*\*(Saṃhitā-pāṭha|Pada-pāṭha|Sāyaṇa-bhāṣya)\*\*', l)                        # the label in Latin letters with a remark after it (Vol 16)
+    if m: lab = {'Saṃhitā-pāṭha': 'samhita', 'Pada-pāṭha': 'pada', 'Sāyaṇa-bhāṣya': 'bhashya'}[m.group(1)]; cur = None; continue
+    if re.fullmatch(r'\*\*[^*]+\*\*(\s*\*\([^)]*\)\*)?', l.strip()): lab = None; cur = None; continue      # any other label line (Pratipadārtha, Bhāvārtha, ...) ends the section
     if l.startswith('#'): lab = None; cur = None; continue
     if l.startswith('> ') and not l.startswith('> *'):
         if cur is None: cur = []; eb.append([lab, page, cur])
@@ -47,7 +53,8 @@ bad = []; unmatched = 0; j0 = 0
 for i, (lab, page, t) in enumerate(eb):
     if not lab or len(t) < 20: continue
     cand = []
-    for j in range(max(0, j0 - 6), min(len(kb), j0 + 12)):
+    near = [j for j in range(len(kb)) if page is not None and kb[j][1] is not None and abs(kb[j][1] - page) <= 1]      # the blocks of the same printed page (and its neighbours): keeps the search in step when the two files drift
+    for j in sorted(set(range(max(0, j0 - 6), min(len(kb), j0 + 12))) | set(near)):
         k = kb[j]
         if not k[2]: continue
         cand.append((difflib.SequenceMatcher(None, t[:300], k[2][:300], autojunk=False).ratio(), j))
@@ -58,7 +65,8 @@ for i, (lab, page, t) in enumerate(eb):
     j0 = best[1] + 1
     ksec = kb[best[1]][0]
     if ksec and ksec != lab and best[0] >= 0.9: bad.append((page, lab, ksec, round(best[0], 2)))
-print(f'Vol {vol}: {len(eb)} English blocks, {len(kb)} Kannada blocks, {unmatched} not matched, {len(bad)} under the label of another section')
+lab_n = sum(1 for b in eb if b[0] and len(b[2]) >= 20)
+print(f'Vol {vol}: {len(eb)} English blocks ({lab_n} under a Saṃhitā/Pada/bhāṣya label and compared), {len(kb)} Kannada blocks, {unmatched} not matched, {len(bad)} under the label of another section')
 pages = sorted({b[0] for b in bad})
 for b in bad[:60]: print('  p.', b[0], 'under', b[1], 'but the Kannada block is', b[2], '(match', b[3], ')')
 if pages: print('pages:', pages)
