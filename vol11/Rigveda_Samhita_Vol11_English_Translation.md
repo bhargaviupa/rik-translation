@@ -9247,6 +9247,162 @@ As in sentences such as अथास्य हस्तं गृह्णात
 - विद्वान्—विद ज्ञाने धातुः । लटः शत्रु आगते विदेः शतुर्वसुः (पा. सू. ७-१-३६) इति तस्य वसुरादेशः । प्रथमाविभक्तिएकवचने निद्वान् इति रूपं भवति । प्रत्ययस्वरेण अकार उदात्तो भवति । **NOTE**
 - ऋतचित्—चिती संज्ञाने धातुः । क्विप्‌च इति क्विप् प्रत्ययः । ऋतं चेतति इति ऋतचित् । गतिकारकोपपदात्‌कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
 
+### Printed p. 380
+## Sūkta 146 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिमूर्धानमिति पंचर्चं षष्ठं सूक्तं दैर्घतमसं । आग्नेयं पूर्वत्राग्नेयं तु तदित्युक्तत्वात् । त्रिमूर्धानमित्यनुक्रनुणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छंदसीदमादिसूक्तत्रयस्य विनियोगः। अथैतस्या इति खंडे सूत्रितं ।
+> त्रिमूर्धानमिति त्रीणि । अ ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the sixth sūkta, त्रिमूर्धानं (*trimūrdhānaṃ*), of five ṛks, by the seer Dīrghatamas. Its deity is Agni, as the preceding sūkta was already said to be Agni's (तदित्युक्तत्वात् (*tadityuktatvāt*)). The Anukramaṇikā begins त्रिमूर्धानं (*trimūrdhānaṃ*). Use: this sūkta and the next two (three sūktas in all) are used for the triṣṭubh ṛks of the Prātaranuvāka and the Āśvina-śastra. This is laid down in the section beginning अथैतस्या (*athaitasyā*) by the sūtra त्रिमूर्धानमिति त्रीणि (*trimūrdhānamiti trīṇi*) (A. 4-13). **NOTE**
+
+##### Anuvāda
+
+This sūkta, "Trimūrdhānam", is the sixth sūkta in the twenty-first anuvāka. It has five ṛks. The seer of this sūkta is Dīrghatamas Aucathya. As said before, Agni is the deity of this sūkta too. In the Anukramaṇikā it is introduced as beginning with "Trimūrdhānam". The use of this sūkta and of the next two, three sūktas in all, is for the recitation of the ṛks in triṣṭubh metre in the Prātaranuvāka and the Āśvina-śastra mantras; this is explained by the Āśvalāyana Śrautasūtra, in the section beginning "Athaitasyā", by the sūtra "Trimūrdhānamiti trīṇi" (A. 4-13).
+
+Sūkta 146. Maṇḍala 1, Anuvāka 21, Sūkta 146. Aṣṭaka 2, Adhyāya 2, Varga 15. Number of ṛks in the sūkta: 5. Seer: Dīrghatamas Aucathya. Deity: Agni. Metre: Triṣṭubh.
+
+##### Grammar
+
+- सत्यः—सत्सु भवः सत्यः । अथवा सत् अर्हति सत्यः । भवे छंदसि (पा. सू. ४ ४ ११०) इति य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+
+### Printed p. 381
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒मू॒र्धानं॑ स॒प्तर॑श्मिं गृणी॒षेऽनू॑नम॒ग्निं पि॒त्रोरु॒पस्थे॑ ।  
+> नि॒ष॒त्तम॑स्य॒ चर॑तो ध्रु॒वस्य॒ विश्वा॑ दि॒वो रो॑च॒नाप॑प्रि॒वांसं॑ ।  
+> ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिमूर्धानं । सप्तरश्मिं । गृणीषे । अनूनं । अग्निं । पित्रोः । उपस्थे ।  
+> निऽसत्तं । अस्य । चरतः । ध्रुवस्य । विश्वा । दिवः । रोचना । आपप्रिवांसं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयाग्निर्यज्ञरूपेण स्तूयते । त्रिमूर्धानं सवनत्रयरूपमूर्धत्रयोपेतं ॥ द्वित्रिभ्यां पाद्वन्मूर्धसु बहुव्रीहावित्युत्तरपदांतोदात्तत्वं ॥ किंच
+> सप्तरश्मिं नियामकसप्तच्छंदोयुक्तं अनूनमविकलं संपूर्णफलं अग्निमग्नि—
+> साध्यमंगनादिगुणयुक्तं वा पित्रोरुपस्थे द्यावापृथिव्योरुत्संगे निषत्तं निषण्णं ।
+> मध्यॆ वर्तमानमित्यर्थः । भूमिस्थद्रव्येण म्यलोकस्थदेवताभिश्च साध्यत्वादिति
+> यावत्। किंच ध्रुवस्य निश्चलस्य चरतो हनिर्भक्षयतोऽस्याग्नेः संबंधिनं यज्ञं
+> दिवो द्युलोकादागतानि विश्वानि रोचनानि देवविमानान्यापप्रिवांसं सर्वतः पूरयितारं गृणीषे । गृणीहि । स्तुहि । यद्वा । अयमुग्निरेवोच्यते । त्रिमूर्धवदत्र
+> क्षित्यंतरिक्षद्युलोकाख्यस्थानत्रयोपेतं । लोकत्रयव्याप्तमित्यर्थः । गार्हपत्यादिस्थानत्रयवर्तिनं वा । सप्तरश्मिं सप्तज्वालं अनूनमन्यूनं पित्रोर्द्यावापृथिप्रोरुपस्थ उत्संगे निषत्तं ॥ नसत्तनिषत्तेति निपातनान्निष्ठानत्वाभावः ॥ निषण्णं आपप्रिवांसं सर्वतः पूरयंतं कामानां उक्तलक्षणविशिष्टमग्निं गृणीषे । गृणीहि ।
+> स्तुहि । किंच चरतः सर्वत्र ज्वालाभिर्गच्छतो ध्रुवस्य धृतत्पादविचलितस्य दिवो द्योतमानस्याग्निर्विश्वा सर्वाणि रोचना रोचमानानि तेजांसि सर्वत्र व्याप्नुवंतीति
+> शेषः । ईदृशमग्निं स्तुहीत्यंतरात्मनः प्रैषः ॥
+
+##### Gist of the bhāṣya
+
+By this ṛk Agni is praised in the form of the sacrifice. त्रिमूर्धानं (*trimūrdhānaṃ*): having three heads in the form of the three savanas. सप्तरश्मिं (*saptaraśmiṃ*): joined with the seven regulating metres. अनूनं (*anūnaṃ*): undiminished, of complete fruit; or Agni as endowed with the qualities of the limbs (*aṃganādi*) accomplished through fire. पित्रोरुपस्थे (*pitrorupasthe*): seated in the lap of heaven and earth, that is, abiding in the middle, since he is accomplished by substances on the earth and by deities of the upper world. Further, you praise (गृणीषे (*gṛṇīṣe*) = praise) the sacrifice of this Agni, who moves, who consumes the oblation, who is fixed, and who fills on all sides all the lights (रोचनानि (*rocanāni*)), the divine chariots that have come from the heaven-world.
+
+Or else, Agni himself is meant. Like one with three heads, he is here endowed with three places, called the earth, atmosphere and heaven-worlds, that is, he pervades the three worlds; or he abides in the three places beginning with the Gārhapatya. Seven-rayed: having seven flames. Undiminished. Seated in the lap of heaven and earth, his parents; by nipātana (नसत्तनिषत्त (*nasattaniṣatta*)) the rule on niṣṭhā-ending forms does not apply. Praise Agni, who fills desires on all sides and has the said marks. Further, of Agni who moves everywhere with his flames, who is firm (his foot unshaken), who shines, all shining lights pervade everywhere; "pervade" is to be supplied. "Praise such an Agni": this is the exhortation of the inner self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिमूर्धानं (*trimūrdhānaṃ*)—one with three heads in the form of the three savanas; or one who pervades the three worlds, earth, atmosphere and heaven; or one with three places, the Dakṣiṇāgni, Gārhapatya and Āhavanīya (continued on the next page)
+
+### Printed p. 382
+- सप्तरश्मिं (*saptaraśmiṃ*)—one with seven metres, or one with seven flames
+- अनूनं (*anūnaṃ*)—one without defect
+- पित्रोः (*pitroḥ*)—on the lap (in the middle) of heaven and earth
+- निषत्तं (*niṣattaṃ*)—seated (pervading)
+- आ पप्रिवांसं (*ā paprivāṃsaṃ*)—fulfilling (desired ends)
+- अग्निं (*agniṃ*)—Agni
+- गृणीषॆ (*gṛṇīṣè*)—praise
+- चरतः (*carataḥ*)—consuming the oblation, or moving (everywhere through flames)
+- ध्रुवस्य (*dhruvasya*)—immovable
+- दिवः (*divaḥ*)—shining
+- अस्य (*asya*)—of this Agni
+- विश्वा रोचना (*viśvā rocanā*)—all radiances (pervade everywhere)
+
+##### भावार्थ (Bhāvārtha)
+
+Praise Agni, who has three heads in the form of the three savanas, who consists of the seven metres, who is without defect, who pervades the whole space between heaven and earth, and who fulfils desired ends. All the radiances of this Agni, who moves everywhere with his flames, who is immovable and shining, pervade everywhere.
+
+##### Printed English
+
+Glorify the three-headed, seven-rayed Agni ; who is subject to no diminution, seated on the lap of his parents, (heaven and earth) ; and gratifying all (desires); as the universal radiance of the divine (Agni), whether moving or stationary, (spreads around).
+
+##### विशेषविषयगळु (Special Topics)
+
+त्रिमूर्धानं—अनयाग्निर्यज्ञरूपेण स्तूयते (*trimūrdhānaṃ—anayāgniryajñarūpeṇa stūyate*) । The two epithets, this one and सप्तरश्मिं (*saptaraśmiṃ*), are explained first as referring to the sacrifice and afterwards as referring to Agni himself. त्रिमूर्धानं सवनत्रयरूपमूर्धत्रयोपेतं (*trimūrdhānaṃ savanatrayarūpamūrdhatrayopetaṃ*) । यद्वा । आयमग्निरेवोच्यते । त्रिमूर्धवदत्र क्षित्यंतरिक्षद्युलोकाख्यस्थानत्रयोपेतं लोकत्रयव्याप्तमित्यर्थः । गार्हपत्यादिस्थानत्रयवर्तिनं वा ॥ (*yadvā | āyamagnirevocyate | trimūrdhavadatra kṣityaṃtarikṣadyulokākhyasthānatrayopetaṃ lokatrayavyāptamityarthaḥ | gārhapatyādisthānatrayavartinaṃ vā ‖*) ॥ That is, he has three heads in the form of the three savanas; or he pervades the three worlds, earth, atmosphere and heaven; or he has three places, the Dakṣiṇāgni, Gārhapatya and Āhavanīya. Thus the meaning is given in three ways. The German scholar Oldenberg, translating this ṛk into English and writing a note, points to these three meanings of Sāyaṇa and says: "Sayana refers the three heads of Agni to the three Savanas, or the three worlds, or the three sacrificial fires. The last explanation seems to be most probable." Of these three, the third, "one with three places, the Dakṣiṇāgni, Gārhapatya and Āhavanīya", is the most suitable (continued on the next page)
+
+### Printed p. 383
+meaning. Even so, it cannot be said that the first meanings are unsuitable.
+
+दिवस्परि प्रथमं जज्ञे अग्निरस्मद्वितीयं परि जातवेदाः । तृतीयमप्सु नृमणा अजस्रमिंधान एनं जरते स्वाधीः ॥ (*divaspari prathamaṃ jajñe agnirasmadvitīyaṃ pari jātavedāḥ | tṛtīyamapsu nṛmaṇā ajasramiṃdhāna enaṃ jarate svādhīḥ ‖*) ॥ (Ṛ. Saṃ. 10-45-1). Since this ṛk states in order the birth of Agni in the heaven-world, the earth-world and the atmosphere-world; and since the Śatapatha Brāhmaṇa, in the passage दिवस्सरि प्रथमं जज्ञे अग्निरिति । प्राणो वै दिवः प्राणादु ना एष प्रथममजायतास्मद्वितीयं परि जातवेदा इति यदेनमदो द्वितीयं पुरुषविधोऽजनयत्तृतीयमप्सिति यदेनमदस्तृतीय मद्भ्योऽजनयन्नृमणा अजस्रमिति प्रजापतिर्वै नृमणा अग्निरजस्र इंधान एनं जरते स्वाधीः॥ (*divassari prathamaṃ jajñe agniriti | prāṇo vai divaḥ prāṇādu nā eṣa prathamamajāyatāsmadvitīyaṃ pari jātavedā iti yadenamado dvitīyaṃ puruṣavidho 'janayattṛtīyamapsiti yadenamadastṛtīya madbhyo 'janayannṛmaṇā ajasramiti prajāpatirvai nṛmaṇā agnirajasra iṃdhāna enaṃ jarate svādhīḥ‖*) (Śa. Brā. 6-7-4-3), says the same as the ṛk above and makes known Agni's presence in all three worlds; and since many other śruti passages likewise make this clear, the second meaning also fits.
+
+सप्तरश्मिं—नियामकसप्तच्छंदोयुक्तं अथवा सप्तज्वालं (*saptaraśmiṃ—niyāmakasaptacchaṃdoyuktaṃ athavā saptajvālaṃ*) । Here also two meanings are given: one with seven metres, or one with seven flames. Here too the scholar Oldenberg states his view: "The seven reins (rays) are, according to Sayana, the seven metres or the seven flames of Agni. The last explanation is recommended by III-6-2. But it is possiblº also to think of the seven Priests सप्त होतारः (*sapta hotāraḥ*)". Of these two meanings given by Sāyaṇa, the second fits better. In support of this meaning, the ṛk
+आ रोदसी अपृणा जायमान उत प्र रिक्षा अथ नु प्रयज्यो । दिवश्चिदग्ने महिना पृथिव्या वच्यंतां ते वह्नयः सप्तजिह्वाः ॥ (*ā rodasī apṛṇā jāyamāna uta pra rikṣā atha nu prayajyo | divaścidagne mahinā pṛthivyā vacyaṃtāṃ te vahnayaḥ saptajihvāḥ ‖*) ॥ (Ṛ. Saṃ. 3-6-2)
+also praises Agni as having seven tongues. Besides this, in the ṛk
+आ यस्मिन्त्सप्त रश्मयस्तता यज्ञस्य नेतरि । मनुष्पदैव्यमष्टमं पोता विश्वं तदिन्वति ॥ (*ā yasmintsapta raśmayastatā yajñasya netari | manuṣpadaivyamaṣṭamaṃ potā viśvaṃ tadinvati ‖*) ॥ (Ṛ. Saṃ. 2-5-2)
+the explanation सप्तरश्मि वद्व्याप्ता होत्रकाः स्वस्वकर्मभिः सर्वतो व्याप्ता भवंति (*saptaraśmi vadvyāptā hotrakāḥ svasvakarmabhiḥ sarvato vyāptā bhavaṃti*) is given: like the seven rays, the seven hotṛs are engaged in their own duties. So here also the meaning "one with seven hotṛs" is possible.
+
+### Printed p. 384
+सप्त ते अग्ने समिधस्सप्त जिह्वास्सप्त ऋषयस्सप्त धाम प्रियाणि । सप्त होत्रास्सप्तधा त्वा यजंति सप्त योनीरा पृणस्वा घृतेन । (*sapta te agne samidhassapta jihvāssapta ṛṣayassapta dhāma priyāṇi | sapta hotrāssaptadhā tvā yajaṃti sapta yonīrā pṛṇasvā ghṛtena |*) । (Tai. Saṃ. 1-5-3-2). In this Taittirīya Saṃhitā passage also this point is especially praised. Likewise
+काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्फुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥ (*kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā | sphuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*) ॥ (Paṇḍita, -2-4) **NOTE**
+the Muṇḍaka Upaniṣad names the seven tongues of Agni.
+पायूपस्थेऽपानं चक्षुःशोत्रे मुखनासिकाभ्यां प्राणः स्वयं प्रातिष्ठते मध्यॆ तु समानः । एष ह्येतद्भूतमन्नं समं नयति तस्मादेताः सप्तार्चिषो भवंति । (*pāyūpasthe 'pānaṃ cakṣuḥśotre mukhanāsikābhyāṃ prāṇaḥ svayaṃ prātiṣṭhate madhyè tu samānaḥ | eṣa hyetadbhūtamannaṃ samaṃ nayati tasmādetāḥ saptārciṣo bhavaṃti |*) । (Praśna 3-5)
+The Praśna Upaniṣad also describes the seven-fold flames of Agni and their powers.
+
+पित्रोः—द्यावापृथिव्योः (*pitroḥ—dyāvāpṛthivyoḥ*) । "Of heaven and earth." In the ṛk
+स रोचयज्जनुषा रोदसी उभे स मात्रोरभवत्पुत्र ईड्यः । हव्यवाळग्नि रजरश्च नोहितो दूळभो विशामतिथिर्विभावसुः ॥ (*sa rocayajjanuṣā rodasī ubhe sa mātrorabhavatputra īḍyaḥ | havyavāḷagni rajaraśca nohito dūḷabho viśāmatithirvibhāvasuḥ ‖*) ॥ (Ṛ. Saṃ. 3-2-2)
+and in
+अग्ने दिवःसूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः । ऋदग्गेवा इह यजा चिकित्वः ॥ (*agne divaḥsūnurasi pracetāstanā pṛthivyā uta viśvavedāḥ | ṛdaggevā iha yajā cikitvaḥ ‖*) ॥ (Ṛ. Saṃ. 3-25-1)
+and likewise in many other ṛks, 10-1-2; 10-2-7; 10-140-2 and so on, Agni is said to be born of heaven and earth; therefore पित्रोः (*pitroḥ*) means heaven and earth as his parents. Another meaning, the two araṇis, may also be possible.
+
+आ पप्रिवांसं—सर्वतः पूरयंतं कामानां (*ā paprivāṃsaṃ—sarvataḥ pūrayaṃtaṃ kāmānāṃ*) । The meaning is: one who at all times and in all places fulfils desired ends. From the root पृ (*pṛ*), पालनपूरणयोः (*pālanapūraṇayoḥ*), which gives the sense of filling, the word पप्रिः (*papriḥ*) is formed, and means one who fills, one who gives in full (continued on the next page)
+
+### Printed p. 385
+In the ṛk
+नृ चक्षा एष दिवो मध्य आस्त अपप्रिवान्रोदसी अंतरिक्षं । स विश्वाचीरभि चष्टे धृताचीरंतरा पूर्वमपरं च केतुं । ( (*nṛ cakṣā eṣa divo madhya āsta apaprivānrodasī aṃtarikṣaṃ | sa viśvācīrabhi caṣṭe dhṛtācīraṃtarā pūrvamaparaṃ ca ketuṃ | (*) । (Ṛ. Saṃ. 10-139-2)
+अपप्रिवान् (*apaprivān*) means स्वतेजसा पूरयन् (*svatejasā pūrayan*); in the same way here it means कामानां पूरयितारं (*kāmānāṃ pūrayitāraṃ*).
+
+चरतः ध्रुवस्य (*carataḥ dhruvasya*)—although these epithets state opposed qualities, what is praised is the moving of the flames and the immovable nature of Agni in his original form.
+
+##### Grammar
+
+- त्रिमूर्धानम्—त्रयः मूर्धानः यस्य सः त्रिमूर्धा । तम् । द्वित्रिभ्यां पाद्वन्मूर्धसु (पा. सू. ६-२-१९७) इति बहुव्रीहौ उत्तरपदांतोदात्तस्वरः भवति ।
+- सप्तरश्मिम्—सप्तरश्मयः यस्य सः तम् । बहुव्रीहौप्रकृत्यापूर्वपदम् (पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- गृणीषे—गृ शब्दे धातुः । क्रादिः । लेट् मध्यमपुरुषएकवचने थास् प्रत्ययः । थासः से (पा. सू. ३-४-८०) इति तस्य से आदेशः । क्रादिभ्यःश्ना- इति श्नाविकरणम् । प्वादीनांह्रस्वः (पा. सू. ७-३-९) इति धातोः ह्रस्वः । ईहल्यघोः (पा. सू. ६-४-११३) इति विकरणस्य ईत्वम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- अनूनम्—न ऊनः अनूनः तम् । नलोपो नञाः इति नलोपे प्राप्ते तस्मान्नुडचि इति तस्य परस्य नुडागमः । अव्ययपूर्वपदप्रकृतिस्वरः भवति ।
+- निषत्तम्—षद्लृ विशरणगत्यवसादनेषु धातुः । अस्मात् क्तप्रत्ययः । दकारस्य परत्वे प्राप्तेऽपि नसत्तनिषत्त- (पा. सू. ८-२-६१) इति निपातनात् नत्वं न भवति । द्वितीयाविकवचनांतरूपम् । कृदुत्तरपदप्रकृतिस्वरः भवति । **NOTE**
+- चरतः—चर गतिभक्षणयोः धातुः । लडर्थे शतृप्रत्ययः । षष्ठीएकवचनांतरूपम् । धातुस्वरः अवशिष्यते ।
+- विश्वा—नपुंसके शि आदेशे प्राप्ते रूपे सति शेश्छंदसि बहुलम् इति शेः लोपः ।
+- दिवः—ऊडिदं पदादि- (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः भवति ।
+
+### Printed p. 386
+- रोचना—सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः (जस्) आकारादेशः भवति ।
+- आपप्रिवांसम्—आज् उपसर्गः । प्रा पूरणे धातुः । अस्मात् लिट् प्राप्ते क्वसुश्च (पा. सू. ३-२-७६) इति तस्य क्वसुः प्रत्ययः । एकाचत्वात् वस्वेकाचाद्भसाम् (पा. सू. ७-२-१७६) इति तस्य इडागमः । आतो लोप इट च (पा. सू. ६-४-६४) इति आकारलोपः । द्विर्वचने चि (पा. सू. १-१-५९) इति स्थानिवद्भावः भवति इति प्रत्ययनिमित्तत्वेन द्वित्वादि । प्रत्ययस्य आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति । द्वितीयाविकवचने परे अत्वसंतस्य इति उपधादीर्घः । उगित्त्वात् नुमागमः । **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्षा म॒हा अ॒भि व॑नक्ष एने अ॒जर॑स्तस्थावि॒तू॑तिर्ऋ॒ष्टः ।  
+> उ॒र्व्याः प॒दो नि द॑धाति॒ सानौ॑ रि॒हंत्यूधो॑ अरु॒षासो॑ अस्य ।  
+> ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्षा । महान् । अभि । ववक्षे । एने इति । अजरः । तस्थौ । इतःऊति । ऋष्यः ।  
+> उवर्व्याः । पदः । नि । दधाति । सानौ । रिहंति । ऊधः । अरुषासः । अस्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षा सेक्ता । फलप्रदानसमर्थ इत्यर्थः । आत एव महान् महिम्ना स्वरूपेणोद्वृत्तवृषभसदृशोऽयमग्निरेने द्यावापृथिव्यावभिक्रम्य व्याप्य ववक्षे ।
+> वहति । व्यापोतीत्यर्थः ॥ वहतेर्लेटि च्छांदसः शपः श्लुः । लोपस्त आत्मनेपदेष्टिति तलोपः । सिब्बहुलमिति सिस् !! वृष्टादिप्रदानेन हनिर्वहनेन च लोकद्वयस्य
+> वासिनो देवान्मनुष्यांश्च रक्षतीत्यर्थः। किंचायमजरो जरारहितनु ऋष्टो महान् पूज्यः। महन्नामैतत् ऋष्ट उक्ष इति तन्नामसु पाठात् । तथेतऊतिः प्राप्तरक्षणः
+> सन् तस्थौ । स्थितो वर्तते । यद्वा । उक्तगुणोऽयमितऊतिरत एव गमनवानस्मद्वैयजनाभिमुखगमनवान् तस्थौ । वर्तते । तदनंतरमुर्व्वा विस्तृताया भूम्नाः
+
+##### Gist of the bhāṣya
+
+उक्षा (*ukṣā*) is the sprinkler, that is, one able to bestow fruit. Hence he is great (महान् (*mahān*)), by his greatness and nature like a mighty bull; this Agni, having gone across and pervaded the two, heaven and earth (एने (*ene*)), ववक्षे (*vavakṣe*), carries, that is, pervades. By granting rain and so on, and by carrying the oblation, he protects the gods and men who live in the two worlds. Further, he is अजरः (*ajaraḥ*), free from old age, ऋष्टः (*ṛṣṭaḥ*), great, worshipful; for महन्नामैतत् ऋष्ट उक्ष इति तन्नामसु पाठात् (*mahannāmaitat ṛṣṭa ukṣa iti tannāmasu pāṭhāt*), since ऋष्टः (*ṛṣṭaḥ*) and उक्षा (*ukṣā*) are read among the names of the great. Likewise *itaūtiḥ*: having obtained protection, he तस्थौ (*tasthau*), stands, remains. Or else: with the qualities stated, this one is *itaūtiḥ*, hence a goer, going towards our sacrifice, he remains. Thereafter (the text breaks off at the end of the window with *urvyā vistṛtāyā bhūmnāḥ*, "of the wide earth").
+
 ---
 
-**Progress note:** Done through printed p. 379. pp. 374-379 (batch API)
+**Progress note:** Done through printed p. 386. pp. 380-386 (batch API)
