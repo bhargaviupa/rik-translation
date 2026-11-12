@@ -6494,6 +6494,142 @@ Sarasvatī—सर इत्युदकनाम । तद्वती स्
 
 "For us" (नः (*naḥ*)); तत् (*tat*) is "of that kind"; तुरीपं (*turīpaṃ*) is swiftly pervading; अद्भुतं (*adbhutaṃ*) is that which, being manifested at once, is as if it had not been (*abhūtamiva sat*). Or else: महन्ना मैतत् (*mahannā maitat*), "great in essence" (सारतो महत् (*sārato mahat*)) **NOTE**. पुरु वारं (*puru vāraṃ*): बहूनां प्राणिनामर्थायैवारमलं समर्थं (*bahūnāṃ prāṇināmarthāyaivāramalaṃ samarthaṃ*), that is, capable, for the sake of many living beings. Or else: पुरु वारं (*puru vāraṃ*) is much and abundant, the word वा (*vā*) being in the sense of "and" (च (*ca*)).
 
+### Printed p. 268
+
+> अरं अलं । त्मनात्मना पुरु । बहुक्रियानिशेषणमेतत् । ईदृशमुदकं त्वष्टा
+> वृष्ट्यादेः कर्ता । त्वष्टशब्दो यास्केनैवं व्याख्यातः । तृष्णा तूर्णमश्नुत इति
+> नैरुक्तास्विषेर्वा स्याद्वृद्धिकर्मणस्त्वक्षतीर्वा स्यात्करोतिकर्मणः । नि. ८-१३ । इति ।
+> तन्नामको वैद्युतोऽग्निरस्मयुरस्मान्यामयमानो देवो नः पोषायास्मत्तुष्टये राये समृद्धये च नाभा नाभौ वृष्टेबंधके मेघस्यनाभिस्थानेऽवस्थितमुक्तलक्षणमुदकं वि ष्यतु । विविधं गमयतु ॥ षोऽंतकर्मणि । ओतः श्यनीत्योकारलोपः । उपसर्गात्सुनोतीति षत्वं ॥ यद्वा । नो नाभास्मत्संबंधियज्ञनाभावुत्तरवेद्यां राये ॥ षष्ठ्यर्थे चतुर्थी ॥ रायो गवादिधनस्य पोषाय
+> पुष्टये ॥ स्यतिरुपसृष्टो विमोचनार्थः ॥ उक्तलक्षणां वृष्टिं मुंचतु ॥
+
+##### Gist of the bhāṣya
+
+The block completes the gloss begun on the previous page. अरं (*araṃ*) means "enough" (अलं (*alaṃ*)). त्मना (*tmanā*) means "by itself". पुरु (*puru*) is an adverb of much action. Water of this kind is made by Tvaṣṭṛ, the maker of rain and the like. Yāska explains त्वष्ट (*tvaṣṭa*) in the Nirukta (Ni. 8-13): the Nirukta writers say he "quickly pervades"; or the word may come from the root त्विष् (*tviṣ*) (to grow), or from त्वक्ष (*tvakṣa*) (to make). The deity so named is the lightning Agni, "desirous of us" (अस्मयुः (*asmayuḥ*)), who, for our nourishment (पोषाय (*poṣāya*)) and prosperity (राये (*rāye*)), is to send forth variously (वि ष्यतु (*vi ṣyatu*)) the water of the stated kind that stands नाभा (*nābhā*), in the navel, the place that holds the rain, the centre of the cloud. ष्यतु (*ṣyatu*) is from the root षो (*ṣo*) (to end); the ओ (*o*) is dropped, and the ष (*ṣa*) comes after the preposition.
+Alternatively: नाभा (*nābhā*) is the navel of our sacrifice, the northern altar; राये (*rāye*) is a dative used for the genitive, "of wealth such as cattle", पोषाय (*poṣāya*) "for the increase". The verb स्यतु (*syatu*) with the preposition has the sense of release: "let him release the rain of the stated kind".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—Agni, maker of rain in the form of lightning
+- अस्मयुः (*asmayuḥ*)—being favourably disposed towards us
+- नः (*naḥ*)—our
+- पोषाय (*poṣāya*)—for nourishment
+- राये (*rāye*)—for prosperity
+- नाभा (*nābhā*)—from the central part of the cloud. (Or: नः (*naḥ*)—our; नाभा (*nābhā*)—on the northern altar, the navel of the sacrifice; राये (*rāye*)—for wealth such as cattle; पोषाय (*poṣāya*)—for protection)
+- नः (*naḥ*)—for us
+- तत् (*tat*)—that well-known
+- तुरीपं (*turīpaṃ*)—swiftly falling
+- अद्भुतं (*adbhutaṃ*)—wonderful
+- पुरुवारं (*puruvāraṃ*)—sufficient for many creatures, or very abundant
+- त्मना पुरु (*tmanā puru*)—the rain that of itself does much good
+- वि ष्यतु (*vi ṣyatu*)—let him pour down in various ways
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni in the form of lightning, favourably disposed towards us, pour down abundantly, for our nourishment and for our prosperity, from the middle of the cloud, that well-known rain, swiftly falling, wonderful, sufficient for many creatures and very abundant.
+
+##### Printed English
+
+May Twashtri, favourably disposed towards us, send to us, for our nourishment and prosperity, the quick (falling) wonderful, abundant (water), in the centre (of the cloud, effecting) of itself much (good).
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वष्टा (*tvaṣṭā*)—The Praiṣa-sūkta describes him as "Tvaṣṭṛ, the deity of the ninth Prayāja". In the Praiṣa-sūkta the nature of this deity is shown by four or five epithets.
+
+### Printed p. 269
+Among the śruti passages giving individual opinions about the deity Tvaṣṭṛ, the following, which refer to the deity of the Āprī-sūkta alone, are quoted:
+होतायक्षत्त्वष्टारमचिष्टुमपाकग्ं रेतोधां विश्रवसं यशोधां । पुरुरूपमकामकर्शनग्ं सुपोषः पोपैः स्यात्सुवीरो वीरैर्वेत्वाज्यस्य होतरज । (*hotāyakṣattvaṣṭāramaciṣṭumapākagṃ retodhāṃ viśravasaṃ yaśodhāṃ | pururūpamakāmakarśanagṃ supoṣaḥ popaiḥ syātsuvīro vīrairvetvājyasya hotaraja |*) (Tai. Brā. 3-6-2-2)
+In this mantra there are the epithets अचिष्टु (*aciṣṭu*), अपाकं (*apākaṃ*), रेतोधां (*retodhāṃ*), विश्रवसं (*viśravasaṃ*), यशोधां (*yaśodhāṃ*), पुरुरूपं (*pururūpaṃ*), अकामकर्शनं (*akāmakarśanaṃ*). Among them:
+अचिष्टुं (*aciṣṭuṃ*) means "without agitation, without fickleness, steady": one who is steady, not fickle.
+अपाकं (*apākaṃ*) means "not a child, wise": not a child but wise.
+रेतोधां (*retodhāṃ*) is explained as पुत्रादिबीजस्य यजमाने धारयितारं (*putrādibījasya yajamāne dhārayitāraṃ*): one who sows the seed of sons and the like in the sacrificer.
+विश्रवसं (*viśravasaṃ*) is explained as विविधकीर्तियुक्तं (*vividhakīrtiyuktaṃ*): endowed with fame of many kinds.
+यशोधां (*yaśodhāṃ*) means यजमाने य.शसः धारयितारं (*yajamāne ya.śasaḥ dhārayitāraṃ*): one who makes the sacrificer a sharer in fame.
+पुरुरूपं (*pururūpaṃ*) is explained as बहुरूपं (*bahurūpaṃ*): having forms of many kinds.
+अकामकर्शनं (*akāmakarśanaṃ*) means कामानां अनाशयितारं (*kāmānāṃ anāśayitāraṃ*): one who brings the sacrificer's desired ends to fulfilment.
+These epithets show the personal nature of Tvaṣṭṛ. The Nirukta writers, showing the derivation of the word त्वष्ट (*tvaṣṭa*) (8-14): त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकमणस्त्वक्षतेर्वा स्यात् करोटिकर्मणः । (*tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikamaṇastvakṣatervā syāt karoṭikarmaṇaḥ |*) It is the view of the Nirukta writers that the name is because he pervades swiftly; or it may be formed from the root त्विष् (*tviṣ*) meaning "to shine", or from the root त्वक्ष (*tvakṣa*) meaning "to make". From these explanations it is understood that Tvaṣṭṛ is one who pervades swiftly, who shines, and who is a maker. To show to which world this deity belongs: माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणि (*mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇi*). The views are given that some say he belongs to the group of deities of the atmosphere, and Śākapūṇi says he is Agni. In the Bṛhaddevatā, approving the first view,
+
+### Printed p. 270
+त्वष्टा रूपविकर्ता च योऽसौ माध्यमिके गणे । स्तुतः स च निपातेन सूक्तं तस्य न विद्यते ॥ (*tvaṣṭā rūpavikartā ca yo 'sau mādhyamike gaṇe | stutaḥ sa ca nipātena sūktaṃ tasya na vidyate ‖*) (Bṛ. De. 3-25)
+this verse says that he belongs to the group of deities of the middle world. Before this:
+त्वष्टा तु यस्त्वयमेव पार्थिवोऽग्निरिति स्तुतिः । पार्थिवस्यास्य वर्चः स्युः कस्याप्यक् चार्तवेषु च ॥ श्वषितस्त्वक्षतेर्वा स्यात् तूर्णमश्नुत एव वा । कर्मसूत्तारणो वेति तेन नामैतदश्नुते ॥ यः सहस्रतमो रश्मी रवेश्चंद्रमुपाश्रितः । सोऽपि त्वष्टारमेवाग्निं परं चेह च यन्मधु ॥ (*tvaṣṭā tu yastvayameva pārthivo 'gniriti stutiḥ | pārthivasyāsya varcaḥ syuḥ kasyāpyak cārtaveṣu ca ‖ śvaṣitastvakṣatervā syāt tūrṇamaśnuta eva vā | karmasūttāraṇo veti tena nāmaitadaśnute ‖ yaḥ sahasratamo raśmī raveścaṃdramupāśritaḥ | so 'pi tvaṣṭāramevāgniṃ paraṃ ceha ca yanmadhu ‖*) (Bṛ. De. 3-15 to 17)
+The praise that is for the terrestrial Agni is addressed to Tvaṣṭṛ also; there is also a suggestion in some places that he is a deity connected with the earth; in the hymns to the seasons too he is described as a part of Agni. Then the derivation of the word त्वष्ट (*tvaṣṭa*) in the Nirukta is repeated. It is also described that the thousandth ray of the sun, resting on the moon, pervades in honey, in the other world and on the earth, and is likewise in Tvaṣṭṛ. The authors of the Bṛhaddevatā, mainly, approve in this matter Śākapūṇi's view stated in the Nirukta. In the Nighaṇṭu Tvaṣṭṛ is placed first with the Āprī deities (5-2), then with the deities of the atmosphere (5-5), and thirdly with the deities of the heavenly world (5-6).
+The story of Tvaṣṭṛ and the sage Dadhīci is given in the special topics of Sūkta 1-139. In the Aitareya Brāhmaṇa:
+त्वष्टारं यजति वाग्वै त्वष्टा वाग्फिदं सर्वं । त्वाष्ट्रीं वाचमेव तत्प्रीणाति वाचं यजमाने दधाति । (*tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgphidaṃ sarvaṃ | tvāṣṭrīṃ vācameva tatprīṇāti vācaṃ yajamāne dadhāti |*) (Ai. Brā. 2-4)
+By this sentence, the identity of Tvaṣṭṛ with Speech is stated; this too is one view.
+य इमे द्यावापृथिवी जनित्रि रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् । (*ya ime dyāvāpṛthivī janitri rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān |*) (Ṛ. Saṃ. 10-110-9)
+In this Ṛk it is praised that this deity has a divine birth, and that therefore even at the times of creation he shows his antiquity. The idea that Tvaṣṭṛ is most ancient
+
+### Printed p. 271
+is known from the epithets अग्रिय (*agriya*) and अग्रज (*agraja*) in the Ṛks:
+इह त्वष्टारमग्रियं विश्वरूपमुपद्वये । अस्माकमस्तु केवलः ॥ (*iha tvaṣṭāramagriyaṃ viśvarūpamupadvaye | asmākamastu kevalaḥ ‖*) (Ṛ. Saṃ. 1-13-10)
+त्वष्टारमग्रजां गोपां पुरोयानानमा हुवे । इंदुरिंद्रो वृषा हरिः पवमानः प्रजापतिः ॥ (*tvaṣṭāramagrajāṃ gopāṃ puroyānānamā huve | iṃduriṃdro vṛṣā hariḥ pavamānaḥ prajāpatiḥ ‖*) (Ṛ. Saṃ. 9-5 9)
+**NOTE**
+त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्स्मानजे । तेषां नः स्नातिमा यज । (*tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvānsmānaje | teṣāṃ naḥ snātimā yaja |*) (Ṛ. Saṃ. 1-188-9)
+तृप्ता रूपाणि विकरोति । (*tṛptā rūpāṇi vikaroti |*) (Tai. Saṃ. 1-5-9-2)
+Such passages praise the work of creation of Tvaṣṭṛ. Moreover he has the epithet "of all forms" (Ṛ. Saṃ. 1-13-10).
+तुरीपं (*turīpaṃ*)—If only the etymology of the word तुरीप (*turīpa*) is considered, it means तूर्णं व्यापि (*tūrṇaṃ vyāpi*), "that which pervades swiftly"; that is, falling or pervading swiftly. According to the commentator it may be rain or it may be seed. In this Ṛk the commentator has made the word an epithet of rain. But
+तन्न स्तुरीपमध पोषयित्नु देव त्वष्टर्वि रराणः स्यस्व । यतो वीरः कर्मण्यः सुदक्षो युक्तग्रावा जायते देवकामः ॥ (*tanna sturīpamadha poṣayitnu deva tvaṣṭarvi rarāṇaḥ syasva | yato vīraḥ karmaṇyaḥ sudakṣo yuktagrāvā jāyate devakāmaḥ ‖*) (Ṛ. Saṃ. 3-4-9)
+in this Ṛk the word तुरीप (*turīpa*) is explained as generative seed. Since in the Praiṣa-sūkta the epithet रेतोधां (*retodhāṃ*) states a special quality of Tvaṣṭṛ, this meaning appears sound.
+त्वष्टे स्वाहा, त्वष्टे पुरीपाय स्वाहा, त्वष्टे पुरुरूपाय स्वाहा । (*tvaṣṭe svāhā, tvaṣṭe purīpāya svāhā, tvaṣṭe pururūpāya svāhā |*) (Kṛ. Saṃ. 7-3-15)
+**NOTE**
+In this Saṃhitā passage too, where the identity of Tvaṣṭṛ and तुरीप (*turīpa*) is stated, the word is explained as seed. The scholar Keith explains this mantra as "To Tvashtra, the Seminal". Or, since he is a deity of the middle world, he may be called the cause of the fall of rain.
+
+### Printed p. 272
+
+##### Grammar
+
+- अरम् — वालमूल-(पा. सू. ८-२-१८) इति लकारस्य रेफादेशः । अलं इति स्वरूपम् ।
+- त्मना — आत्मना इति रूपे मंत्रेष्वाज्यादेरात्मनः (पा सू. ६-४-१४१) इति अवर्णस्य लोपो भवति ।
+- त्वष्वा — त्वष दीप्तौ धातुः । अथवा त्वक्षू तनूकरणे धातुः । तस्मात् कर्तरि तृन् प्रत्ययः । नित्त्वादाद्युदात्तस्वरो भवति । स्कोःसंयोगाद्योरंतेच इति ककारस्य लोपः । प्रथमाएकवचनांतरूपम् ।
+- पोषाय — पुष पुष्टौ धातुः । हलश्च (पा. सू. ३-३-१२१) इति घ् प्रत्ययः । पुगंतलघूपधस्यच (पा. सू. ७-३-८६) इति धातोर्लघूपधस्य गुणः । प्रत्ययस्य इत्त्वादाद्युदात्तस्वरो भवति । चतुर्थीविकवचनांतरूपम् । **NOTE**
+- वि ष्यतु — षोंतकर्मणि धातुः । लोट् प्रथमपुरुषएकवचने ति प्रत्ययः । एरः इति उत्वम् । दिवादिभ्यःश्यन् इति श्यन् विकरणम् । ओतः श्यसि (पा. सू. ७-३-२१) इति धातोरोकारस्य लोपः । धात्वादेःषः सः (पा. सू. ६-१-६४) इति आदेः सत्वम् । स्यतु इति रूपं भवति । वि इत्युपसर्गे निमित्तसत्त्वात् उपसर्गात् सुनोति—(पा. सू. ८-३-६५) इति धातुसकारस्य षत्वम् । अतिजंतस्य परत्वात् तिजंतनिघातस्वरो भवति । द्वितीयव्याख्याने उपसर्गेण धात्वर्थः बलादन्यः प्रतीयते इति वचनात् वि उपसर्गयोगे विमोचनार्थं ददाति ।
+- राये — रै शब्दः । चतुर्थीएकवचनांतरूपम् । ऊडिदं पदादि—(पा. सू ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति । द्वितीयव्याख्याने षष्ठ्यर्थे चतुर्थी आगता । नाभा सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः डादेशः । वित्त्वात् टिलोपः ।
+- अस्मयुः — आस्मान् आत्मनः इच्छति इत्यर्थविवक्षायां सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति इच्छार्थे क्यच् । क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतादुप्रत्ययः । अतो लोपः (पा. सू. ६-४-४८) इति सूत्रादकारलोपः । प्रत्ययस्वरेणांतोदात्तो भवति । ॥ १० ॥
+
+### Printed p. 273
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒व॒सृ॒जन्नुप॒ त्मना॑ दे॒वान्य॑क्षि वनस्पते ।  
+> अ॒ग्निर्ह॒व्या सु॑षूदति दे॒वो दे॒वेषु॒ मेधि॑रः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्यसृजन् । उप । त्मना । देवान् । यक्षि । वनस्पते ।  
+> अग्निः । हव्या । सुसूदति । देवः । देवेषु । मेधिरः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वनस्पते वनानां पालक यूपाभिमानिदेवाग्ने अवसृजन् स्वैरं वर्तयन्नृत्विजः स्वस्वकर्मसु व्यापारयन् त्मनात्मना देवान्हविर्भुज उप यक्षि । उपेत्य
+> यज ॥ बहुलं छंदसीति शपो लुक् ॥ देवो द्योतमानो मेधिरो मेधावानग्निराहवनीयो देवेषूभयेषां मध्यॆ हव्या हवींषि सुसूदति । प्रेरयति ।
+> स्वीकरोति ॥ षूद क्षरणे । बहुलं छंदसीति शपः श्लुः । लेटोऽडाटावित्यडागमः ॥
+> यद्वा । यूपाग्निरेव परोक्षेणोच्यते । सोऽग्निर्हवींषि सुष्टु स्वीकरोति ॥
+
+##### Gist of the bhāṣya
+
+"O Vanaspati, protector of woods, Agni who presides over the sacrificial post: sending forth (अवसृजन् (*avasṛjan*)), that is, moving freely, setting the priests to their several duties, do you of yourself (त्मना (*tmanā*)) come to the gods, the eaters of the oblation, and sacrifice (उप यक्षि (*upa yakṣi*), "approach and sacrifice")." यक्षि (*yakṣi*) has the loss of *śap* (by बहुलं छंदसीति (*bahulaṃ chaṃdasīti*)). The shining (देवः (*devaḥ*)), wise (मेधिरः (*medhiraḥ*)) Agni, the Āhavanīya, among both sets of gods (देवेषु (*deveṣu*)), सुसूदति (*susūdati*) the oblations (हव्या (*havyā*)): he sends them on, or accepts them. The root is षूद (*ṣūda*) in the sense of flowing; *śap* is replaced by श्लु (*ślu*), and *leṭ* takes the augment *aḍ*.
+Or else: the Agni of the sacrificial post is meant indirectly; that Agni well accepts the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पते (*vanaspate*)—O Agni, the deity presiding over the sacrificial post
+- अवसृज (*avasṛja*)—setting (the priests) to their several duties
+- त्मना (*tmanā*)—you yourself (coming)
+- देर्वा (*dervā*)—the gods
+- उप (*upa*)—approaching
+- यक्षि (*yakṣi*)—perform the sacrifice
+- देवः (*devaḥ*)—shining
+- मेधिरः (*medhiraḥ*)—wise
+- अग्निः (*agniḥ*)—Agni
+- देवेषु (*deveṣu*)—among the gods
+- हव्या (*havyā*)—the oblations
+- सुसूदति (*susūdati*)—accepts. Or: distributes the oblations among the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the deity presiding over the sacrificial post, setting the priests to their several duties, come of yourself to the house of sacrifice and perform the sacrifice for the gods. The shining and wise Agni accepts the oblation in order to distribute it to the gods.
+
 ---
 
-**Progress note:** Done through printed p. 267. pp. 260-267 (batch API)
+**Progress note:** Done through printed p. 273. pp. 268-273 (batch API)
