@@ -1440,6 +1440,126 @@ it clearly means the atmosphere. In the sentence of the Chāndogya Upaniṣad
 
 it is said that the sorrowless world of heaven is beyond the world of the sun. In the Śatapatha Brāhmaṇa and in the Taittirīya Upaniṣad, the name Nāka is well known as that of Mudgala's son, who knew Brahman; it means "one free of sorrow".
 
+### Printed p. 58
+
+##### विशेषविषयगळु (Special Topics)
+
+रजः (*rajaḥ*)—The word रजः (*rajaḥ*) is repeated. Sāyaṇa explains its first occurrence as "heaven, full of lustre" and its second as "water". The Nirukta supports both meanings: रजो रजतेज्योती रज उच्यते । उदकं रज उच्यते लोका रजांस्युच्यंते (*rajo rajatejyotī raja ucyate | udakaṃ raja ucyate lokā rajāṃsyucyaṃte*) (Ni. 4-19). The word रजस् (*rajas*) is formed from the root रंज् (*raṃj*), which gives the sense of "shining", and so it can mean light, water and the worlds. The Nirukta also states that असृगहनी रजसी उच्येते (*asṛgahanī rajasī ucyete*), that is, that it is also a synonym for blood and for day. The Nirukta author quotes the Ṛk रजांसि चित्रा वि चरंति तन्यवो दिवः सम्राजा पयसा न उक्षतं । (*rajāṃsi citrā vi caraṃti tanyavo divaḥ samrājā payasā na ukṣataṃ |*) (Ṛ. Saṃ. 5-63-5) and shows that the word रजांसि (*rajāṃsi*) there means "the worlds". In the 44th section of the 10th chapter of the Nirukta he quotes the Ṛk अब्बामुक्षैरहिं गृणीषे बुद्धे नदीनां रजःसु शीवन् । (*abbāmukṣairahiṃ gṛṇīṣe buddhe nadīnāṃ rajaḥsu śīvan |*) (Ṛ. Saṃ. 7-34-16) and shows that the word there means "in waters". In the 6th section of the 12th chapter he quotes the Ṛk एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*) (Ṛ. Saṃ. 1-92-1) and explains रजसः (*rajasaḥ*) there as "of the atmosphere". The author of the Bṛhaddevatā, with त्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा । (*trīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā |*) (Bṛ. De. 2-64) **NOTE**, gives the meaning of the word रजांसि (*rajāṃsi*) thus: Viṣṇu, who took the three strides, made the three worlds shine with his feet. In the present Ṛk, then, the first रजः (*rajaḥ*) means the atmosphere, full of lustre, and the second means the water that takes the form of rain.
+
+हिरण्यये रथे (*hiraṇyaye rathe*)—हिरण्यये हिरण्मये मधुपूर्णे रथे (*hiraṇyaye hiraṇmaye madhupūrṇe rathe*): "in the chariot filled with honey"; this describes the chariot of the Aśvin deities. Sāyaṇa quotes the Ṛk त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्दिदुः । (*trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva iddiduḥ |*) (Ṛ. Saṃ. 1-34-) **NOTE** and thereby shows that the Aśvins' chariot is described as full of honey.
+
+### Printed p. 59
+
+वंधुरे (*vaṃdhure*)—वंधुरत्रययुक्ते (*vaṃdhuratrayayukte*): a chariot with three seats. In Ṛks such as रथो यो नां त्रिवंधुरः (*ratho yo nāṃ trivaṃdhuraḥ*) (Ṛ. Saṃ. 8-22-5) the Aśvins' chariot with three seats is described; here too a chariot with three seats is meant.
+
+अंजसा (*aṃjasā*)—मुख्यत्वेन, प्रकृष्टं (*mukhyatvena, prakṛṣṭaṃ*): he has explained it as "excellently". Ordinarily the word अंजस् (*aṃjas*) means "directly", that is, "immediately". Here the sense is that the Aśvins themselves were the immediate cause of the rain. In the Śatapatha Brāhmaṇa and the Taittirīya Saṃhitā the technical term अंजसायन (*aṃjasāyana*) is used; there it means a straight path, one that is not crooked.
+
+##### Grammar
+
+- दस्रा — सुपां सुलुक् इति विभक्तेराकारादेशः । आमंत्रितनिघातस्वरो भवति ।
+- अचेति — चिती संज्ञाने धातुः । कर्मणि लुजि प्रथमपुरुषैकवचने तप्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति तस्य चिण् । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । चिणोलुक् इति प्रत्ययस्य लुक् । अंगस्य अडागमः । पादादौ वर्तमानत्वान्निघातस्वरो न भवति । अडागमस्योदात्तत्वादाद्युदात्तो भवति ।
+- ऋण्वथः — ऋणु गतौ धातुः । तनादिः । लेटि मध्यमपुरुषद्विवचने थस् प्रत्ययः । लेटोडाटौ (पा सू. ३-४-९४) इति तस्याडागमः । तनादिकृञ्भ्यउः (पा. सु. ३-१-७९) इति उ विकरणः । तस्य यणादेशः । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- नाकम् — न अकः नाकः । नलोपो नञाः इति नलोपे प्राप्ते नभ्राण्नपात्— (पा. सू. ६-३-२५) इति प्रकृतिभावो निपातितः । तत्पुरुषेतु— (पा. सू. ६-२-२) इत्यव्ययपूर्वपदप्रकृतिस्वरो भवति ।
+- युज्जते — युजिर् योगे धातुः । प्रयोजकव्यापारस्य दर्शनादंतर्भावितण्यर्थको धातुः । लटि प्रथमपुरुषबहुवचनांतरूपम् । तिजंतस्य परत्वादतिजः इति निषेधान्निघातस्वरो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति ।
+- रथयुजः — रथे योजयंति इति रथयुजः । पूर्ववदांतर्भावितण्यर्थकाद्युजिर् धातोः क्विप् प्रत्ययः । प्रथमाबहुवचनांतरूपम् । गतिकारकोपपदात् कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- दिविष्टिषु — इष्टयः एषणानि । दिवः स्वर्गस्य एषणानि येषु यागेषु ते दिविष्टियः । सर्वे विधयश्चंदसि विकल्प्यंते इति वचनाद् दिवउत् (पा. सू. ६-१-१३१) इति
+
+### Printed p. 60
+
+##### Grammar
+
+- उत्त्वं न भवति । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- स्थाम — ष्ठा गतिनिवृत्तौ धातुः । वर्तमानार्थे छंदसिलुज् लज् लिटः (पा. सू. ३-४-६) इति लज् । उत्तमपुरुषबहुवचने मस् प्रत्ययः । नित्यंजितः (पा. सू. ३-४-९९) इति सकारलोपः । बहुलं छंदसि इति शपो लुक् । तस्मात् तिष्ठादेशो न भवति । बहुलं छंदस्यमाज्‌योगेऽपि इत्यडागमो न भवति । निघातस्वरस्य स्थाने छांदसत्वादाद्युदात्तस्वरो भवति ।
+- यंतौ — इण् गतौ धातुः । अदादिः । लडर्थे शतृप्रत्ययः । अदिप्रभृतिभ्यःशपः इति शपो लुक् । इणो यण् (पा. सू. ६-४-८१) इति यणादेशः । द्विवचने परे उगित्त्वान्नुमागमः । अनुस्वारः परसवर्णः । प्रत्ययस्यामृतात्तस्वरो भवति । **NOTE**
+- अनुशासता — शासु अनुशिष्टौ धातुः । अदादिः । लडर्थे शतृप्रत्ययः । जक्षित्यादौ समाविष्टत्वात् जक्षित्यादयः षट् (पा.सू. ६-१-६) इति अभ्यस्तसंज्ञा भवति । तस्माद् अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इत्याद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । तृतीयैकवचनांतरूपम् ।
+- अंजसा — अंजू व्यक्तिमृक्षणकांतिगतिषु धातुः । अस्मादौणादिकोऽसुन् प्रत्ययः । नित्त्वादाद्युदात्तस्वरो भवति । ॥ ४ ॥
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शची॑भिर्नः शचीवसू॒ दिवा॒ नक्तं॑ दशस्यतं ।  
+> मा वां॑ रा॒तिरुप॑ दस॒त्कदा॑ च॒नास्मद्रा॒तिः कदा॑ च॒न ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शचीभिः । नः । शचीवसू इति शचीवसू । दिवा । नक्तं । दशस्यतं ।  
+> मा । वां । रातिः । उप । दसत् । कदा । चन । अस्मत् । रातिः । कदा । चन ॥ ५ ॥
+
+### Printed p. 61
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीवसू । शचीति कर्मनाम । अस्मदनुष्ठितज्योतिष्टोमादिकर्मधनौ
+> युवां शचीभिरस्मदीयैः कर्मभिर्यागादिभिर्निमित्तभूतैर्दिना नक्तमहनि रात्रौ च,
+> दशस्यतं । अभिमतं दवेथां ॥ दाश्य दान इत्यस्येदं छांदसं रूपं । यद्वा ।
+> दशस्यतिर्दानार्थः कंड्वादिषु द्रष्टव्यः ॥ वां युवयो रातिर्दानं कदा चन सर्वदा
+> यागकालेयागकालेऽपि मोप दसत् । मोपक्षीणं भूत् ॥ दसु उपक्षये ।
+> लुजि पुषादिद्युतादीति चेरण् ॥ न केवलं युष्मदीयं अपि त्वस्माकमपि रातिर्दानं हविरादिप्रदानं सर्वविषयदानं नार्थिभ्यः कदा चन सर्वावस्थायामपि
+> मोप दसत् । उपक्षीणं मा भूत् । सर्वदा वर्ततां । अहमपि सर्वदा युष्मानुद्दिश्य दद्यां युवामपि मनभिमतं सर्वदा वत्तमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O शचीवसू (*śacīvasū*): शची (*śacī*) is a name for rite (karma). You two, whose wealth is the rites such as Jyotiṣṭoma performed by us, by means of our rites, the sacrifices and the like, which are the cause, by day and by night दशस्यतं (*daśasyataṃ*): grant what is wished for. This is a Vedic form of दाश्य दाने (*dāśya dāne*); or else दशस्यति (*daśasyati*) in the sense of giving is to be seen among the kaṇḍvādi verbs. May your gift (रातिः (*rātiḥ*)) never, at any time, even at the time of sacrifice, मा उप दसत् (*mā upa dasat*), that is, may it not decay (root दसु उपक्षये (*dasu upakṣaye*)). And not only yours: our gift too, the giving of oblations and the like, the gift in every regard, to those who ask, may never, in any state, decay; may it go on always. The sense is: may I too always give with you in view, and may you too always ... **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीवसू (*śacīvasū*)—O Aśvin deities, whose wealth is the rites performed by us
+- नः (*naḥ*)—our
+- शचीभिः (*śacībhiḥ*)—(the riches) to be granted on account of the rites
+- दिवा नक्तं (*divā naktaṃ*)—all day and night (without break)
+- वशस्यतं (*vaśasyataṃ*)—give **NOTE**
+- वां (*vāṃ*)—your (to be given by you)
+- रातिः (*rātiḥ*)—gift
+- कदा चन (*kadā cana*)—ever
+- मा उप दसत् (*mā upa dasat*)—may it not decay
+- आस्मत् (*āsmat*)—to be offered by us **NOTE**
+- रातिः (*rātiḥ*)—the gifts of oblations and the like as well
+- कदा चन (*kadā cana*)—ever (will not stop)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whose wealth is the rites we have performed, give without break the riches that you are to give on account of our rites. Never stop your gift. We too will certainly never stop the gifts of oblations and the like that we are to offer you.
+
+##### Printed English
+
+Enriched by holy rites, grant us, by day and night, (all good things)
+on account of our pious acts; never may your donation, never may our
+(donations) be witheld.
+
+##### विशेषविषयगळु (Special Topics)
+
+शचीवसू (*śacīvasū*)—शचीति कर्मनाम । अस्मदनुष्ठितज्योतिष्टोमादि कर्मधनौ (*śacīti karmanāma | asmadanuṣṭhitajyotiṣṭomādi karmadhanau*): the Aśvin deities are addressed as "those whose wealth is the rites such as Jyotiṣṭoma performed by us, the sacrificers". The oblations and the like offered in sacrifices are the wealth of the deities, and in return they give the sacrificers wealth and the like. Since this is mutual dependence, *vāṃ rātiḥ
+
+### Printed p. 62
+
+mā upadasat*; अस्मद्रातिः कदाचन (*asmadrātiḥ kadācana*) (मा उपदसत् (*mā upadasat*)): the prayer is that our gifts and yours, which nourish each other, may be carried out without break. The Śatapatha Brāhmaṇa describes how, when men on earth lost the knowledge of the prescribed rites and sacrifices and the like came to a stop, the deities became anxious about it and were troubled: ततोश्रद्धा मनुष्यान्विवेद .... ....तत इतो देर्वाहविर्न जगमितः प्रदानाद्भि देवा उपजीवंति। (*tatośraddhā manuṣyānviveda .... ....tata ito dervāhavirna jagamitaḥ pradānādbhi devā upajīvaṃti|*) (Śa. Brā. 1-2-5-24). Because the deities live by the gifts of oblations and the like, and because, with the rites lacking, the gifts had stopped, the deities took counsel together; the story is that Bṛhaspati then taught Āṅgirasa the procedure by which the rite would be completed in full. In the same way, many sentences make known that wealth of food for the deities is possible only by the performance of rites, and that rites and the hymns of praise that are their parts are the food of the deities:
+यज्ञो ९ वो अन्नं (*yajño 9 vo annaṃ*) (Śa. Brā. 2-4-2-1)
+अर्को वै देवानामन्नं अन्नं यज्ञो.... (*arko vai devānāmannaṃ annaṃ yajño....*) (Śa. Brā. 12-8-1-2)
+By such sentences, and because the epithet शचीवसु (*śacīvasu*) is used of the deities, in the present Ṛk the sacrificer, having performed the rites, offers oblations and the like to the Aśvins, who are शचीवसु (*śacīvasu*), and prays that their gift, the fruit of this, may likewise be continued without break. This mutual dependence is stated in यत्तिष्ठन्प्रतिगृणात्यमुष्या एव तदध्वर्युर्नैति तिष्ठतीव ह्यसावथो अमूमेव तेन यजमानो दुहे यदासीनश्यग्ंसति तस्मादितः प्रदानं देवा उपजीवंति यत्तिष्ठन्प्रतिगृणाति तस्मादमुतः प्रदानं मनुष्या उपजीवंति । (*yattiṣṭhanpratigṛṇātyamuṣyā eva tadadhvaryurnaiti tiṣṭhatīva hyasāvatho amūmeva tena yajamāno duhe yadāsīnaśyagṃsati tasmāditaḥ pradānaṃ devā upajīvaṃti yattiṣṭhanpratigṛṇāti tasmādamutaḥ pradānaṃ manuṣyā upajīvaṃti |*) (Tai. Saṃ. 3-2-9-7). The Taittirīya Saṃhitā passages explain that the deities move about by the hymns and oblations offered from the earth, and that in return men live by the wealth and riches the deities bestow. Hence there is the wish that the two actions, which nourish both sides, should not stop.
+
+नक्तं (*naktaṃ*)—नक्तेति रात्रिनामानक्ति भूतान्यवश्यायेनापि वा नक्ताव्यक्तवर्णा (*nakteti rātrināmānakti bhūtānyavaśyāyenāpi vā naktāvyaktavarṇā*): the authors of the Nirukta have given two kinds of meaning (Ni. 8-10): it is called नक्त (*nakta*) because it covers all beings with mist; or else the word comes from the root अंज् (*aṃj*), giving the sense "to become manifest, to shine", the word अक्त (*akta*) formed from it, and in its negative form अन् (*an*) + अक्त (*akta*); नक्त (*nakta*) is so called because it has an unmanifest colour. The author of the Bṛhaddevatā also says—
+
+### Printed p. 63
+
+तम उच्छत्युषा नक्तानक्तीमां हिमबिंदुभिः । अपि पाव्यक्तवर्णेति नञ्पूर्वांजेरिदं भवेत् ॥ (*tama ucchatyuṣā naktānaktīmāṃ himabiṃdubhiḥ | api pāvyaktavarṇeti nañpūrvāṃjeridaṃ bhavet ‖*) (Bṛ. De. 3-9). He says that night has the synonym नक्त (*nakta*) either because it smears the world with dew-drops or because it has an unmanifest colour.
+
+मा उप दसत् (*mā upa dasat*)—a prohibitive form of the root दस् (*das*), which gives the sense "to decay". "May it not perish" means: may it go on without break **NOTE**.
+
+##### Grammar
+
+- शचीभिः — शार्जरवादौ पठितत्वाज्जीनंतो भवति । इत्यादिर्नित्यम् (पा. सू ६-१-९७) इत्याद्युदात्तस्वरो भवति । तृतीयाबहुवचनांतरूपम् । **NOTE**
+- शजीवसू — आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरो भवति । संबोधनाद्विपचनांतरूपम् ।
+- दशस्यतम् — दाश्य दाने धातुः । पृषोदरादौ पठितत्वात् छांदसत्वाद्वा अभिमतरूपसिद्धिर्भवति । अथवा दशस् धातुर्दानार्थे प्रयुक्तः । कंड्वादिः । कंड्वादिभ्यो यक् (पा. सू. ३-१-२७) इति स्वार्थे यक् । लोट् । मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- रातिः — रा दाने धातुः । क्तिच्‌क्तौचसंज्ञायाम् (पा. सू ३ ३-१७४) इति क्तिच् प्रत्ययः । अंतोदात्तस्वरो भवति ।
+- दसत् — दसु उपक्षये धातुः । पुषादौ समाविष्टः । लुजि प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च इतीकारलोपः । पुषादिद्युतादि— (पा. सू. ३-१-५५) इति ज्लेरजादेशः । माज् संबंधत्वान्न माज्जयोगे— (पा.सू. ६-४-७४) इत्यडागमप्रतिषेधः । अतिजंतस्य परत्वान्निघातस्वरो भवति । ॥ ५ ॥
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष॑न्निंद्र वृष॒पाणा॑स॒ इंद॑व इ॒मे सु॒ता अद्रि॑सुतास उ॒द्धिद॒स्तुभ्यं॑ सु॒तास॑ उ॒द्भिदः॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 57. pp. 52-
+**Progress note:** Done through printed p. 63. pp. 58-63 (batch API)
