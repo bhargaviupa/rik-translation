@@ -6630,6 +6630,155 @@ Or else: the Agni of the sacrificial post is meant indirectly; that Agni well ac
 
 O Agni, the deity presiding over the sacrificial post, setting the priests to their several duties, come of yourself to the house of sacrifice and perform the sacrifice for the gods. The shining and wise Agni accepts the oblation in order to distribute it to the gods.
 
+### Printed p. 274
+
+##### Printed English
+
+Vanaspati, here present of your own accord, convey our offerings to the gods; the divine and intelligent Agni accepts (the oblations) for the deities.
+
+##### विशेषविषयगळु (Special Topics)
+
+वनस्पते (*vanaspate*)—What the true nature of Vanaspati is must be understood after much investigation. On the basis of this word some modern Western scholars have concluded that the violent animal sacrifice was prevalent in the Vedic period, and that the Āprī hymns are the Prayāja mantras connected with such a sacrifice.
+
+Viewed superficially, Vanaspati means the sacrificial post (yūpa) to which the sacrificial animal is tied. But on the question whether it is really the post that binds the sacrificial animal, one may first examine the Śruti passages and then determine the nature of Vanaspati on their basis.
+
+In the Praiṣa hymn, for the mantra होता यक्षद्वनस्पतिमुपावस्रक्षद्धियो जोष्टारग्ं शशमं नरः। स्वदात्स्वधितिर्युतुथाद्य देवो देवेभ्यो हव्यावाड्वेत्वाज्यस्य होतरज । (*hotā yakṣadvanaspatimupāvasrakṣaddhiyo joṣṭāragṃ śaśamaṃ naraḥ| svadātsvadhitiryututhādya devo devebhyo havyāvāḍvetvājyasya hotaraja |*) (Tai. Brā. 3 6-2 2) the commentary runs thus: वनस्पतिं यूपाधारभूतं दशमप्रयाजदेवतात्मकमग्निं दैव्यो होता यजतु (*vanaspatiṃ yūpādhārabhūtaṃ daśamaprayājadevatātmakamagniṃ daivyo hotā yajatu*). That is: Vanaspati is the support of the yūpa and is Agni, who is the deity of the tenth Prayāja; let the Hotṛ sacrifice to him. Vanaspati has the epithets धियो जोष्टा (*dhiyo joṣṭā*), स्वदात् स्वधितिः (*svadāt svadhitiḥ*), देवेभ्यः ऋतुधा हव्यवाह् (*devebhyaḥ ṛtudhā havyavāh*), यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*). Among these epithets, धियो जोष्टा (*dhiyo joṣṭā*) is explained as बुद्धेः प्रीणयितारं (*buddheḥ prīṇayitāraṃ*), "one who gladdens the intellect"; स्वधितिः (*svadhitiḥ*) means "one fashioned by the svadhiti (the thunderbolt, or) divine weapon"; for ऋतुथा (*ṛtuthā*) the gloss given is ऋत् विहिते कालविशेषे आद्य अस्मिन्कर्मणि स्वदादस्माभिर्दीयमानं हविः स्वदयतु । किंच देवो वनस्पतिर्देवेभ्यो देवार्थं हव्याहवींष्यवाड्वहतु (*ṛt vihite kālaviśeṣe ādya asminkarmaṇi svadādasmābhirdīyamānaṃ haviḥ svadayatu | kiṃca devo vanaspatirdevebhyo devārthaṃ havyāhavīṃṣyavāḍvahatu*)**NOTE**. The sense of the mantra is: "at the time of this sacrifice let him offer to the gods the oblations offered by us." And by the epithet यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*) the meaning is "one who prolongs the life of the sacrifice." By such epithets the Praiṣa hymn states the identity of Agni and Vanaspati. The Aitareya Brāhmaṇa points to it by the sentence प्राणो वै वनस्पतिः (*prāṇo vai vanaspatiḥ*) (2-4). The author of the Nirukta first gives the etymology of the word Vanaspati and then, in dealing with the Āprī hymn,
+
+### Printed p. 275
+
+explains what the nature of Vanaspati is. In explaining Ṛ. Saṃ. 2-37-3, showing the etymology of the word Vanaspati found in it (Ni. 8-3), he says वनानां पाता ना पालयिता वा । वनं वनोतेः (*vanānāṃ pātā nā pālayitā vā | vanaṃ vanoteḥ*): Agni is famed as Vanaspati either because he is lord of the forests or because he is their protector, and the word is formed from the root van, which gives the sense "to obtain". Then, discussing the nature of the deities of the Āprī hymn (8-18), he states two opinions: तत् को वनस्पतिः, यूस इति कात्मक्यः अग्निरिति शाकपूणिः । (*tat ko vanaspatiḥ, yūsa iti kātmakyaḥ agniriti śākapūṇiḥ |*), and in support of the view of Kātthakya he cites the Ṛk
+अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन । यदूर्ध्वस्तिष्ठा द्रविणेह धत्ताद्यद्वा क्षयो मातुरस्या उपस्थे । (*aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena | yadūrdhvastiṣṭhā draviṇeha dhattādyadvā kṣayo māturasyā upasthe |*) (Ṛ. Saṃ. 3-8-1).
+In this Ṛk Sāyaṇa has addressed the word Vanaspati as the yūpa itself. Then, to support the view of Śākapūṇi, the author of the Nirukta cites the Ṛk
+वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् । स्वदाति देवः कृणवद्वनींष्यवतां द्यावापृथिवी हवं मे ॥ (*vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān | svadāti devaḥ kṛṇavadvanīṃṣyavatāṃ dyāvāpṛthivī havaṃ me ‖*) (10-70-1) (10-20-10)**NOTE**.
+Sāyaṇa has explained this too as the yūpa; but the view of the author of the Nirukta is that it is the Agni within the yūpa. Durgācārya, explaining this Ṛk in the Nirukta, says: एवमग्निर्वनस्पतिः । यत् पुनरेतदुक्तं यूपांजनीयायां ' यूपे वनस्पतिशब्दः ' इति । अत्र ब्रूमः—अग्नि रेवासौ यूपांतर्गतो यूपात्मना वर्तमानो यूपांजनीयायां वनस्पतिशब्देनोच्यते । (*evamagnirvanaspatiḥ | yat punaretaduktaṃ yūpāṃjanīyāyāṃ ' yūpe vanaspatiśabdaḥ ' iti | atra brūmaḥ—agni revāsau yūpāṃtargato yūpātmanā vartamāno yūpāṃjanīyāyāṃ vanaspatiśabdenocyate |*). Here he has established that Vanaspati means Agni who is within the yūpa and nothing else. The author of the Bṛhaddevatā says:
+वनस्पतिं तु यं प्राहुरयं सोग्निर्वनस्पतिः । अयं वनानां हि पतिः पाता पालयतीति ना ॥ अग्निर्गृत्समदेनायं वनस्पतिरितीळितः । मंदस्वेत्यस्य सूक्तस्य षळ्यचस्य तृतीयया ॥ यूपवत्तरुवच्चैव स्तुतिर्यास्य प्रसंगजा । सर्वॆणांजति सूक्तेन तृतीये सा तु मंडले ॥ (*vanaspatiṃ tu yaṃ prāhurayaṃ sognirvanaspatiḥ | ayaṃ vanānāṃ hi patiḥ pātā pālayatīti nā ‖ agnirgṛtsamadenāyaṃ vanaspatiritīḷitaḥ | maṃdasvetyasya sūktasya ṣaḷyacasya tṛtīyayā ‖ yūpavattaruvaccaiva stutiryāsya prasaṃgajā | sarvèṇāṃjati sūktena tṛtīye sā tu maṃḍale ‖*)
+(Bṛ. De. 3-26 to 28)
+
+### Printed p. 276
+
+By these statements he discusses the nature of the Āprī deity addressed in Ṛ. Saṃ. 1-13-11, and shows that Vanaspati here means the terrestrial Agni; that in Ṛ. Saṃ. 2-37-2 Gṛtsamada too has addressed this same terrestrial Agni by the word Vanaspati; and that only in some Ṛks of the third maṇḍala does it mean the yūpa or a tree, and that too only incidentally. Besides this,
+इहैष पवमानोग्निर्मध्यमोग्निर्वनस्पतिः । अमुष्मिन्नेव विप्रैस्तु लोकेग्निश्युचिरुच्यते ॥ (*ihaiṣa pavamānognirmadhyamognirvanaspatiḥ | amuṣminneva vipraistu lokegniśyucirucyate ‖*)
+(Bṛ. De. 7-66)
+shows that Vanaspati there means the Agni of the middle world; and he has determined that, except in a few places of the Ṛksaṃhitā, in the many other places this word indicates Agni, and that there is no doubt about it.
+
+In the Ṛk 10-70-10 cited above, by रशनया नियूय देवानां उपवक्षि । (*raśanayā niyūya devānāṃ upavakṣi |*) the prayer "bind the oblation firmly and carry it to the gods" cannot possibly be addressed to the yūpa; nor is there any room to explain it as "bind and unbind the sacrificial animal". Moreover, even on a careful examination of all the Āprī hymns, no Ṛk anywhere refers to a sacrificial animal. And in the Ṛks 1-13-11, 2-3-10 and 3-2-10 the offering into the sacrifice is called havis; in the present hymn havya; in 1-188-10 and 5-5-10 havyāni; in the Ṛks 10-70-10 and 10-110-10 havīṃṣi—it is indicated by the common word applied to offerings of ghee and the like, and the offering is nowhere indicated by a word connected with offerings of animals and the like.
+
+As for the use of the word śamitā in support of explaining Vanaspati as yūpa: in ordinary usage this word means "one who kills, destroys". Apart from the Āprī hymns this word is used in four Ṛks of the Ṛksaṃhitā. In Ṛks 1-162-9 and 10 it has the common meaning of cutting; in 5-43-4 it means cutting the soma plant, and in 5-85-1 it is merely a simile, a cobbler cutting leather. Nowhere is this word used as a synonym of the animal-slayer who lives by cutting up animals. Besides, if we take the very examples from the Āprī hymns in which this word is used:
+वनस्पतिरवसृजन्नुपस्थादग्निर्हविः सूदयाति प्र धीभिः । त्रिधा समःकं नयतु प्रजानन्वेवेभ्यो दैव्यः शमितोप हव्यं । (*vanaspatiravasṛjannupasthādagnirhaviḥ sūdayāti pra dhībhiḥ | tridhā samaḥkaṃ nayatu prajānanvevebhyo daivyaḥ śamitopa havyaṃ |*)
+(Ṛ. Saṃ. 2-3-12)
+
+### Printed p. 277
+
+in this Ṛk śamitā means हविषः संस्कर्ता, यद्वा दैव्यः शमितैतन्नामकोऽग्निः । अग्निर्वै देवानां शमिता इति श्रूयते । (*haviṣaḥ saṃskartā, yadvā daivyaḥ śamitaitannāmako 'gniḥ | agnirvai devānāṃ śamitā iti śrūyate |*)—a word synonymous with Agni; and in the Ṛk
+उपावसृज त्मन्या समंजन् देवानां पाथ ऋतुथा हवींषि । वनस्पतिः शमिता देवो अग्निः स्वदंतु हव्यं मधुना घृतेन ॥ (*upāvasṛja tmanyā samaṃjan devānāṃ pātha ṛtuthā havīṃṣi | vanaspatiḥ śamitā devo agniḥ svadaṃtu havyaṃ madhunā ghṛtena ‖*)
+(Ṛ. Saṃ. 10-110-10)
+Sāyaṇa explains: शमिता एतन्नामकः देवः यद्वा शामित्रः अग्निः (*śamitā etannāmakaḥ devaḥ yadvā śāmitraḥ agniḥ*). Since Sāyaṇa explains it so, there is no room for taking śamitā here as "animal-slayer" and explaining the word Vanaspati as the yūpa-post to which the animal is tied.
+
+अवसृजन् (*avasṛjan*)—स्वैरं वर्तयन् ऋत्विजः स्वस्वकर्मसु व्यापारयन् । (*svairaṃ vartayan ṛtvijaḥ svasvakarmasu vyāpārayan |*) The meaning is: setting the priests to their own duties.
+
+##### Grammar
+
+- अवसृजन् — सृज विसर्गे इति धातुः । लडर्थे शतृप्रत्ययः । तुदादिभ्यः शः इत्यनेन श विकरणम् । जित्त्वात् गुणो न भवति । तिजि चोदात्तवति (पा. सू. ८-१-७१) इत्यनेन गतेः (अव) निघातस्वरो भवति ।
+- त्मना — आत्मना इत्यत्र मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इत्यनेन आकारस्य लोपः ।
+- यक्षि — यज देवपूजासंगतिकरणदासेषु इति धातुः । भ्वादिः । लट् मध्यमपुरुषैकवचने सिप् । बहुलं छंदसि इत्यनेन विकरणस्य (शप्) लुक् । व्रश्चभृस्त्व (पा. सू. ८-२-३६) इत्यनेन जकारस्य षत्वम् । षथोःकःसि (पा सू. ८-२-४१) इत्यनेन तस्य कत्वम् । आदेशप्रत्यययोः (पा. सू. ८-३-५९) इत्यनेन प्रत्ययसकारस्य षत्वम् । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- वनस्पते — पारस्कर प्रभृतीनि च संज्ञायाम् (पा. सू. ६-१-१५७) इत्यनेन सुट् सहितं निपातितम् । संबुद्धौ आमंत्रितस्यच (पा. सू. ८-१-१९) इत्यनेन निघातस्वरो भवति ।
+- हव्या — हव्यानि इति रूपे सति शेश्छंदसि बहुलम् (पा.सू. ६-१-७०) इत्यनेन शिलोपः ।
+- सुषूदति — सूद क्षरणे इति धातुः । लेट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । बहुलं छंदसि (पा. सू. २-४-२३) इत्यनेन विकरणस्य (शप्) श्लु आदेशः । श्लु इत्यनेन धातु
+
+### Printed p. 278
+
+- (सुषूदति इत्यस्य शेषः —) धातोर्द्वित्वम् । ह्रस्वः इत्यनेन अभ्यासस्य ह्रस्वः । लेटोऽडाट् (पा. सू. ३-४-९४) इत्यनेन प्रत्ययस्य अडागमः । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- मेधिरः — मेधृ मेधाहिंसनयोः इति धातुः । अस्मादौणादिकः इरन् प्रत्ययः । इत्यादिर्नित्यम् (पा. सू. ६-१-१९३) इत्यनेन आद्युदात्तस्वरो भवति ।
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒ष॒ण्वते॑ म॒रुत्व॑ते वि॒श्वदे॑वाय वा॒यवे॑ ।  
+> स्वाहा॑ गाय॒त्रवे॑पसे ह॒व्यमिंद्रा॑य कर्तन ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषण्वते । मरुत्वते । विश्वदेवाय । वायवे ।  
+> स्वाहा । गायत्रवेपसे । हव्यं । इंद्राय । कर्तन ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषण्वते पूष्णा तद्वते ॥ अनो नुडिति नुट् । ह्रस्वनुड्भ्यां मतुबिति मतुप
+> उदात्तत्वं ॥ मरुत्वते मरुद्भिस्तद्वते विश्वदेवाय सर्वदेवसंघाय वायवे गमनशीलाय वायुदेवाय च तथा गायत्रवेपसे । वेप इति रूपनाम । गायत्रशब्द
+> इतरसामोपलक्षणः । गायत्रं वेपो रूपं यस्य तादृशायेंद्राय हव्यं हविः
+> प्रदातुं स्वाहा कर्तन । स्वाहाकारं कुरुत ऋत्विजः ॥ करोतेर्लोटि तप्तनप्तनथनाश्चति तनबादेशः ॥
+
+##### Gist of the bhāṣya
+
+पूषण्वते (*pūṣaṇvate*) means "one possessed of Pūṣan". The augment nuṭ comes (by the rule beginning अनो नुडिति नुट् (*ano nuḍiti nuṭ*)), and the affix matup takes the udātta (by ह्रस्वनुड्भ्यां मतुबिति (*hrasvanuḍbhyāṃ matubiti*)). मरुत्वते (*marutvate*): one possessed of the Maruts. विश्वदेवाय (*viśvadevāya*): the host of all the gods. वायवे (*vāyave*): Vāyu, the deity, who is of moving nature. Likewise गायत्रवेपसे (*gāyatravepase*): vepa is a word for "form"; the word gāyatra stands as an indicator for the other sāmans; Gāyatra is the form of him, so it is to Indra, such as he is. To give him the oblation (havya), perform the cry svāhā—the priests are to make the svāhā-utterance. The root kṛ in the imperative takes the substitute tana (by the rule तप्तनप्तनथनाश्चति (*taptanaptanathanāścati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषण्वते (*pūṣaṇvate*)—united with the god Pūṣan
+- मरुत्वते (*marutvate*)—united with the Marut deities
+**NOTE**
+- विश्वदेवाय (*viśvadevāya*)—to the host of all the deities
+- वायवे (*vāyave*)—to the god Vāyu
+- गायत्रवेपसे (*gāyatravepase*)—who is in the form of Gāyatra
+- इंद्राय (*iṃdrāya*)—to Indra
+- हव्यं (*havyaṃ*)—to offer the oblation
+- स्वाहाकर्तन (*svāhākartana*)—perform the cry svāhā
+
+### Printed p. 279
+
+##### भावार्थ (Bhāvārtha)
+
+Perform the cry svāhā in order to offer the oblation to the host of all the deities, united with the god Pūṣan and united with the Marut deities, and to the god Vāyu, and also to Indra who is in the form of Gāyatra.
+
+##### Printed English
+
+(Priests), present the oblation with Swaha to Indra, in the form of the Gayatra, along with Pushan and the Maruts; also the assembled gods, and to Vayu.
+
+##### विशेषविषयगळु (Special Topics)
+
+गायत्रवेपसे (*gāyatravepase*)—वेप इति रूपनाम । गायत्रशब्दः इतरसामोपलक्षणः । गायत्रं वेप रूपं यस्य तादृशाय इंद्राय । (*vepa iti rūpanāma | gāyatraśabdaḥ itarasāmopalakṣaṇaḥ | gāyatraṃ vepa rūpaṃ yasya tādṛśāya iṃdrāya |*) Sāyaṇa has explained it as "to Indra who is in the form of Gāyatra". The purport is: one who is gratified by song, one who attains an excellent form through song. This same epithet, in the Ṛk
+आ त्वविद्य सबर्मघां हुवे गायत्रवेपसं । इंद्रं धेनुं सुदुघामन्या मिषमुरुधारामरंकृतं ॥ (*ā tvavidya sabarmaghāṃ huve gāyatravepasaṃ | iṃdraṃ dhenuṃ sudughāmanyā miṣamurudhārāmaraṃkṛtaṃ ‖*)
+(Ṛ. Saṃ. 8-1-10)
+conveys the nature of Indra. But there Sāyaṇa has made the word गायत्रवेपसं (*gāyatravepasaṃ*) an epithet of the word धेनुं (*dhenuṃ*) and explained it as प्रशस्यवेगां (*praśasyavegāṃ*), "having excessive speed". Some hold that it is correct only as an epithet of Indra. Just as in Ṛ. Saṃ. 8-2 38 the word गाथश्रवसं (*gāthaśravasaṃ*) is also an epithet of Indra and gives the sense गातव्ययशसं (*gātavyayaśasaṃ*), so here too the word गायत्रवेपसे (*gāyatravepase*) gives the same purport and is an epithet of Indra**NOTE**.
+
+स्वाहा कर्तन (*svāhā kartana*)—स्वाहाकारं कुरुत । (*svāhākāraṃ kuruta |*) The particulars of these are explained in the next Ṛk.
+
+##### Grammar
+
+- पूषण्वते — पूषा अस्य अस्ति इति पूषण्वान् । तदस्यास्ति इत्यनेन मतुप् प्रत्ययः । अनोनुट् इत्यनेन मतुप् परे नुटागमः । ह्रस्वनुड्भ्यं मतुप् (पा. सू.. ६-१-१७६) इत्यनेन मतुप उदात्तस्वरो भवति । चतुर्थीएकवचनांतरूपम् ।
+- विश्वदेवाय — विश्वे देवाः यस्य सः विश्वदेवः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इत्यनेन पूर्वपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 280
+
+- गायत्रवेपसे — गायत्रं वेपः यस्य सः गायत्रवेपाः तस्मै गायत्रवेपसे । पूर्ववत् पूर्वपदप्रकृतिस्वरो भवति । चतुर्थीएकवचनांतरूपम् ।
+- कर्तन — डुकृञ्करणे इति धातुः । लोट्‌मध्यमपुरुषबहुवचने थ प्रत्ययः । बहुलं छंदसि इत्यनेन विकरणस्य लुक् । तप्तनप्तनथनाश्च (पा. सू. ७-१-४५) इत्यनेन प्रत्ययस्य तनबादेशः । इदं पित्त्वात् सार्वधातुकार्थधातुकयोः इत्यनेन धातोरिको गुणः । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वाहा॑कृता॒न्या ग॒ह्युप॑ ह॒व्यानि॑ वी॒तये॑ ।  
+> इंद्रा ग॑हि श्रु॒धी हवं॒ त्वां द॑वंते अध्व॒रे ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वाहाकृतानि । आ । गहि । उप । हव्यानि । वीतये ।  
+> इंद्र । आ । गहि । श्रुधि । हवं । त्वां । हवंते । अध्वरे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्वाहाकृतानि । स्वाहेत्येवंपूर्वा कृतिः करणमुच्चारणं यक्ष्यमाणदेवतानां ताः स्वाहाकृतयः । तद्वंति हव्यानि हवींषि । अत्र प्रयाजेषु
+> वषट्कारप्रदानात्स्वाहाकृतं हविरित्यर्थः । तद्भविरुपेत्य वीतये भक्षणाया गहि ।
+> आगच्छ ॥ गमेश्चांदसः शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः ॥ तथा
+> हे इंद्र आ गहि । स्तोत्राण्यभिलक्ष्यागच्छ । आगत्य हवनस्तदीयमाह्वानं श्रुधि ।
+> शृणु । यतस्मामध्वरेऽहिंसात्मके यागे हवंते आह्वयंति ऋत्विजः अतः श्रुधि ॥
+> हृऋतेर्बहुलं छंदसीति संप्रसारणं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, स्वाहाकृतानि (*svāhākṛtāni*)": a svāhākṛti is the making, the utterance, of the word svāhā, preceded thus, for the deities who are about to be sacrificed to; oblations (havya, havis) having that are svāhākṛta. Here, since in the Prayājas the offering is made with the vaṣaṭ-call, the meaning is "an oblation uttered with svāhā". Approach that oblation and come वीतये (*vītaye*), to eat it: आगच्छ (*āgaccha*). The root gam in the Vedic idiom has luk of śap, and the nasal is dropped by the rule beginning अनुदात्तोपदेश (*anudāttopadeśa*). Likewise, "O Indra, come" (आ गहि (*ā gahi*)): come having the hymns in view; having come, hear their call (श्रुधि (*śrudhi*), "listen"), since the priests invite you (हवंते (*havaṃte*)) in the non-violent sacrifice (अध्वरे (*adhvare*)); therefore listen. For the root hṛ there is saṃprasāraṇa by हृऋतेर्बहुलं छंदसीति (*hṛṛterbahulaṃ chaṃdasīti*).
+
 ---
 
-**Progress note:** Done through printed p. 273. pp. 268-273 (batch API)
+**Progress note:** Done through printed p. 280. pp. 274-280 (batch API)
