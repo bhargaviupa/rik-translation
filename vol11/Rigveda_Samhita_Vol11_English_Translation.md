@@ -1560,6 +1560,205 @@ By such sentences, and because the epithet शचीवसु (*śacīvasu*) is 
 
 > वृष॑न्निंद्र वृष॒पाणा॑स॒ इंद॑व इ॒मे सु॒ता अद्रि॑सुतास उ॒द्धिद॒स्तुभ्यं॑ सु॒तास॑ उ॒द्भिदः॑ ।
 
+### Printed p. 64
+#### Ṛk 6 (continued)
+
+> ते त्वा मंदंतु दावने महे चित्राय राधसे ।
+> गीर्भिर्गीर्वाहः स्तवमान आ गहि सुमृळीको न आ गहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषन् । इंद्र । वृषपानासः। इंदवः । इमे । सुताः । अद्रिसुतासः । उत्भिद ।  
+> तुभ्यं । सुतासः । उत्भिदः ।  
+> ते । त्वा । मंदंतु । दावने । महे । चित्राय । राधसे ।  
+> गीकभिः । गिर्वाहः । स्तवमानः । आ । गहि । सुमृळीकः । नः । आ । गहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठस्य षष्ठेऽहनि प्रउगशस्त्रस्यैंद्रे तृचे तृतीया वृषन्निंद्रेत्येषा ।
+> वृषन्निंद्र वृषपाणास इंदवः सुषुमा यातमद्रिभिः । आ. ८-१ इति ॥ तत्रैव सवने
+> प्रस्थितयाज्यानां पुरस्तादन्या ऋचः प्रक्षिप्नोभयाभिर्यष्टव्यं। तत्र होतुः प्रस्थितयाज्यायाः पुरस्तादेषा प्रक्षेपणीया । सूत्रितं च । षष्ठस्य प्रातःसवने प्रस्थितयाज्यानां पुरस्तादन्याः कृत्वोभाभ्यामनवानंतो यजंति । आ. ८-१ । इति ॥
+> हे इंद्र वृषन् वर्षितः कामानां इमे पुरतो दृश्यमाना इंदवः सोमासुताः । त्वदर्थमभिषुताः। कीदृशास्ते । वृषपानासोऽभिमतवर्षकेण त्वया पातव्याः
+> अद्रि सुतासोऽद्रिभिर्द्वढैः पाषाणैरभिषवसाधनैः सुताः उद्भिद उद्भेदका वर्षस्य ।
+> त एव पुनर्विशेष्यंते । उद्भिदो बलस्कोद्भेदका उद्भिन्ना ना पर्वतादौ तादृशाः
+> सोमास्तुभ्यं सुतासस्त्वदर्थमेवाभिषुताः । किंच ते तादृशाः सोमास्त्वा त्वां
+> मंदंतु । तर्पयंतु । कुत्रेति तमच्यते । दावने दानवति यागे । अभिमतदानाय
+> ना । तथा महे महते चित्राय चायमानाय विचित्राय नानाविधाय वा राधसे
+> धनाय । किंच हे गीर्वाहो गिरां स्तुतीनामस्मदीयानां वोढः ॥ वहिहाधा इच्छ
+> इत्यसुन् ॥ गीर्भिरस्मत्सुतिभिः स्तवमानः सन्ना गहि । आगच्छ । नोऽस्मान् सुमृळीकः
+> सुष्टु मृडयिता सन्ना गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Use: on the sixth day of the Pṛṣṭha rite, in the Praüga-śastra, this is the third verse of the Aindra triplet beginning "vṛṣann indra" (Āśvalāyana 8-1, which he cites). In the same pressing, other verses are added before the prasthita-yājyās and the offering is made with both together. The Hotṛ's prasthita-yājyā is preceded by this verse, which is to be added in front of it. He quotes the sūtra on this (Ā. 8-1).
+
+Meaning: O Indra, showerer (varṣitā) of desires, these Soma juices seen before you are pressed for you. They are "vṛṣapānāsaḥ": to be drunk by you, who rain down what is wished for. They are "adrisutāsaḥ": pressed with firm stones, the instruments of pressing. They are "udbhidaḥ": breakers-forth of the rain. These same juices are described further. "Udbhidaḥ" may also mean breakers-forth of strength, or sprung forth as from a mountain and the like. The Somas are pressed for you alone. May those Somas gladden (satisfy) you. Where? At the sacrifice rich in gifts (dāvane), for the wished-for gift. Likewise for great (mahe) and wonderful (citra) wealth (rādhas); "citra" may also mean "diverse". O Gīrvāhas, bearer of our praises, being praised by our hymns, come. Being well-pleasing to us, come.
+
+### Printed p. 65
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—showerer of desired things
+- इंद्र (*iṃdra*)—O Indra
+- इंदवः (*iṃdavaḥ*)—which flow
+- वृषपाणासः (*vṛṣapāṇāsaḥ*)—to be drunk by you, who grant desired things
+- उद्भिदः (*udbhidaḥ*)—which cause rain to fall
+- अद्रिषुतासः (*adriṣutāsaḥ*)—which are crushed and pressed with stones
+- इमे (*ime*)—these
+- सुताः (*sutāḥ*)—Soma juices have been pressed
+- उद्भिदः (*udbhidaḥ*)—these Soma plants that sprang up on mountains and the like
+- तुभ्यं (*tubhyaṃ*)—for you
+- सुतासः (*sutāsaḥ*)—have been pressed and made ready
+- ते (*te*)—these juices
+- दावने (*dāvane*)—at the sacrificial time that is rich in gifts
+- महे (*mahe*)—great
+- चित्राय (*citrāya*)—of many kinds
+- राधसे (*rādhase*)—for wealth
+- त्वा (*tvā*)—you
+- मंदंतु (*maṃdaṃtu*)—may they satisfy
+- गिर्वाहः (*girvāhaḥ*)—O Indra, bearer of praises
+- गीर्भिः (*gīrbhiḥ*)—with our hymn-words
+- स्रवमानः (*sravamānaḥ*)—being praised
+- आ गहि (*ā gahi*)—be gracious
+- नः (*naḥ*)—us
+- सुम्मळीकः (*summaḷīkaḥ*)—making us happy
+- आ गहि (*ā gahi*)—come here
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desired things: these Soma juices, which flow, which are to be drunk by you who grant what is desired, which help to pour down rain, and which are crushed and pressed with stones, have been pressed. These Soma plants that sprang up on the mountains have been pressed and made ready for you. At sacrifices rich in gifts, may these juices satisfy you for the sake of obtaining great and manifold wealth. O Indra, bearer of praises, being praised by our hymn-words, be gracious. Making us happy, come here.
+
+##### Printed English
+
+Indra, showerer (of blessings) these effused juices, (expressed) by stones and which have sprung (from mountain plants), are for your drinking; these libations have burst forth for you: may they satisfy you as an offering presented (in the hope of receiving) great and wonderful riches. Acceptor of laudations, come to us, glorified by our hymns; come to us well pleased.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice called Pṛṣṭha, when the Praüga-śastra mantras are recited and the triplet (three verses) addressed to Indra is recited, this verse "vṛṣann indra" is to be recited as the third. This is stated in the Āśvalāyana Śrauta Sūtra, in the sūkta beginning वृषन्निंद्र वृषपाणास इंदवः सुषुमा यातमद्रिभिः । (*vṛṣanniṃdra vṛṣapāṇāsa iṃdavaḥ suṣumā yātamadribhiḥ |*) (Ā. 8-1). And at the morning pressing of the same sacrifice, before the prasthita-yājyā mantra is recited, this verse is to be joined with the other verses and the Hotṛ is to make the offering. This is explained by the sūtra beginning षष्ठस्य प्रातःसवने प्रस्थितयाज्यानां पुरस्तादन्याः कृत्वोभाभ्यामनवानंतो यजंति । (*ṣaṣṭhasya prātaḥsavane prasthitayājyānāṃ purastādanyāḥ kṛtvobhābhyāmanavānaṃto yajaṃti |*) in the Āśvalāyana Śrauta Sūtra (Ā. 8-1); the Hotṛ
+
+### Printed p. 66
+Vṛṣan, vṛṣapānāsaḥ—The word "vṛṣan" is explained as कामानां वर्षितः (*kāmānāṃ varṣitaḥ*), "one who showers and gives what is desired", and "vṛṣapānāsaḥ" as अभिमतवर्षकेण त्वया पातव्याः (*abhimatavarṣakeṇa tvayā pātavyāḥ*). That is, the drinking of the Soma juice is the means that gives a favouring mind. 
+इति वा इति मे मनो गामश्वं सनुयामिति । कुवित्सोमस्यापामिति । (*iti vā iti me mano gāmaśvaṃ sanuyāmiti | kuvitsomasyāpāmiti |*) (Ṛ. Saṃ. 10-19-1)**NOTE**. Indra declares: "I have drunk the Soma juice that stimulates giving cows and horses to the praisers." Likewise,
+कदा चन स्तरीरसि नेंद्र सश्चसि दारुषे । उपोपेन्नु मघवन् भूय इन्नु ते दानन्नेवस्य पृच्यते । उपयामगृहीतोस्यादित्येभ्यस्त्वा । कदा चन प्र युच्छस्युभे निपासि जन्मनी।तुरीयादित्य सवनंत इंद्रियमातस्थावमृतन्सिवि। (*kadā cana starīrasi neṃdra saścasi dāruṣe | upopennu maghavan bhūya innu te dānannevasya pṛcyate | upayāmagṛhītosyādityebhyastvā | kadā cana pra yucchasyubhe nipāsi janmanī|turīyāditya savanaṃta iṃdriyamātasthāvamṛtansivi|*) (Tai. Saṃ. 1-4-22).
+As in these Saṃhitā passages it is said that drinking Soma is the means of bringing favour to the sacrificers who offer oblations, so here too that matter is stated.
+Udbhidaḥ—बलस्य उद्भेदकाः, उद्दिन्ना ना पर्वतादौ तादृशाः सोमाः । (*balasya udbhedakāḥ, uddinnā nā parvatādau tādṛśāḥ somāḥ |*). The commentator says two meanings are possible: "causing strength to appear" or "grown in mountain regions and the like".
+प्र वाता इव दोधत उन्मा पीता अयंसत । कुवित्सोमस्यापामिति ॥ (*pra vātā iva dodhata unmā pītā ayaṃsata | kuvitsomasyāpāmiti ‖*) (Ṛ. Saṃ. 10-119-2)
+न हि मे रोदसी उभे अन्यं पक्षं चन प्रति । कुवित्सोमस्यापामिति । (*na hi me rodasī ubhe anyaṃ pakṣaṃ cana prati | kuvitsomasyāpāmiti |*) (Ṛ. Saṃ. 10-119-7)
+In these verses are Indra's own words that by drinking Soma his strength has grown and that none equal to him in strength exists in both heaven and earth; so the first meaning is sound. Secondly, because the Soma plant grows on mountains and the like, Sāyaṇa has said that the epithet "udbhidaḥ" is used. The growth, form, colour, taste and so on of the Soma plant are explained in detail in the 2nd part of the Ṛgveda Saṃhitā. Recently some critics have discussed the Soma plant and given their opinions in the Journal of the Royal Asiatic Society, the Indian Antiquary and other journals; a summary of these articles is given briefly in the introduction to this part. How much of these opinions is sound and how much unsound, the readers themselves must judge.
+
+### Printed p. 67
+Dāvane—दानवति यागे (*dānavati yāge*): "at a sacrifice that grants desired things"; it is an epithet of the sacrifice. Used also as an epithet of Indra and other gods, this word shows their nature of giving.
+
+##### Grammar
+
+- वृषन् — वृषु सेचने धातुः । कनिन्युवृषि—(उ. सू. १-१५४) इति कनिन् प्रत्ययः । नजिसंबुध्योः इति नलोपो न भवति । पादादित्वादामंत्रितनिघातस्वरो न भवति । आमंत्रितस्य (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरो भवति ।
+- वृषपानासः — वृष्णः पानाः । पा पाने धातुः । कर्मणि ल्युट् प्रत्ययः । यवोरनाकौ (पा. सू. ७-१-१) इति अनादेशः । कृदुत्तरपदप्रकृतिस्वरो भवति । जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुगागमः ।
+- अद्रिसुतासः — अद्रिभिः सुताः अद्रिसुताः । षुञ् अभिषवे धातुः । कर्मणि क्तप्रत्ययः । तृतीयाकर्मणि (पा. सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति । पूर्ववत् जसि आसुगागमः ।**NOTE**
+- उद्भिदः — भिदिर् विदारणे धातुः । क्विप्च इति क्विप् प्रत्ययः । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपं ।
+- मंदंतु — मदि हर्षग्लेपनयोः धातुः । इदित्त्वात् नुमागमः । लोट् प्रथमपुरुषः । बहुवचनरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- दावने — डुदाञ् दाने धातुः । आतो मनिन्—(पा. सू. ३-२-७४) इति वनिप् प्रत्ययः । चतुर्थीएकवचनांतरूपं । छांदसत्वात् अल्लोपो न भवति ।
+- महे — महते इति रूपे छांदसत्वात् तकारलोपो भवति । एकाचत्वात् विभक्तौ सावेकाचस्तृतीयादिः इति उदात्तस्वरो भवति ।
+- गिर्वाहः — गिरां वाहाः गिर्वाहाः । वह प्रापणे धातुः । वहिहाधाण्भ्यः—(उ.सू. ४-६६०) इति असुन् प्रत्ययः । णित् इति पूर्वसूत्रात् अनुवृत्तत्वात् अतउपधायाः (पा. सू. ७-२-११६) इति धातोः उपधायाः वृद्धिः । गिर्वाहस् शब्दो भवति । संबुद्ध्यंतरूपं । आमंत्रितस्यच इति निघातस्वरो भवति ।
+- स्तवमानः — ष्टुञ् स्तुतौ धातुः । धात्वादेः षः सः इति आदेः सत्वं । कर्मणि लडर्थे शानच् प्रत्ययः । व्यत्ययेन शप् । तं निमित्तीकृत्य धातोः इकः गुणः । अवादेशः । आनेमुक् (पा. सू. ७-२-८२) इति अदंतांगस्य मुगागमः । अदुपदेशस्य ### Printed p. 68 परस्मिन् लसार्वधातुके आगते तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति तस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- गहि — गमल् गतौ धातुः । लोट् मध्यमपुरुषएकवचने सिपः हि आदेशः । बहुलं छंदसि इति शपः लुक् । प्रत्ययस्य जित्त्वादिदेशत्वात् अनुदात्तोपदेश—(पा. सू. ६-४-३७) इति धातोः अनुनासिकस्य लोपः ।**NOTE**
+- सुमृडीकः — सुष्टु मृळीकं सुखं यस्य सः सुमृळीकः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ शू णो अग्ने शृणुहि त्वमीळितो देवेभ्यो ब्रवसि  
+> यज्ञियेभ्यो राजभ्यो यज्ञियेभ्यः ।  
+> यद्ध॒ त्यामंगि॑रोभ्यो धे॒नुं दे॑वा॒ अद॑त्तन ।  
+> वि तां दु॑ह्रे अर्य॒मा क॒र्तरी॒ सचा॑ ए॒ष तां वे॑द मे॒  ॑
+> सचा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । सु । नः । अग्ने । शृणुहि । त्वं । ईळितः । देवेभ्यः । ब्रवसि । यज्ञियेभ्यः ।  
+> राजभ्यः । यज्ञियेभ्यः ।  
+> यत् । ह । त्यां । अंगिरःभ्यः । धेनुं । देवाः । अदत्तन ।  
+> वि । तां । दुह्रे । अर्यमा । कर्तरि । सचा । एषः । तां । वेद । मे । सचा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रस्य षष्ठेऽहनि प्रातःसवने नेष्टुः प्रस्थितयाज्यायाः पुरस्तादो शू
+> णो अग्न इत्येषावपनीयैकीकृत्योभाभ्यां यागः । षष्ठस्येति खंडे सूत्रितं ।
+
+##### Gist of the bhāṣya
+
+Use: on the sixth day of the Daśarātra, at the morning pressing, before the Neṣṭṛ's prasthita-yājyā, this verse "o ṣū ṇo agne" is removed from its place, joined (with another), and the offering is made with both. This is laid down in the sūtra in the section beginning "ṣaṣṭhasya".
+
+### Printed p. 69
+
+> ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारं । आ. ८-१ । इति ॥ तस्मिन्नेव सवने
+> प्रउगशस्त्रे द्वितीया । सूत्रितं च । अस्तु श्रौषळो षू णो अग्ने । आ. ८-१ । इति ॥
+> दे अग्ने त्वं नोऽस्मदीयमावाहनं स्तुतिं वेळितोऽस्माभिः स्तुतः सन्नो
+> षु शृणुहि । ओ इति निपातद्वयसमुदायात्मक एको निपातः । अभिमुख्येनैव सुष्टु
+> शृणु ॥ उतश्च प्रत्ययादिति च्छंदसि नावचनमिति हेर्लुगभावः ॥ श्रुत्वा च देवेभ्यो
+> देवनशीलेभ्यो यज्ञियेभ्यो यज्ञा र्हेभ्यो हविर्भाग्भ्यः स्तुतिभाग्यश्चेत्यर्थः ॥
+> यज्ञर्त्विग्भामिति घः ॥ तेभ्यो यज्जियॆभ्यो यज्ञार्हेभ्यो यजमानेभ्यः
+> संबंधि कर्म ब्रवसि। ब्रूहि ॥ ब्रवीतेर्लॆट्टडागमः॥ कीवृशेभ्यः । राजभ्यो राजमानेभ्यः । इदानीं देवाः प्रत्य क्षेणोच्यंते । अत्रेतिहासमाहुः । अंगिरसो नाम
+> महर्षयः पूर्वं यज्ञार्थ० देवान् स्तुत्या प्रीणयित्वा गा अयाचंत । ते
+> प्रीताः कामदुघां प्रादुः । लब्धां च त ० धेनुं क्षीरं दोग्गुमशक्कुवाना अर्यमणं देवं प्रार्थयन् । स च प्रार्थितोऽग्निहोत्राद्यर्थं क्षीरं दुदोहेति ।
+> तदिदमत्तोच्यते । यद्यां त्यां तां प्रसिद्धां धेनुं क्षीरादिना प्रीणयित्रीं गां
+> ह देवा अंगिरोभ्यस्तदर्थमदत्तन दत्तवंतः ॥ तप्तनप्तनथनाश्चति तनादेशः ॥ तां
+> धेनुमर्यमा सर्वस्य नियमिता देवः कर्तरि सर्वस्योत्पादके त्वय्यग्नौ सचेतरदेवेभ्यः साकं वि दुह्रे । विविधं मग्धवान् ॥ महेर्लिटि बहुलं छंदसीति रुट् ।
+> छंदसि वेति वचनाद्दिर्वचनाभावः । लट्टेव वा लोपस्त इति तलोपः ॥ एषः एष
+> एवाय्र्यमा तां धेनुं मे सचा मत्समवायेन वेद । जानाति । आर्यवाहमपि
+> जानामीत्यर्थः । ईदृशी धेनुस्त्वदर्थमेव दुह्यत इत्यग्नेः स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+The Āśvalāyana sūtra (Ā. 8-1) names this verse together with "agniṃ hotāram". In the same pressing it is the second verse in the Praüga-śastra, and the sūtra "astu śrauṣaṭ, o ṣū ṇo agne" (Ā. 8-1) says so.
+
+Meaning: O Agni, being praised by us, listen well to our invocation, our praise. "O" and "su" are two particles forming one particle; "listen well", turned towards us. The ending of "śṛṇuhi" (hi) is not dropped, by the rule that in Chandas the rule about the dropping is not compulsory. Having heard, tell to the gods, who are worthy of sacrifice, sharers of oblations and sharers of praise (the first "yajñiyebhyaḥ"), the work belonging to the sacrificers worthy of sacrifice (the second "yajñiyebhyaḥ"). "Brava-si" is the Let form with the augment aṭ. For whom? For the shining (rājabhyaḥ) ones. Now the gods are spoken of directly. Here they tell a story (itihāsa): the great seers called Aṅgirases once, for the sake of a sacrifice, pleased the gods with praise and begged for cows. The gods, pleased, gave a wish-granting cow. Having received that cow, but unable to milk it, they entreated the god Aryaman. Being entreated, he milked the milk for the Agnihotra and other rites. This is told here: "yad dha tyām", that well-known cow, which gives pleasure with milk and so on, the gods gave (adattana) to the Aṅgirases for that purpose. Aryaman, the regulator of all, milked that cow variously, together with the other gods, for you, Agni, the producer (kartṛ) of all. "This very Aryaman knows that cow along with me" (sacā, in association with me); the sense is "I too know it" **NOTE**. Such a cow is milked for you alone: thus the praise of Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our invocation in the form of praise
+- ईळितः (*īḷitaḥ*)—being praised by us
+- ओ षु शृणुहि (*o ṣu śṛṇuhi*)—listen, turned towards us. (Afterwards)
+- राजभ्यः (*rājabhyaḥ*)—to the shining ones
+- यज्ञियेभ्यः (*yajñiyebhyaḥ*)—who are worthy of the hymn or oblation connected with the sacrifice
+- देवेभ्यः (*devebhyaḥ*)—to the gods
+- यज्जियेभ्यः (*yajjiyebhyaḥ*)—the work performed by the sacrificers
+- ब्रवसि (*bravasi*)—tell
+- यत् त्यां (*yat tyāṃ*)—which well-known
+- धेनुं (*dhenuṃ*)—cow
+- देवाः (*devāḥ*)—the gods
+- अंगिरोभ्यः (*aṃgirobhyaḥ*)—to the Aṅgirases
+- अदत्तन (*adattana*)—gave
+- तां (*tāṃ*)—that cow
+- अरमा (*aramā*)—Aryaman, the regulator of all **NOTE**
+- कर्तरि (*kartari*)—in you, the producer
+- सचा (*sacā*)—together with the other gods
+- विदुहे (*viduhe*)—milked
+- (and) एषः (*eṣaḥ*)—this same Aryaman
+- तां (*tāṃ*)—that cow
+- मे सचा (*me sacā*)—with me
+- वेद (*veda*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being praised by us, listen, turned towards us, to this our invocation in the form of praise. Afterwards, make known to the shining gods, who are worthy of the hymn and the oblation of the sacrifice, the work performed by us, the sacrificers. As the reward of this work, Aryaman, together with those gods, milked in you that famous cow granted by the gods. That same Aryaman, remaining with me, knows that cow, even now ready for the sacrifice.
+
+### Printed p. 70
+
+##### Printed English
+
+Agni, listen attentively when you are praised by us, and repeat (those praises) to the gods who are entitled to worship; to the royal (deities) entitled to worship : on which account the gods gave to the Angirasas the milch cow which Aryman milked for (you), the maker (of all), together with the gods ; that cow (the nature of which you have said), he along wtih me, comprehends.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice called Daśarātra, which is performed over ten days, at the morning pressing, before the priest called Neṣṭṛ recites the prasthita-yājyā mantra, this verse "o ṣū ṇo agne" and the verse "agniṃ hotāram" are to be joined and recited together at the sacrifice. This is explained in the Āśvalāyana Śrauta Sūtra, in the section beginning "ṣaṣṭhasya", by the sūtra ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारं । (*o ṣū ṇo agne śṛṇuhi tvamīḷito 'gniṃ hotāraṃ |*) (Ā. 8-1). And when the Praüga-śastra mantras are recited at the same morning pressing, this verse is to be recited as the second mantra; this is explained by the sūtra अस्तु श्रौषळो षू णो अग्ने (*astu śrauṣaḷo ṣū ṇo agne*) (Ā. 8-1).
+Yajñiyebhyo rājabhyo yajjiyebhyo bravasi—Here the first word "yajjiyebhyaḥ" gives the sense: to the gods, यज्ञार्हेभ्यो हविर्भाग्यः स्तुतिभाग्यश्च (*yajñārhebhyo havirbhāgyaḥ stutibhāgyaśca*), that is, to the gods who are worthy of sacrifice, worthy of oblations and worthy of praise. The second word "yajjiyebhyaḥ", as an epithet of the sacrificers, gives the sense यज्ञार्हेभ्यः यजमानेभ्यः संबंधि कर्म (*yajñārhebhyaḥ yajamānebhyaḥ saṃbaṃdhi karma*): the work connected with the sacrificers who are worthy of performing sacrifice. The meaning is: make known, or carry, the praises and oblations of men fit to sacrifice to the gods fit to receive the sacrifice. From this sentence it is understood that Agni is the leader of the sacrifice and the messenger who builds the connection between sacrificers and gods. As described in verses such as
+त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदंत्याहुतं । त्वया मर्ताः स्वदंत आसुतिं त्वं गर्भो वीरुधां जज्जिषे शुचिः ॥ (*tve agne viśve amṛtāso adruha āsā devā haviradaṃtyāhutaṃ | tvayā martāḥ svadaṃta āsutiṃ tvaṃ garbho vīrudhāṃ jajjiṣe śuciḥ ‖*) (Ṛ. Saṃ. 2-1-14)
+and as in
+अग्निरेव देवानां दूत आस (*agnireva devānāṃ dūta āsa*) (Śa. Brā. 1-4-1-34)
+
 ---
 
-**Progress note:** Done through printed p. 63. pp. 58-63 (batch API)
+**Progress note:** Done through printed p. 70. pp. 64-70 (batch API)
