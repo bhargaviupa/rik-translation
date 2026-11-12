@@ -20,3 +20,4 @@
 - w0581 (p. 584): the page opens in the middle of a quotation that the model wrote as one ⟦first~~last⟧ segment over pp. 583/584; the heading `### Printed p. 584` was missing and was placed after the quotation.
 - w0587: sūtra number printed ೩-೨- at the page end and ೧೭೦ after the next running head; kept as one reference with a NOTE.
 - w0648: remark "[sic, as printed]" replaced by the copied word with a NOTE; hand IAST "(*bhaṅgī*)" replaced by the copied ⟦ಭಂಗೀ⟧.
+- w0661: a Telugu letter మృ (the machine reader's form of a Devanagari मृ) stands in the supplied printed English; copied as supplied. The stray-script gate now ignores letters that kn.md itself has.
