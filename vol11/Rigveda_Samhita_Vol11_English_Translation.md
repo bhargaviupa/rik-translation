@@ -15720,6 +15720,132 @@ and similar sentences it is said that water was the beginning of creation and th
 > दा॒धार॒ दक्ष॑मुत्त॒मम॑ह॒र्विदं॑ व्र॒जं च॒ विष्णुः॒ सखि॑वा  ॒
 > अपूर्णुते ॥ ४ ॥
 
+### Printed p. 655
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अस्य । राजा । वरुणः । तं । अश्विना । क्रतुं । सचंत । मारुतस्य । वेधसः ।  
+> दाधार । दक्षं । उत्त् तमं । अहःविदं । व्रजं । च । विष्णुः । सखिवान् । अपऊर्णुते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नीषोमप्रणयने तमस्य राजेत्येषा प्रयोक्तव्या । अग्नीषोम् प्रणेष्यत्स्विति खंडे सूत्रितं । तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् । आ. ४-१० ।
+> इति ॥
+> मारुतस्य मरुतामृत्विजां संघातो मारुतं। तद्वतः ॥ मत्वर्थो लुप्यते ॥
+> मरुतां देवानां संबंधिनो वा वेधसो मेधाविनोऽस्य यजमानस्य तं प्रसिद्धं
+> क्रतुं यागं यज्ञात्मकं विष्णुं । यज्योवै विष्णुरिति श्रुतेः । राजा राजमानो
+> वरुणः सचंत । सेवते । तमेव क्रतुं यागमश्विनाश्विनौ सचेते । अन्येऽपि देवाः
+> सचंते। सेवंते । किंच विष्णुः सवनत्रयात्मना व्याप्तो विष्णुः सखिवान् यजमानादिसखिभिर्युक्तः सन्नुत्तममुत्कृष्टतममहर्विदमहर्वेत्तारं। स्वर्गोत्पादकमित्यर्थः।
+> दक्षं बलं फलप्रदानसामर्थ्यरूपं दाधार । धृतवान् । किंच व्रजं च मेघं च ।
+> व्रज इति मेघनाम व्रजश्चरुरिति तन्नामसु पातात् । तं वृष्टुवदकार्यापोर्णुते ।
+> अपगतावरणं करोति । आहुतिद्वारा यज्ञस्यॆव वृष्टुत्पादकत्वात् । यद्वा । मारुतस्य मरुत्संघातस्य देवगणस्य वेधसो विधातुः स्रष्टुर्विष्णोः क्रतुं कर्म पालनादिरूपं वरुणादयः सचंते । तदधीनत्वात्पालनस्य । स च सखिवानिंद्रमरुदादि
+> सहायोपेतः सन्नुक्तलक्षणं दक्षं वृष्टुत्पादनादिसामर्थ्यरूपं बलं दाधार ।
+> तथा व्रजं चापोर्णुते ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is to be employed at the Agnīṣoma-praṇayana. The sūtra is: in the section beginning "when they are about to lead forth Agni and Soma", तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् (*tamasya rājā varuṇastamaśvinetyardharca āramet*) (Ā. 4-10).
+
+मारुतस्य (*mārutasya*) means belonging to the Maruts, the company of priests (ṛtvij), the suffix of possession being dropped. Or it means belonging to the Maruts, the gods. वेधसः (*vedhasaḥ*) means "of the wise". The words thus describe this sacrificer. Varuṇa, shining as king, attends that well-known क्रतुं (*kratuṃ*), the sacrifice, which is Viṣṇu in the form of sacrifice, since the Śruti says *yajño vai viṣṇuḥ*. The two Aśvins attend that same sacrifice, and other gods attend it too.
+
+Further, Viṣṇu, pervading the three pressings, accompanied by friends such as the sacrificer, bears the दक्षं (*dakṣaṃ*) that is highest, the best, and "day-finding", that is, the producer of heaven. This power is the strength of bestowing the fruit. He also uncovers the cloud: व्रज (*vraja*) is a name of the cloud, as it is among the cloud-names listed in the Nighaṇṭu. He removes its covering so that rain falls, because through the oblation the sacrifice itself produces rain.
+
+Or else: Varuṇa and the others attend the work (क्रतुं (*kratuṃ*)), consisting of protection and the like, of Viṣṇu, the creator of the divine host of Maruts, since protection depends on him. Accompanied by helpers such as Indra and the Maruts, he bears the power described, the strength for producing rain and so on, and uncovers the cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मारुतस्य (*mārutasya*)—of him who is joined with the company of priests
+- वेधसः (*vedhasaḥ*)—and who is wise
+- अस्य (*asya*)—of the sacrificer
+- तं (*taṃ*)—that well-known
+- क्रतुं (*kratuṃ*)—sacrifice, or Viṣṇu who is the sacrifice in essence
+- राजा (*rājā*)—shining
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- सचंत (*sacaṃta*)—attends
+- तं (*taṃ*)—that same, or that same Viṣṇu
+- अश्विना (*aśvinā*)—the Aśvin deities also (attend)
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu, who dwells also in the form of the three pressings
+- सखिवान् (*sakhivān*)—joined with friends such as the sacrificer, or with his friend Indra
+- उत्तमं (*uttamaṃ*)—the excellent
+- अहर्विदं (*aharvidaṃ*)—the heaven-producing
+- दक्षं (*dakṣaṃ*)—power
+
+### Printed p. 656
+
+- दाधार (*dādhāra*)—has obtained
+- व्रजं च (*vrajaṃ ca*)—the cloud also
+- अपोर्णुते (*aporṇute*)—makes (for the sake of rain) to be without covering
+
+##### भावार्थ (Bhāvārtha)
+
+The shining Varuṇa attends the well-known sacrifice of the sacrificer, who is joined with the company of priests and is wise. The Aśvin deities too attend that same sacrifice. Viṣṇu, who pervades also the form of the three pressings, together with friends such as the sacrificer, has obtained the excellent, heaven-producing power, and he makes the cloud also to be without covering for the sake of rain.
+
+##### Printed English
+
+The royal Varuna associates (himself) with the sacrifice of the pious worshipper, assisted by the company of the priests: the Aswins (unite with it): Vishnu, with his friend (Indra), possesses supreme heaven-conferring power, and sits upon the clouds.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning तमस्य राजा (*tamasya rājā*) is to be recited in the Agniṣṭoma-praṇayana rite is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, in the section "when they are about to lead forth Agni and Soma": तमस्य राजा वरुणस्तमश्विनेत्यर्धर्च आरमेत् (*tamasya rājā varuṇastamaśvinetyardharca āramet*) (Ā. 4-10).
+
+This Ṛk states the relation of Viṣṇu, who is the sacrifice in essence, to Varuṇa, and of Viṣṇu to the Aśvin deities, and praises the power in Viṣṇu of producing heaven and the like.
+
+राजा वरुणः सचंत (*rājā varuṇaḥ sacaṃta*)—"the shining Varuṇa attends": this states Varuṇa's place in the sacrificial action. Varuṇa has an important place in the optional animal sacrifice. The Saṃhitās and Brāhmaṇas say in many places that on those occasions Varuṇa not only assists Viṣṇu but also completes the sacrifice and himself takes a share in the sacrificial offering. For example:
+
+देवाश्च वै यमश्चास्मिन्‌लोकेऽस्पर्धंत स यमो देवान् - मिंद्रियं वीर्यमयुवत तद्यमस्य यमत्वं ते देवा अमन्यंत यमो वा इदमभूद्यद्वयग्स्मै इति ते प्रजापतिमुपाधावन्त्स एत् प्रजापतिरात्मन उक्षवशौ निरमिमीत ते देवा वैष्णावरुणीं वशामालभंतैंद्र मुक्षाणं तं वरुणेनैव ग्राहयित्वा विष्णुना यज्ञेन प्राणुदंतैंद्रेणैवास्येंद्रियमवृंजत यो भ्रातृव्यवान्तात्स स्पर्धमानो वैष्णावरुणीं ॥ (*devāśca vai yamaścāsminloke 'spardhaṃta sa yamo devān - miṃdriyaṃ vīryamayuvata tadyamasya yamatvaṃ te devā amanyaṃta yamo vā idamabhūdyadvayagsmai iti te prajāpatimupādhāvantsa et prajāpatirātmana ukṣavaśau niramimīta te devā vaiṣṇāvaruṇīṃ vaśāmālabhaṃtaiṃdra mukṣāṇaṃ taṃ varuṇenaiva grāhayitvā viṣṇunā yajñena prāṇudaṃtaiṃdreṇaivāsyeṃdriyamavṛṃjata yo bhrātṛvyavāntātsa spardhamāno vaiṣṇāvaruṇīṃ ‖*) (Tai. Saṃ. 2-1-4-4)
+
+Once, when a contest arose between the gods and Yama for lordship of this world, Yama brought all the gods' power under his own control; hence his name Yama. Then the gods, thinking much, went to Prajāpati and sought his help. He fashioned from his own body a cow and a bull. The gods offered that animal to Viṣṇu and Varuṇa in the form of a sacrifice (and the bull to Indra). Then Viṣṇu, who is the sacrifice, and Varuṇa bound Yama's course and drove him away. Therefore, when one is contending with rivals, an animal oblation must be offered to Viṣṇu and Varuṇa; the Taittirīya Saṃhitā says that the enemy is then checked.
+
+Similarly, in another context the Aitareya Brāhmaṇa says that Viṣṇu and Varuṇa became entitled to a share of the sacrifice as protectors of different parts of the sacrifice:
+
+ययोरोजसा स्कभिता रजांसीति वैष्णुवारुणीमृचं शंसति विष्णुर्वै यज्ञस्य दुरिष्टं पाति वरुणः स्विष्टं तयोरुभयोरेव शांतै । (*yayorojasā skabhitā rajāṃsīti vaiṣṇuvāruṇīmṛcaṃ śaṃsati viṣṇurvai yajñasya duriṣṭaṃ pāti varuṇaḥ sviṣṭaṃ tayorubhayoreva śāṃtai |*) (Ai. Brā. 3-38)
+
+The Āśvalāyana Śrauta-sūtra directs that the mantra "ययोरोजसा स्कभिता रजांसि (*yayorojasā skabhitā rajāṃsi*)", addressed to Viṣṇu and Varuṇa together, be recited at the Vaiśvadeva sacrifice. In the Āśvalāyana sūtra and in the Taittirīya Brāhmaṇa the mantra runs as follows:
+
+### Printed p. 657
+
+ययोरोजसा स्कभिता रजांसि वीर्येभिर्वीरतमा शविष्ठ या पत्येते अप्रतीत्ता सहोभिर्विष्णू अगन्वरुणा पूर्वहूत् ॥ (*yayorojasā skabhitā rajāṃsi vīryebhirvīratamā śaviṣṭha yā patyete apratīttā sahobhirviṣṇū aganvaruṇā pūrvahūt ‖*) (Tai. Brā. 2-8-4-5)
+
+The meaning of this mantra is: "May the gods Viṣṇu and Varuṇa, by whose power the atmosphere was established, who are the most vigorous and the most brilliant, come together and first." This mantra is not in the Ṛk-saṃhitā; it is in the Tai. Brā. In the Atharva-saṃhitā alone (7-15-1) it is stated with a slight difference.
+
+Because Viṣṇu repairs whatever faults at the time of sacrifice are causes of evil results, and because Varuṇa protects the fruit of the sacrifice gained through excellent performance of the rite, it is prescribed that the oblation be offered to these two deities together (Ā. Śau. 5-20).**NOTE**
+
+The passage showing in this way the sacrificial relation of Viṣṇu and Varuṇa, Varuṇa's place alongside Viṣṇu, and the equal share of the sacrifice for the two deities is conveyed by the description राजा वरुणः सचंत (*rājā varuṇaḥ sacaṃta*).
+
+### Printed p. 658
+
+तं अश्विना (*taṃ aśvinā*)—तमेव क्रतुं यागमश्विन् सेवंते (*tameva kratuṃ yāgamaśvin sevaṃte*). This states the mutual relation of these deities at the time of the sacrifice: the Aśvin deities too attend that same Viṣṇu who is the sacrifice in essence. The Śatapatha and other Brāhmaṇas describe how, at the time of the sacrifice, the head of Viṣṇu, who is the sacrifice in essence, was cut off, how the Aśvin deities repaired it, and how for that reason they too became sharers in the sacrifice.
+
+देवा ह वै सत्त्रं निषेदुः (*devā ha vai sattraṃ niṣeduḥ*) … प्रचिच्छिदतु (*pracicchidatu*) **NOTE** (Śa. Brā. 14-1-1 to 9)
+
+Formerly, all the gods other than the Aśvins, Indra, Viṣṇu, Soma and the rest, together began a sattra at Kurukṣetra, the place of the gods' sacrifice. Then they wished to become renowned and possessed of food. They decided that whoever among them should first complete the sacrifice fully, through toil, faith and oblations, would be reckoned the foremost of all. Viṣṇu first obtained that excellent rank.
+
+### Printed p. 659
+
+Viṣṇu, who had attained so excellent a rank, became the sacrifice in essence. Then his pride in his own glory could not be restrained. When he set out taking his bow together with his three arrows, none of the gods dared to oppose him, and they sat stunned. Then ants of the kind called vamrī came and asked Viṣṇu what he would give in return if they gripped, pulled and bent the tip of that bow. He gave the assurance that one with such ability would enjoy full wealth of food and would obtain abundance of water even in a desert. Then they cut through the bowstring. At once the end of the bent bow sprang up straight and cut off the head of Viṣṇu, which was resting on the bent bow. This is the story in the Śatapatha Brāhmaṇa. In Tai. 4. 1-5-2 it is said that Indra himself, in the form of a vamrī, cut the bowstring.**NOTE**
+
+The Taittirīya Āraṇyaka tells as follows how, when the head of Viṣṇu, who is the sacrifice in essence, was cut off, the gods knew that the sacrifice itself had become deficient, and while they were brooding the Aśvin deities repaired his severed head.
+
+देवा वै सत्रमासत । युद्धिपरिमितं यशस्कामाः। तेऽब्रुवन्। यन्नः प्रथमं यशः ऋच्छात् । सर्वेषां न स्ततत्सहासदिति। .... .... .... .... । तेषां मखं वैष्णवं यश आर्भत् । ............तस्य सिष्मीयाणस्य तेजोऽपाक्रामत्.... .... .... वारेवृतग्स् हासां । तस्य ज्यामप्यादन् । तस्य धनुर्विप्रवमाणग् शिर उदवर्तयत् । तद्वावापृथिवी अनु प्रावर्तत । यत्पावर्तत । तत् प्रवर्ग्यस्य प्रवर्ग्यत्वं । यद्घ्रां ४ इत्यपतत् । तद्वर्मस्य घर्मत्वं । महतो वीर्यमपप्तदिति । तन्नहावीरस्य महावीरत्वं । यदस्याः समभरन्तत्सम्राजः संम्राट्त्वं । तग्स् स्ततं देवतास्त्रेधा व्यग्रह्णत । अग्निः पात्रः सवनं । इंद्रो माध्यंदिनग्स् सवनं । विश्वेदेवास्तृतीयसवनं । तेनापशीर्ष्णा यज्ञेन यजमानाः । नाशिषोऽनारुंधत । न सुवर्गं लोकभ्यजयन् । ते देवा अश्विनावब्रुवन् । भिषजौ वै स्थः । इदं यज्ञस्य शिरः प्रतिधत्तमिति । तावब्रूतां वरं वृणावहै । ग्रह एव नावत्रापि गृह्यतामिति । ताभ्यामेतमाश्विनमगृह्णन् । तावेतदद्यज्ञस्य शिरः प्रत्यधत्तां । यत्पवर्ग्यः । तेन सशीर्ष्णा यज्ञेन यजमानाः । अवाशिषोऽरुन्तत । .... .... .... अभि सुवर्गं लोकं जयति । तस्मादेष आश्विन प्रवया इव । यत्पवर्ग्यः ॥ (*devā vai satramāsata | yuddhiparimitaṃ yaśaskāmāḥ| te 'bruvan| yannaḥ prathamaṃ yaśaḥ ṛcchāt | sarveṣāṃ na statatsahāsaditi| .... .... .... .... | teṣāṃ makhaṃ vaiṣṇavaṃ yaśa ārbhat | ............tasya siṣmīyāṇasya tejo 'pākrāmat.... .... .... vārevṛtags hāsāṃ | tasya jyāmapyādan | tasya dhanurvipravamāṇag śira udavartayat | tadvāvāpṛthivī anu prāvartata | yatpāvartata | tat pravargyasya pravargyatvaṃ | yadghrāṃ 4 ityapatat | tadvarmasya gharmatvaṃ | mahato vīryamapaptaditi | tannahāvīrasya mahāvīratvaṃ | yadasyāḥ samabharantatsamrājaḥ saṃmrāṭtvaṃ | tags stataṃ devatāstredhā vyagrahṇata | agniḥ pātraḥ savanaṃ | iṃdro mādhyaṃdinags savanaṃ | viśvedevāstṛtīyasavanaṃ | tenāpaśīrṣṇā yajñena yajamānāḥ | nāśiṣo 'nāruṃdhata | na suvargaṃ lokabhyajayan | te devā aśvināvabruvan | bhiṣajau vai sthaḥ | idaṃ yajñasya śiraḥ pratidhattamiti | tāvabrūtāṃ varaṃ vṛṇāvahai | graha eva nāvatrāpi gṛhyatāmiti | tābhyāmetamāśvinamagṛhṇan | tāvetadadyajñasya śiraḥ pratyadhattāṃ | yatpavargyaḥ | tena saśīrṣṇā yajñena yajamānāḥ | avāśiṣo 'runtata | .... .... .... abhi suvargaṃ lokaṃ jayati | tasmādeṣa āśvina pravayā iva | yatpavargyaḥ ‖*) (Tai. Ā. 5-1-1 to 7)
+
+As in the story quoted above from the Śatapatha Brāhmaṇa, after the head of Viṣṇu, who is the sacrifice in essence, was cut off, they divided the fallen body of the sacrifice into three parts. Then Agni took the morning pressing, Indra the midday pressing, and the Viśvedevas the third pressing. But from a sacrifice that had no head, neither well-being nor heaven came to them.
+
+### Printed p. 660
+
+Then they addressed the Aśvin deities: "You are the physicians of the gods. Join again this severed head of the sacrifice." When they asked this, the Aśvins said: "If the Soma oblation may be ours here also, we will join the head to the body." When the gods agreed, they joined the severed head of Viṣṇu, who is the sacrifice in form, and became entitled to a share of the sacrifice. So it is said.
+
+Thus, since in one respect the Aśvin deities are indeed protectors of the sacrifice, the words अश्विना क्रतुं सचंत (*aśvinā kratuṃ sacaṃta*) in the Ṛk state that the Aśvin deities attend, or attended, this sacrifice.
+
+मारुतस्य वेधसः (*mārutasya vedhasaḥ*)—मरुतां ऋत्विजां संबंधिनः (*marutāṃ ṛtvijāṃ saṃbaṃdhinaḥ*) or मरुतां देवानां संबंधिनः यजमानस्य (*marutāṃ devānāṃ saṃbaṃdhinaḥ yajamānasya*): "of the sacrificer who is a kinsman of the priests, or a kinsman of the gods". Thus two kinds of meaning are given for the word मारुतस्य (*mārutasya*). The authors of the Nirukta have listed the word मरुत् (*marut*) among the names of the priest (3-19) and among the names of gold (2-10). But if the name known as that of the Marut deities is to be given the meaning "priest", "gold", and in some places (commonly) "gods", then it takes some effort to find what the root of this word is, in what ways its derivation is possible, and what its derivation is when it denotes the Marut deities. For this word as used of the Marut deities the Nirukta gives the following explanation:
+
+मरुतो मितराविणो ना मितरोचिनो ना महद्भवंतीति वा । (*maruto mitarāviṇo nā mitarocino nā mahadbhavaṃtīti vā |*) (Ni. 11-14)
+
+Citing Ṛk 1-8, it explains the nature of the Maruts: the name is given because they have measured sound, or measured radiance, or because they run swiftly.
+
+Discussing how hard it is to give a correct explanation of this word, which has so many meanings, the scholar Max Muller says:
+
+"Marut or Maruta in Orninary Sanskrit mean wind, and more particularly a strong wind, differing by its violent character from Vayu or Vata Nor do the hymns themselves leave us in any doubt as to the natural phenomena with which the Maruts are identified. Storms which root up the trees of the forest, lightning, thunder and showers of rain are the background from which the Maruts in their personal and dramatic character rise
+
 ---
 
-**Progress note:** Done through printed p. 654. pp. 648-
+**Progress note:** Done through printed p. 660. pp. 655-660 (batch API)
