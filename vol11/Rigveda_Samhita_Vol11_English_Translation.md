@@ -13731,6 +13731,116 @@ showing that there the word अंध (*aṃdha*) means darkness. In the present
 
 Here the 153rd sūkta ends.
 
+### Printed p. 563
+## Sūkta 154 (Maṇḍala 1)
+
+Anuvāda: This sūkta beginning "Viṣṇor nu kam" is the fifteenth sūkta in the twenty-first anuvāka. It has six Ṛks. Its seer is Dīrghatamas, son of Ucathya. Viṣṇu is the deity; the metre is Triṣṭubh. The Anukramaṇikā says: "Viṣṇoḥ ṣaḍ vaiṣṇavaṃ hīti." In the Abhiplava-ṣaḍaha and Ukthya sacrifices, at the third pressing, while Ṛks for the increase of Soma are recited, the priest called Acchāvāka is to recite this sūkta and the next one for the extension of the stoma. This is set out in Āśvalāyana's Śrauta-sūtra, in the section "Stome vardhamāne", by the sūtra "Viṣṇor nu kam iti sūkte paro mātrayety acchāvākaḥ" (Ā. 7-9). Further, at the third pressing, in the rite called Somātireka, the sūkta is applied also in reciting the śastra-mantras of the Atirātra that follows; this is indicated in the same Sūtra, in the section "Tatraitad eva sūktaṃ somātireke", by the sūtra "Mahā indro nṛvad viṣṇor nu kam" (Ā. 6-7). The first Ṛk is applied in the Āgnimāruta-śastra, as set out in the section "Atha yathetam" by the sūtra "Viṣṇor nu kaṃ vīryāṇi pra vocaṃ tantuṃ tan nanrajaso bhānum anvihi" (Ā. 5-20).
+
+### Printed p. 564
+Sūkta 154. Maṇḍala 1, Anuvāka 21, Sūkta 154; Aṣṭaka 2, Adhyāya 2, Varga 24. Number of Ṛks in the sūkta: 6. Seer: Dīrghatamas Aucathya. Deity: Viṣṇu. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि ॒ ॑
+> विम॒मे रजां॑सि ।  
+> यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ।  
+> ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्णोः । नु । कं । वीर्याणि । प्र । वोचं । यः । पार्थिवानि । विममे । रजांसि ।  
+> यः । अस्कभायत् । उत्तरं । सधस्थं । विचक्रमाणः । त्रेधा । उरुग्गायः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नराः विष्णोर्व्यापनशीलस्य देवस्य वीर्याणि वीरकर्माणि नु कमतिशीघ्रं
+> प्र वोचं । प्रब्रवीमि । अत्र यद्यपि नु कमिति पदद्वयं तथापि यास्केन नवोत्तराणि
+> पदानि । नै. ३-१२ । इत्युक्तत्वात् । शाखांतर एकत्वेन पाठाच्च नु इत्येतस्मिन्नेवार्थे
+> नु कमिति पदद्वयं । कानि तानीशि तत्राह । यो विष्णुः पार्थिवानि पृथिवीसंबंधीनि
+
+##### Gist of the bhāṣya
+
+"O men, I swiftly proclaim the heroic deeds of Viṣṇu, the all-pervading deity." Although नु कं (*nu kaṃ*) is two words, because Yāska says that words ... (Ni. 3-12) and because other recensions read it as one, the two words have the one sense of नु (*nu*) (quickly). What are those deeds? He says: Viṣṇu who has measured out the earthly realms.
+
+### Printed p. 565
+
+> रजांसि रंजनात्मकानि क्षित्यादिलोकत्रयाभिमानीन्याग्निवाय्वादित्यरूपाणि रजांसि
+> विममे विशेषेण निर्ममे । अत्र त्रयो लोका अपि पृथिवीशब्दवाच्याः । तथा च
+> मंत्रांतरं । यदींद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्या मुत स्थः ।
+> ऋ. १-१०८-९ । इति । तैत्तरीयेऽपि । योऽस्यां पृथिव्यामस्यायुषेत्युपक्रम्य यो
+> द्वितीयस्यां तृतीयस्यां पृथिव्यामिति । तै. सं. १-२-१२-१ । तस्माल्लोकत्रयस्य
+> पृथिवीशब्दवाच्यत्वं । किंच यश्च विष्णुरुत्तरमुद्धततरमतिविस्तीर्णं सधस्थं सहस्थानं लोकत्रयाश्रयभूतमंतरिक्षमस्कभायत् तेषामाधारत्वेन स्तंभितवान् ।
+> निर्मितवानित्यर्थः । अनेनांतरिक्षाश्रितं लोकत्रयमपि सृष्टवानित्युक्तं भवति । यद्वा।
+> यो विष्णुः पार्थिवानि पृथिवीसंबंधीनि रजांसि पृथिव्या अधस्तनसप्तलोकांविममे
+> विविधं निर्मितवान् । रजःशब्दो लोकवाची लोका रजांस्युच्यंत इति यास्केनोक्तत्वात् । किंच । यश्चोत्तरमुद्धततरमुत्तरभाविनं सधस्थं सहस्थानं पुण्यकृतां
+> सहनिवासयोग्यं भूरादिलोकसप्तकमस्कभायत् स्कंभितवान् । सृष्टवानित्यर्थः ॥
+> स्कंभेः स्तंभुस्तुंबिति विहितस्य श्नः छंदसि शायजपीति व्यत्ययेन शायजादेशः ॥
+> अथवा पार्थिवानि पृथिवीनिमित्तकानि रजांसि लोकान् विममे । भूरादिलोकत्रयमित्यर्थः । भूम्यामुपार्जितकर्मभोगार्थत्पादितरलोकानां तत्कारणत्वं । किंच
+> यश्चोत्तरमुत्कृष्टतरं सर्वेषां लोकानामुपरिभूतं । अपुनरावृत्तेस्तस्योत्कृष्टत्वं । सधस्थमुपासकानां सहस्थानं सत्यलोकमस्कभायत् । स्कंभितवान् ।
+> ध्रुवं स्थापितवानित्यर्थः । किं कुर्वन् । त्रेधा विचक्रमाणस्तिप्रकारं स्वसृष्टांल्लोकान्विविधं क्रममाणः ॥ विष्णोस्त्रेधा क्रमणमिदं विष्णुर्वि चक्रमे । ऋ. १-२२-१७ ।
+> इत्यादिश्रुतिषु प्रसिद्धं । अतएवोरुगाय उरुभिर्महद्निर्गियमानः अतिप्रभूतं
+> गीयमानो वा । य एवं कृतवान् तादृशस्य विष्णोर्वीर्याणि प्र वोचं ॥
+
+##### Gist of the bhāṣya
+
+The "realms" (rajāṃsi) are the colourful ones, the forms of Agni, Vāyu and Āditya presiding over the three worlds beginning with earth; he measured them out specially. Here the three worlds are also denoted by the word "earth". So another mantra: यदींद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्या मुत स्थः (*yadīṃdrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyā muta sthaḥ*) (Ṛ. 1-108-9); and in the Taittirīya, beginning योऽस्यां पृथिव्यामस्यायुष (*yo 'syāṃ pṛthivyāmasyāyuṣa*) and continuing *yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāṃ* (Tai. Saṃ. 1-2-12-1). Hence the three worlds are called "earth". Also, Viṣṇu propped up the higher, very wide common abode, the atmosphere that supports the three worlds, i.e. made it; so he is said to have created the three worlds resting on it.
+Alternatively: the earthly realms are the seven worlds beneath the earth, which he made variously; the word rajas means world, since Yāska says "worlds are called rajāṃsi". And he propped up the higher abode, the group of seven worlds beginning with Bhūr, fit for the joint dwelling of the virtuous, i.e. created it. The root skambh takes the ending śnā by the rule of vyatyaya.
+Or: the realms caused by the earth, the three worlds Bhūr etc.; the other worlds exist for the enjoyment of deeds earned on earth, so earth is their cause. And the higher, most excellent abode above all worlds, from which there is no return, is the Satyaloka, which he fixed firm. Doing what? Striding thrice, going variously through the worlds he created. Viṣṇu's threefold stride is famed in śruti such as विष्णुर्वि चक्रमे (*viṣṇurvi cakrame*) (Ṛ. 1-22-17). Hence he is "wide-praised" (urugāya), sung by many or greatly. I proclaim the heroic deeds of such a Viṣṇu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Viṣṇu
+- पार्थिवानि (*pārthivāni*)—belonging to the earth
+- रजांसि (*rajāṃsi*)—the colourful ones, the presiding deities of the three worlds in the forms of Agni, Vāyu and Āditya; or the seven worlds beneath the earth; or the worlds Bhū, Bhuvar and Svar that depend on the earth
+- विममे (*vimame*)—made specially (and)
+- यः (*yaḥ*)—which Viṣṇu
+- त्रेधा (*tredhā*)—thrice
+- विचक्रमाणि (*vicakramāṇi*)—moving variously (through all the worlds he made)
+- उरुगायः (*urugāyaḥ*)—praised by the great
+- उत्तरं (*uttaraṃ*)—very wide
+- सधस्थं (*sadhasthaṃ*)—the atmosphere, support of the three worlds
+- अस्कभायत् (*askabhāyat*)—made (such)
+- विष्णोः (*viṣṇoḥ*)—of the all-pervading Viṣṇu
+- वीर्याणि (*vīryāṇi*)—heroic deeds (feats of daring)
+- नु कं (*nu kaṃ*)—very swiftly
+- प्रवोचं (*pravocaṃ*)—I recite in praise
+
+### Printed p. 566
+
+##### भावार्थ (Bhāvārtha)
+
+I swiftly recite and praise the heroic deeds of the all-pervading Viṣṇu, who specially made the earth and all worlds, who thrice moves variously through all the worlds he made, praised by the great, and who made the very wide atmosphere.
+
+##### Printed English
+
+Earnestly I glorify the exploits of Vishnu, who made the three worlds; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Somātireka at the third pressing, the three Ṛks beginning प्र तद्विष्णुः (*pra tadviṣṇuḥ*) are to be included as anurūpa Ṛks in the śastra-mantra; this is set out in Āśvalāyana's Śrauta-sūtra, in the section सोमातिरेके (*somātireke*), by the sūtra प्र तद्विष्णुस्तवते वीर्येणेति स्तोत्रियानुरूप् (*pra tadviṣṇustavate vīryeṇeti stotriyānurūp*) (Ā. 6-7). And in the section वाजपेयेनाधिपत्य (*vājapeyenādhipatya*) it is likewise indicated by the sūtra प्र तत्ते अद्य शिपिविष्टनाम प्र तद्विष्णुः स्तवते वीर्येण (*pra tatte adya śipiviṣṭanāma pra tadviṣṇuḥ stavate vīryeṇa*) (Ā. 9-9).
+This is the first independent sūkta on Viṣṇu in the whole Ṛk-saṃhitā. Earlier, Ṛks 16 to 21 of sūkta 1-22 praise Viṣṇu, and Viṣṇu's nature and greatness learnt from that description were explained in the third part of the Ṛgveda-saṃhitā, pp. 19, 124-126, 132 to 135, as occasion arose. As this part contains two sūktas solely on Viṣṇu and one to Indra-Viṣṇu, some further special qualities not mentioned earlier are stated here. From these descriptions one can learn Viṣṇu's greatness and his place in the Ṛk-saṃhitā. Since there are disagreements about Viṣṇu's nature and this deity's place among Indra and the other deities, the personal opinions of Vedic and Western scholars were given in the introductory section of this same part. Here the points described in each Ṛk are explained. As in 1-32-1 Hiraṇyastūpa Aṅgirasa resolved "इंद्रस्य नु वीर्याणि प्रवोचं (*iṃdrasya nu vīryāṇi pravocaṃ*)", so in this Ṛk Dīrghatamas Aucathya resolves "विष्टोर्नु कं वीर्याणि प्रवोचं (*viṣṭornu kaṃ vīryāṇi pravocaṃ*)". आग्निमारुतशस्त्रे आद्या विनियुक्ता (*āgnimārutaśastre ādyā viniyuktā*): the first Ṛk of these sūktas is applied in the Agnimāruta-śastra, says the Āśvalāyana Śrauta-sūtra (5-20). The Aitareya Brāhmaṇa states the greatness of this Ṛk thus.
+ययोरोजसा स्कभिता रजांसीति वैष्णुवारुणीमृचं शंसति विष्णुवै यज्ञस्य दुरिष्टं पाति वरुणः स्विष्टं तयोरुभयोरेव शान्तैः । (*yayorojasā skabhitā rajāṃsīti vaiṣṇuvāruṇīmṛcaṃ śaṃsati viṣṇuvai yajñasya duriṣṭaṃ pāti varuṇaḥ sviṣṭaṃ tayorubhayoreva śāntaiḥ |*)
+
+### Printed p. 567
+“ विष्णोर्नु कं वीर्याणि प्रवोच ”मिति वैष्णवीं शंसति यथा वैमत्यमेवं यज्ञस्य विष्णुस्तद्यथा दुष्कृष्टं दुर्मतीकृतं सुकृष्टं सुमतीकृतं कुर्वन्नियादेवनेवैतद्यज्ञस्य दुष्टुतं दुःशस्तं सुष्टुतं सुशस्त्रं कुर्वन्नेति यदेतां होता शंसति । (*“ viṣṇornu kaṃ vīryāṇi pravoca ”miti vaiṣṇavīṃ śaṃsati yathā vaimatyamevaṃ yajñasya viṣṇustadyathā duṣkṛṣṭaṃ durmatīkṛtaṃ sukṛṣṭaṃ sumatīkṛtaṃ kurvanniyādevanevaitadyajñasya duṣṭutaṃ duḥśastaṃ suṣṭutaṃ suśastraṃ kurvanneti yadetāṃ hotā śaṃsati |*) (Ai. Brā. 13-14)
+In worldly affairs, मत्य (*matya*) is: मतौ बुद्धि सम्यक्त्वेन प्रतिभातं कार्यं मत्यं । यथा मत्यं कार्यं लोके फलपरवसायि भवति तथा विष्णुरपि फलपरवसायीत्यर्थः । (*matau buddhi samyaktvena pratibhātaṃ kāryaṃ matyaṃ | yathā matyaṃ kāryaṃ loke phalaparavasāyi bhavati tathā viṣṇurapi phalaparavasāyītyarthaḥ |*) As an act done with right discernment yields its fruit, so Viṣṇu too helps in sacrificial acts to obtain fruit. Moreover, as a man of excellent mind removes faults of a field and causes good plants to grow, and as a good minister rectifies the king's affairs spoiled by a bad minister, so Viṣṇu removes all faults arising in sacrificial acts and makes the sacrifice fruitful. Therefore it says: when the Hotṛ recites this Vaiṣṇavī, "विष्णोर्नु कं वीर्याणि (*viṣṇornu kaṃ vīryāṇi*)", the Ṛk in praise of Viṣṇu. "यः पार्थिवानि विममे रजांसि (*yaḥ pārthivāni vimame rajāṃsi*)" etc. are Viṣṇu's heroic deeds.
+पार्थिवानि रजांसि (*pārthivāni rajāṃsi*): Sāyaṇa explains this in three ways. First: पृथिवी संबंधीनि रंजनात्मकानि क्षित्यादिलोकत्रयाभिमानीनि अग्निवाय्वादित्यरूपाणि । (*pṛthivī saṃbaṃdhīni raṃjanātmakāni kṣityādilokatrayābhimānīni agnivāyvādityarūpāṇi |*) That is, he made (vimame) the presiding deities of the three worlds, belonging to the earth, colourful, in the forms of Agni, Vāyu and Āditya. To the doubt how the epithet "earthly" suits the three worlds, he answers by citing śruti:
+यदिंद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यामुत स्थः । अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ (*yadiṃdrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyāmuta sthaḥ | ataḥ pari vṛṣaṇāvā hi yātamathā somasya pibataṃ sutasya ‖*) (Ṛ. Saṃ. 1-108-9)
+There अवमस्यां पृथिव्यां (*avamasyāṃ pṛthivyāṃ*) is explained as "on the earth", मध्यमस्यां पृथिव्यां (*madhyamasyāṃ pṛthivyāṃ*) as "in the atmosphere", परमस्यां पृथिव्यां (*paramasyāṃ pṛthivyāṃ*) as "in the distant heaven". अत्र पृथिवीशब्दः त्रिष्टपि लोकेषु वर्तते । (*atra pṛthivīśabdaḥ triṣṭapi lokeṣu vartate |*) — the word earth applies to the worlds too, he makes clear again. Moreover,
+वित्तायनी मेसि तिक्तायनी मेस्यवतान्मा नाथितमवतान्मा व्यथितं विदेरग्निर्नभो नामाग्ने अंगिरो योऽस्यां पृथिव्यामस्यायुषा नाम्नेहि यत्तेनाधृष्टं नानु यज्ञियं तेन त्वा दधेग्ने अंगिरो यो द्विती- (*vittāyanī mesi tiktāyanī mesyavatānmā nāthitamavatānmā vyathitaṃ videragnirnabho nāmāgne aṃgiro yo 'syāṃ pṛthivyāmasyāyuṣā nāmnehi yattenādhṛṣṭaṃ nānu yajñiyaṃ tena tvā dadhegne aṃgiro yo dvitī-*)
+
+### Printed p. 568
+यस्यां पृथिव्यामस्यायुषा नाम्नेहि यत्तेना धृष्टं नाम । (*yasyāṃ pṛthivyāmasyāyuṣā nāmnehi yattenā dhṛṣṭaṃ nāma |*) (Tai. Saṃ. 1-2-12-1)
+Citing this Taittirīya-saṃhitā passage he shows that there too the three worlds are denoted by the word earth: अस्यां पृथिव्यां (*asyāṃ pṛthivyāṃ*), द्वितीयस्यां पृथिव्यां (*dvitīyasyāṃ pṛthivyāṃ*), तृतीयस्यां पृथिव्यां (*tṛtīyasyāṃ pṛthivyāṃ*). So "earthly realms" means: he made Agni, Vāyu and Āditya, the colourful presiding deities of the three worlds.
+Second: citing the Nirukta-kāra's words लोका रजांस्युच्यंते (*lokā rajāṃsyucyaṃte*) — worlds are called rajas by usage — पार्थिवानि पृथिवीसंबंधीनि पृथिव्या आधस्तन सप्तलोकान् विममे (*pārthivāni pṛthivīsaṃbaṃdhīni pṛthivyā ādhastana saptalokān vimame*): he created the seven worlds beneath the earth, Atala, Vitala, Sutala, Rasātala, Talātala, Mahātala and Pātāla.
+Third: पार्थिवानि पृथिवीनिमित्तकानि रजांसि लोकान् विममे । भूरादि लोकत्रयमित्यर्थः । भूम्यां उपार्जितकर्मभोगार्धत्वात् इतरलोकानां तत्कारणत्वं। (*pārthivāni pṛthivīnimittakāni rajāṃsi lokān vimame | bhūrādi lokatrayamityarthaḥ | bhūmyāṃ upārjitakarmabhogārdhatvāt itaralokānāṃ tatkāraṇatvaṃ|*) The worlds Bhūr etc. were created to experience the fruits of all deeds done on earth and according to them, so the earth is the cause of the creation of those worlds. Hence he created the three worlds Bhūr etc. that have the earth as their cause. Sāyaṇa thus explains three possible meanings.
+रजांसि (*rajāṃsi*)—रजो रजतेज्योर्ती रज उच्यते । उदकं रज उच्यते । लोका रचांस्युच्यंते ॥ (*rajo rajatejyortī raja ucyate | udakaṃ raja ucyate | lokā racāṃsyucyaṃte ‖*) (Ni. 4-15)
+Derived from the root raṃj, "to shine", the word rajas means light, water, and worlds. Other meanings possible for this word, with examples, are set out in detail on p. 58 of this same part. In the present Ṛk it may be said to mean shining worlds.
+त्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा । तेन मेधातिथिः प्राह विष्णुमेनं त्रिविक्रमं ॥ (*trīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā | tena medhātithiḥ prāha viṣṇumenaṃ trivikramaṃ ‖*) (Bṛ. De. 2-24)
+As the three worlds shine by Viṣṇu's three steps, so in the present Ṛk too it is natural that rajas means world.
+
 ---
 
-**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
+**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
