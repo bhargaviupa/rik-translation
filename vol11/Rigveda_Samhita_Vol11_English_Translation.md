@@ -394,6 +394,147 @@ and the like: in these Ṛks, because the word अंशु (*aṃśu*) is an ep
 
 - वासरीम् — वस आच्छादने धातुः । अस्मात् औणादिको अरि प्रत्ययः । व्यत्ययेन आदिवृद्धिः । अस्मात् स्त्रीत्वविवक्षायां कृदिकारादक्तिनः इति क्तिन्भिन्नेकारांतकृदंतत्वात् जीप् । अथवा औणादिक अर प्रत्ययः । प्रज्ञादिषु अंतर्भूतत्वात् प्रज्ञादिभ्यश्च (पा. सू. ५-४-३८) इति स्वार्थे अण् प्रत्ययः । तद्दितेष्टचामादेः (पा. सू. ७-२-११७) इति आदिवृद्धिः । तदा स्त्रीत्वे टिड्डाणञ् इति जीप् । यस्येतिच इति अकारलोपः । अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति जीवः उदात्तस्वरो भवति । द्वितीयाविकवचनांतरूपं ।
 
+### Printed p. 14
+
+- दुहंति — दुह प्रपूरणे धातुः । अदादिः । लट् प्रथमपुरुषबहुवचने रुः अंतादेशः । अदिप्रभृतिभ्यः शपः इति शपः लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- अस्मत्रा — अस्मान् त्रायेते इति अस्मत्रा । त्रैज् पालने धातुः । क्विप् च इति क्विप् प्रत्ययः । सुपांसुलुक् (पा. सू. ७-१-३९) इति विभक्तेः आकारादेशः । समासे गतिकारकोपपदात्‌कृत् (पा. सू. ६-१-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- अर्वाञ्चा — सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य औ विभक्तेः आकारादेशः ।
+- सोमपीतये — सोमस्य प्रीतिः सोमपीतिः तस्मै सोमपीतये । प्रीति इति पूर्वस्मिन् मंत्रे व्याख्यातम् । तादौ च निति (पा. सू. ६-२-५०) इति पूर्वपदप्रकृतिस्वरो भवति । चतुर्थीएकवचनांतरूपम् ।
+- नृभिः — नृ नये धातुः । क्विप् प्रत्ययः । तृतीयाबरुवचनांतरूपम् ।
+- सुतः — मञ् अभिषवे धातुः । कर्मणि निष्ठा इति क्तप्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+
+## Sūkta 138 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रप्र पूष्ण इति चतुर्ऋचं पंचमं सूक्तं सारुच्छेपमात्यष्टं पूषदेव
+> ताकं । प्रप्र चतुष्कं पौष्णमित्यनुक्रांतं ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This is the fifth sūkta, of four ṛks, addressed to Pūṣan as deity. Its seer is given in the printed Sanskrit as सारुच्छेपमात्यष्टं (*sārucchepamātyaṣṭaṃ*) **NOTE**. The Anukramaṇī says प्रप्र चतुष्कं पौष्णं (*prapra catuṣkaṃ pauṣṇaṃ*) ("the four beginning prapra are Pūṣan's"). The use (viniyoga) is लैंगिकः (*laiṃgikaḥ*), i.e. according to the indicative character of the hymn.
+
+##### Anuvāda
+
+This sūkta beginning "prapra pūṣṇaḥ" is the fifth sūkta in the twentieth anuvāka; it has four ṛks. Its seer is Paruchchhepa, son of Divodāsa; the deity is Pūṣan; the metre is Atyaṣṭi. In the Anukramaṇī it is stated: "the four beginning prapra are Pūṣan's". The use of the sūkta is laiṅgika.
+
+### Printed p. 15
+
+##### Particulars
+
+Maṇḍala 1; Anuvāka 2; Sūkta 138; Aṣṭaka 2; Adhyāya 2; Varga 2; number of ṛks in the sūkta: 4. Seer: Paraśurāma. Deity: Bhūdā. Metre: Ātmajña. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रप्र पूष्णस्तु विजातस्य शस्यते महित्वमस्य तमसो न तंदते  
+> स्तोत्रमस्य न तंदते ।  
+> अर्चा॑मि सुम्म॒यन्न॒हमंत्यू॑तिं मयो॒भुव॑नं ।  
+> विश्व॑स्य॒ यो मन॑ आयुयु॒वे म॒खो दे॒व आ॑युयु॒वे  ॒
+> मखः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रप्र । पूष्णः । तुविजातस्य । शस्यते । महित्वं । अस्य । तवसः । न । तंदते । स्तोत्रं । अस्य । न । तंदते ।  
+> अर्चामि । सुम्नयन् । अहं । अंतिऊतिं । मयकभुवं ।  
+> विश्वस्य । यः । मनः । आयुयुवे । मखः । देवः । आयुयुवे । मखः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुविजातस्य बहुयजमानार्थमुत्पन्नस्यास्य पूष्णः पोषकस्यैतन्नामकस्य
+> देवस्य तवसो महित्वं बलस्य महत्त्वं प्रप्र शस्यते । प्रस्तूयते सर्वैः ॥ वीप्सा
+> पादपूरणे । न तंदते । न हिनस्ति कश्चित्तदपि । किंचास्य पूष्णः स्तोत्रं न तंदते ।
+
+##### Gist of the bhāṣya
+
+Of this Pūṣan, "born for many sacrificers" (तुविजातस्य (*tuvijātasya*)), the nourisher so named, the greatness of his strength is praised by all. The words न तंदते (*na taṃdate*) are a repetition to fill the pāda: no one harms or neglects it. Further, the praise of this Pūṣan does not (cease)…
+
+### Printed p. 16
+
+> न हिनस्ति । न विरमति । सर्वोऽपि जन एनं स्तौतीत्यर्थः। जगत्सोषकत्वादिति भावः ।अतः
+> कारणादहं अहमपि यजमानः सुम्नयन् सुखमिच्छन्नर्चामि। स्तौमि । कीदृशंतं ।
+> अंतूतिमासन्नरक्षणं ॥ कादिलोपो बहुलमिति कलोपः ॥ स्तुत्यनंतरमेव वरप्रदमित्यर्थः । मयोभुवं सुखस्योत्पादकं भावयितारं वा । यः पूषा मखो
+> यज्ञवान् ॥ मत्त्वर्थो लुष्यते ॥ विश्वस्य सर्वस्य स्तोतुर्ऋज्विजो मन आयुयुवे
+> समंतान्मिश्रयति। शीघ्रवरप्रदानादिति भावः। किंच देवो दीप्यमान एष मखो मखं यज्ञमायुयुवे । संपूर्तिपर्यंतं मिश्रयति । यद्वा । विश्वस्य मनोमिश्रणे यजमाने किमायातमिति चेत् उच्यते । मखो यज्ञनिर्वाहकोऽयं
+> पूषा देवो यजमानस्य मन आयुयुवे । समंतान्मिश्रयति । सामर्थ्याद्यजमानस्य मन इति लभ्यते ॥ यौतेश्छांदसो लिट् ॥
+
+##### Gist of the bhāṣya
+
+…it does not cease; every person praises him, because he nourishes the world. For this reason I, the sacrificer, desiring happiness (सुम्नयन् (*sumnayan*)), praise him. How is he? अंत्यूतिं (*aṃtyūtiṃ*) is "one whose protection is near", that is, one who gives a boon immediately after the praise. मयोभुवं (*mayobhuvaṃ*) is the producer, or the one who brings about, happiness. He, Pūṣan, is मखः (*makhaḥ*), "possessing sacrifice" (the possessive suffix is elided). Of all, of the praising ṛtvik, he mixes together (आयुयुवे (*āyuyuve*)) the mind completely, since he quickly grants boons. Further, this shining god mixes the sacrifice (मखं (*makhaṃ*)) up to its completion. Or else: if it is asked what the mixing of everyone's mind has to do with the sacrificer, the answer is that this Pūṣan, who brings the sacrifice to its conclusion, joins the mind of the sacrificer completely; by the sense, "the sacrificer's mind" is understood. The form आयुयुवे (*āyuyuve*) is a Vedic perfect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविजातस्य (*tuvijātasya*)—born for many sacrificers, or worshipful to many sacrificers
+- अस्य पूष्णः (*asya pūṣṇaḥ*)—of this god Pūṣan
+- तवसः (*tavasaḥ*)—of strength
+- महित्वं (*mahitvaṃ*)—the greatness
+- प्रप्र शस्यते (*prapra śasyate*)—is praised exceedingly
+- न तंदते (*na taṃdate*)—(being without faith) no one stops
+- अस्य (*asya*)—of this Pūṣan
+- स्तोत्रं (*stotraṃ*)—the song of praise (of his greatness)
+- न तंदते (*na taṃdate*)—does not stop anywhere (all praise him)
+- Therefore:
+- अहं (*ahaṃ*)—I also
+- सुम्नर्य (*sumnarya*)—desiring happiness
+- अंत्यूतिं (*aṃtyūtiṃ*)—the very near protector
+- मयोभुवं (*mayobhuvaṃ*)—and the bringer of happiness
+- अर्चामि (*arcāmi*)—I worship and praise (Pūṣan)
+- यः (*yaḥ*)—who, that same god Pūṣan
+- मखः (*makhaḥ*)—as one who has the sacrifice
+- विश्वस्य (*viśvasya*)—of all the ṛtviks
+- मनः (*manaḥ*)—the mind
+- आयुयुवे (*āyuyuve*)—well joins together (by his granting of boons)
+- Or: देवः (*devaḥ*)—the shining Pūṣan; मखः (*makhaḥ*)—the sacrifice; आ युयुवे (*ā yuyuve*)—joins evenly (until it is complete)
+- Or: मखः (*makhaḥ*)—the one who carries through the sacrifice; देवः (*devaḥ*)—the one who is divine in nature, Pūṣan; मनः (*manaḥ*)—the sacrificer's mind; आ युयुवे (*ā yuyuve*)—joined into one (I praise such a Pūṣan)
+
+##### भावार्थ (Bhāvārtha)
+
+The greatness of the strength of this god Pūṣan, born for many sacrificers, is praised exceedingly. No one, without faith, stops this praise; all are bound to praise. Therefore I too, desiring happiness, worship and praise Pūṣan, the very near protector and bringer of happiness. Pūṣan, as one who has the sacrifice, joins well together the minds of all the ṛtviks by the grace of his boon. The shining Pūṣan himself remains united until the sacrifice is complete
+
+### Printed p. 17
+
+##### Printed English
+
+The greatness of the strength of the many-worshipped Pushan is universally lauded: no one detracts (from his praise); his praise displeases no one. Desirous of happiness, I adore him, whose protection is ever nigh; who is the source of felicity: who, when devoutly worshipped, blends with the thoughts of all (his worshippers): who, (though) a deity, is united with the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूष्णः (*pūṣṇaḥ*)—पूषा यद्रश्मिपोषं पुष्यति तत् पूषा भवति (*pūṣā yadraśmipoṣaṃ puṣyati tat pūṣā bhavati*) (Ni. 12-16). The Nirukta's etymology is that he is called Pūṣan because he nourishes with his rays. In the Śatapatha Brāhmaṇa also:
+इयं वै पूषा पूषेयं हीवं सत्वं पुष्यति यदिदं किंच । (*iyaṃ vai pūṣā pūṣeyaṃ hīvaṃ satvaṃ puṣyati yadidaṃ kiṃca |*) (Śa. Brā. 14-4-2-25) **NOTE**
+It is said that this deity is called Pūṣan because he nourishes everything. This kind of meaning supports the view that Pūṣan is one of the twelve Ādityas.
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । तेनैनमस्तौत्रूषेति भरद्याजस्तु पंचभिः ॥ (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ | tenainamastautrūṣeti bharadyājastu paṃcabhiḥ ‖*) (Pu. 96-97) **NOTE**
+The Bṛhaddevatā statement is that the name Pūṣan arises because, destroying the darkness with his rays, he nourishes the earth so that it grows; the seer Bharadvāja praised this god in five sūktas of the sixth maṇḍala, 53, 54, 55, 56 and 58.
+
+तुविजातस्य (*tuvijātasya*)—The word तुवि (*tuvi*) is read among the words for "many" (Ni. 3-17). Sāyaṇa has explained this word as बहुयजमानार्थमुत्पन्नस्य (*bahuyajamānārthamutpannasya*): born for the sake of many sacrificers who perform sacrifice (said of Pūṣan). The epithet tuvijāta is an epithet also of other deities such as Indra, Agni and Varuṇa. In many contexts the meaning also differs. Since two or three kinds of analysis of the compound are possible, the meaning suited to each context has to be stated. For example:
+अहन्नहिं परिशयानमर्ण ओजायमानं तुविजात तव्यान् । (*ahannahiṃ pariśayānamarṇa ojāyamānaṃ tuvijāta tavyān |*) (Ṛ. Saṃ. 3-32-11)
+
+### Printed p. 18
+In this ṛk it is an epithet of Indra. बहूनि जातानि पृथिव्यादीनि यस्मात् सोऽयं तुविजातः । (*bahūni jātāni pṛthivyādīni yasmāt so 'yaṃ tuvijātaḥ |*): he has explained it as the Indra from whom many beings, the earth and the rest, were born.
+नमः पुरा ते वरुणोत नूनमुतापरं तुविजात ब्रनाम । (*namaḥ purā te varuṇota nūnamutāparaṃ tuvijāta branāma |*) (Ṛ. Saṃ. 2-28-8)
+प्र मित्रयोर्वरुणयोः स्तोमो न एतु शूष्यः । नमस्वान्तु विजातयोः । (*pra mitrayorvaruṇayoḥ stomo na etu śūṣyaḥ | namasvāntu vijātayoḥ |*) (Ṛ. Saṃ. 7-66-1) **NOTE**
+In such ṛks it is an epithet of Mitra and Varuṇa, explained as बहुभावमापन्नयोः (*bahubhāvamāpannayoḥ*): those who have manifested having taken many kinds of forms.
+वि षाह्यग्ने गृणते मनीषां खं वेपसा तुविजात स्तवानः । (*vi ṣāhyagne gṛṇate manīṣāṃ khaṃ vepasā tuvijāta stavānaḥ |*) (Ṛ. Saṃ. 4-11-2)
+Here, describing the nature of Agni and addressing him, it is explained as बहुजन्मन् अग्ने (*bahujanman agne*): O Agni who arises in different forms such as lightning. In the same way, in many places it describes the nature of Indra and other deities. The authors of the Bṛhaddevatā have indicated by the word tuvijāta a separate deity. They, keeping in view the ṛk
+शृणोतु मित्रो अर्यमा भगो न स्तुविजातो वरुणो दक्षो अंशः । (*śṛṇotu mitro aryamā bhago na stuvijāto varuṇo dakṣo aṃśaḥ |*) (Ṛ. Saṃ. 2-27-1)
+have included the deity called Tuvijāta in the group of Mitra and others.
+Sāyaṇa has explained this word as बहुषु प्रदेशेषु अनुग्रहार्थं प्रादुर्भूतः (*bahuṣu pradeśeṣu anugrahārthaṃ prādurbhūtaḥ*), "one who has appeared in many places for the sake of favour", and says that it is an epithet of Varuṇa. But the authors of the Bṛhaddevatā, following the meaning of the Nirukta authors, बहुजातश्च धाता (*bahujātaśca dhātā*), "Dhātṛ, born in many ways" (Ni. 12-36),
+मित्रावरुणदक्षांशतुविजातभगार्यण्णां । अदित्यानामिमाः सूक्तमिदं नारुणमुच्यते ॥ (*mitrāvaruṇadakṣāṃśatuvijātabhagāryaṇṇāṃ | adityānāmimāḥ sūktamidaṃ nāruṇamucyate ‖*) (Bṛ. De. 4-82, 83)
+have indicated by this statement that he is Dhātṛ, one of the seven Ādityas.
+Like tuvijāta there are also uses of the words tuviṣmān, tuvirādhaḥ, tuvimanyu, tuvidyumna and tuvinṛmṇa.
+अहं ह्युंग्रस्तविषस्तुविष्णान्विश्वस्य शत्रोरनमं वधस्मैः । (*ahaṃ hyuṃgrastaviṣastuviṣṇānviśvasya śatroranamaṃ vadhasmaiḥ |*) (Ṛ. Saṃ. 1-165-6)
+
+### Printed p. 19
+Here tuviṣmān means exceedingly strong. In the same way, tuvidyumna (Ṛ. Saṃ. 1-88-3) means abundant wealth; tuvinṛmṇa (Ṛ. Saṃ. 1-43-7) means one endowed with abundant strength; tuviṣṭaṇaḥ (Ṛ. Saṃ. 1-166-1) means one possessing abundant sound. In the present ṛk, as said above, it states the quality of Pūṣan as one who has manifested in many ways in order to favour the sacrificers.
+अंत्यूतिं (*aṃtyūtiṃ*)—आसन्नरक्षणं (*āsannarakṣaṇaṃ*): the meaning is a protector very near. Like the epithets पशुपाः (*paśupāḥ*) (Ṛ. Saṃ. 6-58-2) and puṣṭiṃbhara, the epithet antyūti also tells of Pūṣan's way of protecting.
+For the sentence मखः (*makhaḥ*) … विश्वस्य मनः आयुयुवे (*viśvasya manaḥ āyuyuve*), two constructions and corresponding meanings are possible, as was shown when the word-meanings were given.
+आयुयुवे (*āyuyuve*)—समंतात् संपूर्तिपर्यंतं मिश्रयति (*samaṃtāt saṃpūrtiparyaṃtaṃ miśrayati*): he joins together until the work is completely accomplished without obstacle; this is the sense with reference to the sacrifice. And यजमानस्य मनः समंतात् आयुयुवे (*yajamānasya manaḥ samaṃtāt āyuyuve*): he makes the sacrificer's mind not wander elsewhere but remain fixed on the sacrifice; thus with reference to the word "mind" also two meanings are possible.
+सुन्मयन् (*sunmayan*)—the word sumna is read among the words for happiness (3-13). सुखमिच्छन् (*sukhamicchan*): the meaning is, desiring happiness.
+मन आयुयुवे मखो देव आयुयुवे मखः (*mana āyuyuve makho deva āyuyuve makhaḥ*)—here there is a repetition. This is a kind of style. In this repetition an intensity of feeling is seen; the Nirukta authors have thus supported the excellence of such a style:
+अभ्यासे भूयांसमर्थं मन्यंते यथाहो दर्श नीयाहो दर्शनीयेति । (*abhyāse bhūyāṃsamarthaṃ manyaṃte yathāho darśa nīyāho darśanīyeti |*) (Ni. 10-42)
+By repetition a kind of force and power is shown in the development of the sense. In the example "she is beautiful, she is most beautiful", an exceeding regard is seen in describing her beauty. In the same way there are many occasions where, when expressing an excellent feeling, sentences are recited showing exceeding regard for it. Among them, the Nirukta authors have praised the style of the seer Paruchchhepa, तत्परुच्छेपस्य शीलं (*tatparucchepasya śīlaṃ*) (Ni. 10-42), as a distinctive quality of Paruchchhepa; and
+प्र तद्वोचेयं भव्यायेंदवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति । (*pra tadvoceyaṃ bhavyāyeṃdave havyo na ya iṣavānmanma rejati rakṣohā manma rejati |*) (Ṛ. Saṃ. 1-129-6)
+
 ---
 
-**Progress note:** Done through printed p. 13. pp. 8-13 (batch API)
+**Progress note:** Done through printed p. 19. pp. 14-19
