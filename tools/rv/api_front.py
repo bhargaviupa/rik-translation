@@ -52,6 +52,7 @@ def main():
     prob += [f'inline segment not in kn.md: {x[:50]}' for x in bad] + ([f'{len(kk)} Kannada-script words left, e.g. {kk[0]}'] if kk else [])
     if re.search(r'\[\?\]|\[sic\]|(?i:\bas supplied|\bas printed|running head)|\*\[', en2): prob.append('a translator remark is left in the text')
     cost = os.path.join(ROOT, f'vol{cfg.vol}', 'parts', 'batch_costs.md')
+    os.makedirs(os.path.dirname(cost), exist_ok=True)
     if not rebuild: open(cost, 'a', encoding='utf8').write(f"| {name} (front matter, source lines {lo}-{hi}) | {model} direct | 1 request | in {u.input_tokens}, out {u.output_tokens} | ${usd:.3f} |\n")
     print(f'{name}: kn {len(kn)} chars, en {len(en)} chars, {len(notes)} NOTE, {len(fixed)} segments put back from kn.md, cost ${usd:.3f}')
     print('PROBLEMS:\n - ' + '\n - '.join(prob) if prob else 'checks: PASS  (not installed: run again with --install when no window job is running)')
