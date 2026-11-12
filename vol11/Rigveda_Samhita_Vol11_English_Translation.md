@@ -15986,6 +15986,180 @@ and shows the charm of the use of the word jinvanti: just as Parjanya gratifies 
 - विवाय — वी गत्यादिषु धातुः । अदादिः । लिट् प्रथमपुरुषएकवचने णलादेशे आगते द्वित्वम् । अभ्यासस्य ह्रस्वः । णित्त्वाद् अचोञ्ञंति इति वृद्धिः । आयादेशः । यद्योगत्वात् निघातस्वरः न भवति । णल् लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
 - सचथाय — षच समवाये धातुः । भावार्थे ल्युट् प्रत्ययः । तस्य अनादेशः । वर्णव्यत्ययः आगतः । अथवा बहुलग्रहणात् औणादिकः अथ प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
 
+### Printed p. 667
+- दैव्यः — दिवि भवः दैव्यः । भावार्थे यञ् प्रत्ययः । तद्धितेष्वचामादेः इति आदिवृद्धिः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः आगच्छति ।
+- सुकृते — शोभनं करोति इति सुकृत् । डुकृञ् करणे धातुः । क्विप् प्रत्ययः । ह्रस्वस्य पिति कृति तुक् (पा. सू. ६-१-७१) इति धातोः तुकागमः । कृदुत्तरपदप्रकृतिस्वरः आगच्छति । सुकृत्तर इत्यत्र अतिशयार्थे तरप् प्रत्ययः आगतः । पित्त्वात् अयम् अनुदात्तः भवति ।
+- अजिन्वत् — जिवि प्रीणने धातुः । इदितो नुम् धातोः (पा सू. ७-१-५८) इति नुमागमः । छांदसत्वात् वर्तमानार्थे लज् । प्रथमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति । **NOTE**
+- त्रिषधस्थः — ष्मा गतिनिवृत्तौ धातुः । सुपि स्थः (पा सू. ३-२-४) इति क प्रत्ययः । आतो लोप इटि च (पा.सू. ६-४-६४) इति आकारलोपः । इदि परे सह इत्यस्य सधादेशः । कृदुत्तरपदप्रकृतिस्वरः आगच्छति ।
+- आर्यम् — ऋ गतौ धातुः । ऋहलोर्ण्यत् (पा. सू. ३-१-१२४) इति ण्यत् प्रत्ययः । णित्त्वात् धातोः वृद्धिः । रः परः आगच्छति ।
+- अभजत् — भज सेवायां धातुः । छंदसिलुङ् (पा. सू. ३-४-६) इति वर्तमानार्थे लज् । प्रथमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति ॥ ५ ॥
+
+Here the 156th Sūkta ends.
+
+## Sūkta 157 (Maṇḍala 1)
+
+The hundred and fifty-seventh Sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वाविंशेऽनुवाकेऽष्टौ सूक्तानि । तत्राबोध्यग्निर्ज्म इति प्रथमं सूक्तं
+> षडृचं दैर्घतमसमाश्विनं । पूर्वत्र जागतं त्विति तुशब्दादिदमपि जागतं । अंत्ये
+> द्वे त्रिष्टुभौ । अबोधि षळाश्विनं त्वंत्ये त्रिष्टुभावित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदस्यस्य विनियोगः । अथाश्विन इति खंडे सूत्रितं । अबोध्यग्निर्ज्म
+> एष स्य भानुः । आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The twenty-second anuvāka contains eight sūktas. Of these the first is the sūkta beginning अबोध्यग्निर्ज्म (*abodhyagnirjma*), of six ṛcs; its seer is Dairghatamasa (Dīrghatamas), its deity the Aśvins. As the preceding sūkta was Jagatī, so, by the word तु (*tu*), this one is also Jagatī; the last two ṛcs are Triṣṭubh. He cites the Anukramaṇikā to this effect. Its use (viniyoga) is in the Jagatī-metre portion of the Aśvina-śastra of the Prātaranuvāka; it is laid down in the section "Athāśvina" with the sūtra अबोध्यग्निर्ज्म एष स्य भानुः (*abodhyagnirjma eṣa sya bhānuḥ*) (Ā. 4-15).
+
+### Printed p. 668
+
+##### Anuvāda
+
+With this sūkta the twenty-second anuvāka begins; it contains eight sūktas, of which this, beginning Abodhy-agniḥ, is the first. It has six ṛcs. Its seer is Dīrghatamas, son of Ucathya; its deities are the Aśvins. As said before, this sūkta also is in the Jagatī metre; the last two ṛcs are in the Triṣṭubh metre. The Anukramaṇikā says: Abodhi ṣaḷāśvinaṃ tv antye triṣṭubhau. For the recitation of the Jagatī-metre mantras among the Aśvina-śastra mantras at the time of the Prātaranuvāka recitation, the use of this sūkta is explained by the Āśvalāyana Śrauta Sūtra, in the section "Athāśvina", by the sūtra Abodhy-agnir-jma eṣa syā bhānuḥ (Ā. 4-15).
+
+##### Particulars
+
+Sūkta 157. Maṇḍala 1, Anuvāka 22, Sūkta 157. Aṣṭaka 2, Adhyāya 2, Varga 27. Number of ṛcs in the sūkta: 6. Ṛṣi: Dīrghatamas Aucathya. Deity: the Aśvins. Metre: 1–4 Jagatī; 5–6 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अबो॑ध्य॒ग्निर्ज्म उदे॑ति॒ सूर्यो॒ व्यु१॒॑ १ षाश्चं॒द्रा म॒ह्या॑वो  ॒॑
+> अर्चिषा ।  
+> आयु॑क्षाताम॒श्विना॒ यात॑वे॒ रथं॒ प्रासा॑वीद्दे॒वः स॑वि॒ता  ॒॑
+> जगत्पृथक् ॥ १ ॥
+
+### Printed p. 669
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अबोधि । अग्निः । ज्मः । उत् । एति । सूर्यः । वि । उषाः । चंद्रा । मही । आवः ।  
+> अर्चिषा ।  
+> अयुक्षातां । अश्विना । यातने । रथं । प्र । असावीत् । देवः । सविता । जगत् ।  
+> पृथक् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्विहितः सइत्थो ज्ञायाः पृथिव्या वेदिलक्षणायाः संबंधी सन्नबोधि । प्रतिबोधितः । ज्येति पृथिवीनाम ग्मा ज्येति तन्नामसूक्तत्वात् । किंच सूर्य
+> उदेति । मही महत्युषा अर्चिषा प्रकृष्टेन तेजसा चंद्रा प्राणिनामाह्लादिनी सती
+> व्यावः । तमांसि निवासयति ॥ वसेर्लुजि च्छांदसश्लेर्लुक् । छंदस्यपि दृश्यत इत्याडागमः ॥ यत इयमुषा उदेति यतश्च सूर्यो यतश्चायमग्निः प्रबुद्धो
+> भवति अतः कारणाद्दे अश्विनौ युष्मत्संबंधिनं रथं यातवे देवयजनगमनाय
+> रासभाभ्यामायुक्षातां । अभिमुख्येन युंजाथां । तथा सविता सर्वकर्मणोऽनु..
+> ज्ञाता देवो जगज्जंगमं प्राणिजातं पृथक् स्वस्वकर्मानुरोधेन प्रासावीत् ।
+> प्रसौतु । अनुजानातु ॥
+
+##### Gist of the bhāṣya
+
+This Agni, placed upon the earth (ज्मः (*jmaḥ*)), the earth in the form of the altar, has been awakened (अबोधि (*abodhi*)). ज्मा (*jmā*) is a name of the earth, since the sūkta is of that name. Further, the Sun rises. The great Dawn, delighting beings (चंद्रा (*caṃdrā*)) with her excellent radiance, has driven away the darkness (व्यावः (*vyāvaḥ*) = तमांसि निवासयति (*tamāṃsi nivāsayati*)). Since the Dawn rises, the Sun rises, and Agni is kindled, therefore, O Aśvins, yoke your chariot to the two asses (*rāsabhābhyām*) to go to the sacrificial place of the gods, facing it. And let the god Savitṛ, the permitter of all actions, according to the work of each, impel (प्रासावीत् (*prāsāvīt*) = प्रसौतु । अनुजानातु (*prasautu | anujānātu*)) the moving world, the race of beings, each separately. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- ज्मः (*jmaḥ*)—upon the earth in the form of the altar
+- अबोधि (*abodhi*)—has awakened (is blazing)
+- सूर्यः (*sūryaḥ*)—the Sun
+- उदेति (*udeti*)—rises
+- मही (*mahī*)—the great
+- उषाः (*uṣāḥ*)—the goddess Dawn
+- अर्चिषा (*arciṣā*)—with her radiance
+- चंद्रा (*caṃdrā*)—being one who causes joy (to all beings)
+- वि आवः (*vi āvaḥ*)—disperses the darkness
+- (Therefore) अश्विना (*aśvinā*)—O Aśvin deities
+- रथं (*rathaṃ*)—your chariot
+- यातने (*yātane*)—in order to go (to the sacrificial ground)
+- आयुक्षातां (*āyukṣātāṃ*)—yoke (to the horses) (and likewise)
+- देवः (*devaḥ*)—the god
+- सविता (*savitā*)—Savitṛ
+- जगत् (*jagat*)—the whole world
+- पृथक् (*pṛthak*)—(for all beings) to perform their appointed actions
+- प्रासावीत् (*prāsāvīt*)—let him give vitality
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is blazing upon the altar. The Sun too rises. The great goddess Dawn, with her radiance, causing joy to all beings, disperses the darkness.
+
+### Printed p. 670
+Therefore, O Aśvin deities, yoke your chariot to the horses in order to go to the sacrificial ground. Likewise may the god Savitṛ, divine in nature, give vitality to all beings of the world so that they perform their appointed actions.
+
+##### Printed English
+
+Agni is awakened upon earth : the Sun rises: the spreading dawn, exhilarating (all) by her radiance, has dispersed (the darkness); harness, (therefore), Ashwins, your chariot, to come (to the sacrifice), that the divine Savitri may animate all beings to (the performance of) their several (duties)
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk, one of the Prātaranuvāka mantras, the Aśvin deities are addressed and prayed to make ready to go to the sacrificial ground. To show that the time is fitting for their journey, the kindling of Agni, the appearance of Dawn and the rising of the Sun are indicated. It is known from this that all these events are simultaneous. In some places they are even designated प्रातरावाणः देवाः (*prātarāvāṇaḥ devāḥ*), "gods who come to the sacrificial ground in the morning". For example, in the Aitareya Brāhmaṇa:
+देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहीत्वा हाद्वर्युः । एते वाव देवाः प्रातर्याणोणो यदग्नि रुषा अश्विन् त एते सप्तभिः सप्तभिश्चंदोभिरागचंति। आस्य देवाः प्रातर्याणोणो हवं गच्छंति य एवं वेद ॥ (*devebhyaḥ prātaryāvabhyo hotaranubrūhītvā hādvaryuḥ | ete vāva devāḥ prātaryāṇoṇo yadagni ruṣā aśvin ta ete saptabhiḥ saptabhiścaṃdobhirāgacaṃti| āsya devāḥ prātaryāṇoṇo havaṃ gacchaṃti ya evaṃ veda ‖*) (I. Jā. 7-15) **NOTE**
+The Adhvaryu instructs the Hotṛ to pray to Agni, Dawn and the Aśvins, with the Prātaranuvāka mantras, to come to the sacrificial house at dawn. To show that the mantras addressed to each deity must be accompanied by seven metres, there is repetition (vīpsā): सप्तभिः (*saptabhiḥ*), सप्तभिः छंदोभि (*saptabhiḥ chaṃdobhi*) (said twice). Since the present ṛk अबोध्यग्निर्ज्म (*abodhyagnirjma*) is one of these Prātaranuvāka mantras, the Prātaranuvāka mantras to be recited addressed to these three deities are specified in the Āśvalāyana Śrauta Sūtra by sūtras beginning अपो रेवतीः (*apo revatīḥ*) (10-30-12). Their detail is as follows:
+- उप प्रयंतः (*upa prayaṃtaḥ*) (Ṛ. Saṃ. 1-74-1) and the like: metre Gāyatrī
+- त्वमग्ने वसून् (*tvamagne vasūn*) (Ṛ. Saṃ. 1-45-1) and the like: Anuṣṭubh
+- अबोध्यग्निः (*abodhyagniḥ*) (Ṛ. Saṃ. 5-1-1): Triṣṭubh
+
+### Printed p. 671
+- एना वो अग्निं (*enā vo agniṃ*) (Ṛ. Saṃ. 7-16-1) and the like: Bṛhatī
+- अग्ने वाजस्य (*agne vājasya*) (Ṛ. Saṃ. 1-29-4): Uṣṇik
+- जनस्य गोपा (*janasya gopā*) (Ṛ. Saṃ. 5-11-1): Jagatī
+- अग्निं तं मन्ये (*agniṃ taṃ manye*) (Ṛ. Saṃ. 5-6-1): Paṅkti
+
+तान्येतानि सप्तच्छंदास्याग्नेये क्रत्वा प्रातरनुवाके द्रष्टव्यानि । (*tānyetāni saptacchaṃdāsyāgneye kratvā prātaranuvāke draṣṭavyāni |*) These seven ṛcs, with seven metres, are the mantras connected with the Āgneya Kratu in the Prātaranuvāka addressed to Agni.
+- प्रति ष्वा सूनरी (*prati ṣvā sūnarī*) (Ṛ. Saṃ. 4-52-1) and the like: Gāyatrī
+- उषो भद्रेभिः (*uṣo bhadrebhiḥ*) (Ṛ. Saṃ. 1-99-1): Anuṣṭubh
+- इदं श्रेष्ठं (*idaṃ śreṣṭhaṃ*) (Ṛ. Saṃ. 1-113-1): Triṣṭubh
+- प्रत्यु आदर्शि (*pratyu ādarśi*) (Ṛ. Saṃ. 7-82-1 **NOTE**): Bṛhatī
+- उषस्तच्चित्रमाभर (*uṣastaccitramābhara*) (Ṛ. Saṃ. 1-92-13): Uṣṇik
+- एता उ त्या (*etā u tyā*) (Ṛ. Saṃ. 1-92-1): Jagatī
+- महे नो अद्य (*mahe no adya*) (Ṛ. Saṃ. 5-79-1): Paṅkti
+
+**NOTE**
+तानेतान्युषसः प्रातरनुवाके सप्तच्छंदांसि (*tānetānyuṣasaḥ prātaranuvāke saptacchaṃdāṃsi*). These seven are the mantras connected with the Uṣasya Kratu in the Prātaranuvāka addressed to the deity Dawn. And:
+- एषो उषा (*eṣo uṣā*) (Ṛ. Saṃ. 1-46-1) and the like: Gāyatrī
+- यदद्य (*yadadya*) (Ṛ. Saṃ. 5-73-1): Anuṣṭubh
+- आभातृग्निः (*ābhātṛgniḥ*) (Ṛ. Saṃ. 5-76-1): Triṣṭubh
+- इमा उ वां (*imā u vāṃ*) (Ṛ. Saṃ. 7-74-1): Bṛhatī
+- अश्विना वर्तिः (*aśvinā vartiḥ*) (Ṛ. Saṃ. 1-92-16): Uṣṭik
+- अबोध्यग्निर्ज्म (*abodhyagnirjma*) (Ṛ. Saṃ. 1-57-1): Jagatī
+- प्रति प्रियतमं (*prati priyatamaṃ*) (Ṛ. Saṃ. 5-75-1): Paṅkti
+
+**NOTE**
+तान्येतान्याश्चिने प्रातरनुवाके सप्तच्छंदांसि । (*tānyetānyāścine prātaranuvāke saptacchaṃdāṃsi |*) These seven are the mantras connected with the Aśvina Kratu in the Prātaranuvāka addressed to the Aśvin deities; the present ṛk is one of them. The invocation of the Aśvins by announcing the appearance of Dawn and the morning blazing of Agni is described in this ṛk, just as in the ṛk
+अशोच्यग्निः समिधानो अस्मे उपो अदृश्रन्तमसच्चिदंताः । अचेति केतुरुषसः पुरस्ताच्छ्रिये दिवो दुहितुर्जायमानः ॥ (*aśocyagniḥ samidhāno asme upo adṛśrantamasaccidaṃtāḥ | aceti keturuṣasaḥ purastācchriye divo duhiturjāyamānaḥ ‖*)
+(Ṛ. Saṃ. 7-67-2)
+
+### Printed p. 672
+and likewise in mantras such as 7-22-4, the connection between the blazing of Agni, the rising of Dawn and the coming of the Aśvins is shown.
+
+ज्मः (*jmaḥ*)—जैति पृथिवीनाम ग्मा जैति तन्नामसूक्तत्वात् । (*jaiti pṛthivīnāma gmā jaiti tannāmasūktatvāt |*) In the Nirukta the word ज्मा (*jmā*) is included among the names of the earth (Ni. 2-5). Hence here too the meaning is earth. But वेदिलक्षणायाः पृथिव्याः (*vedilakṣaṇāyāḥ pṛthivyāḥ*) gives a special sense: the earth in the form of the altar. In passages such as
+तं छंधोभिरभितः परिगृह्य । अग्निं पुरस्तात्समाधाय तेनार्चंतः श्राम्यंतश्चेरुस्तेनेमाग्ं सर्वां पृथिवीग्ं समविंदत तद्यदेनेनेमाग्ं सर्वाग्ं समविंदंत तस्माद्वेदिर्नाम तस्मादाहुर्यावती वेदिस्तावती पृथिवी । (*taṃ chaṃdhobhirabhitaḥ parigṛhya | agniṃ purastātsamādhāya tenārcaṃtaḥ śrāmyaṃtaścerustenemāgṃ sarvāṃ pṛthivīgṃ samaviṃdata tadyadenenemāgṃ sarvāgṃ samaviṃdaṃta tasmādvedirnāma tasmādāhuryāvatī vedistāvatī pṛthivī |*)
+(Śa. Brā. 1-2-5-7)
+चंद्रमा एव प्रत्यक्षादादित्यो यजमानस्तस्येयमेव पृथिवी वेदिः । (*caṃdramā eva pratyakṣādādityo yajamānastasyeyameva pṛthivī vediḥ |*)
+(Śa. Brā. 12-8-2-36)
+the whole earth is described as the sacrificial altar, and the altar as being as wide as the earth; so in the present ṛk too a word expressing the identity of the two is used.
+
+चंद्रा (*caṃdrā*)—चंद्रश्चंदतेः कांतिकर्मणः । (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ |*) The word चंद्र (*caṃdra*) is derived from the root चंद् (*caṃd*), meaning to shine and cause delight. Here it is an epithet of Dawn, who gives delight to the whole world.
+
+सविता प्रासावीत् (*savitā prāsāvīt*)—In the prayer that Savitṛ, the giver of vitality to the whole world, may bring delight to the world, two points are understood. First, from the name Savitṛ itself, by the Nirukta-kāra's explanation
+सविता सर्वस्य प्रसविता (*savitā sarvasya prasavitā*)—giver of vitality to all
+(Ni. 10-31)
+the function of Savitṛ is known. Its description is in the ṛk cited by the Nirukta-kāra:
+सविता यंत्रैः पृथिवीमरम्णादस्कंभने सविता द्यामदृंहत् । अश्वमिवाधुक्षद्दुनिमंतरिक्षमतूर्ते बद्धं सविता समुद्रं ॥ (*savitā yaṃtraiḥ pṛthivīmaramṇādaskaṃbhane savitā dyāmadṛṃhat | aśvamivādhukṣaddunimaṃtarikṣamatūrte baddhaṃ savitā samudraṃ ‖*)
+(Puṃ. Saṃ. 11-149 ga.) **NOTE**
+
+### Printed p. 673
+In this ṛk it is said that Savitṛ establishes the earth with support, establishes the atmosphere in the unsupported void, and engages everything in its appointed duties; in the present ṛk, जगत् पृथक् (*jagat pṛthak*), the prayer is that he give vitality to the whole world for performing its appointed actions. Secondly,
+तस्य कालो यदा द्यौरपहततमस्कारीर्णरश्मिर्भवति । (*tasya kālo yadā dyaurapahatatamaskārīrṇaraśmirbhavati |*)
+(Ni. 12-12)
+the Nirukta-kāra says that from the beginning, when the whole atmosphere is freed from darkness and the sun's light shines, Savitṛ's governing of the world and his protective work begin. He cites the ṛk
+विश्वा रूपाणि प्रति मुंचते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । वि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥ (*viśvā rūpāṇi prati muṃcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade | vi nākamakhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*)
+(Ṛ. Saṃ. 5-81-2)
+and thereby shows Savitṛ's time: after Dawn appears, lights up the world and disappears again, Savitṛ begins his duty. Likewise in the present ṛk: after the rising of Dawn, the blazing of Agni at dawn and the rising of the Sun, देवः सविता जगत्प्रथक् प्रासावीत् (*devaḥ savitā jagatprathak prāsāvīt*)—the prayer is that Savitṛ, divine in nature and resplendent, at this time giving vitality to the whole world, may help the individual actions of the world.
+
+##### Grammar
+
+- अबोधि — बुध अवगमने धातुः । कर्मणि लुङ् प्रथमपुरुषएकवचने त प्रत्ययः । चिण्भावकर्मणोः (पा सू. ३-१-६६) इति च्लेः चिणादेशः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । चिणो लुक् (पा. सू. ६-४-१०४) इति च्लेः परस्य त शब्दस्य लुक् । अंगस्य अडागमः । स उदात्तः इति आद्युदात्तः भवति । पादादौ स्थितत्वात् निघातस्वरः न आगच्छति । **NOTE**
+- ज्मः — ज्मा इति भूमिवाचकः शब्दः । तस्मात् षष्ठीएकवचने परे आतो धातोः (पा. सू. ६-४-१४०) इत्यत्र योगविभागकरणात् आतः इत्यनेन आकारलोपः आगच्छति । उदात्तनिवृत्तिस्वरेण विभक्तेः अकारः उदात्तः भवति ।
+- एति — इण् गतौ धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
+- सूर्यः — सू प्रसवे धातुः । राजसूयसूर्य (पा. सू ३-१-११४) इति क्यबंतत्वेन निपातितः । **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 666. pp. 661-
+**Progress note:** Done through printed p. 673. pp. 667-673 (batch API)
