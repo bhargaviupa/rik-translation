@@ -1,0 +1,6 @@
+# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ 13 (Kannada text)
+*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/html_to_kn.py); the English file is made from it.*
+
+---
+
+**Progress note:** Done through printed p. 0; nothing translated yet.

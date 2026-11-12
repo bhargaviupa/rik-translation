@@ -48,3 +48,315 @@ NOMATCH	33	0.24	गाय ॥ ११ ॥
 DIFF	16	3.9.1	0.963
 DIFF	11	3.9.2	0.945
 DIFF	14	3.9.4	0.93
+DIFF	11	3.9.5	0.853
+DIFF	109	3.9.6	0.971
+DIFF	110	3.9.6	0.966
+DIFF	62	3.9.7	0.959
+DIFF	85	3.9.8	0.949
+DIFF	50	10.52.6	0.923
+DIFF	73	3.10.1	0.952
+DIFF	74	3.10.1	0.957
+DIFF	68	3.10.2	0.955
+DIFF	61	3.10.7	0.923
+DIFF	45	3.10.8	0.952
+DIFF	57	3.10.9	0.933
+DIFF	54	3.11.2	0.903
+DIFF	49	3.11.5	0.955
+DIFF	104	3.11.7	0.986
+DIFF	68	3.12.1	0.944
+DIFF	34	3.12.2	0.897
+DIFF	22	3.12.3	0.959
+DIFF	23	3.12.3	0.914
+DIFF	116	3.12.5	0.941
+DIFF	117	3.12.5	0.944
+DIFF	93	3.12.6	0.957
+MANUAL	-	3.12.5	misplaced accent between ष and the virama removed in इष्ट (Sukta 12 Rk 5 Samhita, 2nd line); the syllable is left unaccented
+MANUAL	-	3.12.7	duplicated pluta digit removed: the script inserted the reference ३ and the printed separate ३ was kept; now the digit stands once as in the reference (ऋतस्य पथ्या३ अनु)
+NOMATCH	46	0.85	युवोरपूर्यं हितं ॥ ८ ॥
+DIFF	125	3.12.9	0.923
+DIFF	20	3.13.3	0.923
+DIFF	20	3.13.4	0.974
+DIFF	120	3.13.5	0.971
+DIFF	121	3.13.5	0.933
+DIFF	59	3.13.6	0.967
+DIFF	38	3.13.7	0.959
+DIFF	36	3.14.2	0.989
+DIFF	25	3.15.2	0.989
+DIFF	53	3.15.3	0.98
+DIFF	23	3.15.4	0.959
+DIFF	69	3.15.5	0.99
+MANUAL	-	3.15.6	accent mark moved from inside the conjunct त्य to after it (मर्त्य॑स्य): the script had put it between त and the virama
+DIFF	91	3.15.6	0.981
+NOMATCH	84	0.35	अयमग्निः सुवीर्यस्येशे महः सौभगस्य ।
+NOMATCH	85	0.34	राय ईशे स्वपत्यस्य गोमत ईशे वृत्रहथानां 
+DIFF	66	3.16.2	0.976
+MANUAL	-	3.16.3	the Samhita label of Ruk 3 was the bare "**संहितापाठः**" (not the standard form), so the accent script skipped the block; label restored to the standard form and the volume-wide accent pass accented it (DIFF 0.987/0.978)
+NOMATCH	490	0.23	वहंति ।
+NOMATCH	587	0.13	गीः ॥ ५ ॥
+NOMATCH	689	0.12	शूषं ।
+NOMATCH	796	0.13	गुः ॥ ७ ॥
+NOMATCH	881	0.18	दंति ।
+NOMATCH	964	0.29	सुयामाः ।
+NOMATCH	966	0.3	वक्षि ॥ ९ ॥
+NOMATCH	2056	0.22	पस्थे ॥ १ ॥
+NOMATCH	2572	0.23	वाचं ॥ ५ ॥
+NOMATCH	2697	0.3	ततक्ष ।
+NOMATCH	2897	0.24	केतुं ॥ ८ ॥
+NOMATCH	3089	0.16	पाथः ॥ ९
+NOMATCH	3211	0.31	पृथिव्यां ।
+NOMATCH	3317	0.24	गाय ॥ ११ ॥
+NOMATCH	6653	0.85	युवोरपूर्यं हितं ॥ ८ ॥
+DIFF	10101	3.16.3	0.987
+DIFF	10102	3.16.3	0.978
+OK_PART	2570	3.8.11	0.91
+MANUAL	-	3.16.6	accent mark moved after the vowel sign (तुवि॑द्युन्नु॒): the script had put it between न्न and ु in the misprinted word
+DIFF	58	3.17.1	0.98
+DIFF	57	3.17.2	0.98
+DIFF	11	3.17.3	0.978
+DIFF	23	3.17.4	0.958
+DIFF	24	3.17.4	0.966
+MANUAL		3.17.5	accent mark moved after vowel sign: ऽथा॑ नो
+DIFF	21	3.17.5	0.962
+DIFF	22	3.17.5	0.966
+DIFF	57	3.18.1	0.975
+MANUAL		3.18.1	stray anudatta after virama removed: उपे॑त्
+DIFF	13	3.18.2	0.975
+DIFF	14	3.18.2	0.955
+DIFF	9	3.18.3	0.952
+DIFF	10	3.18.3	0.964
+DIFF	32	3.18.4	0.978
+DIFF	33	3.18.4	0.972
+DIFF	45	3.18.5	0.978
+DIFF	67	3.19.1	0.969
+DIFF	9	3.19.2	0.972
+DIFF	18	3.19.3	0.978
+DIFF	44	3.20.1	0.966
+MANUAL		3.20.1	accent mark moved after vowel sign: सु॒जोष॑सो
+DIFF	46	3.20.2	0.979
+DIFF	52	3.20.3	0.942
+DIFF	58	3.20.4	0.969
+DIFF	9	3.20.5	0.966
+DIFF	10	3.20.5	0.956
+MANUAL		3.20.5	stray anudatta after virama removed: वसू॑न्द्रा
+DIFF	117	3.21.2	0.917
+DIFF	75	3.22.1	0.978
+DIFF	76	3.22.1	0.932
+DIFF	35	3.22.3	0.959
+DIFF	70	3.1.23	0.979
+DIFF	9	3.23.2	0.968
+DIFF	13	3.23.3	0.941
+DIFF	14	3.23.3	0.976
+DIFF	95	3.23.4	0.967
+DIFF	96	3.23.4	0.979
+DIFF	66	3.24.2	0.909
+DIFF	83	3.24.5	0.951
+NOMATCH	65	0.84	ऋधगेवा इह यजा चिकित्स्यः ॥ १ ॥
+DIFF	33	3.25.2	0.978
+DIFF	34	3.25.2	0.976
+DIFF	70	3.25.4	0.966
+DIFF	35	3.26.1	0.971
+DIFF	36	3.26.1	0.978
+DIFF	29	3.26.2	0.97
+DIFF	30	3.26.2	0.97
+DIFF	35	3.26.3	0.972
+DIFF	36	3.26.3	0.947
+DIFF	32	3.26.4	0.99
+DIFF	17	3.26.5	0.947
+DIFF	18	3.26.5	0.981
+DIFF	16	3.26.7	0.989
+DIFF	11	3.26.9	0.966
+DIFF	12	3.26.9	0.966
+DIFF	82	3.27.1	0.914
+MANUAL		3.27.1	udatta mark after virama removed in the word देवाञ्ङ्गाति (supplied spelling differs from the reference)
+DIFF	66	3.27.2	0.957
+DIFF	67	3.27.2	0.927
+MANUAL		3.27.4	doubled pluta digit removed (also one older line, स्वा॒ध्यो॒३॒॑)
+DIFF	9	3.27.4	0.984
+DIFF	59	3.27.5	0.971
+DIFF	9	3.27.8	0.968
+DIFF	30	3.27.10	0.914
+DIFF	91	3.27.11	0.968
+DIFF	28	3.27.12	0.919
+DIFF	104	3.28.3	0.954
+DIFF	21	3.28.5	0.966
+DIFF	22	3.28.5	0.967
+DIFF	32	3.28.6	0.909
+DIFF	17	3.29.1	0.949
+DIFF	18	3.29.1	0.971
+DIFF	13	3.29.3	0.935
+DIFF	14	3.29.3	0.989
+DIFF	19	3.29.4	0.968
+DIFF	9	3.29.5	0.963
+DIFF	10	3.29.5	0.967
+DIFF	20	3.29.6	0.96
+DIFF	23	3.29.8	0.938
+DIFF	25	3.29.10	0.952
+DIFF	18	3.29.11	0.989
+DIFF	23	3.29.13	0.965
+DIFF	24	3.29.13	0.965
+DIFF	54	3.29.15	0.979
+DIFF	78	3.29.16	0.968
+DIFF	79	3.29.16	0.959
+DIFF	107	3.30.2	0.967
+DIFF	59	3.30.3	0.972
+DIFF	60	3.30.3	0.989
+DIFF	131	3.30.4	0.947
+DIFF	50	3.30.5	0.978
+DIFF	97	3.30.8	0.968
+DIFF	42	3.30.9	0.962
+DIFF	118	3.30.10	0.968
+DIFF	75	3.30.11	0.966
+DIFF	142	3.30.12	0.98
+DIFF	41	3.30.13	0.968
+DIFF	18	3.30.15	0.978
+DIFF	84	3.30.16	0.956
+DIFF	85	3.30.16	0.977
+DIFF	80	3.30.18	0.968
+DIFF	136	3.30.19	0.962
+DIFF	52	3.30.20	0.981
+DIFF	118	3.30.21	0.943
+NOMATCH	119	0.2	वाजाः ।
+DIFF	120	3.30.21	0.979
+DIFF	22	10.89.18	0.969
+NOMATCH	135	0.37	शासद्वह्निर्दुहितुर्नप्तं गाद्विद्वा ऋतस
+NOMATCH	136	0.41	पिता यत्र दुहितुः सेकमृंजन्तं शग्म्येन म
+DIFF	15	3.31.2	0.899
+DIFF	105	3.31.3	0.97
+DIFF	75	3.31.5	0.968
+DIFF	9	3.31.6	0.98
+DIFF	158	3.31.8	0.968
+DIFF	159	3.31.8	0.979
+DIFF	27	3.31.9	0.967
+DIFF	28	3.31.9	0.988
+DIFF	84	3.31.10	0.978
+DIFF	85	3.31.10	0.956
+DIFF	91	3.31.12	0.95
+DIFF	21	3.31.13	0.978
+DIFF	76	3.31.14	0.98
+DIFF	77	3.31.14	0.976
+DIFF	139	3.31.15	0.964
+DIFF	140	3.31.15	0.968
+MANUAL	21	3.31.13	doubled pluta digit removed after accent (wrote one १ not two) in English file line 24255
+DIFF	17	3.31.16	0.98
+DIFF	18	3.31.16	0.958
+DIFF	182	3.31.19	0.966
+DIFF	183	3.31.19	0.977
+MANUAL	17	3.31.16	doubled pluta digit removed after accent; stray svara mark between ra and virama (pavitrya) removed (English file lines 24429-24430)
+MANUAL	18	3.31.16	see previous
+DIFF	19	3.31.20	0.944
+DIFF	71	3.31.21	0.971
+DIFF	126	3.31.22	0.951
+DIFF	127	3.31.22	0.948
+DIFF	64	3.32.1	0.979
+DIFF	126	3.32.2	0.978
+DIFF	114	3.32.4	0.966
+DIFF	115	3.32.4	0.916
+DIFF	87	3.32.6	0.978
+DIFF	88	3.32.6	0.925
+DIFF	15	3.32.7	0.941
+DIFF	134	3.32.9	0.944
+DIFF	76	3.32.11	0.974
+MANUAL	76	3.32.11	doubled pluta digit (script attached the digit and left the separate printed one); removed the second 3 in English file only
+DIFF	64	3.32.13	0.94
+DIFF	65	3.32.13	0.96
+NOMATCH	14750	0.84	ऋधगेवा इह यजा चिकित्स्यः ॥ १ ॥
+NOMATCH	23143	0.2	वाजाः ।
+UNACCENTED	25531	3.32.12	second Samhita line of Rk 12 (continued from p. 764) not accented by the script; left unaccented, for the user (English file line 25531)
+DIFF	10	3.32.15	0.923
+DIFF	73	3.32.16	0.957
+DIFF	143	3.32.17	0.976
+DIFF	144	3.32.17	0.948
+MANUAL	10	3.32.15	stray svara mark between ra and virama removed (aavavritnadaya), English file only
+DIFF	59	3.33.2	0.978
+UNACCENTED	-	3.33.1	second Samhita line of S33 Rk1 (continued from p. 778) not accented by the script; left unaccented, for the user
+DIFF	55	3.33.4	0.974
+DIFF	56	3.33.4	0.968
+DIFF	43	3.33.6	0.958
+MANUAL	-	3.33.7	doubled pluta digit after viryam removed (second 1), English file only
+DIFF	40	3.33.8	0.978
+DIFF	41	3.33.8	0.979
+DIFF	97	3.33.9	0.957
+DIFF	42	3.33.10	0.952
+DIFF	126	3.33.11	0.966
+DIFF	63	3.33.12	0.966
+DIFF	64	3.33.12	0.968
+DIFF	126	3.33.13	0.972
+DIFF	127	3.33.13	0.903
+MANUAL	126	3.33.13	stray svara mark after final virama (maaduskrt) removed, English file only
+DIFF	79	3.34.1	0.972
+DIFF	78	3.34.3	0.943
+DIFF	13	3.34.4	0.979
+DIFF	14	3.34.4	0.966
+DIFF	73	3.34.5	0.946
+DIFF	76	3.34.7	0.977
+UNACCENTED	-	3.34.6	second Samhita line of S34 Rk6 (continued from p. 806; top of p. 807) not accented by the script; left unaccented, for the user
+DIFF	35	3.34.9	0.955
+DIFF	89	3.34.10	0.949
+DIFF	90	3.34.10	0.965
+DIFF	17	10.89.18	0.976
+DIFF	18	10.89.18	0.948
+NOMATCH	112	0.36	तिष्ठा हरी रथ आ युज्यमाना याहि वायुर्न न
+NOMATCH	113	0.37	पिबास्यंधो अभिसृष्टो अस्मे इंद्र स्वाहा 
+DIFF	69	3.35.2	0.955
+DIFF	70	3.35.2	0.968
+DIFF	204	3.35.4	0.902
+DIFF	49	3.35.5	0.975
+DIFF	108	3.35.6	0.945
+DIFF	109	3.35.6	0.97
+DIFF	25	3.35.7	0.952
+DIFF	134	3.35.9	0.941
+DIFF	135	3.35.9	0.989
+MANUAL	-	3.35.8	doubled pluta digit (script plus printed) removed, English file only
+MANUAL	-	3.35.9	doubled pluta digit removed, English file only
+DIFF	58	3.35.10	0.92
+NOMATCH	59	0.27	जुषस्व ॥ १० ॥
+DIFF	114	3.35.11	0.969
+DIFF	72	3.36.1	0.981
+DIFF	15	3.36.2	0.98
+DIFF	74	3.36.3	0.979
+DIFF	11	3.36.4	0.923
+DIFF	69	3.36.5	0.964
+DIFF	127	3.36.6	0.978
+MANUAL	11	3.36.4	doubled pluta digit (script plus printed) removed, English file only
+DIFF	46	3.36.7	0.98
+DIFF	103	3.36.8	0.965
+DIFF	104	3.36.8	0.956
+DIFF	25	3.36.9	0.969
+DIFF	90	3.36.10	0.989
+DIFF	11	10.89.18	0.976
+DIFF	12	10.89.18	0.948
+NOMATCH	97	0.35	वार्त्रहत्याय शवसे पृतनाषाह्याय च ।
+NOMATCH	98	0.39	इंद्र त्वा वर्तयामसि ॥ १ ॥
+DIFF	65	3.37.3	0.972
+DIFF	96	3.37.7	0.961
+DIFF	97	3.37.7	0.952
+DIFF	149	3.37.8	0.93
+DIFF	100	3.37.10	0.909
+DIFF	152	3.37.11	0.967
+MANUAL	152	3.37.11	stray svara mark before virama (tat-ta) removed, English file only
+DIFF	33	3.38.1	0.951
+DIFF	34	3.38.1	0.99
+DIFF	101	3.38.2	0.966
+DIFF	102	3.38.2	0.976
+MANUAL	94	3.38.2	doubled pluta digit (script plus printed) removed, English file only
+DIFF	42	3.38.3	0.976
+DIFF	109	3.38.4	0.967
+DIFF	110	3.38.4	0.967
+DIFF	91	3.38.6	0.989
+DIFF	23	3.38.7	0.965
+DIFF	24	3.38.7	0.988
+DIFF	75	3.38.8	0.925
+MANUAL	23	3.38.7	doubled pluta digit after Kannada-zero anusvara (asuryam) reduced to one digit, English file only
+DIFF	11	3.38.9	0.947
+DIFF	79	3.38.10	0.976
+DIFF	80	3.38.10	0.948
+DIFF	18	3.39.1	0.957
+DIFF	81	3.39.2	0.979
+DIFF	135	3.39.3	0.977
+DIFF	207	3.39.4	0.95
+DIFF	21	3.39.5	0.989
+DIFF	22	3.39.5	0.97
+DIFF	82	3.39.6	0.959
+DIFF	80	3.39.8	0.978
+DIFF	133	3.39.9	0.976
+DIFF	134	3.39.9	0.969
