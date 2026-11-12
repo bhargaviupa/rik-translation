@@ -11852,6 +11852,154 @@ In this Ṛk it is stated that Purumīḷha praised the Aśvin deities and obtai
 
 Although the account of the story here is the same as in the Bṛhaddevatā, the special point is that Śyāvāśva went to the wife of Taranta to beg alms. This story is mainly about Śyāvāśva:
 
+### Printed p. 487
+Although he tells it so, it is the occasion on which the help given to Śyāvāśva by Purumīḷha is related, and, since Śyāvāśva's desire was fulfilled through this help, Purumīḷha's greatness is also praised. In this sūkta (Ṛ. Saṃ. 5-61) the ṛk in which Śyāvāśva praises Purumīḷha has been cited above.
+
+पस्त्यावतः (*pastyāvataḥ*)—पस्त्या (*pastyā*) is read among the house-names, "पस्त्या, दुरोणे (*pastyā, duroṇe*)" (Ni. 3-4) and so on. The meaning is: one whose sacrificial house is furnished with the wealth of sacrifice.
+
+In ṛks such as इंद्रज्येष्ठान् बृहद्भ्यः पर्वतेभ्यः क्षया एभ्यः सुवसि पस्तावतः । यथायथा पतयंतो वियेमिर एवैव तस्थुः सवितः सवाय ते ॥ (*iṃdrajyeṣṭhān bṛhadbhyaḥ parvatebhyaḥ kṣayā ebhyaḥ suvasi pastāvataḥ | yathāyathā patayaṃto viyemira evaiva tasthuḥ savitaḥ savāya te ‖*) (Ṛ. Saṃ. 4-54-5), पस्तावतः (*pastāvataḥ*) is understood as गृहवतः (*gṛhavataḥ*); in the same way it is understood in the present ṛk too.
+
+##### Grammar
+
+- पुरुमीढस्य — मिह सेचने धातुः । इदक्कॆ निष्प्राप्रत्यये परे होढः इति हकारस्य ढत्वं भवति । झुषस्त इति प्रत्ययतकारस्य धत्वे प्राप्ते ष्टुत्वेन तस्य ढकारादेशः । ढोढे लोपः (पा. सू ८-३-१०) इति पूर्वढकारस्य लोपः । ढ्रलोपे पूर्वस्य (पा. सू. ६-३-१११) इति पूर्वस्य दीर्घः । कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
+- सोमिनः — सोमः अस्य अस्ति इति सोमी । तस्य अत इनि ठन् (पा. सू. ५-२-१९५) इति मत्त्वर्थे इनिप्रत्ययः । षष्ठीएकवचनांतरूपम् ।
+- मित्रासः — आज्जसेरसुक् (प. सू. ७-१-५०) इति जसः असुक् आगमः ।
+- दधिरे — डुधाण् धारणपोषणयोः धातुः । छांदसत्वात् लिट् । प्रथमपुरुषबहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- स्वाभुवः — भू सत्तायां धातुः । क्विप् । कर्तृकर्मणोः कृति इति कर्मणि षष्ठी आगता ।
+- विदतम् — विद ज्ञाने धातुः । लोट् मध्यमपुरुषद्विवचने लज्ञद्भावत्वात् तमादेशः । व्यत्ययो बहुलं इति श विकरणं भवति । तस्य सार्वधातुकमपित् इति जात्वातिदेशात् लघूपथगुणो न भवति । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 488
+
+##### Grammar
+
+- गातुम् — गा स्तुतौ धातुः । तुमुन्वुलौक्रि (पा. सू. ३-३-१०) इति तुमुन् प्रत्ययः । मांतत्वात् अव्ययसंज्ञा भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- अर्चते — अर्च पूजायां धातुः । लडर्थे शतृ प्रत्ययः । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो शिष्यते । चतुर्थीएकवचनांतरूपम् । षष्ठ्यर्थे चतुर्थी आगता ।
+- श्रुतम् — श्रु श्रवणे । लोट् मध्यमपुरुषद्विवचने तमूदेशः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य जिद्वद्भावत्वात् गुणो न भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- वृषणा — वृषु सेचने धातुः । औणादिकः कसिन् प्रत्ययः । सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य आकारादेशः ।
+- पस्ता वतः — पस्ता अस्य अस्ति इति पस्तावान् तस्य । मतुप् प्रत्ययः । माधुपधायाश्च इति मकारस्य वत्वम् । पित्त्वात् अनुदात्तो भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नां भूषन्कृतयो जन्म रोदस्योः प्रवाच्यं वृषणा  
+> दक्षसे महे ।  
+> यदी॑मृ॒ताय॒ भर॑थो॒ यदर्व॑ते॒ प्र होत्र॑या॒ शिम्या॑  ॒
+> वीथो अध्वरं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । भूषन् । क्षितयः । जन्म । रोदस्योः । प्रवाच्यं । वृषणा । दक्षसे ।  
+> महे ।
+
+### Printed p. 489
+
+> यत् । ईं । ऋताय । भरथः । यत् । अर्वते । प्र । होत्रया । शिम्या । वीथः ।  
+> अध्यरं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषणा कामानां वर्षितारौ हे मित्रावरुण् नां युवयोः संबंधि
+> जन्म जननमुत्पत्तिं रोदस्योर्द्यावापृथिव्योः सकाशात् । द्यावापृथिवीभ्यामेव
+> सर्वेषामुत्पत्तेः । यद्वा । मित्र इति सर्वोपकार्यग्नि रुच्यते वरुण इति तमोनिवारक आदित्यः । उभयोः पृथिवीद्युस्थानत्वात् । ततः पूर्वमंत्रे मित्रदृष्टांतवेनाग्निः स्तुतः । अत इदमधिगम्यते अग्निरेव मित्र इति । तथान्यत्रापि । अग्निं मित्रं न
+> क्षितिशु प्रशंस्यं । ऋ. २-२-३ । मित्रं न यं सुधितं भृगवो दधुः । ऋ. ६-१५-२ । इति
+> च । प्रवाच्यं स्तुत्यं तादृग्युवयोर्जन्म महे महते दक्षसे सर्वविषयबलाय
+> क्षितयो मनुष्या यजमाना आ भूषन् । सर्वतोऽलंकुर्वंति । श्लाघंत इत्यर्थः ।
+> जन्मनः प्रवाच्यत्वमाह । यदीं यस्मादेव कारणात् । अथवा । ईमित्यनर्थकः मिताक्षरेष्टनर्थकाः कमीमिद्वितीत्युक्तत्वात् । ऋताय यज्ञाय भरथः सामर्थ्यं । यद्यस्माच्च कारणादर्वते युष्मान् प्राप्तवते यजमानाय च भरथोऽभिमतं फलं ।
+> अथवा । उभयत्र कर्मणः संप्रदानत्वाच्चतुर्थि । यज्ञं यजमानं च भरथ
+> इत्यर्थः । यस्माच्च होत्रया स्तुतिरूपया वाजा शिम्या हविष्पदानादिकर्मणा चॆ
+> प्र वीथः प्रकर्षेण प्राप्नुथः । तस्मात्पवाच्यं जन्म भूषयंतीत्यर्थः । होत्रेति
+> वाङ्नाम होत्रा गीरिति तन्नामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+"O showerers of desires, O Mitrāvaruṇa! Your birth, your origin, is from heaven and earth, since all things arise from heaven and earth alone." Or else: by मित्र (*mitra*) Agni, the benefactor of all, is meant, and by वरुण (*varuṇa*) Āditya, the remover of darkness, since the two are placed on earth and in heaven. In the preceding mantra Agni was praised under the simile of Mitra; hence it is understood that Agni himself is Mitra. So elsewhere too: अग्निं मित्रं न क्षितिशु प्रशंस्यं (*agniṃ mitraṃ na kṣitiśu praśaṃsyaṃ*) (Ṛ. 2-2-3) and मित्रं न यं सुधितं भृगवो दधुः (*mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhuḥ*) (Ṛ. 6-15-2). Such a birth of yours is प्रवाच्यं (*pravācyaṃ*), praiseworthy; for the sake of great दक्षसे (*dakṣase*), strength in every sphere, the क्षितयः (*kṣitayaḥ*), men, the sacrificers, आ भूषन् (*ā bhūṣan*): they adorn on every side, that is, they extol.
+
+He states why the birth is praiseworthy: यदीं (*yadīṃ*) means "for which very reason"; or else ईं (*īṃ*) is meaningless, since it is said that the monosyllabic particles are meaningless (*kamīmit* and so on). You two भरथः (*bharathaḥ*), bear the power for the ऋताय (*ṛtāya*), the sacrifice; and because you bear the desired fruit for the अर्वते (*arvate*), the sacrificer who has come to you. Or else, since the sacrifice and the sacrificer are both recipients (sampradāna), the dative is used in both places: the sense is that you bear (support) both the sacrifice and the sacrificer. And because you प्र वीथः (*pra vīthaḥ*), attain (accept) in full, by होत्रया (*hotrayā*), speech in the form of praise, and by शिम्या (*śimyā*), rites such as the offering of oblations, therefore they adorn your praiseworthy birth. होत्रा (*hotrā*) is a name for speech, since it is read among the speech-names, "*hotrā gīḥ*".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—O Mitrāvaruṇa, who shower down (desired things)
+- यदीं (*yadīṃ*)—for which reason
+- अर्वते (*arvate*)—for the sacrificer who worships (you)
+- ऋताय (*ṛtāya*)—to the sacrifice (the fruit)
+- भरथः (*bharathaḥ*)—you have borne
+- यत् (*yat*)—(and) for which reason
+- होत्रया (*hotrayā*)—by speech in the form of praise
+- शिम्या (*śimyā*)—by rites (such as offering oblations) (accompanied)
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- प्रवीथः (*pravīthaḥ*)—you accept (therefore)
+- वां (*vāṃ*)—of you two
+- प्रवाच्यं (*pravācyaṃ*)—which is praiseworthy
+- रोदस्योः (*rodasyoḥ*)—and arises from heaven and earth
+- जन्म (*janma*)—the birth
+- महे (*mahe*)—great
+- दक्षसे (*dakṣase*)—for strength (of every kind)
+- क्षितयः (*kṣitayaḥ*)—the sacrificers, human beings
+- आ भूषन् (*ā bhūṣan*)—extol with adorned words
+
+### Printed p. 490
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitrāvaruṇa, bestowers of what is desired, in return for the sacrifice performed by the sacrificer who worships you, you bear its fruit for him. And you accept the sacrifice accompanied by words of praise and by rites such as the offering of oblations. Therefore, to win great and all-embracing strength, the sacrificers, human beings, extol with their adorned words your praiseworthy birth, which arose from heaven and earth.
+
+##### Printed English
+
+For the sake (of obtaining) great vigour, showerers (of benefits), men glorify your birth iron heaven and earth, which is to be extolled, inasmuch as you bestow (his desires) upon the worshipper (as the reward) of his sacrifice, and accept the rite (that is solemnized) with praise aud oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+रोवस्योः जन्म क्षितयः आ भूषन् (*rovasyoḥ janma kṣitayaḥ ā bhūṣan*)—When it is said that the human sacrificers extol the birth of you two, produced from heaven and earth, the question arises: whose birth? [Sāyaṇa] first indicates, in giving the meaning of the word वृषणा (*vṛṣaṇā*), that it is the birth of Mitrāvaruṇa; then, with यद्वा । मित्र इति सर्वोपकार्यग्नि रुच्यते वरुण इति तमोनिवारक आदित्यः । उभयोः पृथिवीद्युस्थानत्वात् । (*yadvā | mitra iti sarvopakāryagni rucyate varuṇa iti tamonivāraka ādityaḥ | ubhayoḥ pṛthivīdyusthānatvāt |*), that is, "or else", he gives the support of Vedic texts: that Agni may be meant by Mitra because he is the benefactor of all, and that Āditya may be addressed as Varuṇa because he destroys darkness.
+
+तं देवा बुध्ने रजसः सुदंससं दिवस्पृथिव्योररतिं नैरिरे । रथमिव वेद्यं शुक्रशोचिषमग्निं मित्रं न क्षितिषु प्रशंस्यं ॥ (*taṃ devā budhne rajasaḥ sudaṃsasaṃ divaspṛthivyoraratiṃ nairire | rathamiva vedyaṃ śukraśociṣamagniṃ mitraṃ na kṣitiṣu praśaṃsyaṃ ‖*) (Ṛ. Saṃ. 2-2-3)
+
+मित्रं न यं सुधितं भृगवो दधुर्वनस्पतावीड्यमूर्ध्वशोचिषं । स त्वं सुप्रीतो वीतहव्ये अद्भुत प्रशस्तिभिर्महयसे दिवेदिने ॥ (*mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhurvanaspatāvīḍyamūrdhvaśociṣaṃ | sa tvaṃ suprīto vītahavye adbhuta praśastibhirmahayase divedine ‖*) (Ṛ. Saṃ. 6-15-2)
+
+He cites these ṛks and shows that, just as in them Agni is described as Mitra, the present ṛk too can be explained in the same way. Likewise,
+
+स जिह्वया चतुरनीक ऋंजते चारु वसानो वरुणो यतन्नरिं । न तस्य विद्म पुरुषत्वता वयं यतो भगः सविता दाति नार्यं ॥ (*sa jihvayā caturanīka ṛṃjate cāru vasāno varuṇo yatannariṃ | na tasya vidma puruṣatvatā vayaṃ yato bhagaḥ savitā dāti nāryaṃ ‖*) (Ṛ. Saṃ. 3-48 5)
+
+### Printed p. 491
+In ṛks such as this, where Agni is praised, Agni too has the epithet Varuṇa; since it is said there वरुणः तमोवारकः सन् (*varuṇaḥ tamovārakaḥ san*), that is, that Varuṇa means the remover of darkness, Sāyaṇa has shown that in the present ṛk वृषणा (*vṛṣaṇā*) can be explained as Mitra and Varuṇa, or as Agni in the form of Mitra and Āditya in the form of Varuṇa.
+
+अर्वते (*arvate*)—युष्मान् प्राप्तवते यजमानाय (*yuṣmān prāptavate yajamānāya*): it is explained as "for the sacrificer who approaches you". Since the word अर्वन् (*arvan*) indicates a special kind of motion, it is ordinarily used as a synonym of "horse", as has been explained in detail earlier. Because one approaches the gods quickly with devotion, this word is also used as a synonym of the oblation and of the sacrificer.
+
+क्षितयः (*kṣitayaḥ*)—मनुष्याः (*manuṣyāḥ*) (the sacrificers). Since it is read among the 25 names of man beginning with नरः (*naraḥ*), the meaning is "human beings" (Ni. 3-7).
+
+अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतावा । स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणंतं ॥ (*agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā | sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇaṃtaṃ ‖*) (Ṛ. Saṃ. 3-20-4)
+
+In such places, where a distinction is shown between human beings and the subjects belonging to the gods, the word क्षिति (*kṣiti*) indicates human beings, the subjects of the earth.
+
+शिम्या (*śimyā*)—शिमीति कर्मनाम । शमयतेर्वा शक्नोतेर्वा (*śimīti karmanāma | śamayatervā śaknotervā*) (Ni. 5-12). Formed either from the root शम् (*śam*), which gives the sense "to exert oneself or toil", or from the root शक् (*śak*), which gives the sense "to be able", it means "rite". These may be rites such as the slaying of Vṛtra, which display strength, or rites in the form of showering rain. In the present ṛk the meaning is "by rites such as the offering of oblations".
+
+होत्रया (*hotrayā*)—It is read among the speech-names, होत्रा, गीः (*hotrā, gīḥ*) and so on (Ni. 1-11). The meaning is speech in the form of praise.
+
+##### Grammar
+
+- भूषन् — भूष अलंकारे धातुः । छंदसि लुज् (पा. सू. ३-४-६) इति वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । छांदसत्वात् अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- क्षितयः — क्षि निवासगत्योः धातुः । क्तिच्क्तौचसंज्ञायाम् इति क्तिच् प्रत्ययः । अंतोदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+
+### Printed p. 492
+
+##### Grammar
+
+- प्रवाच्यम् — वच परिभाषणे धातुः । ऋहलोर्ण्यत् (पा. सू ३-१-१२४) इति ण्यत् प्रत्ययः । अत उपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । यजयाचरुचप्रवचर्चश्च (पा. सू. ७-३-६६) इति कुत्वं न भवति । तित्स्वरिते प्राप्ते व्यत्ययेन आद्युदात्तस्वरो भवति णिजंतात् परं वा । अचो यत् (पा. सू ३-१-९७) इति यत् प्रत्ययः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- दक्षसे — दक्षवृद्दौ शीघ्रार्थे च धातुः । भ्वादिसर्वधातुभ्य असुन् इति असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । चतुर्थीएकवचनांतरूपम् ।
+- महे — सावेकाचस्तृतीयादिः (पा. सू ६-१-१६८) इति चतुर्थीविभक्तेः उदात्तस्वरो भवति ।
+- भरथः — भृञ् भरणे धातुः । भ्यादिः । लट् प्रथमपुरुषद्विवचनांतरूपम् । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो शिष्यते । यद्योगत्वात् निघातस्वरो न भवति ।
+- अर्वते — ऋ गत् धातुः । वनिप् प्रत्ययः । चतुर्थीएकवचने परे अर्वणस्तृसावनञ्छः (पा. सू. ६-४-१२७) इति तृ अंतादेशः ।
+- होत्रया — हु दानादनयोः धातुः । हु यामाश्रुभसिभ्यस्तृन् (उ. सू. ४-६०७) इति त्रन् प्रत्ययः । सार्वधातुकार्धधातुकयोः इति गुणः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति । तृतीयाएकवचनांतरूपम् ।
+- वीथः — वी गत्यादिषु धातुः । अदादिः । लट् प्रथमपुरुषद्विवचनांतरूपम् । अतिणंतस्य परत्वात् निघातस्वरो भवति ।
+- अध्वरम् — न विद्यते ध्वरः (हिंसा) यत्र । अध्वरः नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति अंतोदात्तस्वरो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सा क्षि॒तिर॑सुर॒ या महि॑ प्रि॒य ऋता॑वानावृ॒तमा घो॑  ॒
+> षथो बृ॒हत् ।
+
 ---
 
-**Progress note:** Done through printed p. 486. pp. 480-486 (batch API)
+**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
