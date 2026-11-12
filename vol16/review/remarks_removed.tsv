@@ -1,11 +1,9 @@
 printed page	kind	text
 2	running head	Running head, p. 2: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 7.
 3	running head	Running head, p. 3: [Maṃ. 3, A. 1, Va. 1] Ṛgvedasaṃhitā 3.
-3	bare tag	as supplied
 4	running head	Running head, p. 4: 4 Sāyaṇabhāṣyasahitā [Maṃ. 3, A. 1, Sū. 7]. The supplied text has this head inside the Pada block; it has been placed here as the page marker. The word for "Sāyaṇa" is printed in the supplied text as सायुज (*sāyuja*).
 4	bare tag	printed so
 5	running head	Running head, p. 5: [Maṃ. 3, A. 1, Va. 1] Ṛgvedasaṃhitā 5.
-5	bare tag	as supplied
 6	running head	Running head, p. 6: 6 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7].
 6	bare tag	as supplied
 6	bare tag	as supplied
@@ -22,7 +20,6 @@ printed page	kind	text
 16	running head	Running head, p. 16: 16 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]
 16	bare tag	as supplied
 17	running head	Running head, p. 17: [Maṃ. 3. A. 1. Va. 1.] Ṛgvedasaṃhitā 17
-17	bare tag	as supplied
 18	running head	Running head, p. 18: 18 Sāyaṇabhāṣyasahitā [Maṃ. 1. A. 1. Sū. 7.] (as supplied; the other pages read Maṃ. 3)
 19	running head	Running head, p. 19: [A. 3. A. 1. Va. 1.] Ṛgvedasaṃhitā 19 (as supplied)
 19	bare tag	as supplied
@@ -46,13 +43,11 @@ printed page	kind	text
 31	running head	Running head, p. 31: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā 31 (as supplied; "Ā." for "Maṃ.")
 32	running head	Running head, p. 32: 32 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]
 33	running head	Running head, p. 33: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā (the page number is not printed in the supplied text; the marker was inserted)
-33	bare tag	as supplied
 34	running head	Running head, p. 34: 34 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]
 35	running head	Running head, p. 35: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 35
 35	bare tag	as supplied
 36	running head	Running head, p. 36: 36 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]
 37	running head	Running head, p. 37: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 37
-37	bare tag	as supplied
 38	running head	Running head, p. 38: 38 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]
 39	running head	Running head, p. 39: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 39
 39	bare tag	as supplied
@@ -74,7 +69,6 @@ printed page	kind	text
 51	running head	Running head, p. 51: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 51
 52	running head	Running head, p. 52: 52 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 53	running head	Running head, p. 53: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 53
-53	other remark	Continuation of the Pīṭhikā of Sūkta 8 from the previous page.
 54	running head	Running head, p. 54: 54 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 55	running head	Running head, p. 55: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 55
 55	bare tag	as supplied
@@ -85,9 +79,7 @@ printed page	kind	text
 59	running head	Running head, p. 59: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 59
 60	running head	Running head, p. 60: 60 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]
 61	running head	Running head, p. 61: [A. 3. A. 1. V. 3] Ṛgvedasaṃhitā 61
-61	other remark	The passage continues on the next page.
 62	running head	Running head, p. 62: 62 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]
-62	other remark	The Brāhmaṇa passage of Tai. Saṃ. 6-3-3 continues from the previous page.
 63	running head	Running head, p. 63: [Maṃ. 3. A. 1. Va. 3] Ṛgvedasaṃhitā 63
 64	running head	Running head, p. 64: 64 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]
 65	running head	Running head, p. 65: [Maṃ. 3. A. 1. Va. 3] Ṛgvedasaṃhitā 65
@@ -97,13 +89,10 @@ printed page	kind	text
 69	running head	Running head, p. 69: [Aṃ. 3. A. 1. Va. 3.] Ṛgvedasaṃhitā 69] (printed "ಅ. ೩." for "ಮಂ. ೩." as supplied [sic?])*
 70	running head	Running head, p. 70: Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 70	bare tag	as printed
-70	bare tag	as supplied
-70	other remark	Pages 68–70 contain no Ṛk and no grammar page; the passage continues on the next page.
 71	running head	Running head, p. 71: [A. 3. A. 1. Va. 3.] Ṛgvedasaṃhitā 71] (printed "ಆ ೩-" for the Maṇḍala numeral, as supplied [sic?])*
 72	running head	Running head, p. 72: 72 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 74	running head	Running head, p. 74: 74 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 74	bare tag	as printed
-74	other remark	The page ends with the Pada of Ṛk 1; the commentary on this Ṛk continues on the next page.
 75	running head	Running head, p. 75: [Aṣṭaka 3, Adhyāya 1, Varga 3] Ṛgvedasaṃhitā 75 (as supplied, "ಅ. ೩. ಅ ೧. ವ. ೩")
 77	running head	Running head, p. 77: [Aṣṭaka 3, Adhyāya 1, Varga 3] Ṛgvedasaṃhitā 77
 78	running head	Running head, p. 78: Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
@@ -158,11 +147,9 @@ printed page	kind	text
 106	running head	Running head, p. 106: 106 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
 107	running head	Running head, p. 107: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 107
 108	running head	Running head, p. 108: 108 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]
-108	bare tag	as supplied
 108	print form of a reference	Uṇ. Sū. 4-1-85, as supplied
 109	running head	Running head, p. 109: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 109
 110	running head	Running head, p. 110: 110 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]
-110	bare tag	as supplied
 111	running head	Running head, p. 111: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 111
 111	bare tag	as supplied
 111	bare tag	as supplied
@@ -186,10 +173,8 @@ printed page	kind	text
 118	bare tag	as supplied
 118	bare tag	as supplied
 119	running head	Running head, p. 119: [Ā. 3. A. 1. V. 5.] Ṛgvedasaṃhitā 119 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫.")
-119	other remark	Continuation of the Anuvāda of Sūkta 9 from the previous page.
 119	bare tag	as printed
 120	running head	Running head, p. 120: 120 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]
-120	other remark	The bhāṣya of Ṛk 1 continues from the previous page (its last words, the grammatical tail, on ऊतये (*ūtaye*), अपां (*apāṃ*), सुभगं (*subhagaṃ*) and सुप्रतूर्तिं (*supratūrtiṃ*), are transcribed, not explained).
 121	running head	Running head, p. 121: [8. A. 1. V. 5] Ṛgvedasaṃhitā 121 (as supplied, "೮. ಅ. ೧. ವ. ೫"; the first numeral does not agree with the Maṇḍala number 3 of the other running heads, left as supplied)
 121	process remark	Special Topics of Ṛk 1 continued from the previous page.
 122	running head	Running head, p. 122: 122 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]
@@ -243,7 +228,6 @@ printed page	kind	text
 142	bare tag	as supplied
 143	running head	Running head, p. 143: [A. 3. A. 1. V. 6] Ṛgvedasaṃhitā 143
 143	bare tag	as supplied
-143	bare tag	as supplied
 144	running head	Running head, p. 144: 144 Sāyaṇabhāṣyasahitā [Maṃ. 3: A. 1. Sū. 9.] (printed "ಮಂ ೩:", as supplied)
 145	running head	Running head, p. 145: [A. 3. A. 1. V. 6.] Ṛgvedasaṃhitā 145
 146	running head	Running head, p. 146: 146 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.] (Maṇḍala 3, Anuvāka 1, Sūkta 9)
@@ -253,9 +237,7 @@ printed page	kind	text
 147	bare tag	as supplied
 147	bare tag	as supplied
 148	running head	Running head, p. 148: 148 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.] (Maṇḍala 3, Anuvāka 1, Sūkta 9)
-148	other remark	The window's text ends here, at the end of this sentence on p. 148; whether the Special Topics of Ṛk 9 continue on the next page is not yet known. The grammar notes of Ṛk 9 (the words त्रिंशत् (*triṃśat*) onwards) have not yet appeared as a separate grammar page.
 149	running head	Running head, p. 149: [A. 3. A. 1. V. 6.] Ṛgvedasaṃhitā 149 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೬.")
-149	other remark	Continuation of the Special Topics of Ṛk 9 (the number of the gods) from p. 148.
 150	running head	Running head, p. 150: 150 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.] (Maṇḍala 3, Anuvāka 1, Sūkta 9)
 150	bare tag	as supplied
 150	bare tag	as supplied
@@ -299,7 +281,6 @@ printed page	kind	text
 158	running head	Running head, p. 158: 158 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū 10.] (Maṇḍala 3, Anuvāka 1, Sūkta 10; the "Sū" printed without a full stop, as supplied)
 158	bare tag	so supplied
 158	bare tag	so supplied
-158	other remark	Grammar notes of Ṛk 3 (the rest of the bhāṣya tail: samidhā, jātavedase, suvīryam, puṣyati) follow on the next page.
 159	running head	Running head, p. 159: [Aṣṭaka 3, Adhyāya 1, Varga 7] Ṛgvedasaṃhitā 159 (printed "ಅ. ೩. ಅ. ೧. ವ. ೭." with an opening bracket only before the first item, "159]" with a stray closing bracket, as supplied)
 159	bare tag	as supplied
 159	bare tag	so supplied
@@ -318,7 +299,6 @@ printed page	kind	text
 164	bare tag	so supplied
 165	running head	Running head, p. 165: [Aṣṭaka 3, Adhyāya 1, Varga 8] Ṛgvedasaṃhitā 165 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೮.] ಋಗ್ವೇದಸಂಹಿತಾ 165]", as supplied)
 166	running head	Running head, p. 166: 166 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 10.] (printed "*[166 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೦.
-166	bare tag	as supplied
 166	print form of a reference	Pā. Sū. 6-4-51; as supplied
 166	bare tag	so supplied
 166	print form of a reference	Pā. Sū. 6-1-18; as supplied
@@ -347,15 +327,10 @@ printed page	kind	text
 175	bare tag	as supplied
 175	print form of a reference	Pā. Sū. 7-2-67; as supplied
 176	running head	Running head, p. 176: 176 Sāyaṇabhāṣyasahitaṃ [Maṇḍala 3, Anuvāka 1, Sūkta 11] (printed "176 ಸಾಯಣಭಾಷ್ಯಸಹಿತಂ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೧.", as supplied: it says Sūkta 11 although the page still carries the grammar of Sūkta 10; the supplied text had merged this head into the previous page, see repair_log.txt)
-176	other remark	Grammar notes of Ṛk 9 continue.
-176	print form of a reference	Pā. Sū. 7-1-20; as supplied
-176	print form of a reference	Pā. Sū. 6-4-14; as supplied
 177	running head	Running head, p. 177: [Aṣṭaka 3, Adhyāya 1, Varga 9] Ṛgvedasaṃhitā 177 (printed "[ಅ ೩. ಅ. ೧. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 177]", as supplied)
 177	bare tag	as printed
 178	running head	Running head, p. 178: 178 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 11] (printed "178 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ ೩. ಅ. ೧. ಸೂ. ೧೧.]", as supplied)
-178	other remark	Continuation of the Sāyaṇa-bhāṣya of Ṛk 1 from the previous page.
 179	running head	Running head, p. 179: [Aṣṭaka 3, Adhyāya 1, Varga 9] Ṛgvedasaṃhitā 179 (printed "[ಆ. ಸಿ. ಆ. ೧ ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 179]", as supplied; "ಸಿ" stands where the numeral is expected)
-179	other remark	The Special Topics sentence continues from p. 178.
 179	bare tag	as supplied
 179	print form of a reference	Pā. 8-2-30; printed "ಪಾ. ಸು."
 180	running head	Running head, p. 180: 180 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 11] (printed "180 ಸಾರುಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧ ಸೂ.೧೧.", as supplied; the supplied text had merged it into the Saṃhitā block, see repair_log.txt)
@@ -366,7 +341,6 @@ printed page	kind	text
 182	print form of a reference	Pā. Sū. 7-4-42, as supplied
 183	running head	Running head, p. 183: [Aṣṭaka 3, Adhyāya 1, Varga 9] Ṛgvedasaṃhitā 183 (printed "[ಅ. ೩ ಅ. ೧. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 183]", as supplied; "ಅ. ೩" for Aṣṭaka 3)
 184	running head	Running head, p. 184: 184 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 11] (printed "[184 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೧.]", as supplied)
-184	bare tag	as supplied
 184	bare tag	as supplied
 184	bare tag	as supplied
 184	bare tag	as supplied
@@ -401,11 +375,9 @@ printed page	kind	text
 196	running head	Running head, p. 196: 196 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 11 (printed "[196 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೧.]", as supplied)
 197	running head	Running head, p. 197: [Aṣṭaka 3, Adhyāya 1, Varga 10] Ṛgvedasaṃhitā 197 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೦.] ಋಗ್ವೇದಸಂಹಿತಾ 197]", as supplied)
 197	bare tag	as supplied
-197	bare tag	as supplied
 198	running head	Running head, p. 198: 198 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 11 (printed "[198 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೧.]", as supplied)
 198	bare tag	as supplied
 198	bare tag	as supplied
-198	other remark	The introduction continues on p. 199.
 199	running head	Running head, p. 199: [Aṣṭaka 3, Adhyāya 1, Varga 11] Ṛgvedasaṃhitā 199 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 199]", as supplied; the first group of letters reads "ಅ. ೩." where the Aṣṭaka is meant)
 199	bare tag	as supplied
 199	bare tag	as supplied
@@ -415,7 +387,6 @@ printed page	kind	text
 200	running head	Running head, p. 200: 200 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 12 (printed "[ 200 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧.ಸೂ. ೧೨.]", as supplied; in the supplied text this head was merged into the bhāṣya block, see repair_log.txt)
 200	bare tag	as printed
 201	running head	Running head, p. 201: [Aṣṭaka 3, Adhyāya 1, Varga 11] Ṛgvedasaṃhitā 201 (printed "[೮. ೩. ಆ. ೧. ವ. ೧೧] ಋಗ್ವೇದಸಂಹಿತಾ 201]", as supplied)
-201	bare tag	as supplied
 201	bare tag	as supplied
 201	bare tag	as supplied
 202	running head	Running head, p. 202: 202 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 12] (printed "202 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೨.]", as supplied)
@@ -431,7 +402,6 @@ printed page	kind	text
 207	running head	Running head, p. 207: [Aṣṭaka 3, Adhyāya 1, Varga 11] Ṛgvedasaṃhitā 207 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 207]", as supplied)
 207	bare tag	as supplied
 208	running head	Running head, p. 208: 208 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 12] (printed "[208 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೨.]", as supplied)
-208	bare tag	as supplied
 209	running head	Running head, p. 209: [Aṣṭaka 3, Adhyāya 1, Varga 11] Ṛgvedasaṃhitā 209 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 209]", as supplied)
 209	bare tag	as supplied
 210	running head	Running head, p. 210: 210 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 12] (printed "[210 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೧.ಸೂ. ೧೨.]", as supplied)
@@ -468,7 +438,6 @@ printed page	kind	text
 219	bare tag	printed so, as supplied
 220	running head	Running head, p. 220: 220 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 1, Sūkta 12] (printed "220 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೧. ಸೂ. ೧೨.]", as supplied)
 221	running head	Running head, p. 221: [Aṣṭaka 3, Adhyāya 1, Varga 12] Ṛgvedasaṃhitā 221 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೨] ಋಗ್ವೇದಸಂಹಿತಾ 221]", as supplied)
-221	bare tag	as supplied
 221	bare tag	as supplied
 221	bare tag	as supplied
 221	bare tag	as supplied
@@ -570,13 +539,11 @@ printed page	kind	text
 264	running head	Running head, p. 264: 264 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "264 ಸಾಹುಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪", as supplied; the marker and head were merged into the text above and were separated in kn.md, see repair_log.txt)
 265	running head	Running head, p. 265: [Aṣṭaka 3, Adhyāya 1, Varga 14] Ṛgvedasaṃhitā 265 (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 265]", as supplied)
 265	bare tag	so printed
-265	bare tag	as supplied
 266	running head	Running head, p. 266: 266 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "266 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪]", as supplied)
 266	bare tag	as supplied
 266	bare tag	so printed
 267	running head	Running head, p. 267: [Aṣṭaka 3, Adhyāya 1, Varga 14] Ṛgvedasaṃhitā 267 (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 267]", as supplied)
 268	running head	Running head, p. 268: 268 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "268 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪.]", as supplied)
-268	bare tag	as supplied
 269	running head	Running head, p. 269: [Aṣṭaka 3, Adhyāya 1, Varga 14] Ṛgvedasaṃhitā 269 (printed "[ಅ. ೩ ಅ. ೧ ವ ೧೪.] ಋಗ್ವೇದಸಂಹಿತಾ 269]", as supplied)
 269	bare tag	as supplied
 270	running head	Running head, p. 270: 270 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "270 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪.]", as supplied)
@@ -607,7 +574,6 @@ printed page	kind	text
 290	running head	Running head, p. 290: 290 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "290 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪.]")
 291	running head	Running head, p. 291: [Anuvāka/Adhyāya 3, 1, Varga 14] Ṛgvedasaṃhitā 291 (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 291]", as supplied)
 292	running head	Running head, p. 292: 292 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "292 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪]")
-292	bare tag	as supplied
 293	running head	Running head, p. 293: [Anuvāka/Adhyāya 3, 1, Varga 14] Ṛgvedasaṃhitā 293 (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೪.] ಋಗ್ವೇದಸಂಹಿತಾ 293]", as supplied; the printed head has a stray Latin 293 and an unopened bracket pair)
 294	running head	Running head, p. 294: 294 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 14] (printed "294 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೪]")
 294	bare tag	as supplied
@@ -685,7 +651,6 @@ printed page	kind	text
 329	bare tag	so printed
 329	bare tag	so printed
 330	running head	Running head, p. 330: 330 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[330 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೨. ಸೂ. ೧೬.]", as supplied; the opening bracket is unmatched)
-330	other remark	The Ṛk number ೨ stands only at the end of the Saṃhitā; the print has no separate Ṛk heading.
 330	process remark	The window ends here, inside the Sāyaṇa-bhāṣya of Ṛk 2 of Sūkta 16 at the end of p. 330; the rest of the bhāṣya, Pratipadārtha and later sections of Ṛk 2 follow on the next page.
 331	running head	Running head, p. 331: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 331 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 331]", as supplied; the closing bracket is unmatched)
 332	running head	Running head, p. 332: 332 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[332 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಆ. ೨. ಸೂ. ೧೬.]", as supplied; here ಆ. stands where p. 330 has ಅ.; the opening bracket is unmatched)
@@ -695,18 +660,15 @@ printed page	kind	text
 333	running head	Running head, p. 333: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 333 (printed "[ಆ. ೩. ಅ. ೧. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 333]", as supplied; here ಆ. stands where p. 331 has ಅ.; the closing bracket is unmatched)
 333	bare tag	as supplied
 333	bare tag	so printed
-333	other remark	The Ṛk number ೩ stands only at the end of the Saṃhitā; the print has no separate Ṛk heading.
 333	process remark	The window ends here, inside the Sāyaṇa-bhāṣya of Ṛk 3 of Sūkta 16 at the end of p. 333, at the word धनेना (*dhanenā*)-; the rest of the bhāṣya, its grammar tail, Pratipadārtha and later sections of Ṛk 3 follow on the next page.
 334	running head	Running head, p. 334: 334 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[334 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೨. ಸೂಕ್ತ. ೧೬.]", as supplied; the opening bracket is unmatched)
 334	bare tag	so printed
 335	running head	Running head, p. 335: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 335 (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 335]", as supplied; the closing bracket is unmatched)
 335	print form of a reference	Pā. Sū. 8-223, as supplied
 335	bare tag	so printed
-335	other remark	The Ṛk number ೪ stands only at the end of the Saṃhitā; the print has no separate Ṛk heading.
 336	running head	Running head, p. 336: 336 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[386 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೨. ಸೂ. ೧೬.]", as supplied; the page number is misprinted 386, there is a space after the opening bracket of the reference, and the opening bracket is unmatched)
 337	running head	Running head, p. 337: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 337 (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 337]", as supplied; the closing bracket is unmatched)
 338	running head	Running head, p. 338: 338 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[338 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೬]", as supplied; the opening bracket is unmatched)
-338	other remark	The Ṛk number ೫ stands only at the end of the Saṃhitā; the print has no separate Ṛk heading.
 339	running head	Running head, p. 339: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 339 (printed "[ಅ. ೩ ಅ. ೧ ವ ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 339]", as supplied; the closing bracket is unmatched)
 340	running head	Running head, p. 340: 340 Sāyaṇabhāṣyasahitā [Maṇḍala 3, Anuvāka 2, Sūkta 16] (printed "[340 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೬.]", as supplied; the opening bracket is unmatched)
 341	running head	Running head, p. 341: [Aṣṭaka 3, Adhyāya 1, Varga 16] Ṛgvedasaṃhitā 341 (printed "[ಅ. ೩. ಅ. ೧ ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 341]", as supplied; the closing bracket is unmatched)
@@ -784,9 +746,7 @@ printed page	kind	text
 375	running head	Running head, p. 375: "[Aṣṭaka 3, Adhyāya 1, Varga 18 ] Ṛgvedasaṃhitā 375]" (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 375]"), as supplied; the closing bracket is unmatched.
 376	running head	Running head, p. 376: "376 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3, Anuvāka 2, Sūkta 18" (printed "876 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೮", with 876 for 376 and ಭಾವ್ಯ for ಭಾಷ್ಯ, and the bracket unmatched), as supplied. The line stood unmarked in the supplied text inside p. 375; the page marker was inserted before it.
 377	running head	Running head, p. 377: "[Aṣṭaka 3, Adhyāya 1, Varga 18 ] Ṛgvedasaṃhitā 377]" (printed "[ಅ. ೩. ಅ. ೧ ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 377]"), as supplied; the closing bracket is unmatched.
-377	bare tag	so printed
 378	running head	Running head, p. 378: "378 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3, Anuvāka 2, Sūkta 18.]" (printed "[378 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೨. ಸೂಕ್ತ. ೧೮.]"), as supplied; the opening bracket is unmatched.
-378	bare tag	as supplied
 379	running head	Running head, p. 379: "[Aṣṭaka 3, Adhyāya 1, Varga 18.] Ṛgvedasaṃhitā 379]" (printed "[ಅ. ೩. ಅ. ೧. ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 379]"), as supplied; the closing bracket is unmatched.
 380	running head	Running head, p. 380: "380 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3, Anuvāka 2, Sūkta 18.]" (printed "[380 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೧೮.]"), as supplied; the opening bracket is unmatched.
 381	running head	Running head, p. 381: "[Aṣṭaka 3, Adhyāya 1, Varga 18] Ṛgvedasaṃhitā 381]" (printed "[ಅ. ೩ ಅ. ೧ ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 381]"), as supplied; the closing bracket is unmatched.
@@ -829,17 +789,13 @@ printed page	kind	text
 408	running head	Running head, p. 408: "408 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Anuvāka 2. Sūkta 20]" (printed "408 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೨೦]"), as supplied. The page continues Ṛk 3, from the Pratipadārtha.
 409	running head	Running head, p. 409: "[Aṣṭaka 3. Adhyāya 1. Varga 20] Ṛgvedasaṃhitā 409]" (printed "[ಅ. ೩. ಅ. ೧. ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 409]"), as supplied: the closing bracket is unmatched. The sentence "Yāska" runs over from p. 408.
 410	running head	Running head, p. 410: "410 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Adhyāya 2. Sūkta 20.]" (printed "410 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೨. ಸೂ. ೨೦.]"), as supplied.
-410	other remark	The page, and the window, end here in the middle of the bhāṣya of Ṛk 4, at the line ending ಯಶ್ಚಾಗ್ನಿರ್ಯ-; the rest of the bhāṣya, with its gist, follows on p. 411.
 411	running head	Running head, p. 411: "[Aṣṭaka 3. Adhyāya 1. Varga 20.] Ṛgvedasaṃhitā 411]" (printed "[ಅ. ೩. ಅ. ೧. ವ. ೨೦.] ಋಗ್ವೇದಸಂಹಿತಾ 411]"), as supplied: the closing bracket is unmatched. The page continues the bhāṣya of Ṛk 4 from p. 410, from the word after "ಯಶ್ಚಾಗ್ನಿರ್ಯ-".
-411	other remark	Continuation of the bhāṣya of Ṛk 4. The block begins in the middle of a word broken at the page boundary (p. 410 ends "ಯಶ್ಚಾಗ್ನಿರ್ಯ-"); the grammatical tail of the bhāṣya (from "ನೇತಾ।") is part of the same block, transcribed but not explained.
 412	running head	Running head, p. 412: "412 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Adhyāya 2. Sūkta 20.]" (printed "412 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೨. ಸೂಕ್ತ. ೨೦.]"), as supplied: the Kannada head has an unmatched opening bracket. The sentence about Agni as regulator runs over from p. 411.
 413	running head	Running head, p. 413: "[Aṣṭaka 3. Adhyāya 1. Varga 20] Ṛgvedasaṃhitā 413]" (printed "[ಆ. ೩. ಆ. ೧ ಪ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 413]"), as supplied: Kannada ಆ. for ಅ. and ಪ. for ವ., and the closing bracket is unmatched. The grammar of Ṛk 4 continues from p. 412 (ದೈವೀನಾಂ, with ಸ್ತ್ರೀತ್ವ / ಪಿವಕ್ಷಾ); it is summarised above and the page ends with the grammar of ಗೃಣಂತಂ.
 414	running head	Running head, p. 414: "414 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Adhyāya 2. Sūkta 20.]" (printed "414 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೨೦.]"), as supplied. The page begins with Ṛk 5; the grammar of Ṛk 4 ended on p. 413 with ಗೃಣಂತಂ. The Kannada text has the label ಸಾಯಣಭಾಷ್ಯಂ before the Saṃhitā; the standard Saṃhitā label is used.
 415	running head	Running head, p. 415: "[Aṣṭaka 3. Adhyāya 1. Varga 20] Ṛgvedasaṃhitā 415]" (printed "[ಅ. ೩ ಅ. ೧ ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 415]"), as supplied: the closing bracket is unmatched. The Pratipadārtha continues from p. 414, from the ending ಯನ್ನೂ of ಬೃಹಸ್ಪತಿಯನ್ನೂ.
-415	other remark	The Kannada text prints the two references one after the other below the two verses, in the order 4-30-10, 1-92-13, with ಪು. ಸಂ. for ಋ. ಸಂ.; each is assigned to the verse above in the same order.
 416	running head	Running head, p. 416: "416 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Adhyāya 2. Sūkta 20.]" (printed "416 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩ ಅ. ೨ ಸೂ. ೨೦.]"), as supplied: the opening bracket is followed by a space. The text continues from p. 415 with the Ṛk of Bṛhaspati cited from Yāska.
 416	bare tag	so printed
-416	other remark	The page, and the window, end here, in the middle of the Special Topics of Ṛk 5, with the sentence ending ದುರ್ಗಾಚಾರ್ಯರು ಅರ್ಥವನ್ನು ವರ್ಣಿಸಿದ್ದಾರೆ.
 417	running head	Running head, p. 417: "[Aṣṭaka 3. Adhyāya 1. Varga 20.] Ṛgvedasaṃhitā 417]" (printed "[ಅ. ೩. ಅ. ೧. ವ. ೨೦.] ಋಗ್ವೇದಸಂಹಿತಾ 417]"), as supplied: the closing bracket is unmatched. The Special Topics of Ṛk 5 continue from p. 416, after the sentence about Bhaga with Durgācārya's explanation.
 417	bare tag	as supplied
 418	running head	Running head, p. 418: "418 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3. Adhyāya 2. Sūkta 20]" (printed "418 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩ ಅ. ೨ ಸೂ. ೨೦]"), as supplied: the opening bracket is unmatched and the full stop after 20 is missing. The sentence of p. 417 about the name Āditya continues here with ಎಂದು ವಿವರಿಸಿ.
@@ -880,10 +836,8 @@ printed page	kind	text
 434	running head	Running head, p. 434: "[434 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3 Anuvāka 2 Sūkta 22]", as supplied: the first opening bracket is unmatched; the head stands in the middle of the grammar of Ṛk 5.
 435	running head	Running head, p. 435: "[Aṣṭaka 3. Adhyāya 1. Varga 22.] Ṛgvedasaṃhitā 435]", as supplied: the closing bracket is unmatched. The Anuvāda of Sūkta 22, begun on p. 434, continues at the top of this page; the word beginning प्रे (*pre*) at the end of p. 434 is broken across the page boundary, as supplied.
 435	bare tag	as printed
-435	bare tag	as supplied
 435	process remark	The grammatical tail of the bhāṣya is transcribed in the block, not explained. The bhāṣya has धधे (*dhadhe*) for दधे (*dadhe*) and स्तझयोरेशिरेजिति (*stajhayoreśirejiti*) as supplied. The supplied text ends in the middle of the word प्रत्य (*pratya*), at the end of printed page 435; the bhāṣya of Ṛk 1 continues in the next window.
 436	running head	Running head, p. 436: "[436 Sāyaṇa-bhāṣya-sahitā [ Maṇḍala 3. Anuvāka 2. Sūkta 22.]", as supplied: the first opening bracket is unmatched and a space follows the second. The head stands in the middle of the bhāṣya of Ṛk 1: the word left unfinished at the end of p. 435 continues here with यस्वरः (*yasvaraḥ*), broken across the page boundary as supplied.
-436	other remark	Gist of the continuation: only grammar of the word स्तूयसे (*stūyase*) (the root stu, the passive affix yak, the lengthening, the nighāta accent); transcribed in the block, not explained.
 437	running head	Running head, p. 437: "[Aṣṭaka 3. Adhyāya 1. Varga 22] Ṛgvedasaṃhitā 437]", as supplied: the closing bracket is unmatched. The head stands in the middle of a sentence of the Special Topics of Ṛk 1: the sentence broken at the end of p. 436 continues here with the word हॊंदुव (*hòṃduva*).
 438	running head	Running head, p. 438: "[438 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3 Anuvāka 2 Sūkta 22]", as supplied: the first opening bracket is unmatched. The head stands in the middle of the grammar of Ṛk 1.
 439	process remark	The grammatical tail is transcribed, not explained. The bhāṣya has यदोषधीष्टस्त्विति (*yadoṣadhīṣṭastviti*) and अर्णगः (*arṇagaḥ*) as supplied.
@@ -908,7 +862,6 @@ printed page	kind	text
 451	running head	Running head, p. 451: "[Aṣṭaka 3. Adhyāya 1. Varga 23.] Ṛgvedasaṃhitā 451]", as supplied: the closing bracket is unmatched. The page begins in the middle of the grammar of Ṛk 5, with the word विजावा (*vijāvā*); the head already gives Varga 23.
 452	running head	Running head, p. 452: "[452 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 3 Anuvāka 2 Sūkta 23]", as supplied: the opening bracket after the head is unmatched. The Sanskrit introduction and the Anuvāda of Sūkta 23 were complete at the end of p. 451; this page begins with the sūkta data.
 452	bare tag	as printed
-452	bare tag	as supplied
 453	running head	Running head, p. 453: "[Aṣṭaka 3. Adhyāya 1. Varga 23] Ṛgvedasaṃhitā 453]", as supplied: no full stop after 23, and the closing bracket is unmatched. The bhāṣya of Ṛk 1 is broken in the middle of a word at the page boundary (प्रादु- (*prādu-*) at the end of p. 452, र्भाव (*rbhāva*) at the beginning of this page), as supplied.
 453	process remark	The grammatical tail of the bhāṣya is transcribed in the blocks, not explained. The bhāṣya has जूर्यत्तु (*jūryattu*) in its first part, where the Saṃhitā has जूर्यत्सु (*jūryatsu*); as supplied.
 454	running head	Running head, p. 454: "[454 Sāyaṇa-bhāṣya-sahitā [ Maṇḍala 3. Anuvāka 2. Sūkta 23.]", as supplied: the opening bracket after the head is unmatched. The page continues the Special Topics of Ṛk 1.
@@ -934,7 +887,6 @@ printed page	kind	text
 468	running head	Running head, p. 468: "[468 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ.೩. ಅ. ೨. ಸೂ. ೨೪.]", read as: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3, Anuvāka 2, Sūkta 24, as supplied, with the first opening bracket unmatched. The Sanskrit introduction of Sūkta 24 was complete at the end of p. 467; this page begins with the Anuvāda.
 468	bare tag	as printed
 468	bare tag	as printed
-468	bare tag	as supplied
 469	running head	Running head, p. 469: "ಅ. ೩. ಅ. ೧. ವ. ೨೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 469", read as: Aṣṭaka 3, Adhyāya 1, Varga 24, Ṛgvedasaṃhitā, as supplied, with the first opening bracket not shown in this reading and a space before the first closing bracket. The page begins in the middle of the bhāṣya of Ṛk 1, which continues here in a new block after the break at the foot of p. 468.
 469	process remark	The grammatical tail (on the words sahasva, abhimātīḥ, asya, duṣṭaraḥ, taran, dhāḥ) is transcribed in the block, not explained.
 470	running head	Running head, p. 470: "470 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩ ಅ. ೨ ಸೂ. ೨೪.]", read as: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3, Anuvāka 2, Sūkta 24, as supplied, with the opening bracket unmatched and no full stops after the numbers 3 and 2. The page begins with the Ṛk quoted by Yāska.
@@ -972,12 +924,9 @@ printed page	kind	text
 483	running head	Running head, p. 483: Aṣṭaka 3, Adhyāya 1, Varga 25, Ṛgvedasaṃhitā, 483, as supplied, with a space before the first closing bracket and the closing bracket at the end unmatched. The page begins with the Grammar of Ṛk 1 (see above, where the grammar is given in one note).
 483	process remark	The grammatical tail (on sanoti, bhūṣan, vaha, purukṣo) is transcribed in the block, not explained.
 484	running head	Running head, p. 484: it stands inside the Sāyaṇa-bhāṣya block of Ṛk 2 in the supplied text, in the middle of a word (between हविर्लक्षण (*havirlakṣaṇa*) and मन्नं (*mannaṃ*)); it has been moved out of the block (line kept as an italic line in the Kannada file, after the block). It reads the page number, then सायगाभाष्यसहिता (*sāyagābhāṣyasahitā*) (so printed, with गा (*gā*) where the other pages have ण (*ṇa*); as supplied), then मं.अ. (*maṃ.a.*) (the number of the Maṇḍala is missing), Anuvāka 2, Sūkta 25, with an unmatched opening bracket and no closing bracket.
-484	other remark	The word "descendants" is broken across two lines in the print ("descen-" and "dants"); joined here.
 485	running head	Running head, p. 485: Aṣṭaka 3, Adhyāya 1, Varga 25, Ṛgvedasaṃhitā, 485, as supplied, with no space before the first closing bracket and the closing bracket at the end unmatched. The page begins in the middle of the Special Topics of Ṛk 2.
-485	other remark	The page, and with it the window, ends with the Pada-pāṭha of Ṛk 3.
 486	running head	Running head, p. 486: the page number, then सायणभाष्यसहिता (*sāyaṇabhāṣyasahitā*), Maṇḍala 3, Anuvāka 2, Sūkta 25, written with two opening brackets and one closing bracket, as supplied. The page begins with the Sāyaṇa-bhāṣya of Ṛk 3.
 486	process remark	The grammatical tail (on dyāvāpṛthivī, viśvajanye, ā bhāti, kṣayan, purucandra) is transcribed in the block, not explained.
-486	other remark	The word "associated" is broken across two lines in the print ("associ-" and "ated"); joined here.
 487	running head	Running head, p. 487: the page number stands inside the Special Topics of Ṛk 3 in the supplied text, after the word यास्करिंद (*yāskariṃda*); it has been moved out of the text (the marker and the head line were inserted in the Kannada file). It reads Aṣṭaka 1, Adhyāya 3, Varga 25, ऋग्वेद संहिता (*ṛgveda saṃhitā*), 487, with a closing bracket and no opening bracket; the first two numbers stand in the order 1, 3 where pages 485 and 489 read 3, 1; as supplied.
 488	running head	Running head, p. 488: the page number, then सायणभाष्यसहिता (*sāyaṇabhāṣyasahitā*), Maṇḍala 3, Anuvāka 2, Sūkta 25, written with two opening brackets and one closing bracket, as supplied. The page begins in the middle of the Grammar of Ṛk 3, with the word आभाति (*ābhāti*).
 488	process remark	The grammatical tail (on yātaṃ, amardhantā, somapeyāya) is transcribed in the block, not explained.
@@ -998,7 +947,6 @@ printed page	kind	text
 494	bare tag	as printed
 494	process remark	The grammatical tail (on Vaiśvānara, nicāyya, anuṣatya) is transcribed in the block, not explained. The block is cut at the end of p. 494 in the middle of a word, with a line-end hyphen; it goes on on p. 495 in a new block.
 495	running head	Running head, p. 495: "[ಅ. ೩ ಅ. ೧ ಪ. ೨೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 495]", read as: Aṣṭaka 3, Adhyāya 1, then a letter printed ಪ. where Varga is expected, 26, Ṛgvedasaṃhitā, and the page number 495, as supplied, with a space before the first closing bracket and an unmatched closing bracket at the end.
-495	other remark	The bhāṣya continues from the previous page; the grammatical tail (on sudānu, rathira, vasūyavaḥ, raṇva, kuśikāsaḥ, havāmahe) is transcribed in the block, not explained.
 496	running head	Running head, p. 496: "496 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೨. ಸೂಕ್ತ. ೨೬.", read as: Sāyaṇa-bhāṣya-sahitā (the word has a different Kannada letter where bhāṣya is expected, as supplied), Maṇḍala 3, Anuvāka 2, Sūkta 26, with a full stop after each number and no closing bracket. The page begins in the middle of the Ṛk quoted by Yāska.
 496	bare tag	so printed, as supplied
 497	running head	Running head, p. 497: "ಅ. ೧. ಅ. ೩. ವ. ೨೬] ಋಗ್ವೇದ ಸಂಹಿತಾ 497", read as: Adhyāya 1, Aṣṭaka 3 (in this order, as printed), Varga 26, Ṛgvedasaṃhitā, and the page number 497, with an unmatched closing bracket after the number 26. The page begins in the middle of the sentence quoted from the Nirukta commentary.
@@ -1017,13 +965,11 @@ printed page	kind	text
 503	bare tag	as supplied
 503	bare tag	as supplied
 504	running head	Running head, p. 504: the page number is printed as 501, where 504 is expected, then Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3, Anuvāka 2, Sūkta 26, with an opening bracket before the number and none before Maṇḍala closed at the end; as supplied.
-504	other remark	The bhāṣya continues from the previous page; the grammatical tail (on शुभ्रं (*śubhraṃ*), मातरिश्वानं (*mātariśvānaṃ*), उक्तं (*uktaṃ*), देवतातये (*devatātaye*), रघुष्यदं (*raghuṣyadaṃ*)) is transcribed in the block, not explained.
 505	running head	Running head, p. 505: Adhyāya and Varga numbers in brackets, then Ṛgveda-saṃhitā and the page number 505, with a stray closing bracket and no opening bracket before the title; as supplied. The page continues the Special Topics of Ṛk 2 from the middle of a sentence on page 504.
 506	running head	Running head, p. 506: the page number, Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3, Anuvāka 2, Sūkta 26, with an opening bracket before the number and another before Maṇḍala; as supplied.
 506	bare tag	so printed; as supplied
 506	bare tag	so printed; as supplied
 506	bare tag	so printed; as supplied
-506	other remark	The block is cut at the end of p. 506 in the middle of a word and goes on on p. 507 in a new block.
 507	running head	Running head, p. 507: Adhyāya and Varga numbers in brackets, then Ṛgveda-saṃhitā and the page number 507, with a stray closing bracket and no opening bracket before the title; as supplied.
 508	running head	Running head, p. 508: the page number, Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3, Anuvāka 2, Sūkta 26, with an opening bracket before the number and another before Maṇḍala; as supplied. The page continues the Special Topics of Ṛk 3 from the middle of a sentence on page 507.
 509	running head	Running head, p. 509: Adhyāya and Varga numbers, then Ṛgveda-saṃhitā and the page number 509, with a stray closing bracket and no opening bracket before the title; the supplied text had it joined to the last line of p. 508, and it was set apart at the page break; as supplied.
@@ -1059,7 +1005,6 @@ printed page	kind	text
 524	running head	Running head, p. 524: the page number, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2, Sūkta 26 in brackets, with a space after the opening bracket and stops after the numerals; as supplied.
 524	bare tag	so printed; as supplied
 525	running head	Running head, p. 525: the Adhyāya, Adhyāya and Varga numbers in brackets, with a space before the closing bracket, then Ṛgveda-saṃhitā and the page number 525 followed by a closing bracket; as supplied.
-525	other remark	The Sāyaṇa-bhāṣya of Ṛk 8 continues from the foot of p. 524; the word broken there is completed at the start of this block.
 526	running head	Running head, p. 526: the page number, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2, Sūkta 26 in brackets; as supplied.
 527	running head	Running head, p. 527: the Adhyāya, Adhyāya and Varga numbers in brackets, with a space before the closing bracket, then Ṛgveda-saṃhitā and the page number 527 followed by a closing bracket; as supplied.
 527	bare tag	so printed
@@ -1153,21 +1098,17 @@ printed page	kind	text
 565	running head	Running head, p. 565: Aṣṭaka 3, Adhyāya 1, Varga 31 in brackets with a space before the closing bracket, then Ṛgvedasaṃhitā and the page number 565 followed by an unmatched closing bracket; as supplied.
 566	running head	Running head, p. 566: the page number 566, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 28 in brackets; as supplied. The grammar of Ṛk 1 goes on from the foot of the preceding page; the word begun there is completed by the first syllable of this page, so the break falls inside a word.
 567	running head	Running head, p. 567: Aṣṭaka 3, Adhyāya 1, Varga 31 in square brackets, then Ṛgvedasaṃhitā and the page number 567 followed by an unmatched closing bracket; as supplied. The bhāṣya block is cut off at the foot of the preceding page in the middle of a sentence and goes on here in a new block.
-567	bare tag	as supplied
 568	running head	Running head, p. 568: the page number 568, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 28 in brackets, with a space after the opening bracket and no full stop after 28; as supplied. The grammar of Ṛk 2 began on the preceding page; the Ṛk 3 begins below.
-568	other remark	The bhāṣya block is cut off at the foot of this page in the middle of the sentence, after the word वीहि (*vīhi*) which begins the grammar; it goes on on the next page in a new block. The gist is given after the whole bhāṣya.
 569	running head	Running head, p. 569: Aṣṭaka 3, Adhyāya 1, Varga 31 in square brackets, then Ṛgvedasaṃhitā and the page number 569 followed by an unmatched closing bracket; as supplied. The bhāṣya of Ṛk 3 goes on here in a new block, after the word that opens the grammar on the preceding page.
 570	running head	Running head, p. 570: the page number 570 preceded by an unmatched opening bracket, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 28 in brackets, without a full stop after 28; as supplied. The grammar of Ṛk 3 goes on from the preceding page; the Ṛk 4 begins below.
 571	running head	Running head, p. 571: Aṣṭaka 3, Adhyāya 1, Varga 31 in square brackets, then Ṛgvedasaṃhitā and the page number 571 followed by an unmatched closing bracket; as supplied. The bhāṣya block of Ṛk 4 was cut off at the foot of the preceding page inside a word (ending with a hyphen) and goes on here in a new block.
 572	running head	Running head, p. 572: the page number 572, then Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 28 in brackets, with a full stop after 28; as supplied. The Special Topics of Ṛk 4 go on from the preceding page: the sentence cut off there inside a word is finished by the first letters of this page.
 573	running head	Running head, p. 573: Aṣṭaka 3, Adhyāya 1, Varga 31 in square brackets, then Ṛgvedasaṃhitā and the page number 573 followed by an unmatched closing bracket; as supplied.
 574	running head	Running head, p. 574: the page number 574, then Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta with a full stop and 28, in brackets; as supplied.
-574	other remark	The text of this window ends here, after the second quotation; the Special Topics of Ṛk 5 go on in the next window.
 575	running head	Running head, p. 575: Aṣṭaka 3, Adhyāya 1, Varga 31 in square brackets with a space before the closing bracket, then Ṛgvedasaṃhitā and the page number 575 followed by an unmatched closing bracket; as supplied. The Special Topics of Ṛk 5 go on from the preceding page: the mantra cited at the foot of that page was followed here by a second mantra.
 575	bare tag	as supplied
 575	bare tag	as supplied
 576	running head	Running head, p. 576: the page number 576, then Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 28 in brackets, the bracket opened with a space; as supplied.
-576	bare tag	as supplied
 576	bare tag	printed so; as supplied
 577	running head	Running head, p. 577: Aṣṭaka 3, Adhyāya 1, Varga 32 in square brackets with a full stop before the closing bracket, then Ṛgvedasaṃhitā and the page number 577 followed by an unmatched closing bracket; as supplied.
 578	running head	Running head, p. 578: the page number 578, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 2 and Sūkta 29 in brackets, the bracket opened with a space and a full stop before the closing bracket; as supplied. The Sanskrit introduction of Sūkta 29 was complete at the end of the preceding page; this page begins with the Kannada Anuvāda.
@@ -1199,7 +1140,6 @@ printed page	kind	text
 591	running head	Running head, p. 591: in square brackets Aṣṭaka 3, Adhyāya 3 and Varga 32 (the head of p. 589 printed Adhyāya 1), then Ṛgvedasaṃhitā and the page number 591 followed by an unmatched closing bracket; as supplied.
 592	running head	Running head, p. 592: the page number 592, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29 with a full stop; as supplied.
 593	running head	Running head, p. 593: Aṣṭaka 3, Adhyāya 1, Varga 33 in square brackets, then Ṛgvedasaṃhitā and the page number 593 followed by an unmatched closing bracket; as supplied.
-593	bare tag	as supplied
 594	running head	Running head, p. 594: the page number 594, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; the bracket is not closed; as supplied.
 595	running head	Running head, p. 595: Aṣṭaka 3, Adhyāya 1, Varga 33 in square brackets, then Ṛgvedasaṃhitā and the page number 595 followed by an unmatched closing bracket; as supplied.
 596	running head	Running head, p. 596: the page number 596, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; the bracket is not closed; as supplied.
@@ -1216,9 +1156,7 @@ printed page	kind	text
 602	bare tag	as supplied
 602	bare tag	as supplied
 602	bare tag	as supplied
-602	other remark	The bhāṣya block ends at the foot of the page in the middle of a word, after the first words of the grammar; it continues on the next page.
 603	running head	Running head, p. 603: Aṣṭaka 3, Adhyāya 1, Varga 33 in square brackets, then Ṛgvedasaṃhitā and the page number 603 followed by an unmatched closing bracket; as supplied.
-603	other remark	The block above continues the bhāṣya of Ṛk 9 from page 602; its first word is the rest of the word broken at the foot of the previous page.
 603	bare tag	printed so, as supplied
 603	bare tag	printed so, as supplied
 604	running head	Running head, p. 604: the page number 604, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; as supplied.
@@ -1228,9 +1166,7 @@ printed page	kind	text
 605	bare tag	as supplied
 605	print form of a reference	Pā. Sū. 8-3-56; printed "Sū-", as supplied
 605	print form of a reference	Pā. Sū. 6-2920, as supplied
-605	other remark	The bhāṣya block ends at the foot of the page in the middle of a word; it continues on the next page.
 606	running head	Running head, p. 606: the page number 606, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; as supplied.
-606	other remark	The block above continues the bhāṣya of Ṛk 10 from page 605; its first word is the rest of the word broken at the foot of the previous page.
 606	bare tag	printed so, as supplied
 606	bare tag	as supplied
 607	running head	Running head, p. 607: Aṣṭaka (printed with a letter that differs from that of the earlier heads, as supplied) 3, Adhyāya 1, Varga 33, in square brackets, then Ṛgvedasaṃhitā and the page number 607 followed by an unmatched closing bracket; as supplied.
@@ -1241,7 +1177,6 @@ printed page	kind	text
 608	bare tag	as supplied
 608	bare tag	as supplied
 608	bare tag	printed so, as supplied
-608	other remark	The bhāṣya block ends at the foot of the page in the middle of a word; it continues on the next page.
 609	running head	Running head, p. 609: Aṣṭaka 3, Adhyāya 1, Varga 34, in square brackets, then Ṛgvedasaṃhitā and the page number 609 followed by an unmatched closing bracket; as supplied.
 609	bare tag	printed so, as supplied
 610	running head	Running head, p. 610: the page number 610, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; as supplied.
@@ -1295,7 +1230,6 @@ printed page	kind	text
 626	bare tag	printed so, as supplied
 626	bare tag	printed so, as supplied
 627	running head	Running head, p. 627: in brackets Aṣṭaka 3, Adhyāya 1, Varga 34, then Ṛgvedasaṃhitā and the page number 627 followed by an unmatched closing bracket; as supplied.
-627	bare tag	as supplied
 628	running head	Running head, p. 628: the page number 628, then Sāyaṇa-bhāṣya-sahitā and, in brackets, Maṇḍala 3, Anuvāka 2, Sūkta 29; as supplied.
 628	bare tag	printed so, as supplied
 628	bare tag	printed so, as supplied
@@ -1306,7 +1240,6 @@ printed page	kind	text
 633	running head	Running head, p. 633: [A. 3, A. 2, Va. 1] Ṛgvedasaṃhitā 638. The page number is printed so in the supplied text, though the page is 633; as supplied [sic].
 634	running head	Running head, p. 634: 634 Sāyaṇabhāṣyasahitā [Maṃ. 3, A. 3, Sū. 30.]
 635	running head	Running head, p. 635: [A. 3, A. 2, Va. 1] Ṛgvedasaṃhitā 635
-635	other remark	The Sanskrit quotation of the Taittirīya Brāhmaṇa begun at the end of page 634 continues here: the word cut off at the end of that page is completed by the first word of this page.
 636	running head	Running head, p. 636: 636 Sāyaṇabhāṣyasahitā [Maṃ. 3, A. 3, Sū. 30]
 637	running head	Running head, p. 637: [A. 3, A. 2, Va. 1 ] Ṛgvedasaṃhitā 637
 638	running head	Running head, p. 638: 638 Sāyaṇabhāṣyasahitā [Maṃ. 3, A. 3, Sū. 30.]
@@ -1319,7 +1252,6 @@ printed page	kind	text
 645	running head	Running head, p. 645: "[ಅ. ೩. ಅ. ೨. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ 645]", as supplied.
 646	running head	Running head, p. 646: "[646 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೩. ಅ. ೩. ಸೂ. ೩೦.]", as supplied.
 647	running head	Running head, p. 647: "[ಅ. ೩. ಅ. ೨. ವ. ೧] ಋಗ್ವೇದಸಂಹಿತಾ 647]", as supplied.
-647	other remark	The word begun at the foot of p. 646 ends at the head of this page; the sentence is translated on p. 646.
 648	running head	Running head, p. 648: "[648 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೩. ಅ. ೩. ಸೂಕ್ತ. ೩೦]", as supplied.
 649	running head	Running head, p. 649: "[ಆ. ೩. ಆ. ೨. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ ೮೪೯]", as supplied. The page number in this head is printed with a first digit that does not agree with the page number.
 650	running head	Running head, p. 650: "[650 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ.೩. ಅ. ೩. ಸೂ. ೩೦.]", as supplied.
@@ -1327,7 +1259,6 @@ printed page	kind	text
 652	running head	Running head, p. 652: Maṇḍala, Anuvāka, Sūkta, Sāyaṇa-bhāṣya-sahitā, with the page number in Latin digits; as supplied, without the closing bracket.
 653	running head	Running head, p. 653: Anuvāka, Adhyāya, Varga, Ṛgveda-saṃhitā, with the page number in Latin digits; as supplied.
 654	running head	Running head, p. 654: Sāyaṇa-bhāṣya-sahitā, Maṇḍala, Anuvāka and Sūkta, with the page number in Latin digits; as supplied, without the closing bracket.
-654	other remark	The text has the words ಆಯಸ (ಉಕ್ಕು), the second word meaning steel.
 655	running head	Running head, p. 655: Anuvāka, Adhyāya, Varga, Ṛgveda-saṃhitā, with the page number in Latin digits; as supplied, with an extra closing bracket at the end.
 656	running head	Running head, p. 656: Sāyaṇa-bhāṣya-sahitā, Maṇḍala, Anuvāka and Sūkta, with the page number in Latin digits; as supplied, without the closing bracket.
 657	running head	Running head, p. 657: Anuvāka 3, Adhyāya 2, Varga 1, Ṛgveda-saṃhitā, with the page number in Latin digits; as supplied, with a stray closing bracket.
@@ -1360,99 +1291,59 @@ printed page	kind	text
 684	bare tag	so printed
 685	running head	Running head, p. 685: in brackets Aṣṭaka 3, Adhyāya 2, Varga 1, then Ṛgvedasaṃhitā and the page number 685 followed by an unmatched closing bracket; as supplied.
 685	bare tag	as printed
-685	other remark	The block ends at the foot of the page in the middle of a word, broken at a hyphen; it continues on the next page.
 686	running head	Running head, p. 686: the page number 686, Sāyaṇa-bhāṣya-sahitā, then in brackets, with a space after the opening bracket, Maṇḍala 3, Anuvāka 3 (printed with a space before the full stop), Sūkta 30; as supplied.
 687	running head	Running head, p. 687: in brackets Aṣṭaka 3, Adhyāya 2, Varga 1, then Ṛgvedasaṃhitā and the page number 687 followed by an unmatched closing bracket; as supplied.
 688	running head	Running head, p. 688: the page number 688, Sāyaṇa-bhāṣya-sahitā, then in brackets, with a space after the opening bracket, Maṇḍala 3, Anuvāka 3, Sūkta 30 followed by a full stop; as supplied.
 689	running head	Running head, p. 689: in brackets Aṣṭaka 3, Adhyāya 2, Varga 1, then Ṛgvedasaṃhitā and the page number 689 followed by an unmatched closing bracket; as supplied.
 690	running head	Running head, p. 690: Sāyaṇabhāṣyasahitā, then Maṇḍala 3, Anuvāka 3 (printed with the long vowel), Sūkta 30, with the page number 690 in front; an opening bracket without a closing one; as supplied.
 691	running head	Running head, p. 691: Aṣṭaka 3, Adhyāya 2, Varga 1 (the opening bracket is replaced by a full stop), then Ṛgvedasaṃhitā and the page number 691 followed by an unmatched closing bracket; as supplied.
-691	bare tag	as supplied
 692	running head	Running head, p. 692: Sāyaṇabhāṣyasahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 30, with the page number 692 in front; an opening bracket without a closing one; as supplied.
 693	running head	Running head, p. 693: in brackets Aṣṭaka 3, Adhyāya 2, Varga 2 (the closing bracket stands after a space), then Ṛgvedasaṃhitā and the page number 693 followed by an unmatched closing bracket; as supplied.
 694	running head	Running head, p. 694: the page number is printed as 594 instead of 694, followed by Sāyaṇabhāṣyasahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 30 in brackets, with a second opening bracket in front; as supplied.
 695	running head	Running head, p. 695: in brackets Aṣṭaka 3, Adhyāya 2, Varga 2, then Ṛgvedasaṃhitā and the page number 695 followed by an unmatched closing bracket; as supplied.
-695	bare tag	as supplied
 696	running head	Running head, p. 696: the page number 696, then Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30. The bracket opened before the page number is not closed; as supplied.
-696	other remark	Ṛk 8, Sāyaṇa-bhāṣya, continued from page 695: the grammar of kuṇāru begins on page 695 with its first syllables and is continued here from शब्दने (*śabdane*) onward.
-696	other remark	Gist of the grammar: the form of kuṇāru is explained as irregular (bāhulaka) and accented on the first syllable; जघंथ (*jaghaṃtha*) is the perfect, second person singular, of the root हन (*hana*), with the reduplication changed by rule and the augment iṭ forbidden. The sūtras are not numbered in the print.
 697	running head	Running head, p. 697: in brackets Aṣṭaka 3, Adhyāya 2, Varga 2, then Ṛgvedasaṃhitā and the page number 697 followed by an unmatched closing bracket; as supplied.
-697	bare tag	as supplied
-697	bare tag	as supplied
 698	running head	Running head, p. 698: the page number 698 and Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30; the bracket opened before the page number is not closed; as supplied.
-698	other remark	Ṛk 9, Pratipadārtha, continued from page 697.
-698	other remark	Gist so far: Vala is the cloud, the cowpen of Vāc (speech); before Indra's blow it was afraid and burst open; then Indra, to send out the waters, made the paths easy.
 699	running head	Running head, p. 699: in brackets Aṣṭaka 3, Adhyāya 2, Varga 2, then Ṛgvedasaṃhitā and the page number 699; the bracket is closed after the Varga number and a second closing bracket stands after the page number; as supplied.
-699	other remark	Ṛk 10, Pratipadārtha:
 700	running head	Running head, p. 700: the page number 700 and Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30.
-700	other remark	Ṛk 10, Bhāvārtha, continued from page 699.
 701	running head	Running head, p. 701: in brackets Aṣṭaka 3, Adhyāya 2, Varga 3, then Ṛgvedasaṃhitā and the page number 701; a closing bracket stands after the page number without an opening one, as supplied.
-701	other remark	Ṛk 11, Pratipadārtha, continued from page 700.
-701	other remark	Gist so far: हर्यश्व (*haryaśva*) is Indra, whose two bay horses these are; the directions assigned by him for the sun's daily going are not violated by the sun, who goes by them; the text breaks off at the end of the window, before the end of the bhāṣya, and the rest follows in the next window.
 702	running head	Running head, p. 702: the page number 702 and Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30; an opening bracket stands before the page number and a closing one after the Sūkta number, as supplied.
-702	other remark	Ṛk 12, Sāyaṇa-bhāṣya, continued from page 701; it follows directly on the last words of that page.
-702	other remark	Gist, continued: all this, the sun's going by the directions assigned to him and the unyoking of his horses, is the work of Indra alone. Grammar of the bhāṣya: the words सूर्यः (*sūryaḥ*), हर्यश्वप्रसूताः (*haryaśvaprasūtāḥ*), मिनाति (*mināti*) and आनट् (*ānaṭ*) are analysed (root, suffix, shortening, accent).
 703	running head	Running head, p. 703: in brackets Aṣṭaka 3, Adhyāya 2, Varga 3, then Ṛgvedasaṃhitā and the page number 703; a closing bracket stands after the page number without an opening one, as supplied.
-703	bare tag	as supplied
-703	bare tag	as supplied
 704	running head	Running head, p. 704: the page number 704 and Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30; an opening bracket stands before the page number and a closing one after the Sūkta number, as supplied.
-704	other remark	A line-end hyphen in the last word of the Saṃhitā (भोजनाय (*bhojanāya*)) and of the Pada-pāṭha (भोजनाय (*bhojanāya*)) has been joined in the Kannada file.
-704	bare tag	as supplied
 705	running head	Running head, p. 705: in brackets Aṣṭaka 3, Adhyāya 2, Varga 3, then Ṛgvedasaṃhitā and the page number 705; a closing bracket stands after the page number, and the bracketed part before it is closed, as supplied.
-705	other remark	Gist (bhāṣya continues on the next page): Indra is told to be firm, since demons block the path, to give the desired fruit to the sacrificer and his friends, and to slay the enemies with evil weapons.
 706	running head	Running head, p. 706: the page number 706 and Sāyaṇabhāṣyasahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30; an opening bracket stands before the page number and another before Maṇḍala, with one closing bracket after the Sūkta number, as supplied.
 707	running head	Running head, p. 707: in brackets Aṣṭaka 3, Adhyāya 2, Varga 4, then Ṛgvedasaṃhitā and the page number 707; a closing bracket stands after the page number, as supplied.
-707	other remark	The text of this window ends with the first line of the Saṃhitā of this Ṛk.
 708	running head	Running head, p. 708: Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 30, in brackets; the opening bracket stands before the abbreviation for Maṇḍala and the running head begins with a stray bracket, as supplied.
 708	process remark	The Saṃhitā of this Ṛk is continued from the previous page: this is its second line, with the Ṛk number.
-708	bare tag	as supplied
 709	running head	Running head, p. 709: in brackets, with a stray full stop before the first abbreviation, Aṣṭaka 3, Adhyāya 2, then a sign that stands where the abbreviation for Varga would be, the number 4, a bracket, then Ṛgvedasaṃhitā and the page number 709; the closing bracket stands after the page number, as supplied.
 710	running head	Running head, p. 710: Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, a sign printed where the abbreviation for Anuvāka stands elsewhere (printed with a long first vowel), 3, and Sūkta 30; as supplied.
-710	other remark	The text of this window ends in the middle of the bhāṣya of this Ṛk, at the end of a line with a line-end hyphen; the bhāṣya continues on the next page.
 711	running head	Running head, p. 711: in brackets Aṣṭaka 3, Adhyāya 2, Varga 4, then Ṛgvedasaṃhitā and the page number 711; a closing bracket stands after the page number although none was opened there, as supplied.
-711	bare tag	as supplied
 712	running head	Running head, p. 712: the page number comes first, then Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 30; a stray opening bracket stands before the page number, as supplied.
-712	bare tag	as supplied
 713	running head	Running head, p. 713: in brackets Aṣṭaka 3, Adhyāya 2, Varga 4 with a full stop after the number, a closing bracket, then Ṛgvedasaṃhitā and the page number 713; a closing bracket stands after the page number, as supplied.
-713	bare tag	as supplied
 713	process remark	The window ends here, with the last entry of this Pratipadārtha as far as it stands on the page; a stray line consisting of the number 90 follows in the supplied text and is kept as supplied. The word for "for our convenience" is spelled with an unusual consonant cluster, and the first word of the entry for "squeeze" is split into a separate letter, as supplied.
 714	running head	Running head, p. 714: the page number 714, Sāyaṇa-bhāṣya-sahitā, then in brackets, with a space after the opening bracket, Maṇḍala 3, Anuvāka 2, Sūkta 30; the anuvāka number is printed 2 here although the introduction of the sūkta names the third anuvāka; as supplied.
-714	other remark	The Pratipadārtha of Ṛk 21 was complete at the end of the previous page; this page begins with the Bhāvārtha of Ṛk 21.
 715	running head	Running head, p. 715: in brackets Aṣṭaka 3, Adhyāya 2, Varga 5, then Ṛgvedasaṃhitā and the page number 715 followed by a closing bracket with no opening bracket before it; as supplied.
-715	other remark	This page continues the bhāṣya of Ṛk 22 from the previous page; no word is broken at the page boundary.
-715	bare tag	as supplied
 716	running head	Running head, p. 716: the page number is printed 616 where 716 is expected, then Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3 (printed without a full stop after the 3), Sūkta 31; the supplied text placed the marker for page 717 here by mistake, corrected to 716 in the repair log (pages 714 to 717 follow one another); as supplied.
-716	other remark	This page continues the introduction of the sūkta from the previous page.
 716	bare tag	so printed
 716	bare tag	as printed
 717	running head	Running head, p. 717: it stood inside the Saṃhitā block of the supplied text; it is kept as a line of its own. A full stop stands in place of the opening bracket, then Aṣṭaka 3, Adhyāya 2, Varga 5, a closing bracket, then the word Ṛgveda-saṃhitā with its first letter printed as a different letter, and the page number 717; as supplied.
-717	bare tag	as supplied
 718	running head	Running head, p. 718: the page number 718, Sāyaṇa-bhāṣya-sahitā, then, after an opening bracket and a space, Maṇḍala 3, Anuvāka 3, Sūkta 31; as supplied.
-718	other remark	This page begins with the Pratipadārtha of Ṛk 1; the Saṃhitā, Pada and Sāyaṇa-bhāṣya of Ṛk 1 were given on the previous pages.
 719	running head	Running head, p. 719: Aṣṭaka 3, Adhyāya 2, Varga 5 in brackets, then Ṛgvedasaṃhitā and the page number 719; the opening bracket is the one that opens the head line; as supplied.
-719	other remark	The sentence continues from the previous page.
 720	running head	Running head, p. 720: the page number 720, Sāyaṇa-bhāṣya-sahitā, then, after an opening bracket and a space, Maṇḍala 3, Anuvāka 3 (a comma printed after the anuvāka number), Sūkta 31, a full stop and a closing bracket; as supplied.
 720	bare tag	as supplied
-720	other remark	The Special Topics are not concluded on this page; the section continues on the next page.
 721	running head	Running head, p. 721: in brackets Aṣṭaka 3, Adhyāya 2, Varga 5, with a space before the closing bracket, then Ṛgvedasaṃhitā and the page number 721 followed by a closing bracket with no opening bracket before it; as supplied.
-721	other remark	The Special Topics of Ṛk 1 continue from the previous page; the paragraph begins in the middle of the argument.
 722	running head	Running head, p. 722: the page number 722, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 31, with a full stop after the word for "Sūkta"; as supplied.
 723	running head	Running head, p. 723: in brackets Aṣṭaka 3, Adhyāya 2, Varga 5, then Ṛgvedasaṃhitā and the page number 723 followed by a closing bracket with no opening bracket before it; as supplied.
 724	running head	Running head, p. 724: the page number 724, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 31 in brackets, with an opening bracket followed by a space and a full stop after the Sūkta number, and no closing bracket before the closing mark; as supplied.
-724	bare tag	as supplied
 725	running head	Running head, p. 725: in brackets Aṣṭaka 3, Adhyāya 2, Varga 5, with a space before the closing bracket, then Ṛgvedasaṃhitā and the page number 725 followed by a closing bracket with no opening bracket before it; as supplied.
 726	running head	Running head, p. 726: the page number 726 first, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 31 in brackets, with a bracket opened before the page number and not closed; as supplied.
-726	bare tag	as supplied
 727	running head	Running head, p. 727: in brackets Aṣṭaka 3, Adhyāya 2, Varga 6, then Ṛgvedasaṃhitā and the page number 727 followed by a closing bracket with no opening bracket before it; as supplied. This page begins with the Saṃhitā of Ṛk 6; Ṛk 5 has no Special Topics in the supplied text.
-727	bare tag	as supplied
 728	running head	Running head, p. 728: the page number 728 first, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 31 in brackets, with a bracket opened before the page number and not closed, and a full stop before the closing bracket; as supplied.
 729	running head	Running head, p. 729: in the supplied text this line stood inside the bhāṣya block (logged); it reads a full stop, Aṣṭaka 3, Adhyāya 2, Varga 6 and a closing bracket with no opening bracket, then ಮಗ್ವೇದಸಂಹಿತಾ (with ಮ where ಋ is expected) and the page number 729; as supplied.
-729	bare tag	as supplied
 730	running head	Running head, p. 730: the page number 730 first, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 31 in brackets, with a bracket opened before the page number and not closed; the Anuvāka sign is printed with a different vowel letter from the earlier heads; as supplied.
 731	running head	Running head, p. 731: in brackets Aṣṭaka 3, Adhyāya 2, Varga 6, then Ṛgvedasaṃhitā and the page number 731 followed by a closing bracket with no opening bracket before it; as supplied. This page begins with the Pratipadārtha of Ṛk 8, continuing from the previous window.
 732	running head	Running head, p. 732: the page number 732 first, Sāyaṇa-bhāṣya-sahitā, then Maṇḍala 3, Anuvāka 3, Sūkta 31 in brackets, with a bracket opened before the page number and not closed, and a space before the full stop after Anuvāka 3; as supplied.
 733	running head	Running head, p. 733: in brackets Aṣṭaka 3, Adhyāya 2, Varga 6, then Ṛgvedasaṃhitā and the page number 733 followed by a closing bracket with no opening bracket before it; the first letter of the Aṣṭaka sign is printed with a different vowel letter from the head of p. 731; as supplied.
-733	bare tag	as supplied
 734	running head	Running head, p. 734: the page number 734 first, Sāyaṇa-bhāṣya-sahitā, then, in brackets, Maṇḍala 3, Anuvāka 3, Sūkta 31, with a space after the opening bracket and a comma after the first 3 (as supplied). This page begins in the middle of the Pratipadārtha of Ṛk 10, continuing from the previous window; the first entry on this page is for a new word, and no continuation of the entry that ended the previous window appears at the head of the page in the supplied text.
 735	running head	Running head, p. 735: in brackets Aṣṭaka 3, Adhyāya 2, Varga 7, then Ṛgvedasaṃhitā and the page number 735 followed by a closing bracket with no opening bracket before it; as supplied. The bhāṣya of Ṛk 11 is cut by the page break in the middle of a sentence; the part after the break forms a second block.
 736	running head	Running head, p. 736: the page number 736 first, Sāyaṇa-bhāṣya-sahitā, then, in brackets, Maṇḍala 3, Anuvāka 3, Sūkta 31 (no space after the opening bracket this time); as supplied.
@@ -1471,12 +1362,9 @@ printed page	kind	text
 746	running head	Running head, p. 746: the page number 746, Sāyaṇa-bhāṣya-sahitā, then, in brackets, Maṇḍala 3, Anuvāka 3, Sūkta 31; in the supplied text the line begins with an opening bracket before the page number; as supplied. This page begins with the rest of the Bhāvārtha of Ṛk 19, continuing from the end of printed page 745 (previous window).
 746	bare tag	letters as supplied, not changed
 747	running head	Running head, p. 747: in brackets Aṣṭaka 3, Adhyāya 2, Varga 8, then Ṛgvedasaṃhitā and the page number 747, the closing bracket at the end of the line; as supplied. The Pratipadārtha of Ṛk 20 is cut by the page break after the entry for the waters; the entries after it follow here.
-747	other remark	Several words of the Pratipadārtha and the Bhāvārtha are broken across line ends and are joined here.
 748	running head	Running head, p. 748: the page number 748, Sāyaṇa-bhāṣya-sahitā, then, in brackets, Maṇḍala 3, Anuvāka 3, Sūkta 31; the opening bracket stands before the page number; as supplied. The bhāṣya of Ṛk 21 is cut by the page break in the middle of a sentence; the part after the break forms a second block.
 748	bare tag	letters as supplied, not changed
-748	other remark	Several words of the Pratipadārtha and the Bhāvārtha are broken across line ends and are joined here.
 749	running head	Running head, p. 749: in brackets Aṣṭaka 3, Adhyāya 2, Varga 8, then Ṛgveda-saṃhitā and the page number 749, with a closing bracket at the end of the line that has no opening bracket; as supplied. This page begins with the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English of Ṛk 22 of Sūkta 31, continuing from the end of printed page 748 (previous window; the Saṃhitā and Pada of this Ṛk were given there).
-749	other remark	Several words of the Pratipadārtha and the Bhāvārtha are broken across line ends and are joined here.
 750	running head	Running head, p. 750: the page number 750, Sāyaṇa-bhāṣya-sahitā, then, in brackets, Maṇḍala 3, Anuvāka 3, Sūkta 32; the opening bracket stands after the words Sāyaṇa-bhāṣya-sahitā and a space follows it; as supplied. The Anuvāda and the Sāyaṇa-bhāṣya of Ṛk 1 are cut by the page break.
 750	bare tag	so printed
 750	bare tag	so printed
@@ -1487,22 +1375,17 @@ printed page	kind	text
 752	running head	Running head, p. 752: the page number 752, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied. The page begins with the Pada-pāṭha of Ṛk 2; its Saṃhitā-pāṭha stands at the end of the previous page.
 752	bare tag	letters as supplied, not changed
 752	bare tag	as supplied
-752	other remark	Words broken across line ends are joined here.
 753	running head	Running head, p. 753: the abbreviations for Aṣṭaka 3, Adhyāya 2 and Varga 9, in brackets, then Ṛgveda-saṃhitā and the page number printed as 758 with a closing bracket at the end; as supplied (the page is the one after 752 and before 754).
 753	bare tag	as supplied
 754	running head	Running head, p. 754: the page number 754, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied. The page begins with the printed English of Ṛk 3.
 754	bare tag	letters as supplied, not changed
 755	running head	Running head, p. 755: the abbreviations for Aṣṭaka 3, Adhyāya 2 and Varga 9, in brackets, then Ṛgveda-saṃhitā and the page number 755; as supplied. The page begins with the rest of the Pratipadārtha of Ṛk 4, whose last entry was cut by the end of the previous page inside a word; the remainder of that word, मानस्य (*mānasya*), is the first word of this page (the break across the page boundary is kept as printed).
-755	other remark	The gloss of the second entry is broken across a line end and is joined here.
-755	other remark	Words broken across line ends are joined here.
 756	running head	Running head, p. 756: the page number 756, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied.
 756	bare tag	letters as supplied, not changed
-756	bare tag	as supplied
 757	running head	Running head, p. 757: the abbreviations for Aṣṭaka 3, Adhyāya 2 and Varga 10, in brackets, then Ṛgveda-saṃhitā and the page number 757; as supplied. The page begins with the Sāyaṇa-bhāṣya of Ṛk 6; two empty lines stand after the head.
 757	bare tag	letters as supplied, not changed
 758	running head	Running head, p. 758: the page number 758, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied.
 758	bare tag	letters as supplied, not changed
-758	bare tag	as supplied
 759	running head	Running head, p. 759: in brackets Aṣṭaka 3, Adhyāya 2 (printed as Ā. 2) and Varga 10, then Ṛgveda-saṃhitā and the page number 759; as supplied. The page begins in the middle of the Pratipadārtha of Ṛk 7.
 760	running head	Running head, p. 760: the page number 760, then ಸಾಯಣಭಾವ್ಯಸಹಿತಾ (with the letters ವ್ಯ where Sāyaṇa-bhāṣya-sahitā would have ಷ್ಯ; as supplied), then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32. In the supplied text this head stands in the middle of the bhāṣya block, after the word इंद्रस्य (*iṃdrasya*) ; the head line and the page marker were inserted at that place and the block split (logged). The bhāṣya continues here.
 760	bare tag	as supplied, not changed
@@ -1511,7 +1394,6 @@ printed page	kind	text
 762	running head	Running head, p. 762: the page number 762, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied.
 762	process remark	The grammar tail treats the forms of the words for "firmament", अविवेशीः (*aviveśīḥ*) and कारुधायाः (*kārudhāyāḥ*) with roots, suffixes and accents and is transcribed, not explained. Printed oddities kept: the sūtra quoted in the bhāṣya reads त्वाहिष्टे (*tvāhiṣṭe*) where the Special Topics print त्वाहिघ्ने (*tvāhighne*); the bhāṣya has द्यावापृथिव्यावानिवेशीर्ह (*dyāvāpṛthivyāvāniveśīrha*) (as supplied, not changed); the grammar tail has the group विशेषेणौम (*viśeṣeṇauma*) and उण्रत्ययः (*uṇratyayaḥ*). Line-end hyphens inside the blocks are joined (logged). The reference "Ā. 9-5" is broken across a line end in the block.
 763	running head	Running head, p. 763: in brackets Aṣṭaka 3, Adhyāya 2 and Varga 11 (printed with a stray full stop at the start and no stop after the abbreviation for Varga), then Ṛgveda-saṃhitā and the page number 763; as supplied.
-763	other remark	Words broken across line ends in the Bhāvārtha are joined here.
 764	running head	Running head, p. 764: the page number 764, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32; as supplied. In the supplied text the bhāṣya of Ṛk 11 breaks off at a line end on p. 763 (the last word is broken with a hyphen) and goes on below this head. The last words of p. 763 and the first of p. 764 are joined and moved below the head, and the block is split at the page break (logged).
 764	process remark	The grammar tail treats the forms of the words for "slew", "Ahi", "being mighty", "exceedingly great", "became", "with the hip", "earth" and "you cover" with roots, suffixes and accents and is transcribed, not explained. Printed oddities kept: हन हिंसागत्योः! (*hana hiṃsāgatyoḥ!*) and स्फिग्या ! (*sphigyā !*) with an exclamation mark; इण्तृयः (*iṇtṛyaḥ*); जित्त्वादात्मनेपदं (*jittvādātmanepadaṃ*); the bhāṣya has कट्प्या (*kaṭpyā*) (as supplied, not changed). Line-end hyphens inside the blocks are joined (logged).
 765	running head	Running head, p. 765: in brackets Aṣṭaka 3, Adhyāya 2 and Varga 11, then Ṛgveda-saṃhitā and the page number 765; as supplied (the closing bracket after the number has no opening bracket before the title).
@@ -1524,110 +1406,70 @@ printed page	kind	text
 769	running head	Running head, p. 769: in brackets Aṣṭaka 3, Adhyāya 2 and Varga 11, then Ṛgveda-saṃhitā and the page number 769; as supplied (the closing bracket after the number has no opening bracket before the title). This window begins in Sūkta 32 (Maṇḍala 3) with Ṛk 15.
 769	process remark	The grammar tail treats the forms of the words for "full", "svāhā", "like a pourer", "I pour", "for drinking" and "they gathered" with roots, suffixes and accents and is transcribed, not explained. Line-end hyphens inside the block are joined (logged).
 770	running head	Running head, p. 770: the page number 770, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32 (the opening bracket is followed by a space); as supplied.
-770	other remark	Words broken across line ends are joined here.
 771	running head	Running head, p. 771: in brackets Aṣṭaka 3, Adhyāya 2 and Varga 11, then Ṛgveda-saṃhitā and the page number 771; as supplied (the closing bracket after the number has no opening bracket before the title). The bhāṣya of Ṛk 16 breaks off at the end of p. 770 inside a word (the last word of the block ends with a hyphen) and goes on after this head; the break is kept as supplied.
 771	process remark	The grammar tail treats the forms of the words for "deep", "ocean", "being", "they obstruct", "you broke" and "relating to a cow" with roots, suffixes and accents, cites an Uṇādi sūtra and is transcribed, not explained. Printed oddities kept: the bhāṣya has पुरूहुतेंद्र (*purūhuteṃdra*) where the Pada has पुरुहूत (*puruhūta*), and दृश्यं चिदतिप्रबलमपि (*dṛśyaṃ cidatiprabalamapi*) where the Pada has दृळ्हं (*dṛḷhaṃ*); it has an exclamation mark in place of a danda after अरुजः (*arujaḥ*); and the group यत् . यतोऽनावॆ (*yat . yato 'nāvè*) with a full stop. Line-end hyphens inside the block are joined (logged).
-771	other remark	Words broken across line ends are joined here.
 772	running head	Running head, p. 772: the page number 772, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 32 (a space stands before the opening bracket); as supplied. This page continues Ṛk 17 of Sūkta 32 (Maṇḍala 3); its Saṃhitā stands on the previous page.
 772	process remark	The grammar tail treats the forms of the words for "swollen", "we call", "battle", "winning of food", "in battles", "slaying" and "conquering" with roots, suffixes and accents and is transcribed, not explained. Printed oddities kept: the bhāṣya has आस्मिन्भरे (*āsminbhare*) with a long initial vowel where the Pada has अस्मिन् (*asmin*); समत्तु (*samattu*) in the paraphrase and समत्सु (*samatsu*) in the grammar; the garbled group टुओश्वि (*ṭuośvi*); an exclamation mark in place of a danda after प्रतिषेधः (*pratiṣedhaḥ*); and the odd form समग्भेतारं (*samagbhetāraṃ*). Line-end hyphens inside the block are joined (logged).
-772	other remark	A word of the Pratipadārtha is broken across a line end (the Kannada word for "battle") and is joined here.
-772	other remark	The Bhāvārtha is cut by the page break inside a word: the page ends with ಮಾರ್ಗ, a head follows, and the word is completed after the head with ದರ್ಶಕನೂ. The sentence is divided here at the same place; the meaning of the whole word is "guide".
 773	running head	Running head, p. 773: in brackets Aṣṭaka 3, Adhyāya 2 (printed with a long first vowel, as supplied) and Varga 12, then Ṛgveda-saṃhitā and the page number 773 (the closing bracket after the number has no opening bracket before the title); as supplied.
 774	running head	Running head, p. 774: the page number 774, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33 (printed without full stops after the numbers 3); as supplied.
 775	running head	Running head, p. 775: in brackets Aṣṭaka 3, Adhyāya 2 and Varga 12, then Ṛgveda-saṃhitā and the page number 775. In the supplied text this head stands inside the text of page 774, after the reference above; the page marker was inserted there (logged). The head begins with a stray full stop and the Kannada word for Ṛgveda is misspelt (ಮಗ್ವೇದಸಂಹಿತಾ); as supplied.
 776	running head	Running head, p. 776: the page number 776, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33 (the opening bracket stands after the words Sāyaṇa-bhāṣya-sahitā and a space follows it); as supplied. This page continues the Kannada translation of Sūkta 33 begun on the previous page; the paragraph numbers are printed at the ends of the paragraphs, and the speakers are named at the beginning of the paragraphs by the supplied text.
 777	running head	Running head, p. 777: after a stray full stop, in brackets Aṣṭaka 3, Adhyāya 2 and Varga 12 (no full stop after the word for Varga), then Ṛgveda-saṃhitā and the page number 777. As supplied.
 778	running head	Running head, p. 778: the page number 778, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33 (the opening bracket stands after the words Sāyaṇa-bhāṣya-sahitā and a space follows it); as supplied. The continuation of the bhāṣya forms a block of its own after the head.
-778	bare tag	as supplied
 778	bare tag	as printed
 778	bare tag	as supplied
 779	running head	Running head, p. 779: in brackets Aṣṭaka 3, Adhyāya 2, Varga 12 (a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 779; as supplied. The Saṃhitā of Ṛk 1 continues here from the previous page with its second line, the Ṛk number being printed at its end.
-779	bare tag	as supplied
 780	running head	Running head, p. 780: the page number 780, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33 (a space after the opening bracket; the bracket is not closed before the final full stop); as supplied.
 781	running head	Running head, p. 781: in brackets Aṣṭaka 3, Adhyāya 2, Varga 12 (a full stop before the closing bracket), then Ṛgveda-saṃhitā and the page number 781 followed by a stray closing bracket; as supplied.
-781	bare tag	as supplied
 782	running head	Running head, p. 782: the page number 782, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33, followed by a hyphen before the closing bracket; as supplied.
-782	bare tag	as supplied
 783	running head	Running head, p. 783: in brackets Aṣṭaka 3, Adhyāya 2, Varga 12 (a full stop before the closing bracket), then Ṛgveda-saṃhitā and the page number 783 followed by a stray closing bracket; as supplied. The Bhāvārtha of Ṛk 3 continues from page 782 at the beginning of this page; see above. There the words ಳಾತ ಮಾತಿಯಾಗಿದ್ದಾಳೆ follow the word for "foremost" and are of doubtful form in the print; the sense is translated as "the foremost mother"; as supplied.
-783	bare tag	as supplied
 783	bare tag	as supplied
 783	bare tag	as supplied
 784	running head	Running head, p. 784: the page number 784, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Ā. 3 (printed with a long vowel, in the position where the other heads have Anuvāka), Sūkta 33; as supplied.
 785	running head	Running head, p. 785: in brackets Aṣṭaka 3, Adhyāya 2, Varga 12, then Ṛgveda-saṃhitā and the page number 785 followed by a stray closing bracket; as supplied. A stray line with the number 99 stands at the end of this page; it is kept as an italic note in the Kannada file.
-785	bare tag	as supplied
 786	running head	Running head, p. 786: the page number 786, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33; as supplied. The printed English of Ṛk 5 continues at the top of this page; see above.
-786	other remark	The block is continued on page 787 (the break falls between the words, after the word for "impulse" in the grammar).
 787	running head	Running head, p. 787: in brackets Aṣṭaka 3, Adhyāya 2, Varga 13, then Ṛgveda-saṃhitā and the page number 787 followed by a stray closing bracket; as supplied.
-787	other remark	Continuation of the Sāyaṇa-bhāṣya of Ṛk 6 from page 786.
-787	bare tag	as supplied
 788	running head	Running head, p. 788: the page number 788, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Ā. 3 (printed with a long vowel, in the position where the other heads have Anuvāka), Sūkta 33; as supplied. The Sāyaṇa-bhāṣya of Ṛk 7 continues from page 787, where the Saṃhitā, Pada and the first part of the bhāṣya stand; the label is repeated at the top of this page.
-788	bare tag	as supplied
-788	other remark	The gloss of the second word ends with the linking word meaning "namely" and runs on into the next entry (the deed that is the "killing"); translated as it stands.
 789	running head	Running head, p. 789: in brackets Aṣṭaka 3, Adhyāya 2, Varga 13 (a stray closing bracket follows the number of the Varga), then Ṛgveda-saṃhitā and the page number 789 followed by a stray closing bracket; as supplied.
-789	bare tag	as supplied
 790	running head	Running head, p. 790: the page number 790, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33; as supplied. The Pratipadārtha of Ṛk 8 continues from page 789 in the middle of a word.
-790	other remark	Pratipadārtha of Ṛk 8, continued from page 789.
 791	running head	Running head, p. 791: Aṣṭaka 3, Adhyāya 2, Varga 13 in brackets, then Ṛgveda-saṃhitā and the page number 791 followed by a stray closing bracket; as supplied.
 792	running head	Running head, p. 792: the page number 792, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33; as supplied.
-792	bare tag	as supplied
 793	running head	Running head, p. 793: Aṣṭaka 3, Adhyāya 2, Varga 14 in brackets, then Ṛgveda-saṃhitā and the page number 793 followed by a stray closing bracket; as supplied.
 794	running head	Running head, p. 794: the page number 794, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33; as supplied.
-794	other remark	The Sāyaṇa-bhāṣya of Ṛk 11 begins here; the Saṃhitā and Pada of this Ṛk stand at the end of page 793.
-794	bare tag	as supplied
 795	running head	Running head, p. 795: Aṣṭaka 3, Adhyāya 2, Varga 14 in brackets, then Ṛgveda-saṃhitā and the page number 795 followed by a stray closing bracket; as supplied.
-795	bare tag	as supplied
 796	running head	Running head, p. 796: the page number 796, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 33; as supplied.
 797	running head	Running head, p. 797: in brackets the Aṣṭaka mark (printed with the letter for "Ā" in place of "A"), Adhyāya 2 and Varga 14, then Ṛgveda-saṃhitā and the page number 797, with a closing bracket at the end; as supplied.
-797	bare tag	as supplied
 798	running head	Running head, p. 798: the page number 798, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 34 (full stops after the numbers, a space after the opening bracket); as supplied.
 798	bare tag	as printed
 799	running head	Running head, p. 799: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 14, then Ṛgveda-saṃhitā (the first letter of the Kannada word for Ṛgveda is misprinted) and the page number 799, with a closing bracket at the end; it stands in the middle of the Saṃhitā block in the supplied text and is moved out (logged). Before the second line of the Saṃhitā the supplied text has a stray line with the word for a Kannada periodical and two numbers; kept as an italic line in the Kannada file. The data of this sūkta say Varga 15 and 16, the head says Varga 14; as supplied.
-799	bare tag	as supplied
 800	running head	Running head, p. 800: the page number 800, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 34 (no full stops after the numbers, one at the end); as supplied. The Pratipadārtha of Ṛk 1 is cut by the page break inside a word.
 801	running head	Running head, p. 801: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 15, then Ṛgveda-saṃhitā and the page number 801, with a closing bracket at the end; as supplied. The list of Special Topics of Ṛk 1 continues from page 800. The supplied text has a stray "1." before the item (2); as supplied.
-801	other remark	The Special Topics of Ṛk 1 end here; no grammar page follows.
 802	running head	Running head, p. 802: the page number 802, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 34 (full stops after the numbers); as supplied. The bhāṣya of Ṛk 2 is cut by the page break inside the word ಇತ್ಪರಃ: its beginning stands at the end of page 801 and its last letter group at the top of page 802; joined here in the second block (logged).
-802	bare tag	as supplied
 803	running head	Running head, p. 803: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 15, then Ṛgveda-saṃhitā and the page number 803, with a closing bracket at the end; as supplied.
-803	bare tag	as supplied
 804	running head	Running head, p. 804: the page number 804, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Adhyāya 3 (Anuvāka) and Sūkta 34 (full stops after the numbers; as printed, the head is not closed by the same bracket); as supplied.
-804	bare tag	as supplied
 805	running head	Running head, p. 805: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 15, then Ṛgveda-saṃhitā and the page number 805, with a closing bracket at the end; as supplied.
 806	running head	Running head, p. 806: the page number 806, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Adhyāya 3 (Anuvāka) and Sūkta 34 (no full stops after the numbers); as supplied. The bhāṣya of Ṛk 5 runs on over the page break; the page marker stands between two blocks.
-806	bare tag	as supplied
 807	running head	Running head, p. 807: in brackets the Aṣṭaka mark with the number 3, Adhyāya 2 and Varga 16, then Ṛgveda-saṃhitā and the page number 807, with a second closing bracket at the end; as supplied.
-807	bare tag	as supplied
 808	running head	Running head, p. 808: the page number 808, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Adhyāya 3 (Anuvāka) and Sūkta 34 (full stops and a comma after the numbers, a space after the opening bracket; no closing bracket stands before the next line); as supplied. The Bhāvārtha of Ṛk 6 breaks off at the page end inside a word; the rest of the word and the sentence stand below the head.
-808	bare tag	as supplied
 809	running head	Running head, p. 809: in brackets the Aṣṭaka mark with the number 3, Adhyāya 2 and Varga 16, then Ṛgveda-saṃhitā and the page number 809, with a second closing bracket at the end; both abbreviation marks are printed with a long vowel instead of the usual short one; as supplied.
 810	running head	Running head, p. 810: the page number 810, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Adhyāya 3 (Anuvāka) and Sūkta 34 (no full stops after the numbers); as supplied.
 811	running head	Running head, p. 811: in brackets the Aṣṭaka mark with the number 3, Adhyāya 2 and Varga 16, then Ṛgveda-saṃhitā and the page number 811, with a second closing bracket at the end; as supplied.
-811	bare tag	as supplied
-811	other remark	The Saṃhitā of this Ṛk is split by the page break: its first line closes page 811 and its second line opens page 812. The two lines are joined into one block (logged) and the heading and running head of page 812 follow below it.
 812	running head	Running head, p. 812: the page number 812, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Adhyāya 3 (Anuvāka) and Sūkta 34 (a space after the opening bracket and full stops after the numbers; as supplied).
-812	bare tag	as supplied
 813	running head	Running head, p. 813: in brackets the Aṣṭaka mark with the number 3, Adhyāya 2 and Varga 16, then Ṛgveda-saṃhitā and the page number 813, with a second closing bracket at the end; as supplied.
-813	bare tag	as supplied
 814	running head	Running head, p. 814: the page number 814, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (a space after the opening bracket, full stops after the numbers); as supplied. The head names Sūkta 35, although the end of Sūkta 34 still stands at the top of this page.
 815	running head	Running head, p. 815: in brackets the Aṣṭaka mark (printed with the long-vowel letter and without the full stop), Adhyāya 2 and Varga 17, then Ṛgveda-saṃhitā and the page number 815, with a closing bracket at the end; as supplied.
 815	bare tag	as printed
 816	running head	Running head, p. 816: the page number 816, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (a space after the opening bracket, full stops after the numbers); as supplied.
-816	bare tag	as supplied
 817	running head	Running head, p. 817: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 17 (full stops after the numbers), then Ṛgveda-saṃhitā and the page number 817, with a closing bracket at the end; as supplied.
-817	bare tag	as supplied
 818	running head	Running head, p. 818: the page number 818, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (a space after the opening bracket, full stops after the numbers); as supplied.
-818	bare tag	as supplied
 819	running head	Running head, p. 819, merged into the text of the Pratipadārtha in the supplied text and set at the page break (logged): in the print, Aṣṭaka 3 (without the full stop after the first letter), Adhyāya 2 and Varga 17, a closing bracket without an opening one, then Ṛgveda-saṃhitā and the page number, printed with a Latin capital letter for the digit one (8I9); as supplied. The Pratipadārtha is cut by the page break after उपो नयस्व (*upo nayasva*).
 820	running head	Running head, p. 820: the page number 820, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (a space after the opening bracket, full stops after the numbers); as supplied.
 821	running head	Running head, p. 821: in brackets the Aṣṭaka mark, Adhyāya 2 and Varga 17 (full stops after the numbers, a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 821; as supplied. In the supplied text it stood between the two lines of the Saṃhitā of Ṛk 5 and is set after the Saṃhitā block (logged).
 822	running head	Running head, p. 822: the page number 822, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (a space after the opening bracket, full stops after the numbers, one also after the last number); as supplied.
-822	bare tag	as supplied
 823	running head	Running head, p. 823: in brackets the Aṣṭaka mark 3, Adhyāya 2 and Varga 18 (full stops after the numbers, a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 823; as supplied.
 824	running head	Running head, p. 824: the page number 824, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (full stops after the numbers, one also after the last number); as supplied.
-824	other remark	The bhāṣya of Ṛk 7 continues after the running head in a second block; the page break falls between two sentences.
 825	running head	Running head, p. 825: in brackets the Aṣṭaka mark 3 (printed with a different first letter, ಆ., instead of ಅ.), Adhyāya 2 and Varga 18 (full stops after the numbers, a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 825; as supplied.
 826	running head	Running head, p. 826: an extra opening bracket before the page number 826, Sāyaṇa-bhāṣya-sahitā, then in brackets (a space after the opening bracket) Maṇḍala 3, Anuvāka 3, Sūkta 35 (full stops after the numbers, one also after the last number); as supplied.
-826	bare tag	as supplied
 827	running head	Running head, p. 827, set inside the sentence of the printed translation of Ṛk 9: in brackets the Aṣṭaka mark 3, Adhyāya 2 and Varga 18 (full stops after the numbers), then Ṛgveda-saṃhitā and the page number 827 with a closing bracket and no opening bracket; as supplied.
 828	running head	Running head, p. 828: an extra opening bracket before the page number 828, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 35 (no full stops after the numbers); as supplied.
 829	running head	Running head, p. 829: in brackets the Aṣṭaka mark printed as a numeral, Adhyāya 2 and Varga 19, then Ṛgveda-saṃhitā and the page number 829 with a closing bracket; as supplied.
@@ -1635,7 +1477,6 @@ printed page	kind	text
 830	bare tag	as printed
 831	running head	Running head, p. 831: in brackets the Aṣṭaka mark (printed with the long-vowel letter and a full stop), Adhyāya 2 and Varga 19, then Ṛgveda-saṃhitā and the page number 831 with a closing bracket; as supplied.
 832	running head	Running head, p. 832: an opening bracket before the page number 832, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 36 (full stops after the abbreviations, and a comma after the Anuvāka number); as supplied. The page begins in the middle of the printed English translation of Ṛk 1 of Sūkta 36; it continues the sentence of the previous window.
-832	bare tag	as supplied
 833	running head	Running head, p. 833: in brackets the Aṣṭaka mark (abbreviated, with full stops), Adhyāya 2 and Varga 19, then Ṛgveda-saṃhitā and the page number 833 with a closing bracket; as supplied.
 834	running head	Running head, p. 834: an opening bracket before the page number 834, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 36 (no full stops after the Maṇḍala and Anuvāka numbers; the full stop after the Sūkta number is kept); as supplied.
 835	running head	Running head, p. 835: in brackets the Aṣṭaka mark with its numeral, Adhyāya 2 and Varga 19, then Ṛgveda-saṃhitā and the page number 835 with a closing bracket; as supplied.
@@ -1647,7 +1488,6 @@ printed page	kind	text
 838	process remark	The grammar tail is transcribed, not explained: it analyses the words प्रसवं (*prasavaṃ*), आयन् (*āyan*), रथ्येव (*rathyeva*), जग्मुः (*jagmuḥ*), वरीयान् (*varīyān*), पृणति (*pṛṇati*) and दुग्धः (*dugdhaḥ*) (roots, suffixes, accent). Line-end hyphens in the block are joined and a Latin letter s for the avagraha is rewritten as the Kannada avagraha (logged).
 839	running head	Running head, p. 839: in brackets the Aṣṭaka mark with its numeral, Adhyāya 2 and Varga 20, then Ṛgveda-saṃhitā and the page number 839 with a closing bracket; as supplied.
 839	process remark	The grammar tail is transcribed, not explained: it analyses the words समुद्रेण (*samudreṇa*), यादमानाः (*yādamānāḥ*), दुहंति (*duhaṃti*), भरित्रैः (*bharitraiḥ*) and पुनंति (*punaṃti*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). Printed oddities kept: ಸುಷ್ಪಭಿಷುತಂ; ಭರಿತ್ರೆಃ with the short Kannada vowel sign e, which converts to the Devanagari short e; ಮಹ ಪ್ರಪೂರಣ as the root named for the verb ದುಹಂತಿ; as supplied.
-839	bare tag	as supplied
 840	running head	Running head, p. 840: an opening bracket before the page number 840, Sāyaṇa-bhāṣya-sahitā, then in brackets Maṇḍala 3, Anuvāka 3, Sūkta 36 (full stops after the abbreviations); as supplied.
 840	process remark	The grammar tail is transcribed, not explained: it analyses the words कुक्षयः (*kukṣayaḥ*), सोमधानाः (*somadhānāḥ*), विव्याच (*vivyāca*), अन्ना (*annā*), आश (*āśa*), जघन्वान् (*jaghanvān*) and अवृणीत (*avṛṇīta*) (roots, suffixes, accent). Line-end hyphens in the block are joined and a Latin letter s for the avagraha is rewritten as the Kannada avagraha (logged). A Uṇādi reference stands inside the block; as supplied. The short Kannada vowel sign e in ನಿಷ್ಕರ್ಷೆ, which converts to the Devanagari short e, is as supplied.
 841	running head	Running head, p. 841: in brackets the Aṣṭaka mark with its numeral, Adhyāya 2 and Varga 20, then Ṛgveda-saṃhitā and the page number 841; as supplied. The Pratipadārtha of Ṛk 8 begins at the top of this page.
@@ -1688,14 +1528,11 @@ printed page	kind	text
 858	process remark	The grammar tail is transcribed, not explained: it analyses the words तप्पेव (*tappeva*), दीधय (*dīdhaya*), सुधुरः (*sudhuraḥ*), जिहानः (*jihānaḥ*), मर्मशत् (*marmaśat*), संदृशे (*saṃdṛśe*) and सुमेधाः (*sumedhāḥ*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). Printed oddities kept: the word ಭ್ಯಾಸಸ್ಯೆತ್ವಂ has the short vowel sign ೆ, rendered ॆ in the conversion, as supplied; the gloss writes ಮರ್ತೃಶತ್ and ಮರ್ಮಶತ್ವರಾಣೀತಿ (as supplied; the Saṃhitā of this Ṛk is on the previous page).
 859	running head	Running head, p. 859: a bracket opening with Aṣṭaka (the first abbreviation is printed with the long vowel here, with the short vowel on page 857), 3, Adhyāya 2, Varga 23 (the bracket is followed by a space), then Ṛgveda-saṃhitā and the page number 859; as supplied.
 860	running head	Running head, p. 860: the page number is printed as 360 (the Kannada digits three, six, zero) instead of 860, then Sāyaṇabhāṣya-sahitā, then in a bracket (opened with a space after it) Maṇḍala 3, Anuvāka 3, Sūkta 38 followed by a full stop; as supplied.
-860	other remark	Continuation of the bhāṣya of Ṛk 2: the block begins at the head of the page with the words that follow the word for "they" at the foot of the previous page, so the sentence is cut by the page break (pages 859 and 860). Gist: the praises brought to Indra, swift as mind and increasing him, let these praises made by us go quickly to him; the particle u is explained as indicating what is well known everywhere. The grammar tail is transcribed, not explained: it analyses the words पृच्छ (*pṛccha*), प्रण्यः (*praṇyaḥ*) and ग्मन् (*gman*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). The sentence begins with the words for "for you".
 861	running head	Running head, p. 861: in a bracket Aṣṭaka 3 (no full stop after the abbreviation), Adhyāya 2, Varga 23 (a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 861; as supplied.
 861	process remark	The grammar tail is transcribed, not explained: it analyses the words गुह्या (*guhyā*), दधानाः (*dadhānāḥ*), अंजन् (*aṃjan*), मात्राभिः (*mātrābhiḥ*), ममिरे (*mamire*), येमुः (*yemuḥ*), धायसे (*dhāyase*) and धुः (*dhuḥ*). Line-end hyphens in the block are joined (logged). Printed oddities kept: ಕವಯೆ ends with the short vowel sign ೆ, rendered ॆ in the conversion, as supplied; an apostrophe-like mark stands between ಧುಃ and ವ್ಯಧುಃ, as supplied.
-861	other remark	The Bhāvārtha is cut in the middle of a word at the end of page 861 (after ಸಾಮಗ್ರಿಗ); the rest of the word stands at the head of the next page (ಳಿಂದ). In kn.md the fragment is moved below the new head and joined (logged); the English runs on.
 862	running head	Running head, p. 862: the page number 862, Sāyaṇabhāṣya-sahitā, then in a bracket Maṇḍala 3, Anuvāka 3, Sūkta 38 (a full stop follows the word for Sūkta; the bracket is not closed); as supplied.
 862	process remark	The grammar tail begins with the words विश्वे (*viśve*), अभूषन् (*abhūṣan*), वसानः (*vasānaḥ*), नाम (*nāma*) and विश्वरूप (*viśvarūpa*); it breaks off at the end of the supplied text (after the rule on the compound with the word for "all", ending the line at the foot of page 862) and continues in the next window. Printed oddities kept: ಸರ್ವೆ and the short ೆ forms, rendered ॆ in the conversion, as supplied; the word ಪೂರ್ವ೦ ends with the Kannada zero, rendered as a numeral in the conversion, as supplied; the mark ! after ಅಭೂಷನ್, as supplied.
 863	running head	Running head, p. 863: in a bracket the figures 3 and 3, then the abbreviation for Adhyāya 2, Varga 23 (a full stop after the last figure), the bracket closes, then Ṛgveda-saṃhitā and the page number 863 followed by a closing bracket that has no opening one; the abbreviation that stands first in the neighbouring heads (as on pages 861 and 865) is not there; as supplied.
-863	other remark	Continuation of the bhāṣya of Ṛk 4: the block begins at the head of the page (the previous page ended after the rule on the compound with the word for "all"), so there is no cut inside a sentence. The grammar tail is transcribed, not explained: it says that अमृतानि (*amṛtāni*) stands in the accusative by the rule on continuous connection with time and path, and that तस्थौ (*tasthau*) is the perfect form of the root for standing.
 864	running head	Running head, p. 864: the page number 864, Sāyaṇabhāṣya-sahitā, then in a bracket (opened with a space after it) Maṇḍala 3, Anuvāka 3, Sūkta 38; as supplied.
 864	process remark	The grammar tail is transcribed, not explained: it analyses the words असूत (*asūta*), ज्यायान् (*jyāyān*), शुरुधः (*śurudhaḥ*), नपाता (*napātā*), धीभिः (*dhībhiḥ*), राजाना (*rājānā*) and दधाथे (*dadhāthe*) (roots, suffixes, accent). The block ends with the closing sign of Varga 23. Line-end hyphens in the block are joined (logged). Printed oddity kept: the sign ॥ stands doubled before the number of the Varga; as supplied.
 865	running head	Running head, p. 865: in a bracket the abbreviation for Aṣṭaka 3, Adhyāya 2, Varga 24 (a space before the closing bracket), then Ṛgveda-saṃhitā and the page number 865 followed by a closing bracket that has no opening one; as supplied.
@@ -1708,12 +1545,10 @@ printed page	kind	text
 869	running head	Running head, p. 869: in a bracket the abbreviations for Aṣṭaka 3, Adhyāya 2, Varga 24 (full stops after the figures), the bracket closes, then Ṛgveda-saṃhitā and the page number 869 followed by a closing bracket that has no opening one; as supplied.
 869	process remark	The grammar tail is transcribed, not explained: it analyses the words युवं (*yuvaṃ*), साधथः (*sādhathaḥ*), दैवी (*daivī*), स्यातं (*syātaṃ*), गोपाजिह्वस्य (*gopājihvasya*), तस्थुषः (*tasthuṣaḥ*) and पश्यंति (*paśyaṃti*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). Printed oddities kept: the bhāṣya has ಇಂದ್ರಾವರುಣ್ with a stray final consonant and ಯದ್ವೈವೀ where the Saṃhitā has ಯದ್ದೈವೀ; the grammar tail has ಲಿಜ and ದೃಶಿರ್ ಪ್ರೇಕ್ಷಣೇ; the words ಸರ್ವೆ and ಪ್ರಾಪ್ತಸ್ಯೆಟಃ end or contain the short vowel sign ೆ, which the conversion renders with the Devanagari short sign ॆ; as supplied.
 870	running head	Running head, p. 870: an opening bracket before the page number 870, Sāyaṇa-bhāṣya-sahitā, then in a bracket (opened with a space after the outer bracket) Maṇḍala 3, Adhyāya 3, Sūkta 38 (full stops after the numbers); as supplied.
-870	other remark	The block is cut by the page break between pages 870 and 871 (the sentence goes on at the head of the next page, after the words about the elision of the vikaraṇa). Line-end hyphens in the block are joined (logged).
 871	running head	Running head, p. 871: in a bracket the abbreviations for Aṣṭaka 3, Adhyāya 2, Varga 25 (full stops after the figures), the bracket closes, then Ṛgveda-saṃhitā and the page number 871 followed by a closing bracket that has no opening one; as supplied.
 871	process remark	The grammar tail is transcribed, not explained: it analyses the words शुनं (*śunaṃ*), हुवेम (*huvema*), भरे (*bhare*), वाजसातौ (*vājasātau*), समत्तु (*samattu*), घ्नंतं (*ghnaṃtaṃ*) and संजितं (*saṃjitaṃ*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). Printed oddities kept: the bhāṣya has ವಾಜಸಾತ್ in the main sentence and ವಾಜಸಾತೌ in the grammar tail, as the Saṃhitā and the Pada have ವಾಜಸಾತ್ and the Pratipadārtha ವಾಜಸಾತೌ; the grammar tail has the stray letter ಓ in ಟುಓಶ್ವಿ; the bhāṣya has ಕುಶಿಕಾ in the sentence about calling Indra for the rite; as supplied.
 872	running head	Running head, p. 872: the page number 872, Sāyaṇabhāṣya-sahitā, then in a bracket (opened with a space) Maṇḍala 3 (the abbreviation is printed ಮ. here, not ಮಂ.), Anuvāka 4, Sūkta 39 (full stops after the figures); as supplied. The page continues the introduction of Sūkta 39, whose Kannada Anuvāda broke off at the end of the previous page.
 872	bare tag	as printed
-872	bare tag	as supplied
 872	process remark	The grammar tail is transcribed, not explained: it analyses the words मतिः (*matiḥ*), हृदः (*hṛdaḥ*), वच्यमाना (*vacyamānā*), स्तोमतष्टा (*stomataṣṭā*), जिगाति (*jigāti*), जायते (*jāyate*) and विद्धि (*viddhi*) (roots, suffixes, accent). Line-end hyphens in the block are joined (logged). Printed oddities kept: the block has the short vowel sign ೆ in ತಸ್ಯೆತಿ and ಛಂದಸೀತ್ಯಭ್ಯಾಸಸ್ಯೆತ್ವಂ and the short sign ೊ in ಹೇರ್ಹುಝಲ್ಫೊ, which the conversion renders with the corresponding Devanagari short vowel signs, as supplied.
 873	running head	Running head, p. 873: Aṣṭaka 3 (the first abbreviation, for Aṣṭaka, has no full stop after it here), Adhyāya 2, Varga 25, a closing bracket with no opening one, then Ṛgveda-saṃhitā printed with the letter ಮ in place of the first letter of the word for Ṛg (ಮಗ್ವೇದ), and the page number 873; the head stood as the last line of the quoted bhāṣya block and is moved out (logged); as supplied.
 874	running head	Running head, p. 874: the page number 874, Sāyaṇabhāṣya-sahitā printed with ಭಾವ್ಯ in place of the usual spelling of "bhāṣya", then an opening bracket and Maṇḍala 3, Anuvāka 4, Sūkta 39 (full stops after the figures; the bracket is not closed); as supplied.

@@ -17,5 +17,10 @@
   "en": "vol16/Rigveda_Samhita_Vol16_English_Translation.md"
  },
  "work": "vol16/work",
- "window": 3
+ "window": 3,
+ "layout": "subheads",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "printed_english_label": "English translation (H. H. Wilson)"
 }

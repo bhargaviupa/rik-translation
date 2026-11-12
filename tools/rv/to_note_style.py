@@ -2,6 +2,8 @@
 """Convert a volume made with the older conventions (Vols 12, 14-16: translator remarks, [?], [sic], bold label lines, Kannada script in
 the English text) to the Vol 17 conventions, by script, without re-translating.
 
+  python3 tools/rv/to_note_style.py VOL --easy [--write]   the safe subset only (running heads, bare tags, process remarks out; Gists; [?] -> NOTE; layout):
+                                                   informative remarks and [sic] stay.  --write applies it to the volume file (logged repair).
   python3 tools/rv/to_note_style.py VOL            trial: writes volN/trial/English_converted.md, notes_trial.tsv, remarks_removed.tsv, report.md
                                                    (the volume files are not touched)
 
@@ -34,6 +36,7 @@ LABELS = [  # (regex on the bold label text, standard label or None = keep as pl
     (r'^Special Topics( \(continued\))?$', 'विशेषविषयगळु (Viśeṣaviṣayagaḷu)'),
 ]
 def main():
+    easy = '--easy' in sys.argv; write = '--write' in sys.argv
     vol = int(sys.argv[1]); cfg = rvlib.Cfg(vol); src = open(cfg.en, encoding='utf8').read()
     m = re.search(r'\n---\n+\*\*Progress note:\*\*.*\Z', src, re.S); tail = m.group(0) if m else ''; body = src[:m.start()] if m else src
     notes = []; dropped = []; st = collections.Counter(); page = [None]
@@ -48,11 +51,12 @@ def main():
             if BARE.match(inner): drop(inner, 'bare tag'); return ''
             r = re.match(r'^((?:[A-ZĀṚŚ][\w.āīūṛṃḥṇṭḍśṣ]*\.? ?){1,4}\d[\d\-–.]*)[,;]?\s*(?:printed|as supplied|so printed).*$', inner)     # (Pā. Sū. 3-2-75, printed "…")
             if r and whole[0] == '(' : drop(inner, 'print form of a reference'); return '(' + r.group(1) + ')'
+            if easy: st['remark kept'] += 1; return whole
             return ' ' + note(inner, l[:mm.start()])
         l = re.sub(r'\*\[[^\]]*\]\*|\*\(' + PAR + r'\)\*|\[' + r'[^\[\]]*' + r'\]|\(' + PAR + r'\)', rep, l)
-        l = re.sub(r'\s*\[sic\]', lambda mm: ' ' + note('[sic]: printed so', l[:mm.start()]), l)
+        if not easy: l = re.sub(r'\s*\[sic\]', lambda mm: ' ' + note('[sic]: printed so', l[:mm.start()]), l)
         l = re.sub(r'\s*(?<!`)\[\?\](?!`)', lambda mm: ' ' + note('[?]: doubtful reading', l[:mm.start()]), l)
-        l = re.sub(r',?\s*as supplied(?=[).,;])', lambda mm: (drop('as supplied', 'bare tag') or ''), l)
+        if not easy: l = re.sub(r',?\s*as supplied(?=[).,;])', lambda mm: (drop('as supplied', 'bare tag') or ''), l)
         return re.sub(r'  +', ' ', l).replace(' **NOTE** **NOTE**', ' **NOTE**').replace('( ', '(').replace(' )', ')').replace('()', '').rstrip() if l.strip() else l
     out = []
     for l in body.split('\n'):
@@ -70,9 +74,17 @@ def main():
                 out.append('*Gist:* ' + inline(gist[0].upper() + gist[1:])); st['Gist'] += 1
                 if extra: drop(extra, 'process remark')
             elif PROCESS.match(rem): drop(rem, 'running head' if rem.startswith('Running head') else 'process remark')
+            elif easy: out.append(l); st['remark kept'] += 1; continue
             elif DECISION.search(rem): out += [note(rem, out[-1] if out else ''), '']
             else: drop(rem, 'other remark')
             if rest: out.append(inline(rest))
+            continue
+        g = re.match(r'\*\(?Gist(?: \((?:Sāyaṇa|mine)\))?:\*?\s*(.*)$', l)                # '*Gist (Sāyaṇa):* …', '*Gist (mine): ….* …', '*(Gist: "…")*'
+        if g:
+            x = g.group(1); mm2 = re.match(r'(.*?[.!?"”])\)?\*(\s+.*)?$', x) if not l.startswith('*Gist (Sāyaṇa):*') and not l.startswith('*Gist:*') else None
+            gist, rest = (mm2.group(1), (mm2.group(2) or '').strip()) if mm2 else (x, '')
+            out.append('*Gist:* ' + inline(gist.strip('"“”'))); st['Gist'] += 1
+            if rest: out += ['', inline(rest)]
             continue
         # ---- 4: labels
         mm = re.match(r'\*\*([^*]+?)\.?\*\*\s*(.*)$', l)
@@ -87,7 +99,7 @@ def main():
             continue
         out.append(inline(l))
     t = '\n'.join(out)
-    t = '\n'.join(l if l.startswith('> ') else re.sub(KN + '+', lambda mm: mm.group(0).translate(KD), l) for l in t.split('\n'))
+    t = '\n'.join(l if l.startswith('> ') or re.search('[ಀ-೥೰-೿]', l) else l.translate(KD) for l in t.split('\n'))
     # ---- 5: layout
     L = t.split('\n'); o = []; i = 0; sec = None
     while i < len(L):                                                          # transliteration under the bhāṣya block goes
@@ -97,6 +109,19 @@ def main():
         if l.startswith('#'): sec = None
         o.append(l); i += 1
     t = '\n'.join(o)
+    L = t.split('\n'); o = []; i = 0                                           # a Gist written between the bhāṣya label and its block goes after the block
+    while i < len(L):
+        o.append(L[i])
+        if L[i] == '**॥ सायणभाष्यम् ॥**':
+            j = i + 1; held = []
+            while j < len(L) and not L[j].startswith(('> ', '#', '**')): held.append(L[j]); j += 1
+            if j < len(L) and L[j].startswith('> ') and any(h.startswith('*Gist:*') for h in held):
+                k = j
+                while k < len(L) and (L[k].startswith('> ')): k += 1
+                o += [''] + L[j:k] + [''] + [h for h in held] ; st['Gist moved after its block'] += 1; i = k; continue
+        i += 1
+    t = '\n'.join(o)
+    t = re.sub(r'(?m)^\*Gist:\* ([a-z])', lambda mm: '*Gist:* ' + mm.group(1).upper(), t)
     def pratipada(mm):                                                         # one word per line
         items = [x.strip() for x in re.split(r';\s+(?=\S+ \(\*)', mm.group(2)) if x.strip()]
         return mm.group(1) + '\n'.join('- ' + x.rstrip(';.') for x in items) if len(items) > 2 else mm.group(0)
@@ -105,7 +130,7 @@ def main():
     t = re.sub(r'(?m)^##### Printed English\s*$', '##### English translation (H. H. Wilson)', t)
     t = re.sub(r'\n{3,}', '\n\n', t)
     # ---- report
-    d = os.path.join(ROOT, f'vol{vol}', 'trial'); os.makedirs(d, exist_ok=True)
+    d = os.path.join(ROOT, f'vol{vol}', 'trial_easy' if easy else 'trial'); os.makedirs(d, exist_ok=True)
     open(os.path.join(d, 'English_converted.md'), 'w', encoding='utf8').write(t + tail)
     open(os.path.join(d, 'notes_trial.tsv'), 'w', encoding='utf8').write('printed page\tquestion\twords before the mark\n' + ''.join(f'{p}\t{q}\t{c}\n' for p, q, c in notes))
     open(os.path.join(d, 'remarks_removed.tsv'), 'w', encoding='utf8').write('printed page\tkind\ttext\n' + ''.join(f'{p}\t{k}\t{q}\n' for p, k, q in dropped))
@@ -117,6 +142,17 @@ def main():
            '', '## Left over (a script cannot settle these)', f'- Kannada-script words still in the English text: {len(left_kn)} on {knl} lines', f'- remark-like phrases still in the text: {len(left_rem)} on {reml} lines',
            f'- sections: {len(re.findall("(?m)^##### ॥ संहितापाठः ॥", t))} Saṃhitā, {len(re.findall("(?m)^#### Ṛk", t))} Ṛk headings, {len(re.findall("(?m)^##### Gist", t))} Gists, {len(re.findall("(?m)^## Sūkta", t))} sūkta headings']
     open(os.path.join(d, 'report.md'), 'w', encoding='utf8').write('\n'.join(rep) + '\n'); print('\n'.join(rep))
+    if easy and write:                                                        # apply to the volume: a logged repair; the removed remarks and the NOTE questions go to review/
+        import shutil, json
+        rv = os.path.join(ROOT, f'vol{vol}', 'review'); os.makedirs(rv, exist_ok=True)
+        open(cfg.en, 'w', encoding='utf8').write(t + tail)
+        shutil.copy(os.path.join(d, 'remarks_removed.tsv'), os.path.join(rv, 'remarks_removed.tsv'))
+        nf = os.path.join(rv, 'notes.tsv')
+        if notes: open(nf, 'w', encoding='utf8').write('window\tprinted page\tquestion (what needs a decision or a second look)\twords before the mark in the English text\tdecision\n' + ''.join(f'conversion\t{p}\t{q}\t{c}\t\n' for p, q, c in notes))
+        cp = rvlib.cfg_path(vol); c = json.load(open(cp, encoding='utf8')); c.update({'layout': 'subheads', 'no_iast_blocks': ['bhashya'], 'printed_english_label': 'English translation (H. H. Wilson)'})
+        open(cp, 'w', encoding='utf8').write(json.dumps(c, indent=1, ensure_ascii=False) + '\n')
+        open(os.path.join(rv, 'repair_log.md' if os.path.exists(os.path.join(rv, 'repair_log.md')) else 'repair_log.md'), 'a', encoding='utf8').write(f"\n- layout conversion (`tools/rv/to_note_style.py {vol} --easy --write`): " + '; '.join(f'{k} {v}' for k, v in sorted(st.items())) + ". Removed remarks are listed in review/remarks_removed.tsv; informative remarks, [sic] and the wording of the translation are unchanged; Sanskrit blocks unchanged except that the transliteration under the bhāṣya block is taken out.\n")
+        print('written to the volume file; volcfg: layout subheads')
 if __name__ == '__main__':
     if len(sys.argv) < 2: sys.exit(__doc__)
     main()
