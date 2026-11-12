@@ -2545,6 +2545,173 @@ Yoni means the place called vedi: "procure for Agni, who sits on the vedi, the y
 
 Quoting the ṛk आ स्वे योनौ निषीदतु (*ā sve yonau niṣīdatu*) (Ṛ. Saṃ. 6-16-41), the sentence एष ह वा अस्य स्वो योनिर्यदग्निरग्नेः (*eṣa ha vā asya svo yoniryadagniragneḥ*) (Ai. Brā. 1-16) shows that yoni means the place of origin of the Āhavanīya fire.
 
+### Printed p. 103
+
+तमोहनं (*tamohanaṃ*)—तमसः अंधकारस्य हंतारं, अज्ञानस्य वा (*tamasaḥ aṃdhakārasya haṃtāraṃ, ajñānasya vā*). The word is explained in both a physical and a spiritual sense: "the destroyer of darkness" or "the destroyer of ignorance". अग्नि साध्ययज्ञादिद्वारा ज्ञानविचारकत्वादिति भावः (*agni sādhyayajñādidvārā jñānavicārakatvāditi bhāvaḥ*): the performance of ritual acts such as sacrifice is a means to knowledge, so the sense is the removal of ignorance. It stands as an epithet of the womb (yoni), meaning "the womb that destroys ignorance".
+
+##### Grammar
+
+- वेदिषदे — वेद्यां सीदति इति वेदिषत् । षद्ल्य विशरणगत्यवसादनेषु धातुः । सत्त्वुद्विष- (पा. सू. ३-२-६१) इति क्विप् प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपद प्रकृतिस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- प्रियधामाय — प्रियं धाम स्थानं यस्य सः तस्मै प्रियधामाय । बहुव्रीहौप्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपद प्रकृतिस्वरः भवति ।
+- सुद्युते — शोभनं द्युत् यस्य सः तस्मै । नञ्सुभ्याम् (पा. सू. ६-२-१७) इति उत्तरपदांतोदात्तस्वरः भवति ।
+- भर — हृञ् हरणे धातुः । लोट् मध्यमपुरुष एकवचने सिपः हि आदेशः । शप् विकरणम् । अतोहेः (पा. सू. ६-४-१०५) इति हेः लुक् । हृग्रहोर्भश्चंदसि इति वचनात् धातोः दकारस्य भकारादेशः । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- अग्नये — अगि गतौ धातुः । अगेर्नलोपश्च इति नुमः नकारस्य लोपः निप्रत्ययः । चतुर्थी एकवचनांतरूपम् ।
+- वासय — वस आच्छादने धातुः । णिजंतात् लोट् मध्यमपुरुष एकवचने सिपः हि आदेशः । शप् विकरणम् । णिच् निमित्तेन अत उपधायाः (पा. सू. ७-२-११६) इति धातोः उपधायाः वृद्धिः । शप् निमित्तेन णिचः इकारस्य गुणः अयादेशः । अतोहेः इति हेः लुक् । तिजंतनिघातस्वरः भवति ।
+- मन्मना — मन ज्ञाने धातुः । अन्येभ्योपि दृश्यंते (पा. सू. ३-२-७५) इति मनिन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । तृतीया एकवचनांतरूपम् ।
+- ज्योतीरथम् — जोतिषः रथः तम् ज्योतीरथम् । पूर्वपद प्रकृतिस्वरः भवति ।
+- तमोहनम् — हन हिंसागत्योः धातुः । तमसः हंता । तमोहा, बहुलं छंदसि इति क्विप् प्रत्ययः । द्वितीया एकवचने व्यत्ययेन दीर्घः न भवति । अथवा कर्तरि बहुलग्रहणेन अप् प्रत्ययः । व्यत्ययेन वधादेशः न भवति । कृदुत्तरपद प्रकृतिस्वरः भवति । (Ṛk 1)
+
+### Printed p. 104
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्वि॒जन्मा॑ त्रि॒वृदन्न॑मृज्यते संवत्स॒रे वा॑वृधे ज॒ग्धमी॒ पुनः॑ ।  
+> अ॒न्यस्या॒सा जि॒ह्वया॒ जेन्यो॒ वृषा॒ न्य१॒॑ग्नेयन॑ व॒निनो॑ मृष्ट  ॒
+> वारणः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्विजन्मा । त्रिवृत् । अन्नं । ऋज्यते । संवत्सरे । ववृधे । जग्गं । ईमिति ।  
+> पुनरिति ।  
+> अन्यस्य । आसा । जिह्वया । जेन्यः । वृषा । नि । अन्येन । वनिनः । मृष्ट । वारणः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विजन्मा द्वाभ्यामरणीभ्यां जायमानः । यद्वा । मथनेनाधानसंस्कारेण
+> चोत्पन्नत्वात् द्विजन्मत्वं ॥ अन्येभ्योऽपि दृश्यंत इति मनिन् ॥ अयमग्निस्तिवृदन्नमाज्यपुरोडाशसोमरूपेण त्रिप्रकारमन्नमदनीयमभि ऋज्यते । प्राप्नोति ।
+> अभित आभिमुख्येन नयति भक्षयति ॥ ऋज गतिस्थानार्जनोपार्जनेषु । व्यत्ययेन
+> श्यन् ॥ यद्वा । भृज्यते ॥ भ्रस्टो पाके ॥ पक्वं करोति वा । किंच ई इदं ॥
+> ईमित्यत्र साहितिको मलोपश्कांदसः ॥ जग्धं भक्षितं संवत्सरे पूर्णे पुनर्ववृधे।
+> अग्निर्वर्धयति। जीर्णस्य पुनर्वृद्धभावाद्यजमानं हनिर्वृद्दा प्रतिसंवत्सरं यागसमर्थ० करोतीत्यर्थः । यद्वा । एकवारं भक्षितं हविः पुनः संवत्सरे पूर्णे
+> संवत्सर उदरस्थं वर्धते वर्धयति वा भक्षितारं । किंचायमग्निर्वृषा वर्षकः
+> सन्नन्यस्य हविष आसास्येन जिह्वया जेन्यः प्रभूतो भवतीति शेषः । यद्वा । वर्षिता
+> सन्नेकेन रूपेणान्यस्य यज्ञॆ होत्रादेर्जिह्वया तदुपलक्षितया स्रुचा जेन्यः
+> प्रवृद्यो भवति । तथान्येन दावाग्निरूपेण वारणः सर्वॆषां वारकः सन् वनिनो
+> वनसंबंधिनो वृक्षान्नि मृष्ट । निमार्ष्टि । दहतीत्यर्थः । मृजेश्छांदसे लज्जु व्यत्ययेनात्मनेपदं ॥
+
+##### Gist of the bhāṣya
+
+द्विजन्मा (*dvijanmā*): born from the two fire-sticks (araṇi); or, because he arises both by churning and by the rite of installation (ādhāna), he is "twice-born". This agni eats threefold food in the form of ghee, the cake (puroḍāśa) and soma; अभि ऋज्यते (*abhi ṛjyate*) means he reaches it, he draws it towards himself and consumes it. The root ऋज (*ṛja*) (go, stand, acquire, gain) takes śyan by vyatyaya. Or the reading is भृज्यते (*bhṛjyate*) (root भ्रस्टो पाके (*bhrasṭo pāke*), "to roast"): he cooks it. Further, ई (*ī*) is "this"; the loss of the m in ईं (*īṃ*) is Vedic. What has been eaten (जग्धं (*jagdhaṃ*)), when the year is complete, he makes grow again: agni makes the consumed oblation grow again, so that every year he makes the sacrificer fit for sacrifice by increasing his oblation. Or else: the oblation eaten once increases again when the year is complete, inside the stomach, or he makes the eater increase. Moreover this agni, the showerer (वृषा (*vṛṣā*)), becomes abundant through the mouth-tongue of another oblation (अन्यस्य आसा जिह्वया (*anyasya āsā jihvayā*)). Or else: while showering in one form, he becomes prosperous in the sacrifice through the "tongue" of another, the hotṛ and so on, that is, the ladle (sruc) which stands for it. And in another form, as forest-fire, being the restrainer (वारणः (*vāraṇaḥ*)) of all, he burns (नि मृष्ट (*ni mṛṣṭa*), निमार्ष्टि (*nimārṣṭi*)) the trees belonging to the forest. The root मृज (*mṛja*) takes the ātmanepada by vyatyaya in the Veda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विजन्मा (*dvijanmā*)—Agni who is born from both fire-sticks; or who is born twice, once by churning and once by the rite of installation
+### Printed p. 105
+- त्रिवृदन्नं (*trivṛdannaṃ*)—the food that is eaten in three kinds, ghee, puroḍāśa and soma
+- अभि ऋज्यते (*abhi ṛjyate*)—he eats completely; or makes it ripen
+- ईं जग्भं (*īṃ jagbhaṃ*)—this food that was eaten **NOTE**
+- संवत्सरे (*saṃvatsare*)—when the year has passed
+- पुनः (*punaḥ*)—again
+- ववृधे (*vavṛdhe*)—(giving fresh vigour) he makes it grow; or makes it increase; or makes the sacrificer's oblation increase; (and)
+- वृषा (*vṛṣā*)—being the one who showers the desired object
+- अन्यस्य (*anyasya*)—of the oblation (the oblation)
+- आसा (*āsā*)—that tastes (it)
+- जिह्वया (*jihvayā*)—with the tongue; or अन्यस्य (*anyasya*)—of the hotṛ
+- जिह्वया (*jihvayā*)—with the ladle in the form of a tongue
+- जेन्यः (*jenyaḥ*)—he becomes greatly increased
+- अन्येन (*anyena*)—in the form of forest-fire
+- वारणः (*vāraṇaḥ*)—holding back everything
+- वनिनः (*vaninaḥ*)—all the forest trees
+- नि मृष्ट (*ni mṛṣṭa*)—he burns completely
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has two kinds of birth, eats completely the food that is eaten in three kinds: ghee, puroḍāśa and soma-juice. When the year has passed he makes this eaten food grow again. Agni, the giver of the desired object, grows in one way by the tongue that tastes the oblation. In another way, as forest-fire, holding back everything that stands before him, he burns all the forest trees.
+
+##### Printed English
+
+(Agni), the two-fold generated, devours the triple (sacrificial) food, and when the year expires renovates what has been eaten; the showerer (of benefits) is invigorated (in one from), by eating with the tongue of another ; in a different form the restrainer (of all) consumes the forest trees.
+
+##### विशेषविषयगळु (Special Topics)
+
+द्विजन्मा (*dvijanmā*)—द्वाभ्यां अरणीभ्यां जायमानः। यद्वा । मथनेन आधानसंस्कारेण च उत्पन्नत्वात् द्विजन्मत्वं । (*dvābhyāṃ araṇībhyāṃ jāyamānaḥ| yadvā | mathanena ādhānasaṃskāreṇa ca utpannatvāt dvijanmatvaṃ |*). Agni is called द्विजन्मा (*dvijanmā*) either because he is born from two pieces of wood, or because he is born twice, once by churning and once by the rite of installation. For this epithet, in Ṛ. Saṃ. 1-60-1 and 1-149-4 also, two alternative meanings are given: द्वयोर्द्याव्यापृथिव्योर्वा जायमानं (*dvayordyāvyāpṛthivyorvā jāyamānaṃ*), अरण्योर्वा जायमानं (*araṇyorvā jāyamānaṃ*), that is, born from heaven and earth, or born from the two fire-sticks. That the manner of Agni's birth is told differently in different places has already been shown earlier by citing Ṛk-Saṃhitā passages; in the special topics of Ṛk 1-95-3 the description त्रीणि जाना (*trīṇi jānā*) was explained
+### Printed p. 106
+. Since Agni exists in different forms in the three worlds, the nature of his birth cannot be said to be of one kind. For example, in the Śatapatha-brāhmaṇa the sentences ऋतसदिति सत्यसदित्येतद्व्योमसदिति सर्वेषु ह्येष व्योमसु सन्नोऽब्बा गोजा इत्यब्बाश्च ह्येष गोजाश्चर्यता इति सत्यजा इत्येतदद्रिजा इत्यद्रिजा .... .... .... । (*ṛtasaditi satyasadityetadvyomasaditi sarveṣu hyeṣa vyomasu sanno 'bbā gojā ityabbāśca hyeṣa gojāścaryatā iti satyajā ityetadadrijā ityadrijā .... .... .... |*) (Śa. Brā. 6-7-3-11) describe Agni as born of water, born of cows, born of ṛta, born of the mountain. And again, दिवस्परि प्रथमं जज्ञेऽग्निरिति । प्राणो वै दिवः प्रणादु वा विष प्रथमम जायतास्मद्वितीयं परि जातवेदा इति यदेनमदो द्वितीयं पुरुषविधोजनयत्तृतीयमप्सितियदेनमदस्तृतीयमद्भ्योऽजनयन्नृमण अजस्रमिति । (*divaspari prathamaṃ jajñe 'gniriti | prāṇo vai divaḥ praṇādu vā viṣa prathamama jāyatāsmadvitīyaṃ pari jātavedā iti yadenamado dvitīyaṃ puruṣavidhojanayattṛtīyamapsitiyadenamadastṛtīyamadbhyo 'janayannṛmaṇa ajasramiti |*) (Śa. Brā. 6-7-4-3): in these sentences it is explained that Agni was born first from the world of heaven, born a second time from men at the time of sacrifice and the like, and had a third birth from water. Of the many kinds of birth of Agni, here he is described as द्विजन्मा (*dvijanmā*) as suits this context.
+
+त्रिवृदन्नं (*trivṛdannaṃ*)—the three kinds of food: ghee, puroḍāśa and soma. This subject has been told in the first part of the Ṛgveda-saṃhitā, the introductory section. They are the foods to be offered in the haviryajña, the pākayajña and the soma sacrifices.
+
+संवत्सरे नावृधे जग्धमी पुनः (*saṃvatsare nāvṛdhe jagdhamī punaḥ*) **NOTE**—the food eaten in the sacrifice in hand he makes grow again after a year has passed. Sacrifice brings about rain, and rain increases the sacrificer's wealth, so after a year sacrifices such as the Agniṣṭoma are again performed in due order. In sentences such as संवत्सरोऽग्निर्वैश्वानरोऽग्निरग्निष्टोमः (*saṃvatsaro 'gnirvaiśvānaro 'gniragniṣṭomaḥ*) (Pa. Brā. 3-41) **NOTE** identity is stated among Agni, the Agniṣṭoma and the year. The oblations made throughout the year are digested, and at the beginning of the next year they increase again. This subject will be told in detail when the Atirātra, Ukthya and Agniṣṭoma are explained.
+
+अन्यस्यासा जिह्वया जेन्यः (*anyasyāsā jihvayā jenyaḥ*)—two meanings are given here. अन्यस्य आसा जिह्वया (*anyasya āsā jihvayā*) means first "by the tongue that tastes the oblation", and secondly "by the ladle that is the tongue of the hotṛ". Both are causes of Agni's increase.
+
+### Printed p. 107
+
+##### Grammar
+
+- द्विजन्मा — द्वे जन्मनी यस्य सः द्विजन्मा । व्यत्ययेन उत्तरपद आद्युदात्तस्वरः भवति । प्रथमा एकवचनांतरूपम् । जनी प्रादुर्भावे धातुः । अन्येभ्योपि दृश्यंते (पा.सू. ३-२-७५) इति मसिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । **NOTE**
+- त्रिवृत् — वृतु वर्तने धातुः । क्विप् प्रत्ययः । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- ऋज्यते — ऋज गतिस्थानार्जनोपार्जनेषु धातुः । लट् प्रथमपुरुष एकवचने त प्रत्ययः । टितआत्मने इति टेः एत्वम् । व्यत्ययो बहुलम् इति श्यन् विकरणं भवति । तस्य जित्वातिदेशात् गुणः न भवति । अथवा भृज्यते इति छेदः । तदा ऋजो पाके धातुः । पक्वं करोति इत्यर्थः । पूर्ववत् प्रक्रिया । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- ववृधे — वृधु वृद्दौ धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लिट् । प्रथमपुरुषएकवचनस्य एशादेशः । छांदसत्वात् अभ्यासस्य संहितायां दीर्घः । तिजंतनिघातस्वरः भवति ।
+- जग्धम् — अद भक्षणे धातुः । निष्ठा (पा. सू. ३-२-१०२) इति क्त प्रत्ययः । अदो जग्धिर्ल्यप्तिकिति (पा. सू. २-४-३६) इति धातोः जग्धादेशः । धत्वम् । लोप प्रत्ययस्वरेण अंतोदात्तः भवति । द्वितीयाविकवचनांतरूपम् ।
+- ईम् — अस्य मकारस्य छांदसत्वात् संहितायां लोपः भवति ।
+- आसा — आस्य शब्दः । तृतीयाविभक्तिपरे पद्मन्नोमास् (पा. सू. ६-१-६३) इति अस्य आसन् आदेशः । सुपांसुलुक् (पा. सू. ७-१-३९) इति विभक्तेः डादेशः । दित्त्वात् टेः (अस्) लोपः । अनुदात्तनिमित्तेन उदात्तलोपात् अनुदात्तस्यचयत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति अनुदात्तायाः विभक्तेः उदात्तस्वरः भवति ।
+- जेन्यः — जि जये धातुः । कृत्यल्युटो बहुलम् (पा. सू. ३-३-११३) इत्यत्र बहुग्रहणसामर्थ्यात् कर्तरि अचोयत् (पा. सू. ३-१-९७) इति यत् प्रत्ययः । तस्य नुडागमः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति ।
+- वृषा — वृषु सेचने धातुः । कनिन्‌युवृषि (उ. सू. १-१५४) इति कनिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- मृष्ट — मृजूष् शुद्ध धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लज् । व्यत्ययोबहुलम् (पा. सू. ३-१. ८५) इति आत्मनेपदी भवति । प्रथमपुरुषएकवचने तप्रत्ययः । अदिप्रभृतिभ्यः शपः इति शपः लुक् । व्रश्चभृस्थ इति जकारस्य षत्वम् । तं निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । अतिजंतस्य परत्वात् निघातस्वरः भवति । (Ṛk 2)
+
+### Printed p. 108
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ष्ण॒पुत्रौ॑ वेवि॒जे अ॑स्य स॒क्षिता॑ उ॒भा त॑रेते अ॒भि मा॒तरा॒  ॑
+> शिशुं ।  
+> प्रा॒चाजि॑ह्वं ध्व॒सयं॑तं तृषु॒च्युत॒मा साच्यं॒ कुप॑यं॒ ॑ ॒
+> वर्धनं पितुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृष्णपुत्रौ । वेविजे इति । अस्य । सक्षितौ । उभा । तरेते इति । अभि । मातरा । शिशुं।  
+> प्राचाजिह्वं । ध्वसयंतं । तृषुच्युतं। आ । साच्यं । कुपयं । वर्धनं । पितुः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्नेर्मातरा मातृस्थानीये उत्पादयित्र्यावुभोभे अरण्याख्यॆ मातरौ
+> वेविजे । चलतः । ओविजी भयचलनयोः । अस्माद्यज् लुगंताद्व्यत्ययेनात्मनेपदमेकवचनं च । लोपस्त आत्मनेपदेष्टिति तलोपः । चादिलोपे विभाषेति निघाताभावः ॥ मथनोपक्रमे कृष्णप्रतावग्नि संपर्कात्कृष्टवर्णतां प्राप्नु वत्यौ प्रापयंत्यौ ना भूमिं तथा सक्षितौ समानकार्यमग्न्युत्पादनं गच्छंत्यौ एवंभूते
+> मातरौ शिशुं शिशुवदुत्पत्तिसमयेऽत्यल्पमग्निमभि तरेते । अभिमुख्येन प्राप्पुतश्च ।
+> कीदृशं शिशुं । प्राचाजिह्वं प्राग्देशस्थितजिह्वास्थानीयज्वालं ध्वसयंतं तमो नाशयंतं तृषुच्युतमरणीभ्यां क्षिप्रं निर्गच्छंतमक्लेशेन योनेः सकाशाच्छीघ्रमुत्पद्यमानं । आ ईषत् साच्यं समवेतव्यं मृदुकाष्ठचूर्णादिना कुपयं गोपनीयं पितुः पालकस्य यजमानस्य वर्धनं प्रवर्धनं प्रवर्धयितारं । उक्तप्रकारैर्लौकिकशिशुसाधारणैरुपेतं शिशुमग्निं मातरावुत्पादयत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The two mothers of this Agni, that is, the two producers standing in the place of mothers, called the two araṇi, are in movement (वेविजे (*vevije*), चलतः (*calataḥ*); root ओविजी (*ovijī*) "fear, move"). From it the ātmanepada and singular come by vyatyaya, with loss of ta. They are कृष्णपुत्रौ (*kṛṣṇaputrau*): at the start of churning, through contact with fire, they take on a dark colour, or they make the ground dark; and सक्षितौ (*sakṣitau*): engaged in the same work, the production of fire. These two mothers अभि तरेते (*abhi tarete*) the child, that is, the very small agni at the time of birth, as an infant; they reach it face to face. What sort of child? प्राचाजिह्वं (*prācājihvaṃ*): whose flame, standing like a tongue, is directed to the eastern region; ध्वसयंतं (*dhvasayaṃtaṃ*): destroying darkness; तृषुच्युतं (*tṛṣucyutaṃ*): issuing quickly from the araṇi, coming out swiftly from the womb without trouble; आ साच्यं (*ā sācyaṃ*): आ (*ā*) is "slightly", to be joined with soft wood-dust and so on; कुपयं (*kupayaṃ*): to be protected; *pituḥ vardhanaṃ*: the increaser of the father, that is, of the protecting sacrificer. The sense is: the two mothers produce Agni as a child, endowed with the attributes named, common to worldly infants.
+
+### Printed p. 109
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Agni
+- मातरा (*mātarā*)—who are mothers (causes of the birth)
+- उभा (*ubhā*)—both the araṇi
+- वेविजे (*vevije*)—move
+- कृष्णपुत् (*kṛṣṇaput*)—those that turn black (through contact with fire), or that make the ground black
+- सक्षितौ (*sakṣitau*)—those that are joined together (for the production of fire), these araṇi in the form of mothers
+- प्राचाजिह्वं (*prācājihvaṃ*)—one whose flame, like a tongue, is in the eastern direction
+- ध्वसयंतं (*dhvasayaṃtaṃ*)—one who destroys (darkness)
+- तृषुच्युतं (*tṛṣucyutaṃ*)—one who appears outside at once (from the araṇi)
+- आ साच्यं (*ā sācyaṃ*)—one who grows (together with the wood-dust)
+- कुपयं (*kupayaṃ*)—one to be protected
+- पितुः (*pituḥ*)—of the sacrificer, who is like a father
+- वर्धनं (*vardhanaṃ*)—the cause of the increase
+- शिशुं (*śiśuṃ*)—Agni, who is of the form of a child
+- अभि तरेते (*abhi tarete*)—they give birth to **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Both araṇi, the causes of Agni's birth, move. The araṇi, which turn black through contact with fire and are joined together for the production of fire, produce Agni, who is of the form of a child: whose flame, like a tongue, is in the eastern direction; who destroys darkness; who appears outside as soon as the araṇi are churned; who grows together with wood-dust; who is to be protected; and who is the cause of the increase of the sacrificer, who is like a father.
+
+##### Printed English
+
+Both his associated mothers, blackened ( by combustion ), are in movement and give birth to an infant, whose tongue (of flame glows) in the east : (who) dissipates darkness ; (who) rapidly issues forth ; (who) is readily developed; (who) is (ever) to be cherished, and is the augmenter ( of the prosperity ) of his parent, ( the institutor of the rite ).
+
+##### विशेषविषयगळु (Special Topics)
+
+मातरा (*mātarā*)—both araṇi, the cause of Agni's birth, are well known as Agni's mothers. In the Ṛks अस्तीदमधिमंथनमस्ति प्रजननं कृतं (*astīdamadhimaṃthanamasti prajananaṃ kṛtaṃ*) (Ṛ. Saṃ. 3-29-1) and अरण्योर्निहितो जातवेदा गर्भ इव सुधितो गर्भिणीषु (*araṇyornihito jātavedā garbha iva sudhito garbhiṇīṣu*) (Ṛ. Saṃ. 3-29-2), just as a child lies hidden in the womb of pregnant women, Agni lies hidden between the araṇi and is born at the time of churning. Therefore the araṇi are his mothers. Just as द्विजन्मा (*dvijanmā*), so also द्विमाता (*dvimātā*) (Ṛ. Saṃ. 1-31-2) is an epithet of Agni.
+
+तृषुचुत्यं (*tṛṣucutyaṃ*) **NOTE**—तृष्टिति क्षिप्रनाम तरतेर्वा, त्वरतेर्वा (*tṛṣṭiti kṣipranāma taratervā, tvaratervā*) (Ni. 6-12). From the root तृ (*tṛ*), which gives the meaning "cross over (go forward)", or from the root which gives the meaning "move quickly"
+
 ---
 
-**Progress note:** Done through printed p. 102. pp. 96-102 (batch API)
+**Progress note:** Done through printed p. 109. pp. 103-109 (batch API)
