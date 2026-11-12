@@ -3749,6 +3749,135 @@ In sentences like these the nature of the sacrificer's house and its special qua
 - गृहाय—ग्रह उपादाने धातुः । लोट् मध्यमपुरुष एकवचने हि आवेदः । छंदसि शायजपि (पा. सू. ३-१-८४) इति श्नाविकरणस्य शायचादेशः । अतो हेः इति हेः लुक् । व्यत्ययेन भत्वं न भवति ।**NOTE**
 - नित्यारित्राम्—नित्यं नियतं अरित्रं यस्याः सा । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति ।
 
+### Printed p. 151
+
+##### Grammar
+
+- पद्वतीम् — पत् पादः अस्याः अस्ति इति पद्वत् । स्त्रीत्वे उगितश्च (पा. सू. ४-१-६) इति जीप् । ह्रस्वनुड्भ्यां मतुस् (पा.सू. ६-१-१७६) इति मतुस उदात्तस्वरः भवति । द्वितीयाविकवचनांतरूपम् ।
+- रासि — रा आदाने इति धातुः । लेट् मध्यमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति । राधातुः अत्र दानार्थे पठितः । दासति राशि (नि. ३-२००४) इति दानकर्मार्थेषु पठितः । **NOTE**
+- वीरान् — अज गतिक्षेपणयोः इति धातुः । स्थायितञ्चि—(उ. सू. २-१७०) इति रक् प्रत्ययः । धातोः वीभावः । प्रत्ययस्वरेण अंतोदात्तः भवति । द्वितीयाबहुवचनांतरूपम् ।
+- मघोनः — मघ अस्य अस्ति इति मघवा । छंदसी वनिपौ इति मत्वर्थे वनिप् प्रत्ययः । द्वितीयाबहुवचने परे श्वयुवमघोनामतद्दिते ( पा. सू. ६-४-१३३) इति वकारस्य संप्रसारणम् । पूर्वरूपम् । गुणः । एकादेशउदात्तेनोदात्तः (पा. सू. ८-२-५) इति ओकार उदात्तः भवति ।
+- पारयात् — पार तीर समाप्ति इति धातुः । लेट् प्रथमपुरुष एकवचने तिप् प्रत्ययः । सत्यापपाश—(पा. सू. ३-१-२५) इति स्वार्थे णिच् । इतश्चलोपः पर—(पा. सू. ३-४-९८) इति प्रत्ययस्य इकारस्य लोपः । लेटोऽडाट् (पा. सू. ३-४-९४) इति आडागमः । णिचः गुणः । अयादेशः । यच्छब्दस्य पूर्वत्वात् यद्वृत्तान्नित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति । णिच्स्वरः अवशिष्यते ।
+- वीरान्+उत — दीर्घादटि समानपादे (पा.सू. ८-३-९) इति नकारस्य रुत्वम् । आतोटिनित्यम् (पा. सू. ८-३-३) इति पूर्वस्य आकारस्य नित्यानुनासिकत्वम् ।
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी नो॑ अग्न उ॒क्तमिज्जु॑गुर्या॒ द्यावा॒क्षामा॒ सिंध॑वश्च॒  ॑
+> स्वगूर्ताः ।  
+> गव्यं॒ यव्यं॒ यंतो॑ दी॒र्घाहेषं॒ वर॑मरु॒ण्यो॑ वरंत ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नः । अग्ने । उकथं । इत् । जुगुर्याः! द्यावाक्षामा। सिंधवः । च । स्वगूर्ताः ।  
+> गव्यं । यव्यं । यंतः । दीर्घा । अहा । इषं । वरं । अरुण्यः । वरंत ॥ १३ ॥
+
+### Printed p. 152
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने न उकथं शस्त्रमभि जुगुर्याः । अभिमुख्येन स्तुहि प्रोत्साहय ।
+> सम्यक् शस्तमित्यंगीकुरु ॥ ग्य शब्दे । लिजि बहुलं छंदसीति विकरणस्य श्लुः । बहुलं
+> छंदसीत्युत्वं ॥ तथा द्यावाक्षामा द्यावापृथिव्यावपि यज्ञ साधनसंपादनेन प्रोत्साह
+> हयतां । तथा सिंधवः स्यंदनशीला नद्यश्च स्वगूर्ताः स्वयमेव गामिन्यो गव्यं
+> गोसंभवं क्षीरादिकं गवां तृणाद्युत्पादनद्वारा यव्यं । उपलक्षणमेतत् । यवव्रीह्यादिजन्यं पुरोडाशादिकं यंतः प्रापयंतः प्रोत्साहयंतु । तथारुणो 5-
+> रुणवर्णगोयुक्ताः मत्वर्थियो लुष्यते ॥ आरुण्यसाधनभूता उषसः । तद्देतुत्वात्ताच्छब्दं । दीर्घाहा सर्वाण्यहानि सर्वकालमिषमिष्यमाणमन्नरसादिकं वरं
+> वरणीयं श्रेष्ठमन्यदपि यागसाधनं वरंत । प्रापयंतु ॥ वृज् संभक्तौ । अंतर्भावितण्यर्थाच्छांदसो लज् । व्यत्ययेन शप् ॥ साधयंतु । एतत्सर्वमग्नेः
+> प्रसादादित्यग्नेरेव स्तुतित्वादाग्नेयत्वमविरुद्धं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, applaud our uktha (उकथं (*ukathaṃ*), recitation), शस्त्रं (*śastraṃ*)": praise it face to face, encourage it, accept it as well recited. The root ग्य (*gya*) is used of sound. Heaven and earth also should encourage us by providing the means of the sacrifice. Likewise the flowing rivers, स्वगूर्ताः (*svagūrtāḥ*), going of their own accord, should encourage us by bringing, through the growing of grass and the like for the cows, what comes from cows (milk and so on) and what comes from barley (यव्यं (*yavyaṃ*)); this is only an indication: the purodāśa and other offerings made of barley and rice are meant. The अरुण्यः (*aruṇyaḥ*) are the dawns, endowed with ruddy-coloured cows (the affix denoting "possessing" is dropped), or the dawns as the means of ruddiness, so called because they cause it. दीर्घाहा (*dīrghāhā*): on all days; इषं (*iṣaṃ*): food, sap and the like that is desired, at all times; वरं (*varaṃ*): choice, excellent; and any other means of sacrifice also, may they वरंत (*varaṃta*), bring about (root वृज् (*vṛj*), to share; a causative sense is implied). All this being through Agni's favour, the verse is praise of Agni alone, so its being addressed to Agni is not contradicted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- उकं (*ukaṃ*)—hymn of praise
+- अभि जुगुर्याः (*abhi juguryāḥ*)—applaud it as excellent [declare your acceptance]
+- द्यावाक्षामा (*dyāvākṣāmā*)—may heaven and earth applaud
+- सिंधवः (*siṃdhavaḥ*)—those having the form of streams
+- स्वगूर्ताः च (*svagūrtāḥ ca*)—and the rivers that flow by their own nature
+- गव्यं (*gavyaṃ*)—(through growing and nourishing grass) the milk and the like of cows
+- यव्यं (*yavyaṃ*)—the purodāśa and the like made of barley
+- यंतः (*yaṃtaḥ*)—supplying (may they applaud our hymn)
+- अरुण्यः (*aruṇyaḥ*)—the dawns accompanied by golden-coloured cows
+- दीर्घाहा (*dīrghāhā*)—on all days
+- वरं (*varaṃ*)—excellent
+- इषं (*iṣaṃ*)—food
+- वरंत (*varaṃta*)—may they provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, applaud our hymn of praise as excellent and utter words of acceptance. May heaven and earth likewise applaud; may the rivers, flowing by their own nature, make grow the grass and the like which is the food of cows, and through it provide us the milk and the like of cows and the purodāśa and the like made of barley, and so applaud our hymn. May the dawns, accompanied by golden-coloured cows, provide excellent food on all days.
+
+##### Printed English
+
+Agni, be propitiated by this our earnest praise, and may heaven and earth, and the spontaneously-flowing (streams), provide for us the produce of
+
+### Printed p. 153
+
+the herd, and of the field ; and may the purple coursers (of the dawn) bestow upon us abundant food through a length of days.
+
+##### विशेषविषयगळु (Special Topics)
+
+उक्तं अभि जुगुर्याः (*uktaṃ abhi juguryāḥ*)—"Praise our uktha as excellent": thus Agni is prayed to. Here Sāyaṇa has explained uktha as शस्त्रं (*śastraṃ*). Pointing out the subtle difference that exists in places between śastra and stotra, and the difference between the meaning "stotra" which Sāyaṇa gave to the word uktha in Śatapatha Brāhmaṇa 4-3-3-7 and the meaning of the word uktha in sentences 4-2-3-6 to 9, he has explained this earlier. Here, since it is said that Agni and heaven and earth should applaud the sacrificer's uktha, we should understand a little what the greatness of this uktha is, which gladdens the gods.
+
+The power of the uktha is very great, so that growth certainly comes to all who take refuge in it. There is a story in the Aitareya Brāhmaṇa that once, when the Asuras took shelter in the uktha, great strength and growth came to them too, and Indra, being praised, came and drove them off.
+
+ते वा असुरा मैत्रावरुणसोक्षमाश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्वरुणस्तस्मादैंद्रावरुणं मैत्रावरुणस्कृतीयसवने शंसंतींद्रश्च हि तान्वरुणश्च ततो नुदेतां । (*te vā asurā maitrāvaruṇasokṣamāśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdvaruṇastasmādaiṃdrāvaruṇaṃ maitrāvaruṇaskṛtīyasavane śaṃsaṃtīṃdraśca hi tānvaruṇaśca tato nudetāṃ |*)
+The Asuras entered the Maitrāvaruṇa uktha. Then Indra asked who among them would help him drive the Asuras out of this uktha, and Varuṇa said that he would help. At that time the Maitrāvaruṇa, the assistant of the Hotṛ, at the third pressing recited the sūkta beginning with the Ṛk
+इंद्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतं (*iṃdrāvaruṇā yuvamadhvarāya no viśe janāya mahi śarma yacchataṃ*) (Ṛ. Saṃ. 7-82-1)
+and praised Indra and Varuṇa. Then Indra and Varuṇa drove those Asuras off with the Mitrāvaruṇa śastra.
+
+ते वै ततोऽपहता असुरा ब्राह्मणाच्छंसिन उक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्बृहस्पतिस्तस्मादैंद्राबार्हस्पत्यं ब्राह्मणाच्छंसी तृतीयसवने शंसतींद्रश्च हि तान्ब्रहस्पतिश्च हि ततो नुदेतां । (*te vai tato 'pahatā asurā brāhmaṇācchaṃsina uktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdbṛhaspatistasmādaiṃdrābārhaspatyaṃ brāhmaṇācchaṃsī tṛtīyasavane śaṃsatīṃdraśca hi tānbrahaspatiśca hi tato nudetāṃ |*)
+
+### Printed p. 154
+
+The Asuras driven from there entered the uktha of the Brāhmaṇācchaṃsin. Then Indra rose and asked who would help him drive these Asuras out from here, and Bṛhaspati rose and said he would help. Then the Brāhmaṇācchaṃsin at the third pressing recited the sūkta beginning with the Ṛk
+उदपुतो न वयो रक्षमाणा वावदतो अभ्रियस्येव घोषाः । गिरिभ्रजो नोर्मयो मदंतो बृहस्पतिमभ्यंकर्का अनावन् । (*udaputo na vayo rakṣamāṇā vāvadato abhriyasyeva ghoṣāḥ | giribhrajo normayo madaṃto bṛhaspatimabhyaṃkarkā anāvan |*) (Ṛ. Saṃ. 10-68-1)
+and praised Indra and Bṛhaspati. Then Indra and Bṛhaspati together drove the Asuras off from there.
+
+ते वै ततोऽपहता असुरा अच्छावाकस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्सावहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मादैंद्रावैष्णवमच्छावाकस्कृतीयसवने शंसतींद्रश्च हि तान्विष्णुश्च ततो नुदेतां । (*te vai tato 'pahatā asurā acchāvākasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsāvahā ityahaṃ cetyabravīdviṣṇustasmādaiṃdrāvaiṣṇavamacchāvākaskṛtīyasavane śaṃsatīṃdraśca hi tānviṣṇuśca tato nudetāṃ |*) (I. Bra. 15-6) **NOTE**
+The Asuras driven out of the uktha of the Brāhmaṇācchaṃsin joined themselves to the uktha of the Acchāvāka. Then Indra rose and asked which of them would help him drive these out from here. Then Viṣṇu said he would help. At that time the Acchāvāka recited the sūkta beginning with the Ṛk
+— सं वां कर्मणा समिषा हिनोमींद्राविष्णू अपसस्पारे अस्य । जुषेथां यज्ञं द्रविणं च धत्तमरिष्टैर्नः पथिभिः पारयंता ॥ (*— saṃ vāṃ karmaṇā samiṣā hinomīṃdrāviṣṇū apasaspāre asya | juṣethāṃ yajñaṃ draviṇaṃ ca dhattamariṣṭairnaḥ pathibhiḥ pārayaṃtā ‖*) (Ṛ. Saṃ. 6-69-1)
+and praised Indra and Viṣṇu. Then they drove the Asuras off from there too. This story is recited in the Aitareya Brāhmaṇa (15-6). From it the power of the uktha, and the benefit that comes by it to the sacrificer who recites it, is understood.
+
+Just as the power of the uktha is described at the time of sacrifices and other rites, so too in teaching spiritual knowledge the greatness of this uktha, of the nature of praise, is extolled. In the Bṛhadāraṇyaka Upaniṣad:
+उक्कं प्राणो वा उक्कं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्खविद्वीरस्तिष्ठत्युक्थस्य सायुज्यं सलोकतां जयति य एवं वेद (*ukkaṃ prāṇo vā ukkaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukkhavidvīrastiṣṭhatyukthasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda*) (Bṛ. U. 5-13-1)
+उक्तं तथोपासनांतरं । उक्तं शस्त्रं । तद्धि प्रधानं महाव्रते क्रत् । (*uktaṃ tathopāsanāṃtaraṃ | uktaṃ śastraṃ | taddhi pradhānaṃ mahāvrate krat |*) (Śāṅkara-bhāṣya) **NOTE**
+
+### Printed p. 155
+
+In the sacrifice of the form Mahāvrata, the uktha, the principal śastra, is itself the vital breath (prāṇa). By it rising up (utthāna) comes about. Therefore a son who knows the uktha is born and obtains likeness to it and equal honour. Thus the greatness of the uktha is told. When such an uktha is being recited, "Know its greatness and praise it" means: may it gladden you and become worthy of your praise.
+
+अभि जुगुर्याः- अभिमुख्येन स्तुहि । प्रोत्साहय सम्यक्वस्तमित्यंगीकुरु (*abhi juguryāḥ- abhimukhyena stuhi | protsāhaya samyakvastamityaṃgīkuru*) means: speak words of acceptance, "it has been praised in a special manner". Or else, in the Ṛk
+प्र स्तोषदुप गासिषच्छवत्साम गीयमानं । अभि राधसा जुगुरत् (*pra stoṣadupa gāsiṣacchavatsāma gīyamānaṃ | abhi rādhasā jugurat*) (Ṛ. Saṃ. 8-81-5)
+the verb अभि जुगुरत् (*abhi jugurat*) has the sense अभिगृणातु स्वीकुरु (*abhigṛṇātu svīkuru*), "accept"; so here too the meaning may be "accept". The purport is the same.
+
+स्वगूर्ताः (*svagūrtāḥ*)—स्वयमेव गामिन्यः (*svayameva gāminyaḥ*): Sāyaṇa has explained it as "flowing by their own nature". But the word गूर्त (*gūrta*) ordinarily means "worthy of praise, renowned"; it also means praisers, those who extol. For example, in the Ṛk
+तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः । पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधिरोह तेजसा । (*taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ | patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhiroha tejasā |*) (Ṛ. Saṃ. 7-56-2)
+गूर्तयः (*gūrtayaḥ*) is explained as स्तोत्रारः (*stotrāraḥ*), and in
+तं वः सखायो मदाय प्रसानमभि गायक । शिशुं न यज्ञैः स्वदयंत गूर्तिभिः । (*taṃ vaḥ sakhāyo madāya prasānamabhi gāyaka | śiśuṃ na yajñaiḥ svadayaṃta gūrtibhiḥ |*) (Ṛ. Saṃ. 9-105-1)
+गूर्तिभिः (*gūrtibhiḥ*) is explained as स्तुतिभिः (*stutibhiḥ*), "with praises"; and likewise in other places too the meaning "praiseworthy, renowned" occurs. Accordingly, in the present Ṛk too one may explain: rivers of praiseworthy or abundant flow.
+
+##### Grammar
+
+- अभि — निपातस्य च (पा. सू. ६-३-१५६) इति संहितायां दीर्घः भवति ।
+- जुगुर्याः — ग्य शप्पे इति धातुः । लज् मध्यमपुरुष एकवचने सिप् । इतश्च इति इकारलोपः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । बहुलं छंदसि इति
+
+### Printed p. 156
+
+- (जुगुर्याः, मुंदुवरिदुदु) इति धातोः उत्वम् । उरणप्ररः इति रसरवागि भवति । श्लौ (पा. सू. ६-१-१०) इति धातोः द्वित्वम् । प्रत्ययस्य यासुटागमः । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- द्यावाक्षामा — दौश्च क्षामाश्च द्यावाक्षामा । दिवोद्यावा (पा. सू. ६-३-२९) इति उत्तरपदे परे द्यावादेशः । सुपां सुलुक्—(पा. सू. ७-१-३९) इति विभक्तेः (औ) आकारादेशः । देवताद्वंद्वे च (पा. सू. ६-२-१४१) इति उभयपदप्रकृतिस्वरः भवति । क्षामा भूमिपर्यायत्वेन वेदे पठितः ।
+- सिंधवः — स्यंदू प्रस्रवणे इति धातुः । स्यंदेस्संप्रसारणं धश्च (उ. सू. १-११) इति उन्‌प्रत्ययः । धातोः दकारस्य धकारादेशः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- गव्यम् — गोर्विकारः गव्यम् । गोपयसोर्यत् (पा. सू. ४-३-१६०) इति यत् प्रत्ययः । वांतोयि प्रत्यये (पा. सू. ६-१-७९) इति अवादेशः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति । एवमेव यव्यम् इत्यत्रापि स्वरप्रत्ययाः भवंति ।
+- यंतः — इण् गतौ इति धातुः । प्रेरणात् अंतर्भानितण्यर्थकः धातुः । लडर्थे शतृप्रत्ययः । इणोयण् (पा. सू. ६-४-८१) इति धातोः यणादेशः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- अहा — शेश्छंदसि बहुलम् (पा सू- ६-१-७०) इति शेः लोसः ।
+- अरुण्यः — अत्र अरुणवर्णविशिष्टाः इति अर्थप्रतीतेः छांदसत्वेन मत्त्वर्थप्रत्ययः लुप्तः ।
+- वरंत — वृज् संभक्तौ इति धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति लोडर्थे लज् । प्रेरणात् अंतर्भानितण्यर्थकः धातुः । प्रथमपुरुषबहुवचने झ प्रत्ययः । अंतादेशः । शप् विकरणम् । धातोः गुणः । बहुलं छंदस्यमाज् योगेऽपि (पा. सू. ६-४-७५) इति अडागमः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 150. pp. 143-150 (batch API)
+**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
