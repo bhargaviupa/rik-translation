@@ -11734,6 +11734,124 @@ As in such Ṛks it is said that at the time of Agni's origin heaven and earth b
 - विदथे — विद ज्ञाने धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इति अथ प्रत्ययः । जित्त्वविधानात् लघूपधगुणो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति । सप्तम्येकवचनांतं रूपं ।
 - जीजनन् — जनी प्रादुर्भावे । प्रेरणे णिच् । णिजंतात् लुज् । प्रथमपुरुषबहुवचने अंतादेशः । अंत्यस्य इकारस्य लोपः । णिश्रिद्रुसुभ्यःकर्तरिचज् (पा. सू. ३-१-४८)
 
+### Printed p. 480
+
+च्छेः चजादेशः । मित् संज्ञात् धातोरुपधायाः ह्रस्व चङ् (पा. सू. ६-११-११) इति धातोर्द्वित्वम् । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । सन्वल्लुघुनि—(पा. सू. ७-४-९३) इति सन्वद्भावात् सन्यतः इति सूत्रेण अभ्यासस्य इत्वम् । दीर्घो लघोः (पा. सू ७-४-९४) इति तस्य दीर्घः । बहुलं छंदस्यमाज्‌योगेऽपि इति अडागमो न भवति । यच्छब्दसंबंधात् निघातस्वरो न भवति । अभ्यस्तानामादिः इति आद्युदात्तस्वरो भवति ।
+- अरेजेताम् — रेजृ कंपने इति धातुः । लज् प्रथमपुरुषद्विवचनांतरूपम् । अनुदात्ते ताद धातुत्वात् तास्यनुदात्तेत्—(पा. सू. ९-१-१८९) इति लसार्वधातुकस्य अनुदात्तत्वात् आद्युदात्तं भवति । पादादित्वात् निघातस्वरो न भवति । **NOTE**
+- पाजसा — पा रक्षणे इति धातुः । पातेर्बले जुट् च (उ. सू. ५-९४-२) इति बलरूपार्थे द्योत्ये असुन् प्रत्ययः तस्य जुटागमः । टित्त्वात् आद्यनयनं भवति । इत्यादिनिर्नित्यम् इति आद्युदात्तस्वरो भवति । तृतीया एकवचनांतरूपम् ।
+- गिरा — गृ निगरणे इति धातुः । क्विप् प्रत्ययः । तृतीयांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- यजतम् — यज देवपूजासंगतिकरणदानेषु इति धातुः । भ्रमृदृशियजि—(उ. सू. ४-३९०) इति अतच् प्रत्ययः । चितः (पा सू ६-१-१६३) इति अंतोदात्तस्वरो भवति । द्वितीया एकवचनांतरूपम् ।
+- जनुषाम् — जनी प्रादुर्भावे इति धातुः । जनेरुसि (उ. सू. २-२७-२) इति उसि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । छांदसत्वात् मत्त्वर्थप्रत्ययस्य लुक् ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युद्ध॒ त्यद्वां॑ पुरुमा॒ळस्य॑ सो॒मिनः॒ प्र मि॒त्रासो॒ न द॑धि॒रे  ॒॑
+> स्वा॒भुवः॑ । ॒ 
+> अध॒ क्रतुं॑ विदतं गा॒तुमर्च॑त उ॒त श्रु॑तं वृषणा प॒स्ता॑वतः ॥ २ ॥
+
+### Printed p. 481
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह । त्यत् । वां । पुरुमीळस्य । सोमिनः । प्र । मित्रासः । न । दधिरे ।  
+> सुआभुवः ।  
+> अध । कृतुं । विदतं । गातुं । अर्चते । उत । श्रुतं । वृषणा । पस्त्रैवतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ यव्यस्मत्कारणाद्वां युवां पुरुमाळ्पस्य बहुलाभीष्टनेचनस्य सोमिनः स्वाभुवः सोमवतः स्वाभवनशीलस्य ॥ कर्मणि षष्ठि ॥ त्यदुक्तलक्षणं
+> कर्म प्र मित्रासो न मित्राणीव मित्रभूता ऋत्विजः प्र दधिरे प्रकर्षेण धारयंति ।
+> हेति पूरणः । अधातः कारणाद्दातुं युष्मद्गमनमर्चते ॥ षष्ठ्यर्थे चतुर्थी ॥
+> अर्चतः पूजयतो यजमानस्य क्रतुं कर्म विदतं । जानीतं ॥ विदेर्लोटि
+> व्यत्ययेन शः॥ उतापि च हे वृषणा कामानां वर्षितार् युवां पस्तावतः। पस्तेति
+> गृहनाम पस्ता दुरोण इति तन्नामसूक्तत्वात्। सदःप्राचीन वंशादिगृहवतो यजमानस्याह्वानं स्तोत्रं वा श्रुतं । शृणुतं ॥ छांदसो विकरणस्य लुक् ॥ यद्वा ।
+> यद्यस्मात्सोमिनः सोमवतः पुरुमाळ्पस्यॆतन्नामकस्य राज्यो मित्रासो न मित्राणीव स्थिताः स्वाभुवः स्वाभवनशीलाः स्वस्वव्यापारसमर्था दधिरे अधातः कारणात्तस्सार्चतेऽर्चतः क्रतुं विदतमित्यादि पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, for which reason you (yuvām) are addressed: the priests, standing like friends (मित्रासो न (*mitrāso na*)), carry forth (प्र दधिरे (*pra dadhire*), "hold up with excellence") that rite—the one just described—of the one who is *puru-mīḷha*, that is, a showerer of abundant desired things (बहुलाभीष्टनेचनस्य (*bahulābhīṣṭanecanasya*)), who has Soma, and who is *svābhū*, of the nature of becoming by himself. The genitive here stands in the sense of the object. The particle ह (*ha*) is a filler. Therefore (अध (*adha*)) the word गातुं (*gātuṃ*) means "your coming", and अर्चते (*arcate*) is a dative in the sense of a genitive: of the worshipping sacrificer. Know (विदतं (*vidataṃ*), "you two know") his rite (क्रतुं (*kratuṃ*)); the verb is from विद (*vida*) in the imperative, with श (*śa*) by interchange. And also, O showerers of desires (वृषणा (*vṛṣaṇā*)), listen to (श्रुतं (*śrutaṃ*) = शृणुतं (*śṛṇutaṃ*); the vikaraṇa is dropped in the Veda) the sacrificer who has a *pastyā* (पस्तावतः (*pastāvataḥ*)). पस्ता (*pastā*) is a name of the house, since it occurs in the list of house-names (पस्ता दुरोण (*pastā duroṇa*)); the sense is a sacrificer who owns a house with a hall, an eastern bamboo-frame and so on; the invitation or the praise of him is to be heard.
+
+Alternatively: since the priests, who stand like friends of the Soma-possessing king named Purumīḷha, and are *svābhū*—self-becoming, able in their own tasks—perform the rite; therefore, for him who worships, "know the rite" and the rest as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for what reason
+- ऎलै मित्रावरुणरे (*èlai mitrāvaruṇare*) (O Mitra and Varuṇa) वां (*vāṃ*)—addressing you two
+- पुरुमीळ्हस्य (*purumīḷhasya*)—of the one who is to pour out abundantly (who causes the desired object to be poured out)
+- सोमिनः (*sominaḥ*)—filled with Soma juice
+- स्वाभुवः (*svābhuvaḥ*)—furnished with an oblation that proceeded from one's own delight
+- त्यत् (*tyat*)—that sacrificial rite
+- प्र मित्रासो न (*pra mitrāso na*)—the priests who are like excellent friends
+- दधिरे (*dadhire*)—do they perform. [Or: सोमिनः (*sominaḥ*)—of the king named Purumīḷha, who possesses Soma juice; प्र मित्रासो न (*pra mitrāso na*)—those who are like excellent friends; स्वाभुवः (*svābhuvaḥ*)—the priests who are capable in their own several tasks; त्यत् (*tyat*)—the well-known sacrificial rite; दधिरे (*dadhire*)—do they perform.]
+- अध (*adha*)—therefore
+- गातुं (*gātuṃ*)—your coming
+- अर्चते (*arcate*)—of the sacrificer who, awaiting (your coming), worships (you)
+- क्रतुं (*kratuṃ*)—the rite
+- विदतं (*vidataṃ*)—knowing (it), and praise it (the sentence continues on the next page)
+
+### Printed p. 482
+
+- उत (*uta*)—moreover
+- वृषणा (*vṛṣaṇā*)—O Mitra and Varuṇa, who grant what is desired
+- पस्तावतः (*pastāvataḥ*)—of the sacrificer who has a house (endowed with sacrificial wealth) (his hymn)
+- श्रुतं (*śrutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the priests, who are like excellent friends, perform the sacrificial rite for you two, furnished with an oblation that is to flow abundantly, that is full of Soma juice, and that has proceeded from one's own delight. Therefore, awaiting your coming, know the rite of the sacrificer who worships you, and praise it. And, O Mitra and Varuṇa, grantors of what is desired, listen well to the hymn of the sacrificer whose house is endowed with sacrificial wealth.
+
+##### Printed English
+
+Since they, (the priests), like friends, have prepared for you both, Mitra and Varuna, a libation) of the abundantly-flowing and spontaneous Soma juices, therefore do you consent to ccme to the rite of the worshipp er, and listen, showerers (of blessings) to the (prayers of the) householder.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk two kinds of meaning are given for the first half. First, the word पुरुमीळस्य (*purumīḷasya*) is explained as बहुळाभीष्टसेचनस्य (*bahuḷābhīṣṭasecanasya*)—"of one who pours out desired things abundantly"; although it is in the genitive, it is a qualifier of the object-word त्यत् (*tyat*). स्वाभुवः (*svābhuvaḥ*) means सोमवतः स्वाभुवनशीलस्य (*somavataḥ svābhuvanaśīlasya*); the purport is a sacrificial rite furnished with an oblation that proceeded from one's own delight. The meaning is that excellent priests perform such a sacrificial rite.
+
+Second, पुरुमीळ्हस्य (*purumīḷhasya*) is a proper name, "of the king named Purumīḷha", and स्वाभुवः (*svābhuvaḥ*) means priests who are capable in their own several tasks; the meaning is that such priests perform the well-known sacrificial rite. Purumīḷha is known in some places as an ancient ṛṣi and in others as a king. His story is told in the Bṛhaddevatā as follows. Although the story there concerns mainly Śyāvāśva, since it shows the relation that arose between Śyāvāśva and Purumīḷha, the story as told by the author of the Bṛhaddevatā is given here.
+
+राजर्षिरभवद्दार्भ्यो रथवीतिरिति श्रुतः । स यक्ष्यमाणो राजात्रिं अभिगम्य प्रसाद्य च ॥ (*rājarṣirabhavaddārbhyo rathavītiriti śrutaḥ | sa yakṣyamāṇo rājātriṃ abhigamya prasādya ca ‖*)
+
+### Printed p. 483
+
+स सपुत्रोऽभ्यगच्छत्तं राजानं यज्ञसिद्धये । श्वावाश्वश्चात्रि पुत्रस्य पुत्रः खल्वर्चनानसः ॥ सांगोपांगान्सर्ववेदान् यः पित्राध्यापितो मुदा । अर्चनानाः सपुत्रोऽथ गत्वा नृपमयाजयत् । यज्ञे च विततेऽपश्यद्राजपुत्रीं यशस्विनीं । स्नुषा मे राजपुत्री स्यादिति तस्य मनोऽभवत् । श्यावाश्वस्य च तस्यां वै सक्तमासीत्तदा मनः । संयुज्यस्व मया राजन्निति याज्यं च सोऽब्रवीत् ॥ श्यावाश्वाय सुतां दित्सुर्महिषीं स्वां नृपोऽब्रवीत् । कीं ते मतमहं कन्यां श्यावाश्वाय ददामि हि ॥ अत्रिपुत्रोदुर्बलो हि जामाता त्वावयोरिति । राजानमब्रवीत्सापि नृपर्षिकुलजा ह्यहं ॥ नानृषिर्नौतु जामाता नैष मंत्रान् हि दृष्टवान् । ऋषये दीयतां कन्या वेदस्यांबा भवेत्तथा । ऋषिर्मंत्रदृशं वेदपितरं मन्यते यतः । प्रत्याचष्टे स तं राजा सह संमंत्र्य भारया ॥ (*sa saputro 'bhyagacchattaṃ rājānaṃ yajñasiddhaye | śvāvāśvaścātri putrasya putraḥ khalvarcanānasaḥ ‖ sāṃgopāṃgānsarvavedān yaḥ pitrādhyāpito mudā | arcanānāḥ saputro 'tha gatvā nṛpamayājayat | yajñe ca vitate 'paśyadrājaputrīṃ yaśasvinīṃ | snuṣā me rājaputrī syāditi tasya mano 'bhavat | śyāvāśvasya ca tasyāṃ vai saktamāsīttadā manaḥ | saṃyujyasva mayā rājanniti yājyaṃ ca so 'bravīt ‖ śyāvāśvāya sutāṃ ditsurmahiṣīṃ svāṃ nṛpo 'bravīt | kīṃ te matamahaṃ kanyāṃ śyāvāśvāya dadāmi hi ‖ atriputrodurbalo hi jāmātā tvāvayoriti | rājānamabravītsāpi nṛparṣikulajā hyahaṃ ‖ nānṛṣirnautu jāmātā naiṣa maṃtrān hi dṛṣṭavān | ṛṣaye dīyatāṃ kanyā vedasyāṃbā bhavettathā | ṛṣirmaṃtradṛśaṃ vedapitaraṃ manyate yataḥ | pratyācaṣṭe sa taṃ rājā saha saṃmaṃtrya bhārayā ‖*)
+अनृषिर्नैव जामाता कश्चि द्भवितुमर्हति । प्रत्याख्यात ऋषिस्तेन वृत्ते यज्ञे न्यवर्तत ॥ श्वावाश्वस्य तु कन्याया मनो नैव न्यवर्तत । ततस्तौ तु निवर्तेतां उभावेवाभिजग्मतुः ॥ शशीयसीं तरंतं च पुरुमीळ्वं च पार्थिवं । तरंतपुरुमीळ्वं तु राजानौ वैददश्वश्री ॥ ताभ्यां तौ चक्रतुः पूजां ऋषिभ्यां नृपती स्वयं । ऋषिपुत्रं महिष्याश्च दर्शयामास तं नृपः । अजाविकं गवाश्वं च श्यावाश्वाय शशीयसी । अत्रिं याज्यार्चितौ गत्वा पितापुत्रौ स्वमाश्रमं ॥ अभ्यवादयतामत्रिं महर्षिं दीप्ततेजसं । श्वावाश्वस्य मनस्यासीन्मंत्रस्यादर्शनादहं ॥ न लब्धवानहं कन्यां हंत सर्वांगशोभनां । अस्यहं मंत्रदर्शि स्यां भवेद्वर्षो महान्मम ॥ इत्यरण्ये चिंतयतः प्रादुरासीन्मरुद्दणः । वदर्श संस्थिन्नार्श्वे तुल्यरूपानिवात्मनः ॥ (*anṛṣirnaiva jāmātā kaści dbhavitumarhati | pratyākhyāta ṛṣistena vṛtte yajñe nyavartata ‖ śvāvāśvasya tu kanyāyā mano naiva nyavartata | tatastau tu nivartetāṃ ubhāvevābhijagmatuḥ ‖ śaśīyasīṃ taraṃtaṃ ca purumīḷvaṃ ca pārthivaṃ | taraṃtapurumīḷvaṃ tu rājānau vaidadaśvaśrī ‖ tābhyāṃ tau cakratuḥ pūjāṃ ṛṣibhyāṃ nṛpatī svayaṃ | ṛṣiputraṃ mahiṣyāśca darśayāmāsa taṃ nṛpaḥ | ajāvikaṃ gavāśvaṃ ca śyāvāśvāya śaśīyasī | atriṃ yājyārcitau gatvā pitāputrau svamāśramaṃ ‖ abhyavādayatāmatriṃ maharṣiṃ dīptatejasaṃ | śvāvāśvasya manasyāsīnmaṃtrasyādarśanādahaṃ ‖ na labdhavānahaṃ kanyāṃ haṃta sarvāṃgaśobhanāṃ | asyahaṃ maṃtradarśi syāṃ bhavedvarṣo mahānmama ‖ ityaraṇye ciṃtayataḥ prādurāsīnmaruddaṇaḥ | vadarśa saṃsthinnārśve tulyarūpānivātmanaḥ ‖*)
+समानवयसश्चैव मरुतो रूक्मवक्षसः । (*samānavayasaścaiva maruto rūkmavakṣasaḥ |*)
+
+### Printed p. 484
+
+तांस्तुल्यवयसो दृष्ट्वा देवान्पुरुषविग्रहान् ॥ श्यावाश्वो विस्मितोऽपृच्छत्के स्थेति मरुतस्तदा । ततस्तु मरुतो देवान् रुद्रसूनूनबुध्यत ॥ य ईं वहंत इत्याभिर्बुद्ध्वा तुष्टाव तांस्तथा । अतिक्रमं हि तं मेने ऋषिर्विपुलमात्मनः ॥ रथवीतेर्दुहितरं अगच्छन्मनसा तदा । स सद्म ऋषिरात्मानं प्रवक्ष्यन् रथवीतये ॥ .... .... .... .... .... .... । आदाय कन्यां तां दार्भ्य उपेयायार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ (*tāṃstulyavayaso dṛṣṭvā devānpuruṣavigrahān ‖ śyāvāśvo vismito 'pṛcchatke stheti marutastadā | tatastu maruto devān rudrasūnūnabudhyata ‖ ya īṃ vahaṃta ityābhirbuddhvā tuṣṭāva tāṃstathā | atikramaṃ hi taṃ mene ṛṣirvipulamātmanaḥ ‖ rathavīterduhitaraṃ agacchanmanasā tadā | sa sadma ṛṣirātmānaṃ pravakṣyan rathavītaye ‖ .... .... .... .... .... .... | ādāya kanyāṃ tāṃ dārbhya upeyāyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖*)
+रथवीतिरहं दार्भ्य इति नाम शशंस च । नुया संगतिमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत् क्षमस्व नमस्तेऽस्तु मा च मे भगवन्नृषेः । ऋषेः पुत्रः स्वयमृषिः पितासि भगवन्नृषेः हंत प्रतिगृहाणेमां स्नुषामित्येवमब्रवीत् i पाद्यार्थ्यमधुपर्कैस्थ पूजयित्वा स्वयं नृपः ॥ शुक्लमश्वशतं दत्वा अनुजज्ञॆ गृहान्प्रति । शशीयसीं तरंतं च पुरुमीळ्कॆं च पार्थिवं ॥ षड्भिः सनदिति स्तुत्वा जगामर्षिरपि क्षयं । (*rathavītirahaṃ dārbhya iti nāma śaśaṃsa ca | nuyā saṃgatimicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tat kṣamasva namaste 'stu mā ca me bhagavannṛṣeḥ | ṛṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavannṛṣeḥ haṃta pratigṛhāṇemāṃ snuṣāmityevamabravīt i pādyārthyamadhuparkaistha pūjayitvā svayaṃ nṛpaḥ ‖ śuklamaśvaśataṃ datvā anujajñè gṛhānprati | śaśīyasīṃ taraṃtaṃ ca purumīḷkèṃ ca pārthivaṃ ‖ ṣaḍbhiḥ sanaditi stutvā jagāmarṣirapi kṣayaṃ |*)
+(Bṛ. De. 5-50 to 80)
+
+The royal sage Rathavīti Dārbhya, intending to perform a sacrifice, went to the sage Atri, worshipped him, and prayed that Atri's son Arcanānas should accept the office of priest at his sacrifice and help him in conducting it. He agreed, and went with his son Śyāvāśva to the king's house for the sacrificial work, and performed the sacrifice. At the time of the sacrifice Arcanānas saw the king's daughter, was attracted, and desired that she be married to Śyāvāśva. Śyāvāśva too became infatuated with her. Then the father and son told the king their wish; he too agreed to the connection, but said he would reply after asking his wife; his wife did not consent. She let it be known that Śyāvāśva was not a ṛṣi, and that there was no consent to give their daughter, born in a line of ṛṣis, to one who was not a ṛṣi. In the same way the king also gave his answer to the father and son, after which they returned to their own place; but
+
+### Printed p. 485
+
+Śyāvāśva alone remained with his mind fixed on the king's daughter. On the way back they met Śaśīyasī, Taranta, and the king Purumīḷha. Taranta and Purumīḷha were both sons of the king Vidadaśva and were themselves ṛṣis. The two honoured and worshipped the father and son, the guests, with salutations. Then the women of the inner apartments also honoured them with gifts of cows, horses and the like. Śyāvāśva alone, lamenting that he had not obtained a beautiful wife, wandered in the forest and met a company of Maruts. Knowing them to be the Maruts, sons of Rudra and partakers of divinity, he praised them. He became the seer of the hymn beginning के ष्ठा नरः (*ke ṣṭhā naraḥ*) (5-6-1). Learning this, Rathavīti, son of Darbha, brought his daughter, and prayed that his earlier refusal to give his daughter be forgiven, and that, since Śyāvāśva was now a ṛṣi and fit to take his daughter, he should accept her. When Śyāvāśva and his father agreed, he gave away the maiden with the arghya, pādya and other offerings. Then Śyāvāśva, to salute Purumīḷha and the others for the help they had given him, composed six Ṛks praising them. Among them,
+
+उत मेऽरपद्युवतिर्ममंदुषी प्रति श्यावाय वर्तनिं । वि रोहिता पुरुमीळ्दाय येमतुर्विप्राय दीर्घयशसे ॥ (*uta me 'rapadyuvatirmamaṃduṣī prati śyāvāya vartaniṃ | vi rohitā purumīḷdāya yematurviprāya dīrghayaśase ‖*)
+(Ṛ. Saṃ. 5-61-9)
+
+this Ṛk is one that praises Purumīḷha.
+
+युवां गोतमः पुरुमीळ्हो अत्रिर्दस्रा हवतेवसे हविष्मान् । दिशं न दिष्टामृजूयेव यंता मे हवं नासत्योप यातं ॥ (*yuvāṃ gotamaḥ purumīḷho atrirdasrā havatevase haviṣmān | diśaṃ na diṣṭāmṛjūyeva yaṃtā me havaṃ nāsatyopa yātaṃ ‖*)
+(Ṛ. Saṃ. 1-183-5)
+
+In this Ṛk it is stated that Purumīḷha praised the Aśvin deities and obtained their protection. Sāyaṇa has told this same story with some difference, as follows.
+
+अत्राश्चर्यं पुरावृत्तमाहुरागमपारगाः । अर्चनानाः पुरात्रेयो दार्भ्येण रथवीतिना ॥ आर्त्विज्याय वृतो यज्ञे वितते हौत्र आस्थितः ! रथवीतिसुतां कन्यां ददर्श पितुरंतिके ॥ ययाचे स्वकुमाराय श्वानाश्वाय च तां सुतां ! (*atrāścaryaṃ purāvṛttamāhurāgamapāragāḥ | arcanānāḥ purātreyo dārbhyeṇa rathavītinā ‖ ārtvijyāya vṛto yajñe vitate hautra āsthitaḥ ! rathavītisutāṃ kanyāṃ dadarśa pituraṃtike ‖ yayāce svakumārāya śvānāśvāya ca tāṃ sutāṃ !*)
+
+### Printed p. 486
+
+स प्रदानमना भार्यामपृच्छक्तिं प्रयच्छसि ॥ इति पृष्टा पुनः प्राह कथमस्मै प्रदास्यसि । इतः पूर्व० सुता दत्ता नासीदनृषये क्वचित् ॥ तत्तथैवेति निश्चित्य प्रत्याचष्टार्जनानसं । श्यावाश्वः संस्थिते यज्ञे तेन राज्णा निराकृतः ॥ तत्पत्याशान्वितो विप्रस्तपस्तेपे सुदारुणं । ब्रह्मचररतः शांतो भिक्षार्थं पर्यटन् द्विजः ॥ तरंतमहिषीं साध्वीं बिभिक्षेऽसौ शशीयसीं । सा संप्राप्यांतिके पत्युः पोवाचागतवानृषिः । इत्युक्तो नृपतिर्भार्यां प्रत्याहैनं प्रपूजय । सानुज्ञाता गवां यूथं पादादाभरणानि च ॥ तरंतोऽपि पुनस्तस्मै प्रादाधनमपेक्षितं । (*sa pradānamanā bhāryāmapṛcchaktiṃ prayacchasi ‖ iti pṛṣṭā punaḥ prāha kathamasmai pradāsyasi | itaḥ pūrva0 sutā dattā nāsīdanṛṣaye kvacit ‖ tattathaiveti niścitya pratyācaṣṭārjanānasaṃ | śyāvāśvaḥ saṃsthite yajñe tena rājṇā nirākṛtaḥ ‖ tatpatyāśānvito viprastapastepe sudāruṇaṃ | brahmacararataḥ śāṃto bhikṣārthaṃ paryaṭan dvijaḥ ‖ taraṃtamahiṣīṃ sādhvīṃ bibhikṣe 'sau śaśīyasīṃ | sā saṃprāpyāṃtike patyuḥ povācāgatavānṛṣiḥ | ityukto nṛpatirbhāryāṃ pratyāhainaṃ prapūjaya | sānujñātā gavāṃ yūthaṃ pādādābharaṇāni ca ‖ taraṃto 'pi punastasmai prādādhanamapekṣitaṃ |*)
+दत्वा च पुरुमीळस्य स्वानुजस्यांतिकं प्रति ॥ प्रेरयामास तम्मषिं सोऽपि त्वां मानयिष्यति । तथेति राज्यो वचनं निशम्य तद्भारया दर्शितसर्वमार्गः ॥ गच्छन् शनैरर्थपथे मरुद्दणान् समानरूपान् स्वदिदृक्षयागतान् । विलोक्य विप्रः सभयः प्रणम्य कृतांजलिः कंटकितांगसंघः ॥ तुष्टाव हृष्टान् मरुतो विशिष्टैरथैर्वचोभिः परितुष्पचित्तः । संप्रास्य सर्वं स्वमनीषितं तदा मरुद्धणेभ्यो मुदितात्मवद्भ्यः ॥ तदाभवदृषिः सूक्तद्रष्टा श्यावाश्वनामकः । पश्चात्पुनर्गृहं गत्वा भूयो लब्ध्वा गवां शतं ॥ दार्भ्यो मंत्रदृशे राज्ञा चोदितः स्वसुतां ददौ । पुरुमीळस्तरंतश्च तद्भार्या च शशीयसी ॥ दार्भ्यो यो रथवीत्याख्यः सप्त ये मरुतां गणाः । ते तस्मै यद्ददु स्तुष्टास्तत्केष्टेत्यत्र वर्ण्यते ॥ (*datvā ca purumīḷasya svānujasyāṃtikaṃ prati ‖ prerayāmāsa tammaṣiṃ so 'pi tvāṃ mānayiṣyati | tatheti rājyo vacanaṃ niśamya tadbhārayā darśitasarvamārgaḥ ‖ gacchan śanairarthapathe maruddaṇān samānarūpān svadidṛkṣayāgatān | vilokya vipraḥ sabhayaḥ praṇamya kṛtāṃjaliḥ kaṃṭakitāṃgasaṃghaḥ ‖ tuṣṭāva hṛṣṭān maruto viśiṣṭairathairvacobhiḥ parituṣpacittaḥ | saṃprāsya sarvaṃ svamanīṣitaṃ tadā maruddhaṇebhyo muditātmavadbhyaḥ ‖ tadābhavadṛṣiḥ sūktadraṣṭā śyāvāśvanāmakaḥ | paścātpunargṛhaṃ gatvā bhūyo labdhvā gavāṃ śataṃ ‖ dārbhyo maṃtradṛśe rājñā coditaḥ svasutāṃ dadau | purumīḷastaraṃtaśca tadbhāryā ca śaśīyasī ‖ dārbhyo yo rathavītyākhyaḥ sapta ye marutāṃ gaṇāḥ | te tasmai yaddadu stuṣṭāstatkeṣṭetyatra varṇyate ‖*)
+(Introduction to Sāyaṇa's bhāṣya on Maṇḍala 5, Sūkta 61)
+
+Although the account of the story here is the same as in the Bṛhaddevatā, the special point is that Śyāvāśva went to the wife of Taranta to beg alms. This story is mainly about Śyāvāśva:
+
 ---
 
-**Progress note:** Done through printed p. 479. pp. 474-479 (batch API)
+**Progress note:** Done through printed p. 486. pp. 480-486 (batch API)
