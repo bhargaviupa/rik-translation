@@ -4,6 +4,7 @@ the English text) to the Vol 17 conventions, by script, without re-translating.
 
   python3 tools/rv/to_note_style.py VOL --easy [--write]   the safe subset only (running heads, bare tags, process remarks out; Gists; [?] -> NOTE; layout):
                                                    informative remarks and [sic] stay.  --write applies it to the volume file (logged repair).
+  python3 tools/rv/to_note_style.py VOL --drop-phrase [--write]   remove every translator comment that contains "as supplied"
   python3 tools/rv/to_note_style.py VOL            trial: writes volN/trial/English_converted.md, notes_trial.tsv, remarks_removed.tsv, report.md
                                                    (the volume files are not touched)
 
@@ -35,8 +36,59 @@ LABELS = [  # (regex on the bold label text, standard label or None = keep as pl
     (r'^Pratipadārtha$', 'प्रतिपदार्थ (Pratipadārtha)'), (r'^Bhāvārtha(, continued\.?)?$', 'भावार्थ (Bhāvārtha)'),
     (r'^Special Topics( \(continued\))?$', 'विशेषविषयगळु (Viśeṣaviṣayagaḷu)'),
 ]
+def drop_phrase(vol, write, phrase='as supplied'):
+    """Remove every translator comment that contains PHRASE (user, Nov 12 2026: 'remove all comments that have "as supplied"').
+    A comment = a remark paragraph *[...]*, an inline *[...]* or *(...)*, a [...] bracket, or a plain (...) that speaks of the print.
+    A plain parenthesis that is a reference or a citation keeps its content and loses only the tag; the phrase alone in running prose is cut.
+    Sanskrit block lines ('> ') are never touched.  Everything removed goes to review/remarks_removed.tsv."""
+    cfg = rvlib.Cfg(vol); src = open(cfg.en, encoding='utf8').read(); st = collections.Counter(); rows = []; page = [None]
+    PH = re.compile(re.escape(phrase), re.I); TAG = re.compile(r'\s*[,;:—-]?\s*(?:kept |left |both kept |letters )?' + re.escape(phrase) + r'(?:, not changed| \(not corrected\))?', re.I)
+    ABOUT = re.compile(r'print|supplied text|the supplied|garbl|stray|hyphen|line end|line break|label|spelling|spelt|slip|' + KN, re.I)
+    PAR = r'(?:[^()]|\((?:[^()]|\([^()]*\))*\))*?'
+    def log(kind, t): rows.append((page[0], kind, re.sub(r'\s+', ' ', t).strip())); st[kind] += 1
+    def fix(l):
+        def rep(mm):
+            w = mm.group(0)
+            if not PH.search(w) or '**NOTE**' in w or '[?]' in w: return w                      # a comment that carries a doubt mark stays
+            if w[0] == '*' or w[0] == '[': log('comment with "%s"' % phrase, w); return ''
+            inner = w[1:-1]; rest = TAG.sub('', inner).strip(' ,;')
+            if not rest: log('bare tag', w); return ''
+            if re.match(r'(printed\b|the print\b|the supplied\b|supplied text\b|so printed|printed so|sic\b|the (first |second |last )?(word|label|reference|abbreviation|text|letters?) .{0,80}\b(is|are) (printed|quoted|kept|given)\b|["“]?' + KN + r'+["”]?[.,; ]*$)', rest, re.I): log('comment with "%s"' % phrase, w); return ''
+            log('tag cut, content kept', w); return '(' + rest + ')'
+        l2 = re.sub(r'\*\[(?:[^\[\]]|\[[^\[\]]*\])*\]\*|\*\(' + PAR + r'\)\*|\[[^\[\]]*\]|\(' + PAR + r'\)', rep, l)
+        l2 = re.sub(r'[;,]\s*[^;,()\[\]]{0,70}\b(?:is|are|all|both|kept|left)\s+' + re.escape(phrase) + r'(?=[;,.)\]]|$)', lambda mm: (log('clause cut', mm.group(0)) or ''), l2)
+        if PH.search(l2) and '**NOTE**' not in l2 and '[?]' not in l2: l2 = TAG.sub(lambda mm: (log('tag cut in prose', l2[max(0, mm.start() - 50):mm.end()]) or ''), l2)
+        return re.sub(r'  +', ' ', l2).replace(' .', '.').replace(' ,', ',').replace('( ', '(').replace(' ()', '').replace('()', '').rstrip() if l2 != l else l
+    out = []
+    for l in src.split('\n'):
+        mm = re.match(r'### Printed p\. (\d+)', l)
+        if mm: page[0] = int(mm.group(1))
+        if l.startswith('> ') or l.startswith('#') or '**Progress note:**' in l: out.append(l); continue
+        if l.startswith('*[') and PH.search(l):
+            mm = re.match(r'(\*\[.*\]\*)\s*$', l) or re.match(r'(\*\[.*?\]\*)(.*)$', l)        # the whole line is one remark (it may hold [..] inside), or a remark followed by text
+            if '**NOTE**' in l or '[?]' in l: out.append(l); st['kept: carries a doubt mark'] += 1; continue
+            if mm and mm.lastindex == 1: log('remark paragraph with "%s"' % phrase, mm.group(1)); continue
+            if mm and PH.search(mm.group(1)):
+                log('remark paragraph with "%s"' % phrase, mm.group(1)); rest = fix(mm.group(2).strip())
+                if rest: out.append(rest)
+                continue
+            if not mm: log('remark paragraph with "%s"' % phrase, l); continue
+        n = fix(l)
+        if n.strip() or not l.strip(): out.append(n)
+    t = re.sub(r'\n{3,}', '\n\n', '\n'.join(out))
+    print(f'Vol {vol}: "{phrase}" before {len(PH.findall(src))}, after {len(PH.findall(t))};', dict(st))
+    left = [l for l in t.split('\n') if PH.search(l) and not l.startswith('> ')]
+    for l in left[:8]: i = PH.search(l).start(); print('   left:', l[max(0, i - 70):i + 30])
+    if write:
+        open(cfg.en, 'w', encoding='utf8').write(t); rv = os.path.join(ROOT, f'vol{vol}', 'review'); f = os.path.join(rv, 'remarks_removed.tsv')
+        if not os.path.exists(f): open(f, 'w', encoding='utf8').write('printed page\tkind\ttext\n')
+        open(f, 'a', encoding='utf8').write(''.join(f'{p}\t{k}\t{q}\n' for p, k, q in rows))
+        open(os.path.join(rv, 'repair_log.md'), 'a', encoding='utf8').write(f'- comments containing "{phrase}" removed (`tools/rv/to_note_style.py {vol} --drop-phrase --write`; user decision Nov 12 2026): ' + '; '.join(f'{k} {v}' for k, v in sorted(st.items())) + '. All listed in review/remarks_removed.tsv. Sanskrit block lines and the translation wording are unchanged.\n')
+    return t
+
 def main():
     easy = '--easy' in sys.argv; write = '--write' in sys.argv
+    if '--drop-phrase' in sys.argv: return drop_phrase(int(sys.argv[1]), write)
     vol = int(sys.argv[1]); cfg = rvlib.Cfg(vol); src = open(cfg.en, encoding='utf8').read()
     m = re.search(r'\n---\n+\*\*Progress note:\*\*.*\Z', src, re.S); tail = m.group(0) if m else ''; body = src[:m.start()] if m else src
     notes = []; dropped = []; st = collections.Counter(); page = [None]
