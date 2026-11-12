@@ -16650,6 +16650,94 @@ you ohlations.
 
 *bheṣajebhiḥ bhiṣajā sthaḥ*—"You are physicians who know the nature of medicines": thus the power of the Aśvin deities is stated. It is well known that the Aśvin deities are the physicians of the gods, that they set right the defects of Indra and the other deities, and that they removed the old age of Sukanyā's husband and gave him youth.
 
+### Printed p. 692
+
+स एतमाश्विनं धूम्रमालभेत । सारस्वतं मेषमैंद्रमृषभमश्विन् वै देवानां भिषजौ ताभ्यामेवैनं भिषज्यति सरस्वती भेषजं तयैवास्मै भेषजं करोतींद्र इंद्रियं वीर्यं तेनैवास्मिन्निंद्रियं वीर्यं दधाति ॥ (*sa etamāśvinaṃ dhūmramālabheta | sārasvataṃ meṣamaiṃdramṛṣabhamaśvin vai devānāṃ bhiṣajau tābhyāmevainaṃ bhiṣajyati sarasvatī bheṣajaṃ tayaivāsmai bheṣajaṃ karotīṃdra iṃdriyaṃ vīryaṃ tenaivāsminniṃdriyaṃ vīryaṃ dadhāti ‖*) (5 ब्रा (*5 brā*) 12-7-2-3) **NOTE**
+
+In such passages it is said that the Aśvin deities are the physicians of the gods. And in
+
+अथ यदाश्विनो भवति । अश्विन् ना एनमभिषज्यतां तथो एवैनमेष एतदश्विभ्यामेव भिषज्यति तस्मादाश्विनो भवति ॥ (*atha yadāśvino bhavati | aśvin nā enamabhiṣajyatāṃ tatho evainameṣa etadaśvibhyāmeva bhiṣajyati tasmādāśvino bhavati ‖*) (Śa. Brā. 5-2-4-15)
+
+and similar passages it is said that the Aśvin deities destroyed Indra's defect. It is also said that, through their grace, the sacrificer too can destroy such diseases, and that it is because they have this power that the Aśvins have a praiseworthy cup at the time of the sacrifice. The story of how, by this same power of theirs, they removed the old age of the husband of the beautiful woman Sukanyā and made him young is likewise told as follows.
+
+अश्विनौ ह वा इदं भिषज्यंतौ चेरतुः । तौ सुकन्यामुपेयतुस्तस्यां मिथुनमीषाते तन्न जज्ञा । तौ होचतुः । सुकन्ये कमिमं जीर्णिं कृत्यारूपमुपशेष आवामनुप्रेहीति सा होवाच यस्मै मां पितादान्नैनाडं तं जीवंतग्ग ह्यास्यामिति तद्धायमृषिराजज्ञा । स होवाच । सुकन्ये किं तैतदवोचतामिति तस्मा एतद्व्याचचक्षे स ह व्याख्यात उवाच यदि तैतत्पुनर्ब्रुवतः सा त्वं ब्रूतान्न वै सुसर्वाविव स्तो न सुसमृद्धाविष थ मे पतिं निंदथ इति तौ यदि त्वा ब्रवतः केनावामसर्वौ स्वः केनासमृद्धाविति सा त्वं ब्रूतात्पतिं नु मे पुनर्युवाणं कुरुतमथ वां वक्ष्यामीति तां पुनरुपेयतुस्ताग्ं हैतदेवोचतुः । सा होवाच । न वै सुसर्वान स्थो न सुसमृद्धाविवाथ मे पतिं निंदथ इति तौ होचतुः केनावमसर्वौ स्वः केनासमृद्धाविति सा होवाच पतिं नु मे पुनर्युवाणं कुरुतमथ वां वक्ष्यामीति । तौ होचतुः । एतग्ग ह्रदमभ्यवहर स येन वयसा स येन वयसा कमिष्यते तेनोदैष्यतीति तग्ग ह्रदमभ्यवजहार स येन वयसा चकमे तेनोद्येयाय ॥ (*aśvinau ha vā idaṃ bhiṣajyaṃtau ceratuḥ | tau sukanyāmupeyatustasyāṃ mithunamīṣāte tanna jajñā | tau hocatuḥ | sukanye kamimaṃ jīrṇiṃ kṛtyārūpamupaśeṣa āvāmanuprehīti sā hovāca yasmai māṃ pitādānnaināḍaṃ taṃ jīvaṃtagga hyāsyāmiti taddhāyamṛṣirājajñā | sa hovāca | sukanye kiṃ taitadavocatāmiti tasmā etadvyācacakṣe sa ha vyākhyāta uvāca yadi taitatpunarbruvataḥ sā tvaṃ brūtānna vai susarvāviva sto na susamṛddhāviṣa tha me patiṃ niṃdatha iti tau yadi tvā bravataḥ kenāvāmasarvau svaḥ kenāsamṛddhāviti sā tvaṃ brūtātpatiṃ nu me punaryuvāṇaṃ kurutamatha vāṃ vakṣyāmīti tāṃ punarupeyatustāgṃ haitadevocatuḥ | sā hovāca | na vai susarvāna stho na susamṛddhāvivātha me patiṃ niṃdatha iti tau hocatuḥ kenāvamasarvau svaḥ kenāsamṛddhāviti sā hovāca patiṃ nu me punaryuvāṇaṃ kurutamatha vāṃ vakṣyāmīti | tau hocatuḥ | etagga hradamabhyavahara sa yena vayasā sa yena vayasā kamiṣyate tenodaiṣyatīti tagga hradamabhyavajahāra sa yena vayasā cakame tenodyeyāya ‖*) (Śa. Brā. 4-1. 5-8 to 12)
+
+While the Aśvin deities were wandering over the earth healing the afflicted, they saw the beautiful woman Sukanyā, were infatuated with her and desired her company. She told them that as long as her husband lived she would not so much as raise her eyes to another man.
+
+### Printed p. 693
+
+After the Aśvins had gone away, her husband, who had overheard all this from hiding, told her a device. "If they come to you again, enamoured of you, you are to answer: 'You are incomplete and unrefined; therefore I do not choose you.' If they ask in what way they are incomplete and unrefined, then answer: 'If you make my aged husband young, then I shall tell you.'" The Aśvin deities came again and begged her, and she did just as her husband had told her. She also asked for the means of making her husband young again. The Aśvin deities told her that if he bathed in the lake nearby, her husband's old age would go; and she then had him bathe. By the grace of the Aśvins he became young. Such are the stories. This explains the epithet भिषजा (*bhiṣajā*).
+
+One defect of these deities, as physicians of the gods who destroy the diseases of human beings and others on earth, was that Indra and the others did not admit them to the sacrifice.
+
+उप नौ ह्वयध्वमिति ते ह देवा ऊचुर्नवामुपह्वयिष्यामहे बहु मनुष्येषु सग्ंसृष्टमचारिष्टं भिषज्यंताविति ॥ (*upa nau hvayadhvamiti te ha devā ūcurnavāmupahvayiṣyāmahe bahu manuṣyeṣu sagṃsṛṣṭamacāriṣṭaṃ bhiṣajyaṃtāviti ‖*) (Śa. Brā. 4-1-5-14)
+
+When the gods said that they would not invite them to the sacrifice because they kept in contact with human beings and others while destroying their diseases, these deities declared that they themselves were the head of the sacrifice, and so received their share of the sacrifice.
+
+रथ्येभिः रथ्या स्थः (*rathyebhiḥ rathyā sthaḥ*)—रथ्येभिः (*rathyebhiḥ*) is explained as रथवोडृभिरश्वै (*rathavoḍṛbhiraśvai*), "with horses fit to draw the chariot" **NOTE**, and रथ्या (*rathyā*) as रथवंतौ (*rathavaṃtau*), "charioteers". The chariots of the Aśvin deities, and the draught animals that draw those chariots, are famous. Many descriptions show that this is a distinction of theirs. In many Ṛks such as हिरण्यया वां पवयः (*hiraṇyayā vāṃ pavayaḥ*) (Ṛ. Saṃ. 1-180-1); हिरण्ययेन रथेन (*hiraṇyayena rathena*) (Ṛ. Saṃ. 4-4-44) **NOTE**; रथं हिरण्यवंधुरं हिरण्याभीशुमश्विना (*rathaṃ hiraṇyavaṃdhuraṃ hiraṇyābhīśumaśvinā*) (Ṛ. Saṃ. 8-5-28), it is said that the Aśvins' chariot and its parts are wholly golden. And in
+
+तं युंजाथां मनसो यो जवीयान् त्रिवंधुरो वृषणा यस्त्रिचक्रः । येनोपयाथः सुकृतो दुरोणं त्रिधातुना पतथो विर्न पर्णैः (*taṃ yuṃjāthāṃ manaso yo javīyān trivaṃdhuro vṛṣaṇā yastricakraḥ | yenopayāthaḥ sukṛto duroṇaṃ tridhātunā patatho virna parṇaiḥ*) (Ṛ. Saṃ. 1-183-1)
+
+### Printed p. 694
+
+the speed of birds sitting on their feathers and the joy with which they go are likened to the Aśvin deities going to the sacrificial house seated in their three-seated chariot; in many places the distinction of their chariot is thus told.
+
+Descriptions such as रघुवर्तनिः (*raghuvartaniḥ*) (8-9-8), "able to run lightly"; मनसो जवीयान् रथः (*manaso javīyān rathaḥ*) (Ṛ. Saṃ. 1-117-2; 5-77-3), "swifter than the speed of mind"; निमिषश्चिज्जवीयसा रथेन (*nimiṣaścijjavīyasā rathena*) (Ṛ. Saṃ. 8-68-2), "swifter than the blink of an eye", describe the swift going of the chariot.
+
+The word रथ्येभिः (*rathyebhiḥ*) can be explained as "the draught animals of the chariot", but one cannot say precisely what they are. They are described as various kinds of draught animals: horses, mules and so on. For example,
+
+युंजाथां रासभं रथे वीड्वंगे वृषण्वसू । मध्वः सोमस्य पीतये । (*yuṃjāthāṃ rāsabhaṃ rathe vīḍvaṃge vṛṣaṇvasū | madhvaḥ somasya pītaye |*) (Ṛ. Saṃ. 8-8गॆ (*gè*)-7) **NOTE**
+
+and similar passages speak of the ass (रासभ (*rāsabha*));
+
+हंसासो ये नां मधुमंतो अस्त्रिधो हिरण्यपर्णा उहुव उषर्बुधः । उदपुतो मंदिनो मंदिनिस्पृशो मध्यो न मक्षः सवनानि गच्छथः ॥ (*haṃsāso ye nāṃ madhumaṃto astridho hiraṇyaparṇā uhuva uṣarbudhaḥ | udaputo maṃdino maṃdinispṛśo madhyo na makṣaḥ savanāni gacchathaḥ ‖*) (Ṛ. Saṃ. 4-35-2)
+
+and similar passages speak of the swan (हंस (*haṃsa*));
+
+आ नः स्तोममुप द्रवत्तूयं श्येनेभिराशुभिः । यातमश्वेभिरश्विना ॥ (*ā naḥ stomamupa dravattūyaṃ śyenebhirāśubhiḥ | yātamaśvebhiraśvinā ‖*) (Ṛ. Saṃ. 8-5-7)
+
+and similar Ṛks speak of horses of praiseworthy gait. In this way the vehicles of the Aśvin deities are described in various ways.
+
+क्षत्रं (*kṣatraṃ*)—the nature of the power of rule, and the praying to the Aśvin deities for the gaining of this power, are also told in the special topics of the 2nd Ṛk of this same sūkta.
+
+मनसा (*manasā*)—मनो मनोतेः (*mano manoteḥ*) (Ni. 4-4). Derived from the root man, which gives the sense "think, meditate", it gives the meaning "with meditation, with faith". Sāyaṇa explains it as मनसा युष्मदायत्तेन चेतसा (*manasā yuṣmadāyattena cetasā*), that is, "with a mind centred on you, with one-pointed mind", with meditation on you alone. In
+
+आ विश्वतः प्रत्यंचं जिघर्म्यरक्षसा मनसा तज्जुषेत । मरश्रीः स्पृहयद्वर्णो अग्निर्नाभिमृशे तन्ना ३ जर्भुराणः ॥ (*ā viśvataḥ pratyaṃcaṃ jigharmyarakṣasā manasā tajjuṣeta | maraśrīḥ spṛhayadvarṇo agnirnābhimṛśe tannā 3 jarbhurāṇaḥ ‖*) (Ṛ. Saṃ. 2-10-5)
+
+### Printed p. 695
+
+and similar Ṛks he has also explained मनसा (*manasā*) as स्तोत्रेण (*stotreṇa*). There too it means praise that is meditative and devout.
+
+##### Grammar
+
+- स्थः — अस भुवि धातुः । लट् मध्यमपुरुषद्विवचने थस् प्रत्ययः । श्नसोरल्लोपः (पा. सू. ६-४-१११) इति धातोरकारस्य लोपः । निघातस्वरो भवति ।
+- भिषजा — इंभी भये धातुः । भयषुक्‌ह्रस्वश्च (उ. सू. १-१३५) इति अजि प्रत्ययः । धातोर्ह्रस्वः, षुकागमः । भिषज् शब्दो भवति । तस्मात् द्विवचने परे सुपां सुलुक् (पा सू. ७-१-३९) इति तस्य आकारादेशः । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- भेषजेभिः — बहुलं छंदसि इति भिस ऐस् भावस्य विकल्पत्वादत्र न भवति । एत्वम् ।
+- रथेभिः — रथं वहति रथ्यः तद्वहतिरथयुग प्रासंगम् (पा. सू. ४-४-७७) इति यत् प्रत्ययः । यस्येति च इति अकारलोपः । यतोनावः (पा. सू. ६-१-२१६) इति आद्युदात्तस्वरो भवति । पूर्ववत् भिस ऐस् भावस्य अभावात् एत्वम् ।
+- धत्थः — डुधाञ् धारणपोषणयोः धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- उग्रा — उच समवाये धातुः । ऋजेंद्राग्र- (उ. सू. २-१८६) इति रन्नंतत्वेन निपातितम् । संबोधनाद्विवचने आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति । सुपां सुलुक् सूत्रेण विभक्तेराकारादेशः ।
+- ददाश — दाश्य दाने धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लिट् प्रथमपुरुषएकवचने ददाश इति रूपं भवति । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । प्रत्ययस्य लित्त्वात् लिति (पा. सू ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति ।
+
+॥ 6 ॥ Here the 157th sūkta ends. The 2nd adhyāya of the 2nd aṣṭaka is concluded.
+
+### Printed p. 696
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके द्वितीयोऽध्यायः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye dvitīyāṣṭake dvitīyo 'dhyāyaḥ ‖*) समाप्तः (*samāptaḥ*)
+
+श्रीः (*śrīḥ*)
+
+ओं तत्सत् (*oṃ tatsat*)
+
+Here the second adhyāya, in the second aṣṭaka of the Ṛgveda-saṃhitā, accompanied by the bhāṣya of Śrī Sāyaṇa and a translation in the Karnataka language, is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 691. pp. 686-691 (batch API)
+**Progress note:** Done through printed p. 696. pp. 692-696, colophon
