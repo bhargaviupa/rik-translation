@@ -3394,7 +3394,7 @@ track follows (his path).
 
 ##### विशेषविषयगळु (Special Topics)
 
-Sāyaṇa has shown that the phrase मातुः अधीवासं परि रिहन् (*mātuḥ adhīvāsaṃ pari rihan*) can be explained in two ways. First: मातुः (*mātuḥ*) is भूतानां निर्मातुः भूमेः (*bhūtānāṃ nirmātuḥ bhūmeḥ*), of the Earth, the maker of all beings (the Kannada prints "the creator सृत्विगॆ (*sṛtvigè*)") **NOTE**; अधीवासं (*adhīvāsaṃ*) is उपर्याच्छादनस्थानीयं तृणगुल्मौषध्यादिकं (*uparyācchādanasthānīyaṃ tṛṇagulmauṣadhyādikaṃ*), the grass, bushes, creepers and the like that are like an upper covering; परि (*pari*) is परितः (*paritaḥ*), all round; रिहन् (*rihan*) is लिहन् (*lihan*), spreading over. Second: मातुः (*mātuḥ*) is भूमेः (*bhūmeḥ*), अधीवासं (*adhīvāsaṃ*) is उपरि धार्यमाणं वस्त्रं (*upari dhāryamāṇaṃ vastraṃ*), and परि परितः रिहन् संपादयन् (*pari paritaḥ rihan saṃpādayan*) may be understood as: by his spreading all round, as if providing Mother Earth with an upper covering.
+Sāyaṇa has shown that the phrase मातुः अधीवासं परि रिहन् (*mātuḥ adhīvāsaṃ pari rihan*) can be explained in two ways. First: मातुः (*mātuḥ*) is भूतानां निर्मातुः भूमेः (*bhūtānāṃ nirmātuḥ bhūmeḥ*), of the Earth, the maker of all beings **NOTE**; अधीवासं (*adhīvāsaṃ*) is उपर्याच्छादनस्थानीयं तृणगुल्मौषध्यादिकं (*uparyācchādanasthānīyaṃ tṛṇagulmauṣadhyādikaṃ*), the grass, bushes, creepers and the like that are like an upper covering; परि (*pari*) is परितः (*paritaḥ*), all round; रिहन् (*rihan*) is लिहन् (*lihan*), spreading over. Second: मातुः (*mātuḥ*) is भूमेः (*bhūmeḥ*), अधीवासं (*adhīvāsaṃ*) is उपरि धार्यमाणं वस्त्रं (*upari dhāryamāṇaṃ vastraṃ*), and परि परितः रिहन् संपादयन् (*pari paritaḥ rihan saṃpādayan*) may be understood as: by his spreading all round, as if providing Mother Earth with an upper covering.
 
 ### Printed p. 137
 पद्वते पादवते, द्विपदे चतुष्पदे च (*padvate pādavate, dvipade catuṣpade ca*): it means, to all kinds of creatures with two and four feet. It is customary to use the word पद्वत् (*padvat*) to denote living creatures generally, and the word आपात् (*āpāt*) **NOTE** to denote plants and the like. For example, in the sentence
@@ -9232,7 +9232,7 @@ citing the Ṛk तनूत्यजीव तस्करा वनर्ग�
 
 अग्निर्हि वयुना व्यब्रवीत् (*agnirhi vayunā vyabravīt*)—Agni announced (taught) the knowledge of duty.
 
-As in sentences such as अथास्य हस्तं गृह्णाति । इंद्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तन्सावित्येते । (*athāsya hastaṃ gṛhṇāti | iṃdrasya brahmacāryasyagnirācāryastavāhamācāryastansāvityete |*) (Śa. Prā. 11-5-4-2), where Agni is praised as the teacher (the Kannada prints आचार (*ācāra*) "conduct", probably for *ācārya*) and all knowledge of duties is said to have been taught by him, here too that matter is stated. **NOTE**
+As in sentences such as अथास्य हस्तं गृह्णाति । इंद्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तन्सावित्येते । (*athāsya hastaṃ gṛhṇāti | iṃdrasya brahmacāryasyagnirācāryastavāhamācāryastansāvityete |*) (Śa. Prā. 11-5-4-2), where Agni is praised as the teacher **NOTE** and all knowledge of duties is said to have been taught by him, here too that matter is stated. **NOTE**
 
 ### Printed p. 379
 
@@ -12798,7 +12798,7 @@ It spreads among the good, or arises among the good; therefore it is called saty
 
 तद्यत्तत्सत्यं । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तनवामहा इति । (*tadyattatsatyaṃ | trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tanavāmahā iti |*) (Śa. Brā. 9-5-1-18)
 
-The gods gave up untruth and firmly took hold of truth. Since the Vedas called the Trayī are themselves of the nature of truth, the gods wished, by performing the actions enjoined by the Veda, to extend truth [Kannada: दरदोण (*daradoṇa*)]**NOTE**. Thus the passages show the essential connection between truth and conduct, and also express the wish that by such pure actions one may obtain a complete good fortune endowed with every prosperity.
+The gods gave up untruth and firmly took hold of truth. Since the Vedas called the Trayī are themselves of the nature of truth, the gods wished, by performing the actions enjoined by the Veda, to extend truth**NOTE**. Thus the passages show the essential connection between truth and conduct, and also express the wish that by such pure actions one may obtain a complete good fortune endowed with every prosperity.
 
 ### Printed p. 522
 नाभिर्यतस्य सप्रथा इति । सत्यं ना ऋतं ना ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह । (*nābhiryatasya saprathā iti | satyaṃ nā ṛtaṃ nā ṛtaṃ satyasya nābhiḥ saprathā ityevaitadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityevaitadāha |*) (Śa. Brā. 15-3-1-18)
@@ -13090,7 +13090,7 @@ and describes the similarity between the two Ṛks thus:
 These two stanzas seem to me to offer a clear case of relative date. In IV. 36-1 The Ribhus are said to have fashioned a chariot, fit to be praised in hymns, because withont horse and bridle it courses with three wheels about the air. Because it is three-wheeled it seems to be the chariot of the Asvins. (cf. I. 120-10) That sort of a Vehicle is, the lord knows, marvellous enough, but it will readily pass in the light of mythic fancies and ethnological parellels elsewhere. Similarly in VI. 66-7, the Maruts are described along the same line of fancy, even more energetically, as crossing the air without span of deer or horses, without charioteer and without bridle. In I. 152-5, the mystery is heightened to the second power, as it were.
 Any attempt to extract a picture with clear outline out of I- 152-5, will prove quite futile. The Pada is built by a secondary Poetaster upon the previously existing Pada of IV- 36-1, he 'goes' his model 'one better' and loses himself in mock mythic fatuity— one of the standard failings of his class. Something like "the steed, which is after all no horse, and goes without bridle"; or, 'the steed which is born of no horse' Etc.
 (Rig-Veda Repetitions Vol. I P. 146-147)
-Both in the Ṛk 4-36-1 cited above (the Kannada prints "VI. 36-1") and in
+Both in the Ṛk VI. 36-1 cited above **NOTE** and in
 अनेनो वो मरुतो यामो अस्त्वनश्वश्चिद्यमजत्यरथीः । अनवसो अनभीशू रजस्तूर्वि रोदसी पथ्या याति साधन् ॥ (*aneno vo maruto yāmo astvanaśvaścidyamajatyarathīḥ | anavaso anabhīśū rajastūrvi rodasī pathyā yāti sādhan ‖*) (Ṛ. Saṃ. 6-66-_)
 
 ### Printed p. 535
@@ -14713,7 +14713,7 @@ In this passage it is indicated that Snāna, Bhrāja, Aṅghāri, Baṃbhāri, H
 
 .... .... ज्योतिस्सोमविक्रयिणि तमोमित्रोन ऐहि सुमित्रधा इंद्रस्योरुमा विश दक्षिणमुशन्नुशंतग्स् सोन्यसस्योनग्स् स्नानभ्राजांघारे बंभारे हस्त सुहस्त कृशानवेते वस्सोमक्रयणास्तान्नक्षध्वं मा वो दभन् । (*.... .... jyotissomavikrayiṇi tamomitrona aihi sumitradhā iṃdrasyorumā viśa dakṣiṇamuśannuśaṃtags sonyasasyonags snānabhrājāṃghāre baṃbhāre hasta suhasta kṛśānavete vassomakrayaṇāstānnakṣadhvaṃ mā vo dabhan |*) (Kṛ. Saṃ. 1-2-7) **NOTE**
 
-In these sentences it is said that those named above, Sthāna (sic), Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu, are the vigilant protectors of Soma, and afterwards,
+In these sentences it is said that those named above, Sthāna **NOTE**, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu, are the vigilant protectors of Soma, and afterwards,
 
 विभूरसि प्रवाहणो वह्निरसि हव्यवाहनश्वात्रोऽसि प्रचेतास्तुथोऽसि विश्ववेदा उशिगसि कविरंघारिरसि बंभारिववस्युरसि दुवस्वाञ्चन्युरसि मार्जालीयस्सम्राडसि कृशानुः परिषद्योऽसि पवमानः प्रतक्वासि नभस्वानसंमृष्टोऽसि हव्यसूद ऋतधामासि सुवर्ज्योतिर्ब्रह्मज्योतिरसि सुवर्धामाजोऽस्येकपादहिरसि बुद्धियो रौद्रेणानीकेन पाहि माग्ने पिपृहि मा मा मा हिग्ंसीः ॥ (*vibhūrasi pravāhaṇo vahnirasi havyavāhanaśvātro 'si pracetāstutho 'si viśvavedā uśigasi kaviraṃghārirasi baṃbhārivavasyurasi duvasvāñcanyurasi mārjālīyassamrāḍasi kṛśānuḥ pariṣadyo 'si pavamānaḥ pratakvāsi nabhasvānasaṃmṛṣṭo 'si havyasūda ṛtadhāmāsi suvarjyotirbrahmajyotirasi suvardhāmājo 'syekapādahirasi buddhiyo raudreṇānīkena pāhi māgne pipṛhi mā mā mā higṃsīḥ ‖*) (Tai. Saṃ. 1-3-3)
 
