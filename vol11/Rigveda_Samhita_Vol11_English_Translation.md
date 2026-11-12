@@ -3878,6 +3878,160 @@ the verb अभि जुगुरत् (*abhi jugurat*) has the sense अभ�
 - अरुण्यः — अत्र अरुणवर्णविशिष्टाः इति अर्थप्रतीतेः छांदसत्वेन मत्त्वर्थप्रत्ययः लुप्तः ।
 - वरंत — वृज् संभक्तौ इति धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति लोडर्थे लज् । प्रेरणात् अंतर्भानितण्यर्थकः धातुः । प्रथमपुरुषबहुवचने झ प्रत्ययः । अंतादेशः । शप् विकरणम् । धातोः गुणः । बहुलं छंदस्यमाज् योगेऽपि (पा. सू. ६-४-७५) इति अडागमः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
 
+### Printed p. 157
+## Sūkta 141 (Maṇḍala 1)
+
+Sāyaṇa's introduction (Sanskrit): this is the second sūkta, of thirteen Ṛks, beginning बळित्था (*baḷitthā*); its seer is Dīrghatamas; the metre is Jagatī, except that the last two Ṛks are Triṣṭubh; the deity is Agni. Its use in the Prātaranuvāka and in the Āśvina-śastra has been stated already.
+
+**Anuvāda.** This sūkta beginning बळित्था (*baḷitthā*) is the second sūkta in the twenty-first anuvāka. It has thirteen Ṛks. Its seer is Dīrghatamas and its deity is Agni. The last two Ṛks are in the Triṣṭup metre; the other Ṛks are in the Jagatī metre. It was stated earlier that this sūkta is used at the time of reciting the Prātaranuvāka mantras and the Āśvina-śastra mantras.
+
+Particulars: Maṇḍala 1, Anuvāka 21, Sūkta 141. Aṣṭaka 2, Adhyāya 2, Vargas 8, 9. Number of Ṛks in the sūkta: 13. Seer: Dīrghatamas Aucathya. Deity: Agni. Metre: Ṛks 1–11 Jagatī, Ṛks 12–13 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळि॒त्था तद्वपु॑षे धायि दर्श॒तं दे॒वस्य॒ भर्गः॒ सह॑सो॒ यतो॒  ॑
+> जनि ।  
+> यदी॒मुप॒ ह्वर॑ते॒ साध॑ते म॒तिर्ऋ॒तस्य॒ धेना॑ अनयंत स॒स्रुतः॑ ॥ १ ॥
+
+### Printed p. 158
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । इत्था । तत् । वपुषे । धायि । दर्शतं । देवस्य । भर्गः । सहसः । यतः । जनि ।  
+> यत् । ईं । उप । ह्वरते । साधते । मतिः । ऋतस्य । धेनाः। अनयंत। सऽस्रुतः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवस्य द्योतनशीलस्यादित्यस्य दर्शतं सर्वैर्दर्शनीयं तत् प्रसिद्धं भर्गस्तेज इत्तेत्थं सर्वैर्दृश्यमानप्रकारेण वपुषे शरीरव्यवहाराय दार्ढ्याय धायि ।
+> धार्यते सर्वैः । बळितेत्युभे अपि सत्यनामनी बट् श्रत् सत्रेत्थति तन्नामसु
+> पाठात् । जातराग्निना भुक्तानां जरणेन शरीरधारणं प्रसिद्धं । तत्रोपपत्तिमाह ।
+> यतः सहसो जनि । यतः कारणान्मथनकाले बलेनोत्पन्नः अतो बलाय धार्यत
+> इत्यर्थः । यदीं यदेतत्पसिद्धं लोकोपकार्यग्नेस्तेजो मतिर्मदीया बुद्धिरुप ह्वरते उपगच्छति उपगम्य वर्तते वा ॥ ह्व कौटिल्ये ॥ साधते च तेनैव तेजसा
+> साधयति स्वाभीष्टं । किंच ऋतस्य यज्ञसाधकस्याग्नेस्तेजसा धेनाः सर्वप्राणिनां
+> वाचः सस्रुतः समानं गच्छंत्यः सहैव प्रवर्तमानाः ॥ स्रवतेः कर्तरि क्विप् ॥
+> अनयंत । नयंति । निर्वहंति जगद्व्यवहारं ॥ व्यत्ययेनात्मनेपदं ॥ यद्वा। ऋतस्य
+> धेना यज्ञस्य संबंधिन्नो मंत्ररूपा वाचः सस्रुतो होत्रादिमुखेन सहैव
+> प्रवर्तमाना अनयंत । नयंति । अग्ने स्तोत्रं निर्वहंति । अग्नेस्तेजसा वा यज्ञं
+> निर्वहंति । तेजोमयिया वागिति श्रुतेः । छां. उ. ६_५_४ । अतः कारणान्मतिरुपह्वरत
+> इत्यर्थः । धेनेति वाङ्णाम धेना ग्ना इति तन्नामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+Of the shining god, Āditya, that well-known brilliance (भर्गः (*bhargaḥ*)), visible to all, is sustained by everyone in this manner, for the firmness of the body, for bodily activity. बट् (*baṭ*) and इत्था (*itthā*) are both names of truth, since they are read among its names. The bodily support of food eaten, through its digestion by the digestive fire (जातराग्नि (*jātarāgni*)), is well known. He gives the reason: यतः सहसो जनि (*yataḥ sahaso jani*), that is, because Agni is born by force at the time of churning, he is held for the sake of strength. यदीं (*yadīṃ*): this well-known, world-benefiting brilliance of Agni: my mind (मतिः (*matiḥ*)) approaches it (उप ह्वरते (*upa hvarate*), from ह्व कौटिल्ये (*hva kauṭilye*)), or abides having approached, and by that very brilliance accomplishes its desire. Further, by the brilliance of Agni, who accomplishes the sacrifice (ऋतस्य (*ṛtasya*)), the धेनाः (*dhenāḥ*), the speech of all living beings, सस्रुतः (*sasrutaḥ*), flowing together, proceeding together, अनयंत (*anayaṃta*), carry on the business of the world (the middle voice is by vyatyaya). Or else: the धेनाः (*dhenāḥ*) connected with the sacrifice, the speech in the form of mantras, proceeding together through the mouths of the Hotṛ and the others, carry out the praise of Agni, or carry out the sacrifice by Agni's brilliance, according to the śruti "speech is made of brilliance" (Chā. U. 6-5-4). Therefore the mind approaches. धेना (*dhenā*) is a name of speech, since it is read among its names ("dhenā, gnāḥ").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the shining Āditya
+- दर्शतं (*darśataṃ*)—that which is visible (to all)
+- तत् (*tat*)—that well-known
+- भर्गः (*bhargaḥ*)—brilliance
+- इत्था (*itthā*)—in this manner
+- यतः (*yataḥ*)—for which reason
+- सहसः (*sahasaḥ*)—from strength
+- जनि (*jani*)—it was born (such a brilliance)
+- वपुषे (*vapuṣe*)—for the firmness of the body
+- धायि (*dhāyi*)—is held (by all)
+- यदीं (*yadīṃ*)—this well-known, world-benefiting brilliance which
+- मतिः (*matiḥ*)—my mind
+- उपह्वरते (*upahvarate*)—approaches (with effort)
+- साधते (*sādhate*)—accomplishes (its desired end)
+- ऋतस्य (*ṛtasya*)—of Agni, the accomplisher of the sacrifice (together with his brilliance)
+- धेनाः (*dhenāḥ*)—the speech of all living beings
+- ससुतः (*sasutaḥ*)—come together and unite
+- अनयंत (*anayaṃta*)—carry on (the business of the world)
+- [Or ऋतस्य (*ṛtasya*)—connected with the sacrifice; धेनाः (*dhenāḥ*)—these speeches in the form of mantras; ससुतः (*sasutaḥ*)—issuing from the mouths of the Hotṛ and the others; अनयंत (*anayaṃta*)—carry out (the praise of Agni).]
+
+### Printed p. 159
+
+##### भावार्थ (Bhāvārtha)
+
+The brilliance of Āditya, visible to all and well known, has been born of strength in order to give firmness of body to all living beings; and for the very attainment of that firmness all beings hold it. My mind grasps this well-known, world-benefiting brilliance and accomplishes its desired end. At the time of the sacrifice, the speech filled with mantras, issuing from the mouths of the Hotṛ and the others, carries out the praise of this Agni.
+
+##### Printed English
+
+Verily, that visible radiance of the divine ( Agni ) has been so apprehended (by all, that it may be) for (the support of) the body, for which end it has been generated by ( bodily ) strength : and that my mind may apprehend and apply ( that radiance ), they address the sacred prayers associated with oblations (to Agni).
+
+##### विशेषविषयगळु (Special Topics)
+
+भर्गः (*bhargaḥ*)—तेजः (*tejaḥ*). The word भर्ग (*bharga*) is customarily used only for the brilliance of Agni (in the form of Āditya). In the Ṛk
+तत्सवितुर्वरेण्यं भर्गॊ देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥ (*tatsaviturvareṇyaṃ bhargò devasya dhīmahi | dhiyo yo naḥ pracodayāt ‖*)
+(Ṛ. Saṃ. 3-62-10) Sāyaṇa explains the word भर्ग (*bharga*) as अविद्यातत्कारयोर्भर्जनाद्भर्गः (*avidyātatkārayorbharjanādbhargaḥ*); that is, since it destroys ignorance and its effects, such as desire and delusion, the nature of Savitṛ is said to be expressed by the word भर्ग (*bharga*).
+
+सहसः जनि (*sahasaḥ jani*)—Because he is born of strength at the time of churning the araṇi, he is described as सहसः जनि (*sahasaḥ jani*).
+
+ऋतस्य धेनाः (*ṛtasya dhenāḥ*)—Here the word ऋत (*ṛta*) means sacrifice. Showing the construction that ऋतस्य (*ṛtasya*) means of the sacrifice-connected, or of Agni who accomplishes the sacrifice, धेनाः (*dhenāḥ*), he explains the word धेनाः (*dhenāḥ*) as सर्वप्राणिनां वाचः यद्वा यज्ञस्य संबंधिन्यः मंत्र-रूपा वाचः (*sarvaprāṇināṃ vācaḥ yadvā yajñasya saṃbaṃdhinyaḥ maṃtra-rūpā vācaḥ*), that is, the speech of all beings, or the speech in the form of mantras connected with the sacrifice, and he cites the Upaniṣadic sentence तेजोमयी वाक् (*tejomayī vāk*) (Chā. U. 6-5-4). From this quotation itself it is understood that the word धेना (*dhenā*) does not mean ordinary speech but speech that is supernatural, endowed with brilliance and sanctified by mantras.
+
+### Printed p. 160
+But since Sāyaṇa has in some places made a difference in meaning, it must be examined whether this word has one definite meaning or whether its meaning varies with the context.
+
+सम्यक्स्रवंति सरितो न धेना अंतर्हृदा मनसा पूयमानाः । एते अर्षंत्यूर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः । (*samyaksravaṃti sarito na dhenā aṃtarhṛdā manasā pūyamānāḥ | ete arṣaṃtyūrmayo ghṛtasya mṛgā iva kṣipaṇorīṣamāṇāḥ |*)
+(Ṛ. Saṃ. 4-58-6)
+त्वमिंद्र स्रवितवा अपस्कः परिष्ठिता अहिना शूर पूर्वीः । त्वद्वावक्रे रथ्यो३ न धेना रेजंते विश्वा कृत्रिमाणि भीषा । (*tvamiṃdra sravitavā apaskaḥ pariṣṭhitā ahinā śūra pūrvīḥ | tvadvāvakre rathyo3 na dhenā rejaṃte viśvā kṛtrimāṇi bhīṣā |*)
+(Ṛ. Saṃ. 7-21-3)
+In these Ṛks Sāyaṇa takes the word धेना (*dhenā*) as a flowing river. In the Ṛk
+मादयस्व हरिभिर्ये त इंद्र वि ष्यस्व शिप्रे वि सृजस्व धेने । आ त्वा सुशिप्र हरयो वहंतूशन्नव्यानि प्रति नो जुषस्व । (*mādayasva haribhirye ta iṃdra vi ṣyasva śipre vi sṛjasva dhene | ā tvā suśipra harayo vahaṃtūśannavyāni prati no juṣasva |*)
+(Ṛ. Saṃ. 1-101-10) he explains पानसाधनभूते जिह्वोपजिह्विके (*pānasādhanabhūte jihvopajihvike*), that is, the tongue and the uvula (upajihvā), the instruments for drinking. The author of the Nirukta cites this same Ṛk (1-101-10), shows the derivation धेना दधातेः (*dhenā dadhāteḥ*), and gives the meaning of drinkable milk (Ni. 6-17). Apart from these, in the remaining Ṛks Sāyaṇa gives the meaning "speech". But if one examines the contexts in which this word is used, in the Saṃhitā and elsewhere, there seems to be no reason for any meaning other than speech in the form of praise. If one looks at the passage used in the Śrauta-sūtras in this connection, there too the same meaning seems to have more room.
+
+When the Śrauta-sūtras give the list of the wives of the gods, the name धेना (*dhenā*) is well known for the wife of Bṛhaspati ("सेनेंद्रस्य, धेना बृहस्पतेः (*seneṃdrasya, dhenā bṛhaspateḥ*)"). In all these places the meaning is only speech in the form of praise; there is no room for other meanings. It would not be wrong to give this same meaning to the word in the Ṛks cited above. For example, in Ṛk 4-58-6, सम्यक्स्रवंति सरितो न धेना अंतर्हृदा मनसा पूयमानाः (*samyaksravaṃti sarito na dhenā aṃtarhṛdā manasā pūyamānāḥ*): "like rivers flowing without obstruction, धेनाः (*dhenāḥ*) purified within the heart and mind", it is fitting, and not wrong, to say that they are speeches in the form of praise, issuing naturally from the heart and with a purified mind. Moreover the words मनसा (*manasā*), अंतर्हृदा (*aṃtarhṛdā*) and पूयमानाः (*pūyamānāḥ*) agree naturally with धेनाः (*dhenāḥ*). Sāyaṇa's joining those words with the words एते धृतस्य ऊर्मयः (*ete dhṛtasya ūrmayaḥ*) does not give a natural sense.
+
+### Printed p. 161
+**NOTE**
+Similarly in Ṛk 1-101-10 also, the dual धेने (*dhene*) may indicate the two offerings, praise and oblation. But in the Ṛk
+पितुश्चिदूर्धजनुषा विवेद व्यस्य धारा असृजद्वि धेनाः । गुहा चरंतं सखिभिः शिवेभिर्दिवो यह्वीभिर्न गुहा बभूव । (*pituścidūrdhajanuṣā viveda vyasya dhārā asṛjadvi dhenāḥ | guhā caraṃtaṃ sakhibhiḥ śivebhirdivo yahvībhirna guhā babhūva |*)
+(Ṛ. Saṃ. 3-1-9) it is reasonable that he has said that ऊधः (*ūdhaḥ*) is the atmosphere, धारा (*dhārā*) is the stream of rain, and धेनाः (*dhenāḥ*) is the roaring sound of thunder. Leaving aside these few examples, in the rest, namely
+विशंविशं मघवा पर्यशायत जनानां धेना अवचाकशद्वषा । यस्याह शक्रः सवनेषु रण्यति स तीव्रैः सोमैः सहते पृतन्यतः । (*viśaṃviśaṃ maghavā paryaśāyata janānāṃ dhenā avacākaśadvaṣā | yasyāha śakraḥ savaneṣu raṇyati sa tīvraiḥ somaiḥ sahate pṛtanyataḥ |*)
+(Ṛ. Saṃ. 10-43-6)
+विरेण्यः क्रतुरिंद्रः सुशस्तिरुतापि धेना पुरुहूतमीट्टे । आर्दयद्वृत्रमकृणोदु लोकं ससाहे शक्रः पृतना अभिष्टिः ॥ (*vireṇyaḥ kraturiṃdraḥ suśastirutāpi dhenā puruhūtamīṭṭe | ārdayadvṛtramakṛṇodu lokaṃ sasāhe śakraḥ pṛtanā abhiṣṭiḥ ‖*)
+(Ṛ. Saṃ. 10-104-10)
+and the other Ṛks of this kind, Sāyaṇa has explained it everywhere as प्रीणयित्री स्तुतिवाक् (*prīṇayitrī stutivāk*). Likewise the word धेने (*dhene*) in Ṛk 1-101-10 cited above, and the word in the Ṛk
+स्त्रियो हि दास आयुधानि चक्रे किं मा करन्नबला अस्य सेनाः । अंतर्ह्यख्यदुभे अस्य धेने अथोप प्रैद्युधये दस्युमिंद्रः ॥ (*striyo hi dāsa āyudhāni cakre kiṃ mā karannabalā asya senāḥ | aṃtarhyakhyadubhe asya dhene athopa praidyudhaye dasyumiṃdraḥ ‖*)
+(Ṛ. Saṃ. 5-30-9) can, since the dual stands in both places, be taken to mean praise and oblation. In Ṛk 5-30-9 Sāyaṇa explains अस्य (असुरस्य) धेने उभे अंतः अख्युद्दि (*asya (asurasya) dhene ubhe aṃtaḥ akhyuddi*): both women of the Asura stood in the middle of the house, and then Indra fought Namuci face to face. Instead of taking धेना (*dhenā*) as "woman", it would fit better to say: when Namuci prepared an army in the form of women, praise and oblation entered Indra's inner heart and roused him to battle.
+
+In the same way, in the present Ṛk also, for ऋतस्य धेना सस्रुवः (*ṛtasya dhenā sasruvaḥ*), rather than Sāyaṇa's first meaning, the speeches in the form of praise, connected with the sacrifice and flowing from the mouths of the Hotṛ and the others, that is, Sāyaṇa's second meaning, seems clear and correct.
+
+### Printed p. 162
+इत्था (*itthā*)—बट्, इत्था इत्युभे अपि सत्यनामनी । (*baṭ, itthā ityubhe api satyanāmanī |*) (Ni. 3-10). बट् (*baṭ*) and इत्था (*itthā*) are both included among the names of truth. The meaning is "certainly".
+
+##### Grammar
+
+- इत्था — इदम्शब्दः । प्रकारार्थे इदमस्थमुः इत्यस्मात् थमुप्रत्ययः । व्यत्ययेन विभक्तेः डादेशः ।
+- धायि — डु धाञ् धारणपोषणयोः धातुः । छंदसि लुज् लज् लिटः (पा.सू. ३-४-६) इत्यस्मात् वर्तमानार्थे कर्मणि लुज् । लट् प्रथमपुरुषैकवचने तप्रत्ययः । चिण्‌भावकर्मणोः (पा. सू. ३-१-६६) इत्यस्मात् चिळेः चिणादेशः । चिणोलुक् (पा. सू ६-४-१०४) इत्यस्मात् तशब्दस्य लुक् । आतो युक् चिण् कृतोः (पा. सू. ७-३-३३) इत्यस्मात् धातोः युकागमः । बहुलं छंदस्यमाज्‌योगेऽपि इत्यस्मात् अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- दर्शतम् — दृशिर् प्रेक्षणे धातुः । भ्रमृदृशि (उ. सू. ३-३९०) इत्यस्मात् कर्मणि अतच् प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । उरणप्ररः इत्यस्मात् रपरत्वं भवति । प्रत्ययस्य चित्त्वात् चितः (पा. सू. ६-१-१६३) इत्यस्मात् अंतोदात्तस्वरो भवति ।
+- सहसः — सह मर्षणे धातुः । औणादिको असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति ।
+- जनि — जनी प्रादुर्भावे धातुः । पूर्ववत् छांदसो लुज् । प्रथमपुरुषैकवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति ।
+- ह्वरते — हृ कौटिल्ये धातुः । लट् प्रथमपुरुषैकवचने तप्रत्ययः । टेः एत्वम् । शप् विकरणः । तं निमित्तीकृत्य धातोः इकः गुणः । रपरत्वं भवति । यद्योगात् निघातस्वरो न भवति । अदुपदेशात् परस्य लसार्वधातुकस्य तास्यनुदात्तेत्— (पा. सू. ६-१-१८६) इत्यस्मात् अनुदात्तत्वात् धातुस्वरः अवतिष्ठते । **NOTE**
+- साधते — साध संसिद्धौ धातुः । हेतुमति च इत्यस्मात् णिच् । लट् प्रथमपुरुषैकवचने तप्रत्ययः । टेः एत्वम् । शपः छंदस्युभयथा (पा. सू. ३-४-११७) इत्यस्मात् अर्धधातुकसंज्ञात्वात् शेरनिटि (पा. सू. ६-४-५१) इत्यस्मात् णिचो लोपः । तिजंतस्य परत्वात् निघातस्वरो न भवति । धामस्वरः अवतिष्ठते ।
+
+### Printed p. 163
+- अनयंत — णीञ् प्रापणे धातुः । छंदसि लुज् लज् लिटः इत्यस्मात् वर्तमानार्थे लज् । व्यत्ययो बहुलम् इत्यस्मात् आत्मनेपदप्रत्ययो भवति । प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- सस्तुतः — समानं प्रवंति इति सस्तुतः । स्रु गतौ धातुः । क्विप् च (पा. सू. ३-२-७६) इत्यस्मात् कर्तरि क्विप् प्रत्ययः । ह्रस्वस्य पिति कृति तुक् (पा. सू. ६-१-७१) इत्यस्मात् तुकागमः । समानस्य सभावः । गतिकारकोपपदात् कृत् इत्यस्मात् कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् । **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृ॒क्षो वपुः॑ पितु॒मान्नित्य॒ आ श॑ये द्वि॒तीय॒मा स॒प्तशि॑वासु  ॒॑
+> मातृषु ।  
+> तृ॒तीय॑मस्य वृष॒भस्य॑ दो॒हसे॒ दश॑प्रमतिं जनयंत॒ योष॑णः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृक्षः । वपुः। पितुमान् । नित्यः। आ । शये । द्वितीयं । आ । सप्तशिवासु । मातृषु ।  
+> तृतीयं । अस्य । वृषभस्य । दोहसे । दशप्रमतिं । जनयंत । योषणः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयमग्निः वृक्षोऽन्न साधकः पाकादिना वपुर्वपुष्माञ्चरीराभिवृद्धिहेतुः
+> पितुमान् दनिर्लक्षणान्न युक्तो नित्यः शाश्वतः । ईदृशः सन् प्रथमं पृथिवीस्थानः
+> सन्ना शये । आशेते । दाहपाकादि लौकिकं कर्म, यज्ञादि वैदिकं कर्म, च निर्वर्तयन्भवो भूमौ वर्तत इत्यर्थः । तथा सप्तशिवासु मातृषु सप्तलोकशिवकरीषु मातृस्थानीयासु हितकरीषु वृष्टिषु द्वितीयमाशेते । मध्यमस्थानो विद्युद्रूपो ना वर्तते । अस्य वृषभस्य वर्षितुरस्यैव वैद्युताग्नेः सहायत्वेन संबंधिने
+> दोहसे दोग्य आदित्यस्थोदकस्य वर्षयित्र आदित्यरश्मये ॥ महेः कर्तर्यसुप्रत्ययः ॥ तत्पवृत्तये तृतीयमाशेते । म्यस्थानो वर्तते । यद्वा । अस्य वृषभस्य
+
+##### Gist of the bhāṣya
+
+This Agni, पृक्षः (*pṛkṣaḥ*) (here the printed bhāṣya has *vṛkṣaḥ*), is the accomplisher of food by cooking and the like. वपुः (*vapuḥ*): possessed of a body, the cause of the growth of bodies. पितुमान् (*pitumān*): endowed with food, by indication; नित्यः (*nityaḥ*): eternal. Being such, he first abides (आ शये (*ā śaye*), आशेते (*āśete*)) on earth, as one whose place is the earth: he is present on earth accomplishing both the worldly work, such as burning and cooking, and the Vedic work, such as sacrifice. Likewise he abides as the second form in the सप्तशिवासु मातृषु (*saptaśivāsu mātṛṣu*), that is, in the rains, which do good to the seven worlds and stand in the place of mothers, beneficent: being of the middle region, he exists in the form of lightning. अस्य वृषभस्य (*asya vṛṣabhasya*): of this shower-giver; दोहसे (*dohase*): for the sunbeam that rains down the water present in Āditya, to be milked, and connected as helper with this very lightning-fire (the suffix असु (*asu*) in the agent sense, from मह (*maha*)); for its activity he abides as the third form (…). Or else: अस्य वृषभस्य (*asya vṛṣabhasya*) … (the block breaks off here; the next window continues). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
+**Progress note:** Done through printed p. 163. pp. 157-163 (batch API)
