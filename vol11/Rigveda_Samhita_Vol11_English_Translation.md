@@ -7957,6 +7957,176 @@ it is also an epithet of the word पायुभिः (*pāyubhiḥ*) (**NOTE*
 - पायुभिः—पा रक्षणे धातुः । कृनापाजिमि—(उ.सू. १-१) इति उण् प्रत्ययः । आतोयुक्‌चिण् कृतोः (पा. सू. ७-३-३३) इति धातोः युकागमः । कित्त्वात् अंतावयवः भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
 - पाहि—पा रक्षणे धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
 
+### Printed p. 330
+
+##### Grammar
+
+- आदभेभिः — दंभु दंभने धातुः । क्तप्रत्ययः । अनिदितांहल इति उदानकारलोपः । झषस्तथो इति प्रत्ययस्य धत्वं । पूर्वस्य जस्य । नर्पूर्वपदप्रकृतिस्वरः भवति । पूर्ववत् भिसः ऐस्‌भावस्य विकल्पत्वात् एत्वं । **NOTE**
+- अदृपितेभिः — दृप. दृंफ उत्कलेशे धातुः तुदादिः । निष्ठा इति क्तप्रत्ययः । अर्धधातुकस्येड्वलादेः इति तस्य इडागमः । न दृपिताः अदृपिताः । पूर्ववत् अव्ययपूर्वपदप्रकृतिस्वरः । ऐस्‌भावस्य अभावात् एत्वं ।
+- इष्टे — इषु इच्छायां धातुः । क्तिच् प्रत्ययः । ष्टुत्वेन प्रत्ययतकारस्य टित्त्वं । संबुद्धौ ह्रस्वस्य गुणः इति गुणः । एज्‌ह्रस्वात् संबुद्धेः इति सुलोपः । आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- जाः — जनी प्रादुर्भावे धातुः । दृशिग्रहणात् उपपदाभावेऽपि अस्मात् प्रत्ययः । डित्वसामर्थ्यात् धातोः टेः लोपः । प्रत्ययस्वरेण उदात्तः भवति ॥ ८ ॥
+
+Here ends Sūkta 143.
+
+## Sūkta 144 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एति प्र होतेति सप्तर्चं पंचमं सूक्तं दैर्घतनसं जागतं । पूर्वत्राग्नेयं तु तदित्युक्तत्वादिदमप्याग्नेयं । तथा चानुक्रमणिका । एति प्र सप्त जागतमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एति प्र होता (*eti pra hotā*) has seven ṛks and is the fifth sūkta; its seer is Dairghatamasa (Dīrghatamas) and its metre is Jagatī. The preceding sūkta was addressed to Agni because it was said to be "that"; this one too is addressed to Agni. The Anukramaṇikā says accordingly: एति प्र सप्त जागतं (*eti pra sapta jāgataṃ*). Its use in the Prātaranuvāka and in the Aśvina-śastra has been stated.
+
+##### Printed English
+
+Anuvāda: The sūkta "Eti pra hotā" is the fifth sūkta in the twenty-first anuvāka. It has seven ṛks. The seer of this sūkta is Dīrghatamas, the son of Ucathya. The metre is Jagatī. As already said, the deity of this sūkta is Agni. The Anukramaṇikā says: एति प्र सप्त जागतं (*eti pra sapta jāgataṃ*). This sūkta is used at the time of reciting the mantras of the Prātaranuvāka, for the mantras of the Aśvina-śastra.
+
+### Printed p. 331
+Sūkta 144. Maṇḍala 1, Anuvāka 21, Sūkta 144. Aṣṭaka 2, Adhyāya 2, Varga 13. Number of ṛks in the sūkta: 7. Seer: Dīrghatamas Aucathya. Deity: Agni. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एति॒ प्र होता॑ व्र॒तम॑स्य मा॒ययो॒द्ध्वां दधा॑नः॒ शुचि॑पेशसं॒ धियं॑ ।  
+> अ॒भि स्रुचः॑ क्रमते दक्षिणा॒वृतो॒ या अ॑स्य॒ धाम॑ प्रथ॒मं ह॒  ॑
+> निंसते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एति । प्र । होता । व्रतं । अस्य । मायया । ऊर्ध्वा० । दधानः । शुचिपेशसं ।  
+> धियं ।  
+> अभि । स्रुचः । क्रमते । दक्षिणाआवृतः । याः । अस्य । धाम । प्रथमं । ह ।  
+> निंसते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं होता होमनिष्पादकोऽध्वर्युरस्याग्नेर्व्रतं हविष्णुदानादिरूपं
+> कर्म कर्तुं मायया कर्तव्यविशेषप्रज्ञया युक्तः सन् प्रैति । प्रकर्षेण गच्छति
+
+##### Gist of the bhāṣya
+
+This hotṛ, that is, the adhvaryu who accomplishes the offering, goes forth to perform the vrata of this Agni, the work consisting of giving the oblation and the like, endowed with māyā, that is, knowledge of the particular duty. "Goes forth" means he advances
+
+### Printed p. 332
+
+> होतुं । मायेति प्रज्ञा नाम माया वयुनमिति तन्नामसु पातात् । कीदृशोयं । ऊर्ध्वामुपर्यारूढां शुचिपेशसं शोभनरूपोपेतां । पेश इति रूप
+> नाम । धियं प्रज्ञां दधानः । आ चतुर्थात्कर्मणोऽभिसमीक्षेत्रेदं करिष्यतीत्युक्तत्वात् । आगत्य च दक्षिणावृत प्रादक्षिण्यन वर्तमानाः स्पुचो जुह्वादीः क्रमते ।
+> गृह्णाति । कीदृश्यः स्पुचः । याः प्रथमं पात्रासादनकालेऽस्याग्नेर्धाम स्थानं
+> निंसते ॥ निंस चुंबन इति धातुः ॥ चुंबंति । भजंत इत्यर्थः । प्रथममनुष्ठेयक्रमं बुद्ध्या प्रैति पश्चात्सुचः क्रमत इत्यर्थः । हशब्दः प्रसिद्धौ । यद्वा । होता
+> देवानामाह्वातायमग्निरस्य यजमानस्य व्रतं कर्म ज्योतिष्टोमादि प्रज्ञाविशेषेण युक्तः सन्नेति । यज्ञ देशं प्रत्यागच्छति । कीदृशोऽयं । ऊर्ध्वामूर्ध्ववर्ति शुचिपेशसं शोभनरूपोपेतं धियं ज्वालाचलनादिरूपं कर्म दधानो
+> धारयमाणः । आगत्य च दक्षिणावृत उक्तलक्षणाः स्पुचो घृतपूर्णा जुहूपभृदादिका अभिक्रमते । आक्रमते । घृतं स्वीकर्तुं ज्वालाः प्रसर्वतीत्यर्थः । याः स्पुचः
+> प्रथमं पूर्वं हविरासादनकालेऽस्याग्नेर्धाम स्थानं वेदिलक्षणं निंसते चुंबंति
+> प्राप्ताः । हशब्दः प्रसिद्धौ ॥ णिसि चुंबने । अदादित्वाच्चपो लुक् । इदित्वान्नुम् ॥
+
+##### Gist of the bhāṣya
+
+…in order to sacrifice. Māyā means prajñā, "understanding"; it is so read among its names ("māyā, vayunam"). What kind of man is he? He bears a dhī, understanding, that is raised up (ūrdhvā) and of beautiful form (śucipeśasa); peśa is a name for form. This is said because, until the fourth rite, he looks ahead, "he will do this". Having come, he takes up the ladles (sruc), the juhū and the others, which stand to the right (dakṣiṇāvṛt, moving in the pradakṣiṇa way). Which ladles? Those which, at the first time of setting out the vessels, kiss (niṃsate) the dhāma, the place, of Agni. The root is निंस चुंबन (*niṃsa cuṃbana*) ("to kiss"), that is, they resort to it. The sense: he first goes forth having considered in his mind the order of what is to be performed, and afterwards takes up the ladles. The particle ha is used in the sense of "well known".
+Or else: Agni, who is the hotṛ, the summoner of the gods, goes to the sacrificial place for this yajamāna's vrata, the Jyotiṣṭoma and the like, endowed with special understanding. What sort is he? He is upward-going, of beautiful form, and bears the dhī, which is the work of the flame's stirring and the like. Having come, he approaches the ladles that stand to the right as described, filled with ghee, the juhū, upabhṛt and the rest; the sense is that the flames spread out to receive the ghee. Those ladles, which at the first time of setting out the oblation reach and kiss the dhāma, the place of Agni, that is, the vedi.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्ध्वां (*ūrdhvāṃ*)—one that has attained loftiness
+- शुचिपेशसं (*śucipeśasaṃ*)—one of a grave (majestic) form
+- धियं (*dhiyaṃ*)—understanding
+- दधानः (*dadhānaḥ*)—possessing
+- होता (*hotā*)—the adhvaryu, the accomplisher of the offering
+- अस्य (*asya*)—directed to Agni
+- व्रतं (*vrataṃ*)—(to perform) the rites of giving the oblation and the like
+- मायया (*māyayā*)—together with understanding that has special experience (in his duty)
+- प्र एति (*pra eti*)—advances
+- याः (*yāḥ*)—which vessels, juhū and others
+- प्रथमं (*prathamaṃ*)—at the time of setting out the vessels (or, first of all when the oblation is offered)
+- अस्य (*asya*)—of this Agni
+- धाम (*dhāma*)—the place
+- निंसते (*niṃsate*)—touch
+- दक्षिणावृतः (*dakṣiṇāvṛtaḥ*)—placed in the pradakṣiṇa way
+- स्रुचः (*srucaḥ*)—the juhū and the other ladles
+- क्रमते (*kramate*)—he takes up
+- Or: ऊर्ध्वां (*ūrdhvāṃ*)—that stands high and raised up
+- शुचिपेशसं (*śucipeśasaṃ*)—of charming form
+- धियं (*dhiyaṃ*)—one who has the flame
+- होता (*hotā*)—Agni, who gives the invitation (to the gods)
+- अस्य (*asya*)—of this yajamāna
+- व्रतं (*vrataṃ*)—the rites such as the Jyotiṣṭoma
+- मायया (*māyayā*)—knowing them by his own special understanding
+- प्र एति (*pra eti*)—comes forward
+- याः (*yāḥ*)—which vessels, juhū and others
+- प्रथमं (*prathamaṃ*)—first (at the time of setting out the oblation)
+- अस्य (*asya*)—of Agni
+- धाम (*dhāma*)—the place
+- निंसते (*niṃsate*)—touch
+- दक्षिणावृतः (*dakṣiṇāvṛtaḥ*)—placed in the pradakṣiṇa way
+- स्रुचः (*srucaḥ*)—the juhū and the other ladles (filled with ghee)
+- अभि क्रमते (*abhi kramate*)—he overpowers them (receiving the oblation, he spreads the flame)
+
+### Printed p. 333
+
+##### भावार्थ (Bhāvārtha)
+
+The adhvaryu, the accomplisher of the offering, endowed with an understanding that has attained loftiness and has a grave form, and with the special experience needed to carry out the rites of giving the oblation and the like, goes forward for the performance of the sacrifice. He takes up the juhū and the other ladles, which, when the oblation is offered, touch the fire-altar first of all and are set in the pradakṣiṇa way.
+
+##### Printed English
+
+The ministering priest, (qualified) by experience, and possessing) exalted and graceful devotion, proceeds (to celebrate) his, (Agni's) worship. having cumambulated (the alter), he takes up the ladles which are first to present the oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+एति प्र सस्त जागतं (*eti pra sasta jāgataṃ*) (Anukramaṇikā). प्रातरनुवाकाश्विनस्त्रयोर्विनियोग उक्तः (*prātaranuvākāśvinastrayorviniyoga uktaḥ*) (Sā. Bhā. Pīṭhikā). **NOTE**
+Sāyaṇa has stated in the introduction to his commentary that this sūkta is used in the Aśvina-śastra. The story that shows the relation between the Aśvina-śastra and the Agni sūkta is told in the Aitareya Brāhmaṇa as follows.
+प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्यै सर्वे देवा वरा आगच्चंस्तस्या एतत्सहस्रं वहतुमन्वाकरोद्यदेतदाश्विनमित्याचक्षतेऽनाश्विनं हैव तद्यदर्वाक्सहस्रं तस्मात्तत्सहस्रं वैव शंसेद्भ्यो वा प्राश्य धृतं शंसेद्यथा ह ना इदमनो वा रथो वाक्तो वर्तत एवं हैवाक्तो वर्तते । शकुनिरिवोत्पतिष्यन्नाह्वयीत । (*prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasyai sarve devā varā āgaccaṃstasyā etatsahasraṃ vahatumanvākarodyadetadāśvinamityācakṣate 'nāśvinaṃ haiva tadyadarvāksahasraṃ tasmāttatsahasraṃ vaiva śaṃsedbhyo vā prāśya dhṛtaṃ śaṃsedyathā ha nā idamano vā ratho vākto vartata evaṃ haivākto vartate | śakunirivotpatiṣyannāhvayīta |*)
+In former times, when Prajāpati resolved to give his daughter Sūryā in marriage to Soma, all the gods came, each desiring to win her. Prajāpati then laid down the condition that a thousand mantras, known as the Aśvina-śastra, must be recited, and that the number must not fall short. Since, just as in the world a chariot wheel moves easily after it has been anointed with oil, mantras can be recited easily after drinking ghee, one should first drink ghee and then recite. And just as a bird makes its body light when it is ready to fly, the suitor who desires her must also have that quality.
+
+### Printed p. 334
+तस्मिन्देवा न समजानत ममेदमस्तु ममेदमस्त्विति ते संजानाना अब्रुवन्नाजिमस्याऽयामहे स यो न उज्जॆष्यति तस्येदं भविष्यतीति तेऽग्नेरेवाधि गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेयी प्रतिपद्भवत्याश्विनस्याग्निर्होता गृहपतिः स राजेति । (*tasmindevā na samajānata mamedamastu mamedamastviti te saṃjānānā abruvannājimasyā 'yāmahe sa yo na ujjèṣyati tasyedaṃ bhaviṣyatīti te 'gnerevādhi gṛhapaterādityaṃ kāṣṭhāmakurvata tasmādāgneyī pratipadbhavatyāśvinasyāgnirhotā gṛhapatiḥ sa rājeti |*)
+Then the gods, not wishing to fight one another, agreed together that all should take part in a contest, and that whoever won in that race would be fit to win her. Then they ran, starting from Agni, the lord of the house, up to Sūrya. Hence the first mantra.
+One view is that the ṛk
+स त्वं दक्षस्यावृको वृधो भूरर्यः परस्यांतरस्य तरुषः । रायः सूनो सहसो मर्त्येष्वा छर्दिर्यच वीतहव्याय सप्रथो भरद्वाजाय सप्रथः ॥ (*sa tvaṃ dakṣasyāvṛko vṛdho bhūraryaḥ parasyāṃtarasya taruṣaḥ | rāyaḥ sūno sahaso martyeṣvā chardiryaca vītahavyāya sapratho bharadvājāya saprathaḥ ‖*)
+(Ṛ. Saṃ. 6-5-3)
+is addressed to Agni; and, further, some hold that one should begin with the mantra
+अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायं । अग्नेरनीकं बृहतः सपर्यं दिवि शुक्रं यजतं सूर्यस्य ॥ (*agniṃ manye pitaramagnimāpimagniṃ bhrātaraṃ sadamitsakhāyaṃ | agneranīkaṃ bṛhataḥ saparyaṃ divi śukraṃ yajataṃ sūryasya ‖*)
+(Ṛ. Saṃ. 10-7-3)
+But this is not acceptable.
+तत्तन्नादृत्यं .... ... .... तस्मादग्निर्होता गृहपतिः स राजेत्येतॆयैव प्रतिपद्येत गृहपतिवती प्रजातिमती शांता सर्वायः सर्वायुत्वाय । सर्वमायुरेति य एवं वेद । (*tattannādṛtyaṃ .... ... .... tasmādagnirhotā gṛhapatiḥ sa rājetyetèyaiva pratipadyeta gṛhapativatī prajātimatī śāṃtā sarvāyaḥ sarvāyutvāya | sarvamāyureti ya evaṃ veda |*)
+It is proper to begin with mantras such as "Agni is the hotṛ, the lord of the house". It is said that those who know this principle obtain all prosperity and become long-lived. Not only this:
+तासां वै देवतानामाजिं धावंतीनामभिसृष्टानामग्निर्मुखं प्रथमः प्रत्यपद्यत तमश्विनावन्नागच्छतां तमब्रूतामपोदिह्यावां ना इदं जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अष्यत्राकुरुतां तस्मादाग्नेयमाश्विने शस्यते । (*tāsāṃ vai devatānāmājiṃ dhāvaṃtīnāmabhisṛṣṭānāmagnirmukhaṃ prathamaḥ pratyapadyata tamaśvināvannāgacchatāṃ tamabrūtāmapodihyāvāṃ nā idaṃ jeṣyāva iti sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā aṣyatrākurutāṃ tasmādāgneyamāśvine śasyate |*)
+
+### Printed p. 335
+When all the gods took part in this contest and ran, Agni went ahead of all. Then the Aśvins approached Agni and begged: "Leave us the way; help us to win in this." Agni agreed, but asked that a share in that victory be given to him too. For this reason he also has a share in the Aśvina-śastra. (Likewise, regarding the share that fell to Uṣas, and the relation between the sūkta addressed to the deity Uṣas and the Aśvina-śastra, this has been stated in the introduction to Ṛ. Saṃ. sūkta 1-123 in the tenth volume of the Ṛgveda Saṃhitā.)
+In this connection another objection is stated, and its answer is given as well.
+तदाहुर्यच्छस्यत आग्नेयं शस्यत उषस्यं शस्यत ऐंद्रमथ तस्मादेतदाश्विनमित्याचक्षत इत्यश्विन् हि तमदजयतामश्विनावाश्नुवातां यदश्विना वाश्नु वातां तस्मादेतदाश्विनमित्याचक्षते । (*tadāhuryacchasyata āgneyaṃ śasyata uṣasyaṃ śasyata aiṃdramatha tasmādetadāśvinamityācakṣata ityaśvin hi tamadajayatāmaśvināvāśnuvātāṃ yadaśvinā vāśnu vātāṃ tasmādetadāśvinamityācakṣate |*)
+(**NOTE**)
+(Ai. Brā. 4-7 to 8)
+Since in this passage the mantras are recited addressed to Agni, Indra and Uṣas, the objection arises: how did the name "Aśvina-śastra" come to apply to all of these? The answer is that, because the recitation is chiefly about the victory of the Aśvins, this name applies to all these mantras.
+शुचिपेशसं (*śucipeśasaṃ*)—पेश इति रूपनाम (*peśa iti rūpanāma*) (Ni. 3-13). शोभनरूपोपेता (*śobhanarūpopetā*)—"having a grave form"; it is an epithet of धियं (*dhiyaṃ*). The Nirukta-kāra, too, citing the ṛk
+आ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥ (*ā suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon | divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*)
+(Ṛ. Saṃ. 10-110-6)
+explains शुक्रपेशसं श्रियं शोचतेज्वलतिकर्मणः । पेश इति रूपनाम (*śukrapeśasaṃ śriyaṃ śocatejvalatikarmaṇaḥ | peśa iti rūpanāma*) and interprets it as "of shining form" (Ni. 8-11).
+धियं (*dhiyaṃ*)—प्रज्ञां (*prajñāṃ*), understanding. It has been stated earlier that this word is read both among the names of actions (3-1) and among the names of understanding (Ni. 11-27), and that the Nirukta-kāra has explained it by citing ṛks that show these meanings.
+मायया (*māyayā*)—मायेति प्रज्ञानाम । माया, वयुनं इति तन्नामसु पाठात् (*māyeti prajñānāma | māyā, vayunaṃ iti tannāmasu pāṭhāt*) (Ni. 3-13). The Nirukta-kāra, citing
+मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् । मायामू तु यज्जियानामेतामपो यत्तूर्णिश्चरति प्रजानन् ॥ (*mūrdhā bhuvo bhavati naktamagnistataḥ sūryo jāyate prātarudyan | māyāmū tu yajjiyānāmetāmapo yattūrṇiścarati prajānan ‖*)
+(Ṛ. Saṃ. 10-88-6)
+
+### Printed p. 336
+and explaining स एव प्रज्ञां त्वेतां मन्यंते (*sa eva prajñāṃ tvetāṃ manyaṃte*), has given the word māyā the meaning "understanding" (Ni. 7-27). And further, citing
+शुक्रं ते अन्यदृजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadṛjataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*) — see the printed ṛk: शुक्रं ते अन्यदृजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadṛjataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*)
+(Ṛ. Saṃ. 6-58-1)
+(Ni. 12-17), he has shown that here too the word māyā has the meaning "understanding". This word also has the meanings "deceit, trickery".
+अरोरवीद्वष्णो अस्य वज्रोऽमानुषं यन्मानुषो निजूर्वात् । नि मायिनो दानवस्य माया अपादयत्पपिवान्तुतस्य ॥ (*aroravīdvaṣṇo asya vajro 'mānuṣaṃ yanmānuṣo nijūrvāt | ni māyino dānavasya māyā apādayatpapivāntutasya ‖*)
+(Ṛ. Saṃ. 2-11-18)
+In ṛks such as this, मायिनो दानवस्य माया (*māyino dānavasya māyā*) means the deceitful deeds of the deceitful dānava.
+
+##### Grammar
+
+- एति — इण् गतौ धातुः । लट् प्रथमपुरुषएकवचनांतरूपं । पादादित्वात् निघातस्वरः न भवति । तिप् अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- मायया — मा माने धातुः । माछाससिभ्योयः (उ. सू. ४-५४९) इति यप्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । तृतीयाविकवचनांतरूपं ।
+- दधानः — डुधाञ् धारणपोषणयोः धातुः । लडर्थे शानच् प्रत्ययः । श्लविकरणं । अभ्यस्तानामादिः (पा. सू. ९-१-१८९) इति आद्युदात्तस्वरः भवति ।
+- शुचिपेशसम् — शुचि पेशः यस्य सः शुचिपेशाः तम् । बहुव्रीहौ प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति । द्वितीयाविकवचनांतररूपं ।
+- स्रुचः — स्रु गतौ धातुः । चिक् च (उ. सू. २-२२०) इति चिक् प्रत्ययः । इकारककारयोः इत्संज्ञाप्राप्तेः लोपः भवति । स्रुच् शब्दः भवति ।
+- क्रमते — क्रमु पादविक्षेपे धातुः । लट् प्रथमपुरुषएकवचनांतरूपं । तिइनिघातस्वरः भवति ।
+- दक्षिणावृतः — दक्षिणा इति आजंतः अव्ययः । आज् उपसर्गः । वृञ् वरणे धातुः । क्तप्रत्ययः । समासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 329. pp. 324-329 (batch API)
+**Progress note:** Done through printed p. 336. pp. 330-336 (batch API)
