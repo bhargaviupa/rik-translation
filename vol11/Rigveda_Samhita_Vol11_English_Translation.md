@@ -12334,6 +12334,182 @@ and similar Ṛks, इरज्यति (*irajyati*) means ईश्वरो �
 
 > यः । वां । यज्ञैः । शशमानः । द । दाशति । कविः । होता । यजति । मन्मसाधनः ।
 
+### Printed p. 506
+
+> उप । अह । तं । गच्छथः । वीथः । अध्वरं । अच्च । गिरः । सुमतिं । गंतं । अस्मयू
+> । इत्यस्मयू ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो ह यः खलु यजमानो नां युवामुद्दिश्य युवाभ्यां ना यज्ञॆर्यागैर्निमित्तभूतैः शशमानः शंसमानो दाशति हविरादिकं स्वस्वत्वं निवर्त्य युष्मत्स्वापादनं करोति । य एव कविरनूचानः । येनूचानास्ते कवय इति श्रुतेः ।
+> अथवा कविर्मेधावी होता सम्यगोमनिष्पादको यजमानो मन्मसाधनो
+> मननीयद्रव्यदक्षिणादिसाधनोपेतः सन्यजति सोमयागादिकं करोति । तमेव
+> यजमानं सुमतिं शोभनप्रज्ञमुपोपलक्ष्य गच्छथः । प्राप्नुथः खलु । अध्वरं
+> तदीयं यज्ञं वीथः । कामयेथे । किंचास्मयू अस्मान्यामयमानौ युवां
+> गिरः स्तुतीरच्चाभिलक्ष्य गंतं । गच्छतं । ताद्रशं मां प्राप्य स्तुतीः स्वीकुरुतमित्यर्थः।
+> अत्र यद्यपि तमिति सामान्यनिर्देशः प्रतिभाति तथाप्यस्मयू इत्युक्तत्वाद्दीर्घतमाः
+> स्वात्मानमेव परोक्षतयोक्तवानिति गम्यते । यद्वा । यो दाशति यश्च यजते
+> तमुपेत्य तदीयं यज्ञं कामयेथे । अतोऽस्मयू युवां सुमतिं मां
+> मदीया गिरः स्तुतीरच्चाभिलक्ष्य गच्छतं ॥
+
+##### Gist of the bhāṣya
+
+The yajamāna who, glorifying the two Aśvins (Nāsatyas) with sacrifices as the cause, offers oblations and the like, giving up his own ownership and turning the offering over to them, is the "sage" (कविः (*kaviḥ*)), the one who praises; the śruti says "those who praise are sages". Or else: the sage is the wise Hotṛ, the yajamāna who accomplishes the ritual rightly, and who, being furnished with the means for "what is to be meditated on" (the desirable materials, dakṣiṇā and the like), performs sacrifices such as the Soma sacrifice. The two gods are to mark that very yajamāna, who has good understanding, and go to him; they are to come to his sacrifice and desire it. And "desiring us" (अस्मयू (*asmayū*)), they are to attend to the praises with their eyes on him, that is: reaching me, accept the praises. Although तं (*taṃ*) looks like a general reference, from the word अस्मयू (*asmayū*) it is understood that Dīrghatamas speaks of himself indirectly. Or else: coming to him who offers and who sacrifices, they desire his sacrifice; therefore, desiring us, they are to go to me, the one of good understanding, regarding my praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः ह (*yaḥ ha*)—whichever yajamāna
+- वां (*vāṃ*)—addressing you both
+- यज्ञैः (*yajñaiḥ*)—with sacrifices
+- शशमानः (*śaśamānaḥ*)—praising
+- दाशति (*dāśati*)—offers the oblation
+- कविः (*kaviḥ*)—the wise
+- होता (*hotā*)—the accomplisher of the homa; whichever yajamāna
+- मन्मसाधनः (*manmasādhanaḥ*)—furnished with delightful means such as dakṣiṇā
+- यजति (*yajati*)—performs the sacrifice (such a one)
+- सुमतिं (*sumatiṃ*)—excellent, possessed of understanding
+- तं उप (*taṃ upa*)—marking that very yajamāna
+- गच्छथः (*gacchathaḥ*)—go
+- अध्वरं (*adhvaraṃ*)—his sacrifice
+- वीथः (*vīthaḥ*)—desire and accept (likewise)
+- अस्मयू (*asmayū*)—favouring us
+- गिरः अच्च (*giraḥ acca*)—noting also our hymns
+- गंतं (*gaṃtaṃ*)—be gracious (accept)
+
+##### भावार्थ (Bhāvārtha)
+
+Whichever yajamāna, addressing you both, offers oblations while praising you with sacrifices, and whichever wise yajamāna, accomplisher of the homa, performs sacrifice furnished with delightful
+
+### Printed p. 507
+means such as dakṣiṇā: mark that excellent yajamāna of good understanding and go to him. Accept his sacrifice, and in the same way, favouring us, accept our hymns also.
+
+##### Printed English
+
+Come to the devout (worshipper), who, glorifying you, and providing (all that is) acceptable, presents you with oblations; (to him), the sage, the invoker, who offers you worship: accept his sacrifice; favourably disposed towards us, (accept) our praises.
+
+##### विशेषविषयगळु (Special Topics)
+
+शशमानः (*śaśamānaḥ*)—This word is read among the verbs-of-worship names (arcati karma-nāmas). The Nirukta authors, citing this very Ṛk, explain शशमानः शंशमानः (*śaśamānaḥ śaṃśamānaḥ*) (6-8), taking the word to mean the yajamāna who praises.
+
+मन्मसाधनः (*manmasādhanaḥ*)—It has been stated earlier that the word मन्म (*manma*) has the senses "to be meditated upon", "of the nature of meditation" and "praiseworthy". Here मन्मसाधनः (*manmasādhanaḥ*) is explained as मननीयद्रव्यदक्षिणादिसाधनोपेतः सन् (*mananīyadravyadakṣiṇādisādhanopetaḥ san*), the yajamāna furnished with materials such as dakṣiṇā, which are absolutely needed at the time of the sacrifice. In this Ṛk the word is an epithet of the performer of the sacrifice.
+In the Ṛk रायो बुध्नः संगमनो वसूनां यज्ञस्य केतुर्मन्मसाधनो वेः । अमृतत्वं रक्षमाणास एनं देवा अग्निं धारयन्नविणोदां ॥ (*rāyo budhnaḥ saṃgamano vasūnāṃ yajñasya keturmanmasādhano veḥ | amṛtatvaṃ rakṣamāṇāsa enaṃ devā agniṃ dhārayannaviṇodāṃ ‖*) (Ṛ. Saṃ. 1-96-6) the word is an epithet of Agni; when explaining that Ṛk earlier it was stated that the meaning is मननीयस्य अभिलषितस्य साधयिता (*mananīyasya abhilaṣitasya sādhayitā*), one who also brings about the desired objects.
+
+##### Grammar
+
+- शशमानः—शश प्लुतगत् धातुः । धातूनामनेकार्थत्वादत्र स्तुत्यर्थे प्रयुक्तः । ताच्छेल्यवयोवचन—(पा. सू. ३-२-१२९) इति चानश् प्रत्ययः । शप् विकरणः । अनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । चितः इति अंतोदात्तस्वरो भवति ।
+- दाशति—दाश्य दाने धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । यद्वृत्तान्वित्यम् इति निघातस्वरप्रतिषेधो भवति । अतो धातुस्वरः अवशिष्यते ।
+
+### Printed p. 508
+- कविः—कु शब्दे धातुः । आचइः (उ. सू. ४-५७८) इति इ प्रत्ययः । सार्वधातुकार्धधातुकयोः इति धातोरिकः अवादेशः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- मन्मसाधनः—साध संसिद्धौ धातुः । ल्युट् प्रत्ययः । युवोरनाकौ (पा सू. १-१-१) इति तस्य अनादेशः । लिति (पा सू. ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरो भवति । मन्म साधनं यस्य सः कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- गच्छथः—गमल्य गत् धातुः लट् मध्यमपुरुषद्विवचनांतरूपम् । अह इति पूर्वं वर्तते अतः अहेतिविनियोगे च (पा. सू. ८-१-६१) इति निघातप्रतिषेधो भवति अतो धातुस्वरः अवशिष्यते । लसार्वधातुकं तास्यनुदात्तेत् सूत्रेण अनुदात्तं भवति ।
+- वीथः—वी गत्यादिषु । अदादिः अत्र इच्छार्थे प्रयुक्तः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतस्य परत्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- अच्छ—निपातस्य च (पा.सू ६-३१३६) इति संहितायां दीर्घो भवति ।
+- सुमतिम्—शोभना मतिः यस्य सः सुमतिः तम् नञ् सुभ्याम् (पा. सू. ६-२-१३६) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- गंतम्—गमल्य गतौ धातुः लोट् मध्यमपुरुषद्विपचने लज्ञद्भावत्वात् तनादेशः । बहुलं छंदसि इति विकरणस्य लुक् । छांदसत्वात् अनुनासिकलोपो न भवति । तिजंतनिघातस्वरो भवति ।
+- अस्मयू—अस्मान् आत्मनः इच्छति इति अर्थविवक्षायां सुप आत्मनः क्याच् (पा. सू. ३-१-८) इति क्यजंतात् क्याच्छंदसि (पा. सू ३-३-१६०) इति उ प्रत्ययः । अतोलोपः इति क्यचिन अकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तो भवति । द्विवचनांतररूपम् ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां य॒ज्ञैः प्र॑थ॒मा गोभि॑रंजत॒ ऋता॑वाना॒ मन॑सो॒  ॑
+> न प्रयु॑क्तिषु ।
+
+### Printed p. 509
+
+> भरंति नां मन्मना संयता गिरोऽदृप्यता मनसा रेवदाशाथे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । यज्ञैः । प्रथमा । गोभिः । अंजते । ऋतवाना । मनसः । न । प्रयुक्तिषु ।  
+> भरंति । वां । मन्मना । संयता । गिरः । अदृप्यता । मनसा । रेवत् । आशाथे इति ।  
+> ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतावाना यज्ञवंतौ वृष्टु दकवंतौ वा मित्रावरुणौ युवां प्रथमा
+> प्रथमौ यज्ञैर्यजनसाधनैर्गोभिर्गोविकारैः पयआदिभिरंजते । व्यंजयंति
+> यजमानाः । देवभागं यागेषु क्षीरादिभिर्यजंत इत्यर्थः । यद्वा । गोभिरंजते । स्तुवंति । तत्र दृष्टांतः । प्रयुक्तिषु प्रयोगेषु मनसो न ॥ कर्मणि
+> षष्ठी ॥ मन इव । तद्यथा प्रथमं व्यंजयंति मुख्यं कुर्वंति तत्पूर्वकत्वात्सर्वव्यवहारस्य । किं च नां युवां मज्मना मननवता संयता युवामेव सम्यग्गच्छता
+> चित्तेन गिरः स्तुतीर्भरंति । संपादयंति । यस्मादेवं तस्माददृश्यतानभिभवता
+> मनसा प्रकृष्टेन चेतसा यक्त्वा संतौ रेवद्धनवत्कर्मास्मदीयमाशाथे । अश्नुवाथे । व्याप्नुथः । ददाथे इत्यर्थः । अश्नोतेर्लिट्यनित्यमागमशासनमिति वचनादिडभावः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, "possessors of ṛta", that is, possessors of sacrifice or of rain-water: you are the first. The yajamānas anoint (अंजते (*aṃjate*)), that is, manifest, you with the sacrifices (the means of worship) and with cow-products (गोभिः (*gobhiḥ*)) such as milk; the meaning is that in the sacrifices they worship the share of the gods with milk and the like. Or else अंजते (*aṃjate*) means "they praise" with गोभिः (*gobhiḥ*) (hymns). The illustration is "like the mind in applications (प्रयुक्तिषु (*prayuktiṣu*))": the genitive मनसः (*manasaḥ*) is in the sense of the object. As people first manifest, that is, make chief, the mind, since every undertaking is preceded by it, so they do with you. Moreover, they bring forth (भरंति (*bharaṃti*)), that is, produce, hymns for you with a reflective (मन्मना (*manmanā*)) mind well-directed (संयता (*saṃyatā*)) to you alone. Since this is so, with an unassailing (अदृप्यता (*adṛpyatā*)) mind, that is, with an excellent heart, being united with us, you pervade or grant (आशाथे (*āśāthe*)) our rite that bears wealth (रेवत् (*revat*)); the meaning is "you give". For the root *aśnoteḥ* in the liṭ, the absence of iṭ follows from the statement that the rule of augments is not constant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतापाना (*ṛtāpānā*)—O Mitra and Varuṇa, who accept the sacrifice or are lords of rain-water
+- प्रयुक्तिषु (*prayuktiṣu*)—when (any work through the senses) is to be put into use
+- मनसो न (*manaso na*)—as one gives the first place to the mind (for the discernment of good or bad)
+- युवां (*yuvāṃ*)—you both
+- यज्ञैः (*yajñaiḥ*)—being means of sacrifice
+- गोभिः (*gobhiḥ*)—with milk and the like
+- प्रथमा (*prathamā*)—making you chief (placing in the foremost place)
+- अंजते (*aṃjate*)—(the yajamānas) worship
+- नां (*nāṃ*)—you (and)
+- मन्मना (*manmanā*)—with meditation done in faith
+- संयता (*saṃyatā*)—with a mind that joins itself to you
+- गिरः (*giraḥ*)—hymns
+- भरंति (*bharaṃti*)—they produce (therefore)
+- अदृश्यता (*adṛśyatā*)—without anger (with a gracious)
+- मनसा (*manasā*)—mind
+- रेवत् (*revat*)—a rite bearing wealth
+- आशाथे (*āśāthe*)—bring about for them
+
+### Printed p. 510
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, worthy to accept the sacrifice: just as, whatever work is to be done, one gives first place to the mind that examines whether it is good or bad, so the yajamāna places you both in the foremost place and worships you first. And they compose hymns for you with a mind joined to you in faithful meditation. Therefore, with a mind free from anger, that is, gracious, bring about for them the rite that bears wealth.
+
+##### Printed English
+
+Accepers of sacrifices, you are the first whom (worshippers) propiate with offerings, the produce of the cow, like (the application) of the mind (in the first instance) to the results (of the senses), hymns (prompted) by thoughts wholly intent upon you, celebrate (your praise): do you with humble minds, bestow upoo us wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतानाना (*ṛtānānā*)—Mitra and Varuṇa are addressed as यज्ञवंतौ वृष्ट्युदकवंतौ ना मित्रावरुणौ (*yajñavaṃtau vṛṣṭyudakavaṃtau nā mitrāvaruṇau*), "possessors of sacrifice or lords of rain-water".
+In Ṛks such as अधारयतं पृथिवीमुत द्यां मित्रराजाना वरुणा महोभिः । वर्धयतमोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू (*adhārayataṃ pṛthivīmuta dyāṃ mitrarājānā varuṇā mahobhiḥ | vardhayatamoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū*) (Ṛ. Saṃ. 5-62-3) and ऋतस्य गोपावधि तिष्ठथो रथं सत्यधर्माणा परमे व्योमनि । यमत्र मित्रावरुणावधो युवं तस्मै वृष्टिर्मधुमत्पिन्वते दिवः ॥ (*ṛtasya gopāvadhi tiṣṭhatho rathaṃ satyadharmāṇā parame vyomani | yamatra mitrāvaruṇāvadho yuvaṃ tasmai vṛṣṭirmadhumatpinvate divaḥ ‖*) (Ṛ. Saṃ. 5-63-1), Mitra and Varuṇa are prayed to as the presiding deities of rain and as the ones who should send rain and protect the world. Here too such rain-deities, Mitra and Varuṇa, are prayed to for help.
+गोभिः (*gobhiḥ*)—गोविकारैः पय आदिभिः (*govikāraiḥ paya ādibhiḥ*). The word गो (*go*) is used also for the products of the cow, milk and the like. The Nirukta authors have shown that गो (*go*) has meanings such as Pṛthivī (2-5), Āditya (2-6). In the present context it is to be understood that the chief meaning of गो (*go*) is the cow and the milk and the like obtained from it. In the Nirukta,
+आ धावता सुहस्त्यः शुक्रा गृंभीत मंथिना । गोभिः श्रीणीत मत्सरं ॥ (*ā dhāvatā suhastyaḥ śukrā gṛṃbhīta maṃthinā | gobhiḥ śrīṇīta matsaraṃ ‖*) (Ṛ. 9-46-4) **NOTE**
+
+### Printed p. 511
+this Ṛk is cited, and गोभिः (*gobhiḥ*) there is explained as गोभ्यः अभिनिष्पन्नेन क्षीरेण (*gobhyaḥ abhiniṣpannena kṣīreṇa*); as there, so in the present Ṛk the meaning is "with milk and the like, the products of the cow".
+अंजते (*aṃjate*)—व्यंजयंति (*vyaṃjayaṃti*), "they make manifest". The meaning is that the performers of the sacrifice make their devotion shine forth by worship and the like. The precise meaning of this word is clearly understood from the description in the Ṛk एता उत्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । निष्कण्वाना आयुधानीव धृष्टवः प्रति गावोऽरुषीर्यंति मातरः ॥ (*etā utyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate | niṣkaṇvānā āyudhānīva dhṛṣṭavaḥ prati gāvo 'ruṣīryaṃti mātaraḥ ‖*) (Ṛ. Saṃ. 1-92-1): by रजसो भानुमंजते (*rajaso bhānumaṃjate*) it is described that Uṣas lights up the whole atmosphere with her radiance. In the same way, in the present Ṛk too, the purport is that they manifest the devotion lying within by the means of worship.
+
+##### Grammar
+
+- प्रथमा—प्रथ प्रख्याने धातुः । प्रथेरमच् (उ. सू. ५-७४६) इति अमच् प्रत्ययः । चितः इति अंतोदात्तस्वरो भवति । द्विवचने औ परे सुपां सुलुक् (पा. सू. ७-१-३९) इति तस्य आकारादेशः ।
+- अंजते—अंजू व्यक्तिम्रक्षणकांतिगतिपु धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- ऋतवाना—छंदसीवनिप् इति मत्त्वर्थे पनिप् प्रत्ययः । अन्येषामपिदृश्यते (पा. सू ६-३-१३७) इति पूर्वस्य दीर्घः । द्विवचने परे सुपां सुलुक् (पा सू. ७-१-२९) इति आकारावेशः ।
+- प्रयुक्तिषु—युजिर् योगे धातुः स्त्रियां क्तिन् इति भावार्थे क्तिन् प्रत्ययः । चोःकुः इति धातुजकारस्य कुत्वम् । चत्त्वम् । तादौ च निति (पा. सू. ६-२-५०) इति पूर्वस्य गतेः उदात्तस्वरो भवति ।
+- भरंति—भृञ् भरणे । धातुः । भ्वादिः । लट् प्रथमपुरुष बहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते । अंतर्भावितण्यर्थको धातुः ।
+- संयता—यती प्रयत्ने धातुः । क्विप् च इति क्विप् प्रत्ययः तृतीयाविकवचनांतरूपम् । गतिकारकोपपदात्‌कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 512
+- अदृष्यता—न दृप्यत् अदृष्यत् तेन । दृप हर्षमोहनयोः धातुः । मोहनं गर्वः । अस्मात् लडर्थे शतृ प्रत्ययः । तत्पुरुषे तुल्यार्थ इति नञ् प्रकृतिस्वरो भवति । तृतीयाविकवचनांतरूपम् ।
+- रेवत्—रयिः अस्य अस्ति इति रेवत् । रयेर्मत् बहुलम् इति वचनेन मतुप् परे संप्रसारणम् । न संप्रसारणे संप्रसारणम् इति यकारस्य संप्रसारणइकारो भवति । गुणः । रेशब्दाच्च (पा सू. ६-१-१७६-१) इति मतुपः उदात्तस्वरो भवति ।
+- आशाथे—अशू व्याप्तौ धातुः । लिट् मध्यमपुरुषद्विवचने आथाम् प्रत्ययः टेः एत्वम् । आगमानुशासनमुनित्यम् इति वचनेन द्वित्वे जाते नुडागमो न भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रे॒वद्वयो॑ ददाथे रे॒वदा॑शाथे॒ नरा॑ मा॒याभि॑रि॒तू॑ति॒  ॑
+> माहिनं ।  
+> न वां॒ द्यावोऽह॑भि॒र्नोत सिंध॑वो॒ न दे॑व॒त्वं प॒णयो॒  ॒॑
+> नानशुर्मघं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रेवत् । वयः । ददाथे इति । रेवत् । आशाथे इति । नरा । मायाभिः । इत्यऊति ।  
+> माहिनं ।  
+> न । वां । द्यावः । अहभिः । न । उत । सिंधवः । न । देवत्वं । पणयः । न । आनशु ।  
+> मघं ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 505. pp. 500-505 (batch API)
+**Progress note:** Done through printed p. 512. pp. 506-512 (batch API)
