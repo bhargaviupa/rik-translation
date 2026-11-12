@@ -15445,6 +15445,135 @@ O Viṣṇu, be to us like a friend: the giver of happiness, the accepter of the
 
 Be (to us), Vishnu, like a friend, the giver of happiness, the accepter of oblations, abounding with food, the granter of protection, and every way accessible; on which account your praise is to be repeatedly recited by the wise, and your worship to be celebrated by the offerer of oblations.
 
+### Printed p. 642
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Vishnu is compared to Mitra. The word Mitra is explained here in two ways: it may mean the worldly friend, or Mitra in the form of Āditya, who has the qualities of that friend. To show that the same benefits of happiness and joy that come from a friend come to the world from Mitra in the form of Āditya, the Nirukta-writer has given a derivation of this word—
+मित्रः प्रमीतेस्त्रायते । संमिन्वानो द्रवतीति वा । मेदयतेर्वा । (*mitraḥ pramītestrāyate | saṃminvāno dravatīti vā | medayatervā |*)
+Yāska explains that the name Mitra arises either from protecting from destruction, or from moving about while measuring (examining) all principles, or from nourishing the world by giving it food and the like and so making the world well-fed. (Ni. 10-21) And further, he quotes the Ṛk
+मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्यां । मित्रः कृष्णीरनिमिषाभि चष्टे मित्राय हव्यं धृतवज्जु होत ॥ (*mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyāṃ | mitraḥ kṛṣṇīranimiṣābhi caṣṭe mitrāya havyaṃ dhṛtavajju hota ‖*)
+(Ṛ. Saṃ. 3-59-1)
+and, by showing Mitra's beneficial guidance, the manner in which he upholds heaven and earth, and his being ever watchful and protecting the people who belong to him, he explains the qualities of a trusted friend found in Mitra. In the present Ṛk also, Mitra's nature is described by the epithets beginning with शेव्यः (*śevyaḥ*).
+
+शेव्यः (*śevyaḥ*)—साधुः सुखकर्ता (*sādhuḥ sukhakartā*): one who gives happiness. शेव (*śeva*) means happiness. This word is generally used when the happiness that is the fruit of sacrifice is indicated.
+यज्ञ साहं दुव इषेग्निं पूर्वस्य शेवस्य । अद्रेः सूनुमायुमाहुः ॥ (*yajña sāhaṃ duva iṣegniṃ pūrvasya śevasya | adreḥ sūnumāyumāhuḥ ‖*)
+(Ṛ. Saṃ. 10-20-7)
+Here the word शेव (*śeva*) is used as a synonym for happiness that is excellent and is the fruit of sacrifice. In the present Ṛk, in describing Mitra's nature, it is said that Mitra produces happiness of such excellence; and Vishnu too is prayed to be such a Mitra.
+
+फृतासुतिं (*phṛtāsutiṃ*)—it means an āsuti in the form of ghee. Āsuti means food in the form of juice; milk and the like, the Soma juice that is an oblation, or an oblation in the form of ghee, are all indicated by the word āsuti.
+त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदंत्याहुतिं । त्वया मर्तासः स्वदंत आसुतिं त्वं गर्भो वीरुधां जज्जिषे शुचिः ॥ (*tve agne viśve amṛtāso adruha āsā devā haviradaṃtyāhutiṃ | tvayā martāsaḥ svadaṃta āsutiṃ tvaṃ garbho vīrudhāṃ jajjiṣe śuciḥ ‖*)
+### Printed p. 643
+(Ṛ. Saṃ. 2-1-14)
+Here, saying that by Agni's grace men enjoy foods such as milk, in the form of juice, the word āsuti is used as a synonym of milk and the like. In the present Ṛk it means an āsuti in the form of ghee.
+
+विभूतद्युम्नः (*vibhūtadyumnaḥ*)—प्रभूतयशाः प्रभूतान्नो वा (*prabhūtayaśāḥ prabhūtānno vā*): one of abundant fame, or one of abundant food. The Nirukta-writers have included the word द्युम्न (*dyumna*) among the names of wealth (Ni. 3-9). Moreover, when giving a derivation of this word again, द्युम्नं द्योततेर‍्यशो वा अन्नं वा (*dyumnaṃ dyotateryaśo vā annaṃ vā*) (Ni. 5-5), they show that, formed from the root द्युत् (*dyut*) meaning "to shine", it means either fame or food. Quoting the Ṛk
+शतं ते शिप्रिन्नू तयः सुदासे सहस्रं शंसा उत रातिरस्तु । जहि वधर्वनुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥ (*śataṃ te śiprinnū tayaḥ sudāse sahasraṃ śaṃsā uta rātirastu | jahi vadharvanuṣo martyasyāsme dyumnamadhi ratnaṃ ca dhehi ‖*)
+(Ṛ. Saṃ. 7-25-3)
+they show that, when the prayer is made "give us द्युम्न (*dyumna*) and treasure", wealth is indicated by the word रत्न (*ratna*), and so द्युम्न (*dyumna*) means fame or food. (Ni. 5-5) Likewise in the present Ṛk it means one of abundant fame or of abundant food.
+
+एवयाः (*evayāḥ*)—this word is generally an epithet of the Maruts. In many places, as in एवैः सखिभिः (*evaiḥ sakhibhiḥ*)—गमनशीलैर्मित्रभूतैर्मरुद्भिः (*gamanaśīlairmitrabhūtairmarudbhiḥ*), it indicates the Maruts' nature of moving about and their being always together. Although the root has the sense of moving, in the present Ṛk the sense is "one who unites, who joins", that is, one who provides protection.
+
+सप्रथाः (*saprathāḥ*)—सर्वतः पृथुः (*sarvataḥ pṛthuḥ*): spread widely all around. The Nirukta-writers explained the basic meaning of this word thus (Ni. 6-8),
+त्वमग्ने सप्रथा असि जुष्टो होता वरेण्यः । त्वया यज्ञं वि तन्वते ॥ (*tvamagne saprathā asi juṣṭo hotā vareṇyaḥ | tvayā yajñaṃ vi tanvate ‖*)
+(Ṛ. Saṃ. 5-13-4)
+and quoting this Ṛk they showed the fitting meaning of the word there as stated above. In the present Ṛk, however, that meaning is somewhat extended: the commentator explains the purport as "be large-bodied all around us".
+
+### Printed p. 644
+अध्यः (*adhyaḥ*)—पुनः पुनः प्रवर्धनार्हः । एकवारकरणे न संपूर्णत इत्यर्थः ! (*punaḥ punaḥ pravardhanārhaḥ | ekavārakaraṇe na saṃpūrṇata ityarthaḥ !*) The stoma-hymn that praises you is to be recited again and again, to sing your qualities; it is not to be finished by reciting once. This is the meaning.
+राध्यः (*rādhyaḥ*)—समाराधनीयः (*samārādhanīyaḥ*): one to be performed with splendour.
+
+##### Grammar
+
+- भव—भू सत्तायां धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । द्वचोतस्तिज- (पा. सू. ६-३-१३५) इति संहितायां दीर्घो भवति । पादादित्वान्निघातस्वरो न भवति । शप् पित्त्वाद्धातुस्वरो अवशिष्यते ।
+- मित्रः—इमिदा स्नेहने धातुः । अमिजिमि- (उ. सू. ४.६०-३) इति क्र प्रत्ययः । कित्त्वाल्लघूपधगुणो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति । **NOTE**
+- शेव्यः—शेवे साधुः शेव्यः । साध्वर्थे यत् प्रत्ययः । यतोनावः (पा. सू. ६-१-२१३) इत्याद्युदात्तस्वरो भवति ।
+- धृतासुतिः—धृतं आसुतिः येन सः धृतासुतिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति । विभूतद्युम्नः इत्यत्रापि बहुव्रीहिसमासत्वात् पूर्वपदप्रकृतिस्वरो भवति ।
+- सप्रथाः—प्रथ प्रख्याने धातुः । सर्वधातुभ्यः असुन् इत्यसुन् प्रत्ययः । प्रथसा सह वर्तते इति सप्रथाः । तेन सहेति तुल्ययोगे (पा. सू. २-२-२८) इति समासः । वोपसर्जनस्य (पा. सू. ६-२-८२) इति सह इत्यस्य समासे स भावः । **NOTE**
+- अधा—अथ इत्यत्र छांदसत्वाद्वर्णविकारो जातः । निपातस्यच (पा सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- विदुषा—विद ज्ञाने धातुः । अस्माल्लट् आगते तस्य शत्रादेशः । विदेशिशतुर्वसुः (पा. सू. ७-१-३६) इति शतृवसुरादेशः । तृतीयाविकवचने परे वसोः संप्रसारणम् इति संप्रसारणं पूर्वरूपम् ।
+- अध्यः—ऋधु वृद्धौ धातुः । अस्मादर्हार्थे यत् आगते धातोर्लघूपधस्य गुणः । आद्युदात्तस्वरो भवति । एवमेव राध संसिद्धौ धातुः । अस्मादपि यत् आगते आद्युदात्तस्वरो भवति ॥ १ ॥
+
+### Printed p. 645
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः पू॒र्वार्याय॑ वे॒धसे॒ नवी॑यसे सु॒मज्ञा॑नये॒ विष्ण॑वे॒  ॑
+> ददा॑शति ।  
+> यो जा॒तम॑स्य मह॒तो महि॒ ब्रव॒त्सेदु॒ श्रवो॑भि॒र्युज्यं॑  ॒॑
+> चिदभ्यसत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । पूर्वार्याय । वेधसे । नवीयसे । सुमत्जानये । विष्णवे । ददाशति ।  
+> यः । जातं । अस्य । महतः । महि । ब्रवत् । सः । इत् । ऊं इति । श्रवःभिः ।  
+> युज्यं । चित् । अभि । आसत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः यो मर्त्यः पूर्वाय पूर्वकालीनाय । नित्यायेत्यर्थः । वेधसे
+> विविधजगत्कर्त्रे नवीयसे नित्यनूतनाय । अत्यंतरमणीयायेत्यर्थः । स्तुत्याय
+> वा सुमज्ञानये स्वयमेवोत्पन्नाय ॥ जनेर्‌णादिक इण् ॥ सुमत्स्ययमित्यर्थः ।
+> नि. ६-२२ । इति यास्कः । यद्वा । सुतरां मादयतीति सुमत् । तादृशी जाया यस्य
+> स तथोक्तः। तस्मै सर्वजगन्मादनशीलश्रीपतय इत्यर्थः ॥ बहुव्रीहौ जायायानिज्॥
+> पा. ५-४-१३४. ॥ इति निजादेशः समासांतः । वलि लोपः ॥ उक्तगुणकाय विष्णवे
+> व्यापकाय ददाशति हविरादिकं ददाति । किंचास्य विष्णोर्महतो महानुभावस्य महि
+> महत् पूज्यं जातं जन्मोत्पत्तिं हिरण्यगर्भादिरूपं जन्म ब्रवत् ब्रूयात् ॥
+> ब्रवीतेर्लेट्यडागमः ॥ संकीर्तयेत् । सेदु । उशब्दोऽपिशब्दार्थः । सोऽपि दाता
+> स्तोता च श्रवोभिरन्नॆः कीर्तिभिर्वा युक्तः सन् युज्यं चित् सर्वैर्गंतव्यमेव
+> तत्वदमभ्याभिमुख्येनासत् । गच्छति । प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+"He who" (यः (*yaḥ*)), the mortal, to the one who is पूर्व (*pūrva*), of former time, that is, eternal; वेधसे (*vedhase*), the maker of the manifold world; नवीयसे (*navīyase*), ever new, that is, exceedingly delightful, or else worthy of praise; सुमज्ञानये (*sumajñānaye*), born of himself (the suffix is Uṇādi इण् (*iṇ*)), "self-existent" (*sumatsyayam*), Ni. 6-22, says Yāska. Or else: सुतरां मादयतीति सुमत् (*sutarāṃ mādayatīti sumat*), one whose wife is of such a kind is so called; thus, to the lord of Śrī, whose nature is to gladden the whole world. In this case the substitute निज् (*nij*) is a samāsānta by Pā. 5-4-134, and the व (*va*) is elided. To Vishnu, the all-pervading, who has the stated qualities, "he gives" (ददाशति (*dadāśati*)) oblations and the like. Moreover, of this great Vishnu, of great majesty, he would proclaim (ब्रवत् (*bravat*), i.e. would celebrate; the *aṭ* augment of the Leṭ of ब्रू (*brū*)) the great, worshipful birth (जातं (*jātaṃ*)), the birth in the form of Hiraṇyagarbha and the like. सेदु (*sedu*): the word उ (*u*) has the sense of "also"; he too, the giver and the praiser, endowed with श्रवः (*śravaḥ*) (food, or fame), reaches (*abhyasat*: goes, attains) that place which is to be reached by all (युज्यं चित् (*yujyaṃ cit*)), facing it directly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- पूर्व्याय (*pūrvyāya*)—to the ancient, that is, the eternal
+- वेधसे (*vedhase*)—to the creator of the world
+- नवीयसे (*navīyase*)—to the delightful one, because he is new
+### Printed p. 646
+- सुमज्ञानये (*sumajñānaye*)—to him who is self-born, or who is the husband of Lakshmi, who gives joy to the whole world
+- विष्णवे (*viṣṇave*)—to Vishnu, the all-pervading
+- ददाशति (*dadāśati*)—offers (oblations and the like)
+- महतः अस्य (*mahataḥ asya*)—of this great-souled Vishnu
+- महि (*mahi*)—wonderful and worshipful
+- जातं (*jātaṃ*)—the birth in the form of Hiraṇyagarbha and the like
+- ब्रवत् (*bravat*)—praises
+- सेदु (*sedu*)—he also (who is thus giver and praiser)
+- श्रवोभिः (*śravobhiḥ*)—endowed with foods or with fames
+- युज्यंचित् (*yujyaṃcit*)—the presence of that Vishnu, to which (all) must go and unite
+- अभि (*abhi*)—aiming at
+- असत् (*asat*)—goes and joins
+
+##### भावार्थ (Bhāvārtha)
+
+The man who offers oblations and the like to Vishnu, the all-pervading, who is eternal, creator of the world, delightful, and self-born, and who praises the wonderful birth of this great-souled Vishnu in the form of Hiraṇyagarbha and the like — he, being both giver and praiser, endowed with fames, goes and joins the presence of that Vishnu, to which all must go.
+
+##### Printed English
+
+He who presents (offerings) to Vishnu, the ancient, the creator, the recent, the self-born ; he who celebrates the great birth of that mighty one : he verily possessed of abundance, attains (the station) that is to be sought (by all)-
+
+##### विशेषविषयगळु (Special Topics)
+
+सुमज्ञानये (*sumajñānaye*)—This word is explained in two ways. First, स्वयमेवोत्पन्नाय (*svayamevotpannāya*): to (Vishnu) who is self-born. Second, सुतरां मादयतीति सुमत् । तादृशी जाया यस्य स तथोक्तः । सर्वजगन्मादनशीलश्रीपतये । (*sutarāṃ mādayatīti sumat | tādṛśī jāyā yasya sa tathoktaḥ | sarvajaganmādanaśīlaśrīpataye |*) Taking the word सुमत् (*sumat*) as "bringing delight", the explanation given is: husband of the goddess Lakshmi, who has such a delight-giving quality and gives joy to all the worlds.
+सुमत्स्ययमित्यर्थः । (*sumatsyayamityarthaḥ |*) (Ni. 6-22): saying that सुमत् (*sumat*) means "of oneself, spontaneously", he quotes
+उप प्रागात्सुमन्मेधायि मन्म देवानामाशा उप वीतपृष्ठः । अन्वेनं विप्रा ऋषयो मदंति देवानां पुष्टे चकृमा सुबंधुं ॥ (*upa prāgātsumanmedhāyi manma devānāmāśā upa vītapṛṣṭhaḥ | anvenaṃ viprā ṛṣayo madaṃti devānāṃ puṣṭe cakṛmā subaṃdhuṃ ‖*)
+(Ṛ. Saṃ. 1-16-2)
+### Printed p. 647
+and, quoting this Ṛk, explains the prayer उपप्रैतु मां स्वयं । (*upapraitu māṃ svayaṃ |*) "may the object I desire come near me of itself", and so shows the meaning that the word सुमत् (*sumat*) has. On this basis it can be said that the sense "self-born" is fitting. Moreover, since in this same Ṛk the word जातं (*jātaṃ*) is explained as जन्म उत्पत्तिं हिरण्यगर्भादिरूपं (*janma utpattiṃ hiraṇyagarbhādirūpaṃ*), referring to origination in the form of Hiraṇyagarbha and the like, this meaning gains still more support. Or again, since the word सुमत् (*sumat*) is used in many places as a synonym of कल्याण (*kalyāṇa*), शोभन (*śobhana*) or भद्र (*bhadra*) (auspicious, beautiful), it would not be wrong to give the second meaning. Just as in सुमज्ञानिः (*sumajñāniḥ*), in places such as सुमद्गणः (*sumadgaṇaḥ*), सुमदंशु (*sumadaṃśu*), सुमद्रथः (*sumadrathaḥ*) the word सुमत् (*sumat*) has everywhere been given the sense of beautiful or auspicious, as shown with examples in the Special Topics of Ṛk 1-142-7 of this same volume (page 254). (In the Ṛk 1-142-7 the word there means simply "of itself".) However, the epithet श्रीपति (*śrīpati*) for Vishnu does not seem to occur in the Ṛgveda Saṃhitā. The word श्रीः (*śrīḥ*) has the meanings wealth and splendour, but not the conventional name Lakshmi. Therefore the first meaning is the more fitting.
+
+जातं (*jātaṃ*)—हिरण्यगर्भादिरूपं जन्म । (*hiraṇyagarbhādirūpaṃ janma |*) It is described in the Ṛgveda Saṃhitā itself that, desiring the creation of the world, the divine principle first came into being of itself in forms such as Hiraṇyagarbha and afterwards created the world.
+हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत् । स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम ॥ (*hiraṇyagarbhaḥ samavartatāgre bhūtasya jātaḥ patireka āsīt | sa dādhāra pṛthivīṃ dyāmutemāṃ kasmai devāya haviṣā vidhema ‖*)
+(Ṛ. Saṃ. 10-121-1)
+In Ṛks of this kind it is said हिरण्यगर्भः जातमात्र एव जगतः ईश्वरः आसीत् (*hiraṇyagarbhaḥ jātamātra eva jagataḥ īśvaraḥ āsīt*); the same point is stated here too, praising Vishnu's beginningless nature and greatness.
+
+वेधसे (*vedhase*)—विविधजगत्कर्त्रॆ । (*vividhajagatkartrè |*) It means: who created the world in its many forms. The word वेधस् (*vedhas*) is read in the Nirukta among the names of the wise (Ni. 3-19). It is generally an epithet of the wise sacrificer. In some places, even where the sense "producer" occurs, it can only mean producer of the fruit of sacrifice; its use for a creator of the world does not seem to occur. But in the present Ṛk, since words such as सुमज्ञानये (*sumajñānaye*) and जातं (*jātaṃ*) describe the nature of the world-creator, this word may fit the meaning Sāyaṇa gives, in keeping with the context.
+
+पूर्व्याय नवीयसे (*pūrvyāya navīyase*)—these epithets speak at one and the same time of Vishnu's beginninglessness, his perpetual newness, and therefore his endlessness. For the word नवीयसे (*navīyase*) Sāyaṇa
+
 ---
 
-**Progress note:** Done through printed p. 641. pp. 636-641 (batch API)
+**Progress note:** Done through printed p. 647. pp. 642-647 (batch API)
