@@ -11108,6 +11108,188 @@ Further, शतात्मा (*śatātmā*): "hundred" and "thousand" are word
 - सूरो न (*sūro na*)—like the sun
 - रुरुक्वान् (*rurukvān*)—shines
 
+### Printed p. 454
+#### Ṛk 3 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who moves at will and is wise, lights up the delightful region of the northern altar, like the wind that moves in the sky. And Agni, who has many forms, shines like the sun.
+
+##### Printed English
+
+He who is wise, and goes (wheresoever he will), like the rapid ethereal ( wind ), has lighted up the delightful spot, ( the altar ), and, identical with many forms, is radiant as the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+Nārmiṇīm—It is somewhat difficult to give the meaning of this word. Sāyaṇa himself has not given a precise meaning. First he explained: नर्मवतीं यजमानानां संबंधिनीं उत्तरवेदिं । (*narmavatīṃ yajamānānāṃ saṃbaṃdhinīṃ uttaravediṃ |*) That is, the northern altar that belongs to the sacrificers and gives joy to the mind. Then, secondly, he explained: नृणां मनसि स्थितां यजमानानां यज्ञार्थं यां भूमिं प्रति अग्न्यागमनमनीषा विद्यते तां । (*nṛṇāṃ manasi sthitāṃ yajamānānāṃ yajñārthaṃ yāṃ bhūmiṃ prati agnyāgamanamanīṣā vidyate tāṃ |*) That is, the sacrificial ground to which the sacrificers have it in mind that Agni should come. Therefore nārmiṇīm can be understood either as narmavatīm or as nṛṇāṃ manasi sthitām. The word is made a qualifier of puram; the meaning is a place in the form of the northern altar.
+The scholar Monier Williams, in his Sanskrit-English Dictionary, gives this word the meaning na+arman, "that which does not decay (become slack)". He also conjectures "Name of a Town", a town's name; it could be a town that does not fall into ruin. In Pāṇini there are the words दत्तार्म (*dattārma*), गुप्तार्म (*guptārma*), बृहदार्म (*bṛhadārma*). There is no proper help in Pāṇini or in the Nirukta for stating the correct meaning of nārmiṇī; therefore one of the two meanings given by Sāyaṇa must be accepted.
+Atyaḥ—अपेक्षितदेशं प्रति आतनशीलः । (*apekṣitadeśaṃ prati ātanaśīlaḥ |*) It is a qualifier of Agni: one whose nature is to proceed to whatever place he likes. The word is also a qualifier of horses, the sun and the like, which ordinarily have the nature of moving constantly. In the ṛk
+एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसं । (*eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhurvaṇiḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasaṃ |*)
+(Ṛ. Saṃ. 1.-256-1) **NOTE**
+atyaḥ is a synonym of "horse", and in
+अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यंति चेमा बृहस्पतेरहिमाया अभि द्यून् । (*asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yaṃti cemā bṛhaspaterahimāyā abhi dyūn |*)
+(Ṛ. Saṃ. 1-190-4)
+the word is used so that it can be understood as ātanaśīlaḥ ādityaḥ.
+
+### Printed p. 455
+Nabhanyaḥ—नभसि आकाशे भवो नभस्वान् वायुरिव । (*nabhasi ākāśe bhavo nabhasvān vāyuriva |*) It is a qualifier of the wind that stays in the sky. Since the Nirukta-author has included the word nabhati among the names of the action of killing, नभति, अर्दति (*nabhati, ardati*) (Ni. 2-19), Sāyaṇa on that basis, in the ṛk
+गायत्साम नभन्यं १ यथा वेरर्चाम तद्वावृधानं स्वर्वत् । गावो धेनवो बर्हिष्यदब्बा आ यत्सद्मानं दिव्यं विवासान् । (*gāyatsāma nabhanyaṃ 1 yathā verarcāma tadvāvṛdhānaṃ svarvat | gāvo dhenavo barhiṣyadabbā ā yatsadmānaṃ divyaṃ vivāsān |*)
+(Ṛ. Saṃ. 1-173-1)
+explained the word nabhanyam as नभस्यं नभसि भवं । नभोव्यापिनं हिंसकं वा राक्षसादिकस्य । नभतिर्वधकर्मा । (*nabhasyaṃ nabhasi bhavaṃ | nabhovyāpinaṃ hiṃsakaṃ vā rākṣasādikasya | nabhatirvadhakarmā |*) and said that it is a qualifying word for a rākṣasa. But in
+प्र ब्रह्माणो अंगिरसो नक्षंत प्र क्रंदनुर्नभन्यस्य वेतु । प्र धेनव उदपुतो नवंत युज्यातामद्री अध्वरस्य पेशः ॥ (*pra brahmāṇo aṃgiraso nakṣaṃta pra kraṃdanurnabhanyasya vetu | pra dhenava udaputo navaṃta yujyātāmadrī adhvarasya peśaḥ ‖*)
+(Ṛ. Saṃ. 7-42-1)
+he has explained नभन्यस्य स्तोत्रस्य । अस्मदीयं स्तोत्रं (*nabhanyasya stotrasya | asmadīyaṃ stotraṃ*).
+Arvā—अरणकुशलः । (*araṇakuśalaḥ |*) Used in the sense of one who goes swiftly, who moves fast, it is a qualifier of the wind. Ordinarily the words arvat and arvan, ending in t and in n, are synonyms of "horse", but in some places they take other meanings. The Nirukta-author has included this word among the names of the horse: अत्यः हयः, अर्वा (*atyaḥ hayaḥ, arvā*) (Ni. 2-27). But in the Ṛk-Saṃhitā the uses of the two words arvat and arvan are noteworthy. In
+यस्मै त्वमायजसे स साधत्यनर्वा क्षेति दधते सुवीर्यं । स तूताव नैनमश्नोत्यंहतिरग्ने सख्ये मा रिषामा वयं तव । (*yasmai tvamāyajase sa sādhatyanarvā kṣeti dadhate suvīryaṃ | sa tūtāva nainamaśnotyaṃhatiragne sakhye mā riṣāmā vayaṃ tava |*)
+(Ṛ. Saṃ. 1-94-2)
+the word arvan is a synonym of "enemy", and anarvā is explained as one who is not under an enemy's power. To support the meaning "enemy" for arvan here, Sāyaṇa quotes
+अनर्वा प्रेहित्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्तै । (*anarvā prehityāha bhrātṛvyo vā arvā bhrātṛvyāpanuttai |*)
+(Tai. Saṃ. 6-3-8-4) **NOTE**
+
+### Printed p. 456
+a sentence of the Taittirīya Saṃhitā (in the bhāṣya on Ṛk 1-37-1), showing that arvan is explained as bhrātṛvya, that is, "enemy"; and he says that in the sentence quoted here, and in some other places like it, the meaning is the same. In the same way the word is a synonym of "enemy" in ṛks such as Ṛ. Saṃ. 5-51-11 and 10-92-14. It will not be out of place to state here the differing opinions of the scholars Wilson and Max Muller on the derivation of this word. The scholar Wilson, in explaining the word arvan in the ṛk
+क्रीळं वः शर्धो मारुतमनर्वाणं रथेशुभं । कण्वा अभि प्र गायत ॥ (*krīḷaṃ vaḥ śardho mārutamanarvāṇaṃ ratheśubhaṃ | kaṇvā abhi pra gāyata ‖*)
+(Ṛ. Saṃ. 1-37-1)
+comments on Sāyaṇa's commentary as follows:
+The phrase is अनर्वाणं (*anarvāṇaṃ*) which the scholiast explains भ्रातृव्यरहितं (*bhrātṛvyarahitaṃ*). It Literally without a brother's son, which would be a very unintelligible epithet. Arvan is in its usual acceptation a horse ; and being without horses would not be inapplicable to the Maruts, whose chariot is drawn by deer. भ्रातृत्व (*bhrātṛtva*) may mean an enemy, but it is doubtful if अर्वत् (*arvat*) can admit of such an interpretation
+(Rig-Veda Translation. Vol. I P. 258)
+This scholar is of the opinion that, since the vehicle of the Maruts is deer, it would not be improper to explain the word here as "without horses". Against this, however, Max Muller, in translating this same sūkta, criticises the explanation of this word as "horse" as incorrect. It runs thus:
+Wilson translates अनर्वाणं (*anarvāṇaṃ*) by without horses, though the commentator distinctly explains the word by without an enemy. Wilson considers it doubtful whether अर्वन् (*arvan*) can ever mean enemy. The fact is, that in the Rig-Veda an-arvan never means without horses but always without hurt or free from enemies. and the commentator is perfectly right, as sense is concerned, rendering the word by 'without an enemy or unopposed' ( =प्रत्यक्षतॆ (*pratyakṣatè*)). **NOTE**
+(Sacred Books of the East. Vol. 32. P. 65)
+Even so, the use of the word arvan as a synonym of "horse" is the more frequent. Only in the present ṛk is this word used as a qualifier of the wind, to show that the special quality of the horse is found in the wind also.
+
+### Printed p. 457
+Śatātmā—In this same volume, in explaining the meaning of Ṛk 1-148-1, it is shown with examples that the qualifier viśvāpsu tells of the manifold forms of Agni. In the present ṛk too the qualifier śatātmā tells of Agni's greatness. शतं सहस्रं इत्यपरिमितवचनः । तत्तद्यजमानगृहापेक्षया आहवनीयगार्हपत्याद्यपेक्षया वा नानारूपत्वं । (*śataṃ sahasraṃ ityaparimitavacanaḥ | tattadyajamānagṛhāpekṣayā āhavanīyagārhapatyādyapekṣayā vā nānārūpatvaṃ |*) The word śatam here does not mean merely a hundred; it means an unlimited number. The qualifier is there, it is said, because, according to the wishes of the different sacrificers, the Dakṣiṇāgni is in their houses in the forms of Āhavanīya and Gārhapatya; or else, because in ṛks such as
+इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः । (*iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān | ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ |*)
+(Ṛ. Saṃ. 1-164-46)
+त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्भः । त्वे विश्वे सहसस्पुत्र देवास्तमिंद्रो दाशुषे मत्यार्य ॥ (*tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamidbhaḥ | tve viśve sahasasputra devāstamiṃdro dāśuṣe matyārya ‖*)
+(Ṛ. Saṃ. 5-3-1)
+and in Taittirīya Saṃhitā sentences such as
+त्वमग्ने रुद्रो असुरो महो दिवस्त्वग्ं शर्धो मारुतं पृक्ष ईशिषे । त्वं नातैररुण्यर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥ (*tvamagne rudro asuro maho divastvagṃ śardho mārutaṃ pṛkṣa īśiṣe | tvaṃ nātairaruṇyaryāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ‖*)
+(Tai. Saṃ. 1-3-14) **NOTE**
+Agni is described as the self of all (विश्वात्माने (*viśvātmāne*)), he is here praised as śatātmā.
+
+##### Grammar
+
+- नार्मिणीम्—ऋन्नेभ्योजीप् (पा. सू. ४-१-४) इति स्त्रीत्वे जीप्पित्तात् अनुदात्तः भवति । द्वितीया एकवचनांतरूपम् ।
+- अदीदेत्—दीदी इति छांदसधातुः । दीप्त्यर्थे प्रयुक्तः । छंदसिलुज्लज्‌लिटः (पा.सू ३-४-९) इति वर्तमानार्थे लज् । छांदसत्वेन शपि लुक् । प्रत्ययनिमित्तात् धातोः इकः गुणः । अंगस्य अडागमः । यच्छब्दसंबंधात् निघातस्वरः न भवति आद्युदात्तः भवति ।
+- अत्यः—अत्यः हयः (निरु. १-४१-१) इति पठितः । वेगसाम्यात् गमनशीले कवौ अत्र प्रयुक्तः ।
+
+### Printed p. 458
+- नभन्यः—नभसि भवः नभन्यः । यत् प्रत्ययः । तित्‌स्वंतम् (पा. सू. ६-१-१८५) इति स्वरितस्वरः भवति । छांदसत्वेन वर्णविकारः भवति ।
+- सूरः—षूज् प्राणिगर्भविमोचने धातुः । सुसूधा—(उ सू. २-१८२) इति क्रन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।
+- रुरुक्वान्—रुच दीप्ति धातुः । छांदसत्वेन लिट् आगते क्वसुश्च (पा.सू. ३-२-१०७) इति तस्य क्वसुः प्रत्ययः । धातोः द्वित्वादि । छांदसत्वेन कुत्वं भवति । वसोः स्वरः अवशिष्यते । प्रथमा एकवचनांतरूपम् ।
+- शतात्मा—शतं आत्मानः यस्य सः शतात्मा । बहुव्रीह प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्वि॒जन्मा॒ त्री रो॑च॒नानि॒ विश्वा॒ रजां॑सि शुशुचा॒नो  ॑
+> अस्थात् ।  
+> होता॒ यजि॑ष्ठो अ॒पां स॒धस्थे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्विजन्मा । त्री । रोचनानि । विश्वा । रजांसि । शुशुचानः । अस्थात् ।  
+> होता । यजिष्ठः । अपां । सधस्थे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्द्विजन्मा द्वाभ्यामरणीभ्यां जायमानः । यद्वा । मथनात्पथमं
+> जन्म! उत्पत्त्यनंतरं पवमानेष्टादिसंस्काररूपं द्वितीयं जन्मेव । एवं द्विजन्मत्वं।
+> अथवा द्यावापृथिवीभ्यामुत्पन्नत्वात् । तादृशोऽग्निस्त्री रोचनानि त्रीणि रोचनानि
+> क्षित्यादिस्थानानि गार्हपत्यादीनि वाभि शुशुचानोऽभितः प्रकाशयन् । न केवलं त्रीण्येव
+> किंतु विश्वा रजांसि सर्वाण्यपि रंजनात्मकानि क्षित्यादिलोकान् शुशुचानोऽभितः प्रकाश
+> यन् दीपयन् होता देवानामाह्वाता यजिष्ठो यष्टृतमः सन्नपां
+> प्रोक्षण्याद्युदकानां सदस्ये सहस्थाने यागदेशेऽस्थात् । तिष्यति ॥
+
+##### Gist of the bhāṣya
+
+This Agni is dvijanmā, "born of two": he is born of the two araṇis (fire-sticks). Or else: his first birth is from churning, and after that origin the second birth is, as it were, the sacramental rites such as the Pavamāneṣṭi; thus he is twice-born. Or, he is twice-born because he is produced from heaven and earth. Such an Agni, shining all around (शुशुचानः (*śuśucānaḥ*)) the three rocanāni — the three radiant places, earth and the others, or the Gārhapatya and the other fires — and not only the three but all rajāṃsi, that is, all the delightful worlds, earth and the rest, lighting them up, being the hotā (the caller of the gods) and the yajiṣṭha (the foremost sacrificer), stands (अस्थात् (*asthāt*), he stays) in the sadhastha of the waters, the common place of the waters such as the Prokṣaṇī water, that is, in the place of sacrifice.
+
+### Printed p. 459
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विजन्मा (*dvijanmā*)—Agni, of twofold origin
+- त्रीरोचनानि (*trīrocanāni*)—the three shining worlds
+- विश्वा रजांसि (*viśvā rajāṃsi*)—(and) all the delightful worlds
+- अभि शुशुचानः (*abhi śuśucānaḥ*)—making them shine all around
+- होता (*hotā*)—as the caller (of the gods to the sacrifice)
+- यजिष्ठः (*yajiṣṭhaḥ*)—as the most excellent sacrificer
+- अपां सधस्थे (*apāṃ sadhasthe*)—in the sacrificial place filled with the Prokṣaṇī and other waters
+- अस्मात् (*asmāt*)—has settled **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, of twofold origin, making all the shining and delightful worlds shine all around, as the caller of the gods to the sacrifice and as the most excellent sacrificer, has settled in the sacrificial place filled with the Prokṣaṇī and other waters.
+
+##### Printed English
+
+He, the twofold-born, illuminating the three bright (regions), and shining over all the lustrous spheres, the adorable invoker of the gods, is present at the place where the waters are collected
+
+##### विशेषविषयगळु (Special Topics)
+
+Dvijanmā—द्वाभ्यां अरणिभ्यां जायमानः । यद्वा । मथनेन आधानसंस्कारेण च उत्पन्नत्वात् द्विजन्मत्वं अथवा द्वयोर्द्व्यापृथिव्योर्जायमानः अरण्योर्वा जायमानः । (*dvābhyāṃ araṇibhyāṃ jāyamānaḥ | yadvā | mathanena ādhānasaṃskāreṇa ca utpannatvāt dvijanmatvaṃ athavā dvayordvyāpṛthivyorjāyamānaḥ araṇyorvā jāyamānaḥ |*) How the origin of Agni is described in this way has been shown in this same volume, in the Special Topics on Ṛk 1-140-2.
+Trī rocanāni—Here it seems that the word rocana can be taken to mean a halo (prabhāmaṇḍala). The places where Agni sheds his radiance are three. Sāyaṇa has explained that they may be earth, atmosphere and the heaven-world, or the Gārhapatya, Āhavanīya and Dakṣiṇāgni. In the explanation of the word trimūrdhānam (1-146-1 in this volume) this matter is subtly indicated. Moreover, in the Special Topics on the ṛk
+त्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्पु । पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्टु । (*trīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamappu | pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭu |*)
+(Ya. Saṃ. 1-95-3) **NOTE**
+(Ṛgveda Saṃhitā part 8, pages 17 to 19) this matter is explained in detail.
+
+### Printed p. 460
+Rajāṃsi—सर्वाण्यपि रंजनात्मकान् क्षित्यादिलोकान् शुशुचानः । (*sarvāṇyapi raṃjanātmakān kṣityādilokān śuśucānaḥ |*) The meaning is: the worlds, earth and the others, that attract the mind. The uses of the word rajas in the senses "world" and "water" are shown with examples in this same volume, in the Special Topics on Ṛk 1-139-4.
+Apāṃ sadhasthe—सहस्थाने (*sahasthāne*) (Ni. 3-15). Since it is a place where all stay together, the meaning is गृहे (*gṛhe*), in the house. Or else: सह तिष्ठंति यस्मिन् देवताः स सधस्थो यज्ञः । (*saha tiṣṭhaṃti yasmin devatāḥ sa sadhastho yajñaḥ |*) Since all the gods gather and sit together, it comes to mean the sacrifice.
+For apāṃ sadhasthe, प्रोक्षण्याद्युदकानां सहस्थाने यागे । (*prokṣaṇyādyudakānāṃ sahasthāne yāge |*) Because of the presence of sacred waters, the sacrificial place is called apāṃ sadhastha; the meaning is "one who is in such a sacrificial ground". But in ṛks such as
+इमं विधंतो अपां सदस्ये द्वितादधुर्भृगवो विक्ष्वा३योः । एष विश्वान्यभ्यस्तु भूमा देवानामग्निररतिर्जीराश्वः ॥ (*imaṃ vidhaṃto apāṃ sadasye dvitādadhurbhṛgavo vikṣvā3yoḥ | eṣa viśvānyabhyastu bhūmā devānāmagniraratirjīrāśvaḥ ‖*)
+(Ṛ. Saṃ. 2-4-2)
+it is explained as अपां सहस्थाने अंतरिक्षे । (*apāṃ sahasthāne aṃtarikṣe |*) that is, the atmosphere, which is the house of the lightning fire.
+
+##### Grammar
+
+- द्विजन्मा—द्वे जन्मनी यस्य सः द्विजन्मा । परादिश्चंदसि बहुलम् (पा सू. ६-२ १९९) इति उत्तरपदाद्युदात्तस्वरः भवति ।
+- रोचनानि—रुच दीप्तौ धातुः । अनुदेतश्च हलादेः (पा. सू. ३-२-१४९) इति युच् प्रत्ययः । युवोरनाकौ (पा. सू. ७-१-१) इति तस्य अनादेशः । चितः (पा सू ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+- विश्वा—विश्वासि इति रूपे जाते शेश्छंदसि बहुलम् (पा. सू. ६-१-७०) इति शिलोपः भवति ।
+- शुशुचानः—शुच दीप्तौ धातुः । छांदसत्वेन लिट् आगते लिटः कानज्वा (पा. सू. ३-२-१०६) इति तस्य कानच् आदेशः । धातोः द्वित्वादि । चितः इति अंतोदात्तस्वरः भवति ।
+- अस्थात्—ष्ठा गतिनिवृत्तौ धातुः । छंदसिलुज् लज् लिटः इति वर्तमानार्थे लुज् । प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च इति सूत्रेण इकारलोपः । च्चेः सिजादेशे आगते गातिस्था फुपाभूभ्यः (पा. सू. २-४-७३) इति तस्य लुक् । अंगस्य अडागमः । तिजंतनिघातस्वरः भवति । **NOTE**
+
+### Printed p. 461
+- यजिष्ठः—यज देवपूजासंगतिकरणदानेषु धातुः । कर्तरि तृच् प्रत्ययः । अतिशयार्थे तुश्चंदसि इति तृजंतात् इष्टन् प्रत्ययः । तुरिष्टेमेयःसु इति तृचः लोपः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- अपाम्—उडिदंपदादि (पा.सू. ९-१-१७१) इति विभक्तेः उदात्तस्वरः भवति ।
+- सधस्थे—ष्ठा गतिनिवृत्तौ धातुः । सुपि स्थः (पा. सू ३-२-४) इति कप्रत्ययः । सधमादस्थयोश्चंदसि (पा.सू. ६-३-९६) इति सह इत्यस्य सधादेशः । आतो लोप इटिच (पा. सू. ६-४-६४) इति धातोः आकारस्य लोपः ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स होता॒ यो द्वि॒जन्मा॒ विश्वा॑ द॒धे वाया॑णि श्रव॒स्या।  
+> मर्तो॒ यो अ॑स्मै सु॒तुको॑ द॒दाश॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सः । होता । यः । द्विजन्मा । वित्वा । दधे । वार्याणि । श्रवस्या ।  
+> मर्तः । यः । अस्मै । स्तुतुकः । ददाश ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो द्विजन्मा स एव होता होमनिष्पादकः अरणीभ्यामुत्पन्नस्यैव गार्हपत्यद्वाराहवनीयत्वात् आह्वाता वा देवानां सोऽयं विश्वा विश्वानि वार्याणि
+> वरणेयानि !! ईडवंदवृशंसदुहां ण्यत इत्याद्युदात्तत्वं ॥ श्रवस्या श्रवस्यया ।
+> श्रवोऽन्नं हनिर्लक्षणं । तदिच्छया ॥ श्रवःशब्दात् क्यजंतात् आ प्रत्ययादिति भावे
+> अप्रत्ययः ॥ दधे । धारयति । आस्मा उक्तस्वरूपायाग्नये यो मर्त्यो ददाश
+> ददाति स सुतुकः शोभनपुत्रो भवति ॥
+
+##### Gist of the bhāṣya
+
+He who is dvijanmā, he alone is the hotā, the accomplisher of the homa: for only what is born of the two araṇis becomes the Āhavanīya through the Gārhapatya; or hotā means the caller of the gods. This same Agni holds (दधे (*dadhe*), he bears: धारयति । (*dhārayati |*)) all the vāryāṇi, the desirable things (वरणेयानि (*varaṇeyāni*)). Śravasyā means śravasyayā, "with the wish for śravas"; śravas is food, of the nature of the oblation, so "with the desire for that". The mortal who gives (ददाश (*dadāśa*), that is ददाति (*dadāti*)) to this Agni of the said nature becomes sutuka, one with a fine son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- द्विजन्मा (*dvijanmā*)—is of twofold origin
+- सः (*saḥ*)—he
+- होता (*hotā*)—the accomplisher of the homa, or the caller of the gods to the sacrifice
+- आयं (*āyaṃ*)—this Agni
+
 ---
 
-**Progress note:** Done through printed p. 453. pp. 448-453 (batch API)
+**Progress note:** Done through printed p. 461. pp. 454-461 (batch API)
