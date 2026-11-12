@@ -13476,6 +13476,138 @@ the portion अभि ते मधुना पय (*abhi te madhunā paya*) (O
 that is, in connection with the worship of the udgītha, the worship of its parts, the prastāva and the rest, is also necessary; to make this known the story of Cākrāyaṇa is told. That part of the story runs as follows:
 मटचीहतेषु कुरुष्वाटिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास । स हेभ्यं कुल्माषान्बादंतं विभिक्षे तं होवाच । (*maṭacīhateṣu kuruṣvāṭikyā saha jāyayoṣastirha cākrāyaṇa ibhyagrāme pradrāṇaka uvāsa | sa hebhyaṃ kulmāṣānbādaṃtaṃ vibhikṣe taṃ hovāca |*)
 
+### Printed p. 551
+"Nor are there others (to be found), and these that are laid by for me." "Give me some of these," he said. He gave them to him. "Here, drink after it," (said the owner). "But then what I drink would be a leftover of his," he said. "Were not these (beans) also leftovers?" "I could not have lived without eating these," he said; "water is at my pleasure." Having eaten, he took the remainder to his wife. She had already obtained food (elsewhere) and kept them, having received them. In the morning he rose and said: "If we could get some food, we might get some wealth; the king yonder is about to perform a sacrifice, and he will choose me for all the priestly offices." His wife said to him, "Here, my lord, are these very beans." Having eaten them, he went to that sacrifice which was in progress.
+
+There he sat down near the Udgātṛs who were about to sing praise at the Stotra. He said to the Prastotṛ: "Prastotar, the deity that is connected with the Prastāva, if you chant the Prastāva without knowing her, your head will fall off." Likewise he said to the Udgātṛ: "Udgātar, the deity connected with the Udgītha—if you sing the Udgītha without knowing her, your head will fall off." In the same way he said to the Pratihartṛ: "Pratihartar, the deity connected with the Pratihāra—if you perform the Pratihāra without knowing her, your head will fall off." They stopped, and sat down in silence.
+(Bhā. U. 1-10, 11)
+
+[Kannada exposition:] In the land of Kuru lived a poor man named Uṣasti Cākrāyaṇa, with his wife Āṭikī. Once, when a storm had brought distress, Cākrāyaṇa, afflicted by poverty, went to a rich man of his village and begged for something to eat. That rich man, who was eating beans, said he had nothing but the small quantity of that grain he had. Cākrāyaṇa insisted that he be given some of it, and the rich man gave a little. Then he showed a vessel nearby and said there was water to drink. Cākrāyaṇa said that the rest was leftover water and he did not want it. When the rich man asked whether the beans too were not leftovers he had eaten, he replied that, being in dire need, he had taken the grain for the sake of sustaining life, even if it was a leftover, that this rule did not apply to water; and he gave a little grain to his wife also. By then she had obtained her own food and said she did not want it. The next day, learning that the king would perform a sacrifice, Cākrāyaṇa thought he might obtain the priesthood there, and went. There he went to the Udgātṛs who were reciting the stotra and said, "If you chant the Prastāva without knowing the full nature of the deity toward whom the Prastāva-stotra is to be chanted, your head will burst and fall off,"
+
+### Printed p. 552
+to the Prastotṛ; likewise, "If you pronounce the Udgītha and Pratihāra without knowing the nature of the deity, the head of each will burst and fall off." Thus he warns them and shows the relation between the recitation of mantras such as the Prastāva and knowledge of the deity and the like. In this context the mutual and inseparable relation between ritual and spiritual knowledge is also understood. Likewise, in the discussion of the philosophers in the royal assembly the nature of the Sāman is explained in detail, and at the end the identity of the physical principles, the spiritual principles and the parts of the Sāman is explained.
+
+[[Chāndogya passage:]] One should meditate on the fivefold Sāman in the worlds: पृथिवी हिंकारः (*pṛthivī hiṃkāraḥ*), *agniḥ prastāvaḥ*, the atmosphere the Udgītha, the sun the Pratihāra, the heaven the Nidhana—thus in the ascending order. Then in the reverse order: heaven the Hiṅkāra, the sun the Prastāva ….
+
+One should meditate on the fivefold Sāman in rain: the east wind is the Hiṅkāra, the cloud that is formed is the Prastāva ….
+
+One should meditate on the fivefold Sāman in the seasons: spring is the Hiṅkāra, summer the Prastāva ……..
+
+One should meditate on the fivefold Sāman in animals: goats are the Hiṅkāra, sheep the Prastāva ………..
+
+One should meditate on the fivefold Sāman in the vital breaths, the "higher and higher": breath is the Hiṅkāra, speech the Prastāva ………..
+(Bhā. Tā. 2-4-2 to 7)
+
+Among the earth-principles fire, among the rain-principles the cloud, among the seasons summer, among the animals sheep, among the living beings speech, are the forms of the Prastāva.
+
+अथ यत्प्रथमोदिते स प्रस्तावस्तवदस्य मनुष्या अन्वायत्तास्तस्मात्ते प्रस्तुतिकामाः प्रस्तावभाजिनो ह्येतस्य सान्मुः ॥ (*atha yatprathamodite sa prastāvastavadasya manuṣyā anvāyattāstasmātte prastutikāmāḥ prastāvabhājino hyetasya sānmuḥ ‖*)
+(Bhā. U. 2-9-3)
+
+The mantra to be recited after sunrise is called Prastāva. It has a very close relation with man. That is why men are desirous of praise (prastuti), and are also engaged in reciting the Prastāva, a part of the Sāman. Having thus shown the identity of the physical principles with the Sāman-parts such as the Prastāva, the text then shows the relation of identity of the spiritual principles with the Prastāva and the rest.
+
+मनो हिंकारो वाक्प्रस्तावः (*mano hiṃkāro vākprastāvaḥ*) …………… स य एवमेतद्दायत्रं प्राणेषु प्रोतं (*sa ya evametaddāyatraṃ prāṇeṣu protaṃ*)
+
+### Printed p. 553
+अभिमंथति स हिंकारो धूमो जायते स प्रस्तावः (*abhimaṃthati sa hiṃkāro dhūmo jāyate sa prastāvaḥ*) …. …. …. स य एवमेतद्रथंतरमग्नौ प्रोतं (*sa ya evametadrathaṃtaramagnau protaṃ*) ।
+उपमंत्रयते स हिंकारो ज्ञपॆयते स प्रस्तावः (*upamaṃtrayate sa hiṃkāro jñapèyate sa prastāvaḥ*) …. …. …. स य एवमेतद्वामदेव्यं मिथुने प्रोतं (*sa ya evametadvāmadevyaṃ mithune protaṃ*) ।
+उद्यन्हिंकार उदितः प्रस्तावः (*udyanhiṃkāra uditaḥ prastāvaḥ*) …. …. स य एव मेतद्बृहदादित्ये प्रोत ० (*sa ya eva metadbṛhadāditye prota 0*) ।
+…. …. …. …. …. …. ।
+त्रयी विद्या हिंकारस्त्रय इमे लोकाः स प्रस्तावोग्निर्वायुरादित्यः स उद्गीथो नक्षत्राणि वयांसि मरीचयः स प्रतिहारः सर्पा गंधर्वाः पितरस्तन्निधनमेतत्साम सर्वस्मिन् प्रोतं । स य एवमेतत्साम सर्वस्मिन् प्रोतं वेद सर्वं ह भवति ॥ (*trayī vidyā hiṃkārastraya ime lokāḥ sa prastāvognirvāyurādityaḥ sa udgītho nakṣatrāṇi vayāṃsi marīcayaḥ sa pratihāraḥ sarpā gaṃdharvāḥ pitarastannidhanametatsāma sarvasmin protaṃ | sa ya evametatsāma sarvasmin protaṃ veda sarvaṃ ha bhavati ‖*)
+(Bhā. E. 2-11 to 21)
+
+For the Gāyatra-sāman, woven into the vital breaths, speech; for the Rathantara-sāman, woven into fire, smoke; for the Vāmadevya-sāman, woven into the couple, prayer; for the Bṛhat-sāman, woven into the sun, the risen sun; …. …. …. likewise for the Sāman pervading and woven into the whole universe, fire, wind and the sun (earth, atmosphere and heaven) are reckoned as Prastāvas. This is the greatness of the Prastāva.
+
+In this way the hymn of praise, which reflects the principle of the whole universe, which is to be recited by the Prastotṛ and which is to be recited foremost at the beginning of the rite, is called "prastuti" in the present Ṛk. But however great the importance of this prastuti, if the completeness of prayukti is not joined to it, there is not only the loss that results from it: as was said earlier, या देवता प्रस्तावमन्वायत्ता तां चेदविद्वान्प्रस्तोष्यसि मूर्धा ते विपतिष्यति (*yā devatā prastāvamanvāyattā tāṃ cedavidvānprastoṣyasi mūrdhā te vipatiṣyati*)—if there is no knowledge of the deity with whom the Prastāva is closely connected, the head of the reciter will burst and fall off—so here too it is a general rule that without completion through prayukti the praise is of no use. But to show that even the mere recitation of praise addressed to Mitra and Varuṇa has extraordinary power, this mantra, though not (accompanied by) prayukti, says वां धाम अयामि (*vāṃ dhāma ayāmi*): "I attain your abode of radiance."
+
+Prayukti: प्रयुक्तिः कृत्स्नप्रयोगः (*prayuktiḥ kṛtsnaprayogaḥ*). Knowing the separate places of the mantras to be recited at the times of the rite, and likewise the mutual relation of them all, and performing the rite as the harmony of them all, thereby giving the rite completeness—this is called prayukti. The purport is the completion of the prescribed rite.
+
+### Printed p. 554
+Without this, the recitation of individual mantras one by one is plainly said to be of no use. Even when explaining the greatness of Oṃkāra in the Praśna Upaniṣad:
+
+तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्नोन्यसक्ता अनविप्रयुक्ताः । क्रियासु बाह्याभ्यंतरमध्यमासु सम्यक्रयुक्तासु न कंपते ज्ञ ॥ (*tisro mātrā mṛtyumatyaḥ prayuktā annonyasaktā anaviprayuktāḥ | kriyāsu bāhyābhyaṃtaramadhyamāsu samyakrayuktāsu na kaṃpate jña ‖*)
+(Praśna U. 5-6)
+
+If these three mātrās (a, u, m) are applied one after another separately, without knowing their mutual relation, harm results. Whether the outer rite, the inner rite, or the rite between them, it has significance only when it is wholly blended with it and unity is achieved between inner meditation and outer practice. In the same way, in the present Ṛk prayukti means कृत्स्नप्रयोगः (*kṛtsnaprayogaḥ*): rite-performance that attains or has attained completeness.
+
+Dhāma: तेजःस्थानं (*tejaḥsthānaṃ*). As said before, among the many meanings of the word dhāma, here it means the radiant and pleasure-giving abode of Mitra and Varuṇa.
+
+Anakti: Two meanings are given for this word. First, हविषा आगच्छति । होमं करोति (*haviṣā āgacchati | homaṃ karoti*): he performs the oblation by offering havis and the like. Second, होता शस्त्रादिना वां अनक्ति व्यंजयति (*hotā śastrādinā vāṃ anakti vyaṃjayati*): the Hotṛ, by śastras and the like, recounts your qualities and makes your nature shine forth.
+
+Sūri: युष्मन्माहात्मवित् (*yuṣmanmāhātmavit*): one who knows your greatness. The word sūri is used to show excellent knowledge. It is read among the names of praisers, rebha, jaritā, kāru, etc. (Ni. 3-19). The word sūri is used in many places in the sense of the wise, the discerning, the intelligent. When used of the seers who have the supernatural power of vision, both of the eye and of the mind, to grasp the true nature of the deities and the secret principles of the universe, this epithet gives a special meaning.
+
+तद्विष्णोः परमं पदं सदा पश्यंति सूरयः । दिवीव चक्षुराततं ॥ (*tadviṣṇoḥ paramaṃ padaṃ sadā paśyaṃti sūrayaḥ | divīva cakṣurātataṃ ‖*)
+(Ṛ. Saṃ. 1-22-20)
+
+In such places it indicates not merely praisers but also the extraordinary power of vision of the seers. Other meanings of this word have been explained in detail earlier.
+
+Iyakṣan: यागं कर्तुमिच्छन् (*yāgaṃ kartumicchan*): desiring to perform a sacrifice,
+
+### Printed p. 555
+
+##### Grammar
+
+- प्रस्तुतिः—ष्टुञ् स्तुतौ धातुः । भावार्थे स्त्रियां क्तिन् इति क्तिन् प्रत्ययः । तादौ च निति (पा. सू. ६-२-५०) इति गतेः प्रकृतिस्वरः भवति ।
+- प्रयुक्तिः—युजिर् योगे धातुः । पूर्ववत् क्तिन् प्रत्ययः कृदुत्तरपदस्वरस्य बाधकः । पूर्ववत् गतेः प्रकृतिस्वरः भवति ।
+- अयामि—अय गतौ धातुः । व्यत्ययो बहुलम् इति परस्मैपदी भवति । लट् उत्तमपुरुषएकवचनांतरूपम् । पादादित्वात् निघातस्वरः न भवति । शप् मिप् अनुदात्तौ भवतः इति धातुस्वरः अवशिष्यते ।
+- सुवृक्तिः—वृजी वर्जने धातुः । क्तिन् प्रत्ययः । चोःकुः इति धातुजकारस्य कुत्वं चर्त्वम् । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- अनक्ति—अंजू व्यक्तिम्रक्षणकांतिगतिषु धातुः । लट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । रुधादिभ्यः श्नम् (पा. सू. ३-१-७८) इति श्नम् विकरणम् । मिदचोंत्यात्परः इति अंत्याचः परः आगच्छति । श्नान्नलोपः (पा. सू. ६-४-२३) इति धातुनकारस्य लोपः । चोःकुः इति जकारस्य कुत्वं चर्त्वम् । अनक्ति इति रूपं भवति । पादादित्वात् निघातस्वरः न भवति । विकरणस्वरः अवशिष्यते ।
+- विदथेषु—विद ज्ञाने धातुः । अस्मात् औणादिकः अथ प्रत्ययः । कित्वातिदेशात् लघूपधगुणः न भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- सूरिः—षूज् प्राणिप्रसवे धातुः । सूजः क्रिः (उ. सू. ४-५०४) इति क्रि प्रत्ययः । कित्त्वात् गुणः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- इयक्षन्—यज देवपूजासंगतिकरणदानेषु धातुः । यष्टुं इच्छति इयक्षति । इयक्षतीति इयक्षन् । धातोः कर्मणः स— (पा. सू ३-१-७) इति इच्छार्थे सन् । सन्नजोः इति द्वित्वम् । बहुलं छंदसि इति अभ्यासस्य संप्रसारणं भवति । सन्यंतात् लट् आगते तस्य शत्रादेशः । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पी॒पाय॑ धे॒नुरदि॑तिर्य॒ताय॒ जना॑य मित्रावरुणा हवि॒र्दे।
+
+### Printed p. 556
+
+> हिनोति यद्वां विदथे सपर्यन्तस् रातहव्यो मानुषो  
+> न होता ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीपाय । धेनुः । अदितिः । ऋताय । जनाय । मित्रावरुणा । हविःदे ।  
+> हिनोति । यत् । वां । विदथे । सपर्यन् । सः । रातहव्यः । मानुषः  
+> न । होता ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणौ ऋताय युष्मत्संबंधियज्ञाय हविर्दे
+> हविषो दात्रे ॥ आतो मनिन्निति निच् । भत्व आतो धातोरित्याकारलोपः ॥ जनाय
+> यजमानाय च धेनुः प्रीणयित्रि गौरदितिरदीना बहुक्षीरा सती पीपाय । क्षीरेण
+> पुनःपुनराप्यायतां ॥ प्यायतेश्चांदसः प्रार्थनायां लिट् । लिड्यजोश्चेति
+> पीभावः ॥ पयस्यादिहविष्कं यज्ञं पयोव्रतादिसु यजमानं चेत्यर्थः । कस्मिन्काल
+> इति चेत् तत्राह । यद्यदा स प्रसिद्धो रातहव्य एतन्नामा राजा सपर्यन् स्तुत्या
+> पूजयन् मानुषो होता न मनुष्यस्य यजमानस्य संबंध्येतन्नामक ऋत्विगिव
+> विदथे यज्ञे वां हिनोति हविरादिना प्रीणयति । तदा पीपायेत्याह ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa: for the sacrifice (ṛta) that is yours, and for the person who gives the havis (havirde)—the sacrificer—the cow (dhenu) that gives satisfaction, being aditi, that is, undiminished and abundant in milk, पीपाय (*pīpāya*): let her swell again and again with milk. The root pyāy takes the Vedic Liṭ in the sense of prayer. The meaning is: let her swell the sacrifice whose oblation is milk and the like, and the sacrificer, in the milk-vows and so on. If one asks at what time, he says: when, yadā, that well-known king named Rātahavya, praising and honouring you, like a human Hotṛ—a priest of that name belonging to the human sacrificer—gratifies you in the sacrifice (vidatha) with havis and the like, then he says "pīpāya".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- यत् (*yat*)—when
+- सः रातहव्यः (*saḥ rātahavyaḥ*)—that well-known king named Rātahavya
+- सपश्यन् (*sapaśyan*)—honouring with praise **NOTE**
+- मानुषः होता न (*mānuṣaḥ hotā na*)—like a Hotṛ priest belonging to the human sacrificer
+- विदथे (*vidathe*)—in the sacrifice
+- नां (*nāṃ*)—you both **NOTE**
+- हिनोति (*hinoti*)—gratifies (by offering havis and the like); (then)
+- ऋताय (*ṛtāya*)—for the sacrifice
+- हविर्दे (*havirde*)—who offers havis
+- जनाय (*janāya*)—for the sacrificer
+- धेनुः (*dhenuḥ*)—the cow
+- अदितिः (*aditiḥ*)—having abundant milk
+- पीपायॆ (*pīpāyè*)—let her be filled (with that milk)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, may the cow that assists that well-known king Rātahavya in the task of gratifying you both—as he, honouring you with praise, offers oblations in the sacrifice like a priest, the Hotṛ—be filled with abundant milk.
+
 ---
 
-**Progress note:** Done through printed p. 550. pp. 545-550 (batch API)
+**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
