@@ -12,3 +12,4 @@
 - QA sample repairs (Nov 12 2026, English volume file): p. 132 "straight like fingers" → "curved like fingers" in the Gist and the Pratipadārtha (Kannada ಆಕುಟಿಲವಾದವೂ); p. 64 "the third verse of the Aindra triplet beginning 'vṛṣann indra'" → "this verse 'vṛṣann indra' is the third verse of the Aindra triplet" (Kannada: ಐಂದ್ರೇ ತೃಚೇ ತೃತೀಯಾ ವೃಷನ್ನಿಂದ್ರೇತ್ಯೇಷಾ); p. 156 the Kannada word ಮುಂದುವರಿದುದು written in Devanagari and a headword not on the page removed from the first grammar entry (the NOTE stays).
 - w0281: sūtra number printed ೬ ೪-೧೦೨ (hyphen missing), model wrote ೬-೪-೧೦೨: kept with a NOTE.
 - w0324 (p. 324): a stray chapter-level heading `## Special Topics (continued)` before the Special Topics sub-heading removed from the English volume file.
+- w0356: sūtra number printed ೬-೧ / ೧೬೩ across a line break (hyphen missing); model wrote ೬-೧-೧೬೩: kept with a NOTE.

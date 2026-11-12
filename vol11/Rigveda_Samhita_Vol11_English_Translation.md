@@ -8806,6 +8806,158 @@ mighty.
 
 प्रशिषः (*praśiṣaḥ*)—Here this word is explained as the power of control. It is said to be formed from the root शास् (*śās*), which means "command". But,
 
+### Printed p. 362
+#### Ṛk 1 (continued)
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ṛk स सूर्यस्य रश्मिभिः परि व्यत तंतुं तन्नानस्त्रिवृतं यथा विदे । नयन्नृतस्य प्रशिषो नवीयसीः पतिर्जनीनामुप याति निष्कृतं । (*sa sūryasya raśmibhiḥ pari vyata taṃtuṃ tannānastrivṛtaṃ yathā vide | nayannṛtasya praśiṣo navīyasīḥ patirjanīnāmupa yāti niṣkṛtaṃ |*) (Ṛ. Saṃ. 9-86-32) the word प्रशिषः (*praśiṣaḥ*) is explained as "praised, desired", so there it must be derived from the root शंस् (*śaṃs*) and be प्रशिषः (*praśiṣaḥ*).
+
+In तवेमे सप्तसिंधवः प्रशिषं सोम सिस्रते । तुभ्यं धावंति धेनवः । (*taveme saptasiṃdhavaḥ praśiṣaṃ soma sisrate | tubhyaṃ dhāvaṃti dhenavaḥ |*) (Ṛ. Saṃ. 9-66-6), where it is said that the seven rivers follow Soma's command, प्रशिषः (*praśiṣaḥ*) is explained as प्रशासनं आज्ञां (*praśāsanaṃ ājñāṃ*), command.
+
+In य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायामृतं यस्य मृत्युः कस्यै देवाय हविषा विधेम । (*ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyāmṛtaṃ yasya mṛtyuḥ kasyai devāya haviṣā vidhema |*) (Ṛ. Saṃ. 10-121-2) also it is explained as प्रकृष्टं शासनं-आज्ञां (*prakṛṣṭaṃ śāsanaṃ-ājñāṃ*), the excellent command of Prajāpati, that is, his rule. In the present Ṛk too the meaning is regulation; the purport is Agni's power of regulating.
+
+इष्टयः (*iṣṭayaḥ*)—Sāyaṇa has explained इष्टव्या भोगाः सर्वफलसाधका यागा वा (*iṣṭavyā bhogāḥ sarvaphalasādhakā yāgā vā*): desired enjoyments, or sacrifices that yield all fruits. Although the word iṣṭi is read among the names of sacrifice (Ni. 3-19), some scholars have discussed whether in such contexts this word is derived from the root इष् (*iṣ*) or from the root यज् (*yaj*) (Oldenbrg. Z. D. M. G. L XII. 473). In the Ṛksaṃhitā one can see uses of this word that give the senses of both roots.
+
+In the Ṛk नित्ये चिन्नु यं सदने जगृभ्रे प्रशस्तिभिर्दधिरे यज्ञियासः । प्र सू नयंत गृभयंत इष्टावश्वासो न रथ्यो रारहाणाः ॥ (*nitye cinnu yaṃ sadane jagṛbhre praśastibhirdadhire yajñiyāsaḥ | pra sū nayaṃta gṛbhayaṃta iṣṭāvaśvāso na rathyo rārahāṇāḥ ‖*) (Ṛ. Saṃ. 1-148-3) it is explained as इष्टौ विषणसाधने यज्ञे (*iṣṭau viṣaṇasādhane yajñe*), the sacrifice, the means of providing desired ends.
+
+In न यस्य सातुर्जनितोरवारि न मातरापितरा नू चिदिष्टौ । अधा मित्रो न सुधितः पानको ३ ५ ग्निर्दीदाय मानुषीषु विक्षु । (*na yasya sāturjanitoravāri na mātarāpitarā nū cidiṣṭau | adhā mitro na sudhitaḥ pānako 3 5 gnirdīdāya mānuṣīṣu vikṣu |*) (Ṛ. Saṃ. 4-6-7) the meaning is given as यस्य इष्टौ प्रेषणे (*yasya iṣṭau preṣaṇe*), so here the root इष् (*iṣ*) is the origin.
+
+In Ṛks such as याः सरूपा विरूपा एकरूपा यासामग्निरिष्ट्या नामानि वेद । या अंगिरसस्तपसेह चक्रुस्ताभ्यः पर्जन्य महि शर्म यच्छ । (*yāḥ sarūpā virūpā ekarūpā yāsāmagniriṣṭyā nāmāni veda | yā aṃgirasastapaseha cakrustābhyaḥ parjanya mahi śarma yaccha |*) (Ṛ. Saṃ. 1-169-2) **NOTE**, it is shown that in the sense of sacrifice the word is derived from the root यज् (*yaj*). In the present Ṛk both meanings, enjoyments and sacrifices, are stated, so either derivation may be given.
+
+चिकित्वान् (*cikitvān*)—चेतनावान् (*cetanāvān*); one who has intelligence, the wise one.
+
+### Printed p. 363
+**Special Topics** (continued)
+Because it is said there that यस्य इष्टौ प्रेषणे (*yasya iṣṭau preṣaṇe*) is the meaning, the root इष् (*iṣ*) is said to be the origin there.
+
+##### Grammar
+
+- पृच्छत — पृच्छ इष्पायां वाचि इति धातुः । लोट् मध्यमपुरुषबहुवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- जगाम — गम्‌ल्य गतौ इति धातुः । छंदसिलुज् लज् लिटः इत्यनेन वर्तमानार्थे लिट् प्रथमपुरुषएकवचनस्य रूपं । तिजंतनिघातस्वरो भवति ।
+- वेद — विद ज्ञाने इति धातुः । लट् प्रथमपुरुषएकवचने विदो लटो वा (पा. सू. ४-३-८३) इत्यनेन णालादेशः । पुगंतलघूपधस्यच इत्यनेन धातूपधायाः गुणः । तिजंतनिघातस्वरो भवति ।
+- चिकित्वान् — कित ज्ञाने इति धातुः । अस्मात् छंदसवागि लट् आगते क्वसुश्च (पा. सू. ७-२-१०६) इत्यनेन तस्य क्वसुरादेशः । प्रथमाएकवचनांतरूपं । वसुविनस्वरो भवति । **NOTE**
+- ईयते — ईज् गत् इति धातुः दिवादिः । लट् प्रथमपुरुषएकवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- प्रशिषः — शासु अनुशिष्टा इति धातुः । क्विप्च इत्यनेन क्विप् प्रत्ययः । शास इदज्हलोः (पा. सू. ६-४-३४) इत्यनेन उपधायाः इत्वं । शासिवसिघसीनां च (पा. सू. ८-३-६०) इत्यनेन धातुसकारस्य षत्वं । गतिकारकोपपदात्‌कृत् इत्यनेन कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- इष्टयः — इषु इच्छायां इति धातुः । क्तिन् प्रत्ययः । ष्टुत्वेन तस्य टकारादेशः । मंत्रेवृषे— (पा. सू. ३-३-९६) इत्यनेन क्तिन् उदात्तो भवति । ॥ १ ॥
+
+### Printed p. 364
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमित्पृ॑च्छंति॒ न सि॒मो वि पृ॑च्छति॒ स्वेने॑व॒ धीरो॒ मन॑सा॒  ॑
+> यदग्रभीत् ।  
+> न मृ॑ष्यते प्रथ॒मं नाप॑रं॒ वचो॒ऽस्य क्रत्वा॑ सचते॒ अप्र॑दृपितः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । पृच्छंति । न । सिमः । वि । पृच्छति । स्वेन इव । धीरः । मनसा । यत् ।  
+> अग्रभीत् ।  
+> न । मृष्यते । प्रथमं । न । अपरं । वचः । अस्य । कृत्वा । सचते । अप्रदृपितः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रेऽग्निं पृच्छतेत्युक्तं । अत्र तु सोऽनुनयेन प्रष्टव्य इत्याह ।
+> तमित्तमेवाग्निं पृच्छंति स तु नान्यं पृच्छति प्रश्नसमयेऽपि । सिमः सर्वजनो न वि
+> पृच्छति । विपरीतं न पृच्छति । पृष्टोऽपि धीरो धीमानयं स्वेनेव मनसा । इवशब्द
+> एवार्थे । स्वकीययैव बुद्ध्या यत् यत्कार्यमग्रभीत् वदामित्यादत्ते तदेव
+> प्रतिब्रूते न तु प्रश्नानुकूलं । स्वतंत्रेश्वर इत्युक्तं भवति । यद्वा । प्रष्टा धीमान्
+> स्वेन मनसा वाचा वाच्यं विचार्य यवग्रभीत् यद्वाक्यं वक्तव्यत्वेन स्वीकुर्यात्
+> तदेवाग्निं पृच्छति न तु बहु भाषत इत्यर्थः । परवाक्यासह्यत्वमाह । आयमग्निः
+> प्रथमं वचः स्ववाक्यात्पूर्वभावि वचनं न मृष्यते । न सहते । तथापरं वचः
+> स्वोक्त्यनंतरभावि प्रतिवचनं न मृष्यते । यस्मादयमेवविधस्तस्मादप्रदृपितोऽप्रदृप्तः यद्वा तेन शिक्षितोऽनुद्दंडः सर्वो लोकोऽस्य महानुभावस्याग्नेऽ
+> क्रत्वा क्रतुना रक्षणादिकर्मणा सह सचते । संगच्छते । जीवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra it was said "ask Agni"; here he says that Agni is to be asked with propitiation. तमित् (*tamit*): they ask that very Agni, and he does not ask another, even at the time of the question. सिमः (*simaḥ*) is everyone; न वि पृच्छति (*na vi pṛcchati*): no one asks what is contrary. Even when asked, this wise (धीरः (*dhīraḥ*)) one answers स्वेनेव मनसा (*sveneva manasā*); the word इव (*iva*) is in the sense of एव (*eva*), that is, by his own intelligence only. Whatever matter he has taken up to say (अग्रभीत् (*agrabhīt*)), only that he answers, not what suits the question; thus he is the independent Lord. Or else: the questioner, the wise man, having considered with his own mind what is to be said, takes up whatever statement he would accept as to be spoken, and asks Agni only that; he does not speak much. Then Sāyaṇa states Agni's intolerance of another's speech: this Agni does not tolerate (न मृष्यते (*na mṛṣyate*)) a speech that comes first, before his own statement; likewise he does not tolerate a reply that comes after his own utterance. Since he is of this kind, अप्रदृपितः (*apradṛpitaḥ*), one who is not arrogant, or, one taught by him and not unruly, every person unites (सचते (*sacate*), संगच्छते (*saṃgacchate*)) with the क्रतु (*kratu*), the work of protection and the like, of this great-natured Agni; that is, lives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तमित् (*tamit*)—that very Agni
+- पृच्छंति (*pṛcchaṃti*)—(all) ask (what is to be known)
+- सिमः (*simaḥ*)—all people (nobody)
+- न वि पृच्छति (*na vi pṛcchati*)—does not ask an improper question either
+- धीरः (*dhīraḥ*)—the intelligent Agni
+
+### Printed p. 365
+**Pratipadārtha** (continued)
+- स्वेनेव मनसा (*sveneva manasā*)—by his own intelligence alone
+- यत् (*yat*)—what matter
+- अग्रभीत् (*agrabhīt*)—what he has determined (to say), that alone he says. [Or: धीरः (*dhīraḥ*)—the intelligent questioner; स्वेनेव मनसा (*sveneva manasā*)—by his own intelligence alone; यत् (*yat*)—what (question fit to be asked); अग्रभीत् (*agrabhīt*)—what he has considered and settled, that question alone he asks.]
+- प्रथमं वचः (*prathamaṃ vacaḥ*)—(this Agni) a speech that comes before his own utterance
+- न मृष्यते (*na mṛṣyate*)—does not tolerate
+- अपरं (*aparaṃ*)—a reply that comes after his own utterance
+- न (*na*)—does not tolerate
+- अप्रदृपितः (*apradṛpitaḥ*)—one free from arrogance (only), or one taught by him (only)
+- अस्य (*asya*)—of this Agni
+- क्रत्वा (*kratvā*)—with works such as protection
+- सचते (*sacate*)—unites (becomes protected)
+
+##### भावार्थ (Bhāvārtha)
+
+All ask this Agni alone about what they need to know. Nobody asks an improper question. The wise Agni says only what he has determined by his own mind. Moreover, he tolerates neither a speech that comes before it nor a reply that comes after it. Only the one free from arrogance becomes worthy of this Agni's protection.
+
+##### Printed English
+
+They ask of Agni, but no one asks improperly ; for a sensible man
+(replies to solicitation) as he has determined in his own mind ; Agni tolerates
+not a speech that anticipates (his reply), nor endures a rejoinder : be who
+is devoid of arrogance is favoured by his protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+सिमः (*simaḥ*)—the word सिम (*sima*) is explained as "all": सर्वजनः (*sarvajanaḥ*). But the meaning "excellent" also occurs in many places. In यदिंद्र प्रागपागुवज् न्यग्वा हूयसे नृभिः । सिमा पुरू नृषूतो अस्यानवेऽसि प्रशर्ध तुर्वशे ॥ (*yadiṃdra prāgapāguvaj nyagvā hūyase nṛbhiḥ | simā purū nṛṣūto asyānave 'si praśardha turvaśe ‖*) (Ṛ. Saṃ. 8-4-1), explaining the meaning of this word, Sāyaṇa cites the view of other commentators, सिम इति वै श्रेष्ठमाचक्षते (*sima iti vai śreṣṭhamācakṣate*), and explains "Śreṣṭhendra", Indra the excellent.
+
+### Printed p. 366
+**Special Topics** (continued)
+In the Ṛk तेभ्यो गोधा अयथं कर्षदेतद्ये ब्रह्मणः प्रतिपीयंत्यन्नैः । सिम उक्ष्णोऽवसृष्ट्वा अदंति स्वयं बलानि तन्नः शृणानाः ॥ (*tebhyo godhā ayathaṃ karṣadetadye brahmaṇaḥ pratipīyaṃtyannaiḥ | sima ukṣṇo 'vasṛṣṭvā adaṃti svayaṃ balāni tannaḥ śṛṇānāḥ ‖*) (Ṛ. Saṃ. 10-28-11) both meanings, excellent and all, are given: सिमान् श्रेष्ठान् (*simān śreṣṭhān*); or else सिमशब्दः सर्वशब्दपर्यायः । सर्वान् (*simaśabdaḥ sarvaśabdaparyāyaḥ | sarvān*). In the present Ṛk the meaning "all" alone fits. सिमः न विपृच्छति (*simaḥ na vipṛcchati*): nobody asks an improper question.
+
+For the sentence स्वेनेव धीरो मनसा यदग्रभीत् (*sveneva dhīro manasā yadagrabhīt*) two constructions are given. First, धीरः (*dhīraḥ*) is made an attribute of Agni: the wise Agni says only what is to be said. Second, धीरः (*dhīraḥ*) is made an attribute of the questioner: the questioner asks only a proper question.
+
+धीरः (*dhīraḥ*)—धीमंतः प्रज्ञावंतो वा (*dhīmaṃtaḥ prajñāvaṃto vā*); it has been shown before that in many places the word धीरः (*dhīraḥ*) is explained as intelligent, wise.
+
+##### Grammar
+
+- पृच्छंति — प्रच्छ इप्पायां वाचि इति धातुः । तुदादिः । लट् प्रथमपुरुषबहुवचने अंतादेशः । तुधादिभ्यः शः इत्यनेन श विकरणः । ग्रहिज्यावयि— (पा. सू. ६-४-१६) इत्यनेन धातोः संप्रसारणं । तिजंतनिघातस्वरो भवति । **NOTE**
+- धीरः — डुधाञ् धारणपोषणयोः इति धातुः । सुसूधागृधिभ्यः क्रन् (उ. सू. २-१८२) इत्यनेन क्रन् प्रत्ययः । कित्त्वात् घुमास्थागापा— (पा. सू. ६-४६६) इत्यनेन आद्युदात्तस्वरो भवति । **NOTE**
+- अग्रभीत् — ग्रह उपादाने इति धातुः । छंदसि लुज्— (पा. सू. ३-४-६) इत्यनेन वर्तमानार्थे लुज् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च इति सूत्रेण इकारलोपः । च्लेः सिचादेशः । अर्धधातुकस्येद्वलादेः इत्यनेन तस्य इडागमः । आस्तिसिचोपृक्ते (पा सू. ७-३-९६) इत्यनेन प्रत्ययस्य ईडागमः । इट ईटि (पा. सू. ८-२-२८) इत्यनेन सिचो लोपः । ह्यंतक्षण (पा. सू. ७-२-५) इत्यनेन निषेधविधानात् वृद्धिर्न भवति । अंगस्य अडागमः । हृग्रहोर्भश्चंदसि इति वचनेन धातुदकारस्य भत्वं । यद्योगात् निघातप्रतिषेधो भवति । अडागमस्य उदात्तत्वात् आद्युदात्तो भवति । **NOTE**
+- मृष्यते — मृष तितिक्षायां इति धातुः । दिवादिः । लट् प्रथमपुरुषएकवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 367
+**Grammar** (continued)
+- प्रथमः — प्रथ प्रख्यान् इति धातुः । प्रथेरमच् (उ सू. ५-७४६) इत्यनेन अमच् प्रत्ययः । चितः (उ. सू. ६-१-१६३) इत्यनेन अंतोदात्तस्वरो भवति ।
+- वच — वच परिभाषणे इति धातुः । सर्वधातुनिबंधनत्वेन आगतो असुन् प्रत्ययः । नित्त्वात् आद्युदात्तो भवति ।
+- क्रत्वा — क्रतुशब्दात् तृतीयाएकवचने परे जसादिषु छंदसि वा वचनम् इति वचनेन नाभावः । यणादेशः । **NOTE**
+- सचते — सच समवाये इति धातुः । लट् प्रथमपुरुषएकवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- अप्रदृपितः — दृप उत्केशे इति धातुः । तुदादिः । निष्ठा इत्यनेन क्त प्रत्ययः । तस्य इडागमः । प्रकर्षण दृपितः प्रदृपितः । अनंतरं नप्ततत्पुरुषसमासः । तत्पुरुषे तुल्यार्थ (पा. सू. ६-२-२) इत्यनेन अव्ययपूर्वपदप्रकृतिस्तरो भवति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्द॑च्छंति जु॒ह्व१॒ं॑स्तनुर्व॑ती॒र्विश्वा॒न्येकः॑ शृणव॒द्वचां॑सि मे।  
+> पु॒रु॒प्रै॒षस्ततु॑रिय्यज्ञ॒साध॒नॊचि॑ द्रोतिः॒ शिशु॒राद॑त्त॒ सं रभः॑।  
+> ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । गच्छंति । जुह्वः । तं । अर्वतीः । विश्वानि । एकः । शृणवत् । वचांसि । मे ।  
+> पुरुप्रैषः । ततुरिः । यज्ञसाधनः । अच्छिद्रऊतिः । शिशुः । आ । अदत्त । सं । रभः ।  
+> ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जुह्वोऽस्मदीया जुहूपभृदादयस्तमित्तमेवोद्विश्याज्यपूर्णाः सत्यो
+> गच्छंति प्रीणयितुं । यद्वा । हूयंत इति जुह्व आहुतयः सोमादिरूपाः ।
+> अथवा जुह्वादिषु स्थितान्याज्ञान्यप्याश्रयाश्रयिणोरभेदेन जुह्व इत्युच्यंते मंचाः
+> क्रोशंतीतिवत् । ता अपि तमेव गच्छंति अस्य सर्वदेवतात्मकत्वात् । अत्रैवेतरदेव-
+
+##### Gist of the bhāṣya
+
+जुह्वः (*juhvaḥ*): our ladles, the जुहू (*juhū*), *upabhṛt* and the rest, filled with ghee, go toward that very Agni in order to please him. Or else: जुह्वः (*juhvaḥ*) are the oblations, so called because they are offered, in the form of Soma and the like. Or again, the other sacrificial substances placed in the ladles and the like are also called जुह्वः (*juhvaḥ*), by non-distinction between container and contained, as in "the platforms shout" (मंचाः क्रोशंतीतिवत् (*maṃcāḥ krośaṃtītivat*)). They too go to him alone, because he is of the nature of all deities. (The block breaks off here in this window; the next window continues it.)
+
 ---
 
-**Progress note:** Done through printed p. 361. pp. 356-
+**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
