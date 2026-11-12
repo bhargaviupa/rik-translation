@@ -14,7 +14,7 @@ from kannada_to_deva import kn2deva
 vol = int(sys.argv[1])
 en = (root / f'vol{vol}' / f'Rigveda_Samhita_Vol{vol}_English_Translation.md').read_text(encoding='utf8').split('\n')
 kn = (root / f'vol{vol}' / f'Rigveda_Samhita_Vol{vol}_Kannada_Text.md').read_text(encoding='utf8').split('\n')
-SEC = {'ಸಂಹಿತಾಪಾಠಃ': 'samhita', 'ಪದಪಾಠಃ': 'pada', 'ಸಾಯಣಭಾಷ್ಯಂ': 'bhashya'}
+SEC = {'ಸಂಹಿತಾಪಾಠಃ': 'samhita', 'ಪದಪಾಠಃ': 'pada', 'ಸಾಯಣಭಾಷ್ಯಂ': 'bhashya', 'ಸಾಯಣಭಾಷ್ಯಮ್': 'bhashya'}
 ESEC = {'संहितापाठः': 'samhita', 'पदपाठः': 'pada', 'सायणभाष्यम्': 'bhashya'}
 KEEP = re.compile('[^ऄ-हा-ौॐ]')       # letters and vowel signs only (no accents, danda, digits, virama kept out too: robust to spelling of conjuncts)
 def norm(s): return KEEP.sub('', s)
