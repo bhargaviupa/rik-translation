@@ -10184,6 +10184,138 @@ Or else: may that twofold mantra be heavy for the user himself. The harsh words 
 
 O Agni, whichever enemy of us your devotees — the most sinful one, who obstructs the giving of our oblation and himself too does not give — blames and alarms us with evil mantras of two kinds, mental and vocal: may his mental mantra turn into a heavy burden for him himself, and likewise may he, by his evil words, cause his own body to burn.
 
+### Printed p. 418
+
+##### Printed English
+
+When a wicked (man), with twofold (malignity of thought and speech),
+obstructing our offerings, and refraining from gifts (himself) reviles us, may
+his prayer be heavy on him and involve his person ( in the consequences of )
+his evil works.
+
+##### विशेषविषयगळु (Special Topics)
+
+अघायुः (*aghāyuḥ*)—one who desires sinful acts such as killing; that is, one with a sinful mind that wishes our destruction. In present usage the word अघायुः (*aghāyuḥ*) would mean one whose life (āyus) is sin, that is, one whose life is of the nature of sin. For example, in the verse
+अघायुरिंद्रियारामो मोघं पार्थ स जीवति । (*aghāyuriṃdriyārāmo moghaṃ pārtha sa jīvati |*)
+(Bha. Gī. 3-16)
+Śaṅkarācārya, in his commentary on this Gītā verse, explains the word अघायुः (*aghāyuḥ*) as अघं पापं आयुः जीवनं यस्य सः अघायुः पापजीवनः । (*aghaṃ pāpaṃ āyuḥ jīvanaṃ yasya saḥ aghāyuḥ pāpajīvanaḥ |*) — one whose life is full of sin. But in the Ṛksaṃhitā there is no such analysis of the compound. Here अघं इच्छतीत्यघायुः (*aghaṃ icchatītyaghāyuḥ*): a sinner who wishes us evil. Similarly,
+यस्य इद्धं जभरत्सिष्टिदानो मूर्धानं वा ततपते त्वाया । भुवस्तस्य स्वतवाः पायुरग्ने विश्वस्मात्सीमघायत उरुष्य ॥ (*yasya iddhaṃ jabharatsiṣṭidāno mūrdhānaṃ vā tatapate tvāyā | bhuvastasya svatavāḥ pāyuragne viśvasmātsīmaghāyata uruṣya ‖*)
+(Ṛ. Saṃ. 4-2-6)
+In such Ṛks, as अघायतः पापमिच्छतः । (*aghāyataḥ pāpamicchataḥ |*) means one desiring to do sinful deeds, so it is understood here too. Or, if explained as पापं आत्मनः इच्छति (*pāpaṃ ātmanaḥ icchati*), the above meaning remains. In the present Ṛk the meaning is: one with a sinful mind who wishes harm to the sacrificers.
+अररिवान् (*ararivān*)—ररिवान् (*rarivān*) means one who gives; अररिवान् (*ararivān*) means one who does not give. But since अराती ना (*arātī nā*) occurs again, and that word already means one who himself does not give, the word अररिवान् (*ararivān*) has been explained as "one who obstructs giving".
+मर्चयति (*marcayati*)—भर्त्सयति विधेयीकरोति वास्मान्. (*bhartsayati vidheyīkaroti vāsmān.*) He frightens us and by that fright makes us obedient to him, the enemy. [The prayer is: protect us from such an enemy, and let the effect of that mantra turn back upon him.] A prayer of the same kind stands in
+### Printed p. 419
+, यो न आगो अभ्येनो भरात्यधीदघमघशंसे दधात । जही चिकित्सो अभिशस्तिमेतामग्ने यो नो मर्चयति द्वयेन ॥ (*, yo na āgo abhyeno bharātyadhīdaghamaghaśaṃse dadhāta | jahī cikitso abhiśastimetāmagne yo no marcayati dvayena ‖*)
+(Ṛ. Saṃ. 5-3-7)
+in the same order of words. There the word मर्चयति (*marcayati*) has been explained as बाधते (*bādhate*). As there the prayer is: whichever enemy wishes us the twofold sin mentioned above and harms us, harm that very enemy — so in the present Ṛk too the prayer is made.
+
+##### Grammar
+
+- अररिवान् — रा दाने धातुः । छंदसि लुज् लज् लिटः इति लिट् । क्वसुश्च (पा. सू. ३-२-१०७) इति तस्य क्वसुरादेशः । वस्वेकाचाद्भसाम् (पा सू. ७-२-६७) इति इडागमः । धातोर्द्वित्वादि । प्रथमाएकवचने ररिवान् इति रूपं भवति । न ररिवान् । तत्पुरुषे तुल्यार्थ् (पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरः आगच्छति ।
+- अघायुः — अघं आत्मनः इच्छति इत्यर्थविवक्षायां सुपआत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् प्रत्ययः । न छंदस्यपुत्रस्य (पा. सू. ७-४-३५) इति ईत्वादयो न भवंति । अश्वाघस्यात् (पा सू ७-४-३७) इति आत्वं भवति । क्यजंतात् क्याच्छंदसि (पा. सू. ३-२-१७०) इति उ प्रत्ययः । अतो लोपः (पा. सू. ६-४-४८) इति अकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- अराती वा — रातिः दानं अस्य अस्ति इत्यर्थविवक्षायां छंदसि वनिपमिच्छंति इति वचनात् मत्त्वर्थे वनिप् प्रत्ययः । अन्येषामपि दृश्यंते (पा. सू. ६-३-१३७) इति पूर्वस्य दीर्घः । रातीवा इति प्रथमाएकवचने रूपं भवति । नञ् तत्पुरुषसमासे अव्ययपूर्वपदप्रकृतिस्वरः आगच्छति ।
+- मर्चयति — मर्च शब्दार्थे चुरादिः । सत्यापपा—(पा. सू. ३-१-२५) इति स्वार्थे णिच् । णिजंतात् लट् प्रथमपुरुषएकवचनांतरूपम् । यद्वृत्तान्नित्यम् इति निघातप्रतिषेधः आगच्छति । णिच् स्वरः अवशिष्यते ।
+- द्वयेन — द्वौ अवयवौ यस्य । द्वित्रिभ्यां तयस्य अयज्वा (पा सू. ५-२-४३) इति अवयवार्थे तयसः अयचादेशः । यस्येति च इति इकारलोपः । चित्तात् अंतोदात्तं भवति । तृतीयाविकवचनांतरूपम् ।
+### Printed p. 420
+- मंत्रः — मत्रि गुप्तपरिभाषणे धातुः । नंदिग्रहपचादिभ्यः (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । वृषादीनां च (पा. सू. ६-१-२०३) इति आद्युदात्तस्वरः आगच्छति ।
+- अस्तु — अस भुवि धातुः । लोट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
+- अस्मै — सुपां सुपो भवंति इति वचनात् षष्ठ्यर्थे चतुर्थी आगच्छति ।
+- मृक्षीष्ट — मृजू शुद्धौ धातुः । लिज् प्रथमपुरुषएकवचने त प्रत्ययः । लिजःसीयुट् (पा. सू. ३-४-१०२) इति सीयुटागमः । सुट्‌तिथोः (पा. सू. ३-४-१०७) इति त प्रत्ययस्य नुटागमः । यलोपः व्रश्चभृस्टसृज— इति । षत्वम् । षढोःकःसि इति कत्वम् । तन्निमित्तीकृत्य सकारस्य षत्वम् । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति ।
+- तन्वम् — तन्वादीनां छंदस्युपसंख्यानम् इति यणादेशः । उदात्तस्वरितयोः—(पा. सू. ८-२-४) इति स्वरितस्वरः आगच्छति ।
+- दुरुक्तैः — वच परिभाषणे धातुः । कर्मणि क्त प्रत्ययः । वचिस्वपियजादीनांकिति (पा. सू. ९-१-१५) इति धातोर्वकारस्य संप्रसारणम् । पूर्वरूपम् । कृदुत्तरपदप्रकृतिस्वरः आगच्छति । ॥ ४ ॥ **NOTE**
+
+## Sūkta 147, Ṛk 5 (Maṇḍala 1)
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त वा॒ यः स॑हस्य प्रवि॒द्वान्मर्तो॒ मर्तं॑ म॒र्चय॑ति द्व॒येन॑ ।  
+> अतः॑ पाहि स्तवमान स्तु॒वंत॒मग्ने॒ माकि॑र्नो दुरि॒ताय॑  
+> धायीः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । वा । यः । सहस्य । प्रविद्वान् । मर्तः । मर्तं । मर्चयति । व्ययेन ।
+
+### Printed p. 421
+
+> अतः । पाहि । स्तवमान । स्तुवंतं । आग्ने । माकिः । नः । दुःइतायॆ । धायीः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे द्विविधकुटिलमंत्रेण कर्तारं तन्मंत्रणं प्राप्नोतु मास्मानित्युक्तं । अत्र तु तन्मंत्रणात्पाहीत्यग्निः प्रार्थ्यते । उत वा हे सहस्य । सह इति
+> बलनाम । तत्र भवाग्ने यो मर्त्यो मरणधर्मा मनुष्यः प्रविद्वान् मायामंत्रणं प्रकर्षेण जानन् द्वयेन पूर्वोक्तरीत्या द्विविधमंत्रेण मर्तं मनुष्यं
+> मर्चयति विधेयाकरोति भर्त्सयति ना अतस्तादृशाद्भर्त्सनात्तत्कर्तुः सकाशाद्वा हे
+> स्तवमान स्तूयमानाग्ने स्तुवंतं स्तुतिं कुर्वंतं मां पाहि। रक्ष । किंच नोऽस्मान्नुरिताय तत्कृताय दुर्मंत्रणप्रयुक्तदुःखायि समर्थं माकिर्धायीः । मा
+> स्थापय । दुरितभाजनं मा कार्षीरित्यर्थः ॥ धि धारणे । व्यत्ययेनेट् । सिचि वृद्धिः ।
+> न माज्योग इत्यडभावः ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra it was said that the harm should not reach us from the one who acts with the twofold crooked mantra; here Agni is asked to protect from that mantra-working. "Or, O Sahasya" — सहः (*sahaḥ*) is a name for strength; Agni, who is in it (born of strength), is addressed. The mortal man who, thoroughly knowing deceptive mantras, frightens or subdues another man with the twofold mantra described before — from such threatening, or from the doer of it, O praised Agni, protect me who praise you. Further, do not place us (cause us to be established) in the misfortune, the suffering caused by that evil mantra; that is, do not make us a vessel of misfortune. धायीः (*dhāyīḥ*) is from धि धारणे (*dhi dhāraṇe*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत वा (*uta vā*)—or
+- सहस्य (*sahasya*)—Agni, born of strength
+- यः मर्त्यः (*yaḥ martyaḥ*)—which man
+- प्रविद्वान् (*pravidvān*)—knowing well the deceptive mantras
+- द्वयेन (*dvayena*)—with the twofold mantras, mental and verbal
+- मर्तं (*martaṃ*)—another man
+- मर्चयति (*marcayati*)—frightens
+- अतः (*ataḥ*)—from those two mantras that cause fear
+- स्तवमान (*stavamāna*)—worthy of praise
+- अग्ने (*agne*)—O Agni
+- स्तुवंतं (*stuvaṃtaṃ*)—me who praise
+- पाहि (*pāhi*)—protect
+- नः (*naḥ*)—us
+- दुरिताय (*duritāya*)—to the suffering of an evil mantra
+- माकिः धायिः (*mākiḥ dhāyiḥ*)—do not make us fit recipients
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, born of strength, whichever wicked man, knowing well deceptive mantras, frightens another man with the twofold mantras, mental and verbal — O Agni worthy of praise, protect me who praise you from those two fear-causing mantras. And do not make us fit recipients of the suffering of an evil mantra.
+
+##### Printed English
+
+When, Son of Strength, a man skilful (in deception) assaults another
+man with a doubly (maliguant prayer), do you, Agni, duly propitiated,
+protect him who worships you ( from its effects ); consign us not to
+misfortune.
+### Printed p. 422
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्य (*sahasya*)—सह इति बलनाम । तत्र भवाग्ने । (*saha iti balanāma | tatra bhavāgne |*) Agni is addressed as "one born of strength". यतः कारणान्मथनकाले बलेनोत्पन्नः अतो बलाय धार्यते । (*yataḥ kāraṇānmathanakāle balenotpannaḥ ato balāya dhāryate |*) As explained earlier, this epithet is because he is born by strength at the time of churning the aranis. Epithets such as सहसस्पुत्र (*sahasasputra*), सहसा जायमानः (*sahasā jāyamānaḥ*) show in many places the manner of Agni's birth.
+दुरिताय (*duritāya*)—शत्रुकृताय दुर्मंत्रणप्रयुक्तदुःखाय । (*śatrukṛtāya durmaṃtraṇaprayuktaduḥkhāya |*) To the suffering arising from a mantra uttered by an enemy and productive of harm.
+माकिः धायीः (*mākiḥ dhāyīḥ*)—अथ सर्वपदसमाम्नातं (*atha sarvapadasamāmnātaṃ*): nine words, हिकं (*hikaṃ*), नुकं (*nukaṃ*) etc., are recited (Ni. 3-13); among them are particles and relational indeclinables. The word माकिः (*mākiḥ*) belongs to that group. माकिः धायीः (*mākiḥ dhāyīḥ*) means either "certainly do not make us (vessels of suffering)" or "do not give anyone an opportunity to harm us". As in Ṛks such as
+प्रति स्पशो विसृज तूर्णितमो भवा पायुर्विशो अस्या आदब्धः । यो नो दूरे अघशंसो यो अंत्यग्ने माकिष्टे व्यथिरा दधर्षीत् ॥ (*prati spaśo visṛja tūrṇitamo bhavā pāyurviśo asyā ādabdhaḥ | yo no dūre aghaśaṃso yo aṃtyagne mākiṣṭe vyathirā dadharṣīt ‖*)
+(Ṛ. Saṃ. 4-4-3)
+माकिः (*mākiḥ*) means न कश्चिदपि (*na kaścidapi*), "let no one (harm)", so here too the prayer is made.
+
+##### Grammar
+
+- सहस्य — सहः बलम् । तत्रभवः सहस्यः । भवे छंदसि (पा. सू. ४-४-११०) इति य प्रत्ययः । संबुद्धौ आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरः आगच्छति ।
+- प्रविद्वान् — प्रकर्षेण वेत्ति प्रविद्वान् । विद ज्ञाने धातुः । विदेःशतुर्वसुः (पा.सू. ७-१-४६) इति शतुर्वसुरादेशः । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः आगच्छति ।
+- मर्तः — मृज् प्राणत्यागे धातुः । असिहसिमृ—(उ. सू. ३-३६६) इति तन् प्रत्ययः । तन्निमित्तीकृत्य धातोरिको गुणः । रः परः आगच्छति । नित्त्वात् आद्युदात्तस्वरः आगच्छति ।
+- पाहि — पा रक्षणे धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
+### Printed p. 423
+- स्तवमान — ष्टुञ् स्तुतौ धातुः । लडर्थे शानच् प्रत्ययः । व्यत्ययेन शपः लुक् न आगच्छति । शप् निमित्तीकृत्य धातोरिको गुणः । अवादेशः । आनेमुक् (पा-सू. ७-२-८२) इति मुकागमः । संबुद्धौ आमंत्रितनिघातस्वरः आगच्छति ।
+- स्तुवंतम् — पूर्वोक्तात् धातोः लडर्थे शतृ प्रत्ययः । शपः लुक् । सार्वधातुकमपित् इति प्रत्ययस्य चित्त्वात् गुणः न आगच्छति । अचिश्नुधातुभ्रुवां सूत्रेण उवजादेशः । प्रत्ययस्य आद्युदात्तस्वरः आगच्छति ।
+- अग्ने — पादादित्वात् आष्टमिकनिघातस्वरः न आगच्छति । आमंत्रितस्य (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरः आगच्छति ।
+- दुरिताय — दुर् उपसर्गः । इण् गतौ धातुः । क्त प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरः आगच्छति । चतुर्थीएकवचनांतरूपम् ।
+- धायीः — धि धारणे धातुः । लुज् मध्यमपुरुषएकवचने सिप् प्रत्ययः । इतश्च इति इकारलोपः । च्लेः सिचादेशः । व्यत्ययेन तस्य इडागमः । अस्तिसिचोऽपृक्ते इति प्रत्ययस्य ईडागमः । इटईटि (पा. सू. ८-२-२८) इति सिचो लोपः । सिचिवृद्धिः परस्मैपदेषु (पा. पा. ७-२-१) इति धातोरिको वृद्धिः । अच् परत्वात् आयादेशः । नमाज्‌योगे (पा. सू. ६-४-७४) इति अंगस्य अडागमः न आगच्छति । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति । ॥५॥
+
+Here ends the one hundred and forty-seventh sūkta.
+
+## Sūkta 148 (Maṇḍala 1)
+is not applicable here; the introduction is given in the Sanskrit text of kn.md:
+मथीद्यदिति पंचर्चमष्टमं सूक्तं दैर्घतमसं त्रैष्टुभवाग्नेयं । मथीद्यदित्यनुक्रमणिका ॥ सूक्तत्रयमध्यस्य तृतीयत्वेन पूर्वं विनियोग उक्तः ॥ (*mathīdyaditi paṃcarcamaṣṭamaṃ sūktaṃ dairghatamasaṃ traiṣṭubhavāgneyaṃ | mathīdyadityanukramaṇikā ‖ sūktatrayamadhyasya tṛtīyatvena pūrvaṃ viniyoga uktaḥ ‖*)
+
+##### Anuvāda
+
+The sūkta beginning मथीद्यत् (*mathīdyat*) is the eighth sūkta in the twenty-first anuvāka. It has five Ṛks. Its seer is Dīrghatamas Aucathya; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇikā it begins मथीद्यदीं (*mathīdyadīṃ*). Since this sūkta is included among the three sūktas mentioned earlier, its application (viniyoga) is the same as that of the preceding sūkta.
+
 ---
 
-**Progress note:** Done through printed p. 417. pp. 411-417 (batch API)
+**Progress note:** Done through printed p. 423. pp. 418-423 (batch API)
