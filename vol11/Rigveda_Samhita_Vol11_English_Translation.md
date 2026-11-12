@@ -7681,6 +7681,121 @@ the Nirukta authors explain सर्वाणि प्रज्ञानान
 
 they have explained it as rites such as sacrifices and offerings.
 
+### Printed p. 318
+The remainder of the Pratipadārtha of Ṛk 6 stands here.
+
+शुच्रिपतीकं (*śucripatīkaṃ*)—having a beautiful flame, having beautiful limbs; the meaning is Agni, who is both delightful and excellent. Among the epithets that belong to Agni this is one of the chief ones.
+तुतुज्यात् (*tutujyāt*)—let him urge, let him impel. The purport is: let him impel us and bring our rite to completion.
+
+##### Grammar
+
+- वीः — वी गत्यादिषु धातुः । कर्तरि क्विप्‌च इति क्विप् प्रत्ययः । धातुस्वरेण उदात्तं भवति ।
+- असत् — अस भुवि धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च लोपः (पा सू ३-४-९७) इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-९९) इति तस्य अडागमः । असत् इति रूपं भवति ।
+- वसुः — वस निवासे धातुः । श्यस्वस्निहि (उ. सू. १-१०) इति उ प्रत्ययः । व्यत्ययेन आद्युदात्तस्वरः भवति ।
+- आ वरत् — वृञ् वरणे धातुः । आज् उपसर्गः । लेट् प्रथमपुरुषएकवचने पूर्ववत् इकारलोपः तस्य अडागमः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययनिमित्ते धातोः इकि गुणः । रपरत्वेन भवति । वरत् इति रूपं भवति । निपातैरद्यदि (पा सू. ८-१-३०) इति अत्र कुनित् इत्यस्य संबंधत्वात् निघातप्रतिषेधः भवति । प्रत्ययस्य पित्त्वात् धातुस्वरः शिष्यते । असत् इत्यत्रापि एवमेव स्वरः भवति । तिजिचोदात्तवति इति गतेः (आ) अनुदात्तस्वरः भवति ।
+- चोदः — चुद प्रेरणे धातुः । नंदिग्रहपचा इति अच् प्रत्ययः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । चितः इति अंतोदात्तस्वरः भवति ।
+- तुतुज्यात् — तुज प्रेरणे धातुः । लिज् प्रथमपुरुषएकवचने ति प्रत्ययः । इतश्च इति इकारलोपः । यासुट् पर— इति तस्य यासुटागमः । बहुलं छंदसि इति श्लु विकरणम् । तं निमित्तीकृत्य धातोः द्वित्वादि । पूर्ववत् कुनित् योगस्य सत्त्वात् निघातस्वरः न भवति । प्रत्ययस्य अकारः उदात्तः भवति ।
+- सातये — ऊतिजूति— इति उदात्तेन क्तिन् प्रत्ययेन निसातितम् ।
+- शुचिप्रतीकम् — शुचिः प्रतीकम् यस्य सः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति । द्वितीयाविकवचनांतरूपम् ।
+
+### Printed p. 319
+- धिया — तृतीयाविकवचनांतरूपम् । सावेकाचस्तृतीयादिः इति विभक्तेः उदात्तस्वरः भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तप्र॑तीकं न ऋ॒तस्य॑ धू॒र्षद॑म॒ग्निं मि॒त्रं न स॑मिधा॒न  ॑
+> ऋंजते ।  
+> इंधा॑नो अ॒क्रो वि॒दथे॑षु॒ दीद्य॑च्चु॒क्रव॑र्णा॒मुदु॑ नो ॒ ॑
+> यंसते धियं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतप्रतीकं । वः । ऋतस्य । धू-सदं । अग्निं । मित्रं । न । संइधानः । यंजते ।  
+> इंधानः । अक्रः । विदथेषु । दीद्यत् । शुक्रवर्णां । उत् । ऊं इति । नः । यंसते । धियं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृतप्रतीकं धृतोपक्रमं प्रयोजादिष्वाज्यैर्हूयमानत्वात् । यद्वा ।
+> प्रतीकमंगं । दीप्तज्वालमित्यर्थः । किंच वो युष्मत्संबंधिन ऋतस्य यज्ञस्य
+> धूर्षदं धुरि निर्वहणे सीदंतं यज्ञनिर्वाहकमग्निं मित्रं न मित्रमिव समिधान
+> इद्धैर्दिपयमान ऋंजते । प्रसाधयति । ऋंजतिः प्रसाधनकर्मा । इंधानः
+> सम्यग्दीप्यमानोऽक्रो ज्वालासमिदादिभिराक्रांतोऽन्यैरनाक्रांतो वा ॥ क्रमेश्कांदसो डः ॥ विदथेषु यज्ञेषु वेदयत्तु स्तोत्रेषु निमित्तभूतेषु दीद्यत्
+> स्वयं दीप्यमानोऽस्मदीयां धियं प्रज्ञानं यागादिविषयां शुक्रवर्णां शुभ्रवर्णां निर्मलां ज्योतिष्टोमादि कर्म वोदु यंसते । उद्योजयत्येव ॥
+> यमेर्लॆट्यडागमः । सिप् ॥ उशब्दोऽवधारणे । धीरिति कर्मनाम । धीः शमीति
+> तन्नामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+धृतप्रतीकं (*dhṛtapratīkaṃ*) means "whose beginning is ghee", since in the prayājas and other rites he is offered oblations of ghee; or else प्रतीकं (*pratīkaṃ*) is the limb, so the sense is "of blazing flame". Further, वः (*vaḥ*) is "belonging to you"; ऋतस्य (*ṛtasya*) is "of the sacrifice". He is धूर्षदं (*dhūrṣadaṃ*), one who sits (settles) at the yoke in the carrying-through, that is, the accomplisher of the sacrifice. Agni, मित्रं न (*mitraṃ na*) like a friend, the kindler समिधान (*samidhāna*), kindling with fuel, ऋंजते (*ṛṃjate*) brings to perfection; the root ऋंजति (*ṛṃjati*) has the sense of accomplishing. इंधानः (*iṃdhānaḥ*) is the one well kindled; अक्रः (*akraḥ*) is the one assailed (filled) by flames, fuel and so on, or one not assailed by others. विदथेषु (*vidatheṣu*) means in sacrifices; he explains the word as that which makes known, in praises that are the occasion. दीद्यत् (*dīdyat*): himself shining, धियं (*dhiyaṃ*) our understanding concerned with sacrifice, शुक्रवर्णां (*śukravarṇāṃ*) of bright, pure colour, that is the pure rite such as Jyotiṣṭoma, उदु यंसते (*udu yaṃsate*) he indeed brings up (carries to completion). The उ (*u*) is a particle of emphasis. धीः (*dhīḥ*) is a name for rite, since it is read among the names of rite (धीः शमी (*dhīḥ śamī*)).
+
+### Printed p. 320
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिधानः (*samidhānaḥ*)—the priest who makes Agni blaze (with fuel)
+- धृतप्रतीकं (*dhṛtapratīkaṃ*)—glistening with the offering of ghee
+- वः (*vaḥ*)—your
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- धूर्षदं (*dhūrṣadaṃ*)—who takes the foremost place and carries it through
+- अग्निं (*agniṃ*)—Agni
+- मित्रं न (*mitraṃ na*)—like a friend
+- ऋंजतॆ (*ṛṃjatè*)—adorns and worships
+- इंधानः (*iṃdhānaḥ*)—the kindled one
+- अक्रः (*akraḥ*)—the one filled (with fuel and so on)
+- विदथेषु (*vidatheṣu*)—in sacrifices
+- दीद्यत् (*dīdyat*)—shining (of himself)
+- धियं (*dhiyaṃ*)—understanding (concerned with sacrifice)
+- शुक्रवर्णां (*śukravarṇāṃ*)—the pure rite such as Jyotiṣṭoma
+- उदु यंसते (*udu yaṃsate*)—surely brings to completion and makes bright
+
+##### भावार्थ (Bhāvārtha)
+
+The priest adorns and worships Agni, who glistens with the offering of ghee and bears and accomplishes the burden of the sacrifice, as one would a friend. Agni, kindled, filled with fuel and the like, and shining in the sacrifices, surely brings to completion and makes bright our understanding concerned with sacrifice and also the pure rite such as Jyotiṣṭoma.
+
+##### Printed English
+
+The kindler (of the sacrificial fire) propitiates Agni, of glistening form; the upholder of your ceremony, like a friend ; well kindled and well supplied (with fuel); blazing brightly at holy rites, he illumines our pure and pious observances.
+
+##### विशेषविषयगळु (Special Topics)
+
+समिधानः (*samidhānaḥ*)—इध्मैर्दीपयमानः (*idhmairdīpayamānaḥ*). "One who makes (Agni) shine with fuel": it is an epithet of the priest. Ordinarily this word, elsewhere everywhere, as an epithet of Agni gives the passive sense. For example:
+स नो रेवत्समिधानः स्वस्तये संददस्वान्रयिमस्मासु दीदिहि । आ नः कृणुष्व सुविताय रोदसी अग्ने हव्या मनुषो देव वीतये ॥ (*sa no revatsamidhānaḥ svastaye saṃdadasvānrayimasmāsu dīdihi | ā naḥ kṛṇuṣva suvitāya rodasī agne havyā manuṣo deva vītaye ‖*) (Ṛ. Saṃ. 2-2-6)
+In this Ṛk, and likewise in Ṛks 3-4-11; 5-8-4; 5-8-6 and so on, it is an epithet of Agni in the sense अस्माभिः सम्यगिध्यमानः सन् (*asmābhiḥ samyagidhyamānaḥ san*), "being well kindled by us, the priests". But in the present Ṛk alone it gives the active sense and is an epithet of the priest.
+
+### Printed p. 321
+धूर्षदं (*dhūrṣadaṃ*)—धुरि निर्वहणे । सीदंतं यज्ञनिर्वाहकं अग्निं । (*dhuri nirvahaṇe | sīdaṃtaṃ yajñanirvāhakaṃ agniṃ |*) "Capable in the work of accomplishing the sacrifice": this epithet shows Agni's power and his chief part in the sacrificial work. It gives, in each setting, a meaning suited to the context.
+यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा । समिधानं सुप्रयसं स्वर्णरं द्युक्षं होतारं वृजनेषु धूर्षदं ॥ (*yajñena vardhata jātavedasamagniṃ yajadhvaṃ haviṣā tanā girā | samidhānaṃ suprayasaṃ svarṇaraṃ dyukṣaṃ hotāraṃ vṛjaneṣu dhūrṣadaṃ ‖*) (Ṛ. Saṃ. 2-2-1)
+In this Ṛk the meaning is बलस्यकर्तारमित्यर्थः । अग्निपाटवे सति शारीरं बलं भवतीति प्रसिद्धं । (*balasyakartāramityarthaḥ | agnipāṭave sati śārīraṃ balaṃ bhavatīti prasiddhaṃ |*); as producer of strength, it shows Agni's power. In Ṛ. Saṃ. 10-132-7, धूर्षदं धुर्यश्वयोर्वहनदेशे सीवंतं । (*dhūrṣadaṃ dhuryaśvayorvahanadeśe sīvaṃtaṃ |*) it is an epithet of the chariot, "resting on the necks, the place where the horses bear the yoke". In the present Ṛk the meaning is "one capable of carrying through".
+
+धृतप्रतीकं (*dhṛtapratīkaṃ*)—Although the word प्रतीक (*pratīka*) ordinarily is a synonym of "face", here it means limb. प्रतीकमंगं दीप्तज्वालमित्यर्थः (*pratīkamaṃgaṃ dīptajvālamityarthaḥ*): Agni with a shining flame. The epithet is there because he shines from the offering of ghee.
+The word धृत (*dhṛta*) is read among the names of water (Ni. 2-24); the Ṛks in which the word is used in the sense of water are cited by the Nirukta-writers, and this will be told in the respective contexts.
+
+अक्रः (*akraḥ*)—ज्वालासमिदादिभिराक्रांतः, अन्यैः अनाक्रांतः । (*jvālāsamidādibhirākrāṃtaḥ, anyaiḥ anākrāṃtaḥ |*) One pervaded by flames, fuel and so on; or, because his spread is unobstructed, one not subject to assault by other things. The Nirukta-writers say अक्र आक्रमणात् (*akra ākramaṇāt*) (Ni. 6-17): the rampart is called अक्र (*akra*) because enemies come and assail it, and
+अक्रो न बभ्रिः समिथे महीनां दिवृक्षेयः सूनवे भायजीकः । उदुस्रिया जनिता यो जजानापां गर्भो नृतमो यहो अग्निः ॥ (*akro na babhriḥ samithe mahīnāṃ divṛkṣeyaḥ sūnave bhāyajīkaḥ | udusriyā janitā yo jajānāpāṃ garbho nṛtamo yaho agniḥ ‖*) (Ṛ. Saṃ. 3-1-12)
+they cite this Ṛk and compare Agni's power to the power of a rampart. Or, as Sāyaṇa explains, if the rampart is called अक्र (*akra*) because others cannot assail it, the purport is, as said above, a spreading joined with Agni's unobstructed power.
+
+विदथेषु (*vidatheṣu*)—यज्ञेषु (*yajñeṣu*). "In sacrifices", that is, in sacrificial places. By वेदयत्तु स्तोत्रेषु निमित्तभूतेषु (*vedayattu stotreṣu nimittabhūteṣu*) he shows the explanation of the word विदथ (*vidatha*). Here, of the Nirukta-writers'
+
+### Printed p. 322
+explanations, only one is followed. It is read among the names of sacrifice, यज्ञः, वेनः (*yajñaḥ, venaḥ*) and so on (Ni. 3-19), and विदथानि वेदनानि (*vidathāni vedanāni*), to show that the word विदथ (*vidatha*) means knowledge (Ni. 6-7).
+होता देवो अमर्त्यः पुरस्तादेति मायया । विवथानि प्रचोदयन् ॥ (*hotā devo amartyaḥ purastādeti māyayā | vivathāni pracodayan ‖*) (Ṛ. Saṃ. 3-28-7)
+Citing this Ṛk, they show that it is formed from the root विद (*vida*) meaning knowledge. Here Sāyaṇa has explained विदथानि वेदितव्यानि कर्माणि (*vidathāni veditavyāni karmāṇi*), "rites to be known". Some scholars have tried to state a definite meaning of this word, and all have given their personal opinions. Since each has shown a different derivation and made a different meaning, it is understood that all those meanings fit according to context. The scholar Max Muller, in explaining the Ṛk
+अमादेषां भियसा भूमिरेजति नौर्न पूर्णा क्षरति व्यथिर्यती । दूरेदृशो ये चितयंत एमभिरंतर्महे विवथे येतिरे नरः । (*amādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī | dūredṛśo ye citayaṃta emabhiraṃtarmahe vivathe yetire naraḥ |*) (Ṛ. Saṃ. 5-29-2)
+explained the word विदथे (*vidathe*) as "(sacrifice) assembly (the great sacrificial assembly)". And, giving the explanation, after the meanings other German scholars have given for this word and their opinions on its root, he finally says: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East. Vol. 32 P 319-50). Some have said that, as sacred knowledge is the meaning of the word Veda, a sacred act is the meaning of विदथ (*vidatha*); but he concluded that there is no doubt that the sacrificial assembly is the chief meaning of this word.
+The scholar Hermann Oldenberg, in his book Vedic Hymns, explaining the meaning of the word विदथे (*vidathe*) in Ṛ. Saṃ. 1-31-6, stated his opinion thus. His words are cited, and afterwards his opinions are stated.
+"On the derivation and meaning of विपथ (*vipatha*) Various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V. V. 592 (S. B.
+
+### Printed p. 323
+E. Vol. 32 P. 349 sq.) without traying to discuss here all different theories, I proceed to state my own opinion ; I propose to derive विदथ (*vidatha*) from वि+था (*vi+thā*) ; The Verb वि+था (*vi+thā*) means 'to distribute, to arrange, to Ordain :' thus the original meaning of विदथ (*vidatha*) must be like the meaning of विधान (*vidhāna*), 'distribution, disposition, ordinance ; In V. 3-6, we read विदधेषु अह्नां (*vidadheṣu ahnāṃ*) : this phrase receives its explanation by VII. 66-11 we may call attention also to VI. 51-2 within the sphere of the Vedic poets ' thoughts, the most prominent example of something most artificially विहित (*vihita*) was the sacrifice. यज्ञ (*yajña*) and विदथ (*vidatha*), 'Sacrifice' and 'ordinance' became nearly synonymous. (III 3-3) .... .... .... .... finally विदथ (*vidatha*) seems to mean 'the act of disposing of any business ' or the like ; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*)—may we with Valiant men mightily raise our voice a the determining of ordinances. Thus the word विदथ (*vidatha*) and सभा (*sabhā*) approach each other in thei meaning ; a person influential in council is called both विदथ्य (*vidathya*) and सभेय (*sabheya*) ". (Sacred Books of the East. Vol. 46 P. 27).
+The main substance of this passage is as follows. The word विदध (*vidadha*) is formed by adding the prefix वि (*vi*) to the root धा (*dhā*). विधा (*vidhā*) means "distribute, ordain"; it can also mean observance of rule. That the meanings of the two words विदध (*vidadha*) and विधा (*vidhā*) are the same is understood from the equal sense of the words विदधेष्वह्नां (*vidadheṣvahnāṃ*) in the Ṛk
+वयमग्ने वनुयाम त्वोता वसूयपो हविषा बुध्यमानाः । वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥ (*vayamagne vanuyāma tvotā vasūyapo haviṣā budhyamānāḥ | vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*) (Ṛ. Saṃ. 5-3-6)
+and the words वि-दधुः (*vi-dadhuḥ*) in the Ṛk
+वि ये दधुः शरदं मासवादहरज्ञमक्तुं चादृचं । अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत । (*vi ye dadhuḥ śaradaṃ māsavādaharajñamaktuṃ cādṛcaṃ | anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata |*) (Ṛ. Saṃ. 7-66-11)
+And further, the meanings of the words विहित (*vihita*) and विदथ (*vidatha*) being the same, the sacrifice ordained by the śāstra came to be called by the name विदथ (*vidatha*); the meaning "sacrifice or sacrificial assembly" remained at the end. So this scholar has explained.
+The scholar Bloomfield, showing the faults in the meanings given by both Max Muller and Oldenberg, says that विदथ (*vidatha*) never comes to mean an assembly and that the meaning "private house" is the correct one. His opinion is as follows—
+
 ---
 
-**Progress note:** Done through printed p. 317. pp. 311-317 (batch API)
+**Progress note:** Done through printed p. 323. pp. 318-323 (batch API)
