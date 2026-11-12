@@ -4498,6 +4498,114 @@ the identity of the speech that recites the mantra with the hotṛ is stated. An
 
 These and similar sentences address Agni, the accomplisher of the offering, as the hotṛ of the gods. Therefore in the present ṛk the word होतारं (*hotāraṃ*) is explained as होमनिष्पादकं आह्वातारं ना (*homaniṣpādakaṃ āhvātāraṃ nā*) **NOTE** and shown to be an attribute of Agni.
 
+### Printed p. 184
+
+##### विशेषविषयगळु (Special Topics)
+
+दिविष्टिषु (*diviṣṭiṣu*)—the authors of the Nirukta say: दिविष्टिषु दिव एषणेषु (*diviṣṭiṣu diva eṣaṇeṣu*) (Ni. 6-22), that is, the sacrificial acts that secure the way to heaven. To show the correct meaning of this word they cite the verse स्थूरं राधः शताश्वं कुरुंगस्य दिविष्टिषु । राज्ञस्वेषस्य सुभगस्य रातिषु तुर्वशेष्वमन्महि ॥ (*sthūraṃ rādhaḥ śatāśvaṃ kuruṃgasya diviṣṭiṣu | rājñasveṣasya subhagasya rātiṣu turvaśeṣvamanmahi ‖*) (Ṛ. Saṃ. 8-4-19). Sāyaṇa also explains this word as दिवः स्वर्गस्यैषणेषु प्राप्तिहेतुभूतासु यागक्रियासु (*divaḥ svargasyaiṣaṇeṣu prāptihetubhūtāsu yāgakriyāsu*).
+
+यंजते (*yaṃjate*)—the authors of the Nirukta say: यंजतिः प्रसाधनकर्मा (*yaṃjatiḥ prasādhanakarmā*) (Ni. 6-21), that is, "adorn". They cite the verse आ व यंजस ऊर्जां व्युष्टिष्टिंद्रं मरुतो रोदसी अनक्तन । उभे यथा नो अहनी सचाभुवा सदःसदो वरिवस्यात उद्दिदा ॥ (*ā va yaṃjasa ūrjāṃ vyuṣṭiṣṭiṃdraṃ maruto rodasī anaktana | ubhe yathā no ahanī sacābhuvā sadaḥsado varivasyāta uddidā ‖*) (Ṛ. Saṃ. 10-76-1), said to contain the word मुंजसे (*muṃjase*).**NOTE**. Sāyaṇa too explains this word as प्रसाधयंति (*prasādhayaṃti*), "they adorn".
+
+मज्मना (*majmanā*)—this word is read among the names of strength (Ni. 3-9). Sāyaṇa explains it as शारीरेण बलेन (*śārīreṇa balena*), "with bodily strength".
+
+##### Grammar
+
+- होतारम्—हु दानादनयोः धातुः । कर्तरि तृन् प्रत्ययः । प्रत्ययनिमित्तं धातोरिको गुणः । नित्त्वादाद्युदात्तस्वरो भवति । द्वितीयैकवचनांतरूपम् ।
+- वृणते—वृज् संभक्तौ धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । अतिजंतस्य परस्मिन् आगतत्वात् तिजंतनिघातस्वरो भवति ।
+- दिविष्टिषु—दिवः एषणानि येषु ते । दिविष्टयः सर्वे विधयश्चंदसि विकल्प्यंते इति वचनात् दिवउत् (पा. सू. ६-१-१३१) इत्यनेन उत्वं न भवति । बहुव्रीहौ प्रकृत्यापूर्वपदम् इत्यनेन पूर्वपदप्रकृतिस्वरो भवति ।
+- पपृचानासः—पृची संपर्के धातुः । छंदसि लुज्ल—सूत्रेण वर्तमानार्थे लिट् आगते लिटः कानज्वा (पा. सू. ३-२-१०६) इत्यनेन तस्य कानचादेशः । तं निमित्तीकृत्य धातोर्द्वित्वम् । अभ्यासस्य उरदत्वे आगते आदिहल्‌शेषः । प्रत्ययस्य कित्त्वात् गुणो न भवति । अस्मात् जसि परे आज्जसेरसुक् इत्यनेन तस्य असुकागमः । कानचश्चित्त्वात् चितः (पा. सू- ६-१-१३) इत्यनेन अंतोदात्तस्वरो भवति ।
+
+### Printed p. 185
+- ऋज्जते—ऋंजतिः प्रसाधनकर्मा इति यास्केन उक्तम् । अलंकारार्थे वर्तते । लट् प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परस्मिन् स्थितत्वात् निघातस्वरो भवति ।
+- क्रत्वा—क्रतु शब्दः । तृतीया टा परे जसादिषु छंदस्मिना वचनम् इति वचनात् विकल्पेन नाभावस्य आगमनात् अत्र न भवति । यणादेशः ।
+- मज्मना—टुमस्टो शुद् धातुः । अस्मात् औणादिको मनि प्रत्ययः । प्रत्ययस्वरेण मकारोत्तराकार उदात्तो भवति । तृतीयैकवचनांतरूपम् ।
+- पुरुष्टुतः—पुरुभिः=बहुभिः स्तुतः पुरुष्टुतः । ष्टुञ् स्तुत् धातुः । कर्मणि निष्ठा इत्यनेन क्त प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । समासे गतिकारकोपपदात्‌कृत् इत्यनेन कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- मर्तम्—मृज् प्राणत्यागे धातुः । असिहसिमृ—(उ. सू. ३-३६६) इत्यनेन तन् प्रत्ययः । तं निमित्तीकृत्य धातोरिको गुणः । नित्त्वात् इत्यादिर्नित्यम् इत्यनेन आद्युदात्तस्वरो भवति ।
+- शंसम्—शंसु स्तुत् धातुः । हलश्च (पा. सू. ३-३-१२१) इत्यनेन भावार्थे घञ् प्रत्ययः । इत्त्वात् आद्युदात्तस्वरो भवति ।
+- वेति—वी गतिप्रजनकांत्यसनखादनेषु । अदादिः । लट् प्रथमपुरुषैकवचनांतरूपम् । यत्संबंधत्वात् निपातैर्यद्यदि—(पा. सू. ८-१-३०) इत्यनेन निघातप्रतिषेधे आगते तिप् पित्त्वात् धातुस्वरः अवतिष्ठते ।
+- धायसे—डुधाञ धारणपोषणयोः धातुः । वहिहाधाञ् भ्यश्चंदसि (उ. सू. ५-६६०) इत्यनेन असुन् प्रत्ययः । णित् इति पूर्वसूत्रात् अनुवृत्तत्वात् आतो युक् चिण् कृतोः (पा. सू. ७-३-२३) इत्यनेन धातोर्युकागमः । असुनो नित्त्वात् आद्युदात्तस्वरो भवति । चतुर्थैकवचनांतरूपम् ।
+
+### Printed p. 186
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यदस्था॑द्यज॒तो वात॑चोदितो ह्वा॒रो न वक्वा॑ ज॒रणा॒  ॑
+> अनाकृतः ।  
+> तस्य॒ पत्म॑न॒क्षुषः॑ कृ॒ष्णजं॑हसः॒ शुचि॑जन्मनो॒ रज॒ आ व्य॑ध्वनः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यत् । अस्थात् । यजतः । वात्सचोदितः । ह्वारः । न । वक्वा । जरणाः । अनाकृतः।  
+> तस्य । पत्मन् । धक्षुषः । कृष्णजंहसः । शुचिजन्मनः । रजः । आ । विअध्वनः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदायमग्निर्वातचोदितो वायुना प्रेरितः ॥ तृतीया कर्मणीति
+> पूर्वपदप्रकृतिस्वरत्वं ॥ यजतः सर्वैर्यष्टव्यो यष्टुं योग्यः सन् व्यस्थात्
+> वितिष्ठते सर्वतो व्याप्यो भवति । तत्र दृष्टांतः । अनाकृतोऽनिवारितोऽप्रतिहतप्रसरो वक्वा बहुवक्ता ॥ वचेरन्येभ्योऽपि दृश्यंत इति वनिप् । दृशिग्रहणात्कुत्वं ॥
+> ह्वारो न कुटिल इव विदूषणकादिरिव ॥ स्वरतेर्ण्यंतात्पचाद्यच् ॥ स यथा जरणाः
+> स्तुतीर्वितिष्ठते विविधं कुर्वन् वर्तते तद्वयमप्यनाकृतोऽप्रतिबद्धप्रसरो
+> व्यवस्थितः । तदा तस्याग्नेः पत्मन् पतने मार्गे यज्ञरूपे रजो रंजनात्मको
+> लोक आस्थात् । आतिष्ठति । सर्वत आश्रयति । अग्नौ बहुधा यजतीत्यर्थः । कीवृशस्य
+> तस्य । धक्षुषो दहतः ॥ दहेर्लिटः क्वसुः ॥ कृष्णजंहसः । कृष्णमार्गस्य । पुनःपुनर्गम्यत इति जंहा मार्गः । हंतेर्यज्लुगंतात्मर्मण्यसुन् । कुत्वाभावश्चांवसः ॥
+> शुचिजन्मनः मंत्रसहितारण्योरुत्पन्नत्वात् व्यध्वनो विविधज्वालस्यानियतमार्गस्य ॥
+
+##### Gist of the bhāṣya
+
+यत् (*yat*) means "when": this Agni, वातचोदितः (*vātacoditaḥ*), is impelled by the wind. यजतः (*yajataḥ*): being one to be worshipped by all, fit to be sacrificed to, he व्यस्थात् (*vyasthāt*), stands spread out, becomes pervasive on every side. An illustration is given. अनाकृतः (*anākṛtaḥ*) is unrestrained, with his advance unchecked; वक्वा (*vakvā*) is a great talker. ह्वारो न (*hvāro na*) means like a crooked person, like a jester and the like. As such a man spreads out in various ways with जरणाः (*jaraṇāḥ*), praises, so too this Agni stands unrestrained, with his advance unobstructed.**NOTE**. Then, in his पत्मन् (*patman*), his falling course (his way), which is sacrifice, रजः (*rajaḥ*), the world of the nature of colouring or delighting, आस्थात् (*āsthāt*): takes its stand, resorts to him on every side; that is, offers sacrifice to Agni in many ways. Of what sort is he? धक्षुषः (*dhakṣuṣaḥ*), burning; कृष्णजंहसः (*kṛṣṇajaṃhasaḥ*), of the dark path—जंहा (*jaṃhā*) is a path, because it is gone over again and again; शुचिजन्मनः (*śucijanmanaḥ*), of pure birth, because he is produced from the two kindling sticks with the mantra; व्यध्वनः (*vyadhvanaḥ*), with flames of many kinds, of no fixed path.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनाकृतः (*anākṛtaḥ*)—having an unchecked flow of speech
+- ह्वारः (*hvāraḥ*)—a deceitful man
+- वक्वा न (*vakvā na*)—as a chatterer, in whatever way
+- जरणाः (*jaraṇāḥ*)—(without knowing high and low) increases his talk with praises of many kinds; so (this Agni)
+- वातचोदितः (*vātacoditaḥ*)—impelled by the wind
+- यजतः (*yajataḥ*)—being worthy of (everyone's) worship
+- यत् (*yat*)—when
+- वि अस्थात् (*vi asthāt*)—(with unchecked spread) spreads in many directions, (then)
+- धक्षुषः (*dhakṣuṣaḥ*)—burning (everything)
+- कृष्णजंहसः (*kṛṣṇajaṃhasaḥ*)—having a dark path
+- शुचिजन्मनः (*śucijanmanaḥ*)—(with mantras) having an auspicious
+
+### Printed p. 187
+- व्यध्वनः (*vyadhvanaḥ*)—birth (continued from the previous page); having flames spread along many paths
+- तस्य (*tasya*)—of that Agni
+- पत्मन् (*patman*)—on the path of worship, which is sacrifice
+- रजः (*rajaḥ*)—the world
+- आ (अस्थात्) (*ā (asthāt)*)—remains devoted
+
+##### भावार्थ (Bhāvārtha)
+
+As a chatterer with unchecked flow of speech, a deceitful man, increases his talk with praises of many kinds without knowing high and low, so this Agni also, impelled by the wind and worthy of everyone's worship, when he spreads in many directions by his unchecked spreading, then, he who burns everything, has a dark path, is of pure birth because of the mantra, and has flames spread along many paths—in the path of worship of this Agni, which is sacrifice, the whole world remains devoted.
+
+##### Printed English
+
+Since the adorable (Agni), impelled by the wind, spreads, in various directions, like an insincere and unrestrained chatterer, (who utters indiscre- minate) praises, therefore the world is assiduous in the worship of him, the consumer of all, whose way is dark, who is pure of birth, and follows various paths.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this verse the growth of Agni, whose spreading is unchecked, is compared with the growth of the unbroken talk of a chatterer.
+
+आनाकृतः (*ānākṛtaḥ*)—Sāyaṇa explains: अनिवारितः अप्रतिहतप्रसरः (*anivāritaḥ apratihataprasaraḥ*), one whose flow is unchecked. Its derivation can be established in two ways. One may show an etymology suited to this context: अना (*anā*), without hindrance, कृतः (*kṛtaḥ*), made, done. Thus, in the verse अभ्रातृव्यो अना त्वमनापिरिंद्र जनुषा सनादसि । युधेदासित्वमिच्छसे । (*abhrātṛvyo anā tvamanāpiriṃdra januṣā sanādasi | yudhedāsitvamicchase |*) (Ṛ. Saṃ. 8-21-13), Sāyaṇa explains the word अना (*anā*) as अनियंतृकः (*aniyaṃtṛkaḥ*), one who is unrestrained. Although the word अना (*anā*) has other meanings, आस्येन (*āsyena*) (10-94-3) and प्राणरूपेण बलेन (*prāṇarūpeṇa balena*) (4-30-3), those meanings are for the present not relevant to us. Hence अना (*anā*)+कृतः (*kṛtaḥ*) means a speaker who carries on without hindrance.
+
+ह्यारः (*hyāraḥ*)—कुटिलः (*kuṭilaḥ*): not straight, that is, a deceiver without truthful feeling or conduct. Because the chatterer talks beyond measure, his talk has no straight and definite subject. Because it is crooked, the epithet ह्वारः (*hvāraḥ*) is given. The thief also has this epithet. For example, in the verse युवं पय उस्रियायामधत्तं पक्वमामायामव पूर्व्यं गोः । अंतर्यद्वनिनो वामृतप्पू ह्वारो न शुचिरजते हविष्मान् । (*yuvaṃ paya usriyāyāmadhattaṃ pakvamāmāyāmava pūrvyaṃ goḥ | aṃtaryadvanino vāmṛtappū hvāro na śucirajate haviṣmān |*) (Ṛ. Saṃ. 1-180-3) the vigilance of the sacrificer is compared with the vigilance of a thief. Here ह्वारो न (*hvāro na*) means "like a thief".
+
+### Printed p. 188
+The meanings thief and deceiver of the word ह्वार (*hvāra*) have come down by tradition; the original meaning of the word is crooked, bent. In the verse क्रत्वा हि द्रोणे अज्यसेऽग्ने नाजी न कृत्त्वः । परिज्जीव स्वधा गयोऽत्यो न ह्यार्यः शिशुः ॥ (*kratvā hi droṇe ajyase 'gne nājī na kṛttvaḥ | parijjīva svadhā gayo 'tyo na hyāryaḥ śiśuḥ ‖*) (Ṛ. Saṃ. 6-2-8) the word ह्यार्यः (*hyāryaḥ*) shows the crooked gait of a well-bred horse; and in the verse उत स्म दुर्गृभीयसे पुत्रो न ह्वार्याणां । पुरू यो दग्नासि वनाग्ने पशुर्न यवसे ॥ (*uta sma durgṛbhīyase putro na hvāryāṇāṃ | purū yo dagnāsi vanāgne paśurna yavase ‖*) (Ṛ. Saṃ. 5-9-4) the word ह्वार्याणां (*hvāryāṇāṃ*) shows the bent course of कुटिलं गच्छतां सर्पाणां (*kuṭilaṃ gacchatāṃ sarpāṇāṃ*), serpents moving crookedly. In the present verse the epithet ह्वारः (*hvāraḥ*) is used to show the crooked way of the chatterer, who talks merely for the sake of talk without any definite aim, and his deceitful**NOTE** conduct.
+
+वक्वा (*vakvā*)—बहुवक्ता (*bahuvaktā*), one who talks excessively. By saying so Sāyaṇa shows that it is derived from the root वच् (*vac*). But to say that the root वकि (कौटिल्ये गतौ च) (*vaki (kauṭilye gatau ca)*) is its origin appears correct; crookedness or bending itself is the meaning of this word. To show the derivation of वक्वा (*vakvā*) from the root वच् (*vac*) does not appear as sound as to say that it is derived from the root वकि (*vaki*); the meaning also fits the second root. But since the word वक्वा (*vakvā*) is used in all contexts where much noise is made, one has to say that in those places it is derived from the root वच् (*vac*) itself. For example, in the verse असर्जि वक्वा रथ्ये यथाजौ धिया मनोता प्रथमो मनीषी । दश स्वसारो अधि सानो अव्येजंति वह्निं सदनान्यच्च । (*asarji vakvā rathye yathājau dhiyā manotā prathamo manīṣī | daśa svasāro adhi sāno avyejaṃti vahniṃ sadanānyacca |*) (Ṛ. Saṃ. 9-20) (9-91-1)**NOTE** it is an epithet of Soma, "making sound" (शब्दायमानः (*śabdāyamānaḥ*)); and in the verse श्रुधी हवमिंद्र शूर पृथ्या उत स्तवसे वेन्यस्यार्कैः । आ यस्ते योनिं धृतवंतमस्वारूर्मिर्न निम्मैर्द्रवयंत वक्वाः । (*śrudhī havamiṃdra śūra pṛthyā uta stavase venyasyārkaiḥ | ā yaste yoniṃ dhṛtavaṃtamasvārūrmirna nimmairdravayaṃta vakvāḥ |*) (Ṛ. Saṃ. 18-148-5)**NOTE**
+
+### Printed p. 189
+it is an epithet of the praisers who make sound; and in the verse प्राग्रुवो नभन्वोऽ न वक्वा ध्वस्रा अपिन्वद्युवतीऋतुज्ञाः । धन्वान्यज्रा अप्पणक्तृषाणा अधोगिंद्रः स्तरोऽदंसुपत्नीः ॥ (*prāgruvo nabhanvo ' na vakvā dhvasrā apinvadyuvatīṛtujñāḥ | dhanvānyajrā appaṇaktṛṣāṇā adhogiṃdraḥ staro 'daṃsupatnīḥ ‖*) (Ṛ. Saṃ. 4-19-7) it is an epithet of the army that makes noise; therefore one has to say that the root वच् (*vac*) is the origin. In the present verse, since both qualities, sound and crookedness, are present, it may be derived from either root. It means a chatterer.
+
+जरणाः (*jaraṇāḥ*)—this word is in general derived from the root ज्य (वयोहानौ) (*jya (vayohānau)*) and indicates old age and slackness. [It is used in verses such as 4-33-3, 10-40-3.] But in this verse, and also in the verse अध प्र जज्ञॆ तरणिर्ममत्तु प्र रोच्यस्या उषसो न सूरः । इंदुर्येभिराष्ट्र स्वेदुहवैः स्रुवेण सिंचज्जनाभि धाम । (*adha pra jajñè taraṇirmamattu pra rocyasyā uṣaso na sūraḥ | iṃduryebhirāṣṭra sveduhavaiḥ sruveṇa siṃcajjanābhi dhāma |*) (Ṛ. Saṃ. 1-127-6), it is used in the sense of praise. Sāyaṇa, showing its derivation, explains जरतिः स्तुतिकर्मा (*jaratiḥ stutikarmā*) (Ni. 3-19), and from this root, in the passive, the affix ल्युट् (*lyuṭ*); and in his commentary on verse 1-26 he says that जरणा (*jaraṇā*) means स्तोतव्यः (*stotavyaḥ*). The author of the Nirukta, citing the verse जराबोध तद्विविड्डि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकं । (*jarābodha tadviviḍḍi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkaṃ |*) (Ṛ. Saṃ. 1-27-10) and showing the derivation of the word जराबोध (*jarābodha*) there, states its meaning: जरा स्तुतिः जरतेः स्तुतिकर्मणः (*jarā stutiḥ jarateḥ stutikarmaṇaḥ*) (Ni. 10-8). Likewise in the present verse also जरणाः (*jaraṇāḥ*) means praise. Here the quality common to the chatterer and the praiser is that both carry on their speech without limit.
+
+Thus the epithets अनाकृतः (*anākṛtaḥ*), ह्वारः (*hvāraḥ*), जरणाः (*jaraṇāḥ*), just as they describe the nature of the chatterer, are also epithets of Agni and describe his spreading, which is unchecked, crooked and filled with sound.
+
+कृष्णजंहसः (*kṛṣṇajaṃhasaḥ*)—कृष्णमार्गस्य (*kṛṣṇamārgasya*): "having a dark path", an epithet of Agni. Showing the derivation of the word जंह (*jaṃha*) as पुनःपुनर्गम्यते इति जंहामार्गः (*punaḥpunargamyate iti jaṃhāmārgaḥ*), Sāyaṇa explains that it means path.
+
 ---
 
-**Progress note:** Done through printed p. 183. pp. 177-183 (batch API)
+**Progress note:** Done through printed p. 189. pp. 184-189 (batch API)
