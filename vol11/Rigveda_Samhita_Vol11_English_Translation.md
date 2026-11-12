@@ -5691,6 +5691,147 @@ On the word तनूनपात् (*tanūnapāt*), Sāyaṇa, on the basis of
 
 This terrestrial Agni is the nephew/grandson (नपात् (*napāt*)) of the Agni of the divine world, in this way: the divine Agni, being endowed with the power of spreading (तननात् (*tananāt*)), is called by the synonym तनु (*tanu*). From him arises the Agni of the atmosphere, in the form of lightning, and from that this terrestrial Agni; hence the terrestrial Agni has the name तनूनपात् (*tanūnapāt*); and also because, spreading out from his own body, he came into being in this form
 
+### Printed p. 235
+
+(The sentence from the previous page continues:) it has been explained that the name Tanūnapāt arises in this way. The relation between this form of Agni and the Agni in the form of Narāśaṃsa, and the difference between them, will be explained in the Special Topics of the next Ṛk.
+
+- मासि (*māsi*)—निर्मिमीषे मितो भवसि वा । संपूर्तिपर्यंतं तिष्ठसीति वा । (*nirmimīṣe mito bhavasi vā | saṃpūrtiparyaṃtaṃ tiṣṭhasīti vā |*) The meaning is: remain until the sacrifice is completely accomplished.
+- विप्रस्य (*viprasya*)—the word विप्र (*vipra*) is read among the names for the wise (Ni. 3-19). Of the sacrificer, who is wise and a praiser.
+- मावतः (*māvataḥ*)—मत्सदृशस्य यजमानस्य । (*matsadṛśasya yajamānasya |*) The meaning is: of a sacrificer who is endowed with faith just as I am.
+
+##### Grammar
+
+- धृतवंतम् — धृतमस्यास्ति इति धृतवान् । तम् । तदस्यास्ति इति सूत्रेण मतुप् प्रत्ययः । पित्त्वात् अनुदात्तो भवति ।
+- मासि — मा माने इति धातुः । अदादिः । लट् मध्यमपुरुषैकवचने सिप् प्रत्ययः । अदिप्रभृतिभ्यः शपः इति शसि लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+- तनूनपंत् — आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+- यज्ञम् — यज देवपूजासंगतिकरणदानेषु इति धातुः । यजयाच—(पा. स. ३-३-९०) इति नज् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाएकवचनांतरूपम् ।
+- मावतः — युष्मदस्मदोः सादृश्ये वतुप् वाच्यः (पा. सू. ५-१-६५-२) इति सादृश्यार्थे प्रतीयमाने अस्मद् शब्दात् वतुप् प्रत्ययः । प्रत्ययोत्तरपदयोश्च (पा. सू. ७-२-९८) इति प्रकृतेः मादेशः । आ सर्वनाम्नः (पा. सू. ६-३-९१) इति वतुप् निमित्तम् आत्वम् । वतुप् पित्त्वात् अनुदात्तो भवति ।
+- शशमानस्य — शंसमान इति भवति स्थले शशमान इति रूपं भवति । चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । षष्ठीएकवचनांतरूपम् ।
+- दाशुषः — पूर्वस्मिन् मंत्रे व्याख्यातम् । षष्ठीएकवचनांतरूपम् ।
+
+### Printed p. 236
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचिः॑ पाव॒को अद्भु॑तो॒ मध्वा॑ य॒ज्ञं मि॑मिक्षति ।  
+> नरा॒शंस॒स्त्रिरा दि॒वो दे॒वो दे॒वेषु॑ य॒ज्जियः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । पावकः । अद्भुतः । मध्वा । यज्ञं । मिमिक्षति ।  
+> नराशंसः । त्रिः । आ । दिवः । देवः । देवेषु । यज्जियः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेषु मध्यॆ शुचिः शुद्धो दीप्तो वा पावकोऽन्नस्यापूतस्य शोधयिताद्भुतोऽभूत इव अद्यक्षणे भविता । आश्चर्यभूत इत्यर्थः । देवो द्योतन
+> शीलो यज्ञियो यज्ञ संपादनार्हः ईदृशो नराशंसो नरैः कर्मनेतृभिर्ऋत्विग्निः शंसनीयोऽग्निर्दिपो द्युलोकादागत्य मध्वा मधुरेण रसेन यज्ञ
+> मस्मदीयं त्रिरा मिमिक्षति । त्रिवारं समंतात्सिंचति । स्वदयतीत्यर्थः । यद्वा ।
+> मधुरेण फलेन त्रिरा मिमिक्षति । योजयतीत्यर्थः । नराशंसो यज्ञ इति कात्थक्यपक्षे यज्ञाभिमानी देवो द्योतमानो द्युलोकादागत्यानुष्ठीयमानं
+> यज्ञं त्रिरा मिमिक्षति । आयं नराशंसो देवस्त्रिरा ॥ उपसर्गवशाज्योग्यक्रियाध्याहारः ॥ त्रिवारमागच्छति । त्रिराहरति वा फलं । अवशिष्टं पूर्ववन्नेयं ॥
+
+##### Gist of the bhāṣya
+
+Among the gods, Agni is शुचिः (*śuciḥ*), pure or shining, and पावकः (*pāvakaḥ*), the purifier of unpurified food. He is अद्भुतः (*adbhutaḥ*): as though he had not been, he comes into being in this very moment; that is, he is a wonder. He is देवः (*devaḥ*), of a shining nature, and यज्ञियः (*yajñiyaḥ*), fit to accomplish the sacrifice. Such is Narāśaṃsa, Agni, to be praised by men, that is, by the priests who lead the rite. Coming from the heavenly world, with sweet juice he त्रिरा मिमिक्षति (*trirā mimikṣati*) our sacrifice: he sprinkles it all round three times, that is, he makes it sweet. Or else: with sweet fruit he joins it three times, that is, he unites it. On the view of Kātthakya, that Narāśaṃsa is the sacrifice, the deity presiding over the sacrifice, shining, comes from the heavenly world and thrice mixes the sacrifice being performed. Or: this god Narāśaṃsa त्रिरा (*trirā*): by force of the preverb a suitable verb is to be supplied; he comes three times, or he brings the fruit three times. The rest is to be understood as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु (*deveṣu*)—among the gods
+- शुचिः (*śuciḥ*)—the pure one
+- पावकः (*pāvakaḥ*)—the one who purifies (the food)
+- अद्भुतः (*adbhutaḥ*)—the wonderful one
+- देवः (*devaḥ*)—the shining one
+- यज्ञियः (*yajñiyaḥ*)—fit for accomplishing the sacrifice
+- नराशंसः (*narāśaṃsaḥ*)—Agni, famed as Narāśaṃsa (the one praised by the priests)
+- दिवः (*divaḥ*)—having come from the heavenly world
+- मध्वा (*madhvā*)—with sweet juice or with fruit
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- त्रिः (*triḥ*)—three times
+- आ मिमिक्षति (*ā mimikṣati*)—joins all around, or brings the fruit also in threefold repetition at all three sacrificial times
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who among the gods is pure, purifies the food, is wonderful, shining, fit for accomplishing the sacrifice, and famed as Narāśaṃsa, comes from the heavenly world and joins this sacrifice of ours three times with sweet fruit.
+
+### Printed p. 237
+
+##### Printed English
+
+The pure, purifying, wonderful Narashansa, an adorable god among gods, (having come) from heaven, thrice mixes the sacrifice with the sweet (juice of the Soma).
+
+##### विशेषविषयगळु (Special Topics)
+
+नराशंसः (*narāśaṃsaḥ*)—नरैः शंसनीयः (अग्निः) । (*naraiḥ śaṃsanīyaḥ (agniḥ) |*) "Agni who is praised by men": this is a name of Agni by its meaning. Or नराशंसोऽग्निर्यज्ञो वा (*narāśaṃso 'gniryajño vā*): according to another view Narāśaṃsa means either Agni or the sacrifice. A passage of the Nirukta supports both these opinions.
+
+नराशंसो यज्ञ इति कात्थक्यः। नरा अस्मिन्नासीनाः शंसंति । अग्निरिति शाकपूणिः। नरैः प्रशस्यो भवति । (*narāśaṃso yajña iti kātthakyaḥ| narā asminnāsīnāḥ śaṃsaṃti | agniriti śākapūṇiḥ| naraiḥ praśasyo bhavati |*) (Ni. 8-7). Because men sit in the sacrifice and praise, the sacrifice has the name Narāśaṃsa, says Kātthakya; because Agni is to be praised by men he has this name, says Śākapūṇi. Having indicated these two opinions, the author of the Nirukta then cites the Ṛk
+
+नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः । ये सुकृतवः शुचयो धियंधाः स्वदंति देवा उभयानि हव्या ॥ (*narāśaṃsasya mahimānameṣāmupa stoṣāma yajatasya yajñaiḥ | ye sukṛtavaḥ śucayo dhiyaṃdhāḥ svadaṃti devā ubhayāni havyā ‖*) (Ṛ. Saṃ. 7-2-2).
+
+In this Ṛk the meaning "Agni" alone is proper. Among the deities enumerated in the Nighaṇṭu, the deity Narāśaṃsa is understood to be one of the forms of Agni. The authors of the Bṛhaddevatā say the same in the verse
+
+नराशंसस्तितश्चैनमेनमेवाश्रितस्त्वस्थळः । बहिर्द्वारश्च देव्योग्निमेनमेव तु संश्रिताः ॥ (*narāśaṃsastitaścainamenamevāśritastvasthaḷaḥ | bahirdvāraśca devyognimenameva tu saṃśritāḥ ‖*) (Bṛ. De. 1-107),
+
+in which they say that Narāśaṃsa, like the other deities mentioned there, is contained within Agni. And
+
+पृथक्त्वेन समासैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*pṛthaktvena samāsaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*) (Bṛ. De. 2-28):
+
+because he is praised separately by all the men gathered at the sacrifice, the poets praise him (Agni) in the Āprī hymns by the name Narāśaṃsa. Saying this, they too have shown the opinion stated by the authors of the Nirukta.
+
+### Printed p. 238
+
+नराशंसमिहैके तु अग्निमाहुरथेतरे । नराः शंसंति सर्वेऽस्मिन्नासीना इति नाध्वरे ॥ एतमेवाहुरन्येऽग्निं नराशंसोd्ध्वरे ह्ययं । नरैः प्रशस्य आसीनैराहुश्चैवर्त्विजो नरः ॥ (*narāśaṃsamihaike tu agnimāhurathetare | narāḥ śaṃsaṃti sarve 'sminnāsīnā iti nādhvare ‖ etamevāhuranye 'gniṃ narāśaṃsoddhvare hyayaṃ | naraiḥ praśasya āsīnairāhuścaivartvijo naraḥ ‖*) (Bṛ. De. 3-2 to 3) **NOTE**
+
+Some say Narāśaṃsa is Agni. Because men gather in the sacrifice and praise, others call him the sacrifice. According to still others, because he is praised by the men gathered at the sacrifice, Narāśaṃsa is Agni himself. The third is a reconciliation of the first and second opinions. Along with these two meanings Sāyaṇa has also given a third. When explaining Ṛ. Saṃ. 1-18-9 in the bhāṣya he says
+
+नराशंसमेतन्नामकं देवविशेषं यद्वा अवयवार्थव्युत्पत्ता सदसस्पतिदेवतापरोऽयं शब्दः । अत्र अग्निवत् सदसस्पतेरपि नरैः शस्यमानत्वात् नराशंसस्त्वं । एतमेवाभिप्रायं हृदि निधाय ब्राह्मणमेवमाम्मायते—प्रजा वै नरो वाक् शंसः । (*narāśaṃsametannāmakaṃ devaviśeṣaṃ yadvā avayavārthavyutpattā sadasaspatidevatāparo 'yaṃ śabdaḥ | atra agnivat sadasaspaterapi naraiḥ śasyamānatvāt narāśaṃsastvaṃ | etamevābhiprāyaṃ hṛdi nidhāya brāhmaṇamevamāmmāyate—prajā vai naro vāk śaṃsaḥ |*) (Ai. Brā. 6-27).
+
+Narāśaṃsa may mean a particular deity of this name, or Sadaspati. This meaning may hold both because Sadaspati too is praised by men and because the passage cited from the Aitareya Brāhmaṇa suggests this idea; thus the third meaning has been shown. But it would not be wrong to say that throughout the Ṛksaṃhitā the word is a synonym of Agni.
+
+In Ṛks such as
+
+नराशंसः प्रति धामान्यंजन् तिस्रो दिवः प्रति मह्ना स्वर्चिः । घृतपुषा मनसा हव्यमुंदन्नूर्धन्यज्ञस्य समनक्तु देवान् ॥ (*narāśaṃsaḥ prati dhāmānyaṃjan tisro divaḥ prati mahnā svarciḥ | ghṛtapuṣā manasā havyamuṃdannūrdhanyajñasya samanaktu devān ‖*) (Ṛ. Saṃ. 2-3-2)
+
+and in the present Ṛk, "Agni" is the meaning. In all ten Āprī hymns Narāśaṃsa is addressed six times, and the deity named Tanūnapāt six times. In two hymns of the first Maṇḍala both are addressed together. How the divergence of view about these two deities grew, and how the scholars of the śāstras have discussed this matter, deserves examination.
+
+If one looks chiefly at the rule of the prayāja principle, invoking these two deities is not strictly necessary. For in every Ṛk different deities must be addressed, and
+
+### Printed p. 239
+
+these two deities are portions of Agni; since Agni was invoked in the first Ṛk, they are as good as addressed too. The scholar Haug (the translator of the Aitareya Brāhmaṇa) has called them two deities distinct from Agni, but that opinion is not sound. Another point worth noting is this: the word Tanūnapāt stands in the vocative case throughout the Āprī hymns, while the word Narāśaṃsa stands in various cases; and the deity Tanūnapāt has only the epithets kavi and sujihva, whereas Narāśaṃsa has epithets such as priya, śuci, deva, devatama. Because of this, according to some scholars of the side, Narāśaṃsa, being known to the poets and, as a form of the earthly Agni, present before them, is the one near at hand; while Tanūnapāt, being less near, not visible to direct perception, is one who merely, heeding the prayer of the sacrificers, carries the oblations to the gods. In these opinions fancy is mixed with truth.
+
+With the help of madhu **NOTE**, to fill the sacrifice itself with sweetness is the chief duty of these two deities. By epithets such as प्रतिधामान्यंजन् (*pratidhāmānyaṃjan*) (2-3-2), Narāśaṃsa **NOTE** is described as one who lights up the sacrificial ground; and as described in Ṛks such as
+
+तनूनसात्पथ ऋतस्य यानान्मध्वा समंजन्त्वधया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन् देवत्रा च कृणुह्यध्वरं नः । (*tanūnasātpatha ṛtasya yānānmadhvā samaṃjantvadhayā sujihva | manmāni dhībhiruta yajñamṛṃdhan devatrā ca kṛṇuhyadhvaraṃ naḥ |*) (Ṛ. Saṃ. 10-110-2),
+
+Tanūnapāt is one who makes the path of the Ṛta sweet; thus the nature of each has been stated. These special natures are described thus in the Praiṣa hymn:
+
+होता यक्षत्तनूनपातमदितेर्गर्भं भुवनस्य गोपां । मध्वाद्य देवॊ देवेभ्यो देवयानान्पथो अनक्तु वेत्वाज्यस्य होतरज । (*hotā yakṣattanūnapātamaditergarbhaṃ bhuvanasya gopāṃ | madhvādya devò devebhyo devayānānpatho anaktu vetvājyasya hotaraja |*) (Tai. Brā. 3-6-2-2)
+
+होता यक्षन्नराशग्ंसं नृशस्त्रं नृग् प्रणेत्रं । गोभिर्वपावान्तास्त्यद्वीरैः शक्तीवान्रथैः प्रथमयावा हिरण्यैश्चंद्री वेत्वाज्यस्य होतरज । (*hotā yakṣannarāśagṃsaṃ nṛśastraṃ nṛg praṇetraṃ | gobhirvapāvāntāstyadvīraiḥ śaktīvānrathaiḥ prathamayāvā hiraṇyaiścaṃdrī vetvājyasya hotaraja |*) (Tai. Brā. 3-6-2-2)
+
+In these passages Tanūnapāt is described as the son of Aditi and one who lights the path of the gods; Narāśaṃsa as प्रथमयावा (*prathamayāvā*) (अग्रयावा (*agrayāvā*), Ṛ. Saṃ. 10-70.2), that is, as one who, as the representative of the gods, comes first toward men, and for that very reason as the leader of men. In the Aitareya Brāhmaṇa,
+
+### Printed p. 240
+
+तनूनपातं यजति प्राणो वै तनूनपात्स हि तन्नः पाति प्राणमेव तत्प्रीणाति प्राणं यजमाने दधाति । (*tanūnapātaṃ yajati prāṇo vai tanūnapātsa hi tannaḥ pāti prāṇameva tatprīṇāti prāṇaṃ yajamāne dadhāti |*) (Ai. Brā. 2-4)
+
+by this passage the identity of Tanūnapāt with the vital breath (prāṇa) is stated; and
+
+नराशंसं यजति प्रजा वै नरो वाक्कंसः प्रजां चैव तद्वाचं च प्रीणाति प्रजां च वाचं च यजमाने दधाति । (*narāśaṃsaṃ yajati prajā vai naro vākkaṃsaḥ prajāṃ caiva tadvācaṃ ca prīṇāti prajāṃ ca vācaṃ ca yajamāne dadhāti |*) (Ai. Brā. 2-4)
+
+by this passage the identity of Narāśaṃsa with offspring (prajā) is stated. Examining such a variety of opinions, the scholar Haug has said:
+
+"It clearly follows from this distinction between the invocation of these two deities—both rcpresenting a particular kind of Agni that certain gotras regarded Tanunapet as their tutelary deity or rather as one of their deified ancestors."
+
+##### Grammar
+
+- पावकः — पावयति इति पावकः । कर्तरि ङ्बुल् प्रत्ययः । अचोञ्छति इति धातोः इकः वृद्धिः । युवोरनाकौ (पा. सू. ७-१-१) इति प्रत्ययस्य अनादेशः । उंभादिषु अंतर्भूतत्वात् अंतोदात्तो भवति ।
+- मध्वा — मधु शब्द आद्युदात्तः । तस्मात् तृतीयाएकवचने परे आगमानुशासनमनित्यम् इति वचनात् सुमागमो न भवति । जसादिषु छंदसि वा वचनम् इति वचनात् नाभावोऽपि न भवति । तदा यणादेशः ।
+- मिमिक्षति — मिह सेचने इति धातुः । धातोः कर्मणः समान—(पा. सू. ३-१-७) इति सन् । सन्यजोः (पा सू. ६-१-११) इति धातोः द्वित्वम् । अभ्यासे आदिहल् शेषः । होढः इति धातुहकारस्य ढत्वम् । षडोः कः सि (पा. सू. ८-२-४१) इति ढकारस्य कत्वम् । ककारं निमित्तीकृत्य प्रत्ययसकारस्य षत्वम् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+- नराशंसम् — नर शब्दः नृ नये इति धातोः अप् प्रत्ययेन सिद्धः । शंसंति अस्मिन् इति शंसः । हलश्च (पा. सू. ३-३-१२१) इति घञ् प्रत्ययः । नराणां शंसः नराशंसः तम् । उभे वनस्पत्यादिषु युगपत् (पा. सू. ६-२-१४०) इति पूर्वोत्तरपदयोः प्रकृतिस्वरो भवति ।
+- त्रिः — द्वित्रिचतुर्भ्यः सुच् (पा. सू. ५-४-१८) इति क्रियाभ्यावृत्तौ गम्यमानायां सुच् प्रत्ययः । सकारस्य रुत्वं विसर्गः ।
+
 ---
 
-**Progress note:** Done through printed p. 234. pp. 229-
+**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)

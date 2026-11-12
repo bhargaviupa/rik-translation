@@ -8,3 +8,4 @@
 - w0052: sūtra number 6-1-71 changed by the model to 6-1-70 with a self-note; restored as printed, note removed.
 - w0064 (p. 68): a page break fell inside one grammar entry; the model wrote the heading between the two halves, and the volume file got the heading in the middle of the line. Repaired in the English volume file (entry in one line, `### Printed p. 68` after it); the shared tool now joins such entries (`api_batch.join_split_entries`).
 - w0202: sūtra number printed split over a line break (೩- / -೧೮೫); the model had made it ೩-೧-೮೫; written ೩-೧೮೫ with a NOTE.
+- w0229: remark "[as printed]" removed from the English.
