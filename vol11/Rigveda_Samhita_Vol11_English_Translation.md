@@ -9996,6 +9996,194 @@ In Ṛks such as this, vandāru is understood as "praise that is given to homage
 - मंहिष्ठस्य — महि वृद्धौ धातुः । कर्तरि तृच् प्रत्ययः । अतिशयेन मंहिता मंहिष्ठः । तुश्चंदसि (पा. सू. ५-३-५९) इति तृजंतात् इष्टन् प्रत्ययः । तुरिष्टेमेयःसु (पा.. सू. ६-४-१५४) इति इष्टन् परे तृचः लोपः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति ।
 - प्रभृतस्य — भृञ् भरणे धातुः । कर्मणि निष्ठा प्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (प्र) प्रकृतिस्वरो भवति । षष्ठीएकवचनांतरूपम् ।
 
+### Printed p. 411
+
+##### Grammar
+
+- स्वधावः — मतुप् प्रत्यये परे माडुपधाया इति मकारस्य वत्वम् । संबुद्धौ मतुवसोरुःसंबुद्दौ (पा. सू. ८-३-१) इति रुत्वम् । आमंत्रितनिघातस्वरो भवति ।
+- पीयति — सी पाने धातुः । अत्र वधार्थे प्रयुक्तः । लट् प्रथमपुरुषएकवचनांतरूपम् । पादादित्वान्निघातस्वरो न भवति । श्यन् विकरणः नित्त्वादाद्युदात्तस्वरो भवति ।
+- गृणाति — गृ शब्दे धातुः । क्रादिः । लट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । क्र्यादिभ्यः श्ना इति श्नाविकरणम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः । तिजंतनिघातस्वरो भवति ।
+- वंदारुः — वदि अभिवादनस्तुत्योः धातुः । श्यवंद्योरारुः (पा. सू. ३-२-१७) इति तच्छीलार्थे आरु प्रत्ययः । इदितो नुम् धातोः इति धातोः सुमागमः । प्रत्ययस्य आद्युदात्तस्वरो भवति । **NOTE**
+- तन्वम् — तन्वादीनां छंदस्युपसंख्यानम् इति वचनाद्यणादेशः । उदात्तस्वरितयोर्यणः (पा. सू. ८-२-४) इति स्वरितस्वरो भवति ।
+- वंदे — वदि अभिवादनस्तुत्योः धातुः । इदित्त्वान्नुमागमः । लट् प्रथमपुरुषएकवचनांतरूपम् । अतिजंतपरत्वान्निघातस्वरो भवति ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये पायवो मामतेयं ते अग्ने पश्यंतो अंधं  
+> दुरितादरक्षण् ।  
+> र॒रक्ष॒ तान्तु॒सकृतो॑ वि॒श्ववे॑दा॒ दिप्सं॑त॒ इद्रि॒पवो॒ नाह॑ देभुः ।  
+> ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । पायवः । मामतेयं । ते । अग्ने । पश्यंतः । अंधं । दुःइतात् । अरक्षन् ।  
+> ररक्ष । तान् । सुकृतः । विश्ववेदाः । दिप्संतः । इत् । रिपवः । न । अह । देभुः ॥३ ॥
+
+### Printed p. 412
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाचक्षते । उचथ्य बृहस्पतिनामानौ द्वावृषी आस्तां । तत्रोचथ्यस्य
+> ममता नाम भार्या। सा च गर्भिणी । तां बृहस्पतिर्गृहीतारमयत् । शुक्रनिर्गमनावसरे प्राप्ते गर्भस्थं रेतः प्रावादीत् हे मुने रेतो मा त्याक्षेः पूर्वमहं
+> वसामि रेतःसंकरं मा कार्षीरिति । एवमुक्तो बृहस्पतिर्बलात्पतिरुद्धरेतस्कः सन्
+> शशाप । हे गर्भ त्वं यतो रेतोनिरोधमकरोः अतस्त्वं दीर्घं तमः प्राप्नुहि
+> जात्यंधो भवेति । एवं शप्पो ममतायां दीर्घतमा अजायत । स चोत्पन्नस्तमोव्यथयाग्निमस्तौषीत् । स च स्तुत्या प्रीत आंध्यं पर्यहरदिति । तदिदमत्तोच्यते । हे अग्ने ते तव संबंधिनो ये पायनः प्रसिद्धाः पालयितारो रश्मयो
+> मामतेयं ममतायाः पुत्रं दीर्घतमसमंधं पश्यंतोऽंधोऽयं आतोऽस्माभी रक्षणीय इत्यवगच्छंतो दुरिताद्दुष्टं प्राप्ताद्भुखादरक्षन् तान्सुकृतः सुखकर्तृन् विश्ववेदा विश्वप्रज्ञो ररक्ष । रक्षति । अस्मत्पालनायेति भावः । तैरस्मानपि
+> रक्षिष्यतीत्यर्थः । एवं रक्षितानस्मान् दिप्संतो दंभितुमिच्छंतो रिपवः कामादयो
+> नाह देभुः । अहेति विनिग्रहार्थियः । न खलु दंभितुं शक्नुवंति !! दन्नु दंभे ।
+> श्रंथिग्रंथिदंभिस्वंजीनामिति वक्तव्यं । का. १-२६-१ । इति लिटः कित्वादनिदितामिति
+> नलोपः । तस्यासिद्धत्वादेत्वाभ्यासलोपयोरप्राप्तौ दंभेश्चेति वक्तव्यं । पा ६-४-
+> १२०-५ । इति तौ विधीयेते ॥ यद्वा । सूक्तद्रष्टा दीर्घतमाः स्वयमेवात्मानं
+> परोक्षतया ब्रवीति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that an itihāsa is told here. There were two seers, Ucathya and Bṛhaspati. Ucathya's wife was Mamatā, and she was pregnant. Bṛhaspati approached her. When the moment of emission came, the child in the womb spoke: "O sage, do not discharge your seed; I dwell here first; do not cause a mixing of seed." Thus addressed, Bṛhaspati, whose seed had been forcibly checked, cursed it: "O child in the womb, since you obstructed my seed, may you enter long darkness and be born blind." Thus cursed, Dīrghatamas was born to Mamatā. Born, he was tormented by the darkness and praised Agni; Agni, pleased with the praise, removed his blindness. That is what is said here.
+
+"O Agni, those well-known guardian rays of yours, seeing Māmateya, the son of Mamatā, Dīrghatamas, blind, and understanding 'this blind man must be protected by us,' protected him from distress, from the evil that had befallen him. The all-knowing one (Agni) protects those doers of good, those givers of happiness (the rays)" — the sense is that he protects them for our protection, and through them he will protect us also. "Thus protected, the enemies such as desire, wishing to harm us, cannot harm us." अह (*aha*) is used for emphasis: they surely cannot harm.
+
+Alternatively: the seer of the hymn, Dīrghatamas, speaks of himself in the third person.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- ये पायवः (*ye pāyavaḥ*)—which guardian rays
+- मामतेयं (*māmateyaṃ*)—Dīrghatamas, son of Mamatā (the darkness of ignorance)
+- अंधं पश्यंतः (*aṃdhaṃ paśyaṃtaḥ*)—knowing "he is blind"
+- दुरितात् (*duritāt*)—from the affliction (of darkness)
+- अरक्षन् (*arakṣan*)—protected
+- तान् सुकृतः (*tān sukṛtaḥ*)—those rays, makers of happiness
+- विश्ववेदाः (*viśvavedāḥ*)—the one who knows everything
+- ररक्ष (*rarakṣa*)—protects (if we too protect thus)
+- दिप्संतः (*dipsaṃtaḥ*)—wishing to harm (us)
+- रिपवः (*ripavaḥ*)—enemies (in the form of desire and the like)
+- नाह देभुः (*nāha debhuḥ*)—surely cannot harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those guardian rays of yours, knowing of Dīrghatamas, the son of Mamatā, "this one is blind", out of compassion protected him from the affliction of darkness. One who knows all those happiness-giving rays protects himself; if we too protect ourselves thus, the enemies who wish to harm us surely cannot harm us.
+
+### Printed p. 413
+
+##### Printed English
+
+Your fostering (rays), Agni, beholding the blind son of Mamata, relieved him of the affliction : he who knows all things protects the pious, and (their) malevolent enemies are unable to do them harm.
+
+##### विशेषविषयगळु (Special Topics)
+
+In मामतेयं अंधं पश्यंतः दुरितात् अरक्षन् (*māmateyaṃ aṃdhaṃ paśyaṃtaḥ duritāt arakṣan*) the protecting nature of Agni's rays is praised: seeing Dīrghatamas, son of Mamatā, as blind, out of compassion they saved him from that distress. Here Sāyaṇa has told the earlier story of this occasion as follows.
+
+अत्रेतिहासमाचक्षते । उचथ्यबृहस्पतिनामानौ द्वावृषी अस्तां । तत्रोचथ्यस्य ममता नाम भार्या । सा च गर्भिणी । तां बृहस्पतिर्गृहीश्वारमयत् । शुक्रनिर्गमनावसरे प्राप्ते गर्भस्य रेतः प्रावादीत् । हे मुने रेतो मा त्याक्षी पूर्वमहं वसामि रेतःसंकरं मा कार्षिरिति । एवमुक्तो बृहस्पतिर्बलात्पतिरुद्धरेतस्कः सन् शशाप । हे गर्भ त्वं यतो रेतोनिरोध मकरोः अतस्त्वं दीर्घं तमः प्राप्पुहि जात्यंधो भवेति । एवं शप्नो ममतायां दीर्घतमा अजायत । स चोत्पन्नस्तमोव्यथयाग्निमस्तौषीत् । स च स्तुत्या प्रीत आंध्यं पर्यहरदिति । तदिदमत्तोच्यते । (*atretihāsamācakṣate | ucathyabṛhaspatināmānau dvāvṛṣī astāṃ | tatrocathyasya mamatā nāma bhāryā | sā ca garbhiṇī | tāṃ bṛhaspatirgṛhīśvāramayat | śukranirgamanāvasare prāpte garbhasya retaḥ prāvādīt | he mune reto mā tyākṣī pūrvamahaṃ vasāmi retaḥsaṃkaraṃ mā kārṣiriti | evamukto bṛhaspatirbalātpatiruddharetaskaḥ san śaśāpa | he garbha tvaṃ yato retonirodha makaroḥ atastvaṃ dīrghaṃ tamaḥ prāppuhi jātyaṃdho bhaveti | evaṃ śapno mamatāyāṃ dīrghatamā ajāyata | sa cotpannastamovyathayāgnimastauṣīt | sa ca stutyā prīta āṃdhyaṃ paryaharaditi | tadidamattocyate |*)
+
+There were two sages, Ucathya and Bṛhaspati. When Mamatā, Ucathya's wife, was pregnant, Bṛhaspati seized her by force and had intercourse with her. At the time of the emission of seed, the child within said: "O sage, I have been here from before; please hold back your seed." Enraged at this obstruction, Bṛhaspati cursed it to be born blind, placed in long darkness. Accordingly a son named Dīrghatamas (a name that fits its meaning) was born to Mamatā. As soon as he was born, tormented by darkness, he praised Agni. Agni, pleased with the praise, destroyed his blindness; that occasion is indicated here.
+
+The authors of the Bṛhaddevatā tell the same story thus:
+
+द्वावुचथ्यबृहस्पती ऋषिपुत्रौ बभूवतुः । आसीदुचथ्यभार्या तु ममता नाम भार्गवी ॥ (*dvāvucathyabṛhaspatī ṛṣiputrau babhūvatuḥ | āsīducathyabhāryā tu mamatā nāma bhārgavī ‖*)
+
+### Printed p. 414
+
+तां कनीयान्बृहस्पतिर्मैथुनायोपचक्रमे । शुक्रस्योत्सर्गकाले तु गर्भस्तं प्रत्यभाषत ॥ (*tāṃ kanīyānbṛhaspatirmaithunāyopacakrame | śukrasyotsargakāle tu garbhastaṃ pratyabhāṣata ‖*)
+इहास्मि पूर्वसंभूतो न कार्यः शुक्रसंकरः । तच्छु क्रप्रतिषेधं तु न ममर्ष बृहस्पतिः ॥ (*ihāsmi pūrvasaṃbhūto na kāryaḥ śukrasaṃkaraḥ | tacchu krapratiṣedhaṃ tu na mamarṣa bṛhaspatiḥ ‖*)
+स व्यजहार तं गर्भं तमस्ते दीर्घमस्ति । स च दीर्घतमा नाम बभूवर्षिरुचथ्यजः ॥ (*sa vyajahāra taṃ garbhaṃ tamaste dīrghamasti | sa ca dīrghatamā nāma babhūvarṣirucathyajaḥ ‖*)
+स जातोऽभ्यतपद्देवानकस्मादंधतां गतः । ददुर्देवास्तु तन्नेत्रे ततोऽनंधो बभूव सः ॥ (*sa jāto 'bhyatapaddevānakasmādaṃdhatāṃ gataḥ | dadurdevāstu tannetre tato 'naṃdho babhūva saḥ ‖*)
+स वेदिषद इत्यसौच्चतुर्भिर्जातवेदसं । (*sa vediṣada ityasauccaturbhirjātavedasaṃ |*) (Bṛ. De. 4-11-16)
+
+In this story Bṛhaspati and Ucathya are said to be brothers. And in Sāyaṇa's account Dīrghatamas praised Agni, whereas here it is said that he praised the gods and that those gods gave him eyes. This is the narrative occasion of मामतेयं दुरितादरक्षन् (*māmateyaṃ duritādarakṣan*).
+
+Concerning this hymn the scholar Oldenberg says as follows.
+
+Dirghatamas, the son of Mamata. is the reputed author of this section of the first Mandala which belongs indeed to a family of priests claiming descent from him. The story of the blindness of Dirghatamas and of the distress into which he fell is told in the Mahabharata I-4179 Seq.
+Considering the construction of the whole verse from the grammatical point of view only, one will scarcely be tempted to translate otherwise than we have done. But it is rather strange that Agni is represented here as saving those very guardians by the aid of whom he has saved Mamateya. The meaning which one should expect to find expressed, is rather that Agni, as he saved Mamateya by his guardians, has saved also and will save, all pious worshippers. This meaning may be established if we consider the construction of the verse as similar to that of I—37-12.
+Thus, we may, I believe, translate here, " Agni, with such guardians as thine who have seen and saved the blind son of Mamata from distress, he, the possessor of all wealth (i.e. Agni) has saved all those who have done good deeds ".
+( The Vedic Hymns. P. 171-2 )
+
+दुरितात् (*duritāt*)—The Nirukta authors explain the word दुरित (*durita*) as going to a bad state (Ni. 6-12). And
+
+### Printed p. 415
+
+having cited the śruti text वैश्वदेवी सूनृतामारभध्वं शुद्धा भवंतो यज्ञियासः पावकाः । अतिक्रामंतो दुरितानि विश्वा शतं हिमाः सर्ववीरा मदेम ॥ (*vaiśvadevī sūnṛtāmārabhadhvaṃ śuddhā bhavaṃto yajñiyāsaḥ pāvakāḥ | atikrāmaṃto duritāni viśvā śataṃ himāḥ sarvavīrā madema ‖*) they have explained the meaning of the word दुरित (*durita*). Durgācārya, commenting on this, says दुरितानि—दुर्गतिप्रापकाणि कर्माणि । (*duritāni—durgatiprāpakāṇi karmāṇi |*), that is, actions that bring one to a bad state and serve as the means of suffering.
+
+दिप्संतः—दंभितुमिच्छंतः रिपवः कामादयः । (*dipsaṃtaḥ—daṃbhitumicchaṃtaḥ ripavaḥ kāmādayaḥ |*) The meaning is: enemies such as desire, who wish to harm us.
+
+##### Grammar
+
+- पायवः — पा रक्षणे धातुः । कृवासा—(उ. सू. १-१) इति उण् प्रत्ययः । आतो युक्‌चिण् कृतोः (पा. सू. ७-३-३३) इति धातोर्युकागमः । पायुशब्दो भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- मामतेयम् — ममतायाः अपत्यं पुमान् मामतेयः । स्त्रीभ्यो ढक् (पा. सू. ४-१-१२०) इति अपत्यार्थे ढक् प्रत्ययः । आयनेयी - (पा. सू. ७-१-२) इति एयादेशः । यस्येति च इति आकारस्य लोपः । किति च (पा. सू. ७-२-११८) इति आदिवृद्धिः । द्वितीया-एकवचनांतरूपम् ।
+- पश्यंतः — दृशिर् प्रेक्षणे धातुः । लट् आगते तस्य शत्रादेशः । शप् विकरणे आगते धातोः पश्यादेशः । लसार्वधातुकस्य अनुदात्तत्वाद्धातुस्वरो अवतिष्ठते । प्रथमाबहुवचने उगित्त्वान्नुमागमः ।
+- दुरितात् — दुर् उपसर्गः । इण् गतौ । क्तप्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति । पंचमीएकवचनांतरूपम् ।
+- अरक्षन् — रक्ष पालने धातुः । लज् प्रथमपुरुषएकवचनांतरूपम् । यच्छब्दसंबंधस्य विद्यमानत्वान्निघातस्वरप्रतिषेधो भवति । अडागमस्य उदात्तत्वादाद्युदात्तो भवति ।
+- ररक्ष — पूर्वोक्तस्य धातोर्लिट् प्रथमपुरुष एकवचनांतरूपम् । पादादित्वान्निघातस्वरो न भवति । णल् लित्त्वात् लिति (पा. सू ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरो भवति ।
+- सुकृतः — शोभनं कुर्वंति इति सुकृतः । दुकृञ् करणे धातुः । क्विप् प्रत्ययः । ह्रस्वस्य पिति कृति तुक् (पा.सू. ६-१-७१) इति तुकागमः । कृदुत्तरपदप्रकृतिस्वरो भवति । द्वितीयाबहुवचनांतरूपम् ।
+
+### Printed p. 416
+
+##### Grammar
+
+- विश्ववेदाः — विद ज्ञाने धातुः । गतिकारकोपपदयोः पूर्वपदप्रकृतिस्वरत्वंच (उ. सू. ४-६६६) इति असुन् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरस्य बाधकत्वेन पूर्वपदप्रकृतिस्वरो भवति । प्रत्ययनिमित्तत्वेन धातोर्लघूपधस्य गुणः ।
+- दिप्संतः — दंभु दंभने धातुः । धातोः कर्मणः—(पा. सू. ३-१-७) इति इच्छार्थे सन् । सन्यजोः इति द्वित्वम् । दंभ इच्च (पा. सू. ७-४-५६) इति धातोरित्वम् । हलंताच्च (पा सू. १-२१-०) इति सनः कित्त्वे आगते अनिदितांह—सूत्रेण धातोरुपधानकारस्य लोपः । अत्र लोपोऽभ्यासस्य (पा. सू. ७-४-५८) इति अभ्यासस्य लोपः । खरिच इति चर्त्वम् । सन्नंतात् लडर्थे शतृप्रत्ययः । सन् नित्त्वादित्यादिर्नित्यम् इत्याद्यदात्तस्वरो भवति । **NOTE**
+- देभुः — पूर्वोक्ताय धातवे लिट् प्रथमपुरुषबहुवचने उसादेशः । संयोगे सत्यपि श्रंथिग्रंथिदंभिस्वंजीनामिति वक्तव्यम् (का. १-१-६-२) इति प्रत्ययस्य कित्वातिदेशे आगते अनिदितां हल-इति धातोरुपधानकारस्य लोपः । इदसिद्धत्वादत एकहल्—(पा. सू. ६-४-१२०) इति एत्वाभ्यासलोपयोरप्राप्तौ दंभेश्चेतिवक्तव्यम् (पा. सू. ६-४-१२०-४) इति एत्वाभ्यासलोपौ भवतः । तिजंतनिघातस्वरो भवति ॥ ४ ॥
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ अग्ने॒ अर॑रिवा अघा॒युर॑राती॒वा म॒र्चय॑ति  ॒॑
+> द्वयेन ।  
+> मंत्रो॑ गु॒रुः पुन॑रस्तु॒ सो अ॑स्मा॒ अनु॑ मृक्षिष्ट त॒न्वं॑  ॒
+> दुरुक्कैः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । अग्ने । अररिऽवान् । अघयुः । अरातिवा । मर्चयति । द्वयेन ।  
+> मंत्रः । गुरुः । पुनः । अस्तु । सः । अस्मै । अनु । मृक्षीष्ट । तन्वं । दुःउक्तैः ॥२॥
+
+### Printed p. 417
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मान्युष्मद्रक्षितान् योऽघायुर्मारणादिरूपपापेच्छावान्
+> अररिवानदाता । अस्मद्दानप्रतिबंधक इत्यर्थः ॥ रातेश्दांदसस्य लिटः क्वसुः ॥ अरातीवा
+> स्वयमदानवान् ॥ छंदसि वनिपमिच्छंतीति मत्त्वर्थीयो वनिप् ॥ शत्रुत्वमाचरन्
+> यः शत्रुर्द्वयेन मानसवाचिकभेदेन द्विविधेन । न ददामिति मानसो मंत्रः ।
+> निंदाद्यारोपेण दाननिवारणं वाचिको मंत्रः । यद्वा । मायाहेतुकेन विरुद्धरूपेण द्विविधेन मंत्रेण । यो विरुद्धमाचरति तन्न सुकीर्तयति यच्च प्रियं
+> ब्रूते तन्न करोति अन्यत्करोत्यन्यद्वदतीत्येवं मंत्रस्वरूपद्वैविध्यं। पूर्वं मानसवाचिकभेदेन इदानीं वाचिककायिकभेदेनेति विवेकः । ईदृशेन मंत्रेण यः शत्रुर्मर्चयति भर्तृयति विधेयीकरोति वास्मान् । स मंत्रैकदेशो मानसरूपोऽस्मै पुनगुरुरस्तु ॥ षष्ठ ्यर्थे चतुर्थी ॥ प्रयोक्तुरेव पुनर्गरितास्तु । तथा
+> दुरुक्तैर्दुर्वाकैर्निंदारूपैर्वाचिकैस्तन्वं स्वकीयां तनुमनु मृक्षेष्ट । अनुमार्ष्टु । अनुक्रमेण लुंपतु । यद्वा । स द्विविधो मंत्रोऽस्मै प्रयोक्तुरेव
+> गुरुगरितास्तु । अन्यान्यस्यस्मन्नक्काराय प्रयुक्तानि निष्टुरभाषणानि संति । तैर्दुरुक्तैः सोऽरातिः स्वतनुमेवावलुंपतु । स्वात्मानमेवावृत्य दहत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, whichever enemy, protected as we are by you, is अघायुः (*aghāyuḥ*), desirous of sin in the form of killing and the like, and अररिवान् (*ararivān*), a non-giver, that is, one who obstructs giving to us; अरातीवा (*arātīvā*), himself a non-giver, and so acting as an enemy — he who with द्वयेन (*dvayena*), a twofold mantra, mental and vocal: the mental mantra is 'I will not give'; the vocal mantra is preventing giving by casting blame and the like."
+
+Alternatively: with a twofold mantra of contrary form, born of deceit. He who does what is contrary does not praise it; what he says pleasantly, he does not do; he does one thing and says another: such is the twofoldness of the mantra's nature. Before, it was by the distinction of mental and vocal; now it is by the distinction of vocal and bodily. With such a mantra whichever enemy मर्चयति (*marcayati*) — harms us, or makes us subject to him — may that part of the mantra which is mental in form become heavy अस्मै पुनः (*asmai punaḥ*) for him; the dative stands in the sense of the genitive; may it be a burden for the one who uses it. And likewise with दुरुक्तैः (*duruktaiḥ*), evil words, vocal and in the form of abuse, may he अनु मृक्षीष्ट (*anu mṛkṣīṣṭa*): wipe away, destroy gradually, his own body.
+
+Or else: may that twofold mantra be heavy for the user himself. The harsh words he has directed at others in order to insult them are there; with those evil words may that enemy destroy his own body, that is, enveloping his own self, may he burn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us (your devotees)
+- अघायुः (*aghāyuḥ*)—the most sinful one
+- अररिवान् (*ararivān*)—one who obstructs the giving of our oblation
+- अरातीवा (*arātīvā*)—one who himself too does not give **NOTE**
+- यः (*yaḥ*)—which enemy
+- द्वयेन (*dvayena*)—with twofold mantras, mental and vocal (or: one in the mind and, contrary to it, one in the mouth, mantras of two kinds)
+- मर्चयति (*marcayati*)—(us) blames and alarms
+- सः मंत्रः (*saḥ maṃtraḥ*)—his mantra in mental form
+- अस्मै पुनः (*asmai punaḥ*)—for him himself
+- गुरुः (*guruḥ*)—as a heavy burden
+- अस्तु (*astu*)—let it turn out (and likewise)
+- दुरुक्कैः (*durukkaiḥ*)—by evil words
+- तन्वं (*tanvaṃ*)—his own body
+- अनु मृक्षीष्ट (*anu mṛkṣīṣṭa*)—let him make himself burn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whichever enemy of us your devotees — the most sinful one, who obstructs the giving of our oblation and himself too does not give — blames and alarms us with evil mantras of two kinds, mental and vocal: may his mental mantra turn into a heavy burden for him himself, and likewise may he, by his evil words, cause his own body to burn.
+
 ---
 
-**Progress note:** Done through printed p. 410. pp. 405-
+**Progress note:** Done through printed p. 417. pp. 411-417 (batch API)
