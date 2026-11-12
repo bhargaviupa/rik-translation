@@ -14653,6 +14653,141 @@ it takes साधुः साधयिता (*sādhuḥ sādhayitā*) to mean
 Viniyoga: when there is an excess of soma at the third pressing, this is an optional yājyā. So it is laid down in the sūtra: त्वेषमित्था समरणं शिमावतोरिति वा याज्या । (*tveṣamitthā samaraṇaṃ śimāvatoriti vā yājyā |*) (Ā. 6-7).
 Sāyaṇa explains: O Indra and Viṣṇu, you are शिमावतोः (*śimāvatoḥ*), engaged in actions such as bestowing the desired. Your त्वेषं (*tveṣaṃ*), blazing, समरणं (*samaraṇaṃ*), going properly to the place of the sacrifice, is thus; the sacrificer, सुतपा (*sutapā*), who has drunk the soma left over from the offering, उरुष्यति (*uruṣyati*), protects, or honours with sacrifice. Or else: you are engaged in actions such as striking; your त्वेषं (*tveṣaṃ*), blazing, heroic समरणं (*samaraṇaṃ*), which is attended by a proper mutual meeting and takes the form of splitting the cloud for the bestowal of rain, the sacrificer उरुष्यति (*uruṣyati*), protects, that is, praises. Which of the two excels? To this he replies: you two, Indra and Viṣṇu, who for the mortal, the human sacrificer who gives the oblation, प्रतिधीयमानमित् (*pratidhīyamānamit*), what is to be set in return, that is, the fruit, असनां (*asanāṃ*), the moving, giving food and the like, you two उरुष्यथः (*uruṣyathaḥ*), keep it flowing without interruption, from कृशानोः (*kṛśānoḥ*), Agni, the opponent of the one who shoots or hurls the desired (the one who casts away enemies). That is, accepting the oblation offered into the fire, you will give the fruit also from that very mouth.
 
+### Printed p. 606
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu
+- या (*yā*)—you who
+- मर्त्याय (*martyāya*)—to the mortal sacrificer
+- प्रतिधीयमानमित् (*pratidhīyamānamit*)—that which must needs be received (in the form of the fruit of the sacrifice)
+- असनां (*asanāṃ*)—food and the like
+- अस्तुः (*astuḥ*)—of the one who distributes (the desired things) or drives away enemies
+- कृशानोः (*kṛśānoḥ*)—through Agni
+- उरुषथः (*uruṣathaḥ*)—you provide (continually); such
+- शिमीवतोः (*śimīvatoḥ*)—of those who have the works of granting desired things and the like, or the works of striking and the like
+- वां (*vāṃ*)—of you two
+- त्वेषं (*tveṣaṃ*)—the radiant, or the one accompanied by valour
+- समरणं (*samaraṇaṃ*)—the coming together
+- सुतपाः (*sutapāḥ*)—the sacrificer who has drunk the Soma juice (the remainder of the offering)
+- इत्या (*ityā*)—in this manner
+- उरुष्यति (*uruṣyati*)—worships
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, you always provide, to the mortal sacrificer, through Agni who distributes the desired things, the food and the like that must be received in the form of the fruit of the sacrifice. Thus the sacrificer who has drunk the Soma juice that remained after the oblation worships (honours) the radiant and united coming of you two, who have the works of granting desired things and the like.
+
+##### Printed English
+
+Indra and Vishnu, the devout worshipper glorifies the radiant approach of you two, who are the granters of desires, and who bestow upon the mortal who worships you an immediately-receivable (reward), through the distribution of that fire which is the scatterer (of desired blessings).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Third Pressing (tṛtīyasavana), when the homa called Somātireka is performed, this Ṛk may optionally be used as the yājyā mantra; this is set out in the sūtra of the Āśvalāyana Śrauta Sūtra त्वेषमित्था समरणं शिमीवतोरिति वा याज्या (*tveṣamitthā samaraṇaṃ śimīvatoriti vā yājyā*) (A. 6-7). **NOTE**
+
+कृशानोः—अग्नेः (*kṛśānoḥ—agneḥ*): "through Agni"; the word kṛśānu has been explained as meaning Agni. In the Ṛksaṃhitā this word is used as a synonym of Agni in this one Ṛk only. Although the name is used in four more places in the Ṛksaṃhitā, there is no reason there to take it as Agni; everywhere it is the name of a person called Kṛśānu. In the Vājasaneyi Saṃhitā, except for one passage (5-32), in no other Śruti text does the word kṛśānu appear to be used as a synonym of Agni. And that name is very well known in the Saṃhitās and also in the Brāhmaṇas and the like.
+
+### Printed p. 607
+Kṛśānu, the foremost among archers, is famed as a guardian of Soma. The story of how he pursued the falcon that was carrying off the Soma and cut its feather is told in the Ṛksaṃhitā thus:
+
+अव यच्छेनो अस्वनीवध द्योर्वि यद्यदि वात ऊहुः पुरंधिं । सृजद्यदस्मा अव ह क्षिपज्जां कृशानुरस्ता मनसा भुरण्यन् ॥ (*ava yaccheno asvanīvadha dyorvi yadyadi vāta ūhuḥ puraṃdhiṃ | sṛjadyadasmā ava ha kṣipajjāṃ kṛśānurastā manasā bhuraṇyan ‖*) (Ṛ. Saṃ. 4-27-3)
+
+The story is indicated that when all the Soma-guardians resisted the falcon that came from the heavenly world to carry off the Soma, Kṛśānu approached it with the speed of thought, shot his arrow at it and cut its feather. Likewise,
+
+स पूर्व्यः पवते यं दिवस्परि श्येनो मथायदिषितस्तिरो रजः । स मध्य आ युवते वेविजान इत्यृशानोरस्तुर्मनसाह बिभ्युषा ॥ (*sa pūrvyaḥ pavate yaṃ divaspari śyeno mathāyadiṣitastiro rajaḥ | sa madhya ā yuvate vevijāna ityṛśānorasturmanasāha bibhyuṣā ‖*) (Ṛ. Saṃ. 9-77-2)
+
+in this Ṛk too the same situation is indicated. In the Aitareya Brāhmaṇa this story is somewhat more elaborate and shows Kṛśānu's extraordinary power.
+
+ते देवा अब्रुवन्गायत्रीं त्वं न इमं सोमं राजानमाहरेति सा तथ्येत्यब्रवीत्तां वै मा सर्वेण स्वस्त्ययनेनानुमंत्रयध्वमिति तथेति सोदपतत्तां देवाः सर्वेण स्वस्त्ययनेनान्वमंत्रयंत प्रेति चेति चेत्येतद्वै सर्वं स्वस्त्ययनं यत्प्रेति चेति तद्योऽस्य प्रियः स्यात्तमेतेनानु मंत्रयेत प्रेति चेति चेति स्वस्त्यैव गच्छति स्वस्त्यॆ पुनरागच्छति । सा पतित्वा सोमपालान्फीषयित्वा पद्भ्यां च मुखेन च सोमं राजानं समगृभ्णाद्यानि चेतरे छंदसी अक्षराण्यजहितां तानि चोपसमगृभ्णात् । तस्या आनु विसृज्य कृशानुः सोमपालः सव्यस्य पदो नखमच्छिदत्तच्छल्यकोऽभवत्तस्मात्सनखमिव यद्वशमस्रवत्सा वशाभवत् । (*te devā abruvangāyatrīṃ tvaṃ na imaṃ somaṃ rājānamāhareti sā tathyetyabravīttāṃ vai mā sarveṇa svastyayanenānumaṃtrayadhvamiti tatheti sodapatattāṃ devāḥ sarveṇa svastyayanenānvamaṃtrayaṃta preti ceti cetyetadvai sarvaṃ svastyayanaṃ yatpreti ceti tadyo 'sya priyaḥ syāttametenānu maṃtrayeta preti ceti ceti svastyaiva gacchati svastyè punarāgacchati | sā patitvā somapālānphīṣayitvā padbhyāṃ ca mukhena ca somaṃ rājānaṃ samagṛbhṇādyāni cetare chaṃdasī akṣarāṇyajahitāṃ tāni copasamagṛbhṇāt | tasyā ānu visṛjya kṛśānuḥ somapālaḥ savyasya pado nakhamacchidattacchalyako 'bhavattasmātsanakhamiva yadvaśamasravatsā vaśābhavat |*) (Ai. Brā. 3-26)
+
+It is described that the gods told Gāyatrī to bring away King Soma, spoke a blessing of safe passage (svastyayana) over her and sent her off, wishing her to return quickly; Gāyatrī in the form of a falcon descended to the earth and frightened the Soma-guardians, whereupon Kṛśānu cut off its nail with his arrow.
+
+That in all the other places the word kṛśānu is a personal name, and that only in the present Ṛk it is a synonym of Agni, is not so very unnatural, may be understood from the basis of other Śruti texts.
+
+### Printed p. 608
+One may note the sentence in the Taittirīya Saṃhitā that teaches the identity "Agni himself is Kṛśānu". In the Śatapatha Brāhmaṇa:
+
+अथ सोमक्रयणाननुदिशति । स्नान भ्राजांघारे बंभारे हस्त सुहस्त कृशान वेते वः सोमक्रयणास्तान्नक्षध्वं मा वो दभन्निति धिष्ण्यानां वा एते भाजनेनैतानि वै धिष्ण्यानां नामानि तान्न्येवैभ्य एदन्वदिक्षत् । (*atha somakrayaṇānanudiśati | snāna bhrājāṃghāre baṃbhāre hasta suhasta kṛśāna vete vaḥ somakrayaṇāstānnakṣadhvaṃ mā vo dabhanniti dhiṣṇyānāṃ vā ete bhājanenaitāni vai dhiṣṇyānāṃ nāmāni tānnyevaibhya edanvadikṣat |*) (Pa. Bo. 3-2-6-1) **NOTE**
+
+In this passage it is indicated that Snāna, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu are Soma-guardians. **NOTE**. In the Taittirīya Saṃhitā also,
+
+.... .... ज्योतिस्सोमविक्रयिणि तमोमित्रोन ऐहि सुमित्रधा इंद्रस्योरुमा विश दक्षिणमुशन्नुशंतग्स् सोन्यसस्योनग्स् स्नानभ्राजांघारे बंभारे हस्त सुहस्त कृशानवेते वस्सोमक्रयणास्तान्नक्षध्वं मा वो दभन् । (*.... .... jyotissomavikrayiṇi tamomitrona aihi sumitradhā iṃdrasyorumā viśa dakṣiṇamuśannuśaṃtags sonyasasyonags snānabhrājāṃghāre baṃbhāre hasta suhasta kṛśānavete vassomakrayaṇāstānnakṣadhvaṃ mā vo dabhan |*) (Kṛ. Saṃ. 1-2-7) **NOTE**
+
+In these sentences it is said that those named above, Sthāna (sic), Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu, are the vigilant protectors of Soma, and afterwards,
+
+विभूरसि प्रवाहणो वह्निरसि हव्यवाहनश्वात्रोऽसि प्रचेतास्तुथोऽसि विश्ववेदा उशिगसि कविरंघारिरसि बंभारिववस्युरसि दुवस्वाञ्चन्युरसि मार्जालीयस्सम्राडसि कृशानुः परिषद्योऽसि पवमानः प्रतक्वासि नभस्वानसंमृष्टोऽसि हव्यसूद ऋतधामासि सुवर्ज्योतिर्ब्रह्मज्योतिरसि सुवर्धामाजोऽस्येकपादहिरसि बुद्धियो रौद्रेणानीकेन पाहि माग्ने पिपृहि मा मा मा हिग्ंसीः ॥ (*vibhūrasi pravāhaṇo vahnirasi havyavāhanaśvātro 'si pracetāstutho 'si viśvavedā uśigasi kaviraṃghārirasi baṃbhārivavasyurasi duvasvāñcanyurasi mārjālīyassamrāḍasi kṛśānuḥ pariṣadyo 'si pavamānaḥ pratakvāsi nabhasvānasaṃmṛṣṭo 'si havyasūda ṛtadhāmāsi suvarjyotirbrahmajyotirasi suvardhāmājo 'syekapādahirasi buddhiyo raudreṇānīkena pāhi māgne pipṛhi mā mā mā higṃsīḥ ‖*) (Tai. Saṃ. 1-3-3)
+
+Here Agni is addressed and entreated: "Aṅghāri, Baṃbhāri, Kṛśānu and all the rest, you yourself are." Moreover, in the Śatapatha Brāhmaṇa passage quoted above it is stated that Kṛśānu and the other Soma-guardians are धिष्ण्यानां नामानि (*dhiṣṇyānāṃ nāmāni*), names of the Agni-hearths (agnivedi) (Śa. Brā. 3-3-3-1). Therefore it is understood, on the basis of some sentences, that Kṛśānu and Agni are identical. In the Ṛksaṃhitā too, one may notice that the very epithets connected with the word kṛśānu in the present Ṛk are used also in other Ṛks in which this name occurs. For example—
+
+### Printed p. 609
+त्रिः सप्त सस्रा नद्यो महीरपो वनस्पतीन् पर्वता अग्निमूतये । कृशानुमस्तान् तिष्यं सदस्य आ रुद्रं रुद्रेषु रुद्रियं हवामहे ॥ (*triḥ sapta sasrā nadyo mahīrapo vanaspatīn parvatā agnimūtaye | kṛśānumastān tiṣyaṃ sadasya ā rudraṃ rudreṣu rudriyaṃ havāmahe ‖*) (Ṛ. Saṃ. 10-64-8)
+
+In this Ṛk the words kṛśānu and agni stand as qualified and qualifier. And just as in the Ṛk 9-77-2 quoted above the usage is अस्तुः कृशानोः (*astuḥ kṛśānoḥ*), and in Ṛk 4-27-3 अस्ता कृशानुः (*astā kṛśānuḥ*), so also in the present Ṛk there are the qualifier and qualified अस्तुः कृशानोः (*astuḥ kṛśānoḥ*). As in the quoted Ṛks the word astu is meant to be "one who hurls an arrow and harms the enemy", so in the present Ṛk too अस्तुः (*astuḥ*), "निरसितुः शत्रूणां (*nirasituḥ śatrūṇāṃ*)", is understood as the destroyer of enemies.
+
+असनां—आसनं चलनशीलं प्रदानशीलमन्नादिकं (*asanāṃ—āsanaṃ calanaśīlaṃ pradānaśīlamannādikaṃ*): Sāyaṇa explains that since food and the like have the nature of moving from the giver and going to the receiver, they are called asana. In the Ṛk
+
+पुरूणि दस्मो नि रिणाति जंभैराद्रोचते वन आ विभावा । आदस्य वातो अनु वाति शोचिरस्तुर्न शर्यामसनामनु द्यून् ॥ (*purūṇi dasmo ni riṇāti jaṃbhairādrocate vana ā vibhāvā | ādasya vāto anu vāti śocirasturna śaryāmasanāmanu dyūn ‖*) (Ṛ. Saṃ. 1-148-4)
+
+it is an epithet of the arrow that moves (**NOTE**).
+
+उरुष्यति (*uruṣyati*)—उरुष्यती रक्षाकर्म (*uruṣyatī rakṣākarma*) (Ni. 5-23): the meaning is "protects". The author of the Nirukta, quoting the Ṛk
+
+स नो बोधि श्रुधी हवमुरुष्माणो अघायतः समस्मात् (*sa no bodhi śrudhī havamuruṣmāṇo aghāyataḥ samasmāt*) (Ṛ. Saṃ. 5-24-3)
+
+shows the meaning "protect us (naḥ) from all who wish us harm". But in the present Ṛk this word occurs twice. Sāyaṇa explains the first, उरुष्यति—रक्षति । यागेन पूजयति (*uruṣyati—rakṣati | yāgena pūjayati*) or स्तौति (*stauti*), as "worships by sacrifice" or "praises"; and the second, उरुष्यथः प्रेरयथः (*uruṣyathaḥ prerayathaḥ*), as "protect us, providing us food without interruption".
+
+शिमीवतः—शिमीति कर्मनाम । शमयतेर्वा शक्नोतेर्वा (*śimīvataḥ—śimīti karmanāma | śamayatervā śaknotervā*) (Ni. 5-12). The word is formed either from the root śam, giving the meaning "toil" or "exert oneself", or from the root śak, giving the meaning "be able", and means "work".
+
+आपांतमन्युस्तृपलप्रभर्मा धुनिः शिमीनाञ्छरुमा ऋजीषी । सोमो विश्वान्यतसा वनानि नार्वागिंद्रं प्रतिमानानि देभुः ॥ (*āpāṃtamanyustṛpalaprabharmā dhuniḥ śimīnāñcharumā ṛjīṣī | somo viśvānyatasā vanāni nārvāgiṃdraṃ pratimānāni debhuḥ ‖*) (Ṛ. Saṃ. 10-89-5)
+
+### Printed p. 610
+Just as in such Ṛks śamīvān has the meaning "endowed with work", the same meaning is to be given in the present Ṛk also: Indra and Viṣṇu are always engaged in works such as protecting the world.
+
+##### Grammar
+
+- त्वेषम्—त्विष दीप्तौ धातुः । नंदिग्रहिपचा—(पा. सू. ३-१-१३४) इति अच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरः भवति । प्रत्ययनिमित्तं लघूपधगुणः ।
+- समरणम्—ऋ गौ धातुः । ल्युट् प्रत्ययः । तन्निमित्तं धातोर्गुणः । रपरत्वं भवति । लिति (पा. सू. ६-१-१९३) इति प्रत्ययस्य पूर्वमुदात्तस्वरः भवति । प्रादिसमासे कृमत्तपदप्रकृतिस्वरः भवति ।
+- इंद्राविष्णू—इंद्रश्च विष्णुश्च इंद्राविष्णू । देवताद्वंद्वे च (पा.सू. ६-३-२६) इति पूर्वपदस्य अनज् । देवत्वादंद्वे च (पा. सू. ६-२-१४१) इति उभयपदप्रकृतिस्वरः भवति । **NOTE**
+- सुतपाः—षुञ् अभिषवे धातुः । क्त प्रत्ययः । सुतं पिबति इति सुतपाः । पा पासे धातुः । क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- उरुष्यति—उरुष्य धातुः रक्षणार्थे प्रयुक्तः । लट् प्रथमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- प्रतिधीयमानम्—डुधाण् धारणपोषणयोः धातुः । कर्मणि लटः शानचादेशः । सार्वधातुके यक् (पा. सू. ३-१-६७) इति यक् । घुमास्थागापाज—(पा. सू. ६-४-६६) इति धातोरीत्वम् । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । तास्यनुदात्तेत्—(पा. सू ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् यक्स्वरः अवशिष्यते । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- कृशानोः—कृश तनूकरणे धातुः । ऋन्यञ्चिवन्य—(उ. सू. ४.४४२) इति आनुक् प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- अस्तुः—असु क्षेपणे धातुः । कर्तरि तृन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । पंचमीएकवचनांतरूपम् ।
+- असनाम्—पूर्वोक्तधातोः युच् प्रत्ययः । युवोरनाक् ( पा. सू. ७-१-१ ) इति अनादेशः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+
+### Printed p. 611
+- उरुष्यथः—लट् मध्यमपुरुष द्विपचनांतरूपम् । यद्योगात् निघातस्वरः न भवति । धातुस्वरः अवशिष्यते । **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता ईं॑ वर्धंति॒ मह्य॑स्य॒ पौंस्यं॒ नि मा॒तरा॑ नयति॒ रेत॑से  ॒
+> भुजे ।  
+> दधा॑ति पु॒त्रोऽव॑रं॒ परं॑ पि॒तुर्नाम॑ तृ॒तीय॒मधि॑ रोच॒ने  ॒
+> दिवः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । ईं । वर्धंति । महि । अस्य । पौंस्यं । नि । मातरा । नयति । रेतसे । भुजे ।  
+> दधाति । पुत्रः । अवरं । परं । पितुः । नाम । तृतीयं । अधि । रोचने । दिवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ताः सोमरूपाः प्रसिद्धा आहुतयो यजमानेन हुता ईमेतदस्येंद्रस्य
+> महि महत्पौंस्यं पुंसः कर्म वक्ष्यमाणरूपं बलं वर्धंति । वर्धयंति । ईमित्यनर्थको वा । स चेंद्रः सोमपानजनितं सामर्थ्यं मातरा द्यावापृथिव्यौ नि
+> नयति । नितरां प्रापयति । किमर्थं । रेतसे प्राणिनां पुत्राद्युत्पादनसामर्थ्याय
+> भुजे तेषां भोगाय रक्षणाय वा। कुत्रेति तदुच्यते । दिवो द्योतमानस्यादित्यस्याध्यधिकं रोचने रोचमाने मंडले । नाम नमनं द्यावापृथिव्योः स्थापितं
+> सामर्थ्यं पुत्रः पुरुत्राता सर्वो जनः पितुः पालकाद्विष्णूरनुग्रहात् । यद्वा ।
+> पितुः स्वोत्पादकत्वात्त्वयमुत्पन्नं सत् अवरं निकृष्टं नाम पौत्रसंज्ञं परं
+> तदुत्कृष्टं पुत्र इति नाम तदुभयापेक्षया तृतीयं पितेति नाम धधाति । धारयति । त्रीणि नाव रेतसिंसि पिता पुत्रः पौत्रः ॥ तै- सं. ५-६-८-४. । इति श्रुतेः ।
+> अस्यायमर्थः । अग्नौ हुताः सोमाहुतय आदित्यमंडलं प्राप्य द्वादशात्मनः
+> सवितुर्मूर्त्यंतराविंद्राविष्णू पोषयंति । तुष्टौ तौ मेघद्वारा वर्षतः । तया
+
+##### Gist of the bhāṣya
+
+Those well-known Soma-form oblations offered by the sacrificer increase (वर्धंति (*vardhaṃti*) = वर्धयंति (*vardhayaṃti*)) this Indra's great पौंस्यं (*pauṃsyaṃ*), that is, the manly deed, strength of the kind to be described. Or else ईं (*īṃ*) is without meaning. That Indra brings (नि नयति (*ni nayati*), "brings fully") the capacity born of Soma-drinking to Heaven and Earth (मातरा (*mātarā*)). For what purpose? रेतसे (*retase*): for the capacity of living beings to beget sons and the like; भुजे (*bhuje*): for their enjoyment or their protection. Where? It is said: अधि (*adhi*) (above) the shining (रोचने (*rocane*)) orb of the radiant (दिवः (*divaḥ*)) sun. नाम (*nāma*) is नमनं (*namanaṃ*), the capacity established in Heaven and Earth; the पुत्रः (*putraḥ*) is the protector of many (पुरुत्राता (*purutrātā*)), every person, by the grace of the father, the protector Viṣṇu. Or else: because of being the begetter of himself, the father holds (दधाति (*dadhāti*) = धारयति (*dhārayati*)) the lower name, called "grandson", which has itself arisen; the higher name "son"; and, in relation to both, the third name "father". For the Śruti says त्रीणि नाव रेतसिंसि पिता पुत्रः पौत्रः (*trīṇi nāva retasiṃsi pitā putraḥ pautraḥ*) (Tai. Saṃ. 5-6-8-4). The meaning of this is: the Soma oblations offered in the fire reach the orb of the sun and nourish Indra and Viṣṇu, the other forms of Savitṛ who has twelve forms; pleased, the two rain through the clouds. (The block breaks off here, at तया (*tayā*).)
+
 ---
 
-**Progress note:** Done through printed p. 605. pp. 600-605 (batch API)
+**Progress note:** Done through printed p. 611. pp. 606-611 (batch API)
