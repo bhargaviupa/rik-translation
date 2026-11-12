@@ -13042,6 +13042,147 @@ having cited the Ṛk कनीनकेव विद्रधे नवे द�
 > अनश्वः । जातः । अनभीशुः । अर्वा । कनिक्रदत् । पतयत् । ऊर्ध्व ऽ सानुः ।  
 > अचित्तं । ब्रह्म । जुजुषुः । युवानः । प्र । मित्रे । धाम । वरुणे । गृणंतः ॥ ५ ॥
 
+### Printed p. 533
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स एवादित्यो 5 नश्वो यद्यपि शीघ्रगाम्यश्वरहितः तथानभीशुरालंबनाधारप्रग्रहस्थानीयरत्मिरहितः तथाप्यर्वा जातः शीघ्रगमनवान् संपन्नः । तथाविधो 5 यमादित्यः कनिक्रददत्यर्थं क्रंदयन् ॥ क्रंदेर्यज्लुगंताच्छतरि दाधत्यादौ निपात्यते ii ऊर्ध्वसानुरुपर्युपरि समुच्छयणः सन् पतयत् । गच्छति । अचित्तं
+> चित्ताविषयं ब्रह्म परिवृढमुक्तरूपं कर्म मित्रे वरुणे च उभयोर्धाम
+> तेजःस्थानं युवानो मिश्रयंतस्तयोर्धाम्न्यारोपयंतः तथा प्र गृणंतो
+> युवयोस्तेजः प्रभवमिति प्रकर्षेण स्तुवंतो जुजुषुः । सेवंते । मनुष्याः
+> सूर्यस्य निरालंबांतरिक्षसंचारात्मकं कर्म वरुणमित्रयोरधीनमिति स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The same Āditya is अनश्वः (*anaśvaḥ*), without a horse, that is, without a swift-going horse. He is also अनभीशुः (*anabhīśuḥ*), without rays that stand in the place of the reins, the support and the bridle. Even so he is अर्वा जातः (*arvā jātaḥ*), he has become swift-moving. Being such, this Āditya is कनिक्रदत् (*kanikradat*), causing exceedingly loud cries. Being ऊर्ध्वसानुः (*ūrdhvasānuḥ*), ever rising higher and higher, he पतयत् (*patayat*), goes. अचित्तं (*acittaṃ*) means not an object of thought; ब्रह्म (*brahma*) is the rite of the kind called "grown" (parivṛḍha). The sacrificers are युवानः (*yuvānaḥ*), mixing, that is, placing this rite in the धाम (*dhāma*), the seat of radiance, of both Mitra and Varuṇa. They are also प्र गृणंतः (*pra gṛṇaṃtaḥ*), praising it highly as "this is born of your radiance", and so they जुजुषुः (*jujuṣuḥ*), serve. The meaning is that men praise the sun's action of travelling through the supportless atmosphere as dependent on Varuṇa and Mitra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनश्वः (*anaśvaḥ*)—(Āditya) being without horses
+- अनभीशुः (*anabhīśuḥ*)—and without rays serving as a support, like a bridle (even so)
+- अर्वा जातः (*arvā jātaḥ*)—and moving swiftly
+- कनिक्रदत् (*kanikradat*)—making a loud sound
+- ऊर्ध्वसानुः (*ūrdhvasānuḥ*)—ascending higher and higher
+- पतयत् (*patayat*)—travels
+- अचित्तं (*acittaṃ*)—possessed of a hidden truth that does not come within the mind's range
+- ब्रह्म (*brahma*)—the sacrificial rite
+- मित्रे वरुणे (*mitre varuṇe*)—of Mitra and Varuṇa
+- धाम (*dhāma*)—together with the dwelling-place of radiant form
+- युवानः (*yuvānaḥ*)—uniting
+- प्र गृणंतः (*pra gṛṇaṃtaḥ*)—praising (that all this is the power of Mitra and Varuṇa)
+- जुजुषुः (*jujuṣuḥ*)—(men) serve
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya, though without horses and without rays serving as a support like a bridle, nevertheless moves swiftly, sounding loudly, ascending higher and higher. Men unite the sacrificial rite, whose truth is hidden and beyond the reach of the mind, with this Āditya, the radiant dwelling-place of Mitra and Varuṇa. Praising that all this is the power of Mitra and Varuṇa, they serve these two.
+
+##### Printed English
+
+Without steeds, without stay, (he is nevertheless) borne swift-moving and loud-sounding; he travels, ascending higher and higher, connecting, the inconceivable mystery (of sacred rites) with the radiance (abiding) in Mitra and Varuna, (which men), eulogizing, glorify.
+
+### Printed p. 534
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes Āditya. Epithets such as अनश्वः (*anaśvaḥ*) make known the nature of Āditya. There is also the praise that Āditya's greatness, and the benefits he has conferred on the world, come only from the power of Mitra and Varuṇa. The opinion given about this Ṛk by the scholar Bloomfield is as follows. He first cites the Ṛk, which begins with the same sequence of words as the first half of this one:
+अनश्वो जातो अनभीशुरुक्त्यो३ रथस्त्रिचक्रः परि वर्तते रजः । महत्तद्वो देव्यस्य प्रवाचनं द्यामृभवः पृथिवीं यच्च पुष्यथ ॥ (*anaśvo jāto anabhīśuruktyo3 rathastricakraḥ pari vartate rajaḥ | mahattadvo devyasya pravācanaṃ dyāmṛbhavaḥ pṛthivīṃ yacca puṣyatha ‖*) (Ṛ. Saṃ. 4-36-1)
+and describes the similarity between the two Ṛks thus:
+These two stanzas seem to me to offer a clear case of relative date. In IV. 36-1 The Ribhus are said to have fashioned a chariot, fit to be praised in hymns, because withont horse and bridle it courses with three wheels about the air. Because it is three-wheeled it seems to be the chariot of the Asvins. (cf. I. 120-10) That sort of a Vehicle is, the lord knows, marvellous enough, but it will readily pass in the light of mythic fancies and ethnological parellels elsewhere. Similarly in VI. 66-7, the Maruts are described along the same line of fancy, even more energetically, as crossing the air without span of deer or horses, without charioteer and without bridle. In I. 152-5, the mystery is heightened to the second power, as it were.
+Any attempt to extract a picture with clear outline out of I- 152-5, will prove quite futile. The Pada is built by a secondary Poetaster upon the previously existing Pada of IV- 36-1, he 'goes' his model 'one better' and loses himself in mock mythic fatuity— one of the standard failings of his class. Something like "the steed, which is after all no horse, and goes without bridle"; or, 'the steed which is born of no horse' Etc.
+(Rig-Veda Repetitions Vol. I P. 146-147)
+Both in the Ṛk 4-36-1 cited above (the Kannada prints "VI. 36-1") and in
+अनेनो वो मरुतो यामो अस्त्वनश्वश्चिद्यमजत्यरथीः । अनवसो अनभीशू रजस्तूर्वि रोदसी पथ्या याति साधन् ॥ (*aneno vo maruto yāmo astvanaśvaścidyamajatyarathīḥ | anavaso anabhīśū rajastūrvi rodasī pathyā yāti sādhan ‖*) (Ṛ. Saṃ. 6-66-_)
+
+### Printed p. 535
+
+the ideas described there are not expressed in the present Ṛk's description in so excellent a manner, and the description too does not belong to so fine a class. The chief substance of this opinion is that no precise picture comes to the mind from this description. Although there may be some truth in this opinion, it is not so poor as to justify saying, "any attempt to extract a picture with clear outline out of I. 152-5, will prove quite futile", that is, that no definite picture appears from this Ṛk's description.
+अचित्तं ब्रह्म मित्रावरुणे धाम युवानः (*acittaṃ brahma mitrāvaruṇe dhāma yuvānaḥ*)—in this description, "uniting the rite, whose truth is hidden and beyond the reach of the mind, with the radiant seat of Mitra and Varuṇa", a spiritual truth is stated. The seer himself has said that he speaks of a truth that is अचित्तं (*acittaṃ*), hidden and not visible to ordinary sight.
+ब्रह्म (*brahma*)—Of the various meanings of the word ब्रह्म (*brahma*) stated earlier, here it is taken to mean the sacrificial rite. In the Ṛk cited by the Nirukta-kāra,
+यामथर्वा मनुष्पिता दध्यज् धियमत्नत । तस्मिन् ब्रह्माणि पूर्वथेंद्र उक्षा समग्गतार्चन्ननु स्वराज्यं । (*yāmatharvā manuṣpitā dadhyaj dhiyamatnata | tasmin brahmāṇi pūrvatheṃdra ukṣā samaggatārcannanu svarājyaṃ |*) (Ṛ. Saṃ. 1-80-16)
+Yāska explains ब्रह्माणि (*brahmāṇi*) as कर्माणि (*karmāṇi*); so here too the meaning is the sacrificial rite.
+
+##### Grammar
+
+- अनश्वः — न विद्यंते अश्वाः यस्य सः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति । एवमेव न विद्यते अभीशुः इत्यत्रापि उत्तरपदांतोदात्तस्वरः भवति ।
+- जातः — जनी प्रादुर्भावे धातुः । निष्ठा प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- कनिक्रदत् — क्रदि आह्वाने रोदने च धातुः । अतिशयार्थे धातोरेकाचःक्रि (पा. सू. ३-१-२२) इति यज् आगते यजोचिच इति तस्य लुक् । यज्लुगंतस्य उपरि शतृ प्रत्यये विवक्षिते दाधर्तिदर्धर्ति- (पा. सू. ७-४-६५) इति निपातितः । अभ्यास्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
+- पतयत् — पतृगत् धातुः । चुरादिः । अदंतः धातुः । सत्यापपाश इति स्वार्थे णिच् । णिजंतस्य उपरि लेट् । प्रथमपुरुषएकवचने तिप् । इतश्च लोपः (पा. सू. ३-
+
+### Printed p. 536
+
+- पतयत् (continued) — ४-९७) इति इकारलोपः । लेटोडाटौ (वा. सू. ३-४-९४) इति तस्य अडागमः । शप्निमित्तं णिचः गुणः । अयादेशः । अलोपस्य स्थानिवद्भावत् णिच्निमित्ता उपधावृद्धिः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- ऊर्ध्वसानुः — बहुव्रीहिसमासः । बहुव्रीहौ प्रकृत्या- (पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- अचित्तम् — नञ्ञस्वरस्य बाधकत्वेन परादिश्चंदसि बहुलम् (पा. सू. ६-२-१९९) इति उत्तरपदाद्युदात्तस्वरः भवति ।
+- ब्रह्म — बृहि वृद्धौ धातुः । बृंहेनोच्च (उ सू ४-५८५) इति मसिन् प्रत्ययः । नुमागतस्य नकारस्य अत्वम् । नकारस्य आकारे आगते यणादेशः । नित् प्रत्ययत्वात् आद्युदात्तस्वरः भवति ।
+- जुजुषुः — जुषी प्रीतिसेवनयोः धातुः । छांदसत्वेन वर्तमानार्थे लिट् । प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- युवानः — यु मिश्रणे धातुः । व्यत्ययेन लडर्थे शानच् प्रत्ययः । अचिश्नुधातुभ्रुवां इति उवङादेशः । वृषादिपठितत्वात् आद्युदात्तस्वरः भवति ।
+- गृणंतः — गृ शब्दे धातुः । क्र्यादिः । लडर्थे शतृप्रत्ययः । श्ना विकरणम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोः ह्रस्वः । श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति विकरणस्य आकारस्य लोपः । प्रत्ययस्य आद्युदात्तस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ धे॒नवो॑ मामते॒यमवं॑तीर्ब्रह्म॒प्रियं॑ पीपय॒न्तस्मि॒न्नूध॑न् ।  
+> पि॒त्वो भि॑क्षेत व॒युना॑नि वि॒द्वाना॒साविवा॑स॒न्नदि॑तिमुरुष्यत् ।  
+> ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धेनवः । मामतेयं । अवंतीः । ब्रह्मप्रियं । पीपयन् । सस्मिन् । ऊधन् ।
+
+### Printed p. 537
+
+> पित्वः । भिक्षेत । वयुनानि । विद्वान् । आसा । आ ऽ विवासन् । अदितिं । उरुष्येत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मामतेयं ममतायाः पुत्रं दीर्घतमसं मां ब्रह्मप्रियं परिवृढस्य
+> कर्मणः प्रियतमं परिवृढस्याग्नेः प्रीणयितारं नावंतीरवंत्यः प्रीणयंत्योधेनवो गावः सस्मिन् स्वकीय ऊधन्नूधस्या पीपयन् । सर्वत आप्याययंतु ॥
+> प्यायतेर्णिचि च्छांदसः पीभावः ॥ ऊधोगतेन क्षीरेण युवाभ्यां प्रदेयेन
+> नोऽस्मान्रक्षंतित्यर्थः मित्रावरुणाभ्यां पयस्यॆति श्रुते । एवं प्रदत्तहनिर्वयुनान्यनुष्ठानविषयज्ञानानि विद्वाञ्जनन् हुतशेषो भक्षणीय इत्यवगच्छन् दीर्घतमाः पित्वः पितोर्हुतशिष्टस्यान्नस्य तादृगन्नमासास्येन भक्षयितुं भिक्षेत । याचेत
+> युष्मान् । किंच विवासन् युवां परिचरन्नदितिमखंडितमन्यूनमेतत्कर्मोरुष्येत् । यथा शिष्टं भिक्षेत यथा च कर्म समासनेन रक्षेत् तथापीपयन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+मामतेयं (*māmateyaṃ*) is Dīrghatamas, the son of Mamatā, that is, "me". ब्रह्मप्रियं (*brahmapriyaṃ*) means one dearest to the rite called parivṛḍha, or one who pleases Agni, the parivṛḍha. May the धेनवः (*dhenavaḥ*), the cows, अवंतीः (*avaṃtīḥ*), that is, protecting and pleasing, आ पीपयन् (*ā pīpayan*), swell on every side सस्मिन् (*sasmin*) in their own ऊधन् (*ūdhan*), udder. The form पीपयन् (*pīpayan*) comes from the root प्याय (*pyāya*) with ṇic, with the Vedic substitution of पी (*pī*). The meaning is: "may they protect us with the milk in the udder that is to be given to you two"; compare the śruti "to Mitra and Varuṇa, with milk". Thus Dīrghatamas, विद्वान् (*vidvān*), knowing the वयुनानि (*vayunāni*), the knowledge concerning the performance, now that the oblation has been given, and understanding that the remnant of the offering is to be eaten, would भिक्षेत (*bhikṣeta*), ask of you that he be allowed to eat with his own mouth (आसा (*āsā*)) such पित्वः (*pitvaḥ*), food, the remnant of the oblation. Further, आ विवासन् (*ā vivāsan*), attending on you both, may he उरुष्येत् (*uruṣyet*) preserve this rite, अदितिं (*aditiṃ*), unbroken and undiminished. The meaning is that the cows should fill their udders so that he may ask for the remnant as is proper and may protect the rite by completing it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मप्रियं (*brahmapriyaṃ*)—one devoted to the sacrificial rite (or) one who satisfies Agni
+- मामतेयं (*māmateyaṃ*)—Dīrghatamas, the son of Mamatā
+- अवंतीः (*avaṃtīḥ*)—protecting and gladdening
+- धेनवः (*dhenavaḥ*)—the cows
+- सस्मिन् (*sasmin*)—in their own
+- ऊधन् (*ūdhan*)—udders
+- आ पीपयन् (*ā pīpayan*)—may they fill with milk (needed for the worship of Mitra and Varuṇa)
+- वयुनानि (*vayunāni*)—the knowledge of the sacrificial acts (that are to be performed)
+- विद्वान् (*vidvān*)—having obtained (and gained the understanding that the remnant of the oblation is to be eaten)
+- पित्वः (*pitvaḥ*)—the food remaining after the oblation
+- आसा (*āsā*)—for eating by his own mouth
+- भिक्षेत (*bhikṣeta*)—may he beg
+- आ विवासन् (*ā vivāsan*)—and worshipping (you both)
+- अदितिं (*aditiṃ*)—the perfect sacrificial act, without deficiency
+- उरुष्येत् (*uruṣyet*)—may he complete and protect
+
+##### भावार्थ (Bhāvārtha)
+
+May the cows that protect and gladden Dīrghatamas, the son of Mamatā, who is devoted to the sacrificial rite, fill their udders with the milk needed for the worship of Mitra and Varuṇa. With this help, having gained knowledge of the sacrificial acts that are to be performed, may he, after the oblation, beg your permission to eat the remaining food himself. And worshipping you, may he complete the unbroken sacrificial act.
+
+##### Printed English
+
+May the milch cows, propitious to the devout son of Mamata, be possessed of well-filled udders : knowing the rites (necessary to be performed),
+
+### Printed p. 538
+
+let him beg (the residue) of the offerings for his eating, and worhsipping (you both) complete the perfect (ceremony).
+
+##### विशेषविषयगळु (Special Topics)
+
+ब्रह्मप्रियं (*brahmapriyaṃ*)—one who is dearest to the parivṛḍha rite, or one who pleases Agni, the parivṛḍha. It was stated earlier that the word ब्रह्म (*brahma*) has meanings such as food, rite and praise. Here Sāyaṇa has indicated that it may be explained either as a rite that has attained fullness, or as Agni. The word ब्रह्म (*brahma*), formed from the root बृहि (*bṛhi*) meaning "to grow", means a rite that has grown to fullness, or Agni. Since Dīrghatamas is devoted to such a rite, or satisfies Agni with his worship, ब्रह्मप्रिय (*brahmapriya*) is an epithet of Dīrghatamas. Or he may be called one fond of the rite concerned with the worship of Agni. There is an earlier story that shows the reason for Dīrghatamas's special devotion to Agni.
+स व्याजहार तं गर्भं तमस्ते दीर्घमस्त्विति । स च दीर्घतमा नाम बभूवर्षिरुचथ्यजः ॥ स जातोऽभ्यपतद्देवानकस्मादंधतां गतः । ददुर्देवास्तु तन्नेत्रे ततोनंधो बभूव सः !! स वेदिषद इत्यस्तौच्चतुर्भिर्जातवेदसं । (*sa vyājahāra taṃ garbhaṃ tamaste dīrghamastviti | sa ca dīrghatamā nāma babhūvarṣirucathyajaḥ ‖ sa jāto 'bhyapataddevānakasmādaṃdhatāṃ gataḥ | dadurdevāstu tannetre tatonaṃdho babhūva saḥ !! sa vediṣada ityastauccaturbhirjātavedasaṃ |*) (Bṛ. De. 4-14 to 17)
+It has been told earlier that Bṛhaspati, the brother of Uchathya, infatuated with Mamatā, who was pregnant and was Uchathya's wife, was cohabiting with her. The child within held back Bṛhaspati's seed, and Bṛhaspati therefore cursed that child: "Be born as Dīrghatamas", that is, born blind. By the force of that curse, Dīrghatamas was born blind, and as soon as he was born he praised Agni and the other gods. They came and made him no longer blind. Immediately he praised Agni with the four hymns addressed to Jātavedas, beginning with the words वेदिषदे प्रियधामाय (*vediṣade priyadhāmāya*) (Ṛ. Saṃ. 1-140, 141). The word ब्रह्मप्रियं (*brahmapriyaṃ*) is used as an epithet of मामतेयं (*māmateyaṃ*) to show that, having received special help from Agni, he is devoted to Agni's worship and gives him satisfaction.
+धेनवः (*dhenavaḥ*)—धेनुर्धयतेर्वा, धिनोतेर्वा। धयतेऽसौ वत्सेनेति ; तर्पयत्य सौ पयसा । (*dhenurdhayatervā, dhinotervā| dhayate 'sau vatseneti ; tarpayatya sau payasā |*) (Ni. 11-42). Cows are called धेनु (*dhenu*) either because the milk is sucked by the calf, or because the cow gives milk and so satisfies.
+
 ---
 
-**Progress note:** Done through printed p. 532. pp. 526-532 (batch API)
+**Progress note:** Done through printed p. 538. pp. 533-538 (batch API)
