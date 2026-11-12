@@ -9698,6 +9698,136 @@ and in such Upaniṣadic sentences too, the word *dhīra* means धीमान�
 - सिषासंतः — षण संभक्तौ धातुः । धातोः कर्मणः (पा. सू. ३-१-७) इति इच्छार्थे सन् । सनीवंतर्थ—(पा. सू. ७-२-४९) इति इडागमः । विकल्पविधानात् अत्र इडागमः न भवति । जनसनखनां सन्‌झलोः (पा सू. ६-४-४२) इति धातोः आत्वम् । सन्यतः (पा. सू ७-४-७९) इति अभ्यासस्य इत्वम् । सन्नंतात् लट् आगते तस्य शत्रादेशः । प्रथमाबहुवचनांतरूपम् । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
 - अपश्यंत — दृशिर् प्रेक्षणे धातुः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
 
+### Printed p. 399
+
+##### Grammar
+
+- सिंधुं — स्यंदू प्रस्रवणे धातुः । स्यंदेः संप्रसारणं धश्च (उ. सू. १-१०) इति उ प्रत्ययः । धातोर्यकारस्य संप्रसारणम् । दकारस्य धकारादेशः । द्वितीयाएकवचनांतरूपम् ।
+- सूर्यः — षूज् प्रसवे धातुः । धात्वादेः षः सः इति आदेः सत्वम् । राजसूयसूर्य— इति क्यबंतत्वेन निपातितः ।
+- नृन् — वचनव्यत्ययेन चतुर्थीविभक्तेः स्थाने तृतीयाबहुवचनं प्राप्तम् । अथवा अनुगृहीतं इति अध्याहारकरणात् कर्मवाचकत्वात् द्वितीया भवति । ॥ ४ ॥
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒द्दृ॒क्षेण्यः॒ परि॒ काष्ठा॑सु॒ जेन्य॑ ई॒ळेन्यो॑ म॒हो अभा॑र्य  ॒॑
+> जीवसे ।  
+> पु॒रु॒त्रा यदभ॑व॒त्सूरहै॑भ्यो॒ गर्भे॑भ्यो म॒घवा॑ वि॒श्वद॑र्शतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिदृक्षेण्यः । परि । काष्ठासु । जेन्यः । ईळेन्यः । महः । अभार्य । जीवसे ।  
+> पुरुत्रा । यत् । अभवत् । सूः । अह । विभ्यः । गर्भेभ्यः । मघवा । विश्वदर्शतः ।  
+> ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः काष्ठासु परस्परं क्रांत्वा वर्तमानासु दशसु दिक्षु दिदृक्षेण्यः ।
+> अनुग्रहयुक्ता दर्शनयुक्तो भवति । यद्वा । द्रष्टुमेष्टव्यो दर्शनेच्छाविषयभूतः ॥ दृशेः सनंतात्कृत्यार्थे तवैकेन्नेन्येति केन्यप्रत्ययः ॥ अत एव जेन्यः
+> सर्वत्र प्रादुर्भवनशीलो भवति जयशीलो ना । किंच प्रदानसमय ईळेन्यः
+> स्तुत्यो भवति । किमर्थमेवं । महो महतो देवादेरर्भायार्भकस्याल्पस्य
+
+##### Gist of the bhāṣya
+
+This Agni, in the ten quarters of space that stretch across one another, is दिदृक्षेण्यः (*didṛkṣeṇyaḥ*): he becomes endowed with favour and with sight; or else he is the one to be seen, the object of the wish to see. The affix केन्य (*kenya*) is used in the sense of a gerundive. For that very reason he is जेन्यः (*jenyaḥ*), inclined to appear everywhere, or inclined to victory. Further, at the time of giving he is ईळेन्यः (*īḷenyaḥ*), worthy of praise. For what purpose is he so? महो महतो (*maho mahato*) for the great, the gods and others, अर्भाय (*arbhāya*) for the small, the humble one, the sacrificer and others, जीवसे (*jīvase*) for life (the sentence continues on the next page).
+
+### Printed p. 400
+
+> यजमानादेर्वा जीवसे जीवनाय । हनिर्वहनेन धनप्रदानेनेति विवेकः । तत्रोपपत्तिमाह । यदह यस्मात्खलु पुरुत्रा बहुषु देशेषु ॥ देवमनुष्येत्यादिना
+> त्राप्रत्ययः ॥ मघवा हनिर्लक्षणान्वान् विश्वदर्शतः सर्वविषयद्रष्टव्यवानयमग्निरेभ्यो गर्भेभ्यः ॥ षष्ठ्यर्थे चतुर्थी ॥ एषामृत्वजां गर्भवच्छिशुवदत्यंतरक्षणीयानां सूरभवत् प्रसवितोत्पादयिताभवत् भवति । तस्मान्नाना हृदा रक्षमाणाः
+> कवयः पदं नयंतीति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+(continuing) The distinction is: for the gods by carrying the oblation, for the humans by granting wealth. He gives the reason: यदह (*yadaha*) "because indeed" पुरुत्रा (*purutrā*), in many places. This Agni, मघवा (*maghavā*) the possessor of the oblation, विश्वदर्शतः (*viśvadarśataḥ*) visible to all, सूरभवत् (*sūrabhavat*) became the begetter, the producer, of these गर्भेभ्यः (*garbhebhyaḥ*) (the dative being used in the sense of the genitive): of these priests, who are to be protected with great care like an embryo, like a child. Therefore the connection with the earlier verse is: "the poets, protecting him with various hearts, lead him to his place."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- महः (*mahaḥ*)—(by carrying the oblation) for the gods, who are mighty
+- अर्भाय (*arbhāya*)—for humans, who are small
+- जीवसे (*jīvase*)—for life
+- काष्ठासु (*kāṣṭhāsu*)—in the ten directions
+- परि दिदृक्षेण्यः (*pari didṛkṣeṇyaḥ*)—(with a mind of favour) he is wishful to be seen by all (and therefore)
+- जेन्यः (*jenyaḥ*)—(everywhere) manifest, or victorious
+- ईळेन्यः (*īḷenyaḥ*)—(he is) worthy of worship
+- यत् अह (*yat aha*)—therefore
+- पुरुत्रा (*purutrā*)—in many regions
+- मघवा (*maghavā*)—joined with food in the form of the oblation
+- विश्वदर्शतः (*viśvadarśataḥ*)—Agni, who is visible to all
+- विभ्यः गर्भेभ्यः (*vibhyaḥ garbhebhyaḥ*)—to these priests and others, who deserve good protection like an embryo
+- सूः अभवत् (*sūḥ abhavat*)—has become the begetter
+
+##### भावार्थ (Bhāvārtha)
+
+Because Agni carries the oblation and distributes it, he is for the mighty gods, and because he gives wealth, for the small humans, wishful, with a mind of favour, to appear to all in the ten directions, so that they may live well. Therefore he is manifest everywhere and worthy of worship. For that very reason, in many regions, joined with food in the form of the oblation and visible to all, he has become the begetter of these priests and others, who deserve protection like a child in the womb.
+
+##### Printed English
+
+He his willing to be seen in the (ten) regions(of space); the victorious, the adorable, the source of life to great and small: inasmuch as in many places the opulent (possessor of sacrificial food), who is visible to all, s the parent of that (pious) progeny.
+
+##### विशेषविषयगळु (Special Topics)
+
+अर्भाय—अर्भकस्य अल्पस्य यजमानादेः (*arbhāya—arbhakasya alpasya yajamānādeḥ*). The word अर्भक (*arbhaka*) is read among the names for "small" and "short" (Ni. 3-13). The Nirukta author, having cited the Ṛk
+
+### Printed p. 401
+कनीनकेव विद्रधे नवे द्रुपदे अर्भके । बभ्रू यामेषु शोभेते ॥ (*kanīnakeva vidradhe nave drupade arbhake | babhrū yāmeṣu śobhete ‖*) (Ṛ. Saṃ. 4-32-23), explains अभ्रके अवृद्धे (*abhrake avṛddhe*): that which is not yet large, that is, small, or that which occupies a small place (Ni. 4-15). Compared with the greatness of Agni, the human sacrificers are small; that is the meaning.
+काष्ठासु (*kāṣṭhāsu*)—This word is read among the names of the directions (Ni. 2-16). तत्र काष्ठा इत्येतदनेकस्यापि सत्त्वस्य नाम भवति । काष्ठा तिशो भवंति क्रान्त्वा स्थिता भवंति । काष्ठा उपदिशो भवंतीतरेतरं क्रान्त्वा स्थिता भवंति । आदित्योऽपि काष्टोच्यते क्रान्त्वा स्थितो भवति । आज्यंतोऽपि काष्टोच्यते क्रान्त्वा स्थितो भवति । आपोऽपि काष्ठा उच्यंते क्रान्त्वा स्थिता भवंतीति स्थावराणां ॥ (*tatra kāṣṭhā ityetadanekasyāpi sattvasya nāma bhavati | kāṣṭhā tiśo bhavaṃti krāntvā sthitā bhavaṃti | kāṣṭhā upadiśo bhavaṃtītaretaraṃ krāntvā sthitā bhavaṃti | ādityo 'pi kāṣṭocyate krāntvā sthito bhavati | ājyaṃto 'pi kāṣṭocyate krāntvā sthito bhavati | āpo 'pi kāṣṭhā ucyaṃte krāntvā sthitā bhavaṃtīti sthāvarāṇāṃ ‖*) Because they extend and spread, occupying all regions, काष्ठा (*kāṣṭhā*) means the directions; because they spread, interwoven with one another, the intermediate directions; because he moves, occupying all regions, the Sun; because it remains occupying its own place, water. And because the distance to be travelled has been crossed, the destination too is called काष्ठ (*kāṣṭha*).
+त्वामिदि हनामहे साता वाजस्य कारवः । त्वां व्रतेश्विंद्र सत्पतिं नरस्तां काष्ठास्वर्वतः ॥ (*tvāmidi hanāmahe sātā vājasya kāravaḥ | tvāṃ vrateśviṃdra satpatiṃ narastāṃ kāṣṭhāsvarvataḥ ‖*) (Ṛ. Saṃ. 6-46-1)
+उपो ह यद्विदथं वाजिनो गुर्धीभिर्विप्राः प्रमतिमिच्छमानाः । अर्वंतो न काष्ठां नक्षमाणा इंद्राग्नी जोहुवतो नरस्ते । (*upo ha yadvidathaṃ vājino gurdhībhirviprāḥ pramatimicchamānāḥ | arvaṃto na kāṣṭhāṃ nakṣamāṇā iṃdrāgnī johuvato naraste |*) (Ṛ. Saṃ. 7 93-3)
+In these and other Ṛks the word काष्ठा (*kāṣṭhā*) has been explained as the region at the end (destination), that is, the battlefield, which is the goal of the horses.
+तं ना एतमाहुतिपिता बताभूरतिपितामहो बताभूः परमां बत काष्ठां प्रापच्छ्रिया यशसा ब्रह्मवर्चसेन । (*taṃ nā etamāhutipitā batābhūratipitāmaho batābhūḥ paramāṃ bata kāṣṭhāṃ prāpacchriyā yaśasā brahmavarcasena |*) (Bṛ. U. 6-4-28)
+
+### Printed p. 402
+महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा स परा गतिः ॥ (*mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiṃcitsā kāṣṭhā sa parā gatiḥ ‖*) (Kaṭha. 3-11)
+In these and other passages काष्ठा (*kāṣṭhā*) means the most excellent destination, that is, the highest state. Among such various meanings, in the present Ṛk काष्ठासु (*kāṣṭhāsu*) means "in the ten directions."
+जेन्यः—सर्वत्र प्रादुर्भवनशीलो भवति जयशीलो वा । (*jenyaḥ—sarvatra prādurbhavanaśīlo bhavati jayaśīlo vā |*) Two meanings are stated alternatively: manifest everywhere, or inclined to victory. It is the view of the commentator that the word may be formed either from the root जनी प्रादुर्भावे (*janī prādurbhāve*) or from the root जी जये (*jī jaye*); the word is used in both meanings.
+In the Ṛk जनिष्ट हि जेन्नो अग्रे अह्नां हितो हितेष्वरुषो वनेषु । दमेदमे सप्त रत्ना दधानोग्नि र्होता नि षसादा यजीयान् (*janiṣṭa hi jenno agre ahnāṃ hito hiteṣvaruṣo vaneṣu | damedame sapta ratnā dadhānogni rhotā ni ṣasādā yajīyān*) (Ṛ. Saṃ. 5-1-5), जेन्य (*jenya*) is understood as उत्पादनीयः (*utpādanīyaḥ*), an epithet of Agni; in Ṛks such as होताजनिष्ट चेतनः पिता पितृभ्य ऊतये । प्रयक्ष इज्जॆन्यं वसु शकेम वाजिनो यमं ॥ (*hotājaniṣṭa cetanaḥ pitā pitṛbhya ūtaye | prayakṣa ijjènyaṃ vasu śakema vājino yamaṃ ‖*) (Ṛ. Saṃ. 2-5-1) as जीतव्यं धनं (*jītavyaṃ dhanaṃ*); and in Ṛks such as ते हिन्विरे अरुणं जेन्यं वस्वेकं पुत्रं तिस्कृणां । ते धामान्यमृता मर्त्यानामदब्बा अभि चक्षते । (*te hinvire aruṇaṃ jenyaṃ vasvekaṃ putraṃ tiskṛṇāṃ | te dhāmānyamṛtā martyānāmadabbā abhi cakṣate |*) (Ṛ. Saṃ. 8-101-6) as जयशीलं (*jayaśīlaṃ*) or जयसाधनं (*jayasādhanaṃ*). In the present Ṛk either meaning suits Agni.
+विभ्यः गर्भेभ्यः (*vibhyaḥ garbhebhyaḥ*)—After the work of Agni, their own nature comes into being for them; it is explained that Agni became the cause of the origin of their priestly form.
+
+##### Grammar
+
+- दिवृक्षेण्यः — दृशित् प्रेक्षणे धातुः । धातोःकर्म—(पा- सू. ३-१-७) इति इच्छार्थे सन् । सन्यजोः इति सूत्रेण धातोर्द्वित्वम् । अभ्यासस्य उरदत्वम् । इत्यादि । दिवृक्ष इति सन्नंतधातुर्भवति । तस्मात् कृत्यप्रत्ययविवक्षायां कृत्यार्थे तवैकेन् केन्य-
+
+### Printed p. 403
+ (पा. सू ३-४-१४) इति केन्य प्रत्ययः । अतो लोपः (पा. सू- ६-४-४८) इति सनिन-अकारस्य लोपः । अट्कुप्वाज् इति प्रत्ययनकारस्य णत्वम् । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- जेन्यः — जनी प्रादुर्भावे धातुः । तस्मात् औणादिक एन्यप्रत्ययः धातोः टिगे (अन्) लोपश्च भवति । इदं भट्टभास्करमिश्राणां मतम् । अथवा जि जये धातुः । कृत्यल्युटो बहुलं (पा. सू. ३-३-११३) इत्यत्र बहुवचनसामर्थ्यात् कर्तरि अचोयत् (पा. सू. ३-१-९७) इति यत् प्रत्ययो नुडागमश्च भवति । सार्वधातुकार्थधातुकयोः इति धातोरिको गुणः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति ।
+- ईळेन्यः — ईड स्तुतौ धातुः । तस्मात् औणाविकएन्य प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- महः — महतः इत्यत्र छांदसत्वेन अतिलोपः । अथवा महपूजायां धातुः । क्विप् प्रत्ययः । षष्ठीएकवचनांतरूपम् ।
+- जीवसे — जीव प्राणधारणे धातुः । तस्मात् तुमन्विवक्षायां तुमर्थेसेसेनसे (पा. सू ३-४-९) इति असे प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । एजंतत्वात् कृन्येजंतः इति अव्ययसंज्ञां प्राप्नोति ।
+- पुरुत्रा — देव मनुष्य पुरुषपुरु—(पा. सू ५-४-५६) इति त्रा प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । अव्ययसंज्ञां प्राप्नोति ।
+- अभवत् — यद्योगत्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आम्यदात्तो भवति । **NOTE**
+- सूरि — सूज् प्रसवे धातुः । क्विप् च इति क्विप् प्रत्ययः । **NOTE**
+- विभ्यः — सुपां सुपो भवंति इति वचनात् षष्ठ्यर्थे चतुर्थी प्राप्ता ।
+- विश्वदर्शतः — विश्वैः दर्शनीयः विश्वदर्शतः दृशिर् प्रेक्षणे धातुः । भ्रमृदृशि—(उ. सू. ३-२९०) इति तस्मादतच् प्रत्ययः । मरुद्वृद्धाधिषु संघटितत्वात् मरुद्वृद्धा-दीनां छंदस्युपसंख्यानम् (पा. सू. ६-२-१०६-२) इति पूर्वपदांतोदात्तस्वरो भवति । ॥५॥
+
+Here ends the one hundred and forty-sixth sūkta.
+
+### Printed p. 404
+## Sūkta 147 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कथा त इति पंचर्चं सप्तमं सूक्तं दैर्घतमसमाग्नेयं त्रैष्टुभं ।
+> कथेत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरस्य सूक्तस्य विनियोगस्त्रिमूर्धानमिति
+> श्रीणीत्यनेनोक्तः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कथा ते (*kathā te*) consists of five Ṛks and is the seventh sūkta; its seer is Dīrghatamas, the deity Agni, the metre Triṣṭubh. The Anukramaṇikā says only *katheti*. Its use in the Prātaranuvāka and in the Āśvina-śastra has been stated by the passage त्रिमूर्धानमिति श्रीणीत्यनेनोक्तः (*trimūrdhānamiti śrīṇītyanenoktaḥ*) (i.e. by the preceding sūkta).
+
+##### Anuvāda
+
+This sūkta, "Kathā te", is the seventh sūkta in the twenty-first anuvāka. It contains five Ṛks. Its seer is Dīrghatamas Aucathya, the deity is Agni, the metre is Triṣṭup. In the Anukramaṇikā it is introduced as beginning with "Kathā". As already stated, the three sūktas (146, 147, 148) beginning with the sūkta "Trimūrdhānam" (the preceding sūkta) are employed for the recitation of the mantras of the Prātaranuvāka and the Āśvina-śastra.
+Om.
+Sūkta 147
+Maṇḍala 1; Anuvāka 21; Sūkta 147.
+Aṣṭaka 2; Adhyāya 2; Varga 16.
+Number of Ṛks in the sūkta: 5.
+Seer: Dīrghatamas Aucathya.
+Deity: Agni.
+Metre: Triṣṭup.
+
 ---
 
-**Progress note:** Done through printed p. 398. pp. 393-398 (batch API)
+**Progress note:** Done through printed p. 404. pp. 399-404 (batch API)
