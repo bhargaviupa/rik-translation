@@ -13183,6 +13183,149 @@ let him beg (the residue) of the offerings for his eating, and worhsipping (you 
 It has been told earlier that Bṛhaspati, the brother of Uchathya, infatuated with Mamatā, who was pregnant and was Uchathya's wife, was cohabiting with her. The child within held back Bṛhaspati's seed, and Bṛhaspati therefore cursed that child: "Be born as Dīrghatamas", that is, born blind. By the force of that curse, Dīrghatamas was born blind, and as soon as he was born he praised Agni and the other gods. They came and made him no longer blind. Immediately he praised Agni with the four hymns addressed to Jātavedas, beginning with the words वेदिषदे प्रियधामाय (*vediṣade priyadhāmāya*) (Ṛ. Saṃ. 1-140, 141). The word ब्रह्मप्रियं (*brahmapriyaṃ*) is used as an epithet of मामतेयं (*māmateyaṃ*) to show that, having received special help from Agni, he is devoted to Agni's worship and gives him satisfaction.
 धेनवः (*dhenavaḥ*)—धेनुर्धयतेर्वा, धिनोतेर्वा। धयतेऽसौ वत्सेनेति ; तर्पयत्य सौ पयसा । (*dhenurdhayatervā, dhinotervā| dhayate 'sau vatseneti ; tarpayatya sau payasā |*) (Ni. 11-42). Cows are called धेनु (*dhenu*) either because the milk is sucked by the calf, or because the cow gives milk and so satisfies.
 
+### Printed p. 539
+
+*(Special Topics, continued)*
+
+In the Ṛk युवं तासां दिव्यस्य प्रशासने विशां क्षयथो अमृतस्य मज्मना । याभिर्धेनुमस्वं१पिन्वथो नरा ताभिरूषु ऊतिभिरश्विना गतं ॥ (*yuvaṃ tāsāṃ divyasya praśāsane viśāṃ kṣayatho amṛtasya majmanā | yābhirdhenumasvaṃ1pinvatho narā tābhirūṣu ūtibhiraśvinā gataṃ ‖*) (Ṛ. Saṃ. 1-112-3), the statement that the Aśvins made the cow *asvaṃ* into a milch cow (dhenu) means that they made a barren cow fill with milk and be joined with a calf. This shows both the use and the meaning of the word dhenu. The author of the Nirukta too, quoting the Ṛk उप ह्वये सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनां । श्रेष्ठं सवं सविता साविषन्नोऽभीद्भो घर्मस्तदु षु प्र पोचं ॥ (*upa hvaye sudughāṃ dhenumetāṃ suhasto godhuguta dohadenāṃ | śreṣṭhaṃ savaṃ savitā sāviṣanno 'bhīdbho gharmastadu ṣu pra pocaṃ ‖*) (Ṛ. Saṃ. 1-164-26), explains the meaning of the word dhenu together with its qualifiers such as सुदुघां (*sudughāṃ*), "one who can be called upon abundantly".
+
+(आ (*ā*)) पीपयन् (*pīpayan*)—अप्याययंतु (*apyāyayaṃtu*), "let them fill". Formed from the root पै (*pai*), which has the sense of growth; the intended sense is that the udders should fill abundantly with milk, so as to give satisfaction.
+
+As stated in sentences such as मित्रावरुणाभ्यामागोमुग्भां पयस्या (*mitrāvaruṇābhyāmāgomugbhāṃ payasyā*) (Tai. Saṃ. 7-5-22-1), Mitra and Varuṇa are to be worshipped and satisfied with the milk of the udder. So the prayer is that the cows may obtain such milk abundantly, and that Mitra and Varuṇa may favour this.
+
+वयुनानि (*vayunāni*)—the word वयुन (*vayuna*) is read among the names of knowledge (prajñā) (Ni. 3-13). वयुनं वेतेः कांतिर्वा प्रज्ञा ना (*vayunaṃ veteḥ kāṃtirvā prajñā nā*) (Ni. 5-15). Formed from the root वी (*vī*) meaning "to weave", it gives the sense of desire or of knowledge. The author of the Nirukta quotes the Ṛk स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार । कदा ते मर्ता अमृतस्य धामेयक्षंतो न मिनंति स्वधावः ॥ (*sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra | kadā te martā amṛtasya dhāmeyakṣaṃto na minaṃti svadhāvaḥ ‖*) (Ṛ. Saṃ. 6-21-3) and explains स तमोऽप्रज्ञानं ततन्वत्सूतं सूरेयण प्रज्ञानवच्चकार (*sa tamo 'prajñānaṃ tatanvatsūtaṃ sūreyaṇa prajñānavaccakāra*) (Ni. 5- 15): it means that he made what was in the form of darkness and beyond perception into an object of knowledge. In the present Ṛk it means: the knowledge of the sacrificial acts that are to be performed.
+
+### Printed p. 540
+
+पित्वः (*pitvaḥ*)—the word पितु (*pitu*) is read among the names of food (Ni. 3-9). Here हुतशिष्टमन्नं (*hutaśiṣṭamannaṃ*): the food that remains after the offering has been made.
+
+अदितिं (*aditiṃ*)—for the word अदिति (*aditi*), by the statement of the author of the Nirukta, अदीना (*adīnā*) (Ni. 4-23), the meaning is: not poor, not divided into parts, not decaying. It is a qualifier showing the nature of deities such as Agni and Aditi, the divine mother. But in the present Ṛk it is explained as अखंडितमन्यूनमेतत्कर्म (*akhaṃḍitamanyūnametatkarma*): this sacrificial act, without defect and complete.
+
+##### Grammar
+
+- मामतेयम् — ममतायाः अपत्यं पुमान् मामतेयः । स्त्रीभ्योढक् (पा. सू. ४-१-१२०) इति अपत्यार्थे ढक् प्रत्ययः । आयनेयी- (पा. सू. ७-१-२) इति तस्य एयादेशः । कितिच (पा. सू. ७-२-११८) इति आदिवृद्धिः । द्वितीया एकवचनांतरूपम् ।
+- अवंतीः — अव रक्षणे धातुः । लडर्थे शतृ आगते स्त्रीत्वे उगितश्च इति जीप् । तस्मिन् जस् परे सुपां सुलुक् (पा.सू. ७-१-३९) इति पूर्वसवर्णदीर्घः भवति ।
+- पीपयन् — ओप्यायी वृद्दौ धातुः । हेतुमति च (पा.सू. ३-१-२६) इति णिच् । छांदसवागि लोडर्थे लुज् । छांदसत्वात् धातोः पीभावः भवति । णिश्रिद्रुसुभ्यः इति च्लेः चज् । चजि इति द्वित्वम् । णेरनिटि इति णिचो लोपः । छांदसत्वात् अडागमः न भवति । अतिजंतस्य अपरत्वात् निघातस्वरः भवति ।
+- सस्मिन् — स्वस्मिन् इत्यत्र छांदसत्वात् वर्णलोपः भवति ।
+- ऊधन् — सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तम्याः लुक् ।
+- पित्वः — पा पाने धातुः । पःकिच्च (उ. सू. १-७०) इति तुन् प्रत्ययः । तन्नादीनां छंदस्युपसंख्यानम् इति वचनात् षष्ठीएकवचने परे यणादेशः ।
+- भिक्षेत — भिक्ष याचने धातुः । लिज् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- वयुनानि — अज गतिक्षेपणयोः धातुः । अजियमि- (उ. सू. ३-३४१) इति उनन् प्रत्ययः । अजेर्व्यघञ् पोः (पा. सू २-४-५६) इति धातोः वीभावः । तस्य गुणः । अयादेशः । व्यत्ययेन प्रत्ययाद्युदात्तस्वरः भवति ।
+- आसा — आस्य शब्दस्य तृतीया एकवचने परे पद्दन्नोमास् इति आसस् आदेशः । सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः डादेशः । डित्त्वात् टिलोपः । **NOTE**
+
+### Printed p. 541
+
+- अनुदात्ते परे उदात्तलोपत्वात् अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति अनुदात्ताया विभक्तेः उदात्तस्वरः भवति ।
+- आ विवासन् — विवास परिचरणक्रियायां धातुः । लडर्थे शतृ प्रत्ययः । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- उरुष्येत् — उरुष्यती रक्षाकर्मा (नि. रु ५-२३) इति यास्कः आह । लिज् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ॥ ६ ॥
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॑ मित्रावरुणा ह॒व्यजु॑ष्टिं॒ नम॑सा देवा॒नव॑सा नवृत्यां।  
+> अ॒स्माकं॒ ब्रह्म॒ पृत॑नासु सह्या अ॒स्माकं॑ वृ॒ष्टिर्दि॒व्या सु॑पा॒रा ।  
+> ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । मित्रावरुणा । हव्य ऽ जुष्टिं । नमसा । देवौ । अवसा । ववृत्यां ।  
+> अस्माकं । ब्रह्म । पृतनासु । सह्याः । अस्माकं । वृष्टिः । दिव्या । सुपारा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मैत्रावरुणपशौ वपाया एषानुवाक्या । सूत्रितं च । आ नां मित्रावरुणा
+> हव्यजुष्टिमा यातं मित्रावरुणा । आ. २ ८ । इति ॥
+> हे देवौ देवनशीलौ मित्रावरुणा मित्रावरुणौ नां युवां हव्यजुष्टिं
+> हविःसेवां नमसा नमस्कारोपलक्षितेन स्तोत्रेणावसा रक्षणेन निमित्तभूतेना
+> ववृत्यां ! आवर्तयेयं । यद्वा । नमस्कारेणावसान्नेन चा ववृत्यां । किंच हे
+> मित्रावरुणौ अस्माकं संबंधि ब्रह्मेदानीं क्रियमाणं परिवृढं कर्म पृतनासु
+> संग्रामेषु सह्याः । सह्यात् । शत्रूनभिभूयात् । अनेन कर्मणा शत्रूनभिभवेयमित्यर्थः । किंचास्माकं दिव्या दिवि भवा वृष्टिः सुपारा सुष्टु पारयित्रि भवत्विति शेषः।
+> वृष्टौ सत्यां व्रीह्यादिद्वारा कर्मसमाप्तेरिति भावः ॥
+
+##### Gist of the bhāṣya
+
+This is the anuvākyā verse for the vapā (omentum) offering of the animal sacrifice to Mitra and Varuṇa. It is aphoristically stated: आ नां मित्रावरुणा हव्यजुष्टिमा यातं मित्रावरुणा (*ā nāṃ mitrāvaruṇā havyajuṣṭimā yātaṃ mitrāvaruṇā*).
+
+"O divine ones, Mitra and Varuṇa, may I bring round to you the enjoyment of the oblation (हव्यजुष्टिं (*havyajuṣṭiṃ*), the partaking of the offering) with नमसा (*namasā*), a hymn marked by obeisance, and with अवसा (*avasā*), protection as the occasion." Or else: with obeisance and with food (अन्नेन (*annena*)) may I bring it round. Further: "O Mitra and Varuṇa, may this rite of ours, now being performed and complete in every respect, prevail (सह्याः (*sahyāḥ*)) in battles (पृतनासु (*pṛtanāsu*)), overcoming enemies; the meaning is: by this rite may I overcome enemies." And further: "may our heavenly rain (*divyā vṛṣṭiḥ*), the rain that is in the sky, be a good bringer-across (सुपारा (*supārā*))" — "be" is to be supplied. The idea is that when there is rain, the rite is completed through grain and the like.
+
+### Printed p. 542
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—O divine ones
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- वां (*vāṃ*)—to you
+- हव्यजुष्टिं (*havyajuṣṭiṃ*)—the offering of the oblation that gives satisfaction
+- नमसा (*namasā*)—with a hymn accompanied by obeisance
+- अवसा (*avasā*)—for the sake of protection; or else [नमसा (*namasā*)—with obeisance; अवसा (*avasā*)—with food]
+- आ ववृत्यां (*ā vavṛtyāṃ*)—may I become one with the power to perform
+- अस्माकं (*asmākaṃ*)—our
+- ब्रह्म (*brahma*)—this rite
+- पृतनासु (*pṛtanāsu*)—in battles
+- सह्याः (*sahyāḥ*)—may it help to defeat (the enemies)
+- अस्माकं (*asmākaṃ*)—to us
+- दिव्या (*divyā*)—that is in the heavenly world
+- वृष्टिः (*vṛṣṭiḥ*)—the rain
+- सुपारा (*supārā*)—(may it fall) so as to give abundant satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Mitra and Varuṇa, favour me so that I may have the good fortune of offering you, with obeisance, the oblation that gives satisfaction. May this rite of ours help to defeat enemies in battles. May the rain of the heavenly world fall abundantly so as to give us satisfaction.
+
+##### Printed English
+
+Divine Mitra and Varuna, may I render the oblation acceptable to you with reverence and prayer; may the sacred rite enable us (to overcome) in battles, and may the heavenly rain he to us the means of satisfying our wants.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk is to be used as the purorucā-type anuvākyā mantra — more exactly the puro'nuvākyā mantra — in the vapā offering of the animal made to Mitra and Varuṇa is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, आ वां मित्रावरुणा हव्यजुष्टिमा यातं मित्रावरुणा (*ā vāṃ mitrāvaruṇā havyajuṣṭimā yātaṃ mitrāvaruṇā*) (Ā. 3-8).
+
+हव्यजुष्टिं (*havyajuṣṭiṃ*)—it may mean the offering of the oblation that gives satisfaction, obtained by offering the oblation.
+
+In आ नो मित्रावरुणा हव्यजुष्टिं धृतैर्गव्यूतिमुक्षतमिळाभिः । प्रति वामत्र वरमा जनाय पृणीतमुद्यो दिव्यस्य चारोः ॥ (*ā no mitrāvaruṇā havyajuṣṭiṃ dhṛtairgavyūtimukṣatamiḷābhiḥ | prati vāmatra varamā janāya pṛṇītamudyo divyasya cāroḥ ‖*) (Ṛ. Saṃ. 7-65-4) he explains हव्यजुष्टिं हविःसेवनवंतं यज्ञं (*havyajuṣṭiṃ haviḥsevanavaṃtaṃ yajñaṃ*): a sacrifice that has the partaking of the oblation.
+
+In इमा हन्या जातवेदो जुषस्वेति हव्यजुष्टिमाशास्त्रे (*imā hanyā jātavedo juṣasveti havyajuṣṭimāśāstre*) (Ai. Brā. 2-12): when one prays "O Jātavedas, partake of the oblations and be satisfied", हव्यजुष्टि (*havyajuṣṭi*) is the technical term that denotes such a prayer.
+
+### Printed p. 543
+
+नमसा (*namasā*)—he first explains it as नमस्कारोपलक्षितेन स्तोत्रेण (*namaskāropalakṣitena stotreṇa*), "with a hymn accompanied by obeisance", and then, with यद्वा नमस्कारेण (*yadvā namaskāreṇa*), says "with obeisance alone".
+
+अवसा (*avasā*)—first he says "protection", then with यद्वा अन्नेन च (*yadvā annena ca*), "or else, food".
+
+ब्रह्म (*brahma*)—showing that the word ब्रह्म (*brahma*) is formed here from the root बृहि (*bṛhi*), which has the sense of growth, he explains it as a rite that has attained fullness in every way.
+
+पृतनासु (*pṛtanāsu*)—व्याप्रियंते अत्र योद्धारः इति पृतनाः संग्रामाः (*vyāpriyaṃte atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ*): since it is the place where warriors gather in a throng, battle is called पृतना (*pṛtanā*); so he says in one place (Ṛ. Saṃ. 3-49-2). In इमं नरो मरुतः सश्चता वृथं यस्मिन्प्राय शेवृधास । अभि ये संति पृतनासु दॊड्डो विश्वाहा शत्रुवादभुः ॥ (*imaṃ naro marutaḥ saścatā vṛthaṃ yasminprāya śevṛdhāsa | abhi ye saṃti pṛtanāsu dòḍḍo viśvāhā śatruvādabhuḥ ‖*) (Ṛ. Saṃ. 3-16-2) he says पृतनासु सेनासु तमपलक्षितेषु संग्रामेषु (*pṛtanāsu senāsu tamapalakṣiteṣu saṃgrāmeṣu*). Thus Sāyaṇa gives the derivation of this word: पृतना (*pṛtanā*) means armies, and since battle is marked by them, battle too is called पृतना (*pṛtanā*). The author of the Nirukta has included this word among the names of battle (Ni. 3-9).
+
+सुपारा (*supārā*)—सुष्टु पारयित्री (*suṣṭu pārayitrī*). The prayer is that all our rites may be carried out fully, and that the rain may be effective in giving abundant satisfaction in this accomplishment.
+
+##### Grammar
+
+- हव्यजुष्टिम् — जुषी प्रीतिसेवनयोः धातुः । स्त्रियांक्तिन् इति भावार्थे क्तिन् प्रत्ययः । ष्टुत्वेन तस्य टकारादेशः । तादौचनिति (पा. सू. ६-२-५०) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- नमसा — णमु प्रह्वत्ते शब्दे च धातुः । अस्मात् असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । तृतीया एकवचनांतरूपम् । अवसा इत्यत्रापि एवमेव प्रत्ययस्वराः भवंति ।
+- वव्यत्याम् — वृतु वर्तने धातुः । लिज् उत्तमपुरुषएकवचने तस् थस् थमिपां- इति अमावेशः । व्यत्ययेन परस्मैपदी भवति । बहुलं छंदसि इति शपः श्लुः आदेशः । श्लुनिमित्तं धातोः द्वित्वादि । प्रत्ययस्य यासुट् आगमः । तस्य जित्त्वात् लघूपधगुणः न भवति । तिण्ण तिजिः इति निघातस्वरः भवति । **NOTE**
+
+### Printed p. 544
+
+- सह्याः — षह मर्षणे धातुः । व्यत्ययेन तिपः सिप् प्रत्ययः भवति । तस्य यासुट् आगमः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययसकारस्य रुत्वविसर्गौ । तिजंतनिघातस्वरः भवति ।
+- वृष्टिः — वृषु सेचने धातुः । स्त्रियांक्तिन् इति क्तिन् । मंत्रेवृषेषपच- (पा. सू. ३-३-९६) इति क्तिन् उदात्तः भवति ।
+- दिव्या — दिवि भवा दिव्या । भवेछंदसि (पा. सू. ४-४-११०) इति य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । स्त्रीत्वविवक्षायां अदंतनिबंधनः टाप् ।
+- सुपारा — पृ पालनपूरणयोः धातुः । अस्मात् णिचि आगते नंदिग्रहसचादिभ्यः- (पा. सू. ३-१-१३४) इति कर्तरि अच् प्रत्ययः । णिच् निमित्तं धातोः इकः वृद्धिः । र परे भवति । णेरनिटि (पा सू. ९-४-५१) इति णिचो लोपः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ॥ ७ ॥ **NOTE**
+
+## Sūkta 153 (Maṇḍala 1)
+
+The hundred and fifty-third sūkta.
+
+यजामहे वामिति चतुर्यचं चतुर्दशं सूक्तं दैर्घतमसं त्रैष्टुभं मैत्रावरुणं । यजामहे चतुष्कमित्यनुक्रमणिका ॥ विनियोगो लैंगिकः ॥ (*yajāmahe vāmiti caturyacaṃ caturdaśaṃ sūktaṃ dairghatamasaṃ traiṣṭubhaṃ maitrāvaruṇaṃ | yajāmahe catuṣkamityanukramaṇikā ‖ viniyogo laiṃgikaḥ ‖*)
+
+Anuvāda: This sūkta, यजामहे वां (*yajāmahe vāṃ*), is the fourteenth sūkta in the twenty-first anuvāka. It has four Ṛks. Dīrghatamas is the seer of this sūkta; Mitra and Varuṇa are the deities; the metre is Triṣṭubh. In the Anukramaṇikā it is said यजामहे चतुष्कं (*yajāmahe catuṣkaṃ*). The use (viniyoga) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+Sūkta 153; Maṇḍala 1; Anuvāka 21; Aṣṭaka 2; Adhyāya 2; Varga 23.
+Number of Ṛks in the sūkta: 4.
+Seer: Dīrghatamas Aucathya.
+Deity: Mitra and Varuṇa.
+Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 538. pp. 533-538 (batch API)
+**Progress note:** Done through printed p. 544. pp. 539-544 (batch API)
