@@ -1761,6 +1761,168 @@ Yajñiyebhyo rājabhyo yajjiyebhyo bravasi—Here the first word "yajjiyebhyaḥ
 and as in
 अग्निरेव देवानां दूत आस (*agnireva devānāṃ dūta āsa*) (Śa. Brā. 1-4-1-34)
 
+### Printed p. 71
+
+यज्ञस्य शिरः प्रति दधात्यग्निर्देवानां दूत आसीत् । (*yajñasya śiraḥ prati dadhātyagnirdevānāṃ dūta āsīt |*)
+(Tai. Saṃ. 2.5-1-8)
+As is said in such sentences, Agni is a messenger common to the gods and to the human sacrificers. The sacrificers have therefore prayed to him to make their praises manifest before the gods.
+
+अंगिरोभ्यः धेनुं देवा अदत्तन—अत्रेतिहासमाहुः अंगिरसो नाम महर्षयः पूर्वं यज्ञार्थं देवान् स्तुत्या प्रीणयित्वा गा अयाचंत । ते प्रीताः कामदुघां प्रादुः । लब्धां च ता धेनुं क्षीरं दोगुमशक्कु वाना अर्य मणं देवं प्रार्थयन् । स च प्रार्थितोऽग्निहोत्राद्यर्थं क्षीरं दुदोहेति । (*aṃgirobhyaḥ dhenuṃ devā adattana—atretihāsamāhuḥ aṃgiraso nāma maharṣayaḥ pūrvaṃ yajñārthaṃ devān stutyā prīṇayitvā gā ayācaṃta | te prītāḥ kāmadughāṃ prāduḥ | labdhāṃ ca tā dhenuṃ kṣīraṃ dogumaśakku vānā arya maṇaṃ devaṃ prārthayan | sa ca prārthito 'gnihotrādyarthaṃ kṣīraṃ dudoheti |*)
+In the past the great seers called Aṅgiras, wishing to obtain cows for the sacrifice, praised the gods and pleased them. The gods then gave them the Kāmadhenu, which grants all desired things. Unable to milk that Kāmadhenu, they prayed to the god Arama to help them. Arama then milked the milk for the Agnihotra which the Aṅgirases were to perform. This story is indicated here. **NOTE** And that, before all else, the Aṅgirases made Agni too blaze in the Agnihotra sacrifice, is stated in sentences such as
+
+अंगिरसश्च तेऽग्रेऽग्नि नाग्निमयजंत ते स्वर्गं लोकमायन् । (*aṃgirasaśca te 'gre 'gni nāgnimayajaṃta te svargaṃ lokamāyan |*)
+(Ai. Brā. 1-16)
+
+The word Aṅgiras applies in three ways: as a proper name, as the name of a line of seers, and as a name belonging to a group of gods. And by the epithet अंगिरोभिः अंगिरस्तमः (*aṃgirobhiḥ aṃgirastamaḥ*) a close relation between Indra and the Aṅgirases is shown; this has been stated in the 8th part of the Ṛgveda Saṃhitā, pp. 188–189. Here the relation between Agni and the Aṅgirases has to be understood.
+
+Since this Ṛk has the plural अंगिरोभ्यः (*aṃgirobhyaḥ*), it is clear that the line of the seers called Aṅgiras is meant. Agni is the original ancestor of this line; the seer Aṅgiras too was born from him. And the story that this line grew is told in the Saṃhitā sentence
+
+त्वमग्ने प्रथमो अंगिरा ऋषिर्देवो देवानामभवः शिवः सखा । (*tvamagne prathamo aṃgirā ṛṣirdevo devānāmabhavaḥ śivaḥ sakhā |*)
+(Ṛ. Saṃ. 1-31-1)
+
+This same story —
+
+### Printed p. 72
+
+योंगिरा आसंस्तेoंगिरसोऽभवन् । (*yoṃgirā āsaṃsteoṃgiraso 'bhavan |*)
+(Ai. Brā. 3-34)
+
+— is told in the Aitareya Brāhmaṇa, and likewise in a few other places, namely that the seers called Aṅgiras searched for Agni, who was hidden in a cave, and obtained him.
+
+समुद्भिर्हैतमंगिरस ऐंधत । (*samudbhirhaitamaṃgirasa aiṃdhata |*)
+(Śa. Brā. 1-4-1-25)
+
+Thus the Śatapatha Brāhmaṇa describes how the Aṅgirases obtained Agni and how they worshipped him. In the present Ṛk there is praise of Agni: ईदृशो धेनुस्त्वदर्थमेव दुह्यते इत्यग्निस्तुतिः । (*īdṛśo dhenustvadarthameva duhyate ityagnistutiḥ |*) — "such a cow is milked for your worship alone". The particulars indicated by the word Aṅgiras may be seen in the explanation of Ṛk 1-31-1 of the Ṛ. Saṃ.
+
+##### Grammar
+
+- शृणुहि — श्रु श्रवणे धातुः । लोट्मध्यमपुरुषएकवचने सिपः हि आदेशः । श्रुवः शृच (पा. सू. ३-१-७४) इति धातोः शृ आदेशः । श्नु विकरणम् । उतश्चप्रत्ययादसंयोगपूर्वात् (पा. सू. ६-४-१०६) इति हि-लोपे प्राप्ते छंदसि ना वचनम् इति विकल्पेन अत्र न भवति । तिजंतनिघातस्वरः भवति ।
+- ईळितः — ईड स्तुतौ धातुः । कर्मणि निष्ठा इति क्तप्रत्ययः । अर्धधातुकस्येड्वलादेः इति तस्य इडागमः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- ब्रवसि — ब्रूञ् व्यक्तायां वाचि धातुः । लेट्मध्यमपुरुषएकवचने सिप्प्रत्ययः । लेटोऽडाट् (पा. सू ३-४-९४) इति अडागमः । अदिप्रभृतिभ्यः शपः इति शपि लुक् । प्रत्ययं निमित्तीकृत्य धातोः इकः गुणः आवादेशः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- यज्ञियेभ्यः — यज्ञाय अर्हाः यज्ञियाः तेभ्यः । यज्ञर्त्विग्भाम् (पा. सू. ५-१-७१) इति अर्हार्थे घप्रत्ययः । आयनेयीनी (पा. सू. ७-१-२) इति तस्य इयादेशः । यस्येति च इति प्रातिपदिकस्य अकारस्य लोपः । प्रत्ययस्य आद्युदात्तस्वरेण इकारः उदात्तः भवति ।
+- देवाः — दिवु धातुः कांत्यर्थे प्रयुक्तः । पचादौ संगृहीतत्वात् नंदिग्रहपचादिभ्यः इति अच्प्रत्ययः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । संबोधनाबहुवचनांतरूपम् । आमंत्रितनिघातस्वरः भवति ।
+
+### Printed p. 73
+
+- अदत्तन — डुदाञ् दाने धातुः । लज् प्रथमपुरुषबहुवचने तप्तनप्तनथनाश्च (पा. सू. ७-१-४५) इति तस्य तनादेशः । यद्योगत्वात् निपातैर्यद्यदि (पा. सू. ८-१-३०) इति निघातस्वरप्रतिषेधः भवति । अडागमस्य उदात्तत्वात् आद्युदात्तं पदं भवति । **NOTE**
+- दुहे — दुह प्रपूरणे धातुः । लिट्प्रथमपुरुषएकवचने तप्रत्ययः । लिटस्तझयो इति तस्य विशादेशः । बहुलं छंदसि इति तस्य रुटागमः । छंदसि वा वचनम् इति लिण्णिमित्तं धातोः द्वित्वादयः न भवंति । अथवा लटि एव तप्रत्यये आगते तस्य तकारस्य लोपस्त आत्मने पदेषु (पा. सू. ७-१-४१) इति लोपः । अदिप्रभृतिभ्यः शपः इति शसि लुक् । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- कर्तरि — डुकृञ् करणे धातुः । कर्तरि तृच्प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । सप्तमीएकवचने ऋतोजि सर्वनामस्थानयोः इति गुणः रपरः भवति । तृच् चित्तात् अंतोदात्तस्वरः भवति ।
+- सचा — षच समवाये धातुः । धात्वादेः षः सः इति आदेः सत्वम् । क्विप् च इति क्विप्प्रत्ययः । सुपां सुलुक् (पा सू. ७-१-३९) इति आकारादेशः ।
+- वेद — विद ज्ञाने धातुः । लट्प्रथमपुरुषएकवचने विदो लटो ना (पा.सू. ३-४-८३) इति णलादेशः । पुगंतलघूपदस्य च इति धातोः लघूपधस्य गुणः । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो षु वो॑ अ॒स्मद॒भि तानि॒ पौंस्या॒ सना॑ भूवन्नुद्यु॒म्मानि॒ मोत जा॑रिषुर॒स्मत्पु॒रोत जा॑रिषुः ।  
+> यद्व॑शि॒त्रं यु॒गेयु॑गे॒ नव्यं॒ घोषा॒दम॑र्त्यं ।  
+> अ॒स्मासु॒ तन्म॑रुतो॒ यच्च॑ दु॒ष्टरं॑ दिधृ॒ता यच्च॑ दु॒ष्टरं॑ ॥८॥
+
+### Printed p. 74
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । वः । अस्मत् । अभि । तानि । पौंस्या । सना । भूवन् । द्युम्नानि । मा ।  
+> उत । जारिषुः । अस्मत् । पुरा । उतॆ । जारिषुः ।  
+> यत् । वः । चित्रं । युगेऽयुगे । नव्यं । घोषात् । अमर्त्यं ।  
+> अस्मासु । तत् । मरुतः । यत् । च । दुस्तरं । दिधृत । यत् । च । दुस्तरं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मो षु वो अस्मदिति प्रस्थितयाज्या । सूत्रितं च । मो षु वो अस्मदभि तानि
+> पौंस्यौ शू णो अग्ने । आ. ८-१ । इति ॥
+> हे मरुतः वो युष्मत्संबंधीनि तानि प्रसिद्धानि पौंस्या पौंस्यानि बलानि सना
+> सदातनानि नित्यानि द्युम्नानि प्रकाशयुक्तानि । यद्वा । सना संभजनीयानि द्युम्नानि
+> धनवंति यशोवंति वा ॥ मत्वर्थियो लुप्यते । मो इति निपातद्वयसमुदाय
+> उशब्दोऽवधारणे ॥ अस्मदस्मान् मो ष्टभि भूवन् । सुष्टु मैवाभिभवन् । यद्वा ।
+> अस्मत्तोपगतानि मा भूवन् । उतापि च । यद्वा । द्युम्नानीत्येतदुत्तरत्र संबध्यते।
+> द्युम्नानि धनानि यशांसि नास्मदीयानि मा जारिषुः । क्षीणानि मा भूवन् । उतापि
+> चास्मत्पुरा पुराणि लक्षणया तत्रस्थाः प्राणिनो मा जारिषुः । जीर्णा नष्टा मा
+> भूवन् । किंच वो युष्मत्संबंधि चित्रं चायनीयं नानाविधं नव्यं नूतनं
+> स्तोतव्यं वामर्त्यममरणधर्मकं मर्त्येषु दुर्लभं वा यदस्ति घोषात्
+> घोषाः ॥ व्यत्ययेन पंचमी ॥ शब्दोपेता गवादयो घोषोपलक्षिता ग्राम
+> नगरादयो वा ये संति तत्सर्वं युगे युगे युगशब्दोपलक्षिते तत्तत्कालेऽस्मासु । अस्मास्वेव भवत्त्विति शेषः । नान्यस्य । किंच हे मरुतः यच्च मस्तरं
+> दुःखेन तरणीयं संपादनीयं धनं दिधृत धारयत तदस्मासु । किंच दुस्तरं
+> शत्रुभिरहिंसितं तत्सर्वमपि विशेषेणास्मासु स्थापयत ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the प्रस्थितयाज्या (*prasthitayājyā*). It is so enjoined in the sūtra: "मो षु वो अस्मदभि तानि पौंस्यौ शू णो अग्ने (*mo ṣu vo asmadabhi tāni pauṃsyau śū ṇo agne*)" (Ā. 8-1).
+
+O Maruts, those famous manly powers (पौंस्या (*pauṃsyā*)) of yours, which are perpetual and eternal (सना (*sanā*)), and radiant (द्युम्नानि (*dyumnāni*)). Or else: सना (*sanā*) means "to be shared in", and द्युम्नानि (*dyumnāni*) means "possessing wealth or fame", the possessive affix being dropped. मो षु (*mo ṣu*) is a combination of two particles, the उ (*u*) being for emphasis. May those powers by no means overpower us; or, going away from us, may they not be. Or else द्युम्नानि (*dyumnāni*) is joined with what follows: may our riches and glories not decay (जारिषुः (*jāriṣuḥ*)), may they not be exhausted. And may our towns (पुरा (*purā*)) — by implication the living beings who dwell in them — not wear out, not perish.
+
+Further, whatever there is of yours that is wonderful, i.e. worth looking at, of many kinds; new, or worthy of praise; immortal, i.e. not subject to death, or hard to find among mortals — and घोषात् (*ghoṣāt*), an ablative put by a change of case for घोषाः (*ghoṣāḥ*): cows and the like that give out sound, or villages, cities and the like marked out by the word ghoṣa — all that, in every age (the word युगे युगे (*yuge yuge*) standing for each time), let it be in us (the verb "let it be" is the understood remainder), not in another. Further, O Maruts, whatever wealth hard to cross, i.e. to be won with difficulty, you hold (दिधृत (*didhṛta*) = धारयत (*dhārayata*)), place that in us; and whatever is hard to cross in the sense of not being harmed by enemies, establish all that especially in us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Marut deities
+- वः (*vaḥ*)—your (belonging to you)
+- तानि (*tāni*)—those famous
+- पौंस्या (*pauṃsyā*)—powers (strengths, capacities)
+- सना (*sanā*)—those that are ever (imperishably) existing
+- द्युम्नानि (*dyumnāni*)—radiant (excellent) ones [or सना (*sanā*)—worthy of being obtained; द्युम्नानि (*dyumnāni*)—those that produce wealth or fame]
+- अस्मत् (*asmat*)—us; मो षु अभि भूवन् (*mo ṣu abhi bhūvan*)—may they not cause us trouble, or may they not leave us
+### Printed p. 75
+- उत (*uta*)—and
+- द्युम्नानि (*dyumnāni*)—our riches or glories
+- मा जारिषुः (*mā jāriṣuḥ*)—may they not decay
+- उत (*uta*)—and
+- अस्मात् (*asmāt*)—our
+- पुरा (*purā*)—towns (or the people and animals in them)
+- जारिषुः (*jāriṣuḥ*)—may they not be destroyed
+- वः (*vaḥ*)—your (made with reference to you)
+- चित्रं (*citraṃ*)—of many kinds, or wonderful
+- नव्यं (*navyaṃ*)—new (or worthy of praise)
+- अमर्त्यं (*amartyaṃ*)—a thing hard to find among men
+- यत् (*yat*)—whatever there is (or)
+- घोषात् (*ghoṣāt*)—sound-making animals and people as well
+- तत् (*tat*)—all that
+- युगेयुगे (*yugeyuge*)—in the respective times
+- अस्मासु (*asmāsu*)—let it be in us
+- मरुतः (*marutaḥ*)—O Marut deities
+- दुस्तरं (*dustaraṃ*)—that which must be won with great difficulty
+- यत् च (*yat ca*)—whatever wealth there is, that
+- दिधृत (*didhṛta*)—placing it in us (cause it to be in us)
+- दुस्तरं (*dustaraṃ*)—that which is not subject to the troubling of enemies
+- यच्च (*yacca*)—whatever things there are (make all of them be in us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may your praiseworthy powers not cause us trouble. May our wealth not decay. May our towns (and the people and animals in them) not be destroyed. Whatever things there are that are most wonderful, excellent and imperishable, may all of them always be with us, the people, and with the sound-making animals. May the wealth and other things that must be won with great difficulty, and that cannot be seized by enemies, also be with us.
+
+##### Printed English
+
+Never, Maruts, may your glorious energies be exerted against us ;
+may our (riches) never diminish : never may our towns decay: and may
+whatever is wonderful, admirable, immortal, or (whatever is recognized to be
+living), from its sound, that has been yours from age to age, (devolve) upon
+us; whatever is most difficult (of attainment) bestow upon us; whatever is
+most difficult (to be attained).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Daśarātra sacrifice mentioned earlier, that this very Ṛk मो षु वो अस्मत् (*mo ṣu vo asmat*) is to be recited as the प्रस्थितयाज्या (*prasthitayājyā*) mantra is concluded from the sūtra of the Āśvalāyana Śrauta Sūtra मो षु वो अस्मदभि तानि पौंस्यौ षू णो अग्ने (*mo ṣu vo asmadabhi tāni pauṃsyau ṣū ṇo agne*) (Ā. 8-1).
+
+युष्मत्संबंधीनि बलानि । (*yuṣmatsaṃbaṃdhīni balāni |*) — "your famous powers": thus the power of the Maruts as a united host is praised.
+
+### Printed p. 76
+
+सना द्युम्नानि (*sanā dyumnāni*) — these two words are epithets. Of सना (*sanā*) the meaning given first is सदातनानि (*sadātanāni*), नित्यानि (*nityāni*), "eternal", and for द्युम्नानि (*dyumnāni*) प्रकाशयुक्तानि (*prakāśayuktāni*), "radiant". Or else सना (*sanā*) = संभजनीयानि (*saṃbhajanīyāni*), "worthy of worship", and दुम्नानि (*dumnāni*) "possessing wealth or fame": thus the second meaning is given. Since the powers of the Maruts have been famous and radiant from beginningless time, the first meaning is proper.
+
+प्रवेपयंति पर्वतान्वि विंचंति वनस्पतीन् । (*pravepayaṃti parvatānvi viṃcaṃti vanaspatīn |*)
+(Ṛ. Saṃ. 1-39-25) **NOTE**
+वना चिदुग्रा जिहते नि वो भिया पृथिवी चिद्रेजते पर्वतश्चित् । (*vanā cidugrā jihate ni vo bhiyā pṛthivī cidrejate parvataścit |*)
+(Ṛ. Saṃ. 5-60-2)
+
+As described in such Ṛks, mountains and the like all tremble before the might of the Maruts; since earth and atmosphere also shake, there is no one who does not know their power. For that reason the second meaning too is natural. Whoever moves in the atmosphere, there is no way for him to move without informing the Maruts; if the Maruts are disregarded, then obstruction for him is certain.
+
+तासु पदमस्ति स्वस्ति राये मरुतो दधातनेति मरुतो ह वै देवविशोऽतरिक्षभाजनास्तेभ्यो ह यो निवेद्यः स्वर्गं लोकमेतीश्वरा हैनं नि वा रोद्वर्वि ना मथितोः स यदाह स्वस्ति राये मरुतो दधातनेति तं मरुद्भो देवविड्भो यजमानं निवेदयति न ह वा एनं मरुतो देवविशः स्वर्गं लोकं यंतं निरुंधते न विमथ्यते । स्वस्ति हैनमत्यर्जंति स्वर्गं लोकमभि य एवं वेद । (*tāsu padamasti svasti rāye maruto dadhātaneti maruto ha vai devaviśo 'tarikṣabhājanāstebhyo ha yo nivedyaḥ svargaṃ lokametīśvarā hainaṃ ni vā rodvarvi nā mathitoḥ sa yadāha svasti rāye maruto dadhātaneti taṃ marudbho devaviḍbho yajamānaṃ nivedayati na ha vā enaṃ maruto devaviśaḥ svargaṃ lokaṃ yaṃtaṃ niruṃdhate na vimathyate | svasti hainamatyarjaṃti svargaṃ lokamabhi ya evaṃ veda |*)
+(Ai. Brā. 1-10)
+
+The Maruts, as the subjects of the gods, pervade the whole atmosphere. Those who would go to heaven without informing them, they certainly stop or destroy. If one worships them reciting the sentence स्वस्ति राये मरुतः (*svasti rāye marutaḥ*), they do not stop him. By sentences of the Aitareya Brāhmaṇa and others, to the effect that welfare is certain for one who knows this secret, the power of the Maruts, and their influence whether favouring or restraining, is described. Explaining that same point here, the prayer is made, in अस्मत् पुरा मा जारिषुः । (*asmat purā mā jāriṣuḥ |*), that they help so that our wealth and other riches, and the prosperity of sons and so on, may not decline.
+
+घोषात् (*ghoṣāt*) — by शब्दोपेता गवादयो घोषोपलक्षिता ग्रामनगरादयो वा ये संति (*śabdopetā gavādayo ghoṣopalakṣitā grāmanagarādayo vā ye saṃti*), either cows endowed with sounds, or villages and cities, are indicated here. The prayer asks that they be made lasting for us. The word ghoṣa is read among the names of speech (Ni. 1-11). Though this word ordinarily means "sound", in that word too a distinctive
+
 ---
 
-**Progress note:** Done through printed p. 70. pp. 64-70 (batch API)
+**Progress note:** Done through printed p. 76. pp. 71-76 (batch API)
