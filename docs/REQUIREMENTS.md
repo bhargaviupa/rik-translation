@@ -41,7 +41,8 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 | 6 | Translation credentials | **New layout: half page picture, half page text** (like Vol 15, p. 2). | new design |
 | 7 | Copyright | Copyright, ISBN and the like. **No reference to Claude in the copyright.** A **Thank-you section**. (F8) | `publish/release.json` |
 | 8 … | Contents | Contents in English, as in Vol 1. | supplied file |
-| next | Preface / Introduction | As the volume has it. No Kannada headings. | supplied file |
+| next | **Preface to the English edition** | By the translator-editor (the user). **A placeholder page in every volume until the text is written.** (F15) | the user |
+| next | Preface / Introduction of the original | As the volume has it. No Kannada headings. | supplied file |
 | next | Abbreviations | The volume's list, with Sanskrit in place of the Kannada text. | supplied file |
 
 Vol 15 was built in another order (preface before the guru's portrait); it is to be corrected.
@@ -202,6 +203,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F12 | **Length (H3.1).** Split volumes into parts, or change the page format? This also decides the ISBN count. | H3 |
 | F13 | **Release standard (H2.2).** What sample size and what result would you accept as "ready"? Proposal: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
 | F14 | **Published form of doubts (H2.1).** After your decisions, do remaining doubts appear as editorial footnotes, or not at all? | H2 |
+| F15 | **Your preface to the English edition.** Its place: proposed after the Contents and before the original's own preface. One text for the whole series with a short part per volume, or a separate text for each volume? And should the "Note on this translation" (H2.4: sources, method, conventions) be part of it or a page of its own? | A2, H2.4 |
 
 ---
 
@@ -293,6 +295,7 @@ Parts A–G describe the book. This part lists what a *published* book needs bey
 
 | Requirement | Source |
 |---|---|
+| A2 (preface to the English edition) | user, Nov 12 2026 (later message) |
 | A2, A4, B1.2–3, B2.1 (bhāṣya), B3, B4.1–2, B5, C1 (number check), C3, C4, new names in A3, A5 | user's review comments, Nov 12 2026 |
 | A3 sub-headings; akṣara spacing; B4.3; elaborate summary; B2.3 | user decisions, Nov 11 2026 |
 | C9, C11, Om on the first page of Ṛks | user decisions, Vol 15 review, Nov 9 2026 |
