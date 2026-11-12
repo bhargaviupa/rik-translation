@@ -14788,6 +14788,120 @@ Just as in such Ṛks śamīvān has the meaning "endowed with work", the same m
 
 Those well-known Soma-form oblations offered by the sacrificer increase (वर्धंति (*vardhaṃti*) = वर्धयंति (*vardhayaṃti*)) this Indra's great पौंस्यं (*pauṃsyaṃ*), that is, the manly deed, strength of the kind to be described. Or else ईं (*īṃ*) is without meaning. That Indra brings (नि नयति (*ni nayati*), "brings fully") the capacity born of Soma-drinking to Heaven and Earth (मातरा (*mātarā*)). For what purpose? रेतसे (*retase*): for the capacity of living beings to beget sons and the like; भुजे (*bhuje*): for their enjoyment or their protection. Where? It is said: अधि (*adhi*) (above) the shining (रोचने (*rocane*)) orb of the radiant (दिवः (*divaḥ*)) sun. नाम (*nāma*) is नमनं (*namanaṃ*), the capacity established in Heaven and Earth; the पुत्रः (*putraḥ*) is the protector of many (पुरुत्राता (*purutrātā*)), every person, by the grace of the father, the protector Viṣṇu. Or else: because of being the begetter of himself, the father holds (दधाति (*dadhāti*) = धारयति (*dhārayati*)) the lower name, called "grandson", which has itself arisen; the higher name "son"; and, in relation to both, the third name "father". For the Śruti says त्रीणि नाव रेतसिंसि पिता पुत्रः पौत्रः (*trīṇi nāva retasiṃsi pitā putraḥ pautraḥ*) (Tai. Saṃ. 5-6-8-4). The meaning of this is: the Soma oblations offered in the fire reach the orb of the sun and nourish Indra and Viṣṇu, the other forms of Savitṛ who has twelve forms; pleased, the two rain through the clouds. (The block breaks off here, at तया (*tayā*).)
 
+### Printed p. 612
+
+> वृष्टा सस्यादिद्वारा प्रजाः पुत्रपौत्रादिरूपेण वर्धयत इत्येवंमहानुभावामिंद्राविष्णू इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his explanation of the passage with the words: through the rain that falls, by way of plants and the like, the two increase the creatures in the form of sons, grandsons and so on. Thus great in power are Indra and Viṣṇu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ताः (*tāḥ*)—the oblations in the form of Soma
+- अस्य (*asya*)—Indra's
+- महि (*mahi*)—great
+- पौंस्यं (*pauṃsyaṃ*)—manly power (the Kannada adds the particle ईं (*īṃ*))
+- वर्धंति (*vardhaṃti*)—cause to increase. (The same Indra)
+- रेतसे (*retase*)—for the sake of giving (living beings) the capacity of begetting offspring
+- भुजे (*bhuje*)—for the enjoyment of pleasures, or for protection
+- मातरा (*mātarā*)—to heaven and earth
+- नि नयति (*ni nayati*)—he makes (this power) go and join
+- दिवः (*divaḥ*)—of the shining Āditya
+- अधि रोचने (*adhi rocane*)—in the orb that shines exceedingly
+- नाम (*nāma*)—this generative power, established
+- पुत्रः (*putraḥ*)—every man, in the form of a son
+- पितुः (*pituḥ*)—by the favour of Viṣṇu the protector (or from himself, the begetter)
+- अवरं (*avaraṃ*)—as bearing the inferior designation of grandson
+- परं (*paraṃ*)—as bearing the designation of son, superior to that
+- तृतीयं (*tṛtīyaṃ*)—as bearing the name of father, distinct from these two
+- दधाति (*dadhāti*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+The oblations in the form of Soma, offered by the sacrificer, make Indra's great manly power increase. The same Indra, for the sake of giving living beings the capacity of begetting offspring and for the enjoyment of pleasures, makes this power go and join heaven and earth. This power, established in the orb of the exceedingly bright Āditya, is obtained by every man, by the favour of Viṣṇu, as bearing the designation of grandson, the designation of son, and the name of father.
+
+##### Printed English
+
+These (oblations) augment his, (Indra,s), mighty manhood, by which he fits the parents (of all creatures, heaven and earth), for generation and enjoyment; where-by, in the upper region of the sky. the son has an inferior and superior appellation, and a third (name) of father.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described how Indra's manly power increases through partaking of the Soma oblation; how the same Indra, directing his power to heaven and earth, becomes the cause of the enjoyment and growth of all beings; and how Indra, as the cause of growth in the form of sons, grandsons and so on, provides the world with Viṣṇu's favour. First,
+
+### Printed p. 613
+
+ताः अस्य महि पौंस्यं वर्धंति (*tāḥ asya mahi pauṃsyaṃ vardhaṃti*)—the well-known oblations in the form of Soma, pressed by the sacrificer, increase the form, that is, the strength, of Indra, which will be spoken of. The Soma oblations offered by the sacrificer make Indra's great strength increase. This manly power is not a benefit to Indra alone; it becomes a cause of the sacrificer's growth too.
+
+This matter is described in detail in the Ṛk
+वयो न वृक्षं सुपलाशमासदन्तोमास इंद्रं मुंदिनश्च मूषदः । प्रैषामनीकं शवसा दविद्युतद्विदत्स्वर्मरनवे ज्योतिरार्यं ॥ (*vayo na vṛkṣaṃ supalāśamāsadantomāsa iṃdraṃ muṃdinaśca mūṣadaḥ | praiṣāmanīkaṃ śavasā davidyutadvidatsvarmaranave jyotirāryaṃ ‖*) (Ṛ. Saṃ. 10-43-4).
+Here the Soma oblations offered from the Camasa vessels are likened to birds and Indra to a tree. As birds, settling in a tree, give the tree a kind of brilliance and beauty, so the Soma oblations, established in Indra, increase Indra's strength by their power and make him full of brilliance. Having thus shown the power of the Soma oblation, the Ṛk prays that Indra's strength and brilliance, produced by it, may benefit the human sacrificer as well.
+
+In Brāhmaṇa passages such as
+वायोः पूतः पवित्रेण । प्रत्यज्‌सोमोऽतिद्रुत इति सोमातिपूतस्य पुनाति यथारूपमेवैनं पुनातींद्रस्य युज्यः सखेति यदेवास्य तेनेंद्रियं वीर्यमतिक्रांतं भवति तदस्मिन्पुनर्दधाति ॥ (*vāyoḥ pūtaḥ pavitreṇa | pratyajsomo 'tidruta iti somātipūtasya punāti yathārūpamevainaṃ punātīṃdrasya yujyaḥ sakheti yadevāsya teneṃdriyaṃ vīryamatikrāṃtaṃ bhavati tadasminpunardadhāti ‖*) (Śa. Brā. 12-7-3-9)
+too, the Soma, purified by Vāyu and others and offered in the form of an oblation, is a fitting friend of Indra and increases his heroic vigour. Therefore it gives vigour to the sacrificer also, and restores his vigour to one who has become powerless. Thus the greatness of the Soma oblation is described here as it is everywhere else.
+
+पौंस्यं—पुंसः कर्म (*pauṃsyaṃ—puṃsaḥ karma*): the sense is the power of a man. This word is read among the names of strength (Ni. 3-9) and also among the names of battle (Ni. 3-9). In the present Ṛk it has to be understood as strength. Even if it is understood as battle, the sense is that the Soma juice fills Indra's battle with fresh vigour and brings him victory. In the 15th sūkta of the 2nd Maṇḍala, describing the daring deeds accomplished by Indra, satisfied and strengthened by drinking Soma, the first Ṛk
+प्र घा न्वस्य महतो महानि सत्या सत्यस्य करणानि वोचं । त्रिकद्रुकेष्टपिबत्सुतस्यास्य मदे अहिमिंद्रो जघान ॥ (*pra ghā nvasya mahato mahāni satyā satyasya karaṇāni vocaṃ | trikadrukeṣṭapibatsutasyāsya made ahimiṃdro jaghāna ‖*) (Ṛ. Saṃ. 2-15-1)
+
+### Printed p. 614
+
+declares that he will praise the great, truthful deeds of Indra, intoxicated by the Soma oblation offered at the rite-time called Trikadruka, such as the slaying of Ahi. In Ṛks such as
+अवंशे द्यामस्तभायद्बृहंतमा रोदसी अप्पणदंतरिक्षं । स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इंद्रश्चकार ॥ (*avaṃśe dyāmastabhāyadbṛhaṃtamā rodasī appaṇadaṃtarikṣaṃ | sa dhārayatpṛthivīṃ paprathacca somasya tā mada iṃdraścakāra ‖*) (Ṛ. Saṃ. 2-15-2)
+it is described how Indra, intoxicated by drinking Soma, has the power to fill earth and the other worlds with his brilliance; and by passages such as भिनद्वलमंगिरोभिर्गृणानो (*bhinadvalamaṃgirobhirgṛṇāno*) (2-15-8) how he subdued Vala and other Asuras. All these great deeds are likewise praised as the effect of the Soma oblations offered on the Ābhiplavika days: सोमस्य ता मद इंद्रश्चकार (*somasya tā mada iṃdraścakāra*).
+
+मातरा (*mātarā*) is a synonym for heaven and earth, the causes of the origin of the universe. Heaven and earth are in some places addressed as पितरा (*pitarā*) (1-159-2; 3-3-11; 7-53-2; 10-65-8), and sometimes as मातरा (*mātarā*) (9-85-12; 10-1-7; 10-35-3). In
+य इमे व्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥ (*ya ime vyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*) (Ṛ. Saṃ. 11-110-9)**NOTE**
+they are addressed as जनित्री (*janitrī*). Elsewhere again there is an address to the world of heaven (the Kannada word is म्यलोक (*myaloka*)) as father and to the earth alone as mother (1-89-4; 1-90-7; 1-160-2, etc.). **NOTE**
+In the Aitareya Brāhmaṇa an episode concerning the wedlock of heaven and earth is told in story form:
+इमौ वै लोकौ सहास्तां तौ व्यतां नावर्षन्न समतपत्ते पंचजना न समजानत तौ देवाः समनयंस्तौ संयंतावेतं देवविवाहं व्यवहेतां रथंतरेणैवेयममां जिन्वति बृहतासाविमां । .... .... .... असौ वै लोक इमं लोकमभिपर्यावर्तत । ततो वै द्यावापृथिवी अभवतां न द्यावांतरिक्षान्नांतरिक्षाद्दूमिः ॥ (*imau vai lokau sahāstāṃ tau vyatāṃ nāvarṣanna samatapatte paṃcajanā na samajānata tau devāḥ samanayaṃstau saṃyaṃtāvetaṃ devavivāhaṃ vyavahetāṃ rathaṃtareṇaiveyamamāṃ jinvati bṛhatāsāvimāṃ | .... .... .... asau vai loka imaṃ lokamabhiparyāvartata | tato vai dyāvāpṛthivī abhavatāṃ na dyāvāṃtarikṣānnāṃtarikṣāddūmiḥ ‖*) (Ai. Brā. 4-27).
+Heaven and earth, formerly joined together, for some time became separate. As soon as they separated, the light of the sun and the falling of rain stopped completely. The Pañcajanas (who they are was explained earlier) also could not foster mutual goodwill and a peaceful life. Then the gods approached heaven and earth and entreated them to become one
+
+### Printed p. 615
+
+again. Then the prescribed marriage was performed for the two. Ever since, heaven and earth have been in an unseparated relation. In the Taittirīya Āraṇyaka too,
+जाया भूमिः पतिर्व्योम (*jāyā bhūmiḥ patirvyoma*) (Tai. Ā. 1-10-1)
+the wedlock of heaven and earth is stated.
+In Ṛks such as
+प्र द्यावा यज्ञैः पृथिवी नमोभिः सबाध ईळे बृहती यजत्रे । ते चिद्भिः पूर्वे कवयो गृणंतः पुरो मही वधिरे देवपुत्रे ॥ (*pra dyāvā yajñaiḥ pṛthivī namobhiḥ sabādha īḷe bṛhatī yajatre | te cidbhiḥ pūrve kavayo gṛṇaṃtaḥ puro mahī vadhire devaputre ‖*) (Ṛ. Saṃ. 7-53-1)
+the epithet देवपुत्रे (*devaputre*) shows that heaven and earth are the parents not only of men but also of the gods.
+
+दिवः अधिरोचने (*divaḥ adhirocane*)—द्योतमानस्य आदित्यस्य रोचमाने मंडले (*dyotamānasya ādityasya rocamāne maṃḍale*): in the brilliant orb of the shining Āditya. परं अवरं तृतीयं दधाति (*paraṃ avaraṃ tṛtīyaṃ dadhāti*): the sacrificer obtains the names in the form of son, grandson and so on. Here the identity of Indra and Viṣṇu with Āditya is stated, and it is also said that the sacrificer's welfare comes by their favour. Sāyaṇa explains the relation of cause and effect between the wealth of sons and so on and the favour of Indra and Viṣṇu thus:
+अग्नौ हुताः सोमाहुतयः आदित्यमंडलं प्राप्य द्वादशात्मनः सवितुर्मूर्त्यंतरौ इंद्राविष्णू पोषयंति । तुष्टौ तौ मेघद्वारा वर्षतः । तया वृष्ट्या सस्यादिद्वारा प्रजाः पुत्रपौत्रादिरूपेण वर्धयत इत्येवं महानुभावौ इंद्राविष्णू इति । (*agnau hutāḥ somāhutayaḥ ādityamaṃḍalaṃ prāpya dvādaśātmanaḥ saviturmūrtyaṃtarau iṃdrāviṣṇū poṣayaṃti | tuṣṭau tau meghadvārā varṣataḥ | tayā vṛṣṭyā sasyādidvārā prajāḥ putrapautrādirūpeṇa vardhayata ityevaṃ mahānubhāvau iṃdrāviṣṇū iti |*).
+The Soma oblations offered in the fire reach the orb of Āditya and nourish Indra and Viṣṇu, who are other forms of Savitṛ. Satisfied by this, they send down rain through the cloud. By that rain plants and so on arise, which turn into food and become the cause of the growth of sons, grandsons and so on: such, Sāyaṇa says, is the purport of this sentence. This sentence states the close relation among sacrifice, Indra, Viṣṇu and Āditya, and shows how they are the cause of the increase of progeny in the world. There is also abundant support from Śruti passages for saying that this explanation is correct.
+
+स उ एव मखः स विष्णुः । तत इंद्रो मखवानभवन्मखवान्ह वै तं मघवानित्याचक्षते परोक्षं परोक्षकामा हि देवाः॥ (*sa u eva makhaḥ sa viṣṇuḥ | tata iṃdro makhavānabhavanmakhavānha vai taṃ maghavānityācakṣate parokṣaṃ parokṣakāmā hi devāḥ‖*) (Śa. Brā. 14-1-1-13).
+In this sentence the identity of Makha (sacrifice) and Viṣṇu is stated, and it is shown that because Indra possesses Makha, the name Makhavān (Maghavān) is well known for him.
+
+### Printed p. 616
+
+अथ यास्तद्देवाः । जुष्टास्तनूः प्रियाणि धामानि सार्धग्ं समवददिरे तदिंद्रे संन्यदधतैष वा इंद्रो य एष तपति न ह वा एषोऽग्रे तताप यथा हैवेदमन्यत्कृष्णमेवं हैवास तेनैवैतद्वीर्येण तपति तस्माद्यदि बहवो दीक्षॆरन् गृहपतय एव व्रतमभ्युत्सिच्य प्रयच्छेयुः स हि तेषामिंद्रभाजनं भवति । (*atha yāstaddevāḥ | juṣṭāstanūḥ priyāṇi dhāmāni sārdhagṃ samavadadire tadiṃdre saṃnyadadhataiṣa vā iṃdro ya eṣa tapati na ha vā eṣo 'gre tatāpa yathā haivedamanyatkṛṣṇamevaṃ haivāsa tenaivaitadvīryeṇa tapati tasmādyadi bahavo dīkṣèran gṛhapataya eva vratamabhyutsicya prayaccheyuḥ sa hi teṣāmiṃdrabhājanaṃ bhavati |*) (Śa. Brā. 3-4-2-15).
+In these sentences एष वा इंद्रो य एष तपति (*eṣa vā iṃdro ya eṣa tapati*) it is said that Āditya, shining in the atmosphere, is Indra; that the prescribed offering of oblations by the initiated is the cause of Āditya's radiance; and, to show that sacrifice too is a cause of men's prosperity, since without Āditya's light and power there is no room for the falling of rain and so on, it is also said that Indra, in the form of Āditya, becomes brilliant only through sacrifice.
+
+In the present Ṛk, for the word पितुः (*pituḥ*) it is said पालकाद्विष्णोरनुग्रहात् (*pālakādviṣṇoranugrahāt*): the wealth of sons and so on comes by the favour of Viṣṇu the protector. That is, this point is indicated both because sacrifice and Viṣṇu are closely related, and because Indra and Viṣṇu have a natural and sacrificial relationship. This mutual relationship is explained in the Śatapatha Brāhmaṇa thus:
+अथैवमभिपद्य वाचयति । विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे इंद्रस्य युज्यः सखेति वज्रं वा एष प्राहार्षीद्यो यूपमुदशिश्रियद्विष्णोर्विजितिं पश्यतेत्येवैतदाह .... .... .... इंद्रोवै यज्ञस्य देवता वैष्णवो यूपस्तग् सेंद्रं करोति तस्मादाहेंद्रस्य युज्यः सखेति ॥ (*athaivamabhipadya vācayati | viṣṇoḥ karmāṇi paśyata yato vratāni paspaśe iṃdrasya yujyaḥ sakheti vajraṃ vā eṣa prāhārṣīdyo yūpamudaśiśriyadviṣṇorvijitiṃ paśyatetyevaitadāha .... .... .... iṃdrovai yajñasya devatā vaiṣṇavo yūpastag seṃdraṃ karoti tasmādāheṃdrasya yujyaḥ sakheti ‖*) (Śa. Brā. 3-7-1-17).
+Here it is said that Indra and Viṣṇu have a natural friendship, that the Vaiṣṇava share of the sacrifice is to be assigned to Indra also, and that therefore both are partakers of the fruit of the sacrifice.
+
+अथ चषालमुदीक्षते । तद्विष्णोः परमं पदग्ं सदा पश्यंति सूरयः। दिवीव चक्षुराततं । (*atha caṣālamudīkṣate | tadviṣṇoḥ paramaṃ padagṃ sadā paśyaṃti sūrayaḥ| divīva cakṣurātataṃ |*) (Śa. Brā. 3-7-1-18).
+Here it is said that Viṣṇu's highest place is the orb of Āditya shining in the world of heaven.
+
+Thus, because of this mutual relation among Indra, Viṣṇu, sacrifice and the orb of Āditya, the present Ṛk declares that the sacrificers' increase of progeny, sons, grandsons and so on, comes by the favour of Indra and Viṣṇu.
+
+### Printed p. 617
+
+रेतसे (*retase*)—पुत्राम्यत्पादनसामर्थाय (*putrāmyatpādanasāmarthāya*): it is explained as "for the capacity of begetting offspring". And Sāyaṇa, quoting the Saṃhitā passage
+त्रीणि नाव रेतांसि पिता पुत्रः पौत्रः (*trīṇi nāva retāṃsi pitā putraḥ pautraḥ*) (Tai. Saṃ. 5-6-14)**NOTE**
+says that the seed takes three kinds of forms: father, son and grandson. The present Ṛk expresses the same by the words तृतीयं (*tṛtīyaṃ*), परं (*paraṃ*) and अपरं (*aparaṃ*). **NOTE**
+The word रेतस् (*retas*) has other meanings besides the male seed that begets offspring. The Nirukta author has included this word among the names of water, अर्णः, क्षोदः, क्षद्म (*arṇaḥ, kṣodaḥ, kṣadma*) and so on (Ni. 2-27). In Ṛks such as
+दिपो न यस्य रेतसो दुघानाः संथासो यंति शवसापरीताः । तरद्वेषाः सासहिः पौंस्येभिर्मरुत्वान्नो भवत्विंद्र ऊती ॥ (*dipo na yasya retaso dughānāḥ saṃthāso yaṃti śavasāparītāḥ | taradveṣāḥ sāsahiḥ pauṃsyebhirmarutvānno bhavatviṃdra ūtī ‖*) (Ṛ. Saṃ. 1-100-3)
+it means the waters of rain. And in
+कथा महे पुष्टिंभराय पूष्टे कद्रुद्राय सुमखाय हनिर्दे । कद्विष्णव उरुगायाय रेतो ब्रवः कदग्ने शरवे बृहत्यै ॥ (*kathā mahe puṣṭiṃbharāya pūṣṭe kadrudrāya sumakhāya hanirde | kadviṣṇava urugāyāya reto bravaḥ kadagne śarave bṛhatyai ‖*) (Ṛ. Saṃ. 4-3-7)
+Sāyaṇa explains the word रेतस् (*retas*) as पासव (*pāsava*), a cause of destruction. **NOTE**
+The use of this word in the sense of the seed that begets offspring, and the account of the exceeding power of the seed, are given at length in the Taittirīya Saṃhitā (5-6-8).
+
+भुरण्यति (*bhuraṇyati*)—the commentator says the sense is गच्छति भजते च (*gacchati bhajate ca*), that is, "he understands" (the Kannada word given). The Nirukta author has included this word among the names of motion (Ni. 3-9). Since even that motion indicates swift movement, it is said that birds and the like also bear the name Bhuraṇyu:
+भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि पोळ्ता तत्संपाती भुरण्युरनेन पावकख्यातेन । (*bhuraṇyuriti kṣipranāma | bhuraṇyuḥ śakunirbhūrimadhvānaṃ nayati svargasya lokasyāpi poḷtā tatsaṃpātī bhuraṇyuranena pāvakakhyātena |*) (si. 12-22).**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 611. pp. 606-611 (batch API)
+**Progress note:** Done through printed p. 617. pp. 612-617 (batch API)
