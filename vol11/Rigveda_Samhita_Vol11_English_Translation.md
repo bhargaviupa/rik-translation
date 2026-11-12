@@ -12192,6 +12192,148 @@ In these and other Ṛks, तुजतः (*tujataḥ*) means भूरिप्
 
 As in these and other Ṛks the meaning is गमयति प्रेरयति (*gamayati prerayati*), "causes to go", so in the present Ṛk also the meaning is "you bring together (the cows into the stall)".
 
+### Printed p. 500
+
+##### विशेषविषयगळु (Special Topics)
+
+निम्रुचः (*nimrucaḥ*)—मुरुचिः गत्यर्थः । सूर्यस्य निम्रोचने नितरां गमने । सायमित्यर्थः । (*muruciḥ gatyarthaḥ | sūryasya nimrocane nitarāṃ gamane | sāyamityarthaḥ |*) The root म्रुच् (*mruc*) has the sense of going; with the prefix नि (*ni*) added it means the final going of the sun, and so it gives the sense "evening".
+
+यदद्य सूर्य उद्यति प्रियक्षत्रा ऋतं दध । (*yadadya sūrya udyati priyakṣatrā ṛtaṃ dadha |*)
+यॆन्नि म्रुचि प्रबुधि विश्ववेदसो यद्वा मध्यंदिने दिवः ॥ (*yènni mruci prabudhi viśvavedaso yadvā madhyaṃdine divaḥ ‖*) (Ṛ. Saṃ. 8-27-19)
+श्रद्धां प्रातर्हवामहे श्रद्धां मध्यंदिनं परि । (*śraddhāṃ prātarhavāmahe śraddhāṃ madhyaṃdinaṃ pari |*)
+श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेह नः ॥ (*śraddhāṃ sūryasya nimruci śraddhe śraddhāpayeha naḥ ‖*) (Ṛ. Saṃ. 10-151-5)
+In these and similar Ṛks the word means अस्तमयवेलायां सायं समये (*astamayavelāyāṃ sāyaṃ samaye*), that is, the evening, the time of sunset; the same meaning applies in the present Ṛk.
+
+तक्ववीः (*takvavīḥ*)—तृपुः, तक्वा (*tṛpuḥ, takvā*) and so on are read among the names for "thief" (Ni. 3-19); the word तक्वन् (*takvan*) means a thief. तस्य वेता गंता मनुष्यः । (*tasya vetā gaṃtā manuṣyaḥ |*) That is, a man who goes in search of such a thief.
+त्वां त्सारी दसमानो भगमीट्टे तक्ववीये ! (*tvāṃ tsārī dasamāno bhagamīṭṭe takvavīye !*) (Ṛ. Saṃ. 1-134-5)
+In that place the gloss is तस्कराणां गमनं (*taskarāṇāṃ gamanaṃ*); likewise in the present Ṛk the meaning is तस्करानुद्दिश्यागमनं (*taskarānuddiśyāgamanaṃ*), "going out after thieves".
+
+##### Grammar
+
+- मही अत्र — मही शब्दात् सप्तम्येकवचने परे सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घो भवति । ततः ईदूत् च सप्तम्यर्थे (पा सू. १-१-१९) इति तस्य प्रगृह्यसंज्ञा भवति । तस्मात् प्लुतप्रगृह्या अचिनित्यम् (पा. सू. ६-१-१२५) इति प्रकृतिभावसंधिर्भवति ।
+- महिना — महत् शब्दः पृथ्वादिगणे पठितत्वात् तस्य भावः इत्यस्मिन्नर्थे पृथ्वादिभ्य इमनिच् ना (पा. सू. ५-१-१२२) इति इमनिच् प्रत्ययः । टेः इति टेर्लोपः । तदा चितः (पा. सू. ६-१-१६३) इत्यन्तोदात्तस्वरो भवति । तृतीयैकवचने अल्लोपे प्राप्ते उदात्तनिवृत्तिस्वरेण तस्योदात्तस्वरो भवति । छांदसत्वान्मकारलोपो भवति ।
+
+### Printed p. 501
+
+- ऋण्वथः — रिवि गतौ धातुः । इदितो नुम् धातोः इति नुमागमः । व्यत्ययेन संप्रसारणं भवति । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति । प्रयोजकव्यापारप्रतीतेः अंतर्भावितण्यर्थः धातुः ।
+- अरेणवः — न विद्यते रेणुः येषां ते अरेणवः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इत्यन्तोदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+- तुजः — तुजधातुः दानार्थे प्रयुक्तः । क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । प्रथमाबहुवचनांतरूपम् ।
+- सद्मन् — सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तम्या लुक् भवति ।
+- आ — उपसर्गस्य श्रुतत्वात् गच्चंति इत्यध्याहारः कर्तव्यः ।
+- स्वरंति — सृः शब्दोपतापयोः धातुः । भ्वादिः । लट् प्रथमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति सूत्रेण लसार्वधातुकस्यानुदात्तत्वात् धातुस्वरः शिष्यते ।
+- उपरताति — सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तमीविभक्तौ प्राप्तायां तस्या लुक् ।
+- निम्रुचः — म्रुचु गतौ धातुः । भ्वादिः । क्विप् च इति क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- तक्ववीः — तक्कं स्तेनं वेति गच्छति इति तक्ववीः । पूर्ववत् वीधातोः क्विपि प्राप्ते कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ना॑मृ॒ताय॑ के॒शिनी॑रनूषत॒ मित्र॒ यत्र॒ वरु॑ण गा॒तुमर्च॑थः ।  
+> अव॒ त्मना॑ सृ॒जतं॒ पिन्न॑तं॒ धियो॑ यु॒वं विप्र॑स्य॒ मन्म॑नामिरज्यथः ॥ ६ ॥
+
+### Printed p. 502
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । ऋताय । केशिनीः । अनूषत । मित्र । यत्र । वरुण । गातुं । अर्चथः ।  
+> अव । त्मना । सृजतं । पिन्वतं । धियः । युवं । विप्रस्य । मन्मनां । इरज्यथः ॥ ६ !!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुण् केशिनीकेशवत्योऽग्नेज्वाला नां युवामृताय यज्ञार्थमानूषत । हविःसमर्पणेनाभिपूजयंतीत्यर्थः । कुत्रेति तदुच्यते । हे मित्र
+> हे वरुण युवामुभौ यत्र यागे गातुं गमनं देवयजनदेशं ना । गातुरिति
+> पृथिवीनाम गातुः पूषेत्युक्तत्वात् । अर्चथः पूजयथः । स्वीकुरुथ इत्यर्थः ।
+> आगत्य च त्मनात्मनैवाव सृजतं वृष्टिमवाङ्मुखं विसृजतं । तथा कृत्वा धियोऽस्मदीयानि कर्माणि पिन्नतं । वर्धयतमित्यर्थः । एवं कृत्वा विप्रस्य मेधाविनो यजमानस्य मन्मनां मननवतीनां स्तुतीनां युवं युवामिरज्यथः । ईश्वरौ स्वामिनौ
+> भवथः । इरज्यतिरैश्वर्यकर्मा इरज्यति पत्यत इति तन्नामसूक्तत्वात् ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, the flames of Agni, which are "tressed" (केशिनीः (*keśinīḥ*)), minister to you (ऋताय (*ṛtāya*), for the sacrifice); that is, they honour you by offering the oblation. Where? That is told: O Mitra, O Varuṇa, in the sacrifice where you both honour (अर्चथः (*arcathaḥ*), "worship", that is, accept) the गातुं (*gātuṃ*), which he glosses as your going, or the place of the divine sacrifice. गातुः (*gātuḥ*) is a name of the earth, since it is said "गातुः पूषा (*gātuḥ pūṣā*)". Having come, you send down the rain, facing downwards, of your own accord (त्मना (*tmanā*)); having done so, you prosper (पिन्वतं (*pinvataṃ*), "make grow") our works (धियः (*dhiyaḥ*)). Having done so, you two are lords (इरज्यथः (*irajyathaḥ*), "are masters") of the thoughtful praises (मन्मनां (*manmanāṃ*)) of the wise sacrificer (विप्रस्य (*viprasya*)). इरज्यति (*irajyati*) is a verb of lordship, as stated in the Nighaṇṭu list of its names.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—O Mitra
+- वरुण (*varuṇa*)—O Varuṇa (both of you)
+- यत्र (*yatra*)—in which sacrifice
+- गातुं (*gātuṃ*)—(your) going, or the place of the sacrifice
+- अर्चथः (*arcathaḥ*)—you accept and honour (there)
+- केशिनीः (*keśinīḥ*)—the flames of fire that are like hair
+- नां (*nāṃ*)—you two
+- ऋताय (*ṛtāya*)—for the sacrifice
+- अनूषत (*anūṣata*)—they minister (by offering the oblation), (you having come)
+- त्मना (*tmanā*)—by your own impulse
+- अव सृजतं (*ava sṛjataṃ*)—cause (the rain) to pour down
+- धियः (*dhiyaḥ*)—our works
+- पिन्वतं (*pinvataṃ*)—cause them to increase (because)
+- युवं (*yuvaṃ*)—you two
+- विप्रस्य (*viprasya*)—of the wise sacrificer
+- मन्मनां (*manmanāṃ*)—to the praises offered with faith
+- इरज्यथः (*irajyathaḥ*)—you are the lords
+
+##### भावार्थ (Bhāvārtha)
+
+Bhīmeśvara: O Mitra and Varuṇa, in whatever sacrifice you adorn and honour the sacrificial place by your coming, there the flames of Agni, in the form of hair, minister to you both in the sacrifice with offerings of oblation and the like. Be pleased to come there and of your own impulse cause the beneficial rain to pour down for us, and make our works prosper. For you both are lords of the faith-filled praises of the wise sacrificer.
+
+### Printed p. 503
+
+##### Printed English
+
+The tresses of Agni minister, Mitra and Varuna, to your sacrifice, when you honour (with your presence) the sacrificial chamber : send down of your own accord (the rain) and prosper our offerings, for you have com- mand over the praises of the pious men.
+
+##### विशेषविषयगळु (Special Topics)
+
+गातुं (*gātuṃ*)—गमनं देवयजनदेशं वा । (*gamanaṃ devayajanadeśaṃ vā |*) A twofold meaning has been given: (Mitra and Varuṇa's) going, or the place of the sacrifice. Even when the sense "going" is taken, a twofold meaning is possible: the path of performance, or the path of going to the world of the gods. Like the word सुगं (*sugaṃ*), this word too has both a physical and a moral sense.
+ऊर्ध्वो नां गातुरध्वरे अकार्यूर्ध्वा शोचींषि प्रस्थिता रजांसि । (*ūrdhvo nāṃ gāturadhvare akāryūrdhvā śocīṃṣi prasthitā rajāṃsi |*)
+दिवो ना नाभा न्यसादि होता स्तृणीमहि देवव्यचा वि बर्हिः ॥ (*divo nā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ ‖*) (Ṛ. Saṃ. 3-4-4)
+In such Ṛks it is taken as "path"; and in
+अर्यमा नो अदितिर्यज्ञियासोऽदब्बानि वरुणस्य व्रतानि । (*aryamā no aditiryajñiyāso 'dabbāni varuṇasya vratāni |*)
+युयोत नो अनपत्यानि गंतोः प्रजावान्नः पशुमा अस्तु गातुः ॥ (*yuyota no anapatyāni gaṃtoḥ prajāvānnaḥ paśumā astu gātuḥ ‖*) (Ṛ. Saṃ. 3-54-18) **NOTE**
+and the like: स्तुवंतींद्रादीनत्रेति गातुर्गृहं । (*stuvaṃtīṃdrādīnatreti gāturgṛhaṃ |*) the house in which Indra and the other gods are praised. And in
+न्यस्मै देवी स्वधितिर्जिहीत इंद्राय गातुरुशतीव येमे । (*nyasmai devī svadhitirjihīta iṃdrāya gāturuśatīva yeme |*)
+सं यदोजो युवते विश्वमाभिरनु स्वधान्ने क्षितयो नमंत ॥ (*saṃ yadojo yuvate viśvamābhiranu svadhānne kṣitayo namaṃta ‖*) (Ṛ. Saṃ. 5-32-10)
+and the like, "earth" (the word गातु (*gātu*) is read among the names of the earth, Ni. 2-5). In
+स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुमैरत् । (*sa te jānāti sumatiṃ yaviṣṭha ya īvate brahmaṇe gātumairat |*)
+निश्वान्यस्मै सुदिनानि रायो द्युम्नान्यरो नि दुरो अभि द्यौत् ॥ (*niśvānyasmai sudināni rāyo dyumnānyaro ni duro abhi dyaut ‖*) (Ṛ. Saṃ. 4-4-6)
+the word is also used as a synonym of "praise": गीयते उच्चार्यते इति गातुः सोत्रं (*gīyate uccāryate iti gātuḥ sotraṃ*). In the present Ṛk the alternative meaning गमनं देवयजनदेशं वा (*gamanaṃ devayajanadeśaṃ vā*) has been given.
+
+### Printed p. 504
+
+इरज्यथः (*irajyathaḥ*)—The word इरज्यति (*irajyati*) is read both among the names of acts of lordship (Ni. 3-11) and among the names of acts of service (Ni. 3-13); yet the use of this word in the first sense is the more frequent.
+इरज्यन्नग्ने प्रथयस्व जंतुभिरस्मे रायो अमर्त्य । (*irajyannagne prathayasva jaṃtubhirasme rāyo amartya |*)
+स दर्शतस्य वपुषो वि राजसि पृणक्षि सानसिं क्रतुं ॥ (*sa darśatasya vapuṣo vi rājasi pṛṇakṣi sānasiṃ kratuṃ ‖*) (Ṛ. Saṃ. 10-140-4)
+In this Ṛk, in explaining the word इरज्यन् (*irajyan*), he first gives one meaning, derived from the root इरज् (*iraj*) in the sense of rivalry: ईष्यन् (*īṣyan*), that is स्पर्धां कुर्वन् (*spardhāṃ kurvan*), "you shine, vying with other powers and splendours"; and as second: यद्वा इरज्यतिरैश्वस्य कर्म जंतुभिर्जायमानैरात्मीयैस्तेजोभिः इरज्यन् ईश्वरो भवन् । (*yadvā irajyatiraiśvasya karma jaṃtubhirjāyamānairātmīyaistejobhiḥ irajyan īśvaro bhavan |*) "being the lord of all creatures by your own splendour." Likewise in
+यस्य श्वेता विचक्षणा तिस्रो भूमीरधिक्षितः । (*yasya śvetā vicakṣaṇā tisro bhūmīradhikṣitaḥ |*)
+त्रिरुत्तराणि पप्रतुर्वरुणस्य ध्रुवं सदः स सप्तानामिरज्यति नभंतामन्यके समे ॥ (*triruttarāṇi papraturvaruṇasya dhruvaṃ sadaḥ sa saptānāmirajyati nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-41-9)
+and similar Ṛks, इरज्यति (*irajyati*) means ईश्वरो भवति (*īśvaro bhavati*), "he is the master"; so in the present Ṛk too it is described that Mitra and Varuṇa are lords of all the praises and of those who praise.
+
+##### Grammar
+
+- केशिनीः — केशाः आसां संतीति केशिन्यः । अत्र जसि परे सुपां सुलुक् (पा.सू. ७-१-३९) इति पूर्वसवर्णदीर्घो भवति ।
+- अनूषत — णु स्तुतौ धातुः । व्यत्ययो बहुलं इत्यात्मनेपदी भवति । छांदसत्वात् लुङ् । झ प्रत्ययस्य अत् आदेशः । क्लिगे सिचि प्राप्ते गांकुटादिभ्यः (पा सू. १-२-१) इति तस्य जित्त्वात् तन्निमित्तीकृत्य गुणो न भवति । छांदसत्वात् धातोर्दीर्घः सिचः इडभावश्च भवति । तिजंतनिघातस्वरो भवति । **NOTE**
+- गातुम् — गै शब्दे धातुः । कमिमनिजनि (उ. सू. १-७२) इति तु प्रत्ययः । आदेचउपदेशेशिति (पा. सू. ६-१-४५) इति धातोरात्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाकवचनांतरूपम् । गातुः पूषा (निरु. १-१-२०) इति पृथिवीन्याये पठितः ।
+
+### Printed p. 505
+
+- अर्चथः — अर्च पूजायां धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । निपातैर्यद्यदि (पा. सू. ८-१-३०) इति निघातस्वरप्रतिषेधो भवति, तस्मात् धातुस्वरः शिष्यते ।
+- त्मना — मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इति आकारस्य लोपो भवति ।
+- सृजतम् — सृज विसर्गे धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । लसार्वधातुकस्यानुदात्तत्वात् श विकरणस्वरः शिष्यते । चादिलोपे विभाषा (पा. सू. ८-१-६३) इति निघातप्रतिषेधो भवति ।
+- पिन्वतम् — पिवि सेचने धातुः । लोट् मध्यनुपुरुषद्विवचनांतरूपम् । इदित्त्वात् नुमागमो भवति । तिजंतस्य परत्वात् निघातस्वरो न भवति । शप् अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- मन्मनाम् — मन ज्ञाने धातुः । सर्वधातुनिबंधनः मनिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । षष्ठीबहुवचनांतरूपम् ।
+- इरज्यथः — इरज्य धातुः ऐश्वर्यक्रियावाची । लट् प्रथमपुरुषद्विपचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नां॑ य॒ज्ञैः श॑शमा॒नो ह॒ दाश॑ति क॒विर्होता॒ यज॑ति  ॒॑
+> मन्म॒साध॑नः ।  
+> उपाह॒ तं गच्छ॑थो वी॒थो अ॑ध्व॒रमच्चा॒ गिरः॑ सुम॒तिं गं॑तमस्म॒यू ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । यज्ञैः । शशमानः । द । दाशति । कविः । होता । यजति । मन्मसाधनः ।
+
 ---
 
-**Progress note:** Done through printed p. 499. pp. 493-499 (batch API)
+**Progress note:** Done through printed p. 505. pp. 500-505 (batch API)
