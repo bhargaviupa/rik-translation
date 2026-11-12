@@ -32,14 +32,14 @@ suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] == 'r
 # Kannada anchors
 sl = []
 for i, l in enumerate(kn):
-    m = re.match(rf'^(?:[॥।]\s*)?(?:ಮಂಡಲ|ಸುಂಡಲ)\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
+    m = re.match(rf'^(?:>\s*)?(?:[॥।]\s*)?(?:ಮಂಡಲ|ಸುಂಡಲ)\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
     if m:
-        if sl and sl[-1][1] is None and sl[-1][2] == edig(m.group(2)):                                      # the title line 'ಸೂಕ್ತ—N' above is the same sūkta
+        if sl and sl[-1][1] is None and (sl[-1][2] == edig(m.group(2)) or i - sl[-1][0] <= 3):             # the title line 'ಸೂಕ್ತ—N' right above is the same sūkta (also when the supplied text misreads a digit: Vol 18 Sūkta 49 printed ೮೯)
             if i - sl[-1][0] > 3: sl[-1] = (i, edig(m.group(1)), edig(m.group(2)))                          # far above (Vol 15): the heading goes before this line, as before
             continue
         sl.append((i, edig(m.group(1)), edig(m.group(2)))); continue
     m = re.match(r'^(?:>\s*)?ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)\s*$', l.strip())          # Vol 17: most sūktas have only this title line
-    if m: sl.append((i, None, edig(m.group(1))))
+    if m and not (sl and sl[-1][1] is None and sl[-1][2] == edig(m.group(1)) and i - sl[-1][0] <= 3): sl.append((i, None, edig(m.group(1))))      # the same title line twice in a row (Vol 18 Sūkta 44: a picture of it stood between): once
 full = [x for x in sl if x[1] is not None]
 if len(full) == len(suktas): sl = full                 # every sūkta has its full line (Vols 15, 16): the title lines are not needed
 labs = [i for i, l in enumerate(kn) if l.strip() == '*ಸಂಹಿತಾಪಾಠಃ*']
