@@ -167,6 +167,8 @@ Every existing volume comes into the same data. What differs is where the Englis
 
 Nothing of the old files is deleted: they stay as they are, as the record of what was imported.
 
+**The branch `claude/dreamy-cerf-z4h3f4`** (Nov 11–12) made transliteration a print-time matter for the Saṃhitā and Pada blocks and stripped the stored lines from Vols 12 and 14–17. It was not merged (16 conflicting files). Its audit document and its note on built PDFs are on `main`; its tool work (`strip_iast.py`, build-time transliteration in the print builder) is superseded by this design, where no file stores transliteration, and is to be consulted when the printer of Phase A is built. The branch is kept until then.
+
 ## 8. Checks and the release gate
 
 ### 8.1 One command, one report

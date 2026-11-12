@@ -98,6 +98,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 ### B2. Sanskrit
 1. Sanskrit is given in three layers: Devanagari, transliteration (IAST), English. This now includes the Sāyaṇa-bhāṣya again. **NEW** for Vols 16–18
 2. Devanagari and transliteration are made by script from the supplied text. The translator does not type them.
+   **Transliteration is made when the book is printed and is not stored in the volume files** (user decision, Nov 11 2026, recorded on the branch `claude/dreamy-cerf-z4h3f4`; it now covers the Sāyaṇa-bhāṣya too, by the comment of Nov 12).
 3. No Kannada script in the English book: not in headings, references or abbreviations.
 
 ### B3. References and abbreviations
@@ -187,6 +188,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 - Work is committed and pushed; no force-push; `main` only when the user asks.
 - API money is spent only after the user has seen the estimate.
 - Rights, ISBN and publisher live only in `publish/release.json`.
+- Built PDFs and their HTML are kept in the repository and every rebuild is committed; page scans are not (user decision, Nov 12 2026).
 - The reference texts are for private study; the repository stays private.
 - Reports say what was verified and how.
 
