@@ -6344,6 +6344,156 @@ Thus some epithets, though common to both Hotṛs, suggest only the duty of the 
 
 In this Ṛk there is no doubt that the epithet प्रथमा (*prathamā*) refers to Agni, the divine Hotṛ.
 
+### Printed p. 260
+In 1-13-4 too, होता मनुर्हितः (*hotā manurhitaḥ*) is an epithet of Agni. The precise difference between these two hotṛs is stated in the Praiṣa-sūkta thus:
+होता यक्षद्देव्या होतारा मंद्रा पोतारा कवी प्रचेतसा । स्विष्टमिद्यान्यः करदिषा स्वभिगूर्तमन्य ऊर्जा सतवसेमं यज्ञं दिवि देवेषु धत्तां वीतामाज्यस्य होतर्यज । (*hotā yakṣaddevyā hotārā maṃdrā potārā kavī pracetasā | sviṣṭamidyānyaḥ karadiṣā svabhigūrtamanya ūrjā satavasemaṃ yajñaṃ divi deveṣu dhattāṃ vītāmājyasya hotaryaja |*) (Tai. Brā. 3-6-2-2)
+In this sentence it is indicated that one hotṛ is to make the sacrifice acceptable with the oblation in the form of food, and the other is to establish this sacrifice in heaven among the gods. This exchange of functions shows the difference between the human hotṛ and Agni, the divine hotṛ. In the Aitareya Brāhmaṇa:
+दैन्या होतारा यजति प्राणापानौ वै दैन्या होतारा प्राणापानावेव तत्प्रीणाति प्राणापानौ यजमाने दधाति । (*dainyā hotārā yajati prāṇāpānau vai dainyā hotārā prāṇāpānāveva tatprīṇāti prāṇāpānau yajamāne dadhāti |*) (Ai. Brā. 2-4)
+Thus the identity of these hotṛs with prāṇa and apāna is stated, and it is said that the one who recites this mantra secures for the sacrificer the well-being of prāṇa and apāna. In the Nirukta:
+दैन्या होतारा दैन्य होतारावयं चाग्निरस् च मध्यमः (*dainyā hotārā dainya hotārāvayaṃ cāgniras ca madhyamaḥ*) (Ni. 8-12)
+Thus, in passages that support Sāyaṇa's meaning, the two are said to be the terrestrial Agni and the Agni of the atmosphere. In the Bṛhaddevatā too, approving the same view:
+दैव्याविति तु होतारावग्नी पार्थिवमध्यम् । दिन्यादग्नीर्हि जज्ञाते दैन्यौ तेनेह जन्मना ॥ (*daivyāviti tu hotārāvagnī pārthivamadhyam | dinyādagnīrhi jajñāte dainyau teneha janmanā ‖*) (Bṛ. De. 3-11)
+It is said that both these hotṛs are the terrestrial and the middle (atmospheric) Agnis.
+
+Jugurvaṇī—भृशं गृणतां यजमानानां संभक्तारौ (*bhṛśaṃ gṛṇatāṃ yajamānānāṃ saṃbhaktārau*): the two who favour the sacrificers who praise them; that is the meaning.
+
+Sidhram—सिद्धं फलसाधनभूतं (*siddhaṃ phalasādhanabhūtaṃ*): that which yields fruit; that is the meaning. The Nirukta author:
+द्यावा नः पृथिवी इमं सिध्रमद्य दिविस्पृशं । यज्ञं देवेषु यच्छतां । (*dyāvā naḥ pṛthivī imaṃ sidhramadya divispṛśaṃ | yajñaṃ deveṣu yacchatāṃ |*) **NOTE**
+
+### Printed p. 261
+Having cited this Ṛk, he explains the word siddha as meaning "instrument". In the present Ṛk it means the sacrifice that is the means of the fruit.
+
+Mandrajihvā—देवानां मादनज्वाल् (*devānāṃ mādanajvāl*): those whose flames bring delight to the gods; that is the meaning. The words mandra and mandrajihva are explained in the Special Topics of Ṛk 1-141-12 of this same volume. Since it is impossible for the word mandrajihvā to be an epithet of the human hotṛ, it shows that दैव्य होतारौ (*daivya hotārau*) must be the two forms of Agni. Only then is this epithet appropriate.
+
+##### Grammar
+
+- मंद्रजिह्वा — मदी हर्ष धातुः । स्थायितञ्च—(उ. सू. २-१७०) इति रक् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । मंद्रा जिह्वा ययोस्ते मंद्रजिह्वा । बहुव्रीहौ—(पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति । सुपां सुलुक्—इति सूत्रेण विभक्तेः आकारादेशः ।
+- जुगुर्वणी — ग्य शब्द धातुः । भृशार्थे धातोरेकाचः—(पा. सू. ३-१-२२) इति यज् प्रत्यये आगते यजोचिच (पा. सू. २-४-७४) इति तस्य अनैमित्तिके लुकि आगते छांदसत्वेन जुगुर् इति रूपं भवति । वन संभक्तौ धातुः । जुगुर् इति उपपदे सति छंदसिवनसनरक्षिमथाम् (पा. सू. ३-२-२७) इति इन् प्रत्ययः । जुगुर्णि इति रूपं भवति । अट् कुप्वाज्—इति धातुनकारस्य णत्वं । द्विवचनांतरूपं ।
+- होतारा — दु दानादनयोः धातुः । कर्तरि तृन् प्रत्ययः । नित्त्वात् आम्यदात्तस्वरो भवति । द्विवचने सुपां सुलुक्—इति आकारादेशः ।
+- दैव्या — देव शब्दात् संबंधार्थे ष्यज् प्रत्ययः । इत्त्वात् तद्धितेष्वचामादेः इति आदिवृद्धिः । यस्येति च इति अकारलोपः । आद्युदात्तस्वरो भवति । पूर्ववत् विभक्तेः आकारादेशः ।
+- यक्षताम् — यज देवपूजासंगतिकरणदानेषु धातुः । लोट् प्रथमपुरुषद्विवचने लङ्वद्भावात् तामादेशः । शप् विकरणः । सिब्बहुलं लेटि (पा. सू. ९-१-१९७) इत्यत्र बहुलग्रहणसामर्थ्यात् इहापि सिप् आगच्छति । चोःकुः इति जकारस्य कुत्वं । खरिच इति तस्य चर्त्वं । आदेश प्रत्यययोः इति सिपः सकारस्य पत्त्वं । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+
+### Printed p. 262
+- सिध्रम् — षिध गत्याम् धातुः । स्थायितंचिवं—(उ. सू २-१७०) इति रक् प्रत्ययः । धात्वादेः षः सः (पा. सू. ६-१-६४) इति आदेः सत्वं । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- दिविस्पृशम् — दिवि स्पृशति इति दिविस्पृक् । क्विप् च इति क्विप् प्रत्ययः । तत्पुरुषे कृति बहुलम् (पा. सू. ६-३१४) इति विभक्तेः अलुक् । गतिकारकोपपदात् इति कृदुत्तरपदप्रकृतिस्वरो भवति । ॥ ८ ॥ **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचि॑र्दे॒वेष्वर्पि॑ता॒ होत्रा॑ म॒रुत्सु॒ भार॑ती ।  
+> इळा॒ सर॑स्वती म॒ही ब॒र्हिः सी॑दंतु य॒ज्ञियाः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । देवेषु । अर्पिता । होत्रा । मरुत्सु । भारती ।  
+> इळा । सरस्वती । मही । बर्हिः । सीदंतु । यज्ञियाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुचिः शुद्धा मरुत्तु विरुद्धलक्षणयामरणेषु देवेषु द्योतनशीलेषु
+> स्तोतृषु मरुत्तु ऋत्विक्षु वार्पिता नियता होत्रा होमनिष्पादिका भारती भरतस्यादित्यस्य संबंधिनी द्युस्थाना वाक् तथेळा पार्थिवी प्रैषादिरूपा मही महती
+> सरस्वती । सर इत्युदकनाम । तद्वती स्तनितादिरूपा माध्यमिका च वाक् एतास्तिस्रस्त्रिस्थानवागभिमानिदेवता यज्ञिया यज्ञार्हाः सत्यो बर्हिः स्तीर्णं सीदंतु । उपविशंतु ॥
+
+##### Gist of the bhāṣya
+
+Śuci means pure. मरुत्सु (*marutsu*) is explained, with a phrase that is garbled in the text, as "among the Maruts" in the sense of the deathless **NOTE**. देवेषु (*deveṣu*) means among the radiant worshippers (stotṛs), or मरुत्सु (*marutsu*) among the officiating priests (ṛtvijs). Arpitā means fixed, appointed. Hotrā is the accomplisher of the offering (homa). Bhāratī is the speech of the heavenly region, belonging to Bharata, that is Āditya. Likewise Iḷā is the terrestrial speech, of the form of the praiṣa and the like. Mahī means great, an epithet of Sarasvatī. Sara is a name for water; she who has it is the speech of the atmosphere, in the form of thunder and the like. These three, the presiding deities of the speech of the three regions, being worthy of the sacrifice, are to sit on the spread sacred grass (barhis).
+
+### Printed p. 263
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्सु (*marutsu*)—among the deathless ones
+- देवेषु (*deveṣu*)—among the radiant ones, whether the worshippers, or the Maruts, or the priests
+- अर्पिता (*arpitā*)—she who is appointed
+- शुचिः (*śuciḥ*)—she who is pure of self
+- होत्रा (*hotrā*)—she who accomplishes the offering
+- भारती (*bhāratī*)—the goddess of speech who dwells in the heavenly world and belongs to Āditya
+- इळा (*iḷā*)—the goddess of speech who dwells on earth
+- मही (*mahī*)—she who is of great form
+- सरस्वती (*sarasvatī*)—the goddess of speech of the middle region, that is, who dwells in the atmosphere
+- यज्ञियाः (*yajñiyāḥ*)—being worthy of the sacrifice
+- बर्हिः (*barhiḥ*)—upon the seat of darbha grass
+- सीदंतु (*sīdaṃtu*)—let them sit
+
+##### भावार्थ (Bhāvārtha)
+
+Among the deathless and radiant ones, whether the worshippers, the Maruts or the priests, the goddess of speech who is appointed, who accomplishes the offering, who dwells in the heavenly world and belongs to Āditya; the goddess of speech who dwells on earth; and she who is of great form, the speech of the middle region: these deities presiding over speech in the three places, being worthy of the sacrifice, let them come and sit on the darbha seat in the sacrificial house of ours.
+
+##### Printed English
+
+May the pure Hotra, placed among the gods, and Bharati, among the Maruts, and may the adorable Ila, Saraswati, and Mahi, sit down upon the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk a group of three deities is addressed and requested to come to the sacrifice. In all the Āprī hymns except the present hymn and hymn 1-18, these deities are put together and collectively designated तिस्रो देवीः (*tisro devīḥ*); Iḷā, Sarasvatī and Bhāratī are these three. There is much disagreement about the nature of these deities. In this hymn the goddess Bhāratī has the epithets hotrā, śuciḥ and arpitā (marutsu, deveṣu), and the goddess Sarasvatī has the epithet mahī. In some hymns the word mahī is not an epithet but is used as a synonym of the goddess Bhāratī. Whether the nature of these deities can be determined exactly here may be considered by taking Śruti and similar texts as authority. If we examine the mantra that designates these deities in the Praiṣa-sūkta, which collects the main points of the Āprī hymns:—
+
+### Printed p. 264
+होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्येदमपस्तन्वतां । देवेभ्यो देवीर्देवमपो वियंत्वाज्यस्य होतरज ॥ (*hotāyakṣattisro devīrapasāmapastamā acchidramadyedamapastanvatāṃ | devebhyo devīrdevamapo viyaṃtvājyasya hotaraja ‖*) (Śai. Brā. 3-6-2-2) **NOTE**
+Thus the original has only तिस्रो देवीः (*tisro devīḥ*). Explaining this in the Bhāṣya: इडा, सरस्वती, भारतीत्येवंरूपास्ति स्रोऽष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु । (*iḍā, sarasvatī, bhāratītyevaṃrūpāsti sro 'ṣṭamaprayājadevyastadrūpamagniṃ daivyo hotā yajatu |*). It is said that the three eighth-prayāja goddesses, Iḍā, Sarasvatī and Bhāratī, are deities that mirror Agni. Further, अपसां अपस्तमाः (*apasāṃ apastamāḥ*), कर्मवतीनां मध्येऽतिश येन कर्मवत्यः । (*karmavatīnāṃ madhye 'tiśa yena karmavatyaḥ |*): by this epithet they are declared to be the most excellent of those who have work. In the Aitareya Brāhmaṇa:
+तिस्रो देवीर्यजति प्राणो वा अपानो व्यानस्तिस्रो देव्यस्ता एव तत्रिणाति ता यजमाने दधाति । (*tisro devīryajati prāṇo vā apāno vyānastisro devyastā eva tatriṇāti tā yajamāne dadhāti |*) (Ai. Brā. 2-4)
+Thus the identity of these three deities with the life-principles prāṇa, apāna and vyāna is stated. The Nirukta author cites the Ṛk 10-110-8, आ नो यज्ञं (*ā no yajñaṃ*), and gives its explanation thus: एतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यवदिह चेतयमाना तिस्रो देव्यः बर्हिरिदं सुखं सरस्वती च सुकर्माण असीदंतु । (*etu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyavadiha cetayamānā tisro devyaḥ barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa asīdaṃtu |*) (Ni. 8-13). Let the deity who is the radiance of Bharata (the sun), Iḷā and Sarasvatī adorn the barhis. In the Bṛhaddevatā:
+तिस्रस्तु देव्यो याः प्रोक्तास्त्रि स्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिषु त्रिषु वर्तिनी ॥ आग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमू स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*tisrastu devyo yāḥ proktāstri sthānaiveha sā tu vāk | trividhenocyate nāmnā jyotiṣu triṣu vartinī ‖ āgnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amū sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖ saiṣā tu trividhā vāgvai divi ca vyommi ceha ca vyastā caiva samastā ca bhajatyagnīnimānapi ‖*) (Bṛ. Pe. 3-12 to 14) **NOTE**
+त्रिस्रो देव्यः (*trisro devyaḥ*) means the deities presiding over speech who dwell in all three worlds. [The three forms of speech are explained in Bṛ. De. verses 2-7 to 82.] **NOTE**
+अयं प्रयोगस्त्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogastveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*) (Bṛ. De. 1-91)
+
+### Printed p. 265
+As is said there, the different deities in the three worlds are transformations of one deity presiding over speech. Among them Iḷā followed the terrestrial Agni, Sarasvatī occupied the middle world, and Bhāratī came to dwell in the heavenly world. Yet, as stated in the sentence
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ*) (Bṛ. De. 1-108)
+these deities of the three worlds also serve the terrestrial Agni alone; thus everything is concluded in favour of Agni.
+
+Mahī—महती (*mahatī*), of great form: an epithet of Sarasvatī. In some places it is understood as a separate deity named Mahī. Some hold that it is an epithet common to all three deities. In the Āprī hymns Ṛ. Saṃ. 7-2-6 and 9-5-6 it is an epithet of उषासानक्ता (*uṣāsānaktā*). Moreover, in the Ṛk
+इळा सरस्वती मही तिस्रो देवीर्मयोभुवः । बर्हिः सीदन्त्वस्रिधः ॥ (*iḷā sarasvatī mahī tisro devīrmayobhuvaḥ | barhiḥ sīdantvasridhaḥ ‖*) (Ṛ. Saṃ. 1-13-9)
+and in Ṛ. Saṃ. 5-5-8, which has the same sequence, there is no mention of Bhāratī, so Sāyaṇa has said that mahī is a synonym of the deity Bhāratī. In the present Ṛk, and in
+भारती पवमानस्य सरस्वतीळा मही । इमं नो यज्ञमा गमनिस्तो देवीः सुपेशसः ॥ (*bhāratī pavamānasya sarasvatīḷā mahī | imaṃ no yajñamā gamanisto devīḥ supeśasaḥ ‖*) (Miṃ. Saṃ. 9-5-8) **NOTE**
+it is likewise an epithet.
+
+Iḷā—Since the Bṛhaddevatā says अग्निमेवानुगेळा (*agnimevānugeḷā*) (3-13), that Iḷā followed the terrestrial Agni; and since in the Ṛk
+प्र दीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै । अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्षदिषितो यजीयान् । (*pra dīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai | acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣadiṣito yajīyān |*) (Ṛ. Saṃ. 3-4-3)
+the word iḷa is explained as food in the form of an oblation; and since Ṛk 7-16-8 has the epithet dhṛtahastā and 10-20-8 the epithet dhṛtapadī, it appears that iḷā may be explained as oblation. Perhaps for this very reason,
+
+### Printed p. 266
+उत्तानायामव भरा चिकित्वान्स्सद्यः प्रवीता वृषणं जजान । अरुषस्तूपो रुशदस्य पाज इळायास्पुत्रो वयुनेऽजनिष्ट ॥ (*uttānāyāmava bharā cikitvānssadyaḥ pravītā vṛṣaṇaṃ jajāna | aruṣastūpo ruśadasya pāja iḷāyāsputro vayune 'janiṣṭa ‖*) (Ṛ. Saṃ. 3-29-3)
+in this Ṛk Agni is also called the son of Iḷā.
+
+Bhāratī—In the Nirukta it is said to be the radiance of Āditya (भरतः आदित्यः तस्य भाः (*bharataḥ ādityaḥ tasya bhāḥ*)). The scholar Macdonell, in his work Vedic Mythology (p. 87), explains it as the oblation offered by the descendants of Bharata, and Grassmann as the goddess of speech. Or it may be explained as belonging to Agni.
+तस्मा अग्निर्भारतः शर्म यंसज्यो र्क्षश्यात्सूर्यमुच्चरंतं । य इंद्राय सुनवामेत्याह नरे नर्याय नृतमाय नृणां । (*tasmā agnirbhārataḥ śarma yaṃsajyo rkṣaśyātsūryamuccaraṃtaṃ | ya iṃdrāya sunavāmetyāha nare naryāya nṛtamāya nṛṇāṃ |*) (Muṃ. Saṃ. 4-25-4) **NOTE**
+In this Ṛk, since bhāratah is an epithet of Agni, some hold that the deity related to him may be named Bhāratī.
+
+Sarasvatī—सर इत्युदकनाम । तद्वती स्तनितादिरूपा माध्यमिका च वाक् । (*sara ityudakanāma | tadvatī stanitādirūpā mādhyamikā ca vāk |*) The word sara means water. Sāyaṇa explains her as a transformation of the goddess of speech of the atmosphere, who has water and has the sound of thunder and the like. Some hold that Sarasvatī is a river that is divine in nature. Or, because it is said देव्यस्ति स्रः श्रिताश्चैनं (*devyasti sraḥ śritāścainaṃ*) (Bṛ. De. 1-108), that these three have resorted to Agni; because Agni exists in three forms in earth, atmosphere and heaven; because Bhāratī is said to be the radiance of the sun; because Sarasvatī is said to be the deity of lightning and thunderbolt; and because Iḷā too has a direct connection with Agni, some hold that these three are transformations of Agni. That तद्रूपमग्निं (*tadrūpamagniṃ*) occurs in the explanation of the Praiṣa-sūkta has been said above.
+
+##### Grammar
+
+- अर्पिता — उंभादीनां च (पा. सू. ६-१-१६०) इति अमृतात्तस्करो भवति । **NOTE**
+- इळा — ईड स्तुतौ धातुः । छांदसत्वेन धातोः प्रस्वो भवति । क्विप् च इति क्विप् प्रत्ययः । धातुस्वरो भवति । टापंचैव हलंतानां यथा वाचा दिरा निशा (कौ. २-४-८२) इति हलंतत्वेऽपि टाप् भवति ।
+- सरस्वती — सृ गत् धातुः । असुन् प्रत्ययः । सरस्‌शब्दो नित् प्रत्ययांतत्वात् आद्युदात्तो भवति । सरः अस्या अस्ति इति । तदस्यास्ति—इति मतुप् प्रत्ययः । तसौ म
+
+### Printed p. 267
+- त्वर्थे (पा. सू. १-४-१९) इति भसंज्ञात्वात् रुत्वादयो न भवंति । उगितश्च (पा. सू. ४-१-६) इति स्त्रीत्वविवक्षायां जीप्—मतुप्, जीप् पित्त्वात् अनुदात्तो भवति ।
+- मही — महती इत्यत्र छांदसत्वेन तकारलोपो भवति । यस्येति च—(पा. सू. ६-४-१४८) इति अकारलोपः । उदात्तनिवृत्तिस्वरेण जीप् उदात्तो भवति ।
+- सीदंतु — षदलृ विशरणगत्यवसादनेषु धातुः । लोट् प्रथमपुरुषबहुवचने झि प्रत्ययः । एरुः इति उत्वं । अंतादेशः । साघ्राध्मा—(पा. सू. ३-३-७८) इति धातोः सीदादेशः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- यज्ञियाः — यज्ञर्त्विग्भ्यां घखञ् (पा.सू. ५-१-७१) इति अर्हार्थे घ प्रत्ययः । आयनेयी—(पा. सू. ७-१-२) इति तस्य इयादेशः । यस्येति च इति अकारलोपः । प्रत्ययस्य आद्युदात्तस्वरो भवति । ॥ ९ ॥
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्न॑स्तु॒रीप॒मद्भु॑तं पु॒रु वारं॑ पु॒रु त्मना॑ ।  
+> त्वष्टा॒ पोषा॑य॒ वि ष्य॑तु रा॒ये नाभा॑ नो अस्म॒युः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । पुरीपं । अद्भुतं । पुरु । वा । अरं । पुरु । त्मना ।  
+> त्वष्टा । पोषाय । वि । स्यतु । राये । नाभा । नः । अस्मयुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मदर्थं तत्तादृशं तुरीपं तूर्णं व्याप्यद्भुतं सद्य आविर्भवदभूतमिव सत् । यद्वा । महन्ना मैतत् । सारतो महत् । पुरु वारं बहूनां प्राणिनामर्थायैवारमलं समर्थं । यद्वा । पुरु वारं बहु प्रभूतं च । वाशब्दश्चार्थे ।
+
+##### Gist of the bhāṣya
+
+"For us" (नः (*naḥ*)); तत् (*tat*) is "of that kind"; तुरीपं (*turīpaṃ*) is swiftly pervading; अद्भुतं (*adbhutaṃ*) is that which, being manifested at once, is as if it had not been (*abhūtamiva sat*). Or else: महन्ना मैतत् (*mahannā maitat*), "great in essence" (सारतो महत् (*sārato mahat*)) **NOTE**. पुरु वारं (*puru vāraṃ*): बहूनां प्राणिनामर्थायैवारमलं समर्थं (*bahūnāṃ prāṇināmarthāyaivāramalaṃ samarthaṃ*), that is, capable, for the sake of many living beings. Or else: पुरु वारं (*puru vāraṃ*) is much and abundant, the word वा (*vā*) being in the sense of "and" (च (*ca*)).
+
 ---
 
-**Progress note:** Done through printed p. 259. pp. 254-259 (batch API)
+**Progress note:** Done through printed p. 267. pp. 260-267 (batch API)
