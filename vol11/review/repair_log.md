@@ -18,3 +18,4 @@
 - w0493 (p. 493): the Saṃhitā verse of Ṛk 4 runs across the page break (pp. 492/493); the window repeated `#### Ṛk 4` and the Saṃhitā label for the second half. The duplicate heading and label removed from the English volume file (the verse text is unchanged).
 - p. 147 (w0418): a stray chapter heading `## Sūkta 147, Ṛk 5 (Maṇḍala 1)` (written by the model) removed from the English volume file. check_labels.py: the Kannada label spelling `ಸಾಯಣಭಾಷ್ಯಮ್` (p. 502) added (false alarm).
 - w0581 (p. 584): the page opens in the middle of a quotation that the model wrote as one ⟦first~~last⟧ segment over pp. 583/584; the heading `### Printed p. 584` was missing and was placed after the quotation.
+- w0587: sūtra number printed ೩-೨- at the page end and ೧೭೦ after the next running head; kept as one reference with a NOTE.

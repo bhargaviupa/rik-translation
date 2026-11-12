@@ -14433,6 +14433,82 @@ O wives of the sacrificers, we pray to Viṣṇu with the aim that you too may g
 
 We pray (to Vishnu) that you may both go to those regions where the many-pointed and wide-spreading rays (of light expand); for here the supreme
 
+### Printed p. 594
+
+##### Printed English
+
+station of the many-bymned, the showerer (of benefits), shines (with) great
+(splendour).
+
+##### विशेषविषयगळु (Special Topics)
+
+The pandit Roth remarks that this Ṛk would be more fitting in a hymn addressed to Mitra and Varuṇa than in the Viṣṇu hymn, and he states his opinion as follows.
+"This verse occurs in a hymn to Vishnu; consequently the dual वां (*vāṃ*) cannot refer to the deity of the hymn. Durga meets the difficulty, as the commentators frequently do with inconvenient duals, by saying वां इति दंपती अभीप्रेत्य (*vāṃ iti daṃpatī abhīpretya*) Etc. But here we have rather a proof of the fact that, in the arrangement of the Veda, many verses have been inserted in wrong places. The verse is addressed to Mitra and Varuna ; and perhaps, belonged to one of the hymns to those two Gods which immediately precede Riks in the Samhita. The verse has been introduced into the wrong place because Vishnu is referred to in it ".
+(Quoted in Muir's Original Sanskrit Texts Vol. IV. P. 73-74)
+
+This Ṛk addresses Mitra and Varuṇa with वां (*vāṃ*), and it has been included in the Viṣṇu hymn only because Viṣṇu's name is mentioned in it; there is no proper reason for its being here. Durgācārya, however, in explaining the Nirukta passage, says that वां (*vāṃ*) refers to the married couple who are the sacrificers. Roth's opinion is that this is not very reasonable. Sāyaṇa too takes the sense suggested by the word वां (*vāṃ*) as concerning the couple: हे पत्नीयजमानौ वां युष्मदर्थं (*he patnīyajamānau vāṃ yuṣmadarthaṃ*), "O wife and sacrificer, for you". The Nirukta-kāra has explained this Ṛk in this way:
+तानि नां वास्तूनि कामयामहे गमनाय यत्र गावो भूरिशृंगाः । बहुशृंगा भूरीति बहुनो नामधेयं प्रभवतीति सतः । शृंगं श्रयतेर्वा, शृणातेर्वा, शम्ना तेर्वा शरणायोद्धतमिति ना शिरसो निर्गतमिति वायासोऽयनाः । तत्र तदुरुगायस्य विष्णोर्महागतेः परमं पवं परार्ध्यस्थमवभाति भूरि । पादः पद्यतेः ॥ (*tāni nāṃ vāstūni kāmayāmahe gamanāya yatra gāvo bhūriśṛṃgāḥ | bahuśṛṃgā bhūrīti bahuno nāmadheyaṃ prabhavatīti sataḥ | śṛṃgaṃ śrayatervā, śṛṇātervā, śamnā tervā śaraṇāyoddhatamiti nā śiraso nirgatamiti vāyāso 'yanāḥ | tatra tadurugāyasya viṣṇormahāgateḥ paramaṃ pavaṃ parārdhyasthamavabhāti bhūri | pādaḥ padyateḥ ‖*)
+(Ni. 9-7)
+The meaning is that the supreme station of Viṣṇu, established in the most excellent place, shines exceedingly. The Nirukta-kāra has cited this Ṛk incidentally, to explain the meaning of the word गावः (*gāvaḥ*).
+
+### Printed p. 595
+All rays are called गावः (*gāvaḥ*); since the name गावः (*gāvaḥ*) is well known for rays (Ni. 2-7), here too गावः (*gāvaḥ*) means rays. [The different meanings of the word गो (*go*), such as the sun, were given earlier with examples.] The two words भूरिशृंगाः (*bhūriśṛṃgāḥ*) and अयासः (*ayāsaḥ*) are qualifiers of this word.
+भूरिशृंगाः (*bhūriśṛṃgāḥ*)—भूरीति बहुनो नामधेयं (*bhūrīti bahuno nāmadheyaṃ*). The word भूरि (*bhūri*) is used to show that something is numerous. And the word शृंग (*śṛṃga*) may be formed from the root श्रि (*śri*) meaning "to resort to", or from the root शृ (*śṛ*) meaning "to injure", or from the root शं (*śaṃ*) showing the same meaning. The Nirukta-kāra explains that the name शृंग (*śṛṃga*) is well known either because it protects living beings or because it grows out of the head and projects outward. (2-7).
+अयासः (*ayāsaḥ*)—आयनाः (*āyanāḥ*). It is a qualifier of the rays, meaning that they move very swiftly. Sāyaṇa explains: अयना गंतारोऽतिविस्तृताः (*ayanā gaṃtāro 'tivistṛtāḥ*) ("moving, very widespread"). यद्वा यासो गंतारः (*yadvā yāso gaṃtāraḥ*) अतादृशाः (*atādṛśāḥ*) अत्यंतप्रकाशयुक्ता इत्यर्थः (*atyaṃtaprakāśayuktā ityarthaḥ*): it can mean "spreading very widely" or "having widespread light". This qualifier is used frequently in the sense of "those who move continually" or "that which moves everywhere".
+तपो ष्टग्ने अंतरा अमित्रान् तपा शंसमरुषः परस्य । तपो वसो चिकितानो अचित्तान्वि ते तिष्यंतामजरा अयासः ॥ (*tapo ṣṭagne aṃtarā amitrān tapā śaṃsamaruṣaḥ parasya | tapo vaso cikitāno acittānvi te tiṣyaṃtāmajarā ayāsaḥ ‖*)
+(Ṛ. Saṃ. 3-8-2)
+In such Ṛks, as a qualifier of the rays, it means "moving everywhere" (सर्वत्र गमनाः संतः (*sarvatra gamanāḥ saṃtaḥ*)). Likewise, in the same sense, it is used as a qualifier of the Maruts.
+उश्मसि (*uśmasi*)—वश्मि (*vaśmi*), उश्मसि (*uśmasi*), वेति (*veti*) and others are read among the eighteen names of acts of propitiation. (Ni. 3-9). In the present Ṛk, कामयामहे (*kāmayāmahe*) means विष्णुं प्रार्थयामहे (*viṣṇuṃ prārthayāmahe*), "we pray to Viṣṇu"; the commentator has understood it as "we pray for you", addressing the couple.
+वास्तूनि (*vāstūni*)—सुखनिवासयोग्यानि (*sukhanivāsayogyāni*), that is, dwelling-places most productive of happiness. पदे परमे मध्व उत्सः (*pade parame madhva utsaḥ*): since in Viṣṇu's supreme station the highest, unequalled bliss is obtained without interruption, the meaning is "we pray that such a dwelling-place may be obtained by you also". यत्र भूरिशृंगा आयासः गावः (विद्य्यंते) अत्राह उरुगायस्य परमं पदं भूरि अवभाति (*yatra bhūriśṛṃgā āyāsaḥ gāvaḥ (vidyyaṃte) atrāha urugāyasya paramaṃ padaṃ bhūri avabhāti*): where there are rays that are, as described above, very bright, lofty, spreading upward and numerous, there the supremely blissful supreme station of Viṣṇu is established.
+
+### Printed p. 596
+Although this is a description of the supreme station, the main subject of this hymn is the description of the three places of Viṣṇu's strides, their greatness, and the support of all the worlds comprised within these strides. In these descriptions, the matter to be explained by qualifiers such as विचक्रमाणि (*vicakramāṇi*), त्रिषु विक्रमणेषु (*triṣu vikramaṇeṣu*), त्रिभिरित्पदेभिः (*tribhiritpadebhiḥ*), त्री पूर्णा मधुना पदानि (*trī pūrṇā madhunā padāni*) deserves consideration. For in general all these qualifiers also suggest the special features of the Vāmana incarnation described in the Purāṇic works. In the Ṛksaṃhitā no story concerning the Vāmana incarnation, nor any other kind of reference to it, is directly seen. Yet the Trivikrama described here has become, as it were, the basis of the story of the Vāmana incarnation praised in the Purāṇas. Sāyaṇa too, in the commentary on the Ṛk
+अतो देवा अवंतु नो यतो विष्णुर्विचक्रमे । पृथिव्याः सप्त धामभिः ॥ (*ato devā avaṃtu no yato viṣṇurvicakrame | pṛthivyāḥ sapta dhāmabhiḥ ‖*)
+(Ṛ. Saṃ. 1-22 6)
+has said विष्णोः त्रिविक्रमावतारे पादत्रयक्रमणस्य (*viṣṇoḥ trivikramāvatāre pādatrayakramaṇasya*): that in the description of the Ṛk cited there there is a reference to the stepping of the three feet spread out at the time of the Trivikrama incarnation. But when the next Ṛk (1-22-17) is explained, the words of the Nirukta-kāra contain no hint relating to this story. Moreover, in the statements of Śākapūṇi or of Aurṇavābha that Yāska cites, there is no statement relating to this story.
+The description of the Vāmana story is found in the Taittirīya Saṃhitā, the Śatapatha Brāhmaṇa and the Aitareya Brāhmaṇa as well. In the Śatapatha Brāhmaṇa, the help given to the gods by Viṣṇu in the form of a dwarf, at the time of the fight between gods and Asuras, is told as follows.
+देवाश्च वा असुराश्च । उभये प्राजापत्याः पस्पधिरे ततो देवा अनुव्यमिवासुरथ्य हासुरा मेनिरेऽस्माकमेवेदं खलु भुवनमिति ॥ ते होचुः । हंतेमां पृथिवीं विभजामहै तां विभज्योपजीवामेति ताम् क्ष्णुर्मभिः पश्चात्प्रांचो विभजमानाअभीयु ॥ तद्वै देवाः शुक्रुव । विभजंते ह वा इमामसुराः पृथिवीं प्रेत तदेष्यामो यत्रेमामसुरा विभजंतेके ततः स्याम यदस्यैन भजेमहीति ते यज्ञमेव विष्णुं पुरस्कृत्येयुः ॥ ते होचुः । अनु नोऽस्मां पृथिव्यामाभजतास्तेव नोऽप्यस्यां भाग इति ते हासुरा असूयंत इवोचुर्यावदेवैष विष्णुरभिशेते तावद्यो वद्द इति ॥ वामनो ह विष्णुरास । तद्देवा न जिहीडिरे महद्वै नोदुरै नो यज्ञसंमितमदुरिति । ते प्रांचं विष्णुं निपाद्य । छंदोभिरभितः परग्रहन् गायत्रेण ता छंदसा परिगृह्णामीति दक्षिणतस्रैष्टुभेन त्वा छंदसा परिगृह्णामीति पश्चाज्जागतेन त्वा च्छंदसा परिगृह्णामीत्युत्तरतः ॥ तं छंदोभिरभितः परिगृह्य ॥ .... .... .... .... सौम्यस्याध्वरस्य वेदिं चक्रे ॥ (*devāśca vā asurāśca | ubhaye prājāpatyāḥ paspadhire tato devā anuvyamivāsurathya hāsurā menire 'smākamevedaṃ khalu bhuvanamiti ‖ te hocuḥ | haṃtemāṃ pṛthivīṃ vibhajāmahai tāṃ vibhajyopajīvāmeti tām kṣṇurmabhiḥ paścātprāṃco vibhajamānāabhīyu ‖ tadvai devāḥ śukruva | vibhajaṃte ha vā imāmasurāḥ pṛthivīṃ preta tadeṣyāmo yatremāmasurā vibhajaṃteke tataḥ syāma yadasyaina bhajemahīti te yajñameva viṣṇuṃ puraskṛtyeyuḥ ‖ te hocuḥ | anu no 'smāṃ pṛthivyāmābhajatāsteva no 'pyasyāṃ bhāga iti te hāsurā asūyaṃta ivocuryāvadevaiṣa viṣṇurabhiśete tāvadyo vadda iti ‖ vāmano ha viṣṇurāsa | taddevā na jihīḍire mahadvai nodurai no yajñasaṃmitamaduriti | te prāṃcaṃ viṣṇuṃ nipādya | chaṃdobhirabhitaḥ paragrahan gāyatreṇa tā chaṃdasā parigṛhṇāmīti dakṣiṇatasraiṣṭubhena tvā chaṃdasā parigṛhṇāmīti paścājjāgatena tvā cchaṃdasā parigṛhṇāmītyuttarataḥ ‖ taṃ chaṃdobhirabhitaḥ parigṛhya ‖ .... .... .... .... saumyasyādhvarasya vediṃ cakre ‖*)
+(Śa. Brā. 1-2-3-1 to 9)
+
+### Printed p. 597
+The gods and Asuras, sons of Prajāpati, once fought with each other for supremacy; the Asuras became powerful and thought the whole earth belonged to them. Then they tried to measure the earth with a bull's hide and share it among themselves. The gods then placed Viṣṇu, the sacrifice in person, at their head, went to the Asuras, and asked that they too should have some share of the earth along with them. The Asuras, agreeing with half a mind, declared that they would leave to the gods only as much space as Viṣṇu, their leader, could occupy, and that certainly nothing more than that could be given. Viṣṇu was a dwarf. [The Asuras thought he would occupy only a little space.] Yet the gods, not dejected by this, said that as much space as Viṣṇu the sacrifice would occupy was enough for them. Then they placed him facing east and made an enclosure around him: on the south with the Gāyatrī metre, on the west with the Triṣṭubh metre, and on the north with the Jagatī metre. Thereupon the whole earth, as though fashioned into an altar, was pervaded by Viṣṇu, the sacrifice, alone. It became as though the whole earth had been easily provided for the gods; this has become the basis for the later Purāṇic story of the Vāmana incarnation, and for the part of the story in which, at the time of the fight between gods and Asuras, Vāmana deceived Bali and helped the gods. The Taittirīya Brāhmaṇa indicates this same situation in the passage
+तेऽग्निना प्रांच्योऽजयन् । वसुभिर्दक्षिणा । रुद्रैः प्रत्यंचः । आदित्यैरुदंचः । यस्यैवं विमषो वेदिं परिगृह्णंति ॥ (*te 'gninā prāṃcyo 'jayan | vasubhirdakṣiṇā | rudraiḥ pratyaṃcaḥ | ādityairudaṃcaḥ | yasyaivaṃ vimaṣo vediṃ parigṛhṇaṃti ‖*)
+(Tai. Brā. 3-9-9-7; reference printed त्रै (*trai*), जाति (*jāti*).)**NOTE**
+and the Aitareya Brāhmaṇa has the same matter:
+न हि तयोः कतरश्चन पराजिग्ये । इंद्रश्च विष्णो यदपस्पृधेथां त्रेधा सहस्रं वि तद्वैरयेथामिति । इंद्रश्च ह वै विष्णुश्चासुरैर्युयुधाते तान्ह स्म जित्तोचतुः कल्पामहा इति ते ह तथेत्यसुरा ऊचुः सोऽब्रवीदिंद्रो यावदेवायं विष्णुस्त्रिविक्रमते तावदस्माकमथ युष्माकमितिरदिति स इमान् लोकान्विचक्रमेऽथो वेदानथो वाचं तदाहुः किं तत्सहस्रमितीमे लोका इमे वेदा अथो वागिति ब्रूयात् ॥ (*na hi tayoḥ kataraścana parājigye | iṃdraśca viṣṇo yadapaspṛdhethāṃ tredhā sahasraṃ vi tadvairayethāmiti | iṃdraśca ha vai viṣṇuścāsurairyuyudhāte tānha sma jittocatuḥ kalpāmahā iti te ha tathetyasurā ūcuḥ so 'bravīdiṃdro yāvadevāyaṃ viṣṇustrivikramate tāvadasmākamatha yuṣmākamitiraditi sa imān lokānvicakrame 'tho vedānatho vācaṃ tadāhuḥ kiṃ tatsahasramitīme lokā ime vedā atho vāgiti brūyāt ‖*)
+(I. Bra. 6-15)**NOTE**
+
+### Printed p. 598
+Neither Indra nor Viṣṇu ever suffered defeat. In the past, when they had fought the Asuras and defeated them, and a proposal came that the earth be divided, it was agreed that the regions covered by Viṣṇu's three feet should go to the gods and the whole remaining region to the Asuras; then Indra became the lord of the three worlds covered by Viṣṇu's three feet. Having driven out the Asuras, he (together with the gods) himself occupied the three worlds: this is the story described here.
+But since it is difficult to know the precise meaning of the word वामन (*vāmana*), there are differences of opinion among modern scholars on this matter. Collecting the opinions of the various scholars on this subject, the scholar R. N. Dandekar has stated as follows.
+What the primary notion underlying Vishnu's dwarf-form was, it is not easy to imagine. A. Khun thought that the dwarf represented the sun-light which shrinks inot dwarf size in the evening. Oldenberg Proposed that the idea evolved out of a fable about a wide-stepping giant who could turn himself into a dwarf. This is evidently far-fetched, since a fable-motive cannot be the centre of a myth. According to Keith, Macdonell, Hillebrandt Vishnu assumed the dwarf form only by way of a stratagem in order to mislead the Asura's An ethical interpretation of this अवतार (*avatāra*) is given by Macnicol who believes that it is suggestive of strength and safety issuing out of smallness and weakness. N. Iyyengar thinks that Vishnu seen as a little dwarf in the form of the sacrificial fire on earth takes the giant strides in the forms of Vidyut and Surya. R. Shania Shastry refers to the 'dwarfish shadow' while explaining the Avataras on the basis of astronomical phenomena.
+( A Volume of Studies in Indology. Presented to Prof. P. V. Kane. P. 105 ).
+Of all these, the opinion of Iyyengar (printed ऎर् (*èr*). अय्यंगार् (*ayyaṃgār*)) agrees with what is described in the Śatapatha Brāhmaṇa. As this scholar says, the idea that the sacrificial fire, which was in a subtle form, grew gradually, covered the whole earth, and then, in the form of lightning and of the sun, covered the other two worlds, corresponds to the above description of the Śatapatha Brāhmaṇa, that Viṣṇu, the sacrifice, in the form of the altar covered the earth, and in the form of fire the entire world.
+
+##### Grammar
+
+- वास्तूनि — वस निवासे धातुः । तस्मात् णिजंतात् औणादिकः तुन् प्रत्ययः । णिच् निमित्तं उपधावृद्धिः ।
+
+### Printed p. 599
+- उश्मसि — वश कांतौ धातुः । लट् उत्तमपुरुषएकवचने मस् प्रत्ययः । इदंतो मसि (पा. सू ७-१-४६) इति तस्य इकागमः । अदिप्रभृतिभ्यः शप- इति शपः लुक् । सार्वधातुकमपित् इति प्रत्ययस्य जित्त्वात् ग्रहिज्यावयिव्यधि—(पा. सू. ६-१ १६) इति धातोः संप्रसारणं । पूर्वरूपं । अतिजंतात् परत्वात् निघातस्वरः भवति ।
+- गमध्ये — गमल्य गत् धातुः । तुमर्थे तुमर्थसेसेनसे-(पा. सू. ३-४-९) इति अध्यैन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।**NOTE**
+- भूरिशृंगाः — भूरीणि शृंगाणि यासां ताः भूरिशृंगाः । बहुव्रीहौ प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति ।
+- अयासः — आय गतौ धातुः । पचादि आकृतिगणत्वात् नंदिग्रहपचादिभ्यो-(पा. सू. ३-१-१३४) इति अच् प्रत्ययः । चित्त्वात् अंतोदात्तः भवति । जस् परे आज्जसेरसुक् (पा सू. ७-१-५०) इति तस्य असुकागमः । सकारस्य रुत्वविसर्गौ ।
+- भाति — भा दीप्तौ धातुः । लट् प्रथमपुरुषएकवचनांतरूपं । अतिजंतात् परत्वात् निघातस्वरः भवति ।
+
+## Sūkta 155 (Maṇḍala 1)
+
+> प्र वः पांतमिति षडृचं षोडशं सूक्तं दैर्घतमसं जागतं । पूर्वत्र
+> वैष्णवं हीत्युक्तत्वाद्वैष्णवं । आद्यस्तृच इंद्रदेवताकश्च । प्र वो जागतं त्वैंद्रश्चाद्यस्तृच इत्यनुक्रमणिका ॥ अभिप्लविकेषूक्ष्येषु स्तोमातिशंसन उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र वः पांतं (*pra vaḥ pāṃtaṃ*) has six Ṛks and is the sixteenth sūkta; it is of Dairghatamasa (Dīrghatamas) origin, in the Jagatī metre. Because it was said earlier that it is Vaiṣṇava, its deity is Viṣṇu; the first three Ṛks also have Indra as deity. The Anukramaṇikā says: प्र वो जागतं त्रैंद्रश्चाद्यस्तृचः (*pra vo jāgataṃ traiṃdraścādyastṛcaḥ*). The use (viniyoga) is stated: in the Abhiplava (ṣaḍaha) and Ukthya rites, for the स्तोमातिशंसन (*stomātiśaṃsana*).
+
+##### Anuvāda
+
+This sūkta प्र वः पांतं (*pra vaḥ pāṃtaṃ*) is the sixteenth sūkta in the twenty-first anuvāka. It has six Ṛks. The seer of this sūkta is Dīrghatamā Aucathya (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*)); the metre is Jagatī. As said before, Viṣṇu is the deity of this sūkta; the first three Ṛks are also Indra-deitied. In the Anukramaṇikā it is said: प्र वो जागतं त्रैंद्रश्चाद्यस्तृचः (*pra vo jāgataṃ traiṃdraścādyastṛcaḥ*). It is stated that the sūkta has its use for स्तोमातिशंसन (*stomātiśaṃsana*) in the special sacrifices called Abhiplavaṣaḍaha and Ukthya.**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 593. pp. 587-
+**Progress note:** Done through printed p. 599. pp. 594-599 (batch API)
