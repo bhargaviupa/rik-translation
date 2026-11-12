@@ -27811,10 +27811,6 @@ This sūkta beginning दूतं वः (*dūtaṃ vaḥ*) is the eighth sūkt
 
 > विवृतवागिरुवुदु. मत्तु ई सूक्तवू मुंदिन सूक्तवू प्रातरनुवाकमंत्रगळ पठनदल्लि आग्निय
 
-#### Ṛk 1
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 > सूक्त—८  
 > मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—८ ॥  
 > अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—८ ॥  
@@ -27823,7 +27819,9 @@ This sūkta beginning दूतं वः (*dūtaṃ vaḥ*) is the eighth sūkt
 > देवता—अग्निः ॥  
 > छंदः—गायत्रि ॥
 
-##### ॥ पदपाठः ॥ (Pada-pāṭha)
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > दूतं वो विश्ववेदसं हव्यवाहममर्त्यं ।  
 > यजिष्ठमृंजसे गिरा ॥ १ ॥
@@ -27831,7 +27829,7 @@ This sūkta beginning दूतं वः (*dūtaṃ vaḥ*) is the eighth sūkt
 > *dūtaṃ vo viśvavedasaṃ havyavāhamamartyaṃ |*  
 > *yajiṣṭhamṛṃjase girā ‖ 1 ‖*
 
-##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
 > दूतं । वः । विश्ववेदसं । हव्यवाहं । अनुत्यं ।
 > यजिष्ठं । यंजसे । गिरा ॥ १ ॥
@@ -27839,7 +27837,7 @@ This sūkta beginning दूतं वः (*dūtaṃ vaḥ*) is the eighth sūkt
 > *dūtaṃ | vaḥ | viśvavedasaṃ | havyavāhaṃ | anutyaṃ |*
 > *yajiṣṭhaṃ | yaṃjase | girā ‖ 1 ‖*
 
-**NOTE**
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे अग्ने विश्ववेदसं । विश्वं समस्तं वेदो धनं यस्यासौ विश्ववेदाः । तं
 > सर्वविदं वा हन्यवाहं देवेभ्यो हविषां वोढारनुमर्त्यमनुरणधर्माणं
@@ -27962,6 +27960,7 @@ The shining (deva) Agni knows the gods Indra and the others in due order, as tho
 - प्रियाणि चित् (*priyāṇi cit*)—most dear
 - वसु (*vasu*)—wealth
 - दाति (*dāti*)—gives
+
 
 ### Printed p. 859
 
