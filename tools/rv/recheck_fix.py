@@ -26,6 +26,15 @@ def locate(vol, page):
             return p, t, m.end(), e
     sys.exit(f'REFUSED: no "### Page {page}" in the English files of Vol {vol}')
 
+def spaceless(line, od, nd):
+    """the old reading found in a line whose words are separated by spaces/hyphens (the sandhi-split reading): the span is replaced by the new reading;
+    None when it is not there (e.g. the split reading differs at a sandhi boundary)"""
+    idx = [i for i, ch in enumerate(line) if ch not in ' -\u200c\u200d']
+    flat = ''.join(line[i] for i in idx); j = flat.find(od)
+    if j < 0 or flat.count(od) != 1: return None
+    a, b = idx[j], idx[j + len(od) - 1] + 1
+    return line[:a] + nd + line[b:]
+
 def log(vol, page, old, new, why, meaning):
     p = f'vol{vol}/review/repair_log.md'; os.makedirs(os.path.dirname(p), exist_ok=True)
     if not os.path.exists(p): open(p, 'w', encoding='utf8').write('# Vol %s repair log (re-check against the supplied text)\n\nOne line per repair of the closed English file: page, old -> new, why. Made by tools/rv/recheck_fix.py.\n\n| page | old → new | why |\n|---|---|---|\n' % vol)
@@ -49,12 +58,13 @@ def main():
     elif '--kn' in a:
         i = a.index('--kn'); old_kn, new_kn = a[i + 1], a[i + 2]
         od, nd = kn2deva(old_kn), kn2deva(new_kn); oi, ni = deva_to_iast(od), deva_to_iast(nd)
-        lines = sec.split('\n'); hit = 0; iast_done = 0; iast_skip = []; last_dev = None
+        lines = sec.split('\n'); hit = 0; split_fixed = 0; iast_done = 0; iast_skip = []; last_dev = None
         for k, l in enumerate(lines):
             if len(re.findall(DEV, l)) >= 3:
                 if od in l: lines[k] = l.replace(od, nd); hit += 1
+                elif spaceless(l, od, nd) is not None: lines[k] = spaceless(l, od, nd); hit += 1; split_fixed += 1      # sandhi-split line: spaces and hyphens ignored in the match
                 last_dev = (k, l); continue
-            if last_dev and re.match(r'^>\s*\*[^*].*\*\s*$', l):
+            if last_dev and re.match(r'^>\s*\*[^*(].*\*\s*$', l):
                 src = last_dev[1].lstrip('> ').strip(); mach = '> *' + deva_to_iast(src) + '*'
                 if od in last_dev[1]:
                     if re.sub(r'\s+', ' ', l.strip()) == re.sub(r'\s+', ' ', mach.strip()): lines[k] = '> *' + deva_to_iast(src.replace(od, nd)) + '*'; iast_done += 1
@@ -69,7 +79,7 @@ def main():
         other = sum(1 for r in runs if any(od in sec.split('\n')[k] for k in r) for k in r if len(re.findall(DEV, sec.split('\n')[k])) >= 3 and od not in sec.split('\n')[k])
         if not hit: sys.exit(f'REFUSED: the old reading (Devanagari {od}) is in no Devanagari line of page {page}; no change made')
         sec2 = '\n'.join(lines); old, new = old_kn + ' = ' + od, new_kn + ' = ' + nd
-        note = f'{hit} Devanagari line(s) changed; IAST line(s) updated: {iast_done}' + (f'; IAST NOT updated for {len(iast_skip)} line(s): check by hand' if iast_skip else '') + (f'; {other} other Devanagari line(s) of the same block do not contain the old reading (sandhi-split form?) and were NOT changed' if other else '')
+        note = f'{hit} Devanagari line(s) changed' + (f' ({split_fixed} sandhi-split)' if split_fixed else '') + f'; IAST line(s) updated: {iast_done}' + (f'; IAST NOT updated for {len(iast_skip)} line(s): check by hand' if iast_skip else '') + (f'; {other} other Devanagari line(s) of the same block do not contain the old reading (sandhi-split form?) and were NOT changed' if other else '')
     else: sys.exit(__doc__)
     print(('DRY RUN: ' if dry else '') + f'page {page}: {old} -> {new}. {note}')
     if dry: return
