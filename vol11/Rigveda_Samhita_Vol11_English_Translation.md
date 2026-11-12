@@ -10616,6 +10616,189 @@ Him, whom the worshippers lay hold of in his perpetual abode, they detain by the
 
 ररहाणाः (*rarahāṇāḥ*)—formed from the root रहि (*rahi*) in the sense of going: रंहता गच्छंतः (*raṃhatā gacchaṃtaḥ*). It is an epithet of the horses, "those that run swiftly".
 
+### Printed p. 436
+
+आ त्वा जुवो रारहाणा अभि प्रयो नायो वहंत्वह पूर्वपीतये सोमस्य पूर्वपीतये । (*ā tvā juvo rārahāṇā abhi prayo nāyo vahaṃtvaha pūrvapītaye somasya pūrvapītaye |*) (Ṛ. Saṃ. 1-134-1)
+
+In Ṛks such as this too the word gives the same meaning and is used as an adjective of the horses.
+
+नित्ये चित्सदने (*nitye citsadane*)—in the Gārhapatya-type place for seating Agni; that is, in the place where the eternal Agni, of the Gārhapatya form, is installed.
+
+इष्टो (*iṣṭo*)—the meaning of the word इष्टि (*iṣṭi*) has been explained in the previous sūkta.
+
+##### Grammar
+
+- नित्ये — त्यप् नेध्र्रुव इति वक्तव्यम् इति वचनात् नि इत्यस्मात् त्यप् प्रत्ययः । पित्त्वात् अनुदात्तो भवति ।
+- जगृभ्रे — ग्रह उपादाने धातुः । छांदसत्वात् वर्तमानार्थे लिट् । इरयोरे इति प्रत्ययस्य रे इत्यादेशः । धातोर्द्वित्वे कुहोश्चुः इति अभ्यासस्य जकारादेशः । हृग्रहोर्भश्चंदसि इति धातुहकारस्य भत्वम् । यद्योगत्वात् निघातस्वरप्रतिषेधो भवति । प्रत्ययात् अंतोदात्तो भवति ।
+- प्रशस्तिभिः — शंसु स्तुतौ धातुः । भावार्थे क्तिन् प्रत्ययः । अनिदितांहल — इति सूत्रेण उपधानकारलोपः । तादौ च निति (पा. सू. ६-२-५०) इति गतेर्निघातस्वरो भवति । तृतीयाबहुवचनांतरूपम् ।
+- धधिरे — डुधाञ् धारणपोषणयोः धातुः । लिट् प्रथमपुरुषबहुवचनांतरूपम् । प्रत्ययस्वरात् अंतोदात्तो भवति ।
+- यज्ञियासः — यज्ञमर्पंति इति यज्ञियासः । यज्ञर्त्विग्भ्यांघखञ् (पा. सू. ५-१-७१) इति घ प्रत्ययः । आयनेयीनीयि— (पा. सू. ७-१-२) इति तस्य इयादेशः । प्रत्ययस्य आद्युदात्तस्वरो भवति । सु-निसातस्य चॆ (पा. सू ६-३-२६) इति दीर्घो भवति ।
+- नयंत — णीञ् प्रापणे धातुः । छांदसत्वात् वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । छांदसत्वात् अंगस्य अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- गृभयंतः — ग्रह उपादाने धातुः । अस्मात् णिजंतात् लडर्थे शतृ प्रत्ययः । शप् विकरणम् । हृग्रहोर्भश्चंदसि इति धातुपकारस्य भकारादेशः । लसार्वधातुकस्य अनुदात्तत्वात् णिच्स्वरः अवशिष्यते ।
+
+### Printed p. 437
+
+##### Grammar
+
+- अश्वासः — जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुगागमः ।
+- रथ्यः — रथः येषामस्ति इति रथ्यः । छंदसीवनिपौ (पा. सू. ५-२-१२२-२) इति मत्वर्थे ईकारप्रत्ययः । जसि परे यणादेशः । उदात्तस्थाने यणादेशे आगते तत्परे अनुदात्तविभक्तौ आगतायां उदात्तस्वरितयोर्यणः (पा. सू. ८-२-४) इति तस्य स्वरितस्वरो भवति ।
+- ररहाणाः — रहि गतौ धातुः । छांदसत्वात् लिटि आगते लिटः कानज्वा (पा. सू. ३-२-१०६) इति तस्य कानजादेशः । आगमानुशासनमनित्यम् इति परिभाषया इदित्त्वेऽपि नुमागमो न भवति । प्रत्ययनिमित्तं धातोर्द्वित्वादि । अट् कुप्वाज् — इति सूत्रेण प्रत्ययनकारस्य णत्वम् । चितः इति अंतोदात्तस्वरो भवति । (Verse 3 ends.)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रूणि॑ द॒स्मो नि रि॑णाति॒ जंभै॒राद्रो॑चते॒ वन॒ आ वि॒भावा॑ ।  
+> आद॑स्य॒ वातो॒ अनु॑ वाति शो॒चिरस्तु॒र्न शर्या॑मस॒नामनु॒  
+> द्यून् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरूणि । दस्मः । नि । रिणाति । जंभैः। आत् । रोचते । वने । आ । विभावा ।  
+> आत् । अस्य । वातः । अनु । वाति । शोचिः । अस्तुः । न । शर्यां । असनां । अनु  
+> द्यून् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र दावाग्निरूपेणायं स्तूयते । दस्म उपक्षपयितायमग्निः पुरूणि
+> बहूनि वृक्षादीनि नि रिणाति । नितरां हिनस्ति ॥ री गतिरेषणयोः । प्वादित्वाद्ध्रस्वः ॥ केन
+> साधनेनेति तदुच्यते । जंभैर्दंतस्थानीयाभिर्ज्वालाभिः । आद्वाहानंतरं वने वृक्षादिसमूहात्मके विभावा विविधप्रकाशयुक्तः सन्नोचते । दीपो भवति । आदनंतरमस्य
+> शोर्चिर्ज्वालानुकूलं वातोऽग्नि सखिभूतो वायुरनु द्यून् । अन्विति वीप्सार्थे ।
+
+##### Gist of the bhāṣya
+
+Here Agni is praised in the form of a forest fire. The "destroyer" (दस्म (*dasma*)), this Agni, नि रिणाति (*ni riṇāti*) many (पुरूणि (*purūṇi*)) trees and the like—injures them utterly (root री (*rī*) in the sense of going and injuring; the vowel is shortened because it belongs to the प्वादि (*pvādi*) group). By what means? जंभैः (*jaṃbhaiḥ*)—by flames, which stand in the place of teeth. आत् (*āt*)—after that, in the forest, which consists of masses of trees and the like, he विभावा (*vibhāvā*), possessed of manifold radiance, रोचते (*rocate*), becomes a blaze. After that वातः (*vātaḥ*), the wind, Agni's friend, blows in favour of his (अस्य (*asya*)) flame अनु द्यून् (*anu dyūn*); अनु (*anu*) is in the sense of repetition (…the next block continues).
+
+### Printed p. 438
+
+> प्रतिदिनमनुकूलं वाति । ज्वाला आदाय गच्छति । तत्र दृष्टांतः । अस्तुः क्षेपुः सकाशादसनां गच्छंतीं शर्यां न । शरो नाम हिंसासाधनलोहमयमिषुमुखं ।
+> तत्त्वचुरां । यद्वा । शरो नाम वंशावांतरजातीयः काष्ठविशेषः । तद्विकारामिषुमिव । शर्या इषवः शरमय्य इति यास्कः । नि- ५-४ । यद्वा । शर एव शर्या ।
+> अथवा । शरो हिंसा । तत्करोतीति शर्येषुः । तां यथा वायुर्नोदकजन्यो
+> वेगो वानुकूलं प्रेरयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Blows favourably day by day"—it takes up the flames and goes. An illustration: like a शर्यां (*śaryāṃ*) going swiftly from the archer (अस्तुः (*astuḥ*)). शर (*śara*) is the iron arrow-head, the instrument of injury तत्त्वचुरां (*tattvacurāṃ*)**NOTE**. Or शर (*śara*) is a particular kind of wood, of the bamboo-like class, and the arrow made of it is meant; "शर्या (*śaryā*) are arrows, made of reed," says Yāska (Ni. 5-4). Or शर्या (*śaryā*) is simply शर (*śara*). Or शर (*śara*) is injury, and what does that is the arrow. As the wind, or the speed produced by an impeller, drives that arrow favourably, so (the wind drives the flame).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्मः (*dasmaḥ*)—Agni, of burning nature
+- पुरूणि (*purūṇi*)—many trees
+- जंभैः (*jaṃbhaiḥ*)—with flames that are like teeth
+- नि रिणाति (*ni riṇāti*)—burns up completely
+- आत् (*āt*)—thereafter
+- वने (*vane*)—in the forest full of trees
+- विभावा (*vibhāvā*)—shining in many ways
+- रोचते (*rocate*)—blazes
+- आत् (*āt*)—thereafter
+- वातः (*vātaḥ*)—the wind (his friend)
+- अस्तुः (*astuḥ*)—from near the one who looses the arrow
+- असनां (*asanāṃ*)—swiftly going
+- शर्यां न (*śaryāṃ na*)—as one carries an arrow
+- अनु द्यून् (*anu dyūn*)—every day, in a favourable manner
+- अस्य (*asya*)—of this Agni
+- शोचिः (*śociḥ*)—the flame (carrying it)
+- वाति (*vāti*)—blows
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, of burning nature, burns up many trees completely with his flames, which are like teeth. Then he blazes, shining in many ways in the forest full of trees. At once his friend the wind, every day in a favourable manner, carries and blows the flame of this Agni, as one carries a swift arrow from the archer who looses it.
+
+##### Printed English
+
+The destroyer, (Agni), consumes numerous (tree) by his flames and shines with manifold radiance in the forest : the favouring wind blows (the flames) onwards day by day, like the swift arrows of an archer.
+
+##### विशेषविषयगळु (Special Topics)
+
+दस्मः (*dasmaḥ*)—that the word दस्म (*dasma*) means "of burning nature" and "worth seeing" has been stated in this same part, in the Ṛk 1-138-4.
+
+जंभैः (*jaṃbhaiḥ*)—the special meaning of this word has been stated in Ṛk 1-143-5. Here it means "with flames that are like teeth".
+
+### Printed p. 439
+
+शर्यां (*śaryāṃ*)—शर्य्या अंगुलयो भवंति सृजंति कर्माणि । शर्य्या इषवः शरमय्यः । शरः शृणातेः । (*śaryyā aṃgulayo bhavaṃti sṛjaṃti karmāṇi | śaryyā iṣavaḥ śaramayyaḥ | śaraḥ śṛṇāteḥ |*) (Ni. 5-4). For this word the Nirukta-author gives two meanings. First, because they produce (carry out) rites, the fingers have the name शर (*śara*); second, derived from the root श्य (*śya*), which gives the meaning "split", it has become शर्या (*śaryā*)—so he shows the derivation of the word. After that he cites the Ṛk अभ्यभि हि श्रवसा ततर्दिथोत्सं न कं चिज्जनपानमक्षितं । शर्याभिर्न भरमाणो गभस्तोः ॥ (*abhyabhi hi śravasā tatardithotsaṃ na kaṃ cijjanapānamakṣitaṃ | śaryābhirna bharamāṇo gabhastoḥ ‖*) (Ṛ. Saṃ. 9-110-5). Durgācārya, explaining this Ṛk, says शराभिर्न भरणिः । शरमयीभिः इषुभिः यथा कश्चित् कंचित् अभितर्दयेत् । (*śarābhirna bharaṇiḥ | śaramayībhiḥ iṣubhiḥ yathā kaścit kaṃcit abhitardayet |*), and interprets the word शराभिः (*śarābhiḥ*) as "with arrows", "as if someone were to injure with arrows". Sāyaṇa, however, interprets that word as अंगुलीभिः (*aṃgulībhiḥ*), "with fingers". Since both meanings are possible, both fit. In the present Ṛk Sāyaṇa says शरो नाम हिंसासाधनलोहमयमिषुमुखं । तत्पचुरां । यद्वा शरो नाम वंशावांतरजातीयः काष्ठविशेषः। तद्विकारामिषुमिव । यद्वा शर एव शरा । अथवा शरो हिंसा तत्सरोतीति शरा इषुः । (*śaro nāma hiṃsāsādhanalohamayamiṣumukhaṃ | tatpacurāṃ | yadvā śaro nāma vaṃśāvāṃtarajātīyaḥ kāṣṭhaviśeṣaḥ| tadvikārāmiṣumiva | yadvā śara eva śarā | athavā śaro hiṃsā tatsarotīti śarā iṣuḥ |*), and so shows the derivation: either the arrow, an instrument of injury made of iron, or that it is so named just because it is of injurious nature.
+
+##### Grammar
+
+- दस्मः — दसु उपक्षये धातुः । अंतर्भावितण्यर्थको धातुः । इषियुधींधि- (उ.सू. इति मक् प्रत्ययः । प्रत्ययस्वरात् अंतोदात्तो भवति ।**NOTE**
+- रिणाति — री गतिरेषणयोः धातुः । लट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । क्र्यादिभ्यःश्ना इति श्नाविकरणम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः । अट् कुप्वाज्— इति सूत्रेण विकरणस्य णत्वम् । तिजंतनिघातस्वरो भवति ।
+- रोचते — रुच दीप्तौ धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- विभावा — विविधाः भाः यस्य सः विभावा । आतो मनिन्— (पा. सू. ३-४-७४) इति वनिप् प्रत्ययः । पित्त्वात् अनुदात्तो भवति । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 440
+
+##### Grammar
+
+- वातः — वा गतिगंधनयोः धातुः । हसिमृग्विण्ण्वा— (उ. सू. ३-३६६) इति तन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति ।
+- वाति — पूर्वोक्तस्य धातोः लट् प्रथमपुरुषैकवचने वाति इति रूपं भवति । तिजंतनिघातस्वरो भवति ।
+- अस्तुः — असु क्षेपणे धातुः । कर्तरि तृन् प्रत्ययः । अस्त्र शब्दो भवति । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति । पंचम्येकवचने परे ऋतउत् इति उत्वम् । रपरत्वे आगते रात्सस्य इति सकारस्य लोपः ।
+- शर्याम् — शर एव शर्या । चतुर्वर्णादिभ्य उपसंख्यानम् इति ष्यञ् प्रत्ययः । यस्येति च इति सूत्रेण अकारलोपः । इत्त्वात् आद्युदात्तस्वरो भवति । अथवा विकारार्थे यत् प्रत्ययः । यतोऽनावः इति आद्युदात्तस्वरो भवति ।
+- असनाम् — असु क्षेपणे धातुः । बहुलग्रहणात् कर्तरि ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू. ७-१-१) इति अनादेशः । फृतादौ सेरितत्वात् अंतोदात्तो भवति । (Verse 4 ends.)
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं रि॒पवो॒ न रि॑ष॒ण्यवो॒ गर्भे॒ संतं॑ रेष॒णा रे॒षयं॑ति ।  
+> अं॒धा अ॑प॒श्या न द॑भन्नभि॒ख्या नित्या॑स ईं प्रे॒तारो॑ अरक्षन् ।  
+> ॥ ५३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । रिपवः ! न ! रिषण्यवः । गर्भे । संतं ! रेषणाः । रेषयंति ।  
+> अंधाः ! अपश्याः । न ! दभन् ! अभिख्या । नित्यासः ! ईं । प्रेतारः ! अरक्षन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निं गर्भे गर्भवद्रक्षकेऽरणिमध्ये संतं वर्तमानं रिपवो नरा न
+> रेषयंति न दुःखयंति ! तथा रिषण्यवोऽन्ये हिंसकाः ॥ दुरस्त्युद्र्रविणस्युवृषण्यति
+
+##### Gist of the bhāṣya
+
+Agni, who is संतं (*saṃtaṃ*), present, in the गर्भे (*garbhe*)—in the interior of the araṇi, which guards him as a womb guards its child—the रिपवः (*ripavaḥ*), men who are enemies, do not (न (*na*)) रेषयंति (*reṣayaṃti*), do not cause suffering to. Likewise the रिषण्यवः (*riṣaṇyavaḥ*), other injurers (…the next block gives the formation of रिषण्यति (*riṣaṇyati*) and continues).
+
+### Printed p. 441
+
+> रिषण्यति । पा. ७-४-३६ । इति क्यचि निपात्यते । क्याच्छंदसीत्युः ॥ न हिंसंति । कीदृशास्ते
+> रेषणा हिंसनस्वभावाः । यद्वा । तैः क्रियमाणा हिंसनप्रकारा न हिंसंति । किंचास्याभिख्याभितः ख्यातिं माहात्ममंधा ज्ञानशक्तिरहिता अविद्वांसः अत एवापश्या अद्रष्टारः । यद्वा । विद्वांसोऽप्यभावयितारः । अनुपासका इत्यर्थः । ईदृग्रूपा
+> भयेऽपि न दभन् । न दभ्नुवंति । न हिंसंति । लौकिकोपकारेणापि प्रयोजकत्वादिति
+> भावः । तर्ह्यस्य पारमार्थिकं रूपं के जानंतीति चेत् उच्यते । नित्यासो नित्या
+> अविचलितभक्तयः अग्निहोत्रादिनित्यकर्मरता वा । अग्न्यनुग्रहात्त्वयमपि नित्या
+> भविष्यंतीति भावि नित्यत्वमाश्रित्य नित्या उपचर्यंते । तावृशा यजमानाः प्रेतारो
+> यज्ञादिना तमेव तर्पयितारः संत ईमेनमरक्षन् । रक्षंति । यज्ञादिरूपेण
+> भजंत इत्यर्थ ॥
+
+##### Gist of the bhāṣya
+
+रिषण्यति (*riṣaṇyati*) is irregularly formed under *kyac*, with the ending उ (*u*) by क्याच्छंदसीत्युः (*kyācchaṃdasītyuḥ*). They do not injure. What are those रेषणाः (*reṣaṇāḥ*) like? Of injuring nature; or the modes of injury practised by them do not injure. Further, अभिख्या (*abhikhyā*) is his fame, his greatness all round. The अंधाः (*aṃdhāḥ*) are those devoid of the power of knowledge, the unlearned, and hence अपश्याः (*apaśyāḥ*), non-seers. Or even the learned who do not meditate on him, that is, are not worshippers. Such persons न दभन् (*na dabhan*) (they do not injure) even in fear, because he is helpful even through worldly benefits—such is the sense. If it be asked who then know his true form, the answer is: the नित्यासः (*nityāsaḥ*)—those of unwavering devotion, or those devoted to the constant rites such as the Agnihotra; or, since by Agni's favour they themselves will become constant, they are called "constant" by reference to their future constancy. Such sacrificers, प्रेतारः (*pretāraḥ*), pleasing him by sacrifice and the like, अरक्षन् (*arakṣan*) (that is, protect) this one (ईं (*īṃ*))—they serve him in the form of sacrifice and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गर्भॆ (*garbhè*)—protected like a child in the womb between the araṇis
+- संतं (*saṃtaṃ*)—being
+- यं (*yaṃ*)—whom, this Agni
+- रिपवः (*ripavaḥ*)—human enemies (who are not sacrificers)
+- न रेषयंति (*na reṣayaṃti*)—cannot injure
+- रेषणाः (*reṣaṇāḥ*)—of evil nature
+- रिषण्यवः (*riṣaṇyavaḥ*)—other injurers also
+- न (*na*)—cannot injure
+- (and) अंधाः (*aṃdhāḥ*)—the unlearned, devoid of knowledge like the blind
+- अपश्याः (*apaśyāḥ*)—not able to see; (or) even the learned, who though possessed of knowledge do not worship with devotion and faith
+- अभिख्या (*abhikhyā*)—the renowned greatness of Agni
+- नवभन् (*navabhan*)—cannot diminish
+- नित्यासः (*nityāsaḥ*)—those of everlasting devotion and faith
+- प्रेतारः (*pretāraḥ*)—the sacrificers who please Agni by sacrifices and the like
+- ईं (*īṃ*)—this Agni
+- अरक्षन् (*arakṣan*)—protect and serve
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, who stays protected like a child in the womb between the araṇis, cannot be injured either by human enemies who are not sacrificers, or by other injurers of evil nature. And even if the unlearned, devoid of knowledge like the blind, are not able to understand him, they cannot diminish the renowned greatness of this Agni. Sacrificers who are endowed with everlasting devotion and faith and who please him with sacrifices and the like protect and serve this Agni.
+
+##### Printed English
+
+The blind (of intellect), or those who see not (physically), detract not from his glory, whom no enemies, no malevolent adversaries, harm, even whilst yet in (his) embryo (condition); for bis constant encouragers defend him.
+
 ---
 
-**Progress note:** Done through printed p. 435. pp. 430-435 (batch API)
+**Progress note:** Done through printed p. 441. pp. 436-441 (batch API)
