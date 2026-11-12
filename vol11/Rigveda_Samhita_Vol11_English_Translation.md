@@ -2103,6 +2103,115 @@ Just as the Śatapatha Brāhmaṇa calls this same Madhu-vidyā the head of the 
 
 and says इयं वै तन्मधु दध्यज्ञाथर्वणोऽश्विभ्यामुवाच (*iyaṃ vai tanmadhu dadhyajñātharvaṇo 'śvibhyāmuvāca*): this is the Madhu-vidyā which Dadhīci, Atharvan's son, taught to the Aśvins, and it leads to the principle of the highest human goal. (Bṛ. U. 2-5-16 to 19)
 
+### Printed p. 84
+That Dadhīci is a part of Agni is stated in the Taittirīya Saṃhitā. First:
+त्वामग्ने पुष्करादधीत्याह पुष्करपर्णॆ ह्येनमुपश्रितमविंदत्तमु त्वा दध्यज् ऋषिरित्याह दधज् ना अथर्वणस्तेजस्व्यासीत्तेज एनास्मिन्दधाति । (*tvāmagne puṣkarādadhītyāha puṣkaraparṇè hyenamupaśritamaviṃdattamu tvā dadhyaj ṛṣirityāha dadhaj nā atharvaṇastejasvyāsītteja enāsmindadhāti |*)
+(Tai. Saṃ. 5-1-4-4)
+"O Agni, Dadhīci, son of Atharvan and exceedingly radiant, found you, who had taken shelter in the lotus leaf." After saying this, it then quotes the Ṛk
+इंद्रो दधीचो अस्थभिर्वृत्राण्यप्रतिष्ठुतः । जघान नवतीर्नव ॥ (*iṃdro dadhīco asthabhirvṛtrāṇyapratiṣṭhutaḥ | jaghāna navatīrnava ‖*)
+(Ṛ. Saṃ. 1-84-13)
+and then:
+प्रजापतिर्ना अथर्नाग्निरेव दध्यज्ञाथवर्णस्तस्येष्टका अस्थान्येतग्ं ह नाव तदृषिरभ्यनूवाचेंद्रो दधीचो अस्थभिरिति यदिष्टकाभिरग्निं चिनोति । (*prajāpatirnā atharnāgnireva dadhyajñāthavarṇastasyeṣṭakā asthānyetagṃ ha nāva tadṛṣirabhyanūvāceṃdro dadhīco asthabhiriti yadiṣṭakābhiragniṃ cinoti |*)
+(Tai. Saṃ. 5-6-6-3)
+Atharvan is Prajāpati; Atharvan-Dadhīci is Agni himself. His bones are the bricks. Therefore, reciting the mantra इंद्रो दधीचो अस्थभिः (*iṃdro dadhīco asthabhiḥ*), one builds the fire-altar with bricks. Thus the identity of Dadhīci and Agni is stated. The seer Parucchepa, the seer of the sūkta, declares his own relationship with such a Dadhīci, who sprang from a divine portion and has great glory.
+
+Aṅgirāḥ—the seer named Aṅgiras, or a lineage, or a synonymous name of Agni. Their explanation is given in the Special Topics of the Ṛks 1-31-1; 1-100-4; 1-139-7.
+
+Priyamedhaḥ—प्रिया अस्य मेधाः (*priyā asya medhāḥ*) (Ni. 3-13): the Nirukta-writers' explanation is "he to whom sacrifices and rites are dear". This may be an epithet of a seer who identifies himself with the sacrifice, or it may be a personal name. In the present Ṛk it is understood as a seer who is the seer of some sūkta in the Ṛk Saṃhitā. This seer is dealt with in the Special Topics of the Ṛk 1-45-3 of the Ṛgveda Saṃhitā.
+
+Kaṇvaḥ—the name of Kaṇva is very well known in the Ṛk Saṃhitā and in the other Saṃhitās, Brāhmaṇas and so on. A large part of the 8th Maṇḍala of the Ṛgveda consists of sūktas seen by seers of the Kāṇva lineage, and that Maṇḍala is itself known by the name Kāṇva-maṇḍala. In many places he is said to be a devotee most dear to the Maruts and one of very great glory. For example, of the Śatapatha Brāhmaṇa,
+
+### Printed p. 85
+चित्रामाहं वृणे सुमति विश्वजन्यां यामस्य कण्वो अदुहत्प्रीनां सहस्र धारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्यै सहस्रधारा सर्वान्कामान्पुदुहे । (*citrāmāhaṃ vṛṇe sumati viśvajanyāṃ yāmasya kaṇvo aduhatprīnāṃ sahasra dhārāṃ payasā mahīṃ gāmiti kaṇvo haināṃ dadarśa sā hāsyai sahasradhārā sarvānkāmānpuduhe |*)
+(Śa. Brā. 9-2-3-38)
+In these sentences his glory is praised: Kaṇva milked the cow with a thousand streams (this was possible for him alone) and obtained from it all desired ends. The same matter is stated also in the Taittirīya Saṃhitā (Tai. Saṃ. 4-6-5). The Bṛhaddevatā says that Kaṇva and Pragādha were sons of Ghora, and:
+कण्वश्चैव प्रगाथश्च घोरपुत्रौ बभूवतुः । गुरुणा तावनुज्ञातावूषतुः सहितौ वने ॥ वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्वपत् । कृत्वा कनीयान् कण्वस्य उत्संगे नान्वबुध्यत ॥ शप्तुकामस्तु तं कण्वः क्रुद्धः पापाभिशंकया । बोधयामास पादेन दिधक्षन्निव तेजसा ॥ विदित्वा तस्य तं भावं प्रगाथः प्रांजलिस्थितः । मातृत्वे च पितृत्वे च वरयामास तावुभौ ॥ स घौरो वाथ काण्वो ना वंशजैर्बहुभिः सह । ददर्शानैश्च सहित ऋषिर्मंडलमष्टमं ॥ (*kaṇvaścaiva pragāthaśca ghoraputrau babhūvatuḥ | guruṇā tāvanujñātāvūṣatuḥ sahitau vane ‖ vasatostu tayostatra kaṇvapatnyāḥ śiraḥ svapat | kṛtvā kanīyān kaṇvasya utsaṃge nānvabudhyata ‖ śaptukāmastu taṃ kaṇvaḥ kruddhaḥ pāpābhiśaṃkayā | bodhayāmāsa pādena didhakṣanniva tejasā ‖ viditvā tasya taṃ bhāvaṃ pragāthaḥ prāṃjalisthitaḥ | mātṛtve ca pitṛtve ca varayāmāsa tāvubhau ‖ sa ghauro vātha kāṇvo nā vaṃśajairbahubhiḥ saha | dadarśānaiśca sahita ṛṣirmaṃḍalamaṣṭamaṃ ‖*)
+(Bṛ. De. ṭa. 35 to 39)**NOTE**
+In these sentences the fact that the Kāṇvas were seers of the sūktas of the eighth Maṇḍala is stated. Since the Pragāthas belong to the Kāṇva lineage and are also the authors of the first sūkta of the eighth Maṇḍala, Āśvalāyana has called them all together Pragāthas.
+
+Atriḥ—Atri and the Atri lineage are famous as the seers of the 5th Maṇḍala of the Ṛk Saṃhitā. That Atri was a son of Prajāpati, and the course of this seer's origin, are stated in the Bṛhaddevatā:
+त्रिसांवत्सरिकं सत्त्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वैर्देवैः सहेति च ॥ तत्र वाग्वीक्षणीयायां आजगाम शरीरिणी । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥ शुक्रं चस्कंद तद्वायुरग्नौ प्रास्यद्यदृच्छया । ततोऽर्चिभ्यो भृगुर्जज्ञॆ अंगारेष्टंगिरा ऋषिः ॥ प्रजापतिं सुतौ दृष्ट्वा दृष्टा वागभ्यभाषत । आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥ प्रजापतिस्तथेत्युक्तः प्रत्यभाषत भारतीं । ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥ (*trisāṃvatsarikaṃ sattraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvairdevaiḥ saheti ca ‖ tatra vāgvīkṣaṇīyāyāṃ ājagāma śarīriṇī | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖ śukraṃ caskaṃda tadvāyuragnau prāsyadyadṛcchayā | tato 'rcibhyo bhṛgurjajñè aṃgāreṣṭaṃgirā ṛṣiḥ ‖ prajāpatiṃ sutau dṛṣṭvā dṛṣṭā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖ prajāpatistathetyuktaḥ pratyabhāṣata bhāratīṃ | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*)
+
+### Printed p. 86
+(Bṛ. De. 5-97 to 101)
+Formerly, when Prajāpati was performing a sattra sacrifice lasting three years, the goddess Vāc took a body and came there to take part. Because of the disturbance of mind that then arose in Prajāpati, Bhṛgu and Aṅgiras were born. Then the goddess Vāc prayed to Prajāpati that along with these two a further son might be born. Prajāpati agreed, and the seer Atri was born, with a radiance equal to the sun and fire. Such is the story. In the sentence अभ्यवादयशामत्रिं महर्षिं दीप्ततेजसं । (*abhyavādayaśāmatriṃ maharṣiṃ dīptatejasaṃ |*) (Bṛ. De. 5-65) too the radiance of this great seer is praised. This follows the Nirukta sentence अत्रैव तृतीयमृच्छतेत्युचुः । तस्मादत्रिः । (*atraiva tṛtīyamṛcchatetyucuḥ | tasmādatriḥ |*) (Ni. 3-17).
+
+In the Taittirīya Saṃhitā the manner in which Atri performed the Caturātra sacrifice, which praises Atri's glory and bestows wealth, is related:
+अत्रिरददादौर्वाय प्रजां पुत्रकामाय......स एतं चतुरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्य चत्वारो वीरा आजायंत...य एवं वेद विद्वान् ......तामेव यजमान यध्नोति । (*atriradadādaurvāya prajāṃ putrakāmāya......sa etaṃ caturātramapaśyattamāharattenāyajata tato vai tasya catvāro vīrā ājāyaṃta...ya evaṃ veda vidvān ......tāmeva yajamāna yadhnoti |*)
+(Kṛ. Saṃ. 7-1-8)**NOTE**
+In these sentences, after telling of the special blessings Atri obtained through the Caturātra sacrifice, it says that any sacrificer who knows this secret known to Atri and performs the sacrifice will obtain for himself the victory and wealth that Atri obtained.
+
+Atri's self-luminousness, indicated by the epithet सूर्यानलसमद्युतिः (*sūryānalasamadyutiḥ*)—that he gives light even to the sun and the rest, the very bases of light, when they are enveloped in darkness—is described both in the Ṛk Saṃhitā and in the Śatapatha and other Brāhmaṇas. For example:
+गौळं सूर्यं तमसापव्रतेन तुरियेण ब्रह्मणाविंदपत्रिः । (*gauḷaṃ sūryaṃ tamasāpavratena turiyeṇa brahmaṇāviṃdapatriḥ |*)
+(Ṛ. Saṃ. 5-40-6)
+अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अघुक्षत् । (*atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā aghukṣat |*)
+(Ṛ. Saṃ. 5-3-8)
+
+### Printed p. 87
+In such Ṛks, Atri's power is praised: when Svarbhānu (Rāhu) attacked the sun and caused darkness, the seer Atri destroyed the darkness and made the sun shine. Likewise in the Śatapatha Brāhmaṇa also:
+अत्रिर्वा ऋषीणां होतासाथैतत्सदोऽसुरतमसमभिपुप्रुवे त ऋषयोऽत्रि मब्रुवन्नेहि प्रत्यज्जिदं तमोऽपजहीति स एतत्तमोऽपाहन्नयं वै ज्योतिर्य इदं तमोऽसाबधीदिति तस्मा एतज्योतिर्हिरण्यं ......तस्मादात्रेयाय हिरण्यं । (*atrirvā ṛṣīṇāṃ hotāsāthaitatsado 'suratamasamabhipupruve ta ṛṣayo 'tri mabruvannehi pratyajjidaṃ tamo 'pajahīti sa etattamo 'pāhannayaṃ vai jyotirya idaṃ tamo 'sābadhīditi tasmā etajyotirhiraṇyaṃ ......tasmādātreyāya hiraṇyaṃ |*)
+(Śa. Brā. 4-3-4-21)
+Atri was the hotṛ of the seers; when the sacrifice was about to be completed, the darkness of the Asuras spread over the whole assembly. Then, when the seers sought Atri's help to destroy that darkness, he destroyed it. The seers, knowing that he was the very form of radiance, brought gold, which is of the nature of radiance, to give as a gift for the sacrificial rite; so it is said.
+
+The nature of this Atri is not merely physical radiance; that it is also spiritual radiance is stated in the Bṛhadāraṇyaka and other texts in these sentences:
+अद्यतेत्तिर्ह वै नामैतद्व्यपत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद । (*adyatettirha vai nāmaitadvyapatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda |*)
+(Bṛ. U. 2-2-4)
+
+##### Grammar
+
+- जनुषम् — जनी प्रादुर्भावे धातुः । जनेरुसिः (उ. सू. २-२७२) इति अस्मात् औणादिकः उसि प्रत्ययः भवति । जनुस् शब्दः भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । द्वितीयाविकवचनांतरूपम् ।
+- आंगिराः — अंगिराः अंगाराः (निरु. ३-१७) इति यास्कैः उक्तम् । ऐतरेयब्राह्मणेऽपि “ येंगिरा आसन् ते अंगिरसोभवन्” (ऐ. ब्रा.३-३४) इति उक्तम् । अतः अंगिरसमुनेः कारणत्वात् अंगाररूपात् अग्नेः अंगिरस् रूपं भवति ।
+- प्रियमेधः — प्रियमेधः प्रिया अस्य मेधाः (निरु ३-१७) इति यास्कः आह । प्रियः मेधः यस्य सः । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- अत्रिः — न विद्यंते त्रीणि यस्य सः अत्रिः । अत्रिः न त्रयः (निरु. ३-१७) इति यास्कैः उक्तम् । अदेस्त्रिनिच (उ. सू. ५-७७४) इत्यत्र चकारेण अनुवृत्तः त्रि प्रत्ययः आद् धातोः भवति । व्यत्ययेन आद्युदात्तः भवति ।
+
+### Printed p. 88
+- विदुः — विद ज्ञाने धातुः । लट् प्रथमपुरुषबहुवचने विदो लटोवा (पा. सू. ३-४-८३) इति झेः उसादेशः । अदिप्रभृतिभ्यः शपः इति शपः लुक् । प्रत्ययसकारस्य रुत्वविसर्गौ । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- मनुः — अस्मात् जस् परे सुपांसुलुक् (पा. सू ७-१-३९) इति तस्य लुक् भवति ।
+- महि — मह पूजायां धातुः । अस्मात् औणादिकः इन् प्रत्ययः । नित्त्वात् इत्यादिर्नित्यं (पा. सू. ६-१-१९७) इति आद्युदात्तस्वरः भवति ।
+- नमे — णमु प्रह्वत्वे शब्दे च धातुः । व्यत्ययो बहुलं (पा सू. ३-१-८५) इति आत्मनेपदी भवति । लट् उत्तमपुरुषएकवचने इट् प्रत्ययः । टित आत्मनेपदा इति तस्य एत्वम् । शप् आगते पररूपम् । णोनः इति धात्वादेः नत्वम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- गिरा — सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति तृतीयाविभक्तेः उदात्तस्वरः भवति ।
+- इंद्राग्नी — इंद्रश्च अग्निश्च इंद्राग्नी । प्रसिद्धसाहचर्ये एव आनज्विधानस्य कृतत्वात् अत्र आनज् न भवति । समासस्य (पा. सू. ६-१-२२३) इति अंतोदात्तस्वरः भवति । अग्नि शब्दः अनुदात्तादिः इति नोत्तरपदे अनुदा- (पा. सू. ६-२-१४२) इति निषेधः अस्ति इति देवताद्वंद्वे च (पा. सू. ६-१-१४१) इति उभयपदप्रकृतिस्वरः न भवति । द्वितीयाद्विवचनांतरूपम् ।
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> होता यक्षद्वनिनो वंत वार्यं बृहस्पतिर्यजति वेन  
+> उक्षभिः पुरुवारेभिरुक्षभिः ।  
+> ज॒गृ॒भ्या दू॒रआ॑दिशं॒ श्लोक॒मद्रे॒रध॒ त्मना॑ ।  
+> अधा॑रयदर॒रिंदा॑नि सु॒क्रतुः॑ पु॒रू सद्मा॑नि सु॒क्रतुः॑ ॥ १० ॥
+
+### Printed p. 89
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> होता । यक्षत् । वनिनः । वंत । वार्यं । बृहस्पतिः । यजति । वेनः । उक्षभिः ।  
+> पुरुवारेभिः । उक्षभिः ॥  
+> जगृभ्य । दूरेऽदिशं । श्लोकं । अद्रेः । अध । त्मना ।  
+> अधारयत् । अररिंदानि । सुक्रतुः । पुरु । सद्मानि । सुक्रतुः ॥ १२ ।
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं होता दैव्योग्निर्मानुषो ना देवानामाह्वाता यक्षत् । याज्यां
+> पठतु ॥ यजेर्लेट्यडागमः । सिब्बहुलमिति सिप् ॥ वनिनो वननवंतः हविः कामयमाना ना देवा वार्यं वरणीयं सोमं वंत । संभजंतां ॥ वनतेश्चांदसे
+> लजि व्यत्ययेनात्मनेपदं । बहुलं छंदसीति शपो लुक् । छांदसोंत्यलोपः ॥
+> तदर्थ० बृहस्पतिर्भृहतो मंत्रस्य हविषो ना पालकोऽध्वयुर्दैव्यू बृहस्पतिर्वा
+> स्वयमेव यजति । यागं करोति । कीदृशः सः । वेनः कामयमानः । केन साधनेनेति तदुच्यते । उक्षभिः सेचकैः सोमैः पुरुषारेभिर्बहुभिर्वरणीयैः तथोक्षभिः
+> सेचनसमर्थैरुदकैः तन्निमित्तभूतैर्हूयमानैराहुतिभिरादित्यद्वारा वृष्टुत्पन्नैः ।
+> वयं यजमाना दूरआदिशं दूरदेश आदिगादेशो यस्य तादृशं ॥ हलदंतात्सप्तम्याः पा. ६-३-९ । इत्यलुक् ॥ अद्रेः । जातावेकवचनं । अभिषवसाधनस्य ग्राव्णः
+> श्लोकं वाचं ध्वनिं जगृभ्य । गृहीमः श्रोत्राभ्यां । पूजार्थं बहुवचनं ।
+> इदानीं परोक्षकृतः। सुक्रतुः । शोभनकर्मायं यजमानोऽधाध यागसंपूर्त्यनंतरमररिंदानि । उदकनामैतत् । अररिंदानि ध्वस्मन्वदिति तन्नामसु पाठात् । वृष्टिलक्षणान्युदकानि त्मनात्मनाधारयत् । धारयति ॥ ररिर्दाता । नास्त्यन्यो ररिरस्य
+> पिपासोपशमनस्य तादृशं पिपासोपशमनं ददतीत्यररिंदानि । यद्वा । आररिरितश्चेतश्च गमनं । औणादिकोऽरिप्रत्ययः । आतोऽनुपसर्गॆ कः । पृषोदरादित्वादभिमतस्वरूपस्वरसिद्धिः । तद्ददतीत्यररिंदान्युदकानि । चेष्टाप्रदानीत्यर्थः । आपोमयः
+> प्राणः । छां. उ. ६-५-४। इति श्रुतेः। यद्वा । ररिर्दानं । न विद्यते तादृशं दानमितरभूतेषु तदर । तद्ददतीत्यररिंदानि । अन्वैरदेयं लोकोपकारि भोगं ददतीत्यर्थः ॥ तादृशान्युदकानि यागेनोत्पादितवानित्यर्थः । किंच सुक्रतुः । शोभनकर्मायं पुरु पुरूणि बहूनि सद्मानि सदनानि सुखनिवासयोग्यानि गृहाण्यधारयत्
+
+##### Gist of the bhāṣya
+
+This Hotā, the divine Agni (or a human priest), the invoker of the gods, shall sacrifice, यक्षत् (*yakṣat*): let him recite the yājyā. (यजेर्लेट्यडागमः (*yajerleṭyaḍāgamaḥ*) and sip are the grammatical point.) वनिनः (*vaninaḥ*): the gods, who desire the oblation; वंत (*vaṃta*): may they share वार्यं (*vāryaṃ*), the desirable Soma. For that purpose Bṛhaspati, the protector of the great mantra and oblation, the divine Adhvaryu, or Bṛhaspati himself, sacrifices, that is, performs the sacrifice. What is he like? वेनः (*venaḥ*): desirous. By what means? That is stated: उक्षभिः (*ukṣabhiḥ*), with sprinkling Somas, पुरुवारेभिः (*puruvārebhiḥ*), many and choice; and likewise उक्षभिः (*ukṣabhiḥ*), with waters able to sprinkle, which arise as rain through the sun, caused by the oblations offered into the fire.
+
+We, the sacrificers, जगृभ्य (*jagṛbhya*): we take with our ears the श्लोकं (*ślokaṃ*), the voice or sound, of the pressing stone (अद्रेः (*adreḥ*), a generic singular), the instrument of pressing, दूरआदिशं (*dūraādiśaṃ*), whose direction reaches a far place. (The plural is for honour.) Now, with a past-tense sense: सुक्रतुः (*sukratuḥ*), this sacrificer of good deeds, अध (*adha*), after the completion of the sacrifice, त्मना (*tmanā*), himself, अधारयत् (*adhārayat*), holds अररिंदानि (*arariṃdāni*). This is a name of water, since it is read among the names of water. The waters in the form of rain he holds. Several explanations of अररिंदानि (*arariṃdāni*): *rariḥ* is a giver; there is no other giver like this quencher of thirst; so they give thirst-quenching, hence अररिंदानि (*arariṃdāni*). Or *ārariḥ* is going hither and thither (an Uṇādi affix); they give that; the waters are givers of what is desired. The scriptural statement आपोमयः प्राणः (*āpomayaḥ prāṇaḥ*) (Chā. U. 6-5-4) is cited. Or *rariḥ* is gift; such a gift is not found among other beings; they give such a thing; that is, they give enjoyment beneficial to the world which others cannot give. The meaning is that such waters were produced by the sacrifice. Further, सुक्रतुः (*sukratuḥ*), this sacrificer of good deeds, पुरु (*puru*), many, सद्मानि (*sadmāni*), houses fit for comfortable dwelling, he holds.
+
 ---
 
-**Progress note:** Done through printed p. 83. pp. 77-83 (batch API)
+**Progress note:** Done through printed p. 89. pp. 84-89 (batch API)
