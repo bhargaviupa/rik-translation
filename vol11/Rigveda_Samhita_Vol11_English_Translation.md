@@ -4167,6 +4167,153 @@ He adds: *yadīm*, this very Agni, from प्रदिवः (*pradivaḥ*), fr
 - गुहा संतं यदीं (*guhā saṃtaṃ yadīṃ*)—which this Agni, lying hidden in the wood
 - प्रदिवः (*pradivaḥ*)—from beginningless time (as being
 
+### Printed p. 170
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रदिवः (*pradivaḥ*)—(continued) as from time without beginning, so also now
+- मध्वः (*madhvaḥ*)—sweet like honey
+- आधवे (*ādhave*)—for the sake of placing the oblation (for offering it)
+- मातरिश्वा (*mātariśvā*)—the wind that moves in the atmosphere
+- मथायति (*mathāyati*)—as he blows and makes (him) blaze up. [Or: मातरिश्वा (*mātariśvā*)—the sacrificer, the performer of the sacrifice; मथायति (*mathāyati*)—as he causes (him) to be produced (from the wood); therefore this Agni is worthy of praise.]
+
+##### भावार्थ (Bhāvārtha)
+
+From the time of the installation of the fire in the great sacrifice onward, in order that Agni may take on a form fit to receive the oblation and extended, the priests, who are capable in the discharge of their own duties and are wise, caused this Agni to be produced from wood by the power of their mantras and also by the strength of their bodies. And this Agni, lying hidden in the wood, is, as from time without beginning so now also, blown upon well and made to blaze up by the wind that moves in the atmosphere, in order that the honey-sweet oblation may be offered. Therefore this Agni is worthy of praise.
+
+##### Printed English
+
+As powerful priests extract by the force (of prayer), this Agni from his primitive seat, (for the evolvement) of his mighty form ; as the wind arouses him lurking in the hiding-place ( of the altar ), for the sake of offering oblations now as of old:
+
+##### विशेषविषयगळु (Special Topics)
+
+महिषस्य (*mahiṣasya*)—The word महिष (*mahiṣa*) is read among the names meaning "great" (Ni. 3-13). The author of the Nirukta, citing the Ṛk
+अपामुपस्थे महिषा अगृज्ञत विशो राजानमुप तस्थुर्यग्नियं । आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥ (*apāmupasthe mahiṣā agṛjñata viśo rājānamupa tasthuryagniyaṃ | ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*)
+(Ṛ. Saṃ. 6-8-4),
+shows for the word महिष (*mahiṣa*) occurring there the meaning महत्यंतरिक्षे (*mahatyaṃtarikṣe*) or महांतो मरुतः (*mahāṃto marutaḥ*), and indicates that the idea of the present Ṛk is also found in the cited Ṛk.
+In the present Ṛk the commentator has shown one construction by joining the word महिषस्य (*mahiṣasya*) with बुध्नात् (*budhnāt*), and another kind of construction by joining it with वर्पसः (*varpasaḥ*). According to the first construction, महिषस्य बुध्नात् (*mahiṣasya budhnāt*) means "from the time of the installation of the fire in the great sacrifice"; according to the second, महिषस्य वर्षसः (*mahiṣasya varṣasaḥ*) means "of the extended form". **NOTE**
+### Printed p. 171
+To understand the explanation of this situation, the meaning of the word बुध्नात् (*budhnāt*) must be understood correctly.
+For the word बुध्नात् (*budhnāt*) the meaning "from the root, from the installation onward" has been given. In the Ṛk-Saṃhitā the word बुध्न (*budhna*) is used mostly as a synonym of the atmosphere. But even where it gives the meaning "atmosphere", it is because it holds and keeps the waters fixed, that is, because it is the support of the waters, that the atmosphere is called बुध्न (*budhna*) (Ni. 10-44).
+In the Ṛk
+इंद्राय गिरो अनिशितसर्गा अपः प्रेरयं सगरस्य बुध्नात् । यो अक्षेणेव चक्रिया शचीभिर्विष्वक्तस्तंभ पृथिवीमुत द्यां । (*iṃdrāya giro aniśitasargā apaḥ prerayaṃ sagarasya budhnāt | yo akṣeṇeva cakriyā śacībhirviṣvaktastaṃbha pṛthivīmuta dyāṃ |*)
+(Ṛ. Saṃ. 10-89-4),
+सगरस्य बुध्नात् (*sagarasya budhnāt*) means "that which is the support of the atmosphere"; the meaning is the deep, root region of the atmosphere.
+The same meaning is to be taken in the present Ṛk also. Then the deep root of the sacrifice is either the time of the installation of the fire or the time of the churning of the araṇis. The purport is that from such an initial time the wise ones strove and made Agni to be produced and to be favourable to the sacrifice.
+ईशानासः (*īśānāsaḥ*)—capable in their own work; the meaning is capable in the discharge of their own duties. The word ईशान (*īśāna*) means lord, master.
+. अर्वद्भिरग्ने अर्वतो नृभिन्न र्न्नीर्वैर्विरान्वनुयामा त्वोताः । ईशानासः पितृवित्तस्य रायो वि सूरयः शतहिमा नो अश्वः । (*. arvadbhiragne arvato nṛbhinna rnnīrvairvirānvanuyāmā tvotāḥ | īśānāsaḥ pitṛvittasya rāyo vi sūrayaḥ śatahimā no aśvaḥ |*) **NOTE**
+(Ṛ. Saṃ. 1-73-9)
+ईशानमस्य जगतः स्वर्दृशं । (*īśānamasya jagataḥ svardṛśaṃ |*)
+(Ai. Brā. 17-10)
+ईशानं भूतभव्यस्य । (*īśānaṃ bhūtabhavyasya |*)
+(Ka. U. 4-5)
+Just as in all such sentences the meaning is "lord", here too the sacrificer becomes the lord of his own works. Since ईशानासः सूरयः (*īśānāsaḥ sūrayaḥ*) is said, the purport is that the wise priests, performing their duty without omission, become lords of the fruit also. In the manner in which such wise ones cause the earthly Agni to be produced, Mātariśvan too makes the Agni that lay hidden blaze up; this is said by मातरिश्वा मथायति (*mātariśvā mathāyati*). The supernatural manifestation of Agni, who is the very self of the sacrifice, and his worldly production are described in many ways.
+### Printed p. 172
+That the manifestation of Agni, the father of the sacrifice, took place first in the form of lightning for the wind, is shown in the Ṛk-Saṃhitā in the Ṛk **NOTE**
+त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुकृतूया विवस्वते । अरेजेतां रोदसी होतृपूर्येऽसघ्नोर्भारमयजो महो वसो । (*tvamagne prathamo mātariśvana āvirbhava sukṛtūyā vivasvate | arejetāṃ rodasī hotṛpūrye 'saghnorbhāramayajo maho vaso |*)
+(Ṛ. Saṃ. 1-31-3)
+and in other such Ṛks: as said there, Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, brought to the earth the Agni that was hidden in a distant region, and did good to all creatures on earth; this matter has been explained in detail earlier. In the present Ṛk also, the same point is stated by the qualifier गुहा संतं (*guhā saṃtaṃ*). Here, for the word मातरिश्वा (*mātariśvā*), besides the meaning अंतरिक्षे चेष्टमानो वायुः (*aṃtarikṣe ceṣṭamāno vāyuḥ*), a second meaning is given: मातरि फलस्य मातरि यागॆ श्वसिति चेष्टते इति मातरिश्वा यजमानो गुहा संतं अरण्योर्निगूढं संतं मथायति । (*mātari phalasya mātari yāgè śvasiti ceṣṭate iti mātariśvā yajamāno guhā saṃtaṃ araṇyornigūḍhaṃ saṃtaṃ mathāyati |*) — since the sacrificer acts in the sacrifice, which produces every kind of fruit, he is called Mātariśvan, and he, with effort, blows upon and makes blaze up the Agni that lies hidden in the araṇis.
+प्रदिवः (*pradivaḥ*)—The word प्रदिव (*pradiva*) is read among the names meaning "ancient" (Ni. 3-19). The author of the Nirukta, citing the Ṛk
+मरुत्वा इंद्र वृषभो रणाय पिबा सोममनुष्पधं मदाय । आ सिंचस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानां । (*marutvā iṃdra vṛṣabho raṇāya pibā somamanuṣpadhaṃ madāya | ā siṃcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānāṃ |*)
+(Ṛ. Saṃ. 3-47-1)
+(Ni. 4-8), gives for the word प्रदिवः (*pradivaḥ*) there the meaning पूर्वेष्टपृहस्सु (*pūrveṣṭapṛhassu*), "as (pressed) on former days". **NOTE**  In the present Ṛk too the purport is: just as the oblation has been offered from time without beginning, so now also, in order to offer it in the same way.
+
+##### Grammar
+
+- बुधात्—बध बंधने धातुः । बंधे ब्रधिबुधीच ( उ. सू. २-२८५) इति नक् प्रत्ययः । धातोः बुधि आदेशः । प्रत्ययस्वरेण अंतोदात्तः । सप्तमीएकवचनांतरप **NOTE**
+- महिषस्य—महधातुः । अविमह्योष्टिषच् (उ. सू. १-४५) इति टिषच् प्रत्ययः । चितः (पा. सू. ६-१-१९३) इति अंतोदात्तस्वरो भवति । षष्ठीएकवचनांतरूपम् ।
+- वर्पसः—वृज् संभक्तौ धातुः । वृज्‌शीज्‌भ्यांरूप स्वांगयोः पुट् च (उ.सू. ४-६४०) इति रूपार्थे असुन् प्रत्ययः । धातोः पुटागमः । प्रत्ययनिमित्तत्वेन धातोः इकः गुणः । नित्त्वात् आद्युदात्तस्वरो भवति ।
+### Printed p. 173
+- ईशानासः—ईश ऐश्वर्ये धातुः । ताच्छील्यवयोवचनेषु चानश् (पा. सू. ३-२-१२९) इति चानत् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदंतस्वरो भवति । जस् परे आज्जसेरसुक् इति तस्य असुकागमः ।
+- क्रंत—डुकृञ् करणे । छंदसि लुज् लज् लिटः (पा सू. ३-४-६) इति वर्तमानार्थे लुज् । प्रथमपुरुषबहुवचने झा प्रत्ययः । जिलुजि इति ज्जीविकरणे आगते मंत्रेघसह्यर—(पा. सू. २-४-८०) इति जिळे लुक् । अनकारस्य परे झु आगते अपि व्यत्ययेन तस्य अंतादेशो भवति । प्रत्ययस्य जित्वात् गुणो न भवति । यणादेशः । बहुलं छंदस्यमाङ् योगेपि (पा सू. ६-४-२५) इति अडागमो न भवति । यद्योगत्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति । **NOTE**
+- सूरयः—सूज् प्राणिप्रसवे धातुः । सूज्‌क्रिः इति क्ति प्रत्ययः । कित्त्वात् गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । प्रथमाबहुवचनांतरूपम् ।
+- प्रदिवः—प्रगता विवो दिवसा यस्मात् सः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- गुहा—सप्तमीविभक्तौ परायां सुपां सुलुक् (पा सू. ७-१-३९) इति तस्य लुक् ।
+- संतम्—तस भुवि धातुः । लडर्थे शतृप्रत्ययः । अदिप्रभृतिभ्यः शपः इति शपि लुक् । श्नसोरल्लोपः (पा. सू. ६-४-१११) इति धातोः अकारस्य लोपः । प्रत्ययस्य आद्युदात्तस्वरो भवति । द्वितीयाविकवचने नुमागमः ।
+- मातरिश्वा—मातरि स्वयतीति मातरिश्वा । श्वन्दुक्सन् (उ. सू. १-१५६) इति कनि प्रत्ययांतः निपातितः । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- मथायति—मंथ विलोडने धातुः लट् प्रथमपुरुष एकवचने तिप् प्रत्ययः । छंदसि शायजपि (पा. सू. ३-९-८४) इति त्वाविकरणस्य शायचादेशः । सार्वधातुकमपित् इति तस्य जित्वात् अनिदितां हल—सूत्रेण धातोः उपधा नकारस्य लोपः । यद्योगत्वात् निघातप्रतिषेधो भवति । शायच् चित्त्वात् अंतोदात्तस्वरो भवति ।
+
+### Printed p. 174
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यत्पि॒तुः प॑र॒मान्नी॒यते॒ पर्या पृ॒क्षुधो॑ वी॒रुधो॒ दंसु॑ रोहति ।  
+> उ॒भा यद॑स्य ज॒नुषं॒ यदिन्व॑त॒ आदिद्यवि॑ष्टो अभनद्घृ॒णा  ॑
+> शुचिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यत् । पितुः । परमात् । नीयते । परि । आ । पृक्षुधः । वीरुधः । दंऽसु । रोहति ।  
+> उभा । यत् । अस्य । जनुषं । यत् । इन्वतः । आत् । इत् । यविष्ठः । अभवत् ।  
+> फृणा । शुचिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यस्मात्पुरन्नस्य पशुलक्षणस्य ॥ षष्ठीस्थाने प्रथमा ॥ तस्य परमात् परमत्वाद्धेतोः । उत्कृष्टत्वायेत्कर्थः । तदर्थं प्र परि णीयते प्रकर्षण हरितो
+> नीयते । पर्यग्निक्रियत इत्यर्थः । यद्वा । पितुरुत्पादकात्परमादुत्कृष्टाद्दार्हपत्यलक्षणस्याग्नेः सकाशादाहवनीयं प्रति प्र परि णीयते प्रकर्षण नीयते ।
+> पर्यनर्थकः । किंच पृक्षुधः पशुपुरोडाशादिषु दाहमध्यॆ धीयमानाः । यद्वा॥
+> प्रशब्दस्य संप्रसारणं । क्षुध बुभुक्षायां । क्विप् ॥ प्रक्षोध्याः प्रकर्षण बुभुक्षिता भोक्तुमिष्यमाणाः । वीरुधो दंसु वंतेषु मध्य आ रोहति । आरोहंति ।
+> प्रविशंतीत्यर्थः । यद्यस्मादुभोभावध्वर्युयजमान् उभे अरणी वास्याग्नेर्जनुषं जन्मोत्पत्तिमिन्वतः व्याप्तुतः । स्वीकुरुत इत्यर्थः ॥ इवि व्याप्तौ । इदित्तान्नुम् ॥ आदिदत एव कारणाच्छुचिः शुद्धोऽयमग्निर्घृणा यजमानेष्पनुग्रहेण ।
+> यद्वा । फृणा फृणो दीप्तिमान् ॥ मत्वर्थो लुप्यते ॥ दीप्ता वा यविष्टो
+> युवतमोऽभवत् । संपन्नः । स्वीकारसमर्थोऽभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+यत् (*yat*) means "because". पितुः (*pituḥ*) is the animal-form food, the nominative standing in the place of the genitive. Because that food is परम (*parama*), supreme, for the sake of its excellence प्र परि णीयते (*pra pari ṇīyate*): it is led forward around, that is, the fire is carried round it (the rite of carrying the fire round the animal). **NOTE**  Or else: from the supreme, excellent Gārhapatya fire, the "father", the producer, प्र परि णीयते (*pra pari ṇīyate*), he is carried forward to the Āhavanīya; परि (*pari*) is without meaning. Further, पृक्षुधः (*pṛkṣudhaḥ*) are (the branches) placed in the midst of the burning in the animal, the purodāśa and other offerings. Or else, by contraction of प्र (*pra*) (sampraṣāraṇa), from the root क्षुध (*kṣudha*) in the sense of desire to eat, with kvip: "those greatly hungry", wishing to eat. वीरुधो (*vīrudho*) (the plants) दंसु (*daṃsu*) — in the midst of the teeth (the flames) आ रोहति (*ā rohati*) ascend, that is, enter. **NOTE**  Since both, the adhvaryu and the sacrificer, or the two araṇis, इन्वतः (*invataḥ*) (root इवि (*ivi*) in the sense of pervading) pervade, that is, accept, the birth, the origin, of this Agni, for that very reason this Agni is pure, घृणा (*ghṛṇā*) through favour towards the sacrificers; or else फृणा (*phṛṇā*) means "radiant", the possessive suffix being dropped; यविष्टो (*yaviṣṭo*) means "most youthful", अभवत् (*abhavat*): he became accomplished, capable of acceptance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- पितुः (*pituḥ*)—the food in the form of an animal
+- परमात् (*paramāt*)—because of its being excellent
+- प्र परि नीयते (*pra pari nīyate*)—(this Agni) is carried round in circumambulation. Or else [परमात् (*paramāt*)—from the excellent one; पितुः (*pituḥ*)—from the original one, the Gārhapatya fire; प्र परि नीयते (*pra pari nīyate*)—is carried far (to the neighbourhood of the Āhavanīya fire)]
+### Printed p. 175
+- प्रक्षुधः (*prakṣudhaḥ*)—(in the animal, purodāśa and so on) those that rise up in the manner of burning, or those that are eager to consume the oblations **NOTE**
+- वीरुधः (*vīrudhaḥ*)—the branches that spread (upward) in the form of creepers
+- दंसु (*daṃsu*)—amidst the flames that are like teeth
+- आरोहंति (*ārohaṃti*)—ascend upward
+- यत् (*yat*)—for which reason
+- उभा (*ubhā*)—the adhvaryus and the sacrificers, or the two araṇis, joining together
+- अस्य (*asya*)—to this Agni
+- जनुषं (*januṣaṃ*)—the birth
+- इन्वतः (*invataḥ*)—cause to be obtained
+- आदित् (*ādit*)—therefore indeed
+- शुचां (*śucāṃ*)—the pure one **NOTE**
+- फृणा (*phṛṇā*)—one who is gracious (towards the sacrificers), or the radiant one
+- यविष्ठः (*yaviṣṭhaḥ*)—the most youthful one
+- अभवत् (*abhavat*)—came into being.
+
+##### भावार्थ (Bhāvārtha)
+
+With the aim that the food in the form of an animal may be obtained in excellence, this Agni is carried round in circumambulation. The branches of this Agni, which rise up in the manner of burning in the animal, the purodāśa and so on, and which stand up and rise upward in the form of creepers, climb upward in the midst of the flames that are like teeth. The adhvaryu and the priests, both together, procure the birth of this Agni. For all these reasons, Agni came into being as exceedingly pure, gracious towards the sacrificers, and, exceedingly youthful, radiant.
+
+##### Printed English
+
+As for securing the perfection of food (Agni) is generated and the consumable branches rise amidst (the flames); and as both ( the institutor of the rite and the priest) combine for his generation, therefore has he been generated, pure, youthful, and radiant
+
+##### विशेषविषयगळु (Special Topics)
+
+पितुः (*pituḥ*)—The word पितु (*pitu*) is read among the names of food (Ni. 3-9). When the author of the Nirukta states the explanation of the word पितु (*pitu*), citing the Ṛk
+पितुं न स्तोषं महो धर्माणं तविषीं । यस्य त्रितो व्योजसा वृत्रं विसर्वमर्दयत् ॥ (*pituṃ na stoṣaṃ maho dharmāṇaṃ taviṣīṃ | yasya trito vyojasā vṛtraṃ visarvamardayat ‖*)
+(Ṛ. Saṃ. 1-186-1),
+he says पितुः पितुरित्यन्ननाम । पातेर्वा पिबतेर्वा प्यायते र्वा । (*pituḥ piturityannanāma | pātervā pibatervā pyāyate rvā |*): he shows that it may be formed either from the root पा (*pā*) meaning "protect", or from the root पा (*pā*) giving the meaning "drink", or from the root पै (*pai*) meaning "grow".
+### Printed p. 176
+The Ṛk cited, "I praise the food that is exceedingly strong and strength-giving", …
+
+##### भावार्थ (Bhāvārtha)
+
+In the present Ṛk Sāyaṇa has given one meaning for पितुः (*pituḥ*) as food and another as father. According to the first construction, पितुः (*pituḥ*) is nominative and परमात् (*paramāt*) becomes an adverbial qualifier: because the animal-form food is excellent, प्रपरिनीयते (*praparinīyate*); and according to the second construction, पितुः (*pituḥ*) is in the ablative and becomes a qualifier of the word परमात् (*paramāt*): the meaning is that from the Gārhapatya fire, which is excellent, the support of all, the protector of the sacrifice, प्रपरिनीयते (*praparinīyate*).
+प्रक्षुधः (*prakṣudhaḥ*)—प्रकर्षेण बुभुक्षिता भोक्तुमिष्यमाणाः । (*prakarṣeṇa bubhukṣitā bhoktumiṣyamāṇāḥ |*) One meaning is "those eager to consume the oblations"; or, from पशुपुरोडाशादिषु दाहमध्यॆ धीयमानाः (*paśupuroḍāśādiṣu dāhamadhyè dhīyamānāḥ*), another meaning becomes possible: "those that rise up in the manner of burning in the midst of the animal, purodāśa and so on". It is a qualifier of the word वीरुधः (*vīrudhaḥ*). **NOTE**
+वीरुधः (*vīrudhaḥ*)—Having stated the explanation वीरुध ओषधयो भवंति विरोहणात् । (*vīrudha oṣadhayo bhavaṃti virohaṇāt |*) "the plants (creepers) are called so because they grow in a special way" (Ni. 6-3), and citing the Ṛk
+ओषधीः प्रति मोदध्वं पुष्पवतीः प्रसूवरीः । अश्वा इव सजित्वरीर्वीरुधः पारयिष्ण्वः ॥ (*oṣadhīḥ prati modadhvaṃ puṣpavatīḥ prasūvarīḥ | aśvā iva sajitvarīrvīrudhaḥ pārayiṣṇvaḥ ‖*)
+he has shown the aptness of the word वीरुधः (*vīrudhaḥ*) here.
+दंसु (*daṃsu*)—the meaning is: amidst the flames that are like teeth.
+इन्वतः (*invataḥ*)—read among the names of the action of pervading, इन्वति (*invati*), नक्षति (*nakṣati*) and so on (Ni. 3-10). The meaning is: they cause (him) to pervade.
+फृणा (*phṛṇā*)—Since the word फृणि (*phṛṇi*) is read among the names जमत् (*jamat*), अर्चिः (*arciḥ*), शोचिः (*śociḥ*) and so on, which indicate the sense of shining with a flame (Ni. 2-28), it means "the radiant one"; or, since the word फृणा (*phṛṇā*) has the meaning compassion, "one who shows kindness to the sacrificer"; in either sense it is a qualifier of Agni.
+That as soon as he is kindled Agni becomes pure, gracious and youthful, as described in this Ṛk, (is also seen in)
+अग्निर्होता निषसादा यजीयानुपस्थे मातुस्सुरभावु लोके । युवा कविः पुरुनिष्ठः । ऋताना धर्ता कृष्णीनामुत मध्य इत्थः ॥ (*agnirhotā niṣasādā yajīyānupasthe mātussurabhāvu loke | yuvā kaviḥ puruniṣṭhaḥ | ṛtānā dhartā kṛṣṇīnāmuta madhya itthaḥ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 169. pp. 164-169 (batch API)
+**Progress note:** Done through printed p. 176. pp. 170-176 (batch API)
