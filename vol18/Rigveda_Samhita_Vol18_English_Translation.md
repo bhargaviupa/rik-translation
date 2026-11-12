@@ -1099,14 +1099,6 @@ In this Ṛk, which is the concluding Ṛk of the sūkta, it is stated that the 
 > आ न इत्यनुक्रमणिका ॥ पृष्ठाभिप्लवषडहयोः प्रथमेऽहनि निष्केवल्य एतन्निविद्धा
 > नीयं । सूत्रितं च । आ न इंद्र इति निष्केवल्यं । आ. ७-५ । इति ॥ महाव्रतेऽप्येतत्संपातसूक्तं । तथैव पंचमारण्यके सूत्रितं च । आ न इंद्रो दूरादा न
 > आसादिति संपातः । ऐ. आ. ५-२-२ । इति ॥
-> अनुवादवु—आ न इंद्र ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
-> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रनु देवतॆयु;
-> त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि आ नः ऎंदु मॊदलागि हेळिरुवुदु. पृष्ठ मत्तु अभिप्लव
-> षडहवॆंब यागगळ मॊदलनॆय दिवसदल्लि निष्केवल्यशस्त्रमंत्रगळन्नु पठिसुवाग ई सूक्तवन्नु
-> निविन्मंत्रगळिगागि उपयोगिसबेकॆंदु आश्वलायनशौतसूत्रद—आ न इंद्र इति निष्केवल्यं
-> ऎंब सूत्रदिंद (आ. ७-५) विवृतवागिरुवुदु. महाव्रतदल्लियू कूड संपातसूक्तपठनक्कागि
-> ई सूक्तद विनियोगविरुवुदॆंदु ऐतरेय आरण्यकद पंचमारण्यकदल्लि आ न इंद्रो दूरादा
-> न आसादिति संपातः ऎंब वाक्यदिंद विवृतवागिरुवुदु. (ऐ. आ. ५-२-२).
 
 ##### Gist of the bhāṣya
 
@@ -1460,7 +1452,7 @@ Like a man boasting of his wife, I glorify that Indra who is invoked of many, wh
 In this Ṛk the seer Vāmadeva states several illustrations concerning the praise of Indra.
 पक्वः वृक्षो न (*pakvaḥ vṛkṣo na*)—As trees laden with ripe fruit bring prosperity and joy to people, so Indra gives wealth and the like in abundance to those who praise him; thus the likeness of a ripe-fruited tree is compared to Indra. The word न (*na*), which occurs three times in this Ṛk, is used in the sense of comparison.
 सृण्यः जेता न (*sṛṇyaḥ jetā na*)—The Bhāṣyakāra explains the word सृणि (*sṛṇi*) as the goad (aṅkuśa), a special weapon. Yāska also says:
-सृणिरंकुशो भवति सरणात् । अंकुशोऽञ्चितेराकुचितो भवतीति वा । नेदीय इत्सृण्यः पक्वमेयात् इत्यपि निगमो भवति । अंतिकतममंकुशादायात्पक्वमौषधमागच्छत्वित्यागच्छत्त्विति । ( (*sṛṇiraṃkuśo bhavati saraṇāt | aṃkuśo 'ñciterākucito bhavatīti vā | nedīya itsṛṇyaḥ pakvameyāt ityapi nigamo bhavati | aṃtikatamamaṃkuśādāyātpakvamauṣadhamāgacchatvityāgacchattviti | (*) (Ni. 5-28)
+सृणिरंकुशो भवति सरणात् । अंकुशोऽञ्चितेराकुचितो भवतीति वा । नेदीय इत्सृण्यः पक्वमेयात् इत्यपि निगमो भवति । अंतिकतममंकुशादायात्पक्वमौषधमागच्छत्वित्यागच्छत्त्विति । (*sṛṇiraṃkuśo bhavati saraṇāt | aṃkuśo 'ñciterākucito bhavatīti vā | nedīya itsṛṇyaḥ pakvameyāt ityapi nigamo bhavati | aṃtikatamamaṃkuśādāyātpakvamauṣadhamāgacchatvityāgacchattviti |*) (Ni. 5-28)
 He has given this etymology. That is: the word सृणि (*sṛṇi*) means goad. Because the word is formed from the root सृ (*sṛ*), meaning "go, enter", and the goad enters the head of the elephant, it is called सृणि (*sṛṇi*), goad. Or, because the goad is bent like a hook (crooked), the word may be formed from the root अंचति (*aṃcati*). To explain this sense Yāska quotes:
 युनक्त सीरा वि युगा तनुध्वं कृते योन्व वपतेह बीजं । गिरा च श्रुष्टिः सभरा असन्नो नेदीय इत्सृण्यः पक्वमेयात् ॥ (*yunakta sīrā vi yugā tanudhvaṃ kṛte yonva vapateha bījaṃ | girā ca śruṣṭiḥ sabharā asanno nedīya itsṛṇyaḥ pakvameyāt ‖*)
 (Ṛ. Saṃ. 10-101-3)
@@ -2145,7 +2137,7 @@ This ṛk is read as the last ṛk not only in this sūkta but also in sūktas 2
 
 to us who praise you; that is, give it as much as we wish.
 
-नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे ( (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe (*) (Ni. 1-4): The particle नु (*nu*) has many meanings. In इदं नु करिष्यति (*idaṃ nu kariṣyati*) the word नु (*nu*) has the sense of a reason, "therefore". In कथं नु करिष्यति (*kathaṃ nu kariṣyati*) the word नु (*nu*) is interrogative, "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate a comparison. For example:
+नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4): The particle नु (*nu*) has many meanings. In इदं नु करिष्यति (*idaṃ nu kariṣyati*) the word नु (*nu*) has the sense of a reason, "therefore". In कथं नु करिष्यति (*kathaṃ nu kariṣyati*) the word नु (*nu*) is interrogative, "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate a comparison. For example:
 
 अक्षो न चक्र्योः शूर बृहन्स्र ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhansra te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*)
 (Ṛ. Saṃ. 6-24-3)
@@ -2181,12 +2173,6 @@ The twenty-first sūkta.
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > आ यात्त्विंद्र इत्येकादशर्चमेकादशं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रं । आ यात्वित्यनुक्रांतं ॥ पृष्ठाभिप्लवषडहयोः प्रथमेऽहन्येतन्निविद्धानीयं । सूत्रितं च । आ यात्त्विंद्रोऽवस इति मरुत्वतीयं । आ. ७-५ । इति ॥
-> अनुवादवु—आ यात्त्विंद्र ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि हन्नॊंदनॆय
-> सूक्तवु. इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रनु
-> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि आ यातु ऎंदु मॊदलागि हेळिरुवुदु.
-> पृष्ठ मत्तु अभिप्लवषडहवॆंब यागगळ मॊदलनॆय दिवसदल्लि ई सूक्तवन्नु निविद्धानीयसूक्त
-> वन्नागि पठिसल्पडबेकॆंदु आश्वलायनशौतसूत्रद—आ यात्त्विंद्रोऽवस इति मरुत्वतीयं
-> ऎंब सूत्रदिंद (आ. ७-५) विवृतवागिरुवुदु.
 
 ##### Gist of the bhāṣya
 
@@ -2607,7 +2593,7 @@ and praised Indra and Viṣṇu. Then they drove the asuras off from there too. 
 Therefore, in the Śatapatha Brāhmaṇa also,
 
 ### Printed p. 81
-इंद्रो वै यज्ञस्य देवता तस्मादाहेंद्राय त्वेति बृहद्वते वयस्वत इति वीर्यवत इत्येवैतदाह यॆदाह बृहद्वते वयस्वत इत्युक्थाख्यं गृह्णामित्युक्थेभ्यो ह्येनं गृह्णाति । ( (*iṃdro vai yajñasya devatā tasmādāheṃdrāya tveti bṛhadvate vayasvata iti vīryavata ityevaitadāha yèdāha bṛhadvate vayasvata ityukthākhyaṃ gṛhṇāmityukthebhyo hyenaṃ gṛhṇāti | (*) (Śa. Brā. 4-2-3-10)
+इंद्रो वै यज्ञस्य देवता तस्मादाहेंद्राय त्वेति बृहद्वते वयस्वत इति वीर्यवत इत्येवैतदाह यॆदाह बृहद्वते वयस्वत इत्युक्थाख्यं गृह्णामित्युक्थेभ्यो ह्येनं गृह्णाति । (*iṃdro vai yajñasya devatā tasmādāheṃdrāya tveti bṛhadvate vayasvata iti vīryavata ityevaitadāha yèdāha bṛhadvate vayasvata ityukthākhyaṃ gṛhṇāmityukthebhyo hyenaṃ gṛhṇāti |*) (Śa. Brā. 4-2-3-10)
 Indra is the deity of the whole sacrifice. Therefore, with the words "to Indra, who is endowed with the great uktha, who is heroic", the uktha, which is the cause of Indra's heroism and satisfaction, and through it Indra, is praised.
 Just as the power of the uktha is described at the time of sacrifices and other rites, so also at the time of teaching spiritual knowledge the greatness of this uktha, which is of the nature of a hymn, is praised. In the Bṛhadāraṇyaka Upaniṣad:
 उक्कं प्राणो वा उक्कं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्कविद्वीरस्तिष्ठत्युक्कस्य सायुज्यं सलोकतां जयति य एवं वेद । (*ukkaṃ prāṇo vā ukkaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukkavidvīrastiṣṭhatyukkasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*) (Bṛ. U. 5-13-1)
@@ -9005,23 +8991,9 @@ Destroyer of foes, may the devine Aryaman distribute your precious wealth ; (may
 > आ भुवत् । अ. ७-४ । इति ॥ वरुणप्रघासेषु कायस्य हविषोऽनुवाक्या कया न
 > इत्येषा । तथा च सूत्रितं । कया नश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्रे ॥
 > आ. २-१७ । इति ॥
-> अनुवादवु—कया न ऎंब ई सूक्तवु मूरनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
-> इदरल्लि हदिनैदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्रनु देवतॆयु ;
-> गायत्री छंदस्सु. अभी षु णः ऎंब ऋक्कु (ई सूक्तद मूरनॆय ऋक्कु) पादनिचृत् ऎंब
-> गायत्रीछंदस्सिन प्रभेदवु. त्रयः सप्तकाः पादनिचृत् (अनु. ४-४) ऎंदरॆ एळेळु अक्षरगळ
-> मूरु पादगळिरुव ऋक्किगॆ पादनिचृत् ऎंदु अनुक्रमणिकॆयल्लि ई छंदस्सिन लक्षणवन्नु हेळिरु
-> वुदु. ई सूक्तद विषयवागि अनुक्रमणिकॆयल्लि - कया पंचोनाभी षु पादनिचृत् ऎंदु
-> हेळिरुवुदु. सूक्तविनियोगवु लैंगिकवु. अग्निष्टोमयागदल्लियू चातुर्विंशकवॆंब याग
-> दल्लियू माध्यंदिनसवनकालदल्लि मैत्रावरुणनॆंब ऋत्विजनु पठिसबेकाद स्तोत्रिय तृचक्कागि
-> कया नः ऎंदु मॊदलागुव ई सूक्तद मूरु ऋक्कुगळ विनियोगविरुवुदॆंदु आश्वलायन
-> शौतसूत्रद होत्रकाणां कया नश्चित्र आ भुवत् ऎंब सूत्रदिंद (आ. ७-४) विवृतवागिरु
-> वुदु. वरुणप्रघासवॆंब इष्टियल्लियू सह हविस्सन्नु होममाडुवाग कया नः ऎंब ऋक्कन्नु
-> अनुवाक्यामंत्रवन्नागि पठिसबेकॆंदु अश्वलायनशौतसूत्रद—कया नश्चित्र आ भुवद्दिरण्य
-> गर्भः समवर्तताग्रे ऎंब सूत्रदिंद विवृतवागिरुवुदु. (आ. २-१७)
 > सूक्त-३१
 > मंडल—४ ॥ अनुवाक—३ ॥ सूक्त—३१ ॥
 > अष्टक—३ ॥ अध्याय—६ ॥ वर्ग - २४, २५, २६ ॥
-> सूक्तदल्लिरुव ऋक्संख्यॆ — १५ !!
 > ऋषिः—वामदेवः ॥
 > देवता—इंद्रः ॥
 > छंदः—१, २, ४-२५ गायत्रि । ३ पादनिच्छत् ॥
@@ -9769,15 +9741,9 @@ Surya, make our fame exalted among the gods, as (you have placed) the sky, the s
 
 > आ तू न इंद्रेति चतुर्विंशत्यृचमेकादशं सूक्तं वामदेवस्यार्षं गायत्रमैंद्रं । अंत्ये कनीनकेवेत्यादिके द्वे इंद्रस्याश्वदेवताके । तथा चानुक्रांतं ।
 > आ तू नश्चतुर्विंशतिरंत्याभ्यामिंद्राश्वा स्तुताविति । गतो विनियोगः ॥
-> अनुवादवु—आ तू न इंद्र ऎंब ई सूक्तवु मूरनॆय अनुवाकदल्लि हन्नॊंदनॆय
-> सूक्तवु. इदरल्लि इप्पत्तनाल्कु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्रनु
-> देवतॆयु ; गायत्रीछंदस्सु कनीनकेव ऎंब ई सूक्तद कॊनॆय ऎरडु ऋक्कुगळिगॆ इंद्रन
-> अश्वगळु देवतॆगळु. अनुक्रमणिकॆयल्लि—आ तू नश्चतुर्विंशतिरंत्याभ्यामिंद्राश्वा स्तुता
-> ऎंदु हेळिरुवुदु. विनियोगवन्नु हिंदॆये हेळलागिदॆ.
 > सूक्त-३२
 > मंडल—४ ॥ अनुवाक—३ ॥ सूक्त—३२ ॥
 > अष्टक—३ ॥ अध्याय—६ ॥ वर्ग—२७, २८, २९, ३० ॥
-> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२४ ॥
 > ॥ ऋषिः—वामदेवः ॥
 > ॥ देवता—१-२२. इंद्रः । २३-२४. इंद्राश्वा ॥
 > । छंदः—गायत्री ॥
@@ -10151,10 +10117,6 @@ For you alone, Indra, are lord over food combained with cattle; therefore grant 
 > हे इंद्र गिर्वणो गिरां संभक्तः स्तुतोऽस्माभिः संस्तुतो यद्यदा स्तोतृभ्योऽस्मध्यं मघं धनं दित्ससि । दातुमिच्छसि । तदा त्वा श्वाम्यथा प्रकारांतरेण न
 > वरंते । न निवारयंति । किंतु सर्वेऽप्यनुकूला एव भवंति ॥
 > । प्रणमः ।
-> इंद्र—ऎलै इंद्रने । गिर्वणः—स्तुतिगॆ पात्रनू । स्तुतः—नम्मिंद स्तुतिसल्पडुववनू
-> आद नीनु । यत्—यावाग । स्तोतृभ्यः—स्तोतृगळाद नमगॆ । मघं—धनवन्नु ।
-> दिश्लषि—कॊडलिच्छिसुत्तीयो आग । त्वा—निन्नन्नु । अस्यथा—बेरॆ विधदल्लि । न परंते—
-> यारू तडॆयुवुदिल्ल.
 > 19
 > 18
 
@@ -14250,9 +14212,9 @@ Trasadasyu: that Trasadasyu was the son of Purukutsa, the king of the people cal
 In the above example it is suggested that Indra protected him. Besides this, Indra's helping him is suggested in the Ṛks E. Saṃ. 1-63-7; 8-36-2; 8-37-7; 8-49-10 **NOTE**, and that the Aśvins protected and saved him is stated in the Ṛks Ṛ. Saṃ. 1-112 7. 8; 8-27 **NOTE**. And:
 
 अस्माकमत्र पितरस्त आसन्तप्त ऋषयो दौर्गहे बध्यमाने (*asmākamatra pitarasta āsantapta ṛṣayo daurgahe badhyamāne*) ।
-त आयजंत त्रसदस्युमस्या इंद्रं न वृत्रतुरमर्धदेवं । (*ta āyajaṃta trasadasyumasyā iṃdraṃ na vṛtraturamardhadevaṃ |*) ।
-पुरुकुत्सानी रु वामदाशद्व्येभिरिंद्रावरुणा नमोभिः । (*purukutsānī ru vāmadāśadvyebhiriṃdrāvaruṇā namobhiḥ |*) ।
-अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवं ॥ (*athā rājānaṃ trasadasyumasyā vṛtrahaṇaṃ dadathurardhadevaṃ ‖*) ॥
+त आयजंत त्रसदस्युमस्या इंद्रं न वृत्रतुरमर्धदेवं । (*ta āyajaṃta trasadasyumasyā iṃdraṃ na vṛtraturamardhadevaṃ |*)
+पुरुकुत्सानी रु वामदाशद्व्येभिरिंद्रावरुणा नमोभिः । (*purukutsānī ru vāmadāśadvyebhiriṃdrāvaruṇā namobhiḥ |*)
+अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवं ॥ (*athā rājānaṃ trasadasyumasyā vṛtrahaṇaṃ dadathurardhadevaṃ ‖*)
 (3. 7. 4 42-8. 9) **NOTE**
 
 In these Ṛks it is said that, Purukutsa having been imprisoned, the renowned seven (seers) in this kingless country became protectors. **NOTE** When Purukutsa was imprisoned, those same seers, by the favour of Indra and Varuṇa, caused to be born to Purukutsa's wife Purukutsānī Trasadasyu, equal to Indra, a slayer of foes, endowed with the presence of the gods. O Indra and Varuṇa,
@@ -14266,20 +14228,20 @@ did not Purukutsa's wife please and propitiate you both with oblations and prais
 
 and that he belonged to the Pūru line is said in the Ṛk
 
-यद्वा तृक्षा मघवन् द्रुह्यावा जने यत्पूरौ कच्च वृष्णं । (*yadvā tṛkṣā maghavan druhyāvā jane yatpūrau kacca vṛṣṇaṃ |*) ।
+यद्वा तृक्षा मघवन् द्रुह्यावा जने यत्पूरौ कच्च वृष्णं । (*yadvā tṛkṣā maghavan druhyāvā jane yatpūrau kacca vṛṣṇaṃ |*)
 (Ṛ. Saṃ. 6-46-8)
 
 Some scholars have expressed their opinion, from the matters contained in Ṛks beginning thus, that Purukutsa, the father of Trasadasyu, and the king Sudāsa were contemporaries, that they were enemies and that wars took place between them from time to time:
 
-त्वं ह त्यदिंद्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥ (*tvaṃ ha tyadiṃdra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhirna yatsudāse vṛthā vargaṃho rājanvarivaḥ pūrave kaḥ ‖*) ॥
+त्वं ह त्यदिंद्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥ (*tvaṃ ha tyadiṃdra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhirna yatsudāse vṛthā vargaṃho rājanvarivaḥ pūrave kaḥ ‖*)
 (Ṛ. Saṃ. 1-63-7)
 
-भिनत्पुरो नवतिमिंद्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो । (*bhinatpuro navatimiṃdra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto |*) ।
+भिनत्पुरो नवतिमिंद्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो । (*bhinatpuro navatimiṃdra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto |*)
 (Ṛ. Saṃ. 1-130. 7)
 
 It has been said above that Trasadasyu was the king of the people called Pūru. That these Pūrus had settled in the regions on the banks of the river Sarasvatī is known from the descriptions in the 95th and 96th sūktas of the seventh Maṇḍala. It may be conjectured that the Pūrus and the Kurus in course of time united, because, as said in the Ṛk
 
-कुरुश्रवणमावृणि राजानं त्रासदस्यवं । मंहिष्ठं वाघतामृषिः । (*kuruśravaṇamāvṛṇi rājānaṃ trāsadasyavaṃ | maṃhiṣṭhaṃ vāghatāmṛṣiḥ |*) ।
+कुरुश्रवणमावृणि राजानं त्रासदस्यवं । मंहिष्ठं वाघतामृषिः । (*kuruśravaṇamāvṛṇi rājānaṃ trāsadasyavaṃ | maṃhiṣṭhaṃ vāghatāmṛṣiḥ |*)
 (Ṛ. Saṃ. 10-33-4)
 
 it becomes evident that Kuruśravaṇa, son of Mitrātithi, a king of the Kuru line, was a descendant of Trasadasyu.
@@ -15630,7 +15592,7 @@ Because the sun rises on the mountain of sunrise, he is called born of the mount
 यतमित्येष वै सत्यं (*yatamityeṣa vai satyaṃ*).**NOTE**
 The word ṛta means truth. Truth is of two kinds, the practical (vyāvahārika) and the ultimate (pāramārthika). The word satya used when one speaks the truth and does not tell a lie is called practical truth. In the ultimate sense the word satya means Brahman, or Parabrahman. In the Śruti sentence सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) the word satya means Brahman. That very meaning is what is set out here. The Śruti sentence असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) also supports this meaning; that is, the intention is that this Āditya is Parabrahman.
 
-एष एतानि सर्वाण्येषा ह वा अस्य छंदस्सु प्रत्यक्षतमादिव रूपं । ( (*eṣa etāni sarvāṇyeṣā ha vā asya chaṃdassu pratyakṣatamādiva rūpaṃ | (*) (Ai. Brā. 18-6).
+एष एतानि सर्वाण्येषा ह वा अस्य छंदस्सु प्रत्यक्षतमादिव रूपं । (*eṣa etāni sarvāṇyeṣā ha vā asya chaṃdassu pratyakṣatamādiva rūpaṃ |*) (Ai. Brā. 18-6).
 All the words beginning with haṃsaḥ that are stated in this Ṛk denote this Āditya alone, because this Āditya is Parabrahman, the Self of all. In the Ṛk beginning हंसः शुचिषत् (*haṃsaḥ śuciṣat*), which is well known among the Veda mantras as the Haṃsavatī Ṛk, Āditya's being the Self of all and his nature as Parabrahman are explained clearly.
 
 Yāska has given the following explanation (nirvacana) of this passage:
@@ -15699,13 +15661,6 @@ marupa; Aditya in the form of Parabrahma.
 
 > इंद्रा को वामित्येकादशर्चं नवमं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रावरुणं । अत्रानुक्रमणिका । इंद्रा को वामेकादशैंद्रावरुणं त्विति ॥
 > अभिप्लविकेषूक्षेषु तृतीयसवने मैत्रावरुणशस्त्रेषु स्तोमवृद्धावानापार्थमेतदादिसूक्तद्वयं । इंद्रा को वामिति सूक्ते । आ. ७-९ । इति सूत्रितत्वात् ॥
-> अनुवादवु—इंद्रा को वां ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि ऒंभत्तनॆय
-> सूक्तवु. इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रावरुणरु
-> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि—इंद्रा को वामेकादशैंद्रावरुणं तु
-> ऎंदु हेळिरुवुदु. अभिप्लवसंबंधवाद उक्तवॆंब यागद तृतीयसवनकालदल्लि मैत्रावरुण
-> शस्त्रमंत्र पठनमाडुवाग सोमवृद्धिगागि आवासमंत्रगळिगागि ई सूक्तवन्नू मुंदिन सूक्तवन्नू
-> पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद इंद्रा को वामिति सूक्ते ऎंब सूत्रदिंद (आ. ७-९)
-> विवृतवागिरुवुदु.
 
 ##### Gist of the bhāṣya
 
@@ -19077,17 +19032,9 @@ Leaders (of rites), conveyers of sacrifices, Indra and Vayu, give to us for the 
 > अत्रानुक्रमणिका । विहि पंच वायव्यमिति ॥ सूक्तविनियोगो लैंगिकः ॥ आद्या
 > दशरात्रे चतुर्थेऽहनि प्रउगशस्त्रे वायव्यतृचस्य द्वितीया । तथा च सूत्रितं । विहि
 > होत्रा अवीता वायो शतं हरीणां । आ. ७-११ । इति ॥
-> अनुवादवु—विहि होत्राः ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि मूरनॆय सूक्तवु.
-> इदरल्लि ऐदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; वायुवु देवतॆयु; अनुष्टुप्
-> छंदस्सु. अनुक्रमणिकॆयल्लि—विहि पंच वायव्यं ऎंदु हेळिरुवुदु. सूक्तविनियोगवु
-> लैंगिकवु, ई सूक्तद मॊदलनॆय ऋक्कन्नु दशरात्रवॆंब यागद नाल्कनॆय दिवस प्रउगशस्त्रमंत्र
-> पठनकालदल्लि वायुदेवताकवाद तृचदल्लि (मूरु ऋक्कुगळल्लि) ऎरडनॆय ऋक्कन्नागि पठिस
-> बेकॆंदु आश्वलायनशौतसूत्रद—विहि होत्रा अवीता वायो शतं हरीणां ऎंब
-> सूत्रदिंद (आ. ७-११) विवृतवागिरुवुदु.
 > सूक्त—४८
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—४८ ॥
 > अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—२४ ॥
-> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—५ ॥
 > ॥ ऋषिः—वामदेवः ॥
 > ॥ देवता—वायुः ॥
 > ॥ छंदः—अनुष्टुप् ।
@@ -19352,14 +19299,9 @@ It is stated in the viniyoga of this sūkta (p. 483) that this Ṛk वायो
 
 > इदं नामास्य इति षडृचं चतुर्थं सूक्तं वामदेवस्यार्षं गायत्रमैंद्राबार्हस्पत्यं । अत्रानुक्रमणिका । इदं वां षळ्यॆंद्राबार्हस्पत्यं गायत्रमिति ।
 > सूक्तविनियोगो लैंगिकः ॥
-> अनुवादवु—इदं वामास्ये ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु.
-> इदरल्लि आरु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्र मत्तु बृहस्पतियु
-> देवतॆगळु ; गायत्रीभंदस्सु. अनुक्रमणिकॆयल्लि इदं वां षळ्ळैंद्राबार्हस्पत्यं गायत्रं
-> ऎंदु हेळिरुवुदु. सूक्तविनियोगवु लैंगिकवु.
 > सूक्त—४९
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—८९ ॥
 > अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—२५ ॥
-> सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
 > ऋषिः—वामदेवः ।
 > देवता—इंद्राबृहस्पती ॥
 > छंदः—गायत्री ॥
@@ -19712,17 +19654,6 @@ Bṛhaspati is distinguished by godhead (2-23-2); he is one's own to all the god
 > दशमी जगती । दशम्येकादश्याविंद्राबृहस्पतिदेवताके शिष्टा नव बार्हस्पत्यः। अत्रानुक्रमणिका । यस्तस्तंभैकादश बार्हस्पत्यमंत्ये ऐंद्रौ चोपांत्या जगती ॥
 > आभिप्लविकेषूक्षेषु तृतीयसवने ब्राह्मणाच्छंसिनः स्तोमवृद्दाविदं सूक्तमावापार्थं । तथा च सूत्रं । यस्तस्तंभ यो अद्रिभित् । आ. ७-९ । इति ॥ आद्ये बृहस्पतिसवने मरुत्वतीयनिष्केवल्ययोः सूक्तमुखीये । सूत्रितं च । यस्तस्तंभ
 > धुनेतय इति सूक्तमुखीये । आ. ९-५ । इति ॥
-> अनुवादवु— यस्तस्तंभ ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि ऐदनॆय सूक्तवु. इदरल्लि
-> हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; ई सूक्तद हत्तु मत्तु
-> हन्नॊंदनॆय ऋक्कुगळु इंद्राबृहस्पतिदेवताकवु. उळिद ऒंभत्तु ऋक्कुगळु बृहस्पतिदेवताकवु ;
-> हत्तनॆय ऋक्कु जगतीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—
-> यस्तस्तंभैकादश बार्हस्पत्यमंत्ये ऐंदौ चोपांत्या जगती ऎंदु हेळिरुवुदु.
-> अभिप्लवसंबंधवाद उक्षयागदल्लि तृतीयसवनकालदल्लि ब्राह्मणाच्छंसियॆंब ऋत्विजनु स्तोम
-> वृद्धिगागि पठिसुव सूक्तगळल्लि ई सूक्तवन्नु आवापार्थवागि (हॆच्चिसुवुदक्कागि) उपयोगिसबेकॆंदु
-> आश्वलायनशौतसूत्रद यस्तस्तंभ यो अद्रिभित् ऎंब सूत्रदिंद (आ. ७-९) विवृतवागिरुवुदु.
-> मत्तु ई सूक्तद मॊदलनॆय ऎरडु ऋक्कुगळन्नु बृहस्पतिसवनवॆंब यागदल्लि पठिसुव मरुत्वतीय
-> निष्केवल्यशस्त्रमंत्रगळ प्रारंभदल्लि पठिसबेकॆंदु आश्वलायनशौतसूत्रद— यस्तस्तंभ धुनेतॆय
-> इति सूक्तमुखिये ऎंब सूत्रदिंद (आ. ९-५) विवृतवागिरुवुदु.
 
 ##### Gist of the bhāṣya
 
@@ -20631,17 +20562,9 @@ In the world, night comes after the sun has set. After the night has passed ther
 > वामदेवस्यार्षं त्रैष्टुभमुषोदेवताकं । इदमुषस्यं त्वित्यनुक्रांतं ॥
 > प्रातरनुवाक उषस्यॆ क्रता त्रैष्टुभे छंदस्याश्विनशस्त्र इदं सूक्तं । सूत्रितं च ।
 > उषो वाजेनेदमु त्यत् । आ. ४-१४ । इति ॥
-> अनुवादवु—ईग मूरनॆय अष्टकद ऎंटनॆय अध्यायद व्याख्यानवन्नु प्रारंभिसुवॆवु.
-> इदमु त्यत् ऎंब ई सूक्तवु नाल्कनॆय मंडलद ऐदनॆय अनुवाकदल्लि आरनॆय सूक्तवु.
-> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; उषस्सु देवतॆयु ;
-> त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि इदमुषस्यं तु ऎंदु हेळिरुवुदु. प्रातरनुवाकमंत्र
-> पठनकालदल्लि उषस्यक्रतुसंबंधवाद त्रिष्टुप्‌छंदस्सिन मंत्रगळिगागियू आश्विनशस्त्रमंत्र पठन
-> क्कागियू ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौतसूत्रद—उषो वाजेनेदमु
-> त्यत् ऎंब सूत्रदिंद (आ. ४-१४) विवृतवागिरुवुदु.
 > सूक्त—५१
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५१ ॥
 > अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—१, २ ॥
-> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
 > ऋषिः—नामदेवः ॥
 > देवता—उषाः ।
 > छंदः—त्रिष्टुप् ।
@@ -21351,16 +21274,9 @@ Daughters of heaven, resplendent Dawns, I address you (as) the announcer of the 
 > प्रति ष्येति सप्तर्चं सप्तमं सूक्तं गायत्रमुषोदेवताकं । प्रति ष्या सप्त
 > गायत्रमित्यनुक्रमणिका ॥ प्रातरनुवाक उषस्यॆ क्रत् गौ गायत्रे छंदस्याश्विनशस्त्रे
 > चेदं शस्यं । अथोषस्यः प्रति ष्या सूनरी । आ. ४-१४ । इति हि सूत्रितं ॥
-> अनुवादवु—प्रति ष्या ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि एळनॆय सूक्तवु. इदरल्लि
-> एळु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; उषस्सु देवतॆयु ; गायत्री छंदस्सु.
-> अनुक्रमणिकॆयल्लि—प्रति ष्या सप्त गायत्रं ऎंदु हेळिरुवुदु. प्रातरनुवाकमंत्रपठन
-> कालदल्लि उषस्यक्रतुसंबंधवाद गायत्री छंदस्सिन ऋक्कुगळिगागियू अश्विनशस्त्रमंत्रगळिगागियू
-> ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायन श्रौतसूत्रद—आथोषस्यः प्रति ष्या सूनरी
-> ऎंब सूत्रदिंद (आ. ४-१४) विवृतवागिरुवुदु.
 > सूक्त—५२
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५२ ॥
 > अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—३ ॥
-> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—७ ॥
 > ॥ ऋषिः—वामदेवः ॥
 > ॥ देवता—उषाः ॥
 > ॥ छंदः—गायत्री ॥
@@ -22744,15 +22660,10 @@ May Indra, heaven and earth, Sindhu with the waters, and Aditi with the Adityas,
 > को वस्त्रातेति दशर्चं दशमं सूक्तं नामदेवस्यार्षं विश्वदेवदेवताकं ।
 > अष्टम्याद्यास्तिस्रो गायत्र्यः शिष्टा अनादेशपरिभाषया त्रिष्टुभः । तथा चानुक्र
 > म्यते । को वो दश वैश्वदेवं त्रिगायत्र्यंतं त्विति । विनियोगो लैंगिकः ॥
-> अनुवादवु—को वस्त्रात्ता ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु
-> इदरल्लि हत्तु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; विश्वेदेवतॆगळु देवतॆयु;
-> ई सूक्तद ८, ९, १० नॆय ऋक्कुगळु गायत्रीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप्‌छंदस्कवु.
-> अनुक्रमणिकॆयल्लि—को वा दश वैश्वदेवं त्रिगायत्र्यंत्रं तु ऎंदु हेळिरुवुदु.
 > विनियोगवु लैंगिकवु.
 > सूक्त—५५
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५५ ॥
 > अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—६, ७ ॥
-> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—१० ॥
 > ॥ ऋषिः—वामदेवः ॥
 > ॥ देवता—विश्वदेवाः ॥
 > ॥ छंदः—१-७, त्रिष्टुप् । ८-१०. गायत्री ॥
@@ -23712,14 +23623,6 @@ In sūkta Ṛ. Saṃ. 10-72 the order of origin of Heaven and Earth is described
 > शिष्टास्त्रिष्टुभः । मही सप्त द्यावापृथिवीयमित्यनुक्रमणिका ॥ व्यूढे दशरात्रे
 > पंचमेऽहनि वैश्वदेवशस्त्र आदितश्चतुर्यचं द्याव्यापृथिव्यनिविद्वानीयं । तथा च
 > सूत्रितं । मही द्यावापृथिवी इति चतस्र ऋभुर्विभ्वा । आ. ८-८ । इति ॥
-> अनुवादवु—मही द्यावापृथिवी ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हन्नॊंदनॆय
-> सूक्तवु. इदरल्लि एळु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ वामदेवनु ऋषियु; द्यावापृथिविगळु
-> देवतॆयु. हिंदॆ त्रिगायत्र्यंतं तु ऎंदु हेळिरुवुदरिंद ई सूक्तद ऐदने ऋक्किनिंद
-> मूरु ऋक्कुगळु गायत्रीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—
-> मही सप्त द्यावापृथिवीयं ऎंदु हेळिरुवुदु. व्यूळ्वॆंब दशरात्रयागदल्लि ऐदनॆय
-> दिवस वैश्वदेवशस्त्रमंत्र पठनमाडुवाग ई सूक्तद मॊदलनॆय नाल्कु ऋक्कुगळु द्यावापृथिवी
-> संबंधवाद निविद्धानीयसूक्तक्कागि विनियोगविरुवुदॆंदु आश्वलायन श्रौतसूत्रद—मही
-> द्यावापृथिवी इति चतस्र ऋभुर्निभ्वा ऎंब सूत्रदिंद (आ. ८-८) विवृतवागिरुवुदु.
 
 ##### Gist of the bhāṣya
 
@@ -24254,22 +24157,11 @@ Just as one receives from a friend who is dear to us, so we shall receive wealth
 > क्षेत्रस्य पते मधुमंतमूर्मिं धेनुरिव पयोऽस्मासु धुक्षेवति मधुश्चुतं
 > घृतमिवोदकं सुपूतमृतस्य नः पातारो वा पालयितारो वा मृळयंतु मृळयतिरुपदयाकर्मा पूजाकर्मा वा ॥
 > (नि. १०-१३)
-> ऎलै निवासस्थानगळिगॆ अधिपतियाद क्षेत्रपतिये, हसुवु नमगॆ हालन्नु करॆदु ऒदगिसिकॊडुवंतॆ
-> जेनुतुप्पदंतॆ मधुरवागिरुवुदु; धृतदंतॆ शुद्धवागिरुवुदू आद श्रेष्ठवाद उदकवन्नु नमगॆ
-> ऒदगिसिकॊडु. नीनु उदकक्कॆ पालकनु. इल्लि उपयोगिसिरुव मृळयति धातुविगॆ रक्षिसु अथवा
-> पूजिसु ऎंबर्थविरुवुदु.
 > तद्यत्समान्यामृचि समानाभिव्याहारं भवति तज्जामि भवतीत्येकं मधुमंतं
 > मधुश्चुतमिति यथा । यदेव समाने पादे समानाभिव्याहारं भवति
 > तज्जामि भवतीत्यपरं-हिरण्यरूपः स हिरण्यसंदृक् इति यथा । यथा कथा
 > च विशेषोs जामि भवतीत्यपः०-मंडूका इवोदकान्मंडूका उदकादिव
 > इति यथा ॥ (नि. १०-१६)
-> मेलिन उदाहरणॆयल्लि ऋक्किन पूर्वार्धदल्लि मधुमंतं ऎंब शब्दविरुवुदु. उत्तरार्धदल्लि
-> मधुश्चुतं ऎंब शब्दविरुवुदु. ई रीति समानार्थवुळ्ळ (ऒंदे अर्थवुळ्ळ) ऎरडुशब्दगळुळ्ळ
-> ऋक्किगॆ अथवा मंत्रक्कॆ जामि (संबंध) ऎंदु हॆसरु ऎंदु कॆलवरु हेळुवरु. मत्तॆ कॆलवरु
-> ऒंदे पाददल्लि ऒंदे अर्थवुळ्ळ ऎरडु शब्दगळिद्दरॆ अदु जामियॆंदु हेळुवरु. हिरण्यरूपः
-> स हिरण्यसंदृक् ऎंब पाददल्लिरुवंतॆ. मत्तॆ कॆलवरु ऒंदु ऋक्किनल्लि अथवा ऒंदु पाददल्लि
-> समानार्थविरुव (ऒंदे अर्थविरुव) बेरॆबेरॆ शब्दगळिद्दरू अथवा ऒंदे विधवाद शब्दगळ
-> पुनरावर्ति इद्दरू अदु जामियागुवुदिल्ल. ऎंदरॆ समानार्थवन्नु सूचिसुवुदिल्ल. हेगॆंदरॆ—
 
 > *kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo asmāsu dhukṣu |*
 > *madhuścutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayaṃtu ‖*
@@ -24277,27 +24169,16 @@ Just as one receives from a friend who is dear to us, so we shall receive wealth
 > *kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo 'smāsu dhukṣevati madhuścutaṃ*
 > *ghṛtamivodakaṃ supūtamṛtasya naḥ pātāro vā pālayitāro vā mṛḷayaṃtu mṛḷayatirupadayākarmā pūjākarmā vā ‖*
 > *(ni. 10-13)*
-> *èlai nivāsasthānagaḷigè adhipatiyāda kṣetrapatiye, hasuvu namagè hālannu karèdu òdagisikòḍuvaṃtè*
-> *jenutuppadaṃtè madhuravāgiruvudu; dhṛtadaṃtè śuddhavāgiruvudū āda śreṣṭhavāda udakavannu namagè*
-> *òdagisikòḍu. nīnu udakakkè pālakanu. illi upayogisiruva mṛḷayati dhātuvigè rakṣisu athavā*
-> *pūjisu èṃbarthaviruvudu.*
 > *tadyatsamānyāmṛci samānābhivyāhāraṃ bhavati tajjāmi bhavatītyekaṃ madhumaṃtaṃ*
 > *madhuścutamiti yathā | yadeva samāne pāde samānābhivyāhāraṃ bhavati*
 > *tajjāmi bhavatītyaparaṃ-hiraṇyarūpaḥ sa hiraṇyasaṃdṛk iti yathā | yathā kathā*
 > *ca viśeṣos jāmi bhavatītyapaḥ0-maṃḍūkā ivodakānmaṃḍūkā udakādiva*
 > *iti yathā ‖ (ni. 10-16)*
-> *melina udāharaṇèyalli ṛkkina pūrvārdhadalli madhumaṃtaṃ èṃba śabdaviruvudu. uttarārdhadalli*
-> *madhuścutaṃ èṃba śabdaviruvudu. ī rīti samānārthavuḷḷa (òṃde arthavuḷḷa) èraḍuśabdagaḷuḷḷa*
-> *ṛkkigè athavā maṃtrakkè jāmi (saṃbaṃdha) èṃdu hèsaru èṃdu kèlavaru heḷuvaru. mattè kèlavaru*
-> *òṃde pādadalli òṃde arthavuḷḷa èraḍu śabdagaḷiddarè adu jāmiyèṃdu heḷuvaru. hiraṇyarūpaḥ*
-> *sa hiraṇyasaṃdṛk èṃba pādadalliruvaṃtè. mattè kèlavaru òṃdu ṛkkinalli athavā òṃdu pādadalli*
-> *samānārthaviruva (òṃde arthaviruva) berèberè śabdagaḷiddarū athavā òṃde vidhavāda śabdagaḷa*
-> *punarāvarti iddarū adu jāmiyāguvudilla. èṃdarè samānārthavannu sūcisuvudilla. hegèṃdarè—*
 > 40
 
 **NOTE**
 
-Translation of the Kannada inside this block: O Kṣetrapati, lord of dwelling places, as a cow yields and supplies milk to us, supply us with excellent water, sweet like honey and pure like ghee. You are the protector of the water. The root mṛḍ used here has the meaning "protect" or "worship".
+O Kṣetrapati, lord of dwelling places, as a cow yields and supplies milk to us, supply us with excellent water, sweet like honey and pure like ghee. You are the protector of the water. The root mṛḍ used here has the meaning "protect" or "worship".
 
 In the example above, the word मधुमंतं (*madhumaṃtaṃ*) stands in the first half of the Ṛk, and the word मधुश्चुतं (*madhuścutaṃ*) in the second half. A Ṛk or mantra having two words of the same meaning in this way is called jāmi (relation), some say. Others say that if there are two words of one meaning in a single pāda, it is jāmi, as in the pāda हिरण्यरूपः स हिरण्यसंदृक् (*hiraṇyarūpaḥ sa hiraṇyasaṃdṛk*). Others say that even if there are different words of the same meaning in one Ṛk or one pāda, or even repetition of words of the same kind, it does not become jāmi; that is, it does not indicate sameness of meaning. For example (Ni. 10-16)—
 
@@ -24305,45 +24186,21 @@ In the example above, the word मधुमंतं (*madhumaṃtaṃ*) stands 
 
 as in the Ṛk मंडूका इवोदकान्मंडूका उदकादिव (*maṃḍūkā ivodakānmaṃḍūkā udakādiva*). Even though there is repetition of words of the same meaning here, it is the view of still others that this repetition (abhyāsa) serves to emphasise the intention of the sentence.
 
-> मंडूका इवोदकान्मंडूका उदकादिव ऎंब ऋक्किनल्लिरुवंतॆ. इल्लि समानार्थशब्दगळ
-> पुनरावर्ति इद्दरू ई पुनरावर्तियु (अभ्यासवु) वाक्यद अभिप्रायवन्नु ऒत्ति हेळुवुदक्कागि
-> प्रयुक्तवागिरुवुदु ऎंदु मत्तॆ कॆलवर मतवु.
-> ‘ क्षेत्रस्यपति ’ ऎंब देवतॆयू वास्तोप्पतिय जातिगॆ सेरिदुदु. ई देवतॆ भूरक्षक. ४-५७ नॆय सूक्तद मॊदलनॆय मूरु मंत्रगळल्लि ईतनिंद, गोवुगळु, अश्वगळु मत्तु भूम्याकाशगळु, वृक्षगळु, नीरु इवुगळल्लि माधुर्य मॊदलादुवुगळु अपेक्षितवागिवॆ. विश्वे देवताकवाद सूक्तवॊंदरल्लि (७-३५-१०) सवितृ, उषोदेवियरु, पर्जन्य, इवरॊडनॆ ईतनू समृद्धिदायकनागबेकॆंदु प्रार्थितनागिद्दानॆ १८-६-१३ रल्लि आराधकरु ईतनन्नु तम्म नॆरॆयल्लिर बेकॆंदु आशिसिद्दारॆ. भूमियन्नु उळुवुदक्कॆ प्रारंभिसुवाग ई देवतॆयन्नु पूजिसबेकु अथवा देवतॆयन्नुन्नुद्देशिसि होममाडबेकॆंदु हेळिदॆ. (आ. गृ. सू. २-१०-४; शां. गृ. सू. ४-१३-५) व्यवसाय संबंधवाद देवतॆगळन्नु स्तुतिसुव सूक्तवॊंदरल्लि (४-५७-६) सीता (नेगिलुगॆरॆ) ऎंब देवतॆयिंद उत्तमवाद बॆळॆयु प्रार्थितवागिदॆ. पारस्कर गृह्यसूत्रदल्लि (पा. गृ. सू. २-१७-९) इदे सीतॆयु इंद्रन पत्नि यॆंदू मत्तु अवळिगॆ तंदॆय हॆसरिन आधारद मेलॆ सावित्रि ऎंदु हॆसरॆंदू (तै. ब्रा. २-३-१०-१) हेळिदॆ. इदे पारस्कर गृह्यसूत्रदल्लि उश्वरा (व्यवसायक्कॆ अन्न कूलवागिरुव जमीनु) ऎंबॊंदु देवतॆ उक्तवागिदॆ.
-> निरुक्तकारर निर्वचनदंतॆ क्षेत्रपतियु गृहपतियू आगबहुदादुदरिंद अग्नियॆंदू अर्थ
-> वागबहुदु. आदरॆ क्षेत्रशब्दद प्रयोगवु कृषिसंबंधवागिये प्रकृतवाद मंत्रदल्लिरुवुदरिंद
-> क्षेत्रपतिशब्दवु प्रत्येकवाद देवतॆयॆंदे अर्थमाडुवुदु उचितवागिरुत्तदॆ. कॆलवॆडॆगळल्लि
-> सायणर भाष्यवू ई अर्थवन्ने समर्थिसुत्तदॆ. उदाहरणॆगॆ,
 > दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया ।
 > क्षेत्रस्य पतिं प्रतिवेशमीमहे विश्वान्नेवा अमृता अप्रयुच्छतः ॥
 > (ऋ. सं. १०-६६-१३)
-> देवतात्मरू, होतृरूपरू आद अग्न्यादित्यरन्नू, यज्ञमार्गवन्नू सह नानु अनुसरिसुत्तेनॆ.
-> क्षेत्रपतियन्नू, प्रमादरहितराद इतर ऎल्ला देवतॆगळन्नू नानु धनार्थवागि पूजिसुत्तेनॆ.
-> ऎंबर्थवुळ्ळ ई मंत्रदल्लि क्षेत्रस्य पतिं ऎंबुदक्कॆ सायणरु एतन्नामानं ऎंदु विवरिसि इदु
-> प्रत्येकवाद देवतॆय हॆसरॆंदे तिळियबेकु ऎंदु हेळिद्दारॆ. इदरंतॆये,
 > शं नो देवः सविता त्रायमाणः शं नो भवंतूषसो विभातीः ।
 > शं नः पर्जन्यो भवतु प्रजाभ्यः शं नः क्षेत्रस्य पतिरस्तु शंभुः ॥
 > (ऋ. सं. ७-३५-१:)
 
-> *maṃḍūkā ivodakānmaṃḍūkā udakādiva èṃba ṛkkinalliruvaṃtè. illi samānārthaśabdagaḷa*
-> *punarāvarti iddarū ī punarāvartiyu (abhyāsavu) vākyada abhiprāyavannu òtti heḷuvudakkāgi*
-> *prayuktavāgiruvudu èṃdu mattè kèlavara matavu.*
-> *‘ kṣetrasyapati ’ èṃba devatèyū vāstoppatiya jātigè seridudu. ī devatè bhūrakṣaka. 4-57 nèya sūktada mòdalanèya mūru maṃtragaḷalli ītaniṃda, govugaḷu, aśvagaḷu mattu bhūmyākāśagaḷu, vṛkṣagaḷu, nīru ivugaḷalli mādhurya mòdalāduvugaḷu apekṣitavāgivè. viśve devatākavāda sūktavòṃdaralli (7-35-10) savitṛ, uṣodeviyaru, parjanya, ivaròḍanè ītanū samṛddhidāyakanāgabekèṃdu prārthitanāgiddānè 18-6-13 ralli ārādhakaru ītanannu tamma nèrèyallira bekèṃdu āśisiddārè. bhūmiyannu uḷuvudakkè prāraṃbhisuvāga ī devatèyannu pūjisabeku athavā devatèyannunnuddeśisi homamāḍabekèṃdu heḷidè. (ā. gṛ. sū. 2-10-4; śāṃ. gṛ. sū. 4-13-5) vyavasāya saṃbaṃdhavāda devatègaḷannu stutisuva sūktavòṃdaralli (4-57-6) sītā (negilugèrè) èṃba devatèyiṃda uttamavāda bèḷèyu prārthitavāgidè. pāraskara gṛhyasūtradalli (pā. gṛ. sū. 2-17-9) ide sītèyu iṃdrana patni yèṃdū mattu avaḷigè taṃdèya hèsarina ādhārada melè sāvitri èṃdu hèsarèṃdū (tai. brā. 2-3-10-1) heḷidè. ide pāraskara gṛhyasūtradalli uśvarā (vyavasāyakkè anna kūlavāgiruva jamīnu) èṃbòṃdu devatè uktavāgidè.*
-> *niruktakārara nirvacanadaṃtè kṣetrapatiyu gṛhapatiyū āgabahudādudariṃda agniyèṃdū artha*
-> *vāgabahudu. ādarè kṣetraśabdada prayogavu kṛṣisaṃbaṃdhavāgiye prakṛtavāda maṃtradalliruvudariṃda*
-> *kṣetrapatiśabdavu pratyekavāda devatèyèṃde arthamāḍuvudu ucitavāgiruttadè. kèlavèḍègaḷalli*
-> *sāyaṇara bhāṣyavū ī arthavanne samarthisuttadè. udāharaṇègè,*
 > *daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā |*
 > *kṣetrasya patiṃ prativeśamīmahe viśvānnevā amṛtā aprayucchataḥ ‖*
 > *(ṛ. saṃ. 10-66-13)*
-> *devatātmarū, hotṛrūparū āda agnyādityarannū, yajñamārgavannū saha nānu anusarisuttenè.*
-> *kṣetrapatiyannū, pramādarahitarāda itara èllā devatègaḷannū nānu dhanārthavāgi pūjisuttenè.*
-> *èṃbarthavuḷḷa ī maṃtradalli kṣetrasya patiṃ èṃbudakkè sāyaṇaru etannāmānaṃ èṃdu vivarisi idu*
-> *pratyekavāda devatèya hèsarèṃde tiḷiyabeku èṃdu heḷiddārè. idaraṃtèye,*
 > *śaṃ no devaḥ savitā trāyamāṇaḥ śaṃ no bhavaṃtūṣaso vibhātīḥ |*
 > *śaṃ naḥ parjanyo bhavatu prajābhyaḥ śaṃ naḥ kṣetrasya patirastu śaṃbhuḥ ‖*
 > *(ṛ. saṃ. 7-35-1:)*
 
-Translation of the Kannada inside this block: The deity called "Kṣetrasyapati" also belongs to the class of Vāstoṣpati. This deity is a protector of the land. In the first three mantras of sūkta 4-57, from him are sought cows, horses, and sweetness and the like in earth and sky, trees and water. In a sūkta addressed to the Viśve Devāḥ (7-35-10) he is prayed to be a giver of prosperity along with Savitṛ, the Dawns and Parjanya. In 18-6-13 the worshippers wish him to be near them as a neighbour. It is said that when one begins ploughing the land, this deity should be worshipped, or a homa should be offered to him (Ā. Gṛ. Sū. 2-10-4; Śāṃ. Gṛ. Sū. 4-13-5) **NOTE**. In a sūkta praising the deities of agriculture (4-57-6) a good crop is prayed for from the deity Sītā (the furrow). In the Pāraskara Gṛhya Sūtra (Pā. Gṛ. Sū. 2-17-9) **NOTE** it is said that this same Sītā is the wife of Indra and that she is named Sāvitrī after her father's name (Tai. Brā. 2-3-10-1). In the same Pāraskara Gṛhya Sūtra a deity named Urvarā (land favourable to cultivation) **NOTE**is mentioned.
+The deity called "Kṣetrasyapati" also belongs to the class of Vāstoṣpati. This deity is a protector of the land. In the first three mantras of sūkta 4-57, from him are sought cows, horses, and sweetness and the like in earth and sky, trees and water. In a sūkta addressed to the Viśve Devāḥ (7-35-10) he is prayed to be a giver of prosperity along with Savitṛ, the Dawns and Parjanya. In 18-6-13 the worshippers wish him to be near them as a neighbour. It is said that when one begins ploughing the land, this deity should be worshipped, or a homa should be offered to him (Ā. Gṛ. Sū. 2-10-4; Śāṃ. Gṛ. Sū. 4-13-5) **NOTE**. In a sūkta praising the deities of agriculture (4-57-6) a good crop is prayed for from the deity Sītā (the furrow). In the Pāraskara Gṛhya Sūtra (Pā. Gṛ. Sū. 2-17-9) **NOTE** it is said that this same Sītā is the wife of Indra and that she is named Sāvitrī after her father's name (Tai. Brā. 2-3-10-1). In the same Pāraskara Gṛhya Sūtra a deity named Urvarā (land favourable to cultivation) **NOTE**is mentioned.
 
 According to the Nirukta author's explanation, since Kṣetrapati can also be Gṛhapati, the meaning Agni is also possible. But since the word kṣetra is used in the present mantra only in connection with cultivation, it is proper to understand the word Kṣetrapati as a separate deity. In some places Sāyaṇa's bhāṣya also supports this meaning. For example:
 दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया । क्षेत्रस्य पतिं प्रतिवेशमीमहे विश्वान्नेवा अमृता अप्रयुच्छतः ॥ (*daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā | kṣetrasya patiṃ prativeśamīmahe viśvānnevā amṛtā aprayucchataḥ ‖*) (Ṛ. Saṃ. 10-66-13)
@@ -24352,59 +24209,25 @@ According to the Nirukta author's explanation, since Kṣetrapati can also be G�
 
 ### Printed p. 627
 
-> ऎंब मंत्रदल्लियू क्षेत्रपति शब्दक्कॆ इदे अर्थवन्नु हेळबेकु. ई मंत्रद हिंदिन मंत्रदल्लि
-> अग्नि, इंद्र, सूर्य इत्यादि इतर देवतॆगळ नामनिर्देशवु स्पष्टवागिरुवुदरिंद इदु बेरॆ
-> (प्रत्येक) देवतॆय नामवन्नु तिळिसुवुदागिदॆयॆंदु हेळबहुदु.
-> बृहद्देवताकाररु इदे क्षेत्रपतियु इंद्रन विभूतिविशेषवॆंदु ऒंदु कडॆयू, अग्निय
-> विभूतिविशेषवॆंदु इन्नॊंदु कडॆयू तिळिसिद्दारॆ.
 > इंद्राश्रयस्तु पर्जन्यो रुद्रो वायुर्बृहस्पतिः ।
 > वरुणः कश्च मृत्युश्च देवश्च ब्रह्मणस्पतिः ॥
 > मनुश्च विश्वकर्मा च मित्रः क्षेत्रपतिर्यमः ।
 > (बृ. दे. १-१२२, १२३)
 > पर्जन्य, रुद्र, वायु, बृहस्पति, वरुण, क, मृत्यु, ब्रह्मणस्पति, मन्यु, विश्वकर्मा, मित्र,
-> क्षेत्रपति, यम, तार्क्ष्य इत्यादि सकलदेवतॆगळू इंद्रांतर्गतरु ऎंदु ऒंदु कडॆ हेळिदॆ. अल्लदॆ,
 > अन्नं क्षितिभ्यो विदधत् यदृतुष्वनिशत्किस्मित् ।
 > तेनैनमाह क्षेत्रस्य वामदेवः स्तुवन्सतिं ॥
 > (बृ. बे. २-४१)
-> ऋतुकालगळिगनुगुणवागि इदे अग्नियु पृथ्वियल्लि (क्षितौ) अंतर्गतनागि, पृथ्विय सकल प्रदेश
-> गळिगू अन्नवन्नु हंचुववनादुदरिंद वामदेवऋषियु इवनन्नु क्षेत्रपतियॆंदु प्रशंसिसिदनु
-> ऎंदु तिळिसिदॆ. ई विवरणवु “ केचिदग्निमथापरे ” ऎंदु सायणरु तिळिसिरुव अर्थक्कॆ
-> हॊंदिकॊळ्ळुत्तदॆ
-> शुन, सीर, लांगल, फाल, सीता इत्यादि पदगळ प्रयोगगळु कृषिय स्वरूपवन्ने
-> पूर्णवागि वर्णिसुवुदरिंद प्रकृतदल्लि क्षेत्रपतियॆंबुदक्कॆ कृषिगॆ उपयुक्तवाद क्षेत्रगळिगॆ पालक
-> नाद देवताविशेषवॆंदे अर्थमाडुवुदु उचितवागिरुत्तदॆ. शुन, सीर ऎंब पदगळिगू सह
-> नेगिलु, गुळ इत्यादियागि कृषिसाधनगळिंदे अर्थमाडिदरू तप्पागलारदु. आदरॆ, शुन, सीर
-> ऎंब पदगळ प्रत्येकवाद प्रयोगवू, शुनासीरा ऎंब द्वंद्व रूपद प्रयोगवू विशेष
-> वागिरुवुदरिंद आया संदर्भगळिगनुगुणवागि ई पदगळ निष्कृष्टवाद तात्पर्यवेनॆंबुदन्नु
-> परिशीलिसबेकु.
 
-> *èṃba maṃtradalliyū kṣetrapati śabdakkè ide arthavannu heḷabeku. ī maṃtrada hiṃdina maṃtradalli*
-> *agni, iṃdra, sūrya ityādi itara devatègaḷa nāmanirdeśavu spaṣṭavāgiruvudariṃda idu berè*
-> *(pratyeka) devatèya nāmavannu tiḷisuvudāgidèyèṃdu heḷabahudu.*
-> *bṛhaddevatākāraru ide kṣetrapatiyu iṃdrana vibhūtiviśeṣavèṃdu òṃdu kaḍèyū, agniya*
-> *vibhūtiviśeṣavèṃdu innòṃdu kaḍèyū tiḷisiddārè.*
 > *iṃdrāśrayastu parjanyo rudro vāyurbṛhaspatiḥ |*
 > *varuṇaḥ kaśca mṛtyuśca devaśca brahmaṇaspatiḥ ‖*
 > *manuśca viśvakarmā ca mitraḥ kṣetrapatiryamaḥ |*
 > *(bṛ. de. 1-122, 123)*
 > *parjanya, rudra, vāyu, bṛhaspati, varuṇa, ka, mṛtyu, brahmaṇaspati, manyu, viśvakarmā, mitra,*
-> *kṣetrapati, yama, tārkṣya ityādi sakaladevatègaḷū iṃdrāṃtargataru èṃdu òṃdu kaḍè heḷidè. alladè,*
 > *annaṃ kṣitibhyo vidadhat yadṛtuṣvaniśatkismit |*
 > *tenainamāha kṣetrasya vāmadevaḥ stuvansatiṃ ‖*
 > *(bṛ. be. 2-41)*
-> *ṛtukālagaḷiganuguṇavāgi ide agniyu pṛthviyalli (kṣitau) aṃtargatanāgi, pṛthviya sakala pradeśa*
-> *gaḷigū annavannu haṃcuvavanādudariṃda vāmadevaṛṣiyu ivanannu kṣetrapatiyèṃdu praśaṃsisidanu*
-> *èṃdu tiḷisidè. ī vivaraṇavu “ kecidagnimathāpare ” èṃdu sāyaṇaru tiḷisiruva arthakkè*
-> *hòṃdikòḷḷuttadè*
-> *śuna, sīra, lāṃgala, phāla, sītā ityādi padagaḷa prayogagaḷu kṛṣiya svarūpavanne*
-> *pūrṇavāgi varṇisuvudariṃda prakṛtadalli kṣetrapatiyèṃbudakkè kṛṣigè upayuktavāda kṣetragaḷigè pālaka*
-> *nāda devatāviśeṣavèṃde arthamāḍuvudu ucitavāgiruttadè. śuna, sīra èṃba padagaḷigū saha*
-> *negilu, guḷa ityādiyāgi kṛṣisādhanagaḷiṃde arthamāḍidarū tappāgalāradu. ādarè, śuna, sīra*
-> *èṃba padagaḷa pratyekavāda prayogavū, śunāsīrā èṃba dvaṃdva rūpada prayogavū viśeṣa*
-> *vāgiruvudariṃda āyā saṃdarbhagaḷiganuguṇavāgi ī padagaḷa niṣkṛṣṭavāda tātparyavenèṃbudannu*
-> *pariśīlisabeku.*
 
-Translation of the Kannada inside this block: In this mantra too the word Kṣetrapati must be given this same meaning. Since in the mantra preceding this one the naming of other deities such as Agni, Indra and Sūrya is clear, it can be said that this one names a different (separate) deity.
+In this mantra too the word Kṣetrapati must be given this same meaning. Since in the mantra preceding this one the naming of other deities such as Agni, Indra and Sūrya is clear, it can be said that this one names a different (separate) deity.
 
 The author of the Bṛhaddevatā states in one place that this Kṣetrapati is a special manifestation of Indra, and in another place a special manifestation of Agni.
 इंद्राश्रयस्तु पर्जन्यो रुद्रो वायुर्बृहस्पतिः । वरुणः कश्च मृत्युश्च देवश्च ब्रह्मणस्पतिः ॥ मनुश्च विश्वकर्मा च मित्रः क्षेत्रपतिर्यमः । (*iṃdrāśrayastu parjanyo rudro vāyurbṛhaspatiḥ | varuṇaḥ kaśca mṛtyuśca devaśca brahmaṇaspatiḥ ‖ manuśca viśvakarmā ca mitraḥ kṣetrapatiryamaḥ |*) (Bṛ. De. 1-122, 123)
@@ -24940,19 +24763,10 @@ The use (viniyoga) of this Ṛk has been stated in the Special Topics of the fou
 > घृतस्तुतिर्वेति ॥ विषुवतीदं सूक्तमाज्यं । तथा च सूत्रं । समुद्रादूर्मिरित्याज्यं
 > त्यं सुमेषं । आ. ८-६ । इति ॥ व्यूढे दशरात्रे सप्तमेऽहनीदमेव सूक्तमाज्यं ।
 > सूत्रितं च । अथ छंदोमाः समुद्रादूर्मिरित्याज्यं । आ. ८-९ । इति ॥
-> अनुवादवु—समुद्रादूर्मिः ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हदिमूरनॆय
-> सूक्तवु. इदरल्लि हदिमूरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; अग्निः सूर्य;
-> आपः गौः धृत मॊदलादवरु देवतॆगळु ; सूक्तद कॊनॆय ऋक्कु जगतीछंदस्कवु ; उळिद
-> ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—समुद्रादूर्मिरेकादशाग्नेयं जगत्त्यंतं
-> सौर्यं वापं वा गव्यं वा धृतस्तुतिर्वा ऎंदु हेळिरुवुदु. ई सूक्तवन्नु आज्य
-> शस्त्रमंत्रगळल्लि विषुवति ऎंब सूक्तवन्नागि पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद—समुद्रादूर्मिरित्याज्यं त्यं सुमेषं ऎंब सूत्रदिंदलू (आ. ८-६) व्यूळ्हवॆंब दशरात्रयागदल्लि
-> एळनॆय दिवस ई सूक्तवन्नु आज्यशस्त्रमंत्रगळिगागि पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद—अथ
-> छंदोमाःसमुद्रादूर्मिरित्याज्यं ऎंब सूत्रदिंदलू (आ. ८-९) विवृतवागिरुवुदु.
 > सायणभाष्यसहिता [ मं. ४. आ. ५. सू. ५८.
 > सूक्त—खिल
 > मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५८ ॥
 > अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—१०, ११ ॥
-> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
 > ॥ ऋषिः—वामदेवः ॥
 > ॥ देवता—अग्निः सूर्यो वापो वा गावो वा धृतं वा ॥
 > ॥ छंदः—१-१०, त्रिष्टुप् । ११. जगती ॥
@@ -25719,7 +25533,7 @@ This Ṛk धामंते (*dhāmaṃte*) and the Ṛk अबोध्यग�
 ### Printed p. 666
 समुद्रे हृदि अंतः आयुषि (*samudre hṛdi aṃtaḥ āyuṣi*)—It has been said in the previous sentence that Agni pervades the entire world. How that is so, is explained here in detail. समुद्रे वडवा ग्नित्वेन । हृद्यंतः सर्वप्राणिनां हृदये वैश्वानरत्वेन । आयुषि अन्ने सर्वप्राण्याहारत्वेन यद्वा आयुषीत्येतत् हृद्विशेषणं जठराग्निना खल्वायुः धार्यते । अपा मनीके उदकसंस्कृत्याये वैद्युताग्नित्वेन । समिधे संग्रामे शौर्याग्नित्वरूपेण । (*samudre vaḍavā gnitvena | hṛdyaṃtaḥ sarvaprāṇināṃ hṛdaye vaiśvānaratvena | āyuṣi anne sarvaprāṇyāhāratvena yadvā āyuṣītyetat hṛdviśeṣaṇaṃ jaṭharāgninā khalvāyuḥ dhāryate | apā manīke udakasaṃskṛtyāye vaidyutāgnitvena | samidhe saṃgrāme śauryāgnitvarūpeṇa |*). This Agni pervades various regions in various forms. He is in the ocean in the form of the submarine fire; he is in the heart of living beings in the form of the Vaiśvānara fire. Or else, he is in the belly of living beings, digesting their food and so on, in the form of the digestive fire, and is the cause of the increase of life of living beings. And he is in the assemblage of waters (in the clouds) in the form of the lightning fire (lightning); in battles and the like he is in the form of the fire of valour. Thus in all places Agni pervades everything with his various radiance; that is the sense.
 य आभृतस्तमश्याम मधुमंतं ते ऊर्मि० (*ya ābhṛtastamaśyāma madhumaṃtaṃ te ūrmi0*)—तस्मिन् धामनि यः ऊर्मिर्घृतरूप उदकरूपो वा रसः स्थापितः त्वदीयं तं रसं माधुर्योपेतं व्याप्पु याम । (*tasmin dhāmani yaḥ ūrmirghṛtarūpa udakarūpo vā rasaḥ sthāpitaḥ tvadīyaṃ taṃ rasaṃ mādhuryopetaṃ vyāppu yāma |*). O Agni, may we obtain that sweet essence (ghee or water), of the nature of ghee or of the nature of water, which is established in your mass of radiance pervading all places. Here it is stated that the essence is of two kinds, of the nature of ghee or of water. The essence that is established in (joins) the terrestrial fire or the sacrificial fire is to be understood as ghee; the essence that is established in the lightning fire, as water.
-The concluding verses of the Fourth Maṇḍala: इत्थं श्रीबुक्कभूपालसाम्राज्यैकधुरंधरः । विद्यातीर्थगुरोर्दृष्टा प्राप्तसार्वज्ञ्यवैभवः ॥ श्रीमत्सायणमंत्रिशः सकलागमतत्त्ववित् । दाशतय्यां माधवीये वेदार्थस्य प्रकाशने ॥ चतुर्थं मंडलं सम्यक् वामदेवेन वीक्षितं । अष्टोत्तरैस्तु पंचाशत्तूकैः पंच शतैरपि ॥ एकोनया नवत्या च युक्तैर्मंत्रैश्च संमितं । व्याकार्षित्सुखबोधार्थं पश्यतैतद्विमत्सराः ॥ (*itthaṃ śrībukkabhūpālasāmrājyaikadhuraṃdharaḥ | vidyātīrthagurordṛṣṭā prāptasārvajñyavaibhavaḥ ‖ śrīmatsāyaṇamaṃtriśaḥ sakalāgamatattvavit | dāśatayyāṃ mādhavīye vedārthasya prakāśane ‖ caturthaṃ maṃḍalaṃ samyak vāmadevena vīkṣitaṃ | aṣṭottaraistu paṃcāśattūkaiḥ paṃca śatairapi ‖ ekonayā navatyā ca yuktairmaṃtraiśca saṃmitaṃ | vyākārṣitsukhabodhārthaṃ paśyataitadvimatsarāḥ ‖*) ॥ इति चतुर्थं मंडलं समाप्तं ॥ (*‖ iti caturthaṃ maṃḍalaṃ samāptaṃ ‖*)
+The concluding verses of the Fourth Maṇḍala: इत्थं श्रीबुक्कभूपालसाम्राज्यैकधुरंधरः । विद्यातीर्थगुरोर्दृष्टा प्राप्तसार्वज्ञ्यवैभवः ॥ श्रीमत्सायणमंत्रिशः सकलागमतत्त्ववित् । दाशतय्यां माधवीये वेदार्थस्य प्रकाशने ॥ चतुर्थं मंडलं सम्यक् वामदेवेन वीक्षितं । अष्टोत्तरैस्तु पंचाशत्तूकैः पंच शतैरपि ॥ एकोनया नवत्या च युक्तैर्मंत्रैश्च संमितं । व्याकार्षित्सुखबोधार्थं पश्यतैतद्विमत्सराः ॥ (*itthaṃ śrībukkabhūpālasāmrājyaikadhuraṃdharaḥ | vidyātīrthagurordṛṣṭā prāptasārvajñyavaibhavaḥ ‖ śrīmatsāyaṇamaṃtriśaḥ sakalāgamatattvavit | dāśatayyāṃ mādhavīye vedārthasya prakāśane ‖ caturthaṃ maṃḍalaṃ samyak vāmadevena vīkṣitaṃ | aṣṭottaraistu paṃcāśattūkaiḥ paṃca śatairapi ‖ ekonayā navatyā ca yuktairmaṃtraiśca saṃmitaṃ | vyākārṣitsukhabodhārthaṃ paśyataitadvimatsarāḥ ‖*) इति चतुर्थं मंडलं समाप्तं ॥ (*‖ iti caturthaṃ maṃḍalaṃ samāptaṃ ‖*)
 
 ### Printed p. 667
 
@@ -25951,7 +25765,7 @@ Once the Ṛtviks were reciting the Prātaranuvāka in front of the sacrificial 
 
 The father and son both bowed to Atri, the great seer of blazing radiance; thus the luminous nature of Atri is praised. In the Bṛhaddevatā passage quoted above, the epithet सूर्यानलसमद्युतिः (*sūryānalasamadyutiḥ*) ("of splendour equal to the sun and fire") describes Atri's divine nature. It is a notable point, and shows his great majesty, that this seer with his light not only destroyed the darkness that obstructs human beings, but also helped Sūrya, the very support of radiance in the divine world. But in these circumstances room remains for another doubt. When he himself had fallen into darkness:
 
-याभिः शुचंतिं धनसां सुषंसदं तप्तं घर्ममोम्यावंतमत्रये । ( (*yābhiḥ śucaṃtiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvaṃtamatraye | (*) (Ṛ. Saṃ. 1-112-7)
+याभिः शुचंतिं धनसां सुषंसदं तप्तं घर्ममोम्यावंतमत्रये । (*yābhiḥ śucaṃtiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvaṃtamatraye |*) (Ṛ. Saṃ. 1-112-7)
 
 यद्वां दंसोभिरश्विनात्रिर्नराववर्तति । (*yadvāṃ daṃsobhiraśvinātrirnarāvavartati |*) (Ṛ. Saṃ. 5-23-7)
 
@@ -27430,7 +27244,7 @@ Tryaruṇa, born in the Ikṣvāku line, the son of Trivṛṣṇa, once set out
 
 This chariot, driven by Vṛśa Jāna, ran over the body of a young Brahmin boy, and because of this his head was cut off. Then Traiyaruṇa said sharply to his priest: "Since you were driving the chariot, you alone share the sin arising from this killing."
 
-सोऽथर्वांगिरसान् मंत्रान् दृष्ट्वा संजीव्य तं शिशुं । क्रोधात्संत्सज्य राजानमन्यदेशं समाश्रितः ॥ ( (*so 'tharvāṃgirasān maṃtrān dṛṣṭvā saṃjīvya taṃ śiśuṃ | krodhātsaṃtsajya rājānamanyadeśaṃ samāśritaḥ ‖ (*) (Bṛ. Pe. 25-16) **NOTE**
+सोऽथर्वांगिरसान् मंत्रान् दृष्ट्वा संजीव्य तं शिशुं । क्रोधात्संत्सज्य राजानमन्यदेशं समाश्रितः ॥ (*so 'tharvāṃgirasān maṃtrān dṛṣṭvā saṃjīvya taṃ śiśuṃ | krodhātsaṃtsajya rājānamanyadeśaṃ samāśritaḥ ‖*) (Bṛ. Pe. 25-16) **NOTE**
 
 When the king spoke so harshly, disgust arose in Vṛśa's mind. At once he had a direct vision of the Atharvāṅgirasa mantras and recited them. By the power of those mantras the life of the child returned. Even so, displeased by the king's harsh words, he abandoned that king in anger and went off to take refuge with a king of another country.
 
@@ -29405,15 +29219,9 @@ In this last ṛk, which is in the nature of a conclusion, the seer, praising Ag
 
 > श्वामग्न इत्येकादशर्चं चतुर्थं सूक्तमात्रेयस्य वसुश्रुतस्यार्षं
 > त्रैष्टुभवाग्नेयं । अनुक्रांतं च । त्वामग्न एकादशेति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोगोऽबोध्यग्निरित्यत्रोक्तः ॥
-> अनुवादवु—त्वामग्ने ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु.
-> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ आत्रेयगोत्रद वसुश्रुतनॆंबुवनु ऋषियु;
-> अग्नियु देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि त्वामग्न एकादश ऎंदु हेळिरुवुदु.
-> प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्रपठनक्कागि ई सूक्तद विनियोगविरुवुदॆंदु ई मंडलद
-> अबोध्यग्निः ऎंब मॊदलनॆय सूक्तद विनियोगदल्लिये हेळलागिदॆ.
 > सूक्त-४
 > मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—४ ॥
 > अष्टक—३ ॥ अध्याय—८ ॥ वर्ग— १८, १९ ॥
-> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
 > ऋषिः—वसुश्रुत आत्रेयः !
 > देवता—आग्निः ॥
 > छंदः—त्रिष्टुप् ॥
@@ -30219,9 +30027,6 @@ This sūkta is an Āprī sūkta. We have written long explanations of Āprī sū
 > नराशंसः नरैः शंसनीयोऽयमग्निरिमं यज्ञमिदं हविर्वा सुषूदति ।
 > सुष्टु प्रेरयति । स देवोऽदाभ्योऽहिंस्यः केनापि कविर्मेधावी मधुहस्तो
 > मधुरहस्त्यः ॥
-> ॥ प्रतिपवार्थ ।.
-> अदाभ्यः—यार हिंसॆगू सिलुकदवनू । कविः—मेधावियू । मधुहस्त्यः—
-> आह्लादकरवाद हस्तवुळ्ळवनू आद ! नराशंसः—नराशंसनामकनाद अग्नियु । इमं यज्ञंई यज्ञवन्नु । सुषूदति हि--उत्तमवागि प्रेरिसुत्तानॆयल्लवे?
 
 ##### Gist of the bhāṣya
 
