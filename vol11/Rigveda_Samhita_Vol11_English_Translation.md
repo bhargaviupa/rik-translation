@@ -14509,6 +14509,150 @@ The sūkta प्र वः पांतं (*pra vaḥ pāṃtaṃ*) has six �
 
 This sūkta प्र वः पांतं (*pra vaḥ pāṃtaṃ*) is the sixteenth sūkta in the twenty-first anuvāka. It has six Ṛks. The seer of this sūkta is Dīrghatamā Aucathya (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*)); the metre is Jagatī. As said before, Viṣṇu is the deity of this sūkta; the first three Ṛks are also Indra-deitied. In the Anukramaṇikā it is said: प्र वो जागतं त्रैंद्रश्चाद्यस्तृचः (*pra vo jāgataṃ traiṃdraścādyastṛcaḥ*). It is stated that the sūkta has its use for स्तोमातिशंसन (*stomātiśaṃsana*) in the special sacrifices called Abhiplavaṣaḍaha and Ukthya.**NOTE**
 
+### Printed p. 600
+Maṇḍala 1, Anuvāka 21, Sūkta 155. Aṣṭaka 2, Adhyāya 2, Varga 25.
+Number of Ṛks in the sūkta: 6.
+Ṛṣi: Dīrghatamā Aucathya.
+Devatā: 1–3, Viṣṇu and Indra; 4–6, Viṣṇu.
+Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वः॒ पांत॒मंध॑सो धियाय॒ते म॒हे शूरा॑य॒ विष्ण॑वे  
+> चार्चत ।  
+> या सानु॑नि॒ पर्व॑ताना॒मदा॑भ्या म॒हस्त॒स्थतु॒रर्व॑तेन सा॒धुना॑।  
+> ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । पांतं । अंधसः । धियायते । महे । शूराय । विष्णवे । च । अर्चत ।  
+> या । सानुनि । पर्वतानां । अदाभ्या । महः । तस्थतुः । अर्वताइव । साधुना ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वय्यादयः वो युष्माकं संबंधि पांतं पालनस्वभावं पातव्यं
+> छांदसोऽंधः सोमरूपमन्नं प्रार्चत । प्रकर्षेण संपादयत । कस्मै । धियायते स्तुतीरिच्छते महे महते शूराय विक्रांतायेंद्राय विष्णवे व्यापकाय्कॆतन्नामकाय देवाय च । कस्तयोरतिशय इति उच्यते । या याविंद्राविष्णू
+> पर्वतानां प्रीणनवतां पूरणवतां वा पर्वतशब्दो यास्केनैवं निरुक्तः । पर्ववान्
+> पर्वतः पर्व पुनः पृणातेः प्रीणातेर्वेति । उक्तलक्षणानां लोकानां सानुनि
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the adhvaryu and the other priests. Offer, he says, your protective food, the soma, which is to be protected (the word अंधसः (*aṃdhasaḥ*) is Vedic usage for अंधसः (*aṃdhasaḥ*)): "present it forth", that is, prepare it with care. For whom? For the great, valiant Indra, who desires praise (धियायते (*dhiyāyate*) means "desires praises"), and for the pervasive deity named Viṣṇu. He then says that the question is which of the two excels, and answers by describing the pair, Indra and Viṣṇu, "who ... of mountains". The word parvata is explained by Yāska (Nirukta) thus: पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातेर्वेति (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇāterveti*). So "of mountains" means of the worlds that have the stated character, that is, that fill or gratify. (The sentence continues on the next page.)
+
+### Printed p. 601
+
+> समुच्चि तप्रदेशे । सर्वलोक इत्यर्थः । अथवा मेघानां समुच्चि तप्रदेशे ।
+> पर्वतशब्दो मेघनामसूक्तत्वात् । तत्र तस्थतुः । तिष्ठतः । कीदृशौ ता । अदाभ्यादंभनीयौ परैरनभिभाव्यौ अत एव महो महांतौ । यद्वा । महो महसि
+> स्वतेजसि सानुनीत्यनेन संबंधः । तत्र दृष्टांतः । साधुनाभिमतदेशप्रापणसमर्थेनार्वता वेगवताश्वेनेव । तेन यथात्युच्चि तं प्रदेशमारोहति तद्वदुच्चं पदमारूढौ । तस्मात्ताभ्यामर्चत ॥
+
+##### Gist of the bhāṣya
+
+They stand at the high place of those worlds, that is, in all the worlds. Or else it is the high place of the clouds, since parvata is a name of the cloud. They stand there. Of what sort are they? They are अदाभ्या (*adābhyā*), not to be harmed, not to be overcome by others, and therefore महः (*mahaḥ*), great. Or else महः (*mahaḥ*) is the locative "in their own splendour", construed with सानुनि (*sānuni*). The simile: like a good horse, one that is fast and able to carry its rider to the desired place; as a man by it climbs to a high place, so these two have climbed to a high station. Therefore worship the two.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यादिगळे (*adhvaryādigaḷe*)—O adhvaryus and the rest
+- अदाभ्या (*adābhyā*)—those who are unobstructed
+- महः (*mahaḥ*)—the great ones
+- या (*yā*)—the two, Indra and Viṣṇu, who
+- पर्वतानां (*parvatānāṃ*)—of mountains
+- सानुनि (*sānuni*)—on the peaks. [Or पर्वतानां (*parvatānāṃ*)—of the clouds that are like mountains; सानुनि (*sānuni*)—(able to go to the places desired), (well-trained)] **NOTE**
+- अर्वता इव (*arvatā iva*)—as if riding horses and climbing to high places
+- तस्थतुः (*tasthatuḥ*)—stand (in splendour)
+- धियायते (*dhiyāyate*)—to him who desires praise
+- महे (*mahe*)—who is powerful
+- शूराय (*śūrāya*)—and valiant, to Indra
+- च (*ca*)—and
+- विष्णवे (*viṣṇave*)—to Viṣṇu also
+- वः (*vaḥ*)—your
+- पांतं (*pāṃtaṃ*)—nourishing, or to be nourished
+- अंधसः (*aṃdhasaḥ*)—the food in the form of soma
+- प्रार्चत (*prārcata*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus and the rest, Indra and Viṣṇu, who are unobstructed and great, stand in splendour on the lofty regions of the clouds that are like peaks, as if climbing high places on well-trained horses. To Indra, who desires praise and is powerful and valiant, and to Viṣṇu also, offer your nourishing food in the form of soma.
+
+##### Printed English
+
+Offer your nutritious viands to the great hero, (Indra), who is pleased by praise, and to Vishnu, the two invincible deities who ride upon the radiant summit of the clouds, as upon a well-trained steed-
+
+##### विशेषविषयगळु (Special Topics)
+
+अदाभ्या (*adābhyā*)—अदंभनीयौ परैरनभिभाव्यौ (*adaṃbhanīyau parairanabhibhāvyau*): those who are not harmed by enemies, and the unobstructed. The word is formed from the root दभ् (*dabh*), which means "to injure, destroy", in its negative sense, as अदाभ्या (*adābhyā*), and is an epithet of Indra and Viṣṇu.
+
+### Printed p. 602
+पर्वतानां (*parvatānāṃ*)—पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातीर्वा (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātīrvā*). The word parva is formed either from the root पृ (*pṛ*), meaning "to fill", or from the root प्री (*prī*), meaning "to gratify"; that which has such joints (parva) is a parvata, a mountain.
+सानुनि (*sānuni*)—सानु समुच्च्रतं भवति । समन्नुन्नमिति ना (*sānu samuccrataṃ bhavati | samannunnamiti nā*). (It is "driven upward", set in motion upward): it rises upward, or spreads out loftily. Hence the name sānu.
+Here Sāyaṇa has explained पर्वतानां सानुनि (*parvatānāṃ sānuni*) in two ways. First, taking the word parvata as meaning पूरणवतां प्रीणनवता ० वा लोकानां समुच्चि तप्रदेशे (*pūraṇavatāṃ prīṇanavatā 0 vā lokānāṃ samucci tapradeśe*), he takes it to mean "in Satyaloka, the lofty region of the worlds that fill or that give delight". Second, taking it as अथवा मेघानां समुच्चि तप्रदेशे । पर्वतशब्दः मेघनामसु उक्तत्वात् । (*athavā meghānāṃ samucci tapradeśe | parvataśabdaḥ meghanāmasu uktatvāt |*), he takes it to mean "in the upper region where the clouds are", because the word parvata is read among the names of the cloud.
+In general the word parvata is used abundantly in the Indra sūktas and the Marut sūktas. In many places this word has been explained as "cloud". Even when it is explained as cloud, one follows Yāska's derivation. If the word is formed from the root पृ (*pṛ*), it means that which fills the empty regions of the atmosphere; if from the root प्री (*prī*), it means that which gives gratification to the whole world by releasing rain.
+In some contexts the sense may be not literally the cloud but a dense mass of darkness that is in cloud form and has solidified. For example:
+समु त्ये महतीरपः सं क्षोणी समु सूर्यं (*samu tye mahatīrapaḥ saṃ kṣoṇī samu sūryaṃ*) । सं वज्रं पर्वशो दधुः (*saṃ vajraṃ parvaśo dadhuḥ*) (Ṛ. Saṃ. 8-7-22)
+वि वृत्रं पर्वशो ययुर्वि पर्वता आराजिनः (*vi vṛtraṃ parvaśo yayurvi parvatā ārājinaḥ*) । चक्राणा वृष्टि पौंस्यं (*cakrāṇā vṛṣṭi pauṃsyaṃ*) (Ṛ. Saṃ. 8-7-23)
+If one examines the words vajra and parvata used in these Ṛks, the sūkta containing them is addressed to the Maruts. Since the thunderbolt is used here, and since the thunderbolt is commonly regarded as Indra's weapon, if vajra is taken here as a weapon in the form of a mass of radiance and parvata as a solidified mass of darkness, the sense "he split the mountain by wielding the thunderbolt" fits. So parvata here is a metaphor; it may mean a mass of darkness in the shape of a mountain.
+
+### Printed p. 603
+In many contexts the parvata is invoked and praised together with deities such as Indra. For example:
+इंद्रापर्वता बृहता रथेन वामीरिष आ वहतं सुवीराः । (*iṃdrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*) ।
+वीतं हव्यान्यध्वरेषु देवा वर्धेथां गीर्भिरिळया मदंता ॥ ( (*vītaṃ havyānyadhvareṣu devā vardhethāṃ gīrbhiriḷayā madaṃtā ‖ (*) ॥ (Ṛ. Saṃ. 3-53-1)
+In this Ṛk, with इंद्रश्च पर्वतश्च हे इंद्रापर्वत् (*iṃdraśca parvataśca he iṃdrāparvat*), the parvata is invoked along with Indra.
+सजोषस आदित्यैर्मादयध्वं सजोषस ऋभवः पर्वतेभिः । (*sajoṣasa ādityairmādayadhvaṃ sajoṣasa ṛbhavaḥ parvatebhiḥ |*) ।
+सजोषसो दैव्येना सवित्रा सजोषसः सिंधुभी रत्नधेभिः ॥ (*sajoṣaso daivyenā savitrā sajoṣasaḥ siṃdhubhī ratnadhebhiḥ ‖*) ॥ (Ṛ. Saṃ. 4-34-8)
+Here, with पर्ववद्भिः पर्वण्यर्चमानैर्देवविशेषैः (*parvavadbhiḥ parvaṇyarcamānairdevaviśeṣaiḥ*), the invocation is also together with deities such as the Ādityas. In such contexts it is not easy to say what the precise meaning of the word parvata is.
+In the present Ṛk, explaining the word parvata as "cloud" seems appropriate. This sense fits because nearly all Indra's activities take place in the region of the cloud, and because the great deeds of Indra and Viṣṇu are praised here.
+अर्वता इव (*arvatā iva*)—वेगवता अश्वेन इव (*vegavatā aśvena iva*): it is compared to a horse that moves with extreme speed. The formation of the word arvan and its particular sense have already been explained in detail earlier.
+साधुना (*sādhunā*)—अभिमतदेशप्रापणसमर्थेन (*abhimatadeśaprāpaṇasamarthena*): with the capacity to reach the place they desire; thus the word sādhu is explained as capacity. When the Nirukta explains the Ṛk
+तुविक्षं ते सुकृतं सूमयं धनुः साधुर्बुंदो हिरण्ययः । (*tuvikṣaṃ te sukṛtaṃ sūmayaṃ dhanuḥ sādhurbuṃdo hiraṇyayaḥ |*) ।
+उभा ते बाहू रण्या सुसंस्कृत ऋदूपे चिदृदूवृधा ॥ (*ubhā te bāhū raṇyā susaṃskṛta ṛdūpe cidṛdūvṛdhā ‖*) ॥ (Ṛ. Saṃ. 8-77-11)
+it takes साधुः साधयिता (*sādhuḥ sādhayitā*) to mean "able to carry out the work" (an epithet of the bow). Likewise here the sense is "a horse that has the capacity".
+
+##### Grammar
+
+- पांतम् — पा पाने इति वा पा रक्षणे इति वा धातोः । शतृ प्रत्ययः यद्वा औणादिकः झ प्रत्ययः । झोंतः (पा. सू. ७-१-३) इति अंतादेशः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+
+### Printed p. 604
+- अंधसः — अद भक्षणे धातुः । अदेर्नुम्‌धौच (उ. सू. ४-६४५) इति अन्नरूपार्थे असुन् प्रत्ययः । धातोः नुमागमः । दकारस्य धकारादेशः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- धियायते — धियं आत्मनः इच्छति धियायति । धियायति इति धियायन् क्यजंतात् लडर्थे शतृप्रत्ययः । चतुर्थीएकवचनांतरूपं । नुम् रहितस्य शतृणः परस्मिन् विभक्तेः आगतत्वात् शतुरनुमो नद्यजादी (पा. सू. ६-१-१७३) इति तस्य उदात्तस्वरः भवति ।
+- महे — मह पूजायां धातुः । क्विप् च इति क्विप् प्रत्ययः । सावेकाचस्तृतीयादिः (पा. सू. ६-१.१६८) इति चतुर्थ्याः उदात्तस्वरः भवति ।
+- शूराय — शु गतौ धातुः । (सौत्रः) शुसिजिमीनां दीर्घश्च (उ सू. २-१८३) इति क्रन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । **NOTE**
+- आर्चत — आर्च पूजायां धातुः । लोट् मध्यमपुरुषबहुवचनांतरूपं । तिजंतनिघातस्वरः भवति ।
+- पर्वतानाम् — पर्व पूरणे धातुः । भ्यमृदृशियजि— (उ. सू. ३-३९०) इति अतच् प्रत्ययः भवति । षष्ठीबहुवचनांतरूपं ।
+- अदाभ्या — न दाभ्यौ अदाभ्यौ । दभि धातुः वार्तिकपठितः । ऋहलोर्ण्यत् (पा, सू. ३-१-१२४) इति ण्यत् प्रत्ययः । णित्त्वात् अत उपधायाः (पा सू ७-२-११९) इति धातोः उपधायाः वृद्धिः । नञ् समासे तत्पुरुषे तुल्यार्थ— (पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरः भवति । द्विवचने (औ) परे सुपां सुलुक् (पा. सू. ७-१-३९) इति तस्य आकारादेशः ।
+- तस्थतुः — ष्ठा गतिनिवृत्तौ धातुः । लिट् प्रथमपुरुषद्विवचनांतरूपं । योग्यत्वात् तिजंतनिघातस्वरः न भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति । **NOTE**
+- अर्वता इव — ऋ गतौ धातुः । अन्येभ्योऽपि दृश्यंते (पा. सू. ३-२-१५) इति वनिष् प्रत्ययः । तं निमित्तीकृत्य धातोः गुणः । र परो भवति । तृतीयैकवचने परे अर्वणस्तृसावनञ्ञः इति तृ अंतादेशः भवति ।
+- साधुना — साध संसिद्धौ धातुः । कृवापाजि— (उ.सू. १-१) इति उण् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । तृतीयैकवचनांतरूपं ।
+
+### Printed p. 605
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तै॒षमि॒त्था स॒मर॑णं॒ शिमी॑वतो॒रिंद्रा॑विष्णू सुत॒पा ना॑मुरुष्यति ।  
+> या मर्त्या॑य प्रतिधी॒यमा॑न॒मित्कृ॒शानो॒रस्तु॑रस॒नामु॑रु॒ष्यथः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तैषं । इत्था । संअरणं । शिमीवतोः । इंद्राविष्णू इति । सुतपाः । वां ।  
+> उरुष्यति ।  
+> या । मर्त्याय । प्रतिधीयमानं । इत् । कृशानोः । अस्तुः । असनां ।  
+> उरुष्यथः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमातिरेके तृतीयसवन एषा वैकल्पिकी याज्या । तथा च सूत्रितं । त्वेषमित्था समरणं शिमावतोरिति वा याज्या । आ. ६-७ । इति ॥
+> हे इंद्राविष्णू शिमावतोरिष्टप्रदानादिकर्मवर्तोर्वां युवयोरित्थेत्थं
+> त्वेषं प्रदीप्तं समरणं सम्यग्यागदेशगमनं सुतपा हुतशिष्टसोमपीतयजमान
+> उरुष्यति । रक्षति । यागेन पूजयति । यद्वा । शिमावतोः प्रहरणादिकर्मवर्तोर्वां
+> युवयोश्चषं दीप्तं शौर्यपेतं समरणं सम्यक्परस्परगमनोपेतं वृष्टिप्रदानाय मेघविदारणरूपं यजमान उरुष्यति । रक्षति । स्तौतीत्यर्थः । कस्तयोरतिशय इति उच्यते । या याविंद्राविष्णू मर्त्याय मनुष्याय हनिर्दात्रे यजमानाय प्रतिधीयमानमित् प्रतिधातव्यं फलरूपमसनामसनं चलनशीलं प्रदानशीलमन्नादिकमस्तु रभिमतक्षेप्तुर्निरसितुर्वा शक्राणां कृशानोरग्नेः सकाशादुरुष्यथः । अविच्छेदेन प्रवर्तयथः । वहौ हुतं हविः स्वीकृत्य तन्मुखादेव फलमपि
+> दास्यथ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: when there is an excess of soma at the third pressing, this is an optional yājyā. So it is laid down in the sūtra: त्वेषमित्था समरणं शिमावतोरिति वा याज्या । (*tveṣamitthā samaraṇaṃ śimāvatoriti vā yājyā |*) (Ā. 6-7).
+Sāyaṇa explains: O Indra and Viṣṇu, you are शिमावतोः (*śimāvatoḥ*), engaged in actions such as bestowing the desired. Your त्वेषं (*tveṣaṃ*), blazing, समरणं (*samaraṇaṃ*), going properly to the place of the sacrifice, is thus; the sacrificer, सुतपा (*sutapā*), who has drunk the soma left over from the offering, उरुष्यति (*uruṣyati*), protects, or honours with sacrifice. Or else: you are engaged in actions such as striking; your त्वेषं (*tveṣaṃ*), blazing, heroic समरणं (*samaraṇaṃ*), which is attended by a proper mutual meeting and takes the form of splitting the cloud for the bestowal of rain, the sacrificer उरुष्यति (*uruṣyati*), protects, that is, praises. Which of the two excels? To this he replies: you two, Indra and Viṣṇu, who for the mortal, the human sacrificer who gives the oblation, प्रतिधीयमानमित् (*pratidhīyamānamit*), what is to be set in return, that is, the fruit, असनां (*asanāṃ*), the moving, giving food and the like, you two उरुष्यथः (*uruṣyathaḥ*), keep it flowing without interruption, from कृशानोः (*kṛśānoḥ*), Agni, the opponent of the one who shoots or hurls the desired (the one who casts away enemies). That is, accepting the oblation offered into the fire, you will give the fruit also from that very mouth.
+
 ---
 
-**Progress note:** Done through printed p. 599. pp. 594-599 (batch API)
+**Progress note:** Done through printed p. 605. pp. 600-605 (batch API)
