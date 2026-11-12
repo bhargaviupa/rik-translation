@@ -9828,6 +9828,174 @@ Seer: Dīrghatamas Aucathya.
 Deity: Agni.
 Metre: Triṣṭup.
 
+### Printed p. 405
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था ते॑ अग्ने शु॒चयं॑त आ॒योर्द॑दा॒शुर्वाजे॑भिराशुषा॒णाः।  
+> उ॒भे यत्तो॒के तन॑ये॒ दधा॑ना ऋ॒तस्य॒ साम॑न्र॒णयं॑त  ॒
+> देवाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । ते । अग्ने । शुचयंत । आयोः । वदाशुः । वाजेभिः । आशुषाणाः ।  
+> उभे इति । यत् । तोके इति । तनये । दधानाः । ऋतस्य । सामन् । रणयंत ।  
+> देवाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कायाभ्यासं
+> हे अग्ने ते तव संबंधिनो रश्मयः शुचयंतो दीप्तिं सर्वत्र चक्षाणाः
+> प्रकटयंत आशुषाणा आशु शीघ्रं संभक्तार आशून्संभक्तारो वा । वाय्वादेरपि
+> शीघ्रं संभक्तार इत्यर्थः । यद्वा । समंताचोषयितारः । यद्वा । सर्वं व्याप्नुवंतः ॥ अन्नोतेर्लिटः कानच् । व्यत्ययेनोप्रत्ययः सिच्चेति द्विविकरणता । आज्पूर्वादंतर्भावितण्यर्थाच्युषेः शानचि छांवसः शपो लुक् । आशुशब्दोपपदात्सनतेः कर्मण्यण् ॥ ईद्रशा रश्मयो वाजेभिरन्नॆः सहितमायोरायुरायुष्यं !!
+> कर्मणि षष्ठि ॥ कथा केनोपायेन ददाशु । ददति ॥ दाश्य दाने । छांदसो लिट् ॥
+> तमुपायमनुगृहाणेत्यर्थः । रश्मीनां वरप्रदानं कुत्र दृष्टमिति चेत् उच्यते !
+> यद्यस्मादुभे उक्ते अन्नायुषी तोके पुत्रे तनयेनवच्छेदेन कुटुंबस्य
+> विस्तारके । यद्वा । तोके पुत्रे तनये तत्पुत्रादौ च । दधाना धारयंतो देवा
+> व्यवहर्तारो यजमाना ऋतस्य यज्ञस्य संबंधिनि सामन् सान्नि रथंतरादौ रणयंत रमंते रमयंति शब्दयंत्र्येव ना । यस्मादन्नायुष्टुत्रादिसहिताः सोमेनेश्वा सान्नि रमंते तस्माद्रश्मयो ददतीत्यवगम्यत इत्यर्थः । तादृशांस्त्वदीयान्प्रश्मिन् मामष्यनुगृहाणेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your rays are शुचयंतः (*śucayaṃtaḥ*): they make their brightness manifest everywhere. They are आशुषाणाः (*āśuṣāṇāḥ*): those who quickly partake (āśu, "quickly"; saṃbhaktāraḥ), or those who partake of the swift things (āśūn); that is, they swiftly share even in wind and the like. Alternatively, they are those who dry up all around; or else, those who pervade everything. These rays, together with food (vājebhiḥ), give ayus (āyoḥ), life; the genitive here stands for the object. "How" means by what means do they give (dadāśuḥ)? The meaning is: favour us with that means. If it is asked where the boon-giving of the rays is seen, the answer is: because both (the food and the life just mentioned) are borne in toke (a son) and in tanaya, which extends the family without a break; or toke is the son and tanaya his son and so on. The devas, the sacrificers who carry on the rites, holding these, delight (raṇayanta) in the sāman of ṛta, that is, of the sacrifice, such as the Rathantara. Raṇayanta means they rejoice, or they cause delight, or they make sound. Since men endowed with food, life, sons and the rest rejoice in the sāmans at the Soma sacrifice, it is understood that the rays give. The meaning: favour me also with such rays of yours.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—with the help of which beneficial rays of yours
+- उभे (*ubhe*)—both food and life
+- तोके (*toke*)—in children
+- तनये (*tanaye*)—in grandsons and the rest
+
+### Printed p. 406
+- दधानाः (*dadhānāḥ*)—possessing
+- देवाः (*devāḥ*)—the devout sacrificers
+- ऋतस्य (*ṛtasya*)—belonging to the sacrifice
+- सामन् (*sāman*)—in the sāmans such as the Rathantara (by the recitation of the sāmans)
+- रणयंत (*raṇayaṃta*)—indicating delight **NOTE**
+- ते (*te*)—your
+- शुचियंतः (*śuciyaṃtaḥ*)—spreading light (everywhere)
+- आशुषाणाः (*āśuṣāṇāḥ*)—rays that quickly spread as vapour (in wind and the like)
+- वाजेभिः (*vājebhiḥ*)—accompanied by food
+- आयोः (*āyoḥ*)—life
+- कथा (*kathā*)—in what manner
+- ददाशुः (*dadāśuḥ*)—do they favour and give?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, it is only by the help of your rays, which spread light everywhere and quickly spread as vapour in wind and the like, that the sacrificers obtain food and life and cause these to come also to their sons, grandsons and the rest; and enjoying these blessings they express their joy in the sāmans such as the Rathantara and sing your praise. But by what means do your rays thus grant food and life? Make those means known to us as well.
+
+##### Printed English
+
+How have your shining and evaporating (rays), Agni, supported life
+( and supplied ) food; so that, enjoying both, the devout (worshippers),
+possessing sons and grandsons, may repeat the hymns of the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+*toke tanaye*—Since tuk, tokam, tanayaḥ and the like are read among the fifteen names of offspring (Ni. 3-2), both words mean "son". Yet from a coarse point of view, though the meaning of the two words is one, in common usage "sons and grandsons" are spoken of together. Besides, the Nirukta authors show their subtle difference: तोकं तुद्यतेः । तनयं तनोतेः । (*tokaṃ tudyateḥ | tanayaṃ tanoteḥ |*) The commentators, explaining this, say: तोकं इति पुत्रः स हि नित्यं पित्रा विनयता तुद्यते इदं कुर्विदं मा कार्षिरिति । तनयं तनोतेः पौत्रं । तद्व्यतितरां पितुः सकाशात् ततं भवति । (*tokaṃ iti putraḥ sa hi nityaṃ pitrā vinayatā tudyate idaṃ kurvidaṃ mā kārṣiriti | tanayaṃ tanoteḥ pautraṃ | tadvyatitarāṃ pituḥ sakāśāt tataṃ bhavati |*) The father who gives instruction constantly lays down restrictions, "do this, do not do that", and so makes the son lead a life of discipline; hence such a son is called tokam. And because the grandson is the means of extending and growing the line, he is understood as tanaya. (Ni. 10-7)
+
+*raṇayanta*—रमयंति (*ramayaṃti*): they rejoice. शब्दयंत्येव ना (*śabdayaṃtyeva nā*): or they make a sound that signifies joy. On the basis of the root meaning "delightful", the word raṇa is also a synonym of battle. When the devas gather together and fight, there is the joy that victory is assured, so the word suggests that even the battlefield is delightful.
+
+### Printed p. 407
+प्रति व एना नमसाहमेमि सूक्तेन भिक्षॆ सुमतिं तुराणां । रराणता मरुतो वेद्याभिर्नि हेळो धत्त वि मुचध्वमश्वान् । (*prati va enā namasāhamemi sūktena bhikṣè sumatiṃ turāṇāṃ | rarāṇatā maruto vedyābhirni heḷo dhatta vi mucadhvamaśvān |*) (Ṛ. Saṃ. 1-171-1)
+कृते चिदत्र मरुतो रणंतानवद्रासः शुचयः पावकाः । प्र नोऽवत सुमतिभिर्यजत्राः प्र वाजेभिस्तिरत पुष्यसे नः ॥ (*kṛte cidatra maruto raṇaṃtānavadrāsaḥ śucayaḥ pāvakāḥ | pra no 'vata sumatibhiryajatrāḥ pra vājebhistirata puṣyase naḥ ‖*) (Ṛ. Saṃ. 7-57-5)
+In Ṛks such as these the word is used to indicate a sound of joy. Likewise in the present Ṛk it means that they made a sound of joy while reciting the sāmans such as the Rathantara.
+
+*āśuṣāṇāḥ*—आशु शीघ्रं संभक्तारः । वाय्वादेरपि शीघ्रं संभक्तार इत्यर्थः । (*āśu śīghraṃ saṃbhaktāraḥ | vāyvāderapi śīghraṃ saṃbhaktāra ityarthaḥ |*) The meaning: they swiftly join with wind and the like and spread as vapour.
+
+##### Grammar
+
+- कथा — किम् शब्दात् । थाहेत् च छंदसि (ता सू. ५-३-२६) इति प्रकारार्थे था प्रत्ययः । प्राग्विशो विभक्तिः इति तस्य विभक्तिसंज्ञात्वात् किमःकः इति किम् शब्दस्य कादेशः । **NOTE**
+- शुचयंतः — शुचिर् पूतीभावे धातुः । इगुपधात्‌कित् (उ. सू. ४-५१९) इति इन् प्रत्ययः । कित्वविधानात् गुणो न भवति । शुचिं दीप्तिं करोति इति शुचयति तत्करोति तदाचष्टॆ इति वचनात् णिच् । इष्टवद्भावात् इकारस्य लोपः । णिजंतात् लटः शत्रादेशः । णिच् स्वरः अवशिष्यते । प्रथमाबहुवचनांतरूपम् ।
+- आयोः — इण् गत् धातुः । छंदसीणः (उ. सू. १-२) इति उण् प्रत्ययः । अचोञ्णति इति वृद्धिः । आयादेशः । प्रत्ययस्वरेण अंतोदात्तं भवति । कर्तृकर्मणोः कृति (पा सू. २-३-६५) इति कर्मणि षष्ठी आगता ।
+- वदाशुः — दातृ दाने धातुः । छंदसिलुज् लज् लिटः इति उसादेशः । धातोः द्वित्वादि । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- वाजेभिः — बहुलं छंदसि इति भिसः ऐस् भावविकल्पात् बहुवचनेझल्येत् इति एत्वम् ।
+
+### Printed p. 408
+- आशुषाणाः — अशू व्याप्तौ धातुः । तस्मात् लटि आगते लिटः कानज्वा (पा. सू. ३-२-१०६) इति कानचादेशः । व्यत्ययो बहुलं इति उ प्रत्ययः । सिच् इति द्वे विकरणे भवतः । धातोः द्वित्वम् । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । अथवा आज् उपसर्गः । शुष शोषणे धातुः । अंतर्भावितण्यर्थकः धातुः । तस्मात् लटि आगते तस्य शानच् । बहुलं छंदसि इति शपः लुक् । रूपं पूर्ववत् भवति । अथवा आशु शब्दे उपपदे सति षण संभक्तौ इति धातोः कर्मणि अण् प्रत्ययः । अत उपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- तनये — तनु विस्तारे धातुः । वलिमलितनिभ्यः कयन् (उ. सू. ४-५३९) इति कयन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । सप्तमीएकवचनांतरूपम् ।
+- दधानाः — डुधाण् धारणपोषणयोः धातुः । लटः शानचादेशः । श्लौं इति धातोः द्वित्वम् । अभ्यस्तानामादिः इति आद्युदात्तस्वरः भवति ।
+- सामन् — सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः (सप्तमी) लुक् । नजिसंबुद्धोः इति न लोपः न भवति ।
+- रणयंत — रण शब्दे धातुः । हेतुमतिच इति णिच् । लज् प्रथमपुरुषबहुवचनांतरूपम् । बहुलं छंदस्यमाज्‌योगेऽपि (पा. सू. ६-४-७५) इति अडागमः न भवति । यद्योगात् निघातस्वरो न भवति । णिच् स्वरः अवशिष्यते ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बोधा॑ मे अ॒स्य वच॑सो यविष्ठ॒ुं मंहि॑ष्ठस्य॒ प्रभृ॑तस्य स्वधावः।  
+> पीय॑ति त्वो॒ अनु॑ त्वो गृणाति वं॒दारु॑स्ते त॒न्वं॑ वंदे  
+> अग्ने ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बोध । मे । अस्य । वचसः । यविष्ठ । मंहिष्ठस्य । प्रभृतस्य । स्वधावः ।
+
+### Printed p. 409
+
+> पीयति । त्वः । अनु । त्वः । गृणाति । वंदारुः । ते । तन्नं । वंदे । अग्ने ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतम हे स्वधावो हविर्लक्षणान्नेन तद्वन्नग्ने मे मदीयस्य
+> मुंहिष्ठ स्यातिशयेन पूजनीयस्य प्रभृतस्य प्रकर्षण संपादितस्यास्येदानीं क्रियमाणस्य वचसः स्तुतिरूपस्य वचनस्य ॥ कर्मणि षष्ठी ॥ उक्तलक्षणं वचो बोध ।
+> बुध्यस्व । स्तुतो भवेत्यर्थः । हे अग्ने लोके त्वः । अत्र यास्कस्तो नेम इत्यर्थस्यॆत्युक्तैतदेवोदाजहार । नि. ३-२० । एको जनः पीयति । वधकर्म्यतत् । हिनस्ति ।
+> यज्ञादिना न पूजयतीत्यर्थः । त्व एकोऽनु गृणाति । अनुकूलमुच्चारयति ।
+> तयोर्मध्यॆ हे अग्ने वंदारुर्वंदनशीलोऽहं ते तव तन्नं तनुं तव मूर्तिं
+> वंदे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+O Yaviṣṭha, youngest; O Svadhāvan, possessing food in the form of the oblation; O Agni: of this speech of mine (mama), most worthy of worship (मंहिष्ठस्य (*maṃhiṣṭhasya*)), well brought forth (प्रभृतस्य (*prabhṛtasya*)) with great effort, now being made, the speech consisting of praise, बोध (*bodha*): understand it, that is, be praised. The genitive is in the sense of the object. O Agni, in the world एको जनः पीयति (*eko janaḥ pīyati*): one person पीयति (*pīyati*) harms, does not honour you with sacrifice and the like. The other (tvaḥ), one person, अनु गृणाति (*anu gṛṇāti*), utters words favourable to you. Between these two, O Agni, I, who am given to worship (vandāru), वंदे (*vaṃde*) bow to your body (tanvam), your form. Sāyaṇa says that Yāska cites this in this connection (Ni. 3-20), and he calls pīyati a word of killing. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O Agni, who are exceedingly young
+- स्वधावः (*svadhāvaḥ*)—who possess food in the form of the oblation
+- मे (*me*)—my
+- मंहिष्ठस्य (*maṃhiṣṭhasya*)—most worthy of worship
+- प्रभृतस्य (*prabhṛtasya*)—obtained with exceeding reverence
+- अस्य वचसः (*asya vacasaḥ*)—this speech in the form of praise
+- बोध (*bodha*)—understand and accept (it)
+- त्वः (*tvaḥ*)—some people (in the world)
+- पीयति (*pīyati*)—neglect (you, not performing sacrifices and the like)
+- त्वः (*tvaḥ*)—others
+- अनुगृणाति (*anugṛṇāti*)—praise (you, with sacrifices and the like, in the proper way)
+- अग्ने (*agne*)—O Agni (among them)
+- वंदारुः (*vaṃdāruḥ*)—I who worship you
+- ते (*te*)—your
+- तन्वं (*tanvaṃ*)—form
+- वंदे (*vaṃde*)—I praise and extol
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are exceedingly young and possess food in the form of the oblation, accept and approve this word of praise of mine, most worthy of worship and made with exceeding reverence. In the world some neglect you, and others praise you. But I alone worship you, and praise and extol your form.
+
+##### Printed English
+
+Youthful ( Agni ), to whom oblations are due, appreciate this my
+reverential and earnest praise: one men reviles (you), another propitiates
+(you); I, your worshipper, glorify your person.
+
+### Printed p. 410
+
+##### विशेषविषयगळु (Special Topics)
+
+*vandāruḥ*—वंदनशीलः अहं (*vaṃdanaśīlaḥ ahaṃ*): "I, whose nature is to worship you", the praiser says of himself. Except in this one place, elsewhere the word vandāru is used only as a synonym of "praise". For example:
+क उ श्रवत्कृतमो यज्ञियानां वंदारु देवः कतमो जुषाते । कस्येमां देवीममृतेषु प्रेष्ठां हृदि श्रेषाम सुष्टुतिं सुहव्यां (*ka u śravatkṛtamo yajñiyānāṃ vaṃdāru devaḥ katamo juṣāte | kasyemāṃ devīmamṛteṣu preṣṭhāṃ hṛdi śreṣāma suṣṭutiṃ suhavyāṃ*) (Ṛ. Saṃ. 4-43-1)
+In Ṛks such as this, vandāru is understood as "praise that is given to homage": वंदनशीलं स्तोत्रं (*vaṃdanaśīlaṃ stotraṃ*).
+
+*tanvam*—तनुं तव मूर्तिं वंदे (*tanuṃ tava mūrtiṃ vaṃde*): "I bow to your form", the worshipper says of himself. What kind of form belongs to the devas, and which view in the Ṛk Saṃhitā has support among such opinions as पुरुषविधाः स्युरित्येकं (*puruṣavidhāḥ syurityekaṃ*) (Ni. 7-6): this has been discussed in the introductory section.
+
+##### Grammar
+
+- बोध — बुध अवगमने धातुः । भ्वादिः । लोट् मध्यमपुरुषएकवचने सिपः हि आदेशे आगते अतो हेः इति तस्य लुक् । द्व्यचोतस्तिजः (पा. सू. ६-२-१३५) इति संहितायां दीर्घो भवति ।
+- वचसः — वच परिभाषणे धातुः । औणादिकः असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । कर्तृकर्मणोः कृति (पा. सू. २-३-६४) इति कर्मणि षष्ठी विभक्तिः आगता ।
+- यविष्ठ — अतिशयेन युवा यविष्ठः । अतिशयार्थे इष्टन् प्रत्ययः । स्कूलदूरयु (पा. सू. ६-४-१५६) इति यणादेः (वन्) लोपः । पूर्वस्य उकारस्य गुणः । अवादेशः । संबुद्धौ आमंत्रितस्य च इति निघातस्वरो भवति । **NOTE**
+- मंहिष्ठस्य — महि वृद्धौ धातुः । कर्तरि तृच् प्रत्ययः । अतिशयेन मंहिता मंहिष्ठः । तुश्चंदसि (पा. सू. ५-३-५९) इति तृजंतात् इष्टन् प्रत्ययः । तुरिष्टेमेयःसु (पा.. सू. ६-४-१५४) इति इष्टन् परे तृचः लोपः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति ।
+- प्रभृतस्य — भृञ् भरणे धातुः । कर्मणि निष्ठा प्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (प्र) प्रकृतिस्वरो भवति । षष्ठीएकवचनांतरूपम् ।
+
 ---
 
-**Progress note:** Done through printed p. 404. pp. 399-404 (batch API)
+**Progress note:** Done through printed p. 410. pp. 405-
