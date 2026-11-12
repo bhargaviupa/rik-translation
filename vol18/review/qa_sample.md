@@ -8,9 +8,9 @@
 | page | finding | status |
 |---|---|---|
 | g318 | the block under "Sāyaṇa-bhāṣya" is the Saṃhitā of the next Ṛk (Ṛk 3), the bhāṣya of Ṛk 2 is missing there | **checked, real; systematic**: in 6 windows the model counted the `[[bN]]` blocks one off, so Saṃhitā/Pada/bhāṣya text stands under the label of another section: w0162 (pp. 162–167), w0223 (223–228), w0316 (316–321), w0371 (371–376), w0445 (445–450), w0729 (729–734). The text is all there; labels and positions are wrong. Found by script afterwards (`convert.label_mismatches`), no earlier gate saw it. **Not repaired** (see STATUS). New gate in `batch.py check` now stops such a window. |
-| g177 | Gist: "O Maruts, you are like the wind in speed, and you are birds" — the bhāṣya's vocative is the birds ("O you birds, like the Maruts in speed") | reported, not repaired |
-| s736 | a quoted verse (Bṛ. De.) is cut to "… ādarāt ‖ **NOTE**" though the Kannada is readable except one word | reported, not repaired |
-| s783 | Gist gives the son-role to the sacrificer instead of Agni ("you being the son…") | reported, not repaired |
+| g177 | Gist: "O Maruts, you are like the wind in speed, and you are birds" — the bhāṣya's vocative is the birds ("O you birds, like the Maruts in speed") | **reworded + NOTE (Nov 12)**: the Kannada Pratipadārtha has "O Maruts", so not certainly an error; the editor decides |
+| s736 | a quoted verse (Bṛ. De.) is cut to "… ādarāt ‖ **NOTE**" though the Kannada is readable except one word | **repaired (Nov 12)**: the full verse given, NOTE on the printed word |
+| s783 | Gist gives the son-role to the sacrificer instead of Agni ("you being the son…") | **repaired (Nov 12)** |
 
 ## MINOR (by kind)
 - Translator remarks left in the text (rule 2): s100 (Gist: "The explanation of द्यौः begins at the end of the block, which breaks off here."), s481 (bracketed "(printed सूक्तद …)").

@@ -6242,7 +6242,7 @@ From such verses it is made known that Śambara, hiding in the hills and mountai
 
 ##### Gist of the bhāṣya
 
-Now the hawk is praised with this verse and those that follow. O Maruts, you are like the wind in speed, and you are birds. May that well-known hawk, the bird called Śyena, be pre-eminent in strength over the other birds, over you. Further, may the Śyena, swift in flight, be pre-eminent over the hawks of its own kind, whose going is praiseworthy. The Suparṇa, the one of fair flight, when…
+Now the hawk is praised with this verse and those that follow. O Maruts — (addressed as) birds that are like the wind in speed **NOTE** — may that well-known hawk, the bird called Śyena, be pre-eminent in strength over the other birds, over you. Further, may the Śyena, swift in flight, be pre-eminent over the hawks of its own kind, whose going is praiseworthy. The Suparṇa, the one of fair flight, when…
 
 ### Printed p. 178
 
@@ -27604,7 +27604,7 @@ Concerning the matter described in the first Ṛk of this sūkta, the commentato
 स वृशो वार्शसाम्मा तं कुमारं समजीवयत् । एवमाख्यायि तत्रैव पुनरन्यदुदीरितं ॥ (*sa vṛśo vārśasāmmā taṃ kumāraṃ samajīvayat | evamākhyāyi tatraiva punaranyadudīritaṃ ‖*)
 यत इष्टाकवो रागाद्दंतरामृषिमब्रुवन् । तस्मात्तेषां गृहेष्वग्नेस्तेजो निर्गतमेषु च ॥ (*yata iṣṭākavo rāgāddaṃtarāmṛṣimabruvan | tasmātteṣāṃ gṛheṣvagnestejo nirgatameṣu ca ‖*)
 गृहे पाकादयो नासन् तत्कारणमचिंतयन् । वृशं कुमारहंतारं यदवोचाम तेन नः ॥ (*gṛhe pākādayo nāsan tatkāraṇamaciṃtayan | vṛśaṃ kumārahaṃtāraṃ yadavocāma tena naḥ ‖*)
-अपाक्रमद्धरो वह्नेराह्वयाम (*apākramaddharo vahnerāhvayāma*) … *ādarāt ‖* **NOTE**
+अपाक्रमद्धरो वह्नेराह्वयाम वृशं वयं । इति संचिंत्य तम्मिमाह्वयामासुरादरात् ॥ (*apākramaddharo vahnerāhvayāma vṛśaṃ vayaṃ | iti saṃciṃtya tammimāhvayāmāsurādarāt ‖*) **NOTE**
 समागत्य ततः शीघ्रं तेषामग्निर्हरो भवेत् । इति वार्शेन साम्ना सावकामयत पूर्ववत् ॥ (*samāgatya tataḥ śīghraṃ teṣāmagnirharo bhavet | iti vārśena sāmnā sāvakāmayata pūrvavat ‖*)
 एवं गायन् स ऋषिब्रह्महत्यां भार्याजातां त्रसदस्योर्नृपस्य । पिताचवेषां हर आदाय चाग्नेर्गृहान्नीत्वा कशिप् स्थापयंतीं ॥ (*evaṃ gāyan sa ṛṣibrahmahatyāṃ bhāryājātāṃ trasadasyornṛpasya | pitācaveṣāṃ hara ādāya cāgnergṛhānnītvā kaśip sthāpayaṃtīṃ ‖*)
 
@@ -29179,7 +29179,7 @@ O Agni, the sacrificers who performed sacrifice in former times too worshipped y
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni, अव स्पृधि (*ava spṛdhi*): carry across; योधि (*yodhi*): separate from sin. The son, that is, the sacrificer who stands in the place of a son to you, knowing (विद्वान् (*vidvān*)) you as father, as a father-like one, ऊहे (*ūhe*) carries the oblation; do so to him. Thus the seer speaks of himself indirectly. For (the verse) will say: "Havyavāḷ agnir ajaraḥ pitā naḥ" (Ṛgve. 5-4-2). **NOTE** Or else, the relation of father and son is reversed: protect and separate from sin the sacrificer who, as a father-like protector, is the one to be protected always like a son; "you become the son who serves you" (Ṛgve. 2-1-9) is the Śruti. O knowing (चिकित्वः (*cikitvaḥ*)) Agni, when do you look upon us (अभि चक्षसे (*abhi cakṣase*))? And when, as ऋतचित् (*ṛtacit*), the awakener of the sacrifice or of water, do you impel (यातयासे (*yātayāse*)) us along the good path?
+Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni, अव स्पृधि (*ava spṛdhi*): carry across; योधि (*yodhi*): separate from sin. The son, that is, the sacrificer who stands in the place of a son to you, knowing (विद्वान् (*vidvān*)) you as father, as a father-like one, ऊहे (*ūhe*) carries the oblation; do so to him. Thus the seer speaks of himself indirectly. For (the verse) will say: "Havyavāḷ agnir ajaraḥ pitā naḥ" (Ṛgve. 5-4-2). **NOTE** Or else, the relation of father and son is reversed: protect and separate from sin the sacrificer, the father-like protector — you (Agni), who as a son are always to be protected like a son; "you become a son to him who has served you" (Ṛgve. 2-1-9) is the Śruti. O knowing (चिकित्वः (*cikitvaḥ*)) Agni, when do you look upon us (अभि चक्षसे (*abhi cakṣase*))? And when, as ऋतचित् (*ṛtacit*), the awakener of the sacrifice or of water, do you impel (यातयासे (*yātayāse*)) us along the good path?
 
 ### Printed p. 784
 
