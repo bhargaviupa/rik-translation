@@ -9128,6 +9128,125 @@ the same prefix joins the root *ṛ* and the meaning is परस्परं �
 
 अपिष्ठितं (*apiṣṭhitaṃ*)—व्याप्य वर्तमानं (*vyāpya vartamānaṃ*): Agni who pervades everywhere.
 
+### Printed p. 374
+
+The word श्वांतं (*śvāṃtaṃ*) stands for श्रांतं (*śrāṃtaṃ*) or शांतं (*śāṃtaṃ*): the sacrificer who is tired from the sacrificial acts, or who has become serene in mind because he has performed his duty. The word श्वांत (*śvāṃta*) may also mean "grown, prospered".
+
+In the Ṛk अधा गाव उपमातिं कनाया अनु श्वांतस्य कस्य चित्परेयुः श्रुधि त्वं सुद्रविणो नस्त्वं याळाश्वघ्नस्य वावृथे सूनृताभिः ॥ (*adhā gāva upamātiṃ kanāyā anu śvāṃtasya kasya citpareyuḥ śrudhi tvaṃ sudraviṇo nastvaṃ yāḷāśvaghnasya vāvṛthe sūnṛtābhiḥ ‖*) (Ṛ. Saṃ. 10-61-21) two meanings are given for the word श्वांतस्य (*śvāṃtasya*): प्रवृद्धस्य (*pravṛddhasya*) and श्रांतस्य (*śrāṃtasya*). The same can be said in the present Ṛk.
+
+उशतीः (*uśatīḥ*) means *kāmayamānāḥ*: streams of ghee, or hymns of praise, that desire to reach Agni.
+
+नांद्ये (*nāṃdye*) means नंदनीये कर्मणि (*naṃdanīye karmaṇi*): because of a rite that gives joy. Although the rite brings fatigue to the body, it brings delight to the mind; as it is said in the Ṛk , त्रिर्वतिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतं । त्रिर्नान्प्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतं ॥ (*, trirvatiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣataṃ | trirnānpyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvataṃ ‖*) (Ṛ. Saṃ. 1-34-4), where too the word नांद्य (*nāṃdya*) is explained as नंदनीयं (*naṃdanīyaṃ*), संतोषकरं (*saṃtoṣakaraṃ*). The meaning is: a rite that gives the fruit that brings rain.
+
+अभिमृशते (*abhimṛśate*) means अभिमर्शनं करोति (*abhimarśanaṃ karoti*), "as in the world a teacher and the like touches a tired pupil and the like". Just as a teacher or a father lovingly touches a tired, that is weary, pupil or son, so Agni too lovingly touches the rite that gives joy.
+
+##### Grammar
+
+- उपस्थायम्— उपस्थाय उपस्थायम् । ष्ठा गतिनिवृत्तोः इति धातुः । अभीक्ष्णेणमुल् (पा सू. ३-४-२२) इति णमुल् । आतो युक्‌चिण् कृतोः (पा. सू. ७-३-३३) इति धातोर्युकागमः । णमुलि आम् अवशिष्यते । लित्त्वात् लिति (पा. सू ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 375
+
+- चरति—चर गतिभक्षणयोः इति धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातवैशः भवति । **NOTE**
+- समारत—ऋ गतौ इति धातुः । सम् उपसर्गपूर्वत्वात् समोगम्यच्छिभ्याम् (पा सू १-३-२९) इति आत्मनेपदी भवति । लज् प्रथमपुरुषएकवचने आरत इति रूपं भवति । यद्योगत्वात् निघातस्वरो न भवति । आडागमः । उदात्तत्वात् आद्युदात्तं भवति । उदात्तवति तिजंते परे तिजिचोदात्तवति (पा. सू. ८-१-७१) इति गतेः अनुदात्तस्वरो भवति ।
+- तत्सार—त्सर च्छद्मगत् धातुः । लिट् प्रथमपुरुषएकवचने तिपः णलादेशः । धातोः द्वित्वादि । अत उपधायाः (पा. सू ७-२-११६) इति धातूपधायाः वृद्धिः । तिजंतनिघातस्वरो भवति ।
+- युज्येभिः—युजिर् योगे इति धातुः । अर्हार्थे यत् प्रत्ययः । यतोऽनावः (पा. सू ६-१-२१३) इति आद्युदात्तस्वरो भवति । अस्मात् भिस् परे बहुलं छंदसि इति ऐस्भावविकल्पत्वात् बहुवचने झल्येत् इति एत्त्वम् ।
+- श्वांतम्—श्रांतम् इति रूपे जाते छांदसत्वेन रेफस्य वकारादेशो भवति ।
+- मृशते—मृष आमर्शने । धातुः तुदादिः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- मुदे—मुद हर्षे इति धातुः । क्विप् च इति क्विप् प्रत्ययः । चतुर्थीएकवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- गच्छंति—गम्‌ल्य गत् धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो अवशिष्यते ।
+- उशतीः—वश कांतौ इति धातुः । अदादिः । लटः शत्रादेशः । अदिप्रभृतिभ्यः शपः इति शपो लुक् । सार्वधातुकमपित् इति प्रत्ययस्य जित्त्वात् ग्रहिज्यावयि— (पा. सू. ६ १-१६) इति धातोः संप्रसारणम् । स्त्रीत्वे उगितश्च (पा. सू. ४-१-६) इति जीप् । नुम्‌रहितस्य शतृः परे जीप् आगतत्वात् शतुरनुमोनद्य-- (पा. सू. ६-१-१७३) इति उदात्तं भवति । अस्मात् जस् परे सुपां सुलुक्— इति पूर्वसवर्णदीर्घः ।
+
+### Printed p. 376
+
+- अपिष्ठितम्—ष्ठा गतिनिवृत्तौ । धातुः । धात्वादेःषःसः इति आदेः सत्वम् । अस्मात् क्त प्रत्ययः । द्यति स्यति— (पा. सू. ७-४-४०) इति धातोः इत्वम् । उपसर्गा-त्‌सुनोति— (पा सू. ८-३-६५) इति धातुसकारस्य षत्वम् । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॑ मृ॒गो अप्प्यो॑ वन॒र्गुरु॑ पत्व॒च्यु॑प॒मस्यां॒ नि धा॑यि ।  
+> व्य॑ब्रवीद्व॒युना॒ मर्त्ये॑भ्यो॒ग्निर्वि॒द्वा ऋ॑त॒चिद्धि स॒त्यः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईं । मृगः । अप्यः । वनगुर्गुः । उप । त्वचि । उपमस्यां । नि । धायि ।  
+> वि । अब्रवीत् । वयुना । मर्त्येभ्यः । अग्निः । विद्वान् । ऋतचित् । हि । सत्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स ईं स एवाग्निरुपमस्यामुपमायामुपमास्पदायां त्वच्योषध्यादिभिराच्छादितायां वेद्यामुप नि धायि । उपस्थाप्यत उत्तरत्रोपभोगाय । कीदृशः सः ।
+> मृगो मार्जयितान्वेषणशीलो वा । मृगो मार्ष्टेर्गतिकर्मणः । नि. १-२० । इति
+> यास्कः । अस्य आप्यो गंतव्यः । अपः कर्म तत्र साधुर्वा । वनर्गुर्वनगामि ॥ ऋच्च
+> तेर्गमेश्वेदं रूपं । यद्वा । गमेरेव । उपपदस्य रुडागमश्चांदसः ॥ एवंभूतोग्निर्मर्त्येभ्यो मरणधर्मेभ्यो यजमानादिरूपेभ्यो वयुनानि प्रज्ञा
+> नान्यनुष्ठेयज्ञानानि व्यब्रवीत् । विशेषेण ब्रवीति । उपदिशति । वयुनमिति प्रज्ञानाम वयुनमभिख्यॆति तन्नामसु पाठात् । ईदृक् सामर्थ्यमस्तीति दर्शयति । आयमग्निर्विद्वान् सर्वज्ञ ऋतचिद्यज्ञ स्कोदकस्य ना चेतिता ज्ञाता सत्यः । सत् क्रियमाणं कर्म । तत्र साधुः । सत्तु भवो वा । सत् फलं तवर्हतीति वा । सम्यक्फलप्रद
+> इत्यर्थः । यस्मादयमुक्तसामर्थ्योपेतस्तस्मात्प्रज्योपदेशो युक्तः । हिशब्दः
+
+##### Gist of the bhāṣya
+
+That very Agni has been placed (नि धायि (*ni dhāyi*), i.e. set up for later enjoyment) on the altar (वेदि (*vedi*)) that is the "similitude" (उपमस्यां (*upamasyāṃ*), the object of comparison), covered in its skin (त्वचि (*tvaci*)) with herbs and the like. What is he like? मृगः (*mṛgaḥ*): the cleanser, or one given to searching. "मृगो मार्ष्टेर्गतिकर्मणः (*mṛgo mārṣṭergatikarmaṇaḥ*)", says Yāska (Ni. 1-20). *āpyaḥ*: one to be approached; or अपः (*apaḥ*) is "rite", and he is excellent in it. वनर्गुः (*vanarguḥ*): one who goes into the forest; the form is from ऋ (*ṛ*) or from गम् (*gam*), and the *ruṭ* augment of the prior member is Vedic. Such an Agni has declared (व्यब्रवीत् (*vyabravīt*), taught specially) to mortals (मर्त्येभ्यः (*martyebhyaḥ*), sacrificers and others subject to death) the वयुनानि (*vayunāni*), that is, the kinds of knowledge to be put into practice; वयुन (*vayuna*) is a name of knowledge, since it is read in the lists of its names. He shows that he has this power: this Agni is विद्वान् (*vidvān*), all-knowing; ऋतचित् (*ṛtacit*), the knower of the sacrifice or of water; सत्यः (*satyaḥ*), good in the rite that is being performed, or born of the good, or worthy of the good fruit, that is, one who gives the fruit properly. Since he has the stated power, his instruction is fitting. The word हि (*hi*) (stands in the sense of) … (the block breaks off here).
+
+### Printed p. 377
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृगः (*mṛgaḥ*)—one skilled in searching
+- अप्यः (*apyaḥ*)—one who can be approached (easily), or one excellent in the rite
+- वनर्गुः (*vanarguḥ*)—one who moves about in the forest
+- स ईं (*sa īṃ*)—that same Agni
+- उपमस्यां (*upamasyāṃ*)—that serves as the model
+- त्वचि (*tvaci*)—on the altar that is like a skin bag
+- उप निधायि (*upa nidhāyi*)—has been established
+- विद्वान् (*vidvān*)—the all-knowing
+- ऋतचित् (*ṛtacit*)—one who experiences or knows the sacrifice
+- सत्यः (*satyaḥ*)—one of true nature, or one found among the good, or one worthy of the fruit
+- अग्निर्हि (*agnirhi*)—that same Agni
+- मर्त्येभ्यः (*martyebhyaḥ*)—to the human beings who are sacrificers
+- वयुना (*vayunā*)—the knowledge of duty (in performing the sacrifice)
+- व्यब्रवीत् (*vyabravīt*)—taught in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is skilled in searching, easily approached, and a wanderer in the forest, has been established on the altar that is like a skin bag and serves as the model. That same Agni, all-knowing, knower of the worthiness of the sacrifice, and true by nature, has taught in a special manner to human beings, the sacrificers, the knowledge of their duties in performing the sacrifice.
+
+##### Printed English
+
+He, the searcher, the accessible, the dweller in woods, has been placed (amidst the fuel), as in the similitude of (an enveloping) skin: the wise Agni, the appreciater of sacrifice, the veracious, has declared to mortals (the knowledge of) their religious duties.
+
+##### विशेषविषयगळु (Special Topics)
+
+मृगः (*mṛgaḥ*)—मृगो मार्षेर्गतिकर्मणः (*mṛgo mārṣergatikarmaṇaḥ*) (Ni. 1-20). Formed from the root मृज् (*mṛj*) in the sense of motion, and with नित्यं ह्यसौ गच्छति (*nityaṃ hyasau gacchati*) it gives the meaning "one who is constantly moving". Sāyaṇa explains अन्वेषण शीलो ना (*anveṣaṇa śīlo nā*) as one skilled in searching for his food, trees, creepers and the like. Therefore:
+
+वनगुरि (*vanaguri*)—वनगामी (*vanagāmī*): one who moves about in the forest. As described in Ṛks such as जामिः सिंधूनां भ्रातेव स्वस्रामिभ्यान्न राजा वनान्यत्ति । यद्वातजातो वना व्यस्थादग्निर्ह दाति रोमा पृथिव्याः ॥ (*jāmiḥ siṃdhūnāṃ bhrāteva svasrāmibhyānna rājā vanānyatti | yadvātajāto vanā vyasthādagnirha dāti romā pṛthivyāḥ ‖*) (Ṛ. Saṃ. 1-65-4), these two epithets show the nature of Agni, in that he moves in forests and overruns them. The Nirukta author,
+
+### Printed p. 378
+
+citing the Ṛk तनूत्यजीव तस्करा वनर्गू रशनाभिर्दशभिरभ्यधीतां । इयं ते अग्ने नव्यसी मनीषा युक्त्वा रथं न शुचयद्भिरंगैः । (*tanūtyajīva taskarā vanargū raśanābhirdaśabhirabhyadhītāṃ | iyaṃ te agne navyasī manīṣā yuktvā rathaṃ na śucayadbhiraṃgaiḥ |*) (Ṛ. Saṃ. 10-4-6), explains the meaning of this word, used at the time of praising Agni: वनर्गू वनगामिनौ (*vanargū vanagāminau*) (the two arms that churn the fire) (Ni. 3-14).
+
+स ईं (*sa īṃ*)—स एवाग्निरूपं (*sa evāgnirūpaṃ*): it is in the form of a determination. The word ईं (*īṃ*) has no separate meaning.
+
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पद पूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति । (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti pada pūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti |*) (Ni. 1-9). This Nirukta commentary runs: अन्यैरेव पदैर्विवक्षितेऽर्थे समाप्ते सति ये शब्दा ईमित्यादयः प्रयुक्तास्ते शब्दा अमिताक्षरेषु छंडोराहित्येन परिमिताक्षररहितेषु ब्राह्मणादिवाक्येषु वाक्यपूरणार्था द्रष्टव्याः । (*anyaireva padairvivakṣite 'rthe samāpte sati ye śabdā īmityādayaḥ prayuktāste śabdā amitākṣareṣu chaṃḍorāhityena parimitākṣararahiteṣu brāhmaṇādivākyeṣu vākyapūraṇārthā draṣṭavyāḥ |*). In Brāhmaṇa and other similar sentences, which are not bound by metres and have no fixed number of syllables, the word ईं (*īṃ*) is used merely to fill out the sentence. And मिताक्षरेषु छंदोयुक्तेषु ग्रंथेषु पादपूरणार्थाः । ते च कमीमित्यादयः । (*mitākṣareṣu chaṃdoyukteṣu graṃtheṣu pādapūraṇārthāḥ | te ca kamīmityādayaḥ |*): in Ṛks that are subject to the rules of metre and have a fixed number of syllables, and in similar sentences, they are used to fill out the pāda. Thus he has explained the use of ईं (*īṃ*) and the like.
+
+ऋतचित् (*ṛtacit*)—यज्ञस्य उदकस्य वा चेतिता ज्ञाता (*yajñasya udakasya vā cetitā jñātā*): one who knows the sacrifice or water. This epithet has been explained earlier.
+
+वयुना (*vayunā*)—वयुनमिति प्रज्ञा नाम (*vayunamiti prajñā nāma*). The special points about the word वयुन (*vayuna*) have been given earlier with examples.
+
+अग्निर्हि वयुना व्यब्रवीत् (*agnirhi vayunā vyabravīt*)—Agni announced (taught) the knowledge of duty.
+
+As in sentences such as अथास्य हस्तं गृह्णाति । इंद्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तन्सावित्येते । (*athāsya hastaṃ gṛhṇāti | iṃdrasya brahmacāryasyagnirācāryastavāhamācāryastansāvityete |*) (Śa. Prā. 11-5-4-2), where Agni is praised as the teacher (the Kannada prints आचार (*ācāra*) "conduct", probably for *ācārya*) and all knowledge of duties is said to have been taught by him, here too that matter is stated. **NOTE**
+
+### Printed p. 379
+
+##### Grammar
+
+- मृगः—मृजूष् शुद्धौ । धातुः । इह गत्यर्थे प्रयुक्तः । अस्मात् मृगशब्दः जातः । इदं यास्केनापि मृगो मार्ष्टेर्गतिकर्मणः (सिरु. १-२०) इत्युक्तम् । क प्रत्ययः । व्यत्ययेन कुत्वम् । **NOTE**
+- अप्यः—अप्सु साधुः अप्य- तत्रसाधुः इति यत् प्रत्ययः । अथवा आपल् व्याप्तौ धातुः । अस्मात् अर्हार्थे यत् प्रत्ययः । छांदसत्वेन धातोः ह्रस्वः । यतोऽनावः (पा. सू. ६-१-२३) इति आद्युदात्तस्वरो भवति ।
+- वनर्गुः—वनं गच्छतीति वनर्गुः । ऋधातुः गम्‌ल्य धातुः । एताभ्यां औणादिकप्रत्ययेन रूपसिद्धिर्भवति । अथवा केवलं गम्‌ल्य धातुः । छंदसत्वेन उपपदस्य वनशब्दस्य रुडागमो भवति । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- त्वचि—सप्तमीएकवचनांतरूपम् । सावेकाचः - (पा. सू. ६-१-१८) इति विभक्तेः उदात्तस्वरो भवति ।
+- धायी—डुधाञ् धारणपोषणयोः धातुः । छंदसत्वेन कर्मणि उज् । प्रथमपुरुषएकवचने तप्रत्ययः । चिण्‌भावकर्मणोः (पा. सू. ३-१-६६) इति च्लेः चिणादेशः । आतो युक् चिण्‌कृतोः (पा. सू. ७-३-३३) इति धातोर्युकागमः । चिणो लुक् (पा. सू. ६-४-१०५) इति तशब्दस्य लुक् । बहुलं छंदस्यमाज्‌योगेऽपि (पा. सू. ६-२-२५) इति अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- अब्रवीत्—ब्रूत् व्यक्तायां वाचि । धातुः । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुषएकवचने तिप् । इकारलोपः । अदिप्रभृतिभ्यःशपः इति शपो लुक् । ब्रुव ईट् (पा. सू. ३-३.९३) इति प्रत्ययस्य ईटागमः । प्रत्ययं निमित्तीकृत्य धातोरिको गुणः, आवादेशः । अंगस्य अडागमः । तिजंतनिघातस्वरो भवति ।
+- विद्वान्—विद ज्ञाने धातुः । लटः शत्रु आगते विदेः शतुर्वसुः (पा. सू. ७-१-३६) इति तस्य वसुरादेशः । प्रथमाविभक्तिएकवचने निद्वान् इति रूपं भवति । प्रत्ययस्वरेण अकार उदात्तो भवति । **NOTE**
+- ऋतचित्—चिती संज्ञाने धातुः । क्विप्‌च इति क्विप् प्रत्ययः । ऋतं चेतति इति ऋतचित् । गतिकारकोपपदात्‌कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
+**Progress note:** Done through printed p. 379. pp. 374-379 (batch API)
