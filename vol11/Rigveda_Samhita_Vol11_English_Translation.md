@@ -8127,6 +8127,172 @@ In ṛks such as this, मायिनो दानवस्य माया (*m
 - क्रमते — क्रमु पादविक्षेपे धातुः । लट् प्रथमपुरुषएकवचनांतरूपं । तिइनिघातस्वरः भवति ।
 - दक्षिणावृतः — दक्षिणा इति आजंतः अव्ययः । आज् उपसर्गः । वृञ् वरणे धातुः । क्तप्रत्ययः । समासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
 
+### Printed p. 337
+
+##### Grammar
+
+- निंसतेः — णिसि चुंबने धातुः । इदितो नुम् धातोः इति नुमागमः । लट् प्रथमपुरुषबहुवचने झु प्रत्ययः । अदिप्रभृतिभ्यःशपः इति शपो लुक् । आत्मनेसदेष्टनतः (पा. सू. ७-१-५) इति झु प्रत्ययस्य अतादेशः । टेः एत्वम् । ह इत्यस्य संबंधात् यद्योगाच्च निघातस्वरो न भवति । अनुदात्तेत्तस्य परतो लसार्वधातुकस्यागमनात् तस्यानुदात्तत्वात् धातुस्वरः शिष्यते ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भीमृ॒तस्य॑ दो॒हना॑ अनूषत॒ योन्॑ दे॒वस्य॒ सद॑ने॒ परी॑वृताः ।  
+> अ॒पामु॒पस्थे॒ विभृ॑तो॒ यदाव॑स॒दध॑ स्व॒धा अ॑धय॒द्याभि॒रीय॑ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ईं । ऋतस्य । दोहनाः । अनूषत । योन् । देवस्य । सदने । परिवृताः ।  
+> अपां । उपस्थे । विभृतः । यत् । आ । अवसत् । अध । स्वधाः । अधयत् । याभिः ।  
+> ईयते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्योदकस्य दोहना धारा योनावुत्पत्तिस्थाने देवस्य सदने द्योतमानस्यादित्यस्य स्थाने परीवृतास्तद्रश्मिभिः परितो व्याप्ताः सत्योऽभ्यनूषत । अभिनवा
+> भवंति । अभवंत्येव स्तूयंते ना । कदेत्यत आह । यद्यदासामुपस्थ उदकानामुत्संगेऽंतर्विभृतो विशेषेण ताभिर्धार्यमाणिः सन्नावसत् आक्रम्य निवसत्ययमग्निः तदानीमित्यर्थः । अधाधुना स्वधा अमृतोपमा आपोऽधयत् । पिबति सर्वो
+> लोकः । ता विशेष्यंते । याभिः सहेयतेऽयमग्निः संगच्छते वा भूमिं ता अधयत् । विद्युदात्मनोदकानि जगत्पाययत इत्यग्नेः स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+ऋतस्य (*ṛtasya*) means "of water"; दोहना (*dohanā*) are the streams. They are in *yonau*, the place of origin, which is the देवस्य सदने (*devasya sadane*), the abode of the shining Āditya; परीवृताः (*parīvṛtāḥ*) means pervaded on all sides by his rays. Thus enveloped they *abhyanūṣata*, that is, they become fresh (अभिनवा भवंति (*abhinavā bhavaṃti*)); they do not merely become new, they are praised. When? "When" Agni, held within the lap (उपस्थे (*upasthe*)) of the waters, specially borne by them, comes to dwell in them (आवसत् (*āvasat*): having entered, he abides), "then" is the meaning. अध (*adha*) means "now". स्वधाः (*svadhāḥ*) are the waters, nectar-like; अधयत् (*adhayat*): the whole world drinks them. The waters are further specified: those with which this Agni goes or unites (ईयते (*īyate*)), going to the earth, those the world drinks. The praise of Agni is that, as lightning, he makes the world drink the waters.
+
+### Printed p. 338
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- यत् (*yat*)—when
+- अपां उपस्थे (*apāṃ upasthe*)—in the midst of the waters
+- विभृतः (*vibhṛtaḥ*)—(by them) borne with special regard
+- आ अवसत् (*ā avasat*)—(having occupied them) abides, (then)
+- ऋतस्य (*ṛtasya*)—of water
+- दोहनाः (*dohanāḥ*)—the streams
+- *yonau*—in (their) place of origin
+- देवस्य (*devasya*)—of the shining Āditya
+- सदने (*sadane*)—in the dwelling-place
+- परीवृताः (*parīvṛtāḥ*)—(by his rays) pervaded
+- अभि ईं अनूषत (*abhi īṃ anūṣata*)—become newly refined
+- अध (*adha*)—afterwards
+- याभिः (*yābhiḥ*)—with which waters
+- ईयते (*īyate*)—(Agni in the form of lightning) joins and unites
+- स्वधाः (*svadhāḥ*)—(such) nectar-like waters of rain
+- अधयत् (*adhayat*)—(the whole world) drinks
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni, borne by the waters with special regard, occupies them, then the streams of water, pervaded by his rays in the dwelling-place of Āditya, their place of origin, become freshly refined. Thereafter Agni, in the form of lightning, joins and unites with the waters. Immediately the whole world drinks the nectar-like water of rain.
+
+##### Printed English
+
+The drops of rain, enveloped (by the solar rays), are renewed in the dwelling of the divine (sun), their birth-place: when he, (Agni), abides cherished on the lap of the waters, then (the world) drinks the nectarous (rain). with which he, (as the lightning), associates.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the nature of the waters refined by the sun's rays is described, and also the nature of Agni, who is within the water in the form of cloud and who exists in the form of lightning.
+अपां उपस्थे (*apāṃ upasthe*)—उदकानामुत्संगे अंतः । (*udakānāmutsaṃge aṃtaḥ |*) The meaning is: within the water, in its midst.
+The author of the Nirukta, quoting the Ṛk
+अपामुपस्थे महिषा अग्नृभत विशो राजानमुप तस्थुर्ऋग्मियं । आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥ (*apāmupasthe mahiṣā agnṛbhata viśo rājānamupa tasthurṛgmiyaṃ | ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*) (Ṛ. Saṃ. 6-8-4)
+
+### Printed p. 339
+explains अपामुपस्थे (*apāmupasthe*) as महत्यंतरिक्षलोक आसीना । (*mahatyaṃtarikṣaloka āsīnā |*), that is, "situated in the middle of the atmosphere". Durgācārya, elaborating this, shows the purport: यत्रोपगम्य तिष्ठंत्यापः सोऽपामुपस्थः । (*yatropagamya tiṣṭhaṃtyāpaḥ so 'pāmupasthaḥ |*) अंतरिक्षलोकः तस्मिन्नपामुपस्थे । (*aṃtarikṣalokaḥ tasminnapāmupasthe |*) — in the navel of the atmosphere, where all the waters gather and stand.
+ऋतस्य (*ṛtasya*)—उदकस्य । (*udakasya |*) "Of water." Besides the meanings of the word ऋत (*ṛta*) given earlier, truth, sacrifice and so on, it also means water; so here this meaning is to be taken, in keeping with the context. The Nirukta authors include this word among the names of water such as अर्णः (*arṇaḥ*) and क्षोदः (*kṣodaḥ*) (Ni. 2-24), and afterwards, quoting the Ṛk
+रमध्वं मे वचसे सोम्याय ऋतावरीरुप मुहूर्तमेवैः । प्र सिंधुमच्छा बृहती मनीषावस्युरह्वे कुशिकस्य सूनुः ॥ (*ramadhvaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ | pra siṃdhumacchā bṛhatī manīṣāvasyurahve kuśikasya sūnuḥ ‖*) (Ṛ. Saṃ. 3-23-5)
+they have shown that the word ऋतावरी (*ṛtāvarī*) is the name of a river, because it is full of ऋत (*ṛta*), that is, of water.
+स्वधाः (*svadhāḥ*)—it is read among the names of water (Ni. 2-24) and among the names of food (Ni. 3-9). Here it is explained as nectar-like waters.
+
+##### Grammar
+
+- दोहनाः — दुह प्रपूरणे धातुः । ल्युट् प्रत्ययः । युवोरनाक् (पा. सू. ७-१-१) इति तस्य अनादेशः । तं निमित्तीकृत्य धातोर्लघूपधस्य पुगंतलघूपधस्यच इति गुणः । व्यत्ययेन प्रत्ययस्याद्युदात्तस्वरो भवति ।
+- अनूषत — णि स्तुत् धातुः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । छांदसो लुज् । आत्मनेपदेष्टनतः इति झु प्रत्ययस्य अतादेशः । क्लेः सिचादेशः । कुटादौ सम्मिलितत्वात् गाज्कुटादिभ्यः (पा. सू. १-२-१) इति सिचो जिद्वद्भावात् धातोरिको गुणो न भवति । छांदसेन सिच इडभावो धातोरुकारस्य दीर्घश्च भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- सदने — षद्ल्य विशरणगत्यवसादनेषु धातुः । अधिकरणार्थे ल्युट् प्रत्ययः । पूर्ववत् तस्य अनादेशः । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्योदात्तस्वरो भवति ।
+- परीवृताः — वृज् वरणे धातुः । कर्मणि निष्ठा इति क्त प्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (परि) प्रकृतिस्वरो भवति । अन्येषामपिदृश्यते (पा. सू. ६-३-१३७) इति पूर्वपदस्य दीर्घः ।
+
+### Printed p. 340
+- अपां — षष्ठीबहुवचनांतरूपम् । ऊडिदंपदा (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- उपस्थे — ष्ठा गतिनिवृत्तौ धातुः । आतश्चोपसर्गे (पा. सू. ३-१-१३६) इति क प्रत्ययः । आतो लोप इटि च (पा. सू. ६-४-६४) इति आकारलोपः । सप्तमीएकवचनांतरूपम् ।
+- विभृतः — भृञ् भरणे धातुः । कर्मणि क्त प्रत्ययः । गतिरनंतरः (पा. स. ६-४-४९) इति गतेः (वि) प्रकृतिस्वरो भवति ।
+- आवसत् — वस निवासे धातुः । छांदसो वर्तमानार्थे लज् । प्रथमपुरुषएकवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । अडागमस्योदात्तत्वाद् आद्युदात्तो भवति ।
+- अधयत् — धेट् पाने धातुः । लज् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । शप् विकरणम् । एचोयवा इति अयादेशः । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- ईयते — ईज् गत् धातुः दिवादिः श्यन् विकरणम् लट् प्रथमपुरुषएकवचनांतरूपम् । यद्वृत्तान्तित्यम् इति निघातप्रतिषेधो भवति । श्यन् नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युयू॑षतः॒ सव॑यसा॒ तदिद्वपुः॑ समा॒नमर्थं॑ वि॒तरि॑त्रता  ॒
+> मिथः ।  
+> आदीं॒ भगो॒ न हव्यः॒ सम॒स्मदा वोळ्हु॒र्न र॒श्मीन्तम॑यंस्त॒  ॑
+> सारथिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युयूषतः । सवयसा । तत् । इत् । वपुः । समानं । अर्थं । वितरित्रता । मिथः ।
+
+### Printed p. 341
+
+> आत् । ईं । भगः । न । हव्यः । सं । अस्मत् । आ । वोळ्हुः । न । रश्मीन् । सं । अयंस्त ।  
+> सारथिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवयसा समानवयस्क । वयःशब्देन सामर्थ्यं लक्ष्यते । समानसामर्थ्य
+> तदित्तदानीमेव यदा प्रवृद्यो भवति तदानीमेव समानमर्थं समानप्रयोजनं
+> निष्पत्तिं मिथः प्रत्येकं वितरित्रता भृशं तरंतौ होत्रद्वर्यू वपुरग्नेः शरीरं
+> युयूषतः । स्वस्वव्यापारेण मिश्रयितुमिच्छतः । प्रैषानंतरं याज्यादिपाठो
+> होतुर्व्यापारः वषट्कारानंतरं होमोऽध्वर्योरिति विभागः । अत्रेदमनुसंधेयं । सवयसा समानवयस्क मिथः प्रत्येकं समानप्रयोजनं सुखप्राप्तिं
+> वितरित्रता विशेषेण तरितुमिच्छंतौ ॥ तरतेर्यज् लुगंताच्छतरि दाधर्त्यादौ निपात्यते ।
+> द्विवचनस्याकारः ॥ जायापती तद्वपुस्तदेव परस्परं शरीरं युयूषतः मिश्रयितुमिच्छतः परस्परमालिंगत । तद्वदग्निं साकं होत्रद्वर्यू युयूषतः । आदीमनंतरमेव हव्य आहवनीयोऽग्निः सारथिः सरणशीलः सारथिवद्यज्ञात्मक रथस्य
+> निर्वाहको वा सन्नस्मदस्माकं संबंधिनो रश्मीन् रश्मिवदायता धृतधारा आ सर्वतः
+> समयंस्त । सम्यक् स्वीकरोति । तत्र दृष्टांतद्वयमुच्यते । भगो न सर्वैः
+> सेवनीय आदित्यः स यथा सर्वतः पूजामादत्ते तद्वत् । सारथी रथस्य यंता
+> वोढुर्वाहकसाश्वादे रश्मीन्न प्रतिग्रहानिन । तान्यथा स्वीकरोति तद्वयमग्निरपि
+> हवींषि समयंस्त ॥
+
+##### Gist of the bhāṣya
+
+सवयसा (*savayasā*) means "of the same age"; the word वयः (*vayaḥ*) here indicates capacity, so "of equal capacity". तदित् (*tadit*) means "just then", when he (Agni) becomes प्रवृद्यो (*pravṛdyo*) **NOTE**. Then the Hotṛ and the Adhvaryu, वितरित्रता (*vitaritratā*) (greatly accomplishing) each in turn the common object, the common aim, the completion, desire to unite वपुः (*vapuḥ*), Agni's body, each with his own function. The division is: after the Praiṣa, the recitation of the Yājyā and the rest is the Hotṛ's function; after the Vaṣaṭkāra the offering is the Adhvaryu's.
+Here this is to be borne in mind (another explanation): सवयसा (*savayasā*) are two of the same age, मिथः (*mithaḥ*) each in turn wishing to cross over specially, that is, to attain, the common aim, happiness (वितरित्रता (*vitaritratā*), formed from the root तरते (*tarate*) with yaṅ-luk and the śatṛ affix as in the dādharti group; the dual ending takes ā). They are husband and wife: तदिद्वपुः (*tadidvapuḥ*), each other's body, which they desire to unite, they embrace each other. Like them the Hotṛ and the Adhvaryu together desire Agni.
+आदीं (*ādīṃ*): immediately afterwards हव्यः (*havyaḥ*), the Āhavanīya fire, सारथिः (*sārathiḥ*), one who moves swiftly, or, like a charioteer, the conductor of the chariot that is the sacrifice, अस्मत् (*asmat*), ours, रश्मीन् (*raśmīn*), the extended streams of ghee, like reins, आ समयंस्त (*ā samayaṃsta*): takes in fully from all sides. Two illustrations are given: भगो न (*bhago na*), as Āditya, who is to be served by all, receives worship from every side; and as the charioteer, the driver of the chariot, takes the reins, the "pratigrahas", of the horse that draws it; as he takes them, so Agni too takes the oblations together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तदित् (*tadit*)—as soon as Agni is kindled
+- सवयसा (*savayasā*)—those of equal capacity
+- समानं अर्थं (*samānaṃ arthaṃ*)—(and) the one common aim of both
+- मिथः (*mithaḥ*)—each in turn, mutually
+- वितरित्रता (*vitaritratā*)—accomplishing with devotion and effort: the Hotṛ and Adhvaryu
+- [(or) सवयसा (*savayasā*)—those of the same age
+- समानं अर्थं (*samānaṃ arthaṃ*)—the one happiness common to both
+- मिथः (*mithaḥ*)—each in turn
+- वितरित्रता (*vitaritratā*)—those who accomplish it for themselves through loving acts: husband and wife]
+- वपुः (*vapuḥ*)—their bodies
+- युयूषतः (*yuyūṣataḥ*)—as they wish to unite (by embracing)
+- वपुः (*vapuḥ*)—Agni's body
+- युयूषतः (*yuyūṣataḥ*)—(by their, our, rites) they wish to unite
+- आदीं (*ādīṃ*)—immediately
+- हव्यः (*havyaḥ*)—Agni, worthy of the oblation
+- अस्मत् (*asmat*)—offered by us
+- रश्मीन् (*raśmīn*)—the streams of ghee spread out like rays
+- भगो न सं (*bhago na saṃ*)—as Āditya gathers and accepts (the worship of all)
+- सारथिः (*sārathiḥ*)—as the charioteer of the chariot
+
+### Printed p. 342
+- वोळ्हुः न (*voḷhuḥ na*)—as he gathers and holds together (the reins of) the horses that draw (the chariot)
+- आ समयंस्त (*ā samayaṃsta*)—gathers together and accepts
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Agni is kindled, the Hotṛ and Adhvaryu, who are of equal capacity and who each in turn accomplish with devotion and effort the one aim common to both, desire to unite Agni's body by their respective rites. Immediately, as Āditya gathers and accepts the worship of all, and as a charioteer draws together and holds the reins of the horses that draw the chariot, Agni, worthy of the oblation, gathers together and accepts the streams of ghee offered by us, spread out like rays.
+
+##### Printed English
+
+The two (priests, the Hotri and Adhwaryu), of equal honour, and alike assiduous, labouring mutually for a common object, combine the form of Agni ( with their respective functions ); whereupon he to whom the oblation is to be offered, collects the drops (cf clarified butter), as Bhaga (accepts the worship of all), or as a charioteer (gathers the reins of the horses) that draw (the car).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk states the nature of devotion to ritual action. Sāyaṇa has shown that two kinds of meaning are possible for the first half. First: *savayasā, samānaṃ arthaṃ mithaḥ vitaritratā* (the Hotṛ and Adhvaryu) वपुः युयूषतः । (*vapuḥ yuyūṣataḥ |*) — the Hotṛ and Adhvaryu desire to unite, that is, to serve, Agni through their respective rites. Second: as husband and wife desire to unite their bodies by embracing, so the Hotṛ and Adhvaryu unite their acts with Agni.
+सवयसा (*savayasā*)—if it is an epithet of the Hotṛ and Adhvaryu, the word वयः (*vayaḥ*) must here mean capacity. What is the capacity equal in both? After the Praiṣa, reciting the Yājyā and the rest is the Hotṛ's function; and after the Vaṣaṭkāra recitation, making the offering is the Adhvaryu's function. If it is an epithet of husband and wife, it means "of the same age".
+
 ---
 
-**Progress note:** Done through printed p. 336. pp. 330-336 (batch API)
+**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
