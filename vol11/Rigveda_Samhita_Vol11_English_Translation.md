@@ -14236,6 +14236,203 @@ Or: just as in Ṛk 7-5-4 quoted above the word त्रिधातु (*tridh
 - दाधार — धृञ् अवस्थाने धातुः । लिट् प्रथमपुरुषएकवचने णलादेशः । धातोर्द्वित्वादि । तुजादीनां दीर्घोऽभ्यासस्य (पा. सू. ६-१-७) इति अभ्यासस्य दीर्घो भवति । यच्छब्दसंबंधान्निघातस्वरो न भवति । प्रत्ययस्य लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययात्पूर्वस्योदात्तस्वरो भवति ।
 - विश्वा — पूर्ववद्बहुवचने शेर्लोपः ॥४॥
 
+### Printed p. 587
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॑स्य प्रि॒यम॒भि पाथो॑ अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒  ॑
+> मदंति ।  
+> उ॒रु॒क्र॒मस्य॒ स हि बंधु॑रि॒त्था विष्णोः॑ प॒दे प॑र॒मे मध्व॒  ॑
+> उत्सः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अस्य । प्रियं । अभि । पाथः । अश्यां । नरः । यत्र । देव्ययवः । मदंति ।  
+> उरुक्रमस्य । सः । हि । बंधुः । इत्था । विष्णोः । पदे । परमे । मध्यः । उत्सः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतिथ्यायां तवस्येत्येषा प्रधानस्य याज्या । अथातिथ्येति खंडे सूत्रितं ।
+> इदं विष्णुर्वि चक्रमे तवस्य प्रियमभि पाथो अश्यां । आ- ४-५ । इति ॥
+> अस्य महतो विष्णोः प्रियं प्रियभूतं तत्सर्वै सेव्यत्वेन प्रसिद्धं पाथः ।
+> अंतरिक्षनामैतत् साथोऽंतरिक्षं पथा व्याख्यातं । नि. ६-७ । इति यास्केनोक्तत्वात् ।
+> अविनश्वरं ब्रह्मलोकमित्यर्थः । अश्यां । व्याप्प्नुयां । तदेव विशेष्यते । यत्र स्थाने
+> देवयवो देवं द्योतनस्वभावं विष्णुमात्मन इच्छंतो यज्ञदानादिभिः प्राप्तमिच्छंतो नरो मदंति तृप्तिमनुभवंति । तदश्यामित्यन्वयः । पुनरपि तदेव विशेष्यते । उरुक्रमस्यात्यधिकं सर्वं जगदाक्रममाणस्य तत्तदात्मना अत एव विष्णोव्यापकस्य परमेश्वरस्य परम उत्कृष्टे निरतिशये केवलसुखात्मके पदे स्थाने
+> मध्वो मधुरस्योत्सो निष्यंदो वर्तते । तदश्यां । यत्र क्षुत्तृष्णाजरामरणपुनरावृत्तादिभयं नास्ति संकल्पमात्रेणामृतकुल्यादिभोगाः प्राप्यंते तादृशमित्यर्थः । ततोऽधिकं नास्तीत्याह इत्येत्थमुक्तप्रकारेण स हि बंधुः स खलु सर्वॆषां सुकृतिनां बंधुभूतो हितकरो वा तस्य पदं प्राप्तवतां न पुनरावृत्तेः ।
+> न च पुनरावर्तत इति श्रुतेस्तस्य बंधुत्वं । हिशब्दः सर्वश्रुतिस्मृतिपुराणादिप्रसिद्दिद्योतनार्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives the ritual use first. In the Ātithya (guest-offering) rite this Ṛk, beginning तवस्य (*tavasya*) as he cites it, is the yājyā of the principal offering. The Sūtra in the section beginning *athātithyā* prescribes it: इदं विष्णुर्वि चक्रमे तवस्य प्रियमभि पाथो अश्यां (*idaṃ viṣṇurvi cakrame tavasya priyamabhi pātho aśyāṃ*) (Ā. 4-5).
+
+He then explains the verse. "Of this great Viṣṇu the dear, i.e. beloved, that path, well known as to be resorted to by all": पाथः (*pāthaḥ*) is a name of the atmospheric region, since Yāska says साथोऽंतरिक्षं पथा व्याख्यातं (*sātho 'ṃtarikṣaṃ pathā vyākhyātaṃ*) (Ni. 6-7). It means the imperishable world of Brahman. अश्यां (*aśyāṃ*) is "may I pervade (attain)". The place is then characterised: it is the place where men who desire the god, that is, who wish to reach Viṣṇu, the shining one, by sacrifice, gifts and the like, rejoice, that is, experience satisfaction. The construction is "may I attain that."
+
+Again the same is characterised: in the supreme, highest, unsurpassed station, consisting of pure bliss, of Viṣṇu the wide-strider, who pervades the whole world beyond measure and in the form of each thing and is therefore all-pervading, the Supreme Lord, there is a spring, a flow, of sweet nectar. That I would attain: a place where there is no fear of hunger, thirst, old age, death or return, and where by mere intention enjoyments such as streams of nectar are obtained. Nothing is higher than this. Then: "thus, in the manner said, he is indeed the kinsman", that is, he is the kinsman or benefactor of all the virtuous; for those who have reached his abode there is no return, and the Śruti says that one does not return, hence his kinship. The word हि (*hi*) points to what is well known from all Śruti, Smṛti, Purāṇa and so on.
+
+### Printed p. 588
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुक्रमस्य (*urukramasya*)—of him who widely (pervades the world) with his strides
+- विष्णोः (*viṣṇoḥ*)—of Viṣṇu
+- परमे (*parame*)—in the exalted
+- पदे (*pade*)—in which place
+- मध्वः (*madhvaḥ*)—of sweet blissful nectar
+- उत्सः (*utsaḥ*)—a stream (there is) (and)
+- यत्र (*yatra*)—in which place
+- देवयवः (*devayavaḥ*)—those who strive to win Viṣṇu's favour
+- नरः (*naraḥ*)—men
+- मदंति (*madaṃti*)—experience delight
+- अस्य (*asya*)—of such a Viṣṇu
+- प्रियं (*priyaṃ*)—(to him) very dear, and
+- तत् (*tat*)—well known, (resorted to by all)
+- पाथः (*pāthaḥ*)—the path of the atmospheric region
+- अश्यां (*aśyāṃ*)—may I too attain
+- इत्था (*itthā*)—in this manner
+- स हि बंधुः (*sa hi baṃdhuḥ*)—that Viṣṇu is the kinsman (of all devotees)
+
+##### भावार्थ (Bhāvārtha)
+
+May I too attain the atmospheric path, most dear to Viṣṇu, who in his vast strides pervades the whole world: the path in whose exalted station there is a stream of sweet blissful nectar, and where men who strive to win Viṣṇu's favour experience delight. In this way Viṣṇu is the kinsman even of all devotees.
+
+##### Printed English
+
+May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping Vishnu, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Soma sacrifice, when Soma is brought to the sacrificial ground, it is the custom to regard Soma (King Soma) as a guest and to perform rites such as the reception of a guest. This is stated in Tai. Saṃ. 6-2-1. The Ṛk तदस्य प्रियं (*tadasya priyaṃ*) is to be used then as the yājyā mantra of the principal offering; this is set out in the Āśvalāyana Śrauta Sūtra, in the section beginning अथातिथ्येति (*athātithyeti*), by the Sūtra इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्यां (*idaṃ viṣṇurvi cakrame tadasya priyamabhi pātho aśyāṃ*) (Ā. 4-5).
+
+This Ṛk describes the greatness of Viṣṇu's supreme abode and expresses an intense wish to obtain the surpassing bliss found there.
+
+पाथः (*pāthaḥ*)—पाथः अंतरिक्षं पथा व्याख्यानतं (*pāthaḥ aṃtarikṣaṃ pathā vyākhyānataṃ*) (Ni. 6-7): the Nirukta says that पाथः (*pāthaḥ*) means the atmospheric region and that its derivation has been given where the derivation of the word पथिन् (*pathin*) was stated. It then quotes the Ṛk
+यत्रा चक्रुरमृता गातुमस्मै श्येनो न दीयन्नन्वेति पाथः । प्रति वां सूर उदिते विधेम नमोभिर्मित्रावरुणोत हव्यैः ॥ ( (*yatrā cakruramṛtā gātumasmai śyeno na dīyannanveti pāthaḥ | prati vāṃ sūra udite vidhema namobhirmitrāvaruṇota havyaiḥ ‖ (*)
+(Ṛ. Saṃ. 6-63-5)
+### Printed p. 589
+and says इत्यपि निगमो भवति (*ityapi nigamo bhavati*), thereby showing that the word पाथ (*pātha*) is a synonym of the atmospheric region.
+
+पंथाः पततेर्वा, पद्यतेर्वा, संथतेर्वा (*paṃthāḥ patatervā, padyatervā, saṃthatervā*) (Ni. 2-28): the derivation given for this word is that the form पंथा (*paṃthā*) may arise from any of the roots of motion पत् (*pat*), पद (*pada*) or पथि (पंथ्) (*pathi (paṃth)*). The word पाथः (*pāthaḥ*) also has these roots as its source; besides the sense "atmospheric region" it also means water and food.
+
+उदकमपि पाथ उच्यते पानात् (*udakamapi pātha ucyate pānāt*) (Ni. 6-7): water too is called पाथ (*pātha*) because it is drunk. Having said this, the Nirukta quotes the Ṛk आ चष्ट आसां पाथो नदीनां वरुण उग्रः सहस्रचक्षाः । (*ā caṣṭa āsāṃ pātho nadīnāṃ varuṇa ugraḥ sahasracakṣāḥ |*) (Ṛ. Saṃ. 7-34-10), where पाथः (*pāthaḥ*) means water. And अन्नमपि पाथ उच्यते पानादेव (*annamapi pātha ucyate pānādeva*) (Ni. 6-7): since it is formed from the root पा (*pā*), which gives the sense of "to partake", food also has this name. It then quotes the Ṛk वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् । स्वदाति देवः कृणवद्धवींष्यवतां द्यावापृथिवी हवं मे ॥ (*vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān | svadāti devaḥ kṛṇavaddhavīṃṣyavatāṃ dyāvāpṛthivī havaṃ me ‖*) (Ṛ. Saṃ. 10-70-10), where the word means food, as the Nirukta-author says.
+
+In the present Ṛk the word is a synonym of the atmospheric region. It is said that this world is dear to Viṣṇu, that is, belongs to him. Therefore "god-seeking men rejoice": those who wish to win by sacrifice, gifts and the like the shining Viṣṇu, whom they desire for themselves, experience satisfaction. All sacrificers who wish to win his favour by pleasing the resplendent Viṣṇu through sacrifice, gifts and the like experience delight in this world.
+
+उरुक्रमस्य विष्णोः (*urukramasya viṣṇoḥ*)—अत्यधिकं सर्वं जगदाक्रममाणस्य तत्तदात्मना अत एव व्यापकस्य परमेश्वरस्य । (*atyadhikaṃ sarvaṃ jagadākramamāṇasya tattadātmanā ata eva vyāpakasya parameśvarasya |*): this describes the nature of the all-pervading Viṣṇu, the Lord of the world, who pervades the whole universe by his own form.
+
+परमे पदे (*parame pade*)—उत्कृष्टे निरतिशये केवलसुखात्मके स्थाने (*utkṛṣṭe niratiśaye kevalasukhātmake sthāne*): it is said to be a place wholly without sorrow, consisting only of happiness and supremely exalted.
+
+### Printed p. 590
+Therefore the word पाथः (*pāthaḥ*) too must be taken not in its commonly current sense of atmospheric region but as the excellent upper world. The nature of this supreme abode is described in the Upaniṣads thus:
+यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः । स तु तत्सदमाप्नोति यस्माद्भूयो न जायते ॥ विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः । सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदं (*yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ | sa tu tatsadamāpnoti yasmādbhūyo na jāyate ‖ vijñānasārathiryastu manaḥ pragrahavānnaraḥ | so 'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padaṃ*)
+(Kaṭh. 3-8-9) **NOTE**
+In the Kaṭha Upaniṣad the greatness of the supreme abode is praised: the self-controlled man who has gained spiritual knowledge and is endowed with the riches of calm, self-restraint and the like attains Viṣṇu's supreme abode and does not again become a transmigrating being. Hence this is not merely the commonly meant atmospheric region. The Muṇḍaka describes this same supreme abode:
+सत्यमेव जयति नानृतं सत्येन पंथा विततो देवयानः । येनाक्रमंत्यषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानं ॥ (*satyameva jayati nānṛtaṃ satyena paṃthā vitato devayānaḥ | yenākramaṃtyaṣayo hyāptakāmā yatra tatsatyasya paramaṃ nidhānaṃ ‖*)
+(Muṇḍaka. 3-1-6) **NOTE**
+Seers whose desires are fulfilled and who know the supreme truth attain this most exalted world of Truth; this is the supreme abode. In this supreme abode there is "a sweet spring": a stream of the bliss of the Self. The nature of this bliss is described in the Upaniṣads:
+सलिल एको द्रष्ट्वाद्वैतो भवत्येष ब्रह्मलोकः सम्राडिति हैनमनुशशास याज्ञवल्क एषास्य परमा गतिरेषास्य परमा संपदेषोऽस्य परमो लोक एषोऽस्य परम आनंद एतस्यैव आनंदस्यान्यानि भूतानि मात्रामुपजीवंति । (*salila eko draṣṭvādvaito bhavatyeṣa brahmalokaḥ samrāḍiti hainamanuśaśāsa yājñavalka eṣāsya paramā gatireṣāsya paramā saṃpadeṣo 'sya paramo loka eṣo 'sya parama ānaṃda etasyaiva ānaṃdasyānyāni bhūtāni mātrāmupajīvaṃti |*)
+(Bṛ. U. 4-3-39)
+and the like. Such unequalled bliss is not possible in any other world than this supreme abode. But even for obtaining this bliss Viṣṇu's favour is necessary; and for that favour the performance of sacrifice and other rites, and self-purification by calm, self-restraint and the like, are indispensable.
+
+उत्सः (*utsaḥ*)—उत्थ उत्सरणाद्वोत्सदनाद्वोत्संदनाद्वोनत्तेर्वा (*uttha utsaraṇādvotsadanādvotsaṃdanādvonattervā*): the word उत्सः (*utsaḥ*) is formed from the root सृ (*sṛ*) combined with the prefix उत् (*ut*), meaning to spurt upward, to rise; or from the root सद् (*sad*) or स्यंद् (*syaṃd*); or from the root उद् (*ud*). It ordinarily means a spring or a well. The purport is "that which flows of itself without effort". The Nirukta-author (Ni. 10-8) quotes
+
+### Printed p. 591
+the Ṛk
+अदर्दमुत्समसृजो वि खानि त्वमर्णवान्बद्वधाना अरम्माः । महांतमिंद्र पर्वतं वि यद्वः सृजो वि धारा अव दानवं हन् ॥ (*adardamutsamasṛjo vi khāni tvamarṇavānbadvadhānā arammāḥ | mahāṃtamiṃdra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānavaṃ han ‖*)
+(Ṛ. Saṃ. 5-32-1)
+and explains the word उत्सं (*utsaṃ*) there as the cloud that flows forth, that is, the cloud that makes water stream in abundance.
+
+Besides this, the word उत्स (*utsa*) is also read among the names of the well (Ni. 3-19). In the Ṛk
+प्र ते नावं न समने वचस्युवं ब्रह्मणा यामि सवनेषु दाधृषिः । कुविन्णो अस्य वचसो निबोधिषदिंद्रमुत्सं न वसुनः सिचामहे । (*pra te nāvaṃ na samane vacasyuvaṃ brahmaṇā yāmi savaneṣu dādhṛṣiḥ | kuvinṇo asya vacaso nibodhiṣadiṃdramutsaṃ na vasunaḥ sicāmahe |*)
+(Ṛ. Saṃ. 2-16-7)
+the explanation is जलस्य निधानभूतं कूपं (*jalasya nidhānabhūtaṃ kūpaṃ*), that is, a well which is the receptacle of water. In
+शतधारमुत्समक्षीयमाणं विपश्चितं पितरं वक्तानां । मेळिं मदंतं पित्रोरुपस्थे तं रोदसी पिपृतं सत्यवाचं ॥ (*śatadhāramutsamakṣīyamāṇaṃ vipaścitaṃ pitaraṃ vaktānāṃ | meḷiṃ madaṃtaṃ pitrorupasthe taṃ rodasī pipṛtaṃ satyavācaṃ ‖*)
+(Ṛ. Saṃ. 3-26-9)
+the explanation is सततप्रवाहोपेतं स्रोतः (*satatapravāhopetaṃ srotaḥ*), that is, a river with an unbroken flow.
+
+In the present Ṛk also उत्स (*utsa*) means a stream of bliss that flows of itself, abundant and unbroken. This is a description of the surpassing bliss of Viṣṇu's world. Since he is the cause of such bliss, Viṣṇu is famed as the kinsman of all. What is praised in Upaniṣadic passages such as
+स नो बंधुर्जुनिता स विधाता धामानि वेद भुवनानि विश्वा । (*sa no baṃdhurjunitā sa vidhātā dhāmāni veda bhuvanāni viśvā |*)
+(Tai. U. 4-1-6) **NOTE**
+is stated here.
+
+##### Grammar
+
+- पाथः—पा रक्षणे धातुः । उदकॆ थुट् च (उ. सू. ४-६४३) इति असुन् प्रत्ययः । धातोः थुट् आगमः । अत्र पाथोंतरिक्षं पथा व्याख्यातम् (निरु. ६-७) इति निर्वचनकरणात् अंतरिक्षार्थे प्रयुक्तम् ।
+- अश्याम्—अशू व्याप्तौ धातुः । लिज् उत्तमपुरुषएकवचने परे बहुलं छंदसि इति विकरणस्य लुक् । लिजः यासुट् आगमः । तिजंतनिघातस्वरः भवति ।
+- देवयवः—देवान् आत्मनः इच्छति इति अर्थविवक्षायां सुप आत्मनः क्याच् (पा सू. ३-१.-८) इति क्याच् । देवयति इति देवयुः क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतात् उ प्रत्ययः । **NOTE**
+
+### Printed p. 592
+- देवयवः (अनुवृत्तिः)—अतो लोपः (पा. सू.६-४-४८) इति क्यचः अकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तः भवति । प्रथमाबहुवचनांतरूपम् ।
+- मदंति—पूर्वमंत्रे व्याख्यातम् । यत्र इति पूर्वस्मिन् वर्तमानत्वात् निघातस्वरः न भवति, धातुस्वरः अवशिष्यते ।
+- बंधु—बंध बंधने धातुः । शृष्टस्निहि- (उ. सू १-१०) इति उ प्रत्ययः । धान्येनित् सूत्रात् नित् इति अनुवृत्तत्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।
+- इत्था—इदमस्थमुः इति थमुप्रत्ययः । सुपां सुलुक्- इति तृतीयाविभक्तौ परस्यां तस्याः डा आदेशः ।
+- मध्वः—जसादिषु छंदसि वा वचनम् इति षष्ठीएकवचने परे गुणादयः न भवंति । यणादेशः ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॒ वास्तू॑न्युश्मसि॒ गम॑ध्यै॒ यत्र॒ गावो॒ भूरि॑शृंगा  ॒॑
+> अयासः ।  
+> अत्राह॒ तदु॑रुगा॒यस्य॒ वृष्णः॑ पर॒मं प॒दमन॑ भाति॒ भूरि॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । वास्तूनि । उष्मसि । गमध्यै । यत्र । गावः । भूरिशृंगाः । अयासः ।  
+> अत्र । अह । तत् । उरुगायस्य । वृष्णः । परमं । पदं । अव । भाति । भूरि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पत्नीयजमान् नां युष्मदर्थं ता तानि गंतव्यत्वेन प्रसिद्धानि वास्तूनि
+> सुखनिवासयोग्यानि स्थानानि गमध्यै युवयोग्रमनायोश्मसि । कामायामहे ।
+
+##### Gist of the bhāṣya
+
+"O wife and sacrificer" **NOTE**: for you, "those", that is, the well-known places to be gone to, the वास्तूनि (*vāstūni*), places fit for a pleasant dwelling, we desire "for going", that is, for your going. (The explanation continues in the next block.)
+
+### Printed p. 593
+
+> तदर्थं विष्णुं प्रार्थयाम इत्यर्थः । तानीत्युक्तं कानीत्याह । यत्र येषु
+> वास्तुषु गावो रश्मयो भूरिशृंगा अत्यंतोन्नत्युपेता बहुभिराश्रयणीया
+> वायासोऽयना गंतारोऽतिविस्तृताः । यद्वा । यासो गंतारः । अतादृशाः ।
+> अत्यंतप्रकाशयुक्ता इत्यर्थः । अत्राहात्र खलु वास्ताधारभूते द्युलोक उरुगायस्य बहुभिर्महात्मभिर्गातव्यस्य स्तुत्यस्य वृष्णः कामानां वर्षितुर्विष्टोस्तत्तादृशं
+> सर्वत्र पुराणादिषु गंतव्यत्वेन प्रसिद्धं परमं निरतिशयं पदं स्थानं भूर्यतिप्रभूतमव भाति । स्वमहिम्ना स्पुरति । अयं मंत्रो यास्केन गोशब्दो रश्मिवाचक
+> इति व्याचक्षाणेन व्याख्यातः । तानि वां वास्तूनि कामायामहे गमनाय यत्र
+> गावो भूरिशृंगा बहुश्चंगा भूरीति बहुनो नामधेयं प्रभवतीति सतः शृंगं
+> श्रयतेर्वा शृणातेर्वा शम्मातेर्वा शरणायोद्गतमिति ना शिरसो निर्गतमिति
+> वायासोऽयनाः । तत्र तदुरुगायस्य विष्णोर्महागतेः परमं पदं पराध्यस्थमवभाति भूरि । पादः पद्यतेः । नि. २-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+For that purpose we pray to Viṣṇu. Having said "those", he says which: those dwellings in which the गावः (*gāvaḥ*), the rays, are भूरिशृंगाः (*bhūriśṛṃgāḥ*), endowed with very high rising, to be resorted to by many; and the अयासः (*ayāsaḥ*) are the goers, far-spreading. Or else the यासः (*yāsaḥ*) are goers, and अ-यासः (*a-yāsaḥ*) means those unlike (ordinary goers), that is, endowed with great brilliance. अत्राह (*atrāha*): here, in this heavenly world which is the support of those dwellings, of the wide-sung one, to be sung by many great souls, that is, to be praised, of the showerer of desires, Viṣṇu, that supreme, unsurpassed station, well known everywhere in the Purāṇas and elsewhere as a goal, shines forth abundantly by its own greatness. Yāska explains this mantra, saying that the word गो (*go*) denotes rays. He also explains भूरि (*bhūri*) as a name of "much", and gives derivations of शृंग (*śṛṃga*) (from श्रय (*śraya*), शृ (*śṛ*) or श्या (*śyā*) roots; "risen up for shelter", or "issued from the head"); there the supreme station of Viṣṇu of the great stride, the highest, shines abundantly. Then पादः पद्यतेः (*pādaḥ padyateḥ*) (Ni. 2-7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नां (*nāṃ*)—(O wives of the sacrificer) for you **NOTE**
+- यत्र (*yatra*)—in which regions
+- भूरिशृंगाः (*bhūriśṛṃgāḥ*)—rising very high
+- आयासः (*āyāsaḥ*)—very wide-spreading or else very resplendent
+- गावः (*gāvaḥ*)—rays (spread)
+- ता (*tā*)—those (that all wish to go to), well known
+- वास्तूनि (*vāstūni*)—abodes of pleasant dwelling
+- गमध्यॆ (*gamadhyè*)—that you too may go there
+- उश्मसि (*uśmasi*)—we desire (and for that we pray to Viṣṇu)
+- अत्राह (*atrāha*)—here, however
+- उरुगायस्य (*urugāyasya*)—of him who is praised by many great souls, and
+- वृष्णः (*vṛṣṇaḥ*)—of the giver of desired ends
+- परमं (*paramaṃ*)—the highest (above all), most surpassing
+- पदं (*padaṃ*)—station
+- भूरि (*bhūri*)—abundantly
+- अव भाति (*ava bhāti*)—shines (by its own greatness)
+
+##### भावार्थ (Bhāvārtha)
+
+O wives of the sacrificers, we pray to Viṣṇu with the aim that you too may go and reach those pleasant dwelling-places, which all wish to go to and where rays rising very high and very resplendent are spread. Here the most surpassing station of Viṣṇu, who is praised by many great souls and showers down desired ends, shines forth abundantly by its own greatness.
+
+##### Printed English
+
+We pray (to Vishnu) that you may both go to those regions where the many-pointed and wide-spreading rays (of light expand); for here the supreme
+
 ---
 
-**Progress note:** Done through printed p. 586. pp. 581-
+**Progress note:** Done through printed p. 593. pp. 587-
