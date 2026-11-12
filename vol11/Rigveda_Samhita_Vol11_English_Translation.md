@@ -8293,6 +8293,157 @@ The two (priests, the Hotri and Adhwaryu), of equal honour, and alike assiduous,
 This Ṛk states the nature of devotion to ritual action. Sāyaṇa has shown that two kinds of meaning are possible for the first half. First: *savayasā, samānaṃ arthaṃ mithaḥ vitaritratā* (the Hotṛ and Adhvaryu) वपुः युयूषतः । (*vapuḥ yuyūṣataḥ |*) — the Hotṛ and Adhvaryu desire to unite, that is, to serve, Agni through their respective rites. Second: as husband and wife desire to unite their bodies by embracing, so the Hotṛ and Adhvaryu unite their acts with Agni.
 सवयसा (*savayasā*)—if it is an epithet of the Hotṛ and Adhvaryu, the word वयः (*vayaḥ*) must here mean capacity. What is the capacity equal in both? After the Praiṣa, reciting the Yājyā and the rest is the Hotṛ's function; and after the Vaṣaṭkāra recitation, making the offering is the Adhvaryu's function. If it is an epithet of husband and wife, it means "of the same age".
 
+### Printed p. 343
+
+##### Grammar
+
+- युयूषतः — यु मिश्रणामिश्रणयोः धातुः । धातोः कर्मणः (पा. सू. ३-१-७) इति इच्छार्थे सन् । सन्यजोः (पा. सू. ६-१-९) इति द्वित्वम् । अज्ञनगमांसनि (पा. सू. ६-४-१६) इति धातोः दीर्घः । सन्नंतात् लट् प्रथमपुरुषद्विवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । अभ्यस्तानामादिः (पा.सू. ६-१-१८९) इति आद्युदात्तस्वरो भवति ।
+- सवयसा — समानं वयः ययोः तौ सवयसौ । सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः (चौ) आकारादेशः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- वितरित्रता — वि उपसर्गः । त्य, प्लवनतरणयोः धातुः । अतिशयार्थे धातोरेकाच (पा. सू. ३-१-२२) इति यज् । यजोचिच (पा सू. २-४-६) इति तस्य अनैमित्तिकः लुक् । यज्निमित्तिकं धातोः द्वित्वम् । रुग्रिकौ च लुकि (पा. सू. ६-४-९१) इति अभ्यासस्य रिकागमः । यज् उंतात् लडर्थे शतृप्रत्ययः । सुपां सुलुक् इति विभक्तेः आकारादेशः । अभ्यस्तानामादिः इति आद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- हव्यः — हु दानादनयोः धातुः । अचोयत् (पा. सू. ३-१-९७) इति यत् प्रत्ययः । सार्वधातुकार्थधातुकयोः इति धातोः इकः गुणः । वांतोयिप्रत्यये (पा. सू. ६ १ ७९) इति अपादेशः । यतोनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति ।
+- अस्मत् — सुपां सुलुक् (पा. सू. ७-१-२९) इति विभक्तेः (आन्) ऒक् ।
+- पोळ्पुः — वद प्रापणे धातुः । कर्तरि तृन् प्रत्ययः । होढः इति धातुहकारस्य ढत्वम् । झषस्तथो- इति प्रत्ययतकारस्य धत्वम् । ष्टुत्वेन ढत्वम् । डोढेलोपः इति पूर्वधकारस्य लोपः । सहिवहोरोदवर्णस्य (पा. सू. ६-३-११२) इति धातोः अकारस्य ओत्वम् । षष्ठीएकवचनांतरूपम् ।
+- धाधर्ति — वर्धर्ति (सा- सू. ७-४-६५) इति इदं निपातितम् ।
+- अयंस्त — यम उपरमे धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लुज् प्रथमपुरुषएकवचने त प्रत्ययः । ळ्ळेः सिचादेशः । धातुमकारस्य अनुस्वारः । अंगस्य आडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति । ॥ ३ ॥ **NOTE**
+
+### Printed p. 344
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमीं॒ द्वा सव॑यसा सप॒र्यतः॑ समा॒ने योना॑ मिथु॒ना  ॑
+> समोकसा ।  
+> दिवा॒ न नक्तं॑ पलि॒तो युवा॑जनि पु॒रू चर॑न्न॒जरो॒ मानु॑षा  ॒
+> युगा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । ईं । द्या । सवयसा । सपर्यतः । समाने । योना । मिथुना ! संओकसा ।  
+> दिना । न । नक्तं । पलितः । युवा । अजनि । पुरु । चरन् । अजरः । मानुषा । युगा ।  
+> ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमीमेनमग्निं द्वा द्वौ सवयसा समानवयस्क् समानसामर्थ्य वा
+> समाने योना योन् फलस्योत्पत्तिस्थाने यज्ञॆ वर्तमान् मिथुना दंपती इवैककार्योद्युक्तौ समोकसा समाननिवास् देवयजनस्थान् ईदृशौ होत्रध्वर्यू
+> सपर्यतः । पूजयतः स्तुत्या हविष्णुदानेन च प्रीणयतः । कदेत्याह । दिना
+> नाहनीव नक्तं रात्रावपि । सर्वदेत्यर्थः । एवं पूज्यमानोग्निः पलितः पूर्वमंगारावस्थायां जीर्णोऽपि समिंधनानंतरं युवा तरुणस्तेजसा सर्वस्य मिश्र
+> यिता वाजनि । जायते । एवंजातोऽयं मानुषा युगा मनोः संबंधीनि
+> युगानि जायापतिरूपाणि होत्रध्वर्युरूपाणि पोद्दिश्य पुरु चरन् बह्वाज्यादिकं
+> भक्षयन् अजरोऽजीर्णो जरारहितो वर्तते ॥
+
+##### Gist of the bhāṣya
+
+Agni is worshipped by the two, Hotṛ and Adhvaryu. They are of the same age or the same capacity; they are in the same योना (*yonā*), that is, the sacrifice, the place where the fruit arises; like a married couple they are engaged in one task; and they share one dwelling, the place of the divine sacrifice. They worship him with praise and please him with gifts of oblation. When? Like day, also at night, that is, always. Thus worshipped, Agni, though formerly "old" in the state of embers, becomes young after the kindling, mingling everything with his brilliance. Having so arisen, he moves, devouring much ājya and the like, with reference to the human "yokes" (the couple, or Hotṛ and Adhvaryu, who belong to Manu), and remains ageless, free from decay.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवयसा (*savayasā*)—of the same age, or of the same capacity
+- समाने योना (*samāne yonā*)—dwelling in the sacrificial place that gives the same fruit
+- मिथुना (*mithunā*)—joining together and performing (one and the same rite)
+- समोकसा (*samokasā*)—having a common dwelling
+- द्वा (*dvā*)—the two, Hotṛ and Adhvaryu, like a couple
+- यमीं (*yamīṃ*)—whom, this very Agni
+- दिवा न (*divā na*)—as one worships by day
+- नक्तं (*naktaṃ*)—at night too (at all times)
+- स पर्यत (*sa paryata*)—
+
+### Printed p. 345
+- (with oblations and the like) they worship
+- पलितः (*palitaḥ*)—though old (from the view of the initial state of embers)
+- युवा (*yuvā*)—young (after the offering of fuel)
+- अजनि (*ajani*)—is born
+- मानुषा युगा (*mānuṣā yugā*)—with reference to human couples or to Hotṛ and Adhvaryu
+- पुरु (*puru*)—abundant ājya and the like
+- चरन् (*caran*)—consuming
+- अजरः (*ajaraḥ*)—free from decay (he grows)
+
+##### भावार्थ (Bhāvārtha)
+
+The two, Hotṛ and Adhvaryu, like a couple, of the same capacity, dwelling in the sacrificial place that gives the same fruit, joining together to perform one rite, and having a common dwelling, worship this Agni together by day and by night, at all times. Though this Agni was old from the view of the initial state of embers, after the fuel is offered he becomes young. And, consuming abundant ājya and the like with reference to the human couples or Hotṛ and Adhvaryu, he grows well.
+
+##### Printed English
+
+He, whom the two, a pair of equal power, dwelling in the same place, and engaged in the same ceremony, worship night and day : he, whether old or young, has been engendered for the sake of mortal couples, accepting many (oblation), and exempt from decay.
+
+##### विशेषविषयगळु (Special Topics)
+
+योना (*yonā*)—The word योनि (*yoni*) is read among the names of water (Ni. 1-24 **NOTE**) and among the names of house. Here it means the sacrificial place. Sāyaṇa explains फलस्य उत्पत्तिस्थाने यज्ञे (*phalasya utpattisthāne yajñe*): the sacrifice as the place where the fruit arises. In the Aitareya Brāhmaṇa:
+जनिष्ठा उग्रः सहसे तुरायेति सूक्तं शंसति तद्वा एतद्यजमानजननमेव सूक्तं यजमानं ह वा एतेन यज्ञाद्देवयोन्यै प्रजनयति । (*janiṣṭhā ugraḥ sahase turāyeti sūktaṃ śaṃsati tadvā etadyajamānajananameva sūktaṃ yajamānaṃ ha vā etena yajñāddevayonyai prajanayati |*) (Ai. Brā. 3-19)
+On this Sāyaṇa says देवलोकस्थानार्थं यजमानं प्रजनयति । तस्माद्यजमान जननत्वं । (*devalokasthānārthaṃ yajamānaṃ prajanayati | tasmādyajamāna jananatvaṃ |*) Because the sacrificer is prepared for dwelling in the world of the gods, he is as it were newly born into that place; hence the sacrifice becomes the womb of his new birth. Besides this sense, the derivation of the word can be shown with other senses. The Nirukta authors say:
+योनिरंतरिक्षं महानवयवः परिवीतो वायुना । अयमपीतरो योनिरेतस्मादेव परियुतो भवति ॥ (*yoniraṃtarikṣaṃ mahānavayavaḥ parivīto vāyunā | ayamapītaro yoniretasmādeva pariyuto bhavati ‖*) (2-8)
+The atmosphere is called yoni because it is a great limb pervaded by the wind; the same derivation is to be given for yoni as the cause of birth of creatures. In the Ṛk-Saṃhitā:
+ऋतस्य देवा अनुव्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम । वर्धंतीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातं । (*ṛtasya devā anuvratā gurbhuvatpariṣṭirdyaurna bhūma | vardhaṃtīmāpaḥ panvā suśiśvimṛtasya yonā garbhe sujātaṃ |*) (Ṛ. Saṃ. 1-65-4)
+In this Ṛk, for ऋतस्य योना (*ṛtasya yonā*): योनिरित्युदकनाम । ऋतस्य यज्ञ स्यान्नस्य वा कारणभूते जले । (*yonirityudakanāma | ṛtasya yajña syānnasya vā kāraṇabhūte jale |*) Water is called yoni because it is the cause of sacrifice or of food. In
+देवं वो देवयज्ययाग्निमीळीत मर्त्यः । समिद्धः शुक्र दीदिह्यतस्य योनिमासदः (*devaṃ vo devayajyayāgnimīḷīta martyaḥ | samiddhaḥ śukra dīdihyatasya yonimāsadaḥ*) (Ṛ. Saṃ. 5-21-4)
+the word means योनिं कारणं (*yoniṃ kāraṇaṃ*), the means of heaven. In
+दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट्च्छ्वेतो न विक्षु रथो न रुक्मी त्वेषः समत्सु । (*durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai | citro yadabhrāṭcchveto na vikṣu ratho na rukmī tveṣaḥ samatsu |*) (Ṛ. Saṃ. 1-66-3)
+and similar Ṛks it means house (Ṛ. Saṃ. 1-140-1 etc.); and in these Ṛks and in the present Ṛk it means the sacrificial place. Since it is a place common to Hotṛ and Adhvaryu, it is said समाने योना (*samāne yonā*).
+
+### Printed p. 346
+(Nirukta continued:) because the atmosphere is pervaded by wind and is a great limb it is called yoni; the same derivation holds for the yoni, cause of birth of creatures. [This continues the passages quoted on p. 345.]
+
+समोकसा (*samokasā*)—समाननिवासौ देवयजनस्थानौ । (*samānanivāsau devayajanasthānau |*) Hotṛ and Adhvaryu, who have the same sacrificial place. ओक इति निवासनामोच्यते । (*oka iti nivāsanāmocyate |*) (Ni. 2-3-3) A dwelling is called oka, but this word is not used for all dwellings. To show that a man has complete attachment to his own house, the Nirukta authors give an apt example:
+नहि ग्रभायारणः सुशेवोऽन्योदरो मनसा मंतवा उ । अधा चिदोकः पुनरित्स एत्यानो वाज्यभीषाळेतु नव्यः । (*nahi grabhāyāraṇaḥ suśevo 'nyodaro manasā maṃtavā u | adhā cidokaḥ punaritsa etyāno vājyabhīṣāḷetu navyaḥ |*) (Ṛ. Saṃ. 7-4-8)
+Citing this Ṛk they say अथ स ओकः पुनरेव तदेति यत आगतो भवति । (*atha sa okaḥ punareva tadeti yata āgato bhavati |*) (Ni. 3-3) Even for an adopted son, since he has attachment to his own house and returns there, the own house is worthy of full attachment. Because the sacrificial house is the place where every kind of fruit arises, and the same attachment is felt for it, the word oka is used here also.
+
+### Printed p. 347
+
+##### Grammar
+
+- द्वा — सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः आकारदेशः ।
+- सपर्यतः — सपर पूजायां धातुः । कंड्वादिः । कंड्वादिभ्योयक् (पा. सू. ३-१-२७) इति स्वार्थे यक् । लट् प्रथमपुरुषद्विवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । यक्स्वरः अवशिष्यते ।
+- योना — यु मिश्रणे धातुः । वहिश्रिश्रुयु— (उ. सू. ४-४९१) इति नि प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । नित्वातिदेशात् आद्युदात्तस्वरो भवति । सुपां सुलुक्— इति सप्तमीएकवचनस्य डादेशः ।
+- मिथुना — मिथ इति सौत्रधातुः । क्षुधिपिशिमिथिभ्यः कित् (उ. सू. ३-३३५) इति उनन् प्रत्ययः । कित्त्वविधानात् गुणो न भवति । व्यत्ययेन अंतोदात्तो भवति । पूर्ववत् विभक्तेः (औ) आकारादेशः ।
+- समोकसा — समानं ओकः ययोः तौ समोकसा । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति । पूर्ववत् द्विवचनस्य आकारादेशः ।
+- पलितः — लोष्टपलित् (उ. सू. ३-३७२) इति निपातितम् । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- युवा — यु मिश्रणे धातुः । कनिन्‌युवृषि— (उ. सू १-१५४) इति कनिन् प्रत्ययः । सित्त्वात् आद्युदात्तस्वरो भवति ।
+- अजनि — जनी प्रामर्भावे धातुः । छांदसं वर्तमानार्थे ल.ज्. प्रथमपुरुषएकवचने परे दीपजनबुध— (पा सू ३-१-६१) इति चिळः चिणादेशः । चिणो लुक् (पा ६-४-१०४) इति चिणः परस्य तशब्दस्य लुक् । अंगस्य अडागमः । आतिजंतस्य परत्वात् तिजंतनिघातस्वरो भवति ।
+- पुरु — निपातस्यच (पा. सू. ६-३-१३६) इति संहितायां दीर्घः ।
+- चरन् — चर गतिभक्षणयोः धातुः । लडर्थे शत्रुप्रत्ययः । प्रथमाएकवचनांतरूपम् । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो अवशिष्यते ।
+- अजरः — न विद्यते जरा यस्य सः अजरः । नञ्स्वरस्य अपवादेन नञ्तोजरमर— (पा. सू. ६-१-११६) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+- मानुषा — मानुषानि इति रूपे शेश्छंदसि बहुलम् (पा. सू. ६-१-७०) इति शेः लोपः । युगा इत्यत्रापि एवमेव लोपो भवति । ॥ ४ ॥
+
+### Printed p. 348
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमीं॑ हिन्वंति धी॒तयो॒ दश॒ व्रिशो॑ दे॒वं मर्ता॑स ऊ॒तये॑  
+> हवामहे ।  
+> धनो॒रधि॑ प्र॒वत॒ आ स ऋ॑ण्वत्यभि॒व्रज॑द्भिर्व॒युना॒ नवा॑धित ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईं । हिन्वंति । धीतयः । दश । व्रिशः । देवं । मर्तासः । ऊतये । हवामहे ।  
+> धनोः । अधि । प्रवतः । आ । सः । ऋण्वति । अभिव्रजत्भिः । वयुना । नवा । अधितः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवं द्योतमानं तमेनमग्निं दश धीतयो दशसंख्याका अंगुलयो
+> व्रिशो विशः परस्परविश्लिष्टा हिन्वंति । प्रीणयंति मथनकाले । तथा मर्तासो मनुष्या
+> वयं यजमाना ऊतये रक्षणाय हवामहे । आह्वयामः । कोऽस्य विशेष
+> इत्युच्यते । आयमग्निर्धनोर्धनुषः सकाशात्पवत आ प्रकर्षण गच्छतो बाणानिव
+> तान्यथा शत्रोरुपरि मुंचंति ॥ आ इत्युपमार्थे ॥ तद्वत्सोग्निर्धनुःस्थानीयान्निजशरीरसकाशात्पवतः प्रकृष्टवेगवतो रश्मीनृण्वति । गमयति॥ रिविर्गत्यर्थः ॥ अत्रांतर्भावितण्यर्थोऽयं । इदित्त्वान्नुम् । छांदसं रेफस्य संप्रसारणं । अधिशब्दोऽनर्थको धात्वर्थमात्रानुवादी ॥ किंचैवं प्रवृद्योऽग्निरभिव्रजद्भिरनुष्ठानार्थमभितः
+> संचरद्भिर्ज्ञेयमर्थमभिगच्छद्भिर्वा तदर्थं नवा नवानि नूतनानि वयुना वयुनानि प्रज्ञानान्यनुष्ठानविषयाण्यधित । धारयति । ज्ञापयतीत्यर्थः । यद्वा ।
+> अभिव्रजद्भिराभिमुख्येन गच्छद्भिर्होत्रादिभिः क्रियमाणानि नवानि वयुनानि प्रज्ञाविशिष्टानि स्तोत्रादीन्यधित । धत्ते ॥ धाञ्छांदसे लुजि स्थाघोरिच्चेतीत्वं । उत्तरस्य
+> सिचः कित्त्वं । ह्रस्वादंगादिति सलोपः ॥
+
+##### Gist of the bhāṣya
+
+The ten धीतयः (*dhītayaḥ*), the ten fingers, separated from one another (व्रिशः (*vriśaḥ*) = विशः (*viśaḥ*)), please this shining Agni at the time of churning. Likewise we mortals, the sacrificers, call him for protection. What is his special feature? This Agni, like arrows that fly forth from a bow and which men discharge upon an enemy (आ (*ā*) being in the sense of comparison), makes his rays, swift in motion, go forth from his own body, which stands in the place of the bow. The root रिवि (*rivi*) has the sense of going; the verb here has a causative sense included; the nasal is added because of the इदित् (*idit*) character, and the vocalization of the र (*ra*) is Vedic. The word अधि (*adhi*) is without meaning, merely repeating the sense of the root. Further, thus growing, Agni, for the sake of those who go about on all sides for the performance, or those who approach the object to be known, bears (makes known) new वयुना (*vayunā*), that is, knowledges relating to the performance. Or else: he holds new वयुनानि (*vayunāni*), praises and the like marked by knowledge, made by Hotṛ and others who approach him face to face. The remaining remarks concern the Vedic aorist forms of धा (*dhā*) and omit grammar here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवं (*devaṃ*)—the shining
+- तं (*taṃ*)—Agni
+- दशधीतॆयः (*daśadhītèyaḥ*)—the ten fingers too
+- व्रिशः (*vriśaḥ*)—though separate from one another, joining together
+- हिन्वंति (*hinvaṃti*)—satisfy
+- मर्तासः (*martāsaḥ*)—we, sacrificers and mortals too
+- ऊतये (*ūtaye*)—for protection
+- हवामहे (*havāmahe*)—(continues)
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
