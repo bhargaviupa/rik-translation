@@ -16471,6 +16471,185 @@ Here the word is used so that it is understood as the whip, the instrument of ho
 वात आ वातु भेषजं शंभु मयोभु नो हृदे । प्र ण आयूंषि तारिषत् । (*vāta ā vātu bheṣajaṃ śaṃbhu mayobhu no hṛde | pra ṇa āyūṃṣi tāriṣat |*) (Ṛ. Saṃ. 10-186-1)
 has given, for प्रतारिषत् (*pratāriṣat*), an example suited to the context, meaning "increase our life". Likewise in the present Ṛk the prayer is आयुः प्र तारिष्टं (*āyuḥ pra tāriṣṭaṃ*), increase our life.
 
+### Printed p. 686
+
+##### विशेषविषयगळु (Special Topics)
+
+रपो रिप्रमिति पापनामनी भवतः । (*rapo ripramiti pāpanāmanī bhavataḥ |*) (Ni. 4-21). It is said that rapaḥ and ripra are both synonyms for sin.
+त्वं कुत्सेनाभि शुष्णमिंद्राशुषं युध्य कुयवं गविष्टौ । दश प्रपित्वे अध सूर्यस्य मुषायश्च क्रमविवे रपांसि ॥ (*tvaṃ kutsenābhi śuṣṇamiṃdrāśuṣaṃ yudhya kuyavaṃ gaviṣṭau | daśa prapitve adha sūryasya muṣāyaśca kramavive rapāṃsi ‖*) (Ṛ. 6-31-3). In Ṛks such as this, the word रपांसि (*rapāṃsi*) means पापकारीणि रक्षःप्रभृतीनि । (*pāpakārīṇi rakṣaḥprabhṛtīni |*) — sin-doing demons and the like. In the present Ṛk it means "our sins" (मृक्षतं (*mṛkṣataṃ*)).
+सचाभुवा (*sacābhuvā*)—सहभुवानवस्मत्कार्येषु सहभवनवंतौ भवतं । (*sahabhuvānavasmatkāryeṣu sahabhavanavaṃtau bhavataṃ |*) The Aśvin deities are entreated: in our sacrifices and the like, be the two of you joined together, united.
+
+##### Grammar
+
+- ऊर्जम् — ऊर्ज बलप्राणनयोः धातुः । क्विप् प्रत्ययः । द्वितीयाविकवचनांतरूपम् ।
+- वहतम् — वह प्रापणे धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- मधुमत्या — मधु अस्या अस्ति इति मधुमती । मतुप् आगते उगित्त्वात् उगितश्च (पा. सू. ४-१-६) इति जीप् । तृतीयापिकवचनांतरूपम् ।
+- मिमिक्षतम् — मिह सेचने धातुः । धातोःकर्मणः (पा. सू ३-१-७) इति सन् । सन्नंतात् लोट् मध्यमपुरुषद्विवचनांतरूपम् । (ऋ. सं, १-२२-३) मंत्रे व्याख्यातम् । तिजंतनिघातस्वरः भवति ।
+- तारिष्टम् — तृ प्लवनतरणयोः धातुः । प्रपूर्वकत्वे वर्धनार्थः प्रतीयते । छांदसत्वेन लोडर्थे लुज् । मध्यमपुरुषद्विवचने तमादेशः । क्लेः सिचादेशः । तस्मै इडागमः । व्यतोवा (पा. सू. ७-२-३८) इति इटः दीर्घे प्राप्ते सिचिस परस्मैपदेषु (पा. सू. ७-२-४०) इति प्रतिषेधः भवति । बहुलं छंदस्यमाज् योगेऽपि (पा. सू. ४-७५) इति अडागमः न भवति । चादिलोपे विभाषा (पा. सू. ८-१-६३) इति निघातस्वरप्रतिषेधः भवति । आदिः सिचोन्यतरस्याम् (पा. सू ६-११८७) इति आद्युदात्तस्वरः भवति । **NOTE**
+- मृक्षतम् — मृश आमर्शने धातुः । पूर्ववत् छांदसत्वेन लुज् । शल इगुपधादनिटः क्सः (पा. सू. ३-१-४५) इति सिचः क्सादेशः । एकाचादुदरिंद इण्णिषेधः भवति । तिजंतनिघातस्वरः भवति । **NOTE**
+
+### Printed p. 687
+
+##### Grammar
+
+- सेधतम् — षिधु गत्याम् धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । पादादित्वात् निघातस्वरः न भवति । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- द्वेषः — द्विष अप्रीतौ धातुः । अन्येभ्योपि दृश्यंते (पा. सू ३ २-७५) इति विच् प्रत्ययः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः ।
+- भवतम् — भू सत्तायां धातुः । लोट् मध्यमपुरुषद्विवचनांतररूपम् । इदं वाक्यांतरसंबंधि इति पदात् परस्मिन् समानवाक्ये अनागमनात् निघातस्वरः न भवति । पूर्ववत् धातुस्वरः अवशिष्यते ।
+- सचाभुवा — (ऋ. सं. १-३४-११) इति विवृतम् । सुपां सुलुक्—(पा सू ७-१-३९) इति विभक्तेः (औ) आकारादेशः । ॥ २ ॥
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॒ गर्भं॒ जग॑तीषु दत्तो यु॒वं विश्वे॑षु॒ भुव॑नेस्वं॒तः ।  
+> यु॒वम॒ग्निं च॑ वृषणाव॒पश्च॒ वन॒स्पती॑रश्विना॒वैर॑येथां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । गर्भं । जगतीषु । दत्थः । युवं । विश्वेषु । भुवनेषु । अंतरिति ।  
+> युवं । अग्निं । च । वृषण् । अपः । च । वनस्पतीन् । अश्विन् । ऐरयेथां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं ह युवां खलु जगतीष्वंतर्गमनशीलासु गोषु मध्ये
+> गर्भं धत्थः । धारयथः । न केवलं गोष्टेव अपि तु युवं युवां विश्वेषु सर्वॆषु
+> भुवनेषु भूतजातेश्वंतर्मध्यॆ गर्भं धत्थः । वृष्टिद्वारामिषरूपत्वेन गर्भस्थरेतसः
+> पोषकत्वात् । किंच हे वृषणौ कामानां वर्षितार् युवं युवामग्निं चापश्च
+> वनस्पतींश्चैरयेथां । प्रवर्तयेथां । आहुतिभोगायाग्निं स्वीकृत्य च वृष्टुदकानि उदकैरोषधिवनस्पत्यादिकं एतान्यस्मदर्थं प्रैरयेथां ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you indeed place the embryo among the moving cows (जगतीषु (*jagatīṣu*), "those of inward-going nature"); you bear it. Not among cows alone: you place the embryo in all beings, within every class of creature, since through rain, in the form of food, you nourish the seed that lies in the womb. Further, O showerers of desires, you set in motion fire, the waters and the trees of the forest: accepting fire for the enjoyment of the oblation, and sending rain-waters, herbs, forest trees and the like for our sake.
+
+### Printed p. 688
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनौ (*aśvinau*)—O Aśvin deities
+- युवं ह (*yuvaṃ ha*)—you two indeed
+- जगतीषु (*jagatīṣu*)—in all the moving living beings
+- गर्भं (*garbhaṃ*)—the germ of life, in the form of an embryo
+- धत्तः (*dhattaḥ*)—you have established and sustain
+- युवं (*yuvaṃ*)—you two
+- विश्वेषु (*viśveṣu*)—in all
+- भुवनेषु (*bhuvaneṣu*)—classes of creatures
+- अंतः (*aṃtaḥ*)—you are present in the form of inner being
+- वृषणा (*vṛṣaṇā*)—you who shower the desired things
+- युवं (*yuvaṃ*)—you two
+- अग्निं च (*agniṃ ca*)—fire
+- अपश्च (*apaśca*)—and the waters
+- वनस्पतीन् (*vanaspatīn*)—and the forest trees
+- ऐरयेथां (*airayethāṃ*)—you provide (for our use)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you two are present in the form of inner being in all creatures. Therefore establish the germ of life, in the form of an embryo, in all moving living beings. You two, who shower the desired things, also provide for our use fire, the waters and the forest trees.
+
+##### Printed English
+
+You, Ashwins, sustain the germ in all moving creatures : you are
+in the interior of all beings : do you, showerers of benefits, supply (for our own
+use) fire and water and the trees of the forest.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Aśvin deities, being in the form of inner being in all creatures, have regulated and established the germ of life in the form of an embryo; having thus described their nature, the Ṛk prays that they provide the waters and forest trees useful for the life of beings. It praises them as not merely pervading the beings upon the earth and being their inner being, but, according to विश्वेषु भुवनेष्ट्यंतः (*viśveṣu bhuvaneṣṭyaṃtaḥ*), as being the embryo-form of the beings in all worlds — earth, atmosphere and the rest.
+मुख्यौ ना आवां यज्ञस्य स्वो यावध्वर्यो इह नाविमं पुरस्ताद्ग्रहं पर्याहरताभि द्विदेवत्यानिति ताभ्यामेतं पुरस्ताद्ग्रहं पर्याजहुरभि द्विदेवत्यांस्तस्मादेष दशमो ग्रहोः गृह्यते तृतीय एव वषट्क्रियतेऽथ यदश्विनावितीमे ह वै द्यावापृथिवी प्रत्यक्षमश्विनाविमे हीदग्ंसर्वमाश्नुवातां पुष्करस्रजावित्यग्निरेवास्यै पुष्करमादित्योऽमुष्यै ॥ (*mukhyau nā āvāṃ yajñasya svo yāvadhvaryo iha nāvimaṃ purastādgrahaṃ paryāharatābhi dvidevatyāniti tābhyāmetaṃ purastādgrahaṃ paryājahurabhi dvidevatyāṃstasmādeṣa daśamo grahoḥ gṛhyate tṛtīya eva vaṣaṭkriyate 'tha yadaśvināvitīme ha vai dyāvāpṛthivī pratyakṣamaśvināvime hīdagṃsarvamāśnuvātāṃ puṣkarasrajāvityagnirevāsyai puṣkaramādityo 'muṣyai ‖*) (Pa. Brā. 4-1-5-16). **NOTE**
+
+### Printed p. 689
+
+##### विशेषविषयगळु (Special Topics)
+
+Because the passage above, and likewise other Śruti passages, describe the Aśvin deities — chief of every sacrifice and the appointed Adhvaryus — as being in the form of earth and atmosphere, the Ṛk praises the point that they pervade all beings contained in heaven and earth and hold one single principle in everything.
+अग्निं च अपश्च ऐरयेथाः (*agniṃ ca apaśca airayethāḥ*)—In the first Ṛk of this sūkta the relation of the Aśvin deities to Agni and Uṣas was stated, and that these three deities are invoked together in the Prātaranuvāka mantras; it was said that only after their rising do light and the wealth of plants and the like increase in the world. This Ṛk too states that same relation of Agni and the Aśvin deities.
+जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणां । सजूरश्विभ्यामुषसा सुवीर्यमस्मे धेहि श्रवो बृहत् ॥ (*juṣṭo hi dūto asi havyavāhano 'gne rathīradhvarāṇāṃ | sajūraśvibhyāmuṣasā suvīryamasme dhehi śravo bṛhat ‖*) (Ṛ. Saṃ. 1-44-2). Just as in this Ṛk Agni is addressed and asked to bestow wealth together with the Aśvin deities and with Uṣas, so the present Ṛk addresses the Aśvin deities and prays that, joined with Agni, they be the cause of the increase of the wealth of plants and the like.
+
+##### Grammar
+
+- धत्थः — डुधाण् धारणपोषणयोः धातुः । जहोत्यादिः । प्रथमपुरुषद्विवचने थस् प्रत्ययः । श्लुकिकरणम् । श्लौ इति धातोः द्वित्वम् । दधस्तथोश्च. (पा. सू. ८-२-३८) इति भष् भावः । श्नाभ्यस्तयोरातः (पा. सू. ९-४-११२) इति प्राप्तस्य आकारलोपस्य वचनसामर्थ्यात् स्थानिवद्भावः न भवति । तिजंतनिघातस्वरः भवति ।
+- युवम् — प्रथमायाश्चद्विवचने भाषायाम् इत्यत्र लोके मात्रं आत्वविधानकरणात् संहितायां आत्वं न भवति ।
+- अग्निम् — अगि गतौ धातुः । अगेर्नलोपश्च इति निप्रत्ययः । सुविनः नकारस्य लोपः । प्रत्ययस्वरेण नलोपः भवति ।
+- अपः — ऊडिदं पदादि—(पा सू.६-१-१७९) इति विभक्तेः उदात्तस्वरः भवति ।
+- वनस्पतीन् — पारस्करप्रभृतीनि संज्ञायाम् इति समासे सुटागमः । उभेवनस्वत्यादिषु (पा. सू. ६-१-१४०) इति उभयपदप्रकृतिस्वरः भवति । **NOTE**
+
+### Printed p. 690
+
+##### Grammar
+
+- ऐरयेथाम् — ईर गतौ धातुः । हेतुमति च इति णिच् । णिजंतात् छांदसत्वेन लज् मध्यमपुरुषद्विवचनांतरूपम् । चवायोगे प्रथमा (पा सू. ८-१-५९) इति निघातस्वरप्रतिषेधः भवति । आडागमस्य उदात्तत्वात् आद्युदात्तं पदं भवति । ॥ ५ ॥
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॑ स्थो भि॒षजा॑ भेष॒जेभि॒रथो॑ ह स्थो र॒थ्या॒३॒॑ ३ -  ॑
+> राध्येभिः ।  
+> अथो॑ ह क्ष॒त्रमधि॑ धत्थ उग्रा॒ यो वां॑ ह॒विष्मा॒न्मन॑सा द॒दाश॑।  
+> ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । स्थः । भिषजा । भेषजेभिः । अथो इति । ह । स्थः । रथ्या । रथ्येभिरिति  
+> रथ्येभिः ।  
+> अथो इति । ह । क्षत्रं । अधि । धत्थः । उग्रा । यः । वां । हविष्ठान् । मनसा । ददाश  
+> ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवं युवां ह खलु भेषजेभिर्भेषजैरौषधैः । भेषजौषधभैषज्यान्यगदो जायुरगदं तत्रौषधमिति चाभिधानात् । तैर्भिषजा भिषजौ स्थः ।
+> हशब्दोऽश्विनौ हि देवानां भिषजावित्यादिप्रसिद्धिद्योतनार्थः । अथो अपि च रथ्येभि
+> रथवोढृभिरश्चै रथ्या रथवंतौ स्थः । आ वां रथो अश्विना । ऋ. १-११८-१ । इत्यादिप्रसिद्धिद्योतनार्थो हशब्दः । अनयो रथेन विशेषसंबंधो युवोर्हि पूर्वं
+> सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति । ऋ. १-३४-१० । इत्यादिमंत्रांतरेषु
+> प्रसिद्धः ! अथो अपि च युवयोः क्षत्रं बलमधि ह । अधिकं खलु । हशब्दः प्रसिद्धौ ।
+> यस्मादेवं तस्माद्दे उग्रोद्गूर्णसामर्थ्यावश्विन् वां युवाभ्यां यो हविष्मानाज्ञपुरोडाशादिहवियर्युक्तो यजमानो मनसा युद्धदायत्तेन चेतसा
+
+##### Gist of the bhāṣya
+
+O Aśvins, you are indeed physicians with medicines (भेषजेभिः (*bheṣajebhiḥ*)), since the lexicon says भेषजौषधभैषज्यान्यगदो जायुरगदं तत्रौषधमिति चाभिधानात् । (*bheṣajauṣadhabhaiṣajyānyagado jāyuragadaṃ tatrauṣadhamiti cābhidhānāt |*) The word ह (*ha*) points to the well-known fact *aśvinau hi devānāṃ bhiṣajāvityādi*. Further, you are रथ्या (*rathyā*), possessed of chariots, with रथ्येभि (*rathyebhi*), horses that draw the chariot; here too ह (*ha*) points to what is famed, as in आ वां रथो अश्विना (*ā vāṃ ratho aśvinā*) (Ṛ. 1-118-1). The special connection of these two with the chariot is well known in other mantras, such as युवोर्हि पूर्वं सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति (*yuvorhi pūrvaṃ savitoṣasā rathamṛtāya citraṃ dhṛtavaṃtamiṣyati*) (Ṛ. 1-34-10). And your क्षत्रं (*kṣatraṃ*), strength, is indeed greater (अधि ह (*adhi ha*); ह (*ha*) again in the sense of "well known"). Since it is so, O fierce ones (उग्रा (*ugrā*), "of lifted-up power"), the sacrificer who has oblations (cakes and the like) and who gives with his mind (मनसा (*manasā*), "with a heart bent on …" **NOTE**) —
+
+### Printed p. 691
+
+> ददाश ददाति हविरादिकं तं धत्थः । धारयथः । अत्यधिकमनुगृह्णीथ इत्यर्थः ।
+> प्रभूतबलौ युवां रथमारुह्यास्मद्देवयजनमागत्य हविष्पदं मां धृत्वास्मद्यज्ञेऽस्मान्विचिकित्सतमिति तात्पयार्थः ॥
+
+##### Gist of the bhāṣya
+
+— him you uphold (धत्थः (*dhatthaḥ*), धारयथः (*dhārayathaḥ*)); the sense is: you favour him exceedingly. The purport: being of great strength, mount your chariot, come to our place of divine worship, and, holding me, the seat of the oblation, treat us in our sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं ह (*yuvaṃ ha*)—you two also
+- भेषजेभिः (*bheṣajebhiḥ*)—with the herbs of medicines (knowing their nature)
+- भिषजा स्थः (*bhiṣajā sthaḥ*)—you are physicians
+- अथो (*atho*)—and moreover
+- रथ्येभिः (*rathyebhiḥ*)—with horses that draw chariots
+- रथ्या स्थः (*rathyā sthaḥ*)—you possess chariots
+- अथो (*atho*)—and moreover
+- क्षत्रं (*kṣatraṃ*)—(your) strength
+- अधि ह (*adhi ha*)—is indeed exceedingly great; (therefore)
+- उग्रा (*ugrā*)—you of mighty, fearsome power
+- वां (*vāṃ*)—to you
+- यः (*yaḥ*)—which
+- हविष्मान् (*haviṣmān*)—sacrificer, possessing cakes and the like
+- मनसा (*manasā*)—with faith
+- ददाश (*dadāśa*)—offers (oblations and the like)
+- धत्तः (*dhattaḥ*)—uphold (him) (favour him exceedingly)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you two are also physicians who, with the herbs of medicines, know their nature. Moreover, you possess chariots joined with horses that draw chariots. And your strength is exceedingly great. Therefore, you of mighty power, uphold and raise up the sacrificer who, having oblations to offer to you, offers oblations and the like with faith.
+
+##### Printed English
+
+You two are physician, (conversant) with (all) medicaments : you ride
+in a chariot (drawn by) well-trained steeds : therefore, mighty (divinities),
+resolutely uphold (the worshipper), who, with a mind (devoted to you), offers
+you ohlations.
+
+##### विशेषविषयगळु (Special Topics)
+
+*bheṣajebhiḥ bhiṣajā sthaḥ*—"You are physicians who know the nature of medicines": thus the power of the Aśvin deities is stated. It is well known that the Aśvin deities are the physicians of the gods, that they set right the defects of Indra and the other deities, and that they removed the old age of Sukanyā's husband and gave him youth.
+
 ---
 
-**Progress note:** Done through printed p. 685. pp. 680-685 (batch API)
+**Progress note:** Done through printed p. 691. pp. 686-691 (batch API)
