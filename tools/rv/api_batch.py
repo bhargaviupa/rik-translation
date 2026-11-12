@@ -95,6 +95,23 @@ def cmd_status(a):
     print(b.id, b.processing_status, f'processing {c.processing} succeeded {c.succeeded} errored {c.errored} canceled {c.canceled} expired {c.expired}')
     return b.processing_status
 _SKIP = r'[\s\u200c\u200d\-–—|>।]'
+def join_split_entries(en):
+    """A page break inside one grammar entry: the model closes nothing, writes `### Printed p. N` and the rest of the entry on a bare line that ends with ⟫.
+    The entry is joined into one bullet and the page heading placed after it (Vol 11 w0064: the heading ended up in the middle of the printed line)."""
+    L = en.split('\n'); i = 0
+    while i < len(L):
+        if L[i].startswith('- ⟪') and '⟫' not in L[i]:
+            j = i + 1; heads = []
+            while j < len(L) and (not L[j].strip() or re.match(r'### Printed p\. \d+$', L[j].strip())):
+                if L[j].strip(): heads.append(L[j].strip())
+                j += 1
+            if heads and j < len(L) and not L[j].startswith(('-', '#', '*')) and L[j].rstrip().endswith('⟫'):
+                L[i:j + 1] = [L[i].rstrip() + ' ' + L[j].strip(), ''] + [h for h in heads for h in (h, '')][:-1]
+                continue
+        i += 1
+    return '\n'.join(L)
+
+
 def autofix_inline(w, en, kn):
     """An inline ⟦…⟧ segment that is not in kn.md letter for letter (the model retyped it, often 'correcting' a misread letter of the supplied text)
     is replaced by the same words as kn.md has them, when one run of whole words there is clearly the same passage (similarity >= 0.85).
@@ -210,7 +227,8 @@ def latin_fallback(en, kn):
     return re.sub(r'⟦([^⟧]+)⟧', rep, en), log
 def apply_answer(w, text):
     """write en.md and apply the kn.md repairs; returns a list of problems"""
-    prob = []; m = re.search(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)
+    prob = []; m = (lambda L: L[-1] if L else None)(list(re.finditer(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)))   # the LAST <en> block: the model sometimes restarts after a false start (Vol 11 w0033)
+    if not m and text.lstrip().startswith('### Printed p.'): m = re.match(r'\s*(.*?)\n?\s*<kn_fix>', text, re.S)      # the model left out the <en> tags (Vol 11 w0692): the body before <kn_fix> is the English
     if not m: return ['no <en> … </en> in the answer']
     kp = os.path.join(w, 'kn.md'); pj0 = os.path.join(w, 'pages.json')
     for f in (kp, pj0):                                   # the first answer is applied to the prepared files; a retry starts from them again
@@ -233,6 +251,8 @@ def apply_answer(w, text):
         json.dump(sorted(pg, key=lambda x: x['printed']), open(pj, 'w'), indent=1)
     en, soft = soften(m.group(1).strip() + '\n', kn, w)
     en = wrap_bare_kannada(en)
+    en = join_split_entries(en)
+    en = re.sub(r' ?\[(?:as printed|as supplied)\]', '', en)   # a translator remark the rules forbid (Vol 11 w0229, w0424)
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)

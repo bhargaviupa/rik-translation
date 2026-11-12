@@ -181,6 +181,8 @@ def cmd_prep(a,quiet=False,after=None):
     specs=[os.path.join(ROOT,x.split('@')[0])+('@'+x.split('@')[1] if '@' in x else '') for x in cfg.source]
     kn,sec=html_to_kn.kn_pages(specs,[p for p,_ in pages],None,mandalas(cfg))        # section/verse at the window start: found by the script itself (no state file)
     notes=list(html_to_kn.LOG); extra=list(html_to_kn.EXTRA)
+    for pn,txt in (cfg.d.get('page_notes') or {}).items():                            # volcfg.json "page_notes": {"212": "…"} = a known doubt about a page, shown in every window that has it
+        if int(pn) in [p for p,_ in pages]: notes.append(f'printed p. {pn}: {txt}')
     pages=sorted(set(pages)|{(p,None) for p in extra},key=lambda x:x[0])
     wr(os.path.join(w,'kn.md'),kn); wr(os.path.join(w,'section_end.txt'),sec or ''); wr(os.path.join(w,'section_start.txt'),html_to_kn.START[0] or '')
     rows=numerals.load(cfg) if cfg.numeral_files() else []; info=[]; nrows=[]
@@ -240,7 +242,8 @@ def cmd_build(a):
     wr(os.path.join(w,'markers_fuzzy.tsv'),''.join(f'{a_}\t{b_}\n' for a_,b_ in convert.FUZZY))      # quotation markers resolved approximately (for a spot check)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
-    r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
+    ib='--inline-only' if cfg.d.get('iast_blocks','build')=='build' else ''      # block IAST is made at print time (volbook.py), not stored (user, Nov 11 2026); volcfg "iast_blocks": "stored" keeps the old behaviour
+    r=sh(f'python3 publish/tools/translit/add_iast.py "{p}" {ib}'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     t=labels.normalise(rd(p)).replace(convert.NOIAST,'> ')
     if cfg.d.get('layout')=='subheads': t,_=rk_headings(subheads(t))
     lab=cfg.d.get('printed_english_label')                 # the heading of the English printed in the edition (volcfg), e.g. 'English translation (H. H. Wilson)'
@@ -271,10 +274,14 @@ def cmd_check(a):
                         (r'(?i)\bas supplied|\bas printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
         kk=re.findall('[ಀ-೿]+',enf)
+        st=re.findall(r'[\u0370-\u08FF\u0980-\u0C7F\u0D00-\u1DFF\uFB1D-\uFEFF]',en)   # Greek/Cyrillic/Hebrew/Arabic/other Indic letters (not Devanagari/Kannada)
+        st=[c for c in st if c not in kn]      # a letter the supplied text itself has (a Telugu मृ in a printed English quotation, Vol 11 w0661) is copied, not an error
+        if st: fail.append(f'stray letters of another script in the English text (e.g. {st[0]!r} U+{ord(st[0]):04X}): a mistyped Latin letter, fix it in en.md')
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
+    knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; knr=kn+'\n'+knr      # both forms count as twins (the loosened form must never hide a reference that matched as printed)
     res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
     print(numerals.report(res))
@@ -414,7 +421,11 @@ def mandala_heading(s,cfg,kn=''):
         elif i>=0: s=s[:i+1]+f'## Maṇḍala {m}\n\n'+s[i+1:]
     return s
 def cmd_audit(a):
-    cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
+    cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg)
+    if cfg.d.get('layout')=='subheads' and f['pages']>0:          # lesson 62: the volume-level label check (blocks under the label of another section), for the volumes that have the sub-heading layout
+        r=subprocess.run([sys.executable,os.path.join(ROOT,'tools','rv','check_labels.py'),str(cfg.vol)],capture_output=True,text=True,cwd=ROOT)
+        if r.returncode: pr.append('blocks under the label of another section (python3 tools/rv/check_labels.py %d): %s'%(cfg.vol,(re.findall(r'pages: .*',r.stdout) or [r.stdout.strip()[-200:]])[0]))
+    print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
     print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)
 def cmd_rkheads(a):
     """repair of the volume file: Ṛk headings left out, misplaced, unnumbered or repeated by the translator (logged in review/repair_log.md)"""
