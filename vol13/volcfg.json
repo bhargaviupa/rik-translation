@@ -1,0 +1,31 @@
+{
+ "vol": 13,
+ "mandala": 1,
+ "branch": "claude/affectionate-faraday-2iv8y4",
+ "source": [
+  "vol13/html/rig_13.md@1-657"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol13/Rigveda_Samhita_Vol13_Kannada_Text.md",
+  "en": "vol13/Rigveda_Samhita_Vol13_English_Translation.md"
+ },
+ "work": "vol13/work",
+ "window": 6,
+ "mandalas": [
+  1
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "printed_english_label": "English translation (H. H. Wilson)",
+ "layout": "subheads"
+}

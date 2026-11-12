@@ -1,0 +1,9 @@
+{
+ "_note": "Release details for ALL print builds (publish/volbook.py reads this file; the volumes' .md files never carry them). Fill the fields when decided; empty fields print the 'to be supplied' placeholder.",
+ "publisher": "",
+ "isbn": "",
+ "edition_and_printing": "",
+ "rights_statement": "",
+ "permissions_status_original": "",
+ "permissions_status_portraits": ""
+}

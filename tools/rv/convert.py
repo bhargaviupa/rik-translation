@@ -22,6 +22,7 @@ def kn_flat(kn_text):
     """kn.md as one line of text for quotation look-up: block prefixes, page markers and note lines dropped, line breaks -> spaces"""
     ls=[re.sub(r'^> ','',l) for l in kn_text.split('\n') if l.strip() and not l.startswith(('<!--','*[','[figure')) and not re.fullmatch(r'\*[^*]+\*',l.strip())]
     return re.sub(r'\s+',' ',' '.join(ls))
+RESTORED=[]   # labels put in or normalised by `expand` in the last call
 FUZZY=[]     # markers that were resolved approximately in the last call: (marker, passage found)
 def _near(q,hay,cut=85):
     """best place of q in hay, tolerant of a few different letters -> (start,end) in hay or None"""
@@ -78,10 +79,29 @@ def block_sections(kn_text,start=None):
         if isb and not inb: out.append(sec)
         inb=isb
     return out
+LABEL_EN={'samhita':'Saṃhitā-pāṭha','pada':'Pada-pāṭha','bhashya':'Sāyaṇa-bhāṣya'}
+def block_labelled(kn_text):
+    """for every '> ' block of kn.md: True when a section label line (*ಸಂಹಿತಾಪಾಠಃ* …) stands right before it"""
+    out=[];inb=False;prev=''
+    for l in kn_text.split('\n'):
+        isb=l.startswith('> ') and not l.startswith('> *')
+        if isb and not inb: out.append(bool(re.fullmatch(r'\*([^*\[\]]+)\*',prev)) and SECTION_OF.get(prev.strip('*').strip()) is not None)
+        inb=isb
+        if l.strip(): prev=l.strip()
+    return out
+def _fix_label(out,sec,restored):
+    """the translator left the label out or wrote it as plain text (Vol 18: Ṛk 2 of w0156, Ṛk 4 of w0821, Ṛk 17 of w0235): put `**label**` before the block"""
+    name=LABEL_EN[sec]; k=len(out)-1
+    while k>=0 and not out[k].strip(): k-=1
+    if k>=0 and re.fullmatch(r'\**\s*'+re.escape(name)+r'\s*\**:?',out[k].strip()):
+        if out[k].strip()!=f'**{name}**': restored.append(f'{name}: label written as "{out[k].strip()}" -> **{name}**'); out[k]=f'**{name}**'
+        return
+    if k>=0 and re.fullmatch(r'\*\*[^*]*(pāṭha|bhāṣya)[^*]*\*\*',out[k].strip(),re.I): return      # another spelling of the label: left to labels.normalise
+    out+=['',f'**{name}**']; restored.append(f'{name}: label missing before the block: inserted **{name}**')
 NOIAST='§NOIAST§ '
 def expand(en_text,kn_text,plain=(),start=None):
     """returns (text, problems)"""
-    blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]; secs=block_sections(kn_text,start)
+    blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]; secs=block_sections(kn_text,start); lab=block_labelled(kn_text); del RESTORED[:]
     # ⟪…⟫ = Sanskrit written by the translator in Kannada script (the grammar sections from Vol 17 on): converted to Devanagari, no IAST, not matched against kn.md
     en_text=re.sub(r'⟪([^⟫]*)⟫',lambda m:kn2deva(re.sub(r'\s*\n\s*',' ',m.group(1)).strip()),en_text)
     en_text=resolve_markers(en_text,kn_text,prob)
@@ -93,6 +113,7 @@ def expand(en_text,kn_text,plain=(),start=None):
             n=int(m.group(1))
             if not 1<=n<=len(blocks): prob.append(f'[[b{n}]] does not exist (kn.md has {len(blocks)} blocks)'); out.append(l); continue
             if n in used: prob.append(f'[[b{n}]] used twice')
+            if n-1<len(secs) and secs[n-1] in LABEL_EN and n-1<len(lab) and lab[n-1]: _fix_label(out,secs[n-1],RESTORED)
             used.add(n); pre=NOIAST if (n-1<len(secs) and secs[n-1] in plain) else '> '; out+=[pre+kn2deva(x) for x in blocks[n-1]]   # a block listed in `plain` gets no IAST layer
         else:
             if re.search(r'\[\[b\d+\]\]',l): prob.append('[[bN]] must stand alone on its line: '+l[:60])

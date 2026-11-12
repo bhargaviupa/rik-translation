@@ -229,6 +229,7 @@ def cmd_build(a):
     wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
     sp=os.path.join(w,'section_start.txt'); start=(rd(sp).strip() or None) if os.path.exists(sp) else None
     text,prob=convert.expand(en,kn,plain=tuple(cfg.d.get('no_iast_blocks',[])),start=start)
+    if convert.RESTORED: print('labels put in or normalised by script:'); print('\n'.join(' - '+x for x in convert.RESTORED)); wr(os.path.join(w,'labels_restored.txt'),'\n'.join(convert.RESTORED)+'\n')
     wr(os.path.join(w,'markers_fuzzy.tsv'),''.join(f'{a_}\t{b_}\n' for a_,b_ in convert.FUZZY))      # quotation markers resolved approximately (for a spot check)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
@@ -260,7 +261,7 @@ def cmd_check(a):
         if raw.count('**NOTE**')!=len(NOTE_RE.findall(raw)): fail.append('a **NOTE** without its {detail}: write **NOTE**{what is doubtful, with the Kannada words}')
         for pat,msg in ((r'\[\?\]|\[sic\]','[?] / [sic] are not used any more: mark the place **NOTE**{detail}'),
                         (r'(?m)^\*\[|\*\[[^\]]*\]\*','translator remarks in italic brackets *[…]* are not written into the English text: drop them, or use **NOTE**{detail} where a decision is needed'),
-                        (r'(?i)as supplied|as printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
+                        (r'(?i)\bas supplied|\bas printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
         kk=re.findall('[ಀ-೿]+',enf)
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
@@ -286,7 +287,7 @@ def cmd_check(a):
     if PLACEHOLDER.search(en) or PLACEHOLDER.search(enf): fail.append('placeholder XXX left in en.md')
     dv=re.findall('[ऄ-ह][ऀ-ॣ]*',en)
     if dv: fail.append(f'Devanagari typed in en.md ({len(dv)} places, e.g. {dv[0]}): Sanskrit is copied from kn.md in Kannada script inside ⟦ ⟧; the script converts')
-    if re.search(r'⟧\s*\(\*[^)]*\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
+    if re.search(r'⟧\s*\(\*(?!\*)[^)]*(?<!\*)\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
     if re.search(r'\(\*([^)]{2,})\*\) \(\*\1\*\)',enf): fail.append('doubled IAST "(*x*) (*x*)" in en_final.md')
     for sec in re.findall(r'\*\*Pratipadārtha\*\*\n(.*?)(?=\n\*\*|\n#|\Z)',en,re.S):
         if sec.count('—')>=3 and '⟦' not in sec: fail.append('a Pratipadārtha has no ⟦ ⟧ headwords (the Sanskrit words are copied from kn.md inside ⟦ ⟧, not written in Latin letters)'); break
@@ -331,8 +332,11 @@ def cmd_commit(a):
         assert i>len(s)-20000,'progress note not near the end'; s=s[:i].rstrip('\n').rstrip('-').rstrip('\n')
     pdf=f" (PDF {last['pdf']})" if last.get('pdf') else ''
     s=s+'\n\n'+enf+f"\n\n---\n\n**Progress note:** Done through printed p. {last['printed']}{pdf}. {note}\n"
+    s=mandala_heading(s,cfg,knf)
+    if cfg.d.get('layout')=='subheads': s,_=rk_headings(s)      # whole file: a Ṛk that continues over the window boundary gets '(continued)' (Vol 18 w0076, w0101)
+    k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'      # checked BEFORE the English is written
     assert s.count('**Progress note:**')==1 and len(s)>=n0-2000; wr(cfg.en,s)
-    k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'; wr(cfg.kn,k.rstrip('\n')+'\n\n'+knf+'\n')
+    wr(cfg.kn,k.rstrip('\n')+'\n\n'+knf+'\n')
     sec=rd(os.path.join(w,'section_end.txt')).strip() if os.path.exists(os.path.join(w,'section_end.txt')) else ''
     os.makedirs(cfg.work,exist_ok=True); wr(state_path(cfg),json.dumps({'section':sec or None,'printed':last['printed']}))
     rng=f"printed pp. {pg[0]['printed']}-{last['printed']}"
@@ -381,6 +385,23 @@ def audit(cfg,expect_clean=True):
     if expect_clean and dirty: pr.append('uncommitted changes: '+'; '.join(dirty[:4]))
     if 'ahead' in st[0]: pr.append('commits not pushed: '+st[0])
     return pr,dict(page=dp,pages=len(pe),doubts=q(en),head=sh('git log -1 --oneline').stdout.strip())
+def mandala_heading(s,cfg,kn=''):
+    """The windows do not write `## Maṇḍala M` (Vol 17 and Vol 18, lesson 52): put it before a new maṇḍala's introduction (a `## …` heading that is not a
+    sūkta/maṇḍala/preface heading, standing after the last `## Sūkta` of the previous maṇḍala; the heading is lowered to `###`), or else before `## Sūkta 1 (Maṇḍala M)`.
+    M comes from `mandalas` in volcfg.json (the maṇḍala after the last one seen).  Nothing happens when `## Maṇḍala M` is there."""
+    ms=cfg.d.get('mandalas') or []
+    for m in ms[1:]:
+        if f'\n## Maṇḍala {m}\n' in s: continue
+        i=s.find(f'\n## Sūkta 1 (Maṇḍala {m})\n')
+        prev=ms[ms.index(m)-1]; j=s.rfind(f'\n## Sūkta ')
+        odd=None
+        if f'(Maṇḍala {prev})' in s[j:j+80] or i<0:
+            mm=re.search(r'(?m)^## (?!Sūkta|Maṇḍala|Preface)([^\n]+)$',s[j+1:]) if j>=0 else None
+            if mm and i<0 and f'(Maṇḍala {prev})' in s[j:j+80] and 'ಮಂಡಲವು ಸಮಾಪ್ತ' in kn: odd=j+1+mm.start()      # only in a window whose Kannada says the maṇḍala ends
+        if odd is not None:
+            s=s[:odd]+f'## Maṇḍala {m}\n\n### '+s[odd+3:]
+        elif i>=0: s=s[:i+1]+f'## Maṇḍala {m}\n\n'+s[i+1:]
+    return s
 def cmd_audit(a):
     cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
     print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)
