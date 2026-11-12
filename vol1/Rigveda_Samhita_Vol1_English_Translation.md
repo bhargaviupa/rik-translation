@@ -7294,7 +7294,7 @@ That is: just as calling someone "both father and mother" carries an evident met
 
 ### Page 403
 
-> युमधीयानो माणवकः पूर्णिकायाः अवघातं न प्रकाशयितुमिच्छतीति तत्प्रोत्तरं सूत्रयति ॥
+> यमधीयानो माणवकः पूर्णिकायाः अवघातं न प्रकाशयितुमिच्छतीति तत्रोत्तरं सूत्रयति ॥
 >
 > *(Regarding the earlier objection that a student engaged in rote study has no wish to convey meaning connected to Purnika's grain-pounding, a further answer follows.)*
 
@@ -7304,12 +7304,12 @@ Sutra's meaning: since the metaphorical meaning indicated in the mantra is accep
 
 ### "Vidyā-vacanam-asaṃyogāt" (Jaimini Sutra 1-2-48)
 
-> वेदविद्याग्रहणकालेऽर्थस्य यदवचनं तदयज्ञसंयोगादुपपद्यते । न हि पूर्णिकाया अवघातको यज्ञसंयुक्तः । नापि माणवको यज्ञमनुतिष्ठति । अतो यज्ञानुष्ठारान्न तत्रार्थविवक्षा । यदुक्तं अम्यक्सा त इन्द्र । सृण्येव जर्भरी तुर्फरीतूत्यादावर्थस्य ज्ञातुमशक्यत्वादनवबोध इति तस्योत्तरं सूत्रयति ॥
+> वेदविद्याग्रहणकालेऽर्थस्य यदवचनं तदयज्ञसंयोगादुपपद्यते । न हि पूर्णिकाया अवघातो यज्ञसंयुक्तः । नापि माणवको यज्ञमनुतिष्ठति । अतो यज्ञानुपकारान्न तत्रार्थविवक्षा । यदप्युक्तं अम्यक्सा त इन्द्र । सृण्येव जर्भरी तुर्फरीतू इत्यादावर्थस्य ज्ञातुमशक्यत्वादनवबोध इति तत्रोत्तरं सूत्रयति ॥
 >
-> वेद-विद्या-ग्रहण-कालेऽर्थस्य यद् अवचनं तद् अयज्ञ-संयोगाद् उपपद्यते । न हि पूर्णिकाया अवघातको यज्ञ-संयुक्तः । नापि माणवको यज्ञम् अनुतिष्ठति । अतो यज्ञानुष्ठारान् न तत्रार्थ-विवक्षा । ...
-> *veda-vidyā-grahaṇa-kāle'rthasya yad avacanaṃ tad ayajña-saṃyogād upapadyate | na hi pūrṇikāyā avaghātako yajña-saṃyuktaḥ | nāpi māṇavako yajñam anutiṣṭhati | ato yajñānuṣṭhārān na tatrārtha-vivakṣā | ...*
+> वेद-विद्या-ग्रहण-कालेऽर्थस्य यद् अवचनं तद् अयज्ञ-संयोगाद् उपपद्यते । न हि पूर्णिकाया अवघातो यज्ञ-संयुक्तः । नापि माणवको यज्ञम् अनुतिष्ठति । अतो यज्ञानुपकारान् न तत्रार्थ-विवक्षा । ...
+> *veda-vidyā-grahaṇa-kāle'rthasya yad avacanaṃ tad ayajña-saṃyogād upapadyate | na hi pūrṇikāyā avaghāto yajña-saṃyuktaḥ | nāpi māṇavako yajñam anutiṣṭhati | ato yajñānupakārān na tatrārtha-vivakṣā | ...*
 >
-> "That meaning goes unconveyed during Vedic study is explained by the absence of any connection to an actual yajna. Purnika's pounding is not connected to a yajna, nor is the student performing one — hence, absent yajna-performance, there is no intention to convey meaning in that context. As for the claim that meaning cannot be determined in texts like 'amyaksā ta indra' or 'sṛṇyeva jarbharī turpharītū,' an answer to that follows next."
+> "That meaning goes unconveyed during Vedic study is explained by the absence of any connection to an actual yajna. Purnika's pounding is not connected to a yajna, nor is the student performing one — hence, since neither assists the yajna, there is no intention to convey meaning in that context. As for the claim that meaning cannot be determined in texts like 'amyaksā ta indra' or 'sṛṇyeva jarbharī turpharītū,' an answer to that follows next."
 
 That is: the student's silence on meaning during rote study isn't evidence mantras lack meaning generally — it simply reflects that neither Purnika's work nor the student's recitation is actually part of a yajna. Where no yajna is being performed, there's no occasion to intend conveying meaning at all — this doesn't undermine the mantra's meaning when genuinely used in ritual context.
 
@@ -7823,8 +7823,8 @@ Statements of censure aim to elevate what's prescribed, not genuinely denigrate 
 
 **A household-duty example illustrates this same principle:**
 
-> परस्साकरुणिः स्यात् ।
-> *paras-sākaruṇiḥ syāt |* (Yajnavalkya Smriti 1-112)
+> परपाकरुचिर्न स्यात् ।
+> *parapākarucirna syāt |* (Yajnavalkya Smriti 1-112)
 
 — prohibits eating others' food for a householder;
 
@@ -7833,14 +7833,14 @@ Statements of censure aim to elevate what's prescribed, not genuinely denigrate 
 
 — requires a sannyasi to beg for alms in the village (food from others being his only means);
 
-> ब्रह्मचारी स्थितो नैकमन्नमद्यादनापदि ।
-> *brahmacārī sthito naikam annam adyād anāpadi |*
+> ब्रह्मचर्ये स्थितो नैकमन्नमद्यादनापदि ।
+> *brahmacarye sthito naikam annam adyād anāpadi |*
 
 — requires a Brahmachari student to eat from *many* households rather than just one, except in genuine hardship. What's prohibited in one life-stage (āśrama) is thus prescribed in another.
 
 Following this same reasoning, mutually contradictory injunctions and prohibitions should be applied according to the specific person following them. Even mantras show this pattern across different schools (śākhā) — a rule stated in one context becomes prohibited in another. The Taittiriya Samhita contains the mantra:
 
-> न आयवस्थोपायवस्था देवो वः ।
+> वायवस्थोपायवस्था देवो वः ।
 > *nāyavastho-pāyavasthā devo vaḥ |*
 
 The same mantra appears in the Vajasaneyi Samhita too — but there, only "**न आयवस्था देवो वः**" (*nāyavasthā devo vaḥ*) appears, omitting "upāyavasthā" entirely. The Vajasaneyi Samhita's own Brahmana...
@@ -9567,8 +9567,8 @@ Having examined the seventh adhikarana (Mantra-nirvacana), we now turn to the ei
 
 **Objection:** does a definition exist for statements like
 
-> एतद्ब्राह्मणानेव सप्त हवींषि ।
-> *etad brāhmaṇān eva sapta havīṃṣi |*
+> एतद्ब्राह्मणानेव पंच हवींषि ।
+> *etad brāhmaṇān eva paṃca havīṃṣi |*
 
 or not? My view: none exists, since even though it's not doubted how much overall is mantra versus brahmana, no explicit rule states precisely "this much is mantra, this much is brahmana" — so any attempted definition falls into avyāpti or ativyāpti. Therefore, brahmana has no valid definition.
 
@@ -11905,7 +11905,7 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 — that is, before the sun rises one should recite all the mantras of the *dāśatayī* (the ten-maṇḍala Ṛgveda). And again—
 
 > रिच्यत इव वा एष प्रेव रिच्यते यो याजयति प्रति वा गृह्णाति, याजयित्वा प्रतिगृह्य वानश्नन् त्रिः स्वाध्यायं वेदमधीयीत ॥
-> *ricyata iva vā eṣa preva ricyate yo yājayati prati vā gṛhṇāti, yājayitvā pratigṛhya vānaśnan triḥ svādhyāyaṃ vedam adhīyīta ||* (Taittirīya Āraṇyaka 2-16; first word not certain in the print [?])
+> *ricyata iva vā eṣa preva ricyate yo yājayati prati vā gṛhṇāti, yājayitvā pratigṛhya vānaśnan triḥ svādhyāyaṃ vedam adhīyīta ||* (Taittirīya Āraṇyaka 2-16)
 
 — that is, one who, out of desire for wealth, officiates at sacrifices for the unqualified or accepts forbidden gifts is as it were emptied: he loses his good name in this world and has no good state hereafter, so he must perform penance, fasting and reciting his own Veda three times. *(Passage and sense re-read from the print in the numeral pass; the earlier rendering here was a misreading.)*
 

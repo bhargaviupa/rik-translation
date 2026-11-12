@@ -26,3 +26,4 @@
 - p. 147 (Gaps): ‘Śāliholra’ (2×) → ‘Śālihotra’ (print ಶಾಲಿಹೋತ್ರ; same slip as p. 145).
 - p. 145 (Gaps): और्गुंडिः now without [?]: the contents page (p. xiv, PDF 18) prints the name clearly as ಔರ್ಗುಂಡಿ.
 - Contents, Chapter 8 (main file, line ~231; printed p. xv, PDF 19): ‘Chunavala [?]’ → ‘Balada [as printed; the chapter itself has Jalada]’ (print ಬಲದಶಾಖೆ). Noted, not changed: this contents entry sits under the file's heading ‘Page xi (closing of the Preface)’, and the print has ಪಂಚಪಟಲಿಕಾ ಮತ್ತು ಶೌನಕಶಾಖಾಕ್ರಮ where the file has ‘Panchapata and Shaunaka-patha-krama’.
+- p. 556: first word of the quotation "ricyata iva" [?] → "ricyata iva" (Kannada reads ರಿಚ್ಯತ ಇವ)
