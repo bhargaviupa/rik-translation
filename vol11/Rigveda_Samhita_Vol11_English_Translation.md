@@ -9403,6 +9403,161 @@ In the ṛk
 
 उक्षा (*ukṣā*) is the sprinkler, that is, one able to bestow fruit. Hence he is great (महान् (*mahān*)), by his greatness and nature like a mighty bull; this Agni, having gone across and pervaded the two, heaven and earth (एने (*ene*)), ववक्षे (*vavakṣe*), carries, that is, pervades. By granting rain and so on, and by carrying the oblation, he protects the gods and men who live in the two worlds. Further, he is अजरः (*ajaraḥ*), free from old age, ऋष्टः (*ṛṣṭaḥ*), great, worshipful; for महन्नामैतत् ऋष्ट उक्ष इति तन्नामसु पाठात् (*mahannāmaitat ṛṣṭa ukṣa iti tannāmasu pāṭhāt*), since ऋष्टः (*ṛṣṭaḥ*) and उक्षा (*ukṣā*) are read among the names of the great. Likewise *itaūtiḥ*: having obtained protection, he तस्थौ (*tasthau*), stands, remains. Or else: with the qualities stated, this one is *itaūtiḥ*, hence a goer, going towards our sacrifice, he remains. Thereafter (the text breaks off at the end of the window with *urvyā vistṛtāyā bhūmnāḥ*, "of the wide earth").
 
+### Printed p. 387
+
+> सानौ समुच्छृते प्रदेशे वेदिलक्षणे पदो नि दधाति । पदानि स्थापयति करोति ।
+> किंचास्याग्नेररुषासोऽरुषा आरोचना ऊधरूधःस्थानीयमंतरिक्षं रिहंति लिहंति
+> यद्वा । अस्योधरूधःस्थानीयं यज्ञमरुषास आरोचना ब्रह्मवर्चसेन यजमाना
+> रिहंति । अभिमतस्वर्गादीनि लिहंति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing from the previous page.) Agni sets down his feet on the summit, that is, on the raised place of the altar. Further, the ruddy, bright flames of this Agni lick the udder-like firmament. Or else: the sacrificers, radiant with the lustre of sacred knowledge, lick this Agni's udder-like sacrifice, that is, they reach the heaven they desire and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षा (*ukṣā*)—the showerer (of desired objects)
+- महर्हा (*maharhā*)—endowed with greatness; Agni
+- एने (*ene*)—both heaven and earth
+- अभि ववक्षे (*abhi vavakṣe*)—has pervaded
+- अजरः (*ajaraḥ*)—one free from old age
+- ऋष्टः (*ṛṣṭaḥ*)—the adorable Agni
+- इतऊतिः (*itaūtiḥ*)—joined with protections (or) coming hither to the place of sacrifice
+- तस्मात् (*tasmāt*)—stands
+- उर्व्याः (*urvyāḥ*)—of the broad earth
+- सानौ (*sānau*)—on the altar-place, lofty like a summit
+- पदः (*padaḥ*)—the feet
+- नि दधाति (*ni dadhāti*)—places
+- अस्य (*asya*)—of this Agni
+- अरुषासः (*aruṣāsaḥ*)—the radiant lustres
+- ऊधः (*ūdhaḥ*)—the firmament, which is like an udder
+- रिहंति (*rihaṃti*)—cover (pervade)
+- (or) अस्य (*asya*)—of this Agni
+- ऊधः (*ūdhaḥ*)—the sacrifice, which is like an udder
+- अरुषासः (*aruṣāsaḥ*)—the sacrificers, shining (with their lustre)
+- रिहंति (*rihaṃti*)—touch (heaven and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the showerer of desired objects, endowed with greatness, has pervaded both heaven and earth. Agni, free from old age and adorable, is present together with his protections, and places his feet on the altar-place, lofty like a summit of the broad earth. The radiant lustres of this Agni pervade the udder-like firmament.
+
+##### Printed English
+
+The great showerer (of benefits) has pervaded these two (worlds); undecaying and adorable, he is (ever) present, bestowing protection: he places his foot on the summit of the earth, and his radiant ( flames ) lick the udder (of the firmament).
+
+##### विशेषविषयगळु (Special Topics)
+
+उक्षा—सेक्ता । फलप्रदाता इत्यर्थः । (*ukṣā—sektā | phalapradātā ityarthaḥ |*) One who provides the desired objects. The word is formed from the root उक्ष (*ukṣa*), which gives the sense of sprinkling (sechana), pouring out. It means the deities who pour out desired objects on their devotees. The Nirukta-kāra has read the word उक्षन् (*ukṣan*) among the names of "great" (Ni. 3-13). And,
+
+### Printed p. 388
+Having cited the Ṛk
+वृषाकपायि रेवति सुपुत्र आदु सुस्नुषे । घसत्त इंद्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिंद्र उत्तरः । (*vṛṣākapāyi revati suputra ādu susnuṣe | ghasatta iṃdra ukṣaṇaḥ priyaṃ kācitkaraṃ havirviśvasmādiṃdra uttaraḥ |*) (Ṛ. Saṃ. 10-86-13),
+when explaining the word उक्षण (*ukṣaṇa*) occurring in it he says उक्षण उक्षतेर्वृद्धिकर्मणः उक्षंत्युदकेनेति वा (*ukṣaṇa ukṣatervṛddhikarmaṇaḥ ukṣaṃtyudakeneti vā*) (Ni. 12-9): since it is formed from the root उक्स् (*uks*), which gives the sense of growing, he has in that context taken it to mean "one who grows with water". In general the word उक्ष (*ukṣa*) is also used in the sense of power, capacity; it is oriented toward the capacity for sprinkling.
+In the Ṛks
+ते जज्जिरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः । पावकासः शुचयः सूर‍्या इव सत्वानो न द्रप्पिनो घोरवर्पसः ॥ (*te jajjire diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ | pāvakāsaḥ śucayaḥ sūryā iva satvāno na drappino ghoravarpasaḥ ‖*) (Ṛ. Saṃ. 1-64-2)
+यज्ञस्य केतुं प्रथमं पुरोहितं हविष्मंत ईळते सप्त वाजिनं । शृण्वंतमग्निं धृतपृष्ठमुक्षणं पृणंतं देवं पृणते सुवीर‍्यं ॥ (*yajñasya ketuṃ prathamaṃ purohitaṃ haviṣmaṃta īḷate sapta vājinaṃ | śṛṇvaṃtamagniṃ dhṛtapṛṣṭhamukṣaṇaṃ pṛṇaṃtaṃ devaṃ pṛṇate suvīryaṃ ‖*) (Ṛ. Saṃ. 10-122-4)
+and the like, the word उक्ष (*ukṣa*) means sprinkling or the capacity for sprinkling, and ends in the sense of power. In the present Ṛk also, Agni is one who has the capacity for sprinkling, that is, the capacity to provide the desired objects.
+अभि ववक्षे—अभिक्रम्य व्याप्य वहति । व्याप्नोतीत्यर्थः । (*abhi vavakṣe—abhikramya vyāpya vahati | vyāpnotītyarthaḥ |*) It means: he has pervaded on all sides. The Nirukta-kāras say that the word ववक्षे (*vavakṣe*) may be formed either from the root वह् (*vah*) or from the root वच परिभाषणे (*vaca paribhāṣaṇe*); having cited the Ṛk
+किमित्ते विष्णो परिचक्ष्यं भूत्प्र यद्ववक्षे शिपिविष्टो अस्मि । मा वर्पो अस्मदप गूह एतद्यदन्यरूपः समिथे बभूथ । (*kimitte viṣṇo paricakṣyaṃ bhūtpra yadvavakṣe śipiviṣṭo asmi | mā varpo asmadapa gūha etadyadanyarūpaḥ samithe babhūtha |*) (Ṛ. Saṃ. 7-100-6)
+they explain the word ववक्षे (*vavakṣe*) there as प्रब्रूषे (*prabrūṣe*), "you say", and so show the root वच् (*vac*) to be its origin. But in
+सद्यो जात ओषधीभिर्ववक्षे यदी वर्धंति प्रस्वो घृतेन । अप इव प्रवता शुंभमाना उरुष्यदग्निः पित्रोरुपस्थे ॥ (*sadyo jāta oṣadhībhirvavakṣe yadī vardhaṃti prasvo ghṛtena | apa iva pravatā śuṃbhamānā uruṣyadagniḥ pitrorupasthe ‖*) (Ṛ. Saṃ. 3-5-8)
+
+### Printed p. 389
+and the like, ववक्षे (*vavakṣe*) means उह्यते (*uhyate*), "is borne"; and in
+ववक्ष इंद्रो अमितमृजीष्यु १ भे आ पप्रौ रोदसी महित्वा । अतश्चिदस्य महिमा वि रेच्यभि ये विश्वा भुवना बभूव ॥ (*vavakṣa iṃdro amitamṛjīṣyu 1 bhe ā paprau rodasī mahitvā | ataścidasya mahimā vi recyabhi ye viśvā bhuvanā babhūva ‖*) (Ṛ. Saṃ. 4-16-5)
+it is understood as उवाह (*uvāha*), "bore". So in the present Ṛk also, formed from the root वह् (*vah*), अभि ववक्षे (*abhi vavakṣe*) means व्याप्य वहति (*vyāpya vahati*): he has pervaded on all sides.
+ऋष्टः (*ṛṣṭaḥ*)—This word is read among the names of "great" (Ni. 3-13). In the Ṛk-saṃhitā the word is used in the sense of "great" and also in the sense of "one of lovely form". Having cited the Ṛk
+उरुं नो लोकमनु नेषि विद्वान्तस्सर्वज्योतिरभयं स्वस्ति । ऋष्वा त इंद्र स्थनिरस्य बाहू उपस्थेयाम शरणा बृहंता ॥ (*uruṃ no lokamanu neṣi vidvāntassarvajyotirabhayaṃ svasti | ṛṣvā ta iṃdra sthanirasya bāhū upastheyāma śaraṇā bṛhaṃtā ‖*) (Pu. 6-47-8) **NOTE**
+the Nirukta-kāras explain the word ऋष्वा (*ṛṣvā*) as दर्शनीयौ (*darśanīyau*), of lovely form.
+In the Ṛk
+अनानुदो वृषभो दोधतो वधो गंभीर ऋष्टो असमष्टकाव्यः । रद्रचोदः शृथनो वीळितस्पृथुरिंद्रः सुयज्ञ उषसः स्वर्जनत् ॥ (*anānudo vṛṣabho dodhato vadho gaṃbhīra ṛṣṭo asamaṣṭakāvyaḥ | radracodaḥ śṛthano vīḷitaspṛthuriṃdraḥ suyajña uṣasaḥ svarjanat ‖*) (Ṛ. Saṃ. 2-21.4)
+the word, as "great", is an epithet of Indra. In the present Ṛk this word is an epithet of Agni. Since Agni has both these qualities, either of the two meanings may be given to the word.
+उर्व्याः-विस्तृतायाः भूम्याः । (*urvyāḥ-vistṛtāyāḥ bhūmyāḥ |*) The word उर्वि (*urvi*), as an epithet of the earth or of the firmament, shows an extended, widespread nature. In sentences such as
+उर्वी न पृथ्वी बहुले गभीरे मा वामेत् । (*urvī na pṛthvī bahule gabhīre mā vāmet |*) (. ब्रा (*brā*). ४-२० (*4-20*)) **NOTE**
+the word is an epithet of heaven and earth and tells that they are spread out exceedingly widely.
+रिहंत्योधो अरुषासो अस्य (*rihaṃtyodho aruṣāso asya*)—He has shown that two kinds of meaning are possible for this sentence. First: अस्य अरुषासः (*asya aruṣāsaḥ*), the radiant lustres of this Agni, ऊधः (*ūdhaḥ*), the udder-like firmament, रिहंति (*rihaṃti*), pervade; second: अस्य ऊधः (*asya ūdhaḥ*),
+
+### Printed p. 390
+this Agni's udder-like sacrifice, अरुषासः (*aruṣāsaḥ*), the sacrificers shining with their own lustre, रिहंति (*rihaṃti*), touch heaven and the like. But here the first meaning fits better.
+The scholar Oldenberg ("Oldenbrg") has given for the word अरुषासः (*aruṣāsaḥ*) the meaning "His horses or flames of Agni".
+अरुषासः (*aruṣāsaḥ*)—The word अरुष (*aruṣa*) is read in the Nirukta among the names of the horse (Ni. 2-27). The various meanings of the word अरुष (*aruṣa*) and its uses in the Ṛk-saṃhitā are given with examples in the Special Topics of Ṛk 1-141-8.
+
+##### Grammar
+
+- उक्षा—उक्ष सेचने धातुः । श्वन्नुक्षन्‌प्लीहन् (उ १-१५७) इति कसि प्रत्ययांततया निपातितः ।
+- महान्+अभि—दीर्घावटि समानपादे (पा. सू. ८-३-९) इति नकारस्य रुत्वम् । आतोऽटि नित्यम् (पा. सू. ८-३-३) इति आकारस्य नित्यमनुनासिकत्वं भवति ।
+- ववक्षे—वह प्रापणे धातुः । लेट् प्रथमपुरुषएकवचने त प्रत्ययः । बहुलं छंदसि इति शपः श्लुः आदेशः । श्लु इति धातोर्द्वित्वम् । लोपस्त आत्मनेपदेषु (पा. सू. ७-४-४१) इति प्रत्ययतकारस्य लोपः । सिब्बहुलंलेटि (पा. सू. ३-१-३४) इति सिप् । होढः इति सूत्रेण हकारस्य ढत्वम् । षडोःकःसि इति सूत्रेण ढकारस्य कत्वम् । तन्निमित्तीकृत्य सकारस्य षत्वम् । ववक्षे इति रूपं भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- अजरः—न विद्यते जरा यस्य सः । नञो जरमर—(पा. सू. ६-२-११६) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+- तस्थौ—ष्ठा गतिनिवृत्तौ धातुः । लिट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- इतऊतिः—इण् गतौ धातुः । निष्ठा इति क्त प्रत्ययः । इता ऊतिः येन स इतऊतिः । बहुव्रीहौप्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- उर्वा—उदात्तस्थाने यणादेशे आगते तत्परस्य विभक्तेरनुदात्तत्वात् उदात्तयणोहल् पूर्वात् इति विभक्तेरुदात्तो भवति ।
+- पदः—ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेः (शस्) उदात्तस्वरो भवति ।
+
+### Printed p. 391
+- दधाति—डुधाण् धारणपोषणयोः धातुः । लिट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरो भवति । **NOTE**
+- रिहंति—रिह कत्थनयुद्धनिंदाहिंसादानेषु धातुः । तुदादिः । लट् प्रथमपुरुषबहुवचनांतरूपम् । अथवा लिह आस्वादने धातुः । अदादि व्यत्ययेन लकारस्य रेफादेशः । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- अरुषासः—रुष हिंसायां धातुः । रोषंतीति रुषाः न रुषाः अरुषाः । इगुपथज्ञाप्रीकिरः कः (पा. सू ३-४-१५५) इति क प्रत्ययः । तस्मात् जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति असुकागमः ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नं व॒त्सम॒भि सं॒चरं॑ती॒ विश्व॑ग्धे॒नू वि च॑रतः सु॒मेके॑ ।  
+> अ॒न॒प॒वृ॒ज्या अध्व॑नो॒ मिमा॑ने॒ विश्वा॒न्नेता॒ अधि॑ म॒हो दधा॑ने।  
+> ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । वत्सं ! अभि । संचरंती इति संचरंती । विश्वक् । धेनू इति । वि । चरतः ।  
+> सुमेके इति सुमेके ।  
+> अनपवृज्यान् । अध्वनः । मिमाने इति । विश्वान् । केतान् । अधि । महः । वधाने  
+> इति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समानमेकमेव वत्सं वत्सस्थानीयं पुत्रवद्धर्षहेतुमग्निमभिमुखं संचरंती संचरंत्यौ द्वे धेनू अग्निहितकरणेन प्रीणयित्र्य पत्नीयजमानलक्षणे धेनू
+> विष्वग्वि चरतः । संचरतः । स्तनपानादिसदृशेंधनप्रक्षेपसंमार्जनादिना सम्यग्वर्धयत
+> इत्यर्थः । कीदृश्यौ ते । सुमेके शोभनकर्माण् शोभनमेहने वा । परिचरण-
+
+##### Gist of the bhāṣya
+
+Two milch cows, the wife and the sacrificer (पत्नीयजमानलक्षणे धेनू (*patnīyajamānalakṣaṇe dhenū*)), who please Agni by doing what is good for him, go about together towards the one calf, Agni, who is like a son and the cause of delight. They tend him much as a calf is suckled, by putting on fuel, sweeping and the like, and make him grow well. They are सुमेके (*sumeke*): of good works, or of good sprinkling, that is, skilled in service.
+
+### Printed p. 392
+
+> कुशले इत्यर्थः । किंचानपवृज्यानपवर्जनीयरहितान् ॥ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं ॥ अध्वनो मार्गानग्नेः प्रांतप्रदेशान् केशाद्यमेध्यरहितान्मिमाने
+> संपादयित्र्यौ । किंच विश्वान्केतान् सर्वाणि प्रज्ञानानि प्रवर्धनविषयाणि महो
+> महांत्यध्यधिकं धाने दधारयंत्यौ । ईदृश्यावध्वर्युयजमानरूपे जायापतिरूपे वा धेनू विश्वग्नि चरतः ॥
+
+##### Gist of the bhāṣya
+
+Further, they make the paths of Agni, the border regions, free from what must be rejected, free from impurities such as hair; and they hold in great measure all the knowledge that promotes his growth. Such cows, either the adhvaryu and the sacrificer, or the wife and husband, go about together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमेके (*sumeke*)—those of excellent work, or skilled in attendance
+- अनपवृज्यान् (*anapavṛjyān*)—not to be abandoned (free from impurity)
+- अध्वनः (*adhvanaḥ*)—the paths (of Agni)
+- मिमाने (*mimāne*)—those who refine and provide
+- विश्वान् केतान् (*viśvān ketān*)—all knowledge (that increases Agni)
+- महः (*mahaḥ*)—greatly
+- अधि (*adhi*)—exceedingly
+- दधाने (*dadhāne*)—holding
+- समानं (*samānaṃ*)—being the object of common love (of both)
+- वत्सं (*vatsaṃ*)—Agni, who gives delight like a calf
+- अभि संचरंती (*abhi saṃcaraṃtī*)—going forward to meet (and satisfying)
+- धेनू (*dhenū*)—the sacrificer and his wife, who show love like cows (or) the two, hotṛ and adhvaryu
+- विष्णक् (*viṣṇak*)—together
+- वि चरतः (*vi carataḥ*)—go about (with the preparations needed for the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+Skilled in attendance, refining and providing the paths of Agni, which are free from impurity and not to be abandoned, holding in great and exceeding measure all the knowledge that increases Agni, going forward to meet and gladden Agni, who is the object of love common to both and is delightful like a calf, resembling cows that show love to their calf: the hotṛ and the adhvaryu, or the sacrificer and his wife, go about together with the preparations needed for the sacrifice.
+
+##### Printed English
+
+(There are) two well-disposed milch cows together approaching their common progeny, and fully nourishing (him); pointing out the paths that are free from all that is to be avoided, and possessing more than the great intelligence (necessary for his development).
+
 ---
 
-**Progress note:** Done through printed p. 386. pp. 380-386 (batch API)
+**Progress note:** Done through printed p. 392. pp. 387-392 (batch API)
