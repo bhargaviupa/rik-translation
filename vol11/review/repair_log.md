@@ -21,3 +21,4 @@
 - w0587: sūtra number printed ೩-೨- at the page end and ೧೭೦ after the next running head; kept as one reference with a NOTE.
 - w0648: remark "[sic, as printed]" replaced by the copied word with a NOTE; hand IAST "(*bhaṅgī*)" replaced by the copied ⟦ಭಂಗೀ⟧.
 - w0661: a Telugu letter మృ (the machine reader's form of a Devanagari मृ) stands in the supplied printed English; copied as supplied. The stray-script gate now ignores letters that kn.md itself has.
+- 2026-11-12: tools/rv/kn_headings.py: 21 Sūkta and 143 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed) [WARN: Kannada line 17614 reads Sūkta 150 (as supplied); the English file has Sūkta 152 (Maṇḍala 1) at this position: heading follows the English order]. Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
