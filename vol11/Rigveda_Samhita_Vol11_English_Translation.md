@@ -12000,6 +12000,201 @@ In such places, where a distinction is shown between human beings and the subjec
 > प्र सा क्षि॒तिर॑सुर॒ या महि॑ प्रि॒य ऋता॑वानावृ॒तमा घो॑  ॒
 > षथो बृ॒हत् ।
 
+### Printed p. 493
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं दि॒वो बृ॑ह॒तो दक्ष॑मा॒भुवं॒ गां न धु॒र्युप॑  ॒
+> युंजाथे अपः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सा । क्षितिः । असुरा । या । महि । प्रिया । ऋतऽवान् । ऋतं । अ । घोषथः ।  
+> बृहत् ।  
+> युवं । दिवः । बृहतः । दक्षं । आभुवं । गां । न । धुरि । उप । युंजाथे इति !  
+> अपः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुरासुरौ बलवंतौ मित्रावरुणौ युवयोर्या क्षितिर्देवयजनरूपा
+> महि महवत्यधिकं प्रिया प्रियतरा प्रीणयित्रि वा सा क्षितिः प्र। प्रकर्षेण संपादिता।
+> उपसर्गश्रुतेयोग्यक्रियाध्याहारः ॥ तामासीदतमिति शेषः । यागभूमिर्देवानां
+> प्रियेति प्रसिद्धं । आसाद्य च हे ऋतावानावृतवंतौ युवां बृहत्प्रवृद्धमस्मदीयं यज्ञमा घोषथः । अवैकल्येन संपादित इति स्तुतमित्यर्थः । यतो युवं
+> युवां बृहतो महतो दिवो द्युलोकस्य धुरि दक्षं तर्पणवहने समर्थं ।
+> अथवा बृहतो दिवो महतो द्युलोकस्थदेवान् दक्षं प्रीणयितुमिति शेषः ।
+> यद्वा । कर्मणि षष्ठी । दिवो द्योतनात्मकं बृहतः प्रभूतं दक्षमभिमतसाधनसमर्थं । आभुवं सर्वतो भवनशीलमपः कर्म सोमयागरूपमुप युंजाधे
+> सेवेथे तत्रत्यं हविः स्वीकुरुथ इत्यर्थः । उपयोगे दृष्टांतः । धुरि शारीरबलस्य
+> निर्वाहे तदर्थं गां न धेनुमिव । तां यथोपयुंजते तद्वत् । यद्वा । विकारे
+> प्रकृतिशब्दः । क्षीरादिकमिव । तस्मादृतम घोषथः ॥
+
+##### Gist of the bhāṣya
+
+"O Asuras, the strong Mitrāvaruṇas, the sacrificial ground that is yours, in the form of the place of divine worship, is great (महि (*mahi*)), very dear (प्रिया (*priyā*)), or gladdening. That ground has been duly (प्र (*pra*)) prepared." The verbal action that fits the preverb heard here has to be supplied: "sit upon it" is the remainder. The sacrificial ground is well known to be dear to the gods. Having sat upon it, "O you two who possess the Ṛta, proclaim (आ घोषथः (*ā ghoṣathaḥ*)) our grown and great sacrifice": it has been performed without defect, and so it is praised.
+
+Why? Because you two apply (युंजाथे (*yuṃjāthe*)) to the yoke (धुरि (*dhuri*)) of the great heaven (बृहतो दिवो (*bṛhato divo*)) the work (अपः (*apaḥ*)) that is skilful (दक्षं (*dakṣaṃ*)), able to carry the offering of satisfaction, and all-pervading (आभुवं (*ābhuvaṃ*)). Or else, with "to gratify" understood: skilful to gratify the gods of the great heaven. Or else, the genitive is in the sense of the object: the work is luminous, ample, and able to accomplish what is desired; all-pervading in its nature, namely the Soma sacrifice. You resort to it, that is, you accept the oblation offered there. An illustration of the use: like a cow (गां न (*gāṃ na*)) put to the yoke to bear a bodily burden, as people apply her. Or else the word for the source is used for the product, as when milk and the like are meant. Therefore you proclaim the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुरा (*asurā*)—O Mitrāvaruṇas, who are possessed of power
+- या (*yā*)—which sacrificial ground
+- महि (*mahi*)—is great
+- प्रिया (*priyā*)—and dear (is)
+- सा (*sā*)—that ground, in the form of the place of divine worship
+- प्र (*pra*)—has been supremely well prepared
+- ऋतावान् (*ṛtāvān*)—you who accept the sacrifice
+- बृहत् (*bṛhat*)—(our sacrifice) performed extensively
+
+### Printed p. 494
+- ऋतं (*ṛtaṃ*)—(our) sacrifice
+- आ घोषथः (*ā ghoṣathaḥ*)—proclaim (that it has been performed with splendour)
+- युवं (*yuvaṃ*)—you two also
+- बृहतः (*bṛhataḥ*)—of vast extent
+- दिवः (*divaḥ*)—together with the region of heaven
+- दक्षं (*dakṣaṃ*)—that which is able (to satisfy the gods)
+- अभुवं (*abhuvaṃ*)—and which pervades all regions
+- अपः (*apaḥ*)—the rite (in the form of the Soma sacrifice). [Or दिवः (*divaḥ*)—that which is luminous; बृहतः (*bṛhataḥ*)—exceedingly; दक्षं (*dakṣaṃ*)—able (to provide the desired object); आभुवं अपः (*ābhuvaṃ apaḥ*)—the all-pervading sacrificial rite.]
+- धुरि (*dhuri*)—with the burden to be borne
+- गां न (*gāṃ na*)—as one joins a cow (or: as one combines milk and the like with the cow)
+- उप युंजाथे (*upa yuṃjāthe*)—you join together
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitrāvaruṇas, who are possessed of power, the sacrificial ground, great and dear, has been supremely well prepared. You, who accept the sacrifice, declare our sacrifice, which you have performed extensively, to have been performed with splendour. You two also join the sacrificial rite, which is able to provide the desired object and pervades all regions, together with the vast heaven, for the satisfaction of the gods, as one combines milk with the cow.
+
+##### Printed English
+
+Powerful divinities, most acceptable to you both is that spot, (where you are worshipped) : accepters of sacrifice, proclaim the great ceremony (as duly performed) ; for you two connect the efficacious and comprehensive rite with the vast heaven, like a cow with a burthen.
+
+##### विशेषविषयगळु (Special Topics)
+
+असुरा (*asurā*)—"असुरौ बलवंतौ मित्रावरुणौ (*asurau balavaṃtau mitrāvaruṇau*)": the word asura is explained as "those possessed of power". In contexts that display this power the word is used so as to give a meaning suited to each occasion. For example:
+
+अर्चा दिवे बृहते शूष्यंवचः स्वक्षत्रं यस्य दृषतो धृषन्मनः । बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः । (*arcā dive bṛhate śūṣyaṃvacaḥ svakṣatraṃ yasya dṛṣato dhṛṣanmanaḥ | bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ |*) (Ṛ. Saṃ. 1-54-3 **NOTE**)
+
+In this Ṛk the word asura is an epithet of Indra. Here असुरः शत्रोणां निरसिता (*asuraḥ śatroṇāṃ nirasitā*) is the explanation given: the one who casts out enemies. Or else, असुः प्राणो बलं वा तद्वान् । रो मत्त्वर्थीयः तान् राति ददातीत्यर्थः (*asuḥ prāṇo balaṃ vā tadvān | ro mattvarthīyaḥ tān rāti dadātītyarthaḥ*).
+
+### Printed p. 495
+It means one who drives away enemies. Or, since the word asu has the senses "life" and "strength", it also means one who has life, one who has strength. Or else asavaḥ means waters; because he gives them, Indra is called asura as an epithet. Since Indra has many such powers, the word can be an epithet of him in all these senses.
+
+प्र वेधसे कवये वेद्याय गिरं भरे यशसे पूर्व्याय । घृतप्रसत्तो असुरः सुशेवो रायो धर्ता धरुणो वस्वो अग्निः । (*pra vedhase kavaye vedyāya giraṃ bhare yaśase pūrvyāya | ghṛtaprasatto asuraḥ suśevo rāyo dhartā dharuṇo vasvo agniḥ |*) (Ṛ. Saṃ. 5-15-1)
+
+अहा यदिंद्र सुदिना व्युच्छान्पधो यत्केतुमुपमं समत्तु । न्यंग्निः सीदवसुरो न होता हुवानो अत्र सुभगाय देवान् ॥ (*ahā yadiṃdra sudinā vyucchānpadho yatketumupamaṃ samattu | nyaṃgniḥ sīdavasuro na hotā huvāno atra subhagāya devān ‖*) (Ṛ. Saṃ. 7-30-3)
+
+In these and other Ṛks the word is used as an epithet of Agni in the sense "powerful". In Ṛ. Saṃ. 7-56-24 and similar Ṛks it is used in the sense "possessed of wisdom"; in 1-126-2 and similar, "of giving nature"; in 3-56-8 and similar, as a synonym of time, कालात्मा संवत्सरः (*kālātmā saṃvatsaraḥ*); in 8-20-17 and similar, as a synonym of cloud; and in 10-82-5 and similar Ṛks, as a synonym of demon (daitya).
+
+वि सुपर्णो अंतरिक्षाण्यख्यद्दभीरवेपा असुरः सुनीथः । क्वेतिदानीं सूर्यः कश्चिकेत कतमां द्यां रश्मिरस्या ततान ॥ (*vi suparṇo aṃtarikṣāṇyakhyaddabhīravepā asuraḥ sunīthaḥ | kvetidānīṃ sūryaḥ kaściketa katamāṃ dyāṃ raśmirasyā tatāna ‖*) (Ṛ. Saṃ. 1-35-7)
+
+Here असुरः सर्वेषां प्राणदः (*asuraḥ sarveṣāṃ prāṇadaḥ*), "the giver of life to all", is an epithet of Sūrya.
+
+अव ते हेळो वरुण नमोभिरव यज्ञेभिरीमहे हविर्भिः । क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ॥ (*ava te heḷo varuṇa namobhirava yajñebhirīmahe havirbhiḥ | kṣayannasmabhyamasura pracetā rājannenāṃsi śiśrathaḥ kṛtāni ‖*) (Ṛ. Saṃ. 1-24-14)
+
+In this Ṛk the explanation is अनिष्टक्षेपणशीलः (*aniṣṭakṣepaṇaśīlaḥ*): because he has the power to destroy what is undesirable, Varuṇa has the epithet asura. Likewise in the present Ṛk, बलवंतौ मित्रावरुणौ (*balavaṃtau mitrāvaruṇau*): Mitrāvaruṇas of many kinds of power are addressed.
+
+*ṛtāvānau*—ऋतवंतौ (*ṛtavaṃtau*). Those who have Ṛta: the meaning is either those who have the ordinance in the form of Ṛta, or those who have the sacrifice. The relation of Mitrāvaruṇa to Ṛta has been explained at length earlier.
+
+### Printed p. 496
+
+##### Grammar
+
+- असुरा — असु क्षेपणे इति धातुः । असेरुरन् (उ. सू. १-४२) इत्यनेन उरन् प्रत्ययः । संबोधने द्विवचने परे सुपां सुलुक् (पा. सू. ७-१-३९) इत्यनेन तस्य आकारादेशः । आमंत्रितस्य च (पा. सू. ८-१-१९) इत्यनेन निघातस्वरः भवति ।
+- महि — मह पूजायां धातुः । अस्मात् सर्वधातुभ्य इन् इत्यनेन इन् प्रत्ययः । इत्यादिर्नित्यम् इत्यनेन आद्युदात्तस्वरः भवति ।
+- ऋतवान् — ऋतं अनयोः अस्ति इति ऋतावान् । छंदसी वनिप् इति वचनेन मत्त्वर्थे वनिप् प्रत्ययः । अन्येषामपि दृश्यते (पा सू. ६-३-१३७) इत्यनेन दीर्घः । पादादित्वात् आमंत्रितनिघातस्वरः न भवति । आमंत्रितस्य (पा. सू. ६-१-१९८) इत्यनेन आद्युदात्तस्वरः भवति ।
+- घोषथः — घुषिर् विशब्दने इति धातुः । लट् मध्यमपुरुष द्विवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- युवम् — प्रथमायाश्च द्विवचने भाषायाम् (पा. सू. ७-२-८८) इत्यत्र लोके एव आत्वम् इति अत्र आत्वं न भवति । शेषे लोपः (पा. सू. ७-२-९०) इत्यनेन मपर्यंतस्य परस्य लोपः ।
+- बृहतः — षष्ठी एकवचनांतरूपं । बृहन्महतोरुपसंख्यानम् इति वचनेन विभक्तेः उदात्तस्वरः भवति ।
+- धुरि — सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इत्यनेन सप्तमीविभक्तेः उदात्तस्वरः भवति ।
+- यंजाथे — युजिर् योगे इति धातुः । रुधादिः । लट् प्रथमपुरुष द्विवचने आथाम् प्रत्ययः । टेः एत्वम् । रुधादिभ्यः श्नम् (पा. सू. ३-१-७८) इत्यनेन श्नम् विकरणः । मित्त्वात् अंत्याचः परः भवति । श्नसोरल्लोपः (पा. सू. ६-४-१११) इत्यनेन तस्य अकारस्य लोपः । नकारस्य अनुस्वारः परसवर्णः । तिजंतनिघातस्वरः भवति ।
+
+### Printed p. 497
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ही अत्र॑ महि॒ना वार॑मृण्वथोऽरे॒णव॒स्तुज॒ आ सद्म॑न्थे॒नवः॑ ।  
+> स्वरं॑ति॒ ता उ॑प॒रता॑ति॒ सूर्य॒मा नि॒म्रुच॑ उ॒षस॑स्तक्व॒वीरि॑व॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मही इति । अत्र । महिना । वारं । ऋण्वथः । अरेणवः । तुजः । आ । सद्मन् । धेनवः ।  
+> स्वरंति । ताः । उपरताति । सूर्यं ! आ । निम्रुचः । उषसः । तक्ववीः इव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवां मही महत्यां ॥ सप्तम्येकवचने पूर्वसवर्ण
+> दीर्घः । ईदूतौ च सप्तम्यर्थे । पा. १-१-१९ । इति प्रगृह्यता ॥ अत्रास्यां पृथिव्यां
+> महिना महत्वेन या धेनूर्वारं वरणीयं प्रदेशमृण्वथः गमयथः ॥ अंतर्भावितण्यर्थोऽयं ॥ गमनादिव्यवहारस्य तयोरधीनत्वात् द्यावापृथिव्योरभिमानिदेवत्वाच्च मित्रावरुणयोः । ता एता धेनवो गावः सायंकाले युष्मन्महत्वेनारेणवोऽनवद्यास्तस्कराद्यनपहारेणानष्टा वा तुजः क्षीराणां प्रदात्र्यः ॥ तुजतिर्दान
+> कर्मा ॥ सद्मन् सद्मनि गोष्ठ आ । आश्रिता आगच्छंति वा ॥ उपसर्गश्रुतेयोर्ग्यक्रियाध्याहारः ॥ ता एवंकारिता धेनव उपरतातु परतात् ॥ सप्तम्या लुक् ॥ मेघानां
+> विस्तारवत्यंतरिक्षे मेघाच्छन्ने सति सूर्यं सर्वस्य प्रसवितारं सुवीर्यं शोभन
+> सामर्थ्यं वा । सुवीर्यो मर्या यथा गोपायत इति तत्सूर्यस्य सूर्यत्वमिति श्रुत्यंतरात् । आदित्यमभिलक्ष्य स्वरंति । शब्दयंति सुखसंचाराय । स्व शब्दोपतापयोः । भौवादिकः ॥ कस्मिन्काल इति तदुच्यते । निम्म्रुच उषसः । सर्वॆष्टपि
+> सायंकालेषूषःकालेषु च । तत्र दृष्टांतः । तक्ववीरिव । तक्वा स्तेनः । तस्य
+> वेता गंता मनुष्यः । स यथा क्रोशति तद्वत् । एवं निरुध्यानां गवां सुखचारो
+> युष्मदायत्त इति तयोः स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+"O Mitrāvaruṇas, you two": मही (*mahī*) is the locative singular of मही (*mahī*) (the earlier vowel and the long vowel coalesce), and by the rule ईदूतौ च सप्तम्यर्थे । पा. १-१-१९ (*īdūtau ca saptamyarthe | pā. 1-1-19*) it is pragṛhya. अत्र (*atra*) is "on this earth"; महिना (*mahinā*), "by greatness". The cows which you cause to go (ऋण्वथः (*ṛṇvathaḥ*)) to the choice place (वारं (*vāraṃ*)) – the verb has an inner causative sense, because the activity of going and the like is dependent upon those two, and Mitrāvaruṇa are the presiding deities of heaven and earth. Those cows, at evening, through your greatness are अरेणवः (*areṇavaḥ*), faultless, or not lost through theft and the like; they are तुजः (*tujaḥ*), givers of milk. (तुजतिर्दानकर्मा (*tujatirdānakarmā*).) सद्मन् (*sadman*) is in the stall (सद्मनि गोष्ठ (*sadmani goṣṭha*)); आ (*ā*): they come, resorting to it. The verbal action that fits the preverb heard here must be supplied. Those cows so brought, उपरताति (*uparatāti*) (the locative affix dropped), when the wide sky of clouds is covered by cloud, cry out स्वरंति (*svaraṃti*) towards the sun (सूर्यं (*sūryaṃ*)), the impeller of all, the possessor of good power, in order to move happily; he is Sūrya because of the Śruti passage सुवीर्यो मर्या यथा गोपायत इति तत्सूर्यस्य सूर्यत्वमिति (*suvīryo maryā yathā gopāyata iti tatsūryasya sūryatvamiti*). The root sva is in the sense of sound and heat, of the bhū class. At what time? That is told: निम्रुचः । उषसः (*nimrucaḥ | uṣasaḥ*), at all evenings and at all dawns. An illustration: तक्ववीरिव (*takvavīriva*): takvā is a thief, and the man who goes after him cries out; so it is. Thus the happy grazing of the confined cows depends on you: this is the praise of those two.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—(O Mitrāvaruṇas) vast
+- अत्र (*atra*)—on this earth
+- महिना (*mahinā*)—by your greatness
+- धेनूः (*dhenūḥ*)—the cows
+- वारं (*vāraṃ*)—(to what is) dear (to them), the stall
+
+### Printed p. 498
+- ऋण्वथः (*ṛṇvathaḥ*)—you bring together
+- धेनवः (*dhenavaḥ*)—those cows
+- अरेणवः (*areṇavaḥ*)—not harmed (by thieves and the like) or not stolen
+- तुजः (*tujaḥ*)—as givers of milk
+- सद्मन् (*sadman*)—in the stalls
+- आ (*ā*)—come and gather
+- ताः (*tāḥ*)—such cows
+- उपरताति (*uparatāti*)—at the time when the sky is covered by clouds
+- निम्रुचः (*nimrucaḥ*)—at evenings
+- उषसः (*uṣasaḥ*)—and also at dawns
+- आ सूर्यं (*ā sūryaṃ*)—towards the sun
+- तक्षवीरिव (*takṣavīriva*)—as one who searches for a thief cries out loudly (for the help of others)
+- स्वरंति (*svaraṃti*)—cry out (for the light needed for their happy movement)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitrāvaruṇas, on this vast earth you bring the cows that have gone out to graze, by your greatness, to the stall that is dear to them. Those cows, neither stolen by thieves and the like nor harmed by wicked creatures, come and gather in the stalls as givers of milk. Such cows, even when the sky is covered by clouds, at evenings and also at dawns, cry out to the sun for light, as one who searches for a thief cries out for help.
+
+##### Printed English
+
+you bring (the cattle) to their acceptable (pasture) upon earth, whence the milk-yielding cows, protected by your power, return unharmed to their stalls : they cry to the sun (in heaven) above, both at evening and at dawn, as one (cries aloud) who detects a thief.
+
+##### विशेषविषयगळु (Special Topics)
+
+अरेणवः (*areṇavaḥ*)—The word reṇu means dust. In an extended sense this word is used also in the senses of dirt, impurity, sin and the like. It is customary to describe the sky with the word areṇavaḥ as a dustless sky. The word is also used in the sense अहिंस्याः (*ahiṃsyāḥ*): those who do not become objects of harm.
+
+अव स्वयुक्ता दिव आ वृधा ययुरमर्त्याः कशया चोदत त्मना । अरेणवस्तुविजाता अचुच्यवुर्दृळ्हानि चिन्मरुतो भ्राजदृष्टयः ॥ (*ava svayuktā diva ā vṛdhā yayuramartyāḥ kaśayā codata tmanā | areṇavastuvijātā acucyavurdṛḷhāni cinmaruto bhrājadṛṣṭayaḥ ‖*) (Ṛ. Saṃ. 1-178-4)
+
+Here the word areṇavaḥ is an epithet of the Maruts, with the meaning आपापाः (*āpāpāḥ*), free from sin, pure of soul.
+
+### Printed p. 499
+त्यं चिदश्वं न वाजिनमरेणवो यमत्नत । दृळ्हं ग्रंथिं न निष्यतमत्रिं यविष्ठमा रजः ॥ (*tyaṃ cidaśvaṃ na vājinamareṇavo yamatnata | dṛḷhaṃ graṃthiṃ na niṣyatamatriṃ yaviṣṭhamā rajaḥ ‖*) (Ṛ. Saṃ. 10-143-2)
+
+In these and other Ṛks, अहिंस्यमानाः (*ahiṃsyamānāḥ*), the asuras who do not fall into harm and are mighty: it shows the power of the asuras. Likewise in the present Ṛk, this word is an epithet of the word धेनवः (*dhenavaḥ*), and gives one sense, अनवद्याः (*anavadyāḥ*), free from sin, that is, pure; or another sense, तस्कराद्यनपहारेण अनष्टा वा (*taskarādyanapahāreṇa anaṣṭā vā*), not stolen by thieves and the like.
+
+तुजः (*tujaḥ*)—Since the word tuja has the sense of harming, it is read among the names of the thunderbolt (Ni. 3-11). तुजतिः दानकर्मा (*tujatiḥ dānakarmā*): it also has the sense of giving.
+
+आ नस्तुजं रयिं भरांशं न प्रतिजानते । वृक्षं पक्वं फलमंकीव धूनुहींद्र, संपारणं वसु ॥ (*ā nastujaṃ rayiṃ bharāṃśaṃ na pratijānate | vṛkṣaṃ pakvaṃ phalamaṃkīva dhūnuhīṃdra, saṃpāraṇaṃ vasu ‖*) (Ṛ. Saṃ. 3-45-2)
+
+In these and other Ṛks, तुजः (*tujaḥ*) means शत्रूणां बाधकं (*śatrūṇāṃ bādhakaṃ*), one who harms enemies; it is an epithet of a son endowed with wealth.
+
+ज्योतिरज्ञाय रोदसी अनु ष्यादारे स्याम दुरितस्य भूरेः । भूरि चिद्दि तुजतो मर्त्यस्य सुपारासो वसवो बर्हणावत् ॥ (*jyotirajñāya rodasī anu ṣyādāre syāma duritasya bhūreḥ | bhūri ciddi tujato martyasya supārāso vasavo barhaṇāvat ‖*) (Ṛ. Saṃ. 3-39-8)
+
+In these and other Ṛks, तुजतः (*tujataḥ*) means भूरिप्रदस्य (*bhūripradasya*): give abundant wealth to the worthy sacrificer. In the present Ṛk also the word tuja in the sense of giving is an epithet of the cows, "giving milk and the like".
+
+ऋण्वथः (*ṛṇvathaḥ*)—Formed from the root riv, in the sense of going, it has the senses "make reach", "convey", "cause to go".
+
+पवमानो अभि स्पृधो विशो राजेव सीदति । यदीमृण्वंति वेधसः । (*pavamāno abhi spṛdho viśo rājeva sīdati | yadīmṛṇvaṃti vedhasaḥ |*) (Ṛ. Saṃ. 9-7-5)
+
+As in these and other Ṛks the meaning is गमयति प्रेरयति (*gamayati prerayati*), "causes to go", so in the present Ṛk also the meaning is "you bring together (the cows into the stall)".
+
 ---
 
-**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
+**Progress note:** Done through printed p. 499. pp. 493-499 (batch API)
