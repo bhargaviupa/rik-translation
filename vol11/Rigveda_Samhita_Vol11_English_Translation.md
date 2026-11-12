@@ -9558,6 +9558,146 @@ Skilled in attendance, refining and providing the paths of Agni, which are free 
 
 (There are) two well-disposed milch cows together approaching their common progeny, and fully nourishing (him); pointing out the paths that are free from all that is to be avoided, and possessing more than the great intelligence (necessary for his development).
 
+### Printed p. 393
+
+##### विशेषविषयगळु (Special Topics)
+
+*sumeke*—शोभनकर्माणौ शोभनमेहने वा । परिचरणकुशले इत्यर्थः । (*śobhanakarmāṇau śobhanamehane vā | paricaraṇakuśale ityarthaḥ |*). Sāyaṇa has explained it here as "having excellent action" or "skilled in service". Ordinarily this word is used in the sense of "firmly established". In many places it may also mean "of excellent form". For example:
+
+अच्छिद्रा शर्म जरितः पुरूणि देवा अच्छा दीद्यानः सुमेधाः । रथो न सस्निरभि वक्षि वाजमग्ने त्वं रोदसी नः सुमेके (*acchidrā śarma jaritaḥ purūṇi devā acchā dīdyānaḥ sumedhāḥ | ratho na sasnirabhi vakṣi vājamagne tvaṃ rodasī naḥ sumeke*) (Ṛ. Saṃ. 3-15-5)
+
+In Ṛks such as this it means "possessed of beautiful form, shining with their own radiance", that is, shining with their own light and having a pleasing form. In the present Ṛk, the epithet is probably used because the Hotṛ and Adhvaryu, or the sacrificer and his wife (the *dhenū*), are of good form through their excellent acts.
+
+*mimāne*—संपादयित्र्य (*saṃpādayitrya*): those who prepare and bring about (the sacrifice).
+
+*viṣvak*—सर्वतः (*sarvataḥ*): it means "on all sides", or "gathering together".
+
+तव भ्रमास आशुचा पतंत्यनु स्पृश गृषता शोशुचानः । तपूंष्यग्ने जुह्वा पतंगानसंदितो वि सृज विष्णुगुल्काः ॥ (*tava bhramāsa āśucā pataṃtyanu spṛśa gṛṣatā śośucānaḥ | tapūṃṣyagne juhvā pataṃgānasaṃdito vi sṛja viṣṇugulkāḥ ‖*) (Ṛ. Saṃ. 4-4-2)
+
+In Ṛks such as this the meaning is everywhere "on all sides". In the present Ṛk the sense is that the Hotṛ and Adhvaryu, gathered together, wait upon him.
+
+*dhenū*—ईदृश्यौ अध्वर्युयजमानरूपे, जायापतिरूपे वा धेनू (*īdṛśyau adhvaryuyajamānarūpe, jāyāpatirūpe vā dhenū*). Here Agni is likened to the calf, and the sacrificer and his wife, or the Hotṛ and Adhvaryu, to the milch cows. The sense is that the mutual relation between Agni and these is so full of affection, and that just as the calf's coming gladdens the cow, so Agni's appearance gladdens them. This word is used in many places in the sense प्रीणयित्र्यौ हर्षदायकौ (*prīṇayitryau harṣadāyakau*), "the two who give joy":
+
+महान्तधस्थे ध्रुव आ निषत्तोऽंतर्द्यावा माहिने हर्यमाणः । आस्के सपत्नी अजरे अमृक्ते सबर्दुघे उरुगायस्य धेनू । (*mahāntadhasthe dhruva ā niṣatto 'ṃtardyāvā māhine haryamāṇaḥ | āske sapatnī ajare amṛkte sabardughe urugāyasya dhenū |*) (Ṛ. Saṃ. 3-6-4)
+
+### Printed p. 394
+
+Here it is an epithet of heaven and earth. Agni is described in the form of the calf, and *dhenū* is explained as प्रीणयित्र्यौ (*prīṇayitryau*).
+
+माता च यत्र दुहिता च धेनू सबर्दुघे धापयेते समीची । ऋतस्य ते सदसीळे अंतर्महद्देवानामसुरत्वमेकं ॥ (*mātā ca yatra duhitā ca dhenū sabardughe dhāpayete samīcī | ṛtasya te sadasīḷe aṃtarmahaddevānāmasuratvamekaṃ ‖*) (Ṛ. Saṃ. 3-55-12)
+
+Here too, as an epithet of heaven and earth, जगतः प्रीणयित्र्यौ (*jagataḥ prīṇayitryau*) means "the two who give joy to the whole world". Likewise in the present Ṛk the giving of joy is the chief quality. The sense is that the Hotṛ and Adhvaryu, and the sacrificer and his wife, received Agni, who is in the form of the calf, with affection and waited upon him.
+
+##### Grammar
+
+- वत्सम् — वद व्यक्तायां वाचि धातुः । व्यत्यवदि—(उ. सू. ३-३४२) इति स प्रत्ययः । खरिच इति धातुदकारस्य तकारादेशः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- संचरंती — चर गतिभक्षणयोः धातुः । लडर्थे शतृ प्रत्ययः । स्त्रीत्वे उगितश्च इति जीप् । शप्‌श्यनोर्नित्यम् इति सुमागमः । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । द्विवचने परे सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः भवति ।
+- विष्टक् — अंचु गतिपूजनयोः धातुः । विषु इत्युपपदे ऋत्विक्दधृक्—(पा. सू. ३-२-५९) इति क्विन् प्रत्ययः । अनिदितां हलउ—(पा. सू. ६-४-२८) इति उपधानकारलोपः । क्विन्प्रत्ययस्यकुः (पा. सू. ८-२-६२) इति धातुचकारस्य कुत्वम् ।
+- चरतः — चर गतिभक्षणयोः धातुः । लट् प्रथमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- सुमेके — मिह सेचने धातुः । भावार्थे घत् प्रत्ययः । शोभनं मेहः ययोस्ते सुमेके । व्यत्ययेन हकारस्य ककारादेशः । इत् स्वरेण आद्युदात्तः भवति । समासे आद्युदात्तंद्व्यच् छंदसि (पा. सू. ६-२-११९) इति उत्तरपवांतोदात्तस्वरः भवति । द्विवचनांतरूपम् ।
+- अनपवृज्यान् — न अपवृज्यः अनपवृज्यः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति । द्वितीयाबहुवचनांतरूपम् ।
+
+### Printed p. 395
+- अध्वनः — अद भक्षणे धातुः । अदेर्धच (उ. सू. ४-५५५) इति क्वनिप् प्रत्ययः । धकारः अंतादेशः भवति । प्रत्ययस्य पित्त्वात् धातुस्वरः शिष्यते । नसंयोगाद्वमंतात् (पा. सू. ६-४-१३७) इति अल्लोपनिषेधात् द्वितीयाबहुवचने अनिनः अकारस्य लोपः न भवति ।
+- मिमाने — माज् माने धातुः । जुहोत्यादिः । लडर्थे शानच् प्रत्ययः । श्लु विकरणम् । भृञामित् (पा. सू. ७-४-६९) इति अभ्यासस्य इत्वम् । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति । द्विवचनांतरूपम् । एवमेव दधाने इत्यत्रापि धाण् धातोः शानच् आगत्य रूपसिद्धिः भवति ।
+- महः — मह पूजायां धातुः । क्विप् च इति क्विप् प्रत्ययः । द्वितीयाबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६) इति विभक्तेः उदात्तस्वरः भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धीरा॑सः प॒दं क॒वयो॑ नयंति॒ नाना॑ हृ॒दा रक्ष॑माणा  ॒
+> अजुर्यं ।  
+> सिषा॑संतः॒ पर्य॑पश्यंत॒ सिंधु॑मा॒विरे॑भ्यो अभव॒त्सूर्यो॒  
+> न्मन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीरासः । पदं । कवयः । नयंति । नाना । हृदा । रक्षमाणाः । अजुर्यं ।  
+> सिसासंतः । परि । अपश्यंत । सिंधुं । आविः । एभ्यः । अभवत् । सूर्यः । न्यान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीरासो धीरा धीमंतः प्रयोगज्ञा अध्वर्यादयोऽजुर्यमजर्यमजीर्णमेनमग्नं पदं स्थानं वेदिलक्षणं नयंति । प्रापयंति । मथनदेशाद्गार्हपत्याद्वा । अथवा वक्ष्यमाणलक्षणा यजमानादयः पदमास्पदं सर्वकामा-
+
+##### Gist of the bhāṣya
+
+धीरासो (*dhīrāso*) are the wise, the intelligent, those who know the performance of the rite, the Adhvaryu and the others. They lead this unageing, undecaying Agni to the "place" (पदं (*padaṃ*)), which is the altar, that is, bring him there, either from the place of churning or from the Gārhapatya fire. Or else the sacrificers and others, described below, conduct him to the abode (*padaṃ āspadaṃ*) of all desires. (The sentence continues in the next block.)
+
+### Printed p. 396
+
+> नामास्पदमेनं गमयंति । कीदृशास्ते । कवयः क्रांतदर्शिनो मेधाविनः अनूचाना वा । ये वा अनूचानास्त्ये कवय इति श्रुतेः । किंच नाना हृदा बहुप्रकारया बुद्ध्या रक्षमाणा धारयमाणाः। किंचैवंरूपास्ते सिंधुं स्यंदमानं यज्ञद्वारा फलानि स्रवंतमग्निं सिषासंतः संभक्तुमिच्छंतः ॥ सनतेः सनि सनीवंतर्धेति
+> विकल्पनादिडभावः । जनसनखनामित्यात्वं ॥ पर्यपश्यंत । परितः पश्यंति । शुशूषंत
+> इत्यर्थः । किंच सूर्यः सर्वस्य प्रसवितायमग्निरेभ्य एव कुर्वद्यो न्यन्नृभ्यो
+> नेतृभ्य आविरभवत् । तेषामनुग्रहेण प्रत्यक्षोऽभवत् ॥ न्यानित्यत्र वचनव्यत्ययः ॥
+> न्यन्प्राणिनोऽनुग्रहीतुमिति ना योज्यं ॥
+
+##### Gist of the bhāṣya
+
+What are these men like? कवयः (*kavayaḥ*) are the far-seeing and intelligent, or else those who have mastered the recitation; Sāyaṇa cites the Śruti ये वा अनूचानास्त्ये कवय इति (*ye vā anūcānāstye kavaya iti*). Further, "with manifold heart" means with intelligence of many kinds, they are guarding, that is, holding him. They are such that, wishing to serve (संभक्तुमिच्छंतः (*saṃbhaktumicchaṃtaḥ*)) the सिंधुं (*siṃdhuṃ*), Agni, who flows and pours out fruits through the sacrifice, they पर्यपश्यंत (*paryapaśyaṃta*), look all around him, which means they wish to serve him. Further, Sūrya, the impeller of all, this very Agni, became manifest to these न्यन्नृभ्यो (*nyannṛbhyo*), the leaders; through their favour he became visible. In न्यान् (*nyān*) there is a change of number. Sāyaṇa adds that न्यन्प्राणिनोऽनुग्रहीतुमिति ना योज्यं (*nyanprāṇino 'nugrahītumiti nā yojyaṃ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—the wise
+- धीरासः (*dhīrāsaḥ*)—the skilled in performance, the Adhvaryu and others, or the sacrificers and the rest
+- अजुर्यं (*ajuryaṃ*)—Agni, the imperishable
+- हृदा (*hṛdā*)—in their hearts
+- नाना (*nānā*)—in many ways
+- रक्षमाणाः (*rakṣamāṇāḥ*)—cherishing
+- पदं (*padaṃ*)—to the altar
+- नयंति (*nayaṃti*)—bring and place him. [Or] पदं (*padaṃ*)—Agni, who is the abode of all desired objects; नयंति (*nayaṃti*)—they carry him.
+- सिंधुं (*siṃdhuṃ*)—Agni, who makes (the fruits through the sacrifice) pour forth
+- सिषासंतः (*siṣāsaṃtaḥ*)—wishing to serve
+- पर्यपश्यंत (*paryapaśyaṃta*)—they worship all around (therefore)
+- सूर्यः (*sūryaḥ*)—Agni in the form of the Sun
+- एभ्यः न्यून् (*ebhyaḥ nyūn*)—to these, the guides
+- आविरभवत् (*āvirabhavat*)—became manifest, appeared visibly
+
+##### भावार्थ (Bhāvārtha)
+
+The wise ones, skilled in the performance, the Adhvaryu and the others, cherish the imperishable Agni in their hearts in many ways and bring him to the altar. Wishing to serve Agni, who gives the desired things through the sacrifice, they worship him all around. This Agni, who in the form of the Sun brings all things into being, appeared visibly to these worshippers, the guides.
+
+##### Printed English
+
+Experienced sages bring the invincible (Agni) to his station (on the altar); cherishing him in manifold (ways) in their hearts : desirous of propitiating him they worship the (boon)-shedding (Agni); and to those men he is manifest as the Sun.
+
+### Printed p. 397
+
+##### विशेषविषयगळु (Special Topics)
+
+*dhīrāsaḥ*—धीरो धीमान् (*dhīro dhīmān*): it means one possessed of wisdom (Ni. 3-12). This word is read among the names of the intelligent (Ni. 3-9 **NOTE**). In this Ṛk Sāyaṇa has explained it as प्रयोगज्ञा अध्वर्वादयः (*prayogajñā adhvarvādayaḥ*), that is, the officiating priests, the Adhvaryu and others, who are skilled in the performance. In present usage the word *dhīra* means one who has courage. In the Veda and the Upaniṣads it is used only in the sense "wise, discerning". There too, since the *dhīra* is wise, and since he has such qualities as being fearless after conquering fear and being calm of mind even in time of calamity, the sense comes to be "one who has courage".
+
+युवा सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवय उन्नयंति स्वाध्यो ३ मनसा देवयंतः ॥ (*yuvā suvāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ | taṃ dhīrāsaḥ kavaya unnayaṃti svādhyo 3 manasā devayaṃtaḥ ‖*) (Ṛ. Saṃ. 3-8-4)
+
+In Ṛks such as this, and in
+
+श्रेयश्च प्रेयश्च मनुष्यमेतस्ता संपरीत्य विविनक्ति धीरः । श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मंदो योगक्षेमाद्वृणीते ॥ (*śreyaśca preyaśca manuṣyametastā saṃparītya vivinakti dhīraḥ | śreyo hi dhīro 'bhipreyaso vṛṇīte preyo maṃdo yogakṣemādvṛṇīte ‖*) (Kaṭha. 2-2)
+
+महांतं विभुमात्मानं मत्वा धीरो न शोचति (*mahāṃtaṃ vibhumātmānaṃ matvā dhīro na śocati*) (Kaṭha. 5-4)
+
+and in such Upaniṣadic sentences too, the word *dhīra* means धीमान् प्राज्ञः (*dhīmān prājñaḥ*), intelligent, wise.
+
+*ajuryam*—अजीर्णं । (*ajīrṇaṃ |*) नाशरहितं । (*nāśarahitaṃ |*) It is an epithet of Agni meaning "without destruction".
+
+*sindhum*—सिंधुः स्रवणात् (*siṃdhuḥ sravaṇāt*). A river is called *sindhu* because it flows; therefore the word is read among the names of rivers. Here, स्यंदमानं यज्ञद्वारा फलानि (*syaṃdamānaṃ yajñadvārā phalāni*): it is an epithet of Agni because he makes the fruits flow through the sacrifice.
+
+*padaṃ nayanti*—Sāyaṇa has explained this in two ways. First, पदं स्थानं वेदिलक्षणं नयंति (*padaṃ sthānaṃ vedilakṣaṇaṃ nayaṃti*): they carry him to the place which is the altar. Or secondly, यजमानादयः सर्वकामानामास्पदमेनं नयंति (*yajamānādayaḥ sarvakāmānāmāspadamenaṃ nayaṃti*): they carry Agni, the giver of all desired objects.
+
+*paryapaśyanta*—परितः पश्यंति । (*paritaḥ paśyaṃti |*) शुश्रुषंत इत्यर्थः । (*śuśruṣaṃta ityarthaḥ |*) It means they worship all around.
+
+### Printed p. 398
+
+##### Grammar
+
+- धीरासः — डुधाण् धारणपोषणयोः धातुः । सुसूधागृधिभ्यः (उ. सू. २-१८२) इति क्रन् प्रत्ययः । कित्त्वात् घुमास्था (पा सू. ६-४-६६) इति धातोः ईत्वम् । जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति असुकागमः । इत्त्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।
+- कवयः — कु शब्दे धातुः । अचइः (उ. सू. ४-५७८) इति इ प्रत्ययः । प्रत्ययनिमित्तं धातोः इकः गुणः । अवादेशः । प्रत्ययस्वरेण अंतोदात्तः भवति । जस् परे जसि च इति गुणः । अयादेशः ।
+- नयंति — णीञ् प्रापणे धातुः । णोनः इति आदेः नत्वम् । लट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- हृदा — हृदयशब्दः । तृतीयाविकवचने परे पद्दन्नोमास्—(पा सू. ६-१-६३) इति हृदादेशः । ऊडिदंपदादि—(पा- सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः भवति ।
+- रक्षमाणाः — रक्ष पालने धातुः । लडर्थे शानच् प्रत्ययः । शप् विकरणम् । अनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । तास्यनुदात्तेत् सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- अजुर्यम् — ज्यष् वयोहानौ धातुः । भावार्थे ण्यत् प्रत्ययः । अचोञ्छति इति धातोः ऋकारस्य वृद्धिः । र परे भवति । व्यत्ययेन आकारस्य उकारः भवति । न विद्यते जुर्यं जरा यस्य सः अजुर्यः तम् । नञ् सुभ्याम् (पा, सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति ।
+- सिषासंतः — षण संभक्तौ धातुः । धातोः कर्मणः (पा. सू. ३-१-७) इति इच्छार्थे सन् । सनीवंतर्थ—(पा. सू. ७-२-४९) इति इडागमः । विकल्पविधानात् अत्र इडागमः न भवति । जनसनखनां सन्‌झलोः (पा सू. ६-४-४२) इति धातोः आत्वम् । सन्यतः (पा. सू ७-४-७९) इति अभ्यासस्य इत्वम् । सन्नंतात् लट् आगते तस्य शत्रादेशः । प्रथमाबहुवचनांतरूपम् । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
+- अपश्यंत — दृशिर् प्रेक्षणे धातुः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 392. pp. 387-392 (batch API)
+**Progress note:** Done through printed p. 398. pp. 393-398 (batch API)
