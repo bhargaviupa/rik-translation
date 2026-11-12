@@ -947,6 +947,184 @@ Sūkta 139. Maṇḍala 1, Anuvāka 20, Sūkta 139; Aṣṭaka 2, Adhyāya 2, Va
 - क्राणा (*krāṇā*)—making its own self-manifestation
 - संदायि (*saṃdāyi*)—(offered to the gods) them
 
+### Printed p. 39
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संदायि (*saṃdāyi*) (continued)—…joins (them), (and therefore)
+- अस्तु शौषट् (*astu śauṣaṭ*)—may (our praise) be made audible to all the gods
+- अध (*adha*)—afterwards
+- नः (*naḥ*)—our
+- धीतयः (*dhītayaḥ*)—the acts that take the form of praise
+- प्र सु उप यंतु (*pra su upa yaṃtu*)—may they, in excellent order, reach the gods
+- नः (*naḥ*)—our
+- धीतयः (*dhītayaḥ*)—the sacrificial rites and the like also
+- देवान् (*devān*)—the gods, Agni and the others
+- अच्छा न (*acchā na*)—going towards them (may they reach them)
+
+##### भावार्थ (Bhāvārtha)
+
+I have installed Agni, the Āhavanīya fire, on the northern altar in front. Let us take refuge in the divine power of that Agni. Likewise let us take refuge in Indra and in Vāyu. Because we, full of devotion, have offered our new praise in this sacrifice, which is the navel of the earth, let this praise of ours touch the ears of the gods. Let our acts of praise, and our other sacrificial rites, go with the greatest faith and reach the gods.
+
+##### Printed English
+
+May our prayers be heard. I place before ( me ) Agni with rever-
+ence ; we have recourse to his celestial might ; we have recourse to Indra
+and to Vayu : which doing, a new (hymn) has been addressed (by us) to the
+radiant navel (of the earth) ; and thereupon may our pious rites attain the
+the gods ; may our pious rites attain tbe presence of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+तत् शर्धः—तादृशं बलवंतं ना अग्निं, यद्वा तच्छर्धः तादृशं मरुतां स्वरूपं बलं । (*tat śardhaḥ—tādṛśaṃ balavaṃtaṃ nā agniṃ, yadvā tacchardhaḥ tādṛśaṃ marutāṃ svarūpaṃ balaṃ |*)—"the mighty Agni", or else "that natural strength of the Maruts". Sāyaṇa has shown that two kinds of meaning are possible: the powerful Agni, or the power of the Maruts, which is both natural to them and collective. The word śardha is read among the names of strength (Ni. 3-9). As a rule this word is used with reference to the Maruts alone; the meaning is the collective power of the Maruts.
+सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः (*sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ*) (Śa. Brā. 2-5-1-13)
+सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति । (*sapta sapta hi māruto gaṇaḥ sarvamevaitena rathaṃ prīṇāti |*) (Śa. Brā. 5-4-3-17)
+From such sentences it is known that the Maruts always keep together in a troop. In a troop of that kind a certain vitality and strength is naturally present. The word śardhaḥ is a synonym that denotes that strength of the troop. This word is used both in the neuter gender, ending in -s,
+
+### Printed p. 40
+
+and in the masculine, ending in a vowel. In ṛks such as 5-56-9; 2-30-11; 7-56-8 it ends in -ā.**NOTE** In ṛks such as 1-37-1 it ends in -s. Although this word is generally used with reference to the Maruts alone, sometimes it also denotes the troop of other gods.
+शृणोतु नो दैव्यं शर्धो अग्निः शृण्वंतु निश्वे महिषा अमूराः । (*śṛṇotu no daivyaṃ śardho agniḥ śṛṇvaṃtu niśve mahiṣā amūrāḥ |*) (Ṛ. Saṃ. 7-44-5)
+स आ वह देवतातिं यविष्ठ शर्धो यदद्य दिव्यं यजासि । (*sa ā vaha devatātiṃ yaviṣṭha śardho yadadya divyaṃ yajāsi |*) (Ṛ. Saṃ. 3-19-4)
+In all these places "divine śardha" means the collective power of a divine nature. In the same way the word is used when other, worldly groups are referred to. For example:
+तं वः शर्धं रथानां त्वेषं गणं मारुतं नव्यसीनां । (*taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇaṃ mārutaṃ navyasīnāṃ |*) (Ṛ. Saṃ. 25-23-10)**NOTE**
+Here it means the collective strength of the chariots; and
+अवासां मघवञ्जि हि शर्धो यातुमतीनां (*avāsāṃ maghavañji hi śardho yātumatīnāṃ*) (Ṛ. Saṃ. 1-133-3)
+Here it means the strength of weapons, or of those who do harm. In the present ṛk it means the power of Agni or the power of the Maruts.
+नाभा (*nābhā*): Sāyaṇa explains that it may mean the sacrificial ground, which is the navel-place of the earth and takes the form of the altar (भूम्या नाभिस्थाने देवयजने वेदिरूपे (*bhūmyā nābhisthāne devayajane vedirūpe*)), or else the sacrifice that gives all fruit (नाभौ सर्वफलस्य संबंधके यज्ञे (*nābhau sarvaphalasya saṃbaṃdhake yajñe*)). Since the northern altar is praised thus:
+विश्वायुरसि पृथिवीं दृग्‌ह ध्रुवक्षिवसि (*viśvāyurasi pṛthivīṃ dṛgha dhruvakṣivasi*) (Tai. Saṃ. 1-2-19)
+the first meaning fits. Or, if the meaning "sacrifice" is taken, support for that meaning too is found in Saṃhitā sentences such as:
+इयं वेदिः परो अंतः पृथिव्या अयं यज्ञोभुवनस्य नाभिः । (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā ayaṃ yajñobhuvanasya nābhiḥ |*) (Ṛ. Saṃ. 1. 164-35)
+यज्ञ माहुर्भुवनस्य नाभिं (*yajña māhurbhuvanasya nābhiṃ*) (Trai. Saṃ. 7-4-18)**NOTE**
+Either of the two meanings may be given.
+विवस्वति (*vivasvati*)—दीप्तिमति (*dīptimati*), that is, "shining". It is an adjective of the word nābhā. In the Ṛgveda-Saṃhitā the word vivasvat is used in different senses. Besides meaning "shining" and "man", it is also a proper name, the name of a person.
+
+### Printed p. 41
+
+अमूरः कविरदितिर्विवस्वान्तुसंसन्नित्रो अतिथिः शिवोनः । (*amūraḥ kaviraditirvivasvāntusaṃsannitro atithiḥ śivonaḥ |*) (Ṛ. Saṃ. 7-9-3)
+विवस्वता चक्षसा द्यामपश्च देवा अग्निं धारयन्प्रविणोदां । (*vivasvatā cakṣasā dyāmapaśca devā agniṃ dhārayanpraviṇodāṃ |*) (Ṛ. Saṃ. 1-96-2)
+In ṛks such as these the meaning is "shining";
+आ मातो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā māto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*) (Ṛ. Saṃ. 6-8-4)
+Here it means the Āditya;
+स शेवधिं नि दधिषे विवस्वति विश्वस्यैक ईशिषे सासुक्थ्यः (*sa śevadhiṃ ni dadhiṣe vivasvati viśvasyaika īśiṣe sāsukthyaḥ*) (Ṛ. Saṃ. 2-13-6)
+नप्तिभिर्यो विवस्वतः शुभ्रो न मामृजे युवा । गाः कृण्वानोन निर्णिजं॥ (*naptibhiryo vivasvataḥ śubhro na māmṛje yuvā | gāḥ kṛṇvānona nirṇijaṃ‖*) (Ṛ. Saṃ. 9-14-5)
+In ṛks such as these it means a man who performs a sacrifice. And,
+यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश । (*yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa |*)
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate |*) (Ṛ. Saṃ. 10-17-1, 2)
+In these ṛks vivasvān is a proper name. The marriage of Vivasvān and Saraṇyū and the matter of their offspring will be told later, when the account of Vivasvān comes. Among these several meanings, in the present ṛk vivasvati means "shining".
+
+##### Grammar
+
+- अस्तु — आस भुवि धातुः । लोट् प्रथमपुरुषस्य एकवचनांतरूपं । पादादौ वर्तमानत्वात् निघातस्वरः न भवति । प्रत्ययस्य पित्त्वात् धातुस्वरः अवशिष्यते ।
+- धिया — तृतीया एकवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरः भवति ।
+- दधे — डुधाञ् धारणपोषणयोः धातुः । लिट् उत्तमपुरुषस्य एकवचनांतरूपं । तिइंतत्वात् निघातस्वरः भवति । **NOTE**
+- वृणीमहे — वृज् संभक्तौ धातुः । लट् उत्तमपुरुषबहुवचने महिज् प्रत्ययः । टेः एत्वं । क्र्यादिभ्यःश्ना (पा. सू. ३-१-८१) इति श्नाविकरणं । ई हल्यघोः (पा. सू. ६-४-११३) इति विकरणस्य ईत्वं । ऋवर्णात् परत्वात् णत्वं । तिजंतत्वात् निघातस्वरः भवति ।
+
+### Printed p. 42
+
+- इंद्रवायू — इंद्रश्च वायुश्च इंद्रवायू । अत्र देवताद्वंद्वेच (पा. सू. ६-३-२६) इति प्राप्तस्य अनजः उभयत्र वायोः प्रतिषेधो वक्तव्यः (पा. सू. ६-३-२६-१) इति प्रतिषेधः भवति । देवताद्वंद्वे च (पा. सू. ६-२-१४१) इति उभयपदप्रकृतिस्वरे प्राप्ते नोत्तरपदेअनुदात्तादौ (पा. सू. ६-२-१४२) इति निषेधः भवति । तदा समासस्य (पा. सू. ६-१-२२३) इति अंतोदात्तस्वरः भवति ।
+- क्राणा — डुकृञ् करणे धातुः । लडर्थे शानच् प्रत्ययः । बहुलं छंदसि इति विकरणस्य (उ) लुक् । सार्वधातुकमपित् इति प्रत्ययस्य जित्वातिदेशात् गुणः न भवति । यणादेशः । चितः (पा. सू. ६-१-१६३) अंतोदात्तस्वरः भवति । स्त्रीत्वे टाप् । प्रथमा एकवचनांतरूपं ।
+- नाभा — सुपां सुलुक् (पा.सू. ७-१-३९) इति सप्तमीविभक्तेः आकारादेशः ।
+- संदायि — सम् उपसर्गः । डुदाङ् दाने धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे कर्मणि लुज् । प्रथमपुरुषएकवचने तप्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति ज्लेः चिणादेशः । आतो युक् चिण्कृतोः (पा. सू. ७-३-३३) इति धातोः युकागमः । चिणो लुक् (पा. सू. ६-४-१०४) इति परस्य तशब्दस्य लुक् । बहुलं छंदस्य— (पा. सू. ६-४-२५) इति अडागमः न भवति । यद्योगत्वात् निघातस्वरः न भवति ।
+- नव्यसी — अतिशयार्थे ईयसुन् प्रत्ययः । छांदसत्वेन तस्य ईकारस्य लोपः । नित्त्वात् आद्युदात्तस्वरः भवति । उगित्त्वात् स्त्रीत्वे जीप् ।
+- अध — अथ इति सति छांदसत्वेन वर्णविकारः आगतः ।
+- यंतु — इण् गतौ धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपं । तिजंतसिघातस्वरः भवति । **NOTE**
+- देवान्+अच्छा — दीर्घादटि समानपादे (पा. सू ८-३-९) इति नकारस्य रुत्वं । आतोटि नित्यम् (पा. सू. ८-३-३) इति पूर्वस्य अनुनासिकत्वं । अच्छ इत्यत्र निपातस्यच (पा. सू. ६-३-१३) इति दीर्घः ।
+
+### Printed p. 43
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध त्यन्मित्रावरुणावृतादध्याददाथे अनृतं स्वेन मन्युना  
+> दक्षस्य स्वेन मन्युना ।  
+> यु॒वोरि॒त्थाधि॒ सद्म॒स्वप॑श्याम हिर॒ण्ययं॑ ।  
+> धी॒भिश्च॒न मन॑सा॒ स्नेभि॑र॒क्षभिः॒ सोम॑स्य॒ स्वेभि॑र॒क्षभिः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह । त्यत् । मित्रावरुणौ । ऋतात् । अधि । आददाथे इत्याददाथे । अनृतं ।  
+> स्वेन । मन्युना । दक्षस्य । स्वेन । मन्युना ।  
+> स्वेन । मन्युना । दक्षस्य । स्वेन । मन्युना ।  
+> युवोः । इत्था । अधि । सद्मसु । अपश्याम । हिरण्ययं ।  
+> धीभिः । चन । मनसा । स्वेभिः । अक्षभिः । सोमस्य । स्वेभिः । अक्षभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुण् ऋतादादित्यात्तत्तदुदकं यद्यस्मात्कारणादध्यधिकमाददाथे
+> सर्वतो ददथः । कीद्बशमुदकं । अनृतं नश्वरं शोषणस्वभावं । केन साधनेन ।
+> स्वेन मन्युना स्वकीयेन तेजसा । अहोरात्राभिमानिदेत् मित्रावरुण् खलु वृष्टिं
+> नोचयतः । अहोरात्रॆ वा इत्यादिश्रुतिः पूर्वमेवोदाहृता । मन्युर्विशेष्यते ।
+> दक्षस्य समर्थस्य स्वेन मन्युनात्मभूतेन मननीयेन सामर्थ्येन । किंच हे मित्रावरुण् युवोः ॥ अंत्यलोपश्चांदसः ॥ युवयोः संबंधि हिरण्ययं हिरण्मयं
+> रूपं ॥ ऋत्ववास्तवास्त्यादौ मयटो मशब्दलोपो निपात्यते ॥ इत्थेत्थं
+> वक्ष्यमाणप्रकारेण सद्मसु यज्ञसदनेष्वध्यपश्याम । पश्येम । केन साधनेनेति
+> तदुच्यते । धीभिस्त्वदुद्देशैः कर्मभिर्यज्ञादिरूपैः मनसा चन त्वदासक्तेन
+> चेतसा च स्वेभिरक्षभिरात्मीयरनन्नैश्चकुरादींद्रियैः । किंच सोमस्य सोमं
+> स्वेभिरक्षभिरस्मदीयैरिंद्रियैः ॥ नासाद्यपेक्षया बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, from ṛta, that is, from the Āditya, you take in abundance (अधि (*adhi*) meaning "more") that water, from every side, and give it. What kind of water? अनृतं (*anṛtaṃ*): perishable, of a drying nature. By what means? By your own manyu, your own brilliance. Mitra and Varuṇa, as the presiding deities of day and night, cause the rain; the śruti beginning अहोरात्रॆ वा (*ahorātrè vā*) was quoted earlier. Manyu is qualified: दक्षस्य समर्थस्य (*dakṣasya samarthasya*), "of the able one", by his own manyu, which is part of himself, an admirable capacity. Further, O Mitra and Varuṇa, युवोः (*yuvoḥ*) (Vedic loss of the final syllable) is युवयोः (*yuvayoḥ*), "of you two"; हिरण्ययं (*hiraṇyayaṃ*) is हिरण्मयं (*hiraṇmayaṃ*), a golden form (the elision of the syllable ma of mayaṭ is stated as an irregularity). इत्था (*itthā*) means "in this way, as will be told"; in the sacrificial seats we have seen (अध्यपश्याम (*adhyapaśyāma*) is पश्येम (*paśyema*)). By what means? That is said: by acts directed to you, sacrifices and the like (धीभिः (*dhībhiḥ*)); by a mind attached to you (मनसा चन (*manasā cana*)); by our own senses, the eye and the rest, with no other object (स्वेभिरक्षभिः (*svebhirakṣabhiḥ*)). Further, the Soma too we see with our own senses; the plural is said in view of the nose and the other senses.
+
+### Printed p. 44
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- स्वेन मन्युना (*svena manyunā*)—by your own power; (that is)
+- दक्षस्य (*dakṣasya*)—capable
+- स्वेन (*svena*)—your own
+- मन्युना (*manyunā*)—by admirable greatness
+- ऋतात् (*ṛtāt*)—from the Āditya
+- अनृतं (*anṛtaṃ*)—that which is perishable because it dries up, and
+- त्यत् (*tyat*)—that well-known water
+- यत् ह (*yat ha*)—for which reason
+- अधि (*adhi*)—in abundance
+- आददाथे (*ādadāthe*)—you bring and give (therefore)
+- युवोः (*yuvoḥ*)—of you two
+- हिरण्ययं (*hiraṇyayaṃ*)—the golden form
+- इत्था (*itthā*)—in this way
+- सद्मसु (*sadmasu*)—in the sacrificial halls
+- धीभिः (*dhībhiḥ*)—by rites directed to you
+- मनसा चन (*manasā cana*)—and by a mind attached (to you alone)
+- स्वभिरक्षभिः (*svabhirakṣabhiḥ*)—also by our eyes and other senses (which have no attention elsewhere)
+- अध्यपश्याम (*adhyapaśyāma*)—we look with fixed gaze
+- स्वेभिः अक्षभिः (*svebhiḥ akṣabhiḥ*)—with our eyes and other senses
+- सोमस्य (*somasya*)—the Soma (that is to be offered to you) too (we look at)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, by your own capable power you bring to us in abundance the water that is in the world of the Āditya and that, when it has been poured on the earth, dries up and perishes. For this reason we look at you through our sacrificial rites, with a mind attached to you alone, and with eyes and other senses that have no other attention. And we also attend to the Soma that is to be offered to you.
+
+##### Printed English
+
+Mitra and Varuna, bestow (upon us) abundantly that unenduring water
+which you obtain from the sun, through your own energy; through the
+inherent energy of the vigorous: may we thus behold your golden (forms) in
+our halls of sacrifice, ( brought thither ) by our sacred rites, and by our
+thoughts and senses (intent upon you); by our senses (intent upon offering)
+the Soma libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतादनृतमाददाथे (*ṛtādanṛtamādadāthe*)—ऋतात्-आदित्यात् ; अनृतं-शोषणस्वभावं (उदकं) (*ṛtāt-ādityāt ; anṛtaṃ-śoṣaṇasvabhāvaṃ (udakaṃ)*). Sāyaṇa has taken the word ṛta to mean the Āditya, and the word anṛta to mean water. He explains that the adjective anṛta shows the impermanent condition of water. It was briefly stated earlier (in the introduction to the 9th volume) that the word ṛta reflects a principle that signifies the physical and moral order of the universe. That both these orders proceed under the presidency of Mitra and Varuṇa
+
+### Printed p. 45
+
+will be explained later in the sūkta addressed to Mitra and Varuṇa themselves. Here one has to understand how Mitra and Varuṇa obtained anṛta from ṛta and supplied it to the world.
+Here it can be said that the word ṛta denotes that which has an enduring state, and the word anṛta denotes that which has a non-enduring state, since water dries up. As said in the Upaniṣads and elsewhere, it may also be understood that what is enduring is truth and what is non-enduring is untruth. In this ṛk the word ṛta means the orb of the Āditya, which has an enduring state. It is the usual practice in the Ṛgveda-Saṃhitā to call the orb of light, in which the sun and the other heavenly bodies move in fixed order, ṛta.
+द्वादशारं नहि तज्ञराय वर्वर्ति चक्रं परि द्यामृतस्य । (*dvādaśāraṃ nahi tajñarāya varvarti cakraṃ pari dyāmṛtasya |*)
+आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्तुः । (*ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tastuḥ |*) (Ṛ. Saṃ. 1-164-11)
+The wheel of ṛta, with twelve spokes, revolves around the sky. Its seven hundred and twenty sons occupy their places in pairs. By this description the twelve months and the 360 days and nights are indicated. How Uṣas too follows this very path of ṛta by rule, without ever leaving it, has been told earlier with examples. Here, if one knows the relation of the Āditya to this wheel of ṛta, the propriety of taking ṛta in this ṛk to mean the Āditya becomes clear.
+आदर्शि गातुरुरवे वरीयसी पंथा ऋतस्य समयंस्त रश्मिभिश्चक्षुर्भगस्य रश्मिभिः । (*ādarśi gātururave varīyasī paṃthā ṛtasya samayaṃsta raśmibhiścakṣurbhagasya raśmibhiḥ |*) (Ṛ. Saṃ. 1-136-2)
+In this description, that for the sun, whose form is extensive, the still more extensive path of ṛta was marked out with the help of his rays, the wide path of ṛta in the sky is indicated. This same path of ṛta
+अग्निर्गांधर्वीं पथ्यामृतस्याग्नेर्गव्यूतिर्घृत आ निषत्ता । (*agnirgāṃdharvīṃ pathyāmṛtasyāgnergavyūtirghṛta ā niṣattā |*) (Ṛ. Saṃ. 10-80-6)
+is described in this line as that very lofty and extensive Gandharva path. And,
+उदु त्यच्चक्षुर्महि मित्रयोरा एति प्रियं वरुणयोरवब्धं । (*udu tyaccakṣurmahi mitrayorā eti priyaṃ varuṇayoravabdhaṃ |*)
+ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यात् । (*ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyāt |*) (Ṛ. Saṃ. 6-51-1)
+ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यव्रघुयद्विवेद । (*ṛtasya pade adhi dīdyānaṃ guhā raghuṣyavraghuyadviveda |*) (Ṛ. Saṃ. 4-5-9)
+
 ---
 
-**Progress note:** Done through printed p. 38. pp. 33-38
+**Progress note:** Done through printed p. 45. pp. 39-45 (batch API)
