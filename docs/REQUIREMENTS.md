@@ -27,6 +27,12 @@ Marks used: **NEW** = differs from the volumes made so far. **(F3)** = see open 
 2. **Kannada book** — PDF and `.md`: the text of the original, matching it closely in content. (F9)
 3. **Review lists** for the editor: places that need a decision, deviations from the reference text, repairs made, results of the checks.
 
+**Two layers, kept apart:**
+- **The published books** (the PDFs in `publish/out/`) are as professional as a printed book can be. They contain **no known error, no comment of ours, no note by the model, no mark of doubt, no trace of how the files were made.**
+- **The working files** (the `.md` files and review lists inside `volN/`) hold everything else: open questions, the editor's decisions, repairs, results of checks, faults of the supplied text.
+
+A PDF in `publish/out/` is therefore either a **release** (meets Part H2 in full) or is clearly marked on every page as a **review copy** and kept apart from the releases. (F16)
+
 Every volume has the same structure, section names, layout and abbreviations. A volume that differs is brought into line or listed as not conforming.
 
 ### A2. Front matter — the same order in every volume **NEW**
@@ -103,7 +109,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 ### B4. Nothing of ours in the text
 1. **No text about the making of the file:** no status lines at page breaks, no "the Sāyaṇa-bhāṣya from p. 235 continues here", no remarks on how the print looks.
 2. **Stray letters and words** of the supplied text (loose figures, page signatures, fragments) are removed. **NEW** (They were kept and noted.) (F4)
-3. **One mark only** for a place that needs the editor's decision: `NOTE`. Its question is in the volume's review list. No `[?]`, no `[sic]`, no "as supplied". (F7)
+3. **One mark only** for a place that needs the editor's decision: `NOTE`, **in the working files only**. Its question is in the volume's review list. No `[?]`, no `[sic]`, no "as supplied". The published book shows none of it (A1). (F7)
 
 ### B5. Deviations
 Where the Pada-pāṭha, the Word-to-word meaning or the Sāyaṇa-bhāṣya of the supplied text deviates, it is mentioned, not silently altered. (F1)
@@ -169,6 +175,7 @@ Where the Pada-pāṭha, the Word-to-word meaning or the Sāyaṇa-bhāṣya of 
 | D6 | Every abbreviation is in the one list. | B3 |
 | D7 | Nothing of B4 left in the text; no Kannada script in the English book. | B2, B4 |
 | D8 | A sample of pages read by a different model; findings repaired and logged. | all |
+| D9 | **Release gate:** the release PDF is built only when D1–D8 pass, no `NOTE` is open, and no known error is listed as unrepaired; it is checked for any leftover mark, bracketed comment or working text. | A1, H2 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -202,8 +209,9 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F11 | **Rights (H1.1–H1.3).** Who can you approach for the rights in the edition, the portraits and the reference text? Do you want a lawyer's view before more work is done on the Kannada book? | H1 |
 | F12 | **Length (H3.1).** Split volumes into parts, or change the page format? This also decides the ISBN count. | H3 |
 | F13 | **Release standard (H2.2).** What sample size and what result would you accept as "ready"? Proposal: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
-| F14 | **Published form of doubts (H2.1).** After your decisions, do remaining doubts appear as editorial footnotes, or not at all? | H2 |
+| F14 | **Places that cannot be settled.** The published book shows no doubt (A1). Where the supplied text is damaged and neither you nor a printed copy can settle it, what stands in the book: the best reading without comment, or a plain editorial footnote ("text damaged in the source")? | A1, H2 |
 | F15 | **Your preface to the English edition.** Its place: proposed after the Contents and before the original's own preface. One text for the whole series with a short part per volume, or a separate text for each volume? And should the "Note on this translation" (H2.4: sources, method, conventions) be part of it or a page of its own? | A2, H2.4 |
+| F16 | **Review copies.** May marked review copies sit in `publish/out/` beside releases (proposal: in `publish/review/`, with "Review copy" in the footer), or should `publish/out/` hold releases only? The PDFs there today are all review copies. | A1 |
 
 ---
 
@@ -247,7 +255,7 @@ Parts A–G describe the book. This part lists what a *published* book needs bey
 
 | No. | Requirement | State today |
 |---|---|---|
-| H2.1 | **No `NOTE` mark in a published book.** Every question in a volume's list is decided by the editor, and the mark is removed or turned into an editorial footnote by one stated rule. | Vol 17: 472 open; Vol 18 and new Vol 11: several hundred each. |
+| H2.1 | **No `NOTE` mark, comment or known error in a published book** (A1). Every question in a volume's list is decided by the editor before release; the release build refuses to run while a question is open or a known error is unrepaired. | Vol 17: 472 open; Vol 18 and new Vol 11: several hundred each. |
 | H2.2 | **A release standard, stated in numbers:** all checks of Part D pass; the second reading is done; a QA sample of a stated size finds no error of meaning; what was found is repaired. | No volume meets it. The last three samples found 4, 8 and 18 errors. |
 | H2.3 | **A scholar of Sanskrit and Kannada reads a sample of every volume** and is named in the book. | The records say "outside expert review still wanted". |
 | H2.4 | **A "Note on this translation"** in every volume: the source edition, what is reproduced and what is translated, the transliteration scheme (including the edition's habit of writing the anusvāra, as in "iṃdra"), what is kept as printed, known limitations, how to report an error. | Not written. |
@@ -295,7 +303,7 @@ Parts A–G describe the book. This part lists what a *published* book needs bey
 
 | Requirement | Source |
 |---|---|
-| A2 (preface to the English edition) | user, Nov 12 2026 (later message) |
+| A2 (preface to the English edition); A1 two layers, D9 release gate | user, Nov 12 2026 (later messages) |
 | A2, A4, B1.2–3, B2.1 (bhāṣya), B3, B4.1–2, B5, C1 (number check), C3, C4, new names in A3, A5 | user's review comments, Nov 12 2026 |
 | A3 sub-headings; akṣara spacing; B4.3; elaborate summary; B2.3 | user decisions, Nov 11 2026 |
 | C9, C11, Om on the first page of Ṛks | user decisions, Vol 15 review, Nov 9 2026 |
