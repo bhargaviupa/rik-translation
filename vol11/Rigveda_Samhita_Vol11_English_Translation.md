@@ -6007,6 +6007,163 @@ Although in many matters the authors of the Bṛhaddevatā follow the sentences 
 स्तृणानासः (*stṛṇānāsaḥ*) (printed स्प्राणासरि (*sprāṇāsari*))—आस्तरंत (*āstaraṃta*): those who strew.**NOTE**
 सप्रथः (*saprathaḥ*)—सप्रथाः सर्वतः पृथुः (*saprathāḥ sarvataḥ pṛthuḥ*): it means spread out broadly all around, as the Nirukta-writers explain (Ni. 6-8).
 
+### Printed p. 247
+
+##### Grammar
+
+- स्त्रणानासः — स्त्र-ञ् अच्छादने इति धातुः । क्र्यादिः । लडर्थे शानच् प्रत्ययः । क्र्यादिभ्यः श्ना (पा. सू ३-१-८) इति श्ना विकरणम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः । ह्रस्वऋकारस्य परत्वात् णत्वम् । प्रत्ययस्य चित्त्वादंतोदात्तो भवति । जस्परे आज्जसेरसुक् (पा. सू. ६-१-५०) इति तस्य असुक् आगमः । सकारस्य रुत्वविसर्गौ । **NOTE**
+- यतस्रुचः — यताः स्रुचः यैस्ते यतस्रुचः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+- स्वध्वरे — शोभनः अध्वरः यस्मिन् सः स्वध्वरः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदस्य अंतोदात्तस्वरो भवति । सप्तमीएकवचनांतरूपम् ।
+- वृज्जि — वृजी वर्जने इति धातुः । अदादिः । इदित्त्वान्नुमागमः । लट् प्रथमपुरुषबहुवचने व्यत्ययेन बहुवचनस्थाने एकवचनं त प्रत्ययः । टेः एत्वम् । लोपस्त आत्मनेपदेषु (पा. सू. ७-१-४१) इति प्रत्ययतकारस्य लोपः । पादादित्वान्निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- सप्रथः — प्रथ प्रख्याने इति धातुः । सर्वधातुभ्य असुन् इति असुन् प्रत्ययः । प्रथसा सह वर्तत इति सप्रथः । तेन सहेति तुल्ययोगे (पा. सू. २-२-२८) इति समासः । वोपसर्जनस्य (पा. सू. ६-३-८२) इति सह इत्यस्य सभावः । गतिकारकोपपदात्‌कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 248
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि श्र॑यंतामृता॒वृधः॑ प्र॒यै दे॒वेभ्यो॑ म॒हीः ।  
+> पा॒व॒कासः॑ पुरु॒स्पृहो॒ द्वारो॑ दे॒वीर॑स॒श्चतः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । श्रयंतां । ऋतवृधः । प्रय्यै । देवेभ्यः । महीः ।  
+> पावकासः । पुरुस्पृहः । द्वारः । देवीः । असश्चतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वारो देवीर्यज्ञस्य द्वाराभिमानिन्नो देवता वि श्रयंतां । विविधं
+> श्रयंतु । विवृता भवंतु । किमर्थ० । देवेभ्यः प्रयै प्रयातुं देवानां प्रापणाय ॥ प्रयै रोहिष्यॆ अव्यथिष्यॆ । पा. ३-४-१० । इति निपातितः ॥ कीदृश्यस्ताः । ऋतवृधो यज्ञस्य वर्धयित्र्यः पूज्याः महीर्महत्यः पावकास शोधयित्र्यः पुरुस्पृहो बहुस्वहणीयाः असश्च तोर्ऽसज्यमानाः परस्परविप्रकृष्टा इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The doors (द्वारो देवीः (*dvāro devīḥ*)), the deities who preside over the doors of the sacrifice, are to open out in various ways (वि श्रयंतां (*vi śrayaṃtāṃ*)), that is, to stand open. For what purpose? प्रयै (*prayai*) means "in order to go", that is, to bring the gods to the sacrifice; it is a form irregularly accepted. What are they like? They increase the sacrifice (ऋतवृधः (*ṛtavṛdhaḥ*)), they are worshipful, great (महीः (*mahīḥ*)), purifying (पावकासः (*pāvakāsaḥ*)), desired by many (पुरुस्पृहः (*puruspṛhaḥ*)), and असश्चतः (*asaścataḥ*), that is, not clinging to one another, standing far apart from each other.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतवृधः (*ṛtavṛdhaḥ*)—those who make the sacrifice grow
+- मही (*mahī*)—those of great form
+- पावकासः (*pāvakāsaḥ*)—those having the power of purifying
+- पुरुस्पृहः (*puruspṛhaḥ*)—those desired by many
+- असश्चतः (*asaścataḥ*)—those who stand apart, not clinging
+- द्वारोदेवी: (*dvārodevī:*)—the deities presiding over the doors (of the sacrificial house)
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- प्रयै (*prayai*)—for entering
+- विश्रयंतां (*viśrayaṃtāṃ*)—let them move apart, far away, and make a way
+
+##### भावार्थ (Bhāvārtha)
+
+May the door-deities of the sacrificial house, who are the cause of the sacrifice's growth, of great form, having the power of purifying, desired by many, and standing apart without clinging to one another, move apart and far away and make a way for the gods to enter.
+
+##### Printed English
+
+Let the bright, separable doors, the augmenters of sacrificial, the purifiers of rites, the desired of many, be set open for the gods to enter.
+
+### Printed p. 249
+
+##### विशेषविषयगळु (Special Topics)
+
+द्वारो देवीः (*dvāro devīḥ*)—Sāyaṇa explains this as the deities presiding over the doors of the sacrificial house. There is a difference of opinion whether these doors are really the doors of the sacrificial house or whether this is merely an ornamental usage. If the word does not mean house-doors here, then in the matter of the deities of the Āprī hymns too, points different from those just stated would have to be assumed. From the standpoint of ritual procedure, only two things, the barhis and the svāhākṛti, are without attribution of divinity; though merely earthly, they are described with qualities of supernatural purity because they are connected with the sacrifice. In तिस्रो देवीः (*tisro devīḥ*) all are called deities together, because Sarasvatī has a pure divine element and the other two rivers are mentioned along with that river. In the same way in दैवौ होतारौ (*daivau hotārau*) the earthly hotṛ is also meant as a deity, because he is with Agni, who is of divine nature. But in देवी द्वारः (*devī dvāraḥ*) there is no room for this. If these doors are the doors of the sacrificial house, the question arises why they should have a special place that the barhis and svāhākṛti do not have. If only some of the implements that are parts of the sacrifice are to be viewed as divine, then the most important of all, the altar (vedi), is not named at all.
+
+Another point to be noticed here is that the word is in the plural, "doors". In the verse of an Āprī hymn,
+सप्त होत्राणि मनसा वृणाना इन्वंतो विश्वं प्रति यन्नृतेन । नृपेशसो विदथेषु प्र जाता अभीमं यज्ञं वि चरंत पूर्विः ॥ (*sapta hotrāṇi manasā vṛṇānā invaṃto viśvaṃ prati yannṛtena | nṛpeśaso vidatheṣu pra jātā abhīmaṃ yajñaṃ vi caraṃta pūrviḥ ‖*) (Ṛ. Saṃ. 3-4-5)
+the adjective पूर्विः (*pūrviḥ*) is also in the plural. And if we examine the duties of these door-deities:
+1) "Open out, ye sacrifice-increasing divine doors, unclinging" (वि श्रयंतां ऋतावृधो द्वारो देवीरसश्वतः (*vi śrayaṃtāṃ ṛtāvṛdho dvāro devīrasaśvataḥ*)), meaning "take them apart for the convenience of the sacrificer", in the verse Ṛ. 1-13-6;
+2) दुरो धृतान्यक्षरन् (*duro dhṛtānyakṣaran*), "they poured out waters", in 1-188-5;
+3) प्र प्र यज्ञं प्रणीत न (*pra pra yajñaṃ praṇīta na*), "they fill the sacrifice with fruit", in 5-5-5;
+4) इन्वंतो विश्वं प्रति यन्नृतेन (*invaṃto viśvaṃ prati yannṛtena*), "they quicken the whole world with water", in 3-4-5.
+
+### Printed p. 250
+
+Thus their duties are indicated in many other ways. Some hold that many of these actions are attributed to them merely ornamentally and figuratively, and that there is no truth in them. Moreover,
+समिद्दो अस्य मनुषो दुरोणे देवो देवान् यजसि जातवेदः । आ च वह मित्रमहश्चि कित्वान्त्वं दूतः कविरसि प्रचेताः ॥ (*samiddo asya manuṣo duroṇe devo devān yajasi jātavedaḥ | ā ca vaha mitramahaści kitvāntvaṃ dūtaḥ kavirasi pracetāḥ ‖*) (Ṛ. Saṃ. 10-110-1)
+In this verse, since it says मनुषो दुरोणे (*manuṣo duroṇe*), "in the house of man", this figurative language applied to merely worldly house-doors may even look like an excessive flight of fancy. Some critics also hold that adjectives such as नृपेशसः (*nṛpeśasaḥ*), ऋतावृधः (*ṛtāvṛdhaḥ*), पावका (*pāvakā*) are not fitting. Here, whether to support or to refute these opinions, it is good to learn the views of the Vedic scholars who are the foundation for keeping up the Vedic tradition.
+
+In the verse of the Āprī hymn
+स्वाध्यो३ वि दुरो देवयंतोऽशिश्रयू रथयुर्देवताता । पूर्वि शिशुं न मातरा रिहाणे समग्रुवो न समनेष्वंजन् । (*svādhyo3 vi duro devayaṃto 'śiśrayū rathayurdevatātā | pūrvi śiśuṃ na mātarā rihāṇe samagruvo na samaneṣvaṃjan |*) (Ṛ. Saṃ. 7-2-5)
+they state clearly, यज्ञगृहद्वाराणि इत्यर्थः (*yajñagṛhadvārāṇi ityarthaḥ*), that it means the doors of the sacrificial house. Likewise some other scholars explain that for the verb व्यशिश्रयुः (*vyaśiśrayuḥ*) the subject is यजमानाः (*yajamānāḥ*), and that the construction is that they stood taking shelter at the door of the sacrificial house. The English scholars Oldenberg, Grassman and Ludwig also approve this explanation, and in the verse
+विराट्संम्राड्विभ्रीः प्रभ्वीर्बह्वीश्च भूयसीश्च याः । दुरो धृतान्यक्षरन् । (*virāṭsaṃmrāḍvibhrīḥ prabhvīrbahvīśca bhūyasīśca yāḥ | duro dhṛtānyakṣaran |*) (Ṛ. Saṃ. 1-188-5)
+they say the words विराट् (*virāṭ*) and संम्राट् (*saṃmrāṭ*) are the names of two door-leaves. The scholar Max Muller says these are the gates of heaven by which the gods descend from heaven (History of Ancient Sanskrit Literature, p. 245). In the Praiṣa hymn,
+होतायक्षद्दुर ऋष्वाः कवष्टोऽकोषधावनीरुदाताभिर्जिहतां वि पक्षोभिः श्रयंतां । सुप्रायणा अस्मिन्यज्ञे विश्रयंतामृतावृधो वियंत्वाज्यस्य होतर्यज । (*hotāyakṣaddura ṛṣvāḥ kavaṣṭo 'koṣadhāvanīrudātābhirjihatāṃ vi pakṣobhiḥ śrayaṃtāṃ | suprāyaṇā asminyajñe viśrayaṃtāmṛtāvṛdho viyaṃtvājyasya hotaryaja |*) (Tai. Brā. 3-6-2-2)
+
+### Printed p. 251
+
+— what is said in these sentences the commentator explains as दुरो द्वारसंज्ञकाः पंचमप्रयाजदेवतास्तद्रूपमग्निं दैवो होता यजतु (*duro dvārasaṃjñakāḥ paṃcamaprayājadevatāstadrūpamagniṃ daivo hotā yajatu*). In these sentences the words आताभिः (*ātābhiḥ*) and उज्जिहतां (*ujjihatāṃ*) are important; this to some extent opposes the opinion above. From this one view is that it can be said that "door" meaning the doors of the sacrificial house is ornamental. In the Aitareya Brāhmaṇa,
+दुरो यजति वृष्टिर्वै दुरो वृष्टिमेव तत्प्रीणाति वृष्टिमन्नाद्यं यजमाने दधाति । (*duro yajati vṛṣṭirvai duro vṛṣṭimeva tatprīṇāti vṛṣṭimannādyaṃ yajamāne dadhāti |*) (Ai. Brā. 2-4) **NOTE**
+the meaning "rain" is given in place of "door". How this meaning arises is not made clear. The Nirukta author says द्वारो जवतेर्वा प्रवतेर्वा पारयतेर्वा (*dvāro javatervā pravatervā pārayatervā*): that it is formed either from the root जु (*ju*) meaning "press forward", or from the root द्रु (*dru*) meaning "advance", or from the root वृ (*vṛ*) meaning "separate". Quoting the verse
+व्यचस्वतीरुर्विया वि श्रयंतां पतिभ्यो न जनयः शुंभमानाः । देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः । (*vyacasvatīrurviyā vi śrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ | devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ |*) (Ṛ. Saṃ. 10-110-5)
+and explaining the meaning of the word द्वार (*dvāra*), he states a difference of opinion: गृहद्वार इति कात्थक्यः । (*gṛhadvāra iti kātthakyaḥ |*) according to Kātthakya it is a house-door, and अग्निरिति शाकपूणिः । (*agniriti śākapūṇiḥ |*) according to Śākapūṇi it is Agni (Ni. 8-10). In the Bṛhaddevatā,
+द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः । अग्नायीमनुवर्तंते तथाग्नाय्क्यग्निमेव च ॥ अग्नौ ध्रुवं स्थितास्तास्तु संस्तूयंतेऽग्निना सह । प्राधान्यं तासु चैवाग्ने स्तुतिष्टेव हविष्णु च ॥ (*dvārastu devyo yāḥ proktā viśveṣāṃ tāstu patnayaḥ | agnāyīmanuvartaṃte tathāgnāykyagnimeva ca ‖ agnau dhruvaṃ sthitāstāstu saṃstūyaṃte 'gninā saha | prādhānyaṃ tāsu caivāgne stutiṣṭeva haviṣṇu ca ‖*) (Bṛ. De. 3-6 to 7)
+it says that these doors are wives of the gods; that they follow Agnāyī, who follows Agni; and that, being firmly established in Agni, they are praised together with Agni. This explanation is reasonable.
+
+असश्चतः (*asaścataḥ*)—असज्यमानाः परस्परं विप्रकृष्टाः । (*asajyamānāḥ parasparaṃ viprakṛṣṭāḥ |*) It means those who stand apart, not clinging to one another.
+
+### Printed p. 252
+
+##### Grammar
+
+- श्रयंताम् — श्रिञ् सेवायां धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- ऋतावृधः — ऋतं वर्धयंति इति ऋतवृधः । वृधु वृद्धौ धातुः । प्रयोजकव्यापारदर्शनादंतर्भावितण्यर्थको धातुः । क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । उपपदसमासः । अन्येषामपि दृश्यते (पा. सू. ६-३-१३७) इति पूर्वपदस्य संहितायां दीर्घो भवति । गतिकारकोपपदात्‌कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- प्रयै — या प्रापणे इति धातुः । प्रयै रोहिष्यै अव्यथिष्यै (पा. सू. ३-४-१०) इति निपातितम् । कृन्मेजंतः इति अव्ययसंज्ञा भवति ।
+- महीः — महतीः इत्यत्र छांदसत्वेन अतः लोपः । विभक्तौ परस्यां सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः ।
+- पावकासः — जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
+- पुरुस्पृहः — स्पृह ईप्सायां धातुः । क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- असश्चतः — ग्लुञ्च षस्ज गतौ धातुः । जकारस्य व्यत्ययेन चकारः । अस्मात् लडर्थे शतृ प्रत्ययः । न विद्यंते सश्चंतः गच्छंतः येषु असश्चतः । नञ्सुभ्याम् (पा. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ भंद॑माने॒ उपा॑के॒ नक्तो॒षासा॑ सु॒पेश॑सा ।  
+> य॒ह्वी ऋ॒तस्य॑ मा॒तरा॒ सीद॑तां ब॒र्हिरा सु॒मत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । भंदमाने इति । उपाके इति । नक्तोषसा । सुपेशसा ।  
+> यह्वी इति । ऋतस्य । मातरा । सीदतां । बर्हिः । आ । सुमत् ॥ ७ ॥
+
+### Printed p. 253
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भंदमाने सर्वैः स्तूयमाने उपाके वरस्परं सन्निहिते सुपेशसा शोभनरूपे । पेश इति रूपनाम । यह्वी महत्वा अपत्यरूपे वा प्रतिदिनं जायमानत्वात् । यहुरित्यपत्यनाम यहुः सूनुरिति तन्नामसु पाठात् । ऋतस्य मातरा
+> यज्ञस्य निर्मात्र्यौ । ताभ्यामागमनाद्यज्ञस्य संपूर्तेयज्ञमातृत्वमुपचर्यते ।
+> यद्वा । अतिरात्रादीनामहोरात्रसाध्यत्वात् । नक्तोषासा उक्तगुणविशिष्टे अहोरात्रदेवते सुमत् स्वयमेव । आस्माभिरप्रार्थिते इत्यर्थः । यद्वा । सुमद्बर्हिरास्कृतं दर्भमा समंतादा सीदतां । उपविशतां । यद्वा । ऋतस्यॆति कर्मणि
+> षष्ठी । यज्ञ मा सीदतां । आसाद्य च बर्हिरास्कृतं दर्भं स्वयनेवा सीदतां ॥
+
+##### Gist of the bhāṣya
+
+भंदमाने (*bhaṃdamāne*) means praised by all; उपाके (*upāke*) means near each other; सुपेशसा (*supeśasā*) means of beautiful form, पेश (*peśa*) being a name for form. यह्वी (*yahvī*) means either great, or of the form of offspring because they are born every day; he supports this from the list of names, where यहु (*yahu*) is a name for offspring ("*yahuḥ sūnuḥ*"). ऋतस्य मातरा (*ṛtasya mātarā*) means the two who produce the sacrifice; because the sacrifice is completed by their coming, the sacrifice is figuratively said to have them as mothers. Or else, because rites such as the atirātra are accomplished by day and night, नक्तोषासा (*naktoṣāsā*) are the deities of day and night, endowed with the stated qualities. सुमत् (*sumat*) means of their own accord, unasked by us. Or else *sumat barhiḥ* is the prepared darbha grass: let them sit down upon it all around, let them be seated. Or else ऋतस्य (*ṛtasya*) is a genitive in the sense of the object: let them come to the sacrifice, and having come, let them of their own accord sit on the prepared darbha grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आ छंदमाने (*ā chaṃdamāne*)—those who are called upon by all **NOTE**
+- उपाके (*upāke*)—those who are close to each other
+- सुपेशसा (*supeśasā*)—those of charming form
+- यह्वी (*yahvī*)—those of great form; or (because born daily) those of the form of offspring
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- मातरा (*mātarā*)—the two who are the cause of making
+- नक्तोषासा (*naktoṣāsā*)—the deities of night and day
+- सुमत् (*sumat*)—(even if we do not pray) of your own accord
+- बर्हिः (*barhiḥ*)—upon the darbha seat
+- आ सीदतां (*ā sīdatāṃ*)—sit down facing it
+- अथवा सुमत् (*athavā sumat*)—widely spread
+- बर्हिः (*barhiḥ*)—upon the darbha seat
+- आ सीदतां (*ā sīdatāṃ*)—sit down facing it
+
+##### भावार्थ (Bhāvārtha)
+
+O deities of day and night, praised by all, near each other, of charming form, of great form, and makers of the sacrifice: even though we have not prayed, of your own accord and with kindly regard, be pleased to sit upon our widely spread darbha seats.
+
+##### Printed English
+
+Beautiful night and morning, ever hymned, ever associated, progeny (of time), parents of sacrifice, sit down of your own good-will on the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+(आ) भंदमाने (*(ā) bhaṃdamāne*)—सर्वैः स्तूयमाने । (*sarvaiḥ stūyamāne |*) "Praised by all": an adjective of the deities called नक्तोषासा (*naktoṣāsā*). Since it is read among the names of the act of worship, अर्चति (*arcati*), गायति (*gāyati*) and so on (Ni. 3-19), भंदमाना (*bhaṃdamānā*) means the object of worship. भंदनाः । (*bhaṃdanāḥ |*)
+
 ---
 
-**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
+**Progress note:** Done through printed p. 253. pp. 247-253 (batch API)
