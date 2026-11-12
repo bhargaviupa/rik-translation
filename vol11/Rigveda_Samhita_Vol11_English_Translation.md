@@ -5527,6 +5527,170 @@ Table (number — deity — epithets):
 
 In this manner the Praiṣa-sūkta, gathering the main points of all the Āprī-sūktas, has given a well-ordered picture. The modes of composition of these Āprī-sūktas, their styles, and in the sacrificial work…
 
+### Printed p. 229
+In this way the Praiṣa-sūkta has gathered the main points of all the Āprī-sūktas and given an orderly picture. The manner in which these Āprī-sūktas are composed, their styles, and their uses in the sacrificial work, as well as their poetic character and the opinions that modern scholars have expressed about them, will be stated at the end of this sūkta (1-142), after its explanation is complete.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्धो अग्न॒ आ न॑ह दे॒वा अ॒द्य य॒तस्रु॑चे ।  
+> तंतुं॑ तनुष्व पू॒र्व्यं सु॒तसो॑माय दा॒शुषे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्दः । अग्ने । आ । वह । देवान् । अद्य । यतस्रुचे ।  
+> तंतुं । तनुष्व । पूर्व्यं । सुत्यसोमाय । दाशुषे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समिद्धः सम्यग्दीपित एतन्नामकस्त्वमद्यास्मिन्यागदिने देवान् हविषां
+> भोक्तानग्न्यादीना वह।अस्मद्यज्ञं प्रति प्रापय । यतस्रुचे यागायोद्यतस्रुचे
+> यजमानाय तदर्थं । आवाह्य च सुतसोमाय यागार्थमभिषुतसोमाय
+> दाशुषे हविर्दत्तवते । यद्यपीदानीमेवाहूयंते देवाः तथापि पूर्वानुष्ठानापेक्षया भाव्यपेक्षया ना दाशुष इत्युच्यते । हविर्दात्रे वा यजमानाय
+> तदर्थं पूर्व्यं पूर्णेभ्यो रेवेभ्यो हितं पूर्वकालीनं वा तंतुं यज्ञं
+> तनुष्स्व । विस्तारय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are named Samiddha, "well kindled": on this day of the sacrifice bring the gods, the enjoyers of the oblations, such as Agni and the others, and make them reach our sacrifice. Bring them for the sacrificer who has raised the ladle (यतस्रुचे (*yatasruce*)) for the rite, and who has pressed the Soma (सुतसोमाय (*sutasomāya*)) for the sacrifice, and who has given the oblation (दाशुषे (*dāśuṣe*)). Although the gods are being invited only now, he is called "giver" with regard to the earlier performance, or in view of what will come. Or else दाशुषे (*dāśuṣe*) means the sacrificer who gives the oblation. For him extend (तनुष्व (*tanuṣva*), "spread") the sacrifice (तंतुं (*taṃtuṃ*), the thread), which is पूर्व्यं (*pūrvyaṃ*): beneficial to the former ones, or belonging to former times. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- समिद्धः (*samiddhaḥ*)—(well blazing) you who are renowned as Samiddha
+- अद्य (*adya*)—at this time of the sacrifice
+- यतस्रुचे (*yatasruce*)—for the sacrificer who holds the ladle for the sacrifice
+- देवा (*devā*)—the gods (who receive the oblation)
+- आ वह (*ā vaha*)—bring and unite
+- सुतसोमाय (*sutasomāya*)—for the one who has pressed the Soma juice
+- दाशुषे (*dāśuṣe*)—and offers the oblation, the sacrificer
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- तंतु (*taṃtu*)—the sacrifice
+- तनुष्प (*tanuṣpa*)—extend and bring to completion
+
+### Printed p. 230
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are well blazing and renowned as Samiddha: at this time of the sacrifice bring and unite the gods, who receive the oblation, for the sacrificer who stands ready with the ladle for the sacrifice. And for the sacrificer who has pressed the Soma juice and offers the oblation, extend and bring to completion the ancient sacrifice.
+
+##### Printed English
+
+Agni, who is Samiddha, bring the gods to-day (to the worhipper). whose ladle is uplifted : extend (the merit of) former sacrifice to the giver (of the Soma libation) is poured forth
+
+##### विशेषविषयगळु (Special Topics)
+
+समिद्धः (*samiddhaḥ*)—सम्यग्नीपितः एतन्नामकः त्वं (*samyagnīpitaḥ etannāmakaḥ tvaṃ*). Sāyaṇa explains this as "you, renowned by the name Samiddha". It is addressed to Samiddha Agni, who holds the first place in the Āprī-sūkta.
+
+इध्मो यः सर्वमेवाग्निरयं हीध्मः समिध्यते । ध्यातेनैव तत्कृतं रूपं ध्मातो हीध्मः समिध्यते ॥ (*idhmo yaḥ sarvamevāgnirayaṃ hīdhmaḥ samidhyate | dhyātenaiva tatkṛtaṃ rūpaṃ dhmāto hīdhmaḥ samidhyate ‖*) (Bṛ. De. 2-158)
+
+Here identity is stated between the fuel-wood इध्म (*idhma*) and the all-pervading Agni. The word इध्म (*idhma*) is derived from the root ध्या (*dhyā*). The author of the Bṛhaddevatā gives this etymology of the words इध्म (*idhma*) and समिद्ध (*samiddha*): the name is because it blazes after being blown upon. This etymology follows the explanation of the Nirukta author. In the Nirukta too, concerning the first deity of the Āprī-sūkta, it says:
+
+शासामिध्मः प्रथमागामी भवति । इद्मः समिंधनात् । (*śāsāmidhmaḥ prathamāgāmī bhavati | idmaḥ samiṃdhanāt |*) (Ni. 8-5)
+
+In the Taittirīya Brāhmaṇa too, at the beginning of the Praiṣa-sūkta:
+
+होता यक्षदग्निग्ं समिधा सुषमिधा समिद्धं नाभा प्रथिव्याः संगथे वामस्य । (*hotā yakṣadagnigṃ samidhā suṣamidhā samiddhaṃ nābhā prathivyāḥ saṃgathe vāmasya |*) (Tai. Brā. 3-6-2-1)
+
+Thus the priests are told to perform the sacrifice to Agni who is called Samidh and who is accompanied by the first Prayāja deity.
+
+### Printed p. 231
+One more matter must be noted here. The designation "Idhma" as a name does not occur in the Āprī-sūktas, and this name is not in the Praiṣa-sūkta either. Only in the Sarvānukramaṇī is it indicated:
+
+सुसमिद्ध इतीध्म समिद्धो ना अग्नि...........इति प्रत्यृचं देवताः । (*susamiddha itīdhma samiddho nā agni...........iti pratyṛcaṃ devatāḥ |*)
+
+Since this word is not used in this context in the Aitareya Brāhmaṇa either, it is clear that Śaunaka and Kātyāyana, in using it, followed the Nirukta author. Moreover, the epithet Samiddha or Susamiddha is used in seven sūktas, and the epithet Samidh in the remaining three sūktas, Ṛ. Saṃ. 3-4-1; 7-2-1; 10-60-1. The first duty of this Agni called Samiddha is to invite the gods. In the opening Ṛks of the sūktas 1-13-1; 1-142-1; 3-4-1; 10-110-1, the prayer सुसमिद्धो न आ वह देवा अग्ने हविष्मते (*susamiddho na ā vaha devā agne haviṣmate*) (Ṛ. Saṃ. 1-13-1) indicates Agni's duty; and not only that, he is also prayed to carry the oblations and the rest.
+
+Whether this deity is Agni or not, there has been a difference of opinion from the beginning. The Nirukta author cites this difference and then gives his own view. He states the views of the respective sages, यज्ञेध्म इति कात्थक्यः (*yajñedhma iti kātthakyaḥ*) (Ni. 8-5); अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (8-5), and then his own view: आग्नेया इति तु स्थितिः (*āgneyā iti tu sthitiḥ*) (Ni. 8-22). In the Aitareya Brāhmaṇa,
+
+समिधो यजति । प्राणा वै समिधः । प्राणा हीदं सर्वं समिंधते यदिदं किंच प्राणानेव तत्प्रीणाति प्राणान्यजमाने दधाति । (*samidho yajati | prāṇā vai samidhaḥ | prāṇā hīdaṃ sarvaṃ samiṃdhate yadidaṃ kiṃca prāṇāneva tatprīṇāti prāṇānyajamāne dadhāti |*) (Ai. Brā. 2-4)
+
+by these sentences identity between Samidh and Prāṇa is stated; even so, on the strength of many other authorities it may be said that this deity must be Agni.
+
+तंतुं (*taṃtuṃ*)—Here the word तंतु (*taṃtu*) is explained as "sacrifice". It is called तंतु (*taṃtu*) because it is threaded through without break, and because it grows and spreads, made up of many kinds of parts. The epithet तंतु (*taṃtu*) applies to all things that have these two qualities. For example:
+
+तंतुं तन्नन्रजसो भानुमन्विहि ज्योतिष्मतः पथो रक्ष धिया कृतान् । अनुल्बणं वयत जोगुवामपो मनुर्भव जनया दैव्यं जनं । (*taṃtuṃ tannanrajaso bhānumanvihi jyotiṣmataḥ patho rakṣa dhiyā kṛtān | anulbaṇaṃ vayata joguvāmapo manurbhava janayā daivyaṃ janaṃ |*) (Ṛ. Saṃ. 10-53-6)
+
+Having cited this passage, in the other Brāhmaṇas,
+
+### Printed p. 232
+तंतुं तन्नन्रजसो भानुमन्विहीति प्राजापत्यां शंसति प्रजा वै तंतुः प्रजा मेवास्मा एतत्संतनोति । (*taṃtuṃ tannanrajaso bhānumanvihīti prājāpatyāṃ śaṃsati prajā vai taṃtuḥ prajā mevāsmā etatsaṃtanoti |*) (Ai. Brā. 3-28)
+
+This sentence shows that sacrifice, light and the continuation of progeny are all denoted by the word तंतु (*taṃtu*), which supports the meaning given above.
+
+##### Grammar
+
+- समिद्धः—सम् उपसर्गः । इंइंधी दीप्तौ धातुः । निष्ठा इति क्त प्रत्ययः । अनिदितां हल इति उपधानकारलोपः । झषस्त (पा. सू. ८-२-४०) इति प्रत्ययस्य धत्वम् । पूर्वस्य जस्त्वम् । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (सम्) प्रकृतिस्वरः भवति ।
+- वह—वह प्रापणे धातुः । लोट् मध्यमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- यतस्रुचे—यता स्रुक येन सः यतस्रुक् । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- तनुष्प—तनु विस्तारे धातुः । लोट् मध्यमपुरुष एकवचनांतरूपम् । तिज्जतिजः इति तिजंतनिघातस्वरः भवति ।
+- पूर्व्यम्—पूर्वैकृतमिनयौ च (पा. सू. ४-४-१३३) इति पूर्वशब्दात् यप्रत्ययः । यस्येति च इति अकारलोपः । प्रत्ययस्वरेण अंतोदात्तः भवति । द्वितीया एकवचनांतरूपम् ।
+- सुतसोमाय—षुञ् अभिषवे धातुः । कर्मणि क्त प्रत्ययः । बहुव्रीहिसमासः । बहुव्रीहौ प्रकृत्या इति पूर्वपदप्रकृतिस्वरः भवति ।
+- दाशुषे—दाश्य दाने धातुः । दाश्वान् साह्वान् (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतः निपातितः । चतुर्थी एकवचने परे भसंज्ञात्वात् वसोः संप्रसारणम् इति संप्रसारणम् । संप्रसारणाच्च इति पूर्वरूपम् । शासिवसिघसीनां च (पा. सू. ८-३-६०) इति प्रत्ययसकारस्य षत्वम् ।
+
+### Printed p. 233
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तवं॑त॒मुप॑ मासि॒ मधु॑मंतं तनूनपात् ।  
+> य॒ज्ञं विप्र॑स्य॒ माव॑तः शशमा॒नस्य॑ दा॒शुषः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतवंतं । उप । मासि । मधुमंतं । तनूनपात् ।  
+> यज्ञं । विप्रस्य । मावतः । शशमानस्य । दाशुषः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तनूनपात् । तनूनपादाज्यमिति कात्कृक्यपक्षे तन्नो गावो भोगानां
+> तासु जायमानत्वात् ताभ्य उत्पन्नं क्षीरं क्षीरात्सर्पिरित्याज्यस्य नप्तृत्वं । तद्वान्यज्ञः । अग्निपक्ष आपस्तन्न उच्यंते । ताभ्य ओषधिवनस्पतयः । तेभ्योऽग्निरिति
+> नप्तृत्वं । अरणीभ्यामिति भावः । एतन्नामक हे अग्ने विप्रस्य मेधाविनः शशमानस्य शंसमानस्य त्वां स्तुवतो दाशुषो हविर्दत्तवतो मावतो मत्सदृशस्य
+> यजमानस्य ॥ युष्मदस्मद्भ्यां छंदसि सादृश्य इति मतुप् । आ सर्वनाम्न इत्यात्वं ॥
+> धृतवंतं क्षरदाज्योपेतं मधुमंतं माधुर्योपेतं सोमादिमधुरद्रव्येण
+> तद्वंतं यज्ञमुपोपेत्य मासि । निर्मिमाषे । मितो भवसि वा । संपूर्तिपर्यंतं
+> तिष्ठसीत्यर्थः ॥ मा माने । आदादिकः ॥
+
+##### Gist of the bhāṣya
+
+O तनूनपात् (*tanūnapāt*). On the view of Kātthakya, तनूनपात् (*tanūnapāt*) is the ghee (आज्य (*ājya*)): *tanvaḥ* are cows, the means of enjoyment, and since milk is born from them, and ghee from milk, ghee is their "grandson" (नप्तृत्वं (*naptṛtvaṃ*)); the sacrifice possesses it. On the Agni view, the waters are called *tanvaḥ*; from them come the plants and trees, and from them Agni, hence the grandson-relation; the sense is: from the two kindling-sticks. O Agni of this name, of the wise (विप्रस्य (*viprasya*)) sacrificer, who praises you (शशमानस्य (*śaśamānasya*)), who has given oblation (दाशुषः (*dāśuṣaḥ*)), and who is like me (मावतः (*māvataḥ*), "resembling me"): मावतः (*māvataḥ*) is formed with matup in the sense of similarity, by the rule that pronouns in the Veda take such a form, with lengthening to ā. Come near to the sacrifice that is ghee-possessing (धृतवंतं (*dhṛtavaṃtaṃ*), with dripping ghee) and honey-possessing (मधुमंतं (*madhumaṃtaṃ*), with sweetness, with Soma and other sweet substances), and मासि (*māsi*): you are measured out, or you are limited; the meaning is that you remain until completion. The root मा (*mā*) is in the sense of measuring, of the Adādi class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तनूनपात् (*tanūnapāt*)—O Agni named "Tanūnapāt"
+- विप्रस्य (*viprasya*)—of the wise one
+- शशमानस्य (*śaśamānasya*)—who praises (you)
+- दाशुषः (*dāśuṣaḥ*)—who offers the oblation
+- मावतः (*māvataḥ*)—who is, like me, (full of faith)
+- of the sacrificer
+- धृतवंतं (*dhṛtavaṃtaṃ*)—filled with ghee
+- मधुमंतं (*madhumaṃtaṃ*)—and furnished with sweet substances such as Soma
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- उप (*upa*)—graciously
+- मासि (*māsi*)—remain until the sacrifice is complete
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, famed as "Tanūnapāt": to the sacrifice of the sacrificer who is wise, who worships you, who offers the oblation, and who is full of faith like me, a sacrifice filled with ghee
+
+### Printed p. 234
+and furnished with Soma and other sweet substances, graciously come, and remain here until the completion of the sacrifice.
+
+##### Printed English
+
+Tanunapat, be present at this well-flavoured and butter-fed sacrifice, (the offering) of a pious offerer (of oblations) ; glcrifying you.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word तनूनपात् (*tanūnapāt*), Sāyaṇa, on the basis of the Nirukta, gives two kinds of meaning. First: तनूनपात् आज्यं इति कात्क्यपक्षे तन्नो गावो भोगानां तासु जायमानत्वात् । ताभ्यः उत्पन्नं क्षीरं क्षीरात्सर्पिः इति आज्यस्य नप्तृत्वं । तद्वान् यज्ञः । (*tanūnapāt ājyaṃ iti kātkyapakṣe tanno gāvo bhogānāṃ tāsu jāyamānatvāt | tābhyaḥ utpannaṃ kṣīraṃ kṣīrātsarpiḥ iti ājyasya naptṛtvaṃ | tadvān yajñaḥ |*) If the meaning of Kātkya, that तनूनपात् (*tanūnapāt*) is ghee, is accepted, then the word तनु (*tanu*) means cow, and since ghee arises from the milk produced from it, तनूनपात् (*tanūnapāt*) means ghee; or he has explained it as the sacrifice accompanied by ghee. In this connection, from the Nirukta author's sentence नपादित्यनंतरायाः प्रजाया नामधेयं निर्णिततमा भवति (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ nirṇitatamā bhavati*) (Ni. 8-5), the word नपात् (*napāt*) means grandson, so here too the meaning is the ghee produced from the milk born of the cow. Second: अग्नि पक्षे अपस्तन्व उच्यंते । ताभ्यः ओषधिवनस्पतियः, तेभ्योSग्निरिति नप्तृत्वं । अरणीभ्यां इति भावः । (*agni pakṣe apastanva ucyaṃte | tābhyaḥ oṣadhivanaspatiyaḥ, tebhyoSgniriti naptṛtvaṃ | araṇībhyāṃ iti bhāvaḥ |*) The word तनु (*tanu*) means water; from it the plants and trees (the kindling-sticks) arise and from them Agni is born, hence the name तनूनपात् (*tanūnapāt*). Thus two kinds of meaning are given. In the Bṛhaddevatā:
+
+अयं तनूनपादग्नि रसौ हि तननात्तनुः । ततस्तु मध्यमो जज्ञे स्थानेयं मध्यमात्ततः ॥ अनंतरां प्रजामाहुर्नपादिति कृपण्यवः । नपादमुष्यचैवायं अग्निस्तेन तनूनपात् ॥ (*ayaṃ tanūnapādagni rasau hi tananāttanuḥ | tatastu madhyamo jajñe sthāneyaṃ madhyamāttataḥ ‖ anaṃtarāṃ prajāmāhurnapāditi kṛpaṇyavaḥ | napādamuṣyacaivāyaṃ agnistena tanūnapāt ‖*) (Bṛ. De. 2-76 to 27) **NOTE**
+
+तनूनपादयं त्वेव नाम्ना यच्छत्वसौ तनुं । नपादिति प्रजा माहुरमुतोऽस्य च संभवं । (*tanūnapādayaṃ tveva nāmnā yacchatvasau tanuṃ | napāditi prajā māhuramuto 'sya ca saṃbhavaṃ |*) (Bṛ. De. 3-1)
+
+This terrestrial Agni is the nephew/grandson (नपात् (*napāt*)) of the Agni of the divine world, in this way: the divine Agni, being endowed with the power of spreading (तननात् (*tananāt*)), is called by the synonym तनु (*tanu*). From him arises the Agni of the atmosphere, in the form of lightning, and from that this terrestrial Agni; hence the terrestrial Agni has the name तनूनपात् (*tanūnapāt*); and also because, spreading out from his own body, he came into being in this form
+
 ---
 
-**Progress note:** Done through printed p. 228. pp. 222-228 (batch API)
+**Progress note:** Done through printed p. 234. pp. 229-
