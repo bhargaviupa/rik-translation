@@ -8610,6 +8610,202 @@ it is an epithet of the army that makes a noise; hence it must be said that the 
 - वक्वरी — वच परिभाषणे इति धातुः । अन्येभ्योपि दृश्यंते (पा. सू. ३-२-७५) इत्यस्माद्वनिप् प्रत्ययः । वनोर च (पा. सू. ४-१-७) इति स्त्रीत्वविवक्षायां जीप् नकारस्य रेफादेशः । छांदसत्वेन धातुचकारस्य कुत्वम् । प्रत्यययोरुभयोः पित्त्वाद्धातुस्वरः शिष्यते । अथवा वकि कौटिल्ये इति धातुः । इदित्त्वेऽपि छांदसत्वेन नुमागमो न भवति । अस्मात्पूर्ववद्वनिप् जीप् रत्वम् । सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचने परे पूर्वसवर्णदीर्घः ।
 - आशाते — अशू व्याप्तौ इति धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । प्रथमपुरुषद्विवचने आताम् प्रत्ययः । लिटस्तझयोः इति— **NOTE**
 
+### Printed p. 356
+
+##### Grammar
+
+- आशाते — इति पूर्वोक्तानुवृत्तिः । लिटस्तझयोः इति टेः एत्वम्, धातोः द्वित्वादि । आगमानुशासनमनित्यम् इति वचनात् नुटागमो न भवति । अतिजंतात् परत्वात् निघातस्वरो भवति । **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ जु॒षस्व॒ प्रति॑ हर्य॒ तद्वचो॒ मंद्र॒ स्वधा॑व॒ ऋत॑जात॒  ॑
+> सुक्र॑तो ।  
+> यो वि॒श्वतः॑ प्र॒त्यज्जसि॑ दर्श॒तो र॒ण्वः संदृ॑ष्टौ पितु॒मा इ॑व॒  ॑
+> क्षयः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । जुषस्व । प्रति । हर्य । तत् । वचः । मंद्र । स्वधावः । ऋतजात । सुक्रतो  
+> इति सुक्रतो ।  
+> यः । विश्वतः । प्रत्यज् । असि । दर्शतः । रण्वः । संवृष्टौ । पितुमान् इव । क्षयः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जुषस्व । सेवस्व हविः । प्रीतो भव वा स्तुत्या । किंच तत्तादृशं
+> प्रियकरं वचो नाग्रूपं स्तोत्रं प्रति हर्य । पुनः कामयस्व । हे मंद्र मादनशील स्तुत्य ना हे स्वधावो हविर्लक्षणान्नवन् हे ऋतजात यज्ञार्थमुत्पन्न हे
+> सुक्रतो शोभनकर्मन् शोभनप्रज्ञ वा । य ईवृशस्त्वं विश्वतः सर्वस्य स्थावरजंगमस्य जगतः प्रत्यज्जसि अभिमत अनुकूलोऽसि । न पराङ्मुख इत्यर्थः । तथा
+> दर्शतो दर्शनीयः सर्वैः किंच संदृष्टौ सम्यग्दर्शने रणो रमणशीलो रम
+> यिता वा भवसि सर्वस्य । यद्वा । तव संदृष्टौ सत्यां सर्वो जनः क्षयो निवासवान्भवति । तत्र दृष्टांतः । पितुमानिव । अतिप्रभूतान्नस्वामी यथा सर्वैर्वस्तव्यो
+> गंतव्यश्च भवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, enjoy (जुषस्व (*juṣasva*)): partake of the oblation, or be pleased with the praise. Moreover, take up again (प्रति हर्य (*prati harya*), desire) that pleasing word, the praise in the form of speech. O मंद्र (*maṃdra*), of delighting nature or praiseworthy; O स्वधावः (*svadhāvaḥ*), possessor of food in the form of oblations; O ऋतजात (*ṛtajāta*), born for the sacrifice; O सुक्रतो (*sukrato*), of good works or of good understanding: you who are such are प्रत्यज्जसि (*pratyajjasi*), favourable and inclined toward the whole world, moving and unmoving; that is, you are not turned away. Likewise you are दर्शतः (*darśataḥ*), to be seen by all. And in संदृष्टौ (*saṃdṛṣṭau*), in good sight, you are रण्वः (*raṇvaḥ*), delighting or causing delight to all." Alternatively: when you are in full view, every man becomes क्षयः (*kṣayaḥ*), one possessing a dwelling. The example: पितुमानिव (*pitumāniva*), as the master of abundant food is a person with whom all dwell and to whom all go, so is he.
+
+### Printed p. 357
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्र (*maṃdra*)—one who gives delight, or the worshipful
+- स्वधावः (*svadhāvaḥ*)—one who has food in the form of oblations
+- ऋतजात (*ṛtajāta*)—one who is born for the sacrifice
+- सुक्रतो (*sukrato*)—one who has excellent work, or understanding
+- अग्ने (*agne*)—O Agni
+- जुषस्व (*juṣasva*)—partake of the oblation (or be satisfied)
+- तत् (*tat*)—(and) that beneficial
+- वचः (*vacaḥ*)—praise in the form of speech
+- प्रतिहर्य (*pratiharya*)—desire and accept
+- यः (*yaḥ*)—you who are such
+- विश्वतः (*viśvataḥ*)—to the whole world
+- प्रत्यज्ञसि (*pratyajñasi*)—you are favourable, turned toward it
+- दर्शतः (*darśataḥ*)—visible (to all)
+- संदृष्टौ (*saṃdṛṣṭau*)—to look upon well
+- रण्वः (*raṇvaḥ*)—you are charming (and)
+- पितुमानिव (*pitumāniva*)—as one who is master of abundant food is a supporter of all
+- क्षयः (*kṣayaḥ*)—you are a dwelling-place
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who give delight to all, who have food in the form of oblations, who were born for the sacrifice, and who have excellent works: partake of our oblation, and accept our praise in the form of speech and be satisfied. You are ever favourable and turned toward the whole world. You are visible to all and charming to look upon. And as the master of abundant food is a supporter of all, so you are a dwelling-place for all.
+
+##### Printed English
+
+Agni, you confer happiness, you accept oblations, you were born for sacrifice, and are the performer of good works ; be pleased (with this rite), attend to tbis prayer : for you are in presence of all (the world), are visible (to all) are pleasant in their sight, and are their refuge, like a (bountiful) distributor of food.
+
+##### विशेषविषयगळु (Special Topics)
+
+रण्वः (*raṇvaḥ*)—रमणशीलः रमयिता वा । (*ramaṇaśīlaḥ ramayitā vā |*) The meaning is: one who himself delights in oblations and the like, or one who makes gods, men and others delight through his own nature.
+
+ऋतजात (*ṛtajāta*)—Agni is addressed as one born in the sacrifice, or born for the sake of the sacrifice.
+
+प्रतिहर्य (*pratiharya*)—कामय । (*kāmaya |*) To desire means to accept with regard. The Nirukta-kāra, citing the Ṛk
+आ रुद्रास इंद्रवंतः सजोषसो हिरण्यरथाः सुविताय गंतन । इयं पो अस्मत्पति हर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे । (*ā rudrāsa iṃdravaṃtaḥ sajoṣaso hiraṇyarathāḥ suvitāya gaṃtana | iyaṃ po asmatpati haryate matistṛṣṇaje na diva utsā udanyave |*) (Ṛ. Saṃ. 5-57-1.)
+
+### Printed p. 358
+explains the word प्रतिहर्यते (*pratiharyate*) as प्रतिकामयते (*pratikāmayate*), "he regards and desires" (Ni. 11-16); the same meaning applies here also.
+
+मंद्र (*maṃdra*)—मादनशील स्तुत्य वा । (*mādanaśīla stutya vā |*) It is an epithet of Agni meaning "giver of joy" or "worshipful". The Nirukta-kāra, in the Ṛk
+देवीं वाचमजनयंत देवास्तां विश्वरूपाः पशवो वदंति । सा नो मंद्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥ (*devīṃ vācamajanayaṃta devāstāṃ viśvarūpāḥ paśavo vadaṃti | sā no maṃdreṣamūrjaṃ duhānā dhenurvāgasmānupa suṣṭutaitu ‖*) (Ṛ. Saṃ. 8-100-11)
+explains the word मंद्र (*maṃdra*) as मदन (*madana*), that is, "producing joy" (11-30). In this same Ṛk Sāyaṇa shows for this word the various senses मदना (*madanā*), स्तुत्या (*stutyā*), हर्षयित्री ना (*harṣayitrī nā*). The Nirukta-kāra has also included this word among the names of speech (Ni. 2-23).
+
+##### Grammar
+
+- जुषस्व — जुषी प्रीतिसेवनयोः धातुः । लेट् मध्यमपुरुषएकवचनांतरूपम् । अस्य अग्ने इति आमंत्रितसंज्ञकं संबुद्धंतं विद्यते । आमंत्रितं पूर्वमविद्यमानवत् (पा. सू. ८-१-७२) इति तस्य अविद्यमानवद्भावात् अभाववत् भवति । तदा पदात् परत्वाभावात् तिजंतनिघातस्वरो न भवति । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् विकरणस्वरः अवतिष्ठते ।
+- हर्य — हर्य गतिकांत्यो धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । अतिजंतात् परत्वात् निघातस्वरो भवति ।
+- मंद्र — मदि स्तुतिमोदस्वप्नकांतिगतिषु धातुः । स्थायितंचिवंचि (उ. सू. २-१२०) इति रक् प्रत्ययः । इवित्त्वात् सुमागमः । संबुद्धंतरूपम् । पादादौ वर्तमानत्वात् आमंत्रनिघातस्वरो न भवति । आमंत्रितस्यच (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरो भवति ।
+- स्वधावः — तदस्यास्ति इति मतुप् आगते मादुपधायाश्च इति मकारस्य वत्वम् । संबुद्धौ मतुवसोरुसंबुद् (पा. सू. ८-३-१) इति रुत्वम् । पूर्वस्य आमंत्रितस्य अविद्यमानवद्भावत्वात् पादादौ वर्तमानत्वात् आद्युदात्तस्वरो भवति ।
+- ऋतजात — ऋताय यज्ञाय जातः ऋतजातः । संबुद्धौ पूर्ववत् अद्भुतस्वरो भवति । **NOTE**
+
+### Printed p. 359
+
+##### Grammar
+
+- सुक्रतो — शोभनः क्रतुः यस्य सः सुक्रतुः । संबुद्धौ ह्रस्वस्यगुणः इति गुणः । एजंतात् परत्वात् सुलोपः । आमंत्रिताद्युदात्तस्वरो भवति ।
+- विश्वतः — पंचम्यास्तसिल् (पा. सू. ५-३-७) इति पंचम्यर्थे तसिल् प्रत्ययः । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति ।
+- असि — आस भुवि धातुः । लट् मध्यमपुरुषएकवचने परे सिप् । तासस्तोर्लोपः (पा. सू. ७-४-५०) इति धातोः सकारस्य लोपः । यद्योगत्वात् निघातप्रतिषेधात् धातुस्वरः अवतिष्ठते ।
+- दर्शतः — दृशिर् प्रेक्षणे धातुः । भ्रमृदृशि- (उ. सू. ३-३९०) इति अतच् प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । रसरवागि बरुत्तदॆ । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । **NOTE** **NOTE**
+- रण्वः — रवि गतौ धातुः । अस्मात् कर्मणि क प्रत्ययः । इदितो नुम् धातोः इति सुमागमः । अट् कुप्वा- सूत्रेण तस्य णत्वम् । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- सम्‌दृष्टौ — दृशिर् प्रेक्षणे धातुः । स्त्रियां क्तिन् इति भावार्थे क्तिन् प्रत्ययः । व्रश्चभृष्ट- इति धातुशकारस्य षत्वम् । तं निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । तादौ च निति (पा. सू. ६-२-५०) इति गतेः (सम्) प्रकृतिस्वरो भवति ।
+
+## Sūkta 145 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं पृच्छतेति पंचर्चं पंचमं सूक्तं । अत्रानुक्रमणिका । तं पृच्छत
+> पंचांत्या त्रिष्टुबिति । दीर्घतमा ऋषिः । > पूर्वत्राग्नेयं तु तदित्युक्तत्वादिदमप्याग्नेयं । अंत्या त्रिष्टुप् । शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः ॥ प्रातरनुवाकाश्विनशस्त्रयोरस्य विनियोग उक्तः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta तं पृच्छत (*taṃ pṛcchata*) is the fifth sūkta, of five Ṛks. The Anukramaṇikā says: तं पृच्छत पंचांत्या त्रिष्टुप् (*taṃ pṛcchata paṃcāṃtyā triṣṭup*). The seer is Dīrghatamas. Since the preceding sūkta is addressed to Agni and this one is called तत् (*tat*) ("that"), this too is addressed to Agni. The last Ṛk is Triṣṭubh; the rest, by the rule that what is called Triṣṭubh-ending is Jagatī, are Jagatī. Its use in the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+##### Anuvāda
+
+The sūkta तं पृच्छत (*taṃ pṛcchata*) is the fifth sūkta in the twenty-first Anuvāka. It has five Ṛks. In the Anukramaṇikā it is said: "तं पृच्छत पंचांत्या त्रिष्टुप् (*taṃ pṛcchata paṃcāṃtyā triṣṭup*)". The seer of this sūkta is Dīrghatamas. The deity is Agni. The last Ṛk is in the Triṣṭubh metre; the remaining Ṛks are in Jagatī. This sūkta has its application for the Prātaranuvāka and for the recitation of the Āśvina-śastra mantras.
+
+### Printed p. 360
+Maṇḍala 1, Anuvāka 21, Sūkta 145. Aṣṭaka 2, Adhyāya 2, Varga 14. Number of Ṛks in the sūkta: 5. Seer: Dīrghatamas Aucathya. Deity: Agni. Metre: 1–4 Jagatī, 5 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं पृ॑च्छता॒ स ज॑गामा॒ स वे॑द॒ स चि॑कि॒त्वा ई॑यते॒ सा स्वी॑यते।  
+> तस्मि॑न्त्संति प्र॒शिष॒स्तस्मि॑न्नि॒ष्टयः॒ स वाज॑स्य॒ शव॑सः शु॒ष्मण॒स्पतिः॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । पृच्छत । सः । जगाम । सः । वेद । सः । चिकित्वान् । ईयते । सः । नु । ईयते ।  
+> तस्मिन् । संति । प्रशिषः । तस्मिन् । इष्टयः । सः । वाजस्य । शवसः । शुष्मिणः । पतिः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमानाः तमग्निं पृच्छत । यत्स्वर्गादिविषयं प्रष्टव्यमस्ति तत् ।
+> तस्यैव प्रष्टव्यत्वेतिशयमाह । स जगाम॥ स सर्वत्र गच्छति । अत एव स वेद । स च
+> प्रष्टव्यं जानाति । किमितरसाधारण्येन नेत्याह । स चिकित्वान् स एव चेतनावान् । स
+> विशेषज्ञ इत्यर्थः । स एवेयते । ज्ञेयसकाशं गच्छति । पुनर्गतिरेव विशेष्यते । सः
+> सोऽग्निरेव नु क्षिप्रमीयते । यद्यजमानस्य ज्ञेयमस्ति तमर्थं ज्ञातुं शीघ्रमेव गच्छतीत्यर्थः । यद्वा । ज्ञानार्थमीयते । सेव्यते । तथा शीघ्रमनुसेव्यते ।
+> यस्मादयमुक्तरूपः तस्मात्तमेव पृच्छतेत्यर्थः । तत्रापेक्षिताः कामाः संतीत्याह ।
+> तस्मिन्नग्नौ प्रशिषः प्रशासनानि नियमनसामर्थ्यानि संति । असाध्यं नियम्यापि साधयितुं शक्त इत्यर्थः । किंच तस्मिन्नेवाग्नाविष्टय एष्टव्या भोगाः सर्वफलसाधका
+
+##### Gist of the bhāṣya
+
+"O sacrificers, ask that Agni whatever is to be asked, concerning heaven and the like." He states the excellence of his being the one to be asked: स जगाम (*sa jagāma*), he goes everywhere; therefore स वेद (*sa veda*), he knows what is to be asked. Is it in a way common with others? No, he says: स चिकित्वान् (*sa cikitvān*), he alone is possessed of consciousness, that is, he is the discerning one. स एवेयते (*sa eveyate*): he goes to the presence of what is to be known. The going itself is further specified: सः (*saḥ*), that Agni नु (*nu*), quickly, ईयते (*īyate*): if the sacrificer has anything to be known, he goes at once to know that matter. Or else: he is approached (ईयते (*īyate*)) for the sake of knowledge, and is quickly resorted to. Since he is such as described, the meaning is: ask him alone. He says that the desired objects are there: in that Agni are प्रशिषः (*praśiṣaḥ*), commands, powers of control; he is able to control even what is unachievable and to accomplish it. Moreover, in that very Agni are इष्टयः (*iṣṭayaḥ*), objects of desire, enjoyments, the sacrifices that accomplish every fruit
+
+### Printed p. 361
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यागा ना संति । किंच सोग्निर्वाजस्यान्नस्य शवसो बलस्य च पतिः पालयिता दाता !
+> किंच शुष्मिणो बलवतो राजादेरपि पतिः स्वामी । यस्मादयं महानुभावस्तस्मात्तमेव सृष्ट्वा पुरुषार्थं साधयतेति ॥
+
+##### Gist of the bhāṣya
+
+(continuing) … are there. Further, that Agni is the lord (पतिः (*patiḥ*)), protector and giver, of वाजस्य (*vājasya*), food, and of शवसः (*śavasaḥ*), strength. Further, he is lord and master even of the strong शुष्मिणः (*śuṣmiṇaḥ*), kings and the like. Since he is of such great power, one should approach him alone and accomplish the human aim.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—Agni
+- पृच्छत (*pṛcchata*)—ask (and learn all the matters you wish to know)
+- सः (*saḥ*)—Agni
+- जगाम (*jagāma*)—goes about (in all regions)
+- सः (*saḥ*)—he
+- वेद (*veda*)—knows (everything)
+- सः (*saḥ*)—he
+- चिकित्वान् (*cikitvān*)—is possessed of special understanding
+- ईयते (*īyate*)—goes (to the neighbourhood of the matter to be known)
+- सः (*saḥ*)—he
+- नु (*nu*)—quickly
+- ईयते (*īyate*)—goes (for the sacrificer); or (for the sake of knowledge) is resorted to
+- तस्मिन् (*tasmin*)—in that Agni
+- प्रशिषः (*praśiṣaḥ*)—powers of control also
+- संति (*saṃti*)—are
+- तस्मिन् (*tasmin*)—in him
+- इष्टयः (*iṣṭayaḥ*)—all enjoyments, or the sacrifices that give fruit (are)
+- सः (*saḥ*)—he
+- वाजस्य (*vājasya*)—of food
+- शवसः (*śavasaḥ*)—and of strength
+- पतिः (*patiḥ*)—is the giver
+- शुष्मिणः (*śuṣmiṇaḥ*)—(he is lord) even of the mighty (kings and others)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni has gone about in all regions and knows everything. He is possessed of special understanding, and goes for the sacrificer to the neighbourhood of the matter that is to be known. In him is the power of control. He is the treasury of all enjoyments. He is the giver of food and of strength, and the lord of the mighty.
+
+##### Printed English
+
+Ask (of Agni what you desire), for he goes (everywhere), he knows
+(all things) : possessed of intelligence, he proceeds (to ascertain what is to
+be done), and is had recourse to (by his worshippers) ; for in him is the power
+of restraining (unreasonable desires), lin him (is the power of granting)
+enjoyment ; he is the giver of food and of strength; the protector of the
+mighty.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रशिषः (*praśiṣaḥ*)—Here this word is explained as the power of control. It is said to be formed from the root शास् (*śās*), which means "command". But,
+
 ---
 
-**Progress note:** Done through printed p. 355. pp. 349-355 (batch API)
+**Progress note:** Done through printed p. 361. pp. 356-
