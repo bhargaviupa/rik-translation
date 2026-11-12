@@ -82,6 +82,13 @@ def subheads(t):
             continue
         out.append(l)
     return re.sub(r'\n{3,}','\n\n','\n'.join(out))
+def nextrk(L,i):
+    """number of the next `#### Ṛk` heading after line i (None when a `## ` heading comes first)"""
+    for k in range(i+1,len(L)):
+        if L[k].startswith('## '): return None
+        m=re.match(r'#### Ṛk (\d+)',L[k])
+        if m: return int(m.group(1))
+    return None
 def rk_headings(t):
     """Every Saṃhitā block stands under its own `#### Ṛk N` heading (lesson 53: in Vol 17 the model left 61 of 441 out, wrote some after the
     Saṃhitā label, some without or with the wrong number, and repeated some on the next page).  Returns (text, list of what was changed).
@@ -136,6 +143,7 @@ def rk_headings(t):
             m=re.search(r'\d+',l); n=int(m.group()) if m else None
             if i in own: cur=n
             elif n is not None and n==cur: l=l.rstrip()+' (continued)'; ch.append(('continued',n))
+            elif n is not None and cur is not None and n!=cur and nextrk(L,i)==n: l=f'#### Ṛk {cur} (continued)'; ch.append(('continued',cur))      # the model wrote the NEXT Ṛk's number on the tail of this one (Vol 18 p. 310): the real heading follows
             if len(out)>=2 and isrk(out[-2]) and not out[-1].strip() and (out[-2]==l or not re.search(r'\d',l)): ch.append(('double',l)); continue
         out.append(l)
     return '\n'.join(out),ch

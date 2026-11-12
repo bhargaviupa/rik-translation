@@ -11550,7 +11550,7 @@ Since it has been said that the Ṛbhus are rays, they are praised here in that 
 While the Ṛbhus lived happily for twelve days in the hospitality, a form of honour, of the Āditya who shone unhidden, and were content, they made barren land fertile. They made the rivers flow. They made plants grow and stand even in the waterless desert. They made the waters rest in the low-lying places.
 
 ### Printed p. 310
-#### Ṛk 8
+#### Ṛk 7 (continued)
 
 ##### Printed English
 When the Ribhus, reposing for twelve days, remained in the hospitality of the unconcealable (sun), they rendered the fields fertile, they led forth the rivers. plants sprung upon the waste, and waters (spread over) the low (places).
