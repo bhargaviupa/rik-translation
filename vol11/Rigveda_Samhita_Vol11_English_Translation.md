@@ -12510,6 +12510,217 @@ this Ṛk is cited, and गोभिः (*gobhiḥ*) there is explained as ग�
 > न । वां । द्यावः । अहभिः । न । उत । सिंधवः । न । देवत्वं । पणयः । न । आनशु ।  
 > मघं ॥ ९ ॥
 
+### Printed p. 513
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवां रेवद्धनवद्वयोऽन्नं दधाथे । उभयं च धारयथः । यस्मादेवं तस्माद्रेवद्धनवत् । सहदृष्टत्वाद्वय इति गम्यते । धनविशिष्टमन्नं हे नरा नेतार् युवामाशाथे । अश्नुनाथे । अस्मभ्यं ददाथे इत्यर्थः ।
+> कीदृशं । मायाभिर्युवयोः प्रज्ञाभिरितूतीतोऽस्मदभिमुखं गमनवत् इतो
+> रक्षणवद्वा माहितिनं । महन्नामैतत् । अतिमहत् । ईदृशोर्युवयोरेतादृशं
+> सामर्थ्यं कुत इत्यत आह । नां युवयोर्देवत्वमहभिरहोभी रात्रिभिः । अत्राहःशब्देन रात्रिरभिधीयते द्योशब्देनाहःपृथगभिधानात् । ताभिः सहिता द्यावो दिवसा
+> नानशुः । न प्राप्नुवंति । अहश्च रात्रिश्चोभे न तरत इत्यर्थः । उतापि च सिंधवः
+> स्यंदनशीला नद्यो न चैवानशुः । तथा युवयोर्देवत्वं पणयोऽसुरा अपि
+> नानशुः । मघं धनं च नानशिरे । लोकत्रये युवयोः पराभवितारो न केऽपि
+> संतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Mitra and Varuṇa: you two hold wealthy वयः (*vayaḥ*), that is food, and you sustain both wealth and food. Because this is so the food is called wealth-bearing. "Food" is understood from the two being seen together. O leaders, you two attain and give us food that is accompanied by wealth. It comes by your wisdom (मायाभिः (*māyābhiḥ*)), either as moving towards us or as bringing protection (*itūti*). माहिनं (*māhinaṃ*) is a word for "great", so the food is very great. Where does such power come from? Sāyaṇa answers by the second half of the verse: the days (द्यावः (*dyāvaḥ*)) together with the nights (अहभिः (*ahabhiḥ*)) do not reach your divinity. Here the word for "day" (अह (*aha*)) is taken as meaning "night", because "day" is named separately by the word द्यो (*dyo*). Day and night both fail to attain it. The flowing rivers do not attain it either. Nor do the Paṇis, the Asuras, attain your divinity, nor do they obtain wealth. The sense is that in the three worlds there is no one at all who can overcome you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra-Varuṇa) रेवत् (*revat*)—wealth-endowed
+- वयः (*vayaḥ*)—food
+- दधाथे (*dadhāthe*)—you possess (therefore)
+- नरा (*narā*)—you, the guides
+- मायाभिः (*māyābhiḥ*)—with your wisdom
+- इतऊति (*itaūti*)—coming to us with your protection
+- माहिनं (*māhinaṃ*)—great
+- रेवत् (*revat*)—wealth-endowed (food)
+- आशाथे (*āśāthe*)—bring about (for us)
+- न (*na*)—your (the two of you)
+- देवत्वं (*devatvaṃ*)—the divine worthiness of worship
+- अहभिः (*ahabhiḥ*)—joined with the nights
+- द्यावः (*dyāvaḥ*)—the days
+- न आनशु (*na ānaśu*)—have not attained
+- उत (*uta*)—and
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- न (*na*)—have not attained
+- पणयः (*paṇayaḥ*)—the Asuras too
+- न (*na*)—have not attained (moreover)
+- मघं (*maghaṃ*)—they have not obtained even the wealth (that is with us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you are the lords of food that is accompanied by wealth. Therefore you, the guides of the sacrifice, with the help of your wisdom and with your protection, bring about for us food that comes to us, is great and is endowed with wealth. Neither day nor night, nor the flowing rivers, nor the Asuras attain the divine worthiness of worship that belongs to you two. They do not attain your wealth either. There are none who surpass you even in the three worlds.
+
+##### Printed English
+
+You distribute food, accompanied by riches ; you bestow upon us, leaders (of sacrifice); wealth, ample, and defended by your wise provisions
+
+### Printed p. 514
+
+##### Printed English
+
+the days with the nights have not attained your divinity ; neither have the rivers, nor have the Asuras, and they have not obtained (your) wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+On मायाभिः (*māyābhiḥ*): the author of the Nirukta, citing the Nighaṇṭu reading मायेति प्रज्ञानाम (*māyeti prajñānāma*) and माया, वयनं इति तन्नामसु पाठात् (*māyā, vayanaṃ iti tannāmasu pāṭhāt*) (Ni. 3-13), quotes the Ṛk मायामू तु यज्जियानां (*māyāmū tu yajjiyānāṃ*) (10-88-6) and explains it with स एव प्रज्ञां तैतां मन्यंते (*sa eva prajñāṃ taitāṃ manyaṃte*), showing that the word माया (*māyā*) means "wisdom" (Ni. 7-27). Moreover, he quotes the Ṛk
+
+शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*) (Ṛ. Saṃ. 6-58-1)
+
+and here too (Ni. 12-17) he explains the word माया (*māyā*) as wisdom.
+
+This word is used about ninety times in the Ṛgveda Saṃhitā. Broadly speaking it is used in four main senses. It can be understood in four ways: as a supernatural creative power, as a merely physical power, as a stratagem, or as the art of magic. It may be said to be derived from the root मा (*mā*) in the sense of creation.
+
+In many places this word is an epithet of Mitra and Varuṇa, showing their special power.
+
+ऋतस्य बुद्ध उषसामिषण्यन्वषा मही रोदसी आ विवेश । मही मित्रस्य वरुणस्य माया चंद्रेव भानुं वि दधे पुरुत्ता ॥ (*ṛtasya buddha uṣasāmiṣaṇyanvaṣā mahī rodasī ā viveśa | mahī mitrasya varuṇasya māyā caṃdreva bhānuṃ vi dadhe puruttā ‖*) (Ṛ. Saṃ. 3-61-7)
+
+Here the dawn is the supernatural creation of Mitra and Varuṇa.
+
+माया नां मित्रावरुणा दिवि श्रिता सूर्यो ज्योतिश्चरति चित्रमायुधं । तमभ्रेण वृष्ट्या गूहथो दिवि पर्जन्य द्रप्सा मधुमंत ईरते ॥ (*māyā nāṃ mitrāvaruṇā divi śritā sūryo jyotiścarati citramāyudhaṃ | tamabhreṇa vṛṣṭyā gūhatho divi parjanya drapsā madhumaṃta īrate ‖*) (Ṛ. Saṃ. 5-63-4)
+
+Here too the extraordinary wisdom and creative power of Mitra and Varuṇa are described. Likewise,
+
+### Printed p. 515
+
+पूर्वापरं चरतो मायय्यत् शिशू क्रीळंतौ परि यातो अध्वरं । विश्वान्यन्नो भुवनाभिचष्ट ऋतूरन्नो विदधज्जायते पुनः ॥ (*pūrvāparaṃ carato māyayyat śiśū krīḷaṃtau pari yāto adhvaraṃ | viśvānyanno bhuvanābhicaṣṭa ṛtūranno vidadhajjāyate punaḥ ‖*) (Ṛ. Saṃ. 10-85-18)
+
+Here it is said that the sun and the moon move in the sky by their special power of wisdom. Thus in many Ṛks this word shows the nature of the power of the gods by which they bring about the welfare of the world. In some other places, however, it is an epithet showing the powers of the Asuras, such as deceit and fraud.
+
+त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः । त्वामिन्नरो वृणते गविष्टिषु त्वां विश्वासु हप्यासिस्तिषु ॥ (*tvaṃ māyābhiranavadya māyinaṃ śravasyatā manasā vṛtramardayaḥ | tvāminnaro vṛṇate gaviṣṭiṣu tvāṃ viśvāsu hapyāsistiṣu ‖*) (Ṛ. Saṃ. 10-147-2)
+
+Here Indra is praised: "you destroyed the deceitful enemy by your special wisdom." Similarly, in the present Ṛk the epithet मायाभिः (*māyābhiḥ*) is there to show the surpassing power of Mitra and Varuṇa. It is said that by this wisdom they obtained a power far greater than that of the Sindhus, the rivers and the Asuras.
+
+##### Grammar
+
+- वधाथे — डुधाण् धारणपोषणयोः धातुः । छांदसत्वात् लट् । मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति । **NOTE**
+- नरा — नृ नये धातुः । क्विप् च इति क्विप् प्रत्ययः । द्विवचने परे ऋतोजि:सर्वनामस्थानयोः इति गुणः । सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः आकारादेशः ।
+- इतऊति — इतः ऊतिः यस्य तत् इतऊति । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- माहिनम् — मह पूजायां धातुः । महेरिनण् च (उ. सू. २-२१४) इति इनण् प्रत्ययः । अतउपधायाः (पा. सू ७-२-११६) इति उपधावृद्धिः । व्यत्ययेन अकारः उदात्तः भवति ।
+- देवत्वम् — देवानां भावः देवत्वम् । तस्यभावस्त्वतला इति भावार्थे त्व प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+
+### Printed p. 516
+
+- आनशुः — अशू व्याप्तौ धातुः । लट् प्रथमपुरुषबहुवचने उसादेशः । द्वित्वे प्राप्ते अत आदेः (पा. सू. ७-४-७०) इति अभ्यासस्य दीर्घः । अश्नोतेश्च (पा. सू. ७-४-७२) इति नुडागमः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+
+## Sūkta 152 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवं वस्त्राणीति सप्तर्चं द्वादशं सूक्तं दैर्घतमसं । अनादेशपरिभाषया
+> त्रैष्टुभं । मैत्रावरुणं पूर्वत्र मैत्रावरुणं हीत्युक्तत्वात् ॥ सूक्तविनियोगो
+> लैंगिकः ॥ मैत्रावरुणे पशावाद्या वपायाज्या । प्रदानानामितिखंडे सूत्रितं ।
+> युवं वस्त्राणिपीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः । आ. ३-८ । इति ॥ सैव
+> समावर्तने नव वस्त्रधारणे विनियुक्ता । सूत्रितं च । युवं वस्त्राणि पीवसा
+> वसाथे इत्यहते वाससी आच्छाद्य । आ. गृ. ३-८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta युवं वस्त्राणि (*yuvaṃ vastrāṇi*), of seven Ṛks, is the twelfth sūkta; its seer is Dīrghatamas, son of Ucathya. By the rule of the non-substitute (अनादेशपरिभाषया (*anādeśaparibhāṣayā*)) its metre is Triṣṭubh. Its deity is Maitrāvaruṇa (Mitra and Varuṇa), since the preceding sūkta was declared to be Maitrāvaruṇa. The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the animal sacrifice to Mitra and Varuṇa the first Ṛk is the yājyā for the offering of the omentum; this is laid down in the section प्रदानानां (*pradānānāṃ*) by the sūtra युवं वस्त्राणिपीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇipīvasā vasāthe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. Sū. 3-8). The same Ṛk is used at the Samāvartana, the putting on of a new garment, as the sūtra says: युवं वस्त्राणि पीवसा वसाथे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasāthe ityahate vāsasī ācchādya*) (Ā. Gṛ. 3-8-9). **NOTE**
+
+##### Anuvāda
+
+This sūkta, युवं वस्त्राणि (*yuvaṃ vastrāṇi*), is the twelfth sūkta in the twenty-first anuvāka. It has seven Ṛks. The seer of this sūkta is Dīrghatamas, the son of Ucathya. As said before, the deities are Mitra and Varuṇa. The metre is Triṣṭubh. The use is by indication. In the animal sacrifice offered to Mitra and Varuṇa, the first Ṛk of this sūkta is to be used as the yājyā mantra while the omentum is offered; this is set out in the section प्रदानानां (*pradānānāṃ*) of the Āśvalāyana Śrauta Sūtra by the sūtra युवं वस्त्राणि पीवसा वसाधे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇi pīvasā vasādhe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. 3-8). And this same Ṛk is to be recited, at the domestic rite called Samāvartana, when a new garment is put on; this is indicated by the sūtra युवं वस्त्राणि पीवसा वसाधे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasādhe ityahate vāsasī ācchādya*) of the Āśvalāyana (Ā. Gṛ. 3-8-9).
+
+##### Particulars
+
+Sūkta—150 **NOTE**
+Maṇḍala 1; Anuvāka 21; Sūkta 152.
+Aṣṭaka 2; Adhyāya 2; Varga 22.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Dīrghatamas Aucathya.
+Devatā: Mitra and Varuṇa.
+Chandas: Triṣṭubh.
+
+### Printed p. 517
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं वस्त्रा॑णि पीव॒सा व॑साथे यु॒वोरच्छि॑द्रा॒ मंत॑वो ह॒  ॑
+> सर्गाः ।  
+> अवा॑तिरत॒मन्य॑तानि॒ विश्व॑ ऋ॒तेन॑ मित्रावरुणा सचेथे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । वस्त्राणि । पीवसा । वसाथे इति । युवोः । अच्छिद्राः । मंतवः । ह । सर्गाः ।  
+> अव । अति र तॆं । अनृतानि । विश्वा । ऋतेन । मित्रावरुणा । सचेथे इति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ पीवसा पीनौ युवं युवां । यद्वा । पीवसा पीनान्यच्छिन्नानि । वस्त्राण्याच्छादनयोग्यानि वासांसि वसाथे । आच्छादयथः । यद्वा । पीवसा
+> स्कूलेन प्रभूतेन तेजसा वस्त्राणि दधाथे ! अविच्छिन्नानि वस्त्रस्थानीयानि तेजांसि
+> धारयथ इत्यर्थः । किंच युवयोः सर्गाः सृष्टय अच्छिद्रा अच्छिन्ना मंतवो ह
+> मननीयाश्च । ईदृशौ युवां विश्वा विश्वानि सर्वाण्यनृतान्यसत्यान्यप्रियाणि पापान्यवातिरतं । नाशयतं ॥ विश्वत्यत्र संहितायामृत्यक इति प्रकृतिभावो ह्रस्वत्वं च ॥
+> ऋतेन फलेन तत्साधनेन यज्ञेन वा सचेथे । संगच्छेथे । अस्मभ्यं योजयथ
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you two, पीवसा (*pīvasā*) "stout", wear garments (वसाथे (*vasāthe*), you cover yourselves). Or else: पीवसा (*pīvasā*) qualifies the garments, which are stout, unbroken, fit for covering, and you two wear them. Or else: with stout, abundant splendour you two put on garments, that is, you bear unbroken splendours which stand in the place of garments. Further, your creations (सर्गाः (*sargāḥ*)) are flawless, unbroken and worthy of reflection. Being such, you destroy all untruths, that is, all unpleasant sins (*avātirataṃ* means "destroy"). With ऋतेन (*ṛtena*), that is the fruit, or the means to it, the sacrifice, you two unite (सचेथे (*sacethe*)); that is, you join it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- पीवसा (*pīvasā*)—of robust body
+- युवं (*yuvaṃ*)—you two
+- [(or) युवं (*yuvaṃ*)—you two
+- पीवसा (*pīvasā*)—unbroken, fit for covering
+- वस्त्राणि (*vastrāṇi*)—garments. (or) पीवसा (*pīvasā*)—with abundant (splendour) (made of splendour)
+- वस्त्राणि (*vastrāṇi*)—garments]
+- वसाथे (*vasāthe*)—you wear
+- युवोः (*yuvoḥ*)—of you two
+- सर्गाः (*sargāḥ*)—creations
+- अच्छिद्राः (*acchidrāḥ*)—free of defect
+- मंतवो ह (*maṃtavo ha*)—and charming, are they not (you two also)
+- विश्वा (*viśvā*)—all
+- अनृतानि (*anṛtāni*)—untruths, or unpleasant sins
+- अव अतिरतं (*ava atirataṃ*)—you destroy
+- ऋतेन (*ṛtena*)—with the sacrifice or with its fruit
+- सचेथे (*sacethe*)—you unite (join) (us)
+
+### Printed p. 518
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you two of robust body wear your garments, which are abundant and made of splendour. Your forms are flawless and charming. You two destroy all sins. You join us with the sacrifice and make us enjoy its fruit.
+
+##### Printed English
+
+Robust Mitra and Varuna, you wear vestiments (of light); your natures are to be regarded as without defect ; you annihilate all untruths; you associate (us) with sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa has shown the construction of the word पीवसा (*pīvasā*) in three ways. First, it is made an epithet of युवं (*yuvaṃ*) and so addressed to the two gods. Second, it is made an epithet of वस्त्राणि (*vastrāṇi*), and then two meanings are given. पीवसा वस्त्राणि सीना अच्छिन्नानि आच्छादनयोग्यानि वासांसि वसाथे (*pīvasā vastrāṇi sīnā acchinnāni ācchādanayogyāni vāsāṃsi vasāthe*) means one way: garments that are not torn and are fit for covering. Or else पीवसा स्कूलेन प्रभूतेन तेजसा वस्त्राणि दधाथे अविच्छिन्नानि वस्त्रस्थानीयानि तेजांसि धारयथ इत्यर्थः । (*pīvasā skūlena prabhūtena tejasā vastrāṇi dadhāthe avicchinnāni vastrasthānīyāni tejāṃsi dhārayatha ityarthaḥ |*). This is explained in another way: Mitra and Varuṇa wore garments that were very abundant and consisted of their own splendour. In general the word पीवस् (*pīvas*) is used in the sense of "stout".
+
+अग्नेर्वर्म परि गोभिर्व्ययस्व सं प्रोर्णुष्ट पीवसा मेवसा च । नेत्वा धृष्णुर्हरसा जह्र्षाणो वधृग्विधक्ष्यन्पर्यंख्याते ॥ (*agnervarma pari gobhirvyayasva saṃ prorṇuṣṭa pīvasā mevasā ca | netvā dhṛṣṇurharasā jahrṣāṇo vadhṛgvidhakṣyanparyaṃkhyāte ‖*) (Ṛ. Saṃ. 10-16-7)
+
+In all such Ṛks पीवसा (*pīvasā*) is explained as "stout". In the present Ṛk the meaning is garments that are very extensive and made of splendour.
+
+अव अतिरतं (*ava atirataṃ*)—अवतिरतिः—वधकर्मा (*avatiratiḥ—vadhakarmā*). The meaning is that you destroy untruths, the unpleasant sins.
+
+On the whole, the form of Mitra and Varuṇa is full of splendour. Their creations are flawless and charming. They destroy untruths and spread truth and purity in the world.
+
+### Printed p. 519
+
+##### Grammar
+
+- युवम् — प्रथमायाश्चद्विवचने भाषायां इत्यत्र लोके एव आत्वविधानात् अत्र आत्वं न भवति ।
+- वस्त्राणि — वस आच्छादने धातुः । सर्वधातुभ्यःष्ट्रन् (उ. सू. ४-५-९८) इति ष्ट्रन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- जीवसा — शेश्चंदसि बहुलम् (पा. सू. ९-१-७०) इति शेः लुक् । **NOTE**
+- वसाथे — वस आच्छादने धातुः । अदादिः । आत्मने पदी । लट् मध्यमपुरुषद्विवचने वसाथे इति रूपं भवति । तिजंतनिघातस्वरः भवति ।
+- युवोः — युष्मद् शब्दः । तस्मात् षष्ठीद्विवचने परे सुपां सुपोभवंति इति वचनेन षष्ठीद्विवचनादेशः एव भवति । तदा आदेशत्वात् योचि (पा. सू. ७-२-८९) इति यत्वं न भवति । शेषेलोपः इति टेः (अद्) लोपः । उदात्तनिवृत्तिस्वरेण विभक्तेः उदात्तस्वरः भवति । अंत्यलोपपक्षे एकादेशउदात्तेनोदात्तः इति उदात्तस्वरः भवति ।
+- अच्छिद्राः — न च्छिद्राः अच्छिद्राः । तत्पुरुषे तुल्यार्थ—(पा. सू. ६-२-२) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- मंतवः — मन ज्ञाने धातुः । कमिमनिजनि—(उ.सू. १-२) इति तु प्रत्ययः । नकारस्य अनुस्वारः परसवर्णः । प्रथमाबहुवचनांतरूपम् ।
+- सर्गाः — सृज विसर्गे धातुः । अस्मात् घञ् प्रत्ययः । तं निमित्तीकृत्य लघूपधगुणः रपरत्वेन भवति । चजोःकुघिण्यतोः (पा. सू. ७-२-५२) इति कुत्वम् । इत् प्रत्ययत्वात् आद्युदात्तस्वरः भवति ।
+- अतिरतम् — तिर धातुः वधार्थे प्रयुक्तः । लज् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- विश्व — विश्व+ऋतेन इति स्थिते ऋत्यकः (पा. सू. ६-१-१२८) इति प्रकृतिभावः भवति । छांदसत्वात् ह्रस्वः भवति ।
+- मित्रावरुणा — देवताद्वंद्वेच (पा. सू. ६-३-२६) इति द्वंद्वे आनजादेशः । द्विवचनस्य सुपां सुलुक् इति आकारादेशः । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 512. pp. 506-512 (batch API)
+**Progress note:** Done through printed p. 519. pp. 513-519 (batch API)
