@@ -8958,6 +8958,176 @@ For the sentence स्वेनेव धीरो मनसा यदग्र
 
 जुह्वः (*juhvaḥ*): our ladles, the जुहू (*juhū*), *upabhṛt* and the rest, filled with ghee, go toward that very Agni in order to please him. Or else: जुह्वः (*juhvaḥ*) are the oblations, so called because they are offered, in the form of Soma and the like. Or again, the other sacrificial substances placed in the ladles and the like are also called जुह्वः (*juhvaḥ*), by non-distinction between container and contained, as in "the platforms shout" (मंचाः क्रोशंतीतिवत् (*maṃcāḥ krośaṃtītivat*)). They too go to him alone, because he is of the nature of all deities. (The block breaks off here in this window; the next window continues it.)
 
+### Printed p. 368
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तार्थमपि हूयमानं चेति भावः । किंचार्वतीः प्राप्तिमत्यः स्तुतयस्तमित्तमेवाग्निं गच्छंति सर्वदेवतात्मकत्वादेव । स एवैकोऽयमग्निर्विश्वानि मे मदीयानि
+> वचांसि स्तोत्ररूपाणि शृणवत् । शृणोति । अग्नेः सर्वदेवतात्मकत्वं तैत्तिरीया
+> अहुः । ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति । तै. सं.
+> ६-२-२-६ । तथात्रैव पुरस्तादाम्यास्यते । त्वमग्ने वरुणो जायसे यत्त्वं मित्रः ।
+> ऋ. ५-३-१ । इत्यादिकोऽस्य विशेष इत्युच्यते । पुरुप्रैषो बहुप्रैषभाक् । यद्वा
+> बहुप्रेषणः । सर्वस्याज्ञापयितेत्यर्थः । ततुरिस्तरयिता ॥ तरतेरंतर्णर्थादादृगमहन इति किन्पत्ययः । बहुलं छंदसीत्युत्वं ॥ यज्ञसाधनो यज्ञसाधकः
+> अग्न्यधीनत्वाद्यज्ञस्य अच्चिद्रोतिरविच्चिन्नरक्षणः शिशुः शिशुवत्प्रियकारी शोचयिता
+> ना शत्रूणां एवंभूतोऽग्निः सं रभो यज्ञादिसंरंभवान् सन्नादत्त । आदत्ते ।
+> हविरादिकं स्वीकरोति ॥
+
+##### Gist of the bhāṣya
+
+The sense is that the ladles are also directed to him as the oblation is being offered to the other deities. Further, the *arvatīḥ*, the praises that reach their goal, go to that very Agni, because he is of the nature of all the deities. He alone, this Agni, hears all my words, which take the form of hymns. The Taittirīyas state that Agni is of the nature of all the deities: ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति । (*te devā bibhyato 'gniṃ prāviśan tasmādāhuragniḥ sarvā devatā iti |*) (Tai. Saṃ. 6-2-2-6). Likewise, in this very place, it is said further on: त्वमग्ने वरुणो जायसे यत्त्वं मित्रः (*tvamagne varuṇo jāyase yattvaṃ mitraḥ*) (Ṛ. 5-3-1), and the like; this is called his special feature. *Puruproṣaḥ* is "one who has a share in many commands," or else "one who sends out many," that is, the one who gives orders to all. *Taturiḥ* is "one who carries across"; the affix *kin* is applied to the root *tṛ* with its causal sense, and the *u* is by the rule "bahulaṃ chandasi." *Yajñasādhanaḥ* is the accomplisher of the sacrifice, since the sacrifice depends on Agni. *Acchidrotiḥ* is one whose protection is unbroken. *Śiśuḥ* is one who is pleasing like a child, or one who causes his enemies to grieve. Such an Agni, *saṃ rabhaḥ*, possessed of the zeal for undertaking the sacrifice and the like, *ādatta*, accepts the oblation and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जुह्वः (*juhvaḥ*)—the ladles and other vessels (filled with ghee and the like), or the oblations such as Soma, or the ghee and the rest contained in the vessels
+- तमित् (*tamit*)—aiming at that very Agni
+- गच्छंति (*gacchaṃti*)—go (facing him)
+- अर्वतीः (*arvatīḥ*)—all the praises
+- तं (*taṃ*)—him alone (they reach)
+- एकः (*ekaḥ*)—Agni, who is the sole representative (of all the deities)
+- मे (*me*)—my
+- विश्वानि वचांसि (*viśvāni vacāṃsi*)—all the words of praise
+- शृणवत् (*śṛṇavat*)—hears
+- पुरुप्रैषः (*purupraiṣaḥ*)—the one who impels all
+- ततुरिः (*taturiḥ*)—the one who carries (across worldly existence)
+- यज्ञसाधनः (*yajñasādhanaḥ*)—the one who is the cause of the sacrifice
+- अच्छिद्रोतिः (*acchidrotiḥ*)—the one whose protection is unceasing
+- शिशुः (*śiśuḥ*)—Agni, who is like a child (pleasing), or who makes (his enemies) grieve
+- सं रभः (*saṃ rabhaḥ*)—joined together with the implements (needed for sacrifices and the like)
+- आ अदत्त (*ā adatta*)—accepts (the oblations)
+
+##### भावार्थ (Bhāvārtha)
+
+The ladles and other vessels, filled with ghee and the like, go toward that very Agni, facing him. Agni, the sole representative of all the deities, hears all my words of praise, and all of them reach him alone. Agni, the impeller of all, the one who carries everyone across worldly existence, the cause of the sacrifice, possessed of unceasing protection, the one who makes his enemies grieve, accepts the oblations together with the implements required for the sacrifice.
+
+### Printed p. 369
+
+##### Printed English
+
+To him the (sacrifical) ladles are directed ; to him (our) praises are addressed ; he alone hears all my prayers; he is the instigator of many, the transporter (across the world), the instrument of sacrifice, the unintermitting preserver (of mankind), and (gentle as) an infant: provided with the preparations (of sacrifice), he accepts the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+अर्वतीः (*arvatīḥ*)—*prāptimatyaḥ stutayaḥ*. It is explained here as praises that approach Agni. Ordinarily *arvatīḥ* means mares. Since the speed of horses is suggested in approaching Agni, the word may have been used for the praises as well.
+
+ततुरिः (*taturiḥ*)—तारयिता (*tārayitā*): one who carries across worldly existence.
+
+एक मे विश्वानि वचांसि श्रवणवत् (*eka me viśvāni vacāṃsi śravaṇavat*)—Agni, the sole representative of all the deities, hears all my words of praise. How he is the sole representative of all the deities has been explained by Sāyaṇa: अग्ने सर्वदेवतात्मकत्वं तैत्तिरीया आहुः । ते देवा बिभ्यतोऽग्निं प्राविशन्' तस्मादाहुरग्निः सर्वा देवता इति । (*agne sarvadevatātmakatvaṃ taittirīyā āhuḥ | te devā bibhyato 'gniṃ prāviśan ' tasmādāhuragniḥ sarvā devatā iti |*). What the Taittirīya Saṃhitā says is cited here: the frightened deities all entered Agni and were contained in him, so that he alone became the sole representative of them all. The Ṛk-saṃhitā also, in the Ṛk
+
+यदीं गणस्य रशनामजीगः शुचिरंक्ते शुचिभिगोर्घभिरग्निः । आद्दक्षिणा युज्यते वाजयंत्युत्तानामूर्ध्वो अधयज्जुहूभिः ॥ (*yadīṃ gaṇasya raśanāmajīgaḥ śuciraṃkte śucibhigorghabhiragniḥ | āddakṣiṇā yujyate vājayaṃtyuttānāmūrdhvo adhayajjuhūbhiḥ ‖*) (Ṛ. Saṃ. 5-1-3),
+
+states the same view. Therefore he is praised with "ekaḥ śṛṇavat."
+
+शिशुः (*śiśuḥ*)—शिशुवत्प्रियकारी (*śiśuvatpriyakārī*). Sāyaṇa has given one meaning, "pleasing like a child," and a second, शोचयिता ना शत्रूणां (*śocayitā nā śatrūṇāṃ*). Both meanings are possible in regard to Agni.
+
+हस्ताभ्यां ह्येनं मंथंति । शिशुं जातमिति शिशुरिव वा एव प्रथमजातो यदग्निः । (*hastābhyāṃ hyenaṃ maṃthaṃti | śiśuṃ jātamiti śiśuriva vā eva prathamajāto yadagniḥ |*) (Ai. Brā. 1-16)
+
+### Printed p. 370
+
+##### विशेषविषयगळु (Special Topics)
+
+The quality is stated here as it is described in the Aitareya Brāhmaṇa and elsewhere. To show that a *śiśu* is not merely of child-form but also worthy of honour, the Nirukta author says: शिशुः शंसनीयो भवति (*śiśuḥ śaṃsanīyo bhavati*) (Ni. 10-39): it is called *śiśu* because it is worthy of praise. Or else: शिशीतेर्ना स्याद्वानकर्मणः । चिरलब्दो गर्भो भवति (*śiśīternā syādvānakarmaṇaḥ | ciralabdo garbho bhavati*) (Ni. Saṃ. 10-39)**NOTE**. Thus he has also shown the explanation of the word as "the name *śiśu* because it came from the man to the woman in the form of a gift."
+
+अन्यान्या वत्समुपधापयेते। तयोरेत्वा वत्स । अग्निश्चा दित्यश्च । रात्रेवत्सः । श्वेत आदित्यः । अहोऽग्निः । (*anyānyā vatsamupadhāpayete| tayoretvā vatsa | agniścā dityaśca | rātrevatsaḥ | śveta ādityaḥ | aho 'gniḥ |*) (Trai. Ā. 8-10)**NOTE**. In sentences such as these also this state of being a child is praised.
+
+In the second sense, शोचयिता वा शत्रूणां (*śocayitā vā śatrūṇāṃ*), it is said that the name is given because Agni destroys his enemies completely.
+
+न तस्य मायया चन रिपुरीशीत मर्त्यः । यो अग्नये ददाश हव्यदातिभिः । (*na tasya māyayā cana ripurīśīta martyaḥ | yo agnaye dadāśa havyadātibhiḥ |*) (Ṛ. Saṃ. 8-23-15)
+
+In Ṛks such as this, Agni is described thus: no enemy, however great, who falls into his hand can escape, nor is it possible to conquer Agni; Agni is able to injure everyone. Therefore the second meaning becomes possible.
+
+##### Grammar
+
+- गच्छंति—गमल्, गत् धातुः । लट् प्रथमपुरुषबहुवचनांतरूपं । तिखंतनिघातस्वरः भवति ।
+- जुह्वः—हु दानादनयोः धातुः । अस्मात् हुवः श्लु वच्च (उ. सू. २-२१८) इति क्विप् प्रत्ययः, धातोः दीर्घः । श्लु वद्भावः । अस्मात् धातोः द्वित्वादि । उदात्तस्थाने यण् आगत्य तत्परे विभक्तौ आगतायां (अनुदात्त) उदात्तस्वरितयो—(पा. सू. ८-२-४) इति स्वरितस्वरः भवति ।
+
+### Printed p. 371
+
+##### Grammar
+
+- अर्वति—ऋ गत् धातुः । अन्येभ्योऽपिदृश्यंते (पा सू. ३-२-७५) इति वनिप् । स्त्रीत्वविवक्षायां कृतायां ऋन्नेभ्योजिप् इति जीप् । अर्वणस्तृसावनञ्ः (पा. सू. ६-४-१२७) इति तृ अंतादेशः । ऋकार इत् । जस् परे सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः भवति । **NOTE**
+- शृणवत्—श्रु श्रवणे धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः (पा. सू. ३-४-९७) इति तस्य इकारस्य लोपः । लेटोऽडाटौ (पा. सू. ३. ४-९४) इति अडागमः । श्रुवः श्रुच (पा. सू. ३-१-७४) इति धातोः शृ आदेशः । श्नु विकरणप्रत्ययनिमित्ते विकरणउकारस्य गुणः । अवावेश ऋवर्णं निमित्तीकृत्य विकरणनकारस्य णत्वं । तिजंतनिघातस्वरः भवति । **NOTE**
+- ततुरिः—तृ प्लवनतरणयोः धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः धातुः । आद्यगमहनजन—(पा. पा. ३-२-१७१) इति किन् प्रत्ययः । लिड्वद्भावात् धातोः द्वित्वं । बहुलं छंदसि इति धातोः उत्वं । रपरत्वेन आगच्छति । नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । **NOTE**
+- यज्ञसाधनः—यज्ञं साधयति इति यज्ञसाधनः । साध सं-द्भौ धातुः । ण्यंतात् ल्युट् प्रत्ययः । युवोरनाक् (पा सू. ७-१-१) इति अनादेशः । णेरनिटि इति णिचः लोपः । लिति (पा. सू. ६-१-१६३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति । समासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- अच्छिद्रऊतिः—छिद्रा ऊतिः यस्य सः छिद्रऊतिः । न छिद्रऊतिः अछिद्रऊतिः । तत्पुरुषेतुल्यार्थ—(पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरः भवति ।
+- अदत्त—डुदाञ् दाने धातुः । छांदसत्वेन वर्तमानार्थे लज् प्रथमपुरुषएकवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒प॒स्थायं॑ चरति॒ यत्स॒मार॑त स॒द्यो जा॒तस्त॑त्सार॒ यज्ये॑भिः ।  
+> अ॒भि श्वां॒तं मृ॑शते नां॒द्ये॑ मु॒दे यदीं॒ गच्छं॑त्युश॒तीर॑पिष्ठि॒तं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपस्थायं । चरति । यत् । संआरत । सद्यः । जातः । तत्सार । युज्येभिः ।  
+> अभि । श्वांतं । मृशते । नांद्ये । मुदे । यत् । ईं । गच्छंति । उशतीः । अपिस्थितं ॥ ४ ॥
+
+### Printed p. 372
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदाध्वर्युरुपस्थायं चरति उपस्थायोपस्थायानुतिष्ठति उत्पत्त्यनुकूलव्यापारं करोति । कदेत्याह । यत् समारत समागच्छत मथनेनाविरभवत् ॥
+> समो गम्यच्छेत्यर्तॆरात्मनेपदं ॥ सद्यस्तदानीमेव जात उत्पन्नः सन् युज्येभिर्योक्तुं संबद्दुं समर्थैः फलैर्मिश्रयितुमर्हैस्तेजोभिर्वा युक्तः सन्
+> तत्सार । अरण्योर्गूढः सन् चचार । यद्वा । युज्येभिरश्वैर्जातमात्र एव सर्वत्र
+> संचचार ॥ त्वर च्छद्मगत् । लिटि णलि रूपं ॥ एवं प्रवृद्दोऽयं श्वांतं श्रांतं
+> शांतं वा यजमानं नांद्ये नंदनीये कर्मणि निमित्तभूते सति मुदे तस्य
+> संतोषयाभि मृशते । अभिमर्शनं करोति । फलप्रदानेनेति भावः । यथा लोके
+> गुर्वादिः श्रांतं शिष्यादिकं स्पृशति तद्वत् । कदेति चेत् उच्यते । यद्यदापिष्ठितं
+> व्याप्य वर्तमानमीमेनमग्नि मुशतीं कामयमाना आज्यधाराः स्तुतयो वा गच्छंति
+> प्राप्न्नुवंति तदाभि मृशते ॥
+
+##### Gist of the bhāṣya
+
+When the Adhvaryu *upasthāyaṃ carati*: having approached again and again, he performs the operation favourable to the production (of Agni). When? *yat samārata*: when Agni came together, appeared, by the churning. The middle voice of *ṛ* is by the rule "samo gamyṛcchi." At that very moment, *sadyaḥ*, being born, he moves about *yujyebhiḥ*, either with fruits capable of being joined and connected, or with energies fit to be mixed with them; *tatsāra* means that, hidden in the two kindling-sticks, he moved about. Or else: with the *yujyas*, the horses, as soon as he was born he moved about everywhere (*tvara chadmagat*; the form is perfect, third person singular). Thus grown, he *abhimṛśate*, touches, the weary or tranquil sacrificer *śvāntaṃ* on the occasion of the *nāndya*, the pleasing rite, *mude*, for his delight; that is, by bestowing fruit, as in the world a teacher or the like touches a tired pupil. When? *yad*, when the streams of ghee or the praises, desiring him (*uśatīḥ*), reach this Agni (*īm*), who is present pervading (*apiṣṭhitam*), then he touches.
+
+##### विशेषविषयगळु (Special Topics)
+
+- यत् (*yat*)—when (the Adhvaryu)
+- उपस्थायं (*upasthāyaṃ*)—the operation favourable (to the production of Agni)
+- चरति (*carati*)—performs (then)
+- समारत (*samārata*)—(Agni) appeared
+- सद्यः (*sadyaḥ*)—at once
+- जातः (*jātaḥ*)—being born
+- युज्येभिः (*yujyebhiḥ*)—joined with energies or fruits that can be joined
+- तत्सार (*tatsāra*)—moved about (between the kindling-sticks), and
+- यत् (*yat*)—when
+- अपिष्ठितं (*apiṣṭhitaṃ*)—pervading (everywhere)
+- ईं (*īṃ*)—this Agni
+- उशतीः (*uśatīḥ*)—the desiring streams of ghee or praises
+- गच्छंति (*gacchaṃti*)—approach and go (then)
+- श्वांतं (*śvāṃtaṃ*)—the sacrificer, wearied (by the sacrificial acts) or of tranquil mind
+- नांद्ये (*nāṃdye*)—in the satisfying rite
+- मुदे (*mude*)—for the delight (of the sacrificer)
+- अभिमृशते (*abhimṛśate*)—becomes united
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the Adhvaryu performs the operation favourable to the production of Agni, Agni appeared. And, born at once, he moved about joined with his energies.
+
+### Printed p. 373
+And as soon as the streams of ghee approach Agni, who pervades everywhere, Agni becomes united in the satisfying rite, for the delight of the sacrificer, who though wearied by the sacrificial acts is of tranquil mind. (He grows.)
+
+##### Printed English
+
+When (the priest) proceeds to effect his development, he is (at once) manifested ; and as soon as engendered, is associated with his objects : he provides for the gratification ( of his worshipper ), placidly engaged in the agreeable (rite), when the (oblations) that desire (his acceptance) reach him present (at the sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+उपस्थायं (*upasthāyaṃ*)—उपस्थायानुतिष्ठति (*upasthāyānutiṣṭhati*). उत्पत्त्यनुकूलव्यापारं (*utpattyanukūlavyāpāraṃ*). The meaning is that the Adhvaryu, seated at the sacrificial altar, performs the operation favourable to the production of Agni.
+
+समारत (*samārata*)—समगच्छत (*samagacchata*). मथनेनाविरभवत् (*mathanenāvirabhavat*). The meaning is that he became manifest as soon as the kindling-sticks were churned. This word is formed by the prefix *saṃ* joining the root *ṛ*, which has the sense of going. Likewise in the Ṛk
+
+इंद्रेषिते प्रसवं भिक्षमाणे अच्छा समुद्रं रथ्येव याथः । समाराणे ऊर्मिभिः पिन्वमाने अन्या वामन्यामप्येति शुभ्रे ॥ ( (*iṃdreṣite prasavaṃ bhikṣamāṇe acchā samudraṃ rathyeva yāthaḥ | samārāṇe ūrmibhiḥ pinvamāne anyā vāmanyāmapyeti śubhre ‖ (*) (Ṛ. Saṃ. 3-33-2)
+
+the same prefix joins the root *ṛ* and the meaning is परस्परं संगच्छंत्यौ (*parasparaṃ saṃgacchaṃtyau*), "meeting one another"; that is, "appearing face to face." In the Ṛk under discussion, "he became manifest" means he appeared face to face; the purport is that Agni was produced in the kindling-sticks.
+
+युज्येभिः (*yujyebhiḥ*)—योक्तुं संबद्दुं समर्थैः फलैः, मिश्रयितुमर्हैस्तेजोभिर्वा (*yoktuṃ saṃbadduṃ samarthaiḥ phalaiḥ, miśrayitumarhaistejobhirvā*): joined with energies, or with fruits, that can be joined. (As being joined with abilities, that may be associated with their objects, or with energies lit to be connected with their consequences, or with his horses joined to his Car. Tr. Wilson)
+
+तत्सार (*tatsāra*)—it is formed from the root *tvara*, which has the sense of going; संचचार (*saṃcacāra*) means "he moved about." यद्वा युज्येभिरश्वैर्जातमात्र एव सर्वत्र संचचार (*yadvā yujyebhiraśvairjātamātra eva sarvatra saṃcacāra*): it may also mean that he moved about joined with his chariot-horses.
+
+अपिष्ठितं (*apiṣṭhitaṃ*)—व्याप्य वर्तमानं (*vyāpya vartamānaṃ*): Agni who pervades everywhere.
+
 ---
 
-**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
+**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
