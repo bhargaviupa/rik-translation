@@ -11,6 +11,8 @@ Inline form: ⟦देवा⟧ becomes  देवा (*devā*)  (use for Sanskr
 
 Usage:
   python3 add_iast.py FILE.md            # rewrite in place
+  python3 add_iast.py FILE.md --samhita-pada   # only Saṃhitā and Pada blocks (bhāṣya blocks stay Devanagari only, user decision Nov 11 2026)
+  python3 add_iast.py FILE.md --inline-only    # only ⟦…⟧ -> Devanagari (*IAST*); blocks untouched (block IAST is made at print time: volbook.py)
   python3 add_iast.py FILE.md --check    # only compare existing IAST layers with the Devanagari and list differences
 Needs: pip install indic-transliteration
 """
@@ -20,7 +22,10 @@ from indic_transliteration.sanscript import transliterate
 
 DEV = re.compile('[ऀ-ॿ]')
 
+ACCENTS = re.compile('[\u0951\u0952\u1CD0-\u1CFF\uA8E0-\uA8FF]')   # Vedic accent signs: the IAST layer is plain (as in Vol 17); the Devanagari keeps them
+
 def deva_to_iast(s):
+    s = ACCENTS.sub('', s)
     s = s.replace('‌', '').replace('‍', '')
     s = re.sub('ऽ', "'", s)
     t = transliterate(s, sanscript.DEVANAGARI, sanscript.IAST)
@@ -33,11 +38,16 @@ def norm(s):
     s = unicodedata.normalize('NFC', s.lower()).replace('ṁ', 'ṃ').replace('ḻ', 'ḷ')
     return re.sub(r"[\s|‖।॥\-*_.,;:!?\d\[\]()'’\"“”]", '', s)
 
-def process(lines):
-    out, i = [], 0
+def process(lines, labels=None, blocks=True, inline=None):
+    """labels: only blocks whose preceding label line contains one of these strings get an IAST run (e.g. ('संहितापाठः', 'पदपाठः'))."""
+    if inline is None: inline = not labels
+    out, i, lab = [], 0, ''
     while i < len(lines):
         L = lines[i]
-        if L.startswith('>') and DEV.search(L):
+        if L.strip() and not L.startswith('>'): lab = L
+        if L.startswith('>') and DEV.search(L) and (not blocks or (labels and not any(k in lab for k in labels))):
+            while i < len(lines) and lines[i].startswith('>') and DEV.search(lines[i]): out.append(lines[i]); i += 1
+        elif L.startswith('>') and DEV.search(L):
             block = []
             while i < len(lines) and lines[i].startswith('>') and DEV.search(lines[i]):
                 block.append(lines[i]); out.append(lines[i]); i += 1
@@ -46,9 +56,9 @@ def process(lines):
             has = j < len(lines) and lines[j].startswith('>') and lines[j].lstrip('> ').startswith('*') and not DEV.search(lines[j])   # an IAST run is a blockquote line; a '**label**' or '*Gist:*' line after the block is not one (bug until Nov 11 2026: such blocks got no IAST)
             if not has:
                 out.append('')
-                for b in block: out.append('> *' + deva_to_iast(b.lstrip('> ').strip()) + '*')
+                for b in block: out.append('> *' + re.sub(r'\s{2,}', ' ', deva_to_iast(b.lstrip('> ').strip().replace('[?]', ''))).strip() + '*')
         else:
-            out.append(re.sub('⟦([^⟧]+)⟧', lambda m: m.group(1) + ' (*' + deva_to_iast(m.group(1)) + '*)', L)); i += 1
+            out.append(re.sub('⟦([^⟧]+)⟧', lambda m: m.group(1) + ' (*' + deva_to_iast(m.group(1)) + '*)', L) if inline else L); i += 1
     return out
 
 def check(lines):
@@ -76,4 +86,7 @@ if __name__ == '__main__':
         print(f'{n} aligned lines, {len(bad)} differ')
         for d, t in bad[:40]: print(' ', d, '|', t)
     else:
-        open(f, 'w', encoding='utf-8').write('\n'.join(process(lines)))
+        labs = ('संहितापाठः', 'पदपाठः') if '--samhita-pada' in sys.argv else None
+        if '--inline-only' in sys.argv: new = process(lines, blocks=False, inline=True)      # volumes whose block IAST is made at print time
+        else: new = process(lines, labs)
+        open(f, 'w', encoding='utf-8').write('\n'.join(new))

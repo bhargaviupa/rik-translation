@@ -982,7 +982,7 @@ That is the count of ṛks and yajus-mantras. Now the number of anuvākas is sta
 >
 > "In the first ten adhyāyas the anuvākas are declared, by total number, one hundred and nineteen (*śataṃ daśa nava*), by the wise. In the *citi* [the Agnicayana section] sixty-seven are to be known; in the Sautrāmaṇī twenty-two; in the Aśvamedha forty-nine; in the *khila* thirty-five are remembered. In the Śukriya [portion] eleven are to be known by the wise. Taken together, three hundred and three (*triśataṃ tryadhikam*) is the accepted [number]."
 
-That is: in the first 10 adhyāyas there are 119 anuvākas. In adhyāyas 11–18, which describe the Agnicayana, there are 67 anuvākas. In adhyāyas 19–21, which deal with the Sautrāmaṇī sacrifice, 22 anuvākas. In adhyāyas 22–25, relating to the Aśvamedha sacrifice, 49 anuvākas. In adhyāyas 26–35, which are called *khila* or *pariśiṣṭa* adhyāyas, 35 anuvākas. In the last 5 adhyāyas, called *Śukriya* (36–40), 11 anuvākas. Adding all together: 119 + 67 + 22 + 49 + 35 + 11 = 303 anuvākas.
+That is: in the first 10 adhyāyas there are 119 anuvākas. In adhyāyas 11–18, which describe the Agnicayana, there are 67 anuvākas. In adhyāyas 19–21, which deal with the Sautrāmaṇī sacrifice, 22 anuvākas. In adhyāyas 22–35, relating to the Aśvamedha sacrifice, 49 anuvākas. In adhyāyas 26–35, which are called *khila* or *pariśiṣṭa* adhyāyas, 35 anuvākas. In the last 5 adhyāyas, called *Śukriya* (36–40), 11 anuvākas. Adding all together: 119 + 67 + 22 + 49 + 35 + 11 = 303 anuvākas.
 
 ### Page 117
 
@@ -1216,7 +1216,7 @@ Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long 
 
 That is: Vaiśampāyana knew all these 86 branches of the Kṛṣṇa Yajurveda.
 
-It seems that a metrical work composed by Vaiśampāyana existed in former times. In the Kāśikā-vṛtti (4-3-104) the expression "Cāraka-ślokas" is written, meaning that these verses were spoken by Vaiśampāyana, who was renowned as Carakācārya. It is possible that these verses are in the Mahābhārata itself.
+It seems that a metrical work composed by Vaiśampāyana existed in former times. In the Kāśikā-vṛtti (4-3-107) the expression "Cāraka-ślokas" is written, meaning that these verses were spoken by Vaiśampāyana, who was renowned as Carakācārya. It is possible that these verses are in the Mahābhārata itself.
 
 ### The three main divisions of the 86 branches of the Kṛṣṇa Yajurveda
 
@@ -1656,7 +1656,7 @@ Though the name Vārāyaṇīya is indicated in two Caraṇa-vyūhas, there is d
 
 ## 20. Vārtāntavīya branch
 
-The discussion of a branch-founder named Varatantu is found in a Pāṇinian sūtra (4-3-102). Kālidāsa in his Raghuvaṃśa (5-2) has written the name of a sage Varatantu; there the proposal of Kautsa, a pupil of the sage Varatantu, is [narrated]. No works belonging to this branch are found by us.
+The discussion of a branch-founder named Varatantu is found in a Pāṇinian sūtra (4-3-102). Kālidāsa in his Raghuvaṃśa (5-1) has written the name of a sage Varatantu; there the proposal of Kautsa, a pupil of the sage Varatantu, is [narrated]. No works belonging to this branch are found by us.
 
 ## 21. Śvetāśvatara branch
 
@@ -2219,7 +2219,7 @@ Now let us examine briefly the account of Jaimini and the other propagators of b
 
 ### Jaimini, propagator of the Sāmaveda
 
-Among the three chief pupils of Kṛṣṇa Dvaipāyana, Jaimini was one. In the Sabhā-parvan of the Mahābhārata (4-18) Jaimini's name is mentioned in the company of the sages who had gathered at the time of Yudhiṣṭhira's entry into the assembly. In the 48th adhyāya of the Ādi-parvan:
+Among the three chief pupils of Kṛṣṇa Dvaipāyana, Jaimini was one. In the Sabhā-parvan of the Mahābhārata (4-17) Jaimini's name is mentioned in the company of the sages who had gathered at the time of Yudhiṣṭhira's entry into the assembly. In the 48th adhyāya of the Ādi-parvan:
 
 > उद्गाता ब्राह्मणो वृद्धो विद्वान् कौत्सार्यजैमिनिः ॥ ६ ॥
 >

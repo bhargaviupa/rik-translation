@@ -11,7 +11,7 @@ def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','�
     parts=re.split(r'<header[^>]*>(.*?)</header>',b,flags=re.S); items=[]
     for i in range(1,len(parts),2):
         h=html.unescape(re.sub(r'<[^>]+>','',parts[i])).strip(); body=parts[i+1]
-        isp=any(x in h for x in title) or bool(re.search(r'(^[0-9]{1,4}\s+\S)|(\S\s+-?\s*[0-9]{1,4}$)',h) and len(h)>12 and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h))
+        isp=any(x in h for x in title) or bool(re.search(r'(^[0-9]{1,4}\s+\S)|(\S\s+-?\s*[0-9]{1,4}$)',h) and len(h)>=8 and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h))
         m=re.findall(r'(?<![0-9೦-೯])[0-9]{1,4}(?![0-9೦-೯])',h) if isp else []
         items.append([h,body,isp,int(m[0]) if m else None])
     num=[k for k,it in enumerate(items) if it[2] and it[3] is not None]
@@ -34,17 +34,23 @@ def _head_number(h):
     m=re.match(r'^[#\s]*([0-9][0-9:)]{0,4})(?=\s)',h) or re.search(r'\s([0-9]{1,4})\s*$',h)
     if not m: return None
     d=re.sub(r'[^0-9]','',m.group(1)); return int(d) if d else None
+VOL1_HEAD=re.compile(r'(?:[0-9]{1,4}\s+(?:ಋಗ್ವೇದ|ಹುಗ್ಗೇದ|ಮಗ್ವೇದ|ಋಗ್ಗೇದ)\S{0,8}|(?:ಪೂರ್ವಪೀಠಿಕೆ|ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ|ಸಾಯಣಭಾಷ್ಯ ?ಭೂಮಿಕೆ)\s+[0-9]{1,4})')
 def pages_md(path,heads=None):
     """same for the markdown form: a running-head line (title + page number at its start or end) starts a page; image lines are dropped.
     The head numbers are noisy (OCR): a number that disagrees with its neighbours is replaced by the one the sequence implies (median of the offset
     number - index over the 3 heads on each side) and listed in ANOMALIES. A jump forward that the neighbours share (unnumbered pages carry no head) is kept
     and listed too: a page without a head merges into the page before it."""
     lines=open(path,encoding='utf8',errors='replace').read().split('\n'); H=[]
+    body0=next((i for i,l in enumerate(lines) if l.strip()=='<!-- body -->'),-1)   # optional marker: running heads above it (front matter, roman pages) are not page heads
     for ln,l in enumerate(lines):
         h=l.strip()
+        if ln<body0: continue
         if l.startswith('![') or 'base64,' in l or not h or len(h)>=110: continue
         m0=re.fullmatch(r'<!-- page (\d+) -->',h)          # explicit marker put into the supplied file for a page that prints no running head (e.g. p. 1 of a volume); recorded in volN/STATUS.md
         if m0: H.append([ln,int(m0.group(1)),'']); continue
+        if VOL1_HEAD.fullmatch(h):                          # Vol 1 heads: 'ಪೂರ್ವಪೀಠಿಕೆ 3', '4 ಋಗ್ವೇದಭಾಷ್ಯದ' (and OCR variants of the second word)
+            n=_head_number(h)
+            if n is not None: H.append([ln,n,h]); continue
         if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ')):
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])

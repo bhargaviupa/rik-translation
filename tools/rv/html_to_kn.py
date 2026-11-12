@@ -28,6 +28,8 @@ CANON={'samhita':'ಸಂಹಿತಾಪಾಠಃ','pada':'ಪದಪಾಠಃ','b
 BLOCK={'samhita','pada','bhashya'}
 DROP=()   # nothing is dropped any more: stray lines are kept as notes (CLAUDE.md rule)
 def clean_line(l):
+    if re.match(r':::',l.strip()): return ''                                       # pandoc div fences of some converted files (Vol 1, file 3): markup, not text
+    l=re.sub(r'\s*\{#[^}]*\}\s*$','',l); l=re.sub(r'\\([!-/:-@\[-`{-~])',r'\1',l); l=re.sub(r'\\$','',l)   # '{#id .section-title}', '\|', '\[', and the trailing '\' of a hard line break
     l=l.replace('||','॥').replace('|','।').translate(TELUGU_DIGITS)     # Telugu digits (౧౦-౧೨೦) are Kannada digits misread (Vol 16 lesson 38)
     l=re.sub('(?<='+KN+')[sS](?=-?'+KN+')','ಽ',l)   # also before a line-end hyphen (ತೇs-ಸ್ಮಿನ್), recurring in Vol 12
     l=refs_fix.fix_kn(l.strip().strip('*').strip())      # ಸಿ.→ನಿ., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. before a number (the user's reading of the print, Nov 9 2026)

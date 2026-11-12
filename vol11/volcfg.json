@@ -1,0 +1,33 @@
+{
+ "vol": 11,
+ "mandala": 1,
+ "branch": "claude/gallant-dijkstra-e9ze2x",
+ "source": [
+  "vol11/html/rig_11.md@1-696"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol11/Rigveda_Samhita_Vol11_Kannada_Text.md",
+  "en": "vol11/Rigveda_Samhita_Vol11_English_Translation.md"
+ },
+ "work": "vol11/work",
+ "window": 6,
+ "mandalas": [
+  1
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "page_notes": {
+  "212": "the running head of this page reads 211 and pages 210 and 211 have no head of their own; the page number 212 is only PROPOSED (user, Nov 12 2026: do not decide it now). Put the mark `**NOTE**{printed page number 212? (head reads 211; pages 210-211 print no head)}` right after the page heading and keep going."
+ }
+}
