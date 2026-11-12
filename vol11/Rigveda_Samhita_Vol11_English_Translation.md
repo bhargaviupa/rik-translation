@@ -13967,6 +13967,149 @@ The word गिरिष्ठाः (*giriṣṭhāḥ*) is used as an adjectiv
 
 भीमः (*bhīmaḥ*)—भीतिजनकः (*bhītijanakaḥ*): the fearful one. मृगवदयमपि मृगोऽन्वेषा शत्रोणां भीमो भयानकः सर्वेषां भीत्यपादानभूतः (*mṛgavadayamapi mṛgo 'nveṣā śatroṇāṃ bhīmo bhayānakaḥ sarveṣāṃ bhītyapādānabhūtaḥ*). The wild beast, to other creatures
 
+### Printed p. 575
+
+*(Continuation of the Special Topics on Ṛk 2 of Sūkta 154.)*
+
+Since (Ni. 1-20 **NOTE**) says so, [the word is a qualifier] of Viṣṇu, whether taken as "dwelling in the clouds" or otherwise.
+
+*mṛgo na*—*mṛgo mārṣèrgatikarmaṇaḥ*: formed from the root *mṛg* (*mṛga anveṣaṇe*), which denotes movement, it gives the sense "always moving about." भीमः (*bhīmaḥ*)—*bhītijanakaḥ*: the terrifying one. *mṛgavadayamapi mṛgo 'nveṣā śatroṇāṃ bhīmo bhayānakaḥ sarveṣāṃ bhītyapādānabhūtaḥ*. Just as a beast of the forest is a cause of fear to other creatures and goes about searching for the animals that are its enemies, so Viṣṇu too seeks out his enemies and is a cause of fear to them. Not only enemies fear him: all the worlds fear him and keep to their own ordinances.
+
+भीषास्माद्वातः पवते । भीषोदेति सूर्यः । भीषास्मावग्निश्चेंद्रश्च । मृत्युर्धावति पंचम इति ॥ (*bhīṣāsmādvātaḥ pavate | bhīṣodeti sūryaḥ | bhīṣāsmāvagniśceṃdraśca | mṛtyurdhāvati paṃcama iti ‖*) (Śrī. A. 8-8-1) **NOTE**. In such passages it is described that all the deities, the wind and the rest, fear this all-pervading Viṣṇu and perform their appointed duties. The same point is conveyed here.
+
+त्रिषु विक्रमणेषु (*triṣu vikramaṇeṣu*)—त्रिसंख्याकेषु पादप्रक्षेपेषु (*trisaṃkhyākeṣu pādaprakṣepeṣu*): in the three kinds of steps (विश्वा भुवनानि अधिक्षियंति (*viśvā bhuvanāni adhikṣiyaṃti*)). What are these three steps, and where? There is disagreement on these matters. Western scholars have explained them as the three states of the sun: rising, standing at the zenith, and setting.
+
+##### Printed English
+
+This stepping of Vishnu is emblamatic of the rising, the culminating and setting of the sun.
+[Max Muller. Sacred Books of the East. Vol. XXXI]. p. 133]
+
+It is known from a Nirukta passage that ancient scholars such as Aurṇavābha also supported this meaning. समारोहणे विष्णुपदे गयशिरसीत्यार्णवाभः (*samārohaṇe viṣṇupade gayaśirasītyārṇavābhaḥ*) (Ni. 12-19): thus the view of Aurṇavābha is stated. On this passage Durgācārya [explains]: समारोहणे—उदय गिरावुद्यन् पदमेकं निधत्ते । विष्णुपदे माध्यंदिनेंतरिक्षे । गयशिरसि—अस्तंगिरा । (*samārohaṇe—udaya girāvudyan padamekaṃ nidhatte | viṣṇupade mādhyaṃdineṃtarikṣe | gayaśirasi—astaṃgirā |*). The one foot to be placed in the form of the rising on the mountain of sunrise at sunrise, the second foot to be placed at the zenith in the atmosphere at midday, and the third foot to be placed on the mountain of sunset at sunset—these too are indicated by the sentence त्रेधा निदधे पदं (*tredhā nidadhe padaṃ*): such is the view of Aurṇavābha, as the Nirukta-author reports. Furthermore:
+
+विष्णु स्त्रिधा निधत्ते पदं त्रेधाभावायु पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । (*viṣṇu stridhā nidhatte padaṃ tredhābhāvāyu pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*) (Ni. 12-19). It is also stated that, in Śākapūṇi's view, this threefold placing of the foot indicates the three states of the sun, who moves in the three worlds: earth, atmosphere and heaven.
+
+### Printed p. 576
+
+On this Durgācārya [says]: पार्थिवोऽग्निर्भूत्वा पृथिव्यां यत्किंचिदस्ति तद्विक्रमते । अंतरिक्षे विद्युदात्मना, दिवि सूरात्मना । (*pārthivo 'gnirbhūtvā pṛthivyāṃ yatkiṃcidasti tadvikramate | aṃtarikṣe vidyudātmanā, divi sūrātmanā |*). He explains that in the forms of Agni, Vāyu and Sūrya Viṣṇu pervades the three worlds. Supporting this same meaning:
+
+विष्णुमुखा वै देवाश्चंदोभि रिमांल्लोकाननपजय्यमभ्यजयन् यद्विष्णुक्रमान्नमते विष्णुरेव भूत्वा यजमानश्चंदोभिरिमांल्लोकाननपजय्यमभिजयति विष्णोः क्रमोस्यभिमातिहेत्याह गायत्री वै पृथिवी त्रैष्टुभमंतरिक्षं जागती द्यौरानुष्टुभीर्दिशश्चंदोभिरेवेमांल्लोकान् यथापूर्वमभि जयति । (*viṣṇumukhā vai devāścaṃdobhi rimāṃllokānanapajayyamabhyajayan yadviṣṇukramānnamate viṣṇureva bhūtvā yajamānaścaṃdobhirimāṃllokānanapajayyamabhijayati viṣṇoḥ kramosyabhimātihetyāha gāyatrī vai pṛthivī traiṣṭubhamaṃtarikṣaṃ jāgatī dyaurānuṣṭubhīrdiśaścaṃdobhirevemāṃllokān yathāpūrvamabhi jayati |*) (Tai. Saṃ. 1-7-5-4)
+
+अन्या देवतासीथ्योब्रवीद्विष्णवेहीदमा हरिष्यावो येनायमिदमिति स विष्णुस्रेधात्मानं वि न्यधत्त पृथिव्यां तृतीयमंतरिक्षे तृतीयं दिवि तृतीय मभिपर्यावर्ताद्भ्यबिभेद्यत्पृथिव्यां तृतीयमासीत्तेनेंद्रो वज्रमुदयच्छद्विष्णवनुस्थितस्सोऽब्रवीन्मा मे प्र हारस्ति वा इदं ॥ (*anyā devatāsīthyobravīdviṣṇavehīdamā hariṣyāvo yenāyamidamiti sa viṣṇusredhātmānaṃ vi nyadhatta pṛthivyāṃ tṛtīyamaṃtarikṣe tṛtīyaṃ divi tṛtīya mabhiparyāvartādbhyabibhedyatpṛthivyāṃ tṛtīyamāsītteneṃdro vajramudayacchadviṣṇavanusthitasso 'bravīnmā me pra hārasti vā idaṃ ‖*) (Tai. Saṃ. 2-4-12-3)
+
+In these Saṃhitā passages, and in
+
+यद्वेव विष्णुक्रमान्मते । यज्ञोवै विष्णुः स देवेभ्य इमां विक्रांतिं विचक्रमे यैषामियं विक्रांतिरिदमेव प्रथमेन पदेन पस्पाराथेदमंतरिक्षं द्वितीयेन दिवमुत्तमेन्नैताम्वेवैष एतस्मै विष्णुर्यज्ञं विक्रांतिं विक्रमते तस्माद्विष्णुक्रमान्मते । (*yadveva viṣṇukramānmate | yajñovai viṣṇuḥ sa devebhya imāṃ vikrāṃtiṃ vicakrame yaiṣāmiyaṃ vikrāṃtiridameva prathamena padena paspārāthedamaṃtarikṣaṃ dvitīyena divamuttamennaitāmvevaiṣa etasmai viṣṇuryajñaṃ vikrāṃtiṃ vikramate tasmādviṣṇukramānmate |*) (Śa. Brā. 1-9-3-9)
+
+यद्वेव विष्णु क्रमवात्सप्रे भवतः । विष्णु क्रमैर्वै प्रजापतिरिमं लोकमसृजत वात्सप्रेणाग्निं विष्णु क्रमैर्वै प्रजापतिरंतरिक्षमसृजत वात्सप्रेण वायुं विष्णु क्रमैर्वै प्रजापतिर्दिवमसृजत वात्सप्रेणादित्यं । (*yadveva viṣṇu kramavātsapre bhavataḥ | viṣṇu kramairvai prajāpatirimaṃ lokamasṛjata vātsapreṇāgniṃ viṣṇu kramairvai prajāpatiraṃtarikṣamasṛjata vātsapreṇa vāyuṃ viṣṇu kramairvai prajāpatirdivamasṛjata vātsapreṇādityaṃ |*) (Pa. Brā. 6-7-4-2) **NOTE**
+
+and in such Brāhmaṇa passages too, in accordance with Śākapūṇi's view, a connection is shown between Viṣṇu's three feet, the earth, atmosphere and heaven, and the deities Agni, Vāyu and Sūrya. And further:
+
+आ यो विवाय सचथाय दैव्य इंद्राय विष्णुः सुकृते सुकृत्तरः । वेधा अजिन्वत्रिषधस्थ आर्यमृतस्य भागे यजमानमाभजत् ॥ (*ā yo vivāya sacathāya daivya iṃdrāya viṣṇuḥ sukṛte sukṛttaraḥ | vedhā ajinvatriṣadhastha āryamṛtasya bhāge yajamānamābhajat ‖*) (Ṛ. Saṃ. 1-156-5)
+
+### Printed p. 577
+
+In this Ṛk it is said that Viṣṇu himself pervades the three worlds, earth and the rest. As stated in the mantra Śatapatha Brāhmaṇa 6-3-4-7, quoted above, the fact that Viṣṇu's three feet are the cause of the creation and the maintenance of the worlds, earth and the rest, is conveyed in the present Ṛk by अधिक्षियंति भुवनानि विश्वा (*adhikṣiyaṃti bhuvanāni viśvā*): all the worlds rest on the support that takes the form of Viṣṇu's three steps. Thus the greatness of Viṣṇu's steps is praised.
+
+##### Grammar
+
+- स्तवते — ष्टुञ् स्तुत् धातुः । कर्मणि लट् प्रथमपुरुषैकवचने त प्रत्ययः । टेरेत्वम् । व्यत्ययो बहुलम् इति युकः स्थाने शप् विकरणं भवति । सार्वधातुकार्थधातुकयोः इति इको गुणः । अवादेशः । तिजंतनिघातस्वरो भवति ।
+- भीमः — भीमादयो अपादाने (पा. सू. ३-४-७४) इति औणादिकेन मर् प्रत्ययेन सिद्ध्यति ।
+- कुचरः — कुत्सितं चरतीति कुचरः । चर गतिभक्षणयोः । पचादिषु पठितत्वाद् अच् प्रत्ययः । चित्त्वाद् अंतोदात्तस्वरो भवति । कुषु चरतीति वा कुचरः ।
+- गिरिष्ठाः — ष्ठा गतिनिवृत्तौ धातुः । क्विप् च इति क्विप् प्रत्ययः । गिरा तिष्ठतीति गिरिष्ठाः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- विक्रमणेषु — क्रमु पादविक्षेपे धातुः । भावे ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू ७-१-१) इति तस्य अनादेशः । अट् कुप्वाङ् इति सूत्रेण प्रत्ययनकारस्य णत्वम् । लिति (पा. सू ६-१-१९३) इति प्रत्ययस्य पूर्वस्योदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- अधिक्षियंति — क्षि निवासगत्योः धातुः तुदादिः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । विकरणस्वरः अवशिष्यते । उदात्तवति तिजंते परे तिजिचोदात्तवति (पा. सू ८-१-७१) इति गतेः (अधि) निघातस्वरो भवति ।
+- विश्वा — नपुंसके शि आदेशे जाते रूपे शेश्चंदसि बहुलं (पा. सू ६-१-७०) इति शेर्लोपः ।
+
+### Printed p. 578
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र विष्ण॑वे शू॒षमे॑तु॒ मन्म॑ गिरि॒क्षित॑ उरुगा॒याय॒ वृष्णे॑ ।  
+> य इ॒दं दी॒र्घं प्रय॑तं स॒धस्थ॒मेको॑ विम॒मे त्रि॒भिरित्प॒देभिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । विष्णवे । शूषं । एतु । मन्म । गिरिक्षिते । उरुगायाय । वृष्णे ।  
+> यः । इदं । दीर्घं । प्रयतं । सधस्थं । एकः । विममे । त्रिभिः । इत् । पदेभिः ।  
+> ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णवे सर्वव्यापकाय शूषमस्मत्कृत्यादिजन्यं बलं महत्त्वं मन्म मननं
+> स्तोत्रं मननीयं शूषं बलं वा विष्णुमेतु । प्राप्नोतु ॥ कर्मणः संप्रदानत्वाच्चतुर्थी । कीदृशाय । गिरिक्षिते वाचि गिरिवदुन्नतप्रदेशे वा तिष्ठते उरुगायाय
+> बहुभिर्गियमानाय वृष्णे वर्षित्रे कामानां । एवं महानुभावं शूषं
+> प्राप्नोतु । कोऽस्य विशेष इति उच्यते। यो विष्णुरिदं प्रसिद्धं दृश्यमानं दीर्घमतिविस्तृतं प्रयतं नियतं सधस्थं सहस्थानं लोकत्रयमेक इदेक एवाद्वितीयः
+> सन् त्रिभिः पदेभिः पादैर्विममे विशेषेण निर्मितवान् ॥
+
+##### Gist of the bhāṣya
+
+To Viṣṇu, the all-pervading, may the strength (शूषं (*śūṣaṃ*))—the power, the greatness, produced by our rites and the like—and the मन्म (*manma*), a thought-worthy hymn (or: a thought-worthy शूषं (*śūṣaṃ*), strength), go; may it reach Viṣṇu. The dative is used because the action has him as recipient. Of what kind is he? गिरिक्षिते (*girikṣite*): he who abides in speech, or in a lofty place like a mountain; उरुगायाय (*urugāyāya*): sung by many; वृष्णे (*vṛṣṇe*): the showerer of desires. May such strength of great power reach him. What is his special feature? It is said: Viṣṇu, who alone, being without a second, with three steps measured out specially this well-known, visible, very extensive, regulated common dwelling (सधस्थं (*sadhasthaṃ*)), the three worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Viṣṇu
+- इदं (*idaṃ*)—this well-known, perceptible
+- दीर्घं (*dīrghaṃ*)—very extensive
+- प्रयतं (*prayataṃ*)—lasting for a long time
+- सधस्थं (*sadhasthaṃ*)—existing together: the three worlds
+- एक इत् (*eka it*)—alone (without anyone's help)
+- त्रिभिः पदेभिः (*tribhiḥ padebhiḥ*)—with three feet
+- विममे (*vimame*)—made; such a one
+- गिरिक्षिते (*girikṣite*)—who abides in the speech that takes the form of praise, or who abides in a lofty place like a mountain
+- उरुगायाय (*urugāyāya*)—who is praised by many
+- वृष्णे (*vṛṣṇe*)—who showers (desired things)
+- विष्णवे (*viṣṇave*)—to Viṣṇu
+- शूषं (*śūṣaṃ*)—great strength
+- मन्म (*manma*)—a thought-worthy hymn
+- एतु (*etu*)—may it approach and reach (may it be offered to Viṣṇu)
+
+### Printed p. 579
+
+##### भावार्थ (Bhāvārtha)
+
+May great strength and a thought-worthy hymn be offered to that Viṣṇu who, without anyone's help, alone and without a second, with his three feet made the three worlds—this well-known, perceptible, very extensive, long-lasting, together-existing [dwelling].
+
+##### Printed English
+
+May acceptable vigour attend Vishnu, who abides in prayer, the hymned of many, the showerer (of benefits), who alone made, by three steps this spacious and durable aggregate (of the three worlds).
+
+##### विशेषविषयगळु (Special Topics)
+
+शूषं (*śūṣaṃ*)—अस्मत्कृत्यादिजन्यं बलं महत्त्वं (*asmatkṛtyādijanyaṃ balaṃ mahattvaṃ*): the meaning is strength produced by the sacrificial rites and the like of us (the sacrificers). The word शूष (*śūṣa*) is read among the names of strength such as ओजः (*ojaḥ*), पाजः (*pājaḥ*) (Ni. 3-9), and among the names of happiness such as शिंबाता (*śiṃbātā*), शतरा (*śatarā*) (Ni. 3-13). In the Ṛk-Saṃhitā the word is used in both senses.
+
+सुतेसुते न्यूकसे बृहद्बृहत एवरिः । इंद्राय शोषमर्चति ॥ (*sutesute nyūkase bṛhadbṛhata evariḥ | iṃdrāya śoṣamarcati ‖*) (Ṛ. Saṃ. 1-9-10)
+
+In this Ṛk, with इंद्रस्य बलं पराक्रमं स्तौति (*iṃdrasya balaṃ parākramaṃ stauti*)—"he praises Indra's strength, his prowess"—the word शूष (*śūṣa*) is explained as strength; and
+
+प्र मन्महे शवसानाय शूषमांगूषं गिर्वणसे अंगिरस्वत् । सुवृक्तिभिः स्तुवत ऋग्मियायार्चामार्कं नरे विश्रुताय ॥ (*pra manmahe śavasānāya śūṣamāṃgūṣaṃ girvaṇase aṃgirasvat | suvṛktibhiḥ stuvata ṛgmiyāyārcāmārkaṃ nare viśrutāya ‖*) (Ṛ. Saṃ. 1-62-1)
+
+here with शूषं अंगूषं (*śūṣaṃ aṃgūṣaṃ*)—"a hymn that is a cause of happiness"—the word शूष (*śūṣa*) is explained as happiness. In the present Ṛk it is explained as strength.
+
+मन्म (*manma*)—मननीयं (*mananīyaṃ*): that which is of the nature of meditation. मननीयं स्तोत्रं मननीयं शूषं वा (*mananīyaṃ stotraṃ mananīyaṃ śūṣaṃ vā*): it may be a qualifier either of the hymn or of शूष (*śūṣa*).
+
+प्रयतं (*prayataṃ*)—When the prefix प्र (*pra*) joins the root यम् (*yam*), the meanings are विस्त्रतं, दत्तं, नियतं (*vistrataṃ, dattaṃ, niyataṃ*): extended, given, and regulated. In the present Ṛk it is explained as नियतं (*niyataṃ*). Since it is a qualifier of the word सधस्थं (*sadhasthaṃ*),
+
+### Printed p. 580
+
+it shows the aggregate of the three worlds that exist in a regulated, collective form and are a common dwelling.
+
+गिरीक्षिते (*girīkṣite*)—वाचि गिरिवदुन्नतदेशे ना तिष्ठते (*vāci girivadunnatadeśe nā tiṣṭhate*): either "established in the speech that takes the form of mantra," or "dwelling in a place lofty like a mountain"; thus it is a qualifier of the word विष्णवे (*viṣṇave*).
+
+एक इत् त्रिभिः पदेभिः विममे (*eka it tribhiḥ padebhiḥ vimame*)—"Without a second" means: without the help of others, he alone created all the worlds with his three feet; such is the purport. विममे (*vimame*)—विशेषेण निर्ममे (*viśeṣeṇa nirmame*): he made in an excellent manner.
+
+##### Grammar
+
+- एतु — इण् गतौ धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- विष्णवे — कर्मणः संप्रदानत्वात् संप्रदाने चतुर्थी इति चतुर्थी आगता ।
+- मन्म — मन ज्ञाने । सर्वधातुभ्य मन् इति मन् प्रत्ययः । नित्त्वाद् आद्युदात्तस्वरो भवति ।
+- गिरिक्षिते — क्षि निवासगत्योः धातुः । क्विप् च इति क्विप् प्रत्ययः । ह्रस्वस्य पितिकृति तुक् (पा. सू. ६-१-७१) इति तुगागमः । प्रथमव्याख्याने तत्पुरुषेकृति बहुलं इति सप्तम्या अलुक् । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- वृष्णे — वृषु सेचने धातुः । कनिन्‌युवृषि- (उ. सू. १-१५४) इति कनिन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति । चतुर्थ्येकवचने अल्लोपोनः इति अनोऽकारस्य लोपः । **NOTE**
+- प्रयतम् — यम उपरमे धातुः । क्त प्रत्ययः । अनुदात्तोपदेशवनति- (पा. सू. ६-४-३७) इत्यनुनासिकमकारस्य लोपः । गतिरनंतरः- (पा. सू. ६-२-४९) इति गतेः (प्र) प्रकृतिस्वरो भवति ।
+- विममे, सधस्थम् — अस्यैव सूक्तस्य प्रथममंत्रे व्याख्यातम् ।
+- पदेभिः — बहुलं छंदसि इति भिस ऐस्भावस्य विकल्पत्वाद् अत्र न भवति । बहुवचने झल्येत् इति एत्वम् ।
+
 ---
 
-**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
+**Progress note:** Done through printed p. 580. pp. 575-580 (batch API)
