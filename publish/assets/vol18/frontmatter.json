@@ -1,0 +1,13 @@
+{
+ "pages": [
+  {
+   "role": "cover",
+   "file": "fm_01.jpg"
+  },
+  {
+   "role": "title",
+   "file": "fm_02.jpg"
+  }
+ ],
+ "note": "taken from the pictures embedded in the supplied md (vol18/html/figures/fig1_line00004.jpg, fig1_line00022.jpg)"
+}

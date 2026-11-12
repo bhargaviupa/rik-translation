@@ -51,6 +51,7 @@ def parse(lines, start_word, end_word, fixes=None):
         raw = lines[i].strip()
         if not raw or raw == '---' or ROMAN.match(raw) or 'This image contains' in raw or raw.startswith('[figure') or raw == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^##\s*', '', raw)
+        if txt == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^ಪುಟಸಂಖ್ಯೆ\s+', '', txt)          # the column head 'page number' repeated at the top of a printed page of the contents (Vol 18)
         if txt in ('॥ ಶ್ರೀಃ ॥',) or txt.startswith('ಋಗ್ವೇದಸಂಹಿತೆಯ') or txt.replace(' ', '') == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ': continue
         m = re.match(rf'^([{KDIG}]+)[\.\s]+(.*ಸೂಕ್ತ.*)$', txt)

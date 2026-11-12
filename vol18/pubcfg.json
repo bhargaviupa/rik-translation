@@ -9,5 +9,21 @@
  "kannada_md": "vol18/Rigveda_Samhita_Vol18_Kannada_Text.md",
  "supplied_md": "vol18/html/rig_18.md",
  "out": "vol18_full",
- "press": "Śrī Śāradā Press, Mysore"
+ "press": "Śrī Śāradā Press, Mysore",
+ "assets": "publish/assets/vol18",
+ "front": {
+  "cover": "cover",
+  "title": "title"
+ },
+ "front_en": "vol18/frontmatter_en.json",
+ "contents_en": "vol18/contents_en.json",
+ "contents": {
+  "fixes": "vol18/contents_fixes.json",
+  "start": "ವಿಷಯಾಸುಕ್ರಮಣಿಕೆ",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "ಋಗ್ವೇದಸಂಹಿತೆಯ ಹದಿನೆಂಟನೆಯ ಭಾಗದ",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
 }

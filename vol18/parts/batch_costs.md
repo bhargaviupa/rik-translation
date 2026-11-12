@@ -135,3 +135,4 @@
 | w0833 pp. 833-838 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 13250 + cache write 0 + cache read 5183, out 4647 | $0.037 |
 | w0839 pp. 839-844 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 15286 + cache write 0 + cache read 5183, out 15407 | $0.093 |
 | w0845 pp. 845-851 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16008 + cache write 0 + cache read 5183, out 8224 | $0.058 |
+| front matter (board, abbreviations, contents) | claude-sonnet-5-5 direct | 3 requests | | $0.376 |

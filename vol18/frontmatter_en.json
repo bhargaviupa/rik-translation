@@ -1,0 +1,199 @@
+{
+ "board": {
+  "title_lines": [
+   "The Board of Vedic Scholars",
+   "(Veda-vimarśana-vidvan-maṇḍali)",
+   "constituted for the work of publishing the Veda"
+  ],
+  "editor_label": "Translator & Editor:",
+  "editor": "Asthāna Mahāvidvān H. P. Venkata Rao",
+  "list_title": "Assisting Board of Scholars",
+  "members": [
+   "Brahmaśrī G. N. Chakravarti, M.A., Professor of Sanskrit, St. Philomina's College, Mysore.",
+   "Brahmaśrī G. Viṣṇumūrti Bhaṭṭaru, Scholar of Sāhitya and Vyākaraṇa, Śrīman Mahārāja's Sanskrit Mahāpāṭhaśālā, Mysore.",
+   "Āsthāna Vidvān Brahmaśrī H. Gaṅgādhara Śāstri, Scholar of Jyotiṣa and Kannada language pandit.",
+   "Brahmaśrī Śrīnivāsa Śāstri, Ṛgveda Ghanapāṭhi.",
+   "Brahmaśrī Hiṭṭavaḷḷi Biḷigiri Raṅga Joisaru, Scholar of Śrauta.",
+   "Brahmaśrī Hiṭṭavaḷḷi Devarabhaṭṭa, Pandit of Mīmāṃsā-darśana.",
+   "Brahmaśrī Venkataramaṇācār, M.A., B.T., Scholar of Sāhitya.",
+   "Brahmaśrī S. Raṅganāthan, Scholar of Sāhitya, Palace Sarasvatī Bhaṇḍāra.",
+   "Brahmaśrī Puttūru Anantakṛṣṇa Mācār, Scholar of Sāhitya, Govt. Oriental Research Institute, Mysore.",
+   "Brahmaśrī S. Sītārāma Śāstri, Retired Pandit, Govt. Oriental Research Institute, Mysore."
+  ]
+ },
+ "abbreviations": {
+  "title": "Explanation of the abbreviations",
+  "intro": "The printed abbreviation, the form used in this translation, and the work.",
+  "rows": [
+   [
+    "ಅಥ, ಸಂ.",
+    "Ath. Saṃ.",
+    "Atharvaveda-saṃhitā"
+   ],
+   [
+    "ಆಪ. ಸೂ.",
+    "Āp. Sū.",
+    "Āpastamba Śrauta-sūtra"
+   ],
+   [
+    "ಆಪ. ಧ. ಸೂ",
+    "Āp. Dha. Sū.",
+    "Āpastamba Dharma-sūtra"
+   ],
+   [
+    "ಆಪ. ಪ. ಸೂ.",
+    "Āp. Pa. Sū.",
+    "Āpastamba Paribhāṣā-sūtra"
+   ],
+   [
+    "ಆ. ಸೂ. ಅಥವಾ ಆ.",
+    "Ā. Sū. or Ā.",
+    "Āśvalāyana Śrauta-sūtra"
+   ],
+   [
+    "ಉ. ಸೂ.",
+    "U. Sū.",
+    "Uṇādi-sūtra"
+   ],
+   [
+    "ಋ. ಸಂ.",
+    "Ṛ. Saṃ.",
+    "Ṛgveda-saṃhitā"
+   ],
+   [
+    "ಐ. ಆ.",
+    "Ai. Ā.",
+    "Aitareya Āraṇyaka"
+   ],
+   [
+    "ಐ. ಉ.",
+    "Ai. U.",
+    "Aitareya Upaniṣad"
+   ],
+   [
+    "ಐ. ಬ್ರಾ.",
+    "Ai. Brā.",
+    "Aitareya Brāhmaṇa"
+   ],
+   [
+    "ಛಾ. ಉ.",
+    "Chā. U.",
+    "Chāndogya Upaniṣad"
+   ],
+   [
+    "ಜೈ. ಸೂ.",
+    "Jai. Sū.",
+    "Jaiminīya Pūrva-mīmāṃsā-sūtra"
+   ],
+   [
+    "ಜೈ. ನ್ಯಾ. ವಿ.",
+    "Jai. Nyā. Vi.",
+    "Jaiminīya Nyāyamālā-vistara"
+   ],
+   [
+    "ತಾ. ಬ್ರಾ.",
+    "Tā. Brā.",
+    "Tāṇḍya-mahā-brāhmaṇa"
+   ],
+   [
+    "ತೈ. ಆ.",
+    "Tai. Ā.",
+    "Taittirīya Āraṇyaka"
+   ],
+   [
+    "ತೈ. ಬ್ರಾ.",
+    "Tai. Brā.",
+    "Taittirīya Brāhmaṇa"
+   ],
+   [
+    "ತೈ. ಸಂ.",
+    "Tai. Saṃ.",
+    "Taittirīya Saṃhitā"
+   ],
+   [
+    "ನಿ.",
+    "Ni.",
+    "Nirukta, Nighaṇṭu"
+   ],
+   [
+    "ಪಾ. ಸೂ.",
+    "Pā. Sū.",
+    "Pāṇinīya Sūtra"
+   ],
+   [
+    "ಪಾ. ಶಿ.",
+    "Pā. Śi.",
+    "Pāṇinīya Śikṣā"
+   ],
+   [
+    "ಫಿ. ಅಥವಾ ಫಿ. ಸೂ.",
+    "Phi. or Phi. Sū.",
+    "Phiṭ-sūtra"
+   ],
+   [
+    "ಬ್ರ. ಸೂ.",
+    "Bra. Sū.",
+    "Brahma-sūtra"
+   ],
+   [
+    "ಮ. ಭಾ.",
+    "Ma. Bhā.",
+    "Mahābhārata"
+   ],
+   [
+    "ಮ. ಸ್ಮೃ.",
+    "Ma. Smṛ.",
+    "Manu-smṛti"
+   ],
+   [
+    "ಮೈ. ಸಂ.",
+    "Mai. Saṃ.",
+    "Maitrāyaṇīya-saṃhitā"
+   ],
+   [
+    "ಯಾ. ಸ್ಮೃ.",
+    "Yā. Smṛ.",
+    "Yājñavalkya-smṛti"
+   ],
+   [
+    "ವಾ. ಸಂ.",
+    "Vā. Saṃ.",
+    "Vājasaneya-saṃhitā"
+   ],
+   [
+    "ವಾ. ಪು.",
+    "Vā. Pu.",
+    "Vāyu Purāṇa"
+   ],
+   [
+    "ವಿ. ಪು.",
+    "Vi. Pu.",
+    "Viṣṇu Purāṇa"
+   ],
+   [
+    "ವೇ. ಸೂ.",
+    "Ve. Sū.",
+    "Vedānta-sūtra"
+   ],
+   [
+    "ಶ. ಬ್ರಾ.",
+    "Śa. Brā.",
+    "Śatapatha Brāhmaṇa"
+   ],
+   [
+    "ಸಾ. ಸಂ.",
+    "Sā. Saṃ.",
+    "Sāmaveda-saṃhitā, etc."
+   ]
+  ],
+  "note": "The printed list gives ಋ. ಸಂ. as 'ಋಗ್ವದ ಸಂಹಿತಾ'. The first column is the abbreviation as printed (machine-read); the second the form used in this translation."
+ },
+ "contents": {
+  "heading": [
+   "॥ Śrīḥ ॥",
+   "Contents of the Eighteenth Volume of the Ṛgveda-saṃhitā"
+  ],
+  "page_note": "Page numbers are the pages of this book."
+ },
+ "_doc": "English front matter of the volume (api_frontmatter.py; a draft for the editor). Strings may contain {{fn: text}} = a footnote. Read by publish/volbook.py (English PDF)."
+}

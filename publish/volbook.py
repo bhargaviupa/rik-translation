@@ -91,7 +91,7 @@ def contents_html(cfg):
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
-    blocks = contents_parse.parse(lines, 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ', 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
+    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
     for b in blocks:
         if b['t'] == 'item' and isinstance(f.get(str(b['src'])), int): b['page'] = f[str(b['src'])]
     h = c['heading']
@@ -169,7 +169,7 @@ def contents_en_html(cfg, fe, suk_ids):
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
-    blocks = contents_parse.parse(lines, 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ', 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
+    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
     ov = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}
     h = fe['contents']['heading']
     def conv(t):
@@ -315,7 +315,8 @@ def front(cfg, lang, fmi, toc_blocks):
     if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
-        parts.append(board_en(fe)); parts.append(preface_en(fe))
+        parts.append(board_en(fe))
+        if fe.get('preface'): parts.append(preface_en(fe))        # a volume whose preface stands in the English file (Vols 17+) has none here
     elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
         for i, role in enumerate(r.get('preface', [])):
