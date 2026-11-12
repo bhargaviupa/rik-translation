@@ -172,6 +172,8 @@ def cmd_prep(a,quiet=False,after=None):
     specs=[os.path.join(ROOT,x.split('@')[0])+('@'+x.split('@')[1] if '@' in x else '') for x in cfg.source]
     kn,sec=html_to_kn.kn_pages(specs,[p for p,_ in pages],None,mandalas(cfg))        # section/verse at the window start: found by the script itself (no state file)
     notes=list(html_to_kn.LOG); extra=list(html_to_kn.EXTRA)
+    for pn,txt in (cfg.d.get('page_notes') or {}).items():                            # volcfg.json "page_notes": {"212": "…"} = a known doubt about a page, shown in every window that has it
+        if int(pn) in [p for p,_ in pages]: notes.append(f'printed p. {pn}: {txt}')
     pages=sorted(set(pages)|{(p,None) for p in extra},key=lambda x:x[0])
     wr(os.path.join(w,'kn.md'),kn); wr(os.path.join(w,'section_end.txt'),sec or ''); wr(os.path.join(w,'section_start.txt'),html_to_kn.START[0] or '')
     rows=numerals.load(cfg) if cfg.numeral_files() else []; info=[]; nrows=[]
