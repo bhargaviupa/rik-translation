@@ -2374,6 +2374,177 @@ On the sixth day of the sacrifice called Daśarātra, at the time of reciting th
 
 According to the view of the Nairuktas, the three deities Agni, Vāyu or Indra, and Sūrya are the presiding deities of the three worlds, earth, atmosphere and the world of Dyu. These very deities have many kinds of names, whether in keeping with their greatness or because of the diversity of their actions. Having said this, he continues: अथातोऽनुक्रमिष्याम अग्निः पृथिवीस्थानः तं प्रथमं व्याख्यास्यामः (*athāto 'nukramiṣyāma agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vyākhyāsyāmaḥ*).
 
+### Printed p. 96
+The Nirukta thus states the nature of the earth-dwelling deities from Ni. 7-14 to section 9-43. It states the nature of the deities of the middle region, the atmosphere, from 10-1 to section 11-50, beginning अथातो मध्यस्थाना देवताः । शासां वायुः प्रथमागामी भवति । (*athāto madhyasthānā devatāḥ | śāsāṃ vāyuḥ prathamāgāmī bhavati |*). It states the nature of the deities dwelling in the heaven-world from 12-1 to the end of the chapter, beginning अथातो द्युस्थाना देवताः (*athāto dyusthānā devatāḥ*). Although opinions differ on how many deities there are, divided in this way, one and the same view is seen in many places of the Ṛk-Saṃhitā.
+
+अ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना । प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥ (*a nāsatyā tribhirekādaśairiha devebhiryātaṃ madhupeyamaśvinā | prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*) (Ṛ. Saṃ. 1-34-11). In this the Aśvin deities are invited: "Come here, desiring the mead-drinking, together with the (11+3) thirty-three deities."
+
+श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः । तान्रोहिदश्च गिर्वणस्त्रयस्त्रिंशतमा वह ॥ (*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ | tānrohidaśca girvaṇastrayastriṃśatamā vaha ‖*) (Ṛ. Saṃ. 1-45-2). Here Agni is entreated, in the same way as in the present Ṛk, to bring the thirty-three deities. Likewise:
+
+ऐभिरग्ने सरथं याह्यर्वाज् नानारथं वा विभवो ह्यश्वाः । पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्वधमा वह मादयस्व । (*aibhiragne sarathaṃ yāhyarvāj nānārathaṃ vā vibhavo hyaśvāḥ | patnīvatastriṃśataṃ trīṃśca devānanuṣvadhamā vaha mādayasva |*) (Ṛ. Saṃ. 3-6-9).
+
+इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देना यज्ञियासः । (*iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordenā yajñiyāsaḥ |*)
+
+विश्वैर्देवैस्त्रिभिरेकावशैरिहाद्भिर्मरुध्भिर्भृगुभिः सचाभुवा (*viśvairdevaistribhirekāvaśairihādbhirmarudhbhirbhṛgubhiḥ sacābhuvā*) (Ṛ. Saṃ. 8-35-3) **NOTE**
+
+तव तै सोम पवमान निण्ये विश्वे देवास्त्रय एकादशासः । दश स्वधाभिरधि सानो अव्ये मृजंति त्वा नद्यः सप्त यह्वीः । (*tava tai soma pavamāna niṇye viśve devāstraya ekādaśāsaḥ | daśa svadhābhiradhi sāno avye mṛjaṃti tvā nadyaḥ sapta yahvīḥ |*) (Ṛ. Saṃ. 9-2-4).
+
+In Ṛks such as these too it is clear that the number of the deities is thirty-three. In the Śatapatha Brāhmaṇa also:
+
+अष्टौ वसवः । एकादशरुद्राः । द्वादशादित्या इमे एव द्यावापृथिवी त्रयस्त्रिं शद्वै देवाः प्रजापतिश्च तुस्त्रिंशः । (*aṣṭau vasavaḥ | ekādaśarudrāḥ | dvādaśādityā ime eva dyāvāpṛthivī trayastriṃ śadvai devāḥ prajāpatiśca tustriṃśaḥ |*) (Śa. Cā. 4-25-7-2) **NOTE**
+
+### Printed p. 97
+Eight Vasus, eleven Rudras, twelve Ādityas, and Heaven and Earth together make thirty-three deities; Prajāpati, apart from these, is the thirty-fourth. So it is said in one place. But in another place, though the same number thirty-three stands, Indra and Prajāpati are included in place of Heaven and Earth:
+
+ते त्रयस्त्रिंशदित्यष्ट वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति । (*te trayastriṃśadityaṣṭa vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadiṃdraścaiva prajāpatiśca trayastriṃśāviti |*) (Śa. Brā. 11-6-3-5).
+
+In the Aitareya Brāhmaṇa too:
+
+त्रयस्त्रिंशष्टै देवाः सोमपास्त्रयस्त्रिंशदसोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चते देवाः सोमपाः । (*trayastriṃśaṣṭai devāḥ somapāstrayastriṃśadasomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścate devāḥ somapāḥ |*) (I Citra. 9-18) **NOTE**
+
+The soma-drinkers are thirty-three deities: they are the eight Vasus, the eleven Rudras and the twelve Ādityas, and with them Prajāpati and Vaṣaṭkāra. Thus in the Saṃhitā and in the Brāhmaṇas there is one and the same view about this number. But:
+
+त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् । औक्षन् फृत्वरस्त्रणन्बर्हिरस्मा आदिद्दोतारं न्यसादयंत ॥ (*trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan | aukṣan phṛtvarastraṇanbarhirasmā ādiddotāraṃ nyasādayaṃta ‖*) (Ṛ. Saṃ. 3-9-9).
+
+In this Ṛk, and likewise in Ṛ. Saṃ. 10-52-6, it is said that three thousand three hundred and thirty-nine deities worshipped Agni. The same order is found in the Vājasaneyi Saṃhitā (33-7). Moreover:
+
+नमो महद्भो नमो अर्भकेभ्यो नमो युवभ्योनम आशिनेभ्यः । यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः । (*namo mahadbho namo arbhakebhyo namo yuvabhyonama āśinebhyaḥ | yajāma devānyadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ |*) (Ṛ. Saṃ. 1-27-13).
+
+When it says "salutation to deities of every kind, those of very great quality and those of lesser quality, the young and the old", one understands that there is diversity of nature among the deities. This very Ṛk is also recited in the Aitareya Brāhmaṇa (7-16), in the Śunaḥśepa story, in the context of the prayer to the Viśvedevas. But:
+
+नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहांत इत् । (*nahi vo astyarbhako devāso na kumārakaḥ | viśve satomahāṃta it |*) (Ṛ. Saṃ. 8-30-1).
+
+Here there is no distinction among the gods of great and small; there is praise that all the deities are great beings. The seer, in the present Ṛk, has prayed addressing all the deities of such greatness—
+
+### Printed p. 98
+
+##### Grammar
+
+- देवासः — देव शब्दात् जसि परे अज्जसेरसुक् (पा. सू ७-१-५०) इति असुकागमः । सकारस्य रुत्वविसर्गौ ।
+- दिवि — सप्तमी एकवचनांतरूपं । ऊडिदं पदादि (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः भवति ।
+- एकादश — एकं च दश च एकादश । प्राणेकादशभ्यः (पा सू. ५-३-४९) इति निपातकरणात् पूर्वपदस्य दीर्घः । संख्या (पा. सू. ६-२-३५) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- स्थ — अस भुवि धातुः । लट् मध्यमपुरुषबहुवचने थ प्रत्ययः । आदिप्रभृतिभ्यःशपः इति शपि लुक् । प्रत्ययस्य सार्वधातुकमपित् सूत्रेण जित्वातिवेशात् श्नसोरल्लोपः (पा. सू. ६-४-१११) इति धातोः अकारस्य लोपः । तिजंतनिघातस्वरः भवति ।
+- पृथिव्याम् — पृथिवीशब्दः जीषंतत्वात् अंतोदात्तः । सप्तम्यां तस्य यणादेशात् तत्परस्य विभक्तेः उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) इति उदात्तस्वरः भवति ।
+- अप्सुक्षितः — अप्सु क्षियंति इति अप्सु क्षितः । क्षि निवासगत्योः धातुः । क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । पित्तात् इदं परे ह्रस्वस्य पिति कृति तुक् (पा. सू. ६-१-७१) इति तुकागमः । तत्पुरुषे कृति बहुलम् (पा. सू. ६-३-१-) इति समासे अलुक् भवति । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरः भवति । **NOTE**
+- महिना — मह पूजायां धातुः । सर्वधातुभ्य इन् इति इन् प्रत्ययः । व्यत्ययेन विभक्तेः उदात्तस्वरः भवति । अथवा पृथ्वादौ महच्छब्दस्य पाठात् भावार्थे पृथ्वादिभ्यइमनिज्वा (पा. सू. ५-१-१२२) इति इमनिच् प्रत्ययः । टेः इति टि लोपः । तृतीया एकवचने अल्लोलप भवति । चितः इति तस्य उदात्तत्वात् उदात्तनिवृत्तिस्वरेण विभक्तेः उदात्तस्वरः भवति । **NOTE**
+- यज्ञम् — यज देवपूजासंगतिकरणदानेषु धातुः । यजयाचयत (पा. सू. ३-३-९०) इति नज् प्रत्ययः । श्चुत्वम् । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- जुषध्वम् — जुषी प्रीतिसेवनयोः धातुः । लोट् मध्यमपुरुषबहुवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरः भवति । ॥ ११ ॥
+
+Here the 12th sūkta ends. **NOTE**
+
+### Printed p. 99
+## Sūkta 140 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकविंशेऽनुवाके सप्तदश सूक्तानि । तत्र वेदिषद इति प्रथमं सूक्तं त्रयोदशर्चं । उचथ्यपुत्रस्य दीर्घतमस आर्षं । आग्नेयं । अंत्ये त्रिष्टुभौ । शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः । दशमी त्रिष्टुब्बगती वा । अत्यष्टिपरिभाषा निवृत्ता ।
+> अत्रानुक्रमणिका । वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबंतं
+> तु त्रिष्टुब्बशमी वेति ॥ प्रातरनुवाकस्याग्नेये क्रत् जागते छंदसीदवादीनि तृतीयवर्जितानि षट् सूक्तानि विनियुक्तानि । तथाश्विनशस्त्रे षण्णां तृतीयवर्जितानां
+> सूक्तानां विनियोगः । सूत्रितं च। वेदिषद इति षण्णां तृतीयमुद्धरेत्। आ. ४-१३।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+In the twenty-first anuvāka there are seventeen sūktas. Of these, the first is the sūkta वेदिषदे (*vediṣade*), of thirteen ṛks. Its seer is Dīrghatamas, son of Ucathya; its deity is Agni. The last two ṛks are triṣṭubh; the rest are jagatī by the rule that takes the verses up to the triṣṭubh ones as jagatī; the tenth is triṣṭubh or jagatī. The rule of atyaṣṭi has ceased. He cites the Anukramaṇikā on this. As to use: of the sūktas beginning from this one, six, omitting the third, are applied in the Prātaranuvāka at the Āgneya kratu for the jagatī verses; likewise in the Āśvina-śastra the sūktas other than the third are applied. This is stated in the sūtra वेदिषद इति षण्णां तृतीयमुद्धरेत् (*vediṣada iti ṣaṇṇāṃ tṛtīyamuddharet*) (Ā. Sū. 4-13).
+
+##### Anuvāda
+
+In the twenty-first anuvāka of the first maṇḍala there are seventeen sūktas. Among them this sūkta beginning वेदिषदे (*vediṣade*) is the first. In this sūkta there are thirteen ṛks. Its seer is Dīrghatamas, son of Ucathya; its deity is Agni. The last two ṛks are of triṣṭubh metre; the remaining ṛks are of jagatī metre. The tenth ṛk may be either triṣṭubh or jagatī. The metre called atyaṣṭi came to an end at the close of the previous sūkta. The Anukramaṇikā says: वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबंतं तु त्रिष्टुब्दशमी वेति (*vediṣade saptonā dīrghatamā aucathya āgneyaṃ tu dvitriṣṭubaṃtaṃ tu triṣṭubdaśamī veti*). At the time of reciting the Prātaranuvāka mantras, for the recitation of the jagatī ṛks connected with the Āgneya kratu, six sūktas from this sūkta (omitting the third) are applied; likewise for the Āśvinaśastra mantras the sūktas other than the third are applied; this is set forth in the Āśvalāyana Śrauta Sūtra by the sūtra वेदिषद इति षण्णां तृतीयमुद्धरेत् (*vediṣada iti ṣaṇṇāṃ tṛtīyamuddharet*) (Ā. Sū. 4-13).
+
+### Printed p. 100
+Sūkta 140. Maṇḍala 1; Anuvāka 21; Sūkta 140. Aṣṭaka 2; Adhyāya 2; Varga 5, 6, 7. Number of ṛks in the sūkta: 13. Seer: Dīrghatamas Aucathya. Deity: Agni. Metre: 1-9 and 11 jagatī; 10 triṣṭubh or jagatī; 12-13 triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वे॒दि॒षदे॑ प्रि॒यधा॑माय सु॒द्युते॑ धा॒सिमि॑व॒ प्र भ॑रा॒ योनि॑म॒ग्नये॑ ।  
+> वस्त्रे॑णेव वासया॒ मन्म॑ना॒ शुचिं॑ ज्यो॒तीर॑थं शु॒क्रव॑र्णं  ॒॑
+> तमोहनं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेदिऽसदे । प्रियधामाय । सुद्युते । धासिमिव । प्र । भर । योनिं । अग्नये ।  
+> वस्त्रेणव । वासय । मन्मना । शुचिं । ज्योतिःरथं । शुक्रवर्णं । तमःहनं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो वेदिषदे वेद्यां सीदते नित्यं प्रियधामाय प्रियधाम्ने
+> प्रियस्थानायोत्तरवेदिलक्षणप्रियाय सुद्युते शोभनद्योतनायाग्नेयेऽग्रनयनादिगुणविशिष्टाय योनिं स्थानं वेद्याख्यं धासिमिव हवीरूपमन्नमिन प्र भर ।
+> प्रहर । प्रकर्षेण संपादयेत्यर्थः । तच्च स्थानं वस्त्रेणेव तेन यथा मार्दनायास्तृणाति तद्वत् मन्मना मननीयेन संभारेण बर्हिषा वा वेदिस्थानं वासय ।
+> आच्छादय । कीदृशं तत्स्थानमिति तदुच्यते । शुचिमुत्सवनप्रोक्षणादिनामेध्यासुरादीनामपगतत्वाच्छुद्धं ज्योतीरथं ज्योतिष आज्यादेशर्नर्वा रथस्थानीयमा-
+
+##### Gist of the bhāṣya
+
+"O Adhvaryu, to Agni, वेदिषदे (*vediṣade*), who ever sits on the vedi; प्रियधामाय (*priyadhāmāya*), who is dear in his place, being fond of the uttaravedi; सुद्युते (*sudyute*), of beautiful radiance, who as Āgneya is distinguished by qualities such as being led forward first — bring forth the योनिं (*yoniṃ*), the place called vedi, like धासिमिव (*dhāsimiva*), food in the form of oblation; that is, procure it fully." That place, as one spreads a cloth for softness, he should cover (वासय (*vāsaya*)) with मन्मना (*manmanā*), a thing worth thinking of, that is, with equipment or with the sacred grass (barhis). What kind of place? शुचिं (*śuciṃ*): pure, because impure things such as asuras have been removed by utsavana, sprinkling and the like. ज्योतीरथं (*jyotīrathaṃ*): standing as a chariot of the light (of the ājya and so on?) **NOTE**
+
+### Printed p. 101
+
+> धारभूतत्वात् शुक्रवर्णं अग्न्युपेतत्वाद्दीप्तवर्णं अत एव तमोहनं तमसोऽंधकारस्य हंतारमज्ञानस्य वा । अग्निसाध्ययज्ञादिद्वारा ज्ञानविचारकत्वादिति भावः ।
+> यद्वा । तस्यां योन् स्थाने वस्त्रेण यथा गोपनीयं वस्तु गोपयंति तद्वत्तमग्निं वासय । निवासय । स्थापय । मन्मना मननीयेन हृद्येन वस्त्रसदृशेन
+> मृमकाष्ठादिनाच्छादय वा । कीवृशं । ज्योतीरथं दीप्तिरथोपेतं । शेषं
+> पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) ... being a support; शुक्रवर्णं (*śukravarṇaṃ*): of bright colour, through being joined with fire; for that very reason तमोहनं (*tamohanaṃ*): a destroyer of darkness, or of ignorance, because through sacrifice and the like accomplished by Agni it brings about the inquiry into knowledge. Or else: in that place, as people conceal a thing to be guarded with a cloth, make that Agni dwell (वासय (*vāsaya*) = cause to dwell, establish) with मन्मना (*manmanā*), that which is worth thought, pleasing, like a cloth; or cover it with clay, wood and the like. **NOTE** What kind of Agni? ज्योतीरथं (*jyotīrathaṃ*): possessed of a shining chariot. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेदिषदे (*vediṣade*)—(to the Adhvaryu) one seated on the altar
+- प्रियधामाय (*priyadhāmāya*)—one fond of the place (that is the uttaravedi)
+- सुद्युते (*sudyute*)—one who shines excellently
+- अग्नये (*agnaye*)—to the god Agni
+- शुचिं (*śuciṃ*)—that which is pure
+- ज्योतीरथं (*jyotīrathaṃ*)—that which carries the radiance like a chariot
+- शुक्रवर्णं (*śukravarṇaṃ*)—that which has a shining colour
+- तमोहनं (*tamohanaṃ*)—that which destroys darkness (or ignorance)
+- योनिं (*yoniṃ*)—the place in the form of the altar
+- धासिमिव (*dhāsimiva*)—like food (in the form of oblation)
+- प्र भर (*pra bhara*)—procure abundantly
+- वस्त्रेणेव (*vastreṇeva*)—as one covers with a cloth (spreads a cloth) for softness
+- मन्मना (*manmanā*)—with a favourable seat of darbha grass
+- वासय (*vāsaya*)—cover (adorn); or (as one covers with a cloth a thing to be kept private, cover that place with wood and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, for the god Agni, who sits on the altar and loves his own abode in the form of the uttaravedi, procure abundantly and offer the place of the vedi, which is pure, carries the radiance like a chariot, has a shining colour and destroys darkness, as one offers food in the form of oblation. And cover and adorn that place with a favourable seat of darbha grass, as one covers with a cloth for softness.
+
+##### Printed English
+
+Prepare a (fit) place, as it were an offering for the radiant Agni, who is seated on the altar, and fond of his station : strew the sacred, light-bearing, bright and gloom-dispelling (spot), with agreeable (kusa grass), as with a garment
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्नये योनिं प्र भर (*agnaye yoniṃ pra bhara*) and मन्मना वासय (*manmanā vāsaya*): there are two sentences — procure for Agni the place in the form of the altar, and cover or adorn it with a seat of darbha grass. The word अग्नये (*agnaye*) has the qualifying words वेदिषदे (*vediṣade*), प्रियधामाय (*priyadhāmāya*) and सुद्युते (*sudyute*).
+
+### Printed p. 102
+वेदिषदे (*vediṣade*)—वेद्यां सीदते नित्यं (*vedyāṃ sīdate nityaṃ*): "he who ever sits on the vedi" is vedishad; because he sits on the vedi he has the name vedishad.
+
+होता वेदिषदित्येष वै होता वेदिषत् (*hotā vediṣadityeṣa vai hotā vediṣat*) (Ai. Brā. 4-20).
+
+This qualifying word is used because the seat of the hotṛ is always the vedi, and because Agni is the hotṛ of the whole sacrifice.
+
+होता वेदिषदित्यग्निर्वै होता वेदिषत् (*hotā vediṣadityagnirvai hotā vediṣat*) (Śa. Brā. 6-7-3-11).
+
+From such sentences the qualifying word vedishad for Agni, the hotṛ, is well known. Śaṅkarācārya, writing his commentary on the Kaṭhopaniṣad sentence होता वेदिषत् (*hotā vediṣat*) (5-2), says:
+
+होता अग्निः, ' अग्निर्वै होता ' इति श्रुतेः । वेद्यां पृथिव्यां सीदतीति वेदि षत् । इयं वेदिः परोऽंतः पृथिव्याः । या यज्ञे प्रसिद्धा इयं वेदिः पृथिव्याः परोऽंतः परः स्वभावः इति वेद्या पृथिवीस्वभावत्वकीर्तनात् पृथिवी वेदिशब्दवाच्या भवतीत्यर्थः । (*hotā agniḥ, ' agnirvai hotā ' iti śruteḥ | vedyāṃ pṛthivyāṃ sīdatīti vedi ṣat | iyaṃ vediḥ paro 'ṃtaḥ pṛthivyāḥ | yā yajñe prasiddhā iyaṃ vediḥ pṛthivyāḥ paro 'ṃtaḥ paraḥ svabhāvaḥ iti vedyā pṛthivīsvabhāvatvakīrtanāt pṛthivī vediśabdavācyā bhavatītyarthaḥ |*)
+
+and thus gives a meaning that shows the identity of the earth and the vedi. For that reason it is also explained that the vedi is the dear abode of Agni.
+
+धासिं (*dhāsiṃ*)—धासिः इरा (*dhāsiḥ irā*) and so on are read among the names of food (Nighaṇṭu 2-7-11). Formed from the root dheṭ, which means drinking, it means food in the form of oblation; or it may mean "that which supports life".
+
+कृष्णा सती रुशता धासिनैषा जामर्येण पयसा पीपाय । (*kṛṣṇā satī ruśatā dhāsinaiṣā jāmaryeṇa payasā pīpāya |*) (Ṛ. Saṃ. 4-3-9)
+
+के धासिमग्ने अनृतस्य पांति क आसतो वचसः संति गोपाः । (*ke dhāsimagne anṛtasya pāṃti ka āsato vacasaḥ saṃti gopāḥ |*) (Ṛ. Saṃ. 5-12-4)
+
+As in these ṛks the word dhāsi means "supporting", so it may here too. Here the yoni is compared to the dhāsi.
+
+Yoni means the place called vedi: "procure for Agni, who sits on the vedi, the yoni called vedi" is the meaning.
+
+Quoting the ṛk आ स्वे योनौ निषीदतु (*ā sve yonau niṣīdatu*) (Ṛ. Saṃ. 6-16-41), the sentence एष ह वा अस्य स्वो योनिर्यदग्निरग्नेः (*eṣa ha vā asya svo yoniryadagniragneḥ*) (Ai. Brā. 1-16) shows that yoni means the place of origin of the Āhavanīya fire.
+
 ---
 
-**Progress note:** Done through printed p. 95. pp. 90-95 (batch API)
+**Progress note:** Done through printed p. 102. pp. 96-102 (batch API)
