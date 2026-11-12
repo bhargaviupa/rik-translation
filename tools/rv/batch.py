@@ -280,6 +280,7 @@ def cmd_check(a):
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
+    knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; knr=kn+'\n'+knr      # both forms count as twins (the loosened form must never hide a reference that matched as printed)
     res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
     print(numerals.report(res))

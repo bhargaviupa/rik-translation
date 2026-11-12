@@ -13,3 +13,4 @@
 - w0281: sūtra number printed ೬ ೪-೧೦೨ (hyphen missing), model wrote ೬-೪-೧೦೨: kept with a NOTE.
 - w0324 (p. 324): a stray chapter-level heading `## Special Topics (continued)` before the Special Topics sub-heading removed from the English volume file.
 - w0356: sūtra number printed ೬-೧ / ೧೬೩ across a line break (hyphen missing); model wrote ೬-೧-೧೬೩: kept with a NOTE.
+- Tool (Nov 12 2026, after w0281/w0356/w0405): `batch.py check` accepts a reference whose hyphen the print lost at a space or line break (the Kannada twin is loosened the same way); w0405 passed without a NOTE.
