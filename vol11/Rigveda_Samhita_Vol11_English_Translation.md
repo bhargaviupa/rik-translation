@@ -13326,6 +13326,156 @@ Seer: Dīrghatamas Aucathya.
 Deity: Mitra and Varuṇa.
 Metre: Triṣṭubh.
 
+### Printed p. 545
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यजा॑महे नां म॒हः स॒जोषा॑ ह॒व्येभि॑र्मित्रावरुणा॒  ॑
+> नमोभिः ।  
+> घृ॒तैर्घृ॑तस्नू॒ अध॒ यद्वा॑म॒स्मे अ॑ध्व॒र्यवो॒ न धी॒तिभि॒र्भरं॑ति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजामहे । नां । महः । सजोषाः । हव्येभिः । मित्रावरुणा । नमःभिः ।  
+> घृतैः । घृतस्नू इति घृतस्नू । अध । यत् । नां । अस्मे इति । अध्वर्यवः । न ।  
+> धीतिभिः । भरंति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धृतस्नू धृतस्य स्रावयितार् मित्रावरुण् महो महांतौ नां यजा
+> महे । पूजयामो यजमाना ऋत्विजश्च । कीवृशाः । सजोषाः समानप्रीति
+> युक्ताः । केन साधनेनेति तमच्यते । हव्येभिः पुरोडाशादिभिनमोभिर्नमस्कारो
+> पलक्षितैः । अधापि च यद्यस्मात्कारणाद्वां युवमध्वर्यवोऽस्मदीया अध्वर्यवोऽपि । अत्र नशब्दोऽप्यर्थे । तेऽपि धीतिभिः कर्मभिः स्वकीयैर्भरंति पोषयंति
+> तस्माद्यजामहे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two deities as धृतस्नू (*dhṛtasnū*), "you who cause ghee to flow", and as great ones, Mitra and Varuṇa. "We worship you", that is, the sacrificers and the priests honour you. He asks what kind of people these are and answers: "united in one affection" (सजोषाः (*sajoṣāḥ*)). He then asks by what means they worship. The answer is: with oblations such as the puroḍāśa and the like (हव्येभिः (*havyebhiḥ*)), and with acts of homage (नमोभिः (*namobhiḥ*)). The next clause reads: "and moreover, because your adhvaryus, ours too, nourish you with their own rites (धीतिभिः (*dhītibhiḥ*)) — the word न (*na*) here is in the sense of *api*, 'also' — therefore we worship you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतस्नू (*dhṛtasnū*)—you who pour ghee (water) and make it flow
+- महः (*mahaḥ*)—you great ones, Mitra and Varuṇa
+- सजोषाः (*sajoṣāḥ*)—we, who have one and the same kind of affection (in worshipping you)
+- नमोभिः (*namobhiḥ*)—accompanied by homage
+- धृतैः (*dhṛtaiḥ*)—with waters
+- हव्येभिः (*havyebhiḥ*)—with puroḍāśa and the like
+- महः (*mahaḥ*)—you great ones
+- वां (*vāṃ*)—you
+- यजामहे (*yajāmahe*)—we worship
+- अध (*adha*)—and moreover
+- यत् (*yat*)—for which very reason (therefore)
+- वां (*vāṃ*)—you
+- अस्मे अध्वर्यवः न (*asme adhvaryavaḥ na*)—the adhvaryus engaged in our sacrifice also
+- धीतिभिः (*dhītibhiḥ*)—with their rites
+- भरंति (*bharaṃti*)—nourish
+
+### Printed p. 546
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who pour out and distribute ghee, and who are great, we, who have one and the same devotion and faith in worshipping you, worship you with waters accompanied by homage and with puroḍāśa and the like. And for that very reason the adhvaryus too, engaged in our sacrifice, nourish you with their rites.
+
+##### Printed English
+
+Mighty Mitra and Varuna, dispensers of butter, we worship you, rejoicing, with oblations; with reverential homage, and with (offerings of) water ; so that our ministrant priests may propitiate you by (our) devotions.
+
+##### विशेषविषयगळु (Special Topics)
+
+धृतस्नू (*dhṛtasnū*)—The word धृत (*dhṛta*) is read among the names of water (Ni. 2-24). धृतस्य स्नावयितारौ मित्रावरुणौ (*dhṛtasya snāvayitārau mitrāvaruṇau*): the meaning is Mitra and Varuṇa, who pour water and make it flow. This same word occurs in
+अर्चामि नां वर्धयापो घृतस्नू द्यावाभूमी शृणुतं रोदसी मे । अहा यद्व्यापोऽसुनीति मयनध्वा नो अत्र पितरा शिशीतां । (*arcāmi nāṃ vardhayāpo ghṛtasnū dyāvābhūmī śṛṇutaṃ rodasī me | ahā yadvyāpo 'sunīti mayanadhvā no atra pitarā śiśītāṃ |*) (Ṛ. Saṃ. 10-12-4),
+where it is an epithet of Heaven and Earth, with the gloss वृष्ट्यदकस्य प्रसवित्र्या (*vṛṣṭyadakasya prasavitryā*).
+धीतिभिः (*dhītibhiḥ*)—स्वकीयैः कर्मभिः (*svakīyaiḥ karmabhiḥ*), "with their own rites". The word धीति (*dhīti*) has two meanings, "rite" and "intelligence". [In the Nirukta this word is also read among the names of the fingers, Ni. 3-8.] The Nirukta's exposition, quoting two Ṛks in which the two meanings, rite and intelligence, occur, has been given in this same volume under the Special Topics of Ṛk 1-143-1 (p. 295). In the present Ṛk the meaning is the rite in the form of the sacrifice.
+
+##### Grammar
+
+- यजामहे — यज देवपूजासंगतिकरणदानेषु धातुः । लट् उत्तमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । अदुपदेशपरत्वात् तास्यनुदात्ते-(पा. सू. ६-१-१८६) इति लसार्वधातुकस्यानुदात्तत्वात् धातुस्वरः शिष्यते ।
+- महः — मह पूजायां धातुः । क्विप्च इति क्विप् प्रत्ययः । सुपां सुपो भवंति इति वचनात् द्विवचनस्य बहुवचनप्रत्यय आगतः ।
+
+### Printed p. 547
+- सजोषाः — समानं जोषः येषां ते सजोषाः । जुषी प्रीतिसेवनयोः धातुः । असुन् प्रत्ययः । प्रत्ययनिमित्तो लघूपधगुणः । समानस्य छंदसि इति समानशब्दस्य सभावः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- हव्येभिः — बहुलं छंदसि इति भिस ऐस्भावस्य विकल्पितत्वात् न भवति । एत्वम् ।
+- घृतस्नू — घृतं स्नावयतः इति घृतस्नू । स्नु प्रस्रवणे धातुः । क्विप् प्रत्ययः । संबोधनाद्विवचनांतरूपम् । आमंत्रितस्य च इति निघातस्वरो भवति ।
+- भरंति — भृञ् भरणे धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति लसार्वधातुकस्यानुदात्तत्वात् धातुस्वरः शिष्यते ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रस्तु॑तिर्वां॒ धाम॒ न प्रयु॑क्ति॒रया॑मि मित्रावरुणा  ॒
+> सुवृ॒क्तिः ।  
+> अ॒नक्ति॒ यद्वां॑ वि॒दथे॑षु॒ होता॑ सु॒म्मं वां॑ सू॒रिर्वृ॑षणा॒विय॑क्षन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रस्तुतिः । वां । धाम । न । प्रयुक्तिः । अयामि । मित्रावरुणा । सुवृक्तिः ।  
+> अनक्ति । यत् । वां । विदथेषु । होता । सुम्नं । वां । सूरिः । वृषणौ ।  
+> इयक्षन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ नां युवयोः संबंधिनो यागस्य प्रस्तुतिः प्रस्तावना
+> करोमीति संकल्प एव न प्रयुक्तिः कृत्स्नप्रयोगो न संपन्नः । तावतैव युवयो-
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, the प्रस्तुतिः (*prastutiḥ*) of your sacrifice is the प्रस्तावना (*prastāvanā*), the introduction." It is only the resolve "I shall perform it"; the प्रयुक्तिः (*prayuktiḥ*), the complete performance, is not accomplished. (The block breaks off here; the next window continues it.)
+
+### Printed p. 548
+
+> धार्म तेजःस्थानमयामि । प्राप्नोमि । सुवृक्तिर्युवयोः शोभनावर्जकश्च
+> युष्मत्परिग्रहादस्मि । यद्यदा तु विदथेषु यज्ञेषु नां युवां होता होमनिष्पादकोऽयमध्वर्युरनक्ति हविषागच्छति । होमं करोतीत्यर्थः । यद्वा ।
+> होता देवानामाह्वातैतन्नामक ऋत्विक् शस्त्रादिना वामनक्ति व्यंजयति । तदा सूरिर्युष्मन्माहात्म्यविदियक्षन् यागं कर्तुमिच्छन्नहं हे वृषणौ कामानां वर्षितारौ नां युवयोः सुम्मं युष्मत्संबंधि सुखं देवत्वलक्षणमयामीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"Even by that much alone I attain your धाम (*dhāma*), your place of radiance." Sāyaṇa takes अयामि (*ayāmi*) as "I obtain". He takes सुवृक्तिः (*suvṛktiḥ*) as "a good propitiator of you", I am so through having accepted you. यत् (*yat*) means "when": when in the sacrifices (विदथेषु (*vidatheṣu*)) this adhvaryu, the होता (*hotā*), the accomplisher of the oblation, "anoints" (अनक्ति (*anakti*)), that is, approaches with the oblation; the meaning is that he performs the homa. Or else: the priest named Hotṛ, the invoker of the gods, "manifests" you by the śastra and the like. Then the सूरिः (*sūriḥ*), one who knows your greatness and, as इयक्षन् (*iyakṣan*), wishes to perform the sacrifice — I — O वृषणौ (*vṛṣaṇau*), showerers of desires, obtain your सुम्मं (*summaṃ*), the happiness connected with you, whose mark is godhood. अयामि (*ayāmi*) is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नां (*nāṃ*)—(O Mitra and Varuṇa) of the sacrifice (to be performed) in your honour
+- प्रस्तुतिः (*prastutiḥ*)—the mere resolve in the form of the introduction
+- न प्रयुक्तिः (*na prayuktiḥ*)—does not amount to carrying out the complete rite. (But by that much alone)
+- धाम (*dhāma*)—your place of radiance
+- आयामि (*āyāmi*)—I attain
+- यत् (*yat*)—when
+- विदथेषु (*vidatheṣu*)—in sacrifices
+- वां (*vāṃ*)—you
+- होता (*hotā*)—the adhvaryu who accomplishes the homa, or the priest named Hotṛ
+- अनक्ति (*anakti*)—offers the oblation and performs the homa (then)
+- वृषणौ (*vṛṣaṇau*)—O Mitra and Varuṇa, bestowers of what is desired
+- सूरिः (*sūriḥ*)—one who knows your greatness
+- इयक्षन् (*iyakṣan*)—and who wishes to perform the sacrifice, I
+- वां (*vāṃ*)—of you both
+- सुम्मं (*summaṃ*)—the happiness (in the form of godhood) (I shall attain)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the mere resolve, in the form of the introduction, of the sacrifice to be performed in your honour does not amount to carrying out the complete rite. But by having done that much alone I attain your place of radiance. And when, in the sacrifices, the adhvaryu, the accomplisher of the homa, offers the oblation to you and performs the homa, then, O Mitra and Varuṇa, bestowers of what is desired, I, who know your greatness and wish to perform the sacrifice, shall attain this happiness in the form of godhood which you both enjoy.
+
+##### Printed English
+
+The purpose of worshipping you, Mitra and Varuna, is not the performance, but (even by so much) I may attain to your glory, and there is acquittance (of my duty); for when the priest offers you oblations in sacrifices, then the pious man, showers (of benefits), being desirous of worshipping you. (obtains) felicity.
+
+### Printed p. 549
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रस्तुतिः न प्रयुक्तिः (*prastutiḥ na prayuktiḥ*)—"The prastuti cannot be the prayukti": the Ṛk points out the difference between the two, and yet it indicates the assurance that by the mere prastuti alone one can win the favour of Mitra and Varuṇa and obtain their abode. The purport is that if the abode of Mitra and Varuṇa can be obtained through the help of the prastuti, which is only one part of the rite, then if the rite is performed in full its fruit will be greater still.
+प्रस्तुतिः प्रस्तावना ; करोमीति संकल्प एव (*prastutiḥ prastāvanā ; karomīti saṃkalpa eva*)—Sāyaṇa has explained this as the resolve in the form of the introduction, "I shall perform the rite in full". What is the prastāva, and what place it has in the rite, Sāyaṇa has explained in his commentary on the Aitareya Brāhmaṇa. And those who recite such a prastāva are called "desirous of prastuti" in the Chāndogya and other texts. The origin and nature of the prastāva are told in the Aitareya Brāhmaṇa in the form of a story, as follows:
+ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा ना ऋक्सामोपावदन्मिथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम ज्यायान्वा अतो मम महिमेति ते द्वे भूत्त्वोपावदतां तेन प्रतिचन समवदत तास्तिस्रो भूत्त्वोपावदंस्तत्तिसृभिः समभवद्यत्तिसृभिः समभवत्तस्मात्तिसृभिः स्तुवंति तिसृभिरुद्गायंति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्वो जाया भवंति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्सामाभवत्तत्साम्नः सामत्वं, सामन्भवति य एवं वेद योवै भवति यः श्रेष्ठ तामश्नुते स सामन्भवत्यसामन्य इति हि निंदंति । तेवै पंचान्यद्भूत्वा पंचान्यद्भूत्वा कल्पेतामाहावश्च हिंकारश्च प्रस्तावश्च प्रथमा च ऋगुद्दीथश्च मध्यमा च प्रतिहारश्चोत्तमा च निधनं च वषट्कारश्च इति ॥ (*ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā nā ṛksāmopāvadanmithunaṃ saṃbhavāva prajātyā iti netyabravītsāma jyāyānvā ato mama mahimeti te dve bhūttvopāvadatāṃ tena praticana samavadata tāstisro bhūttvopāvadaṃstattisṛbhiḥ samabhavadyattisṛbhiḥ samabhavattasmāttisṛbhiḥ stuvaṃti tisṛbhirudgāyaṃti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvo jāyā bhavaṃti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmābhavattatsāmnaḥ sāmatvaṃ, sāmanbhavati ya evaṃ veda yovai bhavati yaḥ śreṣṭha tāmaśnute sa sāmanbhavatyasāmanya iti hi niṃdaṃti | tevai paṃcānyadbhūtvā paṃcānyadbhūtvā kalpetāmāhāvaśca hiṃkāraśca prastāvaśca prathamā ca ṛguddīthaśca madhyamā ca pratihāraścottamā ca nidhanaṃ ca vaṣaṭkāraśca iti ‖*) (Ai. Brā. 12-13)
+In the beginning the Ṛk was in feminine form and the Sāma in masculine form. Desiring offspring, the Ṛk wished to unite with the Sāma. Then the Sāma, to show the superiority of its masculinity, said that this could not be. Taking two forms, the Ṛk again entreated the Sāma, and even then the Sāma refused. Growing into three and entreating the Sāma once more, then, with its consent, when the two came together there arose two groups of śastras, each with five parts. These are the prastāva and the rest. Which are they?
+ते वै त एव वक्ष्यमाणाः शस्त्रावयवाः पंचसंख्याता अन्यत्पृथगेव शस्त्ररूपं भूत्वा वर्तंते । तथा हिंकारादयः पंच सामांशा वैश्वदेवावयवा अन्यत्पृथक्सामरूपं भूत्वा वर्तंते च । .............तदेतत्पंचकं शस्त्र स्वरूपं । उद्गात्रा पठितव्यः साम्न आदौ हिमित्येवंशब्दो हिंकारः । गातव्यः सामावयवः प्रस्तावः । उद्गात्रा गातव्य उद्गीथः । प्रतिहर्त्रा गातव्यः प्रतिहारः । अंते सर्वैर्गातव्यो भागो निधनं । तदेतत्पंचकं स्तोत्रस्वरूपं । (*te vai ta eva vakṣyamāṇāḥ śastrāvayavāḥ paṃcasaṃkhyātā anyatpṛthageva śastrarūpaṃ bhūtvā vartaṃte | tathā hiṃkārādayaḥ paṃca sāmāṃśā vaiśvadevāvayavā anyatpṛthaksāmarūpaṃ bhūtvā vartaṃte ca | .............tadetatpaṃcakaṃ śastra svarūpaṃ | udgātrā paṭhitavyaḥ sāmna ādau himityevaṃśabdo hiṃkāraḥ | gātavyaḥ sāmāvayavaḥ prastāvaḥ | udgātrā gātavya udgīthaḥ | pratihartrā gātavyaḥ pratihāraḥ | aṃte sarvairgātavyo bhāgo nidhanaṃ | tadetatpaṃcakaṃ stotrasvarūpaṃ |*) (Ai. Brā. 12-13, Sāyaṇa-bhāṣya)
+
+### Printed p. 550
+Of these, the first is the hiṅkāra, recited by the Udgātṛ at the beginning in the form of the sound हिं (*hiṃ*). The second is the prastāva, a part of the Sāma, to be sung by the Prastotṛ. The third, called udgītha, is what the Udgātṛ has to recite. The fourth is the pratihāra, to be recited by the Pratihartṛ. The fifth, to be sung at the end by all together, is called nidhana. Of these five parts, the second, the prastāva, is to be recited by the Prastotṛ. Taking an example, in the Ṛk
+अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः । देवं देवाय देवयु ॥ (*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ‖*) (Ṛ. Saṃ. 9-11-2)
+the portion अभि ते मधुना पय (*abhi te madhunā paya*) (Om) is the part called prastāva, to be recited by the Prastotṛ. This is a mantra addressed to the deity Soma. It has been said that if one knows only this portion of the mantra and does not know the nature of the deity to whom it is addressed, there is no benefit at all, and moreover harm results. In this connection Uśasti Cākrāyaṇa explained the nature of the Sāma consisting of the five parts beginning with the prastāva. He declared the importance of knowing the relation between the prastuti and the deity indicated by it, and the trouble that results from reciting only the mantra without that knowledge. Since that part of the story is told in order to make known the nature of the prastāva and the characteristics of one desirous of prastuti, it is also given here briefly. Śaṅkarācārya too, in his introduction, says:
+उद्गीथोपासनप्रसंगेन प्रस्तावप्रतिहारविषयमप्युपासनं वक्तव्यमितीदमारभ्यते । (*udgīthopāsanaprasaṃgena prastāvapratihāraviṣayamapyupāsanaṃ vaktavyamitīdamārabhyate |*) (Bhā. U. 1-10-1, Śāṅkara-bhāṣya) **NOTE**
+that is, in connection with the worship of the udgītha, the worship of its parts, the prastāva and the rest, is also necessary; to make this known the story of Cākrāyaṇa is told. That part of the story runs as follows:
+मटचीहतेषु कुरुष्वाटिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास । स हेभ्यं कुल्माषान्बादंतं विभिक्षे तं होवाच । (*maṭacīhateṣu kuruṣvāṭikyā saha jāyayoṣastirha cākrāyaṇa ibhyagrāme pradrāṇaka uvāsa | sa hebhyaṃ kulmāṣānbādaṃtaṃ vibhikṣe taṃ hovāca |*)
+
 ---
 
-**Progress note:** Done through printed p. 544. pp. 539-544 (batch API)
+**Progress note:** Done through printed p. 550. pp. 545-550 (batch API)
