@@ -15189,6 +15189,137 @@ In this Ṛk, सूरस्य द्रष्टा सर्वो जीव
 
 Here it is an epithet of heroes who are turned towards heaven. Having thus shown that meanings according to context are possible, he (Sāyaṇa) in the Ṛk under discussion explains स्वर्गस्य द्रष्टुः (*svargasya draṣṭuḥ*) or सर्वस्य द्रष्टुः (*sarvasya draṣṭuḥ*), of Viṣṇu, as…
 
+### Printed p. 630
+(The sentence continues from the previous page.) The Kannada commentary explains the word as above. Since Viṣṇu's highest step faces the Āditya, it will not be wrong to take the word स्वः (*svaḥ*) here to mean the Āditya (the sun) as well.
+
+तृतीयं नकिः आ दधर्षति (*tṛtīyaṃ nakiḥ ā dadharṣati*)—the third stride, called the world of heaven: no mortal is able to know it by understanding. As for Viṣṇu's third step, the world of heaven, it cannot be known by any human being, nor by sky-ranging birds such as Garuḍa, nor even by the Maruts. This is the purport.
+
+नकिः (*nakiḥ*)—This word is read among the words that express the sense of "all" (sarva-pada-samāmnāya). In this Ṛk the word has a negative sense, and it stresses that no one at all can know Viṣṇu's third step.
+
+##### Grammar
+
+- क्रमणे — क्रमु पादविक्षेपे धातुः । भावार्थे ल्युट् प्रत्ययः । युवोरनाकौ इति तस्य अनादेशः । अट्‌कुप्वाज् इति सूत्रेण नकारस्य णत्वं । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वमुदात्तस्वरो भवति ।
+- स्वर्दृशः — दृशिर् प्रेक्षणे धातुः । क्विप् प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति । षष्ठीएकवचनांतरूपं ।
+- अभिख्याय — ख्या प्रकथने धातुः । तस्मात् क्त्वा प्रत्यये समासेन नञ्पूर्वे (पा. सू. ७-१-७२) इति तस्य ल्यबादेशः । पित्त्वात् सोऽनुदात्तो भवति । **NOTE**
+- भुरण्यति — भुरण्य गत् धातुः । कंड्वादिः । भुरण्यति शवति (निरु. १४-१६) इति गतिकर्मकधातूनां मध्ये पठितः । लट् प्रथमपुरुषएकवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- दधर्षति — धृषि शसी वैयात्ये धातुः । इध्यषा प्रागल्भ्ये धातुः । लट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । बहुलं छंदसि इति शपः श्लु आदेशः । लेटोऽडाट् (पा. सू. ३-४-९४) इति प्रत्ययस्य अडागमः । धातोर्द्वित्वादि । प्रत्ययनिमित्तत्वेन धातोर्लघोपधाया गुणः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- वयः — वा गतिगंधनयोः धातुः । वातेर्डिच्च (उ. सू. ४-५७३) इति इण् प्रत्ययः । तस्य डित्त्वविधानात् धातोः टेः (आ) लोपः । वि शब्दो भवति । प्रथमाबहुवचनांतरूपं ।
+
+### Printed p. 631
+**Grammar** (continued)
+- पतयंतः — पत्ल्य गतौ धातुः । अस्मात् ण्यंतात् शतृप्रत्ययः । शप् विकरणः । णिचि निमित्ते धातोरकारस्य लोपः । तस्य स्थानिवद्भावात् उपधावृद्धिर्न भवति । शप् निमित्ते णिचो गुणः । अयादेशः । तास्यनुदात्तेत् इति सूत्रेण लसार्वधातुकस्यानुदात्तत्वात् णिच्स्वरः अवशिष्यते ।
+- पतत्रिणः — पत्ल्य गतौ धातुः । अमिनक्षियजि (उ. सू. ३-३८५) इत्यस्मात् अत्रन् प्रत्ययः । पतत्रं अस्य अस्ति इति पतत्री । अत इनिठनौ इति मत्वर्थे इनिप्रत्ययः । प्रत्ययस्याद्युदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपं । (Ṛk 5 ends.)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒तुर्भिः॑ सा॒कं न॑व॒तिं च॒ नाम॑भिश्च॒क्रं न वृ॒त्तं व्यती॑रवीविपत् ।  
+> बृ॒हच्छ॑रीरो वि॒मिमा॑न॒ ऋक्व॑भि॒र्युवाकु॑मारः॒ प्रत्ये॑त्याह॒नं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चतुर्भिः । साकं । नवतिं । च । नामभिः । चक्रं । न । वृत्तं । व्यतीन् । अवीविपत् ।  
+> बृहत्शरीरः । विमिमानः । ऋक्वभिः । युवा । अकुमारः । प्रति । एति । आहवं॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमादित्यात्मा विष्णुश्चतुर्भिः साकं सहितां नवतिं च । चतुर्नवतिमित्यर्थः ।
+> एतत्संख्याकान्कालावयवान् नामभिः स्वकीयनमनप्रकारैः प्रेरणविशेषैर्वृत्तं यथा
+> भवति तथा व्यतीन् विविधातनस्वभावान् वृत्तं चक्रं न बह्वरोपेतं चक्रमिव तं
+> यथा शत्रोरुहरि प्रक्षेपेण भ्रमयति तद्वदुक्तसंख्याकान्कालावयवानवीपिपत् ।
+> कंपयति । भ्रमयति ॥ टुवेपृ कंपने ॥ ण्यंताल्लुजि चजि रूपं ॥ के पुनस्ते
+> उच्यते । संवत्सर एकः । अयने द्वे । पंचर्तवः । द्वादश मासाः । चतुर्विंशत्यर्थमासाः । त्रिंशदहोरात्राः । अष्टौ यामाः । एकस्मिन्निने पर्यावर्तमानानि मेषा-
+
+##### Gist of the bhāṣya
+
+This Viṣṇu, whose nature is the Āditya, together with four and ninety, that is, ninety-four, (in all) — these are the parts of time of that number. By his "names", that is, his own modes of inclining or movement, his special impulsions, he sets them in motion so that they are rounded: व्यतीन् (*vyatīn*), of varied extension. As one whirls a wheel, a round wheel with many spokes, by throwing it above the enemy, so he makes the said parts of time whirl; अवीविपत् (*avīvipat*) means "makes tremble, makes revolve" (root टुवेपृ (*ṭuvepṛ*), to tremble; from the causal, the form is with luk and cajji). Which are they? One year; two solstices; five seasons; twelve months; twenty-four half-months; thirty days-and-nights; eight watches; and, in one day, the twelve signs beginning with Meṣa that revolve (and are attached). Taken together these are ninety-four, which he whirls. (The bhāṣya continues on the next page.)
+
+### Printed p. 632
+
+> दीनि द्वादश लग्नानीति मिलित्वा चतुरधिकनवतिसंख्याकानवीविपत् । नन्वादित्यः स्वयमपीतरवत्परिभ्रमति कथं भ्रमयतीत्युच्यते । नैष दोषः । एतेषां भ्रामकस्य ध्रुवस्य
+> विष्णोर्मूर्त्यंतरत्वात् । अथवा स्वभ्रमणाधीनत्वादितरेषां परिभ्रमणस्य । अतः
+> स्वयं भ्रमयतीत्युच्यते । एवं कालात्मको विष्णुर्बृहच्छरीरो विराडात्मना सर्वदेवमनुष्यादिशरीराणां स्वशरीरत्वात् । बृहच्चरीरत्वमेवोपपादयति । विमिमानो विविधमात्मानं मिमानो देवतिर्यगात्मना विभज्य स्थापयन् । यद्वा । ऋक्स्वभिः
+> स्तुतिमद्भिर्मंत्रवद्भिर्वा विमिमानः । यद्यपि विभुस्तथापि भक्ताध्यीनत्वात् स्तुत्या
+> मीयते । युवा सर्वत्र मिश्रणशीलो नित्यतरुणो वा आत एवाकुमारोऽसल्पः
+> एवंभूतो महाविष्णुराहवमाह्वानं प्रत्येकति । गच्छति यज्ञदेशं ॥
+
+##### Gist of the bhāṣya
+
+Objection: the Āditya himself revolves like the others, so how can he be said to make them revolve? Answer: there is no fault, because the fixed Viṣṇu who sets them revolving is another form of Viṣṇu; or else, because the revolution of the others depends on his own revolution, he is said to make them revolve himself. So Viṣṇu, whose nature is time, is vast of body, because the bodies of all gods, men and the rest are his own body in the form of the Virāṭ. He justifies this "vast body": विमिमानः (*vimimānaḥ*), measuring himself in diverse ways, establishing himself by dividing into the forms of gods, beasts and others. Or else: he is "measured out" by ऋक्वभिः (*ṛkvabhiḥ*), by the praising or the mantra-possessing; though all-pervading, he is dependent on his devotees and is measured by praise. युवा (*yuvā*): mingling everywhere, or ever young; therefore अकुमारः (*akumāraḥ*), not small. Such a Mahāviṣṇu goes to the invocation (āhava), that is, to the place of sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नामभिः (*nāmabhiḥ*)—by his modes of revolving (the Viṣṇu who is the Āditya)
+- चतुर्भिस्साकं नवतिं च (*caturbhissākaṃ navatiṃ ca*)—ninety-four in number
+- व्यतीन् (*vyatīn*)—the parts of time that stand divided separately
+- चक्रं न (*cakraṃ na*)—like a wheel revolving about its spokes
+- वृत्तं (*vṛttaṃ*)—as if turning in a circle
+- अवीविपत् (*avīvipat*)—he makes (them) revolve
+- बृहच्छरीरः (*bṛhaccharīraḥ*)—he who has the body of the Virāṭ
+- ऋक्वभिः (*ṛkvabhiḥ*)—by praises in the form of mantras
+- विमिमानः (*vimimānaḥ*)—he who divides (his own nature) into diverse forms such as gods and beasts and evolves
+- युवा (*yuvā*)—he who joins everywhere, or the ever young
+- अकुमारः (*akumāraḥ*)—(yet) one who is not of infant form, Mahāviṣṇu
+- आहवं (*āhavaṃ*)—having regard to our invocation
+- प्रत्येति (*pratyeti*)—comes (to the place of sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+Viṣṇu, whose nature is the Āditya, by his modes of revolution makes the parts of time, year and the rest, ninety-four in number and divided separately, revolve in a circle like a wheel turning round its spokes. He who has the body of the Virāṭ, who by praises in mantra-form divides his own nature into the diverse forms of gods, beasts and others and evolves, who is ever young yet not of infant form, Mahāviṣṇu, comes to the sacrificial ground regarding our invocation.
+
+##### Printed English
+
+He causes, by his gyrations, ninety and four periodical revolutions, like a circular wheel, vast of body, and evolving in many forms, through the praises (addressed to him); ever young, though not infantine, he comes at our invocations,
+
+### Printed p. 633
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the greatness of Viṣṇu, whose nature is the Āditya, is praised. When the Nirukta-writer shows the explanation of the word स्वसराणि (*svasarāṇi*), he says: स्वरादित्यो भवति स एनानि सारयति । (*svarādityo bhavati sa enāni sārayati |*) (Ni. 5-4). It is stated that the Āditya is named स्वः (*svaḥ*) because he makes the days move. In this Ṛk the power of Viṣṇu, whose nature is the Āditya, consisting in revolution, and the fact that he sets in motion time and all other principles, are described.
+
+चतुर्भिस्साकं नवतिं च (*caturbhissākaṃ navatiṃ ca*)—एतत्संख्याकान् कालावयवान् । (*etatsaṃkhyākān kālāvayavān |*) Thus the parts of time are divided into ninety-four. They are:
+- Year (संवत्सरः एकः (*saṃvatsaraḥ ekaḥ*)): 1
+- Solstices (अयने द्वे (*ayane dve*)): 2
+- Seasons (पंचर्तवः (*paṃcartavaḥ*)): 5
+- Months (मासाः द्वादश (*māsāḥ dvādaśa*)): 12
+- Half-months (चतुर्विंशत्यर्धमासाः (*caturviṃśatyardhamāsāḥ*)): 24
+- Days-and-nights (त्रिंशदहोरात्राः (*triṃśadahorātrāḥ*)): 30
+- Watches (अष्टौ यामाः (*aṣṭau yāmāḥ*)): 8
+- The signs beginning with Meṣa (एकस्मिन्दिने पर्यावर्तमानानि मेषादीनि (*ekasmindine paryāvartamānāni meṣādīni*), द्वादश लग्नानि (*dvādaśa lagnāni*)): 12
+- Taken together (मिलित्वा चतुरधिकनवतिसंख्याकाः (*militvā caturadhikanavatisaṃkhyākāḥ*)): total 94
+
+Thus the parts of time are ninety-four in all.
+
+व्यतीन् (*vyatīn*)—विविधातनस्वभावान्। (*vividhātanasvabhāvān|*) It is described that he sets in motion all these parts of time that exist in different forms.
+
+The commentator shows that room is left here for another doubt, and gives the fitting answer: नन्वादित्यः स्वयमपि इतरवत्परिभ्रमति कथं भ्रमयति इत्युच्यते । (*nanvādityaḥ svayamapi itaravatparibhramati kathaṃ bhramayati ityucyate |*)
+
+### Printed p. 634
+Raising the doubt that, since the Āditya himself has the nature of revolution like the other planets and so on, how can he make other things move, the commentator answers that there is nothing unnatural in the description, because all other things in the world are only other forms of Viṣṇu, and because all their movements depend on the revolution of Viṣṇu who is the Āditya.
+
+In answering this objection Sāyaṇa has given in summary the cosmic principle whose nature is time. By saying कालात्मकः विष्णुः (*kālātmakaḥ viṣṇuḥ*) and by विराडात्मना सर्वदेवमनुष्यादिशरीराणां स्वशरीरत्वात् (*virāḍātmanā sarvadevamanuṣyādiśarīrāṇāṃ svaśarīratvāt*) he states the identity of Viṣṇu with the universe, and that the whole activity of the universe depends on Viṣṇu's action. By the epithet विमिमानः (*vimimānaḥ*) it is said that Viṣṇu (who is described in another form as Prajāpati) is the cause even of creation, maintenance and the rest. By describing, in one place in one way and in another place in another, the ninety-four parts of time, of wheel-form, belonging to Viṣṇu who is the Āditya, it is shown that these are the very principles of Prajāpati, the cause of the universe.
+
+द्वादशारं नहि तज्ञराय वर्वर्ति चक्रं परि द्यामृतस्य । आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः । (*dvādaśāraṃ nahi tajñarāya varvarti cakraṃ pari dyāmṛtasya | ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ |*) (Ṛ. Saṃ. 1-164-11)
+सत्यात्मकस्यादित्यस्य चक्रं पुनःपुनः क्रमणशीलं मंडलाख्यं रथचक्रं वा वर्वति । (*satyātmakasyādityasya cakraṃ punaḥpunaḥ kramaṇaśīlaṃ maṃḍalākhyaṃ rathacakraṃ vā varvati |*)
+पंचपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणं । अथेमे अन्य उपरॆ विचक्षणं सप्तचक्रे षळर आहुरर्पितं ॥ ; (*paṃcapādaṃ pitaraṃ dvādaśākṛtiṃ diva āhuḥ pare ardhe purīṣiṇaṃ | atheme anya uparè vicakṣaṇaṃ saptacakre ṣaḷara āhurarpitaṃ ‖ ;*) (Ṛ. Saṃ. 1-164-12)
+पंचारे चक्रे परिवर्तमाने तस्मिन्ना तस्थुर्भुवनानि विश्वा । तस्य नाक्षस्तप्यते भूरिभारः सनादेव न शीर्यते सनाभिः ॥ (*paṃcāre cakre parivartamāne tasminnā tasthurbhuvanāni viśvā | tasya nākṣastapyate bhūribhāraḥ sanādeva na śīryate sanābhiḥ ‖*) (Ṛ. Saṃ. 1-164-13)
+
+The wheel of the Āditya, with twelve spokes (the months), has in the sky a revolution of repeated turning. It suffers no decay, its revolution is everlasting. The pair of days-and-nights, in twinned form, of seven hundred and twenty in number, for the Āditya of infant form, is contained within this wheel of time. This wheel of time, made up of the solstices and other parts, continues its revolution without break. This is the cosmic principle. This principle is contained in Prajāpati the creator, and reflects his outer principles. This principle of time is described in various ways in the Saṃhitā, Brāhmaṇa and Upaniṣads
+
+### Printed p. 635
+everywhere. Showing the identity of this principle of time and the principle of sacrifice, and that Prajāpati is the support of both, the Taittirīya Saṃhitā describes it thus:
+
+प्रजापतिरग्निमचिनुतर्तुभिस्संवध्सरं वसंतेनैवास्य पूर्वार्धमचिनुत ग्रीष्मेण दक्षिणं पक्षं वर्षाभिः पुच्छग्ं शरदोत्तरं पक्षग्ं हेमंतेन मध्यं ब्रह्मणा वा अस्य तत्पूर्वार्ध मचिनुत क्षत्रेण दक्षिणं पक्षं पशुभिः पुच्छं विशोत्तरं पक्षमाशया मध्यं य एवं विद्वानग्निं चिनुत ऋतुभिरेवैनं चिनुतेऽथो एतदेव सर्वमव ॥ (*prajāpatiragnimacinutartubhissaṃvadhsaraṃ vasaṃtenaivāsya pūrvārdhamacinuta grīṣmeṇa dakṣiṇaṃ pakṣaṃ varṣābhiḥ pucchagṃ śaradottaraṃ pakṣagṃ hemaṃtena madhyaṃ brahmaṇā vā asya tatpūrvārdha macinuta kṣatreṇa dakṣiṇaṃ pakṣaṃ paśubhiḥ pucchaṃ viśottaraṃ pakṣamāśayā madhyaṃ ya evaṃ vidvānagniṃ cinuta ṛtubhirevainaṃ cinute 'tho etadeva sarvamava ‖*) (Tai. Saṃ. 5-6-10-1)
+
+It says that, as the year is built of the seasons, spring and the rest, he built all the parts of the sacrificial altar, the eastern and the others. And in the Śatapatha Brāhmaṇa, showing the identity of the sacrificial horse, whose form is Prajāpati, with the parts of time:
+
+उषा वा अश्वस्य (*uṣā vā aśvasya*) … सिंधवो .... .... .... वागेवास्य नागहर्वा अश्वं पुरस्तान्महिमान्वजायत तस्य पूर्वे समुद्रे योनी रात्रिरेनु पश्चान्महिमान्वजायत ................. !! (*siṃdhavo .... .... .... vāgevāsya nāgaharvā aśvaṃ purastānmahimānvajāyata tasya pūrve samudre yonī rātrirenu paścānmahimānvajāyata ................. !!*) **NOTE** (Śa. Brā. 10-6-4-1) **NOTE**
+
+It describes: for the sacrificial horse in the form of Prajāpati, or Prajāpati in the form of the sacrificial horse, the dawn is the head, the sun the eye, the wind the breath, the fire Vaiśvānara the mouth, the year the body, .... .... .... the seasons the limbs, the months and half-months the joints, the days-and-nights the supporting pillars, and so on. This description, as explained in the bhāṣya on the present Ṛk (1-155-6) by कालात्मको विष्णुः (*kālātmako viṣṇuḥ*) and विविधमात्मानं विमानः देवतिरगात्मना विभज्य स्थापयन् (*vividhamātmānaṃ vimānaḥ devatiragātmanā vibhajya sthāpayan*), is the description of Prajāpati, whose nature is the Āditya, containing the cosmic principle. Western scholars, praising this exposition as the basis of the physical and spiritual principles later set out in the Upaniṣads and elsewhere, have stated their view thus:
+
+In the elaborate rite of the piling of the fire-aliars lies the most philosophic content of the Samhita, for in it finds expression the chief doctrine of the sacrificial ritual, the sacrifice as a cosmic power of the highest potency. The first expression of it is preserved
+
 ---
 
-**Progress note:** Done through printed p. 629. pp. 624-629 (batch API)
+**Progress note:** Done through printed p. 635. pp. 630-635 (batch API)
