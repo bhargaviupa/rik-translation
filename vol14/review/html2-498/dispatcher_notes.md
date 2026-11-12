@@ -10,3 +10,4 @@ The user found 431 `[?]` marks in pp. 2–498 far too many. The supplied `rig_14
 - Kept (22 marks, about 16 places): verse-end numerals that are doubtful (e.g. `॥ ೯ [?] ॥`), and Kannada-script words in Sāyaṇa's/Venkata Rao's text that the print gives wrongly (e.g. "ಯಜಮಾರನನ್ನೂ").
 - Before: 431. After: 22. Original file: `English_before_doubt_triage.md.bak.gz`; every changed line: `doubt_triage_changes.tsv` (249 lines). `doubts.tsv` still lists all original doubts.
 - Not touched: the Kannada text file (211 marks in pp. 2–498), pp. 501–954 (35 marks).
+- Kannada text file (same day): same rule applied to pp. 2–498, 211 -> 15 marks (kept: doubtful verse-end numerals and the misprinted Kannada words that stay marked in the English). Original: `Kannada_before_doubt_triage.md.gz`.
