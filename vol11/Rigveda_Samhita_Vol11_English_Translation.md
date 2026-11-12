@@ -14902,6 +14902,146 @@ The use of this word in the sense of the seed that begets offspring, and the acc
 भुरण्यति (*bhuraṇyati*)—the commentator says the sense is गच्छति भजते च (*gacchati bhajate ca*), that is, "he understands" (the Kannada word given). The Nirukta author has included this word among the names of motion (Ni. 3-9). Since even that motion indicates swift movement, it is said that birds and the like also bear the name Bhuraṇyu:
 भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि पोळ्ता तत्संपाती भुरण्युरनेन पावकख्यातेन । (*bhuraṇyuriti kṣipranāma | bhuraṇyuḥ śakunirbhūrimadhvānaṃ nayati svargasya lokasyāpi poḷtā tatsaṃpātī bhuraṇyuranena pāvakakhyātena |*) (si. 12-22).**NOTE**
 
+### Printed p. 618
+
+For flying far, a bird is called bhuraṇyu. It can carry anyone, even to heaven. The same name belongs to the sacrificer (yajamāna), the performer of the sacrifice, who moves swiftly (towards heaven) with the bird. In this connection the Nirukta author cites the Ṛk
+
+येना पावक चक्षसा भुरण्यंतं जना अनु । त्वं वरुण पश्यसि ॥ (*yenā pāvaka cakṣasā bhuraṇyaṃtaṃ janā anu | tvaṃ varuṇa paśyasi ‖*) (Ṛ. Saṃ. 1-50-6)
+
+and has given the etymology of the word bhuraṇyu as above. So in this cited Ṛk too it is natural that the word भुरण्यंतं (*bhuraṇyaṃtaṃ*) has the sense of motion. Durgācārya in his commentary explains the word as क्षिप्रं गच्छंतं (*kṣipraṃ gacchaṃtaṃ*) with पुण्यकृतो जनाननुभुरण्यंतं पूर्वेषां पुण्यकृतां मार्गेण देवयानेन क्षिप्रं गच्छंतमनुपश्यसि (*puṇyakṛto janānanubhuraṇyaṃtaṃ pūrveṣāṃ puṇyakṛtāṃ mārgeṇa devayānena kṣipraṃ gacchaṃtamanupaśyasi*). This follows the view of the Nirukta author. But Sāyaṇa, in his commentary on the same Ṛk, gives this word the sense of holding or nourishing: भुरण्यंतं धारयंतं पोषयंतं ना इमं लोकं (*bhuraṇyaṃtaṃ dhārayaṃtaṃ poṣayaṃtaṃ nā imaṃ lokaṃ*). This meaning does not seem so fitting in that context. Since the word can also be formed from the root bhuraṇa (धारणपोषणयोः (*dhāraṇapoṣaṇayoḥ*)), which means holding and nourishing, the word is used in these senses as well. For example,
+
+यन्यासत्या भुरण्यथो यद्वा देव भिषज्यथः । अयं वां वत्सो मतिभिर्न विंधते हविष्मंतं हि गच्छथः ॥ (*yanyāsatyā bhuraṇyatho yadvā deva bhiṣajyathaḥ | ayaṃ vāṃ vatso matibhirna viṃdhate haviṣmaṃtaṃ hi gacchathaḥ ‖*) (Ṛ. Saṃ. 8-9-6)
+
+Here भुरण्यथः सर्वं जगत्सोपयथः (*bhuraṇyathaḥ sarvaṃ jagatsopayathaḥ*) — "you nourish the whole world" — is addressed to the Aśvin deities.
+
+युवोरत्रिश्चिकेतति नरा सुम्मेन चेतसा । घर्मं यद्वामरेपसं नासत्यास्ना भुरण्यति ॥ (*yuvoratriściketati narā summena cetasā | gharmaṃ yadvāmarepasaṃ nāsatyāsnā bhuraṇyati ‖*) (Ṛ. Saṃ. 5-73-6)
+
+In such Ṛks it is in the sense of motion, "has reached" (प्राप्तवान् (*prāptavān*)). In the present Ṛk too it has the sense of motion, and at the end of the quarter-verse it gives the purport: the mortal knows both of Viṣṇu's two strides (only the strides over earth and atmosphere).
+
+अभिख्याय (*abhikhyāya*) — The Nirukta author has included the word अभिख्या (*abhikhyā*) among the names for knowledge (Ni. 3-13). प्रख्याप्य (*prakhyāpya*) (by praise and the like) means "having made known", that is, having proclaimed so that it comes to the world's knowledge through praises and so on. The purport is that they make Viṣṇu's greatness famous.
+
+### Printed p. 619
+
+अभिख्या नो मघवन्नाधमानान्त्सखे बोधि वसुपते सखीनां । रणं कृधि रणकृत्सत्यशुष्माभक्ते चिदा भजा राये अस्मान् ॥ (*abhikhyā no maghavannādhamānāntsakhe bodhi vasupate sakhīnāṃ | raṇaṃ kṛdhi raṇakṛtsatyaśuṣmābhakte cidā bhajā rāye asmān ‖*) (Ṛ. Saṃ. 10-112-10)
+
+In such Ṛks, अभिख्या अभिख्यापनेन प्रसिद्धान् कुरु (*abhikhyā abhikhyāpanena prasiddhān kuru*) gives the purport: "make our devotion and the like known to the whole world, by words of praise, and make our name famous." In the same way, in the present Ṛk too it means "to make manifest".
+
+वयश्चन (*vayaścana*) — गंतृत्वात् पक्षिसादृश्याद्वा मरुतोऽत्र वय उच्यंते । (*gaṃtṛtvāt pakṣisādṛśyādvā maruto 'tra vaya ucyaṃte |*) Because they are always moving about, and because they resemble birds, vayaḥ here means the Maruts. That this word has many meanings — food, strength, life-span, ray and so on — has been shown earlier with examples.
+
+##### Grammar
+
+- वर्धंति — वृधु वृद्धौ इति धातुः । हेतुमति च इति णिच् । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । णिजंतात् लट् प्रथमपुरुषबहुवचने झ प्रत्ययः । तस्य अंतादेशः शप् विकरणं । छंदस्युभयथा (पा. सू. ३-४-११७) इति तस्य अर्धधातुकसंज्ञात्वात् णेरनिटि (पा सू. ६-४-५१) इति णिचो लोपः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- महि — मह पूजायां धातुः । इन् सर्वधातुभ्यः इति इन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति ।
+- पौंस्यम् — पुंसः कर्म पौंस्यम् । प्यञ् प्रत्ययः । तद्धितेष्वचामादेः इति आदिवृद्धिः । इत्यादिर्नित्यम् इति इत्त्वात् आद्युदात्तस्वरो भवति ।
+- मातरा — मान पूजायां धातुः । नप्तनेष्टृ (उ. सू. २-२५२) इति तृजंतत्वेन निपातितं । तस्मात् द्विवचने परे सुपां सुलुक् (पा. सू. ७-१-३९) इति तस्य आकारादेशः । ऋतो जि सर्व इति गुणः । अप्‌तृन्‌तृच् सूत्रे नियमकरणात् उपधादीर्घो न भवति । चित्त्वात् अंतोदात्तस्वरो भवति ।
+- नयति — णीञ् प्रापणे धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । तिजंतत्वात् निघातस्वरो भवति ।
+
+### Printed p. 620
+
+- भुजे — भुज पालनाभ्यवहारयोः धातुः । क्विप् च इति क्विप् प्रत्ययः । चतुर्थ्येकवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+- दधाति — डुधाण् धारणपोषणयोः धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । पादादित्वात् निघातस्वरो न भवति । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरो भवति ।
+- पुत्रः — पूञ् पवने धातुः । पुवोह्रस्वश्च (उ. सू. ४-९०४) इति क्र प्रत्ययः । कित्त्वात् गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- तृतीयम् — त्रेः संप्रसारणं च (पा. सू. ५-२-५५) इति तीय प्रत्ययः । संप्रसारणं ऋकारो भवति । प्रत्ययस्याद्युदात्तस्वरेण ईकार उदात्तो भवति ।
+- रोचने — रुच दीप्तौ धातुः । तस्मात् युच् प्रत्यये आगते युवोरनाकौ (पा. सू. ७-१-१) इति तस्य अनादेशः । चित्त्वात् चितः इति अंतोदात्तस्वरो भवति ।
+- दिवः — ऊडिदं पदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्त॒दिद॑स्य॒ पौंस्यं॑ गृणीमसी॒नस्य॑ त्रा॒तुर॑वृ॒कस्य॑ मा॒ळ्हुषः॑ ।  
+> यः पार्थि॑वानि त्रि॒भिरिद्विगा॑मभिरु॒रु क्रमि॑ष्टोरुगा॒याय॑  ॒॑
+> जीवसे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत्त्वातत् । इत् । अस्य । पौंस्यं । गृणीमसि । इनस्य । त्रातुः । अवृकस्य । माळ्पुषः ।  
+> यः । पार्थिवानि । त्रिभिः । इत् । विगामभिः । उरु । क्रमिष्ट । उरुगायाय ।  
+> जीवसे ॥ ४ ॥
+
+### Printed p. 621
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य महानुभावस्य तत्तत्पांस्यं पुंस्त्वं पराक्रमातिशयं गृणीमसि ।
+> गृणीमः । स्तुमः । कीदृशस्यास्य । इनस्य सर्वस्य स्वामिनः त्रातुः पालकस्य अवृकस्य ।
+> वृको हिंसकः शत्र्वादिः । तद्रहितस्य माळ्पुषः सेक्तुर्नित्यतरुणस्य । स्तुत्येषु
+> पराक्रमेषु मध्य एकमुदाहरति । यो विष्णुः पार्थिवानि पृथिव्यादीनि प्रथनवंति
+> वा । सामर्थ्यात् रजांसीति गम्यते । लोकत्रयस्यापि पृथिवीशब्दवाच्यत्वं पूर्व
+> मुदाहृतं । तानित्रिभिरिद्विगामभिस्त्रिभिरेव विविधगमनैरुरु विस्तीर्णं यथा भवति
+> तथा क्रमिष्ट क्रांतवान् । विचक्रम इत्यर्थः । उरुगायायोरुगातव्याय जीवसे
+> लोकत्रयरक्षणाय । यद्वा । उरुगायाय ॥ षष्ठ्यर्थे चतुर्थी ॥ उरुगायस्य
+> विष्णोरीदृशं पराक्रमं । गृणीमसि । किमर्थं । जीवसे जीवनाय रक्षणाय ॥
+
+##### Gist of the bhāṣya
+
+We praise the manliness (पौंस्यं (*pauṃsyaṃ*)), the surpassing valour, of each kind belonging to this great-souled one. Of what sort is he? He is इनस्य (*inasya*), lord of all; त्रातुः (*trātuḥ*), protector; अवृकस्य (*avṛkasya*) — vṛka is a harmful one such as an enemy, so, free of such; माळ्पुषः (*māḷpuṣaḥ*), the sprinkler (of seed), ever young. Among the praiseworthy exploits he cites one in particular: Viṣṇu, who with three strides in different directions strode over the पार्थिवानि (*pārthivāni*) — the earthly ones, earth and the rest, or the wide-extended ones; by implication "realms" (रजांसीति (*rajāṃsīti*)) is understood. That all three worlds are denoted by the word "earth" was cited earlier. He strode over them in such a way that it became vast (उरु (*uru*)); that is, he took his strides. उरुगायाय (*urugāyāya*) means "to be sung widely"; जीवसे (*jīvase*) means for the protection of the three worlds. Or else: in उरुगायाय (*urugāyāya*) the dative stands in the sense of the genitive: we praise such a valorous deed of Viṣṇu, the widely-praised one. For what purpose? जीवसे (*jīvase*): for life, for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इनस्य (*inasya*)—(of the whole universe) the lord
+- त्रातुः (*trātuḥ*)—the protector
+- अवृकस्य (*avṛkasya*)—the non-harming one
+- माळ्हुषः (*māḷhuṣaḥ*)—the one most abounding in power to shower down (desired things)
+- (and) यः (*yaḥ*)—who
+- पार्थिवानि (*pārthivāni*)—the three worlds, earth and the rest
+- त्रिभिरिद्विगामभिः (*tribhiridvigāmabhiḥ*)—by a movement made in just three ways of going, in various fashions (with three feet)
+- उरु (*uru*)—so as to become very wide
+- क्रमिष्ठ (*kramiṣṭha*)—strode over; he
+- उरुगायाय (*urugāyāya*)—the one praised by many
+- अस्य (*asya*)—of this great-souled Viṣṇu
+- तत्तदित् पौंस्यं (*tattadit pauṃsyaṃ*)—those very various manly valorous deeds
+- (उरुगायाय (*urugāyāya*)—who is praised in many ways)
+- जीवसे (*jīvase*)—for the protection (of the three worlds)
+- गृणीमसि (*gṛṇīmasi*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We praise, for the protection of the three worlds, the respective manly valorous deeds of Viṣṇu — lord of the whole universe, protector, non-harming, a youth most abounding in strength, who by moving with just three strides strode over the three worlds, earth and the rest, so that they became exceedingly wide, and who is praised by many.
+
+##### Printed English
+
+Therefore, verily, we celebrate the manhood of that lord (of all), the preserver, the innocuous, the vigorous, who traversed the three regions with three wide steps, in different directions, for the many-praised (preservation of) existence.
+
+### Printed p. 622
+
+##### विशेषविषयगळु (Special Topics)
+
+इनस्य (*inasya*) — The Nirukta author has included इनः (*inaḥ*) among the names of the lord (īśvara) and given the etymology of the word: इन इत्येतत् सनित ऐश्वर्येणेति वा सनितमनेनैश्वर्यमिति वा । (*ina ityetat sanita aiśvaryeṇeti vā sanitamanenaiśvaryamiti vā |*) (Ni. 3-11). That is, one filled with lordship, or one who fills others with lordship; therefore the lord (the master) is called inaḥ. This epithet is fitting for Viṣṇu, because by his all-pervading form he has encompassed the whole universe and is lord of all, and because he himself is the cause of the growth of the universe's prosperity.
+
+अवृकस्य (*avṛkasya*) — वृकः हिंसकः शत्र्वादिः । तद्रहितस्य । (*vṛkaḥ hiṃsakaḥ śatrvādiḥ | tadrahitasya |*) It is explained as "non-harming, not a foe". The Nirukta author cites the Ṛk
+
+उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । असुं य ईयुरवृका ऋतज्ञास्ते नोऽवंतु पितरो हवेषु ॥ (*udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyuravṛkā ṛtajñāste no 'vaṃtu pitaro haveṣu ‖*) (Ṛ. Saṃ. 10-15-1)
+
+and there explains the word avṛka as अनमित्राः (*anamitrāḥ*), "those who are not enemies". Just so Sāyaṇa too, wherever the word avṛka occurs, explains it as अनमित्रः (*anamitraḥ*), अहिंसकः (*ahiṃsakaḥ*). Here there is the positive sense "protector" and the negative sense "not a harmer".
+
+मीळ्हुषः (*mīḷhuṣaḥ*) — This word is formed from the root mih, meaning "to sprinkle". Its basic sense can be seen in the sentence यन्मेहति तद्वर्षति (*yanmehati tadvarṣati*) (Bṛ. U. 1-1-1).
+
+वाजयन्निव नू रथान्योगा आग्नेरुप स्तुहि । यशस्समस्य मीळ्हुषः ॥ (*vājayanniva nū rathānyogā āgnerupa stuhi | yaśassamasya mīḷhuṣaḥ ‖*) (Ṛ. Saṃ. 2-8-1)
+
+In all such Ṛks it means फलस्य सेक्तुः (*phalasya sektuḥ*), "one who showers down the desired things". In the present Ṛk it is explained as "one with the capacity to sprinkle (seed) at all times": सेक्तुः नित्यतरुणस्य । (*sektuḥ nityataruṇasya |*) The purport is: one who always possesses youth. The word is used in many places as an epithet of Agni and other deities as well, in the sense "of exceedingly generous nature". The word वीळ्हुं (*vīḷhuṃ*), formed from this same root, has been included among the names of wealth (Ni. 3-9), and the word मीळ्वे (*mīḷve*) among the names of battle (Ni. 3-9). Their particular meanings will be explained in their own contexts.
+
+पार्थिवानि (*pārthivāni*) — पृथिव्यादीनि प्रथनवंति ना । (*pṛthivyādīni prathanavaṃti nā |*) That is, the three worlds, earth and the rest, which are extended very widely. लोकत्रयस्यापि पृधिवीशब्दवाच्यत्वं पूर्व- (*lokatrayasyāpi pṛdhivīśabdavācyatvaṃ pūrva-*)
+
+### Printed p. 623
+
+मुदाहृतं । (*mudāhṛtaṃ |*) That the three worlds are denoted by the word "earth" has been shown earlier with examples (in this same volume, in the Special Topics of Ṛk 1-154-1). Even these three worlds,
+
+त्रिभिरिद्विगामभिः उरु क्रमिष्ट (*tribhiridvigāmabhiḥ uru kramiṣṭa*) — he made still more exceedingly wide by his goings in his various forms; and he himself pervaded and strode over them all: उरु विस्तीर्णं भवति यथा तथा क्रांतवान् । (*uru vistīrṇaṃ bhavati yathā tathā krāṃtavān |*) For the fact that Viṣṇu, by his power of pervasion, made the atmosphere and the other regions greatly extended, the authors of the Bṛhaddevatā tell a story on the basis of the Ṛk Saṃhitā.
+
+सखे विष्णो वितरं वि क्रमस्व द्यौर्देहि लोकं वज्राय विष्कभे । हनाव वृत्रं रिणचाव सिंधूनिंद्रस्य यंतु प्रसवे विसृष्टाः ॥ ( (*sakhe viṣṇo vitaraṃ vi kramasva dyaurdehi lokaṃ vajrāya viṣkabhe | hanāva vṛtraṃ riṇacāva siṃdhūniṃdrasya yaṃtu prasave visṛṣṭāḥ ‖ (*) (Ṛ. Saṃ. 8-100-12)
+
+In this Ṛk, at the time of the slaying of the demon Vṛtra, Vṛtra had grown exceedingly vast, and when Indra's strength did not suffice to hurl the thunderbolt at him, Indra prays to Viṣṇu and to the atmosphere to expand widely and help him in slaying Vṛtra. On the basis of this Ṛk the Bṛhaddevatā story is as follows.
+
+त्रीन् लोकानभितप्येमान् वृत्रस्तस्थौ स्वया त्विषा । तं नाशकद्धंतुमिंद्रो विष्णुमभ्येत्य सोऽब्रवीत् ॥ (*trīn lokānabhitapyemān vṛtrastasthau svayā tviṣā | taṃ nāśakaddhaṃtumiṃdro viṣṇumabhyetya so 'bravīt ‖*)
+वृत्रं हनिष्ये तिष्ठस्व विक्रम्याद्य ममांतिके । उद्यतस्यैव वज्रस्य द्यौर्ददातु ममांतरं ॥ (*vṛtraṃ haniṣye tiṣṭhasva vikramyādya mamāṃtike | udyatasyaiva vajrasya dyaurdadātu mamāṃtaraṃ ‖*)
+तथेति विष्णुस्तच्चक्रे द्यौश्चास्य विवरं ददौ ॥ (*tatheti viṣṇustaccakre dyauścāsya vivaraṃ dadau ‖*)
+(Bṛ. De. 6-121 to 124)
+
+Vṛtra, the harmer of all three worlds, stood grown by his distorted and harmful pervasion. Indra could not check him. Then Indra approached Viṣṇu, explained his situation and prayed: "I have to slay Vṛtra; grow vast and help me in that task. May the atmosphere too expand and be favourable for the hurling of my thunderbolt." Viṣṇu consented and grew accordingly. The atmosphere too made the space Indra needed. The same point is indicated in another place in the Ṛk Saṃhitā.
+
+उत माता महिषमन्ववेनदमी त्वा जहति पुत्र देवाः । अथाब्रवीद्वृत्रमिंद्रो हनिष्यन्सखे विष्णो वितरं वि क्रमस्व ॥ (*uta mātā mahiṣamanvavenadamī tvā jahati putra devāḥ | athābravīdvṛtramiṃdro haniṣyansakhe viṣṇo vitaraṃ vi kramasva ‖*) (Ṛ. Saṃ. 4-18-11)
+
 ---
 
-**Progress note:** Done through printed p. 617. pp. 612-617 (batch API)
+**Progress note:** Done through printed p. 623. pp. 618-623 (batch API)
