@@ -1346,7 +1346,7 @@ here वर्तिः (*vartiḥ*) is explained as मार्गं (*mārga
 > अता॑रिष्म॒ तम॑सस्पा॒रम॒स्य प्रति॑ वां॒ स्तोमो॑ अश्विनावधायि ।
 > एह या॑तं प॒थिभि॑र्देव॒यानै॑र्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ६ ॥
 
-*[As supplied, the label line of the Pada reads ⟦⟧ inside the Saṃhitā block; the last word of the Saṃhitā, split by a hyphen at the end of a line, has been joined.]*
+*[As supplied, the label line of the Pada reads "ದಡಪಾಠಿ" inside the Saṃhitā block; the last word of the Saṃhitā, split by a hyphen at the end of a line, has been joined.]*
 
 **॥ पदपाठः ॥**
 
@@ -2173,7 +2173,7 @@ in Brāhmaṇa sentences like this too, the epithet "having the gods as sons" fo
 
 #### Ṛk 5
 
-*[As supplied, the label line of the Saṃhitā reads शंखशापाकि]* (*śaṃkhaśāpāki]**), of the Pada ⟦⟧ (with a lone danda line after the second part of the Pada), and of the bhāṣya ⟦⟧; standard labels inserted. The Saṃhitā and Pada words जामिा (*jāmiā*) and the Pada's final word are printed as supplied.]*
+*[As supplied, the label line of the Saṃhitā reads "ಶಂಖಶಾಪಾಕಿ", of the Pada "ದಡಪಾಠಿ" (with a lone danda line after the second part of the Pada), and of the bhāṣya "ಹಾಯಣಭಾಷ್ಯಂ"; standard labels inserted. The Saṃhitā and Pada words जामिा (*jāmiā*) and the Pada's final word are printed as supplied.]*
 
 **॥ संहितापाठः ॥**
 
@@ -2509,7 +2509,7 @@ says भुवनस्य भूतजातस्य नाभिः संन
 
 उर्वी (*urvī*) — very extensive. सद्मनी (*sadmanī*) — the support of everything. बृहती (*bṛhatī*) — mighty. जनित्री (*janitrī*) — mothers (of rain and plants). ये (*ye*) — who सु प्रतीके (*su pratīke*) — having a beautiful form, अमृतं (*amṛtaṃ*) — the rain-water equal to ambrosia, दधाते (*dadhāte*) — have held (such Heaven and Earth). देवानां (*devānāṃ*) — of the gods (and men). अवसा (*avasā*) — causing satisfaction. ऋतेन (*ṛtena*) — as the occasion of the sacrifice. हुवे (*huve*) — I call, with praise. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. अभ्वात् (*abhvāt*) — from great fear. नः (*naḥ*) — us. रक्षतं (*rakṣataṃ*) — protect.
 
-*[As supplied, the label line of the next section reads ⟦⟧; standard label inserted.]*
+*[As supplied, the label line of the next section reads "ಧನಾರ್ಥ"; standard label inserted.]*
 
 **भावार्थ (Bhāvārtha)**
 
@@ -2519,7 +2519,7 @@ I invoke with praise, as the occasion of the sacrifice that causes the satisfact
 
 I Invoke to the sacrifice, for the preservation of gods (and men), the two vast, all supporting, and mighty parents (of the rain and corn); who, beautiful in form, sustain ambrosial (showers); defend us, Heaven and Earth, from great danger.
 
-*[As supplied, the label line of the next section reads ⟦⟧; standard label inserted.]*
+*[As supplied, the label line of the next section reads "ವಿಶೇಷ್ಟಯಗಳು"; standard label inserted.]*
 
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 
@@ -17140,8 +17140,6 @@ This sūkta जोहूत्रः (जोहूत्रः (*johūtraḥ*)) 
 ### Printed p. 562
 
 *Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 10, p. 562.*
-
-## Sūkta 10 (Maṇḍala 2)
 
 **Heading of the sūkta (as supplied)**
 

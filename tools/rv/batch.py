@@ -368,7 +368,9 @@ def audit(cfg,expect_clean=True):
     if set(pe)!=set(pk): pr.append(f'page marks differ between the files: only English {sorted(set(pe)-set(pk))[:8]}, only Kannada {sorted(set(pk)-set(pe))[:8]}')
     if pe and max(pe)!=dp: pr.append(f'progress note says p. {dp} but the last page heading is p. {max(pe)}')
     q=lambda t:t.count('[?]')-t.count('`[?]`')
-    if q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
+    if cfg.d.get('doubt_check')=='kn_le_en':      # Vol 14 (older remark style): the English remarks may repeat or add a mark; every Kannada mark must have an English one
+        if q(kn)>q(en): pr.append(f"more [?] in the Kannada file than in the English: English {q(en)}, Kannada {q(kn)}")
+    elif q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0
         if en.count('**NOTE**')!=rows: pr.append(f"{en.count('**NOTE**')} **NOTE** marks in the English file but {rows} rows in review/notes.tsv")

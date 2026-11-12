@@ -1,2 +1,3 @@
 2026-11-12: doubt-mark triage in vol14 English pp. 2-498 (431 -> 22), see vol14/review/html2-498/dispatcher_notes.md
 2026-11-12: vol14 Kannada text pp. 2-498 [?] triage 211 -> 15 (see dispatcher_notes.md)
+2026-11-12: audit fixes (vol14): (1) Kannada text: added 14 missing `<!-- printed N -->` markers (pp. 98, 124, 160, 171, 178, 184, 238, 244, 257, 284, 312, 329, 354, 365) before the existing page-break remarks; (2) English: removed the duplicate `## Sūkta 10 (Maṇḍala 2)` heading before p. 562; (3) English: four empty ⟦⟧ in label remarks (pp. 44, 74, 84) replaced by the supplied Kannada labels from kn text; (4) tools/rv/batch.py audit: `doubt_check: kn_le_en` in vol14/volcfg.json (English remarks repeat marks, so only "more in Kannada than English" fails).
