@@ -251,6 +251,7 @@ def apply_answer(w, text):
     en, soft = soften(m.group(1).strip() + '\n', kn, w)
     en = wrap_bare_kannada(en)
     en = join_split_entries(en)
+    en = re.sub(r' ?\[(?:as printed|as supplied)\]', '', en)   # a translator remark the rules forbid (Vol 11 w0229, w0424)
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)

@@ -15,3 +15,4 @@
 - w0356: sūtra number printed ೬-೧ / ೧೬೩ across a line break (hyphen missing); model wrote ೬-೧-೧೬೩: kept with a NOTE.
 - Tool (Nov 12 2026, after w0281/w0356/w0405): `batch.py check` accepts a reference whose hyphen the print lost at a space or line break (the Kannada twin is loosened the same way); w0405 passed without a NOTE.
 - w0424: remark "[as printed]" removed; the shared tool now strips "[as printed]"/"[as supplied]" before the gates.
+- w0493 (p. 493): the Saṃhitā verse of Ṛk 4 runs across the page break (pp. 492/493); the window repeated `#### Ṛk 4` and the Saṃhitā label for the second half. The duplicate heading and label removed from the English volume file (the verse text is unchanged).

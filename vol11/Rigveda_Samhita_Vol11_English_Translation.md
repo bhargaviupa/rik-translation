@@ -12001,9 +12001,6 @@ In such places, where a distinction is shown between human beings and the subjec
 > षथो बृ॒हत् ।
 
 ### Printed p. 493
-#### Ṛk 4
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > यु॒वं दि॒वो बृ॑ह॒तो दक्ष॑मा॒भुवं॒ गां न धु॒र्युप॑  ॒
 > युंजाथे अपः ॥ ४ ॥
