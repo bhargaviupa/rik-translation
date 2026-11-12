@@ -231,6 +231,169 @@ The gods said to Mitra, "Let us slay Soma, the king." Mitra said that he was a f
 > सु॒तो मि॒त्राय॒ वरु॑णाय पी॒तये॒ चारु॑र्ऋ॒ताय॑  ॒॑
 > पीतये ॥ २ ॥
 
+### Printed p. 8
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । आ । यातं । इंदवः । सोमासः । दधिआशिरः । सुतासः । दधिआशिरः ।  
+> उत । वां । उषसः । बुधि । साकं । सूर्यस्य । रश्मिभिः ।  
+> सुतः । मित्राय । वरुणाय । पीतये । चारुः । ऋताय । पीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ आ यातं । आगच्छतं । यतो युष्मदर्थमिंदवः क्लेदनसमर्थाः सोमासः सोमा दध्याशिरो दध्याश्रयणवंतः संत इमे पुरतो ग्रहेण
+> गृहीता वर्तंते आत आ यातं ! किंच दध्याशिरो धीयमानाशिरः सोमाः सुतासो
+> मंत्रेण ग्रावभिरभिषुताः संपन्नाः । अत आ यातमिति शेषः । आदित्यग्रहे दध्यवनयसद्भावात्तदपेक्षया दध्याशिर इत्युक्तं । उतापि च नां युवयोः प्रीतये पालनायोषसो बुध्युषसः संबंधिनि बोधे सति ॥ संपदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वं ॥ प्रकाशे संजाते सति । न केवलमुषस एव बोधः अपि
+> तु सूर्यस्य रश्मिभिः साकं सूर्यकिरणैः सह प्रकाशे हविष्ट्रदानाय संजाते सति
+> सुतः सोमोऽभिषुतः । इदानीं वियुज्योच्यते । मित्राय सर्वहिताय्कॆतन्नामकायाहरभिमानिदेवाय तथा वरुणायावरकाय रात्र्यभिमानिदेवाय च तदर्थं
+> सोमः सुत इति शेषः । किंच ऋताय यज्ञाय तन्निर्वाहकाय तदर्थं पीतये
+> पानाय ! यज्ञसिद्ध्यर्थं हि देवानां सोमपानं । यद्वा॥ कर्तरि क्तिच् ॥ पीतये
+> पात्र ऋत्विगादये ऋताय यज्ञाय तन्निर्वाहकाय । चारुश्चरणीयो भक्षणीयः
+> सोमः सुतोऽभिषुतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Mitra and Varuṇa: "come." For you these Soma juices are ready, made to moisten and flowing, mixed with curds (दध्याशिरः (*dadhyāśiraḥ*), "having curd as their admixture") and held before you in the cup (graha); therefore come. The Soma juices are also pressed (सुतासः (*sutāsaḥ*)) with the pressing stones, to the accompaniment of the mantra. "Come" is to be supplied. The word "mixed with curds" is used with the Āditya-graha in view, where curds are added. "Also, for your protection, at the awakening of the dawn" (बुधि (*budhi*), the locative of बुध् (*budh*), awakening, belonging to the dawn), and not only at dawn's awakening but also "together with the rays of the sun", that is, when the light has appeared along with the sun's rays, for the giving of the oblation, the Soma is pressed. He then adds the connection: it is pressed for Mitra, the god presiding over the day, benevolent to all, and for Varuṇa, the "encloser", the god presiding over the night. "Pressed" is to be supplied. Further, for ऋताय (*ṛtāya*), that is, for the sacrifice, for its accomplishment, it is pressed for drinking (पीतये (*pītaye*)); for the gods' Soma-drinking is for the completion of the sacrifice. Or else, पीतये (*pītaye*) is taken as the agent form: for the one who drinks, the priest and the like, for the sacrifice, for its accomplishment. चारुः (*cāruḥ*) is that which is to be partaken of, the Soma that is pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदवः (*iṃdavaḥ*)—flowing
+- इमे सोमासः (*ime somāsaḥ*)—these Soma juices (O Mitra and Varuṇa)
+- दध्याशिरः (*dadhyāśiraḥ*)—mixed with curds (they are ready, and)
+- दध्याशिरः (*dadhyāśiraḥ*)—mixed with curds
+- सुतासः (*sutāsaḥ*)—pressed (with mantra) and made ready (therefore)
+- आ यातं (*ā yātaṃ*)—please come
+- उत (*uta*)—and
+- वां (*vāṃ*)—your (satisfaction)
+- उषसः बुधि (*uṣasaḥ budhi*)—as soon as the dawn is perceptible (whether prepared)
+- सूर्यस्य (*sūryasya*)—of the sun (as soon as it has risen)
+- रश्मिभिः साकं (*raśmibhiḥ sākaṃ*)—along with (its) rays
+- सुतः (*sutaḥ*)—or pressed (that)
+- चारुः (*cāruḥ*)—tasty
+- मित्राय (*mitrāya*)—for Mitra
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- पीतये (*pītaye*)—for drinking (and also)
+- ऋताय (*ṛtāya*)—for what is to be carried out as part of the conduct of the sacrifice
+- पीतये (*pītaye*)—for (those gods') drinking (it is pressed and made ready)
+
+### Printed p. 9
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, these flowing Soma juices have been pressed with mantras, mixed with curds, and made ready for your drinking. Therefore please come. For your satisfaction, whether prepared at the time of dawn itself, or prepared mixed with the sun's rays after sunrise, that juice, being tasty, has been pressed for the conduct of the sacrifice and for the drinking of Mitra and Varuṇa.
+
+##### Printed English
+
+Come, for these dripping Soma juices are mixed with curds; they are expressed and mixed with curds; whether they be prepared for you at the awaking of the dawn, or (be associated) with the rays of the sun: the juice is effused for Mitra and for Varuna, for their drinking the grateful (libation); for their drinking at the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंदवः (*iṃdavaḥ*)—उंदनशीलाः, सर्वं जगदमृतमयेन क्लेदयितारः । (*uṃdanaśīlāḥ, sarvaṃ jagadamṛtamayena kledayitāraḥ |*) The meaning is: Soma juices that satisfy the whole world, that is, gods, men and the rest, with the juice that is of the nature of nectar.
+दध्याशिरः (*dadhyāśiraḥ*)—दधाश्रयणवंतः । (*dadhāśrayaṇavaṃtaḥ |*) Soma juice mixed with curds. The matter of दध्याशिर (*dadhyāśira*) has also been explained in detail in the Ṛgveda Saṃhitā, Part 1, page 676, and Part 2, pages 172 to 174.
+ऋताय (*ṛtāya*)—Here the word ऋत (*ṛta*) means sacrifice. ऋताय (*ṛtāya*) means यज्ञाय (*yajñāya*) and पीतये (*pītaye*) means तन्निर्वाहकाय पानाय । (*tannirvāhakāya pānāya |*): the prayer is that the Soma juice, which accomplishes the sacrifice, has been pressed and made ready for drinking, therefore come. The same prayer occurs in the Taittirīya Saṃhitā, which contains the Ṛk Saṃhitā verse Ṛ. Saṃ. 2-41-4, in the passage
+अयं नां मित्रावरुणा सुतस्सोम ऋतावृधा। (*ayaṃ nāṃ mitrāvaruṇā sutassoma ṛtāvṛdhā|*) ममेदिह श्रुतं ग्ं हवं । (*mamediha śrutaṃ gṃ havaṃ |*)
+उपयाम गृहीतोऽसि मित्रावरुणाभ्यां त्वैष ते योनिर्यतायुभ्यां त्वा । (*upayāma gṛhīto 'si mitrāvaruṇābhyāṃ tvaiṣa te yoniryatāyubhyāṃ tvā |*) (Tai. Saṃ. 1-4-5)
+and there too the commentary explains the word ऋतायुभ्यां (*ṛtāyubhyāṃ*) as ऋतं सत्यं यज्ञं वा आत्मन यजमानानां ना इच्छतीति ऋतायुः । (*ṛtaṃ satyaṃ yajñaṃ vā ātmana yajamānānāṃ nā icchatīti ṛtāyuḥ |*), that is, one who desires the sacrifice to be an accessory, whether for himself or for the sacrificers; hence "Ṛtāyu".
+
+### Printed p. 10
+
+##### Grammar
+
+- इंदवः — उंदी क्लेदने धातुः । उंदेरिच्चादेः (उ. सू. १-१२) इति उन् प्रत्ययः । तेन सह धातोरादेरित्वं । उनत्ति इति इंदुः । इत्यादिर्नित्यम् (पा. सू. ६-१-१९७) इति आद्युदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपं ।
+- दध्याशिरः — दधाति पुष्णाति इति दधि । डुधाण् धारणपोषणयोः धातुः । आदृगमहनजनः किकिनौलिट् च (पा. सू. ३-२-१७१) इति अस्मात् किन् प्रत्ययः । लिड्वद्भावात् धातोर्द्वित्वं । कित्त्वाद् आतो लोप इट च (पा. सू. ६-४-६४) इति आकारलोपः । नित्त्वाद् आद्युदात्तस्वरो भवति । शृ हिंसायां धातुः । शृणाति हिनस्ति सोमे अवनीयमानं सत् सोमस्य स्वाभाविकं रसम् ऋजीषत्वप्रयुक्तं नीरसं दोषं वा इति आशीः । अस्मात् धातोः क्विप् च (पा सू. ३-२-७६) इति क्विप् । ऋत इद्दातोः (पा. सू. ७-१-१००) इति धातोरित्वं । उरणपरः इति रपरत्वेन भवति । दध्येव आशीः येषां सोमानां ते दध्याशिरः । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- सुतासः — षुञ् अभिषवे धातुः । कर्मणि निष्ठा (पा. सू. ३-२-१०२) इति क्त प्रत्ययः । धात्वादेः सत्वं । प्रत्ययस्वरेण अंतोदात्तो भवति । अस्मात् जस् परे अज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुकागमः ।
+- बुधि — बुध अवगमने धातुः । संपदादिषु अंतर्भूतत्वात् संपदादिभ्यः क्विप् (पा. सू ३-३-१०८) इति भावार्थे क्विप् । बुध् शब्दो भवति । सप्तमीएकवचनांतरूपं । एकाचत्वात् सावेकाचस्तृतीयादिः (पा सू ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+- सूर्यस्य — सृ गतौ धातुः । राजसूयसूर्य— (पा. सू. ३-१-११४) इति क्यबंतत्वेन निपातितः । षष्ठीएकवचनांतरूपं । प्रत्ययस्य पित्त्वाद् अनुदात्तत्वं भवति ।
+- पीतये — पा पाने अथवा रक्षणे धातुः । अस्मात् स्थागापापचो भावे (पा. सू. ३-३-९५) इति भावार्थे क्तिन् प्रत्ययः । कित्त्वाद् एतस्मिन् परे घुमास्था— (पा. सू. ६-४-६६) इति धातोरीत्वं । प्रत्ययस्य नित्त्वेऽपि व्यत्ययेन अंतोदात्तो भवति । अथवा उत्तरसूत्रे उक्तस्य उदात्तस्य अत्रापि अनुकर्षणेन सिद्धं भवति । अथवा कर्तरि क्तिच्क्तौच संज्ञायाम् (पा. सू. ३-३-१७४) इति क्तिच् प्रत्ययः । चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । चतुर्थीएकवचनांतरूपं ।
+
+### Printed p. 11
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां वां॑ धे॒नुं न वा॑स॒रीमं॒शुं दु॑हं॒त्यद्रि॑भिः॒ सोमं॑  ॒॑
+> दुहंत्यद्रिभिः ।  
+> अ॒स्म॒त्रा गं॑त॒मुप॑ नो॒ 5 र्वांचा॒ सोम॑पीतये ।  
+> अ॒यं वां॑ मित्रावरुणा॒ नृभिः॑ सु॒तः सोम॒ आ पी॒तये॑  ॒
+> सुतः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । वां । धेनुं । न । वासरीं । अंशुं । महंति । अद्रिभिः । सोमं ।  
+> महंति । अद्रिभि. ।  
+> अस्मत्रा । गंतं । उप । नः । अर्वांचा । सोमपितये ।  
+> अयं । वां । मित्रावरुणा । नृभिः । सुतः । सोमः । आ । पीतये ।  
+> सुतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वां युवयोः संबंधिनमंशुं वल्लीरूपं सोमं महंति । संपादयंत्यध्वर्यवः ' किमिव । तां प्रसिद्धामग्निहोत्राद्यर्थां वासरीं सर्वांगाच्चादितपयस्कां।
+> बहुक्षीरामित्यर्थः । यद्वा । पयआदिनाच्छादयित्रिं ॥ वस आच्छादने । औणादिकोऽरिप्रत्ययः । कृदिकारादक्तिन इति जीष् । यद्वा । केवल औणादिकोऽरप्रत्ययः ।
+> स्वार्थिकोऽण् ॥ धेनुं न प्रीणयित्रीं गामिव । केन साधनेनेति तदाह । अद्रिभिरभिषवसाधनैर्ग्रावभिः । किंचाद्रिभिस्तैरेव साधनैः सोमं युष्मदर्थमेव दुहंति ।
+> नल्लिरूपं सोमं युष्मदर्थमेवोदकेनाप्लाव्य रसं दुहंति । किंचार्वांचास्मदभिमुखौ संतौ सोमपीतये सोमपानायास्मत्रास्मत्तातारौ युवां नोऽस्मदीयं यज्ञमुप गंतं । उपागच्छतं । किंच वां युष्मदर्थमयं सोमो
+> नृभिर्नेतृभिर्यज्ञनिर्वाहकैर्ऋत्विग्निः सुतः । अभिषुतः । किंचा पीतये संपूर्णपानाय सुतः । अत आगच्छतमित्तर्थः ॥
+
+##### Gist of the bhāṣya
+
+वां (*vāṃ*) means "belonging to you two". The adhvaryus prepare the Soma, which is the अंशु (*aṃśu*), of the form of a creeper. **NOTE**. "Like what?" Like that well-known वासरी (*vāsarī*) (cow) meant for the Agnihotra and the rest, whose milk is covered over every limb, that is, which has abundant milk. Or else, वासरी (*vāsarī*) is one who covers over with milk and the like: from the root वस (*vasa*) in the sense of covering, with the Uṇādi affix अरि (*ari*), and, because it ends in a kṛt-ending i other than ktin, the feminine suffix जीष् (*jīṣ*). Or else, simply the Uṇādi affix अर (*ara*), with अण् (*aṇ*) added in the same sense. धेनुं न (*dhenuṃ na*) means "like a cow, which gratifies". "By what means?" He says: "with the stones" (अद्रिभिः (*adribhiḥ*)), the pressing implements. And further, with those very implements, they milk the Soma for you alone. They milk out the juice, drenching with water the Soma of creeper form, for you alone. Further, अर्वांचा (*arvāṃcā*): "facing us"; for the drinking of Soma, you two, our protectors (अस्मत्रा (*asmatrā*), "those who protect us"), come (गंतं (*gaṃtaṃ*)) to our (नः (*naḥ*)) sacrifice (उप (*upa*)). Further, this Soma has been pressed for you by the leaders (नृभिः (*nṛbhiḥ*)), the priests who carry the sacrifice through. Further, आ पीतये (*ā pītaye*): it has been pressed for complete drinking. Therefore come; that is the meaning.
+
+### Printed p. 12
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वासरीं (*vāsarīṃ*)—filled completely with milk
+- धेनुं न (*dhenuṃ na*)—as one milks a cow
+- वां (*vāṃ*)—belonging to you (for you)
+- तां अंशुं (*tāṃ aṃśuṃ*)—that Soma creeper
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- दुहंति (*duhaṃti*)—(the adhvaryus) press and milk (the juice) (and)
+- अद्रिभिः (*adribhiḥ*)—with those same pressing stones
+- सोमं (*somaṃ*)—the Soma juice
+- दुहंति (*duhaṃti*)—they press (for your drinking) (therefore)
+- अर्वांचा (*arvāṃcā*)—facing (us)
+- सॊमेपीतये (*sòmepītaye*)—for the drinking of Soma juice
+- अस्मत्रा (*asmatrā*)—you two, who are our protectors
+- नः (*naḥ*)—to our (sacrifice)
+- उप गंतं (*upa gaṃtaṃ*)—kindly come
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- वां (*vāṃ*)—for you
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- नृभिः (*nṛbhiḥ*)—by the priests, the conductors of the sacrifice
+- सुतः (*sutaḥ*)—has been pressed
+- आ पीतये (*ā pītaye*)—for your complete drinking
+- सुतः (*sutaḥ*)—it has been pressed (therefore kindly come)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, as one milks a cow full of milk, the adhvaryus press for you the juicy Soma creeper with the pressing stones and milk out the juice. With those same crushing stones they press the Soma juice. Therefore, facing us, you two, who are our protectors, kindly come to our sacrifice to drink the Soma juice. O Mitra and Varuṇa, this Soma juice has been pressed for you by the priests. Come to drink it.
+
+##### Printed English
+
+They milk for you two with stones, that succulent creeper, like a productive milch cow ; they milk the Soma plant with stones ; come to us as our protectors; be present with us to drink Soma juice : this Soma juice has been effused, Mitra and Varuna, for you both ; effused for your drinking.
+
+##### विशेषविषयगळु (Special Topics)
+
+वासरीं (*vāsarīṃ*)—सर्वांगाच्छादितपयस्कां । बहुक्षीरामित्यर्थः । (*sarvāṃgācchāditapayaskāṃ | bahukṣīrāmityarthaḥ |*) Throughout the Veda this means one filled with milk (in the udder), that is, having abundant milk. It is an epithet of the cow.
+अंशुं (*aṃśuṃ*)—वल्लीरूपं सोमं । (*vallīrūpaṃ somaṃ |*) The word अंशु (*aṃśu*) has been explained as the Soma creeper, full of juice. The author of the Nirukta, giving an etymology of this word, says
+अंशुः शमष्टमात्रो भवति । अननाय शं भवतीति वा । (*aṃśuḥ śamaṣṭamātro bhavati | ananāya śaṃ bhavatīti vā |*) (Ni. 2-5)
+**NOTE**. "Therefore it is named अंशु (*aṃśu*)", he says, and
+
+### Printed p. 13
+cites the Ṛk
+ते सोमादो हरी इंद्रस्य निंसतेंशुं दुहंतो अध्यासते गवि । (*te somādo harī iṃdrasya niṃsateṃśuṃ duhaṃto adhyāsate gavi |*) (Ṛ. Saṃ. 10-94-9)
+Here the word अंशु (*aṃśu*) means Soma juice. Like him,
+पिपीळे अंशुर्मद्यो न सिंधुरा त्वा शमी शशमानस्य शक्तिः । (*pipīḷe aṃśurmadyo na siṃdhurā tvā śamī śaśamānasya śaktiḥ |*) (Ṛ. Saṃ. 4-22-8)
+असाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥ (*asāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*) (Ṛ. Saṃ. 9-62-4)
+and the like: in these Ṛks the meaning is everywhere Soma juice. But when the word अंशु (*aṃśu*) comes as an epithet of the word सोम (*soma*), it has to be taken as the crushed Soma stalk. For example,
+अतश्चिदिंद्रः सवसो वरीयान्यदीं सोमं पृणति मग्नो अंशुः ॥ (*ataścidiṃdraḥ savaso varīyānyadīṃ somaṃ pṛṇati magno aṃśuḥ ‖*) (Ṛ. Saṃ. 3-36-6)
+अंशुं महंति हस्तिनो भरित्रैर्मध्वः पुनंति धारया पवित्रैः । (*aṃśuṃ mahaṃti hastino bharitrairmadhvaḥ punaṃti dhārayā pavitraiḥ |*) (Ṛ. Saṃ. 3-36-7)
+and the like: in these Ṛks, because the word अंशु (*aṃśu*) is an epithet of the word सोम (*soma*), it denotes लताखंडरूपः अल्पः सोमः । (*latākhaṃḍarūpaḥ alpaḥ somaḥ |*), Soma in the form of a piece of the creeper and small, which states a reduced measure of Soma. अल्पतरोंशुभूतः सोमः वरीयांसमिंद्रं प्रीणयति । (*alpataroṃśubhūtaḥ somaḥ varīyāṃsamiṃdraṃ prīṇayati |*) means that although Indra has a mighty body, the small Soma gratifies him. Thus, although the principal meaning of the word अंशु (*aṃśu*) is Soma juice, in some places it also means the Soma creeper.
+अस्मत्र (*asmatra*)—"you who are our protectors": the protection given by Mitra and Varuṇa is praised. Just as epithets such as विश्वस्य भुवनस्य गोपाः (*viśvasya bhuvanasya gopāḥ*) (2-27-4, 1-62-9) describe the protection of the world that Mitra and Varuṇa carry out by day and night, so this epithet too states that aspect.
+
+##### Grammar
+
+- वासरीम् — वस आच्छादने धातुः । अस्मात् औणादिको अरि प्रत्ययः । व्यत्ययेन आदिवृद्धिः । अस्मात् स्त्रीत्वविवक्षायां कृदिकारादक्तिनः इति क्तिन्भिन्नेकारांतकृदंतत्वात् जीप् । अथवा औणादिक अर प्रत्ययः । प्रज्ञादिषु अंतर्भूतत्वात् प्रज्ञादिभ्यश्च (पा. सू. ५-४-३८) इति स्वार्थे अण् प्रत्ययः । तद्दितेष्टचामादेः (पा. सू. ७-२-११७) इति आदिवृद्धिः । तदा स्त्रीत्वे टिड्डाणञ् इति जीप् । यस्येतिच इति अकारलोपः । अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति जीवः उदात्तस्वरो भवति । द्वितीयाविकवचनांतरूपं ।
+
 ---
 
-**Progress note:** Done through printed p. 7. pp. 1-7 (batch API)
+**Progress note:** Done through printed p. 13. pp. 8-13 (batch API)
