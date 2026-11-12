@@ -5264,6 +5264,139 @@ explained it as मूढा वयं स्मोमूढस्त्वम�
 
 - सुद्योत्मा — द्युत दीप्तौ इति धातुः । अन्येभ्योऽपि दृश्यंते—(पा. सू. ३-२-७५) इति मनिन् प्रत्ययः । तं निमित्तीकृत्य पुगंतलघूपधस्य च—(पा. सू. ७-३-८६) इति धातोर्लघूपधस्य गुणः । क्रत्वादयश्च—(पा. सू. ६-२-११८) इति उत्तरपदाद्युदात्तस्वरो भवति ।
 
+### Printed p. 216
+
+##### Grammar
+
+- जीराश्वः — जीरः अश्वः यस्य सः जीराश्वः । जु इति सौत्रधातुः । जोरीच—(उ. सू. २-१८१) इति रक् प्रत्ययः । वृत्तिकाराणां मते ज्या धातो रक् प्रत्ययः । रकिज्यः संप्रसारणे जीरेति—(पा. सू. १-१-४-६) । बहुव्रीहौ प्रकृत्या पूर्वपदम्—(पा. सू. ६-२-२) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- मंद्रः — मदी हर्षे इति धातुः । स्थायितंचि वंचि—(उ सू. २-१७०) इति रक् प्रत्ययः । इदितोनुम् धातोः इति नुमागमः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- शृणवत् — श्रु श्रवणे इति धातुः । लेट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च लोपः—(पा. सू. ३-४-९७) इत्यंत्यस्य इकारस्य लोपः । लेटोडाटौ—(पा. सू. ३-४-९४) इति तस्य अडागमः । श्रुवः शृच—(पा. सू. ३-१-२४) इति धातोः शृ आदेशः, श्लुविकरणम् । ऋकारस्य परत्वात् णत्वम् । तस्य उकारस्य प्रत्ययनिमित्तेन गुणः । आवादेशः । शृणवत् इति रूपं भवति । अतिजंतस्य परत्वात् तिजंतनिघातस्वरो भवति ।
+- चंद्ररथः — पूर्ववत् बहुव्रीहिसमासः । पूर्वपदस्य रक् प्रत्ययांतत्वात् अंतोदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- नेषत् — नीञ् प्रापणे इति धातुः, लेट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च लोपः—(पा. सू. ३-४-९७) इत्यंत्येकारलोपः । लेटोऽडाटौ—(पा. सू. ३-४-९४)—इत्यडागमः । सिब्बहुलं लेटि—(पा. सू. ३-१-३४) इति सिप् । तं निमित्तीकृत्य सार्वधातुकार्थधातुकयोः इति धातोः इकः गुणः । आदेशप्रत्यययोः इति प्रत्ययसकारस्य षत्वम् । तिजंतनिघातस्वरो भवति ।
+- नेषतमैः — अतिशायने तमबिष्ठन्—इति तमप् प्रत्ययः पित्त्वात् अनुदात्तो भवति । तृतीयाबहुवचनांतरूपम् ।
+- सुवितम् — इण् गत् धातुः । तस्मात् कर्मणि क्त प्रत्ययः । तन्नादीनां छंदस्युपसंख्यानम्—इत्यत्र बहुलग्रहणात् उवजादेशः । गतिरनंतरः—(पा. सू. ६-२-४९) इति पूर्वपदप्रकृतिस्वरे प्राप्ते सूपमानात्‌क्तः—इत्युत्तरपदांतोदात्तस्वरो भवति । द्वितीयाविकवचनांतररूपम् । **NOTE**
+- वस्यः — यतोऽनावः—(पा. सू. ६-१-२१३) इत्याद्युदात्तस्वरो भवति ।
+
+### Printed p. 217
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ता॑व्य॒ग्निः शिमा॑वद्भिर॒र्कैः साम्रा॑ज्याय प्रत॒रं दधा॑नः ।  
+> अ॒मी च॒ ये म॒घवा॑नो व॒यं च॒ मिहं॒ न सूरो॒ अति॒  
+> निष्ट॑तन्युः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्तावि । अग्निः । शिमावत्भिः । अर्कैः । सांराज्याय । प्रतरं । वधानः ।  
+> अमी इति । च । ये । मघवानः । वयं । च । मिहं । न । सूरः । आति । निः । ततन्युः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः शिमावद्भिर्हविष्प्रदानादिकर्मवद्भिरर्कैरर्चनसाधनैर्मंत्रैरस्तावि।
+> स्तुतोऽस्माभिर्यजमानैः । शिमाति कर्मनाम शिमा शक्तिरिति तन्नामसु पाठात् ।
+> कीदृशोऽयं । साम्राज्याय साम्राज्यस्येति कर्मणि षष्ठिस्थाने चतुर्थि । सम्यग्राजमानत्वं प्रतरं प्रकृष्टतरमत्यर्थं दधानः ॥ अमु च च्छंदसीत्यमुप्रत्ययः ॥
+> किंचेममग्निममी च पुरोवर्तमाना ऋत्विजः पुत्रादयो ना ये वयं च पूर्वं
+> स्तोतृत्वेन प्रसिद्धा वयमप्यत्यर्थं निष्टतन्युः । शब्दयंतु ॥ निष्पूर्वः स्तनतिः शब्दकर्मा ॥ इतः परमप्यस्मत्पुत्रपौत्रादयो वयं चाग्निं स्तुम इत्यर्थः । तत्र
+> वृष्टांतः । मिहं न सूरः । मिहं मेहनशीलं मेघं यथा सूरः सूर्यॆ वृष्ट्यर्थं शब्दयति तद्वत् ॥ लिजि च्छांदसो विकरणस्य श्लु । अभिनिस: स्तनः शब्दसंज्ञायां ।
+> पा. ८-३-८६ । इति षत्वं ॥
+
+##### Gist of the bhāṣya
+
+This Agni has been praised, अस्तावि (*astāvi*), by us the sacrificers with hymns (अर्कैः (*arkaiḥ*), mantras that are the means of worship) belonging to those who perform rites such as offering the oblation; शिमा (*śimā*) is a word for "rite", since in the lists of such names the reading is "śimā, śaktiḥ". What is he like? He holds in a very high degree, प्रतरं (*prataraṃ*), brilliant splendour, shining well, for sovereignty; here the fourth case stands in the place of the sixth (साम्राज्यस्य (*sāmrājyasya*)). The suffix is अमु (*amu*) by the rule on the Veda.
+Further: these Ṛtvijs standing before us, and those sons and others, and we who are already famed as praisers, may all loudly sound his praise, निष्टतन्युः (*niṣṭatanyuḥ*) = शब्दयंतु (*śabdayaṃtu*); the root स्तनतिः (*stanatiḥ*) with निः (*niḥ*) means making sound. The sense is: henceforth also our sons, grandsons and we shall praise Agni. The illustration: मिहं न सूरः (*mihaṃ na sūraḥ*) — as the sun makes the rain-giving cloud sound for the sake of rain. The श्लु (*ślu*) in the verbal form is Vedic, and the cerebral ṣ comes by Pā. 8-3-86.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साम्राज्याय (*sāmrājyāya*)—for universal sovereignty
+- प्रतरं (*prataraṃ*)—the excellent fitness
+- दधानः (*dadhānaḥ*)—possessing
+- अग्निः (*agniḥ*)—Agni
+- शिमीवद्भिः (*śimīvadbhiḥ*)—by rites such as offering the oblation
+- अर्कैः (*arkaiḥ*)—by mantras fit for worship
+- आस्तावि (*āstāvi*)—has been praised (this Agni)
+- अमी च (*amī ca*)—and these Ṛtvijs before us, or our sons and others
+- मघवानः (*maghavānaḥ*)—wealthy (by Agni's favour)
+- ये वयं च (*ye vayaṃ ca*)—and we too who are devotees
+- सूरः (*sūraḥ*)—the sun
+- मिहं न (*mihaṃ na*)—as he makes the cloud thunder (for the sake of rain)
+- अति (*ati*)—with a very (deep) sound
+- निष्टतन्युः (*niṣṭatanyuḥ*)—we praise
+
+### Printed p. 218
+
+##### भावार्थ (Bhāvārtha)
+
+We have praised this Agni, who holds excellent fitness to be the sovereign lord, with rites such as offering the oblation and with mantras fit for worship. And again these Ṛtvijs standing before us, and we who have become wealthy by his favour, praise that Agni with a very deep sound, as the sun makes the cloud thunder for rain.
+
+##### Printed English
+
+Agni, possessing eminent (fitness) for supreme sovereignty, has been glorified by us with holy rites, and with hymns : Let all who are present, as well as we ourselves, enriched (by his favour), shout aloud (the praise of Agni), as (loudly as) the sun (causes) the rain-cloud (to thunder)
+
+##### विशेषविषयगळु (Special Topics)
+
+साम्राज्याय प्रतरं (*sāmrājyāya prataraṃ*)—साम्राज्यस्य प्रकृष्टतरमत्यर्थं दधानः (*sāmrājyasya prakṛṣṭataramatyarthaṃ dadhānaḥ*). The word that should stand in the sixth case, साम्राज्यस्य (*sāmrājyasya*), stands in the fourth case in its place. Agni is praised as holding the highest station of imperial rank.
+As described in Ṛks such as
+प्र सम्राजो असुरस्य प्रशस्तिं पुंसः कृष्णीनामनुमाद्यस्य । इंद्रस्येव प्र तवसस्कृतानि वंदे दारुं वंदमानो विवक्मि ॥ (*pra samrājo asurasya praśastiṃ puṃsaḥ kṛṣṇīnāmanumādyasya | iṃdrasyeva pra tavasaskṛtāni vaṃde dāruṃ vaṃdamāno vivakmi ‖*)
+(Ṛ. Saṃ. 7-6-1)
+and in Brāhmaṇa sentences such as
+अग्निर्ह दैवीनां विशां पुर एतेत्यग्निर्हि देवतानां मुखं । (*agnirha daivīnāṃ viśāṃ pura etetyagnirhi devatānāṃ mukhaṃ |*)
+(Śa. Brā. 3-7-3-10)
+the might of Agni, who is the sovereign above even the gods, is stated by the sentence साम्राज्याय प्रतरं (*sāmrājyāya prataraṃ*).
+शिमीवद्भिः (*śimīvadbhiḥ*)—शिमीति कर्मनाम । शिमी शक्तिः (*śimīti karmanāma | śimī śaktiḥ*) (Ni. 2-1) इति तन्नामसु पाठात् (*iti tannāmasu pāṭhāt*). हविष्पदानादि कर्मवद्भिः (*haviṣpadānādi karmavadbhiḥ*). Sāyaṇa has explained it as "by rites such as offering the oblation", on the strength of the Nirukta statement.
+अर्कैः (*arkaiḥ*)—अर्चनसाधनैर्मंत्रैः (*arcanasādhanairmaṃtraiḥ*). Here it is explained as "by mantras that are the means of worship".
+
+### Printed p. 219
+
+अर्को देवो भवति यदेनमर्चंति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्मा । (*arko devo bhavati yadenamarcaṃti | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimmā |*)
+(Ni. 5-4) **NOTE**
+The Nirukta authors give different meanings: arka is the god because he is the object of worship; arka is the mantra because it is the means of worship; arka is food because it gives vitality to beings; arka is the tree because it is pungent. Then, citing the Ṛk
+गायंति त्वा गायत्रिणोर्चंत्यर्कमर्किणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरे । (*gāyaṃti tvā gāyatriṇorcaṃtyarkamarkiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemire |*)
+(Ṛ. Saṃ. 1-10-1)
+they explain the nature of arka. The greatness of arka is praised in many places as exceedingly high. In the Aitareya Āraṇyaka:
+अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । ता नव भवंति नव कपालं शिरः । (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ | tā nava bhavaṃti nava kapālaṃ śiraḥ |*)
+(Ai. Ā. 1-4-1) **NOTE**
+Thus it is said that the nine Ṛks beginning with इंद्रमिद्गार्थिनो बृहदिंद्रमर्केभिरकिणः । (*iṃdramidgārthino bṛhadiṃdramarkebhirakiṇaḥ |*) (Ṛ. Saṃ. 1-7-1) are the arka mantras and are the head-like mantras; since the Gāyatrī is the chief principle and these mantras too are in the Gāyatrī form, the arka mantras hold a place more eminent than all other mantras.
+मिहं न (*mihaṃ na*)—मेहनशीलं मेघं यथा । (*mehanaśīlaṃ meghaṃ yathā |*) "Like the cloud that pours rain": the deep voice of praise of the sacrificer is compared to the thunder of the cloud.
+
+##### Grammar
+
+- अस्तावि — ष्टुञ स्तुतौ धातुः । कर्मणि लुज् । प्रथमपुरुषैकवचने तप्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति च्लेः चिणादेशः । अचोञ्चिति इति वृद्धिः । चिणोलुक् (पा. सू. ६-४-१०४) इति तशब्दस्य लुक् । अंगस्य अडागमः । पादादित्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तं पदं भवति ।
+
+### Printed p. 220
+
+##### Grammar
+
+- शिमावद्भिः — शिम्यः एषां संति इति शिमावंतः । तदस्यास्ति—इति मतुप् प्रत्ययः । छंदसीरः (पा. सू. ८-२-१५) इति मतुपो मकारस्य वत्वम् । इदं पित्त्वात् अनुदात्तं भवति ।
+- अर्कैः — अर्च पूजायां धातुः । कृदाधारार्चि—(उ. सू. २-३२०) इति क प्रत्ययः । बहुलग्रहणात् ककारस्य इत् संज्ञा न भवति । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- प्रतरम् — अतिशयार्थे तरप् प्रत्यये आगते अमुच च्छंदसि (पासू. ५-४-१२) इति तरस्य उपरि अमु प्रत्ययः । उकारस्य इत् संज्ञया लोपः । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- दधानः — डुधाञ् धारणपोषणयोः धातुः । लडर्थे कानच् प्रत्ययः । श्लु विकरणम् । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इत्याद्युदात्तस्वरो भवति ।
+- साम्राज्याय — सम्राजो भावः साम्राज्यम् । गुणवचनब्राह्मणादिभ्यः—(पा.सू. ५-१-१२४) इति ष्यञ् प्रत्ययः । इत्यादिर्नित्यम् इत्याद्युदात्तस्वरो भवति । षष्ठीस्थाने चतुर्थी आगता ।
+- मिहम् — मिह सेचने धातुः । मेहति सिंचति इति मिह् क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । द्वितीयैकवचनांतरूपम् ।
+- निष्ठतन्युः — निस् उपसर्गः । तन धातुः अत्र शब्दक्रियायां पठितः । लिज् प्रथमपुरुषबहुवचने झि प्रत्ययः । तस्य जुसादेशः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । श्लौ (पा. सू. ६-१-१०) इति धातोः द्वित्वम् । यासुट् परस्मै—इति प्रत्ययस्य यासुटागमः । लिजिः सलोपोनंत्यस्य इति सूत्रेण सकारलोपः । उस्यपदातांत् (पा. सू. ६-१-९९) इति पररूपम् । अभिनिसः स्तनः शब्दसंज्ञायाम् (पा. सू. ८-३-८६) इति षत्वं भवति । धातोः तिज्जतिजः इति निघातस्वरो भवति । ॥ १३ ॥ **NOTE**
+
+Here the 14th sūkta ends. **NOTE**
+
+### Printed p. 221
+
+## Sūkta 142 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्ध इति त्रयोदशर्चं तृतीयं सूक्तमानुष्टुभं । प्रथमायाः समिन्नामकोऽग्निर्देवता समिद्धोऽग्निः । द्वितीयादीनां तनूनपान्नराशंस इळो बर्हिर्देवीर्द्वार उषासानक्ता दैवा होतारौ प्रचेतसौ तिस्रो देव्यः सरस्वतीळाभारत्यस्त्वष्टा वनस्पतिः साहाक्रतिरित्येताः क्रमेण देवताः । अंत्याया इंद्रः । तिस्रो देव्य
+> इत्यस्य विवरणं सरस्वतीळाभारत्य इति । अत्रानुक्रमणिका । समिद्द आप्रिय आनुष्टुभमंतैंद्रीति ॥ अत्रेध्मनूनपादादिभिर्यज्ञावयवनाचिभिर्यज्ञ एवोच्यते । अतः
+> स एव देवतेतिकात्कृस्य मतं। अग्निरेव समिदादिभिरुच्यते। अतः स एव देवतेति शाकपूणेर्मतं। निरुक्ते किंदेवताः प्रयाजानुयाजा इति च्छंदोदेवता इत्यादिपक्षांतरं बहुधा प्रदर्श्य तवर्थे ब्राह्मणादि चोदादृत्य इतरे पक्षः अर्थवादा आग्नेया
+> एवेति सिद्धांतितं अथ किंदेवताः प्रयाजानुयाजा इत्यादिना। नि ८ २१॥ पशावंगिरोगोत्रोत्पन्नानामेतदाप्रीसूक्तं । एकादश प्रयाजा इति खंडे सूत्रितं । समिद्दो
+> अद्येति सर्वेषां यथऋषि ना । आ. ३-२ । इति । अत्र यथऋषिग्रहणात् ॥ आप्रीसूक्तानि त्रिविधानि । तत्र वासिष्ठात्रेयवाध्यश्वगार्त्समदानि चत्वारि नराशंसवंति ।
+> मैधातिथवैर्घतमसप्रैषिकाणि नराशंसतनूनपादुभयवंति । इतराणि तनूनपात्वंतीति । तत्रैतत्तूक्तं वैर्घतमसत्वामभयवत् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning समिद्ध (*samiddha*) has thirteen Ṛks, is the third sūkta (of this anuvāka), and is in the Anuṣṭubh metre. For the first Ṛk the deity is Agni named Samit, the kindled Agni. For the second and following Ṛks the deities in order are Tanūnapāt, Narāśaṃsa, Iḷa, Barhis, the Divine Doors, Dawn and Night, the two divine Hotṛs, the Prachetas, the three goddesses Sarasvatī, Iḷā and Bhāratī, Tvaṣṭṛ, Vanaspati, Svāhākṛti, in that order; for the last Indra. The phrase "three goddesses" is explained by सरस्वतीळाभारत्य (*sarasvatīḷābhāratya*). The Anukramaṇikā says: समिद्द आप्रिय आनुष्टुभमंतैंद्रीति (*samidda āpriya ānuṣṭubhamaṃtaiṃdrīti*) Here words such as Idhma and Tanūnapāt denote parts of the sacrifice, so the sacrifice itself is meant; hence the sacrifice is the deity: the view of Kātthakya. Agni alone is spoken of by words such as Samit; hence he alone is the deity: the view of Śākapūṇi. In the Nirukta, after showing in many ways the alternatives — "what deities? the Prayājas and Anuyājas", "the metres are the deities" and so on — and citing Brāhmaṇa and other texts for them, the conclusion is drawn that the other views are arthavādas and that the deities are Āgneya alone, beginning अथ किंदेवताः प्रयाजानुयाजा (*atha kiṃdevatāḥ prayājānuyājā*) (Ni. 8-21 **NOTE**). This Āprī sūkta belongs to those born in the Aṅgiras gotra. The Sūtra says in the section on the eleven Prayājas: समिद्दो अद्येति सर्वेषां यथऋषि (*samiddo adyeti sarveṣāṃ yathaṛṣi*) (Ā. Sū. 3-2); here "according to the seer" is stated. The Āprī sūktas are of three kinds: the Vāsiṣṭha, Ātreya, Vādhryaśva and Gārtsamada, four, have Narāśaṃsa; the Maidhātitha, Vairghatamasa and Praiṣika have both Narāśaṃsa and Tanūnapāt; the others have Tanūnapāt. Of these, this sūkta, being Vairghatamasa, has both.
+
+Anuvāda (as far as this window): This sūkta beginning "Samiddho Agne" is the third sūkta in the twenty-first anuvāka. It has thirteen Ṛks. The deity of the first Ṛk is Agni named Samit, the kindled Agni. From the second Ṛk to the twelfth the deities in order are Tanūnapāt, Narāśaṃsa, Iḷa, Barhis, Devīrdvāraḥ, Uṣāsānaktā, the two divine Hotṛs, the Prachetas, the three goddesses Sarasvatī, Iḷā and Bhāratī, Tvaṣṭṛ, Vanaspati and Svāhākṛti. The deity of the last Ṛk is Indra. "Tisro devyaḥ" means the three goddesses Sarasvatī, Iḷā and Bhāratī. The Anukramaṇikā says: समिद्ध आप्रिय आनुष्टुभमंत्यैंद्रीति (*samiddha āpriya ānuṣṭubhamaṃtyaiṃdrīti*). Since words such as Idhma and Tanūnapāt are parts of the sacrifice, they all point to the sacrifice; therefore the sacrifice is the deity of this sūkta, according to Kātthakya. Since words such as Samit apply to Agni, Agni is the deity, according to Śākapūṇi. In the Nirukta — "what deities? the Prayāja and Anuyāja oblations" — the Prayāja and Anuyāja oblations are explained as the deities of this sūkta, and Brāhmaṇa sentences are cited in support. In the Ṛks
+
 ---
 
-**Progress note:** Done through printed p. 215. pp. 208-215 (batch API)
+**Progress note:** Done through printed p. 221. pp. 216-221 (batch API)
