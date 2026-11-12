@@ -10316,6 +10316,140 @@ is not applicable here; the introduction is given in the Sanskrit text of kn.md:
 
 The sūkta beginning मथीद्यत् (*mathīdyat*) is the eighth sūkta in the twenty-first anuvāka. It has five Ṛks. Its seer is Dīrghatamas Aucathya; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇikā it begins मथीद्यदीं (*mathīdyadīṃ*). Since this sūkta is included among the three sūktas mentioned earlier, its application (viniyoga) is the same as that of the preceding sūkta.
 
+### Printed p. 424
+
+Anuvāka 21, Sūkta 148; Aṣṭaka 2, Adhyāya 2, Varga 17. Number of Ṛks in the sūkta: 5. Seer: Dīrghatamā Aucathya. Deity: Agni. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मथी॒द्यदीं॑ वि॒ष्णो मा॑त॒रिश्वा॒ होता॑रं वि॒श्वाप्सुं॑ वि॒श्वदे॑व्यं।  
+> नि यं द॒धुर्म॑नु॒ष्या॑सु वि॒क्षु स्व१॒॑ १ र्ण चि॒त्रं वपु॑षे नि॒भावं॑।  
+> ॥ ० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मथीत् । यत् । ईं । विष्टः । मातरिश्वा । होतारं । विश्वअप्सुं । विश्वदेव्यं ।  
+> नि । यं । दधुः । मनुष्यासु । विक्षु । स्वः । न । चित्रं । वपुषे । विभावं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होतारं देवानामाह्वातारं विश्वाप्सुं । अस्त्विति रूपनाम । नानारूपं
+> पार्थिववैद्युतजाठरादिभेदेनाहवनीयादिभेदेन वा । यद्वा । कालीकराल्यादिरूपेण ज्वालानां वैरूप्याद्विश्वरूपत्वं । विश्वदेव्यं सर्वदेवयोग्यक्रियासाधुं
+> यदीं यमेनमग्निं मातरिश्वा वृष्टादिनिर्मात्रंतरिक्षश्वसनो वायुर्विष्टः काष्ठेस्वंतःप्रविष्टः सन् मथीत् अमथ्नात् । प्रावर्धयदित्यर्थः ॥ मथे विलोडने ।
+> ह्र्यंतक्षणेति वृद्धिप्रतिषेधः ॥ पुनः स एव विशेष्यते । यमग्निं मनुष्यासु मत्वा
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses होतारं (*hotāraṃ*) as the one who invokes the gods. अस्त्विति रूपनाम (*astviti rūpanāma*): the word for "form" is *aps*; so विश्वाप्सुं (*viśvāpsuṃ*) means "of manifold forms", by the divisions of earthly, lightning and stomach (digestive) fire and so on, or by the divisions of the āhavanīya fire and the rest. Or else, the flames differ in form as Kālī, Karālī and the rest, hence the all-formed nature. विश्वदेव्यं (*viśvadevyaṃ*) means one who is competent for the acts proper to all the gods. यदीं (*yadīṃ*) is "this very Agni whom"; Mātariśvan, the wind that moves in the atmosphere and brings about rain and the like, having entered the fuel, churned (मथीत् (*mathīt*)) him, that is, made him grow. The root is *mathe* in the sense of stirring. Then the same Agni is qualified further: Agni whom, among the मनुष्यासु (*manuṣyāsu*) … (the sentence continues on the next page).
+
+### Printed p. 425
+
+> कर्म कुर्वतीषु विक्षृत्तिग्रूपासु प्रजासु पूर्वं वपुषे यज्ञसिद्धये नि दधुः ।
+> धारयंति यजमानाः । मनुष्यशब्दो निरुक्ते बहुधा निरुक्तः । मनुष्याः कस्मान्मत्वा
+> कर्माणि सीव्यंति मनस्यमानेन सृष्टा मनोरपत्यं मनुषो वा ॥ नि. ३-७ । इति ।
+> यद्वा । पूर्वं देवा मनुष्यासु मनोरपत्यभूतासु विक्षु प्रजासु प्राणिसु वपुषे
+> स्वरूपाय यागादिस्वरूपप्रकाशाय शरीरधारणाय वा जारराग्निरूपेण नि दधुः ।
+> स्थापितवंतः । तत्र वृष्टांतः । स्वर्ण स्वरणं स्वीरणं वा । आदित्यमिव चित्रं चायनीयं
+> विभावं विविधप्रकाशवंतं यथा प्रकाशादिसाधनाय धारयंति तद्वत् । स्वःशब्दं यास्क
+> एवं निरुवाच । स्वरादित्यो भवति सु अरणः सु ईरणः सृतो रसान्त्सृतो भासं,
+> ज्योतिषां सृतो भासेति वा । नि. २-१४ । इति । ईदृशं यं नि दधुस्तं मथीदिति
+> पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+… among the people (विक्षु (*vikṣu*)) who, thinking, perform rites, being of the nature of ṛtvijs and the like, the sacrificers of old establish (नि दधुः (*ni dadhuḥ*)), hold, for the accomplishment of the sacrifice (वपुषे (*vapuṣe*)). The word *manuṣya* is explained in many ways in the Nirukta: "Why are they called manuṣyas? Because they think and sew (perform) rites, or because they are created by one who reflects, or because they are the offspring of Manu" (Ni. 3-7).
+
+Or else: in former times the gods established him, as the stomach-fire, among the people who are Manu's offspring, among living beings, for वपुषे (*vapuṣe*)—for the manifestation of the form of sacrifice and the like, or for the sustaining of the body. The illustration: स्वर्ण (*svarṇa*) is "like the sun", resounding or well-moving, wonderful (चित्रं (*citraṃ*), to be gazed at), of manifold radiance (विभावं (*vibhāvaṃ*)), just as men hold it for the accomplishment of light and the like. Yāska explained the word स्वः (*svaḥ*) thus: the sun is *svar* (well-going, well-moving, "he who is attached to the juices, to the radiance of lights, to radiance") (Ni. 2-14). The one whom they have thus established, him Mātariśvan churned: this is the connection with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतारं (*hotāraṃ*)—one who calls the gods to the sacrifice
+- विश्वाप्सुं (*viśvāpsuṃ*)—one who has manifold forms, by the divisions of earthly, lightning, stomach fire and so on, or through the difference in form of the flames Kālī, Karālī and the rest
+- विश्वदेव्यं (*viśvadevyaṃ*)—one who is the representative in the worship of all the gods (and)
+- यं (*yaṃ*)—whom
+- मनुष्यासु (*manuṣyāsu*)—among the human
+- विक्षु (*vikṣu*)—among the people, ṛtvijs and others
+- वपुषे (*vapuṣe*)—for the accomplishment of the body of the sacrifice
+- Or: [यं (*yaṃ*)—whom; (देवाः (*devāḥ*)—the gods); मनुष्यासु (*manuṣyāsu*)—among the offspring of Manu; विक्षु (*vikṣu*)—among the people; वपुषे (*vapuṣe*)—for the accomplishment of the nature of sacrifice and the like]
+- चित्रं (*citraṃ*)—one who is charming
+- विभावं (*vibhāvaṃ*)—one who has manifold kinds, and
+- स्वः न (*svaḥ na*)—as if they established the sun
+- नि वधुः (*ni vadhuḥ*)—they established, such a one
+- यदीं (*yadīṃ*)—this very Agni whom
+- मातरिश्वा (*mātariśvā*)—the wind, moving in the atmosphere
+- विष्टः (*viṣṭaḥ*)—having entered (the fuel and the rest)
+- मथीत् (*mathīt*)—kindled so that he blazed
+
+##### भावार्थ (Bhāvārtha)
+
+Agni—the caller of the gods to the sacrifice, of manifold forms, the representative in the worship of all the gods, and one whom the gods established among men, the offspring of Manu, for the accomplishment of the sacrifice, as in former times they established the sun, which shines charmingly, for the lighting of the world—him the wind, having entered the fuel and the rest, kindled so that he blazed.
+
+##### Printed English
+
+The wind, penetrating ( amidst the fuel ), has excited ( Agni), the invoker (of the gods) the multiform, the minister of all the deities, whom they have established amongst mortal worshippers for the accomplishment of sacrifice, like the wonderful and variously radiant sun.
+
+### Printed p. 426
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वाप्सुं (*viśvāpsuṃ*)—अप्स्विति रूपनाम । नानारूपं पार्थिववैद्युतजाठरादिभेदेन, आहवनीयादिभेदेन वा । यद्वा । कालीकराल्यादिरूपेण ज्वालानां वैरूप्याद्विश्वरूपत्वं । (*apsviti rūpanāma | nānārūpaṃ pārthivavaidyutajāṭharādibhedena, āhavanīyādibhedena vā | yadvā | kālīkarālyādirūpeṇa jvālānāṃ vairūpyādviśvarūpatvaṃ |*). That is: he is called "of manifold forms" as an epithet of Agni, because of the divisions of earthly, lightning and stomach fire and the like, or the divisions called the dakṣiṇāgni, gārhapatya and āhavanīya, or because of the differences in form of the flames Kālī, Karālī and so on.
+
+Descriptions such as "the three births" (त्रीणि जाना (*trīṇi jānā*)) show the threefold manifestation of Agni, who reflects the basic principle of the world. They are as follows:
+
+त्रिस्थानं चैनमर्चंति होत्रायां व्यक्तबर्हिषः । इहैव पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः ॥ (*tristhānaṃ cainamarcaṃti hotrāyāṃ vyaktabarhiṣaḥ | ihaiva pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ ‖*)
+अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निः शुचिरुच्यते । इहाग्निभूतस्त्वृषिभिर्लोके स्तुतिभिरीळितः ॥ (*amuṣminneva vipraistu loke 'gniḥ śucirucyate | ihāgnibhūtastvṛṣibhirloke stutibhirīḷitaḥ ‖*)
+चातवेदाः स्तुतो मध्यॆ स्तुतो वैश्वानरो दिवि (*cātavedāḥ stuto madhyè stuto vaiśvānaro divi*)
+(Bṛ. De. 1-65 to 67)
+
+Among these three forms, the Agni who appears on the earth is known as Pavamāna-agni, the Agni of the middle world as Vanaspati, and the Agni who dwells in the heaven as Agni Śuci. These three divisions are recited in the Taittirīya Saṃhitā as the division Pavamāna, Śuci, Pāvaka:
+अग्नये पवमानाय पुरोडाशमष्टाकपालं निर्वपेदग्नये पावकायाग्नये शुचये । ( (*agnaye pavamānāya puroḍāśamaṣṭākapālaṃ nirvapedagnaye pāvakāyāgnaye śucaye | (*) (Tai. Saṃ. 2-2-4).
+Besides this, the names Agni, Jātavedas and Vaiśvānara also show the threefold nature of Agni. Moreover, by descriptions such as दिवस्परि प्रथमं जज्ञे (*divaspari prathamaṃ jajñe*) (Ṛ. Saṃ. 10-45-1; Tai. Saṃ. 1-3-14-5) it is said that Agni is seen in the form of the submarine fire, in the form of the sun, and in the form of lightning in the atmosphere. And further, by the words
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ |*) (Praśna Upaniṣad 1-8)
+Agni, the inner self of all beings, is praised as all-formed, as having a thousand rays, and as all-knowing. And,
+
+### Printed p. 427
+काली कराली च मनोजना च सुलोहिता या च सुधूम्रवर्णा । स्फुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥ (*kālī karālī ca manojanā ca sulohitā yā ca sudhūmravarṇā | sphuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*) (Muṇḍaka 1-2-4)
+In these and similar passages the manifold differences in form of Agni's flames are stated; hence by the epithet विश्वाप्सुं (*viśvāpsuṃ*) these aspects of Agni may be described. The difference in form of Agni, who is all-formed, is described in the Śatapatha Brāhmaṇa in this way:
+तमब्रवीद्यद्रुद्रोऽसीति । तद्वदस्य तन्नामाकरोदग्निस्तद्रूपमभवदग्नी रुद्रो यदरोदीत्तस्माद्रुद्रः सोऽब्रवीज्जायान्वातोस्मि धेह्येव मे नामेति । (*tamabravīdyadrudro 'sīti | tadvadasya tannāmākarodagnistadrūpamabhavadagnī rudro yadarodīttasmādrudraḥ so 'bravījjāyānvātosmi dhehyeva me nāmeti |*)
+When Prajāpati called Agni Rudra, Agni said: "I am greater than that; give me another name." Then
+तमब्रवीत्सर्वोऽसीति । तद्यदस्य तन्नामाकरोदापस्तद्रूपमभवन्नापो वै सर्वोऽद्भ्यो हीदग् सर्वं जायते सोऽब्रवीज्जायान्वा अतोऽस्मि धेह्येव मे नामेति । (*tamabravītsarvo 'sīti | tadyadasya tannāmākarodāpastadrūpamabhavannāpo vai sarvo 'dbhyo hīdag sarvaṃ jāyate so 'bravījjāyānvā ato 'smi dhehyeva me nāmeti |*)
+Then Prajāpati said to Agni, "You are Sarva." Agni said that he was greater than that and that he should be called by another name. Prajāpati then said:
+तमब्रवीत्पशुपतिरसीति । तद्यदस्य तन्नामाकरोदोषधयस्तद्रूपमभवन्नोषधयो वै पशुपतिस्तस्माद्यदा पशव ओषधीर्लभंतेऽथ पतीयंति सोऽब्रवीज्जायान् ना .... .... .... । (*tamabravītpaśupatirasīti | tadyadasya tannāmākarodoṣadhayastadrūpamabhavannoṣadhayo vai paśupatistasmādyadā paśava oṣadhīrlabhaṃte 'tha patīyaṃti so 'bravījjāyān nā .... .... .... |*)
+"Because you are present within the plants, in their form, you are Paśupati. As the plants have the name Paśupati, you too have the same name." Then Agni asked that he be given another name, being greater than that. Then
+तमब्रवीदुग्रोऽसीति । तद्यदस्य तन्नामाकरोद्वायुस्तद्रूपमभवद्वायुर्वा उग्रस्तस्माद्यदा बलवद्वात्युग्रो नातीत्याहुः सॊब्रवीज्जायान् .... .... .... .... । (*tamabravīdugro 'sīti | tadyadasya tannāmākarodvāyustadrūpamabhavadvāyurvā ugrastasmādyadā balavadvātyugro nātītyāhuḥ sòbravījjāyān .... .... .... .... |*)
+"Since you are the wind that blows fiercely, the name Ugra is yours." Agni again said that there must be another name. Then
+तमब्रवीदशनिरसीति । तद्यदस्य तन्नामाकरोद्विद्युत्तद्रूपमभवद्विद्युद्वा अशनिस्तस्माद्य विद्युद्धंत्यशनिः अवधीरित्याहुः .... .... .... .... । (*tamabravīdaśanirasīti | tadyadasya tannāmākarodvidyuttadrūpamabhavadvidyudvā aśanistasmādya vidyuddhaṃtyaśaniḥ avadhīrityāhuḥ .... .... .... .... |*)
+
+### Printed p. 428
+"Since you are the Aśani that is of the nature of lightning, the name Aśani is yours." When Agni was not satisfied with that either,
+तमब्रवीद्भवोऽसीति । तद्यदस्य तन्नामाकरोत्पर्जन्यस्तद्रूपमभवत्पर्जन्यो वै भवः पर्जन्याद्दीवं सर्वं भवति सोऽब्रवीत् .... .... .... .... ॥ (*tamabravīdbhavo 'sīti | tadyadasya tannāmākarotparjanyastadrūpamabhavatparjanyo vai bhavaḥ parjanyāddīvaṃ sarvaṃ bhavati so 'bravīt .... .... .... .... ‖*)
+"You are Bhava, who is of the nature of Parjanya", he said; even then Agni said that he was greater than that. Then
+तमब्रवीन्महादेवोऽसीति । तद्यदस्य तन्नामाकरोच्चंद्रमास्तद्रूपमभवत्प्रजापतिर्वै चंद्रमाः प्रजापतिर्वै महान् देवः सोऽब्रवीत् .... .... ....। (*tamabravīnmahādevo 'sīti | tadyadasya tannāmākaroccaṃdramāstadrūpamabhavatprajāpatirvai caṃdramāḥ prajāpatirvai mahān devaḥ so 'bravīt .... .... ....|*)
+"You are Prajāpati, who is of the nature of the moon", he said. Then Agni said, "I am still greater; give me another name." Then Prajāpati said:
+तमब्रवीदीशानोऽसीति । तद्यदस्य तन्नामाकरोदादित्यस्तद्रूपमभवदादित्यो वा ईशान आदित्यो ह्यस्य सर्वस्येष्टे .... .... .... .... । तान्येतान्यष्टावग्निरूपाणि । (*tamabravīdīśāno 'sīti | tadyadasya tannāmākarodādityastadrūpamabhavadādityo vā īśāna ādityo hyasya sarvasyeṣṭe .... .... .... .... | tānyetānyaṣṭāvagnirūpāṇi |*) (Śa. Brā. 6-1-3-10 to 17)
+"You are the sun, the lord of the entire world", he said. Thus there are eight names showing eight special qualities: Rudra, Sarva, Paśupati, Ugra, Mahādeva, Aśani, Bhava and Īśāna. तान्येतान्यष्टावग्निरूपाणि (*tānyetānyaṣṭāvagnirūpāṇi*): these eight are special forms of Agni, so the Śatapatha Brāhmaṇa explains. Therefore the epithet विश्वाप्सु (*viśvāpsu*) means one who has the manifold forms described above.
+
+विश्वदेव्यं (*viśvadevyaṃ*)—सर्वदेवयोग्यक्रियासाधुं (*sarvadevayogyakriyāsādhuṃ*): one who is the representative in the worship of all the gods.
+त्वामग्न आदित्यास आस्यं १ त्वां जिह्वां शुचयश्चक्रिरे कवे । त्वां रातिषाचो अध्वरेषु सच्चिरे त्वे देवा हविरदंत्याहुतं । (*tvāmagna ādityāsa āsyaṃ 1 tvāṃ jihvāṃ śucayaścakrire kave | tvāṃ rātiṣāco adhvareṣu saccire tve devā haviradaṃtyāhutaṃ |*) (Ṛ. Saṃ. 2-1-13)
+As described in Ṛks such as this, Agni, as the representative of all the gods, receives the oblation for all; hence this epithet.
+स्वः (*svaḥ*)—स्वरादित्यो भवति । सु आरणः,—सु ईरणः । स्वृतो रसान्, स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा । (*svarādityo bhavati | su āraṇaḥ,—su īraṇaḥ | svṛto rasān, svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā |*). Because he is very far away, because he disperses (the darkness), because he enters into the juices and is absorbed in them, because he sheds his lustre in the sphere of radiance and enters it, and because he enters within together with the light, स्वः (*svaḥ*) means the sun (Ni. 2-14). For this very reason the days too are called स्वसराणि (*svasarāṇi*).
+
+### Printed p. 429
+स्वः आदित्यो भवति स एनानि सारयति (*svaḥ ādityo bhavati sa enāni sārayati*) (Ni. 5-4): since the sun makes these move, the authors of the Nirukta explain that स्वसराणि (*svasarāṇi*) means the days. In the Ṛksaṃhitā this word is not used merely as a synonym of the sun. In the Ṛk
+वन्वासो न ये स्वजाः स्वतवस इषं स्वरभिजायंत धूतयः सहस्रियासो आपां नोर्मय आसा गावो वंद्यासो नोक्षणः । (*vanvāso na ye svajāḥ svatavasa iṣaṃ svarabhijāyaṃta dhūtayaḥ sahasriyāso āpāṃ normaya āsā gāvo vaṃdyāso nokṣaṇaḥ |*) (Ṛ. Saṃ. 1-18-2)
+the word स्वः (*svaḥ*) is interpreted as heaven, and likewise in some other places as radiance. In the present Ṛk the meaning "sun" is right.
+मातरिश्वा मथीत् (*mātariśvā mathīt*)—the wind that moves in the atmosphere, having entered the fuel and the rest, kindled Agni so that he blazed. By passages such as मातरिश्वा गुहा संतं हव्यवाहं समाधे (*mātariśvā guhā saṃtaṃ havyavāhaṃ samādhe*) (Ṛ. Saṃ. 3-5-10) the story of Mātariśvan's churning of the fire has been explained in all the earlier passages.
+
+##### Grammar
+
+- मथीत्— मथे विलोडने इति धातुः । लुज् प्रथमपुरुषएकवचने तिप् । इकारलोपः । सिचि इडागमः । अपृक्तस्य ईडागमः । इट ईटि इति सिचो लोपः । ह्यंतक्षणश्वस—(पा. सू. ७-२-५) इति वृद्धिप्रतिषेधो भवति । बहुलं छंदस्यमाज्‌योगेपि (पा. सू. ६-४-७५) इति अडागमो न भवति । पावादित्वात् निघातस्वरो न भवति । आगमस्य अनुदात्तत्वात् धातुस्वरो अवशिष्यते । **NOTE**
+- विष्टः— विश प्रवेशने इति धातुः । निष्ठा इति क्त प्रत्ययः । व्रश्चभृस्थसृज—इति शकारस्य षत्त्वं । तत् निमित्तीकृत्य प्रत्ययस्य ष्टुत्वं । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- होतारम्— ह्वेञ् स्पर्धायां शब्दे च इति धातुः । कर्तरि तृन् प्रत्ययः । बहुलं छंदसि इति धातोः संप्रसारणं । पूर्वरूपं । सार्वधातुकार्थधातुकयोः इति धातोः इको गुणः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति ।
+- विश्वाप्सुम्— विश्वे अप्पवः यस्य सः विश्वाप्सः । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- दधुः— डुधाञ् धारणपोषणयोः इति धातुः । लिट् प्रथमपुरुषबहुनचनांतरूपं । तिजंतनिघातस्वरो भवति । **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 423. pp. 418-423 (batch API)
+**Progress note:** Done through printed p. 429. pp. 424-
