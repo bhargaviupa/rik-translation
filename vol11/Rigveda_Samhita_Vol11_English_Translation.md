@@ -4314,6 +4314,190 @@ he has shown the aptness of the word वीरुधः (*vīrudhaḥ*) here.
 That as soon as he is kindled Agni becomes pure, gracious and youthful, as described in this Ṛk, (is also seen in)
 अग्निर्होता निषसादा यजीयानुपस्थे मातुस्सुरभावु लोके । युवा कविः पुरुनिष्ठः । ऋताना धर्ता कृष्णीनामुत मध्य इत्थः ॥ (*agnirhotā niṣasādā yajīyānupasthe mātussurabhāvu loke | yuvā kaviḥ puruniṣṭhaḥ | ṛtānā dhartā kṛṣṇīnāmuta madhya itthaḥ ‖*)
 
+### Printed p. 177
+by the Saṃhitā passage
+
+अग्निशुचिर्वृततमशुचिर्विप्रश्नुचिःकविः । शुची रोचत आहुतः ॥ (*agniśucirvṛtatamaśucirvipraśnuciḥkaviḥ | śucī rocata āhutaḥ ‖*) (Tai. Saṃ. 1-3-14)
+
+and similar Saṃhitā sentences, the power of Agni is shown.
+
+##### Grammar
+
+- पितुः — पा पाने इति धातुः । पः किच्च (उ. सू. १-७०) इति तु प्रत्ययः । कित्त्वात् घुमास्था इति धातोरित्त्वम् । व्यत्ययेन षष्ठ्याः प्रथमा विभक्तिरागता ।
+- नीयते — णीञ् प्रापणे इति धातुः । कर्मणि लट् प्रथमपुरुषैकवचनांतरूपम् । निपातैर्यद्यदि (पा. सू. ८-१-३०) इति निघातप्रतिषेधात् यक्‌स्वरः अवतिष्ठते ।
+- पृक्षुधः — प्र इत्युपसर्गः । क्षुध बुभुक्षायां इति धातुः । बहुलं छंदसि इति प्र इत्यत्र संप्रसारणम् । संप्रसारणाच्च इति सूत्रेण पूर्वरूपम् । क्विप् चॆ (पा सू ३-२-७६) इति धातोः क्विप् प्रत्ययः । प्रथमाबहुवचनांतरूपम् । गतिकारकोपपदात्कृत् (पा सू ६-२-१९) इति कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
+- रोहति — रुह बीजजन्मनि प्रादुर्भावे च इति धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । व्यत्ययो बहुलम् इति बहुवचनस्थाने एकवचनप्रत्यय आगतः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- उभा — सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य औकारविभक्तेः आकारादेशः ।
+- इन्वतः — इवि व्याप्तौ इति धातुः । लट् प्रथमपुरुषद्विपचने तस् प्रत्ययः । इदितो नुम् धातोः (पा. सू. ७-१-५८) इति सुमागमः । शप् विकरणम् । प्रत्ययस्वरस्य रुत्वविसर्गौ । निपातैर्यद्यदि (पा. सू. ८-१-३०) इति यद्योगत्वात् निघातप्रतिषेधो भवति । अदुपदेशात् परस्य लसार्वधातुकस्य आगमनात् तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति अदुः अनुदात्तो भवति, तस्मात् धातुस्वरो अवतिष्ठते ।
+- यविष्ठ — अतिशयेन युवा यविष्ठः । अतिशायने तमबिष्ठन् (पा. सू. ५-३-५५) इति इष्टन् प्रत्ययः । स्कूलदूर (पा. सू. ६-४-१२६) इति प्रत्यये परे युवन् इत्यत्र यणादेः (वन्) लोपः । पूर्वस्य उकारस्य गुणः । अचः परत्वात् अपादेशः । प्रत्ययस्य नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति । **NOTE**
+- फृणा — छांदसत्वात् मतुपो लोपः । सुसां सुलुक् इति विभक्तेः आकारादेशः ।
+
+### Printed p. 178
+- अभवत् — भू सत्तायां इति धातुः । लज् प्रथमपुरुषैकवचनांतरूपम् । तिजंतसिघातस्वरो भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदिन्मा॒तृरावि॑श॒द्यास्वा शुचि॒रहिं॑स्यमान उर्वि॒या वि वा॑वृधे।  
+> अनु॒ यत्पूर्वा॒ अरु॑हत्सना॒जुवो॒ नि नव्य॑सी॒ष्टव॑रासु धावते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । मात्याः । आ । अविशत् । यासु । आ । शुचिः । अहिंस्यमानः । उर्विया ।  
+> वि । ववृधे ।  
+> अनु । यत् । पूर्वाः । अरुहत् । सनाजुवः । नि । नव्यसीषु । अवरासु । धावते ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निरा शुचिर्दिप्तः सन् आदित् पूर्वमंत्रे यविष्टोऽभवदित्युक्तत्वात् तदनंतरमेव मातृरुत्पादयित्रीमातृस्थानीया दश दिश आविशत् । सर्वतः
+> प्रविशति । पूर्वत्र दशप्रमतिं जनयंत योषण इत्युक्तत्वात् दिशां मातृत्वं । दिक्षु
+> प्रकाशेन व्याप्त इत्यर्थः । मातरो विशेष्यंते । यासु मातृष्टहिंस्यमानः परैरपीड्यमान उर्वियोर्वतिप्रभूतं वि ववृधे विविधं प्रवृद्धोऽभवत् तास्वाविशत् ।
+> यथा लोके कश्चित्तेजस्वी जनन्याः स्तनपानपरिपीडादिभिः सम्यक् पोषितो लोके
+> प्रकाश्य पुनरागत्य मातरमालिंगति तद्विदिति भावः । कस्मिन्काल इति तत्राह । यद्यदा
+> सनाजुवो दीर्घकालवियोगिनिन्यः स्थापनकाल एव प्रक्षिप्ताः अत एव पूर्वाः प्रथमभाविनीरोषधीरनुक्रमेणारुहत् आरोहति॥ रुहेश्चांदसो लुज् । कृमृद्यरुहिभ्यश्चंदसीति चेरजादेशः ॥ उपरि प्रज्वलति । तथा नव्यसीषु नवतरासु आत एवावरासु अत एव पूर्वापेक्षया निकृष्टासु पश्चाद्भाविनीष्टोपधीषु नि धावते
+> नितरां नीचैर्वा गच्छति । अंतःप्रविशतीत्यर्थ । यदा काष्ठानामधस्तादुपरिष्टाच्च
+> प्रविश्य ज्वलति तदा दिक्षु प्रकाशितोऽभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Agni, shining brightly, आदित् (*ādit*) — since the previous mantra said that he became the youngest — immediately after that entered the "mothers", that is, the ten directions standing in the place of mothers (earlier it was said "the women gave birth to the ten-fold thinker", hence the directions are mothers); he pervades the directions with his light. The mothers are qualified: in whom he grew in many ways, unharmed, not oppressed by others, उर्विया (*urviyā*) extensively — into those he entered. As in the world some brilliant person, well nourished by his mother through suckling and the like, shines in the world and then returns and embraces his mother, so is it here. At what time? "When" (यत् (*yat*)): the सनाजुवः (*sanājuvaḥ*) — those long separated, cast in at the time of placing, hence the earlier ones, the herbs first formed — he climbs in order and blazes above. Likewise in the newer ones, hence inferior in comparison with the earlier, the herbs that arise later, he runs down (नि धावते (*ni dhāvate*)), going lower and lower, that is, enters within. When he blazes entering both beneath and above the logs, then he is illumined in the directions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- आ शुचिः (*ā śuciḥ*)—shining exceedingly
+- आदित् (*ādit*)—immediately after being praised by the previous mantra
+- यत् (*yat*)—when
+- सनाजुवः (*sanājuvaḥ*)—those ready from a very long time ago, dried
+
+### Printed p. 179
+- पूर्वाः (*pūrvāḥ*)—(therefore) excellent, (dry) herbs and the like
+- अनु (*anu*)—in order
+- अरुहत् (*aruhat*)—seizes and burns; (likewise)
+- नव्यसीषु (*navyasīṣu*)—among the fresh
+- अवरासु (*avarāsu*)—(therefore) among herbs and the like that are less excellent (not much dried)
+- नि धावते (*ni dhāvate*)—enters within and burns; then
+- यासु (*yāsu*)—in which ten directions
+- अहिंस्यमानः (*ahiṃsyamānaḥ*)—unharmed (by others)
+- उर्विया (*urviyā*)—very abundantly
+- वि ववृधे (*vi vavṛdhe*)—grew with flames of many kinds; such
+- मातृः (*mātṛḥ*)—the ten directions in the places of mothers
+- आ अविशत् (*ā aviśat*)—takes possession of all around
+
+##### भावार्थ (Bhāvārtha)
+
+This exceedingly brilliant Agni, immediately after being praised by the previous mantra, seizes in order and burns the herbs that are very old and excellent, and also those that are fresh and not so excellent. Then, unharmed by others and very abundantly, in whichever ten directions he grows with flames of many kinds, those ten directions, which stand in the place of mothers, he seizes all around and shines.
+
+##### Printed English
+
+Therefore has the brilliant Agni entered the maternal (quarters of space), amidst which, pure and unharined he had evolved into magnitude so that he mounted (the bushes) placed before him, as he had (consumed others) prior to them, and runs rapidly among the more recent and inferior branches.
+
+##### विशेषविषयगळु (Special Topics)
+
+विवृधे (*vivṛdhe*) — विविधं प्रवृद्धः अभवत् (*vividhaṃ pravṛddhaḥ abhavat*): he grew, encompassing the world with forms of many kinds; thus the growth of Agni is described.
+By the word आदित् (*ādit*) the time and the cause of Agni's growth are stated: in the previous mantra it was said यविष्ठः अभवत् (*yaviṣṭhaḥ abhavat*); the meaning is that as soon as he became youngest he grew. Or the meaning is: immediately after being praised by the previous mantra. It is described that he entered and spread through all plants, herbs and the like, both those well dried and favourable to the spreading of fire, and those not well dried, that remain green. This same description of the spreading of fire is given in many places.
+सनाजुवः (*sanājuvaḥ*) — although they have existed from a long time and are old; therefore, the meaning is that they were fit at the time of Agni's seizing them.
+
+### Printed p. 180
+
+##### Grammar
+
+- अविशत् — विश प्रवेशने इति धातुः । लज् प्रथमपुरुषैकवचनांतरूपम् । तिज्जतिजः इति निघातस्वरो भवति ।
+- अहिंस्यमानः — हिसि हिंसायां इति धातुः । इदितो नुम् धातोः इति नुमागमः । कर्मणि लडर्थे शानच् प्रत्ययः । सार्वधातुके यक् (पा. सू. ३-१-६७) इति यक् । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । नञ् तत्पुरुषसमासः । तत्पुरुषे तुल्यार्थ (पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरो भवति ।
+- उर्विया — इयाडियाजीकाराणामुपसंख्यानम् (पा.सू. ६-१-३९-१) इति विभक्तेः इयाट् आदेशः । चित्त्वात् अंतोदात्तस्वरो भवति ।
+- नावृधे — वृधु वृद् धातुः । लिट् प्रथमपुरुषैकवचनांतरूपम् । छांदसत्वात् संहितायां अभ्यासस्य दीर्घो भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+- अरुहत् — रुह बीजजन्मनि प्रादुर्भावे च इति धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लुज् । प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । कृमृदृरुहिभ्यश्चंदसि (पा.सू. ३-१-५९) इति च्लेः अजादेशः । अंगस्य अडागमः । अज् चित्त्वात् गुणो न भवति । निपातैर्यद्यदि (पा. सू. ८-१-३१) इति निघातप्रतिषेधात् अडागमस्य उदात्तत्वात् आद्युदात्तं पदं भवति ।
+- नव्यसीषु — नव शब्दात् अतिशयार्थे ईयसुन् प्रत्ययः । स्त्रीत्वविवक्षायां उगितश्च इति ङीप् । यस्येति च इति नवशब्दस्य अंत्याकारस्य लोपः । छांदसत्वात् ईयसुन ईकारस्य लोपः । ईयसुनो नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ।
+- धावते — धावु गतिशुद्धोः धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो न भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदिद्दोता॑रं वृणते॒ दिवि॑ष्टिषु॒ भग॑मिन पपृचा॒नास॑ ऋंजते ।
+
+### Printed p. 181
+
+> देवान्यत्कृत्वा मज्मना पुरुष्टुतो मर्तं शंसं विश्वधा  
+> वेति धायसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । होतारं । वृणते । दिविष्टिसु । भगंइव । पपृचानासः । ऋंजते ।  
+> देवान् । यत् । क्रत्वा । मज्मना । पुरुस्तुतः । मर्तं । शंसं । विश्वधा । वेति ।  
+> धायसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होतारं होमनिष्पादकमाह्वातारं वा देवानां ईदृशमग्निं दिविष्टिषु
+> दिवसैषणेषु निमित्तभूतेषु वृणते । संभजते । आदिदनंतरमेव तथा पपृचानासो
+> हविषा स्तुत्या च संप्रचाना ऋत्विजो यजमानाः ॥ पृचेच्छांदसस्य लिटः कानच् ॥
+> यंजते । प्रसाधयंति । किमिव । भगमिव । तं यथा जनाः प्रसाधयंति तद्वत् ।
+> यद्वा । महांतं राजानमिव सूर्यदीप्तिवत्तूज्यमित्यर्थः । ऋंजतिः प्रसाधनकर्मेति यास्कः । यद्यस्मादयमग्नि पुरुष्टुतो बहुभिर्बहुधा वा स्तूयमानः
+> क्रत्वा क्रतुना कर्मणा यागादिरूपेण मज्मना शारीरेण बलेन च युक्तान्नेवान्व्यवहर्तृनृत्तिजो यज्ञभुजो देवान्वा क्रत्वा मज्मना च योजयितुं तथा
+> मर्तं यजमानं शंसं स्तुतिं च स्तुत्यं वा तं विश्वधा विश्वधनो यद्वा विश्वात्मकोऽयं वेति पूर्वोक्तान्कामयते । किमर्थं । धायसे हविर्लक्षणान्याय ।
+> तस्माद्वोतारमग्निं वृणते ऋंजते च ॥
+
+##### Gist of the bhāṣya
+
+होतारं (*hotāraṃ*): the accomplisher of the offering, or the caller of the gods; such an Agni they choose, resort to, दिविष्टिषु (*diviṣṭiṣu*), on occasions of desire for heaven (the gods' desires) as cause. आदित् (*ādit*): immediately after that. Likewise the पपृचानासः (*papṛcānāsaḥ*), the priests and sacrificers joined with oblation and praise, ऋंजते (*ṛṃjate*), accomplish or adorn him. Like what? भगमिव (*bhagamiva*): as people adorn Bhaga. Or else: like a great king, worthy of honour like the brilliance of the sun. Yāska says that ऋंजतिः (*ṛṃjatiḥ*) is a word for the action of accomplishing. Since this Agni, praised by many or in many ways, with क्रत्वा (*kratvā*) (action in the form of sacrifice and the like) and मज्मना (*majmanā*) (bodily strength) — in order to unite with action and strength the gods or the officiating priests who share in the sacrifice (the text here is damaged) — and likewise the mortal, the sacrificer, who is शंसं (*śaṃsaṃ*) (praise, or one worthy of praise), him विश्वधा (*viśvadhā*) (all-wealthy, or else all-embracing) वेति (*veti*) desires those named above. For what purpose? धायसे (*dhāyase*): for food in the form of oblation. Therefore they choose Agni the hotṛ and adorn him. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृचानासः (*pṛcānāsaḥ*)—the priests and sacrificers who worship (with oblation and with praise)
+- होतारं (*hotāraṃ*)—Agni, the accomplisher of the offering or the one who gives the invitation to the gods
+- दिविष्टिषु (*diviṣṭiṣu*)—for the satisfaction of the gods
+- वृणते (*vṛṇate*)—they worship
+- आदित् (*ādit*)—afterwards
+- भगमिव (*bhagamiva*)—as one worships and adorns Āditya in the form of Bhaga, or a king
+- यंजते (*yaṃjate*)—they adorn
+- यत् (*yat*)—because
+- पुरुष्टुतः (*puruṣṭutaḥ*)—he who is praised in many ways or by many
+- विश्वधा (*viśvadhā*)—he who protects and upholds all, Agni
+- क्रत्वा (*kratvā*)—joined also with action in the form of sacrifice and the like
+- मज्मना (*majmanā*)—with bodily strength
+- देर्वान् (*dervān*)—the gods or the priests
+- शंसं (*śaṃsaṃ*)—who offers praise
+- मर्तं (*martaṃ*)—the sacrificer also
+- वेति (*veti*)—brings together
+
+### Printed p. 182
+
+##### भावार्थ (Bhāvārtha)
+
+The priests and the sacrificers also worship Agni, the accomplisher of the offering, with the aim of bringing satisfaction to the gods. Afterwards they worship him also as one adorns and honours a king. Agni, who is praised by many and who protects and upholds the whole world, joined with action in the form of sacrifice and the like and with bodily strength, brings together the gods or the priests, and also the devoted sacrificer.
+
+##### Printed English
+
+Pious worshippers then adore the invoker ( of the gods ), for (the propitiation of) the dwellers in heaven, as (such men) adore a powerful prince, since the many lauded, and all-upholding (Agni) knows how by (holy) act and (bodily) strength to bring together the gods and their mortal worshippers for the sake of obtaining (mutual) sustenance.
+
+##### विशेषविषयगळु (Special Topics)
+
+पपृचानासः (*papṛcānāsaḥ*) — formed from the root पृच् (*pṛc*), which gives the meaning "to come into contact". It is an attribute of the priests and the sacrificers. The meaning is that the priests and others who worship Agni were equipped with the means of worship, oblations and praises. The word is used in the context of attaining identity. For example,
+
+अद्भिः सोम पपृचानस्य ते रसोऽव्यो वारं वि पवमान धावति । स मृज्यमानः कविभिर्मदिंतम सदस्येंद्राय पवमान पीतये । (*adbhiḥ soma papṛcānasya te raso 'vyo vāraṃ vi pavamāna dhāvati | sa mṛjyamānaḥ kavibhirmadiṃtama sadasyeṃdrāya pavamāna pītaye |*) (Ṛ. Saṃ. 9-74.9)
+
+In this ṛk Soma, which is to be mixed with the purified water called vasatīvarī, is addressed as पपृचानस्य ते (*papṛcānasya te*). Here the word is used because after the mixing there is unity between the Soma juice and the water. In the present ṛk also, the undivided relation between the priests and others, who with undivided feeling take up the oblations and worship with the utmost devotion and faith, and the oblations is indicated.
+होतारं (*hotāraṃ*) — होमनिष्पावकं आह्वातारं वा (*homaniṣpāvakaṃ āhvātāraṃ vā*). By offering oblations and the like he accomplishes the offering, or he gives the invitation to the gods; since the hotṛ has two kinds of activity, two meanings are given for the word hotṛ. This same view is stated in the Aitareya Brāhmaṇa —
+
+### Printed p. 183
+यज्ञो वै दॆवेभ्य उदक्रामत्तमिष्टिभिः प्रैषमैच्छन्यदिष्टिभिः प्रैषमैच्छंस्तदिष्टीनामिष्टित्वं तमस्वविंदन् । अनुवित्तयज्ञो राध्योति य एवं वेद । आहुतयो वै नामैता यदाहुतय एताभिर्वै देवान्यजमानो ह्वयति तदाहुतीनामाहुतित्वं । ऊतयः खलु वै ता नाम याभिर्देवा यजमानस्य हवनायंति ये वै पंथानो यः स्रुतयस्ता ना ऊतयस्त उ विवैतत्स्वर्गयाणा यजमानस्य भवंति । (*yajño vai dèvebhya udakrāmattamiṣṭibhiḥ praiṣamaicchanyadiṣṭibhiḥ praiṣamaicchaṃstadiṣṭīnāmiṣṭitvaṃ tamasvaviṃdan | anuvittayajño rādhyoti ya evaṃ veda | āhutayo vai nāmaitā yadāhutaya etābhirvai devānyajamāno hvayati tadāhutīnāmāhutitvaṃ | ūtayaḥ khalu vai tā nāma yābhirdevā yajamānasya havanāyaṃti ye vai paṃthāno yaḥ srutayastā nā ūtayasta u vivaitatsvargayāṇā yajamānasya bhavaṃti |*)
+
+Once the sacrifice went away from the gods. Then they obtained it again by offering oblations. An āhuti is an offering made by invoking and addressing the name of a deity. When it is said that one who offers such an oblation is called hotṛ, another question arises:
+
+तवादुर्यदन्नो जुहोत्यथ योऽनु चाह यजति च कस्मात्तं होतेत्याचक्षत इति यद्वाव स तत्र यथाभाजनं देवता अमुमावहामुमावहेत्यानाहयति तदेव होतुर्होतृत्वं होता भवति । होतेत्येनमाचक्षते य एवं वेद । (*tavāduryadanno juhotyatha yo 'nu cāha yajati ca kasmāttaṃ hotetyācakṣata iti yadvāva sa tatra yathābhājanaṃ devatā amumāvahāmumāvahetyānāhayati tadeva hoturhotṛtvaṃ hotā bhavati | hotetyenamācakṣate ya evaṃ veda |*) (I. Citra. 1-2) **NOTE**
+
+The one who offers the oblation is a different person, and the one who gives the invitation to the offering and utters the mantra is another; to the question how the name hotṛ is proper for the one who utters the offering-mantra, it is answered that since the reciter of this mantra calls the various deities according to the measure of each offering, the name hotṛ is proper also for him; and then, by the sentence
+
+मनो वै यज्ञस्य मैत्रावरुणो वाग्यज्ञस्य होता । (*mano vai yajñasya maitrāvaruṇo vāgyajñasya hotā |*) (Ai. Brā. 2-5)
+
+the identity of the speech that recites the mantra with the hotṛ is stated. And further,
+
+सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदीनाभिः .... ... नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतद्योतृषदनं यदुत्तरवेदीनाभिः । (*sīda hotaḥ sva u loke cikitvānityagnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedīnābhiḥ .... ... ni hotā hotṛṣadane vidāna ityagnirvai devānāṃ hotā tasyaitadyotṛṣadanaṃ yaduttaravedīnābhiḥ |*) (Ai. Brā. 1-28)
+
+These and similar sentences address Agni, the accomplisher of the offering, as the hotṛ of the gods. Therefore in the present ṛk the word होतारं (*hotāraṃ*) is explained as होमनिष्पादकं आह्वातारं ना (*homaniṣpādakaṃ āhvātāraṃ nā*) **NOTE** and shown to be an attribute of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 176. pp. 170-176 (batch API)
+**Progress note:** Done through printed p. 183. pp. 177-183 (batch API)
