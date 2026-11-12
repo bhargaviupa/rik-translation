@@ -1813,13 +1813,13 @@ In this Ṛk the matter of praising Indra with the Niṣkevalya śastra mantras 
 
 Explanation of the Niṣkevalya śastra mantras
 
-(Indra desires the position (rank) of Prajāpati — the reason Prajāpati came to have the name क (*ka*) ("Ka") — Indra's share of the oblation in the sacrifice)
+(Indra desires the position (rank) of Prajāpati — the reason Prajāpati came to have the name क (*ka*) ("Ka") **NOTE** — Indra's share of the oblation in the sacrifice)
 
 There is a narrative on this matter:
 
 इंद्रो वै वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतदसानि यत्त्वमहं महानसानीति स प्रजापतिरब्रवीदथ कोऽहमिति यद्वैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vai vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametadasāni yattvamahaṃ mahānasānīti sa prajāpatirabravīdatha ko 'hamiti yadvaivaitadavoca ityabravīttato vai ko nāma prajāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattanmaheṃdrasya maheṃdratvaṃ |*) (Ai. Brā. 12-21)
 
-In former times, after Indra had slain Vṛtra, he conquered all the regions of the earth and said to Prajāpati: "O Prajāpati, you have now gained a great position and are worshipful. From now on I want your great rank." To that Prajāpati asked: "If you take my rank, then who (कः (*kaḥ*)) am I? What is my station?" To that Indra—"O **NOTE**
+In former times, after Indra had slain Vṛtra, he conquered all the regions of the earth and said to Prajāpati: "O Prajāpati, you have now gained a great position and are worshipful. From now on I want your great rank." To that Prajāpati asked: "If you take my rank, then who (कः (*kaḥ*)) am I? What is my station?" To that Indra—"O
 
 ### Printed p. 49
 
@@ -3309,7 +3309,7 @@ Here it is said that Indra by his strength made heaven and earth tremble. Likewi
 
 ##### Gist of the bhāṣya
 
-विश्वा (*viśvā*) means all रोधांसि (*rodhāṃsi*). By the word रोधः (*rodhaḥ*) elevated places are meant, that is, mountains. पूर्वीः (*pūrvīḥ*) means many. प्रवतः (*pravataḥ*) are low places, that is, oceans. The explanation of द्यौः (*dyauḥ*) begins at the end of the block, which breaks off here.
+विश्वा (*viśvā*) means all रोधांसि (*rodhāṃsi*). रोधः (*rodhaḥ*) means elevated places and mountains. पूर्वीः (*pūrvīḥ*) means many (it qualifies प्रवतः (*pravataḥ*)); the प्रवतः are low places, that is, oceans.
 
 ### Printed p. 101
 #### Ṛk 4 (continued)
@@ -3545,7 +3545,7 @@ O Indra, when you, in the case of these rivers (सीमनु (*sīmanu*) = �
 - इंद्र (*iṃdra*)—O Indra
 - यत् (*yat*)—when
 - बद्धधानाः (*baddhadhānāḥ*)—bound by Vṛtra
-- सीं अनु (*sīṃ anu*)—these rivers, which had been bound
+- सीं अनु (*sīṃ anu*)—these rivers; (the bondage) that had bound them
 - दीर्घां (*dīrghāṃ*)—long
 - प्रसितिं (*prasitiṃ*)—the bondage
 - *anu syaṃdayadhyai*—so as to make it favourable for them to flow freely
@@ -4814,7 +4814,7 @@ Since Indra's favour is necessary for victory in battle and the like, we call up
 
 ##### Gist of the bhāṣya
 
-The men (the leaders, human beings) call upon that very Indra in various ways in the battle (समीके (*samīke*) = in battle). The sacrificers, रिरिक्वांसः (*ririkvāṃsaḥ*), who make their own bodies lean (empty them) by austerity, make that same Indra their protector (त्रां (*trāṃ*) = protector; कृण्वत (*kṛṇvata*) = कृण्वते (*kṛṇvate*), they make). When both parties, the sacrificers and the praisers, come together and approach Indra, the renouncer (त्यागं (*tyāgaṃ*) = the giver), then both kinds of men make that same Indra their protector, there being occasion for obtaining (सात् (*sāt*) = gain) a son (तोकस्य (*tokasya*)) and a grandson (तनयस्य (*tanayasya*)). This is the construction.
+The men (the leaders, human beings) call upon that very Indra in various ways in the battle (समीके (*samīke*) = in battle). The sacrificers, रिरिक्वांसः (*ririkvāṃsaḥ*), who make their own bodies lean (empty them) by austerity, make that same Indra their protector (त्रां (*trāṃ*) = protector; कृण्वत (*kṛṇvata*) = कृण्वते (*kṛṇvate*), they make). When both parties, the sacrificers and the praisers, come together and approach Indra, the giver (त्यागं (*tyāgaṃ*), one who gives things away), then both kinds of men make that same Indra their protector, there being occasion for obtaining (सात् (*sāt*) = gain) a son (तोकस्य (*tokasya*)) and a grandson (तनयस्य (*tanayasya*)). This is the construction.
 
 ### Printed p. 138
 
@@ -7013,7 +7013,7 @@ Through that friendship, Soma, which has united you with your (friend) Indra, he
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa construes the verse as follows. "O Indu, O Soma, Indra, at once (सद्यः (*sadyaḥ*) = immediately), with you as his ally (युजा (*yujā*) = सहायेन (*sahāyena*)), cut off with force (सहसा (*sahasā*) = with overpowering strength) one wheel of the two-wheeled chariot belonging to Sūrya, the Impeller, that is, Savitṛ." Of what kind was the wheel? It was situated above (अधि (*adhi*) = above), on the vast (बृहता (*bṛhatā*) = great) firmament that stands there (स्नुना (*snunā*) = स्थितेन (*sthitena*)). Further, the all-going wheel (विश्वायु (*viśvāyu*) = going everywhere) belonging to the great, mighty (महः (*mahaḥ*)) harmer (द्रुहः (*druhaḥ*)), Sūrya, "was taken away" (अप धायि (*apa dhāyi*) = इंद्रेणापाहारि (*iṃdreṇāpāhāri*), was carried off by Indra).
+"O Indu, O Soma, Indra, at once (सद्यः (*sadyaḥ*) = immediately), with you as his ally (युजा (*yujā*) = सहायेन (*sahāyena*)), cut off with force (सहसा (*sahasā*) = with overpowering strength) one wheel of the formerly two-wheeled chariot belonging to Sūrya, the Impeller, that is, Savitṛ." Of what kind was the wheel? It was situated above (अधि (*adhi*) = above), on the vast (बृहता (*bṛhatā*) = great) firmament that stands there (स्नुना (*snunā*) = स्थितेन (*sthitena*)). Further, the all-going wheel (विश्वायु (*viśvāyu*) = going everywhere) belonging to the great, mighty (महः (*mahaḥ*)) harmer (द्रुहः (*druhaḥ*)), Sūrya, "was taken away" (अप धायि (*apa dhāyi*) = इंद्रेणापाहारि (*iṃdreṇāpāhāri*), was carried off by Indra).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -11895,7 +11895,7 @@ Ribhu, Vibhwan, Vaja, and Indra, come to this our sacrifice, to distribute preci
 
 ##### Gist of the bhāṣya
 
-O Ṛbhus, वाजरत्नाः (*vājaratnāḥ*), shining with the food that is Soma, you, knowing (विदानासः (*vidānāsaḥ*)) the attainment of godhood, the nature of your birth (जन्मनः (*janmanaḥ*)). Or else: knowing the attainment of Soma, and having formerly been born as men. The word उत (*uta*) has the sense of "and". Rejoice together with the Ṛtus, the gods. May the exhilarations produced by Soma-drinking come together to you, and praise (पुरंधिः (*puraṃdhiḥ*)) too has come together. Being such, send to us (अस्मे (*asme*)) wealth (रयिं (*rayiṃ*)) accompanied by excellent heroic sons.
+O Ṛbhus, वाजरत्नाः (*vājaratnāḥ*), shining with the food that is Soma, you, knowing (विदानासः (*vidānāsaḥ*)) the attainment of godhood, the nature of your birth (जन्मनः (*janmanaḥ*)) — or else knowing the attainment of Soma, having formerly been born as men — rejoice together with the Ṛtus, the gods (the word उत (*uta*) has the sense of "and"). May the exhilarations produced by Soma-drinking come together to you, and praise (पुरंधिः (*puraṃdhiḥ*)) too has come together. Being such, send to us (अस्मे (*asme*)) wealth (रयिं (*rayiṃ*)) accompanied by excellent heroic sons.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -15124,7 +15124,7 @@ Those who are preparing for battle, those who are proceeding to sacrifice, both 
 
 ##### Gist of the bhāṣya
 
-The sixth verse, दधिक्राव्णो अकारिषं (*dadhikrāvṇo akāriṣaṃ*), is the anuvākyā of the Pavitreṣṭi. It is laid down in the sūtra: दधिक्राव्णो अकारिसमा दधिक्राः शवसा पंच कृष्णीः (*dadhikrāvṇo akārisamā dadhikrāḥ śavasā paṃca kṛṣṇīḥ*) (Ā. 2-12). It is also used at the drinking of the curd-drops (दधिद्रप्स (*dadhidrapsa*)), since this is so prescribed in the sūtra: दधिक्राव्णो अकारिसमित्याग्नीध्रीये दधिद्रप्सान् भक्षयंति (*dadhikrāvṇo akārisamityāgnīdhrīye dadhidrapsān bhakṣayaṃti*) (A. 6-12) **NOTE**. "I have made (अकारिषं (*akāriṣaṃ*)) praise of the god Dadhikrāvan, the victorious (जिष्णोः (*jiṣṇoḥ*)), the horse (अश्वस्य (*aśvasya*), "pervading"), the swift (वाजिनः (*vājinaḥ*), "possessing speed"). May that god make fragrant our mouths (मुखा (*mukhā*)), that is, the sense-organs beginning with the eye, and may he lengthen (प्रतारिषत् (*pratāriṣat*), "increase") our lives (आयूंषि (*āyūṃṣi*)); the root तिर (*tira*) with प्र (*pra*) has the sense of increasing."
+The sixth verse, दधिक्राव्णो अकारिषं (*dadhikrāvṇo akāriṣaṃ*) **NOTE**, is the anuvākyā of the Pavitreṣṭi. It is laid down in the sūtra: दधिक्राव्णो अकारिसमा दधिक्राः शवसा पंच कृष्णीः (*dadhikrāvṇo akārisamā dadhikrāḥ śavasā paṃca kṛṣṇīḥ*) (Ā. 2-12). It is also used at the drinking of the curd-drops (दधिद्रप्स (*dadhidrapsa*)), since this is so prescribed in the sūtra: दधिक्राव्णो अकारिसमित्याग्नीध्रीये दधिद्रप्सान् भक्षयंति (*dadhikrāvṇo akārisamityāgnīdhrīye dadhidrapsān bhakṣayaṃti*) (A. 6-12) **NOTE**. "I have made (अकारिषं (*akāriṣaṃ*)) praise of the god Dadhikrāvan, the victorious (जिष्णोः (*jiṣṇoḥ*)), the horse (अश्वस्य (*aśvasya*), "pervading"), the swift (वाजिनः (*vājinaḥ*), "possessing speed"). May that god make fragrant our mouths (मुखा (*mukhā*)), that is, the sense-organs beginning with the eye, and may he lengthen (प्रतारिषत् (*pratāriṣat*), "increase") our lives (आयूंषि (*āyūṃṣi*)); the root तिर (*tira*) with प्र (*pra*) has the sense of increasing."
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -18017,13 +18017,13 @@ The famous Āditya, shining in front, has risen and comes up. O Aśvins, your ch
 ### Printed p. 459
 
 ##### Printed English
-The sun rises: your chariot, (Ashwins), traversing (the regions), is associated with the divine (orb) on the summit (of the eastern mountain): in it are the three analogous kinds of foud, and the leather vessel of the sweet Soma juice appears as the fourth.
+The sun rises: your chariot, (Ashwins), traversing (the regions), is associated with the divine (orb) on the summit (of the eastern mountain): in it are the three analogous kinds of foud **NOTE**, and the leather vessel of the sweet Soma juice appears as the fourth.
 
 ##### विशेषविषयगळु (Special Topics)
 
 मिथुनाः त्रयः पृक्षासः (*mithunāḥ trayaḥ pṛkṣāsaḥ*)—मिथुनीभूताः त्रिविधाः अन्नानि । त्रेधा विहितं चान्नं । इद मन्नमशनं पानं खादश्च इति हि श्रुतं । (*mithunībhūtāḥ trividhāḥ annāni | tredhā vihitaṃ cānnaṃ | ida mannamaśanaṃ pānaṃ khādaśca iti hi śrutaṃ |*) Here an explanation of three kinds of food is given. They are: food, drink and खाद (*khāda*) (things that are chewed and eaten); the use of the word मिथुन (*mithuna*) indicates that all these are joined together. Although the word मिथुन (*mithuna*) means the mutual union of two things, it is said that here it applies also to the union of three things, and in this matter the Taittirīya Brāhmaṇa passage is cited:
 त्रिवृद्बर्हिर्भवति । माता पिता पुत्रः । तदेव तन्निथुनं । उल्पं गर्भो जरायु । तदेव तन्निथुनं । त्रेधा बर्हिस्सन्नद्धं भवति । (*trivṛdbarhirbhavati | mātā pitā putraḥ | tadeva tannithunaṃ | ulpaṃ garbho jarāyu | tadeva tannithunaṃ | tredhā barhissannaddhaṃ bhavati |*) (Tai. Brā. 1-7-3-1)
-In this example: just as mother, father and son, the three, cooperate without disagreement and come together, so at the sacrificial altar, when seats are prepared for the gods to come and sit, it is the custom, to make the seats soft, to spread darbha grass cut evenly in three layers, one upon another. To explain that these three layers together form one seat, the relation of mother, father and son is given as an illustration. The commentator explains the variety of the three kinds of food in the present Ṛk by this same illustration.
+In this example: just as mother, father and son, the three, cooperate without disagreement and come together, so at the sacrificial altar, when seats are prepared for the gods to come and sit, it is the custom, to make the seats soft, to spread darbha grass cut evenly in three layers, one upon another. To explain that these three layers together form one seat, the relation of mother, father and son is given as an illustration. The commentator explains the distinctive character of the three kinds of food in the present Ṛk by this same illustration.
 
 #### Ṛk 2
 
@@ -18921,7 +18921,7 @@ Indra and Vayu, you are fit for the drinking of theeS Soma libations, for the dr
 
 ##### विशेषविषयगळु (Special Topics)
 
-The tṛca of this sūkta beginning इंद्रश्च (*iṃdraśca*) (Ṛks 2-3-4) is to be recited on the fourth day of the sacrifice called Daśarātra as the second tṛca, addressed to Indra and Vāyu. This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra (printed सूक्तद (*sūktada*), "of the sūkta") इंद्रश्च वायुवेषां सोमनामा चिकितान सुक्रतू (*iṃdraśca vāyuveṣāṃ somanāmā cikitāna sukratū*) (Ā. 7-11).**NOTE**
+The tṛca of this sūkta beginning इंद्रश्च (*iṃdraśca*) (Ṛks 2-3-4) is to be recited on the fourth day of the sacrifice called Daśarātra as the second tṛca, addressed to Indra and Vāyu. This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra: इंद्रश्च वायुवेषां सोमनामा चिकितान सुक्रतू (*iṃdraśca vāyuveṣāṃ somanāmā cikitāna sukratū*) (Ā. 7-11).**NOTE**
 
 #### Ṛk 3
 
@@ -20637,7 +20637,7 @@ Now we begin the exposition of the eighth adhyāya of the third aṣṭaka. This
 The radiance of Uṣas, which has risen in the east out of the midst of darkness, which is seen ahead, famed in the world, exceedingly well known, is the giver of vitality to the whole world. May the Dawns, who are like daughters of Āditya and are radiant, surely bring about for the sacrificers the capacity for going and other activities.
 
 ##### Printed English
-This widely-spread and sense-bestowing light has sprung up in the ast from out of the darkness. verily the brilliant Dawns, the daughters of heaven, are giving to man (the faculty to act).
+This widely-spread and sense-bestowing light has sprung up in the ast from out of the darkness **NOTE**. verily the brilliant Dawns, the daughters of heaven, are giving to man (the faculty to act).
 
 ### Printed p. 531
 
@@ -25741,7 +25741,7 @@ Because desire arose in Prajāpati and Varuṇa, their semen was discharged and 
 
 प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वागभ्यभाषत । आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥ (*prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*)
 
-When Bhṛgu and Aṅgiras were born from the semen cast into the fire, Vāgdevī looked at them. Prajāpati looked at Vāgdevī. Then Vāgdevī addressed Prajāpati, saying that she had a wish to have a third son beyond these two sons, Bhṛgu and Varuṇa, and asked that Prajāpati fulfil it.
+When Bhṛgu and Aṅgiras were born from the semen cast into the fire, Vāgdevī looked at them. Prajāpati looked at Vāgdevī. Then Vāgdevī addressed Prajāpati, saying that she had a wish to have a third son beyond these two sons, Bhṛgu and Varuṇa **NOTE**, and asked that Prajāpati fulfil it.
 
 प्रजापतिस्तथेत्युक्तः प्रत्यभाषत भारतीं । ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥ (*prajāpatistathetyuktaḥ pratyabhāṣata bhāratīṃ | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*) (Bṛ. De. 5, 92-101)
 
@@ -25749,7 +25749,7 @@ When Prajāpati was thus asked by Vāgdevī for a third son, he agreed that it m
 
 तद्भैतद्देवाः । रेतश्चर्मन्वा यस्मिन्वा बभ्रुस्तद्धस्म पृच्छंत्यत्रेव त्यादिति ततोऽत्रिः संबभूव तस्मादप्यात्रेय्या योषितैनस्येतस्यै हि योषायै वाचो देवताया एते संभूताः ॥ (*tadbhaitaddevāḥ | retaścarmanvā yasminvā babhrustaddhasma pṛcchaṃtyatreva tyāditi tato 'triḥ saṃbabhūva tasmādapyātreyyā yoṣitainasyetasyai hi yoṣāyai vāco devatāyā ete saṃbhūtāḥ ‖*) (Śa. Brā. 1-4-5-13)
 
-When a dispute arose between Speech and Mind about the particular merit of each, Prajāpati gave his decision in favour of Mind. In this story, which says that Speech was displeased, it cannot be said that affection arose between Speech and Prajāpati. The origin of Bhṛgu and Aṅgiras from that semen is not mentioned in that context. Even so, it states only that Atri is a son of Prajāpati; it is also suggested that he is a son of Vāgdevī. The etymology of the word Atri is also stated. Only this becomes clear, that he was born of divine splendour. The greatness of this divine splendour is also praised in many places. For example—
+When a dispute arose between Speech and Mind about the particular merit of each, Prajāpati gave his decision in favour of Mind. In this story, which says that Speech was displeased, it cannot be said that affection arose between Speech and Prajāpati. The origin of Bhṛgu and Aṅgiras from that semen **NOTE** is not mentioned in that context. Even so, it states only that Atri is a son of Prajāpati; it is also suggested that he is a son of Vāgdevī. The etymology of the word Atri is also stated. Only this becomes clear, that he was born of divine splendour. The greatness of this divine splendour is also praised in many places. For example—
 
 आत्रेयाय हिरण्यं ददाति यत्र वा अदः प्रातरनुवाकमन्वाहुस्तद्ध स्मैतत्पुरा शंग्‌संतृत्रिर्ना ऋषीणाग्ं होतासाथैतत्सदोऽसुरतमसमभिपुपुवे त ऋषयोऽत्रिमब्रुवन्नेहि प्रत्यज'दं तमोऽपजहेति (*ātreyāya hiraṇyaṃ dadāti yatra vā adaḥ prātaranuvākamanvāhustaddha smaitatpurā śaṃgsaṃtṛtrirnā ṛṣīṇāgṃ hotāsāthaitatsado 'suratamasamabhipupuve ta ṛṣayo 'trimabruvannehi pratyaja 'daṃ tamo 'pajaheti*)
 
@@ -27651,7 +27651,7 @@ As soon as Uṣas's chariot was shattered, she fled in fear of Indra. The chario
 
 ##### Gist of the bhāṣya
 
-हिरण्यदंतं (*hiraṇyadaṃtaṃ*): Agni endowed with flames that stand in the place of teeth resembling gold; शुचिवर्णं (*śucivarṇaṃ*): of blazing colour; आयुधा (*āyudhā*): weapons, that is, sparks or flames standing in the place of weapons, which he fashions (मिमानं (*mimānaṃ*)). Such an Agni may I see (अपश्यं (*apaśyaṃ*) glossed पश्येयं (*paśyeyaṃ*)) आरात् (*ārāt*), nearby, क्षेत्रात् (*kṣetrāt*), in the place. Thus Vṛśa wishes.**NOTE** "I am the giver, to this Agni, of अमृतं (*amṛtaṃ*), imperishable, the means of immortality, विपृक्वत् (*vipṛkvat*), pervading everywhere, oblation or praise." इंद्रः (*iṃdraḥ*) is supreme lordship, Agni; those devoid of it are अनिंद्राः (*aniṃdrāḥ*), the meaning being that they do not worship Indra. The अनुक्थाः (*anukthāḥ*), those who do not praise, who do not extol Indra: what can they do to me?
+हिरण्यदंतं (*hiraṇyadaṃtaṃ*): Agni endowed with flames that stand in the place of teeth resembling gold; शुचिवर्णं (*śucivarṇaṃ*): of blazing colour; आयुधा (*āyudhā*): weapons, that is, sparks or flames standing in the place of weapons, which he fashions (मिमानं (*mimānaṃ*)). Such an Agni may I see (अपश्यं (*apaśyaṃ*) glossed पश्येयं (*paśyeyaṃ*)) आरात् (*ārāt*), nearby, क्षेत्रात् (*kṣetrāt*), in the place. Thus Vṛśa wishes.**NOTE** "I am the giver, to this Agni, of अमृतं (*amṛtaṃ*), imperishable, the means of immortality, विपृक्वत् (*vipṛkvat*), pervading everywhere, oblation or praise." इंद्रः (*iṃdraḥ*) is supreme lordship, Agni; those devoid of it are अनिंद्राः (*aniṃdrāḥ*), the meaning being that they do not worship Indra. The अनुक्थाः (*anukthāḥ*) **NOTE**, those who do not praise, who do not extol Indra: what can they do to me?
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -28993,7 +28993,7 @@ O Agni, the sacrificers who performed sacrifice in former times too worshipped y
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni, अव स्पृधि (*ava spṛdhi*): carry across; योधि (*yodhi*): separate from sin. The son, that is, the sacrificer who stands in the place of a son to you, knowing (विद्वान् (*vidvān*)) you as father, as a father-like one, ऊहे (*ūhe*) carries the oblation; do so to him. Thus the seer speaks of himself indirectly. For (the verse) will say: "Havyavāḷ agnir ajaraḥ pitā naḥ" (Ṛgve. 5-4-2). **NOTE** Or else, the relation of father and son is reversed: protect and separate from sin the sacrificer, the father-like protector — you (Agni), who as a son are always to be protected like a son; "you become a son to him who has served you" (Ṛgve. 2-1-9) is the Śruti. O knowing (चिकित्वः (*cikitvaḥ*)) Agni, when do you look upon us (अभि चक्षसे (*abhi cakṣase*))? And when, as ऋतचित् (*ṛtacit*), the awakener of the sacrifice or of water, do you impel (यातयासे (*yātayāse*)) us along the good path?
+Sāyaṇa says: O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni, अव स्पृधि (*ava spṛdhi*): carry across; योधि (*yodhi*): separate from sin. The son, that is, the sacrificer who stands in the place of a son to you, knowing (विद्वान् (*vidvān*)) you as father, as a father-like one, ऊहे (*ūhe*) **NOTE** carries the oblation; do so to him. Thus the seer speaks of himself indirectly. For (the verse) will say: "Havyavāḷ agnir ajaraḥ pitā naḥ" (Ṛgve. 5-4-2). **NOTE** Or else, the relation of father and son is reversed: protect and separate from sin the sacrificer, the father-like protector — you (Agni), who as a son are always to be protected like a son; "you become a son to him who has served you" (Ṛgve. 2-1-9) is the Śruti. O knowing (चिकित्वः (*cikitvaḥ*)) Agni, when do you look upon us (अभि चक्षसे (*abhi cakṣase*))? And when, as ऋतचित् (*ṛtacit*), the awakener of the sacrifice or of water, do you impel (यातयासे (*yātayāse*)) us along the good path?
 
 ### Printed p. 784
 
