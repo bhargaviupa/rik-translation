@@ -5832,6 +5832,181 @@ by this passage the identity of Narāśaṃsa with offspring (prajā) is stated.
 - नराशंसम् — नर शब्दः नृ नये इति धातोः अप् प्रत्ययेन सिद्धः । शंसंति अस्मिन् इति शंसः । हलश्च (पा. सू. ३-३-१२१) इति घञ् प्रत्ययः । नराणां शंसः नराशंसः तम् । उभे वनस्पत्यादिषु युगपत् (पा. सू. ६-२-१४०) इति पूर्वोत्तरपदयोः प्रकृतिस्वरो भवति ।
 - त्रिः — द्वित्रिचतुर्भ्यः सुच् (पा. सू. ५-४-१८) इति क्रियाभ्यावृत्तौ गम्यमानायां सुच् प्रत्ययः । सकारस्य रुत्वं विसर्गः ।
 
+### Printed p. 241
+
+##### Grammar
+
+- दिवः — ऊडिदंपदादि—(पा. सू. ६-१-१७१) इति विभक्ते उदात्तस्वरो भवति ।
+- यज्ञियः — यज्ञाय अर्पः यज्ञियः । यज्ञर्त्विग्भ्यां घखञ् (पा.सू. ७-१-७१) इति घ प्रत्ययः । आयनेयानी—(पा. सू. ६-१-२) इति तस्य इयादेशः । यस्येति च इति अकारलोपः । प्रत्ययस्य आद्युदात्तस्वरेण इकार उदात्तो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒ळि॒तो अ॑ग्न॒ आ न॒हेंद्रं॑ चि॒त्रमि॒प प्रि॒यं ।  
+> इ॒यं हि त्वा॑ म॒तिर्ममाच्छा॑ सुजिद्व व॒च्यते॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळितः । अग्ने । आ । वह । इंद्रं । चित्रं । इह । प्रियं ।  
+> इयं । हि । त्वा । मतिः । मम । अच्छ । सुजिह्व । वच्यते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने ईळितः सर्वैः स्तुत्य इण्नामकस्त्वमिहास्मिन्यज्ञे चित्रं चायनीयं
+> प्रियं प्रीणयितारमस्मान् हविः स्वीकर्तुं ना प्रीतियुक्तमिंद्रमा वह । आह्वय ।
+> हे सुजिह्व धृतपानेन शोभनज्वाल इयं मम मतिर्मननसाधना स्तुतिरूपा वाक्
+> त्वा त्वामच्छाभिमुख्येन प्राप्तं वच्यते । मतिरेवास्मदीयोच्यते ॥ हिः पूरणार्थः ।
+> वचेर्यकि संप्रसारणाच्चेति पूर्वरूपस्य ना छंदसीति विकल्पितत्वादभावे यण् ॥ अत्र
+> पुरोडाशादीदभिमानियज्ञ परतॆया वा व्याख्येयं । एवमुत्तरत्र यज्ञांगैर्यज्ञसंबंधिदेवताभिश्च यज्ञ एवोच्यत इति तत्तरत्वेन व्याख्येयं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you who are praised (īḷita) by all and known by the name Iḷa, in this sacrifice bring (ā vaha, 'call') Indra, who is wonderful (citra, 'to be gathered, desirable'), dear (priya, one who gladdens us), and well-disposed, to accept the oblation. O Sujihva, you of fine flames through the drinking of ghee, this my mati, my speech in the form of praise, the instrument of reflection, is addressed (vacyate) toward you, facing you." It is only our own mati that is spoken. The particle हिः (*hiḥ*) is a filler. Sāyaṇa adds a note on the vowel-substitution (yaṇ) in वच्यते (*vacyate*). He then says that here the sacrifice is to be explained as referring to the deities of the sacrifice, such as the puroḍāśa cake; likewise in what follows, the sacrifice alone is meant by its parts and by the deities connected with it, and the verse is to be explained accordingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ईळितः (*īḷitaḥ*)—you who, praised by all, are known as Iḷa
+- इह (*iha*)—in this sacrifice
+- चित्रं (*citraṃ*)—the wonderful one
+- प्रियं (*priyaṃ*)—the beloved one
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ वह (*ā vaha*)—bring (him) along
+- सुजिह्व (*sujihva*)—O Agni, you of excellent flame (through drinking ghee)
+- इयं हि मम मतिः (*iyaṃ hi mama matiḥ*)—this speech of mine, in the form of praise, accompanied by meditation
+- त्वा अच्छ (*tvā accha*)—toward you
+- वच्यते (*vacyate*)—is recited
+
+### Printed p. 242
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who, praised by all, are famed as Iḷa, bring to this our sacrifice Indra, the wonderful and beloved. O Agni, whose flames blaze up through the drinking of ghee, this my speech, in the form of praise and accompanied by meditation, is recited facing you.
+
+##### Printed English
+
+Agni, who is Ilita, bring hither Indra, the wonderful, the beloved; this my praise is recited, bright-tongued, before you.
+
+##### विशेषविषयगळु (Special Topics)
+
+ईळितः सर्वैः स्तुत्यः इळ् नामकः त्वं (*īḷitaḥ sarvaiḥ stutyaḥ iḷ nāmakaḥ tvaṃ*) — it is explained as Agni, who is praised by all and famed by the name Iḷa. ईळॆ ईट्टेः स्तुतिकर्मणः ; इंथते र्वा (*īḷè īṭṭeḥ stutikarmaṇaḥ ; iṃthate rvā*): it may be formed either from the root īḍ, meaning praise, or from the root indh, meaning to blaze. (Ni. 8-8). Having shown this derivation of the word, the Nirukta-writers quote Ṛ. Saṃ. 10-110-3 and explain the right meaning of the word.**NOTE**
+
+First, like the word samidh, this word too seems to have no separate indication as a deity, but to be used only as an epithet of Agni. Since Agni's help and support must be complete at the time of performing the sacrifice, he is by nature worthy of praise. At the beginning Agni must be (1) kindled. Afterwards, (2) under the name Tanūnapāt or Narāśaṃsa, he must make the oblations of the sacrifice full of honey. Then he must bring the gods to the sacrifice. For this work he must indeed be worthy of praise (īḍya). Therefore in this setting he is (3) īḷita, "prayed to", by the sacrificers.
+
+In the Āprī hymns this word, derived from the root īḍ, is used of Agni in nine places in all: in eight as an epithet meaning "one who is praised" or "worthy of praise", and in one as an epithet showing Agni's function as messenger. And in the Āprī verse composed by Viśvāmitra,
+प्र दीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै । (*pra dīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai |*)
+अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्षदिषितो यजीयान् । (*acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣadiṣito yajīyān |*)
+(Ṛ. Saṃ. 3-4-2)
+(Ṛ. Saṃ. 3-4-3)
+only here does it mean food in the form of oblation. Even so, it is related to Agni, the chief deity of that verse. This meaning differs from the tradition of the Āprī hymn. But in the Praiṣa hymn it is only a synonym of Agni.
+
+### Printed p. 243
+
+होतायक्षदग्निमिड ईडितो देवो देवाग्ं आवक्षद्दूतो हव्यनाडमूरः । उपेमं यज्ञमुपेमां देवो देवहूतिमवतु नेत्वाज्यस्य होतरज । (*hotāyakṣadagnimiḍa īḍito devo devāgṃ āvakṣaddūto havyanāḍamūraḥ | upemaṃ yajñamupemāṃ devo devahūtimavatu netvājyasya hotaraja |*)
+(Tai. Brā. 3-6-2-1)
+On this passage the commentator says इडेत्येतन्नामकमग्निं तृतीयप्रयाजदेवं (*iḍetyetannāmakamagniṃ tṛtīyaprayājadevaṃ*), thus giving it as a synonym of Agni. In the Aitareya Brāhmaṇa:
+इळो यजत्यन्नं वा इळोऽन्नमेव तत्प्रीणात्यन्नं यजमाने दधाति । (*iḷo yajatyannaṃ vā iḷo 'nnameva tatprīṇātyannaṃ yajamāne dadhāti |*)
+(Ai. Brā. 2-4)
+It says that iḷa is the food in the form of oblation to be offered in the sacrifice, and that as a result of offering this food the sacrificer too obtains food.
+
+As explained above, the connection that Yāska shows between this word and the root indh is not clearly understood. Here Yāska does not state Kātkaśya's view. In the Bṛhaddevatā:
+इळस्त्वषिकृतं रूपं ईडेश्व स्तुतिकर्मणः । इळावांस्तेन वोक्तोग्निरिडिना वृद्धिकर्मणा ॥ (*iḷastvaṣikṛtaṃ rūpaṃ īḍeśva stutikarmaṇaḥ | iḷāvāṃstena voktogniriḍinā vṛddhikarmaṇā ‖*)
+(Bṛ. De. 3-4)
+By these sentences it is shown that this word is of the seers (ārṣeya) and a synonym of Agni, and that the word ilāvān is an epithet of Agni.**NOTE**
+गोमा अग्नेऽविमा आश्वी यज्ञो नृवत्सखा सदमिदप्रमृष्यः । इळाना एषो असुर प्रजावान्दीर्घो रयिः पृथुबुध्नः सभावान् । (*gomā agne 'vimā āśvī yajño nṛvatsakhā sadamidapramṛṣyaḥ | iḷānā eṣo asura prajāvāndīrgho rayiḥ pṛthubudhnaḥ sabhāvān |*)
+(Ṛ. Saṃ. 4-2-5)
+In this verse the word इळार्वा (*iḷārvā*) is an epithet of Agni, so the Bṛhaddevatā points out that item.**NOTE**
+
+Although such differences of tradition appear in the explanations, it can be said on the whole that it is a synonym of the deity Agni, holding the fourth place in the Āprī hymn.
+
+मतिः—मनसाधना स्तुतिरूपा नाक् (*matiḥ—manasādhanā stutirūpā nāk*) — it means speech that is meditative and in the form of praise.
+
+##### Grammar
+
+- ईळितः — ईड स्तुत् धातुः । कर्मणि निष्ठा इति क्त प्रत्ययः । अर्धधातुकस्लेड्वलाडेः इति इडागमः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+
+### Printed p. 244
+
+##### Grammar
+
+- वह — वह प्रापणे धातुः । लोट् मध्यमपुरुषैकवचने वह इति रूपं भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- चित्रं — चिञ् चयने धातुः । अमिचिमिदिशसिभ्यः क्रः (उ. सू. ४-६०३) इति क्र प्रत्ययः । कित्त्वात् गुणनिषेधो भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- मतिः — मनु अवबोधने धातुः । स्त्रियां क्तिन् (पा. सू. ३-३-९४) इति क्तिन् प्रत्ययः । मंत्रेवृषेषपचमन-(पा.सू. ३-३-९६) इति क्तिन् उदात्तो भवति ।
+- अच्छा — निपातस्य च (पा. सू. ६-३-१३९) इति संहितायां दीर्घो भवति ।
+- सुजिह्व — शोभनाः जिह्वाः यस्य सः सुजिह्वः । गोस्त्रियोरुपसर्जनस्य इति समासे ह्रस्वो भवति । संबुद्धौ अमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+- हि — पादपूरणे चवैतुहि इति अत्र हि इति पादपूरणे आगतः ।
+- वच्यते — वच परिभाषणे धातुः । कर्मणि लट् प्रथमपुरुषैकवचने त प्रत्ययः । टेः एत्वं । सार्वधातुके यक् (पा. सू. ३-१-६७) इति यक् । संप्रसारणे प्राप्ते वा छंदसि इति संप्रसारणं न भवति । हि इत्यस्य संबंधत्वात् हिच (पा. सू. ८-१-३४) इति निघातस्वरप्रतिषेधो भवति । अदुपदेशात् परस्मिन् लसार्वधातुकस्य आगतत्वात् तत् अनुदात्तं भवति तदा यक्स्वरः अवशिष्यते ।**NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्त्र॒णा॒नासो॑ य॒तस्रु॑चो ब॒र्हिर्य॒ज्ञे स्व॑ध्व॒रे ।  
+> वृं॒जे दे॒वव्य॑चस्तम॒मिंद्रा॑य॒ शर्म॑ स॒प्रथः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्त्रणानासः । यतस्रुचः । बर्हिः । यज्ञे । सुअध्वरे ।  
+> वृंजे । देवव्यचःतमं । इंद्राय । शर्म । सप्रथः ॥ ५ ॥
+
+### Printed p. 245
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वध्वरे शोभनप्रायणीयाद्यनांतरयागवति यज्ञे सोमयागे बर्हिर्दर्भान् स्तृणानास आस्तरंतो यतस्रुचो नियमितजुह्वादिपात्रा ऋत्विजो देवव्यचस्तममतिशयेन देवगामिनं सप्रथः सर्वतो विस्तीर्णं शर्म सुखसाधनं गृहमिंद्राय वृंजे । विवर्जयंति । संपादयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the well-conducted (su-adhvara) sacrifice, the Soma sacrifice, which has fine preparatory rites such as the prāyaṇīya and the rites that follow, the priests (ṛtvij) strew the barhis, the darbha grass, and hold ladles and other vessels in check (yatasruc). For Indra they वृंजे (*vṛṃje*), that is, set apart, meaning prepare, a dwelling (śarma), a means of comfort, that is most god-frequented (devavyacastama, most reaching to the gods) and spread out on every side (sapratha).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वध्वरे (*svadhvare*)—in this (sacrifice) accompanied by excellent, introductory rites such as the prāyaṇīya
+- यज्ञी (*yajñī*)—in this Soma sacrifice**NOTE**
+- बर्हिः (*barhiḥ*)—the seats of darbha
+- स्तृणानासः (*stṛṇānāsaḥ*)—strewing
+- यतस्रुचः (*yatasrucaḥ*)—the priests, who hold the ladles and other vessels for the sacrifice
+- देवव्यचस्तमं (*devavyacastamaṃ*)—that which, calling the gods, worships them exceedingly
+- सप्रथः (*saprathaḥ*)—that which is extended
+- शर्म (*śarma*)—that which is a means of comfort, the sacrificial house
+- इंद्राय (*iṃdrāya*)—for Indra
+- वृंजे (*vṛṃje*)—they prepare
+
+##### भावार्थ (Bhāvārtha)
+
+In this Soma sacrifice, accompanied by excellent introductory rites such as the prāyaṇīya, the priests have strewn the darbha seats and hold the ladles and other vessels for the sacrifice. And for Indra they prepare the sacrificial house, which calls the gods and again and again worships them exceedingly, which is extended, and which is a means of comfort.
+
+##### Printed English
+
+The priests, bearing ladles, are strewing the sacred grass in this holy sacrifice, to prepare a god-frequented and well-spread abode for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+बर्हिः (*barhiḥ*)—This implement has a more concrete form than the notions of idhma and Iḷa. Barhis means simply a darbha seat. The doors are given a divine aspect (देवीः द्वारः (*devīḥ dvāraḥ*)), but nothing of the kind is done for barhis. Only the sense of a seat for the gods is suggested. Moreover, the doors are prayed to open of themselves, without other help, and make a way for the gods to come. Lifeless doors cannot open of themselves and make a wide path unless they have divine power; but for barhis there is no attribution of this power. The priests must spread it. Not only in this verse but in the other verses of the Āprī hymns too, it is stated clearly that the barhis is to be strewn only with the help of the priests and others. For example—
+
+### Printed p. 246
+
+प्राचीनं बर्हिरोजसा सहस्रवीरमस्तृणन् । यत्रादित्या विराजथ । (*prācīnaṃ barhirojasā sahasravīramastṛṇan | yatrādityā virājatha |*)
+(Ṛ. Saṃ. 1-188-4)
+In this verse likewise, and in Ṛ. Saṃ. 9-5-4, बर्हिः प्राचीनमोजसा पवमानः स्तृणन् हरिः । (*barhiḥ prācīnamojasā pavamānaḥ stṛṇan hariḥ |*), there is the description that the priests strew the barhis. In the same way, in the verses of the other Āprī hymns too, the barhis is said to be an earthly and lifeless thing, yet a place that is a sacred seat for the gods. Only in the Praiṣa hymn:
+होता यक्षद्बर्हिः सुष्टरीनोर्णम्रदा अस्मिन्यज्ञे वि च प्र च प्रथताग्ं स्वासस्थं देवेभ्यः । एमेनदद्य वसवो रुद्रा आदित्याः सदंतु प्रियमिंद्रस्यास्तु वेत्वाज्यस्य होतरज ॥ (*hotā yakṣadbarhiḥ suṣṭarīnorṇamradā asminyajñe vi ca pra ca prathatāgṃ svāsasthaṃ devebhyaḥ | emenadadya vasavo rudrā ādityāḥ sadaṃtu priyamiṃdrasyāstu vetvājyasya hotaraja ‖*)
+(Tai. Brā. 3-6-2-1)
+with बर्हिर्नामकं चतुर्थप्रयाजदेवमग्निं (*barhirnāmakaṃ caturthaprayājadevamagniṃ*), it is said to be a seat that is a synonym of Agni and of divine nature. In the Aitareya Brāhmaṇa,
+बर्हिर्यजति, पशवो वै बर्हिः पशूनेव तत्प्रीणाति पशून्यजमाने दधाति । (*barhiryajati, paśavo vai barhiḥ paśūneva tatprīṇāti paśūnyajamāne dadhāti |*)
+(Ai. Brā. 2-4)
+it is explained as the animal that grazes on grass and is covered with grass. But it is seen that this meaning has not the slightest scope.**NOTE**
+
+The Nirukta-writers say बर्हिः परिबर्हणात् (*barhiḥ paribarhaṇāt*): because it grows quickly, darbha is named barhis. (Ni. 8-8). In the Bṛhaddevatā,
+बर्हिरेवायमग्निस्तु सर्वं हि परिब्बंहितं । अन्नेन यद्भुतो ना सन्निध्मेन परिबृंहितः ॥ (*barhirevāyamagnistu sarvaṃ hi paribbaṃhitaṃ | annena yadbhuto nā sannidhmena paribṛṃhitaḥ ‖*)
+(Bṛ. De. 3-5)
+it states identity: since all food is pervaded by him, and since after the oblation he is filled with fuel, Agni himself is in the form of barhis.
+
+Although in many matters the authors of the Bṛhaddevatā follow the sentences of the Nirukta, in this context they show a slight difference: what the Nirukta-writers call barhis, simply a seat for the gods, they explain as a seat of divine nature and a synonym of Agni.
+
+स्तृणानासः (*stṛṇānāsaḥ*) (printed स्प्राणासरि (*sprāṇāsari*))—आस्तरंत (*āstaraṃta*): those who strew.**NOTE**
+सप्रथः (*saprathaḥ*)—सप्रथाः सर्वतः पृथुः (*saprathāḥ sarvataḥ pṛthuḥ*): it means spread out broadly all around, as the Nirukta-writers explain (Ni. 6-8).
+
 ---
 
-**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
+**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
