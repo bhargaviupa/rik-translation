@@ -6164,6 +6164,186 @@ Beautiful night and morning, ever hymned, ever associated, progeny (of time), pa
 
 (आ) भंदमाने (*(ā) bhaṃdamāne*)—सर्वैः स्तूयमाने । (*sarvaiḥ stūyamāne |*) "Praised by all": an adjective of the deities called नक्तोषासा (*naktoṣāsā*). Since it is read among the names of the act of worship, अर्चति (*arcati*), गायति (*gāyati*) and so on (Ni. 3-19), भंदमाना (*bhaṃdamānā*) means the object of worship. भंदनाः । (*bhaṃdanāḥ |*)
 
+### Printed p. 254
+
+The Nirukta says that भंदना भंदतेः स्तुतिकर्मणः । (*bhaṃdanā bhaṃdateḥ stutikarmaṇaḥ |*) (Ni. 5-2): the word is formed from the root भंद् (*bhaṃd*) and means an act of praise. The Nirukta cites two Ṛks:
+
+आ विवेश रोदसी भूरिर्वपसा पुरुप्रियो भंदते धामभिः कविः । (*ā viveśa rodasī bhūrirvapasā purupriyo bhaṃdate dhāmabhiḥ kaviḥ |*) (Ṛ. Saṃ. 3-3-4)
+
+स भंदना उदियर्ति प्रजावतीर्विश्वायुर्विश्वाः सुभरा अहर्दिवि । (*sa bhaṃdanā udiyarti prajāvatīrviśvāyurviśvāḥ subharā ahardivi |*) (Ṛ. Saṃ. 9-86-41.)
+
+and thereby shows that the word is fitting in contexts where excellent praise is made. (Ni. 5-2)
+
+सुमत् (*sumat*)—स्वयमेव । अस्माभिरप्रार्थिते इत्यर्थः। (*svayameva | asmābhiraprārthite ityarthaḥ|*) That is, "even if we do not pray, of your own accord"; it indicates the generosity and the self-respect of Uṣāsānaktā. सुमत्स्वयमित्यर्थः (*sumatsvayamityarthaḥ*) (Ni. 6-22): the Nirukta explains the word सुमत् (*sumat*) as स्वयं (*svayaṃ*), that is, "of itself". It is also understood that this is not the only meaning of the word; it is also a synonym of the words कल्याण (*kalyāṇa*), शोभन (*śobhana*) or भद्र (*bhadra*). Since many words such as सुमद्रथः (*sumadrathaḥ*), सुमद्गणः (*sumadgaṇaḥ*), सुमदंशुः (*sumadaṃśuḥ*) are in use, one looks at the meaning of those words. In the Ṛk
+
+अमेव नः सुहवा आ हि गंतन नि बर्हिषि सदतना रणिष्टन । (*ameva naḥ suhavā ā hi gaṃtana ni barhiṣi sadatanā raṇiṣṭana |*)
+अथा मंदस्व जुजुषाणो अंधसस्त्वष्टर्देवेभिर्जनिभिः सुमद्गणः । (*athā maṃdasva jujuṣāṇo aṃdhasastvaṣṭardevebhirjanibhiḥ sumadgaṇaḥ |*)
+(Ṛ. Saṃ. 2-36-3)
+
+the word सुमद्गणः (*sumadgaṇaḥ*) is explained as शोभनगणः (*śobhanagaṇaḥ*); and in
+
+विभावा देवः सुरणः परि क्षितीरग्निर्बभूव शवसा सुमद्रथः । (*vibhāvā devaḥ suraṇaḥ pari kṣitīragnirbabhūva śavasā sumadrathaḥ |*)
+तस्य व्रतानि भूरिपोषिणो वयमुप भूषेम दम आ सुवृक्तिभिः । (*tasya vratāni bhūripoṣiṇo vayamupa bhūṣema dama ā suvṛktibhiḥ |*)
+(Ṛ. Saṃ. 3-3-9)
+
+सुमद्रथः (*sumadrathaḥ*) is explained as शोभनरथः (*śobhanarathaḥ*). In all these places the word सुमत् (*sumat*) is a synonym of शोभन (*śobhana*) and कल्याण (*kalyāṇa*). Likewise here too, since the coming of the deities Uṣāsānaktā is excellent and auspicious, the fitness of this word can be understood.
+
+उपाके (*upāke*)—this word is read among the words for "near" (Ni. 3-9); परस्परं सन्निहिते । (*parasparaṃ sannihite |*) It means those who are close to each other.
+
+सुपेशसा (*supeśasā*)—पेश इति रूपनाम । पिंशतेर्विपिशितं भवति । (*peśa iti rūpanāma | piṃśatervipiśitaṃ bhavati |*) The Nirukta, citing this very Ṛk, shows that the word is formed from the root पिश् (*piś*), which gives the sense "refined, polished", and means "possessing beauty" (Ni. 8-11). The purport is: those whose form is exceedingly beautiful.
+
+### Printed p. 255
+
+यह्वी (*yahvī*)—महत्यौ अपत्यरूपे वा । (*mahatyau apatyarūpe vā |*) It means: those of a very great nature, or those of the form of children. In the Nirukta this word is read among the words for "great" (Ni. 3-13) and also among the words for offspring, तुक् (*tuk*), तोकं (*tokaṃ*) and so on (Ni. 3-1). Both kinds of nature can be seen in the description of Uṣas. For example:
+
+उप व एषे वंद्येभिः शूष्यैः प्र यह्वी दिवश्चि तयद्भिरर्कैः । (*upa va eṣe vaṃdyebhiḥ śūṣyaiḥ pra yahvī divaści tayadbhirarkaiḥ |*)
+उषासानक्ता विदुषीव विश्वमा हा वहतो मर्त्याय यज्ञं । (*uṣāsānaktā viduṣīva viśvamā hā vahato martyāya yajñaṃ |*)
+(Ṛ. Saṃ. 5-41-7)
+
+उत योषणे दिव्ये मही न उषासानक्ता सुदुघेव धेनुः । (*uta yoṣaṇe divye mahī na uṣāsānaktā sudugheva dhenuḥ |*)
+बर्हिषदा पुरुहूते मघोनी आ यज्ञये सुविताय श्रयेतां । (*barhiṣadā puruhūte maghonī ā yajñaye suvitāya śrayetāṃ |*)
+(Ṛ. Saṃ. 7-2-6)
+
+In these and similar Ṛks the great nature of the deities Uṣāsānakta is described. And in
+
+द्वे विरूपे चरतः स्पर्धे अन्यान्या वत्समुप धापयेते । (*dve virūpe carataḥ spardhe anyānyā vatsamupa dhāpayete |*)
+हरिरन्यस्यां भवति स्वधावाञ्चुक्रो अन्यस्यां ददृशे सुवर्चाः ॥ (*hariranyasyāṃ bhavati svadhāvāñcukro anyasyāṃ dadṛśe suvarcāḥ ‖*)
+(Ṛ. Saṃ. 1-95-1)
+
+पुनः पुनर्जायमाना पुराणी समानं वर्णमभिशुंभमाना । श (*punaḥ punarjāyamānā purāṇī samānaṃ varṇamabhiśuṃbhamānā | śa*)
+श्वघ्नीव कृत्नुर्विज आमिनाना मर्तस्य देवी जरयंत्यायुः ॥ (*śvaghnīva kṛtnurvija āminānā martasya devī jarayaṃtyāyuḥ ‖*)
+(Ṛ. Saṃ. 1-92-10)
+
+and similar Ṛks, the point is also described that Night and Uṣas, being born again and again, are of the form of children. Therefore, for the word यह्वी (*yahvī*) either of the two meanings above may be given.
+
+नक्तोषसा (*naktoṣasā*)—among the other epithets of these deities the epithet ऋतस्य मातरा (*ṛtasya mātarā*) is very important.
+
+द्रवतां त उषसा वाजयंती अग्ने वातस्य पथ्याभिरच्छ । (*dravatāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha |*)
+यत्स्रीमंजंति पूर्व्यं हविर्भिरा वंधुरेव तस्थतुर्दुरोणे ॥ (*yatsrīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖*)
+(Ṛ. Saṃ. 3-14-3)
+
+In this Ṛk the constant relation between the sacrifice and them is described. In all the Ṛks that invite them (there are about twenty such Ṛks) they are prayed to come with the other deities and sit on the sacred-grass seat. Moreover, they have a very close relation with Agni, who is kindled at dawn and at evening. For that very reason the figurative description that they bear and hold Agni between them,
+
+### Printed p. 256
+
+नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची । (*naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī |*)
+द्यावाक्षामा रुक्मो अंतर्नि भाति देवा अग्निं धारयन्द्रविणोदां ॥ (*dyāvākṣāmā rukmo aṃtarni bhāti devā agniṃ dhārayandraviṇodāṃ ‖*)
+(Ṛ. Saṃ. 1-96-5)
+
+and similar Ṛks, tells that they help Agni, who is of the form of a child, to drink the oblation. Because of this relation they are said to be near the sacrificers. In general this description is repeated in the Āprī-sūktas too. For example:
+
+अ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । (*a suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon |*)
+दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥ (*divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*)
+(Ṛ. Saṃ. 10.118-6)
+
+In this Ṛk of an Āprī-sūkta the same matter is stated.
+
+From this it is understood that the deities Uṣāsānaktā are not given a subordinate place in the sacrificial acts but obtain a most important place. This obtaining of a principal place is indicated in the mantra of the Praiṣa-sūkta,
+
+होता यक्षदुषासानक्ता बृहती सुपेशसा नृग्ं पतिभ्यो योनिं कृण्वाने ॥ (*hotā yakṣaduṣāsānaktā bṛhatī supeśasā nṛgṃ patibhyo yoniṃ kṛṇvāne ‖*)
+सग्ंस्मयमाने इंद्रेण देवैरेदं बर्हिः सीदतां वीतामाज्यस्य होतरज ॥ (*sagṃsmayamāne iṃdreṇa devairedaṃ barhiḥ sīdatāṃ vītāmājyasya hotaraja ‖*)
+(Ḍvai Brā. 3-6-21)**NOTE**
+
+in which Uṣā-naktā are prayed to sit on the sacred-grass seat not only with Agni but also with the other deities beginning with Indra. In the Aitareya Brāhmaṇa they are addressed as अहोरात्रे (*ahorātre*). In Ni. 8, 11 the Nirukta-author has described the nature of these deities. What the Nirukta-author says of the derivation of the two words उषस् (*uṣas*) and नक्त (*nakta*) and of the nature of these deities has been told earlier. In the Bṛhaddevatā too they are described in this way:
+
+नक्तोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते । (*naktoṣāsau ca ye devyāvāgneyyāveva te smṛte |*)
+श्याव्याग्नेयी हि कालस्य तस्यैवोषाः कलेव तु॥ (*śyāvyāgneyī hi kālasya tasyaivoṣāḥ kaleva tu‖*)
+(Bṛ. Je. 3-8)**NOTE**
+
+It is well known that these two deities, Uṣas and Nakta, are related to Agni. Of these, Śyāvī (the night-deity, 1-71-1) has a close relation with Agni; and from the Nirukta sentence उषः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣaḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni 2-18) it is known that Uṣas is the later part of that night.
+
+तम उच्छत्युषा नक्तानक्तीमां हिमबिंदुभिः । (*tama ucchatyuṣā naktānaktīmāṃ himabiṃdubhiḥ |*)
+अपि नाव्यक्तवर्णेति नइद् पूर्वाइच्चेरिदं भवेत् ॥ (*api nāvyaktavarṇeti naid pūrvāicceridaṃ bhavet ‖*)
+(Bṛ. De. 3-9)
+
+### Printed p. 257
+
+Of these two, Uṣas drives away the darkness. Night makes everything wet and pervaded by drops of dew. Or, since she has no distinct colour, the root अञ् (*añ*) joins with the particle नञ् (*nañ*) and gives the sense "of indistinct colour".
+
+सा हि दोषा भवत्यादौ निशीथे सा तमस्वती । (*sā hi doṣā bhavatyādau niśīthe sā tamasvatī |*)
+नाम्मा भवत्युषाश्चैव सैषा प्रागुदयाद्रवेः ॥ (*nāmmā bhavatyuṣāścaiva saiṣā prāgudayādraveḥ ‖*)
+(Bṛ De. 3-10)
+
+At the beginning this deity is named (Pra)doṣā, at midnight Tamasvatī, and before sunrise Uṣas. दोषा (*doṣā*), तमस्वती (*tamasvatī*), श्यावी (*śyāvī*), नक्ता (*naktā*) are all names of night, as read in the Nighaṇṭu (Nighaṇṭu 1-7).
+
+Elsewhere in the Ṛk-saṃhitā, by epithets such as तंतुं ततं संवयंती (*taṃtuṃ tataṃ saṃvayaṃtī*) (2.3-6), the help of Uṣāsānaktā in the extension of the sacrifice is described.
+
+##### Grammar
+
+- भंदमाने—भवि कल्याणे । सुखे च । धातुः । भ्यादिः । लिटि शानचादेशः । इदितोनुम्धातोः इति सुमागमः । शप् विकरणः । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । अदुपदेशात् परं लसार्वधातुकस्यागतत्वात् तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति तदनुदात्तं भवति । तेन धातुस्वरः शिष्यते । सप्तम्येकवचनांतरूपम् ।**NOTE**
+- उपाके—अंतोदात्तस्वरे प्राप्ते व्यत्ययेन आद्युदात्तं भवति ।
+- नक्तोषसा—नक्तं च उषाश्च नक्तोषसा । द्विवचनस्य औकारविभक्तेः सुपां सुलुक्—(पा.सू. ७-१-३९) इति आकारादेशः । पूर्वपदस्य मकारस्य लोपः उत्तरपदे दीर्घश्च छांदसतया भवतः ।
+- सुपेशसा—शोभनं पेशः रूपं ययोस्ते । पूर्ववत् आकारादेशः । नञ्सुभ्याम् (पा. सू. ६-२-१६२) इति उत्तरपदांतोदात्तस्वरे प्राप्ते तस्यापवादतया आद्युदात्तं द्व्यच्छंदसि (पा. सू. ६-२-११९) इति उत्तरपदमाद्युदात्तस्वरं भवति ।
+- मातरा—सुपां सुलुक्—(पा. रू. ७-३९) इति विभक्तेः आकारादेशः ।**NOTE**
+- सीदताम्—षद्ल्य विशरणगत्यवसादनेषु । लोट्प्रथमपुरुषद्विवचने लज्ञद्भावत्वात् तामादेशः । पाघ्राध्मा—(पा. सू. ७-३-७८) इति सीदादेशः । अदुपदेशात् परं प्रत्ययस्यागतत्वात् तास्यनुदात्तेत्—सूत्रेण तदनुदात्तं भवति । तेन धातुस्वरः शिष्यते । पादादौ आगतत्वात् निघातस्वरो न भवति ।
+
+### Printed p. 258
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रजि॑ह्वा जुगु॒र्वणी॒ होता॑रा॒ दैन्व्या॑ क॒वी ।  
+> य॒ज्ञं नो॑ यक्षतामि॒मं सि॒ध्रम॒द्य दि॑वि॒स्पृशं॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रजिह्वा । जुगुर्वणे इति । होतारा । दैव्या । कवी इति ।  
+> यज्ञं । नः । यक्षतां । इमं । सिद्धं । अद्य । दिविस्पृशं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रजिह्वा देवानां मादनज्वाल् जुगुर्वणी भृशं गृणतां स्तुवतां यजमानानां संभक्तारौ ॥ गृणतेर्यज्लुगंतात् क्विपि च्छांदसी रूपसिद्धिः । तस्मिन्नुपदे वनतेश्चंदसि वनसनरक्षिमथामितीन्प्रत्ययः ॥ कवी मेधाविनौ क्रांतदर्शिनौ
+> दैव्या होतारा देवसंबंधिनौ होतार् अयं च मध्यमस्थानश्चेत्युभौ सिद्ध्रं फल.
+> साधनभूतं ॥ सिधेः स्थायितंचीत्यादिना रक् ॥ दिविस्पृशं द्युलोकनासिदेवान्
+> स्पृशंतं । तैर्हनिषः स्वीक्रियमाणत्पादिति भावः । ईदृशं नोऽस्मदीयमिमं यज्ञमद्य यक्षतां । अनुतिष्ठतां पूजयतां ना । सम्यङ्निर्वाहयतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+मंद्रजिह्वा (*maṃdrajihvā*): those whose flames gladden the gods. जुगुर्वणी (*jugurvaṇī*): those who bestow (संभक्तारौ (*saṃbhaktārau*)) on the sacrificers who greatly praise and extol; the form is explained as an irregular (Vedic) formation from the root गृण (*gṛṇa*) in the intensive-luk, with *kvip*.**NOTE** कवी (*kavī*): the two who are wise and far-seeing. दैव्या होतारा (*daivyā hotārā*): the two Hotṛs related to the gods; he says that these two are this (terrestrial) Agni and the one who has the middle region as his place. सिद्ध्रं (*siddhraṃ*): the instrument of the fruit. दिविस्पृशं (*divispṛśaṃ*): touching the dwellers of the heavenly world, the gods; the idea is that the oblations are accepted by them.**NOTE** Let them today perform (यक्षतां (*yakṣatāṃ*)) such a sacrifice of ours: carry it out, worship it, bring it to proper completion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रजिह्वा (*maṃdrajihvā*)—those whose flames cause delight (to the gods)
+- जुगुर्वणी (*jugurvaṇī*)—those who favour the sacrificers who offer praise
+- कवी (*kavī*)—the wise ones
+- दैव्या होतारा (*daivyā hotārā*)—the two forms of Agni, who call the gods (to the sacrifice)
+- सिद्धं (*siddhaṃ*)—that which gives fruit
+- दिविस्पृशं (*divispṛśaṃ*)—that which reaches (the gods) in the world of the gods
+- नः इमं यज्ञं (*naḥ imaṃ yajñaṃ*)—this sacrifice of ours
+- अद्य (*adya*)—now
+- यक्षतां (*yakṣatāṃ*)—let them perform
+
+##### भावार्थ (Bhāvārtha)
+
+May the two forms of Agni, whose flames gladden the gods and who favour the devoted sacrificers, now perform this sacrifice of ours, which gives fruit and reaches the gods in the world of the gods.
+
+### Printed p. 259
+
+##### Printed English
+
+May the two pleasing-tongued receivers of praise, the divine and sage invokers (of the gods), officiate to-day at this our sacrifice, which confers (rewards) and attains heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+दैव्या होतारा (*daivyā hotārā*)—देवसंबंधिनौ होतारौ। अयं च मध्यमस्थानश्च इत्युभौ। (*devasaṃbaṃdhinau hotārau| ayaṃ ca madhyamasthānaśca ityubhau|*) Sāyaṇa has explained these as the two forms of Agni: the terrestrial Agni and the Agni of the atmosphere, both related to the gods and both Hotṛs. Some modern scholars have given a different meaning and have also shown differences of opinion among themselves. The scholar Goldner has explained them as the Hotṛ who is the sacrificer and his Agni; Hang as the Hotṛ and the Adhvaryu; Oldenberg as the Hotṛ and his assistant, the Maitrāvaruṇa. None of these is reasonable.
+
+That the performing of the sacrifice is the chief duty of these Hotṛs is stated in the Ṛks 1-13-8 and 1-18-7 by यज्ञं नो यक्षतामिमं । (*yajñaṃ no yakṣatāmimaṃ |*) and in the Ṛk 2-3-7 by देवान्यजंतावृतुथा । (*devānyajaṃtāvṛtuthā |*) This reminder of duty should apply to the human Hotṛ, and Agni is addressed figuratively. In the same way, in
+
+देव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । (*devyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai |*)
+प्रचोदयंता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता । (*pracodayaṃtā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā |*)
+(Ṛ. Saṃ. 10-111-7)
+
+it is the opinion of some scholars that the description "producers of the sacrifice" or "those who measure the sacrifice" also suggests the same idea.
+
+Thus some epithets, though common to both Hotṛs, suggest only the duty of the human Hotṛ; other epithets, again common to both, describe only the duties of Agni, the divine Hotṛ. For example:
+
+देव्या होतारा प्रथमा न्यृंजे सप्त पृक्षासः स्वधया मदंति । (*devyā hotārā prathamā nyṛṃje sapta pṛkṣāsaḥ svadhayā madaṃti |*)
+ऋतं शसंत ऋतमित्त आहुरनु व्रतं व्रतसा दीध्यानाः ॥ (*ṛtaṃ śasaṃta ṛtamitta āhuranu vrataṃ vratasā dīdhyānāḥ ‖*)
+(Ṛ. Saṃ. 3-4-7)
+
+In this Ṛk there is no doubt that the epithet प्रथमा (*prathamā*) refers to Agni, the divine Hotṛ.
+
 ---
 
-**Progress note:** Done through printed p. 253. pp. 247-253 (batch API)
+**Progress note:** Done through printed p. 259. pp. 254-259 (batch API)
