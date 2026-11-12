@@ -19,8 +19,26 @@ import argparse, json, re, sys, pathlib
 KDIG = '೦-೯'
 ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?$', re.I)
 
+def flatten_tables(lines):
+    """The converter writes some pages of the contents as HTML tables (Vol 18, the last sūktas): every <tr> becomes ONE text line at the line number of its
+    <tr> (cells joined: [number] title page), the other lines of the table are blanked, so line numbers (`src`) stay those of the md."""
+    out = list(lines); i = 0
+    while i < len(out):
+        if out[i].strip() == '<tr>':
+            j = i
+            while j < len(out) and out[j].strip() != '</tr>': j += 1
+            cells = [re.sub(r'<[^>]+>', '', c).strip() for c in re.findall(r'<td[^>]*>(.*?)</td>', ' '.join(out[i:j + 1]), re.S) or []]
+            txt = ' '.join(c for c in cells if c)
+            for k in range(i, j + 1): out[k] = ''
+            out[i] = txt
+            i = j
+        elif re.match(r'\s*</?(table|tbody|thead)>\s*$', out[i]): out[i] = ''
+        i += 1
+    return out
+
 def parse(lines, start_word, end_word, fixes=None):
     fixes = fixes or {}
+    lines = flatten_tables(lines)
     idx = [i for i, l in enumerate(lines) if start_word in l]
     s = idx[1] if len(idx) > 1 else idx[0]
     e = next(i for i, l in enumerate(lines) if end_word in l and i > s)
@@ -31,8 +49,10 @@ def parse(lines, start_word, end_word, fixes=None):
             blocks.append({'t': 'item', 'text': pend[1], 'page': None, 'src': pend[0]}); pend = None
     for i in range(s + 1, e):
         raw = lines[i].strip()
-        if not raw or raw == '---' or ROMAN.match(raw) or 'This image contains' in raw: continue
+        if not raw or raw == '---' or ROMAN.match(raw) or 'This image contains' in raw or raw.startswith('[figure') or raw == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^##\s*', '', raw)
+        if txt == 'ಪುಟಸಂಖ್ಯೆ': continue
+        txt = re.sub(r'^ಪುಟಸಂಖ್ಯೆ\s+', '', txt)          # the column head 'page number' repeated at the top of a printed page of the contents (Vol 18)
         if txt in ('॥ ಶ್ರೀಃ ॥',) or txt.startswith('ಋಗ್ವೇದಸಂಹಿತೆಯ') or txt.replace(' ', '') == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ': continue
         m = re.match(rf'^([{KDIG}]+)[\.\s]+(.*ಸೂಕ್ತ.*)$', txt)
         if m:

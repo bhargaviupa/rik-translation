@@ -120,6 +120,7 @@ def expand(en_text,kn_text,plain=(),start=None):
     # ⟪…⟫ = Sanskrit written by the translator in Kannada script (the grammar sections from Vol 17 on): converted to Devanagari, no IAST, not matched against kn.md
     en_text=re.sub(r'⟪([^⟫]*)⟫',lambda m:kn2deva(re.sub(r'\s*\n\s*',' ',m.group(1)).strip()),en_text)
     en_text=resolve_markers(en_text,kn_text,prob)
+    en_text=re.sub(r'(⟦[^⟧]*[।॥]\s*⟧)[ \t]*[।॥]',r'\1',en_text)        # the danda already inside the quotation is not written a second time after it (Vol 18: 8 places)
     # a quotation may be broken over several lines in en.md: join it first (add_iast.py and the line-wise conversion below work on single lines)
     en_text=re.sub(r'⟦([^⟧]*)⟧',lambda m:'⟦'+re.sub(r'\s*\n\s*',' ',m.group(1)).strip()+'⟧',en_text)
     for l in en_text.split('\n'):
