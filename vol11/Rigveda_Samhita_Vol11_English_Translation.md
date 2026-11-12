@@ -2854,6 +2854,157 @@ since there is this description of the tongues, which are forms of flame, Sāya�
 - असमनाः—न विद्यते समानं मनः येषां ते । व्यत्ययो बहुलं इति बहुवचनस्य एकवचनप्रत्ययः । नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति ।
 - अजिरासः—अज गतिक्षेपणयोः धातुः । अजिरशिशिर—(उ. सू. १-५३) इति किरच् प्रत्ययांतत्वेन निपातितम् । चितः (उ. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । जस् परे पूर्ववत् तस्य असुकागमः । **NOTE**
 
+### Printed p. 116
+- रघुस्यदः — लघु स्यंदंते इति रघुस्यदः । स्यंदू प्रस्रवणे धातुः । क्विप् च इति क्विप् प्रत्ययः । अनिदितां हलउपधा इति उपधानकारस्य लोपः । वालमूल इति वचनेन लत्वस्य विकल्पितत्वात् पूर्वपदे रेफश्रवणं भवति । गतिकारकोपपदात्कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- वातजूताः — वातैः जूताः वातजूताः । कर्मणि क्तप्रत्ययः आगत्य तृतीयांतेन समासत्वात् तृतीयाकर्मणि (पा. सू. ९-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति । **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आद॑स्य॒ ते ध्व॒सयं॑तो॒ वृथे॑रते कृ॒ष्णमभ्वं॒ महि॒ वर्षः॒  ॑
+> करि॑क्रतः ।  
+> यत्सीं॑ म॒हीम॒वनिं॒ प्राभि मर्मृ॑शदभिश्व॒सन्त॒ नय॒न्नेति॒  ॑
+> नानदत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । अस्य । ते । ध्वसयंतः । वृथा । ईरते । कृष्णं । अभ्वं । महि । वर्षः । करिक्रतः ।  
+> यत् । सीं । महीं । अवनिं । प्र । अभि । मर्मृशत् । अभिश्वसन् । स्तनयन् । एति ।  
+> नानदत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदनंतरमस्य स्तूयमानस्याग्नेस्ते प्रसिद्धा विस्फुलिंगा वृथा सहैवेरते ।
+> सर्वतो गच्छंति । कीदृशास्ते । ध्वसयंतस्तमांसि ध्वंसयंतः तथा कृष्णवर्णमभ्वं
+> महांतमभिभवद्दमनमार्गं महि महद्वर्पो रूपं प्रकाशं करिक्रतोऽत्यर्थं
+> कुर्वंतः । कस्मिन् काल इति तदुच्यते । यद्यदा महीं महतीमवनिं भूमिं सीं
+> सर्वतो मर्मृशत् पुनःपुनरामृशत् ॥ मृशेर्यज्लुगंताच्छतर्यभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ अभिश्वसन् सर्वतश्चेष्टमानः स्तनयइब्बं कुर्वन् नानददत्यर्थं
+> शब्दयन् ॥ पूर्ववत्पत्ययस्वरौ ॥ अभितः प्रकर्षणैति गच्छति । यदेतस्ततो
+> जिह्वाभिर्लेलिहानो भुगुभुगुध्वनिं कुर्वञ्वलति तदैव विस्फुलिंगा उद्भवंतीत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+After this, those well-known sparks of the Agni who is being praised go forth वृथा (*vṛthā*) "together" (सहैव (*sahaiva*)), in all directions. Of what kind are they? ध्वसयंतः (*dhvasayaṃtaḥ*): destroying the darknesses. Likewise कृष्णं अभ्वं (*kṛṣṇaṃ abhvaṃ*): the black-coloured, great path that overpowers and subdues; महि वर्षः (*mahi varṣaḥ*) (the text reads so): great form, brightness, which they करिक्रतः (*karikrataḥ*) make exceedingly. At what time? That is told: यत् (*yat*), when, महीं (*mahīṃ*) the great अवनिं (*avaniṃ*) earth सीं (*sīṃ*) on all sides मर्मृशत् (*marmṛśat*) he touches again and again. अभिश्वसन् (*abhiśvasan*): moving about on all sides; स्तनयन् (*stanayan*): making a thundering sound; नानदत् (*nānadat*): sounding exceedingly. He एति (*eti*) goes forth on all sides. The meaning is: when, licking with his tongues and making a bhugubhugu sound, he blazes, then at that very time the sparks arise.
+
+### Printed p. 117
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when (Agni)
+- अभिश्वर्स (*abhiśvarsa*)—making a throbbing sound like a deep breath
+- स्तनर्य (*stanarya*)—making a resounding sound
+- नानदत् (*nānadat*)—roaring
+- महीं (*mahīṃ*)—vast
+- अवनिं (*avaniṃ*)—the earth
+- सीं (*sīṃ*)—all round
+- मर्मृशत् (*marmṛśat*)—touching again and again (illumining)
+- अभि (*abhi*)—on all sides
+- प्र एति (*pra eti*)—blazes well
+- आत् (*āt*)—immediately thereupon
+- अस्य (*asya*)—of this Agni
+- ते (*te*)—the well-known flames
+- ध्वसयंतः (*dhvasayaṃtaḥ*)—destroying (the darkness)
+- कृष्णं अभ्वं (*kṛṣṇaṃ abhvaṃ*)—round the path of deep darkness
+- महि (*mahi*)—vast
+- वर्षः (*varṣaḥ*)—light
+- करिक्रतः (*karikrataḥ*)—spreading
+- वृथा (*vṛthā*)—gathering together
+- ईरते (*īrate*)—blaze well
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni blazes well on all sides, making a throbbing sound like a deep breath, making a resounding sound, roaring, and illumining again and again the vast earth all round, immediately thereupon these well-known flames of Agni, destroying the darkness, spreading vast light round the path of deep darkness, gather together and blaze well.
+
+##### Printed English
+
+Thereupon those (flames of Agni) extend together in all directions, dispersing gloom, and spreading great light along the path of darkness; when (Agni) illumines repeatedly the whole earth, and proceeds panting, thundering, and roaring aloud.
+
+##### विशेषविषयगळु (Special Topics)
+
+वृथा (*vṛthā*)—Sāyaṇa explains it as सहैव (*sahaiva*), "gathered together". **NOTE** Elsewhere, in Ṛks such as
+वि वातजूतो आतसेषु तिष्ठते वृथा जुहूभिः सृण्या तुविष्वणिः । (*vi vātajūto ātaseṣu tiṣṭhate vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ |*) (Ṛ. Saṃ. 1-58-4)
+अस्तोभयद्वृथासामनु स्वधां गभस्त्योः (*astobhayadvṛthāsāmanu svadhāṃ gabhastyoḥ*) (Ṛ. Saṃ. 1-88-6)
+and generally wherever the word वृथा (*vṛthā*) occurs, Sāyaṇa explains वृथा इति अनायासवचनः (*vṛthā iti anāyāsavacanaḥ*): the word वृथा (*vṛthā*) means without fatigue, without toil; he explains the purport as that Agni spreads without any toil at all. In the present Ṛk he explains that all the sparks of Agni spread gathered together. Here too it may be said that the flames of Agni spread without the least hindrance.
+
+### Printed p. 118
+कृष्णं अभ्वं (*kṛṣṇaṃ abhvaṃ*)—The word अभ्व (*abhva*) is read among the names of water (Ni. 2-24) and among the names of "great" (Ni. 3-13). But since meanings other than these two are also possible, Sāyaṇa too has explained this word according to context. If we first learn what meanings he has given to this word in other places, we can afterwards settle its right meaning in the present Ṛk.
+
+In the Ṛk
+नेमा आपो अनिमिषं चरंतीर्न ये वातस्य प्रिमिनंत्यभ्वं । (*nemā āpo animiṣaṃ caraṃtīrna ye vātasya priminaṃtyabhvaṃ |*) (Ṛ. Saṃ. 1-24-6)
+Varuṇa is praised. Here, वातस्य ये गतिविशेषाः ते त्वदीयं अभ्वं वेगं न हिंसंति (*vātasya ye gativiśeṣāḥ te tvadīyaṃ abhvaṃ vegaṃ na hiṃsaṃti*): even the speed of the wind's motion cannot check Varuṇa's speed; thus he explains the word अभ्व (*abhva*) as speed.
+
+In
+युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्य ईषते । (*yuṣmeṣito maruto martyeṣita ā yo no abhya īṣate |*) (Ṛ. Saṃ. 1-39-8)
+the Maruts are praised. Here, यः यःकश्चित् अभ्वः शत्रुः....नः प्राप्नोति तं शवसा वि युयोत (*yaḥ yaḥkaścit abhvaḥ śatruḥ....naḥ prāpnoti taṃ śavasā vi yuyota*), he calls the word अभ्व (*abhva*) an enemy. In Ṛ. Saṃ. 1-168-9, in अभ्वं मेघतॆ जनयंति (*abhvaṃ meghatè janayaṃti*), he gives the meaning cloud; in Ṛk 1-169-3 the meaning water; and in 2-4-5 the meaning "great".
+
+In the Ṛk
+अर्हन्बिभर्षि सायकानि धन्वार्हन्निष्कं यजतं विश्वरूपं । अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र त्वदस्ति ॥ (*arhanbibharṣi sāyakāni dhanvārhanniṣkaṃ yajataṃ viśvarūpaṃ | arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ‖*) (Ṛ. Saṃ. 2-33-10)
+he says विश्वं अभ्वं । महन्नामैतत् । अति विस्त्रतं जगत् । (*viśvaṃ abhvaṃ | mahannāmaitat | ati vistrataṃ jagat |*); since it is read among the names of "great", it is understood as the extremely vast world. The use of this word is employed also when showing the greatness in the great power. **NOTE**
+
+In
+भूरिं द्वे अचरंती चरंतं पद्वंतं गर्भमपदी दधाते । नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्यात् । (*bhūriṃ dve acaraṃtī caraṃtaṃ padvaṃtaṃ garbhamapadī dadhāte | nityaṃ na sūnuṃ pitrorupasthe dyāvā rakṣataṃ pṛthivī no abhyāt |*) (Ṛ. Saṃ. 1-185-2)
+Heaven and Earth are addressed with नः अस्मान् अभ्वात् महतो भयहेतोः पापात् रक्षतं पालयतं । (*naḥ asmān abhvāt mahato bhayahetoḥ pāpāt rakṣataṃ pālayataṃ |*): "protect us from the great sin that is a cause of fear"; so the prayer is. In the same way, up to the 8th Ṛk of this sūkta, the word अभ्वात् (*abhvāt*) is used in the sense of great fear. All the various meanings so arising became traditional. What the original meaning of the word अभ्व (*abhva*) is, and how these traditional meanings are possible on that original meaning:
+
+### Printed p. 119
+to know this, one must observe the word अभ्व (*abhva*) as used in a passage of the Śatapatha Brāhmaṇa; then this original meaning becomes known.
+अथ ब्रह्मैव परार्धमगच्छत् । तत्सरार्थं गत्वैक्षत कथं निमान्लोकान्प्रत्यवेयामिति तद्वाभ्यामेव प्रत्यवैद्रूपेण चैव नाम्मा च स यस्य कस्य च नामास्ति तन्नाम यस्कोऽपि नाम नास्तियद्वेद रूपेणेदग्ं रूपमिति तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो महती अभ्ये । स यो हैते ब्रह्मणो महती अभ्ये वेद महद्धैवाभ्वं भवति । (*atha brahmaiva parārdhamagacchat | tatsarārthaṃ gatvaikṣata kathaṃ nimānlokānpratyaveyāmiti tadvābhyāmeva pratyavaidrūpeṇa caiva nāmmā ca sa yasya kasya ca nāmāsti tannāma yasko 'pi nāma nāstiyadveda rūpeṇedagṃ rūpamiti tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo mahatī abhye | sa yo haite brahmaṇo mahatī abhye veda mahaddhaivābhvaṃ bhavati |*) (Pra. Prā. 11-2-3-3) **NOTE**
+In these sentences it is said that name and form are the great अभ्य (*abhya*)s of Brahman. **NOTE** [Here it is shown that the two words अभ्य (*abhya*) and यक्ष (*yakṣa*) have the same meaning.] The अभ्य (*abhya*) of Brahman is of two kinds: concrete (mūrta) and abstract (amūrta). Hence the great powers of Brahman, concrete power and abstract power, pervade the universe. From these original meanings the other purports are derived. In this way the meaning is the pervasive one, the principle of the universe, of concrete and abstract form.
+
+It is contained in the word अभ्य (*abhya*) in the Ṛk
+उदू अया उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका । दिवो रोहांस्यरुहत्पथिव्या अरीरमत्पतयत्कच्चिदभ्वं ॥ (*udū ayā upavakteva bāhū hiraṇyayā savitā supratīkā | divo rohāṃsyaruhatpathivyā arīramatpatayatkaccidabhvaṃ ‖*) (Ṛ. Saṃ. 6-71-5)
+Explaining this word, Sāyaṇa has stated its pervasive purport: अभ्वं महत् सर्वं वस्तुजातं । (*abhvaṃ mahat sarvaṃ vastujātaṃ |*) In some places a pervasive good power is indicated, in some others an evil power. The word is used in the Ṛgveda Saṃhitā in both these senses. For example—
+प्र ये वसुभ्य ईवदा नमो दुर्ये मित्रे वरुणे सूक्तवाचः । अवैत्वभ्वं कृणुता वरीयो दिवस्पृथिव्योरवसा मदेम ॥ (*pra ye vasubhya īvadā namo durye mitre varuṇe sūktavācaḥ | avaitvabhvaṃ kṛṇutā varīyo divaspṛthivyoravasā madema ‖*) (Ṛ. Saṃ. 5-49-5)
+Here अभ्यं महद्भनं तेजो ना । (*abhyaṃ mahadbhanaṃ tejo nā |*) is understood as great power of splendour; **NOTE**
+द्रावो न यस्य पनयंत्यभ्यं भासांसि वस्ते सूरो न शुक्रः । वि य इनोत्यजरः पावकोऽश्वस्य चिच्छिश्नथत्पूर्वाणि । (*drāvo na yasya panayaṃtyabhyaṃ bhāsāṃsi vaste sūro na śukraḥ | vi ya inotyajaraḥ pāvako 'śvasya cicchiśnathatpūrvāṇi |*) (Ṛ. Saṃ. 6-4-3)
+Here अभ्यं महत्कर्म । (*abhyaṃ mahatkarma |*) is understood as great power of action. These two are good powers.
+
+### Printed p. 120
+ता इन्नेव ३ व समना समानीरमीतवर्णा उषसश्चरंति । गूहंतीरभ्यमसितं रुशद्भिः शुक्रास्तनूभिः शुचयो रुचानाः । (*tā inneva 3 va samanā samānīramītavarṇā uṣasaścaraṃti | gūhaṃtīrabhyamasitaṃ ruśadbhiḥ śukrāstanūbhiḥ śucayo rucānāḥ |*) **NOTE**
+In this Ṛk, अतिमहत्कृष्णं रूपं । (*atimahatkṛṣṇaṃ rūpaṃ |*) gives the meaning of great deep darkness. Thus, as the word अभ्व (*abhva*) is used when indicating a perverse and violent elemental power, so it is used in the present Ṛk also. In this Ṛk कृष्णं अभ्वं (*kṛṣṇaṃ abhvaṃ*) is explained as the path of deep darkness pervading all round; it means exceedingly great deep darkness.
+
+वर्ण—रूपं प्रकाशं । (*varṇa—rūpaṃ prakāśaṃ |*) It means shining form.
+
+##### Grammar
+
+- ईरते — ईर गतौ कंपने च धातुः । लट् प्रथमपुरुषबहुवचने आत्मनेपदेष्टनतः इति आतादेशः । शसि लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- महि — मह पूजायां धातुः । अस्मात् सर्वधातुसिबंधनेन आगतः इन् प्रत्ययः । नित्त्वात् इत्यादिनिर्त्यम् (पा. सू. ६-१-१९७) इति आद्युदात्तस्वरो भवति ।
+- महीम् — महतीम् इति रूपे छांदसत्वेन अति लोपो भवति । जीप् पित्त्वे अपि शतरनुमो नद्यजादी इति अत्र बृहन्मत्तोरुपसंख्यानम् (पा.सू. ६-१-१३-१) इति वचनस्य सत्त्वात् उदात्तो भवति । एकादेशे (अमा सह) एकादेश उदात्तेनोदात्तः (पा. सू. ८-२-५) इति उदात्तो भवति ।
+- मर्मृशत् — मृश आमर्शने धातुः । तुदादिः । पौनःपुन्यार्थे धातोरेकाचः (पा.सू. ३-१-२२) इति यज् । यजोचि च इति तस्य अनैमित्तिको लुक् । यज्लुगंतात् लडर्थे शतृ प्रत्ययः । यज्निमित्तेन धातोः द्वित्वम् । अभ्यासस्य गुणो यज्लुकोः इति गुणः । यज्लुक् आदौ पठितत्वात् शपि अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति अद्युदात्तस्वरो भवति ।
+- अभिश्वसन् — श्वस प्राणने धातुः । लडर्थे शतृप्रत्ययः । अदिप्रभृतिभ्यः शपः इति शपो लुक् । प्रत्ययस्य आद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृ स्वरो भवति । प्रथमैकवचनांतरूपम् । **NOTE**
+- स्तनयन् — स्तन देवशब्दे धातुः । चुरादिः । सत्यापपाश (सा. सू. ३-१-२५) इति णिच् । णिजंतात् लडर्थे शतृ प्रत्ययः । शप् विकरणम् । धातोः अदंतत्वात् णिच्निमित्तेन आकारस्य लोप आगत्य तस्य स्थानिवद्भावत्वात् उपधावृद्धिर्न भवति । शप् मिनित्तेन णिचः गुणः अयादेशः । लसार्वधातुकस्य अनुदात्तत्वात् णिच्स्वरः अवशिष्यते । **NOTE**
+
+### Printed p. 121
+- एति — इण् गत् धातुः । अदादिः । लट् प्रथमपुरुषैकवचनांतरूपम् । यद्योगत्वात् निपातैर्यद्यदि (पा. सू. ८-१-३०) इति निघातप्रतिषेधे धातुस्वरो अवशिष्यते ।
+- नानदत् — णद अव्यक्ते शब्दे । णोनः (पा. सू. ६-१-६५) इति आदेः नत्वम् । अतिशयार्थे पूर्ववत् यज् आगत्य तस्य अनैमित्तिको लुक् । यज्लुज्ंतात् लडर्थे ततृ प्रत्ययः । अभ्यस्तानामादिः इति अद्युदात्तस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूष॒न्न योs धि॑ ब॒भ्रूषु॒ नम्म॑ते॒ वृषे॑व॒ पत्नि॑र॒भ्ये॑ति॒ रोरु॑वत् ।  
+> ओ॒जा॒यमा॑नस्त॒न्व॑श्च शुंभते भी॒मो न शृंगा॑ दविधाव दु॒र्गृभिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूषन् । न । यः । अधि । बभ्रूषु । नम्मते ! वृषा इव। पत्निः। अभि। एति। रोरुवत्।  
+> ओजायमानः । तन्नः । च । शुंभते । भीमः । न । शृंगा । दविधाव । दुःगृभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्बभूषु बभ्रुवर्नास्वोषधीषु भरणकुशलासु ना जगतामध्यधिकं
+> नम्मते नमति काष्ठानि प्रविशति । नमतेर्लॆट्यडागमः । व्यत्ययेन श्ना । यद्वा ।
+> लटि च्छांदसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः ॥ भूषन्न भूतान्येव स्वतेजसा
+> भूषयन्निव । किंचायं प्रविशन् वृषेव सेक्ता वृषभ इव पत्निस्तमेव पालयित्रीः
+> समर्धयित्रिरोषधी रोरुवत् । रौतेर्यज् लुगंताच्छतर्यभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ अत्यर्थं सब्बयन्नभ्येति ' अभितो गच्छति । प्रथममोषधीः प्रविश्य
+> पश्चात्पबुद्ध संस्था एव वहतीत्यर्थः । किंचैवं कृत्वा ओजायमानः । ओज इति
+> बलनाम । स्वयं बलमिनाचरन् ॥ कर्तुः क्यज् सलोपश्चति क्यज्जसलोप् ॥
+> धूमादिभिर्विना केवलं तेजोरूप एव संस्तन्वश्च शुंभते । स्वशरीरभूता ज्वाला
+
+##### Gist of the bhāṣya
+
+The Agni who, among the बभ्रूषु (*babhrūṣu*) — the brown-coloured herbs, skilled in nourishing — नम्मते (*nammate*) bends, that is, enters the logs of wood, above all creatures. (The form नम्मते (*nammate*) is from नमति (*namati*), with the augment *aḍ* in the लट् (*laṭ*); श्ना (*śnā*) by व्यत्यय (*vyatyaya*); or else, in the लट् (*laṭ*) the शप् (*śap*) becomes श्लु (*ślu*) in the Veda, and by व्यत्यय (*vyatyaya*) there is no retention of the last consonant.) भूषन् न (*bhūṣan na*): as though adorning the beings with his own splendour. Further, as he enters, वृषा इव (*vṛṣā iva*): like a bull, a sprinkler, the herbs, which are his wives, protecting and nourishing him, रोरुवत् (*roruvat*): he roars exceedingly (the root रु (*ru*) with यज् लुक् (*yaj luk*), the ending शतृ (*śatṛ*), and the initial acute by अभ्यस्तानामादिः (*abhyastānāmādiḥ*)). *abhyeti*: he goes about on all sides. The sense is: having first entered the herbs, afterwards … **NOTE** Further, having done so, ओजायमानः (*ojāyamānaḥ*): *ojaḥ* is a name for strength; acting as strength itself (क्यज् (*kyaj*) with loss of स् (*s*)). Without smoke and the like, remaining of the nature of mere brilliance, तन्वश्च शुंभते (*tanvaśca śuṃbhate*): and he shines; the flames, being his own body … (the block breaks off here; the next window continues).
+
 ---
 
-**Progress note:** Done through printed p. 115. pp. 110-115 (batch API)
+**Progress note:** Done through printed p. 121. pp. 116-121 (batch API)
