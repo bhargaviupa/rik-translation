@@ -1125,6 +1125,145 @@ is described in this line as that very lofty and extensive Gandharva path. And,
 ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यात् । (*ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyāt |*) (Ṛ. Saṃ. 6-51-1)
 ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यव्रघुयद्विवेद । (*ṛtasya pade adhi dīdyānaṃ guhā raghuṣyavraghuyadviveda |*) (Ṛ. Saṃ. 4-5-9)
 
+### Printed p. 46
+
+...in the Ṛks it is described that the Sun, rising upward in the forward part (the sky) of Ṛta, shines with the utmost loveliness.
+
+परिक्षिता पितरा पूर्वजावरी ऋतस्य योना क्षयतः समोकसा । द्यावापृथिवी वरुणाय सव्रते घृतवत् पयो महिषाय पिन्वतः । (*parikṣitā pitarā pūrvajāvarī ṛtasya yonā kṣayataḥ samokasā | dyāvāpṛthivī varuṇāya savrate ghṛtavat payo mahiṣāya pinvataḥ |*) (Ṛ. Saṃ. 10-65-8)
+
+In this Ṛk the Sun is described as moving, looking upon heaven and earth, in the middle part that is the womb of Ṛta. Likewise in Ṛks such as 1-164-47 and 10-123-2 also, the Sun is described as shining in the lofty region of Ṛta. Therefore in this Ṛk ऋतात् (*ṛtāt*) means "from Āditya, who is in the orb of Ṛta".
+
+But it is a matter needing some consideration that the word अनृत (*anṛta*) is an attribute of water. The word ऋत (*ṛta*) is read in the Nirukta among the names of water (Ni. 2-24). In the Ṛksaṃhitā too, in about 70 Ṛks the word ऋत (*ṛta*) is understood as water. How, then, does the word अनृत (*anṛta*) here come to mean water? If ऋत (*ṛta*) is given the meaning "truth", then, according to the view of certain philosophers that water is the primal principle of the universe, it is understood as water that is of the nature of truth. In the Nirukta also the words ऋतं । योनिः । ऋतस्य योनिः । सत्यं । नीरं । (*ṛtaṃ | yoniḥ | ṛtasya yoniḥ | satyaṃ | nīraṃ |*) are put together among the names of water. But when that same water is in forms such as streams, it is of a nature to sink away; hence it is impermanent, and for that very reason it has a momentary truth-nature. Therefore Sāyaṇa has explained अनृतं नश्वरं शोषणस्वभावं (*anṛtaṃ naśvaraṃ śoṣaṇasvabhāvaṃ*). The meaning is: Mitra and Varuṇa, obtaining from Āditya, who is of the form of Ṛta, the water that is of the form of non-Ṛta, poured it down for the world.
+
+मन्युना (*manyunā*)—The word मन्यु (*manyu*) is used in the Ṛksaṃhitā in two or three senses. In the Nirukta there is the etymology of the word मन्यु (*manyu*): मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो ना (*manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo nā*) (Ni. 10-30). The meaning is that it is derived from the root मन् (*man*), which gives the sense "to shine" or "to be angry". Here स्वेन मन्युना (*svena manyunā*) means "by their own radiance, by their own power of self".
+
+वर्धयतमोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू । (*vardhayatamoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū |*) (Ṛ. Saṃ. 5-62-3 **NOTE**)
+
+३) चित्रेभिरभैरुप तिष्ठथो रवं व्यां वर्षयथोः असुरस्य मायया । (*3) citrebhirabhairupa tiṣṭhatho ravaṃ vyāṃ varṣayathoḥ asurasya māyayā |*) (Ṛ. Saṃ. 5-63-2)
+
+### Printed p. 47
+
+As described in Ṛks such as these, Mitra and Varuṇa poured water from the atmosphere; it is said that the pouring of rain is possible only by their power.
+
+दक्षस्य (*dakṣasya*)—समर्थस्य । (*samarthasya |*) The meaning is "by his power, being capable". Because the word दक्ष (*dakṣa*) is read among the names of strength (Ni. 3-9), the meaning is given in this way. Or else,
+
+दक्षस्य वादिते जन्मनि व्रते राजाना मित्रावरुणा विवाससि । (*dakṣasya vādite janmani vrate rājānā mitrāvaruṇā vivāsasi |*) (Ṛ. Saṃ. 10-64-5)
+
+As said in this Ṛk, it is proper that Dakṣa's power is in Mitra and Varuṇa also; so it may be explained, if one likes, as "by the मन्यु (*manyu*) connected with Dakṣa".
+
+हिरण्ययं (*hiraṇyayaṃ*)—"of golden form", that is, having a form of golden colour.
+
+##### Grammar
+
+- आददाथे — डुदाञ् दाने इति धातुः । लिटि मध्यमपुरुषद्विवचने आथाम् प्रत्ययः । टेः एत्वम् । लिण्णिमित्तत्वात् धातोर्द्वित्वम् । यत् इति पूर्वं संबंधः इति कृत्वा निपातैर्यद्यदि— (पा. सू. ८-१-३०) इति निघातस्वरप्रतिषेधात् प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- इत्था — प्रकारार्थे इदमस्थमुः (पा. सू. ५-३-२४) इति थमुप्रत्ययः । व्यत्ययेन सुपां सुलुक्— (पा.सू.७-१-३९) इति विभक्तेः डादेशः । डित्त्वात् टिलोपः । अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति विभक्तेरुदात्तस्वरो भवति ।
+- सद्मसु — षड्ल विशरणगत्यवसादनेषु इति धातुः । अन्येभ्योपि दृश्यते (पा.सू. ३-२-७५) इति मनित् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । **NOTE**
+- अपश्याम — दृशिर् प्रेक्षणे इति धातुः । छांदसत्वेन लज् उत्तमपुरुषबहुवचनांतरूपम् । अडागमस्य उदात्तत्वात् आम्मदात्तं पदं भवति । **NOTE**
+- युवोः — युवयोः इति रूपे जाते भांदसत्वेन यकारस्य शोपो भवति । **NOTE**
+- हिरण्ययम् — विकारार्थे मयट् प्रत्यये जाते ऋत्त्ववास्तववास्तव— (पा. सू. ६-४-१७५) इति मयटो मकारस्य लोपो निपातितः । **NOTE**
+- धीभिः — सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६२) इति विभक्तेरुदात्तस्वरो भवति ।
+
+### Printed p. 48
+
+- स्वेभिः — बहुलं छंदसि इति भिस ऐस्‌भावो न भवति । बहुवचनेझुल्येत् इति एत्वम् ।
+- अक्षभिः — छंदस्यपिदृश्यते (पा. सू. ७-१-७६) इति अनजादेशः । स उदात्तो भवति । नलोपः प्रातिपदिकांतस्य इति नलोपः । अकारस्य उदात्तत्वात् मद्योदात्तं पदं भवति । **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युवां स्तोमेभिर्देवयंतो अश्विनाश्रावयंत इव  
+> श्लोकमायवो युवां हव्याभ्या ३ यवः ।  
+> यु॒वोर्विश्वा॒ अधि॒ श्रियः॒ पृक्ष॑श्चविश्ववेदसा ।  
+> प्रु॒षा॒यंते॑ वां प॒वयो॑ हिर॒ण्यये॒ रथे॑ दस्रा हिर॒ण्यये॑  
+> ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । स्तोमेभिः । देवयंतः । अश्विना । आश्रवयंतः इव । श्लोकं । आयवः ।  
+> युवां । हव्या । अभि । आयवः ।  
+> युवोः । विश्वाः । अधि । श्रियः । पृक्षः । च । विश्ववेदसा ।  
+> प्रुषायंते । वां । पवयः । हिरण्यये । रथे । दस्रा । हिरण्यये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठस्य षष्ठेऽहनि प्रउगशस्त्रे युवां स्तोमेभिरित्याश्विनस्तृचः । षष्ठस्येति खंडे सूत्रितं । युवां स्तोमेभिर्देवयंतो आश्विनावर्मह इंद्र ।
+> आ. ८_१ । इति ॥
+> हे अश्विनाश्विन् देवौ युवां स्तोमेभिः स्तोत्रैर्देवयंतो युवामात्मन इच्छंत आयवः । मनुष्यनामैतत् । यजमानाः श्लोकं युष्मदीयस्तुति-
+
+##### Gist of the bhāṣya
+
+The verse is used at the Pṛṣṭhya Ṣaḍaha, on the sixth day, in the Prauga-śastra: the Āśvina tṛca beginning युवां स्तोमेभिः (*yuvāṃ stomebhiḥ*). This was set out in the sūtra in the section on the sixth day: युवां स्तोमेभिर्देवयंतो आश्विनावर्मह इंद्र (*yuvāṃ stomebhirdevayaṃto āśvināvarmaha iṃdra*) (Ā. 8-1). Sāyaṇa explains: O Aśvins, the आयवः (*āyavaḥ*) (this is a name for men), the sacrificers, desiring you for themselves with stomas, that is, with hymns of praise, make the speech that consists of praise of you...
+
+### Printed p. 49
+
+> रूपां वाचमाश्रावयंत इव सर्वतः श्रवणविषयां कुर्वंत इव स्तुवंति । श्लोक
+> इति वाङ्गाम । श्लोको धारेति तन्ना मसूक्तत्वात् । कीदृशास्ते । युवां हव्या हविषाज्यादिनाभ्यायन अभिमुख्येन प्रापयंतो ना । किंच हे विश्ववेदसा सर्वधनौ
+> युवोर्युवयोः संबंधिन्यो विश्वाः श्रियः सेवनीयाः सर्वा लक्ष्मीर्धनकनकादिरूपा अध्यधिकं भजंत इति शेषः । किंच वृक्षश्चानमपि युष्मत्वसादादध्यधिकं
+> लभंते । किंच हे दस्रा शत्रूणामुपक्षपयितार् नां हिरण्यये रथे हिरण्मये
+> मधुपूर्णे रथे पवयस्तन्नेमयः प्रषायंते । क्षरंति स्रवंति ॥ पुष प्लुष
+> स्नेहनसेचनपूरणेषु । छंदसि शायजपीत्यहावपि श्वः शायजादेशः ॥ मधुपूर्णपात्रोपेतत्वात् शीघ्रगमनेन चक्रेषु मधूनि स्रवंतीति भावः । पवी रथनेमिर्भवति
+> यद्विपुनाति भूमिमिति निरुक्तं । ५-५ । अश्विनो रथस्य मधुपूर्णत्वं त्रयः पवयो
+> मधुवाहने रथे । ऋ. १-३४-२ । इत्यादिषु प्रसिद्दं । किंच तादृशे हिरण्मये हृदयरमणे रथे मधुरं हनिर्वहनमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+...heard on every side, as it were, and so they praise. श्लोक (*śloka*) is a name of speech; the further remark about श्लोको धार (*śloko dhāra*) is garbled. What kind of men are they? They bring you near with oblations, ghee and the like, facing you. Further, O विश्ववेदसा (*viśvavedasā*), owners of all wealth, "all your श्रियः (*śriyaḥ*)", all desirable fortune in the form of wealth, gold and the like, they enjoy abundantly (so the sentence is completed). Further, food also they obtain in abundance through your favour. Further, O दस्रा (*dasrā*), destroyers of enemies, in the golden car filled with honey the पवयः (*pavayaḥ*), the fellies, प्रषायंते (*praṣāyaṃte*): they drip, they flow. The root is पुष प्लुष स्नेहनसेचनपूरणेषु (*puṣa pluṣa snehanasecanapūraṇeṣu*); in the Veda the replacement शायज् (*śāyaj*) occurs. The idea is that because the car carries vessels full of honey, honey streams on the wheels with its swift going. The Nirukta (5-5) says: पवी रथनेमिर्भवति यद्विपुनाति भूमिमिति (*pavī rathanemirbhavati yadvipunāti bhūmimiti*). That the Aśvins' car is full of honey is well known in passages such as त्रयः पवयो मधुवाहने रथे (*trayaḥ pavayo madhuvāhane rathe*) (Ṛ. 1-34-2). Further, in such a golden, heart-delighting car, the sweet carrying of the oblation (is to be supplied).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवां (*yuvāṃ*)—you
+- स्तोमेभिः (*stomebhiḥ*)—with hymns
+- देवयंतः (*devayaṃtaḥ*)—those who desire to obtain
+- युवां (*yuvāṃ*)—you
+- हव्या (*havyā*)—with ghee and the like, in the form of oblation
+- अभ्यायवः (*abhyāyavaḥ*)—those who approach
+- आयवः (*āyavaḥ*)—the sacrificers, who are men
+- श्लोकं (*ślokaṃ*)—the words of praise (that praise you)
+- आश्रावयंत इव (*āśrāvayaṃta iva*)—(recite) so that it reaches your ears
+- (then) विश्ववेदसा (*viśvavedasā*)—O Aśvin deities, lords of all wealth
+- युवोः (*yuvoḥ*)—belonging to you
+- विश्वा श्रियः (*viśvā śriyaḥ*)—all riches
+- पृषश्च (*pṛṣaśca*)—and also food
+- अधि (*adhi*)—in great abundance (they enjoy)
+- दस्रा (*dasrā*)—O Aśvin deities, destroyers of foes
+- नां (*nāṃ*)—your
+- हिरण्यये रथे (*hiraṇyaye rathe*)—in the honey-filled golden car
+- पवयः (*pavayaḥ*)—the wheel-rims
+- प्रषायंते (*praṣāyaṃte*)—cause honey to flow
+- हिरण्यये (*hiraṇyaye*)—in that golden car, captivating to the mind (carry the oblation).
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, sacrificers who desire to obtain you with hymns offer you oblations, approach you, and recite the words of praise that praise you so that they fall on your ears. O Aśvins, lords of all wealth, your devotees who have praised you enjoy all the wealth and food that belong to you. Come in your golden car, joined with fellies that make honey flow, full of honey and captivating to the mind, and carry the oblation offered by us.
+
+### Printed p. 50
+
+##### Printed English
+
+Aswins, men who desire to glorify you with (their) hymns, cause, as it were, their praises to be heard, propitiating you with oblations ; for, from you, who are possessed of all opulence, (they obtain) every kind of wealth and abundant food. Dasras, the fellies (of the wheels) of your honey-laden car drop honey, (carried) in your golden (car).
+
+##### विशेषविषयगळु (Special Topics)
+
+स्तोमेभिः (*stomebhiḥ*)—एकं साम तृचे क्रियते, तस्य च तृचस्य आवृत्त्या ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यत इति । (*ekaṃ sāma tṛce kriyate, tasya ca tṛcasya āvṛttyā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyata iti |*) With this sentence the definition of the stoma is given. Among the stomas there are nine kinds: त्रिवृत् (*trivṛt*), पंचदशः (*paṃcadaśaḥ*), सप्तदशः (*saptadaśaḥ*), एकविंशः (*ekaviṃśaḥ*), चतुर्विंशः (*caturviṃśaḥ*), त्रिणवः (*triṇavaḥ*), त्रयस्त्रिंशः (*trayastriṃśaḥ*), चतुश्चत्वारिंशः (*catuścatvāriṃśaḥ*), अष्टचत्वारिंशः (*aṣṭacatvāriṃśaḥ*). Since these, with their viṣṭutis, are explained in great detail on pages 138 to 150 of the 2nd part of the Ṛgveda Saṃhitā, only the benefits to be obtained from reciting those stomas are given here.
+
+The nine divisions of stomas mentioned above may be increased by the order of insertion (āvāpa), as त्रयोदश (*trayodaśa*), चतुर्दश (*caturdaśa*), षोडश (*ṣoḍaśa*) and so on. For example:
+
+वसवस्त्रयोदशाक्षरेण त्रयोदशग्स् स्तोममुदजयनुद्राश्चतुर्दशाक्षरेण चतुर्दशग्स् स्तोममुदजयन्नादित्याः पंचदशाक्षरेण पंचदशग्स् स्तोम मुदजयन्नदितिष्टोडशाक्षरेण षोडशग्स् स्तोममुदजयत्प्रजापतिस्सप्तदशाक्षरेण सप्तदशग्स् स्तोममुदजयत् । (*vasavastrayodaśākṣareṇa trayodaśags stomamudajayanudrāścaturdaśākṣareṇa caturdaśags stomamudajayannādityāḥ paṃcadaśākṣareṇa paṃcadaśags stoma mudajayannaditiṣṭoḍaśākṣareṇa ṣoḍaśags stomamudajayatprajāpatissaptadaśākṣareṇa saptadaśags stomamudajayat |*) (Tai. Saṃ. 1-7-11-45)
+
+By these sentences of the Taittirīya Saṃhitā, the order is told in which the Vasus, Rudras, Ādityas, Aditi and Prajāpati won, in turn, the Trayodaśa, Caturdaśa, Pañcadaśa, Ṣoḍaśa and Saptadaśa stomas. That the power of the stomas is very great and that by reciting them all desired ends may be gained is also read in the Taittirīya Saṃhitā itself:
+
+प्रातस्सवने वै गायत्रेण छंदसा त्रिवृते स्तोमाय ज्योतिर्दधदेति त्रिवृता ब्रह्मवर्चसेन पंचदशाय ज्योतिर्दधदेति पंचदशेनौजसा वीर्येण सप्तदशाय ज्योतिर्दधदेति सप्तदशेन प्राजापत्येन प्रजननेनैकविंशाय ज्योतिर्दधदेति स्तोम एव तत् स्तोमाय ज्योतिर्दधदेत्यथो स्तोम एव स्तोममभि प्रणयति यावंतो वै स्तोमास्तावंतः कामास्तावंतो लोकास्तावंति ज्योतीग्‌ष्येतावत एव स्तोमानेतावतः कामानेतावतो लोकानेतावंति ज्योतीग्‌ष्यवरुंधे । (*prātassavane vai gāyatreṇa chaṃdasā trivṛte stomāya jyotirdadhadeti trivṛtā brahmavarcasena paṃcadaśāya jyotirdadhadeti paṃcadaśenaujasā vīryeṇa saptadaśāya jyotirdadhadeti saptadaśena prājāpatyena prajananenaikaviṃśāya jyotirdadhadeti stoma eva tat stomāya jyotirdadhadetyatho stoma eva stomamabhi praṇayati yāvaṃto vai stomāstāvaṃtaḥ kāmāstāvaṃto lokāstāvaṃti jyotīgṣyetāvata eva stomānetāvataḥ kāmānetāvato lokānetāvaṃti jyotīgṣyavaruṃdhe |*) (Tai. Saṃ. 7-1-2-7)
+
+### Printed p. 51
+
+These sentences state the powers of the four kinds of stomas to be recited in the Agniṣṭoma. The sacrificer, at the time of the morning pressing, with the Gāyatrī metre sets the Trivṛt stoma in a place of eminence. In the same way, by the Trivṛt, which is of the nature of light, he makes the Pañcadaśa stoma radiant; by the Pañcadaśa, which is full of heroism, the Saptadaśa stoma; and by the Saptadaśa, which is related to Prajāpati and conducive to procreation, the Ekaviṃśa stoma. Thus one kind of stoma produces power and radiance for another kind of stoma. There are as many worlds, as many kinds of radiance, and as many kinds of desired ends as there are kinds in the stoma. And by reciting the stoma the sacrificer obtains that many kinds of worlds, radiances and desired ends. Having stated thus the power of the stoma, the text then states the loss that comes from not reciting the stoma.
+
+ब्रह्मवादिनो वदंति सत्वै यजेत योऽग्निष्टोमेन यजमानोऽथ सर्वस्तोमेन यजेतेति यस्य त्रिवृतमंतर्यंति प्राणाग्स्तस्यांतर्यंति प्राणेषु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य पंच दशमंतर्यंति वीर्यं तस्यांतर्यंति वीर्ये मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य सप्तदशमंतर्यंति प्रजां तस्यांतर्यंति प्रजा यां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्यैकविग्ंश मंतर्यंति प्रतिष्ठां तस्यांतर्यंति प्रतिष्ठायां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रिणवमंतर्यंत्यतूग्ंश तस्य न क्षत्रियां च विराजमंतर्यंत्यतुषु मेऽप्यसन्नक्षत्रियायां च विराजीति खलु वै यज्ञेन यजमानो यजते यस्य त्रयस्त्रिग्ंशमंतर्यंति देवतास्तस्यांतर्यंति देवतासु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यो वै स्तोमानामवनुं परमतां गच्छंतं वेद परमतामेव गच्छति (*brahmavādino vadaṃti satvai yajeta yo 'gniṣṭomena yajamāno 'tha sarvastomena yajeteti yasya trivṛtamaṃtaryaṃti prāṇāgstasyāṃtaryaṃti prāṇeṣu me 'pyasaditi khalu vai yajñena yajamāno yajate yasya paṃca daśamaṃtaryaṃti vīryaṃ tasyāṃtaryaṃti vīrye me 'pyasaditi khalu vai yajñena yajamāno yajate yasya saptadaśamaṃtaryaṃti prajāṃ tasyāṃtaryaṃti prajā yāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate yasyaikavigṃśa maṃtaryaṃti pratiṣṭhāṃ tasyāṃtaryaṃti pratiṣṭhāyāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate yasya triṇavamaṃtaryaṃtyatūgṃśa tasya na kṣatriyāṃ ca virājamaṃtaryaṃtyatuṣu me 'pyasannakṣatriyāyāṃ ca virājīti khalu vai yajñena yajamāno yajate yasya trayastrigṃśamaṃtaryaṃti devatāstasyāṃtaryaṃti devatāsu me 'pyasaditi khalu vai yajñena yajamāno yajate yo vai stomānāmavanuṃ paramatāṃ gacchaṃtaṃ veda paramatāmeva gacchati*) (Tai. Saṃ. 7-1-3)**NOTE**
+
+The learned in the śāstra have ordained that those who sacrifice with the Agniṣṭoma should sacrifice also with the Sarvastoma. In this injunction, if the Trivṛt stoma is omitted, his chief vital breath itself vanishes; so the sacrificer performs the sacrifice with the intention "let this sacrifice be included in my chief vital breath". In the same way, if the Pañcadaśa stoma is omitted, there is lack of strength; and the Saptadaśa stoma
+
 ---
 
-**Progress note:** Done through printed p. 45. pp. 39-45 (batch API)
+**Progress note:** Done through printed p. 51. pp. 46-51 (batch API)
