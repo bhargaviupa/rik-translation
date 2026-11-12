@@ -16160,6 +16160,163 @@ and thereby shows Savitṛ's time: after Dawn appears, lights up the world and d
 - एति — इण् गतौ धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
 - सूर्यः — सू प्रसवे धातुः । राजसूयसूर्य (पा. सू ३-१-११४) इति क्यबंतत्वेन निपातितः । **NOTE**
 
+### Printed p. 674
+
+##### Grammar
+
+- चंद्रा — चदि आह्लादने धातुः । स्वायितंचिवंचि — (उ. सू. २-१७०) इति रक् प्रत्ययः आगच्छति । धातोः इदित्त्वात् नुमागमः भवति । स्त्रीत्वे आदंतत्वात् टाप् ।
+- मही — मह पूजायां धातुः । इन्‌सर्वधातुभ्यः इति वचनात् इन् प्रत्ययः । स्त्रीत्वे कृदिकारादक्तिनः इति वार्तिकेन जीष् आगच्छति ।
+- आवः — वस निवासे धातुः । अंतर्भावित्यर्थकत्वेन प्रयुक्तः । छंदसि वर्तमानार्थे लुज् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । मंत्रेघसह्यर — (पा. सू. २-४-८०) इति ज्लेः आगते तस्य लुक् हॆल्ज्याभ्यो — इति सूत्रेण प्रत्ययलोपे आगते पदांतसकारस्य रुत्वं विसर्गः । छंदस्यपिदृश्यते (पा. सू. ६-४-७३) इति अंगस्य आडागमः । तिजंतनिघातस्वरः आगच्छति । **NOTE**
+- अर्चिषा — अर्च पूजायां धातुः । अर्चिशुचि — (उ. सू. २-२६५) इति इसि प्रत्ययः । सांतशब्दः भवति । प्रत्ययस्वरेण इकारः उदात्तः भवति । तृतीयांतरूपम् ।
+- अयुक्षाताम् — युजिर् योगे धातुः । छांदसत्वेन लुज् । प्रथमपुरुषद्विवचने अताम् प्रत्ययः । च्लेः सिचादेशे आगते चोःकुः इति धातुजकारस्य कुत्वम् । चर्त्वम् । तं निमित्तीकृत्य सिचः सकारस्य षत्वम् । अंगस्य अडागमः छांदसत्वेन संहितायां तस्य दीर्घः । पादादौ वर्तमानत्वात् निघातस्वरः न आगच्छति । आद्युदात्तः भवति ।
+- यातने — या प्रापणे धातुः । तुमर्थे द्योत्यमाने तुमर्थसेसेनसे - (पा.सू. ३-४-९) इति तवेन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः आगच्छति । एजंतकृदंतत्वात् अव्ययसंज्ञा आगच्छति ।
+- असावीत् — सू प्रेरणे धातुः । छांदसत्वेन लोडर्थे लुज् । प्रथमपुरुषएकवचने असावीत् इति रूपं भवति । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति । ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्युं॒जाथे॒ वृष॑णमश्विना॒रथं॑ घृ॒तेन॑ नो॒ मधु॑ना क्ष॒त्रमु॑क्ततं ।  
+> अ॒स्माकं॒ ब्रह्म॒ पृत॑नासु जिन्नतं व॒यं धना॒ शूर॑साता भजेमहि ॥ २ ॥
+
+### Printed p. 675
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । युंजाथे इति । वृषणं । अश्विना । रथं । धृतेन । नः । मधुना । क्षत्रं ।  
+> उक्ततं ।  
+> अस्माकं । ब्रह्म । पृतनासु । जिन्वतं । वयं । धना । शूरसाता । भजेमहि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनावश्विन् यदृदा वृषणं वृष्या दिवर्षकं रथं युंजाथे योजयथः तदा नः क्षत्रमस्मदीयं बलं क्षत्रियजातं वा घृतेनोदकेन मधुना मधुरेणोक्षतं । प्रवर्धयतमित र्थः । यद्वा । घृतेन क्षरणरूपेण मधुना मधुरेणामृतेनोक्षतं । युष्मद्रथस्थेन मधुनास्मदीयं बलं प्रवर्धयतमित्यर्थः ।
+> अश्विनो रथस्य मधुपूर्णत्वं मधुवाहनो रथ इत्यादिषु प्रसिद्धं । किंचास्माकं
+> पृतनास्वस्मदीयासु पुत्रभृत्यादिमनुष्यरूपासु प्रजासु ब्रह्म ब्राह्मं तेजो
+> जिन्वथं । पृतना इति मनुष्यनाम विवस्वंतः पृतना इति तन्नामसूक्तत्वात् । यद्वा ।
+> पृतनासु परकीयासु प्रजासु ब्रह्म तासां परिवृढमन्नमस्माकं जिन्वतं । प्रीणयतं।
+> ब्रह्मेत्यन्न नाम । ब्रह्म वर्च इति तन्नामसूक्तत्वात् । वयं च शूरसाता शूरसातौ
+> शूराणां प्रहारादिना युक्ते संग्रामे धना तदीयानि धनानि बहुविधानि भजेमहि ।
+> लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, when you yoke your chariot that showers rain and the like, you sprinkle our strength (क्षत्रं (*kṣatraṃ*)), or the Kṣatriya class, with ghee-water and sweet honey, that is, you make it grow. Or else: you sprinkle it with the flowing, sweet nectar; the sense is that with the honey that stands on your chariot you make our strength grow. The Aśvins' chariot being full of honey is well known from passages such as "the chariot that carries honey". Further: among our hosts (पृतनासु (*pṛtanāsu*)), that is, among our people in the form of sons, servants and other men, bestow the Brāhmic radiance (ब्रह्म (*brahma*)). पृतना (*pṛtanā*) is a word for men, since it occurs in the hymn that lists the names of men (विवस्वंतः पृतना (*vivasvaṃtaḥ pṛtanā*) …). Or else: among others' hosts, give us the abundant food of those people; ब्रह्म (*brahma*) is a name for food, since it occurs in the hymn listing the names of food (ब्रह्म वर्च (*brahma varca*) …). And may we, in the battle of heroes (शूरसाता (*śūrasātā*)), a battle marked by the blows of the brave, win their many kinds of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities (you)
+- यत् (*yat*)—when
+- वृषणं (*vṛṣaṇaṃ*)—showering rain and the like
+- रथं (*rathaṃ*)—the chariot
+- युंजाथे (*yuṃjāthe*)—you join and yoke (then)
+- नः (*naḥ*)—our
+- क्षत्रं (*kṣatraṃ*)—strength
+- धृतेन (*dhṛtena*)—with water
+- मधुना (*madhunā*)—and with honey; [or धृतेन (*dhṛtena*)—with the flowing and मधुना (*madhunā*)—sweet nectar]
+- उक्षतं (*ukṣataṃ*)—you make it grow
+- अस्माकं (*asmākaṃ*)—our
+- पृतनासु (*pṛtanāsu*)—among the people, sons and so on
+- ब्रह्म (*brahma*)—Brāhmic radiance
+- जिन्वतं (*jinvataṃ*)—bestow; [or अस्माकं (*asmākaṃ*)—to us, पृतनासु (*pṛtanāsu*)—in the enemy's people, ब्रह्म (*brahma*)—abundant food, जिन्वतं (*jinvataṃ*)—bring and gather]
+- वयं (*vayaṃ*)—we too
+- शूरसाता (*śūrasātā*)—in the battle where heroes are assembled
+- धना (*dhanā*)—wealth (of many kinds)
+- भजेमहि (*bhajemahi*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as soon as you yoke your chariot that showers rain and the like, you make our strength grow with waters sweet as nectar. Cause abundant food to be obtained also by our sons, servants and others. May we too obtain wealth of many kinds in the battle fought among heroes.
+
+### Printed p. 676
+
+##### Printed English
+
+When Ashwins, you harness your bounty-shedding chariot, refresh our strength with trickling honey : bestow (abundant) food upon our people : may we acquire riches in the strife of heroes.
+
+##### विशेषविषयगळु (Special Topics)
+
+As soon as the Aśvin deities mount the chariot, it is natural that the Kṣatriya strength of their devotees, the sacrificers, should grow. But although Kṣatriya strength is the basis of all prosperity, the fullness of a good life is not obtained by Kṣatriya strength alone. Therefore the Aśvins are prayed to grant along with it Brāhmic radiance and Brāhmic wealth.
+
+क्षत्रं—अस्मदीयं बलं क्षत्रियजातं वा । (*kṣatraṃ—asmadīyaṃ balaṃ kṣatriyajātaṃ vā |*) It is explained as strength connected with the Kṣatriya.
+
+Ordinarily, one who wishes to attain the fullness of Kṣatriya radiance performs the sacrifice that is a part of the Sautrāmaṇī called Kṣatradhṛti and worships the Aśvin deities. With the mantra श्वेत आश्विनो भवति । श्वेताविन ह्यश्विनौ । (*śveta āśvino bhavati | śvetāvina hyaśvinau |*) (Śa. Cātrā. 5-25-4-1) the oblation is to be offered to the Aśvins. **NOTE** The present Ṛk gives the assurance that for such sacrificers Kṣatriya strength is ready at hand through the Aśvins' grace. But the Śruti passages praise in many places what the greatness of this Kṣatriya strength is. First, praising strength in general, they show that strength is the most valuable thing in the world:
+
+तस्मा एव श्रद्दधाम तद्वैतत्सत्यं बले प्रतिष्ठितं प्राणो वै बलं तत्प्राणे प्रतिष्ठितं तस्मादाहुर्बलं सत्यादोगीयः । (*tasmā eva śraddadhāma tadvaitatsatyaṃ bale pratiṣṭhitaṃ prāṇo vai balaṃ tatprāṇe pratiṣṭhitaṃ tasmādāhurbalaṃ satyādogīyaḥ |*) (Bṛ. 58. 5-14-3). **NOTE**
+
+Truth is established in strength. Strength is life-breath; therefore strength is greater than truth. Among all such strengths, Kṣatriya strength is the best of all.
+
+क्षत्रं प्राणो वै क्षत्रं प्राणो हि वै क्षत्रं त्रायते हैनं प्राणः क्षणितो प्र क्षत्रमत्राप्नोति क्षत्रस्य सायुज्यं सलोकतां जयति य एवं वेद । (*kṣatraṃ prāṇo vai kṣatraṃ prāṇo hi vai kṣatraṃ trāyate hainaṃ prāṇaḥ kṣaṇito pra kṣatramatrāpnoti kṣatrasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*) ।
+
+### Printed p. 677
+
+Since it protects the body, life-breath is indeed Kṣatra. One who knows this truth obtains union and co-residence with Kṣatra; and since this Kṣatriya strength also protects Brāhmic radiance, in certain circumstances it attains a position higher than that.
+
+ब्रह्म वा इदमग्र आसीदेकमेव तदेकं सन्नव्यभवत् । तच्छेयोरूपमत्यसृजत क्षत्रं यान्येतानि देवत्रा क्षत्राणींद्रो वरुणः सोमो रुद्रः सर्जन्यो यमो रुद्रः पर्जन्यो यमो मृत्युरीशान इति । तस्मात्क्षत्रात्परं नास्ति तस्माद्ब्राह्मणः क्षत्रियमधस्तादुपास्ते राजसूये क्षत्र एव तद्यशो दधाति । (*brahma vā idamagra āsīdekameva tadekaṃ sannavyabhavat | taccheyorūpamatyasṛjata kṣatraṃ yānyetāni devatrā kṣatrāṇīṃdro varuṇaḥ somo rudraḥ sarjanyo yamo rudraḥ parjanyo yamo mṛtyurīśāna iti | tasmātkṣatrātparaṃ nāsti tasmādbrāhmaṇaḥ kṣatriyamadhastādupāste rājasūye kṣatra eva tadyaśo dadhāti |*) ।
+
+In the beginning there was only Brāhmic being, and without connection with the Kṣatriya there was no scope at all for its growth. Therefore it created Kṣatra, which causes growth and has a greatness exceeding Brāhmic being. Among the gods, Indra and others became representatives of this being. Nothing has greater value than Kṣatra. Therefore at the Rājasūya the Kṣatriya sits on a higher place than the Brāhmaṇa. Moreover:
+
+भवत्पुरोहितानानां क्षत्रबंधूज्जयेवहि । क्षत्रं तदपि विजेयं ब्रह्म यत्पाति शाश्वतं । (*bhavatpurohitānānāṃ kṣatrabaṃdhūjjayevahi | kṣatraṃ tadapi vijeyaṃ brahma yatpāti śāśvataṃ |*) । (Bṛhaddevatā 5-126)
+
+It is because it protects Brāhmic power for ever that the name Kṣatra is established for this power. The present Ṛk tells that this power in the form of Kṣatra is obtained through the grace of the Aśvin deities, and then prays that the fullness of life is not obtained by power alone, that Brāhmic connection must go with it, and that Brahma too be granted. Although Kṣatra is a protector, it is merely a means; Brahma is the fruit. Such a fruit is prayed for with पृतनासु ब्रह्म जिन्वतं (*pṛtanāsu brahma jinvataṃ*).
+
+In the present Ṛk the word ब्रह्म (*brahma*) is explained first as Brāhmic radiance and secondly as food. First, the securing of food is the aim of Kṣatriya power. Because food is life-breath, and from one point of view food is the protector and increaser of Kṣatriya power, the necessity of food is made known. Or, if ब्रह्म (*brahma*) is explained as Brāhmic radiance, that too is very fitting. Without contact with Brāhmic radiance, Kṣatra remains merely physical power and spiritual wealth is deficient. Therefore, praising the greatness of the harmony of these two principles,
+
+### Printed p. 678
+
+प्रेदं ब्रह्म प्रेदं क्षत्रमित्येते एव समस्येद्ब्रह्मक्षत्रयोः संश्रित्यै तस्माद्ब्रह्म च क्षत्रंच संश्रिते ॥ (*predaṃ brahma predaṃ kṣatramityete eva samasyedbrahmakṣatrayoḥ saṃśrityai tasmādbrahma ca kṣatraṃca saṃśrite ‖*) ॥ (Pi. Bra. 3-15) **NOTE**
+
+in passages such as this the union and harmony of the powers in the forms of Brahma and Kṣatra are praised. Moreover, in passages such as यस्य ब्रह्म च क्षत्रं च उभे भवत ऒदनः । (*yasya brahma ca kṣatraṃ ca ubhe bhavata òdanaḥ |*) it is shown that the primal principle itself is reflected in both kinds of power. Therefore the harmony of these two in the present Ṛk is what is desired.
+
+##### Grammar
+
+- युञ्चाथे — युजिर् योगॆ धातुः । रुधादिः । श्नम् विकरणः । लट् मध्यमपुरुषद्विवचनांतरूपम् । यद्योगत्वात् निघातस्वरः न आगच्छति । प्रत्ययस्य आद्युदात्तस्वरः आगच्छति ।
+- अश्विना — सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य आकारादेशः । आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरः आगच्छति ।
+- धृतेन — धृतादीनां च (फि. सू. २१) इति अंतोदात्तस्वरः आगच्छति । तृतीयाएकवचनरूपम् ।
+- क्षत्रम् — क्षदि इति सौत्रो धातुः । गृध्यवीपचि — (उ. सू. ४-६०६) इति त्र प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- उक्षतम् — उक्ष सेचने धातुः भ्वादिः । लोट् मध्यमपुरुषद्विवचने लज्जद्दावनिरुवुदरिंद तमादेशः । शप् विकरणः । तिजंतनिघातस्वरः आगच्छति । **NOTE**
+- ब्रह्म — बृहि वृद्धौ धातुः । इदित्त्वात् सुमागमः । बृंहेर्नोच्च (उ. सू. ४-५८५) इति मनिन् प्रत्ययः । नुमः नकारस्य अकारादेशः । तदा यणादेशः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः आगच्छति ।
+- जिन्वतम् — जिवि प्रीणने धातुः । इदितो नुम् धातोः इति सुमागमः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
+- धना — नपुंसके शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः ।
+- शूरसाता — शूरसाति शब्दः । ऊतियूति-- (पा सू ३-३-९७) इति साति इति क्तिन्नंतत्वेन निपातितः । सप्तमीएकवचने परे सुसां सुलुक् (पा सू. ७-१-२९) इति विभक्तेः डादेशः । डित्त्वात् टेः (इ) लोपः ।
+
+### Printed p. 679
+
+- भजेमहि — भज सेवायां धातुः । लज् उत्तमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वाज् त्रि॑च॒क्रो म॑धु॒वाह॑नो॒ रथो॑ जी॒राश्वो॑ अ॒श्विनो॑र्यातु॒ सुष्टु॑तः ।  
+> त्रि॒वं॒धु॒रो म॒घवा॑ वि॒श्वसौ॑भगः॒ शं न॒ आ व॑क्षद्वि॒पदे॒  ॑
+> चतुष्पदे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाज् । त्रिचक्रः । मधुवाहनः । रथः । जीरअश्वः । अश्विनोः । यातु ।  
+> सुस्तुतः ।  
+> त्रिवंधुरः । मघवा । विश्व सौभगः । शं । नः । आ । वक्षत् । द्विपदे । चतुःपदे ।  
+> ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्विनो रथोऽर्वाजस्मदभिमुखो यातु । गच्छतु । कीदृशः । तिचक्रश्चक्रत्रययुक्तः मधुवाहनो मधुवोढा जीराश्वः शीघ्रगाम्यश्वोपेतः सुष्टुतोऽत
+> एनास्माभिः स्तूयमानः त्रिवंधुरो निम्मोन्नतकाष्ठत्रयोपेतः । सारथ्याश्रयस्थानं
+> वंधुरं । मघवा धनवान् अत एव विश्वसौभगः सर्वसौभाग्योपेतः । ईदृशोऽश्विनो
+> रथो नोऽस्माकं द्विपदे पुत्रादिप्रजायै चतुष्पदे पशवे च शं सुखमा वक्षत् ।
+> आवहतु ॥ वहेर्लॆट्यडागमः । सिप् ॥
+
+##### Gist of the bhāṣya
+
+May the Aśvins' chariot come toward us. Of what kind? Three-wheeled, that is, having three wheels; honey-bearing, carrying honey; with swift horses, accompanied by quickly moving horses; well praised, hence praised by us; with three seats (त्रिवंधुरः (*trivaṃdhuraḥ*)), that is, having three timbers low and high (the place where the charioteer sits is the वंधुरं (*vaṃdhuraṃ*)); wealthy; therefore possessed of all good fortune. Such a chariot of the Aśvins is to bring welfare, happiness, to our two-footed ones, that is, sons and other offspring, and to our four-footed, the cattle. May it bring it. The augment aṭ before the root वहेर् (*vaher*) in the leṭ, and sip.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- त्रिचक्रः (*tricakraḥ*)—possessed of three wheels
+- मधुवाहनः (*madhuvāhanaḥ*)—bearing honey
+- जीराश्वः (*jīrāśvaḥ*)—possessed of swiftly running horses
+
 ---
 
-**Progress note:** Done through printed p. 673. pp. 667-673 (batch API)
+**Progress note:** Done through printed p. 679. pp. 674-679 (batch API)
