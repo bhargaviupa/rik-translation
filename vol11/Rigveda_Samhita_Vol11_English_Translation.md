@@ -1264,6 +1264,182 @@ These sentences state the powers of the four kinds of stomas to be recited in th
 
 The learned in the śāstra have ordained that those who sacrifice with the Agniṣṭoma should sacrifice also with the Sarvastoma. In this injunction, if the Trivṛt stoma is omitted, his chief vital breath itself vanishes; so the sacrificer performs the sacrifice with the intention "let this sacrifice be included in my chief vital breath". In the same way, if the Pañcadaśa stoma is omitted, there is lack of strength; and the Saptadaśa stoma
 
+### Printed p. 52
+who abandon the Saptadaśa stoma are left without progeny; those who abandon the Ekaviṃśa stoma lose the very support of their own life; those who abandon the Triṇava stoma find that the seasons and the powers of the nakṣatras, which exist for their benefit, no longer help their share; and those who abandon the Trayastriṃśa stoma lack the presence of the principal deity. So the sacrificer performs the sacrifice with the Pañcadaśa stoma to gain strength, with the Saptadaśa to gain progeny, with the Ekaviṃśa for the support of life, with the Triṇava to obtain the benefit of the powers of the seasons and nakṣatras, and with the Trayastriṃśa to gain the presence of his principal deity. The sacrificer who knows the greatness of the Trivṛt stoma, which holds the first place among all stomas, obtains the first place among sacrificers.
+
+In the same way, describing the greatness of the stomas beginning with the Trivṛt, to be recited in order on the six days of the Pṛṣṭhaṣaḍaha sacrifice, the text says:
+
+त्रिवृदग्निष्टोमो भवति तेज एवाव रुंधते पंचदशो भवतींद्रियमेवाव रुंधते सप्तदशो भवत्यन्नाद्यस्यावरुद्धा अथो प्रैव तेन जायंत एकविग्०शो भवति प्रतिष्ठित्या अथो रुचमेवात्मनधते त्रिणवो भवति विचित्यै त्रयस्त्रिग्०शो भवति प्रतिष्ठित्यै । (*trivṛdagniṣṭomo bhavati teja evāva ruṃdhate paṃcadaśo bhavatīṃdriyamevāva ruṃdhate saptadaśo bhavatyannādyasyāvaruddhā atho praiva tena jāyaṃta ekavig0śo bhavati pratiṣṭhityā atho rucamevātmanadhate triṇavo bhavati vicityai trayastrig0śo bhavati pratiṣṭhityai |*)
+
+That is, by the Agniṣṭoma joined with the Trivṛt stoma one obtains lustre; by the Pañcadaśa stoma, vigour; by the Saptadaśa, food; by the Ekaviṃśa, a firm footing; by the Triṇava, victory; by the Trayastriṃśa, greatness. Thus the benefits of reciting the stomas are declared. In the Kaṭha Upaniṣad also,
+
+सोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः । (*somamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ |*) (Ka. 30. 2-11) **NOTE**
+
+by this sentence the greatness of the stoma, and the spiritual peace to be obtained through it, are shown. In the Chāndogya Upaniṣad,
+
+येन च्छंदसा स्तोष्यन् स्यात्तच्छंद उपधावेद्येन स्तोमेन स्तोष्य माणः स्यात्तं स्तोममुपधावेत् । (*yena cchaṃdasā stoṣyan syāttacchaṃda upadhāvedyena stomena stoṣya māṇaḥ syāttaṃ stomamupadhāvet |*) (Bhā. 30 1-3-18) **NOTE**
+
+by this sentence, describing the greatness of the udgītha, it is laid down that one should meditate relying on that stoma by which the praise becomes complete in accordance with the occasion. In the same way, in the present Ṛk too, the word *stomebhiḥ* means a praise that is in the nature of song and gives exceeding benefit.
+
+### Printed p. 53
+**devayantaḥ**—देवयंतः (*devayaṃtaḥ*): you, desiring (to make) yourselves (ours); that is, desiring to make you gods our own, to obtain your full favour.
+**āyavaḥ**—आयवः (*āyavaḥ*): it has been said before that the word *āyu* can have different meanings: mankind, life, a particular deity who reflects life, or a proper name that denotes a person. In this Ṛk it means "we, men".
+**pṛkṣaḥ**—the word *pṛkṣa* means battle (Ni. 3-9), a swift-going horse, and food. Here it means abundant food.
+**dasrā**—दस्रा (*dasrā*): "destroyers of enemies" or "beautiful to see"; that is, possessed of power to destroy enemies, or of beautiful form. This meaning and the special character of the name *dasrā* were explained earlier.
+**pavayaḥ**—the word *pavi* is read among the names of speech (Ni. 2-23) and among the names of the thunderbolt (Ni. 3-11). Besides, the Nirukta-writers explain that the chariot-wheel is called *pavi* because it cleanses the ground:
+
+पवी रथनेमिर्भवति यद्विपुनाति भूमिं । (*pavī rathanemirbhavati yadvipunāti bhūmiṃ |*) (Ni. 5-5-)
+
+and, citing the Ṛk
+
+उत पव्या रथानामद्रिं भिंदंत्योजसा । (*uta pavyā rathānāmadriṃ bhiṃdaṃtyojasā |*) (Ṛ. Saṃ. 5-52-9)
+
+they show that there *pavi* means the rim of a chariot. In the present Ṛk also it means the chariot-wheel of the Aśvin deities. Showing also that *pavi* has the meaning "arrow-head", they cite the Ṛk
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ |*) (Ṛ. Saṃ. 10-65-13)
+
+and (Ni. 13-30) explain:
+
+पविः शल्यो भवति यद्विपुनाति कायं तद्वत्पवीरमायुधं तद्वानिंद्रः पवीरवान् । (*paviḥ śalyo bhavati yadvipunāti kāyaṃ tadvatpavīramāyudhaṃ tadvāniṃdraḥ pavīravān |*)
+
+That is, because it pierces the body the arrow-head is called *pavi*; because he possesses it, Indra has the epithet *pavīravān*. They then cite the Ṛk
+
+यो जनान् महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा ॥ (*yo janān mahiṣā ivātitasthau pavīravān | utāpavīravān yudhā ‖*) (Ṛ. Saṃ. 10-60-3)
+
+##### Grammar
+
+- स्तोमेभिः — बहुलं छंदसि इति भिसः ऐस्‌भावो न भवति । एत्वम् ।
+- देवयंतः — देवान् आत्मनः इच्छंतः । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति इच्छार्थे क्यच् प्रत्ययः । न छंदस्यपुत्रस्य (पा. सू. ७-४-३५) इति ईत्वादयो न भवंति । क्यजंतात् लडर्थे शतृप्रत्ययः । शप् विकरणः । अदुपदेशात् परत्वात् लसार्वधातुकमनुदात्तं भवति । क्यच् चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+
+### Printed p. 54
+- अश्विना — संबोधनाद्विवचने सुपां सुलुक् इति तस्य अकारादेशः । आमंत्रितनिघातस्वरः भवति ।
+- आश्रावयंतः — श्रु श्रवणे इति धातुः । प्रयोजकव्यापारदर्शनात् हेतुमति च (पा. सू. ३-१-२६) इति णिच् । अचोञ्णिति इति धातोर्वृद्धिः । आवादेशः । णिजंतात् शतृप्रत्ययः । शप् विकरणः । तं निमित्तीकृत्य णिचो गुणः । अयादेशः । प्रथमाबहुवचनांतरूपम् । लसार्वधातुकस्य अनुदात्तत्वात् णिच्स्वरः अवतिष्ठते । पदकाले छांदसत्वात् धातोरुपधायाः ह्रस्वः ।
+- हव्या — हव्यानि इति रूपे शेश्छंदसि बहुलम् (पा. सू. ६-१-७१) इति शेः लोपः । अथवा तृतीयैकवचनस्य सुपां सुलुक् इति तस्य डादेशः ।
+- विश्ववेदसा — सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य अकारादेशः । आमंत्रितनिघातस्वरः भवति ।
+- हिरण्यये — विकारार्थे आगतस्य मयटः ऋत्ववास्त्य इति मकारस्य लोपो निपातितः । सप्तमीएकवचनांतरूपम् ।
+- पुषायंते — पुष प्लुष स्नेहनसेचनपूरणेषु इति धातुः । लट् प्रथमपुरुषबहुवचने झ प्रत्ययः । झोंतः इति अंतादेशः । क्रादिभ्यः श्ना इति श्नाविकरणः । अस्य हि परत्वाभावेऽपि छंदसिशायजपि (पा. सू. ३-१-८४) इति शायचादेशः । पररूपम् । प्रत्ययस्य टेः एत्वम् । पादादित्वात् निघातस्वरो न भवति । शायच् चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अचेति दस्रा व्यु१ नाकमृण्वथो युंजते वां रथयुजो  
+> दिविष्टिष्वध्वस्मानो दिविष्टिसु ।
+
+### Printed p. 55
+
+> अधि वां स्थाम वंधुरे रथे दस्रा हिरण्यये ।  
+> पथेव यंतावनुशासता रजोऽंजसा शासता रजः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचेति । दस्रा । वि । ऊं इति । नाकं । ऋण्वथः । युंजते । वां । रथयुजः । दिविष्टिषु । अध्वस्थानः । दिविष्टिषु ।  
+> अधि । पां । स्थाम । वंधुरे ! रथे । द्रा । हिरण्यये ।  
+> पथाइव । यंत् । अनुशासता । रजः । अंजसा । शासता । रजः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रा दस्रावश्विन् अचेति।वक्ष्यमाणं युष्मच्छेष्टितं ज्ञायते सर्वैः।किंतदिति
+> तदुच्यते । नाकं स्वर्ग० व्यृण्वथः । विशेषेण गच्छथः ॥ ऋणु गत् तानादिकः । लेट्यडागमः ॥ यज्ञसंपूर्णनंतरमिति यावत् । उशब्दोऽवधारणे । यद्वा । नाकं ।
+> अकं दुःखं । तद्रहितं यज्ञमृण्वथः। विशेषेण गच्छत एव । तदर्थं नां रथयुजो
+> युष्मत्संबंधिनो रथस्य योजयितारः सारथयो दिविष्टिषु स्वर्गस्यॆषणेषु द्योतनात्मकस्य यज्ञस्यॆषणेषु गमनेषु वा निमित्तभूतेषु युंजते । अत्वान्योजयंति
+> रथे । युक्ते रथे वा युष्मान् । त एव विशेष्यंते । दिविष्टिषु दिवो गमनेषु
+> निरालंबाकाशगमनेष्वध्वस्मानो रथस्य तदाश्रितस्य च ध्वंसमकुर्वाणाः । किंच हे
+> दस्राश्विन् वां युवयोर्वंधुरे बंधुरत्रययुक्ते । युगबंधनाधारः काष्ठविशेषो बंधुरं । तादृशत्रययुक्तत्वं रथो यो नां त्रिवंधुरः । ऋ ८-२२-५ ।
+> इत्यादिषु प्रसिद्धं । हिरण्यये हिरण्मये रथेऽधि तादृशस्य रथस्कोपरि स्थाम ।
+> अस्थापयाम ॥ छांदसे लजि बहुलं छंदसीत्यडभावः । आम्यदात्तश्चांदसः ॥
+> कीदृशौ । पथेव सुपथेन मार्गीण निरालंब आकाशे रजो रंजनात्मकं स्वर्ग० प्रति
+> यंत् गच्छंतौ । लोका रजांस्युच्यंत इत्युक्तत्वात् । अनुशासताननुकूलाञ्छत्रूननुशासतौ विधेयीकुर्वंत् ॥ शासेः शतरि जक्षित्यादय इत्यभ्यस्तत्पादभ्यस्तानामादिरित्याद्यु दात्तत्वं ॥ किंचांजसा मुख्यत्वेन प्रकृष्टं रज उदकं वृष्टिलक्षणं शासता
+> शासत् बलाद्विधेयीकुर्वंत् ॥
+
+##### Gist of the bhāṣya
+
+"O Dasras, Aśvins!" What is about to be said, your wish, is known to all. What is it? That is now told: you go specially (व्यृण्वथः (*vyṛṇvathaḥ*), from the root *ṛṇu*, "to go") to heaven (नाकं (*nākaṃ*)), that is, after the sacrifice is completed; उ (*u*) is for emphasis. Or else: *nāka* is *a-kam*, "without sorrow"; you go specially to the sacrifice free of sorrow. For that purpose your charioteers, the yokers of your chariot, yoke (the horses) in the quests for heaven (दिविष्टिषु (*diviṣṭiṣu*)), that is, in the quests of the shining sacrifice, or in goings that are the occasion; or (they yoke) you on the yoked chariot. They are qualified: in goings through the heavens, through the sky that has no support, they do not destroy the chariot or those who rest on it. Further, O Dasras, Aśvins, (we have placed you) on your chariot with three *bandhuras*. The *bandhura* is a special piece of wood that is the support of the yoke-fastening; a chariot having three such is well known in passages such as रथो यो नां त्रिवंधुरः (*ratho yo nāṃ trivaṃdhuraḥ*) (Ṛ. 8-22-5). On the golden chariot—upon such a chariot—we have set (you) (स्थाम (*sthāma*), "we caused to stand"). What kind are you? Going toward heaven by a good road, in the unsupported sky, "rajas" being in the nature of what gives colour; for it is said that the worlds are called *rajas*. अनुशासता (*anuśāsatā*): ruling, bringing under control, the unfavourable enemies. Further, अंजसा (*aṃjasā*): chiefly, excellent *rajas*, that is water in the form of rain, शासता (*śāsatā*): controlling by force.
+
+### Printed p. 56
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—O Aśvin deities
+- अचेति (*aceti*)—(your purpose) has been known (which is this)
+- नाकं (*nākaṃ*)—toward heaven
+- ऊं (*ūṃ*)—certainly
+- वि ऋण्वथः (*vi ṛṇvathaḥ*)—you are going
+- दिविष्टिषु (*diviṣṭiṣu*)—on the (unsupported) sky-road
+- अध्वस्थानः (*adhvasthānaḥ*)—(horses) that do not bring (your chariot) into trouble
+- वां (*vāṃ*)—your
+- रथयुजः (*rathayujaḥ*)—charioteers
+- दिविष्टिषु (*diviṣṭiṣu*)—for the journey to heaven or for the journey to the sacrifice
+- युंजते (*yuṃjate*)—they yoke (the horses to the chariot)
+- दस्रा (*dasrā*)—O Aśvin deities
+- पथेव (*patheva*)—on an excellent road itself
+- अनुशासता (*anuśāsatā*)—punishing the enemies
+- रजः (*rajaḥ*)—to heaven
+- यंत् (*yaṃt*)—going
+- रजः (*rajaḥ*)—rain-water
+- अंजसा (*aṃjasā*)—excellently
+- शासता (*śāsatā*)—causing to fall
+- नां (*nāṃ*)—you **NOTE**
+- वंधुरे (*vaṃdhure*)—furnished with three poles
+- हिरण्यये (*hiraṇyaye*)—made of gold
+- रथे (*rathe*)—in the chariot
+- अधि स्थाम (*adhi sthāma*)—we seat
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, we have understood your purpose: you desire to go toward heaven. Your charioteers, who do not bring you into trouble on the unsupported sky-road, yoke horses to your chariot so that you may go and reach heaven. O Aśvin deities, going by an excellent road, you punish enemies and pour down rain; we seat you, such as you are, in your golden chariot.
+
+##### Printed English
+
+Dasras, your purpose is known : you would repair to heaven: your charioteers harness (your steeds) for your heavenward journey; the horses that injure not (the car) on your journey to heaven. We have placed you, Dasras, in your golden three-shafted chariot, going by an (easy) road to heaven, humiliators (of enemies), and principal regulators of the rain.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the word *nāka* the bhāṣyakāra gives two kinds of meaning: नाकं (*nākaṃ*), heaven, the world of heaven, ऋण्वथः (*ṛṇvathaḥ*), "you go and reach"; or नाकं (*nākaṃ*), "you come and reach, toward the sacrifice". It does not appear to be the traditional meaning to say that the word *nāka*, by its derivation, means a sacrifice; "heaven" is the meaning in commonest use. The word is also used as a synonym of the sun. The Nirukta-writers include this word among six common names and, explaining that their meaning is common, say:
+
+साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च । (*sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca |*) (Ni. 2-13)
+
+that is, the six that follow are common synonyms of the heavenly world and of the sun.
+
+### Printed p. 57
+Then, giving the derivation of this word, they say (Ni. 2-14):
+
+नाक आदित्यो भवति-नेता रसानां ! नेता भासां ज्योतिषां प्रणयः (*nāka ādityo bhavati-netā rasānāṃ ! netā bhāsāṃ jyotiṣāṃ praṇayaḥ*)
+
+that is, the sun, the carrier of sap and the carrier of radiance, is called *nāka*. Having shown that it is a synonym of the sun, they go on:
+
+अथ द्यौः कमिति सुखनाम, तत्प्रतिषिद्धं प्रतिषिद्द्येत । (*atha dyauḥ kamiti sukhanāma, tatpratiṣiddhaṃ pratiṣiddyeta |*)
+
+*Kam* is a synonym of happiness; what is without happiness is *akam*, its absence, that is, absence of the absence of happiness; the meaning is: what is free of sorrow. Having explained this, they cite the sentence
+
+न ना अमुं लोकं जग्मुषे किंच साकं । (*na nā amuṃ lokaṃ jagmuṣe kiṃca sākaṃ |*) (Kāvya Saṃ. 21-2) **NOTE**
+
+and give its meaning:
+
+न ना अमुं लोकं गतवते किंच नासुखं , पुण्यकृतो ह्येव तत्र गच्छंति । (*na nā amuṃ lokaṃ gatavate kiṃca nāsukhaṃ , puṇyakṛto hyeva tatra gacchaṃti |*)
+
+For those who have gone to this world there is no sorrow at all; only the virtuous may enter this world. In the Ṛk-Saṃhitā this word is used in some places as a synonym of the sun and in others as a synonym of heaven. In verses such as
+
+तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितं । (*tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitaṃ |*) (Ṛ. Saṃ. 1-34-8)
+
+ये नाकसा धि रोचने दिवि देवास आसते । (*ye nākasā dhi rocane divi devāsa āsate |*) (Ṛ. Saṃ. 1-19-6)
+
+it is a synonym of the sun. In Ṛks such as
+
+तेवर्धंत स्वतवसो महित्वना नाकं तस्फुरुरु चक्रिरे सदः । (*tevardhaṃta svatavaso mahitvanā nākaṃ tasphururu cakrire sadaḥ |*) (Ṛ. Saṃ. 1-85-7)
+
+ते ह नाकं महिमानः सचंत यत्र पूर्वेसाध्याः संति देवाः । (*te ha nākaṃ mahimānaḥ sacaṃta yatra pūrvesādhyāḥ saṃti devāḥ |*) (Ṛ. Saṃ. 1-164-58)
+
+it is a synonym of heaven. In the Bṛhaddevatā sentence
+
+वृषैव कपिलो भूत्वा यन्ना कमधिरोहति । (*vṛṣaiva kapilo bhūtvā yannā kamadhirohati |*) (Bṛ. De. 2-66)
+
+it clearly means the atmosphere. In the sentence of the Chāndogya Upaniṣad
+
+इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकं । (*ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokaṃ |*) (Chā. U. 2-10-5)
+
+it is said that the sorrowless world of heaven is beyond the world of the sun. In the Śatapatha Brāhmaṇa and in the Taittirīya Upaniṣad, the name Nāka is well known as that of Mudgala's son, who knew Brahman; it means "one free of sorrow".
+
 ---
 
-**Progress note:** Done through printed p. 51. pp. 46-51 (batch API)
+**Progress note:** Done through printed p. 57. pp. 52-
