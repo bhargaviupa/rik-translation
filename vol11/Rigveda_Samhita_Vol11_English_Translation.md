@@ -8444,6 +8444,172 @@ The ten धीतयः (*dhītayaḥ*), the ten fingers, separated from one ano
 - ऊतये (*ūtaye*)—for protection
 - हवामहे (*havāmahe*)—(continues)
 
+### Printed p. 349
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हवामहे (*havāmahe*)—(him) we call
+- धनोः (*dhanoḥ*)—from the bow (shot)
+- प्रवत आ (*pravata ā*)—like arrows that go swiftly
+- सः (*saḥ*)—Agni
+- ऋण्वति (*ṛṇvati*)—makes (his rays) spread swiftly
+- अभिव्रजद्भिः (*abhivrajadbhiḥ*)—by those who move about all around (for the performance), (for them)
+- नवा (*navā*)—new
+- वयुना (*vayunā*)—(the matters needed for performing the sacrifice)
+- अधित (*adhita*)—makes them known. [Or: अभिव्रजद्भिः (*abhivrajadbhiḥ*)—by the Hotṛ and other priests moving about all around (recited); नवानि (*navāni*)—new; वयुनानि (*vayunāni*)—hymns of praise and the like; अधित (*adhita*)—he accepts.]
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers too, joining together, gratify the resplendent Agni. We, the sacrificers, too call him for protection. As arrows shot from a bow go swiftly, Agni makes his flames spread swiftly. And he accepts the new hymns of praise recited by the Hotṛ and other priests who move about all around.
+
+##### Printed English
+
+The ten fingers intertwined propitiate that divine (Agni), whom we mortals invoke for protection : he darts (his rays) like swift (arrows) from a bow, and accepts the new praises (uttered) by those who crowd round the alter.
+
+##### विशेषविषयगळु (Special Topics)
+
+दशधीतयः (*daśadhītayaḥ*)—It has been explained earlier that the word धीति (*dhīti*) has the meanings "action" and "intelligence" (Ṛ. Saṃ. 1-139-1). This word is also read among the names of the fingers (Ni. 3-8). Here it means the ten fingers.
+
+व्रिशः (*vriśaḥ*)—This word too is read among the names of the fingers (Ni. 3-8). Showing the explanation परस्पर विश्लिष्टाः (*paraspara viśliṣṭāḥ*) ("separated from one another"), that is, even though they are separated one from another, Sāyaṇa says that it is an epithet of धीतयः (*dhītayaḥ*).
+
+ऋण्वति (*ṛṇvati*)—Formed from the root रिवि (*rivi*) with the sense of motion; it has meanings such as "causes to reach", "causes to go". In Ṛks such as
+क्राणा रुद्रेभिर्वसुभिः पुरोहितो होता निषत्तो रयिषाळमर्त्यः । रथो न विक्षृंजसान आयुषु व्यानुषग्वार्या देव ऋण्वति । (*krāṇā rudrebhirvasubhiḥ purohito hotā niṣatto rayiṣāḷamartyaḥ | ratho na vikṣṛṃjasāna āyuṣu vyānuṣagvāryā deva ṛṇvati |*) (Ṛ. Saṃ. 1-25-3 **NOTE**)
+
+### Printed p. 350
+
+where it bears the sense गमयति (*gamayati*), here also the meaning is that he makes his rays spread out.
+
+The second half of this Ṛk admits two kinds of meaning. First, Agni makes the priests and others who are placed around the sacrificial ground know the matters of the performance of the sacrifice; second, he accepts the new hymns of praise and the like recited by the Hotṛ and others placed around. So Sāyaṇa has explained.
+
+वयुना (*vayunā*)—It is read among the names of intelligence, केतः, केतुः (*ketaḥ, ketuḥ*) (Ni. 3-13) and so on; it is explained that this meaning arises because it produces light. वयुनं वेतेः कांतिर्वा प्रज्ञा ना (*vayunaṃ veteḥ kāṃtirvā prajñā nā*) (Ni. 5-15): the Nirukta-writers show that, formed from the root वी (*vī*), which gives the sense "to weave", it gives the sense of desire or of intelligence; and, citing the Ṛk
+स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार । कदा ते मर्ता अमृतस्य धामेयक्षंतो न मिनंति स्वधावः ॥ (*sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra | kadā te martā amṛtasya dhāmeyakṣaṃto na minaṃti svadhāvaḥ ‖*) (Ṛ. Saṃ. 6-21-3)
+they explain स तमोऽप्रज्ञानं ततन्वत्सूतं सूरेयेण प्रज्ञानवच्चकार (*sa tamo 'prajñānaṃ tatanvatsūtaṃ sūreyeṇa prajñānavaccakāra*) (Ni. 5-15) as giving the sense: "what was in the form of darkness and beyond perception he made an object of knowledge". In the present Ṛk the meaning is a hymn of praise endowed with intelligence.
+
+अधित (*adhita*)—ज्ञापयति (*jñāpayati*): one meaning is that he makes the priests and others know; the other, स्तोत्रादीनि धत्ते (*stotrādīni dhatte*), is that he accepts the hymns of praise and the like.
+
+##### Grammar
+
+- हिन्वंति — हिवि प्रीणने इति धातुः । लटः प्रथमपुरुषबहुवचने झेरंतादेशः । इदितो नुम्‌धातोः (पा. सू. ७-१-५८) इति नुमागमः । अतिजंतात्परत्वान्निघातस्वरो भवति ।
+- धीतयः — डुधाण् धारणपोषणयोः इति धातुः । क्तिच् प्रत्ययः । घुमास्थागापा- (पा. सू. ६-४-६६) इति धातोरीत्वम् । चित्त्वादंतोदात्तस्वरो भवति ।
+- व्रिशः — छांदसत्वाद्रेफो मध्ये भवति । प्रथमाबहुवचनांतरूपम् ।
+- मर्तासः — अज्ज सेरसुक् (पा. सू. ६-१-५०) इति जस आसुकागमः । **NOTE**
+
+### Printed p. 351
+
+- ऊतये — अव रक्षणे इति धातुः । ऊतिजूतिसाति- (पा. सू. ३-३-९७) इति उदात्तः क्तिन् प्रत्ययेन निपातितः । चतुर्थीएकवचनांतरूपम् ।
+- हवामहे — हैञ् स्पर्धायां शब्दे च इति धातुः । लट उत्तमपुरुषबहुवचने महिज् प्रत्ययः । टेरेत्वम् । शप् विकरणम् । बहुलं छंदसि इति धातोः संप्रसारणम् । शप्निमित्तमुकारस्य गुणोऽवादेशः । तिजंतनिघातस्वरो भवति ।
+- धनोः — धन धान्ये इति धातुः । भृमृशी- (उ. सू. १-७) इति उ प्रत्ययः । व्यत्ययादाद्युदात्तो भवति । पंचमीएकवचनांतरूपम् ।
+- प्रवतः — प्र उपसर्गः । वन संभक्तौ इति धातुः । क्विप् च इति प्रपूर्वत्वे क्विप् । गमादीनामिति वक्तव्यम् (पा. सू. ६-४-४०—१) इति धातोरनुनासिकस्य लोपः । तदा ह्रस्वस्य पिति कृति तुक् (पा. सू. ६-१-७१) इति धातोस्तुकागमः । कृदुत्तरपदप्रकृतिस्वरो भवति । द्वितीयाबहुवचनांतरूपम् ।
+- आ — इदमुपमार्थे (सादृश्यार्थे) प्रयुक्तम् ।
+- ऋण्वति — रिवि गतौ इति धातुः । प्रेरणार्थप्रतीतेरंतर्भावितण्यर्थको धातुः । इदितोनुम् धातोः (पा. सू. ७-१-५८) इति सुमागमः । लटः प्रथमपुरुषएकवचने तिप् प्रत्ययः । शप् विकरणम् । बहुलं छंदसि इति धातो रेफस्य संप्रसारणपूर्वरूपम् । ऋवर्णान्नस्य णत्वं वाच्यम् इति वचनात्सुमो नकारस्य णत्वम् । ऋण्वतीति रूपं भवति । अतिजंतात्परत्वान्निघातस्वरो भवति । अधि इत्युपसर्गस्यात्रार्थविशेषजनकशक्तिर्नास्ति । केवलं धात्वर्थमेवानुवदति । **NOTE**
+- अभिव्रजद्भिः — व्रज गतौ इति धातुः । लडर्थे शतृप्रत्ययः । लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वरः शिष्यते । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । तृतीयाबहुवचनांतरूपम् ।
+- वयुना-नवा — नपुंसके शि आदेशे रूपे जाते शेश्छंदसि बहुलम् इति शिलोपः ।
+- अधित — डुधाञ् धारणपोषणयोः इति धातुः । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लुज् । प्रथमपुरुषएकवचने त प्रत्ययः । च्लेः सिचादेशः । स्नाघ्वोरिच्च (पा. सू. १-२-१७) इति धातोरित्वम् ; परस्य सिचः कित्वं च भवति । ह्रस्वादंगात् (पा. सू ८-२-२७) इति ह्रस्वात्परस्य सिचो लोपः । अंगस्याडागमः । अतिजंतात्परत्वान्निघातस्वरो भवति ।
+
+### Printed p. 352
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्य॑ग्ने दि॒व्यस्य॒ राज॑सि॒ त्वं पार्थि॑वस्य पशु॒पाइ॑व॒ त्मना॑ ।  
+> एनी॑ त ए॒ते बृ॑ह॒ती अ॑भि॒श्रिया॑ हिर॒ण्ययी॒ वक्व॑री ब॒र्हिरा॑शाते ।  
+> ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । अग्ने । दिव्यस्य । राजसि । त्वं । पार्थिवस्य । पशुपाः इव । त्मना ।  
+> एनी इति । ते । एते इति । बृहती इति । अभिश्रिया । हिरण्ययी इति । वक्वरी इति ।  
+> बर्हिः । अशाते इति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं दिव्यस्य दिवि भवस्य देवादेर्विद्युदात्मना वृष्टा देर्वा राजसि ।
+> ईशिषे । ऐश्वर्यनामैतत् । तथा पार्थिवस्य पृथिवीसंबंधिनो मनुष्यादे राजसि ।
+> ईश्वरो भवसि । किमन्यतंत्रत्वेन नेत्याह । त्मनात्मनैव स्वसामर्थ्येनैव । तत्र
+> दृष्टांतः । पशुपा इव । पशुपालको यथा स्वसामर्थ्येनैव पशूनां निरोधनिर्गमनादिव्यापारेषु समर्थो भवति तद्वत् । एतद्दृष्टांतेनात्यंतस्वातंत्र्यमुक्तं
+> भवति । किंच यस्मादेव तस्मात्ते तव बर्हिर्यज्ञमेते प्रसिद्दे एनी एतवर्णे शुभ्रे
+> द्यावापृथिव्यावाशाते । अश्नु वाते । व्याप्नुतः ॥ वर्णादनुदात्तादिति जीप् तकारस्य
+> नकारश्च ॥ कीदृश्यौ ते । बृहती महत्यावतिविस्तृते अभिश्रिया प्राप्तैश्वर्ये अभितः
+> सेव्ये वा हिरण्यया हितरमणीये वक्वरी अतिकुशलं शब्दयंत्र्यौ ॥ वचेर्वनिसि वनो
+> र चेति जीब्रेफौ । छांदसं कुत्वं । वकि कौटिल्य इत्यस्माद्वा छांदसो नुमभावः ॥
+> ईदृश्यौ द्यावापृथिव्यौ बर्हिरश्नु वाते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you rule (राजसि (*rājasi*), that is ईशिषे (*īśiṣe*); this is a name denoting lordship) over what belongs to heaven (दिव्यस्य (*divyasya*)), that is, over the gods and others who are in heaven, or over rain and the like in the form of lightning; and likewise over what belongs to earth (पार्थिवस्य (*pārthivasya*)), the men and others connected with the earth: you are their lord. Is it in dependence on another? No, he says: त्मना (*tmanā*) means by your very self, by your own power. An example: पशुपा इव (*paśupā iva*), as a herdsman is able by his own power in the doings of penning in and driving out the cattle. By this example absolute independence is stated. Moreover, since this is so, these two well-known एनी (*enī*) (of bright colour, shining), heaven and earth, pervade your बर्हिः (*barhiḥ*), the sacrifice (आशाते (*āśāte*) is व्याप्नुतः (*vyāpnutaḥ*), "they pervade"). What are they like? बृहती (*bṛhatī*): great, very extensive; अभिश्रिया (*abhiśriyā*): possessed of lordship, or to be served on all sides; हिरण्ययी (*hiraṇyayī*): very delightful; वक्वरी (*vakvarī*): sounding very skilfully. Such are heaven and earth, and they pervade the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- पशुपा इव (*paśupā iva*)—as a herdsman holds his own independent lordship over the cattle
+- त्मना (*tmanā*)—by your own independent power
+- दिव्यस्य (*divyasya*)—over all the gods and others who are in the world of heaven, or over rain and the like
+- राजसि हि (*rājasi hi*)—you are indeed lord
+
+### Printed p. 353
+
+- त्वं (*tvaṃ*)—you
+- पार्थिवस्य (*pārthivasya*)—over all men and others on the earth you are lord
+- बृहती (*bṛhatī*)—very extensive
+- अभि श्रिया (*abhi śriyā*)—possessed of lordship, or worshipped on all sides
+- हिरण्ययी (*hiraṇyayī*)—beneficial and delightful
+- वक्वरी (*vakvarī*)—sounding charmingly
+- एनी (*enī*)—and shining
+- एते (*ete*)—these heaven and earth
+- ते (*te*)—your
+- बर्हिः (*barhiḥ*)—the sacrifice
+- आशाते (*āśāte*)—pervade and spread over
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as a herdsman holds his own independent lordship over the cattle, so you too, by your own independent power, are lord over the gods and others who are in the world of heaven and the men and others who are in the world of earth. Heaven and earth, very extensive, worshipful, beneficial to the world, sounding charmingly, and shining, pervade and spread over your sacrifice.
+
+##### Printed English
+
+You Agni, reign over (the dwellers in) heaven, and over those of earth, according to your own (will), as a herdsman over his (herd) and those two, (heaven and earth), bright, vast, adorable, beneficent, and sounding (agreeably), partake of the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+अभिश्रिया (*abhiśriyā*)—प्राप्तैश्वर्ये अभितः सेव्ये ना (*prāptaiśvarye abhitaḥ sevye nā*). "Endowed with lordship, or served on all sides": it states the greatness of heaven and earth. In general this epithet is much used in the senses "worshipful support" or "resort"; as an epithet of heaven and earth it in many places conveys their greatness. In the Ṛk
+धृतवती भुवनानामभिश्रियोर्वी पृथ्वी मधुदुघे सुपेशसा । द्यावापृथिवी वरुणस्य धर्मणा निष्कभिते अजरे भूरिरेतसा ॥ (*dhṛtavatī bhuvanānāmabhiśriyorvī pṛthvī madhudughe supeśasā | dyāvāpṛthivī varuṇasya dharmaṇā niṣkabhite ajare bhūriretasā ‖*) (Ṛ. Saṃ. 6-70-1)
+the earth is praised as the worshipful support of all the worlds. In the same way, in the Ṛk
+प्रत्नं होतारमीड्यं जुष्टमग्निं कविक्रतुं । अध्वराणामभिश्रियं ॥ (*pratnaṃ hotāramīḍyaṃ juṣṭamagniṃ kavikratuṃ | adhvarāṇāmabhiśriyaṃ ‖*) (Ṛ. Saṃ. 8-44-7)
+the quality of Agni, worshipped by the world, is stated as an epithet of him.
+
+वक्वरी (*vakvarī*)—अतिकुशलं शब्दयंत्र्यौ (*atikuśalaṃ śabdayaṃtryau*). "Sounding very skilfully", that is, sounding attractively, is an epithet of heaven and earth. This word may be formed either from the root वच् (*vac*) or from the root वकि (*vaki*).
+
+### Printed p. 354
+
+As Sāyaṇa says, वकि कौटिल्य इत्यस्माद्वा छांदसो नमभावः (*vaki kauṭilya ityasmādvā chāṃdaso namabhāvaḥ*), if its source is the root वकि (*vaki*) the meaning "crooked" or "crookedness" arises, as has been said before. But since the words वक्वरी (*vakvarī*) and वक्व (*vakva*) are used in all contexts of loud sounding, it has to be said that in those places it is formed from the root वच् (*vac*) itself. For example, in the Ṛk
+तं पृच्छंती वज्रहस्तं रथेष्ठामिंद्रं वेपी वक्वरी यस्य नू गीः । तुविग्राभं तुविकूर्मिं रभोदां गातुमिषे नक्षते तुम्रमच्छ ॥ (*taṃ pṛcchaṃtī vajrahastaṃ ratheṣṭhāmiṃdraṃ vepī vakvarī yasya nū gīḥ | tuvigrābhaṃ tuvikūrmiṃ rabhodāṃ gātumiṣe nakṣate tumramaccha ‖*) (Ṛ. Saṃ. 6-22-5)
+for वक्वरी (*vakvarī*) the gloss is गुणानां वक्ति ईदृशी गीः स्तुतिः (*guṇānāṃ vakti īdṛśī gīḥ stutiḥ*), "such a speech, a hymn of praise, that speaks of qualities", "that which praises the qualities"; since it is an epithet of the hymn, one must say that the root वच् (*vac*) is its source. The word वक्वा (*vakvā*), formed from this same root, too: in the Ṛk
+असर्जि वक्त्वा रथ्ये यथाजौ धिया मनोता प्रथमो मनीषी । दश स्वसारो अधि सानो अव्येजंति वह्निं सदनान्यच्छ । (*asarji vaktvā rathye yathājau dhiyā manotā prathamo manīṣī | daśa svasāro adhi sāno avyejaṃti vahniṃ sadanānyaccha |*) (Ṛ. Saṃ. 9-91-1)
+it is an epithet of Soma as शब्दयमानः (*śabdayamānaḥ*) ("sounding"); in the Ṛk
+श्रुधी हवमिंद्र शूर पृथ्या उत स्तवसे वेन्यस्यार्कैः । आ यस्ते योनिं घृतवंतमस्वारूर्मिर्न निम्मैर्द्रवयंत वक्वाः । (*śrudhī havamiṃdra śūra pṛthyā uta stavase venyasyārkaiḥ | ā yaste yoniṃ ghṛtavaṃtamasvārūrmirna nimmairdravayaṃta vakvāḥ |*) (Ṛ. Saṃ. 18-148-5) **NOTE**
+it is an epithet of the praisers who sound; and in the Ṛk
+प्राग्रुवो नभन्वोऽपि न वक्वा ध्वस्रा अपिन्वद्युवतीर्युतज्ञाः । धन्वान्यज्रा अपृणक्त्वषाणा अधोगिंद्रः स्तरो३वंसुपत्नीः । (*prāgruvo nabhanvo 'pi na vakvā dhvasrā apinvadyuvatīryutajñāḥ | dhanvānyajrā apṛṇaktvaṣāṇā adhogiṃdraḥ staro3vaṃsupatnīḥ |*) (Ṛ. Saṃ. 4-19-7)
+it is an epithet of the army that makes a noise; hence it must be said that the root वच् (*vac*) is the source of this word.
+
+राजसि (*rājasi*)—This word is read among the names of actions of lordship (Ni. 3-11). ईश्वरो भवसि (*īśvaro bhavasi*): it means "you are lord".
+
+##### Grammar
+
+- दिव्यस्य — दिवि भवं दिव्यम् । भवे छंदसि (पा. सू. ४-४-११०) इति य प्रत्ययः । प्रत्ययस्वरेणांतोदात्तो भवति । षष्ठीएकवचनांतरूपम् ।
+
+### Printed p. 355
+
+- राजसि — राजृ दीप्तौ इति धातुः । लटः प्रथमपुरुषएकवचनांतरूपम् । हि इत्यस्य संबंधाद्धिच (पा. सू. ८-१-३४) इति निघातप्रतिषेधो भवति । शप्‌सिपोरनुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- पार्थिवस्य — पृथिव्या अयं पार्थिवः । पृथिव्या इख्यात् (पा. सू. ४-१८-५-२) इत्यञ् प्रत्ययः । तद्धितेष्वचामादेः (पा सू. ७-२-११७) इत्यादिवृद्धिः । यस्येति च (पा. सू. ६-४-१४८) इतीकारलोपः । उत्पादात् इत्यादिर्नित्यम् इत्याद्युदात्तस्वरो भवति । षष्ठीएकवचनांतरूपम् । **NOTE**
+- पशुपाः — पशून् पातीति पशुपाः । पा रक्षणे इति धातुः । क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति । आकारांतपुल्लिंगशब्दः ।
+- त्मना — आत्मना इति रूपे जाते मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इत्याकारस्य लोपः ।
+- एनी — एतशब्दः । अस्य स्त्रीत्वविवक्षायां वर्णादनुदात्तात्तोपधात्तोनः (पा. सू. ४-१-३९) इति जीप् । तत्सन्नियोगेन तकारस्य नकारादेशः । अकारस्य लोपः । जीपः पित्त्वादनुदात्तत्वं भवति ।
+- बृहती — बृहन्महतोरुपसंख्यानम् इति वचनादस्मादागतो जीप् उदात्तो भवति ।
+- अभिश्रिया — श्रिञ् सेवायां इति धातुः । किब्बचिप्रच्च (उ. सू. २-२१५) इति क्विप् । धातोर्दीर्घः । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । तृतीयाएकवचनांतरूपम् ।
+- वक्वरी — वच परिभाषणे इति धातुः । अन्येभ्योपि दृश्यंते (पा. सू. ३-२-७५) इत्यस्माद्वनिप् प्रत्ययः । वनोर च (पा. सू. ४-१-७) इति स्त्रीत्वविवक्षायां जीप् नकारस्य रेफादेशः । छांदसत्वेन धातुचकारस्य कुत्वम् । प्रत्यययोरुभयोः पित्त्वाद्धातुस्वरः शिष्यते । अथवा वकि कौटिल्ये इति धातुः । इदित्त्वेऽपि छांदसत्वेन नुमागमो न भवति । अस्मात्पूर्ववद्वनिप् जीप् रत्वम् । सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचने परे पूर्वसवर्णदीर्घः ।
+- आशाते — अशू व्याप्तौ इति धातुः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । प्रथमपुरुषद्विवचने आताम् प्रत्ययः । लिटस्तझयोः इति— **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
+**Progress note:** Done through printed p. 355. pp. 349-355 (batch API)
