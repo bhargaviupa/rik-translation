@@ -15846,6 +15846,146 @@ Discussing how hard it is to give a correct explanation of this word, which has 
 
 "Marut or Maruta in Orninary Sanskrit mean wind, and more particularly a strong wind, differing by its violent character from Vayu or Vata Nor do the hymns themselves leave us in any doubt as to the natural phenomena with which the Maruts are identified. Storms which root up the trees of the forest, lightning, thunder and showers of rain are the background from which the Maruts in their personal and dramatic character rise
 
+### Printed p. 661
+before our eyes. In most of the later native dictionaries (the Medinī, Viśva, Hemacandra, Amara, Anekārthadhvanimañjarī), Marut is given as a synonym of Deva, or God in general, and so is Maru in Pali.
+But, while the hymns addressed to the Maruts enable us to watch the successive
+stages in the development of so called deities more clearly than any other hymns, there is no
+doubt one drawback, namely, the uncertainty of the etymology of Marut .... .... .... .... ....
+No better etymology having been proposed, I still maintain that the derivation of Marut from
+మృ to pound, to smash, is free from any objection and that the original conception of the
+Maruts was that of crushing, smashing, striking, tearing, destroying storms ".
+( The Vedic Hymns. Scererd Books of the East.
+Vol. XXXII.—P. XXIV ).
+
+Having also stated the views of Western scholars such as Kuhn [these views will be discussed in detail in the sūkta addressed to the Maruts], and having finally pointed out the faults in them, he has given in the sentences above his own view: that the word marut is formed from the root mṛ, meaning "to injure", and denotes a special power that cuts down trees and the like. Since the priests also press out Soma and the like, it appears that the use of the word marut may apply to priests too. Since the Nirukta authors state मितरोचिनो वा (*mitarocino vā*) — "having measured splendour" — as the reason for the name, and since gods and gold have this quality, the name may have become well known on that account.
+
+In the present Ṛk: मरुतां ऋत्विजां संघातो मारुतं तद्वतः (*marutāṃ ṛtvijāṃ saṃghāto mārutaṃ tadvataḥ*). The assembly of priests is "Māruta"; the meaning is either the sacrificer connected with them, or, मरुतां देवानां संबंधिनो वा (*marutāṃ devānāṃ saṃbaṃdhino vā*), the sacrificer connected with the gods. Since the priests obtain their place in the sacrificial act through the sacrificer's undertaking, he is connected with the priests; or, since the gods receive oblations and the like through the sacrificer's sacrificial act, he is the gods' own close kinsman. So either meaning may be given.
+
+वेधसः—मेधाविनः अस्य यजमानस्य (*vedhasaḥ—medhāvinaḥ asya yajamānasya*): this word is read among the names of the wise (Ni. 3-19), and in this Ṛk it is used as a synonym of the sacrificer. [It was also stated in the previous Ṛk, 1-156-2, that it can mean "creator".]
+
+Vrajaṃ: व्रजंत्यंतरिक्षे (*vrajaṃtyaṃtarikṣe*) — because it moves in the atmosphere, the cloud has this name (Ni. 6-2).
+
+### Printed p. 662
+Ahar-vidam: अहर्विदं—अहर्वेत्तारं (*aharvidaṃ—aharvettāraṃ*), स्वर्गोत्पादकमित्यर्थः (*svargotpādakamityarthaḥ*): that is, the producer of heaven. "Dakṣa" means that he also bore power; thus Viṣṇu's greatness is praised.
+
+Besides the meaning stated above, Sāyaṇa has explained this Ṛk in another way too. Having stated that vedhasaḥ can mean not only the performer of the sacrifice but also Viṣṇu the ordainer, he says: मारुतस्य मरुत्संघातस्य देवगणस्य वेधसो विधातुः स्रष्टुर्विष्णो क्रतुं कर्म पालनादिरूपं वरुणादयः सचंते । तदधीनत्वात्पालनस्य । सच सखिवान् इंद्रमरुदादिसहायोपेतः सन् दक्षं वृष्टुत्पादनादिसामर्थ्यरूपं बलं दाधार । (*mārutasya marutsaṃghātasya devagaṇasya vedhaso vidhātuḥ sraṣṭurviṣṇo kratuṃ karma pālanādirūpaṃ varuṇādayaḥ sacaṃte | tadadhīnatvātpālanasya | saca sakhivān iṃdramarudādisahāyopetaḥ san dakṣaṃ vṛṣṭutpādanādisāmarthyarūpaṃ balaṃ dādhāra |*). That is: Varuṇa and the others serve the world-protecting and similar act of Viṣṇu, who is the creator and is connected with the host of gods; and Viṣṇu, joined with the help of Indra, the Maruts and the other gods, obtained power, that is, ability for tasks such as the production of rain. In this way he explained the meaning of the Ṛk a second time.
+
+##### Grammar
+
+- राजा — राज्य दीप्तौ धातुः । कनिन्‌युवृषि (उ. सू. १-१५४) इति कसिस् प्रत्ययः । नित्त्वाद् आद्युदात्तस्वरः भवति ।
+- अश्विना — सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः (औ) आकारादेशः भवति ।
+- सचंत — षच समवाये धातुः । धात्वादेःषःसः इति आदेः सत्वम् । छंदसि वर्तमानार्थे लज् । प्रथमपुरुषबहुवचने झप्रत्ययस्य अंतादेशः । बहुलं छंदस्यमाज्‌योगेऽपि इति अडागमः न भवति । तिजंतनिघातस्वरः भवति ।
+- मारुतस्य — मरुतां समूहः मारुतम् । अत् प्रत्ययः । आदिवृद्धिः । तदस्य आस्ति इति अर्थविवक्षायां मतुप् आगते भांदसत्वेन तस्य लुक् ।
+- दाधार — डुधाञ् धारणपोषणयोः धातुः । लिट् प्रथमपुरुष एकवचनांतरूपम् । पादादौ स्थितत्वात् निघातस्वरः न भवति । णल् लित्त्वात् प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+- अहर्विदम् — विद ज्ञाने धातुः । क्विप् च इति क्विप् प्रत्ययः । गतिकारकोपपदात्‌कृत् इति कृदुत्तरपदप्रकृतिस्वरः भवति । द्वितीयाविकवचनांतरूपम् ।
+
+### Printed p. 663
+- सखिवान् — सखा अस्य अस्ति इति सखिवान् । छंदसीवनिपौ इति मत्त्वर्थे वनिप् प्रत्ययः । पित्त्वाद् अनुदात्तः भवति । उप इति अच् परत्वात् दीर्घादटि समानपादे (पा. सु. ८-३-९) इति नकारस्य रुत्वम् । आतोटि नित्यम् (पा. सू. ८-३-३) इति पूर्वस्य आकारस्य संहितायां नित्यम् अनुनासिकत्वम् । **NOTE**
+- अप ऊर्णुते — ऊर्णुञ् आच्छादने धातुः । अदादिः । लट् प्रथमपुरुष एकवचनांतरूपम् । च इति संबंधत्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । तिजिचोदात्तवति (पा सू. ८-१-७१) इति गतेः (अप) निघातस्वरः भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यो वि॒वाय॑ स॒चथा॑य॒ दैव्य॒ इंद्रा॑य॒ विष्णुः॑ सु॒कृते॑  ॒॑
+> सु॒कृत्त॑रः ।  
+> वे॒धा अ॑जिन्वत्रिषध॒स्थ आर्य॑मृ॒तस्य॑ भा॒गे यज॑मान॒माभ॑जत् ।  
+> ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । विवाय । सचथाय । दैव्यः । इंद्राय । विष्णुः । सुकृते । सुकृत्तरः ।  
+> वेधाः । अजिन्वत् । त्रिसधस्थः । आर्यं । ऋतस्य । भागे । यजमानं । आ । अ भ ज त् ।  
+> ii ५ ii
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो विष्णुर्दैव्यू दिवि भवः सुकृत्तरः शोभनफलप्रदानां मध्ये श्रेष्ठ आ
+> विनाय । आगच्छति ॥ वेतीर्लिटि रूपं ॥ किमर्थं । सचथाय सचनाय यागसहायकरणाय । कस्मै । इंद्राय । इरां हविर्लक्षणान्नं द्रावयतीतींद्रो यजमानः ।
+> इंद्र इरां वृणातीति इदंकरणादित्याग्रायण इति यास्केनोक्तनिर्वचनस्यात्रापि सद्भा
+> वात् । नि. १०-८॥ तस्मा उक्तरूपाय यजमानाय सकृते शोभनस्तुतिकर्त्रॆ। अगत्य च
+> वेधा अभिमतफलविधाता त्रिषधस्थस्त्रिसंख्योपेतसहस्थानवान् । सवनत्रयस्थानः क्षित्यादिस्थानत्रयो वा विष्णुः । आर्यमागंतव्यं यजमानमजिन्वत् । प्रीणयति ॥ जिवि प्री-
+
+##### Gist of the bhāṣya
+
+Viṣṇu, who is divine (born in heaven) and is the best among the givers of good fruit, "comes" (ā vivāya = आगच्छति (*āgacchati*), a perfect-tense form). For what purpose? For sacathāya, that is, for "associating", for acting as helper in the sacrifice. For whom? For Indra. The sacrificer is Indra: इरां हनिर्लक्षणान्नं द्रावयतींद्रो यजमानः (*irāṃ hanirlakṣaṇānnaṃ drāvayatīṃdro yajamānaḥ*) ("he makes the food, whose nature is oblation, run"); and इंद्र इरां दृणातीति (*iṃdra irāṃ dṛṇātīti*); इदं करणादित्याग्रायण इति यास्केनोक्तनिर्वचनस्यात्रापि सद्भावात् (*idaṃ karaṇādityāgrāyaṇa iti yāskenoktanirvacanasyātrāpi sadbhāvāt*) — the etymology stated by Yāska holds here also (Ni. 10-8). So Viṣṇu comes to that sacrificer so described, to the one who praises well (sukṛte). He is also vedhāḥ, the ordainer of the desired fruit, and tri-sadhasthaḥ, possessed of three-fold seats: either having his place at the three pressings, or having the three places beginning with the earth. He pleases the sacrificer who is to be approached (ārya): ajinvat means "gratifies"; the root is jivi, in the sense of pleasing, with the augment num because of the marker i. [continued in the next block]
+
+### Printed p. 664
+
+> नार्थः । इदित्वान्नुम् ॥ तदर्थमृतस्य यज्ञस्य भागे हुतशेषरूपे तं यजमानमाभजत् । भजति । समीपयतीत्यर्थः । यद्वा । ऋतस्य यज्ञस्य भागे फले यजमानमाभजत् । स्वामित्वेन स्थापयति ॥
+
+##### Gist of the bhāṣya
+
+For that purpose, in the share (bhāga) of the rite (ṛta, the sacrifice), which consists of the remainder of the oblation, he "brings the sacrificer near" (ā-abhajat = bhajati): the meaning is that he draws him close. Or else: in the share, that is, the fruit, of the sacrifice (ṛta) he establishes the sacrificer as its owner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दैव्यः (*daivyaḥ*)—of divine nature
+- यः विष्णुः (*yaḥ viṣṇuḥ*)—the Viṣṇu who
+- सुकृत्तरः (*sukṛttaraḥ*)—the best among those who give excellent fruits
+- सुकृते (*sukṛte*)—who performs excellent rites
+- इंद्राय (*iṃdrāya*)—to the sacrificer (who offers) the oblation
+- सचथाय (*sacathāya*)—for giving help in the sacrifice
+- आ विवाय (*ā vivāya*)—comes
+- वेधाः (*vedhāḥ*)—he who ordains (the desired fruits)
+- त्रिषधस्थः (*triṣadhasthaḥ*)—he who occupies three separate places (at the three pressings), or who has the three places beginning with the earth (Viṣṇu)
+- आर्यं (*āryaṃ*)—the sacrificer who is an Ārya
+- अजिन्वत् (*ajinvat*)—gladdens
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- भागे (*bhāge*)—in the share, or for enjoying the fruit of the sacrifice
+- यजमानं (*yajamānaṃ*)—the sacrificer
+- आ अभजत् (*ā abhajat*)—approaches (makes him worthy)
+
+##### भावार्थ (Bhāvārtha)
+
+Viṣṇu, who is the best among the givers of excellent fruits and is divine in nature, comes to help in the sacrifice the sacrificer who performs excellent rites and offers the oblation. Viṣṇu, who ordains the desired fruits and occupies three separate places at the three pressings, makes the Ārya sacrificer worthy of enjoying the fruit of the sacrifice, comes near him and gladdens him.
+
+##### Printed English
+
+The divine Vishnu, the best of the doers of good deeds, who came to the pious institutor of the rite to assist (at its celebration), knowing (the desires of the worshipper), and present at the three connected periods (of worship), shows favour to the Arya, and admits the author of the ceremony to a share of the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+विष्णुः इंद्राय सचधाय आ विवाय ; आर्यं अजिन्वत् ; यजमानं स्वामि तेन स्थापयति । (*viṣṇuḥ iṃdrāya sacadhāya ā vivāya ; āryaṃ ajinvat ; yajamānaṃ svāmi tena sthāpayati |*): Viṣṇu comes to help the sacrificer; he gladdens the sacrificer and makes him worthy of the fruit of the sacrifice. Thus the relation of benefactor and benefited between the sacrificer and Viṣṇu is shown.
+
+### Printed p. 665
+सुकृते इंद्राय (*sukṛte iṃdrāya*)—शोभनस्तुतिकर्त्रॆ यजमानाय (*śobhanastutikartrè yajamānāya*): it is explained as "to the sacrificer who offers excellent praise". Then, raising the doubt how the word Indra can have come to mean the sacrificer, he shows the etymology given in the Nirukta: इरां हनिर्लक्षणान्नं द्रावयतींद्रो यजमानः (*irāṃ hanirlakṣaṇānnaṃ drāvayatīṃdro yajamānaḥ*); इंद्र इरां दृणातीति (*iṃdra irāṃ dṛṇātīti*); इदं करणादित्याग्रायण इति यास्केनोक्तनिर्वचनस्यात्रापि सद्भावात् (*idaṃ karaṇādityāgrāyaṇa iti yāskenoktanirvacanasyātrāpi sadbhāvāt*). He thus shows that for whatever reason this name is well known for Indra, the particular deity, for that same reason the name Indra is well known for the sacrificer also. In the Nirukta various derivations of the word Indra are shown (Ni. 10-8).
+
+इंद्र इरां दृणातीति वा (*iṃdra irāṃ dṛṇātīti vā*): formed from the root dṛ, which gives the sense "to divide": इरां अन्नं व्रीह्यादि दृणाति विदारयति । वर्षक्लेदितमंकुरं बीजं भिनत्ति (*irāṃ annaṃ vrīhyādi dṛṇāti vidārayati | varṣakleditamaṃkuraṃ bījaṃ bhinatti*). "He divides the food in the form of rice and the like" means that he splits the seeds and sprouts drenched by rain and makes them become trees. Or:
+
+इरां ददाति वा (*irāṃ dadāti vā*)—formed from the root dā, "to give": वर्षद्वारेणासौ इरां ददाति (*varṣadvāreṇāsau irāṃ dadāti*)—through the production of rain he gives food. Or:
+
+इरां दधातीति वा (*irāṃ dadhātīti vā*)—formed from the root dhā, in the sense of nourishing: giving food and the like through rain, he nourishes. Or:
+
+इरां दारयत इति (*irāṃ dārayata iti*)—formed from the root meaning "to make split": he makes the earth split open, in the form of ploughing, for plants and the like. Or:
+
+इंदवे द्रवतीति (*iṃdave dravatīti*)—formed from the root dru, "to run": he who runs hurrying for the Soma juice. Or:
+
+इंदौ रमत इति (*iṃdau ramata iti*)—formed from the root ram, "to rejoice": he who is satisfied by drinking the Soma juice. Or:
+
+*iṃdhe bhūtānīti vā*—formed from the root ind, "to shine": he who makes beings shine. By these the name Indra is well known. Having stated his own view, he then states the views of other teachers:—
+
+इदंकरणादित्याग्रयणः (*idaṃkaraṇādityāgrayaṇaḥ*)—because in the creation of the universe he made all this (इदमसौ सर्वमकरोत् (*idamasau sarvamakarot*)), the word Indra applies to him: such is the opinion of the sage Āgrāyaṇa.
+
+### Printed p. 666
+इदं दर्शनादित्यौपमन्यवः (*idaṃ darśanādityaupamanyavaḥ*)—because he has the power of seeing everything, he is denoted by the word Indra: the opinion of the sage Aupamanyava.
+
+इंदतेवैश्वर्यकर्मणः (*iṃdatevaiśvaryakarmaṇaḥ*)—this name may also be because he is lord of the whole universe.
+
+इंदभ्रूणां दारयिता वा द्रावयिता वा (*iṃdabhrūṇāṃ dārayitā vā drāvayitā vā*)—this well-known name is also because, endowed with all power, he splits or drives off enemies.
+
+आदरयिता च यज्ञनां (*ādarayitā ca yajñanāṃ*)—and the name is also because he loves and honours the performers of sacrifices. Thus he has shown various origins of the word Indra. Sāyaṇa states that the same etymology applies also to the word Indra when it refers to the performer of the sacrifice. Because from sacrifices and the like rain is produced, and then the sprouting of seeds, the means of food, and the division of food come about; because by sacrificial means he increases the wealth of food and makes beings shine; and because the performer of the sacrifice is the root of the welfare of the whole world: therefore whatever the derivation is for the word Indra as a deity, that same derivation is possible for the word Indra referring to the performer of the sacrifice.
+
+Ajinvat: जिन्वतिः प्रीतिकर्मा (*jinvatiḥ prītikarmā*)—the meaning is to satisfy and cause joy (Ni. 6-22). Having stated the meaning of this word, the Nirukta author quotes the Ṛk
+समानमेतदुदकमुच्चैत्यन चाहभिः । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः (*samānametadudakamuccaityana cāhabhiḥ | bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ*)
+(Ṛ. Saṃ. 1-164-51),
+and shows the charm of the use of the word jinvanti: just as Parjanya gratifies the earth by giving food and the like and becomes a cause of joy, so Agni also, by carrying oblations and the like, produces satisfaction and delight for the world of the gods. Likewise in the present Ṛk also the meaning is that Viṣṇu is a cause of delight to the sacrificer.
+
+##### Grammar
+
+- विवाय — वी गत्यादिषु धातुः । अदादिः । लिट् प्रथमपुरुषएकवचने णलादेशे आगते द्वित्वम् । अभ्यासस्य ह्रस्वः । णित्त्वाद् अचोञ्ञंति इति वृद्धिः । आयादेशः । यद्योगत्वात् निघातस्वरः न भवति । णल् लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+- सचथाय — षच समवाये धातुः । भावार्थे ल्युट् प्रत्ययः । तस्य अनादेशः । वर्णव्यत्ययः आगतः । अथवा बहुलग्रहणात् औणादिकः अथ प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+
 ---
 
-**Progress note:** Done through printed p. 660. pp. 655-660 (batch API)
+**Progress note:** Done through printed p. 666. pp. 661-
