@@ -19,6 +19,12 @@ Windows that stopped `collect` (10 of 41, all repaired by hand, `review/repair_l
 40 windows, one batch, no retries; **$3.67** (estimate $0.96 input + $2.41–5.78 output); running total of the 81 windows **$7.98** (`parts/batch_costs.md`). `audit 11` passes at "done through printed p. 519"; `check_labels.py 11`: 0; `rkheads --dry-run`: nothing to change; Sūktas 137–151 complete and 152 begun (every sūkta's Ṛks 1…n); 369 rows in `review/notes.tsv`. Page 211 still the only page without a heading.
 Windows that stopped `collect` (7 of 40): w0281, w0356, w0405 (sūtra number whose hyphen the print lost at a space or line break: NOTE; the shared twin check now accepts this form), w0324 (stray `## Special Topics (continued)` heading, removed in the volume file), w0424 (remark "[as printed]"; now stripped by the tool), w0493 (Saṃhitā heading and label repeated for a verse running over a page break), plus the Sūkta 147 stray heading (w0418) found afterwards. Repairs in `review/repair_log.md`. Known, not repaired: the model sometimes leaves a Kannada phrase inside the Sanskrit grammar (e.g. "ರಸರವಾಗಿ ಬರುತ್ತದೆ", p. 156, p. 356) because the print has it so; the QA agents' page-boundary placement of headings (see `review/qa_sample.md`) is unchanged.
 
+## Stage 3 and end of the translation (Nov 12 2026): printed pp. 520–696
+29 windows, one batch, no retries; **$2.37** (estimate $0.71 input + $1.77–4.26 output). **Whole volume: preface + 110 windows = $10.36 for windows** (stage 1 $4.31, stage 2 $3.67, stage 3 $2.37; preface not logged; `parts/batch_costs.md`), 696 printed pages (about $0.015 a page). **Translation complete: `audit 11` passes at "done through printed p. 696"** (695 page headings; p. 211 has none, undecided by the user; colophon, "Śrīḥ / Om tat sat", closing verse and "Śubhaṃ bhūyāt / Maṅgalaṃ" at the end, nothing added). 21 sūktas (137–157), 143 Ṛk headings, every sūkta's Ṛks 1…n (counts: 3 4 11 13 13 13 8 7 5 5 5 5 5 3 9 7 4 6 6 5 6); `check_labels.py 11`: 0; `rkheads --dry-run`: nothing to change; 469 rows in `review/notes.tsv`.
+Stage 3 stops (6 of 29): w0581 (page heading inside a quotation that crosses a page), w0587 (sūtra number split by a running head: NOTE), w0648 (remark "[sic, as printed]", hand IAST), w0661 (Telugu letter in the supplied printed English; gate now ignores letters that kn.md has), w0692 (answer without `<en>` tags; extractor now accepts it), and the earlier w0593-type reference. All in `review/repair_log.md`.
+**Free end-of-volume scripts done:** `kn_headings --write` (21 sūktas, 143 Ṛks; the supplied Kannada reads "Sūkta 150" at the place of Sūkta 152: the heading follows the English order); Dravidian vowel signs in Devanagari (ॆ ॊ): 146 lines, almost all single misread letters of the supplied Sanskrit, left as supplied: `review/dravidian_signs.tsv`; doubled daṇḍa: 8 lines, `review/doubled_danda.tsv`; **second reading from the old translation**: `tools/rv/legacy_refs.py` (new shared script) → `review/legacy_compare.tsv` (550 of 696 pages differ in references; 1,024 reference numerals only in the old text, 1,828 only in the new; the old text was read from scans with 5,666 `[?]` marks, so most differences are its misreadings; for the user, nothing was changed from it); the stock page comparison is in `review/legacy_compare_pages.tsv`.
+Not done (separate job, with the user): the finishing checklist (HANDBOOK §11: accent report, QA sample of stages 2–3, front matter, PDFs; the old build scripts still use the old file names).
+
 ## Outputs
 `vol11/Rigveda_Samhita_Vol11_English_Translation.md` and `…_Kannada_Text.md` (+ docx/pdf each).
 
@@ -26,7 +32,7 @@ Windows that stopped `collect` (7 of 40): w0281, w0356, w0405 (sūtra number who
 Scan-based legacy workflow; accents by `accent_volume.py` (first volume with accents by script); Kannada text built alongside (decision Oct 2026).
 
 ## Status
-Translated; accented; Kannada text exists.
+Re-translated from the supplied text by the batch API (Nov 12 2026, pp. 1–696, complete); the scan-based files are `*_scan_*` (kept for comparison).
 
 ## Open items
 Verification pass: `docs/SESSION_REPORT_Vol11_verification.md`, `docs/VERIFY_PASS_REQUIREMENTS.md`, `publish/tools/verify11/`.
