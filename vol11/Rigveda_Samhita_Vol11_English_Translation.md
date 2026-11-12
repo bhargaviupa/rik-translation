@@ -7797,8 +7797,6 @@ And further, the meanings of the words विहित (*vihita*) and विद�
 The scholar Bloomfield, showing the faults in the meanings given by both Max Muller and Oldenberg, says that विदथ (*vidatha*) never comes to mean an assembly and that the meaning "private house" is the correct one. His opinion is as follows—
 
 ### Printed p. 324
-## Special Topics (continued)
-
 ##### विशेषविषयगळु (Special Topics)
 
 The word विदथ (*vidatha*) contains the root विद् (*vid*) in its ordinary sense of 'get, acquire'. Lustead of this, the radical idea underlying the word was generally felt to be 'come to-gether,' 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approximation of the word to other words for assemblage, especially to सभा (*sabhā*) with which विदथ (*vidatha*) was almost identified. We shall see that there are decided points of contact between the words विदथ (*vidatha*) and सभा (*sabhā*) but the contact is that of extreme opposites in a way. विदथ (*vidatha*) refers to home matters; सभा (*sabhā*) generally to public matters.
