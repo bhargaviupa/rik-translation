@@ -3529,6 +3529,226 @@ In Ṛks such as this it is said that for one who has obtained Agni's refuge, ho
 > यत्ते॑ शु॒क्रं त॒न्नो॒३॒॑ ३ रोच॑ते॒ शुचि॒ तेना॒स्मभ्यं॑ वनसे॒ रत्न॒मा  
 > त्वं ॥ ११ ॥
 
+### Printed p. 143
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । अग्ने । सुधितं । दुःधितात् । अधि । प्रियात् । ऊं इति । चित् । मन्मनः ।  
+> प्रेयः । अस्तु । ते ।  
+> यत् । ते । शुक्रं । तन्वः । रोचते । शुचि । तेन । अस्मभ्यं । वनसे । रत्नं । आ ।  
+> त्र्यं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इदमस्मदीयं सोमादिरूपं हविः । कीदृशं तत् । दुर्धिताद्दुष्टं
+> स्थापितात्मठिनात्काष्ठादेरध्युपरि सुधितं सुहितं सुष्टु दत्तं । मन्मनो मननीयात्पियादु चित् तव हृद्यादपि । उशब्दोऽवधारणे जिच्छभोऽपिशब्दार्थः । ते तव
+> प्रेयोऽतिप्रियतममस्तु । तत्किमित्याह । हे अग्ने ते तव तन्नः शरीरस्य धृतेनोज्वलिताया ज्वालायाः शुचि निर्मलं शुक्रं दीप्तं यत्तेजो रोचते तेन सह
+> रत्नं रमणीयं मणिमुक्तादिकं वितरन्नस्मभ्यं वनसे । अस्मान्संभजस्व ॥ वनतेर्व्यत्ययेनात्मनेदं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, this our oblation, in the form of soma and the like. What kind is it? It is well placed (सुधितं (*sudhitaṃ*)), well set, well given, upon the ill-placed (दुर्धितात् (*durdhitāt*)), that is, the hard fuel-stick or the like that has been laid down. It is fit to be reflected on (मन्मनः (*manmanaḥ*)), so even more than what is dear (प्रियादु चित् (*priyādu cit*)), more than what is pleasing to your heart. The word उ (*u*) is for emphasis, and चित् (*cit*) has the sense of "even". May it be most dear to you. What follows from that? O Agni, the pure, bright radiance (tejas) that shines from your body, from the flame kindled by ghee: along with it, bestowing on us delightful wealth such as gems and pearls, favour us (वनसे (*vanase*)), that is, take us to yourself. The verb *vanati* is here used in the ātmanepada by vyatyaya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दुर्धितात् अधि (*durdhitāt adhi*)—upon the hard fuel-sticks and the like
+- सुधितं (*sudhitaṃ*)—carefully offered
+- इदं (*idaṃ*)—this oblation, in the form of soma and the like
+- मन्मनः (*manmanaḥ*)—that which is worthy of praise
+- प्रियादु चित् (*priyādu cit*)—than all things that are beneficial
+- ते (*te*)—to you
+- प्रेयः (*preyaḥ*)—as most dear
+- अस्तु (*astu*)—let it be
+- ते (*te*)—your
+- तन्नः (*tannaḥ*)—of the body in the form of a flame kindled by ghee
+- शुचि (*śuci*)—pure
+- शुक्रं (*śukraṃ*)—shining
+- यत् (*yat*)—which radiance
+- रोचते (*rocate*)—shines (blazes)
+- तेन (*tena*)—with this
+- त्वं (*tvaṃ*)—you
+- रत्नं (*ratnaṃ*)—delightful wealth
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- आ वनसे (*ā vanase*)—fill up and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may this oblation in the form of soma and the like, carefully offered upon the hard fuel-sticks and the like, be dearer to you than all your other things that are worthy of praise and beneficial. Come with that pure and shining radiance of your flame-form body, kindled by ghee, and fill up for us delightful wealth.
+
+##### Printed English
+
+May this oblation, Agni, carefully placed upon the rugged but agreeable (pile of fuel), be most acceptable to you, so that the pure radiance of your person may shine brightly, and you may grant us wealth.
+
+### Printed p. 144
+
+##### विशेषविषयगळु (Special Topics)
+
+दुर्धितात् अधि सुधितं (*durdhitāt adhi sudhitaṃ*): Although the fuel-sticks and the like are hard, Agni is here prayed that the offerings such as oblations may be soft and agreeable.
+
+मन्मनः (*manmanaḥ*): The word मन्म (*manma*) has been explained as "to be reflected on, worthy of meditation". The word is also used in the senses "praiseworthy" and "venerable". In many ṛks such as 1-26-2, 1-127-2 and 1-151-8, the words मन्मना (*manmanā*) and मन्मभिः (*manmabhiḥ*) mean an excellent and praiseworthy movement of the mind. The Nirukta-author quotes three ṛks in which the word मन्म (*manma*) occurs. First,
+
+उप प्रागात्सुमन्मेऽधायि मन्म देवानामाशा उप वीतपृष्ठः । अन्वेनं विप्रा ऋषयो मदंति देवानां पुष्टे चकृमा सुबंधुं ॥ (*upa prāgātsumanme 'dhāyi manma devānāmāśā upa vītapṛṣṭhaḥ | anvenaṃ viprā ṛṣayo madaṃti devānāṃ puṣṭe cakṛmā subaṃdhuṃ ‖*)
+(Ṛ. Saṃ. 1-162-7)
+
+In this ṛk the Nirukta-author explains the word मन्म (*manma*) as "mantra" (Ni. 6-22): a mantra that is to be reflected on, that is, worthy of meditation. Sāyaṇa explains it as "the fruit that is to be thought of". Second,
+
+तनूनपात्पथ ऋतस्य यानान्मध्वा समंजन्त्सृदया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन् देवत्रा च कृणुह्यध्वरं नः ॥ (*tanūnapātpatha ṛtasya yānānmadhvā samaṃjantsṛdayā sujihva | manmāni dhībhiruta yajñamṛṃdhan devatrā ca kṛṇuhyadhvaraṃ naḥ ‖*)
+(Ṛ. Saṃ. 10-110-2)
+
+Here he has explained it as अस्मदभिप्रेतानि स्क्रोत्राणि (*asmadabhipretāni skrotrāṇi*). In the same way he quotes ṛk 1-129-9 (Ni. 10-42) and shows that there too the same meaning holds. In the present ṛk the meaning is "worthy of praise".
+
+ते तन्वः शुचि शुक्रं (*te tanvaḥ śuci śukraṃ*): The radiance, pure and shining, of the flame-form body kindled by ghee. Thus the special quality of Agni's radiance after the sacrificial offering is described.
+
+अग्निश्शुचि व्रततमश्शुचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजंत ईरते । तव ज्योतीग्‌ष्यर्चयः ॥ (*agniśśuci vratatamaśśucirvipraḥ śuciḥ kaviḥ | śucī rocata āhutaḥ | udagne śucayastava śukrā bhrājaṃta īrate | tava jyotīgṣyarcayaḥ ‖*)
+(Kṛ. Saṃ. 1-3-14)**NOTE**
+
+As this is described in the Taittirīya Saṃhitā, Agni's white radiance is described.
+
+रत्नं (*ratnaṃ*): The word रत्न (*ratna*) is listed among the names for wealth (Ni. 3-9). It means delightful wealth.
+
+### Printed p. 145
+
+##### Grammar
+
+- सुधितम्—डुधाञ् धारणपोषणयोः इति धातुः । कर्मणि क्तप्रत्ययः । दधातेर्हिः इति हि-आदेशः । व्यत्ययेन धत्वम् । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरः भवति । एवं दुर्धितात् इत्यत्रापि स्वरादयः भवंति ।
+- मन्मनः—मन ज्ञाने इति धातुः । अन्वेभ्योपि दृश्यते (पा. सू. ३-२-७५) इति मनिन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । पंचमी-एकवचनांतरूपम् ।
+- प्रेयः—अतिशयार्थे ईयसुन् प्रत्ययः । प्रियस्थिरस्फिर (पा. सू. ६-४-१५७) इति प्रियशब्दस्य प्रादेशः । गुणः । ईयसुन् प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- अस्तु—आस भुवि धातुः । अदादि लोट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- तन्वः—तनु शब्दः । षष्ठी एकवचने परे तन्वादीनां छंदस्युपसंख्यानम् इति वचनेन यणादेशः । उदात्तस्थाने यण् आगतत्वात् उदात्तस्वरितयोर्यणः (पा. सू. ८-२-४) इति परस्य स्वरितस्वरः भवति ।
+- रोचते—रुच दीप्तौ धातुः लट् । प्रथमपुरुषएकवचनांतरूपम् । यत्संबंधत्वात् यद्वृत्तान्नित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- वनसे—वन षण संभक्तौ धातुः । व्यत्ययो बहुलम् (पा. सू. ३-१-८५) इति आत्मनेपदी भवति । लेट् । मध्यमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- रत्नम्—रमयतीति रत्नम् । रमु क्रीडायां धातुः । रमेस्तच (उ. सू. ३-२९४) इति नप्रत्ययः । तत्सन्नियोगेन मकारस्य तकारादेशः । नित् इति अनुवृत्तत्वात् आद्युदात्तस्वरः भवति ।**NOTE**
+
+### Printed p. 146
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथा॑य॒ नाव॑मु॒त नो॑ गृ॒हाय॒ नित्या॑रित्रां प॒द्वतीं॑ रास्यग्ने ।  
+> अ॒स्माकं॑ वी॒रा उ॒त नो॑ म॒घोनो॒ जनां॑श्च॒ या पा॒रया॒च्छर्म॒ या च॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथाय । नावं । उत । नः । गृहाय । नित्य अरित्रां । पत्वतीं । रासि । अग्ने ।  
+> अस्माकं । वीरान् । उत । नः । मघोनः । जनान् । च । या । पारयात् । शर्म ।  
+> या । च ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने उतापि च रथाय रंहणाय गृहाय सर्वस्यायतनभूताय नोऽस्माकं यजमानाय नावं संसारोत्तारिकां सोमयागात्मिकां नावं । यज्ञो
+> वै सुतर्मा नौरित्यादिषु श्रुतिषु नौरूपत्वेन स्तुतत्वात् । कीदृशीं तां । नित्यारित्रां
+> नियतर्त्वग्रूपोदाकर्षणकाष्ठसाधनोपेतां पद्वतीं ॥ ह्रस्वनुड्भामिति मतुप
+> उदात्तत्वं ॥ द्रव्य देवतामंत्रादिरूपपादोपेतां । ईदृशीं यज्ञात्मिकां नावं
+> रासि । देहि । संपादय । रातिर्दानकर्मा दासति रातीति तन्नामसु पाठात् । सैव
+> विशेष्यते । उतापि च या नौरस्माकं वीरानस्मत्संबंधिनः पुत्रादीन्मघोनो हविर्लक्षणान्नवतः करोति । जनांश्च यजमानानस्थानपि या नौः पारयात् पारयेत्
+> उत्तरयेत् ॥ पारयतेर्लेट्याडागमः । जननमरणादिबहुदुःखात्मकस्य पारं निरतिशयसुखास्पदं ब्रह्मलोकं प्रापयेत् । एष वः पुण्यः सुकृतो ब्रह्मलोक इति
+> यागाद्यनुष्ठानवतां श्रूयमाणत्वात् । एवं प्रापय्य च या नौः शर्म सुखं
+> निरतिशयं ब्रह्म प्रापयेत् परस्यांते कृतात्मानः प्रविशंति परं पदमित्युक्तत्वात् ।
+> चित्तशुद्धुत्पादनद्वारा विविदिषंति यज्ञेन दानेनेति श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, and for our sacrificer, who is "ratha" (that is, रंहणाय (*raṃhaṇāya*), one who speeds) and "gṛha" (the abode of all), give the boat (नावं (*nāvaṃ*)) that carries across saṃsāra, a boat in the form of the Soma sacrifice. The sacrifice is praised as a boat in śrutis such as यज्ञो वै सुतर्मा नौरित्यादिषु श्रुतिषु (*yajño vai sutarmā naurityādiṣu śrutiṣu*). What kind is it? नित्यारित्रां (*nityāritrāṃ*): furnished with the means of fixed oars (poles for pulling), in the form of the ṛtvijs. पद्वतीं (*padvatīṃ*): furnished with feet in the form of the materials, deities, mantras and so on (the affix मतुप (*matupa*) here has its accent through ह्रस्वनुड्भामिति (*hrasvanuḍbhāmiti*)). Give (रासि (*rāsi*)), supply, such a boat in the form of the sacrifice; राति (*rāti*) is a verb of giving, since दासति रातीति (*dāsati rātīti*) stands in its list of names.
+
+The same boat is further qualified: it makes our heroes, our sons and others, wealthy (मघोनः (*maghonaḥ*)), that is, possessed of oblations; and it would carry across (पारयात् (*pārayāt*)) the sacrificers who are our people, bring them over, take them to the far shore of the many sufferings of birth, death and the like, to Brahmaloka, the seat of unsurpassed happiness; for it is heard of those who perform sacrifices and the like, एष वः पुण्यः सुकृतो ब्रह्मलोक इति (*eṣa vaḥ puṇyaḥ sukṛto brahmaloka iti*). Having carried them across thus, the boat would bring them शर्म (*śarma*), happiness, unsurpassed Brahma, as it is said *parasyāṃte kṛtātmānaḥ praviśaṃti paraṃ padam*, and by way of producing purity of mind, according to the śruti विविदिषंति यज्ञेन दानेन (*vividiṣaṃti yajñena dānena*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नित्यारित्रां (*nityāritrāṃ*)—having permanent oars in the form of the ṛtvijs
+- पद्वतीं (*padvatīṃ*)—furnished with feet in the form of materials, deities, mantras and so on
+- उत (*uta*)—and
+- या (*yā*)—which
+- अस्माकं (*asmākaṃ*)—our
+- वीरान् (*vīrān*)—heroic sons
+- मघोनः (*maghonaḥ*)—(which makes) wealthy
+
+### Printed p. 147
+- उत (*uta*)—and
+- नः (*naḥ*)—our
+- जनांश्च (*janāṃśca*)—and the sacrificers
+- पारयात् (*pārayāt*)—(which) carries across (saṃsāra)
+- च (*ca*)—and
+- या (*yā*)—which
+- शर्म (*śarma*)—(which has) happiness (of the excellent Brahmaloka) (brought about) such a one
+- नावं (*nāvaṃ*)—the boat (in the form of the Soma sacrifice)
+- रथाय (*rathāya*)—to him who is dear
+- गृहाय (*gṛhāya*)—who is a place of refuge like a house
+- नः (*naḥ*)—to our sacrificer
+- रासि (*rāsi*)—supply**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, supply to our sacrificer, who is dear to us and a place of refuge like a house, the boat in the form of the Soma sacrifice. It has permanent oars in the form of the ṛtvijs, and feet in the form of materials, deities, mantras and so on. It makes our heroic sons wealthy, carries (the sacrificers who perform the sacrifice, or our sacrificers) across saṃsāra, and brings them the happiness of the eternal Brahmaloka.
+
+##### Printed English
+
+Bestow, Agni, upon our excellent patron a boat ever fitted with oars and feet, ( one that may render ) our posterity prosperous, and may bear mankind across (the ocean of life) to felicity.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk the (Soma) sacrifice is compared to a boat, saṃsāra to the ocean, and the ṛtvijs to the oars. Poverty, fear of enemies and other kinds of sorrow are the terrible circumstances of the ocean of saṃsāra. Although the boat is the chief means of crossing this ocean, the boat cannot carry the sacrificer safely across without the boat itself and its oars. Therefore the prayer is that the boat in the form of the Soma sacrifice, propelled by the oars in the form of excellent ṛtvijs, may carry us safely across saṃsāra.
+
+In the Ṛk-saṃhitā generally, it is a most fitting simile to compare sorrow such as poverty, the sin that is its cause, and the enemy to a deep flood of water, and the help of the gods to a boat. For example,
+
+जातवेदसे सुननाम सोममरातीयतो नि दहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं मरितात्यग्निः ॥ (*jātavedase sunanāma somamarātīyato ni dahāti vedaḥ | sa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ maritātyagniḥ ‖*)
+(Ṛ. Saṃ. 1-99-1)
+
+### Printed p. 148
+नू न इंद्रावरुणा गृणाना पृंक्तं रयिं सौश्रवसाय देवा । इत्था गृणंतो महिनस्य शर्धोऽपो न नावा दुरिता तरेम ॥ (*nū na iṃdrāvaruṇā gṛṇānā pṛṃktaṃ rayiṃ sauśravasāya devā | itthā gṛṇaṃto mahinasya śardho 'po na nāvā duritā tarema ‖*)
+(Ṛ. Saṃ. 6-8-8)
+
+In ṛks such as these, just as a river (sindhu) is crossed easily by a boat, there is a prayer that sin may be crossed with the help of deities such as Agni. In the same way Agni is here prayed to supply the boat in the form of the sacrifice.
+
+Here it is said that the service of the boat in the form of the Soma sacrifice is threefold: first, making the sacrificers and their sons wealthy; second, carrying the sacrificers across saṃsāra; third, giving the happiness of the excellent Brahmaloka. Sāyaṇa has given his explanation for the sentence अस्माकं वीरान् मघोनः (*asmākaṃ vīrān maghonaḥ*); उत नः जनांश्च पारयात् (*uta naḥ janāṃśca pārayāt*); च या शर्म नावं (*ca yā śarma nāvaṃ*) accordingly. Not only in the Ṛk-saṃhitā but in the Śatapatha and other Brāhmaṇas too the same simile is well known. For example,
+
+नौर्ह ना एषा स्वर्ग्या । यद्बहिष्पवमानं तस्या ऋत्विज एव स्फाश्चारित्राश्च स्वर्गस्य लोकस्य संपारणास्तस्या एक एव मज्जयिता य एव निंद्यः स यथा पूर्णामभ्यारुह्य मज्जयेदेवं हैनां समज्जयति तद्वै सर्व एव यज्ञो नौः स्वर्ग्या तस्मादु सर्वस्मादेव यज्ञान्निंद्यं परिबिबाधिषेत । (*naurha nā eṣā svargyā | yadbahiṣpavamānaṃ tasyā ṛtvija eva sphāścāritrāśca svargasya lokasya saṃpāraṇāstasyā eka eva majjayitā ya eva niṃdyaḥ sa yathā pūrṇāmabhyāruhya majjayedevaṃ haināṃ samajjayati tadvai sarva eva yajño nauḥ svargyā tasmādu sarvasmādeva yajñānniṃdyaṃ paribibādhiṣeta |*)
+(Śa. Brā. 4-2-5-10)
+
+The Soma sacrifice, and the Bahiṣpavamāna hymn to be recited on the opening day of the Soma sacrifice, are boats that take one to heaven. The ṛtvijs themselves are their oars. If even one among these ṛtvijs has a blameworthy conduct, he makes these boats sink. Therefore such a one must be kept away from the sacrificial act, as the Śatapatha Brāhmaṇa says; and likewise,
+
+यज्यो वै सुशर्मा नः (*yajyo vai suśarmā naḥ*)
+(Ai. Brā. 1-13)
+) नाममिवारुहेमेति समेवैनमेतदधिरोहति स्वर्गस्य लोकस्य समष्टैः संपत्तैः संगत्यैः ॥ (*) nāmamivāruhemeti samevainametadadhirohati svargasya lokasya samaṣṭaiḥ saṃpattaiḥ saṃgatyaiḥ ‖*)
+(Ai. Brā. 4-20)
+
+In the Aitareya Brāhmaṇa too this kind of simile is well known.**NOTE**
+
+And since the fruit of this sacrifice is the highest, even the gods desire it and are devoted to the sacrifice. Therefore men too, following them, should be devoted to the sacrificial work. Instructing thus,
+
+### Printed p. 149
+त आसत । श्रियं गच्छेम । यशः स्यामान्नादाः स्यामेति तथो एवेमे सत्त्रमासते श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति । ते होचुः यो नः श्रमेण तपसा श्रद्धया यज्ञेनाहुतिभिर्यज्ञस्योदृचं पूर्वोवगच्छात्स नः श्रेष्ठोऽसत्तदु नः सर्वेषां सहेति तथेति । तद्विष्णुः प्रथमः प्राप । स देवानां श्रेष्ठोऽभवत्तस्मादाहुर्निष्णुर्देवानां श्रेष्ठ इति । (*ta āsata | śriyaṃ gacchema | yaśaḥ syāmānnādāḥ syāmeti tatho eveme sattramāsate śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti | te hocuḥ yo naḥ śrameṇa tapasā śraddhayā yajñenāhutibhiryajñasyodṛcaṃ pūrvovagacchātsa naḥ śreṣṭho 'sattadu naḥ sarveṣāṃ saheti tatheti | tadviṣṇuḥ prathamaḥ prāpa | sa devānāṃ śreṣṭho 'bhavattasmādāhurniṣṇurdevānāṃ śreṣṭha iti |*)
+(Śa. Brā. 14-1-1-2-3)
+
+Since performing the sacrifice brings dignity, greatness and wealth of food, the gods desired these and became devoted to the sacrifice. Among them Viṣṇu obtained the first place, so Viṣṇu became the best of all the gods: thus the fruit of the sacrifice is praised. Similarly,
+
+तस्मादाहुः पुण्यलोक ईजान इति (*tasmādāhuḥ puṇyaloka ījāna iti*)
+(Ta. Cā. 3-6-2-15)**NOTE**
+
+What is said here, that the sacrifice is a means to a meritorious world, is indicated in the present ṛk by the word शर्म (*śarma*). Explaining the word शर्म (*śarma*) as सुखं निरतिशयं ब्रह्म प्रापयेत् (*sukhaṃ niratiśayaṃ brahma prāpayet*), the happiness of the unsurpassed Brahmaloka, Sāyaṇa quotes the sentence of the Bṛhadāraṇyaka Upaniṣad विविदिषंति यज्ञेन दानेन (*vividiṣaṃti yajñena dānena*) (Bṛ. U. 4-4-22) and states the meaning of the word शर्म (*śarma*). Agni is prayed to supply to the sacrificer such a boat, giver of an excellent fruit and in the form of the Soma sacrifice.
+
+रथाय (*rathāya*): रंहणाय यजमानाय (*raṃhaṇāya yajamānāya*); thus it is shown that this word is an adjective of the sacrificer. For the word रथ (*ratha*) the Nirukta-author says
+
+रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य। रममाणोऽस्मिंस्तिष्ठतीति ना, रपतेर्वा, रसतेर्वा । (*ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya| ramamāṇo 'smiṃstiṣṭhatīti nā, rapatervā, rasatervā |*)
+(Ni. 9-11)
+
+that is, it is formed either from the root रंह् (*raṃh*), meaning motion or speed; or, by a transposition of letters, from स्थिर (*sthira*) (firm); or from the root रम् (*ram*), meaning "sit in it and rejoice"; or from the root रप् (*rap*) or रस् (*ras*), meaning "make a sound". Quoting the ṛk वनस्पते वीड्वंगो (*vanaspate vīḍvaṃgo*) (Ṛ. Saṃ. 6-47-26) the Nirukta-author shows the derivation of the word रथ (*ratha*). But in the present ṛk, for it to be an adjective of the sacrificer, one of these meanings must be shown. The sacrificer is eager and active in performing the sacrifice; he is firm of mind, being consecrated (dīkṣita); he produces the sound of praise. Since for this very reason he has the epithet रास्सिनस्य (*rāssinasya*) (1-122-4), the adjective रथाय (*rathāya*) may apply to the sacrificer in any of the meanings stated above by the Nirukta-author.
+
+### Printed p. 150
+Both adjectives, रथाय (*rathāya*) and गृहाय (*gṛhāya*), indicate the greatness of the sacrificer who performs the sacrifice, and his divine position, which brings well-being to the whole world. Because the sacrifice itself is the cause of the origin and continuance of the world, and the sacrificer is the cause of such a sacrifice, the identity of the two is stated in many places. For this very reason identity is also stated between the sacrificer and Prajāpati. The supernatural power of the sacrificer is explained in the Taittirīya Saṃhitā as follows, and the point that he becomes the obtainer of a dwelling in heaven, the support of excess of happiness, is stated thus:
+
+नाकसद्धिर्वै देवास्सुवर्गं लोकमायस्तन्नाकसदां नाकसत्त्वं यन्नाकसद उपदधाति नाकसद्धिरेव तद्यजमानस्सुवर्गं लोकमेति सुवर्गो वै लोको नाको यस्यैता उपधीयंते नास्मा अकं भवति यजमानायुतनं वै नाकसदो यन्नाकसद उपदधात्यायतनमेव तद्यजमानः कुरुते पृष्ठानां वा एतत्तेजः संभृतं यन्नाकसदो यन्नाकसदः । (*nākasaddhirvai devāssuvargaṃ lokamāyastannākasadāṃ nākasattvaṃ yannākasada upadadhāti nākasaddhireva tadyajamānassuvargaṃ lokameti suvargo vai loko nāko yasyaitā upadhīyaṃte nāsmā akaṃ bhavati yajamānāyutanaṃ vai nākasado yannākasada upadadhātyāyatanameva tadyajamānaḥ kurute pṛṣṭhānāṃ vā etattejaḥ saṃbhṛtaṃ yannākasado yannākasadaḥ |*)
+(Tai. Saṃ. 5-3-7-4)
+
+In sentences like these the nature of the sacrificer's house and its special quality are described, and so is the excellent dwelling-place of which the sacrificer, skilled in building the altar and in the piling of the fire (agnicayana), becomes the cause. Gathering that very point together, the present ṛk conveys it by the adjective गृहाय (*gṛhāya*). Here the word गृह (*gṛha*) may mean either an earthly house endowed with every kind of wealth, or a dwelling in heaven endowed with excess of well-being.
+
+##### Grammar
+
+- नावम्—णुद प्रेरणे धातुः । ग्लानुदिभ्यां डौः (उ. सू. २-२२२) इति डौ प्रत्ययः । डित्वसामर्थ्यात् धातोः टेः लोपः । औकारांतरब्धः भवति । प्रत्ययस्वरः भवति । द्वितीया अम् परे आवादेशः ।**NOTE**
+- गृहाय—ग्रह उपादाने धातुः । लोट् मध्यमपुरुष एकवचने हि आवेदः । छंदसि शायजपि (पा. सू. ३-१-८४) इति श्नाविकरणस्य शायचादेशः । अतो हेः इति हेः लुक् । व्यत्ययेन भत्वं न भवति ।**NOTE**
+- नित्यारित्राम्—नित्यं नियतं अरित्रं यस्याः सा । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 142. pp. 135-142 (batch API)
+**Progress note:** Done through printed p. 150. pp. 143-150 (batch API)
