@@ -10929,6 +10929,185 @@ and showed how अद्रिवः (*adrivaḥ*) can mean "Indra, possessor of
 
 Since the word ध्रजति (*dhrajati*) is read among the names of motion, उप ध्रजंतं (*upa dhrajaṃtaṃ*) means उप गच्छंतं (*upa gacchaṃtaṃ*), Agni who approaches (Ni. 3-9).
 
+### Printed p. 448
+
+##### Grammar
+
+- महः — महतः इत्यत्र अतिगॆ छांदसो लोपः । अथवा मह धातोः क्विप् । षष्ठ्यां महः इति रूपं भवति । **NOTE**
+- रायः — षष्ठ्येकवचनांतरूपं । ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- ईषते — ईष गत्. धातुः । तुदादिः । लट् प्रथमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- दन्. — डुदाञ् दाने. धातुः । लडर्थे शतृप्रत्ययः । बहुलं छंदसि इति शपो लुक् । छंदस्युभयथा (पा. सू. ३-४-११७) इति शतृप्रत्ययस्यार्धधातुकसंज्ञात्वाद् आतोलोप इटिच (पा. सू. ६-४-६४) इति धात्वाकारस्य लोपः । प्रथमैकवचने परे उगिदचां स— इति सुमागमः । संयोगांतलोपस्यासिद्धत्वान्नलोपो न भवति । प्रत्ययस्वरेणोदात्तो भवति ।
+- इनः — इण् गतौ धातुः । इण् सिंजिदीज्— (उ. सू २.२८३) इति नक् प्रत्ययः । कित्त्वाद् गुणो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- आ — कारकस्य नित्यं क्रियाकांक्षित्वाद् उपसर्गस्य क्रियापदेनैव सह स्थितत्वाच्च अत्र आश्रयति इति क्रियाध्याहारः कर्तव्यः ।
+- ध्रजंतम् — धृज गतौ धातुः । लडर्थे शतृ प्रत्ययः । शप् विकरणः । तास्यनुदात्तेत् सूत्रेण लसार्वधातुकस्यानुदात्तत्वाद् धातुस्वरः शिष्यते । द्वितीयैकवचने उगित्त्वात् सुमागमः ।
+- अद्रयः — अद भक्षणे धातुः । अदिशिदिभूशुभिभ्यः क्रिन् (उ. सू ४-५०-५) इति क्रिन् प्रत्ययः । इत्यादिर्नित्यम् इत्याद्युदात्तस्वरो भवति ।
+- विधन् — विध विधाने. धातुः । तुदादिः । छंदसि लुज्— (पा. सू. ३-४-६) इति वर्तमानार्थे लज् । प्रथमपुरुषबहुवचने अंतादेशः । इकारलोपः । बहुलं छंदसि इति विकरणस्य लुक् । बहुलं छंदस्य— (पा. सू. ६-४-७५) इत्यडागमो न भवति । अतिजंतस्य परत्वेऽपि छांदसत्वान्निघातस्वरो न भवति अथवा पूर्वं तत् शब्दस्य श्रुतत्वाद् यत् तत् शब्दयोर्नित्यसंबंधत्वाद् यच्छब्दस्याध्याहृतत्वाद् योद्योगत्वान्निघातस्वरो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति ।
+
+### Printed p. 449
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स यो वृषा॑ न॒रां न रोद॑स्योः॒ श्रवो॑भि॒रस्ति॑ जी॒वपी॑त सर्गः।  
+> प्र यः स॑स्रा॒णः शि॑श्री॒त योन्सौ॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । यः । वृषा । नरां । न । रोदस्योः । श्रवभिः । अस्ति । जीवपीतसर्गः ।  
+> प्र । यः । सस्राणः । शिश्रीत । योन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स तादृशो योग्निर्नरां न मनुष्याणामिव रोदस्योर्द्यावापृथिव्योरपि
+> वृषा सेक्ता । उत्पादक इत्यर्थः । एवं सर्वोत्पादकः श्रवोभिः सर्वत्र श्रूयमाणैर्यशोभिर्युक्तः सन्नस्ति वर्तते । सर्वोत्पादक इत्युक्तं तत्रोपपत्तिमाह ।
+> यतोऽयं जीवपीतसर्गः । जीवैनानाविध्यॆः पीत आस्वादितः सर्गः सृष्टिक्रमो यस्य
+> स तथोक्तः ॥ तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । पुनर्बडुहौ स एव
+> स्वरः ॥ अत्रायं सृष्टिक्रमः । आयमग्निः स्वदत्तं हविरादित्यं प्रापय्य तद्रश्मिभिः सह
+> वैद्युतरूपेण मेघद्वारोदकेन प्रवर्ष्य सर्वान्साणिनः प्रापयतीत्यतो वृष्टुत्पादनद्वारोत्पादयिता । इदानीं साक्षादुत्पादकत्वमाह । योग्निर्योन् : गर्भाशये सस्राणः प्रविष्टः सन् शिश्रीत निषिक्तं रेतः पारयति। नृपश्वादिदेहाकारेण परिणमयतीत्यर्थः । यद्यग्निर्न पचेत् पूरयेदेव नोत्पद्यते । तस्मादयं साक्षादेवोत्पादकः । स तादृशोग्निर्यशस्वी वर्तत इत्यर्थः । यद्वा । योग्निर्नरां न
+> नराणां कर्मसूत्साहयुक्तानां यजमानानामिव । नरा मनुष्या नृत्यंति कर्मस्विति
+> यास्कः । नि. ५-१ । तेषां यथा स्वर्गाद्यभिमतवर्षकः तद्वद्रोदस्योरपि । आश्रयवाचिना शब्देनाश्रयिणो लक्ष्यंते । भूलोकवर्तिनां वृष्टिप्रदानेन द्युलोकवर्तिनां हविष्मापणेनेति भावः । स तादृशोग्निः श्रवोभिर्हनिर्लक्षणैः सोमाज्यादिभिरन्नॆर्निमित्तभूतैर्जीवपीतसर्गो जीवविशेषैर्यजमानैरविशेषेण सर्वैर्वास्वादितस्वभावः सन्नस्ति । प्रकृष्टो वर्तते । अमुमग्निं हविर्भिः प्रीणयित्वा स्वाभिमतान्नोगान्भुंजत इत्यर्थः । किंच योग्निर्योन् स्वकीयस्थाने वेदिलक्षणे सस्राणः
+> प्रविष्टः सन् शिश्रीत स्वस्मिन्प्राप्तं पुरोडाशादिकं पचति सोऽयमग्निरस्ति । महानुभावो वर्तते !
+
+##### Gist of the bhāṣya
+
+Such an Agni is वृषा (*vṛṣā*), the sprinkler, that is, the generator, of the two worlds (heaven and earth) as well as of men. Being thus the generator of all, he abides endowed with श्रवोभिः (*śravobhiḥ*), glories heard everywhere. As to why he is said to be the generator of all, Sāyaṇa gives the reason: he is जीवपीतसर्गः (*jīvapītasargaḥ*), one whose order of creation is tasted by living beings of many kinds. (Accent remarks omitted.) The order of creation is this: Agni conveys the oblation given to him to Āditya, and together with the sun's rays, in the form of lightning, rains through the cloud as water and so reaches all living beings; hence he is the generator by way of producing rain. Now he states direct generation: Agni, entering the womb (योन् (*yon*)) as सस्राणः (*sasrāṇaḥ*), शिश्रीत (*śiśrīta*), ripens the semen that has been poured in, that is, transforms it into the body of man, animal and so on. If Agni did not ripen it, it would only fill up and nothing would be born. Therefore he is the direct generator, and such an Agni is glorious.
+
+Or else: नरां न (*narāṃ na*) means like men, the sacrificers who are zealous in rites; "नरा (*narā*) are men, they dance in rites" (Yāska, Ni. 5-1). As he is for them the one who showers what they desire, such as heaven, so he is also for the two worlds; by the word denoting the container the contained are meant: he rains on those who dwell on earth and conveys oblations to those who dwell in heaven. Such an Agni, by means of the श्रवोभिः (*śravobhiḥ*), the food-offerings (soma, ghee and so on) that are his cause, is जीवपीतसर्गः (*jīvapītasargaḥ*), his nature being tasted by particular living beings, the sacrificers, or by all without distinction; he abides pre-eminent. Having pleased him with oblations they enjoy the enjoyments they wish. Moreover, Agni entering योन् (*yon*), his own place, the altar, शिश्रीत (*śiśrīta*) cooks the puroḍāśa and the like that are offered into him; this Agni is of great power.
+**NOTE**
+
+### Printed p. 450
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- नरां न (*narāṃ na*)—as the generator of men
+- रोदस्योः (*rodasyoḥ*)—also of heaven and earth
+- वृषा (*vṛṣā*)—is the generator
+- जीवपीतसर्गः (*jīvapītasargaḥ*)—he by whom all creation is filled with the sap of life
+- सः (*saḥ*)—that Agni
+- श्रवोभिः (*śravobhiḥ*)—together with his renowned glory that falls on everyone's ear
+- अस्ति (*asti*)—shines
+- यः (*yaḥ*)—that same Agni
+- योन् (*yon*)—in the womb (of all)
+- प्र सस्राणः (*pra sasrāṇaḥ*)—entering
+- शिश्रीत (*śiśrīta*)—pours in the semen and creates all hosts of living beings
+- Alternatively: यः (*yaḥ*)—the Agni who
+- नरा न (*narā na*)—just as he grants desired ends to the sacrificers engaged in sacrificial rites
+- रोदस्योः (*rodasyoḥ*)—to all who are in both heaven and earth
+- वृषा (*vṛṣā*)—he who distributes the oblation to the gods and showers rain and the like on men
+- सः (*saḥ*)—such an Agni
+- जीवपीतसर्गः (*jīvapītasargaḥ*)—(as he does for the sacrificers) making all other beings also partake of the taste of his generosity
+- श्रवोभिः (*śravobhiḥ*)—together with his renowned glories
+- अस्ति (*asti*)—shines
+- यः (*yaḥ*)—that same Agni
+- योन् (*yon*)—in his own place, the altar
+- प्र सस्राणः (*pra sasrāṇaḥ*)—entering
+- शिश्रीत (*śiśrīta*)—makes (the puroḍāśa and the like offered into him) ripe
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is the generator of heaven and earth as he is of men, and who fills all creation with the sap of life, shines together with his renowned glories. And, entering the womb of all, he creates all hosts of living beings.
+
+##### Printed English
+
+He, who is, as it were, the generator of men as well as of heaven and earth, of whom creation has imbibed life, abides with his glories : he it is who, entering into the womb (of being), procreates (all living creatures).
+
+##### विशेषविषयगळु (Special Topics)
+
+Two kinds of meaning have been given for this Ṛk. First: taking वृषा (*vṛṣā*) as generator and योन् (*yon*) as womb, one sense is that Agni, who is the generator of heaven and earth as he is of men, by whom all creation is filled with the sap of life, entering the womb of all pours in the semen and creates the hosts of living beings. Second: taking वृषा (*vṛṣā*) as sprinkler, that is, one who showers desired ends, and योन् (*yon*) as "in his own place, the altar",
+
+### Printed p. 451
+
+one sense is also possible, Sāyaṇa has shown: he who distributes oblations and showers rain and the like on all gods, men and others who are in both heaven and earth, that Agni, entering his own place, the altar, makes ripe the puroḍāśa and the like offered into him.
+
+Both the above meanings are possible for the word वृषा (*vṛṣā*), and the use of this word in both meanings occurs in many places in the Ṛk-Saṃhitā; this has been stated with examples in this same volume in the Special Topics of Ṛ. Saṃ. 1-140-6.
+
+योन् (*yon*)—The word योनि (*yoni*) has, besides the well-known meaning "place of origin", the meanings dwelling-place, house and so on. In the Nirukta it is read among the 101 names of water, अर्णः (*arṇaḥ*), क्लोदः (*klodaḥ*) and so on (Ni. 2-24).
+
+In the Ṛk
+ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम । (*ṛtasya devā anu vratā gurbhuvatpariṣṭirdyaurna bhūma |*)
+वर्धंतीमापः पन्वा सुशिश्मितस्य योना गर्भे सुजातं । (*vardhaṃtīmāpaḥ panvā suśiśmitasya yonā garbhe sujātaṃ |*)
+(Ṛ. Saṃ. 1-65-2)
+the meaning is यज्ञस्य अन्नस्य वा कारणभूते जले (*yajñasya annasya vā kāraṇabhūte jale*), that is, in the water that is the cause of sacrifice and of food;
+in
+देवं वो देवयज्ययाग्निमीळीत मर्त्यः । (*devaṃ vo devayajyayāgnimīḷīta martyaḥ |*)
+समिद्धः शुक्र दीदिहृतस्य योनिमासदः ससस्य योनिमासदः ॥ (*samiddhaḥ śukra dīdihṛtasya yonimāsadaḥ sasasya yonimāsadaḥ ‖*)
+(Ṛ. Saṃ. 5-21-4)
+it is योनिं कारणं स्वर्गसाधनं (*yoniṃ kāraṇaṃ svargasādhanaṃ*), the means that helps to carry one to heaven;
+in
+दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । (*durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai |*)
+चित्रो यदभ्राट्वेतो न विक्षु रथो न रुक्ष्मि तेषः समत्तु ॥ (*citro yadabhrāṭveto na vikṣu ratho na rukṣmi teṣaḥ samattu ‖*)
+(Ṛ. Saṃ. 1-66-3)
+it is house;
+in
+यमीं द्वा सवयसा सपरतः समाने योना मिथुना समोकसा । (*yamīṃ dvā savayasā saparataḥ samāne yonā mithunā samokasā |*)
+दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा । (*divā na naktaṃ palito yuvājani purū carannajaro mānuṣā yugā |*)
+(Ṛ. Saṃ. 1-144-4)
+
+### Printed p. 452
+
+and in
+वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । (*vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye |*)
+वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनं । (*vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanaṃ |*)
+(Ṛ. Saṃ. 1-140-1)
+and other Ṛks, वेद्याख्यं स्थानं (*vedyākhyaṃ sthānaṃ*), that is, a place in the form of the altar. Thus there are various meanings. Therefore in the present Ṛk it may be taken either as place of origin or as the sacrificial altar.
+
+##### Grammar
+
+- वृषा — वृषु सेचने धातुः । कनिन्‌युवृषि— (उ. सू. १-१५४) इति कनिन् प्रत्ययः । नित्त्वादाद्युदात्तस्वरो भवति ।
+- श्रवोभिः — श्रु श्रवणे. धातुः । असुन् प्रत्ययः । श्रवस् शब्दो भवति । नित्त्वादाद्युदात्तस्वरो भवति । तृतीयाबहुवचनांतरूपं ।
+- अस्ति — अस भुवि धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । यद्योगत्वान्निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- जीवपीतसर्गः — जीवैः पीतः जीवपीतः । जीवपीतः सर्गः यस्य सः जीवपीतसर्गः, पा पाने. धातुः । कर्मणि निष्ठा इति क्तप्रत्ययः । घुमास्थागापा— (पा. सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति । बहुव्रीहिसमासे बहुव्रीहौ प्रकृत्या पूर्वपदम् ( पा. सू. ६-२-२ ) इति पूर्वपदप्रकृतिस्वरेण स एव स्वरः शिष्यते ।
+- सस्राणः — सृ गत् धातुः । अस्मात् लिटः कानज्वा ( पा. सू. ३-२-१०६ ) इति लिट् आगत्य तस्य कानचादेशः । धातोर्द्वित्वं । अभ्यासस्य उरदत्वं । आदिहल्‌शेषः । प्रत्ययस्य कित्त्वाद् गुणादयो न भवंति । यणादेशः । अट् कुप्वाज्— इति प्रत्ययनकारस्य णत्वं । चितः (पा. सू. ६-१-१६३) इत्यंतोदात्तस्वरो भवति ।
+- शिश्रीत — श्रा पाके. धातुः । लिज् प्रथमपुरुषैकवचने छांदसत्वाच्छ्लुविकरणः । श्नाभ्यस्तयोरातः इति धात्वाकारस्य लोपः । बहुलं छंदसि इत्यभ्यासस्येत्वं । यच्छब्दसंबंधत्वान्निघातस्वरो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+
+### Printed p. 453
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यः पुरं॒ नार्मि॑णी॒मदी॑दे॒दत्यः॑ क॒विर्न॑भ॒न्यो॒३॒॑३नार्वा॑ ।  
+> सूरो॒ न रु॑रु॒क्वाञ्चि॒तात्मा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । पुरुं । नार्मिणीं । अदीदेत् । अत्यः । कविः । नभन्यः । न । अर्वा ।  
+> सूरः । न । रुरुक्वान् । शत्रुआत्मा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्नामिणीं नर्मवतीं यजमानानां संबंधिनीमुत्तरवेदिं ।
+> यद्वा । नृणां मनसि स्थितां यजमानानां यज्ञार्थं यां भूमिं प्रत्यग्न्यागमनमनीषा विद्यते तां । पुरुं तत्स्थानवादीदेत् दीपयति । कीवृशोऽयं । अत्यो-
+> Sपेक्षितदेशं प्रत्यतनशीलः कविः क्रांतदर्शि । तत्र दृष्टांतः । अर्वारणकुशलो
+> नभन्यो न नभस्याकाशे भवो नभस्वान्वायुरिव । किंच शतात्मा शतं। सहस्रमित्यपरिमितवचनः। तत्तद्यजमानगृहापेक्षया आहवनीयगार्हपत्याद्यपेक्षया वा नानारूपत्वं ।
+> अथवा मित्रवरुणभेदेनाग्निर्मित्रादिरूपं त्वमग्ने वरुणो जायसे यत् ।
+> ऋ. ५-३-१ । इंद्रं मित्रं वरुणमग्निमाहुः । ऋ. १-१६४-४६ । इत्यादिश्रुतिषु
+> प्रसिद्धं । अग्नेरेवेंद्राद्यात्मकत्वमाहुरिति द्वितीयमंत्रस्यार्थः । तादृशोयं
+> सूरो न सूर्य इव ररुक्वान् दीप्यमानः ॥ रुच दीप्ता । छांदसस्य लिटः क्वसुः ॥
+> अतः स तादृशोऽग्निरस्ति उत्कृष्टं वर्तत इति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Agni who kindles the नार्मिणीं (*nārmiṇīṃ*), "full of joy" (नर्मवतीं (*narmavatīṃ*)), the uttaravedi belonging to the sacrificers. Or else: the place, existing in the minds of the men (the sacrificers), towards which, for the sake of the sacrifice, there is the wish that Agni should come; he illumines (अदीदेत् (*adīdet*)) it. **NOTE**
+What kind is he? अत्यः (*atyaḥ*): ranging constantly to the place that is desired; कविः (*kaviḥ*): far-seeing. The simile: अर्वा (*arvā*) …, like नभन्यः (*nabhanyaḥ*), the wind that is born in the sky. **NOTE**
+Further, शतात्मा (*śatātmā*): "hundred" and "thousand" are words for the unlimited; he has manifold forms, with reference to each sacrificer's house, or with reference to the Āhavanīya, Gārhapatya and the rest. Or else, by the distinction of Mitra and Varuṇa, Agni has the form of Mitra and so on; this is well known in Śruti passages such as त्वमग्ने वरुणो जायसे यत् (*tvamagne varuṇo jāyase yat*) (Ṛ. Saṃ. 5-3-1) and इंद्रं मित्रं वरुणमग्निमाहुः (*iṃdraṃ mitraṃ varuṇamagnimāhuḥ*) (Ṛ. Saṃ. 1-164-46); the meaning of the second mantra is that they call Agni himself of the nature of Indra and the rest. Such an Agni is सूरो न (*sūro na*), like the sun, ररुक्वान् (*rarukvān*), shining. Therefore that Agni exists, abides in excellence: this is the connection with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत्यः (*ātyaḥ*)—he who roams (to whatever place he wishes)
+- कविः (*kaviḥ*)—the wise one
+- यः (*yaḥ*)—the Agni who
+- नार्मिणीं पुरं (*nārmiṇīṃ puraṃ*)—the uttaravedi region that gives delight
+- Or: the region the sacrificers have in view (wishing that Agni should favour them for the sacrifice)
+- अर्वा (*arvā*)—having the nature of roaming
+- नभन्यः न (*nabhanyaḥ na*)—like the wind that moves in the sky
+- आ अदीदेत् (*ā adīdet*)—makes shine especially
+- (and) शतात्मा (*śatātmā*)—Agni, who has many forms such as Āhavanīya and Gārhapatya, or many forms such as Indra
+- सूरो न (*sūro na*)—like the sun
+- रुरुक्वान् (*rurukvān*)—shines
+
 ---
 
-**Progress note:** Done through printed p. 447. pp. 442-447 (batch API)
+**Progress note:** Done through printed p. 453. pp. 448-453 (batch API)
