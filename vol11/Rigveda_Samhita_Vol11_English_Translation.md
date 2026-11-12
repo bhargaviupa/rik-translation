@@ -838,6 +838,115 @@ Free from anger, and liberal of gifts, be near to us, Ajaswa, for the acceptance
 Explaining this Ṛk, the Nirukta authors say अस्यॆ नः सातय उपभव, आहेळमानोऽक्रुध्यन्रिवानातिरभ्यस्तोऽजाश्वेति पूषणमाहाजाश्वाजा अजनाः (*asyè naḥ sātaya upabhava, āheḷamāno 'krudhyanrivānātirabhyasto 'jāśveti pūṣaṇamāhājāśvājā ajanāḥ*). They indicate that the verse prays: "O Pūṣan, whose horses are in the form of goats, not angry, bestowing your liberal gift, be right near us", and that the seer of the sūkta addressed Pūṣan as Ajāśva. Showing the derivation of the word ररिवान् (*rarivān*), they say रातिरभ्यस्तः (*rātirabhyastaḥ*): the root rā, of giving, reduplicated, that is doubled, has become ररिवान् (*rarivān*); they also show that it means one who gives liberally (Ni. 4-25).
 दस्म (*dasma*)—शत्रूणामुपक्षपयितः (*śatrūṇāmupakṣapayitaḥ*). Pūṣan is addressed as one who destroys enemies. The word दस्म (*dasma*) has two kinds of meaning: one meaning is destroyer of enemies, and beautiful
 
+### Printed p. 33
+The Kannada continues Sāyaṇa's discussion of the word दस्म (*dasma*) as an epithet of Pūṣan. The word has two meanings: "destroyer of enemies", and also "one of beautiful form". If it is formed from the root दसि दर्शनदंशनयोः (*dasi darśanadaṃśanayoḥ*) it means "worth seeing, charming"; if from the root दसु-उपक्षये (*dasu-upakṣaye*) it means "destroyer (of enemies)". Since Indra and the other deities possess both kinds of power, either meaning may be given to दस्म (*dasma*). Examples:
+
+जुजोषदिंद्रो वस्यवर्चा नासत्येव सुग्यो रथेष्ठाः (*jujoṣadiṃdro vasyavarcā nāsatyeva sugyo ratheṣṭhāḥ*) (Ṛ. Saṃ. 1-133-4)
+
+त्वं भगो न आ हि रत्नमिषे परिज्जीव क्षयसि वस्यवर्चाः (*tvaṃ bhago na ā hi ratnamiṣe parijjīva kṣayasi vasyavarcāḥ*) (Ṛ. Saṃ. 6-13-2)
+
+पूषा सुबंधुर्दिन आ प्रथिद्या इळस्पतिर्मघना दस्यवर्चाः (*pūṣā subaṃdhurdina ā prathidyā iḷaspatirmaghanā dasyavarcāḥ*) (Ṛ. Saṃ. 6-58-4)
+
+In such Ṛks the first is shown to mean शत्रूपक्षयणबलः (*śatrūpakṣayaṇabalaḥ*), "one whose power destroys enemies"; the second, वर्च इति रूपनाम । दस्मं दर्शनीयं वर्चः यस्य तादृशः (*varca iti rūpanāma | dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ*), means "one of charming form". As the epithet दस्म (*dasma*) is applied in many places in the Ṛksaṃhitā to Indra and other deities, so in the present Ṛk, as an epithet of Pūṣan, it describes his power of destroying enemies and his beautiful form.
+
+आघ्रणे (*āghraṇe*): सर्वतो वृष्टेः क्षारयितः यद्वा हविषामाहर्तः स्वीकर्तः (*sarvato vṛṣṭeḥ kṣārayitaḥ yadvā haviṣāmāhartaḥ svīkartaḥ*) — Sāyaṇa explains that Pūṣan is addressed as one who pours rain all around, or as one who receives the oblations. That Pūṣan has this epithet is a cause of debate among critics. His qualities are of many kinds and show different aspects of him, so it is hard to say definitely what his original nature is; for recent critics it is a knotty question. Yāska counts Pūṣan among the twelve Ādityas. The scholar Bloomfield, following Yāska, holds on the basis of the epithet आघ्रणि (*āghraṇi*) in Ṛks such as Ṛ. Saṃ. 6-48-16, 6-53-3, 6-55-1 that Pūṣan is an Āditya deity who makes the light shine. Some oppose this view: the word आघ्रणि (*āghraṇi*) relates merely to radiance, the epithet may be used of any radiant deity, there is no rule that it must be the Āditya; for example it is also an epithet of Agni (Ṛ. Saṃ. 8-60-20), so Pūṣan cannot be fixed as an Āditya deity by this one epithet. Yāska, the author of the Bṛhaddevatā and other followers of the Vedic tradition have shown clearly that आघ्रणि (*āghraṇi*) is an epithet showing only Pūṣan's distinctive character.
+
+### Printed p. 34
+Yāska, when giving the derivation of this word in the Nirukta, explains आफृणिरागतहृणिः (*āphṛṇirāgatahṛṇiḥ*) and cites the word as it occurs in the Ṛk
+
+एहि नां विमुचो नपादाघृणे सं सचावहै । रथीर्यतस्य नो भव ॥ (*ehi nāṃ vimuco napādāghṛṇe saṃ sacāvahai | rathīryatasya no bhava ‖*) (Ṛ. Saṃ. 6-55-1)
+
+But in saying आगतहृणिः (*āgatahṛṇiḥ*) he gives no exact meaning of the word हृणि (*hṛṇi*). It is read among words for radiance (Ni. 2-28) and also among names of anger (Ni. 3-9). Therefore Durgācārya, commenting, says आफृणिशब्दो दीप्तिवाचकः । दीप्तिकर्मसु च पठित एवायं हृणिः इति (*āphṛṇiśabdo dīptivācakaḥ | dīptikarmasu ca paṭhita evāyaṃ hṛṇiḥ iti*): since हृणि (*hṛṇi*) is read among words of radiance, one meaning is "shining"; and क्रोधोऽपि हृणिरित्युच्यते (*krodho 'pi hṛṇirityucyate*): since हृणि (*hṛṇi*) also means anger, another meaning is possible: "let us serve that Pūṣan whose anger is directed upon us". In sum, it is an epithet showing Pūṣan's distinctive character. The author of the Bṛhaddevatā, in
+
+तृचो विश्वेषां देवानां पूष्ण आफृणये तृचः । आसक्तो हि फृणिस्तस्य दध्नः पूर्णो दृती रथे ॥ आफृणिस्तत्सुतः पूषा कीरिभी रिभ्यते ततः । (*tṛco viśveṣāṃ devānāṃ pūṣṇa āphṛṇaye tṛcaḥ | āsakto hi phṛṇistasya dadhnaḥ pūrṇo dṛtī rathe ‖ āphṛṇistatsutaḥ pūṣā kīribhī ribhyate tataḥ |*) (Bṛ. De. 3-95-96)
+
+shows that, because a leather bag filled with curds (an intoxicating substance) is tied to his chariot, he is called आफृणि (*āphṛṇi*), and that for this reason the poet-singers praised Pūṣan as आफृणि (*āphṛṇi*). Sāyaṇa gives the meaning वृष्टेः क्षारयितः (*vṛṣṭeḥ kṣārayitaḥ*) or हविषामाहर्तः (*haviṣāmāhartaḥ*) only in the present Ṛk; in all the Ṛks where the word occurs (3-62-7; 6-48-16; 6-55-3; 7-40-6; 8-4-17; 9-67-12; 10-17-5) he explains it as आगत दीप्ते पूषन् (*āgata dīpte pūṣan*). Only at one place, Ṛk 8-60-20, is the epithet applied to Agni; everywhere else it is an epithet of Pūṣan and shows his distinctive character.
+
+##### Grammar
+
+- ऊषु — सुञ्खः (पा. सू. ८-३-१०७) इति पूर्वपदे निमित्तत्वात् सत्वम् ।
+- सातये — उदात्त इत्यनुवृत्तौ ऊतियूति जूति साति हेतिकीर्तयश्च (पा. सू. ३-३-९७) इति क्तिन् उदात्तः भवति । चतुर्थीएकवचनांतरूपम् ।
+- भुवः — भूसत्तायां धातुः । लेट् मध्यमपुरुषएकवचने सिप् । इतश्चलोपः (पा. सू. ३-४-९७) इति इकारलोपः । लेटोडाटौ इति तस्य अडागमः ।
+
+### Printed p. 35
+- (भुवः) बहुलं छंदसि इति शपो लुक् । अचिश्नुधातु— इति उवङादेशः । तिजंतनिघातस्वरो भवति ।
+- अस्याः — चतुर्थ्यर्थे षष्ठी आगता । ऊडिदंपदादि— (पा सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- ररिवान् — रा आदाने धातुः । छांदसस्य लिटः क्वसुश्च (पा. सू. ३-२-१०७) इति क्वसुप्रत्ययः । तं निमित्तीकृत्य धातोर्द्वित्वम् । ह्रस्वः इति सूत्रेण अभ्यासस्य ह्रस्वः । अर्धधातुकस्येड्वलादेः इति सूत्रेण प्रत्ययस्य इडागमः । आतोलोपइटि च (पा. सू. ६-४-६४) इति धात्वाकारस्य लोपः । ररिवस् शब्दो भवति । प्रथमाएकवचने अत्वसंतस्य— इत्युपधादीर्घः । सुमागमः । संयोगांतलोपेन सकारलोपः । वसोः स्वरः अवतिष्ठते । ररिवान्+अजाश्व इति स्थिते दीर्घादटि समानपादे (पा. सू. ८-३-८) इति नकारस्य रुत्वम् । आतोटि नित्यम् (पा.सू. ८-३-३) इति पूर्वस्याकारस्य अनुनासिकत्वम् । ररिवान् इत्यत्र पदसंज्ञाभावेऽपि पपिवांसं इत्यादिस्थले इव छांदसतया अवग्रहः आगतः ।
+- श्रवस्यताम् — श्रवः आत्मनः इच्छति श्रवस्यति । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति इच्छार्थे क्यच् । सनाद्यंता धातवः इति क्यजंतस्य धातुसंज्ञा भवति । तदुपरि लडर्थे शतृप्रत्ययः । शप् विकरणम् । पररूपम् । षष्ठीबहुवचनांतरूपम् । नुम्‌रहिते शतृप्रत्यये परे अजादिविभक्तिः आगता इति शतुरनुमोनद्यजादी (पा. सू. ६-१-१७३) इति विभक्तेरुदात्तस्वरो भवति ।
+- ववृतीमहि — वृतु वर्तने धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थको धातुः । लिज् उत्तमपुरुषबहुवचने महिज् प्रत्ययः । लिजिः सीयुट् (पा. सू. ३-४-१०२) इति तस्य सीयुटागमः । लिजिस्सलोपोनंत्यस्य (पा. सू, २-७९) इति सकारलोपः । लोपोव्योर्वलि इति सूत्रेण यकारलोपः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । श्लौ इति धातोर्द्वित्वम् । उरत् (पा. सू. ७-४-६६) इति अभ्यासऋकारस्य अत्वम् । रपरत्वे आगते हलादिः शेषः इति आदिहल् शेषः । प्रत्ययस्य जत्वात् लघूपधगुणो न भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- दस्म — इषियुधींधि— (उ. सू. १-१४२) इति मक् प्रत्ययः । संबुद्ध्यंतरूपम् । आमंत्रितस्यच (पा. सू. ८-१-१६) इति निघातस्वरो भवति ।
+- अतिमन्ये — मनु अवबोधने धातुः । दिवादिः । लट् उत्तमपुरुषएकवचनांतरूपम् । हिच (पा. सू. ८-१-३४) इति निघातप्रतिषेधो भवति । श्यन् नित्त्वात् आद्युदात्तस्वरः
+
+### Printed p. 36
+- (अतिमन्ये) भवति । उदात्तवति तिजंते परे तिजिचोदात्तवति (पा. सू ८-१-७१) इति गतेः (अति) निघातस्वरो भवति ।
+- आफृणे — फृ क्षरणदीप्त्योः धातुः । तस्मात् फृणिपृश्नि पार्ष्टि— (उ. सू ४-४९२) इति निप्रत्ययो निपातितः । ऋवर्णाच्चेतिवक्तव्यम् इति वचनेन णत्वम् । प्रादिसमासः । संबुद्ध्यंतरूपम् । आमंत्रितनिघातस्वरो भवति ।
+- अपह्नुवे — हुज् अपनयने धातुः । अदादिः । लट् उत्तमपुरुष एकवचनांतरूपम् । प्रत्ययस्य जत्वातिदेशात् गुणो न भवति ।
+
+Here ends the 138th sūkta.
+
+## Sūkta 139 (Maṇḍala 1)
+Anuvāda: This sūkta beginning अस्तु शौषट् (*astu śauṣaṭ*) is the sixth sūkta in the twentieth anuvāka; it has eleven Ṛks. The Anukramaṇikā says: अस्तु शौषळेकादश वैश्वदेवी मैत्रावरुण्याश्विन्यस्तिस्र ऐंद्राग्नेयो मारुत्यैंद्राग्नी बार्हस्पत्या वैश्वदेव्यंत्या त्रिष्टुप्पंचमी बृहती वैश्वदेवमेतदेवमन्यासामपि सूक्तप्रयोगे वैश्वदेवत्वं सूक्तभेदप्रयोगे यल्लिंगं सा देवता (*astu śauṣaḷekādaśa vaiśvadevī maitrāvaruṇyāśvinyastisra aiṃdrāgneyo mārutyaiṃdrāgnī bārhaspatyā vaiśvadevyaṃtyā triṣṭuppaṃcamī bṛhatī vaiśvadevametadevamanyāsāmapi sūktaprayoge vaiśvadevatvaṃ sūktabhedaprayoge yalliṃgaṃ sā devatā*). The seer of this sūkta is Paruchchepa. The last Ṛk is in Triṣṭubh, the fifth is Bṛhatī, the remaining Ṛks are in the metre Atyaṣṭi.
+
+### Printed p. 37
+Taking the whole sūkta together, the Viśve Devāḥ are the deity. Taken separately: the first Ṛk has the Viśve Devāḥ; the second, Mitra and Varuṇa; the next three Ṛks are addressed to the Aśvins; the sixth to Indra; the seventh to Agni; the eighth to the Maruts; the ninth to Indra and Agni; the tenth to Bṛhaspati; the eleventh to the Viśve Devāḥ. The application (viniyoga) of the sūkta is by the indicatory mark (laiṅgika). Although the whole sūkta is addressed to the Viśve Devāḥ, separate applications may be stated for the separate Ṛks in relation to their respective deities. In the sacrifice called Daśarātra, performed over ten days, on the sixth day when the Praüga-śastra mantras are recited, the first Ṛk of this sūkta is applied in reciting the triplet addressed to the Viśve Devāḥ; this is stated in the Āśvalāyana Śrautasūtra, in the section beginning षष्ठस्य (*ṣaṣṭhasya*), by the sūtra अस्तु शौषळो शू णो अग्ने (*astu śauṣaḷo śū ṇo agne*).
+
+Sūkta 139. Maṇḍala 1, Anuvāka 20, Sūkta 139; Aṣṭaka 2, Adhyāya 2, Vargas 3, 4. Number of Ṛks in the sūkta: 11. Seer: Paruchchepa, son of Divodāsa. Deities: 1. Viśve Devāḥ; 2. Mitra and Varuṇa; 3–5. the Aśvins; 6. Indra; 7. Agni; 8. the Maruts; 9. Indra and Agni; 10. Bṛhaspati; 11. Viśve Devāḥ. Metre: 1–4 and 6–10 Atyaṣṭi; 5 Bṛhatī; 11 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्तु श्रौषट् पुरो अग्निं धिया दध आ नु तच्छर्धो दिव्यं  
+> वृणी मह इंद्रवायू वृणीमहे ।  
+> यद्ध॑ क्रा॒णा वि॒वस्व॑ति॒ नाभा॑ सं॒दायि॒ नव्य॑सी ।  
+> अध॒ प्र सू न॒ उप॑ यंतु धी॒तयो॑ दे॒वा अच्चा॒ न धी॒तयः॑॥
+
+### Printed p. 38
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्तु । श्रौषट् । पुरः । अग्निं । धिया । दधे । आ । नु । तत् । शर्धः । दिव्यं । वृणीमहे । इंद्रवायू इति । वृणीमहे ।  
+> यत् । ह । क्राणा । विवस्वति । नाभा । संदायि । नव्यसी ।  
+> अध । प्र । सु । नः । उप । यंतु । धीतयः । देवान् । अच्छ । न । धीतयः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं पुरः पुरत उत्तरवेद्यामग्नि माहवनीयाख्यं धिया प्रणयनादिकमणा
+> वधे । धारितवानस्मि । तच्छर्धस्तादृशं बलवंतं वाग्निं यद्वा तच्छर्धस्तादृशं मरुतां
+> स्वरूपं बलं दिव्यं दिवि भवं नु क्षिप्रमा वृणीमहे । अभिमुख्येन संभजामहे ।
+> किंचेंद्रवायू वृणीमहे । यद्यस्मात्कारणाद्विवस्वति दीप्तमति नाभा नाभौ भूम्या
+> नाभिस्थाने देवयजने वेदिरूपे । यद्वा । नाभौ सर्वफलस्य संबंधके यज्ञे ।
+> यज्ञमाहुर्भुवनस्य नाभिमिति श्रुतेः । क्राणा कुर्वाणा स्वार्थप्रकाशनं नव्यसी
+> नवतरा स्तुतिरूपा वाक् संदायि संबध्यते ॥ छांदसः कर्मणि लुज् ॥ अस्माभिः
+> प्रयुज्यत इत्यर्थः । यस्मात्सुतिः क्रियते तस्मादस्तु शौषट् । अस्याः स्तुतेः श्रवणं
+> भवतु । श्रोता भवतु वा मरुतां गणोऽग्निर्वा । इंद्रावायुपक्षे प्रत्येकापेक्षयैकवचनं । आधानंतरं नो धीतयोऽस्मदीयानि कर्माणि स्तुत्यादिरूपाणि प्र
+> सूपयंतु । प्रकर्षेण सुष्टु युष्मानुपगच्छंतु । किंच देवान् अच्चा नाग्न्यादि
+> देवानाभिमुख्येन प्राप्तुमिव धीतयोऽस्मदीयानि कर्माण्युप यंतु । तेषां
+> समीपं प्राप्नुवंतु ॥
+
+##### Gist of the bhāṣya
+
+"I have placed in front, on the northern altar, the fire called Āhavanīya, with the rite of leading forward and the like (धिया (*dhiyā*)). I choose quickly, facing it, that mighty (fire), or else the Maruts' own divine power, born in heaven (तच्छर्धः (*tacchardhaḥ*) either way). And we also choose Indra and Vāyu. Because (यत् ह (*yat ha*)) a newer, praise-form speech, making its own meaning shine, is composed at the navel of the earth, the altar-place of the gods' sacrifice, in this radiant (rite) — or at the navel, the sacrifice that links all fruits, by the Śruti यज्ञमाहुर्भुवनस्य नाभिमिति (*yajñamāhurbhuvanasya nābhimiti*) — it is applied by us (संदायि (*saṃdāyi*) is aorist passive, Vedic). Since praise is made, let there be hearing (अस्तु शौषट् (*astu śauṣaṭ*)) of this praise; or let the host of Maruts, or Agni, be the hearer. On the Indra–Vāyu view the singular is used with regard to each singly. After the placing, may our acts (धीतयः (*dhītayaḥ*)) of praise and the like go forth to you completely and well; and like (those wishing) to reach the gods Agni and the rest face to face, may our acts go to them and reach their vicinity."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- पुरः (*puraḥ*)—on the northern altar situated in front
+- अग्निं (*agniṃ*)—the fire in the Āhavanīya form
+- दधे (*dadhe*)—have established
+- दिव्यं (*divyaṃ*)—born in the world (of earth) **NOTE**
+- तच्छर्धः (*tacchardhaḥ*)—that fire-power (the powerful fire), or the power in the form of the host of Maruts
+- नु (*nu*)—quickly (we)
+- आ वृणीमहे (*ā vṛṇīmahe*)—let us resort to by worship; (moreover)
+- इंद्रवायू (*iṃdravāyū*)—Indra and Vāyu
+- वृणीमहे (*vṛṇīmahe*)—let us honour
+- यत् ह (*yat ha*)—by which cause of our devotion
+- विवस्वति (*vivasvati*)—radiant
+- नाभा (*nābhā*)—in the altar that is the navel of the earth, or in the sacrifice that is the navel of the world
+- नव्यसी (*navyasī*)—(our) new praise
+- क्राणा (*krāṇā*)—making its own self-manifestation
+- संदायि (*saṃdāyi*)—(offered to the gods) them
+
 ---
 
-**Progress note:** Done through printed p. 32. pp. 27-32 (batch API)
+**Progress note:** Done through printed p. 38. pp. 33-38
