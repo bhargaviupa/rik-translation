@@ -228,6 +228,7 @@ def latin_fallback(en, kn):
 def apply_answer(w, text):
     """write en.md and apply the kn.md repairs; returns a list of problems"""
     prob = []; m = (lambda L: L[-1] if L else None)(list(re.finditer(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)))   # the LAST <en> block: the model sometimes restarts after a false start (Vol 11 w0033)
+    if not m and text.lstrip().startswith('### Printed p.'): m = re.match(r'\s*(.*?)\n?\s*<kn_fix>', text, re.S)      # the model left out the <en> tags (Vol 11 w0692): the body before <kn_fix> is the English
     if not m: return ['no <en> … </en> in the answer']
     kp = os.path.join(w, 'kn.md'); pj0 = os.path.join(w, 'pages.json')
     for f in (kp, pj0):                                   # the first answer is applied to the prepared files; a retry starts from them again
