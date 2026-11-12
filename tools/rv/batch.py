@@ -274,6 +274,8 @@ def cmd_check(a):
                         (r'(?i)\bas supplied|\bas printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
         kk=re.findall('[ಀ-೿]+',enf)
+        st=re.findall(r'[\u0370-\u08FF\u0980-\u0C7F\u0D00-\u1DFF\uFB1D-\uFEFF]',en)   # Greek/Cyrillic/Hebrew/Arabic/other Indic letters (not Devanagari/Kannada)
+        if st: fail.append(f'stray letters of another script in the English text (e.g. {st[0]!r} U+{ord(st[0]):04X}): a mistyped Latin letter, fix it in en.md')
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
