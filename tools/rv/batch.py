@@ -415,7 +415,11 @@ def mandala_heading(s,cfg,kn=''):
         elif i>=0: s=s[:i+1]+f'## Maṇḍala {m}\n\n'+s[i+1:]
     return s
 def cmd_audit(a):
-    cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
+    cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg)
+    if cfg.d.get('layout')=='subheads' and f['pages']>0:          # lesson 62: the volume-level label check (blocks under the label of another section), for the volumes that have the sub-heading layout
+        r=subprocess.run([sys.executable,os.path.join(ROOT,'tools','rv','check_labels.py'),str(cfg.vol)],capture_output=True,text=True,cwd=ROOT)
+        if r.returncode: pr.append('blocks under the label of another section (python3 tools/rv/check_labels.py %d): %s'%(cfg.vol,(re.findall(r'pages: .*',r.stdout) or [r.stdout.strip()[-200:]])[0]))
+    print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
     print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)
 def cmd_rkheads(a):
     """repair of the volume file: Ṛk headings left out, misplaced, unnumbered or repeated by the translator (logged in review/repair_log.md)"""
