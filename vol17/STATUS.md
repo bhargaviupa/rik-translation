@@ -22,6 +22,7 @@ Planned as the **pilot of the Batch API flow** (user decision, Nov 11 2026; API 
 **Not checked by any gate** (needs a reader): the translation itself, the Gists, the Sanskrit composed for the 4 grammar sections. Not yet read against the Kannada by a second reader.
 
 ## Open items
+0. **Found Nov 12 2026 by `tools/rv/check_labels.py 17`: at the start of Sūkta 8 (p. 856) three blocks stand under the wrong labels** (the sūkta-head block under Saṃhitā-pāṭha, the Saṃhitā under Pada-pāṭha, the Pada under Sāyaṇa-bhāṣya; text complete). Not repaired (no change to Vol 17 without the user's word); it is the same fault as in Vol 18 (lesson 61).
 1. **Six printed page numbers have no page heading: 63, 321, 345, 749, 787, 971.** The supplied text has no page marker for them, so their text (if the pages are not blank or plates) runs on under the heading of the page before. Nothing is missing from the supplied text; only the break is unmarked. To settle with the printed book.
 2. **Verse numbers as printed that break the sequence** (kept as supplied, headings follow the sequence): 3.54.10 printed "८०" (p. 250), 3.55.15 printed "८५" (p. 305), 4.7.11 Pada-pāṭha printed "१०" (p. 853). 20 verses show no number in either block (line ends cut in the supplied text).
 3. **To confirm before printing:** the English printed under each verse is headed "English translation (H. H. Wilson)" (`printed_english_label` in `volcfg.json`; one line to change). The edition does not name the translator; the attribution rests on the wording and was not verified against a Wilson edition.
