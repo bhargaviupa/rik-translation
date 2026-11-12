@@ -674,6 +674,170 @@ In these Ṛks, अंधसः पीपरः पापरूपाद्व�
 > तामनु॑ त्वा॒ नवी॑यसीं नि॒युतं॑ रा॒य ई॑महे ।  
 > अहे॑ळमान उरुशंस॒ सरी॑ भव॒ वाजे॑वाजे॒ सरी॑ भव ॥ ३ ॥
 
+### Printed p. 27
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । पूषन् । सख्ये । विपन्यवः । क्रत्वा । चित् । संतः । अवसा । बुभुज्रिरे ।  
+> इति । क्रत्वा । बुभुज्रिरे ।  
+> तां । अनु । त्वा । नवीयसीं । नियुतं । रायः । ईमहे ।  
+> आडेळमानः । उरुशंस । सरी । भव । वाजेऽवाजे । सरी । भव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् देव यस्य ते रक्षकत्वेन प्रसिद्धस्य तव सख्ये सखित्वे हितकरणे सति
+> क्रत्वा चित् क्रतुना प्रकृष्टेन कर्मणैव ॥ जसादिषु चंदसि वावचनमिति नाभावाभावः ॥ संतो भवंतं प्रीणयितारः संतो विपन्यवो विशेषेण स्तोत्रशीलाः ।
+> यद्वा । मेधाविनामृतत् । मेधाविनः । यजमाना अवसा त्वत्कृतेन रक्षणेन रक्षिताः
+> संतो बुभुज्रिरे । भुंजते भोगान् । इति एवमेव सर्वदा क्रत्वा कर्मणा बुभुज्रिरे । भुंजते सर्वॆ पाल्यंत इति वा ॥ भुजेश्छंदसि लिटि बहुलं छंदसीति रुट् ॥
+> तां तादृशीं नवीयसीं नवतरां स्तुत्यां वा रक्षामन्वनुसृत्य रक्षाया अनंतरं
+> त्वां नियुतं राय एतत्संख्याकान्थनानीमहे । याचामहे । किंच हे उरुशंस
+> बहुधा स्तुत्य त्वमहेळमानोऽक्रुद्यन्नस्मासु सुमनाः सन् सरी भव । अस्माभिर्गंतव्यो भव' सर्तॆरौणादिक इनिप्रत्यय । आद्युदात्तत्वं। किंच त्वं वाजे वाजे सर्वॆष्टपि
+> संग्रामेषु सरी भव । गमनशीलो भव । पुरतो गंता भवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, you are famed as protector. When there is friendship with you, that is, benefit done, क्रत्वा चित् (*kratvā cit*) means "by the excellent rite alone". By the rule जसादिषु छंदसि वावचनम् (*jasādiṣu chaṃdasi vāvacanam*) the form with nā-ending is optional here. संतः (*saṃtaḥ*) are those who please you, and विपन्यवः (*vipanyavaḥ*) are those who are especially given to praise.
+Or else: the wise sacrificers, protected (अवसा (*avasā*)) by the protection you give, enjoy (बुभुज्रिरे (*bubhujrire*)) enjoyments. इति (*iti*) means "just so, always": by the rite they enjoy; or else all are protected. Having followed that new (or praiseworthy) protection, after the protection we ask you for riches of this great number (नियुतं (*niyutaṃ*)).
+Further, O Uruśaṃsa, praised in many ways, being unangry and well-disposed towards us, be सरी (*sarī*), one to be approached by us. सरी (*sarī*) is formed from the root sṛ with the Uṇādi affix ini, and has initial acute accent. Further, in every battle be सरी (*sarī*), one who goes, that is, be the one who goes in front.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan
+- यस्य ते (*yasya te*)—of you, whose (the protector)
+- सख्ये (*sakhye*)—when there is beneficial friendship
+- क्रत्वा चित् (*kratvā cit*)—by excellent sacrificial rites alone
+- संतः (*saṃtaḥ*)—being worshippers (of you)
+- विपन्यवः (*vipanyavaḥ*)—and being praisers with devotion, the wise sacrificers
+- अवसा (*avasā*)—by (your) protection
+- बुभुज्रिरे (*bubhujrire*)—enjoy enjoyments
+- इति (*iti*)—just so, always
+- क्रत्वा (*kratvā*)—by a rite performed with faith
+- बुभुज्रिरे (*bubhujrire*)—all enjoy enjoyments, or are protected
+- तां (*tāṃ*)—such
+- नवीयसीं (*navīyasīṃ*)—the protection that is the fruit of new praise
+- अनु (*anu*)—following [and thereafter]
+- नियुतं (*niyutaṃ*)—countless
+- राय (*rāya*)—riches
+- ई महे (*ī mahe*)—we pray for
+- उरुशंस (*uruśaṃsa*)—O Pūṣan, worthy of praise of many kinds
+- अडेळमानः (*aḍeḷamānaḥ*)—not angry (with us), being well-disposed
+
+### Printed p. 28
+- सरी भव (*sarī bhava*)—be easy of access to us (let us approach you without fear)
+- वाजे वाजे (*vāje vāje*)—in all battles
+- सरी भव (*sarī bhava*)—be our foremost one and our leader
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, because of your beneficial friendship, you who are the protector, wise sacrificers who worship you by excellent sacrificial rites alone and praise you with devotion enjoy all enjoyments through your protection. After obtaining this protection, which is the fruit of new praise, we pray for countless riches. O Pūṣan, worthy of praise of many kinds, not angry with us but well-disposed, let us approach you without fear. In all battles be our foremost one and our leader.
+
+##### Printed English
+
+Through your praise, and assiduous in your worship they enjoy (abundance), through your protection ; by (assiduous) worship they enjoy (abundance) ; as consequent upon your recent favour, we solicit infinite riches. Free from anger, and entitled to ample praise, be ever accessseble to us : be our leader in every encounter.
+
+##### विशेषविषयगळु (Special Topics)
+
+विपन्यवः (*vipanyavaḥ*)—This word is read among the names of the wise, विप्रः (*vipraḥ*), विग्रः (*vigraḥ*) and so on (Ni. 3-19). In the Ṛksaṃhitā the word is used in the sense of praisers who are wise and devout: तद्विप्रासो विपन्यवः (*tadviprāso vipanyavaḥ*) (Ṛ. Saṃ. 1-23-21), अवसा विपन्यवः (*avasā vipanyavaḥ*) (Ṛ. Saṃ. 1-102-5), विपन्यवोदीध्यतो मनीषा (*vipanyavodīdhyato manīṣā*) (Ṛ. Saṃ. 2-20-1) and so on. As is understood from these Ṛks, it means विशेषेण स्तोतारः (*viśeṣeṇa stotāraḥ*), those who praise exceedingly.
+नियुतं (*niyutaṃ*)—A countless number. For this word one number is stated in one place, another elsewhere. In तक्षद्वज्रं नियुतं (*takṣadvajraṃ niyutaṃ*) (Ṛ. Saṃ. 1-12-3) the word नियुत (*niyuta*) is also understood as नितरां युक्तं (*nitarāṃ yuktaṃ*), firmly attached. In this Ṛk it denotes a number.
+अहेळमानः (*aheḷamānaḥ*)—Since रेळते (*reḷate*), हेळते (*heḷate*) and so on are read among the names of anger (Ni. 3-9), हेळमानः (*heḷamānaḥ*) means "being angry" and आहेळमानः (*āheḷamānaḥ*) means "not being angry".
+अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः (*aheḷamāno varuṇeha bodhyuruśaṃsa mā na āyuḥ pra moṣīḥ*) (Ṛ. Saṃ. 1-24-11)
+
+### Printed p. 29
+अहेळमान उप याहि यज्ञं तुभ्यं पवंत इंदवः सुतासः (*aheḷamāna upa yāhi yajñaṃ tubhyaṃ pavaṃta iṃdavaḥ sutāsaḥ*) (Ṛ. Saṃ. 6-41-1)
+In these and other Ṛks, and likewise in places such as 10-32-8, there is this kind of prayer. Because it was believed that gods such as Agni and Varuṇa are severe in punishing wrongdoers, and that such people do not obtain the favour of those gods, all sacrificers, full of great fear of sin, pray that the gods not be angry, that they not neglect them, and that they bestow favour on them and do them good.
+सरी भव (*sarī bhava*)—The word सरी (*sarī*), formed from the root sṛ, which has the sense of going, is used here in two senses. First, सरीभव (*sarībhava*) means अस्माभिर्गंतव्यो भव (*asmābhirgaṃtavyo bhava*), "let us approach you without fear". Second, गमनशीलो भव (*gamanaśīlo bhava*), पुरतो गत्वा भव (*purato gatvā bhava*): "go as our foremost one".
+In the same way the words सरीमणि (*sarīmaṇi*), सरीसृप (*sarīsṛpa*) and so on are formed. In present usage सरीसृप (*sarīsṛpa*) means a snake that moves swiftly. But the word सरीसृप (*sarīsṛpa*) is used in the Ṛk यस्ते हंति पतयंतं निषत्सुं यः सरीसृपं (*yaste haṃti patayaṃtaṃ niṣatsuṃ yaḥ sarīsṛpaṃ*) (Ṛ. Saṃ. 10-162-3) in the sense of a moving embryo. Here सरीभव (*sarībhava*) means "be our foremost one, our leader".
+
+##### Grammar
+
+- विपन्यवः — वि उपसर्गः । पनस्तुत् । उणावियल्लि बहुलवचनमस्तीति औणादिकः यु प्रत्ययः । प्रत्ययस्वरो भवति । प्रथमाबहुवचनांतरूपम् । **NOTE**
+- क्रत्वा — क्रतु शब्दः । तस्मात् तृतीयाएकवचने परे जसादिषु छंदसि वावचनम् इति वचनात् नाभावो न भवति ।
+- अवसा — अव रक्षणे धातुः । औणादिकः असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । तृतीयाएकवचनांतरूपम् ।
+- बुभुज्रिरे — भुज पालनाभ्यवहारयोः धातुः । छंदसि लुङ् लङ् लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । लिण्णिमित्तत्वात् धातोर्द्वित्वम् । लिटस्तझयोरेशिरेच् इति युक् इरेचादेशः । बहुलं छंदसि इति प्रत्ययस्य रुटागमः । तिजंतनिघातस्वरो भवति । **NOTE**
+
+### Printed p. 30
+- नवीयसीम् — अतिशयेन नवा नवीयसी ताम् । अतिशयार्थे ईयसुन् प्रत्ययः । यस्येति च इत्यकारलोपः । उगितश्च इति स्त्रीत्वे जीप् । ईयसुन् जॆ नित्त्वात् आद्युदात्तस्वरो भवति । द्वितीयाकवचनांतरूपम् । **NOTE**
+- रायः — द्वितीयाबहुवचनांतरूपम् । ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- ईमहे — ईज् गतौ धातुः । ईमहे यामि (निरु. ३-१९-१) इति याचनार्थे पठितम् । लट् उत्तमपुरुषबहुवचने वहिज् प्रत्ययः । टेः एत्वम् । बहुलं छंदसि (पा. सू. २-४-७३) इति विकरणस्य लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+- अहेळमानः — हेडृ अनादरे धातुः । भ्वादिः । लडर्थे शानच् प्रत्ययः । शप् विकरणम् । आनेमुक् (पा. सू. ७-२-८) इत्यंगस्य मुकागमः । न हेळमानः । तत्पुरुषे तुल्यार्थं (पा. सू ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरो भवति ।
+- सरी — सृ गतौ धातुः । तस्माद् औणादिकः इनि प्रत्ययः । तं निमित्तीकृत्य धातोर्गुणः । उरणप्ररः इति रपरत्वेन भवति । सरिन् शब्दो भवति । आद्युदात्तस्वरोऽपि उणादित एव सिद्धः । प्रथमाएकवचनांतरूपम् । **NOTE**
+- वाजेवाजे — नित्यवीप्सयोः (पा. सू. ८-१-४) इति द्विर्वचनम् । परस्य आम्रेडितसंज्ञा भवति । अनुदात्तं च (पा. सू. ८-१-३) इति तत् सर्वानुदात्तं भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्या ऊ सु ण उप सातये भुवोs हेळमानो ररिवा  
+> अजाश्व श्रवस्यतामजाश्व ।  
+> ओ षु त्वा॑ ववृतीमहि॒ स्तोमे॑भिर्दस्म सा॒धुभिः॑ ।  
+> न॒हि त्वा॑ पूषन्नति॒मन्य॑ आघृणे॒ न ते॑ स॒ख्यम॑पह्नु॒वे ॥ ४ ॥
+
+### Printed p. 31
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्याः । ऊं इति । सु । नः । उप । सातये । भुवः । अहेळमानः । ररिवान् । अजअश्व । श्रवस्यतां । अजअश्व ।  
+> ओ इति । सु । त्वा । ववृतीमहि । स्तोमेभिः । दस्म । साधुभिः ।  
+> नहि । त्वा । पूषन् । अतिमन्ये । आघृणे । न । ते । सख्यं । अपह्नुवे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आजाश्व पूषन् । अजाश्वेति पूषणमाहेति यास्कः । नि. ४-२५ । नोऽस्माकमस्या अस्यॆ ॥ चतुर्थ्यर्थे षष्ठी ॥ सातये लाभायाहेळमानोऽक्रुद्यन्ननादरमकुर्वन् ररिवान् दाता च सन् सु सुष्यप भुवः । समीपस्थो भव ॥ रातेश्चांदसस्य लिटः क्वसुः । पदसंज्ञाया अभावेऽपि पपिवांसं तस्थिनांसमित्यादौ छांदसोऽवग्रहो दृश्यते । ऊ इति पादपूरणः ॥ किंच श्रवस्यतामन्नमिच्छतामस्माकं हे
+> अजाश्व अजा एवाश्वस्थानीया यस्य तादृश त्वं । पूषनामेदं । ररिवांश्च सन्नुप
+> भुवः । अजाः पूष्ण इति यास्कः । ओ इति निपातद्वयसमुदायात्मक एको निपातः ।
+> हे दस्म शत्रूणामुपक्षपयितः पूषन् त्वा त्वामो षु ववृतीमहि। सर्वत एव सुतरां
+> वर्तयेमहि ॥ वृतेरंतर्भावितण्यर्थाल्लिज बहुलं छंदसीति शपः श्लुः ॥ यज्ञांतरगमनान्नि वर्तयाम इत्यर्थः । केन साधनेनेति तदुच्यते । साधुभिः स्तोमेभिस्तां
+> प्रीणयितुं समर्थैः स्तोत्रैः । किंच हे पूषन् आफृणे सर्वतो वृष्टेः क्षारयितः । यद्वा । आफृणे हविषामाहर्तः स्वीकर्तः त्वां नह्यतिमन्ये । अवमतिं नैव
+> करोमि । न केवलमनतिक्रममात्रं किंतु ते सख्यं तव सखित्वं हितकर्तृत्वं नह्यपह्नुवे नैवापनयामि । न त्यजामि । सर्वतः प्रख्यापयामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Ajāśva Pūṣan. "Ajāśva" is said of Pūṣan, says Yāska (Ni. 4-25). नोऽस्माकमस्या (*no 'smākamasyā*): "of us, of this", the genitive standing for the dative. सातये (*sātaye*) means "for gain". Being unangry, not showing disregard, and a giver (ररिवान् (*rarivān*)), be (भुवः (*bhuvaḥ*)) well near us. ररिवान् (*rarivān*) is the Vedic perfect participle in -kvasu of the root rā. Even where the condition of being a pada is absent, a Vedic division is seen in *papivāṃsaṃ tasthivāṃsaṃ* and the like. ऊ (*ū*) is a verse-filler.
+Further, O Ajāśva, you whose horses are goats (अजा एवाश्वस्थानीया (*ajā evāśvasthānīyā*))—this is a name of Pūṣan—be also a giver towards us who desire food (श्रवस्यतां (*śravasyatāṃ*)). "Goats belong to Pūṣan," says Yāska. ओ (*o*) is one particle made up of two particles.
+O Dasma, destroyer of enemies, Pūṣan, we turn you (ववृतीमहि (*vavṛtīmahi*)) wholly towards us, completely. The root vṛt has the causative sense inside it. The sense is: we turn you back from going to another sacrifice. By what means? That is said: *sādhubhiḥ stomebhiḥ*, by hymns able to please you.
+Further, O Pūṣan, आघृणे (*āghṛṇe*), you who let rain pour on all sides; or else, you who bring and accept offerings: I do not disregard (अतिमन्ये (*atimanye*)) you, I do not show contempt. Not merely do I not transgress; I do not take away (अपह्नुवे (*apahnuve*)), do not abandon, your friendship, your benefit-doing; I proclaim it everywhere. This is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजाश्व (*ajāśva*)—O Pūṣan
+- नः (*naḥ*)—our
+- आस्त्या सातये (*āstyā sātaye*)—for the acceptance of this (hymn or offering)
+- अहेळमानः (*aheḷamānaḥ*)—not angry (without disregard)
+- ररिर्वा (*rarirvā*)—liberally giving
+- सु (*su*)—well
+- उप भुवः (*upa bhuvaḥ*)—be near us
+- अजाश्व (*ajāśva*)—O Pūṣan
+- श्रवस्यतां (*śravasyatāṃ*)—of us who desire food
+- सु (*su*)—be quite near
+- दस्म (*dasma*)—O Pūṣan, destroyer of enemies
+- त्वा (*tvā*)—you
+- साधुभिः (*sādhubhiḥ*)—(to satisfy you) capable
+- स्तोमेभिः (*stomebhiḥ*)—with hymns
+- ओ षु (*o ṣu*)—all round (taking refuge, holding you back)
+
+### Printed p. 32
+- ववृतीमहि (*vavṛtīmahi*)—we obtain (your) support
+- आफृणे (*āphṛṇe*)—(and) O one who pours rain all round or accepts offerings
+- पूर्ण (*pūrṇa*)—O Pūṣan
+- नहि अतिमन्ये (*nahi atimanye*)—I certainly do not disregard you
+- ते (*te*)—your
+- सख्यं (*sakhyaṃ*)—friendship
+- न अपह्नुवे (*na apahnuve*)—I do not neglect and abandon (do not lose)
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, whose horses are in the form of goats, in order to accept our worship, be near us, not disregarding us and giving liberally; be right near us who desire food. O Pūṣan, destroyer of enemies, with hymns able to satisfy you we obtain your support on every side. O Pūṣan, causer of rain, I certainly do not disregard you, and I certainly do not neglect your friendship and lose it.
+
+##### Printed English
+
+Free from anger, and liberal of gifts, be near to us, Ajaswa, for the acceptance of this our (offering) ; be near to those, Ajaswa, who solicit food : we have recourse to you, destroyer of enemies, with pious hymns. I never cease, Pushan, accepter of offerings, to think of you ; I never disregard your friendship.
+
+##### विशेषविषयगळु (Special Topics)
+
+अजाश्व (*ajāśva*)—हरी इंद्रस्य । रोहितोऽग्नेः । अजाः पूषः (*harī iṃdrasya | rohito 'gneḥ | ajāḥ pūṣaḥ*) (Ni. 2-28): thus the Nirukta authors state in order the vehicles of Indra and the others. The goat is Pūṣan's vehicle.
+Explaining this Ṛk, the Nirukta authors say अस्यॆ नः सातय उपभव, आहेळमानोऽक्रुध्यन्रिवानातिरभ्यस्तोऽजाश्वेति पूषणमाहाजाश्वाजा अजनाः (*asyè naḥ sātaya upabhava, āheḷamāno 'krudhyanrivānātirabhyasto 'jāśveti pūṣaṇamāhājāśvājā ajanāḥ*). They indicate that the verse prays: "O Pūṣan, whose horses are in the form of goats, not angry, bestowing your liberal gift, be right near us", and that the seer of the sūkta addressed Pūṣan as Ajāśva. Showing the derivation of the word ररिवान् (*rarivān*), they say रातिरभ्यस्तः (*rātirabhyastaḥ*): the root rā, of giving, reduplicated, that is doubled, has become ररिवान् (*rarivān*); they also show that it means one who gives liberally (Ni. 4-25).
+दस्म (*dasma*)—शत्रूणामुपक्षपयितः (*śatrūṇāmupakṣapayitaḥ*). Pūṣan is addressed as one who destroys enemies. The word दस्म (*dasma*) has two kinds of meaning: one meaning is destroyer of enemies, and beautiful
+
 ---
 
-**Progress note:** Done through printed p. 26. pp. 20-
+**Progress note:** Done through printed p. 32. pp. 27-32 (batch API)
