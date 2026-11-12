@@ -11290,6 +11290,146 @@ He who is dvijanmā, he alone is the hotā, the accomplisher of the homa: for on
 - होता (*hotā*)—the accomplisher of the homa, or the caller of the gods to the sacrifice
 - आयं (*āyaṃ*)—this Agni
 
+### Printed p. 462
+Śravasyā—desiring to obtain food in the form of the oblation. Viśvā—all. Vāryāṇi—the highly desired riches. Dadhe—he holds. Asmai—to this Agni. Yaḥ martaḥ—the man who. Dadāśa—offers (the oblation); (he). Sutukaḥ—will become a father with excellent wealth of sons.
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who has a twofold birth is the accomplisher of the oblation. Desiring to obtain food in the form of the oblation, this Agni holds all the highly desired riches. The man who offers oblations to this Agni will become a father with excellent wealth of sons.
+
+##### Printed English
+
+He is the offerer of oblations, who is of twofold birth; and, through desire for (sacrificial) food, has in his keeping all good things : the man who presents offerings to him is the parent of excellent offspring.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sutukaḥ—शोभनपुत्रः (*śobhanaputraḥ*): one who has excellent offspring of sons. The meaning of the word toka has been explained in this same volume, in the Special Topics of Ṛk 1-147-1; the sense is "one who has such an excellent son". The Nirukta author quotes the Ṛk
+
+स आ वक्षि महि न आ च सत्नि दिवस्पृथिव्योररतियुर्वत्योः । अग्निः सुतुकः सुतुकेभिरश्चै रभस्वद्भी रभस्वा एह गम्याः । (*sa ā vakṣi mahi na ā ca satni divaspṛthivyoraratiyurvatyoḥ | agniḥ sutukaḥ sutukebhiraścai rabhasvadbhī rabhasvā eha gamyāḥ |*) (Ṛ. Saṃ. 10-3-7)
+
+and here explains the word sutuka as सुतुकुनः सुतुकुनैरिति वा । सुप्रजाः सुप्रजोभिरिति वा । (*sutukunaḥ sutukunairiti vā | suprajāḥ suprajobhiriti vā |*) (Ni. 4-18). The word sutuka, formed from the root tuk in the sense of going, means "having excellent movement". He shows that in the Ṛk quoted there one meaning is possible: Agni who has horses of excellent gait and is himself of excellent movement; or another: Agni who is accompanied by horses of excellent birth and is himself of pure origin. Sāyaṇa, however, explains तुकिर्गत्यर्थः । सुगमः स्तोतृभिः यष्टृभिश्च सुखेन प्राप्तव्यः । (*tukirgatyarthaḥ | sugamaḥ stotṛbhiḥ yaṣṭṛbhiśca sukhena prāptavyaḥ |*), that is, one who is approached easily by the praisers.
+
+In
+
+न घा राजेंद्र आ दभन्नो या नु स्वसारा कृणवंत योन् । आपश्चिदस्मै सुतुका अवेषन्गमन्न इंद्रः सख्या वयश्च ॥ (*na ghā rājeṃdra ā dabhanno yā nu svasārā kṛṇavaṃta yon | āpaścidasmai sutukā aveṣangamanna iṃdraḥ sakhyā vayaśca ‖*) (Ṛ. Saṃ. 1-18-2)
+
+### Printed p. 463
+he explains शोभनबलहेतूनि (*śobhanabalahetūni*) ("causes of excellent strength") as an epithet of the oblations; and in
+
+आ संयतमिंद्र णः स्वस्तिं शत्रुतार्याय बृहतीममृध्रां । यया दासान्यार्याणि वृत्रा करो वज्रिन्तुसुका नाहुषाणि । (*ā saṃyatamiṃdra ṇaḥ svastiṃ śatrutāryāya bṛhatīmamṛdhrāṃ | yayā dāsānyāryāṇi vṛtrā karo vajrintusukā nāhuṣāṇi |*) (Ṛ. Saṃ. 6-2-10)
+
+he explains सुतुकानि शोभनहिंसोपेतानि (*sutukāni śobhanahiṃsopetāni*) ("subject to much slaughter") as an epithet of the enemies.
+
+But in the setting described in the present Ṛk, मर्तो यो अस्मै सुतुको ददाश (*marto yo asmai sutuko dadāśa*)—the mortal sacrificer who offers oblation to Agni becomes sutuka, that is, becomes the possessor of an excellent son; this is the natural sense.
+
+##### Grammar
+
+- दधे — डुधाञ् धारणपोषणयोः इति धातुः । छंदसि लुङ्लङ्लिटः (पा. सू ३-४-९) इति वर्तमानार्थे लिट् । प्रथमपुरुषैकवचनांतरूपम् । यच्छब्दसंबंधात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । **NOTE**
+- वाय्राणि — वृञ् वरणे इति धातुः । ऋहलोर्ण्यत् (पा. सू. ३-१-१२४) इति ण्यत् प्रत्ययः । अचोञ्णिति इति वृद्धिः । रपरः भवति । ईडवंदवृशंसदुहां ण्यतः (पा. सू. ६-१-२१४) इति आद्युदात्तस्वरः भवति ।
+- श्रवस्या — श्रवः आत्मनः इच्छति श्रवस्यति । सुप आत्मनः क्यच् (पा. सू ३-१-८) इति क्यच् प्रत्ययः । अप्रत्ययात् (पा. सू. ३-३-१०२) इति क्यजंतात् अकारप्रत्ययः । अजाद्यतष्टाप् इति टाप् । तस्मात् तृतीयाएकवचने परे सुपां सुलुक् (पा. सू ७-१-३९) इति तस्य आकारादेशः । क्यच्स्वरेण अंतोदात्तः भवति ।
+- मर्तः — मृज् प्राणत्यागे इति धातुः । असिहसिमृ (उ. सू. ३-३९३) इति तन् प्रत्ययः । प्रत्ययनिमित्तं धातोः इकः गुणः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- सुतुकः — शोभनं तोकं यस्य सुतुकः । छांदसः वर्णविकारः आगतः । द्व्यचस्तिजः (पा. सू. ६-३-१३५) इति उत्तरपदाद्युदात्तस्वरः भवति । **NOTE**
+- ददाश — दाश्य दाने इति धातुः । छांदसः वर्तमानार्थे लिट् । प्रथमपुरुषैकवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य निघातस्वरः भवति । ॥ ५ ॥
+
+### Printed p. 464
+## Sūkta 150 (Maṇḍala 1)
+The Anuvāda: this sūkta, beginning पुरु त्वा (*puru tvā*), is the tenth sūkta in the twenty-first anuvāka; it has three Ṛks. Its seer is Dīrghatamā Aucathya, the deity is Agni, the metre Uṣṇih. The Anukramaṇikā says: पुरु तृचमौष्ठिहं (*puru tṛcamauṣṭhihaṃ*). Its use is in the recitation of the Prātaranuvāka mantras and the Āśvinaśastra, for the Ṛks in the Uṣṇih metre; this is set out in the Āśvalāyana Śrauta Sūtra, in the section beginning अथैतस्या (*athaitasyā*), by the sūtra पुरु त्वा त्वामग्ने (*puru tvā tvāmagne*) (Ā. 4-13).
+
+Maṇḍala 1, Anuvāka 21, Sūkta 150; Aṣṭaka 2, Adhyāya 2, Varga 19; number of Ṛks in the sūkta: 3. Seer: Dīrghatamā Aucathya. Deity: Agni. Metre: Uṣṇih. (862, 331)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु त्वा॑ दा॒श्वान्वो॑चे॒रिर॑ग्ने॒ तव॑ स्वि॒दा ।  
+> तो॒दस्ये॑व शर॒ण आ म॒हस्य॑ ॥ १ ॥
+
+### Printed p. 465
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरु । त्वा । दाश्वान् । वोचे । अरिः अग्ने । तव । स्वित् । आ ।  
+> तोदस्य इव । शरणे । आ । महस्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वा त्वां पुरु बहु वोचे । यद्वा । बहु दाश्वानिति संबंधः । पुत्रं
+> देहि वित्तं देहीत्याद्याशासनानि ब्रवीमीत्यर्थः । किं तूष्णीं नेत्याह । यतो
+> दाश्वानभिमतं हविर्दत्तवानस्मि आतो वोचे । इतरसाधारण्येन ब्रुवतः कथं दातव्यमिति न मंतव्यं । यतोऽहं हे अग्नॆ तव स्वित्तवैवा अभिमुख्येनारिरर्ता हविरादि
+> प्रापणेन सेवकोऽहं । तत्र दृष्टांतः । महस्य महतस्तोवस्येव शिक्षकस्य स्वामिनः
+> शरणेऽस्य गृहे यथा गर्भदासादिरा समंतान्नियतो वर्तते तद्वदहमपि । यस्मादेवं तस्मादभिमतं बहु वोचे त्वमपि तत्सर्वं देहीत्यर्थः । अत्र निरुक्तं । बहु
+> दाश्वांस्त्वामेवाभिह्वयाम्यरिरमित्र ऋच्चतेः ईश्वरोऽप्यरिरेतस्मादेव । यदन्यदेवत्या अग्नावाहुतयो हूयंत इत्येतद्दृष्टैवमवक्ष्यत् तोदस्येव शरण आ
+> महस्य तुदस्येव शरणेऽधि महतः । नि. ५-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, I speak to you much": or else "much" is construed with दाश्वान् (*dāśvān*). The meaning is: I utter petitions such as "give a son, give wealth". He asks, why not be silent? Because I have given the desired oblation, therefore I speak. One should not think that, speaking like everyone else, how should he be given? For I am your own servant, O Agni, facing you, bringing oblations and the like. The illustration: as in the house of a great master who instructs, a servant born in the house is constantly in attendance, so am I. Since this is so, I say much that I desire; you also give all that. The Nirukta here: बहु दाश्वांस्त्वामेवाभिह्वयाम्यरिरमित्र ऋच्चतेः (*bahu dāśvāṃstvāmevābhihvayāmyariramitra ṛccateḥ*); the अरि (*ari*) is also a lord, from the same root; seeing that oblations for other deities are offered into Agni, he said thus; तोदस्येव शरण आ महस्य तुदस्येव शरणेऽधि महतः (*todasyeva śaraṇa ā mahasya tudasyeva śaraṇe 'dhi mahataḥ*) (Ni. 5-7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव स्विदा (*tava svidā*)—standing facing you
+- महस्य (*mahasya*)—who is in a high position
+- तोदस्येव आ शरणे (*todasyeva ā śaraṇe*)—(as a servant begs) in the house, before the master
+- अरिः (*ariḥ*)—I, (your) servant
+- पुरु (*puru*)—abundantly
+- दाश्वान् (*dāśvān*)—offering (oblations)
+- त्वा (*tvā*)—you
+- वोचे (*voce*)—I beg (saying "give wealth, sons and the like")
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as one who has been a servant since birth in the house of a master of high rank begs in humility before him, so I, your servant, standing facing you and offering you oblations, beg you to give wealth such as sons.
+
+##### Printed English
+
+Presenting many offerings, I address you, Agni, ever coming into your presence (like a servant) in the dwelling of a mighty master.
+
+### Printed p. 466
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the relation between Agni and the sacrificer is likened to that between master and servant. The sacrificer shows the humility of a servant.
+
+Tod­asyeva—in explaining this word the Nirukta author quotes and explains this very Ṛk. His explanation is as follows.
+
+बहुदाश्वांस्तामेवाभिह्वयाम्यरिरमित्र ऋच्चतेः । ईश्वरोऽप्यरिरेतस्मादेव। यदन्यदेवत्या अग्नावाहुतयो हूयंत इत्येतद्दृष्टैवमवक्षत् । तोदस्येव शरण आ महस्य—तुदस्येव शरणेऽधि महतः ॥ ( (*bahudāśvāṃstāmevābhihvayāmyariramitra ṛccateḥ | īśvaro 'pyariretasmādeva| yadanyadevatyā agnāvāhutayo hūyaṃta ityetaddṛṣṭaivamavakṣat | todasyeva śaraṇa ā mahasya—tudasyeva śaraṇe 'dhi mahataḥ ‖ (*) (Ni. 5-7)
+
+Beginning "O Agni, I am a generous giver of oblations; therefore I pray to you for gifts such as sons; being an excellent praiser, I am also the best qualified to compose hymns directed to you", he afterwards gives the derivation of the word ari. The word ari, from the root ṛ meaning "to injure", means an enemy. The master is likewise injurious toward the servant, so he too has the epithet ari.
+
+Since offerings to the other deities are also made through Agni, and since he has a deep belly like the depth of a great well, there is praise of Agni; thus he shows the derivation of the word tova. Durgācārya explains this simile thus:
+
+“ तोदस्य इव शरणे आ महस्य ”—तुन्नस्येव विदीर्णस्य कस्यचिच्छभ्रस्य कूपस्कोपरि । शरणे बिले । यथा हि श्वभ्रे बिले कस्मिंश्चिद्बृह्य अपो गच्छंति, न च तस्य श्वप्रस्य महतो ग्रहणशक्तिपरिहाणं भवति । एवं तवानेकाश्चानेकदेवताश्चाहुतीरस्माभिः प्रदत्ताः प्रतीच्छतो न सामर्थ्यपरिहाणमस्ति । अतो देवतानामस्माकं त्वमेवातिविशिष्टोपकारे प्रवृत्तः अतः त्वामेवाह्वयामि । (*“ todasya iva śaraṇe ā mahasya ”—tunnasyeva vidīrṇasya kasyacicchabhrasya kūpaskopari | śaraṇe bile | yathā hi śvabhre bile kasmiṃścidbṛhya apo gacchaṃti, na ca tasya śvaprasya mahato grahaṇaśaktiparihāṇaṃ bhavati | evaṃ tavānekāścānekadevatāścāhutīrasmābhiḥ pradattāḥ pratīcchato na sāmarthyaparihāṇamasti | ato devatānāmasmākaṃ tvamevātiviśiṣṭopakāre pravṛttaḥ ataḥ tvāmevāhvayāmi |*)
+
+"Because I am able to praise you, I myself invoke you. Moreover I am able to offer oblation liberally. The reason for invoking Agni alone is that his belly, like a deep well, can hold however much oblation is poured." Hence, according to the Nirukta's explanation, toda means a well and śaraṇa means a hole. But Sāyaṇa's meaning is contrary to this.
+
+### Printed p. 467
+Sāyaṇa explains the word toda as the master who instructs, śaraṇa as house, and ari as the sacrificer who gives oblations and stands in the place of a servant.
+
+In the Ṛk
+
+मध्यॆ होता दुरोणे बर्हिषो राळग्निस्तोदस्य सोदसी यजध्यै । अयं स सूनुः सहस ऋताना मूरात्सूर्यो न शोजिषा ततान ॥ (*madhyè hotā duroṇe barhiṣo rāḷagnistodasya sodasī yajadhyai | ayaṃ sa sūnuḥ sahasa ṛtānā mūrātsūryo na śojiṣā tatāna ‖*) (Ṛ. Saṃ. 6-12-1)
+
+Sāyaṇa explains toda as तुद्यते तपसा पीड्यत इति तोदः यजमानः । (*tudyate tapasā pīḍyata iti todaḥ yajamānaḥ |*): because he is wearied by performing the work of the fire, toda is the sacrificer. In the same sūkta,
+
+तेजिष्ठा यस्यारतिर्वनेराट् तोदो अध्वन्न वृधसानो अद्यात् । अद्रोघो न द्रविता चेतति त्वन्नमर्त्योऽवर्त्र ओषधीषु । (*tejiṣṭhā yasyāratirvanerāṭ todo adhvanna vṛdhasāno adyāt | adrogho na dravitā cetati tvannamartyo 'vartra oṣadhīṣu |*) (Ṛ. Saṃ. 6-12-3)
+
+he explains तोदः सर्वस्य प्रेरकः सूर्यः (*todaḥ sarvasya prerakaḥ sūryaḥ*). And in
+
+यासि कुत्सेन सरथमवस्युस्तोदो वातस्य हर्योरीशानः । ऋज्रा वाजं न गध्यं युयूषन्कविर्यदहन्सार्याय भूषात् । (*yāsi kutsena sarathamavasyustodo vātasya haryorīśānaḥ | ṛjrā vājaṃ na gadhyaṃ yuyūṣankaviryadahansāryāya bhūṣāt |*) (Ṛ. Saṃ. 4-16-11)
+
+the explanation given is तोदतः शत्रुणां हिंसकः (*todataḥ śatruṇāṃ hiṃsakaḥ*).
+
+Śaraṇe—Durgācārya, following the Nirukta author's view, explains this word as a hole. Since a dwelling is a spacious and sheltering place, it may be taken as hole or house according to context. In the Ṛk
+
+प्रियास इत्ते मघवन्नभिष्टौ नरो मदेम शरणे सखायः । नि तुर्वशं नि याद्वं शिशीह्यतिथिग्वाय शंस्यं करिष्यन् ॥ (*priyāsa itte maghavannabhiṣṭau naro madema śaraṇe sakhāyaḥ | ni turvaśaṃ ni yādvaṃ śiśīhyatithigvāya śaṃsyaṃ kariṣyan ‖*) (Ṛ. Saṃ. 7-19-8)
+
+it means house; and in
+
+उदुष्य शरणे दिवो ज्योतिरयंस्त सूर्यः । अग्निर्न शुक्रः समिधान आहुतः । (*uduṣya śaraṇe divo jyotirayaṃsta sūryaḥ | agnirna śukraḥ samidhāna āhutaḥ |*) (Ṛ. Saṃ. 8-25-19)
+
+he explains आदित्यस्य स्थाने नभसि । (*ādityasya sthāne nabhasi |*): since the sky is the spacious dwelling-place of the Sun, the word śaraṇa means sky.
+
 ---
 
-**Progress note:** Done through printed p. 461. pp. 454-461 (batch API)
+**Progress note:** Done through printed p. 467. pp. 462-467 (batch API)
