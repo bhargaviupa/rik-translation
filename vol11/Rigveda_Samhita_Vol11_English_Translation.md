@@ -2712,6 +2712,148 @@ Both his associated mothers, blackened ( by combustion ), are in movement and gi
 
 तृषुचुत्यं (*tṛṣucutyaṃ*) **NOTE**—तृष्टिति क्षिप्रनाम तरतेर्वा, त्वरतेर्वा (*tṛṣṭiti kṣipranāma taratervā, tvaratervā*) (Ni. 6-12). From the root तृ (*tṛ*), which gives the meaning "cross over (go forward)", or from the root which gives the meaning "move quickly"
 
+### Printed p. 110
+
+#### Ṛk 3 (continued)
+
+##### विशेषविषयगळु (Special Topics)
+
+The word तृषु (*tṛṣu*) is formed either from the root तृ (*tṛ*), which means "cross over" ("go forward"), or from the root त्वर् (*tvar*), which means "move quickly", and it gives the sense "with the greatest speed". तृषुच्युतं (*tṛṣucyutaṃ*) means "that appears swiftly, as soon as the churning of the araṇis is done".
+
+कुपयं (*kupayaṃ*)—for this word the scholar Monier Williams, in his dictionary called the Sanskrit-English Dictionary, cites this very Ṛk and first gives the meaning "heaving, swelling with emotion" (that is, boiling up, swelling upward). After that he also indicates the meaning Sāyaṇa gives, गोपनीयं (*gopanīyaṃ*), "to be protected".
+
+पितुः वर्धनं (*pituḥ vardhanaṃ*)—it means "the cause of the increase of the yajamāna, who is the cause of his own origin in the sacrificial rite and who is the performer of the sacrifice". From the most ancient times, gods, men and others who kindled Agni at the sacrificial ground have prospered and continue to prosper. This description is made in the passage:
+
+स इत्यब्रवीद्यो मद्देवत्यमग्निमादधाता इति तं पूषाधत्त तेन पूषार्ध्नोत्तस्मात्पौष्णाः पशव उच्यंते तं त्वष्टाधत्त तेन त्वष्टाद्र्नोत्तस्मात्वाष्ट्राः पशव उच्यंते तं मनुराधत्त तेन मनुरार्ध्नोत्तस्मान्मानव्यः प्रजा उच्यंते तं धाताधत्त तेन धातार्ध्नोत् । (*sa ityabravīdyo maddevatyamagnimādadhātā iti taṃ pūṣādhatta tena pūṣārdhnottasmātpauṣṇāḥ paśava ucyaṃte taṃ tvaṣṭādhatta tena tvaṣṭādrnottasmātvāṣṭrāḥ paśava ucyaṃte taṃ manurādhatta tena manurārdhnottasmānmānavyaḥ prajā ucyaṃte taṃ dhātādhatta tena dhātārdhnot |*) (Tai. Saṃ. 1-5-1) **NOTE**
+
+Agni gave the boon: "To those who establish Agni as my divinity, all kinds of prosperity will come." Afterwards Pūṣan, Tvaṣṭṛ, Manu and Dhātṛ all established Agni, and all of them prospered. As is said in these sentences of the Taittirīya Saṃhitā, पितुः वर्धनं (*pituḥ vardhanaṃ*) means "Agni, who is the cause of the increase of the yajamāna who is the cause of his origin". This praise states the matter set out in Ṛks such as
+
+समिधा यस्त आहुतिं निशितिं मर्त्यो नशत् ।; वयावंतं स पुष्यति क्षयमग्ने शतायुषं ॥ (*samidhā yasta āhutiṃ niśitiṃ martyo naśat |; vayāvaṃtaṃ sa puṣyati kṣayamagne śatāyuṣaṃ ‖*) (Ṛ. Saṃ. 6-2-5).
+
+##### Grammar
+
+- कृष्णपुत्—पुज् गत् धातुः । कृष्णं कृष्णवर्णतां प्राप्नुवत्यौ कृष्णपुत् । क्विषा प्रत्ययः । ह्रस्वस्यपिति कृति तुक्—(पा. सू. ६-१-७१) इति धातोः तुकागमः । समासे कृदुत्तरपदप्रकृतिस्वरः भवति । द्विवचनांतरूपम् ।
+
+### Printed p. 111
+
+- वेविजे—ओविजी भयचलनयोः धातुः । अस्मात् यज् आगते यजोचिच—(पा. सू. २-४-७४) इति लुक् । व्यत्ययो बहुलम्—इति आत्मनेपदं एकवचनप्रत्ययश्च भवति । प्रथमपुरुषएकवचने तप्रत्ययः । टेः एत्वम् । धातोः यज्निमित्तं द्वित्वे आगते गुणोयज् लुकोः—(पा. सू. ६-४-८२) इति अभ्यासस्य गुणः । लोपस्त आत्मनेपदेषु—(पा. सू. ७-१-४१) इति प्रत्ययस्य तकारस्य लोपः । अस्य इत्वातिदेशः अस्ति इति हेतोः धातोः लघूपधस्य गुणो न भवति । चादिलोपे विभाषा—(पा. सू. ८-१-६३) इति निघातस्वरप्रतिषेधात् प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- सक्षिता—समानं क्षयंतौ सक्षितौ । क्षिनिवासगत्योः धातुः । क्विप् प्रत्ययः । तं निमित्तीकृत्य ह्रस्वस्य तुकागमः । समानस्य सभावः । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- उभा, मातरा—एतयोः द्विवचने औकारविभक्तौ परे सुपां सुलुक्—इति तस्य आकारादेशः भवति ।
+- तरेते—त्या प्लवनतरणयोः धातुः । लट् प्रथमपुरुषद्विवचनांतरूपम् । अतिजंतस्य पदत्वात् निघातस्वरः भवति ।
+- प्राचाजिह्वम्—प्राचि जिह्वा यस्य सः प्राचाजिह्वः तम् प्राचाजिह्वम् । छांदसत्वेन पूर्वपदस्य आत्त्वम् । बहुव्रीहौ प्रकृत्या पूर्वपदमं इति पूर्वपद प्रकृतिस्वरः भवति ।
+- ध्वसयंतवं—ध्वंसु अवस्रंसने धातुः । हेतुमति च—(पा. सू. ३-१२-६) इति णिच् । छंदस्युभयथा—(पा. सू. ३-४-११७) इति अस्य सार्वधातुकसंज्ञात्वात् जात्वं भवति । तस्मात् धातोः उपधानकारस्य लोपः । णिजंतात् लडर्थे शतृप्रत्ययः । शप्‌विकरणम् । तं निमित्तीकृत्य णिचः गुणः । अयादेशः । द्वितीया एकवचनांतरूपम् । लसार्वधातुकस्य अनुदात्तत्वात् णिच्‌स्वरः अवशिष्यते । **NOTE**
+- तृषुच्युतम्—तृषु ज्योतति इति तृषुच्युत् । च्युतिर् क्षरणे धातुः । क्विप् च—इति क्विप् प्रत्ययः । कृदुत्तरपद प्रकृतिस्वरः भवति । द्वितीया एकवचनांतरूपम् ।
+- साच्यम्—पच समवाये धातुः । धात्यादेःषःसः—इति सत्वम् । ऋहलोर्ण्यत्—(पा. सू. ३-१-१२४) इति ण्यत् प्रत्ययः । अतउपधायाः—(पा. सू. ७-१-११६) इति धातोः उपधायाः वृद्धिः ।
+- वर्धनम्—वृधु वृद्धौ धातुः । अंतर्भावितुण्यर्थकधातुः । अस्मात् कर्तरि ल्युट् प्रत्ययः । युवोरनाकौ—(पा. सू. ७-२-१) इति अनादेशः । तं निमित्तीकृत्य
+
+### Printed p. 112
+
+- धातोः लघूपधस्य गुणः । रपरत्वेन आगच्छति । लिति (पा. सू. ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मु॒मु॒क्षो॒३॒॑3 मन॑वे मानवस्य॒ते र॑घु॒द्रुवः॑ कृ॒ष्णसी॑तास ऊ॒  ॑
+> जुवः ।  
+> अ॒स॒म॒ना अ॑जि॒रासो॑ रघु॒ष्यदो॒ वात॑जूता॒ उप॑ युज्यंत  ॒॑
+> आशवः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुमुक्षुः । मनवे । मानवस्यते । रघुद्रुवः । कृष्णसीतासः। ऊं इति । जुवः ।  
+> असमनाः । अजिरासः । रघुस्यदः । वात्सजूताः । उप । युज्यंते । आशवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनवे मननवते मानवस्यते मानवानृत्विजः कर्मार्थमिच्छते यजमानाय
+> तदर्थमध्वय्यादिभिरग्नेज्वाला उप युज्यंते यज्ञेषु । सूक्तस्याग्नेयत्वाद्चित्याज्वाला इति गम्यते । कीदृश्यस्ताः । मुमुक्ष्वो मुमुक्षव आहुतिद्दारा यजमानं मोक्तुमिच्छंत्यो ब्रह्मलोकं प्रापयंत्यः ॥ जसादिषु च्छंदसि नावचनमिति
+> गुणाभावः ॥ ज्वालानामाहुतिद्वारा ब्रह्मलोकप्राप्तिसाधनत्वं काली करालीत्युपक्रम,
+> श्रूयते । एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन्
+> तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः । मुं. उ
+> १-२-४, ५। इति । रघुद्रुवः क्षिप्रं गच्छंत्यः कृष्णसीतासः कृष्णमार्गाः । उकारः समुच्चयार्थः । जुवो जवनशीलाः शीघ्रकारिण्यः स्वव्यापारेषु असमना असमानमनस्काः ।
+> काश्चन प्राङ्मुख्यो गच्छंति काश्चन प्रत्यङ्मुख्य इति विविधमनस्काः ॥ व्यत्ययेनैकवचनं ॥ यद्वा । असमना भिन्नवर्णाः । भिन्नवर्णत्वं च तत्रैव श्रूयते । काली
+> कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्पुलिंगिनी विश्वभुवी च
+> देवी लेलायमाना इति सप्त जिह्वा इति । अजिरासो गमनशीलाः रघुस्यदः शीघ्रं
+
+##### Gist of the bhāṣya
+
+मनवे (*manave*) means "to the one possessed of thought (manana)"; मानवस्यते (*mānavasyate*) means "to the yajamāna who desires men, the priests, for the sake of the rite". For him, for that purpose, the flames of Agni are yoked (उप युज्यंते (*upa yujyaṃte*)) by the Adhvaryu and others in the sacrifices. Since the sūkta is addressed to Agni, it is understood that the "flames" are those of Agni. What are they like? मुमुक्ष्वो (*mumukṣvo*): wishing to release the yajamāna by means of the oblation, causing him to reach Brahmaloka. That the flames are the means of reaching Brahmaloka through the oblation is heard in the passage beginning काली कराली (*kālī karālī*), "Whoever moves among these shining ones, and the oblations at the proper time draw him, these rays of the sun lead him to where the one lord of the gods dwells" (Muṇḍaka Upaniṣad 1-2-4, 5) **NOTE**. रघुद्रुवः (*raghudruvaḥ*): going swiftly. कृष्णसीतासः (*kṛṣṇasītāsaḥ*): having dark paths. The particle उ (*u*) has the sense of "and". जुवः (*juvaḥ*): of swift nature, quick in their own functions. असमनाः (*asamanāḥ*): of unequal mind; some go facing east, some facing west, so they are of diverse minds; the singular form is by interchange of number. Or else असमनाः (*asamanāḥ*) means "of different colours", and this different-colouredness is heard in that very place: "Kālī, Karālī, Manojavā, Sulohitā, and she of fine smoky colour, Sphuliṅginī, and the goddess Viśvabhuvī, shining—these are the seven tongues." अजिरासः (*ajirāsaḥ*): of moving nature; रघुस्यदः (*raghusyadaḥ*): flowing swiftly (the text continues on the next page).
+
+### Printed p. 113
+
+> स्यंदमानाः वातजूता वातप्रेरिताः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं ॥
+> आशवो व्यापनशीलाः ॥
+
+##### Gist of the bhāṣya
+
+वातजूताः (*vātajūtāḥ*): urged on by the wind; the preceding member keeps its own accent, because the third case is in relation to the action. आशवः (*āśavaḥ*): of pervading nature.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मुमुक्षुः (*mumukṣuḥ*)—those (flames) that win Brahmaloka for the yajamāna through the oblation and make him liberated
+- रघुद्रुवः (*raghudruvaḥ*)—swift-goers
+- कृष्णसीतासः (*kṛṣṇasītāsaḥ*)—those having dark paths
+- जुवः (*juvaḥ*)—quick in their (burning) functions
+- असमनाः (*asamanāḥ*)—those that spread and burn in different directions, or those of different colours
+- अजिरासः (*ajirāsaḥ*)—those of a roaming nature
+- रघुस्यदः (*raghusyadaḥ*)—those that flow swiftly and burn (charmingly)
+- वातजूताः (*vātajūtāḥ*)—those fanned by the wind
+- आशवः (*āśavaḥ*)—those that pervade (all around); the (flames of Agni)
+- मनवे (*manave*)—to the one full of faith
+- मानवस्यते (*mānavasyate*)—to the yajamāna who desires and honours priests (for the sake of the rite)
+- उप युज्यंते (*upa yujyaṃte*)—are kindled together
+
+##### भावार्थ (Bhāvārtha)
+
+The flames of Agni—which win Brahmaloka for the yajamāna through the oblation and make him liberated; which are swift-goers, of dark path, quick in their burning actions, spreading and burning in different directions, of a roaming nature, flowing swiftly and burning charmingly, fanned by the wind, pervading all around—are kindled together for the sake of the yajamāna, who is full of faith and who desires and honours priests for the sake of the rite.
+
+##### Printed English
+
+The (flames of Agni), light-moving, dark-trackel, quick (consuming), capricious, restless, lambent, fanned by the wind, wide-spreading, and ensuring liberation (to the devout), are kindled for (the benefit of) the pious reverencer of (holy) priests
+
+##### विशेषविषयगळु (Special Topics)
+
+ममुक्षुः आहुतिद्वारा यजमानं मोक्तुमिच्छंत्यः ब्रह्मलोकं प्राप यंत्यः । (*mamukṣuḥ āhutidvārā yajamānaṃ moktumicchaṃtyaḥ brahmalokaṃ prāpa yaṃtyaḥ |*). This is a laudatory epithet of the flames: those that win Brahmaloka for the yajamāna and make him liberated. The Śatapatha Brāhmaṇa states that Agni gives a boon: that he will provide the fruit of the other world to the yajamāna who has established Agni on the earthly sacrificial altar and offered oblations.
+
+यत्र वै प्रजापतिः प्रजाः सस्यजे । स यत्राग्निं सस्यजे स इदं जातः सर्वमेव दग्धुं दध्र इत्येवाबिलमेव ता यास्तर्हि प्रजा असुस्ता हैनं (*yatra vai prajāpatiḥ prajāḥ sasyaje | sa yatrāgniṃ sasyaje sa idaṃ jātaḥ sarvameva dagdhuṃ dadhra ityevābilameva tā yāstarhi prajā asustā hainaṃ*) (the quotation continues on the next page)
+
+### Printed p. 114
+
+संपेष्टुं दध्रिरे सोऽतितिक्षमाणः पुरुषमेवाभ्येयाय । स होवाच । न वा अहमिदं तितिक्षे हन्त त्वा प्रविशानि तं मा जनयित्वा बिभृहि स यथैव मां त्वमस्मिंल्लोके जनयित्वा भरिष्यस्येवमेवाहं त्वाममुष्मिंल्लोके जनयित्वा भरिष्यामीति । (*saṃpeṣṭuṃ dadhrire so 'titikṣamāṇaḥ puruṣamevābhyeyāya | sa hovāca | na vā ahamidaṃ titikṣe hanta tvā praviśāni taṃ mā janayitvā bibhṛhi sa yathaiva māṃ tvamasmiṃlloke janayitvā bhariṣyasyevamevāhaṃ tvāmamuṣmiṃlloke janayitvā bhariṣyāmīti |*)
+
+When Prajāpati created Agni, he spread all around to burn up the whole world. Then the creatures created by Prajāpati himself set about destroying Agni. Unable to bear it, Agni came to Manu (man) and said: "I cannot withstand the retaliation that arises from you. I shall enter into you. Bear me, causing me to be born in sacrificial houses and the like. To those who do so, I shall make things well in the other world"—thus he gives the boon. In the Aitareya Brāhmaṇa too, the fruit of the Agni-oblation is praised in
+
+सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिः । (*saiṣā svargyāhutiryadagnyāhutiḥ |*) (Ai. Brā. 1-16).
+
+Similarly,
+
+एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन् । तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः । (*eteṣu yaścarate bhrājamāneṣu yathākālaṃ cāhutayo hyādadāyan | taṃ nayaṃtyetāḥ sūryasya raśmayo yatra devānāṃ patireko 'dhivāsaḥ |*) (Muṇḍaka Upaniṣad 1-2-5) **NOTE**
+
+As the Muṇḍaka and other Upaniṣads praise the fruit of offering oblations—that to the yajamāna who offers oblations at the appointed times into these shining flames of fire, the oblations, transformed into the rays of the sun, bring the station of the lord of the gods—so here too the flames of Agni that receive the oblations are described.
+
+रघुद्रुवः (*raghudruvaḥ*)—क्षिप्रं गच्छंत्यः (*kṣipraṃ gacchaṃtyaḥ*): those that move swiftly.
+
+असमनाः (*asamanāḥ*)—असमानमनस्काः । काश्चन प्राङ्मुख्यो गच्छंति काश्चन प्रत्यङ्मुख्यः इति विविधमनस्काः (*asamānamanaskāḥ | kāścana prāṅmukhyo gacchaṃti kāścana pratyaṅmukhyaḥ iti vividhamanaskāḥ*). The meaning is: those whose nature is to spread and burn towards various directions. Or else असमना भिन्नवर्णाः (*asamanā bhinnavarṇāḥ*): it can be understood as "those having different colours".
+
+काली कराली च मनोजवा च सुलोहिता या च सूधूम्रवर्णा । स्फुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः । (*kālī karālī ca manojavā ca sulohitā yā ca sūdhūmravarṇā | sphuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ |*) (Muṇḍaka. 1-2-4)
+
+The black-coloured one, the one of terrible form, the one swift as the mind, the one of exceedingly red colour, the brown-coloured one, the one of gleaming lustre, the one shining everywhere, the divine one—
+
+### Printed p. 115
+
+since there is this description of the tongues, which are forms of flame, Sāyaṇa has explained that असमनाः (*asamanāḥ*) can also be understood as "of different colours".
+
+##### Grammar
+
+- मुमुक्षुः—मुच्‌ल्य मोक्षणे धातुः । मोक्तुं इच्छंत्यः मुमुक्षवः । सनाशंसभिक्ष उः—(पा. सू. ३-२-१६८) इति सन्नंतात् उ प्रत्ययः । मुमुक्षुः इति रूपं भवति । प्रत्ययस्वरेण अंतोदात्तं भवति । अस्मात् जस् परे जसिच—इति गुणः प्राप्तश्चेत् जसादिषु छंदसि वा वचनम्—इति वचनेन विकल्पितत्वात् न भवति । यणादेशः । उदात्तस्थाने यणादेशे आगते तत्परे विभक्तौ आगतायां उदात्तस्वरयोर्यणः—(पा. सू. ८-२-४) इति स्वरितस्वरः भवति ।
+- मानवस्यते—मानवान् आत्मनः इच्छति मानवस्यति सुप आत्मनः क्यच्—(पा. सू. ३-१-८) इति इच्छार्थे क्यच् प्रत्ययः । सर्वप्रातिपदिकानां क्यचि लालसायां सुगसुता—(पा. सू. ७-१-५१-१) इति क्यच् परे सुकागमः । सनाद्यंता धातवः—इति धातुसंज्ञा । क्यजंतात् लडर्थे शतृ प्रत्ययः । चतुर्थीएकवचनांतरूपम् । नुम्‌रहितस्य शतृवः परे विभक्तौ आगतायां शतुरनुनो नद्यजादी—(पा. सू. ६-१-१७३) इति विभक्तेः उदात्तस्वरः भवति ।
+- रघुद्रुवः—लघु द्रुवंति इति रघुद्रुवः द्रु गतौ धातुः । भ्वादिः । क्विप् चॆ—(पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । पूर्वपदे वालमूललघ्वल—(पा. म. ८-२-१८) इति लत्वविकल्पः । प्रथमाबहुवचनांतरूपम् । कृदुत्तरपदप्रकृतिस्वरः भवति । **NOTE**
+- कृष्ण सीतासः—कृष्णाः सीताः येषां ते । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति । जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य आसुकागमः ।
+- जुवः—जु धातुः सूत्रमात्रनिर्दिष्टः गत्यर्थे प्रयुक्तः अस्ति । अस्मात् क्विप् प्रत्ययः । जस् परे उपजादेशः ।
+- असमनाः—न विद्यते समानं मनः येषां ते । व्यत्ययो बहुलं इति बहुवचनस्य एकवचनप्रत्ययः । नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति ।
+- अजिरासः—अज गतिक्षेपणयोः धातुः । अजिरशिशिर—(उ. सू. १-५३) इति किरच् प्रत्ययांतत्वेन निपातितम् । चितः (उ. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । जस् परे पूर्ववत् तस्य असुकागमः । **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 109. pp. 103-109 (batch API)
+**Progress note:** Done through printed p. 115. pp. 110-115 (batch API)
