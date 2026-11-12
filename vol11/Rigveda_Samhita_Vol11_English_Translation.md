@@ -5053,6 +5053,217 @@ in this Ṛk: कारे । कीर्यंत आयुधान्यत
 > रश्मीन् ऽइव । यः । यमति । जन्मनी इति । उभे इति । देवानां ! शंसं । ऋते । आ ।  
 > च । सुक्रतुः ॥ ११ ॥
 
+### Printed p. 208
+#### Ṛk 11 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमस्मे अस्मासु स्वर्थं सुष्ठरणीयं दमूनसं दमनीयमुपार्ज्य० ॥ दमेरूनसिः । उ. ४-२३४ । इत्यूनसिप्रत्ययः ॥ रयिं न पपृचासि धनं
+> यथा संपृणक्षि । तथा भगं सर्वैर्भजनीयं दक्षं नोत्साहवंतं प्रबुद्धं वा
+> धर्णसिं विद्यादिधारणकुशलं पुत्रं यथा पपृचासि संपृणक्षि । उभयमपि ददासीत्य
+> र्थः ॥ पृची संपर्के । लेट्याडागमः। बहुलं छंदसीति विकरणस्य श्लुः । इदानीं
+> परोक्षेणाह । योऽग्नी रश्मीरिव स्वकीयान्रश्मीन्यथा यमति नियमयति विस्तारयति
+> तद्वत् स उभे जन्मनी जननाधारभूतावुभौ लोकाविहलोकपरलोकौ यमति नियच्छति । तथा सुक्रतुः शोभनकर्मायमृतेऽस्मदीययज्ञे देवानां देवसंबंधिनं
+> शंसं स्तवं चा यमति आयच्छति सर्वदा ददाति । यद्वा । पूर्वार्धे पपृचासीत्यपि
+> परोक्षत्वाय प्रथमपुरुषतया योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, among us you bestow what is "svartha", which Sāyaṇa glosses as "to be well attained", and "damūnasa", glossed as "to be tamed, to be acquired" (the suffix is given by Uṇ. Sū. 4-234). "As you fill up wealth, so you fill up a son": one who is "bhaga" (to be shared in, to be loved by all), "dakṣa" (energetic, or awakened) and "dharṇasi" (skilled in bearing learning and the like). The sense is that Agni gives both. He then speaks indirectly: Agni, as he extends his own rays, so he holds both worlds, the place of birth, this world and the other, in control. In the same way, being "sukratu" (of good works), he constantly bestows on our sacrifice the praise that belongs to the gods. Or else, in the first half, "papṛcāsi" should also be construed in the third person, for the sake of indirect address.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- अस्मे (*asme*)—to us
+- रयिं न (*rayiṃ na*)—as you give wealth
+- स्वर्थं (*svarthaṃ*)—one who is greatly desired
+- दमूनसं (*damūnasaṃ*)—one who is good, virtuous
+- भगं (*bhagaṃ*)—one who is an object of affection
+- दक्षं (*dakṣaṃ*)—one who is capable
+- धर्णसिं (*dharṇasiṃ*)—a son fit to bear learning
+- पपृचासि (*papṛcāsi*)—you graciously give
+- यः (*yaḥ*)—that Agni who
+- रश्मी इव (*raśmī iva*)—as he spreads out his rays
+- उभे जन्मनी (*ubhe janmanī*)—the two worlds that are his mothers (his birth-places)
+- यमति (*yamati*)—regulates and extends (so)
+- सुक्रतुः (*sukratuḥ*)—Agni, whose work is excellent
+- ऋते (*ṛte*)—in our sacrifice
+- देवानां (*devānāṃ*)—addressed to the gods
+- शंसं च (*śaṃsaṃ ca*)—the praise also
+- आ (यमति) (*ā (yamati)*)—regulates and extends
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, just as you graciously give us excellent wealth, you graciously give a son who is greatly desired, virtuous, an object of everyone's affection, capable, and fit to bear learning. That same Agni, as he spreads out his rays, makes the two worlds that are his birth-places (heaven and earth) spread out too. In the same way Agni, who is endowed with excellent works, regulates and extends in our sacrifice the praise addressed to the gods.
+
+##### Printed English
+
+In like manner as you confer upon us riches, (so you bestow
+npon us) a well-disposed, obedient, and energetic (son); the receptacle (of
+
+### Printed p. 209
+learning and other merits), one who is the performer of holy rites. Agni, who
+regulates as it were his own rays, (and the condition of) both (his) births, (or
+heaven and earth), he regulates at (our) sacrifice the adoration of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk are described Agni's generosity in giving wealth such as a son, his power of extending heaven and earth, and his favour in regulating and extending the praise of the worshippers.
+
+स्वर्थं (*svarthaṃ*)—"suṣṭhu araṇīyam". It is an epithet of the son, with the sense "one who follows an excellent aim" or "one whose conduct is excellent". It is understood from the explanation of the Nirukta-kāra (Ni. 1-18) that, being formed from the root अर् (*ar*) meaning "to go", it can give the sense "one who has excellent conduct and action", or, taking the word अर्थ (*artha*) to mean "purpose", "one who seeks an excellent purpose".
+
+दमूनसं (*damūnasaṃ*)—"damanīyam upārjyam"; the purport is "one who is good". For the word दमूनाः (*damūnāḥ*) the Nirukta-kāra's explanation (Ni. 4-5) is दममना वा दानमना वा दांतमना वा । अपि ना दम इति गृहनाम तन्मनाः स्यात् । (*damamanā vā dānamanā vā dāṃtamanā vā | api nā dama iti gṛhanāma tanmanāḥ syāt |*). That passage was quoted and the further meanings of this word were given in the Special Topics of Ṛk 1-140-10 of this same volume. In the present Ṛk it can be understood as a son who is self-controlled and full of modesty.
+
+भगं (*bhagaṃ*)—In the previous Ṛk, quoting the Nirukta sentence भगो भजतेः (*bhago bhajateḥ*), it was said that the word gives the sense "worshipful". Here it must be said to mean a son who is an object of affection.
+
+धर्णसिं (*dharṇasiṃ*)—The Nirukta-kāra has read the word धर्णसि (*dharṇasi*) among the names of strength (Ni. 3-9). The word is generally used in the sense of a power that supports. For example, in
+आ धर्णसिबर्ृहद्दिवो रराणो विश्वेभिर्गन्वोमभिर्हुवानः । ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृंगो वृषभो वयोधाः ॥ (*ā dharṇasibarṛhaddivo rarāṇo viśvebhirganvomabhirhuvānaḥ | gnā vasāna oṣadhīramṛdhrastridhātuśṛṃgo vṛṣabho vayodhāḥ ‖*)
+(Ṛ. Saṃ. 5-43-13)
+it is used as an epithet of Agni with the meaning सर्वस्य धारकः (*sarvasya dhārakaḥ*), and in
+आ वच्यस्व महि प्सरो वृषेंदो द्युम्नवत्तमः । आ योनिं धर्णसिः सदः । (*ā vacyasva mahi psaro vṛṣeṃdo dyumnavattamaḥ | ā yoniṃ dharṇasiḥ sadaḥ |*)
+(Ṛ. Saṃ. 9-2-2)
+with the meaning धर्ता त्वं (*dhartā tvaṃ*), "you who are the supporter", addressed to Soma; and likewise in other places it is used with a meaning that indicates the power of bearing. In the present Ṛk he has explained it as विद्यादिधारणकुशलं पुत्रं (*vidyādidhāraṇakuśalaṃ putraṃ*) (a son skilled in bearing learning and the like), that is,
+
+### Printed p. 210
+a son with the power fit for grasping and bearing learning.
+
+पपृचासि (*papṛcāsi*)—Earlier it was said that the word पपृचानासः (*papṛcānāsaḥ*) has a sense indicating undivided connection. Here too the prayer is: "make a connection between us and an excellent son", that is, "graciously give a son who is the object of the highest regard"; or else the assurance is also indicated that "you will surely give to the sacrificers". On the basis of sentences in Ṛks such as
+अग्निस्तुविश्रवस्तमं शुविब्रह्माणमुत्तमं । आतूर्तं श्रावयत्पतिं पुत्रं ददाति दाशुषे ॥ (*agnistuviśravastamaṃ śuvibrahmāṇamuttamaṃ | ātūrtaṃ śrāvayatpatiṃ putraṃ dadāti dāśuṣe ‖*)
+(Ṛ. Saṃ. 5-25-5)
+that Agni graciously gives to the sacrificer who offers the oblation a son who is unobstructed, excellent, and one who brings good fame to his father and others, that assurance is shown in the present Ṛk also.
+
+उभे जन्मनी यमति (*ubhe janmanī yamati*)—जनानाधारभूतौ उभौ लोकौ यमति नियच्छति (*janānādhārabhūtau ubhau lokau yamati niyacchati*). The meaning is that he regulates and extends heaven and earth, the causes of his own origin. As described in Ṛks such as
+अजो न क्षां दाधार पृथिवीं तस्तंभ द्यां मंत्रेभिः सत्यैः । प्रिया पदानि पश्वो नि पाहि विश्वायुरग्ने गुहा गुहं गाः ॥ (*ajo na kṣāṃ dādhāra pṛthivīṃ tastaṃbha dyāṃ maṃtrebhiḥ satyaiḥ | priyā padāni paśvo ni pāhi viśvāyuragne guhā guhaṃ gāḥ ‖*)
+(Ṛ. Saṃ. 1-62-3)
+he upheld heaven and earth; and the purport is that, as he spreads his rays, he lights up these worlds and makes them spread out.
+
+शंसं च आ यमति (*śaṃsaṃ ca ā yamati*)—स्तवं च आयच्छति सर्वदा ददाति (*stavaṃ ca āyacchati sarvadā dadāti*). The meaning is that he always offers to the gods the praise in the form of invitation. Because Agni is the Hotṛ of the sacrifice, and because sentences such as
+वाग्वै यज्ञस्य होता तद्येयं वाक्सोऽयमग्निः स होता स मुक्तिः सातिमुक्तिः । (*vāgvai yajñasya hotā tadyeyaṃ vākso 'yamagniḥ sa hotā sa muktiḥ sātimuktiḥ |*)
+(Bṛ. U. 3-1-3)
+declare the identity of the word of praise with the Hotṛ, Agni, being the Hotṛ and the presiding deity of speech, makes the praise spread out; this is the purport.
+
+##### Grammar
+
+- अस्मे — अस्मद् शब्दः । तस्मात् सप्तमीबहुवचने परे सुपां सुलुक्—(पा. सू. ७-१-३९) इति शे आदेशः । सुपर्यंतस्य शेषस्य लोपः ।
+
+### Printed p. 212
+**NOTE**
+- दमूनसम् — दमु उपशमे इति धातुः । तस्मात् दमेरूनसिः (उ. सू. ४-६७८) इति ऊनसिप्रत्ययः । तत्र इकारस्य इत् संज्ञा । दमूनस् शब्दो भवति । द्वितीयाएकवचनांतरूपम् । **NOTE**
+- पपृचासि — पृची संपर्के इति धातुः । लेट् मध्यमपुरुषएकवचने सिप् प्रत्ययः । लेटोऽडाट्—(पा. सू. ३-४-९४) इति तस्य आडागमः । बहुलं छंदसि—इति विकरणस्य श्लु आदेशः । श्लु—(पा. सू. ६-१-१०) इति धातोर्द्वित्वम् । उरत्—(पा. सू ७-४-६६) इति अभ्यासऋवर्णस्य अत्त्वम् । आदिहल्‌शेषः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- धर्णसिम् — धृञ धारणे इति धातुः । सानसिर्धसि पर्णसि—(उ. सू. ४-५४७) इति असिच् प्रत्ययांतत्वेन निपातितः । चित्त्वात् चितः—(पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । द्वितीयाएकवचनांतरूपम् ।
+- यमति — यम उपरमे इति धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । छांदसत्वात् छत्वं न भवति । यः इति यच्छब्दसंबंधात् यद्वृत्तान्नित्यम्—(पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । शप् । तिप् । पित्त्वात् अनुदात्तत्वात् धातुस्वरः शिष्यते । **NOTE**
+- जन्मनी — जनी प्रादुर्भावे इति धातुः । अन्येभ्योऽपि दृश्यंते—(पा. सू. ३-२-७५) इति मनिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । द्विवचनांतरूपम् ।
+- शंसम् — शंसु स्तुतौ इति धातुः । हलश्च—(पा. सू. ३-३-१२१) इति घञ् प्रत्ययः । इत्यादिर्नित्यम्—इति आद्युदात्तस्वरो भवति ।
+- सुक्रतुः — शोभनः क्रतुः यस्य सः सुक्रतुः । क्रत्वादयश्च—(पा.सू. ६-२-११८) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॑ सु॒द्योत्मा॑ जी॒राश्वो॒ होता॑ मं॒द्रः शृ॑णवच्चं॒द्र  ॑
+> रथः ।  
+> 212 सायणभाष्यसंहिता [मं. १. अ. २१. सू. १४१  
+> स नो॑ नेष॒न्नेष॑तमै॒रमू॑रो॒s ग्निर्वा॒मं सु॑वि॒तं वस्यो॒  ॑
+> अच ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । सुद्योत्मा । जीरअश्वः । होता । मंद्रः । शृणवत् । चंद्ररथः ।  
+> सः । नः । नेषत् । नेषतमैः । अमूरः । अग्निः । वामं । सुवितं । वस्यः । अच्छ ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतशब्दोऽप्यर्थः । स च संभावनायां । सोऽग्निर्नोऽस्मदीयमाह्वानमुत शृणवत् । अपि नाम शृणुयात् । यद्वा । नोऽस्मान् श्रावयेत् । देवेषु
+> मध्यॆ प्रख्यापयेत् ॥ शृणोतेर्लॆट्यडागमः ॥ कीवृशोऽयं । सुद्योत्मा
+> सुद्योतमानः ॥ द्युत दीप्तौ । अन्वेभ्योऽपि दृश्यंत इति मनिन् ॥ जीराश्वः शीघ्रगमनाश्वः होता देवानामाह्वाता मंद्रो मदनशीलः चंद्ररथः सुवर्णमयरथोपेतः । किंचायममूरोऽमूढबलो वस्यो वसनीयः स प्रसिद्धोऽग्निर्नॆषतमैरत्यर्थं नेतृभिः कर्मभिः स्तोत्रैर्वा नोऽस्म्यानुत नेषत् । अपि नाम
+> नयेत् । यज्ञस्य पारं प्रापयेत् ॥ नयतेर्लॆट्यडागमः । सिब्बहुलमिति सिप् ॥
+> किमर्थं । वामं वननीयं सुवितं सुष्टु प्राप्यं सर्वैः कांक्षणीयं स्वर्गमच्छाभिमुख्येन प्राप्तं नेषत् ॥
+
+##### Gist of the bhāṣya
+
+The word उत (*uta*) is the particle "api" (even, indeed), and here it expresses possibility: may that Agni hear our invocation, "may he indeed hear". Or else: may he make us heard, announce us among the gods. (The augment *aḍ* in the Leṭ form of *śṛṇoti* is noted.) What kind is he? "Sudyotmā" is "well-shining" (root द्युत (*dyuta*), to shine). "Jīrāśva" is one whose horses go swiftly; "hotā" is the one who invokes the gods; "mandra" is one of joyous nature; "candraratha" is one who has a golden chariot. Further, this one is "amūra", of undeluded (unfailing) strength, and "vasya", "to be dwelt with". That well-known Agni, by his most guiding actions or praises, may lead us, may carry us across to the far shore of the sacrifice ("may he lead", the Leṭ of the root *nayati*). To what end? To the heaven that is "vāma" (to be loved), "suvita" (well attained, to be desired by all), reached by approaching it directly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुद्योत्मा (*sudyotmā*)—one who shines exceedingly
+- जीराश्वः (*jīrāśvaḥ*)—one who has swift-going horses
+- होता (*hotā*)—one who gives the invitation (to the gods)
+- मंद्रः (*maṃdraḥ*)—one who is joyous
+- चंद्ररथः (*caṃdrarathaḥ*)—Agni, who has a golden chariot
+- नः (*naḥ*)—our (invocation)
+- उत शृणवत् (*uta śṛṇavat*)—may he surely hear, or make it known (among the gods)
+- अमूरः (*amūraḥ*)—one who has unobstructed power
+- वस्यः (*vasyaḥ*)—one who is gentle
+- सः (*saḥ*)—that well-known
+- अग्निः (*agniḥ*)—Agni
+- नेषतमैः (*neṣatamaiḥ*)—by excellent actions or praises that show the way
+- नः (*naḥ*)—us
+- नामं (*nāmaṃ*)—that which is desired **NOTE**
+- सुवितं (*suvitaṃ*)—that which can be entered in splendour, (to) heaven
+- अच्छ (*accha*)—to go facing it and reach
+- नेषत् (*neṣat*)—may he lead away
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who shines exceedingly, who has swift-going horses, who calls the gods to the sacrifice, who is joyous and who has a golden chariot, surely hear our invocation. May Agni, who has unobstructed strength, yet is gentle and well known, lead us, by excellent actions that show the way, towards heaven, which is desired and can be entered in splendour.
+
+### Printed p. 213
+
+##### Printed English
+
+May he who is one with light, who has fleet horses, the invoker (of the gods), full of joy, and borne in a golden chariot, listen to us : may that irresistible, yet placable Agni, conduct us, by the most efficacious (means), to that desirable and accessible (heaven).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of the Ṛk Agni is described by epithets such as "jīrāśva".
+
+जीराश्वः (*jīrāśvaḥ*)—The word जीर (*jīra*) is read among the names of "swift" (Ni. 3-9). It is used in many places separately as जीरः (*jīraḥ*), जीरं (*jīraṃ*), and in compounds such as जीराश्वः (*jīrāśvaḥ*), जीराध्वरः (*jīrādhvaraḥ*), जीरदानुः (*jīradānuḥ*).
+. दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्मनिष्टये । प्राचीनरश्मिमाहुतं धृतेन तद्देवानामवो अद्या वृणीमहे ॥ (*. divispṛśaṃ yajñamasmākamaśvinā jīrādhvaraṃ kṛṇutaṃ summaniṣṭaye | prācīnaraśmimāhutaṃ dhṛtena taddevānāmavo adyā vṛṇīmahe ‖*)
+(Ṛ. Saṃ. 10-36-6)
+In this Ṛk the Aśvin gods are asked to make our rite "jīrādhvara". Here "jīrādhvara" means: "perform it for us so that it is not obstructed by hindrances, is free from injury, and is carried out quickly."
+पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय ना सदमा जीरदानवः । पृषदश्वासो अनवभ्रराधस ऋजिप्यासो न वयुनेषु धूर्षदः । (*pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya nā sadamā jīradānavaḥ | pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ |*)
+(Ṛ. Saṃ. 2-34-4)
+Here जीरदानवः (*jīradānavaḥ*) is an epithet of the Maruts, meaning those who fulfil the sacrificer's wishes very quickly. Like this, the compounds जीराश्वः (*jīrāśvaḥ*) and जीराश्वं (*jīrāśvaṃ*) are also epithets of Agni and other deities; or there are cases where they are epithets of their chariot. For example:
+आ वां रथं पुरुमायं मनोजवं जीराश्वं यज्ञियं जीवसे हुवे । सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टिवानं वरिवोधामभि प्रयः । (*ā vāṃ rathaṃ purumāyaṃ manojavaṃ jīrāśvaṃ yajñiyaṃ jīvase huve | sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭivānaṃ varivodhāmabhi prayaḥ |*)
+(Ṛ. Saṃ. 1-119-1)
+
+### Printed p. 214
+In some Ṛks of this kind the chariot of the Aśvin gods is described as having swiftly running horses. Likewise in the present Ṛk Agni is described and praised as one whose vehicles are swiftly moving horses. Not only the epithet जीराश्व (*jīrāśva*) for Agni but also epithets such as धृतपृष्ठ (*dhṛtapṛṣṭha*), वातजूत (*vātajūta*), स्वश्व (*svaśva*) and the like make known the nature of his vehicles.
+
+सुद्योत्मा (*sudyotmā*)—सुद्योतमानः (*sudyotamānaḥ*). It is an epithet of Agni, "shining exceedingly and excessively".
+अग्निश्युचिव्रततमश्युचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजंत ईरते । तव ज्योतीगंष्यर्चयः । आयुर्दा अग्नेस्यायुर्मे देहि वर्चोदा अग्नेऽसि वर्चो मे .... ....सं त्वमग्ने सूर्यस्य वर्चसागथास्समृषिणाग् स्तुतेन सं प्रियेण धाम्ना । (*agniśyucivratatamaśyucirvipraḥ śuciḥ kaviḥ | śucī rocata āhutaḥ | udagne śucayastava śukrā bhrājaṃta īrate | tava jyotīgaṃṣyarcayaḥ | āyurdā agnesyāyurme dehi varcodā agne 'si varco me .... ....saṃ tvamagne sūryasya varcasāgathāssamṛṣiṇāg stutena saṃ priyeṇa dhāmnā |*)
+(Tai. Saṃ. 1-5-5)
+In sentences of this kind the description of Agni makes known his radiance and his power. The chief quality of Agni, who is self-luminous and the illuminator of the whole world, is stated.
+
+मंद्रः (*maṃdraḥ*)—The word मंद्र (*maṃdra*) is read among the names of speech (Ni. 2-23): the meaning is speech that is sweet and gives joy. When the word मंद्रजिह्व (*maṃdrajihva*) is used as an epithet of Agni and of Bṛhaspati, it describes their nature, but the meaning differs a little. For example:
+अनर्वाणं वृषभं मंद्रजिह्वं बृहस्पतिं वर्धया नव्यमर्कैः । गाथान्यः सुरुचो यस्य देवा आशृण्वंति नवमानस्य मर्ताः । (*anarvāṇaṃ vṛṣabhaṃ maṃdrajihvaṃ bṛhaspatiṃ vardhayā navyamarkaiḥ | gāthānyaḥ suruco yasya devā āśṛṇvaṃti navamānasya martāḥ |*)
+(Ṛ. Saṃ. 1-190-1)
+In this Ṛk, as an epithet of Bṛhaspati, it means one whose speech gives joy. When the same epithet is applied to Agni in 4-11-5 and 5-25-2, it means one who has tongues in the form of flames that are lovely and give joy. In the present Ṛk the word मंद्र (*maṃdra*) means Agni, whose nature is lovely and exhilarating.
+
+चंद्ररथः (*caṃdrarathaḥ*)—The word चंद्र (*caṃdra*) is read among the names of gold (Ni. 2-10). "Candraratha" means one who has a golden chariot. Or else, following the Nirukta-kāra's explanation चंद्रश्चंदतेः कांतिकर्मणः (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ*) (Ni. 11-5), that the word चंद्र (*caṃdra*) can be formed from the root चंद् (*caṃd*) because it gives the sense "radiant, delightful", Sāyaṇa in Ṛk 6-65-2 explained the word चंद्ररथाः (*caṃdrarathāḥ*), an epithet of the Uṣasas,
+
+### Printed p. 215
+as "kāntiratha", having radiant chariots. In the same way, in
+चंद्रमग्निं चंद्ररथं हरिव्रतं वैशानरमप्सुषदं स्वर्विदं । विगाहं तूर्णिं तविषीभिरावृतं भूर्णिं देवास इह सुश्रियं वधुः । (*caṃdramagniṃ caṃdrarathaṃ harivrataṃ vaiśānaramapsuṣadaṃ svarvidaṃ | vigāhaṃ tūrṇiṃ taviṣībhirāvṛtaṃ bhūrṇiṃ devāsa iha suśriyaṃ vadhuḥ |*)
+(Ṛ. Saṃ. 3-3-5)
+the word चंद्ररथ (*caṃdraratha*), an epithet of Vaiśvānara Agni, Sāyaṇa explains as आह्लादकः रथः यस्य (*āhlādakaḥ rathaḥ yasya*), "one who has a chariot that gives delight". It can be understood in the same way here also.
+
+शृणवत् (*śṛṇavat*)—शृणुयात् यद्वा श्रावयेत्, देवेषु मध्ये प्रख्यापयेत् (*śṛṇuyāt yadvā śrāvayet, deveṣu madhye prakhyāpayet*). May Agni himself take note of and hear our invocation, or make the gods hear it; that is, may he make our invocation known before them.
+
+वस्यः (*vasyaḥ*)—Formed from the root वस् (*vas*) meaning "to shine, to be lovely", वसनीयः (*vasanīyaḥ*) means one who has a gentle form.
+
+आमूरः (*āmūraḥ*)—Sāyaṇa explained it as आमूढबलः (*āmūḍhabalaḥ*). Ordinarily मूर (*mūra*) means one who is deluded, and आमूर (*āmūra*) one who is not deluded, that is, one who is wise. The Nirukta-kāra, quoting the Ṛk
+मूरा अमूर न वयं चिकित्सो महित्वमग्ने त्वमंग वित्से । शये वव्रिश्वरति जिह्वयादनरेरिह्यते युवतिं विश्वतिः सन् । (*mūrā amūra na vayaṃ cikitso mahitvamagne tvamaṃga vitse | śaye vavriśvarati jihvayādanarerihyate yuvatiṃ viśvatiḥ san |*)
+(Ṛ. Saṃ. 11-8) (Ṛ. Saṃ. 10-4-4) **NOTE**
+explained it as मूढा वयं स्मोमूढस्त्वमसि (*mūḍhā vayaṃ smomūḍhastvamasi*). In the same way here too the meaning can be taken, as an epithet of Agni, as "wise".
+
+नेषतमैः (*neṣatamaiḥ*)—अत्यर्थं नेतृभिः कर्मभिः स्तोत्रैर्वा (*atyarthaṃ netṛbhiḥ karmabhiḥ stotrairvā*). The meaning is: by actions or praises that are guiding and excellent.
+
+##### Grammar
+
+- सुद्योत्मा — द्युत दीप्तौ इति धातुः । अन्येभ्योऽपि दृश्यंते—(पा. सू. ३-२-७५) इति मनिन् प्रत्ययः । तं निमित्तीकृत्य पुगंतलघूपधस्य च—(पा. सू. ७-३-८६) इति धातोर्लघूपधस्य गुणः । क्रत्वादयश्च—(पा. सू. ६-२-११८) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 207. pp. 202-
+**Progress note:** Done through printed p. 215. pp. 208-215 (batch API)
