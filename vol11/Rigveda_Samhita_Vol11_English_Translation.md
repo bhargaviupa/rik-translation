@@ -16317,6 +16317,160 @@ May the Aśvins' chariot come toward us. Of what kind? Three-wheeled, that is, h
 - मधुवाहनः (*madhuvāhanaḥ*)—bearing honey
 - जीराश्वः (*jīrāśvaḥ*)—possessed of swiftly running horses
 
+### Printed p. 680
+
+##### Gist of the bhāṣya
+
+none for this page; it carries only the continuation of the Pratipadārtha of the preceding Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुष्टुतः (*suṣṭutaḥ*)—greatly praised
+- त्रिवंधुरः (*trivaṃdhuraḥ*)—furnished with the driver's seat (made of three pieces of wood, lowly and lofty)
+- मघवा (*maghavā*)—wealthy
+- विश्वसौभगः (*viśvasaubhagaḥ*)—(therefore) endowed with all good fortune
+- रथः (*rathaḥ*)—the chariot
+- आर्वाज् (*ārvāj*)—facing us
+- यातु (*yātu*)—may it come
+- नः (*naḥ*)—our
+- द्विपदे (*dvipade*)—to the people, sons and the rest
+- चतुष्पदे (*catuṣpade*)—to cattle and the rest
+- शं (*śaṃ*)—happiness
+- आ वक्षत् (*ā vakṣat*)—may it bring
+
+##### भावार्थ (Bhāvārtha)
+
+May the chariot of the Aśvin deities come towards us: three-wheeled, bearing honey, drawn by swift horses, greatly praised, furnished with the driver's seat made of three pieces of wood, wealthy, and therefore endowed with every good fortune. May it bring happiness to our people, sons and the rest, and to our cattle and the rest.
+
+##### Printed English
+
+May the three-wheeled car of the Aswins, drawn by swift horses, laden with honey, three-canopied, filled with treasure, and every way auspicious, come to our presence, and bring prosperity to our people and our cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the chariot of the Aśvin deities is described. Epithets such as त्रिचक्रः (*tricakraḥ*) and त्रिवंधुरः (*trivaṃdhuraḥ*) tell the nature of the chariot. These features were explained earlier (Ṛ. Saṃ. 1-34). What may be the reason for the peculiar form of this chariot, three-wheeled and three-seated, the scholar Keith has surmised on certain grounds and stated his opinion thus:
+
+The chariot of the Aswins has curious qualities; it is not merely golden, in all its parts, but it is three wheeled, has three fellies, and all its parts triple. One of its wheels is said to have come off when the Aswins went to the wedding of the maiden Surya and it is possible that the three wheels are connected with the fact that, unlike other Gods, the Aswins in their chariot bear with them Surya, for whom, therefore, there must be provided a third seat. Possibly too, the triplication, of which much appears in the myths of the Aswins, owes it being to this simple cause, though it has been traced to the three seasons of the year. The steeds which draw their car are sometimes horses, but more often birds.
+
+### Printed p. 681
+swans or eagles and even a single ass. In tha Aitereya Brahmana, they are said to have won a race at the wedding of Soma and Surya with a car drawn by horses.. (A. B. Keith. The Religion and Philosophy of the Veda, Harward Oriental Series). Vol. XXXI—P. 114 )
+
+There is a story that while the Aśvin deities were going for pleasure with the divine maiden Sūryā, one wheel of their chariot came off. To provide a place beside themselves for their wife Sūryā, a new seat was built, and for that reason their chariot has the epithet त्रिवंधुरः (*trivaṃdhuraḥ*). The epithets त्रिचक्र (*tricakra*) and त्रिवंधुरः (*trivaṃdhuraḥ*) may also perhaps reflect the three seasons of the year. The animals that draw their chariot are described differently in different places: sometimes horses, elsewhere birds, and once a mule or ass is said to be the draught-animal of their chariot. That they won the contest arranged at the time of Sūryā's wedding, seated in a chariot drawn by an ass, is stated in the Aitareya Brāhmaṇa (Ai. Brā. 4-7 to 9). This is the substance of the opinion above.
+
+जीराश्वः (*jīrāśvaḥ*)—The word जीर (*jīra*) is read among the names for "swift" (Ni. 3-9). It is used in many places separately as जीरः (*jīraḥ*), जीरं (*jīraṃ*) and in compounds such as जीराश्वः (*jīrāśvaḥ*), जीराध्वरः (*jīrādhvaraḥ*), जीरदानुः (*jīradānuḥ*). The special sense of this word has been given in this same volume (Ṛ. Saṃ. 1-141-12, Special Topics). In the present Ṛk it means those whose draught-animals are swiftly moving horses.
+
+मधुवाहनः (*madhuvāhanaḥ*)—That the chariot of the Aśvins has this epithet is also a special matter. Not only their chariot; they themselves are famed as bearers of honey.
+
+इदं वै (*idaṃ vai*) … *avocat* **NOTE** (Bṛ. U. 9-5-16)
+The story is well known that Dadhīci, son of Atharvan, taught the Madhu-vidyā to the Aśvin deities. Because the Aśvins were themselves the teachers of this Madhu-vidyā, which is the foundation of spiritual knowledge, there is a figurative description that they come bringing this knowledge filled in their chariot.
+
+##### Grammar
+
+- त्रिचक्रः — त्रीणि चक्राणि यस्य सः त्रिचक्रः । त्रिचक्रादीनां छंदस्युपसंख्यानम् (पा. सू. ६-२-१९९-१) इति उत्तरपदांतोदात्तस्वरो भवति । एवमेव त्रीणि वंधुराणि यस्य सः त्रिवंधुरः इत्यत्रापि उत्तरपदांतोदात्तस्वरो भवति ।
+
+### Printed p. 682
+
+##### Grammar
+
+- मधुवाहनः — वह प्रापणे धातुः । मधु वाह्यते अनेन इति मधुवाहनः । करणार्थे ण्यंतात् ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू ७-१-१) इति तस्य अनादेशः । णेरनिटि इति णिचो लोपः । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति । समासे गतिकारकोपपदात्‌कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- जीराश्वः — जीराः अश्वाः यस्य सः जीराश्वः । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- यातु — या प्रापणे धातुः । लोट् प्रथमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- सुस्तुतः — ष्टुञ् स्तुतौ धातुः । कर्मणि क्तप्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (सु) प्रकृतिस्वरो भवति ।
+- मघवा — छंदसी वनिपौ इति वचनात् मत्वर्थे वनिप् प्रत्ययः । अस्य पित्त्वात् अनुदात्तत्वं भवति ।
+- विश्वसौभगः — विश्वं सौभगं यस्य सः बहुव्रीहिसमासः । पूर्वपदप्रकृतिस्वरो भवति ।
+- वक्षत् — वह प्रापणे धातुः । लेट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । इतश्च लोपः परस्मैपदेषु (पा. सू ३-४-९७) इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-९४) इति तस्य अडागमः । सिब्बहुलं लेटि (पा. सू. ३-१-३४) इति सिप् । होढः इति हकारस्य ढत्वम् । षडोःकःसि इति तस्य ककारादेशः । तं निमित्तीकृत्य सकारस्य षत्वम् । वक्षत् इति रूपं भवति । अतिजंतात् परत्वात् निघातस्वरो भवति ।
+- द्विपदे — द्वौ पादौ अस्य इति द्विपत् । चतुर्थीएकवचने परे भसंज्ञत्वात् पादः पत् (पा. सू. ६-४-१४०) इति पादशब्दस्य पद्भावः । द्वित्रिभ्यां पाप्पन् मूर्धसु बहुव्रीहौ (पा. सू. ६-२-१९७) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- चतुष्पदे — स्वरव्यतिरिक्ता प्रक्रिया पूर्ववत् भवति । अत्र बहुव्रीहिनिमित्तः पूर्वपदप्रकृतिस्वरो भवति । ॥ ३ ॥
+
+### Printed p. 683
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॒ ऊर्जं॑ वहतमश्विना यु॒वं मधु॑मत्या नः॒ कश॑या  
+> मिमिक्षतं ।  
+> प्रायु॒स्तारि॑ष्टं॒ नी रपां॑सि मृक्षतं॒ सेध॑तं॒ द्वेषो॒ भव॑तं  ॒॑
+> सचाभुवा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । ऊर्जं । वहतं । अश्विना । युवं । मधुमत्या । नः । कशया । मिमिक्षतं ।  
+> प्र । आयुः । तारिष्टं । निः । रपांसि । मृक्षतं । सेधतं । द्वेषः । भवतं । सचा-  
+> ।  
+> भुवा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवं युवां नोऽस्माकमूर्जं बलं प्राणनसमर्थमन्नं
+> वा वहतं । प्रापयतं । किंच नोऽस्मान्मधुमत्या माधुर्योपेतया कशया
+> वाचेष्टप्रदानरूपया मिमिक्षतं । सिंचतं । प्रीणयतं । कशेति वाङ्गाम । कशा
+> धिषणेति तन्नामसूक्तत्वात् । यद्वा । मधुमत्या मधुरवृष्टिमत्या माधुर्योपेतया कशयाश्वताडन्या नोऽस्मान्मिक्षतं । मध्वित्युदकनाम मधु पुरीषमिति
+> तन्नामसूक्तत्वात् । कशयाश्वताडनेन शीघ्रमागत्य वृष्टिरूपं फलं दास्यत इति
+> कशाया मधुमत्तं । किंचायुरायुष्यं प्र तारिष्टं । प्रवर्धयतं ॥ प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ तथा रपांसि मृक्षतं । पापानि निःशेषेण शोधयतं। रपो रिप्रमिति
+> पापनामनी भवतः । नि. ४-२१ । इति यास्कः । किंच द्वेषो द्वेष्यममित्रादिकं सेधतं ।
+> नाशयतं । इदं च भाव्यं । सचाभुवा सहभुवावस्मत्कार्येषु सहभवनवंत्
+> भवतं । भवंतावैकमत्यं भजत इत्यर्थः ॥ वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two, bring to us ऊर्जं (*ūrjaṃ*), strength, or food able to sustain life. Further, sprinkle us, i.e. gratify us, with कशया (*kaśayā*), speech, endowed with sweetness and consisting in the granting of what we wish; कशा (*kaśā*) is a name of speech, since in the sūkta *kaśā dhiṣaṇā* the names of speech are given. Or else: मधुमत्या (*madhumatyā*) means with sweet rain-bearing, sweetness-endowed कशया (*kaśayā*), the horse-whip; sprinkle us. मधु (*madhu*) is a name of water, as मधु (*madhu*) and *purīṣaṃ* occur in the sūkta of water-names. By the whipping of the horses you will come swiftly and give the fruit in the form of rain; so the whip has "honey". Further, प्र तारिष्टं (*pra tāriṣṭaṃ*): prolong our life; तिरति (*tirati*) with प्र (*pra*) has the sense of increase. Likewise wipe away our sins, cleanse them completely. *rapo ripraṃ* are two names of sin (Ni. 4-21), says Yāska. Further, destroy hatred, i.e. the hateful enemies and the like. And this is to be done: be सचाभुवा (*sacābhuvā*), companions, as though co-existing with us in our undertakings; that is, being so, show unanimity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you two
+- नः (*naḥ*)—our
+- ऊर्जं (*ūrjaṃ*)—strength, or the food needed for living
+- आ वहतं (*ā vahataṃ*)—bring and supply
+- नः (*naḥ*)—us
+- मधुमत्या (*madhumatyā*)—endowed with sweetness
+- कशया (*kaśayā*)—with speech [(or) मधुमत्या (*madhumatyā*)—by the pouring of rain, endowed with sweet sound; कतया (*katayā*)—with the whipping of horses]
+
+### Printed p. 684
+**NOTE**
+- मिमिक्षतं (*mimikṣataṃ*)—make us full of vigour
+- आयुः (*āyuḥ*)—(our) life
+- प्रतारिष्टं (*pratāriṣṭaṃ*)—increase
+- रपांसि (*rapāṃsi*)—(our) sins
+- मृक्षतं (*mṛkṣataṃ*)—wash away
+- द्वेषः (*dveṣaḥ*)—enemies
+- सेधतं (*sedhataṃ*)—destroy
+- सचाभुवा (*sacābhuvā*)—united with us
+- भवतं (*bhavataṃ*)—be (companions in our undertakings)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you two, bring and supply the food that increases our strength. Gladden us with sweet speech. Increase our life. Wash away our sins. Destroy our enemies. Be our companions in our undertakings.
+
+##### Printed English
+
+Bring us Ashwins, vigor: animate us with your honied speech; prolong our existsnce; wipe away our sins: destroy our foes; be ever our associates.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऊर्जं (*ūrjaṃ*)—This word is read among the names of food (Ni. 3-9). In some places, "food that gives strength", the sense comes to rest in strength itself. Accordingly in this Ṛk also it is explained as ऊर्जं बलं बलप्राणनसमर्थ मन्नं (*ūrjaṃ balaṃ balaprāṇanasamartha mannaṃ*), food that increases strength. The author of the Nirukta, quoting the sentence
+देवी ऊर्जाहुती इषमूर्जमन्यावक्षत् सग्निं सपीतिमन्या नवेन पूर्वं दयमानाःस्याम पुराणेन नवं तामूर्जमूर्जाहुती ऊर्जयमाने (*devī ūrjāhutī iṣamūrjamanyāvakṣat sagniṃ sapītimanyā navena pūrvaṃ dayamānāḥsyāma purāṇena navaṃ tāmūrjamūrjāhutī ūrjayamāne*) (Vā. Saṃ. 28-16),
+shows that the word ऊर्ज (*ūrja*) is used, in one sentence, once with the sense of food and again with that of strength, so that there are two meanings in one sentence.
+यो वैतामक्षितिं वेद सोऽन्नमत्ति प्रतीकेन । स देवानपि गच्छति स ऊर्ज मुपजीवति । (*yo vaitāmakṣitiṃ veda so 'nnamatti pratīkena | sa devānapi gacchati sa ūrja mupajīvati |*) (Bṛ. U. 1-5-1)
+Here, since both words अन्न (*anna*) and ऊर्ज (*ūrja*) are used, ऊर्ज (*ūrja*) there means simply strength. In the present Ṛk it means food that nourishes strength.
+
+कशया (*kaśayā*)—The word कशा (*kaśā*) is read among the names of speech (Ni. 2-23). Following this, Sāyaṇa first explains माधुर्योपेतया वाचा (*mādhuryopetayā vācā*), "with sweet speech", and then
+
+### Printed p. 685
+explains a second time कशया अश्वताडिन्या (*kaśayā aśvatāḍinyā*), "by the horse-whipping, or by the whip, the instrument of horse-whipping". To support both meanings there is the Nirukta's etymology of this word:
+अश्ववाजनीं कशेत्याहुः । कशा प्रकाशयति भयमश्वाय । कृष्यतेर्वाणाभानात् । वाक् पुनः प्रकाशयत्यर्थान् । खशया । क्रोशतेर्वा ॥ (*aśvavājanīṃ kaśetyāhuḥ | kaśā prakāśayati bhayamaśvāya | kṛṣyatervāṇābhānāt | vāk punaḥ prakāśayatyarthān | khaśayā | krośatervā ‖*) (Ni. 9-19)
+Because it makes fear manifest to the horse, the whip is called कशा (*kaśā*). And speech is called कशा (*kaśā*) either because it makes manifest the meaning in the mind, or because it abides in space (खशया (*khaśayā*)—in the space of the mouth), or because it makes sound.
+अव स्वयुक्ता दिव आ वृथा ययुरमर्त्याः कशया चोदत त्मना । अरेणवस्तुविजाता अचुच्युवुद्र्ह्णानि चिन्मरुतो भ्राजदृष्टयः ॥ (*ava svayuktā diva ā vṛthā yayuramartyāḥ kaśayā codata tmanā | areṇavastuvijātā acucyuvudrhṇāni cinmaruto bhrājadṛṣṭayaḥ ‖*) (Ṛ. Saṃ. 1-168-4)
+Here कशया स्तुतिरूपया वाचा (*kaśayā stutirūpayā vācā*), "with speech in the form of praise", is the sense; and
+रथीव कशयाश्वा (*rathīva kaśayāśvā*) … *kṛṇute nabhaḥ* **NOTE** (Ṛ. Saṃ. 5-83-3 **NOTE**)
+Here the word is used so that it is understood as the whip, the instrument of horse-whipping. **NOTE**  In the present Ṛk the commentator has explained it in both ways.
+
+मिमिक्षतं (*mimikṣataṃ*)—सिंचतं । प्रीणयतं । (*siṃcataṃ | prīṇayataṃ |*) Formed from the root मिह् (*mih*) meaning "to sprinkle"; the prayer is: pour out the desired things and satisfy us.
+
+प्र तारिष्टं (*pra tāriṣṭaṃ*)—प्रपूर्वस्तिरतिर्वर्धनार्थः (*prapūrvastiratirvardhanārthaḥ*). When the prefix प्र (*pra*) joins the root त्र (*tra*), it gives the sense "increase". The author of the Nirukta, quoting the Ṛk
+वात आ वातु भेषजं शंभु मयोभु नो हृदे । प्र ण आयूंषि तारिषत् । (*vāta ā vātu bheṣajaṃ śaṃbhu mayobhu no hṛde | pra ṇa āyūṃṣi tāriṣat |*) (Ṛ. Saṃ. 10-186-1)
+has given, for प्रतारिषत् (*pratāriṣat*), an example suited to the context, meaning "increase our life". Likewise in the present Ṛk the prayer is आयुः प्र तारिष्टं (*āyuḥ pra tāriṣṭaṃ*), increase our life.
+
 ---
 
-**Progress note:** Done through printed p. 679. pp. 674-679 (batch API)
+**Progress note:** Done through printed p. 685. pp. 680-685 (batch API)
