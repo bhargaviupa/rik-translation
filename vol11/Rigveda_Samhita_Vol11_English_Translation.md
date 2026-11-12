@@ -6779,6 +6779,111 @@ conveys the nature of Indra. But there Sāyaṇa has made the word गायत�
 
 "O Indra, स्वाहाकृतानि (*svāhākṛtāni*)": a svāhākṛti is the making, the utterance, of the word svāhā, preceded thus, for the deities who are about to be sacrificed to; oblations (havya, havis) having that are svāhākṛta. Here, since in the Prayājas the offering is made with the vaṣaṭ-call, the meaning is "an oblation uttered with svāhā". Approach that oblation and come वीतये (*vītaye*), to eat it: आगच्छ (*āgaccha*). The root gam in the Vedic idiom has luk of śap, and the nasal is dropped by the rule beginning अनुदात्तोपदेश (*anudāttopadeśa*). Likewise, "O Indra, come" (आ गहि (*ā gahi*)): come having the hymns in view; having come, hear their call (श्रुधि (*śrudhi*), "listen"), since the priests invite you (हवंते (*havaṃte*)) in the non-violent sacrifice (अध्वरे (*adhvare*)); therefore listen. For the root hṛ there is saṃprasāraṇa by हृऋतेर्बहुलं छंदसीति (*hṛṛterbahulaṃ chaṃdasīti*).
 
+### Printed p. 281
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वाहाकृतानि (*svāhākṛtāni*)—offered with the utterance of svāhā
+- हव्यानि (*havyāni*)—the oblations
+- वीतये (*vītaye*)—for eating
+- उप (*upa*)—to the vicinity
+- आ गहि (*ā gahi*)—be pleased to come
+- त्वां (*tvāṃ*)—you
+- अध्वरे (*adhvare*)—in the sacrifice that is free from violence
+- हवंते (*havaṃte*)—(the priests) call
+- (therefore)
+- आ गहि (*ā gahi*)—be pleased to come (and)
+- हवं (*havaṃ*)—our invocation
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come near us to eat the oblations offered with the utterance of svāhā. The priests call you in the sacrifice that is free from violence; therefore be pleased to come and hear our invocation.
+
+##### Printed English
+
+Approach, Indra, to partake of the oblations consecrated with Swaha ; approach and hear the invocation, as they invoke you to the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वाहाकृतानि (*svāhākṛtāni*)—स्वाहा इत्येवंपूर्वा कृतिः करणमुच्चारणं यक्ष्यमाणदेवतानां ताः स्वाहाकृतयः । (*svāhā ityevaṃpūrvā kṛtiḥ karaṇamuccāraṇaṃ yakṣyamāṇadevatānāṃ tāḥ svāhākṛtayaḥ |*) तद्वंति हव्यानि (*tadvaṃti havyāni*). That is, oblations accompanied by the mantra "svāhā" recited at the offering; the word is an epithet of हव्यानि (*havyāni*). It is a word chiefly recited in the last Ṛks of the Āprī hymns. In some Ṛks it stands as an adverb: in 1-13-12 as स्वाहा कृषोतन (*svāhā kṛṣotana*), in 1-146-12 as स्वाहा कर्तन (*svāhā kartana*); in 3-4-11, 7-2-11 and 10-60-11 in the instrumental sense; in 2-3-11 as an epithet of the oblation (havya); in 10-110-11 as an epithet of हविः (*haviḥ*); and in the present Ṛk as an epithet of हव्यानि (*havyāni*). **NOTE**
+
+In explaining this word, some hold that it denotes the svāhā-utterance as a deity; others that Agni is indicated by it. In the Praiṣa-sūkta it is recited:
+होता यक्षवग्निग् स्वाहाज्यस्य...........वियंतु होतर्यज । (*hotā yakṣavagnig svāhājyasya...........viyaṃtu hotaryaja |*) (Trai. Prā. 3-6-2-2) **NOTE**
+On this Sāyaṇa explains: योऽयं स्वाहाशब्दोदितः उत्तमप्रयाजदेवः अग्निः तं दैव्यो होता यजतु । (*yo 'yaṃ svāhāśabdoditaḥ uttamaprayājadevaḥ agniḥ taṃ daivyo hotā yajatu |*)—that is, the word svāhā points to Agni, the deity of the eleventh Prayāja. The author of the Nirukta
+
+### Printed p. 282
+explains स्वाहाकृतयः (*svāhākṛtayaḥ*): स्वाहेत्येतत् सु आहेति ना, स्वा नागाहेति वा, स्वं प्राहेति ना, स्वाहुतं हनिर्जुहोतीति ना । (*svāhetyetat su āheti nā, svā nāgāheti vā, svaṃ prāheti nā, svāhutaṃ hanirjuhotīti nā |*) (Ni. 7-21). **NOTE**
+He explains that it is well known as svāhākṛti either because one has recited well, or because Speech itself said "it is well", or because one offers an oblation sanctified by the mantra svāhā. He clarified this idea by citing the Ṛk 10-110-11. In the Aitareya Brāhmaṇa:
+स्वाहाकृतीर्यजति प्रतिष्ठा वै स्वाहाकृतयः प्रतिष्ठायामेव तद्यज्ञमंततः प्रतिष्ठापयति । (*svāhākṛtīryajati pratiṣṭhā vai svāhākṛtayaḥ pratiṣṭhāyāmeva tadyajñamaṃtataḥ pratiṣṭhāpayati |*) (Pa. Prā. 2-4) **NOTE**
+It explains that since the oblation is completed by the svāhākṛti, that is the support of the whole sacrifice, and that it establishes the sacrifice on a proper foundation. In the Bṛhaddevatā:
+स्वाहाकृतयोऽनेकाश्च विदुषां मतयोऽभवन् । तत्सर्वं त्वयमेवाग्निर्भवतीति विनिश्चयः ॥ (*svāhākṛtayo 'nekāśca viduṣāṃ matayo 'bhavan | tatsarvaṃ tvayamevāgnirbhavatīti viniścayaḥ ‖*)
+अयं हि कर्ता स्वाहानां कृतिस्तासामिहैकजा । अयं प्रसूतिर्भूतानां सर्वेषामयमव्ययः ॥ (*ayaṃ hi kartā svāhānāṃ kṛtistāsāmihaikajā | ayaṃ prasūtirbhūtānāṃ sarveṣāmayamavyayaḥ ‖*)
+(Bṛ. Je. 3-29 to 31) **NOTE**
+
+Although the opinions of the learned about the svāhākṛti are not of one kind, the whole idea denoted by this word is directed to this terrestrial Agni. Since this Agni is the maker of svāhā and he himself is its making, the terrestrial Agni is so called. Following the view of the Nirukta-author, आग्नेयी इति तु स्थितिः (*āgneyī iti tu sthitiḥ*) (Ni. 8-22), the author of the Bṛhaddevatā has declared his opinion.
+
+In the last Ṛks of these Āprī hymns, which consist of svāhā, deities such as Pūṣan, the Maruts, Vāyu, Sūrya, Indra and Varuṇa are all addressed; above all of them,
+पुरोगा अग्निर्देवानां गायत्रेण समज्यते (*purogā agnirdevānāṃ gāyatreṇa samajyate*) । स्वाहाकृतीषु रोचते (*svāhākṛtīṣu rocate*) (Ṛ. Saṃ. 1-188-11)
+सद्यो जातो व्यमिमीत यज्ञ मग्निर्देवानामभवत्पुरोगाः । अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥ (*sadyo jāto vyamimīta yajña magnirdevānāmabhavatpurogāḥ | asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*) (Ṛ. Saṃ. 10-110-22) **NOTE**
+
+### Printed p. 283
+In these Ṛks Agni is praised as the leader of the gods from the time of his birth. And describing the power of the svāhākṛti:
+आ याह्यग्ने समिधानो अर्वाजिंद्रेण देवैः सरथं तुरेभिः । बर्हिर्न आस्तामदितिः सुपुत्रा स्वाहा देवा अमृता मादयंतां ॥ (*ā yāhyagne samidhāno arvājiṃdreṇa devaiḥ sarathaṃ turebhiḥ | barhirna āstāmaditiḥ suputrā svāhā devā amṛtā mādayaṃtāṃ ‖*) (Ṛ. Saṃ. 3-4-11)
+आग्ने वह वरुणमिष्टये न इंद्र दिवो मरुतो अंतरिक्षात् । सीदंतु बर्हिर्विश्व अ यजत्राः स्वाहा देवा अमृता मादयंतां ॥ (*āgne vaha varuṇamiṣṭaye na iṃdra divo maruto aṃtarikṣāt | sīdaṃtu barhirviśva a yajatrāḥ svāhā devā amṛtā mādayaṃtāṃ ‖*) (Ṛ. Saṃ. 10-70-11)
+These Ṛks indicate that, because the gods are gladdened by the mantra svāhā, the word svāhā holds such a divine place in the sacrifice.
+
+(Conclusion on the Āprī hymns)
+Concerning the necessity and purposes of the Āprī hymns, the scholar Max Müller first says that they were a means of pacifying either gods or kinsmen, and then says that fully understanding their mystic meanings is itself a labour, as follows:
+"It is possible that Apri hymns may have been the songs of reconciliation and that they were called Apri, i.e., appeasing hymns, not because of their appeasing the anger of Gods but the enmities of the members of the same or different families. However it may be, they indeed prove an active intercourse between the ancient families of India long before the final collection of the ten books....................The original purpose of the Apri hymns and the motive for allowing the priests to choose, are difficult to discover "
+(Ancient Sanskrit Literature P. 246-7)
+
+Although even among the ancient Vedic scholars there is disagreement about the place of the Āprī hymns in sacrificial rites and about their deities, all the Āprī hymns have many common features; since there is a definite pattern and refinement in their composition and subject matter, one cannot say either that all were composed together or that they have no connection with one another. Except for the seers of the fourth and sixth maṇḍalas, the seers of the remaining
+
+### Printed p. 284
+maṇḍalas all possess the traditional Āprī hymns of their own families. Though the Kāṇva line of the eighth maṇḍala has no separate Āprī hymn, it is well known that they use the hymn 1-3. But the reason why the seers of the fourth and sixth maṇḍalas have no need of it cannot be stated. Or perhaps the lines of Vāmadeva and Bhāradvāja recited some other mantras in this place (or, since Bhāradvāja was born in the Aṅgiras lineage, the very hymn in question).
+
+Mantras indicated by the names Āprī and Āpra—
+Kātyāyana in the Sarvānukramaṇī: एतदाप्रिसूक्तं एतेनान्यानुक्तदैवतानि एकादशकानि तु नाराशंसानि आप्रशब्दोक्तानि आतनूनपात्वंति । (*etadāprisūktaṃ etenānyānuktadaivatāni ekādaśakāni tu nārāśaṃsāni āpraśabdoktāni ātanūnapātvaṃti |*). He says that the mantras recited addressed to the deity Narāśaṃsa are known by the name Āpra, and those recited addressed to the deity Tanūnapāt are known by the name Āprī. But in the Nirukta and the like there are no sentences showing this difference.
+
+The question whether the name Āprī refers to the deity or to the hymn is natural. On close view it may be said that it first referred to the hymn and afterwards to mantras indicating the deity.
+
+Nature of the rite—It may be said that the sacrificial rite prescribed by the Āprī hymn did not hold a subordinate position, as the Brāhmaṇas and others suggest, but held the position of a principal sacrifice. The difference between the Prayāja oblations and the oblations prescribed in this rite is known in many places. In the Ṛks 1-13-8; 1-148-7 **NOTE**; 1-142-8; 3-4-8; 5-5-2; 9-5-2 the expression इमं यज्ञं (*imaṃ yajñaṃ*), in the Ṛks 5-5-2; 3-4-5 the expression नः यज्ञं (*naḥ yajñaṃ*), and in the Ṛks 1-13-2; 7-2-2; 10-110-8 the expression अस्मिन् यज्ञेः (*asmin yajñeḥ*) show a principal place in the sacrificial rite, whether in the sacrifice or in the offering of oblations, and not a subordinate one like the Prayāja oblations.
+
+From the mantras त्रिर्दिना आमिमिक्षति (*trirdinā āmimikṣati*) (1-142-3) and त्रिरहन्नायजंते (*trirahannāyajaṃte*) (3-4-2) it is understood that this rite is to be performed at three times of the day; and from समिद्धो अव्य मनुषो दुरोणे (*samiddho avya manuṣo duroṇe*) (10-110-1) that there is no separate sacrificial house for it and that Agni may be established in an ordinary house.
+समित्समित्सुमना बोध्यस्मे शुचाशुचा सुमतिं रासि वस्वः । आ देव देवान्यजथाय वक्षि सखा सखीन्तुमना यक्ष्यग्ने ॥ (*samitsamitsumanā bodhyasme śucāśucā sumatiṃ rāsi vasvaḥ | ā deva devānyajathāya vakṣi sakhā sakhīntumanā yakṣyagne ‖*)
+(Ṛ. Saṃ. 3-4-1)
+
+### Printed p. 285
+This Ṛk, in which the seer Viśvāmitra poetically describes the blazing of Agni, and
+जुषस्व नः समिधमग्ने अद्य शोचा बृहद्यजतॆं धूममृण्वन् । उप स्पृश दिव्यं सानु स्तूपैः सं रश्मिभिस्ततनः सूरस्य ॥ (*juṣasva naḥ samidhamagne adya śocā bṛhadyajatèṃ dhūmamṛṇvan | upa spṛśa divyaṃ sānu stūpaiḥ saṃ raśmibhistatanaḥ sūrasya ‖*)
+(Ṛ. Saṃ. 7-2-1)
+this Ṛk, with its description of the rays of Agni and of the sun spreading together, both show the poetic character of the mantras. These same descriptions show that this sacrifice is to be begun in the morning.
+
+The mantra पूर्व्यं तंतुं तनुष्ट (*pūrvyaṃ taṃtuṃ tanuṣṭa*) (1-142-1) shows that this sacrifice is ancient. Since the help of Agni, the divine hotṛ, is needed for this sacrifice to be accomplished without obstacle, the oblation of ghee must first be offered to Agni. When Agni is thus satisfied, he spreads toward the atmosphere (7-2-1); then he brings the gods. Because Agni is the friend of men (3-4-1), he does this service.
+
+Artistic skill—Although the Āprī hymns are distinct from one another, were composed at different times and belong to different seer-lines, all these hymns have one and the same manner of speech and aim; hence a harmony and charm in a way greater than in all the other kinds of hymns shows their distinction.
+
+In all the hymns (except two) the number of Ṛks is eleven, and that the hymn begins with the word समिद् (*samid*) and ends with स्वाहा (*svāhā*) shows a fixed rule from the poetic and artistic point of view. In the matter of metre there is no such restriction. The hymns 1-13; 1-18; 5-5; 9-5 are composed in the Gāyatrī metre, the hymn 1-142 in the Anuṣṭubh metre, and the hymns 2-3; 3-4; 7-2; 10-70 and 10-110 in the Triṣṭubh metre.
+
+Many mantra-portions such as देवान् आवह (*devān āvaha*), देवान् वक्षि (*devān vakṣi*), विप्रा यज्ञेषु मानुषेषु कारुः (*viprā yajñeṣu mānuṣeṣu kāruḥ*) are repeated.
+
+##### Grammar
+
+- गहि — गम्‌ल्य गत् धातुः । लोट् मध्यमपुरुषएकवचने सिपः हि आदेशः । बहुलं छंदसि इति शपः लुक् । अनुदात्तोपदेश (पा. सू. ६-४-३७) इति हेः जातृत्वात् तन्निमित्तीकृत्य धातोः अनुनासिकस्य मकारस्य लोपः । असिद्धवदत्रा—
+
+### Printed p. 286
+- गहि (मुंदुवरिकॆ) — असिद्धवदत्राभात् इति असिद्धत्वात् अतो हेः इति हेः लुक् न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- वीतये — वी गतिप्रजनकांत्यसनखादनेषु धातुः । मंत्रेवृषेषपच (पा. सू. ३-३-९६) इति क्तिनः उदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- इंद्र — पादादित्वात् आमंत्रितनिघातस्वरः न भवति । आमंत्रितस्य (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरः भवति ।
+- श्रुधि — श्रु श्रवणे धातुः । लोट् मध्यमपुरुषएकवचने सिप् । बहुलं छंदसि इति विकरणस्य लुक् । श्रुशृणु (पा. सू. ६-४-१०२) इति हेः धिभावः भवति । **NOTE** तस्य जित्वात् गुणः न भवति । तिजंतस्य परत्वात् अतिजिः इति निषेधकृतत्वात् निघातस्वरः न भवति । प्रत्ययस्य अपित्वविधानकृतत्वात् तस्य उदात्तः भवति, अंतोदात्तः भवति ।
+- हवम् — ह्वेञ् स्पर्धायां शब्दे च धातुः । भावार्थे अप् प्रत्ययः । धातोः संप्रसारणं, पूर्वरूपम् । प्रत्ययनिमित्तिकत्वात् धातोः इकः गुणः । अवादेशः । प्रत्ययस्य पित्त्वात् धातुस्वरः अवतिष्ठते ।
+- हवंते — पूर्वोक्तस्य धातोः लट् प्रथमपुरुषबहुवचने झ प्रत्ययः । टेः एत्वम् । रोंतः इति अंतादेशः । बहुलं छंदसि इति धातोः संप्रसारणं, पूर्वरूपम् । शप् विकरणम् । तन्निमित्तीकृत्य उकारस्य गुणः । अनादेशः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- अध्वरे — न विद्यते ध्वरः हिंसा यत्र अध्वरः । तस्मिन् । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदस्य अंतोदात्तस्वरः भवति । सप्तमीएकवचनांतरूपम् ।
+
+Here ends the hundred and forty-second sūkta.
+
 ---
 
-**Progress note:** Done through printed p. 280. pp. 274-280 (batch API)
+**Progress note:** Done through printed p. 286. pp. 281-
