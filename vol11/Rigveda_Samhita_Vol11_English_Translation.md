@@ -7467,6 +7467,220 @@ The Nirukta authors, with अर्चिषि भृगुः संबभू�
 - हिनुहि — हि गतौ वृद्भौ च धातुः । लोट्मध्यमपुरुषैकवचने सिपो हि आदेशः । स्वादिभ्य श्नुः इति श्नुविकरणम् । उतश्च प्रत्ययाच्छंदसि ना वचनम् (पा. सू. ६-४-१०६-१) इति हेर्लुक् न भवति । विकरणस्य सार्वधातुकमपित् इति चित्त्वात् तं निमित्तीकृत्य धातोर्गुणो न भवति । अतिजंतस्य परत्वात् तिजंतनिघातस्वरो भवति ।
 - वस्वः — वसु शब्दः । अस्मात् षष्ठीविभक्तौ परतः जसादिषु छंदसि ना वचनम् इति वचनात् नुम् । गुणादयो न भवंति । यणादेशः ।
 
+### Printed p. 311
+
+##### Grammar
+
+- राजति — राज धातुः ऐश्वर्य क्रियावाची । क्षयति राजति (निरु. २-२१-४) इति पठितम् । लट् प्रथमपुरुष एकवचनांतरूपम् । यः इति यच्छब्दसंबंधात् यद्वृत्तान्वित्यम् (पा. सू. ८-१-६६) इति निघातप्रतिषेधो भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यो वरा॑य म॒रुता॑मिव स्व॒नः सेने॑व सृ॒ष्टा दि॒व्या  ॒॑
+> यथाशनिः ।  
+> अ॒ग्निर्जंभै॑स्तिगि॒तैर॑त्ति॒ भर्व॑ति यो॒धो न शत्रु॒न्त्स वना॒  ॑
+> न्यृंजते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यः । वराय । मरुतांइव । स्वनः । सेनाइव । सृष्टा । दिव्या । यथा । अशनिः ।  
+> अग्निः । जंभैः । तिगितैः । अत्ति । भर्वति । योधः । न शत्रून् । सः । वना । नि । ऋंजते ।  
+> ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्वराय वरणाय निग्रहाय न शक्तो न भवति । तत्र दृष्टांतत्रयमुच्यते । मरुतां स्वन इव । स यथाग्राह्यस्तद्वत् । तथा सृष्टा वैरिक्षयार्थं
+> प्रबलेनातिसृष्टा सेनेव । सा यथानैरनिरोध्या तद्यत् । तथा दिव्या दिवि भवाशनिर्यथा पतत्येव न निवार्यते तद्वत् । ईदृक् सामर्थ्यमस्तीति दर्शयति । अयमग्निस्तिगितैर्निशितैस्तीक्ष्णीभूतैः ॥ अंत्यविकारश्चांदसः ॥ जंभैर्दंतैर्दंतस्थानीयाभिर्ज्वालाभिरत्ति । अस्मद्विरोधिनो भक्षयति । तथा भर्वति । हिनस्ति ॥ भर्व हिंसायां ॥
+> यास्कस्वाह भर्वतिरत्तिकर्मेति । नि ९-२३ । यद्यप्यत्तिभर्वत्योरदनमेवार्थः
+> तथापि तदवांतरभेदोऽवगंतव्यः । तत्र दृष्टांतः । योधो न संप्रहर्ता शूर
+
+##### Gist of the bhāṣya
+
+The Agni who is not able to be checked (वराय (*varāya*) = वरणाय (*varaṇāya*), निग्रहाय (*nigrahāya*), "for restraining"). Three illustrations are given. He is like the roar of the Maruts, which cannot be seized; like an army let loose with great force for the destruction of enemies, which cannot be obstructed; and like the heavenly thunderbolt, which, as it falls, is not warded off. Thus the verse shows his might. This Agni, with sharpened (तिगितैः (*tigitaiḥ*) = *niśitaiḥ*, made keen; the change of the final is Vedic) जंभैः (*jaṃbhaiḥ*), that is, with flames that stand in the place of teeth, eats (अत्ति (*atti*)), that is, devours our adversaries. Likewise भर्वति (*bharvati*), he destroys (root भर्व हिंसायां (*bharva hiṃsāyāṃ*)). Yāska says भर्वतिरत्तिकर्मेति (*bharvatirattikarmeti*) (Ni. 9-23). Although eating is the meaning of both अत्ति (*atti*) and भर्वति (*bharvati*), a difference between them should be understood from their inner sense. The illustration: like a warrior (योधः (*yodhaḥ*)), a fighter, a hero—
+
+### Printed p. 312
+
+> इव । स यथा शत्रुन्भर्वति भक्षयति तद्वत् । किंच सोग्निर्वना वनानि वृक्षादिसमूहान् न्यृंजते । नितरां प्रसाधयति । दहतीत्यर्थः । ऋंजतिः प्रसाधनकर्मेति
+> यास्कः ॥
+
+##### Gist of the bhāṣya
+
+—who devours (भर्वति (*bharvati*)) his enemies, so does Agni. Moreover that Agni न्यृंजते (*nyṛṃjate*) the वना (*vanā*), the masses of trees and the like: he thoroughly "sets them in order", that is, burns them. Yāska: ऋंजतिः प्रसाधनकर्मेति (*ṛṃjatiḥ prasādhanakarmeti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—that very Agni
+- मरुतां (*marutāṃ*)—of the Maruts
+- स्वनः इव (*svanaḥ iva*)—like the roar that cannot be obstructed
+- सृष्टा (*sṛṣṭā*)—made ready (for the destruction of enemies)
+- सेना इव (*senā iva*)—like a powerful army
+- दिव्या (*divyā*)—born in the world of heaven
+- अशनिः यथा (*aśaniḥ yathā*)—like the thunderbolt that cannot be stopped
+- वराय न (*varāya na*)—that which cannot be obstructed (having an unimpeded spread)
+- अग्निः (*agniḥ*)—this Agni
+- तिगितैः (*tigitaiḥ*)—sharp
+- जंभैः (*jaṃbhaiḥ*)—with flames that are like teeth
+- योधः (*yodhaḥ*)—a valiant warrior
+- शत्रून् न (*śatrūn na*)—as he harms and destroys enemies
+- अत्ति (*atti*)—devours (our adversaries)
+- भर्वति (*bharvati*)—harms and destroys
+- सः (*saḥ*)—that same Agni
+- वना (*vanā*)—the trees and so on of the forest
+- न्यृंजते (*nyṛṃjate*)—burns completely
+
+##### भावार्थ (Bhāvārtha)
+
+As the roar of the Maruts cannot be obstructed, as a powerful army made ready for destroying enemies is hard to subdue, and as the thunderbolt born in the heavenly world cannot be stopped, so the spreading of this Agni too is unimpeded. As a valiant warrior harms and destroys his enemies, so this Agni, with his sharp flames like teeth, harms and destroys our adversaries. And he completely consumes the trees and the like of the forest. **NOTE**
+
+##### Printed English
+
+Agni, who, like the roaring of the winds, like a victorious host, like the thunderbolt in heaven, is not to be arrested, devours and destroys (our foes) with sharpened teeth, and, as a warrior (annihilates his enemies) he, (Agni), lays waste the woods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the flame of Agni, spreading unimpeded, is compared to the roar of the Maruts, to the speed of a powerful army, and to the thunderbolt that cannot be resisted. And as a valiant warrior harms and destroys his enemies, Agni too devours trees and the like. This is a description that is in one way terrifying and in another attractive. The same description may be noted in the Taittirīya Saṃhitā, where it is said in an equally attractive manner.
+
+### Printed p. 313
+
+तव भ्रमास आशुयापतंत्यनु स्पृश धृषता शोशुचानः । तपूगंष्यग्ने जुह्वा पतंगानसंदितो विसृज विश्वगुल्काः । (*tava bhramāsa āśuyāpataṃtyanu spṛśa dhṛṣatā śośucānaḥ | tapūgaṃṣyagne juhvā pataṃgānasaṃdito visṛja viśvagulkāḥ |*) (Tai. Saṃ. 1-2-13)
+
+ऋतावा धर्ता कृष्टीनामुत मध्य इद्दः । साध्वीमकर्देवनीतिं नो अद्य यज्ञस्य जिह्वामविदाम गुह्यां । स आयुरागात्सुरभिर्वसानो भद्रामकर्देवहूतिं नो अद्य ! अक्रंददग्निस्तनयन्निव द्यौः क्षामा रेरिहद्वीरुधस्समंजन् ! सद्यो जज्ञानो वि हीमिद्दो अख्यदा रोदसी भानुना भात्यंतः । (*ṛtāvā dhartā kṛṣṭīnāmuta madhya iddaḥ | sādhvīmakardevanītiṃ no adya yajñasya jihvāmavidāma guhyāṃ | sa āyurāgātsurabhirvasāno bhadrāmakardevahūtiṃ no adya ! akraṃdadagnistanayanniva dyauḥ kṣāmā rerihadvīrudhassamaṃjan ! sadyo jajñāno vi hīmiddo akhyadā rodasī bhānunā bhātyaṃtaḥ |*) (Tai. Saṃ. 1-3-14-2) **NOTE**
+
+सश्वितानस्तन्यतूरोचनस्था अजरेभिर्नादद्धिर्यविष्ठः । यः पावकः पुरुतमः पुरूणि पृथून्यग्निरनुयाति भर्वन् । (*saśvitānastanyatūrocanasthā ajarebhirnādaddhiryaviṣṭhaḥ | yaḥ pāvakaḥ purutamaḥ purūṇi pṛthūnyagniranuyāti bharvan |*) (Tai. Saṃ. 1-3-14-4)
+
+In such passages the description—that Agni sounds like the thunder of a cloud in the atmosphere, spreads a flame like a bright garment, devours the trees and creepers met on his way, and pervades the whole atmosphere with his trembling flames as he spreads—shows the form of Agni, both attractive and at the same time terrifying, just as it is described in the present Ṛk.
+
+वराय (*varāya*)—वरणाय (*varaṇāya*), निग्रहाय (*nigrahāya*) (न (*na*)): the meaning is "to stop, to restrain". This word, derived both from the root वृञ् (*vṛñ*) (वरणे (*varaṇe*)), which gives the meaning "to desire, to choose", and from the root वृञ् (*vṛñ*) (आवरणे (*āvaraṇe*)), which gives the meaning "to hold back, to conceal", is used in both senses.
+
+यस्ता चकार स कुह स्विदिंद्रः कमा जनं चरति कासु विक्षु । कस्ते यज्ञो मनसे शं वराय को अर्क इंद्र कतमः स होता ॥ (*yastā cakāra sa kuha svidiṃdraḥ kamā janaṃ carati kāsu vikṣu | kaste yajño manase śaṃ varāya ko arka iṃdra katamaḥ sa hotā ‖*) (Ṛ. Saṃ. 6-21-4)
+
+In this Ṛk वराय तव वरणाय कः कीवृशः अर्कः मंत्रः समर्थो भवति (*varāya tava varaṇāya kaḥ kīvṛśaḥ arkaḥ maṃtraḥ samartho bhavati*): which mantra is capable of choosing you, so that you become gracious—the root वृञ् (*vṛñ*) here gives the meaning "choose, select". Similarly in Ṛk 6-44-21 वराय (*varāya*) means श्रेष्ठाय (*śreṣṭhāya*), "excellent, the best".
+
+इषा मंदस्वादु तेऽरं वराय मन्यवे । भुवत्त इंद्र शं हृदे ॥ (*iṣā maṃdasvādu te 'raṃ varāya manyave | bhuvatta iṃdra śaṃ hṛde ‖*) (Ṛ. Saṃ. 8-2) (Ṛ. Saṃ. 8-82-3) **NOTE**
+
+### Printed p. 314
+
+In such Ṛks वराय शत्रुनिवारकाय मन्यवे क्रोधाय (*varāya śatrunivārakāya manyave krodhāya*) gives the meaning "repelling, holding back". So in the present Ṛk too it gives the meaning "that which cannot be repelled or held back". अशनिः यथा (*aśaniḥ yathā*): as nobody can stop the speed of the thunderbolt, and as the thunderbolt must strike once it is discharged, so is the spread of Agni; thus his power is shown.
+
+तिगितैः (*tigitaiḥ*)—निशितैस्तीक्षैः (*niśitaistīkṣaiḥ*): the meaning is "very sharp". Ordinarily this word is an adjective of a weapon. For example:
+
+यो नः सनुत्य उत ना जिघत्रुरभिख्याय तं तिगितेन विध्य । बृहस्पत आयुधैर्जेषि शत्रून्हुहे रीषंतं परि धेहि राजन् ॥ (*yo naḥ sanutya uta nā jighatrurabhikhyāya taṃ tigitena vidhya | bṛhaspata āyudhairjeṣi śatrūnhuhe rīṣaṃtaṃ pari dhehi rājan ‖*) (Ṛ. Saṃ. 2-30-9)
+
+In this Ṛk it indicates the nature of the weapon, "with a sharp weapon". The adjective is also fitting in the present Ṛk, because it qualifies the word जंभैः (*jaṃbhaiḥ*) and because a tusk is sharp like a weapon, so that the flames of Agni are compared to such tusks as being sharp.
+
+भर्वति (*bharvati*)—आवयति (*āvayati*), भर्वति (*bharvati*) and so on are read among the names of the action of eating (Ni. 3-8) **NOTE**. The meaning is "devours". To give the same sense, the word भर्वन् (*bharvan*) is used in the Taittirīya Saṃhitā passage quoted above (पृथून्यग्निरनुयाति भर्वन् (*pṛthūnyagniranuyāti bharvan*), 1-3-14-4) as well. The purport is that the flame of Agni devours all creepers and trees.
+
+##### Grammar
+
+- वराय — व्रियते इति वर्ण वृञ् वरणे धातुः । ग्रहवृदृसिश्चिगमश्च (पा. सू. ३-३-५८) इति अप् प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । रपरत्वेन भवति । प्रत्ययः पित्तात् धातुस्वरो अवशिष्यते । चतुर्थी एकवचनांतरूपम् । **NOTE**
+- सृष्टा — सृज विसर्गे धातुः । कर्मणि निष्ठा इति क्त प्रत्ययः । व्रश्चभृष्ट— इति धातुजकारस्य षत्वम् । ष्टुत्वेन प्रत्ययतकारस्य टित्वम् । स्त्रीत्वविवक्षायां अदंतनिबंधनः टाप् ।
+- दिव्या — दिवि भवा दिव्या । दंडादिगणपठितत्वात् (पा. सू. ५-१-६६) य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । स्त्रीत्वे अदंतसिबंधनः टाप् ।
+- अशनिः — अश भोजने धातुः । आर्तिसृधृ— (उ. सू. २-२५९) इति अनि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरेण मध्योदात्तं पदं भवति ।
+
+### Printed p. 315
+
+- तिगितैः — तिज निशाने (तीक्ष्णीकरण) धातुः । क्त प्रत्ययः । छांदसत्वेन धातोः अंत्यस्य कुत्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । तृतीया बहुवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
+- अत्ति — आद भक्षणे धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
+- भर्वति — भर्व हिंसायां धातुः । यास्कैः भर्वतिरत्तिकर्मा (निरु. ९-२३) इति उक्तम् । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतपरत्वात् निघातस्वरो न भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
+- योधः — युध संप्रहारे धातुः । नंदिग्रहपचादि— (पा. सू. ३-१-१३४) इति कर्तरि अच् प्रत्ययः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । चितः इति अंतोदात्तस्वरो भवति ।
+- वना — शसि शि आदेशे सति रूपे शेश्छंदसि बहुलम्— (पा. सू. ६-१-७०) इति शेः लोपः ।
+- ऋञ्चिते — ऋञ्चित धातुः प्रसाधनक्रियावाची प्रयुक्तः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विन्नो॑ अ॒ग्निरु॒चथ॑स्य॒ वीरस॒द्वसु॑ष्कु॒विद्वसु॑भिः॒ काम॑मा॒वर॑त् ।  
+> चो॒दः कु॒वित्तु॑तु॒ज्जात्सा॒तये॒ धियः॒ शुचि॑प्रतीकं॒ तम॒या ॒ ॑
+> धिया गृणे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । नः । अग्निः । उचथस्य । वीः । असत् । वसुः । कुवित् । वसुभिः । कामं ।  
+> आवरत् ।
+
+### Printed p. 316
+
+> चोदः । कुवित् । तुतुज्यात् । सातये । धियः । शुचिप्रतीकं । तं । अया । धिया ।  
+> गृणे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्नोऽस्माकमुचथस्योक्तस्य स्तोत्रस्य कुविद्दहुवारं वी कामयितासत् । भवतु ॥ अस्तेर्लेट्यडागमः ॥ यद्वा । उचथस्यॆतन्नामकस्य महर्षेर्गॊत्रप्रभवस्य न इति संबंधः । तथा वसुर्वासयिता सर्वॆषां वसुस्थानीयो
+> ना वसुभिर्वासयितृभिर्धनैः काममत्यर्थमभिमतं वा कुविदतिप्रभूतमावरत् ।
+> आवृणोतु । अभिमतप्रदानेन कामं निवर्तयत्वित्यर्थः ॥ वृणोतेर्लेट्यडागमः ।
+> छांदसो विकरणस्य लुक् ॥ अयमग्निश्चोदोऽस्माकं कर्मसु प्रेरकः सन् धियः
+> कर्माणि सातये लाभाय कुविद्दहु तुतुज्यात् । त्वरयतु । प्रेरयत्वित्यर्थः ॥
+> तुजिः प्रेरणार्थः । छांदसः शपः श्लुः ॥ शुचिप्रतीकं शोभनावयवं शोभनज्वालं
+> तमग्निमया धियानया स्तुतिरूपया प्रज्ञया गृणे । उच्चारयामि ।
+> सौमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Agni, for our उचथस्य (*ucathasya*), our uttered praise, कुवित् (*kuvit*) (many times) may be वी (*vī*), a desirer; "let it be" (असत् (*asat*) is the Lēṭ form of अस् (*as*) with the augment *aṭ*). Or else: उचथस्य (*ucathasya*) is of the great seer of that name, and the connection is "of us, who are born in his gotra". Likewise वसुः (*vasuḥ*), the one who makes dwell, who stands for all as wealth, may आवरत् (*āvarat*) (fulfil) कामं (*kāmaṃ*), our desire, that is, what is greatly wished, कुवित् (*kuvit*) in great abundance, with वसुभिः (*vasubhiḥ*), wealth that provides dwelling; that is, may he turn our desire back (satisfy it) by granting what is wished (Lēṭ of *vṛṇoti* with *aṭ*; Vedic dropping of the stem-vowel). This Agni, चोदः (*codaḥ*), as the impeller in our rites, may तुतुज्यात् (*tutujyāt*) (hasten, impel) धियः (*dhiyaḥ*), our rites, सातये (*sātaye*) for gain, कुवित् (*kuvit*) abundantly (the root तुजि (*tuji*) means impelling; Vedic श्लु (*ślu*) in place of शप् (*śap*)). शुचिप्रतीकं (*śucipratīkaṃ*) is "of beautiful limbs, of beautiful flame"; that Agni I गृणे (*gṛṇe*), utter, that is, praise, with अया धिया (*ayā dhiyā*), this intellect in the form of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- उचथस्य (*ucathasya*)—praise
+- कुवित् (*kuvit*)—always
+- वीः (*vīḥ*)—as one who desires
+- असत् (*asat*)—may he be
+- वसुः (*vasuḥ*)—Agni, the giver of wealth or the dwelling-place (of all)
+- वसुभिः (*vasubhiḥ*)—with riches
+- कामं (*kāmaṃ*)—our desired object
+- कुवित् (*kuvit*)—in great abundance
+- अवरत् (*avarat*)—may he fill and satisfy
+- चोदः (*codaḥ*)—as the impeller (of us in our rites)
+- धियः (*dhiyaḥ*)—our sacrificial rites (to perform)
+- सातये (*sātaye*)—for the gain of the fruit
+- कुवित् (*kuvit*)—greatly
+- तुतुज्यात् (*tutujyāt*)—may he impel and cause them to be accomplished
+- शुचिप्रतीकं (*śucipratīkaṃ*)—having radiant flames
+- तं (*taṃ*)—Agni
+- अया धिया (*ayā dhiyā*)—with this intellect (meditation) in the form of praise
+- गृणे (*gṛṇe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni always desire our praises. May Agni, the giver of wealth, fill and satisfy our desired object abundantly with all riches. Being our impeller in our rites, may he impel us to accomplish the sacrifice for the fruit of the sacrifice. I praise Agni of radiant flames with this meditation in the form of praise.
+
+##### Printed English
+
+May Agni be ever desirous of our praise ; may the giver of wealth satisfy our utmost expectation with riches; may the inspirer (of our devotion)
+
+### Printed p. 317
+
+hasten our rites fruition. I glorify him, the radiant-limbed (Agni), with this laudation.
+
+##### विशेषविषयगळु (Special Topics)
+
+उचथस्य (*ucathasya*)—उकथस्य स्तोत्रस्य (*ukathasya stotrasya*). Or यद्वा एतन्नामकस्य महर्षेर्गॊत्रप्रभवस्य नः। (*yadvā etannāmakasya maharṣergòtraprabhavasya naḥ|*). Sāyaṇa has explained that it means either "of the praise" or "of us, born in the family of the great seer named Ucatha". Here the first meaning fits better.
+
+कुवित् (*kuvit*)—this word is used repeatedly in this very Ṛk, in two senses. For the first occurrence he has given बहुवारं (*bahuvāraṃ*), "many times", that is, "always"; for the second अतिप्रभूतं (*atiprabhūtaṃ*). For the third the sense is also "abundant". The Nirukta authors have read कुवित् (*kuvit*) among the names for "much" (Ni. 3-13).
+
+उपेमसृक्षि वाजयुर्वचस्यां चनो दधीत नाद्यो गिरो मे । अपां नपादाशुहेमा कुवित्स सुपेशसस्करिति जोषिसद्धि ॥ (*upemasṛkṣi vājayurvacasyāṃ cano dadhīta nādyo giro me | apāṃ napādāśuhemā kuvitsa supeśasaskariti joṣisaddhi ‖*) (Ṛ. Saṃ. 2-5-2)
+
+In such Ṛks the meaning is बहुलं (*bahulaṃ*), "abundantly"; and in the Ṛk quoted by the Nirukta authors—
+
+ता आ रुद्रस्य मीळ्हुषो विवासे कुविन्नसंते मरुतः पुनर्नः। यत्सस्वर्ता जिहीळिरे यदाविरव तदेन ईमहे तुराणां ॥ (*tā ā rudrasya mīḷhuṣo vivāse kuvinnasaṃte marutaḥ punarnaḥ| yatsasvartā jihīḷire yadāvirava tadena īmahe turāṇāṃ ‖*) (Ṛ. Saṃ. 7-58-5)
+
+in such Ṛks the meaning is बहुकृत्वः (*bahukṛtvaḥ*), पुनःपुनः (*punaḥpunaḥ*), "many times, again and again".
+
+धियः (*dhiyaḥ*)—कर्माणि (*karmāṇi*): "(to perform) our sacrificial rites" is the meaning. In the Nirukta this word is read both among the names of action (Ni. 3-1) and among the names of intelligence. Quoting the Ṛk
+
+महो अर्णः सरस्वती प्रचेतयति केतुना । धियो विश्वा विराजति ॥ (*maho arṇaḥ sarasvatī pracetayati ketunā | dhiyo viśvā virājati ‖*) (Ṛ. Saṃ. 1-3-12)
+
+the Nirukta authors explain सर्वाणि प्रज्ञानानि (*sarvāṇi prajñānāni*) (Ni. 11-27) in the sense of all our meditations endowed with intelligence; and in the Ṛks
+
+फथस्पथः परिपतिं वचस्या कामेन कृतो अभ्यानळर्कं । स नो रासच्चुरुधश्चंद्राग्रा धियंधियं सीषधाति प्र पूषा ॥ (*phathaspathaḥ paripatiṃ vacasyā kāmena kṛto abhyānaḷarkaṃ | sa no rāsaccurudhaścaṃdrāgrā dhiyaṃdhiyaṃ sīṣadhāti pra pūṣā ‖*) (Ṛ. Saṃ. 6-49-8)
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह थीभिः पुरंध्या । (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha thībhiḥ puraṃdhyā |*) (Ṛ. Saṃ. 10-65-8 **NOTE**) **NOTE**
+
+they have explained it as rites such as sacrifices and offerings.
+
 ---
 
-**Progress note:** Done through printed p. 310. pp. 305-310 (batch API)
+**Progress note:** Done through printed p. 317. pp. 311-317 (batch API)
