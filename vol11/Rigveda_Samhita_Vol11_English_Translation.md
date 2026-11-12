@@ -4606,6 +4606,152 @@ Thus the epithets अनाकृतः (*anākṛtaḥ*), ह्वारः (*
 
 कृष्णजंहसः (*kṛṣṇajaṃhasaḥ*)—कृष्णमार्गस्य (*kṛṣṇamārgasya*): "having a dark path", an epithet of Agni. Showing the derivation of the word जंह (*jaṃha*) as पुनःपुनर्गम्यते इति जंहामार्गः (*punaḥpunargamyate iti jaṃhāmārgaḥ*), Sāyaṇa explains that it means path.
 
+### Printed p. 190
+The passage in Ṛ. Saṃ. 6-12-2, आ यस्मिन्तै स्वपाके यजत्र यक्षद्राजन्त सर्वतातेव नु द्यौः । त्रिषधस्थस्ततरुषो न जंहो हवा मघानि मानुषा यजध्यॆ ॥ (*ā yasmintai svapāke yajatra yakṣadrājanta sarvatāteva nu dyauḥ | triṣadhasthastataruṣo na jaṃho havā maghāni mānuṣā yajadhyè ‖*), uses the word जंहः (*jaṃhaḥ*) in the sense "swift-goer"; likewise here the sense is "one who has a path of going". As कृष्णवर्त्मा (*kṛṣṇavartmā*) is an epithet of Agni, so कृष्णजंहाः (*kṛṣṇajaṃhāḥ*) also tells his nature.
+
+पत्मन् (*patman*)—on the path; here, on the path of worship in the form of the sacrifice.
+
+रजः (*rajaḥ*)—the special meanings of this word have been given in the Special Topics of Ṛk 1-139-4.
+
+##### Grammar
+
+- अस्थात् — ष्ठा गतिनिवृत्तौ धातुः । छंदसिलुज् इति वर्तमानार्थे लुज् । प्रथमपुरुषैकवचने तिप् प्रत्ययः । इकारलोपः । च्लेः सिचादेशे जाते गातिस्थाघु (पा. सू. २-४-७७) इति तस्य लुक् । अंगस्य अडागमः । यद्योगात् निघातस्वरप्रतिषेधे आद्युदात्तं भवति । **NOTE**
+- यजतः — यज देवपूजासंगतिकरणदानेषु धातुः । अस्मात् भ्रमृदृशियज— (उ. सू. ३९०) इति अतच् प्रत्ययः । चित्त्वात् चितः इति अंतोदात्तस्वरो भवति ।
+- वातचोदितः — वातेन चोदितः वातचोदितः । चुद प्रेरणे धातुः । कर्मणि क्त प्रत्ययः । तृतीयाकर्मणि (पा सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- ह्वारः — ह्व कौटल्ये धातुः । भ्वादिः । हेतुमति च इति णिच् । अचोञ्णिति इति धातोर्वृद्धिः । णिजंतात् नंदिग्रहपचादिभ्यः— (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । चितः इति अंतोदात्तस्वरो भवति ।
+- वक्वा — वच परिभाषणे धातुः । अन्येभ्योऽपिदृश्यंते (पा. सू. ३-२-७५) इति वनिप् प्रत्ययः । सूत्रे दृशिग्रहणं निमित्तांतराभावेऽपि कार्यं भवतीति सूचनार्थमुपात्तमिति धातोश्चकारस्य कुत्वम् । वनिप् पित्त्वात् अनुदात्तः इति धातुस्वरः शिष्यते । प्रथमैकवचनांतरूपम् ।
+- जरणाः — ज्ञ धातुः स्तुत्यर्थे प्रयुक्तः । अस्मात् कर्मणि ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू. ७-१-१) इति प्रत्ययस्य अनादेशः । तं निमित्तीकृत्य धातोरिको गुणः । रसवागि भवति । व्यत्ययेन लित्स्वरो न भवति । अट्कुप्वाङ्— इति सूत्रेण प्रत्ययनकारस्य णत्वम् । **NOTE**
+
+### Printed p. 191
+
+##### Grammar
+
+- अनाकृतः — नञ् तत्पुरुषसमासः । तत्पुरुषे— (पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरो भवति ।
+- पत्मन् — पत्‌ल्य गतौ धातुः । अन्येभ्योऽपिदृश्यंते इति मनिन् प्रत्ययः । सित्त्वात् आद्युदात्तस्वरो भवति । सुपां सुलुक्— (पा. सू. ७-१-३९) इति लुग् भवति ।
+- दक्षुषः — दह भस्मीकरणे धातुः । अस्मात् लिटि जाते क्वसुश्च (पा. सू. ३-२-१०७) इति क्वसुः प्रत्ययः । तं निमित्तीकृत्य धातोः छांदसत्वात् द्वित्वं न भवति । बहुलग्रहणात् सिप् । हकारस्य धत्वम् । तं निमित्तीकृत्य एकाचो— इति सूत्रेण धातोर्दकारस्य धत्वम् । षढोः कः सि इति ढकारस्य कत्वम् । सकारस्य षत्वम् । षष्ठ्येकवचनपरे वसोःसंप्रसारणम् (पा. सू. ६-४-१३१) इति वसोर्वकारस्य संप्रसारणम् । पूर्वरूपम् । शासिवसिघसीनां च (पा. सू ८-३-६७) इति प्रत्ययसकारस्य षत्वम् । प्रत्ययस्वरेण उकार उदात्तो भवति ।
+- कृष्णजंहसः — कृष्णः जंहाः यस्य सः कृष्णजंहाः । पुनः पुनः गम्यते इति जंहाः मार्गः । हन हिंसागत्योः धातुः । पौनःपुन्यार्थे यज् जाते अनैमित्तिकत्वेन तस्य लुक् । यज्लुजंतात् असुन् प्रत्ययः । छांदसत्वात् अभ्यासाच्च (पा. सू. ७-३-५५) इति कुत्वं न भवति । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति । षष्ठ्येकवचनांतरूपम् । एवमेव रुचिजन्मनः इत्यत्रापि बहुव्रीहिसमासत्वात् पूर्वपदप्रकृतिस्वरो भवति ।
+- व्यध्वनः — विविधाः अध्वानः ज्वालाः यस्य सः व्यध्वा तस्य व्यध्वनः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथो॒ न या॒तः शिक्व॑भिः कृ॒तो द्यामंगे॑भिररु॒षेभि॑रीयते ।  
+> आद॑स्य॒ ते कृ॒ष्णासो॑ दक्षि सू॒रयः॒ शूर॑स्येव त्वे॒षथा॑दीषते॒  ॑
+> वयः ॥ ८ ॥
+
+### Printed p. 192
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथः । न । यातः । शिक्वभिः । कृतः । द्यां । अंगेभिः । अरुषेभिः । ईयते ।  
+> आत् । अस्य । ते । कृष्णासः । धक्षि । सूरयः । शूरस्य इव । त्वेषथात् । ईषते ।  
+> वयः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः शिक्वभी रज्जुभिः कृतो बद्धो रथो न रथ इव । स यथा स्वीय्यैश्च क्रादिभिरंगैरीयते तद्विद्यातः स्थापितः सन्नरुषेभिर्गमनशील्वैरंगेभिर्जालादिरूपैरवयवैर्द्यामंतरिक्षमाज्येन हृष्टः सन्नीयते । गच्छति । ईज् गत् ॥ आत् प्रवृद्ध्यनंतरमस्याग्नेस्ते सूरयः सरणयो मार्गाः कृष्णासः कृष्णवर्णा भवंति । यत एवं
+> भवंति तदर्थं दक्षि । दहति काष्ठान् ॥ पुरुषव्यत्ययः । छांदसः शपो लुक् ॥ किंच
+> ज्वलितस्याग्नेस्वेषथाद्वीप्तात्तेजसः सकाशाद्वयो गमनवंतः पक्षिमृगादय ईषते ।
+> गच्छंति ॥ ईष गत्यादौ । बहुलं छंदसीति शपो लुक् ॥ पलायंते । तत्र दृष्टांतः ।
+> शूरस्य त्वेषथाद्वयॆ इव । कस्यचिद्विक्रांतस्य दीप्तात्तेजसः सकाशाद्भीत्या पलायमाना
+> इव । एवमंतरिक्षं स्पृशन् सर्वतो दहतीति सर्वदा दावाग्निरूपेण स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+This Agni is like a chariot "made", that is bound, with ropes (शिक्वभिः (*śikvabhiḥ*) = रज्जुभिः (*rajjubhiḥ*)). As a chariot, set going by its own wheels and other parts, moves, so Agni, set up (by the priests), goes to the sky (द्यां (*dyāṃ*) = the atmosphere) with his moving members, the flames, delighted with the ghee. ईयते (*īyate*) is from ईज् (*īj*), "to go". Thereupon, after he has grown, his paths become black. Because they become so, दक्षि (*dakṣi*) means "he burns" the fuel (a change of person; the *śap* elided in the Veda). Moreover, from the blazing radiance (त्वेषथात् (*tveṣathāt*) = दीप्तात्तेजसः (*dīptāttejasaḥ*)) of the kindled Agni, the वयः (*vayaḥ*), moving beings such as birds and beasts, ईषते (*īṣate*), go, that is flee (from ईष (*īṣa*) in the sense of going; *śap* elided by "bahulaṃ chandasi"). The illustration: like fleeing in fear from the blazing splendour of some valiant hero. Thus, touching the sky and burning everywhere, he is always praised in the form of the forest fire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिक्वभिः (*śikvabhiḥ*)—with ropes
+- कृतः (*kṛtaḥ*)—bound
+- रथो न (*ratho na*)—like a chariot moving easily
+- यातः (*yātaḥ*)—Agni, established by us
+- अरुषेभिः (*aruṣebhiḥ*)—with moving
+- अंगेभिः (*aṃgebhiḥ*)—members in the form of flames
+- द्यां (*dyāṃ*)—the atmosphere
+- ईयते (*īyate*)—reaches
+- आत् (*āt*)—as soon as he has thus grown
+- अस्य (*asya*)—of this Agni
+- सूरयः (*sūrayaḥ*)—the paths
+- दक्षि (*dakṣi*)—by burning (the fuel)
+- कृष्णासः (*kṛṣṇāsaḥ*)—become black (with smoke)
+- शूरस्य इव (*śūrasya iva*)—like an enemy fleeing far, in fear of a hero's radiance
+- त्वेषधात् (*tveṣadhāt*)—from (this Agni's) shining radiance
+- वयः (*vayaḥ*)—all the beasts, birds and the like that move about
+- ईषते (*īṣate*)—flee far away
+
+##### भावार्थ (Bhāvārtha)
+
+As a chariot bound with ropes moves easily, Agni, established by us, reaches the atmosphere with his moving members in the form of flames. As soon as he has thus grown, his paths, burning the fuel and the like, become black with smoke. And as enemies, afraid of the radiance of a valiant hero, flee far away, so all the beasts, birds and the like, frightened by the shining radiance of this Agni, flee far away.
+
+### Printed p. 193
+
+##### Printed English
+
+Like a chariot drawn by ropes, Agni, set in movement by his own revolving members (his flames) proceeds to the heavens; the paths he traverses are blackened by smoke, as he consumes (the fuel), and (beasts and birds fly from his radiance as (enemies fly from the prowess) of a hero.
+
+##### विशेषविषयगळु (Special Topics)
+
+शिक्वभिः (*śikvabhiḥ*)—In this Ṛk Sāyaṇa has explained this word as रज्जुभिः (*rajjubhiḥ*), "with ropes". The scholar Monier Williams, in his Sanskrit–English Dictionary, first gives for this word the meaning "Skilful, clever, artistic" and then states Sāyaṇa's view ("accord say-Rajju and tejas"). Sāyaṇa too, except at this one place, explains the word शिक्व (*śikva*) everywhere else as power or radiance. For example:
+
+प्र ये मे बंध्वेषे गां वोचंत सूरयः पृश्चिं वोचंत मातरं । अधा पितरमिष्मिणं रुद्रं वोचंत शिक्वसः ॥ (*pra ye me baṃdhveṣe gāṃ vocaṃta sūrayaḥ pṛściṃ vocaṃta mātaraṃ | adhā pitaramiṣmiṇaṃ rudraṃ vocaṃta śikvasaḥ ‖*) (Ṛ. Saṃ. 5-52-16)
+
+व्यंकूनुद्रा व्यहानि शिक्वसो व्यंतरिक्षं वि रजांसि धूतयः । वि यदज्रा अजथ नाव ईं यथा वि दुर्गाणि मरुतो नाह रिष्यथ ॥ (*vyaṃkūnudrā vyahāni śikvaso vyaṃtarikṣaṃ vi rajāṃsi dhūtayaḥ | vi yadajrā ajatha nāva īṃ yathā vi durgāṇi maruto nāha riṣyatha ‖*) (Ṛ. Saṃ. 5-54-4)
+
+In these Ṛks Sāyaṇa has explained the word शिक्षसः (*śikṣasaḥ*) as शक्ताः (*śaktāḥ*), "possessing power"; and in
+
+त्वं त्या चिदच्युताग्ने पशुर्न यवसे । धामा ह यत्ते अजर वना वृश्चंति शिक्वसः ॥ (*tvaṃ tyā cidacyutāgne paśurna yavase | dhāmā ha yatte ajara vanā vṛścaṃti śikvasaḥ ‖*) (Ṛ. Saṃ. 6-2-9)
+
+as दीप्तस्य (*dīptasya*), "shining"; and in
+
+तमस्मेरा युवतयो युवानं मर्मुज्यमानाः परि यंत्यापः । स शुक्रेभिः शिक्वभी रेवदस्य दीदायानिध्मो घृतनिर्णिगप्सु । (*tamasmerā yuvatayo yuvānaṃ marmujyamānāḥ pari yaṃtyāpaḥ | sa śukrebhiḥ śikvabhī revadasya dīdāyānidhmo ghṛtanirṇigapsu |*) (Ṛ. Saṃ. 2-35-4)
+
+he has explained शिक्वभिः (*śikvabhiḥ*) as तेजोभिः (*tejobhiḥ*), "with radiances". All these meanings support the meaning stated by Monier Williams. Only in this one place has he said रज्जुभिः (*rajjubhiḥ*). This meaning too suits the context.
+
+### Printed p. 194
+अरुषेभिः (*aruṣebhiḥ*)—Sāyaṇa explains this word as गमनशीलैः (*gamanaśīlaiḥ*), "of moving nature", and shows it to be an epithet of अंगेभिः (*aṃgebhiḥ*). Or it may be "with members of ruddy colour". As the word अरुष (*aruṣa*) has many meanings, the suitable meanings can be noted according to context. The Nirukta author has read this word among the names of horses (Ni. 2-27), among the names of motion (Ni. 3-9), and as a synonym of Uṣas (Ni. 2-19). Moreover, take the Ṛk
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । निष्कृण्वाना आयुधानिव धृष्णवः प्रति गावोऽरुषीय्यंति मातरः ॥ (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate | niṣkṛṇvānā āyudhāniva dhṛṣṇavaḥ prati gāvo 'ruṣīyyaṃti mātaraḥ ‖*) (Ṛ. Saṃ. 1-92-1)
+
+There अरुषीः (*aruṣīḥ*) means आरोचमाना (*ārocamānā*), "radiant", and is an epithet of Uṣas. Thus this word is used in some places as an epithet, in others as a substantive, and gives different meanings. For example:
+
+युजंति ब्रध्नमरुषं चरंतं परि तस्टु षः । रोचंते रोचना दिवि । (*yujaṃti bradhnamaruṣaṃ caraṃtaṃ pari tasṭu ṣaḥ | rocaṃte rocanā divi |*) (Ṛ. Saṃ. 1-6-1)
+
+If the word अरुष (*aruṣa*) in this Ṛk is examined, the seer here describes sunrise. Indra is conceived as the deity of the shining day, the sun as his horse, the Maruts as his companions. Though the word अरुष (*aruṣa*) gives the meaning "red", here it is a synonym of "horse", or a word for the sun in horse form. ब्रध्न (*bradhna*) is an epithet of the word अरुष (*aruṣa*). Similarly there are many occasions where it is a substantive giving an independent and conventional meaning. For example:
+
+तव त्ये अग्ने हरितो घृतस्ना रोहितास ऋज्वंचः स्वंचः । अरुषासो वृषण ऋजुमुष्का आ देवतातिमह्वंत दस्माः ॥ (*tava tye agne harito ghṛtasnā rohitāsa ṛjvaṃcaḥ svaṃcaḥ | aruṣāso vṛṣaṇa ṛjumuṣkā ā devatātimahvaṃta dasmāḥ ‖*) (Ṛ. Saṃ. 4-6-9)
+
+In this Ṛk the colour-names हरितः (*haritaḥ*), रोहितासः (*rohitāsaḥ*), अरुषासः (*aruṣāsaḥ*) indicate horses of the respective colours. And in
+
+अवर्धयन्तुभगं सप्त यह्वीः श्वेतं जज्ञानमरुषं महित्वा । शिशुं न जातमभ्यारुरश्वा देवासो अग्निं जनिमन्वपुष्यन् । (*avardhayantubhagaṃ sapta yahvīḥ śvetaṃ jajñānamaruṣaṃ mahitvā | śiśuṃ na jātamabhyāruraśvā devāso agniṃ janimanvapuṣyan |*)
+
+it is an epithet of Agni; and in
+
+त्वं नृचक्षा वृषभानु पूर्विः कृष्णास्वग्ने अरुषो वि भाहि । वसो नेषि च पर्षि चात्यंहः कृधी नो राय उशिजो यविष्ठ ॥ (*tvaṃ nṛcakṣā vṛṣabhānu pūrviḥ kṛṣṇāsvagne aruṣo vi bhāhi | vaso neṣi ca parṣi cātyaṃhaḥ kṛdhī no rāya uśijo yaviṣṭha ‖*) (Ṛ. Saṃ. 3-15-3)
+
+it is an adverb. Likewise in many Ṛks such as 4-13-12; 1-118-5; 4-43-6; 5-73-5 it is used as an epithet. In some places अरुष (*aruṣa*) is used
+
+### Printed p. 195
+as a proper name designating a distinct deity. Taking only two Ṛks as examples:
+
+अप स्वसुरुषसो नग्जिहीते रिणक्ति कृष्णीररुषाय पंथां । अश्वामघा गोमघा नां हुवेम दिना नक्तं शरुमस्मद्युयोतं ॥ (*apa svasuruṣaso nagjihīte riṇakti kṛṣṇīraruṣāya paṃthāṃ | aśvāmaghā gomaghā nāṃ huvema dinā naktaṃ śarumasmadyuyotaṃ ‖*) (Ṛ. Saṃ. 7-71-1)
+
+Here Sāyaṇa himself has not given a definite meaning for the word अरुषाय (*aruṣāya*); he gives both as alternatives: आरोचमानाय अह्ने सूर्याय वा (*ārocamānāya ahne sūryāya vā*). In explaining this Ṛk the view of the scholar Max Muller is noteworthy. He says:
+
+Here Arusha shares the same half-mythological-character as Ushas, where we should speak of Dawn and morning as mere periods of time, the Vedic poet speaks of them as living and intelligent beings, half human, half divine, as powers of nature capable of understanding his prayers and powerful enough to reward his praises. I do not think that we need hesitate to take Arusha in this passage as a proper name of the morning, or of the morning sun to whom the dark Goddess, the Night, yields the path when he rises in the East (The Sacred Books of the East. Vol. XXXII—P. 21.)
+
+In the same way, in
+
+विशोनिर ईड्यमध्वरेष्वदृप्तक्रतुमरतिं युवतोऽपि । दिवः शिशुं सहसः सूनुमग्निं यज्ञस्य केतुमरुषं यजध्यै ॥ (*viśonira īḍyamadhvareṣvadṛptakratumaratiṃ yuvato 'pi | divaḥ śiśuṃ sahasaḥ sūnumagniṃ yajñasya ketumaruṣaṃ yajadhyai ‖*) (Ṛ. Saṃ. 6-49-2)
+
+though it is clear that the word अरुषं (*aruṣaṃ*) is an epithet of Agni, it would not be wrong to say that अरुष (*aruṣa*) is another proper name, a synonym of Agni and indicating an aspect of Agni. In explaining this Ṛk too, the scholar Max Muller states his view on this word thus:
+
+.... .... .... But I return to my original translation, and I prefer to see in Arusha as the representative of the rising Sun and, at the same time, of the sacrificial fire of the morning, but nevertheless as having in the mind of the poet a personality of his own. He is the child of Dyu, originally the offspring cf heaven. He is the son of strength, originally generated by the strong rubbing of the Aranis. He is the light of the sacrifice, whether as reminding man that the time for the morning sacrifice has come, or as himself lighting the sacrifice on the eastern altar of the sky. Hs is Arusha, originally as clothed in bright red colour, but gradually changed into the representative of the morning.
+( S. B. E. Vol. 32—P. 25-6 )
+
+Besides this, if one considers the meanings at the places where the feminine form अरुषी (*aruṣī*) is used,
+
 ---
 
-**Progress note:** Done through printed p. 189. pp. 184-189 (batch API)
+**Progress note:** Done through printed p. 195. pp. 190-195 (batch API)
