@@ -14110,6 +14110,132 @@ it shows the aggregate of the three worlds that exist in a regulated, collective
 - विममे, सधस्थम् — अस्यैव सूक्तस्य प्रथममंत्रे व्याख्यातम् ।
 - पदेभिः — बहुलं छंदसि इति भिस ऐस्भावस्य विकल्पत्वाद् अत्र न भवति । बहुवचने झल्येत् इति एत्वम् ।
 
+### Printed p. 581
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्री पू॒र्णा मधु॑ना प॒दान्यक्षी॑यमाणा स्व॒धया॒  ॑
+> मदंति ।  
+> या उ॑ त्रि॒धातु॑ पृथि॒वीमु॒त द्यामेको॑ दा॒धार॒ भुव॑नानि॒  ॑
+> विश्वा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्री । पूर्णा । मधुना । पदानि । अक्षीयमाणा । स्वधया । मदंति ।  
+> यः । ऊं इति । त्रिधातु । पृथिवीं । उत । द्यां । एकः । दाधार । भुवनानि ! विश्वा ।  
+> ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य विष्णोर्मधुना मधुरेण दिव्येनामृतेन पूर्णा पूर्णानि त्रीणि पदानि
+> पादप्रक्षेपणान्य क्षीयमणाक्षीयमाणानि स्वधयान्नेन मदंति मादयंति तदाश्रितजनान् । य उ य एव पृथिवीं प्रख्यातां भूमिं द्यामुत द्योतनात्मकमंतरिक्षं
+> च विश्वा भुवनानि सर्वाणि भूतजातानि चतुर्दश लोकांश्च । यद्वा । पृथिवीशब्देनाधोवर्तिन्यतलवितलादिसप्तभुवनान्युपात्तानि । म्युशब्देन तदनांतररूपाणि भूरादि
+> सप्तभुवनानि। एवं चतुर्दश लोकान् विश्वा भुवनानि सर्वाण्यपि तत्रत्यानि भूतजातानि।
+> त्रिधातु । त्रयाणां धातूनां समाहारस्त्रिधातु । पृथिव्यप्तेजोरूपधातुत्रयविशिष्टं यथा भवति तथा दाधार । धृतवान् ॥ तुजादित्वादभ्यासस्य दीर्घत्वं । उत्पादितवानित्यर्थः । छंदोगारण्यके । तत्तेजोऽसृजत तदन्नमसृजत ता आप ऐक्षंतेति
+> भूतत्रयसृष्टिमुक्ता हन्ताहमिमास्तिस्रो देवतास्तासां त्रिवृतं त्रिवृतमेकैकां
+> करवाणीत्यादिना त्रिवृत्करणसृष्टिरुपपादिता । छा. उ. ६-२-३ ; ६-३-३ । यद्वा ।
+> त्रिधातु कालत्रयं गुणत्रयं वा दाधारेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Of whom, that is, of Viṣṇu, the three steps (the three placings of the foot) are filled with honey, that is, sweet divine nectar, and are imperishable; with svadhā, food, they gladden (मदंति (*madaṃti*)) the people who take refuge in him. He alone, य उ (*ya u*), who has upheld the renowned earth and the shining atmosphere, and all beings, the fourteen worlds. Alternatively: by the word पृथिवी (*pṛthivī*) are meant the seven lower worlds, Atala, Vitala and the rest; by the word for heaven the seven worlds above them, Bhū and the rest; thus the fourteen worlds, and all the beings that live in them. त्रिधातु (*tridhātu*) is the aggregate of three elements: he upheld them in such a way that the three elements, earth, water and fire, are included; the reduplicate of दाधार (*dādhāra*) is lengthened. The sense is "produced". In the Chāndogya Āraṇyaka, after stating the creation of the three elements ("that created fire, it created food, the waters thought…"), the creation by tripling is set out with "Let me make each of these three deities threefold" and so on (Chā. U. 6-2-3; 6-3-3). Or else: the construction is that he upheld the three times or the three guṇas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of that Viṣṇu
+- मधुना (*madhunā*)—with sweet nectar
+- पूर्णा (*pūrṇā*)—filled
+- पदानि (*padāni*)—the three placings of the foot
+- अक्षीयमाणा (*akṣīyamāṇā*)—being without destruction
+
+### Printed p. 582
+- स्वधया (*svadhayā*)—with pure food
+- मदंति (*madaṃti*)—gladden (the people who take refuge)
+- य उ (*ya u*)—that same Viṣṇu
+- पृथिवीं (*pṛthivīṃ*)—the renowned earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the shining atmosphere. [Or पृथिवीं (*pṛthivīṃ*)—the seven lower worlds, Atala, Vitala and the rest; द्यां (*dyāṃ*)—the seven upper worlds, Bhū and the rest.]
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—the (fourteen) worlds
+- त्रिधातु (*tridhātu*)—as though joined with the three elements, earth, water and fire
+- एकः (*ekaḥ*)—alone
+- दाधार (*dādhāra*)—has upheld (lifted and held)
+
+##### भावार्थ (Bhāvārtha)
+
+The three steps of Viṣṇu, filled with sweet nectar and imperishable, gladden the people who take refuge in them with the gift of pure food. And that same Viṣṇu has upheld the seven lower worlds and the seven upper worlds, all the fourteen worlds, as though joined with the three elements, earth, water and fire.
+
+##### Printed English
+
+Whose three imperishable pices, filled with ambrosia, delight (mankind) with sacred food; who verily alone upholds the three elements, and earth and heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+मधुना पूर्णा पदानि स्वधया मदंति (*madhunā pūrṇā padāni svadhayā madaṃti*)—दिव्येन अमृतेन पूर्णानि पादप्रक्षेपणानि अन्नेन आश्रितजनान् मादयंति (*divyena amṛtena pūrṇāni pādaprakṣepaṇāni annena āśritajanān mādayaṃti*). The steps, sweet with divine nectar or like nectar, delight devotees and others with food; thus the nature of the steps and their fruit are praised.
+
+स्वधया (*svadhayā*)—This word has been explained as "with food". That meaning hardly seems suitable in this context. Since in some places Sāyaṇa himself explains स्वधया (*svadhayā*) in two ways, आत्मीयेन तेजसा हविर्लक्षणेन अन्नेन वा (*ātmīyena tejasā havirlakṣaṇena annena vā*), the first meaning fits best here. The Nirukta-writers have included this word both among the names of water (Ni. 2-23) and among the names of food (Ni. 3-9). But in many contexts the word स्वधा (*svadhā*) also means one's own greatness, one's own brilliance, or self-support. For example, in
+शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तरा आनु म्यूनजरामृता चरति स्वधाभिः । (*śaśvatpuroṣā vyuvāsa devyatho adyedaṃ vyāvo maghonī | atho vyucchāduttarā ānu myūnajarāmṛtā carati svadhābhiḥ |*)
+(Ṛ. Saṃ. 1-183-13)
+
+### Printed p. 583
+this word, used of Uṣas, is explained आत्मियैस्तेजोभिः (*ātmiyaistejobhiḥ*), "with her own brilliances". Likewise in
+यदंतरिक्षे सतथः पुरुभुजा यद्वेमे रोदसी अनु । यद्वा स्वधाभिरधितिष्ठथो रथमत आ यातमश्विना ॥ (*yadaṃtarikṣe satathaḥ purubhujā yadveme rodasī anu | yadvā svadhābhiradhitiṣṭhatho rathamata ā yātamaśvinā ‖*)
+(Ṛ. Saṃ. 8-10-6)
+the sense is आत्मियैस्तेजोभिर्बलैर्वा सार्धं (*ātmiyaistejobhirbalairvā sārdhaṃ*), "with your own brilliances or with your own powers".
+न मृत्युरासीवमृतं न तर्हि न रात्र्या अह्न आसीत्पकेतः । आनीदवातं स्वधया तदेकं तस्माद्भान्यन्न परः किं चनास ॥ (*na mṛtyurāsīvamṛtaṃ na tarhi na rātryā ahna āsītpaketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmādbhānyanna paraḥ kiṃ canāsa ‖*)
+(Ṛ. Saṃ. 10-129-2)
+In this Ṛk Sāyaṇa explains स्वस्मिन् धीयते ध्रियते आश्रित्य वर्तते इति स्वधा (*svasmin dhīyate dhriyate āśritya vartate iti svadhā*): since it depends on itself, it is स्वधा (*svadhā*), an epithet of Māyā, the wondrous power of Īśvara (Parabrahman). Hence in the present Ṛk too it can be understood that Viṣṇu gladdens all the worlds by his brilliance, his greatness, and his extraordinary world-protecting power.
+त्रीण्येक उरुगायो वि चक्रमे यत्र देवासो मदंति । (*trīṇyeka urugāyo vi cakrame yatra devāso madaṃti |*)
+(Ṛ. Saṃ. 35-29-2)**NOTE**
+In such Ṛks it is said that Viṣṇu's stepping was in the worlds where even the gods rejoice; the same point is praised in the present Ṛk.
+Where the expressions स्वधां अनु (*svadhāṃ anu*) or आनु स्वधां (*ānu svadhāṃ*) occur, the meanings are "naturally, by nature, according to custom"; this was shown earlier citing Ṛks 8-20-7; 7-56-13 and others. It was also shown that in 4-26-4 and similar places it means "chariot", and in 10-27-19 "army".
+त्रिधातु (*tridhātu*)—त्रयाणां धातूनां समाहारस्त्रिधातु । पृथिव्यप्तेजोरूपधातुत्रयविशिष्टं यथा भवति तथा (*trayāṇāṃ dhātūnāṃ samāhārastridhātu | pṛthivyaptejorūpadhātutrayaviśiṣṭaṃ yathā bhavati tathā*). It is explained as the totality of the three elements, earth, water and fire. And from the Chāndogya Upaniṣad:
+तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत तत्तेज ऐक्षत बहु स्यां प्रजायेयेति तदपोऽसृजत । .... .... ता आप ऐक्षंत बह्वः स्याम प्रजा- येमहीति ता अन्नमसृजंत । सेयं देवतैक्षत हंताहमिमास्तिस्रो देवता अनेन जेवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणीति । तासां त्रिवृतं त्रिवृतमेकैकां करवाणीति सेयं देवतेमास्तिस्रो देवता अनेनैव जीवेनात्मनानुप्रविश्य नामरूपे व्याकरोत् । (छा. उ. ६-३-२, ३) ऎंब (*tadaikṣata bahu syāṃ prajāyeyeti tattejo 'sṛjata tatteja aikṣata bahu syāṃ prajāyeyeti tadapo 'sṛjata | .... .... tā āpa aikṣaṃta bahvaḥ syāma prajā- yemahīti tā annamasṛjaṃta | seyaṃ devataikṣata haṃtāhamimāstisro devatā anena jevenātmanānupraviśya nāmarūpe vyākaravāṇīti | tāsāṃ trivṛtaṃ trivṛtamekaikāṃ karavāṇīti seyaṃ devatemāstisro devatā anenaiva jīvenātmanānupraviśya nāmarūpe vyākarot | (chā. u. 6-3-2, 3) èṃba*)
+### Printed p. 584
+
+(Chā. U. 6-3-2, 3)
+Citing these sentences, Sāyaṇa says that here too is praised the greatness of Parabrahman, who created the three principles of food, water and fire, and upheld them by his greatness. This explanation is only one of the many explanations possible for the word त्रिधातु (*tridhātu*). In this very Ṛk Sāyaṇa himself also says: यद्वा । त्रिधातु कालत्रयं गुणत्रयं वा दाधारेत्यन्वयः । (*yadvā | tridhātu kālatrayaṃ guṇatrayaṃ vā dādhāretyanvayaḥ |*) It may mean that he upheld within his all-pervading principle either the three times, past, future and present, or the three guṇas, sattva, rajas and tamas.
+अग्निरस्मि जन्मना जातवेदा धृतं मे चक्षुरमृतं म आसन् । अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥ (*agnirasmi janmanā jātavedā dhṛtaṃ me cakṣuramṛtaṃ ma āsan | arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*)
+(Ṛ. Saṃ. 3-26-7)
+In this Ṛk the word त्रिधातु (*tridhātu*) is explained प्राणापानव्यानात्मना त्रिधा वर्तमानोऽर्कोऽर्चनीयो यः प्राणोऽस्ति सोऽपि अहमेवास्मि (*prāṇāpānavyānātmanā tridhā vartamāno 'rko 'rcanīyo yaḥ prāṇo 'sti so 'pi ahamevāsmi*): the principle of breath in its three forms, prāṇa, apāna and vyāna. In
+यद्देवाः शर्म शरणं यद्भद्रं यदनातुरं । त्रिधातु यद्वरूथ्यं १ तदस्मासु वि यंतनानेहसो व ऊतयः सु ऊतयो व ऊतयः (*yaddevāḥ śarma śaraṇaṃ yadbhadraṃ yadanāturaṃ | tridhātu yadvarūthyaṃ 1 tadasmāsu vi yaṃtanānehaso va ūtayaḥ su ūtayo va ūtayaḥ*)
+(Ṛ. Saṃ. 8-47-10)
+it is explained as the three guṇas, sattva, rajas and tamas. Moreover, in
+आ धर्णसिबर्ृहद्दिवो रराणो विश्वेभिर्गन्वोमभिर्हुवानः । ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृंगो वृषभो वयोधाः ॥ (*ā dharṇasibarṛhaddivo rarāṇo viśvebhirganvomabhirhuvānaḥ | gnā vasāna oṣadhīramṛdhrastridhātuśṛṃgo vṛṣabho vayodhāḥ ‖*)
+(Ṛ. Saṃ. 5-43-13)
+there is a description of Agni's flame. Here त्रिधातु शृंगः (*tridhātu śṛṃgaḥ*) is explained त्रिप्रकार शृंगवदुन्नतलोहितशुक्लकृष्णवर्णज्वालः (*triprakāra śṛṃgavadunnatalohitaśuklakṛṣṇavarṇajvālaḥ*): one whose flames rise high like horns, in three kinds, white, black and red.
+त्रिरा दिवः सवितर्वार्याणि दिवेदिव आ सुव त्रिर्नो अह्नः । त्रिधातु राय आ सुवा वसूनि भग त्रातर्थिषणे सातये धाः ॥ (*trirā divaḥ savitarvāryāṇi divediva ā suva trirno ahnaḥ | tridhātu rāya ā suvā vasūni bhaga trātarthiṣaṇe sātaye dhāḥ ‖*)
+(Ṛ. Saṃ. 3-56-6)
+
+### Printed p. 585
+Here, as an epithet of वसूनि धनानि (*vasūni dhanāni*), त्रिधातूनि पशुकनकरत्नभेदेन त्रिप्रकाराणि (*tridhātūni paśukanakaratnabhedena triprakārāṇi*) is explained: wealth of three kinds, cattle, gold and jewels.
+तव त्रिधातु पृथिवी उत द्यौर्वैश्वानर व्रतमग्ने सचंत । त्वं भासा रोदसी आ ततंथाजस्रेण शोचिषा शोशुचानः । (*tava tridhātu pṛthivī uta dyaurvaiśvānara vratamagne sacaṃta | tvaṃ bhāsā rodasī ā tataṃthājasreṇa śociṣā śośucānaḥ |*)
+(Ṛ. Saṃ. 7-5-4)
+Here, in describing that the three worlds serve the vow of Vaiśvānara, त्रिधातु, पृथिवी, द्यौः (*tridhātu, pṛthivī, dyauḥ*) are named, and त्रिधातु (*tridhātu*) is used as a synonym of the atmosphere.
+तस्य यो योनिराशय आस। तमनु परामृश्य संलुप्याच्छिनत्सैषेष्टिरभवत्तद्यदेतस्मिन्नाशये त्रिधातुरिवैषा विद्याशेत तस्मात्त्रैधातवी नाम ॥ (*tasya yo yonirāśaya āsa| tamanu parāmṛśya saṃlupyācchinatsaiṣeṣṭirabhavattadyadetasminnāśaye tridhāturivaiṣā vidyāśeta tasmāttraidhātavī nāma ‖*)
+(Śa. Brā. 5-5-5-6)
+From these sentences of the Śatapatha Brāhmaṇa it is known that at the slaying of the demon Vṛtra, because the knowledge consisting of the three Vedas was the basis, the iṣṭi performed on that occasion is famous as the Traidhātavī iṣṭi.
+ततो वै स इमान् लोकाग्स्त्रेधादुहत्तत्रिधातोस्त्रिधातुत्वं यं कामयेतान्नादस्त्यादिति तस्मा एतं त्रिधातुं निर्वपेदिंद्राय राजे पुरोडाशं । (*tato vai sa imān lokāgstredhāduhattatridhātostridhātutvaṃ yaṃ kāmayetānnādastyāditi tasmā etaṃ tridhātuṃ nirvapediṃdrāya rāje puroḍāśaṃ |*)
+(Tai. Saṃ. 2-3-6-1)
+For the word त्रिधातु (*tridhātu*) in these sentences of the Taittirīya Saṃhitā the commentary says: तिस्र एतास्त्रिधातोर्देवता लोकत्रयात्मिकाः । ततः खलु त्रिधातु देवतानां त्रित्वात्पजापतिः लोकत्रयव्यापी व्याप्तानिमान् लोकांस्त्रेधादुहत् त्रिप्रकारमदुहत् । त्रयो धातवो धनान्यस्मिन्निति त्रिधातुः, त्रेधा धातव्यत्वात्पुरोडाशस्य । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥ (*tisra etāstridhātordevatā lokatrayātmikāḥ | tataḥ khalu tridhātu devatānāṃ tritvātpajāpatiḥ lokatrayavyāpī vyāptānimān lokāṃstredhāduhat triprakāramaduhat | trayo dhātavo dhanānyasminniti tridhātuḥ, tredhā dhātavyatvātpuroḍāśasya | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*)
+(Tai. Saṃ. Bhāṣya)
+Thus, to the deities who dwell in the three worlds and in three forms, Prajāpati assigned the food in the form of the puroḍāśa at three times; and for the word त्रिधातु (*tridhātu*) the meanings world, food, the three elements and so on are given.
+Thus the word त्रिधातु (*tridhātu*) is used in various places in different senses. In the present Ṛk it can mean the principles of earth, water and fire, or the times past, future and present,
+
+### Printed p. 586
+or the guṇas sattva, rajas and tamas. The purport is that the whole universe, with all its principles, rests in Viṣṇu's support.
+Or: just as in Ṛk 7-5-4 quoted above the word त्रिधातु (*tridhātu*) stands together with पृथिवी (*pṛthivī*) and द्यौः (*dyauḥ*) as a synonym of the atmosphere, so in the present Ṛk too, since the names of the three worlds are indicated as त्रिधातु, पृथिवीं उतद्यां (*tridhātu, pṛthivīṃ utadyāṃ*), the meaning here may be the atmosphere. The purport is that all the worlds, earth and the rest, are in Viṣṇu's support.
+
+##### Grammar
+
+- त्री — नपुंसके शि आदेशे आगते त्रीणि इति रूपे जाते शेश्छंदसि बहुलं इति शेर्लोपः । एवं पूर्णा इत्यत्रापि रूपं भवति ।
+- अक्षीयमाणा — न क्षीयमाणानि अक्षीयमाणानि । तत्पुरुषेतुल्यार्थ (पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरो भवति । नपुंसकरूपे शेर्लुक् ।
+- मदंति — मद तृप्तियोगे धातुः । अयमंतर्भावितण्यर्थकः प्रयुक्तः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यच्छब्दसंबंधान्निघातस्वरो न भवति । तास्यनुदात्तेत् इति सूत्रेण लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- त्रिधातु — डुधाञ् धारणपोषणयोः धातुः । सितनिगमिमसि (उ. सू. १-६९) इति तुन् प्रत्ययः । नित्त्वादाद्युदात्तः भवति । समासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- दाधार — धृञ् अवस्थाने धातुः । लिट् प्रथमपुरुषएकवचने णलादेशः । धातोर्द्वित्वादि । तुजादीनां दीर्घोऽभ्यासस्य (पा. सू. ६-१-७) इति अभ्यासस्य दीर्घो भवति । यच्छब्दसंबंधान्निघातस्वरो न भवति । प्रत्ययस्य लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययात्पूर्वस्योदात्तस्वरो भवति ।
+- विश्वा — पूर्ववद्बहुवचने शेर्लोपः ॥४॥
+
 ---
 
-**Progress note:** Done through printed p. 580. pp. 575-580 (batch API)
+**Progress note:** Done through printed p. 586. pp. 581-
