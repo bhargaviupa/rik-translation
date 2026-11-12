@@ -13608,6 +13608,129 @@ O Mitra and Varuṇa: for the sacrifice (ṛta) that is yours, and for the perso
 
 O Mitra and Varuṇa, may the cow that assists that well-known king Rātahavya in the task of gratifying you both—as he, honouring you with praise, offers oblations in the sacrifice like a priest, the Hotṛ—be filled with abundant milk.
 
+### Printed p. 557
+
+##### Printed English
+
+Let the productive milch cow, Mitra and Varuna, furnish abundant nutriment to the pious man who presents you with oblations, as when Ratahavya, glorifying you, propitiates you in the solemnity, like the ministrant priest of a man (who institutes the rite).
+
+##### विशेषविषयगळु (Special Topics)
+
+रातहव्यः (*rātahavyaḥ*)—Ordinarily the word रातहव्यः (*rātahavyaḥ*) is formed from the root रै (*rai*), which means giving. It means "one whose oblation has been given" and is an epithet either of the sacrificer who has offered the oblation or of the deity to whom the oblation is offered. In the present Ṛk it is taken to mean a king of this name. There is not enough evidence to know about him properly. The seer Rātahavya is said to be the seer of the 65th and 66th sūktas of the fifth Maṇḍala. By रातहव्यस्यात्रेयस्यार्षं मैत्रावरुणं । (*rātahavyasyātreyasyārṣaṃ maitrāvaruṇaṃ |*) the Bhāṣyakāra says that it was composed by the seer named Rātahavya, of the Ātreya family.
+In the Ṛk ता वामेषे रथानामुर्वीं गव्यूतिमेषां । रातहव्यस्य सुष्टुतिं वधृक् स्सोमैर्मनामहे ॥ (*tā vāmeṣe rathānāmurvīṃ gavyūtimeṣāṃ | rātahavyasya suṣṭutiṃ vadhṛk ssomairmanāmahe ‖*) (Ṛ. Saṃ. 5-66-3) the seer mentions his own name and expresses his devotion.
+In places such as कस्मा अद्य सुजाताय रातहन्याय प्र ययुः । एना यामेन मरुतः ॥ (*kasmā adya sujātāya rātahanyāya pra yayuḥ | enā yāmena marutaḥ ‖*) (Ṛ. Saṃ. 5-53-12) the word is everywhere taken to mean "one who has given the oblation".
+विदथे (*vidathe*)—The derivation of the word विदथ (*vidatha*) and the various meanings of this word have been given in this same volume in the Special Topics of Ṛk 1-143-7 (pp. 331–324). Here विदथे-यज्ञे । (*vidathe-yajñe |*) is explained as "in the sacrifice".
+अदितिः (*aditiḥ*)—It means one who possesses fullness without deficiency. The derivation etc. of this word were given earlier.
+पीपाय (*pīpāya*)—क्षीरेण पुनःपुनः आप्यायतां । (*kṣīreṇa punaḥpunaḥ āpyāyatāṃ |*) By filling itself abundantly with milk, the prayer is that the cow may satisfy the sacrifice, which has to be carried out with milk, and the sacrificer who relies on her for the gift of oblations. The word indicates both meanings: increase and the satisfaction that results from it.
+
+### Printed p. 558
+In Ṛks such as पीपाय स श्रवसा मर्त्येषु यो अग्नये ददाश विप्र उक्थैः । चित्राभिस्तमूतिभिश्चित्रशोचिव्रजस्य साता गोमतो दधाति ॥ (*pīpāya sa śravasā martyeṣu yo agnaye dadāśa vipra ukthaiḥ | citrābhistamūtibhiścitraśocivrajasya sātā gomato dadhāti ‖*) (Ṛ. Saṃ. 6-10-3) both meanings are indicated; likewise in the present Ṛk the fullness of milk in the cows, and through it the delight of the sacrificer and others, is indicated.
+
+##### Grammar
+
+- पीपाय — ओप्यायी वृद्धौ धातुः । छंदसि लुज् लज् लिटः (पं- सू. ३-४-६) इति लोडर्थे लिट् । प्रथमपुरुषैकवचने परस्मैपदानांणल — इति णलादेशः । लिड्यज्जोश्च (पा. सू ६-१-२९) इति धातोः सीभावः । द्वित्वे जाते अचोञ्छति इति ईकारस्य वृद्धिः । तस्य अयादेशः । पादादित्वान्न निघातस्वरः । णल् लित्त्वात् लिति (पा.सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरः भवति ।
+- अदितिः — न दितिः अदितिः । तत्पुरुषे तुल्यार्थ — (पा. सू. ६-२-२) इति अव्ययं, पूर्वपदप्रकृतिस्वरः भवति ।
+- हविर्दे — हविः ददाति इति हविर्दाः । आतो मनिन्‌वनिप्क्वनिपश्च (पा.सू. ३-२-७४) इति दाञ् दाने इति धातोः विच् प्रत्ययः । आकारांतशब्दो भवति । समासे गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरः भवति । अस्मात् चतुर्थीएकवचने परे भसंज्ञात्वात् अतोधातोः (पा. सू. ६-४-१४०) इति आकारस्य लोपः । उदात्तनिवृत्तिस्वरेण विभक्तेः उदात्तस्वरः अवशिष्यते ।
+- हिनोति — हि गतौ वृद्धौ च धातुः स्वादिः । श्लुविकरणः । लट् प्रथमपुरुषएकवचनांतरूपं । पादादित्वान्न निघातस्वरः । विकरणस्वरः अवशिष्यते ।
+- सपर्यन् — सपर पूजायां धातुः । कंड्वादिः । कंड्वादिभ्योयक् (पा.सू. ३-१-२७) इति स्वार्थे यक् प्रत्ययः । लटः शत्रादेशः । प्रथमाएकवचनांतरूपं । यक् स्वरः अवशिष्यते ।
+- रातहव्यः — रातं हव्यं येन रातहव्यः बहुव्रीहिः । प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति ।
+- मानुषः — मनोः संबंधी मानुषः । मनोर्जातावञ् इत्यौषुक्‌च इति अञ् प्रत्ययः । तत्सन्नियोगेन षुकागमः । आदिवृद्धिः । ञित्त्वात् आद्युदात्तस्वरः भवति । ॥ ३ ॥
+
+### Printed p. 559
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त वां॑ वि॒क्षु मद्या॒स्वंधो॒ गाव॒ आप॑श्च पीपयंत दे॒वीः ।  
+> उ॒तो नो॑ अ॒स्य पू॒र्व्यः पति॒र्दन्वि॒तं पा॒तं पय॑स  ॒॑
+> उस्रियायाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । वां । विक्षु । मद्यासु । अंधः । गावः । आपः । च । पीपयंत । देवीः।  
+> उतो इति । नः । अस्य । पूर्व्यः । पतिः । दन् । वीतं । पातं । पयसः । उसियायाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे मित्रावरुणौ नां युवामंधोदनीयमन्नं पयोरूपं
+> पुरोडाशादिरूपं वा देवीर्द्योतनशीला गाव आपश्च व्रीह्यादिप्रवर्धकान्युदकानि च
+> मद्यासु युष्माभिर्मदनीयासु विक्षु प्रजासु यजमानलक्षणासु तासामभिवृद्ध्यर्थं पीपयंत । आप्याययंतु । उतो अपि च नोऽस्मत्संबंधिनोऽस्य
+> यज्ञस्य पूर्व्यः पूर्वकालीनः पतिः पालकोग्निर्दन् दाता भवत्विति शेषः । अग्नौ
+> हूयमानत्वात्सर्वेषामपि हविषां । यस्मादेवॆं तस्माद्दे मित्रावरुणौ नीतं ।
+> भक्षयतं पुरोडाशादिकं । उस्रियायाः -क्षीराम्युत्साविण्या गोः पयसः पयः
+> पातं । यद्वा । घनीभूतं पयस्याया नीतं स्रवद्रूपं पातं ॥
+
+##### Gist of the bhāṣya
+
+"Also, O Mitra and Varuṇa": the divine, shining cows and the waters, which make rice and the like grow, are to fill up (पीपयंत (*pīpayaṃta*), "let them cause to swell") your food (अंधः (*aṃdhaḥ*), food to be given: either in the form of milk or in the form of purodāśa and the like) among the विक्षु (*vikṣu*), the people in the form of the sacrificer, who are to be gladdened by you (मद्यासु (*madyāsu*)), for the increase of those people. "And" नः (*naḥ*), our, अस्य (*asya*), of this sacrifice, पूर्व्यः (*pūrvyaḥ*), the ancient पतिः (*patiḥ*), the protector, Agni, is to be the giver (दन् (*dan*); "let him be" is to be supplied), since all oblations are offered in Agni. Since this is so, O Mitra and Varuṇa, eat (वीतं (*vītaṃ*)) the purodāśa and the rest, and drink (पातं (*pātaṃ*)) the milk of the उस्रियायाः (*usriyāyāḥ*), the cow that pours out milk. Or else, a further explanation of पयस्याया नीतं स्रवद्रूपं पातं (*payasyāyā nītaṃ sravadrūpaṃ pātaṃ*) is given, speaking of thickened (milk) and of the flowing form. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—(O Mitra and Varuṇa) moreover
+- देवीः (*devīḥ*)—shining
+- गावः (*gāvaḥ*)—cows
+- अपश्च (*apaśca*)—and waters also
+- मध्यासु (*madhyāsu*)—(you) who gladden
+- विक्षु (*vikṣu*)—for the increase of the people in the form of sacrificers
+- अंधः (*aṃdhaḥ*)—with food fit to be eaten
+- वां (*vāṃ*)—both of you
+- पीपयंत (*pīpayaṃta*)—let them fill
+- उतो (*uto*)—moreover
+- नः (*naḥ*)—our
+- अस्य (*asya*)—of this
+- यज्ञद (*yajñada*)—sacrifice
+- पूर्व्यः (*pūrvyaḥ*)—the ancient one
+- पतिः (*patiḥ*)—and protector, Agni
+- र्द (*rda*)—let him be the giver (of the oblation)
+- वीतं (*vītaṃ*)—eat (the purodāśa and the rest)
+- उस्रियायाः (*usriyāyāḥ*)—of the cow that pours out milk and the like
+- पयसः (*payasaḥ*)—the milk
+- पातं (*pātaṃ*)—drink
+
+### Printed p. 560
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, may the shining cows and the waters fill you both with food fit to be eaten, for the increase of the people in the form of sacrificers who gladden you. Moreover, may Agni, the ancient one and protector of this our sacrifice, be the giver of the oblation; may he eat the purodāśa and the rest. And may he drink the milk of the cow.
+
+##### Printed English
+
+May the devine cows, and the waters, supply you with (sacrifical) food, for the prospertv of the people whom you favour; or mav (Agni) the former protector of this (our patron), be the donor (of the oblation): eat (of the butter and curds), drink of the milk of the cows.
+
+##### विशेषविषयगळु (Special Topics)
+
+देवीः (*devīḥ*)—द्योतनशीला । (*dyotanaśīlā |*) It is explained as "shining". For this word there is the derivation of the Nirukta authors: देवो दानाद्रा, द्योतनाद्वा, द्युस्थानो भवतीति वा । (*devo dānādrā, dyotanādvā, dyusthāno bhavatīti vā |*) — that is, it becomes देव (*deva*) either because the root means giving, or because it gives the sense of "to make shine", or because it means "possessing radiance", or because it dwells in the heavenly world (Ni. 7-15). If it is an epithet of deities such as Agni, all these meanings fit. Because it gives milk abundantly, it may be of the sense of giving or of shining. Sāyaṇa has explained it as "shining".
+विक्षु (*vikṣu*)—प्रजासु । यजमानलक्षणासु । (*prajāsu | yajamānalakṣaṇāsu |*) "(for the increase) of the human beings who perform the sacrifice". This word is read in the Nirukta among the names of men (3-7).
+पीपयंत (*pīpayaṃta*)—आप्याययंतु । (*āpyāyayaṃtu |*) The wish expressed is that first the food may increase abundantly, and then satisfaction and delight may come from it. That this word has both meanings, increase and delight, was stated in the Special Topics of the previous Ṛk.
+अंधः (*aṃdhaḥ*)—This word is read among the names of food, अंधः (*aṃdhaḥ*), वाजः (*vājaḥ*) and so on (Ni. 3-9). अंध इत्यन्न नामाध्यानीयं भवति । अध्ययनीयं प्रार्थनीयं । (*aṃdha ityanna nāmādhyānīyaṃ bhavati | adhyayanīyaṃ prārthanīyaṃ |*) — "to be recited, to be prayed for". To support this derivation, that food is called अंधः (*aṃdhaḥ*) also because of the extreme need for it, the Nirukta author (Ni. 5-1) cites the Ṛk
+अध्वरवो भरतेंद्राय सोममामत्रेभिः सिंचता मद्यमंधः । कामी हि वीरः सदमस्य प्रीतिं जुहोत वृष्टे तदिदेष वष्टि ॥ (*adhvaravo bharateṃdrāya somamāmatrebhiḥ siṃcatā madyamaṃdhaḥ | kāmī hi vīraḥ sadamasya prītiṃ juhota vṛṣṭe tadideṣa vaṣṭi ‖*) (Ṛ. Saṃ. 2-15-1)
+
+### Printed p. 561
+and explains the meaning of the word अंध (*aṃdha*) there as stated above.
+तमोऽप्यंध उच्यते नास्मिन् ध्यानं भवति । (*tamo 'pyaṃdha ucyate nāsmin dhyānaṃ bhavati |*) He explains that since one cannot be single-minded in darkness, darkness too is called अंध (*aṃdha*), and
+cites the Ṛk स्त्रीयः सतीस्ता उ मे पुंस आहुः पश्यदक्षण्वान्न वि चेतदंधः । कविर‍्यः पुत्रः स ईमा चिकेत यस्ता विजानात्स पितुष्टिता सत् ॥ (*strīyaḥ satīstā u me puṃsa āhuḥ paśyadakṣaṇvānna vi cetadaṃdhaḥ | kaviryaḥ putraḥ sa īmā ciketa yastā vijānātsa pituṣṭitā sat ‖*) (Ṛ. Saṃ. 1-164-16),
+showing that there the word अंध (*aṃdha*) means darkness. In the present Ṛk Sāyaṇa explains पयोरूपं पुरोडाशादि रूपं वा । (*payorūpaṃ puroḍāśādi rūpaṃ vā |*): the food is either food in the form of milk or food in the form of purodāśa and the like.
+पूर्व्यः (*pūrvyaḥ*)—This word is read among the names of the ancient (Ni. 3-19).
+लोकादिमग्निं तमुवाच तस्यॆ या इष्टका यावतीर्वा यथा वा । (*lokādimagniṃ tamuvāca tasyè yā iṣṭakā yāvatīrvā yathā vā |*) (Kaṭhopaniṣad 1-15). Śruti sentences of this kind praise Agni as the primal being of all the worlds. Śaṅkarācārya explains this sentence as लोकानामादिं प्रथमशरीरत्वादग्निं (*lokānāmādiṃ prathamaśarīratvādagniṃ*), "Agni, the first body of all the worlds". This same greatness of Agni is stated in the present Ṛk too.
+उस्रियायाः (*usriyāyāḥ*)—This word is read among the names of the cow, अघ्न्या (*aghnyā*), उस्रा (*usrā*), उस्रिया (*usriyā*) and so on (Ni. 3-8). उस्रियेति गोनाम । उस्राविणोऽस्यां भोगाः । (*usriyeti gonāma | usrāviṇo 'syāṃ bhogāḥ |*) The Nirukta author, citing this same Ṛk, explains the meaning of the word: the name उस्रियाः (*usriyāḥ*) is well known because milk, a means of happiness, flows from her (Ni. 4-19).
+
+##### Grammar
+
+- विक्षु — विश्‌शब्दः । सप्तमीबहुवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरः भवति ।
+- मद्यासु — मद तृप्तियोगे धातुः । गदमदचरयमश्चानुपसर्गे (पा. सू, ३-१-१००) इति यत् प्रत्ययः । यतोनावः (पा. सू. ६-१-२१३) इति अद्युदात्तस्वरः भवति । स्त्रीत्वविवक्षायां टाप् भवति ।
+- पीपयंत — ओप्यायी वृद्धौ धातुः । प्रयोजकव्यापारदर्शनात् हेतुमति च (पा. सू. ३-१-२६) इति णिच् । णिचि परे छांदसः पीभावः । छंदसि लुज्लज्‌लिटः (पा. सू. ३-४-६) इति लोडर्थे णिजंतात् लुज् । प्रथमपुरुष
+
+### Printed p. 562
+- पीपयंत (अनुवृत्तिः) — बहुवचने झिप्रत्ययस्य अंतादेशः । च्लेः णिश्रिद्रुस्रु — इति चज् । चज् निमित्तं धातोः द्वित्वादि । बहुलं छंदस्यमाज्‌योगेऽपि इति अडागमो न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- देवीः — अस्मात् जसि परे सुपां सुलुक् इति पूर्वसवर्णदीर्घः भवति ।
+- पूर्व्यः — पूर्वे भवः पूर्व्यः । पूर्वैः कृतमिनयौच (पा. सू. ४-४-१३३) इति य प्रत्ययः । यस्येति च इति अकारलोपः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- दन् — डुदाञ् दाने धातुः । अस्मात् लटि आगते तस्य शत्रादेशः । बहुलं छंदसि इति विकरणस्य (श्लु) लुक् । प्रत्ययस्य जित्त्वात् आतोलोपइटिच (पा. सू. ६-४-६४) इति अकारलोपः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- वीतम् — वी गत्यादिषु धातुः । अदादिः । अत्र भक्षणार्थे प्रयुक्तः । लोट् मध्यमपुरुषद्विवचने वीतम् इति रूपं भवति । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- पातम् — पा पाने धातुः । लोट् मध्यमपुरुषद्विवचने तमादेशः । बहुलं छंदसि इति शपः लुक् । शपि परे पिबादेशो न भवति । तिजंतस्य परत्वात् निघातस्वरो न भवति । पूर्ववत् प्रत्ययस्वरेण अंतोदात्तस्वरः भवति ।
+- उस्रियायाः — वसंतीति उस्रियाः वस निवासे । अस्मात् कर्तरि रियक् प्रत्ययः । छांदसत्वात् षत्वं न भवति । कित्त्वात् संप्रसारणं पूर्वरूपं । प्रत्ययस्वरेण इकारः उदात्तो भवति । षष्ठीएकवचनांतरूपं ॥ ४ ॥
+
+Here the 153rd sūkta ends.
+
 ---
 
-**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
+**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
