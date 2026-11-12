@@ -7796,6 +7796,169 @@ and the words वि-दधुः (*vi-dadhuḥ*) in the Ṛk
 And further, the meanings of the words विहित (*vihita*) and विदथ (*vidatha*) being the same, the sacrifice ordained by the śāstra came to be called by the name विदथ (*vidatha*); the meaning "sacrifice or sacrificial assembly" remained at the end. So this scholar has explained.
 The scholar Bloomfield, showing the faults in the meanings given by both Max Muller and Oldenberg, says that विदथ (*vidatha*) never comes to mean an assembly and that the meaning "private house" is the correct one. His opinion is as follows—
 
+### Printed p. 324
+## Special Topics (continued)
+
+##### विशेषविषयगळु (Special Topics)
+
+The word विदथ (*vidatha*) contains the root विद् (*vid*) in its ordinary sense of 'get, acquire'. Lustead of this, the radical idea underlying the word was generally felt to be 'come to-gether,' 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approximation of the word to other words for assemblage, especially to सभा (*sabhā*) with which विदथ (*vidatha*) was almost identified. We shall see that there are decided points of contact between the words विदथ (*vidatha*) and सभा (*sabhā*) but the contact is that of extreme opposites in a way. विदथ (*vidatha*) refers to home matters; सभा (*sabhā*) generally to public matters.
+
+In the interpretation of a term that figures prominently in the mystic-hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X-S5-26, the bride after the wedding ceremony proper, as the newly married couple are about to travel to their new home is addressed with the words "May Pushan taking thee by the hand lead thee home, may the Asvis lead thee forth on their car Go to your house in order that thou mayst be mistress of the house".
+
+Now विदथ (*vidatha*) here, can but have one meaning, 'household' or something very like it. It certainly cannot refer to anything in the nature of a public gathering similar to the सभा (*sabhā*). In the phrase बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*) (Ṛ. Saṃ. 2-1-16), the word सुवीराः (*suvīrāḥ*) refers to family relations not to public life.
+
+Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacerdotal sphere: indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be. In as much as the sacrifice is a private, home affair, it is very natural विदथ (*vidatha*) the house the premises the establishment, should figure prominently in connection with the sacrifice.
+
+The gist of this article is: it is not correct that some have given the word विदथ (*vidatha*) the meaning सभा (*sabhā*) (assembly); the meaning of this word is a private home. The use of the word in this very sense can be noticed in many places. For example—
+
+पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्रवहतां रथेन । गृहान् गच्छ गृहपत्नि यथासो वशिनी त्वं विदथवा वदासि ॥ (*pūṣā tveto nayatu hastagṛhyāśvinā tvā pravahatāṃ rathena | gṛhān gaccha gṛhapatni yathāso vaśinī tvaṃ vidathavā vadāsi ‖*) (Ṛ. Saṃ. 1-85-26) **NOTE**
+
+In this verse the meaning that Pūṣan and the Aśvin deities should lead you safely to the husband's house is clear. Moreover,
+
+### Printed p. 325
+
+ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः । अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विवर्थे सुवीराः ॥ (*ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ | asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vivarthe suvīrāḥ ‖*) (Ṛ. Saṃ. 2-1-16) **NOTE**
+
+in this verse too, since सुवीराः (*suvīrāḥ*) is explained as शोभनपुत्रादिसहिताः (*śobhanaputrādisahitāḥ*), the meaning is "house". But since the sacrificial work is done in the house, in the present context it becomes "sacrificial house". The same meaning lies in what Yāska and others say, that it is a synonym of "sacrifice". Thus many Western scholars have given their own individual opinions. Since the different meanings house, sacrifice and assembly all fit, none of them can be called wrong. All these meanings are found in Sāyaṇa's commentary itself: for example in the Ṛks 10-85-26 and 27, 7-84-3 etc. he has explained it as "house", and in many Ṛks such as 10-100-6 and 10-111-7 as "sacrifice". It also comes to mean "sacrificial house" and "sacrificial assembly".
+
+##### Grammar
+
+- धृतप्रतीकम्—धृतात् प्रतीकाः यस्य स तम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः भवति । द्वितीयाएकवचनांतरूपम् ।
+- धूर्षदम्—धुरि सीदति इति धूर्षद् । षद्लृ विशरण गत्यवसादनेषु धातुः । सत्तूद्विषद्रुह— (पा. सू. ३-२-६१) इति सुबंते उपपदे सति क्विप् प्रत्ययः । गतिकारकोपपदात् कृत्— (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- सं इधानः—इांधी नीप्त् धातुः । ताच्छिल्ये चानत् प्रत्ययः । अनिदितांहल— इति उपधानकारलोपः । चितः (पा. सू ६-१-१६३) इति अंतोदात्तस्वरः भवति । समासे कृमत्तरपदप्रकृतिस्वरः भवति । **NOTE**
+- ऋज्जते—ऋंज भूषणे धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- इंधानः—इंधी दीप्तौ धातुः । रुधादिः । लडर्थे शानच् प्रत्ययः । रुधादिभ्यःक्षम्—(पा. सू. ३-१-७८) इति क्षम् विकरणः । अनुदात्तेत्ताद धातोः परे लसार्वधातुकं आगतत्वात् तास्यनुदात्तेत् (पा. सू. ६-१-१५६) इति अनुदात्तत्वात् धातुस्वरः अवतिष्ठते ।
+
+### Printed p. 326
+
+- अक्रः—क्रमु पादविक्षेपे धातुः । अन्यत्रापिदृश्यते इति वचनात् डप्रत्ययः (छांदसत्वात् ड प्रत्ययः) । डित्वसामर्थ्यात् धातोः टेः लोपः । नक्रः अक्रः कुदुत्तरपदप्रकृतिस्वरः भवति ।
+- विदथेषु—विद ज्ञाने धातुः । अस्मात् औणादिकः अथ प्रत्ययः । जित्त्वविधानात् लघूपधगुणः न भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति । सप्तमीबहुवचनांतरूपम् ।
+- शुक्रवर्णाम्—शुक्रः वर्णः यस्याः सा । ताम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः भवति ।
+- यंसते—यम उपरमे धातुः । लेट् प्रथमपुरुष एकवचने तप्रत्ययः । टितआत्मनेपदानां इति एत्वम् । लेटोडाटौ (पा. सू. ३-४-९४) इति तस्य अडागमः । सिब्बहुलं लेटि (पा सू. ३-१-३४) इति सिप् । धातुमकारस्य अनुस्वारः । अतिजंतस्य परत्वात् निघातस्वरः भवति । ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप्र॑युच्छ॒न्नप्र॑युच्छद्भिरग्ने शि॒वेभि॑र्नः पा॒युभिः॑ पाहि  ॒
+> शग्मैः ।  
+> अद॑भेभि॒रदृ॑पितेभिरि॒ष्टेनि॑मिषद्भिः॒ परि॑ पाहि नो॒ जाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्रयुच्छन् । अप्रयुच्छत्भिः ! अग्ने । शिवेभिः । नः । पायुभि । पाहि । शग्मैः ।  
+> अदभेभिः । अदृपितेभिः । इष्टे । अनिमिषत्भिः । परि । पाहि । नः । जाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> '। सः यज्ञभाष्यः ।'
+> हे अग्ने अप्रयुच्छन्नस्मास्वप्रमाद्यन् ॥ युच्छ प्रमादे ॥ अविच्छिन्नप्रवृत्तिः
+> सन्नप्रयुच्छद्भिरप्रमावृद्ध्भिरनवधानरहितैः शिवेभिर्मंत्रकल्याणैः शग्मैः सुखकरैः
+> पायुभी रक्षणप्रकारैनोऽस्मान्साहि । रक्ष । किंच हे इष्टे सर्वैरेषणीयाग्ने जा
+> जायमानोऽस्माभिर्दिर्प्यमानः सन्नदब्बेभिरहिंसित्यैरदृपितेभिः केनचिदप्यपरिभूतैः ॥
+
+##### Gist of the bhāṣya
+
+Yajña-bhāṣya (Sāyaṇa's heading). "O Agni, अप्रयुच्छन् (*aprayucchan*): not being heedless towards us" (root युच्छ (*yuccha*) in the sense of heedlessness). Being of unbroken activity, with अप्रयुच्छद्भिः (*aprayucchadbhiḥ*) (cares) free of heedlessness and lapses of attention, शिवेभिः (*śivebhiḥ*) (auspicious, as the mantra's blessings), शग्मैः (*śagmaiḥ*) (happiness-giving), पायुभिः (*pāyubhiḥ*) (modes of protection), पाहि (*pāhi*): guard us. Further, इष्टे (*iṣṭe*): O Agni who art sought by all; जाः (*jāḥ*): being born, kindled by us, with अदब्बेभिः (*adabbebhiḥ*) (unharmed) and अदृपितेभिः (*adṛpitebhiḥ*) (overcome by none) (cares). **NOTE**
+
+### Printed p. 327
+
+> दृप द्वन्न उत्केशे तौदादिकः ॥ आनिमिषद्भिर्निमेषरहितैरनलसस्वभावैः ईद्रशैललक्षणैर्नोऽस्मान्परि परितः पाहि । पालय । यद्वा । उपर्युपरि जायंत इति जाः । नो
+> जा अस्मत्संबंधिनीः पुत्रपौत्रादिरूपाः प्रजाः परि पाहि । परितो रक्ष । न केवलमस्मान् किंत्वस्मत्पूत्रपौत्रादीनपि रक्ष ॥
+
+##### Gist of the bhāṣya
+
+दृप (*dṛpa*) in the sense of exuberance, of the Tudādi class. अनिमिषद्भिः (*animiṣadbhiḥ*): free from winking, of unslothful nature; with such characteristics protect us all round. Or else: those who are born upon and upon (again) are जाः (*jāḥ*); so "नो जाः (*no jāḥ*)": protect all round our offspring in the form of sons, grandsons and so on. Not only us but also our sons and grandsons protect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अप्रयुच्छ (*aprayuccha*)—without being heedless (in our matter)
+- अप्रयुच्छद्भिः (*aprayucchadbhiḥ*)—not heedless
+- शिवेभिः (*śivebhiḥ*)—conducive to welfare
+- शग्मैः (*śagmaiḥ*)—conducive to happiness
+- पायुभिः (*pāyubhiḥ*)—by modes of protection
+- नः (*naḥ*)—us
+- पाहि (*pāhi*)—protect
+- इष्टे (*iṣṭe*)—O Agni, desired by all
+- जाः (*jāḥ*)—born from us
+- अदभीभिः (*adabhībhiḥ*)—unobstructed
+- अदृपितेभिः (*adṛpitebhiḥ*)—not subject to another (**NOTE**)
+- अनिमिषद्भिः (*animiṣadbhiḥ*)—not of sluggish nature; with protections (that are such)
+- नः (*naḥ*)—us
+- परि (*pari*)—all round
+- पाहि (*pāhi*)—protect
+- [Or नः (*naḥ*)—belonging to us; जाः (*jāḥ*)—our sons, grandsons and so on; परि पाहि (*pari pāhi*)—protect all round.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being very watchful in our matter, protect us with protections that are not heedless, auspicious and happiness-giving. O Agni, desired by all, as soon as you are born from us, protect all round both us and our sons, grandsons and so on, with protections that are unobstructed, that do not become subject to another, and that are not sluggish.
+
+##### Printed English
+
+Agni, never heedless (of us), guard us with never heedless, auspicious, and joy-bestowing cares : do you, who are desired (by all), protect us, and those born of us, with unobstructed, unovercome, and never-slumbering (vigilance).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the protection of Agni is prayed for. The manner of that protection is told by the epithets beginning with अप्रयुच्छन् (*aprayucchan*).
+
+अप्रयुच्छन् (*aprayucchan*)—युच्छ प्रमादे । अप्रयुच्छन् । अस्मद्रक्षणे जागरूकस्सन् । (*yuccha pramāde | aprayucchan | asmadrakṣaṇe jāgarūkassan |*) Formed from the root युच्छ (*yuccha*), which gives the meaning heedlessness, being careless, and joined with the prefixes, it gives the sense of not being heedless.
+
+### Printed p. 328
+
+As in Ṛks such as
+
+त्वं दूतस्त्वमु नः परस्सास्त्वं वस्य अ वृषभ प्रणेता । अग्ने तोकस्य नस्तने तनूनामप्रयच्छन्वीद्यद्भोधि गोपाः । (*tvaṃ dūtastvamu naḥ parassāstvaṃ vasya a vṛṣabha praṇetā | agne tokasya nastane tanūnāmaprayacchanvīdyadbhodhi gopāḥ |*) (Ṛ. Saṃ. 2-9-2)
+
+where Agni is prayed to protect with watchfulness, so it is told here too.
+
+शग्मैः (*śagmaiḥ*)—The word शग्म (*śagma*) is read among the names of happiness (Ni. 3-13). Sāyaṇa has generally everywhere given this word the meaning happiness or happiness-giving. But in
+
+तं शग्मासो अरुषासो अश्वा बृहस्पतिं सहवाहो वहंति । सहश्चिद्यस्य नीलवत्सधस्थं नभो न रूपमरुषं वसानाः । (*taṃ śagmāso aruṣāso aśvā bṛhaspatiṃ sahavāho vahaṃti | sahaścidyasya nīlavatsadhasthaṃ nabho na rūpamaruṣaṃ vasānāḥ |*) (Ṛ. Saṃ. 7-97-6)
+
+and in the Ṛk
+
+एह हरी ब्रह्मयुजा शग्मा वक्षतः सखायं । गीर्भिः श्रुतं गिर्वणसं ॥ (*eha harī brahmayujā śagmā vakṣataḥ sakhāyaṃ | gīrbhiḥ śrutaṃ girvaṇasaṃ ‖*) (Ṛ. Saṃ. 8-2-27)
+
+he has given the meaning "conducive to happiness" or "able". Bhaṭṭa-bhāṣya (Bhaṭṭa Bhāskara) has shown that the word शग्म (*śagma*) used in the Taittirīya Saṃhitā sentence
+
+पर्वतादा सरस्वती यजता गंतु यज्ञं । हवं देवी जुजुषाणा घृताची शग्मां नो वाचमुशती शृणोतु ॥ (*parvatādā sarasvatī yajatā gaṃtu yajñaṃ | havaṃ devī jujuṣāṇā ghṛtācī śagmāṃ no vācamuśatī śṛṇotu ‖*) (Tai. Saṃ. 1-8-22-2)
+
+and in the Taittirīya Brāhmaṇa sentence
+
+तपसास्यानुवर्तये । शिवेनास्कोपवर्तये । शग्नेनास्काभिवर्तये । (*tapasāsyānuvartaye | śivenāskopavartaye | śagnenāskābhivartaye |*) (Tai. Brā. 1-5-5-2) **NOTE**
+
+has the meaning "capable" or "a special power". From these explanations it can be said that this word is formed from the root शक् (*śak*) in the sense of power; it gives the meaning "able" or "capable". But
+
+रथवाहनं हविरस्य नाम यत्रायुथं निहितमस्य वर्म । तत्रा रथमुप शग्मं सदेम विश्वाहा वयं सुमनस्यमानाः ॥ (*rathavāhanaṃ havirasya nāma yatrāyuthaṃ nihitamasya varma | tatrā rathamupa śagmaṃ sadema viśvāhā vayaṃ sumanasyamānāḥ ‖*) (Ṛ. Saṃ. 6-25-8)
+
+in Ṛks like this alone the meaning must be "conducive to happiness". In the present Ṛk both meanings, "happiness-giving" and "able", fit.
+
+इष्टे (*iṣṭe*)—सर्वैः विषणीयाग्ने (*sarvaiḥ viṣaṇīyāgne*). Agni is addressed as one desired by all, that is, by all, gods, men and the rest.
+
+### Printed p. 329
+
+अदब्बेभिः (*adabbebhiḥ*)—अहिंसितैः (*ahiṃsitaiḥ*), "not harmed by anyone"; it is an epithet of the word पायुभिः (*pāyubhiḥ*). Uses of words formed from the root दभ् (*dabh*), meaning to harm, to destroy, are mostly Vedic only. The use of the word अदब्ब (*adabba*), giving the meaning "unharmed, not to be destroyed", is also mostly Vedic. Generally when Agni is prayed to for protection, the epithet and the qualified, अदब्बेभिः पायुभिः (*adabbebhiḥ pāyubhiḥ*) or अदब्बेभिः गोपाभिः (*adabbebhiḥ gopābhiḥ*), are used together. In Ṛks such as
+
+अदब्बेभिस्तव गोपाभिरिष्टेऽस्माकं पाहि त्रिषधस्थ सूरीन् । रक्षा च नो वदुषां शर्धो अग्ने वैश्वानर प्र च तारीः स्तवानः । (*adabbebhistava gopābhiriṣṭe 'smākaṃ pāhi triṣadhastha sūrīn | rakṣā ca no vaduṣāṃ śardho agne vaiśvānara pra ca tārīḥ stavānaḥ |*) (Ṛ. Saṃ. 6-8-7)
+
+it is an epithet of गोपाभिः (*gopābhiḥ*); and as in the present Ṛk, in Ṛks such as
+
+अदब्बेभिः सवितः पायुभिष्ट्वं शिवेभिरद्य परि पाहि नो गयं । हिरण्यजिह्वः सुविताय नव्यसे रक्षा माकिर्नो अघशंस ईशत । (*adabbebhiḥ savitaḥ pāyubhiṣṭvaṃ śivebhiradya pari pāhi no gayaṃ | hiraṇyajihvaḥ suvitāya navyase rakṣā mākirno aghaśaṃsa īśata |*) (Ṛ. Saṃ. 6-71-3)
+
+it is also an epithet of the word पायुभिः (*pāyubhiḥ*) (**NOTE**).
+
+अवृपितेभिः (*avṛpitebhiḥ*) **NOTE**—केनचिदप्यपरिभूतैः (*kenacidapyaparibhūtaiḥ*): "not hindered by anyone, or not subject to anyone"; thus the nature of the protection is told.
+
+अनिमिषद्भिः (*animiṣadbhiḥ*)—निमेषरहितैः ईदृश्यैः लक्षणैः (*nimeṣarahitaiḥ īdṛśyaiḥ lakṣaṇaiḥ*). The meaning is: not of sluggish nature, and those that bear fruit quickly.
+
+##### Grammar
+
+- अप्रयुच्छन्—युच्छ प्रमादे धातुः । लडर्थे ततृ प्रत्ययः । प्र उपसर्गः । न प्रयुच्चन् अप्रयुच्छन् । तत्पुरुषेतुल्यार्थ—(पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरः भवति ।
+- शिवेभिः—बहुलं छंदसि इति भिसः ऐस्‌भावः विकल्पेन विधीयते इति न भवति । बहुवचनेझल्येत् इति एत्वम् ।
+- पायुभिः—पा रक्षणे धातुः । कृनापाजिमि—(उ.सू. १-१) इति उण् प्रत्ययः । आतोयुक्‌चिण् कृतोः (पा. सू. ७-३-३३) इति धातोः युकागमः । कित्त्वात् अंतावयवः भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- पाहि—पा रक्षणे धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 323. pp. 318-323 (batch API)
+**Progress note:** Done through printed p. 329. pp. 324-329 (batch API)
