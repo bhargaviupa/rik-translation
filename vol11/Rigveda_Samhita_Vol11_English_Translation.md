@@ -11584,6 +11584,156 @@ the word is a synonym for enemy, glossed हिंसकान् महतः �
 
 चंद्रः (*caṃdraḥ*)—Two kinds of meaning are given for this word. First, one who worships Agni becomes सर्वेषां आह्लादकश्चंद्रसदृशो भवति (*sarveṣāṃ āhlādakaścaṃdrasadṛśo bhavati*): he becomes radiant like the radiance of the moon, which gives delight to all. This meaning follows the Nirukta's explanation. In the Nirukta—
 
+### Printed p. 474
+
+चंद्रश्चंदतेः कांतिकर्मणः (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ*) (Ni. 11-5): since the word means "radiant and delightful", the word चंद्र (*caṃdra*) is formed from the root चंद् (*caṃd*). So the worshipper of Agni becomes radiant. Secondly, चंद्र एव भवति (*caṃdra eva bhavati*): the sacrificer becomes the moon itself. यजमानानां चंद्रत्वपाप्तिं छांदोगा आमनंति (*yajamānānāṃ caṃdratvapāptiṃ chāṃdogā āmanaṃti*): the Chāndogas recite a Śruti passage saying that the performer of the sacrifice attains the state of the moon:
+पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा (*pitṛlokādākāśamākāśāccaṃdramasameṣa somo rājā*) (Bhā. U. 5-10-4) **NOTE**
+सोमलोके विभूतिमनुभूय (*somaloke vibhūtimanubhūya*) (Pra. U. 5-4) **NOTE**
+Sāyaṇa has cited such passages.
+
+##### Grammar
+
+- चंद्रः — चदि आह्लादने इति धातुः । स्थायितंचिवंचि—(उ. सू. २-१७०) इति रक् प्रत्ययः । इदितोनुम् धातोः इति सुमागमः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- विप्रः — डुवप् बीजसंताने इति धातुः । ऋजेंद्राग्रपज्रविप्र-(उ. सू. २-१८९) इति रन् प्रत्ययांतो निपातितः । संबुद्धौ आमंत्रितस्यच (पा.सू. ८-१-१९) इति निघातस्वरो भवति ।
+- महः — मह पूजायां धातुः । क्विप्‌च इति क्विप् प्रत्ययः । षष्ठ्येकवचनांतं रूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+- व्राधंतमः — वृधु वृद्धौ इति धातुः । अस्मादौणादिको अतिप्रत्ययः, आकागमः । अतिशयेन प्राधत् व्राधंतमः । अतिशायने तमभिष्ठन्‌नौ इति तमप् प्रत्ययः ।
+- दिवि — ऊडिदंपदादि—(पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- वनुषः — वन संभक्तौ इति धातुः । बहुलगृहणसामर्थ्यादस्मादौणादिक उसिप्रत्ययः । प्रत्ययस्याद्युदात्तस्वरो भवति । प्रथमाबहुवचनांतं रूपं ।
+- स्याम — अस भुवि इति धातुः । विधिलिज् उत्तमपुरुषबहुवचनांतं रूपं । तिजंतनिघातस्वरो भवति । ॥ ३ ॥
+
+### Printed p. 475
+
+## Sūkta 151 (Maṇḍala 1)
+
+The hundred and fifty-first Sūkta.
+
+मित्रं न यमिति नवर्चमेकादशं सूक्तं दैर्घतमसं जागतं मैत्रावरुणं । आद्या मैत्रैव । अत्रानुक्रमणिका । मित्रं नव मैत्रावरुणं हि जागतं मैत्राद्येति ॥ विनियोगो लैंगिकः ॥ (*mitraṃ na yamiti navarcamekādaśaṃ sūktaṃ dairghatamasaṃ jāgataṃ maitrāvaruṇaṃ | ādyā maitraiva | atrānukramaṇikā | mitraṃ nava maitrāvaruṇaṃ hi jāgataṃ maitrādyeti ‖ viniyogo laiṃgikaḥ ‖*)
+
+Anuvāda: This Sūkta beginning मित्रं न यं (*mitraṃ na yaṃ*) is the eleventh Sūkta in the twenty-first Anuvāka. It has nine Ṛks. Its seer is Dīrghatamā Aucathya; the deities are Mitra and Varuṇa; the metre is Jagatī. The first Ṛk is addressed to Mitra. In the Anukramaṇikā it is said: मित्रं नव मैत्रावरुणं हि जागतं मैत्राद्येति (*mitraṃ nava maitrāvaruṇaṃ hi jāgataṃ maitrādyeti*). The application (viniyoga) is by indication (laiṅgika).
+
+Om.
+
+Sūkta 151. Maṇḍala 1; Anuvāka 21; Sūkta 151. Aṣṭaka 2; Adhyāya 2; Vargas 20, 21. Number of Ṛks in the Sūkta: 9.
+Seer: Dīrghatamā Aucathya.
+Deity: 1 Mitra; 2-9 Mitra and Varuṇa.
+Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रं न यं शिम्या॒ गोषु॑ ग॒व्यवः॑ स्वा॒ध्यो॑ वि॒दथे॑ अ॒प्सु  ॑
+> जीज॑नन् ।
+
+### Printed p. 476
+
+> अरेजेतां रोदसी पाजसा गिरा प्रति प्रियं यजतं  
+> जनुषामवः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रं । न । यं । शिम्या । गोषु । गव्यवः । सुआध्यः । विदथे । अप्सु । जीजनन् ।  
+> अरेजेतां । रोवसी इति । पाजसा । गिरा । प्रति । प्रियं । यजतं । जनुषां । अनः॥१
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निं शिम्या । कर्मनामैतत् शिमी शक्तिरिति तन्नामसूक्तत्वात् । प्रकाशवृष्टुत्पादनादिकर्मणा मित्रं न मित्रमिव स्थितं । यद्वा । शिम्येत्येतत् क्रियया
+> सह संबध्यते । गोषु बह्षु निमित्तभूतासु गव्यवो गा आत्मन इच्छंतः । अत्र
+> यद्यपि गव्यव इत्येवालं न गोष्टिति तथापि गव्यव इत्यत्र गोस्वामित्वं प्रतिपाद्यते ।
+> तच्चैकया द्वित्राभिरपि स्यात् । अतः स्पृहणीया बह्व इत्यवगमयितुं गोष्टिति
+> पदं । यथा गवामसि गोपतिः । ऋ ७-९८-६ । गणानां त्वा गणपतिं । ऋ २-२३-१ ।
+> तथा स्वाध्यः सुष्वाध्यातारः फलस्योत्पादयितारः शोभनध्याना वा विदथे यागेस्प्यंतरिक्षॆ वैद्युतरूपेण वर्तमानं । अप इत्यंतरिक्षनाम आपः पृथिवीति तन्नामसूक्तत्वात् । अग्नेरंतरिक्षोत्पत्तिर्यदग्ने दिविजा अस्यप्पुजा वा । ऋ ८-४३-२८ ।
+> अप्स्वगे सधिष्टव । ऋ. ८-४३-९ । इत्यादिमंत्रांतरेषु प्रसिद्दा । प्रियं सर्वॆषां
+> प्रियतमं प्रीणयितारं वा यजतं यष्टव्यमग्निं जनुषां जन्मवतां प्राणिनामवः प्रति रक्षणं निमित्तीकृत्य शिम्या मथनादिकर्मणा जीजनन् जनयंति यजमाना ।
+> यद्वा । अप्सु निमित्तभूतासु जीजनन् सर्वप्राणिनामुपकाराय वृष्टर्थं चेत्य
+> र्थः । एवमुत्पन्न स्याग्नेः पाजसा बलेन गिरा भयंकरशब्देन च रोदसी द्यावापृथिव्यावरेजेतां । अकंपेतां । अग्नेः सकाशात्कंपनमरेजेतां रोदसी होतृवूर्ये । ऋ. १-३१-३ । इत्यादिश्रुतिषु प्रसिद्धं । न च सर्वरक्षणार्थमुत्पादितोऽग्निर्लोकद्वयस्य भीतिमजनयत् किमेतदिति वाच्यं निंदास्तुतित्वात् । यथा लोकौ
+> बिभीतस्तथा प्रवृद्योऽभवदिति स्तुतौ पर्यवसानात् । यद्यप्यत्राग्निरेव प्रतिपाद्यते
+> मित्रस्तु परं दृष्टांतित एव तथापि द्युस्थानस्याग्नेरेव मित्रत्वान्मंत्रस्य मैत्रत्वम-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Agni, whom (the sacrificers generate) शिम्या (*śimyā*)—this is a word for action, the Nighaṇṭu list of "power" words having शिमी शक्ति (*śimī śakti*)—by acts such as producing light and rain, stands मित्रं न (*mitraṃ na*) like a friend. Or else शिम्या (*śimyā*) is construed with the verb. गोषु (*goṣu*): in the many cows that are the occasion; गव्यवः (*gavyavaḥ*): those desiring cows for themselves. Although गव्यव (*gavyava*) alone would suffice, without गोषु (*goṣu*), and it conveys ownership of cows—which could be by one, two or three—the word गोषु (*goṣu*) is there to show that the cows desired are many. So गवामसि गोपतिः (*gavāmasi gopatiḥ*) (Ṛ. 7-98-6), गणानां त्वा गणपतिं (*gaṇānāṃ tvā gaṇapatiṃ*) (Ṛ. 2-23-1). Likewise स्वाध्यः (*svādhyaḥ*): good meditators, producers of fruit, or those of excellent meditation. विदथे (*vidathe*): at the sacrifice; अप्सु (*apsu*): in the atmosphere, existing in the form of lightning (आपः (*āpaḥ*) being a name of the atmosphere, as in the Nighaṇṭu list आपः पृथिवी (*āpaḥ pṛthivī*)). Agni's origin in the atmosphere is well known from other mantras: यदग्ने दिविजा अस्यप्पुजा वा (*yadagne divijā asyappujā vā*) (Ṛ. 8-43-28), अप्स्वगे सधिष्टव (*apsvage sadhiṣṭava*) (Ṛ. 8-43-9). प्रियं (*priyaṃ*): dearest to all, or the gratifier; यजतं (*yajataṃ*): the Agni to be worshipped. The sacrificers generate (जीजनन् (*jījanan*)) him by churning and similar acts, for the protection (अवः प्रति (*avaḥ prati*)) of embodied beings (जनुषां (*januṣāṃ*)). Or else: they generate him in the waters (अप्सु (*apsu*)), for the benefit of all beings and for the sake of rain. When he is thus produced, heaven and earth (रोदसी (*rodasī*)) trembled (अरेजेतां (*arejetāṃ*)) at his strength (पाजसा (*pājasā*)) and his fearsome sound (गिरा (*girā*))—the trembling of the two worlds at Agni is well known from Śruti such as *arejetāṃ rodasī hotṛvūrye* (Ṛ. 1-31-3). It is not to be objected that Agni, produced for the protection of all, causes fear to the two worlds, for this is censure that ends in praise: the two worlds feared, and so he became exalted. Although here Agni alone is the subject and Mitra is only the thing compared, yet, since Agni of the heavenly region is himself Mitra, the hymn's being addressed to Mitra is not inconsistent.
+
+### Printed p. 477
+
+> विरुद्धं । यद्वा । मित्रं न सखायमिव स्थितं मित्रनामकं देवं यज्ञेंतरिक्षे च
+> ऋत्विजः प्रादुर्भावयंति । शिष्टमेतद्विशेषेण तथैव योजनीयं ॥
+
+##### Gist of the bhāṣya
+
+Or else: मित्रं न (*mitraṃ na*) means the deity named Mitra, standing like a friend, whom the priests manifest in the sacrifice and in the atmosphere. The rest is to be construed in the same way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोषु (*goṣu*)—by reason of abundant cows
+- गव्यवः (*gavyavaḥ*)—those desirous of obtaining cows
+- स्वाध्यः (*svādhyaḥ*)—devotees intent on excellent meditation
+- विदथे (*vidathe*)—in the sacrifice
+- अप्पु (*appu*)—him who is in the atmosphere
+- प्रियं (*priyaṃ*)—the dearest, or the benefactor
+- यजतं (*yajataṃ*)—the one worthy of worship
+- मित्रं न (*mitraṃ na*)—him who is like a friend
+- यं (*yaṃ*)—which Agni. [Or मित्रं न (*mitraṃ na*)—who is like a friend; यं (*yaṃ*)—which Mitra-deva]
+- विदथे (*vidathe*)—in the sacrifice
+- अप्पु (*appu*)—also in the atmosphere
+- जनुषां (*januṣāṃ*)—of beings that are born
+- अवः प्रति (*avaḥ prati*)—for the sake of protection
+- शिम्या (*śimyā*)—by acts such as churning, or by acts such as producing rain
+- जीजनन् (*jījanan*)—(whom) they caused to be born (of such an Agni or Mitra)
+- पाजसा (*pājasā*)—by strength
+- गिरा (*girā*)—by fearsome sounds
+- रोदसी (*rodasī*)—heaven and earth, both
+- अरेजेतां (*arejetāṃ*)—trembled
+
+##### भावार्थ (Bhāvārtha)
+
+Devotees intent on meditation, for the sake of obtaining abundant cows, in the sacrifice and in the atmosphere, brought into being by their acts of churning and the like, for the protection of all beings, that Mitra-deva or Agni who is dearest to them, beneficial to the world, worthy of worship, and like a friend. By his strength and by his fearsome sound heaven and earth both trembled.
+
+##### Printed English
+
+Heaven and earth have been terrified by the strength and the noise (of him), whom pious worshippers, desirous of acquiring cattle, have generated by their (sacred) acts, amidst the waters (of the firmement). at the sacrifice, as a friend for the preservation of living beings, the benefactor (of man), and entitled to adoration.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वाध्यः—सुष्टु आध्यातारः फलस्य उत्पादयितारः । शोभनध्याना वा (*svādhyaḥ—suṣṭu ādhyātāraḥ phalasya utpādayitāraḥ | śobhanadhyānā vā*). Of the two meanings given—those who acquire the desired fruits, or those intent on excellent meditation—the second fits better. Moreover,
+
+### Printed p. 478
+
+तव व्रते सुभगासः स्याम स्वाध्यो वरुण तुष्टुवांसः । उपायन उषसां गोमतीनामग्नयो न जरमाणा अनु द्यून् । (*tava vrate subhagāsaḥ syāma svādhyo varuṇa tuṣṭuvāṃsaḥ | upāyana uṣasāṃ gomatīnāmagnayo na jaramāṇā anu dyūn |*) (Ṛ. Saṃ. 2-28-2)
+युवा सुनासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवय उन्नयंति स्वाध्यो३ मनसा देवयंतः ॥ (*yuvā sunāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ | taṃ dhīrāsaḥ kavaya unnayaṃti svādhyo3 manasā devayaṃtaḥ ‖*) (Ṛ. Saṃ. 3-8-4)
+In all such Ṛks the word स्वाध्यः (*svādhyaḥ*) is explained as शोभनध्यानाः । सुष्टु सर्वतो ध्यानयुक्ताः (*śobhanadhyānāḥ | suṣṭu sarvato dhyānayuktāḥ*), so the same is proper in the present Ṛk too.
+
+विदथे (*vidathe*)—the many meanings of the word विदथ (*vidatha*)—work, sacrifice, sacrificial assembly and so on—have been set out, with examples and with the discussions of Western scholars, in this same volume at Ṛk 1-143-7.
+
+मित्रं न (*mitraṃ na*)—the phrase is explained first as "one who is like a friend", and secondly as the deity Mitra, who is the friend of all. In passages such as
+न वै मित्रः कंचन हिनस्ति न मित्रं कश्चन हिनस्ति नैनं कुशो न कंटको विभिनत्ति नास्य व्रणश्च नास्ति सर्वस्य ह्येव मित्रो मित्रं । (*na vai mitraḥ kaṃcana hinasti na mitraṃ kaścana hinasti nainaṃ kuśo na kaṃṭako vibhinatti nāsya vraṇaśca nāsti sarvasya hyeva mitro mitraṃ |*) (Śa. Brā. 5-3-2-7)
+Mitra is said to be the friend of all beings; that point is made here also.
+
+गव्यवः—गाः आत्मन इच्छंतः (*gavyavaḥ—gāḥ ātmana icchaṃtaḥ*): the first meaning is "those desiring to obtain cows for themselves". Or else, Sāyaṇa explains: गव्यव इत्यत्र गोस्वामित्वं प्रतिपद्यते । यथा (*gavyava ityatra gosvāmitvaṃ pratipadyate | yathā*)—by the word गव्यव (*gavyava*) ownership of cows is also indicated; and he cites the Ṛk
+तवेदं विश्वमभितः पशव्यंयत्पश्यसि चक्षसा सूर्यस्य । गवामसि गोपतिरेक इंद्र भक्षीमहि ते प्रयतस्य वस्वः ॥ (*tavedaṃ viśvamabhitaḥ paśavyaṃyatpaśyasi cakṣasā sūryasya | gavāmasi gopatireka iṃdra bhakṣīmahi te prayatasya vasvaḥ ‖*) (Ṛ. Saṃ. 7-98-6)
+showing the lordship over cows indicated there.
+
+शिम्या (*śimyā*)—means "by power". It is shown that the power meant here is either that of the form of churning and the like, or the power in the form of lightning at the time of producing rain.
+
+अप्पु जीजनन् (*appu jījanan*)—they caused him to be born in the atmosphere.
+यदग्ने दिविजा अस्यप्सुजा वा सहस्कृत । तं त्वा गीर्भिर्हनामहे । (*yadagne divijā asyapsujā vā sahaskṛta | taṃ tvā gīrbhirhanāmahe |*) (Ṛ. Saṃ. 8-43-2)
+
+### Printed p. 479
+
+अप्सग्ने सधिष्टव सौषधीरनु रुध्यसे । गर्भे संजायसे पुनः ॥ (*apsagne sadhiṣṭava sauṣadhīranu rudhyase | garbhe saṃjāyase punaḥ ‖*) (Ṛ. Saṃ. 8-43-9)
+From such Ṛks the order of Agni's origin in the atmosphere, as described there, is made known.
+
+पाजसा गिरा रोदसी अरेजेतां (*pājasā girā rodasī arejetāṃ*)—by Agni's power and by the fearsome sound, heaven and earth both trembled.
+त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुक्रतूया विवस्वते । अरेजेतां रोदसी होतृपूर्येऽसघ्नोर्भारमयजो महो वसो । (*tvamagne prathamo mātariśvana āvirbhava sukratūyā vivasvate | arejetāṃ rodasī hotṛpūrye 'saghnorbhāramayajo maho vaso |*) (Ṛ. Saṃ. 1-31-3)
+As in such Ṛks it is said that at the time of Agni's origin heaven and earth both trembled, so that matter is indicated here also.
+
+##### Grammar
+
+- गव्यवः — गाः आत्मनः इच्छति । गव्यति इति गव्युः । सुप आत्मनः क्यच् (पा. सू. ३ १-८) इति क्यच् प्रत्ययः । क्यजंतात् क्याच्छंदसि (पा. सू. ३-२-१७०) इति उ प्रत्ययः । वांतोयि प्रत्यये इति अवादेशः । अतोलोपः इति सूत्रेण क्यचोऽकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तो भवति । जस् परे जसिच इति गुणः । अवादेशः ।
+- स्वाध्यः — ध्यॆ चिंतायां धातुः । सु आज् इति द्वावुपसर्गौ । अन्येभ्योऽपिदृश्यते (पा. सू. ३-२-१७८) इति क्विप् प्रत्ययः । दृश्यते इति पदस्वारस्यान्निमित्तरहितान्यपि कार्याणि भवंति अतः संप्रसारणं, पूर्वरूपं भवति । हलः (पा. सू. ६-४-२) इति तस्य दीर्घः । अस्माज्जस् परे एरनेकाचोसंयोगपूर्वस्य इति यणादेशः । उदात्तस्थाने यण् आगत्य तत्परे अनुदात्तायां विभक्तौ उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) इति जस उदात्तः प्राप्ते असर्वनामस्थान एवेति अत्र सर्वनामस्थानसंज्ञायाः सत्त्वान्न भवति । अत उदात्तस्वरितयोर्यणः—(पा सू. ८-२-४) इति स्वरितस्वरो भवति । **NOTE**
+- विदथे — विद ज्ञाने धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इति अथ प्रत्ययः । जित्त्वविधानात् लघूपधगुणो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति । सप्तम्येकवचनांतं रूपं ।
+- जीजनन् — जनी प्रादुर्भावे । प्रेरणे णिच् । णिजंतात् लुज् । प्रथमपुरुषबहुवचने अंतादेशः । अंत्यस्य इकारस्य लोपः । णिश्रिद्रुसुभ्यःकर्तरिचज् (पा. सू. ३-१-४८)
+
 ---
 
-**Progress note:** Done through printed p. 473. pp. 468-473 (batch API)
+**Progress note:** Done through printed p. 479. pp. 474-479 (batch API)
