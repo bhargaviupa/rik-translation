@@ -3005,6 +3005,141 @@ In this Ṛk, अतिमहत्कृष्णं रूपं । (*atimaha
 
 The Agni who, among the बभ्रूषु (*babhrūṣu*) — the brown-coloured herbs, skilled in nourishing — नम्मते (*nammate*) bends, that is, enters the logs of wood, above all creatures. (The form नम्मते (*nammate*) is from नमति (*namati*), with the augment *aḍ* in the लट् (*laṭ*); श्ना (*śnā*) by व्यत्यय (*vyatyaya*); or else, in the लट् (*laṭ*) the शप् (*śap*) becomes श्लु (*ślu*) in the Veda, and by व्यत्यय (*vyatyaya*) there is no retention of the last consonant.) भूषन् न (*bhūṣan na*): as though adorning the beings with his own splendour. Further, as he enters, वृषा इव (*vṛṣā iva*): like a bull, a sprinkler, the herbs, which are his wives, protecting and nourishing him, रोरुवत् (*roruvat*): he roars exceedingly (the root रु (*ru*) with यज् लुक् (*yaj luk*), the ending शतृ (*śatṛ*), and the initial acute by अभ्यस्तानामादिः (*abhyastānāmādiḥ*)). *abhyeti*: he goes about on all sides. The sense is: having first entered the herbs, afterwards … **NOTE** Further, having done so, ओजायमानः (*ojāyamānaḥ*): *ojaḥ* is a name for strength; acting as strength itself (क्यज् (*kyaj*) with loss of स् (*s*)). Without smoke and the like, remaining of the nature of mere brilliance, तन्वश्च शुंभते (*tanvaśca śuṃbhate*): and he shines; the flames, being his own body … (the block breaks off here; the next window continues).
 
+### Printed p. 122
+
+> अपि दीपयति । पोषयतीत्यर्थः । किंच प्रवृद्धज्वालो दुर्गृभिः केनचिदपि ग्रहीतुमशक्यः सन् भीमो न भयंकरो मृग इव स यथा दुर्ग्रहः सङ्गंगं चालयति
+> तद्वदयमपि शृंगाणि शृंगवदुन्नता ज्वाला दविधाव । अत्यर्थं चालयति ॥ धुनोतेर्यज् लुगंताल्लिटि रूपं । अस्य च दाधर्त्यादावितिशब्देन संग्रहो द्रष्टव्यः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of the verse. The fire kindles, that is, nourishes. With its flames grown great it cannot be seized by anyone, and like a fearsome beast भीमो न (*bhīmo na*) that is hard to seize it sets its horns in motion. In the same way this fire also shakes violently its horn-like, uprising flames. He adds that *dhunoteḥ* gives the form here, with यज् (*yaj*) and its elision, in the perfect, and that this word is to be counted under the head "of the sort of *dādharti*".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which (that same) Agni
+- बभ्रूषु (*babhrūṣu*)—in the tawny bushes
+- भूर्ष न (*bhūrṣa na*)—as if adorning (them with his flames)
+- अधि नम्मते (*adhi nammate*)—invades exceedingly
+- वृषाः (*vṛṣāḥ*)—bulls
+- पत्निः इव (*patniḥ iva*)—as bulls, snorting, rush forward among the cows
+- रोरुवत् (*roruvat*)—roaring
+- अभ्येति (*abhyeti*)—rushes forward impetuously
+- ओजायमानः (*ojāyamānaḥ*)—increasing his own strength (through the burning of the bushes)
+- तन्वश्च (*tanvaśca*)—his bodies too, of flame-form (free of smoke)
+- शुंभते (*śuṃbhate*)—he enlarges and spreads
+- (and) भीमो न (*bhīmo na*)—as a fearsome beast that no one can check brandishes and swings his terrible horn
+- दुर्गृभिः (*durgṛbhiḥ*)—being impossible to check
+- शृंगा (*śṛṃgā*)—his flames, which are like horns
+- वविधाव (*vavidhāva*)—he shakes (terribly)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni enters the tawny bushes as if adorning them with his flames. And among them he rushes impetuously, roaring, as bulls snort and rush forward among cows. Increasing his own strength by burning the bushes, he also enlarges and spreads his bodies, which are of flame-form and free of smoke. Moreover, as a fearsome beast cannot be checked by anyone when it brandishes and swings its terrible horn, so this Agni too, when he spreads and blazes with his flames like terrible horns, cannot be checked by anyone.
+
+##### Printed English
+
+He gets down among the bushes as if embellishing them (with his
+lustre), and rushes roaring like a bull amongst (a herd of) cows : thence
+increasing in intensity, he enhances (the fierceness) of his form, and is
+difficult to be arrested as a formidable (animal), when he brandishes his
+horns.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes the spreading of Agni's flames, which are at once charming, terrible and of unobstructed power. When he first invades the tawny bushes,
+
+### Printed p. 123
+the attractive lustre of Agni serves the bushes as an ornament. Then, when his vigour has increased through the burning of the bushes, he takes a terrible shape and shows a fierce nature. In the same way, descriptions of Agni's various forms praise his greatness also in the mantras that are to be recited with the Purōnuvākyās at the times of the Kāmyeṣṭis. In the Taittirīya Saṃhitā, among the mantras cited in the Kāmyeṣṭi section (2-2-2-3 to 4),
+अक्रंददग्निः स्तनयन्निव द्यौः क्षामा रेरिहद्वीरुधः समंजन् (*akraṃdadagniḥ stanayanniva dyauḥ kṣāmā rerihadvīrudhaḥ samaṃjan*)
+सद्यो जज्ञानो वि हीमिद्दो अख्यदा रोदसी भानुना भात्यंतः । (*sadyo jajñāno vi hīmiddo akhyadā rodasī bhānunā bhātyaṃtaḥ |*)
+(Ṛ. Saṃ. 10-45 4) (Tai. Saṃ. 1-3-14)
+and in such Saṃhitā passages, and in the Brāhmaṇa passages that explain the mantra praising this forest-fire,
+अक्रंददग्निस्तनयन्निव द्यौरिति । क्रंदतीव हि पर्जन्यस्तनयन् क्षामा रेरिहद्वीरुधः समंजन्निति क्षमा वै पर्जन्यो रेरिह्यमाणो वीरुधः समनक्ति सद्योजज्ञानो वि हीमिद्भोऽख्यदिति सद्यो ना विष ज्ञान इदग्ं सर्वं विख्यापयत्या रोदसी भानुना भात्यंतरितीमे वै द्यावापृथिवी रोदसी ते एष भानुना भाति । (*akraṃdadagnistanayanniva dyauriti | kraṃdatīva hi parjanyastanayan kṣāmā rerihadvīrudhaḥ samaṃjanniti kṣamā vai parjanyo rerihyamāṇo vīrudhaḥ samanakti sadyojajñāno vi hīmidbho 'khyaditi sadyo nā viṣa jñāna idagṃ sarvaṃ vikhyāpayatyā rodasī bhānunā bhātyaṃtaritīme vai dyāvāpṛthivī rodasī te eṣa bhānunā bhāti |*)
+(Śa. Brā. 6-7-3-2) **NOTE**
+the description of the nature of the forest-fire is clear.
+बभ्रुषु (*babhruṣu*)—बभ्रु (*babhru*) means tawny; the sense is "in bushes of this colour".
+वृषाः (*vṛṣāḥ*)—It was explained earlier, with examples, that the word वृषन् (*vṛṣan*) is used as an epithet of Indra and other deities in the sense "those who pour out desired objects abundantly". In the present Ṛk there is no room for that sense; here only the sense that shows male potency is possible. This sense too is derivative. It is therefore necessary to examine what the original sense of this word is, how the sense "male potency" arises, and what is peculiar in this usage.
+The word वृषाः (*vṛṣāḥ*) may be formed from either of two roots, वृषु सेचने (*vṛṣu secane*) and वृषु शक्तिबंधने (*vṛṣu śaktibaṃdhane*): from the root वृष (*vṛṣa*) giving the sense "pour, sprinkle", or from the second root giving the sense "power and capacity". Here we have to examine only the usages in the sense of a male who has the capacity of sprinkling. The word is commonly used as indicating the masculine gender, as a synonym of man, or as a synonym of other powerful animals such as the horse. And in many places it is stated even as a synonym of the masculine. For example—
+
+### Printed p. 124
+प्रेंखं होताधिरोहत्यौ दुंबरीमासंदीमुद्गाता वृषा वै प्रेंखो योषासंदी तन्मिथुनं मिथुनमेव तदुक्कमुखे करोति प्रजात्यै । (*preṃkhaṃ hotādhirohatyau duṃbarīmāsaṃdīmudgātā vṛṣā vai preṃkho yoṣāsaṃdī tanmithunaṃ mithunameva tadukkamukhe karoti prajātyai |*)
+(Ai. Ā. 1-2-4.)
+In this passage of the Aitareya Āraṇyaka the Hotṛ mounts the swing and the Udgātṛ the seat of udumbara wood; the swing is the male (वृषा (*vṛṣā*)), the seat is the female (योषा (*yoṣā*)); those who desire offspring should obtain these things before the recitation of the mantras. And likewise—
+ब्रह्म वै हिंकारो ब्रह्मैतदहर्ब्रह्मणैव तद्ब्रह्म प्रतिपद्यते य एवं वेद । यदेव हिंकारेण प्रतिपद्यता ३ इ वृषा वै हिंकारो योषत्कर्न्निथुनं मिथुनमेव तदुक्कमुखे करोति प्रजात्यै । (*brahma vai hiṃkāro brahmaitadaharbrahmaṇaiva tadbrahma pratipadyate ya evaṃ veda | yadeva hiṃkāreṇa pratipadyatā 3 i vṛṣā vai hiṃkāro yoṣatkarnnithunaṃ mithunameva tadukkamukhe karoti prajātyai |*)
+(Ai. Ā. 1-2-1)
+In this passage too, where the hiṃkāra is the male (वृषा (*vṛṣā*)) and the Ṛk is the female, and one desiring offspring should obtain this pair, the word वृषा (*vṛṣā*) stands as a synonym of masculinity. It means a person capable of sprinkling seed; he may be a human being or an animal such as a horse. On the basis of this sense one may observe that the word is also used as a synonym of powerful animals such as the horse. In the Ṛksaṃhitā also,
+असमं क्षत्रमसमा मनीषा प्र सोमपा अपसा संतु नेमे । ये त इंद्र ददुषो वर्धयंति महि क्षत्रं स्थविरं वृष्ट्यं च ॥ (*asamaṃ kṣatramasamā manīṣā pra somapā apasā saṃtu neme | ye ta iṃdra daduṣo vardhayaṃti mahi kṣatraṃ sthaviraṃ vṛṣṭyaṃ ca ‖*)
+(Ṛ. Saṃ. 1-54-8)
+in this Ṛk the word वृष्टं (*vṛṣṭaṃ*) is explained as वृषत्वं (*vṛṣatvaṃ*), masculinity having the capacity of sprinkling; and in
+पूर्वीरहं शरदः शश्रमाणा दोषा वस्तोरुषसो जरयंतीः । मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥ (*pūrvīrahaṃ śaradaḥ śaśramāṇā doṣā vastoruṣaso jarayaṃtīḥ | mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖*)
+(Pā. Sū. 1-179-1) **NOTE**
+in this Ṛk वृषणः (*vṛṣaṇaḥ*) is explained as सेक्तारः पुरुषाः (*sektāraḥ puruṣāḥ*). In many other places likewise this word is used in senses that indicate the masculine and show the strength of the male animal. And—
+महा असि महिष वृष्ट्येभिर्धनस्पृदुग्र सहमानो अन्यान् । एको विश्वस्य भुवनस्य राजा स योधयौ च क्षयया च जनान् । (*mahā asi mahiṣa vṛṣṭyebhirdhanaspṛdugra sahamāno anyān | eko viśvasya bhuvanasya rājā sa yodhayau ca kṣayayā ca janān |*)
+(Ṛ. Saṃ. 3-46-2)
+
+### Printed p. 125
+व्यस्तभ्याद्रोदसी मित्रो अद्भुतोऽंतर्वावदकृणोज्योतिषा तमः । वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्टं । (*vyastabhyādrodasī mitro adbhuto 'ṃtarvāvadakṛṇojyotiṣā tamaḥ | vi carmaṇīva dhiṣaṇe avartayadvaiśvānaro viśvamadhatta vṛṣṭaṃ |*)
+(Ṛ. Saṃ. 6-8-3)
+In these and various other Ṛks the word वृष्ट्य (*vṛṣṭya*) commonly has the sense of virility and valour.
+In the present Ṛk the spreading of Agni is compared to the speed and eagerness of bulls rushing forward in a herd of cows; therefore the sense here must be taken as "unobstructed power". Here the bushes are compared to wives and Agni to the husband. To say that Agni's invasion of the bushes is ornamental, like the union of husband and wife, he is described with भूषन् अधिनम्नते (*bhūṣan adhinamnate*).
+शुंभते (*śuṃbhate*)—This word may be formed either from the root शुभ् (*śubh*) meaning "to shine" or from the root शुंभ् (*śuṃbh*) meaning "to injure". But here there is no reason for the second sense. Just as the Nirukta-writers, citing the Ṛk
+वृचस्वतीरुर्विया वि श्रयंतां पतिभ्यो न जनयः शुंभमानाः । देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः । (*vṛcasvatīrurviyā vi śrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ | devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ |*)
+(Ṛ. Saṃ. 10-110-5)
+explained शुंभमानाः (*śuṃbhamānāḥ*) as शोभमानाः (*śobhamānāḥ*) (Ni. 8-10), so here too दीपयति (*dīpayati*) means "he makes shine".
+दुर्गृभिः (*durgṛbhiḥ*)—केनचिदपि ग्रहीतुमशक्यः (*kenacidapi grahītumaśakyaḥ*): endowed with an unobstructed power that no one can check and stop. Agni's unobstructed power is likewise described, with the very word दुर्गर्भभीयसे (*durgarbhabhīyase*), in the Ṛk
+उत स्म दुर्गर्भीयसे पुत्रो न ह्वार्याणां । पुरू यो वग्नासि वनाग्ने पशुर्न यवसे ॥ (*uta sma durgarbhīyase putro na hvāryāṇāṃ | purū yo vagnāsi vanāgne paśurna yavase ‖*)
+(Ṛ. Saṃ. 5-9-4).
+दविधाव (*davidhāva*)—अत्यर्थं चालयति (*atyarthaṃ cālayati*). This word indicates Agni's fear-inspiring movement, trembling and swift spreading.
+
+##### Grammar
+
+- भूषन् — भूष अलंकारे धातुः । लडर्थे शतृप्रत्ययः । अदुपदेशात् परत्वात् लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- बभूषु — अप्राणिजातेश्च अरज्वादीनामुपसंख्यानम् (पा. सू. ४-१-६६-१) इति उज् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । सप्तमीबहुवचनांतरूपम् ।
+
+### Printed p. 126
+- नम्म ते — णमु प्रह्वत्वे शब्दे च धातुः । णोनः इति आदौ नत्वम् । लेट् प्रथमपुरुषैकवचने तप्रत्ययः । टेः एत्वम् । लेटोऽडाटौ (पा. सू. ३-४-९४) इति अडागमः । व्यत्ययो बहुलम् (पा. सू. ३-१-८५) इति श्वाविकरणम् । आत्मनेपदप्रत्ययस्य जित्त्वात् श्नाभ्यस्तयोरातः इति आकारस्य लोपः । अथवा लिटि एव छांदसत्वेन शपः श्लुः आदेशः । श्लौ इति धातोः द्वित्वम् । व्यत्ययेन हलादिशेषः इति न प्रवर्तते । अनुदात्तोपदेश—(पा. सू. ६-४-३७) इति धातोः अनुनासिकस्य मकारस्य लोपः । यः इति पूर्वं यच्छब्दसंबंधात् यद्वृत्तान्नित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति । अदुपदेशात् परत्वात् लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- पत्नीः — पत्युर्नो यज्ञसंयोगे इति ङीप् । तत्सन्नियोगेन नकारागमः । द्वितीयाबहुवचनांतरूपम् । **NOTE**
+- रोरुवत् — रु शब्दे धातुः । भृशार्थतोरुवाग धातोरेकाचो—(पा. सू. ३-१-२२) इति यज् । यजोचि च इति सूत्रेण तस्य लुक् । धातोः द्वित्वादिषु आगतेषु गुणोयज् लुकोः (पा. सू. ६-४-८२) इति अभ्यासस्य गुणः । यज्लुंंतात् लडर्थे शतृप्रत्ययः । अचिश्नुधातुभ्रुनां— इति उपजादेशः । अभ्यस्तानामादिः (पा सू ६-१-१८९) इति आद्युदात्तस्वरः भवति । **NOTE**
+- ओजायमानः — ओजः इव आचरन् ओजायमानः । कर्तुः क्र्यज् सलोपश्च—(पा. सू. ३-१-११) इति आचारार्थे क्र्यज् प्रत्ययः । तत्सन्नियोगेन सकारलोपः । सनाद्यंताधातवः—इति क्र्यजंतस्य धातुसंज्ञा भवति । ततः लडर्थे तानच् प्रत्ययः । शप् विकरणम् । आनेमुक्—(पा. सू. ७-२-८२) इति अदंतांगस्य मुकागमः । लसार्वधातुकं तास्यनुदात्तेत्—सूत्रेण अनुदात्तत्वात् क्र्यज्स्वरः अवशिष्यते ।
+- तन्वः — तन्नादीनां छंदस्युपसंख्यानम्—इति वचनेन यणादेशः । उदात्तस्थाने यणादेशं आगत्य तस्मात् परं विभक्तेः आगतत्वात् उदात्तस्वरितयोर्यणः—(पा. सू. ८-२-४) इति स्वरितस्वरः भवति ।
+- शुम्भते — शुंभ शोभायां (भासने) धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- भीमः — इभी भये । बिभेति अस्मात् इति भीमः । भीमादयोपादाने—(पा.सू. ३-४-७४) इति मप्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- शृंगा — शृंगाणि इति रूपे जाते शेश्छंदसि बहुलम्—(पा. सू. ६-१-२०) इति इकारस्य लोपः । **NOTE**
+
+### Printed p. 127
+- दविधाव — धूञ् कंपने धातुः । अतिशयार्थे गम्यमाने अस्मात् धातोरेकाचः—(पा. सू. ३-१-२२) इति यज् । यजोचिच—इति तस्य लुक् । यज् लुजंतात् लिटि आगते दविधान इति रूपं भवति । तिजंतस्वरः भवति ॥ ६ ॥ **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सं॒स्तिरो॑ वि॒ष्टिरः॒ सं गृ॑भायति जा॒नन्ने॒व जा॑न॒तीर्नित्य॒ आ  ॑
+> शये ।  
+> पुन॑र्वर्धंते॒ अपि॑ यंति दे॒व्य॑म॒न्यद्वर्पः॑ पि॒त्रोः कृ॑ण्वते॒  ॑
+> सचा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । संस्थिरः । विस्तिरः । सं । गृभायति । जानन् । एव । जानतीः । नित्यः । आ । शये ।  
+> पुनः । वर्धंते । अपि । यंति । देव्यं । अन्मत् । वर्षः । पित्रोः । कृण्वते । सचा ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः संस्तिर आच्छन्नः ॥ संपूर्वात्स्नणातेर्मूलविभुजादित्वात्कप्रत्ययः।
+> पा ३-२-५-२ । परादिश्चंदसि बहुलमित्युत्तरपदाद्युदात्तत्वं ॥ तथा विस्तरः कदाचिद्विस्त्रीर्णः सन् सं गृभायति। संगृह्णात्योषधीः । किंचायं जानन्नेव यजमानार्थं
+> प्रवृद्धेन भवितव्यं अतो ज्वालाभिः संयोज्य इत्यधिगच्छन्नेव जानतीर्यजमानार्थं
+> प्रवृद्धाभिर्भवितव्यमित्यवगच्छंतीर्ज्वाला नित्योऽविच्चिन्नः सन्ना शये । आशेते ।
+> आश्रयतीत्यर्थः ॥ लोपस्त आत्मनेपदेष्टिति तलोपः ॥ एवंभूतज्वालाः पुनः पूर्वं।
+> प्रवृद्धा एव पुनरपि यागयोग्या यथा भवंति तथा वर्धंते । देव्यं यागादि
+> व्यवहारयोग्यं स्तुत्यं नाग्निमपि यंति । प्राप्नवंति । यद्यस्यग्निज्वालयोरेकत्वं
+> तथापि राहोः शिर इतिवदौपचारिको गंतृगंतव्यभावः । किंचैवं प्रवृद्धा ज्वाला
+> ओषधयो वा सचाग्निना सह पित्रोर्जगत्पालयित्रोस्ताभ्यां संभूय द्यावापृथिव्योरन्यर्पूर्वमविद्यमानं तेजोमयं वर्पो रूपं कृण्वते । कुर्वंति ।
+> लोकद्वयं स्पृशंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: that Agni is संस्तिर (*saṃstira*), covered (आच्छन्नः (*ācchannaḥ*)), the word being formed from सं (*saṃ*) with the root *stṛṇāti*. Likewise विस्तिरः (*vistiraḥ*): at times, spread out, he सं गृभायति (*saṃ gṛbhāyati*), gathers together the herbs. Moreover, knowing (जानन् (*jānan*)) that he must be grown large for the sacrificer's sake and so be joined with flames, and the flames (जानतीः (*jānatīḥ*)) likewise understanding that they must be grown large for the sacrificer's sake, the flames, unbroken and constant (नित्यः (*nityaḥ*)), आ शये (*ā śaye*), that is, resort to him (आशेते (*āśete*), *āśrayati*). Flames of this kind, formerly grown large, grow again so as to be fit for sacrifice. They also reach (अपि यंति (*api yaṃti*), प्राप्नवंति (*prāpnavaṃti*)) the fire that is divine, that is, worthy of sacrificial and other practice and of praise. Though fire and flames are one, the relation of goer and goal is figurative, as in "the head of Rāhu". Further, the grown flames or the herbs, together with the fire (सचा (*sacā*)), joining with the two "parents", the two protectors of the world, heaven and earth, make (कृण्वते (*kṛṇvate*), कुर्वंति (*kurvaṃti*)) a lustrous form (वर्पः (*varpaḥ*)) not existing before, that is, they touch both worlds. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 121. pp. 116-121 (batch API)
+**Progress note:** Done through printed p. 127. pp. 122-127 (batch API)
