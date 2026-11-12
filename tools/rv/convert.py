@@ -98,6 +98,21 @@ def _fix_label(out,sec,restored):
         return
     if k>=0 and re.fullmatch(r'\*\*[^*]*(pāṭha|bhāṣya)[^*]*\*\*',out[k].strip(),re.I): return      # another spelling of the label: left to labels.normalise
     out+=['',f'**{name}**']; restored.append(f'{name}: label missing before the block: inserted **{name}**')
+LABEL_RE=re.compile(r'\*\*(Saṃhitā-pāṭha|Pada-pāṭha|Sāyaṇa-bhāṣya)\*\*')
+_LABSEC={'Saṃhitā-pāṭha':'samhita','Pada-pāṭha':'pada','Sāyaṇa-bhāṣya':'bhashya'}
+def label_mismatches(en_text,kn_text,start=None):
+    """[[bN]] of a Saṃhitā/Pada/bhāṣya block standing under the label of ANOTHER section (the model counted the blocks one off, Vol 18: w0162, w0223,
+    w0316, w0371, w0445, w0729: no other gate saw it, the text looked complete)"""
+    secs=block_sections(kn_text,start); cur=None; bad=[]
+    for l in en_text.split('\n'):
+        m=LABEL_RE.fullmatch(l.strip())
+        if m: cur=_LABSEC[m.group(1)]; continue
+        m=re.fullmatch(r'\s*\[\[b(\d+)\]\]\s*',l)
+        if m:
+            n=int(m.group(1))
+            if cur and n-1<len(secs) and secs[n-1] in LABEL_EN and secs[n-1]!=cur: bad.append(n)
+            cur=None
+    return bad
 NOIAST='§NOIAST§ '
 def expand(en_text,kn_text,plain=(),start=None):
     """returns (text, problems)"""

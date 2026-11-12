@@ -128,6 +128,7 @@ def rk_headings(t):
         if k<0 or L[k].startswith('## '): prev=None                     # first Ṛk of a sūkta (or of the text)
         if k>=0 and L[k].startswith('## Sūkta') and n is None: n=1
         if h is None:
+            if prev and n and n!=prev+1: ch.append(('number',f'added heading: block number {n} -> {prev+1} (misprint or cut line in the supplied text; the sequence wins)')); n=prev+1
             n=n or (prev+1 if prev else None); ins[i]='#### Ṛk'+(f' {n}' if n else ''); ch.append(('added',n))
         else:
             own.add(h); m=re.search(r'\d+',L[h]); hn=int(m.group()) if m else None
@@ -301,6 +302,8 @@ def cmd_check(a):
     if acc: print('ACCENT WARNING (doubled pluta digit / mark at a virama or before a vowel sign; logged, do not hand-edit):',acc[:3]); open(os.path.join(ROOT,f'vol{cfg.vol}','review','accent_flags.tsv'),'a',encoding='utf8').write(''.join(f"{os.path.basename(w)}\t{x}\n" for x in acc))
     if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',enf): fail.append('empty inline segment ⟦ ⟧ in en.md')
     if re.search(r'\*\*Progress note',en): fail.append('en.md must not contain a Progress note (the script writes it)')
+    sp_=os.path.join(w,'section_start.txt'); mm=convert.label_mismatches(en,kn,(rd(sp_).strip() or None) if os.path.exists(sp_) else None)
+    if mm: fail.append('blocks under the label of another section: '+', '.join(f'[[b{n}]]' for n in mm[:8])+' (the blocks are counted one off: block N of kn.md is the Saṃhitā, Pada or bhāṣya shown by its label line in kn.md; every Ṛk is Saṃhitā block, Pada block, bhāṣya block, in that order)')
     if '[figure' in kn: fail.append('kn.md still has a [figure: …] line: read the picture, write the block into kn.md, remove the line (BRIEF.md)')
     for m in re.findall(r'<!-- printed (\d+)',kn):
         if int(m) not in [p['printed'] for p in pg]: fail.append(f'kn.md has a marker for printed p. {m} that is not in pages.json (append it there and add "### Printed p. {m}" to en.md)')
