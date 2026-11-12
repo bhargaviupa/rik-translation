@@ -4905,6 +4905,154 @@ The sacrifice reflects the principle of the universe. The sacrificial altar, bei
 
 सर्वाणि ह त्त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित आपो वै सर्वे देवास्सर्वाणि भूतानि ता हैता आप एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति ..... योऽयं हिरण्मयः पुरुषः ॥ (*sarvāṇi ha ttveva bhūtāni | sarve devā eṣo 'gniścita āpo vai sarve devāssarvāṇi bhūtāni tā haitā āpa evaiṣo 'gniścitastasya nāvyā eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ..... yo 'yaṃ hiraṇmayaḥ puruṣaḥ ‖*) (Śa. Brā. 10-5-4-14)
 
+### Printed p. 202
+In these passages Agni, who stands on the fire-altar, is described as pervading all the worlds and as the overseer of all the organs, and as the centre on which all activity rests. For this very reason the epithet विश्वथा (*viśvathā*) in the present Ṛk shows Agni's all-embracing nature. Agni is the Hotṛ, Agni is the Adhvaryu, he is the sacrifice itself. Since all the limbs of the sacrifice and all its acts are enclosed in Agni and find their support in him, the comparison with the felly of a chariot-wheel is fitting.
+
+दिवश्चित्ते बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वं । राजा कृष्णीनामसि मानुषीणां युधा देवेभ्यो वरिवश्च कर्थ ॥ (*divaścitte bṛhato jātavedo vaiśvānara pra ririce mahitvaṃ | rājā kṛṣṇīnāmasi mānuṣīṇāṃ yudhā devebhyo varivaśca kartha ‖*) (Ṛ. Saṃ. 1-59-5)
+
+वैश्वानर तव धामान्या चके येभिः स्वर्विदभवो विचक्षण । जात आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ॥ (*vaiśvānara tava dhāmānyā cake yebhiḥ svarvidabhavo vicakṣaṇa | jāta āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūrasi tmanā ‖*) (Ṛ. Saṃ. 3-3-18)
+
+In these and other Ṛks Agni's all-pervasiveness and all-surpassing power are described, and the point that Agni by his brilliance overcomes all gods, men and others is also stated in the present Ṛk.
+
+##### Grammar
+
+- अग्ने — आमंत्रितस्यच (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- धृतव्रतः — धृतं व्रतं येन सः धृतव्रतः । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- शाशद्रे — शद्‌ल्य शातने धातुः । छंदसिलुज् लज् लिटः (पा. सू ३-४-६) इति वर्तमानार्थे लिट् । प्रथमपुरुषएकवचने लिटस्तझुयोरेशिरेच् (पा. सू. ३-४-८१) इति विशादेशः । तं निमित्तीकृत्य धातोः द्वित्वम् । अभ्यासे अदिहल्‌शेषे प्राप्ते तुजादीनां दीर्घोऽभ्यासस्य (पा. सू- ६-१-७) इति दीर्घः । बहुलं छंदसि इति प्रत्ययस्य रुटागमः । टित्त्वात् आद्यवयवः भवति । हि इत्यस्य संबंधात् हिच (पा. सू. ८-१-३४) इति निघातस्वरप्रतिषेधः भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- सुदानवः — शोभनं दानु यस्य सः सुदानुः । दाञ् दाने धातुः । दाभाभ्यां नुः (उ. सू. ३-३१२) इति नुप्रत्ययः । अंतोदात्तः भवति । समासे नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति अंतोदात्तस्वरः भवति । व्यत्ययो बहुलं (पा. सू. ३-१८५) इति एकवचनस्य बहुवचनप्रत्ययः भवति । **NOTE**
+
+### Printed p. 203
+- शाशद्रे — द्वितीयव्याख्याने अस्य प्रक्रिया भिन्ना भवति । शदलृ शातने धातुः । पूर्ववत् छांदसत्वेन कर्मणि लिट् । इरयोरे (पा. सू. ६-४-७६) इति प्रत्ययस्य रे आदेशः । पूर्ववत् स्वरादयः भवंति ।
+- विश्वथा — इवार्थे द्योत्ये प्रत्यपूर्वविश्वेमात्थाल् छंदसि (पा. सू. ५-३-१११) इति थाल् प्रत्ययः । लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+- परिभूः — परि सर्वतः भाविता परिभूः । भूसत्तायां धातुः । क्विप् प्रत्ययः । प्रादिसमासे गतिकारकोपपदात्‌कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- अजायथाः — जनी प्रादुर्भावे धातुः । छांदसत्वेन वर्तमानार्थे लज् । मध्यमपुरुषएकवचने थास् प्रत्ययः । दिवादिभ्यः श्यन् (पा. सू. ३-१-६९) इति श्यन्‌विकरणः । ज्ञाजनोर्जा (पा. सू. ७-३-७९) इति धातोः जादेशः । अंगस्य अडागमः । यद्योगात् निपातैर्यद्यदि इति निघातप्रतिषेधात् अडागम उदात्तः इति आद्युदात्तं पदं भवति । ॥ ९ ॥
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने शशमा॒नाय॑ सुन्व॒ते रत्नं॑ यविष्ठ दे॒वता॑तिमिन्वसि ।  
+> तं त्वा॒ नु नव्यं॑ सहसो युवन्व॒यं भगं॒ न का॒रे म॑हिरत्न  
+> धीमहि ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । शशमानाय । सुन्वते । रत्नं । यविष्ठ । देवतातिं । इन्वसि ।  
+> तं । त्वा । नु। नव्यं । सहसः । युवन् । वयं । भगं । न । कारे । महिरत्न ।  
+> धीमहि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यविष्ठ युवतम त्वं शशमानाय त्वां स्तुवते । शशमानः शंसमान इति यास्कः । नि. ६-८ । सुन्वते त्वदर्थमभिषवं कुर्वते यजमानाय तद्या-
+
+##### Gist of the bhāṣya
+
+"O Agni, youngest (यविष्ठ (*yaviṣṭha*) = most youthful), you for the शशमानाय (*śaśamānāya*), the one who praises you — शशमानः शंसमान इति यास्कः (*śaśamānaḥ śaṃsamāna iti yāskaḥ*) (Ni. 6-8) — and for the sacrificer who presses the soma for you, for his offering…" (the sentence continues on the next page).
+
+### Printed p. 204
+
+> गार्थं रत्नं रमणीयं हविर्देवतातिं देवेषु तायमानं विस्तार्यमाणमिन्वसि।
+> व्याप्नोषि । अस्मत्पत्तं हविर्देवान्प्रापयसीत्यर्थः । इन्वतिव्याप्तिकर्मा इन्वति
+> ननक्षेति तन्नामसु पाठात् । हे सहसो युवन् । युवशब्देनोत्पत्तिर्लक्ष्यते ।
+> मथनकाले बलेनोत्पन्न बलस्य मिश्रयितर्वा । यद्वा । सहसस्पुत्र युवन्नित्यतरुण
+> महिरत्नास्मत्पदेयमहद्रमणीयधन नव्यं नवतरं स्तुत्यं वा तं तादृशं हविर्भुजं त्वा त्वां वयं यजमानाः कारे शब्दे स्तोत्रलक्षणे नु क्षिप्रं धीमहि ।
+> स्थापयामः । हविष्पदानसमये क्षिप्रमेव स्तुम इत्यर्थः । तत्र दृष्टांतः । भगं
+> नादित्यमिव । यद्वा । महांतं राजानमिव । तं यथा स्तुवंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+…रत्नं (*ratnaṃ*) is the delightful oblation; देवतातिं (*devatātiṃ*) is that which is spread among the gods; इन्वसि (*invasi*) means "you pervade", i.e. you convey the oblation given by us to the gods. इन्वति (*invati*) is a word of pervading, since it is read among those names (इन्वति ननक्ष (*invati nanakṣa*)). "O son of strength (सहसो युवन् (*sahaso yuvan*))": the word युव (*yuva*) indicates origin — one produced by force at the time of churning, or the one who mingles with strength. Or else, "son of strength, ever-youthful". O Mahiratna, possessor of great lovely wealth to be given by us: you who are new (नव्यं (*navyaṃ*)) or worthy of praise, such an eater of oblations — we, the sacrificers, quickly place (धीमहि (*dhīmahi*)) in the sound (कारे (*kāre*)) that is a hymn, i.e. we praise quickly at the time of giving the oblation. The example: like Bhaga, i.e. the Āditya; or else like a great king: as one praises him, so we praise you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—very young
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- शशमानाय (*śaśamānāya*)—for the sacrificer who praises (you)
+- सुन्वते (*sunvate*)—and who presses soma juice (for you)
+- रत्नं (*ratnaṃ*)—the delightful oblation
+- देवतातिं (*devatātiṃ*)—so as to be pleasing to the gods
+- इन्वसि (*invasi*)—you convey (to them)
+- सहसः युव (*sahasaḥ yuva*)—one born of strength, or, being born of strength, ever young
+- महिरत्न (*mahiratna*)—Agni, possessor of abundant wealth (that may be given to us)
+- नव्यं (*navyaṃ*)—the new one, or the one worthy of praise
+- तं (*taṃ*)—such a one, famed for accepting oblations
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we the sacrificers
+- कारे (*kāre*)—in the sound that is a hymn
+- भगं न (*bhagaṃ na*)—as one would place Bhaga or a great king
+- नु (*nu*)—quickly
+- धीमहि (*dhīmahi*)—we place in a praiseworthy manner (we praise in a praiseworthy manner)
+
+##### भावार्थ (Bhāvārtha)
+
+O very youthful Agni, for the sacrificer who praises you and presses soma for you, you convey the delightful oblation to the gods so that it pleases them. O Agni, born of strength, young, possessor of abundant wealth, worthy of praise and famed for accepting oblations, we the sacrificers praise you exceedingly, as one praises a king in a praiseworthy manner.
+
+##### Printed English
+
+Most youthfull Agni, for the good of him who praises you and offer=
+you libations, you make the precious ( offering ) acceptable to the gods :
+new-born of strength, we glorify you who is to be lauded: to whom rich
+offerings ( are to be presented:) we glorify you in ( our ) hymn as ( men
+eulogize ) a powerful prince.
+
+### Printed p. 205
+
+##### विशेषविषयगळु (Special Topics)
+
+शशमानाय (*śaśamānāya*) — Sāyaṇa cites the Nirukta sentence शशमानः शंसमानः (*śaśamānaḥ śaṃsamānaḥ*) (Ni. 6-8) and explains स्तुवते (*stuvate*) as "to the sacrificer who praises". The Nirukta-author, quoting the Ṛk
+
+यो नां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः । उपाह तं गच्छथो वीथो अ ध्वरमच्छा गिरः सुमतिं गंतमस्मयू । (*yo nāṃ yajñaiḥ śaśamāno ha dāśati kavirhotā yajati manmasādhanaḥ | upāha taṃ gacchatho vītho a dhvaramacchā giraḥ sumatiṃ gaṃtamasmayū |*) (Ṛ. Saṃ. 1-151-7)
+
+explains the meaning of the word शशमानः (*śaśamānaḥ*) (Ni. 6-8). In the first half of the Ṛk, Agni's carrying the delightful oblation to the gods and offering it for the sacrificer, and the benefit he thereby does to the sacrificer, are described.
+
+इन्वसि (*invasi*) — इन्वतिः व्याप्तिकर्मा । (*invatiḥ vyāptikarmā |*) (Ni. 2-18) अस्मत्पत्तं हविः देवान् प्रापयसीत्यर्थः । (*asmatpattaṃ haviḥ devān prāpayasītyarthaḥ |*) This word suggests the sense of distributing among all the gods and satisfying them all.
+
+नव्यं (*navyaṃ*) — read among the names of "new": नवं, नूतनं (*navaṃ, nūtanaṃ*) etc. (3-19). क्षिप्रोत्पन्नं नूतनमित्यर्थः । (*kṣiprotpannaṃ nūtanamityarthaḥ |*) It means "just now produced"; for that very reason, worthy of praise.
+
+कारे (*kāre*) — स्तोत्रलक्षणे शब्दे । (*stotralakṣaṇe śabde |*) "In the sound that is a hymn"; धीमहि (*dhīmahi*) "we place" means that we make you the subject of the best hymn. Since the word indicates an act to be done (क्रियत इति कारः (*kriyata iti kāraḥ*)), it may be the act of sacrifice, of battle, or of praise; the meaning must be understood according to the context. For example, in the Ṛk
+
+सहावा पृत्सु तरणिर्नार्वा व्यानशी रोवसी मेहनावान् । भगो न कारे हव्यो मतीनां पितेव चारुः सुहवो वयोधाः । (*sahāvā pṛtsu taraṇirnārvā vyānaśī rovasī mehanāvān | bhago na kāre havyo matīnāṃ piteva cāruḥ suhavo vayodhāḥ |*) (Ṛ. Saṃ. 3-49-3)
+
+the word कार (*kāra*) is taken in the sense of sacrifice: क्रियत इति कारः यज्ञादिः तस्मिन् यज्ञे (*kriyata iti kāraḥ yajñādiḥ tasmin yajñe*). And in
+
+जयेम कारे पुरुहूत कारिणोऽभि तिष्ठेम दूढ्यः । नृभिवृत्रं हन्याम शूशुयाम चावेरिंद्र प्र णो धियः । (*jayema kāre puruhūta kāriṇo 'bhi tiṣṭhema dūḍhyaḥ | nṛbhivṛtraṃ hanyāma śūśuyāma cāveriṃdra pra ṇo dhiyaḥ |*) (Ṛ. Saṃ. 8-21-12)
+
+### Printed p. 206
+in this Ṛk: कारे । कीर्यंत आयुधान्यत्र इति कारः युद्धं तस्मिन् जयेम । (*kāre | kīryaṃta āyudhānyatra iti kāraḥ yuddhaṃ tasmin jayema |*) Because weapons are sharply hurled in it, battle is called कार (*kāra*); the word also conveys the prayer "may we win in this battle". In the present Ṛk it means the act of praise.
+
+भगं न (*bhagaṃ na*) — Here the word भग (*bhaga*) is said to mean either the god Bhaga, one of the Ādityas, or a great king. भगो भजतेः । (*bhago bhajateḥ |*) (Ni. 1-7) Since it expresses the sense of worship, either of these two meanings may be given. As the god Bhaga and likewise a venerable king become objects of praise, so we make Agni the object of praise: so the comparison runs.
+
+##### Grammar
+
+- शशमानाय — शशमानः शंसमानः (निरु. ६-८) इति यास्कैः उक्तम् । स्तुत्यर्थकात् अस्मात् धातोः लडर्थे कानच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- सुन्वते — षुञ् अभिषवे धातुः । धात्वादेःषः सः इति आदेः सत्वम् । लडर्थे शतृ प्रत्ययः । स्वादिभ्यः श्नुः (पा. सू. ३-१-७३) इति श्नुविकरणम् । सार्वधातुकमपित् इति अस्य जत्वात् गुणः न भवति । यणादेशः । चतुर्थीएकवचनांतरूपम् । नुम् रहितस्य शतृप्रत्ययस्य परत्र विभक्तेः आगमनात् शतुरनुमो नद्यजादी (पा. सू. ६-१-१७३) इति तत् उदात्तं भवति । **NOTE**
+- रत्नम् — रमयतीति रत्नम् । रमेस्तच (उ. सू. ३-२९४) इति न प्रत्ययः । धातोः मकारस्य तकारादेशः । नित् इति अनुवृत्तेः आद्युदात्तस्वरः भवति ।
+- यविष्ठ — अतिशयेन युवा यविष्ठः । युवन् शब्दः । अस्मात् अतिशायने तम- (पा. सू. ५-३-५५) इति इष्टन् प्रत्ययः । स्कूलदूर- (पा. सू ६-४-१५६) इति यणादिपरस्य (वन्) लोपः ; उकारस्य गुणः । अजादिप्रत्ययपरत्वात् अपादेशः । संबुद्धौ आमंत्रितस्य च इति निघातस्वरः भवति ।
+- देवतातिम् — सर्वदेवात्तातिल् (पा. सू. ४-४-१४२) इति तातिल् प्रत्ययः । लित्त्वात् लिति (पा. सू. ६-१-१३९) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+- इन्वसि — इवि व्याप्तौ धातुः । इन्वति ननक्ष (निरु. २-१८-१) इति व्याप्तिकर्मकधातुभिः सह पठितम् । इदित्त्वात् सुमागमः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्र आगमनात् निघातस्वरः भवति । **NOTE**
+
+### Printed p. 207
+- नव्यम् — भवे छंदसि (पा. सू. ४-४-११०) इति यत् प्रत्ययः । यस्येति च इति अकारलोपः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति ।
+- सहसो युवन् — सुबामंत्रिते परांगवत् स्वरे (पा. सू २-१-२) इति सहसो इति पष्प्यंतस्य परांगवद्भावात् समुदायस्य आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- महिरत्न — महि रत्नं यस्य सः महिरत्नः । संबुद्धौ आमंत्रितनिघातस्वरः भवति ।
+- धीमहि — डुधाज् धारणपोषणयोः धातुः । लिज् उत्तमपुरुषबहुवचने महिज् प्रत्ययः । लिजिः सीयुट् इति सीयुट् आगमः । लोपोव्योर्वलि इति यकारलोपः । छंदस्युभयथा (पा. सू. ३-४-११७) इति प्रत्ययस्य सार्वधातुकसंज्ञायाः अपि सत्त्वात् लिजिः सलोपोनंत्यस्य (पा. सू. ७-२-७२) इति सकारस्य लोपः । सार्वधातुकमपित् इति जात्वम् । शप् विकरणम् । बहुलं छंदसि इति शपः लुक् । अर्धधातुकसंज्ञायाः सत्त्वात् अतो लोप इट च (पा. सू. ७-४-६४) इति धातोः आकारस्य लोपः । धीमहि इति रूपं भवति । आतिजंतस्य परत्र सत्त्वात् निघातस्वरः भवति । ॥१०॥ **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे र॒यिं न स्वर्थं॒ दमू॑नसं॒ भगं॒ दक्षं॒ न प॑पृचासि  ॒
+> धर्णसिं ।  
+> र॒श्मीरि॑व॒ यो यम॑ति॒ जन्म॑नी उ॒भे दे॒वानां॒ शंस॑मृ॒त आ च॑  ॒॑
+> सुक्रतुः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । रयिं । न । सुअर्थं । दमूनसं । भगं । दक्षं । न । पपृचासि । धर्णसिं ।  
+> रश्मीन् ऽइव । यः । यमति । जन्मनी इति । उभे इति । देवानां ! शंसं । ऋते । आ ।  
+> च । सुक्रतुः ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 201. pp. 196-201 (batch API)
+**Progress note:** Done through printed p. 207. pp. 202-
