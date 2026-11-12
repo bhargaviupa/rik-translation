@@ -12865,6 +12865,183 @@ explains the word निदः (*nidaḥ*) as निंदितारं (*ni�
 - देवनिदः—देवान् निंदंति इति देवनिदः । णिदि कुत्सायां धातुः । क्विप् च इति क्विप् प्रत्ययः । आगमानुशासनमनित्यम् इति वचनेन नुमागमः न भवति । कृदुत्तरपदप्रकृतिस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
 - अजूर्यन्—ज्यष् वयोहानौ धातुः । छांदसत्वेन लज् । प्रथमपुरुषबहुवचने झि प्रत्ययः । अंत्यलोपः । दिवादिभ्यः श्यन् (पा. सू. ३-१-६९) इति श्यन् विकरणः । बहुलं छंदसि इति धातोः उत्वम् । र परत्वेन आगच्छति । हलि च इति दीर्घः । अंगस्य अडागमः । तिजंतनिघातस्वरः भवति ।
 
+### Printed p. 526
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पादे॑ति प्रथ॒मा प॒द्वती॑नां॒ कस्तद्वां॑ मित्रावरु॒णा चि॑केत ।  
+> गर्भो॑ भा॒रं भ॑र॒त्या चि॑दस्य ऋ॒तं पिप॒र्त्यनृ॑तं॒ नि ता॑रीत् ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपात् । एति । प्रथमा । पत् ऽ वतीनां । कः । तत् । नां । मित्रावरुणा । आ । चिकेत ।  
+> गर्भः । भारं । भरति । आ । चित् । आस्य । ऋतं । पिपर्ति । अनृतं । नि । तारीत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणौ पद्वतीनां मनुष्यादीनां प्रजानां प्रथमा
+> प्रथमभाविन्यपात् पादरहितोषाः । प्रतिदिनं सूर्यचंद्रादिवत् स्वस्याः परिभ्रमणाभावात् सूर्यगमनेनैव स्वगमनादपादिति चैतीति चोपचर्यते । तत्तादृशं
+> युवयोः प्रसिद्धं कर्म क आ चिकेत । क अभिमुख्यन जानाति ॥ कित ज्ञाने ॥ तत्सुत्यमित्यर्थः । मित्रावरुणयोरहोरात्रदेवत्पादहोरात्रयोरंतरालस्यॆपोष
+> स्त्वादेतत्कर्मत्वं । किंचास्य लोकस्य भारं निर्वाहं गर्भो युवयोगर्भस्थानीयः शिशुरादित्यः । अहोरात्रयोर्मध्यकाल उत्पत्तेस्ताभ्यामेव मित्रावरुणत्वात् अहोरात्रे वै मित्रावरुणाविति श्रुतेः । स आहरति चित् । समंतान्निर्वहत्येव ।
+> हरति वास्य भारं जाड्यं । चिदित्यवधारणे । तत्कथमिति तदुच्यते ऋतं सत्यं जगतः
+> प्रकाशगमनादिरूपं पिपर्ति । पूरयति । अनृतमुक्तविलक्षणमंधकारं गमनादिनिरोधं च नि तारीत् । नितरति । निमज्जयति । नाशयतीत्यर्थः । शिशोर्जगद्वारवहनरूपं कर्म युष्मत्सामर्थ्यादिति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the verse as addressed to Mitra and Varuṇa. Among footed beings (men and the rest of creatures) the first to appear is अपात् (*apāt*), the footless Uṣas (dawn). She does not revolve daily as the sun and moon do. She moves only by the sun's motion, so she is figuratively spoken of both as "footless" and as "going" (एति (*eti*)). "Who understands (चिकेत (*ciketa*), from कित ज्ञाने (*kita jñāne*)) this well-known act of you two?" The answer implied is that it is true. Mitra and Varuṇa are the deities of day and night, and Uṣas stands between day and night, so the act is theirs.
+
+Further, the burden (the carrying-on) of this world is borne by the गर्भ (*garbha*), the child, Āditya (the sun), who is as it were the embryo of you two. He is born in the time between day and night, so he is born from those two, and Mitra and Varuṇa are day and night. Sāyaṇa cites the śruti अहोरात्रे वै मित्रावरुणाविति श्रुतेः । (*ahorātre vai mitrāvaruṇāviti śruteḥ |*) चित् (*cit*) is for emphasis: he carries it completely. Or else: he removes the burden of the world, its dullness (जाड्यं (*jāḍyaṃ*)). How? He fills (पिपर्ति (*piparti*)) the truth (ऋतं (*ṛtaṃ*)), that is, the world's light, motion and the like. He submerges and destroys (नि तारीत् (*ni tārīt*)) the untruth (अनृतं (*anṛtaṃ*)), meaning the opposite of this: darkness and the stopping of movement. The child's work of bearing the world's burden comes from your power.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- पद्वतीनां (*padvatīnāṃ*)—to the footed living beings, men and the rest
+- प्रथमा (*prathamā*)—the forerunner, the herald
+- अपात् (*apāt*)—the footless goddess Uṣas
+- तत् (*tat*)—this part of the truth
+- नां (*nāṃ*)—the work of you two (thus)
+- कः (*kaḥ*)—who
+- आ चिकेत (*ā ciketa*)—understands well
+- अस्य (*asya*)—of this world
+- भारं (*bhāraṃ*)—the burden of its upkeep
+- गर्भः (*garbhaḥ*)—the child in the womb (of you two), Āditya
+- आ भरति चित् (*ā bharati cit*)—carries out completely
+
+### Printed p. 527
+- ऋतं (*ṛtaṃ*)—(for the world) the truth of light and so on
+- पिपर्ति (*piparti*)—fills
+- अनृतं (*anṛtaṃ*)—the untruth in the form of darkness
+- नि तारीत् (*ni tārīt*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who can know that it is your work that the footless Uṣas is the forerunner of all footed creatures, men and the rest? Moreover, Āditya, the child in your womb, fills the world with the truth of light and the like and destroys the untruth that is darkness. He thereby bears the burden of this world's upkeep and carries it out completely.
+
+##### Printed English
+
+Who knows, Mitra and Varuna, that it is your doing, that the footless dawn is the precursor of footed beings ; and that your infant (progeny, the sun), sustains the burthen of this (world) : he diffuses (the) truth (of light) and disperses the falsehood (of darkness.)
+
+##### विशेषविषयगळु (Special Topics)
+
+पद्वतीनां प्रथमा (*padvatīnāṃ prathamā*): she who appears before all creatures that move on the earth or in the sky, and awakens them. The point is made in the Ṛk आ घा योषेव सूनर्युषा याति प्रभुंजती । जरयंती वृजनं पद्वदीयत उत्पातयति दक्षिणः ॥ (*ā ghā yoṣeva sūnaryuṣā yāti prabhuṃjatī | jarayaṃtī vṛjanaṃ padvadīyata utpātayati dakṣiṇaḥ ‖*) (Ṛ. Saṃ. 1-48-5) and others like it. There, just as a housewife skilled in household tasks rises before all and wakes the others, Uṣas appears before sunrise and wakes all sleeping birds, beasts, men and the rest.
+
+अपात् (*apāt*): the footless Uṣas. Sāyaṇa has explained that she has no daily revolution of her own, like the sun and moon. Her revolution is joined with the sun's, so this epithet is applied to her, and she is spoken of as "going" in a figurative sense.
+
+### Printed p. 528
+अस्य भारं गर्भः आ भरति चित् (*asya bhāraṃ garbhaḥ ā bharati cit*): Āditya, the child in the womb of you two, carries out the whole burden of this world completely. He is born in the time between day and night, and Mitra and Varuṇa are those two. अहोरात्रे वै मित्रावरुणे । (*ahorātre vai mitrāvaruṇe |*) (Tai. Saṃ. 3-4-10-1) is the śruti. It is well known that Mitra is the presiding deity of the day and Varuṇa of the night. These deities too, in Ṛks such as श्री रोचना वरुण त्रीरुत द्यून् त्रीणि मित्र धारयथो रजांसि । नावृधानावमतिं क्षत्रियस्यानु व्रतं रक्षमाणावजुर्यं ॥ (*śrī rocanā varuṇa trīruta dyūn trīṇi mitra dhārayatho rajāṃsi | nāvṛdhānāvamatiṃ kṣatriyasyānu vrataṃ rakṣamāṇāvajuryaṃ ‖*) (Ṛ. Saṃ. 5-69-1), bear the burden of the three worlds. They are also the cause of Āditya and the other planets (grahas) making the world's rounds and so helping worldly affairs. This is what is said here.
+
+ऋतं (*ṛtaṃ*): the truth in the form of the world's light, motion and the like. Of the many meanings of the word ऋत (*ṛta*), such as sacrifice and water, here it means truth. Sāyaṇa explains it as the truth reflected in the light of the world and in all kinds of activity. Āditya, the representative of Mitra and Varuṇa, is the cause of the growth of truth and the destruction of untruth.
+
+पिपर्ति (*piparti*): पिपर्ति पपुरीरिति सृणातिनिगमौ वा प्रीणातिनिगमौ वा । (*piparti papurīriti sṛṇātinigamau vā prīṇātinigamau vā |*) It was stated earlier, with the Nirukta as authority (Ni. 5-24), that these words are used in the sense of "increase" or "satisfy".
+
+##### Grammar
+
+- अपात् — न विद्यते पादः यस्य अपात् । बहुव्रीहौ छांदसः अंत्यलोपः भवति । नञ्सुभ्याम् इति अंतोदात्तस्वरः भवति ।
+- एति — इण् गतौ धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- पद्वतीनाम् — पत् पादः तत् अस्य अस्ति इति पद्वत् । झयं इति सूत्रेण मतुपः मकारस्य मत्वम् । व्यत्ययेन मतुपः उदात्तस्वरः भवति ।
+- चिकेत — कित ज्ञाने धातुः । छांदसः लिट् । प्रथमपुरुषएकवचने तिप् प्रत्ययस्य णलादेशः । धातोः द्वित्वादि । तिजंतनिघातस्वरः भवति ।
+
+### Printed p. 529
+- भरति — भृञ् भरणे धातुः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- पिपर्ति — पृ पालनपूरणयोः धातुः । जुहोत्यादिः । लट् प्रथमपुरुषएकवचने शिप् प्रत्ययः । श्लु विकरणम् । श्लु इति धातोः द्वित्वम् । आर्तिपिपर्त्योश्च (पा. सू. ७-४-२७) इति अभ्यासस्य इत्वम् । शिप् निमित्तं धातोः इकः गुणः । चित् योगः अस्ति इति निघातस्वरः न भवति । अभ्यस्तानामादिः (पा सू. ६-१.१८९) इति आद्युदात्तस्वरः भवति ।
+- तारीत् — तृ प्लवनतरणयोः धातुः । छंदसिलुज् लज् लिटः इति लुज् । तिप् प्रत्ययः । इतश्च इति इकारलोपः । च्लेः सिच् आगते अस्तिसिचोऽपृक्त (पा.सू. ७-३-९६) इति प्रत्ययस्य ईडागमः । सिचि वृद्धिःप— (पा. सू. ७-२-१) इति धातोः वृद्धिः । इटईटि इति सिचः लोपः । छांदसः अडागमः न भवति । तिजंतसिघातस्वरः भवति । **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒यंत॒मित्परि॑ जा॒रं क॒नीनां॒ पश्या॑मसि॒ नोप॑नि॒पद्य॑मानं ।  
+> अन॑वपृग्णा॒ वित॑ता॒ वसा॑नं प्रि॒यं मि॒त्रस्य॒ वरु॑णस्य॒ धाम॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र 5 यंतं । इत् । परि । जारं । कनीनां । पश्यामसि । न । उप 5 निपद्यमानं ।  
+> अनव 5 पृग्णा । वि 5 तता । वसानं । प्रियं । मित्रस्य । वरुणस्य । धाम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कनीनां कमनीयानां दीप्तानां कन्यकास्थानीयानामुषसां ॥ कनतेः कांतिकर्मण इञ् । कृदिकारादक्तिन इति जीष् । आमि कन्याशब्दस्य वा छांदसं संप्रसारणं॥
+> तासां जारमादित्यं प्रयंतमित् प्रगच्छंतमेव परि पश्यामसि । वयं परिपश्यामः ।
+> उपनिपद्यमानं क्षणमात्रमपि निषीदंतं न पश्यामः । एतदपि तयोः सामर्थ्यं ।
+
+##### Gist of the bhāṣya
+
+कनीनां (*kanīnāṃ*) means "of the lovely, shining ones", that is, of the Uṣas-es, who are like maidens. Sāyaṇa derives the word from कनतेः कांतिकर्मण (*kanateḥ kāṃtikarmaṇa*) (the root कन (*kana*) in the sense of shining or loveliness). Alternatively it is the word कन्या (*kanyā*) with a Vedic संप्रसारणं (*saṃprasāraṇaṃ*) before आम् (*ām*). Their paramour (जारं (*jāraṃ*)) is Āditya. "We see him (परि पश्यामसि (*pari paśyāmasi*)) only as going forth (प्रयंतमित् (*prayaṃtamit*)). We do not see him settling down (उपनिपद्यमानं (*upanipadyamānaṃ*)), even for a moment." This too is the power of those two (Mitra and Varuṇa).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कनीनां (*kanīnāṃ*)—to the Uṣas-es who are charming in the form of maidens
+- जारं (*jāraṃ*)—the beloved one
+
+### Printed p. 530
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनस्तदेव विशेष्यते । अनवपृग्ज्ञानवपृग्ज्ञानि अत एव विततानि तेजांसि वसानमाच्छादयंतं प्रियं सर्वेषां प्रियभूतं मित्रस्य वरुणस्य च धाम तेजःस्थानभूतं ।
+> यद्वा । प्रियं धामेति संबध्यते । तयोः प्रेमस्थानं । ईदृशमादित्यं युष्मदनुज्ञया संचरंतं पश्यामसि !!
+
+##### Gist of the bhāṣya
+
+The same is described further. His rays (तेजांसि (*tejāṃsi*)) are अनवपृग्णा (*anavapṛgṇā*) (unattached to one another) and for that very reason वितता (*vitatā*) (spread wide). He is वसानं (*vasānaṃ*), covering with them, dear (प्रियं (*priyaṃ*)) to all, and the धाम (*dhāma*) of Mitra and Varuṇa, their seat of radiance. Or else: प्रियं धाम (*priyaṃ dhāma*) is taken together, meaning the abode of their love. "We see such an Āditya moving about with your permission."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनवपृग्ना (*anavapṛgnā*)—not clinging to one another
+- वितता (*vitatā*)—the rays spread out widely
+- वसानं (*vasānaṃ*)—the one who wears (them)
+- प्रियं (*priyaṃ*)—the one needed by all
+- मित्रस्य वरुणस्य (*mitrasya varuṇasya*)—to Mitra and Varuṇa
+- धाम (*dhāma*)—the one who is the dwelling-place; [or प्रियं धाम (*priyaṃ dhāma*): the one who is the dear dwelling-place (of Mitra and Varuṇa)]; this Āditya
+- प्रयंत मित् (*prayaṃta mit*)—as one (ever) moving, indeed
+- परि पश्यामसि (*pari paśyāmasi*)—we always see
+- उपनिपद्यमानं (*upanipadyamānaṃ*)—as if sitting down (even for a moment) to rest
+- न (*na*)—we never see
+
+##### भावार्थ (Bhāvārtha)
+
+We always see Āditya as one who moves unceasingly. He is the most beloved of the Uṣas-es, who are lovely in the form of maidens. He wears rays that spread widely, not clinging to one another, and he is the dear dwelling-place of Mitra and Varuṇa. We never see him sit down to rest, even for a moment.
+
+##### Printed English
+
+We behold the lover of the maiden (dawns), ever in movement, never resting for an instant, wearing inspearable and diffusive (radiance), the beloved abode of Mitra and Varuna **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+कनीनां (*kanīnāṃ*): कन्यकानां (*kanyakānāṃ*). The Nirukta authors show the derivation of this word: कन्या कमनीया भवति । क्वयं नेशव्येति वा । कमनॆ नानीयुत इति वा । कनतीर्वा स्यात्कांतिकर्मणः । (*kanyā kamanīyā bhavati | kvayaṃ neśavyeti vā | kamanè nānīyuta iti vā | kanatīrvā syātkāṃtikarmaṇaḥ |*) (Ni. 4-15). The name कन्या (*kanyā*) arises (1) from her having an attractive body, or (2) from "by whom she is taken by the hand" (or "by her lover"), or (3) from the root कन् (*kan*) in the sense of loveliness, the word then meaning "she who shines". And,
+
+### Printed p. 531
+having cited the Ṛk कनीनकेव विद्रधे नवे द्रुपदे अर्भके । बभ्रू यामेषु शोभेते ॥ (*kanīnakeva vidradhe nave drupade arbhake | babhrū yāmeṣu śobhete ‖*) (Ṛ. Saṃ. 4-32-23), they show that the above derivation of the word कनीनका (*kanīnakā*) is fitting. Āditya is the beloved paramour (जार (*jāra*)) of such a heart-attracting Uṣas in maiden form, and she is a woman infatuated with Āditya. This is described in Ṛks such as वाजिनीवती सूर्यस्य योषा चित्रामघा राय ईशे वसूनां । ऋषिष्टुता जरयंती मघोन्युषा उच्छति वह्निभिगृणाना ॥ (*vājinīvatī sūryasya yoṣā citrāmaghā rāya īśe vasūnāṃ | ṛṣiṣṭutā jarayaṃtī maghonyuṣā ucchati vahnibhigṛṇānā ‖*) (Ṛ. Saṃ. 7-25-5).
+
+अनवपृग्ना (*anavapṛgnā*): the meaning is "not clinging to one another and staying in one place, but spread out widely" (Not closely united but spreading all around). It is said that this word itself already suggests the sense of spreading. Even so, the word वितता (*vitatā*) shows the greater extent of the spreading.
+
+##### Grammar
+
+- प्रयंतं — इण् गतौ धातुः । लडर्थे शतृ प्रत्ययः । इणो यण् (पा. सू. ६-४-८१) इति धातोः यण् । द्वितीयाएकवचने नुमागमः । प्रत्ययस्य आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- जारम् — जरयतीति जारः आदित्यः । दारजार् कर्तरि णिलुक् च (पा. सू. ३-३-२०-४) इति घइंतत्वेन निपातितः । कर्षात्वतः (पा. सू. ६-१-१५९) इति अंतोदात्तस्वरः भवति । द्वितीयाविकवचनांतरूपम् । **NOTE**
+- कनीनाम् — कन कांत्यादिषु धातुः । सर्वधातुभ्यइन् इति अस्मात् इन् प्रत्ययः । अस्य स्त्रीत्वविवक्षायां कृदिकारादक्तिनः इति वचनेन जीप् । यद्वा कन्याशब्दस्य पष्ठिबहुवचनं आम् परे छंदसि संप्रसारणं भवति ।
+- पश्यामसि — दृशिर् प्रेक्षणे धातुः । लट् उत्तमपुरुषबहुवचने वस् प्रत्ययः । शप् विकरणम् । पाघ्राध्मा- (पा. सू- ७-३-७८) इति धातोः पश्यादेशः । अतोदीर्घोयञ् (पा. सू. ७-३-१०१) इति अदंतस्य दीर्घः । इदंतोमसि (पा. सू. ७-१-४६) इति प्रत्ययस्य इकागमः । पादादित्वात् निघातस्वरः न भवति । तास्यनुदात्तेत्- (पा. पा. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते । **NOTE**
+
+### Printed p. 532
+- उपनिपद्यमानम् — उप नि इति उपसर्गाभ्यां युक्तः गत्यर्थः पद धातुः । लडर्थे शानच् प्रत्ययः । दिवादित्वात् श्यन् विकरणम् । लसार्वधातुकं पूर्ववत् अनुदात्तं भवति इति विकरणस्य नित्त्वात् आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- अनवप्पण्णा — नञ् तत्पुरुषसमासः । तुत्पुरुषे- (पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरः भवति । नपुंसके शेश्छंदसि बहुलम् (पा. सू. ६-१-७०) इति शेः लोपः । **NOTE**
+- वितता — तनु विस्तारे धातुः । अस्मात् निष्ठा प्रत्यये परे अनुदात्तोपदेशव- (पा. सू. ६-४-३७) इति धातोः अनुनासिकस्य नकारस्य लोपः । गतिरनंतरः (पा.सू. ६-२-४९) इति गतेः (वि) प्रकृतिस्वरः भवति । पूर्ववत् नपुंसके शेः लोपः ।
+- वसानम् — वस आच्छादने धातुः । लटः शानचादेशः । अनुदात्तेत्त्वात् धातोः परत्वात् लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- धाम — नामन् सीमन् व्योमन् रोमन् (उ. सू. ४-५९०) इति मनिनंतत्वेन निपातितम् ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न॒श्वो जा॒तो अ॑नभी॒शुरर्वा॒ कनि॑क्रदत्पतयदू॒र्ध्वसा॑नुः ।  
+> अ॒चित्तं॒ ब्रह्म॑ जुजुषु॒र्युवा॑नः॒ प्र मि॒त्रे धाम॒ वरु॑णे  ॒॑
+> गृणंतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनश्वः । जातः । अनभीशुः । अर्वा । कनिक्रदत् । पतयत् । ऊर्ध्व ऽ सानुः ।  
+> अचित्तं । ब्रह्म । जुजुषुः । युवानः । प्र । मित्रे । धाम । वरुणे । गृणंतः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 525. pp. 520-525 (batch API)
+**Progress note:** Done through printed p. 532. pp. 526-532 (batch API)
