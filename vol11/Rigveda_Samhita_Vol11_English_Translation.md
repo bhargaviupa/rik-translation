@@ -6884,6 +6884,143 @@ Many mantra-portions such as देवान् आवह (*devān āvaha*), द
 
 Here ends the hundred and forty-second sūkta.
 
+### Printed p. 287
+## Sūkta 143 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र तव्यसीमित्यष्टर्चं चतुर्थं सूक्तं दैर्घतमसं । तथा चानुक्रांतं । प्र
+> तव्यसीमष्टावाग्नेयं तु तत्तिष्टुबंतमिति । तु तदित्युक्तत्पादिदमादिसूक्ताष्टकस्याग्निर्देवता । अंत्या त्रिष्टुप् शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥ अग्निष्टोम अग्निमारुते शस्त्र इदं सूक्तं जातवेदस्यनिविद्वानीयं । अथ यथेतमिति खंडे सूत्रितं । प्र तव्यसीं नव्यसीमापो हि प्रीति
+> तिस्रः । आ. ५-२० । इति ॥ दशरात्रस्य प्रथमेऽप्यहनि जातवेदस्यनिविद्वानं आश्वमेधिके
+> मध्यमेऽहनि च निविद्वानं । तथा चाचार्यातिदेशः । ऐकाहिकान्युपसंशस्य तेषु
+> निविदो दध्यादेवमेवाग्नि मारुते । आ १-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning प्र तव्यसीं (*pra tavyasīṃ*), has eight verses and is the fourth sūkta (of the anuvāka). Its seer is Dīrghatamas. The Anukramaṇī is quoted: the eight verses beginning प्र तव्यसीं (*pra tavyasīṃ*) are addressed to Agni, and the word "tu tat" in it marks that the sūkta-octad beginning here has Agni as deity. The last verse is a triṣṭubh; the remaining verses are jagatī by the rule that what is left over, where triṣṭubh is the final metre, is jagatī. The use (viniyoga) in the Prātaranuvāka and the Āśvina śastra has already been stated. In the Agniṣṭoma, at the Agnimāruta śastra, this sūkta serves as the Jātavedasya nivid-vāna (the verses that accompany the nivid for Jātavedas). The Āśvalāyana sūtra prescribes it in the section beginning "atha yathetam": the three verses beginning प्र तव्यसीं (*pra tavyasīṃ*) and नव्यसीं (*navyasīṃ*) and आपो हि (*āpo hi*) (Ā. 5-20). Further, on the first day of the Daśarāta it is the Jātavedasya nivid-vāna, and in the Āśvamedhika on the middle day there is a nivid-vāna also. The teacher's extension of the rule is likewise given: having recited the Aikāhika (one-day) hymns, one is to place the nivids in them, and the same for the Agnimāruta (Ā. 1-10).
+
+##### Anuvāda
+
+This sūkta beginning "Pra tavyasīm" is the fourth sūkta in the twenty-first anuvāka. It has eight Ṛks. Its seer is Dīrghatamas. The Anukramaṇī says: "Pra tavyasīm: eight Āgneya verses, the last a triṣṭubh." Because the words "tu" and "tat" are used there, it is to be understood that this sūkta and the eight sūktas that follow have Agni as deity. The last Ṛk of this sūkta is in the triṣṭubh metre; the other Ṛks are in the jagatī metre. These sūktas are used for the Prātaranuvāka and for the Āśvina śastra mantras. Also, when the Agnimāruta śastra mantras are recited in the Agniṣṭoma sacrifice, this sūkta is used for the nivid mantras connected with Jātavedas; this is explained in the Āśvalāyana Śrauta Sūtra, in the section "Yathetam", by the sūtra "the three verses Pra tavyasīm, Navyasīm and Āpo hi ṣṭhā" (Ā. 5-20). Besides, in the sacrificial rite called Daśarātra, performed over ten days, it is to be used on the first day for the nivid mantras connected with Jātavedas, and in the Aśvamedha sacrifice on the middle day for the nivid mantras; this is indicated in the Āśvalāyana Śrauta Sūtra, where the teacher's extension of the rule is explained, by the sentence "Aikāhikān upasaṃśasya teṣu nivido dadhyād evam evāgnimāruta" (Ā. 10-10). **NOTE**
+
+### Printed p. 288
+
+##### Particulars
+
+- Sūkta 143
+- Maṇḍala 1; Anuvāka 21; Sūkta 143
+- Aṣṭaka 2; Adhyāya 2; Varga 12
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Dīrghatamas Aucathya
+- Devatā: Agni
+- Chandas: 1–7 Jagatī; 8 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तव्य॑सीं॒ नव्य॑सीं धी॒तिम॒ग्नये॑ वा॒चो म॒तिं सह॑सः ॒॑ 
+> सूनवे भरे ।  
+> अ॒पां नापा॒द्यो वसु॑भिः स॒ह प्रि॒यो होता॑ पृथि॒व्यां  
+> न्यसी॑ददृ॒त्वियः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तव्यसीं । नव्यसीं । धीतिं । अग्नये । वाचः । मतिं । सहसः । सूनवे । भरे ।  
+> अपां । नपात् । यः । वसुभिः । सह । प्रियः । होता । पृथिव्यां । नि । असीदत् ।  
+> ऋत्वियः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमग्नये तव्यसीं तवीयसीमतिशयेन वर्धयित्रीं ॥ तवतिर्वृद्ध्यर्थः
+> सौत्रो धातुः । अस्मात्तृजंतात्तुश्चंदसीतीयसुन् । तुरिष्ठेमेयःस्विति तृलोपः।
+> छांदस ईकारलोपः ॥ नव्यसीं नवतरामपूर्वां धीतिं यागलक्षणामुक्तगुणकं
+> कर्म प्र भरे । प्रकर्षण करोमि । तथोक्तलक्षणां वाचो मतिं स्तुतिरूपं कर्म
+
+##### Gist of the bhāṣya
+
+"I (offer) to Agni a tavyasī," that is, a more powerful one, one that increases him exceedingly. The root tavati has the sense of growth. नव्यसीं (*navyasīṃ*) is newer, unprecedented. The dhīti is the action of sacrifice, having the qualities stated; "I offer it forth" (pra bhare), I perform it eminently. Likewise (I offer) the mati of speech, the action in the form of praise,
+
+### Printed p. 289
+
+> भरे । कीदृशायाग्नये । सहसो बलस्य सूनवे पुत्राय । किंच योऽग्निरपां
+> नपात् तासां नप्ता । अद्व्य ओषधयः ओषधीभ्योऽग्निरित्यग्नेर्नप्तृत्वं । अथवा ।
+> अपां न पातयिता वैद्युताग्निरूपेण प्रवर्षकत्वादिति भावः । तथा प्रियो यजमानस्य प्रीणयिता प्रियतमो ना तस्य होता होमनिष्पादकः सोऽग्निर्य्त्वदियः
+> प्राप्तकालः प्राप्तप्रदानसमयः सन्।पृथिव्यां वेदिलक्षणायां वसुभिर्निवासयोग्यैर्गवादिधनैः सहितो न्यसीदत् । नितरां सीदति ॥
+
+##### Gist of the bhāṣya
+
+I offer it to Agni. What sort of Agni? The son of strength (sahas). And further, Agni who is apāṃ napāt, the grandson of the waters: the herbs come from the waters and Agni from the herbs, so he is their grandson. Or else: he is the one who makes the waters fall (?), because as lightning-fire he causes rain. **NOTE** Likewise he is priya, the one who pleases the sacrificer, the dearest man; hotā, the accomplisher of the homa. That Agni, ṛtviya, having reached his time, the time for giving, sat down on the earth, that is, the altar, together with the vasus, the wealth such as cows fit for dwelling. "Ni-asīdat" means he sat down fully.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- सहसः (*sahasaḥ*)—of strength
+- सूनवे (*sūnave*)—to the son
+- अग्नये (*agnaye*)—to Agni (with Agni as the object)
+- तव्यसीम् (*tavyasīm*)—that which gives the greatest vigour
+- नव्यसीम् (*navyasīm*)—that which is the newest
+- धीतिम् (*dhītim*)—the action in the form of sacrifice
+- वाचःमतिं (*vācaḥmatiṃ*)—the action in the form of praise
+- प्रभरे (*prabhare*)—I perform eminently
+- यः (*yaḥ*)—which Agni
+- अपां नपात् (*apāṃ napāt*)—the grandson of the waters
+- प्रियः (*priyaḥ*)—the giver of delight (to the sacrificer), or the dearest
+- होता (*hotā*)—the accomplisher of the homa
+- ऋत्वियः (*ṛtviyaḥ*)—being there at the proper time
+- पृथिव्यां (*pṛthivyāṃ*)—on the ground in the form of the altar
+- वसुभिः (*vasubhiḥ*)—with wealth such as dwelling-places
+- न्यसीदत् (*nyasīdat*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing Agni, the son of strength, I perform eminently the sacrificial action, which gives the greatest vigour and is new, together with speech in the form of praise. Agni, the grandson of the waters, the giver of delight to the sacrificer, the accomplisher of the homa, comes in due season to the sacrifice and sits on the altar with cow-wealth and the like. **NOTE**
+
+##### Printed English
+
+I offer devoutly to Agni, the son of strength, an invigorating and most new sacrifice, with words of adoration ; ( that Agni ), the grandson of the waters, who, (present) in due season, the friend and ministering priest (to the sacrificer) sits upon the alter with (many) good things. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+The sūktā-introduction says: अग्निष्टोमे अग्निमारुते शस्त्रे इदं सूक्तं जातवेदस्यनिविद्वानीयं । (*agniṣṭome agnimārute śastre idaṃ sūktaṃ jātavedasyanividvānīyaṃ |*) Sāyaṇa has stated in the introduction that this is a sūkta to be recited at the time of the Agniṣṭoma sacrifice, forming part of the Agnimāruta śastra. He has also cited as authority the Āśvalāyana Śrauta Sūtra (5-20), which says प्र तव्यसीं नव्यसीं आपो हि प्रीति तिस्रः । (*pra tavyasīṃ navyasīṃ āpo hi prīti tisraḥ |*)
+
+### Printed p. 290
+This is well known as the Jātavedasya nivid mantra. Since the Vaiśvānara nivid mantra is also a part of the Agnimāruta śastra, he has stated plainly जातवेदस्यनिविधानीयं । (*jātavedasyanividhānīyaṃ |*) to show the difference from it. Of these, the sūkta that begins with the Ṛk
+वैश्वानराय पृथुपाजसे विपो रत्ना विधंत धरुणेषु गातवे । अग्निर्हि देवा अमृतो दुवस्यत्यथा धर्माणि सनता न दूदुषत् ॥ (*vaiśvānarāya pṛthupājase vipo ratnā vidhaṃta dharuṇeṣu gātave | agnirhi devā amṛto duvasyatyathā dharmāṇi sanatā na dūduṣat ‖*)
+(Ṛ. Saṃ. 3-3-1)
+belongs to Vaiśvānara-Agni. The present sūkta, and the sūkta that begins with the Ṛk
+आपो हि ष्ठा मयोभुवस्ता न ऊर्जे दधातन । महे रणाय चक्षसे । (*āpo hi ṣṭhā mayobhuvastā na ūrje dadhātana | mahe raṇāya cakṣase |*)
+(Ṛ. Saṃ. 10-9-1)
+together with the next two sūktas, belong to the Agni called Jātavedas.
+
+The earlier story that relates to this Agnimāruta and is its cause is told both in the Aitareya Brāhmaṇa and in the Śatapatha Brāhmaṇa. Since the two accounts differ somewhat in the narration, both are set out separately here. Of these, the original story of the Agnimāruta stotra connected with Vaiśvānara-Agni stands thus in the Aitareya Brāhmaṇa:
+वैश्वानरीयेणाग्निमारुतं प्रतिपद्यते वैश्वानरो वा एतद्रॆतः सिक्तं प्राच्यावयत्तस्माद्वैश्वानरीयेणाग्निमारुतं प्रतिपद्यते । (*vaiśvānarīyeṇāgnimārutaṃ pratipadyate vaiśvānaro vā etadrètaḥ siktaṃ prācyāvayattasmādvaiśvānarīyeṇāgnimārutaṃ pratipadyate |*)
+(Ai. Brā. 3-35)
+Vaiśvānara made the semen that had been spilt downwards move. Therefore it is his praise; this indicates the circumstance behind it. That circumstance is as follows:
+प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये तामृश्यो भूत्वा रोहितं भूतामभ्यैत्तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तम्मैच्छन्य एनमारिष्यत्येतमन्वोन्यस्मिन्नाविंदंस्तेषां या एव घोरतमास्तन्व आसंस्ता एकधा समभरंस्ताः संभृता एष देवोऽभवत्तदस्यैतद्भूतवन्नाम । (*prajāpatirvai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamityanye tāmṛśyo bhūtvā rohitaṃ bhūtāmabhyaittaṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tammaicchanya enamāriṣyatyetamanvonyasminnāviṃdaṃsteṣāṃ yā eva ghoratamāstanva āsaṃstā ekadhā samabharaṃstāḥ saṃbhṛtā eṣa devo 'bhavattadasyaitadbhūtavannāma |*)
+Once Prajāpati looked at his own daughter and was infatuated; she turned into a doe, and he followed her as a buck. Then the gods, knowing this to be an unheard-of wrong deed, tried to have him punished and created this Bhūta, a union of terrible forms.
+
+### Printed p. 291
+He became Bhūtapati.
+तं देवा अब्रुवन्नयं वै प्रजापतिरकृतमकरिमं विध्येति स तथेत्यब्रवीत्स वै वो वरं वृणा इति वृणीष्टेति स एतमेव वरमवृणीत पशूनामाधिपत्यं तदस्यैतत्सशुमन्नाम ॥ (*taṃ devā abruvannayaṃ vai prajāpatirakṛtamakarimaṃ vidhyeti sa tathetyabravītsa vai vo varaṃ vṛṇā iti vṛṇīṣṭeti sa etameva varamavṛṇīta paśūnāmādhipatyaṃ tadasyaitatsaśumannāma ‖*)
+Then the gods told him of the wrong deed Prajāpati was doing and said he must be punished. He agreed and asked in return, as a boon, for the lordship over animals (to become Paśupati); their consent was given.
+तमभ्यायत्याविध्यत्स विद्व ऊर्ध्व उदप्रपत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्तिकांडा सो एवेषुस्ति कांडा । (*tamabhyāyatyāvidhyatsa vidva ūrdhva udaprapattametaṃ mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sa yā rohitsā rohiṇī yo eveṣustikāṃḍā so eveṣusti kāṃḍā |*)
+Then Bhūtapati pierced Prajāpati with his trident, in the form of a three-pointed arrow. At once:
+तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो मषदिति यदब्रुवन्मेदं प्रजापते रेतो मषदिति तन्मादुषमभवत्तन्मादुषस्य माडुषत्वं माडुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः । (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto maṣaditi yadabruvanmedaṃ prajāpate reto maṣaditi tanmāduṣamabhavattanmāduṣasya māḍuṣatvaṃ māḍuṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ |*) (Ai. Brā. 3-33)
+At once the semen of Prajāpati began to flow. It became a lake. Then the gods did not let that semen go to waste. Therefore:
+तद्ग्निना परा दधुस्तन्मरुतोऽधून्वंस्तदग्निर्न प्राच्यावयत्तदग्नि ना वैश्वानरेण परा दधुस्तन्मरुतोऽदून्वंस्तदग्निर्वैश्वानरः प्राच्यावयत्तस्य तद्रेतसः प्रथममददीप्यत तदसावादित्योऽभवत्......... (*tadgninā parā dadhustanmaruto 'dhūnvaṃstadagnirna prācyāvayattadagni nā vaiśvānareṇa parā dadhustanmaruto 'dūnvaṃstadagnirvaiśvānaraḥ prācyāvayattasya tadretasaḥ prathamamadadīpyata tadasāvādityo 'bhavat.........*) (I. Prā. 3-33) **NOTE**
+Then the gods made Agni surround that lake filled with the semen, and made Marut blow upon it. Agni could not make it move. Then, with the help of Vaiśvānara, Agni was able to make Marut move it; this is the circumstance stated. Therefore Vaiśvānara-Agni is praised by the Vaiśvānara nivid mantra, which begins with the mantra "Vaiśvānarāya pṛthupājase" (Ṛ. Saṃ. 3-3-1). And further,
+
+### Printed p. 292
+जातवेदस्यं शंसति । प्रजापतिः प्रजा असृजत ताः सृष्टाः पराच्य एवायन्न व्यावर्तंत ता अग्निना पर्यगच्छत्ता अग्निमुपावर्तंत तमेवा द्याप्युपावृत्ताः सोऽब्रवीज्जाता वै प्रजा अनेनाविदमिति तज्ञातवेदस्यमभवत्तज्ञातवेदसो जातवेदस्त्वं ॥ (*jātavedasyaṃ śaṃsati | prajāpatiḥ prajā asṛjata tāḥ sṛṣṭāḥ parācya evāyanna vyāvartaṃta tā agninā paryagacchattā agnimupāvartaṃta tamevā dyāpyupāvṛttāḥ so 'bravījjātā vai prajā anenāvidamiti tajñātavedasyamabhavattajñātavedaso jātavedastvaṃ ‖*) (Ai. Brā. 3-36)
+Prajāpati created the creatures. Afterwards all that were created escaped and did not return. Then, when they were surrounded by Agni, they all approached Agni. Because Agni knew the creatures created by Prajāpati, he is called Jātavedas. Therefore it is said that Agni is praised by the sūkta beginning with the Ṛk "Pra tavyasīm"; this is the purpose of this Agnimāruta nivid mantra. The same point is made in the Śatapatha Brāhmaṇa in this order:
+प्रजापतिर्ह वै स्वां दुहितरमभिदध्र्यौ । दिवं पोषसं ना मिथुन्येनया स्यामिति ताग्ं संबभूव । तद्वै देवानामाग आस । य इत्थग्ं स्वां दुहितरमस्माकग्ं स्वसारं करोतीति । ते ह देवा ऊचुः । योऽयं देवः पशूनामीष्टेऽतिसंधं वा अयं चरति य इत्थग्ंसां महितरमस्माग्ं स्वसारं करोति विध्यॆममिति तग्ं रुद्रोऽभ्यायत्य विव्याध तस्य सामि रेतः प्रचस्कंद तथेन्नूनं तदास । तस्मादेतदृषिणाभ्यनूक्तं । पिता यस्त्वां दुहितरमधिष्कन् क्ष्मया रेतः संजग्मानो निषिंचदिति तदाग्निमारुतमित्युक्थं तस्मिंस्तद्व्याख्यायते ॥ (*prajāpatirha vai svāṃ duhitaramabhidadhryau | divaṃ poṣasaṃ nā mithunyenayā syāmiti tāgṃ saṃbabhūva | tadvai devānāmāga āsa | ya itthagṃ svāṃ duhitaramasmākagṃ svasāraṃ karotīti | te ha devā ūcuḥ | yo 'yaṃ devaḥ paśūnāmīṣṭe 'tisaṃdhaṃ vā ayaṃ carati ya itthagṃsāṃ mahitaramasmāgṃ svasāraṃ karoti vidhyèmamiti tagṃ rudro 'bhyāyatya vivyādha tasya sāmi retaḥ pracaskaṃda tathennūnaṃ tadāsa | tasmādetadṛṣiṇābhyanūktaṃ | pitā yastvāṃ duhitaramadhiṣkan kṣmayā retaḥ saṃjagmāno niṣiṃcaditi tadāgnimārutamityukthaṃ tasmiṃstadvyākhyāyate ‖*)
+(Śa. Prā. 1-7-4-1 to 4) **NOTE**
+Prajāpati became enamoured of his own daughter; the gods, regarding it as a sin, said to Rudra that Prajāpati must be punished. Then Rudra pierced Prajāpati, and his seed fell downwards. This same matter, in the Ṛk
+पिता यत्स्वां दुहितरमधिष्कन् क्ष्मया रेतः संजग्मानो नि षिंचत् । स्वाध्योऽजनयन् ब्रह्मा देवा वास्तोष्पतिं व्रतपां निरतक्षन् । (*pitā yatsvāṃ duhitaramadhiṣkan kṣmayā retaḥ saṃjagmāno ni ṣiṃcat | svādhyo 'janayan brahmā devā vāstoṣpatiṃ vratapāṃ niratakṣan |*)
+(Ṛ. Saṃ. 10-61-2)
+is stated thus: "When the father embraced his own daughter to unite with her, he let his seed fall downwards." This mantra became famous under the name Agnimāruta. In the Aitareya Brāhmaṇa, describing the efficacy of the Agnimāruta śastra, which is connected with Jātavedas and indicates the present sūkta,
+
 ---
 
-**Progress note:** Done through printed p. 286. pp. 281-
+**Progress note:** Done through printed p. 292. pp. 287-292 (batch API)

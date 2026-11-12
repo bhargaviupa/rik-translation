@@ -10,3 +10,4 @@
 - w0202: sūtra number printed split over a line break (೩- / -೧೮೫); the model had made it ೩-೧-೮೫; written ೩-೧೮೫ with a NOTE.
 - w0229: remark "[as printed]" removed from the English.
 - QA sample repairs (Nov 12 2026, English volume file): p. 132 "straight like fingers" → "curved like fingers" in the Gist and the Pratipadārtha (Kannada ಆಕುಟಿಲವಾದವೂ); p. 64 "the third verse of the Aindra triplet beginning 'vṛṣann indra'" → "this verse 'vṛṣann indra' is the third verse of the Aindra triplet" (Kannada: ಐಂದ್ರೇ ತೃಚೇ ತೃತೀಯಾ ವೃಷನ್ನಿಂದ್ರೇತ್ಯೇಷಾ); p. 156 the Kannada word ಮುಂದುವರಿದುದು written in Devanagari and a headword not on the page removed from the first grammar entry (the NOTE stays).
+- w0281: sūtra number printed ೬ ೪-೧೦೨ (hyphen missing), model wrote ೬-೪-೧೦೨: kept with a NOTE.
