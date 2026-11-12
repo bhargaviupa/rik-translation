@@ -11430,6 +11430,160 @@ it means house; and in
 
 he explains आदित्यस्य स्थाने नभसि । (*ādityasya sthāne nabhasi |*): since the sky is the spacious dwelling-place of the Sun, the word śaraṇa means sky.
 
+### Printed p. 468
+
+In the present ṛk, although Sāyaṇa cites the Nirukta in his commentary for the words toda and ari, he has nevertheless given a different meaning of his own.
+
+##### Grammar
+
+- दाश्वान् — दाश्य दाने इति धातुः । दाश्वान् साह्वान्‌मीढ्वांश्च (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतः निपातितः ।
+- वोचे — ब्रूञ् व्यक्तायां वाचि इति धातुः । छांदसो लुज् । उत्तमपुरुषैकवचने इट्प्रत्ययः । ब्रुवोवचिः (पा. सू. २-४-५३) इति धातोर्वच्यादेशः । अस्यतिवक्ति ख्यातिभ्योज् (पा. सू. ३-१-५२) इति च्चिस्य अजादेशः । वच उम् (पा. सू. ७-४-२०) इति धातोरज्‌परे उमागमः । मित्त्वादंत्याचः परः भवति । प्रत्यये इकारपरे गुणः । बहुलं छंदस्यमाज्‌योगेऽपि (पा.सू. ६-४-७५) इति अडागमो न भवति । अतिजंतस्य परत्वान्निघातस्वरः भवति ।
+- अरिः — ऋ गतौ इति धातुः । अचइः (उ. सू. ५७८) इति इप्रत्ययः । सार्वधातुकार्धधातुकयोः इति गुणः । रसवागि भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । **NOTE**
+- तोदस्य — तुद व्यथने इति धातुः । नंदिग्रहपचादिभ्यः (पा. सू. ३-१-१३४) इति अच्‌प्रत्ययः । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । चित्त्वादंतोदात्तस्वरः भवति । षष्ठ्येकवचनांतरूपम् ।
+- महस्य — मह पूजायां इति धातुः । पूर्ववदच्‌प्रत्ययः । अंतोदात्तस्वरः भवति । षष्ठ्यंतरूपम् ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य॑नि॒नस्य॑ ध॒निनः॑ प्रहो॒षे चि॒दर॑रुषः ।  
+> क॒दा च॒न प्र॒जिग॑तो॒ अदे॑वयोः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अनिनस्य । धनिनः । प्रहोषे । चित् । अररुषः ।  
+> कदा । चन । प्रजिगतः । अदेवयोः ॥ २ ॥
+
+### Printed p. 469
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे स्वाभीष्टं बहु विज्ञापयामित्युक्तं । अत्र तु स्वविलक्षणेभ्यो
+> दानादिरहितेभ्यो दानं न दातव्यमिति प्रार्थयते । हे अग्ने त्वां विशेषेण ब्रवीमि॥
+> उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । अथवा सन्निहितत्वाद्वोच इत्यनुषज्यते ॥ आस्मदर्थं यद्वजिज्ञपन् तद्विरुद्धं वोचे । वक्ष्यमाणस्वरूपस्य न दातव्यमिति ब्रवीमात्यर्थः । तेषां स्वरूपमाह । अनिनस्यास्वामिनस्तामस्वामिनं कुर्वाणस्य तथा
+> धनिनः समग्रदानवतः । पूर्वमेव धनवतो दानस्य निरर्थकत्वात्तन्निवार्यते । यद्वा।
+> यागाव्यनुपयोगिधनवत इत्यर्थः । किंच प्रहोषे प्रकर्षेण होतुमररुषोऽदवतो दक्षिणारूपेण । यद्वा । प्रहोषेनिनस्यॆति संबंधः । प्रकर्षेण होतुमसमर्थस्येत्यर्थः । अत्रेनशब्देन तत्स्थं सामर्थ्यं लक्ष्यते । चिच्छब्दः समुच्चयार्थः
+> किंच कदा चन प्रजिगतः कदाचिदपि प्रकर्षेण देवानस्तुवतः । आत्र चनेति निपातद्वयसमुदायः । तत्र चतशब्दः समुच्चये नशब्दो निषेधे । किंचादेवयोः । देवानात्मनोऽनिच्छतः । एतेषां न दातव्यमिति विवोच इत्यर्थः । निंदितानां स्वरूपनिरूपणेन स्वस्यातादृशत्वात् बहु वोच इत्येतद्युक्तमेवेत्युक्तं भवति । यद्वा ! चनेति
+> चिच्छब्दपर्यायः । उक्तप्रकारेण मष्टस्यापि कदाचित्पजिगतो यदाकदाचित्त्वां
+> स्तुवतो विवोचे । तादृशस्य दातव्यमिति विशेषेण ब्रवीमि । किमु वक्तव्यमस्मदर्थमिति भावः ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra he said that he would make known much of what he himself desires. Here he prays that a gift should not be given to those unlike himself, who are devoid of giving and the like. "O Agni, I address you specially"; because the preposition is heard, a suitable verb is to be supplied; or else वोचे (*voce*) is carried on, being near. What I say on our behalf is the contrary: "to those of the kind about to be described, nothing is to be given", is what I say. He states their nature. अनिनस्य (*aninasya*): of one who is not a lord, who makes you a non-lord; likewise धनिनः (*dhaninaḥ*): of one possessed of complete giving. Since a gift to one already wealthy is fruitless, it is forbidden; or else the meaning is one whose wealth is of no use for sacrifices and the like. Further, प्रहोषे (*prahoṣe*): of one who, in the form of dakṣiṇā, does not give, so as to offer excellently. Or else the connection is "prahoṣe aninasya", that is, of one unable to offer excellently; here the word ina denotes the ability that resides in him. The word चित् (*cit*) has the sense of "and". Further, कदा चन प्रजिगतः (*kadā cana prajigataḥ*): of one who does not at any time praise the gods excellently; here चन (*cana*) is a combination of two particles, ca having the sense of "and", na that of negation. Further अदेवयोः (*adevayoḥ*): of those who do not desire the gods for themselves. "To these nothing is to be given", this is what he has declared. By stating the nature of the censured, it is said that, since he himself is not of that kind, his saying much (in the previous mantra) is proper. Or else चन (*cana*) is a synonym of the word चित् (*cit*): even to one who has fallen into the aforementioned condition, if he sometimes praises you, I say specially that a gift is to be given; what then need be said for us — such is the idea. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै अग्निये (*èlai agniye*))—O Agni
+- अनिनस्य (*aninasya*)—of him who does not worship (you) as lord
+- प्रहोषे (*prahoṣe*)—for the sake of an excellent sacrifice
+- अररुषः (*araruṣaḥ*)—who does not give the dakṣiṇā wealth
+- धनिनः (*dhaninaḥ*)—to the wealthy man (and)
+- कदाचन (*kadācana*)—ever
+- प्रजिगतः (*prajigataḥ*)—to him who does not praise (you)
+- (this kind of) अदेवयोः (*adevayoḥ*)—to the two kinds of people devoid of devotion to the gods, also (do not bestow the riches of sons and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, there are two kinds of people devoid of devotion to the gods. The first is the group of wealthy men who neither worship you as lord nor give dakṣiṇā wealth for the sacrifice; besides, there is the group of unbelievers who never praise you. Do not bestow your favour on these two kinds of people.
+
+### Printed p. 470
+
+##### Printed English
+
+( I ask you also to withhold your favour ) from ( those ) two godless ( persons ), from the rich man, who, acknowledging you not as his lord, is chary of gifts at sacred rites, and from him who rarely praises (the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रहोषे (*prahoṣe*)—प्रकर्षण होतुं (*prakarṣaṇa hotuṃ*). It is explained as a sacrifice in which oblations are offered abundantly. Those who offer such oblations are called prahoṣins. In the ṛk
+असादु शिप्र्यंधसः सुदक्षस्य प्रहोषिणः । इंदोरिंद्रो यवाशिरः । (*asādu śipryaṃdhasaḥ sudakṣasya prahoṣiṇaḥ | iṃdoriṃdro yavāśiraḥ |*) (Ṛ. Saṃ. 8-9-4)
+the word prahoṣiṇaḥ, glossed प्रकर्षेण देवान् हविर्भिर्जुह्वतः सुदक्षस्य (*prakarṣeṇa devān havirbhirjuhvataḥ sudakṣasya*), is an epithet of Sudakṣa who offers oblations.
+
+अनिनस्य (*aninasya*)—Two kinds of meaning are given for this word. First, taking the word by itself: त्वां अस्वामिनं कुर्वतः (*tvāṃ asvāminaṃ kurvataḥ*), a man who does not accept you as lord. Second, joining the two words prahoṣe and aninasya, the word ina means the ability that a lord must have, and anina means one without such ability; the sense is explained as "of a man unable to offer oblations in the sacrifice".
+
+प्रजिगतः (*prajigataḥ*)—कदाचिदपि देवान् अस्तुवतः (*kadācidapi devān astuvataḥ*): the unbeliever who never praises the gods.
+
+अदेवयोः (*adevayoḥ*)—देवानात्मनोऽनिच्छतः (*devānātmano 'nicchataḥ*): the two kinds of unbelievers mentioned above, who lack the devotion and faith by which the favour of the gods is won.
+
+##### Grammar
+
+- वि — क्रियायोगे उपसर्गः प्रयुज्यते इत्यतः अत्र ब्रवीमि इति योग्यक्रियापदमध्याहर्तव्यम् । अथवा वोचे इत्यनुवृत्तं भवति ।
+- अनिनस्य — न विद्यते इनः स्वामी यस्य अनिनः । नञ् सुभ्याम् (पा. सू. ६-२-१७) इति उत्तरपदांतोदात्तस्वरः भवति । षष्ठ्येकवचनांतरूपम् ।
+- धनिनः — धनमस्य अस्ति इति धनी । तस्य । अत इनिरनौ इति मत्त्वर्थे इनिप्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+
+### Printed p. 471
+
+##### Grammar
+
+- प्रहोषे — हु दानादनयोः इति धातुः । तुमर्थे विवक्षिते तुमर्थे सेसेनसे (पा. सू. ३-४-९) इति से प्रत्ययः । प्रत्ययनिमित्तं धातोरिकः गुणः । आदेशप्रत्यययोः इति प्रत्ययसकारस्य षत्वम् । कृन्मेजंतः इति अव्ययसंज्ञा भवति । प्रत्ययस्वरेण अंतोदात्ते सति कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- आररुषः — ऋ गतौ इति धातुः । अर्तॆररुः (उ.सू. ४-५१९) इति अंतर्भावितण्यर्थकस्य अस्य धातोररुस् प्रत्ययः । तं निमित्तीकृत्य धातोर्गुणः । रपरत्वेन भवति । अररुस् शब्दः भवति । प्रत्ययस्वरे प्राप्ते वृषादीनांच (पा. सू. ६-१-२०३) इति आद्युदात्तस्वरः भवति । षष्ठ्येकवचनांतरूपम् ।
+- प्रजिगतः — गा स्तुतौ इति धातुः जुहोत्यादिः । अस्य लडर्थे शतृप्रत्ययः । श्लुविकरणः । श्लौ इति धातोर्द्वित्वम् । कुहोश्चुः (पा. सू. ७-४-६२) इति अभ्यासस्य कुत्वे प्राप्ते बहुलं छंदसि (पा. सू. ७-४-७८) इति इत्वम् । सार्वधातुकमपित् इति प्रत्ययस्य जित्त्वात् छंदस्युभयथा (पा सू. ३-४-११७) इति अर्धधातुकसंज्ञापि भवति इत्यतः आतोलोप इटच (पा सू. ६-४-७४) इति आकारस्य लोपः । जिगत् शब्दः भवति । अभ्यस्तानामादिः इति आद्युदात्तस्वरः भवति । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- अदेवयोः — देवमात्मनः इच्छति देवयति । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति इच्छायां गम्यमानायां क्यच् । क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतात् उप्रत्ययः । अतो लोपः (पा. सू ६-४-४८) इति क्यचोऽकारस्य लोपः । न देवयः अदेवयः तस्य । तत्पुरुषे तुल्यार्थ (पा. सू ९-२-२) इति नञ् पूर्वपदप्रकृतिस्वरः भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स चं॒द्रो वि॑प्र॒ मर्त्यो॑ म॒हो व्राध॑न्तमो दि॒वि ।  
+> प्रप्रेत्ते॑ अग्ने व॒नुषः॑ स्याम ॥ ३ ॥
+
+### Printed p. 472
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चंद्रः । विप्र । मर्त्यः।महः । व्राधन्तमः । दिवि ।  
+> प्रप्र । इत् । ते । अग्ने । वनुषः । स्याम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विप्र मेधाविन् यो मर्त्यस्त्वां यजते स मर्त्यो यजमानो
+> दिवि द्युलोके चंद्रः सर्वेषामाह्लादकश्चंद्रसदृशो भवति । यद्वा । चंद्र एव
+> भवति । यजमानानां चंद्रत्वप्राप्तिं छंदोगा आमनंति । पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा । छां. उ. ५-१०-४ । इति । सोमलोके विभूतिमनुभूयेति च । तथा मुंडकेऽपि द्युलोकप्राप्तिराम्नायते । एहैहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहंति तं नयंत्येताः सूर्यस्य
+> रश्मयो यत्र देवानां पतिरेकोऽधिवास इति । एष वः पुण्यः सुकृतो ब्रह्मलोक
+> इति च । मुं. उ- १-२-५,६ । पुनः स एव विशेष्यते । महो महतोऽपि प्राधंतमः
+> प्रवृद्धतमः । इतरदेवानामपि श्रेष्ठ इत्यर्थः । अतोऽग्नै ते तव प्रप्रेत् प्रकर्षेणैव वनुषः संभक्तारः स्याम । यद्वा । प्रीणयित्वा प्रप्रेत् स्याम । प्रकृष्टा एव
+> भवेम ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, wise one: the mortal who sacrifices to you, that mortal, the sacrificer, becomes in heaven, in the world of heaven, चंद्रः (*caṃdraḥ*), a delighter of all, like the moon; or else he becomes the moon itself." The Chāndogas teach that sacrificers attain moonhood: पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा (*pitṛlokādākāśamākāśāccaṃdramasameṣa somo rājā*) (Chā. U. 5-10-4), and also सोमलोके विभूतिमनुभूय (*somaloke vibhūtimanubhūya*). Likewise in the Muṇḍaka the attainment of heaven is taught: एहैहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहंति तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवास इति । (*ehaihīti tamāhutayaḥ suvarcasaḥ sūryasya raśmibhiryajamānaṃ vahaṃti taṃ nayaṃtyetāḥ sūryasya raśmayo yatra devānāṃ patireko 'dhivāsa iti |*), and एष वः पुण्यः सुकृतो ब्रह्मलोक इति (*eṣa vaḥ puṇyaḥ sukṛto brahmaloka iti*) (Muṃ. U. 1-2-5,6). **NOTE** Then the same man is further qualified: महः (*mahaḥ*), even of the great he is प्राधंतमः (*prādhaṃtamaḥ*), the most grown, that is, best even among the other gods. Therefore, O Agni, may we be प्रप्रेत् (*prapret*), in an excellent manner, your worshippers (वनुषः (*vanuṣaḥ*), those who serve). Or else: having pleased you, may we be प्रप्रेत् (*prapret*), that is, may we become excellent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise Agni
+- मर्त्यः (*martyaḥ*)—the human who (worships you with sacrifices and the like)
+- सः (*saḥ*)—that human
+- दिवि (*divi*)—in the world of heaven
+- चंद्रः (*caṃdraḥ*)—like the delightful moon, or becomes the moon itself
+- महः (*mahaḥ*)—than the gods who have attained pre-eminence
+- प्राधन्तमः (*prādhantamaḥ*)—becomes the most exalted, (therefore)
+- अग्ने (*agne*)—O Agni
+- प्रप्रेत् (*prapret*)—in the most excellent manner
+- ते (*te*)—your
+- वनुषः (*vanuṣaḥ*)—as worshippers
+- स्याम (*syāma*)—(grant) that we may be [or: प्रपेत् स्याम (*prapet syāma*)—(favour us) that, worshipping you, we may become most excellent]
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Agni, the human who worships you with sacrifices and the like attains in the world of heaven the place of the delightful moon, and becomes more exalted than the gods who have attained pre-eminence. Therefore, O Agni, grant that we too, worshipping you in the most excellent manner, may obtain an excellent place.
+
+### Printed p. 473
+
+##### Printed English
+
+Sage Agni, the mortal ( who propitiates you ) becomes a moon in heaven, the most eminent of the great (deities) : may we, therefore, ever be in an especial manner your worshippers.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्राधन्तमः (*prādhantamaḥ*)—प्राधन्निति महन्नाम (*prādhanniti mahannāma*). It is included among the names of "great". The meaning is one of exceeding greatness. This epithet is used for things worthy of praise, and also as a synonym for an enemy of abundant strength. For example, in
+इमे ये ते सु वायो बाह्वोजसोऽंतर्नदी ते पतयंत्युक्षणो महि व्राधंत उक्षणः । (*ime ye te su vāyo bāhvojaso 'ṃtarnadī te patayaṃtyukṣaṇo mahi vrādhaṃta ukṣaṇaḥ |*) (Ṛ. Saṃ. 1-135-9)
+the word व्राधन्तः (*vrādhantaḥ*) is an epithet of the horses of Vāyu, and महि व्राधन्तः (*mahi vrādhantaḥ*) is glossed अतिप्रभूतं वर्धमानाः (*atiprabhūtaṃ vardhamānāḥ*), giving the meaning "growing exceedingly abundantly". And in
+स व्राधतो नहुषो दंसुजूशः शर्धस्तरो नरां गूर्तश्रवाः । विसृष्टरातिर्याति वाळ्हसृत्वा विश्वासु पृत्सु सदमिच्छूरः ॥ (*sa vrādhato nahuṣo daṃsujūśaḥ śardhastaro narāṃ gūrtaśravāḥ | visṛṣṭarātiryāti vāḷhasṛtvā viśvāsu pṛtsu sadamicchūraḥ ‖*) (Ṛ. Saṃ. 1-122-) **NOTE**
+the word is a synonym for enemy, glossed हिंसकान् महतः अपि (*hiṃsakān mahataḥ api*): "even though the harming enemies are exceedingly powerful". Likewise in
+शत्रुयंतो अभि ये नस्ततस्रे महि प्राधंत ओगणास इंद्र ! अंधेनामित्रास्तमसा सचंतां सुज्योतिषो अक्तवस्ता अभि ष्युः ॥ (*śatruyaṃto abhi ye nastatasre mahi prādhaṃta ogaṇāsa iṃdra ! aṃdhenāmitrāstamasā sacaṃtāṃ sujyotiṣo aktavastā abhi ṣyuḥ ‖*) (Ṛ. Saṃ. 10-89-15)
+प्राधन्तः (*prādhantaḥ*) means "those who oppress us exceedingly". In the present ṛk the word प्राधन्तमः (*prādhantamaḥ*) is an epithet praising the greatness of the man who worships Agni: प्रवृद्धतमः (*pravṛddhatamaḥ*), इतरदेवानामपिश्रेष्ठः (*itaradevānāmapiśreṣṭhaḥ*); the meaning is that he becomes more exalted than the gods who have attained pre-eminence.
+
+चंद्रः (*caṃdraḥ*)—Two kinds of meaning are given for this word. First, one who worships Agni becomes सर्वेषां आह्लादकश्चंद्रसदृशो भवति (*sarveṣāṃ āhlādakaścaṃdrasadṛśo bhavati*): he becomes radiant like the radiance of the moon, which gives delight to all. This meaning follows the Nirukta's explanation. In the Nirukta—
+
 ---
 
-**Progress note:** Done through printed p. 467. pp. 462-467 (batch API)
+**Progress note:** Done through printed p. 473. pp. 468-473 (batch API)
