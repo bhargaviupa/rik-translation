@@ -7021,6 +7021,135 @@ Prajāpati became enamoured of his own daughter; the gods, regarding it as a sin
 (Ṛ. Saṃ. 10-61-2)
 is stated thus: "When the father embraced his own daughter to unite with her, he let his seed fall downwards." This mantra became famous under the name Agnimāruta. In the Aitareya Brāhmaṇa, describing the efficacy of the Agnimāruta śastra, which is connected with Jātavedas and indicates the present sūkta,
 
+### Printed p. 293
+जातवेदसे सुनवाम सोममिति जातवेदस्यां पुरस्तात्सूक्तस्य शंसति स्वस्त्ययनं वै जातवेदस्याः स्वस्ति ताय्कॆ । स्वस्त्ययनमेव तत्कुरुते स्वस्ति संवत्सरस्य पारमश्नुते य एवं वेद । (*jātavedase sunavāma somamiti jātavedasyāṃ purastātsūktasya śaṃsati svastyayanaṃ vai jātavedasyāḥ svasti tāykè | svastyayanameva tatkurute svasti saṃvatsarasya pāramaśnute ya evaṃ veda |*)
+प्र तव्यसीं नव्यसीं धीतिमग्नय इति जातवेदस्यं प्रेति प्रथमेऽहनि प्रथमस्याहो रूपं । समानमाग्निमारुतं भवति यच्चाग्निष्टोमे यद्वै यज्ञे समानं क्रियते तत्पजा अनु समनंति तस्मात्समानमाग्निमारुतं भवति । (*pra tavyasīṃ navyasīṃ dhītimagnaya iti jātavedasyaṃ preti prathame 'hani prathamasyāho rūpaṃ | samānamāgnimārutaṃ bhavati yaccāgniṣṭome yadvai yajñe samānaṃ kriyate tatpajā anu samanaṃti tasmātsamānamāgnimārutaṃ bhavati |*)
+
+The Āgnimāruta-śastra addressed to Jātavedas is auspicious and conducive to well-being, and so on. Therefore the greatness of the present sūkta is the greater.
+
+अपां नपात् (*apāṃ napāt*)—अद्भ्य ओषधयः, ओषधीभ्योऽग्निः (*adbhya oṣadhayaḥ, oṣadhībhyo 'gniḥ*): thus Agni is the grandson (naptṛ) of the waters. Since plants arise from the waters and Agni from plants, Agni is the grandson of the waters. Or, as Sāyaṇa explains, अपां न पातयिता वैद्युताग्निरूपेण प्रवर्षकत्वादिति भावः (*apāṃ na pātayitā vaidyutāgnirūpeṇa pravarṣakatvāditi bhāvaḥ*); having shown this derivation, he explains that the name belongs to the lightning-fire. The Nirukta-writers say that the explanation of Apāṃ Napāt is the same as that of Tanūnapāt.
+
+तनूनपादयं त्वेव नाम्ना यच्छत्यस् तनुं । नपादिति प्रजा माहुरमुतोऽस्य च संभवात् ॥ (*tanūnapādayaṃ tveva nāmnā yacchatyas tanuṃ | napāditi prajā māhuramuto 'sya ca saṃbhavāt ‖*)
+(Bṛ. De. 3-1)
+
+As is said in many places, the name Tanūnapāt became famous because he is born of himself and so is his own son; the same explanation applies to Apāṃnapāt. This matter is touched upon subtly in Ṛ. Saṃ. 1-122-4, in the tenth part of the Ṛgveda Saṃhitā. Now there is disagreement as to whether the deity Apāṃnapāt is different from Agni or merely a part of Agni. In the previous sūkta, discussing the Āprī deity Tanūnapāt, the Bṛhaddevatā and other works were cited as saying that this deity is a transformation of Agni, and it was shown that he is not a separate deity. From some further evidence in the Ṛksaṃhitā itself one may say that in the beginning he was regarded as a separate deity and afterwards, united with Agni, was regarded as a part of Agni. According to the Nirukta-writers, Apāṃnapāt and Tanūnapāt are one deity, so one kind of explanation shows the nature of both. If we examine the place of the deity Apāṃnapāt in the Ṛksaṃhitā, we find that in the sūktas addressed to the Viśvedevas Apāṃnapāt is invoked many times.
+
+### Printed p. 294
+प्र नः पूषा चरथं विश्वदेव्योऽपां नपादवतु वायुरिष्टये । आत्मानं वस्यो अभि वातमर्चत तदश्विना सुहवा यामनि श्रुतं ॥ (*pra naḥ pūṣā carathaṃ viśvadevyo 'pāṃ napādavatu vāyuriṣṭaye | ātmānaṃ vasyo abhi vātamarcata tadaśvinā suhavā yāmani śrutaṃ ‖*)
+(Ṛ. Saṃ. 10-92-13)
+
+In this Ṛk, along with the Viśvedevas, Pūṣan and then Apāṃnapāt are prayed to. In the 2nd Ṛk of this sūkta (10-92-2) Agni is praised as the promoter of the sacrifice. In the 13th Ṛk of the 75th sūkta of the 7th Maṇḍala, the deities Ajavikapāt, Ahirbudhnya, Samudra, Apāṃnapāt and Pṛśni are invoked together; Indra and Agni in the first Ṛk, and Agni alone in the fourth. In the 8th and 14th Ṛks of the preceding sūkta (7-34) Agni, and in the 15th Apāṃnapāt, are prayed to as protectors and friends. In the 14th Ṛk of the 52nd sūkta of the 6th Maṇḍala other deities are invoked with Apāṃnapāt; in the 6th and 12th Agni is prayed to. Likewise in the 31st sūkta of the 2nd Maṇḍala and the 50th sūkta of the 6th Maṇḍala, Agni and Apāṃnapāt are mentioned separately. In none of these Ṛks can their identity as one deity be asserted.
+
+The 35th sūkta of the 2nd Maṇḍala is addressed wholly to Apāṃnapāt. Only in the 15th Ṛk is Agni referred to; in the remaining Ṛks, to the end, Agni's name does not occur. Even so, only the 11th and 12th Ṛks could be interpreted as referring to Agni; but the description there too does not apply directly to Agni. Taking these examples, the scholar Bloomfield has given his opinion as follows.
+
+"While Agni became more and more conspicuous, Apam Napat seems to have waned in popularity, until he was so for forgotten that a confusion arose concerning the two uses of the expression (अपा (*apā*): नपात् (*napāt*))and Apam Napat, "the son of the waters" was swallowed up in Agni, a 'son of the waters as he was occasionally (twice in the Rik) called, since he too, because of his original lightning nature, was supposed to have been horn of the rain-clouds. To the same source is to be traced the myth of his hiding in the waters, for this myth probably had no connection originally with Apam Napat, beyond the mere fact that both he and Agni were forms of lightning which, appearing when the thunderstorm was at its height, seemed to disappear in the clouds from which they came.
+The conclusion seems to be warranted, therefore, that Agni and Apam Napat were once distinct Gods—Gods, of the lightning, who were, however, associated with each other and
+
+### Printed p. 295
+were much alike in certain particulars, and that this association, and resemblance ultimately resulted, possibly at the close of the Vedic Period, in a confusion and Union of the two, as a result of which Apam Napat was absorbed by Agni."
+( Journal of American Orintal Society. Vol. XIX. (2) p. 144. )
+
+तव्यसीं (*tavyasīṃ*)—तवीयसीं अतिशयेन वर्धयित्रीं । तवतिर्वृद्ध्यर्थः । (*tavīyasīṃ atiśayena vardhayitrīṃ | tavatirvṛddhyarthaḥ |*) It means either "giver of vigour" or "causing growth", and is an adjective of धीतिं (*dhītiṃ*), "thought" (matim).
+
+स शेवृधमधि धा द्युम्न मस्मे महि क्षत्रं जनाषाळिंद्र तव्यं । रक्षा च नो मघोनः पाहि सूरीन्राये च नः स्वपत्या इषे धाः ॥ (*sa śevṛdhamadhi dhā dyumna masme mahi kṣatraṃ janāṣāḷiṃdra tavyaṃ | rakṣā ca no maghonaḥ pāhi sūrīnrāye ca naḥ svapatyā iṣe dhāḥ ‖*)
+(Ṛ. Saṃ. 1-54-11)
+
+In this Ṛk, तव्यं क्षत्रं (*tavyaṃ kṣatraṃ*) is प्रवृद्दं बलं (*pravṛddaṃ balaṃ*); it suggests the two meanings "greatly grown" and "endowed with power".
+
+धीतिं (*dhītiṃ*)—यागक्षलणां उक्तगुणकं कर्म । (*yāgakṣalaṇāṃ uktaguṇakaṃ karma |*) Here it means the rite of the kind mentioned, of the nature of a sacrifice. The word dhīti has two meanings, "rite" and "wisdom". [In the Nirukta (Ni. 3-8) it is read among the names of the fingers.] The Nirukta-writers have cited two Ṛks in which the two meanings, rite and wisdom, occur:
+
+इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः । सारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवसेम धीतिभिः ॥ (*iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ | sārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivasema dhītibhiḥ ‖*)
+( Ṛ. Saṃ. 6-61-2 )
+
+In this verse they explain धीतिभिः (*dhītibhiḥ*) as कर्मभिः (*karmabhiḥ*) (by rites), and in
+
+ऋतस्य हि शुरुधः संति पूर्वीऋतस्य धीतिर्वृजिनानि हंति । ऋतस्य श्लोको बधिरा ततर्द कर्णा बुधानः शुचमान आयोः । (*ṛtasya hi śurudhaḥ saṃti pūrvīṛtasya dhītirvṛjināni haṃti | ṛtasya śloko badhirā tatarda karṇā budhānaḥ śucamāna āyoḥ |*)
+( Ṛ. Saṃ. 4-23-8 **NOTE** )**NOTE**
+
+as "wisdom". In some places the word is also used in the sense of "praise". In the present Ṛk it means the rite in the form of sacrifice.
+
+##### Grammar
+
+- तव्यसीम्— सूत्रमात्रनिर्दिष्टः तनधातुः वृद्ध्यर्थे प्रयुक्तः । तस्मात् ण्वुल् तृचौ (पा. सू. ३-१-१३३) इति तृच् प्रत्ययः । तुश्चंदसि (पा. सू. ५-३-५९) इति तृजंतात् ईयसुन् प्रत्ययः । तुरिष्ठेमेयस्सु (पा. सू. ६-४-१५४) इति ईयसुनि परे तृचो लोपः । यस्येति च इति अकारस्य लोपः । छांदसत्वात् प्रत्ययस्य ईकारस्य लोपः । ईयसुन् नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ।
+
+### Printed p. 296
+- नव्यसीम्— अतिशयार्थे ईयसुनि आगते पूर्ववत् अकारलोपः । पूर्ववत् स्वरो भवति ।
+- मतिम्— मंत्रे वृषेष— (पा. सू. ३-३-६६) इति क्तिन् उदात्तो भवति । द्वितीया एकवचनांतरूपम् ।
+- भरे— भृञ् भरणे धातुः । लट् उत्तमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- अपाम्— ऊडिदं पदादि— (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- नपात्— पा रक्षणे धातुः । तस्मात् शतृ आगते पात् इति रूपं भवति । तस्य नञ् सह समासे नभ्राण् नपात्— (पा. सू. ६-३-७५) इति नलोपाभावेन निपातितम् ।
+- पृथिव्याम्— पृथिवीशब्दः जीषंतत्वात् अंतोदात्तः । विभक्तौ परायां तस्य यणादेशे जाते तत्परस्य विभक्तेरनुदात्तत्वात् उदात्तयणो— (पा. सू. ६-१-१७४) इति तस्य उदात्तस्वरो भवति ।
+- असीदत्— षद्ल्य विशरणगत्यवसादनेषु धातुः । छंदसि लुज् लज् लिटः— (पा. सू. ३-४-६) इति वर्तमानार्थे लज् भवति । प्रथमपुरुष एकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । शप् विकरणः । पाफ्राध्मा— (पा. सू. ७-३-६८) इति धातोः सीदादेशः । यः इति यच्छब्दसंबंधात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तो भवति ।
+- ऋत्वियः— ऋतुशब्दः । यज्ञर्त्वग्भ्यांघखञ् (पा. सू. ५-१-७१) इति घ प्रत्ययः । आयनेया— (पा. सू. ७-१-२) इति तस्य इयादेशः । यणादेशः । प्रत्ययस्य आद्युदात्तस्वरेण इकार उदात्तो भवति । ॥ १ ॥
+
+### Printed p. 297
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जाय॑मानः पर॒मे व्यो॑मन्या॒विर॒ग्निर॑भवन्मात॒रिश्व॑ने ।  
+> अ॒स्य क्रत्वा॑ समिधा॒नस्य॑ म॒ज्मना॒ प्र द्यावा॑ शो॒चिः पृ॑थि॒वी  ॑
+> अरोचयत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । जायमानः । परमे । विओमनि । आविः । अग्निः । अभवत् । मातरिश्वने ।  
+> अस्य । क्रत्वा । संइधानस्य । मज्मना । प्र । द्यावा । शोचिः । पृथिवी इति ।  
+> अरोचयत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पूर्वोक्तोग्निर्जायमानोऽरणीभ्यामुत्पद्यमानः काष्ठेषु ना प्रादुर्भूतः सन् तदानीमेव परम उत्कृष्टे प्रोमनि विविधरक्षणवति वेदिदेशे मातरिश्वनेऽंतरिक्षसंचारिणे नाय्वे प्रथममाविरभवत् । प्रत्यक्षोऽभूत् । त्वमग्ने
+> प्रथमो मातरिश्वन आविर्भव । ऋ. १-३१-३। इत्यादिश्रुत्यंतरप्रसिद्धेः । वायुसंयोगात्पज्वलित इत्यर्थः । अथवा मातरि फलस्य निर्मातरि यज्ञॆ श्वसिति चेष्टत इति मातरिश्वा यजमानः । तदर्थं । किंच समिधानस्येंधनैः सम्यग्दर्धमानस्याग्नेर्मज्जना ।
+> बलनामैतत् । बलवता क्रत्वा क्रतुना कर्मणा ज्वालनादिव्यापारेण शोचिद्यावा
+> पृथिवी द्यां च पृथिवीं च प्रारोचयत् । प्रकर्षणादीपयत् ॥ मध्यॆ शोचिःशब्दश्चांदसः ॥ मज्मना क्रत्वा समिधानस्येति वा योज्यं । प्रबलेन समिंधनादिव्यापारेण समिध्यमानस्येत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Agni spoken of before, being born—arising from the two fire-sticks—and having appeared in the pieces of wood, at that very moment first manifested himself in the supreme, excellent व्योमनि (*vyomani*) (the place of varied protection, i.e. the altar), to मातरिश्वने (*mātariśvane*), the wind moving in the atmosphere. He became visible; this is known from another śruti, त्वमग्ने प्रथमो मातरिश्वन आविर्भव (*tvamagne prathamo mātariśvana āvirbhava*) (Ṛ. 1-31-3). The meaning: through contact with the wind he blazed up. Or else: Mātariśvan is the sacrificer, who breathes (śvasiti), i.e. exerts himself, in the sacrifice, the maker (nirmātṛ) of its fruit; for his sake. Further, by the मज्मना (*majmanā*) (a word for strength) of Agni, well kindled with fuel, by powerful क्रत्वा (*kratvā*), that is, by action, by the work of blazing and the like, the radiance lit up heaven and earth, brightening them intensely. The word शोचिः (*śociḥ*) in the middle is Vedic usage. Or construe मज्मना क्रत्वा समिधानस्य (*majmanā kratvā samidhānasya*): of him kindled by powerful action of kindling and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the one described before
+- अग्निः (*agniḥ*)—Agni
+- जायमानः (*jāyamānaḥ*)—as soon as born
+- परमे (*parame*)—in the excellent
+- व्योमनि (*vyomani*)—in the atmosphere
+- मातरिश्वने (*mātariśvane*)—facing the wind
+- आविः अभवत् (*āviḥ abhavat*)—became visible. [Or व्योमनि (*vyomani*)—on the altar; मातरिश्वने (*mātariśvane*)—facing the sacrificer; आविः अभवत् (*āviḥ abhavat*)—became visible.] (And)
+- मज्मना (*majmanā*)—powerful
+- क्रत्वा (*kratvā*)—by the action of blazing and the like
+- समिधानस्य अस्य (*samidhānasya asya*)—of this Agni kindled by fuel
+- क्रत्वा (*kratvā*)—by the action of blazing and the like
+- द्यावा (*dyāvā*)—heaven
+- पृथिवी (*pṛthivī*)—and earth
+- प्र अरोचयत् (*pra arocayat*)—lit up
+
+### Printed p. 298
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Agni was born, he became visible in the excellent atmosphere, facing the wind. The radiance of Agni, kindled with fuel, lit up heaven and earth by the powerful actions of blazing and the like.
+
+##### Printed English
+
+As soon as born, was that (Agni) manifested to Matarishwan in the highest atmosphere, and his radiance, kindled by vigorous effort, spread through heaven and earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that Agni, as soon as born, appeared in the sky to Mātariśvan, and that afterwards the radiance of him, blazing, lit up heaven and earth. Two constructions of the first half are possible here. First: व्योमनि (*vyomani*)—in the atmosphere, मातरिश्वने (*mātariśvane*)—before Mātariśvan, आविरभवत् (*āvirabhavat*). Second: व्योमनि (*vyomani*)—on the sacrificial altar, मातरिश्वने (*mātariśvane*)—facing the sacrificer, आविरभवत् (*āvirabhavat*).
+(1) That Agni appeared in the sky to Mātariśvan is well known. The word व्योम (*vyoma*) is read among the names of the atmosphere (Ni. 2-10). It is formed from the root व्येञ् (*vyeñ*), meaning to pervade, to cover; the sense is the pervading atmosphere.
+
+त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुक्रतू या विवस्वते । अरेजेतां रोदसी होतृपूर्येऽसघ्नोर्भारमयजो महो वसो ॥ (*tvamagne prathamo mātariśvana āvirbhava sukratū yā vivasvate | arejetāṃ rodasī hotṛpūrye 'saghnorbhāramayajo maho vaso ‖*)
+(Ṛ. Saṃ. 1-31-3)
+
+In Ṛks of this kind it is well known that the manifestation of Agni, in the form of lightning, took place first to the wind. Moreover,
+
+वह्निं यशसं विदथस्य केतुं सप्राव्यं दूतं सद्योअर्थं । द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा ॥ (*vahniṃ yaśasaṃ vidathasya ketuṃ saprāvyaṃ dūtaṃ sadyoarthaṃ | dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhṛgave mātariśvā ‖*)
+(Ṛ. Saṃ. 1-60-1)
+
+In Ṛks of this kind, Mātariśvan, for the benefit of Bhṛgu and Manu, the performers of sacrifice, brought to the earth Agni who had been hidden in a distant region, and to the earth for the benefit of all creatures
+
 ---
 
-**Progress note:** Done through printed p. 292. pp. 287-292 (batch API)
+**Progress note:** Done through printed p. 298. pp. 293-298 (batch API)
