@@ -12720,6 +12720,151 @@ On the whole, the form of Mitra and Varuṇa is full of splendour. Their creatio
 - विश्व — विश्व+ऋतेन इति स्थिते ऋत्यकः (पा. सू. ६-१-१२८) इति प्रकृतिभावः भवति । छांदसत्वात् ह्रस्वः भवति ।
 - मित्रावरुणा — देवताद्वंद्वेच (पा. सू. ६-३-२६) इति द्वंद्वे आनजादेशः । द्विवचनस्य सुपां सुलुक् इति आकारादेशः । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
 
+### Printed p. 520
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तच्च॒न त्वो॒ वि चि॑केतदेषां स॒त्यो मंत्रः॑ कविश॒स्त ऋघा॑वान् ।  
+> त्रि॒रत्रिं॑ हंति॒ चतु॑रत्रिरु॒ग्रो दे॑व॒निदो॒ ह प्र॑थ॒मा अ॑जूर्यन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतत् । चिन । त्वः । वि । चिकेतत् । एषां । सत्यः । मंत्रः । कविशस्त्रः । ऋघावान् ।  
+> त्रिः 5 अश्रिं । हंति । चतुः 5 अश्रिः । उग्रः । देव 5 निदः । ह । प्रथमाः । अजूर्यन् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामेतयोर्मध्यॆ ॥ बहुवचनं पूजार्थं । यद्वा । तदनुचरापेक्षया
+> बहुवचनं ॥ एतयोर्मध्यॆ त्वश्चनैक एवैतद्वक्ष्यमाणं सामर्थ्यरूपं कर्म वि चिकेतत् । विशेषेण चेतति । अनुतिष्ठतीत्यर्थः । स विशेष्यते । स एकः सत्योऽबाध्यः
+> सत्तु भवो वा मंत्रो मननवान् कविशस्तः कविभिर्मेधाविभिः शंसनीय ऋघावान्
+> हिंसावान् । अनेन वक्ष्यमाणस्य सामर्थ्यस्य संभाविता प्रतिपादिताभवदित्युक्तं । किं
+> तदित्याशंक्याह। त्रिरश्रिं । अशित्रयोपेतमायुधं त्रिरश्रि। तद्वंतं॥ मत्त्वर्थो लुप्यते ।
+> उपलक्षणमेतत् सर्वायुधसंपन्नमित्यर्थः । एतन्नामानं वा । चतुरश्रिस्ततोS
+> प्यधिकायुधवान् । न केवलमायुधसामर्थ्य० किंतूग्रः स्वयमुद्दूर्णबलो
+> हंति । हिनस्त्यतिबलं शत्रुं । किंच युवयोरेकस्यैव सामर्थ्येन देवनिदो ह
+> देवनिंदकास्तु प्रथमाः समर्थाः संतोऽप्यजूर्यन् । स्वयमेव जीर्णा भवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the plural in एषां (*eṣāṃ*) is either honorific, or is used with regard to their followers. Of these two, one alone carries out the action about to be described, a work of power; वि चिकेतत् (*vi ciketat*) means he performs it with particular care. That one is described: he is true (unobstructed, or born among the good), thoughtful, praised by the wise poets, and harmful (to foes). By this, the possibility of the power to be described is established. What is it? त्रिरश्रिं (*triraśriṃ*) is a weapon with three edges, and the one who has it (the affix meaning "possessing" is dropped); this is an indication, meaning he is furnished with all weapons, or it is the name of a foe. चतुरश्रिः (*caturaśriḥ*) means one with still more weapons. Not only by weapons, but being fierce and of surging strength, he slays the foe of great strength. Further, by the power of just one of you, the revilers of the gods, though mighty at first, wear themselves out.
+
+### Printed p. 521
+
+> जीर्यतेः श्यनि बहुलं छंदसीत्युत्वं ॥ युवयोर्मध्य एकोऽपि महाबलः ।
+> मिलितयोस्तु सामर्थ्ये किमु वक्तव्यमिति भावः । अथवा ।एषां युवयोरेतदुत्तरत्र वक्ष्यमाणं सामर्थ्यमेकः सत्यादिलक्षणो वि चिकेतत् । विशेषेण जानाति । शेषं
+> पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+अजूर्यन् (*ajūryan*) is from the root जीर्यतेः (*jīryateḥ*), with the substitution of u by "bahulaṃ chandasi". Even one of you two is of great strength; what then need be said when the two are united? Alternatively: of you two, the one marked by truth and the like knows, that is, understands especially, the power to be mentioned afterwards. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—among these Mitra and Varuṇa (or in the company of their devotees)
+- सत्यः (*satyaḥ*)—of the nature of truth (or following the path of truth, or belonging to the company of good men)
+- मंत्रः (*maṃtraḥ*)—given to reflection
+- कविशस्तः (*kaviśastaḥ*)—praised by the wise
+- ऋघावान् (*ṛghāvān*)—one who harms (enemies)
+- त्वः चन (*tvaḥ cana*)—just one
+- एतत् (*etat*)—this action endowed with power
+- विचिकेतत् (*viciketat*)—performs in a special manner
+- त्रिरश्रिं (*triraśriṃ*)—even if furnished with all weapons (or: the foe called Triraśri)
+- चतुरश्रिः (*caturaśriḥ*)—having still more weapons than that
+- उग्रः (*ugraḥ*)—also terrible
+- हंति (*haṃti*)—kills
+- देवनिदो ह (*devanido ha*)—as for the revilers of the gods
+- प्रथमाः (*prathamāḥ*)—though able at the beginning
+- अजूर्यन् (*ajūryan*)—(in the end of their own accord) decay
+
+##### भावार्थ (Bhāvārtha)
+
+Among these Mitra and Varuṇa, the one who is of the nature of truth, thoughtful, praised by the wise, and harmful to enemies carries out this action, endowed with power, in a special manner. For example, even if the enemy is furnished with all weapons, he, with still more weapons and terrible, kills the enemy. All the revilers of the gods, though able at the beginning, by his influence decay of their own accord at the end.
+
+##### Printed English
+
+He amongst those (who are your followers), who observes truth, who is considerate, who is commended by the wise, who is able to (inflict) harm carefully weighs (the means whereby), fierce and well-armed, he slays (a fce) less efficiently accoutred, and (by which) the revilers of the gods, however mighty, may perish.
+
+##### विशेषविषयगळु (Special Topics)
+
+सत्यः (*satyaḥ*)—अबाध्यः सत्सु भवो ना (*abādhyaḥ satsu bhavo nā*). The purport of this word is explained as one beyond obstruction, or one who is among good men. To be beyond obstruction, he must not be of untrue nature, but of the nature of truth and following the path of truth. The word satya is used throughout the Ṛksaṃhitā with the sense of a superior, moral worthiness and power. The acts performed by those of such worthiness are also of the nature of truth. Expressing this very sense, the Nirukta author has also given an etymology of the word satya.
+
+सत्यं कस्मात् सत्सु कायते सत्पभवं भवतीति ना । (*satyaṃ kasmāt satsu kāyate satpabhavaṃ bhavatīti nā |*) (Ni. 3-13)
+
+It spreads among the good, or arises among the good; therefore it is called satya, the Nirukta author explains. According to this etymology, since even the fruit of the nature of truth must come to the good alone, the idea that the good fruit is suited to the true action of the virtuous is suggested by the description in this Ṛk. A difference is shown here between the devotee of God, who follows the path of truth, and the reviler of God, who follows the path of untruth: however great the reviler's power at the beginning, it decays of itself at the end, while the devotee's powers grow, and that growth is the fruit of his true life. Since the word satya is thus used here both of action and of fruit, it has to be explained what universal principle this idea reflects in both these situations.
+
+ते देवा उत्सृज्यान्यतं । सत्यमन्नालेभिरे । (*te devā utsṛjyānyataṃ | satyamannālebhire |*) (Śa. Brā. 9-5-1-13)
+
+तद्यत्तत्सत्यं । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तनवामहा इति । (*tadyattatsatyaṃ | trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tanavāmahā iti |*) (Śa. Brā. 9-5-1-18)
+
+The gods gave up untruth and firmly took hold of truth. Since the Vedas called the Trayī are themselves of the nature of truth, the gods wished, by performing the actions enjoined by the Veda, to extend truth [Kannada: दरदोण (*daradoṇa*)]**NOTE**. Thus the passages show the essential connection between truth and conduct, and also express the wish that by such pure actions one may obtain a complete good fortune endowed with every prosperity.
+
+### Printed p. 522
+नाभिर्यतस्य सप्रथा इति । सत्यं ना ऋतं ना ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह । (*nābhiryatasya saprathā iti | satyaṃ nā ṛtaṃ nā ṛtaṃ satyasya nābhiḥ saprathā ityevaitadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityevaitadāha |*) (Śa. Brā. 15-3-1-18)
+
+By such explanations the identity of truth with the order of the universe is shown, and the cause-and-effect relation between good fruit and good action is made known: by following such truth and practising true actions, a full life span is obtained as fruit.
+
+### Printed p. 523
+Since even for conduct of the nature of truth it is quite necessary to know the universal order and the nature of the gods who are its cause, it is also made clear in many contexts that this knowledge too is possible only through truth.
+
+सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् । सत्यं तदिंद्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियंतं । (*sakhā ha yatra sakhibhirnavagvairabhijñvā satvabhirgā anugman | satyaṃ tadiṃdro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyaṃtaṃ |*) (Ṛ. Saṃ. 3-39-5)
+
+स इद्देवानां सधमाद आसन्नृतावानः कवयः पूर्व्यासः । गूळ्ह ज्योतिः पितरो अन्वविंदन्त्सत्यमंत्रा अजयन्नुषासं ॥ (*sa iddevānāṃ sadhamāda āsannṛtāvānaḥ kavayaḥ pūrvyāsaḥ | gūḷha jyotiḥ pitaro anvaviṃdantsatyamaṃtrā ajayannuṣāsaṃ ‖*) (Ṛ. Saṃ. 7-76-4)
+
+In such Ṛks the seers all knew the nature of the gods, who are of the nature of truth, and obtained wealth as the fruit of performing actions; there are many sentences pointing to such earlier occasions, and along with them is the prayer that through truth good may come to us.
+
+अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमाशुषाणाः । शुचीदयन्वीधितिमुक्थशासः क्षमा भिंदंतो अरुणीरप व्रन् ॥ (*adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtamāśuṣāṇāḥ | śucīdayanvīdhitimukthaśāsaḥ kṣamā bhiṃdaṃto aruṇīrapa vran ‖*) (Ṛ. Saṃ. 4-2-16)
+
+As our fathers obtained good fruits through sacrifice of the nature of truth, so now too may all our actions yield true fruits तत्सत्यमस्तु (*tatsatyamastu*); in such prayers the true nature of the gods Agni and others, whose law is truth, is described.
+
+अजो न क्षां दाधार पृथिवीं तस्तंभ द्यां मंत्रेभिः सत्यैः । (*ajo na kṣāṃ dādhāra pṛthivīṃ tastaṃbha dyāṃ maṃtrebhiḥ satyaiḥ |*) (Ṛ. Saṃ. 1-67-3)
+
+कविमग्निमुपस्तुहि सत्यधर्माणमध्वरे । देवममीवचातनं । (*kavimagnimupastuhi satyadharmāṇamadhvare | devamamīvacātanaṃ |*) (Ṛ. Saṃ. 1-12-7)
+
+देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा । पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥ (*devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupraśasto amatirna satya ātmeva śevo didhiṣāyyo bhūt ‖*) (Ṛ. Saṃ. 1-23-2)
+
+In many such places it is stated that Agni and the other gods upheld the worlds, earth and the rest, and carried out the protection of the world through truth alone, and that men too must follow that same path of truth.
+
+### Printed p. 524
+If this path is followed, त्वः चन एतत् वि चिकेतत् (*tvaḥ cana etat vi ciketat*): without needing the help of others, one man alone, endowed with every power, attains victory. Such is the assurance in the present Ṛk.
+
+ऋघावान् (*ṛghāvān*)—The word ṛghā has in Monier Williams' Dictionary the meaning "violence, passion". The purport may be an intense power. The word ऋघावान् (*ṛghāvān*) occurs not only in this Ṛk but also in
+
+इंद्रः सुशिप्रो मघना तरुत्रो महाव्रातस्तुविकूर्मिर्युघावान् । यदुग्रो धा बाधितो मर्त्येषु क्वं त्या ते वृषभ वीर्याणि ॥ (*iṃdraḥ suśipro maghanā tarutro mahāvrātastuvikūrmiryughāvān | yadugro dhā bādhito martyeṣu kvaṃ tyā te vṛṣabha vīryāṇi ‖*) (Ṛ. Saṃ. 3-30-3)
+
+where too, as in the present Ṛk, Sāyaṇa explains it as हिंसावान् (*hiṃsāvān*), one who has obtained the power to harm enemies. The purport may lie in the power to do harm.
+
+त्वः (*tvaḥ*)—The Nirukta author says: त्व इति विनिग्रहार्थीयं सर्वनामानुदात्तं अर्थनामेत्येके । (*tva iti vinigrahārthīyaṃ sarvanāmānudāttaṃ arthanāmetyeke |*) (Ni. 1-7), and, quoting the Ṛk
+
+ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु । ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिमीत उ त्वः ॥ (*ṛcāṃ tvaḥ poṣamāste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu | brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mimīta u tvaḥ ‖*) (Ṛ. Saṃ. 10-71-11)
+
+he gives the word त्वः (*tvaḥ*) the meaning एकः (*ekaḥ*). Besides, अथापि समुच्चयार्थे भवति (*athāpi samuccayārthe bhavati*): the Nirukta author states that the word is also used in the sense of conjunction (Ni. 1-9).
+
+त्रिरश्रिं (*triraśriṃ*)—Sāyaṇa gives one sense, a foe having three edges, or else a foe named Triraśri. No basis was found for this word being a proper name of a person.
+
+देवनिदः (*devanidaḥ*)—The Nirukta author, in explaining the Ṛk
+
+स्वयं सो अस्मदा निदो वधैरजेत मर्मतिं । अव स्रवेदघशंसोऽवतरमव क्षुद्रमिव स्रवेत् ॥ (*svayaṃ so asmadā nido vadhairajeta marmatiṃ | ava sravedaghaśaṃso 'vataramava kṣudramiva sravet ‖*) (Ṛ. Saṃ. 1-129-6)
+
+### Printed p. 525
+explains the word निदः (*nidaḥ*) as निंदितारं (*niṃditāraṃ*), those who revile. It is derived from the root णिद् (*ṇid*), in the sense of contempt. In the present Ṛk देवनिदः (*devanidaḥ*) means those who revile the gods.
+
+अजूर्यन् (*ajūryan*)—स्वयमेव जीर्णा भवंति । (*svayameva jīrṇā bhavaṃti |*) They decay by themselves.
+
+##### Grammar
+
+- चिकेतत्—कित ज्ञाने धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः प (पा. सू. ३-५-९७) इति इकारलोपः । लेटोडाट् (पा सू. ३-४-९४) इति सूत्रेण तस्य अडागमः । श्लु विकरणः । धातोः द्वित्वादि । लघूपधगुणः । तिजंतनिघातस्वरः भवति ।
+- एषाम्—पूजार्थे बहुवचनम् आगतम् । अथवा अनुचरान् निमित्तीकृत्य बहुवचनम् आगतम् ।
+- सत्यः—सत्सु भवः सत्यः । भवेछंदसि (पा. सू. ४-४-११०) इति य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- कविशस्तः—शंसु स्तुतौ धातुः । क्त प्रत्ययः । अनिदितां हल इति उपधानकारलोपः । कविभिः शस्तः कविशस्तः । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- ऋघावान्—न्यन् हंतीति ऋघा । ऋघा अस्य अस्ति इति ऋघावान् । मतुप् प्रत्ययः । **NOTE**
+- त्रिरश्रिम्—त्रयः आश्रयः यस्य तत् त्रिरशि । तदस्य आस्ति इति त्रिरशिः । छांदसत्वेन मत्वर्थप्रत्ययस्य लोपः आगतः ।
+- हंति—हन हिंसागत्योः धातुः । अदादिः । लट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- उग्रः—उच समवाये धातुः । ऋज्रेंद्र- (उ. सू. २-१८६) इति रन्नंतत्वेन निपातितः । चकारस्य गकारः तेनैव सिद्धः । व्यत्ययेन अंतोदात्तः भवति ।
+- देवनिदः—देवान् निंदंति इति देवनिदः । णिदि कुत्सायां धातुः । क्विप् च इति क्विप् प्रत्ययः । आगमानुशासनमनित्यम् इति वचनेन नुमागमः न भवति । कृदुत्तरपदप्रकृतिस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+- अजूर्यन्—ज्यष् वयोहानौ धातुः । छांदसत्वेन लज् । प्रथमपुरुषबहुवचने झि प्रत्ययः । अंत्यलोपः । दिवादिभ्यः श्यन् (पा. सू. ३-१-६९) इति श्यन् विकरणः । बहुलं छंदसि इति धातोः उत्वम् । र परत्वेन आगच्छति । हलि च इति दीर्घः । अंगस्य अडागमः । तिजंतनिघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 519. pp. 513-519 (batch API)
+**Progress note:** Done through printed p. 525. pp. 520-525 (batch API)
