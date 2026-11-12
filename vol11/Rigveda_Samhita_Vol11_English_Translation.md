@@ -13841,6 +13841,132 @@ Derived from the root raṃj, "to shine", the word rajas means light, water, and
 त्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा । तेन मेधातिथिः प्राह विष्णुमेनं त्रिविक्रमं ॥ (*trīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā | tena medhātithiḥ prāha viṣṇumenaṃ trivikramaṃ ‖*) (Bṛ. De. 2-24)
 As the three worlds shine by Viṣṇu's three steps, so in the present Ṛk too it is natural that rajas means world.
 
+### Printed p. 569
+*(Special Topics of Ṛk 1, continued)*
+
+त्रेधा विचक्रमाणः (*tredhā vicakramāṇaḥ*)—स्वसृष्टान् लोकान् विविधं क्रममाणः (*svasṛṣṭān lokān vividhaṃ kramamāṇaḥ*): moving in various ways through the worlds he himself created. As described in Ṛks such as इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदं । समूळ्हमस्य पांसुरे ॥ (*idaṃ viṣṇurvicakrame tredhā ni dadhe padaṃ | samūḷhamasya pāṃsure ‖*) (Ṛ. Saṃ. 1-22-17), त्रिभिः प्रकारैः पादं प्रक्षिप्तवान् (*tribhiḥ prakāraiḥ pādaṃ prakṣiptavān*). Sāyaṇa explains the sense as: he strode, or pervaded, placing his feet in three ways. This point will be explained in detail in the Special Topics of the next Ṛk.
+
+उरुगायः (*urugāyaḥ*)—उरुभिः महद्भिः गीयमानः (*urubhiḥ mahadbhiḥ gīyamānaḥ*): one praised by great souls. This is one meaning. Taking उरु (*uru*) to mean "abundant", he gives another: अतिप्रभूतं गीयमनो ना (*atiprabhūtaṃ gīyamano nā*), one praised exceedingly and abundantly. Thus he has explained it in two ways.
+
+उत्तरं (*uttaraṃ*)—उत्तर उद्धततरो भवति । उद्धततरोऽसौ उपरिष्ठादवस्थानात् (*uttara uddhatataro bhavati | uddhatataro 'sau upariṣṭhādavasthānāt*). The author of the Nirukta has explained it as "that which is exceedingly high" (Ni. 2-11). And, quoting the Ṛk आर्ष्टिषेणो होत्रमृषिर्निषीदन् देवापिर्देवसुमतिं चिकित्वान् । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि (*ārṣṭiṣeṇo hotramṛṣirniṣīdan devāpirdevasumatiṃ cikitvān | sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi*) (Ṛ. Saṃ. 10-98-5), in order to show that the word समुद्र (*samudra*) means the atmosphere (antarikṣa) here, he makes two divisions, the upper sea and the lower sea, and shows that the word उत्तर (*uttara*) means उपरिवर्तमानात् (*uparivartamānāt*), "situated in the upper part". In the present Ṛk also उद्दततरं (*uddatataraṃ*) means that which extends toward the upper region, and is an adjective of the word सधस्थं (*sadhasthaṃ*); or it may mean अतिविस्तीर्णं (*ativistīrṇaṃ*), that which extends very widely.
+
+सधस्थं (*sadhasthaṃ*)—सहस्थानं लोकत्रयाश्रयभूतमंतरिक्षं (*sahasthānaṃ lokatrayāśrayabhūtamaṃtarikṣaṃ*). The word सधस्थ (*sadhastha*) means "a place of staying together". Only here does it refer to the atmosphere. It is also customary to call the place in the form of the altar (vedikā), where all the priests gather together, a सधस्थ (*sadhastha*). The author of the Nirukta (3-15), quoting the Ṛk कुह स्विद्योषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः । को नां शयुत्रा विधवेव देवरं मरयं न योषा कृणुते सधस्थ आ ॥ (*kuha svidyoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ | ko nāṃ śayutrā vidhaveva devaraṃ marayaṃ na yoṣā kṛṇute sadhastha ā ‖*) (Ṛ. Saṃ. 10-40 / 10-40-2) **NOTE**, takes the word सधस्थ (*sadhastha*) there to mean "a place of staying together". Sāyaṇa takes it as the altar; the Nirukta-author takes it as a dwelling-place in the form of a house where all live together in common. In the same way, for the word त्रिषधस्थः (*triṣadhasthaḥ*) also (in Ṛks such as 6-8-7; 6-12-2 etc.) the meaning is given as लोकेषु सहावस्थानं (*lokeṣu sahāvasthānaṃ*)
+
+### Printed p. 570
+
+(see above). In the present Ṛk Sāyaṇa has explained it as the atmosphere that is the common support of the three worlds; or else as सहस्थानं पुण्यकृतां सहनिवासयोग्यं भूरादिलोकसप्तकं (*sahasthānaṃ puṇyakṛtāṃ sahanivāsayogyaṃ bhūrādilokasaptakaṃ*), the seven worlds beginning with Bhūr, in which the righteous can dwell together; or else as उत्तरं उत्कृष्टतरं सर्वेषां लोकानामुपरिभूतं सहस्थानं सत्यलोकं (*uttaraṃ utkṛṣṭataraṃ sarveṣāṃ lokānāmuparibhūtaṃ sahasthānaṃ satyalokaṃ*), the Satyaloka, which is above all worlds and the best of all.
+
+विष्णोः (*viṣṇoḥ*)—अथ यद्विषितो भवति तद्विष्णुर्भवति विष्णुर्विशतेर्वा व्यश्नोतेर्वा (*atha yadviṣito bhavati tadviṣṇurbhavati viṣṇurviśatervā vyaśnotervā*). The Nirukta-author shows the derivation of this word as formed either from the root विश् (*viś*), which gives the sense "to pervade, or to enter so as to become one by joining with everything", or from the root व्यश् (*vyaś*) (नि + अशू (*ni + aśū*)). Then, quoting the Ṛk इदं विष्णुर्विचक्रमे त्रेधा नि वधे पदं । समूळ्दमस्य पांसुरे ॥ (*idaṃ viṣṇurvicakrame tredhā ni vadhe padaṃ | samūḷdamasya pāṃsure ‖*) (**NOTE**), he explains the Viṣṇu's pervasive nature **NOTE** described there.
+
+नु कं (*nu kaṃ*)—The usages of these particles in different senses were stated earlier; here Sāyaṇa has explained it as अतिशीघ्रं (*atiśīghraṃ*), "very quickly". And: नु कं इति पदद्वयं (*nu kaṃ iti padadvayaṃ*). Although there are two particles, नु (*nu*) and कं (*kaṃ*), yet since Yāska has said नवोत्तराणि पदानि (*navottarāṇi padāni*) (Ni. 3-13), and since it is read as one word in another śākhā, this is included among the nine words that the author of the Nirukta has gathered as "read in all words"; hence, following the same rule, it is made one word नुकं (*nukaṃ*), and whatever meaning the word नु (*nu*) alone has, the same can be said for नुकं (*nukaṃ*).
+
+##### Grammar
+
+- विष्णोः — विष्‌ल्य व्याप्तौ इति धातुः । विषेः किच्च (उ. सू. ३-३१९) इति णुप्रत्ययः । कित्वविधानात् लघोपधगुणो न भवति । सित् इति पूर्वसूत्रादनुवृत्तत्वात् आद्युदात्तस्वरो भवति । षष्ठि विकवचनांतरूपं ।
+- वीर्याणि — शूर वीर विक्रांतौ इति धातुः । अस्मात् णिच् आगते अचोयत् (पा. सू. ३-१-९७) इति यत्प्रत्ययः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । तित् स्वरितम् (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति । वीरशब्दविषये यतोनावः इति आद्युदात्तस्वरो न भवति इति (ऋ. स. १ ३२-१) इत्यत्र उक्तं ।
+
+### Printed p. 571
+
+- वोचम् — वच परिभाषणे इति धातुः । (अथवा) ब्रूञ् व्यक्तायां वाचि इति धातुः । अस्य अर्धधातुकविषये वच्यादेशः । लुज् उत्तमपुरुषएकवचने अमादेशः । अस्यतिवक्ति इति च्लेः चणादेशः । वच उम् (पा.सू ७-४-२०) इति चज् परे उमागमः । गुणः । तिजंतनिघातस्वरो भवति ।
+- पार्थिवानि — पृथिव्याः इमानि पार्थिवानि । पृथिव्याञ्ञाञौ इति अञ्प्रत्ययः । तद्धितेष्वचामादेः इति आदिवृद्धिः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ।
+- विममे — माज् माने इति धातुः । लट् प्रथमपुरुषएकवचने ममे इति रूपं भवति । यद्वृत्तानित्यम् (पा सू. ८-१-६६) इति निघातप्रतिषेधात् प्रत्ययस्वरेण अंतोदात्तं भवति । तिजिचोदात्तवति (पा. सू- ८-१-७१) इति सूत्रेण गतेः (वि) अनुदात्तस्वरो भवति ।
+- अस्कभायत् — स्कभि प्रतिबंधे इति धातुः । लज् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । स्तंभु स्तुंभु स्कंभु— (पा. सू. ३-१-८२) इति विहितस्य श्नाविकरणस्य छंदसि शायचपि (पा. सू. ३-१-८२) इति व्यत्ययेन शायचादेशः । आगमानुशासनमनित्यम् इति वचनात् नुमागमो न भवति । यद्योगत्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तं भवति ।
+- सधस्थम् — ष्ठा गतिनिवृत्तौ इति धातुः । सुस्थि स्थः (पा. सू. ३-२-४) इति कप्रत्ययः । आतो लोप इटि च (पा. सू. ६-४-९४) इति आकारलोपः । सधमादस्थयोष्छंदसि (पा. सू. ६-३-९६) इति सह इत्यस्य सधादेशः । द्वितीयाएकवचनांतरूपं ।
+- विचक्रमाणि — क्रमु पादविक्षेपे इति धातुः । अस्मात् लडर्थे शानच् प्रत्ययः । बहुलं छंदसि इति शपः श्लुविकरणं । श्लुनिमित्तत्वात् धातोर्द्वित्वादि । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- त्रेधा — त्रिशब्दात् विधाच्च (पा. सू ५-३-४६) इति प्रकारार्थे विधाच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरो भवति ।
+- उरुगायः — गा स्तुतौ इति धातुः । अचो यत् (पा सू. ३-१-९७) इति यत् प्रत्ययः । व्यत्ययेन अंतोदात्तं भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 572
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो  ॒॑
+> गि॑रि॒ष्ठाः ।  
+> यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यंति॒ भुव॑नानि॒ विश्वा॑ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तत् । विष्णुः । स्तवते । वीर्येण । मृगः । न । भीमः । कुचरः । गिरिस्थाः ।  
+> यस्य । उरुषु । त्रिषु । विक्रमणेषु । अधिक्षियंति । भुवनानि । विश्वा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयसवने सोमातिरेक एव शस्त्रमुपजनयितव्यं । तत्र प्र तदित्ययमनुरूपस्तृचः । सोमातिरेक इति खंडे सूत्रितं । प्र तद्विष्णुः स्तवते वीर्येणेति
+> स्तोत्रियानुरूपौ । आ. ६-७ । इति ॥ वाजपेयेनाधिपत्यकाम इति खंडे सूत्रितं ।
+> प्र तत्ते अद्य शिपिविष्ट नाम प्र तद्विष्णुः स्तवते वीर्येण । आ. ९-९ । इति ॥
+> यस्येति वक्ष्यमाणत्वात् स इति अवगम्यते । स महानुभावो वीर्येण
+> स्वकीयेन वीरकर्मणा पूर्वोक्तरूपेण स्तवते । स्तूयते सर्वैः ॥ कर्मणि व्यत्ययेन शप् ॥ वीर्येण स्तूयमानत्वे दृष्टांतः । मृगो न सिंहादिरिव । यथा स्वविरोधिनो मृगयिता सिंहो भीमो भीतिजनकः कुचरः कुत्सितहिंसादिकर्ता दुर्गप्रदेशगंता वा गिरिष्ठाः पर्वताद्युन्नतप्रदेशस्थाया सर्वैः स्तूयते । अस्मिन्नर्थे
+> निरुक्तं । मृगो न भीमः कुचरो गिरिष्ठाः । मृग इव भीमः कुचरो गिरिष्ठा मृगो
+> मार्पर्गेर्गतिकर्मणो भीमो बिभ्यत्यस्माद्भिष्मोऽप्येतस्मादेव । कुचर इति चरतिकर्म कुत्सितमथ चेद्देवताभिधानं क्वायं न चरतीति वा । गिरिष्ठा गिरिस्थाया गिरिः
+> पर्वतः समुद्दीर्णो भवति पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातीर्वा ।
+> नि. १-२० । इति ॥ तद्वयमपि मृगोऽन्वेषा शत्रूणां भीमो भयानकः सर्वेषां
+> भीत्यपादानभूतः । परमेश्वराद्भीतिर्भीषास्माद्वातः पवते । तै. आ. ८-८-१ । इत्यादिश्रुतिषु प्रसिद्धा । किंच कुचरः शत्रुवधादिकुत्सितकर्मकर्ता कुषु सर्वासु भूमिषु
+
+##### Gist of the bhāṣya
+
+Viniyoga: at the third savana, in the Somātireka, the śastra is to be performed; there प्र तत् (*pra tat*) is the anurūpa of the tṛca. In the khaṇḍa on Somātireka the Sūtra says: प्र तद्विष्णुः स्तवते वीर्येणेति स्तोत्रियानुरूपौ (*pra tadviṣṇuḥ stavate vīryeṇeti stotriyānurūpau*) (Ā. 6-7). In the khaṇḍa on the Vājapeya for one desiring sovereignty it says: प्र तत्ते अद्य शिपिविष्ट नाम प्र तद्विष्णुः स्तवते वीर्येण (*pra tatte adya śipiviṣṭa nāma pra tadviṣṇuḥ stavate vīryeṇa*) (Ā. 9-9).
+
+Since यस्य (*yasya*) is to be said later, स (*sa*) ("he") is understood. That great one is praised by all (स्तवते (*stavate*) = स्तूयते (*stūyate*), with the passive sense, the affix śap by vyatyaya) through his own heroic deed (वीर्येण (*vīryeṇa*)) of the kind stated before. An illustration of being praised for prowess: मृगो न (*mṛgo na*), like a lion or similar beast. As a lion, the hunter of its adversaries, is fearful (भीमः (*bhīmaḥ*), causing fear), कुचरः (*kucaraḥ*) (the doer of base violence and the like, or one who goes to inaccessible places) and गिरिष्ठाः (*giriṣṭhāḥ*) (dwelling on high places such as mountains), and is praised by all. On this the Nirukta says: मृगो न भीमः कुचरो गिरिष्ठाः । मृग इव भीमः कुचरो गिरिष्ठा मृगो मार्पर्गेर्गतिकर्मणो भीमो बिभ्यत्यस्माद्भिष्मोऽप्येतस्मादेव । कुचर इति चरतिकर्म कुत्सितमथ चेद्देवताभिधानं क्वायं न चरतीति वा । गिरिष्ठा गिरिस्थाया गिरिः पर्वतः समुद्दीर्णो भवति पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातीर्वा । (*mṛgo na bhīmaḥ kucaro giriṣṭhāḥ | mṛga iva bhīmaḥ kucaro giriṣṭhā mṛgo mārpargergatikarmaṇo bhīmo bibhyatyasmādbhiṣmo 'pyetasmādeva | kucara iti caratikarma kutsitamatha ceddevatābhidhānaṃ kvāyaṃ na caratīti vā | giriṣṭhā giristhāyā giriḥ parvataḥ samuddīrṇo bhavati parvavān parvataḥ parva punaḥ pṛṇāteḥ prīṇātīrvā |*) (Ni. 1-20): मृग (*mṛga*) comes from the root मृग (*mṛga*) of motion; भीम (*bhīma*) is the one from whom one is afraid, and भिष्म (*bhiṣma*) also from the same; कुचर (*kucara*): चरतिकर्म कुत्सितं (*caratikarma kutsitaṃ*), or, if it is the name of a deity, "where does he not move?"; गिरिष्ठा (*giriṣṭhā*) is गिरिस्थाया (*giristhāyā*); गिरि (*giri*) is a mountain, "risen high"; a mountain is one with joints (पर्व (*parva*)), and पर्व (*parva*) is from *pṛṇāti* or *prīṇāti*. Both qualities apply to him: he is the seeker of enemies (मृगः (*mṛgaḥ*)), भीमः (*bhīmaḥ*), terrifying, the ablative-source of fear for all; this is well known in Śruti passages such as परमेश्वराद्भीतिर्भीषास्माद्वातः पवते (*parameśvarādbhītirbhīṣāsmādvātaḥ pavate*) (Tai. Ā. 8-8-1). Further, कुचरः (*kucaraḥ*) is the doer of base acts such as slaying enemies, or one who moves in all the earths (कुषु (*kuṣu*)), that is in the three worlds; and गिरिष्ठा (*giriṣṭhā*) is one who dwells in high worlds as a mountain does
+
+### Printed p. 573
+
+> लोकत्रये संचारी वा तथा गिरिष्ठा गिरिवदुच्छ्रितलोकस्थायी । यद्वा । गिरि
+> मंत्रादिरूपायां वाचि सर्वदा वर्तमानः । ईदृशोऽयं स्वमहिम्ना स्तूयते ।
+> किंच यस्य विष्णोरुरुषु विस्तीर्णेषु त्रिसंख्याकेषु विक्रमणेषु पादप्रक्षेपेषु
+> विश्वा सर्वाणि भुवनानि भूतजातान्यधिक्षियंति आश्रित्य निवसंति स विष्णुः स्तूयते !!
+
+##### Gist of the bhāṣya
+
+Or else: गिरि (*giri*) is speech in the form of mantras and the like, and he abides in it always. Such is he, praised for his own greatness. Moreover, that Viṣṇu in whose wide (उरुषु (*uruṣu*)), three-numbered strides (विक्रमणेषु (*vikramaṇeṣu*), placings of the foot) all (विश्वा (*viśvā*)) beings (भुवनानि (*bhuvanāni*), creatures) dwell, resting upon them (अधिक्षियंति (*adhikṣiyaṃti*))—that Viṣṇu is praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Viṣṇu
+- उरुषु (*uruṣu*)—in the very wide
+- त्रिषु (*triṣu*)—and three-numbered
+- विक्रमणेषु (*vikramaṇeṣu*)—placings of the feet
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings (or) all worlds
+- अधि क्षियंति (*adhi kṣiyaṃti*)—abide, standing firm
+- (and) यः (*yaḥ*)—which Viṣṇu
+- मृगो न (*mṛgo na*)—like a wild beast such as a lion
+- भीमः (*bhīmaḥ*)—terrible (to enemies)
+- कुचरः (*kucaraḥ*)—one who harms (enemies) in a base manner, or one who moves in inaccessible places
+- गिरिष्ठाः (*giriṣṭhāḥ*)—one who dwells in the high places of the mountains
+- [(or) कुचरः (*kucaraḥ*)—one who moves in all three worlds; गिरिष्ठाः (*giriṣṭhāḥ*)—one who abides in speech in the form of mantras]
+- तद्विष्णुः (*tadviṣṇuḥ*)—such a Viṣṇu
+- वीर्येण (*vīryeṇa*)—with (his) heroic deeds
+- प्रस्तवते (*prastavate*)—is praised supremely
+
+##### भावार्थ (Bhāvārtha)
+
+That Viṣṇu in whose placings of the feet, very wide and three in number, all beings abide firmly, and who, like a wild beast such as the lion, is terrible to enemies, harms enemies exceedingly, and dwells in the high places of the mountains—that Viṣṇu is especially praised along with his heroic deeds.
+
+##### Printed English
+
+Vishnu is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because that in his three paces all worlds abide.
+
+##### विशेषविषयगळु (Special Topics)
+
+मृगो न भीमः कुचरो गिरिष्ठाः (*mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*). Here Viṣṇu is compared to a beast that is कुचर (*kucara*) and गिरिस्थ (*giristha*). Two kinds of meaning are given for the words कुचर (*kucara*) and गिरिष्ठ (*giriṣṭha*). First,
+
+कुचरः (*kucaraḥ*)—कुत्सितहिंसादिकर्ता, दुर्गमप्रदेशगंता वा (*kutsitahiṃsādikartā, durgamapradeśagaṃtā vā*): one who harms enemies greatly, or who moves in fortresses and the like where others cannot move; this is an adjective of the beast
+
+### Printed p. 574
+
+. The author of the Nirukta, citing this same passage, shows this derivation for the word: कुचर इति चरतिकर्म कुत्सितं । अथ चेद्देवताभिधानं । क्वायं न चरतीति । (*kucara iti caratikarma kutsitaṃ | atha ceddevatābhidhānaṃ | kvāyaṃ na caratīti |*) (Ni. 1-20). If it is an adjective of the beast, the meaning is "one that moves crookedly". If it is explained with reference to the deity, the meaning is "where indeed can he not move?". Since Viṣṇu is all-pervading, there can be no obstruction to his movement anywhere. Therefore this adjective is most fitting for Viṣṇu.
+
+गिरिष्ठाः (*giriṣṭhāḥ*)—गिरिः पर्वतः समुद्गीर्णो भवति (*giriḥ parvataḥ samudgīrṇo bhavati*). Because it spreads upward and high, a mountain is called गिरि (*giri*). [मेघोऽपि गिरिरेतस्मादेव (*megho 'pi giriretasmādeva*)—for this same reason the cloud also is called गिरि (*giri*). Ni. 1-20.] Since the beast dwells on mountains, the adjective गिरिष्ठाः (*giriṣṭhāḥ*) is used. Viṣṇu also being कुचर (*kucara*) and गिरिष्ठ (*giriṣṭha*), he is compared to the beast. Second—
+
+कुषु सर्वासु भूमिषु लोकत्रये संचारी (*kuṣu sarvāsu bhūmiṣu lokatraye saṃcārī*). Since the word कु (*ku*) means "world", it means one who moves in all the worlds. गिरिष्ठः (*giriṣṭhaḥ*)—मंत्रादिरूपायां वाचि सर्वदा वर्तमानः (*maṃtrādirūpāyāṃ vāci sarvadā vartamānaḥ*): since the word गीर् (*gīr*) means speech in the form of mantras, and since Viṣṇu is established in speech in the form of mantras, he is explained also as गिरिष्ठ (*giriṣṭha*).
+
+The word गिरिष्ठाः (*giriṣṭhāḥ*) is used as an adjective of Viṣṇu only in this one Ṛk. In other places this word is mostly an adjective of the Soma plant. In Ṛks such as परि सुवानो गिरिष्ठाः पवित्रे सोमो अक्षाः । मदेषु सर्वधा असि । (*pari suvāno giriṣṭhāḥ pavitre somo akṣāḥ | madeṣu sarvadhā asi |*) (Ṛ. Saṃ. 9-18-1), the word गिरि (*giri*) is explained as the stone that presses out the Soma juice, and the meaning is the Soma that stands among such गिरि (*giri*)s, that is, among the pressing stones; and in places such as असाव्यंशुर्मदायाप्पु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥ (*asāvyaṃśurmadāyāppu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*) (Ṛ. Saṃ. 9-62-4), the word गिरि (*giri*) is explained as "mountain" and the meaning is पर्वते जातः (*parvate jātaḥ*), Soma born on such a mountain. In the present Ṛk, it is an adjective of Viṣṇu, meaning either "dwelling on a mountain" or, since मेघोऽपि गिरिः (*megho 'pi giriḥ*) (Ni. 1-20), "dwelling in the cloud".
+
+मृगो न (*mṛgo na*)—मृगो मार्षॆर्गतिकर्मणः (*mṛgo mārṣèrgatikarmaṇaḥ*). Formed from the root मृग् (*mṛg*) ("to seek", मृग अन्वेषणे (*mṛga anveṣaṇe*)) of the sense of motion; it gives the meaning "one who always moves about".
+
+भीमः (*bhīmaḥ*)—भीतिजनकः (*bhītijanakaḥ*): the fearful one. मृगवदयमपि मृगोऽन्वेषा शत्रोणां भीमो भयानकः सर्वेषां भीत्यपादानभूतः (*mṛgavadayamapi mṛgo 'nveṣā śatroṇāṃ bhīmo bhayānakaḥ sarveṣāṃ bhītyapādānabhūtaḥ*). The wild beast, to other creatures
+
 ---
 
-**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
+**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
