@@ -1590,7 +1590,7 @@ By such sentences, and because the epithet शचीवसु (*śacīvasu*) is 
 
 ##### Gist of the bhāṣya
 
-Use: on the sixth day of the Pṛṣṭha rite, in the Praüga-śastra, this is the third verse of the Aindra triplet beginning "vṛṣann indra" (Āśvalāyana 8-1, which he cites). In the same pressing, other verses are added before the prasthita-yājyās and the offering is made with both together. The Hotṛ's prasthita-yājyā is preceded by this verse, which is to be added in front of it. He quotes the sūtra on this (Ā. 8-1).
+Use: on the sixth day of the Pṛṣṭha rite, in the Praüga-śastra, this verse "vṛṣann indra" is the third verse of the Aindra triplet (Āśvalāyana 8-1, which he cites). In the same pressing, other verses are added before the prasthita-yājyās and the offering is made with both together. The Hotṛ's prasthita-yājyā is preceded by this verse, which is to be added in front of it. He quotes the sūtra on this (Ā. 8-1).
 
 Meaning: O Indra, showerer (varṣitā) of desires, these Soma juices seen before you are pressed for you. They are "vṛṣapānāsaḥ": to be drunk by you, who rain down what is wished for. They are "adrisutāsaḥ": pressed with firm stones, the instruments of pressing. They are "udbhidaḥ": breakers-forth of the rain. These same juices are described further. "Udbhidaḥ" may also mean breakers-forth of strength, or sprung forth as from a mountain and the like. The Somas are pressed for you alone. May those Somas gladden (satisfy) you. Where? At the sacrifice rich in gifts (dāvane), for the wished-for gift. Likewise for great (mahe) and wonderful (citra) wealth (rādhas); "citra" may also mean "diverse". O Gīrvāhas, bearer of our praises, being praised by our hymns, come. Being well-pleasing to us, come.
 
@@ -3242,7 +3242,7 @@ and this Ṛk is also quoted in the Taittirīya Saṃhitā in praise of Agni (Ta
 
 ##### Gist of the bhāṣya
 
-अग्रुवः (*agruvaḥ*) means "standing in front" of Agni; or else it is a name of the fingers: the flames are straight like fingers. केशिनीः (*keśinīḥ*) are flames that, like hair, have a dark tinge at the top. They embrace him indeed (सं रेभिरे हि (*saṃ rebhire hi*)). Doing so, they are ममुषीः (*mamuṣīḥ*), dead, having become embers (the form from the root म्रियतेः (*mriyateḥ*) with the affix kvasu, feminine plural). Not knowing their own distress, they rise again for आयवे (*āyave*), Agni who comes to them as their lord: they stand up with faces upward; the meaning is that though nearly dead they have risen to meet him. When they have done so, that lord Agni, प्रमुंचन् (*pramuṃcan*), releasing completely the old age (loss of youth) of those flames, नानदत् (*nānadat*), sounds loudly, as if reciting a mantra to remove old age. And not merely the loss of old age: he generates *paraṃ asuṃ*, supreme breath, and *astṛtaṃ jīvaṃ*, life unharmed even by throwing in wood, water and the like, that is, the power to sustain life; and he goes to them, reaching the neighbourhood of those flames. As in the world certain women, after sporting fully with their lover...
+अग्रुवः (*agruvaḥ*) means "standing in front" of Agni; or else it is a name of the fingers: the flames are curved like fingers. केशिनीः (*keśinīḥ*) are flames that, like hair, have a dark tinge at the top. They embrace him indeed (सं रेभिरे हि (*saṃ rebhire hi*)). Doing so, they are ममुषीः (*mamuṣīḥ*), dead, having become embers (the form from the root म्रियतेः (*mriyateḥ*) with the affix kvasu, feminine plural). Not knowing their own distress, they rise again for आयवे (*āyave*), Agni who comes to them as their lord: they stand up with faces upward; the meaning is that though nearly dead they have risen to meet him. When they have done so, that lord Agni, प्रमुंचन् (*pramuṃcan*), releasing completely the old age (loss of youth) of those flames, नानदत् (*nānadat*), sounds loudly, as if reciting a mantra to remove old age. And not merely the loss of old age: he generates *paraṃ asuṃ*, supreme breath, and *astṛtaṃ jīvaṃ*, life unharmed even by throwing in wood, water and the like, that is, the power to sustain life; and he goes to them, reaching the neighbourhood of those flames. As in the world certain women, after sporting fully with their lover...
 
 ### Printed p. 132
 
@@ -3256,7 +3256,7 @@ and this Ṛk is also quoted in the Taittirīya Saṃhitā in praise of Agni (Ta
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - तं (*taṃ*)—Agni (the husband)
-- आग्रुवः (*āgruvaḥ*)—those in front, or those straight like fingers
+- आग्रुवः (*āgruvaḥ*)—those in front, or those curved like fingers
 - केशिनीः (*keśinīḥ*)—flames that are dark like the hair on the head
 - संरेभिरे हि (*saṃrebhire hi*)—they embrace, do they not
 - मम्रुषीः (*mamruṣīḥ*)—though extinguished and as if dead
@@ -3869,7 +3869,7 @@ the verb अभि जुगुरत् (*abhi jugurat*) has the sense अभ�
 
 ### Printed p. 156
 
-- (जुगुर्याः, मुंदुवरिदुदु) इति धातोः उत्वम् । उरणप्ररः इति रसरवागि भवति । श्लौ (पा. सू. ६-१-१०) इति धातोः द्वित्वम् । प्रत्ययस्य यासुटागमः । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- इति धातोः उत्वम् । उरणप्ररः इति रसरवागि भवति । श्लौ (पा. सू. ६-१-१०) इति धातोः द्वित्वम् । प्रत्ययस्य यासुटागमः । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
 - द्यावाक्षामा — दौश्च क्षामाश्च द्यावाक्षामा । दिवोद्यावा (पा. सू. ६-३-२९) इति उत्तरपदे परे द्यावादेशः । सुपां सुलुक्—(पा. सू. ७-१-३९) इति विभक्तेः (औ) आकारादेशः । देवताद्वंद्वे च (पा. सू. ६-२-१४१) इति उभयपदप्रकृतिस्वरः भवति । क्षामा भूमिपर्यायत्वेन वेदे पठितः ।
 - सिंधवः — स्यंदू प्रस्रवणे इति धातुः । स्यंदेस्संप्रसारणं धश्च (उ. सू. १-११) इति उन्‌प्रत्ययः । धातोः दकारस्य धकारादेशः । नित्त्वात् आद्युदात्तस्वरः भवति ।
 - गव्यम् — गोर्विकारः गव्यम् । गोपयसोर्यत् (पा. सू. ४-३-१६०) इति यत् प्रत्ययः । वांतोयि प्रत्यये (पा. सू. ६-१-७९) इति अवादेशः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति । एवमेव यव्यम् इत्यत्रापि स्वरप्रत्ययाः भवंति ।
