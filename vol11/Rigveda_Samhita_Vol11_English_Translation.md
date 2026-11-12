@@ -15574,6 +15574,152 @@ In Ṛks of this kind it is said हिरण्यगर्भः जातम�
 
 पूर्व्याय नवीयसे (*pūrvyāya navīyase*)—these epithets speak at one and the same time of Vishnu's beginninglessness, his perpetual newness, and therefore his endlessness. For the word नवीयसे (*navīyase*) Sāyaṇa
 
+### Printed p. 648
+Sāyaṇa explains the word *navīyase* as नित्यनूतनाय अत्यंतरमणीयाय (*nityanūtanāya atyaṃtaramaṇīyāya*), that is, "supremely delightful because he is ever new".
+
+The description of Viṣṇu in the same order of words is given in the Taittirīya Brāhmaṇa as well (3-4-3-9) **NOTE**. There Sāyaṇa explains the word पूर्वार्यय (*pūrvāryaya*) **NOTE** as जगतः पूर्वमेव भवाय (*jagataḥ pūrvameva bhavāya*), "who existed even before the creation of the world". He explains *navīyase* as रामकृष्णाद्यवतारैरत्यंतं नूतनाय (*rāmakṛṣṇādyavatārairatyaṃtaṃ nūtanāya*), "who is ever new through his forms of incarnation, Rāma, Kṛṣṇa and the rest".
+
+*śravobhir yujyaṃ cid abhyasat*: Sāyaṇa explains this part in one way in the Ṛksaṃhitā and in another in the Taittirīya Brāhmaṇa (2-4-3-9). In the Saṃhitā: श्रवोभिः— अन्नैः कीर्तिभिर्वा युक्तःसन् (*śravobhiḥ— annaiḥ kīrtibhirvā yuktaḥsan*), युज्यं चित्— सर्वैर्गंतव्यमेव तत्पदं (*yujyaṃ cit— sarvairgaṃtavyameva tatpadaṃ*), अभ्यसत्— अभिमुख्येन गच्छति प्राप्नोति (*abhyasat— abhimukhyena gacchati prāpnoti*). That is, endowed with foods or with fame, he goes towards and reaches the supreme state that must be reached by all. In the Brāhmaṇa: श्रवोभिः—श्रवणीयैर्हविर्दानमंत्र्यैः स्तोत्रविशेषैश्च युज्यंचित् सर्वदा स्वेन युक्तमपि कामक्रोधलोभरूपं शत्रुं अभ्यसत्—अभितः निरस्यति ॥ (*śravobhiḥ—śravaṇīyairhavirdānamaṃtryaiḥ stotraviśeṣaiśca yujyaṃcit sarvadā svena yuktamapi kāmakrodhalobharūpaṃ śatruṃ abhyasat—abhitaḥ nirasyati ‖*). That is, with the mantras recited audibly while offering oblations and with special hymns, he drives far away the enemy in the form of desire, anger and greed, which clings to oneself.
+
+Further, quoting the verse त्रिविधं नरकस्येदं (*trividhaṃ narakasyedaṃ*) (भंगी (*bhaṃgī*)), he explains that the three kinds of enemies described there are *nirasyati*, driven out; this is the purport he gives for the mantra in the Brāhmaṇa.
+
+Since the word *śravas* has the meanings food, strength, hymn and so on, either meaning may be given. But it is noted that the particle *cit* is used in other senses too. In the interpretation of the Saṃhitā, युज्यंचित् (*yujyaṃcit*) stresses the sense of excellence, सर्वैर्गंतव्यमेव (*sarvairgaṃtavyameva*), "that which all must attain". In the Brāhmaṇa sentence स्वेन युक्तमति (*svena yuktamati*) it gives the sense of something to be rejected, "even though clinging to oneself".
+
+Since there is a Nirukta statement चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*) (1-4), this particle can be interpreted according to context. For example, in the sentence आचारश्चिदिदं ब्रूयात् (*ācāraścididaṃ brūyāt*) ("the teacher himself should say this; others cannot") the particle is used in the sense of honour (पूजायां (*pūjāyāṃ*)); in दधिचिदित्युपमार्थे (*dadhicidityupamārthe*) ("like curds") as a word of comparison; and in कुल्माषाश्चिदाहर (*kulmāṣāścidāhara*) ("bring even sour gruel") a sense of contempt is possible. This is explained in the Nirukta
+
+### Printed p. 649
+. In the present mantra Sāyaṇa gives this particle the sense of honour in the Saṃhitā and the sense of contempt in the Brāhmaṇa.
+
+अभ्यसत्—आभिमुख्येन गच्छति (*abhyasat—ābhimukhyena gacchati*): in the Saṃhitā he explains that he goes towards the supreme state; in the Brāhmaṇa he explains that the preposition *abhi* joins the root *as*, which gives the sense "throw", and so means "he destroys".
+
+##### Grammar
+
+- वेधसे — वि उपसर्गः । डुधाञ् धारणपोषणयोः धातुः । विधाञ्नो वेधच (उ. सू. ४-६६४) इति असि प्रत्ययः । उपसर्गविशिष्टधातोः वेधादेशः । प्रत्ययस्य आद्युदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- नवीयसे — अतिशयेन नवः नवीयान् । अतिशयार्थे ईयसुन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।
+- सुमज्ञानये — सुमत् स्वयं जानिः उत्पत्तिः यस्य । सुमत्‌स्वयमित्यर्थः (निरु. ६-२२) इति यास्केन उक्तम् । जनी प्रादुर्भावे धातुः । अस्मात् औणादिकः इण् प्रत्ययः । अतउपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । सुमज्ञानि इति रूपं भवति । अथवा सुतरां मादयति इति सुमत् । सु उपपदे सति अंतर्भावितण्यर्थकात् मद धातोः क्विप् प्रत्ययः । सुमत् जाया यस्य सः सुमज्ञानिः । जायाया निज् (पा.सू. ५-४-१३४) इति समासांतत्वेन निजादेशः भवति । लोपोव्योर्वलि इति यकारलोपः । बहुव्रिह प्रकृत्या पूर्वपदम् (पा सू. ६-२-२) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- ददाशति — दाश्य दाने धातुः । भ्यादिः । लट् प्रथमपुरुषएकवचने परे बहुलं छंदसि इति शपि श्लु आदेशः । श्लु इति धातोः द्वित्वम् । यद्योगात् निघातस्वरः न भवति । अभ्यस्तासामादिः (पा सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
+- महतः — बृहन्महतोरुपसंख्यानम् इति वचनेन षष्ठीविभक्तेः उदात्तस्वरः भवति ।
+- महि — मह पूजायां धातुः । सर्वधातुभ्य इन् इति इन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- ब्रवत् — ब्रूञ् व्यक्तायां वाचि धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः परस्मैपदेषु (पा. सू. ३-४-९७) इति इकारलोपः । लेटोऽडाटा (पा सू. ३-४-९४) इति तस्य अडागमः । अदिप्रभृतिभ्यः शपः (पा. सू. २-४-७२) इति शपो लुक् । प्रत्ययनिमित्तेन धातोः इको गुणः अवादेशः । यच्छब्दसंबंधात् निघातस्वरः न भवति । तिप् पित्त्वात् आगमस्यापि अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+
+### Printed p. 650
+- श्रवोभिः — श्रु श्रवणे धातुः । अस्मात् औणादिकः असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । तृतीयाविकवचनांतरूपम् ।
+- युज्यम् — युजिर् योगे धातुः । अस्मात् यत् प्रत्ययः । यतोनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति ।
+- असत् — अस भुवि धातुः । लज् प्रथमपुरुषएकवचने तिप् । इतश्च इति इकारलोपः । बहुलं छंदसि इति शपो लुक् न भवति । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ स्तोतारः पू॒र्व्यं यथा॑ वि॒द ऋ॒तस्य॒ गर्भं॑ ज॒नुषा॑  
+> पिपर्तन ।  
+> आस्य॑ जा॒नंतो॒ नाम॑ चिद्विवक्तन म॒हस्ते॑ विष्णो सुम॒तिं  ॑
+> भजामहे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । स्तोतारः । पूर्व्यं । यथा । विद । ऋतस्य । गर्भं । जनुषा ।  
+> पि प र्तन ।  
+> आ । अस्य । जानंतः । नाम । चित् । विवक्तन । महः । ते । विष्णो इति । सुमतिं ।  
+> भजामहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः तमु तमेव विष्णुं पूर्व्यं पूर्वाह्नमनादिसंसिद्धमृतस्य
+> गर्भं यज्ञस्य गर्भभूतं । यज्ञात्मनोत्पन्नमित्यर्थः । यज्ञो वै विष्णुः । शत.
+
+##### Gist of the bhāṣya
+
+"O hymners, that very Viṣṇu, पूर्व्यं (*pūrvyaṃ*), ancient, beginninglessly established, the germ (गर्भं (*garbhaṃ*)) of ऋतस्य (*ṛtasya*), of the sacrifice: he is the embryo of sacrifice, that is, born in the form of sacrifice." The basis is the śruti यज्ञो वै विष्णुः (*yajño vai viṣṇuḥ*), "sacrifice is indeed Viṣṇu", Śa.
+
+### Printed p. 651
+
+> १-१-२-१३ । इति श्रुतेः । यद्वा । ऋतस्योदकस्य गर्भं गर्भकारणं । उवकोत्पादकमित्यर्थः ॥ अप एव ससर्जादौ । मनु १-८ । इति स्मृतेः । एवंभूतं विष्णुं यथा
+> विद जानीथ तथा जनुषा जन्मना स्वत एव न केनचिद्वरलाभादिना पिपर्तन । स्तोत्रादिना
+> प्रीणयत । यावदस्य माहात्म्यं जानीथ तावदित्यर्थः॥ विदेर्लटि मध्यमबहुवचनं।
+> विद ऋतस्येत्यत्र संहितायामृत्यक इति प्रकृतिभावः ॥ किंचास्य महानुभावस्य
+> विष्णोर्नाम चित् सर्वैर्नमनीयमभिधानं सार्वात्मप्रतिपाद- कं विष्णुरित्येतन्नाम जानंतः पुरुषार्थप्रदमित्यधिगच्छंत आ समंताद्वक्तन । वदत ।
+> संकीर्तयत । यद्वा । नानु यज्ञात्मना नमनं विष्णोरेव सर्वेषां स्वर्गापवर्गसाधनायेष्टाद्यात्मना द्रव्यदेवतात्मना वा परिणाममा जानंतो यूयं विव
+> क्तन । ब्रूत । स्तुत ॥ वचेर्लोटि छांदसः शप श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं ।
+> पूर्ववत्तनादेशः ॥ इदानीं साक्षात्कृत्याह । हे विष्णो सर्वात्मक देव महो महतस्ते तव सुमतिं सुष्टुतिं शोभात्मिकां बुद्धिं वा भजामहे । सेवामदे वयं
+> यजमानाः ॥
+
+##### Gist of the bhāṣya
+
+The reference is 1-1-2-13. Or else: ऋतस्य (*ṛtasya*) means "of water", and गर्भं (*garbhaṃ*) means "the cause of the germ", that is, the producer of water, on the authority of the smṛti अप एव ससर्जादौ (*apa eva sasarjādau*) (Manu 1-8). Know such a Viṣṇu and propitiate him (पिपर्तन (*pipartana*)) with hymns and the like, of your own accord (जनुषा (*januṣā*), by birth, spontaneously), not through any boon or the like; propitiate him as far as you know his greatness. विद (*vida*) is the second person plural of the present of the root *vid*; in विद ऋतस्य (*vida ṛtasya*) the Saṃhitā has the natural form (*prakṛtibhāva*).
+
+Further, knowing the name of this greatly glorious Viṣṇu, नाम चित् (*nāma cit*), the designation to be bowed to by all, which expresses him as the self of all, namely the name "Viṣṇu", as bestowing the goals of man, proclaim (विवक्तन (*vivaktana*)) it on every side; speak, extol. Or else: knowing the bowing (नाम (*nāma*)) as the very transformation of Viṣṇu alone, in the form of sacrifice, iṣṭi and the rest, or in the form of substance and deity, for the attainment of heaven and release for all, you declare, praise. The form विवक्तन (*vivaktana*) is Vedic (the *śap* replaced by *śluḥ*, the reduplicative vowel becomes *e*, the ending *tana*). Now addressing him directly: O Viṣṇu, god who are the self of all, we sacrificers serve your great सुमतिं (*sumatiṃ*), good praise, or your beautiful understanding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोतारः (*stotāraḥ*)—O hymners
+- पूर्व्यं (*pūrvyaṃ*)—the beginninglessly established one
+- ऋतस्य गर्भं (*ṛtasya garbhaṃ*)—born as the embryo of sacrifice, in the form of sacrifice; or the producer of water
+- तमु (*tamu*)—that very Viṣṇu
+- यथा विद (*yathā vida*)—in whatever way you know
+- जनुषा (*januṣā*)—without any expectation of reward, of your own accord
+- पिपर्तन (*pipartana*)—propitiate with hymns and the like
+- अस्य (*asya*)—of this greatly glorious Viṣṇu
+- नाम चित् (*nāma cit*)—the name "Viṣṇu", to be meditated upon by all
+- जानंतः (*jānaṃtaḥ*)—knowing it (as bestowing the goals of man), or knowing (that, since he is of the nature of sacrifice, everything is offered to him)
+- आ विवक्तन (*ā vivaktana*)—proclaim (his name)
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- महः (*mahaḥ*)—great-souled
+- ते (*te*)—your
+- सुमतिं (*sumatiṃ*)—auspicious understanding
+- भजामहे (*bhajāmahe*)—we serve; or may we obtain your grace and be happy
+
+##### भावार्थ (Bhāvārtha)
+
+O hymners, that Viṣṇu, beginninglessly established, born as the embryo of sacrifice in the form of sacrifice: in whatever way you know him, propitiate him with hymns, without expecting any reward. Knowing the great name of this greatly glorious Viṣṇu, to be meditated upon by all, as bestowing the goals of man, proclaim his glory. O Viṣṇu, great-souled, may we too enjoy your favour.
+
+### Printed p. 652
+
+##### Printed English
+
+Hymners, propitiate of your own accord that ancient Vishnu, since you know him as the germ of sacrifice ; cognizant of his greatness, celebrate his name : may we, Vishnu, enjoy your favour.
+
+##### विशेषविषयगळु (Special Topics)
+
+The qualities of Viṣṇu described in this Ṛk are described in the same order in the Taittirīya Brāhmaṇa (Tai. Brā. 2-4-3-9). But where this Ṛk has जनुषा पिपर्तन (*januṣā pipartana*) the Brāhmaṇa has हविषा पिपर्तन (*haviṣā pipartana*), and where this Ṛk has महस्ते विष्णो (*mahaste viṣṇo*) the Brāhmaṇa has बृहत्ते विष्णो (*bṛhatte viṣṇo*); a slight change.
+
+ऋतस्य गर्भं (*ṛtasya garbhaṃ*): he gives two explanations. First, यज्ञस्य गर्भभूतं । यज्ञात्मनोत्पन्नमित्यर्थः । यज्ञो वै विष्णुरिति श्रुतेः (*yajñasya garbhabhūtaṃ | yajñātmanotpannamityarthaḥ | yajño vai viṣṇuriti śruteḥ*). Since the śruti says that sacrifice is Viṣṇu, one meaning is that he is the embryo of the ṛta that is of the form of sacrifice. Second, ऋतस्य उदकस्य गर्भं गर्भकारणं । उदकोत्पादकमित्यर्थः । अप एव ससर्जादाविति स्मृतेः (*ṛtasya udakasya garbhaṃ garbhakāraṇaṃ | udakotpādakamityarthaḥ | apa eva sasarjādāviti smṛteḥ*). Since the word *ṛta* also means water, he gives another meaning, that Viṣṇu is the cause of the germ of water. Because the word *ṛta* has both meanings, and because both views are supported by śruti statements, either meaning fits.
+
+In the sentences तद्विष्णुः प्रथमः प्राप । स देवानाग्ं श्रेष्ठोभवत्तस्मादाहुर्विष्णुर्देवानाग्‌ं श्रेष्ठ इति । स यः स विष्णुर्यज्ञः स । स यः स यज्ञोसौ स आदित्यः । (*tadviṣṇuḥ prathamaḥ prāpa | sa devānāgṃ śreṣṭhobhavattasmādāhurviṣṇurdevānāgṃ śreṣṭha iti | sa yaḥ sa viṣṇuryajñaḥ sa | sa yaḥ sa yajñosau sa ādityaḥ |*) (Pa. Prā. 14-1-1-4 to 5) **NOTE**, यज्ञो विष्णुः प्रजापतिः (*yajño viṣṇuḥ prajāpatiḥ*) (Mai. Tri. 6-16) **NOTE**, and त्वं यज्ञस्तं विष्णुस्तं वषट्कारः (*tvaṃ yajñastaṃ viṣṇustaṃ vaṣaṭkāraḥ*) (Tai. U. 4-25-6) **NOTE**, and similar sentences, the identity of sacrifice and Viṣṇu is stated: sacrifice is Viṣṇu. By this the first meaning is supported. And in
+
+आपो ह वा इदमग्रे सलिलमेवास ता अकामयंत कथं नु प्रजायेमहीति ता आश्राम्यंस्तास्तपोऽतप्यंत तासु तपस्तप्यमानासु हिरण्मयमांडग्ं संबभूवाजातो ह तर्हि संवत्सर आस तदिदग्ं हिरण्मयमांडं यावत्संवत्सरस्य वेला तावत्पर्यप्लवत । ततः संवत्सरे पुरुषः समभवत् । (*āpo ha vā idamagre salilamevāsa tā akāmayaṃta kathaṃ nu prajāyemahīti tā āśrāmyaṃstāstapo 'tapyaṃta tāsu tapastapyamānāsu hiraṇmayamāṃḍagṃ saṃbabhūvājāto ha tarhi saṃvatsara āsa tadidagṃ hiraṇmayamāṃḍaṃ yāvatsaṃvatsarasya velā tāvatparyaplavata | tataḥ saṃvatsare puruṣaḥ samabhavat |*) (Ta. Brā. 11-1-6-1) **NOTE**
+
+### Printed p. 653
+and similar sentences it is said that water was the beginning of creation and that Viṣṇu in the form of the golden germ was its support. By this the second meaning is supported.
+
+पिपर्तन (*pipartana*): पिपर्ति पपुरिरिति प्रिणातिनिगमौ वा प्रीणाति निगमौ वा (*piparti papuririti priṇātinigamau vā prīṇāti nigamau vā*). It has been stated earlier (Ni. 5-24) that this is formed either from the root *pṛ*, which gives the sense "fill", or from the root *prī*, which gives the sense "propitiate". In the present Ṛk the meaning is "propitiate Viṣṇu with hymns and the like".
+
+जनुषा (*januṣā*): this word means जन्ममात्रेण (*janmamātreṇa*), "from birth itself". Expanded, this meaning comes to "naturally" or "spontaneously". In the present Ṛk, जन्मना स्वत एव न केनचिद्वरलाभादिना (*janmanā svata eva na kenacidvaralābhādinā*): without expectation of any reward of any kind, with natural and pure praises, "propitiate": a prayer in the form of an injunction.
+
+नाम चित् (*nāma cit*): सर्वैर्नमनीयमभिधानं सार्वात्मप्रतिपादकं विष्णुरित्येतन्नाम (*sarvairnamanīyamabhidhānaṃ sārvātmapratipādakaṃ viṣṇurityetannāma*): the name "Viṣṇu", to be bowed to by all, which is all-pervading and has the power of making the whole universe inwardly contained; this is one way of taking it. And the other: यद्वा नाम यज्ञात्मना नमनं विष्णोरेव सर्वेषां स्वर्गापवर्गसाधनायेष्ट्याद्यात्मना द्रव्यदेवतात्मना ना परिणाममा जानंतो वा (*yadvā nāma yajñātmanā namanaṃ viṣṇoreva sarveṣāṃ svargāpavargasādhanāyeṣṭyādyātmanā dravyadevatātmanā nā pariṇāmamā jānaṃto vā*) **NOTE**. Since Viṣṇu is himself of the form of sacrifice, the iṣṭis and the like, which are the means to heaven and to release, the substances that are their parts, and the deities addressed in the sacrifice, all are only other forms of Viṣṇu. Knowing that all of them are parts of Viṣṇu, worship and propitiate Viṣṇu through them: this is the other way of explaining it.
+
+##### Grammar
+
+- स्तोतारः — ष्टुञ् स्तुतौ धातुः । कर्तरि तृच् प्रत्ययः । संबोधनाबहुवचने गुणे प्राप्ते अप्‌तृन्‌तृच् इति उपधादीर्घः । आमंत्रितस्य च इति निघातस्वरः भवति ।
+- विद — विद ज्ञाने धातुः । अदादिः । लटः मध्यमपुरुषबहुवचने थ प्रत्ययः । विदोलटो वा (पा सू. ३-४-८३) इति तस्य अ आदेशः । सार्वधातुकमपित् इति जीत्वात् लघूपधगुणः न भवति । यथा इति पूर्वं स्थितत्वात्
+
+### Printed p. 654
+ निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । विद+ऋतस्य इति स्थिते संहितायां ऋत्यकः इति प्रकृतिभावः भवति ।
+- जनुषा — जनी प्रादुर्भावे धातुः । जनेरुसिः इति उस् प्रत्ययः । प्रत्ययस्वरेण उकारः उदात्तः भवति । तृतीया एकवचनांतरूपम् ।
+- पिपर्तन — पृ पालनपूरणयोः पृ इत्येके धातुः । जुहोत्यादिः । लोट् मध्यमपुरुषबहुवचने तप्तनप्तनथनाश्च (पा सू. ७-१-४५) इति तस्य तनपादेशः । श्लौ इति धातोः द्वित्वम् । अर्तिपिपर्त्योश्च (पा. सू. ७-४-२७) इति अभ्यासस्य इत्वम् । प्रत्ययस्य पित्त्वात् जित्वाभावे धातोः इको गुणः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- जानंतः — ज्ञा अवबोधने धातुः । अस्मात् आगतस्य लटः शत्रादेशः । श्नाविकरणे ज्ञाजनोर्जा (पा. सू. ७-३-७९) इति धातोः जादेशः । श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति विकरणस्य आकारस्य लोपः । प्रथमाबहुवचनांतरूपम् । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- विवक्तन — वच परिभाषणे धातुः । लोट् मध्यमपुरुषबहुवचने पूर्ववत् तनबादेशः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । श्लु इति धातोः द्वित्वे प्राप्ते बहुलं छंदसि इति अभ्यासस्य इत्वम् । चोःकुः इति धातुचकारस्य कुत्वम् । तिजंतनिघातस्वरः भवति ।
+- सुमतिम् — मन ज्ञाने धातुः । क्तिन् प्रत्ययः । मंत्रेवृषेषपच (पा. सू. ३-३-९६) इति क्तिन् उदात्तः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- भजामहे — भज सेवायां धातुः । लट् उत्तमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑स्य॒ राजा॒ वरु॑ण॒स्तम॒श्विना॒ क्रतुं॑ सचंत॒ मारु॑तस्य वे॒धसः॑ ।  
+> दा॒धार॒ दक्ष॑मुत्त॒मम॑ह॒र्विदं॑ व्र॒जं च॒ विष्णुः॒ सखि॑वा  ॒
+> अपूर्णुते ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 647. pp. 642-647 (batch API)
+**Progress note:** Done through printed p. 654. pp. 648-
