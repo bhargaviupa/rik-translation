@@ -10450,6 +10450,172 @@ the word स्वः (*svaḥ*) is interpreted as heaven, and likewise in some 
 - विश्वाप्सुम्— विश्वे अप्पवः यस्य सः विश्वाप्सः । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
 - दधुः— डुधाञ् धारणपोषणयोः इति धातुः । लिट् प्रथमपुरुषबहुनचनांतरूपं । तिजंतनिघातस्वरो भवति । **NOTE**
 
+### Printed p. 430
+
+- मनुष्यासु — मनुष्यशब्दो नानारीत्या निरुक्ते विवृतः । मन ज्ञाने, षिवु तंतुसंताने एताभ्यां धातुभ्यां निष्पन्नः । पृषोदरादित्वात् सिद्ध्यति । मनस्यमानेन सृष्टाः यद्वा मनोरपत्यं मनुष्याः । मनुष्यभवाः मनुष्याः । भवे छंदसि इति य प्रत्ययः ।
+- विक्षु — विश् शब्दः । सप्तमीबहुवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरः भवति ।
+- स्वः — न्यज् स्वर् स्वरिता (फि. सू. ७४) इति स्वरितस्वरः भवति ।
+- चित्रम् — चिञ् चयने धातुः । अमिचिमिदिश- (उ.सू. ४-६०३) इति क्र पत्ययः । कित्त्वात् गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । ॥१॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒दा॒नमिन्न द॑दभंत॒ मन्मा॒ग्निर्वरू॑थं॒ मम॒ तस्य॑ चाकन् ।  
+> जु॒षंत॒ विश्वा॑न्यस्य॒ कर्मोप॑स्तुतिं॒ भर॑माणस्य का॒रोः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ददानं । इत् । न । दवभंत । मन्म । अग्निः । वरूथं ! मनु । तस्य । चाकन् ।  
+> जुषंते । विश्वानि । अस्य । कर्म । उपस्तुतिं । भरमाणस्य । कारोः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मन्म मननीयं स्तोत्रं हविरादिकं वा ददानमिदग्नये कुर्वाणमेव मां
+> दंभितारो वैरिणो न ददभंत । दंभितुं हिंसितुं न प्रभवंति ॥ दंभेर्बहुलं
+> छंदसीति विकरणस्य श्लुः । व्यत्ययेनांतादेशः ॥ मम कोऽतिशय इति उच्यते । तस्य
+> तादृशस्य प्रदातुर्मम वरूथं वरणीयं स्तोत्रादिकमयमग्निश्चाकन् । अत्यर्थं
+> कामयते ॥ कनतिः कांतिकर्मा अस्माद्यज् लुगंताल्लजः छांदसोdभावः । बहुलादेव ना छांदसस्तु जादित्पादभ्यासदीर्घः ॥ यस्मादेवं तस्मान्न दभ्नुवंतीर्थः । न
+
+##### Gist of the bhāṣya
+
+मन्म (*manma*) is the thought-worthy stotra, or the oblation and the like. The enemies who would do harm (the root दंभ (*daṃbha*)) are not able to harm me, who am indeed offering this to Agni. He then asks what distinction there is in me, and answers: this Agni intensely desires (चाकन् (*cākan*), from the root कन (*kana*), "to desire") the choice stotra and the like of me, such a giver. Because this is so, they do not harm.
+
+### Printed p. 431
+
+> केवलमग्निरेव कामयते किंतु सर्वे देवाः कामयंत इत्याह । उपस्तुतिं भरमाणस्य कुर्वाणस्य कारोः स्तोतुरस्य यजमानस्य मम विश्वानि सर्वाणि हविष्प्रनादादिरूपाणि जुषंत सर्वे देवा । अतो न ददभंतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Not only Agni desires it, but all the gods do. Of me, who offer praise, the singer, the sacrificer, all the offerings in the form of oblations, praise-sounds and the like are enjoyed (जुषंत (*juṣaṃta*)) by all the gods. Hence the sense: they (the enemies) do not harm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्म (*manma*)—the stotra accompanied by faith, or the oblation
+- ददानमित् (*dadānamit*)—me, who am offering (to Agni)
+- न ददभंत (*na dadabhaṃta*)—(the harming enemies) are not able to harm (because)
+- तस्य (*tasya*)—of one who offers in that manner
+- मम (*mama*)—my
+- वरूथं (*varūthaṃ*)—dear stotras and the like
+- अग्निः (*agniḥ*)—Agni
+- चाकन् (*cākan*)—desires exceedingly (moreover)
+- उपस्तुतिं (*upastutiṃ*)—(their) praise
+- भरमाणस्य (*bharamāṇasya*)—of one who recites, and
+- कारोः (*kāroḥ*)—of the singer of praise, and
+- अस्य (*asya*)—of the sacrificer, of me
+- विश्वा नि कर्म (*viśvā ni karma*)—all the rites (of offering oblations and stotras)
+- जुषंत (*juṣaṃta*)—(all the gods) partake and are satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+The harming enemies are not able to harm me, who offer to Agni a stotra accompanied by faith. For Agni desires exceedingly the dear stotras and the like of me who offer in that manner. Moreover, the gods too partake of all the rites of me, who recite the praise of the gods, who am the singer and the sacrificer, and are satisfied.
+
+##### Printed English
+
+Let not ( my enemies ) prevail against me, when presenting acceptable (oblations), for (Agni) is desirous of my so offered adoration, and all they (the gods) are gratified by the (pious) acts of me, the reciter of their praise, and the celebrator (of the sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+मन्म—मननीयं स्तोत्रं हविरादिकं वा (*manma—mananīyaṃ stotraṃ havirādikaṃ vā*): this is explained as a stotra of the nature of meditation, or venerable oblations and the like. Although the etymological sense of the word मन्म (*manma*) is "a wish of the mind", in the sentences of the Ṛksaṃhitā the use of this word denotes a thing that shows an excellent longing. The Nirukta-kāra cites the Ṛk
+उप प्रागात्सुमन्मेऽधायि मन्म देवानामाशा उप वीतपृष्ठः । अन्वेनं विप्रा ऋषयो मदंति देवानां पुष्टे चकृमा सुबंधुं । (*upa prāgātsumanme 'dhāyi manma devānāmāśā upa vītapṛṣṭhaḥ | anvenaṃ viprā ṛṣayo madaṃti devānāṃ puṣṭe cakṛmā subaṃdhuṃ |*) (Ṛ. Saṃ. 1-162-7)
+
+### Printed p. 432
+
+and thereby shows the meaning of the word मन्म (*manma*). Durgācārya, explaining this word, glosses मन्म—मननीयमर्थजातं (*manma—mananīyamarthajātaṃ*), and takes it to mean a venerable thing.**NOTE** The venerable thing may be the fruit of the sacrifice, or praise, or an oblation. For the word in the Ṛk 1-162-7, Sāyaṇa has glossed मननीयं फलं (*mananīyaṃ phalaṃ*). In many places such as 1-26-2, 1-127-2, 1-140-1 and 1-151-8, the words मन्मना (*manmanā*) and मन्मभिः (*manmabhiḥ*) mean an excellent, venerable disposition of the mind; so too in the present Ṛk the sense is either a venerable, meditative praise or an excellent oblation. In sentences such as अग्निः प्रश्नेन मन्मना (*agniḥ praśnena manmanā*) (Ai. Brā. 1-4) too one may note the intensive sense of this word.
+
+वरूथं (*varūthaṃ*)—the word वरूथ (*varūtha*) is read among the names of houses in the Nirukta (Ni. 3-13). This word is formed from the root वृ (*vṛ*) in the sense of choosing. It can be an epithet of anything that one chooses (to choose) and desires with regard. In the Ṛksaṃhitā the word is used to denote different things. In the Ṛk
+ता इयानो महि वरूथमूतय उप फेदेना नमसा गृणीमसि । त्रितो न यान्पंच होत्यनभिष्टय आववर्तदवराञ्चक्रियावसे । (*tā iyāno mahi varūthamūtaya upa phedenā namasā gṛṇīmasi | trito na yānpaṃca hotyanabhiṣṭaya āvavartadavarāñcakriyāvase |*) (Ṛ. Saṃ. 2-34-14)
+it is explained as प्रशस्तं वरणेयं धनं (*praśastaṃ varaṇeyaṃ dhanaṃ*); and in the Ṛk
+मा ते अस्यां सहसावन्परिष्टावघाय भूम हरिवः पराद्यै । त्रायस्व नोऽवृकेभिर्वरूथैस्तव प्रियासः सूरिषु स्याम । (*mā te asyāṃ sahasāvanpariṣṭāvaghāya bhūma harivaḥ parādyai | trāyasva no 'vṛkebhirvarūthaistava priyāsaḥ sūriṣu syāma |*) (Ṛ. Saṃ. 7-19-7)
+it is explained as वारयंत्युपद्रवेभ्यः इति वरूथानि रक्षणानि (*vārayaṃtyupadravebhyaḥ iti varūthāni rakṣaṇāni*), that is, protections that guard against calamities. Although it is thus used in different senses, in the present Ṛk it is explained as a choice-worthy, that is, dear, stotra.
+
+कारोः—स्तोतुः अस्य यजमानस्य मम (*kāroḥ—stotuḥ asya yajamānasya mama*): this is explained as "of me, who sing praise and perform the sacrifice". The Nirukta-kāra reads the word कारु (*kāru*) among the names of the praiser (Ni. 3-19). The Bṛhaddevatā-kāra has used this word in the sense of poets, the seers who see the sūktas:
+अग्नेस्तु यानि सूक्तानि पंच नामानि कारवः । षड्विंशतिस्तथेंद्रस्य प्राहुः सूर्यस्य सप्त च । (*agnestu yāni sūktāni paṃca nāmāni kāravaḥ | ṣaḍviṃśatistatheṃdrasya prāhuḥ sūryasya sapta ca |*) (Bṛ. De. 28-22)**NOTE**
+
+### Printed p. 433
+
+पृथक्वेन समासैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*pṛthakvena samāsaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*) (Bṛ. De. 2-28)
+In these sentences it is used as a word synonymous with "poet", saying that the कारु (*kāru*)s praise. In the Ṛksaṃhitā also,
+प्रदक्षिणिदभि गृणंति कारवो वयो वदंत ऋतुथा शकुंतयः । उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति । (*pradakṣiṇidabhi gṛṇaṃti kāravo vayo vadaṃta ṛtuthā śakuṃtayaḥ | ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati |*) (Ṛ. Saṃ. 2-43-1)
+वि चेदुच्छंत्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरंते । ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः समिधा जरंते । (*vi ceducchaṃtyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharaṃte | ūrdhvaṃ bhānuṃ savitā devo aśredbṛhadagnayaḥ samidhā jaraṃte |*) (Ṛ. Saṃ. 7-22-4)
+in these and other Ṛks the meaning is स्तोतारः (*stotāraḥ*) (praisers). In the present Ṛk also it has the same meaning.
+
+##### Grammar
+
+- ददानम् — डुदाञ् दाने धातुः । लडर्थे शानच् प्रत्ययः । श्लु विकरणः । व्यत्ययेन अंतोदात्तस्वरः भवति ।
+- ददभंत — दंभु दंभने धातुः । लेट् प्रथमपुरुषबहुवचने व्यत्ययेन अंतादेशः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । श्लु इति धातोर्द्वित्वं । अतिजंतस्य परत्वात् निघातस्वरः भवति ।**NOTE**
+- मन्म — मन ज्ञाने धातुः । अस्मादौणादिकः मन् प्रत्ययः । इत्यादिर्नित्यं (पा.सू ६-१-१९७) इति आद्युदात्तस्वरः भवति ।
+- वरूथम् — वृञ् वरणे धातुः । ज्यवृञ्भ्यामूथन् (उ. सू. २-१६३) इति ऊथन् प्रत्ययः । प्रत्ययनिमित्तेन धातोरिको गुणो रपरः भवति । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- चाकन् — कन कांतौ धातुः । कांतिः इच्छा । भृशार्थे द्योत्ये धातोरेकाच— (पा. सू. ३-१-२२) इति यज् आगते यजोचिच (पा. सू २-४-७४) इति तस्य अनैमित्तिकः लुक् । यज्लुगंतात् वर्तमानार्थे लज् । यद्वा बहुलं छंदसि इति शपः श्लु आदेशः । प्रथमपुरुषबहुवचनांतरूपं । बहुलं छंदस्यमाज्योगेपि इति अडागमो न भवति । तिजंतनिघातस्वरः भवति ।
+
+### Printed p. 434
+
+- जुषंत — जुषी प्रीतिसेवनयोः धातुः । छांदसत्वेन लज् । प्रथमपुरुषबहुवचनांतरूपं । बहुलं छंदस्य — इति अडागमो न भवति । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- उपस्तुतिम् — ष्टुञ् स्तुतौ धातुः । स्त्रियां क्तिन् (पा. सू. ३-३-९४) इति भावार्थे क्तिन् प्रत्ययः । तादौ च निति (पा. सू. ६-२-५०) इति गतेः (उप) प्रकृतिस्वरः भवति ।
+- भरमाणस्य — भृञ् भरणे । लडर्थे शानच् प्रत्ययः । शप् विकरणः । आनेमुक् इति मुकागमः । तास्यनुदात्तेत् सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- कारोः — डुकृञ् करणे धातुः । कृवापा (उ. सू. १-१) इति उण् प्रत्ययः । अचोञ्णिति इति वृद्धिः । रपरो भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । ॥२॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नित्ये॑ चि॒न्नु यं सद॑ने जगृ॒भ्रे प्रश॑स्तिभिर्दधि॒रे य॒ज्ञिया॑सः ।  
+> प्र सू न॑यंत गृ॒भयं॑त इ॒ष्टावश्वा॑सो॒ न र॒थ्यो॑ रारहा॒णाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नित्ये । चित् । नु । यं । सदने । जगृभ्रे । प्रशस्तिभिः । वधिरे । यज्जियासः ।  
+> प्र । सु । नयंत । गृभयंतः । इष्टौ । आश्वासः । न । रथ्यः । ररहाणाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियासो यज्ञयोग्या यजमाना ऋत्विजो वा यं मथनेनोत्पन्नमग्निं नित्ये चित्सदने नित्य एव गार्हपत्यलक्षणेऽग्न्यासादनस्थाने नु क्षिप्रं जगृभ्रे
+> गृह्णंति ॥ ग्रहेर्लिटीरयो र इति रेभावः । हृग्रहोर्भ इति भत्वं ॥ नित्यं गतश्रियो
+> ध्रियते नित्यं गार्हपत्यमिति सूत्राद्गार्हपत्यो नित्यः । तदाश्रयत्वात्सदनमपि नित्य
+
+##### Gist of the bhāṣya
+
+The यज्ञियासः (*yajñiyāsaḥ*) are the sacrificers or the priests, fit for the sacrifice. Agni, produced by churning, they swiftly (नु (*nu*)) seize (जगृभ्रे (*jagṛbhre*) = गृह्णंति (*gṛhṇaṃti*)) in the नित्ये चित् सदने (*nitye cit sadane*), namely in the Gārhapatya, the place where the fires are seated, which is itself perpetual. By the sūtra नित्यं गतश्रियो ध्रियते नित्यं गार्हपत्यमिति (*nityaṃ gataśriyo dhriyate nityaṃ gārhapatyamiti*) the Gārhapatya is perpetual, and since the सदन (*sadana*) rests on it, the seat too is called perpetual.
+
+### Printed p. 435
+
+> मुच्यते । गृहीत्वा प्रशस्तिभिः प्रशंसाभिः स्तुतिभिर्दधिरे । धारयंत्याहवनीयार्थं ।
+> धृत्वा चेष्टावेषणसाधने यज्ञे निमित्तभूते सति गृभयंत ऋत्विजः प्र सू नयंत ।
+> सुष्टु प्रणयंति । तत्र दृष्टांतः । ररहाणा रंहसा गच्छंतः ॥ रहि गतौ । छांदसस्य लिटः
+> कानच् । अनित्यमागमशासनमिति नुमभावः ॥ रथ्यो रथवंतस्तत्र नियुक्ताः ॥ छंदसीवनिपाविति रथशब्दान्मत्वर्थिय ईकारः ॥ अश्वासो नाश्वा इव । ते यथा धृत्वा रथस्वामिनमभिमतदेशं नयिंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Having seized him, they hold him (दधिरे (*dadhire*)) with praises (प्रशस्तिभिः (*praśastibhiḥ*)), that is, with stutis, for the sake of the Āhavanīya. Having held him, when the sacrifice, the means of seeking what is desired, is the occasion, the priests, seizing, lead him forth well (प्र सू नयंत (*pra sū nayaṃta*)). An example is given: ररहाणा (*rarahāṇā*) means "going with speed" (root रहि (*rahi*), to go). रथ्यो (*rathyo*) are those having chariots, yoked there. अश्वासो न (*aśvāso na*) means "like horses". As they, holding the owner of the chariot, lead him to the place he wishes, so (do the priests lead Agni).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियासः (*yajñiyāsaḥ*)—sacrificers or priests fit for the sacrifice
+- यं (*yaṃ*)—that very Agni (produced by churning of the araṇi)
+- नित्ये चित् सदने (*nitye cit sadane*)—in the eternal place, in the form of the Gārhapatya
+- नु (*nu*)—with watchfulness
+- जगृभ्रे (*jagṛbhre*)—keep holding (and)
+- प्रशस्तिभिः (*praśastibhiḥ*)—with stotras
+- दधिरे (*dadhire*)—keep him fixed there (for the fitness of the Āhavanīya)
+- इष्टौ (*iṣṭau*)—for the sake of the sacrifice
+- गृभयंतः (*gṛbhayaṃtaḥ*)—the priests who thus hold
+- ररहाणाः (*rarahāṇāḥ*)—swiftly running, and
+- रथ्यः (*rathyaḥ*)—yoked to the chariot
+- आश्वासो न (*āśvāso na*)—as horses lead the owner of the chariot to the intended place
+- प्र सू नयंत (*pra sū nayaṃta*)—they take (him) with faith to the place of sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+The priests or sacrificers, fit to carry out the sacrifice, hold with watchfulness the Agni produced by the churning of the araṇi in the eternal place in the form of the Gārhapatya. And with stotras they keep him fixed there for the sake of the Āhavanīya. Afterwards the priests, who thus hold him for the sake of the sacrifice, take Agni also with faith to the place of sacrifice, as swiftly running horses yoked to a chariot lead the owner of the chariot to the intended place.
+
+##### Printed English
+
+Him, whom the worshippers lay hold of in his perpetual abode, they detain by their praises, and the holders convey him diligently to the sacrifice, as rapid coursers, harnessed to a car, (bear the rider to his-destination).
+
+##### विशेषविषयगळु (Special Topics)
+
+ररहाणाः (*rarahāṇāḥ*)—formed from the root रहि (*rahi*) in the sense of going: रंहता गच्छंतः (*raṃhatā gacchaṃtaḥ*). It is an epithet of the horses, "those that run swiftly".
+
 ---
 
-**Progress note:** Done through printed p. 429. pp. 424-
+**Progress note:** Done through printed p. 435. pp. 430-435 (batch API)
