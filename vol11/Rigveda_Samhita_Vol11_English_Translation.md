@@ -4752,6 +4752,159 @@ though it is clear that the word अरुषं (*aruṣaṃ*) is an epithet of
 
 Besides this, if one considers the meanings at the places where the feminine form अरुषी (*aruṣī*) is used,
 
+### Printed p. 196
+
+The passage continues from the previous page. In verses such as वयं हि ते अमन्मह्यान्तादा पराकात् । अश्वे न चित्रे अरुषि । (*vayaṃ hi te amanmahyāntādā parākāt | aśve na citre aruṣi |*) (Ṛ. Saṃ. 1-30-21), the word means Uṣas as the deity. In युक्त्वा ह्यरुषी रथे हरितो देव रोहितः । ताभिर्देना इहा वह। (*yuktvā hyaruṣī rathe harito deva rohitaḥ | tābhirdenā ihā vaha|*) (Ṛ. Saṃ. 1-14-12), and in अधि श्रियं नि वधुश्चारुमस्मिन्वियो यदक्षी अमृता अकृण्वन् । अध क्षरंति सिंधवो न सृष्टाः प्र नीचीरग्ने अरुषीरजानन् । (*adhi śriyaṃ ni vadhuścārumasminviyo yadakṣī amṛtā akṛṇvan | adha kṣaraṃti siṃdhavo na sṛṣṭāḥ pra nīcīragne aruṣīrajānan |*) (Ṛ. Saṃ. 1-72-10), it is understood as the golden-coloured horse of Agni. In the remaining verses, such as 8-68-18, it means an ordinary horse. Concerning the special meanings of the word Arushi used in the feminine, Max Müller says again as follows.
+
+> Further on, where the meanings attributable to Arushi in the Veda are collected, it is said: that Arushi means a red horse, also the teams of Agni and Ushas. Now here surely, a distinction should have been made between those passages in which Arushi means a real horse and those where it expresses the imaginary steeds of Agni. The former, it should be observed, occur in one Mandala only, and in places of somewhat doubtful authority. Again. two passages are set apart where Arushi is supposed to mean flames. Now, it may be perfectly true that the red horses of Agni are meant for flames, just as the red horses of Indra may be the rays of the Sun. But, in that case, the red horses of Agni, should always have been thus translated, or rather interpreted, and not in one passage only.
+> ( S. B. E. XXXII—P. 27 )
+
+In the present verse the word अरुषेभिः (*aruṣebhiḥ*) may be interpreted either as "of moving nature" or as "golden-coloured".
+
+सूरयः (*sūrayaḥ*): Sāyaṇa explains सरणयः मार्गाः (*saraṇayaḥ mārgāḥ*), that is, "spreading paths". Ordinarily the word सूरि (*sūri*) is used in the sense of प्राज्ञ (*prājña*) (wise); the purport is "a wise praiser". It is read in the Nirukta among the names of praisers such as रेभः (*rebhaḥ*) and जरिता (*jaritā*) (Ni. 3-19). For example:
+
+उषो ये ते प्र यामेषु युंजते मनो दानाय सूरयः । अत्राह तत्कण्य एषां कण्वतमो नाम गृणाति नृणां । (*uṣo ye te pra yāmeṣu yuṃjate mano dānāya sūrayaḥ | atrāha tatkaṇya eṣāṃ kaṇvatamo nāma gṛṇāti nṛṇāṃ |*) (Ṛ. Saṃ. 1-48-4)
+
+### Printed p. 197
+
+इदं नमो वृषभाय स्वराजे सत्यशुष्माय तवसेऽवाचि । अस्मिन्निंद्र वृजने सर्ववीराः स्मत्सूरिभिस्तव शर्मन्तास्मै । (*idaṃ namo vṛṣabhāya svarāje satyaśuṣmāya tavase 'vāci | asminniṃdra vṛjane sarvavīrāḥ smatsūribhistava śarmantāsmai |*) (Ṛ. Saṃ. 1-51-15)
+
+In such verses it means "learned man" and "by the learned". In the present verse, and in a few other verses only, the "paths" mentioned above, namely the paths of Agni's spreading, are indicated.
+
+##### Grammar
+
+- यातः—या प्रापणे धातुः । क्त प्रत्ययः । अनिट्त्वात् इडागमः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- अंगेभिः—बहुलं छंदसि इति भिसः ऐस् भावः विकल्पितत्वात् अत्र न भवति । बहुवचनेझुल्येत् इति एत्वं ।
+- अरुषेभिः—ऋगतौ धातुः । ऋहनिभ्यामषन् (उ. सू. ४-५१३) इति उषन् प्रत्ययः । तन्निमित्तीकृत्य धातोः गुणः । रपरत्वं भवति । व्यत्ययेन अंतोदात्तः भवति । पूर्ववत् ऐस् भावः विकल्पितत्वात् एत्वं ।
+- ईयते—ईज् गत् धातुः । दिवादिः । लट् प्रथमपुरुषएकवचने त प्रत्ययः । टेः एत्वं । दिवादिभ्यःश्यन् (पा. सू. ३-१-६९) इति श्यन् विकरणः । सार्वधातुकमपित् इति अस्य जीत्वात् गुणः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- कृष्णासः—कृष विलेखने धातुः । कृषे वर्णे (उ सू. ३-३८४) इति नज् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । जस् परे आज्जसेरसुक् इति आसुकागमः ।
+- धक्षि—दव छस्मीकरणे धातुः । व्यत्ययो बहुलम् इति तिपः सिप् भवति । बहुलं छंदसि इति शपः लुक् । होढः इति हकारस्य ढत्वं । झषस्तथो इति धातुदकारस्य धत्वं । षथोः कः सि इति ढकारस्य कत्वादेशः । आदेशप्रत्यययोः सूत्रेण षत्वं । धक्षि इति रूपं भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- सूरयः—सूज् प्राणिप्रसवे धातुः । सूजःक्रिः (उ. सू. ५-५०४) इति क्रि प्रत्ययः । कित्त्वात् गुणः न भवति । प्रत्ययस्वरः भवति । प्रथमाबहुवचनांतरूपं ।
+
+### Printed p. 198
+
+##### Grammar
+
+- त्वेषथात्—त्विस दीप्तौ धातुः । उणादिषु बहुलग्रहणात् अथ प्रत्ययः । तन्निमित्तीकृत्य धातोः लघोपधस्य गुणः । प्रत्ययस्य आद्युदात्तस्वरः भवति । पंचमीएकवचनांतरूपं ।
+- ईषते—ईष गतिहिंसादर्शनेषु धातुः । भ्वादिः । लट् प्रथमपुरुषबहुवचने झु प्रत्ययः । बहुलं छंदसि इति शपः लुक् । आत्मनेपदेष्टनतः (पा. सू. ७-१-५) इति झु प्रत्ययस्य अतादेशः । तिजंतनिघातस्वरः भवति ।
+- वयः—वा गतिगंधनयोः धातुः । वातेर्डिच्च (उ. सू. ५-५७३) इति इण् प्रत्ययः । डित्वविधानेन टेः लोपः । प्रत्ययस्वरः भवति । विः इति रूपं भवति । प्रथमाविभक्तिबहुवचनांतरूपं ।
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॒ ह्य॑ग्ने॒ वरु॑णो धृ॒तव्र॑तो मि॒त्रः शा॑श॒द्रे अ॑र्य॒मा  ॒॑
+> सुदानवः ।  
+> यत्सी॒मनु॒ क्रतु॑ना वि॒श्वथा॑ वि॒भुर॒रान्न ने॒मिः प॑रि॒भूरजा॑यथाः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । हि । अग्ने । वरुणः । धृतव्रतः । मित्रः । शाशद्रे । अर्यमा । सुदानवः ।  
+> यत् । सीं । अनु । क्रतुना । विश्वथा । विभुः । अरान् । न । नेमिः । परिभूः ।  
+> अजायथाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वया खलु वरुणो रात्र्यभिमानी देवो धृतव्रतः स्वीकृतवर्षणादिकर्मा भवति । तथा मित्रोऽहरभिमानी देवः शातद्रे । शातयति तमः ॥ शद्लृ
+> शातने । छांदसो लिज् । बहुलं छंदसीति रुट् । तुजादित्पादभ्यासदीर्घः ॥ तथा
+> र्यमोभयोर्मध्यवर्ति देवः सुदानवः शोभनदानो भवति ॥ व्यत्ययेन बहुवचनं ॥ यद्वा । एते वरुणादयः सुदानवः शोभनदानाः स्वस्वकार्यकर्तारस्त्वया
+
+##### Gist of the bhāṣya
+
+"O Agni, by you indeed Varuṇa, the deity presiding over night, is धृतव्रतः (*dhṛtavrataḥ*), one who carries on his acknowledged work such as sending rain. Likewise Mitra, the deity presiding over day, शातद्रे (*śātadre*): he dispels darkness (शातयति तमः (*śātayati tamaḥ*)), from the root शद्लृ (*śadlṛ*) in the sense of cutting; the Vedic perfect, the augment ruṭ and the lengthened reduplication are explained." Likewise Aryaman, the deity standing between the two, is सुदानवः (*sudānavaḥ*), one of good gifts; the plural is by vyatyaya. Or else: these, Varuṇa and the others, being good givers and each doing his own work, are by you … (the sentence continues in the next block).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वया हि (*tvayā hi*)—by you alone (with your help alone)
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- धृतव्रतः (*dhṛtavrataḥ*)—performs properly his duties (such as sending rain)
+- मित्रः (*mitraḥ*)—Mitra, the deity presiding over day
+- शास्त्रद्रे (*śāstradre*)—makes darkness **NOTE**
+- आर्यमा (*āryamā*)—Aryaman
+- सुदानवः (*sudānavaḥ*)—(becomes) an excellent giver
+- Or else:
+- धृतव्रतः (*dhṛtavrataḥ*)—performing his duty
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- सुदानवः (*sudānavaḥ*)—generous givers
+- मित्रः (*mitraḥ*)—Mitra
+- आर्यमा (*āryamā*)—and Aryaman also
+- त्वया हि (*tvayā hi*)—by you alone
+- शास्त्रद्रे (*śāstradre*)—become possessed of keen vitality
+- यत् (*yat*)—for which reason
+- सीं (*sīṃ*)—all around
+- क्रतुना (*kratunā*)—by all actions
+- अरान् (*arān*)—the spokes of the chariot
+- नेमिः न (*nemiḥ na*)—as the rim of a wheel encircles
+- विश्वथा (*viśvathā*)—as one whose nature is the universe
+- विभुः (*vibhuḥ*)—as all-pervading
+- परिभूः (*paribhūḥ*)—(by your brilliance) surpassing **NOTE**
+- अजायथाः (*ajāyathāḥ*)—you have been born
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Varuṇa, who properly performs his duty, and Mitra and Aryaman, generous givers, obtain keen vitality only through your help. For that very reason you too, as the rim of a wheel encircles the spokes of a chariot, have been born, by all your actions, as one whose nature is the universe and as all-pervading, and as one who by your brilliance has overcome everywhere.
+
+##### Printed English
+
+By you Agni, Varuna, observant of his duties, and Mitra aud Aryaman, bountiful divinities, are animated, so that you have been born comprehending them all universally in all ( their ) functions, and encompassing ( them all ) as the circumference ( encompasses ) the spokes (of a wheel).
+
+### Printed p. 199
+
+> हि शाशद्रे । तीक्ष्णिक्रियंते । हिशब्दो मंत्रांतरप्रसिद्धिद्योतनार्थः । त्वमग्ने
+> वरुणो जायसे । ऋ. ५-३-१ । इति हि मंत्रांतरं ॥ शदेः कर्मणि च्छांदसो लिट् ।
+> इरयो र इति रेभावः । हि चेति निघाताभावः ॥ वरुणादीनामग्न्यायत्तत्व उपपत्तिमाह । यद्यस्मात्कारणात् हे अग्ने सीं सर्वतः क्रतुना कर्मणा विश्वथा विश्व इव
+> विश्वात्मक इव विभुर्मित्रार्यमात्मना सर्वव्यापी परिभूः स्वतेजसा सर्वतः परिभाविता
+> सन्ननुक्रमेणाजायथाः जायसे प्रामर्भवसि । तत्र दृष्टांतः । अरान्रथस्य चक्रान्नेमिर्न वाह्यवलय इव । स यथा व्याप्य तिष्ठति तद्वयमग्निर्वरुणादीन्व्याप्य तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+… by you "are made keen" (तीक्ष्णिक्रियंते (*tīkṣṇikriyaṃte*)): this is शाशद्रे (*śāśadre*). The word हि (*hi*) shows what is well known from another mantra: त्वमग्ने वरुणो जायसे (*tvamagne varuṇo jāyase*) (Ṛ. 5-3-1), for this is the other mantra. (The grammar of शाशद्रे (*śāśadre*) and the absence of nighāta is added.) Sāyaṇa then states the ground for Varuṇa and the others being dependent on Agni. Because, O Agni, सीं (*sīṃ*) all around, by क्रतुना (*kratunā*) action, विश्वथा (*viśvathā*) as if universal, as if of the nature of the universe, विभुः (*vibhuḥ*) pervading all in the form of Mitra and Aryaman, परिभूः (*paribhūḥ*) being the one who excels all around by your own brilliance, you अजायथाः (*ajāyathāḥ*), were born, appeared, in due succession. The illustration: as the rim, the outer circle, does with the spokes of a chariot-wheel (अरान्रथस्य चक्रान्नेमिर्न वाह्यवलय इव (*arānrathasya cakrānnemirna vāhyavalaya iva*)). As it stands pervading them, so Agni stands pervading Varuṇa and the others.
+
+**Special Topics** *(begins on the next page)*
+
+### Printed p. 200
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa has construed the first half of this verse in two ways. According to the first construction, individual qualities and duties are assigned to the deities Varuṇa, Mitra and Aryaman, and it is said that all of them display their qualities and fulfil their duties only with Agni's help, so that the verse culminates in praise of Agni. According to this construction Varuṇa is the upholder of vows; Mitra is the destroyer of darkness; and Aryaman is a good giver.
+
+There is the authority of scriptural passages for this construction. Varuṇa is famous in the Ṛgveda as धृतव्रत (*dhṛtavrata*). In many places he is praised as the leader and teacher of all moral conduct.
+
+त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि वस्म ईड्यः । त्वमर‍्यमा सत्पतिर्यस्य संभुजं त्वमंशो विदथे देव भाजयुः ॥ (*tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi vasma īḍyaḥ | tvamaryamā satpatiryasya saṃbhujaṃ tvamaṃśo vidathe deva bhājayuḥ ‖*) (Ṛ. Saṃ. 2-1-4)
+
+As this verse says that Varuṇa the upholder of vows, Mitra the worthy of praise, and Aryaman the lord of the good are Agni himself, so in this verse too, in त्वया ह्यग्ने वरुणो धृतव्रतः (*tvayā hyagne varuṇo dhṛtavrataḥ*) and so on, it is said that Agni is the root cause of the working power of Varuṇa and the others. Moreover:
+
+सोऽग्नेरेको भागोऽथ यद्वारुणो यवमयश्चरुर्भदति यो वै वरुणः सोऽग्निः सोऽग्नेर्द्वितीयो भागः । (*so 'gnereko bhāgo 'tha yadvāruṇo yavamayaścarurbhadati yo vai varuṇaḥ so 'gniḥ so 'gnerdvitīyo bhāgaḥ |*) (Śa. Prā. 5-2-4-13) **NOTE**
+
+Passages such as this declare the identity of Agni and Varuṇa. For Mitra and Varuṇa, who are connected with Agni, there is the fixed role in the affairs of the world:
+
+क्रतूदक्षौ ह ना अस्य मित्रावरुणौ । एतन्न्यध्यात्मं स यदेव मनसा कामयत इदं मे स्यादिदं कुर्वीयेति स एव क्रतुरथ यदस्मै तत्समृध्यते स दक्षो मित्र एव क्रतुर्वरुणो दक्षो ब्रह्मैव मित्रः क्षत्रं वरुणः । (*kratūdakṣau ha nā asya mitrāvaruṇau | etannyadhyātmaṃ sa yadeva manasā kāmayata idaṃ me syādidaṃ kurvīyeti sa eva kraturatha yadasmai tatsamṛdhyate sa dakṣo mitra eva kraturvaruṇo dakṣo brahmaiva mitraḥ kṣatraṃ varuṇaḥ |*) (Śa. Jā. 4-1-4-1) **NOTE**
+
+In passages such as this, their mutual relation is explained: Mitra is the maker of the resolve, and Varuṇa is the maker of the action that fulfils that resolve.
+
+मित्रः शाशद्रे (*mitraḥ śāśadre*): अहरभिमानी देवः तमः शातयति (*aharabhimānī devaḥ tamaḥ śātayati*). Mitra is the deity presiding over day and the destroyer of all the black darkness of night; his function and his essential power are thus stated. Likewise, together with it, it is said that Varuṇa is the deity presiding over night.
+
+### Printed p. 201
+
+प्राणापानौह्येत् यदुपाग्श्वंतर्यामौ मित्रोहरजनयद्वरुणो रात्रिं ततो ना इदं व्याच्छद्यन्मैत्रावरुणो गृह्यते व्युष्टेश । (*prāṇāpānauhyet yadupāgśvaṃtaryāmau mitroharajanayadvaruṇo rātriṃ tato nā idaṃ vyācchadyanmaitrāvaruṇo gṛhyate vyuṣṭeśa |*) (Tai. Saṃ. 6-4-8-4)
+
+What is said in such Saṃhitā passages and in the Brāhmaṇas will be explained later in the sūktas 151–153 of this same adhyāya.
+
+According to the second construction, instead of saying "Mitra destroys darkness with the help of Agni", one must address Agni thus: त्वया हि मित्रः (*tvayā hi mitraḥ*), Varuṇa, Aryaman शाशद्रे (*śāśadre*); all these deities are animated by you alone.
+
+उषउषो हि वसो अग्रमेषि त्वं यमयोरभवो विभावा । ऋताय सप्त दधिषे पदानि जनयन्तित्रं तन्नॆ३ स्वाय्यै ॥ (*uṣauṣo hi vaso agrameṣi tvaṃ yamayorabhavo vibhāvā | ṛtāya sapta dadhiṣe padāni janayantitraṃ tannè3 svāyyai ‖*) (Ṛ. Saṃ. 10-8-4)
+
+Since in verses such as this Agni, as the begetter of Mitra and the others, is said to be the giver of vitality to them, the second construction also becomes possible.
+
+In the second half of the verse, the epithets विभुः (*vibhuḥ*) and परिभूः (*paribhūḥ*) indicate Agni's all-pervasiveness and supremacy. And since the actions and Agni are compared to the spokes and the rim of a chariot-wheel, the identity of Agni with sacrificial rites such as the yāga, and a relation that is fixed and inseparable, is understood.
+
+The sacrifice reflects the principle of the universe. The sacrificial altar, being the navel of the sacrifice, is the navel of the universe. Agni, established in this navel, is the centre of all principles of the universe and is all-pervading. The sun, moon and all the other heavenly bodies keep this centre as the support of their motions.
+
+दौर्ह त्वैषोऽग्निश्चितः । तस्याप एव परिश्रितो यथा ह ना इदं कोशः समुब्बित एवमिमे लोका अप्स्यंतस्तद्या इमां लोकान्परेणापस्ताः परिश्रितो देवा यजुष्मत्य इष्टका यदेवैतस्मिंल्लोकेऽन्नं तत्तूददोहा नक्षत्राणि पुरीषमाहुतयः समिध आदित्यो लोकं पृणा तद्वा एतत्सर्वमादित्यमेवाभिसंपद्यते तत्सर्वोऽग्निः ॥ (*daurha tvaiṣo 'gniścitaḥ | tasyāpa eva pariśrito yathā ha nā idaṃ kośaḥ samubbita evamime lokā apsyaṃtastadyā imāṃ lokānpareṇāpastāḥ pariśrito devā yajuṣmatya iṣṭakā yadevaitasmiṃlloke 'nnaṃ tattūdadohā nakṣatrāṇi purīṣamāhutayaḥ samidha ādityo lokaṃ pṛṇā tadvā etatsarvamādityamevābhisaṃpadyate tatsarvo 'gniḥ ‖*) (Śa. Brā. 10-5-4-3)
+
+सर्वाणि ह त्त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित आपो वै सर्वे देवास्सर्वाणि भूतानि ता हैता आप एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति ..... योऽयं हिरण्मयः पुरुषः ॥ (*sarvāṇi ha ttveva bhūtāni | sarve devā eṣo 'gniścita āpo vai sarve devāssarvāṇi bhūtāni tā haitā āpa evaiṣo 'gniścitastasya nāvyā eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ..... yo 'yaṃ hiraṇmayaḥ puruṣaḥ ‖*) (Śa. Brā. 10-5-4-14)
+
 ---
 
-**Progress note:** Done through printed p. 195. pp. 190-195 (batch API)
+**Progress note:** Done through printed p. 201. pp. 196-201 (batch API)
