@@ -7150,6 +7150,196 @@ In Ṛks of this kind it is well known that the manifestation of Agni, in the fo
 
 In Ṛks of this kind, Mātariśvan, for the benefit of Bhṛgu and Manu, the performers of sacrifice, brought to the earth Agni who had been hidden in a distant region, and to the earth for the benefit of all creatures
 
+### Printed p. 299
+(Continuing) It has also been done in many places. Therefore there are sound grounds for stating the first meaning.
+
+(2) If one examines what propriety there is in stating the second meaning, and whether it has sound grounds in support:
+
+व्योमनि (*vyomani*)—Here the word व्योमनि (*vyomani*) has been explained as वेदिदेशे (*vedideśe*). The form is derived from the root अव (*ava*), meaning protection, joined with the prefix वि (*vi*). As the etymology of this word, विविधरक्षणवति वेदिदेशे (*vividharakṣaṇavati vedideśe*) has been shown: the region of the altar furnished with manifold protections. This word is used in this sense in many places in the Ṛk-saṃhitā. For example:
+
+> ⟦इयं वेदिः परो अंतः पृथिव्या अयं यज्ञो भुवनस्य नाभिः⟧ ।
+> ⟦अयं सोमो वृष्णो अश्वस्य रेतो ब्रह्मायं वाचः परमं व्योम⟧ ।
+
+(Ṛ. Saṃ. 1-164-35)
+
+In this Ṛk the word for "sky/space" is explained as उत्कृष्टं रक्षकं स्थानं (*utkṛṣṭaṃ rakṣakaṃ sthānaṃ*), "a superior, protecting place"; and in
+
+> ⟦ऋतेन ऋतं धरुणं धारयंत यज्ञस्य शोके परमे प्रोमन्⟧ ।
+> ⟦दिपो धर्मन् धरुणो सेदुषो नृञ्चात्यैरजाता अभि ये नसक्षुः⟧ ॥
+
+(Ṛ. Saṃ. 5-15-2)
+
+it is explained as उत्कृष्टे स्थाने उत्तरवेद्यां (*utkṛṣṭe sthāne uttaravedyāṃ*), "in the superior place, on the northern altar", that is, on the excellent uttaravedi. In the same way, if in the present Ṛk too the word व्योम (*vyoma*) is taken to mean the altar, then the word मातरिश्व (*mātariśva*) becomes मातरि फलस्य निर्मातरि यज्ञे श्वसिति चेष्टते इति मातरिश्वा यजमानः (*mātari phalasya nirmātari yajñe śvasiti ceṣṭate iti mātariśvā yajamānaḥ*): since he is active in the sacrifice, the place of origin of every kind of fruit, मातरिश्वा (*mātariśvā*) means the sacrificer. It can therefore be explained that Agni, as soon as he was kindled, appeared on the altar facing the sacrificer.
+
+The Brāhmaṇa sentence
+
+> ⟦व्योमसदित्येष वै व्योमसदृश्योम वा एतत्सद्मनां यस्मिन्नेष आसन्नस्तपति⟧ ।
+
+(Ai. Brā. 18-20) also supports this meaning.
+
+If, by the first construction, मातरिश्व (*mātariśva*) means the wind, one must ask what relation Agni has to this Mātariśvan. If it is said that Agni appeared facing him, it means the two are different persons. But if the history stated here is examined a little more closely, certain grounds show that the two are identical.
+
+> ⟦उदुष्टुतः समिधा यहो अद्यौद्वर्ष्मन्विवो अधि नाभा पृथिव्याः⟧ ।
+> ⟦मित्रो अग्निरीड्र्यो मातरिश्वादूतो वक्षद्यजथाय देवान्⟧ ।
+
+(Khi. Saṃ. 9, 25-9).
+
+### Printed p. 300
+In this Ṛk Sāyaṇa explains the word मातरिश्वा (*mātariśvā*) as मातर्यंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति मातरिश्वा (*mātaryaṃtarikṣe śvasiti prāṇiti sūryarūpeṇa ceṣṭata iti mātariśvā*) or मातररण्यां श्वसिति निवसतीति मातरिश्वा (*mātararaṇyāṃ śvasiti nivasatīti mātariśvā*): Agni has this name either because he moves in the atmosphere in the form of the sun, or because he dwells in the mother-like fire-sticks. He has shown support for his explanation by saying that the Nirukta-writers too show this same etymology and take it to mean Agni. Likewise,
+
+> ⟦तं शुभ्रमग्निमवसे हवामहे वैश्वानरं मातरिश्वानमुक्थं⟧ ।
+> ⟦बृहस्पतिं मनुषो देवतातये विप्रं श्रोतारमतिथिं रघुष्यदं⟧ ॥
+
+(Ṛ. Saṃ. 3-26-2)
+
+in this Ṛk, and in Ṛ. Saṃ. 1-96-4 (स मातरिश्वा पुरुवारपुष्टिः (*sa mātariśvā puruvārapuṣṭiḥ*)), the identity of Agni and Mātariśvan is stated. And as is said in the present Ṛk (1-143-2),
+
+> ⟦उदस्तंभीत्समिधा नाकमृष्टोग्नि र्भवन्नुत्तमो रोचमानां⟧ ।
+> ⟦यदी भृगुभ्यः परि मातरिश्वा गुहा संतं हव्यवाहं समाधे⟧ ॥
+
+(Ṛ. Saṃ. 3-5-10)
+
+in this Ṛk it is clearly stated that the two are distinct. [But this is the very sentence of Ṛk 3-5-9 above, which states the identity of Agni and Mātariśvan, or says that the word मातरिश्वा (*mātariśvā*) is an epithet of Agni.]**NOTE**
+
+The other qualities and the power of Mātariśvan will be explained later in the contexts suitable to them.
+
+##### Grammar
+
+- जायमानः— जनी प्रादुर्भावे धातुः । लडर्थे शानच् प्रत्ययः । श्यन् विकरणम् । ज्ञाजनोर्जा (पा.सू. ७-३-७९) इति जादेशः । आने मुक् (पा.सू. ७-२-८२) इति सूत्रेण अदंतस्य मुकागमः । अदुपदेशस्य परत्र लसार्वधातुकस्य आगतत्वात् तास्यनुदात्तेत् (पा. सू. ६-१-१४६) इति तदनुदात्तं भवति । श्यन् नित्त्वात् आद्युदात्तस्वरः भवति ।
+- मातरिश्वने— मातरि स्वयतीति मारिश्वा । श्वन्नुक्सन् (उ. सू. १-१५७) इति कनि प्रत्ययांतत्वेन निपातितम् । चतुर्थी एकवचनांतरूपम् । प्रत्ययस्वरेण इकार उदात्तो भवति ।
+
+### Printed p. 301
+- क्रत्वा— क्रतु+आ इति सति जसादिषु छंदसि वाचनम् इति वचनेन नाभावः न भवति । यणादेशः ।
+- समिधानस्य— इंधी दिप्तौ धातुः । लडर्थे शानच् प्रत्ययः । बहुलंछंदसि इति विकरणस्य लुक् । प्रत्ययस्य जित्त्वात् अनिदितां इति उपधानकारलोपः । शानच् चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति । षष्ठीएकवचनांतरूपम् ।
+- मज्मना— टुमस्टो शुद्ध धातुः । अस्मात् औणादिको मनि प्रत्ययः । प्रत्ययस्वरेण मध्योदात्तो भवति ।**NOTE**
+- द्यावापृथिवी— दौश्च पृथिवी च द्यावापृथिव्यौ दिवोद्यावा (पा.सू. ६-३-२९) इति पूर्वपदस्य द्यावादेशः । छांदसत्वेन मध्ये शोचिः इति शब्दः आगतः । सुपां सुलुक् (पा. सू. ७-३-३९) इति द्वितीयाविभक्तेः पूर्वसवर्णदीर्घः भवति ।
+- अरोचयत्— रुच दीप्तौ धातुः । हेतुमति च (पा. सू. ६-१-३९) इति प्रयोजकव्यापारे द्योत्यमाने णिच् । पुगंतलघूपधस्यच इति लघूपधगुणः । लङ् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य त्वे॒षा अ॒जरा॑ अ॒स्य भा॒नवः॑ सुसं॒दृशः॑ सु॒प्रती॑कस्य सु॒द्युतः॑।  
+> भात्व॑क्षसो॒ अत्य॒क्तुर्न सिंध॑वो॒ऽग्ने रे॑जंते॒ अस॑संतो  ॒॑
+> अजराः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । त्वेषाः । अजराः । अस्य । भानवः । सुसंदृशः । सुप्रतीकस्य । सुद्युतः ।  
+> भात्वक्षसः । अति । अक्तुः । न । सिंधवः । अग्नेः । रेजंते । अससंतः । अजराः ॥ ३ ॥
+
+### Printed p. 302
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य स्तूयमानस्याग्नेस्तेषा दीप्तयोऽजरा जरारहिता अजीर्णाः ।
+> अविरता इत्यर्थः ॥ नञ्चो जरमरेत्यादिनोत्तरपदाद्युदात्तत्वं ॥ तथा सुप्रतीकस्य शोभनमुखस्यास्याग्नेर्भानवो रश्मयः । दीप्तेरुक्तत्वादत्र विस्फुलिंगा अवगंतव्याः । ते च सुसंदृशः सुष्टु सम्यग्रष्टारः । सर्वतो व्याप्ता इत्यर्थः ।
+> सुद्युतः सुष्टु सर्वतो द्योतमानाः । तथास्याग्नेर्भात्वक्षसः । त्वक्ष इति बलनाम
+> त्वक्षः शर्ध इति बलनामसु पाठात् । भासमानबलाः । अक्तुरिति रात्रिनामैतत् अक्तुरूर्म्योति तन्नामसूक्तत्वात् । द्वितीयार्थे प्रथमा । आक्तुं जगदंजकं नैशं
+> तमोऽत्यतिक्रम्य सिंधवः स्यंदमानाः सर्वत्र व्याप्नुवंतोऽससंतः स्वव्यापारेष्वस्वपंतोऽविरताः अत एवाजरा न रेजंते । न कंपंते । दाहपाकादिषु न चलंति
+> न चाल्यंते वानैः । यद्वा । नशब्दो दृष्टांतवचनः । भात्वक्षसो भा एव
+> त्वक्षो बलं यस्य तादृशस्यादित्यस्य सिंधवो न रश्मय इव । ते यथा स्यंदनशीला
+> व्याप्तिमंतोऽक्तुरति अंजकं तमोऽतिक्रम्याससंतो रेजंते तद्वद्दात्वक्षसोs
+> स्याग्नेरुक्तलक्षणा दीप्तयोऽपि सर्वत्र रेजंते । कंपंते । व्याप्नुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Of this Agni who is being praised, the radiances (त्वेषाः (*tveṣāḥ*)) are अजराः (*ajarāḥ*): free of old age, undecaying, that is, unceasing. The accent on the first syllable of the second member follows the rule beginning नञ्चो जरमर (*nañco jaramara*). Likewise the rays (भानवः (*bhānavaḥ*)) of this Agni of fair face (सुप्रतीकस्य (*supratīkasya*)); since radiance has been mentioned, sparks are to be understood here. They are सुसंदृशः (*susaṃdṛśaḥ*), well and fully seen, that is, spread everywhere; and सुद्युतः (*sudyutaḥ*), shining well in all directions. Likewise of this Agni who is भात्वक्षसः (*bhātvakṣasaḥ*): त्वक्ष (*tvakṣa*) is a name for strength, since त्वक्षः शर्ध (*tvakṣaḥ śardha*) is read among the names of strength; thus "of shining strength". अक्तुः (*aktuḥ*) is a name of night, as it is recited among its names (अक्तुरूर्म्योति (*akturūrmyoti*) etc.); the nominative stands in the sense of the accusative. Passing beyond the night-darkness that smears the world, the सिंधवः (*siṃdhavaḥ*), flowing and pervading everywhere, अससंतः (*asasaṃtaḥ*), not sleeping in their own activities, unceasing, and therefore undecaying, न रेजंते (*na rejaṃte*) do not tremble; in burning, cooking and so on they do not waver, nor are they moved by winds.
+
+Or else: the word न (*na*) expresses comparison. Like the rays of the sun, whose strength is light itself (भात्वक्षसः (*bhātvakṣasaḥ*)), which, flowing and pervasive, pass beyond the smearing darkness and without sleep रेजंते (*rejaṃte*) shine tremulously, so the radiances of this Agni, of the stated character, tremble, that is, pervade, everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Agni
+- त्वेषाः (*tveṣāḥ*)—the radiances
+- अजराः (*ajarāḥ*)—free of decay
+- सुप्रतीकस्य (*supratīkasya*)—of him with excellent face
+- अस्य (*asya*)—of this Agni
+- भानवः (*bhānavaḥ*)—rays (sparks)
+- सुसंदृशः (*susaṃdṛśaḥ*)—pervading so as to be visible to all
+- सुद्युतः (*sudyutaḥ*)—very bright
+- अग्नेः (*agneḥ*)—of Agni
+- भात्वक्षसः (*bhātvakṣasaḥ*)—the powers of the nature of light
+- अक्तुः (*aktuḥ*)—the darkness that pervades (the world)
+- अति (*ati*)—pushing through (piercing)
+- सिंधवः (*siṃdhavaḥ*)—flowing ones
+- अससंतः (*asasaṃtaḥ*)—without interruption (in their activities)
+- अजराः (*ajarāḥ*)—not wasting
+- न रेजंते (*na rejaṃte*)—do not hold back (in their tasks)
+- (Or) भात्वक्षसः (*bhātvakṣasaḥ*)—of the sun, whose strength is of the nature of light
+- सिंधवो न (*siṃdhavo na*)—like rays
+- अक्तुः अति (*aktuḥ ati*)—piercing the darkness
+- अससंतः (*asasaṃtaḥ*)—without the least interruption (in their duties)
+- रेजंते (*rejaṃte*)—pervade in the form of tremor
+
+##### भावार्थ (Bhāvārtha)
+
+The radiances of Agni are undecaying. The sparks, the instruments of this Agni of excellent face, pervade so as to be visible to all and are exceedingly bright. The brilliance of this Agni, like the rays of the sun whose strength is of the nature of light, pierces the darkness that envelops the world and, with uninterrupted activity, unwasting, pervades the world.
+
+### Printed p. 303
+
+##### Printed English
+
+His radiance is undecaying ; the rays of him who is of pleasing aspect, are everywhere visible and bright : the intensely shining, all-pervading, unceasing, undecaying (rays) of Agni, desist not (from their functions).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the radiance of Agni, and his power of the nature of light, destroying the black darkness and ever intent on its duty, are described.
+
+सुप्रतीकस्य (*supratīkasya*)—प्रतीकं मुखं प्रकाशाख्यं दर्शनं वा (*pratīkaṃ mukhaṃ prakāśākhyaṃ darśanaṃ vā*). The word प्रतीक (*pratīka*) means either face or a radiant appearance. The Nirukta-writer, quoting
+
+> ⟦यावन्मात्रमुषसो न प्रतीकं सुपर्ण्यो३वसते मातरिश्वः⟧ ।
+> ⟦तावद्दधात्युप यज्ञमायन् ब्राह्मणो होतुरवरो निषिदन्⟧ ॥
+
+(Ṛ. Saṃ. 10-88-19)
+
+has taken it in the sense of radiant appearance. Here the word is used so as to include both meanings: the shining face of the Agni who has appeared.
+
+भानवः (*bhānavaḥ*)—The word भानु (*bhānu*) can mean both the sun and rays.
+
+> ⟦उदपप्तन्नरुणा भानवो वृथा स्वायुजो अरुषीर्गा आयुक्षत⟧ ।
+> ⟦अक्रन्नुषासो वयुनानि पूर्वथा रुशंतं भानुमरुषी रशिश्रयुः⟧ ।
+
+(Ṛ. Saṃ. 1-92-2)
+
+In this Ṛk the golden-hued radiances of the Ushas goddesses darted upward .... .... .... .... then, joined with their splendour, they united with the bright-hued sun; thus both meanings of भानु (*bhānu*) appear in one Ṛk. In the Aitareya Brāhmaṇa,
+
+> ⟦कविशस्तो बृहता भानुनागा हव्या जुषस्व⟧ ।
+
+(Ai. Brā. 2-12)
+
+Agni is entreated: "Come with your great splendour and be gracious." Likewise here too the meaning is the radiant rays of Agni.
+
+सुसंदृशः (*susaṃdṛśaḥ*)—सुष्टु सम्यग्रष्टारः । सर्वतो व्याप्ता इत्यर्थः । (*suṣṭu samyagraṣṭāraḥ | sarvato vyāptā ityarthaḥ |*) The meaning is: pervading so as to be visible to all.
+
+### Printed p. 304
+अक्तुः (*aktuḥ*)—This word is read among the 23 names of night, श्यावी, क्षपा, शर्वरी (*śyāvī, kṣapā, śarvarī*) and so on (Ni. 1-18). In many places अक्तु (*aktu*) means just night. The word is also used in the senses of darkness, ray, weapon and so on. Since the root अंज् (*aṃj*) has the meanings cover, conceal, smear, the meanings arise: darkness that covers with shade; a ray that envelops all around; a weapon that covers the body. For example:
+
+> ⟦घनेव विष्वग्वि जह्यराष्ट्रपुर्जंभ यो अस्मध्रुक्⟧ ।
+> ⟦यो मर्त्यः शिशीते अत्यक्तुभिर्मा नः स रिपुरीशत⟧ ॥
+
+(Ṛ. Saṃ. 1-36-16)
+
+In this Ṛk the word अक्तुभिः (*aktubhiḥ*) is explained as अवरकैरायुधैः (*avarakairāyudhaiḥ*). But in this meaning the word is used rarely. Its use in the meanings darkness, and night enveloped by darkness, is more frequent.
+
+> ⟦उत्तानायामजनयन्तुषूतं भुवदग्निः पुरुषेशासु गर्भः⟧ ।
+> ⟦शिरिणायां चिदक्तुना महोभिरपरीवृतो वसति प्रचेताः⟧ ॥
+
+(Ṛ. Saṃ. 2-10-3)
+
+In such Ṛks, अक्तुना (*aktunā*) is explained as अंजनादक्तुस्तमः (*aṃjanādaktustamaḥ*): darkness is अक्तु (*aktu*) because it pervades. So in the present Ṛk too the meaning is the darkness that pervades the world. The radiance of Agni drives out such black darkness.
+
+अससंतः (*asasaṃtaḥ*)—स्वव्यापारेषु अस्वसंतः अविरताः (*svavyāpāreṣu asvasaṃtaḥ aviratāḥ*). The meaning is: in their own activities, without sloth, with unbroken devotion to work. The Nirukta-writer, quoting
+
+> ⟦अति वायो ससतो याहि शश्वतो यत्र ग्रावा वदति तत्र गच्छतं गृहमिंद्रश्च गच्छतं⟧ ।
+> ⟦वि सूनृता ददृशे रीयते धृतमा पूर्णया नियुता याथो अध्वरमिंद्रश्च याथो अध्वरं⟧ ॥
+
+(Ṛ. Saṃ. 1-135-7)
+
+explains ससतः (*sasataḥ*) as अलस्यादिना निद्रां कुर्वतः (*alasyādinā nidrāṃ kurvataḥ*). The meaning is: without such sloth and sleep, ever engaged in their activities.
+
+भात्वक्षसः (*bhātvakṣasaḥ*)—त्वक्ष इति बलनाम, 'त्वक्षः, शर्धः' इति बलनामसु (नि३-९) पाठात् । भासमानबलाः । (*tvakṣa iti balanāma, 'tvakṣaḥ, śardhaḥ ' iti balanāmasu (ni3-9) pāṭhāt | bhāsamānabalāḥ |*) The word त्वक्ष (*tvakṣa*) is read among the names of strength. The meaning is: powers of the nature of light.
+
 ---
 
-**Progress note:** Done through printed p. 298. pp. 293-298 (batch API)
+**Progress note:** Done through printed p. 304. pp. 299-304 (batch API)
