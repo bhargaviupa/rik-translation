@@ -15042,6 +15042,153 @@ Vṛtra, the harmer of all three worlds, stood grown by his distorted and harmfu
 
 उत माता महिषमन्ववेनदमी त्वा जहति पुत्र देवाः । अथाब्रवीद्वृत्रमिंद्रो हनिष्यन्सखे विष्णो वितरं वि क्रमस्व ॥ (*uta mātā mahiṣamanvavenadamī tvā jahati putra devāḥ | athābravīdvṛtramiṃdro haniṣyansakhe viṣṇo vitaraṃ vi kramasva ‖*) (Ṛ. Saṃ. 4-18-11)
 
+### Printed p. 624
+
+…in the Ṛk (4-18-11 **NOTE**) Indra's mother, seeing the unchecked growth of Vṛtra, grew anxious, and Indra then prayed to Viṣṇu in the manner described above. In both of the situations cited above there is the matter of Viṣṇu's wide-spreading growth. The same situation is also described in the Taittirīya Saṃhitā, which sets out the threefold expansion in the three worlds that is indicated in the description त्रिभिरिद्विगामभिः (*tribhiridvigāmabhiḥ*).
+
+असीद्यदि ना तावदध्यग्नेरासीत्स संभवन्नग्नीषोमावभि समभवथ्य इषुमात्र मिषुमात्रं विष्वज्जवर्धत स इमान् लोकानावृणोद्यदिमान् लोकान वृणोत्तद्वत्रस्य वृत्रत्वं तस्मादिंद्रोऽबिभेदपि त्वष्टा तस्मै त्वष्टावज्रमसिंचत्तपो वै स वज्र आसीत्तमुद्यंतुं नाशक्कोदथ वै तर्हि विष्णुरन्या देवतासीत्सोब्रवीद्विष्णवेहीदना हरिष्यावो येनायमिदमिति स विष्णुस्रेधात्मानं वि न्यधत्त पृथिव्यां तृतीयमंतरिक्षे तृतीयं दिवि तृतीयमभिपर्यावर्ताद्द्य बिभेद्यत्पृथिव्यां तृतीयमासीत्तेनेंद्रो वज्र मुदयच्छद्विष्णुनुस्थितस्सोऽब्रवीन्मामे प्र हारस्ति वा इदं मयि वीर्यं तत्ते प्र दास्यामीति (*asīdyadi nā tāvadadhyagnerāsītsa saṃbhavannagnīṣomāvabhi samabhavathya iṣumātra miṣumātraṃ viṣvajjavardhata sa imān lokānāvṛṇodyadimān lokāna vṛṇottadvatrasya vṛtratvaṃ tasmādiṃdro 'bibhedapi tvaṣṭā tasmai tvaṣṭāvajramasiṃcattapo vai sa vajra āsīttamudyaṃtuṃ nāśakkodatha vai tarhi viṣṇuranyā devatāsītsobravīdviṣṇavehīdanā hariṣyāvo yenāyamidamiti sa viṣṇusredhātmānaṃ vi nyadhatta pṛthivyāṃ tṛtīyamaṃtarikṣe tṛtīyaṃ divi tṛtīyamabhiparyāvartāddya bibhedyatpṛthivyāṃ tṛtīyamāsītteneṃdro vajra mudayacchadviṣṇunusthitasso 'bravīnmāme pra hārasti vā idaṃ mayi vīryaṃ tatte pra dāsyāmīti*)
+(Kṛ. Saṃ. 2-4-12-2) **NOTE**
+
+Formerly Vṛtra, born from the sacrificial fire, spread very quickly over all the worlds. He grew as fast as an arrow leaves a bow, and with a vast extent. For that very reason he got the name Vṛtra. Seeing this, fear arose in Indra. Then Tvaṣṭṛ made the thunderbolt and gave it to Indra, telling him to strike Vṛtra with it. Indra could not even lift the thunderbolt, which was born of the power of austerity. Viṣṇu was standing close by at the time. Indra prayed to Viṣṇu to help him in slaying Vṛtra; Viṣṇu agreed, divided his body into three parts, and placed one part on the earth, one in the atmosphere, and the remaining third in the heaven-world. With the help of the part of Viṣṇu's body that was on the earth, Indra lifted the thunderbolt.
+
+### Printed p. 625
+
+Then Vṛtra, frightened, told Indra that he should not be struck and that he would give up his valour that was on the earth; when he did so, Indra handed it over to Viṣṇu. In the same way he seized Vṛtra's valour in the atmosphere and in the heaven-world and handed it to Viṣṇu. Thus he received help from Viṣṇu three times, and in return gave him his own strength three times; therefore, as was stated earlier, the oblation offered as a part of this occasion is well known by the name Tridhātu. In this way Viṣṇu's greatness, who pervaded the three worlds, stood in them, and caused all three worlds to grow widely, is praised with त्रिभिरिद्विगामभिः उरु क्रमिष्ट (*tribhiridvigāmabhiḥ uru kramiṣṭa*).
+
+##### Grammar
+
+- तत्तत्—नित्यवीप्सयोः (पा. सू. ८-१-४) इति द्विर्वचनं भवति । परस्य आम्रेडितसंज्ञायां जातायां अनुदात्तं च (पा. सू. ८-१-३) इति तदनुदात्तं भवति ।
+- गृणीमसि—गृ शब्दे धातुः । क्र्यादिः । लट् उत्तमपुरुषबहुवचने मस् प्रत्ययः । इदंतोमसिः (पा. सू. ७-१-४६) इति तस्य इकारागमः । क्र्यादिभ्यः श्ना (पा. सू. ३-१-८१) इति श्ना विकरणः । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोः ह्रस्वो भवति । हलादौ जुत् प्रत्यये परे ई हल्यघोः (पा. सू. ६-४-११३) इति विकरणस्य ईत्वम् । ऋकारस्य परत्वात् णत्वम् । तिजंतनिघातस्वरो भवति ।
+- इनस्य—इण् गतौ धातुः । इण् सिंजि—(उ. सू. २-२८२) इति नक् प्रत्ययः । कित्त्वात् गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । षष्ठीएकवचनांतरूपम् ।
+- त्रातुः—त्रैज् पालने । कर्तरि तृच् प्रत्ययः । आदेच उपदेशेशिति (पा. सू. ६-१-४५) इति धातोः आत्वम् । चित्त्वात् अंतोदात्तस्वरो भवति । षष्ठीएकवचने परे ऋत उत् इति उत्वे रपरे जाते रात् सस्य इति सकारस्य लोपः । रेफस्य विसर्गः ।
+- अवृकस्य—न विद्यते वृकः यस्य अवृकः तस्य—नञ्सुभ्याम् (पा. सू. ९-१-१३२) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- मीढुषः—मिह सेचने धातुः । दाश्वान् स्वाहान् मीढ्वांश्च (पा. सू. ९-१-१२) इति क्वसुप्रत्ययांतो निपातितः । षष्ठ्यां भसंज्ञायां वसोःसंप्रसारणम् इति संप्रसारणम् । पूर्वरूपम् । शासिवसिघसीनांच इति सकारस्य षत्वम् । वसोः स्वरो भवति ।
+
+### Printed p. 626
+
+##### Grammar
+
+- क्रमिष्ट—क्रमु पादविक्षेपे धातुः । लुज् प्रथमपुरुषएकवचने त प्रत्ययः । च्लेः सिचादेशः । अर्धधातुकस्येड्वलादेः इति तस्य इडागमः । आदेशप्रत्यययोः इति सिचः सकारस्य षत्वम् । तन्निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । बहुलं छंदस्यमाज्‌योगेऽपि इति अडागमो न भवति । यच्छब्दसंबंधात् निघातस्वरो न भवति । धातुस्वरः अवतिष्ठते ।
+- जीवसे—जीव प्राणधारणे धातुः । तुमर्थे सेसेनसे—(पा. सू. ३-४-९) इति तुमर्थे असे प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । एजंतत्वात् कैन्मेजंतः इति अव्ययसंज्ञा भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वे इद॑स्य॒ क्रम॑णे स्व॒र्दृशो॑ऽभि॒ख्याय॒ मत्यो॑र्व भुरण्यति ।  
+> तृ॒तीय॑मस्य॒ नकि॒रा द॑धर्षति॒ वय॑श्च॒न प॒तयं॑तः पत॒त्रिणः॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वे इति । इत् । अस्य । क्रमणे इति । स्वःदृशः । अभिख्याय । मर्त्यः । भुरण्यति ।  
+> तृतीयं । अस्य । नकिः । आ । दधर्षति । वयः । चन । पतयंतः । पतत्रिणः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य स्वर्दृशः स्वर्गस्य सर्वस्य वा द्रष्टुर्विष्णोर्द्वे इत् क्रमणे द्वे एव पदे
+> मर्त्यो मनुष्योऽभिख्याय सर्वभूत्यादिना प्रख्याय भुरण्यति । गच्छति । भजते।
+> भुरण्यतिः कण्णाद्दिर्गतिकर्मा भुरण्यति शवतीति तत्कर्मसु पाठात् । प्रसिद्धत्वाद्मूलोकं वृष्टागमनादंतरिक्षं चेत्युभे क्रमणे जानाति । अस्य विष्णोस्तृतीयं
+> क्रमणं द्युलोकाख्यं कोऽपि मर्त्योनकिर्नैवा दधर्षति ! बुद्ध्या नाभिभवति ।
+> ज्ञातुं न शक्नोतीत्यर्थः । न केवलं मनुष्य एव अपि तु वयश्चन वेतारो मरुतोऽपि ! कीदृशास्ते । पतयंतः सर्वत्र गमनसमर्थाः तथा पतत्रिणः पतनशीला
+> गरुडादयो वायवो वा नकिरा दधर्षति । नैव शक्नु वंति ॥ धृषेर्लॆट्यडागमः ॥
+> सत्यलोकस्यात्यंतविप्रकृष्टत्वेन सर्वेषामविषयत्पादिति भावः ॥
+
+##### Gist of the bhāṣya
+
+Of this Viṣṇu, who is स्वर्दृशः (*svardṛśaḥ*), the beholder of heaven or of everything, only द्वे इत् क्रमणे (*dve it kramaṇe*), two steps, are known to mortal man, who goes about (or resorts to, worships) having glorified them by their universal-being and so on. भुरण्यति (*bhuraṇyati*) means "goes", "resorts to"; he cites the Nighaṇṭu, where भुरण्यति (*bhuraṇyati*) is read among the words for going and for activity. Because they are well known, man knows the two steps: the earth, and the atmosphere through the coming of rain. The third step of this Viṣṇu, called the heaven-world, no mortal at all ventures upon (दधर्षति (*dadharṣati*)): he cannot overcome it by understanding, that is, he cannot know it. Not men only: even वयश्चन (*vayaścana*), the Maruts, who are "knowers". What are they like? They are पतयंतः (*patayaṃtaḥ*), able to go everywhere; and पतत्रिणः (*patatriṇaḥ*), those given to flying, such as Garuḍa and the rest, or the winds: these too cannot venture upon it. The augment aṭ in दधर्षति (*dadharṣati*) is the Vedic leṭ of the root dhṛṣ. The sense is that, since the Satya-world is extremely remote, it lies beyond the range of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्दृशः (*svardṛśaḥ*)—of the one who beholds everything or the heaven-world
+- अस्य (*asya*)—of this Viṣṇu
+- द्वे इत् क्रमणे (*dve it kramaṇe*)—only two steps (only the earth and the atmosphere, where he sets two steps)
+- मर्त्यः (*martyaḥ*)—man
+- अभिख्याय (*abhikhyāya*)—having praised
+- भुरण्यति (*bhuraṇyati*)—(moves about) comes to know
+- अस्य (*asya*)—of this Viṣṇu
+- तृतीयं (*tṛtīyaṃ*)—the heaven-world, where he sets the third step
+- नकिः आ दधर्षति (*nakiḥ ā dadharṣati*)—(no man) can at all know it
+- पतयंतः (*patayaṃtaḥ*)—(in all regions) capable of moving about
+- वयश्चन (*vayaścana*)—the Maruts also (likewise)
+- पतत्रिणः (*patatriṇaḥ*)—birds also (cannot know it)
+
+### Printed p. 627
+
+##### भावार्थ (Bhāvārtha)
+
+Man comes to know, by praising them, only the earth and the atmosphere, where Viṣṇu, the beholder of heaven, sets two steps. The heaven-world, where this Viṣṇu sets the third step, no man at all can know. The Maruts, who are able to move about in all regions, and likewise the birds, cannot know it.
+
+##### Printed English
+
+Man, glorifying (Vishnu), tracks two steps of that heaven-beholding (deity), but he apprehends not the third ; nor can the soaring-winged birds (pursue it).
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वर्दृशः (*svardṛśaḥ*)—स्वर्गस्य सर्वस्य वा द्रष्टुः (*svargasya sarvasya vā draṣṭuḥ*). This is an epithet of Viṣṇu, "beholding heaven" or "knowing everything". The word is used in both senses; but first one should examine the derivation of the word स्वर् (*svar*) and its uses in different senses, and then the nature of the compound स्वर्दृशः (*svardṛśaḥ*) can be understood.
+
+This word is read among the common names, स्वः (*svaḥ*), पृश्निः (*pṛśniḥ*), नाकः (*nākaḥ*) and so on. साधारणान्युत्तराणि षड्डिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaḍḍivaścādityasya ca*) (Ni. 2-13). The Nirukta authors state that the six words स्वः (*svaḥ*), पृश्निः (*pṛśniḥ*), नाकः (*nākaḥ*), गौः (*gauḥ*), विष्टपं (*viṣṭapaṃ*) and नभः (*nabhaḥ*) are common designations, both synonyms of the heaven-world and synonyms of the Āditya (Sun). Then, explaining, for the use as a synonym of the Āditya, what the root of स्वर् (*svar*) is and what the derivation of the word is, they say:
+
+स्वरादित्यो भवति सु अरणः, सु ईरणः, स्वृतो रसान्, स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा । (*svarādityo bhavati su araṇaḥ, su īraṇaḥ, svṛto rasān, svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā |*)
+(Ni. 2-14)
+
+### Printed p. 628
+
+The Nirukta authors explain that the Āditya has this name either because he is very far away, or because he scatters and wholly destroys (darkness), or because he enters into the sap and becomes inward with it, or because he spreads his radiance into the orb of light and becomes one with it, or because he pervades the universe in the form of brightness; and that for this very reason, एतेन द्यौर्व्याख्याता (*etena dyaurvyākhyātā*), the heaven-world too has this name.
+
+स्वरादित्यो भवति स एनानि सारयति (*svarādityo bhavati sa enāni sārayati*)
+(A. 5-4) **NOTE**
+
+The Āditya has the name स्वः (*svaḥ*) also because he makes the days move. In the Ṛgveda-Saṃhitā, in Ṛks such as
+
+प्रत्यज् देवानां विशः प्रत्यज्जुदेषि मानुषान् । प्रत्यङ्विश्वं स्वर्दृते ॥ (*pratyaj devānāṃ viśaḥ pratyajjudeṣi mānuṣān | pratyaṅviśvaṃ svardṛte ‖*)
+(Ṛ. Saṃ. 1-210-5)
+
+the word is taken as the Svar-world; in places such as
+
+त्मना वहंतो दुरो व्यृण्वन्नवंत विश्वे स्वर्दृशीके । (*tmanā vahaṃto duro vyṛṇvannavaṃta viśve svardṛśīke |*)
+(Ṛ. Saṃ. 1-69-10)
+
+it is taken as स्व-नभसि (*sva-nabhasi*), "in the sky", the atmosphere; and in Ṛks such as
+
+दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि । प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि विद्युतुः ॥ (*dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi | prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi vidyutuḥ ‖*)
+(Ṛ. Saṃ. 2-2-7)
+
+it is taken as the Āditya.
+
+For the compound स्वर्दृशः (*svardṛśaḥ*) the meaning given above, "beholding heaven" or "beholding everything", has been adopted. Not only that, but according to the context other derivations have also been shown and meanings given. Taking some examples:
+
+सम्राजावस्य भुवनस्य राजथो मित्रावरुणा विदथे स्वर्दृशा । वृष्टिं नां राधो अमृतत्वमीमहे द्यावापृथिवी वि चरंति तन्यवः ॥ (*samrājāvasya bhuvanasya rājatho mitrāvaruṇā vidathe svardṛśā | vṛṣṭiṃ nāṃ rādho amṛtatvamīmahe dyāvāpṛthivī vi caraṃti tanyavaḥ ‖*)
+(Ṛ. Saṃ. 5-63-2)
+
+In this Ṛk the word स्वर्दृशा (*svardṛśā*) is an epithet of Mitra and Varuṇa. It can be explained in two ways. First, taking स्वर् (*svar*) as the Āditya, स्वर्दृशा (*svardṛśā*) can mean, like the words तादृशः (*tādṛśaḥ*) and मादृशः (*mādṛśaḥ*), "like the Sun", that is, "equal to the Sun", or "shining with the brilliance of the Āditya". The scholar Peterson, explaining the meaning of this word, gives the opinions of Oldenberg and other scholars as follows:
+
+### Printed p. 629
+
+I) स्वर्दृश (*svardṛśa*) appearing (dazzling) like the Sun (used of the Gods, ) ii) looking on the Sun, i. e. alive or (Geldner) seeing with Sun's light (used of men in four places). Geldner thinks that the latter Interpretation will do in all cases. विदथे स्वर्दृशा (*vidathe svardṛśā*) is probably to be understood as "appearing dazzling at the sacrifice".
+( Hymns from the Rig-Veda—II Series. P. 318 )
+
+The gist of this opinion has been given above. Besides this:
+
+अश्मास्यमवतं ब्रह्मणस्पतिर्मधुधारमभि यमोजसातृणत् । तमेव विश्वे पपिरे स्वर्दृशो बहु साकं सिसिचुरुत्समुद्रिणं ॥ (*aśmāsyamavataṃ brahmaṇaspatirmadhudhāramabhi yamojasātṛṇat | tameva viśve papire svardṛśo bahu sākaṃ sisicurutsamudriṇaṃ ‖*)
+(Ṛ. Saṃ. 2-24-4)
+
+In this Ṛk the word स्वर्दृशः (*svardṛśaḥ*) is explained as स्वः आदित्यः तस्य संबंधिनो द्रष्टारो रश्मयः (*svaḥ ādityaḥ tasya saṃbaṃdhino draṣṭāro raśmayaḥ*), that is, the rays of the Āditya (Sun); and
+
+शुचिं न यामन्निषिरं स्वर्दृशं केतुं दिवो रोचनस्थामुषर्बुधं । अग्निं मूर्धानु दिवो आप्रतिष्ठुतं तमीमहे नमसा वाजिनं बृहत् (*śuciṃ na yāmanniṣiraṃ svardṛśaṃ ketuṃ divo rocanasthāmuṣarbudhaṃ | agniṃ mūrdhānu divo āpratiṣṭhutaṃ tamīmahe namasā vājinaṃ bṛhat*)
+(Ṛ. Saṃ. 3-2-14)
+
+here the word स्वर्दृशं (*svardṛśaṃ*) is an epithet of अग्निं (*agniṃ*) and, as Sāyaṇa says in the Ṛk under discussion, is explained as सर्ववृशं सर्वपदार्थविज्ञानयुक्तं (*sarvavṛśaṃ sarvapadārthavijñānayuktaṃ*) **NOTE**, that is, Agni, endowed with special knowledge by which he knows everything.
+
+जनूश्चिद्वो मरुतस्त्वेष्येण भीमासस्तु विमन्यवोऽयासः । प्र ये महोभिरोजसोत संति विश्वो वो यामन् भयते स्वर्दृक् ॥ (*janūścidvo marutastveṣyeṇa bhīmāsastu vimanyavo 'yāsaḥ | pra ye mahobhirojasota saṃti viśvo vo yāman bhayate svardṛk ‖*)
+(Ṛ. Saṃ. 7-58-2)
+
+In this Ṛk, सूरस्य द्रष्टा सर्वो जीवसमूहः (*sūrasya draṣṭā sarvo jīvasamūhaḥ*): the whole multitude of living beings that behold the Sun; or else स्वरंतरिक्षं । तत्पश्यतीति वृक्षः स्वर्दृक् सर्वदोत्तिष्ठन्नित्यर्थः । (*svaraṃtarikṣaṃ | tatpaśyatīti vṛkṣaḥ svardṛk sarvadottiṣṭhannityarthaḥ |*): the word स्वर् (*svar*) is explained as the atmosphere, and a tree, which always stands upward-facing and looks at the atmosphere, is named स्वर्दृक् (*svardṛk*).
+
+यत्रा नरः समयंते कृतध्वचो यस्मिन्ना जा भवति किं चन प्रियं । यत्रा भयंते भुवना स्वर्दृशस्त्रत्रा न इंद्रावरुणाधि वोचतं ॥ (*yatrā naraḥ samayaṃte kṛtadhvaco yasminnā jā bhavati kiṃ cana priyaṃ | yatrā bhayaṃte bhuvanā svardṛśastratrā na iṃdrāvaruṇādhi vocataṃ ‖*)
+(Ṛ. Saṃ. 7-83-2)
+
+Here it is an epithet of heroes who are turned towards heaven. Having thus shown that meanings according to context are possible, he (Sāyaṇa) in the Ṛk under discussion explains स्वर्गस्य द्रष्टुः (*svargasya draṣṭuḥ*) or सर्वस्य द्रष्टुः (*sarvasya draṣṭuḥ*), of Viṣṇu, as…
+
 ---
 
-**Progress note:** Done through printed p. 623. pp. 618-623 (batch API)
+**Progress note:** Done through printed p. 629. pp. 624-629 (batch API)
