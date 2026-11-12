@@ -7340,6 +7340,133 @@ explains ससतः (*sasataḥ*) as अलस्यादिना निद�
 
 भात्वक्षसः (*bhātvakṣasaḥ*)—त्वक्ष इति बलनाम, 'त्वक्षः, शर्धः' इति बलनामसु (नि३-९) पाठात् । भासमानबलाः । (*tvakṣa iti balanāma, 'tvakṣaḥ, śardhaḥ ' iti balanāmasu (ni3-9) pāṭhāt | bhāsamānabalāḥ |*) The word त्वक्ष (*tvakṣa*) is read among the names of strength. The meaning is: powers of the nature of light.
 
+### Printed p. 305
+
+*Special Topics (continued)*
+
+इंद्रियं वीर्यमात्मनत्ते तेजो ना अग्निरिंद्रियं वीर्यमिंद्र उभे वीर्ये । ( (*iṃdriyaṃ vīryamātmanatte tejo nā agniriṃdriyaṃ vīryamiṃdra ubhe vīrye | (*) (Śa. Brā. 5-2-3-9). As described in such passages, Agni's powers in the form of radiance are described here too.
+
+Sāyaṇa has shown that the second half of this Ṛk admits two constructions. First: the words सिंधवः (*siṃdhavaḥ*), अससंतः (*asasaṃtaḥ*) and अजराः (*ajarāḥ*) are adjectives of भात्वक्षसः (*bhātvakṣasaḥ*). The radiant powers are flowing, unbroken in their operations, and undiminished; and न रेजंते (*na rejaṃte*) is taken in negative form: they do not shrink back from their works.
+
+Second: न शब्दो दृष्टांतवचनः । भात्वक्षसो भा एव त्वक्षो बलं यस्य तादृशस्यादित्यस्य सिंधवो न रश्मय इव । ते यथा स्यंदनशीला व्याप्तिमंतः अक्तुरति अंजकं तमः अतिक्रम्य अससंतो रेजंते तद्वत् भात्वक्षसोऽस्याग्नेरुक्तलक्षणा दीप्तयोऽपि सर्वत्र रेजंते कंपंते व्याप्नुवंतीत्यर्थः । (*na śabdo dṛṣṭāṃtavacanaḥ | bhātvakṣaso bhā eva tvakṣo balaṃ yasya tādṛśasyādityasya siṃdhavo na raśmaya iva | te yathā syaṃdanaśīlā vyāptimaṃtaḥ akturati aṃjakaṃ tamaḥ atikramya asasaṃto rejaṃte tadvat bhātvakṣaso 'syāgneruktalakṣaṇā dīptayo 'pi sarvatra rejaṃte kaṃpaṃte vyāpnuvaṃtītyarthaḥ |*). Here the word न (*na*) expresses a simile. Just as the rays of the sun, which has strength in the form of radiance, pierce the darkness, and without the least break in their duties pervade the world with a quivering motion, so too the rays of Agni pervade; this, Sāyaṇa explains, is the meaning.
+
+##### Grammar
+
+- तेषाः — त्रिष दीप्तौ इति धातुः । पचादिषु पाठाद् अच् प्रत्ययः । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । चित्त्वात् अंतोदात्तस्वरो भवति । **NOTE**
+- अजराः — न विद्यते जरा येषां ते अजराः । नञ्स्वरं बाधित्वा नञ्योजरमः (पा. सू. ६-२-११६) इति उत्तरपदस्य अमृदात्तस्वरो भवति । **NOTE**
+- अस्य — ऊडिदंपदादि (पा. सू ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- भानवः — भा वीप्त धातुः । दाभाभ्यांनुः (उ. सू. २-३०-२) इति नु प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- सुसंदृशः — दृशिर् प्रेक्षणे धातुः । क्विप् प्रत्ययः । गतिकारकोपपदात् कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+- सुप्रतीकस्य — शोभनं प्रतीकं यस्य सः सुप्रतीकः तस्य । क्रत्वादयश्च (पा. सू. ६-२-११८) इति उत्तरपदस्य आद्युदात्तस्वरो भवति ।
+
+### Printed p. 306
+
+**Grammar** (continued)
+- भात्वक्षसः — भाः एव त्वक्षः बलं यस्य सः भात्वक्षाः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- रेजंते — रेज्य कंपने धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- अससंतः — न ससंतः अससंतः । षस स्वष्टे धातुः । लडर्थे शतृ प्रत्ययः । प्रथमाबहुवचनांतरूपम् । तत्पुरुषे तुल्यार्थ (पा. सू. ६-२-२) इति नञ्प्रकृतिस्वरो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमे॑रि॒रे भृग॑वो वि॒श्ववे॑दसं॒ नाभा॑ पृथि॒व्या भुव॑नस्य  ॒॑
+> मज्मना ।  
+> अ॒ग्निं तं गी॒र्भिर्हि॑नुहि॒ स्व आ दमे॒ य एको॒ वस्वो॒ ॒॑ ॑
+> वरुणो न राजति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । आईरिरे । भृगवः । विश्ववेदसं । नाभा । पृथिव्याः । भुवनस्य । मज्मना ।  
+> अग्निं । तं । गीःभिः । हिनुहि । स्वे । आ । दमे । यः । एकः । वस्वः । वरुणः । न ।  
+> राजति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्ववेदसं सर्वधनं । वेद इति धननाम वेदो वरिव इति तन्नामसु
+> पाठात् । तादृशं यमग्निं भृगवो भृगुगोत्रोत्पन्नाः पापस्य भर्जकाः पृथिव्या
+> वेद्याः । एकदेशे कृत्स शब्दः । यद्वा । एतावती वै पृथिवीत्यादिश्रुतेर्वेद्याः
+
+##### Gist of the bhāṣya
+
+विश्ववेदसं (*viśvavedasaṃ*) means "possessing all wealth"; वेदः (*vedaḥ*) is a word for wealth, since "veda, variva" are read among the names of wealth. Agni, such as he is, was placed by the Bhṛgus—those born in the Bhṛgu lineage, the burners of sin—on the "navel" of the earth, that is, of the altar (the word कृत्स (*kṛtsa*) being used for a part of it). Or else, on the authority of the śruti beginning एतावती वै पृथिवी (*etāvatī vai pṛthivī*), the altar has the nature of the earth. (The sentence continues on the next page.)
+
+### Printed p. 307
+
+> पृथिवीत्वं । तस्या नाभावुत्तरवेद्यां भुवनस्य भूतजातस्य मज्मना बलेन निमित्तेना अभिमुख्यनेरिरे ईरितवंतः स्थापितवंतः तमग्निं स्वे स्वकीये दमे गृह
+> उत्तरवेद्यां गीर्भिः स्तुतिभिरा हिनुहि । प्राप्नुहि ॥ हि गतौ वृद्धौ च । उतश्च
+> प्रत्ययाच्चंदसि नावचनमिति हेर्लुगभावः ॥ योऽग्निरेको मुख्यः सन् एक
+> एव वा वसो वसुनो गवादिधनस्य राजति ईश्वरो भवति । प्रदातुमिति शेषः ।
+> राजतीत्यैश्वर्यकर्मा क्षियति राजतीति तन्नामसु पाठात् । तत्र दृष्टांतः । वरुणो
+> न वारक आदित्य इव । स यथा सर्वस्येष्टे तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+On the navel of that earth, the northern altar (uttaravedi), by the strength (मज्मना (*majmanā*)) of all beings (भुवनस्य (*bhuvanasya*)) as the cause, the Bhṛgus set Agni before them (ईरिरे (*īrire*): they set him up, established him). "That Agni, in your own house (दमे (*dame*)), on the uttaravedi, bring (हिनुहि (*hinuhi*): reach, obtain) with songs of praise." The root हि (*hi*) means going and growth; the non-elision of the हि (*hi*) follows the rule उतश्च प्रत्ययाच्छंदसि ना वचनम् (*utaśca pratyayācchaṃdasi nā vacanam*). The Agni who, being the chief, or being alone, rules over wealth (वसो (*vaso*)), cows and the like—he is lord, to bestow it, is the supplied remainder. राजति (*rājati*) is a word of lordship, since "kṣiyati, rājati" are read among those names. The comparison: वरुणो न (*varuṇo na*) is "like the restrainer, Āditya"; as he rules over everything, so does Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- वरुणो न (*varuṇo na*)—like Āditya
+- एकः (*ekaḥ*)—being the sole lord
+- वस्वः (*vasvaḥ*)—of all wealth such as cows
+- राजति (*rājati*)—is the master
+- विश्ववेवसं (*viśvavevasaṃ*)—possessing all wealth
+- यं (*yaṃ*)—whom Agni
+- भृगवः (*bhṛgavaḥ*)—the sages born in the lineage of Bhṛgu
+- पृथिव्याः (*pṛthivyāḥ*)—of the altar
+- नाभा (*nābhā*)—on the northern part
+- भुवनस्य (*bhuvanasya*)—of all beings
+- मज्मना (*majmanā*)—by the strength
+- आ (*ā*)—facing
+- ईरिरे (*īrire*)—have established
+- तं अग्निं (*taṃ agniṃ*)—that Agni
+- स्वे दमे (*sve dame*)—in your (Agni's) own house (on the northern altar)
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- आ हिनुहि (*ā hinuhi*)—bring and establish
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, like Āditya, is the sole lord and master of all wealth such as cows, and whom all the sages born in the lineage of Bhṛgu have established, with all their strength, on the northern part of the altar, that possessor of all wealth: bring him with praises to the northern altar of your own house and establish him.
+
+##### Printed English
+
+Bring to his own abode with hymns that Agni, the possessor of all riches, whom the descendants of Bhrigu placed by the strength of all beings upon the navel of the earth : for, like Veruna, he reigns sole (monarch) over (all) treasure.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, after praising Agni as the sole lord and master of all wealth, the sacrificer is told to bring such an Agni, possessor of all wealth and established on the northern part of the altar.
+
+### Printed p. 308
+
+वरुणो न (*varuṇo na*)—here the word Varuṇa is explained as Āditya the restrainer. Agni's lordship is compared to the sole lordship of Āditya.
+
+राजति (*rājati*)—"kṣiyati, rājati" and so on are read among the names of verbs of lordship (Ni. 2-21). ईश्वरः भवति (*īśvaraḥ bhavati*)—he is lord of all wealth. In the Ṛk सप्त क्षरंति शिशवे मरुत्वते पित्रे पुत्रासो अप्यवीवतन्नृतं । उभे इदस्योभयस्य राजत उभे यतेते उभयस्य पुष्यतः । (*sapta kṣaraṃti śiśave marutvate pitre putrāso apyavīvatannṛtaṃ | ubhe idasyobhayasya rājata ubhe yatete ubhayasya puṣyataḥ |*) (Ṛ. Saṃ. 18-13-5) **NOTE**, the Nirukta authors show as an example that the word राजतः (*rājataḥ*) gives the sense ईशाते (*īśāte*); the same sense results here too.
+
+भृगवः ईरिरे (*bhṛgavaḥ īrire*)—भृगुगोत्रोत्पन्नाः स्थापितवंतः (*bhṛgugotrotpannāḥ sthāpitavaṃtaḥ*): this points to the old story that the sages born of the Bhṛgu line first established Agni in the house of sacrifice. In such Taittirīya Saṃhitā passages as अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः । यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभुवं विशेषिविशे ॥ (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ | yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhuvaṃ viśeṣiviśe ‖*) (Kṛ. Saṃ. 1-5-1) **NOTE**, the matter of the Bhṛgus first establishing Agni as hotṛ is told. In the Ṛk Saṃhitā too, in Ṛks such as दधुष्टा भृगवः मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः । होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने । (*dadhuṣṭā bhṛgavaḥ mānuṣeṣvā rayiṃ na cāruṃ suhavaṃ janebhyaḥ | hotāramagne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane |*) (Ṛ. Saṃ. 1-58-6) and द्विता यदीं कीस्तासो अभिद्यवो नमस्यंत उपवोचंत भृगवो मथ्यंतो दाशा भृगवः । अग्निरीशे वसूनां शुचियोर्ण धर्णिरेषां । प्रिया अपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ॥ (*dvitā yadīṃ kīstāso abhidyavo namasyaṃta upavocaṃta bhṛgavo mathyaṃto dāśā bhṛgavaḥ | agnirīśe vasūnāṃ śuciyorṇa dharṇireṣāṃ | priyā apidhīrvaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ ‖*) (Ṛ. Saṃ. 1-127-7), it is praised in many places that the Bhṛgus churned and established Agni in the house of sacrifice, and that Mātariśvan brought Agni from a distant region for these Bhṛgus. That circumstance is hinted at in the present Ṛk also.
+
+### Printed p. 309
+
+भृगवः (*bhṛgavaḥ*)—भ्रष्टारो हविषां पापानां भर्जका वा (*bhraṣṭāro haviṣāṃ pāpānāṃ bharjakā vā*): either those who offer oblations, or those who destroy sins. Sāyaṇa explains that these sages have this name because the word can be understood in either way and because they had both kinds of power.
+
+The Nirukta authors, with अर्चिषि भृगुः संबभूव भृगुर्भृज्यमानो न देहे (*arciṣi bhṛguḥ saṃbabhūva bhṛgurbhṛjyamāno na dehe*) (Ni. 3-17), show the derivation of the word Bhṛgu: Bhṛgu, born of the flame, though inside Agni, was not burnt; hence the name. This undying power helps the great sacrificial work, and likewise the destruction of sin. In the Śatapatha Brāhmaṇa, अथांगारैरभ्यूहति । भृगूणामंगिरसां तपसा तप्यध्वमित्येतद्वै तेजो यद्भग्वंगिरसाग् सुतप्तान्यसन्निति तस्मादेनमभ्यूहति । (*athāṃgārairabhyūhati | bhṛgūṇāmaṃgirasāṃ tapasā tapyadhvamityetadvai tejo yadbhagvaṃgirasāg sutaptānyasanniti tasmādenamabhyūhati |*) (Ka. Brā. 1-2-1-3) **NOTE**. In such passages, since those born in the Bhṛgu line are direct relations of Agni, they are said to have extremely brilliant radiance. And, citing the Taittirīya Saṃhitā passages अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्टीड्यः (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣṭīḍyaḥ*) and so on (Śa. Brā. 2-3-4-14) and Tai. Saṃ. (1-5-5-1); and द्वे अग्नेर्जुहोति । द्विपाद्यजमानो यजमानोऽग्निर्यावानाग्निर्यावत्यस्य मात्रा तावतैवैतद्यज्ञग्ं सग्स्थापयतीष्टो यज्ञो भृगुभिरिष्टोऽग्निराहुतः पिपर्तु न इति । (*dve agnerjuhoti | dvipādyajamāno yajamāno 'gniryāvānāgniryāvatyasya mātrā tāvataivaitadyajñagṃ sagsthāpayatīṣṭo yajño bhṛgubhiriṣṭo 'gnirāhutaḥ pipartu na iti |*) (Pa. Brā. 9-5-1-31) **NOTE**. By such passages the manner in which the Bhṛgus worshipped Agni and performed sacrifice is also explained.
+
+पृथिव्या नाभा भुवनस्य मज्मना ईरिरे (*pṛthivyā nābhā bhuvanasya majmanā īrire*)—by this mantra the manner in which the Bhṛgus established Agni is stated. Here पृथिव्या नाभा (*pṛthivyā nābhā*) is explained as the northern altar. As it is said in Saṃhitā passages such as उत्तरं परिग्राहं परि गृह्णात्येतावती वै पृथिवी यावती वेदिस्तस्या एतावत एव । (*uttaraṃ parigrāhaṃ pari gṛhṇātyetāvatī vai pṛthivī yāvatī vedistasyā etāvata eva |*) (Kṛ. Saṃ. 2-6-4-3) **NOTE**, that the earth itself is the altar, so it is explained here also. On such an altar in the form of the earth, gathering together the strength of all beings, the Bhṛgus established Agni.
+
+### Printed p. 310
+
+यद्वैतमत्राहरंति । यान्वै तान्सप्त पुरुषानेकं पुरुषमकुर्वन्नयमेव स योऽयमग्निश्चीयतेऽथ यामेषां तामूर्ध्वाग्ग् श्रियग्ं रसग्ं समुदौहन्नेष स यमेतमत्राग्निमाहरंति तद्यदेतमत्राहरंति यैवैतेषाग्‌ं सप्तानां पुरुषाणां श्रीर्यो रसस्तमेतदूर्ध्वग्ं समुद्वहंति तदस्यैतच्छिर आत्म्यायमग्निश्चित आत्मानमेवास्यैतत्संस्कृत्य शिरः प्रति दधाति ॥ (*yadvaitamatrāharaṃti | yānvai tānsapta puruṣānekaṃ puruṣamakurvannayameva sa yo 'yamagniścīyate 'tha yāmeṣāṃ tāmūrdhvāgg śriyagṃ rasagṃ samudauhanneṣa sa yametamatrāgnimāharaṃti tadyadetamatrāharaṃti yaivaiteṣāgṃ saptānāṃ puruṣāṇāṃ śrīryo rasastametadūrdhvagṃ samudvahaṃti tadasyaitacchira ātmyāyamagniścita ātmānamevāsyaitatsaṃskṛtya śiraḥ prati dadhāti ‖*) (Śa. Brā. 9-2-3-51). By such mantras, the matter explained there is hinted here too: that Agni, installed on the altar, is the essence of the seven persons who reflect all beings.
+
+##### Grammar
+
+- ईरिरे — ईर गतौ प्रेरणे च धातुः । लिट्प्रथमपुरुषबहुवचने लिटस्तझयोरेशिरेच् इति इरे आदेशः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- विश्ववेदसम् — विश्वं वेदः यस्य सः विश्ववेदाः तन् विश्ववेदसम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- नाभा — सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः आकारादेशः ।
+- मज्मना — टुमस् जो शुद्ध धातुः । औणादिको मनि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । तृतीयैकवचनांतरूपम् ।
+- गीर्भिः — गृ शब्दे धातुः । क्विप् च इति क्विप् प्रत्ययः । ऋत इद्दातोः (पा. सू. ७-१-१००) इति धातोरित्वं, गिर् शब्दो भवति । भिस् परे हलि च इति धातोरुपधाया दीर्घः ।
+- हिनुहि — हि गतौ वृद्भौ च धातुः । लोट्मध्यमपुरुषैकवचने सिपो हि आदेशः । स्वादिभ्य श्नुः इति श्नुविकरणम् । उतश्च प्रत्ययाच्छंदसि ना वचनम् (पा. सू. ६-४-१०६-१) इति हेर्लुक् न भवति । विकरणस्य सार्वधातुकमपित् इति चित्त्वात् तं निमित्तीकृत्य धातोर्गुणो न भवति । अतिजंतस्य परत्वात् तिजंतनिघातस्वरो भवति ।
+- वस्वः — वसु शब्दः । अस्मात् षष्ठीविभक्तौ परतः जसादिषु छंदसि ना वचनम् इति वचनात् नुम् । गुणादयो न भवंति । यणादेशः ।
+
 ---
 
-**Progress note:** Done through printed p. 304. pp. 299-304 (batch API)
+**Progress note:** Done through printed p. 310. pp. 305-310 (batch API)
