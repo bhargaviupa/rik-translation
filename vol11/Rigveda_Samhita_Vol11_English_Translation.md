@@ -3140,6 +3140,184 @@ explained शुंभमानाः (*śuṃbhamānāḥ*) as शोभमा�
 
 Sāyaṇa explains: that Agni is संस्तिर (*saṃstira*), covered (आच्छन्नः (*ācchannaḥ*)), the word being formed from सं (*saṃ*) with the root *stṛṇāti*. Likewise विस्तिरः (*vistiraḥ*): at times, spread out, he सं गृभायति (*saṃ gṛbhāyati*), gathers together the herbs. Moreover, knowing (जानन् (*jānan*)) that he must be grown large for the sacrificer's sake and so be joined with flames, and the flames (जानतीः (*jānatīḥ*)) likewise understanding that they must be grown large for the sacrificer's sake, the flames, unbroken and constant (नित्यः (*nityaḥ*)), आ शये (*ā śaye*), that is, resort to him (आशेते (*āśete*), *āśrayati*). Flames of this kind, formerly grown large, grow again so as to be fit for sacrifice. They also reach (अपि यंति (*api yaṃti*), प्राप्नवंति (*prāpnavaṃti*)) the fire that is divine, that is, worthy of sacrificial and other practice and of praise. Though fire and flames are one, the relation of goer and goal is figurative, as in "the head of Rāhu". Further, the grown flames or the herbs, together with the fire (सचा (*sacā*)), joining with the two "parents", the two protectors of the world, heaven and earth, make (कृण्वते (*kṛṇvate*), कुर्वंति (*kurvaṃti*)) a lustrous form (वर्पः (*varpaḥ*)) not existing before, that is, they touch both worlds. **NOTE**
 
+### Printed p. 128
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Agni
+- संस्तिरः (*saṃstiraḥ*)—(at times) hidden
+- विस्तिरः (*vistiraḥ*)—(at times) widely visible
+- संगृभायति (*saṃgṛbhāyati*)—(the thickets) he overpowers and seizes
+- जानन्नेव (*jānanneva*)—knowing indeed (that "I must grow for the sake of the sacrificer")
+- जानतीः (*jānatīḥ*)—the flames that know in the same way
+- नित्यः (*nityaḥ*)—without interruption
+- आ शये (*ā śaye*)—he resorts to and spreads over
+- पुनः (*punaḥ*)—(though they have grown in the thickets) again
+- वर्धंते (*vardhaṃte*)—(these flames) increase and grow
+- देव्यं (*devyaṃ*)—(useful for sacrifices and the like) the worshipful Agni
+- अपि यंति (*api yaṃti*)—go and join
+- सचा (*sacā*)—together with this sacrificial fire
+- पित्रोः (*pitroḥ*)—to their parents, or to Heaven and Earth, the protectors (of the world)
+- अन्यत् (*anyat*)—not existing before, unprecedented
+- वर्षः (*varṣaḥ*)—(a luminous) form
+- कृण्वते (*kṛṇvate*)—they produce
+
+##### भावार्थ (Bhāvārtha)
+
+Agni seizes the thickets, at one time hiding himself, at another time showing himself widely. Knowing that he must grow for the sacrificer, he spreads out, without a break, over the flames that know this in the same way. Although they have grown in the thickets, these flames spread and grow again for the sacrificer. They go and join Agni, who is useful for sacrifices and worshipful. Joined with this sacrificial fire, they pervade Heaven and Earth, their parents and protectors of the world, and produce in them a luminous form that never existed before.
+
+##### Printed English
+
+Now hidden, now displayed, he seizes (on the fuel), as if understanding (the purpose of the worshipper), and even reposes amidst the conscious (flames) : again they break forth, and repair to the divine (fire of sacrifice) blending with which they give a different (luminous) form to their parent: (heaven and earth).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous Ṛk the epithet दुर्गृभिः (*durgṛbhiḥ*) showed Agni's irresistible power. Here the word संगृभायति (*saṃgṛbhāyati*) indicates unobstructed spreading. The manner of this spreading is described by the epithets संस्तिरः (*saṃstiraḥ*) and विस्तिरः (*vistiraḥ*).
+
+जानन्नेव (*jānanneva*)—यजमानार्थं प्रवृद्धेन भवितव्यं अतो ज्वालाभिस्संयोज्यः इत्यधिगच्छन्नेव । (*yajamānārthaṃ pravṛddhena bhavitavyaṃ ato jvālābhissaṃyojyaḥ ityadhigacchanneva |*). The sense is: knowing that "for the sacrificer I must grow and be favourable to the sacrificial work", he grows and increases.
+
+### Printed p. 129
+
+As in passages such as the following, here too Agni's favourable growth is praised.
+
+जनस्य गोपा अजनिष्ट जागृविरग्निः सुदक्षः सुविताय नव्यसे । धृतप्रतीको बृहता दिविस्पृशा द्युमद्विभाति भरतेभ्यःशुचिः । (*janasya gopā ajaniṣṭa jāgṛviragniḥ sudakṣaḥ suvitāya navyase | dhṛtapratīko bṛhatā divispṛśā dyumadvibhāti bharatebhyaḥśuciḥ |*) (Ṛ. Saṃ. 5-11-1) (Tai. Saṃ. 4-4-4)
+
+पित्रोः (*pitroḥ*)—जगत्पालयित्रोः (*jagatpālayitroḥ*). To Heaven and Earth, the protectors of the world, or to Heaven and Earth who are his own parents.
+
+In many Ṛks such as
+उत मन्ये पितुरद्रुहो मनो मातुर्महि स्वतवस्तद्धवीमभिः । सुरेतसा पितरा भूम चक्रतुरुरु प्रजाया अमृतं वरीमभिः ॥ (*uta manye pituradruho mano māturmahi svatavastaddhavīmabhiḥ | suretasā pitarā bhūma cakratururu prajāyā amṛtaṃ varīmabhiḥ ‖*) (Ṛ. Saṃ. 1-159-2)
+Heaven and Earth are said to be the parents of the world; hence the first meaning. And since in Ṛks such as
+स रोचयज्जनुषा रोदसी उभे स मात्रोरभवत्पुत्र ईड्यः । हव्यवाळग्नि रजरश्च नोहितो दूळभो विशामतिथिर्विभावसुः ॥ (*sa rocayajjanuṣā rodasī ubhe sa mātrorabhavatputra īḍyaḥ | havyavāḷagni rajaraśca nohito dūḷabho viśāmatithirvibhāvasuḥ ‖*) (Ṛ. Saṃ. 3-2-2)
+आग्ने दिवः सूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः । यधग्गेवा इह यजा चिकित्वः ॥ (*āgne divaḥ sūnurasi pracetāstanā pṛthivyā uta viśvavedāḥ | yadhaggevā iha yajā cikitvaḥ ‖*) (Ṛ. Saṃ. 3-25-1)
+Agni is said to be the son of Heaven and Earth, the second meaning can be stated. The same idea is also expressed in the Ṛk
+स जातो गर्भो असि रोदस्कोरग्ने चारुर्विभृत ओषधीषु । चित्रः शिशुः परि तमांस्यक्तून्म मातृभ्यो अधि कनिक्रदद्दाः ॥ (*sa jāto garbho asi rodaskoragne cārurvibhṛta oṣadhīṣu | citraḥ śiśuḥ pari tamāṃsyaktūnma mātṛbhyo adhi kanikradaddāḥ ‖*) (Ṛ. Saṃ. 10-1-2)
+and this Ṛk is also quoted in the Taittirīya Saṃhitā in praise of Agni (Tai. Saṃ. 4-1-4).
+
+अन्यत् वर्ष कृण्वते (*anyat varṣa kṛṇvate*)—the meaning is that they produce a form never existing before. The sense is that the radiance of Agni, consecrated by mantras, attains exceptional distinction and adorns the sacrificial ground.
+
+##### Grammar
+
+- संस्थिरः — स्त्वञ् आच्छादने इति धातुः । सम् उपसर्गपूर्वकत्वे क प्रकरणे मूलविभुजादीनामुपसंख्यानम् (पा. सू. ३-२-५-२) इति वचनात् कप्रत्ययः ।
+
+### Printed p. 130
+
+##### Grammar
+
+- यात इद्दातोः (पा. सू. ७-१-१००) इति धातोरित्वम् । संस्तिर इति रूपं भवति । परादिश्चंदसि बहुलम् (पा. सू. ६-२-१९९) इति उत्तरपदस्य आद्युदात्तस्वरो भवति । एवमेव वि उपसर्गपूर्वकत्वे विस्तिर इति रूपं भवति ।
+- गृभायति — ग्रह उपादाने इति धातुः । लटि प्रथमपुरुषैकवचने तिप् प्रत्ययः । छंदसि शायजपि (पा. सू. ३-१-८४) इति श्नाविकरणस्थाने शायजादेशः । हृग्रहोर्भश्चंदसि इति धातोर्हकारस्य भकारादेशः । प्रत्ययस्य जित्वातिदेशात् धातोरिको गुणो न भवति । तिजंतनिघातस्वरो भवति ।
+- जानन् — ज्ञा अवबोधने इति धातुः । लडर्थे शतृ प्रत्ययः । श्नाविकरणम् । ज्ञाजनोर्जा (पा. सू. ७-३-७९) इति जादेशः । श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति आकारस्य लोपः । प्रत्ययस्वरो भवति । जानतीः इत्यत्रापि शतृ प्रत्यये आगते स्त्रीत्वे उगितश्च (पा. सू. ४-१-६) इति जीप् । शतुरनमोनद्यजादी (पा. सू. ६-१-१७३) इति जीप उदात्तस्वरो भवति ।
+- नित्यः — त्यब् नेध्रुव इति वक्तव्यम् इति वचनात् नि इत्यस्मात् त्यप् प्रत्ययः । पित्तारुदरिंद अनुदात्तो भवति । **NOTE**
+- शये — शीज् स्वप्ने इति धातुः । अदादिः । लटि प्रथमपुरुषैकवचने तप्रत्ययः । टितआत्मने इति टेरेत्वम् । आदिप्रभृतिभ्यः शपः इति शपो लुक् । लोपस्त आत्मनेपदेषु (पा. सू. ७-१-४१) इति प्रत्ययतकारस्य लोपः । लिजिसार्वधातुकेगुणः (पा. सू. ७-४-२१) इति गुणे आगते अच् परत्वात् आयादेशः । अतिजंतद परत्वात् निघातस्वरो भवति । **NOTE**
+- वर्धंते — वृधु वृद्धौ इति धातुः । लटि प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- देव्यम् — देवाय योग्यं देव्यम् । यत् प्रत्ययः । तित्स्वंतम् (पा. सू. ६-१-१७५) इति स्वरितस्वरो भवति ।
+- कृण्वते — कृवि हिंसाकरणयोश्च इति धातुः । व्यत्ययो बहुलम् इति आत्मनेपदी भवति । लटि प्रथमपुरुषैकवचने य प्रत्ययः । टेरेत्वम् । अंतादेशः । धिन्विकृण्वोरच (पा. सू. ३-१-८०) इति अकारांतादेशः । उ विकरणम् । इदित्त्वात् धातोर्नुमागमः । अतोलोपः इति अकारलोपः । यणादेशः । ऋकारपरत्वात् नकारस्य णत्वम् । तिजंतनिघातस्वरो भवति । **NOTE**
+
+### Printed p. 131
+
+##### Grammar
+
+- सचा — षच समवाये इति धातुः । क्विप् च इति क्विप् प्रत्ययः । सुपां सुलुक् इति विभक्तेराकारादेशः ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॒ग्रुवः॑ के॒शीनीः॒ सं हि रे॑भि॒र ऊ॒र्ध्वास्त॑स्थुर्म्॒रुषीः॒ ॒ ॑
+> प्रायवे॒ पुनः॑ ।  
+> तासां॑ ज॒रां प्र॑मुं॒चन्ने॑ति॒ नान॑द॒दसुं॒ परं॑ ज॒नय॑ञ्जी॒वमस्तृ॑तं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अग्रुवः । केशनीः । सं । हि । रेभिरे। ऊर्ध्वाः । तस्थुः । मम्रूषीः। प्र। आयवे।  
+> पुनरिति ।  
+> तासां । जरां । प्रमुंचन् । एति । नानदत् । असुं । परं । जनयन् । जीवं ।  
+> अस्तृतं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमग्निमग्रुवोऽग्रतः स्थिताः । यद्वा । अंगुलिनामैतत् । अंगुलय इवाकुटिलाः। केशिनीः केशस्थानीयोर्द्वभाविकार्ष्णोऽपेता ज्वालाः सं रेभिरे हि । परिरंभं कुर्वंति खलु । आलिंगंति । किंचैवं कुर्वत्यो ममुषीर्मृता अंगारभावमापन्ना अपि ॥ म्रियतेः क्वसुप्रत्ययांतात् जीषि रूपं । आयव आगच्छतेऽग्नये
+> भर्त्रॆ पुनः स्तोपद्रवमजानत्य ऊर्ध्वाः प्र तस्तुः । ऊर्ध्वमुखा उन्नताः प्रतस्थिरे।
+> मृतप्राया अपि प्रत्युत्थानं कृतवत्य इत्यर्थः। एवं कृतवतीषु सतीषु स भर्ताग्निस्तासां
+> ज्वालानां जरां वयोहानिं प्रमुखन् प्रकर्षण मोचयन् नानदज्जरापरिहाराय मंत्रयन्नि वात्यर्थं शब्दयन् । न केवलं जराहानिरेव अपि तु परं निरतिशयमसुं प्राणमस्तृतं काष्ठोदकादिप्रक्षेपेणाप्यहिंसितं जीवं प्राणधारणसामर्थ्यं जनयन्नुत्पादयन्नेति । गच्छति । तासां ज्वालानां सन्निधिं प्राप्नोति । यथा
+
+##### Gist of the bhāṣya
+
+अग्रुवः (*agruvaḥ*) means "standing in front" of Agni; or else it is a name of the fingers: the flames are straight like fingers. केशिनीः (*keśinīḥ*) are flames that, like hair, have a dark tinge at the top. They embrace him indeed (सं रेभिरे हि (*saṃ rebhire hi*)). Doing so, they are ममुषीः (*mamuṣīḥ*), dead, having become embers (the form from the root म्रियतेः (*mriyateḥ*) with the affix kvasu, feminine plural). Not knowing their own distress, they rise again for आयवे (*āyave*), Agni who comes to them as their lord: they stand up with faces upward; the meaning is that though nearly dead they have risen to meet him. When they have done so, that lord Agni, प्रमुंचन् (*pramuṃcan*), releasing completely the old age (loss of youth) of those flames, नानदत् (*nānadat*), sounds loudly, as if reciting a mantra to remove old age. And not merely the loss of old age: he generates *paraṃ asuṃ*, supreme breath, and *astṛtaṃ jīvaṃ*, life unharmed even by throwing in wood, water and the like, that is, the power to sustain life; and he goes to them, reaching the neighbourhood of those flames. As in the world certain women, after sporting fully with their lover...
+
+### Printed p. 132
+
+> लोके काश्चन रमण्यो रमणेन सह निर्भरं क्रीडित्वा पश्चात्तोषिते तस्मिन्विरहेण
+> जीर्णा म्रियमाणाः पश्चात्तस्मिन्नागते सति स्वदौर्बल्यमगणयित्वा संतोषेण परिष्टंगाय चेष्टंते । स भर्ता मंत्रोच्चारणेन जरामपनीयोचितप्रदानेन प्राणयन् रक्षतीत्ययं भावोऽत्रानुसंधेयः ॥
+
+##### Gist of the bhāṣya
+
+...(the comparison continues) after sporting fully with their lover, when he has gone away become wasted by separation and near death; when he returns, they take no account of their own weakness and strive with joy to embrace him. That lord, removing old age by uttering mantras and reviving them by suitable gifts, protects them. This is the idea to be understood here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—Agni (the husband)
+- आग्रुवः (*āgruvaḥ*)—those in front, or those straight like fingers
+- केशिनीः (*keśinīḥ*)—flames that are dark like the hair on the head
+- संरेभिरे हि (*saṃrebhire hi*)—they embrace, do they not
+- मम्रुषीः (*mamruṣīḥ*)—though extinguished and as if dead
+- आयवे (*āyave*)—to Agni the husband who is coming (toward them)
+- पुनः (*punaḥ*)—again (without regard to their own distress)
+- ऊर्ध्वाः (*ūrdhvāḥ*)—rising upward
+- प्रतस्थुः (*pratasthuḥ*)—they go to meet him
+- तासां (*tāsāṃ*)—of those flames (filled with such love)
+- जरां (*jarāṃ*)—the bodily slackness like old age
+- प्रमुंच (*pramuṃca*)—releasing
+- नानदत् (*nānadat*)—sounding (as a husband recites a mantra for removing his wife's old age)
+- परं (*paraṃ*)—exceedingly
+- असुं (*asuṃ*)—vitality
+- अस्तृतं (*astṛtaṃ*)—unimpaired
+- जीवं (*jīvaṃ*)—the power of sustaining life
+- जनर्य (*janarya*)—producing
+- एति (*eti*)—he joins (those flames)
+
+##### भावार्थ (Bhāvārtha)
+
+The beautiful flames, curved like the hair on the head and dark at the top, though they have died down and are as if dead, rise upward like a loving wife toward her husband Agni who is coming to meet them, not minding their own distress, go to meet him and embrace him well. Releasing the old-age-like bodily slackness of those flames so full of love, and sounding as a husband recites a mantra to remove his wife's old age, producing in them exceeding vitality and unimpaired power of sustaining life, Agni joins those flames.
+
+##### Printed English
+
+The curving tresses (of the flames) embrace him (Agni), and when expiring spring aloft again to (greet) their coming (lord); rescuing them from decrepitude, he comes sounding aloud, generating ( in them ) intenser animation and unimpaired vitality.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्रुवः (*agruvaḥ*)—this word is read among the names of rivers (Ni. 2-24) and among the names of fingers (Ni. 3-9). In the Ṛksaṃhitā the word is used in both these senses.
+
+### Printed p. 133
+
+In Ṛks such as
+अजीजनन्नमृतं मर्त्यासोऽस्रेमाणं तरणिं वीळुजंभं । दश स्वसारो अग्रुवः समीचीः पुमासं जातमभि सं रभंते । (*ajījanannamṛtaṃ martyāso 'sremāṇaṃ taraṇiṃ vīḷujaṃbhaṃ | daśa svasāro agruvaḥ samīcīḥ pumāsaṃ jātamabhi saṃ rabhaṃte |*) (Ṛ. Saṃ. 3-29-13)
+तमीं हिस्वंत्यग्रुवो धमंति बाकुरं व्यतिं । त्रिधातु नारणं मधु । (*tamīṃ hisvaṃtyagruvo dhamaṃti bākuraṃ vyatiṃ | tridhātu nāraṇaṃ madhu |*) (Ṛ. Saṃ. 9-1-8)
+there is the explanation कर्मकरणार्थमग्रमंगंतीत्यग्रुवोऽंगुलयः (*karmakaraṇārthamagramaṃgaṃtītyagruvo 'ṃgulayaḥ*): because they go forward to perform rites, the fingers are named अग्रु (*agru*).
+
+In Ṛks such as
+प्राग्रुवो नभन्वो३ न वक्त्वा ध्वस्रा अपिन्यम्यवतीर्खुतज्ञाः । धन्वान्यज्रा अप्पणक्तर्षाणा अधोगिंद्रः स्तर्योर्विवंसुपत्निः ॥ (*prāgruvo nabhanvo3 na vaktvā dhvasrā apinyamyavatīrkhutajñāḥ | dhanvānyajrā appaṇaktarṣāṇā adhogiṃdraḥ staryorvivaṃsupatniḥ ‖*) (Ṛ. Saṃ. 4-19-7)
+स्वाध्यो३वि दुरो देवयंतोऽशिश्रयू रथयुर्देवताता । पूर्वी शिशुं न मातरा रिहाणे समग्रुवो न समनेष्वंजन् । (*svādhyo3vi duro devayaṃto 'śiśrayū rathayurdevatātā | pūrvī śiśuṃ na mātarā rihāṇe samagruvo na samaneṣvaṃjan |*) (Ṛ. Saṃ. 7-2-5)
+the explanation is अग्रुव इति नदीनामैतत् । अग्रग्रामिनीः नदीः (*agruva iti nadīnāmaitat | agragrāminīḥ nadīḥ*): because the river spreads, goes forward and flows, the river is named अग्रु (*agru*). Moreover, in Ṛks such as
+वम्रीभिः पुत्रमग्रुवो अदानं निवेशनाद्धरिव आ जभर्थ । व्यंधो अख्यदहिमाददानो निर्भूदुखच्छित्समरंत पर्व । (*vamrībhiḥ putramagruvo adānaṃ niveśanāddhariva ā jabhartha | vyaṃdho akhyadahimādadāno nirbhūdukhacchitsamaraṃta parva |*) (Ṛ. Saṃ. 4-19-9)
+आग्रुवः (*āgruvaḥ*) means "of a woman named Agrū". In the present Ṛk, आग्रुवः (*āgruvaḥ*) is an epithet of the flames, meaning either अग्रेस्थिताः (*agresthitāḥ*), spreading in front, or अंगुलय इव अकुटिलाः (*aṃgulaya iva akuṭilāḥ*), straight and stretched out, not curved, like fingers of the hand.
+
+In this Ṛk Agni is compared to a husband and Agni's flames to a wife. Sāyaṇa explains this comparison thus:
+यथा लोके काश्चन रमण्यः रमणेन सह निर्भरं क्रीडित्वा पश्चात् पोषिते तस्मिन् विरहेण जीर्णा म्रियमाणाः पश्चात् तस्मिन्नागते सति स्वदौर्बल्य मगणयित्वा संतोषेण परिष्टंगाय चेष्टंते । स भर्तामंत्रोच्चारणेन जरां अपनीय उचितप्रदानेन प्राणयन् रक्षति इत्ययं भावोऽत्रानुसंधेयः ॥ (*yathā loke kāścana ramaṇyaḥ ramaṇena saha nirbharaṃ krīḍitvā paścāt poṣite tasmin viraheṇa jīrṇā mriyamāṇāḥ paścāt tasminnāgate sati svadaurbalya magaṇayitvā saṃtoṣeṇa pariṣṭaṃgāya ceṣṭaṃte | sa bhartāmaṃtroccāraṇena jarāṃ apanīya ucitapradānena prāṇayan rakṣati ityayaṃ bhāvo 'trānusaṃdheyaḥ ‖*).
+In the world, women after enjoying their husbands and growing happily, when the husbands go abroad become thin with anxiety; then, after the husbands return, not minding their own exhaustion
+
+### Printed p. 134
+
+they strive eagerly for an embrace. In the same way the thin flames of Agni embrace Agni after he has been fed with fuel. And as husbands do away with the thinness and old age of their wives and recite mantras that fill them with new vigour, so Agni too, making a sound, drives away the flames' weakness and causes them to grow. This is the sense.
+
+##### Grammar
+
+- केशिनीः — केशाः आसां संति इति अर्थविवक्षायां मत्त्वर्थे अत इनि ठनौ (पा. सू. ५-२-११५) इति इनि प्रत्ययः । नांतत्वात् स्त्रीत्वे ऋन्नेभ्योजीप् सूत्रेण जीप् । जनपरत्वे सुपां सुलुक् (पा. ३-१-३९) इति पूर्वसवर्णदीर्घः । प्रत्ययस्वरेण इकार उदात्तो भवति । **NOTE**
+- रेभिरे — रभ राभस्यै इति धातुः । लिटि प्रथमपुरुषबहुवचने लिटस्तझयोः इति इरे आदेशः । अत एकहल्मध्ये (पा. सू. ६-४-१२०) इति द्वित्वे आगते एत्वम् अभ्यासलोपः । हि इति पूर्वं विद्यमानत्वात् हिच (पा. सू. ८-१-३४) इति निघातप्रतिषेधे आगते प्रत्ययस्य चित्त्वात् चितः (पा. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- तस्थुः — ष्ठा गतिनिवृत्तौ इति धातुः । लिटि प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- ममुषीः — मृज् प्राणत्यागे इति धातुः । अस्मात् लिटि आगते क्वसुश्च (पा. सू. ३-२-७६) इति तस्य क्वसुरादेशः । तं निमित्तीकृत्य धातोर्द्वित्वम् । उरत् इति अभ्यासस्य अत्वम् । रपरत्वे आगते आदिहल् शेषः । उगित्त्वात् स्त्रीत्वे उगितश्च इति जीप् । भसंज्ञायां वसोः संप्रसारणम् इति संप्रसारणम् । संप्रसारणाच्च इति पूर्वरूपम् । धातोः ऋकारस्य यणादेशः । शासिवसिघसीनां च (पा. सू. ८-३-६०) इति षत्वम् । जस्परत्वे सुपां सुलुक् इति पूर्वसवर्णदीर्घः ।
+- प्रमुञ्ज्न् — मुच्ल्य मोक्षणे इति धातुः । प्रेरणातोरुवुदरिंद अंतर्भावितण्यर्थको धातुः । लडर्थे शतृप्रत्ययः । श विकरणम् । शेमुचादीनाम् (पा. सू. ६-१-२०) इति सुमागमः । प्रथमाएकवचनांतरूपम् । विकरणस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
+- नानदत् — णद अव्यक्ते शब्दे इति धातुः । यज् लुजंतात् लडर्थे शतृप्रत्ययः । अभ्यस्तानामादिः (पा सू. ६-१-१८०) इति आमुद्दात्तस्वरो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 127. pp. 122-127 (batch API)
+**Progress note:** Done through printed p. 134. pp. 128-134 (batch API)
