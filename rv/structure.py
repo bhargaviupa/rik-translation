@@ -147,7 +147,7 @@ def build(vol, mandalas):
     save_units(vol, units)
     with open(os.path.join(P['review'], 'source_faults.tsv'), 'w', encoding='utf8') as f:
         f.write('maṇḍala.sūkta.ṛk\tkind\treference\tKannada edition (supplied text)\tnote\tdecision\n')
-        for key, kind, a, b, n in rows: f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')
+        for key, kind, a, b, n in rows: f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t' + ('misread: the reference stands (settled by script)' if n.startswith('misread') else '') + '\n')
         for u in units:
             for it in u['kn']:
                 if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\tstray line, not printed\t\t{it[1]}\tin {u['kind']}\t\n")
