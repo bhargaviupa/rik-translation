@@ -6,6 +6,7 @@ sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit'))
 sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'accents'))
 from kannada_to_deva import kn2deva            # noqa: E402
 from add_iast import deva_to_iast              # noqa: E402
+from deva_to_kannada import deva2kn            # noqa: E402
 import accents                                 # noqa: E402
 
 KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')

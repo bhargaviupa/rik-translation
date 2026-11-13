@@ -114,6 +114,13 @@ def render_kn(vol, units):
         flush()
     for u in units:
         if not u.get('kn'): continue
+        if u['kind'] == 'samhita' and u.get('kn_corrected'):                    # the verse corrected from the reference: printed in place of the supplied lines
+            u = dict(u); done = False; kn2 = []
+            for it in u['kn']:
+                if it[0] == 'block':
+                    if not done: kn2.append(['block', u['kn_corrected']]); done = True; n['verses printed with corrections from the reference'] += 1
+                else: kn2.append(it)
+            u['kn'] = kn2
         if u['kind'] == 'preface': out += ['## ಪೀಠಿಕೆ', '']; items(u); continue
         if u['s'] is not None and u['m'] != cur_m: cur_m = u['m']; out += [f"# ಮಂಡಲ {str(cur_m).translate(KD2)}", '']
         if u['kind'] == 'intro':

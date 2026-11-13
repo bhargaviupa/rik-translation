@@ -77,7 +77,7 @@ def compare_verses(vol, units, ref):
     """Every Saṃhitā unit against the reference verse of its number: is it that verse, and where do the letters differ?
     A differing word of the edition is 'supported' when the same letters stand in the Pada-pāṭha or the bhāṣya of the same Ṛk (so it is the
     edition's reading, not a slip of the machine reading: DESIGN §13, F17); otherwise 'unsupported'."""
-    by = {(u['m'], u['s'], u['rk'], u['kind']): u for u in units}; rows = []; st = collections.Counter()
+    by = {(u['m'], u['s'], u['rk'], u['kind']): u for u in units}; rows = []; st = collections.Counter(); kfix = []
     dec = {}; dp = os.path.join(vol_paths(vol)['data'], 'verse_decisions.tsv')        # the editor's decisions from the printed book: they outlive every re-run
     if os.path.exists(dp):
         for r in list(csv.reader(open(dp, encoding='utf8'), delimiter='\t'))[1:]:
@@ -135,8 +135,29 @@ def compare_verses(vol, units, ref):
             diffs.append([r_, e_, state]); st['differing places: ' + ('footnoted (edition reading)' if state == 'edition' else why)] += 1
             rows.append((key, 'verse differs', r_, e_, ('edition reading — footnote' if state == 'edition' else 'misread — ' + why)))
         u['diffs'] = diffs
+        # the Kannada book's verse, corrected from the reference in the same places (user, Nov 13 2026): only the differing words are replaced,
+        # written in the edition's own spelling habit (anusvāra for the class nasal and for a final m); the supplied lines stay in u['kn']
+        lines = [x for it in u['kn'] if it[0] == 'block' for x in it[1]]; spans = []
+        for li, line in enumerate(lines):
+            for mm in re.finditer(r'[^\s।॥]+', line):
+                if not re.fullmatch('[೦-೯0-9]+', mm.group(0)): spans.append((li, mm.start(), mm.end()))
+        if len(spans) == len(ew):
+            edits = []
+            for tag, i1, i2, j1, j2 in sm.get_opcodes():
+                if tag == 'equal' or j1 == j2: continue
+                r_, e_ = ' '.join(rw[i1:i2]), ' '.join(ew[j1:j2])
+                if not r_ or canon(r_) == canon(e_) or habit(r_) == habit(e_) or ''.join(habit(w) for w in rw[i1:i2]) == ''.join(habit(w) for w in ew[j1:j2]): continue
+                if dec.get((f'{key[0]}.{key[1]}.{key[2]}', canon(r_), canon(e_))) == 'edition': continue
+                if spans[j1][0] != spans[j2 - 1][0]: st['Kannada verse: a correction that would cross a line, left'] += 1; continue
+                new = ' '.join(deva2kn(re.sub('म्$', 'ं', w)) for w in rw[i1:i2]); edits.append((spans[j1][0], spans[j1][1], spans[j2 - 1][2], new))
+            if edits:
+                new_lines = list(lines)
+                for li, a_, b_, new in sorted(edits, key=lambda x: (x[0], -x[1])):
+                    kfix.append((key, new_lines[li][a_:b_], new)); new_lines[li] = new_lines[li][:a_] + new + new_lines[li][b_:]
+                u['kn_corrected'] = new_lines; st['Kannada verses corrected from the reference'] += 1; st['Kannada verse words replaced'] += len(edits)
+        else: st['Kannada verse: words could not be counted off against the comparison, left as supplied'] += 1
         if not diffs: st['same verse, letters differ'] -= 1; st['equal to the reference (letters; spelling habits apart)'] += 1
-    return rows, st
+    return rows, st, kfix
 
 def build(vol, mandalas):
     units, st = parse_kn(vol); ref = read_reference(mandalas)
@@ -154,7 +175,7 @@ def build(vol, mandalas):
     for (m, s) in suktas:
         nref = len({r for (mm, ss, r) in ref if mm == m and ss == s}); have = sorted({u['rk'] for u in units if u['m'] == m and u['s'] == s and u['kind'] == 'samhita'})
         sk.append((m, s, nref, len(have), 'ok' if have == list(range(1, nref + 1)) else f'Ṛks present: {have}'))
-    rows, st2 = compare_verses(vol, units, ref)
+    rows, st2, kfix = compare_verses(vol, units, ref)
     P = vol_paths(vol); os.makedirs(P['data'], exist_ok=True); os.makedirs(P['review'], exist_ok=True)
     save_units(vol, units)
     with open(os.path.join(P['review'], 'source_faults.tsv'), 'w', encoding='utf8') as f:
@@ -168,6 +189,9 @@ def build(vol, mandalas):
         f.write('maṇḍala.sūkta.ṛk\treference (printed)\tsupplied text (taken as misread)\thow it was settled\n')
         for key, kind, a, b, n in rows:
             if n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{a}\t{b}\t{n[10:]}\n')
+    with open(os.path.join(P['review'], 'kannada_verse_corrections.tsv'), 'w', encoding='utf8') as f:
+        f.write('maṇḍala.sūkta.ṛk\tsupplied text\tprinted in the Kannada book (from the reference)\n')
+        for key, a, b in kfix: f.write(f'{key[0]}.{key[1]}.{key[2]}\t{a}\t{b}\n')
     kinds = collections.Counter(u['kind'] for u in units)
     rep = [f'# Vol {vol}: structure report (rv structure)', '', f'Units: {len(units)} (' + ', '.join(f'{k} {v}' for k, v in sorted(kinds.items())) + ')', '',
            '## Read from the Kannada file'] + [f'- {k}: {v}' for k, v in sorted(st.items())] + ['',

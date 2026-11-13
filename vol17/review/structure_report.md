@@ -24,6 +24,9 @@ Units: 2944 (bhashya 441, bhavartha 438, english 441, grammar 1, intro 41, pada 
 
 ## Against the reference text (verses)
 - sūktas in the volume: 41; with every reference verse present once, in order: 41
+- Kannada verse words replaced: 374
+- Kannada verse: a correction that would cross a line, left: 17
+- Kannada verses corrected from the reference: 257
 - Saṃhitā units: 441
 - differing places: by rule: the reference is taken as correct: 152
 - differing places: checked by the editor against the printed book: 4
