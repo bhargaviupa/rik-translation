@@ -55,6 +55,7 @@ def render(vol, units, review=True, for_html=False):
         return ''.join(f'<span class="kp" id="kp{it[1]}" data-p="{it[1]}"></span>' for it in u.get('kn', []) if it[0] == 'page') if for_html else ''
     for u in units:
         kind = u['kind']
+        if u.get('set_aside'): st['units set aside, not printed'] += 1; continue
         if kind == 'preface':
             out += ['<section class="placeholder-page">', '', '## Preface to the English edition', '', '*[To be written by the translator-editor.]*', '', '</section>', '', '## Preface of the original edition' + anchors(u), '']
             out += body_items(u, units, notes, st); continue

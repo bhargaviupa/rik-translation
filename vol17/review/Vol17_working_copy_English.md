@@ -1929,6 +1929,10 @@ This part of the block contains only grammatical analysis of the words ओक्
 - हृदि (*hṛdi*)—in the heart
 - ररंतु (*raraṃtu*)—let it cause delight
 
+##### Gist
+
+O Indra, with you alone in view, for your drinking, I offer this Soma in your own place, the belly. May this Soma cause delight in your heart.
+
 ##### English translation
 
 I offer to you, Indra, this Soma juice for your drinking, to be taken into its proper receptacle ; may it delight your heart.
@@ -1938,10 +1942,6 @@ I offer to you, Indra, this Soma juice for your drinking, to be taken into its p
 तुभ्य (*tubhya*) is तुभ्यं (*tubhyaṃ*); here the anusvāra has been dropped for the convenience of the metre. तुभ्य (*tubhya*) + इत् (*it*) = तुभ्येत् (*tubhyet*) means "for you alone".
 
 स्वे ओक्ये (*sve okye*): Yāska has given the etymological explanation ओक इति निवासनामोच्यते (*oka iti nivāsanāmocyate*), that is, that ओक (*oka*) is a name for a dwelling-place. Here स्वे ओक्ये (*sve okye*) means "in one's own dwelling-place", or "in one's own belly".
-
-##### Gist
-
-O Indra, with you alone in view, for your drinking, I offer this Soma in your own place, the belly. May this Soma cause delight in your heart.
 
 #### Ṛk 9
 
@@ -3392,6 +3392,10 @@ This block contains only Sāyaṇa's grammatical notes on the words of the Ṛk.
 - वसु (*vasu*)—wealth
 - धनुहि (*dhanuhi*)—make it move (make it reach us)
 
+##### Gist
+
+O Indra, as a father gives a share of wealth to a son who has acquired knowledge of practical affairs, provide us with a son who harasses enemies. As a hook shakes the tree for the ripe fruit and provides the fruit, set in motion the wealth that gives us satisfaction and provide it to us.
+
 ##### English translation
 
 Grant us riches, securing (us against foes), (as a father bestows) his portion on (a son) arrived at maturity; send down upon us, Indra, wealth adequate (to our desires), as a crook brings down the ripe fruit from a tree.
@@ -3401,10 +3405,6 @@ Grant us riches, securing (us against foes), (as a father bestows) his portion o
 In this Ṛk too there is a description of the wealth that comes to a person who knows the duty of sacrifice. The word तुजं (*tujaṃ*) is used in the sense of harming. In the Nirukta this word is listed among the names of the thunderbolt. It is also used in the sense of giving: तुजतिः दानकर्मा (*tujatiḥ dānakarmā*). In Ṛks such as भूं चिद्दि तुजशो मर्त्यस्य (*bhūṃ ciddi tujaśo martyasya*) (Ṛ. Saṃ. 3-39-8) the generosity of the patron is described as "giver of much". In the present Ṛk too, when it says तुजं रयिं आ भर (*tujaṃ rayiṃ ā bhara*), it may be explained either as "provide the wealth of a son who harasses enemies" or as "give a generous son".
 
 संपारणं (*saṃpāraṇaṃ*) is formed from the root पृ पालनतरणयोः (*pṛ pālanataraṇayoḥ*), "to protect" or "to carry across". It may mean wealth that protects from poverty, or that carries one across poverty and brings one to the end. In sum the purport is: what gives satisfaction.
-
-##### Gist
-
-O Indra, as a father gives a share of wealth to a son who has acquired knowledge of practical affairs, provide us with a son who harasses enemies. As a hook shakes the tree for the ripe fruit and provides the fruit, set in motion the wealth that gives us satisfaction and provide it to us.
 
 #### Ṛk 5
 
@@ -13317,140 +13317,6 @@ Brahman, in the form of Āditya, has two forms: the first is time, the second is
 
 चतुर्भिः साकं नवतिं च नामभिश्चक्रं न वृत्तं व्यतीरवीविपत् । (*caturbhiḥ sākaṃ navatiṃ ca nāmabhiścakraṃ na vṛttaṃ vyatīravīvipat |*) (Ṛ. Saṃ. 1-155-6)
 
-##### Grammar (Vyākaraṇa-prakriyā)
-
-- भारान् — डुभृञ् धारणपोषणयोः इत्यस्मादधिकरणे घञ् । कर्षात्वतो घञ् इत्यंतोदात्तत्वम् ।
-- निहिते — दधातेः कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वम् ।
-- दर्शि — दृशिर् प्रेक्षणे । कर्मणि लुङ् । चिण् । चिणो लुगिति प्रत्ययस्य लुक् । वाक्यभेदादनिघातः ।
-
-तस्य नाक्षस्तप्यते भूरिभारः सनादेव न शीर्यते सनाभिः । (*tasya nākṣastapyate bhūribhāraḥ sanādeva na śīryate sanābhiḥ |*) (Ṛ. Saṃ. 1-164-13).
-
-This was explained earlier (Ṛgveda Saṃhitā, part 11, pp. 633-4), and the point is indicated here too. Viṣṇu, who is of the nature of Āditya, is himself unmoving. By his own impulse he makes the parts of time (the year and the rest) revolve in a ring-like circuit, like a wheel turning round its spokes. These parts number ninety-four and are separately divided. Yet he himself does not move and suffers no decay. Remaining firm, he sets the pair of day and night in motion.
-
-But one further point must be examined here. Sāyaṇa explains एकः बिभर्ति (*ekaḥ bibharti*) as "the one principle, in the form of the year, bears the six seasons", and गावः वर्षिष्टं उप आगुः (*gāvaḥ varṣiṣṭaṃ upa āguḥ*) as "the rays went to Āditya". It must not be said, then, that this mantra teaches two principles. Here एकः (*ekaḥ*) also means the Āditya principle, and वर्षिष्ठं (*varṣiṣṭhaṃ*) too stands as an attribute of Āditya alone. So there is no ground for the doubt: if एकः (*ekaḥ*) means Āditya, how is षडृतून् बिभर्ति (*ṣaḍṛtūn bibharti*) ("he bears the six seasons") consistent? In many Śruti passages the non-difference of Āditya and the seasons is stated.
-
-आदित्यस्त्वेव सर्व ऋतवः । यद्यैवोदेत्यथ वसंतो यदा संगवोऽथ ग्रीष्मो यदा मध्यंदिनोऽथ वर्षा यदपराह्नोऽथ शरद्य दैवास्तमेऽत्यथ हेमंतस्तस्मादु .... .... .... (*ādityastveva sarva ṛtavaḥ | yadyaivodetyatha vasaṃto yadā saṃgavo 'tha grīṣmo yadā madhyaṃdino 'tha varṣā yadaparāhno 'tha śaradya daivāstame 'tyatha hemaṃtastasmādu .... .... ....*) (Śa. Brā. 2-2-3-9).
-
-Āditya alone is the essence of all the seasons, or else the cause of the seasons. When he rises, it is spring. When the time for milking the cattle arrives, it is summer. The midday time is the rainy season. When the afternoon arrives, it is autumn. When the time of setting arrives, it is winter. In this way the relation of effect and cause, and the non-difference, between the seasons and Āditya, their cause, are shown.
-
-अत्र ह वा आसावग्र आदित्य आस तम्मतवः परिगृह्यैवात ऊर्ध्वाः स्वर्गं लोकमुपोदक्रामन्त्स एष ऋतुषु प्रतिष्ठितस्तपति । (*atra ha vā āsāvagra āditya āsa tammatavaḥ parigṛhyaivāta ūrdhvāḥ svargaṃ lokamupodakrāmantsa eṣa ṛtuṣu pratiṣṭhitastapati |*) (Śa. Brā. 4-2-5-9).
-
-In the beginning Āditya had pervaded this earth. When the seasons took hold of him, he flew up with them into the atmosphere. Thereafter, firmly established in the seasons, he now shines in the atmosphere. These seasons are the limbs of the year and the chief means of understanding the nature of the year. Without knowledge of these means, the nature of the year is not understood. Just as acquaintance with a house is of no use to a man who does not know the convenient door by which to enter it, so knowledge of the year cannot be gained without acquaintance with the seasons, which are the year's doors.
-
-Spring and winter are the doors of this year. The year is the atmosphere, and it is also the whole universe. Therefore one who has gained knowledge of the year attains an everlasting state. [सर्वं वै संवत्सरः सर्वं वा अक्षय्यमेतेन (*sarvaṃ vai saṃvatsaraḥ sarvaṃ vā akṣayyametena*) Śa. Brā. 1-6-1-19].
-
-स यश्चायं पुरुषे । यश्च सावादित्ये । स एकः । (*sa yaścāyaṃ puruṣe | yaśca sāvāditye | sa ekaḥ |*) (Trai. U. 2-4).<sup class="q">?139</sup>
-
-The unique supreme Person, in the supreme ether, is placed in the cave as the indweller of Āditya. He creates all effects: the ether, the year, the periods such as the solstices, the rain-wealth that accords with the seasons, the food-wealth born of rain, and so on. He then enters into these very things, and all the worlds live resting on his very nature. Śaṅkarācārya explains that he is described by यश्चासावादित्ये । स एकः (*yaścāsāvāditye | sa ekaḥ*) (Śa. Bhā.).<sup class="q">?140</sup> Here the attribute आचरन् (*ācaran*) ("unmoving") of the supreme entity एकः (*ekaḥ*) is highly apt. Though himself unmoving, he is the cause of all the worldly activities of the moving universe, which is made to revolve through the forms of the seasons.
-
-आनेजदेकं मनसो जवीयो (*ānejadekaṃ manaso javīyo*) तद्धावतोऽन्यानत्येति तिष्ठत् तस्मिन्नपो मातरिश्वा दधाति (*taddhāvato 'nyānatyeti tiṣṭhat tasminnapo mātariśvā dadhāti*) (Īśa. 4).<sup class="q">?141</sup>
-
-This principle, which pervades everything, is without any movement the source of all the worlds that undergo change. It is by resting on this eternal principle of the Self that Mātariśvan becomes the activity of all living beings. In him everything is woven like warp and woof.
-
-स पर्यगाच्चुक्रमकायमव्रणं आस्नाविरग्ं शुद्धमपापविद्धं । कविर्मनीषी परिभूः स्वयंभूर्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥ (*sa paryagāccukramakāyamavraṇaṃ āsnāviragṃ śuddhamapāpaviddhaṃ | kavirmanīṣī paribhūḥ svayaṃbhūryāthātathyato 'rthān vyadadhācchāśvatībhyaḥ samābhyaḥ ‖*) (Ī. Ka. 8).<sup class="q">?142</sup>
-
-This principle of the Self in the form of Āditya, which remains steady without any movement of its own, has spread everywhere. Though bodiless and pure, it has divided the Prajāpati principle, which is of the nature of the year, in the manner of time. But how did this unique Self-principle come to have the name "year"? The Praśna Upaniṣad answers in this way:
-
-संवत्सरो वै प्रजापतिः । .... .... .... .... ॥ (*saṃvatsaro vai prajāpatiḥ | .... .... .... .... ‖*)
-
-पंचपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणं । अथेमे अन्य उ परे विचक्षणं सप्तचक्रे षडर आहुरर्पितं ॥ (*paṃcapādaṃ pitaraṃ dvādaśākṛtiṃ diva āhuḥ pare ardhe purīṣiṇaṃ | atheme anya u pare vicakṣaṇaṃ saptacakre ṣaḍara āhurarpitaṃ ‖*) (Praśna. 9-11).<sup class="q">?143</sup>
-
-This Prajāpati, who is of the nature of the year, has five feet. For this Āditya the five seasons are like feet, and with those seasons he, himself unmoving, goes round as though on five legs. Because he has created everything, he is called the Father. He has twelve limbs in the form of the months. In the half above the heaven, that is, in the third heaven, he is the Giver of rain (पुरीषि (*purīṣi*)). Other knowers of time say of him that he is all-seeing, that is, omniscient. They call him the one who, as seven wheels, in the form of seven horses, in the shape of a wheel moves on without pause, with six crowbars (spokes), that is, he is of the nature of time, joined with the six seasons. Whether he is described as having five feet and twelve forms, or as being seven wheels with six spokes, the purport is the same. In whatever way, the Self of time called the year, who exists in the forms of moon and sun, is the cause of the world's activity.
-
-This same principle of the Self is described in the Bṛhadāraṇyaka Upaniṣad with यो वै स संवत्सरः प्रजापतिः षोडशकलः (*yo vai sa saṃvatsaraḥ prajāpatiḥ ṣoḍaśakalaḥ*) and so on (Bṛ. U. 1-5-15).
-
-यतं वर्षिष्ठं गावः उप आगुः (*yataṃ varṣiṣṭhaṃ gāvaḥ upa āguḥ*): the purport is that the rays joined the year, which is of the nature of Āditya and is the eldest and most worthy of worship of all, or the Āditya principle, which is of the nature of the year. As is said in आदित्यो ब्रह्मेत्यादेशः (*ādityo brahmetyādeśaḥ*) (Chā. U. 3-19-1), Āditya is the supreme Brahman. That is why, in the Ṛk Saṃhitā:
-
-अभि यं देव्यदिर्तिगृणाति सवं देवस्य सवितुर्जुषाणा । अभि सम्राजो वरुणो गृणंत्यभि मित्रासो अर्यमा सजोषाः ॥ (*abhi yaṃ devyadirtigṛṇāti savaṃ devasya saviturjuṣāṇā | abhi samrājo varuṇo gṛṇaṃtyabhi mitrāso aryamā sajoṣāḥ ‖*) (Ṛ. Saṃ. 7-38-4).
-
-Aditi praises Āditya, who is of the form of Savitṛ. Varuṇa and the other gods, the sovereigns of the whole universe, worship him. Therefore Āditya is the best of all the gods and worthy of worship; hence the attribute वर्षिष्ठं (*varṣiṣṭhaṃ*). Since this Āditya is the supreme principle, the attribute ऋतं (*ṛtaṃ*) is also given. The rays of Āditya, issuing from his excellent abode, spread water in many places for the whole world and then take it back from those same directions. By these rays Āditya has pervaded all the worlds, heaven, earth and the rest. All these rays, too, establish the connection between Āditya and all the regions of the infinitely spread universe, and so bring about unity. Thus the rays that issue from Āditya pervade the universe, then come back from all directions and join him; that the whole universe is pervaded by Āditya alone is described by the passages of the Chāndogya Upaniṣad as follows:
-
-असावादित्यो देवमधु तस्य द्यौरेव शिरश्चीनवंशोऽंतरिक्षमपूपो मरीचयः पुत्राः । (*asāvādityo devamadhu tasya dyaureva śiraścīnavaṃśo 'ṃtarikṣamapūpo marīcayaḥ putrāḥ |*)
-
-तस्य ये प्रांचो रश्मयस्ता एवास्य प्राच्यो मधुनाड्यः (*tasya ye prāṃco raśmayastā evāsya prācyo madhunāḍyaḥ*) (Chā. U. 3-1).
-
-This Āditya is the honey of the gods. The heaven is the tree-stem that supports it, the atmosphere is the nest, and the rays are the offspring. The rays that spread toward the east are the honey-channels of the east. The Ṛks are the bees, and the Ṛgveda is the flower. The offerings made in the sacrifice, in the form of ghee and milk, are the drops of nectar. When the Ṛk-mantras have ripened, fame, brilliance, sense-power, virility, strength and sap arise from rites such as sacrifice. Afterwards all these sap-like fruits spread toward Āditya and join him. These are the causes of the beautiful red disc of the rising Āditya.
-
-अथ येऽस्य दक्षिणा रश्मयस्ता एवास्य दक्षिणा मधुनाड्यो (*atha ye 'sya dakṣiṇā raśmayastā evāsya dakṣiṇā madhunāḍyo*) (Chā. U. 3-2).
-
-The rays that spread toward the south: the Yajus-mantras are the bees, the Yajurveda is the flower, and the ghee and milk of the sacrificial offerings are the drops of nectar. Sap and the rest arise from this, spread again toward Āditya and join Āditya himself. These are the causes of Āditya's white form.
-
-अथ येऽस्य प्रत्यंचो रश्मयः...सामान्येव मधुकृतस्सामवेद एव पुष्पं....एतदादित्यस्य कृष्णं रूपं ॥ अथ येऽस्कोदंचो रश्मयः.... अथर्वांगिरस एव मधुकृत इतिहासपुराणं पुष्पं !....एतदादित्यस्य परं कृष्णं रूपं । (*atha ye 'sya pratyaṃco raśmayaḥ...sāmānyeva madhukṛtassāmaveda eva puṣpaṃ....etadādityasya kṛṣṇaṃ rūpaṃ ‖ atha ye 'skodaṃco raśmayaḥ.... atharvāṃgirasa eva madhukṛta itihāsapurāṇaṃ puṣpaṃ !....etadādityasya paraṃ kṛṣṇaṃ rūpaṃ |*) (Bhā. U. 3-3-4).<sup class="q">?144</sup>
-
-In the flower in the form of the Sāmaveda, the bees in the form of the Sāmans create drops of nectar in the form of offerings and join them to the Sun. These are the causes of Āditya's dark form. Then, from the flower in the form of Itihāsa and Purāṇa, the bee in the form of the Atharvans creates the drop of nectar in the form of sap and the like. These join Āditya. These are the causes of Āditya's deep dark form.
-
-In these five-fold, nectar-filled, sap-natured forms of Āditya dwell the Vasus, Rudras, Ādityas, Maruts and Sādhyas. They also enter the red and other colours in Āditya's rays. The
-
-one who knows the essence of these nectars in the form of rays, that is, the one who knows the nature of Āditya, obtains a place among the Vasus, Rudras and the rest.
-
-स्त्रियः सतीस्ता उ मे पुंस आहुः पश्यदक्रणान्न वि चेतदंधः । कविर्यः पुत्रः स ईमा चिकेत यस्ता विजानात्स पितुष्टितासत् ॥ (*striyaḥ satīstā u me puṃsa āhuḥ paśyadakraṇānna vi cetadaṃdhaḥ | kaviryaḥ putraḥ sa īmā ciketa yastā vijānātsa pituṣṭitāsat ‖*) (Ṛ. Saṃ. 1-164 16).
-
-In explaining this Ṛk, the nature of these rays of Āditya has been described in detail (Ṛgveda Saṃhitā, part 12, p. 388). In these rays of Āditya the female nature and the male nature are mingled. When it bears the embryo in the form of water, the female form appears. When the same disperses the rain, the male form appears. When it shows the female form it is extremely attractive, and when it shows the male form it is extremely powerful. These rays of Āditya spread to the many directions of the universe and to the intermediate directions. They illumine all things, take all the things of the universe into themselves, join the Sun and lay them in his womb. For this very reason Āditya has all forms. [यत्सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु संनिधत्ते (*yatsarvaṃ prakāśayati tena sarvān prāṇān raśmiṣu saṃnidhatte*) Praśna. 1-6].
-
-The same view was described earlier in Ṛ. Saṃ. 1-164-17 by the words वत्सं बिभ्रती गौरुदस्थात् (*vatsaṃ bibhratī gaurudasthāt*). The purport, explained earlier with citation of Upaniṣadic and other passages, is this: the cow in the form of a ray issues from Āditya, supplies the wealth the sacrificer needs, then lifts the sacrificer up, flies away unseen, joins Āditya and becomes merged in him. [Ṛgveda Saṃhitā, 12, p. 401].
-
-Showing the identity of this Āditya with the year, the Taittirīya Upaniṣad teaches that the Āditya principle is the Brahman principle that contains the whole universe:
-
-आदित्यो वा एष एतन्मंडलं तपति तत्र ता ऋचस्तदृचा मंडलग्ंस ऋचां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिर्दिप्यते तानि सामानि स साम्यां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिसि पुरुषस्तानि यजूग्ंषि स यजुषा मंडलग् स यजुषां लोकस्यॆषा त्रय्येव विद्या तपति य एषोऽंतरादित्ये हिरण्मयः पुरुषः (*ādityo vā eṣa etanmaṃḍalaṃ tapati tatra tā ṛcastadṛcā maṃḍalagṃsa ṛcāṃ loko 'tha ya eṣa etasminmaṃḍale 'rcirdipyate tāni sāmāni sa sāmyāṃ loko 'tha ya eṣa etasminmaṃḍale 'rcisi puruṣastāni yajūgṃṣi sa yajuṣā maṃḍalag sa yajuṣāṃ lokasyèṣā trayyeva vidyā tapati ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣaḥ*) (Śrī. U. 4-14).<sup class="q">?145</sup>
-
-This Āditya principle, which lies beyond perception, shines in the form of the Sun for the favour of the world. The mass of radiance in the Sun's form is the power of the Ṛks and their place of shining. The shining flames of the Sun are the power of the Sāmans and their place of shining. The Person who stands in the middle of this circle of light,
-
-as the aggregate of the Yajus-mantras, is the seat of their shining. Therefore, to realise this Person-principle fully is possible only through the practice of the threefold knowledge (trayī vidyā). So the Sun's disc, the light that has issued from the disc, and the Person within this ray: these three are the self-nature of the triple Veda. The purport is that the supreme principle shines only in the threefold form. Moreover:
-
-आदित्यो वै तेज ओजो बलं यशश्चक्षुः श्रोत्रमात्मा मनो मन्युर्मनुर्मृत्युस्सत्यो मित्रो वायुराकाशः प्राणो लोकपालः कः किं कं तथस्यमन्नममृतो जीवो विश्वः कतमः स्वयंभु ब्रह्मैतदमृत एष पुरुष एष भूतानामधिपतिर्ब्रह्मणस्सायुज्यग्ंसलोकतामाप्योत्येतासामेव देवतानाग्ं सायुज्यग्ंसार्ष्टिताग्ंसमानलोकतामाप्योति य एवं वेदेत्युपनिषत् ॥ (*ādityo vai teja ojo balaṃ yaśaścakṣuḥ śrotramātmā mano manyurmanurmṛtyussatyo mitro vāyurākāśaḥ prāṇo lokapālaḥ kaḥ kiṃ kaṃ tathasyamannamamṛto jīvo viśvaḥ katamaḥ svayaṃbhu brahmaitadamṛta eṣa puruṣa eṣa bhūtānāmadhipatirbrahmaṇassāyujyagṃsalokatāmāpyotyetāsāmeva devatānāgṃ sāyujyagṃsārṣṭitāgṃsamānalokatāmāpyoti ya evaṃ vedetyupaniṣat ‖*) (Trai. U. 4-15).
-
-This Āditya principle is full of manifold glories. Whoever realises whichever aspect and worships it obtains the fruit that accords with that worship. The commentator explains: एवमादिभूतो तत्तद्भावेनानुगृह्णाति तत्तदर्थिना स एवं ज्ञात्वोपासितव्यः (*evamādibhūto tattadbhāvenānugṛhṇāti tattadarthinā sa evaṃ jñātvopāsitavyaḥ*).
-
-यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति । तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहं ॥ (*yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati | tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyahaṃ ‖*) (Bha. Gī. 7-21).<sup class="q">?146</sup>
-
-Whatever devotee worships whichever aspect of my special glories with devotion, to each of them I give the fruit that accords with his faith and devotion. The assurance of this Bhagavadgītā verse is also stated here, according to the commentator's view. This Āditya is the light that illumines the universe. He is the vigour that gives strength to the universe and the inner essence that gives vitality. He is the eye, fame and hearing. He is the Self in the form of resolve, and Death, the cause of the world's destruction. He is also the principle of ether in the form of the vital breath, the cause of the world's growth. He is the principle of wind, which impels the world's activity. He is the form of bliss. The world-guardians such as Indra are included within him. Truth, which pervades everything, is included in him; or else this same Person, in the form of truth, is all-pervading. Svayambhū and Prajāpati, and whatever names the principle at the root of the creation of the universe is known by, all these are the glories of this Supreme Person. The knower who knows such a supreme principle and worships it attains this sāyujya with Brahman.
-
-घृणिः सूर्य आदित्यो न प्रभा वात्यक्षरं । मधु क्षरंति तद्रसं । सत्यं वै तद्रसमापो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः सुवरों ॥ (*ghṛṇiḥ sūrya ādityo na prabhā vātyakṣaraṃ | madhu kṣaraṃti tadrasaṃ | satyaṃ vai tadrasamāpo jyotīraso 'mṛtaṃ brahma bhūrbhuvaḥ suvaroṃ ‖*) (Tai. U. 4-37).
-
-…that is, in the passage there is a description of Savitṛ as a mass of radiance. This Savitṛ is described as *ghṛṇi*. *Ghṛṇi* means "of the nature of radiance". This Āditya-principle is to be meditated on in the form of the Praṇava. This principle is of the nature of light,<sup class="q">?147</sup>, of the nature of food, and pervades the three worlds, Bhūḥ, Bhuvaḥ and Suvaḥ. The passage describes the greatness of the Supreme Person within the Āditya: this supreme light, of the nature of Praṇava, is to be meditated on in the form of Brahman.
-
-अत्याः (*atyāḥ*)—"moving", that is, having the nature of moving about; it is an epithet of तिस्रः महीः (*tisraḥ mahīḥ*). Above, the nature of Āditya, the immovable one and the root of the world, was described; now by the epithet अत्याः (*atyāḥ*) the moving worlds are described. This epithet is used in many places when things whose nature is to move constantly are described; it occurs in many places as an epithet of Agni, of Āditya and of the horse, whose nature is to go wherever they wish (Ṛ. Saṃ. 1-56-1; 1-190-4). The special meaning of this word was stated earlier.
-
-तिस्रः महीः उपराः तस्थु: (*tisraḥ mahīḥ uparāḥ tasthu:*)—When it is said that the three worlds stand one above another, the word *mahī* is taken to mean "world". The words *pṛthvī* and *antarikṣa* too give, at times, not merely the sense of a single world but a collective sense in which all three worlds are included. Therefore, even though some details about the state of the earth and the other worlds are given here on the authority of Vedic passages, it is not easy to state the meaning of the passages quoted precisely, as "this and thus". Even so, one may examine in what manner the condition of the three worlds, earth and the rest, is described in the Ṛksaṃhitā.
-
-In the Ṛksaṃhitā the description of the earth shows its extent and pervasiveness. Epithets such as *pṛthvī*, *urvī*, *mahī*, *uttānā*, *aparā* point to the greatness of the earth. Though it has such extent, synonyms such as *bhūmi*, *kṣmā*, *gmā*, *iḷā* show that it is different from the atmosphere and the others, which are other than the earth.
-
-भूम्याश्च तेजः प्रदिशस्ताभ्य एना नि वर्तय । (*bhūmyāśca tejaḥ pradiśastābhya enā ni vartaya |*)
-
-(Ṛ. Saṃ. 10-19-8)
-
-Such descriptions of the quarters also indicate the limit of the earth. But this limit does not support a separateness of the earth. Synonyms such as *rodasī*, *dyāvāpṛthivī*, *kṣoṇī* tell us that the earth is necessarily and continuously connected, without a break, with the heaven. Epithets such as *urvī*, *mahī*, *varā* describe the all-pervasiveness of heaven and earth.
-
-उभे अस्मै पीपयतः समीची दिवो वृष्टिं सुभगो नाम पुष्यन् । उभा क्षयावाजयन्याति पृत्सूभावर्धौ भवतः साधू अस्मै ॥ (*ubhe asmai pīpayataḥ samīcī divo vṛṣṭiṃ subhago nāma puṣyan | ubhā kṣayāvājayanyāti pṛtsūbhāvardhau bhavataḥ sādhū asmai ‖*)
-
-(Ṛ. Saṃ. 2-27-15)
-
-In such places heaven and earth are compared to the two hemispheres of the universe. *Ubhau ardhau bhavataḥ* may be taken to mean the moving part, or the part consisting of the mortal and the immortal, or two physical hemispheres. Epithets such as *samīcī*, *dhiṣaṇe*, *camvā* (3-55-20) describe their shape. यो अक्षेणैव चक्रिया शचीभिः (*yo akṣeṇaiva cakriyā śacībhiḥ*) (10-89-4): these heaven and earth, created by Indra of great nature, are like two wheels on the two sides of an axle. Both are special manifestations of Indra's greatness.
-
-If the earth is described by epithets such as *urvī* and *mahī*, the epithet words *rocana* and *rocanaṃ divaḥ* describe the brightness of the heavenly world. What lies between heaven and earth is the atmosphere, or the world of *rajas*. Thus the three worlds named in the present mantra by तिस्रः महीः (*tisraḥ mahīḥ*), the earth, the atmosphere and the heavenly world, are the very worlds that are described by the words *uttama*, *madhyama* and *avama* in Ṛks such as
-
-यदुत्तमे मरुतो मध्यमे वा यद्वावमे सुभगासो दिवि ष्ठ । अतो नो रुद्रा उत वा स्वंस्याग्ने वित्ताद्धविषो यद्यजाम ॥ (*yaduttame maruto madhyame vā yadvāvame subhagāso divi ṣṭha | ato no rudrā uta vā svaṃsyāgne vittāddhaviṣo yadyajāma ‖*)
-
-(Ṛ. Saṃ. 5-60-6)
-
-Although all three worlds are described in the present Ṛk, the statement गुहा द्वे निहिते दर्शेका (*guhā dve nihite darśekā*), that two worlds are invisible and only the earth comes within sight of the eye, is new. For,
-
-तृतीयमस्य नकिरा दधर्षति वयश्चन पतयंतः पतत्रिणः । (*tṛtīyamasya nakirā dadharṣati vayaścana patayaṃtaḥ patatriṇaḥ |*)
-
-(Ṛ. Saṃ. 1-155-5)
-
-Man can know only the earthly world and the atmosphere, in which Viṣṇu places two steps. No one can know the heavenly world, in which this Viṣṇu places the third step.
-
-उभे ते विद्म रजसी पृथिव्या विष्णो देव त्वं परमस्य वित्से । (*ubhe te vidma rajasī pṛthivyā viṣṇo deva tvaṃ paramasya vitse |*)
-
-(7--99-1)
-
-"O radiant Viṣṇu, no one can know your full greatness. We can know only the earth and the atmosphere pervaded by you. Only you can know your supreme third world. No one else has the capacity to know its nature." In this way, wherever the three worlds are described, it is stated that two of the worlds come within human perception and only the third is beyond man's sight.
-
-But in the present Ṛk alone there is this difference: both the heavenly world and the atmosphere are said to be beyond perception.
-
-But in Tai. Saṃ. 6 1-1-1, अंतर्हितो हि देवलोको मनुष्यलोकात् (*aṃtarhito hi devaloko manuṣyalokāt*): that is, although the world of the gods is not seen by our eyes, it is hidden within the world of men; the world of the gods and the world of men are interwoven, one within the other. Because the human world is gross, it is visible to our sight; because the world of the gods is subtle, it is not perceptible to our outer eye. Such is the explanation.
-
 #### Ṛk 3
 
 ##### Saṃhitā-pāṭha
@@ -14994,12 +14860,6 @@ At the time of pressing these stones, like chariots moving swiftly on the road, 
 
 The words भूरिवाराः (*bhūrivārāḥ*), दर्शताः (*darśatāḥ*), यजत्राः (*yajatrāḥ*) are epithets of the flames of Agni and describe the divine nature of those flames. The greatness of Agni's flame will be given in the special topics of the next mantra.
 
-##### Grammar (Vyākaraṇa-prakriyā)
-
-- विवक्कि — वच परिभाषणे । लटि बहुलं छंदसीति शपः श्लुः । अर्तिपिपर्त्योश्च बहुलं छंदसीत्यभ्यासस्यॆत्वं । चकारस्य कुत्वं व्यत्ययेन ।
-- युजानः — युजिबुधिदृशः किच्चेत्यानच् । कित्तादगुणः । चित्तादंतोदात्तः ।
-- मनीषा — सुपो डादेशः ।
-
 #### Ṛk 5
 
 ##### Saṃhitā-pāṭha
@@ -15082,33 +14942,6 @@ This mantra contains praise of the flame of Agni. मधुमती (*madhumat�
 (Vā. Saṃ. 8-24)
 
 O Agni, in the form of Apāṃnapāt, the waters are your face. To escape the onslaught of the Rākṣasas I have entered the waters, which are your face. Be gracious. Thus an identity between the face of Agni and the waters is stated. In some places, when the relation between Agni and the waters is shown, only the physical relation is shown. A more hidden relation is also indicated. At the time of building the fire-altar the priests, absorbed in meditation, grasp the nature of the waters and describe it in this way.
-
-##### Grammar (Vyākaraṇa-prakriyā)
-
-- सुमेधाः — नित्यमसिच् प्रजामेधयोरित्यसिच् ।
-- उच्यते — वच परिभाषणे । कर्मणि यकि रूपं । यद्वृत्तयोगादनिघातः ।
-- उरूची — अंचतेः क्विन् । अंचतेश्चोपसंख्यानमिति जीप् । अनुदात्तस्य च यत्रोदात्तलोप इति जीप उदात्तत्वं ।
-- पायय — पा पान इत्यस्य णौ परतः शाच्छासाह्वान्नावेषां युगिति युक् । तिजि उत्तरत्वादनिघातः ।
-
-ते चेतयमानाः । एतदपश्यन्नप एवैनदभ्यवहरामापो वा अस्य सर्वस्य प्रतिष्ठा तद्यत्रास्य सर्वस्य प्रतिष्ठा तदेनत्प्रतिष्ठाप्य यदत्राग्नेयं तदद्व्योधि जनयिष्याम इति तदपोऽभ्यवाहरन् । (*te cetayamānāḥ | etadapaśyannapa evainadabhyavaharāmāpo vā asya sarvasya pratiṣṭhā tadyatrāsya sarvasya pratiṣṭhā tadenatpratiṣṭhāpya yadatrāgneyaṃ tadadvyodhi janayiṣyāma iti tadapo 'bhyavāharan |*) (Śa. Brā. 6-8-22)
-
-The waters (water) are the support of this whole world. Therefore let us carry this brick-pile to the presence of the waters. Then, having established it in the waters, the support of the universe, let us take from there only the fiery part. So the priests carry the fire-altar to the presence of the waters, which are the mouth of Agni. Then, reciting the mantra
-
-अप्सग्ने सधिष्टव सौषधीरनु रुध्यसे । गर्भे संजायसे पुनः । (*apsagne sadhiṣṭava sauṣadhīranu rudhyase | garbhe saṃjāyase punaḥ |*) (Mai. Saṃ. 8-43-9)
-
-they praise Agni, who is filled by the waters and has spread those water-principles into the plants and the rest, and they glorify in another way the matter described in the Ṛk at hand.
-
-Next, the flame spreading toward the Sun, and this flame, filled by the waters, joining the water that stands in the atmosphere and is of the nature of the Sun's rays, is described thus:
-
-अग्ने दिवो अर्णमच्छा जिगासीति । आपो वा अस्य दिवोर्णस्ता एष धूमेनाभैत्यच्छा देवाग्ं ऊचिषे धिष्ण्या य इति प्राणा वै देवा धिष्ण्यास्ते हि सर्वाधिय इष्टंति या रोचने परस्तात्सूरस्य याश्चावस्तादुपतिष्यंत आप इति रोचनो ह नामैष लोको यत्रैष एतत्तपति तद्याश्चृतं परेणापो याश्चावरेण ता एतदाह ॥ (*agne divo arṇamacchā jigāsīti | āpo vā asya divorṇastā eṣa dhūmenābhaityacchā devāgṃ ūciṣe dhiṣṇyā ya iti prāṇā vai devā dhiṣṇyāste hi sarvādhiya iṣṭaṃti yā rocane parastātsūrasya yāścāvastādupatiṣyaṃta āpa iti rocano ha nāmaiṣa loko yatraiṣa etattapati tadyāścṛtaṃ pareṇāpo yāścāvareṇa tā etadāha ‖*) (Śa. Brā. 7-1-1-24)
-
-The whole atmosphere is a flowing stream of water. O Agni, your attractive flames go and join that stream of water. O Agni, as soon as you, in the form of flame, join the stream of the atmosphere, impel the gods, the representatives of the vital principle, to favour us. May the water-principle that is pervasive beyond even the radiance of heaven, that extends over earth and the other places, and that is all-pervading, become one with you: so it is prayed. Therefore it is described by the epithet madhumatī; it should be understood what nature the epithet sumedhāḥ shows for this same tongue.
-
-अग्ने नय सुसथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ॥ (*agne naya susathā rāye asmān viśvāni deva vayunāni vidvān ‖*) (Ī. Ka. 15)
-
-In this mantra the nature of Agni described by the epithet sumedhāḥ is what is praised. Because Agni is omniscient, knows the principle of sacrifice fully and is famed as Jātaveda, he is prayed to be the guide along the good path.
-
-उरूची (*urūcī*)—Because he pervades the three forms (Agni, Vāyu, Āditya) and the three worlds, the epithet urūcī shows the property of pervasiveness.
 
 #### Ṛk 6
 
@@ -21723,6 +21556,10 @@ The first ṛk of this sūkta is in the metre called aṣṭi. The second ṛk i
 
 इति (*iti*)—The word इति (*iti*) is used here in the sense of cause (the sense "therefore").
 
+Pracetasam: one whose cognition (cetas, jñāna) concerning ritual action is excellent; that is, one who knows rites well. The meaning is: one who has proper understanding in sacrificial performances and the like.
+
+Viśvaṃ janata: although many sacrificers in various parts of the country perform sacrifices at the same time, Agni, in his many forms, takes part in the sacrificial act in all of them at once and has the power to bring it to successful completion. In this Ṛk the seer Vāmadeva explains that this all-pervading power came to Agni from the gods.
+
 #### Ṛk 2
 
 ##### Saṃhitā-pāṭha
@@ -21799,10 +21636,6 @@ Bhrātaram: how is Varuṇa a brother to Agni? It is proper to say that Agni, In
 अष्टौ पुत्रासो अदिशेः । ये जातास्तन्वःपरि । देवा उपप्रैत्सस्तभिः । परामार्तांडमास्यत् । सप्तभिः पुत्रैरदितिः। उपप्रैत्सूर्व्यं युगं । प्रजायै मृत्यनेतत् । परामार्तांडमा भरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग् श्चेत्येते ॥ (*aṣṭau putrāso adiśeḥ | ye jātāstanvaḥpari | devā upapraitsastabhiḥ | parāmārtāṃḍamāsyat | saptabhiḥ putrairaditiḥ| upapraitsūrvyaṃ yugaṃ | prajāyai mṛtyanetat | parāmārtāṃḍamā bharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāg ścetyete ‖*) (Kṛ. Ā. 1-13-2)
 
 Aditi is said to have eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān. In many places it is said that Agni is in heaven as Āditya or the sun, and it is well known that Āditya is one of Agni's three forms. Therefore the fact that Agni and Varuṇa are brothers is indicated here by the word bhrātaram.
-
-Pracetasam: one whose cognition (cetas, jñāna) concerning ritual action is excellent; that is, one who knows rites well. The meaning is: one who has proper understanding in sacrificial performances and the like.
-
-Viśvaṃ janata: although many sacrificers in various parts of the country perform sacrifices at the same time, Agni, in his many forms, takes part in the sacrificial act in all of them at once and has the power to bring it to successful completion. In this Ṛk the seer Vāmadeva explains that this all-pervading power came to Agni from the gods.
 
 #### Ṛk 3
 
@@ -32906,7 +32739,7 @@ The Sun, who moves near and is of the form of a disc, has a course that no one s
 
 This sun, not far removed and unobstructed, whether looking down- wards or upwards, is harmed by no one: what is the power by which he travels ? who has (truly)beheld him who, as the collective pillar of heaven. sustains the sky.
 
-##### Special Topics
+## Sūkta 15 (Maṇḍala 4)
 
 Sūkta 15. Introduction. An account of the rite called Paryagnikaraṇa.
 
@@ -32931,8 +32764,6 @@ Because the fire is carried round the animal, this rite is called Paryagni. That
 परित्रिविष्ट्यध्वरं यात्यग्नी रथीरिवेत्येष हि रथीरिवाध्वरं परियाति । परि वाजपतिः कविरित्येष हि वाजानां पतिः ॥ (*paritriviṣṭyadhvaraṃ yātyagnī rathīrivetyeṣa hi rathīrivādhvaraṃ pariyāti | pari vājapatiḥ kavirityeṣa hi vājānāṃ patiḥ ‖*) (Ai. Brā. 6-5). The sentence in the mantra परित्रिविष्टध्वरं परियात्यग्नी रथीरिव (*paritriviṣṭadhvaraṃ pariyātyagnī rathīriva*) means that in this sacrifice Agni circles swiftly round the animal, as a charioteer seated in a chariot travels swiftly. The sentence परिवाजपतिः कविः (*parivājapatiḥ kaviḥ*) means that this Agni, the far-seeing one (who knows everything), is the lord of food, or the carrier of the oblation suited to Indra and the other gods.
 
 The explanation of the rite-part called Paryagnikaraṇa is ended.
-
-## Sūkta 15 (Maṇḍala 4)
 
 ##### Sāyaṇa's introduction to the sūkta
 
@@ -35412,6 +35243,23 @@ Truly are all libations his; the inebriating draughts are truly most exhilaratin
 *Adha* means "and also". As soon as you were born, when there was fear because of Vṛtra (*ame*), you upheld (*adhithāḥ*) all the subjects (*kṛṣṭi*) as their protector. O Maghavan, wealthy Indra, you, aiming at the regions where the water runs downward (*pratipravataḥ*), cut with the thunderbolt Ahi, the asura named Vṛtra, who lay (*āśayānam*) blocking the waters.
 
 ##### Word-to-word meaning
+
+- अध (*adha*)—and
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- जायमानः (*jāyamānaḥ*)—being born
+- प्रथमं (*prathamaṃ*)—at the very beginning
+- अमे (*ame*)—when fear caused by Vṛtra arose
+- विश्वाः (*viśvāḥ*)—all
+- कृष्टीः (*kṛṣṭīḥ*)—the subjects
+- अधिथाः (*adhithāḥ*)—you have upheld for their protection
+- मघवन् (*maghavan*)—O wealthy Indra
+- त्वं (*tvaṃ*)—you
+- प्रति प्रवतः (*prati pravataḥ*)—across the regions of flowing water
+- आशयानं (*āśayānaṃ*)—who lay obstructing
+- अहिं (*ahiṃ*)—Vṛtra
+- वज्रेण (*vajreṇa*)—with the thunderbolt weapon
+- निवृश्चः (*nivṛścaḥ*)—you have cut down
 
 ##### Gist
 

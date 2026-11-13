@@ -97,6 +97,27 @@ def run(vol):
         if u is None: orphans.append(p); continue
         u['en'] += p['en']
         if p.get('loose'): u.setdefault('loose', []).extend(p['loose'])
+    # repairs kept as data (data/import_fixes.json): applied at every run
+    import json
+    fp = os.path.join(P['data'], 'import_fixes.json'); fx = json.load(open(fp, encoding='utf8')) if os.path.exists(fp) else {}; fixed = []
+    byid = {u['id']: u for u in units}
+    for mv in fx.get('move', []):
+        a, b = byid.get(mv['from']), byid.get(mv['to'])
+        if a is None or b is None: fixed.append(f"NOT APPLIED move {mv['from']} -> {mv['to']} (unit not found)"); continue
+        b['en'] = (a['en'] + b['en']) if mv.get('where') == 'prepend' else (b['en'] + a['en']); b.setdefault('loose', []).extend(a.pop('loose', []))
+        units.remove(a); by.pop((a['m'], a['s'], a['rk'], a['kind']), None)
+        if a['id'] in nolabel: nolabel.remove(a['id'])
+        fixed.append(f"moved {mv['from']} -> {mv['to']} ({mv.get('where')}): {mv['why']}")
+    for sa in fx.get('set_aside', []):
+        u = byid.get(sa['id'])
+        if u is None: fixed.append(f"NOT APPLIED set aside {sa['id']}"); continue
+        u['set_aside'] = sa['why']; fixed.append(f"set aside (kept in the data, not printed) {sa['id']}: {sa['why']}")
+        if u['id'] in nolabel: nolabel.remove(u['id'])
+    for ad in fx.get('add_en', []):
+        u = byid.get(ad['id'])
+        if u is None or any(it[0] == 'text' for it in u.get('en', [])): fixed.append(f"NOT APPLIED add {ad['id']} (unit missing or already has English)"); continue
+        u['en'] = [['text', f"- {kn2deva(k)} (*{deva_to_iast(kn2deva(k)).strip()}*)—{g}"] for k, g in ad['lines']]; u['supplied'] = ad['why']
+        fixed.append(f"English supplied for {ad['id']} ({len(ad['lines'])} entries): {ad['why']}")
     # the Sanskrit blocks of the English file against the source (they are not taken over; this is the proof that the source has the same)
     cmp_ = collections.Counter(); bad = []
     for u in units:
@@ -115,19 +136,20 @@ def run(vol):
             if it[0] != 'text': continue
             for k in re.findall(r'⟨NOTE:(\d+)⟩', it[1]): u['notes'].append([int(k), q(int(k))]); marks += 1
         for k in u.pop('loose', []): u['notes'].append([k, q(k)]); marks += 1
-    for u in units: u['state'] = 'imported' if u.get('en') else ('source only' if u['kind'] in ('samhita', 'pada', 'bhashya', 'english') else 'to do')
+    for u in units: u['state'] = 'set aside' if u.get('set_aside') else 'supplied' if u.get('supplied') else 'imported' if u.get('en') else ('source only' if u['kind'] in ('samhita', 'pada', 'bhashya', 'english') else 'to do')
     save_units(vol, units)
     # proof 1: every English paragraph of the file is in exactly one unit
     src = collections.Counter(it[1] for p in pieces for it in p['en'] if it[0] == 'text')
-    got = collections.Counter(it[1] for u in units for it in u.get('en', []) if it[0] == 'text')
+    got = collections.Counter(it[1] for u in units if not u.get('supplied') for it in u.get('en', []) if it[0] == 'text')
     lost = sum((src - got).values()); twice = sum((got - src).values())
-    ntext = sum(src.values()); need = [u for u in units if u['kind'] in ('pratipada', 'bhavartha', 'vishesha', 'grammar', 'intro', 'preface', 'summary')]
+    ntext = sum(src.values()); need = [u for u in units if not u.get('set_aside') and u['kind'] in ('pratipada', 'bhavartha', 'vishesha', 'grammar', 'intro', 'preface', 'summary')]
     empty = [u['id'] for u in need if not any(it[0] == 'text' for it in u.get('en', []))]
     kinds = collections.Counter(u['kind'] for u in units)
     rep = [f'# Vol {vol}: import report (rv import)', '', f'English file cut into {len(pieces)} pieces; units now {len(units)} ({made} summary units added beside their bhāṣya).', '',
            '## Proof 1: every English paragraph placed once', f'- paragraphs of English text in the file: {ntext}', f'- placed in a unit: {ntext - lost}', f'- not placed (their piece has no unit): {lost}' + (f' in {len(orphans)} pieces: ' + ', '.join(sorted({str((p["m"], p["s"], p["rk"], p["kind"])) for p in orphans})[:12]) if orphans else ''),
            f'- placed more than once: {twice}', f'- parts that the English has and the Kannada file has no label for (units without Kannada; a fault of the supplied text or of its labels): {len(nolabel)}' + (': ' + ', '.join(nolabel) if nolabel else ''), f'- units that should have English and have none: {len(empty)}' + (': ' + ', '.join(empty[:15]) if empty else ''), '',
            '## Proof 2: the Sanskrit of the English file equals the source (verse, Pada, bhāṣya)'] + [f'- {k}: {v}' for k, v in sorted(cmp_.items())] + ([f'- units that differ: ' + ', '.join(bad[:20])] if bad else []) + ['',
+           '## Repairs applied from data/import_fixes.json'] + ([f'- {x}' for x in fixed] or ['- none']) + ['',
            '## Questions for the editor', f'- NOTE marks in the English file: {st["NOTE marks numbered in file order"]}; rows in review/notes.tsv: {len(rows)}; attached to units: {marks}', '',
            '## Left behind on purpose'] + [f'- {k}: {v}' for k, v in sorted(st.items())]
     open(os.path.join(P['review'], 'import_report.md'), 'w', encoding='utf8').write('\n'.join(rep) + '\n'); print('\n'.join(rep))

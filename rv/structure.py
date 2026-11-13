@@ -16,6 +16,10 @@ TITLE = re.compile(r'\s*\S+(\s+\S+)?\s+ಸೂಕ್ತವು\s*[.।]?\s*')     
 def parse_kn(vol):
     """-> (units in order, counters).  A unit: {kind, m, s, rk, kn: [items]}; an item is ['text', line] | ['block', [lines]] | ['page', n, head] | ['figure', path] | ['break']."""
     L = open(vol_paths(vol)['kn'], encoding='utf8').read().split('\n'); st = collections.Counter()
+    sfix = {}; sp = os.path.join(vol_paths(vol)['data'], 'source_fixes.tsv')          # corrections of the supplied text (DESIGN §3.3): the file is never edited
+    if os.path.exists(sp):
+        for r in list(csv.reader(open(sp, encoding='utf8'), delimiter='\t'))[1:]:
+            if len(r) >= 3: sfix[(r[0].strip(), r[1].strip())] = r[2].strip()
     units = []; cur = None; m = s = rk = None; expect_head = False; lastpage = None; pending = None      # pending: the introduction of the next sūkta, begun at its title line
     def start(kind):
         nonlocal cur
@@ -46,9 +50,11 @@ def parse_kn(vol):
         if t == '## ಪೀಠಿಕೆ': start('front'); cur['kind'] = 'preface'; continue
         mm = re.match(r'#### ಋಕ್ ([೦-೯]+)', t)
         if mm: rk = int(mm.group(1).translate(KD)); cur = None; st['Ṛk headings'] += 1; continue
+        fx = sfix.get((f'{m}.{s}.{rk}', t))
         mm = re.fullmatch(r'\*([^*\[\]]+?)[.:]?\*', t)
-        if mm and mm.group(1).strip() in LABELS:
-            kind = LABELS[mm.group(1).strip()]; st['label ' + kind] += 1
+        if (mm and mm.group(1).strip() in LABELS) or (fx and fx.startswith('label:')):
+            kind = fx[6:] if fx else LABELS[mm.group(1).strip()]; st['label ' + kind] += 1
+            if fx: st['labels restored from the corrections list (data/source_fixes.tsv)'] += 1
             if pending is not None or (cur is not None and cur['kind'] == 'intro' and rk is None): ensure()['kn'].append(['label', kind]); continue      # a label inside a sūkta's introduction (Sāyaṇa's introductory block)
             prev = next((u for u in reversed(units) if u['s'] == s and u['rk'] == rk and u['m'] == m and u['kind'] == kind), None) if rk else None
             if prev is not None: cur = prev; cur['kn'].append(['break'])          # the label repeated after a page break: the same part goes on

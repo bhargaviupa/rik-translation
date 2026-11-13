@@ -1,0 +1,103 @@
+{
+ "_doc": "Repairs applied by `rv import` every time it runs (docs/DESIGN.md: nothing is edited in printed files). move = English that the old file had under the wrong heading; set_aside = English with no counterpart in the edition (kept in the data, not printed); add_en = English supplied for a unit the old file left empty (headword in Kannada script as in the source, then the meaning).",
+ "move": [
+  {
+   "from": "17.4.001.02.loose",
+   "to": "17.4.001.01.vishesha",
+   "where": "append",
+   "why": "two paragraphs of the Special Topics of Ṛk 1 (Pracetasam, Viśvaṃ janata) stood after the heading of Ṛk 2 in the old file"
+  },
+  {
+   "from": "17.4.014.05.vishesha",
+   "to": "17.4.015.00.intro",
+   "where": "prepend",
+   "why": "the introduction of Sūkta 15 (the rite Paryagnikaraṇa) stood under the Special Topics of 4.14.5 in the old file; in the edition it opens Sūkta 15"
+  }
+ ],
+ "set_aside": [
+  {
+   "id": "17.3.056.02.grammar",
+   "why": "a list drawn from the grammatical tail of the bhāṣya; the edition has no grammar section here and the bhāṣya is printed in full"
+  },
+  {
+   "id": "17.3.057.04.grammar",
+   "why": "as above"
+  },
+  {
+   "id": "17.3.057.05.grammar",
+   "why": "as above"
+  }
+ ],
+ "add_en": [
+  {
+   "id": "17.4.017.07.pratipada",
+   "why": "the old file had no word meanings for this Ṛk; supplied Nov 13 2026 from the Kannada, to be read a second time with the rest",
+   "lines": [
+    [
+     "ಅಧ",
+     "and"
+    ],
+    [
+     "ಇಂದ್ರ",
+     "O Indra"
+    ],
+    [
+     "ತ್ವಂ",
+     "you"
+    ],
+    [
+     "ಜಾಯಮಾನಃ",
+     "being born"
+    ],
+    [
+     "ಪ್ರಥಮಂ",
+     "at the very beginning"
+    ],
+    [
+     "ಅಮೇ",
+     "when fear caused by Vṛtra arose"
+    ],
+    [
+     "ವಿಶ್ವಾಃ",
+     "all"
+    ],
+    [
+     "ಕೃಷ್ಟೀಃ",
+     "the subjects"
+    ],
+    [
+     "ಅಧಿಥಾಃ",
+     "you have upheld for their protection"
+    ],
+    [
+     "ಮಘವನ್",
+     "O wealthy Indra"
+    ],
+    [
+     "ತ್ವಂ",
+     "you"
+    ],
+    [
+     "ಪ್ರತಿ ಪ್ರವತಃ",
+     "across the regions of flowing water"
+    ],
+    [
+     "ಆಶಯಾನಂ",
+     "who lay obstructing"
+    ],
+    [
+     "ಅಹಿಂ",
+     "Vṛtra"
+    ],
+    [
+     "ವಜ್ರೇಣ",
+     "with the thunderbolt weapon"
+    ],
+    [
+     "ನಿವೃಶ್ಚಃ",
+     "you have cut down"
+    ]
+   ]
+  }
+ ]
+}

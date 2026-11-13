@@ -8,7 +8,7 @@
 2. **Spelling of the printed verse.** The reference writes इन्द्र and final म् where the edition writes इंद्र and ं, so the verse differs in spelling from the Pada-pāṭha and bhāṣya under it. *For now:* the reference as it stands. *Remains:* the user's decision whether to adapt it to the edition's habit.
 3. **Other disagreements between the verse and the Pada-pāṭha, word meanings or bhāṣya** (requirement F1, second half). *For now:* listed only. *Remains:* decide whether any are printed.
 4. **Questions for the editor.** Vol 17: 471 open (`vol17/review/notes.tsv`); a published book may carry none.
-5. **Faults found by the new structure step in Vol 17's English** (`vol17/review/import_report.md`): word meanings of 4.17.7 missing; seven parts with no label in the Kannada file. To be repaired when Vol 17 is taken to a release candidate.
+5. ~~Faults found by the new structure step in Vol 17's English~~ **Repaired Nov 13 2026** (`vol17/review/repair_log.md`, last entry): two misread Bhāvārtha labels restored, two misplaced passages moved, three duplicate grammar lists set aside, word meanings of 4.17.7 supplied. *Remains:* the supplied word meanings of 4.17.7 have not been read a second time; the three set-aside grammar lists await the user's word (keep out, or print).
 6. **Abbreviations not in the one list**, and suspected misreadings such as "Bhā. U." (`vol17/review/references_report.md`, `docs/REFERENCES.md` part 3): the editor decides; nothing is corrected until then.
 7. **Vol 16:** about 70 places with broken punctuation left by the removal of "as supplied" comments on Nov 12 2026. Repair, or undo that step.
 

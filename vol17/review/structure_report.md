@@ -1,18 +1,19 @@
 # Vol 17: structure report (rv structure)
 
-Units: 2944 (bhashya 441, bhavartha 438, english 441, grammar 1, intro 41, pada 441, pratipada 441, preface 1, samhita 441, vishesha 258)
+Units: 2946 (bhashya 441, bhavartha 440, english 441, grammar 1, intro 41, pada 441, pratipada 441, preface 1, samhita 441, vishesha 258)
 
 ## Read from the Kannada file
 - Sanskrit blocks: 1550
 - bracketed lines of the Kannada file (not original text): 448
 - label bhashya: 483
-- label bhavartha: 438
+- label bhavartha: 440
 - label english: 441
 - label grammar: 1
 - label pada: 441
 - label pratipada: 441
 - label samhita: 441
 - label vishesha: 258
+- labels restored from the corrections list (data/source_fixes.tsv): 2
 - pages: 1007
 - parts before the first sūkta heading joined to its introduction: 1
 - running heads: 997
