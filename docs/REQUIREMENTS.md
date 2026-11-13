@@ -113,7 +113,9 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 3. **One mark only** for a place that needs the editor's decision: `NOTE`, **in the working files only**. Its question is in the volume's review list. No `[?]`, no `[sic]`, no "as supplied". The published book shows none of it (A1). (F7)
 
 ### B5. Deviations
-Where the Pada-pāṭha, the Word-to-word meaning or the Sāyaṇa-bhāṣya of the supplied text deviates, it is mentioned, not silently altered. (F1)
+1. **The verse.** The book prints the Saṃhitā of the reference text (B1.2). **Where the Saṃhitā of the Kannada edition reads differently, the book says so, under the verse** (decided by the user, Nov 13 2026): Sāyaṇa's commentary, the Pada-pāṭha and the word meanings follow the edition's verse, so a reader must be able to see what they are explaining. This is part of the book, not a comment of ours; it is the one kind of editorial note the published book carries as a rule.
+2. **Only a real reading of the edition is printed.** The supplied text is a machine reading and has wrong letters of its own. A difference is printed as "the Kannada edition reads …" only when it is confirmed as the edition's reading; an unconfirmed difference stays in the review list and is not printed. (F17)
+3. **Pada-pāṭha, Word-to-word meaning, Sāyaṇa-bhāṣya.** These are given as the edition has them and are never altered to agree with the reference verse. Where they disagree with it beyond what item 1 already states, it is listed for the editor. (F1, second half)
 
 ### B6. Completeness
 1. Every page, every sūkta and every Ṛk of the original is present once, in order.
@@ -127,7 +129,7 @@ Where the Pada-pāṭha, the Word-to-word meaning or the Sāyaṇa-bhāṣya of 
 - Text from the reference (B1.2), with accents.
 - Every akṣara set apart, in every volume (the look piloted in Vol 17).
 - The Ṛk number is checked against the reference: none missing, none misplaced.
-- Where the supplied verse differs from the reference in a letter: (F10).
+- Where the edition's verse differs from the reference: stated under the verse (B5.1), once confirmed (B5.2).
 
 ### C2. Pada-pāṭha
 - As supplied, with transliteration.
@@ -198,7 +200,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 
 | No. | Question | Concerns |
 |---|---|---|
-| F1 | **Deviations.** Deviation from what — the reference verse (a word spelt differently from the Saṃhitā)? And is the mention a line in the book, or an entry in the review list only? | B5, C2, C3 |
+| F1 | **Deviations.** *First half decided Nov 13 2026:* a difference between the reference Saṃhitā and the edition's Saṃhitā is stated in the book (B5.1). *Still open:* when the Pada-pāṭha, a word meaning or the bhāṣya disagrees with the verse in some other way, is that printed too, or listed for you only? (assumed: listed only) | B5, C2, C3 |
 | F2 | **Two "Gists".** If Bhāvārtha becomes "Gist", what is the summary of the bhāṣya called? Proposal: it stands under "Sāyaṇa's Explanation" as "Summary". | A3, C3 |
 | F3 | **Footer.** One line such as "Kannada edition p. 235 · Maṃ. 3, Anu. 1, Va. 14"? When one of our pages holds parts of two original pages, both numbers? | A4 |
 | F4 | **Stray letters.** Removed without trace, or removed from the book and listed in the review list? | B4.2 |
@@ -207,13 +209,14 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F7 | **Older volumes.** Do B4.1–B4.3 apply to Vols 1–16 by clean-up, or only when a volume is redone? (The Vol 16 trial showed that removing remarks by script damages sentences.) | B4 |
 | F8 | **Credits.** One combined page or two? Wording of the thanks; where the AI assistance is mentioned once it leaves the copyright lines. | A2 |
 | F9 | **Kannada book.** May it carry our added sūkta and Ṛk headings and page marks, or the original text only? | A5 |
-| F10 | **Verse differences.** When the supplied verse differs from the reference, is the difference listed for the editor? | C1 |
+| F10 | **Verse differences.** *Decided Nov 13 2026:* stated in the book (B5.1). | C1 |
 | F11 | **Rights (H1.1–H1.3).** Who can you approach for the rights in the edition, the portraits and the reference text? Do you want a lawyer's view before more work is done on the Kannada book? | H1 |
 | F12 | **Length (H3.1).** Split volumes into parts, or change the page format? This also decides the ISBN count. | H3 |
 | F13 | **Release standard (H2.2).** What sample size and what result would you accept as "ready"? Proposal: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
 | F14 | **Places that cannot be settled.** The published book shows no doubt (A1). Where the supplied text is damaged and neither you nor a printed copy can settle it, what stands in the book: the best reading without comment, or a plain editorial footnote ("text damaged in the source")? | A1, H2 |
 | F15 | **Your preface to the English edition.** Its place: proposed after the Contents and before the original's own preface. One text for the whole series with a short part per volume, or a separate text for each volume? And should the "Note on this translation" (H2.4: sources, method, conventions) be part of it or a page of its own? | A2, H2.4 |
 | F16 | **Review copies.** May marked review copies sit in `publish/out/` beside releases (proposal: in `publish/review/`, with "Review copy" in the footer), or should `publish/out/` hold releases only? The PDFs there today are all review copies. | A1 |
+| F17 | **Which differences are real.** The supplied text is a machine reading, so some differences from the reference are its misreadings, not the edition's. Who confirms a difference before it is printed: you, from the printed book, for every one — or may a difference be taken as the edition's when the Pada-pāṭha or the bhāṣya of the same verse shows the same reading? And the wording of the line (proposal: "Kannada edition: …" in small type under the verse). | B5 |
 
 ---
 
@@ -306,6 +309,7 @@ Parts A–G describe the book. This part lists what a *published* book needs bey
 | Requirement | Source |
 |---|---|
 | A2 (preface to the English edition); A1 two layers, D9 release gate | user, Nov 12 2026 (later messages) |
+| B5.1 (difference of the edition's verse stated in the book) | user, Nov 13 2026 |
 | A2, A4, B1.2–3, B2.1 (bhāṣya), B3, B4.1–2, B5, C1 (number check), C3, C4, new names in A3, A5 | user's review comments, Nov 12 2026 |
 | A3 sub-headings; akṣara spacing; B4.3; elaborate summary; B2.3 | user decisions, Nov 11 2026 |
 | C9, C11, Om on the first page of Ṛks | user decisions, Vol 15 review, Nov 9 2026 |

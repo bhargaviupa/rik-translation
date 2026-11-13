@@ -54,7 +54,7 @@ What follows from this:
 |---|---|---|
 | Maṇḍala, sūkta, Ṛk (the skeleton) | the reference text: which sūktas, how many verses, each verse's number | no |
 | Page (number of the original, its Maṇḍala–Anuvāka–Varga line) | the running heads of the supplied text | no |
-| Saṃhitā-pāṭha | the reference text (requirement B1.2) | no |
+| Saṃhitā-pāṭha | the reference text (requirement B1.2). The unit also keeps **the edition's verse** from the supplied text and the list of places where the two differ, each with a state: confirmed as the edition's reading / misreading of the supplied text / not yet looked at (requirement B5) | no |
 | Pada-pāṭha, Sāyaṇa-bhāṣya, quoted verses set as blocks | the supplied text, letter for letter | no |
 | The English printed in the original | the supplied text | no |
 | Word-to-word meaning: one unit per word | the word from the supplied text; its Kannada meaning | yes: the meaning only |
@@ -177,7 +177,7 @@ Each check says how many items it compared; "0 compared" is reported as "not che
 | Check | Against which errors |
 |---|---|
 | Every reference verse of the volume's range is present once, in order | H2, H3, S10, S17 |
-| Every Sanskrit block equals the source letter for letter; the verse equals the reference | H15–H19, H23, S7–S12 |
+| Every Sanskrit block equals the source letter for letter; the verse equals the reference; every difference between the reference verse and the edition's verse has a state, and none printed is unconfirmed | H15–H19, H23, S7–S12 |
 | Every unit that needs English has it; no unit is empty or doubled | H28, S17, S20 |
 | Every token (reference, figure) of the Kannada is present once in the English | H10, S1–S3 |
 | Every abbreviation is in the one list | H12, H13, S6 |
@@ -261,7 +261,7 @@ The design does not wait for these. Each has an assumed answer, and the last col
 
 | No. | Question | Assumed | If the user decides otherwise |
 |---|---|---|---|
-| F1 | Deviations of Pada-pāṭha, word meanings, bhāṣya | compared with the reference verse; listed in `source_faults.tsv`; not printed in the book | print setting, or none |
+| F1 | Deviations | **Decided Nov 13 2026:** a difference between the reference verse and the edition's verse is printed under the verse, once confirmed. Still assumed: other disagreements of Pada-pāṭha, word meanings and bhāṣya are listed in `source_faults.tsv`, not printed | print setting |
 | F2 | Name for the summary of the bhāṣya | "Summary", under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation"; Bhāvārtha is "Gist" | print setting |
 | F3 | Footer | "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14" | print setting |
 | F4 | Stray letters | removed through the corrections list, so listed | none |
@@ -270,11 +270,12 @@ The design does not wait for these. Each has an assumed answer, and the last col
 | F7 | Older volumes | all volumes come into the data (§7); none is cleaned by pattern | — |
 | F8 | Credits | one page of the original's credits marked as such, one of ours; the method stated in a Note | print setting |
 | F9 | Kannada book | original text with page marks and sūkta and Ṛk headings | print setting |
-| F10 | Verse differs from the reference | listed in `source_faults.tsv` | none |
+| F10 | Verse differs from the reference | **Decided Nov 13 2026:** printed under the verse (see F1) | — |
 | F12 | Length | split into parts at a sūkta boundary above the printer's limit | print setting |
 | F13 | Release standard | every page read twice; 48 pages by a different model; a scholar's sample; nothing unrepaired | gate setting |
 | F14 | Places that cannot be settled | best reading, plain editorial footnote "text damaged in the source" | print setting |
 | F15 | User's preface | after the Contents, before the original's preface; placeholder | print setting |
 | F16 | Review copies | `publish/review/`; `publish/out/` holds releases only | folder name |
+| F17 | Which verse differences are real | the script proposes: a difference is taken as the edition's reading when the Pada-pāṭha or the bhāṣya of the same verse shows the same letters, otherwise it waits for the editor; nothing unconfirmed is printed | list only |
 
 Fourteen of the fifteen answers are print settings or lists. That is the design working as intended: what a volume *says* is made once; how it *looks* can be decided, and changed, at any time.
