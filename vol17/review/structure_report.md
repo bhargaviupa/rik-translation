@@ -16,7 +16,7 @@ Units: 2944 (bhashya 441, bhavartha 438, english 441, grammar 1, intro 41, pada 
 - pages: 1007
 - parts before the first sūkta heading joined to its introduction: 1
 - running heads: 997
-- stray lines set aside (listed in source_faults.tsv): 42
+- stray lines removed (record: review/stray_lines_removed.tsv): 42
 - sūkta introductions begun at their title line: 40
 - sūktas: 41
 - unit ids used twice: 0

@@ -65,7 +65,7 @@ def parse_kn(vol):
             else: u['kn'].append(['block', [l[2:].rstrip()]]); st['Sanskrit blocks'] += 1
         elif t.startswith('[figure'): u['kn'].append(['figure', t]); st['figures'] += 1
         elif STRAY.fullmatch(t) or (u['kind'] != 'english' and STRAY_LATIN.fullmatch(t)):
-            u['kn'].append(['stray', t]); st['stray lines set aside (listed in source_faults.tsv)'] += 1
+            u['kn'].append(['stray', t]); st['stray lines removed (record: review/stray_lines_removed.tsv)'] += 1
         else: u['kn'].append(['text', l.rstrip()])
     for u in units:
         while u['kn'] and u['kn'][-1][0] == 'break': u['kn'].pop()
@@ -182,9 +182,11 @@ def build(vol, mandalas):
         f.write('maṇḍala.sūkta.ṛk\tkind\treference\tKannada edition (supplied text)\tnote\tdecision\n')
         for key, kind, a, b, n in rows:
             if kind != 'verse differs' or n.startswith('edition'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')      # the editor's list holds only what is still open (user, Nov 13 2026)
+    with open(os.path.join(P['review'], 'stray_lines_removed.tsv'), 'w', encoding='utf8') as f:      # a record only (user, Nov 13 2026: they really are strays; not a list for the editor)
+        f.write('maṇḍala.sūkta.ṛk\tin\tline of the supplied text, not printed\n')
         for u in units:
             for it in u['kn']:
-                if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\tstray line, not printed\t\t{it[1]}\tin {u['kind']}\t\n")
+                if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\t{u['kind']}\t{it[1]}\n")
     with open(os.path.join(P['review'], 'verse_misreadings_settled.tsv'), 'w', encoding='utf8') as f:      # the record of what the script settled; not a list for the editor
         f.write('maṇḍala.sūkta.ṛk\treference (printed)\tsupplied text (taken as misread)\thow it was settled\n')
         for key, kind, a, b, n in rows:
