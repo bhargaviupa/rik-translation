@@ -147,10 +147,15 @@ def build(vol, mandalas):
     save_units(vol, units)
     with open(os.path.join(P['review'], 'source_faults.tsv'), 'w', encoding='utf8') as f:
         f.write('maṇḍala.sūkta.ṛk\tkind\treference\tKannada edition (supplied text)\tnote\tdecision\n')
-        for key, kind, a, b, n in rows: f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t' + ('misread: the reference stands (settled by script)' if n.startswith('misread') else '') + '\n')
+        for key, kind, a, b, n in rows:
+            if not n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')      # the editor's list holds only what is still open (user, Nov 13 2026)
         for u in units:
             for it in u['kn']:
                 if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\tstray line, not printed\t\t{it[1]}\tin {u['kind']}\t\n")
+    with open(os.path.join(P['review'], 'verse_misreadings_settled.tsv'), 'w', encoding='utf8') as f:      # the record of what the script settled; not a list for the editor
+        f.write('maṇḍala.sūkta.ṛk\treference (printed)\tsupplied text (misread)\n')
+        for key, kind, a, b, n in rows:
+            if n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{a}\t{b}\n')
     kinds = collections.Counter(u['kind'] for u in units)
     rep = [f'# Vol {vol}: structure report (rv structure)', '', f'Units: {len(units)} (' + ', '.join(f'{k} {v}' for k, v in sorted(kinds.items())) + ')', '',
            '## Read from the Kannada file'] + [f'- {k}: {v}' for k, v in sorted(st.items())] + ['',
