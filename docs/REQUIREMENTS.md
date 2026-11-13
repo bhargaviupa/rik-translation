@@ -201,10 +201,10 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | No. | Question | Concerns |
 |---|---|---|
 | F1 | **Deviations.** *First half decided Nov 13 2026:* a difference between the reference Saṃhitā and the edition's Saṃhitā is stated in the book (B5.1). *Still open:* when the Pada-pāṭha, a word meaning or the bhāṣya disagrees with the verse in some other way, is that printed too, or listed for you only? (assumed: listed only) | B5, C2, C3 |
-| F2 | **Two "Gists".** If Bhāvārtha becomes "Gist", what is the summary of the bhāṣya called? Proposal: it stands under "Sāyaṇa's Explanation" as "Summary". | A3, C3 |
-| F3 | **Footer.** One line such as "Kannada edition p. 235 · Maṃ. 3, Anu. 1, Va. 14"? When one of our pages holds parts of two original pages, both numbers? | A4 |
-| F4 | **Stray letters.** Removed without trace, or removed from the book and listed in the review list? | B4.2 |
-| F5 | **Heading of the edition's English.** "English translation (H. H. Wilson)" rests on the wording only and is not verified. | C6 |
+| F2 | **Two "Gists".** *Decided Nov 13 2026:* the summary of the bhāṣya stands under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation" as "Summary"; Bhāvārtha is "Gist". | A3, C3 |
+| F3 | **Footer.** *Decided Nov 13 2026:* one line such as "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14"; both page numbers when our page holds parts of two original pages. | A4 |
+| F4 | **Stray letters.** *Decided Nov 13 2026:* removed from the book and listed in the review list. | B4.2 |
+| F5 | **Heading of the edition's English.** *Open; proposal of Nov 13 2026:* the heading is "English translation", as the original heads it, with no name. The Note on this translation says whose it is once that is verified. Reasons: the edition does not name a translator (Vol 1 says only that "the essential meaning of the mantra is given briefly"); the wording has Wilson's marks ("Twashtri", bracketed supplements) but uses "you" where Wilson wrote "thou", so it may be Wilson adapted by the editor; a comparison with Wilson's text could not be made from this session (the sites holding it were not reachable). | C6 |
 | F6 | **Grammar.** Keep the Sanskrit rendering begun in Vol 17, or English? | C8 |
 | F7 | **Older volumes.** Do B4.1–B4.3 apply to Vols 1–16 by clean-up, or only when a volume is redone? (The Vol 16 trial showed that removing remarks by script damages sentences.) | B4 |
 | F8 | **Credits.** One combined page or two? Wording of the thanks; where the AI assistance is mentioned once it leaves the copyright lines. | A2 |

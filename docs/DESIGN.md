@@ -262,9 +262,9 @@ The design does not wait for these. Each has an assumed answer, and the last col
 | No. | Question | Assumed | If the user decides otherwise |
 |---|---|---|---|
 | F1 | Deviations | **Decided Nov 13 2026:** a difference between the reference verse and the edition's verse is printed under the verse, once confirmed. Still assumed: other disagreements of Pada-pāṭha, word meanings and bhāṣya are listed in `source_faults.tsv`, not printed | print setting |
-| F2 | Name for the summary of the bhāṣya | "Summary", under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation"; Bhāvārtha is "Gist" | print setting |
-| F3 | Footer | "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14" | print setting |
-| F4 | Stray letters | removed through the corrections list, so listed | none |
+| F2 | Name for the summary of the bhāṣya | **Decided Nov 13 2026:** "Summary", under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation"; Bhāvārtha is "Gist" | print setting |
+| F3 | Footer | **Decided Nov 13 2026:** "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14" | print setting |
+| F4 | Stray letters | **Decided Nov 13 2026:** removed through the corrections list, so listed | none |
 | F5 | Heading of the edition's English | "English translation" without a name until verified | print setting |
 | F6 | Grammar | Sanskrit, as decided Nov 11 | those units translated again |
 | F7 | Older volumes | all volumes come into the data (§7); none is cleaned by pattern | — |
