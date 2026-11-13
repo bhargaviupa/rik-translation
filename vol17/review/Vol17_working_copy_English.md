@@ -247,8 +247,6 @@ juice, the use of the word अंधः (*aṃdhaḥ*) in the sense of the Soma 
 
 #### Ṛk 2
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: तातृसिं (tātṛsiṃ) for तातृपिम्.*
-
 ##### Saṃhitā-pāṭha
 
 > इन्द्र॑ क्रतु॒विदं॑ सु॒तं सोमं॑ हर्य पुरुष्टुत ।  
@@ -331,7 +329,7 @@ The word श्रुधि (*śrudhi*) too is used with a long final syllable i
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: तिरः (tiraḥ) for तिर; विश्वते (viśvate) for विश्पते.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विश्वते (viśvate) for विश्पते.*
 
 ##### Saṃhitā-pāṭha
 
@@ -1032,7 +1030,7 @@ Bearer of prayers, these prayers are offered (by us): sit down on the sacred gra
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: रारंभि (rāraṃbhi) for रारन्धि; उक्थेष्टिंद्र (uktheṣṭiṃdra) for उक्थेष्विन्द्र.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: उक्थेष्टिंद्र (uktheṣṭiṃdra) for उक्थेष्विन्द्र.*
 
 ##### Saṃhitā-pāṭha
 
@@ -1523,8 +1521,6 @@ Come, Indra, to this our effused Soma juice mixed with milk and curds, with your
 गवाशिरं (*gavāśiraṃ*)—पयसा मिश्रितं सोमं । (*payasā miśritaṃ somaṃ |*) It is the custom to mix milk, curds and wheat flour into the Soma juice to make it tasty. Soma juice mixed with milk is called gavāśira, Soma juice mixed with curds is called dadhyāśira, and Soma juice mixed with flour is called yavāśira. For these āśira substances, see what we have written in Ṛ. Saṃ. Part 2, page 172.
 
 #### Ṛk 2
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सुतं कुविन्नस्य तृप्नवः (sutaṃ kuvinnasya tṛpnavaḥ) for सुतम् कुविन्न्वस्य तृप्णवः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -2135,8 +2131,6 @@ Descend to us riding in your car, for verily yours is this ancient liba- tion ; 
 
 #### Ṛk 2
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पूर्विरिति चर्षणीरा आर्य (pūrviriti carṣaṇīrā ārya) for पूर्वीरति चर्षणीराँ अर्य.*
-
 ##### Saṃhitā-pāṭha
 
 > आ या॑हि पू॒र्वीरति॑ चर्ष॒णीराँ अ॒र्य आ॒शिष॒ उप॑ नो॒ हरि॑भ्याम् ।  
@@ -2617,7 +2611,7 @@ Gotrā: the word gotra generally means a cowshed that protects cows; this is wel
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ; समत्तु (samattu) for समत्सु.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -2874,8 +2868,6 @@ As the words of the Supreme Person say, उत्तीदेयुरिमे 
 The two epithets विद्वान् (*vidvān*) and चिकित्वान् (*cikitvān*) are also noteworthy here. Indra is all-knowing and knows the intention of the sacrificer. Therefore, being the cause of the appearance of Dawn so as to suit the mutual dealings of gods and men, he worshipped that Dawn of great form. In this sūkta, from beginning to end, a spiritual principle lies hidden. The epithet हरस्व (*harasva*) and descriptions such as सूर‍्यं अरोचयः (*sūryaṃ arocayaḥ*) and उषसं अर्चयः (*uṣasaṃ arcayaḥ*) indicate this hidden meaning. Although an explanation of these is quite necessary, there is no room here for a detailed one, because of limits of space. It will be explained later as occasion arises.
 
 #### Ṛk 3
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: हरिवर्पसं अधारयुद्धरितोर्भूरि (harivarpasaṃ adhārayuddharitorbhūri) for हरिवर्पसम् अधारयद्धरितोर्भूरि.*
 
 ##### Saṃhitā-pāṭha
 
@@ -3286,7 +3278,7 @@ The word अभिस्वर (*abhisvara*) is a synonym for the worshippers in
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: गंभीरा उदधीरिव (gaṃbhīrā udadhīriva) for गम्भीराँ उदधीँरिव; प्रदं (pradaṃ) for ह्रदं.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: गंभीरा उदधीरिव (gaṃbhīrā udadhīriva) for गम्भीराँ उदधीँरिव.*
 
 ##### Saṃhitā-pāṭha
 
@@ -3615,7 +3607,7 @@ Vast are the energies of you, Indra, the warrior, (the showerer of benefits), th
 
 #### Ṛk 2
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: महा (mahā) for महाँ; वृष्ट्येभिर्धनस्पृदुग्र (vṛṣṭyebhirdhanaspṛdugra) for वृष्ण्येभिर्धनस्पृदुग्र.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: महा (mahā) for महाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -3985,7 +3977,7 @@ Anuvāda: This sūkta beginning "Marutvān" is the ninth sūkta in the fourth an
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मरुत्वा (marutvā) for मरुत्वाँ; सिबा सोमनुस्वधं (sibā somanusvadhaṃ) for पिबा सोममनुष्वधं.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मरुत्वा (marutvā) for मरुत्वाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -4802,7 +4794,7 @@ The Prajāpati Tvaṣṭṛ had a son named Viśvarūpa. Indra killed him for a 
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ; समत्तु (samattu) for समत्सु; वृत्राण (vṛtrāṇa) for वृत्राणि.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -5274,7 +5266,7 @@ The upholder of heaven and of the firmament, the wind, like a chariot traversing
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ; समत्तु (samattu) for समत्सु.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वाजसात् (vājasāt) for वाजसातौ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -5533,7 +5525,7 @@ I yoke (to your car), to bring you quickly, your two docile horses, whose speed 
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ज्यैष्ठाय (jyaiṣṭhāya) for ज्यैष्ठ्याय; पपिवा ऋजीषिन्त्समस्सभ्यं (papivā ṛjīṣintsamassabhyaṃ) for पपिवाँ ऋजीषिन्समस्मभ्यं.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ज्यैष्ठाय (jyaiṣṭhāya) for ज्यैष्ठ्याय.*
 
 ##### Saṃhitā-pāṭha
 
@@ -5612,8 +5604,6 @@ His adorers support with cattle, Indra, who is willing to bestow upon them their
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: प्रप्रथश्च स्वयर्वो (praprathaśca svayarvo) for पप्रथश्च स्वर्यवो.*
-
 ##### Saṃhitā-pāṭha
 
 > इ॒मं कामं॑ मन्दया॒ गोभि॒रश्वै॑श्च॒न्द्रव॑ता॒ राध॑सा प॒प्रथ॑श्च ।  
@@ -5683,8 +5673,6 @@ O Indra, satisfy this desire of ours concerning wealth by giving us cows, horses
 Gratify this our desire (of wealth) with cows, with horses, with shining treasure, and make us renowned: the wise Kushikas, desirous of heaven, offer praise to you, Indra, with pious (prayers).
 
 #### Ṛk 5
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वृतमं वाजसतौ (vṛtamaṃ vājasatau) for नृतमं वाजसातौ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -5899,8 +5887,6 @@ Let abundant praises celebrate Indra, the stay of man, the possessor of opulence
 सुवृक्तिभिः (*suvṛktibhiḥ*)—स्तुतिकरणभूता ऋचो व्यक्तिशब्देनोच्यंते (*stutikaraṇabhūtā ṛco vyaktiśabdenocyaṃte*). Ṛks that are devoted to praise are named vyakti (vṛkti). For this word Yāska has given the explanation सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः (*supravṛttābhiḥ śobhanābhiḥ stutibhiḥ*) (Ni. 2-24): with excellent words of praise.
 
 #### Ṛk 2
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पूर्विदं तूर्णिमपुरं (pūrvidaṃ tūrṇimapuraṃ) for पूर्भिदं तूर्णिमप्तुरं.*
 
 ##### Saṃhitā-pāṭha
 
@@ -7274,8 +7260,6 @@ For a detailed account of the deity Pūṣan see Ṛ. Saṃ. Part 5, pp. 547-550
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: धृष्टो (dhṛṣṭo) for धृष्णो.*
-
 ##### Saṃhitā-pāṭha
 
 > प्रति॑ धा॒ना भ॑रत॒ तूय॑मस्मै पुरो॒ळाशं॑ वी॒रत॑माय नृ॒णाम् ।  
@@ -7532,8 +7516,6 @@ In the places युवं तमिंद्रापर्वता पुर�
 
 #### Ṛk 2
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्वादिष्टया (svādiṣṭayā) for स्वादिष्ठया.*
-
 ##### Saṃhitā-pāṭha
 
 > तिष्ठा॒ सु कं॑ मघव॒न्मा परा॑ गा॒ः सोम॑स्य॒ नु त्वा॒ सुषु॑तस्य यक्षि ।  
@@ -7620,8 +7602,6 @@ On the day before the last day of the sacrifice called Ahargaṇa, in the rite c
 शचिवः इंद्र पितुः न पुत्रः स्वादिष्टया गिरा ते ३ चं आ रभे (*śacivaḥ iṃdra pituḥ na putraḥ svādiṣṭayā girā te 3 caṃ ā rabhe*)<sup class="q">?80</sup>—हे शक्तिमन्निंद्र तव वस्त्रप्रांतं यथा जनकस्य चेलांचलं पुत्रो मधुरया वाचा गृह्णाति तद्वत् स्वादुतरया स्तुतिलक्षणया गिरा तव वस्त्रप्रांतं आलभे । (*he śaktimanniṃdra tava vastraprāṃtaṃ yathā janakasya celāṃcalaṃ putro madhurayā vācā gṛhṇāti tadvat svādutarayā stutilakṣaṇayā girā tava vastraprāṃtaṃ ālabhe |*). Here the word *śacī* is read among the names of speech (Ni. 2-23), among the names of action (Ni. 3-1) and among the names of wisdom (Ni. 3-13). Here the commentator explains it as "strength" and interprets it as "Indra who has power". In the sentence quoted above, the seer describes with an illustration: "O Indra, as a son, when speaking with affection and respect to his father, keeps hold of the end of the garment his father wears, so I too, holding the end of your garment, will speak loving, sweet words."
 
 #### Ṛk 3
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: शंसावाध्वयो (śaṃsāvādhvayo) for शंसावाध्वर्यो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -8685,8 +8665,6 @@ as is said in the Taittirīya Saṃhitā. This Bharata's name is also indicated 
 
 #### Ṛk 13
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वज्रणे (vajraṇe) for वज्रिणे.*
-
 ##### Saṃhitā-pāṭha
 
 > वि॒श्वामि॑त्रा अरासत॒ ब्रह्मेन्द्रा॑य व॒ज्रिणे॑ ।  
@@ -8870,8 +8848,6 @@ That is: the word Kīkaṭa is the name of the country where the non-Ārya earli
 —such an unbeliever. Or प्रमगंद (*pramagaṃda*) may mean पंडकः (*paṃḍakaḥ*), पंडगः (*paṃḍagaḥ*) or प्रार्दक (*prārdaka*). पंडक (*paṃḍaka*) or पंडग (*paṃḍaga*) is a eunuch, one who is helpless like women. प्रार्दक (*prārdaka*) is one who behaves like women in dealings and the like, effeminate, shameless. Indra is prayed to bring the wealth of such persons also to us. And those born of upper-class parents among śūdra and other low castes are called low-branch people; since they are fallen and excluded from sacrifices and rites, their wealth is of no use for good rites. Therefore नैचाशाखं धनं (*naicāśākhaṃ dhanaṃ*): prayer is made that the wealth among such low-class people be brought to us. Here, since the root रध्यति (*radhyati*) has the sense "bring into one's power", the words मघवन् रंधय (*maghavan raṃdhaya*) in this Ṛk mean: O Indra, make (the wealth of the people mentioned above) come into our power.
 
 #### Ṛk 15
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: देवेष्वमृतमजुर्य० (deveṣvamṛtamajurya0) for देवेष्वमृतमजुर्यम्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -9730,8 +9706,6 @@ In the fifth anuvāka there are nine sūktas. The first of them, इमं म�
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: शृणोत्वग्निर्दिवैरजस्रः (śṛṇotvagnirdivairajasraḥ) for शृणोत्वग्निर्दिव्यैरजस्रः.*
-
 ##### Saṃhitā-pāṭha
 
 > इ॒मं म॒हे वि॑द॒थ्या॑य शू॒षं शश्व॒त्कृत्व॒ ईड्या॑य॒ प्र ज॑भ्रुः ।  
@@ -9967,8 +9941,6 @@ In the second sentence the word सुविताय (*suvitāya*) is used in t
 The word प्रयस् (*prayas*) is listed (Ni. 3-9) among the names of food. The sacrificer's wish is stated: that he will satisfy heaven and earth with food in the form of oblation, and, bowing to Agni and worshipping heaven and earth, will pray in order to obtain excellent wealth.
 
 #### Ṛk 4
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: शूरसात् वनंदिरे (śūrasāt vanaṃdire) for शूरसातौ ववन्दिरे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -10423,7 +10395,7 @@ It is described that in the heaven-world made by this deity for the gods' travel
 
 #### Ṛk 10
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ब्रवीम्यदूदराः (bravīmyadūdarāḥ) for ब्रवीम्यृदूदराः; कवय (kavaya) for कवयः.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ब्रवीम्यदूदराः (bravīmyadūdarāḥ) for ब्रवीम्यृदूदराः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -10583,8 +10555,6 @@ The golden-handed, soft-tongued Savitri is descending from heaven (to be present
 श्लोकं आश्रेः— श्लोक्यते अनेनेति श्लोकः स्तोत्रं (*ślokaṃ āśreḥ— ślokyate aneneti ślokaḥ stotraṃ*). It is described that the god Savitṛ, having come to the sacrificial hall, may hear the praise recited by the Ṛtvijs.
 
 #### Ṛk 12
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मादयध्वमूर्ध्वग्राणोणो (mādayadhvamūrdhvagrāṇoṇo) for मादयध्वमूर्ध्वग्रावाणो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -11045,8 +11015,6 @@ Although Indra is addressed by the word purūhūta, it is declared that this Ind
 
 #### Ṛk 18
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नो अदितिर्यज्ञयासोऽदब्धानि (no aditiryajñayāso 'dabdhāni) for णो अदितिर्यज्ञियासोऽदब्धानि.*
-
 ##### Saṃhitā-pāṭha
 
 > अ॒र्य॒मा णो॒ अदि॑तिर्य॒ज्ञिया॒सोऽद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑ ।  
@@ -11208,8 +11176,6 @@ May the messenger of the gods, engendered in many places, every- where proclaim 
 पृथिवी, दौः, आपः, सूर्यः, अंतरिक्षं च नः शृणोतु (*pṛthivī, dauḥ, āpaḥ, sūryaḥ, aṃtarikṣaṃ ca naḥ śṛṇotu*)—The earth, the heaven, the deity of the waters, the sun and the firmament filled with stars: may these also hear the praises recited by the sacrificers. Thus the wish is expressed.
 
 #### Ṛk 20
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: आदित्यैनो आदितिः (ādityaino āditiḥ) for आदित्यैर्नो अदितिः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -11474,7 +11440,7 @@ Metre: Triṣṭubh.
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: यद्व्यूषुर्महद्धि जज्ञॆ (yadvyūṣurmahaddhi jajñè) for यद्व्यूषुर्महद्वि जज्ञे; सु प्रभूषन्महद्देवानामसुरत्वमेकं (su prabhūṣanmahaddevānāmasuratvamekaṃ) for नु प्रभूषन्महद्देवानामसुरत्वमेकम्.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सु प्रभूषन्महद्देवानामसुरत्वमेकं (su prabhūṣanmahaddevānāmasuratvamekaṃ) for नु प्रभूषन्महद्देवानामसुरत्वमेकम्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -11676,8 +11642,6 @@ When food is offered to the gods one says "svāhā", and when it is given to the
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: समिद्दे (samidde) for समिद्धे.*
-
 ##### Saṃhitā-pāṭha
 
 > वि मे॑ पुरु॒त्रा प॑तयन्ति॒ कामा॒ः शम्यच्छा॑ दीद्ये पू॒र्व्याणि॑ ।  
@@ -11832,8 +11796,6 @@ By these two statements, समानः राजा पुरुत्रा �
 माता क्षेति (*mātā kṣeti*)—वसुधा निवासयति (*vasudhā nivāsayati*). The earth provides a dwelling-place so that the two may live happily. Producing and providing a dwelling-place are both the function of a mother. Since this function is the same for both Agni and Soma, the earth is the mother of both. The heavenly world, too, is a mother because it nourishes and makes them grow; and thus the unequalled might of the gods is described.
 
 #### Ṛk 5
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सवते (savate) for सुवते.*
 
 ##### Saṃhitā-pāṭha
 
@@ -12058,8 +12020,6 @@ And बुद्धः प्रतिष्ठा अंते भागी स
 That Agni exists in identity with Sūrya and is the root cause of all actions, and other such things, are the principal glories of the gods and remain in might; thus it is described.
 
 #### Ṛk 8
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: अंतर्मतिश्वरति निष्पिधं गोर्महद्देवानामसुरत्वमेकं (aṃtarmatiśvarati niṣpidhaṃ gormahaddevānāmasuratvamekaṃ) for अन्तर्मतिश्चरति निष्षिधं गोर्महद्देवानामसुरत्वमेकम्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -12824,7 +12784,7 @@ The word क्षपा (*kṣapā*) is listed among the names of night (Ni. 2-
 
 #### Ṛk 18
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्वश्वं (svaśvaṃ) for स्वश्व्यं; षोह्ना (ṣohnā) for षोळ्हा.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्वश्वं (svaśvaṃ) for स्वश्व्यं.*
 
 ##### Saṃhitā-pāṭha
 
@@ -14383,8 +14343,6 @@ According to the Atharvāṅgirasa view, Rodasī is one of the wives of the gods
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ऋतवान (ṛtavāna) for ऋतावान.*
-
 ##### Saṃhitā-pāṭha
 
 > त्रिरु॑त्त॒मा दू॒णशा॑ रोच॒नानि॒ त्रयो॑ राज॒न्त्यसु॑रस्य वी॒राः ।  
@@ -14565,8 +14523,6 @@ Therefore, प्रजापतिर्वा इदमग्र आसीत�
 The sūkta beginning प्र मे विविक्वान् (*pra me vivikvān*) is the fourth sūkta (of the fifth anuvāka), of six Ṛks. The seer is Viśvāmitra, the deity the Viśvedevas, the metre Triṣṭubh. The Anukramaṇikā says प्र मे षळिति (*pra me ṣaḷiti*). The application (viniyoga) of the sūkta is by indication (liṅga). The Kannada gives: Maṇḍala 3, Anuvāka 5, Sūkta 57; Aṣṭaka 3, Adhyāya 4, Varga 2; number of Ṛks in the sūkta 6.
 
 #### Ṛk 1
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विविक्त्वा (viviktvā) for विविक्वाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -16785,8 +16741,6 @@ Likewise in यस्य ते अग्ने अन्ये अग्नय 
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सुक्षेत्रो (sukṣetro) for सुक्षत्रो.*
-
 ##### Saṃhitā-pāṭha
 
 > अ॒यं मि॒त्रो न॑म॒स्य॑ः सु॒शेवो॒ राजा॑ सुक्ष॒त्रो अ॑जनिष्ट वे॒धाः ।  
@@ -17901,8 +17855,6 @@ Go with Indra in his chariot when the libation is poured out, and be (welcomed) 
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वृषस्व्या गभस्तोः (vṛṣasvyā gabhastoḥ) for वृषस्वा गभस्त्योः.*
-
 ##### Saṃhitā-pāṭha
 
 > इन्द्र॑ ऋ॒भुभि॒र्वाज॑वद्भि॒ः समु॑क्षितं सु॒तं सोम॒मा वृ॑षस्वा॒ गभ॑स्त्योः ।  
@@ -18451,7 +18403,7 @@ In this description, that for the sun of wide extent the still wider path of Ṛ
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पत्नि (patni) for पत्नी; अंताद्दिनः (aṃtāddinaḥ) for आन्ताद्दिवः.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पत्नि (patni) for पत्नी.*
 
 ##### Saṃhitā-pāṭha
 
@@ -18708,8 +18660,6 @@ The possessor of truth is recognized in the sky by her rays : the possessor of w
 
 #### Ṛk 7
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: बुद्ध उषसामिषण्यन्वषा (buddha uṣasāmiṣaṇyanvaṣā) for बुध्न उषसामिषण्यन्वृषा.*
-
 ##### Saṃhitā-pāṭha
 
 > ऋ॒तस्य॑ बु॒ध्न उ॒षसा॑मिष॒ण्यन्वृषा॑ म॒ही रोद॑सी॒ आ वि॑वेश ।  
@@ -18833,8 +18783,6 @@ Chandas: 1–3 triṣṭubh; 4–18 gāyatrī.
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: भ्रमयो (bhramayo) for भृमयो.*
-
 ##### Saṃhitā-pāṭha
 
 > इ॒मा उ॑ वां भृ॒मयो॒ मन्य॑माना यु॒वाव॑ते॒ न तुज्या॑ अभूवन् ।  
@@ -18934,8 +18882,6 @@ has explained this word as a special musical instrument, an aid to song; it is a
 सिनं (*sinaṃ*) — The word sina is read among the names of food (Ni. 2-7). As is said in places such as सुमंगलं सिनवदस्तु सातं (*sumaṃgalaṃ sinavadastu sātaṃ*) (Ṛ. Saṃ. 10-102-11), here too the meaning is food. In some contexts it can also mean reward. But in the four or five contexts in the Ṛksaṃhitā, this word is used in the sense of food.
 
 #### Ṛk 2
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नां (nāṃ) for वां.*
 
 ##### Saṃhitā-pāṭha
 
@@ -22144,8 +22090,6 @@ May you, Agni, who are wise, avert from us the wrath of the divine Varuna : you 
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विधि (vidhi) for एधि.*
-
 ##### Saṃhitā-pāṭha
 
 > स त्वं नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒ व्यु॑ष्टौ ।  
@@ -22299,8 +22243,6 @@ and explains the threefold forms of Agni. That is, Agni has three forms: these �
 
 #### Ṛk 7
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्वाहर्ण (svāharṇa) for स्पार्हा.*
-
 ##### Saṃhitā-pāṭha
 
 > त्रिर॑स्य॒ ता प॑र॒मा स॑न्ति स॒त्या स्पा॒र्हा दे॒वस्य॒ जनि॑मान्य॒ग्नेः ।  
@@ -22368,8 +22310,6 @@ atmosphere, enveloped by his own radiance, the purifier, endowed with brightness
 These are the supreme, true, and desirable births of this divine Agni, invested (with radiance) in the unbounded (firmament): pure, bright, radiant lord (of all), may he come (to our) sacrifice.
 
 #### Ṛk 8
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: रोहित्स्य अश्वः (rohitsya aśvaḥ) for रोहिदश्वो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -22571,8 +22511,6 @@ May that wise Agni conduct us to that wealth which is desired by the devout ; he
 
 #### Ṛk 11
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: बुद्धे (buddhe) for बुध्ने.*
-
 ##### Saṃhitā-pāṭha
 
 > स जा॑यत प्रथ॒मः प॒स्त्या॑सु म॒हो बु॒ध्ने रज॑सो अ॒स्य योनौ॑ ।  
@@ -22650,8 +22588,6 @@ He is first engendered in the habitations (of the sacrificers); then upon his st
 अपात् अशीर्षा अंता गुहमानः वृषभस्य नीळे आयोयुवानः (*apāt aśīrṣā aṃtā guhamānaḥ vṛṣabhasya nīḷe āyoyuvānaḥ*)—Here it is said that this Agni, without feet and head, or keeping them hidden so that no one sees them, is united in the form of smoke in the circle of the rain-making cloud. What is in the circle of the cloud is the lightning fire (vaidyutāgni, the flash). Only its radiance is visible to all; the other parts of the fire (that is, the feet and heads) are seen by no one. Moreover, even the fire on the earth cannot be divided into parts such as feet and head. Since clouds exist in the form of water vapour, the Agni united in them is likewise present in the form of smoke: such is the meaning.
 
 #### Ṛk 12
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विपन्यं (vipanyaṃ) for विपन्याँ; नीळॆ स्वाहो (nīḷè svāho) for नीळे स्पार्हो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -22855,7 +22791,7 @@ Rending the rocks, they worshipped (Agni), and other (sages) taught everywhere t
 
 #### Ṛk 15
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: परिषंतमद्रिं दृढं (pariṣaṃtamadriṃ dṛḍhaṃ) for परि षन्तमद्रिम् दृळ्हं; ववुः (vavuḥ) for वव्रुः.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ववुः (vavuḥ) for वव्रुः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -22929,8 +22865,6 @@ The Aṅgirases, leaders of rites, who looked for Agni's help, desiring to obtai
 Devoted (to Agni), those leaders (of sacred rites), with minds intent upon (recovering) the cattle, forced open, by (the power) of divine prayer, the obstructing, compact, solid mountain confining the cows, a cow-pen full of cows.
 
 #### Ṛk 16
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: धेनोस्तिः (dhenostiḥ) for धेनोस्त्रिः; आविर्भवदरुणीयर्यशसा (āvirbhavadaruṇīyaryaśasā) for आविर्भुवदरुणीर्यशसा.*
 
 ##### Saṃhitā-pāṭha
 
@@ -23220,8 +23154,6 @@ May I glorify the present radiant Agni, the invoker (of the gods), the supporter
 In this Ṛk the sacrificer who performs the sacrifice is poor, and so has no power to offer milk, oblation or soma juice. Agni is therefore prayed to be satisfied with praises alone, accompanied by devotion and faith, which the sacrificer has offered.
 
 #### Ṛk 20
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विश्वेषामदितिर्यज्जियानां विश्वेषामतिथिर्मानुषाणां अग्निर्देवानामन (viśveṣāmaditiryajjiyānāṃ viśveṣāmatithirmānuṣāṇāṃ agnirdevānāmana) for विश्वेषामदितिर्यज्ञियानां विश्वेषामतिथिर्मानुषाणाम् अग्निर्देवानामव.*
 
 ##### Saṃhitā-pāṭha
 
@@ -23602,7 +23534,7 @@ Possessed, Agni, of good steeds, an excellent car, and abundant wealth do you, a
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: गोमा अग्नेऽपिमा (gomā agne 'pimā) for गोमाँ अग्नेऽविमाँ; सदमिद प्र मृष्यः इळावा (sadamida pra mṛṣyaḥ iḷāvā) for सदमिदप्रमृष्यः इळावाँ.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सदमिद प्र मृष्यः इळावा (sadamida pra mṛṣyaḥ iḷāvā) for सदमिदप्रमृष्यः इळावाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -23667,7 +23599,7 @@ May the sacrifice, Agni, be productive of cows, of sheep, of horses, and celebra
 
 #### Ṛk 6
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: इद्धं जभरत्सिष्टिदानो (iddhaṃ jabharatsiṣṭidāno) for इध्मं जभरत्सिष्विदानो; स्वतवाः (svatavāḥ) for स्वतवाँः.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्वतवाः (svatavāḥ) for स्वतवाँः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -23751,8 +23683,6 @@ O Agni, for the benefit of the man who, for your worship, brings sacrificial fue
 You are the munificent recompenser of that man who, sweating (with toil), brings you fuel, and for your service causes his head to ache: protcet him, Agni, from every one that seeks to do him evil.
 
 #### Ṛk 7
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: दुरॊणे तस्मिन्रयिद्र्रुवो (duròṇe tasminrayidrruvo) for दुरोणे तस्मिन्रयिर्ध्रुवो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -23901,8 +23831,6 @@ O Agni, the sacrificer who praises you both at evening and at dawn and offers ob
 Preserve from sin the liberal sacrificer who glorifies you morning and evening, and, presenting oblations, does what is acceptable to you in his own abode, like a horse with golden caparisons
 
 #### Ṛk 9
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: यतसुक् (yatasuk) for यतस्रुक्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -24097,8 +24025,6 @@ As a groom of horses separates the lovely and the unbearable parts on a horse's 
 May the wise Agni, discriminate between virtue and vice, between (virtuous and wicked) men, as a (groom distinguishes between (the strong ard weak backs (of horses) : enrich us with wealth accompanied by virtuous offspring : be bountiful to the liberal giver : shun him who gives not.
 
 #### Ṛk 12
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: दृश्या अग्नि एतान्नप्भिः पश्येरद्भुता (dṛśyā agni etānnapbhiḥ paśyeradbhutā) for दृश्याँ अग्न एतान्पड्भिः पश्येरद्भुताँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -25051,7 +24977,7 @@ You, Agni, preside over this our rite : do you, who are cognizant of truth, and 
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मीळुषे (mīḷuṣe) for मीळ्हुषे; कदर्यम्ले (kadaryamle) for कदर्यम्णे.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: कदर्यम्ले (kadaryamle) for कदर्यम्णे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -25201,8 +25127,6 @@ O Agni, you who grow in the sacrificial places, why do you make my sin known to 
 Why repeat it when exalted in holy ceremonies ? why tell it to the mightv, benevolent, circumambient, truthful wind (Vayu) ? why, Agni, to earth, why to man-destroying Rudra ?
 
 #### Ṛk 7
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पूष्टे (pūṣṭe) for पूष्णे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -25674,7 +25598,7 @@ Go not ever, Agni, to the sacrifice of any one who injures us ; nor to that of a
 
 #### Ṛk 14
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: हो (ho) for णो; सुमुख (sumukha) for सुमख.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: हो (ho) for णो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -26015,7 +25939,7 @@ The sūkta beginning कृणुष्व (*kṛṇuṣva*) is the fourth sūkt
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: कृणुष्ट (kṛṇuṣṭa) for कृणुष्व; पृथ्विं (pṛthviṃ) for पृथ्वीं; राजेनामवा (rājenāmavā) for राजेवामवाँ; द्रोणानोस्तासि (droṇānostāsi) for द्रूणानोऽस्तासि.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: कृणुष्ट (kṛṇuṣṭa) for कृणुष्व; राजेनामवा (rājenāmavā) for राजेवामवाँ; द्रोणानोस्तासि (droṇānostāsi) for द्रूणानोऽस्तासि.*
 
 ##### Saṃhitā-pāṭha
 
@@ -26259,7 +26183,7 @@ You, who are most rapid, direct your (flames) against opposing (rays), and, unre
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: तनुष्ट नृमित्रां (tanuṣṭa nṛmitrāṃ) for तनुष्व न्यमित्राँ; आरातिं (ārātiṃ) for अरातिं.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: तनुष्ट नृमित्रां (tanuṣṭa nṛmitrāṃ) for तनुष्व न्यमित्राँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -26786,8 +26710,6 @@ You, Agni, are the protector of him who, possessed of good horses and a golden c
 
 #### Ṛk 11
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वचसत्किद्दि (vacasatkiddi) for वचसश्चिकिद्धि.*
-
 ##### Saṃhitā-pāṭha
 
 > म॒हो रु॑जामि ब॒न्धुता॒ वचो॑भि॒स्तन्मा॑ पि॒तुर्गोत॑मा॒दन्वि॑याय ।  
@@ -26859,8 +26781,6 @@ O Agni, caller of the gods to the sacrifice, most youthful, of excellent underst
 Invoker (of the gods), youngest (of the deities) ; possessed of excellent wisdom, through the alliance (with you produced) by holy texts, which came to me from my father Gotama, I demolish the powerful (demons) : you are the humbler (of foes) ; be cognizant of our praises,
 
 #### Ṛk 12
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सध्यंचो (sadhyaṃco) for सध्र्यञ्चो.*
 
 ##### Saṃhitā-pāṭha
 
@@ -27001,8 +26921,6 @@ Those your protecting ( rays ), Agni, which, beholding (what had chanced), prese
 मामतेयं (*māmateyaṃ*)—Regarding the protection of the son of the woman named Mamatā, the commentator has told a historical story. Mamatā, the wife of the sage named Ucathya, was pregnant. Then Bṛhaspati, the younger brother of Ucathya, saw that woman, was infatuated, became attached to her and had intercourse with her. At the time of the emission of seed, the child who was in the womb said to Bṛhaspati: "O Bṛhaspati, I am now in the womb; therefore do not discharge your seed into this woman's womb." Hearing this, Bṛhaspati became angry with that child in the womb, who had obstructed him at the time of releasing the seed, and pronounced a curse that the child in the womb should be born blind. Therefore the child born of that woman was born blind and became a sage famed by the name Dīrghatamāḥ (since he could not see, it always appeared to him as if it were long darkness, dīrgham tamaḥ). There is the narrative that this sage Dīrghatamāḥ praised Agni and obtained his eyes (sight). That very matter is explained here by the sentence मामतेयं दुरितात् अरक्षन् (*māmateyaṃ duritāt arakṣan*).
 
 #### Ṛk 14
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सत्यतातेऽनुष्टुया कृणुह्यप्रयाण (satyatāte 'nuṣṭuyā kṛṇuhyaprayāṇa) for सत्यतातेऽनुष्ठुया कृणुह्यह्रयाण.*
 
 ##### Saṃhitā-pāṭha
 
@@ -27755,8 +27673,6 @@ Reproach not the divine (Agni), who, accepting the oblation, has given the wealt
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: गोरपगूळ्तं विविद्वान्ग्निर्मह्यं (gorapagūḷtaṃ vividvāngnirmahyaṃ) for गोरपगूळ्हं विविद्वानग्निर्मह्यं.*
-
 ##### Saṃhitā-pāṭha
 
 > साम॑ द्वि॒बर्हा॒ महि॑ ति॒ग्मभृ॑ष्टिः स॒हस्र॑रेता वृष॒भस्तुवि॑ष्मान् ।  
@@ -28156,8 +28072,6 @@ What objection (can be offered) to this my assertion, that they affirm that the 
 
 #### Ṛk 9
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पूर्व्य० (pūrvya0) for पूर्व्यं.*
-
 ##### Saṃhitā-pāṭha
 
 > इ॒दमु॒ त्यन्महि॑ म॒हामनी॑कं॒ यदु॒स्रिया॒ सच॑त पू॒र्व्यं गौः ।  
@@ -28423,8 +28337,6 @@ What is the value of the wealth of which Agni is the lord? In what way is this w
 What is the value of this (wealth) to us? what's its advantage? Inform us, Jatavedas, for you know ; (tell us) what is the best (course) for us on this secret path, so that we may follow unreproached the direct road.
 
 #### Ṛk 13
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पत्निः (patniḥ) for पत्नीः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -28851,8 +28763,6 @@ The ladle filled (with butter) is prepared : prompt (in act), opulent (with the 
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: स्त्रीणे (strīṇe) for स्तीर्णे; अध्वयुर्जुजुषाणो (adhvayurjujuṣāṇo) for अध्वर्युर्जुजुषाणो; तिविष्ट्येत्रिप्रदिव (tiviṣṭyetripradiva) for त्रिविष्ट्येति प्रदिव.*
-
 ##### Saṃhitā-pāṭha
 
 > स्ती॒र्णे ब॒र्हिषि॑ समिधा॒ने अ॒ग्ना ऊ॒र्ध्वो अ॑ध्व॒र्युर्जु॑जुषा॒णो अ॑स्थात् ।  
@@ -29177,8 +29087,6 @@ Agni, whom the twice five sisters dwelling amongst men, the descen- dants of Man
 
 #### Ṛk 9
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ऋज्जंचः (ṛjjaṃcaḥ) for ऋज्वञ्चः.*
-
 ##### Saṃhitā-pāṭha
 
 > तव॒ त्ये अ॑ग्ने ह॒रितो॑ घृत॒स्ना रोहि॑तास ऋ॒ज्वञ्च॒ः स्वञ्च॑ः ।  
@@ -29468,8 +29376,6 @@ This invoker of the gods and minister of frequent worship, who is to be glorifie
 अप्नवानः (*apnavānaḥ*)—The commentator says that Apnavāna is a certain seer born in the line of Bhṛgu. The name of this seer occurs in the Ṛgveda in the present ṛk and also in the ṛk जीवभृगुवच्छुचिमप्नवानवदा हुवे । अग्निं समुद्रवाससं॥ (*jīvabhṛguvacchucimapnavānavadā huve | agniṃ samudravāsasaṃ‖*) (Mu. Saṃ. 8-102-4).<sup class="q">?422</sup> The same mantra is also stated in the Taittirīya Saṃhitā. "I shall invoke as Apnavāna, the seer born in the line of Bhṛgu, invoked Agni": thus the seer Prayoga of the same line speaks here. Although this seer is renowned, there is no occasion to learn more details about him.
 
 #### Ṛk 2
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: जगृभिरे (jagṛbhire) for जगृभ्रिरे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -30205,7 +30111,7 @@ I propitiate you with praise, the messenger (of the gods), the omnis- cient, the
 
 #### Ṛk 2
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: महा आराधनं (mahā ārādhanaṃ) for महाँ आरोधनं; देवा (devā) for देवाँ.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: देवा (devā) for देवाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -30317,7 +30223,7 @@ Hc, thc divine (Agni), knows how the gods are to be revernced : to the sincere (
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: चिकित्वा (cikitvā) for चिकित्वाँ; विद्वा आराधनं (vidvā ārādhanaṃ) for विद्वाँ आरोधनं.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: चिकित्वा (cikitvā) for चिकित्वाँ.*
 
 ##### Saṃhitā-pāṭha
 
@@ -30374,8 +30280,6 @@ He is the invoker ( of the gods ), comprehending the deity of ( their ) messenge
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: इंथते (iṃthate) for इन्धते.*
-
 ##### Saṃhitā-pāṭha
 
 > ते स्या॑म॒ ये अ॒ग्नये॑ ददा॒शुर्ह॒व्यदा॑तिभिः ।  
@@ -30429,7 +30333,7 @@ May we be they who propitiate Agni with gifts of oblations, and who, cherishing 
 
 #### Ṛk 6
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सुवीय्यैः (suvīyyaiḥ) for सुवीर्यैः; शृण्वरे (śṛṇvare) for शृण्विरे.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सुवीय्यैः (suvīyyaiḥ) for सुवीर्यैः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -31555,8 +31459,6 @@ Truthful Agni, verily you remove from the mortal who institutes (your) worship, 
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: युष्टे (yuṣṭe) for युष्मे.*
-
 ##### Saṃhitā-pāṭha
 
 > शि॒वा न॑ः स॒ख्या सन्तु॑ भ्रा॒त्राग्ने॑ दे॒वेषु॑ यु॒ष्मे ।  
@@ -31878,8 +31780,6 @@ In the Mahāpitṛyajña ishti, when the Svishṭakṛt homa is performed, the o
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: त्वद्रयिदेर्नजूतो मयोभुस्त्वदाशुर्जूजुवा (tvadrayidernajūto mayobhustvadāśurjūjuvā) for त्वद्रयिर्देवजूतो मयोभुस्त्वदाशुर्जूजुवाँ.*
-
 ##### Saṃhitā-pāṭha
 
 > त्वद्वा॒जी वा॑जम्भ॒रो विहा॑या अभिष्टि॒कृज्जा॑यते स॒त्यशु॑ष्मः ।  
@@ -32129,8 +32029,6 @@ The second sūkta, of six Ṛks, beginning यस्त्वामग्न (*y
 
 #### Ṛk 1
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: यतसुक्‌त्रिस्ते (yatasuktriste) for यतस्रुक्त्रिस्ते.*
-
 ##### Saṃhitā-pāṭha
 
 > यस्त्वाम॑ग्न इ॒नध॑ते य॒तस्रु॒क्त्रिस्ते॒ अन्नं॑ कृ॒णव॒त्सस्मि॒न्नह॑न् ।  
@@ -32334,7 +32232,7 @@ In the Ukhāsaṃbharaṇa offering, when a Kṣatriya makes the oblation addres
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: यविष्ठा चित्तिभिश्चक्रमा (yaviṣṭhā cittibhiścakramā) for यविष्ठाचित्तिभिश्चकृमा; स्वगस्मै अदितेरनागान्वैेनांसि (svagasmai aditeranāgānvaienāṃsi) for ष्वस्माँ अदितेरनागान्व्येनांसि; विश्वगग्ने (viśvagagne) for विष्वगग्ने.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: यविष्ठा चित्तिभिश्चक्रमा (yaviṣṭhā cittibhiścakramā) for यविष्ठाचित्तिभिश्चकृमा.*
 
 ##### Saṃhitā-pāṭha
 
@@ -33106,8 +33004,6 @@ The great and intelligent dawn, variegated with (many-coloured) rays of purple t
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वहिष्टा (vahiṣṭā) for वहिष्ठा.*
-
 ##### Saṃhitā-pāṭha
 
 > आ वां॒ वहि॑ष्ठा इ॒ह ते व॑हन्तु॒ रथा॒ अश्वा॑स उ॒षसो॒ व्यु॑ष्टौ ।  
@@ -33745,8 +33641,6 @@ But immediately accepted those two excellent and well-trained horses from the pr
 
 #### Ṛk 9
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नां देवानश्विना (nāṃ devānaśvinā) for वां देवावश्विना.*
-
 ##### Saṃhitā-pāṭha
 
 > ए॒ष वां॑ देवावश्विना कुमा॒रः सा॑हदे॒व्यः ।  
@@ -34217,8 +34111,6 @@ Indra, the accepter of the stale Soma, sustains infinite greatness, and has fill
 
 #### Ṛk 6
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ववुः (vavuḥ) for वव्रुः.*
-
 ##### Saṃhitā-pāṭha
 
 > विश्वा॑नि श॒क्रो नर्या॑णि वि॒द्वान॒पो रि॑रेच॒ सखि॑भि॒र्निका॑मैः ।  
@@ -34366,7 +34258,7 @@ Your protecting thunderbolt has slain Vritra, obstructing the (issue of the wate
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: पूर्व्य० (pūrvya0) for पूर्व्यं; रुजन्नंगिरोभिगृणानः (rujannaṃgirobhigṛṇānaḥ) for रुजन्नङ्गिरोभिर्गृणानः.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: रुजन्नंगिरोभिगृणानः (rujannaṃgirobhigṛṇānaḥ) for रुजन्नङ्गिरोभिर्गृणानः.*
 
 ##### Saṃhitā-pāṭha
 
@@ -34647,7 +34539,7 @@ You went with Kutsa, in the same chariot, determined to defend him ; (you who ar
 
 #### Ṛk 12
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: बर्हिः (barhiḥ) for बर्हीः; दस्यून्मृण (dasyūnmṛṇa) for दस्यून्प्र मृण.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: दस्यून्मृण (dasyūnmṛṇa) for दस्यून्प्र मृण.*
 
 ##### Saṃhitā-pāṭha
 
@@ -34777,8 +34669,6 @@ You have subjugated Pipru and the mighty Mrigaya for the sake of Rijishwan, the 
 
 #### Ṛk 14
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: वर्षः (varṣaḥ) for वर्पः.*
-
 ##### Saṃhitā-pāṭha
 
 > सूर॑ उपा॒के त॒न्वं१॒॑ दधा॑नो॒ वि यत्ते॒ चेत्य॒मृत॑स्य॒ वर्प॑ः ।  
@@ -34844,8 +34734,6 @@ While having (your) person in the proximity of the sun, your form becomes redole
 
 #### Ṛk 15
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: उक्षैरोको (ukṣairoko) for उक्थैरोको.*
-
 ##### Saṃhitā-pāṭha
 
 > इन्द्रं॒ कामा॑ वसू॒यन्तो॑ अग्म॒न्स्व॑र्मीळ्हे॒ न सव॑ने चका॒नाः ।  
@@ -34904,8 +34792,6 @@ As one trusts Indra in battle, so in sacrifices too the worshippers who have tak
 Relying (upon Indra) for protection, and desirous of riches, (pious men) repair to him soliciting his presence in the sacrifice, as if in the battle ; asking for food, celebrating his praise with hymns, for he is the refuge (of his worshippers), and resembles the grateful and lovely (goddess) of nutrition.
 
 #### Ṛk 16
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: सुहनं हुवेनु यस्त्या (suhanaṃ huvenu yastyā) for सुहवं हुवेम यस्ता.*
 
 ##### Saṃhitā-pāṭha
 
@@ -35607,8 +35493,6 @@ Heaven, your progenitor, conceived (I have obtained) a worthy son; the maker of 
 
 #### Ṛk 5
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: कृष्णीनां (kṛṣṇīnāṃ) for कृष्टीनां.*
-
 ##### Saṃhitā-pāṭha
 
 > य एक॑ इच्च्या॒वय॑ति॒ प्र भूमा॒ राजा॑ कृष्टी॒नां पु॑रुहू॒त इन्द्र॑ः ।  
@@ -35671,7 +35555,7 @@ All men, praising the munificence of the divine Maghavan, verily glorify him who
 
 #### Ṛk 6
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मदिस्थाः (madisthāḥ) for मदिष्ठाः; दत्ते (datte) for दत्रे.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: दत्ते (datte) for दत्रे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -36203,7 +36087,7 @@ You are the Maghavan who makes one man destitute, another prosperous, who (scatt
 
 #### Ṛk 14
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नैतशं रीरमत्सृमाणं (naitaśaṃ rīramatsṛmāṇaṃ) for न्येतशं रीरमत्ससृमाणम्; बुद्धे (buddhe) for बुध्ने.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नैतशं रीरमत्सृमाणं (naitaśaṃ rīramatsṛmāṇaṃ) for न्येतशं रीरमत्ससृमाणम्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -36453,8 +36337,6 @@ Be our preserver, you who are looking (benevolently upon) all ; a kinsman (to us
 
 #### Ṛk 18
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: अभिः (abhiḥ) for आभिः.*
-
 ##### Saṃhitā-pāṭha
 
 > स॒खी॒य॒ताम॑वि॒ता बो॑धि॒ सखा॑ गृणा॒न इ॑न्द्र स्तुव॒ते वयो॑ धाः ।  
@@ -36592,8 +36474,6 @@ As soon as Indra, the possessor of wealth, is praised, he, without the help of o
 When Indra, the posssessor of opulence, is glorified, he singly destroys many unyielding foes: the worshipper is dear to him (who relies) on his protection, and neither gods nor men molest him
 
 #### Ṛk 20
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विरष्यी (viraṣyī) for विरप्शी; यज्जरित्रॆ (yajjaritrè) for यज्जरित्रे.*
 
 ##### Saṃhitā-pāṭha
 
@@ -37061,8 +36941,6 @@ We have already described at length earlier how Indra forcibly drank Soma in the
 
 #### Ṛk 4
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: जिनित्वाः (jinitvāḥ) for जनित्वाः.*
-
 ##### Saṃhitā-pāṭha
 
 > किं स ऋध॑क्कृणव॒द्यं स॒हस्रं॑ मा॒सो ज॒भार॑ श॒रद॑श्च पू॒र्वीः ।  
@@ -37127,8 +37005,6 @@ Whatever deeds are done by Indra, whom his mother carried in the womb for thousa
 Aditi speaks.—What irregular act has he committed whom (I, his mother,) bore for a thousand months and for many years? there is no analogy between him and those who have been or will be born.
 
 #### Ṛk 5
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: नृष्टं अथोदस्थात्त्वयमत्कं (nṛṣṭaṃ athodasthāttvayamatkaṃ) for न्यृष्टम् अथोदस्थात्स्वयमत्कं.*
 
 ##### Saṃhitā-pāṭha
 
@@ -37331,8 +37207,6 @@ For a detailed account of Indra's slaying of the demon Vṛtra, the consequent i
 
 #### Ṛk 8
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: ममृड्युर्ममच्चदिंद्रः (mamṛḍyurmamaccadiṃdraḥ) for ममृड्युर्ममच्चिदिन्द्रः.*
-
 ##### Saṃhitā-pāṭha
 
 > मम॑च्च॒न त्वा॑ युव॒तिः प॒रास॒ मम॑च्च॒न त्वा॑ कु॒षवा॑ ज॒गार॑ ।  
@@ -37396,7 +37270,7 @@ Vamadeva speaks.—Exulting, the youthful mother brought you forth : exulting, K
 
 #### Ṛk 9
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: मघवन्वंसो निविविध्वा (maghavanvaṃso nivividhvā) for मघवन्व्यंसो निविविध्वाँ; अथा निविद्द (athā nividda) for अधा निविद्ध.*
+*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: अथा निविद्द (athā nividda) for अधा निविद्ध.*
 
 ##### Saṃhitā-pāṭha
 
@@ -37457,8 +37331,6 @@ O wealthy Indra, from excess of joy (from pride) the demon Vyaṃsa tried to str
 Vyansa, exulting and striking (hard blows) smote you, Maghavan, upon the jaw ; whereupon, being so smitten, you proved the stronger, and did crush the head of the slave with the thunderbolt.
 
 #### Ṛk 10
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: तन्न इच्छमानं (tanna icchamānaṃ) for तन्व इच्छमानम्.*
 
 ##### Saṃhitā-pāṭha
 
@@ -37651,8 +37523,6 @@ O Indra, since you yourself seized your father by the leg, dragged and thrust hi
 Who has made your mother a widow? who has sought to slay the sleeping and the waking? what deity has been more gracious than you, since you have slain the father, having seized him by the foot ?
 
 #### Ṛk 13
-
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: श्वेनो (śveno) for श्येनो.*
 
 ##### Saṃhitā-pāṭha
 

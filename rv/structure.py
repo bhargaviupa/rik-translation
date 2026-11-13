@@ -110,7 +110,8 @@ def compare_verses(vol, units, ref):
                     if len(g) >= 3 and g in wit: rf = True
                     if len(h) >= 3 and h in wit: ef = True
             if not seen: return 'undecided'
-            if rf and not ef: return 'misread'            # Pada-pāṭha / word meanings have the reference form: the supplied verse is misread
+            if rf: return 'misread'                       # the Pada-pāṭha or a headword of the word meanings has the reference form: the supplied verse is misread
+                                                          # (also when the other of the two repeats the misreading: 3.40.2, Pada ತತೃಸಿಂ, headword ತಾತೃಪಿಂ; user, Nov 13 2026)
             if ef and not rf: return 'edition'            # they have the same form as the supplied verse: a reading of the edition
             return 'undecided'
         diffs = []
