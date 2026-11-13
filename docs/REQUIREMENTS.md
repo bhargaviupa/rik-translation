@@ -31,7 +31,7 @@ Marks used: **NEW** = differs from the volumes made so far. **(F3)** = see open 
 - **The published books** (the PDFs in `publish/out/`) are as professional as a printed book can be. They contain **no known error, no comment of ours, no note by the model, no mark of doubt, no trace of how the files were made.**
 - **The working files** (the `.md` files and review lists inside `volN/`) hold everything else: open questions, the editor's decisions, repairs, results of checks, faults of the supplied text.
 
-A PDF in `publish/out/` is therefore either a **release** (meets Part H2 in full) or is clearly marked on every page as a **review copy** and kept apart from the releases. (F16)
+**`publish/out/` holds releases only** (a release meets Part H2 in full). A **review copy** is marked as such on every page and stays inside the volume's own folder, `volN/review/`. (Decided Nov 13 2026.)
 
 Every volume has the same structure, section names, layout and abbreviations. A volume that differs is brought into line or listed as not conforming.
 
@@ -66,12 +66,12 @@ The credits of the original edition are either marked clearly as taken from the 
 |---|---|---|---|
 | 1 | Verse | **Saṃhitā-pāṭha** | from the reference text, accented, every akṣara set apart; transliteration |
 | 2 | Word-text | **Pada-pāṭha** | as supplied; transliteration |
-| 3 | Commentary | **Sāyaṇa-bhāṣya — Sāyaṇa's Explanation** **NEW** | Sanskrit, transliteration **NEW**, then an elaborate English summary (F2) |
+| 3 | Commentary | **Sāyaṇa-bhāṣya — Sāyaṇa's Explanation** **NEW** | Sanskrit, transliteration **NEW**, then an elaborate English **Summary** |
 | 4 | Word meanings | **Word-to-word meaning** **NEW** (was Pratipadārtha) | one word per line |
 | 5 | Sense | **Gist** **NEW** (was Bhāvārtha) | English |
-| 6 | English of the edition | heading to be settled (F5) | reproduced from the original |
+| 6 | English of the edition | **English translation** | reproduced from the original |
 | 7 | Topics | **Viśeṣa-viṣaya** **NEW** (was Viśeṣaviṣayagaḷu) | English, with quotations and references |
-| 8 | Grammar | **Grammar (Vyākaraṇa-prakriyā)** | (F6) |
+| 8 | Grammar | **Grammar (Vyākaraṇa-prakriyā)** | rendered in Sanskrit |
 
 Parts 6–8 appear only where the original has them.
 
@@ -204,18 +204,18 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F2 | **Two "Gists".** *Decided Nov 13 2026:* the summary of the bhāṣya stands under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation" as "Summary"; Bhāvārtha is "Gist". | A3, C3 |
 | F3 | **Footer.** *Decided Nov 13 2026:* one line such as "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14"; both page numbers when our page holds parts of two original pages. | A4 |
 | F4 | **Stray letters.** *Decided Nov 13 2026:* removed from the book and listed in the review list. | B4.2 |
-| F5 | **Heading of the edition's English.** *Open; proposal of Nov 13 2026:* the heading is "English translation", as the original heads it, with no name. The Note on this translation says whose it is once that is verified. Reasons: the edition does not name a translator (Vol 1 says only that "the essential meaning of the mantra is given briefly"); the wording has Wilson's marks ("Twashtri", bracketed supplements) but uses "you" where Wilson wrote "thou", so it may be Wilson adapted by the editor; a comparison with Wilson's text could not be made from this session (the sites holding it were not reachable). | C6 |
-| F6 | **Grammar.** Keep the Sanskrit rendering begun in Vol 17, or English? | C8 |
-| F7 | **Older volumes.** Do B4.1–B4.3 apply to Vols 1–16 by clean-up, or only when a volume is redone? (The Vol 16 trial showed that removing remarks by script damages sentences.) | B4 |
-| F8 | **Credits.** One combined page or two? Wording of the thanks; where the AI assistance is mentioned once it leaves the copyright lines. | A2 |
-| F9 | **Kannada book.** May it carry our added sūkta and Ṛk headings and page marks, or the original text only? | A5 |
+| F5 | **Heading of the edition's English.** *Decided Nov 13 2026:* neutral: "English translation", no name. Whose it is (Wilson, or Wilson adapted by the editor) stays to be verified and is said in the Note on this translation when known. | C6 |
+| F6 | **Grammar.** *Decided Nov 13 2026:* Sanskrit ("I think": the user's present view; a change means those sections are translated again). | C8 |
+| F7 | **Older volumes.** *Decided Nov 13 2026:* no general clean-up. A volume is brought to these requirements when it is picked up, and only then. | B4 |
+| F8 | **Credits.** *Decided Nov 13 2026:* two pages for now: the original's credits, marked as such, and ours. *Still open:* the wording of the thanks and where the method is stated (H1.5). | A2 |
+| F9 | **Kannada book.** *Decided Nov 13 2026:* it carries added sūkta and Ṛk headings and page marks. | A5 |
 | F10 | **Verse differences.** *Decided Nov 13 2026:* stated in the book (B5.1). | C1 |
-| F11 | **Rights (H1.1–H1.3).** Who can you approach for the rights in the edition, the portraits and the reference text? Do you want a lawyer's view before more work is done on the Kannada book? | H1 |
-| F12 | **Length (H3.1).** Split volumes into parts, or change the page format? This also decides the ISBN count. | H3 |
-| F13 | **Release standard (H2.2).** What sample size and what result would you accept as "ready"? Proposal: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
-| F14 | **Places that cannot be settled.** The published book shows no doubt (A1). Where the supplied text is damaged and neither you nor a printed copy can settle it, what stands in the book: the best reading without comment, or a plain editorial footnote ("text damaged in the source")? | A1, H2 |
-| F15 | **Your preface to the English edition.** Its place: proposed after the Contents and before the original's own preface. One text for the whole series with a short part per volume, or a separate text for each volume? And should the "Note on this translation" (H2.4: sources, method, conventions) be part of it or a page of its own? | A2, H2.4 |
-| F16 | **Review copies.** May marked review copies sit in `publish/out/` beside releases (proposal: in `publish/review/`, with "Review copy" in the footer), or should `publish/out/` hold releases only? The PDFs there today are all review copies. | A1 |
+| F11 | **Rights (H1.1–H1.3).** Kept as an open point (user, Nov 13 2026): who can be approached for the rights in the edition, the portraits and the reference text; whether a lawyer's view is wanted. It blocks publishing, not building. | H1 |
+| F12 | **Length.** *Decided Nov 13 2026:* volumes are not split, for now. *Consequence, open:* several volumes exceed what print-on-demand printers accept (H3.1); this returns when a printer is chosen. | H3 |
+| F13 | **Release standard.** *Decided Nov 13 2026:* as proposed: second reading of every page, then 48 pages read by a different model and a sample by a scholar, with no error of meaning left unrepaired. | H2 |
+| F14 | **Places that cannot be settled.** *Decided Nov 13 2026:* a plain editorial footnote ("text damaged in the source"). | A1, H2 |
+| F15 | **Your preface to the English edition.** Open ("I don't know yet", Nov 13 2026). Until decided: a placeholder page after the Contents and before the original's preface. | A2, H2.4 |
+| F16 | **Review copies.** *Decided Nov 13 2026:* `publish/out/` holds final copies only. Review copies stay inside the volume's folder (`volN/review/`). The PDFs in `publish/out/` today are all review copies and move when the new printer is built. | A1 |
 | F17 | **Which differences are real.** The supplied text is a machine reading, so some differences from the reference are its misreadings, not the edition's. Who confirms a difference before it is printed: you, from the printed book, for every one — or may a difference be taken as the edition's when the Pada-pāṭha or the bhāṣya of the same verse shows the same reading? And the wording of the line (proposal: "Kannada edition: …" in small type under the verse). | B5 |
 
 ---

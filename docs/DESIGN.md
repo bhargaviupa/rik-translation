@@ -141,10 +141,10 @@ Three things are printed from the same data.
 | Printed thing | Where | What it shows |
 |---|---|---|
 | **Working copy** | `volN/…English.md`, `…Kannada.md` | the text, with a small marker where a question for the editor is open; for reading and reviewing on screen |
-| **Review PDF** | `publish/review/` | the book as it will look, "Review copy" in every footer, open questions marked |
+| **Review PDF** | `volN/review/` | the book as it will look, "Review copy" in every footer, open questions marked |
 | **Release PDF** | `publish/out/` | the book. No mark, no comment, no note, nothing about how it was made (requirement A1). Built only through the release gate. |
 
-One set of print settings for all volumes fixes: the front-matter order (requirement A2, including the page for the user's preface); the section names; transliteration under every Sanskrit block; the verse with every akṣara set apart; references in the text; the footer with the original's page number and Maṇḍala–Anuvāka–Varga line; no page marks in the body; the Om picture; the page size; and the splitting of a long volume into parts at a sūkta boundary when it exceeds the printer's limit.
+One set of print settings for all volumes fixes: the front-matter order (requirement A2, including the page for the user's preface); the section names; transliteration under every Sanskrit block; the verse with every akṣara set apart; references in the text; the footer with the original's page number and Maṇḍala–Anuvāka–Varga line; no page marks in the body; the Om picture; the page size; and, as an option that is off for now, the splitting of a long volume into parts at a sūkta boundary.
 
 Per volume there is only what differs by nature: its cover picture, its range, its contents, its abbreviations page, its preface.
 
@@ -265,17 +265,17 @@ The design does not wait for these. Each has an assumed answer, and the last col
 | F2 | Name for the summary of the bhāṣya | **Decided Nov 13 2026:** "Summary", under "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation"; Bhāvārtha is "Gist" | print setting |
 | F3 | Footer | **Decided Nov 13 2026:** "Kannada edition p. 235–236 · Maṃ. 3, Anu. 1, Va. 14" | print setting |
 | F4 | Stray letters | **Decided Nov 13 2026:** removed through the corrections list, so listed | none |
-| F5 | Heading of the edition's English | "English translation" without a name until verified | print setting |
-| F6 | Grammar | Sanskrit, as decided Nov 11 | those units translated again |
-| F7 | Older volumes | all volumes come into the data (§7); none is cleaned by pattern | — |
-| F8 | Credits | one page of the original's credits marked as such, one of ours; the method stated in a Note | print setting |
-| F9 | Kannada book | original text with page marks and sūkta and Ṛk headings | print setting |
+| F5 | Heading of the edition's English | **Decided Nov 13 2026:** "English translation", no name | print setting |
+| F6 | Grammar | **Decided Nov 13 2026:** Sanskrit | those units translated again |
+| F7 | Older volumes | **Decided Nov 13 2026:** a volume comes into the data when it is picked up, not before; none is cleaned by pattern | — |
+| F8 | Credits | **Decided Nov 13 2026:** two pages for now (the original's credits marked as such; ours). Wording of the thanks and of the method note still open | print setting |
+| F9 | Kannada book | **Decided Nov 13 2026:** original text with page marks and sūkta and Ṛk headings | print setting |
 | F10 | Verse differs from the reference | **Decided Nov 13 2026:** printed under the verse (see F1) | — |
-| F12 | Length | split into parts at a sūkta boundary above the printer's limit | print setting |
-| F13 | Release standard | every page read twice; 48 pages by a different model; a scholar's sample; nothing unrepaired | gate setting |
-| F14 | Places that cannot be settled | best reading, plain editorial footnote "text damaged in the source" | print setting |
-| F15 | User's preface | after the Contents, before the original's preface; placeholder | print setting |
-| F16 | Review copies | `publish/review/`; `publish/out/` holds releases only | folder name |
+| F12 | Length | **Decided Nov 13 2026:** no splitting for now; the printer splits only if switched on later. Volumes above a printer's limit remain an open point | print setting |
+| F13 | Release standard | **Decided Nov 13 2026:** every page read twice; 48 pages by a different model; a scholar's sample; nothing unrepaired | gate setting |
+| F14 | Places that cannot be settled | **Decided Nov 13 2026:** plain editorial footnote "text damaged in the source" | print setting |
+| F15 | User's preface | open (the user does not know yet); placeholder after the Contents, before the original's preface | print setting |
+| F16 | Review copies | **Decided Nov 13 2026:** `publish/out/` holds final copies only; review copies in `volN/review/` | folder name |
 | F17 | Which verse differences are real | the script proposes: a difference is taken as the edition's reading when the Pada-pāṭha or the bhāṣya of the same verse shows the same letters, otherwise it waits for the editor; nothing unconfirmed is printed | list only |
 
-Fourteen of the fifteen answers are print settings or lists. That is the design working as intended: what a volume *says* is made once; how it *looks* can be decided, and changed, at any time.
+Of the seventeen questions, eleven are decided (Nov 13 2026), and all but one of the answers are print settings or lists. Still open: F1 (second half), F11 (rights), F15 (the user's preface), F17 (who confirms a verse difference), and the wording parts of F8. That is the design working as intended: what a volume *says* is made once; how it *looks* can be decided, and changed, at any time.

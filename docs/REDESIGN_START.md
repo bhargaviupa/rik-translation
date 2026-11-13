@@ -22,7 +22,7 @@ You continue the redesign of how the Ṛgveda volumes of this repository (`bharg
 - **Blocking for publication, not for building:** rights in the Kannada edition, the licence of the reference text for the verses, portraits, and the statement of method (REQUIREMENTS H1).
 
 ## How to proceed
-1. **Go through REQUIREMENTS Part F with the user** (16 questions). Most are print settings and can wait; F1 (deviations), F6 (grammar), F7 (older volumes), F12 (length) and F13 (release standard) shape the build. Update the drafts with each answer.
+1. **Most of REQUIREMENTS Part F was decided on Nov 13 2026** (each row says so). Still open: F1 second half (other disagreements of Pada-pāṭha, word meanings, bhāṣya with the verse: assumed listed only), F17 (who confirms that a verse difference is the edition's reading: assumed the script proposes, the user checks the rest), F15 (the user's preface), F11 (rights), wording in F8. None of these stops Phase A.
 2. **The design is approved** (Nov 13 2026). Still challenge it where you see a weakness while building; say so plainly and get the user's agreement before departing from it.
 3. **Build Phase A only** (DESIGN §12): cut Vol 17 into units from its supplied text and the reference, lay its present English into them, print it in the final format. It costs nothing. Proof to show the user: every English paragraph of today's file placed once; every Sanskrit block equal to the source; verse count equal to the reference; a review PDF. If Vol 17 cannot be cut cleanly, the design is wrong: stop and say so.
 4. Then Phases B–G in order, each ending in the test named there. Do not start or change any volume by the present method meanwhile.
