@@ -6,6 +6,7 @@
 
 1. **Verse differences between the reference and the Kannada edition** (user, Nov 13 2026).
    *For now:* the verse is printed from the reference text, and every place where the machine-read Kannada edition differs is mentioned in a footnote on the Ṛk. Nothing is corrected and nothing is confirmed.
+   **Owner: the user, who will check the differences by hand against the printed book and report (Nov 13 2026).** No session works on this until then.
    *Remains:* to find out, place by place, which differences are real readings of the 1952 edition and which are misreadings of the machine text, and then to reword or drop the footnotes. Vol 17: 268 of 441 verses, 393 places, listed in `vol17/review/source_faults.tsv` (column "decision"). The script's guess ("supported" = the same letters stand in the Pada-pāṭha or bhāṣya) over-proposes and is not relied on.
 2. **Spelling of the printed verse.** The reference writes इन्द्र and final म् where the edition writes इंद्र and ं, so the verse differs in spelling from the Pada-pāṭha and bhāṣya under it. *For now:* the reference as it stands. *Remains:* the user's decision whether to adapt it to the edition's habit.
 3. **Other disagreements between the verse and the Pada-pāṭha, word meanings or bhāṣya** (requirement F1, second half). *For now:* listed only. *Remains:* decide whether any are printed.
