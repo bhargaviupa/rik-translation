@@ -71,7 +71,7 @@ The credits of the original edition are either marked clearly as taken from the 
 | 4 | Word meanings | **Word-to-word meaning** **NEW** (was Pratipadārtha) | one word per line |
 | 5 | Sense | **Gist** **NEW** (was Bhāvārtha) | English |
 | 6 | English of the edition | **English translation** | reproduced from the original |
-| 7 | Topics | **Viśeṣa-viṣaya** **NEW** (was Viśeṣaviṣayagaḷu) | English, with quotations and references |
+| 7 | Topics | **Special Topics** (decided Nov 13 2026; the Kannada "Viśeṣaviṣayagaḷu" is not shown) | English, with quotations and references |
 | 8 | Grammar | **Grammar (Vyākaraṇa-prakriyā)** | rendered in Sanskrit |
 
 Parts 6–8 appear only where the original has them.
@@ -115,7 +115,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### B5. Deviations
 1. **The verse.** The book prints the Saṃhitā of the reference text (B1.2). **Where the Saṃhitā of the Kannada edition reads differently, the book says so, under the verse** (decided by the user, Nov 13 2026): Sāyaṇa's commentary, the Pada-pāṭha and the word meanings follow the edition's verse, so a reader must be able to see what they are explaining. This is part of the book, not a comment of ours; it is the one kind of editorial note the published book carries as a rule.
-2. **For now every difference is mentioned and none is corrected** (decided by the user, Nov 13 2026): the mention is a footnote on the Ṛk, worded so that it claims no more than is known ("the Kannada edition, as machine-read, has …"). Which differences are real readings of the edition and which are misreadings of the machine text is not settled; it is on the to-do list at the root (`TODO.md`, point 1).
+2. **A difference that the edition itself settles is settled by script** (user, Nov 13 2026, after checking the differences word by word): where the Pada-pāṭha or the word meanings of the same Ṛk have the reference form, the supplied verse is a misreading of the machine text; the reference stands and no footnote is printed. **Every other difference is mentioned in a footnote on the Ṛk and is not corrected**, worded so that it claims no more than is known ("the Kannada edition, as machine-read, has …"). All differences, with how each was settled, are in `volN/review/source_faults.tsv`.
 3. **Pada-pāṭha, Word-to-word meaning, Sāyaṇa-bhāṣya.** These are given as the edition has them and are never altered to agree with the reference verse. Where they disagree with it beyond what item 1 already states, it is listed for the editor. (F1, second half)
 
 ### B6. Completeness
@@ -150,7 +150,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 ### C6. English of the edition
 - Reproduced from the original. Heading: (F5).
 
-### C7. Viśeṣa-viṣaya
+### C7. Special Topics
 - English. Every Sanskrit quotation in three layers, with its reference in the text (B3.1).
 
 ### C8. Grammar

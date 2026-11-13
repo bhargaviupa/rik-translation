@@ -5,9 +5,8 @@
 ## Text
 
 1. **Verse differences between the reference and the Kannada edition** (user, Nov 13 2026).
-   *For now:* the verse is printed from the reference text, and every place where the machine-read Kannada edition differs is mentioned in a footnote on the Ṛk. Nothing is corrected and nothing is confirmed.
-   **Owner: the user, who will check the differences by hand against the printed book and report (Nov 13 2026).** No session works on this until then.
-   *Remains:* to find out, place by place, which differences are real readings of the 1952 edition and which are misreadings of the machine text, and then to reword or drop the footnotes. Vol 17: 268 of 441 verses, 393 places, listed in `vol17/review/source_faults.tsv` (column "decision"). The script's guess ("supported" = the same letters stand in the Pada-pāṭha or bhāṣya) over-proposes and is not relied on.
+   *Done:* the user checked the differences word by word and found that the Pada-pāṭha or the word meanings often have the right form. The script now settles those itself: where they have the reference form, the supplied verse is taken as misread and gets no footnote. Vol 17: 393 differing places — 136 settled this way, 257 still carry a footnote (83 where the Pada-pāṭha or word meanings agree with the supplied verse, 174 that they do not settle).
+   *Remains:* the 257 footnoted places of Vol 17 (`vol17/review/source_faults.tsv`, column "decision"): real readings of the 1952 edition, or misreadings the machine text repeats? Only the printed book decides. The same list will come for every volume.
 2. **Spelling of the printed verse.** The reference writes इन्द्र and final म् where the edition writes इंद्र and ं, so the verse differs in spelling from the Pada-pāṭha and bhāṣya under it. *For now:* the reference as it stands. *Remains:* the user's decision whether to adapt it to the edition's habit.
 3. **Other disagreements between the verse and the Pada-pāṭha, word meanings or bhāṣya** (requirement F1, second half). *For now:* listed only. *Remains:* decide whether any are printed.
 4. **Questions for the editor.** Vol 17: 471 open (`vol17/review/notes.tsv`); a published book may carry none.

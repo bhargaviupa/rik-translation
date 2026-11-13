@@ -89,19 +89,39 @@ def compare_verses(vol, units, ref):
         if a == b or habit(rv) == habit(ed): st['equal to the reference (letters; spelling habits apart)'] += 1; u['diffs'] = []; continue
         if ratio < 0.6: st['does not look like the reference verse of its number'] += 1; rows.append((key, 'not this verse?', rv[:60], ed[:60], f'{ratio:.2f}')); u['diffs'] = None; continue
         st['same verse, letters differ'] += 1
-        rw, ew = words(rv), words(ed); support = ''
-        for kind in ('pada', 'bhashya'):
+        rw, ew = words(rv), words(ed)
+        # the witnesses inside the edition itself: the Pada-pāṭha and the word meanings of the same Ṛk (user, Nov 13 2026: where they have
+        # the reference form, the supplied verse is a misreading and is settled without the editor)
+        wit = ''
+        for kind in ('pada', 'pratipada'):
             o = by.get((u['m'], u['s'], u['rk'], kind))
-            if o: support += ' ' + canon(' '.join(kn2deva(x) for it in o['kn'] if it[0] == 'block' for x in it[1]))
+            if not o: continue
+            if kind == 'pada': wit += ' ' + ' '.join(habit(w) for it in o['kn'] if it[0] == 'block' for x in it[1] for w in kn2deva(x).split())
+            else:                                                             # of the word meanings only the headwords (what stands before the dash of each entry)
+                txt = ' '.join(it[1] for it in o['kn'] if it[0] == 'text')
+                wit += ' ' + ' '.join(habit(w) for e in re.split(r'[।॥]', txt) for w in kn2deva(re.split(r'[—–-]', e)[0]).split())
+        def judge(r_, e_):
+            a_, b_ = habit(r_), habit(e_); rf = ef = False; seen = False
+            for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a_, b_, autojunk=False).get_opcodes():
+                if tag == 'equal': continue
+                seen = True                                                   # several windows round the differing letters: sandhi changes a word's end in the verse
+                for lo, hi in ((2, 0), (3, 0), (2, 1), (1, 1), (1, 2), (0, 2), (2, 2)):
+                    g = a_[max(0, i1 - lo):i2 + hi]; h = b_[max(0, j1 - lo):j2 + hi]
+                    if len(g) >= 3 and g in wit: rf = True
+                    if len(h) >= 3 and h in wit: ef = True
+            if not seen: return 'undecided'
+            if rf and not ef: return 'misread'            # Pada-pāṭha / word meanings have the reference form: the supplied verse is misread
+            if ef and not rf: return 'edition'            # they have the same form as the supplied verse: a reading of the edition
+            return 'undecided'
         diffs = []
         sm = difflib.SequenceMatcher(None, [canon(w) for w in rw], [canon(w) for w in ew], autojunk=False)
         for tag, i1, i2, j1, j2 in sm.get_opcodes():
             if tag == 'equal': continue
             r_, e_ = ' '.join(rw[i1:i2]), ' '.join(ew[j1:j2])
             if canon(r_) == canon(e_) or habit(r_) == habit(e_) or ''.join(habit(w) for w in rw[i1:i2]) == ''.join(habit(w) for w in ew[j1:j2]): st['places that differ in spelling habit only (not listed)'] += 1; continue
-            state = 'supported' if e_ and all(canon(w) in support for w in ew[j1:j2] if len(canon(w)) > 2) and any(len(canon(w)) > 2 for w in ew[j1:j2]) else 'unsupported'
+            state = judge(r_, e_) if r_ and e_ else 'undecided'
             diffs.append([r_, e_, state]); st['differing places: ' + state] += 1
-            rows.append((key, 'verse differs: ' + state, r_, e_, ''))
+            rows.append((key, 'verse differs', r_, e_, {'misread': 'misread (by script: the Pada-pāṭha or the word meanings of this Ṛk have the reference form) — no footnote', 'edition': 'the Pada-pāṭha or the word meanings have the same form as the supplied verse — footnote', 'undecided': 'not settled by the Pada-pāṭha or the word meanings — footnote'}[state]))
         u['diffs'] = diffs
         if not diffs: st['same verse, letters differ'] -= 1; st['equal to the reference (letters; spelling habits apart)'] += 1
     return rows, st

@@ -278,6 +278,6 @@ The design does not wait for these. Each has an assumed answer, and the last col
 | F14 | Places that cannot be settled | **Decided Nov 13 2026:** plain editorial footnote "text damaged in the source" | print setting |
 | F15 | User's preface | open (the user does not know yet); placeholder after the Contents, before the original's preface | print setting |
 | F16 | Review copies | **Decided Nov 13 2026:** `publish/out/` holds final copies only; review copies in `volN/review/` | folder name |
-| F17 | Which verse differences are real | **Decided Nov 13 2026:** not settled for now; every difference is a footnote on the Ṛk, none corrected; parked in `TODO.md` | print setting |
+| F17 | Which verse differences are real | **Decided Nov 13 2026:** where the Pada-pāṭha or the word meanings of the Ṛk have the reference form, the difference is a misreading and is settled by script (no footnote); every other difference is a footnote on the Ṛk, not corrected | print setting |
 
 Of the seventeen questions, eleven are decided (Nov 13 2026), and all but one of the answers are print settings or lists. Still open: F1 (second half), F11 (rights), F15 (the user's preface), F17 (who confirms a verse difference), and the wording parts of F8. That is the design working as intended: what a volume *says* is made once; how it *looks* can be decided, and changed, at any time.

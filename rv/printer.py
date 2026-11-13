@@ -8,7 +8,7 @@ from .common import *
 sys.path.insert(0, os.path.join(ROOT, 'publish'))
 
 NAMES = {'samhita': 'Saṃhitā-pāṭha', 'pada': 'Pada-pāṭha', 'bhashya': "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation", 'summary': 'Summary', 'pratipada': 'Word-to-word meaning',
-         'bhavartha': 'Gist', 'english': 'English translation', 'vishesha': 'Viśeṣa-viṣaya', 'grammar': 'Grammar (Vyākaraṇa-prakriyā)', 'loose': ''}
+         'bhavartha': 'Gist', 'english': 'English translation', 'vishesha': 'Special Topics', 'grammar': 'Grammar (Vyākaraṇa-prakriyā)', 'loose': ''}
 INTRO_LABELS = {'bhashya': "Sāyaṇa's introduction to the sūkta"}
 NOTE_RX = re.compile(r'\s*⟨NOTE:(\d+)⟩')
 
@@ -43,7 +43,7 @@ def render(vol, units, review=True, for_html=False):
     # where the verse of the Kannada edition (as machine-read) differs from the reference verse that is printed: one footnote on the Ṛk
     # (user, Nov 13 2026: mention every difference, correct none for now; which are real readings of the edition is on the to-do list)
     def verse_note(u):
-        d = [(r_, e_) for r_, e_, _ in (u.get('diffs') or []) if r_ or e_]
+        d = [(r_, e_) for r_, e_, state in (u.get('diffs') or []) if (r_ or e_) and state != 'misread']      # a place the edition's own Pada-pāṭha or word meanings settle needs no footnote
         if not d: return ''
         parts = [(f'{e_} ({deva_to_iast(strip_ac(e_)).strip()})' if e_ else 'nothing') + (f' for {r_}' if r_ else ' (not in the reference)') for r_, e_ in d]
         return 'The verse is printed from the reference text. The Kannada edition, as machine-read, has: ' + '; '.join(parts) + '.'
