@@ -40,6 +40,14 @@ def mark_samhita(body):
 
 def render(vol, units, review=True, for_html=False):
     out = []; st = collections.Counter(); cur_m = cur_s = cur_rk = None
+    # where the verse of the Kannada edition (as machine-read) differs from the reference verse that is printed: one footnote on the Ṛk
+    # (user, Nov 13 2026: mention every difference, correct none for now; which are real readings of the edition is on the to-do list)
+    def verse_note(u):
+        d = [(r_, e_) for r_, e_, _ in (u.get('diffs') or []) if r_ or e_]
+        if not d: return ''
+        parts = [(f'{e_} ({deva_to_iast(strip_ac(e_)).strip()})' if e_ else 'nothing') + (f' for {r_}' if r_ else ' (not in the reference)') for r_, e_ in d]
+        return 'The verse is printed from the reference text. The Kannada edition, as machine-read, has: ' + '; '.join(parts) + '.'
+    vnote = {(u['m'], u['s'], u['rk']): verse_note(u) for u in units if u['kind'] == 'samhita'}
     def notes(t):
         if review: return NOTE_RX.sub(lambda mm: f'<sup class="q">?{mm.group(1)}</sup>', t)
         return NOTE_RX.sub('', t)
@@ -57,7 +65,9 @@ def render(vol, units, review=True, for_html=False):
             out += [om + f'## Sūkta {cur_s} (Maṇḍala {cur_m})' + (f'<span class="ks" data-s="{particulars(u)}"></span>' if for_html else '') + anchors(u), '']; st['sūktas'] += 1
             out += body_items(u, units, notes, st); continue
         if u['rk'] != cur_rk or u['s'] != cur_s:
-            cur_s, cur_rk = u['s'], u['rk']; out += [f'#### Ṛk {cur_rk}', '']; st['Ṛks'] += 1
+            cur_s, cur_rk = u['s'], u['rk']; vn = vnote.get((u['m'], cur_s, cur_rk), '')
+            if vn: st['Ṛks with a footnote on the verse'] += 1
+            out += [f'#### Ṛk {cur_rk}' + (f'<span class="fn">{vn}</span>' if vn and for_html else ''), ''] + ([f'*Footnote: {vn}*', ''] if vn and not for_html else []); st['Ṛks'] += 1
         if NAMES.get(kind): out += [('###### ' if kind == 'summary' else '##### ') + NAMES[kind] + anchors(u), '']
         elif anchors(u): out += [anchors(u), '']
         if kind == 'samhita':
@@ -67,9 +77,6 @@ def render(vol, units, review=True, for_html=False):
             else:
                 lines = [kn2deva(x) for it in u['kn'] if it[0] == 'block' for x in it[1]]; st['verses printed from the supplied text (no reference verse)'] += 1
             out += quote(lines) + [''] + quote(iast_lines(lines)) + ['']
-            for r_, e_, state in (u.get('diffs') or []):
-                if state == 'supported' and e_:
-                    out += [f'<p class="ednote">Kannada edition: {e_} ({deva_to_iast(strip_ac(e_)).strip()})' + (f' for {r_}' if r_ else '') + (' <span class="q">— proposed by script, to confirm</span>' if review else '') + '</p>', '']; st['edition readings shown under the verse'] += 1
         elif kind in ('pada', 'bhashya'):
             for it in u['kn']:
                 if it[0] == 'block': out += sanskrit_block([kn2deva(x) for x in it[1]]); st['Sanskrit blocks printed from the source'] += 1
@@ -141,9 +148,10 @@ def body_items(u, units, notes, st):
 CSS = """
 span.kp { string-set: kp attr(data-p); }
 h1 { string-set: volhead content(); page-break-before: always; text-align: center; }
-h2 { string-set: sukhead content(text); page-break-before: always; }
+h2 { string-set: sukhead content(text); page-break-before: always; counter-reset: footnote; }
 h5 { font-size: 10pt; margin: 1.1em 0 .35em; letter-spacing: .02em; page-break-after: avoid; }
 h6 { font-size: 9.5pt; font-style: italic; font-weight: normal; margin: .8em 0 .3em; page-break-after: avoid; }
+h4 span.fn { font-weight: normal; }
 p.ednote { font-size: 8.5pt; margin: -.2em 0 .6em 1em; color: #333; }
 sup.q, span.q { color: #a00; font-size: 7.5pt; }
 section.placeholder-page { page-break-before: always; page-break-after: always; }

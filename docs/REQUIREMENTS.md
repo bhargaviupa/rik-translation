@@ -52,6 +52,7 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 | next | Abbreviations | The volume's list, with Sanskrit in place of the Kannada text. | supplied file |
 
 Vol 15 was built in another order (preface before the guru's portrait); it is to be corrected.
+**This layout may change again** (user, Nov 13 2026); it is one setting of the printer and is listed in `TODO.md`.
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
 
 ### A3. Body
@@ -114,7 +115,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### B5. Deviations
 1. **The verse.** The book prints the Saṃhitā of the reference text (B1.2). **Where the Saṃhitā of the Kannada edition reads differently, the book says so, under the verse** (decided by the user, Nov 13 2026): Sāyaṇa's commentary, the Pada-pāṭha and the word meanings follow the edition's verse, so a reader must be able to see what they are explaining. This is part of the book, not a comment of ours; it is the one kind of editorial note the published book carries as a rule.
-2. **Only a real reading of the edition is printed.** The supplied text is a machine reading and has wrong letters of its own. A difference is printed as "the Kannada edition reads …" only when it is confirmed as the edition's reading; an unconfirmed difference stays in the review list and is not printed. (F17)
+2. **For now every difference is mentioned and none is corrected** (decided by the user, Nov 13 2026): the mention is a footnote on the Ṛk, worded so that it claims no more than is known ("the Kannada edition, as machine-read, has …"). Which differences are real readings of the edition and which are misreadings of the machine text is not settled; it is on the to-do list at the root (`TODO.md`, point 1).
 3. **Pada-pāṭha, Word-to-word meaning, Sāyaṇa-bhāṣya.** These are given as the edition has them and are never altered to agree with the reference verse. Where they disagree with it beyond what item 1 already states, it is listed for the editor. (F1, second half)
 
 ### B6. Completeness
@@ -216,7 +217,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F14 | **Places that cannot be settled.** *Decided Nov 13 2026:* a plain editorial footnote ("text damaged in the source"). | A1, H2 |
 | F15 | **Your preface to the English edition.** Open ("I don't know yet", Nov 13 2026). Until decided: a placeholder page after the Contents and before the original's preface. | A2, H2.4 |
 | F16 | **Review copies.** *Decided Nov 13 2026:* `publish/out/` holds final copies only. Review copies stay inside the volume's folder (`volN/review/`). The PDFs in `publish/out/` today are all review copies and move when the new printer is built. | A1 |
-| F17 | **Which differences are real.** The supplied text is a machine reading, so some differences from the reference are its misreadings, not the edition's. Who confirms a difference before it is printed: you, from the printed book, for every one — or may a difference be taken as the edition's when the Pada-pāṭha or the bhāṣya of the same verse shows the same reading? And the wording of the line (proposal: "Kannada edition: …" in small type under the verse). | B5 |
+| F17 | **Which differences are real.** *Decided Nov 13 2026:* not settled for now. Every difference is mentioned in a footnote on the Ṛk; none is corrected or confirmed; the question is parked in `TODO.md`. | B5 |
 
 ---
 
