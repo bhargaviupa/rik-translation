@@ -124,11 +124,16 @@ def compare_verses(vol, units, ref):
             if tag == 'equal': continue
             r_, e_ = ' '.join(rw[i1:i2]), ' '.join(ew[j1:j2])
             if canon(r_) == canon(e_) or habit(r_) == habit(e_) or ''.join(habit(w) for w in rw[i1:i2]) == ''.join(habit(w) for w in ew[j1:j2]): st['places that differ in spelling habit only (not listed)'] += 1; continue
-            state = judge(r_, e_) if r_ and e_ else 'undecided'
+            how = judge(r_, e_) if r_ and e_ else 'undecided'
             d_ = dec.get((f'{key[0]}.{key[1]}.{key[2]}', canon(r_), canon(e_)))
-            if d_ in ('misread', 'edition'): state = d_; st['differing places decided by the editor'] += 1
-            diffs.append([r_, e_, state]); st['differing places: ' + state] += 1
-            rows.append((key, 'verse differs', r_, e_, {'misread': 'misread (by script: the Pada-pāṭha or the word meanings of this Ṛk have the reference form) — no footnote', 'edition': 'the Pada-pāṭha or the word meanings have the same form as the supplied verse — footnote', 'undecided': 'not settled by the Pada-pāṭha or the word meanings — footnote'}[state]))
+            # user, Nov 13 2026 (after checking six places against the printed book, all six agreeing with the reference): the reference is the
+            # correct source; every difference of the supplied verse is taken as a misreading of the machine text and gets no footnote.
+            # Only a place the editor marks 'edition' in data/verse_decisions.tsv (the printed book really differs) is footnoted.
+            state = 'edition' if d_ == 'edition' else 'misread'
+            why = ('the editor: the printed book differs' if d_ == 'edition' else 'checked by the editor against the printed book' if d_ == 'misread' else
+                   'the Pada-pāṭha or the word meanings have the reference form' if how == 'misread' else 'by rule: the reference is taken as correct')
+            diffs.append([r_, e_, state]); st['differing places: ' + ('footnoted (edition reading)' if state == 'edition' else why)] += 1
+            rows.append((key, 'verse differs', r_, e_, ('edition reading — footnote' if state == 'edition' else 'misread — ' + why)))
         u['diffs'] = diffs
         if not diffs: st['same verse, letters differ'] -= 1; st['equal to the reference (letters; spelling habits apart)'] += 1
     return rows, st
@@ -155,14 +160,14 @@ def build(vol, mandalas):
     with open(os.path.join(P['review'], 'source_faults.tsv'), 'w', encoding='utf8') as f:
         f.write('maṇḍala.sūkta.ṛk\tkind\treference\tKannada edition (supplied text)\tnote\tdecision\n')
         for key, kind, a, b, n in rows:
-            if not n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')      # the editor's list holds only what is still open (user, Nov 13 2026)
+            if kind != 'verse differs' or n.startswith('edition'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')      # the editor's list holds only what is still open (user, Nov 13 2026)
         for u in units:
             for it in u['kn']:
                 if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\tstray line, not printed\t\t{it[1]}\tin {u['kind']}\t\n")
     with open(os.path.join(P['review'], 'verse_misreadings_settled.tsv'), 'w', encoding='utf8') as f:      # the record of what the script settled; not a list for the editor
-        f.write('maṇḍala.sūkta.ṛk\treference (printed)\tsupplied text (misread)\n')
+        f.write('maṇḍala.sūkta.ṛk\treference (printed)\tsupplied text (taken as misread)\thow it was settled\n')
         for key, kind, a, b, n in rows:
-            if n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{a}\t{b}\n')
+            if n.startswith('misread'): f.write(f'{key[0]}.{key[1]}.{key[2]}\t{a}\t{b}\t{n[10:]}\n')
     kinds = collections.Counter(u['kind'] for u in units)
     rep = [f'# Vol {vol}: structure report (rv structure)', '', f'Units: {len(units)} (' + ', '.join(f'{k} {v}' for k, v in sorted(kinds.items())) + ')', '',
            '## Read from the Kannada file'] + [f'- {k}: {v}' for k, v in sorted(st.items())] + ['',

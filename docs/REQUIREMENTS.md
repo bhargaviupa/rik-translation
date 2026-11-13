@@ -114,8 +114,8 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 3. **One mark only** for a place that needs the editor's decision: `NOTE`, **in the working files only**. Its question is in the volume's review list. No `[?]`, no `[sic]`, no "as supplied". The published book shows none of it (A1). (F7)
 
 ### B5. Deviations
-1. **The verse.** The book prints the Saṃhitā of the reference text (B1.2). **Where the Saṃhitā of the Kannada edition reads differently, the book says so, under the verse** (decided by the user, Nov 13 2026): Sāyaṇa's commentary, the Pada-pāṭha and the word meanings follow the edition's verse, so a reader must be able to see what they are explaining. This is part of the book, not a comment of ours; it is the one kind of editorial note the published book carries as a rule.
-2. **A difference that the edition itself settles is settled by script** (user, Nov 13 2026, after checking the differences word by word): where the Pada-pāṭha or the word meanings of the same Ṛk have the reference form, the supplied verse is a misreading of the machine text; the reference stands and no footnote is printed. **Every other difference is mentioned in a footnote on the Ṛk and is not corrected**, worded so that it claims no more than is known ("the Kannada edition, as machine-read, has …"). All differences, with how each was settled, are in `volN/review/source_faults.tsv`.
+1. **The verse.** The book prints the Saṃhitā of the reference text (B1.2). The Pada-pāṭha, the word meanings and the bhāṣya are given as the edition has them.
+2. **The reference is the correct source of the verse** (decided by the user, Nov 13 2026, after checking six differing places of Vol 17 against the printed book: in all six the book agreed with the reference). Every difference of the supplied verse is therefore taken as a misreading of the machine text: the reference is printed and **no footnote is given**. A footnote on the Ṛk is printed only where the editor records that the printed book really differs (`volN/data/verse_decisions.tsv`, decision "edition"). All differences are kept as a record in `volN/review/verse_misreadings_settled.tsv`.
 3. **Pada-pāṭha, Word-to-word meaning, Sāyaṇa-bhāṣya.** These are given as the edition has them and are never altered to agree with the reference verse. Where they disagree with it beyond what item 1 already states, it is listed for the editor. (F1, second half)
 
 ### B6. Completeness
@@ -217,7 +217,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F14 | **Places that cannot be settled.** *Decided Nov 13 2026:* a plain editorial footnote ("text damaged in the source"). | A1, H2 |
 | F15 | **Your preface to the English edition.** Open ("I don't know yet", Nov 13 2026). Until decided: a placeholder page after the Contents and before the original's preface. | A2, H2.4 |
 | F16 | **Review copies.** *Decided Nov 13 2026:* `publish/out/` holds final copies only. Review copies stay inside the volume's folder (`volN/review/`). The PDFs in `publish/out/` today are all review copies and move when the new printer is built. | A1 |
-| F17 | **Which differences are real.** *Decided Nov 13 2026:* not settled for now. Every difference is mentioned in a footnote on the Ṛk; none is corrected or confirmed; the question is parked in `TODO.md`. | B5 |
+| F17 | **Which differences are real.** *Decided Nov 13 2026:* the reference is taken as correct; a difference of the supplied verse is a misreading and gets no footnote, unless the editor records that the printed book really differs. | B5 |
 
 ---
 
