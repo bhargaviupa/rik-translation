@@ -4,7 +4,7 @@ A block is matched to a reference Ṛk by similarity of its unaccented skeleton;
 CLI: python3 vol14/tools/accents.py FILE [--write] [--from-line N]     (report, or rewrite FILE)
 API: apply_text(text, state=None) -> (new_text, report)  where state['ptr'] keeps the Ṛk pointer between calls."""
 import re,os,sys,difflib
-REF=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','refs','rv_mandala2_accented.txt')
+REF=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','..','vol14','refs','rv_mandala2_accented.txt')   # moved here from vol14/tools (Nov 13 2026); the reference file stays in vol14/refs
 AC='॒॑'
 def load():
     rik=[];cur=[]

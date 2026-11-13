@@ -16,7 +16,7 @@ The reference file is a volunteer text "for personal study and research; not to 
 import os,sys,re,glob,json,time,argparse,difflib,importlib.util
 from html.parser import HTMLParser
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..','..'))
-spec=importlib.util.spec_from_file_location('acc',os.path.join(ROOT,'vol14','tools','accents.py')); acc=importlib.util.module_from_spec(spec); spec.loader.exec_module(acc)
+spec=importlib.util.spec_from_file_location('acc',os.path.join(ROOT,'publish','tools','accents','accents.py')); acc=importlib.util.module_from_spec(spec); spec.loader.exec_module(acc)
 AC=acc.AC
 DEVD=str.maketrans('०१२३४५६७८९','0123456789')
 IDRE=re.compile(r'(\d{1,2})\s*\.\s*(\d{1,3})\s*\.\s*(\d{1,3})\s*$')
