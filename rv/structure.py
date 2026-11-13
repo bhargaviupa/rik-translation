@@ -3,7 +3,7 @@
 Input: the volume's Kannada text as the existing scripts make it from the supplied text (page marks, section labels, Sanskrit blocks) and the
 reference text of the verses.  Output: volN/data/units.jsonl — one unit per part of a Ṛk (and per sūkta introduction, and the front matter),
 each with its Kannada-side content in order; and the report of what does not fit (volN/review/source_faults.tsv, structure_report.md)."""
-import re, os, difflib, collections
+import re, os, csv, difflib, collections
 from .common import *
 
 LABELS = {'ಸಂಹಿತಾಪಾಠಃ': 'samhita', 'ಪದಪಾಠಃ': 'pada', 'ಸಾಯಣಭಾಷ್ಯಂ': 'bhashya', 'ಸಾಯಣಭಾಷ್ಯಮ್': 'bhashya', 'ಪ್ರತಿಪದಾರ್ಥ': 'pratipada', 'ಭಾವಾರ್ಥ': 'bhavartha',
@@ -78,6 +78,10 @@ def compare_verses(vol, units, ref):
     A differing word of the edition is 'supported' when the same letters stand in the Pada-pāṭha or the bhāṣya of the same Ṛk (so it is the
     edition's reading, not a slip of the machine reading: DESIGN §13, F17); otherwise 'unsupported'."""
     by = {(u['m'], u['s'], u['rk'], u['kind']): u for u in units}; rows = []; st = collections.Counter()
+    dec = {}; dp = os.path.join(vol_paths(vol)['data'], 'verse_decisions.tsv')        # the editor's decisions from the printed book: they outlive every re-run
+    if os.path.exists(dp):
+        for r in list(csv.reader(open(dp, encoding='utf8'), delimiter='\t'))[1:]:
+            if len(r) >= 4: dec[(r[0].strip(), canon(r[1]), canon(r[2]))] = r[3].strip()
     for u in units:
         if u['kind'] != 'samhita': continue
         key = (u['m'], u['s'], u['rk']); st['Saṃhitā units'] += 1
@@ -121,6 +125,8 @@ def compare_verses(vol, units, ref):
             r_, e_ = ' '.join(rw[i1:i2]), ' '.join(ew[j1:j2])
             if canon(r_) == canon(e_) or habit(r_) == habit(e_) or ''.join(habit(w) for w in rw[i1:i2]) == ''.join(habit(w) for w in ew[j1:j2]): st['places that differ in spelling habit only (not listed)'] += 1; continue
             state = judge(r_, e_) if r_ and e_ else 'undecided'
+            d_ = dec.get((f'{key[0]}.{key[1]}.{key[2]}', canon(r_), canon(e_)))
+            if d_ in ('misread', 'edition'): state = d_; st['differing places decided by the editor'] += 1
             diffs.append([r_, e_, state]); st['differing places: ' + state] += 1
             rows.append((key, 'verse differs', r_, e_, {'misread': 'misread (by script: the Pada-pāṭha or the word meanings of this Ṛk have the reference form) — no footnote', 'edition': 'the Pada-pāṭha or the word meanings have the same form as the supplied verse — footnote', 'undecided': 'not settled by the Pada-pāṭha or the word meanings — footnote'}[state]))
         u['diffs'] = diffs

@@ -329,8 +329,6 @@ The word श्रुधि (*śrudhi*) too is used with a long final syllable i
 
 #### Ṛk 3
 
-*Footnote: The verse is printed from the reference text. The Kannada edition, as machine-read, has: विश्वते (viśvate) for विश्पते.*
-
 ##### Saṃhitā-pāṭha
 
 > इन्द्र॒ प्र णो॑ धि॒तावा॑नं य॒ज्ञं विश्वे॑भिर्दे॒वेभि॑ः ।  
