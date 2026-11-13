@@ -20,7 +20,7 @@
    *For now:* the order of requirement A2 as built in `rv/printer.py` (`front_matter`): cover, king, guru, board of scholars, present day, translation credentials, copyright and thanks, contents.
    *Remains:* the final layout and wording; the pictures and texts only the user can supply (present king and guru, credentials picture, publisher, ISBN, thanks, the user's preface); checking the typeset portrait captions against Vol 1 pp. 4–5.
 9. **Length.** Volumes are not split for now; several exceed what print-on-demand printers accept (Vol 17 English review copy: about 1,780 pages). Returns when a printer and page size are chosen.
-10. **The print's ornament line** ("— : 0 : —") is set aside with the stray lines and not printed. Decide whether to show it as an ornament.
+10. ~~The print's ornament line ("— : 0 : —")~~ **Settled Nov 13 2026 (user: "strays — remove"):** stray lines, the ornament line among them, are removed from both books and stay listed in `volN/review/source_faults.tsv`.
 11. **Heading of the edition's English:** "English translation", no name, until it is verified whether the text is H. H. Wilson's or adapted from it.
 
 ## Before anything is published
