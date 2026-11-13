@@ -156,6 +156,7 @@ CSS = """
 span.kp { string-set: kp attr(data-p); }
 h1 { string-set: volhead content(); page-break-before: always; text-align: center; }
 h2 { string-set: sukhead content(text); page-break-before: always; counter-reset: footnote; }
+h1 + h2, h1 + div.om, div.om + h2 { page-break-before: avoid; }      /* the first sūkta follows its Maṇḍala heading on the same page */
 h5 { font-size: 10pt; margin: 1.1em 0 .35em; letter-spacing: .02em; page-break-after: avoid; }
 h6 { font-size: 9.5pt; font-style: italic; font-weight: normal; margin: .8em 0 .3em; page-break-after: avoid; }
 h4 span.fn { font-weight: normal; }
@@ -249,6 +250,6 @@ def run(vol, pdf=False, kan=False):
     mdh, _ = render(vol, units, review=True, for_html=True)
     # the user's preface and the original preface come first in the body; the abbreviations stand between the prefaces and the first sūkta
     body = mark_samhita(pandoc(mdh)); have = {it[1] for u in units for it in u.get('kn', []) if it[0] == 'page'}
-    body = re.sub(r'(<div class="om">)', abbreviations_html() + r'\n\1', body, count=1)
+    body = re.sub(r'(<h1[^>]*>Maṇḍala)', lambda m: abbreviations_html() + '\n' + m.group(1), body, count=1)      # abbreviations stand before the first Maṇḍala
     doc = head(f'Ṛgveda-saṃhitā, Volume {vol} (review copy)') + '<body>\n' + front_matter(vol, units, have) + '\n' + body + '\n</body></html>'
     pp = os.path.join(P['review'], f'Vol{vol}_review_copy_English.pdf'); to_pdf(doc, pp, P['review']); print(f'review copy: {os.path.relpath(pp, ROOT)}')
