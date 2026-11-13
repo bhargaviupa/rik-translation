@@ -25,9 +25,9 @@ Units: 2944 (bhashya 441, bhavartha 438, english 441, grammar 1, intro 41, pada 
 ## Against the reference text (verses)
 - sūktas in the volume: 41; with every reference verse present once, in order: 41
 - Saṃhitā units: 441
-- differing places decided by the editor: 1
-- differing places: edition: 82
-- differing places: misread: 238
+- differing places decided by the editor: 2
+- differing places: edition: 81
+- differing places: misread: 239
 - differing places: undecided: 73
 - equal to the reference (letters; spelling habits apart): 173
 - places that differ in spelling habit only (not listed): 97
