@@ -8,3 +8,8 @@ vol*/scans/*
 !vol*/scans/README.md
 !vol*/scans/.gitkeep
 *.DS_Store
+
+# built Word and HTML files are not kept (user decision, Nov 13 2026); PDFs of releases live in publish/out
+*.docx
+publish/out/*.html
+vol*/review/**/*.html

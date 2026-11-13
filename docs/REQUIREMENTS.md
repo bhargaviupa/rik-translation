@@ -190,7 +190,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 - Work is committed and pushed; no force-push; `main` only when the user asks.
 - API money is spent only after the user has seen the estimate.
 - Rights, ISBN and publisher live only in `publish/release.json`.
-- Built PDFs and their HTML are kept in the repository and every rebuild is committed; page scans are not (user decision, Nov 12 2026).
+- Built PDFs are kept in the repository (`publish/out/` for final copies) and every rebuild is committed; page scans are not (user decision, Nov 12 2026). **Word files and built HTML are not kept; a volume folder holds its `.md` files and what they are made from, not built copies** (user decision, Nov 13 2026).
 - The reference texts are for private study; the repository stays private.
 - Reports say what was verified and how.
 
