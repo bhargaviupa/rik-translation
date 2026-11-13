@@ -7,14 +7,14 @@
 | Reader | Known errors found | Pages with nothing reported | Findings in all |
 |---|---|---|---|
 | Sonnet | **10 of 18** | 37 of 72 | 12 graded ERROR, 37 graded MINOR |
-| Haiku | **6 of 17** (p. 708 not finished when scored) | — | — |
+| Haiku | **7 of 18** | — | — |
 
 | No. | Page | Known error | Sonnet | Haiku |
 |---|---|---|---|---|
 | 1 | 371 | quotation cut short | found | found |
 | 2 | 415 | adjunct given to the Lord instead of the individual self | missed | missed |
 | 3 | 652 | English translation of a quotation added | found | found |
-| 4 | 708 | who helped whom reversed | found | not finished |
+| 4 | 708 | who helped whom reversed | found | found |
 | 5 | 653 | "iti ca brāhmaṇaṃ" cut from the quotation | missed | missed |
 | 6 | 653 | three added translations | found | found |
 | 7 | 663 | "both worlds life-giving to each other" | found | missed |
@@ -30,11 +30,13 @@
 | 17 | 400 | added translation before the Kannada's own gloss | found | missed |
 | 18 | 414 | headword omitted | found | found |
 
+**Cost of the run:** 1,942,024 agent tokens for the twelve readers together (72 pages read twice, once by each model): about 13,500 tokens for one reading of one page, the reader's instruction and tool use included. No API money.
+
 ## What it shows
 - **By kind (Sonnet):** additions 5 of 6 found; omissions 2 of 4; meaning and term 3 of 8. The reader is good at what can be seen by setting the two texts side by side (something added, something cut, roles plainly reversed) and weak at errors that need the Sanskrit or the grammar to be understood (nos. 2, 8, 11, 12, 14).
 - **What it reports is mostly right.** Of Sonnet's 12 findings graded ERROR, 8 are known errors, 3 are faults the QA had also listed (as minor: pp. 31, 170, 285), and 1 is a false alarm caused by reading one page alone (p. 442, a sentence that runs on to the next page).
 - **Grading is unreliable.** Four of the ten known errors that Sonnet found it graded MINOR. The reader's own ERROR/MINOR label cannot decide what is repaired.
-- **Haiku is not good enough** as the reader: a third of the known errors, and it missed every meaning error but one.
+- **Haiku is not good enough** as the reader: 7 of the 18 known errors, and of the eight meaning and term errors it found two.
 - **The limit of this test:** the 18 known errors are the ones an Opus reader found. How many errors Opus itself misses is not known, so 10 of 18 is Sonnet's score against Opus, not against the truth.
 
 ## Consequences for the design (DESIGN §5.4, §8.2)
