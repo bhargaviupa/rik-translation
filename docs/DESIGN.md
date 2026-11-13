@@ -1,6 +1,6 @@
 # Design — how every volume is made, corrected, checked and published
 
-**Draft 1, Nov 12 2026, for the user's approval. Nothing has been built or changed.**
+**Approved by the user on Nov 13 2026 ("design.md looks fine to me"). Nothing has been built yet.** The assumed answers of §13 are still assumptions until the user answers each question.
 It answers `docs/REQUIREMENTS.md` (what a volume must be), `docs/ERROR_KINDS.md` (what has gone wrong), `docs/TOOLKIT_PROPOSAL.md` (too many tools and records), `docs/LEGACY_VOLUMES_PLAN.md` (the old volumes) and the user's conditions of Nov 12: published PDFs carry nothing of ours; cost must come down; **any task can be run by agents instead of the API**.
 
 | Section | Content |

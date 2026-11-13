@@ -10,7 +10,7 @@ You continue the redesign of how the Ṛgveda volumes of this repository (`bharg
 5. `docs/TOOLKIT_PROPOSAL.md` (which documents, tools and records to keep) and `docs/LEGACY_VOLUMES_PLAN.md` (Vols 1–10 and 13 at low cost).
 6. `CLAUDE.md` for the standing rules (git, honesty, no force-push, spending). `docs/HANDBOOK.md` and `tools/rv/BRIEF.md` describe the present method, which the design replaces; `docs/AUDIT_2026-11-11.md` is a snapshot of all volumes from Nov 11.
 
-All of these are drafts awaiting the user's approval. Do not treat an assumed answer in DESIGN §13 as decided.
+**The design (`docs/DESIGN.md`) was approved by the user on Nov 13 2026.** The other documents are still drafts. Do not treat an assumed answer in DESIGN §13 as decided.
 
 ## Where things stand (Nov 12 2026)
 - **Translated from the supplied text and on `main`:** Vols 11 (new), 12, 14, 15, 16, 17, 18. None meets the requirements yet; all PDFs in `publish/out/` are review copies.
@@ -23,7 +23,7 @@ All of these are drafts awaiting the user's approval. Do not treat an assumed an
 
 ## How to proceed
 1. **Go through REQUIREMENTS Part F with the user** (16 questions). Most are print settings and can wait; F1 (deviations), F6 (grammar), F7 (older volumes), F12 (length) and F13 (release standard) shape the build. Update the drafts with each answer.
-2. **Get the user's approval of the design**, or change it. Challenge it where you see a weakness; say so plainly.
+2. **The design is approved** (Nov 13 2026). Still challenge it where you see a weakness while building; say so plainly and get the user's agreement before departing from it.
 3. **Build Phase A only** (DESIGN §12): cut Vol 17 into units from its supplied text and the reference, lay its present English into them, print it in the final format. It costs nothing. Proof to show the user: every English paragraph of today's file placed once; every Sanskrit block equal to the source; verse count equal to the reference; a review PDF. If Vol 17 cannot be cut cleanly, the design is wrong: stop and say so.
 4. Then Phases B–G in order, each ending in the test named there. Do not start or change any volume by the present method meanwhile.
 
