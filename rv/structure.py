@@ -8,6 +8,8 @@ from .common import *
 
 LABELS = {'ಸಂಹಿತಾಪಾಠಃ': 'samhita', 'ಪದಪಾಠಃ': 'pada', 'ಸಾಯಣಭಾಷ್ಯಂ': 'bhashya', 'ಸಾಯಣಭಾಷ್ಯಮ್': 'bhashya', 'ಪ್ರತಿಪದಾರ್ಥ': 'pratipada', 'ಭಾವಾರ್ಥ': 'bhavartha',
           'English Translation': 'english', 'ವಿಶೇಷವಿಷಯಗಳು': 'vishesha', 'ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ': 'grammar'}
+STRAY = re.compile(r'[-–—_.:;,|\s0-9೦-೯]*[0-9೦-೯_][-–—_.:;,|\s0-9೦-೯]*')      # a loose figure or an ornament line: no letter in it
+STRAY_LATIN = re.compile(r'[A-Za-z0-9\-]{1,8}')                                  # a short Latin scrap in Kannada text (page signature misread)
 ORDER = ['intro', 'samhita', 'pada', 'bhashya', 'summary', 'pratipada', 'bhavartha', 'english', 'vishesha', 'grammar']
 TITLE = re.compile(r'\s*\S+(\s+\S+)?\s+ಸೂಕ್ತವು\s*[.।]?\s*')            # the sūkta's title line: an ordinal and 'sūktavu', nothing else
 
@@ -62,6 +64,8 @@ def parse_kn(vol):
             if u['kn'] and u['kn'][-1][0] == 'block': u['kn'][-1][1].append(l[2:].rstrip())
             else: u['kn'].append(['block', [l[2:].rstrip()]]); st['Sanskrit blocks'] += 1
         elif t.startswith('[figure'): u['kn'].append(['figure', t]); st['figures'] += 1
+        elif STRAY.fullmatch(t) or (u['kind'] != 'english' and STRAY_LATIN.fullmatch(t)):
+            u['kn'].append(['stray', t]); st['stray lines set aside (listed in source_faults.tsv)'] += 1
         else: u['kn'].append(['text', l.rstrip()])
     for u in units:
         while u['kn'] and u['kn'][-1][0] == 'break': u['kn'].pop()
@@ -124,6 +128,9 @@ def build(vol, mandalas):
     with open(os.path.join(P['review'], 'source_faults.tsv'), 'w', encoding='utf8') as f:
         f.write('maṇḍala.sūkta.ṛk\tkind\treference\tKannada edition (supplied text)\tnote\tdecision\n')
         for key, kind, a, b, n in rows: f.write(f'{key[0]}.{key[1]}.{key[2]}\t{kind}\t{a}\t{b}\t{n}\t\n')
+        for u in units:
+            for it in u['kn']:
+                if it[0] == 'stray': f.write(f"{u.get('m') or ''}.{u.get('s') or ''}.{u.get('rk') or ''}\tstray line, not printed\t\t{it[1]}\tin {u['kind']}\t\n")
     kinds = collections.Counter(u['kind'] for u in units)
     rep = [f'# Vol {vol}: structure report (rv structure)', '', f'Units: {len(units)} (' + ', '.join(f'{k} {v}' for k, v in sorted(kinds.items())) + ')', '',
            '## Read from the Kannada file'] + [f'- {k}: {v}' for k, v in sorted(st.items())] + ['',

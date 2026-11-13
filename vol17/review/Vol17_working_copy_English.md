@@ -2786,7 +2786,7 @@ O Indra, this Soma juice, fully pressed by the pressing-stones, attractive and d
 
 ##### English translation
 
-May this desirable and gratifying Soma expressed by the stones, be, Indra, for you : ascend the verdant chariot, and with your tawny (steeds) come to us. :0:
+May this desirable and gratifying Soma expressed by the stones, be, Indra, for you : ascend the verdant chariot, and with your tawny (steeds) come to us.
 
 #### Ṛk 2
 
@@ -23555,7 +23555,7 @@ O powerful Agni, may the sacrifice now being performed be possessed of cows, of 
 
 ##### English translation
 
-May the sacrifice, Agni, be productive of cows, of sheep, of horses, and celebrated, by your worshipper, aided by the priests,be ever uninterrupted; may it, mighty Agni, be productive of food and progeny, long continued, affluent, wide based, and held in full assembly. _______: 0 : _______
+May the sacrifice, Agni, be productive of cows, of sheep, of horses, and celebrated, by your worshipper, aided by the priests,be ever uninterrupted; may it, mighty Agni, be productive of food and progeny, long continued, affluent, wide based, and held in full assembly.
 
 #### Ṛk 6
 
@@ -34429,7 +34429,7 @@ O Indra, desiring to protect Kutsa, you, the tormentor of enemies and lord of ho
 
 ##### English translation
 
-You went with Kutsa, in the same chariot, determined to defend him ; (you who are) the tormentor (of foes), the lord of horses (of the speed) of the wind : on the same day wherein, yoking (to the car) the straight- going steeds, as if to receive food, the sage (Kutsa) has been enabled to cross over (the sea) of calamity. -04357-
+You went with Kutsa, in the same chariot, determined to defend him ; (you who are) the tormentor (of foes), the lord of horses (of the speed) of the wind : on the same day wherein, yoking (to the car) the straight- going steeds, as if to receive food, the sage (Kutsa) has been enabled to cross over (the sea) of calamity.
 
 #### Ṛk 12
 

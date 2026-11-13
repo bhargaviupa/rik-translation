@@ -2,7 +2,8 @@
 
   structure VOL --mandalas 3,4    cut the volume into units from its Kannada text and the reference verses; structure report
   import VOL                      lay the volume's existing English into the units; alignment report
-  print VOL [--pdf]               working copy (.md) and review copy printed from the units, in the final format
+  refs VOL                        abbreviations of the volume against the one list (rv/references.tsv); prints docs/REFERENCES.md
+  print VOL [--pdf] [--kannada]   working copy (.md) and review copy printed from the units, in the final format; --kannada: the Kannada book
 Built so far: Phase A of DESIGN §12 (these three verbs).  Nothing here changes a volume's existing files."""
 import sys
 def main():
@@ -13,7 +14,9 @@ def main():
         from . import structure; structure.build(vol, [int(x) for x in opt('--mandalas').split(',')])
     elif verb == 'import':
         from . import importer; importer.run(vol)
+    elif verb == 'refs':
+        from . import refs; refs.run(vol)
     elif verb == 'print':
-        from . import printer; printer.run(vol, pdf='--pdf' in a)
+        from . import printer; printer.run(vol, pdf='--pdf' in a, kan='--kannada' in a)
     else: sys.exit(__doc__)
 main()

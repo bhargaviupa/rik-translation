@@ -44,7 +44,7 @@ def render(vol, units, review=True, for_html=False):
         if review: return NOTE_RX.sub(lambda mm: f'<sup class="q">?{mm.group(1)}</sup>', t)
         return NOTE_RX.sub('', t)
     def anchors(u):                                                           # the original's pages that begin in this unit: carried by the unit's heading (footer)
-        return ''.join(f'<span class="kp" data-p="{it[1]}"></span>' for it in u.get('kn', []) if it[0] == 'page') if for_html else ''
+        return ''.join(f'<span class="kp" id="kp{it[1]}" data-p="{it[1]}"></span>' for it in u.get('kn', []) if it[0] == 'page') if for_html else ''
     for u in units:
         kind = u['kind']
         if kind == 'preface':
@@ -53,7 +53,8 @@ def render(vol, units, review=True, for_html=False):
         if u['m'] != cur_m and u['s'] is not None:
             cur_m = u['m']; out += [f'# Maṇḍala {cur_m}', '']
         if kind == 'intro':
-            cur_s = u['s']; cur_rk = None; out += [f'## Sūkta {cur_s} (Maṇḍala {cur_m})' + anchors(u), '']; st['sūktas'] += 1
+            cur_s = u['s']; cur_rk = None; om = '<div class="om">ॐ</div>\n\n' if for_html and not st['sūktas'] else ''
+            out += [om + f'## Sūkta {cur_s} (Maṇḍala {cur_m})' + (f'<span class="ks" data-s="{particulars(u)}"></span>' if for_html else '') + anchors(u), '']; st['sūktas'] += 1
             out += body_items(u, units, notes, st); continue
         if u['rk'] != cur_rk or u['s'] != cur_s:
             cur_s, cur_rk = u['s'], u['rk']; out += [f'#### Ṛk {cur_rk}', '']; st['Ṛks'] += 1
@@ -79,6 +80,41 @@ def render(vol, units, review=True, for_html=False):
                 elif it[0] == 'break' and para: out += [' '.join(para), '']; para = []
         else: out += body_items(u, units, notes, st)
     return '\n'.join(out), st
+
+def particulars(u):
+    """Maṇḍala–Anuvāka–Sūkta and Aṣṭaka–Adhyāya–Varga of a sūkta, read from the particulars the edition prints at its head (for the footer)"""
+    t = ' '.join(it[1] for it in u.get('kn', []) if it[0] == 'text'); g = {}
+    for key, kn in (('Anu.', 'ಅನುವಾಕ'), ('Aṣṭ.', 'ಅಷ್ಟಕ'), ('Adhy.', 'ಅಧ್ಯಾಯ'), ('Va.', 'ವರ್ಗ')):
+        mm = re.search(kn + r'\s*[—–-]\s*([೦-೯0-9]+(?:\s*,\s*[೦-೯0-9]+)*)', t)
+        if mm: g[key] = re.sub(r'\s*,\s*', '–', mm.group(1).translate(KD))
+    return ' · '.join([f"Maṃ. {u['m']}"] + ([f"Anu. {g['Anu.']}"] if 'Anu.' in g else []) + [f"Sū. {u['s']}"] + [f'{k} {g[k]}' for k in ('Aṣṭ.', 'Adhy.', 'Va.') if k in g])
+
+def render_kn(vol, units):
+    """the Kannada book: the text of the supplied file as the units hold it, with page anchors and sūkta and Ṛk headings; stray lines are not printed"""
+    KL = {'samhita': 'ಸಂಹಿತಾಪಾಠಃ', 'pada': 'ಪದಪಾಠಃ', 'bhashya': 'ಸಾಯಣಭಾಷ್ಯಂ', 'pratipada': 'ಪ್ರತಿಪದಾರ್ಥ', 'bhavartha': 'ಭಾವಾರ್ಥ', 'english': 'English Translation.', 'vishesha': 'ವಿಶೇಷವಿಷಯಗಳು', 'grammar': 'ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ'}
+    KD2 = str.maketrans('0123456789', '೦೧೨೩೪೫೬೭೮೯'); out = []; cur_s = cur_rk = cur_m = None; n = collections.Counter()
+    def items(u):
+        para = []
+        def flush():
+            if para: out.extend([' '.join(para), '']); para.clear()
+        for it in u.get('kn', []):
+            if it[0] == 'text': para.append(it[1].strip())
+            elif it[0] == 'break': flush()
+            elif it[0] == 'block': flush(); out.extend(quote(it[1]) + ['']); n['blocks'] += 1
+            elif it[0] == 'label': flush(); out.extend(['##### ' + KL.get(it[1], it[1]), ''])
+            elif it[0] == 'page': flush(); out.extend([f'<span class="kp" id="kp{it[1]}" data-p="{it[1]}"></span>', '']); n['pages'] += 1
+            elif it[0] == 'stray': n['stray lines not printed'] += 1
+        flush()
+    for u in units:
+        if not u.get('kn'): continue
+        if u['kind'] == 'preface': out += ['## ಪೀಠಿಕೆ', '']; items(u); continue
+        if u['s'] is not None and u['m'] != cur_m: cur_m = u['m']; out += [f"# ಮಂಡಲ {str(cur_m).translate(KD2)}", '']
+        if u['kind'] == 'intro':
+            cur_s, cur_rk = u['s'], None; out += [f"## ಸೂಕ್ತ {str(cur_s).translate(KD2)} (ಮಂಡಲ {str(cur_m).translate(KD2)})" + f'<span class="ks" data-s="{particulars(u)}"></span>', '']; items(u); continue
+        if u['rk'] != cur_rk or u['s'] != cur_s: cur_s, cur_rk = u['s'], u['rk']; out += [f"#### ಋಕ್ {str(cur_rk).translate(KD2)}", '']
+        if KL.get(u['kind']): out += ['##### ' + KL[u['kind']], '']
+        items(u)
+    return '\n'.join(out), n
 
 def body_items(u, units, notes, st):
     """the English of a prose unit, in its order; a Sanskrit block inside it is printed from the source when the unit has as many blocks there"""
@@ -113,28 +149,91 @@ sup.q, span.q { color: #a00; font-size: 7.5pt; }
 section.placeholder-page { page-break-before: always; page-break-after: always; }
 section.title { text-align: center; padding-top: 2in; page-break-after: always; }
 section.fm { page-break-after: always; } section.fm li { margin: .25em 0; }
-@page { @bottom-center { content: "Kannada edition p. " string(kp, first) "  ·  REVIEW COPY"; font: 8pt "Noto Serif"; color: #555; } }
+span.ks { string-set: ks attr(data-s); }
+@page { @bottom-center { content: "Kannada edition p. " string(kp, first) "  ·  " string(ks, first) "  ·  REVIEW COPY"; font: 7.5pt "Noto Serif"; color: #555; } }
+@page front { @bottom-center { content: none; } }
+section.fm, section.title, section.cover, section.pic, section.placeholder-page { page: front; }
+section.cover { page-break-after: always; text-align: center; } section.cover img { max-width: 100%; max-height: 7.2in; } section.cover p { font-size: 9.5pt; margin-top: .25in; }
+section.pic { page-break-after: always; text-align: center; padding-top: .3in; } section.pic img { max-height: 5.2in; max-width: 80%; } section.pic h2 { margin-top: 0; } section.pic p { font-size: 9.5pt; }
+section.cred .half { height: 3.4in; } section.cred .box { border: 0.5pt solid #999; height: 3.2in; display: flex; align-items: center; justify-content: center; color: #777; font-size: 9pt; }
+.toc ul { list-style: none; padding: 0; } .toc li.sk { margin-top: .7em; font-weight: bold; } .toc li.ch { margin-top: 1em; text-align: center; font-style: italic; }
+.toc a { color: inherit; text-decoration: none; } .toc a::after { content: leader(". ") target-counter(attr(href url), page); }
+table.abbr { border-collapse: collapse; font-size: 9.5pt; width: 100%; } table.abbr td { padding: 2pt 6pt; vertical-align: top; border-bottom: 0.3pt solid #ccc; }
+.om { text-align: center; font-size: 34pt; margin: .2in 0 .1in; }
+body.kan p, body.kan blockquote, body.kan h1, body.kan h2, body.kan h4, body.kan h5 { font-family: "Noto Serif Kannada", "Lohit Kannada", "Noto Sans Kannada", serif; }
 """
 
-def run(vol, pdf=False):
+def kn_inline(t): return re.sub(r'⟦([^⟧]*)⟧', lambda m: '<i>' + html.escape(deva_to_iast(kn2deva(m.group(1))).strip()) + '</i>', html.escape(t))
+
+def front_matter(vol, units, have_pages):
+    """the front matter in the order of requirement A2; what does not exist yet is a placeholder page that says so"""
+    import json, csv
+    P = vol_paths(vol); sk = [(u['m'], u['s']) for u in units if u['kind'] == 'intro']; ms = sorted({m for m, _ in sk})
+    rng = ' and '.join(f"Maṇḍala {m} · Sūktas {min(s for mm, s in sk if mm == m)}–{max(s for mm, s in sk if mm == m)}" for m in ms)
+    first = next(u for u in units if u['kind'] == 'intro'); pt = particulars(first); asht = re.search(r'Aṣṭ\. (\S+)', pt)
+    rel = json.load(open(os.path.join(ROOT, 'publish', 'release.json'), encoding='utf8')); val = lambda k, d: rel.get(k) or d
+    out = []
+    cover = os.path.join(P['dir'], 'html', 'figures', 'fig1_line00004.jpg')
+    out.append('<section class="cover">' + (f'<img src="../html/figures/fig1_line00004.jpg" alt="Cover">' if os.path.exists(cover) else '<div class="box">[Cover of this volume — to be supplied]</div>') +
+               f'<p>Ṛgveda-saṃhitā · Volume {vol} · {rng}' + (f' · Aṣṭaka {asht.group(1)}' if asht else '') + '</p></section>')
+    out.append('<section class="pic"><h2 style="page-break-before:auto;string-set:none">Patron of the First Edition</h2><img src="../../publish/assets/maharaja.jpg" alt="Maharaja of Mysore"><p>His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore</p></section>')
+    out.append('<section class="pic"><h2 style="page-break-before:auto;string-set:none">Guru and President of the Board of Scholars</h2><img src="../../publish/assets/guruji.jpg" alt="Guruji"><p>Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa<br>Śilpasiddhānti Śivayogi Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali</p></section>')
+    bp = os.path.join(P['data'], 'board_en.json')
+    if os.path.exists(bp):
+        b = json.load(open(bp, encoding='utf8')); e = html.escape
+        out.append('<section class="fm"><h2 style="page-break-before:auto;string-set:none">' + '<br>'.join(e(x) for x in b.get('title_lines', [])) + '</h2>' +
+                   f"<p><b>{e(b.get('editor_label', ''))}</b> {e(b.get('editor', ''))}</p>" + (f"<p><b>{e(b.get('associate_label', ''))}</b> {e(b.get('associate', ''))}</p>" if b.get('associate') else '') +
+                   f"<h5>{e(b.get('list_title', ''))}</h5><ol>" + ''.join(f'<li>{e(x)}</li>' for x in b.get('members', [])) + '</ol></section>')
+    else: out.append('<section class="fm"><h2 style="page-break-before:auto;string-set:none">Board of Scholars</h2><p><i>[To be supplied.]</i></p></section>')
+    out.append('<section class="fm"><h2 style="page-break-before:auto;string-set:none">The Present Day</h2><div class="cred"><div class="half"><div class="box">[Portrait of the present Maharaja — to be supplied, with name and title]</div></div><div class="half"><div class="box">[Portrait of the present Guru — to be supplied, with name and title]</div></div></div></section>')
+    out.append(f'<section class="fm cred"><div class="half"><div class="box">[Picture for the translation credentials — to be supplied]</div></div><div class="half" style="text-align:center"><h2 style="page-break-before:auto;string-set:none">Ṛgveda-saṃhitā</h2><p><i>with the Bhāṣya of Sāyaṇācārya and the Kannada Commentary of H. P. Venkata Rao</i></p><p>Volume {vol} · {rng}</p><p>English Translation by<br><span style="font-size:13pt;letter-spacing:.05em">Bhargavi Upadhya</span></p><p style="font-size:8.5pt">Based on the Kannada edition of Asthāna Mahāvidvān H. P. Venkata Rao, Mysore, 1952</p></div></section>')
+    out.append('<section class="fm"><h2 style="page-break-before:auto;string-set:none">Copyright</h2><p>© 2026 Bhargavi Upadhya. ' + html.escape(val('rights_statement', 'All rights reserved.')) + '</p>' +
+               f"<p>Publisher: {html.escape(val('publisher', '[to be supplied]'))}<br>ISBN: {html.escape(val('isbn', '[to be supplied]'))}<br>Edition: {html.escape(val('edition_and_printing', '[to be supplied]'))}</p>" +
+               f"<p>The Kannada edition on which this translation is based: {html.escape(val('permissions_status_original', '[statement of rights — to be supplied]'))}<br>Portraits: {html.escape(val('permissions_status_portraits', '[statement of rights — to be supplied]'))}</p>" +
+               '<h2 style="page-break-before:auto;string-set:none;margin-top:.5in">Thanks</h2><p><i>[To be written by the translator-editor.]</i></p></section>')
+    cp = os.path.join(P['data'], 'contents_en.tsv')
+    if os.path.exists(cp):
+        items = []
+        for r in csv.reader(open(cp, encoding='utf8'), delimiter='\t'):
+            if len(r) < 3: continue
+            kind, page, text = r[0].strip(), r[1].strip(), kn_inline(r[2].strip())
+            if kind in ('chapter', 'range'): items.append(f'<li class="ch">{text}</li>')
+            elif kind == 'sukta': items.append(f'<li class="sk">{text}</li>')
+            elif page.isdigit() and int(page) in have_pages: items.append(f'<li><a href="#kp{page}">{text}</a></li>')
+            else: items.append(f'<li>{text}' + (f' <span style="color:#777">(Kannada edition p. {page})</span>' if page else '') + '</li>')
+        out.append('<section class="fm toc"><h2 style="page-break-before:auto;string-set:none">Contents</h2><p style="font-size:8.5pt"><i>Page numbers are the pages of this book.</i></p><ul>' + '\n'.join(items) + '</ul></section>')
+    else:
+        out.append('<section class="fm toc"><h2 style="page-break-before:auto;string-set:none">Contents</h2><p><i>[The printed contents of the volume, in English — being prepared.]</i></p><ul>' + ''.join(f'<li>Maṇḍala {m} · Sūkta {s_}</li>' for m, s_ in sk) + '</ul></section>')
+    return '\n'.join(out)
+
+def abbreviations_html():
+    import csv
+    rows = [r for r in csv.DictReader(open(os.path.join(ROOT, 'rv', 'references.tsv'), encoding='utf8'), delimiter='\t') if r['status'] == 'legend']
+    return ('<section class="fm"><h2 style="string-set:none">Explanation of the Abbreviations</h2><table class="abbr">' +
+            ''.join(f"<tr><td>{html.escape(kn2deva(r['kannada']))}</td><td>{html.escape(r['english'])}</td><td>{html.escape(r['work'])}</td></tr>" for r in rows) + '</table></section>')
+
+def to_pdf(doc, path, base):
+    from weasyprint import HTML
+    HTML(string=doc, base_url=base + '/').write_pdf(path)
+
+def run(vol, pdf=False, kan=False):
     P = vol_paths(vol); units = load_units(vol); os.makedirs(P['review'], exist_ok=True)
+    pandoc = lambda t: subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'], input=t, capture_output=True, text=True, check=True).stdout
+    head = lambda title, extra='': ('<!doctype html><html><head><meta charset="utf-8"><title>%s</title><link rel="stylesheet" href="../../publish/style.css"><link rel="stylesheet" href="../../publish/style_vol1.css">'
+                                    '<link rel="stylesheet" href="../../publish/style_volbook.css">%s<style>%s</style></head>') % (title, extra, CSS)
+    if kan:
+        mdk, n = render_kn(vol, units); print('Kannada book:', dict(n))
+        doc = head(f'Ṛgveda-saṃhitā, Volume {vol} (Kannada text, review copy)', '<link rel="stylesheet" href="../../publish/style_volbook_kan.css">') + '<body class="kan">\n' + \
+              f'<section class="title"><h1 style="string-set:none;page-break-before:auto">ಋಗ್ವೇದಸಂಹಿತಾ</h1><p>ಭಾಗ {vol}</p><p style="margin-top:1in;color:#a00">REVIEW COPY — Kannada text printed from the units</p></section>\n' + pandoc(mdk) + '\n</body></html>'
+        pp = os.path.join(P['review'], f'Vol{vol}_review_copy_Kannada.pdf'); to_pdf(doc, pp, P['review']); print(f'review copy: {os.path.relpath(pp, ROOT)}'); return
     md, st = render(vol, units, review=True, for_html=False)
     wp = os.path.join(P['review'], f'Vol{vol}_working_copy_English.md')
     open(wp, 'w', encoding='utf8').write(f'# Ṛgveda-saṃhitā, Volume {vol} — working copy printed from the units (rv print)\n\n*Not edited by hand: change the units and print again. `?N` marks question N for the editor.*\n\n' + md + '\n')
     print(f'working copy: {os.path.relpath(wp, ROOT)}  ({len(md.splitlines())} lines)'); print(' ', dict(st))
     if not pdf: return
     mdh, _ = render(vol, units, review=True, for_html=True)
-    body = subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'], input=mdh, capture_output=True, text=True, check=True).stdout
-    body = mark_samhita(body)
-    sk = [(u['m'], u['s']) for u in units if u['kind'] == 'intro']
-    front = f'''<section class="title"><div class="dev">॥ श्री महागणाधिपतये नमः ॥</div><h1 style="string-set:none;page-break-before:auto">Ṛgveda-saṃhitā</h1>
-<p><i>with the Bhāṣya of Sāyaṇācārya and the Kannada Commentary of H. P. Venkata Rao</i></p><p style="letter-spacing:.1em;margin-top:.6in">VOLUME {vol}</p>
-<p>Maṇḍala {sk[0][0]} · Sūkta {sk[0][1]} to Maṇḍala {sk[-1][0]} · Sūkta {sk[-1][1]}</p><p style="margin-top:1in;color:#a00">REVIEW COPY — printed from the units, Phase A</p></section>
-<section class="fm"><h2 style="page-break-before:auto">Front matter (requirement A2) — to be supplied</h2><ol><li>Cover with this volume's number in Kannada</li><li>Portrait of the king (Vol 1)</li><li>Portrait of the guru, with the English of its text (Vol 1)</li><li>List of scholars</li><li>Present king and present guru</li><li>Translation credentials</li><li>Copyright; thanks</li><li>Contents</li></ol></section>
-<section class="fm"><h2>Sūktas in this volume</h2><ul>''' + ''.join(f'<li>Maṇḍala {m} · Sūkta {s}</li>' for m, s in sk) + '</ul></section>'
-    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Ṛgveda-saṃhitā, Volume %d (review copy)</title><link rel="stylesheet" href="../../publish/style.css">'
-           '<link rel="stylesheet" href="../../publish/style_vol1.css"><link rel="stylesheet" href="../../publish/style_volbook.css"><style>%s</style></head><body>\n%s\n%s\n</body></html>') % (vol, CSS, front, body)
-    hp = os.path.join(P['review'], f'Vol{vol}_review_copy_English.html'); open(hp, 'w', encoding='utf8').write(doc)
-    from weasyprint import HTML
-    pp = hp[:-5] + '.pdf'; HTML(string=doc, base_url=P['review'] + '/').write_pdf(pp); os.remove(hp)
-    print(f'review copy: {os.path.relpath(pp, ROOT)}')
+    # the user's preface and the original preface come first in the body; the abbreviations stand between the prefaces and the first sūkta
+    body = mark_samhita(pandoc(mdh)); have = {it[1] for u in units for it in u.get('kn', []) if it[0] == 'page'}
+    body = re.sub(r'(<div class="om">)', abbreviations_html() + r'\n\1', body, count=1)
+    doc = head(f'Ṛgveda-saṃhitā, Volume {vol} (review copy)') + '<body>\n' + front_matter(vol, units, have) + '\n' + body + '\n</body></html>'
+    pp = os.path.join(P['review'], f'Vol{vol}_review_copy_English.pdf'); to_pdf(doc, pp, P['review']); print(f'review copy: {os.path.relpath(pp, ROOT)}')
