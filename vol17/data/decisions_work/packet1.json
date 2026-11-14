@@ -1,0 +1,1199 @@
+[
+ {
+  "unit": "17.front.preface",
+  "para": 5,
+  "text": "(Tai. U. 4-15) ⟨NOTE:1⟩",
+  "notes": [
+   {
+    "no": 1,
+    "question": "ತ್ರೈ. ಉ. printed (Trai. U.); read here as Tai. U.",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ತ್ರೈ",
+      "devanagari": "त्रै",
+      "iast": "trai"
+     },
+     {
+      "kannada": "ಉ",
+      "devanagari": "उ",
+      "iast": "u"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.front.preface",
+  "para": 8,
+  "text": "(Kṛ. U. 4-14) ⟨NOTE:2⟩",
+  "notes": [
+   {
+    "no": 2,
+    "question": "reference printed ಕೃ. ಉ. (Kṛ. U.), not in the abbreviation list; perhaps Tai. U.?",
+    "decision": "Yes tai.u",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಕೃ",
+      "devanagari": "कृ",
+      "iast": "kṛ"
+     },
+     {
+      "kannada": "ಉ",
+      "devanagari": "उ",
+      "iast": "u"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.front.preface",
+  "para": 12,
+  "text": "(Tai. Ā. 2.2) ⟨NOTE:3⟩",
+  "notes": [
+   {
+    "no": 3,
+    "question": "ತ್ರೈ. ಆ. printed (Trai. Ā.); read here as Tai. Ā.",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ತ್ರೈ",
+      "devanagari": "त्रै",
+      "iast": "trai"
+     },
+     {
+      "kannada": "ಆ",
+      "devanagari": "आ",
+      "iast": "ā"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.front.preface",
+  "para": 18,
+  "text": "कलात्स्रवंति भूतानि कालाद्वृद्धिं प्रयांति च । काले चास्तं नियच्छंति कालो मूर्तिरमूर्तिमान् ॥ (*kalātsravaṃti bhūtāni kālādvṛddhiṃ prayāṃti ca | kāle cāstaṃ niyacchaṃti kālo mūrtiramūrtimān ‖*) ⟨NOTE:4⟩",
+  "notes": [
+   {
+    "no": 4,
+    "question": "ಕಲಾತ್ಸ್ರವಂತಿ printed; ಕಾಲಾತ್ಸ್ರವಂತಿ intended?",
+    "decision": "ಕಲಾತ್ಸ್ರವಂತಿ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಕಲಾತ್ಸ್ರವಂತಿ",
+      "devanagari": "कलात्स्रवंति",
+      "iast": "kalātsravaṃti"
+     },
+     {
+      "kannada": "ಕಲಾತ್ಸ್ರವಂತಿ",
+      "devanagari": "कलात्स्रवंति",
+      "iast": "kalātsravaṃti"
+     },
+     {
+      "kannada": "ಕಾಲಾತ್ಸ್ರವಂತಿ",
+      "devanagari": "कालात्स्रवंति",
+      "iast": "kālātsravaṃti"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.front.preface",
+  "para": 22,
+  "text": "(Śve. U. 1-2) ⟨NOTE:5⟩",
+  "notes": [
+   {
+    "no": 5,
+    "question": "ಶ್ವೇ. ಉ. printed (Śve. U.), not in abbreviation list",
+    "decision": "Shvetashvatara upanishad",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಶ್ವೇ",
+      "devanagari": "श्वे",
+      "iast": "śve"
+     },
+     {
+      "kannada": "ಉ",
+      "devanagari": "उ",
+      "iast": "u"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.00.intro",
+  "para": 3,
+  "text": "The second sūkta, beginning इंद्र त्वा (*iṃdra tvā*), nine Ṛks, is Vaiśvāmitra (seer Viśvāmitra), its metre Gāyatrī, its deity Indra. The Anukramaṇī agrees: इंद्र त्वा गायत्रं हीति (*iṃdra tvā gāyatraṃ hīti*). In the Agniṣṭoma, at the morning pressing, the Brāhmaṇācchaṃsin recites this sūkta as his śastra. The sūtra says: इंद्र त्वा वृषभमुद्देवभीति तिस्रः (*iṃdra tvā vṛṣabhamuddevabhīti tisraḥ*) (Ā. Sū. 5-10). The first Ṛk is the prasthita-yājyā of the Brāhmaṇācchaṃsin at the morning pressing; the sūtra says: इंद्र त्वा वृषभं मरुतो यस्य (*iṃdra tvā vṛṣabhaṃ maruto yasya*) (Ā. Sū. 5-5).⟨NOTE:6⟩",
+  "notes": [
+   {
+    "no": 6,
+    "question": "ಉದ್ದೇವಭೀತಿ printed in the Sanskrit sūtra, ಉದ್ದೇದಭೀತಿ in the Kannada Anuvāda; reading unsettled",
+    "decision": "Udgedhabheethi",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಉದ್ದೇವಭೀತಿ",
+      "devanagari": "उद्देवभीति",
+      "iast": "uddevabhīti"
+     },
+     {
+      "kannada": "ಉದ್ದೇದಭೀತಿ",
+      "devanagari": "उद्देदभीति",
+      "iast": "uddedabhīti"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.01.vishesha",
+  "para": 10,
+  "text": "(8) इांइंधी दीप्ताविति धातुः । भूतानि प्राणिदेहानिंदे जीवचैतन्यरूपेणांतःप्रविश्य दीपयतीतींद्रः ॥ (*iāṃiṃdhī dīptāviti dhātuḥ | bhūtāni prāṇidehāniṃde jīvacaitanyarūpeṇāṃtaḥpraviśya dīpayatītīṃdraḥ ‖*)⟨NOTE:7⟩ The root indh means to shine, to illumine. Entering the bodies of living beings in the form of the life-force, and shining while impelling them to do their respective acts; therefore the name Indra.",
+  "notes": [
+   {
+    "no": 7,
+    "question": "ಇಾಂಇಂಧೀ printed; garbled, read as the root ಇಂಧೀ",
+    "decision": "ಇಾಂಇಂಧೀ is correct. It is the last letter/alphabet  of cha-varga",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಇಾಂಇಂಧೀ",
+      "devanagari": "इांइंधी",
+      "iast": "iāṃiṃdhī"
+     },
+     {
+      "kannada": "ಇಾಂಇಂಧೀ",
+      "devanagari": "इांइंधी",
+      "iast": "iāṃiṃdhī"
+     },
+     {
+      "kannada": "ಇಂಧೀ",
+      "devanagari": "इंधी",
+      "iast": "iṃdhī"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.01.vishesha",
+  "para": 11,
+  "text": "(9) यद्यस्मात्कारणादेनं परमात्मरूपमिंद्रं देवं प्राणैर्वाक्चक्षुरादींद्रियैः प्राणापानादिवायुभिश्च सहितं सम्मैंधन्नु पासका ध्यानेन सम्यक्रकाशितवंतस्तत्तस्मात्कारणादिंद्रनाम संपन्नं । (*yadyasmātkāraṇādenaṃ paramātmarūpamiṃdraṃ devaṃ prāṇairvākcakṣurādīṃdriyaiḥ prāṇāpānādivāyubhiśca sahitaṃ sammaiṃdhannu pāsakā dhyānena samyakrakāśitavaṃtastattasmātkāraṇādiṃdranāma saṃpannaṃ |*)⟨NOTE:8⟩ Because worshippers, joining this god of the form of the Supreme Self with the sense organs such as speech and sight and with the vital airs such as prāṇa and apāna, conceive him in meditation as shining brightly; hence the name Indra.",
+  "notes": [
+   {
+    "no": 8,
+    "question": "ಸಮ್ಮೈಂಧನ್ನು ಪಾಸಕಾ garbled in the Sanskrit; read from the Kannada gloss",
+    "decision": "ಸಮ್ಮೈಂಧನ್ನು ಪಾಸಕಾ is correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಸಮ್ಮೈಂಧನ್ನು",
+      "devanagari": "सम्मैंधन्नु",
+      "iast": "sammaiṃdhannu"
+     },
+     {
+      "kannada": "ಪಾಸಕಾ",
+      "devanagari": "पासका",
+      "iast": "pāsakā"
+     },
+     {
+      "kannada": "ಸಮ್ಮೈಂಧನ್ನು",
+      "devanagari": "सम्मैंधन्नु",
+      "iast": "sammaiṃdhannu"
+     },
+     {
+      "kannada": "ಪಾಸಕಾ",
+      "devanagari": "पासका",
+      "iast": "pāsakā"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.01.vishesha",
+  "para": 13,
+  "text": "(11) औपम्यनवनामको मुनिरिदंदर्शनादिंद्र इति निर्वचनवाह । इदमित्यापरोक्ष्यमुच्यते । (*aupamyanavanāmako muniridaṃdarśanādiṃdra iti nirvacanavāha | idamityāparokṣyamucyate |*)⟨NOTE:9⟩—The sage Aupamanyava says that because he sees this, that is, everything, the name Indra arose. Here \"this\" means the imperceptible, what does not appear visibly to the eye. For that very reason the Śruti says परोक्षप्रिया इव हि देवाः (*parokṣapriyā iva hi devāḥ*).",
+  "notes": [
+   {
+    "no": 9,
+    "question": "ಔಪಮ್ಯನವ / ಔಪಮ್ಯವ printed for Aupamanyava",
+    "decision": "ಔಪಮ್ಯನವ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಔಪಮ್ಯನವ",
+      "devanagari": "औपम्यनव",
+      "iast": "aupamyanava"
+     },
+     {
+      "kannada": "ಔಪಮ್ಯನವ",
+      "devanagari": "औपम्यनव",
+      "iast": "aupamyanava"
+     },
+     {
+      "kannada": "ಔಪಮ್ಯವ",
+      "devanagari": "औपम्यव",
+      "iast": "aupamyava"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.01.vishesha",
+  "para": 15,
+  "text": "(13) इनशब्दस्येश्वरवाचकस्याकारलोपे सति नकारांतमिन्निति पदं भवति । द्य भय इति धातुः । स च परमेश्वरः शत्रूणां दारयिता भीषयितेतींद्रः ॥ (*inaśabdasyeśvaravācakasyākāralope sati nakārāṃtaminniti padaṃ bhavati | dya bhaya iti dhātuḥ | sa ca parameśvaraḥ śatrūṇāṃ dārayitā bhīṣayitetīṃdraḥ ‖*)—The word ina denotes the Lord. If the vowel a over the n of this word ina is dropped, the word in remains. The root dṛ⟨NOTE:10⟩ means fear. That god, the Supreme Lord, causes fear to enemies; hence the name Indra.",
+  "notes": [
+   {
+    "no": 10,
+    "question": "ದ್ಯ printed in the Sanskrit, ದೃ in the Kannada",
+    "decision": "ದೃ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ದೃ",
+      "devanagari": "दृ",
+      "iast": "dṛ"
+     },
+     {
+      "kannada": "ದ್ಯ",
+      "devanagari": "द्य",
+      "iast": "dya"
+     },
+     {
+      "kannada": "ದೃ",
+      "devanagari": "दृ",
+      "iast": "dṛ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.02.vishesha",
+  "para": 4,
+  "text": "पिब (*piba*)—The final syllable of this word is made long in the Saṃhitā text for the convenience of the metre. Such usage is frequent in the Ṛgveda. For example, the word पिब (*piba*) in पिबा सोममभि (*pibā somamabhi*) (Ṛ. Saṃ. 6-17-1); पिबा सोममिंद्र मंदतु (*pibā somamiṃdra maṃdatu*) (Ṛ. Saṃ. 7-22-1); पिबा सोमं मदाय (*pibā somaṃ madāya*) (Ṛ. Saṃ. 8-95-3); पिबा सोमं महते (*pibā somaṃ mahate*) (Ṛ. Saṃ. 10-116-1); the verse ⟨NOTE:11⟩",
+  "notes": [
+   {
+    "no": 11,
+    "question": "ಎಂಬ ಋಕ್ಕು at the end of p. 10; p. 11 continues directly with ಶ್ರುಧಿ, so text seems broken off",
+    "decision": "Rukkugalalliyoo",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಎಂಬ",
+      "devanagari": "ऎंब",
+      "iast": "èṃba"
+     },
+     {
+      "kannada": "ಋಕ್ಕು",
+      "devanagari": "ऋक्कु",
+      "iast": "ṛkku"
+     },
+     {
+      "kannada": "ಶ್ರುಧಿ",
+      "devanagari": "श्रुधि",
+      "iast": "śrudhi"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.02.vishesha",
+  "para": 7,
+  "text": "वृषस्व (*vṛṣasva*)—जठरे सिंच । यथा नाभेरधो न पतति तथा धारयेति भावः । (*jaṭhare siṃca | yathā nābheradho na patati tathā dhārayeti bhāvaḥ |*) In this verse it is plainly said पिब (*piba*), \"drink the Soma juice\"; is not the use of the word वृषस्व (*vṛṣasva*) then useless? The answer: since Indra is famous as extremely fond of drinking Soma juice, the use of the two words पिब (*piba*) and वृषभ (*vṛṣabha*) ⟨NOTE:12⟩ is also proper, to stress plainly: \"when drinking Soma, drink as much as you wish, so that it does not fall below the navel, and drink so that the inner part of the belly is well soaked and refreshed.\"",
+  "notes": [
+   {
+    "no": 12,
+    "question": "ವೃಷಭ printed here for ವೃಷಸ್ವ?",
+    "decision": "ವೃಷಸ್ವ is correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ವೃಷಸ್ವ",
+      "devanagari": "वृषस्व",
+      "iast": "vṛṣasva"
+     },
+     {
+      "kannada": "ವೃಷಭ",
+      "devanagari": "वृषभ",
+      "iast": "vṛṣabha"
+     },
+     {
+      "kannada": "ವೃಷಸ್ವ",
+      "devanagari": "वृषस्व",
+      "iast": "vṛṣasva"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.06.vishesha",
+  "para": 2,
+  "text": "त्पादातं इत् (*tpādātaṃ it*)—त्वया शोधितं विशदीकृतमेव (*tvayā śodhitaṃ viśadīkṛtameva*). Purified or made clear by you. The commentator says that the word दातं (*dātaṃ*) is formed here from the root दैप् शोधने (*daip śodhane*) and explains the meaning accordingly. But what the food (oblation) purified by Indra is, is not clear. ⟨NOTE:13⟩",
+  "notes": [
+   {
+    "no": 13,
+    "question": "ಇಂದ್ರನಿಂದ ಶುದ್ಧಿ ಮಾಡಲ್ಪಟ್ಟ — sentence breaks off at the page end and continues on p. 18; ತ್ಪಾದಾತಂ printed for ತ್ವಾದಾತಂ",
+    "decision": "Madalpatta havissu….",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಇಂದ್ರನಿಂದ",
+      "devanagari": "इंद्रनिंद",
+      "iast": "iṃdraniṃda"
+     },
+     {
+      "kannada": "ಶುದ್ಧಿ",
+      "devanagari": "शुद्धि",
+      "iast": "śuddhi"
+     },
+     {
+      "kannada": "ಮಾಡಲ್ಪಟ್ಟ",
+      "devanagari": "माडल्पट्ट",
+      "iast": "māḍalpaṭṭa"
+     },
+     {
+      "kannada": "ತ್ಪಾದಾತಂ",
+      "devanagari": "त्पादातं",
+      "iast": "tpādātaṃ"
+     },
+     {
+      "kannada": "ತ್ವಾದಾತಂ",
+      "devanagari": "त्वादातं",
+      "iast": "tvādātaṃ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.040.06.vishesha",
+  "para": 4,
+  "text": "यशः (*yaśaḥ*)—अन्नं (*annaṃ*). The word यशः (*yaśaḥ*) is read among the 101 names of water (Ni. 2-24), among the twenty-eight names of food (Ni. 3-9) and among the twenty-eight names of wealth (Ni. 3-9). Here the commentator has taken the word यशः (*yaśaḥ*) in the sense of food and explained accordingly. ⟨NOTE:14⟩",
+  "notes": [
+   {
+    "no": 14,
+    "question": "ಪರಿತವಾಗಿದೆ (probably ಪಠಿತ \"read\"); the numbers 101 and \"twenty-eight\" for both food and wealth as printed",
+    "decision": "ಪಠಿತ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪಠಿತ",
+      "devanagari": "पठित",
+      "iast": "paṭhita"
+     },
+     {
+      "kannada": "ಪರಿತವಾಗಿದೆ",
+      "devanagari": "परितवागिदॆ",
+      "iast": "paritavāgidè"
+     },
+     {
+      "kannada": "ಪಠಿತ",
+      "devanagari": "पठित",
+      "iast": "paṭhita"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.041.04.pratipada",
+  "para": 5,
+  "text": "- विषु (*viṣu*)—(broken in print; continues on the next page) ⟨NOTE:16⟩",
+  "notes": [
+   {
+    "no": 16,
+    "question": "ಪ್ರತಿಪದಾರ್ಥ ಗಿರ್ವಣಃ… ವಿಷು— at the page end and \"೧. ಪಲ್ಪಡುವ\" at the top of the next page are garbled; probably ತ್ರಿಷು \"in the three\" … \"performed\"",
+    "decision": "It’s ‘aeshu’",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪ್ರತಿಪದಾರ್ಥ",
+      "devanagari": "प्रतिपदार्थ",
+      "iast": "pratipadārtha"
+     },
+     {
+      "kannada": "ಗಿರ್ವಣಃ",
+      "devanagari": "गिर्वणः",
+      "iast": "girvaṇaḥ"
+     },
+     {
+      "kannada": "ವಿಷು",
+      "devanagari": "विषु",
+      "iast": "viṣu"
+     },
+     {
+      "kannada": "೧",
+      "devanagari": "१",
+      "iast": "1"
+     },
+     {
+      "kannada": "ಪಲ್ಪಡುವ",
+      "devanagari": "पल्पडुव",
+      "iast": "palpaḍuva"
+     },
+     {
+      "kannada": "ತ್ರಿಷು",
+      "devanagari": "त्रिषु",
+      "iast": "triṣu"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.041.04.pratipada",
+  "para": 6,
+  "text": "- पल्पडुव (*palpaḍuva*)—(…performed) ⟨NOTE:17⟩",
+  "notes": [
+   {
+    "no": 17,
+    "question": "garbled ಪಲ್ಪಡುವ, probably ಮಾಡಲ್ಪಡುವ \"being performed\"",
+    "decision": "ಮಾಡಲ್ಪಡುವ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಮಾಡಲ್ಪಡುವ",
+      "devanagari": "माडल्पडुव",
+      "iast": "māḍalpaḍuva"
+     },
+     {
+      "kannada": "ಪಲ್ಪಡುವ",
+      "devanagari": "पल्पडुव",
+      "iast": "palpaḍuva"
+     },
+     {
+      "kannada": "ಮಾಡಲ್ಪಡುವ",
+      "devanagari": "माडल्पडुव",
+      "iast": "māḍalpaḍuva"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.041.09.pratipada",
+  "para": 1,
+  "text": "- धृतस्नू (*dhṛtasnū*)—your horses with bodies shining like ghee (or covered with sweat) ⟨NOTE:18⟩",
+  "notes": [
+   {
+    "no": 18,
+    "question": "ಧೃತಸ್ನೂ printed in Pratipadārtha and Special Topics; the verse reads ಘೃತಸ್ನೂ",
+    "decision": "ಘೃತಸ್ನೂ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಘೃತಸ್ನೂ",
+      "devanagari": "घृतस्नू",
+      "iast": "ghṛtasnū"
+     },
+     {
+      "kannada": "ಧೃತಸ್ನೂ",
+      "devanagari": "धृतस्नू",
+      "iast": "dhṛtasnū"
+     },
+     {
+      "kannada": "ಘೃತಸ್ನೂ",
+      "devanagari": "घृतस्नू",
+      "iast": "ghṛtasnū"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.041.09.vishesha",
+  "para": 0,
+  "text": "धृतस्नू (*dhṛtasnū*)—श्रमजनितजलप्रस्रवणयुक्तौ (*śramajanitajalaprasravaṇayuktau*). Since the word dhṛta is read among the names of water (Ni. 2-24), dhṛta means water, the water of exertion, that is, sweat. Because horses run fast over a long distance, their bodies are soaked with sweat. In the same way here, because Indra's horses have brought Indra from far away to our place of sacrifice, their bodies are drenched with sweat. That condition is described here by the word धृतस्नू (*dhṛtasnū*). ⟨NOTE:19⟩",
+  "notes": [
+   {
+    "no": 19,
+    "question": "ಧೃತ for ghṛta; Ni. 2-24 as printed",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಧೃತ",
+      "devanagari": "धृत",
+      "iast": "dhṛta"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.04.summary",
+  "para": 0,
+  "text": "With stotras accomplished by the trivṛt, pañcadaśa and other stomas, with ukthas, and with śastras, we invoke Indra in this rite to drink Soma. ⟨NOTE:20⟩ Invoked repeatedly (कुवित् (*kuvit*)), may that Indra come, that is, approach the sacrifice.",
+  "notes": [
+   {
+    "no": 20,
+    "question": "ಸೋಮೈಸ್ತ್ರಿವೃತ್… ಸೋತ್ರೈರುಕ್ಷೇಭಿರುಕ್ಷೇ: the Sanskrit is damaged; the stomas, stotras, ukthas are read as above",
+    "decision": "ಸೋಮೈಸ್ತ್ರಿವೃತ್ಪಂಚದಶಾದಿಸ್ತೋಮಸಾಧ್ಯಃ ಸೋತ್ರೈರು-kthebhirukhthaih",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಸೋಮೈಸ್ತ್ರಿವೃತ್ಪಂಚದಶಾದಿಸ್ತೋಮಸಾಧ್ಯಃ",
+      "devanagari": "सोमैस्त्रिवृत्पंचदशादिस्तोमसाध्यः",
+      "iast": "somaistrivṛtpaṃcadaśādistomasādhyaḥ"
+     },
+     {
+      "kannada": "ಸೋತ್ರೈರು",
+      "devanagari": "सोत्रैरु",
+      "iast": "sotrairu"
+     },
+     {
+      "kannada": "ಸೋಮೈಸ್ತ್ರಿವೃತ್",
+      "devanagari": "सोमैस्त्रिवृत्",
+      "iast": "somaistrivṛt"
+     },
+     {
+      "kannada": "ಸೋತ್ರೈರುಕ್ಷೇಭಿರುಕ್ಷೇ",
+      "devanagari": "सोत्रैरुक्षेभिरुक्षे",
+      "iast": "sotrairukṣebhirukṣe"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.04.pratipada",
+  "para": 1,
+  "text": "- उक्षेभिः (*ukṣebhiḥ*)—with śastras in the form of ukthas ⟨NOTE:21⟩",
+  "notes": [
+   {
+    "no": 21,
+    "question": "ಉಕ್ಷೇಭಿಃ printed; read as uktha",
+    "decision": "Ukthebhih",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಉಕ್ಷೇಭಿಃ",
+      "devanagari": "उक्षेभिः",
+      "iast": "ukṣebhiḥ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.04.pratipada",
+  "para": 7,
+  "text": "- कुपित् (*kupit*)—Indra, invoked many times ⟨NOTE:22⟩",
+  "notes": [
+   {
+    "no": 22,
+    "question": "ಕುಪಿತ್ printed for ಕುವಿತ್",
+    "decision": "ಕುಪಿತ್",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಕುಪಿತ್",
+      "devanagari": "कुपित्",
+      "iast": "kupit"
+     },
+     {
+      "kannada": "ಕುಪಿತ್",
+      "devanagari": "कुपित्",
+      "iast": "kupit"
+     },
+     {
+      "kannada": "ಕುವಿತ್",
+      "devanagari": "कुवित्",
+      "iast": "kuvit"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.04.bhavartha",
+  "para": 0,
+  "text": "With praises in the form of stomas and with śastra-mantras in the form of ukthas ⟨NOTE:23⟩ we invoke Indra in this sacrifice to drink the Soma juice. May Indra, who is invoked many times, come to this place of sacrifice.",
+  "notes": [
+   {
+    "no": 23,
+    "question": "ಉಕ್ತರೂಪವಾದ printed; uktha?",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಉಕ್ತರೂಪವಾದ",
+      "devanagari": "उक्तरूपवाद",
+      "iast": "uktarūpavāda"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.06.pratipada",
+  "para": 8,
+  "text": "- सुम्नं (*sumnaṃ*)—wealth (happiness) ⟨NOTE:24⟩",
+  "notes": [
+   {
+    "no": 24,
+    "question": "ಸುಮ್ನಂ here, ಸುಮ್ಮಂ in the bhāṣya and Special Topics",
+    "decision": "ಸುಮ್ನಂ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಸುಮ್ನಂ",
+      "devanagari": "सुम्नं",
+      "iast": "sumnaṃ"
+     },
+     {
+      "kannada": "ಸುಮ್ನಂ",
+      "devanagari": "सुम्नं",
+      "iast": "sumnaṃ"
+     },
+     {
+      "kannada": "ಸುಮ್ಮಂ",
+      "devanagari": "सुम्मं",
+      "iast": "summaṃ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.042.07.summary",
+  "para": 0,
+  "text": "O Indra, come to the place of sacrifice and drink this Soma of ours, which is गवाशिरं (*gavāśiraṃ*), mixed with milk products, and यवाशिरं (*yavāśiraṃ*), mixed with barley, pressed out with the stones. ⟨NOTE:25⟩",
+  "notes": [
+   {
+    "no": 25,
+    "question": "ವೃಷಭಿಗ್ರಾವಭಿಃ: the Sanskrit seems damaged; read as \"pressed with the stones\"",
+    "decision": "Seems to be correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ವೃಷಭಿಗ್ರಾವಭಿಃ",
+      "devanagari": "वृषभिग्रावभिः",
+      "iast": "vṛṣabhigrāvabhiḥ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.043.02.summary",
+  "para": 0,
+  "text": "Sāyaṇa addresses Indra: \"O Indra, pass beyond all the peoples (चर्षणीः (*carṣaṇīḥ*) = prajāḥ) and come to us.\" Aryaḥ means our lord. \"Our prayers (आशिषः (*āśiṣaḥ*)) are of this kind: 'Come here and drink the Soma'. Accepting them, come to us yoked with your two horses.\" Further, these hymns (मतयः (*matayaḥ*), praises), fashioned by the praisers, desiring your friendship, invoke you for the drinking of Soma. हि (*hi*) is the well-known particle. The action of the doer is attributed to the instrument, as in \"the firewood cooks\". ⟨NOTE:26⟩",
+  "notes": [
+   {
+    "no": 26,
+    "question": "the clause beginning ⟦ದ್ವಿತೀಯ ಆಜ್ ಪೂರಣಃ⟧ and the words ⟦ಆಶಿಷಸ್ವಮತ್ರಾಗತ್ಯ⟧ are damaged in the print; the sense of the latter is read as \"you, having come here, drink Soma\"",
+    "decision": "ಆಶಿಷಸ್ವಮತ್ರಾಗತ್ಯ is correct. Rest seems ok",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಆಶಿಷಸ್ವಮತ್ರಾಗತ್ಯ",
+      "devanagari": "आशिषस्वमत्रागत्य",
+      "iast": "āśiṣasvamatrāgatya"
+     },
+     {
+      "kannada": "ದ್ವಿತೀಯ",
+      "devanagari": "द्वितीय",
+      "iast": "dvitīya"
+     },
+     {
+      "kannada": "ಆಜ್",
+      "devanagari": "आज्",
+      "iast": "āj"
+     },
+     {
+      "kannada": "ಪೂರಣಃ",
+      "devanagari": "पूरणः",
+      "iast": "pūraṇaḥ"
+     },
+     {
+      "kannada": "ಆಶಿಷಸ್ವಮತ್ರಾಗತ್ಯ",
+      "devanagari": "आशिषस्वमत्रागत्य",
+      "iast": "āśiṣasvamatrāgatya"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.043.05.summary",
+  "para": 0,
+  "text": "\"O Indra, make me, many times (कुवित् (*kuvit*)), the protector (गोपां (*gopāṃ*)) of the people. O wealthy (मघवन् (*maghavan*)), Soma-possessing Indra, make me king, the lord of all. Make me also a ऋषिं (*ṛṣiṃ*), a questioner of supersensuous matters; \"a seer from seeing\", says Yāska. Make me also a drinker (पपिवांसं (*papivāṃsaṃ*)) of the pressed Soma. And give me imperishable wealth (अमृतस्य (*amṛtasya*) वस्वः (*vasvaḥ*)). शिक्षाः (*śikṣāḥ*) means 'give'; the root शिक्षति (*śikṣati*) has the sense of giving.\" ⟨NOTE:27⟩",
+  "notes": [
+   {
+    "no": 27,
+    "question": "printed ಋಷಿರ್ದಶನಾತ್ (rṣir daśanāt); expected ದರ್ಶನಾತ್ \"from seeing\"",
+    "decision": "It is ‘rishi darshanaaditi’",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಋಷಿರ್ದಶನಾತ್",
+      "devanagari": "ऋषिर्दशनात्",
+      "iast": "ṛṣirdaśanāt"
+     },
+     {
+      "kannada": "ದರ್ಶನಾತ್",
+      "devanagari": "दर्शनात्",
+      "iast": "darśanāt"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.043.06.vishesha",
+  "para": 0,
+  "text": "Mūrāḥ: for the word mūra the meaning \"foolish\" (mūḍha), i.e. ignorant, is generally well known; mūra is popularly an ignorant person and amūra a knowing one. In the present Ṛk, however, Sāyaṇa explains the word as a destroying power. The scholar Monier Wiliam, explaining this word, cites this very Ṛk and in his dictionary gives the meaning \"Rushing, impetuous\"; he also records Sāyaṇa's opinion \"destroyer\" (māraka). Besides, it also means \"firm, secure, well established\". The word is also used in the sense of \"root, base\" (A. Ve. 1-28-3).⟨NOTE:28⟩",
+  "notes": [
+   {
+    "no": 28,
+    "question": "ಅ. ವೇ. abbreviation printed; not in the list, rendered A. Ve.",
+    "decision": "Atharva Veda",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಅ",
+      "devanagari": "अ",
+      "iast": "a"
+     },
+     {
+      "kannada": "ವೇ",
+      "devanagari": "वे",
+      "iast": "ve"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.044.02.vishesha",
+  "para": 0,
+  "text": "As the words of the Supreme Person say, उत्तीदेयुरिमे लोकाः न कुर्यां कर्म चेदहं (*uttīdeyurime lokāḥ na kuryāṃ karma cedahaṃ*)⟨NOTE:29⟩—\"if I did not perform action, all the worlds would perish\"—so, if Indra, the lord of the universe, were not constantly engaged in action useful for the conduct of the world, the ruin of the world would be certain. He is the cause of the appearance of Dawn and of the rising of the sun. As described in स्वराजः, महतः, ते (*svarājaḥ, mahataḥ, te*) (Ṛ. Saṃ. 3-46-1), he alone is lord of the whole universe and holds sovereign rank. Even so, because the performance of sacrifice nourishes the world and is the cause of the growth of prosperity of the whole world, of gods, men and others, it is said that Indra honoured Dawn and the Sun, the primary causes of that sacrifice. The purport of the present Ṛk is that, though himself the lord, he worshipped his own creation, which nourishes the world.",
+  "notes": [
+   {
+    "no": 29,
+    "question": "ಉತ್ತೀದೇಯು printed; perhaps ಉತ್ಸೀದೇಯು",
+    "decision": "ಉತ್ಸೀದೇಯು",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಉತ್ಸೀದೇಯು",
+      "devanagari": "उत्सीदेयु",
+      "iast": "utsīdeyu"
+     },
+     {
+      "kannada": "ಉತ್ತೀದೇಯು",
+      "devanagari": "उत्तीदेयु",
+      "iast": "uttīdeyu"
+     },
+     {
+      "kannada": "ಉತ್ಸೀದೇಯು",
+      "devanagari": "उत्सीदेयु",
+      "iast": "utsīdeyu"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.044.03.summary",
+  "para": 0,
+  "text": "This Indra upheld the heaven that is हरिधायसं (*haridhāyasaṃ*): the green-hued supporters (dhāyasaḥ) of which are रत्नयो (*ratnayo*)⟨NOTE:30⟩. Likewise he upheld the earth, हरिवर्पसं (*harivarpasaṃ*), green with plants.",
+  "notes": [
+   {
+    "no": 30,
+    "question": "ರತ್ನಯೋ printed in the bhāṣya; probably ರಶ್ಮಯೋ \"rays\"",
+    "decision": "ರಶ್ಮಯೋ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ರಶ್ಮಯೋ",
+      "devanagari": "रश्मयो",
+      "iast": "raśmayo"
+     },
+     {
+      "kannada": "ರತ್ನಯೋ",
+      "devanagari": "रत्नयो",
+      "iast": "ratnayo"
+     },
+     {
+      "kannada": "ರಶ್ಮಯೋ",
+      "devanagari": "रश्मयो",
+      "iast": "raśmayo"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.045.03.vishesha",
+  "para": 7,
+  "text": "Here, in वृधस्य दक्षसः विदे (*vṛdhasya dakṣasaḥ vide*), it is stated that in order to acquire strength that makes one grow, Indra purifies the sacrificer (his resolve), as in क्रतुं पुनीते (*kratuṃ punīte*). Even when the person's spiritual aim is explained, it is set out in sentences such as ओं क्रतो स्मर (*oṃ krato smara*) (Īśa. 17) ⟨NOTE:31⟩ and क्रतुमयःपुरुषः (*kratumayaḥpuruṣaḥ*) (Chā. U. 3-14-2). In such contexts Śaṅkarācārya has explained the word क्रतु (*kratu*) as resolution, or as the person's duty; the purport is resolve, and the power of action that accomplishes the resolve. According to this resolve and power the aim is accomplished. The nature of क्रतु (*kratu*) is stated thus: यथाक्रतुरस्मिल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत (*yathākraturasmilloke puruṣo bhavati tathetaḥ pretya bhavati sa kratuṃ kurvīta*) and so on. In the present Ṛk too the nature of the wealth that comes to such a person made of क्रतु (*kratu*) is described.",
+  "notes": [
+   {
+    "no": 31,
+    "question": "abbreviation ಈಶ. printed; the quoted words ಓಂ ಕ್ರತೋ ಸ್ಮರ ಕ್ರತುಗ್‌ಸ್ಮರ, not copied inside the brackets because of a joiner sign in print",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಈಶ",
+      "devanagari": "ईश",
+      "iast": "īśa"
+     },
+     {
+      "kannada": "ಓಂ",
+      "devanagari": "ओं",
+      "iast": "oṃ"
+     },
+     {
+      "kannada": "ಕ್ರತೋ",
+      "devanagari": "क्रतो",
+      "iast": "krato"
+     },
+     {
+      "kannada": "ಸ್ಮರ",
+      "devanagari": "स्मर",
+      "iast": "smara"
+     },
+     {
+      "kannada": "ಕ್ರತುಗ್‌ಸ್ಮರ",
+      "devanagari": "क्रतुग्‌स्मर",
+      "iast": "kratugsmara"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.045.05.vishesha",
+  "para": 4,
+  "text": "स्मद्दिष्टिः (*smaddiṣṭiḥ*)—It was stated earlier that the word स्मत् (*smat*) has the meanings beautiful, auspicious, propitious. दिष्टि (*diṣṭi*) is explained here as speech. The meaning is: one with auspicious speech. In Ṛ. Saṃ. 6-3-69 ⟨NOTE:32⟩ and similar places it means \"of pleasing sight\".",
+  "notes": [
+   {
+    "no": 32,
+    "question": "reference as printed; does not look like a Ṛg reference",
+    "decision": "Correct",
+    "by": "user",
+    "helper": []
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.02.vishesha",
+  "para": 0,
+  "text": "महिष (*mahiṣa*)—The word mahiṣa is read among the names for \"great\" in the Nirukta (Ni. 3-3). It means venerable, or else the accomplisher of great deeds. The Nirukta-author quotes the ṛk \"अपामुपस्थे महिषा... (*apāmupasthe mahiṣā...*)\" (Ṛ. Saṃ. 6-8-4) and there explains this word as \"deep\". The intention here is that Indra's personal power is deep. In this power there is a blending of both beauty and terror(?). ⟨NOTE:33⟩For that reason the epithet उग्र (*ugra*) is fitting. Hence, without giving here the meaning \"sprinkler\" for the word वृष्णेभिः (*vṛṣṇebhiḥ*), it is shown that it is used in the sense of \"power\": वृष्णेभिः (*vṛṣṇebhiḥ*) means \"by powers that accomplish great deeds\".",
+  "notes": [
+   {
+    "no": 33,
+    "question": "ಸೌಂದರವಿಕಾರಗಳೆರಡರ ಮಿಳನ: ವಿಕಾರ read as \"terrible/fearsome\"; doubtful",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಸೌಂದರವಿಕಾರಗಳೆರಡರ",
+      "devanagari": "सौंदरविकारगळॆरडर",
+      "iast": "sauṃdaravikāragaḷèraḍara"
+     },
+     {
+      "kannada": "ಮಿಳನ",
+      "devanagari": "मिळन",
+      "iast": "miḷana"
+     },
+     {
+      "kannada": "ವಿಕಾರ",
+      "devanagari": "विकार",
+      "iast": "vikāra"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.03.summary",
+  "para": 0,
+  "text": "Indra, shining, not fully known by all (\"this much is his power\"), the Soma-possessor, has surpassed the मात्राः (*mātrāḥ*). These are things that are measured and bounded, namely rock-heaps (शिलोच्चयाः (*śiloccayāḥ*)); he has exceeded even these, becoming greatly excessive. Likewise he has surpassed even the gods by मज्जना (*majjanā*), that is by strength: majja is strength, because it plunges (मज्जयति (*majjayati*)) into the face of the sea of enemies. By that strength he has surpassed; so too heaven and earth, and the vast, great firmament. The rest of the block gives derivations and accent notes (mātrābhiḥ, rocamānaḥ, apratītaḥ, majjanā, pṛthivyāḥ). ⟨NOTE:34⟩",
+  "notes": [
+   {
+    "no": 34,
+    "question": "ಯಜೀಷೀ in the Sanskrit block against ಋಜೀಷೀ in the Kannada Pratipadārtha and pada text; read ṛjīṣī",
+    "decision": "ಋಜೀಷೀ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಋಜೀಷೀ",
+      "devanagari": "ऋजीषी",
+      "iast": "ṛjīṣī"
+     },
+     {
+      "kannada": "ಯಜೀಷೀ",
+      "devanagari": "यजीषी",
+      "iast": "yajīṣī"
+     },
+     {
+      "kannada": "ಋಜೀಷೀ",
+      "devanagari": "ऋजीषी",
+      "iast": "ṛjīṣī"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.03.vishesha",
+  "para": 1,
+  "text": "मात्राभिः (*mātrābhiḥ*)—As explained earlier in Ṛ. Saṃ. 3-38-3, here too it is explained: \"मीयंते मांतीति वा मात्रा: शिलोच्चयाः (*mīyaṃte māṃtīti vā mātrā: śiloccayāḥ*)\". It is formed from the root mā, meaning \"to measure\". Although it applies to all things possessing limit, here it is explained as lofty rock-heaps. When describing the nature of all the elements such as earth, the Upaniṣads use this word thus: \"पृथिवी च पृथिवीमात्रा चापश्चापोमात्राच तेजश्चतेजोमात्रा च वायुश्च नायुमात्रा च आकाशश्चाकाशमात्रा ॥ (*pṛthivī ca pṛthivīmātrā cāpaścāpomātrāca tejaścatejomātrā ca vāyuśca nāyumātrā ca ākāśaścākāśamātrā ‖*)\" (Praśne. 4-8). ⟨NOTE:35⟩ In the quoted sentence the word mātrā has the technical meaning tanmātra (\"subtle element\"). Here there is no room for a philosophical discussion; in sum, they may be called things confined to the limits of man. The intention is that Indra has grown beyond all these.",
+  "notes": [
+   {
+    "no": 35,
+    "question": "abbreviation ಪ್ರಶ್ನೆ. printed (Praśna Upaniṣad?)",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪ್ರಶ್ನೆ",
+      "devanagari": "प्रश्नॆ",
+      "iast": "praśnè"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.03.vishesha",
+  "para": 2,
+  "text": "ऋजीषी (*ṛjīṣī*)—This epithet is because he is accompanied by Soma. It is used chiefly in describing the nature of Indra and the Maruts. In such contexts as \"अमत्रेभिर्यजीषिणिमिंद्रं (*amatrebhiryajīṣiṇimiṃdraṃ*)\" (Ṛ. Saṃ. 6-42-2) ⟨NOTE:36⟩ the word ṛjīṣa is explained as power; it is explained as \"of Indra, who has obtained power that obstructs enemies\". But in many contexts this epithet is well known precisely because he is accompanied by Soma.",
+  "notes": [
+   {
+    "no": 36,
+    "question": "ಯಜೀಷಿಣಿ printed; ṛjīṣiṇam?",
+    "decision": "ಋಜೀಷಿಣಿ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಋಜೀಷಿಣಿ",
+      "devanagari": "ऋजीषिणि",
+      "iast": "ṛjīṣiṇi"
+     },
+     {
+      "kannada": "ಯಜೀಷಿಣಿ",
+      "devanagari": "यजीषिणि",
+      "iast": "yajīṣiṇi"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.05.pratipada",
+  "para": 9,
+  "text": "- अध्वरवः (*adhvaravaḥ*)—the Adhvaryus ⟨NOTE:37⟩",
+  "notes": [
+   {
+    "no": 37,
+    "question": "ಅಧ್ವರವಃ printed; Saṃhitā/Pada read ಅಧ್ವರ್ಯವಃ",
+    "decision": "ಅಧ್ವರ್ಯವಃ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಅಧ್ವರ್ಯವಃ",
+      "devanagari": "अध्वर्यवः",
+      "iast": "adhvaryavaḥ"
+     },
+     {
+      "kannada": "ಅಧ್ವರವಃ",
+      "devanagari": "अध्वरवः",
+      "iast": "adhvaravaḥ"
+     },
+     {
+      "kannada": "ಅಧ್ವರ್ಯವಃ",
+      "devanagari": "अध्वर्यवः",
+      "iast": "adhvaryavaḥ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.046.05.pratipada",
+  "para": 13,
+  "text": "- पातनै (*pātanai*)—for drinking ⟨NOTE:38⟩",
+  "notes": [
+   {
+    "no": 38,
+    "question": "ಪಾತನೈ printed; Saṃhitā/Pada read ಪಾತವೈ",
+    "decision": "ಪಾತವೈ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪಾತವೈ",
+      "devanagari": "पातवै",
+      "iast": "pātavai"
+     },
+     {
+      "kannada": "ಪಾತನೈ",
+      "devanagari": "पातनै",
+      "iast": "pātanai"
+     },
+     {
+      "kannada": "ಪಾತವೈ",
+      "devanagari": "पातवै",
+      "iast": "pātavai"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.047.04.summary",
+  "para": 0,
+  "text": "The Ṛk ये त्वाहिहत्ये (*ye tvāhihatye*) is the yājyā in the Marutvatīya śastra. It is prescribed by the sūtra ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14). O Maghavan Indra, the Maruts who in the work of slaying Ahi (Vṛtra) strengthened you by giving you strength, with words such as \"strike, blessed one, slay, show your valour\"; and, O Harivān (possessor of horses) Indra, those who strengthened you in the battle connected with the slaying of Śambara. That Indra slew Śambara is stated by a mantra passage: यः शंबरं पर्वतेषु क्षियंतं चत्वारिंश्यां शरद्यन्वविंदत् । ओजायमानं यो अहिं जघान । (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ catvāriṃśyāṃ śaradyanvaviṃdat | ojāyamānaṃ yo ahiṃ jaghāna |*) (Ṛgve. 2-12-11)⟨NOTE:39⟩. Likewise the Maruts who strengthened you in the battle for cattle, गविष्टौ (*gaviṣṭau*), against the asuras named Paṇis; and the wise",
+  "notes": [
+   {
+    "no": 39,
+    "question": "abbreviation ಋಗ್ವೇ printed",
+    "decision": "Use R.Sam",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಋಗ್ವೇ",
+      "devanagari": "ऋग्वे",
+      "iast": "ṛgve"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.047.04.vishesha",
+  "para": 0,
+  "text": "That this Ṛk beginning ये त्वाहिहत्ये (*ye tvāhihatye*) is to be recited as the yājyā mantra at the time of reciting the Marutvatīya śastra is explained by the sūkta⟨NOTE:40⟩ of the Āśvalāyana Śrauta-sūtra, ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14).",
+  "notes": [
+   {
+    "no": 40,
+    "question": "ಸೂಕ್ತ printed; sūtra intended?",
+    "decision": "ಸೂಕ್ತ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಸೂಕ್ತ",
+      "devanagari": "सूक्त",
+      "iast": "sūkta"
+     },
+     {
+      "kannada": "ಸೂಕ್ತ",
+      "devanagari": "सूक्त",
+      "iast": "sūkta"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.047.05.summary",
+  "para": 0,
+  "text": "\"O Indra, मरुत्वंतं (*marutvaṃtaṃ*)\", accompanied by the Maruts; वृषभं (*vṛṣabhaṃ*), the rainer of waters by splitting the cloud; ववृधानं (*vavṛdhānaṃ*), growing through zeal in works such as the slaying of Vṛtra; akavāri, one who has many enemies⟨NOTE:41⟩; \"or else\" — the block breaks off here and the next window continues it.",
+  "notes": [
+   {
+    "no": 41,
+    "question": "ಪ್ರಭೂತಶತ್ರು ಕಂ ಯದ್ವಾ: text broken off at the end of the window; ಕಂ unclear",
+    "decision": "Correct",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪ್ರಭೂತಶತ್ರು",
+      "devanagari": "प्रभूतशत्रु",
+      "iast": "prabhūtaśatru"
+     },
+     {
+      "kannada": "ಕಂ",
+      "devanagari": "कं",
+      "iast": "kaṃ"
+     },
+     {
+      "kannada": "ಯದ್ವಾ",
+      "devanagari": "यद्वा",
+      "iast": "yadvā"
+     },
+     {
+      "kannada": "ಕಂ",
+      "devanagari": "कं",
+      "iast": "kaṃ"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "unit": "17.3.047.05.summary",
+  "para": 1,
+  "text": "The block opens by completing the explanation of अकवारिं (*akavāriṃ*) begun on the previous page.⟨NOTE:42⟩ A mantra is cited in support: स्वरिरमत्तो ववक्षे रणाय (*svariramatto vavakṣe raṇāya*) (Ṛgve. 1-61-9).⟨NOTE:43⟩ Then he glosses the remaining words. दिव्यं (*divyaṃ*): dwelling in heaven. शासं (*śāsaṃ*): the ruler who governs by beneficial instruction and by warding off harm. विश्वासाहं (*viśvāsāhaṃ*): the overcomer of every adversary. उग्रं (*ugraṃ*): formidable against enemies. सहोदां (*sahodāṃ*): the giver of strength to the Maruts, his allies in battle. Indra, so endowed, we call to this rite for new, that is, fresher protection (नूतनाय (*nūtanāya*), अवसे (*avase*), हुवेम (*huvema*): \"we invoke you\"). The rest of the block is grammar on नूतनाय (*nūtanāya*).",
+  "notes": [
+   {
+    "no": 42,
+    "question": "ಅಕುತ್ಸಿ ತಾರಿಂ — broken words at the start of the block; the sense is not settled",
+    "decision": "ಪ್ರಭೂತಶತ್ರುಕಂ ಯದ್ವಾ ಅಕುತ್ಸಿ ತಾರಿಂ",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಪ್ರಭೂತಶತ್ರುಕಂ",
+      "devanagari": "प्रभूतशत्रुकं",
+      "iast": "prabhūtaśatrukaṃ"
+     },
+     {
+      "kannada": "ಯದ್ವಾ",
+      "devanagari": "यद्वा",
+      "iast": "yadvā"
+     },
+     {
+      "kannada": "ಅಕುತ್ಸಿ",
+      "devanagari": "अकुत्सि",
+      "iast": "akutsi"
+     },
+     {
+      "kannada": "ತಾರಿಂ",
+      "devanagari": "तारिं",
+      "iast": "tāriṃ"
+     },
+     {
+      "kannada": "ಅಕುತ್ಸಿ",
+      "devanagari": "अकुत्सि",
+      "iast": "akutsi"
+     },
+     {
+      "kannada": "ತಾರಿಂ",
+      "devanagari": "तारिं",
+      "iast": "tāriṃ"
+     }
+    ]
+   },
+   {
+    "no": 43,
+    "question": "abbreviation ಋಗ್ವೇ. printed; Ṛ. Saṃ. intended?",
+    "decision": "Yes",
+    "by": "user",
+    "helper": [
+     {
+      "kannada": "ಋಗ್ವೇ",
+      "devanagari": "ऋग्वे",
+      "iast": "ṛgve"
+     }
+    ]
+   }
+  ]
+ }
+]

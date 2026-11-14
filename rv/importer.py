@@ -137,10 +137,28 @@ def run(vol):
             for k in re.findall(r'⟨NOTE:(\d+)⟩', it[1]): u['notes'].append([int(k), q(int(k))]); marks += 1
         for k in u.pop('loose', []): u['notes'].append([k, q(k)]); marks += 1
     for u in units: u['state'] = 'set aside' if u.get('set_aside') else 'supplied' if u.get('supplied') else 'imported' if u.get('en') else ('source only' if u['kind'] in ('samhita', 'pada', 'bhashya', 'english') else 'to do')
+    got = collections.Counter(it[1] for u in units if not u.get('supplied') for it in u.get('en', []) if it[0] == 'text')      # counted before the editor's decisions change any text
+    # the editor's decisions (data/decisions.tsv): the text changes they require (data/import_fixes.json, replace_en), then the decided marks leave the text
+    dp = os.path.join(P['data'], 'decisions.tsv'); dec = {}
+    if os.path.exists(dp):
+        for r in list(csv.reader(open(dp, encoding='utf8'), delimiter='\t'))[1:]:
+            if len(r) >= 4 and r[3].strip(): dec[int(r[0])] = r[3].strip()
+    nrep = 0; miss = []
+    for rp in fx.get('replace_en', []):
+        u = byid.get(rp['unit']); hit = [it for it in (u or {}).get('en', []) if it[0] == 'text' and it[1] == rp['old']]
+        if len(hit) == 1: hit[0][1] = rp['new']; nrep += 1
+        else: miss.append(rp['unit'])
+    ndec = 0
+    for u in units:
+        for n_ in u.get('notes', []):
+            if n_[0] in dec and len(n_) == 2: n_.append(dec[n_[0]]); ndec += 1
+        ks = {n_[0] for n_ in u.get('notes', []) if len(n_) > 2}
+        if ks:
+            for it in u.get('en', []):
+                if it[0] == 'text': it[1] = re.sub(r'\s*⟨NOTE:(\d+)⟩', lambda mm: '' if int(mm.group(1)) in ks else mm.group(0), it[1])
     save_units(vol, units)
     # proof 1: every English paragraph of the file is in exactly one unit
     src = collections.Counter(it[1] for p in pieces for it in p['en'] if it[0] == 'text')
-    got = collections.Counter(it[1] for u in units if not u.get('supplied') for it in u.get('en', []) if it[0] == 'text')
     lost = sum((src - got).values()); twice = sum((got - src).values())
     ntext = sum(src.values()); need = [u for u in units if not u.get('set_aside') and u['kind'] in ('pratipada', 'bhavartha', 'vishesha', 'grammar', 'intro', 'preface', 'summary')]
     empty = [u['id'] for u in need if not any(it[0] == 'text' for it in u.get('en', []))]
@@ -150,6 +168,6 @@ def run(vol):
            f'- placed more than once: {twice}', f'- parts that the English has and the Kannada file has no label for (units without Kannada; a fault of the supplied text or of its labels): {len(nolabel)}' + (': ' + ', '.join(nolabel) if nolabel else ''), f'- units that should have English and have none: {len(empty)}' + (': ' + ', '.join(empty[:15]) if empty else ''), '',
            '## Proof 2: the Sanskrit of the English file equals the source (verse, Pada, bhāṣya)'] + [f'- {k}: {v}' for k, v in sorted(cmp_.items())] + ([f'- units that differ: ' + ', '.join(bad[:20])] if bad else []) + ['',
            '## Repairs applied from data/import_fixes.json'] + ([f'- {x}' for x in fixed] or ['- none']) + ['',
-           '## Questions for the editor', f'- NOTE marks in the English file: {st["NOTE marks numbered in file order"]}; rows in review/notes.tsv: {len(rows)}; attached to units: {marks}', '',
+           '## Questions for the editor', f'- NOTE marks in the English file: {st["NOTE marks numbered in file order"]}; rows in review/notes.tsv: {len(rows)}; attached to units: {marks}', f'- decided (data/decisions.tsv): {ndec}; still open: {marks - ndec}', f'- paragraphs changed to carry out a decision (data/import_fixes.json, replace_en): {nrep}' + (f'; NOT APPLIED (paragraph not found): {len(miss)}: ' + ', '.join(miss[:8]) if miss else ''), '',
            '## Left behind on purpose'] + [f'- {k}: {v}' for k, v in sorted(st.items())]
     open(os.path.join(P['review'], 'import_report.md'), 'w', encoding='utf8').write('\n'.join(rep) + '\n'); print('\n'.join(rep))
