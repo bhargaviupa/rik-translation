@@ -60,28 +60,32 @@
 | Sāṃ. Śrau. Sū. | ಸಾಂ. ಶ್ರೌ. ಸೂ. | Śāṅkhāyana Śrauta-sūtra |
 | Uṇ. Sū. | ಉಣ್. ಸೂ. | Uṇādi-sūtra (the legend has U. Sū.) |
 | A. Ve. | ಅ. ವೇ. | Atharvaveda (the legend has Ath. Saṃ.) |
+| Tai. Saṃ. Bhā. | ತೈ. ಸಂ. ಭಾ. | Sāyaṇa's bhāṣya on the Taittirīya Saṃhitā |
 
 ## 3. Known and suspected mistakes (of the machine reading, the print, or the translation)
 
 | Form met | Kannada form | Stands for | Note |
 |---|---|---|---|
-| Si. | ಸಿ. | Ni. | machine misreading of ನಿ. (user's reading of the print, Nov 9 2026) |
-| Mi. Saṃ. | ಮಿ. ಸಂ. | Ṛ. Saṃ. | machine misreading of ಋ. ಸಂ. (user, Nov 9 2026) |
-| Ma. Saṃ. | ಮ. ಸಂ. | Ṛ. Saṃ. | machine misreading of ಋ. ಸಂ. (user, Nov 9 2026) |
-| Pu. Saṃ. | ಪು. ಸಂ. | Ṛ. Saṃ. | machine misreading of ಋ. ಸಂ. (user, Nov 9 2026) |
-| Mu. Saṃ. | ಮು. ಸಂ. | Ṛ. Saṃ.? | probably the same misreading; to confirm |
-| I. Brā. | ಇ. ಬ್ರಾ. | Ai. Brā. | machine misreading of ಐ. ಬ್ರಾ. |
-| I. Ā. | ಇ. ಆ. | Ai. Ā.? | probably ಐ. ಆ.; to confirm |
-| I. U. | ಇ. ಉ. | Ai. U.? | probably ಐ. ಉ.; to confirm |
-| Trai. U. | ತ್ರೈ. ಉ. | Tai. U.? | printed or misread for ತೈ. ಉ.; to confirm |
-| Trai. Ā. | ತ್ರೈ. ಆ. | Tai. Ā.? | printed or misread for ತೈ. ಆ.; to confirm |
-| Śai. Saṃ. | ಶೈ. ಸಂ. | Tai. Saṃ.? | probably ತೈ. ಸಂ.; to confirm |
-| Śai. Brā. | ಶೈ. ಬ್ರಾ. | Tai. Brā.? | probably ತೈ. ಬ್ರಾ.; to confirm |
-| Kṛ. Saṃ. | ಕೃ. ಸಂ. | ? | not in the legend; unknown (Ṛ. Saṃ. or Tai. Saṃ. misread?) |
-| Kṛ. U. | ಕೃ. ಉ. | ? | not in the legend; unknown |
-| Bhā. U. | ಭಾ. ಉ. | Bṛ. U.? | probably ಬೃ. ಉ.; to confirm |
-| Atha. Saṃ. | ಅಥ. ಸಂ. | Ath. Saṃ. | variant spelling of the legend's form |
-| Ṛgve. | ಋಗ್ವೇ. | Ṛ. Saṃ.? | variant; to confirm |
-| Ṛg. | ಋಗ್. | Ṛ. Saṃ.? | variant; to confirm |
+| Si. | ಸಿ. | Ni. | decided by the user, Nov 14 2026 (machine misreading) |
+| Mi. Saṃ. | ಮಿ. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |
+| Ma. Saṃ. | ಮ. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |
+| Pu. Saṃ. | ಪು. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |
+| Mu. Saṃ. | ಮು. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |
+| I. Brā. | ಇ. ಬ್ರಾ. | Ai. Brā. | decided by the user, Nov 14 2026 (machine misreading) |
+| I. Ā. | ಇ. ಆ. | Ai. Ā. | decided by the user, Nov 14 2026 |
+| I. U. | ಇ. ಉ. | Ai. U. | decided by the user, Nov 14 2026 |
+| Trai. U. | ತ್ರೈ. ಉ. | Tai. U. | decided by the user, Nov 14 2026 |
+| Trai. Ā. | ತ್ರೈ. ಆ. | Tai. Ā. | decided by the user, Nov 14 2026 |
+| Śai. Saṃ. | ಶೈ. ಸಂ. | Tai. Saṃ. | decided by the user, Nov 14 2026 |
+| Śai. Brā. | ಶೈ. ಬ್ರಾ. | Tai. Brā. | decided by the user, Nov 14 2026 |
+| Kṛ. Saṃ. | ಕೃ. ಸಂ. | Tai. Saṃ. | decided by the user, Nov 14 2026 |
+| Kṛ. U. | ಕೃ. ಉ. | Tai. U. | decided by the user, Nov 14 2026 |
+| Bhā. U. | ಭಾ. ಉ. | Bṛ. U. | decided by the user, Nov 14 2026 |
+| Atha. Saṃ. | ಅಥ. ಸಂ. | Ath. Saṃ. | decided by the user, Nov 14 2026 |
+| Ṛgve. | ಋಗ್ವೇ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |
+| Ṛg. | ಋಗ್. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |
+| Kṛ. Ā. | ಕೃ. ಆ. | Tai. Ā. | decided by the user, Nov 14 2026 |
+| Manu. | ಮನು. | Ma. Smṛ. | decided by the user, Nov 14 2026 |
+| Ā. Gṛ. | ಆ. ಗೃ. | Ā. Gṛ. Sū. | decided by the user, Nov 14 2026 |
 
 A form marked "?" or "to confirm" is not corrected anywhere until the editor decides; it is only reported.

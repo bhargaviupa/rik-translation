@@ -99,5 +99,432 @@
     ]
    ]
   }
+ ],
+ "replace_en": [
+  {
+   "unit": "17.front.preface",
+   "old": "(Kṛ. U. 4-14) ⟨NOTE:2⟩",
+   "new": "(Tai. U. 4-14) ⟨NOTE:2⟩",
+   "notes": [
+    2
+   ],
+   "why": "changed for note(s) 2"
+  },
+  {
+   "unit": "17.3.040.01.vishesha",
+   "old": "(13) इनशब्दस्येश्वरवाचकस्याकारलोपे सति नकारांतमिन्निति पदं भवति । द्य भय इति धातुः । स च परमेश्वरः शत्रूणां दारयिता भीषयितेतींद्रः ॥ (*inaśabdasyeśvaravācakasyākāralope sati nakārāṃtaminniti padaṃ bhavati | dya bhaya iti dhātuḥ | sa ca parameśvaraḥ śatrūṇāṃ dārayitā bhīṣayitetīṃdraḥ ‖*)—The word ina denotes the Lord. If the vowel a over the n of this word ina is dropped, the word in remains. The root dṛ⟨NOTE:10⟩ means fear. That god, the Supreme Lord, causes fear to enemies; hence the name Indra.",
+   "new": "(13) इनशब्दस्येश्वरवाचकस्याकारलोपे सति नकारांतमिन्निति पदं भवति । दृ भय इति धातुः । स च परमेश्वरः शत्रूणां दारयिता भीषयितेतींद्रः ॥ (*inaśabdasyeśvaravācakasyākāralope sati nakārāṃtaminniti padaṃ bhavati | dṛ bhaya iti dhātuḥ | sa ca parameśvaraḥ śatrūṇāṃ dārayitā bhīṣayitetīṃdraḥ ‖*)—The word ina denotes the Lord. If the vowel a over the n of this word ina is dropped, the word in remains. The root dṛ⟨NOTE:10⟩ means fear. That god, the Supreme Lord, causes fear to enemies; hence the name Indra.",
+   "notes": [
+    10
+   ],
+   "why": "changed for note(s) 10"
+  },
+  {
+   "unit": "17.3.040.02.vishesha",
+   "old": "वृषस्व (*vṛṣasva*)—जठरे सिंच । यथा नाभेरधो न पतति तथा धारयेति भावः । (*jaṭhare siṃca | yathā nābheradho na patati tathā dhārayeti bhāvaḥ |*) In this verse it is plainly said पिब (*piba*), \"drink the Soma juice\"; is not the use of the word वृषस्व (*vṛṣasva*) then useless? The answer: since Indra is famous as extremely fond of drinking Soma juice, the use of the two words पिब (*piba*) and वृषभ (*vṛṣabha*) ⟨NOTE:12⟩ is also proper, to stress plainly: \"when drinking Soma, drink as much as you wish, so that it does not fall below the navel, and drink so that the inner part of the belly is well soaked and refreshed.\"",
+   "new": "वृषस्व (*vṛṣasva*)—जठरे सिंच । यथा नाभेरधो न पतति तथा धारयेति भावः । (*jaṭhare siṃca | yathā nābheradho na patati tathā dhārayeti bhāvaḥ |*) In this verse it is plainly said पिब (*piba*), \"drink the Soma juice\"; is not the use of the word वृषस्व (*vṛṣasva*) then useless? The answer: since Indra is famous as extremely fond of drinking Soma juice, the use of the two words पिब (*piba*) and वृषस्व (*vṛṣasva*) ⟨NOTE:12⟩ is also proper, to stress plainly: \"when drinking Soma, drink as much as you wish, so that it does not fall below the navel, and drink so that the inner part of the belly is well soaked and refreshed.\"",
+   "notes": [
+    12
+   ],
+   "why": "changed for note(s) 12"
+  },
+  {
+   "unit": "17.3.041.04.pratipada",
+   "old": "- पल्पडुव (*palpaḍuva*)—(…performed) ⟨NOTE:17⟩",
+   "new": "- माडल्पडुव (*māḍalpaḍuva*)—(…performed) ⟨NOTE:17⟩",
+   "notes": [
+    17
+   ],
+   "why": "changed for note(s) 17"
+  },
+  {
+   "unit": "17.3.041.09.pratipada",
+   "old": "- धृतस्नू (*dhṛtasnū*)—your horses with bodies shining like ghee (or covered with sweat) ⟨NOTE:18⟩",
+   "new": "- घृतस्नू (*ghṛtasnū*)—your horses with bodies shining like ghee (or covered with sweat) ⟨NOTE:18⟩",
+   "notes": [
+    18
+   ],
+   "why": "changed for note(s) 18"
+  },
+  {
+   "unit": "17.3.044.02.vishesha",
+   "old": "As the words of the Supreme Person say, उत्तीदेयुरिमे लोकाः न कुर्यां कर्म चेदहं (*uttīdeyurime lokāḥ na kuryāṃ karma cedahaṃ*)⟨NOTE:29⟩—\"if I did not perform action, all the worlds would perish\"—so, if Indra, the lord of the universe, were not constantly engaged in action useful for the conduct of the world, the ruin of the world would be certain. He is the cause of the appearance of Dawn and of the rising of the sun. As described in स्वराजः, महतः, ते (*svarājaḥ, mahataḥ, te*) (Ṛ. Saṃ. 3-46-1), he alone is lord of the whole universe and holds sovereign rank. Even so, because the performance of sacrifice nourishes the world and is the cause of the growth of prosperity of the whole world, of gods, men and others, it is said that Indra honoured Dawn and the Sun, the primary causes of that sacrifice. The purport of the present Ṛk is that, though himself the lord, he worshipped his own creation, which nourishes the world.",
+   "new": "As the words of the Supreme Person say, उत्सीदेयुरिमे लोकाः न कुर्यां कर्म चेदहं (*utsīdeyurime lokāḥ na kuryāṃ karma cedahaṃ*)⟨NOTE:29⟩—\"if I did not perform action, all the worlds would perish\"—so, if Indra, the lord of the universe, were not constantly engaged in action useful for the conduct of the world, the ruin of the world would be certain. He is the cause of the appearance of Dawn and of the rising of the sun. As described in स्वराजः, महतः, ते (*svarājaḥ, mahataḥ, te*) (Ṛ. Saṃ. 3-46-1), he alone is lord of the whole universe and holds sovereign rank. Even so, because the performance of sacrifice nourishes the world and is the cause of the growth of prosperity of the whole world, of gods, men and others, it is said that Indra honoured Dawn and the Sun, the primary causes of that sacrifice. The purport of the present Ṛk is that, though himself the lord, he worshipped his own creation, which nourishes the world.",
+   "notes": [
+    29
+   ],
+   "why": "changed for note(s) 29"
+  },
+  {
+   "unit": "17.3.044.03.summary",
+   "old": "This Indra upheld the heaven that is हरिधायसं (*haridhāyasaṃ*): the green-hued supporters (dhāyasaḥ) of which are रत्नयो (*ratnayo*)⟨NOTE:30⟩. Likewise he upheld the earth, हरिवर्पसं (*harivarpasaṃ*), green with plants.",
+   "new": "This Indra upheld the heaven that is हरिधायसं (*haridhāyasaṃ*): the green-hued supporters (dhāyasaḥ) of which are रश्मयो (*raśmayo*)⟨NOTE:30⟩. Likewise he upheld the earth, हरिवर्पसं (*harivarpasaṃ*), green with plants.",
+   "notes": [
+    30
+   ],
+   "why": "changed for note(s) 30"
+  },
+  {
+   "unit": "17.3.046.03.vishesha",
+   "old": "ऋजीषी (*ṛjīṣī*)—This epithet is because he is accompanied by Soma. It is used chiefly in describing the nature of Indra and the Maruts. In such contexts as \"अमत्रेभिर्यजीषिणिमिंद्रं (*amatrebhiryajīṣiṇimiṃdraṃ*)\" (Ṛ. Saṃ. 6-42-2) ⟨NOTE:36⟩ the word ṛjīṣa is explained as power; it is explained as \"of Indra, who has obtained power that obstructs enemies\". But in many contexts this epithet is well known precisely because he is accompanied by Soma.",
+   "new": "ऋजीषी (*ṛjīṣī*)—This epithet is because he is accompanied by Soma. It is used chiefly in describing the nature of Indra and the Maruts. In such contexts as \"अमत्रेभिर्ऋजीषिणिमिंद्रं (*amatrebhirṛjīṣiṇimiṃdraṃ*)\" (Ṛ. Saṃ. 6-42-2) ⟨NOTE:36⟩ the word ṛjīṣa is explained as power; it is explained as \"of Indra, who has obtained power that obstructs enemies\". But in many contexts this epithet is well known precisely because he is accompanied by Soma.",
+   "notes": [
+    36
+   ],
+   "why": "changed for note(s) 36"
+  },
+  {
+   "unit": "17.3.046.05.pratipada",
+   "old": "- अध्वरवः (*adhvaravaḥ*)—the Adhvaryus ⟨NOTE:37⟩",
+   "new": "- अध्वर्यवः (*adhvaryavaḥ*)—the Adhvaryus ⟨NOTE:37⟩",
+   "notes": [
+    37
+   ],
+   "why": "changed for note(s) 37"
+  },
+  {
+   "unit": "17.3.046.05.pratipada",
+   "old": "- पातनै (*pātanai*)—for drinking ⟨NOTE:38⟩",
+   "new": "- पातवै (*pātavai*)—for drinking ⟨NOTE:38⟩",
+   "notes": [
+    38
+   ],
+   "why": "changed for note(s) 38"
+  },
+  {
+   "unit": "17.3.047.04.summary",
+   "old": "The Ṛk ये त्वाहिहत्ये (*ye tvāhihatye*) is the yājyā in the Marutvatīya śastra. It is prescribed by the sūtra ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14). O Maghavan Indra, the Maruts who in the work of slaying Ahi (Vṛtra) strengthened you by giving you strength, with words such as \"strike, blessed one, slay, show your valour\"; and, O Harivān (possessor of horses) Indra, those who strengthened you in the battle connected with the slaying of Śambara. That Indra slew Śambara is stated by a mantra passage: यः शंबरं पर्वतेषु क्षियंतं चत्वारिंश्यां शरद्यन्वविंदत् । ओजायमानं यो अहिं जघान । (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ catvāriṃśyāṃ śaradyanvaviṃdat | ojāyamānaṃ yo ahiṃ jaghāna |*) (Ṛgve. 2-12-11)⟨NOTE:39⟩. Likewise the Maruts who strengthened you in the battle for cattle, गविष्टौ (*gaviṣṭau*), against the asuras named Paṇis; and the wise",
+   "new": "The Ṛk ये त्वाहिहत्ये (*ye tvāhihatye*) is the yājyā in the Marutvatīya śastra. It is prescribed by the sūtra ये त्वाहिहत्ये मघवन्नवर्धन्निति याज्या (*ye tvāhihatye maghavannavardhanniti yājyā*) (Ā. 5-14). O Maghavan Indra, the Maruts who in the work of slaying Ahi (Vṛtra) strengthened you by giving you strength, with words such as \"strike, blessed one, slay, show your valour\"; and, O Harivān (possessor of horses) Indra, those who strengthened you in the battle connected with the slaying of Śambara. That Indra slew Śambara is stated by a mantra passage: यः शंबरं पर्वतेषु क्षियंतं चत्वारिंश्यां शरद्यन्वविंदत् । ओजायमानं यो अहिं जघान । (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ catvāriṃśyāṃ śaradyanvaviṃdat | ojāyamānaṃ yo ahiṃ jaghāna |*) (Ṛ. Saṃ. 2-12-11)⟨NOTE:39⟩. Likewise the Maruts who strengthened you in the battle for cattle, गविष्टौ (*gaviṣṭau*), against the asuras named Paṇis; and the wise",
+   "notes": [
+    39
+   ],
+   "why": "changed for note(s) 39"
+  },
+  {
+   "unit": "17.3.047.05.summary",
+   "old": "The block opens by completing the explanation of अकवारिं (*akavāriṃ*) begun on the previous page.⟨NOTE:42⟩ A mantra is cited in support: स्वरिरमत्तो ववक्षे रणाय (*svariramatto vavakṣe raṇāya*) (Ṛgve. 1-61-9).⟨NOTE:43⟩ Then he glosses the remaining words. दिव्यं (*divyaṃ*): dwelling in heaven. शासं (*śāsaṃ*): the ruler who governs by beneficial instruction and by warding off harm. विश्वासाहं (*viśvāsāhaṃ*): the overcomer of every adversary. उग्रं (*ugraṃ*): formidable against enemies. सहोदां (*sahodāṃ*): the giver of strength to the Maruts, his allies in battle. Indra, so endowed, we call to this rite for new, that is, fresher protection (नूतनाय (*nūtanāya*), अवसे (*avase*), हुवेम (*huvema*): \"we invoke you\"). The rest of the block is grammar on नूतनाय (*nūtanāya*).",
+   "new": "The block opens by completing the explanation of अकवारिं (*akavāriṃ*) begun on the previous page.⟨NOTE:42⟩ A mantra is cited in support: स्वरिरमत्तो ववक्षे रणाय (*svariramatto vavakṣe raṇāya*) (Ṛ. Saṃ. 1-61-9).⟨NOTE:43⟩ Then he glosses the remaining words. दिव्यं (*divyaṃ*): dwelling in heaven. शासं (*śāsaṃ*): the ruler who governs by beneficial instruction and by warding off harm. विश्वासाहं (*viśvāsāhaṃ*): the overcomer of every adversary. उग्रं (*ugraṃ*): formidable against enemies. सहोदां (*sahodāṃ*): the giver of strength to the Maruts, his allies in battle. Indra, so endowed, we call to this rite for new, that is, fresher protection (नूतनाय (*nūtanāya*), अवसे (*avase*), हुवेम (*huvema*): \"we invoke you\"). The rest of the block is grammar on नूतनाय (*nūtanāya*).",
+   "notes": [
+    42,
+    43
+   ],
+   "why": "changed for note(s) 43"
+  },
+  {
+   "unit": "17.3.047.05.vishesha",
+   "old": "The word kuvāri⟨NOTE:44⟩ in general means a man who is extremely selfish, miserly, performs no sacrifice and leads a contemptible life. In the present ṛk, where akavārim stands, the word kava means a small, despised person, and the compound is kava-ari: a petty enemy. One who is not a kavāri is an akavāri, that is, an enemy of great power; or an abundant number may also be indicated by it. It is an epithet showing Indra's greatness: one who can face such enemies.",
+   "new": "The word kavāri⟨NOTE:44⟩ in general means a man who is extremely selfish, miserly, performs no sacrifice and leads a contemptible life. In the present ṛk, where akavārim stands, the word kava means a small, despised person, and the compound is kava-ari: a petty enemy. One who is not a kavāri is an akavāri, that is, an enemy of great power; or an abundant number may also be indicated by it. It is an epithet showing Indra's greatness: one who can face such enemies.",
+   "notes": [
+    44
+   ],
+   "why": "changed for note(s) [44]"
+  },
+  {
+   "unit": "17.3.048.05.pratipada",
+   "old": "- संचितं (*saṃcitaṃ*)—you who gather it and give it (to us) ⟨NOTE:47⟩",
+   "new": "- संजितं (*saṃjitaṃ*)—you who gather it and give it (to us) ⟨NOTE:47⟩",
+   "notes": [
+    47
+   ],
+   "why": "changed for note(s) [47]"
+  },
+  {
+   "unit": "17.3.050.01.pratipada",
+   "old": "- विभिः (*vibhiḥ*)—by these, given by us ⟨NOTE:54⟩",
+   "new": "- एभिः (*ebhiḥ*)—by these, given by us ⟨NOTE:54⟩",
+   "notes": [
+    54
+   ],
+   "why": "changed for note(s) [54]"
+  },
+  {
+   "unit": "17.3.050.01.pratipada",
+   "old": "- तन्नः (*tannaḥ*)—to the body ⟨NOTE:55⟩",
+   "new": "- तन्वः (*tanvaḥ*)—to the body ⟨NOTE:55⟩",
+   "notes": [
+    55
+   ],
+   "why": "changed for note(s) [55]"
+  },
+  {
+   "unit": "17.3.050.02.pratipada",
+   "old": "- सुष्टुतस्य (*suṣṭutasya*)—of what is excellently pressed ⟨NOTE:56⟩",
+   "new": "- सुषुतस्य (*suṣutasya*)—of what is excellently pressed ⟨NOTE:56⟩",
+   "notes": [
+    56
+   ],
+   "why": "changed for note(s) [56]"
+  },
+  {
+   "unit": "17.3.050.03.pratipada",
+   "old": "- ज्येष्ठाय (*jyeṣṭhāya*)—for excellent wealth and other prosperity ⟨NOTE:57⟩",
+   "new": "- ज्यैष्ठाय (*jyaiṣṭhāya*)—for excellent wealth and other prosperity ⟨NOTE:57⟩",
+   "notes": [
+    57
+   ],
+   "why": "changed for note(s) [57]"
+  },
+  {
+   "unit": "17.3.050.03.pratipada",
+   "old": "- यजीषिन् (*yajīṣin*)—O Indra, possessor of Soma ⟨NOTE:58⟩",
+   "new": "- ऋजीषिन् (*ṛjīṣin*)—O Indra, possessor of Soma ⟨NOTE:58⟩",
+   "notes": [
+    58
+   ],
+   "why": "changed for note(s) [58]"
+  },
+  {
+   "unit": "17.3.050.04.pratipada",
+   "old": "- स्वरवः (*svaravaḥ*)—those who desire the happiness of heaven and the like ⟨NOTE:59⟩",
+   "new": "- स्वःयवः (*svaḥyavaḥ*)—those who desire the happiness of heaven and the like ⟨NOTE:59⟩",
+   "notes": [
+    59
+   ],
+   "why": "changed for note(s) [59]"
+  },
+  {
+   "unit": "17.3.051.00.intro",
+   "old": "The sūkta beginning चर्षणीधृतं (*carṣaṇīdhṛtaṃ*) has twelve Ṛks and is Vaiśvāmitra (its seer is Viśvāmitra) and Aindra (its deity is Indra). The Anukramaṇikā says: चर्षणीधृतं द्वादशाद्यांत्यौ तृचौ जागतगायत्राविति (*carṣaṇīdhṛtaṃ dvādaśādyāṃtyau tṛcau jāgatagāyatrāviti*), i.e. the first triplet is in Jagatī, the last triplet in Gāyatrī, and the remaining Ṛks are in Triṣṭubh. The use of the sūkta is Laiṅgika (by the indication of the text). In the ukthya rite (the Kannada reading उक्ते क्रत्वा (*ukte kratvā*) is garbled) ⟨NOTE:60⟩, in the Maitrāvaruṇa śastra, after the anurūpa triplet, the first triplet of this sūkta is to be recited. It is stated in the sūtra: चर्षणीधृतमस्तभ्नाद्दामसुर इति तृचौ (*carṣaṇīdhṛtamastabhnāddāmasura iti tṛcau*) (Ā. 6-1). At the Viṣuvat in the niṣkevalya the triplet नृणामु त्वा (*nṛṇāmu tvā*) is used; this is stated in the Viṣuvān section: नृणामु त्वा नृतमं गीर्भिरुक्थैरिति शिस्त्रः (*nṛṇāmu tvā nṛtamaṃ gīrbhirukthairiti śistraḥ*) ⟨NOTE:61⟩ (Ā. 8-6). In the Bṛhaspatisava also this triplet is used as the nivid in the niṣkevalya; the sūtra says: नृणामु त्वैति मध्यंदिनः (*nṛṇāmu tvaiti madhyaṃdinaḥ*) (Ā. 9-5). In the Mahāvrata also this triplet is used in the niṣkevalya.",
+   "new": "The sūkta beginning चर्षणीधृतं (*carṣaṇīdhṛtaṃ*) has twelve Ṛks and is Vaiśvāmitra (its seer is Viśvāmitra) and Aindra (its deity is Indra). The Anukramaṇikā says: चर्षणीधृतं द्वादशाद्यांत्यौ तृचौ जागतगायत्राविति (*carṣaṇīdhṛtaṃ dvādaśādyāṃtyau tṛcau jāgatagāyatrāviti*), i.e. the first triplet is in Jagatī, the last triplet in Gāyatrī, and the remaining Ṛks are in Triṣṭubh. The use of the sūkta is Laiṅgika (by the indication of the text). In the ukthya rite (the Kannada reading उक्ते क्रत्वा (*ukte kratvā*) is garbled) ⟨NOTE:60⟩, in the Maitrāvaruṇa śastra, after the anurūpa triplet, the first triplet of this sūkta is to be recited. It is stated in the sūtra: चर्षणीधृतमस्तभ्नाद्दामसुर इति तृचौ (*carṣaṇīdhṛtamastabhnāddāmasura iti tṛcau*) (Ā. 6-1). At the Viṣuvat in the niṣkevalya the triplet नृणामु त्वा (*nṛṇāmu tvā*) is used; this is stated in the Viṣuvān section: नृणामु त्वा नृतमं गीर्भिरुक्थैरिति तिस्रः (*nṛṇāmu tvā nṛtamaṃ gīrbhirukthairiti tisraḥ*) ⟨NOTE:61⟩ (Ā. 8-6). In the Bṛhaspatisava also this triplet is used as the nivid in the niṣkevalya; the sūtra says: नृणामु त्वैति मध्यंदिनः (*nṛṇāmu tvaiti madhyaṃdinaḥ*) (Ā. 9-5). In the Mahāvrata also this triplet is used in the niṣkevalya.",
+   "notes": [
+    60,
+    61
+   ],
+   "why": "changed for note(s) [61]"
+  },
+  {
+   "unit": "17.3.051.01.pratipada",
+   "old": "- उक्ष्यं (*ukṣyaṃ*)—the one praised by hymns in the form of ukṣa ⟨NOTE:62⟩",
+   "new": "- उक्ष्यं (*ukṣyaṃ*)—the one praised by hymns in the form of ukta ⟨NOTE:62⟩",
+   "notes": [
+    62
+   ],
+   "why": "changed for note(s) [62]"
+  },
+  {
+   "unit": "17.3.051.06.vishesha",
+   "old": "जरितृभ्यः वयः धाः (*jaritṛbhyaḥ vayaḥ dhāḥ*)—स्तोतृभ्योऽस्मभ्यमन्नं वेहि । (*stotṛbhyo 'smabhyamannaṃ vehi |*) Favour us, who sing praise, by giving अत्मनन्नु (*atmanannu*). ⟨NOTE:65⟩ The words अवः (*avaḥ*) and वयः (*vayaḥ*) are read among the names of food (Ni. 3-9).",
+   "new": "जरितृभ्यः वयः धाः (*jaritṛbhyaḥ vayaḥ dhāḥ*)—स्तोतृभ्योऽस्मभ्यमन्नं वेहि । (*stotṛbhyo 'smabhyamannaṃ vehi |*) Favour us, who sing praise, by giving अन्नवन्नु (*annavannu*). ⟨NOTE:65⟩ The words अवः (*avaḥ*) and वयः (*vayaḥ*) are read among the names of food (Ni. 3-9).",
+   "notes": [
+    65
+   ],
+   "why": "changed for note(s) [65]"
+  },
+  {
+   "unit": "17.3.054.21.pratipada",
+   "old": "- उत् आश्ल्यां (*ut āślyāṃ*)—may I obtain ⟨NOTE:108⟩",
+   "new": "- उत् अश्यां (*ut aśyāṃ*)—may I obtain ⟨NOTE:108⟩",
+   "notes": [
+    108
+   ],
+   "why": "changed for note(s) [108]"
+  },
+  {
+   "unit": "17.3.054.22.vishesha",
+   "old": "That in the animal sacrifice, when the puroḍāśa-sviṣṭakṛt offering is made, this ṛc सदस्य हव्या (*sadasya havyā*) ⟨NOTE:111⟩ is to be recited as the yājyā mantra, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra सदस्व हव्या समिषो दिदीहीति पुरोडाशस्विस्थकृतः (*sadasva havyā samiṣo didīhīti puroḍāśasvisthakṛtaḥ*) (Ā. 3-5). The wishes prayed for are these: may Agni taste the oblations offered by the sacrificers; grant food to the sacrificers; provide bright foods easily; conquer the sacrificers' enemies; be gracious towards the sacrificers; and grant that rites such as the Agnihotra be accomplished without obstacle.",
+   "new": "That in the animal sacrifice, when the puroḍāśa-sviṣṭakṛt offering is made, this ṛc स्वदस्व हव्या (*svadasva havyā*) ⟨NOTE:111⟩ is to be recited as the yājyā mantra, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra सदस्व हव्या समिषो दिदीहीति पुरोडाशस्विस्थकृतः (*sadasva havyā samiṣo didīhīti puroḍāśasvisthakṛtaḥ*) (Ā. 3-5). The wishes prayed for are these: may Agni taste the oblations offered by the sacrificers; grant food to the sacrificers; provide bright foods easily; conquer the sacrificers' enemies; be gracious towards the sacrificers; and grant that rites such as the Agnihotra be accomplished without obstacle.",
+   "notes": [
+    111
+   ],
+   "why": "changed for note(s) [111]"
+  },
+  {
+   "unit": "17.3.055.14.pratipada",
+   "old": "- त्रैविं (*traiviṃ*)—Āditya, who is like a son of one and a half years ⟨NOTE:123⟩",
+   "new": "- त्र्यविं (*tryaviṃ*)—Āditya, who is like a son of one and a half years ⟨NOTE:123⟩",
+   "notes": [
+    123
+   ],
+   "why": "changed for note(s) [123]"
+  },
+  {
+   "unit": "17.3.055.17.pratipada",
+   "old": "- गोरवीति (*goravīti*)—makes a sound by means of the cloud ⟨NOTE:126⟩",
+   "new": "- रोरवीति (*roravīti*)—makes a sound by means of the cloud ⟨NOTE:126⟩",
+   "notes": [
+    126
+   ],
+   "why": "changed for note(s) [126]"
+  },
+  {
+   "unit": "17.3.055.22.pratipada",
+   "old": "- नामभाजः स्याम (*nāmabhājaḥ syāma*)—may we enjoy all these riches ⟨NOTE:134⟩",
+   "new": "- वामभाजः स्याम (*vāmabhājaḥ syāma*)—may we enjoy all these riches ⟨NOTE:134⟩",
+   "notes": [
+    134
+   ],
+   "why": "changed for note(s) [134]"
+  },
+  {
+   "unit": "17.3.058.01.vishesha",
+   "old": "सोमः (*somaḥ*)—this word means \"praise\". ⟨NOTE:184⟩. In some contexts it is also used of the praiser.",
+   "new": "स्तोमः (*stomaḥ*)—this word means \"praise\". ⟨NOTE:184⟩. In some contexts it is also used of the praiser.",
+   "notes": [
+    184
+   ],
+   "why": "changed for note(s) [184]"
+  },
+  {
+   "unit": "17.3.058.09.pratipada",
+   "old": "- मधषुत्तमः (*madhaṣuttamaḥ*)—full of sweet juice ⟨NOTE:192⟩",
+   "new": "- मधुषुत्तमः (*madhuṣuttamaḥ*)—full of sweet juice ⟨NOTE:192⟩",
+   "notes": [
+    192
+   ],
+   "why": "changed for note(s) [192]"
+  },
+  {
+   "unit": "17.3.058.09.pratipada",
+   "old": "- सुतवर्तः (*sutavartaḥ*)—of the sacrificer who has pressed the Soma juice ⟨NOTE:193⟩",
+   "new": "- सुतावतः (*sutāvataḥ*)—of the sacrificer who has pressed the Soma juice ⟨NOTE:193⟩",
+   "notes": [
+    193
+   ],
+   "why": "changed for note(s) [193]"
+  },
+  {
+   "unit": "17.3.059.05.pratipada",
+   "old": "- उपसन्नः (*upasannaḥ*)—one who is approached ⟨NOTE:209⟩",
+   "new": "- उपसद्यः (*upasadyaḥ*)—one who is approached ⟨NOTE:209⟩",
+   "notes": [
+    209
+   ],
+   "why": "note 209: उपसन्नः (*upasannaḥ*) -> उपसद्यः (*upasadyaḥ*)"
+  },
+  {
+   "unit": "17.3.059.05.pratipada",
+   "old": "- तस्यै (*tasyai*)—addressed to that Āditya ⟨NOTE:211⟩",
+   "new": "- तस्मै (*tasmai*)—addressed to that Āditya ⟨NOTE:211⟩",
+   "notes": [
+    211
+   ],
+   "why": "note 211: तस्यै (*tasyai*) -> तस्मै (*tasmai*)"
+  },
+  {
+   "unit": "17.3.060.07.pratipada",
+   "old": "- आयती (*āyatī*)—for man (the sacrificer) ⟨NOTE:227⟩",
+   "new": "- आयवे (*āyave*)—for man (the sacrificer) ⟨NOTE:227⟩",
+   "notes": [
+    227
+   ],
+   "why": "note 227: आयती (*āyatī*) -> आयवे (*āyave*)"
+  },
+  {
+   "unit": "17.4.001.06.summary",
+   "old": "Of the god Agni, सुभगस्य (*subhagasya*) — of good wealth, one who is to be well resorted to — the संदृक् (*saṃdṛk*) (sight, glance) is श्रेष्ठा (*śreṣṭhā*), exceedingly praiseworthy; among mortals it is चित्रतमा (*citratamā*), most to be honoured and worshipped, and it is स्पार्हा (*spārhā*), to be desired by all. An illustration follows. As, for a man who desires milk, the शुचि (*śuci*) (bright, full of splendour) घृतं (*ghṛtaṃ*), the heated (सप्तं (*saptaṃ*)) milk of the अघ्न्या (*aghnyā*) cow that flows forth, is desirable; ⟨NOTE:345⟩ so too the sight is desired. There is a second illustration: as, for a mortal begging for a cow, the मंहना (*maṃhanā*) of a milch cow — मंहति (*maṃhati*) is a root meaning giving — ⟨NOTE:346⟩ that is, as a gift is pleasing, so is it. The rest gives accent and derivation of सुभगस्य (*subhagasya*), स्मार्हा (*smārhā*) and देवस्य (*devasya*) (Grammar section).",
+   "new": "Of the god Agni, सुभगस्य (*subhagasya*) — of good wealth, one who is to be well resorted to — the संदृक् (*saṃdṛk*) (sight, glance) is श्रेष्ठा (*śreṣṭhā*), exceedingly praiseworthy; among mortals it is चित्रतमा (*citratamā*), most to be honoured and worshipped, and it is स्पार्हा (*spārhā*), to be desired by all. An illustration follows. As, for a man who desires milk, the शुचि (*śuci*) (bright, full of splendour) घृतं (*ghṛtaṃ*), the heated (तप्तं (*taptaṃ*)) milk of the अघ्न्या (*aghnyā*) cow that flows forth, is desirable; ⟨NOTE:345⟩ so too the sight is desired. There is a second illustration: as, for a mortal begging for a cow, the मंहना (*maṃhanā*) of a milch cow — मंहति (*maṃhati*) is a root meaning giving — ⟨NOTE:346⟩ that is, as a gift is pleasing, so is it. The rest gives accent and derivation of सुभगस्य (*subhagasya*), स्मार्हा (*smārhā*) and देवस्य (*devasya*) (Grammar section).",
+   "notes": [
+    345
+   ],
+   "why": "note 345: सप्तं (*saptaṃ*) -> तप्तं (*taptaṃ*)"
+  },
+  {
+   "unit": "17.4.001.19.summary",
+   "old": "The sentence continues from the previous block: only praise is made by this sacrificer. The rest of the block is grammatical, on पोचॆय (*pocèya*)⟨NOTE:353⟩, अतृणत् (*atṛṇat*) (with \"milking is itself harming\" noted), and परिषिक्तं (*pariṣiktaṃ*).",
+   "new": "The sentence continues from the previous block: only praise is made by this sacrificer. The rest of the block is grammatical, on वोचेय (*voceya*)⟨NOTE:353⟩, अतृणत् (*atṛṇat*) (with \"milking is itself harming\" noted), and परिषिक्तं (*pariṣiktaṃ*).",
+   "notes": [
+    353
+   ],
+   "why": "note 353: पोचॆय (*pocèya*) -> वोचेय (*voceya*)"
+  },
+  {
+   "unit": "17.4.002.01.pratipada",
+   "old": "- ऋताना (*ṛtānā*)—as protector of truth ⟨NOTE:354⟩",
+   "new": "- ऋतावा (*ṛtāvā*)—as protector of truth ⟨NOTE:354⟩",
+   "notes": [
+    354
+   ],
+   "why": "note 354: ऋताना (*ṛtānā*) -> ऋतावा (*ṛtāvā*)"
+  },
+  {
+   "unit": "17.4.002.02.pratipada",
+   "old": "- वृष्टि (*vṛṣṭi*)—those that are able to shed seed ⟨NOTE:357⟩",
+   "new": "- वृषणः (*vṛṣaṇaḥ*)—those that are able to shed seed ⟨NOTE:357⟩",
+   "notes": [
+    357
+   ],
+   "why": "note 357: वृष्टि (*vṛṣṭi*) -> वृषणः (*vṛṣaṇaḥ*)"
+  },
+  {
+   "unit": "17.4.002.03.pratipada",
+   "old": "- घतस्नू (*ghatasnū*)—those that rain water ⟨NOTE:360⟩",
+   "new": "- घृतस्नू (*ghṛtasnū*)—those that rain water ⟨NOTE:360⟩",
+   "notes": [
+    360
+   ],
+   "why": "note 360: घतस्नू (*ghatasnū*) -> घृतस्नू (*ghṛtasnū*)"
+  },
+  {
+   "unit": "17.4.003.15.pratipada",
+   "old": "- देवताता (*devatātā*)—addressed to the gods ⟨NOTE:376⟩",
+   "new": "- देववाता (*devavātā*)—addressed to the gods ⟨NOTE:376⟩",
+   "notes": [
+    376
+   ],
+   "why": "note 376: देवताता (*devatātā*) -> देववाता (*devavātā*)"
+  },
+  {
+   "unit": "17.4.004.04.pratipada",
+   "old": "- पत्या (*patyā*)—your mass of flames ⟨NOTE:389⟩",
+   "new": "- प्रत्या (*pratyā*)—your mass of flames ⟨NOTE:389⟩",
+   "notes": [
+    389
+   ],
+   "why": "note 389: पत्या (*patyā*) -> प्रत्या (*pratyā*)"
+  },
+  {
+   "unit": "17.4.004.04.pratipada",
+   "old": "- शुक्रं (*śukraṃ*)—dry ⟨NOTE:390⟩",
+   "new": "- शुष्कं (*śuṣkaṃ*)—dry ⟨NOTE:390⟩",
+   "notes": [
+    390
+   ],
+   "why": "note 390: शुक्रं (*śukraṃ*) -> शुष्कं (*śuṣkaṃ*)"
+  },
+  {
+   "unit": "17.4.004.08.pratipada",
+   "old": "- क्षेत्राणि (*kṣetrāṇi*)—riches ⟨NOTE:391⟩",
+   "new": "- क्षत्राणि (*kṣatrāṇi*)—riches ⟨NOTE:391⟩",
+   "notes": [
+    391
+   ],
+   "why": "note 391: क्षेत्राणि (*kṣetrāṇi*) -> क्षत्राणि (*kṣatrāṇi*)"
+  },
+  {
+   "unit": "17.4.006.07.pratipada",
+   "old": "- निक्षु (*nikṣu*)—among the peoples ⟨NOTE:418⟩",
+   "new": "- विक्षु (*vikṣu*)—among the peoples ⟨NOTE:418⟩",
+   "notes": [
+    418
+   ],
+   "why": "note 418: निक्षु (*nikṣu*) -> विक्षु (*vikṣu*)"
+  },
+  {
+   "unit": "17.4.008.02.pratipada",
+   "old": "- आ नक्षति (*ā nakṣati*)—let him bring ⟨NOTE:430⟩",
+   "new": "- आ वक्षति (*ā vakṣati*)—let him bring ⟨NOTE:430⟩",
+   "notes": [
+    430
+   ],
+   "why": "note 430: आ नक्षति (*ā nakṣati*) -> आ वक्षति (*ā vakṣati*)"
+  },
+  {
+   "unit": "17.4.017.05.summary",
+   "old": "Indra is the king, the lord of all subjects (*kṛṣṭi*), invoked by many (*puruhūta*), alone (*eka it*) the chief among the gods. He utterly destroys (*pra cyāvayati*) the *bhūma*, the fear that has arisen from enemies. All sacrificers, *maghonaḥ*, that is, wealthy, possessed of wealth characterised by oblation, aiming at (*anu*) this Indra, who is the friend (*rāti*, \"bandhu\") of the shining (*devasya*, through resorting to Indra) praiser (*gṛṇataḥ*), verily praise him (he reads *nadanti*, \"they praise\").⟨NOTE:460⟩",
+   "new": "Indra is the king, the lord of all subjects (*kṛṣṭi*), invoked by many (*puruhūta*), alone (*eka it*) the chief among the gods. He utterly destroys (*pra cyāvayati*) the *bhūma*, the fear that has arisen from enemies. All sacrificers, *maghonaḥ*, that is, wealthy, possessed of wealth characterised by oblation, aiming at (*anu*) this Indra, who is the friend (*rāti*, \"bandhu\") of the shining (*devasya*, through resorting to Indra) praiser (*gṛṇataḥ*), verily praise him (he reads *madanti*, \"they praise\").⟨NOTE:460⟩",
+   "notes": [
+    460
+   ],
+   "why": "note 460: *nadanti* -> *madanti*"
+  },
+  {
+   "unit": "17.4.018.01.pratipada",
+   "old": "- सत्तवे (*sattave*)—so as to be subject to death ⟨NOTE:467⟩",
+   "new": "- पत्तवे (*pattave*)—so as to be subject to death ⟨NOTE:467⟩",
+   "notes": [
+    467
+   ],
+   "why": "note 467: सत्तवे (*sattave*) -> पत्तवे (*pattave*)"
+  }
  ]
 }
