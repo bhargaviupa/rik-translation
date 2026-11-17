@@ -92,6 +92,7 @@ light, grant us spacious and secure shelter; bestow upon us cattle and food.
 
 ಸಂಹಿತಾಸಾರಃ
 
+[figure: vol5/html/figures/fig_line00095.jpg]
 
 *ಸಂ ನೋ ರಾಯಾ ಬೃಹತಾ ವಿಶ್ವಪೇಶಸಾ ಮಿಮಿಕ್ಷ್ವ
 ಸಮಿಳಾಭಿರಾ |
@@ -2955,6 +2956,7 @@ This image contains a decorative graphic or ornament, not text.
 
 ॥ ಸಂಹಿತಾಪಾರಃ ॥
 
+[figure: vol5/html/figures/fig_line02959.jpg]
 
 *ತ್ವಂ ಗೋತ್ರಮಂಗಿರೋಭ್ಯೋವೃಣೋರಪೋತಾತ್ರಯೇ ಶತದುರೇಷು
 ಗಾತ್ರುವಿತ್ |
@@ -3632,6 +3634,7 @@ oppressors.
 
 *॥ ಸಂಹಿತಾಪಾರಃ ॥*
 
+[figure: vol5/html/figures/fig_line03637.jpg]
 
 *ತ್ವೇ ವಿಶ್ವಾ ತವಿಷೀ ಸಧ್ರ್ಯಗ್ನಿತಾ ತವ ರಾಧಃ ಸೋಮಪೀಥಾಯ
 ಹರ್ಷತೇ |

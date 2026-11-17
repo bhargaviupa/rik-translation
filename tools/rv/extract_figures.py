@@ -12,6 +12,13 @@ root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')); out
 L = open(path, encoding='utf8').read().split('\n'); n = 0; size = 0
 for i, l in enumerate(L):
     m = re.match(r'!\[[^\]]*\]\(data:image/(\w+);base64,([A-Za-z0-9+/=\s]+)\)\s*$', l)
+    h = None if m else re.match(r'(\s*(?:<img\s+)?src=")data:image/(\w+);base64,([A-Za-z0-9+/=\s]+)(".*)$', l)   # pandoc's <img src="data:..."> (Vol 5, Nov 17 2026)
+    if h:
+        ext = {'jpeg': 'jpg'}.get(h.group(2), h.group(2)); name = f'fig_line{i + 1:05d}.{ext}'; data = base64.b64decode(h.group(3)); size += len(data); n += 1
+        if write:
+            os.makedirs(out, exist_ok=True); open(os.path.join(out, name), 'wb').write(data)
+            L[i] = f'{h.group(1)}vol{vol}/html/figures/{name}{h.group(4)}'
+        continue
     if not m: continue
     ext = {'jpeg': 'jpg'}.get(m.group(1), m.group(1)); name = f'fig_line{i + 1:05d}.{ext}'; data = base64.b64decode(m.group(2)); size += len(data); n += 1
     if write:

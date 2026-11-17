@@ -19,7 +19,7 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 | 2 | Maṃ. 1 Sū. 3–19 | scans; **read a second time by the user, in good condition** | 322,000 | 432 | 1,048 | — | no | none | A |
 | 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | no | none | A |
 | 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | no | none | A |
-| 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | yes (2 files; not checked whether complete) | none | A |
+| 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | partly: pp. 2–286 and 486–584 (Nov 17); pp. 287–485 and 585–708 not yet | none | A |
 | 6 | Maṃ. 1 Sū. 62–80 | scans | 238,000 | 575 | 691 | — | no | none | A |
 | 7 | Maṃ. 1 Sū. 81–94 | scans | 229,000 | 1,958 | 416 | — | no | none | A |
 | 8 | Maṃ. 1 Sū. 95–112 | scans | 336,000 | 4,632 | 510 | — | no | none | A |
@@ -47,7 +47,7 @@ Notes of the user on single volumes:
 
 | No. | What | Needed for | State |
 |---|---|---|---|
-| U1 | **Machine-read text** of Vols 2, 3, 4, 6, 7, 8, 9, 10 and 13 (and the rest of Vol 5 if the two files are not the whole volume) | the Kannada books; correcting numbers and Sanskrit by script; reading against the Kannada; translating Vol 13 | [ ] |
+| U1 | **Machine-read text** of Vols 2, 3, 4, 6, 7, 8, 9, 10 and 13, and the rest of Vol 5 (files 4 and 5: pp. 287–485; the end: pp. 585–708) | the Kannada books; correcting numbers and Sanskrit by script; reading against the Kannada; translating Vol 13 | [ ] |
 | U2 | **Rights in the 1949–52 Kannada edition** in writing: who holds them, and permission or proof of public domain | publishing anything at all | [ ] |
 | U3 | **Permission for the accented verses** (the reference text says "personal study only"), or another source that may be published | every verse in every volume | [ ] |
 | U4 | **Portraits and cover**: the old king's and guru's portraits cleared; the present king's and guru's pictures, names and consent; credentials picture | front matter | [ ] |
@@ -89,7 +89,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | 2 | [ ] | [ ] | [ ] | [ ] | [ ] clean-up session: `vol2/CLEANUP_PROMPT.md` | [x] by the user, from scans | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 3 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 4 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 5 | [~] 2 files | [ ] | [ ] | [~] pp. 1–184 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 5 | [~] 4 files, pp. 2–286 and 486–584 | [ ] | [ ] | [~] pp. 1–184 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 6 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 7 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 8 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -140,4 +140,5 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 17 2026: Vol 5 supplied text, files 1, 2, 3 and 6, put in `vol5/html/`.
 - Nov 17 2026: file created for Vols 1–3; the user's assessment of Vol 2 recorded and the prompt for its clean-up session written; the same day extended to all volumes (1–19), with counts taken from the repository on that day.
