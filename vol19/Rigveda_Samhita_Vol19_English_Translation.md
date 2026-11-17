@@ -2470,6 +2470,249 @@ They are detaining by sacrifice the true recipient (of offerings) in the most em
 > स सं॒वतो॒ नव॑जातस्तुतुर्यात्सिं॒हं न क्रु॒द्धम॒भितः॒ परि॑  
 > ष्टुः ॥ ३ ॥
 
+### Printed p. 71
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंहःयुवः ' तन्वः । तन्वते । वि । वयः । महत् । दुस्तरं । पूर्वार्य ।  
+> सः । संवतः । नवजातः । तुतुर्यात् । सिंहं । न । क्रुद्धं । अभितः । परि । स्थुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमानाः पूर्वाय्य मुख्यायास्मा अग्नये महदधिकं दुष्टरं
+> राक्षसैर्दुष्प्रापं वयो हवीरूपमन्नं प्रयच्छंति ते यजमानास्तन्वः स्वास्तनूरंहोयुवोऽंहसा वियोजिका वि तन्नते । विस्तारयंति । नवजातः सोग्निः
+> संवतः संगतान् शत्रून् तुतुर्यात् । तरतु । किंचाभितः सर्वतो वर्तमानाः
+> शत्रवो मां परि वर्जयित्वा स्थुः । तिष्ठेयुः । कथमिव । मृगाः क्रुद्धं सिंहं न
+> सिंहमिव ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers who offer to that Agni, the foremost (पूर्वाय्य (*pūrvāyya*), chief), abundant food, वयो (*vayo*), in the form of the oblation, which is great (महदधिकं (*mahadadhikaṃ*), exceeding) and hard for the Rākṣasas to obtain: those sacrificers free their own bodies from sin (तन्वः (*tanvaḥ*) is their own bodies; अंहोयुवः (*aṃhoyuvaḥ*) means separating from sin) and extend them (वि तन्वते (*vi tanvate*), they spread them out). May the newly born Agni overcome (तुतुर्यात् (*tuturyāt*), तरतु (*taratu*)) the enemies assembled (संवतः (*saṃvataḥ*), संगतान् (*saṃgatān*)). Moreover, may the enemies who are all around keep away from me and stand apart, as animals keep away from an angry lion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which sacrificers
+- पूर्वाय (*pūrvāya*)—to the foremost god Agni
+- महत् (*mahat*)—abundant
+- दुष्टरं (*duṣṭaraṃ*)—and not to be obtained by the Asuras
+- वयः (*vayaḥ*)—food (the oblation) they offer (those sacrificers)
+- तन्वः (*tanvaḥ*)—their bodies
+- अंहोयुवः (*aṃhoyuvaḥ*)—having made them free of sin
+- वि तन्वते (*vi tanvate*)—they cause to grow
+- नवजातः (*navajātaḥ*)—newly born
+- सः (*saḥ*)—Agni
+- संवतः (*saṃvataḥ*)—the enemies gathered round
+- तुतुर्यात् (*tuturyāt*)—may he drive far away
+- क्रुद्धं (*kruddhaṃ*)—angry
+- सिंहं न (*siṃhaṃ na*)—as all the animals, afraid of a lion, stand in very distant regions!
+- अभितः (*abhitaḥ*)—the enemies gathered around me!
+- परि (*pari*)—leaving me (afraid of me)
+- स्थुः (*sthuḥ*)—may they come to stand far away
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who offer to the foremost god Agni the oblation that is most abundant and cannot be obtained by the Asuras make their bodies free of sin and cause them to grow. May the newly born Agni drive far away the enemies who have gathered round. As all the animals, afraid of an angry lion, stand in very distant regions, so may all the enemies, afraid at the sight of me, not come near me but stand far away.
+
+##### English translation
+They who (present) to the chief (of the gods) the great food (of sacrifice, unattainable {by the Rakshasas), enjoy forms exempt from defect: may that new born Agni scatter assembled (hosts): let them stand from around me, as (deer avoid) an angry lion.
+
+### Printed p. 72
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒तेव॒ यद्धर॑से पप्रथा॒नो जनं॑जनं॒ धाय॑से॒ चक्ष॑से च ।  
+> वयो॑वयो जरसे॒ यद्दधा॑नः॒ परि॒ त्मना॒ विषु॑रूपो जिगासि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मात्याइव । यत् । भरसे । पप्रथानः । जनुजनं । धायसे । चक्षसे । च ।  
+> वयःऽवयः । जरसे । यत् । दधानः । परि । त्मना । विषुरूपः । जिगासि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पप्रथानः सर्वत्र प्रथमानो यद्यस्त्वं मातेव जननीव जनं जनं सर्वं
+> जनं भरसे बिभर्षि । किंच दायसे धारणाय चक्षसे दर्शनाय च सर्वैः प्रार्थ्यसे।
+> यद्यदा दधानो धार्यमाणो भवसि तदा वयो वयः सर्वमन्नं जरसे ।
+> जरयसि । अपि च विषुरूपो नानारूपः सन् त्मनात्मना परि जिगासि । सर्वभूतानि
+> परिगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+When you, पप्रथानः (*paprathānaḥ*), spreading everywhere, sustain every man like a mother; and when, for support (धायसे (*dhāyase*), धारणाय (*dhāraṇāya*)) and for seeing (चक्षसे (*cakṣase*), दर्शनाय (*darśanāya*)), you are prayed to by all; and when you are being held (दधानो (*dadhāno*), धार्यमाणो (*dhāryamāṇo*)), then you bring to maturity (जरयसि (*jarayasi*)) all food, वयो वयः (*vayo vayaḥ*). Moreover, being विषुरूपो (*viṣurūpo*), of manifold form, you go round all beings by yourself (त्मनात्मना (*tmanātmanā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यत् (*yat*)—when
+- पप्रथानः (*paprathānaḥ*)—having gained increase everywhere
+- मातेव (*māteva*)—like a mother
+- जनंजनं (*janaṃjanaṃ*)—all people
+- भरसे (*bharase*)—you bear (when)
+- धायसे (*dhāyase*)—for the support of the world
+- चक्षसे च (*cakṣase ca*)—and also for looking graciously (you are prayed to, when)
+- And यत् (*yat*)—when
+- दधानः (*dadhānaḥ*)—being held by all
+- वयो वयः (*vayo vayaḥ*)—all food
+- चरसे (*carase*)—you cause to ripen (then)
+- विषुरूपः (*viṣurūpaḥ*)—possessing forms of many kinds
+- त्मना (*tmanā*)—by your own greatness
+- परि जिगासि (*pari jigāsi*)—you pervade everything and make it enter into yourself
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when, having gained increase everywhere, you bear all people like a mother, and are prayed to for the support of the world and for looking on it with a gracious eye, and when, held by all, you cause all food to ripen, then, possessing forms of many kinds, you pervade everything by your own greatness and make it enter into yourself.
+
+### Printed p. 73
+
+##### English translation
+When, everywhere predominating, you cherish all men like a mother, and (are implored by all) to behold and to support them : and when, being detained, you mature every kind of food, then, multiform (Agni), you comprise (all beings) in yourself.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाजो॒ नु ते॒ शव॑सस्पा॒त्वंत॑मु॒रं दोघं॑ ध॒रुणं॑ देव  ॒
+> रायः ।  
+> प॒दं न ता॒युर्गुहा॒ धधा॑नो म॒हो रा॒ये चि॒तय॒न्नत्रि॑मस्पः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाजः । नु । ते । शवसः । पातु । अंतं । उरुं । दोघं । धरुणं ! देव । रायः ।  
+> पदं । न । तायुः । गुहा । दधानः । महः । राये । चितयन् । अत्रिं । अस्परित्यस्पः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमानाग्ने उरुं पृथुं दोघं कामानां दोग्धारं रायो
+> धनस्य धरुणं धारकं वाजो हविर्लक्षणमन्नं ते त्वदीयस्य शवसो बलस्यांतं
+> समाप्तिं संपूर्तिं नु अद्य पातु । रक्षतु । तायुर्न तस्करो यथा गुहा
+> गुहायां पदं द्रव्यं दधानो धारयन् रक्षति तद्वत् महो महते राये
+> धनाय धनलाभार्थं चितयन् सन्मार्गं प्रकाशयन् अत्रिमस्पः । अत्रिमृषिमप्रीणयः ॥ स्पृ प्रीणनपारणयोरिति धातुः ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni: may the food in the form of the oblation, which is उरुं (*uruṃ*), vast, दोघं (*doghaṃ*), the yielder of desires, and धरुणं (*dharuṇaṃ*), the supporter, of wealth, guard today the end (अंतं (*aṃtaṃ*), completion, fulfilment) of your strength. As a thief (तायुर् (*tāyur*)) guards an article that he keeps hidden in a cave, so you, for great wealth, that is, for the winning of wealth, showing the good path, gratify the seer Atri.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Agni, who are of divine nature
+- उरुं (*uruṃ*)—abundant
+- दोघं (*doghaṃ*)—yielding desires
+- रायः (*rāyaḥ*)—to wealth
+- धरुणं (*dharuṇaṃ*)—the supporter
+- वाजः (*vājaḥ*)—the food in the form of the oblation
+- ते (*te*)—your
+- शवसः (*śavasaḥ*)—of strength
+- अंतं (*aṃtaṃ*)—the limit
+- नु (*nu*)—now
+
+### Printed p. 74
+- पातु (*pātu*)—may it protect
+- महः (*mahaḥ*)—great
+- राये (*rāye*)—to wealth
+- चितयन् (*citayan*)—showing us the good path
+- गुहा (*guhā*)—in a cave
+- पदं (*padaṃ*)—the property placed in secret
+- दधानः (*dadhānaḥ*)—having obtained
+- तायुः न (*tāyuḥ na*)—as a thief carefully guards it
+- अत्रिमस्पः (*atrimaspaḥ*)—carefully protecting Atri, gratify him
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of divine nature, may the food in the form of the oblation, which is abundant, yields desires and supports wealth, protect your strength entirely. For the winning of great wealth, showing us the good path, protect Atri carefully and gratify him, as a thief who has obtained property hidden in a cave guards it with care.
+
+##### English translation
+Divine Agni, may the (sacrificial) food, the vast yielder (of benefits to men), the sustainer of riches, support the utmost of your vigour ; and do you, considering (the means of acquiring) great riches, like a thief keeping concealed the article (he has stolen), be propitious to Atri.
+
+## Sūkta 16 (Maṇḍala 5)
+The sixteenth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहद्वय इति पंचर्चं द्वितीयं सूक्तमात्रेयस्य पूरोरार्षं । अंत्या
+> पंक्तिः शिष्टा अनुष्टुभः । अग्निर्देवता । तथा चानुक्रांतं । बृहत्तूरुः पंक्त्यंतं
+> हीति ॥ प्रातरनुवाक आग्नेये क्रतावानुष्टुभे छंदस्याश्विनशस्त्रे चेदमादीनि दश
+> सूक्तानि चतुर्थनवमवर्जितानि । आदितस्त्रिषु सूक्तेष्वंत्यामुद्धरेत् । तथा च
+> सूत्रितं । बृहद्वय इति दशानां चतुर्थनवमे उद्धरेदुत्तमामुत्तमां चादितस्त्रयाणां । अ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning बृहद्वय (*bṛhadvaya*) has five ṛks and is the second sūkta; its seer is Pūru of the Ātreya family; the last verse is in the paṅkti metre, the rest in anuṣṭubh; the deity is Agni. So it is recorded in the Anukramaṇikā: बृहत्तूरुः पंक्त्यंतं ह (*bṛhattūruḥ paṃktyaṃtaṃ ha*). In the Prātaranuvāka, in the Āgneya kratu, in the anuṣṭubh metre, and in the Āśvina-śastra, these ten sūktas beginning with this one are used, except the fourth and the ninth; and among the first three sūktas the last verse is to be omitted. So it is set out in the sūtra: बृहद्वय इति दशानां चतुर्थनवमे उद्धरेदुत्तमामुत्तमां चादितस्त्रयाणां (*bṛhadvaya iti daśānāṃ caturthanavame uddhareduttamāmuttamāṃ cāditastrayāṇāṃ*) (A. 4-13) **NOTE**
+
+Anuvāda: This sūkta beginning बृहद्वय (*bṛhadvaya*) is the second sūkta in the second anuvāka. It has five ṛks. The seer of this sūkta is Pūru Ātreya; the deity is Agni; the last ṛk of this sūkta is in paṅkti metre and the other ṛks are in anuṣṭubh metre. In the Anukramaṇikā it is said: बृहत्तूरुः पंक्त्यंतं ह (*bṛhattūruḥ paṃktyaṃtaṃ ha*). The sūkta is used, at the time of the recitation of the Prātaranuvāka mantras, for the recitation of the anuṣṭubh mantras connected with the Āgneya kratu, and for the recitation of the Āśvina-śastra
+
+### Printed p. 75
+mantras. Of the ten sūktas following from this sūkta, excluding the fourth and the ninth sūktas, the use is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, बृहद्वय इति दशानां चतुर्थनवमे उद्धरेदुत्तमामुत्तमां चादितस्त्रयाणां (*bṛhadvaya iti daśānāṃ caturthanavame uddhareduttamāmuttamāṃ cāditastrayāṇāṃ*) (Ā. 4-13). It is laid down that, omitting the last ṛks of this sūkta and of the next two sūktas, since those ṛks are in paṅkti metre, only the remaining mantras are to be recited for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+Sūkta 16. Maṇḍala 5; Anuvāka 2; Sūkta 16. Aṣṭaka 4; Adhyāya 1; Varga 8. Number of ṛks in the sūkta: 5. Seer: पूरुरात्रेयः (*pūrurātreyaḥ*). Deity: अग्निः (*agniḥ*). Metre: 1-4 अनुष्टुप् (*anuṣṭup*); 5 पंक्तिः (*paṃktiḥ*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्वयो॒ हि भा॒नवेऽर्चा॑ दे॒वाया॒ग्नये॑ ।  
+> यं मि॒त्रं न प्रश॑स्तिभि॒र्मर्ता॑सो दधि॒रे पु॒रः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । वयः । हि । भानवे । अर्च । देवाय । अग्नये ।  
+> यं । मित्रं । न । प्रशस्तिभिः । मर्तासः । दधिरे । पुरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञे भानवे दीप्तिमतेऽग्नये बृहद्वयो हवीरूपमन्नं दीयते हि ।
+> अतस्त्वमपि देवाय द्योतमानायाग्नये वयोऽर्च । प्रयच्छ । मर्तासो
+> मनुष्या यमग्निं मित्रं न सखायमिव प्रशस्तिभिः प्रकृष्टाभिः स्तुतिभिः पुरो दधिरे।
+> पुरस्कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+In the sacrifice abundant food, बृहद्वयो (*bṛhadvayo*), in the form of the oblation, is given to the radiant (दीप्तिमते (*dīptimate*)) Agni. Therefore you also offer food (अर्च (*arca*), give) to the shining god Agni, whom men set in front, as a friend, with excellent praises (प्रशस्तिभिः (*praśastibhiḥ*), प्रकृष्टाभिः (*prakṛṣṭābhiḥ*)): they place him first.
+
+### Printed p. 76
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Agni
+- मर्तासः (*martāsaḥ*)—men
+- मित्रं (*mitraṃ*)—as they honour their friend
+- प्रशस्तिभिः (*praśastibhiḥ*)—with excellent praises
+- पुरः (*puraḥ*)—in front of them
+- दधिरे (*dadhire*)—have established (such)
+- देवाय (*devāya*)—divine
+- भानवे (*bhānave*)—and radiant
+- अग्नये (*agnaye*)—addressing Agni
+- बृहद्वयः (*bṛhadvayaḥ*)—abundant oblation
+- अर्च (*arca*)—offer 
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing Agni, who is divine and radiant, whom men have established in front of them, praising him with excellent praises as they honour their friends, offer abundant oblation.
+
+##### English translation
+Offer abundant (sacrificial) food to the brilliant divine Agni, whom mortals have placed before them by praises as a friend.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि द्युभि॒र्जना॑नां॒ होता॒ दक्ष॑स्य बा॒ह्वोः ।  
+> वि ह॒व्यम॒ग्निरा॑नु॒षग्भगो॒ न वार॑मृण्वति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । द्युभिः । जनानां । होता । दक्षस्य । बाह्वोः ।  
+> वि । हव्यं । अग्निः । आनुषक् । भगः । न । वारं । ऋण्वति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्हव्यं हविर्देवेष्वानुषक् देवेष्वनुषक्तं करोति बाह्वोर्भुयोर्दक्षस्य बलस्य द्युभिर्द्युतिभिर्युक्तः सोग्निर्जनानां यजमानानां होता
+> देवानामाह्वाता भवति । भगो न सूर्य इव वारं वरणीयं धनं व्यृण्वति ।
+> विशेषेण प्रयच्छति मनुष्येषु ॥
+
+##### Gist of the bhāṣya
+
+The Agni who makes the oblation attached (आनुषक् (*ānuṣak*)) among the gods, who is possessed of the splendours (द्युभिर् (*dyubhir*)) of strength in his arms (बाह्वोः (*bāhvoḥ*)), becomes the invoker (होता (*hotā*)) of the gods for the people, that is, the sacrificers. Like Bhaga, that is, like the sun, he bestows especially (व्यृण्वति (*vyṛṇvati*)) desirable wealth (वारं (*vāraṃ*)) upon men.
+
 ---
 
-**Progress note:** Done through printed p. 70. pp. 65-70: Sūkta 14 Ṛks 4-6, Sūkta 15 Ṛks 1-3
+**Progress note:** Done through printed p. 76. pp. 71-76: Sūkta 15 Ṛks 3-5, Sūkta 16 Ṛks 1-2
