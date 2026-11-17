@@ -5067,6 +5067,332 @@ In the Pauṣṭa offering (**NOTE**) of the Aśvamedha sacrifice, this Ṛk "Ya
 > तव । द्युमंतः । अर्चयः । ग्रावाइव । उच्यते । बृहत् ।  
 > उतो इति । ते । तन्यतुः । यथा । स्वानः । अर्त । त्मना । दिवः ॥ ८ ॥
 
+### Printed p. 132
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तवार्चयो रश्मयो द्युमंतो दीप्तिमंतो भवंति । बृहन्महान् त्वं ग्रावेवाभिषवग्रावेवोच्यते । स्तूयसे । उतो अपि च त्मनात्मना दिवो
+> द्योतमानस्य ते तव स्नानः शब्दस्तन्यतुर्यथा मेघगर्जितमिनार्त । उद्गच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your rays (*arcayaḥ*) are radiant (*dyumantaḥ*), full of light. You, who are great (*bṛhat*), are praised (*ucyate*) like the pressing stone (*grāveva*, the stone for pressing). And of you, who shine from the sky (*divaḥ*), by your own power (*tmanā*) your sound (*snānaḥ*) rises (*arta*, "goes up") like thunder (*tanyatuḥ*), the rumbling of a cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अर्चयः (*arcayaḥ*)—your rays
+- द्युमंतः (*dyumaṃtaḥ*)—are full of radiance
+- बृहत् (*bṛhat*)—you, who are of great nature
+- ग्रावेव (*grāveva*)—like the stone that presses Soma
+- उच्यते (*ucyate*)—are praised
+- उतो (*uto*)—and
+- त्मना (*tmanā*)—by your own greatness
+- दिवः (*divaḥ*)—shining
+- ते (*te*)—your
+- स्नानः (*snānaḥ*)—sound
+- तन्यतुः यथा (*tanyatuḥ yathā*)—like the rumbling of a cloud
+- अर्त (*arta*)—arises and spreads
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your rays are full of radiance. You, who are of great nature, are praised like the stone that presses Soma. And your sound, shining by your own greatness, arises and spreads like the rumbling of a cloud.
+
+##### English translation
+Brilliant, Agni, are your rays : mighty are you termed, like the stone (that bruises the Soma), and your voice spontaneously spreads through the sky like thunder.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा अ॒ग्निं व॑सू॒यवः॑ सहसा॒नं ॑नवंदिम ।  
+> स नो॒ विश्वा॒ अति॒ द्विषः॒ पर्ष॑न्ना॒वेव॑ सु॒क्रतुः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । अग्निं । वसुयवः । सहसानं । ववंदिम ।  
+> सः । नः । विश्वाः । अति । द्विषः । पर्षत् । नावाइव । सुक्रतुः ॥ ९ ॥
+
+### Printed p. 133
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसूयवो वसुकामा वयं सहसानमस्माकं बलमिवाचरंतमग्निमेवमुक्तप्रकारेण ववंदिम । स्तुमः । सुक्रतुः शोभनकर्मा सोऽग्निर्नोऽस्मान्
+> विश्वाः सर्वान् द्विषः शत्रूनति पर्षत् । अतिपारयतु । कथमिव । नावा साधनेन
+> सिंधुमिव ॥
+
+##### Gist of the bhāṣya
+
+We, the Vasūyus (*vasūyavaḥ*, those who desire wealth), have thus praised (*vavandima*, "we praise") in the manner stated Agni, who is *sahasāna*, that is, who acts like our own strength. May that Agni, the doer of fair works (*sukratu*), carry us over (*parṣat*, "take us across") all (*viśvāḥ*) our enemies (*dviṣaḥ*). How? As with a boat (*nāvā*), a means, one crosses a river.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसूयवः (*vasūyavaḥ*)—we, who desire wealth (the seers named Vasūyu)
+- सहसानं (*sahasānaṃ*)—who accomplishes works endowed with strength
+- अग्निं (*agniṃ*)—Agni
+- ववंदिम (*vavaṃdima*)—we praise
+- नाना इव (*nānā iva*)—as one easily crosses a river with a boat **NOTE**
+- सुक्रतुः (*sukratuḥ*)—the doer of excellent works
+- सः (*saḥ*)—that Agni
+- नः (*naḥ*)—us
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—from enemies
+- अति पर्षत् (*ati parṣat*)—may he carry across
+
+##### भावार्थ (Bhāvārtha)
+
+We, who are named Vasūyu and desire wealth, praise Agni, who can accomplish works endowed with strength. As one easily crosses a river with a boat, may Agni, the doer of excellent works, carry us across all enemies and protect us.
+
+##### English translation
+Thus we, Vasuyus, glorify the vigorous Agni : may he, the performer of great deeds, enable us to pass over our enemies as (we cross a river) with a boat.
+
+## Sūkta 26 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने पावकेति नवर्चं द्वादशं सूक्तं । वसूयव ऋषयः । गायत्री छंदः ।
+> अग्निर्देवता । तथा चानुक्रांतं । अग्ने गायत्रमिति ॥ प्रातरनुवाक आग्नेये क्रत्वा
+> गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्रितं च । अग्ने पावक दूतं व इति
+> सूक्ते । आ. ४-१३ । इति ॥ आधाने द्वितीयायामिष्टौ प्रथमस्य हविषोऽग्ने पावकेत्येषा याज्या । सूत्रितं च । स नः पावक दीदिवोऽग्ने पावक रोचिषा ।
+> आ. २.१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Agne pāvaka" is the twelfth sūkta and has nine Ṛks. The seers are the Vasūyus, the metre is Gāyatrī, the deity is Agni. So the Anukramaṇikā has it: "Agne, gāyatram". This sūkta is used in the Prātaranuvāka, for the Gāyatrī Ṛks of the Āgneya kratu, and in the Āśvina-śastra. So it is laid down in the sūtra: अग्ने पावक दूतं व इति सूक्ते (*agne pāvaka dūtaṃ va iti sūkte*), Ā. 4-13. Further, at the Ādhāna, in the second iṣṭi, the Ṛk "Agne pāvaka" is the yājyā for the first oblation. So it is laid down: स नः पावक दीदिवोऽग्ने पावक रोचिषा (*sa naḥ pāvaka dīdivo 'gne pāvaka rociṣā*), Ā. 2.1.
+
+### Printed p. 134
+
+This sūkta, "Agne pāvaka", is the twelfth sūkta in the second anuvāka. It has nine Ṛks. The seers of this sūkta are those named Vasūyu; the deity is Agni; the metre is Gāyatrī. In the Anukramaṇikā it is said: "Agne, gāyatram". That this sūkta is used for reciting the Gāyatrī Ṛks connected with the Āgneya kratu in the recitation of the Prātaranuvāka mantras, and for reciting the mantras of the Āśvina-śastra, is explained by the Āśvalāyana Śrauta Sūtra: अग्ने पावक दूतं व इति सूक्ते (*agne pāvaka dūtaṃ va iti sūkte*) (A. 4-13) **NOTE**. And that at the time of the Ādhāna, when the first oblation in the second iṣṭi is offered, the Ṛk "Agne pāvaka" is to be used as the yājyā mantra, is explained by the Āśvalāyana Śrauta Sūtra: स नः पावक दीदिवोऽग्ने पावक रोचिषा (*sa naḥ pāvaka dīdivo 'gne pāvaka rociṣā*) (Ā. 2-1).
+
+##### Particulars of the sūkta
+
+- Sūkta 26
+- Maṇḍala 5; Anuvāka 2; Sūkta 26
+- Aṣṭaka 4; Adhyāya 1; Varga 19, 20
+- Number of Ṛks in the sūkta: 9
+- Seer: the Vasūyus, of the line of Atri
+- Deity: Agni
+- Metre: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ पावक रो॒चिषा॑ मं॒द्रया॑ देव जि॒ह्वया॑ ।  
+> आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । पावक । रोचिषा । मंद्रया । देव । जिह्वया ।  
+> आ । देवान् । वक्षि । यक्षि । च ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पावक शोधक रोचिषा स्वदीप्ता मंद्रया देवानां मादयित्र्या
+> जिह्वया च हे देव द्योतमानाग्ने देवाना वक्षि । यज्ञार्थमावह । यक्षि च ।
+> शान्यज ॥
+
+##### Gist of the bhāṣya
+
+O purifier (*pāvaka*), O shining (*deva*) Agni, with your own radiance (*rociṣā*) and with your tongue (*jihvayā*) that delights the gods (*mandrayā*), bring (*vakṣi*) the gods for the sacrifice, and sacrifice (*yakṣi*) also. **NOTE**
+
+### Printed p. 135
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावक (*pāvaka*)—O purifier
+- देव (*deva*)—of divine nature
+- अग्ने (*agne*)—O Agni
+- रोचिषा (*rociṣā*)—with flames that are radiant
+- मंद्रया (*maṃdrayā*)—delighting
+- जिह्वया (*jihvayā*)—and in the form of tongues
+- देवान् (*devān*)—the gods
+- आ वक्षि (*ā vakṣi*)—bring to the sacrifice
+- यक्षि च (*yakṣi ca*)—and sacrifice to them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, purifier and of divine nature, with flames that are radiant, delighting and in the form of tongues, bring the gods to the sacrifice. Sacrifice to them.
+
+##### English translation
+Divine purifier, Agni, with your radiant and pleasing tongue, bring hither and worship the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ धृतस्नवीमहे॒ चित्र॑भानो स्व॒र्दृशं॑ ।  
+> दे॒वा आ वी॒तये॑ वह ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । घृतस्नो इति घृतस्नो । ईमहे । चित्रभानो इति चित्रभानो ।  
+> स्वःसृशं ।  
+> देवान् । आ । वीतये । वह ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हॆ धृतस्नो धृतस्य प्रेरक । यद्वा । धृतेन जनित । हे चित्रभानो । चित्रा
+> नानाविधा भानवो रश्मयो यस्यासौ चित्रभानुः । तस्य संबोधनं । स्वर्दृशं
+> सर्वद्रष्टारं तं त्वा त्वामीमहे । याचामहे । अतो वीतये हविषां भक्षणाय
+> देवाना वह ॥
+
+##### Gist of the bhāṣya
+
+O *dhṛtasnu*, impeller of ghee (*dhṛta*); or else, born of ghee. O *citrabhānu*: *citrā* means of many kinds, *bhānu* means rays; he who has these is Citrabhānu; this is the address to him. You who see everything (*svardṛśam*), we beg (*īmahe*, "we ask") you; therefore bring the gods for the eating of the oblations (*vītaye*).
+
+### Printed p. 136
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतस्नो (*dhṛtasno*)—he who is kindled by ghee
+- चित्रभानो (*citrabhāno*)—O Agni, who has rays of many kinds
+- स्वर्दृशं (*svardṛśaṃ*)—who can see everything
+- तं (*taṃ*)—such a renowned one
+- त्वा (*tvā*)—you
+- ईवंहे (*īvaṃhe*)—we pray **NOTE**
+- वीतये (*vītaye*)—to eat the oblation
+- देवान् (*devān*)—the gods
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, kindled by ghee and having rays of many kinds, we pray to you, who can see everything and are renowned. Bring the gods to eat the oblation.
+
+##### English translation
+Feeder upon butter, bright and variegated radiance we solicit you, the beholder of heaven, to bring the Gods hither to (partake of) the (sacrificial) food
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒तिहो॑त्रं त्वा कवे द्यु॒मंतं॒ समि॑धीमहि ।  
+> अग्ने॑ बृ॒हंत॑मध्व॒रे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीतिहोत्रं । त्वा । कवे । द्युमंतं । सं । इधीमहि ।  
+> अग्ने । बृहंतं । अध्वरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतदर्शिन्नग्ने वीतिहोत्रं कांतयज्ञं द्युमंतं दीप्तिमंतं
+> बृहंतं महांतं त्वा त्वामध्वरे यज्ञे समिधीमहि । समिद्धिः संदीपयामः ॥
+
+##### Gist of the bhāṣya
+
+O seer (*kave*), O Agni of far-reaching sight, you whose sacrifice is desired (*vītihotra*), radiant (*dyumantam*) and great (*bṛhantam*): we kindle you (*samidhīmahi*), we make you blaze up, with fuel at the sacrifice (*adhvare*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O one of far-reaching wisdom
+- अग्ने (*agne*)—O Agni
+- वीतिहोत्रं (*vītihotraṃ*)—whose food is the oblation
+- द्युमंतं (*dyumaṃtaṃ*)—endowed with radiance
+- बृहंतं (*bṛhaṃtaṃ*)—of great nature
+- त्वा (*tvā*)—you
+- आध्वरे (*ādhvare*)—at the sacrifice **NOTE**
+- समीधिमहि (*samīdhimahi*)—we make blaze up **NOTE**
+
+### Printed p. 137
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of far-reaching wisdom, whose food is the oblation, endowed with radiance and of great nature, we make you blaze up at the sacrifice.
+
+##### English translation
+We kindle you at the sacrifice, wise Agni, whose food is the oblation , who are brilliant and vast.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ विश्वे॑भि॒रा ग॑हि दे॒वेभि॑र्ह॒व्यदा॑तये ।  
+> ।  
+> होता॑रं त्वा वृणीमहे ॥ ४ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । विश्वेभिः । आ । गहि । देवेभिः । हव्यदातये ।  
+> होतारं । त्वा । वृणीमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्वेभिः सर्वैर्देवेभिर्देवैः सह त्वं हव्यदातये हविषां दात्रे
+> यजमानाय तदर्थमा गहि । यज्ञं प्रत्यागच्छ । यतो होतारं देवानामाह्वातारं त्वा त्वां वृणीमहे । प्रार्थयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come (*ā gahi*) together with all (*viśvebhiḥ*) the gods, to the sacrificer who gives the oblations (*havyadātaye*), for his sake; come to the sacrifice. For we choose (*vṛṇīmahe*, "we pray to") you, the invoker (*hotāra*) of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विश्वेभिः (*viśvebhiḥ*)—all
+- देवेभिः (*devebhiḥ*)—together with the gods
+- हव्यदातये (*havyadātaye*)—to the sacrificer who offers the oblation
+- आ गहि (*ā gahi*)—be gracious to come
+- होतारं (*hotāraṃ*)—who are the invoker of the gods
+- त्वा (*tvā*)—you
+- वृणीमहे (*vṛṇīmahe*)—we pray to
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we pray to you, the invoker of the gods, saying: be gracious to come, together with all the gods, to the sacrificer who offers the oblation.
+
+##### English translation
+Come, Agni, with all the gods, to the donor (of the oblation) : we have recourse to you as their invoker.
+
+### Printed p. 138
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज॑मानाय सुन्व॒त आग्ने॑ सु॒वीर्यं॑ वह ।  
+> दे॒वैरा स॑त्सि ब॒र्हिषि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजमानाय । सुन्वते । आ । अग्ने । सुवीर्यं । वह ।  
+> देवैः । आ । सत्सि । बर्हिषि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सुन्वतेऽभिषवं कुर्वते यजमानाय सुवीर्यं शोभनं बलमा
+> वह । प्रापय । किंच देवैः सह बर्हिषि यज्ञ आ सत्सि । आसीदेति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring (*ā vaha*, "cause to reach") fair strength (*suvīryam*) to the sacrificer (*yajamānāya*) who presses the Soma (*sunvate*). Further, sit down (*ā satsi*, "sit") together with the gods on the sacrificial grass (*barhiṣi*), that is, at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सुन्वते (*sunvate*)—who presses the Soma juice
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- सुवीरं (*suvīraṃ*)—excellent strength **NOTE**
+- आ वह (*ā vaha*)—cause to be obtained
+- देवैः (*devaiḥ*)—together with the gods
+- बर्हिषि (*barhiṣi*)—on the seats of darbha grass
+- आ सत्सि (*ā satsi*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, cause the sacrificer who presses the Soma juice to obtain excellent strength. Come with the gods and sit down on the seats of darbha grass.
+
+##### English translation
+To the institutor of the rite, pouring out the libation, bring excellent vigour ; sit down with the gods upon the sacred grass.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मि॒धा॒नः स॑हस्रजि॒दग्ने॒ धर्मा॑णि पुष्यसि ।  
+> दे॒वानां॑ दू॒त उ॒क्तः॑ ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 131. Sukta 25 Rk 3-8 (pp. 126-131)
+**Progress note:** Done through printed p. 138. Sukta 25 Rk 8-9, Sukta 26 Rk 1-6 saṃhitā (pp. 132-138)
