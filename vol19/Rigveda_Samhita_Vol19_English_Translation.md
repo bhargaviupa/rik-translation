@@ -4554,6 +4554,256 @@ The twenty-fourth sūkta.
 
 The sūkta beginning "Agne tvaṃ naḥ" has four Ṛks and is the tenth sūkta. Here the Anukramaṇikā says: "Agne tvaṃ, Gaupāyanas or Laupāyanas: Bandhu, Subandhu, Śrutabandhu, Viprabandhu; he sang a dvipada", and it states that the twentieth (verse) is a dvipadā virāj. The deity is Agni. At the Mahāpitṛyajña the priests, going towards the Āhavanīya fire, are to mutter this sūkta; so it is laid down in the sūtra: "Then they approach him, muttering मा प्र गामाग्ने त्वं न इति जपंतः (*mā pra gāmāgne tvaṃ na iti japaṃtaḥ*)", Ā. 2-19.
 
+### Printed p. 120
+
+> षष्ठेऽहनि तृतीयसवने मैत्रावरुणस्याग्ने त्वमिति द्वे तं त्वा शोचिष्ठेत्येका ।
+> ऐवं मिलितो द्वैपदस्तृचः स्तोत्रियः । तथैव सूत्रितं । अग्ने त्वं नो अंतमोऽग्ने भव सुषमिधा । आ ८-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+On the sixth day of the Daśarātra, at the third pressing, the Maitrāvaruṇa priest recites the two Ṛks beginning "Agne tvam" together with the one Ṛk "Taṃ tvā śociṣṭha"; thus combined, the three form a tṛca of the dvipada kind, and it is the stotriya. So it is laid down in the sūtra: अग्ने त्वं नो अंतमोऽग्ने भव सुषमिधा (*agne tvaṃ no aṃtamo 'gne bhava suṣamidhā*), Ā. 8-2.
+
+This sūkta, beginning "Agne tvaṃ naḥ", is the tenth sūkta in the second anuvāka. It has four Ṛks. In the Anukramaṇikā it is said: "Agne tvam, Gaupāyanas or Laupāyanas, Bandhu, Subandhu, Śrutabandhu, Viprabandhu; a single Ṛk each; dvipada". "Viṃśatikā dvipadā virājaḥ" means that a Ṛk made of two half-Ṛks of twenty syllables is called a dvipadā virāj; this is the mark of this metre. The seers of the four Ṛks of this sūkta are, in order, the four, Bandhu, Subandhu, Śrutabandhu and Viprabandhu, or else the two, Gaupāyana and Laupāyana; the deity is Agni. That the priests are to mutter this sūkta when going towards the Āhavanīya fire at the Mahāpitṛyajña is explained by the Āśvalāyana Śrauta Sūtra: अथैनमभिसमायंति मा प्र गामाग्ने त्वं न इति जपंतः (*athainamabhisamāyaṃti mā pra gāmāgne tvaṃ na iti japaṃtaḥ*) (Ā. 2-19). And further, that on the sixth day of the sacrifice called Daśarātra, at the time of the third pressing, the priest called Maitrāvaruṇa is to combine the two Ṛks beginning "Agne tvam" and the one Ṛk "Taṃ tvā śociṣṭha" into a tṛca (three Ṛks) and recite them as the Ṛks of the stotriya tṛca, is explained by the Āśvalāyana Śrauta Sūtra: अग्ने त्वं नो अंतमोऽग्ने भव सुषमिधा (*agne tvaṃ no aṃtamo 'gne bhava suṣamidhā*) (Ā. 8-2).
+
+##### Particulars of the sūkta
+
+- Sūkta 24
+- Maṇḍala 5; Anuvāka 2; Sūkta 24
+- Aṣṭaka 4; Adhyāya 1; Varga 16
+- Number of Ṛks in the sūkta: 4
+- Seer (Ṛks 1, 2, 3, 4): Bandhu, Subandhu, Śrutabandhu, Viprabandhu, or Gaupāyanas or Laupāyanas
+- Deity: Agni
+- Metre: Dvipadā
+
+#### Ṛk 1–2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ त्वं नो॒ अंत॑म उ॒त त्रा॒ता शि॒वो भ॑वा वरू॒थ्यः॑ ।  
+> वसु॑र॒ग्निर्वसु॑श्रवा॒ अच्छा॑ नक्षि द्यु॒मत्त॑मं र॒यिं दाः॑ ॥१॥ ॥२॥
+
+### Printed p. 121
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । त्वं । नः । अंतमः । उत । त्राता । शिवः । भव । वरूथ्यः ।
+
+> वसुः । अग्निः । वसुश्रवाः । अच्छ । नक्षि । द्युमत्तमं। रयिं । दाः ॥ १-२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वरूथ्यो वरणीयः संभजनीयः । यद्वा । वरूथैः परिधिभिर्वृतस्त्वं नोऽस्माकमंतमोऽ०तिकतमो भव । उशापि च त्राता रक्षकः शिवः
+> सुखकरश्च भव । वसुर्वासकोऽग्निः सर्वेषामग्रणीर्वसुश्रवा व्याप्तान्नस्त्वमच्छाभिमुख्येन नक्षि । आस्मान्वाप्नुहि । द्युमत्तममतिशयेन दीप्तिमंतं रयिं पश्वादिलक्षणं धनं दाः । अस्मभ्यं देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, who are to be chosen (*varūthya*), that is, to be resorted to; or else, enclosed by encircling fences (*varūthaiḥ*), be nearest to us. Be also our protector and the giver of welfare. Agni is the dweller (*vasu*), the foremost of all; being rich in food (*vasuśravas*), turn towards us and reach us; give us most brilliant wealth, wealth in the form of cattle and the like; bestow it on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वरूथ्यः (*varūthyaḥ*)—you who are greatly worshipful
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- अंतमः (*aṃtamaḥ*)—exceedingly near
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- त्राता (*trātā*)—our protector
+- शिवः (*śivaḥ*)—the bringer of welfare (be)
+- अग्निः (*agniḥ*)—the leader of all, as it were
+- वसुः (*vasuḥ*)—the giver of dwellings
+- वसुश्रवाः (*vasuśravāḥ*)—you who are the distributor of food
+- अच्छ (*accha*)—turned towards us
+- नक्षि (*nakṣi*)—be pervading among us
+- द्युमत्तमं (*dyumattamaṃ*)—most radiant
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give (to us)
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Agni, be exceedingly near to us, our protector and the bringer of welfare. You, who are the giver of dwellings, the leader of all, as it were, and the distributor of food, be turned towards us and pervade us. Give us most radiant wealth.
+
+##### English translation
+Agni, you are to be adored, be ever nigh to us, our protector and benefactor : you, who are the giver of dwellings and dispenser of food, be present with us : bestow upon us most brilliant wealth.
+
+#### Ṛk 3–4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ बोधि श्रु॒धी हव॑मुरु॒ष्या णो॑ अघाय॒तः स॑मस्मात् ।
+
+### Printed p. 122
+
+> तं त्वा शोचिष्ठ दीदिवः सुम्नाय नूनमीमहे  
+> सविभ्यः ॥ ३ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । बोधि । श्रुधि । हवं । उरुष्य । नः । अघ्ययतः । समस्मात् ।
+
+> तं । त्वा । शोचिष्ठ । दीदिवः । सुम्नाय । नूनं । ईमहे । सखिभ्यः ॥३॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स त्वं नोऽस्मान् बोधि । बुध्यस्व । हवमस्मदीयमाह्वानं श्रुधि ।
+> शृणु । अघायतोऽघमिच्छतः समस्मात्सर्वस्माज्जनान्नोऽस्मानुरुष्य । रक्ष । हे
+> शोचिष्ठातिशोचिष्मन् दीदिवः स्वशेजोभिर्दिप्ताग्ने तं त्वां सुम्नाय सुखाय ।
+> सुम्ममिति सुखनाम । तदर्थं सखिभ्यः समानख्यातिभ्यः पुत्रेभ्यस्तदर्थं च नूनमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that you (*sa*) understand us (*bodhi*, "know us"); hear (*śrudhi*) our invocation. Protect (*uruṣya*) us from all men who wish us harm (*aghāyataḥ*, "who desire evil"). O most radiant (*śociṣṭha*), blazing with your own splendours (*dīdivaḥ*), Agni: to you, for the sake of happiness (*sumna*; "*sumna*" is a name of happiness) and for the sake of our friends (*sakhibhyaḥ*), that is, our sons who share one name with us, we now (*nūnam*) make our petition (*īmahe*, "we beg").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you who are renowned (O Agni)
+- नः (*naḥ*)—us (our devotion)
+- बोधि (*bodhi*)—understand
+- हवं (*havaṃ*)—our invocation made with praise
+- श्रुधि (*śrudhi*)—hear
+- अघायतः (*aghāyataḥ*)—who wish us harm
+- समस्तात् (*samastāt*)—from all enemies **NOTE**
+- नः (*naḥ*)—us
+- उरुष्य (*uruṣya*)—protect
+- शोचिष्ठ (*śociṣṭha*)—O you of exceeding radiance
+- दीदिवः (*dīdivaḥ*)—O Agni, who shine with those radiances
+- तं त्वा (*taṃ tvā*)—you, that one
+- सुम्नाय (*sumnāya*)—for happiness
+- सखिभ्यः (*sakhibhyaḥ*)—for the sake of our dear sons
+- नूनं (*nūnaṃ*)—now
+- ईमहे (*īmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, renowned as you are, understand our devotion. Hear our invocation made with praise. Protect us from all enemies who wish us harm. O Agni, of exceeding radiance, shining with those radiances, we now praise you for happiness and for the sake of our dear sons.
+
+##### English translation
+Understand us, Agni; hear our invocation; defend us from all malevolent (people) : most bright and resplendent Agni, we earnestly solicit you for the happiness (of ourselves) and our friends.
+
+### Printed p. 123
+
+## Sūkta 25 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अच्छा वो अग्निमिति नवर्चमेकादशं सूक्तं । अत्रानुक्रमणिका । अच्छा वो
+> नव वसूयव आनुष्टुभमिति । आत्रेया वसूयुनामान ऋषयः । अनुष्टुप् ।
+> मंडलादिपरिभाषयाग्निर्देवता ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+> प्रातःसवनेऽच्छावाक वदस्वेत्युक्तेऽच्छा वो अग्निमवस इत्यृचमनुब्रूयात् ।
+> तथा च सूत्रितं । अच्छा वो अग्निमवस इत्यृचमन्वाह । आ. ५-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Acchā vo agnim" is the eleventh sūkta and has nine Ṛks. Here the Anukramaṇikā says: "Acchā vo nava, Vasūyavas, Ānuṣṭubha"; the seers are the Ātreyas named Vasūyu; the metre is Anuṣṭubh; by the rule at the beginning of the maṇḍala the deity is Agni. The use in the Prātaranuvāka and the Āśvina-śastra has been stated. At the morning pressing, when the Adhvaryu has said "Acchāvāka, speak", the Acchāvāka is to recite after him the Ṛk अच्छा वो अग्निमवस (*acchā vo agnimavasa*). So it is laid down in the sūtra: अच्छा वो अग्निमवस इत्यृचमन्वाह (*acchā vo agnimavasa ityṛcamanvāha*), Ā. 5-7.
+
+This sūkta, "Acchā vo agnim", is the eleventh sūkta in the second anuvāka. It has nine Ṛks. In the Anukramaṇikā it is said: "Acchā vo nava Vasūyava Ānuṣṭubham". The seers of this sūkta are those born in the line of Atri, named Vasūyavas; the deity is Agni; the metre is Anuṣṭubh. It has been said before that this sūkta is used for the Prātaranuvāka and for the mantras of the Āśvina-śastra. And that at the time of the morning pressing, as soon as the Adhvaryu has recited the praiṣa mantra addressed to the priest called Acchāvāka, saying "speak", that priest called Acchāvāka is to recite the Ṛk "Acchā vo agnim avase", is explained by the Āśvalāyana Śrauta Sūtra: अच्छा वो अग्निमवस इत्यृचमन्वाह (*acchā vo agnimavasa ityṛcamanvāha*) (Ā. 5-7).
+
+##### Particulars of the sūkta
+
+- Sūkta 25
+- Maṇḍala 5; Anuvāka 2; Sūkta 25
+- Aṣṭaka 4; Adhyāya 1; Varga 17, 18
+- Number of Ṛks in the sūkta: 9
+- Seer: the Vasūyus, of the line of Atri
+- Deity: Agni
+- Metre: Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ वो अ॒ग्निमव॑से दे॒वं गा॑सि॒ स नो॒ वसुः॑ ।  
+> रास॑त्पु॒त्र ऋ॑षू॒णामृ॒तावा॑ पर्षति द्वि॒षः ॥ १ ॥
+
+### Printed p. 124
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । वः । अग्निं । अवसे । देवं । गासि । सः । नः । वसुः ।  
+> रासत् । पुत्रः । ऋषूणां । ऋत्यवा । पर्षति । द्विषः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसूयवो वो यूयं देवमग्निमवसे रक्षणायाच्छा गासि । अभिप्रगायत । वसुरग्निहोत्रार्थं यजमानानां गृहे वासयिता सोऽग्निर्नोऽस्मभ्यं
+> रासत् । कामान्ददातु । ऋषूणामृषीणां पुत्रः । ऋषिभिर्मंथनेन जनितत्वात्पुत्र
+> इत्युपचर्यते । ऋतावा ऋतावान् सत्यवानुदकवान्वा सोऽग्निर्द्विषोऽस्माकं
+> शत्रुन्वर्षति । पारयतु ॥
+
+##### Gist of the bhāṣya
+
+O Vasūyus (you who desire wealth), sing forth (*gāsi*, "praise") to the divine Agni for protection. Agni, the dweller (*vasu*), who makes himself dwell in the houses of the sacrificers for the agnihotra, may he (*sa*) grant (*rāsat*) us our desires. He is the son (*putra*) of the seers (*ṛṣūṇām*): because he is produced by the seers by churning, he is called "son" figuratively. Truthful (*ṛtāvā*), that is, possessed of truth, or possessed of water, that Agni may carry us across (*parṣati*) our enemies (*dviṣaḥ*), that is, ferry us over them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O seers named Vasūyu)
+- देवं (*devaṃ*)—divine in nature
+- अग्निं (*agniṃ*)—Agni
+- अवसे (*avase*)—for protection
+- अच्छा (*acchā*)—in a commendable manner
+- गासि (*gāsi*)—praise and sing
+- वसुः (*vasuḥ*)—dwelling in the house of the sacrifice
+- सः (*saḥ*)—that Agni
+- नः (*naḥ*)—to us
+- रासत् (*rāsat*)—may he grant our desires
+- ऋषूणां (*ṛṣūṇāṃ*)—to the seers
+- पुत्रः (*putraḥ*)—in the form of a son (born by churning and the like)
+- the truthful Agni **NOTE**
+- द्विषः (*dviṣaḥ*)—our enemies
+- पर्षति (*parṣati*)—may he destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O seers named Vasūyu, sing the praise of Agni, divine in nature, in a commendable manner, for protection. May that Agni, who dwells in the house of the sacrifice, grant us our desires. May Agni, who, being produced by churning and the like, is as a son to the seers, and who is truthful, destroy our enemies.
+
+##### English translation
+Celebrate the divine Agni for his protection : may he who presides over dwellings grant (our desires) : may the son of the Rishis, the observers of truth, save us from those who hate us.
+
+### Printed p. 125
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि स॒त्यो यं पूर्वे॑ चिद्दे॒वास॑श्चि॒द्यमा॑धि॒रे ।  
+> होता॑रं मं॒द्रजि॑ह्व॒मित्सु॑दी॒तिभि॑र्वि॒भाव॑सुं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । सत्यः । यं । पूर्वे । चित् । देवासः।चित् । यं । ईधिरे ।  
+> होतारं । मंद्रजिह्वं । इत् । सुदीतिभिः । विभावसुं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वे चित्तूर्वे महर्षयो होतारं देवानामाह्वातारं मंद्रजिह्वं ।
+> हविषां प्रदानेन देवानां मादयित्रि जिह्वा यस्य सः । तं । यद्वा मोदनजिह्वं।
+> तथाह यास्कः । मंद्रजिह्वं मंदनजिह्वं मोदनजिह्वमिति वा । नि. ६-२३ । इति ।
+> सुदीतिभिः शोभनदीप्तिभिर्युक्तं विभावसुं प्रभाधनं यमग्निमीधिरे समैंधत
+> देवासश्चिद्देवा अपि यमग्निमीधिरे समैंधत स ह्यग्निः सत्यो भवति । सत्यप्रतिश्रवो
+> भवति । इदिति पूरणः ।
+
+##### Gist of the bhāṣya
+
+The ancient (*pūrve cit*) great seers kindled Agni, the invoker (*hotāra*) of the gods, whose tongue gives delight (*mandrajihva*): his tongue delights the gods by the offering of oblations; or else, "of delighting tongue". So Yāska says: मंद्रजिह्वं मंदनजिह्वं मोदनजिह्वमिति वा (*maṃdrajihvaṃ maṃdanajihvaṃ modanajihvamiti vā*), Ni. 6-23. He is joined with fair radiances (*sudītibhiḥ*) and has light as his wealth (*vibhāvasu*). The gods too (*devāsaś cit*) kindled that Agni (*īdhire*, "kindled"); that Agni is indeed true (*satya*): he is true to his promise. The word *it* is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतारं (*hotāraṃ*)—the invoker for the whole sacrifice
+- मंद्रजिह्वं (*maṃdrajihvaṃ*)—he whose flame, in the form of a tongue, gives delight
+- सुदीतिभिः (*sudītibhiḥ*)—he who is joined with commendable brilliance
+- विभावसुं (*vibhāvasuṃ*)—he whose wealth is radiance
+- यं (*yaṃ*)—which Agni
+- पूर्वे चित् (*pūrve cit*)—the ancient seers
+- ईधिरे (*īdhire*)—kindled
+- यं (*yaṃ*)—which same Agni
+- देवासश्चित् (*devāsaścit*)—the gods too
+- ईधिरे (*īdhire*)—kindled
+- स हि (*sa hi*)—that same Agni
+- सत्य (*satya*)—is of the nature of truth
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is the invoker for the whole sacrifice; he has a delighting flame in the form of a tongue; he is joined with commendable brilliance; he has radiance as his wealth. The ancient seers and the gods too kindled him; that Agni is truly of the nature of truth.
+
 ---
 
-**Progress note:** Done through printed p. 119. Mandala 5 sukta 22 rk 4; sukta 23 rks 1-4; sukta 24 introduction (start)
+**Progress note:** Done through printed p. 125. Sukta 24 end (Rk 1-4), Sukta 25 Rk 1-2 (pp. 120-125)
