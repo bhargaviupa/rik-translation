@@ -1291,6 +1291,215 @@ O Agni, this praise, endowed with the utmost sweetness, is composed with you as 
 ##### English translation
 To you, Agni, this most sweet speech (is addressed); may this praise be gratification to your heart : pious hymns fill you, and augment you with vigour, as large rivers (replenish) the sea.
 
+### Printed p. 40
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने॒ अंगि॑रसो॒ गुहा॑ हि॒तमन्व॑विंदइच्छ्रिया॒णं वने॑वने ।  
+> स जा॑यसे म॒ध्यमा॑नः॒ सहो॑ म॒हत्वामा॑हुः॒ सह॑सस्पु॒त्रमं॑गिरः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । अंगिरसः । गुहा । हितं । अनु । अविंदन् । शिश्रियाणं । वनेवने ।  
+> सः । जायसे । मध्यमानः । सहः । महत् । त्वां । आहुः । सहसः । पुत्रं । अंगिरः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्नेऽंगिरस ऋषयो गुहा गुहायां हितं निहितं निगूढं वने वने
+> वृक्षे वृक्षे शिश्रियाणमाश्रितं त्वामन्वविंदन् । अलभंत । महान्महता सहः सहसा
+> बलेन युक्तः स त्वं मध्यमानो जायसे । हे अंगिरोऽंगिरसां प्रकृतिभूत त्वां
+> सहसः पुत्रमाहुः ॥ शिश्रियाणं । श्रिञ सेवायां । लिटः कानच् । शपः श्लुः । श्लाविति
+> द्विर्वचनं । इयजादेशः । चित्वादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the Aṅgirasa seers found you, hidden in the cave, taking refuge in every single tree. You, endowed with great strength, are born when you are churned. O Aṅgiras, you who are the source of the Aṅgirases, they call the son of strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirasa seers
+- गुहा (*guhā*)—in the cave
+- हितं (*hitaṃ*)—who were hidden within
+- वनेवने (*vanevane*)—in every tree
+- शिश्रियाणं (*śiśriyāṇaṃ*)—who had taken refuge
+- त्वां (*tvāṃ*)—you
+- अन्वविंदन् (*anvaviṃdan*)—they found
+- महत् (*mahat*)—very great
+- सहः (*sahaḥ*)—endowed with strength
+- सः (*saḥ*)—you
+- मध्यमानः (*madhyamānaḥ*)—by the act of churning
+- जायसे (*jāyase*)—you are born
+- अंगिरः (*aṃgiraḥ*)—O Agni, who are Aṅgiras yourself
+- त्वां (*tvāṃ*)—you
+- सहसः पुत्रं (*sahasaḥ putraṃ*)—as the son of strength
+- आहुः (*āhuḥ*)—they call
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who were hidden within the cave and had taken refuge in every tree, the Aṅgirasa seers found as the fruit of their effort. You, endowed with very great strength, are born by the act of churning. O Agni, who are Aṅgiras yourself, they call you the son of strength.
+### Printed p. 41
+
+##### English translation
+The Angirasas discovered you, Agni, hidden in secret, and taking refuge from wood to wood : you are generated, being churned with great force; therefore they have called you, Angiras, the son of strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वां सहसः पुत्रं आहुः (*tvāṃ sahasaḥ putraṃ āhuḥ*)—When fire is produced by churning in the fire-sticks, great force has to be used for the churning. Since Agni is produced in this way by the application of force, it is a usage particularly common in the Ṛgveda to call Agni सहसः पुत्रं (*sahasaḥ putraṃ*), the son of strength, that is, one produced by the application of force. On the matter of agni-mathana see what is written in the Special Topics of the 3rd Ṛk of this sūkta (page 37).
+## Sūkta 12 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राग्नये बृहत इति षडृचं द्वादशं सूक्तं सुतंभरस्यार्षं त्रैष्टुभमाग्नेयं । प्राग्नय इत्यनुक्रांतं ॥ प्रातरनुवाक आग्नेये क्रत्ौ त्रैष्टुभे छंदस्याश्विनशस्त्रे चेदं सूक्तं विनियुक्तं । सूत्रितं च । प्राग्नये बृहते प्र वेधसे ।
+> आ. ४-१३ । इति ॥
+> अनुवादवु—प्राग्नये बृहते ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हन्नॆरडनॆय
+> सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ सुतंभर आत्रेयः ऎंबुवनु ऋषियु;
+> अग्नियु देवतॆयु ; त्रिष्टुप् छंदस्सु; अनुक्रमणिकॆयल्लि—प्राग्नये ऎंदु मॊदलागि हेळिरु
+> वुदु. प्रातरनुवाकमंत्रपठनकालदल्लि आग्नेयक्रतु संबंधवाद त्रिष्टुप् छंदस्सिन मंत्रगळिगागि
+> ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौतसूत्रद—प्राग्नये बृहते प्र वेधसे
+> कवये ऎंब सूत्रदिंद (आ. ४-१३) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, beginning प्राग्नये बृहत (*prāgnaye bṛhata*), has six Ṛks; its seer is Sutaṃbhara, its metre Triṣṭubh, its deity Agni. So the Anukramaṇī: प्राग्नय (*prāgnaya*) and so on. This sūkta is employed at the Prātaranuvāka, in the Āgneya rite, for the verses in Triṣṭubh metre, and in the Āśvina-śastra. It is also prescribed in the sūtra प्राग्नये बृहते प्र वेधसे (*prāgnaye bṛhate pra vedhase*) (Ā. 4-13).
+### Printed p. 42
+
+> सूक्त-१२
+> ॥ मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—१२ ॥
+> ॥ अष्टेक—४ ॥ अध्याय— १ ॥ वर्ग—४ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६
+> ॥ ऋषिः—सुतंभर आत्रेयः ॥
+> ॥ देवता—अग्निः ॥
+> ॥ छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राग्नये॑ बृह॒ते य॒ज्ञिया॑य ऋ॒तस्य॒ वृष्णे॒ असु॑राय॒ मन्म॑ ।  
+> घृ॒तं न य॒ज्ञ आ॒स्ये॒३॒॑ ३ सुपू॑तं॒ गिरं॑ भरे वृष॒भाय॑  ॒
+> प्रतीचीं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अग्नये । बृहते । यज्ञियाय । ऋतस्य । वृष्णे ! असुराय । मन्म  
+> धृतं । न । यजॆ ी । आस्ये । सुपूतं । गिरं । भरे । वृषभाय । प्रतीचीं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहते सामर्थ्यातिशयेन महते यज्ञियाय यज्ञार्हाय ऋतस्कोदकस्य वृष्णे वर्षित्रे । ऋतमित्युदकनामसु पाठात् । असुराय बलवते ॥ असेर्णादिक उरन्प्रत्ययः ॥ वृषभाय कामानां वर्षित्रेऽग्नये मन्म ज्ञानसाधनं
+> प्रतीचीमभिमुखीं गिरं स्तुतिरूपां वाचं प्रभरे । प्रणयामि । कथमिव ।
+> सुपूतं सम्यक्संस्कृतमास्यॆ प्रहुतं यज्ञे धृतं न धृतमिव । आस्ये प्रहुतं धृतं
+> यथा प्रीतिकरं भवति तथा प्रीतिकरीं स्तुतिमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+To great Agni, great through excess of ability, worthy of sacrifice, the showerer of ṛta (ṛta is water, as it is read among the names of water), the strong (asura means mighty), the showerer of desires, I bring forward an utterance in the form of praise, a means of knowledge, directed to him. How? As ghee, well purified, poured into the mouth at the sacrifice is pleasing to him, so I bring a praise that is pleasing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञे (*yajñe*)—at the time of the sacrifice
+- सुपूतं (*supūtaṃ*)—well purified
+- धृतं (*dhṛtaṃ*)—the stream of ghee **NOTE**
+- आस्येन (*āsyena*)—as one offers it into the mouth of Agni
+- बृहते (*bṛhate*)—to him who has the nature of greatness
+- यज्ञियाय (*yajñiyāya*)—worthy of sacrifice
+### Printed p. 43
+- ऋतस्य (*ṛtasya*)—of water
+- वृष्णे (*vṛṣṇe*)—the causer of rain (the one who pours down rain)
+- असुराय (*asurāya*)—endowed with strength
+- वृषभाय (*vṛṣabhāya*)—the showerer of desires
+- अग्नये (*agnaye*)—to Agni
+- मन्म (*manma*)—that which brings about reflection
+- प्रतीचीं (*pratīcīṃ*)—that which comes to meet him
+- गिरं (*giraṃ*)—the praise
+- प्रभरे (*prabhare*)—I offer
+
+##### भावार्थ (Bhāvārtha)
+
+As, at the time of the sacrifice, a stream of well-purified ghee is offered into the mouth of Agni, so I offer, to Agni, who has the nature of greatness, is worthy of sacrifice, causes rain, is endowed with strength and showers desires, a praise that brings about reflection and comes to meet him.
+
+##### English translation
+I offer to the great, the adorable Agni. the rainer of water, the vigorous, the showerer (of benefits), the present acceptable praise, like well-purified butter (poured) at sacrifices into his mouth.
+
+##### विशेषविषयगळु (Special Topics)
+
+बृहते—सामर्थ्यातिशयेन महते । (*bṛhate—sāmarthyātiśayena mahate |*) The abilities of Agni are many: the power to give the desired objects to those who worship him, the power to destroy enemies, the power to carry the oblations and other materials that the sacrificers offer in him to the gods for whom they are intended, and many other kinds of power and ability. Because Agni has these, he is possessed of excess of ability, and so the great nature of Agni is set out here.
+असुराय (*asurāya*)—The word asura has many meanings. Here असुराय—बलवते । (*asurāya—balavate |*) the word is used in the sense of strength.
+प्रतीचीं (*pratīcīṃ*)—This word is an adjective of the word गिरं (*giraṃ*). The main purport is: I stand facing Agni and recite the words of praise.
+सुपूतं धृतं आस्स्येन (*supūtaṃ dhṛtaṃ āssyena*)—Here an illustration is given for reciting the hymn while standing facing Agni. It is a matter of experience that when ghee (ghṛta) is offered in Agni it burns blazing and shining; that is, the idea is suggested that Agni is pleased by a stream of ghee. Therefore, in the way in which Agni is pleased when ghee is offered in the mouth of Agni, that is, in the Agni blazing with flames, in that way the seer describes: may Agni be pleased with the words of praise that I, the seer, recite standing facing Agni.
+### Printed p. 44
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं चि॑कित्स ऋ॒तमिच्चि॑किद्द्य॒तस्य॒ धारा॒ अनु॑ तृंधि पू॒र्वीः ।  
+> नाहं या॒तुं सह॑सा॒ न द्व॒येन॑ ऋ॒तं स॑साम्यरु॒षस्य॒ वृष्णः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं । चिकित्वः । ऋतं । इत् । चिकिद्दि । ऋतस्य । धाराः । अनु । तृंधि । पूर्वीः ।  
+> न । अहं । यातुं । सहसा । न । द्वयेन । ऋतं । सपामि । अरुषस्य । वृष्टः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतं स्तोत्रं हे चिकित्सो जानन्नग्ने त्वं ऋतं मया क्रियमाणमिदं
+> स्तोत्रं चिकिद्धि । जानीहि ॥ कित ज्ञाने । जुहोत्यादिः । लोटि रूपं । इदिति पूरणः ।
+> ऋतमिति पदस्य परस्मिन्नामंत्रिते विद्यमानेऽपि छांदसत्वात्परांगवद्भावाभावः॥ किंच
+> पूर्वर्बह्वीऋतस्कोदकस्य धारास्तस्य पोषणार्थमुत्पादयितमनु तृंधि ।
+> मेघाननुविध्य । सहसा बलेन युक्तोऽहं यातुं कर्मणां नाशकरीं हिंसां न
+> सपामि । न स्पृशामि । न करोमीति यावत् । द्वयेन च सत्यानृताभ्यां यत्किंचिदवैदिकं कृत्यं न सपामि ॥ षप समवाय इति धातुः ॥ किंतु अरुषस्य रोचमानस्य
+> वृष्णः कामानां वर्षितुस्तव ऋतं स्तोत्रमेव सपामि ॥
+
+##### Gist of the bhāṣya
+
+ṛta here means praise. O Agni, who know (cikitvaḥ), know this praise made by me. Further, to nourish the world, to bring about the abundant streams of ṛta, that is, of water, pierce (tṛndhi) the clouds. I, endowed with strength, do not touch (sapāmi), that is, I do not practise, the violence that destroys sacrificial rites; and with the two, truth and untruth, I do not do any act that is not Vedic. But I address only praise to you, the radiant one, the showerer of desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतं (*ṛtaṃ*)—my praise
+- चिकित्सः (*cikitsaḥ*)—O Agni, who know
+- ऋतुं (*ṛtuṃ*)—this praise composed by me
+- चिकिद्दि (*cikiddi*)—praise fully
+- पूर्विः (*pūrviḥ*)—abundantly
+- ऋतस्य (*ṛtasya*)—of water
+- धाराः (*dhārāḥ*)—the streams
+- अनु त्वंधि (*anu tvaṃdhi*)—cause (from the cloud) to pour down
+- सहसा (*sahasā*)—endowed with strength
+- अहं (*ahaṃ*)—I
+- यातुं (*yātuṃ*)—the act that obstructs the rite
+- न सपामि (*na sapāmi*)—I do not practise
+- द्वयेन (*dvayena*)—either by truth or by untruth
+- न (*na*)—I do not trouble (but)
+- अरुषस्य (*aruṣasya*)—of you who have a radiant colour
+- वृष्णः (*vṛṣṇaḥ*)—the showerer of desires
+- ऋतं (*ṛtaṃ*)—praise itself (I practise)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who know the excellence of my praise, praise this hymn composed by me. Cause streams of water to pour abundantly from the cloud. I, from pride in my strength,
+### Printed p. 45
+do not practise obstruction of the rite. Either by truth or by untruth, I do not trouble the rite. But I compose and recite praise of you, who have a radiant colour and shower desires.
+
+##### English translation
+Agni, who know (the purpose of) the sacrifice, assent to this rite: be favourable to the copious showers of water : (endowed) with strength, (I undertake) not (to obstruct) sacred acts, nor adjure the rite with both (truth and untruth), but (repeat the praise) of the resplendent showerer (of benefits).
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is not so clear. To make the meaning clear, many words have been supplied, and an effort has been made so that a definite sense becomes evident. Only some of them are explained here.
+ऋतं (*ṛtaṃ*)—In this Ṛk this word is read three times. For this word ṛta Sāyaṇa gives the meaning "this hymn made by me (the seer)". For the word ऋतस्य (*ṛtasya*) he gives the meaning उदकस्य (*udakasya*), "of the waters". For the use of the word dhārāḥ, "streams of water", in ऋतस्य धाराः (*ṛtasya dhārāḥ*) indicates that the word ṛtasya means water (or ghee?).
+यातुं—कर्मणां नाशकरीं हिंसां । (*yātuṃ—karmaṇāṃ nāśakarīṃ hiṃsāṃ |*) He has fitted the meaning: the violence that causes obstruction to the sacrificial rite.
+द्वयेन (*dvayena*)—Here also an explanation is given that the two are two kinds of rite, truth and untruth.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॑ नो अग्न ऋ॒तय॑न्नृ॒तेन॒ भुवो॒ नवे॑दा उ॒चथ॑स्य॒  ॑
+> नव्यः ।  
+> वेदा॑ मे दे॒व ऋ॑तु॒पा ऋ॑तू॒नां नाहं पतिं॑ सनि॒तुर॒स्य  ॒
+> रायः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 39. Vol 19 pp. 33-39: Mandala 5 sukta 11 Rk 1-5
+**Progress note:** Done through printed p. 45. Vol 19 pp. 40-45: Mandala 5 sukta 11 Rk 6, sukta 12 intro, Rk 1-2, Rk 3 Samhita
