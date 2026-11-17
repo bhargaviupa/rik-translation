@@ -100,7 +100,12 @@ def kind_tentative(L):
         n = sub_tent(l)
         if n != l: rm[i] = n
     return rm
-KINDS = {'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+def kind_asprinted(L):
+    rm = {}
+    for i, l in enumerate(L):
+        if '[as printed]' in l: rm[i] = re.sub(r'\s?\[as printed\]', '', l)
+    return rm
+KINDS = {'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
