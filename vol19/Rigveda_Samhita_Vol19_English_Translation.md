@@ -1500,6 +1500,266 @@ The meaning of this Ṛk is not so clear. To make the meaning clear, many words 
 > वेदा॑ मे दे॒व ऋ॑तु॒पा ऋ॑तू॒नां नाहं पतिं॑ सनि॒तुर॒स्य  ॒
 > रायः ॥ ३ ॥
 
+### Printed p. 46
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । नः । अग्ने । ऋतयन् । ऋतेन । भुवः । नवेदाः । उचथस्य । नव्यः ।  
+> वेद । मे । ' देवः । ऋतुपाः । ऋतूनां । न । अहं । पतिं । सनितुः । अस्य ।  
+> रायः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऋतयन् सर्वप्राणिनां जीवनहेतुकमुदकं कुर्वन् कया
+> केनाप्यृतेन सत्येन क्रियमाणीन कर्मणा न उचथस्यास्मदीयस्य स्तोत्रस्य नवेदा
+> ज्ञाता भुवः । भवेः । नव्यः स्तुत्य ऋतूनां ऋतूपाः । द्वितीय ऋतुशब्दोऽनुवादकः । देवो द्योतमानोऽग्निर्मे मां वेद वेत्तु । सनितुर्भजमानस्यास्य
+> मम रायः पश्वादिलक्षणस्य पतिं स्वामिनं तमग्निमहं न जानामि ॥ भुवः । भू
+> सत्तायां । लिजर्थे लेट्यडागमः । उवजादेशः । नवेदाः । न न वेत्तीति वेत्तीत्यस्मिन्नर्थे वर्तते । कथमेतल्लभ्यते । निपातनात् । द्विनञ्पूर्वस्यासुन्प्रत्ययांतस्य
+> वेदेरेकस्य नइतो लोपोऽन्यस्य प्रकृतिभावश्च स्कंदस्वामिना निपातितः । पाणिनिना
+> तु नभ्राण्णपादिति सूत्रेन वेत्तीत्येतस्मिन्नर्थे निपातितः । अस्यार्थस्यानुपपन्न त्वात्
+> स्कंदस्वामिपक्ष एवाश्रीयते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, who make water, the means of life of all beings, by what rite performed with truth do you become the knower of our praise? The praiseworthy one, the guardian of the seasons (the second word for "season" is only a repetition), the shining Agni, may he know me. Of me, the one who serves him, whose wealth consists of cattle and the like, I do not know that Agni, the lord. He explains नवेदाः (*navedāḥ*) as having the sense "he knows" (not "he does not know"), which is obtained by an irregular formation; he adopts the view of Skandasvāmin, while Pāṇini by the sūtra नभ्राण्णपादिति (*nabhrāṇṇapāditi*) gives the word a sense that does not fit here, so that the sense is not suitable. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ऋतयन् (*ṛtayan*)—providing water (to all beings)
+- कया ऋतेन (*kayā ṛtena*)—by what rite, of the nature of truth
+- नः (*naḥ*)—our
+- उचथस्य (*ucathasya*)—of the praise
+- नवेदा: (*navedā:*)—as the knower
+- भुवः (*bhuvaḥ*)—do you become?
+- नव्यः (*navyaḥ*)—the praiseworthy one
+- ऋतूनां (*ṛtūnāṃ*)—of all the seasons
+- ऋतुपाः (*ṛtupāḥ*)—the guardian
+- देवः (*devaḥ*)—the shining one, Agni
+- मे (*me*)—me
+- वेद (*veda*)—may he know (as his devotee)
+- सनितु: (*sanitu:*)—endowed with wealth
+- अस्य (*asya*)—my
+- रायः (*rāyaḥ*)—of wealth
+- पतिं (*patiṃ*)—the lord, Agni alone
+- अहं (*ahaṃ*)—I
+- न (*na*)—do not yet know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who provide water to all beings and do good to the world, which of our rites can make you know our praise? May Agni, the praiseworthy one, the guardian of the seasons, the shining one, know me as his devotee. Only Agni, the lord of my wealth, I have not yet seen face to face.
+### Printed p. 47
+
+##### English translation
+Agni, bestower of water, by what (act of) truth may you, who are adorable, be cognizant of our adoration ? may the divine Agni, the guardian of the seasons recognize me : I (know) him not (yet) as the lord of the riches of which I am the possessor.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk also the word ṛtu is used four times. For the first, ऋतुयन् (*ṛtuyan*), the meaning given is water; for the second, ऋतेन (*ṛtena*), a rite of the nature of truth; for the third and the fourth, the words ऋतूनां ऋतुपाः (*ṛtūnāṃ ṛtupāḥ*), the meaning given is the seasons (words denoting time). Here there is a repetition, ऋतुपा ऋतूनां (*ṛtupā ṛtūnāṃ*). Such repeated expressions are specially found in the Ṛgveda: रयिपतिं रयाणां (*rayipatiṃ rayāṇāṃ*); विशां विश्वतिं (*viśāṃ viśvatiṃ*); रयाणां त्वा रयिपतिं (*rayāṇāṃ tvā rayipatiṃ*); वसूनां वसुपतिं (*vasūnāṃ vasupatiṃ*), and so on.
+सनितुः अस्य रायः पतिं अहं न—भजमानस्य मम पश्वादिलक्षणस्य धनस्य स्वामिनं तमग्निं नाहं जानामि । (*sanituḥ asya rāyaḥ patiṃ ahaṃ na—bhajamānasya mama paśvādilakṣaṇasya dhanasya svāminaṃ tamagniṃ nāhaṃ jānāmi |*) Agni is the lord of wealth. This wealth is of many kinds, such as cattle, food and houses. The seer says that he (being of little understanding) does not know well the qualities and surpassing powers of Agni, the lord of such wealth, and thus expresses the greatness of Agni and his own smallness.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के ते॑ अग्ने रि॒पवे॒ बंध॑नासः॒ के पा॒यवः॑ सनिषंत द्यु॒मंतः॑।  
+> के धा॒सिम॑ग्ने॒ अनृ॑तस्य पांति॒ क आस॑तो॒ वच॑सः संति गो॒पाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । ते । अग्ने । रिपवे । बंधनासः । के । पायवः । सनिषंत । द्युमंतः ।  
+> के । धासिं । अग्ने । अनृतस्य । पांति । के । असतः । वचसः । संति । गोपाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 48
+
+> हे अग्ने ये रिपवे स्वकीयस्य शत्रोः बंधनासो बंधकाः स्युस्ते तत्संबंधिनस्ते पुरुषाः के कीदृशाः । सामर्थातिशयादेवंविधा इति केनापि ज्ञातुं न
+> शक्यंत इत्यर्थः । ये पायवो जनानां रक्षितारो द्युमंतो दीप्तिमंतः सनिषंत
+> दीनेभ्यो धनं प्रयच्छंति त्वदीयाः के कीदृशाः । येऽनृतस्यासत्यस्य धासिं धारकं
+> जनं पांति रक्षंति ते त्वदीया जनाः के संति । न केऽपीत्यर्थः । येऽसतो दुष्टस्याभिशापादिलक्षणस्य वचसो गोपा गॊपायितारो रक्षितारस्ते त्वदीयाः के संति ।
+> न केऽपीत्यर्थः । अथवा ये के जना रिपोर्बंधकाः । ये के पायवो रक्षितार्
+> सनिषंत धनं प्रयच्छंति द्युमंतः । ये केऽनृतस्यासत्यस्य धासिं धारकं जनं पांति
+> अनृतजनितपापात्परिहृत्य सन्मार्गप्रदानेन रक्षंति । ये केऽसतोऽभिशापादिलक्षणाद्वचसो गोपा गॊपायितारः संति ते सर्वॆ त्वदीयाः । त्वदुपासका इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, who are those of your people that would be the binders of one's enemy? By reason of their surpassing power no one can know of what kind such men are: this is the meaning. Who among yours are the radiant protectors of people, who give wealth to the poor? Who of yours protect the man who bears untruth? Who are there as guardians of evil speech, such as a curse? None at all: this is the meaning. Or else: whoever are the binders of the enemy; whoever are the protectors who give wealth and are radiant; whoever protect the man who bears untruth by turning him away from the sin born of untruth and giving him the right path; whoever are guardians of evil speech of the nature of curses and the like: all of these are yours, that is, your worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—among the men who belong to you
+- रिपवे (*ripave*)—to the enemy
+- बंधनासः (*baṃdhanāsaḥ*)—the binders
+- के (*ke*)—who?
+- द्युमंतः (*dyumaṃtaḥ*)—the radiant
+- पायवः (*pāyavaḥ*)—the protectors of the poor
+- के (*ke*)—who
+- सनिषंत (*saniṣaṃta*)—give wealth to the afflicted?
+- अनृतस्य (*anṛtasya*)—of untruth
+- धासिं (*dhāsiṃ*)—the bearer, the man
+- के (*ke*)—who
+- पांति (*pāṃti*)—protect?
+- असतः (*asataḥ*)—of wicked
+- वचसः (*vacasaḥ*)—speech
+- गोपाः (*gopāḥ*)—the guardians
+- के संति (*ke saṃti*)—who are there?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, among the company of men who belong to you, who are the good and who are the bad? How many are there who bind enemies and give wealth to the afflicted, who are radiant and protectors of the poor? How many are there who protect the man of untruthful nature and his evil deeds? Who are they?
+
+##### English translation
+Who, Agni, among your (followers) are the imprisoners of foes ? who among them are the protectors (of men), the splendid distributors of gifts ? who among them defend the asserter of untruth ? who are the encouragers of evil deeds ?
+
+##### विशेषविषयगळु (Special Topics)
+
+O Agni, those who conquer and bind the enemy, the protectors of the poor, those who give wealth to the afflicted, those who protect, without seeing, those who have spoken untruth, **NOTE** and those who have gained good sense so as not to speak evil words: all such good men are yours, that is, they are those who worship you. This is the main purport.
+### Printed p. 49
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑यस्ते॒ विषु॑णा अग्न ए॒ते शि॒वासः॒ संतो॒ आशि॑वा अभूवन्।  
+> अधू॑र्षत स्व॒यमे॒ते वचो॑भिर्ऋजूय॒ते वृ॑जि॒नानि॑  ॒॑
+> ब्रुवंतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । ते । विषुणाः । अग्ने । एते । शिवासः । संतः । अशिवाः । अभूवन् ।  
+> अधूर्षत । स्वयं । एते । वचःभिः । ऋजुयते । वृजिनानि । ब्रुवंतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव सखायः स्तोतारो विषुणा विप्रकीर्णाः सर्वत्र व्याप्ता
+> एते पूर्वमशिवाः परनिंदादिकुर्वाणास्त्वत्परिचर्यां त्यजंतोऽभद्राः संत
+> इदानीं त्वत्परिचर्यां कुर्वंतः शिवासः शिवा आध्या अभूवन् । किंच य ऋजूयत
+> ऋजु सम्यगाचरतेऽपि मह्यं वचोभिरसाधूक्तिभिर्वृजिनानि कुटिलानि ब्रुवंतस्त
+> एते मम सपत्नाः स्वयमेवाधूर्षत । अहिंस्यंत ॥ धूर्वतेर्हिंसाकर्मण इदं
+> रूपं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, these friends of yours, your praisers, dispersed and spread everywhere, who were formerly inauspicious, reviling others and the like and abandoning your service, and so unfortunate, have now become auspicious and fortunate, rendering you service. Moreover, those who, to me who conduct myself straight and rightly, speak crooked things with words, that is, with evil speech: these my rivals may themselves be harmed. The word अहिंस्यंत (*ahiṃsyaṃta*) is given as the sense of the verb form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विषुणाः (*viṣuṇāḥ*)—dispersed and settled everywhere
+- एते ते सखायः (*ete te sakhāyaḥ*)—these men, friends of yours
+- अशिवाः संतः (*aśivāḥ saṃtaḥ*)—(formerly, not worshipping you) being doers of inauspicious acts; (now)
+- शिवासः (*śivāsaḥ*)—in the auspicious work of your worship
+- अभूवन् (*abhūvan*)—they are engaged
+- ऋजूयते (*ṛjūyate*)—to me, the doer of good acts
+- वचोभिः (*vacobhiḥ*)—with evil words
+- वृजिनानि (*vṛjināni*)—deceitful acts
+- ब्रुवंतः (*bruvaṃtaḥ*)—who practise
+- एते (*ete*)—these my enemies
+- स्वयं (*svayaṃ*)—of their own accord
+- अधूर्षत (*adhūrṣata*)—let them bring harm upon themselves
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, these men, friends of yours, dispersed and settled everywhere, who formerly, not worshipping you, were doers of inauspicious acts, are now engaged in the auspicious work of your worship.
+### Printed p. 50
+Let these my enemies, who practise deceitful acts upon me, the doer of good acts, by the use of evil words, bring harm upon themselves of their own accord.
+
+##### English translation
+These your friends, Agni, everywhere dispersed, were formerly unhappy (in abandoning your worship), but are again fortunate (by its renewal); may they who, with (censorous) words, impute fraudulent (practices) to me who pursue a straight path, bring evil upon themselves.
+
+##### विशेषविषयगळु (Special Topics)
+
+Those who are now good men were formerly, that is, before worshipping Agni, wicked and used to do evil deeds. All such wicked people, having worshipped Agni and thereby gained good sense, have become good men. But for all those who have not become good in that way by serving Agni, the wicked people who are my enemies and deceive me, may harm come according to the fruit of their deeds. This is the main purport.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ अग्ने॒ नम॑सा य॒ज्ञमाट्ट॑ ऋ॒तं स पा॑त्यरु॒षस्य॒ वृष्णः॑ ।  
+> तस्य॒ क्षयः॑ पृ॒थुरा सा॒धुरे॑तु प्र॒सर्सा॑णस्य॒ नहु॑षस्य॒ शेषः॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । अग्ने । नमसा । यज्ञं । ईट्टे । ऋतं । सः । पाति । अरुषस्य । वृष्णः ।  
+> तस्य । क्षयः । पृथुः । आ । साधुः । एतु । प्रसस्राणस्य । नहुषस्य । शेषः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यो मनुष्यो यज्ञं यजनीयं ते त्वां नमसा स्तोत्रॆणेट्टे
+> स्तौति । यद्वा । ते तुभ्यं यज्ञं यागं नमसान्नरूपेण हविषेट्टे यजति ॥
+> अस्मिन् पक्षे यजेर्बहुलं छंदसीति शपः श्लुः । श्लाविति द्विर्वचनं । बहुलं
+> छंदसीति संप्रसारणं । सवर्णदीर्घः । जकारस्य टकारः ॥ योऽरुषस्य रोचमानस्य
+
+### Printed p. 51
+
+> वृष्णः कामानां वर्षितुरग्नेर्युतं स्तोत्रं पाति रक्षति तस्य यजमानस्य क्षयो
+> गृहं पृथुर्विस्तीर्णं भवति । पश्वादिलक्षणैर्धनैः संपूर्णं भवतीत्यर्थः । प्रसर्स्राणस्य प्रकर्षेण परिचर्या० गच्छतो नहुषस्य मनुष्यस्य साधुः कामानां
+> साधकः शेषः । शिष्यत इति शेषः । पुत्र ऐतु । आगच्छतु । भवत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the man who praises you, the one worthy of worship, with reverent praise; or else, the man who worships you with the oblation in the form of food, offering the sacrifice to you. (The explanation of the verbal form for this second view is a matter of grammar.) He protects the praise belonging to Agni, the shining one, the showerer of desires. The house of that sacrificer becomes extensive, that is, it becomes full of wealth such as cattle. To the man who goes forth in service of you, may a virtuous remnant, one who accomplishes desires, come: what remains is called the remnant, that is, a son; the meaning is "may he come, may he be".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the man who
+- यज्ञं (*yajñaṃ*)—worthy of worship
+- ते (*te*)—you
+- नमसा (*namasā*)—with praise
+- ईट्वे (*īṭve*)—praises
+- सः (*saḥ*)—he
+- अरुषस्य (*aruṣasya*)—of the one who has a radiant lustre **NOTE**
+- वृष्णः (*vṛṣṇaḥ*)—of Agni, the showerer of desires
+- ऋतं (*ṛtaṃ*)—the praise that is a part of the sacrifice
+- पाति (*pāti*)—protects
+- तस्य (*tasya*)—of that same sacrificer
+- क्षयः (*kṣayaḥ*)—the dwelling-house
+- पृथुः (*pṛthuḥ*)—grows extensive
+- प्रसर्साणस्य (*prasarsāṇasya*)—who worships you most excellently
+- नहुषस्य (*nahuṣasya*)—to the man
+- साधु: (*sādhu:*)—of good understanding
+- शेषः (*śeṣaḥ*)—a son
+- आ एतु (*ā etu*)—may he be born
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who praises you, the one worthy of worship, with reverent praise protects the praise, a part of the sacrifice, of Agni, who is radiant and a showerer of desires. The dwelling-house of that same sacrificer grows extensive. To the man who worships you most excellently, may a son of good understanding be born.
+
+##### English translation
+May the dwelling of him, Agni, who celebrates your worship with reverence, of him who protects the sacrifice (offered) to the resplendent showerer (of benefits), be well stored and may a virtuous successor of the man who diligently worships you come in his place.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the two preceding Ṛks the seer told of the troubles that come to those who do not worship Agni; in this Ṛk he describes the fruit that comes to those who praise Agni and offer oblations. The houses of the good men who, offering oblations to Agni, the one worthy of sacrifice, worship with salutation and praise the shining Agni, the giver of what is desired, will prosper. Prosperity in cattle and the like will come to them. A good and worthy son will be born to them: so the seer has described.
+### Printed p. 52
+## Sūkta 13 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्चंतस्त्वोति षडृचं त्रयोदशं सूक्तं सुतंभरस्यार्षं गायत्रमाग्नेयं ।
+> अनुक्रांतं च । अर्चंतो गायत्रं त्विति ॥ प्रातरनुवाक आग्नेयक्रत् गायत्रछंदस्याश्विनशस्त्र इदमादिके द्वे सूक्ते । सूत्रितं च । अर्चंतस्त्वोति सूक्ते ।
+> आ. ४-१३ । इति ॥ अहवनीयोपस्थाने त्वमग्ने सप्रथा आसीत्येका । सूत्रितं च । सं
+> नः सृज सुमत्या वाजवत्या त्वमग्ने सप्रथा असीति च । आ. ३-१० । इति ॥ अश्वमेधे
+> पौष्टेष्टौ त्वमग्ने सप्रथा इति प्रथमाज्यभागानुवाक्या । त्वमग्ने सप्रथा असि सोम
+> यास्ते मयोभुव इति सद्वंतौ । आ. १०-६ । इति ॥
+> अनुवादवु—अर्चंतस्त्वा ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हदिमूरनॆय
+> सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ सुतंभर आत्रेयः ऎंबुवनु ऋषियु ;
+> अग्नियु देवतॆयु ; गायत्रीछंदस्सु. अनुक्रमणिकॆयल्लि—अर्चंतो गायत्रं तु ऎंदु
+> हेळिरुवुदु. प्रातरनुवाकमंत्रपठनदल्लि आग्नेयक्रतुसंबंधवाद गायत्रीछंदस्सिन मंत्र
+> गळिगागियू, आश्विनशस्त्रमंत्रपठनक्कागियू ई सूक्त मत्तु मुंदिन सूक्तद विनियोगविरुवु
+> दॆंदु आश्वलायनशौतसूत्रद—अर्चंतस्त्वति सूक्ते ऎंब सूत्रदिंद (आ. ४-१३) विवृत
+> वागिरुवुदु ; आहवनीयाग्नि यन्नु उपस्थानमाडुवाग-त्वमग्ने सप्रथा असि ऎंब ( ई सूक्तद
+> ४ नॆय) ऋक्कन्नु पठिसबेकॆंदु आश्वलायशौतसूत्रद—सं नः सृज सुमत्या वाजवत्या
+> त्वमग्ने सप्रथा असीति च ऎंब सूत्रदिंद (आ. ३-१०) विवृतवागिरुवुदु. मत्तु अश्वमेध
+> यागद पौष्टॆष्टियल्लि (पूषन् ऎंब देवतॆयन्नुद्देशिसि माडुव इष्टियल्लि) त्वमग्ने सप्रथा
+> ऎंब ई ऋक्कन्नु प्रथमाज्यभागद अनुवाक्यामंत्रवन्नागि पठिसबेकॆंदु आश्वलायनशौत
+> सूत्रद—त्वमग्ने सप्रथा असि सोम यास्ते मयो भुव इति सद्वंतौ ऎंब सूत्रदिंद
+> (आ. १०-६) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, अर्चंतस्त्वोति (*arcaṃtastvoti*), has six Ṛks; its seer is Sutaṃbhara, its metre Gāyatrī, its deity Agni. The Anukramaṇī says: अर्चंतो गायत्रं त्विति (*arcaṃto gāyatraṃ tviti*). In the Prātaranuvāka, in the Āgneya rite, for the verses in Gāyatrī metre, and in the Āśvina-śastra, the two sūktas beginning with this one are used. It is prescribed in the sūtra: अर्चंतस्त्वोति सूक्ते (*arcaṃtastvoti sūkte*) (Ā. Sū. 4-13). At the worship of the Āhavanīya fire, one Ṛk, त्वमग्ने सप्रथा (*tvamagne saprathā*), is used; as the sūtra says: सं नः सृज सुमत्या वाजवत्या त्वमग्ने सप्रथा असीति च (*saṃ naḥ sṛja sumatyā vājavatyā tvamagne saprathā asīti ca*) (Ā. Sū. 3-10). In the Pauṣṭa offering (iṣṭi) of the Aśvamedha, त्वमग्ने सप्रथा (*tvamagne saprathā*) is the first Ājyabhāga anuvākyā, and सोम यास्ते मयोभुव इति सद्वंतौ (*soma yāste mayobhuva iti sadvaṃtau*) (Ā. Sū. 10-6).
+
 ---
 
-**Progress note:** Done through printed p. 45. Vol 19 pp. 40-45: Mandala 5 sukta 11 Rk 6, sukta 12 intro, Rk 1-2, Rk 3 Samhita
+**Progress note:** Done through printed p. 52. Sūkta 12 Ṛk 3 (end) to Ṛk 6, start of Sūkta 13 intro, pp. 46-52
