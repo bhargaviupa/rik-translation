@@ -804,6 +804,227 @@ O Agni, delighting (candra) all beings: the men whose words, hymns that are conn
 - त्मना (*tmanā*)—by its own impulse
 - बोधति (*bodhati*)—awakens (you)
 
+### Printed p. 27
+
+##### भावार्थ (Bhāvārtha)
+
+O delightful Agni, the men, priests and others, who recite speech in the form of praise of you and extol your greatness become possessed of wealth in the form of horses; and, being powerful, they become destroyers of enemies by their strengths. The very great and excellent fame of those who praise you, spreading all over the atmosphere, awakens you of its own impulse.
+
+##### English translation
+Delightful Agni, those men who glorify you with hymns become rich in horses, and are invigorated with (foe-destroying) energies ; and their great renown, spread through the firmament, arouses (you) of your own accord.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ तै अ॑ग्ने अ॒र्चयो॒ भ्राजं॑तो यंति धृष्णु॒या ।  
+> परि॑ज्ञानो॒ न वि॒द्युतः॑ स्वा॒नो रथो॒ न वा॑ज॒युः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्ये । अग्ने । अर्चयः । भ्राजंतः । यंत्रि । धृष्णुया ।  
+> परिज नः । न । विद्युतः । स्नानः । रथः । न । वाजयुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने धृष्णया धृष्णवोऽत्यंतप्रगल्भा भ्राजंतो दीप्यमानास्ते ते
+> प्रसिद्धा अर्चयस्त्वदीया रश्मयो यंति । सर्वतो गच्छंति । कथमिव । परिज्ञानः
+> परितो गंत्रः सर्वतो व्याप्ता विद्युतो नाचिरप्रभा इव । अनेन प्रकाशातिशय
+> उक्तः । स्वानः शब्दायमानो रथो न रथमिव । अनेनार्चिषां स्वनाधिक्यमुक्तं ।
+> वाजयुर्न अन्नकाम इवान्नार्थं युद्धेषु शत्रुविजयाय यथा प्रवर्तते
+> तद्वदित्यर्थः । अनेनाहुतिविषयोऽभिलाष उक्तः ॥ यंति । इण् गत् । धृष्णया ।
+
+##### Gist of the bhāṣya
+
+O Agni, those famous rays (arcis) of yours, extremely bold and shining, go forth, that is, move in all directions. How? Like lightnings that pervade all around: by this the excess of their brilliance is stated. They are noisy like a chariot: by this the greater sound of the flames is stated. And as one who longs for food sets out in battles for victory over enemies for the sake of food, so do they; by this the longing for the oblation is stated.
+### Printed p. 28
+
+> इधृषा प्रागल्भ्ये । त्रसिगृधिधृषीत्यादिना क्नुप्रत्ययः । आदितश्च । पा. ७-२-१६ ।
+> इतीट् प्रतिषेधः । बहुवचने सुपां सुलुगित्यादिना याजादेशः । चित इत्यंतोदात्तत्वं । परिज्ञानः । अज व्रज गत् । परिपूर्णाद्घातोरन्येभ्योऽपि दृश्यंत इति
+> मनिन् । अकारलोपश्कांदसः । नित्त्वादाद्युदात्तः । वाजयुः। वाजमात्मन इच्छतीति
+> क्यच् । न छंदस्यपुत्रस्येतीत्वदीर्घयोः प्रतिषेधः । क्याच्छंदसीत्युप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+The remainder of the block consists only of grammatical derivations of the words yaṃti, dhṛṣṇuyā, parijmānaḥ and vājayuḥ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धृष्णुया (*dhṛṣṇuyā*)—possessing power that checks enemies
+- भ्राजंतः (*bhrājaṃtaḥ*)—peaceful (radiant) **NOTE**
+- त्ये (*tye*)—famed
+- तव आर्चयः (*tava ārcayaḥ*)—your rays
+- परिज्ञानः (*parijñānaḥ*)—all-pervading
+- विद्युतः न (*vidyutaḥ na*)—like the radiance of lightning (the flash)
+- स्वानः (*svānaḥ*)—sounding
+- वाजयुः (*vājayuḥ*)—rushing forward for food (in battle)
+- रथो न (*ratho na*)—like a chariot
+- यंति (*yaṃti*)—spread in all directions
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your famous rays, possessing power that checks enemies and radiant, spread in all directions like the all-pervading radiance of lightning, and like a chariot that makes a noise and rushes forward into battle for food.
+
+##### English translation
+These your bright and fierce flames, Agni, spread around like the circumambient lightnings, and are like a rattling chariot rushing (into battle) for booty.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॑ अग्न ऊ॒तये॑ स॒बाध॑सश्च रा॒तये॑ ।  
+> अ॒स्माका॑सश्च सू॒रयो॒ विश्वा॒ आशा॑स्त्ररी॒षणि॑ ॥ ६ ॥
+
+### Printed p. 29
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । अग्ने । ऊतये । सबाधसः । च । रातये ।  
+> अस्माकासः । च । सूरयः । विश्वाः । आशाः । तरीषणि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्माकं नु क्षिप्रमूतये रक्षायै भव । सबाधसश्च दारिद्रनिमित्त बाधसहितस्य च रातये धनानां दानाय भव । किंच अस्माकासोऽस्माकाः
+> पुत्रमित्रादयः सूरयः स्तोतारो विश्वाः सर्वा आशा दिशस्तरीषणि । तासां तरणे
+> क्षमा भवंतु । अथवा आशाः कामाः । आयमर्थः । स्वाभिलषितप्रशस्तसमस्तवस्तुसंपादनं कुर्वित्यर्थः ॥ सबाधसः । बाधेरसुन् । बाधॆसा सह वर्तत इति सबाधाः ।
+> वोपसर्जनस्येति सहस्य सभावः । कृदुत्तरपदप्रकृतिस्वरत्वं । रातये । रा दाने ।
+> क्तिन् । मंत्रे वृषेषपचमनविदभूवीरा उदात्त इत्यंतोदात्तः । अस्माकासः ।
+> तस्मिन्नणि च युष्माकास्माकावित्यणि कृतेऽस्माकादेशः । छांदसत्वादणो लोपः ।
+> बहुवचनेऽसुगागमः । षष्ठीबहुवचने मध्योदात्तत्वेन दृष्टत्वात्तथाविधमादेशमत्रापि कृतवानाचार्यः । विश्वाः । विशेरशिपुषीत्यादिना क्वन् । नित्त्वादाद्युदात्तः ।
+> तरीषणि । त्वा प्लवनतरणयोः । कृत्वाभ्यामिषन् । उ. ४-२६ । इतीषन् । बहुलवचनान्नलोपाभावः । अंतोदात्तश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, be quick for our protection; and be for the giving of wealth to us who are accompanied by the affliction caused by poverty. Further, may our sons, friends and others, the praisers, be capable of crossing, that is, of attaining, all the quarters (āśāḥ). Or else āśāḥ means desires; the meaning then is: accomplish for us all the excellent things we desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- ऊतये नु (*ūtaye nu*)—be for protection
+- सबाधसः च (*sabādhasaḥ ca*)—and (be) the giver of wealth that brings about the destruction of harmful poverty
+- रातये (*rātaye*)—for wealth (be the giver)
+- सूरयः (*sūrayaḥ*)—your praisers
+- अस्माकासः (*asmākāsaḥ*)—our sons, friends and others
+- विश्वाः (*viśvāḥ*)—all
+- आशाः (*āśāḥ*)—desired objects
+- तरीषणि (*tarīṣaṇi*)—let them be capable of attaining (or: capable of pervading all the quarters)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be always for our protection. Be the giver of wealth that destroys harmful poverty. May our sons, friends and others, your praisers, be capable of attaining all their desired objects.
+### Printed p. 30
+
+##### English translation
+Be prompt, Agni, for our protection, and for the gift of poverty-repelling (riches) ; and may our pious (descendants be able to) compass all their desires-
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने अंगिरः स्तु॒तः स्तवा॑न॒ आ भ॑र ।  
+> होत॑र्विभ्वा॒सहं॑ र॒यिं स्तो॒तृभ्यः॒ स्तव॑से च न उ॒तैधि॑ पृ॒त्सु ॑ ॒
+> नो वृधे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । अंगिरः । स्तुतः । स्तवानः । आ । भर ।  
+> होतः । विभ्वसहं । रयिं । स्तोतृभ्यः । स्तवसे । च । नः । उत । एधि । पृत्सु ।  
+> नः । वृधे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अंगिरः । कार्यकारणयोरभेदोपचारादंगिरसां प्रकृतिभूतोऽप्यग्निरंगिरा इत्युच्यते । हे अंगिरः पूर्वैः पुरातनैर्महर्षिभिः स्तुतः स्तवान
+> इदानींतनैश्च स्तूयमानस्त्वं विभ्वासहं महतामप्यभिभवितारं । अभिभवहेतुत्वादभिभवितृ धनमुच्यते । रयिं धनं नोऽस्माकमा भर । आहर । हे होतर्देवानामाह्वातः स्तोतृभ्यो नोऽस्मभ्यं स्तवसे स्तोतुं सामर्थ्यं च प्रयच्छ ।
+> उतापि च प्रत्सु युद्धेषु नोऽस्माकं वृधे समृद्धय एधि । भव ॥ स्तवानः ।
+> ष्टुञ् स्तुता । शानचि कर्मणि व्यत्ययेन शप्पत्यय आद्युदात्तश्च । विभ्वासहं ।
+> संहितायां विभूनामिति षष्ठीबहुवचनस्य सुपामित्यादिना आकारादेशः । तत्पुरुषे
+> कृति बहुलमिति षष्ठ्या अलुक् । पदकारस्तु विपूर्वाद्भवतेरगागमेऽन्येषामपि
+> दृश्यत इति दीर्घत्वं च मत्वावग्रहं कुर्वंति । कृदुत्तरपदप्रकृतिस्वरत्वं । स्तवसे ।
+> ष्टुञ् स्तुता । तुमर्थेऽसेन्प्रत्ययः । नित्त्वादाद्युदात्तः ।
+
+##### Gist of the bhāṣya
+
+O Agni, Aṅgiras: by the figure of non-distinction between cause and effect, Agni, though the source of the Aṅgirases, is called Aṅgiras. O Aṅgiras, praised by the ancient great seers and praised also by those of the present day, bring to us wealth that overcomes even the mighty; wealth is called "overcoming" because it is the cause of overcoming. O Hotṛ, the invoker of the gods, give to us, your praisers, the power to praise. And in battles be for our prosperity, that is, be present for it.
+### Printed p. 31
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—being Aṅgiras
+- अग्ने (*agne*)—O Agni
+- स्तुतः (*stutaḥ*)—praised by the earlier seers
+- स्तवानः (*stavānaḥ*)—and being praised by those of the present day
+- विभ्वासहं (*vibhvāsahaṃ*)—giving the power to face an adversary of great strength
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring and give
+- होतः (*hotaḥ*)—O Agni, in the form of the Hotṛ
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to those who praise you
+- नः (*naḥ*)—to us
+- स्तवसे (*stavase*)—give the capacity to praise you
+- उत (*uta*)—and
+- पृत्सु (*pṛtsu*)—in battles
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—as the cause of prosperity
+- एधि (*edhi*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of Aṅgiras, you who were praised by the earlier seers and are praised by those of the present day, give us wealth that gives the power to face an adversary of great strength. O Agni, in the form of the Hotṛ, give to us who praise you the capacity to praise you, and be the cause of our prosperity in battles.
+
+##### English translation
+Agni, you are Angiras ; glorified in the past, glorified (at present), invoker (of the gods), bring unto us riches (enabling us) to overcome the mighty : give to your praisers (ability) to praise you, and be (at hand) for our suceess in battles.
+## Sūkta 11 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनस्य गोपा इति षडृचमेकादशं सूक्तमात्रेयस्य सुतंभरस्यार्षं जागतमाग्नेयं । तथा चानुक्रांतं । जनस्य षट् सुतंभरो जागतमिति ॥ प्रातरनुवाक
+> आश्विनशस्त्रे चास्य सूक्तस्य विनियोगः ॥ जनस्य गोपास्तामग्न ऋतायवः। आ. ४-१३ ।
+> इति ॥
+> अनुवादवु—जनस्य गोपाः ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हन्नॊंदनॆय
+> सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ सुतंभर आत्रेयः ऎंबुवनु ऋषियु;
+> अग्नियु देवतॆयु; जगतीछंदस्सु. अनुक्रमणिकॆयल्लि—जनस्य षट् सुतंभरो जागतं
+> ऎंदु हेळिरुवुदु. प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्रपठनकालदल्लि ई सूक्तद विनियोगविरु
+> वुदॆंदु आश्वलायनश्रौतसूत्रद—जनस्य गोपास्तामग्न ऋतायवः ऎंब सूत्रदिंद
+> (आ. ४-१३) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta beginning जनस्य गोपा (*janasya gopā*) has six Ṛks; its seer is Sutaṃbhara Ātreya, its deity Agni, its metre Jagatī. So the Anukramaṇī: जनस्य षट् सुतंभरो (*janasya ṣaṭ sutaṃbharo*) (the metre being jāgata). The sūkta is employed at the Prātaranuvāka and in the Āśvina-śastra, according to the Āśvalāyana Śrauta Sūtra (Ā. 4-13), in the sūtra जनस्य गोपास्तामग्न ऋतायवः (*janasya gopāstāmagna ṛtāyavaḥ*). **NOTE**
+### Printed p. 32
+
+> सूक्त—११
+> ॥ मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—११ ॥
+> ॥ अष्टक—४ ॥ अध्याय—१ ॥ वर्ग—१ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—७
+> ऋषिः—गय आत्रेयः
+> देवता—अग्निः ॥
+> ॥ छंदः—१-४, ६. आनुष्टाप् । ५, ७. पंक्तिः ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निः सु॒दक्षः॑ सुवि॒ताय॒ नव्य॑से ।  
+> घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्यः॒  ॑
+> शुचिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनस्य । गोपाः । अजनिष्ट । जागृविः । अग्निः । सुदक्षः । सुविताय । नव्यसे ।  
+> घृतप्रतीकः । बृहता । दिविस्पृशा । द्युमत् । वि । भाति । भरतेभ्यः । शुचिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनस्य गोपा गोपायिता रक्षिता जागृविर्जागरणशीलः सदा प्रबुद्धः सुदक्षः
+> सुबलः सर्वैः श्लाघनीयबलः सोऽग्निर्नव्यसे नवतराय सुविताय लोकानां
+> कल्याणायाजनिष्ट । जातः । धृतप्रतीको धृतेन . प्रज्वलितांगो बृहता महता
+> दिविस्पृशाभ्रंलिहेन तेजसा युक्तः शुचिः शुद्ध एवविधोऽग्निर्भरतेभ्य ऋत्विग्यस्तधर्थं द्युमद्दीप्तिमद्यथा भवति तथा वि भाति । प्रकाशते ॥ गोपाः । गुपू रक्षणे ।
+> आयप्रत्ययः । गोपायतेः क्विप् । परत्पादतो लोपः । अत्र परत्पादपृक्तलोपे
+> कृते वर्णाश्रयत्वात् प्रत्ययलक्षणाभावेन यलोपो न स्यात् । लोपो व्योर्वलीति प्रथमं लोपग्रहणाज्ञापकाद्यलोप एव भवति। लोपाजादेशस्य यलोपविधिं प्रति न स्थानिवद्भावः । प्रत्ययस्वरः । जागृविः । जागृ निद्राक्षये । ज्ञश्चास्त्व-
+
+##### Gist of the bhāṣya
+
+Agni is the protector of the people, ever wakeful, of good strength, that is, of strength praised by all. He was born for the newer welfare of the worlds. With limbs blazing with ghee **NOTE**, endowed with great, sky-touching, that is, cloud-licking, splendour, pure: such is Agni; he shines brilliantly, in a radiant manner, for the Bharatas, the priests and sacrificers **NOTE**. The rest of the block, as far as it stands in this window, gives the grammar of the words gopāḥ and jāgṛviḥ.
+
 ---
 
-**Progress note:** Done through printed p. 26. Sūkta 5.10 Ṛks 1-4 in part, pp. 21-26
+**Progress note:** Done through printed p. 32. Vol 19 pp. 27-32: Mandala 5 sukta 10 Rk 5-7, sukta 11 intro and Rk 1
