@@ -108,6 +108,212 @@ In this same Adhyāya the epithets Trita and Adhrigu make known special qualitie
 
 The epithet Adhrigu makes known another special quality of Agni. For the word Adhri Sāyaṇa gives the meaning "unobstructed", and says that Adhrigu means one whose going is unobstructed, and
 
+### Printed p. 8
+
+(Sāyaṇa) has stated the purport. Or else it may be an epithet that also makes known the special qualities of Agni's generosity. Some English scholars have given an explanation that connects Agni with Adhrigu the immolator (Ai. Brā. 2-6,7). But that explanation is not so well founded. The purport is only that he is one whose spread is unobstructed, whether in the conduct of the sacrifice or in the display of his power.
+
+**Agni as the support of all and all-powerful.**
+
+Because Agni holds the foremost place in the performance of the sacrifice, which upholds the world, he is praised thus: अग्ने नेमिररा इव देवांस्त्वं परिभूरसि (*agne nemirarā iva devāṃstvaṃ paribhūrasi*) "O Agni, as the felly encircles the spokes, you encircle all the gods and are the cause of their secure state" (5-13-6). Agni is not the cause of the security of the gods alone. The very order of the universe is subject to Agni's will. The Vedic passages praise the view that Agni is the supreme deity who upholds the universe and controls it, in such words as ऋतेन ऋतं धरुणं धारयंत (*ṛtena ṛtaṃ dharuṇaṃ dhārayaṃta*) (5-15-2), "Agni upholds the sacrifice, which upholds the world and is of the nature of truth". The sacrifice upholds the heavenly world; it is the life of the gods who dwell in heaven. Agni, who dwells in heaven and has the form of the Āditya, is also the nourisher of the sacrifice. Such a divine self shines in the atmosphere; the seers bow to him and praise him: this is the purport that such mantras give, and the epithets Trita, Kavi, Jātavedas and the like make known Agni's being the inner controller of all, his omniscience and his omnipotence. In passages such as मित्रो न यज्जियः (*mitro na yajjiyaḥ*) (5-10-2) and भगो न वारमृण्णरे (*bhago na vāramṛṇṇare*) (5-16-2), a comparison or an identity is shown between Agni and the other forms of the Āditya, such as Mitra and Bhaga. In mantras such as त्रिरंतरिक्षं सविता महित्वना (*triraṃtarikṣaṃ savitā mahitvanā*) the Savitṛ who is described as the god shining with lordship over all three worlds, the earth and the rest, is none other than Agni in form. यादृगेव ददृशे तादृगुच्यतॆ (*yādṛgeva dadṛśe tādṛgucyatè*) (5-44-6): in whatever form this same divine self Agni shines in the earth and the other worlds, in that very form he is designated. Therefore:
+
+युंजंति ब्रध्नमरुषं चरंतं परि तस्तुषः । रोचंते रोचना दिवि ॥ (*yuṃjaṃti bradhnamaruṣaṃ caraṃtaṃ pari tastuṣaḥ | rocaṃte rocanā divi ‖*)
+(Ṛ. Saṃ. 1-6-1)
+
+the one god who is in the forms of Vāyu, Sūrya, Indra and the rest is praised in manifold forms. The stars are the special powers of this Agni, or of Indra who has the form of the Lord; thus the one principle in the form of light is praised. In many mantras such as मित्रो अग्निर्भवति (*mitro agnirbhavati*) (3-5-4-;)**NOTE**; त्वमग्ने वरुणो जायसे (*tvamagne varuṇo jāyase*) (5-3-1); त्वं वरुण उत मित्रो अग्ने (*tvaṃ varuṇa uta mitro agne*) (7-12-3); त्वमग्न इंद्रो वृषभः (*tvamagna iṃdro vṛṣabhaḥ*); त्वमग्ने राजा वरुणः (*tvamagne rājā varuṇaḥ*); त्वमग्ने त्वष्टा (*tvamagne tvaṣṭā*); त्वमग्ने रुद्रो असुरः (*tvamagne rudro asuraḥ*) (2-1-3 to 6), it is stated with precision that all the gods are only other forms of Agni.
+
+### Printed p. 9
+
+These few matters are the chief ones in the praise of Agni in the present Adhyāya. The primacy of the sacrifice cannot be assigned to any god other than Agni. Therefore it is described that all sacrifices depend on this Agni alone, in सं यज्ञासश्चरंति ...... (*saṃ yajñāsaścaraṃti ......*); that the radiant rays of Agni, in तव तै अर्चयो भ्राजंतो..... परिज्ञानः (*tava tai arcayo bhrājaṃto..... parijñānaḥ*), spread and pervade all the worlds; and that Agni is the upholder of all the worlds.
+
+## Sūkta 9 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमे मंडले प्रथमेऽनुवाके पूर्वमष्टौसूक्तानि व्याख्यातानि । त्वामग्ने
+> हविष्मंत इति सप्तर्चं नवमं सूक्तमात्रेयस्य गयस्यार्षं । सप्तमीपंचमौ
+> पंक्ति शिष्टा अनुष्टुभः । अग्निर्देवता । तथा चानुक्रम्यते । त्वामग्ने गयोऽंत्यापंचम्या पंक्ति इति ॥ प्रातरनुवाक आश्विनशस्त्रे चैतदादिके द्वे सूक्ते शंसनीये ।
+> तथैव सूत्रितं । त्वामग्ने हविष्मंत इति सूक्ते । आ. ४-१३ । इति ॥
+> अनुवादवु—ऐदनॆय मंडलद मॊदलनॆय अनुवाकदल्लि ऎंटु सूक्तगळन्नु हिंदिन
+> अध्यायदल्लि विवरिसलायितु. ईग ई अध्यायदल्लि ऒंभत्तनॆय सूक्तदिंद व्याख्यानवु आरंभिस
+> ल्पडुवुदु. त्वामग्ने हविष्मंतः ऎंब ई सूक्तवु ऐदनॆय मंडलद मॊदलनॆय अनुवाक
+> दल्लि ऒंभत्तनॆय सूक्तवु. इदरल्लि एळु ऋक्कुगळिरुववु. ई सूक्तक्कॆ गय आत्रेयः ऎंबुवनु
+> ऋषियु. ई सूक्तद ऐदु मत्तु एळनॆय ऋक्कुगळु पंक्तिश्चंदस्कवु. उळिद ऋक्कुगळु
+> अनुष्टुप् छंदस्कवु. अग्नियु देवतॆयु. अनुक्रमणिकॆयल्लि-त्वामग्ने गयोऽन्तापंचम्या पंक्ति ऎंदु हेळिरुवुदु. प्रातरनुवाक मत्तु आश्विनशस्त्र मंत्रगळ पठनक्कागि
+> ई सूक्त मत्तु मुंदिन सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौतसूत्रद-त्वामग्ने
+> हविष्मंत इति सूक्ते ऎंब सूत्रदिंद (आ. ४-१३) निवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+In the first Anuvāka of the fifth Maṇḍala, eight sūktas were explained earlier; the ninth sūkta, "Tvām agne haviṣmantaḥ", of seven Ṛks, is now taken up. Its seer is Gaya Ātreya. The fifth and the seventh Ṛks are in the Paṅkti metre, the remaining ones in Anuṣṭubh. The deity is Agni. The Anukramaṇī says accordingly: त्वामग्ने गयोऽंत्यापंचम्या पंक्ति इति (*tvāmagne gayo 'ṃtyāpaṃcamyā paṃkti iti*). This sūkta and the one after it, beginning with it, are to be recited in the Prātaranuvāka and in the Āśvina-śastra; so it is laid down in the sūtra of Āśvalāyana (Ā. 4-13), "the two sūktas Tvām agne haviṣmantaḥ".
+
+### Printed p. 10
+
+> सूक्त—९
+> ॥ मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—९ ॥
+> ॥ अष्टक—४ ॥ अध्याय—१ ॥ वर्ग—१ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—७
+> ऋषिः—गय आत्रेयः
+> देवता—अग्निः ॥
+> ॥ छंदः—१-४, ६. अनुष्टुप् । ५, ७. पंक्तिः ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने ह॒विष्मं॑तो दे॒वं मर्ता॑स ईळते ।  
+> मन्ये॑ त्वा जा॒तवे॑दसं॒ स ह॒व्या व॑क्ष्यानु॒षक् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । हविष्मंतः । देवं । मर्तासः । ईळते ।  
+> मन्ये । त्वा । जातवेदसं । सः । हव्या । वक्षि । आनुषक् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां देवं दीप्यमानं हविष्मंतो होमसाधनद्रव्यसमेता
+> मर्तासो मर्त्या ईळते । स्तुवंति । अहं च जातवेदसं । जातमुत्पन्नं चराचरु
+> भूतजातं वेत्तीति जातवेदाः । अथवा जातानि स्थावरजंगमात्मकान्येनं विदुरिति
+> जातवेदाः । यद्वा । वेद इति धननाम । जातं सर्वं वेदो धनं यस्यासौ
+> जातवेदाः । एवंविधं त्वा त्वां मन्ये । सौमि । मनिरत्र स्तुत्यर्थे वर्तते धातूनामनेकार्थत्वात्। स त्वं हव्या हवनसाधनानि हवींष्यानुषक् निरंतरतयानुषक्तं
+> यथा तथा वक्षि । वहसि ॥ हविष्मंतः । हविःशब्द औणादिकइस्पृत्ययांतत्वात्पयस्वरेणांतोदात्तः । तदस्यास्तीति मतुप् । पदसंज्ञाया अपवादत्वेन तसौ मत्त्वर्थ
+> इति भसंज्ञायां रुत्वाभावः । मतुब्ब सोरनुदात्तत्वात्पत्ययस्वर एव शिष्यते ।
+> देवं । अच् प्रत्ययांतत्वाद्देवशब्दोऽंतोदात्तः । मर्तासः । मृज् प्राणत्यागे।
+
+##### Gist of the bhāṣya
+
+O Agni, mortals who have the materials for the oblation glorify you, the shining god. I too praise you, Jātavedas. He is Jātavedas because he knows all that is born, the moving and the unmoving beings; or because all that is born, the immovable and the movable, knows him; or else, "veda" being a name for wealth, because all that is born is his wealth. Such as you are, I praise you; the root "mani" is used here in the sense of praising, since roots have many meanings. You, thus, convey the oblations, the means of sacrifice, continuously (to the gods).
+
+### Printed p. 11
+
+> असिहसिमृजुत्यादिना तन् । गुणः । मर्तः । जसेरसुक् । मर्तासः । नित्ताद्युदादात्तः । ईळते । ईड स्तुता। अदादित्वाच्छपो लुक् । आत्मनेपदेष्टनतो झरेत्वं।
+> अत्र डकारस्याध्येतृसंप्रदायप्राप्तो ळकारः । लसार्वधातुकानुदात्तेन धातुस्वरे प्राप्त अष्टमिको निघातः । मन्ये । श्यनो नित्तादाद्युदात्तत्वं । त्वा । युषि
+> मिश्रणे । मदिक्षृत्ययांतो युष्मच्छब्दः प्रत्ययस्वरेणांतोदात्तः । त्वमावेकवचन इति मपर्यंतस्य त्वादेशः । द्वितीयायां च । पा ७-२-८७ । इत्याकारः ।
+> एकादेश उदात्तेनोदात्त इत्येकादेशोऽप्युदात्त एव । त्वामौ द्वितीयाया इति
+> त्वादेशः । स्थानिवद्भावेनांतोदात्तत्वे प्राप्तनुदात्तं सर्वमपादादानित्यनुदात्तत्वं । जातवेदसं । जनी प्रादुर्भावे । क्तः । श्विदितो निष्ठायामितीट् प्रतिषेधः । जनसनखनां सन्घलोरित्यात्वं । प्रत्ययस्वरेणांतोदात्तः । वेदस्‌शब्दोऽप्यसुन्नत्ययांतत्पादाद्युदात्तः । कर्मधारयपक्षे समासांतोदात्तापनादत्वेन
+> तत्पुरुषे तुल्यार्थेत्यादिना पूर्वपदप्रकृतिस्वरे प्राप्ते कृदुत्तरपदप्रकृतिस्वरत्वं ।
+> तदपवादत्वेन गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेति पूर्वपदप्रकृतिस्वरत्वं ।
+> बहुप्रीहिपक्षे बहुव्रीहौ प्रकृत्या पूर्वपदमिति । हव्या ! हवमर्हतीत्यस्मिन्नर्थेय इत्यनुवर्तमाने छंदसि चेति यः । नपुंसकत्वाच्चिरादेशः । शेश्छंदसि बहुलमिति
+> लोपः । प्रत्ययलक्षणेन नुम् । दीर्घनलोपौ । प्रत्ययस्वरेणांतोदात्तः।
+> पक्षि । वह प्रापणे । सिप् । लुगनुवृत्ता बहुलं छंदसीति शपो लुक् । टत्वकत्वषत्वानि । सिपः पित्तान्‌नुदात्तत्वेन धातुस्वरेणाद्युदात्तत्वे प्राप्ते निघातः । आनुषक् ।
+> अनुपूर्वस्य षन्वेः क्विप् । नकारलोपः कुत्वं च । धात्वादेः सकारस्कोपसर्गात्सुनोतीत्यादिना षत्वं । दीर्घश्चांदसः । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवं (*devaṃ*)—the shining
+- त्वा (*tvā*)—you
+- हविष्मंतः (*haviṣmaṃtaḥ*)—the sacrificers who possess oblations
+- मर्तासः (*martāsaḥ*)—and who are men
+- ईळते (*īḷate*)—praise
+- (I also)
+- जातवेदसं (*jātavedasaṃ*)—who are Jātavedas in form
+- त्वा (*tvā*)—you
+- मन्ये (*manye*)—I praise
+- गा (*gā*)—such an omniscient you**NOTE**
+- हव्या (*havyā*)—oblations
+- आनुषक् (*ānuṣak*)—continuously
+- वक्षि (*vakṣi*)—carry to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers, men who possess oblations, praise you, the shining one. I also praise you, who are Jātavedas in form. Such an omniscient you carry the oblations to the gods continuously.
+
+### Printed p. 12
+
+##### English translation
+Mortals bearing oblations glorify you, Agni, the divine: I praise you, Jatavedas, for that you convey successively oblations (to the gods)
+
+##### विशेषविषयगळु (Special Topics)
+
+हविष्मंतः (*haviṣmaṃtaḥ*)—होमसाधनद्रव्यसमेताः । (*homasādhanadravyasametāḥ |*) The meaning is: sacrificers who have made ready the materials for the oblation, such as the oblation (cooked rice), ghee and kindling sticks, in order to offer them in the fire for the sake of the gods.
+
+जातवेदसं (*jātavedasaṃ*)—जातमुत्पन्नं चराचरं भूतजातं वेत्तीति जातवेदाः । अथवा जातानि स्थावरजंगमात्मकानि एनं विदुरिति जातवेदाः । यद्वा वेद इति धननाम । जातं सर्वं वेदो धनं यस्यासौ जातवेदाः । (*jātamutpannaṃ carācaraṃ bhūtajātaṃ vettīti jātavedāḥ | athavā jātāni sthāvarajaṃgamātmakāni enaṃ viduriti jātavedāḥ | yadvā veda iti dhananāma | jātaṃ sarvaṃ vedo dhanaṃ yasyāsau jātavedāḥ |*) For the word Jātavedasam Sāyaṇa has given three kinds of meaning. Since this Agni knows all the moving and unmoving things that are born in the world, he is called Jātavedas; or, since the whole class of beings, moving and unmoving, born in the world knows this Agni, Agni is called Jātavedas; or, the word Veda having the meaning of wealth (Ni. 3-9), since he possesses wealth to give to the sacrificers who perform the sacrifice, Agni is called Jātavedas: thus he has given the explanation in three ways. Besides this, मम नाम प्रथमं जातवेदः पिता माता च दधतुर्यदग्रे । (*mama nāma prathamaṃ jātavedaḥ pitā mātā ca dadhaturyadagre |*) (Tai. Saṃ. 1-5-10-1): that is, Agni himself declares, "My father and mother first gave me the name Jātavedas."
+
+मन्ये (*manye*)-स्तौमि । (*staumi |*) I praise. Here the commentator has explained that the root mani is used in the sense of praising.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्होता॒ दास्व॑तः॒ क्षय॑स्य वृ॒क्तब॑र्हिषः ।  
+> सं य॒ज्ञा स॒श्वरं॑ति॒ यं सं वाजा॑सः श्रव॒स्यवः॑ ॥ २ ॥
+
+### Printed p. 13
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । होता । दास्वतः । क्षयस्य । वृक्तबर्हिषः ।  
+> सं । यज्ञासः । चरंति । यं । सं । वाजासः । श्रवस्यवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निं यज्ञासः सर्वे यज्ञाः सं चरंति सहिता गच्छंति । श्रवस्यवो
+> यजमानस्य प्रभूतां कीर्तिं संपादयंतो वाजासो हवींषि यमग्निं सं
+> चरंति प्राप्नुवंति । एवंविशिष्टोऽग्निर्दास्वतो हविष्प्रक्षेपणादिदानवतो वृक्तबर्हिषः । वृक्तानि लूनानि बर्हिंषि दर्भा येनासौ वृक्तबर्हिः । तस्य क्षयस्य ।
+> क्षियंति निवसंत्यस्मिन् स्वर्गसाधनफलानीति क्षयः । तस्य यजमानस्य यागार्थं
+> होता देवानामाह्वाता भवति ॥ दास्वतः । दा दाने । असुन्प्रत्ययांतः । मतुपोऽदुपधात्वाद्वत्वं । धातुस्वरेणाद्युदात्त एव । क्षयस्य । क्षि निवासगत्योः । क्षयो
+> निवास इत्याद्युदात्तत्वं । वृक्तबर्हिषः । वृजी वर्जने । वर्जनमत्तोपचाराच्छेदनं । निष्ठा । प्रत्ययस्वरेणांतोदात्तः । बहुव्रीहित्वात्पूर्वपदप्रकृतिस्वरत्वं ।
+> यज्ञासः । यज्ञशब्दो यजयाचेत्यादिना नज् प्रत्ययांतोऽन्नोदात्तः । चरंति ।
+> चर गतिभक्षणयोः । अदुपदेशाल्लसार्वधातुकादनुदात्तत्वं । यद्वृत्तान्नित्यमिति
+> निघाताभावः । वाजासः । वजेर्घञ् । वाजः । कर्षात्त्वत इत्यंतोदात्तत्वं ।
+> छांदसत्वात् इन्यादिर्नित्यमित्याद्युदात्तः । श्रवस्यवः । छंदसि परेच्छायामिति
+> क्यच् । क्याच्छंदसीत्युप्रत्ययः । प्रत्ययस्वरेणांतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The Agni to whom all the sacrifices come together, and to whom the oblations, which win abundant fame for the sacrificer, resort: such an Agni is the Hotā, the invoker of the gods, for the sake of the sacrifice of that man, the donor of the oblation by casting it and the like, by whom the sacred grass has been cut, and who is the abode in which the means and fruits of heaven dwell.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Agni
+- यज्ञासः (*yajñāsaḥ*)—all the sacrifices
+- सं चरंति (*saṃ caraṃti*)—come together and serve
+- (that very Agni)
+- श्रवस्यवः (*śravasyavaḥ*)—(for the sacrificer) fame-winning
+- वाजासः (*vājāsaḥ*)—oblations
+- सं (*saṃ*) (carants)—join and resort to (such)
+- अग्निः (*agniḥ*)—Agni
+- दास्वतः (*dāsvataḥ*)—to the one who offers the oblation
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—and offers a seat of cut darbha grass
+- क्षयस्य (*kṣayasya*)—to the man
+- होता (*hotā*)—becomes the Hotā (who calls the gods in the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni whom all the sacrifices serve together, and to whom the oblations, intended to win fame for the sacrificer, resort: such an Agni becomes the Hotā, who calls the gods for the sake of the sacrifice, for the man who offers the oblation and offers a seat of cut darbha grass.
+
+### Printed p. 14
+
+##### English translation
+Agni is the invoker of the gods (on behalf of) him, the donor (of the oblation), the abode (of the fruit of good works) by whom the sacred grass has been strewn; (he) in whom congregate all sacrifices securing food and fame.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्म॒ यं शिशुं॑ यथा॒ नवं॒ जनि॑ष्टा॒रणे ॑।  
+> ध॒र्तारं॒ मानु॑षीणां वि॒शाम॒ग्निं स्व॑ध्व॒रं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । यं । शिशुं । यथा । नवं । जनिष्ट । अरणी इति ।  
+> धर्तारं । मानुषीणां । विशां । अग्निं । सुअध्वरं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च मानुषीणां मनोर्जातानां विशां । विशंति प्रविशंति गर्भाशयमिति विशः प्रजाः । तासां धर्तारमाहारादिपाकद्वारेण शरीरधातूनां पोषकं
+> स्वध्वरं शोभनयज्ञं यमग्निमरणी द्वे अरणी नवं नूतनं शिशुं यथा अपत्यमिव जनिष्ट अजनिषातां । अरणी प्रजानां पोषणार्थं चैतमग्निमसृजतामित्यर्थः॥
+> शिशुं । शो तनूकरणे । अदेच इत्यादिना आत्वं । शः कित्सन्वच्छेत्युप्रत्ययः सन्वद्भावश्च । द्विर्भावोऽभ्यासस्य ह्रस्वश्च । सन्यत इतीत्वं । आतो धातोरित्याकारलोपः।
+> नित्त्वादाद्युदात्तः । यथा । यथेति पादांत इति सर्वानुदात्तः । जनिष्ट । जनी
+> प्रादुर्भाने । लुज् । छांदसत्वाद्वचनव्यत्ययः । अरणी । ऋ गतौ । अर्तिसृबृधृधम्यश्यवित्यभ्योऽनिरित्यनिप्रत्यय आद्युदात्तः । अभ्यामर्ति गच्छत्यग्निरित्यरणी । कथमपादानार्थ औणादिकोऽनिः । ताभ्यामन्यत्रोणादयः । पा. ३-४ ७५ । इति नियमाद्भीमादित्वासिद्धं । मानुषीणां । मनोर्जातावइत्यौ षुक्षेत्य इत्ययः
+> षुगागमश्च । इत्यादिर्नित्यमित्याद्युदात्तत्वं । विशां । विश प्रवेशने । कर्तरि क्विप् ।
+> सावेकाच इति विभक्तीरुदात्तत्वं । स्वध्वरं । हिंसार्थस्य ध्वनतेः पचाद्यच् । न विद्यते
+> ध्वरो यागहिंसा यस्मिन्नित्यध्वरः । बहुव्रीहिस्वरापवादत्वेन नञ्सुभ्यामित्यंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, Agni, whom the two araṇīs (kindling sticks) generated like a new child, is the upholder of the human race, of the descendants of Manu: the viś are those who enter the womb, that is, the people. He nourishes the bodily elements of those people by way of the cooking of food and the like, and he is the one of good sacrifice. The meaning is that the two araṇīs created this Agni for the nourishment of the people.
+
 ---
 
-**Progress note:** Done through printed p. 7. Intro to Mandala 5 Sukta 9: Agni and Angiras, pp. 1-7
+**Progress note:** Done through printed p. 14. Sūkta 5.9 Ṛks 1-3, pp. 8-14
