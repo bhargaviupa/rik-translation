@@ -2957,6 +2957,258 @@ Divine Agni, a mortal thus with sacrifices (calls upon you) who are endowed with
 
 पूरुः (*pūruḥ*). In this ṛk the seer has spoken his own name. Although the verbs of the doer are in the third person, their use in the sense of the first person is a special usage current in the Ṛgveda.
 
+### Printed p. 83
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॒ हि स्वय॑शस्वरः आ॒सा वि॑धर्म॒ुन्मन्य॑से ।  
+> तं नाकं॑ चि॒त्रशो॑चिषं मं॒द्रं प॒रो म॑नी॒षया॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । हि । स्वयशतःतरः । आसा । विधर्मन् । मन्यसे ।  
+> तं । साकं । चित्रशोभिसं । मंद्रं । परः । मनीषया ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विधर्मन् । विशिष्टो धर्मो यस्यासौ विधर्मा स्तोता । तस्य संबोधनं । हे स्तोतः स्वयशस्तरः सुयतसां मध्येतिशयेन सुयशास्त्रं मनीषया
+> प्रकृष्टबुद्धा साधनेन प्रसिद्धमस्यामुं ह्यग्निमासास्येन वाजा मन्यसे । स्तौषि ।
+> किंविशिष्टमग्निं । नाकं सुखं । अकं दुःखं । न विद्यतेकं यस्य सः । तं चित्रतोभिषं चित्रतेजसं मंद्रं स्तुत्यं परः परस्ताश्चितं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the praiser: "O Vidharman", that is, one whose dharma is distinguished (viśiṣṭa); this is a vocative for the praiser. The praiser is "svayaśastaraḥ", the most renowned among those of good renown. With a mind of excellent understanding, as his means, he praises with his mouth that well-known Agni (the "hi" marks him as famous). Agni is of this kind: "nāka" is happiness; "aka" is pain; he for whom there is no pain is nāka. He is of wonderful lustre (चित्रतोभिषं (*citratobhiṣaṃ*) is glossed as "of wonderful radiance"), adorable (मंद्रं (*maṃdraṃ*) is glossed as "worthy of praise"), and supreme. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विधर्मान् (*vidharmān*)—O praiser, who have faith in various rites
+- स्वयशस्तरः (*svayaśastaraḥ*)—you, of exceeding fame
+- नाकं (*nākaṃ*)—him who is free from pain
+- चित्रशोचिषं (*citraśociṣaṃ*)—who is of manifold splendour
+- मंद्रं (*maṃdraṃ*)—who is worthy of praise
+- परः (*paraḥ*)—who has a power surpassing worldly condition
+- तं अस्य हि (*taṃ asya hi*)—that very Agni
+- मनीषया (*manīṣayā*)—endowed with excellent understanding
+- आसा (*āsā*)—with speech
+- मन्यसे (*manyase*)—you praise
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, who with faith perform many rites, you, being of exceeding fame, praise with speech endowed with excellent understanding that very Agni, who is free from pain, of manifold splendour, worthy of praise, and of a power surpassing worldly condition.
+
+##### English translation
+Performer of various functions, who are deservedly renowned, you praise by your words that Agni, who is possessed of wonderful splendour ; who is exempt from pain ; who is adorable and supreme in understanding.
+
+### Printed p. 84
+
+##### विशेषविषयगळु (Special Topics)
+
+नाकं (*nākaṃ*): अकं दुःखं । न विद तेऽकं यस्य सः (*akaṃ duḥkhaṃ | na vida te 'kaṃ yasya saḥ*). "Aka" means pain; the absence of pain is "nāka", that is, happiness. This is the meaning intended.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य वासा उ॑ अ॒र्चिषा॒ य आयु॑क्त तु॒जा गि॒रा ।  
+> दि॒वो न यस्य॒ रेत॑सा बृ॒हच्छोच॑न्त्य॒र्चयः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । वै । असौ । ऊं इति । अर्चिषा । यः । अयुक्त । तुजा । गिरा ।  
+> दिवः । न । यस्य । रेतसा । बृहत् । शोचंति । अर्चयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निस्तुजा जगद्रक्षणसमर्थेन बलेन गिरा स्तुत्यायुक्त संबद्धो भवॆति
+> दिवो न द्योतमानस्यादित्यस्येव यस्याग्ने रेतसा प्रभया कृत्स्नं जगद्वाप्तं
+> यस्याग्नेर्बृहद्बृहंतोऽर्चयो दीप्तयः शोचंति प्रकाशंते अस्य वै खल्वग्नेरचिषा प्रभयासावादित्योऽर्चिष्मान्भवति । उ इति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is joined with praise (gir) accompanied by "tuja", that is, a strength able to protect the world, is meant here. Like the shining sun, the whole world is pervaded by the radiance (retas) of whichever Agni it is whose great flames (arcayaḥ, "dīptayaḥ") shine forth. By the radiance of this Agni the sun becomes radiant. The word "u" is a mere filler. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- तुजा (*tujā*)—accompanied by the capacity to protect the world
+- गिरा (*girā*)—with praise
+- अयुक्त (*ayukta*)—joins
+- दिवो न (*divo na*)—like the luminous atmosphere
+- यस्य (*yasya*)—whose
+- रेतसा (*retasā*)—by the radiance
+- बृहत् (*bṛhat*)—of great form
+- अर्चयः (*arcayaḥ*)—all the rays
+- शोचंति (*śocaṃti*)—shine; of such a kind
+- अस्य (*asya*)—of this Agni
+- अर्चिषा वै (*arciṣā vai*)—by the radiance alone
+- असौ (*asau*)—the sun too becomes radiant
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who joins with praise accompanied by the capacity to protect the world, and by whose radiance all the rays, of great form like the luminous atmosphere, shine: by the radiance of that Agni alone the sun too becomes radiant.
+
+### Printed p. 85
+
+##### English translation
+He who is endowed with vigour, is (glorified) by praise, and by whose radiance, like that of the sky, the rays of light shine brightly : by his lustre, verily, (the sun is luminous).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that the sun shines by the radiance of Agni. In many places it is said that Agni shines in heaven (the atmosphere) in the form of the sun, which is one of his three forms. The same idea is indicated here.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य कृत्वा॒ विचे॑तसो द॒स्मस्य॒ वसु॒ रथ॒ आ ।  
+> अधा॒ विश्वा॑सु॒ हव्यो॒ ग्निर्वि॒क्षु प्र श॑स्यते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । क्रत्वा । विचेतसः । दस्मस्य । वसु । रथे । आ ।  
+> अध । विश्वासु । हव्यः । अग्निः । विक्षु । प्र । शस्यते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विचेतसः सुमतय ऋत्विजोऽस्य दस्मस्य दर्शनीयस्यास्याग्नेः क्रत्वा कर्मणा
+> यज्ञादिना वसु वसूनि धनानि रथ आ दधति । हव्यो यज्ञार्थमाह्वातव्यः सोग्निरथ
+> अथ उत्पत्त्यनंतरमेव विश्वासु सर्वासु विक्षु प्रजासु प्र शस्यते । स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+The vicetasaḥ are the priests of good understanding. By the kratu, that is, by the rite such as the sacrifice, of this Agni, who is "dasma", pleasing to see, they place (ā dadhati) wealth in the chariot. That Agni, who is to be invoked for the sacrifice, is then, immediately after his birth, praised among all the people (vikṣu, "prajāsu").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्मस्य (*dasmasya*)—of him who has an attractive form
+- अस्य (*asya*)—of this Agni
+- क्रत्वा (*kratvā*)—as the fruit of the rite of worship
+- विचेतसः (*vicetasaḥ*)—the priests of excellent understanding
+- वसु (*vasu*)—wealth
+- रथे (*rathe*)—in their chariot
+- आ (*ā*) (दधति (*dadhati*))—fill
+- हव्यः (*havyaḥ*)—who is worthy of the oblation
+- अग्निः (*agniḥ*)—Agni
+- विश्वासु (*viśvāsu*)—all
+- विक्षु (*vikṣu*)—by the people
+- प्र शस्यते (*pra śasyate*)—is praised
+
+### Printed p. 86
+
+##### भावार्थ (Bhāvārtha)
+
+As the fruit of worshipping this Agni, who has an attractive form, the priests of excellent understanding fill their chariots with wealth. Agni, who is worthy of the oblation, is praised by all the people.
+
+##### English translation
+By the worship of him who is pleasing of aspect, the provident (heap) wealth in their cars : Agni, to whom oblations are due, is then grorified by people.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू न॒ इद्धि वार्य॑मा॒सा स॑चंत सू॒रयः॑ ।  
+> ऊर्जो॑ नपाद॒भिष्ट॑ये पा॒हि श॒ग्नि स्व॒स्तय॑ उ॒तैधि॑  
+> पृ॒त्सु नो॑ वृ॒धे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । इत् । हि । वार्यं । आसा । सचंत । सूरयः ।  
+> ऊर्जः । नपात् । अभिष्टये । पाहि । शग्नि । स्वस्तये । उत । ऐधि ।  
+> पृत्सु । नः । वृधे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मभ्यं वार्यं वरणीयं धनं नु क्षिप्रं यच्छ । इद्दीति
+> पूरणौ । यतः सूरयः स्तोतारस्त्वत्तः सकाशादासास्येन स्तोत्रेण सचंत धनं
+> लभंते । किंच हे ऊर्जो नपादन्नस्य न पातयितर्बलस्य पुत्र वा अभिष्टयेऽभीच्छते मह्यमन्नं प्रयच्छेति शेषः । पाहि । अस्मानापद्भो रक्ष । स्वस्तये
+> क्षेमाय पश्वादिलक्षणस्य धनस्य क्षेमार्थं शग्धि । त्वां याचे ॥ व्यत्ययेन मध्यमा॥
+> शक्तो भवेति वा। हे अग्ने उतापि च पृत्सु पृतनासु नो मृधे सवृद्धय एधि भव॥
+
+##### Gist of the bhāṣya
+
+"O Agni, give us quickly (nu) the desirable (vāryam) wealth"; "id" is a filler. For the praisers (sūrayaḥ) obtain wealth from you by their praise (āsā, "āsyena stotreṇa"). Further, O "ūrjo napāt": son of food, or son of strength, that is, "not letting food fall". "Abhiṣṭaye" is for one who desires: the sense to be supplied is "give me food". "Protect us from calamities." "Svastaye": for welfare, for the welfare of wealth such as cattle: "be able" (शग्धि (*śagdhi*)), that is, "I ask you"; the second person is used for the first by interchange. Or it may mean "be able". "And, O Agni, in battles (pṛtsu, "pṛtanāsu") be (edhi, "bhava") for our growth." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) सूरयः (*sūrayaḥ*)—the praisers
+- आसा (*āsā*)—with their praises
+- सचंत (*sacaṃta*)—obtain whatever wealth
+- वार्यं (*vāryaṃ*)—the same desired wealth
+- नः इत् (*naḥ it*)—to us also
+- नु (*nu*)—grant quickly
+- उर्जो नपात् (*urjo napāt*)—O Agni, son of strength
+- अभिष्टये (*abhiṣṭaye*)—to me, who desire food (give food)
+- पाहि (*pāhi*)—protect (me)
+- स्वस्तये (*svastaye*)—for the securing of our welfare
+- शग्धि (*śagdhi*)—be able
+- उत (*uta*)—and
+- पृत्सु (*pṛtsu*)—in battles
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for victory and growth
+- विधि (*vidhi*)—be a helper **NOTE**
+
+### Printed p. 87
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, grant quickly to us also that same desired wealth which the praisers obtain by their praises. O Agni, son of strength, give food to me, who desire food. Protect me. Be able to secure our welfare. And in battles be a helper for our victory and growth.
+
+##### English translation
+Quickly, (Agni, give us) desirable (wealth), such as the devout combining with (pious) praise, (obtain): son of strength, (be favourable) to (my) desires ; protect us (from calamity); be alert for our prosperity ; come for our success in battles.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऊर्जोनपात् (*ūrjonapāt*): अन्नस्य पातयितः बलस्य पुत्र ना (*annasya pātayitaḥ balasya putra nā*) **NOTE**. Since the word "ūrjaḥ" has the meanings food and strength, Agni is addressed either as the lord of food, or as the son of strength, that is, one born from the churning done with the use of strength.
+शग्गि (*śaggi*): याचे (*yāce*). "I pray." Here the second person singular is used in place of the first person singular. Such usages, and the interchange of case-endings and numbers, are specially employed in the Ṛgveda.
+
+## Sūkta 18 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरग्निरिति पंचर्चं चतुर्थं सूक्तं । अत्रेयमनुक्रमणिका । प्रातर्मृक्तवाहा द्वित इति । मृक्तवाहा इति विशेषणविशिष्ट आत्रेयो द्वित ऋषिः । पंक्त्यंतं
+
+##### Gist of the bhāṣya
+
+The sūkta प्रातरग्निः (*prātaragniḥ*) has five ṛks and is the fourth sūkta (of the second anuvāka). The Anukramaṇikā says: प्रातर्मृक्तवाहा द्वितः (*prātarmṛktavāhā dvitaḥ*). The seer is Dvita Ātreya, distinguished by the epithet "Mṛktavāhā".
+
+### Printed p. 88
+
+> हीति हिशब्दादस्यापि सूक्तस्य पंचमी पंक्तिः । पंक्त्यंतपरिभाषया शिष्टा अनुष्टुभः॥
+
+##### Gist of the bhāṣya
+
+The deity is Agni. The metre goes to the end with a paṅkti (the word "hi" shows that the fifth ṛk of this sūkta is the paṅkti); by the rule that the metre named at the end governs, the remaining ṛks are anuṣṭubh. The application has been stated: the Prātaranuvāka and the Aśvina-śastra.
+
+Anuvāda: The sūkta प्रातरग्निः (*prātaragniḥ*) is the fourth sūkta in the second anuvāka. It has five ṛks. In the Anukramaṇikā it is said: प्रातर्मृक्तवाहा द्वितः (*prātarmṛktavāhā dvitaḥ*). The seer of this sūkta is Dvita Ātreya, distinguished by the epithet Mṛktavāhā; the deity is Agni; the last ṛk is in the paṅkti metre; the remaining ṛks are in the anuṣṭubh metre. The application of this sūkta, like that of the preceding sūkta, is for the recitation of the Prātaranuvāka and the Aśvina-śastra mantras.
+Sūkta 18
+Maṇḍala 5; Anuvāka 2; Sūkta 18.
+Aṣṭaka 4; Adhyāya 1; Varga 10.
+Number of ṛks in the sūkta: 5.
+Seer: Dvita Mṛktavāhā Ātreya.
+Deity: Agni.
+Metre: 1-4, anuṣṭubh; 4, paṅkti. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒तर॒ग्निः पु॑रुप्रि॒यो वि॒शः स्त॑वे॒ताति॑थिः ।  
+> विश्वा॑नि॒ यो अम॑र्त्यो ह॒व्या मर्तॆ॑षु॒ रण्य॑ति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातः । अग्निः । पुरुप्रियः । विशः । स्तवेत । अतिथिः ।  
+> विश्वानि । यः । अमर्त्यः । हव्या । मर्तेषु । रण्यति । १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुप्रियो बहुप्रियो विशो यजमाने धनस्य निवेशकोऽतिथिः । यजमानानां गृहान्प्रति तिथिष्वभ्येतीत्यतिथिः । तथाह यास्कः । अतिथिरभ्यतितो गृहान्भवत्य-
+
+##### Gist of the bhāṣya
+
+"Puru-priya" is "much loved". "Viśaḥ" is the one who establishes wealth in the sacrificer. He is the "atithi" (guest): one who comes to the houses of the sacrificers on the lunar days (tithi). So Yāska says: अतिथिरभ्यतितो गृहान्भवत्य- (*atithirabhyatito gṛhānbhavatya-*) (the passage breaks off at the end of this page and continues in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 82. pp. 77-82: Sūkta 16 Ṛks 2-5, Sūkta 17 Ṛk 1
+**Progress note:** Done through printed p. 88. Vol 19 pp. 83-88: Sukta 17 rks 2-5, start of Sukta 18
