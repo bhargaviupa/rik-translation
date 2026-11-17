@@ -17,6 +17,8 @@ Scan-based legacy workflow. A numeral/`[?]`/accent pass was agreed (user, Oct 27
 ## Status
 Translated. The file is closed except for that agreed pass.
 
+**Nov 17 2026: opened for the clean-up pass agreed with the user** (remove our remarks, verify accents; no re-translation). Prompt: `vol2/CLEANUP_PROMPT.md`; proposal: `vol2/review/cleanup_proposal.md` (Step A1 done, waiting for the user's yes); every change goes to `vol2/review/repair_log.md`.
+
 ## Open items
 Old mid-file progress notes and a stray Cyrillic string in the file; varga numerals unreconciled with colophons; expert review wanted; `[?]` (see Vol 1).
 
