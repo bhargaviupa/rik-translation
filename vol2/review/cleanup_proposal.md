@@ -44,3 +44,6 @@ Nothing in the text has been changed. Counts are my own, taken by script from `R
 
 ## Second decision of the user (Nov 17 2026)
 `[?]` on **lines with Devanagari stays** (237 marks). I propose that the 57 marks on the IAST twin lines stay with them (a twin without its mark would disagree with its Devanagari line); say if not. With the references (112, which overlap with these) the marks that remain in the text after Part A are those on Devanagari/IAST lines and after numbers; what Part A can still remove is the rest: our sentences about the marks (44) and the "elsewhere" group (69, each read first). Notes that explain marks that stay, stay.
+
+## Third decision of the user (Nov 17 2026)
+`[sic]` (143) **stays** in the text. It is not part of Part A.
