@@ -3470,6 +3470,295 @@ Metre: 1, 2, gāyatrī; 3, 4, anuṣṭubh; 5, virāḍrūpā.
 > अ॒भ्य॑व॒स्थाः प्र जा॑यंते॒ प्र व॒व्रेर्व॒व्रिश्चि॑केत ।  
 > उ॒पस्थे॑ मा॒तुर्वि च॑ष्टे ॥ १ ॥
 
+### Printed p. 95
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अव्यस्थाः । प्र । जायंते । प्र । वव्रेः । वव्रिः । चिकेत ।  
+> उपस्थे । मातुः । वि । चष्टे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वन्वेर्खुषेरभ्युत्तरोत्तरमवस्था अशोभना दशाः प्र जायंते । तादृशीर्वनिर्हविषां संभक्ता सोग्निः प्र चिकेत । प्रजानीयात् । ज्ञात्वा चापनयत्विति
+> भावः । योऽग्निर्मातुः प्रथिव्या उपस्थे समीपे स्थितं पदार्थजातं वि चष्टे पश्यति॥
+
+##### Gist of the bhāṣya
+
+Of the seer Vanvi (the "vanir"), one after another ("abhi", "uttarottaram") unhappy states ("avasthāḥ", "aśobhanā daśāḥ") arise ("pra jāyante"). Agni, who shares in the oblations, such as he is, is to take full note ("pra ciketa", "prajānīyāt"); the sense is that, having known them, he is to remove them. This is the Agni who sees ("vi caṣṭe", "paśyati") all that exists near ("samīpe") the lap ("upasthe") of the mother, the Earth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वव्रेः (*vavreḥ*)—to the seer named Vavri (to me) **NOTE**
+- अभि (*abhi*)—one after another
+- अवस्थाः (*avasthāḥ*)—circumstances of distress
+- प्र जायंते (*pra jāyaṃte*)—arise and befall
+- (यः (*yaḥ*)—which Agni)
+- मातुः (*mātuḥ*)—of his mother, the Earth
+- उपस्थे (*upasthe*)—sitting in the lap
+- वि चष्टे (*vi caṣṭe*)—looks upon everything, of such a kind
+- वव्रिः (*vavriḥ*)—Agni, who receives the oblation
+- प्र चिकेत (*pra ciketa*)—let him know fully (the distresses of Vavri) and destroy them
+
+##### भावार्थ (Bhāvārtha)
+
+One after another, circumstances of distress befall the seer named Vavri (me). May Agni, who sitting in the lap of his mother, the Earth, looks upon everything, being the receiver of the oblation, know the distresses of Vavri (mine) and avert them.
+
+##### English translation
+Unprosperous circumstances affect Vavri: may the accepter (of oblations) become cognizant (of them), as, reclining on the lap of his mother, he beholds all things.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒हु॒रे वि चि॒तयं॒तोऽनि॑मिषं नृ॒ण्मं पां॑ति ।  
+> आ दृ॒ळ्छां पुरं॑ विविशुः ॥ २ ॥
+
+### Printed p. 96
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुहुरे । वि । चितयंतः । अस्यमिषं । नृण्णं । पांति ।  
+> आ । द्वळां । पुरं । विविशुः ॥ ३ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये वि चितयंतस्तव प्रभावं जानंतो जनास्त्वानिमिषं सर्वदा जुहुरे
+> यज्ञार्थं त्वामाह्वयंति आहूय च नृष्णं तव बलं हविर्भिः स्तोत्रैश्च पांति
+> रक्षंति ते दृळ्हां शत्रुभिः साधयितुमशक्यां पुरं पुरीमा विविशुः । प्रविशंति । शतं
+> पूर्भिरायसीभिर्नि पाहि । ऋग्वे. ७-३-७ । इति निगमः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the people who, knowing ("vi citayantaḥ") your power, invoke you always ("animiṣam", "sarvadā") for the sacrifice, and having invoked you guard your "nṛṣṇam", your strength, with oblations and with praises: they enter ("ā viviśuḥ", "praviśanti") the firm ("dṛḷhām") city that cannot be taken by enemies. As proof, the Nigama: शतं पूर्भिरायसीभिर्नि पाहि (*śataṃ pūrbhirāyasībhirni pāhi*) (Ṛgve. 7-3-7) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) वि चितयंतः (*vi citayaṃtaḥ*)—people who fully know (your power)
+- अनिमिषं (*animiṣaṃ*)—always
+- जुहुरे (*juhure*)—call you for the sacrifice
+- नृण्मुं (*nṛṇmuṃ*)—your strength
+- पांति (*pāṃti*)—protect so as to increase it by hymns and the like
+- दृळ्हां (*dṛḷhāṃ*)—that cannot be besieged by enemies
+- पुरं (*puraṃ*)—city
+- आ विविशुः (*ā viviśuḥ*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the people who fully know your power always call you to the sacrifice, performing sacrifice. They protect your strength, increasing it with hymns and the like. They conquer and enter the city that cannot be besieged by enemies.
+
+##### English translation
+They who know (your power) invoke you incessantly and nourish (your) strength (by oblations): they dwell in an impregnable city.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ श्वै॑त्रे॒यस्य॑ जं॒तवो॑ द्यु॒मद्व॑र्धंत कृ॒ष्टयः॑ ।  
+> नि॒ष्कग्री॑वो बृ॒हदु॑क्थ ए॒ना मध्वा॒ न वा॑ज॒युः ॥ ३ ॥
+
+### Printed p. 97
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । श्वैत्तेयस्य जंतवः । द्यु:मत् । वर्धंत । कृष्टयः ।  
+> निष्क:ग्रीवः । बृहत् उक्कः । एना । मध्वा । स । वाजयुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जायंत इति जंतवः । कृष्णयो मनुष्या ऋत्विजो मध्वा न मधुनेव
+> ऐसैनया स्तुत्या । यद्वा नकारश्चार्थः । मधुना च श्वत्रेयस्य । श्शित्रमंतरिक्षं।
+> तत्र भवस्य वैद्युतस्याग्नेर्द्युमदिप्तमद्वलमा वर्धंत । अभिवर्धयंति । किंविधाः
+> कृस्टयः । निष्कग्रीवो निष्कण सुवर्णेनालंकृतग्रीवाः । व्यत्ययीनैकवचनं । बृह-
+
+##### Gist of the bhāṣya
+
+"Jantavaḥ" are those who are born ("jāyanta"). "Kṛṣṭayaḥ" are men, the priests. "Madhvā na" is "as with honey", with sweet praise. Or else the particle "na" has the sense of "and", and so "and with honey". "Śvaitreyasya": "śvitra" is the atmosphere; of the Agni who is of lightning, born there, they increase the splendid ("dyumat", "dīptimat") strength. What are the kṛṣṭayaḥ like? "Niṣkagrīvaḥ": those whose necks are adorned with gold, the niṣka; the singular is by interchange. Then "bṛha-" (the block breaks off here). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निष्कग्रीवः (*niṣkagrīvaḥ*)—those whose necks are adorned with golden ornaments
+- बृहदुक्षः (*bṛhadukṣaḥ*)—those who have abundant hymns
+- वाजयुः (*vājayuḥ*)—those desirous of food
+- जंतवः (*jaṃtavaḥ*)—those who have been born
+- कृष्णयः (*kṛṣṇayaḥ*)—the people, the priests **NOTE**
+- मध्वा न (*madhvā na*)—with praises that satisfy like honey
+- तैत्रेयस्य (*taitreyasya*)—of Agni who dwells in the atmosphere **NOTE**
+- द्युमत् (*dyumat*)—the splendid strength
+- आ वर्धंत (*ā vardhaṃta*)—they cause to increase
+
+##### भावार्थ (Bhāvārtha)
+
+The people, priests and others, who have necks adorned with golden ornaments, who have abundant praise, who desire food, and who have been born, cause to increase, with praises that satisfy like honey, the splendid strength of Agni who dwells in the atmosphere.
+
+##### English translation
+Living men, with collars of gold, earnest in praise, desirous of food, augment by this laudation the vigour of you abiding in the white firmament.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रि॒यं दु॒ग्धं न काम्य॒मजा॑मि ज्या॒म्योः सचा॑।  
+> घ॒र्मो न वाज॑जठ॒रोऽद॑ब्धः॒ शश्व॑तो॒ दभः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 98
+
+> प्रियं । दुग्धं । न । काम्यं । अजामि । जानोः । सचा ।  
+> घर्मः । न । वाज्‌जठरः । अदब्धः । शश्वतः । दभः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जाम्योर्द्यावापृथिव्योः सचा सहायभूतोग्निर्दुग्धं न पय इव काम्यं
+> कमनीयमजामि दोषरहितं प्रियमस्मदीयं स्तोत्रं शृणोतु । किंविधोग्निः
+> घर्मो न प्रवर्ग्य इव वाजजठरः । वाजोन्नं जठरे यस्य सः । घर्मो यथा
+> हव्येनाज्येन पयसासिको वाजजठरस्तद्वत् । हविर्जठर इत्यर्थः । अदब्धः शत्रुभिः
+> स्वयमहिंसितः शश्वतः शाश्वतो नित्यो दभः शत्रूणां हिंसकः ॥
+
+##### Gist of the bhāṣya
+
+May Agni, the helper ("sacā") of the two kinsfolk ("jāmyoḥ"), heaven and earth, hear our dear praise, which is desirable ("kāmyam", "kamanīyam"), faultless ("ajāmi", "doṣarahitam"), like milk that has been drawn ("dugdham na payaḥ"). Of what kind is this Agni? Like the "gharma", the Pravargya, he is "vājajaṭharaḥ": he in whose belly is "vāja", food; as the gharma is filled with the offering, with ghee and milk, so he is filled with oblation. "Adabdhaḥ" is one not hurt by enemies himself; "śaśvataḥ" is eternal; "dabhaḥ" is the one who harms enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- घर्मो न (*gharmo na*)—as the Pravargya is filled with oblations of many kinds
+- वाजजठरः (*vājajaṭharaḥ*)—he who has a belly filled with food
+- अदब्धः (*adabdhaḥ*)—he who is not exposed to the harm of enemies
+- शश्वतः (*śaśvataḥ*)—for ever
+- दभः (*dabhaḥ*)—he who harms enemies, such Agni
+- जाम्योः सचा (*jāmyoḥ sacā*)—together with his kinsfolk, heaven and earth
+- दुग्धं न (*dugdhaṃ na*)—like milk
+- काम्यं (*kāmyaṃ*)—beneficial
+- अजामि (*ajāmi*)—faultless
+- प्रियं (*priyaṃ*)—this praise of ours; may he hear it
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who like the Pravargya filled with oblations of many kinds has a belly filled with food, who is not exposed to the harm of enemies and who for ever harms enemies, together with his kinsfolk, heaven and earth, hear this faultless praise of ours, beneficial like milk.
+
+##### English translation
+May (Agni) with his two relatives, (heaven and earth), hear this faultless (praise), acceptable as milk : he who like the mixed oblation, is filled with food, and, unsubdued, is ever the subduer of his foes.
+
+### Printed p. 99
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रीळ॑न्नो रश्म॒ आ भु॑वः॒ सं भस्म॑ना वा॒युना॒ वेवि॑दानः ।  
+> ता अ॑स्य सन्थृ॒षजो॒ न ति॒ग्माः सुसं॑तिता व॒क्ष्यो॑ वक्षणे॒स्थाः ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रीळन् । नः । रश्मे । आ । भुवः । सं । भस्मना । वायुना । वेविदानः ।  
+> ताः । अस्य । सन् । धृषजः । न । तिग्माः । सुसंतिताः । वक्ष्यः । वक्षणेऽस्थाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रश्मे रश्ममन्नग्ने क्रीळन् वनेषु क्रीडन् भस्मना स्वकार्येण भसितेन
+> वायुना प्रेरकेण मरुता च सं वेविदानः सम्यक् ज्ञायमानस्त्वं नोऽस्माकमा
+> भुवः । अभिमुखो भव । वक्षणेस्था वक्षणे वह्ना स्थिता वक्ष्यः । हनिर्वहंतीति
+> वक्ष्यो ज्वालाः ! सुसंशिताः सुतीक्ष्णा धृषजः शत्रूणां धर्षिकास्ता ज्वाला अस्य
+> यजमानस्य मम न तिग्मा न तीक्ष्णाः सन् । संतु । अस्तेर्लेटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O rays-possessing Agni, playing ("krīḍan") in the forests, with the ashes ("bhasmanā", the burnt remains of your own work) and with Vāyu, the impelling Maruts, well ("saṃ") known ("vevidānaḥ", "samyag jñāyamānaḥ"), be ("ā bhuvaḥ") turned towards us." "Vakṣaṇesthāḥ" are those that stand in the fire ("vahni"); the "vakṣyaḥ" are the flames that carry the oblation. Those well-sharpened ("susaṃśitāḥ", "sutīkṣṇāḥ") flames, "dhṛṣajaḥ", that is, assailants of enemies, are not to be ("na tigmāḥ", "na tīkṣṇāḥ") sharp towards this sacrificer, me ("san" is "santu").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रश्मे (*raśme*)—O Agni, who have rays
+- भस्मता (*bhasmatā*)—with your ashes **NOTE**
+- क्रीळन् (*krīḷan*)—playing (in the forests)
+- वायुना (*vāyunā*)—with the help of the wind
+- सं वेविदानः (*saṃ vevidānaḥ*)—you who are visible to all
+- नः (*naḥ*)—to us
+- आ भुवः (*ā bhuvaḥ*)—be turned towards us
+- वक्षणेस्थाः (*vakṣaṇesthāḥ*)—which stand in the fire
+- सुसंशिताः (*susaṃśitāḥ*)—which are sharp
+- धृषजः (*dhṛṣajaḥ*)—which assail enemies
+- वक्ष्यः (*vakṣyaḥ*)—which carry the oblation
+- ताः (*tāḥ*)—those flames of yours
+- अस्य (*asya*)—in regard to this sacrificer
+- न तिग्माः सन् (*na tigmāḥ san*)—let them not be sharply burning (let them not harm)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have rays, you who play in the forest with your ashes and are visible to all with the help of the wind, be turned towards us. May those flames of yours, which stand in the fire, are sharp, are enemy-seeing **NOTE** and carry the oblation, not burn sharply in regard to this sacrificer (let them not harm).
+
+### Printed p. 100
+
+##### English translation
+Radiant (Agni), you are made manifest by the wind, and are supporting amidst the ashes (of the forest); be present with us : and may the fierce fiery flames, destructive of foes, be gentle to this your worshipper.
+
+## Sūkta 20 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्न इति चतुर्ऋचं षष्ठं सूक्तमत्रीणां प्रयस्वतामार्षमाग्नेयं ।
+> अंत्या पंक्तिः शिष्टा अनुष्टुभः । तथा चानुक्रांतं । यमग्ने चतुष्कं प्रयस्वंतः
+> पंक्त्यंतं हेति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥ अत्रेश्चतुर्वीराख्येऽहीने द्वितीयेऽहनीदं सूक्तमाज्यशस्त्रं । सूत्रितं च । यमग्ने वाजसातमेति द्वितीयेऽहन्याज्यं । आ. १०-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta यमग्न (*yamagna*) has four ṛks and is the sixth sūkta. Its seers are the Atris called Prayasvants; it is ārṣa and Āgneya. The last ṛk is paṅkti and the rest are anuṣṭubh. So it is recorded in the Anukramaṇikā: यमग्ने चतुष्कं प्रयस्वंतः पंक्त्यंतं हेति (*yamagne catuṣkaṃ prayasvaṃtaḥ paṃktyaṃtaṃ heti*). The application for the Prātaranuvāka and the Aśvina-śastra has been stated. In the ahīna called Caturvīra of Atri, on the second day, this sūkta is the Ājya-śastra. It is also laid down in the sūtra यमग्ने वाजसातमेति द्वितीयेऽहन्याज्यं (*yamagne vājasātameti dvitīye 'hanyājyaṃ*) (Ā. 10-2).
+
+Anuvāda: The sūkta यमग्ने (*yamagne*) is the sixth sūkta in the second anuvāka. It has four ṛks. The seers of this sūkta are the Atris called Prayasvants; the deity is Agni; the last ṛk is in the paṅkti metre and the remaining ṛks are in the anuṣṭubh metre. In the Anukramaṇikā it is said: यमग्ने चतुष्कं प्रयस्वंतः पंक्त्यंतं हि (*yamagne catuṣkaṃ prayasvaṃtaḥ paṃktyaṃtaṃ hi*). The application of this sūkta is for the recitation of the Prātaranuvāka and the Aśvina-śastra mantras. In the Caturvīra ahīna sacrifice performed by the Atri seers, this sūkta is to be used on the second day for the recitation of the Ājya-śastra mantras, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यमग्ने वाजसातमेति द्वितीयेऽहन्याज्यं (*yamagne vājasātameti dvitīye 'hanyājyaṃ*) (Ā. 10-2).
+Sūkta 20
+Maṇḍala 5; Anuvāka 2; Sūkta 20.
+Aṣṭaka 4; Adhyāya 1; Varga 12.
+Number of ṛks in the sūkta: 4.
+Seers: the Atris called Prayasvants.
+Deity: Agni.
+Metre: 1-3, anuṣṭubh; 4, paṅkti.
+
+### Printed p. 101
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यम॑ग्ने वाजसातम॒ त्वं चि॒न्म्य॑से र॒यिं ।  
+> तं नो॑ गी॒र्भिः श्र॒वाय्यं॑ देव॒त्रा प॑नया॒ युजं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । अग्ने । वाजसातम । त्वं । चित् । मन्यसे । रयिं ।  
+> तं । नः । गीभिः । श्रवाय्यं । देवत्रा । पनय । युजं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हे वाजसातमात्यंतमन्नद त्वं यं रयिं धनमस्माभिर्दीयमानं
+> हवीरूपं धनं मन्यसे बुध्यसे । चिदिति पादपूरणः । श्रवाय्यं श्रवणीयं शस्यं
+> गीर्भिः स्तुतिभिर्युजं युक्तं नोऽस्मदीयं हविर्लक्षणं धनं तं देवत्रा देवेषु
+> पनय । प्रापयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, O Vājasātama", O one who gives food in the highest degree: whatever wealth ("rayim") in the form of oblation, given by us, you approve ("manyase", "budhyase"); ("cit" is a mere filler) that wealth of ours, in the form of oblation, which is worthy to be heard ("śravāyyam", "śravaṇīyam", "śasyam") and is joined ("yujam", "yuktam") with praises ("gīrbhiḥ"), convey ("panaya", "prāpaya") to the gods ("devatrā").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजसातम (*vājasātama*)—who give food in abundance
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यं रयिं (*yaṃ rayiṃ*)—which wealth, in the form of our oblation
+- मन्यसे (*manyase*)—you approve, of such a kind
+- श्रवाय्यं (*śravāyyaṃ*)—which is worthy of praise
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- युजं (*yujaṃ*)—which is joined
+- नः (*naḥ*)—our
+- तं (*taṃ*)—that same oblation
+- देवत्रा (*devatrā*)—to the gods
+- पनय (*panaya*)—convey
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who give food in abundance, convey to the gods that same oblation of ours, praiseworthy and joined with praises, which is the wealth in the form of oblation that you approve.
+
+##### English translation
+That (sacrificial) wealth, Agni, bounteous giver of food, of which you approve, and which deserves to be commended by our praises, convey to the gods
+
 ---
 
-**Progress note:** Done through printed p. 94. Vol 19 pp. 89-94: Sukta 18 rks 1-5, start of Sukta 19
+**Progress note:** Done through printed p. 101. Vol 19 pp. 95-101: Sukta 19 rks 1-5, Sukta 20 rk 1
