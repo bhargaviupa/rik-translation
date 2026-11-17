@@ -2237,6 +2237,239 @@ Agni, born, that is, manifested by the churning of the two fire-sticks, slaying 
 - स्वः (*svaḥ*)—the sun (Āditya)
 - अविंदत् (*aviṃdat*)—he made manifest
 
+### Printed p. 65
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as he is born, Agni shone, destroying the enemies who cause obstruction to the sacrifice and driving away the darkness by his own radiance. He made the cows, the waters and the sun manifest.
+
+##### English translation
+Agni, as soon as born, blazes brightly, destroying the Dasyus, and (dispersing) the darkness by his lustre: he has discovered the cows, the waters, the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice, as soon as Agni is brought forth by the act of churning, the darkness is dispelled by his radiance and everything comes to shine with light. The cows, the waters and the sun as well engaged in their respective functions: this is the main import.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निमी॒ळेन्यं॑ क॒विं घृ॒तपृ॑ष्ठं सपर्यत ।  
+> वेतु॑ मे शृ॒णव॒द्धवं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । ईळेन्यं । कविं । घृतपृष्ठं । सपर्यत ।  
+> वेतु । मे । शृणवत् । हवं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जना ईळेन्यं स्तुत्यं कविं क्रांतदर्शिनं धृतपृष्ठं दीपोपरिभागमग्निं
+> सपर्यत । पूजयत । सोऽग्निर्मे हवं मदीयमाह्वानं वेतु । कामयतां ।
+> शृणवत् । शृणोतु च ॥
+> [5]                                                                 [Vol. 19.]
+
+##### Gist of the bhāṣya
+
+Addressing the people: worship Agni, who is ईळेन्यं (*īḷenyaṃ*), praiseworthy; कविं (*kaviṃ*), far-seeing (क्रांतदर्शिनं (*krāṃtadarśinaṃ*)); and धृतपृष्ठं (*dhṛtapṛṣṭhaṃ*), he whose upper part of the flame. May that Agni desire (कामयतां (*kāmayatāṃ*)) my invocation, that is, my call, and may he hear it.
+
+### Printed p. 66
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईळेन्यं (*īḷenyaṃ*)—worthy of praise
+- कविं (*kaviṃ*)—far-seeing
+- धृतपृष्ठं (*dhṛtapṛṣṭhaṃ*)—having a flame whose base is held (fed) by ghee **NOTE**
+- अग्निं (*agniṃ*)—Agni
+- सपर्यत (*saparyata*)—worship (that same Agni)
+- मे (*me*)—my
+- हवं (*havaṃ*)—the praise in the form of an invocation
+- वेतु (*vetu*)—may he know (and)
+- शृणवत् (*śṛṇavat*)—may he listen and hear
+
+##### भावार्थ (Bhāvārtha)
+
+Worship Agni, who is worthy of praise, far-seeing, and has a flame whose base is held by ghee. May that same Agni know my praise, which takes the form of an invocation, and listen and hear it.
+
+##### English translation
+Worship the adorable Agni, the sage, whose summit blazes with butter : may he hear and comprehend my invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+धृतसृष्टं—दीप्तोपरिभागं (*dhṛtasṛṣṭaṃ—dīptoparibhāgaṃ*) **NOTE** Because ghee (ājya, ghṛta) is offered into the fire, Agni is described by the epithet that speaks of ghee at his summit; that is, by the oblations of ghee Agni blazes up well and shines. The meaning is: worship such a resplendent Agni.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं घृ॒तेन॑ वावृधुः॒ स्तोमे॑भिर्वि॒श्वच॑र्षणिं ।  
+> स्वा॒धीभि॑र्वच॒स्युभिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । घृतेन । ववृधुः । स्तोमेभिः । विश्वचर्षणिं ।  
+> सुआधीभिः । वचस्युभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋत्विजो विश्वचर्षणिं विश्वस्य द्रष्टारं स्वाधीभिः शोभनाध्यान्यैर्वचस्युभिः
+> स्तुतिकामैर्देवैः समेतमग्निं धृतेन स्तोमेभिः स्तोमैः स्तोत्रैर्ववृधुः ।
+> अवर्धयन् ॥
+
+##### Gist of the bhāṣya
+
+The priests (ऋत्विजो (*ṛtvijo*)) augmented Agni, who is विश्वचर्षणिं (*viśvacarṣaṇiṃ*), the beholder of all, and who is accompanied by the gods, who are स्वाधीभिः (*svādhībhiḥ*), of good meditation, and वचस्युभिः (*vacasyubhiḥ*), desirous of praise; they augmented him with ghee and with स्तोमेभिः (*stomebhiḥ*), praises, that is, hymns of praise.
+
+### Printed p. 67
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वाधीभिः (*svādhībhiḥ*)—worthy of excellent meditation
+- वचस्युभिः (*vacasyubhiḥ*)—and desirous of praise, accompanied by the gods
+- विश्वचर्षणिं (*viśvacarṣaṇiṃ*)—having the power to see all
+- अग्निं (*agniṃ*)—Agni
+- धृतेन (*dhṛtena*)—with ghee
+- स्तोमेभिः (*stomebhiḥ*)—with praises
+- ववृधुः (*vavṛdhuḥ*)—they made him grow
+
+##### भावार्थ (Bhāvārtha)
+
+The priests made Agni grow with ghee and with praises: Agni, who is accompanied by gods worthy of excellent meditation and desirous of praise, and who has the power to see all.
+
+##### English translation
+They have augmented Agni, the beholder of all, with oblation and with praises, along with the gods, the objects of pious meditations, desirous of praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice the priests caused Agni, who is accompanied by gods worthy of meditation and of praise, and who is able to see everything, to blaze and shine by the oblations of ghee offered with mantras. That is, by the oblations of ghee which the priests offer with mantras, Agni blazed and shone: this is the purport.
+
+## Sūkta 15 (Maṇḍala 5)
+The fifteenth sūkta.
+
+द्वितीयेऽनुवाकेऽष्टादश सूक्तानि । तत्र प्र वेधस इति पंचर्चं प्रथमं सूक्तमांगिरसस्य धरुणस्यार्षं त्रैष्टुभमाग्नेयं । अत्रानुक्रमणिका । प्र वेधसे पंचांगिरसो धरुण इति ॥ प्रातरनुवाक आग्नेये क्रत्ौ त्रैष्टुभे छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्रितं च । प्र वेधसे कवये त्वं नो अग्ने वरुणस्य विद्वान् । आ. ४-१३ । इति ॥ (*dvitīye 'nuvāke 'ṣṭādaśa sūktāni | tatra pra vedhasa iti paṃcarcaṃ prathamaṃ sūktamāṃgirasasya dharuṇasyārṣaṃ traiṣṭubhamāgneyaṃ | atrānukramaṇikā | pra vedhase paṃcāṃgiraso dharuṇa iti ‖ prātaranuvāka āgneye kratau traiṣṭubhe chaṃdasyāśvinaśastre cedaṃ sūktaṃ | sūtritaṃ ca | pra vedhase kavaye tvaṃ no agne varuṇasya vidvān | ā. 4-13 | iti ‖*)
+
+Translation: In the second anuvāka of the fifth maṇḍala there are eighteen sūktas. Among them the sūkta beginning प्र वेधसे (*pra vedhase*) is the first; it has five ṛks. The seer of this sūkta is धरुण अंगिरसः (*dharuṇa aṃgirasaḥ*); the deity is Agni; the metre is Triṣṭup. In the Anukramaṇikā:
+
+### Printed p. 68
+प्र वेधसे पंचांगिरसो धरुणः (*pra vedhase paṃcāṃgiraso dharuṇaḥ*) is said. The sūkta is used in the recitation of the Prātaranuvāka mantras, for the triṣṭup mantras of the Āgneya kratu, and for the recitation of the Āśvina-śastra mantras; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, प्र वेधसे कवये त्वं नो अग्ने वरुणस्य विद्वान् (*pra vedhase kavaye tvaṃ no agne varuṇasya vidvān*) (Ā. 4-13).
+
+Sūkta 15. Maṇḍala 5; Anuvāka 2; Sūkta 15; Aṣṭaka 4; Adhyāya 1; Varga 7. Number of ṛks in the sūkta: 5. Seer: धरुण आंगिरसः (*dharuṇa āṃgirasaḥ*). Deity: अग्निः (*agniḥ*). Metre: त्रिष्टुप् (*triṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वे॒धसे॑ क॒वये॒ वेद्या॑य॒ गिरं॑ भरे य॒शसे॑ पू॒र्व्याय॑ ।  
+> घृ॒तप्र॑सत्तो॒ असु॑रः सु॒शेवो॑ रा॒यो ध॒र्ता ध॒रुणो॒ वस्वो॑  ॒
+> अग्निः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वेधसे । कवये । वेद्याय । गिरं । भरे । यशसे । पूर्व्याय ।  
+> घृतप्रसत्तः । असुरः । सुशेवः । रायः । धर्ता । धरुणः । वस्वः । अग्निः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्घृतप्रसत्तो हवीरूपेण घृतेन प्रसन्नोऽसुरो बलवान्
+> सुशेवः । शोभनं शेवं सुखं यस्यासौ सुशेवः शेवमिति सुखनामसु पाठात् ।
+> रायो धनस्य धर्ता पोषको धरुणो हविषां धारको वस्वो वासकोग्निर्भवति
+> वेधसे विधात्रे कवये क्रांतदृशे वेद्याय स्तुत्याय ॥ विदिरयं मनिना समानार्थो मनिश्च स्तुतिकर्मा ॥ यशसे यशस्विने पूर्वाय मुख्याय तस्मा अग्नये
+> गिरं स्तुतिं प्र भरे । प्रणयानि ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is घृतप्रसत्तो (*ghṛtaprasatto*), gratified by ghee in the form of the oblation; strong; सुशेवः (*suśevaḥ*), one whose शेवं (*śevaṃ*), happiness, is good, since शेव (*śeva*) is read among the names of happiness; रायो (*rāyo*) धर्ता (*dhartā*), the supporter, that is, nourisher, of wealth; धरुणो (*dharuṇo*), the holder of the oblations; and वस्वो (*vasvo*), the bestower of dwelling: that Agni is so. To the वेधसे (*vedhase*), creator; कवये (*kavaye*), far-seeing (क्रांतदृशे (*krāṃtadṛśe*)); वेद्याय (*vedyāya*), worthy of praise (the root विदि (*vidi*) here has the same sense as मनि (*mani*), and मनि (*mani*) denotes the act of praising); to the renowned (यशसे (*yaśase*)), the foremost (पूर्वाय (*pūrvāya*), chief): to that Agni I offer (प्र भरे (*pra bhare*), may I present, प्रणयानि (*praṇayāni*)) praise.
+
+### Printed p. 69
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- घृतप्रसत्तः (*ghṛtaprasattaḥ*)—one gratified by ghee
+- असुरः (*asuraḥ*)—the powerful
+- सुशेवः (*suśevaḥ*)—endowed with excellent happiness
+- रायः (*rāyaḥ*)—of wealth
+- धर्ता (*dhartā*)—the nourisher
+- धरुणः (*dharuṇaḥ*)—the one who holds the oblation
+- वस्वः (*vasvaḥ*)—the giver of dwelling, he is
+- वेधसे (*vedhase*)—the creator
+- कवये (*kavaye*)—of far-reaching wisdom
+- वेद्याय (*vedyāya*)—worthy of praise
+- यशसे (*yaśase*)—possessed of fame
+- पूर्वाय्य (*pūrvāyya*)—and foremost; addressing such an Agni
+- गिरं (*giraṃ*)—praise
+- प्र भरे (*pra bhare*)—I produce well and offer
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is one who is gratified by ghee, powerful, endowed with excellent happiness, the nourisher of wealth, the one who holds the oblation and the giver of dwelling. Addressing that Agni, who is the creator, of far-reaching wisdom, worthy of praise, famous and foremost, I compose excellent praise and offer it.
+
+##### English translation
+I offer praise to Agni, the creator, the far-seeing, the adorable, the renowned, the first (of the gods); he who is propitiated by oblations, the strong, the giver of happiness, the possessor of riches, the receiver of oblations, the bestower of dwellings.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॑ ऋ॒तं ध॒रुणं॑ धारयंत य॒ज्ञस्य॑ शा॒के प॑र॒मे  ॑
+> व्योमन्  
+> दि॒वो दर्म॑न्ध॒रुणे॑ से॒दुषो॒ न ञ्चा॒तैरजा॑ता अ॒भि ये  
+> न॑न॒क्षुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । ऋतं । धरुणं । धारयंत । यज्ञस्य । शाके । परमे । विओमन् ।  
+> दिवः । धर्मन् । धरुणे । सेदुषः । नृन् । जात्यैः । अजातान् । अभि । ये ।  
+> ननक्षुः ॥ २ ॥
+
+### Printed p. 70
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमाना दिवो द्युलोकस्य धरुणे धारके धर्मन्यज्ञे सेदुष
+> आसीनान् नृनजातान्देवान् जात्यैर्मनुष्यैर्ऋत्विग्निरभि ननक्षुः अभिप्राप्नुवंति ते
+> यजमाना यज्ञस्य धरुणं धारकमृतं सत्यरूपमग्निं शाके कर्मणि निमित्ते परम
+> उत्कृष्टे व्योमन् स्थान उत्तरवेद्यामृतेन स्तोत्रेण धारयंत । धारयंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers (yajamānas) who, in the sacrifice that is the धरुणे (*dharuṇe*), upholder, of दिवो (*divo*), the world of heaven, reach (अभि ननक्षुः (*abhi nanakṣuḥ*), approach) together with the born men, the priests, the unborn gods, the leaders, who are seated (सेदुष आसीनान् (*seduṣa āsīnān*)) there: those sacrificers uphold (धारयंत (*dhārayaṃta*) is धारयंति (*dhārayaṃti*)) with ऋतेन (*ṛtena*), praise, Agni, who is the upholder of the sacrifice and of the nature of truth, in the excellent place, the व्योमन् (*vyoman*), namely the uttaravedi, in the rite (शाके (*śāke*), the occasion of the rite).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those sacrificers who
+- दिवः (*divaḥ*)—of heaven
+- धरुणे (*dharuṇe*)—which is the support
+- धर्मन् (*dharman*)—in the sacrifice
+- सेदुषः (*seduṣaḥ*)—those who are seated
+- नृन् (*nṛn*)—leaders
+- अजातान् (*ajātān*)—and without birth, the gods
+- जातैः (*jātaiḥ*)—with the priests who are human beings
+- अभि ननक्षुः (*abhi nanakṣuḥ*)—bring together (those sacrificers)
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- धरुणं (*dharuṇaṃ*)—the upholder
+- ऋतं (*ṛtaṃ*)—and of the nature of truth, Agni
+- शाके (*śāke*)—that which is the occasion of the rite
+- परमे (*parame*)—and excellent
+- व्योमन् (*vyoman*)—in the place that has the form of the uttaravedi
+- ऋतेन (*ṛtena*)—with praise
+- धारयंत (*dhārayaṃta*)—have established and made stand
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who bring together, with the human priests, the gods who are seated in the sacrifice that upholds the world of heaven, the leaders, the unborn: those sacrificers have established and made stand, with praise, Agni, the upholder of the sacrifice and of the nature of truth, in the place that has the form of the uttaravedi, which is the occasion of the rite and excellent.
+
+##### English translation
+They are detaining by sacrifice the true recipient (of offerings) in the most eminent place of the ceremony, who brings together the leaders (of the rite), the unborn, with the born (or gods and men), as seated at the solemnity which is the stay of heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒हो॒युव॑स्त॒न्व॑स्तन्वते॒ व वयो॑ म॒हद्दु॒ष्टरं॑ पू॒र्व्याय॑।  
+> स सं॒वतो॒ नव॑जातस्तुतुर्यात्सिं॒हं न क्रु॒द्धम॒भितः॒ परि॑  
+> ष्टुः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 64. Sūkta 13 Ṛk 6, Sūkta 14 Ṛks 1-4 (to the Pratipadārtha), pp. 59-64
+**Progress note:** Done through printed p. 70. pp. 65-70: Sūkta 14 Ṛks 4-6, Sūkta 15 Ṛks 1-3
