@@ -243,7 +243,7 @@
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > अश्वि॑ना॒ यज्व॑री॒रिषो॒ द्रव॑त्पाणी॒ शुभ॑स्पती ।
-> पुरु॑भुजा चन॒स्यतं॑ ॥१॥
+> पुरु॑भुजा चन॒स्यत॑म् ॥१॥
 >
 > *áśvinā yájvarīríṣo drávatpāṇī śúbhaspatī |*
 > *púrubhujā canasyátaṃ ||1||*
@@ -508,7 +508,7 @@ O Ashvin deities! You are those who perform many deeds — heroic undertakings; 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> दस्रा॑ यु॒वाक॑वः सु॒ता नास॑त्या वृ॒क्तब॑र्हिषः । [accent ?]
+> दस्रा॑ यु॒वाक॑वः सु॒ता नास॑त्या वृ॒क्तब॑र्हिषः ।
 > आ या॑तं रुद्रवर्तनी ॥३॥
 >
 > *dásrā yuvā́kavaḥ sutā́ nā́satyā vṛktábarhiṣaḥ |* [accent ?]
@@ -910,7 +910,7 @@ In "pūtāsaḥ," by "ājjaser asuk" (Pā. Sū. 7-1-50), the "jas" ending that c
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रा या॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः । [accent ?]
+> इन्द्रा या॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः ।
 > उप॒ ब्रह्मा॑णि वा॒घतः॑ ॥५॥
 >
 > *indrā́ yāhi dhiyéṣitó víprajūtaḥ sutā́vataḥ |* [accent ?]
@@ -1156,7 +1156,7 @@ Among Western scholars: **Griffith** gives "Having a gold colour horse"; **Willi
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ओमा॑सश्चर्षणीधृतो॒ विश्वे॑ देवास॒ आ ग॑त ।
-> दा॒श्वांसो॑ दा॒शुषः॑ सु॒तं ॥७॥
+> दा॒श्वांसो॑ दा॒शुषः॑ सु॒तम् ॥७॥
 >
 > *ómāsaścarṣaṇīdhṛto víśve devāsa ā́ gata |*
 > *dāśvā́ṃso dāśúṣaḥ sutáṃ ||7||*
@@ -1324,7 +1324,7 @@ Among Western scholars, **Langlois, Kaegi** and **Hopkins** hold that "Viśvedev
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> विश्वे॑ दे॒वासो॑ अ॒प्तुरः॑ सु॒तमा गं॑त॒ तूर्ण॑यः ।
+> विश्वे॑ दे॒वासो॑ अ॒प्तुरः॑ सु॒तमा ग॑न्त॒ तूर्ण॑यः ।
 > उ॒स्रा इ॑व॒ स्वस॑राणि ॥८॥
 >
 > *víśve devā́so aptúraḥ sutámā́ gaṃta tū́rṇayaḥ |*
@@ -1416,7 +1416,7 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > विश्वे॑ दे॒वासो॑ अ॒स्रिध॒ एहि॑मायासो अ॒द्रुहः॑ ।
-> मेधं॑ जुषंत॒ वह्न॑यः ॥९॥
+> मेधं॑ जुषन्त॒ वह्न॑यः ॥९॥
 >
 > *víśve devā́so asrídha éhimāyāso adrúhaḥ |*
 > *médhaṃ juṣaṃta váhnayaḥ ||9||*
@@ -1974,7 +1974,7 @@ Here are some examples of verses in which the ṛṣis praise Sarasvatī as a de
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> चो॒द॒यि॒त्री सू॒नृता॑नां॒ चेतं॑ती सुमती॒नां ।
+> चो॒द॒यि॒त्री सू॒नृता॑नां॒ चेत॑न्ती सुमती॒नाम् ।
 > य॒ज्ञं द॑धे॒ सर॑स्वती ॥११॥
 >
 > *codayitrī́ sūnṛ́tānāṃ cétaṃtī sumatīnā́ṃ |*
@@ -2051,7 +2051,7 @@ This mantra is used in the sacrifice called **Sautrāmaṇī**; and also in the 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > म॒हो अर्णः॒ सर॑स्वती॒ प्र चे॑तयति के॒तुना॑ ।
-> धियो॒ विश्वा वि रा॑जति ॥१२॥
+> धियो॒ विश्वा॒ वि रा॑जति ॥१२॥
 >
 > *mahó arṇaḥ sárasvatī prá cetayati ketúnā |*
 > *dhiyo víśvā ví rājati ||12||*
@@ -2142,7 +2142,7 @@ As we said earlier (see Ṛ. Saṃ. Part II, page 3 [?]), the three sūktas of t
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सु॒रू॒प॒कृत्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे॑ ।
+> सु॒रू॒प॒कृ॒त्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे॑ ।
 > जु॒हू॒मसि॒ द्यवि॑द्यवि ॥१॥
 >
 > *surūpakṛ́tnumūtáye sudúghāmiva godúhe |*
@@ -2397,7 +2397,7 @@ O Indra! You are a drinker of Soma. Therefore, coming to the three pressings of 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अथा॑ ते॒ अंत॑मानां वि॒द्याम॑ सुमती॒नां ।
+> अथा॑ ते॒ अन्त॑मानां वि॒द्याम॑ सुमती॒नाम् ।
 > मा नो॒ अति॑ ख्य॒ आ ग॑हि ॥३॥
 >
 > *áthā te áṃtamānāṃ vidyā́ma sumatīnā́ṃ |*
@@ -2476,8 +2476,8 @@ In this Ṛk, apart from a few special words that are difficult, the ṛṣi's i
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> परे॑हि॒ विग्र॒मस्तृ॑त॒मिंद्रं॑ पृच्छा विप॒श्चितं॑ ।
-> यस्ते॒ सखि॑भ्य आ वरं॑ ॥४॥
+> परे॑हि॒ विग्र॒मस्तृ॑त॒मिन्द्रं॑ पृच्छा विप॒श्चित॑म् ।
+> यस्ते॒ सखि॑भ्य॒ आ वर॑म् ॥४॥
 >
 > *párehi vígramástṛtamíṃdraṃ pṛcchā vipaścítaṃ |*
 > *yaste sákhibhya ā váraṃ ||4||*
@@ -2563,8 +2563,8 @@ this word is used. Nowhere else. The word "vipaścit" is used in about 23 places
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उ॒त ब्रु॑वंतु नो॒ निदो॒ निर॒न्यत॑श्चिदारत ।
-> दधा॑ना इन्द्र इद्दुवः॑ ॥५॥
+> उ॒त ब्रु॑वन्तु नो॒ निदो॒ निर॒न्यत॑श्चिदारत ।
+> दधा॑ना॒ इन्द्र॒ इद्दुवः॑ ॥५॥
 >
 > *utá bruvaṃtu no nído níranyátaścidārata |*
 > *dádhānā indra iddúvaḥ ||5||*
@@ -2639,8 +2639,8 @@ Other commentators, and Western scholars too, have explained the meaning of this
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उ॒त नः॑ सु॒भगां॑ अ॒रिर्वो॒चेयु॑र्दस्म कृष्टयः॑ ।
-> स्यामेदिंद्र॑स्य शर्म॑णि ॥६॥
+> उ॒त नः॑ सु॒भगाँ॑ अ॒रिर्वो॒चेयु॑र्दस्म कृ॒ष्टयः॑ ।
+> स्यामेदिन्द्र॑स्य॒ शर्म॑णि ॥६॥
 >
 > *utá naḥ subhágāṃ arírvocéyurdasma kṛṣṭáyaḥ |*
 > *syāmedíṃdrasya śármaṇi ||6||*
@@ -2726,8 +2726,8 @@ The meaning of this Ṛk is, in a small measure, similar to that of the precedin
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एमा॒शुमा॒शवे॑ भर यज्ञश्रियं॑ नृमाद॑नं ।
-> प॒त॒यन्मं॑द॒यत्स॑खं ॥७॥
+> एमा॒शुमा॒शवे॑ भर यज्ञ॒श्रियं॑ नृ॒माद॑नम् ।
+> प॒त॒यन्म॑न्द॒यत्स॑खम् ॥७॥
 >
 > *emāśúmāśáve bhara yajñaśríyaṃ nṛmā́danaṃ |*
 > *patayánmaṃdayátsakhaṃ ||7||*
@@ -2818,8 +2818,8 @@ This Ṛk is spoken addressing the sacrificer or the Adhvaryu.
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अ॒स्य पी॒त्वा शत॑क्रतो घ॒नो वृत्राणा॑मभवः ।
-> प्रावो॒ वाजे॑षु वा॒जिनं॑ ॥८॥
+> अ॒स्य पी॒त्वा श॑तक्रतो घ॒नो वृ॒त्राणा॑मभवः ।
+> प्रावो॒ वाजे॑षु वा॒जिन॑म् ॥८॥
 >
 > *asyá pītvā́ śátakrato ghanó vṛtrā́ṇāmabhavaḥ |*
 > *prāvo vā́jeṣu vājínaṃ ||8||*
@@ -2909,7 +2909,7 @@ In the Bhāgavata and other Purāṇas there is an extended description that V�
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > तं त्वा॒ वाजे॑षु वा॒जिनं॑ वा॒जया॑मः शतक्रतो ।
-> धना॑नामिंद्र सा॒तये॑ ॥९॥
+> धना॑नामिन्द्र सा॒तये॑ ॥९॥
 >
 > *taṃ tvā vā́jeṣu vājínaṃ vājáyāmaḥ śatakrato |*
 > *dhánānāmiṃdra sātáye ||9||*
@@ -2985,8 +2985,8 @@ In explaining the senses of the words "vāja," "śata" and "kratu" in this Ṛk,
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यो रा॒यो॒३वनि॑र्म॒हान्त्सु॑पा॒रः सु॑न्व॒तः सखा॑ । [accent ?]
-> तस्मा इंद्रा॑य गायत ॥१०॥ [accent ?]
+> यो रा॒यो॒३॒॑ऽवनि॑र्म॒हान्सु॑पा॒रः सु॑न्व॒तः सखा॑ ।
+> तस्मा॒ इन्द्रा॑य गायत ॥१०॥
 >
 > *yo rāyo3vánirmahā́ntsupāráḥ sunvatáḥ sákhā |* [accent ?]
 > *tasmā íṃdrāya gāyata ||10||* [accent ?]
@@ -3559,7 +3559,7 @@ And so on. Here, in place of "dvādaśāha," "trayodaśāha" and the like, it is
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ त्वेता॒ नि षी॑द॒तेंद्र॑म॒भि प्र गा॑यत ।
+> आ त्वेता॒ नि षी॑द॒तेन्द्र॑म॒भि प्र गा॑यत ।
 > सखा॑यः॒ स्तोम॑वाहसः ॥१॥
 >
 > *ā tvetā ní ṣīdatéṃdramabhí prá gāyata |*
@@ -3685,8 +3685,8 @@ and the like.
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> पु॒रू॒तमं॑ पुरू॒णामीशा॑नं॒ वार्या॑णां ।
-> इंद्रं सोमे सचा॑ सुते ॥२॥
+> पु॒रू॒तमं॑ पुरू॒णामीशा॑नं॒ वार्या॑णाम् ।
+> इन्द्रं॒ सोमे॒ सचा॑ सु॒ते ॥२॥
 >
 > *purūtámaṃ purūṇā́mī́śānaṃ vā́ryāṇāṃ |*
 > *iṃdraṃ some sácā sute ||2||*
@@ -3753,7 +3753,7 @@ In this Ṛk there is neither an agent (kartṛ) nor a verb; hence the Bhāṣya
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स घा॑ नो॒ योग॒ आ भु॑व॒त्स रा॒ये स पुरं॑ध्यां ।
+> स घा॑ नो॒ योग॒ आ भु॑व॒त्स रा॒ये स पुरं॑ध्याम् ।
 > गम॒द्वाजे॑भि॒रा स नः॑ ॥३॥
 >
 > *sá ghā no yóga ā́ bhuvatsá rāyé sa púraṃdhyāṃ |*
@@ -3830,7 +3830,7 @@ The attainment of the objects we desire, wealth (and lordship), young women (tha
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > यस्य॑ सं॒स्थे न वृ॒ण्वते॒ हरी॑ स॒मत्सु॒ शत्र॑वः ।
-> तस्मा इंद्रा॑य गायत ॥४॥
+> तस्मा॒ इन्द्रा॑य गायत ॥४॥
 >
 > *yásya saṃsthé na vṛṇváte hárī samátsu śátravaḥ |*
 > *tasmā íṃdrāya gāyata ||4||*
@@ -3909,7 +3909,7 @@ In this Ṛk, Indra's power is described indirectly (apratyakṣa). When battle 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सु॒त॒पाव्ने॑ सु॒ता इ॒मे शुच॑यो यंति वी॒तये॑ ।
+> सु॒त॒पाव्ने॑ सु॒ता इ॒मे शुच॑यो यन्ति वी॒तये॑ ।
 > सोमा॑सो॒ दध्या॑शिरः ॥५॥
 >
 > *sutapā́vne sutā́ imé śúcayo yaṃti vītáye |*
@@ -4085,8 +4085,8 @@ Apart from the word "dadhyāśiraḥ," Soma-juices mixed with other substances �
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृद्धो अ॑जायथाः ।
-> इंद्र॒ ज्यैष्ठ्या॑य सुक्रतो ॥६॥
+> त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः ।
+> इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ॥६॥
 >
 > *tvaṃ sutásya pītáye sadyó vṛddhó ajāyathāḥ |*
 > *iṃdra jyáiṣṭhyāya sukrato ||6||*
@@ -4185,8 +4185,8 @@ That is: Indra, in order to obtain superiority among the gods, offered, with the
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ त्वा॑ विशंत्वा॒शवः॒ सोमा॑स इंद्र गिर्वणः ।
-> शं ते॑ संतु॒ प्रचे॑तसे ॥७॥
+> आ त्वा॑ विशन्त्वा॒शवः॒ सोमा॑स इन्द्र गिर्वणः ।
+> शं ते॑ सन्तु॒ प्रचे॑तसे ॥७॥
 >
 > *ā́ tvā viśaṃtvāśávaḥ sómāsa iṃdra girvaṇaḥ |*
 > *śáṃ te saṃtu prácetase ||7||*
@@ -4245,7 +4245,7 @@ O Indra, who are praised always with words — hymns! Let the Soma-juices prepar
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > त्वां स्तोमा॑ अवीवृध॒न्त्वामु॒क्था श॑तक्रतो ।
-> त्वां व॑र्धंतु नो॒ गिरः॑ ॥८॥
+> त्वां व॑र्धन्तु नो॒ गिरः॑ ॥८॥
 >
 > *tvāṃ stómā avīvṛdhantvā́mukthā́ śatakrato |*
 > *tvā́ṃ vardhaṃtu no gíraḥ ||8||*
@@ -4393,7 +4393,7 @@ Every pāda of this Ṛk begins with the word "**tvām**." Ṛks of this kind �
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अक्षि॑तोतिः सनेदि॒मं वाज॒मिंद्रः॑ सह॒स्रिणं॑ ।
+> अक्षि॑तोतिः सनेदि॒मं वाज॒मिन्द्रः॑ सह॒स्रिण॑म् ।
 > यस्मि॒न्विश्वा॑नि॒ पौंस्या॑ ॥९॥
 >
 > *ákṣitotiḥ sanedimáṃ vājamíṃdraḥ sahasríṇaṃ |*
@@ -4509,8 +4509,8 @@ The intention of this Ṛk is not plain. The Bhāṣyakāra has taken pains to g
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मा नो॒ मर्ता॑ अ॒भि द्रु॑हन्तनू॒ना॑मिंद्र गिर्वणः ।
-> ईशा॑नो यवया व॒धं ॥१०॥
+> मा नो॒ मर्ता॑ अ॒भि द्रु॑हन्त॒नूना॑मिन्द्र गिर्वणः ।
+> ईशा॑नो यवया व॒धम् ॥१०॥
 >
 > *mā no mártā abhí druhantanūnāmiṃdra girvaṇaḥ |*
 > *ī́śāno yavayā vadháṃ ||10||*
@@ -4618,8 +4618,8 @@ In the sacrifice called Abhiplava-ṣaḍaha, at the time of the morning pressin
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युं॒जंति॑ ब्र॒ध्नम॑रु॒षं चरं॑तं॒ परि॑ त॒स्थुषः॑ ।
-> रोचं॑ते रोच॒ना दि॒वि ॥१॥
+> यु॒ञ्जन्ति॑ ब्र॒ध्नम॑रु॒षं चर॑न्तं॒ परि॑ त॒स्थुषः॑ ।
+> रोच॑न्ते रोच॒ना दि॒वि ॥१॥
 >
 > *yuṃjáṃti bradhnámaruṣáṃ cáraṃtaṃ pári tasthúṣaḥ |*
 > *rócaṃte rocanā́ diví ||1||*
@@ -4802,8 +4802,8 @@ in this Ṛk and in some other places it is said that the Aṅgirases helped Ind
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युं॒जंत्य॑स्य॒ काम्या॒ ह॒री विप॑क्षसा॒ रथे॑ ।
-> शोणा॑ धृष्णू नृ॒वाह॑सा ॥२॥
+> यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑ ।
+> शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ॥२॥
 >
 > *yuṃjáṃtyasya kā́myā harī́ vípakṣasā ráthe |*
 > *śóṇā dhṛṣṇū nṛvā́hasā ||2||*
@@ -4865,7 +4865,7 @@ The pāda "yuñjanty asya kāmyā" is quoted in the **Āpastamba-śrauta-sūtra*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> के॒तुं कृण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ ।
+> के॒तुं कृ॒ण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ ।
 > समु॒षद्भि॑रजायथाः ॥३॥
 >
 > *ketúṃ kṛṇvánnaketáve péśo maryā apeśáse |*
@@ -4949,7 +4949,7 @@ The meaning of this Ṛk is not plain. For the word "ketu," the Nirukta (Ni. 3-9
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > आदह॑ स्व॒धामनु॒ पुन॑र्गर्भ॒त्वमे॑रि॒रे ।
-> दधा॑ना॒ नाम॑ य॒ज्ञि॑यं ॥४॥
+> दधा॑ना॒ नाम॑ य॒ज्ञिय॑म् ॥४॥
 >
 > *ādáha svadhā́manu púnargarbhatvámeriré |*
 > *dádhānā nā́ma yajñiyaṃ ||4||*
@@ -5030,8 +5030,8 @@ The meaning of this Ṛk is not plain either. The names of the Maruts are not in
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वी॒ळु चि॑दारुज॒त्नुभि॒र्गुहा॑ चिदिंद्र॒ वह्नि॑भिः ।
-> अविं॑द उ॒स्रिया॒ अनु॑ ॥५॥
+> वी॒ळु चि॑दारुज॒त्नुभि॒र्गुहा॑ चिदिन्द्र॒ वह्नि॑भिः ।
+> अवि॑न्द उ॒स्रिया॒ अनु॑ ॥५॥
 >
 > *vīḷú cidārujatnúbhirgúhā cidiṃdra váhnibhiḥ |*
 > *áviṃda usríyā ánu ||5||*
@@ -5089,8 +5089,8 @@ The Bhāṣyakāra cites here a legend (upākhyāna). The demons called Paṇi c
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> दे॒वयंतो यथा॑ म॒तिमच्छा॑ वि॒दद्व॑सुं॒ गिरः ।
-> म॒हा॑मनूषत श्रुतं ॥६॥
+> दे॒व॒यन्तो॒ यथा॑ म॒तिमच्छा॑ वि॒दद्व॑सुं॒ गिरः॑ ।
+> म॒हाम॑नूषत श्रु॒तम् ॥६॥
 >
 > *deváyaṃto yáthā matímácchā vidádvasuṃ gíraḥ |*
 > *mahāmanūṣata śrutaṃ ||6||*
@@ -5304,7 +5304,7 @@ The sense of this Ṛk is somewhat strained (kliṣṭa). Its meaning can be sta
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > अतः॑ परिज्म॒न्ना ग॑हि दि॒वो वा॑ रोच॒नादधि॑ ।
-> स॑मस्मिन्नृंजते॒ गि॑रः ॥९॥ [accent ?]
+> सम॑स्मिन्नृञ्जते॒ गिरः॑ ॥९॥
 >
 > *átaḥ parijmannā́ gahi divó vā rocanā́dádhi |*
 > *samasminnṛṃjate giraḥ ||9||* [accent ?]
@@ -5392,7 +5392,7 @@ O Marut-deities, you are all-pervading. At this time of our sacrifice, if you ar
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इ॒तो वा॑ सा॒तिमी॑महे दि॒वो वा॒ पार्थि॑वा॒दधि॑ ।
+> इ॒तो वा॑ सा॒तिमीम॑हे दि॒वो वा॒ पार्थि॑वा॒दधि॑ ।
 > इन्द्रं॑ म॒हो वा॒ रज॑सः ॥१०॥
 >
 > *itó vā sātím īmahe divó vā pā́rthivād ádhi |*
@@ -5545,7 +5545,7 @@ This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the seco
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ । [accent ?]
+> इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।
 > इन्द्रं॒ वाणी॑रनूषत ॥१॥
 >
 > *índram íd gāthíno bṛhád índram arkébhir arkíṇaḥ |* [accent ?]
@@ -5653,7 +5653,7 @@ The source adds: this mantra is found in the Sāma Veda at **234; 809**; in the 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र॒ इद्धर्योः॒ सचा॒ संमि॑श्ल॒ आ व॑चो॒युजा॑ ।
+> इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।
 > इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥२॥
 >
 > *índra íd dháryoḥ sácā sáṃmiśla ā́ vacoyújā |*
@@ -5775,8 +5775,8 @@ Some Western scholars have rendered this word **"horses which harness themselves
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सू॑र्यं रोहयद्दि॒वि । [accent ?]
-> वि गोभि॒रद्रिमैरयत् ॥३॥ [accent ?]
+> इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।
+> वि गोभि॒रद्रि॑मैरयत् ॥३॥
 >
 > *índro dīrghā́ya cákṣasa ā́ sūryaṃ rohayad diví |* [accent ?]
 > *ví góbhir ádrim airayat ||3||* [accent ?]
@@ -5922,7 +5922,7 @@ O Indra! You are *apradhṛṣya* — that is, enemies cannot conquer you. Such 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं॑ व॒यं म॑हाध॒न इन्द्र॒मर्भे॑ हवामहे॒ ।
+> इन्द्रं॑ व॒यं म॑हाध॒न इन्द्र॒मर्भे॑ हवामहे ।
 > युजं॑ वृ॒त्रेषु॑ व॒ज्रिण॑म् ॥५॥
 >
 > *índraṃ vayám mahādhaná índram árbhe havāmahe |*
@@ -6075,7 +6075,7 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तुं॒जेतुं॑जे॒ य उत्त॑रे॒ स्तोमा॒ इन्द्र॑स्य व॒ज्रिणः॑ ।
+> तु॒ञ्जेतु॑ञ्जे॒ य उत्त॑रे॒ स्तोमा॒ इन्द्र॑स्य व॒ज्रिणः॑ ।
 > न वि॑न्धे अस्य सुष्टु॒तिम् ॥७॥
 >
 > *tuñjé-tuñje yá úttare stómā índrasya vajríṇaḥ |*
@@ -6171,7 +6171,7 @@ That is, the word *tuñja* means giving, bestowing. The word *tuñje-tuñje* in 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वृषा॑ यू॒थेव॒ वंस॑गः कृष्टीरि॑य॒र्त्योज॑सा ।
+> वृषा॑ यू॒थेव॒ वंस॑गः कृ॒ष्टीरि॑य॒र्त्योज॑सा ।
 > ईशा॑नो॒ अप्र॑तिष्कुतः ॥८॥
 >
 > *vṛ́ṣā yūthéva váṃsagaḥ kṛṣṭī́r iyarty ójasā |*
@@ -6257,7 +6257,7 @@ Indra is the one who fulfils the desires of men; he is all-capable; he has no ri
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > य एक॑श्चर्षणी॒नां वसू॑नामिर॒ज्यति॑ ।
-> इन्द्रः॒ पञ्च॑ क्षि॒तीनाम् ॥९॥ [accent ?]
+> इन्द्रः॒ पञ्च॑ क्षिती॒नाम् ॥९॥
 >
 > *ya ékaś carṣaṇīnā́ṃ vásūnām irajyáti |*
 > *índraḥ páñca kṣitī́nām ||9||* [accent ?]
@@ -6372,7 +6372,7 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः ।
-> अ॒स्माक॑मस्तु केव॑लः ॥१०॥
+> अ॒स्माक॑मस्तु॒ केव॑लः ॥१०॥
 >
 > *índraṃ vo viśvátas pári hávāmahe jánebhyaḥ |*
 > *asmā́kam astu kévalaḥ ||10||*
@@ -6474,8 +6474,8 @@ This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-1
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सहं॑ ।
-> व॑र्षिष्ठमू॒तये॑ भर ॥१॥ [accent ?]
+> एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सह॑म् ।
+> वर्षि॑ष्ठमू॒तये॑ भर ॥१॥
 >
 > *éndra sānasíṃ rayíṃ sajítvānaṃ sadāsáhaṃ |*
 > *varṣiṣṭham ūtáye bhara ||1||* [accent ?]
@@ -6656,8 +6656,8 @@ O Indra! We, protected by you, will take the thunderbolt-weapon, very firm for d
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> व॒यं शूरेभि॒रस्तृ॑भि॒रिन्द्र॒ त्वया॑ यु॒जा व॒यं ।
-> सा॒स॒ह्या॑म पृत॒न्यतः ॥४॥
+> व॒यं शूरे॑भि॒रस्तृ॑भि॒रिन्द्र॒ त्वया॑ यु॒जा व॒यम् ।
+> सा॒स॒ह्याम॑ पृतन्य॒तः ॥४॥
 >
 > *vayáṃ śūrebhir ástṛbhir índra tváyā yujā́ vayáṃ |*
 > *sāsahyāma pṛtanyátaḥ ||4||*
@@ -6731,8 +6731,8 @@ O Indra! Since we have the help of skilled and valiant warriors who are expert i
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> म॒हाँ इन्द्रः॑ प॒रश्च नु म॑हि॒त्वम॑स्तु व॒ज्रिणे॑ । [accent ?]
-> द्यौ॑र्न प्र॑थि॒ना शवः॑ ॥५॥ [accent ?]
+> म॒हाँ इन्द्रः॑ प॒रश्च॒ नु म॑हि॒त्वम॑स्तु व॒ज्रिणे॑ ।
+> द्यौर्न प्र॑थि॒ना शवः॑ ॥५॥
 >
 > *mahā́ṁ índraḥ paráś ca nú mahitvám astu vajríṇe |* [accent ?]
 > *dyaúr ná prathinā́ śávaḥ ||5||* [accent ?]
@@ -6828,7 +6828,7 @@ In these riks the *na* comes after the related words *mṛgaḥ* and *vatsam*, s
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स॒मो॒हे वा॒ य आश॑त॒ नर॑स्तो॒कस्य॒ सनि॑तौ । [accent ?]
+> स॒मो॒हे वा॒ य आश॑त॒ नर॑स्तो॒कस्य॒ सनि॑तौ ।
 > विप्रा॑सो वा धिया॒यवः॑ ॥६॥
 >
 > *samohé vā yá ā́śata náras tokásya sánitau |* [accent ?]
@@ -7053,8 +7053,8 @@ The sense of the rik is somewhat involved. Indra always gives each person what t
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ए॒वा हि ते॒ विभू॑तय ऊ॒त॑य इन्द्र॒ माव॑ते । [accent ?]
-> स॒द्य॑श्चित्स॑न्ति दा॒शु॑षे ॥९॥ [accent ?]
+> ए॒वा हि ते॒ विभू॑तय ऊ॒तय॑ इन्द्र॒ माव॑ते ।
+> स॒द्यश्चि॒त्सन्ति॑ दा॒शुषे॑ ॥९॥
 >
 > *evā́ hi te víbhūtaya ūtaya indra mā́vate |* [accent ?]
 > *sadyaś cít santi dāśuṣe ||9||* [accent ?]
@@ -7123,7 +7123,7 @@ O Indra! You always protect people like us. And in particular, to the sacrificer
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ए॒वा ह्य॑स्य॒ काम्या॒ स्तोम॑ उ॒क्थं च॒ शंस्या॑ ।
-> इन्द्रा॑य॒ सोम॑पीतये॑ ॥१०॥ [accent ?]
+> इन्द्रा॑य॒ सोम॑पीतये ॥१०॥
 >
 > *evā́ hy asya kā́myā stóma uktháṃ ca śáṃsyā |*
 > *índrāya sómapītáye ||10||* [accent ?]
@@ -7207,7 +7207,7 @@ The words **एवा (*evā*), हि (*hi*), अस्य (*asya*)** have been
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रेहि॒ मत्स्य॑न्धसो॒ विश्वे॑भिः सोम॒पर्व॑भिः ।
+> इन्द्रेहि॒ मत्स्यन्ध॑सो॒ विश्वे॑भिः सोम॒पर्व॑भिः ।
 > म॒हाँ अ॑भि॒ष्टिरोज॑सा ॥१॥
 >
 > *indrehi mátsy andhaso víśvebhiḥ somapárvabhiḥ |*
@@ -7278,7 +7278,7 @@ O Indra! Come here, and, being satisfied with the food in the form of Soma that 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > एमे॑नं सृजता सु॒ते म॒न्दिमिन्द्रा॑य म॒न्दिने॑ ।
-> च॒क्रिं विश्वा॑नि॒ चक्र॑ये ॥२॥
+> चक्रिं॒ विश्वा॑नि॒ चक्र॑ये ॥२॥
 >
 > *ém enaṃ sṛjatā suté mandím índrāya mandíne |*
 > *cakríṃ víśvāni cákraye ||2||*
@@ -7577,7 +7577,7 @@ O Indra! Make the choice and varied wealth available to us. For with you there i
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अ॒स्मान्त्सु तत्र॑ चोद॒येन्द्र॑ रा॒ये रभ॑स्वतः ।
+> अ॒स्मान्सु तत्र॑ चोद॒येन्द्र॑ रा॒ये रभ॑स्वतः ।
 > तुवि॑द्युम्न॒ यश॑स्वतः ॥६॥
 >
 > *asmā́nt su tátra codayéndra rāyé rábhasvataḥ |*
@@ -7650,7 +7650,7 @@ Many more examples could be given.
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > सं गोम॑दिन्द्र॒ वाज॑वद॒स्मे पृ॒थु श्रवो॑ बृ॒हत् ।
-> वि॒श्वायु॑र्धेह्य॑क्षितम् ॥७॥
+> वि॒श्वायु॑र्धे॒ह्यक्षि॑तम् ॥७॥
 >
 > *saṃ gómad indra vā́javad asmé pṛthú śrávo bṛhát |*
 > *viśvā́yur dhéhy akṣitam ||7||*
@@ -7777,7 +7777,7 @@ The sense of this rik is easy to grasp; there are no special difficulties.
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वसो॒रिन्द्रं॒ वसु॑पतिं गी॒र्भिर्गृ॒णन्त॑ ऋ॒ग्मियं॑ ।
+> वसो॒रिन्द्रं॒ वसु॑पतिं गी॒र्भिर्गृ॒णन्त॑ ऋ॒ग्मिय॑म् ।
 > होम॒ गन्ता॑रमू॒तये॑ ॥९॥
 >
 > *vasor índraṃ vásupatiṃ gīrbhír gṛṇánta ṛgmíyaṃ |*
@@ -7980,8 +7980,8 @@ Many more examples could be given.
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> गाय॑न्ति त्वा गाय॒त्रिणो ऽर्च॑न्त्य॒र्कम॒र्किणः॑ ।
-> ब्र॒ह्मा॑णस्त्वा शतक्र॒त उद्वं॒शमि॑व येमिरे ॥१॥
+> गाय॑न्ति त्वा गाय॒त्रिणोऽर्च॑न्त्य॒र्कम॒र्किणः॑ ।
+> ब्र॒ह्माण॑स्त्वा शतक्रत॒ उद्वं॒शमि॑व येमिरे ॥१॥
 >
 > *gā́yanti tvā gāyatríṇó 'rcanty arkám arkíṇaḥ |*
 > *brahmāṇas tvā śatakratá ud vaṃśám iva yemire ||1||*
@@ -8103,8 +8103,8 @@ Here Yāska gives the word *brahmāṇaḥ* the sense *brāhmaṇāḥ*: *brāhm
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यत्सानोः॒ सानु॒मारु॑ह॒द्भूर्यस्प॑ष्ट॒ कर्त्वं॑ ।
-> तदिन्द्रो॒ अर्थं॑ चेतति यू॒थेन॑ वृ॒ष्णिरे॑जति ॥२॥ [accent ?]
+> यत्सानोः॒ सानु॒मारु॑ह॒द्भूर्यस्प॑ष्ट॒ कर्त्व॑म् ।
+> तदिन्द्रो॒ अर्थं॑ चेतति यू॒थेन॑ वृ॒ष्णिरे॑जति ॥२॥
 >
 > *yat sānoḥ sā́num ā́ruhad bhū́ry áspaṣṭa kártvaṃ |*
 > *tad indro árthaṃ cetati yūthéna vṛṣṇír ejati ||2||* [accent ?]
@@ -8171,8 +8171,8 @@ To give the sense of this rik, many words have to be supplied. **"Sānoḥ sānu
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यु॒क्ष्वा हि के॒शिना॒ ह॒री वृष॑णा कक्ष्यप्रा ।
-> अथा॑ न इन्द्र सोमपा गि॒रामु॒प॑श्रुतिं चर ॥३॥
+> यु॒क्ष्वा हि के॒शिना॒ हरी॒ वृष॑णा कक्ष्य॒प्रा ।
+> अथा॑ न इन्द्र सोमपा गि॒रामुप॑श्रुतिं चर ॥३॥
 >
 > *yukṣvā́ hi keśínā harī́ vṛ́ṣaṇā kakṣyaprā |*
 > *áthā na indra somapā girā́m upaśrutiṃ cara ||3||*
@@ -8242,7 +8242,7 @@ O Indra, absorbed in drinking Soma! Your horses have manes — long hair grown u
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > एहि॒ स्तोमाँ॑ अ॒भि स्व॑रा॒भि गृ॑णी॒ह्या रु॑व ।
-> ब्रह्म॑ च नो वसो॒ सचे॑न्द्र य॒ज्ञं च॑ वर्धय ॥४॥ [accent ?]
+> ब्रह्म॑ च नो वसो॒ सचेन्द्र॑ य॒ज्ञं च॑ वर्धय ॥४॥
 >
 > *ehi stómām̐ abhí svarābhí gṛṇīhy ā́ ruva |*
 > *bráhma ca no vaso sácendra yajñáṃ ca vardhaya ||4||* [accent ?]
@@ -8330,7 +8330,7 @@ In this rik there are three verbs, *svara*, *gṛṇīhi*, *ruva*: *svara* — r
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > उ॒क्थमिन्द्रा॑य॒ शंस्यं॒ वर्ध॑नं पुरुनि॒ष्षिधे॑ ।
-> श॒क्रो यथा॑ सु॒तेषु॑ णो रा॒रण॑त्स॒ख्येषु॑ च ॥५॥ [accent ?]
+> श॒क्रो यथा॑ सु॒तेषु॑ णो रा॒रण॑त्स॒ख्येषु॑ च ॥५॥
 >
 > *ukthám índrāya śáṃsyaṃ várdhanaṃ puruniṣṣídhe |*
 > *śakró yáthā sutéṣu ṇo rāráṇat sakhyéṣu ca ||5||* [accent ?]
@@ -8413,7 +8413,7 @@ In the rite called Abhiplava-ṣaḍaha, in the third pressing, when the priest 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > तमित्स॑खि॒त्व ई॑महे॒ तं रा॒ये तं सु॒वीर्ये॑ ।
-> स श॒क्र उ॒त नः॑ श॒कदिन्द्रो॒ वसु॒ द॑यमानः ॥६॥
+> स श॒क्र उ॒त नः॑ शक॒दिन्द्रो॒ वसु॒ दय॑मानः ॥६॥
 >
 > *tam ít sakhitvá īmahe táṃ rāyé taṃ suvī́rye |*
 > *sa śakrá utá naḥ śakád indro vásu dayamānaḥ ||6||*
@@ -8637,7 +8637,7 @@ O Indra! Your greatness, which destroys enemies, is so very great that heaven an
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आश्रु॑त्कर्ण श्रु॒धी ह॒वं नू चि॑द्दधिष्व मे॒ गिरः॑ ।
+> आश्रु॑त्कर्ण श्रु॒धी हवं॒ नू चि॑द्दधिष्व मे॒ गिरः॑ ।
 > इन्द्र॒ स्तोम॑मि॒मं मम॑ कृ॒ष्वा यु॒जश्चि॒दन्त॑रम् ॥९॥
 >
 > *ā́śrutkarṇa śrudhī́ haváṃ nū́ cid dadhiṣva me gíraḥ |*
@@ -8703,7 +8703,7 @@ O Indra! Your ears are able to hear everything, everywhere. Therefore hear quick
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वि॒द्मा हि त्वा॒ वृष॑न्तमं॒ वाजे॑षु हवन॒श्रुतं॑ ।
+> वि॒द्मा हि त्वा॒ वृष॑न्तमं॒ वाजे॑षु हवन॒श्रुत॑म् ।
 > वृष॑न्तमस्य हूमह ऊ॒तिं स॑हस्र॒सात॑माम् ॥१०॥
 >
 > *vidmā́ hi tvā vṛ́ṣantamaṃ vā́jeṣu havanaśrútaṃ |*
@@ -8768,7 +8768,7 @@ The sense of this rik is easy to understand. There are no special difficulties, 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > आ तू न॑ इन्द्र कौशिक मन्दसा॒नः सु॒तं पि॑ब ।
-> न॒व्यमायुः॒ प्र सू ति॑र कृ॒धी स॑ह॒स्रसामृ॑षिम् ॥११॥ [accent ?]
+> नव्य॒मायुः॒ प्र सू ति॑र कृ॒धी स॑हस्र॒सामृषि॑म् ॥११॥
 >
 > *ā tū́ na indra kauśika mandasānáḥ sutáṃ piba |*
 > *navyám āyuḥ prá sū́ tira kṛdhī́ sahasrásā́m ṛṣim ||11||* [accent ?]
@@ -8857,8 +8857,8 @@ The chief point is this: in ancient times a king named Iṣīratha had a son cal
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प॑रि त्वा गिर्वणो॒ गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ । [accent ?]
-> वृ॒द्धायु॒मनु॒ वृद्ध॑यो॒ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥१२॥ [accent ?]
+> परि॑ त्वा गिर्वणो॒ गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ ।
+> वृ॒द्धायु॒मनु॒ वृद्ध॑यो॒ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥१२॥
 >
 > *pari tvā girvaṇo gíra imā́ bhavantu viśvátaḥ |* [accent ?]
 > *vṛddhā́yum ánu vṛ́ddhayo júṣṭā bhavantu júṣṭayaḥ ||12||* [accent ?]
@@ -8962,8 +8962,8 @@ The sense of this rik is very involved (difficult); the intention does not fit t
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं॒ विश्वा॑ अवीवृधन्त्समु॒द्रव्य॑चसं॒ गिरः ।
-> र॒थीत॑मं॒ र॒थीनां॒ वाजा॑नां॒ सत्प॑तिं॒ पतिं॑ ॥१॥
+> इन्द्रं॒ विश्वा॑ अवीवृधन्समु॒द्रव्य॑चसं॒ गिरः॑ ।
+> र॒थीत॑मं र॒थीनां॒ वाजा॑नां॒ सत्प॑तिं॒ पति॑म् ॥१॥
 >
 > *indraṃ víśvā avīvṛdhant samudrávyacasaṃ gíraḥ |*
 > *rathī́tamaṃ rathī́nāṃ vā́jānāṃ sátpatiṃ pátiṃ ||1||*
@@ -9088,7 +9088,7 @@ O Indra! You are the lord of strength and capacity — that is, of great might. 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> पूर्वीरिन्द्र॑स्य रा॒तयो॒ न वि द॑स्यन्त्यू॒तयः॑ ।
+> पू॒र्वीरिन्द्र॑स्य रा॒तयो॒ न वि द॑स्यन्त्यू॒तयः॑ ।
 > यदी॒ वाज॑स्य॒ गोम॑तः स्तो॒तृभ्यो॒ मंह॑ते म॒घम् ॥३॥
 >
 > *pūrvīr índrasya rātáyo ná ví dasyanty ūtáyaḥ |*
@@ -9161,7 +9161,7 @@ The sense of this rik is somewhat strained. To the sacrificer who performs the s
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > पु॒रां भि॒न्दुर्युवा॑ क॒विरमि॑तौजा अजायत ।
-> इ॒न्द्रो विश्व॑स्य॒ कर्म॑णो ध॒र्ता व॒ज्री पु॑रुष्टु॒तः ॥४॥
+> इन्द्रो॒ विश्व॑स्य॒ कर्म॑णो ध॒र्ता व॒ज्री पु॑रुष्टु॒तः ॥४॥
 >
 > *purā́ṃ bhindúr yúvā kavír ámitaujā ajāyata |*
 > *indró víśvasya kármaṇo dhartā́ vajrī́ puruṣṭutáḥ ||4||*
@@ -9236,7 +9236,7 @@ A special application for this rik has been stated: in the rite called Abhiplava
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं व॒लस्य॒ गोम॒तो ऽपा॑वरद्रिवो॒ बिलं॑ । [accent ?]
+> त्वं व॒लस्य॒ गोम॒तोऽपा॑वरद्रिवो॒ बिल॑म् ।
 > त्वां दे॒वा अबि॑भ्युषस्तु॒ज्यमा॑नास आविषुः ॥५॥
 >
 > *tvaṃ valásya gómató 'pāvar adrivo bílaṃ |* [accent ?]
@@ -9401,7 +9401,7 @@ and *āy* for *ai* by "eco 'yavāyāvaḥ" (Pā. 6-1-78): *āyam*; unaccented by
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > मा॒याभि॑रिन्द्र मा॒यिनं॒ त्वं शुष्ण॒मवा॑तिरः ।
-> वि॒दुष्टे॒ तस्य॒ मेधि॑रा॒स्तेषां॒ श्रवां॒स्यु॑त्तिर ॥७॥ [accent ?]
+> वि॒दुष्टे॒ तस्य॒ मेधि॑रा॒स्तेषां॒ श्रवां॒स्युत्ति॑र ॥७॥
 >
 > *māyā́bhir indra māyínaṃ tváṃ śuṣṇam ávātiraḥ |*
 > *vidúṣ ṭe tásya médhirās téṣāṃ śrávāṃsy ut tira ||7||* [accent ?]
@@ -9563,7 +9563,7 @@ in this rik too, "निरविध्यदिलाबिलशयस्य �
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > इन्द्र॒मीशा॑न॒मोज॑सा॒भि स्तोमा॑ अनूषत ।
-> स॒हस्रं यस्य॑ रा॒तय॑ उ॒त वा॒ सन्ति॒ भूय॑सीः ॥८॥
+> स॒हस्रं॒ यस्य॑ रा॒तय॑ उ॒त वा॒ सन्ति॒ भूय॑सीः ॥८॥
 >
 > *indram ī́śānam ójasābhí stómā anūṣata |*
 > *sahásraṃ yásya rātáya utá vā sánti bhū́yasīḥ ||8||*
@@ -9856,8 +9856,8 @@ O Agni! You are born (in the *araṇi*). Such as you are, to favour the sacrific
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ताँ उ॑श॒तो वि बो॑धय॒ यद॑ग्ने॒ यासि॑ दू॒त्यम् ।
-> दे॒वैरा स॑त्सि ब॒र्हिषि ॥४॥
+> ताँ उ॑श॒तो वि बो॑धय॒ यद॑ग्ने॒ यासि॑ दू॒त्य॑म् ।
+> दे॒वैरा स॑त्सि ब॒र्हिषि॑ ॥४॥
 >
 > *tā́m̐ uśató ví bodhaya yád agne yā́si dūtyám |*
 > *deváir ā́ satsi barhíṣi ||4||*
@@ -9916,8 +9916,8 @@ O Agni! You are the gods' messenger. Therefore rouse those gods who desire the o
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> घृता॑हवन दीदि॒वः प्रति॑ ष्म॒ रिष॑तो दह ।
-> अग्ने॒ त्वं र॑क्ष॒स्वि॑नः ॥५॥ [accent ?]
+> घृता॑हवन दीदिवः॒ प्रति॑ ष्म॒ रिष॑तो दह ।
+> अग्ने॒ त्वं र॑क्ष॒स्विनः॑ ॥५॥
 >
 > *ghṛ́tāhavana dīdiváḥ práti ṣma ríṣato daha |*
 > *agne tváṃ rakṣasvinaḥ ||5||* [accent ?]
@@ -10348,7 +10348,7 @@ it is *śit*, so by "anekāl śit sarvasya" (Pā. 1-1-55) it replaces the whole:
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > स नः॒ स्तवा॑न॒ आ भ॑र गाय॒त्रेण॒ नवी॑यसा ।
-> र॒यिं वी॒रव॑ती॒मिषं॑ ॥११॥
+> र॒यिं वी॒रव॑ती॒मिष॑म् ॥११॥
 >
 > *sa naḥ stávāna ā́ bhara gāyatréṇa návīyasā |*
 > *rayíṃ vīrávatīm íṣaṃ ||11||*
@@ -10616,7 +10616,7 @@ since *pāvaka* counts as absent, it cannot intervene; so one may say that, comi
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > मधु॑मन्तं तनूनपाद्य॒ज्ञं दे॒वेषु॑ नः कवे ।
-> अ॒द्या कृ॑णुहि वी॒त॑ये ॥२॥
+> अ॒द्या कृ॑णुहि वी॒तये॑ ॥२॥
 >
 > *mádhumantaṃ tanūnapād yajñáṃ devéṣu naḥ kave |*
 > *adyā́ kṛṇuhi vītaye ||2||*
@@ -10725,8 +10725,8 @@ and *aś* replaces *idam*: that is the sense of the Bhāṣya sentence. So with 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नरा॒शंस॑मि॒ह प्रियम॒स्मिन्य॒ज्ञ उप॑ ह्वये । [accent ?]
-> मधु॑जिह्वं हवि॒ष्कृत॑म् ॥३॥ [accent ?]
+> नरा॒शंस॑मि॒ह प्रि॒यम॒स्मिन्य॒ज्ञ उप॑ ह्वये ।
+> मधु॑जिह्वं हवि॒ष्कृत॑म् ॥३॥
 >
 > *narāśáṃsam ihá priyam asmín yajñá úpa hvaye |* [accent ?]
 > *mádhujihvaṃ haviṣkṛ́tam ||3||* [accent ?]
@@ -10892,7 +10892,7 @@ a third-case tatpuruṣa: *manu* + *ṭā* + *hita* + *su*; for the instrumental
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > स्तृ॒णी॒त ब॒र्हिरा॑नु॒षग्घृ॒तपृ॑ष्ठं मनीषिणः ।
-> य॒त्रा॒मृत॑स्य॒ चक्ष॑णम् ॥५॥
+> यत्रा॒मृत॑स्य॒ चक्ष॑णम् ॥५॥
 >
 > *stṛṇītá barhír ānuṣág ghṛtápṛṣṭhaṃ manīṣiṇaḥ |*
 > *yatrāmṛ́tasya cákṣaṇam ||5||*
@@ -11082,8 +11082,8 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> न॒क्तो॒षासा॑ सु॒पेश॑सा॒स्मिन्य॒ज्ञ उप॑ ह्वये । [accent ?]
-> इ॒दं नो॑ ब॒र्हिरा॒स॑दे ॥७॥
+> नक्तो॒षासा॑ सु॒पेश॑सा॒स्मिन्य॒ज्ञ उप॑ ह्वये ।
+> इ॒दं नो॑ ब॒र्हिरा॒सदे॑ ॥७॥
 >
 > *naktoṣā́sā supéśasāsmín yajñá úpa hvaye |* [accent ?]
 > *idáṃ no barhír āsade ||7||*
@@ -11186,7 +11186,7 @@ The Bhāṣyakāra's (Sāyaṇa's) explanation: "*naktaśabda uṣaḥśabdaś c
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ता सु॑जि॒ह्वा उप॑ ह्वये॒ होता॑रा॒ दैव्या॑ क॒वी । [accent ?]
+> ता सु॑जि॒ह्वा उप॑ ह्वये॒ होता॑रा॒ दैव्या॑ क॒वी ।
 > य॒ज्ञं नो॑ यक्षतामि॒मम् ॥८॥
 >
 > *tā́ sujihvā́ úpa hvaye hótārā dáivyā kavī́ |* [accent ?]
@@ -12135,7 +12135,7 @@ gives *ay* for *ṇi* before *ām*, *anta*, *ālu*, *āyya*, *itnu*, *iṣṇu*:
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ईळ॑ते॒ त्वाम॑व॒स्यवः॒ कण्वा॑सो वृ॒क्तब॑र्हिषः ।
-> ह॒विष्म॑न्तो अ॒रं॒कृतः॑ ॥५॥ [accent ?]
+> ह॒विष्म॑न्तो अरं॒कृतः॑ ॥५॥
 >
 > *ī́ḷate tvā́m avasyávaḥ káṇvāso vṛktábarhiṣaḥ |*
 > *havíṣmanto araṃkṛ́taḥ ||5||* [accent ?]
@@ -12241,7 +12241,7 @@ that is, by the earlier statement *vāla-mūla…* the *r* for the *l* is laid d
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > घृ॒तपृ॑ष्ठा मनो॒युजो॒ ये त्वा॒ वह॑न्ति॒ वह्न॑यः ।
-> आ दे॒वान्त्सोम॑पीतये ॥६॥
+> आ दे॒वान्सोम॑पीतये ॥६॥
 >
 > *ghṛtápṛṣṭhā manoyújo yé tvā váhanti váhnayaḥ |*
 > *ā devā́nt sómapītaye ||6||*
@@ -12328,8 +12328,8 @@ accent remains. In *ye tvā vahanti vahnayaḥ*, *vahanti* follows the word with
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तान्यज॑त्राँ ऋता॒वृधो ऽग्ने॒ पत्नी॑वतस्कृधि । [accent ?]
-> मध्वः॑ सुजिह्व पायय ॥७॥ [accent ?]
+> तान्यज॑त्राँ ऋता॒वृधो ऽग्ने॒ पत्नी॑वतस्कृधि ।
+> मध्वः॑ सुजिह्व पायय ॥७॥
 >
 > *tān yájatrām̐ ṛtāvṛ́dho 'gne pátnīvatas kṛdhi |* [accent ?]
 > *mádhvaḥ sujihva pāyaya ||7||* [accent ?]
@@ -12412,7 +12412,7 @@ the one without *luk* is taken, so the *bhvādi* root is meant. After *pāyi*, *
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये यज॑त्रा॒ य ई॒ड्या॒स्ते ते॑ पिबन्तु जि॒ह्वया॑ । [accent ?]
+> ये यज॑त्रा॒ य ईड्या॒स्ते ते॑ पिबन्तु जि॒ह्वया॑ ।
 > मधो॑रग्ने॒ वष॑ट्कृति ॥८॥
 >
 > *ye yájatrā yá īḍyās té te pibantu jihváyā |* [accent ?]
@@ -12486,8 +12486,8 @@ O Agni, may all the deities who are worthy of a share in the sacrifice and those
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ॒कीं सूर्य॑स्य रोच॒नाद्विश्वा॑न्दे॒वाँ उ॑ष॒र्बुधः ।
-> विप्रो॒ होते॒ह व॑क्षति ॥९॥ [accent ?]
+> आकीं॒ सूर्य॑स्य रोच॒नाद्विश्वा॑न्दे॒वाँ उ॑ष॒र्बुधः॑ ।
+> विप्रो॒ होते॒ह व॑क्षति ॥९॥
 >
 > *ākī́ṃ sū́ryasya rocanā́d víśvān devā́m̐ uṣarbúdhaḥ |*
 > *vipro hótehá vakṣati ||9||* [accent ?]
@@ -12573,7 +12573,7 @@ Woken at dawn.
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > विश्वे॑भिः सो॒म्यं मध्वग्न॒ इन्द्रे॑ण वा॒युना॑ ।
-> पिबा॑ मि॒त्रस्य धाम॑भिः ॥१०॥ [accent ?]
+> पिबा॑ मि॒त्रस्य॒ धाम॑भिः ॥१०॥
 >
 > *víśvebhiḥ somyáṃ madhv agna índreṇa vāyúnā |*
 > *píbā mitrásya dhā́mabhiḥ ||10||* [accent ?]
@@ -12651,7 +12651,7 @@ with Mitra's forms of radiance, "with various forms of Mitra". *Dhāmabhiḥ* me
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > त्वं होता॒ मनु॑र्हि॒तो ऽग्ने॑ य॒ज्ञेषु॑ सीदसि ।
-> सेमं नो॑ अध्व॒रं य॑ज ॥११॥ [accent ?]
+> सेमं नो॑ अध्व॒रं य॑ज ॥११॥
 >
 > *tvaṃ hotā mánur hitó 'gne yajñéṣu sīdasi |*
 > *semáṃ no adhvaráṃ yaja ||11||* [accent ?]
@@ -12846,7 +12846,7 @@ The root *ṛ* has the sense of going. Since horses are endowed with motion, the
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र॒ सोमं॒ पिब॑ ऋ॒तुना त्वा॑ वि॒शन्त्विन्द॑वः । [accent ?]
+> इन्द्र॒ सोमं॒ पिब॑ ऋ॒तुना त्वा॑ विश॒न्त्विन्द॑वः ।
 > म॒त्स॒रास॒स्तदो॑कसः ॥१॥
 >
 > *indra sómaṃ píba ṛtúnā́ tvā viśántv índavaḥ |* [accent ?]
@@ -12919,7 +12919,7 @@ That is, your belly, which is that very dwelling, is always the dwelling of the 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > मरु॑तः॒ पिब॑त ऋ॒तुना॑ पो॒त्राद्य॒ज्ञं पु॑नीतन ।
-> यू॒यं हि ष्ठा सु॑दानवः ॥२॥ [accent ?]
+> यू॒यं हि ष्ठा सु॑दानवः ॥२॥
 >
 > *márutaḥ píbata ṛtúnā potrā́d yajñáṃ punītana |*
 > *yūyáṃ hi ṣṭhā́ sudānavaḥ ||2||* [accent ?]
@@ -13158,7 +13158,7 @@ So by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. 8-1-72) the earlier voca
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अग्ने॑ दे॒वाँ इ॒हा व॑ह सा॒दया॒ योनि॑षु त्रि॒षु । [accent ?]
+> अग्ने॑ दे॒वाँ इ॒हा व॑ह सा॒दया॒ योनि॑षु त्रि॒षु ।
 > परि॑ भूष॒ पिब॑ ऋ॒तुना॑ ॥४॥
 >
 > *ágne devā́m̐ ihā́ vaha sādáyā yóniṣu triṣú |* [accent ?]
@@ -13239,7 +13239,7 @@ that is, the morning pressing, the midday pressing and the third pressing. A pre
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ब्राह्म॑णादिन्द्र॒ राध॑सः॒ पिबा॒ सोम॑मृ॒तूँरनु॑ ।
-> तवे॑द्धि स॒ख्यम॑स्तृतम् ॥५॥ [accent ?]
+> तवेद्धि स॒ख्यमस्तृ॑तम् ॥५॥
 >
 > *brā́hmaṇād indra rā́dhasaḥ píbā sómam ṛtū́m̐r ánu |*
 > *táved dhi sakhyám astṛtam ||5||* [accent ?]
@@ -13454,7 +13454,7 @@ lengthens the initial *a* of the reduplicate: *ā* + *aś* + *athe*. "aśnoteś 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> द्र॒वि॒णो॒दा द्रवि॑णसो॒ ग्राव॑हस्तासो अध्व॒रे । [accent ?]
+> द्र॒वि॒णो॒दा द्रवि॑णसो॒ ग्राव॑हस्तासो अध्व॒रे ।
 > य॒ज्ञेषु॑ दे॒वमी॑ळते ॥७॥
 >
 > *draviṇodā́ dráviṇaso grā́vahastāso adhvaré |* [accent ?]
@@ -13673,7 +13673,7 @@ not preceded by a conjunct, takes *yaṇ*; so *yaṇ*. By "ṛvarṇān nasya �
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > द्र॒वि॒णो॒दाः पि॑पीषति जु॒होत॒ प्र च॑ तिष्ठत ।
-> ने॒ष्ट्रादृ॒तुभि॑रिष्यत ॥९॥ [accent ?]
+> ने॒ष्ट्रादृ॒तुभि॑रिष्यत ॥९॥
 >
 > *draviṇodā́ḥ pipīṣati juhóta prá ca tiṣṭhata |*
 > *neṣṭrā́d ṛtúbhir iṣyata ||9||* [accent ?]
@@ -13754,7 +13754,7 @@ means: the operation enjoined in a rule that names a fifth-case form comes for w
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यत्त्वा॑ तु॒रीय॑मृ॒तुभि॒र्द्रवि॑णोदो॒ यजा॑महे । [accent ?]
+> यत्त्वा॑ तु॒रीय॑मृ॒तुभि॒र्द्रवि॑णोदो॒ यजा॑महे ।
 > अध॑ स्मा नो द॒दिर्भ॑व ॥१०॥
 >
 > *yát tvā turī́yam ṛtúbhir dráviṇodo yájāmahe |* [accent ?]
@@ -13822,7 +13822,7 @@ O Agni, seeking wealth, we worship you, the fourth, with the Ṛtu deities. So s
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अश्वि॑ना॒ पिब॑तं॒ मधु॒ दीद्य॑ग्नी शुचिव्रता । [accent ?]
+> अश्वि॑ना॒ पिब॑तं॒ मधु॒ दीद्य॑ग्नी शुचिव्रता ।
 > ऋ॒तुना॑ यज्ञवाहसा ॥११॥
 >
 > *áśvinā píbataṃ mádhu dī́dyagnī śucivratā |* [accent ?]
@@ -13920,8 +13920,8 @@ and the other two vocatives, being qualifiers, are themselves particular terms. 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> गार्ह॑पत्येन सन्त्य ऋ॒तुना॑ यज्ञ॒नीर॑सि । [accent ?]
-> दे॒वान्दे॑व॒य॒ते य॑ज ॥१२॥ [accent ?]
+> गार्ह॑पत्येन सन्त्य ऋ॒तुना॑ यज्ञ॒नीर॑सि ।
+> दे॒वान्दे॑वय॒ते य॑ज ॥१२॥
 >
 > *gā́rhapatyena santya ṛtúnā yajñanī́r asi |* [accent ?]
 > *devā́n devayaté yaja ||12||* [accent ?]
@@ -14183,7 +14183,7 @@ pratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the *s*: *vakṣatas*; *ru* and visa
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं॑ प्रा॒तर्ह॑वामह॒ इन्द्रं॑ प्रय॒त्य॑ध्व॒रे । [accent ?]
+> इन्द्रं॑ प्रा॒तर्ह॑वामह॒ इन्द्रं॑ प्रय॒त्य॑ध्व॒रे ।
 > इन्द्रं॒ सोम॑स्य पी॒तये॑ ॥३॥
 >
 > *índraṃ prātár havāmaha índraṃ prayaty adhvaré |* [accent ?]
@@ -14255,8 +14255,8 @@ In *śatur anumaḥ* the *kṛt* is named with the property of being *śatṛ*, 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उप॑ नः सु॒तमा ग॑हि॒ हरि॑भिरिन्द्र के॒शिभिः॑ । [accent ?]
-> सु॒ते हि त्वा॒ हवा॑महे ॥४॥ [accent ?]
+> उप॑ नः सु॒तमा ग॑हि॒ हरि॑भिरिन्द्र के॒शिभिः॑ ।
+> सु॒ते हि त्वा॒ हवा॑महे ॥४॥
 >
 > *úpa naḥ sutám ā́ gahi háribhir indra keśíbhiḥ |* [accent ?]
 > *suté hi tvā hávāmahe ||4||* [accent ?]
@@ -14318,7 +14318,7 @@ O Indra, we have made the soma juice ready for you and call you. Come near us wi
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > सेमं नः॒ स्तोम॒मा ग॒ह्युपे॒दं सव॑नं सु॒तम् ।
-> गौ॒रो न तृ॑षितः पि॑ब ॥५॥ [accent ?]
+> गौ॒रो न तृ॑षि॒तः पि॑ब ॥५॥
 >
 > *semaṃ naḥ stómam ā́ gahy úpedáṃ sávanaṃ sutám |*
 > *gauró ná tṛṣitáḥ piba ||5||* [accent ?]
@@ -14398,7 +14398,7 @@ In its place, by "supāṃ supo bhavanti" (Pā. sū. Vā. 3-1-39-1 [as printed; 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > इ॒मे सोमा॑स॒ इन्द॑वः सु॒तासो॒ अधि॑ ब॒र्हिषि॑ ।
-> ताँ इ॑न्द्र॒ सह॑से पिब ॥६॥ [accent ?]
+> ताँ इ॑न्द्र॒ सह॑से पिब ॥६॥
 >
 > *imé sómāsa índavaḥ sutā́so ádhi barhíṣi |*
 > *tā́m̐ indra sáhase piba ||6||* [accent ?]
@@ -15065,8 +15065,8 @@ since there is connection with this *kṛdanta*, in *indrāvaruṇayoḥ* the ge
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> गन्ता॑रा॒ हि स्थोव॑से॒ हवं॒ विप्र॑स्य॒ माव॑तः ।
-> ध॒र्ता॑रा चर्षणी॒नाम् ॥२॥
+> गन्ता॑रा॒ हि स्थोऽव॑से॒ हवं॒ विप्र॑स्य॒ माव॑तः ।
+> ध॒र्तारा॑ चर्षणी॒नाम् ॥२॥
 >
 > *gántārā hí sthóvase hávaṃ víprasya mā́vataḥ |*
 > *dhartārā carṣaṇīnā́m ||2||*
@@ -15165,7 +15165,7 @@ laghūpadhasya ca" (Pā. sū. 7-3-86) the *laghūpadha-guṇa*, followed by *r*:
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अ॒नु॒का॒मं त॑र्पयेथा॒मिन्द्रा॑वरुण रा॒य आ । [accent ?]
+> अ॒नु॒का॒मं त॑र्पयेथा॒मिन्द्रा॑वरुण रा॒य आ ।
 > ता वां॒ नेदि॑ष्ठमीमहे ॥३॥
 >
 > *anukāmáṃ tarpayethām índrāvaruṇa rāyá ā |* [accent ?]
@@ -15425,7 +15425,7 @@ explaining this ṛk, for *viśvam eko abhi caṣṭe śacībhiḥ*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रः॑ सहस्र॒दाव्नां॑ वरु॑णः॒ शंस्या॑नाम् ।
+> इन्द्रः॑ सहस्र॒दाव्नां॒ वरु॑णः॒ शंस्या॑नाम् ।
 > क्रतु॑र्भवत्यु॒क्थ्यः॑ ॥५॥
 >
 > *índraḥ sahasradā́vnāṃ váruṇaḥ śáṃsyānām |*
@@ -15519,8 +15519,8 @@ the svarita in places such as *ukthya*, *sūrmya* must be justified as Vedic. In
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तयो॒रिदव॑सा व॒यं स॒नेम॒ नि च॑ धीमहि । [accent ?]
-> स्यादु॒त प्र॒रे॑चनम् ॥६॥ [accent ?]
+> तयो॒रिदव॑सा व॒यं स॒नेम॒ नि च॑ धीमहि ।
+> स्यादु॒त प्र॒रेच॑नम् ॥६॥
 >
 > *tayor íd ávasā vayáṃ sanéma ní ca dhīmahi |* [accent ?]
 > *syād utá prarécanam ||6||* [accent ?]
@@ -15603,8 +15603,8 @@ By the grace of Indra and Varuṇa may we gather boundless wealth, enjoy it as w
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रा॑वरुण वाम॒हं हु॒वे चि॒त्राय॒ रा॑धसे । [accent ?]
-> अ॒स्मान्त्सु जि॒ग्यु॑षस्कृतम् ॥७॥
+> इन्द्रा॑वरुण वाम॒हं हु॒वे चि॒त्राय॒ राध॑से ।
+> अ॒स्मान्सु जि॒ग्युष॑स्कृतम् ॥७॥
 >
 > *índrāvaruṇa vām aháṃ huvé citrā́ya rādhase |* [accent ?]
 > *asmā́nt su jigyúṣas kṛtam ||7||*
@@ -15697,8 +15697,8 @@ takes the substitute *yaṇ*. But in the sūtra *huśnuvoḥ* only the *pratipad
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रा॑वरुण॒ नू नु वां॒ सिषा॑सन्तीषु धी॒ष्वा । [accent ?]
-> अ॒स्मभ्यं॒ शर्म॑ यच्छतम् ॥८॥ [accent ?]
+> इन्द्रा॑वरुण॒ नू नु वां॒ सिषा॑सन्तीषु धी॒ष्वा ।
+> अ॒स्मभ्यं॒ शर्म॑ यच्छतम् ॥८॥
 >
 > *índrāvaruṇa nū́ nu vāṃ síṣāsantīṣu dhīṣvā́ |* [accent ?]
 > *asmábhyaṃ śárma yacchatam ||8||* [accent ?]
@@ -15797,8 +15797,8 @@ so the augment *num*. By "mid aco 'ntyāt paraḥ" (Pā. sū. 1-1-47) it comes a
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्र वा॑मश्नोतु सुष्टुतिरिन्द्रा॑वरुण॒ यां हु॒वे । [accent ?]
-> यामृ॒धा॑थे स॒धस्तु॑तिम् ॥९॥ [accent ?]
+> प्र वा॑मश्नोतु सुष्टु॒तिरिन्द्रा॑वरुण॒ यां हु॒वे ।
+> यामृ॒धाथे॑ स॒धस्तु॑तिम् ॥९॥
 >
 > *prá vām aśnotu suṣṭutír índrāvaruṇa yā́ṃ huvé |* [accent ?]
 > *yā́m ṛdhā́the sadhástutim ||9||* [accent ?]
@@ -16045,8 +16045,8 @@ it is initial udātta; and it is a *taddhita*: so the Kannada sense. When the su
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यो रे॒वान्यो अ॑मीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः । [accent ?]
-> स नः॑ सिषक्तु॒ यस्तु॒रः ॥२॥ [accent ?]
+> यो रे॒वान्यो अ॑मीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।
+> स नः॑ सिषक्तु॒ यस्तु॒रः ॥२॥
 >
 > *yo revā́n yó amīvahā́ vasuvít puṣṭivárdhanaḥ |* [accent ?]
 > *sá naḥ siṣaktu yás turáḥ ||2||* [accent ?]
@@ -16157,8 +16157,8 @@ the *ṇic*-final root *vṛdh* is read among the *nandy-ādi*. So after it the 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मा नः॒ शंसो॒ अर॑रुषो धू॒र्तिः प्रण॒ङ्मर्त्य॑स्य । [accent ?]
-> र॑क्षा णो ब्रह्मणस्पते ॥३॥ [accent ?]
+> मा नः॒ शंसो॒ अर॑रुषो धू॒र्तिः प्रण॒ङ्मर्त्य॑स्य ।
+> रक्षा॑ णो ब्रह्मणस्पते ॥३॥
 >
 > *mā naḥ śáṃso áraruṣo dhūrtíḥ praṇaṅ mártyasya |* [accent ?]
 > *rakṣā ṇo brahmaṇaspate ||3||* [accent ?]
@@ -16257,8 +16257,8 @@ hard to account for, and besides, the words *araru* in the mantras just cited co
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स घा॑ वी॒रो न रि॑ष्यति॒ यमिन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ । [accent ?]
-> सो॑मो हि॒नोति॒ मर्त्य॑म् ॥४॥ [accent ?]
+> स घा॑ वी॒रो न रि॑ष्यति॒ यमिन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ ।
+> सोमो॑ हि॒नोति॒ मर्त्य॑म् ॥४॥
 >
 > *sá ghā vīró ná riṣyati yám indro bráhmaṇaspátiḥ |* [accent ?]
 > *somo hinóti mártyam ||4||* [accent ?]
@@ -16329,8 +16329,8 @@ This ṛk is addressed to the three deities Indra, Brahmaṇaspati and Soma. The
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं तं ब्र॑ह्मणस्प॒ते सोम॒ इन्द्र॑श्च॒ मर्त्य॑म् । [accent ?]
-> द॑क्षिणा पा॒त्वंह॑सः ॥५॥ [accent ?]
+> त्वं तं ब्र॑ह्मणस्पते॒ सोम॒ इन्द्र॑श्च॒ मर्त्य॑म् ।
+> दक्षि॑णा पा॒त्वंह॑सः ॥५॥
 >
 > *tvaṃ táṃ brahmaṇaspaté soma índraś ca mártyam |* [accent ?]
 > *dakṣiṇā pātv áṃhasaḥ ||5||* [accent ?]
@@ -16423,8 +16423,8 @@ Of these four kinds of sense, the last, the act of giving, is what is meant in t
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् । [accent ?]
-> स॒निं मे॒धाम॑यासिषम् ॥६॥ [accent ?]
+> सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् ।
+> स॒निं मे॒धाम॑यासिषम् ॥६॥
 >
 > *sádasaspátim ádbhutaṃ priyám índrasya kā́myam |* [accent ?]
 > *saníṃ medhā́m ayāsiṣam ||6||* [accent ?]
@@ -16511,8 +16511,8 @@ Since Skandasvāmin says in the Nirukta that words such as *īmahe* and *yāmi* 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यस्मा॑दृ॒ते न सि॒ध्य॑ति य॒ज्ञो वि॒प॒श्चित॑श्च॒न । [accent ?]
-> स धी॒नां योग॑मिन्वति ॥७॥ [accent ?]
+> यस्मा॑दृ॒ते न सिध्य॑ति य॒ज्ञो वि॑प॒श्चित॑श्च॒न ।
+> स धी॒नां योग॑मिन्वति ॥७॥
 >
 > *yásmād ṛté na sidhyati yajñó vipaścítaś caná |* [accent ?]
 > *sa dhīnā́ṃ yógam invati ||7||* [accent ?]
@@ -16577,8 +16577,8 @@ Even a learned sacrificer cannot accomplish the rite without the help of Sadasas
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आदृ॑ध्नोति ह॒विष्कृ॑तिं॒ प्राञ्चं॑ कृणोत्यध्व॒रम् । [accent ?]
-> होत्रा॑ दे॒वेषु॑ गच्छति ॥८॥ [accent ?]
+> आदृ॑ध्नोति ह॒विष्कृ॑तिं॒ प्राञ्चं॑ कृणोत्यध्व॒रम् ।
+> होत्रा॑ दे॒वेषु॑ गच्छति ॥८॥
 >
 > *ā́d ṛdhnoti havíṣkṛtiṃ prā́ñcaṃ kṛṇoty adhvarám |* [accent ?]
 > *hótrā devéṣu gacchati ||8||* [accent ?]
@@ -16681,8 +16681,8 @@ the suffix *tran* comes; so after the root *hu*, *tran*; *guṇa*: *hotra*. Nami
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नरा॒शंसं॑ सु॒धृष्ट॑म॒मप॑श्यं स॒प्रथ॑स्तमम् । [accent ?]
-> दि॒वो न सद्म॑मखसम् ॥९॥ [accent ?]
+> नरा॒शंसं॑ सु॒धृष्ट॑म॒मप॑श्यं स॒प्रथ॑स्तमम् ।
+> दि॒वो न सद्म॑मखसम् ॥९॥
 >
 > *narāśáṃsaṃ sudhṛ́ṣṭamam ápaśyaṃ sapráthastamam |* [accent ?]
 > *divó na sádmamakhasam ||9||* [accent ?]
@@ -16821,8 +16821,8 @@ After compounding with the word *su*, the accent of the *kṛt* final member com
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्रति॒ त्यं चारु॑मध्व॒रं गो॑पी॒थाय॒ प्र हू॑यसे । [accent ?]
-> म॒रुद्भि॑रग्न आ ग॑हि ॥१॥ [accent ?]
+> प्रति॒ त्यं चारु॑मध्व॒रं गो॑पी॒थाय॒ प्र हू॑यसे ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥१॥
 >
 > *prati tyáṃ cā́rum adhvaráṃ gopīthā́ya prá hūyase |* [accent ?]
 > *marúdbhir agna ā́ gahi ||1||* [accent ?]
@@ -16921,8 +16921,8 @@ is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> न॒हि दे॒वो न मर्त्यो॑ म॒हस्तव॒ क्रतुं॑ प॒रः । [accent ?]
-> म॒रुद्भि॑रग्न आ ग॑हि ॥२॥ [accent ?]
+> न॒हि दे॒वो न मर्त्यो॑ म॒हस्तव॒ क्रतुं॑ प॒रः ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥२॥
 >
 > *nahí devó na mártyo mahás tava krátuṃ paráḥ |* [accent ?]
 > *marúdbhir agna ā́ gahi ||2||* [accent ?]
@@ -16995,8 +16995,8 @@ O Agni, the rite or sacrifice connected with you is very great. There is no god 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये म॒हो रज॑सो वि॒दुर्विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥३॥ [accent ?]
+> ये म॒हो रज॑सो वि॒दुर्विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥३॥
 >
 > *ye mahó rájaso vidúr víśve devā́so adrúhaḥ |* [accent ?]
 > *marúdbhir agna ā́ gahi ||3||* [accent ?]
@@ -17097,8 +17097,8 @@ accent coming, *adruhaḥ* would have to be initial udātta. But even if the *ta
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> य उ॒ग्रा अ॒र्कमा॑नृ॒चुरना॑धृष्टास॒ ओज॑सा । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥४॥ [accent ?]
+> य उ॒ग्रा अ॒र्कमा॑नृ॒चुरना॑धृष्टास॒ ओज॑सा ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥४॥
 >
 > *ya ugrā́ arkám ānṛcúr ánādhṛṣṭāsa ójasā |* [accent ?]
 > *marúdbhir agna ā́ gahi ||4||* [accent ?]
@@ -17201,8 +17201,8 @@ In the Veda, by this sūtra, *saṃprasāraṇa* of the *r*, *ṛ*, and the loss
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये शु॒भ्रा घो॒रव॑र्पसः सुक्ष॒त्रासो॑ रि॒शाद॑सः । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥५॥ [accent ?]
+> ये शु॒भ्रा घो॒रव॑र्पसः सुक्ष॒त्रासो॑ रि॒शाद॑सः ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥५॥
 >
 > *ye śubhrā́ ghorávarpasaḥ sukṣatrā́so riśā́dasaḥ |* [accent ?]
 > *marúdbhir agna ā́ gahi ||5||* [accent ?]
@@ -17285,8 +17285,8 @@ O Agni, the Marut deities are always bright; they have fierce forms (by their na
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये नाक॒स्याधि॑ रोच॒ने दि॒वि दे॒वास॒ आस॑ते । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥६॥ [accent ?]
+> ये नाक॒स्याधि॑ रोच॒ने दि॒वि दे॒वास॒ आस॑ते ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥६॥
 >
 > *ye nākasyā́dhi rocané diví devā́sa ā́sate |* [accent ?]
 > *marúdbhir agna ā́ gahi ||6||* [accent ?]
@@ -17363,8 +17363,8 @@ is udātta by *ekādeśa udāttenodāttaḥ*. Since this udātta follows, the un
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> य ई॒ङ्खय॑न्ति॒ पर्व॑तान्ति॒रः स॑मु॒द्रम॑र्ण॒वम् । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥७॥ [accent ?]
+> य ई॒ङ्खय॑न्ति॒ पर्व॑तान्ति॒रः स॑मु॒द्रम॑र्ण॒वम् ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥७॥
 >
 > *ya īṅkháyanti párvatān tiráḥ samudrám arṇavám |* [accent ?]
 > *marúdbhir agna ā́ gahi ||7||* [accent ?]
@@ -17427,8 +17427,8 @@ The suffix *ṇic* is *cit*; so *īṅkhi* is final udātta by *citaḥ*. After 
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ ये त॒न्वन्ति॑ र॒श्मिभि॑स्ति॒रः स॑मु॒द्रमोज॑सा । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥८॥ [accent ?]
+> आ ये त॒न्वन्ति॑ र॒श्मिभि॑स्ति॒रः स॑मु॒द्रमोज॑सा ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥८॥
 >
 > *ā ye tanvánti raśmíbhis tiráḥ samudrám ójasā |* [accent ?]
 > *marúdbhir agna ā́ gahi ||8||* [accent ?]
@@ -17487,8 +17487,8 @@ O Agni, come here with the Marut deities who, together with the sun's rays, perv
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अ॒भि त्वा॒ पूर्व॑पीतये सृ॒जामि॑ सो॒म्यं मधु॑ । [accent ?]
-> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥९॥ [accent ?]
+> अ॒भि त्वा॑ पू॒र्वपी॑तये सृ॒जामि॑ सो॒म्यं मधु॑ ।
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥९॥
 >
 > *abhí tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |* [accent ?]
 > *marúdbhir agna ā́ gahi ||9||* [accent ?]
