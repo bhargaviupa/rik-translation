@@ -1025,6 +1025,272 @@ The sūkta beginning जनस्य गोपा (*janasya gopā*) has six Ṛk
 
 Agni is the protector of the people, ever wakeful, of good strength, that is, of strength praised by all. He was born for the newer welfare of the worlds. With limbs blazing with ghee **NOTE**, endowed with great, sky-touching, that is, cloud-licking, splendour, pure: such is Agni; he shines brilliantly, in a radiant manner, for the Bharatas, the priests and sacrificers **NOTE**. The rest of the block, as far as it stands in this window, gives the grammar of the words gopāḥ and jāgṛviḥ.
 
+### Printed p. 33
+
+> जागृभ्यः क्विन्निति क्विन्त्ययः । जाग्रोऽविचिण्णल् जुत्त्वति प्रतिषेधाद्गुणाभावः ।
+> नित्वादाद्युदातः । सुदक्षः । आद्युदात्तं द्वच्छंदसीत्युत्तरपदाद्युदात्तत्वं । सुविताय । तन्नादीनां छंदस्युपसंख्यानमिति सोरुवजादेशः। सूपमानात् क्त इत्युत्तरपदांतोदात्तत्वं । नव्यसे । नवशब्दादतिशायनेऽर्थ ईयसुन्त्ययः ।
+> ईकारलोपश्कांदसः । अतो लोपः । आद्युदात्तः । दिविस्पृशा । हृद्भ्यां
+> जीरुपसंख्यानमित्यलुक् । कृदुत्तरपदप्रकृतिस्वरत्वं । द्युमत् । ह्रस्वनुड्भ्यां मतुबिति ह्रस्वात्परस्य मतुपोऽंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The remainder of the block consists only of grammatical derivations of the words jāgṛviḥ, sudakṣaḥ, suvitāya, navyase, divispṛśā and dyumat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदक्षः (*sudakṣaḥ*)—possessed of excellent strength
+- जनस्य (*janasya*)—for all men
+- गोपाः (*gopāḥ*)—the protector
+- जागृविः (*jāgṛviḥ*)—ever wakeful
+- अग्निः (*agniḥ*)—Agni
+- नव्यसे (*navyase*)—new
+- सुविताय (*suvitāya*)—for the welfare of the world
+- अजनिष्ट (*ajaniṣṭa*)—has been born
+- धृतप्रतीकः (*dhṛtapratīkaḥ*)—having a body blazing with ghee **NOTE**
+- बृहता (*bṛhatā*)—great
+- दिविस्पृशा (*divispṛśā*)—touching the sky; endowed with such splendour
+- शुचिः (*śuciḥ*)—pure
+- भरतेभ्यः (*bharatebhyaḥ*)—for the Kṣatriyas of the Bharata family
+- द्युमत् (*dyumat*)—in the atmosphere
+- वि भाति (*vi bhāti*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has excellent strength, is the protector of all men and is ever wakeful, has been born for the new welfare of the world. Having a body blazing with ghee, endowed with great splendour that touches the atmosphere, and pure, Agni shines in the atmosphere for the Kṣatriyas of the Bharata family.
+
+##### English translation
+The vigilant, the powerful Agni, the protector of man, has been engendered for the present prosperity (of the world): fed with butter, (blazing) with intense (radiance) reaching to the sky, the pure Agni shines brilliantly for the Bharatas
+### Printed p. 34
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञस्य॑ के॒तुं प्र॑थ॒मं पु॒रोहि॑तम॒ग्निं नर॑स्त्रिषध॒स्थे  ॑
+> समीधिरे ।  
+> इंद्रे॑ण दे॒वैः स॒रथं॒ स ब॒र्हिषि॒ सीद॒न्नि होता॑ य॒जथा॑य  ॒॑
+> सुक्रतुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञस्य । केतुं । प्रथमं । पुरःहितं । अग्निं । नरः । त्रिसधस्थे । सं। ईधिरे ।  
+> इंद्रेण । देवैः । सरथं । सः । बर्हिषि । सीदत् । नि । होता । यजथाय ।  
+> सुक्रतुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नर ऋत्विजो यज्ञस्य यागस्य केतुं प्रज्ञापकं पुरोहितं यजमान्ये
+> पुरस्कृतमिंद्रेण देवैश्च सरथं तेषां मान्यत्वात्समानरथमग्निं त्रिषधस्थे त्रिस्थाने
+> विहारप्रदेशे प्रथमं समाधिरे । सम्मैंधत । सुक्रतुः शोभनकर्मा होता
+> देवानामाह्वाता सोऽग्निर्बर्हिषि बर्हिर्युक्ते तस्मिन् स्थाने यजथाय यज्ञाय
+> नि षीदत् । प्रतिष्ठितोऽभवदिति यावत् ॥ केतुं । कित ज्ञाने । औणादिक उप्रत्ययः ।
+> अंतोदात्तः । पुरोहितं । पुरोऽव्ययमिति गतिसंज्ञायां गतिरनंतर इति पूर्वपदप्रकृतिस्वरत्वं । त्रिषधस्थे । आहवनीयादिलक्षणेन त्रिप्रकारेणानेन सह तिष्ठतीति
+> त्रिषधस्थः । कप्रत्ययः । सध मादस्थयोष्पंदसीति सधादेशः । कृदुत्तरपदप्रकृतिस्वरत्वं । सीदत् । सदेः पाघ्रादिना सीदादेशः । बहुलं छंदस्य माजज्योगेऽपीत्यडभावः । पादादित्वान्नि घाताभावः । यजथाय । यजेरौणादिकोऽथप्रत्ययः ।
+> प्रत्ययस्वरेण मध्योदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The men, that is, the priests, first kindled Agni, who is the banner, the making-known, of the sacrifice, and the purohita, set in front by the sacrificer. He shares a chariot with Indra and the gods, since they honour him. They kindled him in the threefold place, the area of the sacrificial enclosure, that is, in the three places of the fires. That Agni, performer of excellent rites, the Hotṛ, the invoker of the gods, has sat down on the sacred grass, at that place furnished with grass, for the sacrifice; that is, he has become established there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—priests and others
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- केतुं (*ketuṃ*)—the one who makes it known
+- पुरोहितं (*purohitaṃ*)—the one who occupies the place of honour
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- देवैः (*devaiḥ*)—with the other gods
+- सरथं (*sarathaṃ*)—who sits in the same chariot
+- अग्निं (*agniṃ*)—Agni
+- त्रिषधस्थे (*triṣadhasthe*)—in the three places
+### Printed p. 35
+- प्रथमं (*prathamaṃ*)—first
+- समीधिरे (*samīdhire*)—made to blaze
+- सुक्रतुः (*sukratuḥ*)—the performer of excellent rites
+- होता (*hotā*)—the invoker of the gods
+- सः (*saḥ*)—Agni
+- बर्हिषि (*barhiṣi*)—on the seats of darbha grass
+- यजथाय (*yajathāya*)—for the conduct of the sacrifice
+- नि सीदत् (*ni sīdat*)—has sat down
+
+##### भावार्थ (Bhāvārtha)
+
+The priests and others first made to blaze, in the three places, the Āhavanīya, Gārhapatya and Dakṣiṇāgni, Agni, who makes the sacrifice known, who occupies the place of honour, and who sits in the same chariot with Indra and the other gods. Agni, the performer of excellent rites and the invoker of the gods, has sat down on the seats of darbha grass for the conduct of the sacrifice.
+
+##### English translation
+The priests have first kindled, in three places, Agni, the banner of sacrifice, the family priest, (riding) in the same car with Indra and the gods : he, the performer of pious acts, the invoker (of the gods) has sat down on the sacred grass for the (celebration of the) rite.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असं॑मृष्टो जायसे मा॒त्रोः शुचि॑र्मं॒द्रः क॒विरुद॑तिष्टो  ॒॑
+> विवस्वतः ।  
+> घृ॒तेन॑ त्वावर्धयन्नग्न आहुत धू॒मस्ते॑ के॒तुर॑भद्दि॒वि श्रि॒तः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असंमृष्टः । जायसे । मात्रोः । शुचिः । मंद्रः । कविः । उत् । अतिष्ठः । विवस्वतः ।  
+> घृतेन । त्वा । अवर्धयन् । अग्ने । आहुत । धूमः । ते । केतुः । अभवत् । दिवि ।  
+> श्रितः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मात्रोररण्योः । स्वजनननिमित्तादरणी मातरावित्युच्येते । ताभ्यामसंमृष्टोऽबाधित एव जायसे । प्रादुर्भूतो भवसि । मंद्रः सर्वैः स्तुत्यः
+
+##### Gist of the bhāṣya
+
+O Agni, from the two mothers, the two fire-sticks (the two aranis are called "mothers" because they are the cause of his birth), you are born unobstructed, that is, you appear. Mandra means praised by all.
+### Printed p. 36
+
+> कविः क्रांतः सर्वत्र व्याप्तः । अथवा मेधावी शुचिस्त्वं विवस्वतोऽग्निहोत्राद्यर्थं
+> गृहे विशेषेण वसतो यजमानादुदतिष्ठः । उदितोऽभवः । पूर्वे महर्षयस्त्वा त्वां धृतेनावर्धयन् । वृद्धिमनयन् हे आहुत आहुतिभिर्हुत ते तव
+> दिव्यंतरिक्षे श्रितो व्याप्तो धूमः केतुः प्रज्ञापकोऽभवत् । अग्न्यनुमापकत्वाद्दूमस्य ॥ मात्रोः । उदात्तयणो हल्सूर्वादिति विभक्तेरुदात्तत्वं । मंद्रः ।
+> मदि स्तुतिमोदमदस्वप्नकांतिगतिषु । अत्र स्तुत्यर्थादस्मात्साय्तंचीत्यादिना रक् ।
+> अंतोदात्तः । कविः । क्रमेरिन् सार्वधातुभ्य इतीस्प्रत्ययः । बाहुलकत्वान्मकारस्य वत्वं रेफलोपश्च । व्यत्ययेनांतोदात्तत्वं । उदतिष्ठः । उत्सर्वादूर्ध्वकर्मवाचिनस्तिष्ठतेरात्मनेपदाभावः । विवस्वतः । विपूर्वाद्वसतेः संपदादिलक्षणो भावे क्विप् । तदस्यास्तीति मतुप् । मादुपधायाश्चेति वत्वं । मतुपोऽनुदात्तत्वाद्दातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Kavi means pervading everywhere; or else wise. You, pure, have risen up from the sacrificer who dwells specially in the house for the Agnihotra and other rites. The ancient great seers made you grow with ghee. O Ahuta, offered with oblations, your smoke, spread in the atmosphere, became your banner, your sign, since smoke is what makes fire inferable. The rest of the block gives the grammar of mātroḥ, mandraḥ, kaviḥ, udatiṣṭhaḥ and vivasvataḥ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मात्रोः (*mātroḥ*)—from your mothers, the fire-sticks
+- असंमृष्टः (*asaṃmṛṣṭaḥ*)—unobstructed
+- जायसे (*jāyase*)—you are born
+- मंद्रः (*maṃdraḥ*)—worthy of praise
+- कविः (*kaviḥ*)—all-pervading (wise)
+- शुचिः (*śuciḥ*)—pure
+- विवस्वतः (*vivasvataḥ*)—with the help of the performer of the sacrifice
+- उदतिष्ठः (*udatiṣṭhaḥ*)—you have risen up **NOTE**
+- त्वा (*tvā*)—you
+- धृतेन (*dhṛtena*)—with ghee **NOTE**
+- अवर्धयन् (*avardhayan*)—(the priests and others) have made you grow
+- आहुत (*āhuta*)—O Agni, honoured with oblations
+- दिवि (*divi*)—in the atmosphere
+- श्रितः (*śritaḥ*)—spread
+- धूमः (*dhūmaḥ*)—the smoke
+- ते (*te*)—to you
+- केतुः (*ketuḥ*)—like a banner that makes known
+- अभवत् (*abhavat*)—has become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are born unobstructed from your mothers, the fire-sticks. You, worthy of praise, wise and pure, have risen up with the help of the performer of the sacrifice. The priests and others have made you grow with ghee. O Agni, honoured with oblations, the smoke spread in the atmosphere has become for you like a banner that makes you known.
+
+##### English translation
+You are born unobstructed of two mothers: pure, adorable, wise, you have sprung up from (the devotion of) the householder : they have augmented you with butter : Agni, to whom burnt-offerings are made, the smoke is your banner spread abroad in the sky-
+### Printed p. 37
+
+##### विशेषविषयगळु (Special Topics)
+
+मात्रोः (*mātroḥ*)—अरण्योः । (*araṇyoḥ |*) स्वजनननिमित्तत्वात् अरणी मातरावित्युच्येते । (*svajanananimittatvāt araṇī mātarāvityucyete |*) In the sacrifice two pieces of wood are used to bring forth Agni. A broad piece of wood is laid below on the ground and a small hollow is made in it; in that hollow they put well-dried things that catch fire easily, such as cotton, coconut fibre and dry leaves. Another piece of wood, long like a stick, is placed over the hollow, and they churn it as one churns curds. After churning in this way for a little while, a spark of fire arises from the friction, touches the dry material nearby, such as cotton, and catches. Then, making it burn well with firewood and the like, they carry it in due form to the place in the sacrificial hall called the Uttaravedi and establish it there. This rite is called Agni-mathana (the churning of fire). Among the proceedings that must be carried out at the beginning of a sacrifice this act of churning is an important one. The carrying of the fire from the place of churning to the Uttaravedi is called Agni-praṇayana. This rite also must be performed with mantras and according to rule. The Aitareya Brāhmaṇa describes the rites of agni-mathana and agni-praṇayana at length. They can be learnt from what we have written at length on pages 384 and 541 of Ṛ. Saṃ. Part 12.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्नो॑र्य॒ज्ञमुप॑ वेतु साधु॒याग्निं नरो॒ वि भ॑रंते  ॒॑
+> गृ॒हेगृ॑हे ।  
+> अ॒ग्निर्दू॒तो अ॑भवद्धव्य॒वाह॑नो॒ऽग्निं वृ॑णा॒ना वृ॑णते  ॒॑
+> कविक्रतुं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । नः । यज्ञं । उप । वेतु । साधुया । अग्निं । नरः । वि । भरंते ।  
+> गृहेऽगृहे ।  
+> अग्निः । दूतः । अभवत् । हव्यवाहनः । अग्निं । वृणानाः । वृणते । कविक्रतुं ॥ ४ ॥
+
+### Printed p. 38
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साधुया सर्वपुरुषार्थानां साधकोऽग्निर्नो यज्ञमस्मदीयं यागं
+> प्रत्युप वेतु । आगच्छतु । नरो मनुष्या गृहे गृहेऽनुगृहमग्निं वि भरंते ।
+> विहरंति । विहरणं कुर्वंतीत्यर्थः । हव्यवाहनो हव्यानां हविषां वोढाग्निदूर्तो देवानां दूतोऽभवत् । वृणानाः संभजमानाः संतः कविक्रतुं क्रांतयज्ञमग्निं वृणते । संभजंते ॥ साधुया । सुपां सुलुगित्यादिना विभक्तेर्यादेशः ॥
+
+##### Gist of the bhāṣya
+
+May Agni, the accomplisher of all human aims, come to our sacrifice, that is, approach. Men, human beings, carry Agni about in every house; that is, they perform the carrying about. Agni, bearer of the oblations to the gods, has become the messenger of the gods. Those who adore him, choosing him, choose Agni as the one whose sacrifice is accomplished (kavikratu); that is, they worship him. The remainder of the block gives the grammar of sādhuyā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साधुया (*sādhuyā*)—accomplishing desired aims
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- उप वेतु (*upa vetu*)—may he graciously come
+- नरः (*naraḥ*)—the sacrificers
+- गृहेगृहे (*gṛhegṛhe*)—in every sacrificial house
+- अग्निं (*agniṃ*)—Agni
+- वि भरंते (*vi bharaṃte*)—honour in a special manner
+- हव्यवाहनः (*havyavāhanaḥ*)—bearer of the oblation
+- अग्निः (*agniḥ*)—Agni
+- दूतः (*dūtaḥ*)—as the messenger of the gods
+- अभवत् (*abhavat*)—became
+- वृणानाः (*vṛṇānāḥ*)—those who honour Agni
+- अग्निं (*agniṃ*)—Agni
+- कविक्रतुं (*kavikratuṃ*)—as the one who accomplishes the sacrifice
+- वृणते (*vṛṇate*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, the accomplisher of desired aims, graciously come to our sacrifice. The sacrificers honour Agni in a special manner in every sacrificial house. Agni, the bearer of the oblation, has become the messenger of the gods. All who honour Agni worship him as the accomplisher of the sacrifice.
+
+##### English translation
+May Agni, the fulfiller (of all desires), come to our sacrifice : men cherish Agni in every dwelling : Agni, the bearer of oblations, has become the messenger (of the gods) : those adoring Agni adore him as the accomplisher of the sacrifice.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्ये॒दम॑ग्ने॒ मधु॑मत्तमं॒ वच॒स्तुभ्यं॑ मनी॒षा इ॒यम॑स्तु॒  ॒
+> शं हृदे ।  
+> त्वां गिरः॒ सिंधु॑मिवा॒वनी॑र्म॒हीरा पृ॑णंति॒ शव॑सा व॒र्धयं॑ति  
+> च ॥ ५ ॥
+
+### Printed p. 39
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इदं । अग्ने । मधुमत्र्तमं । वचः । तुभ्यं । मनीषा । इयं । अस्तु ।  
+> शं । हृदे ।  
+> त्वां । गिरः । सिंधुं इव । अवनीः । महीः । आ । पृणंति । शवसा । वर्धयंति । च ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तुभ्य तुभ्यं त्वदर्थं मधुमत्तममत्यंतु मधुरमिदं वचः
+> क्रियते । हृदे हृदि शं सुखं कुर्वतीयं मनीषा स्तुतिस्तुभ्यमस्तु । गिरः स्तुतिरूपा वाचस्त्वामा पृणंति । पूरयंति । शवसा बलेन वर्धयंति च । कथमिव ।
+> महीर्महत्योऽवनीरवन्नो नद्यः सिंधुमिव समुद्रमिव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, this most sweet speech is made for you, for your sake. May this praise (manīṣā), which brings happiness to the heart, be for you. Words in the form of praise fill you, that is, make you full, and make you grow with strength, just as the great streams, the rivers carrying water, fill the sea.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तुभ्य (*tubhya*)—addressed to you
+- मधुमत्तमं (*madhumattamaṃ*)—endowed with the utmost sweetness
+- इदं वचः (*idaṃ vacaḥ*)—this praise (is composed)
+- तुभ्यं (*tubhyaṃ*)—to you
+- हृदे (*hṛde*)—in the heart
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise
+- शं (*śaṃ*)—as a bringer of happiness
+- अस्तु (*astu*)—may it be
+- महीः (*mahīḥ*)—of great nature
+- अवनीः (*avanīḥ*)—rivers
+- सिंधुमिव (*siṃdhumiva*)—as they fill the ocean
+- गिरः (*giraḥ*)—these praises
+- त्वां (*tvāṃ*)—you
+- आ पृणंति (*ā pṛṇaṃti*)—fill
+- शवसा (*śavasā*)—with strength
+- वर्धयंति च (*vardhayaṃti ca*)—and also make you grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, this praise, endowed with the utmost sweetness, is composed with you as its object. May this praise bring joy to your heart. As great rivers fill the ocean with water, these praises fill you with delight and make you grow with strength.
+
+##### English translation
+To you, Agni, this most sweet speech (is addressed); may this praise be gratification to your heart : pious hymns fill you, and augment you with vigour, as large rivers (replenish) the sea.
+
 ---
 
-**Progress note:** Done through printed p. 32. Vol 19 pp. 27-32: Mandala 5 sukta 10 Rk 5-7, sukta 11 intro and Rk 1
+**Progress note:** Done through printed p. 39. Vol 19 pp. 33-39: Mandala 5 sukta 11 Rk 1-5
