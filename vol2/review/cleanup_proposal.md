@@ -41,3 +41,6 @@ Nothing in the text has been changed. Counts are my own, taken by script from `R
 
 ## Decision of the user (Nov 17 2026)
 `[?]` after a number or reference **stays in the text for now** (the user will review them). This applies on every line type (Devanagari, IAST and English lines alike): by my pattern (digit, optional `)`, optional space, `[?]`) that is 112 of the 432 marks. Those 112 are not touched in Part A; only a list of them (`vol2/review/refs_marked.tsv`: page, line, reference, sentence) is made for the review. The sentences of ours about the marks ("marked [?] where unsure") go as proposed, except that where a note explains marks that stay, it stays too until the review. Questions 2–4 above are still open.
+
+## Second decision of the user (Nov 17 2026)
+`[?]` on **lines with Devanagari stays** (237 marks). I propose that the 57 marks on the IAST twin lines stay with them (a twin without its mark would disagree with its Devanagari line); say if not. With the references (112, which overlap with these) the marks that remain in the text after Part A are those on Devanagari/IAST lines and after numbers; what Part A can still remove is the rest: our sentences about the marks (44) and the "elsewhere" group (69, each read first). Notes that explain marks that stay, stay.
