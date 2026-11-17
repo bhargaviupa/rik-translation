@@ -34,6 +34,8 @@ The gods, who believe the sacrificial oblation to be their very food, become agi
 
 The gods: O Agni, while you were hiding in the waters and out of sight, the covering that concealed you was exceedingly thick. Yet, O Jātavedas, one among us alone, knowing your manifold form, was ready to choose you. Please be a benefactor to us.
 
+### Printed p. 3
+
 Agni: O gods, who among you knows my endless forms? To which of you, and how, have my manifold forms become visible? O Mitra and Varuṇa, where is my dwelling, which carries the gods and is radiant?
 
 The gods: O Agni, of the form of Jātavedas, we searched for you a long time, hidden within the waters and the plants. Then, from your ten places of deposit, and because your flame spreads, Yama recognised you by way of those directions.
@@ -49,10 +51,6 @@ The gods: O Agni, however heavy a task may fall to your share, we shall grant th
 Agni: O gods, if I am to bear this burden of the rite, the oblation that is full of essence and consists of the Prayāja and Anūyāja must be set apart for me alone. Offer me the ghee, which is the essence of the waters, and the Puruṣa, which is the essence of the plants, and grant me long life.
 
 The gods: O Agni, let the oblations consisting of the essential Prayājas and Anūyājas be yours. Let the ghee, the essence of the waters, and all the vigorous oblations be yours. Let the chief portion of the sacrifice be yours, and let the four quarters and the intermediate regions bow to you in humility and show you reverence. Thus this occasion describes the greatness of Agni.
-
-### Printed p. 3
-
-(Within the same account, the portion of the text printed for page 4 continues as follows.)
 
 ### Printed p. 4
 
