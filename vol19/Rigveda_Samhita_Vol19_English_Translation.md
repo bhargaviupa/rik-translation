@@ -3759,6 +3759,266 @@ O Agni, who give food in abundance, convey to the gods that same oblation of our
 ##### English translation
 That (sacrificial) wealth, Agni, bounteous giver of food, of which you approve, and which deserves to be commended by our praises, convey to the gods
 
+### Printed p. 102
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॑ग्ने॒ नेरयं॑ति ते वृ॒द्धा उ॒ग्रस्य॒ शव॑सः ।  
+> अप॒ द्वेषो॒ अप॒ ह्वरो॒ऽन्यव्र॑तस्य सच्चिरे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अग्ने । न । ईरयंति । ते । वृद्धाः । उग्रस्य । शवसः ।  
+> अप । द्वेषः । अप । ह्वरः । अन्यव्रतस्य । सश्चिरे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ये जना वृद्धाः पश्वादिलक्षणैर्धनैः समृद्धाः संतस्ते तुभ्यं
+> नेरयंति हवींषि न प्रयच्छंति त उग्रस्याधिकेन शवसो बलेनान्नेन वाप नीताः ।
+> बलान्नहीना भवंतीत्यर्थः । किंचान्यव्रतस्यान्यद्वैदिकाद्विभक्तं व्रतं कर्म यस्य
+> तस्यासुरस्य द्वेषस्त्वत्संबंधिनं विरोधं ह्वरोऽतिहिंसां चाप सच्चिरे । आत्मानं
+> प्रापयंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, those men who are prosperous with wealth in the form of cattle and the like, yet do not offer you oblations, are deprived of strength or food, and so become destitute of strength and food. Further, the Asura whose observance (vrata, rite) is other than the Vedic, set apart from it, incurs your enmity and your violence, that is, severe punishment; they bring these upon themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—those men who
+- वृद्धाः (*vṛddhāḥ*)—even though they have attained increase of wealth
+- ते (*te*)—to you
+- नेरयंति (*nerayaṃti*)—do not offer oblations, they
+- उग्रस्य (*ugrasya*)—great
+- शवसः (*śavasaḥ*)—from strength
+- अपॆ (*apè*)—become destitute
+- अन्यव्रतस्य (*anyavratasya*)—those who, leaving the Vedic rite, are performers of non-Vedic rites
+- द्वेषः (*dveṣaḥ*)—your enmity
+- ह्वरः (*hvaraḥ*)—(from you) violence
+- अप सच्चिरे (*apa saccire*)—they receive
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those men who do not offer you oblations, even though they have attained increase of wealth, become destitute of great strength. And men who have left the Vedic rite and fallen from their duty receive your enmity and violence from you.
+
+##### English translation
+May those prosperous men who do not offer oblations to you become destitute of great strength, and may (the followers) of other (than Vaidik) observances incur (your) enmity and punishment.
+
+### Printed p. 103
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> होता॑रं त्वा वृणीम॒हेऽग्ने॒ दक्ष॑स्य॒ साध॑नं ।  
+> य॒ज्ञेषु॑ पू॒र्व्यं गि॒रा प्रय॑स्वंतो हवामहे ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> होतारं । त्वा । वृणीमहे । अग्ने । दक्षस्य । साधनं ।  
+> यज्ञेषु । पूर्व्यं । गिरा । प्रयस्वंतः । हनामहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने प्रयस्वंतोऽन्नवंत एतन्नामका वयं दक्षस्य बलस्य साधनं साधकं
+> साधयितारं त्वां होतारं देवानामाह्वातारं वृणीमहे । किंच यज्ञेषु
+> पूर्व्यं मुख्यं त्वां गिरा स्तुतिरूपया वाचा हवामहे । स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we who are called Prayasvats, that is, possessors of food, choose you as hotṛ, the summoner of the gods, you who are the accomplisher, the one who brings about, of strength. Moreover, you who are foremost, the chief, at sacrifices, we call upon with speech in the form of praise; that is, we praise you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—we who are called Prayasvats
+- दक्षस्य (*dakṣasya*)—of strength
+- साधनं त्वा (*sādhanaṃ tvā*)—you, the accomplisher
+- होतारं (*hotāraṃ*)—as the one who calls the gods to the sacrifice (as hotṛ)
+- वृणीमहे (*vṛṇīmahe*)—we choose
+- यज्ञेषु (*yajñeṣu*)—at sacrifices
+- पूर्व्यं (*pūrvyaṃ*)—you, the chief
+- गिरा (*girā*)—with words of praise
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we who are called Prayasvats choose you, the accomplisher of strength, as hotṛ. We pray to you, the chief at the sacrifice, and call upon you with words of praise.
+
+##### English translation
+We, Prayasvats, have recourse to you, the invoker (of the gods), the means of strength : we glorify you first at sacrifices with praise.
+
+### Printed p. 104
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒त्था यथा॑ त ऊ॒तये॒ सह॑सावन्दि॒वेदि॑वे ।  
+> रा॒य ऋ॒ताय॑ सुक्रतो॒ गोभिः॑ स्याम सध॒मादो॑  
+> वी॒रैः स्या॑म सध॒मादः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इत्था । यथा । ते । ऊतये । सहसावन् । दिवेऽदिवे ।  
+> राये । ऋताय । सुकृतो इति सुकृतो । गोभिः । स्याम । सध्वमादः ।  
+> वीरैः । स्याम । सधमादः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसावन् बलवन्नग्ने दिवे दिवेऽन्वहं वयं ते तवोतये रक्षणाय
+> यथा स्याम तथेत्थेत्थं कुरु । हे सुक्रतो राये धनाय ऋताय यज्ञाय च
+> यथा स्याम तथा कुरु । किंच वयु गोभिः सधमादः सह माद्यंतः स्याम । वीरैः
+> पुत्रैश्च सधमादः सह माद्यंतः स्याम । तथा कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, possessor of strength, day after day do so (ittha), act in such a way that we may be in your protection. O doer of good deeds, act so that we may be (devoted) to wealth and to the sacrifice. Moreover, may we rejoice together with cattle, and rejoice together with sons, who are heroes (vīra); act so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसावन् (*sahasāvan*)—O Agni, endowed with strength
+- दिवेदिवे (*divedive*)—every day
+- वयं (*vayaṃ*)—(we)
+- ते (*te*)—your
+- ऊतये (*ūtaye*)—in protection
+- यथा (*yathā*)—in whatever manner it should be
+- इत्था (*itthā*)—so favour us
+- सुक्रतो (*sukrato*)—O Agni, performer of excellent works
+- राये (*rāye*)—for the gain of wealth
+- ऋताय (*ṛtāya*)—intent on sacrificial rites
+- स्याम (*syāma*)—may we be
+- गोभिः (*gobhiḥ*)—with cattle
+- सधमादः (*sadhamādaḥ*)—rejoicing together
+- स्याम (*syāma*)—may we be
+- वीरैः (*vīraiḥ*)—with heroic sons
+- सदमादः (*sadamādaḥ*)—let us be rejoicing together
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with strength, grant that we may be in your protection every day. O Agni, performer of excellent works, grant that we may be intent on sacrificial rites for the gain of wealth, and as the result of it may rejoice together with cattle and with heroic sons.
+
+### Printed p. 105
+
+##### English translation
+Possessor of strength, day by day so (provide), that we may enjoy your protection; doer of good deeds, may we (be deserving) of wealth through sacrifice, and may we be happy with cattle, happy with male descendants.
+
+## Sūkta 21 (Maṇḍala 5)
+
+The twenty-first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनुष्वत्वेति चतुर्यचं सप्तमं सूक्तमात्रेयस्य ससस्यार्षं । मनुष्वत्सस
+> इत्यनुक्रमणिका । पंक्त्यंतं हेति पूर्वत्रोक्तत्वादिदमादीनि त्रीणि सूक्तानि
+> पंक्त्यंतानि । शिष्टा अनुष्टुभः । अग्निर्देवता ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Manuṣvat" has four Ṛks and is the seventh sūkta (of the second anuvāka). Its seer is Sasa Ātreya; the Anukramaṇikā says "Manuṣvat…". **NOTE** Since it was stated earlier (in the Anukramaṇikā) that the verse is "paṅkty-antam", the three sūktas beginning with this one end in a paṅkti verse; the remaining verses are anuṣṭubh. The deity is Agni. Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated.
+
+Translation (anuvāda): This sūkta beginning "Manuṣvat" is the seventh sūkta in the second anuvāka. It has four Ṛks. The seer of this sūkta is Sasa Ātreya; Agni is the deity. Since the Anukramaṇikā says "paṅkty-antaṃ ha", the last Ṛk of this sūkta and of the following three sūktas is in the paṅkti metre; the remaining Ṛks are in the anuṣṭubh metre. In the Anukramaṇikā it is said "manuṣyat-sasaḥ". This sūkta is used for the recitation of the Prātaranuvāka and the mantras of the Āśvina-śastra.
+
+Sūkta 21
+Maṇḍala 5; Anuvāka 2; Sūkta 21
+Aṣṭaka 4; Adhyāya 1; Varga 13
+Number of Ṛks in the sūkta: 4
+Ṛṣi: Sasa Ātreya
+Devatā: Agni
+Chandas: 1–3 Anuṣṭubh; 4 Paṅkti
+
+### Printed p. 106
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒नु॒ष्वत्वा॒ नि धी॑महि मनु॒ष्वत्समि॑धीमहि ।  
+> अग्ने॑ मनु॒ष्पदं॑गिरो दे॒वान्दे॑वय॒ते य॑ज ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनुष्वत् ' त्वा । नि । धीमहि । मनुष्वत् । सं । इधीमहि ।  
+> अग्ने मनुष्वत् । अंगिरः । देवान् । देवयते । यज ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वा त्वां मनुष्वन्मनुरिव नि धीमहि । मनुःशब्दो मनुपर्यायः॥
+> नभोंगिरोमनुषां वत्युपसंख्यानमिति भसंज्ञयां रुत्वाभावः॥ मनुष्वन्मनुरिव
+> त्वा समिधीमहि । समिद्धिः संदीपयामः । हे अंगिरोंगारात्मकाग्ने देवयते
+> देवकामाय यजमानाय मनुष्वन्मनवे मनोरपत्याय देवान् यज ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we meditate upon you as Manu did (manuṣvat), like Manu. Like Manu we kindle you; that is, we cause you to blaze with kindling-sticks. O Agni, Aṅgiras, of the nature of coals (aṅgāra), worship the gods for the sacrificer who desires the gods, as for Manu, the descendant of Manu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वा (*tvā*)—you
+- मनुष्वत् (*manuṣvat*)—like Manu
+- नि धीमहि (*ni dhīmahi*)—we meditate
+- मनुष्वत् (*manuṣvat*)—as Manu did
+- समिधीमहि (*samidhīmahi*)—we cause (you) to blaze
+- अंगिरः (*aṃgiraḥ*)—O Aṅgiras, of the nature of coals
+- अग्ने (*agne*)—O Agni
+- देवयते (*devayate*)—on behalf of the sacrificer who desires the gods as helpers
+- मनुष्वत् (*manuṣvat*)—like Manu
+- देवान् (*devān*)—addressing the gods
+- यज (*yaja*)—perform the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as Manu meditated upon you, so do we also meditate upon you. As Manu caused you to blaze, so do we also. O Agni, of the nature of coals, for the sacrificer who desires to win the favour of the gods, do you also, like Manu, perform the sacrifice addressing the gods.
+
+##### English translation
+Like Manu, we mediate, Agni, upon you ; like Manu, we kindled you : worship the gods on behalf of the (worshipper), devout as Manu.
+
+### Printed p. 107
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि मानु॑षे॒ जनेऽग्ने॒ सुप्री॑त इ॒ध्यसे॑ ।  
+> स्रुच॑स्त्वा यंत्यानु॒षक्सुजा॑त॒ सर्पि॑रासुते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । मानुषे । जने । अग्ने । सुप्रीतः । इध्यसे ।  
+> स्रुचः । त्वा । यंति । आनुषक् । सुजात । सर्पिःआसुते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मानुषे जने मनुष्यलोके सुप्रीतः स्तोत्रैः सुष्टु प्रीतः
+> सन् इध्यसे । दीप्यसे । स्रुचो हविर्भिः संपूर्णा आनुषक् अनुषक्तं यथा भवति
+> तथा त्वा त्वां यंति । प्राप्नुवंति । हे सुजात हे सर्पिरासुते धृतयुक्तान्नेति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are well pleased with praises in the human world (among the human race) are kindled, that is, you shine. The ladles, filled with oblations, come to you, reach you, constantly (ānuṣak, without break). O well-born one, O Agni, to whom clarified butter is poured, possessed of food mixed with ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- सुप्रीतः (*suprītaḥ*)—when you are well satisfied with praises and the like
+- मानुषे जने (*mānuṣe jane*)—in the assembly of men
+- इध्यसे (*idhyase*)—you blaze forth
+- सुजात (*sujāta*)—you of excellent birth
+- सर्पिरासुते (*sarpirāsute*)—you who have food in the form of ghee, O Agni
+- स्रुचः (*srucaḥ*)—the ladle-vessels filled with oblations
+- आनुषक् (*ānuṣak*)—continually
+- त्वा (*tvā*)—you
+- यंति (*yaṃti*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you are satisfied with praises and the like, you blaze forth in the assembly of men. O Agni, of excellent birth and having food in the form of ghee, the ladles filled with oblations continually approach you.
+
+##### English translation
+When you are pleased, Agni, you shine upon the human race; well-born, feeder upon clarified butter, the ladles are constantly uplifted to you.
+
 ---
 
-**Progress note:** Done through printed p. 101. Vol 19 pp. 95-101: Sukta 19 rks 1-5, Sukta 20 rk 1
+**Progress note:** Done through printed p. 107. Mandala 5 sukta 20 rks 2-4; sukta 21 rks 1-2
