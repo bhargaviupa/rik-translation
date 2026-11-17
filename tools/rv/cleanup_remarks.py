@@ -26,6 +26,8 @@ CLAUSE = [re.compile(x, re.I) for x in (
     r'^.{0,110}\bre-?read from the better scan.{0,60}$', r'^.{0,60}\bfrom the better scan.{0,60}$',
     r'^.{0,160}\(Oct 2026 numeral pass.{0,60}\)$', r'^.{0,160}\bnumeral pass\b.{0,40}$',
     r'^[^"“]{0,90}\bas printed$', r'^Characterized\b[^.]{0,40}$', r'^Pp?\. [\d–-]+$', r'^Page headers? p\. \d+.*$',
+    r'^(The )?glosses? [^"“]{0,60}\b(mine|my own)\b[^"“]{0,40}\btentative\b[^"“]{0,80}$',
+    r'^(The )?glosses? (on the verses |on the parallel verse )?(are |is )?(mine|of my own)[,;]? (and )?tentative.{0,60}$', r'^(The )?glosses? (on the verses |on the parallel verse )?(are |is )?mine$',
     r'^Printed references (on this page|at the head|in the grammar).*$',
 )]
 def process_sentence(s):
@@ -80,7 +82,25 @@ def kind_clauses(L):
             nb = ' '.join(keep)
             rm[i] = m.group(1) + '*(' + nb + ')*'
     return rm
-KINDS = {'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+TENT = [
+    (re.compile(r'\bGloss \(mine[;,] tentative(?:; [^)]*)?\):'), 'Gloss:'),
+    (re.compile(r'\s*\[tentative(?:;[^\]]*)?\]'), ''),                       # Gloss: "…" [tentative; …]
+    (re.compile(r'(?<=[\"”])\s*[—:-]\s*mine and tentative\.?(?=\)\*?$|\)\*?\s)'), ''), # ("…" — mine and tentative.)  ("…": mine and tentative.)
+    (re.compile(r'(?<=\()gloss mine and tentative: '), ''),                  # *(gloss mine and tentative: "…")*
+    (re.compile(r'(?<=\*\()gloss mine and tentative: '), ''),
+]
+def sub_tent(l):
+    n = l
+    for rx, rep in TENT: n = rx.sub(rep, n)
+    return n
+def kind_tentative(L):
+    rm = {}
+    for i, l in enumerate(L):
+        if 'tentative' not in l: continue
+        n = sub_tent(l)
+        if n != l: rm[i] = n
+    return rm
+KINDS = {'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
