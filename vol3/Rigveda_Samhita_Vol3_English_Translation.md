@@ -482,13 +482,13 @@ This ṛk makes clear the matter that these Ṛbhus were men formerly and later 
 > *viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvamānaśuḥ |*
 > *saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyanta dhītibhiḥ || (ṛ. saṃ. 1-110-4)*
 
-("Having done the acts, the bearers, though mortals, by swiftness attained immortality; the sons of Sudhanvan, the Ṛbhus, sun-eyed, were joined in a year with the rites": mine and tentative.) Yāska's Nirukta on it:
+**GLOSS** Yāska's Nirukta on it:
 
 > कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिः ॥
 >
 > *kṛtvā karmāṇi kṣipratvena voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvamānaśire ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhiḥ ||*
 
-("Having done the acts quickly, the bearers or the wise, though mortals, attained immortality, the Ṛbhus, sun-famed or sun-wise; in a year they were joined with the *dhītis*, the acts": mine and tentative.) The chief intent is: these Ṛbhus, the sons of Sudhanvan, were men formerly. By their wisdom or intelligence, equal to the sun's, they performed all the sacrifices quickly, that is, in a single year, and attained *amṛtatvam*, divinity (freedom from death).
+**GLOSS** The chief intent is: these Ṛbhus, the sons of Sudhanvan, were men formerly. By their wisdom or intelligence, equal to the sun's, they performed all the sacrifices quickly, that is, in a single year, and attained *amṛtatvam*, divinity (freedom from death).
 
 Yāska gives another sense too for the word *ṛbhu*:
 
@@ -500,13 +500,13 @@ Yāska gives another sense too for the word *ṛbhu*:
 > *udvatsvasmā akṛṇotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ |*
 > *agohyasya yadasastanā gṛhe tadadyedamṛbhavo nānu gacchatha || (ṛ. saṃ. 1-161-11)*
 
-("For him on the heights you made grass, on the depths waters, by your good work, O men; when you slept in the house of the one not to be hidden, today you do not go after this, O Ṛbhus": mine and tentative.) For this ṛk Yāska gives the Nirukta
+**GLOSS** For this ṛk Yāska gives the Nirukta
 
 > अगोह्य आदित्योऽगूहनीयस्तस्य यदस्वपथ गृहे यावत्तत्र भवथ न तावदिह भवथेति ॥
 >
 > *agohya ādityo 'gūhanīyastasya yadasvapatha gṛhe yāvattatra bhavatha na tāvadiha bhavatheti ||*
 
-("The one not to be hidden is the sun, who is not to be concealed; as long as you sleep in his house, so long you are not here": mine and tentative.) The commentator too, explaining the sense of this ṛk, gave for the word *ṛbhavaḥ*
+**GLOSS** The commentator too, explaining the sense of this ṛk, gave for the word *ṛbhavaḥ*
 
 > ऋभवः उरु प्रभूतं भासमानाः ऋतेनादित्येन भासमाना वा ऋतेनोदकेनोदकार्थमुत्पन्ना वा
 >
@@ -972,7 +972,7 @@ These Ṛbhus, by their skill in craft, made the means such as the *camasa* nece
 >
 > *viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvamānaśuḥ || (ṛ. saṃ. 1-110-4)*
 
-("Having done the acts, the bearers, though mortals, by swiftness attained immortality": mine and tentative.) states this intent clearly.
+**GLOSS** states this intent clearly.
 
 ### Page 40 — Rik 8: Special Topics (end) and grammar
 
@@ -998,7 +998,7 @@ These Ṛbhus, by their skill in craft, made the means such as the *camasa* nece
 > *iheha vo manasā bandhutā nara uśijo jagmurabhi tāni vedasā |*
 > *yābhirmāyābhiḥ pratijūtivarpasaḥ saudhanvanā yajñiyaṃ bhāgamānaśa || (ṛ. saṃ. 3-60-1)*
 
-("Here, here, O men, with your mind and kinship, the eager ones went to those things with knowledge; by the wonders with which, swift of form, sons of Sudhanvan, you reached the sacrificial share": mine and tentative.) and in the Aitareya Brāhmaṇa statement
+**GLOSS** and in the Aitareya Brāhmaṇa statement
 
 > ब्राह्मणेऽप्यृभवो वै देवेषु तपसा सोमपीथमभ्यजयन् (ऐ. ब्रा. ३-३०)
 >
@@ -1138,7 +1138,7 @@ In this sūkta the deities Indra and Agni are praised together. Praising two dei
 >
 > *sa tarhi vaktavyaḥ | na vaktavyaḥ | dvandva iti vartamāne punardvandvagrahaṇasyaitatprayojanaṃ lokavedayoryo dvandvastatra yathā syāt | kaśca lokavedayordvandvaḥ | vede ye sahanirvāpanirdiṣṭāḥ | na caite vede sahanirvāpanirdiṣṭāḥ ||*
 
-("Should it then be stated? It need not be stated. While *dvandve* is current, the purpose of mentioning *dvandva* again is this: that it should apply to a *dvandva* of the world and of the Veda. And what is a *dvandva* of the world and of the Veda? Those named in the Veda as offered together. And these are not named in the Veda as offered together": mine and tentative.) *Sahanirvāpa* means "giving together". Here first the mental resolve of giving the oblation, as in *indrāvaruṇābhyāṃ juṣṭaṃ nirvapāmi*, and then, by uttering words such as *svāhā*, throwing the oblation into the fire: the giving up to the end of one's ownership is meant by *nirvāpa*; by the word *loka* the Kalpasūtras are meant; the association of the words in *indrāgnī* is not well known in this way in the world and the Veda. So here the substitute *ānaṅ* does not come. In the Kāśikā too it is said: "*dvandva ity anuvṛttau punar dvandvagrahaṇāt lokaprasiddhasāhacaryāṇām eva dvandve ānaṅ*" (Kā. "3-6-26" [as printed, for 6-3-26]). Though whether *ānaṅ* comes or not the form is *indrāgnī* alone, what then is the result of barring *ānaṅ* here? If *ānaṅ* came, in the *veṣṭana* (the *avagraha*) one would have to say *indrāgnī itīndrā agnī*. If *ānaṅ* does not come, it becomes *indrāgnī itīndra agnī*; for this distinction *ānaṅ* must not be accepted here. But since *uttarapade* is a locative statement, by "tasminn iti nirdiṣṭe pūrvasya" (Pā. sū. 1-1-66) the sense "of what immediately precedes" is established; thus the sense of the sūtra is "*devatāvācakadvandvaghaṭakottarapadāvyavahitapūrvasya ānaṅ bhavati*"; in the *veṣṭana*, in *indrāgnī itīndrā-agnī*, though there is no separation made by a letter,
+**GLOSS** *Sahanirvāpa* means "giving together". Here first the mental resolve of giving the oblation, as in *indrāvaruṇābhyāṃ juṣṭaṃ nirvapāmi*, and then, by uttering words such as *svāhā*, throwing the oblation into the fire: the giving up to the end of one's ownership is meant by *nirvāpa*; by the word *loka* the Kalpasūtras are meant; the association of the words in *indrāgnī* is not well known in this way in the world and the Veda. So here the substitute *ānaṅ* does not come. In the Kāśikā too it is said: "*dvandva ity anuvṛttau punar dvandvagrahaṇāt lokaprasiddhasāhacaryāṇām eva dvandve ānaṅ*" (Kā. "3-6-26" [as printed, for 6-3-26]). Though whether *ānaṅ* comes or not the form is *indrāgnī* alone, what then is the result of barring *ānaṅ* here? If *ānaṅ* came, in the *veṣṭana* (the *avagraha*) one would have to say *indrāgnī itīndrā agnī*. If *ānaṅ* does not come, it becomes *indrāgnī itīndra agnī*; for this distinction *ānaṅ* must not be accepted here. But since *uttarapade* is a locative statement, by "tasminn iti nirdiṣṭe pūrvasya" (Pā. sū. 1-1-66) the sense "of what immediately precedes" is established; thus the sense of the sūtra is "*devatāvācakadvandvaghaṭakottarapadāvyavahitapūrvasya ānaṅ bhavati*"; in the *veṣṭana*, in *indrāgnī itīndrā-agnī*, though there is no separation made by a letter,
 
 ### Page 47 — Rik 1: grammar
 
@@ -6618,7 +6618,7 @@ O king, in your power are hundreds and thousands of medicines. May your gracious
 
 > मो षु णः परापरा निरृतिर्दुर्हणा वधीत्
 
-*mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* ("let not the hard-to-slay Nirṛti, far and near, strike us" — mine and tentative) (Ṛ. Saṃ. 1-38-6) the commentator explains *nirṛti* as *rakṣojātidevatā*. The sentence breaks here at *bādhasva*, and goes on p. 273.
+*mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* **GLOSS** (Ṛ. Saṃ. 1-38-6) the commentator explains *nirṛti* as *rakṣojātidevatā*. The sentence breaks here at *bādhasva*, and goes on p. 273.
 
 ### Page 273 — Rik 9: Special Topics (end), grammar
 
@@ -8867,7 +8867,7 @@ by "पाघ्राध्मास्था-" (Pā. Sū. 7-3-78) the root tak
 > *adabdhasya svadhāvato dūtasya rebhataḥ sadā ‖*
 > *agneḥ sakhyaṃ vṛṇīmahe ‖*
 
-*Glosses, mine and tentative:* "your friendship is unbroken"; "we have come to the friendship of the gods; may the gods prolong our life for living"; "the companies followed your friendship, the gods measured your might"; "whose friendship towards us is to be gained among the gods"; "since you have chosen this friendship, drink of this juice"; "he prospers, O Agni, by your aids rich in heroes and booty, whose friendship you have chosen"; "we choose the friendship of Agni, the unharmed, self-powered messenger, ever resounding".
+**GLOSS**
 
 **मंदस्व (maṃdasva)** — be pleased, be delighted.
 
@@ -9709,7 +9709,7 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 > अथ हैतं शुनःशेपोऽञ्जस्सवं ददर्श तमेताभिश्चतसृभिरभिसुषाव यच्चिद्धि त्वं गृहे गृह इत्यथैनं द्रोणकलशमभ्यवनिनायोच्छिष्टं चम्वोर्भरेत्येतयर्चाथ हास्मिन्नन्वारब्धे पूर्वाभिश्चतसृभिः सस्वाहाकाराभिर्जुहवांचकार । ऐ. ब्रा. ७-१७ । इति ।
 
-*atha haitaṃ śunaḥśepo 'ñjassavaṃ dadarśa tam etābhiś catasṛbhir abhisuṣāva yac cid dhi tvaṃ gṛhe gṛha ity athainaṃ droṇakalaśam abhyavanināyocchiṣṭaṃ camvor bharety etayarcātha hāsminn anvārabdhe pūrvābhiś catasṛbhiḥ sasvāhākārābhir juhavāṃcakāra | ai. brā. 7-17 | iti |* — "Then Śunaḥśepa saw this *añjaḥsava*; he pressed it with these four [riks]; with *yac cid dhi tvaṃ gṛhe gṛhe* he then poured it down into the *Droṇakalaśa*; with the rik *ucchiṣṭaṃ camvor bhara* …; then, when he had been taken hold of, he offered it with the four former [riks] with the *svāhā*-call" (mine and tentative). *(The Kannada gloss that follows says: "we have explained its meaning in the Śunaḥśepa legend itself.")*
+*atha haitaṃ śunaḥśepo 'ñjassavaṃ dadarśa tam etābhiś catasṛbhir abhisuṣāva yac cid dhi tvaṃ gṛhe gṛha ity athainaṃ droṇakalaśam abhyavanināyocchiṣṭaṃ camvor bharety etayarcātha hāsminn anvārabdhe pūrvābhiś catasṛbhiḥ sasvāhākārābhir juhavāṃcakāra | ai. brā. 7-17 | iti |* — **GLOSS**. *(The Kannada gloss that follows says: "we have explained its meaning in the Śunaḥśepa legend itself.")*
 
 **॥ Heading block of the sūkta (p. 409) ॥**
 
@@ -11555,16 +11555,16 @@ In the Purāṇas and other works the sage Aṅgiras is said to be one of Brahm�
 
 > **ते अङ्गिरसः सूनवस्ते अग्नेः परिजज्ञिरे ।** *(Ṛ. Saṃ. 10-62-5)*
 > *te aṅgirasaḥ sūnavas te agneḥ parijajñire |*
-> *Mine, tentative:* "They, the Aṅgirases, are the sons; they were born around Agni."
+> **GLOSS**
 
 — that is, it is said clearly that the seers called Aṅgirases are Agni's sons. The commentator, however, does not cite this rik as an instance; why, one cannot tell.
 
 That the sage Aṅgiras was of very ancient time, and that many seers in the Ṛgveda call this one the root-man of their own lineage, appears from several riks of the Ṛgveda:
 
 > **मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्ववच्छुचे ॥** *(Ṛ. Saṃ. 1-31-17)*
-> *manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvavac chuce ||* — *Mine, tentative:* "As with Manu, O Agni, as with Aṅgiras, O Aṅgiras, as with Yayāti, in the seat, as of old, O bright one."
-> **अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥** *(Ṛ. Saṃ. 1-45-3)* — *aṅgirasvan mahivrata praskaṇvasya śrudhī havam ||* — *Mine, tentative:* "As [you heard] Aṅgiras, O you of great ordinances, hear the call of Praskaṇva."
-> **दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥** *(Ṛ. Saṃ. 1-139-9; the line runs over to p. 522)* — *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur vidus ||* — *Mine, tentative:* "Dadhyañc, the ancient Aṅgiras, Priyamedha, Kaṇva, Atri, Manu knew my birth: they, my forefathers, Manu knew it."
+> *manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvavac chuce ||* — **GLOSS**
+> **अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥** *(Ṛ. Saṃ. 1-45-3)* — *aṅgirasvan mahivrata praskaṇvasya śrudhī havam ||* — **GLOSS**
+> **दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥** *(Ṛ. Saṃ. 1-139-9; the line runs over to p. 522)* — *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur vidus ||* — **GLOSS**
 
 ### Page 522 — Sūkta 31, Rik 1 (continued)
 
@@ -11717,8 +11717,8 @@ Since Hiraṇyastūpa, the seer of this sūkta, was born in the Aṅgirasa line,
 
 Vāyu requires Agni as the chief; since in the Śruti sentence *agnir vāyur ādityaḥ* Agni is mentioned first among the deities Agni, Vāyu, Āditya etc., Agni is the first, the chief; that is, Agni and Vāyu are closely related; and of the two, Agni is the chief — that is the sense.
 *Skandasvāmin's view.* Skandasvāmin explains the sentence *tvam agne prathamo mātariśvana āvir bhava* in a different way: "O Agni! At the beginning of creation [or: at the first beginning], you were first seen directly by Vāyu, before everyone else." To support this he tells an old story (*itihāsa*): "In the beginning the whole world was enveloped in darkness. Then Mātariśvan (Vāyu) saw Agni in the sky in a subtle form. Then the sages Atharvan, Parāśara, Bharadvāja and others, by churning, brought Agni forth in the *araṇi*." This is described in the riks:
-> **मथीद्यदीं विष्वो मातरिश्वा होतारं विश्वाप्सुं विश्वदेव्यम् ॥** *(Ṛ. Saṃ. 1-148-1)* — *mathīd yad īṃ viṣṇo mātariśvā hotāraṃ viśvāpsuṃ viśvadevyam ||* — *Mine, tentative:* "When Mātariśvan churned him, the all-formed, all-divine *hotṛ*."
-> **त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ॥** *(Ṛ. Saṃ. 6-16-13)* — *tvām agne puṣkarād adhy atharvā niramanthata ||* — *Mine, tentative:* "From the lotus, O Agni, Atharvan churned you forth."
+> **मथीद्यदीं विष्वो मातरिश्वा होतारं विश्वाप्सुं विश्वदेव्यम् ॥** *(Ṛ. Saṃ. 1-148-1)* — *mathīd yad īṃ viṣṇo mātariśvā hotāraṃ viśvāpsuṃ viśvadevyam ||* — **GLOSS**
+> **त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ॥** *(Ṛ. Saṃ. 6-16-13)* — *tvām agne puṣkarād adhy atharvā niramanthata ||* — **GLOSS**
 Then Agni, shining with a great flame, became visible to them. [The idea that] Agni was seen first by Mātariśvan is described in this rik; so [Skandasvāmin] says.
 **सुक्रतूया (sukratūyā)** — *sukratum ātmana icchatīti*; *śobhanakarmecchayā*: out of desire for excellent works, i.e. [out of] anticipation of the best works.
 **विवस्वते (vivasvate)** — [Sanskrit: *vivasati*] or *vivāsati*: because the word means *paricaraṇakarma* (Ni. 3-13), *vivasvate* [the dative of *vivasvān*] means 'to the sacrificer who performs *paricaryā*, that is, service'. *Vivasvān* is also a name of Manu; see the special remark made in a later rik on the word *manave*.
@@ -12385,7 +12385,7 @@ That is: in olden times the gods themselves used to come, take the oblations off
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 583)*
 **ययातिवत् (yayātivat)** — Yayāti was a king. His name occurs in the Ṛgveda in this rik, and in
-> **ययातेर्यो नहुषस्य बर्हिषि देवा आसते ते अधि ब्रुवन्तु नः ॥** *(Ṛg-Saṃhitā 10-63-1 [as the source gives it])* — *yayater yo nahuṣasya barhiṣi devā āsate te adhi bruvantu naḥ ||* — *Mine, tentative:* "[They] who sit on the sacrificial grass of Yayāti, [son] of Nahuṣa — let those gods speak for us."
+> **ययातेर्यो नहुषस्य बर्हिषि देवा आसते ते अधि ब्रुवन्तु नः ॥** *(Ṛg-Saṃhitā 10-63-1 [as the source gives it])* — *yayater yo nahuṣasya barhiṣi devā āsate te adhi bruvantu naḥ ||* — **GLOSS**
 and nowhere else [by the author's count]. From this example, Yayāti is said to be related to Nahuṣa or the Nahuṣa clan; this king can therefore be said to have been a king of the Nahuṣa people, or he may have been of the lineage of Nahuṣa. The kings named Nahuṣa and Yayāti spoken of in the Purāṇas and other works have no connection with the kings of those names spoken of in the Ṛgveda.
 **दैव्यं जनम् (daivyaṃ janam)** — *devatāsaṃbandhiyād janaran*: 'people connected with deities', that is, the gods.
 
@@ -12526,7 +12526,7 @@ and nowhere else [by the author's count]. From this example, Yayāti is said to 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 594–595)* What was said in the previous rik is described more fully in this rik.
 **पर्वते शिश्रियाणम् (parvate śiśriyāṇam)** — since clouds ordinarily rest [on the peaks] of mountains, the seer has described the clouds as having taken shelter on a mountain.
 **त्वष्ट्रास्मै वज्रं स्वर्यं ततक्ष (tvaṣṭrāsmai vajraṃ svaryaṃ tatakṣa)** — Tvaṣṭṛ, the divine craftsman, made the *vajra* weapon for Indra. In many places in the Ṛgveda it is said that Tvaṣṭṛ made, of iron, the shining *vajra* weapon for the killing of Vṛtra:
-> **मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोऽवृजन्नपि क्रतुम् ॥** *(Ṛg-Saṃhitā 10-48-3 [as the source gives it])* — *mahyaṃ tvaṣṭā vajram atakṣad āyasaṃ mayi devāso 'vṛjann api kratum ||* — *Mine, tentative:* "For me Tvaṣṭṛ fashioned the iron *vajra*; in me the gods set [their] will."
+> **मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोऽवृजन्नपि क्रतुम् ॥** *(Ṛg-Saṃhitā 10-48-3 [as the source gives it])* — *mahyaṃ tvaṣṭā vajram atakṣad āyasaṃ mayi devāso 'vṛjann api kratum ||* — **GLOSS**
 In this rik Indra himself says that Tvaṣṭṛ made the iron *vajra* for him.
 **वाश्रा इव धेनवः (vāśrā iva dhenavaḥ)** — as cows go to their calves, lowing, so the rivers, roaring loudly from the mountain regions, go to the sea: this is the simile.
 
@@ -12564,12 +12564,12 @@ In this rik Indra himself says that Tvaṣṭṛ made the iron *vajra* for him.
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 597–598)*
 **वृषायमाणः (vṛṣāyamāṇaḥ)** — *vṛṣa ivācaran*: 'behaving like a bull'; having the strength of a bull, or the strength of the bull-like; that is, 'one who shows [his] strength like a bull': exceedingly powerful.
 **त्रिकद्रुकेषु (trikadrukeṣu)** — for this word the commentator says: 'the three kinds of sacrifice (*yāga*) called *jyotiḥ*, *gauḥ* and *āyuḥ*'. This word has the sense of 'wooden vessels in which Soma-juice is placed'. A few riks in which this sense is found we give as examples:
-> **उग्रेष्विन्नु शूर मन्दसानस्त्रिकद्रुकेषु पाहि सोममिन्द्र ॥** *(Ṛ. Saṃ. 2-11-17)* — *ugreṣv in nu śūra mandasānas trikadrukeṣu pāhi somam indra ||* — *Mine, tentative:* "Exhilarated among the mighty, O hero, drink Soma in the *trikadrukas*, O Indra."
-> **त्रिकद्रुकेष्वपिबत्सुतस्यास्य मदे अहिमिन्द्रो जघान ॥** *(Ṛ. Saṃ. 2-15-1)* — *trikadrukeṣv apibat sutasyāsya made ahim indro jaghāna ||* — *Mine, tentative:* "In the *trikadrukas* he drank of the pressed [Soma]; in its exhilaration Indra slew the *ahi*."
-> **त्रिकद्रुकेषु महिषो यवाशिरं तुविशुष्मस्तृपत्सोममपिबद्विष्णुना सुतं यथावशत् ॥** *(Ṛ. Saṃ. 2-22-1; the reference line is cut off in the better scan, read from the old scan)* — *trikadrukeṣu mahiṣo yavāśiraṃ tuviśuṣmas tṛpat somam apibad viṣṇunā sutaṃ yathāvaśat ||* — *Mine, tentative:* "In the *trikadrukas* the mighty one, of great vigour, satisfied, drank the Soma mixed with barley, pressed with Viṣṇu, as he desired."
-> **त्रिकद्रुकेषु चेतनं देवासो यज्ञमत्नत ॥** *(Ṛ. Saṃ. 8-13-18)* — *trikadrukeṣu cetanaṃ devāso yajñam atnata ||* — *Mine, tentative:* "In the *trikadrukas* the gods spread the thoughtful sacrifice."
+> **उग्रेष्विन्नु शूर मन्दसानस्त्रिकद्रुकेषु पाहि सोममिन्द्र ॥** *(Ṛ. Saṃ. 2-11-17)* — *ugreṣv in nu śūra mandasānas trikadrukeṣu pāhi somam indra ||* — **GLOSS**
+> **त्रिकद्रुकेष्वपिबत्सुतस्यास्य मदे अहिमिन्द्रो जघान ॥** *(Ṛ. Saṃ. 2-15-1)* — *trikadrukeṣv apibat sutasyāsya made ahim indro jaghāna ||* — **GLOSS**
+> **त्रिकद्रुकेषु महिषो यवाशिरं तुविशुष्मस्तृपत्सोममपिबद्विष्णुना सुतं यथावशत् ॥** *(Ṛ. Saṃ. 2-22-1; the reference line is cut off in the better scan, read from the old scan)* — *trikadrukeṣu mahiṣo yavāśiraṃ tuviśuṣmas tṛpat somam apibad viṣṇunā sutaṃ yathāvaśat ||* — **GLOSS**
+> **त्रिकद्रुकेषु चेतनं देवासो यज्ञमत्नत ॥** *(Ṛ. Saṃ. 8-13-18)* — *trikadrukeṣu cetanaṃ devāso yajñam atnata ||* — **GLOSS**
 > **त्रिकद्रुकेष [sic] चेतनं देवासो यज्ञमत्नत ॥** *(Ṛ. Saṃ. 8-92-21; the same pāda printed again, with केष)* — *trikadrukeṣa [sic] cetanaṃ devāso yajñam atnata ||* — *Mine, tentative:* as the preceding.
-> **त्रिकद्रुकेभिः पतति षळुर्वीरेकमिद्बृहत् ॥** *(Ṛ. Saṃ. 10-14-16)* — *trikadrukebhiḥ patati ṣaḷ urvīr ekam id bṛhat ||* — *Mine, tentative:* "With the *trikadrukas* [one] flies over the six wide [regions], the one great."
+> **त्रिकद्रुकेभिः पतति षळुर्वीरेकमिद्बृहत् ॥** *(Ṛ. Saṃ. 10-14-16)* — *trikadrukebhiḥ patati ṣaḷ urvīr ekam id bṛhat ||* — **GLOSS**
 This word is always used in the plural, and its use is always in contexts of drinking Soma.
 **प्रथमजामहीनाम् (prathamajām ahīnām)** — *meghānāṃ madhye prathamotpannaṃ megham*: among the clouds, the cloud that was first produced. When clouds, in the form of masses, gather, the first of them to arise is called *prathamajā*. Since, in the beginning of a rain-cloud, small drops [of the cloud] have already been gathered into small, scattered pieces, it is [said] here that [Indra] struck the cloud that was produced first.
 

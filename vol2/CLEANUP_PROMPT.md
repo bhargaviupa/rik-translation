@@ -37,6 +37,8 @@ Also search for what this table does not name: first-person sentences, "the scan
 - Devanagari and transliteration are not touched in Part A. No sentence of the translation is reworded.
 - Commit and push after each kind.
 
+**Glosses (done in part on Nov 17 2026, before this session):** 160 labelled glosses of quoted passages were replaced by the marker `**GLOSS**` (`tools/rv/gloss_marker.py`; removed text in `vol2/review/glosses_removed.tsv`). The marker stays in the text until the gloss is filled from our own edition (requirement B3.5): do not remove it and do not count it as a remark. `vol2/review/glosses_left.tsv` lists 69 lines with a labelled gloss or remark in a form the script did not replace: read each one; a gloss becomes `**GLOSS**` (extend the script's forms where a form recurs, and log the removed text the same way), a remark is handled under Part A. The counts in the table of Step A1 were taken before this change.
+
 ## Part B — accents of the verses
 
 The user decided on Nov 13 2026: the reference text (`refs/mandala/rv_mandala1.html`) is the correct source of every verse. Vol 2's accents were read from the scans in Oct 2026 (about 6,300 lines carry accent marks).

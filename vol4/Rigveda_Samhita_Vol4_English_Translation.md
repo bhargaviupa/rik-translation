@@ -4110,7 +4110,7 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra | (ṛ. saṃ. 5-31-8)*
 *mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7)*
 
-*(Mine and tentative: "and those two, Turvaśa and Yadu, [who were] not swimmers — Indra, lord of power, knowing, carried them across"; "you set the waters [to rest], easily-milked, for Yadu and Turvaśa, O Indra, [so that they went] to the far shore".)* "In the war with Sudāsa mentioned above, Anu and Druhyu are described as defeated and drowned in the water; Turvaśa and Yadu alone came out alive by Indra's help."
+**GLOSS** "In the war with Sudāsa mentioned above, Anu and Druhyu are described as defeated and drowned in the water; Turvaśa and Yadu alone came out alive by Indra's help."
 
 > य आनयत्परावतः सुनीती तुर्वशं यदुम् । (ऋ. सं. ६-४५-१)
 > पुरः सद्य इत्थाधिये दिवोदासाय शम्बरम् । अध त्यं तुर्वशं यदुम् ॥ (ऋ. सं. ९-६१-२, as printed)
@@ -4118,7 +4118,7 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ya ānayat parāvataḥ sunītī turvaśaṃ yadum | (ṛ. saṃ. 6-45-1)*
 *puraḥ sadya itthādhiye divodāsāya śambaram | adha tyaṃ turvaśaṃ yadum || (ṛ. saṃ. 9-61-2, as printed)*
 
-*(Mine and tentative: "…the fortresses at once, for the pious Divodāsa, [and] Śambara; and then that Turvaśa and Yadu".)* "In these ṛks there is mention that Turvaśa and Yadu fought with Divodāsa, Sudāsa's father. The account of this war is given in the verses 5–7 of the 27th sūkta of the 6th maṇḍala of the Ṛgveda Saṃhitā. Here some say that the *Vṛcīvants* are the Turvaśas, and others that the Vṛcīvants and the Turvaśas are different tribes, while others hold that they were each other's helpers in battle. This war seems to have taken place on the bank of the river Yavyāvatī. In the Śatapatha Brāhmaṇa (Śata. Brā. 13-5-4-16) there is a description that the Turvaśas and the Pañcālas were friends in battle, and that the Turvaśas had 33 horses and 6000 fighting warriors. From the Ṛgveda's sūkta 7-18 it is known that the Turvaśas crossed a river called Paruṣṇī; but the place where these Turvaśas lived is not clear."
+**GLOSS** "In these ṛks there is mention that Turvaśa and Yadu fought with Divodāsa, Sudāsa's father. The account of this war is given in the verses 5–7 of the 27th sūkta of the 6th maṇḍala of the Ṛgveda Saṃhitā. Here some say that the *Vṛcīvants* are the Turvaśas, and others that the Vṛcīvants and the Turvaśas are different tribes, while others hold that they were each other's helpers in battle. This war seems to have taken place on the bank of the river Yavyāvatī. In the Śatapatha Brāhmaṇa (Śata. Brā. 13-5-4-16) there is a description that the Turvaśas and the Pañcālas were friends in battle, and that the Turvaśas had 33 horses and 6000 fighting warriors. From the Ṛgveda's sūkta 7-18 it is known that the Turvaśas crossed a river called Paruṣṇī; but the place where these Turvaśas lived is not clear."
 
 **ugradevam** — "For this word the bhāṣyakāra says only '*etannāmakaṃ rājarṣim*' — 'the royal sage of this name'. Who this Ugradeva was, and what is known of him, is not clear. This word occurs in the Ṛgveda only in this ṛk. It is also found in the Pañcaviṃśa Brāhmaṇa of the Sāmaveda (Pañ. Brā. 14-3-12 and 23-16-11) and in the Taittirīya Āraṇyaka (Tai. Ā. 5-4-12). No further account is found."
 
@@ -5846,10 +5846,10 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 326**
 - **nemayaḥ** — "the outer rims of the wheels of a chariot." The source adds in English: "the fellies of a chariot wheel ; the outer rims of the wheels." "The word *nemi* is read in many ṛks of the Ṛgveda:" (the six quotations follow in the print, left untranslated by the source; Devanagari and IAST from the print, reference numerals as printed, and my glosses mine and tentative):
-  1. **सेदु राजा क्षयति चर्षणीनामरान्न नेमिः परि ता बभूव ॥** — *sed u rājā kṣayati carṣaṇīnām arān na nemiḥ pari tā babhūva* (Ṛ. Saṃ. 1-32-15) — "that king rules over the peoples; like a rim [round] spokes, he has encompassed all these" (mine, tentative).
+  1. **सेदु राजा क्षयति चर्षणीनामरान्न नेमिः परि ता बभूव ॥** — *sed u rājā kṣayati carṣaṇīnām arān na nemiḥ pari tā babhūva* (Ṛ. Saṃ. 1-32-15) — **GLOSS**.
   2. **यत्सीमनु क्रतुना विश्वथा विभुररान्न नेमिः परिभूरजायथाः** — *yat sīm anu kratunā viśvathā vibhur arān na nemiḥ paribhūr ajāyathāḥ* (printed "Ṛ. Sū. 1-141-9") — the print reads as given; "…by [your] will, everywhere pervasive, like a rim [round] spokes you were born encompassing" (mine, very tentative: the Sanskrit is uncertain [?]).
-  3. **परि विश्वानि काव्या नेमिश्चक्रमिवाभवत् ।** — *pari viśvāni kāvyā nemiś cakram ivābhavat* (Ṛ. Saṃ. 2-5-3) — "he encompassed all the poetic works as a rim a wheel" (mine, tentative).
-  4. **अग्ने नेमिररां इव देवाँस्त्वं परिभूरसि ।** — *agne nemir arām̐ iva devām̐s tvaṃ paribhūr asi* (Ṛ. Saṃ. 5-13-6) *(the print has* āgne*)* — "Agni, as a rim [round] spokes, you encompass the gods" (mine, tentative).
+  3. **परि विश्वानि काव्या नेमिश्चक्रमिवाभवत् ।** — *pari viśvāni kāvyā nemiś cakram ivābhavat* (Ṛ. Saṃ. 2-5-3) — **GLOSS**.
+  4. **अग्ने नेमिररां इव देवाँस्त्वं परिभूरसि ।** — *agne nemir arām̐ iva devām̐s tvaṃ paribhūr asi* (Ṛ. Saṃ. 5-13-6) *(the print has* āgne*)* — **GLOSS**.
   5. **आ व इन्द्रं पुरुहूतं नमे गिरा नेमिं तष्टेव सुद्र्वम् ।** [?] — *ā va indraṃ puruhūtaṃ name girā nemiṃ taṣṭeva sudrvam [?]* (Ṛ. Saṃ. 7-32-20, as printed) — *(the last word is printed* sadvram *and is uncertain)*: "I bow to Indra, much invoked, with a song, as a carpenter [bends] a rim" (mine, very tentative).
   6. **तं नेमिमृभवो यथा नमस्व सहूतिभिः ॥** — *taṃ nemim ṛbhavo yathā namasva sahūtibhiḥ* (Ṛ. Saṃ. 8-75-5, as printed) — "bow to him, as the Ṛbhus [bend] a rim, with joint invocations" (mine, very tentative).
   "etc. This *nemi* is made of a hard wood called *sadru* [as printed] and bent."
@@ -9731,25 +9731,25 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
   1. > **अग्निजिह्वा मनवः सूरचक्षसो विश्वे नो देवा अवसागमन्निह ॥** *(Ṛ. Saṃ. 1-89-7; the last digit is the flat-footed 7)*
 
-     *agnijihvā manavaḥ sūracakṣaso viśve no devā avasāgaman iha ||* — mine and tentative: "The Manus, with Agni as their tongue, with the sun as their eye — may all the gods come here to us for our protection."
+     *agnijihvā manavaḥ sūracakṣaso viśve no devā avasāgaman iha ||* — **GLOSS**
   2. > **इमं स्तोमं रोदसी प्र ब्रवीम्यृदूदराः शृणवन्नग्निजिह्वाः ॥** *(Ṛ. Saṃ. 3-54-10)*
 
-     *imaṃ stomaṃ rodasī pra bravīmy ṛdūdarāḥ śṛṇavann agnijihvāḥ ||* — mine and tentative: "I declare this praise to heaven and earth; may the tender-bellied (? *ṛdūdarāḥ*, reading [?]) ones, tongued with Agni, hear."
+     *imaṃ stomaṃ rodasī pra bravīmy ṛdūdarāḥ śṛṇavann agnijihvāḥ ||* — **GLOSS**
   3. > **ये अग्निजिह्वा ऋतसाप आसुर्ये मनुं चक्रुरुपरं दसाय ॥** *(Ṛ. Saṃ. 6-21-10, as printed)*
 
      *ye agnijihvā ṛtasāpa āsur ye manuṃ cakrur uparaṃ dasāya ||* — mine and tentative: "They who, with Agni as tongue, were the guardians (? *ṛtasāpaḥ*) of the rite, who made Manu (the) later (? *uparam*) for the (*dasāya*)…" (the second line is hard; I give no firm sense).
   4. > **द्विजन्मानो ये ऋतसापः सत्याः स्वर्वन्तो यजता अग्निजिह्वाः ॥** *(Ṛ. Saṃ. 6-50-2)*
 
-     *dvijanmāno ye ṛtasāpaḥ satyāḥ svarvanto yajatā agnijihvāḥ ||* — mine and tentative: "the twice-born ones, who are keepers of the rite, the true, the heaven-possessing, the worshipful, tongued with Agni."
+     *dvijanmāno ye ṛtasāpaḥ satyāḥ svarvanto yajatā agnijihvāḥ ||* — **GLOSS**
   5. > **ये अग्निजिह्वा उत वा यजत्रा आसद्यास्मिन् बर्हिषि मादयध्वम् ॥** *(Ṛ. Saṃ. 6-52-13)*
 
-     *ye agnijihvā uta vā yajatrā āsadyāsmin barhiṣi mādayadhvam ||* — mine and tentative: "You who are tongued with Agni, or who are worshipful: sitting down on this grass, rejoice."
+     *ye agnijihvā uta vā yajatrā āsadyāsmin barhiṣi mādayadhvam ||* — **GLOSS**
   6. > **बहवः सूरचक्षसोऽग्निजिह्वा ऋतावृधः ॥** *(Ṛ. Saṃ. 7-66-10; the first digit is the flat-footed 7)*
 
-     *bahavaḥ sūracakṣaso 'gnijihvā ṛtāvṛdhaḥ ||* — mine and tentative: "the many, sun-eyed, fire-tongued increasers of the rite."
+     *bahavaḥ sūracakṣaso 'gnijihvā ṛtāvṛdhaḥ ||* — **GLOSS**
   7. > **दिवक्षसो अग्निजिह्वा ऋतावृध ऋतस्य योनिं विमृशन्त आसते ॥** *(Ṛ. Saṃ. 10-65-7)*
 
-     *divakṣaso agnijihvā ṛtāvṛdha ṛtasya yoniṃ vimṛśanta āsate ||* — mine and tentative: "the heaven-dwelling (? *divakṣasaḥ*), fire-tongued increasers of the rite sit, touching (considering) the womb of the rite."
+     *divakṣaso agnijihvā ṛtāvṛdha ṛtasya yoniṃ vimṛśanta āsate ||* — **GLOSS**
 
   The Kannada author continues: "In the sacrifice the deity who appears to us directly is Agni; the other deities do not appear to us directly. Therefore, if the oblation is to be offered to deities other than Agni, it is possible only through Agni, that is, by sacrificing into Agni. On this point there is a scriptural sentence, *parokṣaṃ vā anye devā ijyante* (printed "Tai. Saṃ. 1-7"; the second digit is the 2/7 glyph, read as 7 by comparison with the 7s on the same page) — परोक्षं वा अन्ये देवा इज्यन्ते — *parokṣaṃ vā anye devā ijyante* — mine and tentative: 'the other gods are worshipped indirectly'. Because the other deities accept the oblation poured into Agni, it is as though Agni were their tongue. Hence it is proper to call those deities *agnijihvāḥ*."
 - **ṛtāvṛdhaḥ** — "*satyasya yajñasya vā vardhakāḥ*: those who increase truth or the sacrifice, they are those who bring about the conduct of the sacrifice. For further explanation of this word see Ṛgveda Saṃhitā part 1, pp. 707 and 647."
@@ -9855,51 +9855,51 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
   1. > **आदित्या रुद्रा वसवः सुनीथा द्यावाक्षामा पृथिवी अन्तरिक्षम् ।** *(Ṛ. Saṃ. 3-8-8)*
 
-     *ādityā rudrā vasavaḥ sunīthā dyāvākṣāmā pṛthivī antarikṣam |* — mine and tentative: "Ādityas, Rudras, Vasus, good leaders; heaven and earth, the earth, the middle region."
+     *ādityā rudrā vasavaḥ sunīthā dyāvākṣāmā pṛthivī antarikṣam |* — **GLOSS**
   2. > **अश्विना मित्रावरुणा भगं च वसून् रुद्राँ आदित्याँ इह हुवे ॥** *(Ṛ. Saṃ. 3-20-5)*
 
-     *aśvinā mitrāvaruṇā bhagaṃ ca vasūn rudrām̐ ādityām̐ iha huve ||* — mine and tentative: "I call here the Aśvins, Mitra and Varuṇa, and Bhaga, the Vasus, the Rudras, the Ādityas."
+     *aśvinā mitrāvaruṇā bhagaṃ ca vasūn rudrām̐ ādityām̐ iha huve ||* — **GLOSS**
   3. > **आदित्यानां वसूनां रुद्रियाणां देवो देवानां न मिनाति धाम ॥** *(Ṛ. Saṃ. 10-48-11)*
 
-     *ādityānāṃ vasūnāṃ rudriyāṇāṃ devo devānāṃ na mināti dhāma ||* — mine and tentative: "of the Ādityas, the Vasus, the Rudriyas — the god does not diminish the abode of the gods."
+     *ādityānāṃ vasūnāṃ rudriyāṇāṃ devo devānāṃ na mināti dhāma ||* — **GLOSS**
   4. > **देवाँ आदित्याँ अवसे हवामहे वसून् रुद्राँ सवितारं सुदंससम् ॥** *(Ṛ. Saṃ. 10-66-4)*
 
-     *devām̐ ādityām̐ avase havāmahe vasūn rudrām̐ savitāraṃ sudaṃsasam ||* — mine and tentative: "We call the gods, the Ādityas, for help, the Vasus, the Rudras, Savitṛ of good works."
+     *devām̐ ādityām̐ avase havāmahe vasūn rudrām̐ savitāraṃ sudaṃsasam ||* — **GLOSS**
   5. > **आदित्या रुद्रा वसवः सुदानव इमा ब्रह्म शस्यमानानि जिन्वत ॥** *(Ṛ. Saṃ. 10-66-12)*
 
-     *ādityā rudrā vasavaḥ sudānava imā brahma śasyamānāni jinvata ||* — mine and tentative: "Ādityas, Rudras, Vasus, good givers, quicken these prayers as they are recited."
+     *ādityā rudrā vasavaḥ sudānava imā brahma śasyamānāni jinvata ||* — **GLOSS**
   6. > **अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः ॥** *(Ṛ. Saṃ. 10-125-1)*
 
-     *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ ||* — mine and tentative: "I move with the Rudras, with the Vasus; I with the Ādityas and with the All-gods."
+     *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ ||* — **GLOSS**
   7. > **वसवो रुद्रा आदित्या उपरिस्पृशं मोग्रं चेत्तारमधिराजमक्रन् ॥** *(Ṛ. Saṃ. 10-128-9)*
 
      *vasavo rudrā ādityā uparispṛśaṃ mograṃ cettāram adhirājam akran ||* — mine and tentative: "The Vasus, Rudras and Ādityas have made me a high-reaching, mighty, wise overlord (?)" (the reading "*mograṃ*" and the sense are doubtful).
   8. > **आदित्यै रुद्रैर्वसुभिर्न आ गहि मृळीकाय न आ गहि ॥** *(Ṛ. Saṃ. 10-150-1)*
 
-     *ādityai rudrair vasubhir na ā gahi mṛḷīkāya na ā gahi ||* — mine and tentative: "Come to us with the Ādityas, Rudras, Vasus; come to us for our well-being."
+     *ādityai rudrair vasubhir na ā gahi mṛḷīkāya na ā gahi ||* — **GLOSS**
 
   "Many more examples could be given. In these ṛks it is said that Indra is chief of the Vasu group, Rudra of the Rudra group, and Aditi of the Ādityas:"
 
   9. > **इन्द्रं नो अग्ने वसुभिः सजोषा रुद्रं रुद्रेभिरा वह बृहन्तम् ।**
      > **आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारम् ॥** *(Ṛ. Saṃ. 7-10-4; the first digit is the flat-footed 7)*
 
-     *indraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhir ā vaha bṛhantam | ādityebhir aditiṃ viśvajanyāṃ bṛhaspatim ṛkvabhir viśvavāram ||* — mine and tentative: "Agni, in company with the Vasus bring us Indra; with the Rudras, the great Rudra; with the Ādityas, Aditi, kind to all people; and Bṛhaspati, all-choosing, with the praisers (*ṛkvabhiḥ*)."
+     *indraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhir ā vaha bṛhantam | ādityebhir aditiṃ viśvajanyāṃ bṛhaspatim ṛkvabhir viśvavāram ||* — **GLOSS**
   10. > **इन्द्रो वसुभिः परि पातु नो गयमादित्यैर्नो अदितिः शर्म यच्छतु ।**
       > **रुद्रो रुद्रेभिर्देवो मृळयाति नस्त्वष्टा नो ग्नाभिः सुविताय जिन्वतु ॥** *(printed "Ṛ. Su. 10-66-3" [sic, for Ṛ. Saṃ.])*
 
-      *indro vasubhiḥ pari pātu no gayam ādityair no aditiḥ śarma yacchatu | rudro rudrebhir devo mṛḷayāti nas tvaṣṭā no gnābhiḥ suvitāya jinvatu ||* — mine and tentative: "May Indra with the Vasus protect our household; may Aditi with the Ādityas give us shelter; may the god Rudra with the Rudras make us happy; may Tvaṣṭṛ with the goddesses speed us to well-being."
+      *indro vasubhiḥ pari pātu no gayam ādityair no aditiḥ śarma yacchatu | rudro rudrebhir devo mṛḷayāti nas tvaṣṭā no gnābhiḥ suvitāya jinvatu ||* — **GLOSS**
 - "The names of these Vasus, Rudras and Ādityas are not indicated in the Veda; they are told in the Purāṇas and the like." The Kannada author then cites the great sage Yāska on the form of the word *vasavaḥ* (Nirukta 12-42), **untranslated in the source**:
 
   > **वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासव इति समाख्या तस्मात्पृथिवीस्थानाः । इन्द्रो वसुभिर्वासव इति समाख्या तस्मान्मध्यमस्थानाः । वसव आदित्यरश्मयो विवासनात्तस्माद्द्युस्थानाः ॥** *(Ni. 12-42)*
 
-  *vasavo yad vivasate sarvam agnir vasubhir vāsava iti samākhyā tasmāt pṛthivīsthānāḥ | indro vasubhir vāsava iti samākhyā tasmān madhyamasthānāḥ | vasava ādityaraśmayo vivāsanāt tasmād dyusthānāḥ ||* — mine and tentative: "Because they (the Vasus) cover/abide in all, Agni with the Vasus — the name 'Vāsava' — therefore they have the earth as their place; Indra with the Vasus — the name 'Vāsava' — therefore they have the middle region as their place; the Vasus are the rays of the Sun, from their shining forth/pervading, therefore they have the heaven as their place."
+  *vasavo yad vivasate sarvam agnir vasubhir vāsava iti samākhyā tasmāt pṛthivīsthānāḥ | indro vasubhir vāsava iti samākhyā tasmān madhyamasthānāḥ | vasava ādityaraśmayo vivāsanāt tasmād dyusthānāḥ ||* — **GLOSS**
 
   The Kannada author explains: "That is, these Vasus are in the three places, earth, atmosphere and heaven. Since Agni dwells in everything in the form of a Vasu, they are in the earth-place. Indra, being accompanied by Vasus, is called Vāsava; since he is the chief of the Vasus, the Vasus are as if in the middle place, the atmosphere. The word *vasavaḥ* also means the rays of the Sun, which pervade the upper part of the atmosphere and the heaven everywhere; so they are in the heaven-place. Hence, according to Yāska, these Vasus pervade earth, atmosphere and heaven." Two ṛk-quotations used by Yāska to show the Vasus (both **untranslated in the source**):
 
   > **सुगा वो देवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणाः ।**
   > **जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥** *(Vājasaneya Saṃhitā 8-18)*
 
-  *sugā vo devāḥ supathā akarma ya ājagmuḥ savanam idaṃ juṣāṇāḥ | jakṣivāṃsaḥ papivāṃsaś ca viśve 'sme dhatta vasavo vasūni ||* — mine and tentative: "O gods, we have made easy your going and good your path, you who have come, delighting in this pressing; having eaten and drunk, all of you, O Vasus, put riches in us."
+  *sugā vo devāḥ supathā akarma ya ājagmuḥ savanam idaṃ juṣāṇāḥ | jakṣivāṃsaḥ papivāṃsaś ca viśve 'sme dhatta vasavo vasūni ||* — **GLOSS**
 
   > **ज्मा अत्र वसवो रन्त देवा उरावन्तरिक्षे मर्जयन्त शुभ्राः ।**
   > **अर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥** *(Ṛ. Saṃ. 7-39-3; the first digit is the flat-footed 7)*
@@ -10030,40 +10030,40 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
   1. > **दध्यङ्ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥** *(Ṛ. Saṃ. 1-139-9)*
 
-     *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ ||* — mine and tentative: "Dadhyañc, the earlier Aṅgiras, Priyamedha, Kaṇva, Atri, Manu knew my birth; those ancestors of mine, Manu, knew."
+     *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ ||* — **GLOSS**
   2. > **यथा चित्कण्वमावतं प्रियमेधमुप स्तुतम् ।** *(Ṛ. Saṃ. 8-5-25)*
 
-     *yathā cit kaṇvam āvataṃ priyamedham upa stutam |* — mine and tentative: "As you two helped Kaṇva, (and) Priyamedha, who was praised …"
+     *yathā cit kaṇvam āvataṃ priyamedham upa stutam |* — **GLOSS**
   3. > **अर्वाञ्चं त्वा पुरुष्टुत प्रियमेधस्तुता हरी ।** *(Ṛ. Saṃ. 8-6-45)*
 
-     *arvāñcaṃ tvā puruṣṭuta priyamedhastutā harī |* — mine and tentative: "O much-praised one, may the two bays praised by Priyamedha (bring) you hither."
+     *arvāñcaṃ tvā puruṣṭuta priyamedhastutā harī |* — **GLOSS**
 
   "That this sage, being of the Āṅgirasa line, did many stotras and sacrifices especially together with the sage Medhātithi of the Kaṇva line, is to be understood. A close association of the Kaṇva line with the sage Priyamedha and his sons is seen; there are many ṛks whose words indicate '*priyamedhāḥ*, the sons or descendants of Priyamedha':"
 
   4. > **महिकेरव ऊतये प्रियमेधा अहूषत ।** *(Ṛ. Saṃ. 1-45-4 — this very sūkta)*
 
-     *mahikerava ūtaye priyamedhā ahūṣata |* — mine and tentative: "The Priyamedhas, makers of great (deeds), called (Agni) for help."
+     *mahikerava ūtaye priyamedhā ahūṣata |* — **GLOSS**
   5. > **यजद्धैनं प्रियमेधा इन्द्रं सत्राचा मनसा ।** *(Ṛ. Saṃ. 8-2-37; the last digit is the flat-footed 7)*
 
      *yajaddhainaṃ priyamedhā indraṃ satrācā manasā |* — mine and tentative: "The Priyamedhas worshipped him, Indra, with a mind turned to him." (the first word as printed is doubtful [?])
   6. > **इन्द्रं स्तोमेभिर्महयन्त आयवः प्रियमेधासो अस्वरन् ॥** *(Ṛ. Saṃ. 8-3-16)*
 
-     *indraṃ stomebhir mahayanta āyavaḥ priyamedhāso asvaran ||* — mine and tentative: "The people exalted Indra with praises; the Priyamedhas sang."
+     *indraṃ stomebhir mahayanta āyavaḥ priyamedhāso asvaran ||* — **GLOSS**
   7. > **धीभिः सातानि काण्वस्य वाजिनः प्रियमेधैरभिद्युभिः ।** *(Ṛ. Saṃ. 8-4-20)*
 
      *dhībhiḥ sātāni kāṇvasya vājinaḥ priyamedhair abhidyubhiḥ |* — mine and tentative: "… the gains of the Kāṇva, the strong, with thoughts, with the Priyamedhas, the shining (?)." (the sense is doubtful [?])
   8. > **आ वां विश्वाभिरूतिभिः प्रियमेधा अहूषत ।** *(printed "Ṛ. Sa. 8-8-18")*
 
-     *ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata |* — mine and tentative: "The Priyamedhas called you two (to come) with all (your) helps."
+     *ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata |* — **GLOSS**
   9. > **अर्चेत प्रार्चेत प्रियमेधासो अर्चत ।** *(Ṛ. Saṃ. 8-69-8)*
 
-     *arceta prārceta priyamedhāso arcata |* — mine and tentative: "Sing, sing forth, Priyamedhas, sing."
+     *arceta prārceta priyamedhāso arcata |* — **GLOSS**
   10. > **आ वां विश्वाभिरूतिभिः प्रियमेधा अहूषत ।** *(Ṛ. Saṃ. 8-87-3; the 7 is the flat-footed glyph; the line is printed twice, with different reference numerals)*
 
       *ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata |* — gloss as for 8 above.
   11. > **वयः सुपर्णा उप सेदुरिन्द्रं प्रियमेधा ऋषयो नाधमानाः ।** *(Ṛ. Saṃ. 10-73-11)*
 
-      *vayaḥ suparṇā upa sedur indraṃ priyamedhā ṛṣayo nādhamānāḥ |* — mine and tentative: "Like birds, like eagles, the Priyamedha seers sat down by Indra, begging."
+      *vayaḥ suparṇā upa sedur indraṃ priyamedhā ṛṣayo nādhamānāḥ |* — **GLOSS**
 
   "From this it may be inferred that the sage Priyamedha was not only a famous sage but one respected by all."
 - **atrivat** — "the sage Atri is a very famous sage; he and his line are the ṛṣis of the sūktas of the fifth maṇḍala of the Ṛgveda. That the line of this sage had a special connexion and intercourse with the lines of the sages Priyamedha, Kaṇva and Gotama is known from the ṛks Ṛ. Sa. 1-45-3; 1-139-9; 8-5-25; Aitareya Brāhmaṇa 8-22; Ṛ. Saṃ. 1-118-7; 5-41-4; 10-150-5; 1-183-5. And Ṛ. Saṃ. 5-52-9; 5-52-17: since in these two ṛks the names of the rivers Parūṣṇī and Yamunā are indicated, it appears that they had settled in the extensive region along those rivers."
@@ -10743,7 +10743,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
   > **हविषापां जरयिता पिपर्ति पपुरिति पृणातिनिगमौ वा प्रीणातिनिगमौ वा पिता कृतस्य कर्मणश्चायितादित्यः ॥** *(Ni. 5-24)*
 
-  *haviṣāpāṃ jarayitā pipartti papur iti pṛṇātinigamau vā prīṇātinigamau vā pitā kṛtasya karmaṇaś cāyitādityaḥ ||* — mine and tentative: "With the oblation (or: water) the dryer-up of the waters fills (*pipartti*); *papuḥ*: (these are) Vedic words from *pṛ* 'to fill' or *prī* 'to please'; the father, the observer of what is done, Āditya."
+  *haviṣāpāṃ jarayitā pipartti papur iti pṛṇātinigamau vā prīṇātinigamau vā pitā kṛtasya karmaṇaś cāyitādityaḥ ||* — **GLOSS**
 
   The Kannada author explains: "That is, though Āditya dries up the water, at all times he fills the whole created world with *havis*, that is, with water (the word *havis* is read among the names of water in the Nighaṇṭu, Ni. 2-24, as printed); he draws the water that is in seas and other reservoirs by his rays and fills the earth with water in the form of rain from the cloud. *Pipartti* and *papuḥ* are both *nigama* (Vedic) words; for these words the meanings are 'fill' (*pūrayati*) or 'please' (*prīṇāti*), filling or satisfying; and this Sun is the protector of the whole world and a witness of all works that people do, that is, one who sees everything: this is the idea."
 
@@ -11243,7 +11243,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
   > **अक्तुभी रात्रिभिः ।** *(Ni. 12-23)*
 
-  *aktubhī rātribhiḥ |* — mine and tentative: "*aktubhiḥ* (means) by the nights."
+  *aktubhī rātribhiḥ |* — **GLOSS**
 
 **Vyākaraṇa-prakriyā** *(p. 605 — grammar page, noted briefly)*
 - **yuvoḥ**: after the word *yuṣmad* the genitive dual *os*; "*supāṃ supo bhavanti*" (as printed) — *os* for *os*; hence, the vibhakti beginning with a vowel after the substitution, *yo 'ci* (Pā. 7-2-89) — *y* for the final of *yuṣmad* and *asmad* — does not apply; *śeṣe lopaḥ* (Pā. 7-2-90) drops the part from *ma* on, and the remaining *ad* is dropped before a vowel-initial case-ending: *yu + os*; the Kannada author says the *ā*-*y* substitution is the cause of the other; *ru*, *visarga*; the *vibhakti* is acute by the *udātta*-*nivṛtti* svara; *osi ca* (Pā. 7-3-104 as read) is not applied in the Veda; *ato guṇe*, *pararūpa*; the single-substitute accent.
@@ -11330,7 +11330,7 @@ Then the forgiveness verse (Sanskrit, in Kannada script):
 *tat sarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ||*
 *|| śubhaṃ bhūyāt || || maṅgalam ||*
 
-*(Mine, tentative: "Whatever may be fallen from letter or word, or wanting in measure — may all that be forgiven, O God, Lord of Speech; homage to you. May it be well. Auspiciousness.")*
+**GLOSS**
 
 *(That is the last page of the PDF: printed p. 608 = PDF 622, as the offset PDF − 14 predicts. The volume contains nothing after the colophon, so no index, errata or further pages were found.)*
 

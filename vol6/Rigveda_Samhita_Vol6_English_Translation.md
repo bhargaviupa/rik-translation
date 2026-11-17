@@ -11254,11 +11254,11 @@ dyumnaír abhi pra ṇonumaḥ ||2||* [accent ?]
 
 > अग्निर्हि देवाँ अमृतो दुवस्यत्यथा धर्माणि सनता न दूदुषत् ।
 
-*agnir hi devāṁ amṛto duvasyaty athā dharmāṇi sanatā na dūduṣat |* (Ṛk. Saṃ. 3-3-1) — *Gloss, mine and tentative:* "Agni, the immortal, indeed serves the gods; so (the worshippers) do not spoil the ancient rites."
+*agnir hi devāṁ amṛto duvasyaty athā dharmāṇi sanatā na dūduṣat |* (Ṛk. Saṃ. 3-3-1) — **GLOSS**
 
 > क्षेमेण मित्रो वरुणं दुवस्यति मरुद्भिरुग्रः शुभमन्य ईयते ।
 
-*kṣemeṇa mitro varuṇaṃ duvasyati marudbhir ugraḥ śubham anya īyate |* (Ṛk. Saṃ. 7-82-5) — *Gloss, mine and tentative:* "With well-being Mitra serves Varuṇa; the other, fierce, goes in splendour with the Maruts."
+*kṣemeṇa mitro varuṇaṃ duvasyati marudbhir ugraḥ śubham anya īyate |* (Ṛk. Saṃ. 7-82-5) — **GLOSS**
 
 > नमुस्यत हव्यदातिं स्वध्वरं दुवस्यत दम्यं जातवेदसम् ।
 
@@ -11344,15 +11344,15 @@ dyumnaír abhi pra ṇonumaḥ ||3||* [accent ?]
 
 > मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्वचित्ते ।
 
-*manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvacitte |* (Ṛk. Saṃ. 1-31-17) — *Gloss, mine and tentative:* "As Manu, O Agni, as Aṅgiras, O Aṅgiras, as Yayāti, in the seat of the primeval insight (sacrificial seat)…"
+*manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvacitte |* (Ṛk. Saṃ. 1-31-17) — **GLOSS**
 
 > अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ।
 
-*aṅgirasvan mahivrata praskaṇvasya śrudhī havam |* (Ṛk. Saṃ. 1-45-3) — *Gloss, mine and tentative:* "As (for) Aṅgiras, O you of great ordinance, hear the call of Praskaṇva."
+*aṅgirasvan mahivrata praskaṇvasya śrudhī havam |* (Ṛk. Saṃ. 1-45-3) — **GLOSS**
 
 > तदस्मै नव्यमङ्गिरस्वदर्चत शुष्मा यदस्य प्रत्नथोदीरते ।
 
-*tad asmai navyam aṅgirasvad arcata śuṣmā yad asya pratnathodīrate |* (Ṛk. Saṃ. 2-17-1) — *Gloss, mine and tentative:* "Sing to him that new (song) as the Aṅgirases did, when his strength rises as of old."
+*tad asmai navyam aṅgirasvad arcata śuṣmā yad asya pratnathodīrate |* (Ṛk. Saṃ. 2-17-1) — **GLOSS**
 
 > तमङ्गिरस्वन्नमसा सपर्यन्नव्यं कृणोमि सन्यसे पुराजाम् ।
 
@@ -11361,7 +11361,7 @@ dyumnaír abhi pra ṇonumaḥ ||3||* [accent ?]
 > उत त्वा भृगुवच्छुचे मनुष्वदग्न आ हुवे ।
 > अङ्गिरस्वद्धवामहे ।
 
-*uta tvā bhṛguvac chuce manuṣvad agna ā huve | aṅgirasvad dhavāmahe |* (Ṛk. Saṃ. 8-43-13) — *Gloss, mine and tentative:* "And I call you, O bright Agni, as Bhṛgu did, as Manu did; we call you as Aṅgiras did."
+*uta tvā bhṛguvac chuce manuṣvad agna ā huve | aṅgirasvad dhavāmahe |* (Ṛk. Saṃ. 8-43-13) — **GLOSS**
 
 "In such Ṛks the matter of the sage Aṅgiras having invoked Agni and served him is described. Because that arrangement (*vidhāna*) has been regarded as of the highest authority, many ṛṣis have given just this example (simile)."
 
@@ -11438,13 +11438,13 @@ dyumnaír abhi pra ṇonumaḥ ||4||* [accent ?]
 
 > दस्युर्दस्यतेः क्षयार्थादुपदस्यन्त्यस्मिन् रसा उपदासयति कर्माणि ।
 
-*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi |* (Ni. 7-23, as read from a coarse 600 dpi crop: "೭-೨೩") — *Gloss, mine and tentative:* "*Dasyu* is from the root *das* in the sense of destruction: in him the juices (*rasāḥ*) waste away; or he causes the rites to fail (*upadāsayati*)."
+*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi |* (Ni. 7-23, as read from a coarse 600 dpi crop: "೭-೨೩") — **GLOSS**
 
 The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, waters, and destroys them, one who causes lack of rain (*anāvṛṣṭi*). For this very reason the meaning of *dasyu* is 'one who causes obstacle (*vighna*) to sacrificial and other rites'. The Western scholars say that *dasyu* means the black people, the early inhabitants who had settled in this land, who practised theft and caused troubles to the sacrifices of the Āryas, and so (they suppose) were called Rākṣasas. To protect themselves from such *dasyu* people, the ṛṣis praise Agni and Indra in many Ṛks —"
 
 > महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ।
 
-*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe |* (Ṛk. Saṃ. 1-51-6) — *Gloss, mine and tentative:* "You trampled down even the great Arbuda with your foot; from of old you were born for the slaying of the Dasyus."
+*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe |* (Ṛk. Saṃ. 1-51-6) — **GLOSS**
 
 > उपप्रयेन्द्र [?] दस्युहत्याय वज्री यद्ध सूनुः श्रवसे नाम दधे ।
 
@@ -11458,11 +11458,11 @@ The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, water
 
 > महे यत्त्वा पुरूरवो रणायावर्धयन्दस्युहत्याय देवाः ।
 
-*mahe yat tvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ |* (Ṛk. Saṃ. 10-95-7 [?]) — *Gloss, mine and tentative:* "When the gods made you grow, O Purūravas, for great combat, for the slaying of the Dasyus."
+*mahe yat tvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ |* (Ṛk. Saṃ. 10-95-7 [?]) — **GLOSS**
 
 > तमु त्वा पाथ्यो वृषा समीधे दस्युहन्तमम् ।
 
-*tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam |* (Ṛk. Saṃ. 6-16-15) — *Gloss, mine and tentative:* "Pāthya the bull kindled you, the best slayer of the Dasyus."
+*tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam |* (Ṛk. Saṃ. 6-16-15) — **GLOSS**
 
 > तमागन्म त्रसदस्युं मान्धातुर्दस्युहन्तममग्निं यज्ञेषु पूर्व्यं नभन्तामन्यके समे ।
 
@@ -11474,11 +11474,11 @@ The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, water
 
 > अग्निं देवासोऽग्रियमिन्धते वृत्रहन्तमम् ।
 
-*agniṃ devāso 'griyam indhate vṛtrahantamam |* (Ṛk. Saṃ. 6-16-48) — *Gloss, mine and tentative:* "The gods kindle Agni, the first, the best slayer of Vṛtras."
+*agniṃ devāso 'griyam indhate vṛtrahantamam |* (Ṛk. Saṃ. 6-16-48) — **GLOSS**
 
 > आगन्म वृत्रहन्तमं ज्येष्ठमग्निमानवम् ।
 
-*āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (Ṛk. Saṃ. 8-74-4) — *Gloss, mine and tentative:* "We have come to Agni, of the race of Manu, the eldest, the best slayer of Vṛtras."
+*āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (Ṛk. Saṃ. 8-74-4) — **GLOSS**
 
 In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this word means 'he killed the demon Vṛtra'; when used of Agni, it is proper to give the general sense of the word *vṛtra*, 'enemy', and to say 'destroyer of enemies'. In the present context the bhāṣyakāra has given *pāpmānaḥ* (sins) as the sense of *vṛtra*, i.e. 'evil, sin' (*duritam*); the sense of *pāpa* has been given."
 
@@ -11686,7 +11686,7 @@ dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 > इह त्या सधमाद्या हरी हिरण्यकेश्या ।
 
-*iha tyā sadhamādyā harī hiraṇyakeśyā |* (Ṛk. Saṃ. 8-32-29) — *Gloss, mine and tentative:* "Here (are) those two bay horses, sharing the revelry, golden-maned."
+*iha tyā sadhamādyā harī hiraṇyakeśyā |* (Ṛk. Saṃ. 8-32-29) — **GLOSS**
 
 — the word *hiraṇyakeśyā* is used. The comparison of Agni's flame to *hiraṇyajihvaḥ* ('golden-tongued') is stated in the Ṛk Saṃ. 6-71-3."
 
@@ -11706,13 +11706,13 @@ That is: (1) *Rajaḥ* — the word, derived from the verb *rajati*, 'it shines'
 
 > भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिः सचसे शिवाभिः ।
 
-*bhuvo yajñasya rajasaś ca netā yatrā niyudbhiḥ sacase śivābhiḥ |* (Ṛk. Saṃ. 10-8-6) — *Gloss, mine and tentative:* "You became the leader of the sacrifice and of the waters (/space), where you attend with your auspicious teams."
+*bhuvo yajñasya rajasaś ca netā yatrā niyudbhiḥ sacase śivābhiḥ |* (Ṛk. Saṃ. 10-8-6) — **GLOSS**
 
 The word *rajas* in these Ṛks gives the sense 'water'.
 
 > पूर्वे अर्धे रजसो अप्त्यस्य गवां जनित्र्यकृत प्र केतुम् ।
 
-*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum |* (Ṛk. Saṃ. 1-134-5) — *Gloss, mine and tentative:* "In the earlier half of the watery (region), the mother of the cows made a banner (sign) appear."
+*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum |* (Ṛk. Saṃ. 1-134-5) — **GLOSS**
 
 > इन्द्रश्च या चक्रथुः सोम तानि धुरा न युक्ता रजसो वहन्ति ।
 
@@ -11730,7 +11730,7 @@ The word *rajas* in these Ṛks gives the sense 'water'.
 
 > अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
 
-*ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |* (Ṛk. Saṃ. 6-9-1) — *Gloss, mine and tentative:* "The black day and the bright day revolve apart, the two (spaces), by their courses."
+*ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |* (Ṛk. Saṃ. 6-9-1) — **GLOSS**
 
 In this Ṛk the word *rajas* gives the sense 'day'. In the present context the sense of *rajas* is light, brightness."
 
@@ -11840,7 +11840,7 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 > प्र नो महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
 
-*pra no mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |* (Ṛk. Saṃ. 1-59-6) — *Gloss, mine and tentative:* "Let me proclaim the greatness of the bull, whom the Pūrus attend, the slayer of Vṛtra"
+*pra no mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |* (Ṛk. Saṃ. 1-59-6) — **GLOSS**
 
 — gives the explanation *vṛṣabhasya* = *varṣitur apām*, 'of the shedder of the waters' (Ni. 7-23) and again —
 
@@ -11862,7 +11862,7 @@ and so he has given the derivation of the form of the word *vṛṣabha*. That i
 
 > न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
 
-*nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |* (Ṛk. Saṃ. 10-102-5) — *Gloss, mine and tentative:* "They made him bellow as they came up to him; they made the bull shed water in the midst of the race."
+*nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |* (Ṛk. Saṃ. 10-102-5) — **GLOSS**
 
 as an example."
 
@@ -12078,7 +12078,7 @@ asme dhehi jātavedo mahi śravaḥ ||4||*
 > हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥
 
 *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |
-have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (Ṛk. Saṃ. 1-118-11) — *Gloss, mine and tentative:* "With the new speed of the falcon, come to us, O Nāsatyas, of one accord; for I, who have offered the oblation, call you, Aśvins, at the dawning of the ever-recurring dawn."
+have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (Ṛk. Saṃ. 1-118-11) — **GLOSS**
 
 — they have given this Ṛk. The word *asme* in this Ṛk means *asmān*, 'us'."
 
@@ -12108,7 +12108,7 @@ bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yad vaśāma ||* 
 > अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
 
 *asme pra yandhi maghavann ṛjīṣinn indra rāyo viśvavārasya bhūreḥ |
-asme śataṃ śarado jīvase dhā asme vīrāñ chaśvata indra śiprin ||* (Ṛk. Saṃ. 3-36-10 [as printed]) — *Gloss, mine and tentative:* "Bestow on us, O Maghavan, O Indra, drinker of the soma-dregs [?], much wealth that all would choose; give us a hundred autumns to live; (give) us heroes, O Indra of the fine helmet, for ever."
+asme śataṃ śarado jīvase dhā asme vīrāñ chaśvata indra śiprin ||* (Ṛk. Saṃ. 3-36-10 [as printed]) — **GLOSS**
 
 In the words *asme* of this Ṛk the sense is the fourth case, *asmabhyam*, 'to us'.
 
@@ -12120,7 +12120,7 @@ In the words *asme* of this Ṛk the sense is the fourth case, *asmabhyam*, 'to 
 > स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
 
 *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |
-sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu ||* (Ṛk. Saṃ. 6-47-13) — *Gloss, mine and tentative:* "May we be in the favour of him, the worthy of sacrifice, in his fortunate good-will; may he, Indra, the good protector, the rich in his own, keep far from us, away, hatred."
+sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu ||* (Ṛk. Saṃ. 6-47-13) — **GLOSS**
 
 In the word *asme* of this Ṛk the sense is the fifth case, 'from our side', *asmat*.
 
@@ -12132,7 +12132,7 @@ In the word *asme* of this Ṛk the sense is the fifth case, 'from our side', *a
 > ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
 
 *ā no bhara bhagam indra dyumantaṃ ni te deṣṇasya dhīmahi prareke |
-ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||* (Ṛk. Saṃ. 3-31-19) — *Gloss, mine and tentative:* "Bring us, O Indra, a shining portion; may we hold (it) in our mind as the surplus of your gift; (our) desire has spread (wide) like the sea; fulfil it, O lord of goods, of the goods."
+ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||* (Ṛk. Saṃ. 3-31-19) — **GLOSS**
 
 In the word *asme* of this Ṛk the sixth case, *asmākam* 'our', 'to us'.
 
@@ -12317,15 +12317,15 @@ sa tigmajambha rakṣaso daha prati ||6||*
 
 > त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ।
 
-*tvaṃ vātair aruṇair yāsi śaṃgayas tvaṃ pūṣā vidhataḥ pāsi nu tmanā |* (Ṛk. Saṃ. 2-1-6 [?]) — *Gloss, mine and tentative:* "You go with the ruddy winds, bringer of good to the household; you, as Pūṣan, protect the worshipper of your own accord."
+*tvaṃ vātair aruṇair yāsi śaṃgayas tvaṃ pūṣā vidhataḥ pāsi nu tmanā |* (Ṛk. Saṃ. 2-1-6 [?]) — **GLOSS**
 
 > जातो आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
 
-*jāto āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (Ṛk. Saṃ. 3-3-10) — *Gloss, mine and tentative:* "Being born you filled the worlds, the two firmaments; O Agni, all these you encompass by yourself."
+*jāto āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (Ṛk. Saṃ. 3-3-10) — **GLOSS**
 
 > परि त्मना मितद्रुरेति होताग्निर्मन्द्रो मधुवचा ऋतावा ।
 
-*pari tmanā mitadrur eti hotāgnir mandro madhuvacā ṛtāvā |* (Ṛk. Saṃ. 4-6-5) — *Gloss, mine and tentative:* "The Hotṛ Agni, of measured speed, goes round by himself, the joyous, sweet-speeched, the keeper of the *ṛta*."
+*pari tmanā mitadrur eti hotāgnir mandro madhuvacā ṛtāvā |* (Ṛk. Saṃ. 4-6-5) — **GLOSS**
 
 In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*."
 
@@ -12343,7 +12343,7 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 > प्र तां अग्निर्बभसत्तिग्मजम्भस्तपिष्ठेन शोचिषा यः सुराधाः ।
 
-*pra tāṃ agnir babhasat tigmajambhas tapiṣṭhena śociṣā yaḥ surādhāḥ |* (Ṛk. Saṃ. 4-5-4) — *Gloss, mine and tentative:* "Let Agni, the sharp-jawed, devour them with his hottest flame — he who gives good gifts."
+*pra tāṃ agnir babhasat tigmajambhas tapiṣṭhena śociṣā yaḥ surādhāḥ |* (Ṛk. Saṃ. 4-5-4) — **GLOSS**
 
 > अस्य त्वा वीर ईवतोऽग्नेरीशीत मर्त्यः ।
 > तिग्मजम्भस्य मीळ्हुषः ॥
@@ -12352,11 +12352,11 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 > तिग्मजम्भाय तरुणाय राजते प्रयो गायस्यग्नये ।
 
-*tigmajambhāya taruṇāya rājate prayo gāyasy agnaye |* (Ṛk. Saṃ. 8-19-22) — *Gloss, mine and tentative:* "To the sharp-jawed, youthful, shining Agni you sing (the offering of) food."
+*tigmajambhāya taruṇāya rājate prayo gāyasy agnaye |* (Ṛk. Saṃ. 8-19-22) — **GLOSS**
 
 > यज्ञानां रथ्ये वयं तिग्मजम्भाय वीळवे ।
 
-*yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave |* (Ṛk. Saṃ. 8-44-27) — *Gloss, mine and tentative:* "(We invoke) the charioteer of the sacrifices, the sharp-jawed, the strong."
+*yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave |* (Ṛk. Saṃ. 8-44-27) — **GLOSS**
 
 — in these Ṛks alone it occurs, and nowhere else. In all these places this word is used of Agni."
 
@@ -12505,7 +12505,7 @@ viśvāsu pṛtsu dustaram ||8||*
 
 > सत्रासाहं वरेण्यं सहोदां ससवांसं स्वरपश्च देवीः ।
 
-*satrāsāhaṃ vareṇyaṃ sahodāṃ sasavāṃsaṃ svar apaś ca devīḥ |* (Ṛk. Saṃ. 3-[34]-[8] [?]) — *Gloss, mine and tentative:* "The all-conquering, choice-worthy, giver of strength, the winner of the light and the divine waters."
+*satrāsāhaṃ vareṇyaṃ sahodāṃ sasavāṃsaṃ svar apaś ca devīḥ |* (Ṛk. Saṃ. 3-[34]-[8] [?]) — **GLOSS**
 
 ### Page 551 (PDF 569)
 
@@ -12515,7 +12515,7 @@ viśvāsu pṛtsu dustaram ||8||*
 
 > विवस्वतः सदन आ हि पिप्रिये सत्रासाहमभिमातिहनं स्तुहि ।
 
-*vivasvataḥ sadana ā hi pipriye satrāsāham abhimātihanaṃ stuhi |* (Ṛk. Saṃ. 3-51-3) — *Gloss, mine and tentative:* "In the abode of Vivasvat he was delighted; praise him, the all-conquering, the slayer of the hostile."
+*vivasvataḥ sadana ā hi pipriye satrāsāham abhimātihanaṃ stuhi |* (Ṛk. Saṃ. 3-51-3) — **GLOSS**
 
 > त्वमु वः सत्रासाहं विश्वासु गीर्ष्वायतम् ।
 
@@ -12840,14 +12840,14 @@ hotā gṛṇīta ukthyaḥ ||12||*
 
 > सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् ।
 
-*sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt |* (Ṛk. Saṃ. 10-[90]-1 [?]) — *Gloss, mine and tentative:* "The Puruṣa has a thousand heads, a thousand eyes, a thousand feet."
+*sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt |* (Ṛk. Saṃ. 10-[90]-1 [?]) — **GLOSS**
 
 and there it is only (…); there the sense is 'having a thousand, or countless, eyes'. And —
 
 > इन्द्रवायू मनोजुवा विप्रा हवन्त ऊतये ।
 > सहस्राक्षा धियस्पती ॥
 
-*indravāyū manojuvā viprā havanta ūtaye | sahasrākṣā dhiyas patī ||* (Ṛk. Saṃ. 1-[23]-3 [?]) — *Gloss, mine and tentative:* "Indra and Vāyu, swift as thought, the wise call for help — the thousand-eyed lords of the rites."
+*indravāyū manojuvā viprā havanta ūtaye | sahasrākṣā dhiyas patī ||* (Ṛk. Saṃ. 1-[23]-3 [?]) — **GLOSS**
 
 — for the word *sahasrākṣā* in this Ṛk the bhāṣyakāra has explained 'endowed with a thousand eyes: Indra and Vāyu, having a thousand eyes'. The use of this word is nowhere else in the Ṛgveda."
 - **विचर्षणिः** — "Among the eight names of the action of seeing, beginning *cikyat, cākanat* (चिकेत्, चाकनत् [?]), the word *vicarṣaṇiḥ* occurs; hence *vicarṣaṇiḥ* means 'one who looks'. *Viśeṣeṇa sarvasya draṣṭā agniḥ*: 'Agni who looks especially at everything'."
@@ -13347,7 +13347,7 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 > अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ।
 
-*aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ |* (Ṛk. Saṃ. 1-[24]-11) — *Gloss, mine and tentative:* "Be here, O Varuṇa, not angry; O far-praised, do not rob us of our life."
+*aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ |* (Ṛk. Saṃ. 1-[24]-11) — **GLOSS**
 
 — in these Ṛks the word is used in the sense of disrespect and anger."
 - **दोधतः** — *bhṛśaṃ kampamānasya* — "(of him who is) trembling violently. Sāyaṇa has explained that this word is formed from the root *dhūñ*, meaning 'shaking' (*kampana*). Skandasvāmin, who takes it to be '*krudhyatikarmāyam*' (this word of the action of anger), says that because it is formed from the root *dodhate*, read among the ten words that denote the action of anger, such as *krudhyati*, the sense is 'angry'. Accordingly Sāyaṇa explains the word as an epithet of *vṛtrasya*: 'trembling violently'; Skandasvāmin: 'full of anger'."
@@ -13364,13 +13364,13 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 > तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्ट्रोऽसुर इत्यैतिहासिकाः ।
 
-*tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ |* (no Nirukta number printed) — *Gloss, mine and tentative:* "Who then is Vṛtra? The etymologists say 'a cloud'; the historians say 'the demon, son of Tvaṣṭṛ'."
+*tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ |* (no Nirukta number printed) — **GLOSS**
 
 — having asked what the meaning of the word *vṛtra* is, those who give the derivation of the word (*vyutpatti*) say 'cloud'; those who know the legends say 'the demon, born of Tvaṣṭṛ'. And —
 
 > वृत्रो वृणोतेर्वा वर्ततेर्वा वर्धतेर्वा वृत्रः ।
 
-*vṛtro vṛṇoter vā vartater vā vardhater vā vṛtraḥ |* (no Nirukta number printed) — *Gloss, mine and tentative:* "*Vṛtra* is from *vṛ*, to cover; or from *vṛt*, to turn, exist; or from *vṛdh*, to grow."
+*vṛtro vṛṇoter vā vartater vā vardhater vā vṛtraḥ |* (no Nirukta number printed) — **GLOSS**
 
 — the word *vṛtra*, from the roots *vṛñ varaṇe*, *vṛtu vartane*, *vṛdhu vṛddhau*, conveys the senses 'covering', 'being established', or 'growing'. As the śruti-sentence says, '*yad avṛṇot tad vṛtrasya vṛtratvam*' ('because it covered, therefore is Vṛtra's Vṛtra-ness'), he covers the *antarikṣa* and the water; or, as a sense of growth: since Indra struck the cloud and made the water come properly to the earth, the waters arise in the form of rain. And in the legendary view Vṛtra grew very great in measure; *sa iṣumātram iṣumātram avardhata* ('he grew an arrow-length, an arrow-length') — as every moment he grew to the size of an arrow, so is the sense of growth stated."
 
@@ -13560,7 +13560,7 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 
 > मायाभिरिन्द्र मायिनं त्वं शुष्णमवातिरः ।
 
-*māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |* (Ṛk. Saṃ. 1-11-[7] [?]) — *Gloss, mine and tentative:* "By (your) wiles, O Indra, you overcame the wily Śuṣṇa."
+*māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |* (Ṛk. Saṃ. 1-11-[7] [?]) — **GLOSS**
 
 — "In this Ṛk it is said that Indra destroyed the deceitful Śuṣṇa-asura by stratagems alone. Similarly —
 
@@ -13570,7 +13570,7 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 
 > वृजनेन वृजिनान्त्सं पिपेष मायाभिर्दस्यूरभिभूत्योजाः ।
 
-*vṛjanena vṛjinān saṃ pipeṣa māyābhir dasyūr abhibhūtyojāḥ |* (Ṛk. Saṃ. 3-[34]-[6] [?]) — *Gloss, mine and tentative:* "With strength he crushed the crooked; by wiles the Dasyus, he of overpowering might."
+*vṛjanena vṛjinān saṃ pipeṣa māyābhir dasyūr abhibhūtyojāḥ |* (Ṛk. Saṃ. 3-[34]-[6] [?]) — **GLOSS**
 
 > अहिमोहानमप आशयानं प्र मायाभिर्मायिनं सक्षदिन्द्रः ।
 
@@ -13579,11 +13579,11 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 > मायाभिरुत्सिसृप्सत इन्द्र द्यामारुरुक्षतः ।
 > अव दस्यूँरधूनुथाः ॥
 
-*māyābhir utsisṛpsata indra dyām ārurukṣataḥ | ava dasyūṃr adhūnuthāḥ ||* (Ṛk. Saṃ. 8-[14]-[14] [?]) — *Gloss, mine and tentative:* "Those who wished to creep up by wiles, who wished to climb to heaven — O Indra, you shook the Dasyus down."
+*māyābhir utsisṛpsata indra dyām ārurukṣataḥ | ava dasyūṃr adhūnuthāḥ ||* (Ṛk. Saṃ. 8-[14]-[14] [?]) — **GLOSS**
 
 > त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः ।
 
-*tvaṃ māyābhir anavadya māyinaṃ śravasyatā manasā vṛtram ardayaḥ |* (Ṛk. Saṃ. 1-147-2) — *Gloss, mine and tentative:* "You, blameless one, with wiles, with a mind eager for fame, crushed the wily Vṛtra."
+*tvaṃ māyābhir anavadya māyinaṃ śravasyatā manasā vṛtram ardayaḥ |* (Ṛk. Saṃ. 1-147-2) — **GLOSS**
 
 In such places it is described that Indra destroyed the *māyāvin* asuras by guile itself."
 
@@ -13676,7 +13676,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो रजांसि ।
 
-*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi |* (Ṛk. Saṃ. 1-32-14) — *Gloss, mine and tentative:* "Nine and ninety flowing (rivers) you crossed, like a frightened falcon, the (watery) spaces."
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi |* (Ṛk. Saṃ. 1-32-14) — **GLOSS**
 
 > ह्रास्य पारं नवतिं नाव्यानामपि कर्तमवर्तयोऽयज्यून् ।
 
@@ -13684,7 +13684,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > नव यदस्य नवतिं च भोगान्त्साकं वज्रेण मघवा विवृश्चत् ।
 
-*nava yad asya navatiṃ ca bhogān sākaṃ vajreṇa maghavā vivṛścat |* (Ṛk. Saṃ. 5-29-6) — *Gloss, mine and tentative:* "When Maghavan cut off nine and ninety of its coils together with the thunderbolt."
+*nava yad asya navatiṃ ca bhogān sākaṃ vajreṇa maghavā vivṛścat |* (Ṛk. Saṃ. 5-29-6) — **GLOSS**
 
 ### Page 591 (PDF 609)
 
@@ -13694,7 +13694,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > नवतिं स्रोत्या नव च स्रवन्तीर्देवेभ्यो गातुं मनुषे च विन्दः ।
 
-*navatiṃ srotyā nava ca sravantīr devebhyo gātuṃ manuṣe ca vindaḥ |* (Ṛk. Saṃ. 10-104-8) — *Gloss, mine and tentative:* "(You found) the ninety streams and nine flowing (waters), a path for the gods and for Manu."
+*navatiṃ srotyā nava ca sravantīr devebhyo gātuṃ manuṣe ca vindaḥ |* (Ṛk. Saṃ. 10-104-8) — **GLOSS**
 
 — in these Ṛks the word *navati* is used in connection with rivers. Except for the second example, in the other Ṛks the number is stated as *nava navatim*, ninety-nine; and in contexts where Indra destroyed the cities of Śambara and other asuras the words *nava navatim* — 'ninety-nine' — are also used; so there is room for the doubt that these words may indicate 'many'."
 
@@ -13780,7 +13780,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > आ यदिन्द्रश्च दद्वहे सहस्रं वसुरोचिषः ।
 
-*ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ |* (Ṛk. Saṃ. 8-34-18) — *Gloss, mine and tentative:* "When Indra and we (the *Vasurociṣas*) received a thousand."
+*ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ |* (Ṛk. Saṃ. 8-34-18) — **GLOSS**
 
 — in this Ṛk, for the word *sahasram* the sense 'those who praise the well-known Indra, the *vasurociṣaḥ*, a thousand in number: the ṛṣis' is given. By the word *viṃśati*, 'twenty', the twenty Aṅgirases may be understood. In the *itihāsa* the Aṅgirases are well known as ten persons; but if one counts Bṛhaspati and the other brothers, the Aṅgirasa-ṛṣis come to twenty. These also, together with the thousand *vasurociṣas*, praise Indra. According to the statement '*pavasnetraiyā …*' [as read: '*havasnetrai(?)yaiḥ sūktaṃ śataṃ vaikhānasā viduḥ*' — the quotation is read with doubt [?]] the Vaikhānasas too, a hundred persons, praise Indra. And he explains that those who perform the sacrifice also praise Indra."
 
@@ -14298,7 +14298,7 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 > परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर्यदस्ति ।
 
-*paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (Ṛk. Saṃ. 10-82-5) — *Gloss, mine and tentative:* "Beyond heaven, beyond this earth, beyond the gods and the Asuras — (that which) is."
+*paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (Ṛk. Saṃ. 10-82-5) — **GLOSS**
 
 — in this Ṛk the word *paraḥ* is used in the sense stated above."
 
@@ -14428,24 +14428,24 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 > दश रथान्प्रष्टिमतः शतं गा आथर्वणेभ्यः ।
 > अश्वथः पायवे ददात् ॥
 
-*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛk. Saṃ. 6-47-24) — *Gloss, mine and tentative:* "Ten chariots with their (team) and a hundred cows (he gave) to the Ātharvaṇas; Aśvatha gave to Pāyu."
+*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛk. Saṃ. 6-47-24) — **GLOSS**
 
 — in this and other Ṛks there is the praise of a gift (*dānastuti*): King Aśvatha gave chariots, cows and so on to those of the Atharvan line.
 
 > अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
 > देवं देवाय देवयु ॥
 
-*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛk. Saṃ. 9-11-2) — *Gloss, mine and tentative:* "The Atharvans have mixed milk with your honey (Soma), the divine for the god, desiring the gods."
+*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛk. Saṃ. 9-11-2) — **GLOSS**
 
 — in this Ṛk it is mentioned that these of the Atharvan line offered Soma juice mixed with milk to Soma. The name of this ṛṣi is also found in —
 
 > यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतपा वेन आजनि ।
 
-*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |* (Ṛk. Saṃ. 1-83-5) — *Gloss, mine and tentative:* "By sacrifices Atharvan first opened the paths; then was born the sun, guardian of the law, the radiant."
+*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |* (Ṛk. Saṃ. 1-83-5) — **GLOSS**
 
 > त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ।
 
-*tvām agne puṣkarād adhy atharvā niramanthata |* (Ṛk. Saṃ. 6-16-13) — *Gloss, mine and tentative:* "You, O Agni, Atharvan churned out from the lotus (the sky/waters)."
+*tvām agne puṣkarād adhy atharvā niramanthata |* (Ṛk. Saṃ. 6-16-13) — **GLOSS**
 
 > [ऐना महान्त्स्पहद्दिवो आथर्वणोऽचिक्षयाम् [?] तन्वं मिन्द्रमेव] [?]
 
