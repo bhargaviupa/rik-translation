@@ -4804,6 +4804,269 @@ The ancient (*pūrve cit*) great seers kindled Agni, the invoker (*hotāra*) of 
 
 Agni is the invoker for the whole sacrifice; he has a delighting flame in the form of a tongue; he is joined with commendable brilliance; he has radiance as his wealth. The ancient seers and the gods too kindled him; that Agni is truly of the nature of truth.
 
+### Printed p. 126
+
+##### English translation
+That Agni is true whom the ancients, whom the gods have kindled, as the bright-tongued invoker of the gods, radiant with holy splendours.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ धी॒ती वरि॑ष्ठया॒ श्रेष्ठ॑या च सुम॒त्या ।  
+> अग्ने॑ रा॒यो दि॑दीहि नः सुवृ॒क्तिभि॑र्वरेण्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । धीती । वरिष्ठया । श्रेष्ठया । च । सुमत्या ।
+
+> अग्ने । रायः । दिदीहि । नः । सुवृक्तिभिः । वरेण्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवृक्तिभिः स्तुतिभिः स्तूयमान वरेण्य वरणीय हे अग्ने स त्वं वरिष्ठया
+> वरतमेन श्रेष्ठ यातिशयेन प्रशस्येन नो धीती धीत्यास्मदीयेन परिचरणात्मकेन
+> कर्मणा सुमत्या च । सुमतिरिति शस्त्रमुच्यते । शस्त्रेण च प्रीतः सन् रायो धनानि
+> नोऽस्मभ्यं दीदिहि । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, praised with fair praises (*suvṛktibhiḥ*, "with hymns") and worthy of being chosen (*vareṇya*): you, with our best (*variṣṭhayā*, "most choice") and most excellent, praiseworthy (*śreṣṭhayā*) service (*dhītī*, our act of attendance), and with our *sumati*, which here means a śastra, being pleased with the śastra, give (*dīdihi*) us riches (*rāyaḥ*, "wealth").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—he who is praised with excellent praises
+- वरेण्य (*vareṇya*)—he who is greatly honoured
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you who are renowned
+- वरिष्ठया (*variṣṭhayā*)—with what is the very best
+- श्रेष्ठया (*śreṣṭhayā*)—and praiseworthy
+- नः (*naḥ*)—our
+- धीती (*dhītī*)—with acts worthy of worship
+- सुमत्या च (*sumatyā ca*)—and with praises in the form of śastras (being gratified)
+- नः (*naḥ*)—to us
+- रायः (*rāyaḥ*)—riches
+- दीदिहि (*dīdihi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praised with excellent praises and greatly honoured, renowned as you are, be gratified with our very best and praiseworthy acts worthy of worship and with our praises in the form of śastras, and give us riches.
+
+### Printed p. 127
+
+##### English translation
+Agni, to be propitiated by praises, (gratified) by our choice and most excellent adoration and hymns, bestow upon us riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्दे॒वेषु॑ राजत्य॒ग्निर्मर्ते॑ष्वावि॒शन् ।  
+> अ॒ग्निर्नो॑ हव्य॒वाह॑नो॒ऽग्निं धी॒भिः स॑पर्यत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । देवेषु । राजति । अग्निः । मर्तॆषु । आविशन् ।  
+> अग्निः । नः । हव्यवाहनः । अग्निं । धीभिः । सपर्यत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्देवेषु देवानां मध्ये राजति देवतारूपेण प्रकाशते । योऽग्निर्मर्तेषु मनुष्यॆष्टाविशन् आहवनीयादिरूपेण प्रविष्टो भवति । योऽग्निर्नोऽस्माकं हव्यवाहनो भवति अस्मदीयेषु यज्ञेषु देवतार्थं हव्यानां
+> वोढा भवति हे यजमानास्तमग्निं धीभिः स्तुतिभिः सपर्यत । परिचरत ॥
+
+##### Gist of the bhāṣya
+
+The Agni who shines (*rājati*) among the gods, that is, appears in the form of a deity in their midst; the Agni who has entered (*āviśan*) among mortals (*marteṣu*), that is, men, in the form of the Āhavanīya and the other fires; the Agni who is the bearer of our oblations (*havyavāhana*), that is, the carrier of the oblations to the deities in our sacrifices: O sacrificers, serve (*saparyata*, "attend upon") that Agni with praises (*dhībhiḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- देवेषु (*deveṣu*)—among the gods
+- राजति (*rājati*)—shines in the form of a deity
+- अग्निः (*agniḥ*)—Agni
+- मर्तेषु (*marteṣu*)—among men
+- आविशन् (*āviśan*)—has entered in the form of the Āhavanīya and the others
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—for us
+- हव्यवाहनः (*havyavāhanaḥ*)—is the bearer of the oblation (to the gods)
+- अग्निं (*agniṃ*)—such a worshipful Agni (O sacrificers)
+- धीभिः (*dhībhiḥ*)—with praises
+- सपर्यत (*saparyata*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+The worshipful Agni shines among the gods in the form of a deity. Agni has entered among men in the form of the Āhavanīya and the other fires. That same Agni is for us the bearer of the oblation to the gods. O sacrificers, worship such a worshipful Agni with praises.
+
+### Printed p. 128
+
+##### English translation
+Agni shines amongst the gods: Agni is present amongst mortals : Agni is the bearer of our oblations : glorify Agni with praises.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निस्तु॒ विश्र॑वस्तमं तु॒विब्र॑ह्माणमुत्त॒मं ।  
+> अ॒तूर्तं॑ श्राव॒यत्प॑तिं पु॒त्रं द॑दाति दा॒शुषे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । तुविश्रवःतमं । तुविब्रह्माणं । उत्तमं ।  
+> अतूर्तं । श्रवयत् पतिं । पुत्रं । ददाति । दाशुषे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुत्रकामेष्ट्यामग्निस्तु विश्रवस्तममिति द्वे स्विष्टकृतो याज्यानुवाक्ये ।
+> सूत्रितं च । अग्निस्तुविश्रवस्तममिति द्वे संयाज्ये । आ. २-१० । इति ॥
+> अग्निस्तु विश्रवस्तममतिशयेन बह्वन्नं तुविब्रह्माणं बहुस्तोत्रमुत्तममुत्कृष्टमतूर्तं शत्रुभिरहिंसितं श्रावयत्पतिं । श्रावयति विश्रुतान् करोति
+> पतीन् पालयित्थन्पित्यनिति स्वकर्मणा पित्यणां प्रख्यापक इति श्रावयत्पतिः । तथाविधं पुत्रं दाशुषे हवींषि दत्तवते यजमानाय ददाति । ददातु ॥
+
+##### Gist of the bhāṣya
+
+In the Putrakāmeṣṭi (the offering for the wish for a son), the two Ṛks beginning "Agnis tu viśravastamam" are the yājyā and the anuvākyā of the Sviṣṭakṛt. So it is laid down in the sūtra: अग्निस्तुविश्रवस्तममिति द्वे संयाज्ये (*agnistuviśravastamamiti dve saṃyājye*), Ā. 2-10. Agni, who is of exceeding great fame in food (*viśravastama*, "exceedingly abounding in food"), of many praises (*tuvibrahmāṇa*, "of much hymning"), most excellent (*uttama*), unharmed by enemies (*atūrta*), and *śrāvayatpati*: he makes the lords (*pati*) famous (*śrāvayati*), that is, by his own deeds he makes the fathers known, hence *śrāvayatpati*; **NOTE** may Agni give such a son to the sacrificer (*dāśuṣe*) who has given oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- तुविक्रवस्तमं (*tuvikravastamaṃ*)—endowed with very abundant wealth of food **NOTE**
+- तुविब्रह्माणं (*tuvibrahmāṇaṃ*)—who composes praise in great measure
+- उत्तमं (*uttamaṃ*)—possessed of excellent qualities
+- अतूर्तं (*atūrtaṃ*)—not harmed by enemies
+- श्रवयत्पतिं (*śravayatpatiṃ*)—who by his excellent deeds brings fame to all his fathers, grandfathers and the rest
+- पुत्रं (*putraṃ*)—a son
+- ददाति (*dadāti*)—may he give
+
+### Printed p. 129
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni favour the sacrificer who offers the oblation with a son who is endowed with very abundant wealth of food, who in great measure composes praises of the deities, who is possessed of excellent qualities, who is not harmed by enemies, and who by his excellent deeds brings fame to all his fathers, grandfathers and the rest.
+
+##### English translation
+May Agni bestow upon the donor (of the oblation) a son, abounding in food, abounding in devotion, excellent, unharmed, conferring honour upon his progenitors.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Putrakāmeṣṭi, this Ṛk "Agnis tu viśravastamam" and the Ṛk after it are to be recited as the yājyā and anuvākyā mantras in the Sviṣṭakṛt homa, as is explained by the Āśvalāyana Śrauta Sūtra: अग्निस्तु विश्रवस्तममिति द्वे संयाज्ये (*agnistu viśravastamamiti dve saṃyājye*) (Ā. 2-10).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्द॑दाति॒ सत्प॑तिं सा॒साह॒ यो यु॒धा नृभिः॑ ।  
+> अ॒ग्निरत्यं॑ रघु॒ष्यदं॒ जीता॑र॒मप॑राजितं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ददाति । सत्पतिं । ससाह । यः । युधा । नृभिः ।  
+> अग्निः । अत्यं । रघुस्यदं । जेतारं । अपराजितं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पुत्रो युधा युद्धेन नृभिः परिजनैः ससाह शत्रुनभिभवति सत्पतिं
+> सतां पालयितारं तथाविधं पुत्रमग्निर्ददाति । अस्मभ्यं ददातु । किंचाग्नी रघुष्यदं। रघुर्लघुः स्यदो जवो यस्य तं । जेतारं शत्रुणामपराजितं शत्रुभिरत्यं।
+> अतति सततं गच्छतीत्यत्तोऽश्वः । तं ददातु ॥
+
+##### Gist of the bhāṣya
+
+The son who in battle (*yudhā*), with his men (*nṛbhiḥ*, his retinue), overcomes (*sasāha*) his enemies, the protector of the good (*satpati*): Agni gives such a son; may he give him to us. Further, Agni (may give) a horse that is *raghuṣyada*: *raghu* is light, *syada* is speed, he whose speed is light; a conqueror (*jetāra*) of enemies, unconquered (*aparājita*) by enemies; *atya* is the horse (*atta*), because it goes (*atati*) constantly. May he give that.
+
+### Printed p. 130
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which son
+- युधा (*yudhā*)—in battles
+- नृभिः (*nṛbhiḥ*)—with his followers
+- ससाह (*sasāha*)—defeats the enemies, such a one
+- सत्पतिं (*satpatiṃ*)—and the protector of the good, such a son
+- अग्निः (*agniḥ*)—Agni
+- ददाति (*dadāti*)—may he favour us with and give
+- अग्निः (*agniḥ*)—that same Agni
+- रघुष्यदं (*raghuṣyadaṃ*)—swift-going
+- जेतारं (*jetāraṃ*)—conquering (enemies)
+- अपराजितं (*aparājitaṃ*)—unconquered (by enemies)
+- अत्यं (*atyaṃ*)—a horse (may he give)
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni favour us with a son who defeats enemies in battles together with his followers and who is the protector of the good. May that same Agni give a horse that is swift-going, conquering enemies, and unconquered by enemies.
+
+##### English translation
+May Agni bestow a son, the protector of the good, who, with his followers, may be victorious in battle : may he bestow a swift-footed steed, conquering, unconquered.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वाहि॑ष्ठं॒ तद॒ग्नये॑ बृ॒हद॑र्च विभावसो ।  
+> महि॑षीव॒ त्वद्र॒यिस्त्वद्वाजा॒ उदी॑रते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वाहिष्ठं । तत् । अग्नये । बृहत् । अर्च । विभावसो इति विभावसो ।  
+> महिषीs इव । त्वत् । रयिः । त्वत् । वाजाः । उत् । ईरते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वमेधे पौष्णा मिष्ट यद्वाहिष्ठमिति स्विष्टकृतो याज्या । सूत्रितं च ।
+> यद्वाहिष्ठं तदग्नय इति संयाज्ये । आ. १०-६ इति ॥
+> वाहिष्ठं वोडृतमं यत्तोत्रं तदग्नये क्रियते । अतो हे विधावसो
+> प्रभाधनाग्ने बृहद्बृहन्नं धनं वार्च । अस्मभ्यं प्रयच्छ । कथमस्यान्नधनप्रदातृत्व-
+
+##### Gist of the bhāṣya
+
+At the Aśvamedha, in the offering to Pūṣan (**NOTE**), the Ṛk "Yad vāhiṣṭham" is the yājyā of the Sviṣṭakṛt. So it is laid down in the sūtra: यद्वाहिष्ठं तदग्नय इति संयाज्ये (*yadvāhiṣṭhaṃ tadagnaya iti saṃyājye*), Ā. 10-6. That hymn (*stotra*) which is best at carrying (*vāhiṣṭha*, "most conveying") is made for Agni. Therefore, O Agni, whose wealth is light (*vibhāvaso*; **NOTE**), give us abundant (*bṛhat*) food or wealth (*arca*, "give"). If it is asked how he can be the giver of food and wealth, he says: because from you
+
+### Printed p. 131
+
+> मित्यपेक्षायामाह । यतस्त्वत्त्वत्तः सकाशान्महिषी महती रयिर्धनमुदीरते
+> उद्गच्छति । वाजा अन्नानि च त्वत्त्वत्त उदीरते उद्गच्छंति । इवेति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+... from you great (*mahiṣī*) wealth (*rayi*) rises up (*udīrate*), and foods (*vājāḥ*) also rise up from you. The word *iva* is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which hymn
+- वाहिष्ठं (*vāhiṣṭhaṃ*)—carries our devotion in the highest degree
+- तत् (*tat*)—that
+- अग्नये (*agnaye*)—is offered to Agni
+- विभावसो (*vibhāvaso*)—O Agni, whose wealth is radiance
+- बृहत् (*bṛhat*)—abundant wealth
+- अर्च (*arca*)—give to us (for)
+- त्वत् (*tvat*)—from you alone
+- महिषी (*mahiṣī*)—abundant
+- रयिः (*rayiḥ*)—wealth
+- उदीरते (*udīrate*)—comes forth
+- वाजाः (*vājāḥ*)—foods also
+- त्वत् (*tvat*)—arise from you and spread
+
+##### भावार्थ (Bhāvārtha)
+
+That hymn which carries our devotion in the highest degree is offered to Agni. O Agni, whose wealth is radiance, give us abundant wealth, for abundant wealth and foods arise from you alone and spread forth.
+
+##### English translation
+That (praise) which best conveys (our veneration, is due) to Agni : affluent in splendour, grant us, (Agn'), great (wealth), for from you vast riches and ample food proceed.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pauṣṭa offering (**NOTE**) of the Aśvamedha sacrifice, this Ṛk "Yad vāhiṣṭham" is to be recited as the yājyā mantra of the smitakṛt homa **NOTE**, as is explained by the Āśvalāyana Śrauta Sūtra: यद्वाहिष्ठं तदग्नय इति संयाज्ये (*yadvāhiṣṭhaṃ tadagnaya iti saṃyājye*) (Ā. 10-6).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ द्यु॒मंतो॑ अ॒र्चयो॒ ग्रावे॑वोच्यते बृ॒हत् ।  
+> उ॒तो ते॑ तन्य॒तुर्य॑था स्ना॒नो अ॑र्त॒ त्मना॑ दि॒वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । द्युमंतः । अर्चयः । ग्रावाइव । उच्यते । बृहत् ।  
+> उतो इति । ते । तन्यतुः । यथा । स्वानः । अर्त । त्मना । दिवः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 125. Sukta 24 end (Rk 1-4), Sukta 25 Rk 1-2 (pp. 120-125)
+**Progress note:** Done through printed p. 131. Sukta 25 Rk 3-8 (pp. 126-131)
