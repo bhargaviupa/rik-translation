@@ -121,6 +121,7 @@ def kn_page(printed,head,text,section=None,st=None):
         if why: LOG.append(f'p. {printed}: {why}')
         if st.get('lastlabel')==k and not st.get('content'): section=k; st['force']=None; return      # the same label twice with nothing between (block split by a page/window break)
         st['lastlabel']=k; st['content']=False
+        st['plain']=False
         section=k; out.extend(['',f'*{CANON[k]}*','']); st['force']=None; st['fresh']=(k=='samhita')
     lines=[clean_line(r) for r in text.split('\n')]; lines=[l for l in lines if l]
     for i,l in enumerate(lines):
@@ -156,7 +157,8 @@ def kn_page(printed,head,text,section=None,st=None):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
-        out.append(('> '+l) if section in BLOCK else l); st['content']=True
+        if section=='bhashya' and re.match(r'ಅನುವಾದ(ವು)?\s*[—-]',l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times
+        out.append(('> '+l) if section in BLOCK and not st.get('plain') else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]
     out=drop_dup_figures(out,printed)
     return '\n'.join(join_hyphens(out))+'\n',section
