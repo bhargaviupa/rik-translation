@@ -3574,7 +3574,7 @@ They who know (your power) invoke you incessantly and nourish (your) strength (b
 
 ##### Gist of the bhāṣya
 
-"Jantavaḥ" are those who are born ("jāyanta"). "Kṛṣṭayaḥ" are men, the priests. "Madhvā na" is "as with honey", with sweet praise. Or else the particle "na" has the sense of "and", and so "and with honey". "Śvaitreyasya": "śvitra" is the atmosphere; of the Agni who is of lightning, born there, they increase the splendid ("dyumat", "dīptimat") strength. What are the kṛṣṭayaḥ like? "Niṣkagrīvaḥ": those whose necks are adorned with gold, the niṣka; the singular is by interchange. Then "bṛha-" (the block breaks off here). **NOTE**
+"Jantavaḥ" are those who are born ("jāyanta"). "Kṛṣṭayaḥ" are men, the priests. "Madhvā na" is "as with honey", with sweet praise. Or else the particle "na" has the sense of "and", and so "and with honey". "Śvaitreyasya": "śvitra" is the atmosphere; of the Agni who is of lightning, born there, they increase the splendid ("dyumat", "dīptimat") strength. What are the kṛṣṭayaḥ like? "Niṣkagrīvaḥ": those whose necks are adorned with gold, the niṣka; the singular is by interchange. Then "bṛha-". **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -4552,7 +4552,7 @@ The twenty-fourth sūkta.
 
 ##### Gist of the bhāṣya
 
-The sūkta beginning "Agne tvaṃ naḥ" has four Ṛks and is the tenth sūkta. Here the Anukramaṇikā says: "Agne tvaṃ, Gaupāyanas or Laupāyanas: Bandhu, Subandhu, Śrutabandhu, Viprabandhu; he sang a dvipada", and it states that the twentieth (verse) is a dvipadā virāj. The deity is Agni. At the Mahāpitṛyajña the priests, going towards the Āhavanīya fire, are to mutter this sūkta; so it is laid down in the sūtra: "Then they approach him, muttering मा प्र गामाग्ने त्वं न इति जपंतः (*mā pra gāmāgne tvaṃ na iti japaṃtaḥ*)", Ā. 2-19. (The block breaks off here, at the words concerning the Daśarātra.)
+The sūkta beginning "Agne tvaṃ naḥ" has four Ṛks and is the tenth sūkta. Here the Anukramaṇikā says: "Agne tvaṃ, Gaupāyanas or Laupāyanas: Bandhu, Subandhu, Śrutabandhu, Viprabandhu; he sang a dvipada", and it states that the twentieth (verse) is a dvipadā virāj. The deity is Agni. At the Mahāpitṛyajña the priests, going towards the Āhavanīya fire, are to mutter this sūkta; so it is laid down in the sūtra: "Then they approach him, muttering मा प्र गामाग्ने त्वं न इति जपंतः (*mā pra gāmāgne tvaṃ na iti japaṃtaḥ*)", Ā. 2-19.
 
 ---
 
