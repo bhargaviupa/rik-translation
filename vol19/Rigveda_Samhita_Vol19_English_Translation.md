@@ -1998,6 +1998,245 @@ Wise worshippers exalt you, Agni, the bountiful giver of food, the deservedly la
 विप्राः (*viprāḥ*)—The word vipra is read among the names of the wise (Ni. 3-19); it means intelligent people. This word is also used in the sense of the officiating priests who take part in the sacrifice and of the praisers. There is the explanation of Durgācārya: विविधानर्थानस्य प्राप्तुं धातीति विप्रः (*vividhānarthānasya prāptuṃ dhātīti vipraḥ*). Saying that medhāvin means one who possesses intellect, Yāska states the etymology मेधावी कस्मान्मेधया तद्वान् भवति । मेधा मता धीयते । (*medhāvī kasmānmedhayā tadvān bhavati | medhā matā dhīyate |*) (Ni. 3-19). Asking what a medhāvin is, he explains the meaning: the man in whose intellect there is excellent knowledge, a man who possesses such power of intellect.
 वाजसातमं सुष्टुतं विप्रा वर्धंति (*vājasātamaṃ suṣṭutaṃ viprā vardhaṃti*)—the people who, praising him with hymns and the like, offer oblations in the sacrifice, this Agni, the giver of food and praised by all, in the sacrifices with fuel and the like
 
+### Printed p. 59
+materials, and with oblations of ghee, make to blaze well (to burn brilliantly): such is the purport.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ ने॒मिर॒राइ॑व दे॒वांस्त्वं प॑रि॒भूर॑सि ।  
+> आ राध॑श्चि॒त्रमृं॑जसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । नेमिः । अरान् इव । देवान् । त्वं । परिभूः । असि ।  
+> आ । राधः । चित्रं । यंजसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं देवान् परिभूरसि । स्वतेजसा परिभवसि । कथमिव । देमि।
+> प्रकाशमानश्चक्रस्य वाह्यो वलयोऽरानिव नाभावर्पितान् सूक्ष्मान् स्थानकानिव :
+> किंच त्वं चित्रं नानाविधं राधः । साधयंत्यनेन पुरुषार्थानिति राधो धनं ।
+> आ ऋंजसे । स्तोतृभ्यः प्रसाधय । धननामसु पाठाद्राधो धनमित्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you surround the gods, that is, you surpass them by your own brilliance. How? Like the shining outer rim of a wheel, which encloses the spokes fixed in the nave, the fine supports, as it were. Moreover you bring about manifold राधः (*rādhaḥ*), riches: that by which men accomplish their aims is riches. Accomplish them for your praisers. Since the word is read among the names of wealth, it is said that riches means wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नेमिः (*nemiḥ*)—the outer rim of the wheel
+- अरानिव (*arāniva*)—as if encircling all the spokes inside the wheel
+- त्वं (*tvaṃ*)—you
+- देवान् (*devān*)—all the gods
+- परिभूरसि (*paribhūrasi*)—you surround and pervade
+- चित्रं (*citraṃ*)—manifold
+- राधः (*rādhaḥ*)—riches
+- आ ऋंजसे (*ā ṛṃjase*)—provide (for us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as the outer rim of a wheel surrounds all the spokes inside the wheel, you surround and pervade all the gods. May you, who have such greatness, fill us, your praisers, with manifold riches.
+
+##### English translation
+Agni, you encompass the gods as the circumference (surrounds) the spokes (of a wheel) : bestow manifold wealth upon us.
+### Printed p. 60
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्ने । नेमिः । अरान् इव । देवान् । त्वं । परिभूः । असि । (*agne | nemiḥ | arān iva | devān | tvaṃ | paribhūḥ | asi |*)—As in the wheel of a chariot the outer rim (Rim, or Tyre) surrounds and encloses the spokes (Spokes), Agni stays surrounding all the gods. That is, since he carries the oblation to all the gods, he stays near those gods; the purport is suggested that he goes to all the gods and returns for the carrying of the oblation.
+## Sūkta 14 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं स्तोमेनेति षडृचं चतुर्दशं सूक्तं सुतंभरस्सार्षं गायत्रमाग्नेयं । अग्निं स्तोमेनेत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+> अनुवादवु—अग्नि स्तोमेन ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हदिनाल्कनॆय
+> सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ सुतंभर आत्रेयः ऎंबुवनु ऋषियु ;
+> अग्नियु देवतॆयु ; गायत्रीछंदस्सु. अनुक्रमणिकॆयल्लि—अग्निं स्तोमेन ऎंदु मॊदलागि
+> हेळिरुवुदु. प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्रपठनक्कागि ई सूक्तद विनियोगविरुवुदॆंदु
+> हिंदिन सूक्तद विनियोगदल्लिये हेळलागिदॆ.
+> सूक्त—१४
+> ॥ मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—१४ ॥
+> ॥ अष्टक—४ ॥ अध्याय— १ ॥ वर्ग—६ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६
+> ॥ ऋषिः—सुतंभर आत्रेयः ॥
+> ॥ देवता—अग्निः ॥
+> ॥ छंदः—गायत्रि ॥
+
+##### Gist of the bhāṣya
+
+The fourteenth sūkta, अग्निं स्तोमेनेति (*agniṃ stomeneti*), has six Ṛks; its seer is Sutaṃbhara, its metre Gāyatrī, its deity Agni. The Anukramaṇikā says: अग्निं स्तोमेनेत्यनुक्रमणिका (*agniṃ stomenetyanukramaṇikā*). Its use at the Prātaranuvāka and in the Āśvina-śastra has been stated together with the preceding sūkta.
+### Printed p. 61
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यं ।  
+> ह॒व्या दे॒वेषु॑ नो दधत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । स्तोमेन । बोधय । संइधानः । अमत्यर्णं ।  
+> हव्या । देवेषु। नः । दधत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतरमर्त्यममरणधर्माणमग्निं स्तोमेन स्तोत्रेण बोधय ।
+> स्वाभिलषितार्थसिद्धये प्रबोधय । योऽग्निः समिधानः स्तोत्रैः सम्यक् प्रकाशमानः स नो हव्यास्मदीयानि हव्यानि हवींषि देवेषु दधत् । निदधातु ॥
+
+##### Gist of the bhāṣya
+
+O praiser, awaken Agni, the immortal, who has not the nature of dying, with praise, that is, with a hymn; awaken him thoroughly for the accomplishment of your desired aims. May that Agni, who is well kindled by hymns, that is, shines well, place our oblations among the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) अमूर्त्यं (*amūrtyaṃ*)—who is free from the nature of death
+- अग्निं (*agniṃ*)—Agni
+- स्तोमेन (*stomena*)—with praise
+- बोधय (*bodhaya*)—awaken
+- समिधानः (*samidhānaḥ*)—Agni, well kindled
+- नः (*naḥ*)—our
+- हव्या (*havyā*)—oblations
+- देवेषु (*deveṣu*)—to the gods
+- दधत् (*dadhat*)—may he take and place
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, awaken with praise Agni, who is free from the nature of death. May Agni, well kindled, take our oblations and place them among the gods.
+
+##### English translation
+Waken the immortal Agni with praise, that, being kindled, he may bear our oblations to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, the words "awaken Agni, who is free from the nature of death, with praise and the like" are said with reference to the praise. That is, the sacrificer who performs the sacrifice, addressing the priests such as the Adhvaryu, says "produce Agni by churning, with mantras"; this
+### Printed p. 62
+meaning is suggested here. How is Agni free from the nature of death? By offering to Agni fuel and oblations such as ghee, he is always shining without going out: this purport is suggested by the word अमर्त्यं (*amartyaṃ*). Since the churning of fire is one of the rites to be performed at the beginning of the sacrifice, the sacrificer is clearly praying to the Adhvaryu that he should produce Agni by churning; to the Hotṛ that he should recite the mantras prescribed for that churning; to the Udgātṛ that he should sing the Sāma mantras such as the Stoma; to the other priests that they should offer in the fire oblations and the like for the gods; and finally to Agni that he should carry the oblations offered to the gods who are intended.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ध्व॒रेष्वी॑ळते दे॒वं मर्ता॒ अम॑त्यर्णं ।  
+> यजि॑ष्ठं॒ मानु॑षे॒ जने॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अध्वरेषु । ईळते । देवं । मर्ताः । अनूर्त्यं ।  
+> यजिष्ठं । मानुषे । जने ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्ता मनुष्या देवं द्योतमानममर्त्यममरणधर्माणं मानुषे
+> मनुष्याणां संबंधिनि जने लोके यजिष्ठं यष्टृतमं तमग्निमध्वरेषु सप्ततंतुष्वीळते । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Mortals, that is, men, praise at the sacrifices with seven strands that Agni, the shining, immortal one, who has not the nature of dying, the best sacrificer in the world of men, that is, among the people connected with men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवं (*devaṃ*)—the shining one
+- मानुषे (*mānuṣe*)—connected with man
+- लोके (*loke*)—in the world
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worshipful
+- अमर्त्यं (*amartyaṃ*)—free from the nature of death
+- तं (*taṃ*)—Agni
+- मर्ताः (*martāḥ*)—men
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Men praise in the sacrifices Agni, the shining one, the most worshipful in the human world, who is free from the nature of death.
+### Printed p. 63
+
+##### English translation
+Mortals worship him, an immortal divinity, at their sacrifices, most adorable among the human race.
+
+##### विशेषविषयगळु (Special Topics)
+
+मानुषे लोके अध्वरेषु मर्त्याः (*mānuṣe loke adhvareṣu martyāḥ*) praise: in the world of men, that is, on this earth, in the sacrificial rites proceeding on the sacrificial altar, men who are sacrificers praise Agni with various praises: this is the purport.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं हि शश्वं॑त॒ ईळ॑ते स्रु॒चा दे॒वं धृ॑त॒श्चता॑ ।  
+> अ॒ग्निं ह॒व्याय॒ वोळ्ह॑वे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । हि । शश्वंतः । ईळते । स्रुचा । देवं । धृतश्चता ।  
+> अग्निं । हन्याय । वोळ्हवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शश्वंतो बहवः स्तोतारस्तं देवमग्निमीळते । स्तुवंति । कीदृशास्ते ।
+> धृतश्चुता धृतं क्षरंत्या स्रुचा सहिताः । किमर्थं स्तुवंति । हव्याय हव्यवहनार्थं
+> चरुपुरोडाशादिलक्षणं हनिर्वोढने वोढुं ॥
+
+##### Gist of the bhāṣya
+
+The many praisers praise that god Agni. What are they like? They are provided with a ladle that pours ghee. For what purpose do they praise him? For the carrying of the oblation, which has the form of cooked rice, cake and the like, to carry it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- घृतश्चुता (*ghṛtaścutā*)—who pour streams of ghee
+- स्रुचा (*srucā*)—provided with the oblation-vessel
+- शश्वंतः (*śaśvaṃtaḥ*)—many praisers
+- देवं (*devaṃ*)—who is of divine nature
+- तं अग्निं (*taṃ agniṃ*)—that same Agni
+- हव्याय (*havyāya*)—the oblation
+- वोढवे (*voḍhave*)—in order to carry (to the gods)
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Many praisers, provided with the oblation-vessel that pours streams of ghee, praise that same Agni, who is of divine nature, in order to carry the oblation to the gods.
+### Printed p. 64
+
+##### English translation
+Numerous (worshippers), pouring out butter from the (sacrificial) ladle, glorify him, the divine Agni, that he may convey their oblation (to the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+धृतश्चुता—धृतं क्षरंत्या स्रुचा । (*dhṛtaścutā—dhṛtaṃ kṣaraṃtyā srucā |*) Pouring ghee; that is, when making an offering they fill wooden ladles with ājya (clarified butter) and offer it in the fire. Those ladles are called sruk. Because ghee is poured into the fire from such ladles, they are described by the word धृतश्चुता (*dhṛtaścutā*).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्जा॒तो आ॑रोचत॒ घ्नन्दस्यू॒इज्ज्योति॑षा॒ तमः॑ ।  
+> अविं॑द॒द्दा अ॒पः स्वः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । जातः । अरोचत । घन् । दस्यून् । ज्योतिषा । तमः ।  
+> अविंदत् । गाः । अपः । स्वरिति स्वः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातोऽरण्योर्मथनेन प्रादुर्भूतोऽग्निर्दस्यून् यज्ञविघ्नकारिणः शत्रून्
+> घन् हिंसन् ज्योतिषा स्वेन तेजसा तमो घन्नरोचत । अदीप्यत । किंच गा अप
+> उदकानि स्वः सूर्यं चाविंदत् । अवेदयत् ॥
+
+##### Gist of the bhāṣya
+
+Agni, born, that is, manifested by the churning of the two fire-sticks, slaying the dasyus, the enemies who obstruct the sacrifice, shone, that is, blazed, destroying the darkness by his own light, his own brilliance. Moreover he found गा (*gā*), the waters, and svar, the sun: he made them known. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- जातः (*jātaḥ*)—as soon as he is born
+- दस्यून् (*dasyūn*)—the enemies who cause obstruction to the sacrifice
+- घन् (*ghan*)—destroying
+- ज्योतिषा (*jyotiṣā*)—by his own radiance
+- तमः (*tamaḥ*)—the darkness (driving away)
+- आरोचित (*ārocita*)—he shone
+- गाः (*gāḥ*)—the cows
+- अपः (*apaḥ*)—the waters
+- स्वः (*svaḥ*)—the sun (Āditya)
+- अविंदत् (*aviṃdat*)—he made manifest
+
 ---
 
-**Progress note:** Done through printed p. 58. Sūkta 13 Ṛks 1-5 (to the Special Topics of Ṛk 5), pp. 53-58
+**Progress note:** Done through printed p. 64. Sūkta 13 Ṛk 6, Sūkta 14 Ṛks 1-4 (to the Pratipadārtha), pp. 59-64
