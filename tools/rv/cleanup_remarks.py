@@ -105,7 +105,32 @@ def kind_asprinted(L):
     for i, l in enumerate(L):
         if '[as printed]' in l: rm[i] = re.sub(r'\s?\[as printed\]', '', l)
     return rm
-KINDS = {'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+FP = re.compile(r"\b(I|my|mine|me|myself)\b|\bof my own\b")
+REMARKW = re.compile(r'print|read|reading|scan|flag|reference|digit|spelling|transcrib|attempt|render|sure|unclear|hard|doubt|guess|tentative|note|correct|marks?\b|confiden|illegible|not (give|translate)', re.I)
+def fp_remark(sent):
+    out = re.sub(r'"[^"]*"|“[^”]*”|\*[^*]*\*', '', sent)       # words inside quotations / italics are the text's, not ours
+    return bool(FP.search(out)) and bool(REMARKW.search(out))
+def kind_firstperson(L):
+    rm = {}
+    for i, l in enumerate(L):
+        m = NOTE.fullmatch(l)
+        if not m or 'tentative' in l: continue
+        body = m.group(2)
+        if '*(' in body or ')*' in body or '**' in body: continue
+        ss = sentences(body)
+        keep = [x for x in ss if not fp_remark(x)]
+        if len(keep) == len(ss): continue
+        rm[i] = None if not keep else m.group(1) + '*(' + ' '.join(keep) + ')*'
+    return rm
+ASP = re.compile(r'\s?\[[^\[\]\n]{0,220}?as printed[^\[\]\n]{0,220}?\]')
+def kind_asprinted2(L):
+    rm = {}
+    for i, l in enumerate(L):
+        if 'as printed' not in l: continue
+        n = ASP.sub(lambda m: m.group(0) if re.search('[\u0900-\u097f*]|sic|^\\s?\\[\\?', m.group(0)) else '', l)
+        if n != l: rm[i] = n
+    return rm
+KINDS = {'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
