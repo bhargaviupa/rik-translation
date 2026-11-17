@@ -3209,6 +3209,267 @@ Metre: 1-4, anuṣṭubh; 4, paṅkti. **NOTE**
 
 "Puru-priya" is "much loved". "Viśaḥ" is the one who establishes wealth in the sacrificer. He is the "atithi" (guest): one who comes to the houses of the sacrificers on the lunar days (tithi). So Yāska says: अतिथिरभ्यतितो गृहान्भवत्य- (*atithirabhyatito gṛhānbhavatya-*) (the passage breaks off at the end of this page and continues in the next window).
 
+### Printed p. 89
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भ्येति तिथिषु परकुलानीति वा परगृहाणीति वा । नि. ४-५ । इति ॥ एवंविधोऽग्निः
+> प्रातः स्तवेत । स्तूयते । अमर्त्योऽमरणधर्मा योऽग्निर्मतेषु मनुष्येषु
+> यजमानेषु स्थितानि विश्वानि सर्वाणि हव्या हव्यानि हवींषि रण्यति कामयते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the quotation from Yāska: भ्येति तिथिषु परकुलानीति वा परगृहाणीति वा (*bhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā*) (Ni. 4-5), that is, one who comes on the lunar days to the families of others or to the houses of others. Such an Agni is praised in the morning ("prātaḥ", "stūyate"). The immortal Agni (one whose nature is not to die) desires ("kāmayate") all the oblations that are placed among mortals, that is, among the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्यः (*amartyaḥ*)—who is free from the nature of death
+- यः (*yaḥ*)—which Agni
+- मर्त्येषु (*martyeṣu*)—that are with the sacrificers
+- विश्वानि (*viśvāni*)—all
+- हव्या (*havyā*)—oblations
+- रण्यति (*raṇyati*)—desires, of such a kind
+- पुरुप्रियः (*purupriyaḥ*)—who is wanted by many
+- विशः (*viśaḥ*)—for the sacrificers
+- अतिथिः (*atithiḥ*)—worthy of worship like a guest
+- अग्निः (*agniḥ*)—Agni
+- प्रातः (*prātaḥ*)—at the time of dawn
+- स्तवेत (*staveta*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+The immortal Agni, who desires all the oblations that are with the sacrificers, who is wanted by many and is worthy of worship for the sacrificers like a guest, is praised at the time of dawn.
+
+##### English translation
+Let Agni, the beloved of many, the guest of man, be present at dawn; he who, immortal, desires the oblations of mortals.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वि॒ताय॑ मृ॒क्तवा॑हसे॒ स्वस्य॒ दक्ष॑स्य मं॒हना॑ ।  
+> इंदुं॒ स ध॑त्त अनु॒षक्को॒ता चि॑त्ते अमर्त्य ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विताय । मृक्तवाहसे । स्वस्य । दक्षस्य । मंहना ।  
+> इंदुं । सः । धत्ते । आनुषक् । स्तोता । चित् । ते । अमर्त्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने द्विताय द्वितपुत्राय मृक्तवाहसे । मृक्तं शुद्धं हविर्देवेभ्यो
+> वहति प्रापयतीति मृक्तवाहाः । तस्मै स्वस्यात्मीयस्य दक्षस्य बलस्य धनस्य ना मुंहना
+
+##### Gist of the bhāṣya
+
+"O Agni, to Dvita", that is, the son of Dvita, who is "mṛktavāhas": one who carries ("vahati", "prāpayati") pure ("mṛkta", "śuddha") oblation to the gods. To him, for your own ("svasya", "ātmīyasya") "dakṣa", that is, strength or wealth, be of a giving mind (मंहना (*maṃhanā*) is explained as "for giving") **NOTE**.
+
+### Printed p. 90
+
+> मंहनाय्कॆ दानाय भव । हे अमर्त्य नित्याग्ने यतः कारणात्ते तुभ्यं स मृक्तवाहा आनुषक् सर्वदानुषक्तमिंदुं सोमं धत्ते धारयति स्तोता चित् स्तोता
+> च भवति ॥
+
+##### Gist of the bhāṣya
+
+"O immortal, eternal Agni": because that Mṛktavāhas, always attached to you, holds the "indu", the Soma, and is also your praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) मृक्तवाहसे (*mṛktavāhase*)—who has pure oblation to offer to you
+- द्वितायद्वितनिगॆ (*dvitāyadvitanigè*)—to Dvita
+- स्वस्य (*svasya*)—your own
+- दक्षस्य (*dakṣasya*)—strength
+- मंहना (*maṃhanā*)—be one with a mind to give
+- अमर्त्य (*amartya*)—O Agni, free from the nature of death
+- सः (*saḥ*)—that Dvita, the Mṛktavāha
+- आनुषक् (*ānuṣak*)—at all times
+- तुभ्यं (*tubhyaṃ*)—to offer, with you in view
+- स्तोता चित् (*stotā cit*)—reciting praise
+- इंदुं (*iṃduṃ*)—the Soma
+- धत्ते (*dhatte*)—holds
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be of a mind to give your own strength to Dvita, who has pure oblation to offer to you. O Agni, free from the nature of death, that Dvita, the Mṛktavāha, at all times, reciting your praise, holds the Soma in order to offer it to you.
+
+##### English translation
+Be (willing to make) a grant of your own strength to Dwita, the bearer of the pure oblations ; for he, immortal Agni, your diligent praiser, brings to you continually the Soma juice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो॑ दी॒र्घायु॑शोचिषं गि॒रा हु॑वे म॒घोनां॑।  
+> अरि॑ष्टो॒ येषां॒ रथो॒ व्य॑श्वदाव॒न्नीय॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । दीर्घायुशोचिषं । गिरा । हुवे । मघोनां ।  
+> अरिष्टः । येषां । रथः । वि । अश्वदावन् । ईयते ॥ ३ ॥
+
+### Printed p. 91
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने दीर्घायुशोचिषं दीर्घगमनदीप्तिं तं वः । पूजायां बहुवचनं । त्वां मघोनां धनिनां कृते गिरा स्तोत्रेण हुवे । आह्वयामि । हे
+> अश्वदावन्नश्वानां दातर्येषां धनिनां रथो युद्धॆष्टरिष्टः शत्रुभिरहिंसितो
+> वीयते विगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you whose brightness travels far": "vaḥ" is a plural used in honour (of the one addressed). I invoke ("huve", "āhvayāmi") you with praise on behalf of the wealthy ("maghonām"). "O giver of horses": of whichever wealthy men the chariot goes forth ("vīyate", "vigacchatu") unharmed ("ariṣṭaḥ") by enemies in battles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) दीर्घायुशोचिषं (*dīrghāyuśociṣaṃ*)—who have been shining for many ages
+- तं वः (*taṃ vaḥ*)—you, the renowned
+- मघोनीं (*maghonīṃ*)—on behalf of the wealthy
+- गिरा (*girā*)—with praise
+- हुवे (*huve*)—I pray and call
+- अश्वदावन् (*aśvadāvan*)—O Agni, giver of horses
+- येषां (*yeṣāṃ*)—of those same wealthy men
+- रथः (*rathaḥ*)—the chariot
+- आरिष्टः (*āriṣṭaḥ*)—not harmed by enemies (in battles)
+- वि ईयते (*vi īyate*)—may travel happily
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who have been shining for many ages and are renowned, I praise and call you on behalf of the wealthy. O Agni, giver of horses, may the chariot of those same wealthy men travel happily in battles, not harmed by enemies.
+
+##### English translation
+I invoke you bright-shining, through a long life, with praise, (for the benefit) of the affluent, that their chariot, giver of horses, may proceed unimpeded.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒त्रा ना॒ येषु॒ दीधि॑तिरा॒सन्नु॒क्था पांति॒ ये ।  
+> स्त्री॒र्णं ब॒र्हिः स्व॑र्णरे॒ श्रवां॑सि दधिरे॒ परि॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रा । वा । येषु । दीधितिः । आसन् । उक्षा । पांति । ये ।  
+> स्त्रीर्णं । बर्हिः । स्वःऽनरे । श्रवांसि । दधिरे । परि ॥ ४ ॥
+
+### Printed p. 92
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येष्टृत्वीक्षु चित्रा नानाविधा दीधितिर्यज्ञविषया क्रिया भवति । ये
+> आसन्नास्य उक्कोक्कानि स्तोत्राणि पांति रक्षंति तैऋत्विग्भिः स्तीर्णं स्तीर्णस्य बर्हिबर्हिषः पर्युपरि श्रवांस्यन्नानि हवींषि स्वर्णरे । स्वः स्वर्गं नरं यजमानं
+> नयतीति स्वर्णरो यज्ञः । तस्मिन्दधिरे । निधीयंते ॥
+
+##### Gist of the bhāṣya
+
+Among whichever priests there is ("bhavati") varied ("citrā", "nānāvidhā") "dīdhiti", that is, action concerning the sacrifice; who guard in their mouths ("āsan", "āsye") the "ukthāni", that is, the hymns: by those priests, upon the strewn ("stīrṇam") sacred grass ("barhiḥ"), the "śravāṃsi", that is, foods and oblations, are placed ("dadhire", "nidhīyante") in the "svarṇara": "svar" is heaven, and that which leads ("nayati") the sacrificer ("nara") there is the sacrifice, "svarṇara".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषु (*yeṣu*)—among whichever priests
+- चित्रा (*citrā*)—of many kinds
+- दीधितिः (*dīdhitiḥ*)—actions concerning the sacrifice are performed
+- ये (*ye*)—who
+- आसन् (*āsan*)—in their mouths
+- उक्ता (*uktā*)—the hymns
+- पांति (*pāṃti*)—guard (by such priests)
+- स्तीर्णं (*stīrṇaṃ*)—widely spread
+- बर्हिः परि (*barhiḥ pari*)—upon the seats of sacred grass
+- श्रवांसि (*śravāṃsi*)—(foods) oblations
+- स्वर्णरे (*svarṇare*)—in the sacrifice that leads the sacrificer to heaven
+- दधिरे (*dadhire*)—are placed
+
+##### भावार्थ (Bhāvārtha)
+
+Those priests who are renowned for performing sacrificial rites of many kinds, who always recite the hymns from their mouths and so guard them, place the oblations, for the sacrificer, upon the widely spread seats of sacred grass in the sacrifices that lead to heaven.
+
+##### English translation
+Amongst whom the ceremonial of many kinds is observed ; who perpetuate the sacred hymns by their recital ; by them the sacrificial viands are placed upon the strewn grass (at the sacrifice which) leads (the worshipper) to heaven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये मे॑ पंचा॒शतं॑ द॒दुरश्वा॑नां स॒धस्तु॑ति ।  
+> द्यु॒मद॑ग्ने॒ महि॒ श्रवो॑ बृ॒हत्कृ॑धि म॒घोनां॑ नृ॒वद॑मृत नृ॒णां ॥ ५ ॥
+
+### Printed p. 93
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । मे । पंचाशतं । ददुः । अश्वानां । सधस्तुति ।  
+> द्युमत् । अग्ने । महि । श्रवः । बृहत् । कृधि । मघोनां । नृवत् ।  
+> अमृत । नृणां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मघवानो दातारो मे मह्यं सधस्तुति स्तुत्या सहितं त्वत्सोत्रसमनंतरमश्वानां पंचाशतं ददुः हे अमृताग्ने त्वं तेषां मघोनां नृणां
+> द्युमत् दीप्तिमन्महि महद्बृहत्परिवृढं नृवत्परिचारकमनुष्ययुक्तर श्रवोऽन्नं
+> कृधि । कुरु । देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The liberal wealthy men who gave me fifty horses together with praise ("sadhastuti"), that is, immediately after the praise of you: "O immortal Agni", for those wealthy men make ("kṛdhi", "kuru"; the meaning is "give") splendid ("dyumat", "dīptimat"), great ("mahi", "mahat"), abundant ("bṛhat", "parivṛḍham") food ("śravaḥ", "annam"), accompanied by men who attend ("nṛvat", "paricārakamanuṣyayukta").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृत (*amṛta*)—O Agni, free from death
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—those wealthy givers who
+- मे (*me*)—to me
+- सधस्तुति (*sadhastuti*)—immediately after (praising you on their behalf)
+- पंचाशतं (*paṃcāśataṃ*)—fifty
+- अश्वानां (*aśvānāṃ*)—horses
+- ददुः (*daduḥ*)—gave, of such a kind
+- मघोनां (*maghonāṃ*)—wealthy
+- नृणां (*nṛṇāṃ*)—for men
+- द्युमत् (*dyumat*)—splendid
+- महि (*mahi*)—great
+- बृहत् (*bṛhat*)—exceedingly abundant
+- नृवत् (*nṛvat*)—accompanied by sons, grandsons and others
+- श्रवः (*śravaḥ*)—the wealth of food
+- कृधि (*kṛdhi*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O immortal Agni, for those wealthy men on whose behalf I praised you, and who immediately gave me fifty horses, provide wealth of food that is splendid, great, exceedingly abundant and accompanied by sons, grandsons and others.
+
+##### English translation
+Immortal Agni, bestow upon those opulent men, who, upon (my) praise (of you), gave to me fifty horscs, and brilliant, ample, and abundant food, (supporting numerous) dependents.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer says that he has praised Agni on behalf of the wealthy, prays Agni to provide them with wealth such as food, and so praises the generosity of the wealthy.
+
+### Printed p. 94
+## Sūkta 19 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्यवस्था इति पंचर्चं पंचमं सूक्तं । अत्रेयमनुक्रमणिका । अभ्यवस्था
+> वन्रिर्गायत्र्यावनुष्टुभौ विराड्रूपेति । आत्रेयो वन्रिऋषिः । प्रथमाद्वितीये
+> गायत्र्यौ तृतीयाचतुर्थ्यावनुष्टुभौ पंचमी विराड्रूपा एकादशिनस्त्रयोऽष्टकश्च
+> विराड्रूपेत्युक्तलक्षणोपेतत्वात् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अभ्यवस्था (*abhyavasthā*) has five ṛks and is the fifth sūkta. Here the Anukramaṇikā says: अभ्यवस्था वन्रिर्गायत्र्यावनुष्टुभौ विराड्रूपेति (*abhyavasthā vanrirgāyatryāvanuṣṭubhau virāḍrūpeti*). The seer is Vanri Ātreya **NOTE**. The first and second ṛks are gāyatrī, the third and fourth are anuṣṭubh, the fifth is virāḍrūpā, since it has the characteristic stated in एकादशिनस्त्रयोऽष्टकश्च विराड्रूपेत्युक्तलक्षणोपेतत्वात् (*ekādaśinastrayo 'ṣṭakaśca virāḍrūpetyuktalakṣaṇopetatvāt*).
+
+Anuvāda: The sūkta अभ्यवस्थाः (*abhyavasthāḥ*) is the fifth sūkta in the second anuvāka. It has five ṛks. In the Anukramaṇikā it is said: अभ्यवस्था वन्विर्गायत्रावनुष्टुभौ विराडूपा (*abhyavasthā vanvirgāyatrāvanuṣṭubhau virāḍūpā*). The seer of this sūkta is Vanvi Ātreya; the deity is Agni; the first two ṛks are in the gāyatrī metre, the third and fourth in the anuṣṭubh metre, the fifth in the metre called virāḍūpā. The characteristic of this metre, virāḍūpā, is stated as: the first three pādas of the ṛk have eleven syllables each and the fourth pāda has eight syllables.
+Sūkta 19
+Maṇḍala 5; Anuvāka 2; Sūkta 19.
+Aṣṭaka 4; Adhyāya 1; Varga 11.
+Number of ṛks in the sūkta: 5.
+Seer: Vavri Ātreya.
+Deity: Agni.
+Metre: 1, 2, gāyatrī; 3, 4, anuṣṭubh; 5, virāḍrūpā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑व॒स्थाः प्र जा॑यंते॒ प्र व॒व्रेर्व॒व्रिश्चि॑केत ।  
+> उ॒पस्थे॑ मा॒तुर्वि च॑ष्टे ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 88. Vol 19 pp. 83-88: Sukta 17 rks 2-5, start of Sukta 18
+**Progress note:** Done through printed p. 94. Vol 19 pp. 89-94: Sukta 18 rks 1-5, start of Sukta 19
