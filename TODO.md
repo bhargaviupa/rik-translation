@@ -2,7 +2,7 @@
 
 *One list at the root, so that nothing parked is forgotten. Each point says what is done for now and what remains. Add to it; do not let it grow stale: strike a point when it is settled and say where.*
 
-**Publication of Vols 1–3 has its own list: `PUBLICATION_TODO.md`.**
+**Publication of all volumes has its own list: `PUBLICATION_TODO.md`.**
 
 ## Text
 

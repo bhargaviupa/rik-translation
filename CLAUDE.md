@@ -26,7 +26,7 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 `tools/rv/` pipeline (`batch.py`, `html_to_kn.py`, `html_pages.py`, `convert.py`, `check_inline.py`, `BRIEF.md`, `RUNBOOK.md`) · `publish/volbook.py` + `publish/tools/` print build, transliteration, accents, front matter · `refs/mandala/` accented reference · `docs/HANDBOOK.md` everything else (§4 inputs, §5 new volume, §7 formats, §8 publication, §11 finishing checklist, §14 session hygiene, §15 keep improving) · `docs/LESSONS.md`, `docs/REPO_REVIEW.md`.
 
 ## Publication list
-`PUBLICATION_TODO.md` (root) is the user's one list for publishing Vols 1–3: any session that works on those volumes ticks what it finished (with the date), adds what it found, and updates the counts and "Last updated".
+`PUBLICATION_TODO.md` (root) is the user's one list for publishing all volumes: any session that works on a volume ticks what it finished (with the date), adds what it found, and updates the counts and "Last updated".
 
 ## Session hygiene
 Cloud sessions are ephemeral: commit **and push** anything worth keeping. One long job at a time. `pip install indic-transliteration rapidfuzz openpyxl` at session start; fonts/WeasyPrint only for PDF builds (§8). Quote sizes and counts only from finished commands.
