@@ -570,6 +570,240 @@ Powerful Agni, bestow upon us the institutors (of pious rites), that wealth (whi
 
 The sūkta "Agna ojiṣṭham", of seven Ṛks, is the tenth. The seer and the rest and the use are as before. The fourth and the seventh Ṛks are Paṅkti. The Anukramaṇī says accordingly: "Agna ojiṣṭham, with the last and the fourth Ṛk, Paṅkti".
 
+### Printed p. 21
+
+#### Ṛk 1
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ मंडल-५ ॥ अनुवाक - १ ॥ सूक्त-१० ॥
+> ॥ अष्टक-४ ॥ अध्याय १ ॥ वर्ग-२ ॥
+> सूक्तदल्लिरुव युक्तसंख्यॆ -७
+> ॥ ऋषिः- गय आश्रेयः ॥
+> ॥ वेदः - १२ ॥
+> ॥ छंदः १-३, ५-६, अनुष्टुप् । ४, ७, पंक्तिः ॥
+> ॥ सहिताशापः ॥
+> अग्न ओजिष्ठमा भर द्युम्ममस्मभ्यमध्रिगोः ।
+> प्र नो राया परीणसा रत्सि वाजाय पंथां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । ओजिष्ठं । आ । भर । द्युम्नं । अस्मभ्यं । अध्रिगो इत्यधिरगो ।  
+> प्र । नः । राया । परीणसा । रत्सि । वाजाय । पंथां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ओजिष्ठं बलवत्तमं द्युम्नं । द्योतते कटकमुकुटादिरूपेण
+> सर्वत्र प्रकाशत इति द्युम्नं धनं । अस्मभ्यमा भर । अहर । हे अध्रिगोः आधृतगमन ।
+> आधृतमप्रतिहतं गमनं यस्येत्यधृता अनिवारिता गावो रश्मयो यस्येति वाधृतगुरुध्रिगुः । तस्य संबोधनं । नोऽस्मान् परीणसा परितो व्यापकेन राया
+> धनेन प्रकर्षण योजय । वाजायान्नलाभाय पंथां पंथानमन्नस्य मत्समीपप्राप्ति साधनं मार्गं रत्सि । विलख । कुर्वित्यर्थः ॥ ओजिष्ठं । उब्ब आर्जवे । उच्चेर्बलोपश्चेत्यसुन् बलोपश्च । गुणः । ओजः । तदस्यास्तीत्यर्थेऽस्म्यायामेधेत्यादिना विनिः । अतिशायन इतीष्ठन् । विन्मतोर्लुक् । टेरिति टिलोपः । नित्वादाद्युदात्तः । द्युम्नं । द्युत दीप्तावित्यस्माद्घातोः सुम्मद्युम्ननिम्मॆत्यादिना नक्ष्रत्ययो
+> मकारश्चांतादेशो निपात्यते । प्रत्ययस्वरेणांतोदात्तः । अध्रिगो । आधृतशब्दस्य
+> अध्या देशः । गोशब्द स्कोपसर्जनह्रस्वत्वं । आमंत्रितस्य निघातः । परीणसा ।
+
+##### Gist of the bhāṣya
+
+O Agni, bring to us the most powerful (ojiṣṭham) dyumna, that is, wealth; it is called dyumna because it shines everywhere in the form of bracelets, crowns and the like. "Adhrigu" is a form of address: O you whose going is unobstructed, unrestrained; or else, one whose cows, that is, rays, are unrestrained. Join us (naḥ) with wealth (rāyā) that extends on every side (parīṇasā). For the gain of food (vājāya) make (ratsi, cut out) a path (panthām), a road that is the means of reaching food near us: such is the meaning.
+
+> णस कौटिल्येऽत्र व्याप्त्यर्थो धातूनामनेकार्थत्वात् । अस्मात्संपदादिलक्षणो
+
+### Printed p. 22
+
+> भावे क्विप् । परि प्राप्तं नस् व्यापनं यस्य तत्तथोक्तं । उपसर्गादसमासेऽपीति
+> णत्वं । अत्र प्रापणक्रियया युक्तस्य परेर्णसतिं प्रत्युपसर्गसंज्ञा नास्ति यत्कियायुक्तास्तं प्रति गत्युपसर्गसंज्ञाः । पा. १-४-६०-३ । इति न्यायात् । अतः कथं
+> णत्वं । एवं तर्हुपसर्गाद्बहुलमिति वचनात् णसो णत्वं भविष्यति । निपातस्य
+> चेति पूर्वपदस्य दीर्घः । बहुव्रीहौ प्रकृत्येति पूर्वपदप्रकृतिस्वरत्वं । रत्सि । रद
+> विलेखने । भौवादिकः । बहुलं छंदसीति शपो लुक् । पादादित्वान्निघाताभावः ।
+> पंथां । द्वितीयैकवचन इतोऽत् सर्वनामस्थान इत्यत् । नकारलोपश्चांदसः ।
+> पथिमथोः सर्वनामस्थान इत्याद्युदात्तत्वं ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्रिगो (*adhrigo*)—having an unobstructed power of going
+- अग्ने (*agne*)—O Agni
+- ओजिष्ठं (*ojiṣṭhaṃ*)—the most powerful
+- द्युम्नं (*dyumnaṃ*)—and shining wealth
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- आ भर (*ā bhara*)—bring and supply
+- नः (*naḥ*)—us
+- परीणसा (*parīṇasā*)—extending everywhere
+- राया (*rāyā*)—with wealth
+- प्र (*pra*)—make us full
+- वाजाय (*vājāya*)—for the gain of food for us
+- पंथां (*paṃthāṃ*)—the right path
+- रत्सि (*ratsi*)—construct for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose power of going is unobstructed, bring us the most powerful and shining wealth. Make us full, possessed of wealth that extends everywhere. Construct for us the right path for the gain of food.
+
+##### English translation
+Agni, of irresistible prowess, bring to us most powerful treasure; (invest us) with surrounding wealth ; mark out the paths to abundance.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने अद्भुत॒ क्रत्वा॒ दक्ष॑स्य मं॒हना॑ ।  
+> त्वे अ॑सु॒र्य१॒॑गमारु॑हत्का॒णा मि॒त्रो न य॒ज्ञयः॑ ॥ २ ॥
+
+### Printed p. 23
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । अद्भुत । क्रत्वा । दक्षस्य । मंहना ।  
+> त्वे इति । असुर्यं । आ । अरुहत् । क्राणा । मित्रः । न । यज्ञियः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अद्भुत सामर्थ्यतिशयेन सर्वॆषामाश्चर्यभूत त्वं नोऽस्माकं
+> क्रत्वा कर्मणास्मत्कृतेन यज्ञादिव्यापारेण प्रीतः सन् दक्षस्य बलस्य धनस्य वा
+> मंहनामंहनं नाम दानं कुर्विति शेषः। यतः कारणत्वे त्वय्यसुर्यमसुरघ्नं
+> बलमारुहत् आरूढं अतो मित्रो न सूर्य इव यज्जियो यज्ञार्हस्त्वं
+> क्राणा यज्ञघातकराक्षसापनोदनलक्षणानि कर्माणि कुर्वाणो भव ॥ अद्भुत
+> आमंत्रितस्याद्युदात्तत्वं । क्रत्वा । डुकृञ् करणे । कृञ्: कतुरिति कतुप्रत्ययः ।
+> ककारो गुणवृद्धिप्रतिषेधार्थः । यणादेशः । क्रतुः कर्म । तृतीयैकवचने जसादिषु वावचनमिति वचनान्नाभावाभावः । दक्षस्य । दक्ष गतिहिंसनयोः । दक्ष्यंते
+> हिंस्यंतेऽनेन शत्रव इति दक्षं बलं । करणाधिकरणयोश्चति घञ् । इत्त्वादाद्युदात्तः । मंहना । मंहतिर्दानकर्मा । सुपां सुलुगित्याकारादेशः । त्वे । सुपां
+> सुलुगित्यादिना जितीः शेआदेशः । सुबादेशत्वाद नुदात्तः । त्वशब्दः प्रत्ययस्वरेणांतोदात्तः । एकादेश उदातेनोदात्त इत्येकादेशस्योदात्तत्वं । आरुहत् ।
+> रुहेर्धाटोर्लुजु कृमृद्यरुहिभ्यश्चंदसीति चेरजादेशः । जित्त्वाद्गुणाभावः ।
+> क्राणा । डुकृञ् करणे शानच् । बहुलं छंदसीति विकरणस्य लुक् । यणादेशः ।
+> सुपां सुलुगित्यात्वं । चित इत्यंतोदात्तः । यज्ञियः । यज्ञमर्हतीत्यस्मिन्नर्थे
+> यज्ञर्तिग्भ्यां घखञाविति घः । प्रत्ययस्वरेणांतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, marvellous (adbhuta), a wonder to all through the excess of your power: you, pleased by our work (kratvā), our sacrificial activity and the like, grant (kuru is to be supplied) the gift called mamhana of strength or of wealth (dakṣasya). Since the strength that slays the asuras has risen (ārohat) in you, therefore, being worthy of sacrifice (yajñiyaḥ) like Mitra, that is, like the Sun, be a doer (kraṇā) of deeds that consist in driving away the rākṣasas who destroy the sacrifice.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्भुत (*adbhuta*)—possessed of supernatural power
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our
+- क्रत्वा (*kratvā*)—(being pleased) by the works
+- दक्षस्य (*dakṣasya*)—of strength
+- मंहना (*maṃhanā*)—produce abundance (in us)
+- त्वे (*tve*)—in you
+- असुरं (*asuraṃ*)—the strength that destroys enemies
+- आरुहत् (*āruhat*)—has spread
+- मित्रो न (*mitro na*)—like the god Mitra
+- यज्ञियः (*yajñiyaḥ*)—you who are worthy of worship
+- क्राणा (*krāṇā*)—are a doer of wonderful deeds
+
+### Printed p. 24
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessed of supernatural power, you, pleased by our sacrifices and other works, produce for us strength that is most abundant and great. In you the strength that destroys enemies has spread. You, worthy of worship like the god Mitra, are a doer of wonderful deeds.
+
+##### English translation
+Marvellous Agní, (gratified) by our acts, (produce) in us greatness of vigour : in you abides the strength destroying evil spirits : you who are to be worshipped, like Mitra, are the doer (of great deeds).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्न एषां॒ गयं॑ पु॒ष्टिं च॑ वर्धय ।  
+> ये स्तोमे॑भिः॒ प्र सू॒रयो॒ नरो॑ म॒घान्या॑न॒शुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । एषां । गयं । पुष्विं । च । वर्धय ।  
+> ये । स्तोमेभिः । प्र । सूरयः । नरः । मघानि । आनशुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमेषां नस्त्वत्सावकानामस्माकुं गयं । गम्यते निवासायेति
+> गयं गृहं गीयते स्तूयत इति ना गयं धनं । पुष्टिं च गवादिविषयां पुष्टिं
+> च वर्धय । प्रापय । वृद्धिं प्रापय । ये लोके प्रसिद्धाः सूरयो लब्धवर्णा
+> नरः स्तोतारो मनुष्याः स्तोमेभिः स्तोमैः स्तोत्रैर्मघानि मंहनीयानि
+> गवादिधनानि यथा प्रानशुः प्राप्लुवन् तद्वद्वयमपीत्यर्थः ॥ गयं । गृहपक्षे
+> गमेरघ्न्यादयश्चेति यत्पत्ययांतो मकारलोपश्च निपात्यते । धनपक्षे गा
+
+##### Gist of the bhāṣya
+
+O Agni, make us, these your worshippers, reach increase of gaya, that is, a house (that to which one goes, for dwelling), or wealth (that which is praised), and of prosperity in cattle and the like. As the famous sūris, the men who are praisers and have obtained renown, have by their stomas, their hymns, obtained praiseworthy riches such as cattle, so may we also: such is the meaning.
+
+### Printed p. 25
+
+> स्तुता । अस्माद्यत्पत्ययः । ह्रस्वत्वं । यतोऽनाव इत्याद्युदात्तत्वं । पुष्टिं ।
+> पुष पुष्टौ । स्त्रीयां क्तिन् । छांदसत्वादंतोदात्तत्वं । स्तोमेभिः । ष्टुञ् स्तुता ।
+> अर्तिस्तुसुहु इत्यादिना मन् । गुणः । नित्त्वादाद्युदात्तः । आनशुः । अशू व्याप्तौ ।
+> लिट् । द्विर्वचनं । हलादिशेषः । अत अदेरित्यात्वं । अश्नोतेश्वेति नुडागमः ।
+> निघातः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—who were famed in the past, and
+- सूरयः (*sūrayaḥ*)—composers of excellent praise
+- नरः (*naraḥ*)—which men, priests and others
+- स्तोमेभिः (*stomebhiḥ*)—by hymns
+- मघानि (*maghāni*)—praiseworthy riches
+- प्र आनशुः (*pra ānaśuḥ*)—obtained fully (even so)
+- त्वं (*tvaṃ*)—you (praised by us)
+- एषां (*eṣāṃ*)—of these who praise you
+- नः (*naḥ*)—our
+- गयं (*gayaṃ*)—wealth such as house
+- पुष्टिं च (*puṣṭiṃ ca*)—and the prosperity of wealth such as cattle
+- वर्धय (*vardhaya*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the men, priests and others, who were famed in the past and composed excellent praise addressed to you, obtained praiseworthy riches as the fruit of their hymns. Even so, you, praised by us, make grow the wealth such as house, and the prosperity of wealth such as cattle, of us who praise you.
+
+##### English translation
+Augment, Agni, our dwelling and prosperity, for the devout men (who have propitiated you) by their praises have acquired riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॑ग्ने चंद्र ते॒ गिरः॑ शुं॒भंत्यश्व॑राधसः ।  
+> शुष्मे॑भिः शु॒ष्मिणो॒ नरो॑ दि॒वश्चि॒द्येषां॑ बृ॒हत्सु॑ की॒र्तिर्बोध॑ति॒  ॑
+> त्मना ॥ ४ ॥
+
+### Printed p. 26
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अग्ने । चंद्र । ते । गिरः । शुंभंति । अश्वराधसः ।  
+> शुष्मेभिः । शुष्मिणः । नरः । दिवः । चित् । येषां । बृहत् । सुकीर्तिः । बोधति ।  
+> त्मना ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने चंद्र सर्वॆषां प्राणिनामाह्लादकर ये नरस्ते गिरस्त्वत्संबंधिस्तोत्ररूपा वाचः शुंभंति । शोभनाः कुर्वंति तेऽश्वराधसोऽश्वधना भवंति। एतेन
+> समृद्धिरुपलक्ष्यते। किंच । शुष्मिणो बलवंतः संतः शुष्मेभिः शुष्मैः स्वकीयैर्बलैः
+> सत्त्वैः शत्रुशोषका भवंति। येषां त्वत्संबंधिनं स्तवं कुर्वतां दिवश्चिदाकाशादपि
+> बृहन्महती सुकीर्तिर्भवति । सर्वदिगंतरावर्तिनी कीर्तिर्भवतीत्यर्थः । एवंविधु त्वां
+> गयस्त्मनात्मना स्वयमेव बोधति । बोधयति ॥ शुंभंति । शुभ शुन्भ दीप्तौ ।
+> तुदादिः । पादादित्वान्निघाताभावः । लसार्वधातुकानुदात्तत्वे प्राप्ते सति शिष्टत्वाद्विकरणस्वर एव । अश्वराधसः । अशू व्याप्तौ । अशूप्रषीत्यादिना क्वन् । अश्नुते
+> व्याप्नोत्यध्यानमित्यश्वः । नित्त्वादाद्युदात्तः । राध साध संसिद्धौ । असुन् । राध्नुवंति साधयंत्यनेन धर्मादीनीति राधो धनं । बहुव्रीहित्वात्पूर्वपदप्रकृतिस्वरत्वं । बृहत् । वृह वृहि वृद्धौ । शतृ । जीपो लोपश्चांदसः । प्रत्ययस्वरः ।
+> बोधति । बुध अवगमने । ण्यंतात् शपि कृते तस्य छंदस्युभयथेति सार्वधातुकसंज्ञायां णिलोपः । यद्वृत्तान्नित्यमिति निघाताभावः । धातुस्वरेणाद्युदात्तः ।
+> त्मना । मंत्रेष्वाज्यादेरात्मन इत्याकारलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, delighting (candra) all beings: the men whose words, hymns that are connected with you, adorn you, make beautiful, they become possessors of horse-wealth (aśvarādhasaḥ); by this prosperity is indicated. And further, being mighty, they become destroyers of enemies by their own strengths (śuṣmebhiḥ). For those who make praise connected with you, a great and fair renown arises, greater even than that of heaven: it is a renown that abides in all directions. Such as you are, **NOTE** he himself of his own accord awakens (bodhati, causes to know).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चंद्र (*caṃdra*)—delightful
+- अग्ने (*agne*)—O Agni
+- ये नरः (*ye naraḥ*)—which men, priests and others
+- ते गिरः (*te giraḥ*)—reciting speech in the form of praise of you
+- शुंभंति (*śuṃbhaṃti*)—extol your greatness
+- ते (*te*)—they
+- अश्वराधसः (*aśvarādhasaḥ*)—are possessed of wealth in the form of horses
+- शुष्मिणः (*śuṣmiṇaḥ*)—being powerful
+- शुष्मेभिः (*śuṣmebhiḥ*)—become destroyers of enemies by their strengths
+- येषां (*yeṣāṃ*)—of whose, who praise you
+- बृहत् (*bṛhat*)—very great
+- सुकीर्तिः (*sukīrtiḥ*)—and excellent fame, there is
+- दिवश्चित् (*divaścit*)—spreading all over the atmosphere
+- त्मना (*tmanā*)—by its own impulse
+- बोधति (*bodhati*)—awakens (you)
+
 ---
 
-**Progress note:** Done through printed p. 20. Sūkta 5.9 Ṛks 3-7, start of Sūkta 10, pp. 15-20
+**Progress note:** Done through printed p. 26. Sūkta 5.10 Ṛks 1-4 in part, pp. 21-26
