@@ -10,7 +10,7 @@ Dry run by default: prints counts, damage checks and 30 before/after samples.  -
 Never touches lines with Devanagari/Kannada, `[?]`, `[sic]` (user decision); whole remarks only, never half a sentence."""
 import os, re, sys, random
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ABBR = re.compile(r'(?:^|[\s(*"“])(?:\w{1,3}|Ṛ|Pā|Nir|Saṃ|Brā|Ai|Sū|Ni|cf|Dr|Śrī)$')
+ABBR = re.compile(r'(?:^|[\s(*"“])(?:[^\W\d]{1,3}|Ṛ|Pā|Nir|Saṃ|Brā|Ai|Sū|Ni|cf|Dr|Śrī)$')
 def sentences(s):
     out = []; cur = 0
     for m in re.finditer(r'\.["”)\]*]*\s+(?=["“(\[*]?[A-ZĀŚṚṢ])', s):
@@ -66,11 +66,27 @@ def kind_oldnotes(L):
             rm['last'] = '**Progress note:** Done through printed p. 808'
             break
     return rm
-KINDS = {'notes': kind_notes, 'oldnotes': kind_oldnotes}
+def kind_clauses(L):
+    # mixed notes: take out whole sentences of exact process forms, keep the rest of the note
+    rm = {}
+    for i, l in enumerate(L):
+        m = NOTE.fullmatch(l)
+        if not m or is_process_note(l) or re.search('[\u0900-\u097f\u0c80-\u0cff]', l) or '[?]' in l or '[sic]' in l or '*(' in m.group(2): continue
+        body = m.group(2)
+        if KEEPNOTE.search(body) or '**' in body or ')*' in body: continue
+        ss = sentences(body)
+        keep = [x for x in ss if not process_sentence(x)]
+        if keep and len(keep) < len(ss):
+            nb = ' '.join(keep)
+            rm[i] = m.group(1) + '*(' + nb + ')*'
+    return rm
+KINDS = {'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
     for i, l in enumerate(L):
+        if i in rm and rm[i] is not None:
+            gap = False; out.append(rm[i]); continue
         if i in rm:
             gap = True; continue
         if gap and l == '' and out and out[-1] == '': gap = False; continue   # no doubled blank line where a remark stood
@@ -99,14 +115,14 @@ def main():
     print('damage before/after (double spaces, triple blanks):', d0, len(d1))
     random.seed(7)
     for i in random.sample(idx, min(30, len(idx))):
-        print(f'--- p{pg[i]} L{i+1}\n  BEFORE-1: {L[i-1][:90] if i else ""}\n  REMOVE  : {L[i][:200]}\n  AFTER+1 : {L[i+1][:90] if i+1<len(L) else ""}')
+        print(f'--- p{pg[i]} L{i+1}\n  BEFORE-1: {L[i-1][:90] if i else ""}\n  REMOVE  : {L[i][:200]}\n  NEW     : {rm[i][:200] if rm[i] else None}\n  AFTER+1 : {L[i+1][:90] if i+1<len(L) else ""}')
     if write:
         d = os.path.join(ROOT, f'vol{vol}', 'review'); os.makedirs(d, exist_ok=True)
         f = os.path.join(d, 'removed_remarks.tsv'); new_file = not os.path.exists(f)
         with open(f, 'a', encoding='utf8') as o:
             if new_file: o.write('kind\tpage\tline\ttext removed\tline before\tline after\n')
             for i in idx:
-                o.write('\t'.join([kind, str(pg[i]), str(i + 1), L[i].replace('\t', ' '), (L[i-1] if i else '')[:150], (L[i+1] if i+1 < len(L) else '')[:150]]) + '\n')
+                o.write('\t'.join([kind, str(pg[i]), str(i + 1), L[i].replace('\t', ' ') + ('' if rm[i] is None else '  ==>  ' + rm[i]), (L[i-1] if i else '')[:150], (L[i+1] if i+1 < len(L) else '')[:150]]) + '\n')
         open(p, 'w', encoding='utf8').write('\n'.join(new))
         print('written', p, 'lines', len(L), '->', len(new))
 if __name__ == '__main__': main()
