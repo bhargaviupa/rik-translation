@@ -21,6 +21,8 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · **(you)** only the user can do
 | PDF | old build, review copy | old build, review copy | old build, review copy |
 | Known faults on record | pp. 17–24 missing in the source; about 59 best-effort places; chapter headings with unresolved numbers; four page ranges live in a separate "gaps" file | old progress notes and a Cyrillic string inside the text; varga numbers not reconciled with the colophons | Sūktas 29–30 (pp. 452–517) were redone once after image failures |
 
+**Vol 2 (user, Nov 17 2026):** translated and read a second time from the scans by the user and in good condition; page numbers correct; many `[?]` are remarks of ours or questions inside the content and can go; the accents were made without the reference and are to be verified. **Not to be re-translated for now.** Its clean-up runs in its own session: `vol2/CLEANUP_PROMPT.md`.
+
 **None of the three can be published as it is.** The text was read from scans, where about a quarter of the numbers compared so far differed from your numeral files, and no page of Vols 2–3 has been compared with a second source.
 
 ---
@@ -55,7 +57,7 @@ The route is the approved design: the Kannada book and the structure come from t
 | 1.1 Supplied text in the repo **(you)** | [x] Nov 11 | [ ] | [ ] |
 | 1.2 Pages checked: every printed page found, missing numbers listed **(script)** | [x] | [ ] | [ ] |
 | 1.3 Kannada text made from it **(script)** | [x] prose pp. 1–605, Ṛk part from p. 606 | [ ] | [ ] |
-| 1.4 Verses taken from the reference; the Kannada verse corrected from it **(script)** | [ ] | [ ] | [ ] |
+| 1.4 Verses taken from the reference; the Kannada verse corrected from it **(script)** | [ ] | [ ] English side by the clean-up session; the shared accent tool does not read Vol 2's layout yet | [ ] |
 | 1.5 Front matter read: title pages, board, preface, contents, abbreviations **(script + agents)** | [ ] | [ ] | [ ] |
 
 ### Step 2 — Structure and the existing English laid into it
@@ -73,7 +75,7 @@ The route is the approved design: the Kannada book and the structure come from t
 | 3.1 Pada-pāṭha, bhāṣya and quoted Sanskrit replaced by the supplied text's **(script)** | [ ] | [ ] | [ ] |
 | 3.2 Numbers and references compared and corrected where the place is certain; the rest listed **(script)** | [~] 20 one-digit corrections made; 461 candidates listed | [ ] | [ ] |
 | 3.3 Abbreviations brought to the one list (`docs/REFERENCES.md`) **(script)** | [ ] | [ ] | [ ] |
-| 3.4 `[?]`, `[sic]`, remarks, old progress notes: each settled from the supplied text, or turned into a question for you **(script + agents)** | [~] 1 settled | [ ] | [ ] |
+| 3.4 `[?]`, `[sic]`, remarks, old progress notes: each settled from the supplied text, or turned into a question for you **(script + agents)** | [~] 1 settled | [ ] by the clean-up session (remarks removed, no supplied text needed) | [ ] |
 | 3.5 Layout brought to the agreed form: section names, word meanings one per line, no page marks in the body **(script)** | [ ] | [ ] | [ ] |
 
 ### Step 4 — Reading the English against the Kannada
@@ -130,4 +132,5 @@ The route is the approved design: the Kannada book and the structure come from t
 5. Printer and page size (U8), scholar's sample, final build, proof, release.
 
 ## 6. Change log
+- Nov 17 2026: the user's assessment of Vol 2 recorded; prompt for its clean-up session written (`vol2/CLEANUP_PROMPT.md`).
 - Nov 17 2026: file created. Counts of `[?]` and `[sic]` and the state of the Vol 1 re-check taken from the repository on that day.
