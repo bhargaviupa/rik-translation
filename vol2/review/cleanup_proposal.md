@@ -38,3 +38,6 @@ Nothing in the text has been changed. Counts are my own, taken by script from `R
 2. **"Mine and tentative" glosses (92) and `Gloss:` lines (100):** keep the English gloss, drop only the remark? Or drop the gloss where the source gives no translation?
 3. **Whole-line italic notes** that are not process remarks but contain content (continuations, "see note at Rk 3.5", the commentary's structure): remove only process remarks, keep these?
 4. The `[as printed]` tags: remove the mark and keep the number as it stands (which means a reference that differs from the standard one loses its flag; the flagged places go to `removed_remarks.tsv`). Yes?
+
+## Decision of the user (Nov 17 2026)
+`[?]` after a number or reference **stays in the text for now** (the user will review them). This applies on every line type (Devanagari, IAST and English lines alike): by my pattern (digit, optional `)`, optional space, `[?]`) that is 112 of the 432 marks. Those 112 are not touched in Part A; only a list of them (`vol2/review/refs_marked.tsv`: page, line, reference, sentence) is made for the review. The sentences of ours about the marks ("marked [?] where unsure") go as proposed, except that where a note explains marks that stay, it stays too until the review. Questions 2–4 above are still open.
