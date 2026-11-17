@@ -2713,6 +2713,250 @@ Offer abundant (sacrificial) food to the brilliant divine Agni, whom mortals hav
 
 The Agni who makes the oblation attached (आनुषक् (*ānuṣak*)) among the gods, who is possessed of the splendours (द्युभिर् (*dyubhir*)) of strength in his arms (बाह्वोः (*bāhvoḥ*)), becomes the invoker (होता (*hotā*)) of the gods for the people, that is, the sacrificers. Like Bhaga, that is, like the sun, he bestows especially (व्यृण्वति (*vyṛṇvati*)) desirable wealth (वारं (*vāraṃ*)) upon men.
 
+### Printed p. 77
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि अग्निः (*sa hi agniḥ*)—that same god Agni
+- बाह्वोः (*bāhvoḥ*)—of his arms
+- दक्षस्य (*dakṣasya*)—in the form of strength
+- द्युभिः (*dyubhiḥ*)—endowed with splendours
+- जनानां (*janānāṃ*)—for the sacrificers
+- होता (*hotā*)—being in the form of the invoking priest
+- हव्यं (*havyaṃ*)—the oblation
+- आनुषक् (*ānuṣak*)—he provides (for the gods) in due succession
+- भगः न (*bhagaḥ na*)—(and) like the sun
+- वारं (*vāraṃ*)—desired wealth
+- वि ऋण्वति (*vi ṛṇvati*)—he gives in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+That same god Agni, endowed with the splendours that are the strength of his arms, and being the invoking priest for the sacrificers, provides the oblation in due order and succession to all the gods. And like the sun he supplies men with the wealth they desire.
+
+##### English translation
+For that Agni, (endowed) with the lustre of the strength of his arms, is the ministrant priest of mortals, who (presents) the oblation to the gods in succession, and like Bhaga distributes desirable wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+भगो न-सूर्य इव (*bhago na-sūrya iva*). Like the sun. As the sun is needed by everyone, so wealth too is a thing needed by everyone. The meaning is that everyone desires it.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य स्तोमे॑ म॒घोनः॑ स॒ख्ये वृ॒द्धशो॑चिषः ।  
+> विश्वा॒ यस्मि॑न्नुवि॒ष्वणि॒ सम॒र्यॆ शुष्म॑नाद॒धुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । स्तोमे । मघोनः । सख्ये । वृद्धशोचिषः ।  
+> विश्वा । यस्मिन् । तुविस्वनि । सं । अर्ये । शुष्मं । आदधुः ॥ ३ ॥
+
+### Printed p. 78
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघोनो मघवतो धनवतो वृद्धशोचिषः । वृद्धानि शोचींषि तेजांसि
+> यस्यासौ वृद्धशोचिः । तस्यैवंविधस्याग्नेः स्तोमे स्तोत्रे सख्ये च स्याम ।
+> तुविष्टणि बहुशब्देर्यॆ स्वामिनि यस्मिन्नग्नौ विश्वा ॥ सुपां सुलुगिति डादेशः ॥
+> विश्वे सर्व ऋत्विजः शुष्मं बलं हविर्भिः स्तोत्रैश्च समादधुः सम्यगादधति ॥
+
+##### Gist of the bhāṣya
+
+May we be in the praise (स्तोमे (*stome*)) and in the friendship of such an Agni: he is मघोनो (*maghono*), the possessor of wealth, and वृद्धशोचिषः (*vṛddhaśociṣaḥ*), one whose splendours, that is, lustres, are great. He is the lord, loud with much sound, in whom all (विश्वे (*viśve*), all the priests) place strength (शुष्मं (*śuṣmaṃ*), बलं (*balaṃ*)) fully, with oblations and with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविष्टणि (*tuviṣṭaṇi*)—one possessed of much sound **NOTE**
+- अर्ये (*arye*)—and the lord of all
+- यस्मिन् (*yasmin*)—in which Agni
+- विश्वा (*viśvā*)—all the priests
+- शुष्मं (*śuṣmaṃ*)—strength
+- सं आदधुः (*saṃ ādadhuḥ*)—have placed in full: of such
+- मघोनः (*maghonaḥ*)—the possessor of wealth
+- वृद्धशोचिषः (*vṛddhaśociṣaḥ*)—and of abundant radiance
+- अस्य (*asya*)—of this Agni
+- स्तोमे (*stome*)—in the act of praise
+- सख्ये (*sakhye*)—and in friendship may we be
+
+##### भावार्थ (Bhāvārtha)
+
+May we be in the act of praise and in the friendship of this Agni, who is the possessor of wealth and of abundant radiance, who has much sound, who is the lord of all, and in whom all the priests have placed strength.
+
+##### English translation
+(May we be assiduous) in the praise, (and cherished) in the friendship, of that very radiant possessor of wealth, on whom, loud-sounding and all-ruling, (his) universal (worshippers) have conferred vigour.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुविष्टणे बहुशब्दे (*tuviṣṭaṇe bahuśabde*). It is a matter of experience that when a fire is burning it makes a sound such as crackling and so on.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ ह्य॑ग्न एषां सु॒वीर्य॑स्य मं॒हना॑ ।  
+> तमिद्य॒ह्वं न रोद॑सी॒ परि॒ श्रवो॑ बभूवतुः ॥ ४ ॥
+
+### Printed p. 79
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । अग्ने । विषां । सुवीर्यस्य । मंहना ।  
+> तं । इत् । यह्वं । न । रोदसी इति । परि । श्रवः । बभूवतुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अध अथैषामस्माकं यजमानानां सुवीर्यस्य सर्वैः स्पृहणीयस्य बलस्य मंहना मंहनाय्कॆ दानाय भव ॥ मंहतिर्दानकर्मा ॥ रोदसी
+> द्यावापृथिव्यौ यह्वं न महांतं सूर्यमिव श्रवः सर्वैः श्रवणीयं तमित्तमग्निमेव परि बभूवतुः । परिगृह्णीतः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, then (अध (*adha*) is अथ (*atha*)): for us, the sacrificers, be disposed to giving (मंहना (*maṃhanā*) means दानाय (*dānāya*); the root मंहति (*maṃhati*) is read as a verb of giving) of the excellent strength (सुवीर्यस्य (*suvīryasya*)) that is desired by all. Heaven and earth (रोदसी (*rodasī*)) have encompassed (परिगृह्णीतः (*parigṛhṇītaḥ*)) that very Agni, glory (श्रवः (*śravaḥ*)) to be heard by all, as they encompass the great sun (यह्वं न (*yahvaṃ na*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध (*adha*)—after our time of worship
+- एषां (*eṣāṃ*)—to us, the sacrificers
+- सुवीरस्य (*suvīrasya*)—of excellent strength and wealth
+- मंहना (*maṃhanā*)—be disposed to give
+- रोदसी (*rodasī*)—heaven and earth both
+- यह्वं न (*yahvaṃ na*)—as they surround the great sun
+- श्रवः (*śravaḥ*)—renowned
+- तं इत् (*taṃ it*)—Agni himself
+- परि बभूवतुः (*pari babhūvatuḥ*)—stand surrounding
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, after our time of worship, be of gracious mind to give us, the sacrificers, excellent strength and wealth. Heaven and earth both stand surrounding the renowned Agni, as they surround the great sun.
+
+##### English translation
+Now verily, Agni, (be disposed) for bestowing excellent strength on these (your worshippers): heaven and earth have invested him with glory like the vast (sun).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू न॒ एहि॒ वार्य॒मग्ने॑ गृणा॒न आ भ॑र ।  
+> ये व॒यं ये च॑ सू॒रयः॑ स्व॒स्ति धाम॑हे॒ सचो॒तॆ धि॑  
+> पृ॒त्सु नो॑ वृ॒धे ॥ ५ ॥
+
+### Printed p. 80
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सु । नः । आ । इहि । वार्यं । अग्ने । गृणानः । आ । भर ।  
+> ये । वयं । ये । च । सूरयः । स्वस्ति । धामहे । सचा । उत । एधि ।  
+> पृत् 5सु । नः । वृधे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने गृणानः स्तूयमानः सन् नु क्षिप्रमेहि । यज्ञं प्रत्यागच्छ । आगत्य
+> च नोऽस्मभ्यं वार्यं वरणेयं धनमा भर । संपादय । ये वयं यजमाना
+> ये च सूरयः स्तोतारः सचा हविर्भिः सहिता उभे ये वयं स्वस्ति स्तोत्रं
+> धामहे । कुर्मः । उतापि च पृत्सु पृतनासु नोऽस्माकं वृधे समृद्धय एधि ।
+> भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being praised (गृणानः (*gṛṇānaḥ*), स्तूयमानः (*stūyamānaḥ*)), come quickly to the sacrifice; and having come, bring us desirable wealth (वार्यं (*vāryaṃ*), वरणेयं (*varaṇeyaṃ*) **NOTE**), that is, provide it. We who are the sacrificers and those who are the praisers (सूरयः (*sūrayaḥ*), स्तोतारः (*stotāraḥ*)), both together with oblations (सचा (*sacā*)), offer praise (स्वस्ति (*svasti*), स्तोत्रं (*stotraṃ*); धामहे (*dhāmahe*), we make). And be for our increase and prosperity in the battles (पृत्सु (*pṛtsu*), पृतनासु (*pṛtanāsu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- गृणानः (*gṛṇānaḥ*)—being praised by us
+- नु (*nu*)—at once
+- एहि (*ehi*)—come graciously (to our sacrifice)
+- नः (*naḥ*)—to us
+- वार्यं (*vāryaṃ*)—the wealth that is desired
+- आ भर (*ā bhara*)—procure and give
+- ये वयं (*ye vayaṃ*)—we who are the sacrificers
+- ये च (*ye ca*)—and we who are
+- सूरयः (*sūrayaḥ*)—the praisers, we who worship in both ways
+- सचा (*sacā*)—together with the oblations
+- स्वस्ति (*svasti*)—the praise that goes to meet you
+- धामहे (*dhāmahe*)—we offer
+- पृत्सु (*pṛtsu*)—in the battles
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for increase
+- एधि (*edhi*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praised by us, come to our sacrifice at once. We who are sacrificers and praisers, worshipping you by both kinds of rites, prepared with the oblations, offer the praise that goes to meet you. Be gracious, so that victory and increase may be ours in the battles.
+
+##### English translation
+Glorified by us, Agni, come quickly, and bring us desirable wealth : we who (are your worshippers), we (who are your) adorers, offer you welcome together with oblations: be favourable to us; be (our) success in battles.
+
+### Printed p. 81
+## Sūkta 17 (Maṇḍala 5)
+The seventeenth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ यज्ञैरिति पंचर्चं तृतीयं सूक्तमात्रेयस्य पूरोरार्षमाग्नेयं ।
+> अंत्या पंक्तिः शिष्टाः पंक्त्यंतपरिभाषयानुष्टुभः । आ यज्ञैरित्यनुक्रमणिका ॥
+> अंत्यावर्जं प्रातरनुवाकाश्विनशस्त्रयोर्बृहद्वय इत्यादिदशसूक्तमध्ये विनियोग
+> उक्तः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ यज्ञैः (*ā yajñaiḥ*) has five ṛks and is the third sūkta; its seer is Pūru of the Ātreya family and its deity is Agni. The last verse is in the paṅkti metre; the others, by the convention that the paṅkti comes at the end, are anuṣṭubh. The Anukramaṇikā names it by its first words. Except for the last verse, its use in the Prātaranuvāka and in the Āśvina-śastra has been stated in the use assigned to the ten sūktas beginning with the sūkta before it.
+
+Anuvāda: This sūkta beginning आ यज्ञैः (*ā yajñaiḥ*) is the third sūkta in the second anuvāka. It has five ṛks. The seer of this sūkta is Pūru Ātreya; the deity is Agni; the last ṛk is in paṅkti metre and the other ṛks are in anuṣṭubh metre. In the Anukramaṇikā it is stated as beginning with आ यज्ञैः (*ā yajñaiḥ*). It has been stated, in the use assigned to the previous sūkta, which begins with बृहद्वयः (*bṛhadvayaḥ*), that all the ṛks of this sūkta except the last are to be applied to the recitation of the Prātaranuvāka and Āśvina-śastra mantras.
+
+Sūkta 17. Maṇḍala 5; Anuvāka 2; Sūkta 17. Aṣṭaka 4; Adhyāya 1; Varga 9. Number of ṛks in the sūkta: 5. Seer: पूरुरात्रेयः (*pūrurātreyaḥ*). Deity: अग्निः (*agniḥ*). Metre: 1-4 अनुष्टुप् (*anuṣṭup*); 5 पंक्तिः (*paṃktiḥ*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ य॒ज्ञैर्दे॑व॒ मर्त्य॑ इ॒त्था तव्यां॑समू॒तये॑ ।  
+> अ॒ग्निं कृ॒ते स्व॑ध्व॒रे पू॒रुरी॑ळी॒ताव॑से ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 82
+
+> आ । यज्ञैः । देव । मर्त्यः । इत्था । तव्यांसं। ऊतये ।  
+> अग्निं । कृते । सुअध्वरे । पूरुः । ईळीत । अवसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव मर्त्यो मनुष्य ऋत्विगित्थेत्थं तव्यांसं स्वतेजोभिः प्रवृद्धमग्निमूतये तर्पणाय यज्ञैः स्तोत्रैरा ह्वयति । किंच पूरुर्मनुष्यः स्तोता
+> कृते स्वध्वरे शोभने क्रत्वा तमग्निमवसे रक्षणायेळीत । स्तौति ॥
+
+##### Gist of the bhāṣya
+
+O god Agni: a mortal, that is, a man, the priest (ऋत्विगित्थेत्थं (*ṛtvigitthetthaṃ*) **NOTE**), thus calls with sacrifices, that is, with praises, for his gratification (ऊतये (*ūtaye*), तर्पणाय (*tarpaṇāya*)) you, Agni, who are तव्यांसं (*tavyāṃsaṃ*), grown strong by your own splendours. Moreover Pūru, a man and a praiser, in the sacrifice well performed (कृते स्वध्वरे (*kṛte svadhvare*)), praises that Agni for protection (अवसे (*avase*), रक्षणाय (*rakṣaṇāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Agni, of divine nature
+- मर्त्यः (*martyaḥ*)—the priest, a human being
+- इत्था (*itthā*)—in this manner
+- तव्यांसं (*tavyāṃsaṃ*)—you, who have grown by your own splendour
+- ऊतये (*ūtaye*)—for protection
+- यज्ञैः (*yajñaiḥ*)—with praises that are parts of the sacrifice
+- आ (*ā*) (ह्वयः (*hvayaḥ*))—calls with prayer
+- पूरुः (*pūruḥ*)—Pūru, the praiser
+- स्वध्वरे (*svadhvare*)—when the excellent sacrifice
+- कृते (*kṛte*)—is being performed
+- अग्निं (*agniṃ*)—Agni
+- अवसे (*avase*)—for protection
+- ईळीत (*īḷīta*)—praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of divine nature, the human priest calls and prays to you, who have grown by your own splendour, for protection, in the prescribed manner, with praises that are parts of the sacrifice. Pūru the praiser, at the time of the performance of an excellent sacrifice, praises Agni for protection.
+
+##### English translation
+Divine Agni, a mortal thus with sacrifices (calls upon you) who are endowed with lustre for protection : Puru adores Agni for protection when the sacred rite is solemnized.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूरुः (*pūruḥ*). In this ṛk the seer has spoken his own name. Although the verbs of the doer are in the third person, their use in the sense of the first person is a special usage current in the Ṛgveda.
+
 ---
 
-**Progress note:** Done through printed p. 76. pp. 71-76: Sūkta 15 Ṛks 3-5, Sūkta 16 Ṛks 1-2
+**Progress note:** Done through printed p. 82. pp. 77-82: Sūkta 16 Ṛks 2-5, Sūkta 17 Ṛk 1
