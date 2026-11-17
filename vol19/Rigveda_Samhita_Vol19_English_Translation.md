@@ -4278,6 +4278,282 @@ Men have recourse to you divine Agni, who are of intelligent mind, for security 
 > तं त्वा॑ सुशिप्र दंपते॒ स्तोमै॑र्वर्धं॒त्यत्र॑यो  
 > गी॒र्भिः शुं॑भं॒त्यत्र॑यः ॥ ४ ॥
 
+### Printed p. 114
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । चिकिद्दि । अस्य । नः । इदं । वचः । सहस्य ।  
+> तं । त्वा । सुशिप्र । दंपते । स्तोमैः । वर्धंति । अत्रयः । गीभिः ।  
+> शुंभंति । अत्रयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हे सहस्य सहसो बलस्य पुत्र नोऽस्मदीयमस्येदं परिचरणमिदं
+> वचः स्तोत्रं चिकिद्दि । जानीहि । हे सुशिप्र । शोभने शिप्रे हनू नासिके वा
+> यस्यासौ सुशिप्रः । तस्य संबोधनं । सुशिप्र सुहनो दंपते गृहपते तं त्वामत्रयोऽत्रिपुत्राः स्तोमैः स्तोत्रैर्वर्धंति । वर्धयंति । अत्रयो गीर्भिः
+> शुंभंति । अलंकुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, O Sahasya, son of strength (sahas), know this our service, this speech, this praise. O Suśipra, the one whose jaws or nostrils (śipra) are handsome; the word is an address to him. O Suśipra, of fine jaws, O Dampati, lord of the house, the sons of Atri make you grow with their stomas, praises; the sons of Atri adorn you with their words.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्य (*sahasya*)—O you, the son of strength
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- अस्य (*asya*)—belonging to this sacrifice
+- इदं वचः (*idaṃ vacaḥ*)—this praise, which is worthy of worship
+- चिकिद्दि (*cikiddi*)—know
+- सुशिप्र (*suśipra*)—you who have excellent cheeks
+- दंपते (*daṃpate*)—and who are the lord of the house
+- तं (*taṃ*)—you
+- अत्रयः (*atrayaḥ*)—the sons of Atri
+- स्तोमैः (*stomaiḥ*)—with hymns
+- वर्धंति (*vardhaṃti*)—make you grow strong and increase
+- अत्रयः (*atrayaḥ*)—the same sons of Atri
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- शुंभंति (*śuṃbhaṃti*)—adorn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, know the nature of this praise of ours, which belongs to this sacrifice and is worthy of worship. The sons of Atri make you, who have excellent cheeks and are the lord of the house, grow strong with hymns. The same sons of Atri adorn you with words of praise. (They praise you.)
+
+##### English translation
+Agni, son of strength recognize the words of this our (laudation): handsome-chinned, lord of the dwelling, the sons of Atri exalt you, such (as you are), by their praises : they embellish you by their hymns.
+
+### Printed p. 115
+## Sūkta 23 (Maṇḍala 5)
+
+The twenty-third sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने सहंतमिति चतुर्ऋचं नवमं सूक्तं । अत्रानुक्रमणिका । अग्ने
+> द्युन्नो विश्वचर्षणिरिति । द्युन्न ऋषिः । चतुर्थी पंक्तिः । आद्यास्ति स्रोऽनुष्टुभः ।
+> अग्निर्देवता ॥ प्रातरनुवाकाश्विनशस्त्रयोर्दशसूक्तांतःपातित्वादुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Agne sahantam" has four Ṛks and is the ninth sūkta. Here the Anukramaṇikā says "Agne dyunno viśvacarṣaṇiḥ". **NOTE** The seer is Dyunna (Dyumna); the fourth verse is paṅkti and the first three are anuṣṭubh. The deity is Agni. Since the sūkta is included among the ten sūktas, its use in the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+Translation (anuvāda): This sūkta beginning "Agne sahantam" is the ninth sūkta in the second anuvāka. It has four Ṛks. In the Anukramaṇikā it is said "Agne dyumno viśvacarṣaṇiḥ". The seer of this sūkta is Dyumna Viśvacarṣaṇi; Agni is the deity. The first three Ṛks of this sūkta are in the anuṣṭubh metre; the fourth is in the paṅkti metre. It has been stated earlier that this sūkta is used for the recitation of the Prātaranuvāka and the mantras of the Āśvina-śastra.
+
+Sūkta 23
+Maṇḍala 5; Anuvāka 2; Sūkta 23
+Aṣṭaka 4; Adhyāya 1; Varga 15
+Number of Ṛks in the sūkta: 4
+Ṛṣi: Dyumna Viśvacarṣaṇi
+Devatā: Agni
+Chandas: 1–3 Anuṣṭubh; 4 Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ सहं॑त॒मा भ॑र द्यु॒म्नस्य॑ प्रा॒सहा॑ र॒यिं ।  
+> विश्वा॒ यश्च॑र्ष॒णीर॒भ्या॒३॒॑३सा वाजे॑षु सा॒सह॑त् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । सहंतं । आ । भर । द्युम्नस्य । प्रसहा । रयिं ।  
+> विश्वाः । यः । चर्षणीः । अभि । आसा । वाजेषु । ससहत् ॥ १ ॥
+
+### Printed p. 116
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने प्रासहा प्रकृष्टेन बलेन सहंतं शत्रुनभिभवंतं रयिं पुत्रं
+> द्युम्नस्य द्युम्नाय मम ऋषय आ भर । आहर ॥ चतुर्थ्यर्थे षष्ठी ॥ एतदेव
+> विवृणोति। यः पुत्र आसास्येन स्तोत्रेण युक्तः सन् वाजेषु युद्धेष्वभि अभिमुख्येन गतान् विश्वाः सर्वान् चर्षणीर्मनुष्यान् शत्रुन् सासहत् अभिभवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring (ā bhara) to me, Dyumna, a son (rayi) who overcomes his foes with surpassing strength, as wealth. Here the genitive stands in the sense of the dative. He now explains this: the son who, endowed with praise (āsā, by the mouth), subdues in battles all the men, the enemies, who come against him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—which son
+- आसा (*āsā*)—having a mouth (filled with your praise)
+- वाजेषु (*vājeṣu*)—in battles
+- अभि (*abhi*)—who has come to meet him
+- विश्वाः (*viśvāḥ*)—all
+- चर्षणीः (*carṣaṇīḥ*)—men (the enemies)
+- सासहत् (*sāsahat*)—overcomes, such a one
+- प्रासहा (*prāsahā*)—with superior strength
+- सहंतं (*sahaṃtaṃ*)—who confronts enemies
+- रयिं (*rayiṃ*)—a son
+- द्युम्नस्य (*dyumnasya*)—to me, named Dyumna
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide to me, named Dyumna, such a son of excellent strength as, with a mouth that praises you alone in battles, has the power to slay all the enemies who face him.
+
+##### English translation
+Bestow, Agni, upon Dyumna a son, overcoming foes by his prowess ; one who may with glory subdue all men in battle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ग्ने पृतना॒षहं॑ र॒यिं स॑हस्व॒ आ भ॑र ।  
+> त्वं हि स॒त्यो अद्भु॑तो दा॒ता वाज॑स्य॒ गोम॑तः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अग्ने । पृतनासहं । रयिं । सहस्वः । आ । भर ।  
+> त्वं । हि । सत्यः । अद्भुतः । दाता । वाजस्य । गोऽमतः ॥ २ ॥
+
+### Printed p. 117
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सहस्वो बलवन् पृतनासहं पृतनाः सेना अभिभवितारं रयिं
+> पुत्रं त्वमा भर । आहर । त्वं हि सत्यः सत्यभूतोऽद्भुतो महान् गोमतो
+> गोभिर्युक्तस्य वाजस्यान्नस्य दाता ॥
+
+##### Gist of the bhāṣya
+
+O Agni, O mighty one, bring (ā bhara) a son who overcomes armies (pṛtanā), the enemy hosts. For you are true, in truth wonderful, great, the giver of food (vāja) accompanied by cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्वः (*sahasvaḥ*)—endowed with strength
+- अग्ने (*agne*)—O Agni
+- पृतनासहं (*pṛtanāsahaṃ*)—having the strength to overcome the enemy army
+- रयिं (*rayiṃ*)—a son
+- त्वं (*tvaṃ*)—you
+- आ भर (*ā bhara*)—obtain for me
+- त्वं हि (*tvaṃ hi*)—you indeed
+- सत्यः (*satyaḥ*)—are true in nature
+- अद्भुतः (*adbhutaḥ*)—are of great form
+- गोमतः (*gomataḥ*)—accompanied by cattle
+- वाजस्य (*vājasya*)—of food
+- दाता (*dātā*)—and the giver
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with strength, provide me with a son who has the strength to overcome the enemy army. You are true in nature, great in form, and the giver of food accompanied by cattle.
+
+##### English translation
+Mighty Agni, grant us a son able to encounter hosts ; for you are true and wonderful, and the giver of food with cattle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॒ हि त्वा॑ स॒जोष॑सो॒ जना॑सो वृ॒क्तब॑र्हिषः ।  
+> होता॑रं॒ सद्म॑सु प्रि॒यं व्यंति॒ वार्या॑ पु॒रु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । हि । त्वा । सजोषसः । जनासः । वृक्तबर्हिषः ।  
+> होतारं । सद्मसु । प्रियं । व्यंति । वार्या । पुरु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सजोषसः सह प्रीयमाणा व्यक्तबर्हिषो लूनबर्हिषो विश्वे
+> सर्वॆ जनासो जना ऋत्विजः सद्मसु यज्ञगृहेषु होतारं देवानामाह्वा-
+
+##### Gist of the bhāṣya
+
+O Agni, all the people, the priests (ṛtvij), being pleased together (sajoṣasaḥ), with the sacred grass (barhis) cut, at the sacrificial houses (sadman), you, the hotṛ, the summoner of the gods…
+
+### Printed p. 118
+
+> तारं प्रियं सर्वॆषां प्रीतिकरं त्वा त्वां पुरु पुरूणि बहूनि वार्या वरणीयानि धनानि व्यंति । याचंते ॥
+
+##### Gist of the bhāṣya
+
+…you, who are dear (priya), pleasing to all, they ask for (vyanti) much (puru) choice wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सजोषसः (*sajoṣasaḥ*)—having equal devotion and affection
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—who have prepared the cut darbha grass as seats
+- विश्वे जनासः (*viśve janāsaḥ*)—all the priests
+- सद्मसु (*sadmasu*)—in the sacrificial houses
+- होतारं (*hotāraṃ*)—of the nature of the hotṛ
+- प्रियं (*priyaṃ*)—and dear to all
+- त्वा (*tvā*)—you
+- पुरु (*puru*)—abundant
+- वार्या (*vāryā*)—and desired wealth
+- व्यंति (*vyaṃti*)—they ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all the priests, who have equal devotion and affection, and who have cut the darbha grass and arranged excellent seats, ask you, who are of the nature of the hotṛ and dear to all, in the sacrificial houses for abundant and desired wealth.
+
+##### English translation
+All men concurring in satisfaction, bearing the clipt sacred grass, solicit you, as the kind invoker of the gods, to the chambers (of sacrifice) for infinite wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि ष्मा॑ वि॒श्वच॑र्षणिर॒भिमा॑ति॒ सहो॑ द॒धे ।  
+> अग्न॑ ए॒षु क्षये॒ष्वा रे॒वन्नः॑ शुक्र दीदिहि द्यु॒मत्पा॑वक  
+> दीदिहि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । स्म । विश्वचर्षणिः । अभिमाति । सहः । दधे ।  
+> अग्ने । एषु । क्षयेषु । आ । रेवत् । नः । शुक्र । दीदिहि । द्युमत् ।  
+> पावक । दीदिहि ॥ ४ ॥
+
+### Printed p. 119
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स लोकेषु प्रसिद्धो विश्वचर्षणिर्यषिरभिमाति शत्रूणां हिंसकं
+> सहो बलं दधे । धारयतु । हि स्मृति पूरणौ । हे शुक्र शोचिष्मन् त्वं नोऽस्मदीयेषु क्षयेषु गृहेषु रेवत् धनयुक्तं यथा भवति तथा दीदिहि । दीप्यस्व
+> हॆ पावक पापानां शोधकाग्ने त्वं द्युमद्दीप्तियुक्तं यशोयुक्तं च धीदिहि ।
+> दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, may that well-known sage Viśvacarṣaṇi hold (dadhe) strength (sahas) that destroys enemies. **NOTE** O bright (śukra) Agni, possessed of splendour, shine in our houses (kṣaya) in such a way that they are rich in wealth (revat). O Pāvaka, Agni, purifier of sins, shine with brilliance and with glory (dyumat).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—the well-known
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—the seer named Viśvacarṣaṇi
+- अभिमाति (*abhimāti*)—destroying enemies
+- सहः (*sahaḥ*)—strength
+- दधे (*dadhe*)—may he obtain
+- शुक्र (*śukra*)—you, endowed with radiance
+- नः (*naḥ*)—our
+- एषु क्षयेषु (*eṣu kṣayeṣu*)—in these sacrificial houses
+- रेवत् (*revat*)—so that there is abundance of wealth
+- आ दीदिहि (*ā dīdihi*)—shine
+- पावक (*pāvaka*)—O Agni, purifier
+- द्युमत् (*dyumat*)—as the most brilliant
+- दीदिहि (*dīdihi*)—blaze forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may the seer well known by the name Viśvacarṣaṇi obtain strength that destroys enemies. You, endowed with radiance, shine in these our sacrificial houses so that wealth may abound. O Agni, the purifier, spread your rays everywhere and blaze so as to be most brilliant.
+
+##### English translation
+May the (sage) on whom all men rely possess foe-subduing strength : radiant Agni, so shine in our habitations that they may abound in riches : shine, purifying Agni, dispensing light.
+
+## Sūkta 24 (Maṇḍala 5)
+
+The twenty-fourth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने त्वं न इति चतुर्ऋचं दशमं सूक्तं । अत्रानुक्रमणिका । अग्ने त्वं
+> गौपायना लौपायना वा बंधुः सुबंधुः श्रुतबंधुर्विप्रबंधुश्चकर्चा द्वैपदमिति । विंशतिका द्विपदा विराज इत्युक्त्वाच्च । अग्निर्देवता ॥ महापितृयज्ञ
+> आहवनीयं प्रति गच्छंत ऋत्विज इदं सूक्तं जपेयुः । तथा च सूत्रितं । अधैनमभिसमायंति मा प्र गामाग्ने त्वं न इति जपंतः । आ. २-१९ । इति ॥ दशरात्रे
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Agne tvaṃ naḥ" has four Ṛks and is the tenth sūkta. Here the Anukramaṇikā says: "Agne tvaṃ, Gaupāyanas or Laupāyanas: Bandhu, Subandhu, Śrutabandhu, Viprabandhu; he sang a dvipada", and it states that the twentieth (verse) is a dvipadā virāj. The deity is Agni. At the Mahāpitṛyajña the priests, going towards the Āhavanīya fire, are to mutter this sūkta; so it is laid down in the sūtra: "Then they approach him, muttering मा प्र गामाग्ने त्वं न इति जपंतः (*mā pra gāmāgne tvaṃ na iti japaṃtaḥ*)", Ā. 2-19. (The block breaks off here, at the words concerning the Daśarātra.)
+
 ---
 
-**Progress note:** Done through printed p. 113. Mandala 5 sukta 21 rks 3-4; sukta 22 rks 1-4 (Samhita)
+**Progress note:** Done through printed p. 119. Mandala 5 sukta 22 rk 4; sukta 23 rks 1-4; sukta 24 introduction (start)
