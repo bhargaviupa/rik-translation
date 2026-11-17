@@ -314,6 +314,262 @@ Agni is the invoker of the gods (on behalf of) him, the donor (of the oblation),
 
 Moreover, Agni, whom the two araṇīs (kindling sticks) generated like a new child, is the upholder of the human race, of the descendants of Manu: the viś are those who enter the womb, that is, the people. He nourishes the bodily elements of those people by way of the cooking of food and the like, and he is the one of good sacrifice. The meaning is that the two araṇīs created this Agni for the nourishment of the people.
 
+### Printed p. 15
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मानुषीणां (*mānuṣīṇāṃ*)—born in the line of Manu
+- विशां (*viśāṃ*)—to all the people
+- धर्तारं (*dhartāraṃ*)—the nourisher
+- स्वध्वरं (*svadhvaraṃ*)—possessing an excellent sacrifice
+- यं अग्निं (*yaṃ agniṃ*)—which very Agni
+- अरणी (*araṇī*)—the two pieces of wood also
+- नवं (*navaṃ*)—new
+- शिशुं यथा (*śiśuṃ yathā*)—as one gives birth to a child
+- जनिष्ट (*janiṣṭa*)—brought forth
+
+##### भावार्थ (Bhāvārtha)
+
+The two pieces of wood also brought forth that very Agni, the nourisher of all the people born in the line of Manu and possessor of an excellent sacrifice, as one gives birth to a new child.
+
+##### English translation
+He (it is) whom the two stieks have engendered like a new-born babe ; the supporter of men the descendants of Manu, the fit object of sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्म॑ दुर्गर्भीयसे पु॒त्रो न ह्वा॒र्याणां॑ ।  
+> पु॒रू यो दग्धासि॒ वनाग्ने॑ प॒शुर्न युव॑से ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । दुःगृभीयसे । पुत्रः । न । ह्वार्याणां ।  
+> पुरु । यः । दग्धा । असि । वना । अग्ने । पशुः । न । यवसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च ह्वार्याणां कुटिलं गच्छतां सर्पणां । यद्वा । आस्कंदितादिगतिविशेषेण वक्रगमनानामश्वानां पुत्रो न पुत्र इव बालसर्प इवाशिक्षित.
+> बालाश्व इव ना दुर्गृभीयसे । दुःखेन गृह्यसे । हे अग्ने यस्त्वं पुरु बहूनि
+> वना वनानि दग्धासि दाहको भवसि । कथमिव । यवसे तृणे पशुर्न पशुरिव । आय.
+> मर्थः । अत्यंतक्षुधार्तः पशुस्तृणविषये विसृष्टः सन् यथा सर्वं भक्षॆयति
+> तद्वदित्यर्थः ॥ दुर्गृभीयसे । ग्रह उपादाने । यक् । ब्रुव ईडित्यनुवृत्ता
+
+##### Gist of the bhāṣya
+
+And you, O Agni, are laid hold of with difficulty, like the young of the crooked-moving ones (hvāryāṇām): of serpents; or else, of horses whose gait is crooked by special paces such as the leap, that is, like a young snake or an untrained young horse. You who burn many forests (vanā) are a consumer, as an animal (is a consumer) of fodder (yavase). The meaning is: as an animal that is extremely hungry, when let loose in a meadow, eats everything, so you do.
+
+### Printed p. 16
+
+> बहुलं छंदसीतीडागमः । ग्रहीत्यादिना संप्रसारणं। हृग्रहोर्भश्चंदसीति भकारः ।
+> निघातः । ह्वार्याणां । ह्वृ कौटिल्ये । ऋहलोर्ण्यत् । आदिवृद्धिः । तित्स्वरितमिति
+> स्वरितत्वं । पुरु । पृ पालनपूरणयोः । प्भिदिवृधिगृधिधृषिदृशिभ्य इति कुप्रत्ययः ।
+> उदोष्यपूर्वस्येत्युत्वं । प्रत्ययस्वरेणांतोदात्तत्वं । असि । यद्वृत्तान्वितम्यिति
+> न निघातः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अग्ने (*agne*)—O Agni
+- ह्वार्याणां (*hvāryāṇāṃ*)—of serpents of crooked movements
+- पुत्रो न (*putro na*)—as their young are caught with great effort
+- दुर्गृभीयसे (*durgṛbhīyase*)—you are reached with labour
+- यः (*yaḥ*)—you who are that very one
+- यवसे (*yavase*)—hungry and eager for grass
+- पशुर्न (*paśurna*)—as an animal eats up the grass entirely
+- पुरु (*puru*)—many
+- वना (*vanā*)—forests
+- दग्धासि (*dagdhāsi*)—you burn up entirely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as difficult as it is to catch the young of serpents of crooked movements, so difficult it is to reach you. As an animal, hungry and eager for grass, eats the whole meadow entirely as soon as it is let loose, you too burn up many forests entirely.
+
+##### English translation
+You are laid hold of with difficulty like the young of tortuously-twining (snakes) ; you who are the consumer of many forests, as an animal is of fodder.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ स्म॒ैयस्या॒र्चयः॑ स॒म्यक्सं॒यंति॑ धू॒मिनः॑ ।  
+> यदी॒मह॑ त्रि॒तो दि॒व्युप॒ ध्माते॑व॒ धम॑ति॒ शिशी॑ते ध्मा॒तरी॑  
+> यथा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । स्म । यस्य । अर्चयः । सम्यक् । संयंति । धूमिनः ।  
+> यत् । ईं । अह । त्रितः । दिवि । उप । ध्माताइव । धमति । शिशीते । ध्मातरि । यथा ॥
+
+### Printed p. 17
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध स्म अपि च धूमिनो धूमवतो यस्याग्नेरर्चयोर्चींषि सम्यक्
+> शोभनं संयंति सर्वतः प्राप्नुवंति त्रितस्त्रिषु स्थानेषु ततो व्याप्तः त्रीणि स्थानानि
+> वातीत्य दिव्यंतरिक्षे यद्यदा ईमयमात्मानमुप धमति उपवर्धयति तदा
+> ज्वालाः सर्वतो निर्गच्छंतीत्यर्थः । कथमिव । ध्मातेव । कर्मारो यथा भस्त्रादिभिरग्निं संवर्धयति तद्वत्सात्मानं वर्धयतीत्यर्थः । किंच ध्मातरि यथा । यथा
+> ध्मातृसमीपे विद्यमानोऽग्निस्तेन ध्प्रायमानः स आत्मानं शिशीते तीक्ष्णीकरोति
+> तद्वत्स्वयमेव स्वात्मानं तिक्ष्मीकरोतीत्यर्थः ' अहेति पादपूरणः ॥ यंति । इण्
+> गतौ ! यच्छब्दयोगान्निघाताभावः । धमति । ध्मा शब्दाग्निसंयोगयोः । पाघ्रादिना
+> धमादेशः । पूर्ववन्निघाताभावः । शिशीते । शो तनूकरणे । व्यत्ययेनात्मानेपदी । श्लावित्यनुवर्तमाने बहुलं छंदसीति विकरणस्य श्लुः । अदेच उपदेशे
+> शितीत्यात्वं । श्लापिति द्विर्वचनं । बहुलं छंदसीत्यभ्यासस्यॆत्वं उभे अभ्यस्तसंज्ञायामात ई हल्यघोरितीत्वं । तिज उत्तरत्वान्निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+And of that smoky Agni, whose flames (arcayaḥ) go well, that is, spread on every side; Trita, that is, pervading in the three places, or one who goes to the three places; when in heaven, that is, in the atmosphere, he fans himself up (upa dhamati), that is, increases himself, then the flames go out in all directions. How? Like a blower: as a smith increases fire with bellows and the like, so he increases himself. And further, "as in the blower": as the fire that is near a blower, being blown by him, sharpens itself, that is, makes itself keen, so he makes himself keen of his own accord. The word "aha" is a mere filler of the verse-quarter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—and
+- ध्मातेव (*dhmāteva*)—as a smith blows up fire and makes it grow
+- ध्मातरी यथा (*dhmātarī yathā*)—as the fire in the smith's furnace
+- शिशीते (*śiśīte*)—when the smith blows with the bellows, increases its own form
+- यत् (*yat*)—when
+- त्रितः (*tritaḥ*)—surpassing the three places
+- दिवि (*divi*)—in the atmosphere
+- ईं (*īṃ*)—his own form
+- उप धमति (*upa dhamati*)—makes grow
+- (then)
+- धूमिनः (*dhūminaḥ*)—smoky
+- यस्य (*yasya*)—of which same Agni
+- अर्चयः (*arcayaḥ*)—flames
+- सम्यक् संयंति (*samyak saṃyaṃti*)—spread everywhere beautifully
+
+##### भावार्थ (Bhāvārtha)
+
+As a smith blows up fire and makes it grow, and as the fire in a smith's furnace, when the smith blows with the bellows, increases its own form, so when Agni surpasses the three places and makes his own form grow in the atmosphere, then the flames of that smoky Agni spread everywhere beautifully.
+
+##### English translation
+Of whom smoke-emitting, the flames intensely collect ; then, when diffused in the three regions Agni inflates himself in the firmament, like the blower of a bellowes, and sharpens (his flames), as (the fire blazes from the blast) of the blower.
+
+### Printed p. 18
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवा॒हम॑ग्न ऊ॒तिभि॑र्मि॒त्रस्य॑ च॒ प्रश॑स्तिभिः ।  
+> द्वे॒षो॒युतो॒ न दु॑रि॒ता तु॒र्याम॒ मर्त्या॑नां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । अहं । अग्ने । ऊतिभिः । मित्रस्य । च । प्रशस्तिभिः ।  
+> द्वेषःयुतः । न । दुःइता । तुर्याम । मर्त्यानां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मित्रस्य सर्वेषां मित्रभूतस्य तवोतिभिर्युष्मत्कर्तृकरक्षणैर्युष्मत्पशस्ति भिश्चास्मत्कृतैः स्तोत्रैश्च मर्त्यानां शत्रुभूतानां मनुष्याणां दुरिता
+> दुरितानि तत्कर्तृकाणि पापसाधनकर्माणि द्वेषयुतो न द्वेषयुक्तान् शत्रुविनिव
+> तुर्याम । तरेयं । आयमर्थः । त्वद्रक्षणैस्त्वत्संबंधिस्तुतिभिश्च बाह्याभ्यंतरशत्रुवन् तरेयमित्यर्थः ॥ ऊतिभिः । अव रक्षणे । क्तिन् । ज्वरत्वरस्रिव्यविमवामुपधायाश्चेत्यूट् । ऊतियूतिसातिहेतिकीर्तयश्चेत्यंतोदात्तो निपातितः। प्रशस्तिभिः।
+> शन्नु स्तुत् । क्तिन् । कृदुत्तरप्रकृतिस्वरापवादत्वेन तादौ च निति कृत्यताविति गतेरुदात्तत्वं । द्वेषोयुतः । द्विष अप्रीत् । भावेऽसुन्प्रत्ययः । यु मिश्रणे ।
+> कर्तरि क्विप् । तुक् । कृदुत्तरपदप्रकृतिस्वरत्वं । तुर्याम । तृ प्लवनतरणयोः ।
+> प्रार्थनायां लिज् । यासुट् । लिजिः सलोपोऽनंत्यस्यॆति सकारलोपः । बहुलं
+> छंदसीति शपो लुक् । उदोष्यपूर्वस्य बहुलं छंदसीत्युत्वं । यासुडागमस्योदात्तत्वाच्छेषनिघातः । अपादादाविति प्रतिषेधान्नि घाताभावः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, friend of all, by your protections, the acts of protecting done by you, and by the praises of you made by us, may we pass over the evil deeds, the sin-producing acts, done by mortals who are our enemies, as one passes over enemies who are full of hatred (dveṣoyutaḥ). The meaning is: by your protections and by praises connected with you may I overcome the outer and the inner enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अहं (*ahaṃ*)—I
+- मित्रस्य (*mitrasya*)—who are the friend of all
+- तव (*tava*)—your
+- ऊतिभिः (*ūtibhiḥ*)—by protections
+- प्रशस्तिभिश्च (*praśastibhiśca*)—and with the help of hymns addressed to you
+- मर्त्यानां (*martyānāṃ*)—natural to men
+- दुरिता (*duritā*)—sins
+- द्वेषोयुतो न (*dveṣoyuto na*)—as one conquers enemies full of hatred
+- तुर्याम (*turyāma*)—may I cross over
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by your protections, you who are the friend of all, and with the help of hymns addressed to you, may I cross over the sins natural to men. May I be freed from those sins as one conquers enemies full of hatred.
+
+### Printed p. 19
+
+##### English translation
+By the protections of you, Agni, the friend (of all), and by our praises (of you), may we pass safe from the evil acts of men, as if from malignant (enemies).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नो॑ अग्ने अ॒भी नरो॑ र॒यिं स॑हस्व॒ आ भ॑र ।  
+> स.क्षे॑पय॒त्स पो॑षय॒द्भुव॒द्वाज॑स्य सा॒तय॑ उ॒तैधि॑ पृ॒त्सु नो॑  ॒
+> वृधे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । नः । अग्ने । अभि । नरः । रयिं । सहस्वः । आ । भर ।  
+> सः । क्षेपयत् । सः । पोषयत् । भुवत् । वाजस्य । सातयेः । उत । एधि । पृत्सु ।  
+> नः । वृधे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सहस्वो बलवन्नरो हविषां नेतारो नोऽस्माकं तं रयिं लोके
+> प्रसिद्धं पश्वादिलक्षणं धनमभ्या भर । अभिमुख्येनाहर । पूर्वोक्तः सोऽग्निः
+> क्षेपयत् । आस्मदीयान् शत्रून् क्षेपयतु । सोऽग्निः पोषयत् । आस्मान्पोषयतु । वाजस्यान्नस्य सातये लाभाय भुवत् । भवतु ! उत आपि च हे अग्ने
+> पृत्सु पृतनासु युद्धेषु नोऽस्माकं वृधे समृद्धय एधि । भव । संग्रामे शत्रुविजयार्थं स त्वं समृद्धिं कुर्वित्यर्थः ॥ सहस्वः षह मर्षणे ! असुन् ! सहत्यनेन शत्रूनिति सहो बलं । मतुप् । मामपधाया इति वत्वं ! मतुवसो रुः
+> संबुद्धौ छंदसीति रुत्वं । अमंत्रितस्य चेति निघातः । क्षेपयत् । क्षिप प्रेरणे ।
+> णिजंताल्लॆट् । इतश्च लोपः । लेटोऽडाटावित्यडागमः । शब्दुणायादेशौ पर
+> रूपत्वं च । पोषयत् । पुष पुष्टौ । भुवत् । भू सत्तायां । भूसुवोस्ति जोति
+> गुणप्रतिषेधः । उवज् । ऐधि । आस भुवि । घ्वसोरेद्धावभ्यासलोपश्चेत्येश्वं ।
+> तस्यासिद्धत्वाद्दुझल्व्यो हेर्धिरिति धिरादेशः । निघातः । पृत्सु । पदादिष्वित्यादिना
+> पृतनाशब्दस्य पृदादेशः । सावेकार्जत्वादंतोदाश्वं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, mighty one (sahasvaḥ), leader (naraḥ) of the oblations, bring to us (abhi ā bhara), that is, bring towards us, that wealth (rayim) well known in the world, having the form of cattle and the like. May that Agni mentioned before cast down (kṣepayat) our enemies; may that Agni nourish us; may he be (bhuvat) for the gain of food (vāja). And, O Agni, in battles (pṛtsu, from pṛtanā) be (edhi) for our prosperity: so you, for victory over the enemy in war, make us prosper.
+
+### Printed p. 20
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्वः (*sahasvaḥ*)—O powerful
+- अग्ने (*agne*)—O Agni
+- नरः (*naraḥ*)—you, the leader of the oblations
+- तं रयिं (*taṃ rayiṃ*)—that well-known wealth
+- नः अभि (*naḥ abhi*)—towards us
+- आ भर (*ā bhara*)—bring
+- सः (*saḥ*)—that well-known Agni
+- क्षेपयत् (*kṣepayat*)—may he cast down our enemies
+- सः (*saḥ*)—that same Agni
+- पोषयत् (*poṣayat*)—may he nourish (us)
+- वाजस्य (*vājasya*)—of food
+- सातये (*sātaye*)—for the gain
+- भुवत् (*bhuvat*)—may he be a helper
+- उत (*uta*)—and (O Agni)
+- पृत्सु (*pṛtsu*)—in battles
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for prosperity
+- एधि (*edhi*)—come as a helper
+
+##### भावार्थ (Bhāvārtha)
+
+O powerful Agni, you, the leader of the oblations, bring towards us that well-known wealth. May that well-known Agni cast down our enemies. May that same Agni nourish us. May he bring us the gain of food. O Agni, be a helper to us in battles, for our victory and for the growth of our wealth.
+
+##### English translation
+Powerful Agni, bestow upon us the institutors (of pious rites), that wealth (which we desire) : may he discomfit (our foes) : may he cherish us : may he be ever ready to bestow upon us food : and Agni, be present in battles for our success.
+
+## Sūkta 10 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्न ओजिष्ठमिति सप्तर्चं दशमं सूक्तं । ऋष्यादि विनियोगश्च पूर्ववत् ।
+> चतुर्थीसप्तम्या पंक्ती । अग्न ओजिष्ठमंत्याचतुर्थ्य चेत्यनुक्रांतं ॥
+> अनुवादवु—अग्न ओजिष्ठः ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
+> इदरल्लि एळु ऋक्कुगळिरुववु. ई सूक्तक्कॆ ऋषिदेवताछंदस्सु मत्तु विदियोगवु हिंदिन
+> सूक्तक्कॆ हेळिरुवंतॆये इदॆ. आदरॆ ई सूक्तद नाल्कु मत्तु एळनॆय ऋक्कुगळु पंक्तिश्चंदस्कवु.
+> अनुक्रमणिकॆयल्लि-अग्न ओजिष्ठ मंत्याचतुर्थ्य च ऎंदु हेळिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta "Agna ojiṣṭham", of seven Ṛks, is the tenth. The seer and the rest and the use are as before. The fourth and the seventh Ṛks are Paṅkti. The Anukramaṇī says accordingly: "Agna ojiṣṭham, with the last and the fourth Ṛk, Paṅkti".
+
 ---
 
-**Progress note:** Done through printed p. 14. Sūkta 5.9 Ṛks 1-3, pp. 8-14
+**Progress note:** Done through printed p. 20. Sūkta 5.9 Ṛks 3-7, start of Sūkta 10, pp. 15-20
