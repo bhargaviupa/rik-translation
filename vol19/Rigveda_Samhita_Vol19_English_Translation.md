@@ -1760,6 +1760,244 @@ In the two preceding Ṛks the seer told of the troubles that come to those who 
 
 The thirteenth sūkta, अर्चंतस्त्वोति (*arcaṃtastvoti*), has six Ṛks; its seer is Sutaṃbhara, its metre Gāyatrī, its deity Agni. The Anukramaṇī says: अर्चंतो गायत्रं त्विति (*arcaṃto gāyatraṃ tviti*). In the Prātaranuvāka, in the Āgneya rite, for the verses in Gāyatrī metre, and in the Āśvina-śastra, the two sūktas beginning with this one are used. It is prescribed in the sūtra: अर्चंतस्त्वोति सूक्ते (*arcaṃtastvoti sūkte*) (Ā. Sū. 4-13). At the worship of the Āhavanīya fire, one Ṛk, त्वमग्ने सप्रथा (*tvamagne saprathā*), is used; as the sūtra says: सं नः सृज सुमत्या वाजवत्या त्वमग्ने सप्रथा असीति च (*saṃ naḥ sṛja sumatyā vājavatyā tvamagne saprathā asīti ca*) (Ā. Sū. 3-10). In the Pauṣṭa offering (iṣṭi) of the Aśvamedha, त्वमग्ने सप्रथा (*tvamagne saprathā*) is the first Ājyabhāga anuvākyā, and सोम यास्ते मयोभुव इति सद्वंतौ (*soma yāste mayobhuva iti sadvaṃtau*) (Ā. Sū. 10-6).
 
+### Printed p. 53
+
+> सूक्त-१४
+> ॥ मंडल—५ ॥ अनुवाक—१ ॥ सूक्त—१३ ॥
+> ॥ अष्टक—४ ॥ अध्याय—१ ॥ वर्ग—५ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६
+> ऋषि:--सुतंभर आत्रेयः
+> देवता—आग्निः ॥
+> ॥ छंदः—गायत्रि ॥
+
+**NOTE**
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्चं॑तस्त्वा हवाम॒हेऽर्चं॑तः॒ समि॑धीमहि ।  
+> अग्ने॒ अर्चं॑त ऊ॒तये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चंतः । त्वा । हवामहे । अर्चंतः । सं । इधीमहि ।  
+> अग्ने । अर्चंतः । ऊतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वा त्वामर्चंतः पूजयंतो वयं हवामहे । आह्वयामः ।
+> अर्चंतः स्तुवंतो वयमूतये रक्षणाय तर्पणाय वा त्वां समिधीमहि ।
+> समिद्धिः संदीपयामः । अर्चंत इति तृतीयं पदमादरातिशयार्थं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we who adore you invoke you. Adoring, that is, praising, we kindle you with fuel-sticks, we make you blaze, for our protection or for your satisfaction. The word अर्चंत (*arcaṃta*) stands a third time for the sake of great respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वा (*tvā*)—you
+- अर्चंतः (*arcaṃtaḥ*)—we who worship
+- हवामहे (*havāmahe*)—we call you for help
+- अर्चंतः (*arcaṃtaḥ*)—praising you
+- उतये (*utaye*)—for protection
+- समिधीमहि (*samidhīmahi*)—we make you blaze
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worshipping you, we pray and call you for our help. Praising you, we make you blaze for our protection.
+### Printed p. 54
+
+##### English translation
+Adoring you, Agni, we invoke you: adoring you we kindle you, adoring you for protection.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नेः स्तोमं॑ मनामहे सि॒ध्रम॒द्य दि॑वि॒स्पृशः॑ ।  
+> दे॒वस्य॑ द्रविण॒स्यवः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नेः । स्तोमं । मनामहे । सिध्रं । अद्य । दिविस्पृशः ।  
+> देवस्य । द्रविणस्यवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्रविणस्यवो द्रविणं धनमिच्छंतो वयं दिविस्पृशः सूर्यरूपेणाकाशं
+> व्याप्नुवतो देवस्य द्योतमानस्याग्नेः सिध्रं पुरुषार्थानां साधकं स्तोमं
+> स्तोत्रमद्यास्मिन्नहनि मनामहे । ब्रूमः ॥
+
+##### Gist of the bhāṣya
+
+We who desire wealth recite today, on this day, the praise of the shining Agni, who pervades the sky in the form of the sun: a praise that accomplishes the aims of man.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रविणस्यवः (*draviṇasyavaḥ*)—we who desire wealth
+- दिविस्पृशः (*divispṛśaḥ*)—of him who pervades the intermediate space in the form of the sun
+- देवस्य (*devasya*)—and who is shining
+- अग्नेः (*agneḥ*)—the praise that is addressed to Agni
+- सिद्धं (*siddhaṃ*)—that accomplishes the aims of man
+- स्तोमं (*stomaṃ*)—praise
+- अद्य (*adya*)—at this time of the sacrifice
+- मनामहे (*manāmahe*)—we recite
+
+##### भावार्थ (Bhāvārtha)
+
+We who desire wealth recite, at the time of this sacrifice, the praise addressed to the shining Agni, who pervades the intermediate space in the form of the sun, the praise that accomplishes the aims of man.
+
+##### English translation
+Desirous of wealth, we recite to-day the effectual praise of the divine Agni, (whose radiance) reaches the sky.
+### Printed p. 55
+
+##### विशेषविषयगळु (Special Topics)
+
+It has been explained many times before that Agni pervades in three forms: in heaven in the form of Āditya, in the intermediate space in the form of lightning-fire, and on earth in the form of terrestrial fire (the sacrificial fire, the household fire or the forest fire). In the present Ṛk it is explained that Agni shines in heaven (the intermediate space) in the form of the sun.
+सिद्ध्रं-साधनं । (*siddhraṃ-sādhanaṃ |*) Yāska has explained that the word sidhra has the meaning "means" (Ni. 9-38), and as an example has cited the mantra **NOTE** द्यावा नः पृथिवी इमं सिध्रमद्य दिविस्स,शं । यज्ञं देवेषु यच्छतां ॥ (*dyāvā naḥ pṛthivī imaṃ sidhramadya divissa,śaṃ | yajñaṃ deveṣu yacchatāṃ ‖*) (Ṛ. Saṃ. 2-41-20).
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्जु॑षत नोः॒ गिरो॒ होता॒ यो मानु॑षे॒ष्वा ।  
+> स य॑क्ष॒द्दैव्यं॒ जनं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । जुषत । नः । गिरः । होता । यः । मानुषेषु । आ ।  
+> सः । यक्षत् । दैव्यं । जनं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता देवानामाह्वाता योऽग्निर्मानुषेष्वा वसति सोऽग्निर्नोऽस्माकं
+> गिरः स्तुतीर्जाषत । सेवतां । सोऽग्निर्दैव्यं जनं' देवसंबंधिनं जनं यक्षत् ।
+> यजतु ॥
+
+##### Gist of the bhāṣya
+
+The Hotā, the invoker of the gods, who dwells among men: may that Agni accept our praises, that is, partake of them. May that Agni offer sacrifice to the people connected with the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the one who
+- अग्निः (*agniḥ*)—Agni
+- मानुषेषु (*mānuṣeṣu*)—stands among men
+- सः (*saḥ*)—that same Agni
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words in the form of praise
+- जुषत (*juṣata*)—may he partake of (and)
+- दैव्यं जनं (*daivyaṃ janaṃ*)—with reference to people of divine nature
+- यक्षत् (*yakṣat*)—may he perform the sacrifice
+### Printed p. 56
+
+##### भावार्थ (Bhāvārtha)
+
+May that Agni who stands in the midst of men partake of our praises, and may he perform the sacrifice with reference to the people of divine nature.
+
+##### English translation
+May Agni, who amongst men is the invoker of the gods, accept our praises ; may he offer sacrifice to the divine beings-
+
+##### विशेषविषयगळु (Special Topics)
+
+यः अग्निः मानुषेषु आ (*yaḥ agniḥ mānuṣeṣu ā*)—the Agni who is among men, that is, the sacrificial fire established on the sacrificial altar in the form of Gārhapatya and the rest. In the preceding Ṛk the Agni who is in heaven in the form of Āditya was praised; in this Ṛk the terrestrial Agni is praised. Although the terrestrial fire has the varieties sacrificial fire, household fire and forest fire, here there is the prayer नः गिरः जुषत (*naḥ giraḥ juṣata*), "may he partake of our praises", and so it should be understood that the praise is addressed to the sacrificial fire alone.
+दै व्यं जनं (*dai vyaṃ janaṃ*)—देवसंबंधिनं जनं (*devasaṃbaṃdhinaṃ janaṃ*): people connected with the gods, that is, the gods who are invoked in the sacrifice: such is the purport.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने स॒प्रथा॑ असि॒ जुष्टो॒ होता॒ वरे॑ण्यः ।  
+> त्वया॑ य॒ज्ञं वि त॑न्वते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । सप्रथाः । असि । जुष्टः । होता । वरेण्यः ।  
+> श्वया । यज्ञं । वि । तन्नते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जुष्टः सर्वदा प्रीतो वरेण्यः सर्वैर्वर्णनीयो होता त्वं
+> सप्रथाः सर्वतः पृथुरसि । भवसि । तथाह यास्कः । सप्रथाः सर्वतः पृथुः । नि. ६. ७. ।
+> इति । किंच सर्वे यजमानास्त्वाया साधनेन यज्ञं वितन्वते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are ever pleased, who are to be chosen by all, the Hotā, are spread widely everywhere. So Yāska says: सर्वतः पृथुः (*sarvataḥ pṛthuḥ*) (Ni. 6. 7.). Moreover, all sacrificers extend the sacrifice by you as the means.
+### Printed p. 57
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- जुष्टः (*juṣṭaḥ*)—fully satisfied
+- वरेण्यः (*vareṇyaḥ*)—honoured by all
+- होता (*hotā*)—the accomplisher of the offering
+- त्वं (*tvaṃ*)—you
+- सप्रथाः (*saprathāḥ*)—having gained pre-eminence in every way
+- असि (*asi*)—you are
+- त्वया (*tvayā*)—by your help alone
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- वि तन्वते (*vi tanvate*)—(the sacrificers) carry out
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are fully satisfied, honoured by all and the accomplisher of the offering, have gained pre-eminence in every way. By your help alone the sacrificers carry out the sacrifice.
+
+##### English translation
+You, Agni, are mighty and gracious, the (ministrant) priest, the desired (of all): through you worshippers complete the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+जुष्टः (*juṣṭaḥ*)—सर्वदा प्रीतः (*sarvadā prītaḥ*). The purport is: one who is always pleased, who is delighted, with the oblations and the like that the sacrificers offer in the sacrifice.
+वरेण्यः (*vareṇyaḥ*)—सर्वैर्वर्णीयः (*sarvairvarṇīyaḥ*): one who is desired by all. Since a sacrifice cannot be performed without Agni, all people, the sacrificers and the rest, desire Agni; Agni is needed by all. Therefore in the second half of this Ṛk it is said त्वया यज्ञं वि तन्वते (*tvayā yajñaṃ vi tanvate*): all perform the sacrifice by you (with your help).
+सप्रथाः (*saprathāḥ*)—सर्वतः पृथुः (*sarvataḥ pṛthuḥ*). त्वमग्ने सप्रथा असीत्यपि निगमो भवति (*tvamagne saprathā asītyapi nigamo bhavati*) (Ni. 6-7). Since Agni pervades everywhere (when he burns), he spreads very widely: thus Yāska explained the meaning of the word saprathāḥ and gave this very Ṛk as the example.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने वाज॒सात॑मं॒ विप्रा॑ वर्धंति॒ सुष्टु॑तं ।  
+> स नो॑ रास्व सु॒वीर्यं॑ ॥ ५ ॥
+
+### Printed p. 58
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । वाजसातमं । विप्राः । वर्धंति । सुस्तुतं ।  
+> सः । नः । रास्व । सुवीर्यं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विप्रा मेधाविनः स्तोतारो वाजसातमं । वाजोऽन्नं । तद्ददतं
+> सुष्टुतं पूर्वैर्महर्षिभिः सम्यक् स्तुतं तं त्वां वर्धंति । स्तोत्रैर्वर्धयंति ।
+> स त्वं नोऽस्मभ्यं सुवीर्यं सर्वैः श्लाघनीयं बलं रास्व । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the wise praisers, the intelligent ones, make you grow with their hymns: you, the giver of food (vāja is food, and you give it), well praised by the great seers of old, thoroughly praised. May you, such as you are, give us excellent strength that is to be praised by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विप्राः (*viprāḥ*)—the wise praisers
+- वाजसातमं (*vājasātamaṃ*)—the giver of food
+- सुष्टुतं (*suṣṭutaṃ*)—praised by all
+- त्वां (*tvāṃ*)—you
+- वर्धंति (*vardhaṃti*)—they cause to grow
+- सः (*saḥ*)—such you
+- नः (*naḥ*)—to us
+- सुवीर‍्यं (*suvīryaṃ*)—praiseworthy strength
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the wise praisers cause you to grow, you who are the giver of food and are praised by all. May you, such as you are, produce praiseworthy strength for us.
+
+##### English translation
+Wise worshippers exalt you, Agni, the bountiful giver of food, the deservedly lauded : bestow upon us excellent strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+विप्राः (*viprāḥ*)—The word vipra is read among the names of the wise (Ni. 3-19); it means intelligent people. This word is also used in the sense of the officiating priests who take part in the sacrifice and of the praisers. There is the explanation of Durgācārya: विविधानर्थानस्य प्राप्तुं धातीति विप्रः (*vividhānarthānasya prāptuṃ dhātīti vipraḥ*). Saying that medhāvin means one who possesses intellect, Yāska states the etymology मेधावी कस्मान्मेधया तद्वान् भवति । मेधा मता धीयते । (*medhāvī kasmānmedhayā tadvān bhavati | medhā matā dhīyate |*) (Ni. 3-19). Asking what a medhāvin is, he explains the meaning: the man in whose intellect there is excellent knowledge, a man who possesses such power of intellect.
+वाजसातमं सुष्टुतं विप्रा वर्धंति (*vājasātamaṃ suṣṭutaṃ viprā vardhaṃti*)—the people who, praising him with hymns and the like, offer oblations in the sacrifice, this Agni, the giver of food and praised by all, in the sacrifices with fuel and the like
+
 ---
 
-**Progress note:** Done through printed p. 52. Sūkta 12 Ṛk 3 (end) to Ṛk 6, start of Sūkta 13 intro, pp. 46-52
+**Progress note:** Done through printed p. 58. Sūkta 13 Ṛks 1-5 (to the Special Topics of Ṛk 5), pp. 53-58
