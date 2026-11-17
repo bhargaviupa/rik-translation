@@ -126,7 +126,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T8 | One vocabulary for the series: deities, seers, metres, ritual terms spelt the same in every volume | all | [ ] |
 | T9 | The shared accent tool reads the older layouts (it finds no verse in Vol 2) | group A | [ ] in the Vol 2 session |
 | T10 | Translation step in the new form (units instead of windows) | Vols 13, 19 onwards | [ ] |
-| T12 | **Glosses of quoted Ṛks** (user, Nov 17 2026: the edition quotes other Ṛks without a Kannada meaning; our glosses of them are often incomplete; Vol 2 has 189 lines with a gloss, 92 marked "mine and tentative"). Proposal, not decided: one table Maṇḍala–Sūkta–Ṛk → English, filled from the volume where the edition itself translates that Ṛk, and for Ṛks of volumes not yet made from a public-domain translation; the gloss of every quoted Ṛk is then set by script from that table. Quotations from other works stay the translator's. | all | [ ] awaiting the user's decision |
+| T12 | **Glosses of quoted Ṛks.** *Decided by the user, Nov 17 2026:* the gloss of a Ṛk quoted from elsewhere is **our own edition's translation of that Ṛk**, taken by script from one table Maṇḍala–Sūkta–Ṛk → English; where that volume is not made yet, a **placeholder** stands, filled once the translation exists; **a final copy is not printed while a placeholder remains** (requirement B3.5, gate D9). Quotations from other works stay the translator's. To build: the table from the volumes made; finding the quoted Ṛks and their references in each volume (count first: how many carry a usable reference, how many glosses are incomplete); replacing glosses; the placeholder and its gate. Consequence: a volume that quotes Ṛks of later Maṇḍalas cannot go to print before those volumes are translated, unless you allow an exception. | all | [ ] |
 | T11 | Review PDFs still in `publish/out/` moved to their volume folders | all | [ ] |
 
 ---
@@ -141,6 +141,6 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
-- Nov 17 2026: T12 added (glosses of quoted Ṛks).
+- Nov 17 2026: T12 added and decided by the user (glosses of quoted Ṛks from our own edition; placeholder and print gate).
 - Nov 17 2026: Vol 5 supplied text, files 1, 2, 3, 45 and 6, put in `vol5/html/`.
 - Nov 17 2026: file created for Vols 1–3; the user's assessment of Vol 2 recorded and the prompt for its clean-up session written; the same day extended to all volumes (1–19), with counts taken from the repository on that day.
