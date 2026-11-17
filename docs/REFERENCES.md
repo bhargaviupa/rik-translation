@@ -80,7 +80,7 @@
 | Śai. Brā. | ಶೈ. ಬ್ರಾ. | Tai. Brā. | decided by the user, Nov 14 2026 |
 | Kṛ. Saṃ. | ಕೃ. ಸಂ. | Tai. Saṃ. | decided by the user, Nov 14 2026 |
 | Kṛ. U. | ಕೃ. ಉ. | Tai. U. | decided by the user, Nov 14 2026 |
-| Bhā. U. | ಭಾ. ಉ. | Bṛ. U. | decided by the user, Nov 14 2026 |
+| Bhā. U. | ಭಾ. ಉ. | Chā. U. | user, Nov 17 2026: ಭಾ. ಉ. is almost always Chāndogya Upaniṣad (decided Nov 14 as → Bṛ. U.; changed) |
 | Atha. Saṃ. | ಅಥ. ಸಂ. | Ath. Saṃ. | decided by the user, Nov 14 2026 |
 | Ṛgve. | ಋಗ್ವೇ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |
 | Ṛg. | ಋಗ್. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |

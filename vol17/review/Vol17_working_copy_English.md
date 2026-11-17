@@ -14234,7 +14234,7 @@ In the present verse, even when त्रिः उत्तमा रोचन�
 
 असुरस्य (*asurasya*)—अस्यति क्षिपति सर्वमित्यसुरः । कालात्मा संवत्सरः । (*asyati kṣipati sarvamityasuraḥ | kālātmā saṃvatsaraḥ |*) Here only one aspect of the year is indicated: the year in the form of Time, which holds everything under its control. As the year is the cause of creation and growth, so it is the cause of decay. As explained before, here too Prajāpati, the presiding deity of the year, may be what is meant.
 
-प्रजापतिर्लोकानभ्यतपत्तेषां तप्यमानानां रसान्प्रावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः ॥ (*prajāpatirlokānabhyatapatteṣāṃ tapyamānānāṃ rasānprāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ ‖*) (Bṛ. U. 4-17-1)<sup class="q">?168</sup>
+प्रजापतिर्लोकानभ्यतपत्तेषां तप्यमानानां रसान्प्रावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः ॥ (*prajāpatirlokānabhyatapatteṣāṃ tapyamānānāṃ rasānprāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ ‖*) (Chā. U. 4-17-1)
 
 Prajāpati meditated on the essence of the three worlds, drew out their sap and spread it forth. From the earth he caused Agni to shine, from the atmosphere Vāyu, from heaven Āditya. Since it is thus described that from the three worlds spoken of in the present Ṛk as रोचना त्रिः (*rocanā triḥ*) he caused three excellent deities to shine, here also असुरस्य (*asurasya*) may be said to mean Prajāpati in the form of the year.
 
@@ -15296,7 +15296,7 @@ as the lofty and spacious path of the Gandharva. It has likewise been explained 
 
 मेधाः (*medhāḥ*)—the word मेध (*medha*) means sacrifice. In some places it also means the oblation fit for the sacrifice. At मेधं जुषंत वह्नयः (*medhaṃ juṣaṃta vahnayaḥ*) (1-3-9) Sāyaṇa explains: मेध्यते देवैः सह, संगम्यते इति मेधं हविः (*medhyate devaiḥ saha, saṃgamyate iti medhaṃ haviḥ*) — since the oblation joins and becomes one with the gods, the word मेध (*medha*) applies to it. Or, if मेध (*medha*) is taken to mean wisdom, the act of a wise man is also मेध (*medha*). Some hold that because worship of the gods and the like is the act of the wise, the sacrifice has the name मेध (*medha*). This sense too is not without support:
 
-यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति (*yadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati*) (Bṛ. U. 1-1-10)
+यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति (*yadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati*) (Chā. U. 1-1-10)
 
 The Chāndogya and others say that the rite performed with knowledge and with faith is the one that becomes vigorous; since the need of knowledge at the time of performing rites is thus stated, the word मेध (*medha*) may be so applicable. But in giving this sense, the etymology मेध्यते देवैः सह (*medhyate devaiḥ saha*) must still be applied to the sacrifice.
 
@@ -15609,15 +15609,15 @@ and steady path. Although some points show that the account of the path in the U
 
 ये चेमेऽरण्ये श्रद्धा तप इत्युपासते तेऽर्चिषमभिसंभवंत्यर्चिषाहरह्न आपूर‍्यमाणपक्षमापूर‍्यमाणपक्षाद्यान्नडुदजेति मासांस्तान् । मासेभ्यः संवत्सरं संवत्सरादादित्यमादित्याच्चंद्रमसं चंद्रमसो विद्युतं तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवयानः पंथा इति ॥ (*ye ceme 'raṇye śraddhā tapa ityupāsate te 'rciṣamabhisaṃbhavaṃtyarciṣāharahna āpūryamāṇapakṣamāpūryamāṇapakṣādyānnaḍudajeti māsāṃstān | māsebhyaḥ saṃvatsaraṃ saṃvatsarādādityamādityāccaṃdramasaṃ caṃdramaso vidyutaṃ tatpuruṣo 'mānavaḥ sa enānbrahma gamayatyeṣa devayānaḥ paṃthā iti ‖*)
 
-(Bṛ. U. 5-10-1, 2)
+(Chā. U. 5-10-1, 2)
 
-<sup class="q">?188</sup>
+
 
 Those who, knowing the fire-knowledge, practise austerity joined with faith enter the flame. (This is the sun's ray in the form of fire, in the flame of the funeral pyre.) From this flame, which is of the nature of light, they enter the day; from the day, the bright fortnight; from the bright fortnight, the uttarāyaṇa, the northern course of the sun; from there, the year; from the year, the world of the Ādityas; from there, the moon-world, other than it; from there, the world of lightning. This is devayāna.
 
 अथ य इमे ग्राम इष्टापूर्ते दत्तमित्युपासते ते धूममभिसंभवंति धूमाद्रात्रिं रात्रेरपरपक्षमपरपक्षाद्यान्नड्डक्षिणैतिमासांस्तान्नैते संवत्सरमभिप्राप्रुवंति मासेभ्यः पितृलोकं पितृलोकादाकाशं .... .... तं देवा भक्षयंति । (*atha ya ime grāma iṣṭāpūrte dattamityupāsate te dhūmamabhisaṃbhavaṃti dhūmādrātriṃ rātreraparapakṣamaparapakṣādyānnaḍḍakṣiṇaitimāsāṃstānnaite saṃvatsaramabhiprāpruvaṃti māsebhyaḥ pitṛlokaṃ pitṛlokādākāśaṃ .... .... taṃ devā bhakṣayaṃti |*)
 
-(Bṛ. U. 5-10-3, 4)
+(Chā. U. 5-10-3, 4)
 
 Those who live in villages and, placing faith in sacrificial action done for desire, perform the action, enter the smoke. From the smoke they enter the night, full of darkness; from the night, the dark fortnight; from the dark fortnight, the dakṣiṇāyana; from the dakṣiṇāyana, the year; from there, the world of the fathers; from there, the sky; and through it, the world of the Moon (Soma). Since Soma is food for the gods, they eat it. The same description, slightly varied, is given in the same way in the Bṛhadāraṇyaka Upaniṣad also (6-2-15). In the account of pitṛyāna the sky is not included. Moreover,
 
@@ -17484,11 +17484,11 @@ The present Ṛk says that the Ṛbhus, sons of Aṅgiras, obtained Indra's frie
 
 The very form of the Āditya whom the Chāndogya and other texts praise as the udgītha is also Aṅgiras. How is this?
 
-अथाधिदैवतं य एवासौ तपति तमद्गीथमुपासीतोद्यन्वा एष प्रजाभ्य उद्दायति । उद्यन्‌स्तमो भयमपहन्त्यपहंता ह वै भयस्य तमसो भवति य एवं वेद ॥ (*athādhidaivataṃ ya evāsau tapati tamadgīthamupāsītodyanvā eṣa prajābhya uddāyati | udyanstamo bhayamapahantyapahaṃtā ha vai bhayasya tamaso bhavati ya evaṃ veda ‖*) (Bṛ. U. 1-3-1)<sup class="q">?224</sup>
+अथाधिदैवतं य एवासौ तपति तमद्गीथमुपासीतोद्यन्वा एष प्रजाभ्य उद्दायति । उद्यन्‌स्तमो भयमपहन्त्यपहंता ह वै भयस्य तमसो भवति य एवं वेद ॥ (*athādhidaivataṃ ya evāsau tapati tamadgīthamupāsītodyanvā eṣa prajābhya uddāyati | udyanstamo bhayamapahantyapahaṃtā ha vai bhayasya tamaso bhavati ya evaṃ veda ‖*) (Chā. U. 1-3-1)
 
 One should worship the luminous Āditya himself as the udgītha. As soon as he rises he sings for the creatures in a manner that gives them joy. He destroys darkness and fear. Therefore this Āditya is the essence of the life of living beings and the giver of their contentment. Because he is thus the essence of life, the udgītha in the form of the Āditya is itself called Aṅgiras. How?
 
-तं हांगिरा उद्दीथमुपासां चक्र एतमु एवांगिरसं मन्यंतेऽंगानां यद्रसः ॥ (*taṃ hāṃgirā uddīthamupāsāṃ cakra etamu evāṃgirasaṃ manyaṃte 'ṃgānāṃ yadrasaḥ ‖*) (Bṛ. U. 1-2-10)<sup class="q">?225</sup>
+तं हांगिरा उद्दीथमुपासां चक्र एतमु एवांगिरसं मन्यंतेऽंगानां यद्रसः ॥ (*taṃ hāṃgirā uddīthamupāsāṃ cakra etamu evāṃgirasaṃ manyaṃte 'ṃgānāṃ yadrasaḥ ‖*) (Chā. U. 1-2-10)
 
 The Aṅgirases worshipped the udgītha. If one asks the reason for their worshipping, it is that they themselves are of the nature of the udgītha. How? The udgītha is the essence (rasa) of the limbs. Therefore udgītha means Aṅgiras. The rays of the Āditya give essence to the limbs of living beings. Therefore the udgītha is of the nature of the Āditya and of the nature of Aṅgiras; so by this explanation non-difference between the Āditya and Aṅgiras has been stated. Then what is the relation between such an Aṅgiras and Indra? It was explained earlier, in the Special Topics on Ṛ. Saṃ. 1-100-4, how the epithet अंगिरोभिः अंगिरस्तमः (*aṃgirobhiḥ aṃgirastamaḥ*) shows Indra's Aṅgiras-nature. The meaning of the statement that Indra in the form of Aṅgiras caused the cows to be released is that Indra in the form of the Āditya split the mountain of the form of darkness and freed the cows of the form of rays.
 
@@ -20038,7 +20038,7 @@ Of these four feet, the first three reflect the world in the form of the effect,
 
 **14. The spiritual character of metre, and the primacy of Gāyatrī in the search for knowledge.**
 
-देवा वै मृत्योर्भिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छंदोभिराच्छादयन्यदेभिराच्छादयन्स्छंदसां छंदस्त्वं । (*devā vai mṛtyorbhibhyatastrayīṃ vidyāṃ prāviśaṃste chaṃdobhirācchādayanyadebhirācchādayanschaṃdasāṃ chaṃdastvaṃ |*) (Bṛ. U. 1-4-2)<sup class="q">?279</sup>
+देवा वै मृत्योर्भिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छंदोभिराच्छादयन्यदेभिराच्छादयन्स्छंदसां छंदस्त्वं । (*devā vai mṛtyorbhibhyatastrayīṃ vidyāṃ prāviśaṃste chaṃdobhirācchādayanyadebhirācchādayanschaṃdasāṃ chaṃdastvaṃ |*) (Chā. U. 1-4-2)
 
 This sentence states the general characteristic of metre. When the gods, afraid of death, entered the threefold knowledge (trayī), the threefold knowledge concealed them with the metres. The word chandas is derived from the root chad, meaning "cover, conceal". Because they covered them from death, they are called chandas; thus its characteristic is stated. (The root is also used in the sense "to gladden".)
 
@@ -20066,11 +20066,11 @@ That truth rests on strength. Strength is the vital breath (prāṇa). Therefore
 
 Speech (vāc) is in the form of the Anuṣṭubh, and speech is also of the form of the Gāyatrī. For this reason some teachers instruct the Sāvitrī in the form of the Anuṣṭubh. That is not right. Only the Sāvitrī in the form of the Gāyatrī should be taught. A man who knows this truth may accept a very abundant gift, and yet it does not equal even one foot of the Gāyatrī.
 
-स य इमांस्त्रीन्‌लोकान्पूर्णान् प्रतिगृह्णीयात्, सोऽस्या एतत्पथमं पदमाप्नुयात् । अथ यावतीयं त्रयी विद्या यस्तावत्पतिगृह्णीयात् सोऽस्याएतद्वितीयं पदमाप्नुयात् अथ यावदिदं प्राणि यस्तावत्पतिगृह्णीयात् सोऽस्या एतत्तृतीयं पदमाप्नुयात् अथास्या एतदेव तुरीयं दर्शतं पदं परोरजा य एष तपति । नैव केनच नाप्यं कुत उ एतावत्पतिगृह्णीयात् । (*sa ya imāṃstrīnlokānpūrṇān pratigṛhṇīyāt, so 'syā etatpathamaṃ padamāpnuyāt | atha yāvatīyaṃ trayī vidyā yastāvatpatigṛhṇīyāt so 'syāetadvitīyaṃ padamāpnuyāt atha yāvadidaṃ prāṇi yastāvatpatigṛhṇīyāt so 'syā etattṛtīyaṃ padamāpnuyāt athāsyā etadeva turīyaṃ darśataṃ padaṃ parorajā ya eṣa tapati | naiva kenaca nāpyaṃ kuta u etāvatpatigṛhṇīyāt |*) (Bṛ. U. 5-19-6)<sup class="q">?281</sup>
+स य इमांस्त्रीन्‌लोकान्पूर्णान् प्रतिगृह्णीयात्, सोऽस्या एतत्पथमं पदमाप्नुयात् । अथ यावतीयं त्रयी विद्या यस्तावत्पतिगृह्णीयात् सोऽस्याएतद्वितीयं पदमाप्नुयात् अथ यावदिदं प्राणि यस्तावत्पतिगृह्णीयात् सोऽस्या एतत्तृतीयं पदमाप्नुयात् अथास्या एतदेव तुरीयं दर्शतं पदं परोरजा य एष तपति । नैव केनच नाप्यं कुत उ एतावत्पतिगृह्णीयात् । (*sa ya imāṃstrīnlokānpūrṇān pratigṛhṇīyāt, so 'syā etatpathamaṃ padamāpnuyāt | atha yāvatīyaṃ trayī vidyā yastāvatpatigṛhṇīyāt so 'syāetadvitīyaṃ padamāpnuyāt atha yāvadidaṃ prāṇi yastāvatpatigṛhṇīyāt so 'syā etattṛtīyaṃ padamāpnuyāt athāsyā etadeva turīyaṃ darśataṃ padaṃ parorajā ya eṣa tapati | naiva kenaca nāpyaṃ kuta u etāvatpatigṛhṇīyāt |*) (Chā. U. 5-19-6)<sup class="q">?281</sup>
 
 One who accepts only these three worlds, full of wealth, obtains only the first foot of the Gāyatrī. One who accepts only the threefold Veda, the treasure of knowledge, obtains the second foot as well. One who accepts only the whole creation of living beings obtains the third foot as his reward. But no wealth in the world can equal the reward that falls to the man who has realised the fourth foot, the visible one, whose nature is "beyond the dust". Therefore the Gāyatrī is to be worshipped in this manner (Śaṅkara's commentary). The meaning is that the full form of the Gāyatrī is to be worshipped in the form of meditation.
 
-एवं हैवैवं विद्यद्यपि बह्विव पापं कुरुते सर्वमेव तत्संप्साय शुद्धः पूतोऽजरोऽमृतः संभवति । (*evaṃ haivaivaṃ vidyadyapi bahviva pāpaṃ kurute sarvameva tatsaṃpsāya śuddhaḥ pūto 'jaro 'mṛtaḥ saṃbhavati |*) (Bṛ. U. 5-14-8)<sup class="q">?282</sup>
+एवं हैवैवं विद्यद्यपि बह्विव पापं कुरुते सर्वमेव तत्संप्साय शुद्धः पूतोऽजरोऽमृतः संभवति । (*evaṃ haivaivaṃ vidyadyapi bahviva pāpaṃ kurute sarvameva tatsaṃpsāya śuddhaḥ pūto 'jaro 'mṛtaḥ saṃbhavati |*) (Chā. U. 5-14-8)<sup class="q">?282</sup>
 
 Even if one who knows the principle of the Gāyatrī in full should by chance commit sinful acts, he burns all of them and becomes pure, ageless and immortal. Because Agni is the mouth of the Gāyatrī
 
@@ -20200,7 +20200,7 @@ As explained in the sentences cited above, the Gāyatrī-principle that is descr
 
 यावान् ना अयमाकाशस्तानानेषोऽंतर्हृदय आकाश उभे अस्मिन् द्यावापृथिवी अंतरेव समाहिते उभावग्निश्च वायुश्च सूराचंद्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्केहास्ति यच्च नास्ति सर्वं तदस्मिन् समाहितमिति ॥ (*yāvān nā ayamākāśastānāneṣo 'ṃtarhṛdaya ākāśa ubhe asmin dyāvāpṛthivī aṃtareva samāhite ubhāvagniśca vāyuśca sūrācaṃdramasāvubhau vidyunnakṣatrāṇi yaccāskehāsti yacca nāsti sarvaṃ tadasmin samāhitamiti ‖*)
 
-(Bṛ. U. 8-1-3)<sup class="q">?290</sup>
+(Chā. U. 8-1-3)
 
 In this Brahman-city, the body, there is a subtle house in the form of a lotus. That is the heart-space. It is the dwelling-place of Brahman. One must search for it and see the Brahman-principle there: यदिदमस्मिन् ब्रह्मपुरे दहरं पुंडरीकं वेश्य दहरोऽस्मिन्नंतराकाशस्तस्मिन्यदंतस्तदन्वेष्टव्यं तद्वाव विजिज्ञासितव्यमिति (*yadidamasmin brahmapure daharaṃ puṃḍarīkaṃ veśya daharo 'sminnaṃtarākāśastasminyadaṃtastadanveṣṭavyaṃ tadvāva vijijñāsitavyamiti*) (Chā. U. 8-1-1). The nature of this subtle inner space, which contains the Brahman-principle that is greater than the cosmic egg, is this: as widely as the outer space spreads, so widely does this heart-space spread. In it both heaven and earth are spread; moreover, wind and fire, moon and sun, lightning and stars, whatever is contained within the body and whatever is not—all is contained in this small space. This heart-space is extremely subtle and free from sin. It is the best dwelling-place. In the form of a lotus, in the middle of the city that is the body, in this subtle heart there is a space still subtler, and the Brahman-principle that is contained in that space is to be worshipped: thus the heart-space is described.
 
@@ -20432,7 +20432,7 @@ Abiding in all the vyāhṛtis with the feeling of identity with the Self, and b
 
 Thus the Śrutis praise the Praṇava and the Gāyatrī, which consist of the vyāhṛtis bhūḥ and the rest, as the direct means of meditating on the Supreme Reality that pervades all the worlds, bhūḥ and the rest, designated by their syllables. The great mantra Gāyatrī has been described as गायति (*gāyati*) and त्रायते च (*trāyate ca*) ("it protects and it sings"), and so its special quality is shown. In the same way the Praṇava, which is of the nature of the syllable Om, is also praised.
 
-ओं इत्येतदक्षरमुद्गीथमुपासीत । ओमिति ह्युद्धायति ॥ (*oṃ ityetadakṣaramudgīthamupāsīta | omiti hyuddhāyati ‖*) (Bṛ. U. 8-1-1)<sup class="q">?316</sup>
+ओं इत्येतदक्षरमुद्गीथमुपासीत । ओमिति ह्युद्धायति ॥ (*oṃ ityetadakṣaramudgīthamupāsīta | omiti hyuddhāyati ‖*) (Chā. U. 8-1-1)
 
 The syllable Om is to be worshipped as the udgītha. It praises the reality of Brahman in the form of song. This Brahman-reality, which pervades the universe, abides in the form of the udgītha.
 
