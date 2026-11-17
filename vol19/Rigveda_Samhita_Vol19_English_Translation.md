@@ -4019,6 +4019,265 @@ O Agni, when you are satisfied with praises and the like, you blaze forth in the
 ##### English translation
 When you are pleased, Agni, you shine upon the human race; well-born, feeder upon clarified butter, the ladles are constantly uplifted to you.
 
+### Printed p. 108
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां विश्वे॑ स॒जोष॑सो दे॒वासो॑ दू॒तम॑क्रत ।  
+> स॒प॒र्यंत॑स्त्वा कवे य॒ज्ञेषु॑ दे॒वमी॑ळते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । विश्वे । सजोषसः । देवासः । दूतं । अक्रत ।  
+> सपर्यंतः । त्वा । कवे । यज्ञेषु । देवं । ईळते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सजोषसः सह प्रीयमाणा विश्वे सर्वॆ देवासो देवास्त्वां दूतमक्रत ।
+> अकुर्वन् ! अतः कारणात् हे कवे क्रांतदर्शिन् देवं द्योतमानं त्वा त्वां
+> सपर्यंतः परिचरंतो यजमाना यज्ञॆष्वीळते । देवानाह्वातुं याचंते ॥
+
+##### Gist of the bhāṣya
+
+All the gods, being pleased together (sajoṣasaḥ), have made you their messenger (dūta). For this reason, O Kavi, far-seeing one, the sacrificers, serving you who are shining (deva), at the sacrifices praise you; that is, they beseech you in order to summon the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सजोषसः (*sajoṣasaḥ*)—having equal affection for you
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—all the gods
+- त्वां (*tvāṃ*)—you
+- दूतं (*dūtaṃ*)—as messenger
+- अक्रत (*akrata*)—have made (therefore)
+- कवे (*kave*)—O Agni, far-seeing one
+- देवं (*devaṃ*)—shining
+- त्वा (*tvā*)—you
+- यज्ञेषु (*yajñeṣu*)—at sacrifices
+- सपर्यंतः (*saparyaṃtaḥ*)—the sacrificers who worship
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Agni, all the gods, who have equal affection for you, have chosen you as their messenger. Therefore the sacrificers, worshipping at the sacrifices, praise you, who are divine in nature and shining.
+
+##### English translation
+All the consenting divinities have made you their messenger ; therefore the pious worship you who are divine, wise Agni, at sacrifices.
+
+### Printed p. 109
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वं वो॑ देवय॒ज्यया॒ग्निमी॑ळीत॒ मर्त्यः॑ ।  
+> समि॑द्धः शुक्र दीदिह्यृ॒तस्य॒ योनि॒मस॑दः स॒सस्य॒ योनि॒मास॑दः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवं । वः । देव्ययज्यया । अग्निं । ईळीत । मर्त्यः ।  
+> संइद्धः । शुक्र । दीदिहि । ऋतस्य । योनिं । आ । असदः । ससस्य । योनिं।  
+> आ । असदः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्यो मनुष्यो देवं द्योतमानमग्नि मग्रण्यं वस्तां देवयज्यया
+> देवयज्यायै देवयागार्थमीळीत । स्तोतुमर्हति । हे शुक्र शोचिष्मन्
+> समिद्धो हविर्भिः प्रवृद्धः सन् दीदिहि । दीप्यस्व । ऋतस्य सत्यभूतस्य ससस्य ऋषेर्मनु योनिं योनिकारणं स्वर्गसाधनं यज्ञस्थानमासदः । देवतारूपेणासीद ।
+> आदरातिशयद्योतनार्थं पुनर्वचनं ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, is fit to praise the shining Agni, the foremost, for the sake of the worship of the gods (devayajyā), that is, in order to sacrifice to the gods. O bright (śukra) Agni, possessed of splendour, kindled, grown strong with oblations, blaze. Of Sasa, the seer, who is truthful (ṛta), take your seat in the place of origin (yoni), the cause of origin, the means of reaching heaven, the place of sacrifice; sit there in the form of a deity. **NOTE** The repetition (of "āsadaḥ") is to show great respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यः (*martyaḥ*)—man
+- देवं (*devaṃ*)—shining
+- अग्निं (*agniṃ*)—and of the nature of Agni
+- वः (*vaḥ*)—you
+- देवयज्यया (*devayajyayā*)—in order to perform the sacrifice addressed to the gods
+- ईळीत (*īḷīta*)—praises
+- शुक्र (*śukra*)—O Agni, endowed with radiance
+- समिद्धः (*samiddhaḥ*)—when you are kindled with oblations and the like
+- दीदिहि (*dīdihi*)—shine
+- ऋतस्य (*ṛtasya*)—of the follower of truth
+- ससस्य (*sasasya*)—of the seer named Sasa
+- योनिं (*yoniṃ*)—in the place of sacrifice
+- आसदः (*āsadaḥ*)—be seated
+- Or else: ऋतस्य (*ṛtasya*)—of the sacrifice; योनिं (*yoniṃ*)—in the place of origin; आसदः (*āsadaḥ*)—be seated; ससस्य (*sasasya*)—of the seer named Sasa; योनिं (*yoniṃ*)—in the place of sacrifice; आसदः (*āsadaḥ*)—be seated.
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, a man praises you, who are shining and divine in nature, in order to perform the sacrifice addressed to the gods. O Agni, endowed with radiance, kindled with oblations and the like, shine. Be seated in the place of sacrifice, true in nature, of the seer named Sasa, the follower of truth.
+
+### Printed p. 110
+
+##### English translation
+Man praises you, divine Agni, to convey his offerings to the Gods; bright Agni, blaze when kindled : take your seat in the chamber (of sacrifice): in the chamber of the sincere Sasa.
+
+## Sūkta 22 (Maṇḍala 5)
+
+The twenty-second sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र विश्वसामन्निति चतुर्ऋचमष्टमं सूक्तं । आत्रेयो विश्वसामा ऋषिः ।
+> चतुर्थी पंक्तिः शिष्टा अनुष्टुभः । अग्निर्देवता । तथा चानुक्रांतं । प्र विश्वसाम
+> न्विश्वसामेति ॥ उक्तो विनियोगः प्रातरनुवाकाश्विनशस्त्रयोः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Pra viśvasāman" has four Ṛks and is the eighth sūkta. The seer is Ātreya Viśvasāman. The fourth verse is paṅkti, the rest are anuṣṭubh. The deity is Agni. So it is stated in the Anukramaṇikā ("Pra viśvasāman viśvasāma"). Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated.
+
+Translation (anuvāda): This sūkta beginning "Pra viśvasāman" is the eighth sūkta in the second anuvāka. It has four Ṛks. The seer of this sūkta is Viśvasāmā Ātreya; Agni is the deity; the fourth Ṛk is in the paṅkti metre. The remaining Ṛks are in the anuṣṭubh metre. In the Anukramaṇikā it is said "Pra viśvasāman viśvasāma". This sūkta is used for the recitation of the Prātaranuvāka and the mantras of the Āśvina-śastra.
+
+Sūkta 22
+Maṇḍala 5; Anuvāka 2; Sūkta 22
+Aṣṭaka 4; Adhyāya 1; Varga 14
+Number of Ṛks in the sūkta: 4
+Ṛṣi: Viśvasāmā Ātreya
+Devatā: Agni
+Chandas: 1–3 Anuṣṭubh; 4 Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वि॑श्वसामन्नत्रि॒वदर्चा॑ पाव॒कशो॑चिषे ।  
+> यो अ॑ध्व॒रेस्वीड्यो॒ होता॑ मं॒द्रत॑मो वि॒ति ॥ १ ॥
+
+### Printed p. 111
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । विश्वसामन् । अत्रिवत् । अर्च । पावक्यशोचिषे ।  
+> यः । अध्वरेषु । ईड्यः । होता । मद्रतमः । विशि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वसामन् । ऋषेः संबोधनमेतत् । त्वमत्रिवदत्रिरिव पावकशोचिषे
+> शोधकदीप्तये तस्मा अग्नये प्रार्च । प्रगाय । योऽग्निरध्वरेष्वीड्यः सर्वैर्यज्वभिः स्तुत्यो होता देवानामाह्वाता विशि जने मंद्रतमः स्तुत्यतमः ॥
+
+##### Gist of the bhāṣya
+
+O Viśvasāman: this is an address to the seer. Like Atri, sing forth (prārca, pragāya) to Agni, whose radiance purifies (pāvakaśociṣe). That Agni who is to be praised (īḍya) at the sacrifices by all sacrificers, the hotṛ, the summoner of the gods, is the most praiseworthy among the people (viś).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वसामन् (*viśvasāman*)—O seer named Viśvasāman
+- यः (*yaḥ*)—which Agni
+- अध्वरेषु (*adhvareṣu*)—at the sacrifices
+- ईड्यः (*īḍyaḥ*)—is worthy of worship
+- होता (*hotā*)—is of the nature of the hotṛ
+- विशि (*viśi*)—among all people
+- मंद्रतमः (*maṃdratamaḥ*)—is the most praiseworthy; such
+- पावकशोचिषे (*pāvakaśociṣe*)—addressing Agni, whose radiance purifies
+- अत्रिवत् (*atrivat*)—as the seer Atri recited
+- प्र अर्च (*pra arca*)—recite an excellent praise
+
+##### भावार्थ (Bhāvārtha)
+
+O seer named Viśvasāman, as the seer Atri recited, recite an excellent praise addressed to Agni, who is most worthy of worship at the sacrifices, is of the nature of the hotṛ, is the most praiseworthy among all people, and has a purifying radiance.
+
+##### English translation
+Sing, Vishwasaman, like Atri, (a hymn) to the dispencer of purifying light : (to him) who is to be praised at sacrifices, the invoker of the gods, the most adorable by man.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य१॒॑ग्निं जा॒तवे॑दसं॒ धधा॑ता दे॒वमृ॒त्विजं॑ ।  
+> प्र य॒ज्ञ ए॑त्वानु॒षग॒द्या दे॒वव्य॑चस्तमः ॥ २ ॥
+
+### Printed p. 112
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अग्निं । जातवेदसं । दधात । देवं । ऋत्विजं ।  
+> प्र । यज्ञः । एतु । आनुषक् । अद्य । देवव्यचतमः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमाना जातवेदसं जातप्रज्ञं जातधनं वा देवं द्योतमानमृत्विजमृतयष्टारमग्निं नि दधात । निधत्त । किंचदेवव्यचस्तमो देवानामाप्ततमो
+> यज्ञो यज्ञसाधनमस्माभिर्दीयमानं हविरानुषक् अनुषक्तं यथा भवति
+> तथाद्यास्मिन्नहनि तमग्निं प्रैतु । गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O sacrificers, establish (ni dadhāta) Agni Jātavedas, the one endowed with knowledge or possessor of wealth that has arisen, the shining one, the priest (ṛtvij), the sacrificer at the proper time. Moreover, may the sacrifice, that is, the oblation given by us as the means of sacrifice, which is the dearest (devavyacastama) to the gods, go forth to that Agni today, on this day, continuously (ānuṣak).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदसं (*jātavedasaṃ*)—(O sacrificers) endowed with the power of knowing everything that has arisen
+- देवं (*devaṃ*)—the shining
+- ऋत्विजं (*ṛtvijaṃ*)—in the form of the chief priest of the sacrifice
+- अग्निं (*agniṃ*)—Agni
+- नि दधात (*ni dadhāta*)—establish (on the sacrificial ground)
+- देवव्यचस्तमः (*devavyacastamaḥ*)—most dear to all the gods
+- यज्ञः (*yajñaḥ*)—the oblation offered in the sacrifice
+- आनुषक् (*ānuṣak*)—continuously
+- अद्य (*adya*)—in the sacrifice
+- प्र एतु (*pra etu*)—may it join (Agni)
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, establish on the sacrificial ground Agni, who has the power of knowing everything that has arisen, who is shining and is in the form of the chief priest of the sacrifice. May the oblation offered in the sacrifice, most dear to all the gods, continuously join Agni in this sacrifice.
+
+##### English translation
+Cherish the divine Agni, by whom all that exists is known, the priest (of the rite): may the sacrifice most suitable for the gods duly this day proceed to them.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒कि॒त्विन्म॑नसं त्वा दे॒वं मर्ता॑स ऊ॒तये॑ ।  
+> वरे॑ण्यस्य॒ तेव॑स इया॒नासो॑ अमन्महि ॥ ३ ॥
+
+### Printed p. 113
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चिकित्त्वमनसं । त्वा । देवं । मर्तासः । ऊतये ।  
+> वरेण्यस्य । ते । अवसः । इयानासः । अमन्महि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने चिकित्विन्मनसं । चिकित्विज्ज्ञानन्मनो यस्यासौ चिकित्विन्मनाः । तं देवं
+> त्वा त्वामियानास उपगच्छंतो मर्तासो मनुष्या वयमूतये रक्षणार्थं
+> वरेण्यस्य संभजनीयस्य ते तवावसोऽवसे तर्पणायामन्महि । स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are cikitvin-manas, one whose mind is knowing. We mortals, men, approaching you, the god, for protection, praise you for the satisfaction of your favour (avas), you who are to be shared in (varenya), worthy of being resorted to.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चिकित्सत्मनसं (*cikitsatmanasaṃ*)—possessed of mental power that knows everything
+- देवं (*devaṃ*)—divine in nature
+- त्वा (*tvā*)—you
+- ऊतये (*ūtaye*)—for protection
+- इयानासः (*iyānāsaḥ*)—approaching
+- मर्तासः (*martāsaḥ*)—we men
+- वरेण्यस्य (*vareṇyasya*)—worthy of worship and honoured
+- ते (*te*)—your
+- अवसः (*avasaḥ*)—for satisfaction
+- अमन्महि (*amanmahi*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we men, who approach you for protection, you who are possessed of a mental power that knows everything and are divine in nature, praise you for the satisfaction of you who are worthy of worship and honoured.
+
+##### English translation
+Men have recourse to you divine Agni, who are of intelligent mind, for security : we praise you who are most excellent, seeking your protection.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ चिकि॒द्द्य१॒ं॑स्य न॑ इ॒दं वचः॑ सहस्य ।  
+> तं त्वा॑ सुशिप्र दंपते॒ स्तोमै॑र्वर्धं॒त्यत्र॑यो  
+> गी॒र्भिः शुं॑भं॒त्यत्र॑यः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 107. Mandala 5 sukta 20 rks 2-4; sukta 21 rks 1-2
+**Progress note:** Done through printed p. 113. Mandala 5 sukta 21 rks 3-4; sukta 22 rks 1-4 (Samhita)
