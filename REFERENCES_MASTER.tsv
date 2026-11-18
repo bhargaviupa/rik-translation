@@ -78,7 +78,6 @@ NOT IN LIST	Ś. Prā.			no list form close to it	none		2												2
 NOT IN LIST	Kh. Saṃ.			no list form close to it	none		2												1			1		
 NOT IN LIST	Ai.			too short to tell: could be Ai. Ā. or Ai. U. or Ai. Brā. or Ai. U. Śa. Bhā.	none		2													2				
 NOT IN LIST	Maṃ. Saṃ.			no list form close to it	none		2													2				
-NOT IN LIST	sā.			too short to tell: could be Sā. Saṃ.	none		2														2			
 NOT IN LIST	Ṛ. S.			no list form close to it	none		2														2			
 NOT IN LIST	e. Ai. Brā.			no list form close to it	none		2														2			
 NOT IN LIST	Tṛ. Saṃ.			no list form close to it	none		2															2		
@@ -382,6 +381,7 @@ mistake	Praśna. U.	→ Pra. U.					2												1				1
 mistake	Kaṭha. U.	→ Ka. U.					2												2					
 mistake	Āśv. Śrau.	→ Ā. Sū.					2												2					
 mistake	Kṛ. Ā.	→ Tai. Ā.					2												1				1	
+mistake	sā.	→ Pā. Sū.					2														2			
 mistake	Pā. Rū.	→ Pā. Sū.					2															2		
 mistake	Manu.	→ Ma. Smṛ.					2																2	
 mistake	I. U.	→ Ai. U.					2																2	
@@ -511,7 +511,7 @@ Devanagari	मनु.		Ma. Smṛ.	Devanagari read as manu.; known spelling of Ma
 Devanagari	ऋग्वि.		Ṛgvi.	Devanagari read as ṛgvi.; known spelling of Ṛgvi.	high	yes	6												1	4				1
 Devanagari	ऐ. ब्रां.		Ai. Brā.	Devanagari read as ai. brāṃ.; known spelling of Ai. Brā.	high	yes	6																	6
 Devanagari	छा. उ.		Chā. U.	Devanagari read as chā. u.; same letters; only capitals, dots or spaces differ	high	yes	5								1			2	1	1				
-Devanagari	सा.			Devanagari read as sā.; too short to tell: could be Sā. Saṃ.	none		5												1		2	2		
+Devanagari	सा.		Pā. Sū.	Devanagari read as sā.; known spelling of Pā. Sū.	high	yes	5												1		2	2		
 Devanagari	कृ. सं.		Tai. Saṃ.	Devanagari read as kṛ. saṃ.; known spelling of Tai. Saṃ. (capitals/dots differ)	high	yes	5													4		1		
 Devanagari	कृ. उ.		Tai. U.	Devanagari read as kṛ. u.; known spelling of Tai. U. (capitals/dots differ)	high	yes	5													5				
 Devanagari	पू. मी.		Jai. Sū.	Devanagari read as pū. mī.; known spelling of Jai. Sū. (capitals/dots differ)	high	yes	4	4																
