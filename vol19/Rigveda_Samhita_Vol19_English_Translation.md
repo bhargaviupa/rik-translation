@@ -22986,6 +22986,250 @@ Who knows the birth of these (Maruts)? who has formerly been (participant) of th
 
 thus he has explained the vehicles of various deities. That is: for Indra the vehicles are two horses named Hari; for Agni, horses of a slightly red colour; for Āditya or Sūrya, (seven) horses of green or yellow colour; for the Aśvins, two asses; for the deity called Pūṣan, goats; for the Maruts, spotted deer; for the deity Uṣas, cows of aruṇa (red) colour; for the deity Savitṛ, horses of dusky colour; for Bṛhaspati, horses of various colours; for the deity Vāyu, swift-running horses named नियुत् (*niyut*). Thus he has given the explanation. In the present Ṛk the vehicles of the Maruts, the पृषतीः (*pṛṣatīḥ*), the spotted deer, are indicated by the word किलास्यः (*kilāsyaḥ*).
 
+### Printed p. 632
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐतान्रथे॑षु त॒स्थुषः॒ कः शु॑श्राव क॒था य॑युः ।  
+> कस्मै॑ सस्रुः सु॒दासे॒ अन्वा॒पय॒ इळा॑भिर्वृ॒ष्टयः॑ स॒ह ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एतान् । रथेषु । तस्थुषः । कः । शुश्राव । कथा । ययुः ।  
+> कस्मै । सस्रुः । सुदासे । अनु आपयः । इळाभिः । वृष्टयः । सह ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतान्मरुतो रथेषु तस्थुषः स्थितवतः क आ शुश्राव । श्रावयेदित्यर्थः । यद्वा।
+> एतेषां क्रोषध्वनिं रथध्वनिं च कः शृणुयात् । कथा कथं ययुर्गच्छंति तदपि
+> को जानाति । यद्वा । तान् कथमन्ये देवादयोऽनुगच्छेयुः । कस्मै सुदासे
+> सुदानायापयो बंधुभूता व्याप्ता वृष्टयो वर्षकाः ॥ अयं कर्तरि क्तिच् ॥
+> इळाभिर्बहुविधैरन्नैः सह सहिता अनु सस्रुः । अनुक्रमेणावतरेयुः ॥
+
+##### Gist of the bhāṣya
+
+Who has made it heard (शुश्राव (*śuśrāva*); the sense is "would make hear") of these Maruts standing in their chariots? Or else: who could hear their shouting and the sound of their chariots? And how they go, who knows that too? Or else: how could other gods and the rest follow them? For what good giver (सुदासे (*sudāse*)) do the rains, kinsmen-like and pervading, come pouring down together with manifold foods, one after another?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथेषु (*ratheṣu*)—in their chariots
+- तस्थुषः (*tasthuṣaḥ*)—seated
+- एतान् (*etān*)—these Maruts (their divine sound)
+- कः (*kaḥ*)—who indeed
+- आ शुश्राव (*ā śuśrāva*)—can hear?
+- कथा (*kathā*)—in what manner
+- ययुः (*yayuḥ*)—can they travel (who knows that?)
+- अपयः (*apayaḥ*)—agreeable like kinsmen
+- वृष्टयः (*vṛṣṭayaḥ*)—the rains
+- इळाभिः सह (*iḷābhiḥ saha*)—together with manifold foods
+- कस्यै सुदासे (*kasyai sudāse*)—for the benefit of what sacrificer who offers excellent oblations
+- अनु सस्सुः (*anu sassuḥ*)—do they pour down together
+
+##### भावार्थ (Bhāvārtha)
+
+While the Maruts are seated in their chariots, who can hear their divine sound and the sound of their chariots? Who knows how they travel? For the benefit of what sacrificer who offers excellent oblations do the rains, agreeable like kinsmen, pour down together with manifold foods?
+
+##### English translation
+Who has heard them, when standing in their cars, (declare) whither they go? Upon what liberal worshipper do their kindred rains descend together with manifold food ?
+
+### Printed p. 633
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the previous Ṛk the seer has explained, by way of questions, that nobody knows well the majesty, the power and the capacity of the Marut deities.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते म॑ आहु॒र्य आ॑य॒युरुप॒ द्युभि॒र्विभि॒र्मदे॑ ।  
+> नरो॒ मर्या॑ अरे॒पस॑ इ॒मान्पश्य॒न्निति॑ ष्टुहि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । मे । आहुः । ये । आययुः । उप । द्युभिः । विभिः । मदे ।  
+> नरः । मर्याः । अरेपसः । इमान् । पश्यन् । इति । स्तुहि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्ऋग्वयाभ्यां मरुत्पादुर्भामाख्यास्यन्ननया प्रादुर्भूतान्पश्यन्नाह । ते मरुत इत्थं लपते मे मह्यमाहुः य उपाययुः ये मरुतो मां
+> प्राप्ताः । कैः साधनैः । द्युभिर्द्योशमानैर्विभिर्गंतृभिरश्वैः । किमर्थं । मदे
+> मदाय सोमपानजनिताय । किमाहुरिति तदनुब्रूते । नरो नेतारो मर्या
+> मनुष्येभ्यो हिता अरेपसोऽलेपास्ते । हे ऋषे इमानस्मान् पश्यन् तथा स्थितान्
+> चक्षुषावलोकयन् स्तुहीत्याहुः । यद्वा । इतीत्थं पश्यन् स्तुहीति ॥
+
+##### Gist of the bhāṣya
+
+The seer, seeing the Maruts who have appeared, speaks with this and the next Ṛk, in order to announce the appearance of the Maruts. The Maruts said to me, who thus lament: those who came to me. By what means? With shining (द्युभिः (*dyubhiḥ*)), that is, gleaming, going horses (विभिः (*vibhiḥ*)). For what purpose? For exhilaration (मदे (*made*)) produced by drinking Soma. What did they say? That he now declares: they are leaders (नरः (*naraḥ*)), beneficial to men (मर्याः (*maryāḥ*)), without stain (अरेपसः (*arepasaḥ*)). "O seer, looking with your eyes at us who stand thus, praise us," they said. Or else: "seeing us thus, praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- द्युभिः (*dyubhiḥ*)—resplendent
+- विभिः (*vibhiḥ*)—with horses
+- मदे (*made*)—for the joy of the drinking of Soma
+- उप अयियुः (*upa ayiyuḥ*)—came to me
+- ते (*te*)—those Maruts
+- मे (*me*)—to me (in this way)
+- आहुः (*āhuḥ*)—said (O seer)
+- नरः (*naraḥ*)—who are leaders
+- मर्याः (*maryāḥ*)—benefactors of men
+- अरेपसः (*arepasaḥ*)—free from stain
+- इमान् (*imān*)—us
+- पश्यन् (*paśyan*)—as soon as you see
+- स्तुहि (*stuhi*)—praise
+- इति (*iti*)—thus (they said)
+
+##### भावार्थ (Bhāvārtha)
+
+When the Maruts came to me with their resplendent horses, for the joy of the drinking of Soma, they said: "O seer, praise us as soon as you see us, who are leaders, benefactors of men and free from stain."
+
+##### English translation
+To me have they spoken ; they who came to me with radiant steeds to (drink) the exhilarating beverage : to me (they have said), when beholding them, who are the formless leaders (of rites), and friends of man, repeat our praise.
+
+### Printed p. 634
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये आं॒जिषु॒ ये वाशी॑षु॒ स्वभा॑नवः स्र॒क्षु रु॒क्मेषु॑ खा॒दिषु॑।  
+> श्रा॒या रथे॑षु॒ धन्व॑सु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अंजिषु । ये । वाशीषु । स्वभानवः । स्रक्षु । रुक्मेषु । खादिषु ।  
+> श्रायाः । रथेषु । धन्वसु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया मरुतां स्वरूपं निरूपयति । हे मरुतो युष्माकं ये प्रसिद्धाः
+> स्वभानवः स्वदीप्तयोऽंजिष्वाभरणेषु श्राया आश्रयभूताः संति । ये च वाशीष्वायुधेषु । ये च स्रक्षु माल्येषु । ये रुक्मेषूरोभूषणेषु । ये च खादिषु
+> हस्तपादस्थितकटकेषु । हस्तेषु खादिश्च कृतिश्च । ऋग्वे-१.१६८.३ । पत्सु खादयः ।
+> ऋग्वे-५.५४.११ । इति हि श्रुती भवतः । रथेषु धन्वसु च ये च स्वभानवः श्रायाः
+> संति । सुधन्वान इषुमंतः सुरथाः पृश्निमातरः । ऋग्वे-८.५७.२ । इति च निगमः ।
+> तान् सर्वान् स्तुम इति शेषः । यद्वा । ये स्वभानवः स्वायत्तदीप्तयो मरुतोऽंजिष्वाभरणेषु निमित्तेषु श्राया आश्रया भविष्यामः । ये च वाशीषु निमित्तेषु । एवं सर्वत्र योज्यं । तादृग्विधानिमान्पश्यन् स्तुहीति पूर्वत्र संबंधः ।
+> तेषामेवेदं वाक्यं ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk he describes the form of the Maruts. O Maruts, those well-known self-radiances (स्वभानवः (*svabhānavaḥ*)) of yours are a support (श्रायाः (*śrāyāḥ*)) in your ornaments (अंजिषु (*aṃjiṣu*)); those that are in your weapons (वाशीषु (*vāśīṣu*)); those in your garlands (स्रक्षु (*srakṣu*)); those in your breast ornaments (रुक्मेषु (*rukmeṣu*)); and those in the bracelets (खादिषु (*khādiṣu*)) that stand on hands and feet. For two Vedic texts say: हस्तेषु खादिश्च कृतिश्च (*hasteṣu khādiśca kṛtiśca*) (Ṛgve. 1.168.3)**NOTE** and पत्सु खादयः (*patsu khādayaḥ*) (Ṛgve. 5.54.11). And those self-radiances that are a support in your chariots and bows. And there is the Vedic passage सुधन्वान इषुमंतः सुरथाः पृश्निमातरः (*sudhanvāna iṣumaṃtaḥ surathāḥ pṛśnimātaraḥ*) (Ṛgve. 8.57.2)**NOTE**. "All these we praise" is to be supplied. Or else: the Maruts whose radiance is their own say, "We shall be a support on the occasion of ornaments; and those on the occasion of weapons"; so it is to be applied everywhere; the connection with the earlier part is "praise, seeing such as these". This is the saying of those same Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which well-known (of the Maruts)
+- स्वभानवः (*svabhānavaḥ*)—self-radiance
+- अंजिषु (*aṃjiṣu*)—in their ornaments
+- ये (*ye*)—which lights
+- वाशीषु (*vāśīṣu*)—in their weapons
+
+### Printed p. 635
+
+- स्रक्षु (*srakṣu*)—in their garlands
+- खादिषु (*khādiṣu*)—in their bracelets
+- रथेषु (*ratheṣu*)—in their chariots
+- धन्वसु (*dhanvasu*)—in their bows
+- श्रायाः (*śrāyāḥ*)—have taken refuge (praise such Maruts as soon as you see them)
+
+##### भावार्थ (Bhāvārtha)
+
+Praise the Maruts as soon as you see them, in whose ornaments, weapons, garlands, bracelets and bows that well-known self-radiance has taken refuge.
+
+##### English translation
+(The praise of them) who are all self-irradiating, splendid in ornaments, in arms, in garlands, in breast-plates, in bracelets, in chariots, in bows.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is a description of the form of the Marut deities, and a description of their ornaments and weapons. स्वभानवः—स्वयं दीप्तयः (*svabhānavaḥ—svayaṃ dīptayaḥ*). Self-radiance means the light that is natural. The light that has the nature of shining of itself, without the help of other things, is called self-radiance or स्वभानु (*svabhānu*). This word स्वभानवः (*svabhānavaḥ*) is used especially for describing the Marut deities.
+
+In regard to ornaments, some words are used in this Ṛk. The words स्रक्षु (*srakṣu*), रुक्मेषु (*rukmeṣu*), खादिसु (*khādisu*)**NOTE** indicate the names of various ornaments. All these words are in the locative plural. स्रक्षु (*srakṣu*) means garlands, necklaces, necklaces made of gold and jewels, or else flower garlands. रुक्मेषु (*rukmeṣu*) means certain special ornaments worn on the breast. Their shape, form and so on may have been like some of the ornaments used at that time; now it is not possible to describe their form. Moreover, the adornment with these ornaments is spoken of only in respect of the Marut deities; the description of the ornaments of the other deities is of a different kind. The commentator has explained खादिषु (*khādiṣu*) as the bracelets (bangles) worn on the hands and feet. The description of the ornaments of the Maruts occurs in the Ṛk
+
+विषामंसेषु रंभिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे । (*viṣāmaṃseṣu raṃbhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*) (Ṛ. Saṃ. 1-18-3)
+
+Here it is described that they wear arm-bands on the upper arms, and bracelets or bangles on the hands.
+
+### Printed p. 636
+
+अंसेषु न ऋष्टयः पत्सु खादयो वक्षस्सु रुक्मा मरुतो रथे शुभः । (*aṃseṣu na ṛṣṭayaḥ patsu khādayo vakṣassu rukmā maruto rathe śubhaḥ |*) (Ṛ. Saṃ. 5-54-11)
+
+Here it is described that they wear arm ornaments on the shoulders, bracelets called खादि (*khādi*) on the feet, and on the breast the golden ornament called रुक्म (*rukma*). In regard to the weapons of the Maruts also, the present Ṛk mentions the chariot and the bow.
+
+स्वश्वाः स्थ सुरथाः पृश्चिमातरः स्वायुधा मरुतो यथना शुभं । (*svaśvāḥ stha surathāḥ pṛścimātaraḥ svāyudhā maruto yathanā śubhaṃ |*) (Ṛ. Saṃ. 5-57-2)**NOTE**
+
+In this Ṛk it is said that the Marut deities have good chariots, furnished with excellent horses, and good weapons.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्माकं॑ स्मा॒ रथा॒ अनु॑ मु॒दे द॑धे मरुतो जीरदानवः ।  
+> वृ॒ष्टि द्यावो॑ य॒तीरि॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्माकं । स्म । रथान् । अनु । मुदे । दधॆः । मरुतः । जीरदानवः ।  
+> वृष्टी । द्यावः । यतीः इव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जीरदानवः शीघ्रदाना हे मरुतो युष्माकं रथाननूद्दिश्य मुदे
+> मोदाय दधे । धारयामि । करोमीत्यर्थः । सामर्थ्य्यात्सुतीरिति लभ्यते ॥ स्मेति
+> पूरणः । वृष्टी वृष्टा यतीः सर्वत्र गच्छंतीर्द्यावो दीप्तीरिव दृश्यमानान्
+> रथानिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O quick givers (जीरदानवः (*jīradānavaḥ*)), O Maruts, with reference to your chariots I hold (दधे (*dadhe*)) them for joy, that is, I make (praises); सामर्थ्य्यात्सुतीरिति (*sāmarthyyātsutīriti*): the word understood by the sense is a plural feminine object**NOTE**. स्म (*sma*) is a filler. The connection is: the chariots that are seen as वृष्टी (*vṛṣṭī*) (वृष्टा (*vṛṣṭā*)), moving (यतीः (*yatīḥ*)) everywhere, like lights (द्यावः (*dyāvaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जीरदानवः (*jīradānavaḥ*)—O you who give most generously
+- मरुतः (*marutaḥ*)—O Maruts
+- वृष्टि (*vṛṣṭi*)—with rain**NOTE**
+- यतीः (*yatīḥ*)—accompanied
+- द्यावः इव (*dyāvaḥ iva*)—shining like the light of lightning
+- युष्माकं (*yuṣmākaṃ*)—your
+- रथान् अनु (*rathān anu*)—chariots
+- मुदे (*mude*)—for delight
+- दधे (*dadhe*)—I contemplate
+
+### Printed p. 637
+
+##### भावार्थ (Bhāvārtha)
+
+O generous givers**NOTE**, O Maruts, I contemplate with delight your chariots, shining like the light of lightning accompanied by rain.
+
+##### English translation
+I contemplate your chariots, munificent Maruts, with delight, like wandering lights in the rains.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the chariot of the Marut deities is praised. जीरदानवः—शीघ्रदानाः (*jīradānavaḥ—śīghradānāḥ*): the meaning is those who quickly give what the sacrificers desire. In some places the epithet सुदानवः (*sudānavaḥ*), those who give good gifts of what is desired, is used in regard to the Marut deities.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यं नरः॑ सु॒दान॑वो ददा॒शुषे॑ दि॒वः कोश॒मचु॑च्यवुः ।  
+> वि प॒र्जन्यं॑ सृजंति॒ रोद॑सी॒ अनु॒ धन्व॑ना यंति वृ॒ष्टयः॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यं । नरः । सुदानवः । ददाशुषे । दिवः । कोशं । अचुच्यवुः ।  
+> वि । पर्जन्यं । सृजंति । रोदसी इति । अनु । धन्वना । यंति । वृस्टयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यां तिस्रः पिंड्यो होतव्याः । तत्र द्वितीयाया आ यं नर इत्यनुवाक्या । सूत्रितं च । आ यं नरः सुदानवो ददाशुषे विद्युन्महसो नरो
+> अश्वदिद्यवः । अ-२-१३ । इति ॥
+> नरो नेतारः सुदानवः शोभनदाना मरुतो यं कोशं । मेघनामैतत् । अपां कोशवद्धारकं मेघं ददाशुषे हविर्दत्तवते यजमानाय दिवोंतरिक्षादाचुच्यवुः आच्यावयंति पर्जन्यं मेघं रोदसी अनु द्यावापृथिव्यावनुसृत्य
+
+##### Gist of the bhāṣya
+
+In the Kārīrī (कारीर्यां (*kārīryāṃ*)) three balls (पिंड्यो (*piṃḍyo*)) are to be offered. Among them, for the second, आ यं नर (*ā yaṃ nara*) is the anuvākyā. And it is laid down in the sūtra: आ यं नरः सुदानवो ददाशुषे विद्युन्महसो नरो अश्वदिद्यवः । (*ā yaṃ naraḥ sudānavo dadāśuṣe vidyunmahaso naro aśvadidyavaḥ |*) (A-2-13)**NOTE**. The leaders (नरः (*naraḥ*)), the Maruts of good gifts (सुदानवः (*sudānavaḥ*)), cause to fall (आच्यावयंति (*ācyāvayaṃti*)) from heaven, from the atmosphere, for the sacrificer who has offered the oblation (ददाशुषे (*dadāśuṣe*)), the cloud (कोशं (*kośaṃ*), a name of the cloud), which holds the waters like a store; the cloud (पर्जन्यं (*parjanyaṃ*)) they release; following heaven and earth (रोदसी (*rodasī*))
+
 ---
 
-**Progress note:** Done through printed p. 631. Special Topics on Pṛśni (pp. 626-628), Ṛk 52.17, Sūkta 53 introduction and Ṛk 1
+**Progress note:** Done through printed p. 637. Ṛks 2-6 of Sūkta 53 (Special Topics on ornaments of the Maruts)
