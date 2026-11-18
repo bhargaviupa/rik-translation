@@ -12341,6 +12341,319 @@ Intelligent, hoping for happiness, and devout, we glorify you, adorable Agni: sh
 > विशां । कविं । विश्वतिं । शश्वतीनां । नितोशनं । वृषभं । चर्षणीनां ।  
 > प्रेति इषणिं । इषयंतं । पावकं । राजंतं । अग्निं । यजतं । रयाणां ॥ ८ ॥
 
+### Printed p. 373
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शश्वतीनां नित्यानां विशामृत्विग्यजमानलक्षणानां विश्वतिं स्वामिनं कविं
+> क्रांतदर्शिनं नितोशनं शत्रूणां हिंसकं वृषभं कामानां वर्षकं चर्षणीनां
+> स्तोतृणां मनुष्याणां प्रेतीषणिं प्राप्तगमनमिषयंतमन्नं कुर्वंतं पावकं
+> शोधकं राजंतं दीप्यमानं दीपयंतं वा रयाणां लाभाय यजतं यष्टव्यमग्निं स्तुम इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"We praise Agni" is the word to be supplied. "Śaśvatī" means eternal; "viśām" means of the people, that is, of the priests and sacrificers; "viśpati" means lord. Agni is kavi, far-seeing (krāntadarśin); nitośana, the destroyer of enemies; vṛṣabha, the showerer of desires; carṣaṇī, the praisers, that is, men, whose lord he is; preti-ṣaṇi, one whose going is accomplished; iṣayantam, one who makes food; pāvaka, the purifier; rājantam, shining or making others shine; and yajata, to be worshipped for the gain of riches (rayāṇām).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शश्वतीनां (*śaśvatīnāṃ*)—of those who always perform sacrifice
+- विशां (*viśāṃ*)—of the priests and others
+- विश्वतिं (*viśvatiṃ*)—the lord
+- कविं (*kaviṃ*)—the far-seeing
+- नितोशनं (*nitośanaṃ*)—the destroyer of enemies
+- वृषभं (*vṛṣabhaṃ*)—the showerer of desires
+- चर्षन्णीनां (*carṣanṇīnāṃ*)—to the praisers
+- प्रतीषणिं (*pratīṣaṇiṃ*)—the bringer of the desired object
+- इषयंतं (*iṣayaṃtaṃ*)—the provider of food
+- पावकं (*pāvakaṃ*)—the purifier
+- राजंतं (*rājaṃtaṃ*)—the shining
+- रयीणां (*rayīṇāṃ*)—for riches
+- यजतं (*yajataṃ*)—the one who is worshipped
+- अग्निं (*agniṃ*)—Agni (we praise and worship)
+
+##### भावार्थ (Bhāvārtha)
+
+We praise and worship Agni, who is the lord of the priests and others who perform sacrifice every day, who is far-seeing, the destroyer of enemies, the showerer of desires, the bringer of the desired object to the praisers, the provider of food, the purifier, the shining, who is worshipped for the sake of riches.
+
+##### English translation
+(We glorify) the lord of men, of ever-existing men; the wise, the destroyer (of foes), the showerer (of benefits) on mankind, the moving, the bestower of food, the purifier, the resplendent, Agni, who is worshipped for (the sake of) riches.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॑ग्न ईचे शश॒मे च॒ मर्तो॒ यस्त॒ आन॑ट् स॒मिधा॑ ह॒व्यदा॑तिं ।  
+> य आहु॑तिं॒ परि॒वेदा॒ नमो॑भि॒र्विश्वेत्स वा॒मा द॑धते॒ त्वोतः॑ ।
+
+### Printed p. 374
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अग्ने । ईजे । शशमे । च । मर्तः । यः । ते । आनट् । संइधा । हव्यदातिं ।  
+> यः । आहुतिं । परि । वेद । नमभिः । विश्वा । इत् । सः । वामा । दधते । त्वाऊतः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां स मर्तः स यजमान ईजे । यजते । शशमे च । स्तौति ।
+> कशमान इति स्तुतिकर्मसु पाठादिदमपि स्तुतिकर्म । यो यजमानस्ते तव समिधा
+> सह हव्यदातिं हविषां दानमानट् करोति । किंच यो यजमानो नमोभिः
+> स्तुतिभिराहुतिमाज्यादिलक्षणां परि वेद परितो वेत्ति । ददातीत्यर्थः । स यजमानस्त्वोतस्त्वया रक्षितः सन् विश्वेत् सर्वाणि वामा वननीयानि धनानि दधते ।
+> धारयति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that mortal, that sacrificer, worships you (ईजे (*īje*), "yajate") and praises you (शशमे (*śaśame*), "stauti"). Since कशमान (*kaśamāna*) is read among the words for praise, this word too means praise. The sacrificer who performs for you, with fuel (samidhā), the gift of oblations (havyadāti, "ānaṭ karoti"); and moreover the sacrificer who with salutations, that is, with praises, gives the offering (āhuti), consisting of ghee and the like, all round (pari veda, "paritaḥ vetti", meaning "gives"): that sacrificer, protected by you, holds (dadhate, "dhārayati") all desirable (vāmā, "vananīyāni") riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः मर्तः (*yaḥ martaḥ*)—the sacrificer who
+- ते (*te*)—to you
+- समिधा (*samidhā*)—with fuel
+- हव्यदातिं (*havyadātiṃ*)—the gift of oblation
+- आनट् (*ānaṭ*)—offers
+- यः (*yaḥ*)—the sacrificer who
+- नमोभिः (*namobhiḥ*)—with praises
+- आहुतिं (*āhutiṃ*)—the offering of ghee
+- परि वेद (*pari veda*)—offers all round
+- सः (*saḥ*)—he
+- ईजे (*īje*)—(truly) worships
+- शशमे च (*śaśame ca*)—and praises
+- सः (*saḥ*)—that same sacrificer
+- त्वोतः (*tvotaḥ*)—protected by you
+- विश्वेत् (*viśvet*)—all
+- वामा (*vāmā*)—attractive riches
+- दधते (*dadhate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who offers you the gift of oblation with fuel, and who offers the oblation of ghee all round with praises, he alone truly worships you and praises you. That same sacrificer, protected by you, obtains all attractive riches.
+
+##### English translation
+The man. Agni, who worships you, who praises you, who offers oblations to you with kindled fuel, who presents burnt-offerings to you with prostrations, he verily, protected by you, obtains all desired wealth.
+
+### Printed p. 375
+
+##### विशेषविषयगळु (Special Topics)
+
+शशमे (*śaśame*)—praises. The word शशमानः (*śaśamānaḥ*) is read among the names that mean "worship" (Ni. 3-9), and this word is also used in the sense of "praise". Yāska has said:
+
+शशमानः । शंसमानः । यो नां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः (*śaśamānaḥ | śaṃsamānaḥ | yo nāṃ yajñaiḥ śaśamāno ha dāśati kavirhotā yajati manmasādhanaḥ*) (Ṛ. Saṃ. 1-151-7)
+
+इति निगमो भवति (*iti nigamo bhavati*) (Ni. 6-8).
+
+Having said that the word शशमानः (*śaśamānaḥ*) means one who is praised, one who is lauded, he has given as an example, in support of it, the Ṛk beginning यो नां यज्ञैः (*yo nāṃ yajñaiḥ*).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा उ॑ ते॒ महि॑ म॒हे वि॑धेम॒ नमो॑भिरग्ने स॒मिधो॒त  ॒
+> हव्यैः ।  
+> वेदी॑ सूनो सहसो गी॒र्भिरु॒क्थैरा ते॑ भ॒द्रायां॑ सुम॒त्  ॑
+> यतेम ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । ऊं इति । ते । महि । महे । विधेम । नमःभिः । अग्ने । संइधा । उत ।  
+> हव्यैः ।  
+> वेदी । सूनो इति । सहसः । गीऽभिः । उक्तैः । आ । ते । भद्रायां । सुमतौ । यतेम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने महे महतेऽस्मै ते तुभ्यं महि महदत्यधिकं विधेम । परिचरेम।
+> कैरित्युच्यते । नमोभिर्नमस्कारैः समिधा वा उतापि च हव्यैर्हविर्भिः । हे सहसः
+> सूनो वेदी वेद्यां गीर्भिः स्तोत्रैरुक्षैः शस्त्रैश्च विधेमेति संबंधः । किंच ते
+> तव भद्रायां स्तुत्यायां सुमत् शोभनानुग्रहबुद्धावा यतेम । आगच्छेम ।
+> भवेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to you, the great (mahe), we offer service (vidhema, "paricarema") exceedingly (mahi). With what? With salutations (namobhiḥ), with fuel (samidhā), and also with oblations (havyaiḥ). O son of strength (sahasaḥ sūno), on the altar (vedī), with hymns (gīrbhiḥ), that is, with praises, and with recitations (śastras), we serve: this is the connection.**NOTE** Moreover may we strive (yatema, "āgacchema", that is, "may we become") toward your auspicious (bhadrāyām, praiseworthy) good will of favour (sumati).
+
+### Printed p. 376
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- महे (*mahe*)—great one
+- अस्मै ते (*asmai te*)—to you
+- नमोभिः (*namobhiḥ*)—with salutations
+- समिधा (*samidhā*)—with fuel
+- उक्षैः (*ukṣaiḥ*)—with śastra mantras
+- महि (*mahi*)—exceedingly
+- विधेम (*vidhema*)—we offer worship
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- वेदी (*vedī*)—on the sacrificial altar
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- उक्षैः (*ukṣaiḥ*)—with mantras (I worship), and
+- ते (*te*)—your
+- भद्रायां (*bhadrāyāṃ*)—auspicious
+- सुमता (*sumatā*)—in the favouring intention
+- आ यतेम (*ā yatema*)—may we be sheltered
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, to you, the great one, we offer worship exceedingly, with salutations, with fuel and with śastra mantras. O Agni, son of strength, on the sacrificial altar we worship you with praises and with śastra mantras. We worship so that your auspicious, favouring intention may rest upon us.
+
+##### English translation
+To you, mighty Agni, we offer exceeding adoration with prostrations, with fuel, with oblations : (we glorify you) on the altar, son of strength, with hymns and with prayers: may we be successful in our efforts(to gain) your auspicious favour.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्त॒तंथ॒ रोद॑सी॒ वि भा॒सा श्रवो॑भिश्च श्रव॒स्य१॒ं॑स्तरु॑त ः  
+> बृ॒हद्भि॒र्वाजैः॒ स्थवि॑रेभिर॒स्मे रे॒वद्धि॑रग्ने वित॒रं वि भा॑हि॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । ततंथ । रोदसी इति । वि । भासा । श्रवःभिः । च । श्रवस्यः । तरुत्रः ।  
+> बृहत्भिः । वाजैः । स्थविरेभिः । अस्मे इति । रेवत्भिः । अग्ने । वितरं । वि । भाहि ॥
+
+### Printed p. 377
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यस्त्वं रोदसी द्यावापृथिव्यौ भासा दीप्त्या व्या ततंथ व्यतनोः।
+> किंच तरुत्रस्तारकस्त्वं श्रवोभिः स्तुतिभिः श्रवस्यश्च भवसि हे तादृशाग्ने बृहद्भिमहद्भिर्वाजैरन्नैः स्थविरेभिः स्थविरैः स्कूलै रेवद्भी रयिमद्भिरस्मे अस्मदर्थं वितरं
+> विशिष्टतरं वि भाहि । विशेषेण दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who have spread (vyā tatantha, "vyatanoḥ") heaven and earth (rodasī) with light (bhāsā, "dīptyā"). Moreover you, the deliverer (taruttra, "tāraka"), by praises (śravobhiḥ, "stutibhiḥ") are also श्रवस्यः (*śravasyaḥ*). O such Agni, with great (bṛhadbhiḥ) foods (vājaiḥ), with thick, substantial (sthavirebhiḥ) and wealthy (revadbhiḥ, "rayimadbhiḥ") ones, shine for us (asme, "asmadartham") exceedingly (vitaram, "viśiṣṭataram"); that is, shine in a special manner (vi bhāhi).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—you who
+- रोदसी (*rodasī*)—both heaven and earth
+- भासा (*bhāsā*)—with your brilliance
+- वि आ ततंथ (*vi ā tataṃtha*)—have spread and pervaded
+- तरुत्रः (*tarutraḥ*)—as protector
+- श्रवोभिः (*śravobhiḥ*)—with praises
+- श्रवस्यः (*śravasyaḥ*)—you are worshipful
+- बृहद्भिः (*bṛhadbhiḥ*)—abundant
+- वाजैः (*vājaiḥ*)—with foods
+- स्थविरेभिः (*sthavirebhiḥ*)—plentiful
+- रेवद्भिः (*revadbhiḥ*)—with riches
+- वितरं (*vitaraṃ*)—exceedingly
+- अस्मे (*asme*)—for us
+- विभाहि (*vibhāhi*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who have spread and pervaded both heaven and earth with your brilliance, and who, being the protector, are worshipped with praises: such as you are, shine for us exceedingly, with abundant foods and plentiful riches.
+
+##### English translation
+Do you, Agni, who have spread heaven and earth with light, who are the preserver (of man), and (who are) to be glorified with praises, shine brightly upon us with abundant food, and with substantial riches.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒वद्व॑सो॒ सद॒मिद्दे॑ह्य॒स्मे भूरि॑ तो॒काय॒ तन॑याय प॒श्वः ।  
+> पू॒र्वीरिषो॑ बृह॒तीरा॒रेअ॑घा अ॒स्मे भ॒द्रा सौ॑श्रव॒सानि॑ संतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृवत् । वस्तो इति । सदं । इत् । धेहि । अस्मे इति । भूरि । तोकाय । तनयाय ।  
+> पश्वः ।  
+> पूर्वीः । इषः । बृहतीः । अरेऽअघाः । अस्मे इति । भद्रा । सौश्रवसानि । संतु ॥ १२ ॥
+
+### Printed p. 378
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासक धनवन्वाग्ने नृवत् मनुष्यैरुपेतं धनं सदमित्सर्वदास्मे
+> अस्मासु धेहि । स्थापय । किंच भूरि प्रभूतान् पश्वः पशूंश्च धेहि । किमर्थं ।
+> तोकायास्मत्पुत्राय तनयाय तत्पुत्राय । किंच पूर्वीः पूरयित्र्यः कामानां
+> बह्यो वा बृहतीर्महत्य आरेअघाः । आरे दूरेऽघानि यासु ताः । तादृश्य इष
+> उक्तलक्षणान्यन्नानि भद्रा भद्राणि सौश्रवसानि सुश्रवस्तान्मस्मे अस्मासु संतु । भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, that is, O Agni who bestow dwelling and wealth, always place (dhehi, "sthāpaya") in us wealth accompanied by men (nṛvat, "manuṣyairupetam"). Moreover place abundant (bhūri) cattle (paśvaḥ, "paśūn"). For what purpose? For our son (tokāya) and his son (tanayāya). Moreover may there be with us foods of the stated kind: pūrvīḥ, those that fulfil desires, or many; bṛhatīḥ, great; and āre-aghāḥ, those in which sins are far away. May there be with us auspicious (bhadrā) and well-famed (sauśravasāni) conditions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O wealthy Agni
+- नृवत् (*nṛvat*)—wealth accompanied by men
+- अस्मे (*asme*)—to us
+- सदमित् (*sadamit*)—always
+- धेहि (*dhehi*)—provide
+- तोकाय (*tokāya*)—to our sons
+- तनयाय (*tanayāya*)—and to our grandsons
+- भूरि (*bhūri*)—plentiful
+- पश्वः (*paśvaḥ*)—cattle (provide)
+- पूर्वीः (*pūrvīḥ*)—those that are abundantly satisfying
+- बृहतीः (*bṛhatīḥ*)—plentiful
+- आरेअघाः (*āreaghāḥ*)—free from sin
+- इषः (*iṣaḥ*)—provide foods
+- भद्रा (*bhadrā*)—auspicious
+- सौश्रवसानि (*sauśravasāni*)—conditions that bring fame
+- अस्मे संतु (*asme saṃtu*)—may there be for us
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Agni, always provide us with wealth accompanied by men. Provide our sons and their sons with plentiful cattle. Provide also foods that are abundantly satisfying, great in measure and free from sin. May auspicious conditions that bring fame be ours.
+
+##### English translation
+Possessor of wealth, bestow upon us at all times opulence conjoined with dependants, and (grant) abundance of cattle to our sons and grandsons: may there be to us abundant food, satisfying our wishes, and free from blame; and may there be auspicious and reputable (means of subsistence).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रूण्य॑ग्ने पुरु॒धा त्वा॒या वसू॑नि राजन्व॒सुता॑ ते अश्यां ।  
+> पु॒रूणि॒ हि त्वे पु॑रुवार॒ संत्यग्ने॒ वसु॑ विध॒ते राज॑नि॒ त्वे ॥ १३॥
+
+### Printed p. 379
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरूणि । अग्ने । पुरुधा । त्वाया । वसूनि । राजन् । वसुता । ते । आश्यां ।  
+> पुरूणि । हि । त्वे इति । पुरुऽवार । संति । आग्ने । वसु । विधते । राजनि । त्वे इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरूण्यग्न इति त्रयोदश्युखासंभरणीयेष्टावग्नेः क्षत्रवतोऽनुवाक्या ।
+> सूत्रितं च । पुरूण्यग्ने पुरुषा त्वाया स चित्र चित्रं जितयंतमस्मे! आ. ४-१ । इति ॥
+> हे अग्ने राजन् ते तव पुरूणि बहूनि पुरुधा गवाश्वादिरूपेण बहुप्रकाराणि वसूनि धनानि वसुता वसुताय्कॆ वसुमत्त्वायाश्यां । व्याप्नुयां भुंजीय
+> ना ! अत्र भरतस्वामी वसूतात इत्येकपदं सप्तम्यंतं चकार भट्टभास्करमिश्रोऽप्येकपदं संबुद्ध्यंतं चकार ॥ हे पुरुवार बहुभिर्वर्णनीयाग्ने राजनि राजमाने
+> त्वे त्वयि पुरूणि बहूनि वसु वसूनि त्वे त्वां विधते परिचरते मह्यं दातव्यानि संति ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth Ṛk, पुरूण्यग्न (*purūṇyagna*), is the invitatory verse (anuvākyā) to Agni Kṣatravat in the Ukhāsaṃbharaṇīya offering. The sūtra says: पुरूण्यग्ने पुरुषा त्वाया स चित्र चित्रं जितयंतमस्मे! (*purūṇyagne puruṣā tvāyā sa citra citraṃ jitayaṃtamasme!*) (Ā. 4-1). O Agni, king, may I obtain, for the sake of wealth (vasutā, "vasumattvāya"), your many (purūṇi) treasures (vasūni) of many kinds (purudhā), in the form of cows, horses and the like; that is, may I pervade, may I enjoy. Here Bharatasvāmin took वसूतात (*vasūtāta*) as one word in the locative, while Bhaṭṭabhāskara Miśra took one word in the vocative. O puruvāra, Agni, to be chosen by many, in you who shine (rājani) there are many riches (vasu), which are to be given to me who serve (vidhate, "paricarate") you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—belonging to you
+- पुरूणि (*purūṇi*)—abundant
+- पुरुधा (*purudhā*)—of many kinds, in the form of cows, horses and the like
+- वसूनि (*vasūni*)—riches
+- वसुता (*vasutā*)—for increase of prosperity
+- त्वाया (*tvāyā*)—from you
+- अश्यं (*aśyaṃ*)—may I obtain
+- पुरुवार (*puruvāra*)—honoured by many
+- अग्ने (*agne*)—O Agni
+- राजनि (*rājani*)—shining
+- त्वे (*tve*)—in you
+- वसु (*vasu*)—riches
+- त्वे (*tve*)—you
+- विधते (*vidhate*)—for me who serve
+- संति हि (*saṃti hi*)—are they not established
+
+##### भावार्थ (Bhāvārtha)
+
+O lord Agni, may I obtain from you, for the sake of increase of prosperity, your abundant riches of many kinds, in the form of cows, horses and the like. O Agni, honoured by many, are not the riches that are in you, the shining one, established for me, who serve you?
+
+##### English translation
+Royal Agni, may I obtain from you your many and various treasures whereby to be enriched; for, Agni, who are the desired of multitudes, infinite are the riches(aggregated) in you, fit, monarch, for your worshipper.
+
 ---
 
-**Progress note:** Done through printed p. 372. Sukta 6.1 Rk 4-8 (Rk 8 verse and pada)
+**Progress note:** Done through printed p. 379. Sukta 6.1 Rk 8 bhasya to Rk 13 (end of sukta)
