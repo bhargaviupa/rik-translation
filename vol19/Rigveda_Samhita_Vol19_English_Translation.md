@@ -8880,6 +8880,288 @@ The sūkta beginning अदर्दरुत्सं (*adardarutsaṃ*) has tw
 
 Translation: This sūkta, अदर्दरुत्सं (*adardarutsaṃ*), is the eighteenth sūkta in the second Anuvāka. It contains twelve Ṛks. The seer of this sūkta is Gātu Ātreya; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said: अदर्दर्द्वादश गातुः (*adardardvādaśa gātuḥ*). The use in ritual has been stated earlier.
 
+### Printed p. 227
+
+Sūkta 32.
+
+Maṇḍala 5, Anuvāka 2, Sūkta 32.
+
+Aṣṭaka 4, Adhyāya 1, Varga 32, 33.
+
+Number of Ṛks in the sūkta: 12.
+
+Seer: Gātu Ātreya.
+
+Deity: Indra.
+
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑र्द॒रुत्स॒मसृ॑जो॒ वि खानि॒ त्वम॑र्ण॒वान्प॑द्बधा॒ना अ॑रम्माः ।  
+> म॒हांत॑मिंद्र॒ पर्व॑तं॒ वि यद्वः सृ॒जो वि धारा॒ अव॑ ॒ ॑
+> दानवं हन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदर्दः । उत्सं । असृजः । वि । खानि । त्वं । अर्णवान् । बद्धधानान् । अरम्याः ।  
+> महांतं । इंद्र । पर्वतं । वि । यत् । वरितिवः । सृजः । वि । धाराः । अव ।  
+> दानवं । हन्निति हन् । १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमुत्समुत्स्यंदमानं मेघमदर्दः । विदारितवानसि । तदनंतरं
+> खानि मेघस्थोदकानां निर्गमनद्वाराणि व्यसृजः । विशेषेण सृष्टवानसि । किंच
+> बद्धधानान्बाध्यमानानर्णवानुदकवतो मेघानरम्माः । विसर्जयसि । क्षारयसीत्यर्थः ॥ अत्र रम्मातिर्विसर्जनकर्मा । हे इंद्र यद्यस्त्वं ॥ यदिति लिंगव्यत्ययः॥
+> महांतं प्रभूतं पर्वतं मेघं वि वः । विवृतवानसि । धारा अपां वि सृजः ।
+> विसृष्टवानसि । अपि च दानवं दनोः पुत्रं वृत्रमसुरं यद्योदकस्य दातारं
+> मेघं वाव हन् । अभिहतवानसि । अत्र निरुक्तं । अदृणा उत्सं । उत्स उत्सदनाद्वोत्संदनाद्वोनत्तीर्वा स्यात् । व्यसृजोऽस्य खानि त्वमर्णवानर्णस्वत
+> एतानित्यादि । नि. १८-९ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, you split the cloud, utsa, the streaming one, and thereafter you released the outlets (खानि (*khāni*)) for the waters in the cloud. Moreover you let flow (अरम्माः (*arammāḥ*): here the root ramma has the sense of releasing, that is, you make them flow) the held-back (बद्धधानान् (*baddhadhānān*)) clouds full of water (अर्णवान् (*arṇavān*)). The word यद्यस्त्वं (*yadyastvaṃ*) shows a change of gender. When you opened the great, abundant mountain, the cloud, and released the streams of waters, you also struck the Dānava, the son of Danu, the asura Vṛtra, or the cloud that is the giver of water. Here the Nirukta (Ni. 18-9) says: अदृणा उत्सं । उत्स उत्सदनाद्वोत्संदनाद्वोनत्तीर्वा स्यात् । व्यसृजोऽस्य खानि त्वमर्णवानर्णस्वत एतानित्यादि । (*adṛṇā utsaṃ | utsa utsadanādvotsaṃdanādvonattīrvā syāt | vyasṛjo 'sya khāni tvamarṇavānarṇasvata etānityādi |*), explaining the word utsa as from rising up or from flowing, and the words "you released its outlets, you the watery ones."
+
+### Printed p. 228
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—O Indra
+- त्वं (*tvaṃ*)—you
+- उत्सं (*utsaṃ*)—the cloud that sprinkles water
+- अदर्दः (*adardaḥ*)—have split
+- खानि (*khāni*)—(for the waters contained in the cloud) the outlets
+- वि असृजः (*vi asṛjaḥ*)—have opened
+- बद्धधानान् (*baddhadhānān*)—held back
+- अर्णवान् (*arṇavān*)—the waters
+- अरम्म्णाः (*arammṇāḥ*)—have caused to flow
+- यत् (*yat*)—when
+- महांतं (*mahāṃtaṃ*)—abundant
+- पर्वतं (*parvataṃ*)—the cloud
+- विवः (*vivaḥ*)—you split
+- धाराः (*dhārāḥ*)—the streams of water
+- वि सृजः (*vi sṛjaḥ*)—you released so that they flow (then)
+- दानवं (*dānavaṃ*)—the son of Danu, Vṛtrāsura
+- अव हन् (*ava han*)—you have slain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have split the cloud that sprinkles water. You have opened the outlets for the waters contained in the cloud. You have caused the held-back waters to flow. When you split the abundant cloud and released the streams of water so that they flow, then you slew Vṛtrāsura, the son of Danu.
+
+##### English translation
+You, Indra have rent the cloud asunder, you have set open the flood-gates, you have liberated the obstructed streams, vou have opened the vast cloud, and have given vent to the showerers, having slain the Danava.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमुत्सा॑ ऋ॒तुभि॑र्बद्भधा॒ना अरं॑ह॒ ऊधः॒ पर्व॑तस्य वज्रिन् ।  
+> अहिं॑ चिदुग्र॒ प्रयु॑तं॒ शया॑नं जघ॒न्वा इं॑द्र॒ तवि॑षीमधत्थाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । उत्सान् । ऋतुभिः । बद्धधानान् । अरंहः । ऊधः । पर्वतस्य । वज्रिन् ।  
+> अहिं । चित् । उग्र । प्रयुतं । शयानं । जघन्वान् । इंद्र । तविषीं । अधत्थाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद्र त्वमृतुभिर्ऋतुषु वृष्टिकालेषु बद्धधानान्सतिबध्यमानानुत्सान्मेघान्प्रतिबंधनादमोचय इति शेषः । अपि च पर्वतस्य मेघस्य
+
+### Printed p. 229
+
+> संबंध्यूधो बलमरंहः । अगमर्य । हे उग्र उद्धूर्णबलेंद्र प्रयुतमुद्युक्तं शयानं जले शयनं कुर्वंतमहिं चिद्वृत्रं च जघन्वान् हतवानसि ।
+> हे इंद्र त्वं तविषीं बलमधत्थाः । आधारयः । वृत्रवधानंतरमिंद्रो लोके
+> प्रख्यातो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O wielder of the thunderbolt, Indra, you, in the seasons, that is, in the times of rain, released the clouds that were held back (बद्धधानान् (*baddhadhānān*)) from their confinement ("released" being understood). Moreover you released the strength (अरंहः (*araṃhaḥ*)) belonging to the udder (ऊधः (*ūdhaḥ*)) of the mountain, the cloud. O fierce Indra, of uplifted strength, you slew Ahi, that is, Vṛtra, who was prepared, lying in the water. O Indra, you bore your strength (तविषीं (*taviṣīṃ*)). The meaning is that after the slaying of Vṛtra Indra becomes famous in the world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, holder of the thunderbolt
+- त्वं (*tvaṃ*)—you
+- ऋतुभिः (*ṛtubhiḥ*)—in the respective seasons, such as the rains
+- बद्धधानान् (*baddhadhānān*)—which hold back the waters
+- उत्सान् (*utsān*)—the clouds (you split them and made the waters flow)
+- पर्वतस्य (*parvatasya*)—contained in the cloud
+- ऊधः (*ūdhaḥ*)—the water
+- अरंहः (*araṃhaḥ*)—you released and made flow
+- उग्र (*ugra*)—O fierce Indra
+- प्रयुतं (*prayutaṃ*)—who was prepared for obstruction
+- शयानं (*śayānaṃ*)—and who lay asleep in the water
+- अहिं चित् (*ahiṃ cit*)—Ahi too
+- जघन्वान् (*jaghanvān*)—you have slain
+- इंद्र (*iṃdra*)—O Indra
+- तविषीं (*taviṣīṃ*)—your famous strength
+- अधस्थाः (*adhasthāḥ*)—you have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, holder of the thunderbolt, you have split the clouds that hold back the waters in the respective seasons, such as the rains, and made the waters flow. You have released the water contained in the cloud and made it flow. O fierce Indra, you have slain even Ahi, who was prepared for obstruction and lay asleep in the water. O Indra, the strength that you have obtained is famous.**NOTE**
+
+##### English translation
+You, thunderer, (have set free) the obstructed clouds in their seasons ; you have invigorated the strength of the cloud : fierce Indra, destroying the the mighty Ahi when slumbering (in the waters), you have established the reputation of your prowess.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यस्य॑ चिन्मह॒तो निर्मृ॒गस्य॒ वध॑र्जघान॒ तवि॑षीभि॒रिंद्रः॑ ।  
+> य एक॒ इद॑प्र॒तिर्मन्य॑मान॒ आद॑स्माद॒न्नो अ॑जनिष्ट॒ तव्या॑न् ॥
+
+### Printed p. 230
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यस्य । चित् । महतः । निः । मृगस्य।वधः । जघान । तविषीभिः । इंद्रः ।  
+> यः । एकः । इत् । अप्रतिः । मन्यमानः । आत् । अस्मात् । अन्यः । अजनिष्ट ।  
+> तव्यान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निर्जघानायुधं शक्रो वृत्रेण क्षिप्तमोजसा । वृत्रस्य गात्रादन्यो यः
+> प्रादुर्भूतो महासुरः ॥ वृत्रं पूर्वं निहत्येंद्रो द्वितीयं शुष्णसंज्ञकं ।
+> पुनर्जघानेंद्र इति पराभिः कीर्तयत्कृषिरिति ॥ इंद्रो महतः प्रभूतस्य मृगस्य
+> मृगवच्छीघ्रगामिनस्त्यस्य चित् तस्य वृत्रस्य संबंधि वधरायुधं तविषीभिः स्वकीयैर्बलैनिर्जघान । निःशेषेणावधीत् । एक इदसहाय एवाप्रतिः प्रतिद्वंद्विरहितो
+> मन्यमान आत्मानं योऽत्तीति शेषः । आत्तदानीमस्माद्वृतात्तव्यान्प्रवृद्धतरोऽन्नोऽसुरोऽजनिष्ट । प्रादुरभूत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa quotes verses to explain the Ṛk: Indra (Śakra) struck down the weapon that Vṛtra had hurled with force; another great asura, who had appeared from Vṛtra's body, he also struck down; having first slain Vṛtra, Indra again slew a second, named Śuṣṇa, as the seer proclaims in the following Ṛks. He then explains: Indra, with his own powers (तविषीभिः (*taviṣībhiḥ*)), struck down completely the weapon (वधः (*vadhaḥ*)) of that great (महतः (*mahataḥ*)) Vṛtra, who was swift like a deer (मृगस्य (*mṛgasya*)). Vṛtra, thinking himself alone, without help, and without a rival (अप्रतिः (*apratiḥ*)), is the one who devours, this being understood. Then another asura, stronger (तव्यान् (*tavyān*)) than that Vṛtra, was born, that is, appeared.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Vṛtra
+- एक इत् (*eka it*)—as the only one
+- अप्रतिः (*apratiḥ*)—as without a rival
+- मन्यमानः (*manyamānaḥ*)—had thought (such)
+- महतः (*mahataḥ*)—of marvellous nature
+- मृगस्य (*mṛgasya*)—of sharp nature like a deer
+- तस्यचित् (*tasyacit*)—of that very Vṛtra
+- वधः (*vadhaḥ*)—the weapon
+- तविषीभिः (*taviṣībhiḥ*)—with his powers
+- इंद्रः (*iṃdraḥ*)—Indra
+- निः जघान (*niḥ jaghāna*)—has destroyed
+- आत् (*āt*)—then
+- आस्मात् (*āsmāt*)—than that Vṛtra
+- तव्यान् (*tavyān*)—still stronger
+- अन्यः (*anyaḥ*)—another asura named Śuṣṇa
+- अजनिष्ट (*ajaniṣṭa*)—was born
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, with his powers, has destroyed the weapon of that very Vṛtra, of marvellous nature and sharp like a deer, who had thought himself the only one and without a rival. Then another asura, named Śuṣṇa, still stronger than that Vṛtra, was born.
+
+##### English translation
+Indra, by his prowess, has annihilated the weapon of that mighty beast, from whom another more powerful, conceiving himself one and unmatched, was generated.
+
+##### विशेषविषयगळु (Special Topics)
+
+अन्य: (*anya:*)—The explanation concerning Śuṣṇa is given on page 201 of this same volume.
+
+### Printed p. 231
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॑देषां स्व॒धया॒ मदं॑तं मि॒हो नपा॑तं सु॒वृधं॑  ॒
+> तमोगां ।  
+> वृष॑प्रभर्मा दान॒वस्य॒ भामं॒ वज्रे॑ण व॒ज्री नि ज॑घान॒  ॑
+> शुष्णं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । एषां । स्वधया । मदंतं । मिहः । नपातं । सुवृधं । तमःऽगां ।  
+> वृषप्रभर्मा । दानवस्य । भामं । वज्रेण । वज्री । नि । जघान । शुष्णं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां प्राणिनां स्वधयान्नेन मंदंतं मोदमानं सर्वप्राणिनामन्नं
+> स्वयमेव भुंजानं मिहः सेचनसमर्थस्य मेघस्य नपातं पातारं रक्षितारं । अत्र
+> नपाच्छब्दः पातरि वर्तते । प्राणो वै तनूनपात्स हि तन्नः पाति । ऐ. ब्रा. २-४ । इति
+> ब्राह्मणं । सुवृथं प्रवृद्धं तमोगां तमोऽंधकारं गच्छंतं त्यं चित्तं च वृत्रं
+> निजघानेति शेषः । वृषप्रभर्मा वर्षणशीलस्य मेघस्य प्रहर्ता वज्री वज्रवानिंद्रो
+> वज्रेण स्वकीयेनायुधेन दानवस्य दनुजस्य भामं । अत्र क्रोधवाचिभामशब्देन
+> क्रोधादुत्पन्नः शुष्णासुरो लक्ष्यते । तं शुष्णासुरं नि जघान । हतवान् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra, the wielder of the thunderbolt, who strikes the raining cloud, struck down with his own weapon that Vṛtra as well, who rejoiced in the food (स्वधया (*svadhayā*)) of these creatures, enjoying by himself the food of all creatures, the नपातं (*napātaṃ*) (protector, guardian) of the cloud (मिहः (*mihaḥ*)) able to sprinkle; here the word napāt has the sense of protector. He is सुवृथं (*suvṛthaṃ*), well grown, and तमोगां (*tamogāṃ*), going in darkness. To this he adds the Brāhmaṇa: प्राणो वै तनूनपात्स हि तन्नः पाति (*prāṇo vai tanūnapātsa hi tannaḥ pāti*) (Ai. Brā. 2-4). The word भामं (*bhāmaṃ*), which denotes anger, here indicates the asura Śuṣṇa, born of the anger of the Dānava, the son of Danu; Indra struck down that Śuṣṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—which belongs to the creatures
+- स्वधया (*svadhayā*)—with food
+- मदंतं (*madaṃtaṃ*)—who was rejoicing
+- मिहः (*mihaḥ*)—of the cloud
+- नपातं (*napātaṃ*)—the protector
+- सुवृथं (*suvṛthaṃ*)—who had grown marvellously
+- तमोगां (*tamogāṃ*)—who moves in darkness
+- दानवस्य (*dānavasya*)—of Vṛtrāsura
+- भामं (*bhāmaṃ*)—the one born of anger
+- त्यं चित् शुष्णं (*tyaṃ cit śuṣṇaṃ*)—and the famous asura Śuṣṇa
+- वृषप्रभर्मा (*vṛṣaprabharmā*)—who split the rain-making cloud
+- वज्री (*vajrī*)—and who holds the thunderbolt, Indra
+- वज्रेण (*vajreṇa*)—with his thunderbolt
+- नि जघान (*ni jaghāna*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who breaks the cloud and holds the thunderbolt, destroyed with his thunderbolt the asura named Śuṣṇa, who consumed by himself all the food due to creatures and rejoiced in it, who was the protector of the cloud, who had grown marvellously, who moved in darkness, and who was born of the anger of Vṛtrāsura.
+
+### Printed p. 232
+
+##### English translation
+The wielder of the thunderbolt, the render of the rain-cloud, has destroyed with his bolt the mighty Sushna, the wrath-born ( son ) of the Danava, the walker in darkness, the protector of the showering cloud, exhilarating himself with the food of these (living creatures).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॑दस्य॒ क्रतु॑भि॒र्निष॑त्तमम॒र्मणो॑ वि॒ददिद॑स्य॒ मर्म॑ ।  
+> यदीं॑ सुक्षत्र॒ प्रभृ॑ता॒ मद॑स्य॒ युयु॑त्संतं॒ तम॑सि ह॒र्म्ये  
+> धाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । अस्य । क्रतुभिः । निसत्तं । अमर्मणः । विदत् । इत् । अस्य । मर्म ।  
+> यत् । ईं । सुक्षत्र । प्रभृता । मदस्य । युयुत्संतं । तमसि । हर्म्ये । धाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमर्मणो मर्महीनमात्मानं मन्यमानस्यास्य वृत्रस्य निषत्तं निषण्णं
+> त्यं चित् त्यत्तदेव ॥ लिंगव्यत्ययः ॥ मर्म प्राणस्थानं । यत्र स्थाने विद्धो
+> म्रियते तन्मर्मेत्युच्यते । अस्य वृत्रस्य क्रतुभिः प्रज्ञानैर्हे इंद्र त्वं विददित् ।
+> अज्ञासीरेव । यद्यदा हे सुक्षत्र सुबलेंद्र त्वं मदस्य मादकस्य सोमस्य प्रभृता
+> प्रभृतौ संभरणे सति युयुत्संतं योद्दुमिच्छंतमीमेनं वृत्रं हर्म्ये हारके
+> तमसि धाः नृदधाः । वृत्र इंद्रस्य भयात्तमसि प्राविशदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Of this Vṛtra, who thought himself without a vital spot (अमर्मणो (*amarmaṇo*)), the hidden निषत्तं (*niṣattaṃ*) vital spot (the word त्यं चित् (*tyaṃ cit*) stands for that same, with a change of gender). A vital spot (मर्म (*marma*)) is the seat of life: the place where, when pierced, one dies. O Indra, you knew it (विददित् (*vidadit*)) through the knowledge (क्रतुभिः (*kratubhiḥ*)) of this Vṛtra. When, O Sukṣatra, strong Indra, on the taking up (प्रभृता (*prabhṛtā*)) of the intoxicating Soma, you placed Vṛtra, who wished to fight, in the carrying-off darkness (हर्म्ये हारके तमसि (*harmye hārake tamasi*)): the meaning is that Vṛtra entered the darkness through fear of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्मणः (*amarmaṇaḥ*)—of Vṛtrāsura, who had understood that there was no (dangerous) place in his body for killing him (you, O Indra)
+- निषत्तं (*niṣattaṃ*)—which was hidden
+- मर्म (*marma*)—the vulnerable spot
+- त्यं चित् (*tyaṃ cit*)—that very one which there was
+- अस्य (*asya*)—of this Vṛtra
+- क्रतुभिः (*kratubhiḥ*)—through his deeds
+- विदत् इत् (*vidat it*)—you found out indeed
+- यत् (*yat*)—when
+- सुक्षत्र (*sukṣatra*)—O Indra, of great strength
+- मदस्य (*madasya*)—the Soma which causes joy
+- प्रभृता (*prabhṛtā*)—after you had drunk
+- हर्म्म्ये (*harmmye*)—which robs of sight (in which one cannot see)
+- तमसि (*tamasi*)—in the darkness
+- युयत्संतं (*yuyatsaṃtaṃ*)—Vṛtra, who was getting ready to fight
+- धाः (*dhāḥ*)—you made fall down
+
 ---
 
-**Progress note:** Done through printed p. 226. Ṛk 9 pada to Sūkta 32 introduction, pp. 221-226
+**Progress note:** Done through printed p. 232. Sūkta 32 Ṛks 1-5, pp. 227-232
