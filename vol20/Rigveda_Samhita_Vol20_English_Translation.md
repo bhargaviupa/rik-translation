@@ -11859,6 +11859,241 @@ Here it is clear that Bharadvāja regards Mamatā as his ideal woman. But here S
 
 Here it is said that Dīrghatamas, the son of Mamatā, performed the consecration of Bharata, the son of Duṣyanta. Then Mamatā, the mother of Dīrghatamas, and Mamatā, the mother of Bharadvāja,
 
+### Printed p. 360
+
+Whether they may be called two different persons is a question for which there is also room. There is no proper basis for stating anything definitively.
+
+On the whole, on the strength of many points, there is room to say that the Bharadvāja who is famous in Vedic literature and the Bharadvāja described in the Bhāgavata and Matsya Purāṇas are one and the same person. How this sage's divine genius and poetic style are manifested in the many sūktas of the sixth maṇḍala, which are his works, can be learnt in the respective sections.
+
+**The first sūkta**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भारद्वाजे षष्ठे मंडले षडनुवाकाः । तत्र प्रथमेऽनुवाके पंचदश
+> सूक्तानि । तत्र त्वं ह्यग्न इति त्रयोदशर्चं प्रथमं सूक्तं । त्वं ह्यग्ने सप्तोनेति
+> बार्हस्पत्यो भरद्वाजः षष्ठं मंडलमपश्यदित्यनुक्रांतत्वात् मंडलद्रष्टा स एव
+> भरद्वाज ऋषिः । अनादेशपरिभाषया त्रिष्टुप् । मंडलादिपरिभाषयाग्निर्देवता ॥
+> पशोर्हविष्यवदीयमाने मैत्रावरुणेनानुवचनीयमिदं मनोतासूक्तं ।
+> सूत्रितं च । त्वं ह्यग्ने प्रथम इत्यन्वाह । आ. ३-६ । इति ॥ प्रातरनुवाक आग्नेये
+> क्रत् त्रैष्टुभे छंदस्येतदादिसूत्रषट्कं द्वितीयवर्जं । सूत्रितं च । त्वं ह्यग्ने
+> प्रथम इति षण्णां द्वितीयमुद्धरेत् । अ. ४-१३ । इति ॥ आद्योपाकरणे विनियुक्ता।
+> सूत्रं तु पूर्वे मंत्र उक्तं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that in the sixth maṇḍala, seen by Bharadvāja, there are six anuvākas; in the first anuvāka there are fifteen sūktas; of these the first is the sūkta of thirteen Ṛks beginning त्वं ह्यग्ने (*tvaṃ hyagne*). Since the Anukramaṇī says that Bharadvāja, descendant of Bṛhaspati, saw the sixth maṇḍala, that same Bharadvāja is the seer, being the seer of the maṇḍala. By the rule for metres that are not specified, the metre is Triṣṭubh; by the rule that governs the beginning of a maṇḍala, the deity is Agni.
+
+Use: this Manotā sūkta is to be recited by the Maitrāvaruṇa priest when the offering of the animal is being cut off in portions. The sūtra says: "He recites 'Tvaṃ hy agne prathamaḥ'" (Ā. 3-6). In the morning recitation (prātaranuvāka), for the Agni kratu in the Triṣṭubh metre, this and the following sūktas, six in all and omitting the second, are applied; the sūtra says: "Of the six beginning 'Tvaṃ hy agne prathamaḥ', one should leave out the second" (A. 4-13).**NOTE** The first Ṛk is applied at the first upākaraṇa; the sūtra has been stated at the earlier mantra.
+
+The Anuvāda says: this sixth maṇḍala, seen by the seer Bharadvāja, has six anuvākas. The first anuvāka has fifteen sūktas. Among them the sūkta त्वं ह्यग्ने (*tvaṃ hyagne*) is the first; it has thirteen Ṛks. Since the Anukramaṇī says "Bharadvāja Bārhaspatya saw the sixth maṇḍala", the seer of this sūkta is Bharadvāja, the seer of the maṇḍala; the deity is Agni; the metre is Triṣṭubh. It is explained by the sūtra of Āśvalāyana's Śrauta-sūtra, "He recites 'Tvaṃ hy agne prathamaḥ'" (Ā. 3-6), that when the animal sacrifice is performed and the offering is being cut off, this sūkta is to be recited by the priest called Maitrāvaruṇa as the Manotā sūkta. It is explained by the sūtra of the same Śrauta-sūtra, "Of the six beginning 'Tvaṃ hy agne prathamaḥ', one should leave out the second" (Ā. 4-13), that at the time of reciting the morning anuvāka mantras, six sūktas from this sūkta onward, omitting only the second, are applied for the mantras of the Triṣṭubh metre connected with Agni's kratu. The first Ṛk of this sūkta is to be used in the principal offerings of the Adhyāyopākaraṇa and Utsarjana; this is stated in the third sūtra (Ā. 3-5) of Āśvalāyana's Gṛhya-sūtra.
+
+### Printed p. 361
+
+## Maṇḍala 6
+
+## Sūkta 1 (Maṇḍala 6)
+
+Maṇḍala 6 · Anuvāka 1 · Sūkta 1
+
+Aṣṭaka 4 · Adhyāya 1 · Varga 35
+
+Number of Ṛks in the sūkta: 13
+
+Seer: Bharadvāja Bārhaspatya
+
+Deity: Agni
+
+Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्य॑ग्ने प्रथ॒मो म॒नोता॒स्या धि॒यो अभ॑वो दस्म॒ होता॑ ।  
+> त्वं सीं॑ वृषन्न कृणोर्दु॒ष्टरी॑तु॒ सहो॒ विश्व॑स्मै॒ सह॑से॒ सह॑ध्यै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । अग्ने । प्रथमः । मनोता । अस्याः । धियः । अभवः । दस्म । होता ।  
+> त्वं । सीं । वृषन् । अकृणोः । दुस्तरीतु । सहः । विश्वस्मै । सहसे । सहध्यै ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने प्रथमो देवानां मध्यॆ प्रथमः प्रतमः प्रकृष्टतमः पूर्वभावी
+> वा त्वं मनोता हि देवानां मनो यत्रोतं संबद्धं भवति तादृशो भवति ।
+> हिशब्दोऽग्निः सर्वा मनोताग्नौ मनोताः संगच्छंते । ऐ. ब्रा. २-१० । इत्यादिब्राह्मणप्रसिद्धिद्योतनार्थः । हे दस्म दर्शनीय अस्या धियोऽस्य कर्मणो होता
+> देवानामाह्वाताभवः । भवसि । हे वृषन् कामानां वर्षितः त्वं सीं सर्वतो
+> दुष्टरीतु दुर्हिंस्यमहिंस्यं सहो बलमकृणोः । अकरोः । किमर्थं । विश्वस्मै
+> सहसे सर्वस्यापि बलवतः शत्रोः सहध्या अभिभवनाय ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you are first (prathama)": first among the gods, or "pratama", the most excellent, or the one who came into being before. You are "manotā": one in whom the minds of the gods are woven in, firmly bound. The word "hi" points to what is well known from Brāhmaṇa passages such as सर्वा मनोताग्नौ मनोताः संगच्छंते (*sarvā manotāgnau manotāḥ saṃgacchaṃte*) (Ai. Brā. 2-10). O "dasma", beautiful to look at, you have become the Hotṛ, the invoker of the gods, of this rite (dhiyaḥ here means the rite). O showerer of desires, you have made everywhere (sīṃ means "on all sides") unassailable, unharmed strength (sahas, power). For what purpose? To overcome (sahadhyai) every powerful enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- प्रथमः (*prathamaḥ*)—the foremost among all the gods
+- त्वं हि (*tvaṃ hi*)—you indeed
+- मनोता (*manotā*)—you are the one who attracts the minds of all
+- दस्म (*dasma*)—O Agni, whose form is beautiful to look at
+- अस्याः धियः (*asyāḥ dhiyaḥ*)—to this rite
+- होता (*hotā*)—as Hotṛ
+- अभवः (*abhavaḥ*)—you have become
+- वृषन् (*vṛṣan*)—O Agni, showerer of desires
+- त्वं (*tvaṃ*)—you
+- सीं (*sīṃ*)—everywhere
+- विश्वस्यॆ (*viśvasyè*)—all
+
+### Printed p. 362
+
+- सहसे (*sahase*)—of powerful enemies
+- सहध्यॆ (*sahadhyè*)—for withstanding
+- दुष्टरीतु (*duṣṭarītu*)—irresistible
+- सहः (*sahaḥ*)—strength
+- अकृणोः (*akṛṇoḥ*)—produce for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are foremost among all the gods, are the one who attracts the minds of all. O Agni of beautiful form, you are the Hotṛ of this rite. O Agni, showerer of desires, provide us with the strength needed to withstand all our powerful enemies. May we face and defeat our enemies everywhere.
+
+##### English translation
+You, Agni, are the first of the gods ; a deity to whom their minds are devoted : pleasing of aspect, you are the invoker of the deities at this rite: showerer (of benefits), bestow upon us unsurpasstble strength, wherewith to sustain all (hostile) prowess
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रथमः (*prathamaḥ*)—chief, foremost. Yāska has given the etymology of the word prathama thus: प्रथम इति मुख्यनाम प्रतमो भवति (*prathama iti mukhyanāma pratamo bhavati*) (Ni. 2-22). Prathama means chief; that is, it indicates the sense of most excellent, best, foremost.
+
+सीं (*sīṃ*)—everywhere. Yāska has said: सीमिति परिग्रहार्थीयो वा पदपूरणो वा (*sīmiti parigrahārthīyo vā padapūraṇo vā*) (Ni. 1-7). That is, the word sīṃ is used in the sense of "taking up" (accepting), and the word is also used to fill out a sentence; in support of this he cites the Ṛk प्र सीमादित्यो असृजद्विधर्ता ऋतं सिंधवो वरुणस्य यंति (*pra sīmādityo asṛjadvidhartā ṛtaṃ siṃdhavo varuṇasya yaṃti*) (Ṛ. Saṃ. 2-28-4) and says: प्रसीमादित्यो असृजत् । प्रासृजदिति ना प्रासृजत्सर्वते इति वा । (*prasīmādityo asṛjat | prāsṛjaditi nā prāsṛjatsarvate iti vā |*). In this Ṛk the word sīṃ is used to fill out the pāda, or else one may say that it has the meaning "sarvataḥ", on all sides, in every army. In this matter he says that there is another example also: विसीमतः सुरुजो वेन आवः (*visīmataḥ surujo vena āvaḥ*) (Vā. Saṃ. 13-3).**NOTE**
+
+मनोता (*manotā*)—In explaining the meaning of this word, Sāyaṇa has said in his commentary on the mantra मनोताय्कॆ हविषोऽवदीयमानस्यानुब्रूहीत्याहाध्वर्युः (*manotāykè haviṣo 'vadīyamānasyānubrūhītyāhādhvaryuḥ*) in the Aitareya Brāhmaṇa as follows
+
+### Printed p. 363
+
+देवानां मनांस्कोतानि दृढं प्रविष्टानि यस्यां देवतायां सा मनोता। (*devānāṃ manāṃskotāni dṛḍhaṃ praviṣṭāni yasyāṃ devatāyāṃ sā manotā|*) The meaning is that the matter which is firmly established in the minds of the gods is called manotā. The occasion on which this word is used in the Aitareya Brāhmaṇa is indicated here:
+
+मनोताय्कॆ हविषोऽवदीयमानस्यानुब्रूहीत्याहाध्वर्युः । त्वं ह्यग्ने प्रथमो मनोतेति सूक्तमन्वाह । (*manotāykè haviṣo 'vadīyamānasyānubrūhītyāhādhvaryuḥ | tvaṃ hyagne prathamo manoteti sūktamanvāha |*) (Ai. Brā. 6-10)
+
+In the sacrifice, after the offering of the vapā of the animal, the Adhvaryu directs the priest called Maitrāvaruṇa with the preṣa mantra मनोताय्कॆ हविषोऽवदीयमानस्यानुब्रूहि (*manotāykè haviṣo 'vadīyamānasyānubrūhi*). Then the Maitrāvaruṇa recites the sūkta (Ṛ. Saṃ. 6-1) beginning त्वं ह्यग्ने प्रथमो मनोता (*tvaṃ hyagne prathamo manotā*).
+
+A little explanation is necessary here. When the animal offering is made in a sacrifice, first the वपा (*vapā*) and the sacrificial cakes are offered. After that the other parts of the animal are offered separately. After the offering of the वपा (*vapā*), the parts of the animal are placed in wooden ladles named जुहू (*juhū*) and उपभृत् (*upabhṛt*), ājya (ghee) is poured over them, and they are offered. These offerings of parts are eleven. While offering these parts the Adhvaryu places the ladles जुहू (*juhū*) and उपभृत् (*upabhṛt*) one upon the other, places the parts of the animal in them one by one, and offers them while reciting the mantra suited to each occasion. The parts of the animal that are thus offered are: the heart, the tongue, the breast, the two sides, the liver, the parts called वाखौ (*vākhau*) or अतश्नू (*ataśnū*), the left back-bone (सव्यं दोः (*savyaṃ doḥ*)), the right side of the waist, and the middle part of the testicle. All these are placed in the ladle जुहू (*juhū*) and offered. The remaining parts, that is, the right back-bone, the remaining part of the testicle and the left side of the waist, are placed in the ladle उपभृत् (*upabhṛt*) and offered. The part of the penis called वर्षिष्ट (*varṣiṣṭa*) and the tail are cut off and offered separately.
+
+When the parts of the animal mentioned above have been cooked, ghee has been poured over them and they are being offered, the Adhvaryu addresses the Hotṛ with the words quoted above, मनोताय्कॆ हविषोऽवदीयमानस्यानुब्रूहि (*manotāykè haviṣo 'vadīyamānasyānubrūhi*), that is: "Recite the mantras suited to the occasion, in order to offer to the deities who desire the parts of the animal mixed with the oblation." Then the Maitrāvaruṇa, who belongs to the group of Hotṛs, recites the present sūkta त्वं ह्यग्ये प्रथमः (*tvaṃ hyagye prathamaḥ*). Since these deities desire the parts of the animal, they are called manotā (those who have the desire in their minds, or in whose minds it abides). These deities are Agni, Soma, Agni-Soma, Indra-Agni, the Aśvins, Vanaspati, and the Devas Ājyapas (the gods who drink the ājya). Among them Agni is the first and the chief; therefore in this sūkta, or in the offering of the animal's parts,
+
+### Printed p. 364
+
+त्वं ह्यग्ने प्रथमो मनोता (*tvaṃ hyagne prathamo manotā*): "O Agni, among the deities who desire the parts of the animal you are the first, or the best": thus Agni is praised.
+
+तदाहुर्यदन्यदेवत्य उत पशुर्भवथ्यत कस्मादाग्नेयीरेव मनोताय्कॆ हविषोऽवदीयमानस्यान्वाहेति । (*tadāhuryadanyadevatya uta paśurbhavathyata kasmādāgneyīreva manotāykè haviṣo 'vadīyamānasyānvāheti |*)
+
+Among the manotā deities Agni is the first, but there are also other deities such as Soma. Yet in this sūkta, त्वं ह्यग्ने प्रथमो मनोता (*tvaṃ hyagne prathamo manotā*), which is recited as the Manotā sūkta, only Agni is praised; there is nothing about the other manotā deities. That being so, some argue: is it not wrong to recite this sūkta, which is about Agni alone, in order to praise the other manotā deities? The answer to this is given:
+
+तिस्रो वै देवानां मनोतास्तासु हि तेषां मनांस्कोतानि वाग्वै देवानां मनोता तस्यां हि तेषां मनांस्कोतानि गोर्वै देवानां मनोता तस्यां हि तेषां मनांस्कोतान्यग्निर्वै देवानां मनोता तस्मिन्हि तेषां मनांस्कोतान्यग्निः सर्वा मनोता अग्नौ मनोताः संगच्छंते तस्मादाग्नेयिरेह मनोतायै हविषोऽवदीयमानस्यान्वाहा । (*tisro vai devānāṃ manotāstāsu hi teṣāṃ manāṃskotāni vāgvai devānāṃ manotā tasyāṃ hi teṣāṃ manāṃskotāni gorvai devānāṃ manotā tasyāṃ hi teṣāṃ manāṃskotānyagnirvai devānāṃ manotā tasminhi teṣāṃ manāṃskotānyagniḥ sarvā manotā agnau manotāḥ saṃgacchaṃte tasmādāgneyireha manotāyai haviṣo 'vadīyamānasyānvāhā |*) (I. Bā. 6-10)**NOTE**
+
+Among the manotā deities, Agni, Gau (the cow) and Vāk (the goddess of speech) are the chief ones, because the minds of all the gods are lodged in these three deities alone. Among these three deities Agni is the chief. It is through this Agni that the oblation is offered to the other deities. Therefore this sūkta त्वं ह्यग्ने प्रथमः (*tvaṃ hyagne prathamaḥ*), which praises Agni, the chief deity, on behalf of all the deities, is recited. The main sense is that by praising Agni, the chief of the manotā deities, all the deities are praised.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ होता॒ न्य॑सीदो॒ यजी॑यानि॒ळस्प॒द इ॒षय॒न्निड्यः॒ सन् ।  
+> तं त्वा॒ नरः॑ प्रथ॒मं दे॑व॒यंतो॑ म॒हो रा॒ये चि॒तयं॑तो॒ ॑ 
+> अनु ग्मन् ॥ २ ॥
+
+### Printed p. 365
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । होता । नि । आसीदः । यजीयान् । इळः । पदे । इषयन् । ईड्यः । सन् ।  
+> तं । त्वा । नरः । प्रथमं देवयंतः । महः । राये । चितयंतः । अनु । ग्मन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुना हे अग्ने यजीयानतिशयेन यष्टा त्वं होता होमनिष्पादकः
+> सन् इळो भूम्या वेदिलक्षणायाः पदे स्थाने न्यसीदः । निषण्णवानसि । किं कुर्वन् ।
+> इषयन् पशुपुरोडाशादिलक्षणमन्नमिच्छन् ईड्यः स्तुत्यः सन् । तं तादृशं त्वा
+> त्वां प्रथममितरदेवताभ्यः पूर्वं देवयंतो देवं त्वामात्मन इच्छंतो नरो
+> नेतारो मनुष्या ऋत्विग्यजमाना महो महते राये धनाय चितयंतो
+> जानंतः स्तुत्या ज्ञापयंतो वा अनु ग्मन् । अन्नगच्छन् पूर्वं ॥
+
+##### Gist of the bhāṣya
+
+Now, O Agni, you who are "yajīyān", the best of sacrificers, and the Hotṛ, the accomplisher of the offering, have sat down in the place of Iḷā, that is, on the earth in the form of the altar. Doing what? Desiring (iṣayan) food in the form of the animal, the sacrificial cake and the like, and being worthy of praise. Men (nṛ: leaders, human beings, that is, the priests and the sacrificers) desire you as their god, you who are first, before the other deities; knowing (citayantaḥ) you, or making you known by praises, for the sake of great wealth, they have followed you (anu gman, "they went after you first").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now (at this time of sacrifice)
+- यजीयान् (*yajīyān*)—you who are worthy of worship
+- होता (*hotā*)—and accomplisher of the offering
+- इषयन् (*iṣayan*)—desiring food in the form of sacrificial cakes and the like
+- ईड्यः (*īḍyaḥ*)—being worthy of praise
+- सन् (*san*)—being
+- इळः (*iḷaḥ*)—of the earth in the form of the sacrificial altar
+- पदे (*pade*)—in the place
+- न्यसीदः (*nyasīdaḥ*)—sit down
+- प्रथमं तं त्वा (*prathamaṃ taṃ tvā*)—you, such a chief
+- देवयंतः (*devayaṃtaḥ*)—desiring to worship the gods and obtain their favour
+- नरः (*naraḥ*)—leaders (priests and the like)
+- महः (*mahaḥ*)—great
+- राये (*rāye*)—for the gain of wealth
+- चितयंतः (*citayaṃtaḥ*)—meditating
+- अनु ग्मन् (*anu gman*)—have approached (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are worthy of worship and the accomplisher of the offering, sit down at this time of sacrifice in the place of the sacrificial altar, desiring food in the form of sacrificial cakes and the like and being worthy of praise. The priests and others, who are devoted to the worship of the gods, have approached you, the chief of all the gods, meditating on you for the gain of great wealth.
+
+##### English translation
+Offerer of the oblation, frequent celebrator of sacrifice, now sit down on the foot-mark of Ila, accepting the (sacrificial) food, and being glorificd : devout men, expectant of great riches, have recourse to you as to the first (of the gods).
+
+### Printed p. 366
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒तेव॒ यंतं॑ ब॒हुभि॑र्वस॒वै॒३॒॑श्वै र॒यिं जा॑गृ॒वांसो॒अनु॑ ग्मन् ।  
+> रुशं॑तम॒ग्निं द॑र्श॒तं बृ॒हंतं॑ व॒पावं॑तं वि॒श्वहा॑ दीदि॒वांसं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृताइव । यंतं । बहुभिः । वसवैः । त्वे इति । रयिं । जागृवांसः । अनु । ग्मन् ।  
+> रुशंतं । अग्निं । दर्शतं। बृहंतं । वपावंतं । विश्वहा । दीदिवांसं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृतेव मार्गेण । इवेति संप्रत्यर्थे । लोकद्वयमध्यगतेन मार्गीण
+> बहुभिरनेकैर्वसवैर्वसुभिः ॥ स्वार्थिकस्तद्धितप्रत्ययः ॥ यजमानानां निवासयोगैर्वा सार्धं यंतं गच्छंतं त्वामनु ग्मन् । अनुगच्छंति । संभजंते यजमानाः।
+> कीदृशास्ते । त्वे त्वयि देवे रयिं धनं जागृवांसः । प्रयच्छंत इत्यर्थः । कीदृशं
+> त्वामित्युच्यते । रुशंतं दीप्तवर्णमग्निमंगनादिगुणविशिष्टं दर्शतं दर्शनीयं
+> बृहंतं महांतं वपावंतं विश्वहा सर्वॆषु कालेषु दीदिवांसं दीप्यमानं ॥
+
+##### Gist of the bhāṣya
+
+"Vṛteva" means "by the path"; "iva" is in the sense of "now". By the path that runs between the two worlds, going together with many Vasus, or with the dwellings of the sacrificers, the sacrificers follow you as you go; they worship you. What are they like? In you, the god, they who are wakeful give wealth. What are you like? Shining in colour, Agni, endowed with qualities such as अंगनादि (*aṃganādi*),**NOTE** beautiful to see, great, one who has the vapā, and shining at all times.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वे (*tve*)—(O Agni) in you
+- रयिं (*rayiṃ*)—wealth (desiring)
+- जागृवांसः (*jāgṛvāṃsaḥ*)—the sacrificers devoted to your worship
+- रुशंतं (*ruśaṃtaṃ*)—you who have a shining colour
+- अग्निं (*agniṃ*)—you who have the qualities of अंगनादि (*aṃganādi*)
+- दर्शतं (*darśataṃ*)—you who have an attractive form
+- बृहंतं (*bṛhaṃtaṃ*)—you who have a vast form
+- वपावंतं (*vapāvaṃtaṃ*)—distinguished by oblations and food
+- विश्वहा (*viśvahā*)—at all times
+- दीदिवांसं (*dīdivāṃsaṃ*)—you who are shining
+- बहुभिः (*bahubhiḥ*)—innumerable
+- वसवैः (*vasavaiḥ*)—together with the Vasus
+- वृतेव (*vṛteva*)—on the path of the atmosphere
+- यंतं (*yaṃtaṃ*)—you who are going
+- अनु ग्मन् (*anu gman*)—have come near
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers devoted to your worship, desiring wealth from you, who have a shining colour, who have the qualities of अंगनादि (*aṃganādi*), who have an attractive form, who have a vast form,
+
 ---
 
-**Progress note:** Done through printed p. 359. Mandala 6 intro: Bharadvaja in Puranas, Mahabharata, Ramayana, Bharata and Mamata
+**Progress note:** Done through printed p. 366. Mandala 6 introduction end, Sukta 6.1 Rk 1-3
