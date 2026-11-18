@@ -28,7 +28,8 @@ def blocks(m, s):
     t = t[t.find('<body'):]
     out = []
     for mm in re.finditer(r'<details[^>]*>\s*<summary>\s*सायण-भाष्यम्\s*</summary>(.*?)</details>', t, flags=re.S):
-        x = re.sub(r'<br\s*/?>|</p>', '\n', mm.group(1))
+        x = re.split(r'<hr\s*/?>', mm.group(1))[0]      # after a rule the page adds his comment on the same mantra in another Veda
+        x = re.sub(r'<br\s*/?>|</p>', '\n', x)
         x = html.unescape(re.sub(r'<[^>]+>', '', x))
         out.append(re.sub(r'[ \t]+', ' ', re.sub(r'\n\s*\n+', '\n', x)).strip())
     return out
