@@ -24355,6 +24355,225 @@ The Maruts, who are possessed of the horses called Niyut, dissolvers of what is 
 ##### English translation
 Lords of the Niyut steeds, overcomers of multitudes, leaders (of rites), radiant as the Adityas, are the dispensers of water : when sovereign lords, they fill the clouds, and, loud sounding, moisten the earth with sweet (watery) sustenance.
 
+### Printed p. 668
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third piṇḍa offering of the Kārīrī sacrifice this Ṛk beginning नियुत्वंत (*niyutvaṃta*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra नियुत्वंतो ग्रामजितो यथा नरोऽग्ने बाधस्व वि मृधो वि दुर्गहा (*niyutvaṃto grāmajito yathā naro 'gne bādhasva vi mṛdho vi durgahā*) (Ā. 2-13).
+नियुत्वंतः (*niyutvaṃtaḥ*)—The word नियुत् (*niyut*) denotes the horse that is the vehicle of the deity Vāyu; in the Nirukta (Ni. 2-28) it is read नियुतो वायोः (*niyuto vāyoḥ*). But in the present Ṛk, since it is an epithet of the word नरः (*naraḥ*), which means a man, the bhāṣyakāra has said अयं शब्दोऽत्राश्वसामान्ये वर्तते । नितरां यवनवंतोऽश्ववंतो जेतारो नर इव मनुष्या इव । (*ayaṃ śabdo 'trāśvasāmānye vartate | nitarāṃ yavanavaṃto 'śvavaṃto jetāro nara iva manuṣyā iva |*). Here this word नियुत् (*niyut*) has the general meaning of horse. नितरां यवनवंतः नियुतः (*nitarāṃ yavanavaṃtaḥ niyutaḥ*): because they have especially, that is swiftly, the nature of going (the nature of running), नियुतः (*niyutaḥ*) means horses; this is the etymological sense of the word. The meaning stated here is: like men who are provided with such horses and are victorious.
+आर्यमणः (*āryamaṇaḥ*)—The deity Aryamā is one of the deities called Ādityas, the sons of Aditi. To indicate these Ādityas, or the other deities who are sons of Aditi, the plural of the word अर्यमन् (*aryaman*) is used here.
+आदित्यान् विष्णुं सूर्यं ब्रह्माणं च बृहस्पतिं । इंद्रवायू बृहस्पतिं सुहवेह हवामहे । अर्यमणं बृहस्पतमिंद्रं दानाय जोदय । वातं विष्णुं सरस्वतीं सवितारं च वाजिनं ॥ (*ādityān viṣṇuṃ sūryaṃ brahmāṇaṃ ca bṛhaspatiṃ | iṃdravāyū bṛhaspatiṃ suhaveha havāmahe | aryamaṇaṃ bṛhaspatamiṃdraṃ dānāya jodaya | vātaṃ viṣṇuṃ sarasvatīṃ savitāraṃ ca vājinaṃ ‖*) (Ṛ. Saṃ. 10-141-3, 4, 5)
+In these Ṛks the deities called Ādityas are indicated as the deities Viṣṇu, Sūrya, Brahmā, Bṛhaspati, Indra, Vāyu, Aryamā, Sarasvatī and so on. And on the question who the deities that are sons of Aditi are:
+सप्तभिः पुत्रैरदितिः । उपप्रैत्पूर्व्यं युगं । प्रजायै मृत्यवे तत् । परामार्तांडमाभरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग्श्चेत्येते । (*saptabhiḥ putrairaditiḥ | upapraitpūrvyaṃ yugaṃ | prajāyai mṛtyave tat | parāmārtāṃḍamābharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāgścetyete |*) (Trai. Ā. 1-13-2) **NOTE**
+In this sentence of the Taittirīya Āraṇyaka it is said that Aditi has eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān. Either these eight deities or other deities are indicated in the present Ṛk by the word आर्यमणः (*āryamaṇaḥ*).
+
+### Printed p. 669
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒वत्व॑ती॒यं पृ॑थि॒वी म॒रुद्भ्यः॑ प्र॒वत्व॑ती॒ द्यौर्भ॑वति  ॒॑
+> प्र॒यद्भ्यः॑ ।  
+> प्र॒वत्व॑तीः प॒थ्या॑ अं॒तरि॑क्ष्याः प्र॒वत्वं॑तः॒ पर्व॑ता जी॒रदा॑नवः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रवत्वती । इयं । पृथिवी । मरुत्ऽभ्यः । प्रवत्वती । द्यौः । भवति । प्रयुत्ऽभ्यः ।  
+> प्रवत्वतीः । पथ्याः । अंतरिक्ष्याः । प्रवत्वंतः । पर्वताः । जीरदानवः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं पृथिवी मरुद्भ्यो मरुतामर्थाय प्रवत्वती । प्रवंतः प्रकर्षवंतो
+> विस्तीर्णाः प्रदेशा यस्यां सा प्रवत्वती । तादृशी भवति । कृत्सापि भूमिर्मरुत्परा
+> भवतीत्यर्थः । तां सर्वामपि व्याप्नुवंतीति यावत् । तथा द्यौरपि प्रयद्भ्यः प्रकर्षेण गच्छद्भ्यस्तेभ्यः प्रवत्वती भवति । सापि मरुतां संचाराय ।
+> तथांतरिक्ष्या अंतरिक्षे भवाः पथ्याः स्नुगतयोऽपि प्रवत्वतीः प्रवत्वत्यो मरुद्भ्यो
+> भवंति । पर्वता अद्रयो मेघा वा प्रवत्वंतो भवंति जीरदानवः क्षिप्रदाना
+> मरुद्भ्यः ॥
+
+##### Gist of the bhāṣya
+
+This earth is for the Maruts, for the sake of the Maruts, prakṛṣṭa, full of wide expanses: the places in it are extensive and wide-spreading. That is, the whole earth is devoted to the Maruts; the meaning is that they pervade all of it. So too heaven becomes full of wide expanses for them as they go forth; it too is for the Maruts' movement. Likewise the paths that belong to the atmosphere, **NOTE** are also wide-spreading for the Maruts. The mountains, whether rocks or clouds, are wide-spreading, and the जीरदानवः (*jīradānavaḥ*) are those that give quickly to the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयं पृथिवी (*iyaṃ pṛthivī*)—this earth
+- मरुद्भ्यः (*marudbhyaḥ*)—for the Maruts
+- प्रवत्वती (*pravatvatī*)—having wide expanses
+- भवति (*bhavati*)—is
+- द्यौः (*dyauḥ*)—the heavenly world also
+- प्रयद्भ्यः (*prayadbhyaḥ*)—for the Maruts, who have excellent movement
+- प्रवत्वती (*pravatvatī*)—has widely spread expanses
+- अंतरिक्ष्याः (*aṃtarikṣyāḥ*)—belonging to the atmosphere
+- पथ्याः (*pathyāḥ*)—the paths also
+- प्रवत्वतीः (*pravatvatīḥ*)—are spread out (for their very movement)
+- जीरदानवः (*jīradānavaḥ*)—that give rain abundantly
+- पर्वताः (*parvatāḥ*)—the clouds also
+- प्रवत्वंतः (*pravatvaṃtaḥ*)—have the same quality
+
+##### भावार्थ (Bhāvārtha)
+
+For the easy movement of the Maruts, this earth, the atmosphere, the heavenly world, the mountains, and all the places where the Maruts move, are greatly extending their regions and helping the Maruts.
+### Printed p. 670
+
+##### English translation
+This wide-extended earth is for the Maruts: the spacious heaven is for the spreading winds; the paths of the firmament are provided (for their course); for them the expanding clouds quickly bestow (their gifts).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्म॑रुतः सभरसः स्वर्णरः॒ सूर्य॒ उदि॑ते॒ मद॑था दिवो  
+> नरः ।  
+> न वोऽश्वाः॑ श्रथयं॒ताह॒ सिस्र॑तः स॒द्यो अ॒स्माध्व॑नः पा॒रम॑श्नुथ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । मरुतः । सभरसः । स्वःनरः । सूर्ये । उत् इते । मदथ । दिवः । नरः ।  
+> न । वः । अश्वाः । श्रथयंत । अह । सिस्रतः । सद्यः । अस्य । अध्वनः । पारं । अश्नुथ ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः सभरसः सहबलाः स्वर्णरः सर्वस्य नेतारो यूयं यद्यदा
+> सूर्य उदित उद्दते मध्याह्ने मदथ सोमेन हे दिवो द्युलोकस्य नरो
+> नेतारः । यदा सोमं पातुमिच्छथेत्यर्थः । तदा वोऽश्वाः सिस्रतः सरंतो नाह
+> श्रथयंत । नैव श्लथयंति । सद्यस्तदानीमेवास्याध्वनो देवयजनमार्गस्य पारमश्नुथ । व्याप्नुथ । यद्वा । यदा सोमेन मदथ तदा त्वदीया अश्वा न शिथिला
+> भवंति । यूयं च कृत्स्नस्य लोकत्रयमार्गस्य पारमश्नुथ ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, of equal strength, leaders of all, when the sun has risen, at midday, you rejoice with Soma, O leaders of the heavenly world; that is, when you wish to drink Soma, then your horses, running, do not slacken at all. **NOTE** Immediately then you reach the far end of this road, the path to the place of the gods' sacrifice; you pervade it. Or else: when you rejoice with Soma, then your horses are not slack, and you reach the end of the whole path of the three worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सभरसः (*sabharasaḥ*)—those of combined strength
+- स्वर्णरः (*svarṇaraḥ*)—leaders of the whole universe
+- दिवः (*divaḥ*)—of the heavenly world
+- नरः (*naraḥ*)—leaders
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—when
+- सूर्य्य उदिते (*sūryya udite*)—when the sun has risen
+- मदथ (*madatha*)—when you rejoice with the drinking of Soma, then
+### Printed p. 671
+- वः (*vaḥ*)—your
+- सिस्रतः (*sisrataḥ*)—swift-going
+- अश्वाः (*aśvāḥ*)—horses
+- न अह श्रथयंत (*na aha śrathayaṃta*)—do not take rest at all
+- सद्यः (*sadyaḥ*)—immediately
+- अस्य अध्वनः (*asya adhvanaḥ*)—of the road that comes to this sacrificial ground
+- पारं (*pāraṃ*)—the end
+- अश्नुथ (*aśnutha*)—you reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, of combined strength, leaders of the whole universe, as soon as the sun has risen you rejoice with the drinking of Soma. At that time your swift-going horses have no rest whatever. Immediately you traverse fully the road that leads to the sacrificial ground and come here.
+
+##### English translation
+Maruts of combined strength, leaders of the universe, guides of heaven, when the sun has risen you rejoice (in the Soma beverage), then your rapid steeds know no relaxation, but quickly you reach the limits of this road (to the sacrifice).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंसे॑षु व ऋ॒ष्टयः॑ प॒त्सु खा॒दयो॒ वक्षः॑सु रु॒क्मा म॑रुतो॒ ॒ ॑
+> रथे॒ शुभः॑ ।  
+> अ॒ग्निभ्रा॑जसो वि॒द्युतो॒ गभ॑स्योः॒ शिप्राः॑ शी॒र्षसु॒ वित॑ता  ॒॑
+> हिरण्ययीः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंसेषु । वः । ऋष्टयः । पत्सु । खादयः । वक्षसु । रुक्माः । मरुतः । रथे ।  
+> शुभः ।  
+> अग्निभ्राजसः । विद्युतः। गभस्तोः । शिप्राः । शीर्षसु । वितताः । हिरण्ययाः ॥११॥
+
+### Printed p. 672
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकमंसेष्टृष्टय आयुधानि भासंत इति शेषः ।
+> पत्सु खादयः कटकाः । वक्षःसु रुक्मा हाराः । रथे शुभो मधरापुषा आपः । अग्निभ्राजसोऽग्निदीप्ता विद्युतो गभस्तोर्हस्तयोर्भासंत इत्यर्थः । शीर्षसु शिरःसु
+> हिरण्ययिर्हिरण्यमय्यः शिप्रा उष्णीषमय्यो वितता विस्तृताः । प्रतिवाक्यं वितता
+> इति ना संबंधनीयं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, on your shoulders the ऋष्टयः (*ṛṣṭayaḥ*), the weapons, shine (this is to be supplied). On your feet are the खादयः (*khādayaḥ*), anklets. On your breasts are the रुक्मा (*rukmā*), necklaces. In the chariot are the शुभः (*śubhaḥ*), the waters **NOTE**. The lightnings, blazing with fire, shine in your arms, that is, in your hands. On the heads the हिरण्ययीः (*hiraṇyayīḥ*), golden, शिप्राः (*śiprāḥ*), turbans, are spread out. The word वितता (*vitatā*) is not to be connected with each sentence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- अंगेषु (*aṃgeṣu*)—on the arms **NOTE**
+- ऋष्टयः (*ṛṣṭayaḥ*)—weapons
+- पत्सु (*patsu*)—on the feet
+- खादयः (*khādayaḥ*)—anklets
+- वक्षसु (*vakṣasu*)—on the breasts
+- रुक्माः (*rukmāḥ*)—necklaces
+- रथे (*rathe*)—in the chariot
+- शुभः (*śubhaḥ*)—sweet waters
+- गभस्त्योः (*gabhastyoḥ*)—in the hands
+- अग्निभ्राजसः (*agnibhrājasaḥ*)—having the radiance of fire
+- विद्युतः (*vidyutaḥ*)—lightnings
+- शीर्षसु (*śīrṣasu*)—on the heads
+- हिरण्ययीः (*hiraṇyayīḥ*)—made of gold
+- शिप्राः (*śiprāḥ*)—tiaras
+- वितताः (*vitatāḥ*)—shine widely spread
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, on your arms weapons, on your feet anklets, on your breasts necklaces, in your chariot sweet waters, in your hands lightnings with the radiance of fire, and on your heads tiaras made of gold shine, widely spread.
+
+##### English translation
+Lances (gleam), Maruts, upon your shoulders, anklets on your feet, golden cuirasses on your breasts, and pure (waters shine) in your chariots: lightnings blazing with fire glow in your hands, and golden tiaras are towering on your heads
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is explained in detail on which limbs the Marut deities wear which ornaments. Thus: on the arms they wear weapons called ऋष्टि (*ṛṣṭi*) (spears); on the legs they wear anklets or foot-rings; on the chest they wear necklaces; in the hands they wear lightning (the flash) that shines like fire, or special weapons that gleam like lightning; on the head they wear शिप्राः (*śiprāḥ*), that is, a golden head-covering or the ornament called a tiara; thus the adornments and so on of the Marut deities are described very well.
+
+### Printed p. 673
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नाक॑म॒र्यो अगृ॑भीतशोचिषं॒ रुश॒त्पिप्प॑लं मरुतो॒ वि  ॑
+> धूनुथ ।  
+> सम॑च्यंत वृ॒जनाति॑त्विषंत॒ यत्स्वरं॑ति॒ घोषं॒ वित॑तमृता॒यवः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । नाकं । अर्यः । अगृभीतशोचिषं । रुशत् । पिप्पलं । मरुतः । वि । धूनुथ ।  
+> सं । अच्यंत । वृजना । अतित्विषंत । यत् । स्वरंति । घोषं । विततं । ऋतयवः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतोऽर्यो गंतारो यूयं तं प्रसिद्धं नाकमादित्यं । नास्मिन्नकमस्तीति नाकः । अगृभीतशोचिषमसुरैरनपहृततेजस्कं तं रुशच्छुभ्रवर्णं पिप्पलमुदकं वि धूनुथ । विविधं चालयथ ॥ अयं द्विकर्मकः ॥ यद्यदा वृजना बलानि
+> समच्यंत संगता बलिनो भवथ । हविर्भिरस्मद्दत्तैरिति भावः ' पश्चादतित्वषंत दीप्ता
+> भवथ ॥ उभयत्र पुरुषव्यत्ययः । यद्वा । यदासुरा वृजना बलैः समच्यंत अतित्विषंत तदा घोषं भयजनकं शब्दं विततं विस्तृतं स्वरंति । कुरुतेत्यर्थः ऋतायव उदकमिच्छंतो यूयं । यद्वा । उत्तरार्ध ऋत्विग्यजमानपरतया
+> व्याख्येयः । यद्यदा ऋतायवो यज्ञकामा यजमानादयो यदा समच्यंत
+> संगता वृजना बलान्यतित्वषंत च स्वरंति घोषं स्तोत्रं विततं तदानीं पिप्पलं वि
+> धूनुथेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, goers, you set in motion that well-known नाकं (*nākaṃ*), the sun: it is so called because there is no pain in it. Its lustre is not seized, that is, not carried off by the Asuras; it is bright-coloured, white, and you shake the water, the pippala, variously; the verb takes two objects. When the strengths are united, that is, when you become strong, through the oblations given by us, and afterwards become radiant, the person of the verb is changed in both cases. Or else: when the Asuras, with their strengths united, blaze, then you, desiring water, make a far-spread, fear-causing sound, घोषं (*ghoṣaṃ*). Or else the second half is to be explained as about the priest and the sacrificer: when those desiring sacrifice, the sacrificers and the rest, are gathered, their strengths blaze and they sound the stotra spread far, then the connection is that you shake the water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- अर्यः (*aryaḥ*)—you who move about
+- तं नाकं (*taṃ nākaṃ*)—the well-known atmosphere **NOTE**
+- अगृभीतशोचिषं (*agṛbhītaśociṣaṃ*)—having a lustre not carried off by enemies
+- रुशत् (*ruśat*)—having a brightly shining part
+- पिप्पलं (*pippalaṃ*)—and the water
+- वि धूनुथ (*vi dhūnutha*)—you set in motion
+- ऋतायवः (*ṛtāyavaḥ*)—you who wish to pour water in the form of rain
+- यत् (*yat*)—when
+- वृजना (*vṛjanā*)—your powers
+- समच्यंत (*samacyaṃta*)—you gather together, then
+- अति त्विष्टंत (*ati tviṣṭaṃta*)—you shine exceedingly **NOTE**
+- विततं (*vitataṃ*)—widely spread
+- घोषं (*ghoṣaṃ*)—the sound
+- स्वरंति (*svaraṃti*)—you make
+
 ---
 
-**Progress note:** Done through printed p. 667. Mandala 5 sukta 54 Rks 5 (end)-8 (Maruts)
+**Progress note:** Done through printed p. 673. Mandala 5 sukta 54 Rks 8 (special topics)-12 (Maruts)
