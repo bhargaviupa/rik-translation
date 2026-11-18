@@ -57,7 +57,8 @@ def pages_md(path,heads=None):
     off=[n-i for i,(ln,n,h) in enumerate(H)]; del ANOMALIES[:]; fixed=[]
     for i,(ln,n,h) in enumerate(H):
         nb=[off[j] for j in range(max(0,i-3),min(len(H),i+4)) if j!=i]
-        if off[i] in nb or not nb: t=n                      # a neighbour shares this offset: the number is consistent
+        inorder=any(n-3<=H[j][1]<n for j in range(max(0,i-3),i)) and any(n<H[j][1]<=n+3 for j in range(i+1,min(len(H),i+4)))
+        if nb.count(off[i])>=min(2,len(nb)) or (off[i] in nb and inorder) or not nb: t=n  # at least two neighbours share this offset, or one does and the number continues the sequence (a head within 3 below and one within 3 above) (one alone is not enough: two bad heads two places apart confirmed each other, Vol 19 pp. 90/92 read as 20/22)
         else:
             w=sorted(nb); t=i+w[len(w)//2]                  # isolated: take the offset of its neighbours
             ANOMALIES.append((ln+1,n,t,h[:50]))
