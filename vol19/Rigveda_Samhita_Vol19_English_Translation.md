@@ -5650,6 +5650,261 @@ Agni, who are the protector of the good, most wise, powerful, and opulent; Tryar
 > ददाति ।  
 > वैश्वानर । सुस्तुतः । ववृधानः । अग्ने । यच्छ । त्रिअरुणाय । शर्म ॥ २ ॥
 
+### Printed p. 145
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्त्र्यरुणः शता च शतानि सुवर्णानां गोनां गवां विंशतिं च युक्ता
+> रथेन युक्ता सुधुरा सुधुरौ सुष्टु धुरं वहंतौ हरी अश्वा च मे मह्यं ददाति
+> अददात् हे वैश्वानराग्ने सुष्टुतोऽस्माभिः सम्यक्सुतो ववृधानो हविर्भिर्वर्धमानस्त्वं तस्मै त्रैरुणाय शर्म सुखं यच्छ । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that Tryaruṇa gives me hundreds of pieces of gold, twenty of cattle (*gonām* means *gavām*), and two horses (*harī*), which are yoked to a chariot and bear the yoke well (*sudhurā*). He then addresses Agni Vaiśvānara, well praised by us (*suṣṭuta*) **NOTE** and growing by the oblations (*vavṛdhāna*): bestow (*yaccha*, that is, *prayaccha*) happiness (*śarma*) on that Tryaruṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—who are of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- सुष्टुतः (*suṣṭutaḥ*)—well praised by us
+- ववृधानः (*vavṛdhānaḥ*)—and made to grow by oblations, you who are so
+- यः (*yaḥ*)—the Tryaruṇa who
+- मे (*me*)—to me
+- शता च (*śatā ca*)—and a hundred pieces of gold
+- गोनां विंशतिं (*gonāṃ viṃśatiṃ*)—twenty cows
+- सुधरा (*sudharā*)—those fit to bear a load
+- युक्ता (*yuktā*)—and yoked to a chariot
+- हरी च (*harī ca*)—and two horses
+- ददाति (*dadāti*)—gave, to such a one
+- त्रैरुणाय (*trairuṇāya*)—to the royal seer named Tryaruṇa
+- शर्म (*śarma*)—happiness
+- यच्छ (*yaccha*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the form of Vaiśvānara, you who are well praised by us and made to grow by oblations: bring happiness to the royal seer named Tryaruṇa, who has given me a hundred pieces of gold, twenty cows, and two horses fit to bear a load and yoked to a chariot.
+
+##### English translation
+Agni, Vaishwanara, you are deservedly praised and exalted ( by us ); bestow happiness upon Tryaruna, who gives me hundreds (of Suvarnas), twenty cattle, and a pair of burden-bearing horses.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ते॑ अग्ने सुम॒तिं च॑का॒नो नवि॑ष्ठाय नव॒मं त्र॒सद॑स्युः।  
+> यो मे॒ गिर॑स्तुविजा॒तस्य॑ पू॒र्वीर्यु॒क्तेना॒भि त्र्य॑रुणो  ॒॑
+> गृणाति ॥ ३ ॥
+
+### Printed p. 146
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । ते । अग्ने । सुमतिं । चकानः । नविष्ठाय । नवमं । त्रसदस्युः ।  
+> यः । मे । गिरः । तुन्विजातस्य । पूर्वीः । युक्तेन । अभि । त्रिऽरुणः । गृणाति ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्त्ररुणस्तु विजातस्य बह्वपत्यस्य मे पूर्विर्बह्वीर्गिरः स्तुतीः श्रुत्वा
+> प्रीतः सन् युक्तेनाभियुक्तेन मनसाभि गृणाति इदं गृहाणेदं गृहाणेति तथा
+> मां ब्रवीति एवैवं हे अग्ने नविष्ठायात्यंतं स्तुत्याय ते तुभ्यं नवमं
+> नवतमां सुमतिं स्तुतिं चकानः कामयमानस्रसदस्युरपीदं गृहाणेदं गृहाणेति
+> मां प्रार्थितवान् ॥
+
+##### Gist of the bhāṣya
+
+Tryaruṇa, hearing the many praises (*girah*) of me, who have many children (*tuvijāta*), is pleased; with a concentrated mind (*yuktena*, that is, *abhiyuktena*) he says to me again and again, "Take this, take this." In the same way, O Agni, who are exceedingly worthy of praise (*naviṣṭha*), Trasadasyu too, desiring a praise (*sumati*) that is newest (*navama*, that is, *navatama*) for you, has begged me, "Take this, take this."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः त्र्यरुणः (*yaḥ tryaruṇaḥ*)—the Tryaruṇa who
+- तुविजातस्य (*tuvijātasya*)—having many sons
+- मे (*me*)—by me composed
+- पूर्वीः (*pūrvīḥ*)—and many
+- गिरः (*giraḥ*)—(praising you), by the praises (being pleased)
+- युक्तेन (*yuktena*)—with a mind full of devotion
+- अभि गृणाति (*abhi gṛṇāti*)—says "Accept these gifts"
+- एव (*eva*)—in that very way
+- नविष्ठाय (*naviṣṭhāya*)—who are worthy of exceeding praise
+- ते (*te*)—with you in view (by me)
+- नवमः (*navamaḥ*)—newly composed
+- सुमतिं (*sumatiṃ*)—excellent praise
+- चकानः (*cakānaḥ*)—desiring
+- त्रसदस्युः (*trasadasyuḥ*)—Trasadasyu too (has begged me to accept these gifts)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Tryaruṇa was gratified by the excellent praises composed and recited with you in view, so that your favour might be gained for Tryaruṇa; and he gave me, who have many sons, the most excellent gifts with devotion. In the same way Trasadasyu too, desiring that I compose an excellent praise with you in view for the gaining of your favour for himself, has begged me to accept excellent gifts.
+
+##### English translation
+As Tryaruna, pleased by the eulogies of me who have many children, presses with earnest (mind, gifts upon me), so does Trasadasvu. desirous, Agni, of your valued favour through your exceeding praise.
+
+### Printed p. 147
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो म॒ इति॑ प्र॒वोच॒त्यश्व॑मेधाय सू॒रये॑ ।  
+> दद॑द्व॒चा स॒निं य॒ते दद॑न्मे॒धामृ॑ताय॒ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मे । इति । प्रवोचति । अश्वमेधाय । सूरये ।  
+> ददत् । ऋचा । सनिं । यते । ददत् । मेधां । ऋत्ययते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो भिक्षमाणोऽर्थी सूरये प्रेरकाय धनानां दात्रे वास्मा अश्वमेधाय राजर्षये मे मह्यं देहीति प्रवोचति प्रब्रवीति । योऽश्वमेधं धनानि
+> भिक्षत इत्यर्थः । ऋचाग्नेः स्तोत्रेण सह यत आत्मनः समीपं गच्छते तस्मा अर्थिनेऽश्वमेधः सनिं धनं ददत् । ददाति । हे अग्ने ऋतायते यज्ञमिच्छते तस्मा
+> अश्वमेधाय मेधां यज्ञविषयां प्रज्ञां ददत् । देहि ॥
+
+##### Gist of the bhāṣya
+
+The petitioner who begs says to Aśvamedha, the royal seer, who is *sūri*, that is, the impeller and giver of wealth, "Give to me" (*pravocati*); that is, he begs wealth from Aśvamedha. Aśvamedha gives wealth (*sani*) to that petitioner who comes (*yate*) to him, that is, goes to his presence, with a *ṛc*, a praise of Agni. O Agni, give to that Aśvamedha, who desires the sacrifice (*ṛtāyate*), insight (*medhā*), that is, wisdom concerning the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यः (*yaḥ*)—the petitioner who
+- सूरये (*sūraye*)—who is a giver of wealth
+- अश्वमेधाय (*aśvamedhāya*)—to the royal seer named Aśvamedha
+- मे (*me*)—to me (give wealth)
+- इति (*iti*)—thus
+- प्रवोचति (*pravocati*)—begs; such a one
+- ऋचा (*ṛcā*)—together with a praise (that extols Agni)
+- यते (*yate*)—to him who goes to him
+- सनिं (*saniṃ*)—wealth
+- ददत् (*dadat*)—he gives
+- ऋतायते (*ṛtāyate*)—to that Aśvamedha, who desires the sacrifice
+- मेधां (*medhāṃ*)—good understanding
+- ददत् (*dadat*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the petitioner who approaches the royal seer named Aśvamedha, the giver of wealth, and begs wealth of him together with a praise that wins your favour and extols you, to such a man he gives wealth, in the faith that good will come to him from that praise. Give good understanding to that Aśvamedha, who desires the sacrifice.
+
+### Printed p. 148
+
+##### English translation
+When Ashwamedha gives to him who solicits of him as a benefactor, saying (bestow wealth) upon me, and comes (to him) with a verse (in your praise), do you, Agni, grant intelligence to (the Raja) who wishes to offer sacrifice (to you).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ मा परु॒षाः श॒तमु॑द्ध॒र्षयं॑त्यु॒क्षणः॑ ।  
+> अश्व॑मेधस्य॒ दानाः॒ सोमा॑ इव॒ त्र्या॑शिरः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । मा । परुषाः । शतं । उत्सहर्षयंति । उक्षणः ।  
+> अश्वमेधस्य । दानाः । सोमाःइव । त्रिआशिरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य येनाश्वमेधस्याश्वमेधेन दाना दत्ताः परुषाः कामानां पूरकाः
+> शतमुक्षण उक्षाणो बलीवर्दा मा मामुद्धर्षयंति उत्कर्षेण हर्षयंति हे
+> अग्ने त उक्षाणस्त्वाशिरः । दधिसक्तुपयोरूपास्तिस्त्र आशिरोऽधिश्रयणसाधनभूता
+> येषां ते त्वाशिरः । सोमा इव तव प्रीणनाय भवंतु ॥
+
+##### Gist of the bhāṣya
+
+The hundred bulls (*ukṣaṇaḥ*, that is, oxen) given by Aśvamedha as gifts, which fulfil desires (*paruṣāḥ*), delight me exceedingly. O Agni, may those bulls, which have the three mixtures (*āśir*) of curds, barley meal and milk as the means of cooking **NOTE**, be, like Soma, for your gratification.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यस्य (*yasya*)—whose
+- अश्वमेधस्य (*aśvamedhasya*)—by Aśvamedha
+- दानाः (*dānāḥ*)—given
+- परुषाः (*paruṣāḥ*)—and fulfilling desires
+- शतं उक्षणः (*śataṃ ukṣaṇaḥ*)—a hundred bulls
+- मा (*mā*)—me
+- त्रशिरः (*traśiraḥ*)—of the form of the three mixtures, curds and the rest
+- सोमा इव (*somā iva*)—like Soma juices
+- उद्धर्षयंति (*uddharṣayaṃti*)—gratify (may they also serve for your gratification)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, just as the hundred bulls given by this same Aśvamedha, which fulfil desires, gratify me like Soma juices of the three mixtures of curds and the rest, so may the oblations given by him bring gratification to you.
+
+### Printed p. 149
+
+##### English translation
+Whose hundred robust oxen yield me delight, as the triple-mixed Soma, the offering of Ashwamedha (gratifies you).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी शत॒दान्यश्व॑मेधे सु॒वीर्यं॑ ।  
+> क्ष॒त्रं धा॑रयतं बृ॒हद्दि॒वि सूर्य॑मिना॒जरं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । शतदान्नि । अश्वमेधे । सुवीर्यं ।  
+> क्षत्रं । धारयतं । बृहत् । दिवि । सूर्यंइव । अजरं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी शतदान्नि । शतमपरिमितमर्थिभ्यो धनं ददातीति शतदावा ।
+> तस्मिन्नश्वमेधे राजर्षौ सुवीर्यं शोभनवीर्यसहितं बृहन्महदजरं जरारहितं
+> क्षत्रं धनं धारयतं । निधारयतं । कथमिव । दिव्यंतरिक्षे सूर्यमिव ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, *śatadānni* means in him who gives to petitioners a hundred, that is, immeasurable, wealth (*śatadāvā*). In that Aśvamedha, the royal seer, establish (*dhārayatam*, that is, *nidhārayatam*) *kṣatra*, that is, wealth, endowed with good heroism (*suvīrya*), great and free from old age (*ajara*). How? As the sun in the sky (*divi*, that is, in the atmosphere).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- शतदान्नि (*śatadānni*)—who gives wealth without measure
+- अश्वमेधे (*aśvamedhe*)—in the royal seer named Aśvamedha
+- सुवीर‍्यं (*suvīryaṃ*)—endowed with excellent strength
+- बृहत् (*bṛhat*)—abundant
+- दिवि (*divi*)—in the atmosphere
+- सूर‍्यं इव (*sūryaṃ iva*)—shining like the sun
+- अजरं (*ajaraṃ*)—imperishable
+- क्षत्रं (*kṣatraṃ*)—wealth
+- धारयतं (*dhārayataṃ*)—fill (it)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, fill the royal seer named Aśvamedha, who gives wealth without measure, with wealth that is endowed with excellent strength, abundant, shining like the sun in the atmosphere, and everlasting.
+
+### Printed p. 150
+
+##### English translation
+Indra and Agni, bestow upon the munificent Ashwamedha infinite wealth with excellent posterity, undecaying as the sun in heaven.
+
+## Sūkta 28 (Maṇḍala 5)
+
+The twenty-eighth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्धो अग्निरिति षडृचं चतुर्दशं सूक्तं । अत्रेयमनुक्रमणिका ।
+> समिद्धो विश्ववारात्रेयी त्रिष्टुब्बगती त्रिष्टुबनुष्टुब्गायत्राविति । अत्रिगोत्रोत्पन्ना विश्ववारानामिकास्य सूक्तस्य ऋषिः । आद्यातृतीये त्रिष्टुभौ द्वितीया
+> जगती चतुर्थ्यनुष्टुप् अंत्ये गायत्रौ । अग्निर्देवता ॥ सूक्तविनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning *samiddho agniḥ* has six Ṛks and is the fourteenth sūkta. Sāyaṇa cites the Anukramaṇikā for its seer, metres and deity. The seer of this sūkta is the woman named Viśvavārā, born in the lineage of Atri. The first and third Ṛks are in Triṣṭubh, the second in Jagatī, the fourth in Anuṣṭubh, and the last two in Gāyatrī. Agni is the deity. The use of the sūkta in ritual is by indication (*laiṅgika*).
+
+The sūkta beginning *samiddho agniḥ* is the fourteenth sūkta in the second Anuvāka. It has six Ṛks. In the Anukramaṇikā it is said: समिद्धो विश्ववारात्रेयी त्रिष्टुब्बगती त्रिष्टुबनुष्टुब्गायत् (*samiddho viśvavārātreyī triṣṭubbagatī triṣṭubanuṣṭubgāyat*). For this sūkta the woman named Viśvavārā, born in the lineage of Atri, is the deity **NOTE**; Agni is the deity. The first and third Ṛks of this sūkta are in the Triṣṭubh metre; the second Ṛk is in Jagatī; the fourth Ṛk is in Anuṣṭubh; the last two Ṛks are in Gāyatrī. The use in ritual is by indication.
+
+Sūkta 28.
+
+Maṇḍala 5, Anuvāka 2, Sūkta 28. Aṣṭaka 4, Adhyāya 1, Varga 22.
+
+Number of Ṛks in the sūkta: 6.
+
+Seer: विश्ववारात्रेयि (*viśvavārātreyi*).
+
+Deity: Agni.
+
+Metre: 1–3 Triṣṭubh; 2 Jagatī; 4 Anuṣṭubh; 5–6 Gāyatrī. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 144. Ṛk 6-9 of Sūkta 26 and Sūkta 27 Ṛk 1-2 (start), pp. 139-144
+**Progress note:** Done through printed p. 150. Sūkta 27 Ṛk 2-6 and Sūkta 28 start, pp. 145-150
