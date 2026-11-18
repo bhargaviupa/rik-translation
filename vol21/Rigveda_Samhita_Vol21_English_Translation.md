@@ -6606,6 +6606,381 @@ Indra, you have ever been the friend of those who praise you, and the insurer of
 
 O Indra, possessor of the thunderbolt, hold the thunderbolt, the कुलिशं (*kuliśaṃ*), in your two arms. For what purpose? For the slaying of the Rākṣasas. And having held it, overcome exceedingly the contending, approaching armies of the Asuras.
 
+### Printed p. 149
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—O Indra, who hold the thunderbolt
+- गभस्त्योः (*gabhastyoḥ*)—with both your arms
+- वज्रं (*vajraṃ*)—the thunderbolt
+- रक्षोहत्याय (*rakṣohatyāya*)—for the destruction of the Rākṣasas
+- धिष्ट (*dhiṣṭa*)—hold
+- स्पृधः (*spṛdhaḥ*)—the armies of the Asuras that contend
+- अभि (*abhi*)—and that fall upon you
+- ससहीष्ठाः (*sasahīṣṭhāḥ*)—defeat completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who hold the thunderbolt, hold the thunderbolt in both your arms for the destruction of the Rākṣasas. Defeat completely the armies of the Asuras, who contend with you and fall upon you.
+
+##### English translation
+Wielder of the thunderbolt, take the bolt in your hands for the destruction of the Rakshasas, and utterly overthrow those who defy you.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒त्नं र॑यी॒णां युजं॒ सखा॑यं कीरि॒चोद॑नं ।  
+> ब्रह्म॑वाहस्तमं हुवे ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्नं । रयाणां । युजं । सखायं । कीरिचोदनं ।  
+> ब्रह्मवाहरितमं । हुवे ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्नं चिरंतनं सर्वॆषामाद्यं रयीणां धनानां युजं योजयितारं
+> दातारं सखायं मित्रभूतं कीरिचोदनं कीरीणां स्तोतृणां चोदयितारं
+> ब्रह्मवाहस्तममतिशयेन ब्रह्मभिर्मंत्रैर्वहनीयमेवंविधमिंद्रं हुवे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+Indra is called upon as: ancient, of long standing, the first of all; the one who joins, that is, the giver, of riches; a friend, a companion; the impeller of the कीरि (*kīri*), the praisers; and ब्रह्मवाहस्तमं (*brahmavāhastamaṃ*), he who is most of all to be borne along by the Brahmas, the mantras. Such an Indra I call; I invite him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रश्नं (*praśnaṃ*)—the ancient one
+- रयीणां (*rayīṇāṃ*)—riches
+- युजं (*yujaṃ*)—who joins them to the praisers
+- सखायं (*sakhāyaṃ*)—who is a friend
+- कीरिचोदनं (*kīricodanaṃ*)—who is the impeller of the praisers
+- ब्रह्मवाहस्तमं (*brahmavāhastamaṃ*)—who is most of all to be borne along by mantras; that Indra
+- हुवे (*huve*)—I call with praise
+
+### Printed p. 150
+
+##### भावार्थ (Bhāvārtha)
+
+I call with praise that Indra who is ancient, who joins riches to the praisers, who is a friend, the impeller of the praisers, and the one who is most of all to be borne along by mantras.
+
+##### English translation
+I invoke the ancient Indra, the giver of riches, (our) friend, the encourager of his adorers, who is to be propitiated by prayer.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि विश्वा॑नि॒ पार्थि॑वा॒ एको॒ वसू॑नि॒ पत्य॑ते ।  
+> गिर्व॑णस्तमो॒ अध्रि॑गुः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । विश्वानि । पार्थिवा । एकः । वसूनि । पत्यते ।  
+> गिर्वणःतमः । अध्रिगुः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खल्विंद्रो विश्वानि सर्वाणि पार्थिवा पृथिव्यां भवानि वसूनि धनान्येक
+> एव पत्यते ईष्टे नान्यः कश्चित् । पत्यतिरैश्वर्यकर्मा । कीदृश इंद्रः । गिर्वणस्तमोऽतिशयेन गीर्भिः स्तुतिभिः संभजनीयोऽधि गुरधृतगमनः । अप्रतिहतगतिरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That same Indra alone rules over all the riches that belong to the earth, and no one else does; the verb पत्यते (*patyate*) has the sense of exercising lordship. What kind of Indra is he? गिर्वणस्तमः (*girvaṇastamaḥ*): he who is most of all to be served with songs of praise; and अध्रिगुः (*adhriguḥ*), one whose going is not struck back, that is, whose course is unobstructed. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणस्तमः (*girvaṇastamaḥ*)—who is worshipped exceedingly with praises
+- अध्रिगुः (*adhriguḥ*)—who has an unobstructed course
+- स हि (*sa hi*)—that same Indra
+- विश्वानि (*viśvāni*)—all
+- पार्थिवा (*pārthivā*)—belonging to the earth
+- वसूनि (*vasūni*)—over all riches
+- एकः (*ekaḥ*)—as one without a second
+- पत्यते (*patyate*)—is the lord
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, who is worshipped exceedingly with praises and whose course is unobstructed, is the lord, without a second, of all riches belonging to the earth.
+
+### Printed p. 151
+
+##### English translation
+He alone rules over all terrestrial riches, he who is entitled to especial praise. he who is irresistible.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ नि॒युद्भि॒रा पृ॑ण॒ कामं॒ वाजे॑भिर॒श्विभिः॑ ।  
+> गोम॑द्भर्गोपते धृ॒षत् ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । नियुत्भिः । आ । पृण । कामं । वाजेभिः । अश्विभिः ।  
+> गोमत्भिः । गोपते । धृषत् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गोपते गवां पालयितः स त्वं नोऽस्माकं कामं नियुध्भिर्वडवाभिर्धृषदृष्टं दारिद्रनाशनसमर्थं यथा भवति तथा आ पृण । अपूरय । यद्वा
+> धृषदितींद्रविशेषणं । शत्रूणां धर्षकस्यमित्यर्थ॥ । तथा गोमद्भिर्बहुभिगोभिर्युक्तैरश्वभिर्बहुभिरश्चैरुपेतैर्वाजैरन्नैश्चास्मदीयं काममापूरय ॥
+
+##### Gist of the bhāṣya
+
+O lord of cattle, protector of cows, fulfil our desire with mares, in such a way that it is धृषत् (*dhṛṣat*), bold, able to destroy poverty. Or else धृषत् (*dhṛṣat*) is an epithet of Indra, meaning the subduer of enemies. **NOTE** And fulfil our desire likewise with foods accompanied by many cows and by many horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोपते (*gopate*)—O Indra, protector of cattle
+- सः (*saḥ*)—that same you
+- नः (*naḥ*)—our
+- कामः (*kāmaḥ*)—desired object
+- नियुद्भिः (*niyudbhiḥ*)—with the help of horses
+- धृषत् (*dhṛṣat*)—so that our poverty is destroyed
+- आ पृण (*ā pṛṇa*)—fulfil
+- वाजेभिः (*vājebhiḥ*)—with riches filled with food
+- गोमद्भिः (*gomadbhiḥ*)—filled with cows
+- अश्विभिः (*aśvibhiḥ*)—and filled with horses: with such riches fulfil our desired objects
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of cattle, with the help of your niyuts, bring about the fulfilment of our desired objects, so that our poverty is destroyed. Fulfil our desired objects with riches that are full of food, full of cows and full of horses.
+
+##### English translation
+Lord of cattle, (coming) with your mares, satisfy our desires completely with (abundant) food, with horses, and with cows.
+
+### Printed p. 152
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वो॑ गाय सु॒ते सचा॑ पुरुहू॒ताय॒ सत्व॑ने ।  
+> शं यद्दवे॒ न शा॒किने॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । गाय । सुते । सचा । पुरुहूताय । सत्वने ।  
+> शं । यत् । गवे । न । शाकिने ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारो वो यूयं सुतेऽभिषुते सोमे सति पुरुहूताय
+> बहुभिर्यजमानैराहूताय सत्वने शत्रुवाणां सादयित्रे धनानां वा सनित्रे दात्र
+> इंद्राय तत्सोत्रं सचा सह संहता भूत्वा गाय । गायत । यत्सोत्रं शाकिने
+> शक्तिमत इंद्राय कं सुखकरं भवति गवे न । यथा गवे यवसं सुखकरं
+> तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praisers, when Soma has been pressed, sing together that stotra to Indra, who is called by many sacrificers, who is सत्वने (*satvane*), the subduer of enemies, or the giver of riches; that stotra which is शं (*śaṃ*), a source of comfort, to the mighty Indra, as grass is a source of comfort to a cow; this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गवे न (*gave na*)—as grass is a means of comfort to cattle
+- यत् (*yat*)—which stotra
+- शाकिने (*śākine*)—to Indra, who is mighty
+- शं (*śaṃ*)—becomes a source of comfort
+- तत् (*tat*)—such praise
+- वः (*vaḥ*)—you
+- सचा (*sacā*)—gathered together
+- सुते (*sute*)—when the Soma juice has been pressed
+- पुरुहूताय (*puruhūtāya*)—to him who is called by many
+- सत्वने (*satvane*)—and is the giver of wealth, Indra
+- गाय (*gāya*)—recite in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, gathered together, when the Soma juice has been pressed, recite in the form of song, to Indra, who is called by many and is the giver of wealth, such a praise as becomes a source of comfort to the mighty Indra, as grass is to cattle.
+
+##### English translation
+Sing praises, when your libation is poured out, to him who is the invoked of many, the subduer (of foes), giving him gratification, like (fresh pasture) to cattle.
+
+### Printed p. 153
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न घा॒ वसु॒र्नि य॑मते दा॒नं वाज॑स्य॒ गोम॑तः ।  
+> यत्सी॒मुप॒ श्रव॒द्गिरः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । घ । वसुः । नि । यमते । दानं । वाजस्य । गोऽमतः ।  
+> यत् । सीं । उप । श्रवत् । गिरः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुर्वासयिता स इंद्रो गोमतो बहुभिर्गोभिर्युक्तस्य वाजस्यान्नस्य
+> बलस्य ना दानं प्रदानं न घ न खलु नि यमते । नियच्छति । उपरतं करोति ।
+> यद्यदि सीमयं गिरोऽस्मदीयाः स्तुतीरुप श्रवत् उपशृणुयात् । स्तोत्रश्रवणे
+> सति सर्वदा ददातीत्यर्थः ।'
+
+##### Gist of the bhāṣya
+
+वसुः (*vasuḥ*) is the one who causes to dwell: that Indra does not withhold, न घ (*na gha*), indeed not, the gift of food, of strength, accompanied by many cows; he does not restrain it, does not bring it to a stop, if he should hear these praises of ours. The meaning is that whenever he hears the stotra he always gives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसुः (*vasuḥ*)—Indra, the giver of dwellings
+- यत् (*yat*)—when
+- सीम् (*sīm*)—certainly
+- गिरः (*giraḥ*)—our praises
+- उप श्रवत् (*upa śravat*)—he hears, then
+- गोमतः (*gomataḥ*)—full of cattle
+- वाजस्य (*vājasya*)—of food
+- दानं (*dānaṃ*)—the gift
+- न घ नि यमते (*na gha ni yamate*)—he certainly does not withhold
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra, the giver of dwellings, certainly hears our praises, then he certainly does not withhold the gift of food filled with cattle.
+
+##### English translation
+The giver of dwellings verily withholds not the gift of food conjoined with cattle, when he hears our praises.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒वित्स॑स्य॒ प्र हि व्र॒जं गोमं॑तं दस्यु॒हा गम॑त् ।  
+> शची॑भि॒रस॑ नो वरत् ॥ २४ ॥
+
+### Printed p. 154
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित्थसस्य । प्र । हि । व्रजं । गोमंतं । दस्युहा । गमत् ।  
+> शचीभिः । अप । नः । वरत् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुवित्सस्य । कुविद्दबहुशः स्यति हिनस्तीति कुवित्सो नाम कश्चित् । तस्य स्वभूतं
+> गोमंतं बहुभिर्गोभिर्युक्तं व्रजं गोष्ठं दस्युहा दस्यूनामुपक्षपयित्यणां
+> हंतेंद्रः प्र गमत् । प्रकर्षेण गच्छति । हि यस्मादेवं तस्मात् शचीभिरात्मीयैः
+> कर्मभिः प्रज्ञाभिर्वा नोऽस्माकं ता गा अप वरत् । निगूढास्ता अपावृणोत् ॥
+
+##### Gist of the bhāṣya
+
+कुवित्सस्य (*kuvitsasya*): Kuvitsa is the name of someone; Indra, the destroyer of the Dasyus, goes forth to that one's own cow-pen, the cattle-shed full of many cows; he goes forth vigorously. Since this is so, he uncovers for us, by his own acts or by his wisdom, those hidden cows. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुवित्सस्य (*kuvitsasya*)—of the Asura named Kuvitsa
+- गोमंतं (*gomaṃtaṃ*)—filled with cows
+- व्रजं (*vrajaṃ*)—the cow-pen
+- दस्युहा (*dasyuhā*)—Indra, the destroyer of enemies
+- प्र गमत् (*pra gamat*)—enters easily
+- हि (*hi*)—therefore
+- शचीभिः (*śacībhiḥ*)—by his excellent acts
+- नः (*naḥ*)—for us also
+- अप वरत् (*apa varat*)—he keeps (the door) opened
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the destroyer of enemies, easily enters the cow-pen, filled with cows, of the Asura named Kuvitsa. For that very reason, by his excellent acts, he keeps the door of that cow-house opened for us also.
+
+##### English translation
+Then the destroyer of the Dasyus, proceeds to the cattle-crowded folds of Kuvitsa, and by his acts opens them for us.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ त्वा शतक्रतो॒ऽभि प्र णो॑नुवु॒र्गिरः॑ ।  
+> इंद्र॑ व॒त्सं न मा॒तरः॑ ॥ २५ ॥
+
+### Printed p. 155
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । त्वा । शतक्रतो इति शतक्रतो । अभि । प्र । नोनुवुः । गिरः ।  
+> इंद्र । वत्सं । न । मातरः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुविधकर्मन् बहुविधप्रज्ञ वेंद्र त्वा त्वामभीमा अस्मदीया
+> गिरः स्तुतयः प्र णोनुवुः । प्रकर्षेण पुनः पुनर्गच्छंति । नौतिरत्र गतिकर्मा । तत्र
+> दृष्टांतः । वत्सं न मातरः । यथा मातरो गावो गृहे वर्तमानं वत्सं शीघ्रमभिगच्छंति तद्वत् । यद्वा । अस्मदीया वाचस्तामभि नोनुवुः । अभितः शब्दयंति ।
+> स्तुवंति । यथा गावो वत्समभिलक्ष्य हंभारवं कुर्वंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, performer of many kinds of acts or possessor of many kinds of wisdom, Indra, these praises of ours go forth to you, again and again; the root nu has here the sense of motion. The illustration: as mothers, cows, go quickly to a calf that is in the house, so do they. Or else: these words of ours sound toward him, they praise him, as cows low in the direction of the calf.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O performer of acts of many kinds
+- इंद्र (*iṃdra*)—O Indra
+- मातरः (*mātaraḥ*)—mother cows
+- वत्सं न (*vatsaṃ na*)—as they run affectionately to their calves and join them
+- इमा गिरः (*imā giraḥ*)—these praises recited by us
+- त्वा अभि (*tvā abhi*)—toward you
+- प्र णोनुवुः (*pra ṇonuvuḥ*)—come and join, at every step
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, performer of acts of many kinds, as mother cows run affectionately to their calves and join them, so these praises recited by us come and join you, at every step, turned toward you.
+
+##### English translation
+Indra, performer of many exploits, these our praises repeatedly recur to you as parent (cows) to their young.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒णाशं॑ स॒ख्यं तव॒ गौर॑सि वीर गव्य॒ते ।  
+> अश्वो॑ अश्वाय॒ते भ॑व ॥ २६ ॥
+
+### Printed p. 156
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुःखनशं । सख्यं । शव । गौः । असि । वीर । गव्यते ।  
+> अश्वः । अश्वयते । भव ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव त्वदीयं सख्यं सखित्वं दूणाशं दुर्णाशं नाशयितुमशक्यं ।
+> अतिदृढमित्यर्थः । अतो हे वीर वीरयितरिंद्र गव्यते गामात्मन इच्छते त्वं गौरसि ।
+> गवां प्रदाता भवसि । उपचारात्कारणे कार्यशब्दः । तथाश्वायतेऽश्वानात्मन
+> इच्छतेऽश्वो भव ! अश्वप्रदो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your friendship is दूणाशं (*dūṇāśaṃ*), hard to destroy, that is, it cannot be destroyed; the meaning is that it is exceedingly firm. Therefore, O hero, you are a गौः (*gauḥ*) for him who desires cattle for himself: you are the giver of cattle; the word for the effect is used for the cause by figurative usage. Likewise for him who desires horses for himself, you are a horse: you are the giver of horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तव (*tava*)—your
+- सख्यं (*sakhyaṃ*)—friendship
+- दूणाशं (*dūṇāśaṃ*)—is not to be destroyed easily
+- वीर (*vīra*)—O valiant Indra
+- गव्यते (*gavyate*)—for those who desire cattle
+- गौः असि (*gauḥ asi*)—you are the giver of cattle
+- आश्वायते (*āśvāyate*)—for those who desire horses
+- अश्वः भव (*aśvaḥ bhava*)—you are the giver of horses
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your friendship is not to be destroyed easily. O valiant Indra, you bestow cattle on those who desire cattle, and horses on those who desire horses.
+
+##### English translation
+Your friendship, Indra, is not easily lost : you, hero, are (the giver of) cattle to him who desires cattle, (of) horses to him who desires horses.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मं॑दस्वा॒ ह्यंध॑सो॒ राध॑से त॒न्वा॑ म॒हे ।  
+> न स्तो॒तारं॑ नि॒दे क॑रः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मंदस्व । हि । अंधसः । राधसे । तन्वा । महे ।  
+> न । स्तोतारं । निदे । करः ॥ २७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 148. Mandala 6 sukta 45 rks 11-18
+**Progress note:** Done through printed p. 156. Mandala 6 sukta 45 rks 19-27 (pp.153-154 head fix)
