@@ -10902,6 +10902,141 @@ May we obtain, by the grace of the goddess Śrī, all the desires of our minds, 
 
 The mantra मनसःकाममाकूतिं (*manasaḥkāmamākūtiṃ*), the tenth Ṛk of the Śrī-sūkta, is to be repeated every day with purity of mind until the number reaches eight lakhs. If this is done, success in speech, success in enjoyment, and the wealth that is the means of enjoyment will all certainly be obtained. While repeating this mantra, the nyāsa is to be made with the seed-syllables ओं ऐं लं वं श्रीं (*oṃ aiṃ laṃ vaṃ śrīṃ*), and the repetition done. The meditation is to be done in this way.
 
+### Printed p. 315
+
+तां ध्यायेत्सत्यसंकल्पां लक्ष्मीं क्षीरोदनप्रियां । ख्यातां सर्वेषु भूतेषु तत्त्वज्ञानबलक्रियां ॥ (*tāṃ dhyāyetsatyasaṃkalpāṃ lakṣmīṃ kṣīrodanapriyāṃ | khyātāṃ sarveṣu bhūteṣu tattvajñānabalakriyāṃ ‖*)
+
+Meditating according to this verse, the repetition is to be made. The main purport of the meditation verse is: I meditate on the goddess Śrī, who holds firm to her resolve of truth, who is fond of rice boiled in milk, and who, dwelling in all living beings as their inner self, stirs up in them knowledge, strength and action.
+
+#### Ṛk 11
+
+अस्य श्री श्रीसूक्तस्थ कर्दमेनेत्येकादशऋग्महामंत्रस्य । कर्दम ऋषिः । महालक्ष्मीर्देवता । अनुष्टुप्छंदः । कं बीजं । वं शक्तिः । श्रीं कीलकं । महालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*asya śrī śrīsūktastha kardamenetyekādaśaṛgmahāmaṃtrasya | kardama ṛṣiḥ | mahālakṣmīrdevatā | anuṣṭupchaṃdaḥ | kaṃ bījaṃ | vaṃ śaktiḥ | śrīṃ kīlakaṃ | mahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*) ओं कर्दमेन प्रजाभूता-अंगुष्ठाभ्यां नमः । ओं मयि संभव-तर्जनीभ्यां नमः । ओं कर्दम-मध्यमाभ्यां नमः । ओं श्रियं वासय मे कुले-अनामिकाभ्यां नमः । ओं मातरं-कनिष्ठिकाभ्यां नमः । ओं पद्ममालिनीं-करतलकरपृष्ठाभ्यां नमः । (*oṃ kardamena prajābhūtā-aṃguṣṭhābhyāṃ namaḥ | oṃ mayi saṃbhava-tarjanībhyāṃ namaḥ | oṃ kardama-madhyamābhyāṃ namaḥ | oṃ śriyaṃ vāsaya me kule-anāmikābhyāṃ namaḥ | oṃ mātaraṃ-kaniṣṭhikābhyāṃ namaḥ | oṃ padmamālinīṃ-karatalakarapṛṣṭhābhyāṃ namaḥ |*) ओं कर्दमेन प्रजाभूता-हृदयाय नमः । ओं मयि संभव-शिरसे स्वाहा । ओं कर्दम-शिखाय्कॆ वषट् । ओं श्रियं वासय मे कुले-कवचाय हुं । ओं मातरंनेत्रत्रयाय वषट् । ओं पद्ममालिनीं-अस्त्राय फट् । भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ (*oṃ kardamena prajābhūtā-hṛdayāya namaḥ | oṃ mayi saṃbhava-śirase svāhā | oṃ kardama-śikhāykè vaṣaṭ | oṃ śriyaṃ vāsaya me kule-kavacāya huṃ | oṃ mātaraṃnetratrayāya vaṣaṭ | oṃ padmamālinīṃ-astrāya phaṭ | bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖*) ध्यायेद्धाटकसंनिभां द्विनयनां दिव्यांबरालंकृतां । सत्फुल्लोदरपद्मकोमलयुग श्रीमत्करांभोरुहां ॥ नानारत्नकिरीटकुंडललसद्वक्रांबुजां पद्मिनीं । सर्वाभीष्टफलप्रदाननिरतां संपत्समृद्धै सदा ॥ ध्यात्वा जपेल्लक्षं महाकाव्येयुतं जपेत् ॥ (*dhyāyeddhāṭakasaṃnibhāṃ dvinayanāṃ divyāṃbarālaṃkṛtāṃ | satphullodarapadmakomalayuga śrīmatkarāṃbhoruhāṃ ‖ nānāratnakirīṭakuṃḍalalasadvakrāṃbujāṃ padminīṃ | sarvābhīṣṭaphalapradānaniratāṃ saṃpatsamṛddhai sadā ‖ dhyātvā japellakṣaṃ mahākāvyeyutaṃ japet ‖*) **GLOSS**
+
+कर्दमेन प्रजाभूता मयि संभव कर्दम । श्रियं वासय मे कुले मातरं पद्ममालिनीं ॥ (*kardamena prajābhūtā mayi saṃbhava kardama | śriyaṃ vāsaya me kule mātaraṃ padmamālinīṃ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+कर्दमेन कर्दमाख्यपुत्रेण प्रजाभूता प्रकृष्टं प्रजा अपत्यं यस्याः सा सपुत्रेत्यर्थः ॥ “ प्राजापत्यमिति ” यास्कवचनात् । भूता अभवत् । आतः हे कर्दम (*kardamena kardamākhyaputreṇa prajābhūtā prakṛṣṭaṃ prajā apatyaṃ yasyāḥ sā saputretyarthaḥ ‖ “ prājāpatyamiti ” yāskavacanāt | bhūtā abhavat | ātaḥ he kardama*)
+
+### Printed p. 316
+
+श्रीपुत्र त्वं मयि मदीयगृहे संभव संवस । पद्ममालिनीं कमलमालाधारिणीं मातरं तव जननीं श्रियं लक्ष्मीं मे मम कुले वंशे वासय निवासय ॥ (*śrīputra tvaṃ mayi madīyagṛhe saṃbhava saṃvasa | padmamālinīṃ kamalamālādhāriṇīṃ mātaraṃ tava jananīṃ śriyaṃ lakṣmīṃ me mama kule vaṃśe vāsaya nivāsaya ‖*)
+
+##### Gist of the bhāṣya
+
+कर्दमेन (*kardamena*): by the son named Kardama, प्रजाभूता (*prajābhūtā*) is she who has excellent offspring (प्रजा (*prajā*)), that is, she has a son; this is according to the statement of Yāska, प्राजापत्यमिति (*prājāpatyamiti*). भूता (*bhūtā*) means she became. Therefore, O Kardama, son of Śrī, dwell in me, in my house. पद्ममालिनीं (*padmamālinīṃ*) is she who wears a garland of lotuses; your mother Śrī, Lakṣmī, make dwell, cause to abide, in my family, my lineage.
+
+**Bhāṣya of Pṛthvīdhara**
+
+हे कर्दम श्रीपुत्र मयि संभव मयि प्रसादं कुरु । यतः श्रीः त्वया कर्दमेन प्रजाभूता पुत्रवती जाता । तस्मान्मातरं तव जननीं पद्मिनीं पद्मरचितमालिकां श्रियं लक्ष्मीं मम कुले वंशे वासय प्रतिष्ठापय । त्वत्परा सती वासं करोश्वित्यर्थः ॥ (*he kardama śrīputra mayi saṃbhava mayi prasādaṃ kuru | yataḥ śrīḥ tvayā kardamena prajābhūtā putravatī jātā | tasmānmātaraṃ tava jananīṃ padminīṃ padmaracitamālikāṃ śriyaṃ lakṣmīṃ mama kule vaṃśe vāsaya pratiṣṭhāpaya | tvatparā satī vāsaṃ karośvityarthaḥ ‖*)
+
+##### Gist of the bhāṣya
+
+O Kardama, son of Śrī, मयि संभव (*mayi saṃbhava*): show favour to me. Since Śrī has become प्रजाभूता (*prajābhūtā*), a mother of a son, through you, Kardama, therefore make your mother, पद्मिनीं (*padminīṃ*), she who has a garland made of lotuses, Śrī, Lakṣmī, dwell in my family, establish her there. The meaning is: being devoted to you, may she make her dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कर्दमेन (*kardamena*)—by the son named Kardama (the goddess Śrī)
+- प्रजाभूता (*prajābhūtā*)—has become one who has a son (therefore)
+- कर्दम (*kardama*)—O Kardama, son of Śrī (you)
+- मयि (*mayi*)—in me or in my house
+- संभव (*saṃbhava*)—dwell, or show grace to me
+- पद्ममालिनीं (*padmamālinīṃ*)—who wears a garland strung of lotus flowers
+- मातरं श्रियं (*mātaraṃ śriyaṃ*)—the goddess Śrī, your mother
+- मे (*me*)—my
+- कुले (*kule*)—among those born in my family, or in my family
+- वासय (*vāsaya*)—cause to dwell, impel to dwell
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Śrī, having obtained a son named Kardama, is famed on that account as one who has a son. O Kardama, son of Śrī, dwell in my house and show grace to me; and the goddess Śrī, adorned with a garland of lotus flowers and your mother, impel or favour to dwell in my family.
+
+##### विशेषविषयगळु (Special Topics)
+
+मंत्रकल्पार्णवे (*maṃtrakalpārṇave*)
+
+कर्दमेनेत्यादिकां तु श्रीसूक्तैकादशीमृचं । गावं सवत्सां संपूज्य जपेदक्षरलक्षकं ॥ (*kardamenetyādikāṃ tu śrīsūktaikādaśīmṛcaṃ | gāvaṃ savatsāṃ saṃpūjya japedakṣaralakṣakaṃ ‖*)
+
+वं श्रीं वमिति न्यासः (*vaṃ śrīṃ vamiti nyāsaḥ*)
+
+सवत्सा गौरिव प्रीता कर्दमेन तथेंदिरा । कल्याणी मद्गृहे नित्यं निवसेत्पद्ममालिनी ॥ (*savatsā gauriva prītā kardamena tatheṃdirā | kalyāṇī madgṛhe nityaṃ nivasetpadmamālinī ‖*)
+
+मंत्रसिद्धौ तु चिराविच्छिन्नवंशपरंपराभिवृद्धिरखंडितैश्वर्यलाभश्च भवति । संतानसौभाग्यप्रदोऽयं मंत्रः । पद्माक्षमालया गोष्ठे प्रजपेत् । बालेभ्यः पयो दद्याद्वालिकाभ्यश्च प्रत्यहं सुवासिनीमर्चयेत्सपुत्रामिति ॥ (*maṃtrasiddhau tu cirāvicchinnavaṃśaparaṃparābhivṛddhirakhaṃḍitaiśvaryalābhaśca bhavati | saṃtānasaubhāgyaprado 'yaṃ maṃtraḥ | padmākṣamālayā goṣṭhe prajapet | bālebhyaḥ payo dadyādvālikābhyaśca pratyahaṃ suvāsinīmarcayetsaputrāmiti ‖*)
+
+### Printed p. 317
+
+##### Anuvāda
+
+This mantra beginning कर्दमेन (*kardamena*) is the eleventh Ṛk in the Śrī-sūkta. The Ṛk is to be repeated after worshipping a cow with her calf. It is to be repeated as many lakhs of times as there are syllables in the mantra. Before the repetition the nyāsa is to be made with the seed-syllables वं श्रीं वं (*vaṃ śrīṃ vaṃ*), and then the repetition is to be done. As a cow with her calf looks lovingly at her calf and rejoices, so the goddess Śrī also is pleased when she is in company with her son Kardama. The main purport is: may the goddess Śrī, wearing a garland of lotus flowers and shining with divine ornaments, dwell always in my house, bringing about auspiciousness.
+
+If this mantra is repeated and the mantra is perfected, a lineage that is never broken and the attainment of unbroken lordship will be obtained. The repetition of this mantra gives the good fortune of offspring. Seated in the cow-pen where cows are tied, with a rosary of padmākṣa beads as the rosary for repetition, the mantra is to be repeated. Thereafter milk is to be given to boys and girls. And every day married women who have small children, that is, women with sons, are to be honoured with clothes, ornaments and the like.
+
+Here ends the explanation of the eleventh Ṛk.
+
+#### Ṛk 12
+
+अस्य श्रीश्रीसूक्तस्य आपःसृजंत्विति द्वादशऋङ्महामंत्रस्य । चिक्लीतो भगवानृषिः । अमृतेश्वरी देवता । अनुष्टुप् छंदः । आं बीजं । लं शक्तिः । श्रीं कीलकं । चिक्लीतमातृश्री लक्ष्मीदेवताप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*asya śrīśrīsūktasya āpaḥsṛjaṃtviti dvādaśaṛṅmahāmaṃtrasya | ciklīto bhagavānṛṣiḥ | amṛteśvarī devatā | anuṣṭup chaṃdaḥ | āṃ bījaṃ | laṃ śaktiḥ | śrīṃ kīlakaṃ | ciklītamātṛśrī lakṣmīdevatāprasādasiddhyarthe jape viniyogaḥ ‖*) ओं आपःसृजंतु स्निग्धानि—अंगुष्ठाभ्यां नमः । ओं चिक्लीत वस—तर्जनीभ्यां नमः । ओं मे गृहे—मध्यमाभ्यां नमः । ओं नि च देवीं मातरं—अनामिकाभ्या नमः । ओं श्रियं वासय—कनिष्ठिकाभ्यां नमः । ओं मे कुले—करतलकरपृष्टाभ्यां नमः । (*oṃ āpaḥsṛjaṃtu snigdhāni—aṃguṣṭhābhyāṃ namaḥ | oṃ ciklīta vasa—tarjanībhyāṃ namaḥ | oṃ me gṛhe—madhyamābhyāṃ namaḥ | oṃ ni ca devīṃ mātaraṃ—anāmikābhyā namaḥ | oṃ śriyaṃ vāsaya—kaniṣṭhikābhyāṃ namaḥ | oṃ me kule—karatalakarapṛṣṭābhyāṃ namaḥ |*) ओं आपःस्रजंतु स्निग्धानि—हृदयाय नमः । ओं चिक्लीत वस—शिरसे स्वाहा । ओं मे गृहे—शिखाय्कॆ वषट् । ओं नि च देवीं मातरं—कवचाय हुं । ओं श्रियं वासय—नेत्रत्रयाय वौषट् । ओं मे कुले—अस्त्राय फट् ॥ भूर्भुवस्सुवरोमिति दिग्बंधः । ध्यानं ॥ (*oṃ āpaḥsrajaṃtu snigdhāni—hṛdayāya namaḥ | oṃ ciklīta vasa—śirase svāhā | oṃ me gṛhe—śikhāykè vaṣaṭ | oṃ ni ca devīṃ mātaraṃ—kavacāya huṃ | oṃ śriyaṃ vāsaya—netratrayāya vauṣaṭ | oṃ me kule—astrāya phaṭ ‖ bhūrbhuvassuvaromiti digbaṃdhaḥ | dhyānaṃ ‖*) ध्यायेत्कल्पतरोर्मूले रत्नसिंहासने स्थितां । पद्मद्वयधरां पद्मां वरदाभयधारिणीं ॥ सर्वरत्नविचित्रांगीं रक्तश्रीपादपीठिकां । हेमदंडसितच्छत्रचामरद्वयवीजितां ॥ (*dhyāyetkalpatarormūle ratnasiṃhāsane sthitāṃ | padmadvayadharāṃ padmāṃ varadābhayadhāriṇīṃ ‖ sarvaratnavicitrāṃgīṃ raktaśrīpādapīṭhikāṃ | hemadaṃḍasitacchatracāmaradvayavījitāṃ ‖*)
+
+### Printed p. 318
+
+रत्नाघ्नरभिषिंचंतीं भक्तंगजकरोद्भृतैः । एवं ध्यात्वा जपेल्लक्षं भवेद्धनपतिःस्वयं ॥ (*ratnāghnarabhiṣiṃcaṃtīṃ bhaktaṃgajakarodbhṛtaiḥ | evaṃ dhyātvā japellakṣaṃ bhaveddhanapatiḥsvayaṃ ‖*) **GLOSS**
+
+आपः सृजंतु स्निग्धानि चिक्लीत वस मे गृहे । नि च देवीं मातरं श्रियं वासय मे कुले ॥ (*āpaḥ sṛjaṃtu snigdhāni ciklīta vasa me gṛhe | ni ca devīṃ mātaraṃ śriyaṃ vāsaya me kule ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+आपः अबभिमानिन्नो देवताः स्निग्धानि स्नेहयुक्तानि कार्याणि सृजंतु उद्वादयंतु । अपां स्नेहगुणवत्त्वादिति भावः । हे चिक्लीत चिक्लीताख्य श्रिपुत्र मे मम गृहे गेहे निवस च वासं कुरु । अपि च तां देवीं मातरं श्रियं मे मम कुले निवासय संवासय ॥ (*āpaḥ ababhimāninno devatāḥ snigdhāni snehayuktāni kāryāṇi sṛjaṃtu udvādayaṃtu | apāṃ snehaguṇavattvāditi bhāvaḥ | he ciklīta ciklītākhya śriputra me mama gṛhe gehe nivasa ca vāsaṃ kuru | api ca tāṃ devīṃ mātaraṃ śriyaṃ me mama kule nivāsaya saṃvāsaya ‖*)
+
+##### Gist of the bhāṣya
+
+आपः (*āpaḥ*) are the presiding deities of the waters; may they create, bring forth, स्निग्धानि (*snigdhāni*), things endowed with affection (sneha); the idea is that the waters possess the quality of affection. O Ciklīta, son of Śrī, dwell in my house. And further, make that goddess, your mother Śrī, dwell, abide, in my family.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चिक्लीत (*ciklīta*)—O sage Ciklīta, son of the goddess Śrī
+- मे (*me*)—my
+- गृहे (*gṛhe*)—in the house
+- वस (*vasa*)—dwell
+- च (*ca*)—and
+- देवीं (*devīṃ*)—who is radiant, or who is endowed with qualities such as play
+- मातरं (*mātaraṃ*)—your mother
+- श्रियं (*śriyaṃ*)—the goddess Śrī
+- मे (*me*)—my
+- कुले (*kule*)—in the family
+- निवासय (*nivāsaya*)—impel to dwell
+
+**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+सूक्तार्थसंग्रहे (*sūktārthasaṃgrahe*)
+
+यदग्रे आप एवासन्नद्यस्सर्वमभूज्जगत् । नारास्ता अयनं यस्य स हि नारायणः परः ॥ सूते नरांश्च या आपस्ता यदस्यायनं हरेः । तस्य स्वाभाविकी शक्तिर्देवी नारायणी स्मृता ॥ अद्भो हि पृथिवी जाता अग्निरप्यभवत्तथा । वायुरर्कॊ ह्यपां वत्सश्चंद्रमास्सर्वमप्यथ ॥ जीवं जीवरसं दिव्यममृतं जलमुच्यते । जायते लीयते यत्र जगत्तज्वलमारितं ॥ तज्जलासिच शांतात्मा चिरं जलमुपासते । तस्मात्सर्वनिदानानामपां सृष्टत्वमुच्यते ॥ (*yadagre āpa evāsannadyassarvamabhūjjagat | nārāstā ayanaṃ yasya sa hi nārāyaṇaḥ paraḥ ‖ sūte narāṃśca yā āpastā yadasyāyanaṃ hareḥ | tasya svābhāvikī śaktirdevī nārāyaṇī smṛtā ‖ adbho hi pṛthivī jātā agnirapyabhavattathā | vāyurarkò hyapāṃ vatsaścaṃdramāssarvamapyatha ‖ jīvaṃ jīvarasaṃ divyamamṛtaṃ jalamucyate | jāyate līyate yatra jagattajvalamāritaṃ ‖ tajjalāsica śāṃtātmā ciraṃ jalamupāsate | tasmātsarvanidānānāmapāṃ sṛṣṭatvamucyate ‖*)
+
+### Printed p. 319
+
+अप्पु प्रतिष्ठितः स्नेहस्तेनैव परमाणवः । जगद्भावाय संबद्धास्तद्दानौ स्याज्जगल्लयः ॥ तस्मादुपासको देवीं प्रार्थयेदस्वरूपिणीं । भोग्यद्रव्याणि सर्वाणि मम स्निग्धानि मातृका ॥ (*appu pratiṣṭhitaḥ snehastenaiva paramāṇavaḥ | jagadbhāvāya saṃbaddhāstaddānau syājjagallayaḥ ‖ tasmādupāsako devīṃ prārthayedasvarūpiṇīṃ | bhogyadravyāṇi sarvāṇi mama snigdhāni mātṛkā ‖*)
+
+सृजतु श्रीरपां देवी भोगभावाय भामिनी । श्रीदेव्यास्तनयो जज्ञॆ चिक्लीतो नाम मन्मथः ॥ अबन्नविकृतौ चित्ते जातः कामो हि चित्रजः । आयमेव हि संसारहेतुः सर्वार्थसाधकः ॥ (*sṛjatu śrīrapāṃ devī bhogabhāvāya bhāminī | śrīdevyāstanayo jajñè ciklīto nāma manmathaḥ ‖ abannavikṛtau citte jātaḥ kāmo hi citrajaḥ | āyameva hi saṃsārahetuḥ sarvārthasādhakaḥ ‖*)
+
+जगत्कामहितं सर्वं येन दैतफलोदयः । यश्च कामहतो देही श्रोत्रियो ब्रह्मणि स्थितः ॥ ब्रह्म संपत्सते तस्य कर्तव्यं न हि विद्यते । लक्ष्म्यास्त्रिवर्गरूपायाः प्राप्तिः कामनिबंधना ॥ (*jagatkāmahitaṃ sarvaṃ yena daitaphalodayaḥ | yaśca kāmahato dehī śrotriyo brahmaṇi sthitaḥ ‖ brahma saṃpatsate tasya kartavyaṃ na hi vidyate | lakṣmyāstrivargarūpāyāḥ prāptiḥ kāmanibaṃdhanā ‖*)
+
+तस्माच्चिक्षीतनामानं लक्ष्मीपुत्रं हि दुर्जयं । कामदेवं समाराध्य यत्नतः प्रापुयाच्छियं ॥ लक्ष्मीः प्रयत्नसाध्या हि यत्नः कामसमुद्भवः । तस्य धर्माविरुद्धस्य विभूतित्वं हरेद्यतः ॥ (*tasmāccikṣītanāmānaṃ lakṣmīputraṃ hi durjayaṃ | kāmadevaṃ samārādhya yatnataḥ prāpuyācchiyaṃ ‖ lakṣmīḥ prayatnasādhyā hi yatnaḥ kāmasamudbhavaḥ | tasya dharmāviruddhasya vibhūtitvaṃ haredyataḥ ‖*)
+
+चिक्लीत श्रीसुत स्वामिंश्चिरं निवस मद्गृहे । मत्कुले सुचिरं तिष्ठ मच्चित्ते संनिधिं कुरु ॥ त्वदागमनमात्रेण त्वन्माता त्वामनुव्रजेत् । त्वयि प्रीतिपरा सा हि तवच्छंदोनुवर्तिनी ॥ श्रीदेवीं तां मम गृहे चिरं वासय मातरं । नमोऽस्तु तुभ्यं चिक्लीत श्रीदेव्यै च नमो नमः ॥ (*ciklīta śrīsuta svāmiṃściraṃ nivasa madgṛhe | matkule suciraṃ tiṣṭha maccitte saṃnidhiṃ kuru ‖ tvadāgamanamātreṇa tvanmātā tvāmanuvrajet | tvayi prītiparā sā hi tavacchaṃdonuvartinī ‖ śrīdevīṃ tāṃ mama gṛhe ciraṃ vāsaya mātaraṃ | namo 'stu tubhyaṃ ciklīta śrīdevyai ca namo namaḥ ‖*)
+
+एतत्तात्पर्यकां सूक्ते प्रजपेद्दादशीमृचं । चंद्रमा ऋषिरेतस्य देवता त्वम्यतेश्वरी ॥ चिक्लीतमाता श्रीश्चंदोनुष्टुब्बं बीजमुच्यते । चतुःषष्ठि सहस्राणि प्रजपेन्मंत्रसिद्धये ॥ (*etattātparyakāṃ sūkte prajapeddādaśīmṛcaṃ | caṃdramā ṛṣiretasya devatā tvamyateśvarī ‖ ciklītamātā śrīścaṃdonuṣṭubbaṃ bījamucyate | catuḥṣaṣṭhi sahasrāṇi prajapenmaṃtrasiddhaye ‖*)
+
+नद्यासमुद्रगामिन्नास्तिरे बिल्वतरोस्टटे । जलकुंभं समभ्यर्च्य चेष्टिं चाभीष्टकां चरेत् ॥ यच्च याजुषशाखायामुक्तमारुणकेतुके । तेन मंत्रेण सहितं स्वशाखोक्तविधिं चरेत् ॥ प्रपादानं प्रकुर्वित दद्यात्पानीयमेव च । (*nadyāsamudragāminnāstire bilvatarosṭaṭe | jalakuṃbhaṃ samabhyarcya ceṣṭiṃ cābhīṣṭakāṃ caret ‖ yacca yājuṣaśākhāyāmuktamāruṇaketuke | tena maṃtreṇa sahitaṃ svaśākhoktavidhiṃ caret ‖ prapādānaṃ prakurvita dadyātpānīyameva ca |*)
+
+### Printed p. 320
+
+सुवासिनीभ्यो विप्रेभ्यस्तदपत्येभ्य एव च ॥ भूताप्स्यायनतो देवी तुष्यति श्रीर्हरिप्रिया । तस्यान्नं भोग्यजातं च तदिच्छासमकालिकं ॥ हितं मृष्टं समृद्धं च शुद्धं यावदपेक्षितं । तत्कुटुंबस्य पर्याप्तं तदाश्रितजनस्य च ॥ तदावासे तत्कुले च महालक्ष्मीः स्थिरा भवेत् ॥ (*suvāsinībhyo viprebhyastadapatyebhya eva ca ‖ bhūtāpsyāyanato devī tuṣyati śrīrharipriyā | tasyānnaṃ bhogyajātaṃ ca tadicchāsamakālikaṃ ‖ hitaṃ mṛṣṭaṃ samṛddhaṃ ca śuddhaṃ yāvadapekṣitaṃ | tatkuṭuṃbasya paryāptaṃ tadāśritajanasya ca ‖ tadāvāse tatkule ca mahālakṣmīḥ sthirā bhavet ‖*)
+
+##### Anuvāda
+
+According to the Vedic statement आपो ना इदमग्रे सलिलमासीत् (*āpo nā idamagre salilamāsīt*), in the beginning water covered the whole universe; there was no other thing. From that water this whole visible world arose. Water is named नाराः (*nārāḥ*), as in आपो नारा इति प्रोक्ताः (*āpo nārā iti proktāḥ*). The god for whom this water was the dwelling-place came to be named Nārāyaṇa. And those waters, the dwelling-place of that Nārāyaṇa, produced narān, that is, human beings; that is, from water alone the whole world, beginning with human beings, came into being. Therefore those waters called नाराः (*nārāḥ*), the cause of the origin of the world, became, under the name Nārāyaṇī, the natural power of Nārāyaṇa, the goddess. Then from the water principle, from water, as in the Vedic statement अद्भ्यः पृथिवी (*adbhyaḥ pṛthivī*), the earth arose. Then likewise the origin of fire, air, sun, moon and the others took place. Since from this water, the nectar that is the sap sustaining life arose, water came to be named jala. Or, since this whole world of moving and unmoving things is born from this water and dissolves in water itself, water came to be named jala. A man purified by such water, tranquil in spirit, worships the water principle. Therefore, since water is the cause of everything, it is said that water has the power of creation. In water there is the quality called sneha (the property of sticking together). Therefore the atoms, the basic supports of the world, united with one another by the power of sneha of that water, became the cause of the origin of the world. In the end, by the absence of sneha, it is likewise the cause of the dissolution of the world; therefore the goddess is to be worshipped. The goddess is to be meditated on and worshipped as being in the form of the power of water, that is, in the form of water. One should pray that the goddess, who has the form of water and is the mother of the world, may create for my enjoyment all the objects of enjoyment that are most dear to me. To this goddess Śrī a son named चिक्षीत (*cikṣīta*) was born. They call him Manmatha. It has been said before that the chief quality of water is sneha. Since this son of the goddess Śrī, who has the form of water, named Cikṣīta, arose from the mind of the goddess, which is a modification of water, he came to have the names Cittaja and Kāma. **NOTE** The desire that appears in the mind is itself
+
 ---
 
-**Progress note:** Done through printed p. 314. Pariśiṣṭa Śrīsūkta Ṛk 8 end, Ṛk 9, Ṛk 10, pp. 308-314
+**Progress note:** Done through printed p. 320. Pariśiṣṭa Śrīsūkta Ṛk 11, Ṛk 12 with Sūktārthasaṃgraha, pp. 315-320
