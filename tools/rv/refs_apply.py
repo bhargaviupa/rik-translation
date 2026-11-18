@@ -158,6 +158,16 @@ def fix_line(line, R, scripts, prev=''):
             a += m.end(); raw = line[a:b]
         if sc != 'latin' and len(words) - skip == 1 and len(X.key(' '.join(words[skip:]))) <= 2: check.append('one-word')
         if REMARK_NEAR.search(line[max(0, a - 40):ns + 90]) or '[' in raw: check.append('remark')
+        span = line[a:b]
+        if REMARK_IN.search(span):                       # "Ma. [sic as printed] Saṃ. 3-54-1": a remark stands inside the name; it stays where it is, the new words go in around it
+            segs = []; pos = 0
+            for m in REMARK_IN.finditer(span): segs.append((span[pos:m.start()], m.group())); pos = m.end()
+            segs.append((span[pos:], '')); counts = [len(t.split()) for t, _ in segs]; nw = new.split()
+            if sum(counts) != len(nw): continue          # not the same number of words: left alone (not counted)
+            parts = []; i = 0
+            for (t, rem), c in zip(segs, counts):
+                parts.append(t[:len(t) - len(t.lstrip())] + ' '.join(nw[i:i + c]) + t[len(t.rstrip()):] + rem); i += c
+            new = ''.join(parts)
         out = out[:a + shift] + new + out[b + shift:]; shift += len(new) - (b - a)
         ch.append((sc + ('-twin' if sc == 'latin' and lab == lab.lower() else ''), raw, num, new, rule, ' '.join(check)))
     return out, ch
