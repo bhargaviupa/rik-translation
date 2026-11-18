@@ -13,7 +13,6 @@ NOT IN LIST	śata. brā.		Śa. Brā.	known spelling of Śa. Brā. (capitals/dots
 NOT IN LIST	Brā.			no list form close to it	none		5					1						1	1		1		1	
 NOT IN LIST	IV.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2	1		2				
 NOT IN LIST	X.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2			3				
-NOT IN LIST	Pā. sū. vā.			no list form close to it	none		4		4															
 NOT IN LIST	Vāja. Saṃ.			no list form close to it	none		4										1							3
 NOT IN LIST	V.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											1		3				
 NOT IN LIST	VI.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											3		1				
@@ -40,9 +39,6 @@ NOT IN LIST	Bh. Gī.			no list form close to it	none		3												3
 NOT IN LIST	e. Śat. Brā.			no list form close to it	none		3														3			
 NOT IN LIST	Ai. Brā. Bhā.			no list form close to it	none		2	1		1														
 NOT IN LIST	pā. sū. ma.			no list form close to it	none		2		2															
-NOT IN LIST	Pā. sū. Vā.			no list form close to it	none		2		2															
-NOT IN LIST	Pā. Sū. Vā.			no list form close to it	none		2			2														
-NOT IN LIST	Pā. Vā.			no list form close to it	none		2			1					1									
 NOT IN LIST	Bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		2			2														
 NOT IN LIST	Up.			no list form close to it	none		2					1	1											
 NOT IN LIST	Kāś.			no list form close to it	none		2					1					1							
@@ -341,6 +337,7 @@ mistake	Praśna.	→ Pra. U.					5												3				2
 mistake	Ā. Ve.	→ Ath. Saṃ.					5														1		1	3
 mistake	Sā. Ve.	→ Sā. Saṃ.					5															1		4
 mistake	Pū. Mī.	→ Jai. Sū.					4	4																
+mistake	Pā. sū. vā.	→ Pā. Sū. Vā.					4		4															
 mistake	śa. brā.	→ Śa. Brā.					4		1							2	1							
 mistake	Bṛ. Je.	→ Bṛ. De.					4											2	2					
 mistake	Bṛ. Pe.	→ Bṛ. De.					4											1	2					1
@@ -363,6 +360,8 @@ mistake	Chā.	→ Chā. U.					3												2				1
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
 mistake	pū. mī.	→ Jai. Sū.					2	2																
 mistake	anu. ṛgve.	→ Anu.					2		2															
+mistake	Pā. sū. Vā.	→ Pā. Sū. Vā.					2		2															
+mistake	Pā. Vā.	→ Pā. Sū. Vā.					2			1					1									
 mistake	Ath.	→ Ath. Saṃ.					2				1		1											
 mistake	Āśv. Gṛ. Sū.	→ Ā. Gṛ. Sū.					2					2												
 mistake	Āś. Śrau. Sū.	→ Ā. Sū.					2					2												
@@ -442,6 +441,7 @@ extra	Sāṃ. Śrau. Sū.	Śāṅkhāyana Śrauta-sūtra					4					3											1
 extra	Pā. Gṛ. Sū.	Pāraskara Gṛhya-sūtra (पारस्कर गृह्यसूत्र), also called the Kātyāyana Gṛhya-sūtra					4					3												1
 extra	Piṅ.	Piṅgala's Chandaḥśāstra (पिङ्गल छन्दःशास्त्र)					4							2			2							
 extra	Ā. Gṛ. Sū.	Āśvalāyana Gṛhya-sūtra					3																1	2
+extra	Pā. Sū. Vā.	Pāṇini sūtra, vārttika (Kātyāyana's vārttika on the sūtra)					2			2														
 extra	M.	Mahābhāṣya (Patañjali) on a Pāṇini sūtra					2			1	1													
 extra	Dhā.	Dhātupāṭha (Pāṇinīya Dhātupāṭha, पाणिनीय धातुपाठ)					2					1			1									
 extra	Mā. Gṛ. Sū.	Mānava Gṛhyasūtra					2					1											1	
