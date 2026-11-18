@@ -18063,6 +18063,252 @@ The god who is always awake, sleepless and vigilant in the house, him the Ṛks,
 - अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
 - आह (*āha*)—says
 
+### Printed p. 489
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛk mantras and the praises in the form of Sāmans desire the god who is always awake and join him. Addressing the god who is awake, the Soma juice says, "In friendship with you, having a fixed place, I am."
+
+##### English translation
+Him who is ever vigilant, holy verses desire: to him who is ever vigilant sacred songs proceed: him who is ever vigilant the Soma thus addresses, I am always abiding in your fellowship.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्जा॑गार॒ तम्मचः॑ कामयंते॒ग्निर्जा॑गार॒ तमु॒ सामा॑न्यि  
+> यंति ॥  
+> अ॒ग्निर्जा॑गार॒ तम॒यं सोम॑ आह॒ तवा॒हम॑स्मि स॒ख्ये न्नो॑काः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । जागार. तं । ऋचः । कामयंते । अग्निः । जागार । तं। ऊं इति । सामानि।  
+> यंति ।  
+> अग्निः । जागार । तं । अयं । सोमः । आह । तव । अहं । अस्मि । सख्ये । निओकाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वयैव निगदितव्याख्या । य इत्यस्य स्थानेऽग्निरिति विशेषः ॥
+
+##### Gist of the bhāṣya
+
+The explanation is the same as that already given for the preceding Ṛk; the only difference is that अग्निः (*agniḥ*) stands in place of य (*ya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- जागार (*jāgāra*)—is awake
+- तं (*taṃ*)—him
+- ऋचः (*ṛcaḥ*)—the Ṛk mantras
+- कामयंते (*kāmayaṃte*)—desire
+- अग्निः (*agniḥ*)—Agni
+- जागार (*jāgāra*)—is awake
+- तमु (*tamu*)—him alone
+- सामानि (*sāmāni*)—the praises in the form of Sāmans
+- यंति (*yaṃti*)—go and join
+- अग्निः (*agniḥ*)—Agni
+
+### Printed p. 490
+
+- जागार (*jāgāra*)—is awake
+- तं (*taṃ*)—him
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- अहं (*ahaṃ*)—I
+- तव सख्ये (*tava sakhye*)—in your friendship
+- न्यू'काः (*nyū 'kāḥ*)—in a fixed place
+- अस्मि (*asmi*)—I shall be, (thus)
+- आह (*āha*)—says
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is awake. The Ṛk mantras desire him. Agni is awake. The praises in the form of Sāmans go and join him. Agni is always awake. Addressing him, the Soma says, "I shall be in a fixed place in your friendship."
+
+##### English translation
+Agni is ever vigilant, and him holy verses desire : Agni is ever vigilant, and to him sacred songs proceed : Agni is ever vigilant and him the Soma thus addresses, I am ever abiding in your fellowship.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matters stated in the preceding Ṛk are stated here. There, with यः (*yaḥ*) जागार (*jāgāra*), the question was asked, "Who remains vigilant in the house at all times without sleeping?", and in this Ṛk the seer gives the answer: with अग्निः (*agniḥ*) जागार (*jāgāra*), Agni himself is at all times vigilant in the house of the sacrificers.
+
+## Sūkta 45 (Maṇḍala 5)
+
+The forty-fifth hymn.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ चतुर्थेनुवाके द्वादश सूक्तानि । तत्र विदा दिव इत्येकादशर्चं प्रथमं
+> सूक्तं । सदापृणो नामात्रेय ऋषिः । त्रिष्टुप् छंदः । वै तदित्युक्तत्वादिदमपि
+> वैश्वदेवं । विदा एकादश सदापृण इत्यनुक्रमणिका । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Now, in the fourth anuvāka there are twelve sūktas. Of these, the first sūkta, beginning विदा दिव (*vidā diva*), has eleven Ṛks. Its seer is Sadāpṛṇa, of the Ātreya line, and its metre is Triṣṭubh. Because of the statement that it is "that indeed", this one too is addressed to the Viśvedevas. The Anukramaṇikā says: विदा एकादश सदापृण (*vidā ekādaśa sadāpṛṇa*). The application is the one derived from indicative marks.
+
+Anuvāda: In the fourth anuvāka of the fifth maṇḍala there are twelve sūktas. Of these, this sūkta beginning विदा दिवः (*vidā divaḥ*) is the first. It has eleven Ṛks. The seer of this sūkta is the one called Sadāpṛṇa Ātreya; the deity is the Viśvedevas; the metre is Triṣṭubh. In the Anukramaṇikā it is said: विदा एकादश सदापृण (*vidā ekādaśa sadāpṛṇa*). The application is by indicative marks.
+
+### Printed p. 491
+
+- Sūkta 45
+- Maṇḍala 5, Anuvāka 4, Sūkta 45
+- Aṣṭaka 4, Adhyāya 2, Vargas 26, 27
+- Number of Ṛks in the sūkta: 11
+- Seer: Sadāpṛṇa Ātreya
+- Deity: the Viśvedevas
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दा दि॒वो वि॒ष्यन्नद्रि॑मु॒क्थैरा॑य॒त्या उ॒षसो॑ अ॒र्चिनो॑  
+> गुः ।  
+> अपा॑वृत व्र॒जिनी॒रुत्‌स्व॑र्गा॒द्वि दुरो॒ मानु॑षीर्दे॒व आ॑वः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विदाः । दिवः । विस्स्यन् । अद्रिं । उक्षैः । आयत्याः । उषसः । अर्चिनः । गुः ।  
+> अप । अवृत । व्रजिनीः । उत् । स्वः । गात् । वि । दुरः । मानुषीः । देवः । आवरित्यावः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेंद्रादयो लिंगोक्तदेवताः । अत्रांगिरसां पणिभिरपहृत्य गिरेरधः
+> स्थापितानां गवामिंद्रेण विमोकः प्रतिपाद्यते । विदाः । अवेदयदिंद्रः । किं । गा
+> निगूढा इति संबंधः । किं कुर्वन् । उक्षैरंगिरसां स्तुतिभिर्निमित्तभूताभिरद्रिं वज्रं
+> विष्यन् प्रक्षिपन् । रक्षकाणामुपरि गिरिभेदनाय च विष्यन् । आयत्या आगामिन्या
+> उषसः संबंधिनोऽर्चिनो रश्मयो गुः । अगच्छन् । सर्वत्र प्रसृता अभवन् ।
+> अपावृत अपावृणोद्वजिनीस्तमःपुंजवतीर्निशाः स्वः स्वरणशील आदित्य उद्गात् ।
+> उदगात् । तथा कृत्वा मानुषीर्मनुष्यसंबंधिनीर्दुरो द्वाराणि देवः सूर्यो
+> व्यावः । व्यवृणोत् । अंधकारापनयनेन मनुष्यादिव्यवहारायाकरोदित्यर्थः ॥
+
+### Printed p. 492
+
+##### Gist of the bhāṣya
+
+Here Indra and the others are the deities indicated by the marks. Here the release by Indra of the cows of the Aṅgirases, which the Paṇis had carried off and placed under the mountain, is set forth. विदाः (*vidāḥ*): Indra caused to be found. What? The hidden cows; that is the connection. Doing what? Casting the thunderbolt (अद्रिं (*adriṃ*)) by means of the praises of the Aṅgirases as the cause, casting it upon the guards and in order to split the mountain. The rays of the approaching Uṣas went, that is, they spread everywhere. Sūrya, the one who moves, the Āditya, uncovered the nights, which were full of masses of darkness, and rose. Having done so, the god Sūrya opened the doors that belong to men, that is, by removing the darkness he made them available for the dealings of men and others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्रः (*iṃdraḥ*)—Indra)
+- उक्षैः (*ukṣaiḥ*)—as the reward of the praise of the Aṅgirases
+- दिवः (*divaḥ*)—from the atmosphere
+- अद्रिं (*adriṃ*)—the thunderbolt
+- विस्यन् (*visyan*)—hurling
+- विदाः (*vidāḥ*)—found out (the cows that were hidden)
+- उषसः (*uṣasaḥ*)—of the goddess Uṣas
+- आयत्याः (*āyatyāḥ*)—very extensive
+- अर्चिनः (*arcinaḥ*)—the rays
+- गुः (*guḥ*)—spread everywhere
+- स्वः (*svaḥ*)—Āditya
+- उदगात् (*udagāt*)—rose
+- व्रजिनीः (*vrajinīḥ*)—the pitch darkness
+- अपावृत (*apāvṛta*)—dispersed
+- मानुषीः (*mānuṣīḥ*)—useful for the dealings of men
+- दुरः (*duraḥ*)—the doors (the openings)
+- देवः (*devaḥ*)—the god Sūrya, who is divine in nature
+- वि आवः (*vi āvaḥ*)—opened
+
+##### भावार्थ (Bhāvārtha)
+
+As the reward of the praise of the Aṅgirases, Indra, hurling the thunderbolt from the atmosphere, found the cows that were hidden. The very extensive rays of the goddess Uṣas spread everywhere. Āditya rose and dispersed the pitch darkness; the god Sūrya, who is divine in nature, provided the openings that are useful for the dealings of men.
+
+##### English translation
+(Indra) recovered (the hidden cattle), hurling his thunderbolt from heaven at the prayers of the Angirasas : the rays of the approaching dawn are spread around : the divine sun, scattering the clustered gloom, has risen and set open the doors of (the habitations of) men.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta it is described that the cows of the Aṅgirasa seers were carried off by the asuras called Paṇis and hidden in a cave of the mountain, and that Indra, with the help of the divine bitch called Saramā, found the cave regions where those cows were and released them.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि सूर्यो॑ अ॒मतिं॒ न श्रियं॑ सा॒दोर्वाद्गवां॑ मा॒ता ॒॑ ॑
+> जा॑न॒ती गा॑त् ।
+
+### Printed p. 493
+
+> धन्वर्णसो नद्यगः खादोअर्णाः स्थूणेव सुमिता दृंहत  
+> द्यौः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सूर्यः । अमतिं । न । श्रियं । सात् । आ । ऊर्वात् । गवां । माता ।  
+> जानती । गात् ।  
+> धन्व अर्णसः । नद्यः । खादः 5 अर्णाः । स्थूणाइव । सुमिता । दृंहत । द्यौः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यो देवः श्रियं दीप्तिं वि सात् । विभजते । प्रकाशयतीत्यर्थः । अनुतिं
+> न । रूपनामैतत् । रूपमिव द्रव्यं । यथा द्रव्याणि घटपटादीनि नीलपीतादिरूपं
+> लभंते तद्वत् । तथा गवां रश्मीनां मातोषा जानती सूर्य उदेष्यति मया च
+> व्युच्छनं कर्तव्यमिति जानत्यूर्वान्महतोऽंतरिक्षादा गात् । आगच्छति । तथा नद्यश्च
+> धन्वर्णसः । धन्वतिर्गतिकर्मा । धन्वंति गच्छंत्यर्णांसि यासु तास्त्रथोक्ताः । दीर्घाभावश्यांदसः ॥ खादोअर्णा भक्षितकूलोदकाः । कूलंकषा इत्यर्थः । नद्यश्चैवंरूपा भवंति । किंच द्यौश्च सुमिता सुष्टु गृहे स्थापिता स्फूणेव गृहाधारस्तंभ इव
+> दृंहत । दृढाभवत् । एतत्सर्वं सूर्यस्याज्ञयेति भावः ॥
+
+##### Gist of the bhāṣya
+
+The god Sūrya distributes his splendour, that is, he makes it shine. रूपनामैतत् (*rūpanāmaitat*) **NOTE**: the word means "form". As substances such as jars and cloths take on forms such as blue and yellow, so it is here. Uṣas, the mother of the rays, knowing that Sūrya will rise and that she herself must dawn, comes from the great atmosphere. So too the rivers are धन्वर्णसः (*dhanvarṇasaḥ*): the root धन्व (*dhanva*) means going, and they are those in which the waters go. खादोअर्णा (*khādoarṇā*) means those whose waters eat away the banks, that is, they cut into the banks; the rivers become of this kind. Moreover, heaven was made firm, well placed like a pillar that supports a house. The sense is that all this is by the command of Sūrya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यः (*sūryaḥ*)—Sūrya
+- अमतिं न (*amatiṃ na*)—as forms such as blue and yellow are distributed to substances such as jars
+- श्रियं (*śriyaṃ*)—his radiance
+- वि सात् (*vi sāt*)—causes to spread and extend everywhere
+- गवां (*gavāṃ*)—to the rays
+- माता (*mātā*)—the mother, the goddess Uṣas
+- जानती (*jānatī*)—knowing her duty at the time of sunrise
+- ऊर्वात् (*ūrvāt*)—from the great atmosphere
+- आ गात् (*ā gāt*)—she comes into being and arrives
+- धन्वर्णसः (*dhanvarṇasaḥ*)—swiftly flowing
+- नद्यः (*nadyaḥ*)—the rivers
+- खादोआर्णाः (*khādoārṇāḥ*)—have currents that cut into their banks
+- द्यौः (*dyauḥ*)—the atmosphere
+- सुमिता (*sumitā*)—firmly set
+- स्थूणा इव (*sthūṇā iva*)—like a pillar of a house
+- दृंहत (*dṛṃhata*)—is firmly established
+
+##### भावार्थ (Bhāvārtha)
+
+As forms such as blue and yellow are distributed to substances such as jars and cloths, so Sūrya makes his radiance spread and extend everywhere. Uṣas, the mother of the rays, knowing her duty at the time of sunrise, comes into being and arrives from the great atmosphere.
+
+### Printed p. 494
+
+Swiftly flowing rivers have currents that cut into their banks. The atmosphere is firmly established like a pillar of a house that has been set firmly.
+
+##### English translation
+The sun distributes his radiance as if it was a substance: the parent of the rays of light, (the dawn), knowing his approach, comes from the spacious (firmament): the rivers with running waters flow, breaking down their banks: the heaven is stable like a well-constructed pillar.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा उ॒क्थाय॒ पर्व॑तस्य॒ गर्भो॑ म॒हीनां॑ ज॒नुषे॑ पू॒र्व्याय॑ ।  
+> य ।  
+> वि पर्व॑तो॒ जिही॑त॒ साध॑त॒ द्यौरा॒विवा॑संतो दसयंत॒ भूम॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । उक्थाय । पर्वतस्य । गर्भः । महीनां । जनुषे । पूर्व्याय ।  
+> वि । पर्वतः । जिहीत । साधत । द्यौः । आऽविवासंतः । दसयंत । भूम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मै मुख्यमुक्ताय स्तोत्रे पर्वतस्य पर्ववतो मेघस्य गर्भो गर्भस्थानीयमुदकं जिहीत । चलति । चालयति वेंद्रः । कीदृशायास्मै । महीनां महतीनां स्तुतीनां जनुष उत्पादयित्रे पूर्वाय्य प्रत्नाय । तदेव पुनरुच्यते ।
+> पर्वतो मेघो वि जिहीत । द्यौश्च साधत । साधयति वृष्टिं । आविवासंतः सर्वतपरिचरंतोंगिरसो भूमात्यधिकं दसयंत । उपक्षपयंत्यात्मानं कर्मभिः ॥
+
+##### Gist of the bhāṣya
+
+For this one, who is the chief and is praised with the stotra, the womb of the cloud, that is, the water that stands as its womb, moves; or Indra sets it moving. What kind is this one? The producer of great praises, the ancient one. The same is repeated: the cloud opens, and heaven brings about rain. The Aṅgirases, serving all around, दसयंत (*dasayaṃta*), bring themselves low exceedingly, that is, they wear themselves down by their rites.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महीनां (*mahīnāṃ*)—for the praises possessed of great qualities
+- जनुषे (*januṣe*)—for the producer
+- पूर्वार्याय (*pūrvāryāya*)—in the same manner as it came about for the seer of today
+- उक्ताय (*uktāya*)—for the praiser
+- अस्मै (*asmai*)—for my **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 488. pp. 483-488: Ṛk 10-14
+**Progress note:** Done through printed p. 494. pp. 489-494: Ṛk 14-15 end of sūkta 44, sūkta 45 Ṛk 1-3
