@@ -8607,6 +8607,279 @@ You, Indra, (abiding on the further bank), have rendered the fert liziag**NOTE**
 > निः षी॑म॒द्भ्यो धम॑थो॒ निः ष॒धस्था॑न्म॒घोनो॑ हृ॒दो  ॒॑॑
 > वरथस्तमांसि ॥ ९ ॥
 
+### Printed p. 221
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राकुत्सा । वहमाना । रथेन । आ । वां । अत्याः । अपि । कर्णे । वहंतु ।  
+> निः । सीं । आर्भ्यः । धमथः । निः । सधस्थात् । मघोनः । हृदः । वरथः । तमांसि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राकुत्सेंद्राकुत्सौ रथेन वहमाना वहमानापुह्यमानौ वां
+> युवामत्या अश्वाः कर्णेऽपि । स्तोत्राणि कृणोति करोतीति कर्णः स्तोता यजमानो वा । तत्समीपेऽपीति यावत् । आ वहंतु । आ समंताद्वाहका भवंतु ।
+> युवामप्यद्योऽप्पु प्रविष्टं सीमेनं शुष्णासुरं निर्धमथः । अबाधेथां ।
+> सीमति शुष्णासुरो बुद्धिस्थः परामृश्यते । सधस्थात्स्वकीयात्स्थानानिन्निरबाधेथां ।
+> मघोनो मघवतो हविष्मतो यजमानस्य हृदो हृदयात्तमांस्यज्ञानरूपाणि पापानि वरथः । निवारयथः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra and Kutsa, carried by your chariot, may your horses (अत्या (*atyā*)) bring you कर्णे (*karṇe*), that is, to the praiser or sacrificer, since one who makes (the) hymns is a karṇa; that is, to his vicinity: may they be carriers from all sides. You two also drove out this Śuṣṇa, the asura who had entered the waters; you repelled him. The word सीं (*sīṃ*) refers to Śuṣṇa as present in the mind. From his own place you two drove him away. From the heart of the sacrificer, who is wealthy (मघोनः (*maghonaḥ*)) and possessed of oblations, you two ward off, that is, keep away, the sins in the form of ignorance, called darknesses.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राकुत्सा (*iṃdrākutsā*)—O Indra and Kutsa
+- वां (*vāṃ*)—both of you
+- रथेन (*rathena*)—in the chariot
+- वहमाना (*vahamānā*)—carrying
+- अत्याः (*atyāḥ*)—the horses
+- कर्णे अपि (*karṇe api*)—to the sacrificer
+- आ वहंतु (*ā vahaṃtu*)—let them bring (you both also)
+- अव्यः (*avyaḥ*)—who was hiding in the water**NOTE**
+- सीं (*sīṃ*)—Śuṣṇa
+- निः धमथः (*niḥ dhamathaḥ*)—you have destroyed
+- सधस्थात् (*sadhasthāt*)—from his own place
+- निः (*niḥ*)—you made (him) move
+- मघोनः (*maghonaḥ*)—of the sacrificer, possessed of oblations
+- हृदः (*hṛdaḥ*)—from the heart
+- तमांसि (*tamāṃsi*)—the darkness in the form of ignorance
+- वरथः (*varathaḥ*)—you have removed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Kutsa, may the horses that carry both of you in the chariot bring you to the sacrificer. You two also destroyed Śuṣṇa, who was hiding in the water, and made him move from his own place. You have removed the darkness in the form of ignorance from the heart of the sacrificer, who is possessed of oblations.
+
+##### English translation
+May your steeds bring you both, Indra and Kutsa, riding in one chariot, to the worshipper : you have expelled him (Sushna) from the waters, from his proper abode : you have driven the glooms (of ignorance) from the heart of the affluent (adorer).
+
+### Printed p. 222
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॑स्य यु॒क्तान्नु॒युज॑श्चि॒दश्वा॑न्क॒विश्चि॑दे॒षो अ॑जगन्नव॒स्युः ।  
+> विश्वे॑ ते॒ अत्र॑ म॒रुतः॒ सखा॑य॒ इंद्र॒ ब्रह्मा॑णि॒ तवि॑षीमवर्धन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातस्य । युक्तान् । सुयुजः । चित् । अश्वान् । कविः । चित् । एषः । अजगन् ।  
+> अवस्युः ।  
+> विश्वे । ते । अत्र । मरुतः । सखायः । इंद्र । ब्रह्माणि । तविषीं । अवर्धन् ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविश्चित्प्राज्ञोऽप्यवस्युरेतन्नामक एष मंत्रद्रष्टा वातस्य वायोर्वेगेन
+> युक्तान् संयुक्तान् सुयुजश्चित्सुष्टु योजनीयानश्वानजगन् । प्राप्नोत् ।
+> अवस्कोः सखायो विश्वे सर्वॆ मरुतो बहवः स्तोतारो हे इंद्र अत्रास्मिल्लोके ते त्वदीयां तविषीं बलं ब्रह्माणि ब्रह्मभिः स्तोत्रैरवर्धन् । अवर्धयन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: The wise (कविः (*kaviḥ*)) one, this seer of the mantra named Avasyu, obtained horses that were joined to the speed of the wind and were easy to yoke. Avasyu's friends, all the Maruts, that is, the many praisers, O Indra, in this world increased your strength (तविषीं (*taviṣīṃ*), power) with ब्रह्माणि (*brahmāṇi*), that is, with hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कविश्चित् (*kaviścit*)—the wise
+- एषः अवस्युः (*eṣaḥ avasyuḥ*)—this seer named Avasyu
+- वातस्य (*vātasya*)—by the speed of the wind
+- युक्तान् (*yuktān*)—endowed
+- सुयुजश्चित् (*suyujaścit*)—and easy to be yoked to the chariot
+- अश्वान् (*aśvān*)—horses
+- अजगन् (*ajagan*)—obtained
+- सखायः (*sakhāyaḥ*)—his friends
+- विश्वे मरुतः (*viśve marutaḥ*)—all the praisers
+- अत्र (*atra*)—in this world
+- ते (*te*)—your
+- तविषीं (*taviṣīṃ*)—strength
+- ब्रह्माणि (*brahmāṇi*)—with praises
+- अवर्धन् (*avardhan*)—caused to increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this wise seer named Avasyu obtained horses that are endowed with the speed of the wind and are easy to yoke to a chariot. All the praisers**NOTE**, his friends, have in this world caused your strength to increase with praises.
+
+##### English translation
+The sage Avasyu has obtained docile horses, endowed (with the speed) of the wind : all your adorers, Indra, in this world, your friends, augment your vigour by their praises.
+
+### Printed p. 223
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर॑श्चि॒द्रथं॒ परि॑तक्क्यायां॒ पूर्वं॑ कर॒दुप॑रं जूजु॒वांसं॑ ।  
+> भर॑च्च॒क्रमेत॑शः॒ सं रि॑णाति पु॒रो दध॑त्सनिष्यति॒ क्रतुं॑ नः ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूरः । चित् । रथं । परितक्म्यायां । पूर्वं । करत् । उपरं । जूजुवांसं ।  
+> भरत् । चक्रं । एतशः । सं । रिणाति । पुरः । दधत् । सनिष्यति । क्रतुं । नः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः परितक्म्यायां संग्रामे । परितो गच्छंत्यस्यां भय इति परितक्र्या
+> संग्रामः । एतशाख्येन ऋषिणा सह योद्दुः सूरश्चित्सूर्यस्यापि संबंधिनं जूजुवांसं वेगेन गच्छंतं रथमुपरमुपरतव्यापारं पूर्वं करत् । पुरोs करोत् ।
+> एतश एतशाय ॥ विभक्तिव्यत्ययः ॥ इंद्रः पूर्वं द्विचक्रस्य रथसैकं चक्रं भरत् ।
+> अहरत् । स इंद्रस्तेन चक्रेणासुरान् सं रिणाति । हिनस्ति । अपि च पुरो दधदस्मान्पुरस्कुवर्न् नोऽस्मदीयं क्रतुं यज्ञं सनिष्यति । संभजतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: परितक्म्यायां (*paritakmyāyāṃ*) means in battle: a battle is called paritakmyā because fear goes all around in it. Indra, fighting together with the seer named Etaśa, previously made the chariot of Sūra, that is, even of the sun, which was running at speed, उपरं (*uparaṃ*), that is, with its movement stopped. Etaśa stands for Etaśāya, by a change of case ending. Indra took away one wheel of the two-wheeled chariot. With that wheel Indra destroys the asuras. And, putting us in front, may he partake of our sacrifice (क्रतुं (*kratuṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परितक्कायां (*paritakkāyāṃ*)—in battle (Indra)
+- पूर्वं (*pūrvaṃ*)—formerly
+- सूरश्चित् (*sūraścit*)—although belonging to Sūra
+- जूजुवांसं (*jūjuvāṃsaṃ*)—which was moving swiftly
+- रथं (*rathaṃ*)—the chariot
+- उपरं (*uparaṃ*)—as one without movement
+- करत् (*karat*)—made
+- एतशः (*etaśaḥ*)—to help Etaśa
+- चक्रं (*cakraṃ*)—one wheel
+- भरत् (*bharat*)—took away
+- सं रिणाति (*saṃ riṇāti*)—(with that wheel) he injures and destroys (the asuras)
+- पुरोदधत् (*purodadhat*)—placing (us) in front
+- नः (*naḥ*)—our
+- क्रतुं (*kratuṃ*)—sacrifice
+- सनिष्यति (*saniṣyati*)—may he partake of
+
+##### भावार्थ (Bhāvārtha)
+
+Formerly, in battle, Indra made the swiftly moving chariot, even though it belonged to Sūra, motionless. And he took away one of the wheels of that chariot and helped Etaśa. With that same wheel he injured all the asuras, and he injures the rest too. May that Indra, placing us in front, partake of our sacrifice.
+
+### Printed p. 224
+
+##### English translation
+He, (Indra), has foimerly arrested in battle the rapid chariot of the sun : Etasa has borne away the wheel, and ( with it Indra ) demolishes ( his foes ) : may he, giving us precedence, be propitiated by our rite.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आयं ज॑ना अभि॒चक्षे॑ जगा॒मेंद्रः॒ सखा॑यं सु॒तसो॑ममि॒च्छन् ।  
+> वद॒न्नावान॒ वेदिं॑ भ्रियाते॒ यस्य॑ जी॒रम॑ध्व॒र्यव॒श्चरं॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अयं । जनाः । अभिचक्षे । जगाम । इंद्रः । सखायं । सुतसोमं । इच्छन् ।  
+> वदन् । ग्रावा । अव । वेदिं । भ्रियाते । यस्य । जीरं । अध्वर्यवः । चरंति ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जना अभिचक्षे युष्मानभिद्रष्टुमयमिंद्रः सखायं स्तोतारं सुतसोममभिषुतसोमं यजमानमिच्छन्नभिलषन्ना जगाम । आगच्छति । अध्वर्यवो
+> यस्य ग्राव्णो जीरं क्षेपणं प्रेरणं चरंति स ग्रावा सोमाभिषवपाषाणो वदन्
+> शब्दं कुर्वन् वेदिमव भ्रियाते । अभिह्रियते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O people, this Indra has come, desiring to look upon you, desiring his friend, the praiser, the sacrificer who has pressed the Soma. The pressing-stone of which the adhvaryus perform the जीरं (*jīraṃ*), that is, the throwing, the impelling, that stone, the Soma-pressing stone, making a sound, is brought to the altar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनाः (*janāḥ*)—O people
+- अभिचक्षे (*abhicakṣe*)—in order to look upon you with favour
+- अयं इंद्रः (*ayaṃ iṃdraḥ*)—this Indra
+- सखायं (*sakhāyaṃ*)—his friend
+- सुतसोमं (*sutasomaṃ*)—the sacrificer who has pressed the Soma
+- इच्छन् (*icchan*)—desiring
+- आ जगाम (*ā jagāma*)—has come
+- यस्य (*yasya*)—of which pressing-stone
+- जीरं (*jīraṃ*)—the movement for grinding
+- अध्वर्यवः (*adhvaryavaḥ*)—the adhvaryus
+- चरंति (*caraṃti*)—perform (they make the Soma be ground)
+- ग्रावा (*grāvā*)—that stone
+- वदन् (*vadan*)—making a sound
+- वेदिं (*vediṃ*)—the sacrificial altar
+- अव भ्रियाते (*ava bhriyāte*)—let it create and make ready**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O people, this Indra has come, desiring the sacrificer who is his friend and has pressed the Soma, in order to look upon you with favour. The movement of which pressing-stone for grinding the adhvaryus perform
+
+### Printed p. 225
+
+, that is, which they make grind the Soma, let that stone (the pressing-stone), making a sound, create and make ready the sacrificial altar.
+
+##### English translation
+Indra, oh people, has come to see you, wishing to behold his friend the offerer of the libation : let the creaking stones, for whose rotation the priests hasten, supply the altar.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चा॒कनं॑त चा॒कनं॑त॒ नू ते मर्ता॑ अमृत॒ मो ते अंह॒  ॑
+> आरन् ।  
+> वा॒वं॒धि यज्यो॑रु॒त तेषु॑ धे॒ज्योजो॒ जने॑षु॒ येषु॑ ते॒  ॑
+> स्याम ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । चाकनंत । चाकनंत । नु । ते । मर्ताः । अमृत । मो इति । ते । अंधः । आ ।  
+> अरन् ।  
+> ववंधि । यज्यून् । उत । तेषु । धेहि । ओजः । जनेषु । येषु । ते । स्याम ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धनार्थं ये जनास्त्वां चाकनंत अकामयंत पुनश्च ते नु
+> क्षिप्रमेव त्वां चाकनंत हे अमृत अमरणशीलेंद्र मर्ता मरणधर्माणस्ते जना
+> अंहोऽनर्थं मो आरन् । मा गमन् ॥ मा उ इति निपातसमुदायो मेत्येकनिपातार्थे वर्तते ॥ उतापि च यज्यून्यजमानान्ववंधि । संभजस्व । येषु जनेषु
+> येषां जनानां मध्यॆ वयं स्तोतारस्ते त्वदीयाः स्याम भवाम हे इंद्र त्वं
+> तेषु जनेष्वोजो बलं धेहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, those people who, for the sake of wealth, desire you (चाकनंत (*cākanaṃta*)), and who again desire you quickly, O immortal Indra, those mortals, men subject to death, may they not go to harm (अंहोऽनर्थं (*aṃho 'narthaṃ*)). Moreover, favour the sacrificers (यज्यून् (*yajyūn*)). Among whichever people we, your praisers, may be yours, O Indra, place strength (ओजः (*ojaḥ*)) in those people.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those men who
+- चाकनंत (*cākanaṃta*)—desire you
+- ते नु (*te nu*)—those very ones
+- चाकनंत (*cākanaṃta*)—desire (again and again, for help)
+- अमृत (*amṛta*)—immortal
+
+### Printed p. 226
+
+- O Indra (continuing अमृत (*amṛta*))
+- ते मर्ताः (*te martāḥ*)—those same men
+- अहः (*ahaḥ*)—sin
+- मो आरन् (*mo āran*)—let them not follow
+- उत (*uta*)—and
+- यज्यून् (*yajyūn*)—the sacrificers who perform the sacrifice
+- ववंधि (*vavaṃdhi*)—serve
+- येषु जनेषु (*yeṣu janeṣu*)—all those praisers who are among your devotees
+- ते स्याम (*te syāma*)—make us be yours
+- तेषु जनेषु (*teṣu janeṣu*)—in those people
+- ओजः (*ojaḥ*)—strength
+- धेहि (*dhehi*)—place
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those men who desire you once, they desire you again and again. O immortal Indra, let men not commit sinful acts. Serve the sacrificers. Make all those praisers who are among your devotees be yours. Fill those people with strength.
+
+##### English translation
+Immortal (Indra), let not the mortals who are wishing, anxiously wishing for you, fall into sin : be indeed pleased with the sacrificers, and grant vigour to those men amongst whom may we be (especially) yours.
+
+## Sūkta 32 (Maṇḍala 5)
+
+The thirty-second sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदर्दरुत्समिति द्वादशर्चमष्टादशं सूक्तं । गातुर्नामात्रेय ऋषिः ।
+> त्रिष्टुप् छंदः । इंद्रो देवता । तथा चानुक्रांतं । अदर्दर्द्वादश गातुरिति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अदर्दरुत्सं (*adardarutsaṃ*) has twelve Ṛks and is the eighteenth sūkta. Gātu Ātreya is the seer; the metre is Triṣṭubh; the deity is Indra. So the Anukramaṇikā says: अदर्दर्द्वादश गातुरिति (*adardardvādaśa gāturiti*). The use in ritual has been stated.
+
+Translation: This sūkta, अदर्दरुत्सं (*adardarutsaṃ*), is the eighteenth sūkta in the second Anuvāka. It contains twelve Ṛks. The seer of this sūkta is Gātu Ātreya; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said: अदर्दर्द्वादश गातुः (*adardardvādaśa gātuḥ*). The use in ritual has been stated earlier.
+
 ---
 
-**Progress note:** Done through printed p. 220. Ṛk 4 bhāṣya to Ṛk 9 saṃhitā, pp. 215-220
+**Progress note:** Done through printed p. 226. Ṛk 9 pada to Sūkta 32 introduction, pp. 221-226
