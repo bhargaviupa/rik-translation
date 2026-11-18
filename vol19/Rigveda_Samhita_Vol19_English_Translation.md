@@ -9859,6 +9859,327 @@ You, Indra, medit ting upon us, fasten the traces of yours horses, (incited), sh
 > न । ते। ते । इंद्र । अभि । अस्मत् । ऋष्ट । अयुक्तासः । अब्रह्मता । यत् । असन् !  
 > तिष्ठ । रथं । अधि । तं । वज्रहस्त । आ । रश्मिं । देव । यमसे । सुअश्वः ॥ ३ ॥
 
+### Printed p. 253
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋष्ट महन्निंद्र यत् येऽस्थदस्तत्तस्त्वद्भक्तेभ्योऽन्येऽयुक्तासस्त्वयासंयुक्ता आसन् आसन् अभवन् अब्रह्मता । ब्रह्म परिवृढं कर्म ! तद्रहितत्वात् ते
+> नरास्ते त्वदीया न भवंति । अतोऽस्थद्यज्ञमभ्यागंतुं तं प्रसिद्धं रथमधि तिष्ठ ।
+> हे वज्रहस्तेंद्र देव स्वश्वस्त्वं युं रथमारोढुं रश्मिं प्रग्रहमा यमसे नियमयिसि तमधि तिष्ठ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O mighty Indra, those others, different from your devotees, who are not joined with you are without *brahma* (अब्रह्मता (*abrahmatā*)). *Brahma* is the encompassing rite; being devoid of it, those men are not yours. Therefore, in order to come to our sacrifice, ascend that well-known chariot. O thunderbolt-handed Indra, divine one, well-horsed as you are, ascend the chariot whose rein you hold in check, in order to mount it.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋष्ट (*ṛṣṭa*)—O one of mighty form
+- इंद्र (*iṃdra*)—O Indra
+- अस्मत् (*asmat*)—those who are different from us
+- आयुक्ता सः (*āyuktā saḥ*)—and have no devotion to you
+- यत् असन् (*yat asan*)—whoever they are
+- अब्रह्मणा (*abrahmaṇā*)—because they do not follow the Vedic path
+- ते (*te*)—belonging to you
+- न (*na*)—they do not become (therefore)
+- वज्रहस्त (*vajrahasta*)—holder of the thunderbolt
+- देव (*deva*)—divine Indra
+- स्वश्वः (*svaśvaḥ*)—provided with excellent horses
+- रश्मिं (*raśmiṃ*)—(of whichever chariot) the rein
+- आ यमसेकैयल्लि (*ā yamasekaiyalli*)—you hold in your hand
+- तं रथं (*taṃ rathaṃ*)—that same chariot
+- अभि (*abhi*)—in order to come (to our sacrifice)
+- अधि तिष्ठ (*adhi tiṣṭha*)—ascend and be seated
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of mighty form, those who are different from us and have no devotion to you, whoever they are, do not belong to you, because they do not follow the Vedic path. Therefore, O Indra, holder of the thunderbolt and divine one, ascend that same chariot, to which you have yoked excellent horses and whose rein you hold in your hand, in order to come to our sacrifice.
+
+##### English translation
+Since, mighty Indra, those who, dffering from us, and not united with you through their lack of devotion, are not yours ; therefore, divine holder of the thunderbolt, you are possessed of excellent horses, ascend the car, whose reins you guide, (to come to our sacrifice).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रू यत्त॑ इंद्र॒ संत्यु॒क्था गवे॑ च॒कर्थो॒र्वरा॑सु॒ युध्य॑न् ।  
+> त॒त॒क्षे सूर्या॑य चि॒दोक॑सि॒ स्वे वृषा॑ स॒मत्सु॑ दा॒सस्य॒ नाम॑  
+> चित् ॥ ४ ॥
+
+### Printed p. 254
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरु । यत् । ते । इंद्र । संति । उक्ता । गवे । चकर्थ । उर्वरासु । युध्यन् ।  
+> तत्तक्षे । सूर्याय । चित् । ओकसि । स्वे । वृषा । समत्सु । दासस्य । नाम । चित् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव यद्यदा स्वभूतानि पुरु पुरूणि बहून्युक्कोक्कानि शस्त्राणि
+> संति तदोर्वरासु सस्योपेतासु भूमिषु निमित्तभूतासु गवे वृष्टुदकाय
+> युध्यन् जलप्रतिबंधकान् संहरन् चकर्थ । करोषि भेदनं । कुत्रेति । सूर्याय
+> सूर्यस्य स्वे स्वकीय ओकसि स्थाने । वृषा वर्षिता सन् ततक्षे । संपादयसि ।
+> समत्सु संग्रामेषु दासस्य वृष्टि प्रतिबंधकर्तुरेतन्नामकस्यासुरस्य नाम चिन्नामापि ततक्षे । नाशयसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, when your own many (पुरु (*puru*)) praises and recitations, that is, *śastras*, exist, then, fighting for the sake of rain-water (गवे (*gave*)) on fertile lands as the occasion, destroying those who obstruct the waters, you bring about the cleaving open (of the clouds). Where? In the sun's own dwelling-place, the place that is his own. Being the showerer, you accomplish it. In battles you destroy even the name of the Asura called Dāsa, the obstructor of rain; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—for which reason
+- पुरू (*purū*)—very numerous
+- उक्ता (*uktā*)—all the praises that take the form of *śastras*
+- ते (*te*)—addressed to you alone
+- संति (*saṃti*)—have become (for that reason)
+- उर्वरासु (*urvarāsu*)—upon the earth full of plants
+- गवे (*gave*)—in order to pour down rain
+- युध्यन् (*yudhyan*)—fighting (with the enemies who obstruct the rain)
+- चकर्थ (*cakartha*)—you have brought about (their destruction)
+- वृषा (*vṛṣā*)—you, the one who pours down rain
+- समत्सु (*samatsu*)—when battle comes
+- सूराय (*sūrāya*)—of the sun
+- स्वी ओकसिचित् (*svī okasicit*)—in his own home (in the atmosphere itself)
+- दासस्य (*dāsasya*)—of the Asura
+- नामचित् (*nāmacit*)—the very name
+- ततक्षे (*tatakṣe*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praises in the form of *śastras* have been composed in very great numbers and offered to you. All of them are addressed to you alone. For that reason, in order to pour down rain upon the earth full of plants, you have fought with the enemies who obstruct the rain and brought about their destruction. You, the sprinkler of rain, when battle came, destroyed the very name of the Asura in the atmosphere itself, which is the sun's own heaven.
+
+##### English translation
+Inasmuch, Indra, as many praises are yours, therefore, combating for the sake of (shedding) waters on fertile (lands), you have effected , the discomfiture of its obstructors); you, who are the showerer (of benefits , have on behalf of the sun, destroyed in his own dwelling, the very name of , the Asura, Dasa, in battle.
+
+### Printed p. 255
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते त॑ इंद्र॒ ये च॒ नरः॒ शर्धो॑ जज्ञा॒ना या॒ताश्च॒  ॑
+> रथाः ।  
+> आस्माज्ज॑गम्यादहिशुष्म॒ सत्वा॒ भगो॒ न हव्यः॑ प्रभृ॒थेषु॒ चारुः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । ते । इंद्र । ये । च । नरः । शर्धः । जज्ञानाः । याताः । च । रथाः ।  
+> आ । अस्मान् । जगम्यात् । अहिशुष्म । सत्वा । भगः । न । हव्यः । प्रभृथेषु । चारुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ये च नरः कर्मणां नेतार ऋत्विग्यजमाना वयं स्मः ते वयं
+> ते त्वदीयाः । किदृशा वयं । शर्धो बलं जज्ञाना उत्पादयंतः स्तुतिभिर्याताश्च होतुं त्वां प्राप्ताश्च रथा रंहणशीलाश्च । किंच हे अहिशुष्म । अहिरयनात् ।
+> सर्वतो व्याप्तबलेंद्र त्वदनुग्रहाद्दव्यः स्तुत्यः प्रतिभटैराह्वातव्यो ना चारुः
+> संगंता सत्वा भृत्यादिः प्रभृथेषु संग्रामेषु यज्ञेषु वास्माना जगम्यात् ।
+> अगच्छेत् । भगो न भग इव हव्यश्चारुः । भगदेवो यथास्मत्सहाय आगच्छति तथा
+> भृत्यादिरागच्छेदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, we who are the leaders of rites, the priests and the sacrificers, are yours. What are we like? We produce strength (शर्धो (*śardho*) means *bala*) by our praises, we have come to you in order to offer the oblation, and we are swift. Further, O Ahiśuṣma, Indra of all-pervading strength, by your favour let a follower, an attendant and the like (सत्वा (*satvā*)), who is praiseworthy, to be called upon by those who face the adversaries, and agreeable, a companion, come to us in the battles or in the sacrifices (प्रभृथेषु (*prabhṛtheṣu*)). Like Bhaga: as the god Bhaga comes as our helper, so may the attendant and the rest come; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—O Indra
+- शर्धः (*śardhaḥ*)—(your) strength
+- जज्ञानाः (*jajñānāḥ*)—those who increase it (by our praises)
+- याताश्च (*yātāśca*)—those who approach you
+- रथाः (*rathāḥ*)—those who move swiftly to gain your presence
+- ये वयं (*ye vayaṃ*)—we who
+- नरः (*naraḥ*)—are the leaders of all rites
+- ते (*te*)—such as we are
+- ते (*te*)—are yours alone
+- अहिशुष्म (*ahiśuṣma*)—O Indra, drier up of enemies
+- हव्यः (*havyaḥ*)—one of praiseworthy valour
+- चारुः (*cāruḥ*)—and trusted
+- सत्वा (*satvā*)—follower
+- प्रभृथेषु (*prabhṛtheṣu*)—in battles
+- भगो न (*bhago na*)—like Bhaga, as a helper
+- आस्मान् (*āsmān*)—to our side
+- आ जगम्यात् (*ā jagamyāt*)—may he come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who increase your strength by our praises, who approach you alone, who strive only for the joy of your presence, and who are the leaders of all rites, such as we are, are indeed yours.
+
+### Printed p. 256
+
+O Indra, drier up of enemies, may a follower of praiseworthy valour and trusted, like Bhaga as a helper, come to our help in battles.
+
+##### English translation
+We, Indra, are yours, and yours are they who are the leaders ( of rites), promoters of (your), strength, and willing applicants (to you) : all-powerful Indra, may adherents worthy of commendation, and faithful, come to us, like Bhaga, in battles.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒पृ॒क्षेण्य॑मिंद्र॒ त्वे ह्योजो॑ नृ॒म्मानि॑ च नृ॒तमा॑नो॒  ॑
+> अमर्तः ।  
+> स न॒ एनीं॑ वसवानो र॒यिं दाः॒ प्रार्यः स्तु॑षे तुविम॒घस्य॒दानं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पपृक्षेण्यं । इंद्र । त्वे इति । हि । ओजः । नृम्मानि । च । नृतमानः । अमर्तः ।  
+> सः । नः । एनीं । वसवानः । रयिं । दाः । प्र । अर्यः । स्तुषे । तुविमघस्य ।  
+> दानं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पपृक्षेण्यं संपर्कार्हं पूज्यं वौजो बलं त्वे हि त्वयि खलु ।
+> त्वदधीनमित्यर्थः । नृतमानो नृत्यन् अमर्तोऽमरणधर्मा स त्वं वसवान
+> आच्छादयन् स्वतेजसा जगत् नृम्मानि नृमणानि द्रविणानि । वक्षमाणरय्यपेक्षया
+> चशब्दः । एनीमेनवर्णां श्वेतवर्णां रयिं धनं दाः । देहि । अहं च अर्य
+> ईश्वरस्य तुविमघस्य प्रभूतधनस्य च दानं प्र स्तुषे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, your strength (वौजो (*vaujo*)) is worthy of association and to be revered; it rests in you, that is, it depends on you. You, dancing, immortal, subject to no death, covering the world with your own splendour, give wealth (नृम्मानि (*nṛmmāni*) means riches); the word *ca* has regard to the wealth that is to be mentioned. Give the wealth that is tawny, that is, white in colour. And I praise the gift of the lord, the possessor of abundant wealth; that is the meaning.
+
+### Printed p. 257
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वे हि (*tve hi*)—residing in you
+- ओजः (*ojaḥ*)—strength
+- पपृक्षेण्यं (*papṛkṣeṇyaṃ*)—is exceedingly praiseworthy and radiant
+- नृतमानः (*nṛtamānaḥ*)—full of joy
+- अमर्तः (*amartaḥ*)—free from the nature of death
+- सः (*saḥ*)—you
+- वसवानः (*vasavānaḥ*)—covering the whole world with your splendour
+- नृम्मानि (*nṛmmāni*)—riches
+- एनीं (*enīṃ*)—shining
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- दाः (*dāḥ*)—give (I also)
+- अर्यः (*aryaḥ*)—the lord
+- तुविमघस्य (*tuvimaghasya*)—of you who possess abundant wealth
+- दानं (*dānaṃ*)—the gift
+- प्र स्तुषे (*pra stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the strength that resides in you is exceedingly praiseworthy and radiant. You, who are full of joy and free from the nature of death, covering the whole world with your splendour, give us riches and shining wealth. I also praise the gift of you who are the lord and possess abundant wealth.
+
+##### English translation
+Glorious, Indra, is your strength, exulting, immortal, and clothing (the world with light) : give us riches, and brilliant wealth, and I will greatly praise the munificence of the opulent lord.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा न॑ इंद्रो॒तिभि॑रव पा॒हि गृ॑ण॒तः शू॑र का॒रून् ।  
+> उ॒त त्वचं॒ दद॑तो॒ पाज॑सात् पिप्री॒हि मध्वः॒ सुषु॑तस्य॒  ॑
+> चारो ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । इंद्र । ऊतिभिः । अव । पाहि । गृणतः । शूर । कारून् ।  
+> उत । त्वच । ददतः । वाजसात् । पिप्रीहि । मध्वः । सुसुतस्य । चारोः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र एवैवं नोऽस्मान् गृणतः स्तुवतः कारून् कर्त्र्हनृत्वज
+> ऊतिभी रक्षणैरव । पालय । उतापि च वाजसात् संग्रामे त्वचमाच्छादकं रूपं
+
+### Printed p. 258
+
+> ददतः प्रयच्छतः सुषुतस्य सुष्त्वभिषुतस्य चारोर्मनोहरस्य मध्वः सोमस्य
+> पिप्रीहि । प्रीणयात्मानं । द्वितीयार्थेषष्ठी । उक्तलक्षणं सोमं पिबेत्यर्थः
+> अथवा तृतीयार्थे षष्ठी । उक्तलक्षणेन सोमपानेन प्रीणय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O heroic Indra, in this very way protect us, who praise you, the performers of rites and priests, with your protections. And further, in battle (वाजसात् (*vājasāt*)) take the covering form that envelops. Satisfy yourself, give delight to yourself, with the sweet Soma, well pressed and charming. The genitive here stands for the accusative: the meaning is "drink the Soma of the kind described". Or else the genitive stands for the instrumental: delight yourself with the drinking of the Soma of the kind described.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- इंद्र (*iṃdra*)—O Indra
+- एव (*eva*)—in one and the same way
+- गृणतः (*gṛṇataḥ*)—who praise you
+- कारून् (*kārūn*)—and perform rites (or praises)
+- नः (*naḥ*)—us
+- ऊतिभिः (*ūtibhiḥ*)—with your protections
+- अव पाहि (*ava pāhi*)—protect
+- उत (*uta*)—and
+- वाजसात् (*vājasāt*)—in battle
+- त्वचं (*tvacaṃ*)—the form
+- ददतः (*dadataḥ*)—that produces (for you a form that is a covering)
+- सुषुतस्य (*suṣutasya*)—that is pressed out excellently
+- चारोः (*cāroḥ*)—and charming
+- मध्वः (*madhvaḥ*)—of Soma (by drinking)
+- पिप्रीहि (*piprīhi*)—become satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, protect us, who praise you in one and the same way and who carry out the rites, with your protections. And in battle become satisfied by drinking the Soma, which produces for you a covering form, which is excellently pressed out and charming.
+
+##### English translation
+Hero, Indra, with your protection defend us, praising and worshipping (you', and be propitiated (by drinking) of the well-effused and agree able Soma juice that yields 'a defensive) covering in combat.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्ये मा॑ पौरुकु॒त्स्यस्य॑ सू॒रेस्त्र॒सद॑स्योर्हिर॒णिनो॒ ररा॑णाः ।  
+> वहं॑तु मा॒ दश॒ श्येता॑सो अस्य गैरिक्षि॒तस्य॒ क्रतु॑भि॒र्नु स॑श्चे ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्ये । मा । पौरुकुत्स्यस्य । सूरेः । त्रसदस्कोः । हिरणिनः । रराणाः ।  
+> वहंतु । मा । दश । श्येतासः । अस्य । गैरिक्षितस्य । क्रतुभिः । नु । सश्चे ॥ ८ ॥
+
+### Printed p. 259
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रसदस्युश्च विदधो ध्वन्यश्चेति त्रयो नृपाः । अश्वान्थनानि गाश्चादुर्यषये
+> तद्वदत्यषिः ॥ उतापि च तै ते मा । चतुर्थ्यर्थे द्वितीया । मह्यमित्यर्थः। रराणाः
+> रातेर्दानार्थस्य कर्मणि लिटः कानचि रूपं ॥ दत्ता इत्यर्थः । पौरुकुत्स्यस्य पुरुकुत्सापत्यस्य सूरेः प्रेरकस्य हिरणिनो हिरण्यवतोऽस्य त्रसदस्कोरेतन्नामकस्य
+> राजर्षेगैरिक्षितस्य गिरिक्षितगोत्रोत्पन्नस्य श्वेतासः शुभ्रवर्णा दशाश्वा मा मां
+> वहंतु । प्रापयंतु । अहु च क्रतुभिः कर्मभी रथनियोजनादिभिर्यज्ञादिभिर्वा
+> नु क्षिप्रं सष्टे । गच्छेयं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "Trasadasyu, Vidadha and Dhvanya, these three kings gave horses, wealth and cows to the seer; so the seer says." Further, त्ये (*tye*) means "those", and मा (*mā*) is the accusative in the sense of the dative: to me. रराणाः (*rarāṇāḥ*) means given. May the ten white, bright-coloured horses of this Trasadasyu, the royal seer sprung from the line of Girikṣita, son of Purukutsa, the impeller, possessed of gold, carry me, bring me (to the sacrifice). And with rites, that is, with the harnessing of the chariot and the like, or with sacrifices and the like, may I go quickly; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मा (*mā*)—to me
+- रराणः (*rarāṇaḥ*)—given
+- गैरिक्षितस्य (*gairikṣitasya*)—sprung from the lineage of Girikṣita
+- पौरुकुत्सस्य (*paurukutsasya*)—son of Purukutsa
+- सूरेः (*sūreḥ*)—composer of praises
+- हिरणिनः (*hiraṇinaḥ*)—and wealthy
+- अस्य त्रसदस्कोः (*asya trasadaskoḥ*)—belonging to this Trasadasyu
+- श्येतासः (*śyetāsaḥ*)—of white colour
+- त्ये दश (*tye daśa*)—these ten horses
+- मा (*mā*)—me
+- वहंतु (*vahaṃtu*)—may they carry (to the place of sacrifice)
+- क्रतुभिः (*kratubhiḥ*)—with the rites
+- नु (*nu*)—quickly
+- सश्चे (*saśce*)—may they bring me together
+
+##### भावार्थ (Bhāvārtha)
+
+May these ten horses of white colour, belonging to Trasadasyu, sprung from the lineage of Girikṣita, son of Purukutsa, composer of praises and wealthy, carry me to the place of sacrifice. And may they bring us quickly together with the rites.
+
+##### English translation
+May those ten bright horses, the gift to me of the pious gold-possessing Trasadasyu, the son of Purukutsa, of the race of Girikshita, convey me (to the sacrifice), and may I proceed quickly with the rites
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वे मा॑ मारु॒ताश्व॑स्य॒ शोणाः॒ क्रत्वा॑मघासो वि॒दथ॑स्य  ॒
+> रात् ।  
+> स॒हस्रा॑ मे॒ च्यव॑तानो॒ ददा॑न आनू॒कम॒र्यो वपु॑षे॒  ॑
+> नार्चत् ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 252. Vol 19 pp. 247-252: Pīṭhike end, Sūkta 33 Ṛk 1-3 (Saṃhitā, Pada)
+**Progress note:** Done through printed p. 259. Ṛk 3 bhāṣya to Ṛk 9 saṃhitā (pp. 253-259)
