@@ -1833,6 +1833,254 @@ Divine sons of Aditi, Mitra, Varuna, Aryaman, verily you are posessed at the pre
 > आ । यत् । योनिं । हिरण्ययं । वरुण । मित्र । सदथः ।  
 > धर्तारा । चर्षणीनां । यंतं । सुम्नं । रिशादसा ॥ २ ॥
 
+### Printed p. 51
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यस्माद्धिरण्ययं हितरमणीयं योनिं यज्ञभूमिं हे वरुण हे मित्र
+> आ सदथः आगच्छथः तस्माच्चर्षणीनां मनुष्याणां धर्तारा धारकौ च हे रिशादसा
+> हिंसकानां क्षेप्तारौ युवामस्मभ्यं सुम्मं सुखं यंतं । कुरुतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Since, O Varuṇa and O Mitra, you two come to the most delightful sacrificial ground, therefore you, who are supporters of men and hurlers away of the harmful, bring us happiness; that is, you grant it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- यत् (*yat*)—when
+- हिरण्ययं (*hiraṇyayaṃ*)—pleasing and attractive
+- योनिं (*yoniṃ*)—to the place of sacrifice
+- आ सदथः (*ā sadathaḥ*)—you come (then)
+- चर्षणीनां (*carṣaṇīnāṃ*)—of men
+- धर्तारा (*dhartārā*)—supporters
+- रिशादसा (*riśādasā*)—destroyers of foes
+- सुम्मं (*summaṃ*)—happiness
+- यंतं (*yaṃtaṃ*)—you bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, when you come to the pleasing and attractive place of sacrifice, then you, who are supporters of men and destroyers of foes, bring happiness to all of us.
+
+##### English translation
+When you come, Varuna and Mitra, to the delightful place of sacrifice, then, supporters of men, destroyers of foes, you bring felicity.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॒ हि वि॒श्ववे॑दसो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> व्र॒ता प॒देव॑ सच्चिरे॒ पांति॒ मर्त्यं॑ रि॒षः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । हि । विश्ववेदसः । वरुणः । मित्रः । अर्यमा ।  
+> व्रता । पदाइव । सश्चिरे । पांति । मर्त्यं । रिषः ॥ ३ ॥
+
+### Printed p. 52
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे हि सर्वॆऽपि । हीति चार्थे । विश्ववेदसः सर्वविदः सर्वधना वा वरुणो
+> मित्रोऽर्यमा चैते त्रयः सर्वे व्रतास्मदीयानि कर्माणि पदेव पदानीव
+> स्थानानीव सश्चिरे । संगता भवंति । आगत्य च मां मर्त्यं रिषो हिंसकात्पांति । रक्षंति ॥
+
+##### Gist of the bhāṣya
+
+All of them, "hi" being here in the sense of "and": the omniscient or all-wealthy Varuṇa, Mitra and Aryaman, these three, all of them, join together at our rites as if at their own places. Having come, they protect me, a mortal, from the harmful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—the omniscient
+- वरुणः मित्रः अर‍्यमा च (*varuṇaḥ mitraḥ aryamā ca*)—known as Varuṇa, Mitra and Aryaman
+- विश्वे हि (*viśve hi*)—all the deities also
+- व्रता (*vratā*)—our places of rites
+- पदा इव (*padā iva*)—regarding them as if they were their own places
+- सच्चिरे (*saccire*)—they gather together
+- मर्त्यं (*martyaṃ*)—the man who is the sacrificer
+- रिषः (*riṣaḥ*)—from the harmful one
+- पांति (*pāṃti*)—they protect
+
+##### भावार्थ (Bhāvārtha)
+
+All the deities, the omniscient ones known as Varuṇa, Mitra and Aryaman, regard our place of sacrifice as if it were their own place, come and gather together, and protect the man who is the sacrificer from the harmful one.
+
+##### English translation
+Mitra, Varuna, Aryaman, who are possessed of omniscience, are all associated at our rites, as if in (their respective) stations, and protect the worshipper from the malignant.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि स॒त्या ऋ॑त॒स्पृश॑ ऋ॒तावा॑नो॒ जने॑जने ।  
+> सु॒नी॒थासः॑ सु॒दान॑वो॒ऽंहोश्चि॑दुरु॒चक्र॑यः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । सत्याः । ऋत्स्पृशः । ऋत्वानः । जनेजने ।  
+> सुनीथासः । सुदानवः । अंधोः । चित् । उरुचक्रयः ॥ ४ ॥
+
+### Printed p. 53
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते हि खलु सत्याः सत्यभूताः सत्यफला वा ऋतस्पृश उदकस्पर्शत्वस्य कर्तार
+> ऋतावानो यज्ञवंतो जने जने सर्वॆषु यजमानेषु सुनीथासः सुनयनाः
+> सुदानवः सुदानाः । हीति प्रसिद्धवाची सर्वत्र संबंधनीयः । एवं महानुभावा
+> वरुणादयोऽ०होश्चित् । चिदप्यर्थे । पापिनोऽपि स्वस्तोतुरुरुचक्रयः प्रभूतधनादिकर्तारः ॥
+
+##### Gist of the bhāṣya
+
+They indeed are true, that is, of true being or of true fruit; ṛtaspṛśaḥ, the causers of contact with water; ṛtāvānaḥ, possessed of sacrifice; among each and every sacrificer they are good guides and good givers. The word "hi" signifies "well known" and is to be connected throughout. Such greatly powerful ones, Varuṇa and the others, are doers of abundant wealth and the like even for a sinner who is their praiser, "cit" being in the sense of "even".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते हि (*te hi*)—these very deities
+- सत्याः (*satyāḥ*)—being true in nature
+- ऋतस्पृशः (*ṛtaspṛśaḥ*)—being distributors of water
+- ऋतावानः (*ṛtāvānaḥ*)—being protectors of sacrifice
+- जने जने (*jane jane*)—to every human person
+- सुनीथासः (*sunīthāsaḥ*)—being excellent guides
+- सुदानवः (*sudānavaḥ*)—being excellent givers
+- अंहोश्चित् (*aṃhościt*)—even if he is a doer of sinful deeds (if he is a sacrificer)
+- उरुचक्रयः (*urucakrayaḥ*)—they are also those who raise him up and benefit him abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+These very deities, being true in nature, distributors of water, protectors of sacrifice, excellent guides and excellent givers to every human person, are also those who raise up and abundantly benefit even a doer of sinful deeds, if he is a sacrificer.
+
+##### English translation
+They verily are observers of truth, distributors of water, protectors of holy rites amongst men : guides in the right way, liberal donors : and bencfactors even of the sinner (who worships them).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को नु वां॑ मि॒त्रास्तु॑तो॒ वरु॑णो वा त॒नूनां॑ ।  
+> तत्सु वा॒मेष॑ते म॒तिरत्रि॑भ्य॒ एष॑ते म॒तिः ॥ ५ ॥
+
+### Printed p. 54
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । नु । वां । मित्र । अस्तुतः । वरुणः । वा । तनूनां ।  
+> तत् । सु । वां । आ । ईषते । मतिः । अत्रिभ्यः । आ । ईषते । मतिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्र वां युवयोर्मध्यॆ त्वं च वरुणो वा को नु अस्तुतः ।
+> सर्वैरस्तूयमानः कोऽस्ति । उभावपि स्तुत्यावित्यर्थः । तनूनामिति तृतीयार्थे
+> षष्ठी । तनुभिः स्तुतिभिरस्तुत इति संबंधः ॥ अत्र मित्रशब्देन मित्रस्यैकस्यैव संबोधनं
+> वरुणेळास्वंतः । ऋग्वे. ५-६२-६ । इत्यत्रेवात्र द्विवचनसूचकस्याकारस्यानाम्नानात् ।
+> लोकेषु बहुषु संनिहितेष्टेकमेव संबोध्य युवयोरिदं युष्माकविदमिति
+> प्रयुंजते ॥ तत्तस्मात् यस्मात्सर्वॆ स्तुवंति तस्मात् । तनूनामित्येतद्व्यवहितमप्युत्तरत्र वा योज्यं । तनूनामल्पमतीनामस्माकं मतिः स्तुतिर्वां युवां
+> सुष्टु एषते । अभिगच्छति । अत्रिभ्योऽत्रिगोत्रेभ्योऽस्मभ्यमस्मदीयमतिरेषते ।
+> आदरार्थं पुनर्वचनं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra, which of you two, you or Varuṇa, is not praised? Who is there who is not praised by all? The meaning is that both are to be praised. "Tanūnām" is a genitive in the sense of the instrumental: he is not praised by praises, this is the connection. Here by the word "mitra" Mitra alone is addressed, as in वरुणेळास्वंतः (*varuṇeḷāsvaṃtaḥ*) (Ṛgve. 5-62-6)**NOTE**, because the letter ā that indicates the dual is not read. In the world, when many are present, one only is addressed and "of you two", "of you" is used. Therefore, because all praise, "tanūnām", though separated, is to be connected with what follows: the praise of us, of little understanding, goes well to you two. The praise of us, of the Atri family, goes to you. The repetition is for the sake of respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—O Mitra
+- वां (*vāṃ*)—among you (whether you)
+- वा (*vā*)—or
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- कः (*kaḥ*)—who
+- तनूनां (*tanūnāṃ*)—by our praises
+- अस्तुतः (*astutaḥ*)—has not been praised
+- तत् (*tat*)—therefore
+- मतिः (*matiḥ*)—our praise
+- वां (*vāṃ*)—you
+- सु (*su*)—with devotion
+- एषते (*eṣate*)—approaches
+- अत्रिभ्यः (*atribhyaḥ*)—of us, born in the Atri family
+- मतिः (*matiḥ*)—the praise
+- एषते (*eṣate*)—certainly approaches you
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, among you, whether you or Varuṇa, who has not been praised by our praises? Therefore our praise approaches you with devotion. The praise of us, born in the Atri family, certainly approaches you.
+
+##### English translation
+Which of you, Mitra and varuna, has not been celebrated in (our) praise, for therefore do our thoughts tend towards you ? the thoughts of the race of Atri tend towards you.
+### Printed p. 55
+## Sūkta 68 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो मित्रायेति पंचर्चं द्वादशं सूक्तमात्रेयस्य यजतस्यार्षं
+> गायत्रं मैत्रावरुणं । तथा चानुक्रम्यते । प्र वो गायत्रमिति ॥ अग्निष्टोमे
+> प्रातःसवने मैत्रावरुणशस्त्र एतत्सूक्तं । सूत्रितं च । प्र वो मित्राय प्र मित्रयोर्वरुणयोः । आ. ५-१० । इति॥ अभिप्लवषडहे पृष्ठ षडहे च स्तोमनिमित्तावापार्थमिदमादीनि द्वितीयवर्जितानि चत्वारि सूक्तानि । तथैव सूत्रितं । प्र वो
+> मित्रायेति चतुर्णां द्वितीयमुद्धरेत् । आ. ७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "pra vo mitrāya", of five Ṛks, is the twelfth. Its seer is Yajata of the Atri family, its metre is Gāyatrī, and its deity is Mitra and Varuṇa; the Anukramaṇikā says so. In the Agniṣṭoma, at the morning pressing, this sūkta is used for the śastra of the Maitrāvaruṇa priest, and this is set out in the sūtra (Ā. Sū. 5-10). In the Abhiplava-ṣaḍaha and the Pṛṣṭha-ṣaḍaha, for the insertion of stomas, this sūkta and the next three, omitting the second, are used; so also the sūtra says (Ā. Sū. 7-5).
+
+##### Anuvāda
+
+This sūkta beginning "pra vo mitrāya" is the twelfth sūkta in the fifth anuvāka. It has five Ṛks. For this sūkta the seer is the one called Yajata Ātreya; the deity is Mitra and Varuṇa; the metre is Gāyatrī. In the Anukramaṇikā it is said: "pra vo gāyatram". In the Agniṣṭoma sacrifice, at the time of the morning pressing, this sūkta is applied to the śastra mantras recited by the priest called Maitrāvaruṇa, as set out by the Āśvalāyana Śrauta Sūtra (Ā. Sū. 5-10). And in the sacrifices called Abhiplava-ṣaḍaha and Pṛṣṭha-ṣaḍaha, for the stomāvāpa (for increasing the stoma), the application of the four sūktas beginning with this one, leaving out the second, is set out by the Āśvalāyana Śrauta Sūtra (Ā. Sū. 7-5).
+
+##### Particulars
+
+- Sūkta 68
+- Maṇḍala 5; Anuvāka 5; Sūkta 68
+- Aṣṭaka 4; Adhyāya 4; Varga 6
+- Number of Ṛks in the sūkta: 5
+- Seer: Yajata Ātreya
+- Deity: Mitra and Varuṇa
+- Metre: Gāyatrī
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ मि॒त्राय॑ गायत॒ वरु॑णाय वि॒पा गि॒रा ।  
+> महि॑क्षत्रावृ॒तं बृ॒हत् ॥ १ ॥
+
+### Printed p. 56
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । मित्राय । गायत । वरुणाय । विपा । गिरा ।  
+> महिक्षत्रौ । ऋतं । बृहत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीया ऋत्विजो वो । यूयमित्यर्थ्यः । मित्राय वरुणाय च विपा
+> व्याप्तया गिरा स्तुत्या प्र गायत । स्तुतिं कुरुत । स्तुत्या स्तुवतेत्येतत्पाकं
+> पचतीतिवत् । हे महिक्षत् प्रभूतबलौ युवामृतं यज्ञं बृहन्महदतिप्रशस्तं ।
+> स्तुत्यर्थवागच्छतमिति शेषः । अथवा महत् प्रभूतमृतं स्तोत्रं शृणुतमिति शेषः॥
+
+##### Gist of the bhāṣya
+
+O my priests, "vaḥ" means you: sing forth to Mitra and to Varuṇa with a pervading speech, that is, praise them (as in "he cooks a cooking": praising with praise). O you two of abundant strength, come to the great, exceedingly praised sacrifice (ṛta); "come for the sake of the praise" is to be supplied. Or else: "listen to the great, abundant praise (ṛta)" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests)
+- वः (*vaḥ*)—you
+- मित्राय (*mitrāya*)—Mitra
+- वरुणाय (*varuṇāya*)—and Varuṇa, addressing them
+- विपा (*vipā*)—with pervading
+- गिरा (*girā*)—praise
+- प्र गायत (*pra gāyata*)—praise and extol exceedingly
+- महिक्षत्रा (*mahikṣatrā*)—O Mitra and Varuṇa, of exceeding strength
+- बृहत् (*bṛhat*)—great
+- ऋतं (*ṛtaṃ*)—to the sacrifice (be pleased to come)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, address Mitra and Varuṇa and extol them exceedingly with pervading praise. O Mitra and Varuṇa, of exceeding strength, be pleased to come to the great sacrifice.
+
+##### English translation
+Sing loud with lusty praise to Mitra and to Varuna ; (come), mighty deities, to the great sacrifice.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राजा॒ या स्फु॒तियो॑नी मि॒त्रश्चो॒भा वरु॑णश्च ।  
+> दे॒वा दे॒वेषु॑ प्रश॒स्ता ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 50. Vol 20 pp. 45-50: MM 5.66 Rk 3-6, 5.67 Rk 1-2 start
+**Progress note:** Done through printed p. 56. Vol 20 pp. 51-56: MM 5.67 Rk 2-5, 5.68 Rk 1-2 start
