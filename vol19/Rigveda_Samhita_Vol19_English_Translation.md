@@ -15509,6 +15509,293 @@ O Bṛhaspati, the sacrificers who are united with your protections (तवो�
 - तेषु (*teṣu*)—among such
 - रायः (*rāyaḥ*)—let riches abound
 
+### Printed p. 416
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, the sacrificers who are united with your protections are unharmed by enemies, possessed of wealth and endowed with excellent sons and the like. Among all such as, having obtained the wealth of your favour, are givers of horses, givers of cows and givers of clothing, let riches abound.
+
+##### English translation
+Associated, Brihaspati, with your protections, (men) are unharmed (by foes), and become opulent and blessed with descendants: may wealth devolve on those who are generous, and givers of horses, of cows, of clothes.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒स॒र्माणं॑ कृणुहि वि॒त्तमे॑षां॒ ये भुं॒जते॒ अपृ॑णंतो  ॒
+> न उक्षैः ।  
+> अप॑व्रतान्प्रस॒वे वा॑वृथ॒ान्‌ब्र॑ह्म॒द्विषः॒ सूर्या॑द्यावयस्व ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विसर्माणं । कृणुहि । वित्तं । एषां । ये । भुंजते । अपृणंतः । नः । उक्षैः ।  
+> अपव्रतान् । प्रसवे । ववृधानान् । ब्रह्मद्विषः । सूर्यात् । यवयस्व ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां वक्ष्यमाणानां वित्तं धनं विसर्माणं विसरणशीलं कृणुहि । कुरु । हे
+> ब्रह्मणस्पते । एषामित्युक्तं केषामित्याह । ये भुंजतेऽपृणंतोऽप्रयच्छंतः ।
+> केभ्यः । उक्थैः स्तुतिप्रतिपादकैः शस्त्रैर्विशिष्टेभ्यो नोऽस्मभ्यं । तानपव्रतानपगतकर्मणः प्रसव उत्पत्तिमति मनुष्यलोके ववृधानान् वर्धमानान ब्रह्मद्विषो
+> ब्राह्मणद्वेष्टन्मंत्रद्वेष्टन् ना सूर्याद्यावयस्व । पृथक्कुरु । अंधकारे
+> स्थापयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Make the wealth of these who are about to be named (एषां (*eṣāṃ*)) scattering, that is, of a nature to disperse (विसर्माणं (*visarmāṇaṃ*)), O Brahmaṇaspati**NOTE**. Of whom does he say "of these"? Of those who enjoy without giving, that is, without bestowing: on whom? On us, who are distinguished by the ukthas, the śastras which convey praise. Make dispersing the wealth of those who are devoid of rites (अपव्रतान् (*apavratān*)), that is, whose works have gone astray, who are prospering in the world of men, the place of birth, who are haters of brahma, that is, haters of Brāhmaṇas and haters of mantras. Separate them from the sun; put them apart, that is, place them in darkness.
+
+### Printed p. 417
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Bṛhaspati)
+- उक्थैः (*ukthaiḥ*)—who praise with the śastra and other mantras
+- नः (*naḥ*)—to us
+- ये (*ye*)—who
+- अपृणंतः (*apṛṇaṃtaḥ*)—without giving
+- भुंजते (*bhuṃjate*)—enjoy (all wealth) themselves
+- एषां (*eṣāṃ*)—of such greedy people
+- वित्तं (*vittaṃ*)—the wealth
+- विसर्माणं (*visarmāṇaṃ*)—so that it scatters
+- कृणुहि (*kṛṇuhi*)—make
+- आपव्रतान् (*āpavratān*)—who are without Vedic rites**NOTE**
+- प्रसवे (*prasave*)—in the world of men
+- ववृधान् (*vavṛdhān*)—while prospering
+- ब्रह्मद्विषः (*brahmadviṣaḥ*)—those fallen from the rites, who despise the mantras and the like without knowing their greatness
+- सूर्यात् (*sūryāt*)—from the sun
+- यवयस्व (*yavayasva*)—separate
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, make the wealth of those greedy rich men who, without giving to us, who are distinguished by praise with śastras and the like, enjoy all wealth themselves, scatter and disperse. Those who, while prospering in the world of men, are devoid of Vedic rites and despise the mantras and the like without knowing their greatness, those who have fallen from the rites: separate them from the sun, that is, place them in pitch darkness, where there is no light of the sun.**NOTE**
+
+##### English translation
+Render transitory the riches of those who partake of enjoyment without giving satisfaction (to those who are eminent) by holy hymns: put apart from the sun, those who perform not sacred rites, and who, though prospering in their posterity, are the adversaries of prayer.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ओह॑ते र॒क्षसो॑ दे॒ववी॑तावच॒क्रेभि॒स्तं म॑रुतो॒ निया॑त ।  
+> यो वः॒ शमीं॑ शशमा॒नस्य॒ निंदा॑त्तु॒च्छ्यान्मामा॑न्करते  ॒
+> सिष्टिदानः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ओहते । रक्षसः । देव्यवीत् । अचक्रेभिः । तं । मरुतः । नि । यात ।
+
+### Printed p. 418
+
+> यः । वः । शमीं । शशमानस्य । निंदात् । तुच्छ्यान् । कामान् । करते ।  
+> सिस्विदानः ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो रक्षसो बलिनो राक्षसानोहते प्रापयति देवनीत् ।
+> देवानां नीतिः प्राप्तिर्भक्षणं ना यत्र स तथोक्तः । तस्मिन्यज्ञे । अन्यथानुष्ठानादिनासुरं करोतीत्यर्थः । तं यजमानमचक्रेभिरचक्रै रथैर्हे मरुतो नि यात ।
+> नितरां प्रापयतांधकारं । यद्वा । अचक्रेभिरिति पूर्वत्रान्वयः । चक्रशब्देनांगान्युच्यंते । पुनःपुनरंगरहितैः केवलैरेव प्रधानैरोहते प्रापयति । सांगं हि
+> कर्म देवानभ्येति । यश्च वो युष्माकं शमीं कर्म स्तुतिलक्षणं शशमानस्य मम
+> संबंधि निंदात् निंदेत् वैदिकं ज्योतिष्टोमादिरूपं कर्म निंदति स्वयं च
+> तुच्छान्नश्वरान् कामान् कृष्यादिजनितभोगान् करते कुरुते सिष्टिदानः स्विद्यन्नात्मानं क्लेशयन् । अथवा युष्मासु कमनीयान्भोगान् तुच्छान् करोति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who brings (ओहते (*ohate*)) the powerful rākṣasas into the sacrifice called देवनीत् (*devanīt*), that is, the sacrifice in which there is the going of the gods, their arrival, their partaking**NOTE**, and who makes it demoniac by performing it wrongly and the like: that sacrificer, O Maruts, drive down with chariots without wheels (अचक्रेभिः (*acakrebhiḥ*)) into darkness. Or else: अचक्रेभिः (*acakrebhiḥ*) is to be construed with what goes before; by the word "wheel" the limbs of the rite are meant; he brings it again and again with only the principal parts, without the limbs; whereas a rite with its limbs reaches the gods. And whoever of you reviles the rite of praise (शमीं (*śamīṃ*)) belonging to me who am praising, that is, reviles the Vedic rite such as the Jyotiṣṭoma and the like, and himself pursues futile and perishable desires, enjoyments born of ploughing and the like, sweating, that is, tormenting himself. Or else: he makes the desirable enjoyments among you worthless.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यः (*yaḥ*)—which sacrificer
+- देवनीत् (*devanīt*)—in the sacrifice that proceeds for the satisfaction of the gods
+- रक्षसः (*rakṣasaḥ*)—the demons
+- ओहते (*ohate*)—brings together
+- तं (*taṃ*)—that sacrificer
+- अचक्रेभिः (*acakrebhiḥ*)—with chariots without wheels
+- नि यात (*ni yāta*)—push into darkness
+- यः (*yaḥ*)—who
+- वः (*vaḥ*)—addressed to you
+- शमीं (*śamīṃ*)—while performing a rite accompanied by praise
+- शशमानस्य (*śaśamānasya*)—me, who praise (you) (or those who belong to me)
+- निंदात् (*niṃdāt*)—reviles, (he)
+- सिष्टिदानः (*siṣṭidānaḥ*)—exposing himself to affliction and pouring out sweat
+- तुच्छान् (*tucchān*)—vain
+- कामान् (*kāmān*)—desires for enjoyment
+- करते (*karate*)—imagines
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the sacrificer who brings demons into the sacrifice that proceeds for the satisfaction of the gods, push that sacrificer into darkness with chariots without wheels. The one who reviles me, who offer praise to you by performing a rite directed to you, or those who belong to me, he, exposing himself merely to affliction and pouring out sweat, imagines these desires for enjoyment that are of no worth.
+
+### Printed p. 419
+
+##### English translation
+Send, Maruts, into darkness, with (cars) devoid of wheels, the man who invites the Rakshasas to the food of the gods; (him also) who reviles me when offering praise to you : whilst sweating, he toils (to realize) vain desires.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ ष्टुहि॒ यः स्ति॒षुः सु॒धन्वा॒ यो विश्व॑स्य॒ क्षय॑ति बेष॒जस्य॑ ।  
+> यक्ष्वा॑ म॒हे सौ॑मन॒साय॑ रु॒द्रं नमो॑भिर्दे॒वमसु॑रं  
+> दुवस्य ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । स्तुहि । यः । सुइषुः । सुधन्वा । यः । विश्वस्य । क्षयति । भेषजस्य ।  
+> यक्ष्व । महे । सौमनसाय । रुद्रं । नमभिः । देवं । असुरं । दुवस्य ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आत्मन् तमु तमेव रुद्रं स्तुहि । स्तुतिं कुरु । यः स्विसु: शोभनवाणः
+> सुधन्वा च । विरोधिहंतृत्वात्तुष्टुत्वं । यश्च विश्वस्य भेषजस्याषधस्य क्षयति ईश्वरो
+> भवति । शारीरस्य सांसारिकस्य वा रिष्टस्य शमनायेश्वरस्य व्यतिरिक्तसौषधस्याभावाद्भिषक्तमत्वाच्चास्य भेषजस्वामित्वं । भिषक्तमं त्वा भिषजां शृणोमि । ऋग्वे २.३३-४. ।
+> इत्यादिश्रुतेः । किंच तमेव रुद्रं दुःखात्तत्साधनाद्दुरिताद्वा मोचयितारं देवं
+> यक्ष्व यज च महे महते सौमनसाय सुमनस्वाय । ईश्वराराधनाच्चित्तशांतिः
+> प्रसिद्धा । किंच नमोभिर्हविर्भिर्नमस्कार्वैर्वा देवं द्योतमानमसुरं प्रकृष्वासुं । बलवंतमित्यर्थः । यद्वा । प्राणदातारु रुद्रं दुवस्य । परिचरेति ॥
+
+##### Gist of the bhāṣya
+
+O self, praise that very Rudra; make praise. He who has a good arrow (स्विसु: (*svisu:*))**NOTE** and a good bow; his praiseworthiness is due to his killing of opponents. And he who is lord of all medicine, that is, of all herbs: for the allaying of bodily or worldly ailment, since there is no remedy apart from the Lord and since he is the best of physicians, his lordship over medicine is established, as the śruti says, भिषक्तमं त्वा भिषजां शृणोमि । (*bhiṣaktamaṃ tvā bhiṣajāṃ śṛṇomi |*) (Ṛgve. 2.33-4)**NOTE**, and so on. Further, worship that Rudra, the god who delivers from suffering or from the evil that causes it, for great (महे (*mahe*)) good-mindedness; peace of mind from worship of the Lord is well known. Further, with salutations or with oblations, attend upon the shining god, the asura, that is, one of excellent life, the mighty one; or else: attend upon Rudra, the giver of breath.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Rudra
+- स्विषुः (*sviṣuḥ*)—has an excellent arrow
+- सुधन्वा (*sudhanvā*)—and has a bow that is effective
+- यः (*yaḥ*)—who
+- विश्वस्य (*viśvasya*)—of all
+- भेषजस्य (*bheṣajasya*)—of the herbs as well
+
+### Printed p. 420
+
+- क्षयति (*kṣayati*)—is the lord; such a one
+- तमु (*tamu*)—that very Rudra
+- स्तुहि (*stuhi*)—praise
+- रुद्रं (*rudraṃ*)—addressing that same Rudra
+- महे (*mahe*)—great
+- सौमनसाय (*saumanasāya*)—for the gain of an excellent state of mind
+- यक्ष्य (*yakṣya*)—perform the sacrifice
+- असुरं (*asuraṃ*)—the mighty
+- देवं (*devaṃ*)—that same god
+- नमोभिः (*namobhiḥ*)—with salutations
+- दुवस्य (*duvasya*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Rudra who has an excellent arrow and an effective bow, who is the lord of all herbs. Perform the sacrifice addressed to that same Rudra for the gain of a great and excellent state of mind, and worship that same mighty god with salutations.
+
+##### English translation
+Praise him who has the sure arrow, the strong bow, who presides over all sanitary drugs; worship Rudra for a comprehensive and sound understanding; adore the powerful divinity with prostrations.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दमू॑नसो अ॒पसो॒ ये सु॒हस्ता॒ वृष्णः॒ पत्नी॑र्न॒द्यो॑  ॒
+> विभ्वत॒ष्टाः ।  
+> सर॑स्वती बृहद्दि॒वोत रा॒का द॑श॒स्यंती॑र्वरिवस्यंतु शु॒भ्राः ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दमूनसः । अपसः ।ये । सुहस्ताः । वृष्णः । पत्नीः । नद्यः । विभ्वतष्टाः ।  
+> सरस्वती । बृहत्दिवा । उत । राका । दशस्यंतीः । वरिवस्यंतु । शुभ्राः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र लिंगोक्तदेवताः । दमूनसो दानमनसो दांतमनसो वापसश्चमसाश्वरथगवादिशोभनकर्मवंतः ॥ मत्त्वर्थो लुप्यते ॥ आत एव सुहस्ताः कुशलहस्ता
+
+##### Gist of the bhāṣya
+
+Here the deities are named by their gender. The word दमूनसो (*damūnaso*) means those of a giving mind or of a controlled mind; or else those who are अपसः (*apasaḥ*), doers of good work in making cups, chariots, cows and the like; the suffix of possession is dropped. For that very reason they are सुहस्ताः (*suhastāḥ*), skilful of hand,
+
+### Printed p. 421
+
+> ये संति त ऋभवो वृष्णो वर्षकस्येंद्रस्य पत्निः पत्न्यः पालयित्यो नद्यो
+> नदनशीला गंगाद्या निभ्वतष्टा ऋभूणां मध्यमेन कृताः सरस्वत्येतन्नामिका नदी
+> वाग्देवी वा बृहद्दिवा प्रभूतदीप्तिरुतापि च राका देवी च दशस्यंतीर्दशस्यंत्यः
+> कामान्प्रयच्छंत्यः शुभ्रा दीप्ताः ताश्च वरिवस्यंतु । अस्मभ्यं धनमिच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+those who are such, the Ṛbhus; and the wives, that is, the protectresses, of the showerer, that is, of Indra the rain-giver; the rivers, those that roar, Gaṅgā and the others, made by the middle one of the Ṛbhus; Sarasvatī, the river of that name or the goddess of speech; Bṛhaddivā, of abundant radiance; and also the goddess Rākā; they who grant desires, the radiant; and may they favour us, that is, wish wealth for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दमूनसः (*damūnasaḥ*)—of a giving mind
+- अपसः (*apasaḥ*)—possessed of excellent work such as the making of cups
+- सुहस्ताः (*suhastāḥ*)—possessed of hands fit for skilful work
+- ये (*ye*)—whichever Ṛbhus there are, those
+- वृष्ण (*vṛṣṇa*)—of Indra, the showerer of desires
+- पत्निः (*patniḥ*)—the wives
+- विभृतष्टाः (*vibhṛtaṣṭāḥ*)—fashioned by Vibhu
+- नद्यः (*nadyaḥ*)—the rivers
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- उत (*uta*)—and
+- बृहद्दिवा (*bṛhaddivā*)—shining exceedingly
+- राका (*rākā*)—the goddess Rākā
+- दशस्यंतीः (*daśasyaṃtīḥ*)—supplying our desired objects
+- शुभ्राः (*śubhrāḥ*)—being radiant
+- वरिवस्यंतु (*varivasyaṃtu*)—may they bless us that we may gain wealth
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛbhus who are of giving mind, who are doers of excellent work such as the making of cups, who have hands fit for skilful work; the wives of Indra, the showerer of desires; the rivers fashioned by Vibhu; Sarasvatī; and the goddess Rākā, who shines exceedingly: may they too, supplying our desired objects and being radiant, bless us that we may gain wealth.
+
+##### English translation
+May the dexterous-handed, humble-minded artisans (of the gods, the Ribhus; may the wives of the showerer (Indra); may the rivers carved out by Vibhu; may Saraswathi and the brilliant Raka, the illustrious granters of desires, be willing to grant us riches.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सू म॒हे सु॑शर॒णाय॑ मे॒धां गिरं॑ भरे॒ नव्य॑सीं॒ जाय॑मानां ।
+
+### Printed p. 422
+
+> य आहना दुहितुर्वक्षणासु रूपा मिनानो अकृणोदिदं  
+> नः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । महे । सुशरणाय । मेधां । गिरं । भरे । नव्यसीं । जायमानां ।  
+> यः । आहनाः । दुहितुः । वक्षणासु । रूपा । मिनानः । अकृणोत् । इदं।नः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सु सुष्टु प्र भरे प्रकर्षेण संपादयामि महे महते सुशरणाय शोभनरक्षकायेंद्राय पर्जन्याय वा सुसुखाय वा । किं । मेधां मतौ धीयमानां
+> गिरं स्तुतिं । कीदृशीं । नव्यसीं नवतरामतिशयेन स्तुत्यां वा जायमानामिदानीमुत्पद्यमानां । नूतनामित्यर्थः । य इंद्रः पर्जन्यो वा आहना आहंता सेक्ता
+> दुहितुर्दुहितृस्थानीयायाः पृथिव्या हिताय वक्षणासु नदीषु रूपा रूपाणि
+> मिनानः कुर्वाण इदमुदकं नोऽस्मभ्यमकृणोत् करोतु ॥
+
+##### Gist of the bhāṣya
+
+I bring forth well, that is, I prepare excellently, for the great one, the good protector, Indra or Parjanya, or the giver of good happiness, a praise held in the mind (मेधां (*medhāṃ*)), a hymn. Of what kind? New, that is, very recent, or very praiseworthy, and being born, that is, produced now: new, that is the meaning. Indra or Parjanya, who is the striker, that is, the sprinkler, for the good of the daughter, that is, the earth, who stands in the place of a daughter, making forms in the rivers, has made this water for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- आहनाः (*āhanāḥ*)—as the one who pours out rain
+- दुहितुः (*duhituḥ*)—of this earth, his daughter (for her good)
+- वक्षणासु (*vakṣaṇāsu*)—in the rivers
+- रूपा (*rūpā*)—forms of streams
+- मिनानः (*minānaḥ*)—producing
+- इदं (*idaṃ*)—this water
+- नः (*naḥ*)—for our good
+- अकृणोत् (*akṛṇot*)—made
+- महे (*mahe*)—who is great
+- सुशरणाय (*suśaraṇāya*)—and the giver of an excellent refuge, to such Indra
+- नव्यसीं (*navyasīṃ*)—new
+- जायमानां (*jāyamānāṃ*)—just now made
+- मेधां (*medhāṃ*)—and of the nature of meditation
+- गिरं (*giraṃ*)—praise
+- सु (*su*)—exceedingly
+- प्र भरे (*pra bhare*)—I fashion, to offer
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who, pouring out rain, for the good of the earth, his daughter, and producing forms of streams in the rivers, has made this water for our good: to offer to that great one, the giver of an excellent refuge, I fashion exceedingly a praise that is new, just now born, and of the nature of meditation.
+
 ---
 
-**Progress note:** Done through printed p. 415. pp. 410-415: Sūkta 42 Ṛk 3 close, Ṛk 4-8
+**Progress note:** Done through printed p. 422. pp. 416-422: Sūkta 42 Ṛk 8 close, Ṛk 9-13
