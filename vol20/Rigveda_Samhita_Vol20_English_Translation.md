@@ -5135,6 +5135,280 @@ This verse, "hiraṇyatvak", is the yājyā of the Aśvina offering **NOTE**; so
 - वहन् (*vahan*)—bearing
 - आ वर्तते (*ā vartate*)—comes toward us
 
+### Printed p. 135
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the chariot with which you go beyond all the roads that others cannot cross, that chariot of yours, which has a covering of gold, which streams water, which has the speed of the mind, which is swift as the wind, comes toward us bearing food.
+
+##### English translation
+Your car, Aswins, approaches, coated with gold, honey-tinted,
+water-shedding, laden with ambrosia, as quick as thought. as rapid as the
+wind, wherewith you pass over all obstacles.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning हिरण्यत्वक् (*hiraṇyatvak*) is to be recited as the yājyā mantra when the oblation is offered in the animal sacrifice made to the Aśvin deities; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra हिरण्यत्वङ्मधुवर्णो धृतस्सुरभि क्रत्वेंद्र भूरध ज्मन् (*hiraṇyatvaṅmadhuvarṇo dhṛtassurabhi kratveṃdra bhūradha jman*) (Ā. Sū. 3-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो भूयि॑ष्ठं॒ नास॑त्याभ्यां वि॒वेष॒ चनि॑ष्ठं पि॒त्वो रर॑ते  ॒
+> विभा॒गे ।  
+> स तो॒कम॑स्य पीपर॒च्छमी॑भि॒रनू॑र्ध्वभासः॒ सद॒मित्तु॑ तुर्यात्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । भूयिष्ठं । नासत्याभ्यां । विवेष । चनिष्ठं । पित्वः । ररते । विभागे ।  
+> सः । तोकं । अस्य । पीपरत् । शमीभिः । अनूर्ध्वऽभासः । सदं । इत् । तुतुर्यात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो विभागे हविर्विभागवति यागे नासत्याभ्यामश्विभ्यां
+> भूयिष्ठं चनिष्ठं । चन इत्यन्ननाम । नि. ६-१६ । बह्वन्नं कर्म विवेष करोति ।
+
+##### Gist of the bhāṣya
+
+The sacrificer who, in a sacrifice in which the oblations are divided, performs for the Nāsatyas, the two Aśvins, a most abundant चनिष्ठं (*caniṣṭhaṃ*) rite. He explains: चन (*cana*) is a name for food (Ni. 6-16); so this is a rite rich in food, and विवेष (*viveṣa*) means he performs it.
+
+### Printed p. 136
+
+> पित्वः ॥ कर्मणि षष्ठी ॥ अन्नं च ररते ददाति स यजमानोऽस्यात्मन एव शोकं
+> पुत्रं पीपरत् पालयेत् शमीभिः कर्मभिः । अनूर्ध्वभासोऽनुन्नततेजस्कान् ।
+> यद्वा । ऊर्ध्वभासोऽग्नयः । अग्निरहितानयष्टन् सदमित् सदैव तुतुर्यात् ।
+> हिंस्यात् ॥
+
+##### Gist of the bhāṣya
+
+He also offers food. That sacrificer protects his own son by his rites. Sāyaṇa explains अनूर्ध्वभासः (*anūrdhvabhāsaḥ*) as those whose splendour is not lofty. Or else, ऊर्ध्वभासोऽग्नयः (*ūrdhvabhāso 'gnayaḥ*): the fires are the lofty-splendoured ones, and the word then means those who have no fires, the non-sacrificers; such persons he is able to harm always.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which sacrificer
+- विभागे (*vibhāge*)—in the sacrifice in which the oblations are divided
+- नासत्याभ्यां (*nāsatyābhyāṃ*)—addressed to the Aśvin deities
+- भूयिष्ठं (*bhūyiṣṭhaṃ*)—abundantly
+- चनिष्ठं (*caniṣṭhaṃ*)—the rite full of food
+- विवेष (*viveṣa*)—performs
+- पित्वः (*pitvaḥ*)—food
+- ररते (*rarate*)—offers
+- सः (*saḥ*)—that same sacrificer
+- शमीभिः (*śamībhiḥ*)—by his rites
+- अस्य (*asya*)—his own
+- तोकं (*tokaṃ*)—son
+- पीपरत् (*pīparat*)—protects (moreover)
+- अनूर्ध्वभासः (*anūrdhvabhāsaḥ*)—those fallen from the rites, who do not worship Agni of lofty splendour
+- सदमित् (*sadamit*)—always
+- तुतुर्यात् (*tuturyāt*)—becomes able to harm
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who, in a sacrifice in which the oblations are divided, performs abundantly, for the Aśvin deities, a rite full of food, that same sacrificer protects his own son by his rites. Moreover, he becomes able always to harm those who have fallen from the rites and do not worship Agni of lofty splendour.
+
+##### English translation
+He who, in the appointment (of the offerings), presents to the Nasatyas the most ample (share) of (the sacrificial) food, who gives (them) the largest portion of the viands, secures, by his acts, the welfare of his, son, and ever has the advantage of those who light no sacred fires.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॒श्विनो॒रव॑सा॒ नूत॑नेन मयो॒भुवा॑ सु॒प्रणी॑ती गमेम ।  
+> आ नो॑ र॒यिं व॑हत॒मोत वी॒राना विश्वा॑न्यमृता॒ सौभ॑गानि ॥५॥
+
+### Printed p. 137
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अश्विनोः । अवसा । नूतनेन । मयःभुवा । सुप्रनीति । गमेम ।  
+> आ । नः । रयिं । वहतं । आ । उत । वीरान् । आ । विश्वानि । अमृता । सौभगानि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ई मुक्किन भाष्यवु 130 ने सेजिनल्लिदॆ.
+
+##### Gist of the bhāṣya
+
+The bhāṣya of this Ṛk is on page 130.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- नूतनेन (*nūtanena*)—which is new
+- मयोभुवा (*mayobhuvā*)—which brings happiness
+- सुप्रणीता (*supraṇītā*)—which is an excellent guide
+- आवसा (*āvasā*)—with protection
+- सं गमेम (*saṃ gamema*)—may we be joined together
+- अमृता (*amṛtā*)—O Aśvins, free from mortality
+- नः (*naḥ*)—to us
+- विश्वानि (*viśvāni*)—all
+- सौभगानि (*saubhagāni*)—things that bring auspicious good fortune
+- आ वहतं (*ā vahataṃ*)—bring
+- रयिं (*rayiṃ*)—wealth
+- आ(वहतं) (*ā(vahataṃ)*)—provide
+- उत (*uta*)—and
+- वीरान् (*vīrān*)—heroic sons and the like
+- आ (वहतं) (*ā (vahataṃ)*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+May we be joined together with the protection of the Aśvin deities, which is new, brings happiness and is an excellent guide. O Aśvin deities, free from mortality, bring us all things that bring auspicious good fortune, provide wealth. And bestow heroic sons and the like.
+
+##### English translation
+May we be united with the Aswins, by their special protection, which is the source of happiness, the guide to good: bestow upon us, immortals, wealth and all good things.
+
+## Sūkta 78 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्विनावेहेति नवर्चं षष्ठं सूक्तं । अत्रानुक्रमणिका । अश्विनौ नव सप्तवध्रिस्त्रिष्टिगादि चतुर्थी त्रिष्टुप्पंचानुष्टुभ इति सप्तवध्रिर्नामात्रेयै यषिः । आदितस्तिस्र
+> उष्णिहश्चतुर्थी त्रिष्टुप् शिष्टाः पंचानुष्टुभः ॥ प्रातरनुवाक आश्विने क्रतावौष्ठि हे
+
+##### Gist of the bhāṣya
+
+This sūkta beginning अश्विनावेह (*aśvināveha*) has nine Ṛks and is the sixth sūkta. The Anukramaṇikā says that the deity is the two Aśvins, that the number of Ṛks is nine, that the seer is Saptavadhri of the Atri line, that the first three Ṛks are in Uṣṇih, the fourth in Triṣṭubh, and the remaining five in Anuṣṭubh. Its use: in the morning recitation (prātaranuvāka), in the Āśvina rite, in the Uṣṇih metre,
+
+### Printed p. 138
+
+> छंदस्याश्विने शस्त्रे चाद्यस्तृचो विनियुक्तः । सूत्रितं च । अश्विना वर्तिरस्मदाश्विनावेह
+> गच्छतमिति तृचौ । आ. ४-१५ । इति ॥ दशरात्रे तृतीयेऽहनि प्रउगशस्त्रेयमाश्विनस्तृचः । सूत्रितं च । अश्विनावेह गच्छतमा याह्यद्रिभिः सुतं । आ. ७-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+and in the Āśvina śastra, the first tṛca is employed. This is laid down by the sūtra that the two tṛcas begin with अश्विना वर्तिरस्मदाश्विनावेह गच्छतमिति तृचौ (*aśvinā vartirasmadāśvināveha gacchatamiti tṛcau*) (Ā. Sū. 4-15). On the third day of the Daśarātra, in the Praüga-śastra, this is the Āśvina tṛca; this is laid down by the sūtra अश्विनावेह गच्छतमा याह्यद्रिभिः सुतं (*aśvināveha gacchatamā yāhyadribhiḥ sutaṃ*) (Ā. Sū. 7-10).
+
+##### Anuvāda
+
+This sūkta beginning अश्विनावेह (*aśvināveha*) is the sixth sūkta in the sixth anuvāka. It contains nine Ṛks. In the Anukramaṇikā it is said अश्विन् नव सप्तवध्रिस्त्रिष्टिगादि चतुर्थीं त्रिष्टुप्पंचानुष्टुभः (*aśvin nava saptavadhristriṣṭigādi caturthīṃ triṣṭuppaṃcānuṣṭubhaḥ*). The seer of this sūkta is the one called सप्तवध्रिरात्रेयः (*saptavadhrirātreyaḥ*); the Aśvin deities are the deity. The first three Ṛks of this sūkta are in the Uṣṇik metre, the fourth is in the Triṣṭup metre, and the remaining five Ṛks are in the Anuṣṭup metre. In the recitation of the Prātaranuvāka mantras, the first three Ṛks of this sūkta have a use for the Uṣṇik-metre mantras connected with the Āśvina rite and for the mantras of the Āśvina śastra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अश्विना वर्तिरस्मदाश्विनावेह गच्छतमिति तृचौ (*aśvinā vartirasmadāśvināveha gacchatamiti tṛcau*) (Ā. Sū. 4-15). And on the third day of the sacrifice called Daśarātra, at the time of reciting the mantras of the Praüga-śastra, the first three Ṛks of this sūkta are to be used as the tṛca recited to the Aśvin deities, called the Āśvina tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अश्विनावेह गच्छतमा याह्यद्रिभिः सुतं (*aśvināveha gacchatamā yāhyadribhiḥ sutaṃ*) (Ā. Sū. 7-10).
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 78
+- Aṣṭaka 4; Adhyāya 4; Varga 19, 20
+- Number of Ṛks in the sūkta: 9
+- Seer: सप्तवध्रिरातेयः (*saptavadhrirāteyaḥ*)
+- Deity: अश्विनौ (*aśvinau*)
+- Metre: 1-3 उष्णिक् (*uṣṇik*); 4 त्रिष्टुप् (*triṣṭup*); 5-9 अनुष्टुप् (*anuṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना॒वेह ग॑च्छतं॒ नास॑त्या॒ मा वि वे॑नतं ।  
+> हं॒सावि॑व पतत॒मा सु॒ता उप॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विनौ । आ । इह । गच्छतं । नासत्या । मा । वि । वेनतं ।  
+> हंसौइव । पततं । आ । सुतान् । उप ॥ १ ॥
+
+### Printed p. 139
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाविहास्मिन्याग आ गच्छतं । हे नासत्या मा वि वेनतं । वेनतिः कांतिकर्मा । मा विकामौ भवतं । निःस्पृहावकाम् वा न भवतमित्यर्थः । हंसाविव
+> तौ यथा निर्मलोदकमागच्छतस्तद्वत् सुतानभिषुतान् सोमानुपा पपतं ।
+> उपागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come here, to this sacrifice. O Nāsatyas, do not be unwilling: वेनतिः कांतिकर्मा (*venatiḥ kāṃtikarmā*), that is, the verb denotes desire; so do not be without desire, do not be without longing or lacking in wish. Just as the two swans come to clear water, so come to the pressed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विन् (*aśvin*)—O Aśvin deities
+- इह (*iha*)—to this sacrifice
+- आ गच्छतं (*ā gacchataṃ*)—deign to come
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- मा वि वेनतं (*mā vi venataṃ*)—do not be unwilling to come to us
+- हंसाविव (*haṃsāviva*)—like two swans flying in
+- सुशान् (*suśān*)—the pressed Soma, with it in view **NOTE**
+- उप आ पततं (*upa ā patataṃ*)—deign to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, deign to come to this sacrifice. O Aśvin deities, do not be unwilling to come to us. Like two swans flying in, deign to come with the pressed Soma in view.
+
+##### English translation
+Aswins. come hither : Nasatyas. be not ill-disposed: alight like two
+swans upon the effused libations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना हरि॒णावि॑न गौ॒रावि॒वानु॒ यव॑सं ।  
+> हं॒सावि॑न पतत॒मा सु॒ता उप॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । हरिणौ इव । गौरौ इव । अनु । यवसं ।  
+> हंसौ इव । पततं । आ । सुतान् । उप ॥ २ ॥
+
+### Printed p. 140
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ हरिणाविव । गौराविव गौरमृगाविव च । तौ यथा यवसं घासमनु
+> धावतः तानिव हंसाविव च सोममागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to the Soma like two deer, and like two gaura animals; just as those two run after the यवसं (*yavasaṃ*), the fodder, so you, like them and like two swans, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- हरिणाविव (*hariṇāviva*)—like two deer
+- यवसं (*yavasaṃ*)—fresh grass
+- अनु (*anu*)—following, running
+- गौराविव (*gaurāviva*)—like two gaura animals
+- हंसाविव (*haṃsāviva*)—like two swans flying in
+- सुतान् उप (*sutān upa*)—with the pressed Soma in view
+- आ पततं (*ā patataṃ*)—deign to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, like two deer, like two gaura animals that run following fresh grass, and like two swans flying in, deign to come with the pressed Soma in view.
+
+##### English translation
+Like two deer, Aswins, like two wild cattle on (fresh) pasture ; like
+two swans alight upon the effused libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+गौरविव (*gauraviva*)—The word गौर (*gaura*) is included, together with the word गवय (*gavaya*), in the list of animals stated for the Aśvamedha sacrifice. On this subject, in the Taittirīya Saṃhitā:
+इंद्राय राजे सूकरो वरुणाय राजे कृष्णो यमाय राज ऋश्य ऋषभाय राजे गवयः शार्दूलाय राजे गौरः पुरुषराजाय मर्कटः क्षिप्रश्चेनस्य वर्तिका नीलंगोः क्रिमिः सोमस्य राजः कुलुंगः सिंधोः शिग्ंशुमारो हिमवतो हस्ती ॥ (*iṃdrāya rāje sūkaro varuṇāya rāje kṛṣṇo yamāya rāja ṛśya ṛṣabhāya rāje gavayaḥ śārdūlāya rāje gauraḥ puruṣarājāya markaṭaḥ kṣipraścenasya vartikā nīlaṃgoḥ krimiḥ somasya rājaḥ kuluṃgaḥ siṃdhoḥ śigṃśumāro himavato hastī ‖*) (Tai. Saṃ. 5-5-11-1). **GLOSS**
+And in another place also of the Taittirīya Saṃhitā of the Yajurveda:
+गवयमारण्यमनु ते दिशामि तेन चिन्वानस्तनुवो निषीद । (*gavayamāraṇyamanu te diśāmi tena cinvānastanuvo niṣīda |*) (Trai. Saṃ. 4-2-0-3) **NOTE** **GLOSS**
+
+### Printed p. 141
+
+Thus it is said of the offering of the forest animal called गवय (*gavaya*). The animals called गौर (*gaura*) and गवय (*gavaya*) (Gayal and Bos gavaeu) are, respectively, a kind of deer and an ox living in the forest. In the list of about 81 forest animals used in the Aśvamedha sacrifice, they are stated in the anuvākas from Tai. Saṃ. 5-5-11 to 28. In Kannada there are no proper names for these. गवय (*gavaya*) means a kind of wild ox. Its name is stated in the Ṛgveda only in a few places. But the use of this word गवय (*gavaya*) is found in such places as Mai. Saṃ. 3-14-10; Kāṭhaka Saṃhitā 16-17; Vā. Saṃ. 24-28; Ai. Brā. 2-8; 3-34; Śa. Brā. 1-2-3-9; Sāṅkhyāyana Śrauta Sūtra 3-14. This word is recited together with the word गौर (*gaura*) in the Ṛk Ṛ. Saṃ. 4-21-8, together with the words गौर (*gaura*) and महिष (*mahiṣa*) in Vā. Saṃ. 24-28; 13-49, and in Mai. Saṃ. 2-7-17; Kāṭhaka Saṃhitā 16-17.
+
+गौर (*gaura*) also is a kind of wild ox (Bos gaurus). It is commonly stated together with the word गवय (*gavaya*) in the Ṛgveda 1-16-5, 4-21-8; 4-58-2; 5-78-2; 7-69-6; 7-98-1 and such places. The use of this word is found also in Mai. Saṃ. 3-14-10; Vā. Saṃ. 24-28; Ai. Brā. 3-34 and such places. That it is a forest animal is said in Vā. Saṃ. 13-48. The name of the female animal गौरि (*gauri*) is in the Ṛks Ṛ. Saṃ. 1-84-10; 4-12-6; 9-12-3; 1-164-11. The name गौरमृग (*gauramṛga*) also is found in Vā. Saṃ. 24-32; Ai. Brā. 2-8.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना वाजिनीवसू जु॒षेथां॑ य॒ज्ञमि॒ष्टये॑ ।  
+> हं॒सावि॑व पतत॒मा सु॒ता उप॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । वाजिनीवसू इति वाजिनीवसू । जुपेथां । यज्ञं । इष्टये ।  
+> हंसौइव । पततं । आ । सुतान् । उप ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नार्थं वासयितारावश्विना यज्ञमस्मदीयमिष्टयेऽभीष्पायैषणाय वा जुषेथां । सेवेथां ॥
+
+##### Gist of the bhāṣya
+
+O Vājinīvasū, you two Aśvins who provide dwelling for the sake of food, accept our sacrifice, for the sake of what is desired or for the seeking of it; serve it.
+
 ---
 
-**Progress note:** Done through printed p. 134. Ṛk 4 end, Ṛk 5, Sūkta 77 Ṛks 1-3 (Pratipadārtha)
+**Progress note:** Done through printed p. 141. Sūkta 77 Ṛk 3 end to Ṛk 5; Sūkta 78 introduction and Ṛks 1-3 start (pp. 135-141)
