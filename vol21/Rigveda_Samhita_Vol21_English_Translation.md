@@ -3536,6 +3536,274 @@ In the second night-round this Ṛk अस्य पिबेति (*asya pibet
 
 O great Indra, as soon as you were born, you drank the Soma for your delight and for the deed such as the slaying of Vṛtra: drink that same Soma. The milk and the like produced from cows, the Adhvaryus, the Vasatīvarī waters and the like, and the pressing stones brought together and pressed that same Soma for your drinking, you who are Indra.
 
+### Printed p. 82
+
+##### English translation
+Drink, Indra, of this (libation), of which you, mighty one, have drunk as soon as born, for excitement to (great) deeds; that Soma juice which the cows, the priests, the waters, the stones, combine to prepare for your drinking.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second night-round, the priest called Acchāvāka is to recite this Ṛk अस्य पिब (*asya piba*) as the śastra-yājyā mantra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अस्य पिबेति याज्या (*asya pibeti yājyā*) (Ā. 6-4).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्दे अ॒ग्नौ सु॒त इं॑द्र॒ सोम॒ आ त्वा॑ वहंतु॒ हर॑यो॒  ॑
+> वहि॑ष्ठाः ।  
+> त्वा॒य॒ता मन॑सा जोहवी॒मींद्रा या॑हि सुवि॒ताय॑ म॒हे  ॑
+> नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्दे । अग्नौ । सुते । इंद्र । सोमे । आ । त्वा । वहंतु । हरयः । वहिष्ठाः ।  
+> त्वायता । मनसा । जोहवीमि । इंद्र । आ । याहि । सुविताय । महे । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नौ समिद्धे दीप्ते सोमे सुतेऽभिषुते सति हे इंद्र त्वा त्वां वहिष्मा
+> वोढृतमा हरयोऽश्वा आ वहंतु । इमं यज्ञं प्रत्यानयंतु । अहं च त्वायता
+> त्वां कामयमानेन मनसा जोहवीमि । पुनः पुनराह्वयामि । हे इंद्र त्वं
+> नोऽस्माकं महे महते सुविताय कल्याणाया याहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+When the fire is kindled and the Soma has been pressed, O Indra, let the horses that are the best carriers bring you here; let them bring you to this sacrifice. And I, with a mind that desires you, invoke you again and again. O Indra, come to our great welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अग्नौ (*agnau*)—when the fire
+- समिद्धे (*samiddhe*)—has been kindled (and)
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*)—has been pressed
+- त्वा (*tvā*)—you
+- वहिष्ठाः (*vahiṣṭhāḥ*)—the best carriers
+
+### Printed p. 83
+
+- हरयः (*harayaḥ*)—the horses
+- आ वहंतु (*ā vahaṃtu*)—let them bring to our sacrifice
+- त्वायता (*tvāyatā*)—desiring only your help
+- मनसा (*manasā*)—with a mind
+- जोहवीमि (*johavīmi*)—I invoke you
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—our
+- महे (*mahe*)—great
+- सुविताय (*suvitāya*)—for the welfare
+- आ याहि (*ā yāhi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the fire is kindled and the Soma juice has been pressed, let the horses that are to carry you bring you to our sacrifice. With a mind that desires only your help, I invoke you again and again. O Indra, be gracious for our great welfare.
+
+##### English translation
+The fire is kindled ; the Soma, Indra, is effused : let your vigorous horses bring you hither : I invoke you, Indra, with a mind wholly devoted to you: come for our great prosperity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि॒ शश्व॑दुश॒ता य॑या॒थेंद्र॑ म॒हा मन॑सा सोम॒पेयं॑।  
+> उप॒ ब्रह्मा॑णि शृणव इ॒मा नोऽथा॑ य॒ज्ञस्त॒न्वे॒३॒॑३ वयो॑  
+> धात् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । शश्वत् । उशता । ययाथ । इंद्र । महा । मनसा । सोमपेयं ।  
+> उप । ब्रह्माणि । शृणवः । इमा । नः । अथ । ते ! यज्ञः । तन्ने । वयः । धात् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पुरा शश्वद्बहुकृत्वो ययाथ । सोमपानार्थं यज्ञं गतवानसि ।
+> आतः कारणादुशतास्मान्यामयमानेन महा महता मनसा सह सोमपेयं
+> सोमः पीयते यस्मिन् तादृशमस्मदीयं यज्ञमा याहि । अभिगच्छ । अगत्य च
+> ब्रह्माणि स्तोत्राणीमेदानीं प्रयुज्यमानानि नोऽस्मदीयान्युप शृणवः ।
+> उपश्वन । अथानंतरं यज्ञो यजमानस्ते तव तन्ने शरीराय त्वच्छरीरपोषार्थं
+> वयोऽन्नं सोमात्मकं धात् । ददातु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you have gone many times in the past to the sacrifice for the drinking of Soma. For that reason, with a great mind that desires us, come to this our sacrifice, in which the Soma is drunk. Having come, hear these praises of ours that are now being recited. Afterwards may the sacrificer give you food consisting of Soma, for the nourishment of your body.
+
+### Printed p. 84
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शश्वत् (*śaśvat*)—formerly, many times
+- ययाथ (*yayātha*)—you have gone to such sacrifices
+- उशता (*uśatā*)—desiring our company
+- महा (*mahā*)—and generous
+- मनसा (*manasā*)—with a mind
+- सोमपेयं (*somapeyaṃ*)—to our sacrifice, which is ready for the drinking of Soma
+- आ याहि (*ā yāhi*)—be gracious and come
+- नः (*naḥ*)—recited by us
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these praises
+- उप शृणवः (*upa śṛṇavaḥ*)—hear
+- अथ (*atha*)—afterwards
+- यज्ञः (*yajñaḥ*)—the sacrificer
+- ते (*te*)—your
+- तन्ने (*tanne*)—for the nourishment of the body
+- वयः (*vayaḥ*)—food in the form of Soma
+- धात् (*dhāt*)—may he offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have gone many times in the past to such sacrifices. With a mind that desires our company and is generous, be gracious and come to our sacrifice, which is ready for the drinking of Soma. Hear these praises recited by us. Afterwards may the sacrificer offer you food in the form of Soma, for the nourishment of your body.
+
+##### English translation
+You have ever gone (to similar rites): come now with a great mind disposed to drink the Soma: hear these our praises: may the worshipper present to you (sacrificial) food for (the nourishment of) your person.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र दि॒वि पार्ये॒ यदृध॒ग्यद्वा॒ स्वे सद॑ने॒ यत्र॒ वासि॑ ।  
+> अतो॑ नो य॒ज्ञमव॑से नि॒युत्वा॑न्त्स॒जोषाः॑ पाहि गिर्वणो  ॒॑
+> मरुद्भिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । दिवि । पाये । यत् । यधक् । यत् । वा । स्वे । सदने । यत् ।  
+> वा । असि ।  
+> अतः । नः । यज्ञं । अवसे । नियुत्वान् । सजोषाः । पाहि । गिर्वणः । मरुत्भिः॥
+
+### Printed p. 85
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पाये पारगे दूरदेशे दिवि द्युलोकाख्ये यद्यदि त्वं वर्तसे ।
+> यदि वा ऋधक् । एतत्पृथक्क्येन समानार्थं । पृथगन्यस्मिन्देशे वर्तसे । यद्वा
+> स्वे स्वकीये सदने गृहे । अथवा किमनेन विशेषणेन यत्र यस्मिन्देशेऽसि भवसि
+> अतोऽस्मात्स्थानादागत्य हे गिर्वणो गिरां संभक्तरिंद्र नियुत्वान् । नियुतोऽश्वाः ।
+> तद्वान्मरुद्भिः सजोषाः सह प्रीयमाणस्त्वं नोऽस्माकमवसे रक्षणाय यज्ञमस्मदीयं यागं पाहि । रक्ष । यद्वा । यज्ञं यजनसाधनमस्मदीयं सोममवसे
+> तर्पणाय पाहि । पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, if you are in the far-off region called heaven, or else (ऋधक् (*ṛdhak*), which has the same sense as पृथक् (*pṛthak*)) apart, in another region, or in your own abode, or, what is the use of this specifying, in whatever place you are, then coming from that place, O Girvaṇas, lover of songs, O Indra, accompanied by your horses (नियुतोऽश्वाः (*niyuto 'śvāḥ*)), well pleased together with the Maruts, protect our sacrifice for our protection. Or else: drink our Soma, the means of sacrifice, for your satisfaction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O you who accept praise
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—if perchance (you)
+- पारै (*pārai*)—are in a far-off region
+- दिवि (*divi*)—or in heaven
+- यद्वा (*yadvā*)—or
+- स्वे सदने (*sve sadane*)—in your own house
+- यत्र वा असि (*yatra vā asi*)—or in whatever region you may be
+- आतः (*ātaḥ*)—from that region
+- नियुत्वान् (*niyutvān*)—yoked with horses
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- सजोषाः (*sajoṣāḥ*)—and joined
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who accept praise, whether you are in a far-off region, in heaven, or in your own house, in whatever region you may be, come from that region, yoked with horses and joined with the Maruts, and protect our sacrifice, which is the means of our protection.
+
+##### English translation
+Whether, Indra, you abide in the distant heaven, in any other place, or in your own abode, or wherever (you may be), from thence do you, who are propitiated by praise, putting to your steeds, protect, together with the Maruts, well pleased, our sacrifice, for our preservation.
+
+### Printed p. 86
+
+## Sūkta 41 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहेळमान इति पंचर्चमष्टादशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> अनुक्रांतं च । अहेळमान इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अहेळमान इति (*aheḷamāna iti*) has five Ṛks and is the eighteenth sūkta. Its seer is Bharadvāja (Ārṣa), its metre is Triṣṭubh, and its deity is Indra. It is listed in the Anukramaṇī with the words अहेळमान इति (*aheḷamāna iti*). The use has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning "अहेळमानः (*aheḷamānaḥ*)" is the eighteenth sūkta in the third anuvāka. It has five Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity, and the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with "अहेळमानः (*aheḷamānaḥ*)". The use has been stated before.
+
+##### Particulars
+
+- Sūkta 41
+- Maṇḍala 6; Anuvāka 3; Sūkta 41
+- Aṣṭaka 4; Adhyāya 7; Varga 13
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहे॑ळमान॒ उप॑ याहि य॒ज्ञं तुभ्यं॑ पवंत॒ इंद॑वः सु॒तासः॑।  
+> गावो॒ न व॑ज्रि॒न्त्वमोको॒ अच्छेंद्रा ग॑हि प्रथ॒मो य॒ज्ञिया॑नां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहेळमानः । उप । याहि । यज्ञं । तुभ्यं । पवंते । इंदवः । सुतासः !  
+> गावः । न । वज्रिन् । स्वं । ओकः । अच्छ । इंद्र । आ । गहि । प्रथमः । यज्जियानां ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अहेळमानोऽक्रुध्यंत्वं यज्ञमस्मदीयमुप याहि । उपगच्छ ।
+> यतः कारणात्तुभ्यं त्वदर्थं सुतासोऽभिषुता इंदवः सोमाः पवंते पूयंते
+
+##### Gist of the bhāṣya
+
+O Indra, free from anger, come to our sacrifice, since for you the pressed Soma juices are purified
+
+### Printed p. 87
+
+> दशापवित्रेण शोध्यंते । हे वज्रिन् वज्रवन्निंद्र गावो न गावः स्वकीयं गोष्ठमिव
+> स्वं स्वकीयमोकः स्थानं द्रोणकलशादिलक्षणमच्छाभिमुख्येन । प्राप्नुवंतीति
+> शेषः । अतः कारणात् हे इंद्र यज्ञियानां यज्ञार्हाणां देवानां मध्यॆ
+> प्रथमो मुख्यस्त्वमा गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+with the ten-stranded filter. O thunderbolt-bearer, as cows go to their own stall, so the Soma juices go to their own place, such as the Droṇa vessel, facing it (the word to be supplied is: they reach). Therefore, O Indra, you who are the first, the chief, among the gods worthy of sacrifice, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहेळमानः (*aheḷamānaḥ*)—O Indra, free from anger
+- यज्ञं (*yajñaṃ*)—to our sacrifice
+- उप याहि (*upa yāhi*)—be gracious and come
+- तुभ्यं (*tubhyaṃ*)—directed to you
+- सुतासः (*sutāsaḥ*)—pressed
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- पवंते (*pavaṃte*)—are purified
+- वज्रन् (*vajran*)—O Indra, bearer of the thunderbolt
+- गावो न (*gāvo na*)—as cows go with eagerness to their stall
+- स्वं (*svaṃ*)—their own
+- ओकः (*okaḥ*)—place in the form of the Droṇa vessel
+- अच्छ (*accha*)—with eagerness (these Soma juices) go and reach
+- इंद्र (*iṃdra*)—O Indra
+- यज्ञयानां (*yajñayānāṃ*)—among the gods worthy of sacrifice
+- प्रथमः (*prathamaḥ*)—you, the chief
+- आ गहि (*ā gahi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, free from anger, be gracious and come to our sacrifice. The Soma juices pressed for you are purified. O Indra, bearer of the thunderbolt, as cows go with eagerness to their stall, the Soma juices reach and fill their own vessel in the form of the Droṇa vessel. O Indra, you who are the chief among the gods worthy of sacrifice, be gracious and come.
+
+##### English translation
+Unirascible (Indra), come to the sacrifice : the effused juices are purified for you : they flow, thunderer, (into the pitchers), as cows go to their stalls : come, Indra, the first of those who are to be worshipped.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॑ का॒कुत्सुकृ॑ता॒ या वरि॑ष्ठा॒ यया॒ शश्व॒त्पिब॑सि॒ मध्व॑  ॒
+> ऊर्मिं ।  
+> तया॑ पाहि॒ प्र ते॑ अध्व॒र्युर॑स्था॒त्सं ते॒ वज्रो॑ वर्ततामिंद्र  ॒
+> गव्युः ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 81. Ṛk 3 end, Ṛk 4-5 of Sūkta 39, Sūkta 40 Ṛk 1-2 (pp. 76-81)
+**Progress note:** Done through printed p. 87. Sūkta 40 Ṛk 2 end, Ṛk 3-5; Sūkta 41 Ṛk 1-2 begin (pp. 82-87)
