@@ -23450,6 +23450,233 @@ there is a prayer that the rivers Sarasvatī, Sarayu and Sindhu may come with th
 
 Rasā: there must have been a well-known river called Rasā, or there is reason also to conjecture that the Sindhu, the river famous now, had this name. It was famous as a divine river, and once, when the water of this river dried up for some reason, the Aśvin deities by their power
 
+### Printed p. 644
+
+filled it with water, this story is told in the Ṛk Ṛ. Saṃ. 1-112-12, where the qualities of the Aśvin deities are described.
+
+अत्रेतिहासमाचक्षते । पणिभिरसुरैरपह्रियमाणा गा अनुगच्छंतः देवगोपाला रसां नामांतरिक्षनदीमगाधोदकां नोत्तरितुं शेकुः । तद्ज्ञात्वा देवाः संक्रुद्धाः रसां शेपुः निरुदका भवेति । सा प्रत्यनीतासु गोषु अश्विनौ परिचचार । तामश्विन् गत्वा पुनरगाधोदकां चक्रतुरिति ॥ (*atretihāsamācakṣate | paṇibhirasurairapahriyamāṇā gā anugacchaṃtaḥ devagopālā rasāṃ nāmāṃtarikṣanadīmagādhodakāṃ nottarituṃ śekuḥ | tadjñātvā devāḥ saṃkruddhāḥ rasāṃ śepuḥ nirudakā bhaveti | sā pratyanītāsu goṣu aśvinau paricacāra | tāmaśvin gatvā punaragādhodakāṃ cakraturiti ‖*)
+
+When the asuras called Paṇis carried off the cows of the gods, the divine cowherds followed that track and pursued the asuras; on the way a river called Rasā, belonging to the atmosphere and filled with an unfathomable flood of water, lay across their path, and they were not able to cross it. When the gods learned of this, they were angry and cursed the river to become dry. At once all the water of that river dried up. After the cows had been driven back, the river Rasā prayed to the Aśvin deities, and they came and filled that river with abundant water. This story Skandasvāmin has explained in his commentary. Sāyaṇa's explanation is slightly different. His explanation is:
+
+रसा नदी भवति रसतेः शब्दकर्मण इति यास्कः । नि. ११-२५ । हे अश्विनौ याभिरूतिभिर्हेतुभूताभी रसां नदीमनावृष्ट्या जलरहितां क्षोदसा कूलानि संपिंषतोद्न उदकेन पिपिन्वथुः युवां पूरितवंतौ ॥ (*rasā nadī bhavati rasateḥ śabdakarmaṇa iti yāskaḥ | ni. 11-25 | he aśvinau yābhirūtibhirhetubhūtābhī rasāṃ nadīmanāvṛṣṭyā jalarahitāṃ kṣodasā kūlāni saṃpiṃṣatodna udakena pipinvathuḥ yuvāṃ pūritavaṃtau ‖*) (Sā. Bhā.)
+
+Accepting the derivation of the Nirukta-writers that the word Rasā is formed from the root ras, which gives the sense "make a sound",**NOTE** he says that the water of a river flows swiftly and therefore makes a noise, and for that reason this river is named Rasā. But he has said that the cause of the drying up of the water of this river was the failure of rain. In some places it is said that the water of this river was of unfathomable flood and impossible to cross.
+
+कास्मेहितिः का परितक्त्वासीत्कथं रसाया आतरः पयांसि । (*kāsmehitiḥ kā paritaktvāsītkathaṃ rasāyā ātaraḥ payāṃsi |*) (Ṛ. Saṃ. 10-108-1)
+
+In the past the Paṇis carried off the cows of the gods and hid them, unknown to anyone, in the cave of a mountain.
+
+### Printed p. 645
+
+At the prayer of the gods, Indra sent Saramā, the divine bitch (the female dog of the world of the gods), to find the place where the cows were hidden. She travelled a very long way, crossed forests and wilds, passed over many rivers, and at last came to the place where the Paṇis were. Then an interesting conversation took place between the Paṇis and Saramā on the matter of giving the cows back to the gods. In it the Paṇis question Saramā: how did you cross the river Rasā, with its unfathomable flood of water, when you came here? Therefore it can be said that the river Rasā was full of an unfathomable flood of water. Besides these contexts, in the Ṛk
+
+सिषक्तु माता मही रसा नः स्मत्सूरिभिर्ऋजुहस्त ऋजुवनिः । (*siṣaktu mātā mahī rasā naḥ smatsūribhirṛjuhasta ṛjuvaniḥ |*) (Ṛ. Saṃ. 5-41-15)
+
+the word Rasā is used. When he gives the meaning of this Ṛk, Sāyaṇa has said रसा सारभूता भूमिः (*rasā sārabhūtā bhūmiḥ*), "Rasā is the earth that is the essence"; but since in this Ṛk the word "let her moisten" occurs, there is room for the conjecture that the word Rasā may denote precisely the river called Rasā. And in the Ṛks Ṛ. Saṃ. 4-43-6; 10-75.6; 10-121.4; 5.53.9; 7-72.13 and others the name of the river Rasā is indicated.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वः॒ शर्धं॒ रथा॑नां त्वे॒षं ग॒णं मारु॑तं॒ नव्य॑सीनां ।  
+> अनु॒ प्र यं॑ति वृ॒ष्टयः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । शर्धं । रथानां । त्वेसं । गणं । मारुतं । नव्यसीनां ।  
+> अनु । प्र । यंति । नृस्टयः ॥ १० ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं मारुतमित्यनेन संबध्यते । वो युष्माकं प्रेरकं नव्यसीनां नूतनानां रथानां शर्धं बलं त्वेषं दीप्तं तं मारुतं गणं च सौमीत्यर्थः । यद्वा।
+> रथानां रंहणशीलानां वो युष्माकं शर्धं परेषामभिभावुकं गणं सौमीत्येकमेव वाक्यं । अथ परोक्षकृतः । वृष्टयो युष्माननु प्र यंति । प्रकर्षण
+> गच्छंति । यद्वा वर्षका मरुतोऽनु अनुकूलं प्रकृष्टं यंति । गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The word "that" is to be connected with "of the Maruts". "Your" means "of you": I praise the impelling strength of your new chariots, the brilliant strength, and that troop of the Maruts.**NOTE** Or else: the chariots are swift-moving; of you, with these, I praise the strength that overpowers others, and the troop; this is one single sentence. Then the speech turns to the third person: the rains follow after you, they go forth vigorously. Or else: the rain-bringing Maruts go forth in accordance with their wish, favourably and excellently.
+
+### Printed p. 646
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- नव्यसीनां (*navyasīnāṃ*)—of the new
+- रथानां (*rathānāṃ*)—chariots
+- शर्धं (*śardhaṃ*)—the strength
+- त्वेषं (*tveṣaṃ*)—the brilliance
+- तं मारुतं गणं (*taṃ mārutaṃ gaṇaṃ*)—that renowned troop of the Maruts (I praise)
+- वृष्टयः (*vṛṣṭayaḥ*)—the rains
+- अनु प्र यंति (*anu pra yaṃti*)—move about according to the wish of the Maruts
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, I praise the strength of your new chariots, their brilliance, and the renowned troop of the Maruts. The rains move about according to the wish of the Maruts.
+
+##### English translation
+I praise that brilliant company of the Maruts, who have your strength of recent chariots, you whom the rains attend.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शर्धं॑शर्धं न एषां॒ व्रातं॑व्रातं ग॒णंग॑णं सुश॒स्तिभिः॑ ।  
+> अनु॑ क्रामेम धी॒तिभिः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शर्धं शर्धं । वः । एषां । व्रातं व्रातं । गण्यगणं । सुशस्तिभिः ।  
+> अनु । क्रामेम । धीतिभिः ॥ ११ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुत एषां वो युष्माकं शर्धं शर्धं तत्तद्बलं व्रातं व्रातं ।
+> अनिवक्षितगणो व्रातः । तं तं व्रातं वो गणं गणं तं तं सप्तसप्तसमुदायात्मकं
+> गणं गणं च सुशस्तिभिः शोभनस्तुतिभिर्धीतिभिः कर्मभिर्हविप्पदानादिलक्षणैरनु
+> क्रामेम । अनुगच्छेम ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, of you, each strength, that is each particular strength; and each troop. A troop is a group of unspecified number; each such troop, and each company, that is each company made up of seven and seven: all these we follow, with good praises and with rites, which have the nature of offering oblations and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां वः (*eṣāṃ vaḥ*)—of you, the renowned (O Maruts)
+- शर्धंशर्धं (*śardhaṃśardhaṃ*)—each individual strength
+- व्रातंव्रातं (*vrātaṃvrātaṃ*)—each troop defined by its strength
+
+### Printed p. 647
+
+- गणंगणं (*gaṇaṃgaṇaṃ*)—each individual company, divided into groups of seven
+- सुशस्तिभिः (*suśastibhiḥ*)—accompanied by excellent praises
+- धीतिभिः (*dhītibhiḥ*)—by rites such as the offering of oblations
+- अनु क्रामेम (*anu krāmema*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, we worship your renowned individual strength, the troop defined by its strength, and the individual company divided into groups of seven, with rites such as the offering of oblations, accompanied by excellent praises.
+
+##### English translation
+Let us wait with sacred praises and holy rites upon your several strength, and separate troop, and individual company.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्मा॑ अ॒द्य सुजा॑ताय रा॒तह॑व्याय॒ प्र य॑युः ।  
+> ए॒ना यामे॑न म॒रुतः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कस्यै । अद्य । सुजाताय । रातहव्याय । प्र । ययुः ।  
+> एना । यामेन । मरुतः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्दिसे कस्यॆ सुजातायरातहन्याय दत्तहविष्काय प्र ययुः प्रकर्षेण गच्छॆयुरेनानेन यामेन रथेन मरुतः ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day, to which well-born giver of oblations, one who has offered the oblation, would the Maruts go forth, that is would go vigorously, by this chariot?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—on this day of the sacrifice
+- मरुतः (*marutaḥ*)—the Maruts
+- एना यामेन (*enā yāmena*)—seated in this chariot
+- सुजाताय (*sujātāya*)—who is of excellent birth
+- रातहव्याय (*rātahavyāya*)—who has offered the oblation
+- कस्यै (*kasyai*)—to which sacrificer
+- प्र ययुः (*pra yayuḥ*)—have they set out?
+
+### Printed p. 648
+
+##### भावार्थ (Bhāvārtha)
+
+On this day of the sacrifice, the Maruts, seated in this chariot, have set out to which sacrificer, of excellent birth, who has offered the oblation?
+
+##### English translation
+To what well-born and oblation-giving (worshipper) will the Maruts proceed to-day in this their car ?
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॑ तो॒काय॒ तन॑याय धा॒न्यं१॒॑ बीजं॒ वह॑ध्व॒ अक्षि॑तं ।  
+> अ॒स्मभ्यं॒ तद्ध॑त्तन॒ यद्व॒ ईम॑हे॒ राधो॑ वि॒श्वायु॒ सौभ॑गं ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । तोकाय । तनयाय । धान्यं । बीजं । वहध्वै । अक्षितं ।  
+> अस्मभ्यं । तत् । धत्तन । यत् । वः । ईमहे । राधः । विश्वआयु । सौभगं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो येन सदयेन मनसा तोकाय पुत्राय तनयाय तत्पुत्राय
+> धनाय वा धान्यं बीजमक्षितमक्षीणं वहद्वे धारयद्वे तेन चित्तेनास्मभ्यं
+> तद्धान्यं बीजं धत्तन । यच्च वो युष्मानीमहे याचामहे राधो धनं विश्वायु
+> सर्वान्नोपेतं कृत्स्नायुष्योपेतं वा सौभगं सौभाग्यं च तद्धत्तनेति समन्वयः॥
+
+##### Gist of the bhāṣya
+
+O Maruts, with whatever compassionate mind you hold imperishable grain-seed for a son, for a grandson (or for wealth), with that mind give us that grain-seed. And the wealth that we ask of you, which is full of all food or full of a complete lifetime, and good fortune: give that also. Such is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- वयं (*vayaṃ*)—we
+- विश्वायु (*viśvāyu*)—lasting for the whole span of life
+- सौभगं (*saubhagaṃ*)—auspicious
+- राधः (*rādhaḥ*)—wealth
+- वः (*vaḥ*)—from you
+- ई महे (*ī mahe*)—we pray (and therefore)
+- येन (*yena*)—with which compassionate mind
+- तोकाय (*tokāya*)—for the son
+- तनयाय (*tanayāya*)—for the grandson
+- अक्षितं (*akṣitaṃ*)—that is free from decay
+- धान्यं (*dhānyaṃ*)—that has the nature of grain
+- बीजं (*bījaṃ*)—the seed (to distribute)
+- वहद्वे (*vahadve*)—you hold
+- तत् (*tat*)—that very thing
+- अस्मभ्यं (*asmabhyaṃ*)—give to us also
+
+### Printed p. 649
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, we also ask of you wealth that will last as long as the span of our life and that is auspicious. For that reason, with the same compassionate mind with which you hold imperishable seed, in the nature of grain, to distribute to a son and a grandson, share out that same grain to us also with that same compassionate mind.
+
+##### English translation
+With the same (goodwill) that you bestow imperishable grain-seed upon a son or grandson, bestow it upon us, for we ask of you life-sustaining and auspicious wealth.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अती॑याम नि॒दस्ति॒रः स्व॒स्तिभि॑र्हि॒त्वाव॒द्यमरा॑तीः ।  
+> वृ॒ष्टि शं योराप॑ उ॒स्रि भे॑ष॒जं स्याम॑ मरुतः स॒ह ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । इयाम । निदः । तिरः । स्वस्तिभिः । हित्वा । अवद्यं । अरातीः ।  
+> वृष्टि । शं । योः । आपः । उस्रि । भेषजं । स्याम । मरुतः । सह ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वयं स्वस्तिभिः क्षेमैरवद्यं पापं हित्वा परित्यज्य निदो निंदकानरातीः शत्रून् तिरः प्राप्तान् । यद्वा तिरोऽंतर्हितं । अतीयाम । अतिक्रम्य
+> गच्छेम । तिरस्कुर्म इत्यर्थः । अनेनानिष्टपरिहारः प्रार्थित उत्तरेणेष्टप्राप्तिरुच्यते । वृष्टि सृष्टिषु युष्मत्प्रेरितासु सतीषु शं सुखं योः पापानां
+> यावनं चाप उदकानि ॥ शसः स्थाने जस् ॥ उसि गोयुक्तं भेषजं । यद्यप्येतदुदकनाम तथापि पृथगपामभिधानादत्र तद्देतुकार्यमन्नमुच्यते । तत्
+> सर्वं सह स्याम लभेमहि हे मरुतो वयं । यद्वा । आपो युष्मत्प्रेरिता
+> उक्तं सर्वं कुर्वंतु । वयं सर्वे सहैव स्याम । भवेम युष्मत्स्वभूताः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, we, abandoning sin through blessings of welfare, may pass beyond the revilers, the enemies who have come near; or else the word for "across" means "concealed", and the sense is that we may overcome them. By this the removal of what is unwelcome is prayed for; by what follows the attainment of what is desired is stated. When the rains impelled by you are present, may there be happiness, and the warding off of sins; and the waters, the word for waters here standing in the nominative plural by substitution. The remedy is that which is connected with cows. Although this word is a name for water, since the waters are named separately, the food produced by them is meant here. May we obtain all that together, O Maruts. Or else: may the waters impelled by you do all that has been said, and may we all be together, as your own.**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 643. Ṛks 6-9 of Sūkta 53 (kośa, rivers Sarayu and Rasā)
+**Progress note:** Done through printed p. 649. Sukta 53: Rasa/Sarama notes, Rks 10-14
