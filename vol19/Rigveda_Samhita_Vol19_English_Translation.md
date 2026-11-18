@@ -16426,6 +16426,259 @@ Here Agni is addressed, but since the goddess Gnā is to be invoked, the deity o
 - बृहतीं (*bṛhatīṃ*)—grown
 - ऋतज्ञां (*ṛtajñāṃ*)—knowing the nature of the sacrifice**NOTE**
 
+### Printed p. 441
+
+- ग्नां देवीं (*gnāṃ devīṃ*)—the goddess named Gnā
+- मधोः (*madhoḥ*)—of the sweet
+- मदाय (*madāya*)—for the gain of exhilaration (of the drinking of Soma)
+- देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*)—by the paths on which the gods travel
+- नः आ आ वह (*naḥ ā ā vaha*)—bring facing us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, having the same regard towards us, bring facing us, by the paths on which the gods travel, the goddess named Gnā, who is great, all-pervading, joined with praise, one to whom oblation has been offered, grown, and knowing the nature of the sacrifice, for the gain of the exhilaration of drinking the sweet Soma.
+
+##### English translation
+Agni, being well pleased with us, bring to us, by paths frequented by the gods, the divine (female) Gna mighty and omnipresent, to whom oblations are offered with reverence, who is vast and cognizant of rites, to partake of the exhilaration of the sweet Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒जंति॒ यं प्र॒थयं॑तो॒ न विप्रा॑ व॒पावं॑तं॒ नाग्निना॒ तपं॑तः।  
+> पि॒तुर्न पु॒त्र उ॒पसि॒ प्रेष्ठ॒ आ घ॒र्मो अ॒ग्निमृ॒तय॑न्नसादि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंजंति । यं । प्रथयंतः । न । विप्राः । वपावंतं । न । अग्निना । तपंतः ।  
+> पितुः । न । पुत्रः । उपसि । प्रेष्ठः । आ । घर्मः । अग्निं । ऋतयन् । असादि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ग्ये महावीरेऽज्यमानेऽंजंति यमित्येषा । सूत्रितं च । अंजंति यं
+> प्रथयंतो न विप्रा इत्यज्यमाने । आ. ४-६ । इति ॥
+> यं घर्म० महावीरं प्रथयंतो न ॥ नेति संप्रत्यर्थीयः । अस्तु पमार्थस्य संप्रत्यर्थे प्रयोगः ॥ इदानीं प्रथयंतो विप्रा मेधाविन ऋत्विजोऽध्व-
+
+##### Gist of the bhāṣya
+
+This Ṛk beginning अंजंति यं (*aṃjaṃti yaṃ*) is used in the Pravargya, when the Mahāvīra (the vessel) is being anointed. The sūtra says so: "अंजंति यं प्रथयंतो न विप्रा इत्यज्यमाने (*aṃjaṃti yaṃ prathayaṃto na viprā ityajyamāne*)" (Ā. 4-6). "Yam" means the Gharma, the Mahāvīra. Sāyaṇa then speaks of the particle "na", saying that it is used in the sense of "now" (the text here is damaged and he adds a remark on its use in comparison). Now the priests, the Adhvaryu and others, the "viprāḥ", wise ones, are spreading (the Gharma) **NOTE**.
+
+### Printed p. 442
+
+> र्य्वादयो वपावंतं न ॥ वपावंतं प्रवृद्धं पशुं यथाग्नौ तपंति तद्वदग्नि ना
+> तपंतोंजंति । पितुर्न पुत्र उपसि प्रेष्ठः पितुरुपस्थे प्रियतमः पुत्र इव घर्मो
+> महावीरः । यद्भ्र इत्यपतत्तद्धर्मस्य घर्मत्वं। तै. ऐ. ५.१.५. । इति हि श्रुतिः । स
+> ऋतयन्यज्ञमिच्छन्नग्निमग्नावासादि । आसादितः । अत्र पितृपुत्रदृष्टांतः स्फोटादिराहित्येन सुखवासप्रख्यापनार्थः ॥
+
+##### Gist of the bhāṣya
+
+"Vapāvantam na": as men roast over fire a fully fed animal, so the priests, heating the Gharma with fire, anoint it. "Pitur na putra upasi preṣṭhaḥ": the Gharma, the Mahāvīra, is like the dearest son in the lap of his father. A Śruti says: "यद्भ्र इत्यपतत्तद्धर्मस्य घर्मत्वं। (*yadbhra ityapatattaddharmasya gharmatvaṃ|*)" (Tai. Ai. 5.1.5) **NOTE**. He glosses "ṛtayan" as desiring the sacrifice, and says that the Gharma has been seated in the fire. The example of father and son here is meant to declare that it sits there comfortably, free from the danger of bursting and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वपावंतं न (*vapāvaṃtaṃ na*)—as an animal with excellent fat, rich in marrow, is cooked in the fire
+- विप्राः (*viprāḥ*)—the priests
+- यं (*yaṃ*)—which Gharma vessel
+- अग्निना (*agninā*)—with fire
+- तपंतः (*tapaṃtaḥ*)—heating
+- प्रथयंतो न (*prathayaṃto na*)—as if making it known
+- अंजंति (*aṃjaṃti*)—they adorn with ghee and other unguents
+- घर्मः (*gharmaḥ*)—that same Gharma vessel (the Mahāvīra)
+- प्रेष्ठः (*preṣṭhaḥ*)—dearest
+- पुत्रः (*putraḥ*)—son
+- पितुः (*pituḥ*)—of the father
+- उपसि न (*upasi na*)—as he sits lovingly on the lap
+- ऋतयन् (*ṛtayan*)—desiring the performance of the sacrifice
+- अग्निं (*agniṃ*)—in the fire
+- आ असादि (*ā asādi*)—is seated comfortably (without fear of bursting)
+
+##### भावार्थ (Bhāvārtha)
+
+The vessel of Gharma, which the priests adorn with ghee and other unguents in order to cook it in the fire, as one cooks an animal with excellent fat, rich in marrow, sits in the fire comfortably, without fear of bursting, desiring the performance of the sacrifice, like a dearest son sitting lovingly on the lap of his father.
+
+##### English translation
+The vessel which the priests, celebrating (it), supply with butter, as if roasting a marrow-yielding animal with fire, has been placed, desirous of the sacrifice, upon the fire, like a son upon the lap of his father.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Pravargya, at the time of the rite called Mahāvīra, this Ṛk beginning अंजंति यं (*aṃjaṃti yaṃ*) is to be recited. This is set out by the aphorism of the Āśvalāyana Śrauta Sūtra, "अंजंति यं प्रथयंतो न विप्रा इत्यज्यमाने (*aṃjaṃti yaṃ prathayaṃto na viprā ityajyamāne*)" (Ā. 4.6).
+
+### Printed p. 443
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ म॒ही बृ॑ह॒ती शंत॑मा॒ गीर्दू॒तो न गं॑त्व॒श्विना॑  ॒॑
+> हुवध्यै ।  
+> म॒यो॒भुवा॑ स॒रथा या॑तम॒र्वाग्गं॒तं नि॒धिं धुर॑मा॒णिर्न  ॑
+> नाभिं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । मही । बृहती । शंतमा । गीः । दूतः । न । गंतु । अश्विना । हुवध्यै ।  
+> मयःऽभुवा । सृरथा । आ । यातं । अर्वाक् । गंतं । निधिं । धुरं । आणिः । न ।  
+> नाभिं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अच्छाभिमुखमश्विनाश्विन् हुवध्या आह्वातुं गीरस्मदीया स्तुतिर्दूतो न
+> दूत इवाह्वातेव गंतु । गच्छतु । गीर्विशेष्यते । मही पूज्या बृहती महती
+> शंतमा सुखतमा । हे अश्विनौ मयोभुवा सुखस्य भावयितारौ सरथैकरथौ संतौ
+> निधिं निहितं सोमनुरागभिमुखं यातं । गच्छतं । धुरं भारवाहिकां नाभिमाणिर्न
+> कील इव । यथा निष्कीला नाभी रथं न निर्वहति तद्वत् युवाभ्यां वियुक्तः
+> सोमो यागं न निर्वहतीति ज्ञापयितुमेवं दृष्टांतितं ॥
+
+##### Gist of the bhāṣya
+
+"Acchā" means towards; "huvadhyai" means to invite; he addresses the Aśvins. Our praise (gīḥ), like a messenger, is to go towards them. The praise is described: "mahī", worthy of worship; "bṛhatī", great; "śantamā", most happy-making. "Mayobhuvā" means the two who cause happiness; "sarathā", the two being in one chariot; they are to come towards the Soma that has been deposited **NOTE**. "Dhuram" means the burden-bearing nave; "āṇir na" means like a linch-pin (kīla): just as a nave without a linch-pin does not carry the chariot, so Soma separated from the two of you does not carry the sacrifice through; the comparison is made to make this known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—worthy of worship
+- बृहती (*bṛhatī*)—great
+- शंतमा (*śaṃtamā*)—most happiness-giving
+- गीः (*gīḥ*)—our praise
+- अश्विना (*aśvinā*)—the Aśvin gods
+- हुवध्यै (*huvadhyai*)—to call
+- दूतो न (*dūto na*)—like a messenger
+- अच्छ (*accha*)—towards them
+- गंतु (*gaṃtu*)—let it go (O Aśvin gods)
+- धुरं (*dhuraṃ*)—bearing the burden
+- नाभिं (*nābhiṃ*)—to the nave at the centre of the wheel
+- आणिः न (*āṇiḥ na*)—as the very important pin is there (so you, most important to the sacrifice)
+- गंतं (*gaṃtaṃ*)—come
+- मयोभुवा (*mayobhuvā*)—being givers of happiness
+- सरथा (*sarathā*)—(you) seated in the same chariot
+- निधिं (*nidhiṃ*)—to the Soma placed here
+- अर्वाक् (*arvāk*)—facing
+- आ यातं (*ā yātaṃ*)—be gracious to come
+
+### Printed p. 444
+
+##### भावार्थ (Bhāvārtha)
+
+May our praise, which is worthy of worship, great and most happiness-giving, go like a messenger towards the Aśvin gods to call them. O Aśvin gods, as the very important pin is at the nave of the wheel that bears the burden, so you, most important to the sacrifice, come. Be gracious to come, being givers of happiness to us and seated in the same chariot, towards the Soma placed here.
+
+##### English translation
+May this adoring, earnest, and gratifying praise go like a messenger to summon the Aswins hither: come, Aswins, givers of happiness, riding in one chariot, come down to the deposited (Soma), as the bolt (is essential) to the axle of the waggon.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तव्य॑सो॒ नम॑उक्तिं तु॒रस्सा॒हं पू॒ष्णउ॒त वा॒योर॑दिक्षि ।  
+> या राध॑सा चोदि॒तारा॑ मती॒नां या वाज॑स्य द्रविणो॒दा ॒ 
+> उत त्मन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तव्यसः । नमःउक्तिं । तुरस्य । अहं । पूष्णति । उत । वायो । अदिक्षि ।  
+> या । राधसा । चोदितारा । मतीनां । या । वाजस्य । द्रविण्ऽदौ । उत । त्मन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमृषिस्तव्यसः प्रकृष्टबलस्य तुरस्य त्वरमाणस्य पूष्णः पोषकस्य देवस्य ।
+> उक्तगुणकाय देवाय उतापि च वायोरुक्तलक्षणाय च नमउक्तिं नम इति
+> वचनं स्तोत्रं प्रादिक्षि । प्रदिशामि । या यौ पूषवायू राधसा हविर्लक्षणेन
+> निमित्तेन मतीनां चोदितारा प्रेरयितारौ । यद्वा । राधसेति षष्ठ्यर्थे तृतीया ।
+
+##### Gist of the bhāṣya
+
+I, the seer, offer ("pra adikṣi") a hymn of homage, a "namas" utterance, to Pūṣan, the nourisher, who is "tavyas", of surpassing strength, and "turas", hastening, and to Vāyu of the said nature. The two, Pūṣan and Vāyu, by "rādhas", that is by the means of the oblation, are inciters of thoughts. Or else: "rādhasā" has the third case in the sense of the sixth,
+
+### Printed p. 445
+
+> राधसो धनस्य मतीनां च चोदयितारौ । यौ च वाजस्यान्नस्य संग्रामस्य ना
+> चोदयितारौ तौ देवावुतापि च त्मनात्मन्यनन्यप्रेरणायैव द्रवीणोदौ भवतमिति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+so that they are the inciters of wealth and of thoughts; and those who incite food ("vāja") and battle, may those two gods also be, by their own impulse and without being urged by another, givers of wealth: "may you be" is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—those Pūṣan and Vāyu who both
+- राधसा (*rādhasā*)—by reason of the food in the form of oblation
+- मतीनां (*matīnāṃ*)—of minds full of desire
+- चोदितारा (*coditārā*)—are the inciters
+- या (*yā*)—who
+- वाजस्य (*vājasya*)—of food (are the inciters)
+- उत (*uta*)—and moreover
+- त्मन् (*tman*)—by their own impulse alone
+- द्रविणोदौ (*draviṇodau*)—are givers of wealth
+- तव्यसः (*tavyasaḥ*)—of surpassing strength
+- तुरस्य (*turasya*)—of swift going
+- पूष्णः उत वायोः (*pūṣṇaḥ uta vāyoḥ*)—addressed to the god Pūṣan and the god Vāyu
+- नमउक्तिं (*namauktiṃ*)—praise accompanied by homage
+- अहं (*ahaṃ*)—I
+- प्र अदिक्षि (*pra adikṣi*)—offer in abundance
+
+##### भावार्थ (Bhāvārtha)
+
+I offer in abundance praise accompanied by homage, addressed to the god Pūṣan and the god Vāyu, who are of surpassing strength and of swift going: the two who, by reason of food in the form of oblation, are inciters of minds full of desire, who are inciters of food, and who moreover are, by their own impulse alone, givers of wealth.
+
+##### English translation
+I offer adoration to the powerful and rapid Pushan, and to (the powerful and rapid) Vayu, who are both instigators of the desire of wealth and of food, (who are both) distributors of riches.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नाम॑भिर्म॒रुतो॑ वक्षि॒ विश्वा॒ना रू॒पेभि॑र्जातवेदो  ॒
+> हुवानः ।  
+> य॒ज्ञं गिरो॑ जरि॒तुः सु॑ष्टु॒तिं च॒ विश्वे॑ गंत मरुतो॒ विश्व॑  ॒
+> ऊती ॥ १० ॥
+
+### Printed p. 446
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नामभिः । मरुतः । वक्षि । विश्वान् । आ । रूपेभिः । जातवेदः । हुवानः ।  
+> यज्ञं । गिरः । जरितुः । सुस्तुतिं । च । विश्वे । गंत । मरुतः । विश्वे । ऊती ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञाग्ने हुवानोऽस्माभिराहूयमानः सन् विश्वान्मरुतः सर्वानपि स्तोत्रभाजो हविर्भाजश्च देवान् नामभिरिंद्रवरुणेत्यादिलक्षणैरा
+> वक्षि । आवहसि । रूपेभिः सहस्राक्षवज्रहस्तत्वादिलक्षणै रूपैरा वक्षि । वहसि यज्ञं ।
+> किंच हे मरुतो विश्वे सर्वे यूयं यज्ञमस्मदीयं यज्ञसंबंधि हनिर्वा
+> जरितुः स्तोतुः संबंधिनीर्गिरः स्तुतिवचांसि सुष्टुतिं तत्साध्यां शोभनफलां स्तुतिं
+> च ॥ अवयविन्याः स्तुतेरेकत्वादेकवचनं । अवयवानां बहुत्वादृहुवचनं ॥
+> उक्ते यज्ञस्तुती अभिलक्ष्य गंत । आगच्छत । विश्वे च यूयमूती ऊत्या रक्षया
+> च सह गंत ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni of born knowledge, being invoked by us, bring all the Maruts, that is all the gods who share in praise and in oblation, by their names such as Indra and Varuṇa, and bring them by their forms, such as being thousand-eyed or thunderbolt-handed; bring also the sacrifice. Further, O Maruts, all of you come to our sacrifice, or to the oblation connected with the sacrifice, to the "giraḥ", the words of praise belonging to the worshipper ("jaritṛ"), and to the good praise ("suṣṭuti") which they bring about, whose fruit is auspicious. The praise as a whole is one, hence the singular; its parts are many, hence the plural. Keeping in view the sacrifice and the praises just stated, come; and all of you come together with "ūtī", that is with protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, of born knowledge
+- हुवानः (*huvānaḥ*)—being entreated by us
+- विश्वान् (*viśvān*)—all
+- मरुतः (*marutaḥ*)—the Maruts
+- नामभिः (*nāmabhiḥ*)—by their several personal names
+- आ वक्षि (*ā vakṣi*)—bring
+- रूपेभिः (*rūpebhiḥ*)—also by their several personal forms
+- आ (*ā*) (the verb वक्षि (*vakṣi*) understood)—bring
+- मरुतः (*marutaḥ*)—O Maruts
+- विश्वे (*viśve*)—all of you
+- यज्ञं (*yajñaṃ*)—towards our sacrifice
+- जरितुः (*jarituḥ*)—of the worshipper
+- सुष्टुतिं (*suṣṭutiṃ*)—in the form of excellent praise
+- गिरः (*giraḥ*)—towards the words
+- गंत (*gaṃta*)—be gracious to come
+- विश्वे (*viśve*)—all of you
+- ऊती (*ūtī*)—with all your protections (be gracious to come)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the nature of Jātavedas, being entreated by us, bring all the Maruts by their several personal names and by their several forms. O Maruts, all of you, together with all your protections, be gracious to come here, towards our sacrifice and having regard to the excellent praises.
+
+##### English translation
+Bring hither Jatavedas, who are invoked by us all, the Maruts, under their several names and forms : come, all you Maruts, with all your protect-ing faculties, to the sacrifice, the praises, and the adoration of the worshipper.
+
 ---
 
-**Progress note:** Done through printed p. 440. Ṛk 2 end, Ṛk 3-5, Ṛk 6 start (Sūkta 43), pp. 435-440
+**Progress note:** Done through printed p. 446. Mandala 5 sukta 43 Rks 7-10, pp. 441-446
