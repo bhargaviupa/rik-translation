@@ -11805,6 +11805,243 @@ In this Ṛk there is a description of Indra's wife following Indra, sitting wit
 
 The block gives only a word-by-word line of the second half of the Ṛk, with the number 4, and no explanation by Sāyaṇa. **NOTE**
 
+### Printed p. 298
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स राजा न व्यथते । व्यथितो न भवति । यस्मिन्राजनि तदीये यज्ञ इंद्रस्तीव्रं मदजनकं सोमं पिबति गोसखायं । विकारे प्रकृतिशब्दः क्षीरादिमिश्रणवंतं । स राजा सत्वनैः सत्वभिरनुचरैरा सर्वतोजति । गच्छति । हुति च वृत्रं पापं
+> वैरिणं वा । क्षेति गच्छति क्षितीः प्रजाः । अथवा क्षितीर्निवासान्निवसते । सुभगः
+> शोभनसुखो नाम नामकं धनमिंद्रस्य स्तोत्रं वा पुष्यन् पोषयन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: That king is not afflicted; he does not become troubled, in whose realm, that is, in whose sacrifice, Indra drinks the sharp, intoxicating Soma. The word *gosakhāyam* is a case of using the name of the original substance for its product: it means Soma mixed with milk and the like. That king, with his *satvans*, that is, with his attendants, goes about everywhere. He also destroys Vṛtra, that is, sin, or else the enemy. He dwells among the *kṣitīḥ*, the subjects; or else *kṣitīḥ* are dwellings, and he dwells in dwellings. *Subhaga* means one of fair happiness; *nāma* means the name, that is, wealth, or a hymn of praise of Indra; *puṣyan* means nourishing it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in whose sacrifice, that of which king
+- इंद्रः (*iṃdraḥ*)—Indra
+- तीव्रं (*tīvraṃ*)—intoxicating
+- गोसखायं (*gosakhāyaṃ*)—mixed with milk
+- सोमं (*somaṃ*)—the Soma juice
+- पिबति (*pibati*)—drinks
+- स राजा (*sa rājā*)—that king
+- न व्यथते (*na vyathate*)—does not become afflicted
+- सत्वनैः (*satvanaiḥ*)—with his attendants
+- आ (*ā*)—all around (fearlessly)
+- अजति (*ajati*)—can move about
+- वृत्रं (*vṛtraṃ*)—the enemy
+- हुति (*huti*)—destroys
+- सुभगः (*subhagaḥ*)—enjoying excellent happiness
+- नाम (*nāma*)—the name of Indra
+- पुष्यन् (*puṣyan*)—praising
+- क्षितीः (*kṣitīḥ*)—his subjects
+- क्षेति (*kṣeti*)—makes them dwell happily
+
+##### भावार्थ (Bhāvārtha)
+
+The king in whose sacrifice Indra drinks the intoxicating Soma juice mixed with milk is not afflicted. With his attendants he can move about everywhere without fear of enemies. He destroys his enemies. And while he himself enjoys excellent happiness, praising the divine names of Indra, he also carries on the government in such a way that his subjects live well.
+
+##### English translation
+That prince suffers no evil in whose realm Indra drinks the sharp Soma juice mixed with milk : attended by faithful (followers), he moves (in all directions) : he destroys his enemy, he protects his subjects : enjoying prosperity, he cherishes the name of (Indra).
+
+##### विशेषविषयगळु (Special Topics)
+
+गोसखायं (*gosakhāyaṃ*)—क्षीरादिमिश्रणवंतं (*kṣīrādimiśraṇavaṃtaṃ*). Here the word *go* is used to denote milk. The meaning is Soma juice mixed with milk. There is also the practice of purifying the Soma juice and drinking it just so, without mixing anything with it; such Soma is called *tīvra*. And in order to make the Soma juice tasty, substances such as milk, curds and flour are mixed with it. These
+
+### Printed p. 299
+
+substances are called *āśira* substances. Soma juice mixed with milk is called *gavāśira*, Soma juice mixed with curds *dadhyāśira*, and Soma juice mixed with flour *yavāśira*. In the present Ṛk it is stated that Indra drinks the Soma juice mixed with milk, called *gavāśira*.
+
+The fruits that come to the sacrificer who performs the sacrifice when Indra is satisfied by the drinking of Soma are described in this Ṛk. The king in whose sacrifice Indra, invited and arrived, drinks the Soma juice offered by the priests so as to be satisfied, suffers no kind of sorrow. Many attendants, servants and others, resort to him. He overcomes his enemies in battle, enjoys many kinds of happiness, and protects his subjects so that they live happily. Thus the greatness of Indra's Soma-drinking is described in this Ṛk.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुष्प्या॒त् क्षेमे॑ अ॒भि योगे॑ भवात्यु॒भे वृत्॑ संय॒ुती सं  ॑
+> जयाति ।  
+> प्रि॒यः सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वाति॒ य इंद्रा॑य सु॒तसो॑मो॒ ददा॑शत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुष्यात् । क्षेमे । अभि । योगे । भवाति । उभे इति । वृतौ । संयती इति संयती । सं । जयाति ।  
+> प्रियः । सूर्ये । प्रियः । अग्ना । भवाति । यः । इंद्राय । सुतसोमः ।  
+> ददाशत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुष्यात् पोषयेद्बंध्वादीन् । क्षेमे प्राप्तस्य धनस्य रक्षणे योगेऽलब्धस्य
+> प्राप्ता चाभि भवाति । भवति । अभीत्यनर्थको धात्वर्थानुवादी वा । प्रभुर्भवती-
+
+### Printed p. 300
+
+> त्यर्थः । तथोभे वृत् वर्तमाने संयती नियते अहोरात्रे सं जयाति ।
+> सम्यक् जयति । ते सुखकरे स्यातामित्यर्थः । किंच स प्रियो भवति सूर्ये तथाग्नाग्नौ प्रियो भवति य इंद्राय सुतसोमो ददाशत् सोमं ददाति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: *Puṣyāt* means that he would nourish his kinsmen and others. *Kṣeme* means in the protection of wealth already obtained; *yoge* means in the acquiring of what has not been obtained; he becomes (*abhi bhavāti* means *bhavati*; the word *abhi* is either without meaning or repeats the sense of the root) the master of both; this is the meaning, that he becomes lord. Likewise he conquers well the two, day and night, which are present and regulated; the meaning is that they would be happy for him. Further, he who gives Soma to Indra, that is, offers the pressed Soma, becomes dear in the sun and likewise dear in Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—whoever
+- सुतसोमः (*sutasomaḥ*)—pressing out Soma juice
+- इंद्राय (*iṃdrāya*)—for Indra
+- ददाशत् (*dadāśat*)—offers it (he)
+- पुष्यात् (*puṣyāt*)—nourishes (his kinsmen and friends)
+- क्षेमे (*kṣeme*)—in the protection of wealth
+- योगे (*yoge*)—in the obtaining of new wealth
+- अभि भवाति (*abhi bhavāti*)—becomes capable
+- उभे वृता (*ubhe vṛtā*)—in the past, present and future (always) **NOTE**
+- संयुती (*saṃyutī*)—in day and night of regulated course
+- सं जयाति (*saṃ jayāti*)—wins complete victory
+- सूर्ये (*sūrye*)—to the sun
+- प्रियः भवति (*priyaḥ bhavati*)—becomes dear
+- अग्ना (*agnā*)—to Agni
+- प्रियः (*priyaḥ*)—becomes dear
+
+##### भावार्थ (Bhāvārtha)
+
+Whoever presses out Soma juice and offers it to Indra nourishes his kinsmen and friends. He becomes capable of protecting the wealth he has and of obtaining new wealth. In the past, the future and the present, and in the days and nights of regulated course, he wins complete victory. He becomes dear to the sun and to Agni.
+
+##### English translation
+He cherishes (his kin) ; he (reigns) in welfare and prosperity ; he is victorious in present and continuous ( time ) : dear is he to the sun, dear to Agni, who, with prepared libation, offers it to Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+As said in the previous Ṛk, in this Ṛk too the great nature of Indra's Soma-drinking and the fruits that come from it are described. But here no particular person is indicated by the word king. It can apply to any man who performs a sacrifice.
+
+### Printed p. 301
+
+## Sūkta 38 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरोष्ट इति पंचर्चं षष्ठं सूक्तमत्रेरार्षमानुष्टुभमैंद्रं । उरोरानुष्टुभमित्यनुक्रांतं ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sixth sūkta, उरोष्ट इति (*uroṣṭa iti*), has five ṛks; its seer is Atri, its metre is Anuṣṭubh and its deity is Indra. The Anukramaṇikā says: उरोरानुष्टुभमित्यनुक्रांतं (*urorānuṣṭubhamityanukrāṃtaṃ*). The use in ritual is laiṅgika.
+
+Translation of the Anuvāda: This sūkta, उरोष्टे (*uroṣṭe*), is the sixth sūkta in the third anuvāka. There are five ṛks in it. The seer of this sūkta is Atri; Indra is the deity; the metre is Anuṣṭubh. In the Anukramaṇikā it is said: उरोरानुष्टुभं (*urorānuṣṭubhaṃ*). The use in ritual is laiṅgika.
+
+Sūkta: Khila. **NOTE**
+
+Maṇḍala 5, Anuvāka 3, Sūkta 38.
+
+Aṣṭaka 4, Adhyāya 2, Varga 9.
+
+Number of Ṛks in the sūkta: 5.
+
+Seer: Atri.
+
+Deity: Indra.
+
+Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रोष्ट॑ इंद्र॒ राध॑सो वि॒भ्वी रा॒तिः श॑तक्रतो ।  
+> अधा॑ नो विश्वचर्षणे द्यु॒म्ना सु॑क्षत्र मंहय ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरोः । ते । इंद्र । राधसः । विभ्वीरातिः । शतक्रतो इति शतक्रतो ।  
+> अध । नः । विश्वचर्षणे । द्युम्ना । सुक्षत्र । मंहय ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शतक्रतो बहुकर्मन् ते तवोरोः प्रभूतस्य राधसो धनस्य
+> रातिर्दानं विभ्वी महती । अधातः कारणात् नोऽस्मभ्यं हे विश्वचर्षणे सर्वॆस्य
+
+### Printed p. 302
+
+> द्रष्टः सुक्षत्र शोभनधनेंद्र । क्षत्रमिति धननाम । द्युम्ना द्युम्नानि धनानि मंहय ।
+> प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra of a hundred acts, that is, of many deeds, the gift of your abundant wealth is great. For that reason, to us, O all-seeing one, O Indra of excellent wealth (*kṣatra* is a name for wealth), bestow riches (*dyumna* means wealth); *mamhaya* means give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O doer of many deeds
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- उरोः (*uroḥ*)—abundant
+- राधसः (*rādhasaḥ*)—of wealth
+- रातिः (*rātiḥ*)—the gift
+- विभ्वी (*vibhvī*)—exceedingly great
+- अध (*adha*)—therefore
+- विश्वचर्षषे (*viśvacarṣaṣe*)—all-beholder
+- सुकृत्र (*sukṛtra*)—possessor of excellent wealth, O Indra
+- नः (*naḥ*)—to us
+- द्युम्ना (*dyumnā*)—the wealth of riches
+- मंहय (*maṃhaya*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds, the gift of your abundant wealth is of great glory. Therefore, O Indra, all-beholder and possessor of excellent wealth, bestow wealth and riches upon us.
+
+##### English translation
+Indra of many exploits, liberal is the distribution of your abundant riches: therefore, all-beholder, possessor of excellent wealth, bestow upon us opulence.
+
+##### विशेषविषयगळु (Special Topics)
+
+शतक्रतो (*śatakrato*)—बहुकर्मन् (*bahukarman*). One who has done many deeds; that is, one who has done many daring deeds that cannot be done by anyone else, such as the slaying of Vṛtra. Such is the intention. Here the word *śata* must be understood as "many". The word *kratu* means deed, a daring act. A daring act that can be done by the use of strength, valour and courage is called *kratu*, and because Indra has done many such deeds, the calling of Indra also by the word *śatakratu* is specially in use in the Ṛgveda.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदी॑मिंद्र श्र॒वाय्य॒मिषं॑ शविष्ठ दधि॒षे ।  
+> प॒प्र॒थे दी॑र्घ॒श्रुत्त॑मं॒ हिर॑ण्यवर्ण दु॒ष्टरं॑ ॥ २ ॥
+
+### Printed p. 303
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईं । इंद्र । श्रवाय्यं । इषं । शविष्ठ । दधिषे ।  
+> पप्रथे । दीर्घश्रुत्तमं । हिरण्यवर्ण । दुस्तरं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शविष्ठ अतिशयेन बलवन् यदिषमन्नं श्रवाय्यं श्रवणीयमीं
+> सर्वतो दधिषे धारयसि ददासि ना ॥ इषशब्दो नपुंसकलिंगोऽप्यस्ति ॥ हे हिरण्यवर्णेंद्र तदन्नं पप्रथे । प्रथते । कथं । दीर्घश्रुत्तममतिदूरश्रवणीयतमं ।
+> सर्वत्र कीर्त्यमित्यर्थः । दुष्टरमनभिभाव्यमुक्तलक्षणं प्रथते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, O most mighty, the food (*iṣa*) that is *śravāyya*, that is, worthy of being heard, you hold on all sides and give. The word *iṣa* also occurs in the neuter gender. **NOTE** O golden-hued Indra, that food spreads. How? Most widely heard, that is, to be celebrated everywhere. It spreads as unconquerable, having the stated character.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—most mighty
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—even if
+- श्रवाय्यं (*śravāyyaṃ*)—exceedingly well known
+- इषं (*iṣaṃ*)—food
+- ईं (*īṃ*)—everywhere
+- दधिषे (*dadhiṣe*)—you hold
+- हिरण्यवर्ण (*hiraṇyavarṇa*)—O Indra of golden-coloured form
+- दुष्टरं (*duṣṭaraṃ*)—that to obtain that food is very difficult
+- दीर्घश्रुत्थमं (*dīrghaśrutthamaṃ*)—so as to be heard everywhere
+- पप्रथे (*paprathe*)—it is renowned
+
+##### भावार्थ (Bhāvārtha)
+
+O most mighty Indra, it is known to everyone that you hold food that is very well known and abundant. Yet, O golden-hued Indra, it is so renowned as to be heard everywhere that obtaining that food is a very laborious task.
+
+##### English translation
+Although, most mighty Indra, you possess well-known abundance (of food), yet golden-hued (deity) it is most notoriously reported as difficult (to be procured).
+
+##### विशेषविषयगळु (Special Topics)
+
+ईं (*īṃ*)—The word *īm* is well known as a particle (*nipāta*). On this word Yāska says: अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति ॥ (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti ‖*) (Ni. 1-9)
+
 ---
 
-**Progress note:** Done through printed p. 297. Sūkta 37 Ṛks 1-4 (start), pp. 292-297
+**Progress note:** Done through printed p. 303. Sūkta 37 Ṛks 4-5 end, Sūkta 38 Ṛks 1-2, pp. 298-303
