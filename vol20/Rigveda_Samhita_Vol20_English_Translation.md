@@ -21900,6 +21900,272 @@ The rite of Agni-churning has been explained at length in the special topics of 
 
 O Adhvaryus, cause the Agni who has been born, who has appeared, to be established; he is dear like a guest (the word of comparison is omitted here). Therefore he is the lord of the houses. Establish him in the Āhavanīya fire, the comfortable one, which is the Agni of born wisdom. The word "śiśīta" means "make to lie down, establish"; or else it means "make to go, cause to reach"; or else it means "sharpen, prepare, cast in". The words "jāta itaro jātavedā itaraḥ" and the Brāhmaṇa passage that begins with them (Ai. Brā. 1-16) are to be considered here.
 
+### Printed p. 639
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus)
+- जातं (*jātaṃ*)—the one who has arisen
+- अतिथिः (*atithiḥ*)—like a guest
+- प्रियं (*priyaṃ*)—the beneficent one
+- गृहपतिं (*gṛhapatiṃ*)—the protector of the house, Agni
+- जातवेदसि (*jātavedasi*)—the support of knowledge
+- स्कोने (*skone*)—in the Āhavanīya, which is comfortable
+- आ शिशीत (*ā śiśīta*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, establish Agni, who has arisen, who like a guest is beneficent, who is the protector of the house, in the Āhavanīya, which is the support of knowledge and comfortable.
+
+##### English translation
+(Welcome him) as soon as born, like a beloved guest, and place the lord of the mansion upon the sacred (altar) whence wisdom is derived.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the special application and the explanation of this Ṛk, see the last part of the description of the rite called Agni-manthana (kindling of fire by friction) in the special topics of the 41st Ṛk of this same sūkta.
+
+#### Ṛk 43
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ यु॒क्षाव हि ये तानाश्वा॑सो देव सा॒धवः॑ ।  
+> अरं॒ वहं॑ति म॒न्यवे॑ ॥ ४३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । युक्ष । हि । ये । तव । आश्वासः । देव । साधवः ।  
+> आरं । वहंति । मन्यवे ॥ ४३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमानाग्ने तानश्वान्युष्ट । आत्मीये रथे योजय । ये तव
+> त्वदीयाः साधवः साधकाः सुशीला वाश्वासोऽश्वा अरमलं पर्याप्तं वहंति ।
+> किमर्थं । मन्यवे । मन्यते यष्टव्यत्वेन देवानत्रेति मन्युर्यागः । तदर्थं
+> तानश्वान्रथे युक्त्यर्थः । हि खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the shining Agni: harness to your own chariot those horses. The horses that are yours are "sādhavaḥ", that is, accomplishing or of good disposition, and they carry sufficiently ("aram" is "alam", enough). For what purpose? मन्यवे (*manyave*): "manyu" means the sacrifice, because here the gods are thought of as to be sacrificed to; for that sacrifice the horses are to be harnessed to the chariot. "Hi" means "indeed".
+
+### Printed p. 640
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O one of divine nature
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- साधवः (*sādhavaḥ*)—of good disposition
+- ये (*ye*)—which
+- अश्वासः (*aśvāsaḥ*)—horses
+- अरं (*araṃ*)—comfortably
+- वहंति (*vahaṃti*)—carry (those horses)
+- मन्यवे (*manyave*)—for the sake of the sacrifice
+- युक्षु (*yukṣu*)—join to the chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of divine nature, join to the chariot, for the sake of the sacrifice, those horses of yours, of good disposition, which carry you comfortably, so that you may come.
+
+##### English translation
+Harness, divine Agni, your well-trained horses; they bear you quickly to the sacrifice.
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ नो या॒ह्या व॑हा॒भि प्रयां॑सि वी॒तये॑ ।  
+> आ दे॒वान्सोम॑पीतये ॥ ४४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । नः । याहि । आ । वह । अभि । प्रयांसि । वीतये ।  
+> आ । देवान् । सोमपीतये ॥ ४४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मानच्छाभिमुख्येन याहि । आगच्छ । तथा प्रयांसि हविर्लक्ष
+> णान्यन्नान्यभिलक्ष्य देवाना वह । किमर्थं । वीतये तेषां हविषां स्वादनार्थं ।
+> तथा सोमपीतये सोमपानार्थं च तान्देवाना वह ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come to us, facing us. Likewise, having in view the foods in the form of oblations ("prayāṃsi"), bring the gods. For what purpose? वीतये (*vītaye*): for the enjoyment of those oblations. And likewise bring those gods for the drinking of Soma, सोमपीतये (*somapītaye*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni)
+- नः (*naḥ*)—to us
+- अच्छ (*accha*)—facing
+- याहि (*yāhi*)—graciously come
+- वीतये (*vītaye*)—for the eating of the oblations
+- प्रयांसि (*prayāṃsi*)—facing the oblations
+- देवान् (*devān*)—the gods
+- आ वह (*ā vaha*)—bring
+- सोमपीतये (*somapītaye*)—for the drinking of Soma as well
+- आ (*ā*)—bring them
+
+### Printed p. 641
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, graciously come to us, facing us. For the eating of the oblations, bring the gods, facing the oblations. For the drinking of Soma as well, bring them.
+
+##### English translation
+Come, Agni, to our presence ; bring hither the gods to partake of the (srcrificial) viands, to drink the Soma juice.
+
+#### Ṛk 45
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑ग्ने भारत द्यु॒मदज॑स्रेण॒ दवि॑द्युतत् ।  
+> शोचा॒ वि भा॑ह्यजर ॥ ४५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अग्ने । भारत । द्युमत् । अजस्रेण । दविद्युतत् ।  
+> शोचॆ । वि । भाहि । अजर ॥ ४५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भारत हविषां भर्तरग्न उच्चोच । उद्दततरं दीप्यस्व। तदेव विवृणोति।
+> हे अजर जरारहिताग्ने दविद्युतत् भृशं द्योतमानस्त्वं द्युमत् द्युमता दीप्तिमता ॥ सुपां सुलुगिति तृतीयाया लुक् ॥ अजस्रेणाविच्छेदेन तेजसा वि भाहि ।
+> विशेषेण प्रकाशस्व ॥ यद्वा । भातिरत्रांतर्णीतण्यर्थः ॥ त्वं प्रथममुद्दीप्यस्व
+> पश्चादात्मीयेन तेजसा सर्वं जगत्पकाशयेति योजनीयं ॥
+
+##### Gist of the bhāṣya
+
+O Bhārata, bearer of the oblations, Agni, blaze up; shine higher. He explains this: O ageless Agni, you who are shining greatly, shine forth specially with a brilliance that is radiant (the instrumental ending is dropped), unceasing and uninterrupted. Or else the root "bhā" here has a causative sense: first blaze up, and afterwards illumine the whole world with your own brilliance; so it is to be construed. The word दविद्युतत् (*davidyutat*) is explained by him as "shining intensely".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भारत (*bhārata*)—bearer of the oblation
+- अग्ने (*agne*)—O Agni
+- उत् शोच (*ut śoca*)—shine exceedingly
+- अजर (*ajara*)—O imperishable Agni
+- दविद्युतत् (*davidyutat*)—being exceedingly radiant
+- द्युमत् (*dyumat*)—the luminous
+- अजस्रेण (*ajasreṇa*)—with the brilliance that is unceasing
+- वि भाहि (*vi bhāhi*)—shine forth exceedingly
+
+### Printed p. 642
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bearer of the oblation, shine exceedingly. O imperishable Agni, being exceedingly radiant, shine forth exceedingly with brilliance that is luminous and unceasing.
+
+##### English translation
+Blaze up, Agni, bearer of oblations : shine, undecaying Agni, radiant with undecaying lustre.
+
+#### Ṛk 46
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒ती यो दे॒वं मर्तो॑ दुव॒स्येद॒ग्निमा॑ळीताध्व॒रे  ॒॑
+> ह॒विष्मा॑न् ।  
+> होता॑रं सत्य॒यजं॒ रोद॑स्योरुत्ता॒नह॑स्तो॒ नम॒सा वि॑वासेत् ॥ ४६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीती । यः । देवं । मर्तः । दुवस्येत् । आग्निं । ईळीत । अध्वरे । हविष्मान् ।  
+> होतारं । सत्ययजं । रोदस्योः । उत्तानहस्तः । नमसा । आ । विवासेत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्तो मनुष्यो हविष्मान्हविर्भियुक्तो यजमानो वीती वीत्या
+> कांतेन हविर्लक्षणेनान्नेन यं कंचन देवं दुवस्यॆत् परिचरेत् तस्मिन्नध्वरे
+> यज्ञेऽग्निमाळीत । स्तुवीत । सर्वेषु यागेष्वग्निः पूज्यत इत्यर्थः । कीदृशमग्निं ।
+> रोदस्योर्द्यावापृथिव्योर्लोकद्वये वर्तमानानां होतारमाह्वातारं सत्ययजं सत्येनावितथेन हविषा यष्टारं । किंचायं यजमान ईदृशमग्निमुत्तानहस्तः कृतांजलिपुटः सन् नमसा नमस्कारेण हविषा वा आ विवासेत् । परिचरेत् ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, who is "havismān", provided with oblations, the sacrificer, who with desired food in the form of oblation worships some deity or other, should in that sacrifice also praise Agni; that is, in all sacrifices Agni is honoured. What kind of Agni? The caller of those who dwell in the two worlds, heaven and earth ("rodasyoḥ"), and the one who sacrifices with a true, unfailing oblation. Further, this sacrificer, standing with uplifted hands, his hands folded in salutation, should attend upon such an Agni with reverence or with an oblation ("ā vivāset" means "should serve").
+
+### Printed p. 643
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- मर्तः (*martaḥ*)—man
+- हविष्मान् (*haviṣmān*)—possessing oblation
+- वीती (*vītī*)—with the oblation
+- देवं (*devaṃ*)—any deity
+- दुवस्येत् (*duvasyet*)—worships
+- अध्वरे (*adhvare*)—at that same time of the sacrifice that sacrificer
+- रोदस्योः (*rodasyoḥ*)—to heaven and earth
+- होतारं (*hotāraṃ*)—the one who gives the invocation
+- सत्ययुजं (*satyayujaṃ*)—the one who performs the sacrifice whose nature is truth
+- अग्निं (*agniṃ*)—Agni
+- ईळीत (*īḷīta*)—should praise
+- उत्तानहस्तः (*uttānahastaḥ*)—raising the folded hands upward
+- नमसा (*namasā*)—with salutation
+- आ विवासेत् (*ā vivāset*)—should attend upon
+
+##### भावार्थ (Bhāvārtha)
+
+Whichever man, possessing oblation, worships whichever deity with the oblation, as an auxiliary to that, at that time of the sacrifice he should also praise Agni, who gives the invocation to heaven and earth and who performs the sacrifice whose nature is truth. Raising the folded hands upward, he should attend upon him with salutation.
+
+##### English translation
+Whatever mortal, offering oblations, worships a deity with (sacrificial) food, let him at the ceremony also worship Agni, the invoker of heaven and earth, the sacrificer with truth; let him adore (Agni) with uplifted hands.
+
+#### Ṛk 47
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ अग्न ऋ॒चा ह॒विर्हृ॒दा त॒प्पं भ॑रामसि ।  
+> ते ते॑ भवंतू॒क्षण॑ ऋष॒भासो॑ व॒शा उ॒त ॥ ४७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । अग्ने । ऋचा । हविः । हृदा । तप्पं । भरामसि ।  
+> ते । ते । भवंतु । उक्षणः । ऋषभासः । वशाः । उत ॥ ४७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयाध्ययनं प्रशस्यत इत्याश्वलायनो मन्यते । गृ. १-१-५ । हे अग्ने ते
+> तुभ्यं हृदा हृदयेन तप्पं संस्कृतमृचा ऋग्रूपेण वर्तमानं हविर्यचमेव
+
+### Printed p. 644
+
+> हविः कृत्वा आ भरामसि । आहरामः । त इति तच्छब्देन प्रकृतमृग्रूपं हविः परामृश्यते । प्रतिनिर्दिश्यमानापेक्षया पुंस्त्वबहुत्वे । ऋग्रूपं तद्धविस्ते तुभ्यमुक्षण
+> उक्षाणः सेचनसमर्था ऋषभास ऋषभा उतापि च वशाश्च भवंतु । ऋषभवशारूपेण परिणतं सत् त्वद्भक्षणाय भवत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Āśvalāyana holds that by this Ṛk the study of the Veda is praised (Gṛ. 1-1-5).**NOTE** O Agni, we bring to you, with the heart, the oblation तप्पं (*tappaṃ*), that is, prepared, which exists in the form of the Ṛk; making the Ṛk itself the oblation, we bring it.**NOTE** By the word "te" ("that") the oblation in Ṛk form under discussion is referred to, its masculine gender and plural number being by regard to what it is pointed back to. That oblation in Ṛk form, for you, let it become bulls ("ukṣaṇaḥ", able to sprinkle), "ṛṣabhāsaḥ" (bulls) and also "vaśāḥ" (cows). The rest is to be supplied thus: having been transformed into the form of bulls and cows, let it be for your eating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—directed to you
+- हृदा (*hṛdā*)—wholeheartedly
+- तष्टं (*taṣṭaṃ*)—the prepared
+- ऋचा (*ṛcā*)—and in the form of the Ṛk
+- हविः (*haviḥ*)—the oblation
+- आ भरामसि (*ā bharāmasi*)—we offer (this very oblation)
+- ते (*te*)—to you
+- उक्षणः (*ukṣaṇaḥ*)—possessing the power of sprinkling
+- ऋषभासः (*ṛṣabhāsaḥ*)—as bulls
+- वशाः (*vaśāḥ*)—as cows
+- भवंतु (*bhavaṃtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we offer to you wholeheartedly the well-prepared oblation that is in the form of the Ṛk. May this very oblation be for you like bulls that have the power of sprinkling, strong, and like cows that supply the ghee and the like fit for oblation.
+
+##### English translation
+We offer to you, Agni, the oblation sanctified by the heart, and (identified) with the sacred verse : may the vigorous bulls and the cows be (as such an oblation) to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is the view of the great sage Āśvalāyana that the praise of the study of the Veda is stated in this Ṛk of this sūkta (Ā. Gṛ. 1-1-5).**NOTE** It is the opinion of the great sage Āśvalāyana, the author of the Śrauta and Gṛhya Sūtras and others, that in order that the study of the Veda may succeed, one should meditate on Agni alone in the mind with this Ṛk and offer oblations of ghee and the like in the fire, and that Agni is thereby satisfied.
+
+#### Ṛk 48
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं दे॒वासो॑ अग्रि॒यमिं॒धते॑ वृत्र॒हंत॑मं ।  
+> येना॒ वसू॒न्याभृ॑ता तृ॒ळ्हा रक्षां॑सि वा॒जिना॑ ॥ ४८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 638. Ṛk 40 special topics (Agni-churning rite), Ṛk 41 and 42 with bhāṣya
+**Progress note:** Done through printed p. 644. Ṛk 42 end, Ṛk 43-47, start of Ṛk 48 of Sūkta 16
