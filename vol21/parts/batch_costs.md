@@ -6,4 +6,5 @@
 | through p. 75 (pp. 57-62, 63-69, 70-75) | sonnet | 22 | 171246 | 6.3 |
 | through p. 94 (pp. 76-81, 82-87, 88-94) | sonnet | 18 | 184703 | 6.1 |
 | through p. 114 (pp. 95-100, 101-106, 107-114) | sonnet | 14 | 161387 | 4.6 |
-| through p. 135 (pp. 115-120, 121-128, 129-135) | sonnet | n/a | pending | - |
+| through p. 135 (pp. 115-120, 121-128, 129-135) | sonnet | 17 | 175976 | 5.0 |
+| through p. 156 (pp. 136-142, 143-148, 149-156) | sonnet | n/a | pending | - |
