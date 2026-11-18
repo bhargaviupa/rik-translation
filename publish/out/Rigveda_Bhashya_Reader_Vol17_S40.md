@@ -13,7 +13,9 @@
 
 The second sūkta, beginning इंद्र त्वा (*iṃdra tvā*), nine Ṛks, is Vaiśvāmitra (seer Viśvāmitra), its metre Gāyatrī, its deity Indra. The Anukramaṇī agrees: इंद्र त्वा गायत्रं हीति (*iṃdra tvā gāyatraṃ hīti*). In the Agniṣṭoma, at the morning pressing, the Brāhmaṇācchaṃsin recites this sūkta as his śastra. The sūtra says: इंद्र त्वा वृषभमुद्देवभीति तिस्रः (*iṃdra tvā vṛṣabhamuddevabhīti tisraḥ*) (Ā. Sū. 5-10). The first Ṛk is the prasthita-yājyā of the Brāhmaṇācchaṃsin at the morning pressing; the sūtra says: इंद्र त्वा वृषभं मरुतो यस्य (*iṃdra tvā vṛṣabhaṃ maruto yasya*) (Ā. Sū. 5-5).**NOTE**
 
-*Om. Sūkta 40. Maṇḍala 3. Anuvāka 4. Sūkta 40. Aṣṭaka 3. Adhyāya 3. Vargas 1, 2. Number of Ṛks in the sūkta: 9. Seer: Viśvāmitra. Deity: Indra. Metre: Gāyatrī.*
+#### Particulars
+
+Om. Sūkta 40. Maṇḍala 3. Anuvāka 4. Sūkta 40. Aṣṭaka 3. Adhyāya 3. Vargas 1, 2. Number of Ṛks in the sūkta: 9. Seer: Viśvāmitra. Deity: Indra. Metre: Gāyatrī.
 
 ### Ṛk 1
 
