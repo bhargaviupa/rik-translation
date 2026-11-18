@@ -7195,6 +7195,272 @@ Nothing impairs the sovereignty of this Savitri, which is most especially renown
 
 He, indeed, Savitṛ Bhaga, the adorable god, gives, that is, sends and bestows, jewels, delightful riches, on me, the giver of oblation. That god's share, the adorable one, the wonderful wealth, चायनीयं (*cāyanīyaṃ*), to be gathered, we ask for; we beg.
 
+### Printed p. 192
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भगः (*bhagaḥ*)—the adorable one
+- स हि सविता (*sa hi savitā*)—that same god Savitṛ
+- दाशुषे (*dāśuṣe*)—to the sacrificer, the giver of oblation
+- रत्नानि (*ratnāni*)—delightful riches
+- सुवाति (*suvāti*)—gives
+- चित्रं (*citraṃ*)—attractive
+- तं भागं (*taṃ bhāgaṃ*)—a share of that wealth (that praiseworthy wealth)
+- ईमहे (*īmahe*)—we desire and pray for
+
+##### भावार्थ (Bhāvārtha)
+
+The adorable Savitṛ gives delightful riches to the sacrificer who is the giver of oblation. We desire and pray for that wealth, which is attractive and worthy of worship.
+
+##### English translation
+That savitri, who is Bhaga,bestows precious treasure on the donor
+of the offering: we solicit (of him) a valuable portion.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्या नो॑ देव सवितः प्र॒जाव॑त्सावीः॒ सौभ॑गं ।  
+> परा दुःष्वप्नं सुव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्य । नः । देव । सवितरिति । प्रजावत् । सावीः । सौभगं ।  
+> परा । दुःस्वप्नं । सुव ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्या न इति चतुर्थीपंचमीभ्याममनोज्ञस्वप्नदर्शने प्रत्यृचं जुहुयात् । अद्या नो देव सवितरिति द्वाभ्यां । आ, गृ. ३-६-६ । इति सूत्रितं ॥
+> हे सवितर्देव नोऽस्मभ्यमध्यासि न्यागदिने प्रजावत्पुत्राद्युपेतं सौभगं
+> धनं सावीः । प्रेरय । दुष्स्वप्नं दुःस्वप्नं दुःस्वप्नवद्दुःखकरं दारिद्रं परासुव
+> दूरे प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa states the ritual use: when an unpleasant dream has been seen, one should offer oblation with each Ṛk, with the fourth and the fifth Ṛk, as the Gṛhya-sūtra ordains: अद्या नो देव सवितरिति द्वाभ्यां (*adyā no deva savitariti dvābhyāṃ*) (Ā. Gṛ. 3-6-6). He then explains the verse. O god Savitṛ, to us, today, in this sacrificial day, send wealth, सौभगं (*saubhagaṃ*), that is endowed with offspring, sons and the like. Send far away the bad dream, दुःस्वप्नं (*duḥsvapnaṃ*), that is, poverty, which is painful like a bad dream. **NOTE**
+
+### Printed p. 193
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—adorable
+- सवितः (*savitaḥ*)—O god Savitṛ
+- अद्य (*adya*)—on this sacrificial day
+- नः (*naḥ*)—to us
+- प्रजावत् (*prajāvat*)—endowed with sons and the like
+- सौभगं (*saubhagaṃ*)—wealth
+- सावीः (*sāvīḥ*)—provide
+- दुःस्वप्नं (*duḥsvapnaṃ*)—the troubles such as poverty, painful like a bad dream
+- परा सुव (*parā suva*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O adorable god Savitṛ, provide us in this sacrifice with wealth endowed with sons and the like. Drive far away the troubles such as poverty, which are painful like a bad dream.
+
+##### English translation
+Grant us to-day, divine Savitri, affluence with progeny, and drive away evil dreams.
+
+##### विशेषविषयगळु (Special Topics)
+
+When a bad dream (a nightmare) has occurred, for the removal of its evil one should offer oblation of ghee in the fire with this Ṛk beginning अद्या नः (*adyā naḥ*) and with the next Ṛk beginning विश्वानि देव (*viśvāni deva*). This is set forth by the sūtra of the Āśvalāyana Gṛhya-sūtra, अद्या नो देव सवितरिति द्वाभ्यां (*adyā no deva savitariti dvābhyāṃ*) (Ā. Gṛ. 3-6-6).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑नि देव सवितर्दुरि॒तानि॒ परा॑ सुव ।  
+> यद्भ॒द्रं तन्न॒ आ सु॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वानि । देव । सवितः । दुःइतानि । परा । सुव ।  
+> यत् । भद्रं । तत् । नः । आ । सुव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितर्देव त्वं विश्वानि दुरितानि परा सुव । यद्भद्रं प्रजापशुगृहादिकं
+> तन्नोऽस्मभ्यमा सुव । अस्मदभिमुखं प्रेरय । प्रजा पै भद्रं पशवो भद्रं गृहं
+> भद्रमिति हि श्रुतिः ॥
+
+##### Gist of the bhāṣya
+
+O god Savitṛ, drive away all evils, दुरितानि (*duritāni*). Whatever is auspicious, भद्रं (*bhadraṃ*), such as offspring, cattle and house, that bring to us, आ सुव (*ā suva*), that is, send it towards us. For the scripture says that offspring is auspicious, cattle are auspicious, the house is auspicious: प्रजा पै भद्रं पशवो भद्रं गृहं भद्रमिति हि श्रुतिः ॥ (*prajā pai bhadraṃ paśavo bhadraṃ gṛhaṃ bhadramiti hi śrutiḥ ‖*) **GLOSS**
+
+### Printed p. 194
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—adorable
+- सवितः (*savitaḥ*)—O Savitṛ
+- विश्वानि (*viśvāni*)—all
+- दुरितानि (*duritāni*)—sins (misfortunes)
+- परा सुव (*parā suva*)—drive far away and destroy
+- नः (*naḥ*)—to us
+- यत् (*yat*)—whatever
+- भद्रं (*bhadraṃ*)—is auspicious
+- तत् (*tat*)—that
+- आ सुव (*ā suva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O adorable Savitṛ, drive far away and destroy all our sins and misfortunes. Provide us with whatever is auspicious for us.
+
+##### English translation
+Remove from us, divine Savitri, all misfortunes : bestow upon us
+that which is good.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अना॑गसो॒ अदि॑तये दे॒वस्य॑ सवि॒तुः स॒वे ।  
+> विश्वा॑ ना॒मानि॑ धीमहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनागसः । अदितये । देवस्य । सवितुः । सवे '  
+> विश्वा । नामानि । धीमहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमनुष्ठातारः सवितुः प्रेरकस्य देवस्य सवेऽनुज्ञायां सत्यामदितयेऽखंडनीयायै देव्यै भूम्या अनागसः स्याम । अनपराधिनो भवेम ।
+> भूम्यां हि पापाः संभवंति । असगतेष्वागःसु विश्वा सर्वाणि वानीयानि
+> धनानि धीमहि । धारयाम ॥
+
+##### Gist of the bhāṣya
+
+We, the performers, when Savitṛ the impelling god gives his sanction, may be free from offence, अनागसः (*anāgasaḥ*), that is, without fault, towards Aditi, the indivisible goddess, who is the Earth; for it is on the earth that sins arise. **NOTE** We hold, धीमहि (*dhīmahi*), that is, we bear, all desirable riches.
+
+### Printed p. 195
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine
+- सवितुः (*savituḥ*)—of Savitṛ
+- सवे (*save*)—obedient to the command
+- वयं (*vayaṃ*)—we
+- आदितये (*āditaye*)—in regard to the goddess Aditi
+- अनागसः (*anāgasaḥ*)—let us be free from sin
+- विश्वा (*viśvā*)—all
+- वामानि (*vāmāni*)—also the desired riches
+- धीमहि (*dhīmahi*)—let us obtain
+
+##### भावार्थ (Bhāvārtha)
+
+Being obedient to the command of the divine Savitṛ, may we be free from sin in regard to the goddess Aditi. May we obtain all the desired riches.
+
+##### English translation
+Let us be void of offence towards Aditi, according to the will of the divine Savitri: may we be possessed of all-desired (riches).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वि॒श्वदे॑वं॒ सत्प॑तिं सू॒क्तैर॒द्या वृ॑णीमहे ।  
+> सत्यसनं सवितारं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । विश्वदेवं । सर्पपतिं । सुउक्तैः । अद्य । वृणेमहे ।  
+> सत्यसवं । सवितारं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्मास्येषु वैश्वदेवे पर्वणि सावित्रस्य द्वादशकपालस्या विश्वदेवमित्यनुवाक्या । सूत्रितं च । आ विश्वदेवं सत्पतिं वाममद्य सवितः । आ. २-१६ । इति ॥
+> प्रायणीय एषैव सवितुरनुवाक्या । सूत्रितं च । आ विश्वदेवं सत्पतिं य इमा विश्वा
+> जातानि । आ. ४ ३ । इति ॥ देवसुवां हविष्वेष्टैव सवितुरनुवाक्या । सूत्रितं च । आ
+> विश्वदेवं सत्पतिं न प्रमिये सवितुर्द्वैव्यस्य तत् । आ. ४-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives the ritual use in three places. In the Cāturmāsya sacrifice, at the Vaiśvadeva parvan, this Ṛk, beginning आ विश्वदेवं (*ā viśvadevaṃ*), is the anuvākyā for the oblation to Savitṛ on twelve potsherds; the sūtra says so (Ā. 2-16). In the Prāyaṇīya offering this same Ṛk is the anuvākyā to Savitṛ; the sūtra says so (Ā. 4 3). **NOTE** In the offering of the oblations called Devasū this same Ṛk is again the anuvākyā to Savitṛ; the sūtra says so (Ā. 4-11).
+
+### Printed p. 196
+
+> विश्वदेवं । विश्वे देवा यस्य वशे भवंति तं तादृशं । तं हि सर्वात्मत्वादिंद्रं
+> मित्रं वरुणमग्निमाहुरित्यादिश्रुतेरितरेषां तद्विभूतित्वात् । सत्पतिं सतामनुष्ठात्याणां पालकं सत्यसवं सत्यानुज्ञं सवितारं देवमद्यास्मिन्यागदिने सूक्तैरावृणीमहे । संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+विश्वदेवं (*viśvadevaṃ*): he under whose control all the gods stand, such a one. He is all-pervading and the self of all; for the scripture says that they call him Indra, Mitra, Varuṇa, Agni, and so on, the others being his manifestations. सत्पतिं (*satpatiṃ*): the protector of the good, of those who perform the rites. सत्यसवं (*satyasavaṃ*): whose sanction is true. We today, on this sacrificial day, choose and serve the god Savitṛ with hymns, सूक्तैः (*sūktaiḥ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वदेवं (*viśvadevaṃ*)—who is the inner controller in all the gods
+- सत्पतिं (*satpatiṃ*)—the protector of the good
+- सत्यसवं (*satyasavaṃ*)—who has a regulation of the nature of truth
+- सवितारं (*savitāraṃ*)—the god Savitṛ
+- अद्य (*adya*)—on this day of the sacrifice
+- सूक्तैः (*sūktaiḥ*)—with excellent praises
+- आ वृणीमहे (*ā vṛṇīmahe*)—we praise and worship
+
+##### भावार्थ (Bhāvārtha)
+
+I praise and worship the god Savitṛ, who is the inner controller in all the gods, the protector of the good, and who has a regulation of the nature of truth, on this day of the sacrifice, with excellent praises.
+
+##### English translation
+We glorify to-day with hymns Savitri, the protector of the good,
+the observer of truth, (identical with) all the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Cāturmāsya, in the Vaiśvadeva parvan, in the oblation on twelve potsherds made with Savitṛ as the deity, this Ṛk beginning आ विश्वदेवं (*ā viśvadevaṃ*) is to be recited as the anuvākyā mantra; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra आ विश्वदेवं सत्पतिं वाममद्य सवितः (*ā viśvadevaṃ satpatiṃ vāmamadya savitaḥ*) (Ā. 2-16). In the Prāyaṇīya offering also, in the oblation made with Savitṛ as the deity, this same Ṛk is to be recited as the anuvākyā mantra; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra आ विश्वदेवं सत्पतिं य इमा विश्वा जातानि (*ā viśvadevaṃ satpatiṃ ya imā viśvā jātāni*) (Ā. 4-3). And in the oblations called Devasū, in the oblation made to Savitṛ as the deity, this Ṛk is to be recited as the anuvākyā mantra; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra आ विश्वदेवं सत्पतिं न प्रमिये सवितुर्दैव्यस्य तत् (*ā viśvadevaṃ satpatiṃ na pramiye saviturdaivyasya tat*) (Ā. 4-11).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मे उ॒भे अह॑नी पु॒र एत्यप्र॑युच्छन् ।  
+> स्वा॒धीर्दे॒वः स॑वि॒ता ॥ ८ ॥
+
+### Printed p. 197
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमे इति । उभे इति । अहनी इति । पुरः । एति । अप्रयुच्छन् ।  
+> सुआधीः । देवः । सविता ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सविता देवः स्वाधीः शोभनाध्यानः सुकर्मा वा सन् इमे अहनी
+> रात्र्यहनी तयोः पुरः पुरस्तावप्रयुच्छन् अप्रमाद्यन्नेति गच्छति तमा वृणीमह
+> इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The god Savitṛ, who, being स्वाधीः (*svādhīḥ*), of good meditation or of good works, goes in front of these two, day and night, अप्रयुच्छन् (*aprayucchan*), that is, without negligence: him we choose. Thus the construction is completed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Savitṛ who
+- इमे उभे अहनी (*ime ubhe ahanī*)—of both these day and night
+- पुरः (*puraḥ*)—in front (as a guide)
+- अप्रयुच्छन् (*aprayucchan*)—very carefully
+- एति (*eti*)—moves about (such)
+- देवः (*devaḥ*)—divine
+- सविता (*savitā*)—Savitṛ
+- स्वाधीः (*svādhīḥ*)—is the object of excellent meditation
+
+##### भावार्थ (Bhāvārtha)
+
+The Savitṛ who moves about as a guide in front of both day and night, free from negligence and very careful, that same god is the object of excellent meditation.
+
+##### English translation
+The divine object of meditation, Savitri, who, ever vigilant, precedes
+both night and day.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मा विश्वा॑ जा॒तान्या॑श्रा॒वय॑ति॒ श्लोके॑न ।  
+> प्र च॑ सु॒वाति॑ सवि॒ता ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆः । इमा । विश्वा । जातानि । आश्रवयति । श्लोकेन ।  
+> प्र । च । सुवाति । सविता ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 191. Sūkta 81 Ṛks 3-5; Sūkta 82 Ṛks 1-3 (bhāṣya)
+**Progress note:** Done through printed p. 197. Sūkta 82 Ṛk 3 end to Ṛk 9 saṃhitā/pada, pp. 192-197
