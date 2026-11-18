@@ -38,7 +38,7 @@ def suggest(w):
         if not base: return ('', 'cannot transliterate', 'none')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
-    if base in ('Saṃ.', 'saṃ.'): return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: almost all bare Saṃ. are Ṛ. Saṃ.; the exceptions named in the line (Yajus, Kāṭhaka, Atharva …) are in REFERENCES_SAM_EXCEPTIONS.tsv', 'medium')
+    if base == 'saṃ.' or (base != w and base == 'saṃ.'): return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.', 'medium')
     if base in ('U.', 'u.'): return ('U. Sū.', note + 'user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)', 'high')
     if base in ALIAS: return (ALIAS[base], note + 'known spelling of ' + ALIAS[base], 'high')
     hit = [f for f in listforms if norm(f) == norm(base)]
@@ -91,10 +91,10 @@ with open(os.path.join(ROOT, 'REFERENCES_NONE_PLACES.tsv'), 'w', encoding='utf8'
     for r in places: o.write('\t'.join([r['work'], none[r['work']], str(tot_by[r['work']]), r['vol'], r['page'], r['line'], r['number'], '', r['text'][:160].replace('\t', ' ')]) + '\n')
 print(len(none), 'forms without suggestion;', len(places), 'places -> REFERENCES_NONE_PLACES.tsv')
 
-# bare Saṃ.: the places where the line itself names another collection are the exceptions to "almost all are Ṛ. Saṃ." (user, Nov 18 2026)
+# capital-S bare Saṃ. is NOT taken as Ṛ. Saṃ. (user, Nov 18 2026): its places are listed for reading, with the collection the line itself names if any
 OTHER = re.compile(r'Yajus|Yajur|Ya Saṃ|Kāṭhaka|Kāvya|Śrī|Atharva|Ath\.|Taitt|Tai\.|Vāj|Maitr|Mai\.|Sāma|Sā\.', re.I)
-with open(os.path.join(ROOT, 'REFERENCES_SAM_EXCEPTIONS.tsv'), 'w', encoding='utf8') as o:
+with open(os.path.join(ROOT, 'REFERENCES_CAPITAL_SAM_PLACES.tsv'), 'w', encoding='utf8') as o:
     o.write('vol\tprinted page\tline\tnumber\tbare form\tthe line names another collection?\ttext around it\n')
     for r in csv.DictReader(open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), encoding='utf8'), delimiter='\t'):
-        if r['work'] in ('Saṃ.', 'saṃ.'):
+        if r['work'] == 'Saṃ.':
             hit = OTHER.search(r['text']); o.write('\t'.join([r['vol'], r['page'], r['line'], r['number'], r['work'], hit.group(0) if hit else '', r['text'][:170]]) + '\n')

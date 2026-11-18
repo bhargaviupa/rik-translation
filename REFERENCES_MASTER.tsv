@@ -5,7 +5,7 @@ NOT IN LIST	U.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (U�
 NOT IN LIST	P. sū.			no list form close to it	none		52			52														
 NOT IN LIST	Ā. Sū.		Ā. Sū.	the form of the list	high	yes	45		1									4					28	12
 NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	yes	44		5	5	8	7	5	3	4	6	1							
-NOT IN LIST	Saṃ.		Ṛ. Saṃ.	user, Nov 18 2026: almost all bare Saṃ. are Ṛ. Saṃ.; the exceptions named in the line (Yajus, Kāṭhaka, Atharva …) are in REFERENCES_SAM_EXCEPTIONS.tsv	medium		32		1				1				1	1	2	7	12	4	2	1
+NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
 NOT IN LIST	Ma.			too short to tell: could be Ma. Bhā. or Ma. Smṛ.	none		23			4		8	9			1					1			
@@ -270,7 +270,7 @@ NOT IN LIST	Nir. XI.			no list form close to it	none		1												1
 NOT IN LIST	ṛgvi.			no list form close to it	none		1												1					
 NOT IN LIST	Aś.			no list form close to it	none		1													1				
 NOT IN LIST	Śr. Brā.			no list form close to it	none		1													1				
-NOT IN LIST	saṃ.		Ṛ. Saṃ.	user, Nov 18 2026: almost all bare Saṃ. are Ṛ. Saṃ.; the exceptions named in the line (Yajus, Kāṭhaka, Atharva …) are in REFERENCES_SAM_EXCEPTIONS.tsv	medium		1													1				
+NOT IN LIST	saṃ.		Ṛ. Saṃ.	user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.	medium		1													1				
 NOT IN LIST	R. V.			no list form close to it	none		1													1				
 NOT IN LIST	E. XXXII. P.			no list form close to it	none		1													1				
 NOT IN LIST	Tai. Sa.			no list form close to it	none		1													1				
@@ -589,7 +589,7 @@ Devanagari	सू.			Devanagari read as sū.; no list form close to it	none		1		
 Devanagari	वा. ॥. नि.			Devanagari read as vā. ||. ni.; no list form close to it	none		1											1						
 Devanagari	प. सू.			Devanagari read as pa. sū.; no list form close to it	none		1											1						
 Devanagari	पं. सू.		Pā. Sū.	Devanagari read as paṃ. sū.; known spelling of Pā. Sū.	high		1											1						
-Devanagari	सं.		Ṛ. Saṃ.	Devanagari read as saṃ.; user, Nov 18 2026: almost all bare Saṃ. are Ṛ. Saṃ.; the exceptions named in the line (Yajus, Kāṭhaka, Atharva …) are in REFERENCES_SAM_EXCEPTIONS.tsv	medium		1											1						
+Devanagari	सं.		Ṛ. Saṃ.	Devanagari read as saṃ.; user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.	medium		1											1						
 Devanagari	पा. सव.			Devanagari read as pā. sava.; no list form close to it	none		1											1						
 Devanagari	उ. सू. ४.			Devanagari read as u. sū. 4.; no list form close to it	none		1											1						
 Devanagari	मै. उ.		Mai. U.	Devanagari read as mai. u.; same letters; only capitals, dots or spaces differ	high	yes	1												1					
