@@ -82,9 +82,9 @@ NOT IN LIST	sū.			no list form close to it	none		2					2
 NOT IN LIST	Āp. Gṛ.			no list form close to it	none		2					2												
 NOT IN LIST	Āśv. Gṛ. Sū.			no list form close to it	none		2					2												
 NOT IN LIST	Āś. Śrau. Sū.			no list form close to it	none		2					2												
-NOT IN LIST	Chāṃ. U.			no list form close to it	none		2						1								1			
+NOT IN LIST	Chāṃ. U.		Chā. U.	known spelling of Chā. U. (capitals/dots differ)	high		2						1								1			
 NOT IN LIST	e. Pā. Sū.			no list form close to it	none		2						1						1					
-NOT IN LIST	chāṃ. u.			no list form close to it	none		2						1								1			
+NOT IN LIST	chāṃ. u.		Chā. U.	known spelling of Chā. U.	high		2						1								1			
 NOT IN LIST	Tai. Prā.			no list form close to it	none		2						2											
 NOT IN LIST	atha. saṃ.			no list form close to it	none		2									2								
 NOT IN LIST	Vārt.			no list form close to it	none		2									2								
@@ -506,7 +506,7 @@ Devanagari	वा. ।. पा.			Devanagari read as vā. |. pā.; no list form 
 Devanagari	धा.			Devanagari read as dhā.; no list form close to it	none		9	6	1			2												
 Devanagari	आश्व.			Devanagari read as āśva.; no list form close to it	none		9	1	1			4				3								
 Devanagari	इ. ब्रा.			Devanagari read as i. brā.; no list form close to it	none		8													7		1		
-Devanagari	छां. उ.			Devanagari read as chāṃ. u.; no list form close to it	none		7	1					2					2			1			1
+Devanagari	छां. उ.		Chā. U.	Devanagari read as chāṃ. u.; known spelling of Chā. U.	high	yes	7	1					2					2			1			1
 Devanagari	फि. सू.		Phi. Sū.	Devanagari read as phi. sū.; same letters; only capitals, dots or spaces differ	high	yes	6		6															
 Devanagari	मनु.			Devanagari read as manu.; no list form close to it	none		6					1			1	1			2				1	
 Devanagari	ऋग्वि.			Devanagari read as ṛgvi.; no list form close to it	none		6												1	4				1
