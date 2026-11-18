@@ -6007,6 +6007,306 @@ Daughter of heaven, you are the bringer of opulence ; dawn upon us to-day, as br
 > अभि । योः । त्वा । विभावरि । स्तोमैः । गृणंति । वह्नयः ॥  
 > मघैः। मघोनि। सुश्रियः। दामन्वंतः। सुरातयः। सुजाते। अश्वसूनृते॥४॥
 
+### Printed p. 160
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विभावरि प्रकाशोपेते ॥ विभाशब्दाच्छंदसीवनिपाविति वनिप् । भातीर्वा
+> कर्तरि वनिप् ॥ उषस्त्वा त्वामभि प्रति ये वह्नयो प्रोढार ऋत्विजः स्तोतारः
+> स्तोमैः स्तोत्रैर्ग्गणंति स्तुवंति ते स्तोतारो मघैर्हॆ मघोनि धनैर्धनवति
+> त्वदनुग्रहात् सुश्रियो भवंति । सुष्पर्थिभिराश्रयणीया भवंति । दामन्वंतो
+> दानवंतो भवंति । सुरातयः । रातिर्दानं । सुदानाश्च भवंति ॥
+
+##### Gist of the bhāṣya
+
+O Vibhāvarī, you who are endowed with light. Those वह्नयः (*vahnayaḥ*), the carriers, that is, the priests and singers, who praise you, Uṣas, with स्तोमैः (*stomaiḥ*), hymns of praise, those singers become, O wealthy one, rich in wealth through your favour; they become well-endowed, ones to be resorted to by those who seek, **NOTE** givers of gifts, and liberal givers; राति (*rāti*) means a gift.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनि (*maghoni*)—O you who are endowed with wealth
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised excellently for the sake of horses
+- विभावरि (*vibhāvari*)—O radiant goddess Uṣas
+- त्वा (*tvā*) अभि (*abhi*)—you
+- ये (*ye*)—which
+- वह्नयः (*vahnayaḥ*)—priests
+- स्तोमैः (*stomaiḥ*)—with hymns of praise
+- गृणंति (*gṛṇaṃti*)—praise, they
+- मघैः (*maghaiḥ*)—with riches
+- सुश्रियः (*suśriyaḥ*)—endowed with wealth
+- दामन्वंतः (*dāmanvaṃtaḥ*)—liberal givers
+- सुरातयः (*surātayaḥ*)—and offerers of excellent oblations they become
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, you who are endowed with wealth, of excellent origin, praised excellently for the sake of horses, and radiant: those priests who praise you with hymns of praise become rich with wealth, liberal givers and offerers of excellent oblations.
+
+##### English translation
+The offerers of oblations who eulogize you, lustrous Ushas, with sacred hymns, become prosperous with effluence, (through your favour); bestower of wealth, bright-born goddess, (you are) sincerely praised for (the gift of) horses.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यचि॒द्दि ते॑ ग॒णा इ॒मे छ॒दयं॑ति म॒घत्त॑ये ।  
+> परि॑ चि॒द्वष्ट॑यो दधु॒र्दद॑तो॒ राथो॒ अह्र॑यं॒ सुजा॑ते॒  ॑
+> अश्वसूनृते ॥ ५ ॥
+
+### Printed p. 161
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । ते । गणाः । इमे । छदयंति । मघत्तये ।  
+> परि । चित् । वष्टयः । दधुः । ददतः । राधः । अह्रयं । सुजाते । अश्वसूनृते ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो यच्चिद्दि । हीति पूरणः । यत् ये केचन ते तव स्वभूता इमे
+> पुरतो वर्तमाना गणाः संघभूता मघत्तये धनदातये धनदानाय धनवत्वाय वा छदयंति उपच्छंदयंति ते सर्वॆऽप्यस्मान् परि दधुः हरितो धारयंति
+> वष्टयोऽस्थानेव कामयमानाः । किं कुर्वंतः । अह्रयमह्रियमाणमक्षीणमलज्जावहं वा राधो धनं हविर्लक्षणं ददतो यजंत इत्यर्थः । अर्थिभ्योऽक्षीणं
+> ददतो वा। ये त्वां हविर्ददतः स्तुवंति ते सर्वॆऽप्यस्मदर्थमेव फलं धारयंति ।
+> स्तुवंतीत्यर्थः । अथवा यद्दीत्यत्र यद्यपीति व्याख्येयं । तस्मिन् पक्ष उत्तरवाक्ये
+> तथापीत्यध्याहार्यं । अवशिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, यच्चिद्दि (*yacciddi*): the word हि (*hi*) is a filler. Whatever these groups of your own, standing before you, assembled together, छदयंति (*chadayaṃti*), invite, for the sake of मघत्तये (*maghattaye*), that is, for giving wealth, for the bestowal of wealth, or for the possession of wealth, all of them परि दधुः (*pari dadhuḥ*), hold us round about, **NOTE** वष्टयः (*vaṣṭayaḥ*), desiring us. **NOTE** What are they doing? Giving अह्रयं (*ahrayaṃ*), that which is not diminished, which is undiminished or does not bring shame, राधः (*rādhaḥ*), wealth in the form of an oblation; that is, they sacrifice; or they give undiminished wealth to those who ask. Those who, giving an oblation, praise you, all of them hold the fruit for our sake alone; that is, they praise. Or else यद्दी (*yaddī*) is to be explained as "even though"; in that alternative the words "even so" are to be supplied in the latter sentence. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O goddess Uṣas, you who are praised excellently for the sake of horses
+- ते (*te*)—your devotees
+- इमे (*ime*)—those who have gathered here
+- यच्छिद्दि (*yacchiddi*) गणाः (*gaṇāḥ*)—whichever companies of sacrificers
+- मघत्तये (*maghattaye*)—for the giving of wealth
+- छदयंति (*chadayaṃti*)—desire
+- ते (*te*)—all of them
+- अह्रयं (*ahrayaṃ*)—not small (abundant)
+- राधः (*rādhaḥ*)—wealth
+- ददतः (*dadataḥ*)—giving to us
+- वष्टयः (*vaṣṭayaḥ*)—with the desire to make us alone worthy of that wealth
+- परि दधुः (*pari dadhuḥ*)—they attend on us on all sides
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, you of excellent origin and praised excellently for the sake of horses, all those companies of sacrificers, your devotees who have gathered here, who desire to give wealth, give us abundant wealth, and with the desire to make us alone worthy of that wealth, attend on us on all sides.
+
+##### English translation
+These, your assembled (worshippers), who stand before you to distribute wealth, entertain towards us kindly intentions, offering unlimited
+
+### Printed p. 162
+
+riches: bright-born goddess, (you are) sincerely praised for (the gift of horses.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐषु॑ धा वी॒रव॒द्यश॒ उषो॑ मघोनि सू॒रिषु॑ ।  
+> ये नो॒ राधां॒स्य प्र॑या म॒घवा॑नो॒ अरा॑सत॒ सुजा॑ते॒ अश्व॑सूनृते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एषु । धाः । वीरवत् । यशः । उषः । मघोनि । सूरिषु ।  
+> ये । नः । राधांसि । अह्रया । मघ्नानः । आरासत । सुजाते । अश्वसूनृते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि मघोनि मघवति त्वमेषु सूरिम स्तोतृषु वा वीरवद्य.
+> शो वीरैः पुत्रादिभिरुपेतमन्नं यशो वा आ धाः । आधेहि । आदेहि । आनय ।
+> ये मघवानो धनवंतो नूरयो नोऽस्मभ्यं तव स्तोतृभ्यो राधांसि
+> धनान्यह्रयाक्षीणान्यरासत ददुः तेष्टित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O goddess Uṣas, wealthy one, bestow on these singers, or on these praisers, वीरवत् (*vīravat*) यशः (*yaśaḥ*), food, or fame, accompanied by heroes, sons and the like; आ धाः (*ā dhāḥ*) means place, give, bring. Those wealthy and rich givers who have given us, your praisers, undiminished riches, अरासत (*arāsata*), gave: for them, this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are prayed to with excellent praises for the sake of horses
+- मघोनि (*maghoni*)—O wealthy one
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- मघवानः (*maghavānaḥ*)—wealthy
+- ये (*ye*)—which of your praisers
+- नः (*naḥ*)—to us
+- अह्रया (*ahrayā*)—not small
+- राधांसि (*rādhāṃsi*)—riches
+- अरासत (*arāsata*)—give
+- एषु (*eṣu*)—such
+- सूरिषु (*sūriṣu*)—among these singers
+- वीरवत् (*vīravat*)—accompanied by heroic sons and the like
+- यशः (*yaśaḥ*)—food
+- आ धाः (*ā dhāḥ*)—fill
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, of excellent birth, prayed to with excellent praises for the sake of horses, and wealthy: whichever wealthy praisers of yours give us abundant riches, fill such singers with food accompanied by heroic sons and the like.
+
+### Printed p. 163
+
+##### English translation
+Affluent Ushas, bestow upon these (your) devout adorers food and posterity, so that, being opulent, they may, without stint, bestow riches upon us: bright-born goddess (who are) sincerely praised for (the gift of) horses.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेभ्यो॑ द्यु॒म्नं बृ॒हद्यश॒ उषो॑ मघो॒न्या व॑ह ।  
+> ये नो॒ राधां॒स्यश्वा॑ ग॒व्या भजं॑त सू॒रयः॒ सुजा॑ते॒ अश्व॑सूनृते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेभ्यः । द्युम्नं । बृहत् । यशः । उषः । मघोनि । आ । वह ।  
+> ये । नः । राधांसि । अश्वा । गव्या । भजंत । सूरयः । सुजाते । अश्वसूनृते ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो मघोनि त्वं तेभ्यो द्युम्नं द्योतमानं हिरण्यादिरूपं धनं
+> बृहद्यशो महदन्नं महतीं कीर्तिं वा तेभ्यो यजमानेभ्य आ वह । य आध्या
+> नोऽस्मभ्यं राधांसि धनान्यश्वाश्चैर्युक्तानि गव्या गोभिर्युक्तानि गोसमूहानश्वसमूहान् च भजंत भजेरन् ददुः सूरयो दातारः ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, wealthy one, bring to those sacrificers द्युम्नं (*dyumnaṃ*), shining wealth in the form of gold and the like, and बृहद्यशो (*bṛhadyaśo*), great food or great fame. Those who give us riches, wealth joined with horses, and गव्या (*gavyā*), joined with cows, herds of cows and herds of horses, भजंत (*bhajaṃta*), they would give; सूरयः (*sūrayaḥ*) means the givers. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are prayed to with excellent praises for the sake of horses
+- मघोनि (*maghoni*)—O wealthy one
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- ये (*ye*)—which
+- सूरयः (*sūrayaḥ*)—praisers who are givers
+- नः (*naḥ*)—to us
+- अश्वा (*aśvā*)—possessed of horses
+- गव्या (*gavyā*)—possessed of cows
+- राधांसि (*rādhāṃsi*)—riches
+- भजंत (*bhajaṃta*)—give
+- तेभ्यः (*tebhyaḥ*)—to them
+- द्युम्नं (*dyumnaṃ*)—shining gold and the like
+- बृहत् (*bṛhat*)—abundant
+- यशः (*yaśaḥ*)—food
+- आ वह (*ā vaha*)—bring
+
+### Printed p. 164
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, of excellent birth, prayed to with excellent praises for the sake of horses, and wealthy: to those praisers who are liberal givers and who give us riches possessed of horses and possessed of cows, bring shining gold and the like and abundant food.
+
+##### English translation
+Affluent Ushas, bring wealth and abundant food to those who, liberal givers, bestow upon us riches with horses and cattle : bright-born goddess (you are) sincerely praised for (the gift of ) horses.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ गोम॑ती॒रिष॒ आ व॑हा दुहितर्दिवः ।  
+> सा॒कं सूर्य॑स्य र॒त्मिभिः॑ शु॒क्रैः शोच॑द्भिर॒र्चिभिः॒ सुजा॑ते॒ अश्व॑सूनृते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोमतीः । इषः । आ । वह । दुहितः । दिवः ।  
+> साकं । सूर्यस्य । रश्मिभिः । शुक्रैः । शोचत्भिः । अर्चिभिः । सुजाते ।  
+> अश्वसूनृते ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतासि च नोऽस्मभ्यं गोमतीर्गोभिरुपेतानीपोऽन्नान्या वह आनय हे
+> दिवो दुहितरुषः । कदा । सूर्यस्य रश्मिभिः साकं शोचद्भिर्दिर्पयद्भिः शुक्रैर्निर्मलैरचिभिरग्नेस्तेजोभिश्च साकं । सूर्योदयकालेऽग्नींधनकाले चेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And bring to us, O Uṣas, daughter of heaven, गोमतीः इषः (*gomatīḥ iṣaḥ*), foods accompanied by cattle. When? Together with the rays of the sun, and together with the blazing, that is, shining, pure and bright flames of fire, the splendours of fire; that is, at the time of sunrise and at the time of kindling the fire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised with excellent praises for the sake of horses
+- दिवः दुहितः (*divaḥ duhitaḥ*)—O goddess Uṣas, daughter of the sky
+
+### Printed p. 165
+
+- नः (*naḥ*)—to us
+- सूर्यस्य (*sūryasya*)—of the sun
+- शुक्रैः (*śukraiḥ*)—shining
+- रश्मिभिः साकं (*raśmibhiḥ sākaṃ*)—together with the rays
+- शोचद्भिः (*śocadbhiḥ*)—blazing and radiant
+- अर्चिभिः (*arcibhiḥ*)—also with the flames of fire
+- गोमतीः (*gomatīḥ*)—accompanied by cattle
+- इषः (*iṣaḥ*)—foods
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, of excellent birth, praised with excellent praises for the sake of horses, and daughter of the sky: bring us foods accompanied by cattle, together with the shining rays of the sun and with the blazing, radiant flames of fire.
+
+##### English translation
+Daughter of heaven, bring to us food and cattle. together with the pure rays of the sun, and the radiant flames (of the kindled fires) : bright-born goddess, (you are) sincerely praised for (the gift of ) horses.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्यु॑च्छा दुहितर्दिवो॒ मा चि॒रं त॑नुथा॒ अपः॑ ।  
+> नेत्वा॑ स्ते॒नं यथा॑ रि॒पुं तपा॑ति॒ सूरो॑ अ॒र्चिषा॒ सुजा॑ते॒ अश्व॑सूनृते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । उच्छ । दुहितः । दिवः । मा । चिरं । तनुथाः । अपः ।  
+> न । इत् । त्वा । स्तेनं । यथा । रिपुं । तपाति । सूरः । अर्चिषा । सुजाते । अश्वसूनृते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितरुषः त्वं व्युच्छ । विभातं कुरु । अपोऽस्मदीयं कर्म प्रति
+> चिरं विलंबं मा तनुथाः । त्वा त्वां रिपुं स्तेनं यथा संतापयति राजादिस्तद्वत्सूरः
+> सूर्योऽर्चिषा तेजसा नेत् नैव तपाति । तप्यात् । शीघ्रं नोदेश्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, daughter of heaven, you shine; make it dawn. Do not prolong delay, चिरं (*ciraṃ*), with regard to our rite, अपः (*apaḥ*). Just as a king or the like torments a thief or an enemy, so may the sun not scorch you with his ray, अर्चिषा (*arciṣā*), his brightness. **NOTE**
+
+### Printed p. 166
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised with excellent praises for the sake of horses
+- दिवः दुहितः (*divaḥ duhitaḥ*)—O goddess Uṣas, daughter of the sky
+- व्युच्छ (*vyuccha*)—drive away the darkness and shine
+- अपः (*apaḥ*)—to our rite
+- चिरं (*ciraṃ*)—delay
+- मा तनुथाः (*mā tanuthāḥ*)—do not cause
+- रिप्रं (*ripraṃ*)—an enemy
+- सेनं (*senaṃ*)—and a thief
+- यथा (*yathā*)—in the manner in which a king torments
+- सूरः (*sūraḥ*)—the sun
+- त्वा (*tvā*)—you
+- अर्चिषा (*arciṣā*)—with his brightness
+- नेत् तपाति (*net tapāti*)—may he certainly not burn and torment
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, of excellent birth, praised with excellent praises for the sake of horses, and daughter of the sky: drive away the darkness and shine for us. Do not cause delay to our rite. In the manner in which a king torments an enemy and a thief, may the sun certainly not burn and torment you with his brightness.
+
+##### English translation
+Daughter of heaven, Dawn! delay not our (sacred) rite ; let not the sun scorch you with his ray, as (a prince punishes) a thief, or (subdues) an enemy: bright-born goddess, (you are) sincerely praised for (the gift of) horses.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ताव॒द्वेदु॑ष॒स्त्वं भूयो॑ वा॒ दातु॑मर्हसि ।  
+> या स्तो॒तृभ्यो॑ विभावर्यु॒च्छंती॒ न प्र॒माय॑से॒ सुजा॑ते॒  ॑
+> अश्वसून्यते ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतावत् । वा । इत् । उषः । त्वं । भूयः । वा । दातुं । अर्हसि ।  
+> या । स्तोतृभ्यः । विभावरि । उच्छंती । न । प्रमीयसे । सुजाते । अश्वसूनृते ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 159. Sūkta 79 intro end, bhāṣya of sūkta, Ṛks 1-3, Ṛk 4 saṃhitā/pada (pp. 154-159)
+**Progress note:** Done through printed p. 166. Sūkta 79 Ṛks 4-9 and Ṛk 10 saṃhitā/pada (pp. 160-166)
