@@ -9624,6 +9624,178 @@ May those Rudras, the objects of worship, like resplendent fires, protect Evayam
 > विष्णो॑र्म॒हः स॑मन्यवो युयोतन॒ स्मद्र॒थ्यो॒३॒॑ न दं॒सनाप॒ ॑ ॒
 > द्वेषांसि सनुतः ॥ ८ ॥
 
+### Printed p. 260
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्वेषः । नः । मरुतः । गातुं । आ । इतन । श्रोत । हवं । जरितुः । एवयामरुत् ।  
+> विष्णोः । महः । समन्यवः । युयोतन । स्मत् । रथ्यः । न । दंसना । अप । द्वेषांसि । सनतरिति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो अद्वेषोऽद्वेषसो यूयं नोऽस्माकं गातुं गमनस्वभावं
+> स्तोत्रं प्रत्येतन । आगच्छत । तदर्थं जरितुः स्तोतुरेवयामरुदेवयामरुतो
+> मम हवं श्रोत । शृणुत । विष्णोर्व्यापकस्येंद्रस्य महो महतो हे समन्यवः
+> समानयज्ञा ययूं स्मत्! आयं प्रशस्तनाम ! प्रशस्ता रथ्यो न रथिनो योद्धार
+> इव । ते यथा शत्रूनपाकुर्वंति तद्वदस्माकं दंसना कर्मणा सनुतः । अंतर्हितनामैतत् । अंतर्हितान् द्वेषांसि द्वेष्टन् अप युयोतन । दूरे वियोजयत।
+> पृथक्कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you who are without hatred (अद्वेषः (*adveṣaḥ*)), that is, without enmity: come (एतन (*etana*)) towards our praise (गातुं (*gātuṃ*)), which has the nature of going. For this, hear (श्रोत (*śrota*)) the invocation (हवं (*havaṃ*)) of me, Evayāmarut, the praiser (जरितुः (*jarituḥ*)). O समन्यवः (*samanyavaḥ*), partakers of the same sacrifice, of the great Viṣṇu, the all-pervading Indra (विष्णोः महः (*viṣṇoḥ mahaḥ*)): you are praised (स्मत् (*smat*)) **NOTE**, like praised charioteers, warriors (रथ्यो न (*rathyo na*)). As they drive enemies away, so by your work (दंसना (*daṃsanā*)) drive away (अप युयोतन (*apa yuyotana*)) from us the hostile ones (द्वेषांसि (*dveṣāṃsi*)), the hidden ones (सनुतः (*sanutaḥ*), this is a word for "hidden"), to a distance; separate them from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- अद्वेषः (*adveṣaḥ*)—you who are without enemies
+- नः (*naḥ*)—our
+- गातुं (*gātuṃ*)—towards the praise
+- एतन (*etana*)—come
+- जरितुः (*jarituḥ*)—the praiser
+- एवयामरुत् (*evayāmarut*)—my, Evayāmarut's
+- हवं (*havaṃ*)—invocation
+- श्रोत (*śrota*)—hear
+- विष्णोः (*viṣṇoḥ*)—of the all-pervading Indra
+- महः (*mahaḥ*)—to the greatness
+- समन्यवः (*samanyavaḥ*)—you who are equal sharers in the sacrifice
+- स्मत् (*smat*)—praised
+- रथ्यो न (*rathyo na*)—like warriors
+- दंसना (*daṃsanā*)—by your works
+- सनुतः (*sanutaḥ*)—who remain hidden
+- द्वेषांसि (*dveṣāṃsi*)—enemies
+- अप युयोतन (*apa yuyotana*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who are without enemies, come towards our praise. Hear the invocation of me, Evayāmarut, the praiser. You who are sharers in the sacrifice equal to the greatness of the all-pervading Indra, drive far away, like praised warriors, by your works, our enemies who remain hidden.
+
+##### English translation
+Maruts, devoid of enmity, come to our proffered praise, hear the invocation of your adorer. Evayamarut : do you, who are associated in the worship of Vishnu, drive away, as warriors (scatter their enemies), our secret foes.
+
+#### Ṛk 9
+
+### Printed p. 261
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गंता॑ नो य॒ज्ञं य॑ज्ञियाः सु॒शमि॒ श्रोता॒ हव॑मर॒क्ष  ॒॑॑
+> एवयामरुत् ।  
+> ज्येष्ठा॑सो॒ न पर्व॑तासो॒ व्यो॑मनि यू॒यं तस्य॑ प्रचेतसः॒  
+> स्न्यात॑ दु॒र्धर्त॑वो नि॒दः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गंत । नः । यज्ञं । यज्ञियाः । सुशमि । श्रोत । हवं । अरक्षः । एवयामरुत् ।  
+> ज्येष्ठासः । न । पर्वतासः । विओमनि । यूयं । तस्य । प्रचेतसः । स्यात । दुःदर्शनः । विदुः ॥ ९ ॥
+
+> धर्तवः । निदः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्यायोपाकरणोत्सर्गयोर्विनियुक्ता । आ. गृ. ३-५ ॥
+> हे यज्जिया मरुतो यूयं नोऽस्माकं यज्ञं गंत । आगच्छत । सुशमि
+> शोभनकर्म यथा भवति तथा । सुकर्मत्वायेत्यर्थः । तदर्थं नो हवमस्मदीयमाह्वानं श्रोत । शृणुत ॥ अरक्षो रक्षोवर्जिता यूयं ॥ लिंगवचनयोर्व्यत्ययः ॥ ज्येषासो न ज्येषा इव पर्वतासो विंध्यादय इवातिप्रवृद्धा
+> व्योमन्यंतरिक्षे वर्तमानाः प्रचेतसो यूयं तस्य निदो निंदकस्य दुर्धर्तवो
+> दुर्धराःस्यात । भवत ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is applied in the ceremonies of the beginning of study and of its closing (अध्यायोपाकरणोत्सर्गयोर्विनियुक्ता (*adhyāyopākaraṇotsargayorviniyuktā*)), Ā. Gṛ. 3-5 **NOTE**. O worshipful Maruts, come (गंत (*gaṃta*)) to our sacrifice, in such a way that the work is well done (सुशमि (*suśami*)), that is, for the sake of good work. For this hear our invocation. You are अरक्षः (*arakṣaḥ*), free of Rākṣasas; there is a change of gender and number. ज्येषासो न (*jyeṣāso na*), like the eldest; like mountains (पर्वतासः (*parvatāsaḥ*)) such as the Vindhya, exceedingly grown, abiding in the sky (व्योमनि (*vyomani*)): you, of excellent knowledge (प्रचेतसः (*pracetasaḥ*)), be hard to hold, unassailable (दुर्धर्तवः (*durdhartavaḥ*), स्यात (*syāta*)), for that reviler (निदः (*nidaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियाः (*yajñiyāḥ*)—O worshipful Maruts
+- एवयामरुत् नः (*evayāmarut naḥ*)—my, Evayāmarut's
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- सुशमि (*suśami*)—so that my sacrifice may be accompanied by excellent work
+- गंत (*gaṃta*)—come
+- हवं (*havaṃ*)—our invocation
+- श्रोत (*śrota*)—hear
+- अरक्षः (*arakṣaḥ*)—free of enemies
+- ज्येष्यासः (*jyeṣyāsaḥ*)—very ancient
+- पर्वतासः न (*parvatāsaḥ na*)—like mountains such as the Vindhya
+- व्योमनि (*vyomani*)—abiding in the sky
+- प्रचेतसः (*pracetasaḥ*)—having excellent knowledge
+- यूयं (*yūyaṃ*)—you
+- तस्य निदः (*tasya nidaḥ*)—to the enemy who reviles
+- दुर्धर्तवः (*durdhartavaḥ*)—intolerant
+- स्यात (*syāta*)—be
+
+### Printed p. 262
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Maruts, come to my sacrifice so that the sacrificial work of me, who bear the name Evayāmarut, may be fruitful. Hear my invocation. You who are free of enemies, abiding in the sky like the very ancient mountains such as the Vindhya, and of excellent knowledge, be intolerant towards the enemy who reviles.
+
+##### English translation
+Adorable Maruts come to our sacrifice, so that it may be prosperous : hear, undeterred by Rakshasas, the invocation of Evayamarut : abiding like lofty mountains in mid-heaven, do you, who are profoundly wise, be ever intolerant of the reviler.
+
+**Colophon**
+
+इति सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे चतुर्थाष्टके पंचमे मंडले षष्ठोऽनुवाकः ॥ समाप्तं च पंचमं मंडलं ॥ (*iti sāyaṇācāryaviracite mādhavīye vedārthaprakāśe caturthāṣṭake paṃcame maṃḍale ṣaṣṭho 'nuvākaḥ ‖ samāptaṃ ca paṃcamaṃ maṃḍalaṃ ‖*)
+
+Here the fifth maṇḍala is concluded. Auspicious, 5-2-1983.
+
+### Printed p. 263
+
+**Pariśiṣṭa Mantras**
+
+मंडलस्यांते परितव्यानि परिशिष्टमंत्राणि (*maṃḍalasyāṃte paritavyāni pariśiṣṭamaṃtrāṇi*)
+
+The Pariśiṣṭa sūktas to be recited at the end of this maṇḍala.
+
+We have explained in detail, on pages 41-42 of Ṛ. Saṃ. Part 1, what the Pariśiṣṭa mantras are. Pariśiṣṭas are of two kinds: Pariśiṣṭa sūtras and Pariśiṣṭa mantras. The Pariśiṣṭa sūtras are, as a rule, not so compressed as the earlier sūtra works; they are works written in the Anuṣṭubh metre. Although the subject matter of these works concerns the Vedas, the style in which they are written is like a modern style. They set out at length matters concerning sacrificial rites that are omitted, or very briefly indicated, in the sūtra works that are limbs of the Veda. Probably, when the authors composed the Kalpa-sūtras and the like, which are limbs of the Veda, they left these matters out, either as not important or as small matters commonly known to all. But as time passed, people's practice of sacrificial rites diminished, and even the smallest matters were written down in books to help in performing sacrifices completely. Such are these Pariśiṣṭa works. Pariśiṣṭa means the remaining part that was not stated earlier and is still to be stated.
+
+Among these Pariśiṣṭa works the Āśvalāyana-gṛhya-pariśiṣṭa is the chief. It has four chapters. All the matters stated in it concern the Ṛgveda. The Gobhila-saṃgraha-pariśiṣṭa is another Pariśiṣṭa belonging to the Sāmaveda. In it, besides the matters of the domestic rites, there are details of optional rites and the like. Connected with this there is another work, the Karma-pradīpa. This work has names such as Sāma-gṛhya, Chāndogya-gṛhya-pariśiṣṭa, Chando-pariśiṣṭa and Gobhila-smṛti. They say it was composed by the sage Kātyāyana, who belongs to the Śukla Yajurveda; others say that the sage Gobhila himself composed it. All the matters stated in it are just as in the Gṛhya-saṃgraha; there are other matters too. Besides this, it is said that the great sage Kātyāyana wrote many Pariśiṣṭas for the Śukla Yajurveda. Three of them are chief. The Nigama-pariśiṣṭa gives explanations of words. The Pravarādhyāya gives details of the lineages, the gotras and pravaras of the sages; it helps in determining gotras in marriages and the like. In the Caraṇa-vyūha the names of the various branches of the Vedas are described. All this was about the Pariśiṣṭa works.
+
+Now let us consider what the Pariśiṣṭa mantras are. In commenting on the tenth verse of the three hundred and twenty-third chapter of the Śānti-parva of the Mahābhārata, the commentators have stated the characteristic of the Pariśiṣṭa or Khila mantras in this way:
+
+### Printed p. 264
+
+परशाहीयं स्वशाखायामपेक्षावशात्पठ्यते तत्खिलमुच्यते (*paraśāhīyaṃ svaśākhāyāmapekṣāvaśātpaṭhyate tatkhilamucyate*)
+
+That is, occasions may arise when mantras that are not in one's own branch [we have explained in detail what the branches of the Veda are, on pages 44-47 in Chapter 4 of Ṛ. Saṃ. Part 1] have to be taken from another branch and used. The mantras taken from that other branch then gradually come into customary use and are regarded as Khila or Pariśiṣṭa mantras, say the Vedic scholars. In connection with the Ṛgveda there are in all 36 such Pariśiṣṭa sūktas; there is also a difference in this number. Up to now, that is, in Maṇḍalas 1-4, we have explained the Pariśiṣṭa mantras at the end of the sūkta or at the end of the maṇḍala. Now we shall explain here only the Pariśiṣṭa mantras that are to be recited at the end of this fifth maṇḍala.
+
+The two sūktas given below are not found in any of the branches of the Ṛgveda now in use. Since many branches have been lost, it cannot be said with certainty to which branch these sūktas belong. But these mantras are recited, with slight differences, in the Taittirīya branch of the Kṛṣṇa Yajurveda, in the part called Ekāgni-kāṇḍa, in the first prapāṭhaka, in sections 4, 13 and 14. The order and the accent are changed. Now we explain the sūktas to be recited at the end of this maṇḍala and their main purport.
+
+Note: the two sūktas below are mantras that the bridegroom speaks, addressing the bride, at the time of conception.
+
+**Pariśiṣṭa Sūkta 9**
+
+आ ते गर्भो योनिमैतु पुमान्बाण इवेषुधिं । आ वीरो जायतां पुत्रस्ते दशमास्यः ॥ (*ā te garbho yonimaitu pumānbāṇa iveṣudhiṃ | ā vīro jāyatāṃ putraste daśamāsyaḥ ‖*)
+
+करोमि ते प्राजापत्यमा गर्भो योनिमैतु ते । अननः पूर्णो जायतामश्लोणोऽपिशाचधीतः ॥ (*karomi te prājāpatyamā garbho yonimaitu te | ananaḥ pūrṇo jāyatāmaśloṇo 'piśācadhītaḥ ‖*)
+
+पुमांस्ते पुत्रो नारि तं पुमाननुजायतां । तानि भद्राणि बीजान्यृषभा जनयंति नौ ॥ (*pumāṃste putro nāri taṃ pumānanujāyatāṃ | tāni bhadrāṇi bījānyṛṣabhā janayaṃti nau ‖*)
+
+यानि भद्राणि बीजान्यृषभा जनयंति नः । तैस्त्वं पुत्रान् विंदस्व सा प्रसूर्धेनुका भव ॥ (*yāni bhadrāṇi bījānyṛṣabhā janayaṃti naḥ | taistvaṃ putrān viṃdasva sā prasūrdhenukā bhava ‖*)
+
+कामः समृद्ध्यतां मह्यमपराजितमेव मे । यं कामं कामये देव तं मे वायो समर्धय ॥ (*kāmaḥ samṛddhyatāṃ mahyamaparājitameva me | yaṃ kāmaṃ kāmaye deva taṃ me vāyo samardhaya ‖*)
+
+### Printed p. 265
+
+**Main purport**
+
+1. (1) O woman, may the male child in the form of an embryo enter your womb, that is, a son. In order that offspring may come, as an arrow from the quiver reaches its appointed place straight and swiftly, so may the male seed reach your womb straight and cause conception. And after remaining in the womb ten months, may a heroic son be born.
+
+(2) O woman, I shall deposit in your womb the pouring of seed that is called the work of Prajāpati. From it may you conceive, and after ten months have passed, may a child be born without defect in the limbs, well grown, neither blind nor deaf, and not afflicted by seizing spirits such as piśācas.
+
+(3) O woman, may a son, a male child, be born to you first. Then, following him, may some more sons be born. Thus may the sons born to us, the husband and wife, be capable of pouring seed and in turn increase the auspicious line.
+
+(4) O woman, as said before, may our line of sons, capable of pouring seed, go on increasing, producing offspring in the future too. As a cow that has calved rejoices on seeing her calf, so may you rejoice on seeing your line of sons.
+
+(5) O god Vāyu, may my desire, that is, my wish to have a son, be fulfilled or accomplished. May this wish or desire not be obstructed by anyone. O god Vāyu, grant that the wish I have to have a son may be fulfilled.
+
+**Pariśiṣṭa Sūkta 10**
+
+अग्निरैतु प्रथमो देवतानां सोऽस्यॆ प्रजां मुंचतु मृत्युपाशात् । तदयं राजा वरुणोऽनुमन्यतां यथेयं स्त्री पौत्रमघं न रोदात् ॥ (*agniraitu prathamo devatānāṃ so 'syè prajāṃ muṃcatu mṛtyupāśāt | tadayaṃ rājā varuṇo 'numanyatāṃ yatheyaṃ strī pautramaghaṃ na rodāt ‖*)
+
+इमामग्निस्त्रायतां गार्हपत्यः प्रजामस्यॆ नयतु दीर्घमायुः । अशून्योपस्था जीवतामस्तु माता पौत्रमानंदमभि प्रबुद्धतामियं ॥ (*imāmagnistrāyatāṃ gārhapatyaḥ prajāmasyè nayatu dīrghamāyuḥ | aśūnyopasthā jīvatāmastu mātā pautramānaṃdamabhi prabuddhatāmiyaṃ ‖*)
+
+मा ते गृहे निशि घोष उत्थादन्यत्र त्वद्यदत्यः सं विशंतु । मा त्वं विकेश्युर आ वधिष्ठा जीवपत्नि पतिलोके विराज पश्यंती प्रजां मा ते गृहे निशि घोष उत्थादन्यत्र त्वदृदत्यः सं विशंतु । मा त्वं विकेश्युर आ वधिष्ठा जीवपत्नी पतिलोके विराज पश्यंती प्रजां सुमनस्यमाना ॥ (*mā te gṛhe niśi ghoṣa utthādanyatra tvadyadatyaḥ saṃ viśaṃtu | mā tvaṃ vikeśyura ā vadhiṣṭhā jīvapatni patiloke virāja paśyaṃtī prajāṃ mā te gṛhe niśi ghoṣa utthādanyatra tvadṛdatyaḥ saṃ viśaṃtu | mā tvaṃ vikeśyura ā vadhiṣṭhā jīvapatnī patiloke virāja paśyaṃtī prajāṃ sumanasyamānā ‖*) **NOTE**
+
+अप्रजस्तां पौत्रमृत्युं पाप्नानमत नाघं । शीर्ष्णः स्रजमिवोन्मुच्य द्विषध्भ्यः प्रतिमुंचामि पाशं ॥ (*aprajastāṃ pautramṛtyuṃ pāpnānamata nāghaṃ | śīrṣṇaḥ srajamivonmucya dviṣadhbhyaḥ pratimuṃcāmi pāśaṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 259. Sūkta 87 Ṛks 4-7, Ṛk 8 saṃhitā
+**Progress note:** Done through printed p. 265. Sūkta 87 Ṛks 8-9, end of Maṇḍala 5, Pariśiṣṭa sūkta 9 and start of 10
