@@ -16,7 +16,6 @@ NOT IN LIST	Brā.			no list form close to it	none		5					1						1	1		1		1
 NOT IN LIST	IV.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2	1		2				
 NOT IN LIST	X.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2			3				
 NOT IN LIST	Pā. sū. vā.			no list form close to it	none		4		4															
-NOT IN LIST	Pā. Gṛ. Sū.			no list form close to it	none		4					3												1
 NOT IN LIST	Piṅ.			no list form close to it	none		4							2			2							
 NOT IN LIST	Vāja. Saṃ.			no list form close to it	none		4										1							3
 NOT IN LIST	V.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											1		3				
@@ -350,6 +349,7 @@ mistake	Ā. Ve.	→ Ath. Saṃ.					5														1		1	3
 mistake	Sā. Ve.	→ Sā. Saṃ.					5															1		4
 mistake	Pū. Mī.	→ Jai. Sū.					4	4																
 mistake	śa. brā.	→ Śa. Brā.					4		1							2	1							
+mistake	Pā. Gṛ. Sū.	→ Sāṃ. Gṛ. Sū.					4					3												1
 mistake	Bṛ. Je.	→ Bṛ. De.					4											2	2					
 mistake	Bṛ. Pe.	→ Bṛ. De.					4											1	2					1
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
