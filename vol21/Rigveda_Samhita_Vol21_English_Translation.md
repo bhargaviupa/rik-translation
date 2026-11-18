@@ -8780,6 +8780,243 @@ May the protecting, opulent Indra be the bestower of feiicity by his protections
 
 Of the one worthy of sacrifice (यज्ञियस्य (*yajñiyasya*)), that is, deserving the sacrifice, may we be in his good (सुमतौ (*sumatau*)), gracious thought, a mind of favour; may we become the objects of it. Likewise may we be in his auspicious good-mindedness (सौमनसे (*saumanase*)), that is, in the state of a good mind, belonging to him. That Indra, towards us, a mind of favour, good-mindedness.
 
+### Printed p. 201
+
+> च करोत्वित्यर्थः । सुत्रामा सुष्टु त्राता स्ववान्थनवान् स इंद्रश्चास्मे अस्मत्त
+> आराच्चित् दूरदेश एव द्वेषो द्वेष्टान् सनुतः । अंतर्हितनामैतत् । अंतर्हितानुयोतु । पृथक्करोतु ॥
+
+##### Gist of the bhāṣya
+
+च करोत्वित्यर्थः (*ca karotvityarthaḥ*): "and may he make it so" is the sense of what precedes. सुत्रामा (*sutrāmā*) is the good protector, स्ववान् (*svavān*) the wealthy one; that Indra, far from us (अस्मे (*asme*) is the same as "from us"), at a distance (आराच्चित् (*ārāccit*), in a distant region only), the haters (द्वेषः (*dveṣaḥ*), those who hate us) सनुतः (*sanutaḥ*), a word meaning "hidden": may he separate them hidden away (युयोतु (*yuyotu*), may he put them apart).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्य यज्ञियस्य (*tasya yajñiyasya*)—of that Indra who is worthy of worship
+- सुमत् (*sumat*)—becoming objects of his gracious thought
+- वयं (*vayaṃ*)—we
+- स्याम (*syāma*)—may we be
+- भद्रे (*bhadre*)—that bestows welfare
+- सौ मनसे अपि (*sau manase api*)—may we be objects of his affection also
+- सुत्रामा (*sutrāmā*)—who protects exceedingly
+- स्ववान् (*svavān*)—and is wealthy
+- स इंद्रः (*sa iṃdraḥ*)—that same Indra
+- द्वेषः (*dveṣaḥ*)—the enemies who hate us
+- अस्मे (*asme*)—than ourselves
+- आराच्चित् (*ārāccit*)—in a most distant region only
+- सनुतः (*sanutaḥ*)—so that they are not seen by the eye
+- युयोतु (*yuyotu*)—let him keep them apart, so that they do not join us
+
+##### भावार्थ (Bhāvārtha)
+
+May we be the objects of the gracious thought of that same Indra, who is worthy of worship. May we be the objects of his bestowing affection also. May that same Indra, who protects exceedingly and is wealthy, keep the enemies who hate us in a most distant region, far from us, out of our sight, and apart, so that they do not join us.
+
+##### English translation
+May we continue in the favour of that adorable (deity) even in his auspicious good-will : may that protecting and opulent Indra drive far from us, into extinction, all those who hate us.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word अस्मे (*asme*): Yāska says that this word is used in all seven case-meanings, and as an example he cites from this Ṛk the passage अस्मे आराच्चिद्वेषः सनुतर्युयोतु (*asme ārāccidveṣaḥ sanutaryuyotu*). We have explained the seven kinds of case-usage of the word अस्मे (*asme*) in detail in Ṛ. Saṃ. Part 10, p. 170.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ त्वे इं॑द्र प्र॒वतो॒ नोर्मिगिरो॒ ब्रह्मा॑णि नि॒युतो॑  
+> धवंते ।  
+> उ॒रू न राधः॒ सव॑ना पु॒रुण्य॒पोगा व॑ज्रिन्युवसे॒ समिंदू॑न्॥
+
+### Printed p. 202
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आव । त्वे इति । इंद्र । प्रवतः । न । ऊर्मिः । गिरः । ब्रह्माणि । नियुतः । धवंते ।  
+> उरु । न । राधः । सवना । पुरूणि । अपः । गाः । वज्रिन् । युवसे । सं । इंदून् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वे त्वां नियुतः स्तोतुर्गिर उक्तात्मिका वाचो ब्रह्माणि
+> सामरूपाणि स्तोत्राणि चाव धवंते । अवगच्छंति । तत्र दृष्टांतः । ऊर्मिर्जलसंघः
+> प्रवतो न प्रवणदेशानिव । यथोच्चित्तात्‌स्थलान्निम्म देशं शीघ्रं गच्छति] तद्वत् ।
+> नशब्दः समुच्चये । उरूरूणि बहु राधो राधांसि च हविर्लक्षणानि धनानि
+> पुरूणि बहूनि सवना सवनानि बहवोऽभिषुताः सोमाश्च त्वामेवाभिगच्छंति । हे
+> वज्रिन् वज्रवन्निंद्र अपो वसतीवर्याख्या गा गोविकारान् कृतदध्यादीन्
+> श्रपणार्थानिंदून् सोमांश्च सं युवसे । सम्यक् मिश्रयसि । त्वां यष्टुं
+> वसतीवरीभिरभिषुत्य तं सोममाशिरादिभिः श्रपणद्रव्यैः संस्कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, to you (त्वे (*tve*) is "to you") the speech of the praiser (नियुतः (*niyutaḥ*) is glossed as "of the praiser"), that is, utterance in words, and the stotras in the form of Sāman (ब्रह्माणि (*brahmāṇi*)), अव धवंते (*ava dhavaṃte*), run toward you. The illustration is the wave, a mass of water, as it runs quickly to low-lying places, from a high place to a low region; so they run. The word न (*na*) here is in the sense of "and" (समुच्चये (*samuccaye*)). Much wealth (राधः (*rādhaḥ*)), riches in the form of oblations, and many pressings (सवना (*savanā*)), the many pressed Soma juices, come to you alone. O Vajrin, Indra bearing the thunderbolt, you mingle (सं युवसे (*saṃ yuvase*), you blend well) the waters called वसतीवरी (*vasatīvarī*), the products of the cow, curds and the like that serve for cooking, and the Soma juices. The meaning is that, for the sacrificer who offers to you, they press the Soma with the वसतीवरी (*vasatīvarī*) waters and prepare that Soma with the cooking materials āśir and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ऊर्मिः (*ūrmiḥ*)—a flow of water
+- प्रवतो न (*pravato na*)—as it runs swiftly in low-lying places
+- नियुतः (*niyutaḥ*)—of the praiser
+- गिरः (*giraḥ*)—words of utterance
+- ब्रह्माणि (*brahmāṇi*)—and stotras in the form of Sāman
+- त्वे (*tve*)—to you
+- अव धवंते (*ava dhavaṃte*)—come swiftly and join
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- त्वं (*tvaṃ*)—you
+- उरु (*uru*)—abundantly
+- राधः (*rādhaḥ*)—riches in the form of oblations
+- पुरूणि (*purūṇi*)—of many kinds
+- सवना (*savanā*)—pressed Soma juices
+- अपः (*apaḥ*)—waters called वसतीवरी (*vasatīvarī*)
+- गाः (*gāḥ*)—milk and the like, products of the cow
+- इंदून् (*iṃdūn*)—Soma juices
+- सं युवसे (*saṃ yuvase*)—you bring together
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a flow of water runs swiftly in low-lying places, so the words of the praiser and the stotras in the form of Sāman come swiftly and join you. O Indra, bearer of the thunderbolt, you bring together abundantly the riches in the form of oblations, the many kinds of pressed Soma juices, the waters called वसतीवरी (*vasatīvarī*), milk and the like, products of the cow, and the Soma juices (you partake of them).
+
+### Printed p. 203
+
+##### English translation
+To you the praises and paryers of the worshipper hasten like a torrent down a declivity ; and you, thunderer, aggregate the immense wealth (of sacrificial offerings), copious libations, and milk, and the juices of the Soma.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क ईं॑ स्तव॒त्कः पृ॑णा॒त्क्य य॑जाते॒ यदु॒ग्रमिन्म॒घवा॑ वि॒श्वहावे॑त् ।  
+> पादा॑विन प्र॒हर॑न्न॒ न्यम॑न्यं कृ॒णोति॒ पूर्व॒मप॑रं॒ शची॑भिः ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । ईं । स्तवत् । कः । पृणात् । कः । यजाते । यत् । उग्रं । इत् । मघवा ।  
+> विश्वहा । अवेत् ।  
+> पादौइव । प्रहरन् । अन्यंअन्यं । कृणोति । पूर्वं । अपरं । शचीभिः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कः स्तोतेमेनमिंद्रं स्तवत् । स्तुयात् । स्तोतुं शक्नुयात् । को वा
+> पृणात् । एनं प्रीणयेत् । कश्च यजाते । एनं हविर्भिर्यजेत । यद्यस्मादयं
+> मघवा धनवानिंद्र उग्रमिदुद्दूर्णमेव विश्वहा सर्वदावेत् आत्मानं वेत्ति जानाति
+> सर्वदोग्र एव भवति तस्मात्कारणात् न कोऽप्येनं स्तोतुं प्रीणयितुं यष्टुं वा
+> शक्कोतीति भावः । इतोऽपि स्तुत्यादेरविषय इत्याह यस्मादयमिंद्रः शचीभिरात्मीयाभिः प्रज्ञाभिः पूर्वं प्रथमभाविनं संतं स्तोतारमपरं पश्चाद्भाविनं
+> जान्यमन्यं परस्परव्यतिहारेण कृणोति करोति । यः प्रथमभावी मुख्यः स्तोता
+> तं जघन्यं करोति यश्च जघन्यः स्तोता तं मुख्यं करोति । तत्र दृष्टांतः ।
+> प्रहरन् पादाविव । यथा पादौ प्रहरन् मार्गे प्रक्षिपन् पुरुषः पूर्वं पादमपरं
+> करोश्यपरं च पूर्वं तद्वत् । अतोऽपि कारणादिंद्रः स्तुत्यादेरविषय इति भावः ।
+> एतदादिकेन पंचर्चेनेंद्रस्यातिस्वातंत्रं प्रतिपाद्यते ॥
+
+##### Gist of the bhāṣya
+
+Who, a praiser, could praise this Indra, that is, be able to praise him? Or who could please him? And who could sacrifice to him with oblations? Because this wealthy Indra knows himself always (विश्वहा (*viśvahā*), at all times) as fierce, as lofty (उग्रमित् (*ugramit*)), and is always fierce, for that reason no one is able to praise, to please or to sacrifice to him: this is the sense. He is beyond praise and the like for another reason also: this Indra, by his own powers of mind (शचीभिः (*śacībhiḥ*)), makes the praiser who was first, the one who came before, into the later one, and the later one into the first (जघन्यं (*jaghanyaṃ*) "the last"), each in turn by exchange. The praiser who is first and chief he makes the last, and the praiser who is last he makes the chief. The illustration: as a man walking on the road throws out his two feet (प्रहरन् पादाविव (*praharan pādāviva*)), making the first foot the later one and the later one the first, so is it here. For this reason also Indra is beyond praise and the like. By this group of five verses beginning with this one, Indra's great independence is set forth.
+
+### Printed p. 204
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः (*kaḥ*)—what praiser
+- ईं (*īṃ*)—this Indra
+- स्तवत् (*stavat*)—could praise to his satisfaction
+- कः (*kaḥ*)—what worshipper
+- सृणात् (*sṛṇāt*)—could please him
+- कः (*kaḥ*)—what sacrificer
+- यजाते (*yajāte*)—could worship him with satisfying oblations
+- यत् (*yat*)—because
+- मघवा (*maghavā*)—Indra, the wealthy
+- उग्रमित् (*ugramit*)—himself as one of exceeding strength
+- विश्वहा (*viśvahā*)—always
+- अवेत् (*avet*)—has known
+- प्रहरन् (*praharan*)—a man travelling on the road
+- पादाविव (*pādāviva*)—as he places his feet, one after the other, in turn
+- अयं (*ayaṃ*)—this Indra
+- शचीभिः (*śacībhiḥ*)—by his powers of mind
+- पूर्वं (*pūrvaṃ*)—first one act
+- अपरं (*aparaṃ*)—afterwards
+- अन्यं अन्यं (*anyaṃ anyaṃ*)—other and different acts (in turn)
+- कृणोति (*kṛṇoti*)—does
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra always knows himself as one of exceeding strength. What praiser could praise this Indra to his satisfaction? What worshipper could please him? What sacrificer could worship him with satisfying oblations? (All these are in ordinary acts.) As a man travelling on the road places his feet, one after the other, changing them in turn, so this Indra, by his powers of mind, does first one act and afterwards another act, and thus does it in turn. What was behind may be seen to be in front, and the very one that was first appears again at another time as being the first. All this is the greatness of Indra.
+
+##### English translation
+Who may (adequately) praise him ? who may satisfy him ? who offer worthy adoration ? since Maghavas is daily conscious of his own terrible (power) : by his acts he makes first one and then the other precede and follow, as (a man) throws out his feet (alternately in walking).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒ण्वे वी॒र उ॒ग्रमु॑ग्रं दमा॒यन्न॒न्यम॑न्यमतिनेनी॒यमा॑नः ।  
+> वि॒ध॒मा॒न॒द्विळु॒भय॑स्य॒ राजा॑ चोषू॒यते॒ विश॒ इंद्रो॑  
+> मनु॒ष्या॑न् ॥ १६ ॥
+
+### Printed p. 205
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृण्वे । वीरः । उग्रंऽउग्रं । दमयन् । अन्यंऽअन्यं । अतिनेनीयमानः ।  
+> विधमानद्विट् । उभयस्य । राजा । चोषूयते । विशः । इंद्रः । मनुष्यान् ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो वीरो वीर्यवानिति शृण्वे । श्रूयते । किं कुर्वन् ।
+> उग्रमुग्रमुद्गूर्णमुद्गूर्णं बलिनं शत्रुं प्रति दमायन् । दमः दमनं ।
+> बाधनमिच्छन् । अन्यमन्यं प्रथमं नेतव्यमन्यं पश्चान्नेतव्यं चान्यं पूर्वमपरं
+> परस्परव्यतिहारेण स्तोत्थनतिनेनीयमानोऽत्यंतं पुनः पुनर्नयन् । आपि
+> चैधमानद्विट् विधमानानां वर्धमानानामसुन्वतां द्वेष्टोभयस्य दिव्यस्य
+> पार्थिवस्य च धनस्य राजेश्वरोऽयमिंद्रो विशो निवेशयित्कन् स्वस्य परिचारकान्मनुष्यान् चोषूयते । रक्षणार्थं पुनः पुनराह्वयति ॥
+
+##### Gist of the bhāṣya
+
+This Indra is heard (शृण्वे (*śṛṇve*), he is heard of) as a hero, one possessed of heroic power. What is he doing? Subduing (दमायन् (*damāyan*); दमः (*damaḥ*) is taming, wishing to oppress) toward each mighty enemy, one who has raised his weapon and is strong. One is to be led first, another later, and another still: first and last, by mutual exchange, he leads his praisers again and again to excess (अतिनेनीयमानः (*atinenīyamānaḥ*)). Moreover, he is the hater of those who prosper (एधमानद्विट् (*edhamānadviṭ*)), of those who press no Soma and are growing, and is the king, the lord, of both kinds of wealth, heavenly and earthly: this Indra, settling the men who are his own attendants (विशः मनुष्यान् (*viśaḥ manuṣyān*)), calls them again and again (चोषूयते (*coṣūyate*)) for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रमुग्रं (*ugramugraṃ*)—even the enemy of exceedingly terrible strength
+- दमयन् (*damayan*)—Indra, who is harming him
+- अन्यमन्यं (*anyamanyaṃ*)—and placing different praisers
+- अतिनेनीयमानः (*atinenīyamānaḥ*)—in turn, behind and in front
+- वीरः (*vīraḥ*)—a mighty one
+- कृष्णे (*kṛṣṇe*)—is famous **NOTE**
+- एधमानद्विट् (*edhamānadviṭ*)—one who hates the wealthy who flourish with arrogance
+- उभयस्य (*ubhayasya*)—of both heaven and earth
+- राजा (*rājā*)—who is also the lord
+- इंद्रः (*iṃdraḥ*)—Indra
+- विशः मनुष्यान् (*viśaḥ manuṣyān*)—his own praising people
+- चोष्ययते (*coṣyayate*)—calls again and again for protection
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who harms even the enemy of exceedingly terrible strength and who places different praisers in turn, behind and in front, is famous as a mighty one. Indra, who hates the wealthy who flourish with arrogance and who is lord of both heaven and earth, calls his own praising people again and again, and gives them encouragement and protection.
+
+##### English translation
+The hero Indra is renowned ; humiliating every formidable (foe), and repeatedly changing the place of one (worshiper) with that of another ; Indra, the enemy of the arrogant, the sovereign of both (heaven and earth), calls again and again (to encourage) the men who are his worshippers.
+
+### Printed p. 206
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word चोषूयते (*coṣūyate*) in this Ṛk, Yāska gives the explanation of the second half of this Ṛk: चोषूयमाणः । चोषूयते । चोषूयमाण इंद्र भूरि वामं । दददिंद्र बहु वननीयं विधमानद्विळुभयस्य राजा चोषूयते विश इंद्रो मनुष्यान् ॥ व्युदस्यत्येधमानानहर्द्वेष्ट्यसुन्वतः सुन्वतोS भ्यादधात्युभयस्य राजा दिव्यस्य च पार्थिवस्य च चोषूयमाण इति । चोषूयतेश्चर्करीतवृत्तं ॥ (*coṣūyamāṇaḥ | coṣūyate | coṣūyamāṇa iṃdra bhūri vāmaṃ | dadadiṃdra bahu vananīyaṃ vidhamānadviḷubhayasya rājā coṣūyate viśa iṃdro manuṣyān ‖ vyudasyatyedhamānānahardveṣṭyasunvataḥ sunvatoS bhyādadhātyubhayasya rājā divyasya ca pārthivasya ca coṣūyamāṇa iti | coṣūyateścarkarītavṛttaṃ ‖*) (Ni. 6-22). The two words चोषूयमाणः (*coṣūyamāṇaḥ*) and चोषूयते (*coṣūyate*) are synonyms; that is, both words have one and the same meaning. The meaning of the Vedic sentence चोषूयमाण इंद्र भूरि वामं (*coṣūyamāṇa iṃdra bhūri vāmaṃ*) is दददिंद्र बहु वननीयं (*dadadiṃdra bahu vananīyaṃ*): Indra gives wealth that is much desired. Indra strikes down (scatters) and drives away the wicked people who do not press Soma, that is, who do not perform sacrifice, and who flourish with arrogance. He invites for protection the good people who press Soma and perform sacrifice; that is, he protects them. The main purport of the Nirukta is that Indra is king (lord) of both worlds, the world of heaven (svarga) and the earth.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॒ पूर्वे॑षां स॒ख्या वृ॑णक्ति वि॒तर्तु॑राणो॒ अप॑रेभिरेति ।  
+> अना॑नुभूतीरवधून्वा॒नः पू॒र्वीरिंद्रः॑ श॒रद॑स्तर्तरीति ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । पूर्वेषां । सख्या । वृणक्ति । वृतर्तुराणः । अपरेभिः । एति ।  
+> अननुभूतीः । अवधून्वानः । पूर्वीः । इंद्रः । शरदः । तर्तरीति ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः पूर्वेषां पूर्वभाविनां प्रशस्तानां कर्मणां कुर्वतां
+> पुरुषाणां सख्या सखित्वानि परा वृणक्ति । वर्जयति । अपि च वितर्तुराणस्तान्
+> हिंसन् अपरेभिरपरैरमुख्यैरप्रशस्त्रैरपि कर्मानुष्ठातृभिरेति । सख्यं प्राप्नोति ।
+
+##### Gist of the bhāṣya
+
+This Indra turns away (परा वृणक्ति (*parā vṛṇakti*), he avoids) the friendships of the former men, those who came before and performed praised acts. Moreover, वितर्तुराणस्तान् (*vitarturāṇastān*), harming them, he goes (एति (*eti*)) with the others (अपरेभिः (*aparebhiḥ*)), the not-chief, not-praised performers of rites: he enters into friendship.
+
 ---
 
-**Progress note:** Done through printed p. 200. Ṛk 9-13 of sūkta 47 (pp. 195-200)
+**Progress note:** Done through printed p. 206. Ṛk 13 end, Ṛk 14-17 of sūkta 47 (pp. 201-206)
