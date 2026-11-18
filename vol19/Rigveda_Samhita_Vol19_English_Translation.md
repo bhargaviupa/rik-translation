@@ -24134,6 +24134,227 @@ and others, the word is in the dual, and the technical sense of Heaven and Earth
 > योजनं ।  
 > एताः । न । यामे । अगृभीतशोचिषः । अनश्वदां । यत् । नि । अयातन । गिरिं ॥
 
+### Printed p. 662
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं तद्वीर्यं प्रसिद्धं सामर्थ्यं महित्वनं महत्त्वं
+> दीर्घमत्यंतमायतं ततान । तनोति । लोके सूर्यो न योजनं सूर्यस्तेज
+> इव । एता न एतवर्णा देवानामश्वा इव । ते यथा यामे गमने योजनं
+> दीर्घं तन्नंति तद्वदित्यपरो दृष्टांतः । ते जागृभीतशोचिषोऽगृहीततेजस्काः ।
+> यद्वैतन्मरुतां विशेषणं । हे मरुतो यूयमगृभीतशोचिषः संतो यद्यदानश्वदां व्यापकोदकादातारं पणिभिरपहृतानामश्वानामप्रदातारं वा गिरिं मेघं
+> पर्वतं ना न्ययातन निहतवंतः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, that well-known prowess of yours has spread your greatness far and wide. As in the world the sun spreads his radiance, so do you; and there is a second comparison: as the dappled horses of the gods, in their going, stretch their course a long way, so is your greatness extended. Your lustre is not seized, that is, not held in check; or else this is simply an epithet of the Maruts. O Maruts, being of unseized lustre, you struck down the cloud that holds back the water: the word अनश्वदां (*anaśvadāṃ*) is explained as one who holds the all-pervading water, or else as one who does not give the horses carried off by the Paṇis; the mountain, the cloud, is what you struck down. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts (you)
+- सूर‍्यः (*sūryaḥ*)—the sun
+- योजनं न (*yojanaṃ na*)—as he spreads his radiance throughout the universe
+- एताः यामे न (*etāḥ yāme na*)—as the horses of the gods pervade everywhere
+- वः (*vaḥ*)—your
+- तद्वीर्यं (*tadvīryaṃ*)—well-known prowess
+- महित्वनं (*mahitvanaṃ*)—your glory
+- दीर्घं (*dīrghaṃ*)—exceedingly wide
+- ततान (*tatāna*)—has extended and made famous
+- अगृभीतशोचिषः (*agṛbhītaśociṣaḥ*)—you who are of unrestrained radiance
+- यत् (*yat*)—by which same greatness
+- अनश्वदां (*anaśvadāṃ*)—that does not pour out water
+- गिरिं (*giriṃ*)—the cloud
+- न्ययातन (*nyayātana*)—you have cleft (and poured down rain)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, as the sun spreads all his radiance throughout the universe, and as the horses of the gods pervade everywhere in their course, so your well-known prowess has extended and made famous your glory exceedingly wide. You, of unrestrained radiance, by that same greatness have cleft the cloud that does not pour out water, and have poured down rain
+
+##### English translation
+Your prowess, Maruts, has spread wide your glory as the sun (sends afar his) radiance, or the white (horses of the gods travel far) in their course : of unbounded lustre, you clove the cloud withholding the waters
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः महित्वनं सूर्यो न योजनं दीर्घं ततान (*marutaḥ mahitvanaṃ sūryo na yojanaṃ dīrghaṃ tatāna*)—As the sun spreads his splendour or light everywhere, so the Marut deities spread their exceedingly great strength and power and their glory most widely, that is, everywhere; thus the seer has compared the sun's splendour, as an illustration, with the range of the strength and power of the Marut deities.
+### Printed p. 663
+अनश्वदां (*anaśvadāṃ*)—व्यापकोदकादातारं (*vyāpakodakādātāraṃ*). The word aśva, formed from the root अशू व्याप्तौ (*aśū vyāptau*), is used here in the sense of water. आश्वद (*āśvada*) means the cloud that gives water; अनश्वद (*anaśvada*), on the contrary, means the cloud that holds back the water and does not pour it down as rain: this is the meaning specified here.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभ्रा॑जि॒ शर्धो॑ मरुतो॒ यद॑र्ण॒सं मोष॑था वृ॒क्षं क॑प॒नेव॑  
+> वेधसः ।  
+> अध॑ स्मा नो अ॒रम॑तिं सजोषस॒श्चक्षु॑रिव॒ यंत॒मनु॑ नेषथा  ॒
+> सुगं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभ्राजि । शर्धः । मरुतः । यत् । अर्णसं । मोषथ । वृक्षं । कपनाऽइव । वेधसः ।  
+> अध । स्म । नः । अरमतिं । सजोषसः । चक्षुऽइव । यंतं । अनु । नेषथ । सुgं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वेधसो वृष्टेर्विधातारो हे मरुतः शर्धो भवतां गणमभ्राजि ।
+> भ्राजते । यद्यस्मादर्णसमुदकवंतं वृक्षं । वृश्चते विदार्यत इति वृक्षो मेघः।
+> तं मोषथ । ताडयथेत्यर्थः । कपनेव । इवेत्यनर्थकः । कंपनाः संतः । यद्वा ।
+> कपनाः क्रिमयो वृक्षं घुणादयः । ते यथा मुष्णंति तद्वत् । अधापि च । स्मेति
+> पूरणः । नोऽस्मान् । मामित्यर्थः । हे सजोषसो युष्मासु परस्परं समानप्रीतयो यूयमरमतिमारमणं धनादिकं प्रति यंतं गच्छंतमनु नेषथ
+> अनुक्रमेण नयथ सुगं सुगमनं मार्गं । तत्र दृष्टांतः । चक्षुरिव । तद्यथा
+> मार्गप्रदर्शनेन नायकं भवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Vedhasaḥ, makers of rain, O Maruts, your host shines forth, because you strike the water-laden tree. The tree is the cloud, so called because it is torn open, split. To strike it means to beat it. The word for "like" is without meaning here, so: shaking it. Or else, as worms such as wood-borers gnaw a tree, so you do. The particle स्मेति (*smeti*) is a mere filler; "us" means "me". O you of one accord, of equal affection among yourselves, lead us in due order, as we go toward wealth and the like, along an easy road. The illustration is the eye: as the eye becomes a guide by showing the way, so you do.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधसः (*vedhasaḥ*)—O makers of rain
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—when
+- अर्णसं (*arṇasaṃ*)—water-laden
+- वृक्षं (*vṛkṣaṃ*)—the cloud
+- कपनेव (*kapaneva*)—as if shaking it
+- मोषथ (*moṣatha*)—you strike (then)
+- शर्धः (*śardhaḥ*)—your host, full of strength
+- अभ्राजि (*abhrāji*)—shines forth
+### Printed p. 664
+- सजोषसः (*sajoṣasaḥ*)—you who rejoice among yourselves with equal affection
+- नः (*naḥ*)—us
+- चक्षुरिव (*cakṣuriva*)—as the eye carries its master to the desired place
+- अरमतिं (*aramatiṃ*)—to the place of wealth
+- यंतं (*yaṃtaṃ*)—going and reaching
+- सुगं (*sugaṃ*)—to the excellent road
+- अनु नेषथ (*anu neṣatha*)—you have led
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, makers of rain, when you strike the water-laden cloud as if shaking it, then the strength of your host shines forth, manifest. You who rejoice among yourselves with equal affection, lead us on the excellent road that goes to the place of wealth, as the eye (the organ of sight) carries its master to the desired place.
+
+##### English translation
+Maruts, dispensers of rain, your strength is manifested when, haking the water-laden cloud, you let loose the shower: conjointly propitiated, conduct us by an easy path leading to prosperity, as the eye (shows the way). **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+वृक्षं (*vṛkṣaṃ*)—Here the word vṛkṣa is given the meaning of cloud: वृश्चते विदार्यत इति वृक्षो मेघः (*vṛścate vidāryata iti vṛkṣo meghaḥ*). For the sake of rain, that is, to pour down rain, Indra splits the clouds with his thunderbolt; and the Marut deities (the violently blowing winds) split, that is, scatter, the clouds gathered together in the atmosphere and make the rain fall. Therefore, because they are split for the sake of rain, the clouds are called trees, and the etymological sense of the word vṛkṣa is thus explained with reference to the cloud.
+इव (*iva*)—(कसनाइव (*kasanāiva*), चक्षुःइव (*cakṣuḥiva*)) **NOTE** The word has two or three meanings:
+अथ निपाताः । उच्चावचेष्वर्थेषु निपतंति । अप्युपमार्थेऽपि कर्मोपसंग्रहार्थेऽपि पदपूरणाः । तेषामेते चत्वार उपमार्थे भवंति । इवेति भाषायां च । अन्वध्यायञ्चाग्निरिवेंद्र इवेति ॥ (*atha nipātāḥ | uccāvaceṣvartheṣu nipataṃti | apyupamārthe 'pi karmopasaṃgrahārthe 'pi padapūraṇāḥ | teṣāmete catvāra upamārthe bhavaṃti | iveti bhāṣāyāṃ ca | anvadhyāyañcāgniriveṃdra iveti ‖*) (3 1-4) **NOTE**
+Thus Yāska has given the explanation. Beginning with "now we shall explain the nature of the words called nipāta", and answering the question what nipātas are: certain words or letters, upasargas or indeclinables, that join with nouns and verbs, that is, with the subanta and tiṅanta words denoting agent and action, and produce many meanings, are called nipātas. Because they are used in many kinds of meanings (अनेकप्रकारेष्टर्थेषु निपतंतीति निपाताः (*anekaprakāreṣṭartheṣu nipataṃtīti nipātāḥ*)), they are called nipātas.
+### Printed p. 665
+Of these nipātas, their use in meanings such as "and" and "comparison" is the more frequent. The four given below have the sense of comparison. Among them the word इव (*iva*) is used in the language, that is, in prose sentences not bound by metre or in modern Sanskrit, and also in chandas (the Ṛks). Thus, in अग्निरिव (*agniriva*) and इंद्र इव (*iṃdra iva*) the word is used in the sense of comparison. And it is also seen (इवोऽपि दृश्यते (*ivo 'pi dṛśyate*); sometimes it is without meaning, is the remainder of the sentence), as in सुविदुरिव (*suviduriva*), सुविज्ञायेतॆ इव (*suvijñāyetè iva*). In some contexts the word is used merely to fill out the sentence, without any specific meaning. In such contexts it has no meaning of any kind. In सुविदुरिव (*suviduriva*) the sense is only "is well known"; the word इव (*iva*) has no meaning.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न स जी॑यते मरुतो॒ न ह॑न्यते॒ न श्रे॑धति॒ न व्य॑थते॒ न रि॑ष्यति।  
+> नास्य॒ राय॒ उप॑ दस्यंति॒ नोतय॒ ऋषिं॑ वा॒ यं राजा॑नं ॒ ॑
+> वा सुषूदथ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नः । सः । जीयते । मरुतः । न । हन्यते । न । श्रेधति । न । व्यथते । न । रिष्यति ।  
+> न । अस्य । रायः । उप । दस्यंति । न । ऊतयः । ऋषिं । वा । यं । राजानं ।  
+> वा । सुसूदथ ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं यमृषिं मंत्रद्रष्टारं ब्राह्मणं राजानं वा
+> सूषूदथ क्षारयथ प्रेरयथ सत्कर्मसु स ऋषी राजा ना न जीयते । अन्न्यैर्न
+> पराभाव्यते ॥ जि जये ज्या वयोहानावित्यस्य वा रूपं ॥ हे मरुतो न हन्यते ।
+> न हिंस्यते । अत्यर्थं प्राणैर्न वियुज्यते । न स्त्रेधति । न क्षीयते । न व्यथते । न
+> पीड्यते । न रिष्यति । न हिंस्यते । अत्र हिंसा बाधमात्रं । अस्य रायो धनानि नोप
+> दस्यंति । नोपक्षीयंते । तथा नोतयो रक्षा अप्युप दस्यंति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, whatever seer, a Brāhmaṇa who sees the mantra, or whatever king you rouse and impel to good works, that seer or king is not overcome, not defeated by others; जि जये ज्या वयोहानावित्यस्य (*ji jaye jyā vayohānāvityasya*): he refers to the root for conquering, or this is a form of the root for decay of life. O Maruts, he is not slain, not harmed; he is not violently separated from his life-breaths. He does not decay, does not waste away. He is not pained, not afflicted. He is not injured; here injury means mere hindrance. His riches do not fall away, and likewise his protections do not fall away.
+### Printed p. 666
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts (you)
+- यं (*yaṃ*)—whichever
+- ऋषिं (*ṛṣiṃ*)—seer
+- राजानं ना (*rājānaṃ nā*)—or king
+- सुषूदथ (*suṣūdatha*)—you impel to good works
+- सः (*saḥ*)—he
+- न जीयते (*na jīyate*)—is not overcome by anyone
+- न हन्यते (*na hanyate*)—is not slain
+- न प्रेधति (*na predhati*)—does not suffer decay **NOTE**
+- न व्यथते (*na vyathate*)—is not afflicted
+- न रिष्यति (*na riṣyati*)—is not injured
+- अस्य (*asya*)—his
+- रायः (*rāyaḥ*)—riches
+- न उप दस्यंति (*na upa dasyaṃti*)—do not decay
+- ऊतयः (*ūtayaḥ*)—protections
+- न (*na*)—do not decay
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, whatever seer or king you impel to good works, he is not overcome by anyone. He is not slain. He does not suffer decay. He is not afflicted. He is not injured. His riches do not decay. His protections also do not fail.
+
+##### English translation
+The sage, or the sovereign, whom you, Maruts, direct, is never overcome nor slain: he perishes not, nor suffers pain, nor undergoes injury, nor are his riches or his safety imperilled.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒युत्वं॑तो ग्राम॒जितो॒ यथा॒ नरो॑ऽर्य॒मणो॒ न  
+> म॒रुतः॑ कवं॒धिनः॑ ।  
+> पिन्वं॒त्युत्सं॒ यदि॒नासो॒ अस्व॑र॒न्‌व्यं॑दंति पृथि॒वीं मध्यो॒  ॑
+> अंधसा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नियुत्वंतः । ग्रामजितः । यथा । नरः । अर्यमणः । न । मरुतः । कवंधिनः ।  
+> पिन्वंति । उत्सं । यत् । इनासः । अस्वरन् । वि । उंदंति । पृथिवीं । मध्यः ।  
+> अंधसा ॥ ८ ॥
+
+### Printed p. 667
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यामेव तृतीयस्याः पिंड्या याज्या नियुत्वंत इत्येषा । सूत्रितं
+> च । नियुत्वंतो ग्रामजितो यथा नरोऽग्ने बाधस्व वि मृधो वि दुर्गहा ।
+> आ-२-१३ । इति ॥
+> नियुत्वंतो नियुत्संज्ञकैरश्वैस्तंद्वतो मरुतो ग्रामजितः संघात्मकस्य
+> पदार्थस्य विश्लेषयितारो नरो नराकारा नेतारो ना । मरुतो नियुत्वंतः ।
+> अयं शब्दोऽत्राश्वसामान्ये वर्तते । नितरां यवनवंतोऽश्ववंतो ग्रामजितो
+> ग्रामस्य जेतारो नर इव मनुष्या इव तथा भवंति । आर्यमणो न आर्यमप्रभृतय आदित्या इव । दीप्ता इति शेषः । तादृशा मरुतः कवंधिन उदकवंतो
+> भवंति । यद्यदेनास ईश्वरा उत्सं कूपादिनिम्न प्रदेशं मेघं वा पिन्नंति व्याययंत्युदकेन। यदास्वरन् शब्दयंति यदा व्युंदंति पृथिवीं मध्यो मधुरस्कोदकस्यांधसा सारेण तदैवं भवंति । यद्वा । यदास्वरन् तदा पिन्नंत्युत्समिनासः
+> तदांधस्य पृथिवीं व्युंदंतीति ॥
+
+##### Gist of the bhāṣya
+
+In the Kārīrī alone, the verse नियुत्वंत इत्येषा (*niyutvaṃta ityeṣā*) is the yājyā of the third piṇḍī. **NOTE** It is also stated in the sūtra: नियुत्वंतो ग्रामजितो यथा नरोऽर्यमणो न मरुतः कवंधिनः । पिन्वंत्युत्सं यदिनासो अस्वरन्‌व्यंदंति पृथिवीं मध्यो अंधसा ॥ ८ ॥ नियुत्वंतः । ग्रामजितः । यथा । नरः । अर्यमणः । न । मरुतः । कवंधिनः । पिन्वंति । उत्सं । यत् । इनासः । अस्वरन् । वि । उंदंति । पृथिवीं । मध्यः । अंधसा ॥ ८ ॥ कारीर्यामेव तृतीयस्याः पिंड्या याज्या नियुत्वंत इत्येषा । सूत्रितं च । नियुत्वंतो ग्रामजितो यथा नरोऽग्ने बाधस्व वि मृधो वि दुर्गहा । (*niyutvaṃto grāmajito yathā naro 'ryamaṇo na marutaḥ kavaṃdhinaḥ | pinvaṃtyutsaṃ yadināso asvaranvyaṃdaṃti pṛthivīṃ madhyo aṃdhasā ‖ 8 ‖ niyutvaṃtaḥ | grāmajitaḥ | yathā | naraḥ | aryamaṇaḥ | na | marutaḥ | kavaṃdhinaḥ | pinvaṃti | utsaṃ | yat | ināsaḥ | asvaran | vi | uṃdaṃti | pṛthivīṃ | madhyaḥ | aṃdhasā ‖ 8 ‖ kārīryāmeva tṛtīyasyāḥ piṃḍyā yājyā niyutvaṃta ityeṣā | sūtritaṃ ca | niyutvaṃto grāmajito yathā naro 'gne bādhasva vi mṛdho vi durgahā |*) (Ā. 2-13). The Maruts are possessed of the horses called Niyut, and this word here refers to horses in general; they are those who are strongly yoked, owners of horses. They are conquerors of a multitude, that is, dissolvers of a thing that is a compound whole; they are men in form, leaders, like men who conquer a village. They are like the Ādityas beginning with Aryaman, shining. Such Maruts are water-bearing. When, as lords, they fill the well or any low place, or the cloud, with water, when they sound, and when they moisten the earth with the essence of the sweet water, then they are so. Or else: when they sound, then the lords fill the spring, and then they moisten the earth with the sustenance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नियुत्वंतः (*niyutvaṃtaḥ*)—possessors of the horses called Niyut
+- ग्रामजितः (*grāmajitaḥ*)—dissolvers of what is in compound form
+- नरः (*naraḥ*)—leaders
+- आर्यमणो न (*āryamaṇo na*)—radiant like the Ādityas beginning with Aryaman
+- मरुतः (*marutaḥ*)—Maruts
+- कवंधिनः (*kavaṃdhinaḥ*)—are water-bearing
+- यत् (*yat*)—at the very time when
+- ईनासः (*īnāsaḥ*)—the Maruts, who are lords
+- उत्सं (*utsaṃ*)—places such as wells
+- पिन्नंति (*pinnaṃti*)—they fill with water
+- अस्वरन् (*asvaran*)—sounding
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- मध्वः (*madhvaḥ*)—of the water **NOTE**
+- अंधसा (*aṃdhasā*)—with the essence
+- व्युंदंति (*vyuṃdaṃti*)—they make it drenched
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who are possessed of the horses called Niyut, dissolvers of what is in compound form, leaders, radiant like the Ādityas beginning with Aryaman, are water-bearing. Those same Maruts, lords of all water, fill places such as wells with water. Sounding, they make the earth drenched with the essence of the water.
+
+##### English translation
+Lords of the Niyut steeds, overcomers of multitudes, leaders (of rites), radiant as the Adityas, are the dispensers of water : when sovereign lords, they fill the clouds, and, loud sounding, moisten the earth with sweet (watery) sustenance.
+
 ---
 
-**Progress note:** Done through printed p. 661. Sukta 54 Rk 2 end, Rks 3-4, Rk 5 text
+**Progress note:** Done through printed p. 667. Mandala 5 sukta 54 Rks 5 (end)-8 (Maruts)
