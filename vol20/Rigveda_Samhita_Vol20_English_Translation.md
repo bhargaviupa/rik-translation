@@ -19295,6 +19295,203 @@ O Agni with excellent flames, on this sacrificial altar, which has a seat soft l
 ##### English translation
 Bright-rayed Agni, sit down first with all the gods, upon the altar lined with wool, a nest (of perfumes) and suffused with ghee, and rightly convey (to the deities) the sacrifice of the institutor of the rite, of the presenter of the oblation.
 
+### Printed p. 557
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrificial rite called Agnipraṇayana, in which Agni is taken to the upper altar and established, this Ṛk beginning अग्ने विश्वेभिः (*agne viśvebhiḥ*) is to be recited as an anuvākyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra, अग्ने विश्वेभिः स्वनीकदेवैरित्यर्धर्च आरमेत् (*agne viśvebhiḥ svanīkadevairityardharca āramet*) (Ā. 2-17).
+In the rite called Agnipraṇayana the Hotṛ recites eight Ṛks in all. Among them this Ṛk beginning अग्ने विश्वेभिः (*agne viśvebhiḥ*) is the fifth. About its application the Aitareya Brāhmaṇa (Ai. Brā. 5-2) gives this explanation:
+अग्ने विश्वेभिः स्वनीकदेवैरूर्णावंतं प्रथमः सीद योनिमिति विश्वैरेवैनं तद्देवैः सहासादयति । कुलायिनं धृतवंतं सवित्र इति कुलायमिव ह्येतद्यज्ञॆ क्रियते यत्प्रतुदारवाः परिधयो गुग्गुलूर्णास्तुकाः सुगंधितेजनानीति यज्ञं नय यजमानाय साध्विति यज्ञमेव तदृजुधा प्रतिष्ठापयति ॥ (*agne viśvebhiḥ svanīkadevairūrṇāvaṃtaṃ prathamaḥ sīda yonimiti viśvairevainaṃ taddevaiḥ sahāsādayati | kulāyinaṃ dhṛtavaṃtaṃ savitra iti kulāyamiva hyetadyajñè kriyate yatpratudāravāḥ paridhayo guggulūrṇāstukāḥ sugaṃdhitejanānīti yajñaṃ naya yajamānāya sādhviti yajñameva tadṛjudhā pratiṣṭhāpayati ‖*) (Ai. Brā. 5-2) **NOTE**
+O Agni, endowed with armies called flames, come and sit down, chief of all the gods, in this navel-place called the upper altar: this is the main purport of the first half of this Ṛk. The use of the word विश्वेभिः (*viśvebhiḥ*) here indicates that all the gods are established together with Agni; that is, the meaning is that Agni, together with all the gods, takes his seat on the upper altar (the sacrificial pit), which is like a bird's nest made soft by spreading threads of wool. The purport of the second half of the Ṛk is: abiding on the upper altar, the navel-region of the sacrifice, which is rich with wood and the like and sprinkled with ghee, accomplish well the sacrificial rites of the sacrificer. The words कुलायिनं धृतवंतं (*kulāyinaṃ dhṛtavaṃtaṃ*) in the third pāda here suggest a bird's nest. That is, a bird builds its nest by joining and weaving together small twigs of the khadira or deodar tree, gum, woollen threads, and a kind of fragrant grass. The navel-place of Agni (the sacrificial pit) is compared here to that nest. How? In building the nest the bird uses twigs; here the logs called paridhi placed around Agni are the twigs. In the same way, in place of gum there is the fragrant material such as ghee prepared for the oblation, in place of woollen threads there are sacrificial animals such as the goat, and in place of the grass there are the kindling sticks, all prepared and placed around Agni; therefore the upper altar (the fire-pit) established for Agni is described by comparison with a bird's nest.
+
+### Printed p. 558
+
+The prayer is expressed here that Agni, established in the place of the upper altar that is like such a bird's nest, may well accomplish the sacrificial acts of the sacrificer.
+For the detailed explanation of the sacrificial rite called Agnipraṇayana, see what we have explained in Ṛ. Saṃ. Part 14, pp. 541-549.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ममु॒ त्यम॑थर्व॒वद॒ग्निं मं॑थंति वे॒धसः॑ ।  
+> यमं॑कू॒यंत॒मान॑य॒न्नमू॑रं श्या॒व्या॑भ्यः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । ऊं इति । त्यं । अथर्ववत् । अग्निं । मंथंति । वेधसः ।  
+> यं । अंकुयंतं । आ । अनयन् । अमूरं । श्याव्याभ्यः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधसः कर्मणां विधातार ऋत्विज इमं दृश्यमानं त्यं तं पूर्वोक्तगुणमग्नि मथर्ववत् यथार्थर्वाख्य ऋषिः पुरामथ्नात्तथा मंथंति । मथ्यंति ।
+> अरण्योः सकाशाज्जनयंति । अंकूयंतं । कुत्सितमंचनं गमनमंकु । तदात्मन
+> इच्छंतं देवेभ्यो निर्गत्येतस्ततः पलायमानममूरममूढं यमग्निं
+> श्याव्याभ्यः । श्यावीति रात्रिनाम । तत्र भवास्तमसः संहतॆयः श्याव्याः । ताभ्यः
+> सकाशादानयन् आगमयन् तं मंथंतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The vedhas, that is, the Ṛtvijs, the makers of the rites, churn this visible Agni, of the qualities stated before, as the seer called Atharvan churned him of old. They bring forth by friction from the two kindling sticks. अंकूयंतं (*aṃkūyaṃtaṃ*): aṅku is a crooked going; he who wishes it for himself, going away from the gods hither and thither, fleeing from there; अमूरं (*amūraṃ*) is unbewildered. That Agni they bring from the śyāvyās: श्यावी (*śyāvī*) is a name of night, and the masses of darkness arising there are the śyāvyās. From them they bring him; they churn him: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधसः (*vedhasaḥ*)—the priests, the doers of the rite
+- त्यं (*tyaṃ*)—the well-known
+- इमं अग्निं (*imaṃ agniṃ*)—this Agni
+- अथर्ववत् (*atharvavat*)—as the seer called Atharvāṅgiras churned him of old
+- मंथंति (*maṃthaṃti*)—they churn and cause him to blaze
+- अंकूयंतं (*aṃkūyaṃtaṃ*)—having a crooked movement
+- अमूरं (*amūraṃ*)—free from bewilderment
+- यं (*yaṃ*)—which same Agni
+- श्याव्याभ्यः (*śyāvyābhyaḥ*)—from the dark glooms of night
+- आ अनयन् (*ā anayan*)—they bring out
+
+### Printed p. 559
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, the doers of the rite, churn this well-known Agni, as the seer Atharvāṅgiras churned him of old, and cause him to blaze. They churn to bring out of the dark glooms of night that same Agni, who has a crooked movement and yet is free from bewilderment.
+
+##### English translation
+The priests churn you Agni, as was done by Atharvan, and bring him from the glooms of night, wandering deviously, but not bewildered.
+
+##### विशेषविषयगळु (Special Topics)
+
+अथर्ववत् (*atharvavat*): that this seer kindled Agni well in the sacrifice performed by him is stated in this Ṛk, in the Ṛk त्वामग्ने पुष्करादध्यर्थर्वा (*tvāmagne puṣkarādadhyartharvā*) (Ṛ. Saṃ. 6-16-14) **NOTE**, and in other Vedas. This seer Atharvan is counted in the list of ancient seers. The matter of how this Atharvan produced Agni, and other matters, are explained in the special topics of Ṛks 13 and 14 of the sixteenth sūkta of this same part.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जनि॑ष्वा दे॒वनी॑तये स॒र्वता॑ता स्व॒स्तये॑ ।  
+> आ दे॒वान्व॑क्ष्य॒मृता॑ ऋता॒वृधो॑ य॒ज्ञं दे॒वेषु॑ पिस्पृशः॥१८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिष्व । देववीतये । सर्वताता । स्वस्तये ।  
+> आ । देवान् । वक्षि । अमृतान् । ऋतवृधः । यज्ञं । देवेषु । पिस्पृशः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सर्वताता सर्वैस्तायमाने यज्ञे मध्यमानस्त्वं जनिष्ट ।
+> प्रादुर्भुव । किमर्थ० । देववीतये देवकामाय यजमानाय ॥ षष्ठ्यर्थे
+> चतुर्थेषा ॥ ईदृशस्य यजमानस्य स्तस्तयेऽविनाशार्थ० । जनित्वा चामृतान्मरण-
+
+##### Gist of the bhāṣya
+
+O Agni, churned in the sacrifice that is spread by all (sarvatātā), be born, appear. For what purpose? For the sacrificer who desires the gods. For the welfare of such a sacrificer, that is, for his non-destruction. And having been born, bring the immortals, free from death, the augmenters of the sacrifice (ṛtāvṛdhaḥ), the gods.
+
+### Printed p. 560
+
+> रहितानृतावृधो यज्ञस्य वर्धयित्यन् देवाना वक्षि । आवह । तदनंतरं तेषु
+> देवेष्वस्मदीयं यज्ञं पिस्पृशः । स्पर्शय । प्रापयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+After that, make our sacrifice touch among those gods; that is, bring it to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सर्वताता (*sarvatātā*)—in this sacrifice
+- देववीतये (*devavītaye*)—of this sacrificer who desires the presence of the gods
+- स्वस्तये (*svastaye*)—for the welfare
+- जनिष्व (*janiṣva*)—be born
+- अमृतान् (*amṛtān*)—free from mortality
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—the augmenters of the sacrifice
+- देवान् (*devān*)—the gods
+- आ वक्षी (*ā vakṣī*)—bring
+- देवेषु (*deveṣu*)—among those gods
+- यज्ञं (*yajñaṃ*)—our share of the sacrifice
+- पिस्पृशः (*pispṛśaḥ*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be born for the welfare of this sacrificer, who desires the presence of the gods in this sacrifice. Bring the gods, who are free from mortality and are the augmenters of the sacrifice. Offer our sacrifice to those gods.
+
+##### English translation
+Be born, Agni, at the sacrifice, for the welfare of the offerer (of the oblation) to the gods : bring hither the immortal deities, the augmenters of the (sacred) rite : present our sacrifice to the gods.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमु॑ त्वा गृहपते जनाना॒मग्ने॒ अक॑र्म स॒मिधा॑ बृ॒हंतं॑।  
+> अ॒स्थू॒रि नो॒ गार्ह॑पत्यानि संतु ति॒ग्मेन॑ न॒स्तेज॑सा॒ सं शि॑शाधि॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ऊंइति । त्वा । गृहपते । जनानां । अग्ने । आकर्म । संइधा । बृहंतं ।  
+> अस्थूरि । नः । गार्हपत्यानि । संतु । तिग्मेन । नः । तेजसा । सं । शिशाधि ॥ १९ ॥
+
+### Printed p. 561
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गृहपते यज्ञानां पालकाग्ने जनानां प्राणिनां मध्यॆ वयमु
+> वयमेव त्वा त्वां समिधा समिंधनेन बृहंतं महांतमकर्म । कृतवंतः स्मः ।
+> अतः कारणात् नोऽस्माकं गार्हपत्यानि गृहपतित्वान्यस्थूर्यस्थूरीणि । एकाश्वयुक्तः
+> शकटः स्थूरिरित्युच्यते तद्विपरीतो बहुभिरश्चैरुपेतः शकटोऽस्थूरिः । तेन च
+> संपूर्णता लक्ष्यते । अस्थूरीणि पुत्रपशुधनादिभिः संपूर्णानि भवंतु । अपि च
+> नोऽस्मान् तिग्मेन तीक्ष्णेण तेजसा सं शिशाधि । सम्यङ्निश्य । सम्यक् तीक्ष्णीकुरु ।
+> संयोजयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Gṛhapati, Agni, protector of sacrifices, among beings it is we who have made you great with fuel, with kindling. For that reason, may our householderships be अस्थूरि (*asthūri*): a cart yoked with one horse is called sthūri, the opposite, a cart furnished with many horses, is asthūri, and by this fullness is indicated; may they be full of sons, cattle, wealth and the like. And sharpen us well with keen radiance, sharpen well, unite us: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृहपते (*gṛhapate*)—O protector of the sacrifice
+- अग्ने (*agne*)—O Agni
+- जनानां (*janānāṃ*)—among beings
+- वयमु (*vayamu*)—we alone
+- त्वा (*tvā*)—you
+- समिधा (*samidhā*)—with kindling sticks
+- बृहंतं (*bṛhaṃtaṃ*)—so as to grow abundantly
+- अकर्म (*akarma*)—have made
+- नः (*naḥ*)—our
+- गार्हपत्यानि (*gārhapatyāni*)—householdership
+- अस्थूरि (*asthūri*)—make it endowed with all wealth such as sons and cattle
+- नः (*naḥ*)—us
+- तिग्मेन (*tigmena*)—with keen
+- तेजसा (*tejasā*)—radiance
+- सं शिशाधि (*saṃ śiśādhi*)—make sharp (make pure)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protector of the sacrifice, among beings it is we who have made you grow abundantly with kindling sticks. Make the lordship of our house endowed with all wealth such as sons and cattle. Make us pure and stirred up with keen radiance.
+
+##### English translation
+Lord of the house, Agni, we, amongst men, promote your increase by fuel : may our domestic fires be supplied with all that is essential : enliven us with brilliant radiance.
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्थूरि (*asthūri*): for this word the commentator has said अस्थूरि अस्थूरीणि । एकाश्वयुक्तः शकटो स्थूरिरित्युच्यते । तद्विपरीतो बहुभिरश्वैरुपेतः शकटोऽस्थूरिः । तेन च संपूर्णता लक्ष्यते । अस्थूरीणि पुत्रपशुधनादिभिः संपूर्णानि भवंतु । (*asthūri asthūrīṇi | ekāśvayuktaḥ śakaṭo sthūrirityucyate | tadviparīto bahubhiraśvairupetaḥ śakaṭo 'sthūriḥ | tena ca saṃpūrṇatā lakṣyate | asthūrīṇi putrapaśudhanādibhiḥ saṃpūrṇāni bhavaṃtu |*) That is, a cart to which only one horse is yoked is called sthūri. Since asthūri stands here, the meaning of a chariot furnished with many horses is indicated. Where there is such a chariot, cattle, sons and the like must accordingly be there. Therefore Agni is prayed to bring about that many horses, chariots, cattle and other wealth come to us.
+
+### Printed p. 562
+
+## Sūkta 16 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाकेऽष्ट सूक्तानि! तत्र त्वमग्ने यज्ञानामित्यष्टाचत्वारिंशदृचं
+> प्रथमं सूक्तं भरद्वाजस्यार्षवाग्नेयं । आद्या षष्ठी च वर्धमाना गायत्री
+> षट्कसप्तकाष्टकाः सा वर्धमानेत्युक्तलक्षणोपेतत्वात् । सप्तविंश्यनुष्टुप् । आ ते
+> अग्ने अग्निं देवास इत्येते ऋचावनुष्टुभौ । तयोः पूर्वा वीती यो देवमिति
+> त्रिष्टुप् । शिष्टा द्वाचत्वारिंशदृचो गायत्र्यः । तथा चानुक्रम्यते । त्वमग्नेऽष्टाचत्वारिंशद्दायत्रं वर्धमानाद्या षष्ठी च सप्तविंश्यनुष्टुप् त्रिष्टुप्पूर्वे चांत्ये
+> इति ॥ प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रत् गायत्रे छंदसीदं सूक्तमुच्यते ।
+> तत्रांत्यास्तिस्र ऋच उद्धर्तव्याः । सूत्रते हि । त्वमग्ने यज्ञानामिति तिस्र उत्तमा
+> उद्धरेत् । आ. ४-१३ । इति ॥ विश्वजित्याग्निमारुते बृहत्साम यद्यग्निष्टोमसम
+> स्यात्तदानीमाद्याः षडृचः स्तोत्रियानुरूपार्थाः । सूत्रितं हि । त्वमग्ने यज्ञानामिति स्तोत्रियानुरूपौ । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the second anuvāka there are eight sūktas. Among them the first sūkta, त्वमग्ने यज्ञानां (*tvamagne yajñānāṃ*), has forty-eight Ṛks; its seer is Bharadvāja and its deity Agni. The first and the sixth Ṛks are Vardhamānā Gāyatrī, of six, seven and eight syllables in the three pādas, since they have the characteristic called vardhamānā. The twenty-seventh is Anuṣṭubh; two further Ṛks, आ ते अग्ने (*ā te agne*) and अग्निं देवासः (*agniṃ devāsaḥ*), are Anuṣṭubh; of the two the former is Triṣṭubh; the remaining forty-two Ṛks are Gāyatrī. The Anukramaṇikā says the same. In the Prātaranuvāka and in the Āśvina śastra, in the Āgneya kratu, with the Gāyatra metre, this sūkta is used; in it the last three Ṛks are to be taken up, as the sūtra says: त्वमग्ने यज्ञानामिति तिस्र उत्तमा उद्धरेत् (*tvamagne yajñānāmiti tisra uttamā uddharet*) (Ā. 4-13). At the Viśvajit Āgnimāruta with the Bṛhatsāman, if the rite is like an Agniṣṭoma, the first six Ṛks serve as stotriya and anurūpa; the sūtra says: त्वमग्ने यज्ञानामिति स्तोत्रियानुरूपौ (*tvamagne yajñānāmiti stotriyānurūpau*) (Ā. 8-7). **NOTE**
+
+##### Anuvāda
+
+Translation: In the second anuvāka of the sixth maṇḍala there are eight sūktas. Among them this sūkta, त्वमग्ने यज्ञानां (*tvamagne yajñānāṃ*), is the first. It has forty-eight Ṛks. The seer of this sūkta is Bharadvāja; the deity is Agni. The first and the sixth Ṛks of this sūkta are of the metre called Vardhamānā Gāyatrī. This metre Vardhamānā has three pādas: the first pāda has six syllables, the second seven, the third eight; thus the characteristic of this metre is stated in the Anukramaṇikā. The twenty-seventh Ṛk of this sūkta, and the forty-seventh and forty-eighth Ṛks, आ ते अग्ने (*ā te agne*) and अग्निं देवासः (*agniṃ devāsaḥ*), are of the Anuṣṭubh metre. The forty-sixth Ṛk, नीती यो देवं (*nītī yo devaṃ*), is of the Triṣṭubh metre. The remaining forty-two Ṛks are of the Gāyatrī metre. In the Anukramaṇikā it is said: त्वमग्नेऽष्टाचत्वारिंशद्दायत्रं वर्धमानाद्या षष्ठि च सप्तविंश्यनुष्टुप् त्रिष्टुप् पूर्वे चांत्ये (*tvamagne 'ṣṭācatvāriṃśaddāyatraṃ vardhamānādyā ṣaṣṭhi ca saptaviṃśyanuṣṭup triṣṭup pūrve cāṃtye*). In the recitation of the mantras of the Prātaranuvāka and of the Āśvina śastra, this sūkta is applied for the mantras of the Gāyatrī metre connected with the Āgneya kratu,
+
 ---
 
-**Progress note:** Done through printed p. 556. Ṛk 13 (rest) to Ṛk 16, Sūkta 15, pp. 551-556
+**Progress note:** Done through printed p. 562. Ṛk 16 (rest) to Sūkta 16 intro, pp. 557-562
