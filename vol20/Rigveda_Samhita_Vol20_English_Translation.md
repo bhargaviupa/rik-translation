@@ -11751,6 +11751,114 @@ That Bharata (whose wealth was greater than Indra's) had three wives, daughters 
 
 Bṛhaspati had a younger brother named Ucathya. He had a wife named Mamatā. At the time when that brother's wife was with child, Bṛhaspati, infatuated with her and overcome with desire, secretly with her
 
+### Printed p. 354
+
+began to have intercourse. Then the child lying in her womb said to Bṛhaspati: "O Bṛhaspati, while I am in the womb, your seed cannot find a place here. Therefore hold back your seed; it must not be emitted." Bṛhaspati became angry. In his wrath he cursed that embryo: "O embryo, become blind," and by force he placed his seed together with it. Though blind, that embryo pushed that new seed outside. Then that seed, spilled on the ground, at once took the form of a son. Then Mamatā, fearing that if she protected and nourished the child born in the form of her son, her husband, suspecting her of unchastity, would abandon her, wished to abandon the child itself. Seeing her firm resolve, the gods contrived a dialogue between Bṛhaspati and Mamatā, so that no kind of suspicion would arise in her husband and so that it would accord with the name of the child born there, and they told it in this way. The purport of that dialogue is interesting. It is this:
+
+Bṛhaspati: "O foolish Mamatā, if a son is born in one man's own field through the company of another man, he is the son of the keeper of the field as well. For that reason you need not fear your husband. Do not abandon this son who belongs equally to both of us; protect and rear him."
+
+Mamatā: "O Bṛhaspati, this son was born because you came by stealth and had intercourse with me. Since he was born of a trespass, you yourself must rear him. I have no reason to rear him."
+
+Thus, both having stated their own personal reasons, he abandoned the child there and went away. From that time the name Bharadvāja arose for him. Although the gods composed such a conciliatory dialogue and told it to Mamatā in the form of instruction, she did not agree, abandoned there the child born of the seed of one who was not her husband, and went away. Then the Maruts reared that son and graciously gave him as a son to Bharata, who desired offspring; so the sage Śuka told King Parīkṣit. Because he was born of Bṛhaspati in the wife of Ucathya, he was named Bharadvāja; and because he became the cause of the growth of the line of Bharata, which was vitatha, that is, childless and fruitless, he was also named Vitatha. Thus the name Bharadvāja became famous for him both because he gave preservation of descent to a household and because he has the capacity to protect all, gods, men and the rest. The sage himself, stating this same purport, has given the etymology of his own name in the Mahābhārata in this way.
+
+### Printed p. 355
+
+भरेऽसुतान्भरे पोष्यान्भरे देवान् भरे द्विजान् । भरे भार्यामहं व्याजाद्भरद्वाजोऽस्मि शोभने ॥ (*bhare 'sutānbhare poṣyānbhare devān bhare dvijān | bhare bhāryāmahaṃ vyājādbharadvājo 'smi śobhane ‖*)
+
+(Mahābhārata. Anuśāsana-parva, Kuṃ. 142-35)**NOTE**
+
+"I have the power to bear those without sons, those who are to be nourished, the gods, the twice-born and my wife. For whatever reason, since I have the power to bear such as are fit to be borne, I am called Bharadvāja," so the account of the conversation between Bharadvāja and a Yātudhāni tells.
+
+In the Ārṣeya Upaniṣad a discussion on the principle arises between Bharadvāja and Gotama, and the two exchange their views with each other. The same discussion on spiritual matters stands in the Mahābhārata in the form of a conversation between Bhṛgu and Bharadvāja. When Yudhiṣṭhira begged Bhīṣma to explain the creation of the world, Bhīṣma tells the conversation that took place on this very subject between Bhṛgu and Bharadvāja. This conversation runs from the 180th to the 190th chapter of the Śāntiparva of the Mahābhārata. But here, by way of example, only one or two occasions on which Bharadvāja questioned Bhṛgu are told, and an introduction to Bharadvāja's spiritual outlook is given briefly.
+
+भीष्म उवाच (*bhīṣma uvāca*)
+
+अत्राप्युदाहरंतीममितिहासं पुरातनं । भृगुणाभिहितं श्रेष्ठं भरद्वाजाय पृच्छते ॥ कैलासशिखरे दृष्ट्वा दीप्यमानमिवौजसा । भृगुं महर्षिमासीनं भरद्वाजोऽन्वपृच्छत ॥ ससागरः सगगनः सशैलः सवराहकः । सभूमिः साग्निपवनः लोकोऽयं केन निर्मितः ॥ कथं सृष्टानि भूतानि कथं वर्णविभक्तयः । शौचाशौचं कथं तेषां धर्माधर्मावथो कथं ॥ (*atrāpyudāharaṃtīmamitihāsaṃ purātanaṃ | bhṛguṇābhihitaṃ śreṣṭhaṃ bharadvājāya pṛcchate ‖ kailāsaśikhare dṛṣṭvā dīpyamānamivaujasā | bhṛguṃ maharṣimāsīnaṃ bharadvājo 'nvapṛcchata ‖ sasāgaraḥ sagaganaḥ saśailaḥ savarāhakaḥ | sabhūmiḥ sāgnipavanaḥ loko 'yaṃ kena nirmitaḥ ‖ kathaṃ sṛṣṭāni bhūtāni kathaṃ varṇavibhaktayaḥ | śaucāśaucaṃ kathaṃ teṣāṃ dharmādharmāvatho kathaṃ ‖*)
+
+(Śā. Pa. 18-5 to 12)**NOTE**
+
+Bhīṣma, questioned by Dharmarāja, describes the incident, famed in tradition, in the form of a conversation between Bhṛgu and Bharadvāja. Bharadvāja questioned the great seer Bhṛgu, who formerly lived on the peak of Kailāsa and was of fierce splendour, in this way: "O great seer, by whom and how was this universe created, with all beings such as ocean, sky, mountain, cloud, earth, fire and wind? How was the creation of living beings, and in particular of men, brought about? How did the division of dharma and adharma come about
+
+### Printed p. 356
+
+? What is the nature of the other world? What is the final goal of living beings? What are birth and death?" and so on. When he asked thus, the great seer Bhṛgu:
+
+नारायणो जगन्मूर्तिरंतरात्मा सनातनः । कूटस्थोऽक्षर अव्यक्तो निर्लेपो व्यापकः प्रभुः ॥ (*nārāyaṇo jaganmūrtiraṃtarātmā sanātanaḥ | kūṭastho 'kṣara avyakto nirlepo vyāpakaḥ prabhuḥ ‖*)
+
+Śrīman Nārāyaṇa, the inner controller of all, pervading the world, eternal, unchanging, imperishable, unmanifest, free from fault, and lord of all worlds, is the creator and ruler of the whole universe of moving and unmoving things; thus he explained the manner of creation. Again, to Bharadvāja's questions such as किं तस्य धर्माचरणं किं वा धर्मस्य लक्षणं (*kiṃ tasya dharmācaraṇaṃ kiṃ vā dharmasya lakṣaṇaṃ*)**GLOSS** Bhṛgu has explained the nature of one's own dharma. For fear of lengthening the book this matter has not been explained in detail.
+
+Again, on another occasion Dharmarāja questions Yudhiṣṭhira concerning dharma: "What should be done if, through the nature of the time, dharma declines and affliction comes from enemies such as thieves and robbers?" When he asked this, Bhīṣma said, "In this matter I too shall now tell you what Bharadvāja told Śatruṃtapa; listen," and he explains the Daṇḍanīti, the policy of punishment, taught by Bharadvāja, beginning "For a king the chief instrument is punishment."
+
+Thus, as described in the Bṛhaddevatā and in the Bhāgavata and the like, the origin and power of Bharadvāja are described in the Matsya Purāṇa also. But in the Bṛhaddevatā only the matter of the Maruts giving Bharadvāja to Bharata as a son is absent. The words of the Matsya Purāṇa are as follows.
+
+यषय ऊचुः ॥ भरतस्य भरद्वाजः पुत्रार्थं मारुतैः कथं । संक्रामितो महातेजास्तन्नो ब्रूहि यथातथं ॥ ॥ सूत उवाच ॥ पत्न्यामापन्नसत्त्वायामुशिजः स स्थितो भुवि । भ्रातुर्भार्यां स दृष्ट्वा तु बृहस्पतिरुनाच ह ॥ संक्रामितो भरद्वाजो मरुद्भिर्भरतं प्रति ॥ (*yaṣaya ūcuḥ ‖ bharatasya bharadvājaḥ putrārthaṃ mārutaiḥ kathaṃ | saṃkrāmito mahātejāstanno brūhi yathātathaṃ ‖ ‖ sūta uvāca ‖ patnyāmāpannasattvāyāmuśijaḥ sa sthito bhuvi | bhrāturbhāryāṃ sa dṛṣṭvā tu bṛhaspatirunāca ha ‖ saṃkrāmito bharadvājo marudbhirbharataṃ prati ‖*)**GLOSS**
+
+(Matsya Purāṇa, chapter 49)
+
+Since the same matter that is described above in the Bhāgavata, the origin of Bharadvāja and the rest, is told in the Matsya Purāṇa too with the same details, this part has not been explained at length.
+
+### Printed p. 357
+
+The Bharadvāja described in the Araṇya-parva of the Mahābhārata must be different from the Bharadvāja spoken of above. The one described in the Araṇya-parva is also a seer. His matter is explained in chapters 137 to 140 of the Araṇya-parva. His affair is told here only in the briefest form.
+
+भरद्वाजश्च रैभ्यश्च सखायौ संबभूवतुः । तावूषतुरिहात्यंतं प्रीयमाण् वनांतरे ॥ (*bharadvājaśca raibhyaśca sakhāyau saṃbabhūvatuḥ | tāvūṣaturihātyaṃtaṃ prīyamāṇ vanāṃtare ‖*)
+
+(Va. Pa. 137-12)**NOTE**
+
+Raibhya and Bharadvāja were friends. They lived in mutual affection. Bharadvāja had a son named Yavakrīta. When he behaved very foolishly once or twice towards Raibhya, a minor deity created by the sage Raibhya killed Yavakrīta. Unable to bear grief for his son, Bharadvāja entered the fire. Then Raibhya brought Bharadvāja back to life (Vana-parva 137-140). Another great seer named Bharadvāja is described in the Śalya-parva of the Mahābhārata.
+
+भरद्वाजस्य विप्रर्षेः स्कन्नं रेतो महात्मनः । दृष्ट्वाप्सरसमायांतीं धृताचीं पृथुलोचनां ॥ स तु जग्राह तद्रेतः करेण जपताः वरः । तदापतत्पर्णपुटे तत्र सा संभवत्सुता ॥ तस्यास्तु जातकर्मादि कृत्वा सर्वं तपोधनः । नाम चास्याः स कृतवान्भरद्वाजो महामुनिः ॥ श्रुतावतीति धर्मात्मा देवर्षिगणसंसदि । (*bharadvājasya viprarṣeḥ skannaṃ reto mahātmanaḥ | dṛṣṭvāpsarasamāyāṃtīṃ dhṛtācīṃ pṛthulocanāṃ ‖ sa tu jagrāha tadretaḥ kareṇa japatāḥ varaḥ | tadāpatatparṇapuṭe tatra sā saṃbhavatsutā ‖ tasyāstu jātakarmādi kṛtvā sarvaṃ tapodhanaḥ | nāma cāsyāḥ sa kṛtavānbharadvājo mahāmuniḥ ‖ śrutāvatīti dharmātmā devarṣigaṇasaṃsadi |*)
+
+(Ma. Bhā. Śalya-parva 49-62 to 65)
+
+Once Bharadvāja, seeing the celestial woman Ghṛtācī, was infatuated and his seed was spilled. When he placed it in a leaf-cup, a daughter was born. He performed the birth rites and the rest for her. She became famed in the whole assembly of divine seers as Śrutāvatī. This is the description.
+
+The Bharadvāja praised in the Śrīmad-Rāmāyaṇa is yet another great seer. He is a disciple of the great seer Vālmīki (Rā. Bālakāṇḍa 2).**NOTE** He lived at the holy place Prayāga. When Śrī Rāma set out for the Daṇḍaka forest, he went to him and asked which region was fit for him to live in; learning that ten krośas from there is the Citrakūṭa mountain and that it is the region fit for dwelling, he came from there and reached Citrakūṭa. The nature of this great seer is described in the Rāmāyaṇa in this way.
+
+### Printed p. 358
+
+स प्रविश्य महात्मानमृषिं शिष्यगणैर्वृतं । संशितव्रतमेकाग्रं तपसा लब्धचक्षुषं ॥ हुताग्निहोत्रं दृष्ट्वैव महाभागं कृतांजलिः । रामः सौमित्रिणा सार्धं सीतया चाभ्यवादयत् ॥ (*sa praviśya mahātmānamṛṣiṃ śiṣyagaṇairvṛtaṃ | saṃśitavratamekāgraṃ tapasā labdhacakṣuṣaṃ ‖ hutāgnihotraṃ dṛṣṭvaiva mahābhāgaṃ kṛtāṃjaliḥ | rāmaḥ saumitriṇā sārdhaṃ sītayā cābhyavādayat ‖*)
+
+(Ayodhyākāṇḍa. 54-10 to 12)
+
+Then the two mighty brothers Rāma and Lakṣmaṇa, together with Sītā, stood for a while at a distance, waiting to have the sight of the seer Bharadvāja. After a short while Śrī Rāma went into the hermitage and saw Bharadvāja, a man of great spirit, surrounded by a company of disciples, of most strict vows, intent on meditation, possessed of the eye of knowledge obtained by austerity, venerable, seated after performing the Agnihotra. Thus this great seer is praised.
+
+उपानयत धर्मात्मा गामर्थ्यमुदकं ततः । नानाविधान्नरसान् वन्यमूलफलाश्रयान् ॥ तेभ्यो ददौ तप्ततपा वासं चैवाभ्यकल्पयत् ॥ (*upānayata dharmātmā gāmarthyamudakaṃ tataḥ | nānāvidhānnarasān vanyamūlaphalāśrayān ‖ tebhyo dadau taptatapā vāsaṃ caivābhyakalpayat ‖*)
+
+(Ayodhyā. 53-17, 18)
+
+Then the sage Bharadvāja brought water for the arghya and a cow to honour that wise one. And that Bharadvāja, foremost among the ascetics, offered to Sītā, Rāma and Lakṣmaṇa roots, tubers and fruits and food and drink of many kinds, and arranged for them a place fit to dwell in.
+
+When Bharata went to bring Śrī Rāma back to Ayodhyā, Bharadvāja, understanding Bharata's intention, praised him and gave a feast to him and his retinue.
+
+After the slaying of Rāvaṇa, Śrī Rāma set out for Ayodhyā with Sītā, Lakṣmaṇa and the others and on the way came to his hermitage. Then Bharadvāja gave a feast to all.
+
+Thus the splendour of the great seer Bharadvāja is described in many places. But apart from the Bharadvāja who is found in the Ṛgveda, it is not possible to say precisely how many seers of this name there were. The sūktas composed by this great seer in the Ṛksaṃhitā are these: 6-1 to 30; 6-37 to 43; 6-53 to 74; 9-67-1 to 3; 10-137-1.
+
+Whether the Bharadvāja who is well known in the Purāṇas and Itihāsas as the son of Bharata and the Bharadvāja who is the seer of the Ṛksaṃhitā sūktas are one and the same person or different is not easy to state with precise
+
+### Printed p. 359
+
+opinion. How Bharadvāja became the son of Bharata has been told above, as explained in the Śrīmad-Bhāgavata and the Matsya Purāṇa. In the Ṛksaṃhitā too the passage in which Bharadvāja speaks of Bharata as his elder is clear. How?
+
+त्वामीळे अध द्विता भरतो वाजिभिः शुनं । ईजे यज्ञेषु यज्ञियं ॥ (*tvāmīḷe adha dvitā bharato vājibhiḥ śunaṃ | īje yajñeṣu yajñiyaṃ ‖*)
+
+(Ṛ. Saṃ. 6-16-4)
+
+Here Bharadvāja praises the episode of Bharata's worshipping Agni. Sāyaṇa has explained here that for the word भरत (*bharata*) the intention is दौष्यंतिरेतत्संज्ञा राजा (*dauṣyaṃtiretatsaṃjñā rājā*), the king of that name, Bharata the son of Duṣyanta. The Purāṇas, as told above, describe that this Bharadvāja was not Bharata's own son, but that the Maruts brought Bharadvāja, abandoned by his mother and father, and gave him to Bharata. In Vedic passages too the direct connection between Bharadvāja and the Maruts is stated. In the Bṛhaddevatā line cited above, मरुत्सासीद्गुरुरश्च (*marutsāsīdgururaśca*) (Bṛ. De. 5-103), the point is stated that Bharadvāja was the teacher of the Maruts. (But the Purāṇas do not state that he was the teacher of the Maruts.) Therefore, by the mantra cited above (6-16-4), Bharadvāja has in effect said that Bharata was venerable to him and an ideal man.
+
+Secondly, just as the Purāṇas say that Bharadvāja was the son of Mamatā, the Bṛhaddevatā passage too states that he was the son of Mamatā. That the Ṛksaṃhitā passage also suggests this same relation can be inferred from some passages. For example:
+
+तमु द्युमः पुर्वणीक होतरग्ने अग्निभिर्मनुष इधानः । स्तोमं यमस्मै ममतेव शूषं धृतं न शुचि मतयः पवंते ॥ (*tamu dyumaḥ purvaṇīka hotaragne agnibhirmanuṣa idhānaḥ | stomaṃ yamasmai mamateva śūṣaṃ dhṛtaṃ na śuci matayaḥ pavaṃte ‖*)
+
+(Ṛ. Saṃ. 6-10-2)
+
+Here it is clear that Bharadvāja regards Mamatā as his ideal woman. But here Sāyaṇa has taken Mamatā to mean the mother of Dīrghatamas. The question also arises why she should not be Bharadvāja's mother. It is both possible and natural that Bharadvāja should say that his own mother was the ideal person for him.
+
+एतेन ह वा ऐंद्रेण महाभिषेकेण दीर्घतमा मामतेयो भरतं दौष्यंतिमभिषिषेच (*etena ha vā aiṃdreṇa mahābhiṣekeṇa dīrghatamā māmateyo bharataṃ dauṣyaṃtimabhiṣiṣeca*) (Ai. Brā. 39-23)
+
+Here it is said that Dīrghatamas, the son of Mamatā, performed the consecration of Bharata, the son of Duṣyanta. Then Mamatā, the mother of Dīrghatamas, and Mamatā, the mother of Bharadvāja,
+
 ---
 
-**Progress note:** Done through printed p. 353. Mandala 6 intro: Bharadvaja, Divodasa, Prastoka, Bhagavata
+**Progress note:** Done through printed p. 359. Mandala 6 intro: Bharadvaja in Puranas, Mahabharata, Ramayana, Bharata and Mamata
