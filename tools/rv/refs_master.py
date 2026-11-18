@@ -46,7 +46,7 @@ def suggest(w):
     if w in ('Pā. Mabhā.', 'Pā. Mā.', 'Pā. Rū.', 'Pā. Saṃ.', 'Pā. su.', 'Pā. sū. Ma.', 'Pā. sū. ma.', 'Pā. sū. vārtti.'): return ('Pā. Sū.', note + 'user, Nov 18 2026: "Pāṇini sūtra as well" (the second word is a misreading or names the vārttika / Mahābhāṣya)', 'high')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
-    if base == 'saṃ.' or (base != w and base == 'saṃ.'): return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.', 'medium')
+    if base == 'saṃ.': return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: lower-case saṃ. and the Devanagari सं. are Ṛ. Saṃ.; NOT true for capital Saṃ.', 'high')
     if base in ('U.', 'u.'): return ('U. Sū.', note + 'user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)', 'high')
     if base in ALIAS: return (ALIAS[base], note + 'known spelling of ' + ALIAS[base], 'high')
     hit = [f for f in listforms if norm(f) == norm(base)]
