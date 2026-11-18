@@ -13,24 +13,65 @@ lst = {r['english']: r for r in csv.DictReader(open(os.path.join(ROOT, 'rv', 're
 cnt = collections.defaultdict(collections.Counter)
 for r in csv.DictReader(open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), encoding='utf8'), delimiter='\t'): cnt[r['work']][int(r['vol'])] += 1
 vols = sorted({v for c in cnt.values() for v in c})
+# --- suggestions: what a form probably is, with the reason; the user approves (Nov 18 2026: "you give your suggestions and I approve")
+numshape = collections.defaultdict(collections.Counter)
+for r in csv.DictReader(open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), encoding='utf8'), delimiter='\t'):
+    numshape[r['work']][len(re.split(r'[-–,]', r['number'].strip()))] += 1
+def norm(x): return re.sub(r'[\s.]', '', x).lower()
+listforms = {}
+for f, r in lst.items():
+    if r['status'] in ('legend', 'extra'):
+        for g in f.split(' or '): listforms[g.strip()] = r
+ALIAS = {'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
+         'Ait. Brā.': 'Ai. Brā.', 'Ai. Br.': 'Ai. Brā.', 'Tai. Br.': 'Tai. Brā.', 'Āśv.': 'Ā. Sū.', 'Āś.': 'Ā. Sū.', 'Vāj. Saṃ.': 'Vā. Saṃ.', 'Uṇ.': 'U. Sū.', 'Uṇ. sū.': 'U. Sū.',
+         'Av.': 'Ath. Saṃ.', 'Ṛ. Ve.': 'Ṛ. Saṃ.', 'Ā. Ve.': 'Ath. Saṃ.'}
+def dev2iast(w):
+    try:
+        from indic_transliteration import sanscript
+        return sanscript.transliterate(w, sanscript.DEVANAGARI, sanscript.IAST)
+    except Exception: return ''
+def suggest(w):
+    """-> (suggested form, basis, confidence)"""
+    base = w; note = ''
+    if re.search('[\u0900-\u097f]', w):
+        base = dev2iast(w).replace('ṁ', 'ṃ'); note = 'Devanagari read as ' + base + '; '
+        if not base: return ('', 'cannot transliterate', 'none')
+    key = base if base in listforms else None
+    if key: return (key, note + 'the form of the list', 'high')
+    if base in ALIAS: return (ALIAS[base], note + 'known spelling of ' + ALIAS[base], 'high')
+    hit = [f for f in listforms if norm(f) == norm(base)]
+    if hit: return (hit[0], note + 'same letters; only capitals, dots or spaces differ', 'high')
+    hit = [f for f in ALIAS if norm(f) == norm(base)]
+    if hit: return (ALIAS[hit[0]], note + 'known spelling of ' + ALIAS[hit[0]] + ' (capitals/dots differ)', 'high')
+    words = [x for x in re.split(r'\s+', base.lower()) if x]
+    cand = [f for f in listforms if [x.lower() for x in f.split()][:len(words)] == words and len(f.split()) > len(words)]
+    if cand:
+        shapes = numshape.get(w, collections.Counter()); tot = sum(shapes.values()) or 1
+        if 'Pā. Sū.' in cand and shapes and sum(v for k, v in shapes.items() if k >= 3) / tot >= 0.8:
+            return ('Pā. Sū.', note + f'short for Pā. Sū.; {round(100 * sum(v for k, v in shapes.items() if k >= 3) / tot)}% of its numbers have 3 parts (sūtra numbers); Pā. Śi. would have 1-2', 'medium')
+        if len(words) == 1 and len(re.sub(r'[^\w]', '', words[0])) <= 2: return ('', note + 'too short to tell: could be ' + ' or '.join(cand[:4]), 'none')
+        if len(cand) == 1: return (cand[0], note + 'short for ' + cand[0] + ' (the only list form that begins so)', 'medium')
+        return ('', note + 'could be ' + ' or '.join(cand[:4]), 'none')
+    return ('', note + 'no list form close to it', 'none')
 rows = []
 for w, c in cnt.items():
-    if re.search('[ऀ-ॿ]', w): st, mean = 'Devanagari', ''
+    if re.search('[\u0900-\u097f]', w): st, mean = 'Devanagari', ''
     elif w in lst: st, mean = lst[w]['status'], lst[w]['work']
     else: st, mean = 'NOT IN LIST', ''
-    rows.append((st, w, mean, sum(c.values()), c))
+    sg = suggest(w) if st in ('NOT IN LIST', 'Devanagari') else ('', '', '')
+    rows.append((st, w, mean, sum(c.values()), c, sg))
 order = {'NOT IN LIST': 0, 'mistake': 1, 'extra': 2, 'legend': 3, 'Devanagari': 4}
 rows.sort(key=lambda r: (order[r[0]], -r[3]))
 with open(os.path.join(ROOT, 'REFERENCES_MASTER.tsv'), 'w', encoding='utf8') as o:
-    o.write('status\tform as written\tmeaning / form to use\ttotal\t' + '\t'.join(f'vol{v}' for v in vols) + '\n')
-    for st, w, mean, tot, c in rows: o.write('\t'.join([st, w, mean, str(tot)] + [str(c.get(v, '')) for v in vols]) + '\n')
+    o.write('status\tform as written\tmeaning / form to use\tsuggested form\tbasis\tconfidence\tapproved\ttotal\t' + '\t'.join(f'vol{v}' for v in vols) + '\n')
+    for st, w, mean, tot, c, sg in rows: o.write('\t'.join([st, w, mean, sg[0], sg[1], sg[2], '', str(tot)] + [str(c.get(v, '')) for v in vols]) + '\n')
 by = collections.Counter(); ref = collections.Counter()
-for st, w, mean, tot, c in rows: by[st] += 1; ref[st] += tot
+for st, w, mean, tot, c, sg in rows: by[st] += 1; ref[st] += tot
 md = ['# Master list of reference abbreviations (all volumes)', '',
       '*Made by `python3 tools/rv/refs_master.py` from `CROSS_REFERENCES.tsv` and the one list `rv/references.tsv`. The full table, one row per form with its count in every volume, is `REFERENCES_MASTER.tsv`. Settle a form once in `rv/references.tsv` (status `mistake` and "→ form" to rewrite it, `extra` or `legend` for a work), then rebuild.*', '',
       '| status | forms | references |', '|---|---|---|'] + [f'| {k} | {by[k]} | {ref[k]} |' for k in ('NOT IN LIST', 'mistake', 'extra', 'legend', 'Devanagari') if k in by] + ['',
-      '## Forms not in the list, most used first (first 60)', '', '| form | total | volumes (count) |', '|---|---|---|']
-for st, w, mean, tot, c in rows:
-    if st == 'NOT IN LIST' and len(md) < 80: md.append(f'| {w} | {tot} | ' + ', '.join(f'{v} ({c[v]})' for v in sorted(c)) + ' |')
+      '## Forms not in the list, most used first (first 60)', '', '| form | total | suggestion | volumes (count) |', '|---|---|---|---|']
+for st, w, mean, tot, c, sg in rows:
+    if st == 'NOT IN LIST' and len(md) < 80: md.append(f'| {w} | {tot} | {sg[0] or "?"} ({sg[2]}) | ' + ', '.join(f'{v} ({c[v]})' for v in sorted(c)) + ' |')
 open(os.path.join(ROOT, 'REFERENCES_MASTER.md'), 'w', encoding='utf8').write('\n'.join(md) + '\n')
 print(dict(by), dict(ref))
