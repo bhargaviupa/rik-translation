@@ -17605,6 +17605,259 @@ Th y glorify his flames in this world: when, easily thinning the woods, they spr
 
 O swift-going Agni, you who possess the qualities described above, blazing together with all the fires that are your branches (the Āhavanīya, the Gārhapatya and the rest), save us from blame. And provide us with riches. Scatter the enemies who cause distress far away. May we, together with heroic sons, be in joy for a hundred years.
 
+### Printed p. 515
+
+##### English translation
+Quick-moving Agni, kindled with all (your) fires, (guard) us from reproach : you bestow riches, you scatter adversaries : may we, blessed with excellent male descendants, enjoy happiness for a hundred winters.
+
+## Sūkta 13 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वद्विश्वेति षडृचं त्रयोदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं ।
+> त्वद्विश्वेत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This is the thirteenth sūkta, of six Ṛks. Its seer is Bharadvāja, its deity is Agni, its metre is Triṣṭubh. It is listed in the Anukramaṇikā under its opening words. Its ritual use, stated earlier, is in the Prātaranuvāka and in the Āśvina-śastra.
+
+The Kannada Anuvāda renders the same: this sūkta is the thirteenth in the first Anuvāka; it has six Ṛks; Bharadvāja is the seer, Agni the deity, Triṣṭubh the metre; the use for the Prātaranuvāka and the Āśvina-śastra mantras was stated before.
+
+- Maṇḍala 6, Anuvāka 1, Sūkta 13
+- Aṣṭaka 4, Adhyāya 5, Varga 25
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Devatā: अग्निः (*agniḥ*)
+- Chandas: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद्विश्वा॑ सुभग॒ सौभ॑गा॒न्यग्ने॒ वि यं॑ति व॒निनो॒ न व॒याः ।  
+> श्रु॒ष्टी र॒यिर्वाजो॑ वृत्र॒तूर्ये॑ दि॒वो वृ॒ष्टीरीड्यो॑ री॒तिर॒पां ॥ १ ॥
+
+### Printed p. 516
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वत् । विश्वा । सुभग । सौभगानि । अग्ने । वि । यंति । वनिनः । न । वयाः ।  
+> श्रुष्टी । रयिः । वाजः । वृत्रतूर्ये । दिवः । वृष्टिः । ईड्यः । रीतिः । अपां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुभग शोभनधनाग्ने विश्वा विश्वानि सर्वाणि सौभगानि धनानि त्वत्त्वत्तो वि
+> यंति । विविधं निर्गच्छंति । हिरण्यमूलत्वात्सर्वेषां धनानां हिरण्यं चाग्नेः सकाशादुत्पन्नं । तस्य रेतः परापतत्तद्धिरण्यमभवत् । तै. ब्रा. १-१-३-८ । इति श्रुतेः ।
+> निर्गमने दृष्टांतः । वनिनो न वयाः । यथा वृक्षाच्छाखा विविधं निर्गच्छंति तद्वत् ।
+> तथा रयिः पशुसंघश्च त्वत्सकाशादेव श्रुष्टी क्षिप्रं व्येति । निर्गच्छति । पशवो वै रयिः
+> पशूनेवावरुंध इति तैत्तिरीयकं । वृत्रतूर्ये वृत्राणां शत्रूणां हिंसके
+> संग्रामे शत्रून् जेतुं वाजो बलं च त्वत्तो व्येति । दिवोऽंतरिक्षाद्या वृष्टिः
+> सापि त्वत्त एव व्येति । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते
+> वृष्टिर्वृष्टेरन्नं ततः प्रजा इति स्मरणात् । अतस्त्वमीड्यः सर्वैः स्तुत्यः सन्
+> अपामुदकानां रीतिर्गमयिता भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Subhaga, Agni of good wealth, all riches go forth from you in many ways, since gold is the root of all riches and gold arose from Agni. For this he cites the śruti तस्य रेतः परापतत्तद्धिरण्यमभवत् (*tasya retaḥ parāpatattaddhiraṇyamabhavat*) (Tai. Brā. 1-1-3-8) **GLOSS**. An illustration of going forth: as branches go forth in many ways from a tree, so do riches from you. Likewise cattle and herds, here called riches, go swiftly out from you alone; he quotes पशवो वै रयिः पशूनेवावरुंध इति तैत्तिरीयकं (*paśavo vai rayiḥ paśūnevāvaruṃdha iti taittirīyakaṃ*) **GLOSS**. In the battle that destroys the Vṛtras, the enemies, the strength to conquer enemies comes from you. The rain that comes from heaven, from the atmosphere, also goes forth from you alone, because the oblation cast into Agni reaches the Sun, from the Sun rain is born, from rain food, and from that creatures; so the smṛti says अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजा इति (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭirvṛṣṭerannaṃ tataḥ prajā iti*) **GLOSS**. Therefore you, praised by all, are the one who sends the waters. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभग (*subhaga*)—possessor of excellent wealth
+- अग्ने (*agne*)—O Agni
+- विश्वा (*viśvā*)—all
+- सौभगानि (*saubhagāni*)—riches also
+- वयाः (*vayāḥ*)—birds
+- वनिनः न (*vaninaḥ na*)—as they go out from a tree
+- त्वत् (*tvat*)—from you alone
+- वि यंति (*vi yaṃti*)—go forth
+- रयिः (*rayiḥ*)—the wealth of cattle and the like
+- श्रुष्टि (*śruṣṭi*)—that which is to be manifested from you
+- वृत्रतूर्ये (*vṛtratūrye*)—in the battle that destroys Vṛtra
+- वाजः (*vājaḥ*)—strength
+- दिवः (*divaḥ*)—from the atmosphere
+- वृष्टिः (*vṛṣṭiḥ*)—the rain (to be produced by your will alone)
+- अपां (*apāṃ*)—for the waters
+- रीतिः (*rītiḥ*)—you, the impeller
+- ईद्यः (*īdyaḥ*)—you are worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessor of excellent wealth, as birds go out from a tree, so all riches also come forth from you alone. The wealth of cattle and the like, the strength needed for the battle that destroys Vṛtra, and the rain from the atmosphere are produced by your will alone. You, the impeller of the waters, are most worthy of praise.
+
+### Printed p. 517
+
+##### English translation
+Auspicious Agni, all good things proceed from you, like branches (from the trunk) of a tree, renowned riches, vigour for the destruction of foes, the rain of heaven : you are to be glorified, the sender of the waters.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं भगो॑ न॒ आ हि रत्न॑मि॒षे परि॑ज्जीव क्षयसि द॒स्मव॑र्चाः ।  
+> अग्ने॑ मि॒त्रो न बृ॑ह॒त ऋ॒तस्यासि॑ क्ष॒त्ता वा॒मस्य॑ देव॒ भूरेः॑॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । भगः । नः । आ । हि । रत्नं । इषे । परिज्माइव । क्षयसि । दस्मवर्चाः ।  
+> अग्ने । मित्रः । न । बृहतः । ऋतस्य । असि । क्षत्ता । वामस्य । देव । भूरेः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने भगो भजनीयस्त्वं नोऽस्मभ्यं रत्नं रमणीयं धनमेषे ।
+> आगमय । प्रयच्छ ॥ इण् गतावित्यस्यैतद्रूपं । हीति पूरकः ॥ दस्मवर्चा दर्शनीयदीप्ति स्त्वं परिजेव परितो गंता वायुरिव क्षयसि । सर्वत्र निवससि । यद्वा ।
+> क्षयतिरैश्वर्यकर्मा । सर्वस्येशिषे । हे अग्ने मित्रो न प्रमितेस्त्रायको देव
+> इव बृहतो महत ऋतस्योदकस्य यज्ञस्य ना क्षत्तासि ॥ क्षदतिरत्र दानकर्मा ॥
+> दाता भवसि । तथा हे देव द्योतमानाग्ने भूरेर्बहुलस्य वामस्य वननीयस्य
+> धनस्य च दाता भवसीत्यनुषंगः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are to be worshipped (भगः (*bhagaḥ*)), bring to us (इषे (*iṣe*) is a form of the root meaning "to go", here "bring, bestow") pleasing riches. The word हि (*hi*) is merely a filler. You, of beautiful radiance, dwell everywhere, like the wind that goes all around. Or else, the root क्षयति (*kṣayati*) has the sense of lordship: you rule over all. O Agni, like Mitra, the protector from death, you are the giver of great water and of the sacrifice; here the root क्षदति (*kṣadati*) has the sense of giving. And, O shining Agni, you are the giver of abundant and desirable wealth: this is the carrying-on of the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भगः (*bhagaḥ*)—the revered
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- रत्नं (*ratnaṃ*)—delightful wealth
+- आ इषे (*ā iṣe*)—bestow
+- दस्मवर्चाः (*dasmavarcāḥ*)—you of attractive radiance
+- परिज्जीव (*parijjīva*)—like the all-pervading wind
+- क्षयसि (*kṣayasi*)—dwell (everywhere)
+- अग्ने (*agne*)—O Agni
+- मित्रो न (*mitro na*)—like the god Mitra
+- बृहतः (*bṛhataḥ*)—of great
+- ऋतस्य (*ṛtasya*)—water
+- क्षत्ता असि (*kṣattā asi*)—you are the giver
+- देव (*deva*)—O shining Agni
+- भूरेः (*bhūreḥ*)—of the abundant
+- वामस्य (*vāmasya*)—and attractive wealth (you are the giver)
+
+### Printed p. 518
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, revered one, bestow upon us delightful wealth. You of attractive radiance dwell everywhere like the all-pervading wind. O Agni, like the god Mitra you are the giver of great water. O shining Agni, you are the giver of the most abundant and attractive wealth.
+
+##### English translation
+You are adorable; bestow upon us precious wealth : beautiful with radiance, you pass (around) like the circumambient (wind): you, divine Agni, are like Mitra, the giver of abundant water and ample wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सत्प॑तिः॒ शव॑सा हंति वृ॒त्रमग्ने॒ विप्रो॒ वि प॒णेर्भ॑र्ति॒ वाजं॑ ।  
+> यं त्वं प्र॑चेत ऋतजात रा॒या स॒जोषा॒ नप्रा॒पां हि॒नोषि॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सत्पतिः । शवसा । हंति । वृत्रं । अग्ने । विप्रः । वि । पणेः । भर्ति । वाजं ।  
+> यं । त्वं । प्रचेतः । ऋतजातः । राया । सजोषाः । नप्रा । अपां । हिनोषि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सत्पतिः सतां पालयिता स पुरुषो वृत्रमावरकं शत्रुं शवसा
+> बलेन हंति । स च विप्रो मेधावी सन् पणेर्वणिज एतन्नान्नोऽसुरस्य वाजमन्नं
+> बलं वा वि भर्ति । वियुज्य हरति ॥ हृग्रहोर्भ इति भत्वं ॥ हे प्रचेतः प्रकृष्टज्ञान
+> ऋतजात । ऋतमिति यज्ञनाम । तदर्थं जाताग्ने अपां नप्ता न पातयित्रा पुत्रेण
+> मध्यमस्थानेन वैद्युताग्निना सजोषाः संगतस्त्वं यं पुरुषं राया॥ चतुर्थ्यर्थे
+> तृतीया ॥ धनार्थं हिनोषि प्रेरयसि स हंतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that man who is the protector of the good kills with strength the Vṛtra, the obstructing enemy. And being wise, he carries off from the Paṇi, the trader and Asura, his food or strength, taking it away after separating it. O Agni, of excellent knowledge, born for the sacrifice (ṛta is a name of the sacrifice), you who are united with the lightning fire, the grandson of the waters, the son who is in the middle region, send that man, the one whom you impel for the sake of wealth, to slay: this is the construction. The third case in राया (*rāyā*) stands for the fourth.
+
+### Printed p. 519
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतः (*pracetaḥ*)—you of excellent knowledge
+- ऋतजात (*ṛtajāta*)—born for the sacrifice
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- अपां नप्रा (*apāṃ naprā*)—with the lightning fire, the protector of the waters **NOTE**
+- सजोषाः (*sajoṣāḥ*)—united
+- यं (*yaṃ*)—which sacrificer
+- राया (*rāyā*)—for the sake of wealth
+- हिनोषि (*hinoṣi*)—you impel
+- सत्पतिः (*satpatiḥ*)—the protector of the good
+- सः (*saḥ*)—that same sacrificer
+- वृत्रं (*vṛtraṃ*)—the enemy who attacks him
+- शवसा (*śavasā*)—by strength
+- हंति (*haṃti*)—kills
+- विप्रः (*vipraḥ*)—being wise
+- पणेः (*paṇeḥ*)—of the Asura
+- वाजं (*vājaṃ*)—the food
+- वि भर्ति (*vi bharti*)—carries off
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of excellent knowledge and born for the sacrifice, you unite with the lightning fire, the protector of the waters, and impel a sacrificer for the sake of wealth. That same sacrificer, the protector of the good, kills with his strength the enemy who attacks him. Being wise, he carries off the food of the Asura.
+
+##### English translation
+That man, the protector of the virtuous, destroys, Agni, his enemy by his strength, and baffles, intelligent, the might of (the Asura) Pani, whom you, the wise, the parent of sacrifice, consentient with the grandson of the waters, encourage (in the hope) of riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ सूनो सहसो गी॒र्भिरु॒क्थैर्य॒ज्ञैर्मर्तो॒ निशि॑तिं  ॒॑
+> वे॒द्यान॑ट् ।  
+> विश्वं॒ स दे॑व॒ प्रति॒ वार॑मग्ने ध॒त्ते धा॒न्यं१॒॑ पत्य॑ते वस॒व्यैः॑॥॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । सूनो इति । सहसः । गीर्भिः । उक्षैः । यज्ञैः । मर्तः । निशितिं ।  
+> वेद्या । अनट् ।  
+> विश्वं । सः । देव । प्रति । वा । अरं । अग्ने । धत्ते । धान्यं । पत्यते । वसवैः ॥ ४ ॥
+
+### Printed p. 520
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राग्ने ते तव निशितिं तैक्ष्यं यो मर्तो
+> मनुष्यो यजमानो गीर्भिः स्तुतिभिरुक्थैः शस्त्रैर्यज्ञैर्यजमानसाधनैर्हविर्भिश्च वेद्या वेद्यायां यज्ञभूमावानट् प्रापयति स मर्तो हे देव द्योतमानाग्ने विश्वं सर्वमरं पर्याप्तं । वाशब्दश्चार्थे । धान्यं च प्रति धत्ते ।
+> प्रतिधारयति । वसवैर्वसुभिश्च पत्यते । संगच्छते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, the mortal, the sacrificer, who by praises (गीर्भिः (*gīrbhiḥ*)), by recitations (उक्थैः (*ukthaiḥ*), that is, śastras), by sacrifices (that is, the sacrificer's means, the oblations) brings (आनट् (*ānaṭ*) means causes to reach) your sharpness to the altar, the sacrificial ground, that mortal, O shining Agni, holds everything sufficient and grain too (वा (*vā*) has the sense of "and"), and is united with riches (वसवैः (*vasavaiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- देव (*deva*)—O divine one
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- निशितिं (*niśitiṃ*)—sharp radiance
+- यः मर्तिः (*yaḥ martiḥ*)—the man who
+- गीर्भिः (*gīrbhiḥ*)—by praises
+- उक्थैः (*ukthaiḥ*)—by mantras
+- यज्ञैः (*yajñaiḥ*)—by oblations, the means of sacrifice
+- वेद्या (*vedyā*)—to the sacrificial ground
+- आनट् (*ānaṭ*)—brings
+- सः (*saḥ*)—that man (the sacrificer)
+- विश्वं (*viśvaṃ*)—all
+- अरं (*araṃ*)—satisfying
+- धान्यं (*dhānyaṃ*)—grain
+- प्रति धत्ते (*prati dhatte*)—obtains
+- वसव्यैः (*vasavyaiḥ*)—with riches
+- पत्यते (*patyate*)—is united
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength and divine in nature, the man who brings your sharp radiance to the sacrificial ground by praises, by recitations and by oblations, the means of sacrifice, obtains all satisfying grain and is united with riches.
+
+##### English translation
+The mortal who by praise, by prayers, by sacrifices, attracts, Son of strength, your heightened (radiance) to the altar, enjoys all-sufficiency and corn, and abounds in wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नृभ्य॒ आ सौ॑श्रव॒सा सु॒वीराग्ने॑ सूनो सहसः पु॒ष्यसे॑ धाः ।  
+> कृ॒णोषि॒ यच्छव॑सा॒ भूरि॑ प॒श्वो वयो॒ वृका॑या॒रये॒ जसु॑रये ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 514. Vol 20 pp. 509-514: 6.1.12 Ṛk 2 end, Ṛks 3-6
+**Progress note:** Done through printed p. 520. Sukta 13 intro, Rk 1-4 complete, Rk 5 samhita
