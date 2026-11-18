@@ -22,7 +22,6 @@ NOT IN LIST	Brā.			no list form close to it	none		7					1						1	1		3		1
 NOT IN LIST	Trai. Saṃ.			no list form close to it	none		7											1	5	1				
 NOT IN LIST	Atha. Ve.			no list form close to it	none		7																	7
 NOT IN LIST	Āśv. Sū.			no list form close to it	none		6		5								1							
-NOT IN LIST	Vā. Sū.			no list form close to it	none		6				1								3			2		
 NOT IN LIST	Paṃ. Brā.			no list form close to it	none		6					4									2			
 NOT IN LIST	VII.			no list form close to it	none		6										2	1		2				1
 NOT IN LIST	Kaṭha.			no list form close to it	none		6											3	3					
@@ -374,6 +373,7 @@ mistake	I. Ā.	→ Ai. Ā.					7											1					6
 mistake	Phi. sū.	→ Phi. Sū.					6		6															
 mistake	Tai. saṃ.	→ Tai. Saṃ.					6		6															
 mistake	Śata. Brā.	→ Śa. Brā.					6			1	2											2		1
+mistake	Vā. Sū.	→ Pā. Sū.					6				1								3			2		
 mistake	Vai. Saṃ.	→ Mai. Saṃ.					6					6												
 mistake	Ṛ. Ve.	→ Ṛ. Saṃ.					6					1	4										1	
 mistake	Śai. Brā.	→ Tai. Brā.					6											1	1	2			2	
@@ -527,7 +527,7 @@ Devanagari	वे. सू.		Ve. Sū.	Devanagari read as ve. sū.; same letters; 
 Devanagari	जै. न्या.		Jai. Nyā. Vi.	Devanagari read as jai. nyā.; short for Jai. Nyā. Vi. (the only list form that begins so)	medium	yes	3	3																
 Devanagari	नै.			Devanagari read as nai.; no list form close to it	none		3		1								1	1						
 Devanagari	परिभा.			Devanagari read as paribhā.; no list form close to it	none		3		2															1
-Devanagari	वा. सू.			Devanagari read as vā. sū.; no list form close to it	none		3		1									1		1				
+Devanagari	वा. सू.		Pā. Sū.	Devanagari read as vā. sū.; known spelling of Pā. Sū.	high	yes	3		1									1		1				
 Devanagari	पा. पा.		Pā. Sū.	Devanagari read as pā. pā.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	3											3						
 Devanagari	अ. वे.		A. Ve.	Devanagari read as a. ve.; same letters; only capitals, dots or spaces differ	high	yes	3													3				
 Devanagari	बृ. डे.			Devanagari read as bṛ. ḍe.; no list form close to it	none		3													3				
