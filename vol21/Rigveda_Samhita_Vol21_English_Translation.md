@@ -8064,6 +8064,279 @@ Sūkta 47. Maṇḍala 6. Anuvāka 4. Sūkta 47. Aṣṭaka 4. Adhyāya 7. Varga
 > उतायं ।  
 > उ॒तो न्व१॒ं॑स्य प॑पि॒वांस॒मिंद्रं॒ न कश्च॒न स॑हत आह॒वेषु॑ ॥ १ ॥
 
+### Printed p. 182
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादुः । किल । अयं । मधुमान् । उत । अयं । तीव्रः । किल । आयं । रसवान् ।  
+> उत । अयं ।  
+> उतो इति । नु । अस्य । पपिवांसं । इंद्रं । न । कः । चन । सहते । आहवेषु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमभिषुतः सोमः स्वादुरास्वादनीयः किल भवति । उतापि च मधुमान्माधुर्यवांश्चायं सोमो भवति ! तथायं सोमस्तीव्रः किल मदोत्पादने
+> तीक्ष्णः खलु भवति । उतापि चायं सोमो रसवान् सारवांश्च भवति । अनेन
+> वाक्यचतुष्टयेन सोमस्य माधुर्यातिशयत्वं च प्रतिपादितं ! उतो आपि चास्य
+> सोमस्य !! द्वितीयार्थे षष्ठी ॥ इमं सोमं पपिवांसं पीतवंतमिंद्रमाहवेषु
+> संग्रामेषु न कश्चन न कोऽपि सहते अभिभवति । नु इति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+This pressed Soma is indeed sweet to the taste (स्वादुः (*svāduḥ*)). It is also honeyed (मधुमान् (*madhumān*)), that is, full of sweetness. This Soma is likewise keen (तीव्रः (*tīvraḥ*)): in producing intoxication it is sharp. And it is full of juice (रसवान् (*rasavān*)), that is, full of essence. By these four statements the surpassing sweetness of Soma is set forth. Further, no one in battles can overcome Indra, who has drunk (पपिवांसं (*papivāṃsaṃ*)) this Soma. The word नु (*nu*) is a mere filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this pressed Soma
+- स्वादुः किल (*svāduḥ kila*)—is certainly savoury
+- उत (*uta*)—and
+- अयं (*ayaṃ*)—this
+- मधुमान् (*madhumān*)—is endowed with sweetness
+- अयं (*ayaṃ*)—this same Soma juice
+- तीव्रः किल (*tīvraḥ kila*)—has a sharpness that causes intoxication
+- उत (*uta*)—moreover
+- अयं (*ayaṃ*)—this same Soma
+- रसवान् (*rasavān*)—is full of essence
+- उतो (*uto*)—and
+- अस्य (*asya*)—this Soma
+- पपिवांसं (*papivāṃsaṃ*)—who drinks
+- इंद्रं (*iṃdraṃ*)—Indra
+- आहवेषु (*āhaveṣu*)—in battles
+- कश्चन (*kaścana*)—no one at all
+- न सहते नु (*na sahate nu*)—can withstand and defeat
+
+##### भावार्थ (Bhāvārtha)
+
+This pressed Soma is certainly savoury. It is endowed with sweetness and full of juice, and moreover has a sharpness that causes intoxication. No one in battles can withstand and defeat Indra who drinks this Soma juice.
+
+##### English translation
+Savoury indeed is this (Soma); sweet is it, sharp, and full of flavour: no one is able to encounter Indra in battles after he has been quaffing this (beverage).
+
+### Printed p. 183
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स्वा॒दुरि॒ह मदि॑ष्ट आस॒ यस्येंद्रो॑ वृत्र॒हत्ये॑ म॒माद॑ ।  
+> पु॒रूणि॒ यश्चा॒त्ना शंब॑रस्य॒ विन॑व॒तिं नव॑ च दे॒ह्यो॒३॒॑३ हन्॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । स्वादुः । इह । मदिष्टः । आस । यस्य । इंद्रः । वृत्रहत्ये । ममाद ।  
+> पुरूणि । यः । च्यौत्ना । शंबरस्य । वि । नवतिं । नव । च । देह्यः । हन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहास्मिन्यज्ञेयं सोमः स्वादुरास्वादितः पीतः सन् मदिष्टोऽतिशयेन
+> मदयितास । बभूव । यस्य सोमस्य पानेनेंद्रो वृत्रहत्ये वृत्रहननकाले
+> ममाद मत्तो बभूव । यः सोमः शंबरस्यासुरस्य पुरूणि बहूनि च्यौत्ना
+> च्यौत्नानि बलानि जघान । तथा देहो दिग्धा उपचिता आसुरीः पुरीः तदीयान्
+> देहान् वा नवतिं नव च नवोत्तरनवतिसंख्याका यः सोमो वि हन् व्यहन् अयं
+> सोम इति प्रथमपादेन संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Here, in this sacrifice, this Soma, tasted, that is, drunk, has become most intoxicating, intoxicating to the highest degree. By drinking this Soma Indra became exhilarated at the time of the slaying of Vṛtra. This Soma also destroyed the many strengths (च्यौत्ना (*cyautnā*)) of the asura Śambara. Likewise, the Soma destroyed ninety-nine (नवतिं नव च (*navatiṃ nava ca*)) of the demons' strongholds, built-up and accumulated ones (देहो (*deho*)), or else their bodies. This is connected with अयं सोमः (*ayaṃ somaḥ*), "this Soma", of the first line.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—by drinking which Soma
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृत्रहत्ये (*vṛtrahatye*)—at the time of slaying Vṛtra
+- ममाद (*mamāda*)—obtained exhilaration
+- यः (*yaḥ*)—which Soma
+- शंबरस्य (*śaṃbarasya*)—of the asura Śambara
+- पुरूणि (*purūṇi*)—of the many
+- च्यौत्ना (*cyautnā*)—armies (became the means of slaying)
+- and (यस्य (*yasya*)—by drinking which Soma)
+- नवतिं नव च (*navatiṃ nava ca*)—ninety-nine in number
+- देह्यः (*dehyaḥ*)—and firm
+- asura cities
+- वि हन् (*vi han*)—he slew; such
+- आयं (*āyaṃ*)—this Soma
+- इह (*iha*)—in this sacrifice
+- स्वादुः (*svāduḥ*)—is savoury
+- मदिष्टः (*madiṣṭaḥ*)—and intoxicating
+- आस (*āsa*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+By drinking which Soma Indra obtained exhilaration at the time of slaying the asura Vṛtra, which Soma became the means of killing the numerous armies of the asura Śambara, and by drinking which he slew the ninety-nine firm cities of the asuras, this Soma is, in this sacrifice, savoury and intoxicating.
+
+### Printed p. 184
+
+##### English translation
+This savoury Soma, drunk on this occasion, has been most exhilarating : dy drinking of it Indra, has been elevated to the slaying of Vritra, and it has destroyed the numerous hosts of Sambara and the ninety-nine cities.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं मे॑ पी॒त उदि॑यर्ति॒ वाच॑म॒यं म॑नी॒षामु॑श॒तीम॑जीगति ।  
+> अ॒यं षु॒र्वीर॑मिमित॒ धीरो॒ न याभ्यो॒ भुव॑नं॒ कच्च॒नारे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । मे । पीतः । उत् । इयर्ति । वाचं । अयं । मनीषां । उशतीं ।  
+> अजीगरिति ।  
+> अयं । षट् । उर्वीष । अमिमात । धीरः । याभ्यः । भुवनं । कत् । चन । आरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः पीतः सन् मे मम वाचमुदियर्ति । उद्गमयति ।
+> अयमेव सोम उशतीं कांतां मनीषां बुद्धिमुदजीगः । उद्गारयति ।
+> प्रकाशयति ॥ गृ निगरण इत्यस्माण्ण्यंताल्लुजि चजा रूपं ॥ अपि चायं धीरो धीमान्
+> सोमः सळुर्विः षण्मोर्वीरंहसस्पांतु द्यौष्ट पृथिवी चाहश्च रात्रिश्चापश्चाधयश्चेति प्रतिपादिता द्युपृथिव्याद्याः षडमिमीत । निर्मितवान् । याभ्य उर्विभ्य आरे
+> दूरे विप्रकृष्टे देशे कच्चन किंचन भुवनं भूतजातं न भवति अपि त्वास्वेव सर्वं
+> भूतजातं वर्तते तावृशीरुर्निर्निर्मितवान् ॥
+
+##### Gist of the bhāṣya
+
+This Soma, when drunk, brings forth, that is, makes manifest, my speech (वाचं (*vācaṃ*)). This same Soma brings forth and makes manifest the desired (उशतीं (*uśatīṃ*)), lovely intelligence (मनीषां (*manīṣāṃ*)). And this wise Soma created the six wide ones **NOTE**, which are set forth as heaven and earth, day and night, the waters and the plants. Than these wide ones, far away, in a distant place, there is no other being or world whatever; rather, all beings exist in these very ones. Such wide ones he created.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Soma
+- पीतः (*pītaḥ*)—having been drunk
+- मे (*me*)—my
+- वाचं (*vācaṃ*)—speech
+- उदियर्ति (*udiyarti*)—makes manifest
+- अयं (*ayaṃ*)—this same Soma
+- उततीं (*utatīṃ*)—attractive
+- मनीषां (*manīṣāṃ*)—intelligence
+- अजीगः (*ajīgaḥ*)—makes grow sharp
+- याभ्यः (*yābhyaḥ*)—than which principles
+
+### Printed p. 185
+
+- आरे (*āre*)—surpassing
+- कच्चन भुवनं (*kaccana bhuvanaṃ*)—any other world
+- न (*na*)—there is not, such
+- षट्.उर्विः (*ṣaṭ.urviḥ*)—six worlds beginning with the heavenly world
+- धीरः (*dhīraḥ*)—wise
+- आयं (*āyaṃ*)—this Soma king
+- अमिमीत (*amimīta*)—created
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, when drunk, makes my speech manifest. This same Soma makes the attractive intelligence grow sharp. This wise Soma king created the six principles, the heavenly world, the earth, day, night, waters and plants, beyond which there is no other world.
+
+##### English translation
+This beverage inspires my speech; this develops the desired intelligence: this sagacious (Soma) has created the six vast conditions, from which no creature is distinct.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स यो व॑रि॒माणं॑ पृथि॒व्या व॒र्ष्णाणं॑ दि॒वो अकृ॑णोद॒यं सः ।  
+> अ॒यं पी॒यूषं॑ ति॒सृषु॑ प्र॒वत्सु॒ सोमो॑ दाधारो॒र्व१॒॑ १०तरि॑क्षं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सः । यः । वरिमाणं । पृथिव्याः । वर्ष्णाणं । दिवः । अकृणोत् । आयं । सः।  
+> अयं । पीयूषं । तिसृषु । प्रवत्सु । सोमः । दाधार । उरु । अंतरिक्षं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स खल्वयं सोमो यः पृथिव्या वरिमाणमुरुत्वं विस्तृतत्वमकृणोत्
+> अकरोत् । तथायं सोमो दिवो द्युलोकस्य वर्ष्णाणं संहतत्वं दृढत्वमकृणोत् अकरोत् । अयं सोम॥ स हि भवति । अपि चायं सोमस्ति सृष्टोषधीष्टप्पु गोषु च प्रवत्सु प्रकृष्टास्वेतासु पीयूषं रसं दाधार । धारयॆति ।
+
+### Printed p. 186
+
+> तथोरु विस्तीर्णमंतरिक्षं च धारयति । कथा च मंत्रातरं । त्वमिमा ओषधीः
+> सोम विश्वास्त्वमपो अजनयस्त्वं गाः । त्वमा ततंथोर्वंतरिक्षं ऋग्वे.
+> १-९१-२२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is that Soma who made the extent (वरिमाणं (*varimāṇaṃ*)), the wideness and expansion, of the earth. Likewise this Soma made the compactness (वर्ष्णाणं (*varṣṇāṇaṃ*)), the firmness, of the heaven. **NOTE** This Soma also holds the juice, the ambrosia (पीयूषं (*pīyūṣaṃ*)), in the three **NOTE**, in these excellent ones (प्रवत्सु (*pravatsu*)). And he holds up the wide firmament. He quotes another mantra: त्वमिमा ओषधीः सोम विश्वास्त्वमपो अजनयस्त्वं गाः । त्वमा ततंथोर्वंतरिक्षं (*tvamimā oṣadhīḥ soma viśvāstvamapo ajanayastvaṃ gāḥ | tvamā tataṃthorvaṃtarikṣaṃ*) (Ṛgve. 1-91-22) **GLOSS** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- परिमाणं (*parimāṇaṃ*)—the extent
+- अकृणोत् (*akṛṇot*)—has made
+- सः (*saḥ*)—he
+- आयं सोमः (*āyaṃ somaḥ*)—is this Soma king
+- आयं सः (*āyaṃ saḥ*)—this same Soma
+- दिवः (*divaḥ*)—of the heavenly world
+- वर्ष्णाणं (*varṣṇāṇaṃ*)—the firmness (he made)
+- अयं (*ayaṃ*)—this Soma
+- प्रवत्सु (*pravatsu*)—in the excellent
+- तिसृषु (*tisṛṣu*)—plants, waters and cows
+- पीयूषं (*pīyūṣaṃ*)—the juice of the nature of ambrosia
+- दाधार (*dādhāra*)—has filled
+- उरु (*uru*)—the wide
+- अंतरिक्षं (*aṃtarikṣaṃ*)—firmament (he has upheld)
+
+##### भावार्थ (Bhāvārtha)
+
+He who made the earth exceedingly wide, he who made the heavenly world stand firm, is this Soma king. This same Soma has filled the most excellent plants, waters and cows with the juice of the nature of ambrosia. And he has upheld the wide firmament.
+
+##### English translation
+This it is which has formed the earth, the compactness of the heaven : this soma has deposited the ambrosia in its three principal (receptacles). and has upheld the spacious firmament.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वि॑दच्चित्र॒दृशी॑क॒मर्णः॑ शु॒क्रस॑द्मनामु॒षसा॒मनी॑के ।  
+> अ॒यं म॒हान्म॑ह॒ता स्कंभ॑ने॒नोद्द्याम॑स्तभ्नाद्वृष॒भोः  ॒॑
+> मरुत्वान् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । विदत् । चित्रदृशीकं । अर्णः । शुक्रसद्मनां । उषसां । अनीके ।  
+> अयं । महान् । महता । स्कंधनेन । उत् । द्यां । अस्तभ्नात् । वृषभः । मरुत्वान् ॥
+
+### Printed p. 187
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमश्चित्रदृशीकं विचित्रदर्शनं यद्वाश्चर्यत्वेन दर्शनीयमर्णः
+> सर्वस्य प्रेरकं सौरं ज्योतिर्विदत् । लंभयति । कस्मिन्काले ! शुक्रसद्मनां शुक्रं
+> निर्मलमंतरिक्षं सद्म सदनं यासां तासामुषसामनीके प्रमुखे । उषःकाल
+> इत्यर्थः । अपि च महान् प्रवृद्योयं सोमो महता स्थविष्ठेन स्कंभनेन
+> स्तंभनसाधनेन मध्यवर्तिनांतरिक्षेण द्यां द्युलोकमुदस्तभ्नात् । ऊर्ध्वमस्थापयत् । यथाधो न पतति तथांतरिक्षं तस्याधारत्वेन कृतवानित्यर्थः । कीदृशः
+> सोमः । वृषभो वृष्टेर्जनयिता । सोमाहुत्या हि वृष्टिर्जन्यते । मरुत्वान्मरुद्धिर्युक्तः ॥
+
+##### Gist of the bhāṣya
+
+This Soma obtains (विदत् (*vidat*)), that is, causes to be obtained, the wonderfully visible (चित्रदृशीकं (*citradṛśīkaṃ*)), or marvellously beautiful, solar light (अर्णः (*arṇaḥ*)), the impeller of all. At what time? At the front, at the head, of the dawns (उषसां (*uṣasāṃ*)) whose seat is the pure firmament; that is, at the time of dawn. And this great (महान् (*mahān*)), grown Soma has propped up (उदस्तभ्नात् (*udastabhnāt*)) the heavenly world with a great, most massive prop, namely the firmament that stands in the middle: he set it upright, and made the firmament its support so that it does not fall downward. What kind of Soma? A bull (वृषभः (*vṛṣabhaḥ*)), the producer of rain; for by the oblation of Soma rain is produced. He is accompanied by the Maruts (मरुत्वान् (*marutvān*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रसद्मनां (*śukrasadmanāṃ*)—those whose dwelling is the shining firmament
+- उषसां (*uṣasāṃ*)—of the dawns
+- अनीके (*anīke*)—at the time of their appearing
+- आयं (*āyaṃ*)—this Soma king
+- चित्रदृशीकं (*citradṛśīkaṃ*)—the most attractively visible
+- अर्ण (*arṇa*)—solar light
+- विदत् (*vidat*)—makes manifest
+- वृषभः (*vṛṣabhaḥ*)—the producer of rain
+- मरुत्वान् (*marutvān*)—accompanied by the Maruts
+- महान् (*mahān*)—and great-souled
+- आयं (*āyaṃ*)—this Soma king
+- महता (*mahatā*)—by the most firm
+- स्कंभनेन (*skaṃbhanena*)—firmament that is like a supporting pillar
+- द्यां (*dyāṃ*)—the heavenly world
+- उदस्तभ्नात् (*udastabhnāt*)—has established and made to stand
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the appearing of the dawns, whose dwelling is the shining firmament, this Soma king makes manifest the most attractively visible light of the sun. This Soma king, the producer of rain, accompanied by the Maruts, and great-souled, has established and made to stand the heavenly world with the help of the firmament, which is like a most firm supporting pillar.
+
+##### English translation
+This makes known the wonderfully beautiful and inspiring (solar radiance) at the appearance of the dawns, whose dwelling is the firmament : this mighty (Soma) has sustained the heaven with a powerful support, the sender of rain, the leader of the winds.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिंद्र वृत्र॒हा शू॑र सम॒रे वसू॑नां ।  
+> माध्यं॑दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒स्थानो॑ र॒यिम॒स्मासु॑ धेहि ॥६॥
+
 ---
 
-**Progress note:** Done through printed p. 181. Rik 11 end to 14 of sukta 46, intro of sukta 47, Rik 1 samhita
+**Progress note:** Done through printed p. 187. Sukta 47 Rik 1-5, Rik 6 samhita
