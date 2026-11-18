@@ -20640,6 +20640,278 @@ Divine leader of heaven), these (worshippers) are yours, and (so are they) who p
 
 इंद्रादीन् शंसितुं प्रभवंति तेऽपि त्वदीयाः (*iṃdrādīn śaṃsituṃ prabhavaṃti te 'pi tvadīyāḥ*). In this Ṛk the god Savitṛ is praised. Therefore the seer says that the people, such as the priests and sacrificers, who praise Savitṛ are dear to Savitṛ. But it may be asked whether it is right, addressing the god Savitṛ, to say that likewise the people who praise Indra and the other gods are also yours. To this the commentator says that Savitṛ dwells in the other gods as their inner self, and that therefore, if the other gods are worshipped, it is as though Savitṛ or Sūrya himself were worshipped, and in support of this he has quoted the sentence एकैन वा महानात्मा देवता स सूर‍्यः स हि सर्वभूतात्मा । (*ekaina vā mahānātmā devatā sa sūryaḥ sa hi sarvabhūtātmā |*). In this way he has made clear that Savitṛ has the feeling that even those who praise Indra and the other gods are his own.
 
+### Printed p. 558
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अतो॑ न॒ आ न्वनति॑थी॒नतः॒ पत्नी॑र्दशस्यत ।  
+> आ॒रे विश्वं॑ पथे॒ष्ठां द्वि॒षो यु॑योतु॒ यूयु॑विः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आतः । नः । आ । न्यन् । अतिथीन् । आतः । पत्निः । दशस्यत ।  
+> आरे । विश्वं । पथेऽस्थां । द्विषः । युयोतु । युयुविः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आतोऽस्मिन्यज्ञे ॥ सार्वविभक्तिकस्तसिः ॥ नोऽस्माकमृत्तिजां नन्नेत्थानतिथीन्
+> तद्वत्पूज्यान्देवाना दशस्यत । सर्वतः परिचरत । अतोऽस्मिन्यज्ञे पत्निर्देवानां
+> पत्नीरपि दशस्यत हनिष्प्रदानादिना । यद्वा । नोऽस्मभ्यं नन् पुत्रभृत्यादीनतिथीन्
+> पत्निश्चैतत्रयमत्र दशस्यत । हे देवाः प्रयच्छत । आरे दूरे विश्वं सर्वं पथेष्णां
+> मार्गे वर्तमानं वैरिणं द्विषोऽन्यानपि द्विषो द्वेष्ट्यन्युयोतु पृथक्करोतु
+> देवसंघः सविता वा यूयुविः सर्वस्यामिश्रयिता पृथक्कर्ता ॥
+
+##### Gist of the bhāṣya
+
+"Therefore", that is, in this sacrifice: for us, the priests, the leaders (न्नेत्थानतिथीन् (*nnetthānatithīn*)), the gods who are honoured like guests, worship all around, serve them. Therefore, in this sacrifice, serve also the wives of the gods, with offerings of oblations and the like. Or else: for us, serve here these three, namely sons, servants and the like as guests, and the wife; O gods, grant them. Far away, at a distance, let him drive every enemy who stands in the path, and the other haters as well; let him separate them, either the company of the gods or Savitṛ, the discriminator who separates all that is mingled. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतः (*ataḥ*)—therefore
+- नः (*naḥ*)—to us
+- न्यन् (*nyan*)—those who are leaders
+- अतिथीन् (*atithīn*)—the gods who are to be honoured like guests
+- आ दशस्यत (*ā daśasyata*)—worship exceedingly
+- अतः (*ataḥ*)—for that same reason
+- पत्नीः (*patnīḥ*)—the wives of the gods also (worship)
+- यूयुविः (*yūyuviḥ*)—Savitṛ, who separates the good from the bad
+- पथेष्ठाः (*patheṣṭhāḥ*)—who stand as thorns in our path
+- विश्वं (*viśvaṃ*)—all
+- द्विषः (*dviṣaḥ*)—the enemies
+- आरे युयोतु (*āre yuyotu*)—may he separate and push far away
+
+##### भावार्थ (Bhāvārtha)
+
+Worship exceedingly the gods who are our leaders and who are to be honoured like guests. For that same reason worship also the wives of the gods. May Savitṛ, who separates the good from the bad, separate all the enemies who stand as thorns in our path and push them far away.
+
+##### English translation
+Worship, therefore, the leaders (of our rites), our guests, (the gods) and the wives (of the deities): may the (divine) discriminator drive to a distance every adversary, (and all our) enemies.
+
+### Printed p. 559
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the gods are praised together. The commentator has said that the sentence in the first half, अतः नः न्यून् अतिथीन् पत्निः आ दशस्यत (*ataḥ naḥ nyūn atithīn patniḥ ā daśasyata*), can be explained in two ways. For the words न्यून् (*nyūn*) and अथितीन् (*athitīn*) he gives नेत्यन् अतिथिवत्पूज्यान् देवान् (*netyan atithivatpūjyān devān*): the gods who carry out the sacrificial rites or are guides in performing them and who are honoured like guests; so one meaning is: attend, in this our sacrifice, on such gods and on their wives, the wives of the gods. For the words न्यून् (*nyūn*) अतिथीन् (*atithīn*) the ordinary meaning is taken, that is: entertain with worship and the like the human guests who come, or have come, to our sacrifice; this is another kind of meaning. Both these meanings are possible here. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ वह्नि॑र॒भिहि॑तो दु॒द्रव॒द्दूण्यः॑ प॒शुः ।  
+> नृ॒मणा॑ वी॒रप॒स्योऽर्ण॒ धीरे॑व॒ सनि॑ता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । वह्निः । अभिहितः । दुद्रवत् । द्रोण्यः । पशुः ।  
+> नृमनाः । वीर्यपस्यः । अर्णा । धीराइव । सनिता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्यज्ञे वह्निर्यज्ञस्य वोढाभिहितो यूपं प्रापितो द्रोण्यो
+> यूपार्हः पशुर्दुद्रवत् गच्छति यूपं प्रति तत्र नृमणा यजमानमनाः सविता
+> वीरपस्त्यः । वीरा ऋत्विग्यजमानाः पुत्रभृत्यादयो ना तद्वत्पस्त्यं गृहं यस्य स
+> तादृशः । प्रेरितगृहो वा । पुत्राद्युपेतगृहप्रद इत्यर्थः । सनिता संभक्ता भवति ।
+> अर्णारणकुशला धीरेव योषिदिव । यद्वा । अर्णानि हवींष्यभिलक्ष्य सनिता भवति ॥
+
+##### Gist of the bhāṣya
+
+In which sacrifice Agni, the carrier of the sacrifice, has been brought to the post, and the animal fit for the post runs toward the post, there Savitṛ, whose mind is on the sacrificer, is "of the house of heroes"; heroes are the priests, the sacrificers, sons, servants and the like, and the house is such as has them; or else, he who has impelled a house; that is, the giver of a house furnished with sons and the like. He is the distributor. He is like a woman skilled in अर्णारणकुशला (*arṇāraṇakuśalā*). Or else: with regard to the oblations (अर्णानि हवींष्यभिलक्ष्य (*arṇāni havīṃṣyabhilakṣya*)) he is the distributor. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which sacrifice
+- वह्निः (*vahniḥ*)—Agni, the manager of the sacrifice
+- अभिहितः (*abhihitaḥ*)—has been established, and
+- द्रोण्यः (*droṇyaḥ*)—fit for the post
+- पशुः (*paśuḥ*)—the sacrificial animal
+- दुद्रवत् (*dudravat*)—is carried to the neighbourhood of the post (there)
+
+### Printed p. 560
+
+- नृमणाः (*nṛmaṇāḥ*)—Savitṛ, favourably minded toward the sacrificer
+- अर्णा (*arṇā*)—skilled in giving
+- धीरेव (*dhīreva*)—like a wife
+- वीरपत्न्यः (*vīrapatnyaḥ*)—houses furnished with sons and the rest **NOTE**
+- सनिता (*sanitā*)—is the distributor
+
+##### भावार्थ (Bhāvārtha)
+
+In which sacrifice Agni, the manager of the sacrifice, has been established and the sacrificial animal fit for the post is carried to the neighbourhood of the post, there Savitṛ, favourably minded toward the sacrificers, like a wife skilled in giving, is the distributor of houses furnished with sons and the rest.
+
+##### English translation
+When the victim fit to be bound, the subject (of the sacrifice), has been stationed (at the saerificial post) : he, (Savitri), with mind well disposed towards the worshipper, the donor of dwellings and descendants is like a clever wife, the bestower (of wealth). **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sacrifice that we are performing, Agni stands kindled, established in the Āhavanīya fire-pit on the upper altar. The animal prepared for the sacrifice has also been brought to the post to which it is bound and consecrated with mantras. In such a sacrifice the god Savitṛ, satisfied with the oblations and the like that we offer and with our praises, to show favour to the sacrificer, as a clever woman serves the people of the house, dividing food and other nourishment properly (serving it out), may provide a house made prosperous by sons and the rest and by other kinds of comfort; this is the main intention stated here.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ष ते॑ देव नेता॒ रथ॒स्पतिः॒ शं र॒यिः ।  
+> शं रा॒ये शं स्व॒स्तय॑ इषः॒स्तुतो॑ मनामहे देव॒स्तुतो॑  
+> मनामहे ॥ ५ ॥
+
+### Printed p. 561
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । ते । देव । नेतरिति । रथः पतिः । शं । रयिः ।  
+> शं । राये । शं । स्वस्तये । इषःस्तुतः । मनामहे । देवस्तुतः । मनामहे ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नेतर्देव सवितस्ते तवैष रथःपतिः सर्वस्य पालको रयिर्दातव्यधनवान् ॥
+> मत्त्वर्थो लुप्यते । शं करोश्विति शेषः । वयं च राये धनस्य शं सुखाय
+> यद्वा । राये धनाय शं सुखाय च स्वस्तयेऽविनाशायेषःस्तुत एषणीयस्य
+> सवितुः स्तोतारो वयं मनामहे । स्तुमः । देवस्तुतो देवानां देवस्य वा
+> सवितुः स्तोतारो मनामहे । स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O leader, O god Savitṛ, this lord of the chariot of yours, the protector of all, and the one rich in wealth to be given (the possessive suffix is dropped), "may he make happiness" is to be supplied. And we, for wealth, for happiness, for well-being, that is, for freedom from destruction, praisers of the desirable Savitṛ, we glorify him, we praise. Praisers of the gods, or of the god Savitṛ, we glorify, we praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेतः (*netaḥ*)—O leader **NOTE**
+- देव (*deva*)—O Savitṛ
+- ते (*te*)—your
+- रयिः (*rayiḥ*)—filled with wealth
+- एषःरथस्पतिः (*eṣaḥrathaspatiḥ*)—this chariot, which is also the protector
+- शं (*śaṃ*)—may it be a bringer of happiness (to us)
+- रायी (*rāyī*)—for wealth **NOTE**
+- शं (*śaṃ*)—for happiness
+- स्वस्तये (*svastaye*)—for well-being
+- इषः स्तुतः (*iṣaḥ stutaḥ*)—we who are praisers of the honoured Savitṛ
+- मनामहे (*manāmahe*)—we praise
+- देवस्तुतः (*devastutaḥ*)—we who are praisers of Savitṛ, the god in essence
+- मनामहे (*manāmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O leader, O Savitṛ, may this chariot of yours, filled with wealth and a protector, bring us happiness. We, the praisers of the god Savitṛ, praise him for wealth, for happiness and for well-being.
+
+##### English translation
+Leader (of heaven), may this your protecting chariot, laden with riches, (come for our) happiness : praisers of the honoured (Savitri), we glorify him for felicity through well-being : praisers of the gods, we glorify (them).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which forms the conclusion of the sūkta, the seer who saw the sūkta prays that the chariot of the god Savitṛ, the guide, and Savitṛ himself also, may provide us with happiness, wealth and well-being, and says that for this we praise this god.
+
+### Printed p. 562
+
+## Sūkta 51 (Maṇḍala 5)
+
+The fifty-first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने सुतस्येति पंचदशर्चं सप्तमं सूक्तं । अत्रेयमनुक्रमणिका । अग्ने
+> पंचोना चतस्रो गायत्र्यः षळुष्ठि हस्तिस्रो जगत्यस्त्रिष्टुभो वांत्ये अनुष्टुभाविति।
+> ऋषिश्चान्यस्मादिति परिभाषया स्वस्त्यात्रेय ऋषिः । आदितश्चतस्रो गायत्र्यः पंचम्याद्याः षडुष्टिह एकादश्याद्यास्त्रिस्रो जगत्यस्त्रिष्टुभो वा चतुर्दशीपंचदश्यावनुष्टुभौ । विश्वे देवा देवता ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अग्ने सुतस्येति (*agne sutasyeti*), of fifteen Ṛks, is the seventh sūkta. Here is this Anukramaṇī: अग्ने पंचोना चतस्रो गायत्र्यः षळुष्ठि हस्तिस्रो जगत्यस्त्रिष्टुभो वांत्ये अनुष्टुभाविति। (*agne paṃconā catasro gāyatryaḥ ṣaḷuṣṭhi hastisro jagatyastriṣṭubho vāṃtye anuṣṭubhāviti|*). By the rule "and the seer from another", the seer is Svastyātreya. The first four Ṛks are Gāyatrī, from the fifth the six Uṣṇih, from the eleventh three Jagatī or Triṣṭubh, and the fourteenth and fifteenth are two Anuṣṭubh. The deity is the Viśvedevas. **NOTE**
+
+Anuvāda: This sūkta beginning अग्ने सुतस्य (*agne sutasya*) is the seventh sūkta in the fourth anuvāka. It has fifteen Ṛks. In the Anukramaṇī it is said: अग्ने पंचोना चतस्रो गायत्र्यः षळुष्टिहस्तिस्रो जगत्यस्त्रिष्टुभो वांत्ये अनुष्टुभौ (*agne paṃconā catasro gāyatryaḥ ṣaḷuṣṭihastisro jagatyastriṣṭubho vāṃtye anuṣṭubhau*). The seer of this sūkta is called Svastātreya; the Viśvedevas are the deity; the first four Ṛks of this sūkta are in the Gāyatrī metre; the following six Ṛks (Ṛks 5-10) are in the Uṣṇik metre; the three Ṛks following the eleventh (Ṛks 11-13) are in the Jagatī or Triṣṭubh metre. The fourteenth and fifteenth Ṛks are in the Anuṣṭubh metre.
+
+- Sūkta 51
+- Maṇḍala 5, Anuvāka 4, Sūkta 51
+- Aṣṭaka 4, Adhyāya 3, Varga 5, 6, 7
+- Number of Ṛks in the sūkta: 15
+- Seer: Svastyātreya
+- Deity: the Viśvedevas
+- Metre: Ṛks 1-4 Gāyatrī; 5-10 Uṣṇik; 11-13 Triṣṭubh or Jagatī; 14, 15 Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ सु॒तस्य॑ पी॒तये॒ विश्वै॒रूमे॑भि॒रा ग॑हि ।  
+> दे॒वेभि॑र्ह॒व्यदा॑तये ॥ १ ॥
+
+### Printed p. 563
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । सुतस्य । पीतये । विश्वैः । ऊमेभिः । आ । गहि ।  
+> देवेभिः । हव्यसदातये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं सुतस्य पीतये सोमपानाय विश्वैरूमेभिरूमैः सर्वैरपि
+> रक्षकैर्देवेभिर्देवैरिंद्रादिभिः सह हव्यादातयेऽस्माकं हनिर्दानाय तद्दात्रे यजमानाय वा आ गहि ! आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, for the drinking of the pressed Soma, that is, for the Soma-drinking, come together with all the protecting gods, Indra and the others, to the one who gives oblations, that is, to the sacrificer, the giver of them; आ गहि (*ā gahi*), come. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पीतये (*pītaye*)—for the drinking
+- ऊमेभिः (*ūmebhiḥ*)—(with) the protecting
+- विश्वैति देवेभिः (*viśvaiti devebhiḥ*)—with all the gods **NOTE**
+- हव्यदातये (*havyadātaye*)—to the sacrificer who offers oblations
+- आ गहि (*ā gahi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the drinking of the pressed Soma juice, come graciously, together with all the protecting gods, to the sacrificer who gives oblations.
+
+##### English translation
+Come, Agni, with all the protecting deities, to drink the libation : come with the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋत॑धीतय॒ आ ग॑त॒ सत्य॑धर्माणो अध्व॒रं ।  
+> अ॒ग्नेः पि॑बत जि॒ह्वया॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋत्यधीतयः । आ । गत । सत्यधर्माणः । अध्वरं ।  
+> अग्नेः । पिबत । जिह्वया ॥ २ ॥
+
+### Printed p. 564
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतधीतयः सत्यस्तु तयोऽबाध्यकर्माणो वा देवा अध्वरमस्मद्यज्ञमा
+> गत । आगच्छत । आगत्य च हे सत्यधर्माणः सत्यस्य धारयितारो यूयमग्नेर्जह्वया
+> पिबताज्यसोमादिकं ॥
+
+##### Gist of the bhāṣya
+
+O Ṛtadhītayaḥ, gods whose praises are true or whose deeds cannot be obstructed, come to our sacrifice. And having come, O Satyadharmāṇaḥ, upholders of truth, drink with the tongue of Agni the ghee, the Soma and the rest. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतधीतयः (*ṛtadhītayaḥ*)—O gods who have truthful works
+- सत्यधर्माणः (*satyadharmāṇaḥ*)—and upholders of truth
+- अध्वरं (*adhvaraṃ*)—to our sacrifice
+- आ गत (*ā gata*)—come graciously
+- अग्नेः (*agneḥ*)—of Agni
+- जिह्वया (*jihvayā*)—with the mouth of the flame, which is like a tongue
+- पिबत (*pibata*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O gods who have truthful works and are upholders of truth, come graciously to our sacrifice and drink the Soma with the mouth of the flame, which is like the tongue of Agni.
+
+##### English translation
+(Gods who are) devoutly praised and worshipped in truth, come to the sacrifice, and drink the libation with the tongue of Agni.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतधीतयः (*ṛtadhītayaḥ*)—सत्यस्तु तयोs बाध्यकर्मणो वा (*satyastu tayos bādhyakarmaṇo vā*). Those who are praised with true sentences: the qualities that the praising people have described and extolled in the gods are all true. In the hymns they sing or the descriptions they make there is no exaggeration; this is the intention. Or else अबाध्यकर्माणः (*abādhyakarmāṇaḥ*): no one can obstruct the deeds or the heroic acts that these gods perform; that is, no one is able to hinder or put an obstacle in the way of the gods or of the works they do; this other kind of meaning is also stated here. More or less the same meaning applies to the word सत्यधर्माणः (*satyadharmāṇaḥ*) in this same Ṛk. Or else, the main intention is that they uphold truth alone, that they impel and regulate good people so that they do good works, or that their rules and works always rest on truth alone, and therefore they are called सत्यधर्माणः (*satyadharmāṇaḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 557. Sūkta 49 Ṛk 4-5 end; Sūkta 50 Ṛk 1-2 (pp. 552-557)
+**Progress note:** Done through printed p. 564. Sūkta 50 Ṛk 3-5; Sūkta 51 Ṛk 1-2 (pp. 558-564)
