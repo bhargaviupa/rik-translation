@@ -41,3 +41,4 @@
 | through p. 679 (three windows in one agent: pp. 662–679) | sonnet | 17 | 173765 | 5.9 |
 | through p. 697 (three windows in one agent: pp. 680–697) | sonnet | 13 | 168688 | 5.1 |
 | through p. 715 (three windows in one agent: pp. 698–715) | sonnet | 16 | 185339 | 6.1 |
+| through p. 728 (batch 40 stopped by the usage limit after two windows: pp. 716–728) | sonnet | ? | not reported | ? |
