@@ -2327,6 +2327,265 @@ Mitra and Varuna, you uphold the three realms of light, the three heavens; the t
 > इरा॑वतीर्वरुण धे॒नवो॑ वां॒ मधु॑मद्वां॒ सिंध॑वो मित्रदुहे ।  
 > त्रय॑स्तस्थुवृष॒भास॑स्ति सृ॒णां धि॒षणा॑नां रेतो॒धा विद्यु॒मंतः॑॥
 
+### Printed p. 63
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इरावतीः । वरुण । धेनवः । वां । मधुमत् । वां । सिंधवः । मित्र । दुह्रे ।  
+> त्रयः । तस्थुः । वृषभासः । तिसृणां । धिषणानां । रेतःधाः । वि । द्युमंतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण हे मित्र नां युवरोराज्ञया धेनवो गाव इरावतीः । इरा
+> क्षीरलक्षणा । तद्वत्यो भवंति । तथा सिंधवः स्यंदनशीला मेघा नद्यो वा
+> मधुमन्मधुररसमुदकं द्रुहे । दुहंति । तथा त्रयस्त्रिसंख्याका वृषभासो
+> वर्षितारो रेतोधा उदकस्य धारका द्युमंतो दीप्तिमंतोऽग्नि वाय्वादित्यास्तिसृणां त्रिसंख्याकानां धिषणानां स्थानानां पृथिव्यंतरिक्षद्युलोकानां स्वामिनः
+> संतो वि विविधं प्रत्येकं तस्थुः । तिष्ठंति । युवयोरनुग्रहात् त्रयोऽपि
+> देवास्त्रिषु स्थानेषु वर्तंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Addressing Varuṇa and Mitra, Sāyaṇa says that by your command the cows (dhenu) are full of milk (irā means milk), and likewise the flowing ones, that is the clouds or the rivers, yield sweet water. In the same way three shining ones who send rain and hold the water, namely Agni, Vāyu and Āditya, have become the lords of the three places (the earth, the atmosphere and the heaven), and stand there each separately. The meaning is that by your favour all three deities abide in the three places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- वां (*vāṃ*)—your (command)
+- धेनवः (*dhenavaḥ*)—the cows
+- इरावतीः (*irāvatīḥ*)—are full of milk
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- मधुमत् (*madhumat*)—sweet water
+- दुह्रे (*duhre*)—yield
+- वृषभासः (*vṛṣabhāsaḥ*)—the rain-givers
+- रेतोधाः (*retodhāḥ*)—the holders of water
+- द्युमंतः (*dyumaṃtaḥ*)—the radiant ones
+- त्रयः (*trayaḥ*)—the three, Agni, Vāyu and Āditya
+- तिस्कृणां धिषणानां (*tiskṛṇāṃ dhiṣaṇānāṃ*)—of the three places, the earth, the atmosphere and the heaven (as lords)
+- वितस्थुः (*vitasthuḥ*)—stand established each separately
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, by your command the cows are full of milk. By your command the rivers yield sweet water. By that same command of yours, the rain-givers, holders of water and radiant ones, Agni, Vāyu and Āditya, stand each separately established as lords of the three places, the earth, the atmosphere and the heaven.
+
+##### English translation
+Mitra and Varuna, the cows are full of milk through your (command) and the rivers yield through your (will) sweet water; through you the three radiant receptacles and showers of rain stand severally in their threes pheres.
+### Printed p. 64
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒तर्दे॒वीमदि॑तिं जोहवीमि म॒ध्यंदि॑न॒ उदि॑ता॒ सूर्य॑स्य ।  
+> रा॒ये मि॑त्रावरुणा स॒र्वता॒तेळे॑ तो॒काय॒ तन॑याय॒ शं  
+> योः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातः । देवीं । अदितिं । जोहवीमि । मध्यंदिने । उत् इता । सूर्यस्य ।  
+> राये । मित्रावरुणा । सर्वताता । ईळे । शोकाय । तनयाय । शं । योः ॥ ३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमृषिः प्रातः प्रातःकालेऽदितिमखंडनीयां देवानां जननीं देवीं
+> द्योतमानां जोहवीमि । । आह्वयामि । तथा मध्यंदिने सूर्यस्योदितोदितौ
+> तत्समृद्धिकाले माध्यंदिने सवने जोहवीमि । हे मित्रावरुणा युवां राये
+> धनप्राप्तॆये सर्वतात् यज्ञ ईळे । स्वामि । पुनः किमर्थं । तोकाय पुत्राय
+> तनयाय तत्पुत्राय च शमरिष्टशमनाय योः सुखस्य मिश्रणाय चेळ इति ॥
+
+##### Gist of the bhāṣya
+
+The seer says: I call upon the goddess Aditi, the undivided one, mother of the gods, the shining one, in the morning. Likewise at midday, when the sun has risen and is at the height of its power, at the midday pressing, I call. O Mitra and Varuṇa, I praise you both at the sacrifice at all times, for the attainment of wealth. And for what further purpose? For a son, for his son, for the removal of harm and for the mingling of happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवीं (*devīṃ*)—the divine one
+- अदितिं (*aditiṃ*)—Aditi, mother of the gods
+- प्रातः (*prātaḥ*)—at the time of the morning pressing
+- जोहवीमि (*johavīmi*)—I call with prayer
+- सूर्यस्य (*sūryasya*)—of the sun
+- उदिता (*uditā*)—when it has risen
+- मध्यंदिने (*madhyaṃdine*)—at the midday pressing also I call
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- सर्वताता (*sarvatātā*)—at all times of the sacrifice
+- राये (*rāye*)—for wealth
+- तोकाय (*tokāya*)—for a son
+- तनयाय (*tanayāya*)—for a son's son (a grandson)
+- शंयोः (*śaṃyoḥ*)—for the attainment of happiness and the removal of sorrow
+- ईळे (*īḷe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I call with prayer upon Aditi, divine and mother of the gods, at the time of the morning pressing, and when the sun has risen, at the time of the midday pressing. O Mitra and Varuṇa, I call upon you with prayer at all times of the sacrifice, for wealth, for a son, for a son's son, and for the attainment of happiness and removal of sorrow.
+### Printed p. 65
+
+##### English translation
+I invoke the divine and bright Aditi at dawn, and at mid-day, when the sun is high : I worship you, Mitra and Varuna, at all seasons, for the sake of riches, for sons and grandsons, for prosperity and happiness.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ध॒र्तारा॒ रज॑सो रोच॒नस्यो॒तादि॒त्या दि॒व्या पार्थि॑वस्य ।  
+> न वां॑ दे॒वा अ॒मृता॒ आ मि॑नंति व्र॒तानि॑ मित्रावरुणा ध्रु॒वाणि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । धर्तारा । रजसः । रोचनस्य । उत । आदित्या । दिव्या । पार्थिवस्य ।  
+> न । वां । देवाः । अमृताः । आ । मिनंति । व्रतानि । मित्रावरुणा । ध्रुवाणि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ रोचनस्य रोचमानस्य रजसो लोकस्य । स्वर्गाख्यस्येत्यर्थः ।
+> उतापि च पार्थिवस्य रजसो या यौ धर्तारावादित्यादितेः पुत्रौ दिव्या दिवि भवौ तौ
+> युवामीळ इति पूर्वत्र संबंधः । हे मित्रावरुणा नां युवयोध्रुवाणि व्रतानि
+> कर्माणि देवा अन्य इंद्रादयोऽमृता अमरणधर्माणोऽपि ना मिनंति । न
+> हिंसंति । यतो ध्रुवाण्यत इत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+The two who are the upholders of the shining world, that is the world called heaven, and also of the earthly world, the sons of Aditi, born in heaven, those two I praise; this is to be connected with the earlier verse. O Mitra and Varuṇa, your firm works are not violated by the other gods, Indra and the rest, though they are immortal. The sense is that they are not harmed, because the works are firm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—who
+- रोचनस्य (*rocanasya*)—of the radiant
+- रजसः (*rajasaḥ*)—of the heavenly world
+- उत (*uta*)—and
+- पार्थिवस्य (*pārthivasya*)—of the earthly world
+- धर्तारा (*dhartārā*)—the two upholders
+- दिव्या (*divyā*)—the divine ones
+- अदित्या (*adityā*)—the sons of Aditi, Mitra and Varuṇa
+- ईळे (*īḷe*)—I praise
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- नां (*nāṃ*)—your
+- ध्रुवाणि (*dhruvāṇi*)—firm
+- व्रतानि (*vratāni*)—works
+- अमृताः (*amṛtāḥ*)—the immortal
+- देवाः (*devāḥ*)—gods, Indra and the others
+- न आ मिनंति (*na ā minaṃti*)—do not harm
+### Printed p. 66
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Mitra and Varuṇa, the divine sons of Aditi, who are the upholders of the radiant heavenly world and of the earthly world. O Mitra and Varuṇa, your firm works are not harmed by the immortal gods, Indra and the rest (cannot be transgressed).**NOTE**
+
+##### English translation
+I worship you two, divine Adityas, who are upholders of the celestial and terrestrial worlds : the immortal gods impair not, Mitra and Varuna, your eternal works.
+## Sūkta 70 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरूरुणेति चतुर्ऋचं चतुर्दशं सूक्तमुरुचक्रेरार्षं गायत्रं मैत्रावरुणं । पुरूरुणा गायत्रं त्वित्यनुक्रमणिका ॥ पृष्ठ्याभिप्लवषडहयोः प्रातःसवन
+> आवापार्थत्वेनेदमपि सूक्तं पूर्वसूक्तेन सह प्र वो मित्रायेति चतुर्णां
+> द्वितीयमुद्धरेदिति ह्युक्तं ॥ चातुर्विंशिकेऽहनि प्रातःसवने मैत्रावरुणशस्त्र
+> आद्यस्तृचः षडहस्तोत्रियसंज्ञकः । सूत्रितं च । पुरूरुणा चिद्भ्यस्ति प्रति वां सूर
+> उदिते ॥ आ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta of four ṛcs, beginning with the word *purūruṇā*, is the fourteenth sūkta. Its seer is Urucakri, of the family of Atri; its metre is Gāyatrī; its deity is Mitra and Varuṇa; the Anukramaṇikā says that the metre is Gāyatrī. Its use: at the morning pressing of the Pṛṣṭhya and Abhiplava ṣaḍaha rites, this sūkta is also used, together with the preceding sūkta, for insertion, since it has been said that of the four beginning with "Pra vo mitrāya" the second is to be taken up. On the twenty-fourth day, at the morning pressing, the first tṛca (three ṛcs) is the stotriya of the ṣaḍaha in the śastra of the Maitrāvaruṇa priest. It is also given in the sūtra of Āśvalāyana (Ā. 7-2).
+
+##### Anuvāda
+
+This sūkta, "Purūruṇā", is the fourteenth sūkta in the fifth anuvāka. It contains four ṛcs. Its seer is Urucakri Ātreya; Mitra and Varuṇa are the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: "Purūruṇā gāyatraṃ tu". In the Pṛṣṭha and Abhiplava ṣaḍaha sacrifices**NOTE** the use of this sūkta together with the preceding sūkta, at the time of the morning pressing, for the increase of the stoma, has been stated earlier by the sūtra "Pra vo mitrāyeti caturṇāṃ dvitīyam uddharet", and for the Maitrāvaruṇa priest's śastra mantras at the morning pressing on the twenty-fourth day of the sacrifice, the first tṛca (three ṛcs) of this sūkta is to be used as the mantra named the ṣaḍaha-stotriya, as explained in the sūtra of the Āśvalāyana Śrauta-sūtra, "Purūruṇā ... prati vāṃ sūra udite" (Ā. 7-2).
+### Printed p. 67
+
+##### Particulars
+
+- Sūkta 20**NOTE**
+- Maṇḍala 5; Anuvāka 25; Sūkta 60**NOTE**
+- Aṣṭaka 4; Adhyāya 4; Varga 8
+- Number of ṛcs in the sūkta: 4
+- Seer: Urucakri Ātreya
+- Deity: Mitra and Varuṇa
+- Metre: Gāyatrī
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रू॒रुणा॑ चि॒द्दस्यवो॑ नू॒नं वां॑ वरुण ।  
+> मित्र॒ वंसि॑ वां सुम॒तिं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुउरुणा । चित् । हि । अस्ति । अवः । नूनं । वां । वरुण ।  
+> मित्र । वंसि । वां । सुमतिं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुण् वां युवयोः पुरूरुणा चित् ॥ अत्र सोः सुपां
+> सुलुगित्याकारः ॥ पुरोरपि बहु उरु बहुतरं । अथवा पुरु च तदुरु च पुरूरु ।
+> अत्यंतमुरुतरमित्यर्थः । तादृगवो रक्षणं नूनं निश्चयेनास्ति । हि प्रसिद्धौ । चिदिति
+> पूरणः । हे वरुण हे मित्र वां युवयोः सुमतिमनुग्रहबुद्धिं वंसि। संभजेय।
+> यस्मादवोऽस्ति तस्माद्वंसीति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, your protection is surely great, even very great: *puru* and *uru* both mean "much", and the compound means exceedingly large. The word *cit* is a mere filler, and *hi* denotes what is well known. O Varuṇa, O Mitra, may I enjoy your favour, your gracious mind. The sense is that since your protection exists, therefore may I enjoy it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- पुरूरुणा चित् (*purūruṇā cit*)—in great abundance
+- नूनं (*nūnaṃ*)—certainly
+- अस्ति हि (*asti hi*)—exists (by whose favour it is there indeed)
+- वां (*vāṃ*)—your
+- सुमतिं (*sumatiṃ*)—gracious mind
+- वंसि (*vaṃsi*)—may we enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, may we enjoy that gracious mind of yours, through whose favour your protection is exceedingly great and certainly present.
+### Printed p. 68
+
+##### English translation
+May I, Mitra and Varuna, enjoy your favour, through which there is assuredly protection.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॑ स॒म्यग॑द्रुह्वा॒णेष॑मश्याम॒ धाय॑से ।  
+> व॒यं ते रु॑द्रा स्याम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । सम्यक् । अद्रुह्वाणा । इषं । आश्याम । धायसे ।  
+> वयं । ते । रुद्रा । स्याम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रुह्वाणा हे अद्रोग्नारौ ता तौ प्रसिद्धौ नां युवां सम्यक् स्तुम
+> इति शेषः । स्तोतारो वयमिषमन्नं धायसे पानाय भोजनायाश्याम ।
+> प्राप्नुयाम। हे रुद्रा दुःखाद्वा वयितार् रुदद्भिद्रवणीयौ ना ते स्तोतारो
+> वयं स्याम । भवेम । समृद्धा इति शेषः । युवाभ्यां स्वभूता वा स्याम ॥
+
+##### Gist of the bhāṣya
+
+O you two who do no harm, the well-known ones, we praise you fully. We the praisers obtain food for drinking and eating, for our sustenance. O Rudras, those who remove sorrow or who make others weep, may we be your praisers, or may we be prosperous, or may we be your own.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रुह्वाणा (*adruhvāṇā*)—O Mitra and Varuṇa, you who do us good without doing harm
+- ता (*tā*)—the well-known
+- वां (*vāṃ*)—you
+- सम्यक् (*samyak*)—fully (we praise)
+- धायसे (*dhāyase*)—for our sustenance
+- इषं (*iṣaṃ*)—food
+- आश्वाम (*āśvāma*)—may we obtain
+- रुद्रा (*rudrā*)—O destroyers of sorrow
+- वयं (*vayaṃ*)—we
+- ते (*te*)—your
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who do us good without doing harm, we praise you fully. May we obtain food, the means of our sustenance. O destroyers of sorrow, may we be your praisers.
+
+##### English translation
+Benignant (deities), may we obtain from you, (who are) such (deities), food for our sustenance: May we, Rudras, be yours.
+
 ---
 
-**Progress note:** Done through printed p. 62. Vol 20 pp. 57-62: MM 5.68 Rk 2-5, 5.69 Rk 1 and Rk 2 start
+**Progress note:** Done through printed p. 68. Vol 20 pp. 63-68: 5.69.2-4, 5.70.1-2
