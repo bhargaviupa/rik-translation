@@ -7,3 +7,4 @@
 | through p. 116 (three windows in one agent: pp. 99–116) | sonnet | 14 | 165996 | 4.5 |
 | through p. 134 (three windows in one agent: pp. 117–134) | sonnet | 18 | 169090 | 4.6 |
 | through p. 153 (three windows in one agent: pp. 135–153) | sonnet | 17 | 194654 | 7.2 |
+| through p. 172 (three windows in one agent: pp. 154–172) | sonnet | 21 | 180096 | 5.4 |

@@ -17,7 +17,7 @@ Front matter (lines 1–743, no window covers it): title lines and board of scho
 By Sonnet agents, one per batch of three windows, no Batch API (`CONTINUE_PROMPT_HTML.md`). Conventions in `volcfg.json` as Vol 18, plus `printed_english_label` "English translation".
 
 ## Status
-Nov 18 2026. Text prepared; translation not started (done through printed p. 0).
+Nov 18 2026. **Done through printed p. 172** (10 batches; Maṇḍala 5 Sūktas 63–80 present, each sūkta's Ṛk headings run 1…n without a gap). Tokens per batch 107k–195k (`parts/batch_costs.md`). 96 NOTE marks (rows in `review/notes.tsv`), 35 GLOSS marks. `check_labels.py 20`: 362 English blocks, 0 under the wrong label. `rv structure 20 --mandalas 5` read 0 sūktas against the reference (112 Saṃhitā units, "no reference verse with this number" for all): the new tool does not work on this volume as it stands; not changed. Hand repairs: pp. 1–6 sub-heading levels (`review/repair_log.md`); `batch.py fix` by agents in w0045, w0051, w0075, w0087, w0093, w0135, w0154 (Pratipadārtha/Bhāvārtha inside the bhāṣya block, lesson in `docs/LESSONS.md`).
 
 ## Open items
 1. Preface (if translated): `work/preface/en.md`, installation is a logged repair after the user's yes.
