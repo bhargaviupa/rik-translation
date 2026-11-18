@@ -18567,6 +18567,249 @@ Propitiate with pious praises the radiant Agni, your guest, the guide to heaven,
 > तूर्व॒न्न याम॒न्नेत॑शस्य॒ नू रण॒ आ यो घृ॒णे न त॑तृषा॒णो  ॒॑
 > अजरः ॥ ५ ॥
 
+### Printed p. 539
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पावकया । यः । चितयंत्या । कृपा । क्षामन् । रुरुचे । उषसः । न । भानुना ।  
+> तूर्वन् । न । यामन् । एतशस्य । नु । रणे । आ । यः । घृणे । न । ततृषाणः ।  
+> अजरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः पावकया शोधयित्र्या चितयंत्या चेतयंत्या प्रज्ञापयंत्या
+> कृपा दीप्ता क्षामन् भूम्यां रुरुचे दीप्यते । उषसो न भानुना ! यथोषसः
+> प्रकाशेन भासंते तद्वत् । अपि च यामन् यामनि संग्रामे तूर्वन्न शत्रून्
+> हिंसन् पुरुष इवैतशस्यैतत्संज्ञस्य ऋषे रणे सूर्येण सह संग्रामे सहायार्थं
+> योऽग्निर्नु क्षिप्रमा फृणे आदीप्यते । प्रतशं सूर्ये पस्पृधानं । ऋग्वे.
+> १-६१-१५ । इति निगमांतरं । नूनं सर्वे देवास्तस्य साहाय्यमकार्षुः । यश्च
+> ततृषाणस्त्वषितः प्रभावेन सर्वभक्षणशीलोऽजरो जरारहितश्च भवति तं देवमृंजस
+> इति पूर्वस्यामृचि संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Agni shines on the earth with a flame that purifies and makes aware, as the dawns shine with their light. Further, like a man slaying enemies in battle, he blazes quickly in the fight of the seer named Etaśa with the Sun, to help him. Sāyaṇa cites another Vedic text for this, प्रतशं सूर्ये पस्पृधानं (*prataśaṃ sūrye paspṛdhānaṃ*) (Ṛgve. 1-61-15) **NOTE**. He adds that surely all the gods gave him help. And the god who, being thirsty, is by his power all-devouring and free from old age: that god is to be worshipped. This is the connection with the previous Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भानुना (*bhānunā*)—with his lustre
+- उषसो न (*uṣaso na*)—as the dawn shines
+- यः (*yaḥ*)—which Agni
+- पावकया (*pāvakayā*)—which purifies
+- चितयंत्या (*citayaṃtyā*)—which gives consciousness
+- कृपा (*kṛpā*)—with the radiance
+- क्षामन् (*kṣāman*)—on the earth
+- रुरुचे (*ruruce*)—shines
+- यः (*yaḥ*)—which Agni
+- नु (*nu*)—quickly
+- यामन् (*yāman*)—in battle
+- तूर्वन्न (*tūrvanna*)—like a man who slays
+- एतशस्य (*etaśasya*)—led by Etaśa
+- रणे (*raṇe*)—on the field of battle
+- आ फृणे (*ā phṛṇe*)—shines
+- यः (*yaḥ*)—who
+- ततृषाणः (*tatṛṣāṇaḥ*)—who is of a nature to devour everything
+- अजरः (*ajaraḥ*)—who is without decay, praise such an Agni
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Agni who shines on the earth with a purifying and life-giving radiance as the dawn shines with its lustre; who, as a hero presses forward in battle, shines quickly in the battlefield of Etaśa to help Etaśa; who is of a nature to devour everything and is free from old age.
+
+### Printed p. 540
+
+##### English translation
+(Propitiate him) who shines upon the earth with purifying and enlightening lustre, as the dawns with light; him, who like (a warrior) discomfiting (his foes) quickly blazed forth in the contest in defence of Etasha ; him, who is satiated (with food), exempt from decay.
+
+##### विशेषविषयगळु (Special Topics)
+
+एतशस्य (*etaśasya*)—The word एतश (*etaśa*) has two meanings. The Sun's horse is called एतश (*etaśa*); and there is also a seer named Etaśa. In the present Ṛk the meaning is "in the battle fought with the seer named Etaśa". This matter is also touched on in the Ṛks Ṛ. Saṃ. 1-61-15 and Ṛ. Saṃ. 1-121-13. In explaining it, the commentator tells an old story: स्वश्वनामा कश्चिद्राजा । स च पुत्रार्थं सूर्यमुपास्ते । स च सूर्यः पुत्ररूपेण स्वयमेव तत्रोत्पन्नः सन् एतशाख्येन महर्षिणा सार्धं युद्धं चकार । तदानीं स ऋषिः युद्धे जयार्थमिंद्रं तुष्टाव । स इंद्रः तेन सूयमानः सन् स्वश्वपुत्रस्य सूर्यस्य संबंधिनः संग्रामात् एनमपाल यदिति ॥ (*svaśvanāmā kaścidrājā | sa ca putrārthaṃ sūryamupāste | sa ca sūryaḥ putrarūpeṇa svayameva tatrotpannaḥ san etaśākhyena maharṣiṇā sārdhaṃ yuddhaṃ cakāra | tadānīṃ sa ṛṣiḥ yuddhe jayārthamiṃdraṃ tuṣṭāva | sa iṃdraḥ tena sūyamānaḥ san svaśvaputrasya sūryasya saṃbaṃdhinaḥ saṃgrāmāt enamapāla yaditi ‖*) (Sā. Bhā. 1-61-15) **NOTE**. In ancient times there was a king named Svaśva. He worshipped the Sun in order to have a son. Then the Sun himself was born as his son. While this son was fighting with the seer called Etaśa, that seer praised Indra so that victory in the battle might fall to him. Then Indra, pleased with his praise, protected the seer Etaśa in the battle connected with Svaśva's son. This is what is suggested here. But in the present Ṛk it is said that Agni shone to help this seer Etaśa. In many places in the Ṛgveda the qualities of Indra are attributed to Agni and he is praised in the many heroic deeds of Indra, such as the slaying of Vṛtra. This too may be called one example of such occasions.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निम॑ग्निं वः स॒मिधा॑ दुवस्यत प्रि॒यंप्रि॑यं वो॒ अति॑थिं  ॒॑
+> गृणी॒षणि॑ ।
+
+### Printed p. 541
+
+> उप वो गीर्भिरमृतं विवासत देवो देवेषु वनते हि  
+> वार्यं देवो देवेषु वनते हि नो दुवः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निंऽअग्निं । वः । संइधा । दुवस्यत । प्रियंऽप्रियं । वः । अतिथिं । गृणीषणि ।  
+> उप । वः । गीऽभिः । अमृतं । विवासत । देवः । देवेषु । वनते + हि । वार्यं ।  
+> देवः । देवेषु । वनते । हि । नः । दुवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीयाः स्तोतारो वो यूयं प्रियं प्रियमत्यंतं प्रियं वो
+> युष्माकमतिथिमतिथिवत्तूज्यं गृणीषणि शब्दनीयं स्तुत्यमग्निमग्निमेव ।
+> नान्यं देवमित्यर्थः । समिधा समिंधनेन समिद्धिर्वा दुवस्यत । परिचरत । यद्वा ।
+> गृणीषणीति सप्तम्यंतं । गृणीषणि स्तोत्रे विषयतया वर्तमानं । अपि च वो
+> यूयममृतममरणमग्निं गीर्भिः स्तुतिभिरुपेत्य विवासत परिचरत । हि यस्मात्
+> देवेषु मध्यॆ देवो दानादिगुणयुक्तोऽग्निर्वार्र्यं वरणीयं समिदादिकं
+> वनते संभजते । हि यस्माच्च देवेषु मध्यॆ देवोऽग्निर्नोऽस्माकं दुवः
+> परिचरणं वनते संभजते तस्माद्दु वस्यतेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses our praisers: worship with fuel, or with kindlings, Agni, Agni alone and no other god, who is exceedingly dear to you, honoured like a guest, and fit to be praised. Or else the word meaning "fit to be praised" is taken as a locative: Agni, who stands as the object in the praise. Further, approach the immortal Agni, who never dies, with praises, and serve him. For among the gods the god Agni, who has the quality of giving and the like, accepts what is choice, such as the fuel; and since among the gods the god Agni accepts our service, therefore serve him. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you, O praisers
+- प्रियंप्रियं (*priyaṃpriyaṃ*)—who is exceedingly dear
+- वः (*vaḥ*)—to you
+- अतिथिं (*atithiṃ*)—who is honoured like a guest
+- गृणीषणि (*gṛṇīṣaṇi*)—who is exceedingly worthy of praise
+- अग्निमग्निं (*agnimagniṃ*)—Agni alone
+- समिधा (*samidhā*)—by offering fuel
+- दुवस्यत (*duvasyata*)—worship
+- हि (*hi*)—for which reason
+- देवेषु (*deveṣu*)—among the gods
+- देवः (*devaḥ*)—Agni, who is worthy of worship
+- वार्यं (*vāryaṃ*)—the desired fuel
+- वनते (*vanate*)—accepts
+- हि (*hi*)—for which reason
+- देवेषु (*deveṣu*)—among the gods
+- देवः (*devaḥ*)—Agni, who is worthy of worship
+- नः दुवः (*naḥ duvaḥ*)—our services
+- वनते (*vanate*)—accepts
+- वः (*vaḥ*)—you
+- अमृतं (*amṛtaṃ*)—Agni, who is free from mortality
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- उप विवासत (*upa vivāsata*)—serve
+
+### Printed p. 542
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, worship with fuel and the like that very Agni who is exceedingly dear, honoured by you like a guest and exceedingly worthy of praise. For the reason that Agni, worthy of worship among the gods, accepts with regard the fuel he desires and our services, for that very reason approach the immortal Agni and serve him with praises.
+
+##### English translation
+Worship repeatedly the adorable Agni with fuel; (him) who is ever your dear friend, your guest: approach the immortal Agni with praises, for he. a god among gods, accepts our homage.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्धम॒ग्निं स॒मिधा॑ गि॒रा गृ॑णे॒ शुचिं॑ पाव॒कं पु॒रो अ॑ध्व॒रे  ॒
+> ध्रुवं ।  
+> विप्रं॒ होता॑रं पुरु॒वार॑म॒द्रुहं॑ क॒विं सु॒म्मैरी॑महे  ॒॑
+> जातवेदसं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्धं । अग्निं । संइधा । गिरा । गृणे । शुचिं । पावकं । पुरः । अध्वरे । ध्रुवं ।  
+> विप्रं । होतारं । पुरुववारं । अद्रुहं । कविं । सुष्मैः । ईमहे । जातवेदसं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमेऽहन्याग्निमारुते समिद्धमिति तृचो जातवेदस्यनिविद्वा नार्थः ।
+> सूत्रितं च । समिद्धमग्निं समिधा गिरा गृण इति तृचश्च । आ. ८-१२ । इति ॥
+> समिद्धं सम्यग्गीप्तमग्निं समिधा समिंधनहेतुभूतया गिरा स्तुत्या गृणे ।
+> सौमि ! यद्वा । समिधा समिद्धिर्दारुभिः समिद्धं सम्यगिद्दं । अपि च शुचिं स्वयं
+> शुद्धं पावकं सर्वेषां शोधकं ध्रुवं निश्चलं तमग्निमध्वरे यज्ञे पुरस्करोमाति
+
+##### Gist of the bhāṣya
+
+On the tenth day, in the Āgnimāruta, the three Ṛks beginning समिद्धं (*samiddhaṃ*) serve for the nivid-type of Jātavedas **NOTE**; and it is laid down in the sūtra (Ā. Sū. 8-12) with the Ṛk beginning "samiddham agnim" and the three Ṛks. Sāyaṇa explains: I praise the well-kindled Agni with the praise that is the cause of kindling. Or else "with fuel" is taken as "with logs, well kindled". Further, that pure Agni, who is himself clean, the purifier of all and firm, immovable, we place before us in the sacrifice, this being the word to be supplied **NOTE**.
+
+### Printed p. 543
+
+> शेषः । तथा विप्रं मेधाविनं होतारं देवानामाह्वातारं पुरुवारं बहुभिर्वर्णनीयमद्रुहमद्रोग्धारं सर्वेषामनुकूलं कविं क्रांतदर्शिनं जातवेदसं
+> जातानां वेदितारमग्निं सुम्मैः सुखकरैः स्तोत्रैरीमहे । संभजामहे । यद्वा
+> द्वितीयार्थे तृतीया । सुम्नानि धनानीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+Likewise the wise one, the invoker of the gods, who is much chosen, that is, to be praised by many; who injures none, that is, is favourable to all; the seer, who sees beyond; Jātavedas, who knows all that is born: that Agni we approach with pleasure-giving praises. Or else the third case stands in the sense of the second, and the meaning is: we ask for riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिधा (*samidhā*)—with fuel
+- समिद्धं (*samiddhaṃ*)—who is kindled
+- अग्निं (*agniṃ*)—Agni
+- गिरा (*girā*)—with praises
+- गृणे (*gṛṇe*)—I praise
+- शुचिं (*śuciṃ*)—who is pure of himself
+- पावकं (*pāvakaṃ*)—who purifies
+- ध्रुवं (*dhruvaṃ*)—who is firm, Agni
+- अध्वरे (*adhvare*)—in the sacrifice
+- पुरः (*puraḥ*)—I worship
+- विप्रं (*vipraṃ*)—who is wise
+- होतारां (*hotārāṃ*)—who is the Hotṛ
+- पुरुषारं (*puruṣāraṃ*)—who is desired by many
+- अद्रुहं (*adruhaṃ*)—who is free from injury
+- कविं (*kaviṃ*)—who is far-seeing
+- जातवेदसं (*jātavedasaṃ*)—who knows all, Agni
+- सुम्मैः (*summaiḥ*)—with praises that give pleasure
+- ईमहे (*īmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with praises the Agni who is kindled with fuel. I worship in the sacrifice the Agni who is pure of himself, who purifies others and is firm. We praise with pleasure-giving praises the Agni who is wise, the Hotṛ, desired by many, free from injury, far-seeing and all-knowing.
+
+##### English translation
+I glorify with praise the kindled Agni, pure, purifying, permanent, (placed) before (us) at the sacrifice : let us celebrate with pleasant (hymns) the wise Agni, the invoker of the gods, the adored of many, the benevolent the far-seeing, him who knows all that exists.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the tenth day of the sacrifice, at the time of reciting the mantras of the Agnimāruta-śastra, the three Ṛks 7-9 of this sūkta beginning समिद्धमग्निं (*samiddhamagniṃ*) are to be used for the nivid-type sūkta mantras that praise Agni called Jātavedas. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra समिद्धमग्निं समिधा गिरा गृण इति तृचश्च (*samiddhamagniṃ samidhā girā gṛṇa iti tṛcaśca*) (Ā. Sū. 8-12).
+
+### Printed p. 544
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां दू॒तम॑ग्ने अ॒मृतं॑ यु॒गेयु॑गे हव्य॒वाहं॑ दधिरे  ॒॑
+> पायुमीड्यं ।  
+> दे॒वास॑श्च॒ मर्ता॑ सश्च॒ जागृ॑विं वि॒भुं वि॒श्वतिं॒ नम॑सा॒ नि षे॑दिरे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । दूतं । अग्ने । अमृतं । युगेऽयुगे । हव्यवाहं । दधिरे । पायुं ।  
+> ईड्यं ।  
+> देवासः । च । मर्तासः । च । जागृविं । विभुं । विश्वतिं । नमसा । नि । सेदिरे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां देवासो देवाश्च मर्तासो मनुष्याश्च दूतं दधिरे ।
+> विदधिरे । कृतवंतः । कीदृशं त्वां । अमृतममरणं युगे युगे काले काले
+> तत्तद्यागानुष्ठानसमये हव्यवाहं हव्यानां हविषां वोढारं पायुं पालयितारमीड्यं स्तुत्यं । आपि च त उभयविधा जागृविं जागरणशीलं विभुं व्याप्तं
+> विश्वतिं विशां प्रजानां पालयितारं तमग्निं नमसा नमस्कारेण हनिर्लक्षणान्नेन वा
+> नि षेधिरे । उपसेदिरे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni: gods and mortal men have made you their messenger. Of what kind are you? Immortal; in every age, that is, at the time of each sacrifice, the bearer of oblations; the protector; the one to be praised. Further, both these kinds of beings approach with obeisance, or with the food that is the oblation, that Agni who is ever awake, all-pervading, the protector of the peoples.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अमृतं (*amṛtaṃ*)—who are free from mortality
+- त्वां (*tvāṃ*)—you
+- युगे युगे (*yuge yuge*)—in every age
+- देवासः (*devāsaḥ*)—the gods
+- मर्तासः च (*martāsaḥ ca*)—and men
+- दूतं (*dūtaṃ*)—as messenger
+- दधिरे (*dadhire*)—have obtained
+- हव्यवाहं (*havyavāhaṃ*)—who bears the oblation
+- पायुं (*pāyuṃ*)—who protects
+- ईड्यं (*īḍyaṃ*)—who is to be praised
+- जागृविं (*jāgṛviṃ*)—who is awake
+- विभुं (*vibhuṃ*)—who pervades
+- विश्वतिं (*viśvatiṃ*)—who protects the peoples
+- नमसा (*namasā*)—with obeisances
+- निषेदिरॆ (*niṣedirè*)—approached and worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are free from mortality, in every age the gods and men have obtained you as messenger. And they approached with obeisances and worshipped the Agni who bears the oblation, protects, is to be praised, is awake, all-pervading and the protector of the peoples.
+
 ---
 
-**Progress note:** Done through printed p. 538. Sukta 6.15 Rks 1(end)-5(begin)
+**Progress note:** Done through printed p. 544. Sukta 6.15 Rks 5-8
