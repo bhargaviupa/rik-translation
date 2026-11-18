@@ -4,9 +4,9 @@ English file cut into 3390 pieces; units now 3390 (0 summary units added beside 
 
 ## Proof 1: every English paragraph placed once
 - paragraphs of English text in the file: 10967
-- placed in a unit: 10791
-- not placed (their piece has no unit): 176
-- placed more than once: 176
+- placed in a unit: 10781
+- not placed (their piece has no unit): 186
+- placed more than once: 186
 - parts that the English has and the Kannada file has no label for (units without Kannada; a fault of the supplied text or of its labels): 0
 - units that should have English and have none: 0
 
@@ -27,7 +27,7 @@ English file cut into 3390 pieces; units now 3390 (0 summary units added beside 
 ## Questions for the editor
 - NOTE marks in the English file: 471; rows in review/notes.tsv: 471; attached to units: 471
 - decided (data/decisions.tsv): 96; still open: 375
-- abbreviations replaced by the form of the one list: 76 (Bhā. U. 12, Ṛgve. 11, Atha. Saṃ. 10, Ṛg. 7, I. Ā. 6, Kṛ. Saṃ. 5, Trai. U. 3, Śai. Saṃ. 3, Manu. 2, Ma. Saṃ. 2, Śai. Brā. 2, Mu. Saṃ. 2, Kṛ. U. 2, Trai. Ā. 2, I. Brā. 2, Ā. Gṛ. 2, I. U. 2, Kṛ. Ā. 1)
+- abbreviations replaced by the form of the one list: 87 (Bhā. U. 12, Ṛgve. 11, Atha. Saṃ. 10, Ṛg. 7, I. Ā. 6, Kṛ. Saṃ. 5, ā. 4, Trai. U. 3, Śai. Saṃ. 3, ṛ. saṃ. 2, Manu. 2, ni. 2, Ma. Saṃ. 2, Śai. Brā. 2, Mu. Saṃ. 2, Kṛ. U. 2, Trai. Ā. 2, I. Brā. 2, Ā. Gṛ. 2, I. U. 2, Ā. Ve. 1, śa. brā. 1, Kṛ. Ā. 1, tai. saṃ. 1)
 - paragraphs changed to carry out a decision (data/import_fixes.json, replace_en): 47; reference repairs by substring (replace_sub): 20
 
 ## Left behind on purpose

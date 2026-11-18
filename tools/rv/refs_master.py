@@ -53,6 +53,9 @@ def suggest(w):
         if len(cand) == 1: return (cand[0], note + 'short for ' + cand[0] + ' (the only list form that begins so)', 'medium')
         return ('', note + 'could be ' + ' or '.join(cand[:4]), 'none')
     return ('', note + 'no list form close to it', 'none')
+appr = {}
+if os.path.exists(os.path.join(ROOT, 'rv', 'reference_approvals.tsv')):
+    for r in csv.DictReader(open(os.path.join(ROOT, 'rv', 'reference_approvals.tsv'), encoding='utf8'), delimiter='\t'): appr[r['form as written']] = r['approved form']
 rows = []
 for w, c in cnt.items():
     if re.search('[\u0900-\u097f]', w): st, mean = 'Devanagari', ''
@@ -64,7 +67,7 @@ order = {'NOT IN LIST': 0, 'mistake': 1, 'extra': 2, 'legend': 3, 'Devanagari': 
 rows.sort(key=lambda r: (order[r[0]], -r[3]))
 with open(os.path.join(ROOT, 'REFERENCES_MASTER.tsv'), 'w', encoding='utf8') as o:
     o.write('status\tform as written\tmeaning / form to use\tsuggested form\tbasis\tconfidence\tapproved\ttotal\t' + '\t'.join(f'vol{v}' for v in vols) + '\n')
-    for st, w, mean, tot, c, sg in rows: o.write('\t'.join([st, w, mean, sg[0], sg[1], sg[2], '', str(tot)] + [str(c.get(v, '')) for v in vols]) + '\n')
+    for st, w, mean, tot, c, sg in rows: o.write('\t'.join([st, w, mean, sg[0], sg[1], sg[2], ('yes' if appr.get(w) == sg[0] and sg[0] else ''), str(tot)] + [str(c.get(v, '')) for v in vols]) + '\n')
 by = collections.Counter(); ref = collections.Counter()
 for st, w, mean, tot, c, sg in rows: by[st] += 1; ref[st] += tot
 md = ['# Master list of reference abbreviations (all volumes)', '',
