@@ -12654,6 +12654,331 @@ O lord Agni, may I obtain from you, for the sake of increase of prosperity, your
 ##### English translation
 Royal Agni, may I obtain from you your many and various treasures whereby to be enriched; for, Agni, who are the desired of multitudes, infinite are the riches(aggregated) in you, fit, monarch, for your worshipper.
 
+### Printed p. 380
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, beginning पुरुण्यग्ने (*puruṇyagne*), is to be used as an anuvākya mantra, to be recited by the kṣatriya (the sacrificer) when he makes the offering to Agni in the iṣṭi called Ukhāsambharaṇa; this is set out by the Āśvalāyana Śrauta Sūtra aphorism पुरुण्यग्ने पुरुधा त्वाया स चित्र चित्रं चितयंतमस्मे (*puruṇyagne purudhā tvāyā sa citra citraṃ citayaṃtamasme*) (Ā. 4-1).
+
+वसुता ते (*vasutā te*): although the Pada-pāṭha clearly divides the words as वसुता (*vasutā*), ते (*te*), Bharatasvāmin, when explaining the meaning of this Ṛk in his bhāṣya, takes वसुताते (*vasutāte*) as one word and says that it is a word in the locative, while Bhaṭṭabhāskara Miśra says that it is a word in the vocative and explains the meaning accordingly; Sāyaṇa points this out here, that is, in his own bhāṣya. It need not be said separately that it is not right to depart from the word-division given by Śaunaka and the other ṛṣis, the Pada-pāṭha makers of the Ṛgveda, to divide the words differently as suits the occasion, and to explain the meaning in various ways.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्क भूपालसाम्राज्य - धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके चतुर्थोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukka bhūpālasāmrājya - dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake caturtho 'dhyāyaḥ samāptaḥ ‖*)
+
+Here ends the fourth adhyāya in the fourth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and with the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वक्षं क्षम्युतां देव वागीश्वर समोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvakṣaṃ kṣamyutāṃ deva vāgīśvara samo 'stute ‖*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्चसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niścasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+## Sūkta 2 (Maṇḍala 6)
+
+**The Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya: Fourth Aṣṭaka, Fifth Adhyāya**
+
+In the fourth aṣṭaka, the fifth adhyāya; in the fifth maṇḍala, the second sūkta. **NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पंचमोऽध्याय आरभ्यते ॥ षष्ठमंडलस्य षडनुवाकात्मकस्य प्रथमेऽनुवाके पंचदश सूक्तानि । तत्र त्वं हीत्येकादशर्चं द्वितीयं सूक्तं भरद्वाजस्यार्षमाग्नेयं । अंत्या षट्पंचाशदक्षरा शक्वर्यादितो दशानुष्टुभः ।
+> अनुक्रम्यते हि । त्वं हैकादशानुष्टुभं शक्वर्यंतमिति ॥ प्रातरनुवाक अग्नेये
+> क्रतावानुष्टुभे छंदसीदं सूक्तमुत्तमावर्जं विनियुक्तं । सूत्र्यते हि । त्वं हि
+> क्षैतवदग्ना यो होताजनिष्ट । आ. ४. १३. । इति ॥ आश्विनशस्त्रे चैतत् संशनीयं
+> प्रातरनुवाकन्यायेनेत्यतिदिष्टत्वात् ॥ अंगिरसां द्विरात्रे द्वितीयेऽहनीदमेव
+> सूक्तमाज्यशस्त्रं । सूत्रितं च । त्वं हि क्षैतवदिति चाज्यं । आ. १०. २. । इति ॥
+
+##### Gist of the bhāṣya
+
+Now the fifth adhyāya begins. The sixth maṇḍala consists of six anuvākas, and its first anuvāka has fifteen sūktas. Of these, the second sūkta, beginning त्वं हि (*tvaṃ hi*), has eleven Ṛks; its seer is Bharadvāja and its deity is Agni. The last Ṛk has fifty-six syllables and is Śakvarī; the first ten are Anuṣṭubh. The Anukramaṇī says: त्वं हैकादशानुष्टुभं शक्वर्यंतमिति (*tvaṃ haikādaśānuṣṭubhaṃ śakvaryaṃtamiti*). Application: in the Prātaranuvāka, in the Āgneya kratu in Anuṣṭubh metre, this sūkta is employed except for its last Ṛk; this is laid down in the sūtra (Ā. 4. 13). In the Āśvina śastra too this is to be recited, since the procedure of the Prātaranuvāka is extended to it. In the Dvirātra of the Aṅgirases, on the second day, this same sūkta is the Ājya-śastra; this too is laid down in the sūtra (Ā. 10. 2).
+
+### Printed p. 382
+
+The Kannada rendering: From this sūkta the fifth adhyāya of the fourth aṣṭaka begins. As said before, the first anuvāka of the sixth maṇḍala has fifteen sūktas. Among them this sūkta, beginning त्वं हि क्षितवत् (*tvaṃ hi kṣitavat*), is the second. It has eleven Ṛks. Bharadvāja is the ṛṣi of this sūkta; Agni is the deity. The first ten Ṛks of this sūkta are in the Anuṣṭup metre. The last Ṛk is in the metre called Śakvarī, with fifty-six syllables. In the Anukramaṇī it is said त्वं हैकादशानुष्टुभं (*tvaṃ haikādaśānuṣṭubhaṃ*). At the time of reciting the Prātaranuvāka mantras, this sūkta, except for one last Ṛk, is applied for the Anuṣṭup Ṛks that belong to the Āgneya kratu; this is set out by the Āśvalāyana Śrauta Sūtra aphorism त्वं हि क्षितवदग्ना यो होता जनिष्ट (*tvaṃ hi kṣitavadagnā yo hotā janiṣṭa*) (Ā. 4-13). Since it is prescribed that this sūkta be recited in the Prātaranuvāka mantras, it is as though it were said that it is applied also in the Āśvina-śastra mantras. On the second day of the sacrifice called Dvirātra, performed by the Aṅgirā ṛṣis, this sūkta is to be recited for the Ājya mantras; this is set out by the Āśvalāyana Śrauta Sūtra aphorism त्वं हि क्षृतवदिति चाज्यं (*tvaṃ hi kṣṛtavaditi cājyaṃ*) (Ā. 12-2). **NOTE**
+
+- Sūkta 2
+- Maṇḍala 6; Anuvāka 1; Sūkta 2
+- Aṣṭaka 4; Adhyāya 5; Varga 1, 2
+- Number of Ṛks in the sūkta: 11
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Ṛks 1–10, Anuṣṭup; Ṛk 11, Śakvarī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि क्षैत॑व॒द्यशोग्ने॑ मि॒त्रो न पत्य॑से ।  
+> त्वं वि॑चर्षणे॒ श्रवो॒ वसो॑ पु॒ष्टिं न पु॑ष्यसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । क्षैतवत् । यशः । अग्ने । मित्रः । न । पत्यसे ।  
+> त्वं । विचर्षणे । श्रवः । वसो इति । पुष्टिं । न । पुष्यसि ॥ १ ॥
+
+### Printed p. 383
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं हि त्वं खलु क्षैतवत् । क्षितिः क्षयोऽपचयः । तत्संबंधि क्षैशं
+> शुष्कं काष्ठं । तद्युक्तं यशोऽन्नं हनिर्लक्षणं पत्यसे । अभिपतसि । गच्छसि । तत्र
+> दृष्टांतः । मित्रो न । अहरभिमानी देवो मित्रः । स इव । यद्वा यश इति गृहनाम ।
+> क्षैतवत् । क्षितं निवासकं हनिर्लक्षणमन्नं । तद्युक्तं यजमानगृहं मित्रभूतः
+> पुरुष इवाभिपतसि । यद्वा सत्यतिरैश्वर्यकर्मा । ईदृशमन्नं पत्यसे । ईशिषे । अतः
+> कारणात् हे विचर्षणे विशेषेण सर्वस्य द्रष्टर्वसो वासकाग्ने त्वं श्रवः श्रवणीयमन्नं यजमानगृहस्थं न । अयं नशब्दश्चार्थे । अन्न कार्यभूतां पुष्टिं च पुष्यसि ।
+> वर्धयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you indeed go towards the यशः (*yaśaḥ*), the food in the form of the oblation, which is क्षैतवत् (*kṣaitavat*). क्षितिः (*kṣitiḥ*) is क्षयोऽपचयः (*kṣayo 'pacayaḥ*) (waste, decay); what belongs to it is क्षैतं (*kṣaitaṃ*), dry wood; क्षैतवत् (*kṣaitavat*) is what is joined with that. पत्यसे (*patyase*) means you approach, you go. An example is given: like Mitra, the deity presiding over the day. Or else: यशः (*yaśaḥ*) is a name for a house; क्षैतवत् (*kṣaitavat*) is food in the form of the oblation, which is "that which dwells" (क्षितं निवासकं (*kṣitaṃ nivāsakaṃ*)), joined with it; you approach the sacrificer's house like a man who is a friend. Or else: the root पति (*pati*) has the sense of lordship; you rule over food of this kind. For this reason, O one who sees everything in particular (विचर्षणे (*vicarṣaṇe*)), O giver of dwelling (वसो (*vaso*)) Agni, you make grow the famed food (श्रवः (*śravaḥ*)) that is in the sacrificer's house, and the nourishment that is its result. The word न (*na*) here has the sense of "and".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं हि (*tvaṃ hi*)—you
+- मित्रो न (*mitro na*)—like Mitra
+- क्षैतवत् (*kṣaitavat*)—provided with dry wood
+- यशः (*yaśaḥ*)—in order to accept the oblation
+- पत्स्यसे (*patsyase*)—you come, desiring (it)
+- विचर्षणे (*vicarṣaṇe*)—who are able to see everything fully
+- वसो (*vaso*)—and the giver of dwelling
+- त्वं (*tvaṃ*)—you
+- श्रवः (*śravaḥ*)—in the sacrificer's house, wealth of food
+- न (*na*)—and
+- पुष्टिं (*puṣṭiṃ*)—wealth of cattle that gives nourishment
+- पुष्यसि (*puṣyasi*)—you increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you come like Mitra, desiring the oblation provided with dry wood. You, who can see everything fully and give a dwelling, increase in the sacrificer's house the wealth of food and likewise the wealth of cattle that gives nourishment.
+
+##### English translation
+You alight, Agni. like Mitra, upon the oblation offered with the dry fuel: therefore, beholder of all, possessor of riches, you cherish us with food and nourishment.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्ने त्वं हि मित्रो न क्षैतवत् यशः पत्स्यसे (*agne tvaṃ hi mitro na kṣaitavat yaśaḥ patsyase*): the bhāṣya-writer has given two or three kinds of meaning for this sentence.
+
+(1) क्षितिः क्षयोऽपचयः । तत्संबंधि क्षैशं शुष्कं काष्ठं । तद्युक्तं यशोऽन्नं हनिर्लक्षणं पत्यसे । अभिपतसि । गच्छसि । (*kṣitiḥ kṣayo 'pacayaḥ | tatsaṃbaṃdhi kṣaiśaṃ śuṣkaṃ kāṣṭhaṃ | tadyuktaṃ yaśo 'nnaṃ hanirlakṣaṇaṃ patyase | abhipatasi | gacchasi |*) Here क्षिति (*kṣiti*) means what has fallen from a tree, shed. क्षैतं (*kṣaitaṃ*) means dry wood that is related to that. क्षैतवत् (*kṣaitavat*) means dry wood, or
+
+### Printed p. 384
+
+provided with kindling-sticks, is the intention. यशः (*yaśaḥ*) means food, or the oblation that has the form of food. Therefore, one kind of meaning for this sentence is: O Agni, in order to accept the oblation provided with kindling-sticks, you come, aiming at it, like Mitra, the deity presiding over the day.
+
+(2) यद्वा यश इति गृहनाम । क्षैतवत् क्षैतं निवासकं हविर्लक्षणमन्नं तद्युक्तं यजमानगृहं मित्रभूतः पुरुष इवाभिपतसि ॥ (*yadvā yaśa iti gṛhanāma | kṣaitavat kṣaitaṃ nivāsakaṃ havirlakṣaṇamannaṃ tadyuktaṃ yajamānagṛhaṃ mitrabhūtaḥ puruṣa ivābhipatasi ‖*) Or else, यश (*yaśa*) is a name for a house. क्षैत (*kṣaita*) means dwelling, or being. Another kind of meaning is: O Agni, as a man who is a friend of the sacrificer comes to his house for the excellent food that is in the sacrificer's house, so you come desiring the food in the form of the oblation that is made ready in the sacrificer's house.
+
+(3) यद्वा पत्यतिरैश्वर्यकर्मा । ईदृशमन्नं पत्यसे ईशिषे । (*yadvā patyatiraiśvaryakarmā | īdṛśamannaṃ patyase īśiṣe |*) Or else, since the root पत्यति (*patyati*) has the sense of lordship, O Agni, you are the master of the food in the form of the oblation that is in the sacrificer's house; therefore, desiring that food, you come there. This is yet another kind of meaning.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां हि स्मा॑ चर्ष॒णयो॑ य॒ज्ञेभि॑र्गि॒र्भिरीळ॑ते ।  
+> त्वां वा॒जी या॑त्यवृ॒को र॑ज॒स्तूर्वि॒श्वच॑र्षणिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । हि । स्म । चर्षणयः । यज्ञेभिः । गीभिः । ईळते ।  
+> त्वां । वाजी । याति । अवृकः । रजःतूः । विश्वचर्षणिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां हि स्म त्वामेव खलु चर्षणयो मनुष्या यज्ञेभिर्यज्ञसाधनैर्हविर्भिर्गीर्भिः स्तुतिभिरीळते । स्तुवंति । अपि च वाजी । वाजो गमनं ।
+> तद्वान् सूर्यस्त्वां याति । गच्छति । प्रविशतीत्यर्थः । तथा च श्रूयते । अग्निं
+> वावादित्यः सायं प्रविशति तस्मादग्निर्दूरान्नक्तं ददृश इति । वाजिशब्दश्च सूर्यवाचकत्वेन क्वचित् श्रूयते । अग्निर्वायुः सूर्यस्ते वै वाजिनः । तै. ब्रा. १. ६. ३. ९. ।
+
+##### Gist of the bhāṣya
+
+O Agni, it is you alone whom men (चर्षणयः (*carṣaṇayaḥ*)) praise with offerings, the means of sacrifice, and with hymns (गीर्भिः (*gīrbhiḥ*)). And वाजी (*vājī*): vāja is going; the Sun, who possesses it, goes to you, that is, enters you. So it is heard in the Veda: the Sun enters Agni in the evening, and therefore Agni is seen from afar at night. The word वाजि (*vāji*) is heard in some places as denoting the Sun: अग्निर्वायुः सूर्यस्ते वै वाजिनः (*agnirvāyuḥ sūryaste vai vājinaḥ*) (Tai. Brā. 1. 6. 3. 9) **GLOSS**
+
+### Printed p. 385
+
+> इति वायुः सप्तिरादित्यो वाजीति च । कीदृशो वाजी । अवृको हिंसकरहितो
+> रजस्तूः । उदकमत्र रज उच्यते । तस्य वृष्टिलक्षणस्य प्रेरयिता । यद्वा । रजसां
+> लोकानां तरिता गंता विश्वचर्षणिः सर्वस्य द्रष्टा ॥
+
+##### Gist of the bhāṣya
+
+And likewise वायुः सप्तिरादित्यो वाजी (*vāyuḥ saptirādityo vājī*) **GLOSS** What sort of वाजी (*vājī*) is he? He is अवृकः (*avṛkaḥ*), free from those who injure. रजस्तूः (*rajastūḥ*): here रज (*raja*) is said to be water; he is the impeller of it, which has the nature of rain. Or else: he is the one who crosses, who goes through, the रजसां लोकानां (*rajasāṃ lokānāṃ*), the worlds. विश्वचर्षणिः (*viśvacarṣaṇiḥ*) is the seer of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—(O Agni)
+- चर्षणयः (*carṣaṇayaḥ*)—the people
+- त्वां हि स्म (*tvāṃ hi sma*)—you alone
+- यज्ञेभिः (*yajñebhiḥ*)—with offerings that are the means of sacrifice
+- गीर्भिः (*gīrbhiḥ*)—and with praises
+- ईळते (*īḷate*)—they praise
+- अवृकः (*avṛkaḥ*)—the one who is not a harmer
+- रजस्तूः (*rajastūḥ*)—the one who pours down rain-water
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—the one who looks at all the worlds
+- वाजी (*vājī*)—the Sun, who is of the nature of revolving
+- त्वां (*tvāṃ*)—you
+- याति (*yāti*)—he approaches
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the people praise you alone with offerings that are the means of sacrifice and with hymns. The Sun, who does no harm, who pours down rain-water, who looks at all the worlds, who is of the nature of revolving, approaches you.
+
+##### English translation
+n verily worship you with sacrifice and with praises: the inoffensive sun, the sender of rain, the beholder of the universe, proceeds to you. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वां वाजी अवृकः रजस्तूः विश्वचर्षणि याति (*tvāṃ vājī avṛkaḥ rajastūḥ viśvacarṣaṇi yāti*): here the bhāṣya-writer states the meaning that the Sun approaches Agni and enters into it, and in support of this meaning he has cited a Śruti sentence of the Taittirīya Brāhmaṇa:
+
+अग्निं वावादित्यः सायं प्रविशति । तस्मादग्निर्दूर्रान्नक्तं ददृशे । (*agniṃ vāvādityaḥ sāyaṃ praviśati | tasmādagnirdūrrānnaktaṃ dadṛśe |*) (Trai. Brā. 2-1-2-9) **NOTE**
+
+The meaning explained here is that the Sun, in the evening, enters Agni and becomes one with it.
+
+वाजि (*vāji*): for the word वाजी (*vājī*) the Śruti sentence वायुः सप्तिरादित्यो वाजी (*vāyuḥ saptirādityo vājī*) (Tai. Brā. 1-7-8), in which the word has the meaning "the Sun", has been cited.
+
+### Printed p. 386
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जोष॑स्त्वा दि॒वो नरो॑ य॒ज्ञस्य॑ के॒तुमिं॑धते ।  
+> यद्ध॒ स्य मानु॑षो॒ जनः॑ सुम्ना॒युर्जु॒ह्वे अ॑ध्व॒रे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजोषः । त्वा । दिवः । नरः । यज्ञस्य । केतुं । इंधते ।  
+> यत् । ह । स्यः । मानुषः । जनः । सुम्नयुः । जुह्वे । अध्वरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सजोषः सजोषसः सह प्रीयमाणा दिवः स्तुतेर्नरो नेतार
+> ऋत्विजो यज्ञस्य केतुं प्रज्ञापकं त्वा त्वामिंधते । समिद्धं कुर्वंति । कदेति
+> चेदुच्यते । यद्ध यदा खलु स्य स मानुषो मनोरपत्यभूतो जनो जातो
+> यजमानो होता वा सुम्नायुः सुम्मं सुखमात्मन इच्छन् अध्वरे हिंसाप्रत्यवायरहिते यज्ञे जुह्वे त्वामाह्वयति तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the सजोषः (*sajoṣaḥ*), those who are pleased together, the नरः (*naraḥ*), the leaders, the priests, of praise (दिवः (*divaḥ*) is glossed as praise), kindle you, the केतुं (*ketuṃ*), the one who makes the sacrifice known; that is, they make you kindled. If it is asked when: यद्ध (*yaddha*), when that man (मानुषः (*mānuṣaḥ*)), the person born of Manu, the sacrificer or the hotṛ, desiring सुम्न (*sumna*), happiness, for himself, जुह्वे (*juhve*), calls you in the अध्वरे (*adhvare*), the sacrifice that is free from injury and obstacle; that is the meaning: then.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्ध (*yaddha*)—when (O Agni)
+- स्यः (*syaḥ*)—the one who is well known as the sacrificer
+- मानुषः जनः (*mānuṣaḥ janaḥ*)—and the man who belongs to Manu
+- सुम्नायुः (*sumnāyuḥ*)—desiring to obtain happiness
+- अध्वरे (*adhvare*)—in the sacrifice
+- जुह्वे (*juhve*)—he prays to you and calls you (then)
+- सजोषः (*sajoṣaḥ*)—those who have equal affection
+- दिवः (*divaḥ*)—for praises
+- नरः (*naraḥ*)—and are leaders, the priests
+- यज्ञस्य (*yajñasya*)—for the sacrifice
+- केतुं (*ketuṃ*)—who make it known
+- त्वां (*tvāṃ*)—you
+- इंथते (*iṃthate*)—they make blazing
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when the sacrificer who belongs to Manu, desiring to obtain happiness, prays to you and calls you to the sacrifice, then the priests, who have equal affection and are leaders for the praises, make you, who make the sacrifice known, blaze.
+
+##### English translation
+The offerers of praise, sympathizing in satisfaction, kindle you the banner of the sacrifice, when man, the descendant of Manu, desiring happiness, invokes you to the rite.
+
+### Printed p. 387
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋध॒द्यस्ते॑ सु॒दान॑वे धि॒या मर्तः॑ श॒शम॑ते ।  
+> ऊ॒ती ष बृ॑ह॒तो दि॒वो द्वि॒षो अंहो॒ न त॑रति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋधत् । यः । ते । सुदानवे । धिया । मर्तः । शशमते ।  
+> ऊती । सः । बृहतः । दिवः । द्विषः । अंहः । न । तरति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यधत् । स यजमान ऋध्नुयात् हे अग्ने सुदानवे शोभनदानाय
+> तुभ्यं ॥ षष्ठ्यर्थे चतुर्थी ॥ तव संबंधिना धिया कर्मणा यो मर्तो
+> मरणधर्मा यजमानः शशमते शाम्यति । यद्वा । शमतिः स्तुतिकर्मा । त्वदर्थं
+> कर्मणा युक्तः सन् स्तौति । स यजमानो बृहतो महतो दिवो दीप्तस्य तव
+> संबंधिन्योती ऊत्या रक्षया द्विषो द्वेषनंहो न आहननशीलं पापमिव तरति ।
+> अतिक्रामति ॥
+
+##### Gist of the bhāṣya
+
+यधत् (*yadhat*): may that sacrificer prosper. O Agni, to you, सुदानवे (*sudānave*), of good gifts (the dative is used in the sense of the genitive), the mortal, the sacrificer subject to death, who through your धिया (*dhiyā*), that is, rite, शशमते (*śaśamate*), toils; or else the root शमति (*śamati*) has the sense of praise: being engaged in the rite for your sake, he praises. That sacrificer, through the protection (ऊती (*ūtī*)) belonging to you, who are great (बृहतः (*bṛhataḥ*)) and shining (दिवः (*divaḥ*)), overcomes his haters (द्विषः (*dviṣaḥ*)), as if they were sin (अंहः (*aṃhaḥ*)) that is of a striking nature; तरति (*tarati*) means he surpasses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who (O Agni)
+- मर्तः (*martaḥ*)—the sacrificer who is a man
+- सुदानवे ते (*sudānave te*)—addressing you, who are worthy of excellent gifts
+- धिया (*dhiyā*)—together with an excellent rite
+- शशमते (*śaśamate*)—offers praise
+- सः (*saḥ*)—that sacrificer
+- यधत् (*yadhat*)—may he attain prosperity
+- सः (*saḥ*)—(the same man)
+- बृहतः (*bṛhataḥ*)—great in nature
+- दिवः (*divaḥ*)—and shining, your
+- ऊती (*ūtī*)—with protections
+- अंहो न (*aṃho na*)—as one crosses sins
+- द्विषः (*dviṣaḥ*)—all his enemies
+- तरति (*tarati*)—he crosses
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may the mortal sacrificer who, addressing you, the giver of excellent gifts, offers praise joined with an excellent rite, attain prosperity. The same man, with the protections of you, who are great in nature and shining, overcomes his enemies as he crosses all his sins.
+
+### Printed p. 388
+
+##### English translation
+May the mortal prosper who propitiates you, (his) benefactor, by holy rites : through the protection of you who are resplendent, he over- comes those who hate him, as if they were mortal sins.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मिधा॒ यस्त॒ आहु॑तिं॒ निशि॑तिं॒ मर्त्यो॒ नश॑त् ।  
+> व॒यावं॑तं॒ स पु॑ष्यति॒ क्षय॑मग्ने श॒तायु॑षं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधा । यः । ते । आहुतिं । निशितिं । मर्त्यः । नशत् ।  
+> वयावंतं । सः । पुष्यति । क्षयं । अग्ने । शतआयुषं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समिधा समिंधनहेतुभूतेनेध्मेन सह ते त्वदीयां निशितिं निशितां
+> तनूकृतां मंत्रसंस्कृतामाहुतिं यो मर्त्यो मनुष्यो नशत् वाप्नुयात् ।
+> नतिर्व्याप्तिकर्मा । स मनुष्यो यजमानो वयावंतं । वयाः शाखाः पुत्रपात्रादिलक्षणाः । तद्युक्तं शतायुषं बहुविधान्नं चिरकालजीवनं ना क्षयं गृहं
+> पुष्यति । पोषयति । वर्धयति । तत्र चिरकालमवतिष्ठत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the mortal, the man, who attains (नशत् (*naśat*); the root नति (*nati*) has the sense of pervading) your oblation (आहुतिं (*āhutiṃ*)), made thin (निशितां (*niśitāṃ*), तनूकृतां (*tanūkṛtāṃ*)) and consecrated by mantra, together with the समिधा (*samidhā*), the fuel that is the means of kindling: that man, the sacrificer, makes grow (पुष्यति (*puṣyati*)) the house (क्षयं (*kṣayaṃ*)) that has वयावंतं (*vayāvaṃtaṃ*), branches, पुत्रपात्रादिलक्षणाः (*putrapātrādilakṣaṇāḥ*) **NOTE**, and is joined with them, शतायुषं (*śatāyuṣaṃ*), with many kinds of food and long life ना (*nā*) **NOTE**; and he stays there for a long time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः मर्त्यः (*yaḥ martyaḥ*)—the sacrificer, who is a man
+- समिधा (*samidhā*)—with kindling-sticks
+- ते (*te*)—your
+- निशितिं (*niśitiṃ*)—consecrated by mantra
+- आहुतिं (*āhutiṃ*)—oblation
+- नशत् (*naśat*)—fills and makes ripe
+- सः (*saḥ*)—the same sacrificer
+- वयावंतं (*vayāvaṃtaṃ*)—joined with branches (descendants) such as sons and grandsons
+- शतायुषं (*śatāyuṣaṃ*)—and joined with long life
+- क्षयं (*kṣayaṃ*)—the house
+- पुष्यति (*puṣyati*)—makes grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer, a man, who fills with kindling-sticks your oblation, consecrated by mantra, and makes it ripe, that same sacrificer makes grow a house that is joined with branches such as sons and grandsons and with long life.
+
 ---
 
-**Progress note:** Done through printed p. 379. Sukta 6.1 Rk 8 bhasya to Rk 13 (end of sukta)
+**Progress note:** Done through printed p. 388. Vol 20 pp. 380-388: end of Sūkta 1 (special topics, colophon), Sūkta 2 Ṛk 1-5
