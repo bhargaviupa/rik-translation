@@ -3303,6 +3303,262 @@ O Aśvin deities, when, by the greatness of the praise that extols you, Atri obt
 ##### English translation
 Leaders (of rites), Atri recognized (your benevolence) with (a grateful) mind on account of the relief (you afforded him), when, Nastyas, through his praise of you, he found the (fiery) heat innocuous.
 
+### Printed p. 87
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रो नां॑ ककु॒हो य॒यिः शृ॒ण्वे यामे॑षु संत॒निः ।  
+> यद्वां॒ दंसो॑भिरश्वि॒नात्रि॑र्नराव॒वर्त॑ति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रः । नां । ककुहः । ययिः । शृण्वे । यामेषु । संतनिः ।  
+> यत् । नां । दंसभिः । अश्विना । अत्रिः । नरा । आववर्तति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्र उद्धूर्णबलो वां युवयोः ककुह उच्छ्रितो महान् ययिर्गंता संतनिः सततं गच्छन् रथो यामेषु गमनेषु यज्ञेषु वा-शृण्वे ।
+> श्रूयते । हे अश्विना हे नरा यद्यस्माद्वां युवां दंसोभिः कर्मभिरत्रिरसृष्टिताववर्तति आवर्तयति ॥
+
+##### Gist of the bhāṣya
+
+Your chariot, of lofty strength, high and great, a goer that goes constantly, is heard of in the goings, that is in the sacrifices. O Aśvins, O leaders, because Atri by your deeds is turned about, that is brought round **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—your
+- उग्रः (*ugraḥ*)—chariot of terrible strength
+- ककुहः (*kakuhaḥ*)—great
+- ययिः (*yayiḥ*)—and given to moving
+- संतनिः (*saṃtaniḥ*)—the chariot
+- यामेषु (*yāmeṣu*)—in sacrifices
+- शृण्वे (*śṛṇve*)—is renowned
+- नरा (*narā*)—O leaders
+- वां (*vāṃ*)—your
+- दंसोभिः (*daṃsobhiḥ*)—by deeds
+- अत्रिः (*atriḥ*)—Atri, our father
+- आववर्तति (*āvavartati*)—has been protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders: your chariot, of terrible strength, great and given to moving, is renowned in sacrifices. O leaders, by your deeds Atri, our father, has been protected.
+
+##### English translation
+Your strong, lofty, moving, ever-progressing (car) has been renowned at sacrifices ever since; Aswins, leaders (of rites), Atri was rescued by your acts.
+
+### Printed p. 88
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मध्व॑ ऊ॒ षु म॑धूयुवा॒ रुद्रा॒ सिष॑क्ति पि॒प्युषी॑ ।  
+> यत्स॑मु॒द्राति॒ पर्ष॑थः प॒क्वाः पृक्षो॑ भरंत वां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्वः । ऊं इति । सु । मध्वयुवा । रुद्रा । सिसक्ति । पि प्युषी ।  
+> यत् । समुद्रा । अति । पर्षथः । पक्वाः । पृक्षः । भरंत । वां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मधूयुवा मधुरस्य सोमादेर्मिश्रयितार् हे रुद्रा । रुत् स्तुतिः ।
+> तया द्रवणीयौ रुद्रपुत्रौ ना वां मध्यो मधुररसेन सु पिप्युषी सुष्टु प्याययंती स्तुतिरस्मत्कृता सिषक्ति । सेवते । यद्यदा समुद्रा समुद्ध्रवणसाधनान्यंतरिक्षाण्यति पर्षथः अतिपारयथः । यज्ञं प्राप्नुथ इत्यर्थः । पक्वाः पृक्षोऽन्नानि
+> हविर्लक्षणानि वां भरंत । भ्रियंते यजमानैः ॥
+
+##### Gist of the bhāṣya
+
+O mixers of the sweet Soma and the like, O Rudras: the word रुत् (*rut*) means praise, and those who hasten to it are the two sons of Rudra. Our praise, nourishing you well with the sweet juice, serves you. When you cross the atmospheric regions, which are the means of passing over the waters, that is, when you reach the sacrifice, cooked foods, which are of the nature of oblation, are carried to you by the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुयुवा (*madhuyuvā*)—you who mix the sweet Soma and the like
+- रुद्रा (*rudrā*)—O Aśvin deities, sons of Rudra
+- यत् (*yat*)—when
+- समुद्रा (*samudrā*)—the border regions of the atmosphere
+- अति पर्षथः (*ati parṣathaḥ*)—you cross (that is, you come to the sacrifice; then)
+- मध्वः (*madhvaḥ*)—with sweet Soma juice
+- सु पिप्युषी (*su pipyuṣī*)—fully satisfying you
+- सिषक्ति (*siṣakti*)—(our praise) serves you
+- पक्वाः (*pakvāḥ*)—cooked
+- पृक्षः (*pṛkṣaḥ*)—foods
+- वां (*vāṃ*)—to you
+- भरंत (*bharaṃta*)—are carried
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, mixers of the sweet Soma and the like, sons of Rudra: when you cross the border regions of the atmosphere and come to our sacrificial ground, our praise serves you, fully satisfying you with the sweet Soma juice. Cooked foods are carried to you.
+
+### Printed p. 89
+
+##### English translation
+Mixers of the Soma-juice, Rudras, (our) nutritious (adoration) bedews you well with the libation, when you traverse (the limits) of the firmament, and the prepared viands (of the sacrifice) support you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमिद्वा उ॑ अश्विना यु॒वामा॑हुर्मयो॒भुवा॑ ।  
+> ता याम॑न्याम॒हूत॑मा॒ याम॒न्ना मृ॑ळ॒यत्त॑मा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । इत् । वै । ऊं इति । अश्विना । युवां । आहुः । मयःभुवा ।  
+> ता । यामन् । यामहूतमा । यामन् । आ । मृळयत्कतमा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवां सत्यमित् सत्यमेव । वा इति पादपूरणः । मयोभुवा
+> सुखस्य भावयितारावाहुः पुराविदः। ता तौ सुखकरत्वेन प्रसिद्धौ युवां यामन्यज्ञे
+> यामहूतमा गमनार्थं भृशमाह्वातव्यौ भवतमिति शेषः । यामन्नस्मद्यज्ञेऽस्मदर्थागमने वा मृळयत्तमा चातिशयेन सुखयितारौ भवतं । आकारश्चार्थे ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, truly indeed; the word वा (*vā*) is only a filler of the foot. The men of old call you the producers of happiness. You, renowned as makers of happiness, are to be eagerly invoked in the sacrifice for your coming; this is the word to be supplied. And in our sacrifice, or at your coming for us, be exceedingly gladdening. The long ā stands in the sense of "and".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवां (*yuvāṃ*)—you
+- सत्यमित् (*satyamit*)—truly
+- मयोभुवा (*mayobhuvā*)—givers of happiness
+- आहुः (*āhuḥ*)—the seers of old have said
+- ता (*tā*)—such as you are
+- यामन् (*yāman*)—in our sacrifice
+- यामहूतमा (*yāmahūtamā*)—you are prayed to in many ways for your coming
+- यामन् (*yāman*)—in this sacrifice of ours
+- मृळयत्तमा (*mṛḷayattamā*)—be most bountiful givers of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the seers of old have praised you as truly the givers of happiness. Praying to such as you in many ways, we call you to this sacrifice. Come to this sacrifice of ours and here be givers of happiness in many ways.
+
+### Printed p. 90
+
+##### English translation
+Truly have they called you, Aswins, the bestowers of felicity : such may you be when earnestly invoked to our sacrifice ; bountiful bestowers of felicity at our sacrifice.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा ब्रह्मा॑णि॒ वर्ध॑ना॒श्विभ्यां॑ संतु॒ शंत॑मा ।  
+> या तक्षा॑म॒ रथा॑ इ॒वावो॑चानु बृ॒हन्नमः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । ब्रह्माणि । वर्धना । अश्विभ्यां । संतु । शंतमा ।  
+> या । तक्षाम । रथान् इव । अवोचाम । बृहत् । नमः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ स्तुतिं निगमयति । इमेमानीदानीं कृतानि ब्रह्माणि परिवृढानि स्तोत्राण्यश्विभ्यां वर्धना वर्धनानि समर्धकानि शंतमा सुखतमानि संतु । या यानि तक्षाम
+> संपादयाम रथानिव शिल्पी तद्वत्तक्षाम तानि संतु । वयं बृहत् प्रभूतं प्रभूतफलप्रदं नमो नमस्कारोक्तिमवोचाम ॥
+
+##### Gist of the bhāṣya
+
+Now he concludes the praise. Let these hymns, made now, full-grown, be for the Aśvins increasing and most pleasing. Those that we have fashioned, as a craftsman fashions chariots, let them be so. We have uttered great homage, which is abundant and yields abundant fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथानिव (*rathāniva*)—as a craftsman skilfully builds chariots
+- या (*yā*)—which praises
+- तक्षाम (*takṣāma*)—we fashion
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these praisers, such as these
+- अश्विभ्यां (*aśvibhyāṃ*)—for the Aśvin deities
+- वर्धना (*vardhanā*)—causing increase
+- शंतमा (*śaṃtamā*)—causing happiness
+- संतु (*saṃtu*)—let them be
+- बृहत् (*bṛhat*)—abundantly
+- नमः (*namaḥ*)—words of homage
+- अवोचाम (*avocāma*)—we recite
+
+##### भावार्थ (Bhāvārtha)
+
+As a craftsman skilfully builds chariots, so may these praises that we fashion be for the Aśvin deities causing increase and causing happiness. We recite, addressed to the Aśvin deities, abundant words of homage.
+
+### Printed p. 91
+
+##### English translation
+May these praises exalting the Aswins be productive of happiness, the praises that we fabricate as (a wheelwright) a car: we proclaim aloud fervent adoration.
+
+## Sūkta 74 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कूष्ठ इति दशर्च० द्वितीयं सूक्तं पौरस्यार्ष० । कूष्ठ इत्यनुक्रमणिका ।
+> पूर्वत्र तुशब्दादिदमप्यानुष्टुभं । आश्विनं तदिति पूर्वोक्तत्वात् ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कूष्ठः (*kūṣṭhaḥ*) has ten ṛcs and is the second sūkta; its seer is Paura. The Anukramaṇikā says: "Kūṣṭha". Because of the word "tu" in the earlier one, this too is in the Anuṣṭubh metre; and since the preceding one is spoken of as Aśvin ("tat"), this too is addressed to the Aśvins. Its use at the Prātaranuvāka and in the Aśvin śastra is stated together with the preceding sūkta.
+
+##### Anuvāda
+
+The sūkta "Kūṣṭhaḥ" is the second sūkta in the sixth anuvāka. It has ten ṛcs. The seer of this sūkta is Paura Ātreya; the deity is the Aśvin deities; the metre is Anuṣṭubh. It has already been said, in the application of the preceding sūkta, that this sūkta is applied for the Prātaranuvāka and the Aśvinaśastra mantras.
+
+##### Particulars
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 74
+- Aṣṭaka 4; Adhyāya 4; Varga 13, 14
+- Number of ṛcs in the sūkta: 10
+- Seer: Paura Ātreya
+- Deity: the Aśvins
+- Metre: Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कूष्ठो॑ देवावश्विना॒द्या दि॒वो म॑नावसू ।  
+> तच्छ्र॑वथो वृषण्वसू॒ अत्रि॑र्वा॒मा वि॑वासति ॥ १ ॥
+
+### Printed p. 92
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कूस्थः । देवौ । अश्विना । आद्य । दिवः । मनावसू इति ।  
+> तत् । श्रवथः । वृषण्वसू इति वृषण्वसू । आत्रिः । नां । आ । विवासति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवौ हे मनावसू स्तुतिधनावश्विनाद्यास्मिन्यागदिने दिवो द्युलोकादागत्य
+> कूष्ठः ॥ व्यत्ययेनैकवचनं ॥ कौ भूमौ तिष्ठंतौ संतौ तत्सोत्रं श्रवथः । शृणुथः।
+> हे वृषण्वसू वर्षकधनौ वामत्रिरत्रेः पुत्र आ निवासति । सर्वतः परिचरति ॥ अथवा
+> कू इत्यस्य निपातस्य स्थ इत्याख्यातेन सहेति योगविभागात्समासः । ऐकस्वर्यं
+> चाध्यॆतृसमयप्राप्तं । अरा इव । ऋग्वे. ५-५८-५ । इत्यत्र यथेवशब्दः कूचिज्जायते।
+> ऋग्वे. १०-४-५ । कूचित्संतं । ऋग्वे. १०-९३-११ । इत्यादिवदत्तापि द्रष्टव्यं ॥ क्वस्थिता
+> भवथः । अत्रिर्युवां स्तौति तं शृणुथ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O gods, O Manāvasū, Aśvins, who have praise for your wealth: today, on this day of the sacrifice, coming from the heavenly world and standing on the earth, hear that praise. The word कूष्ठः (*kūṣṭhaḥ*) is a singular put for the dual by interchange; कौ (*kau*) means "on the earth". O Vṛṣaṇvasū, showerers of wealth, Atri, the son of Atri, serves you on every side. Or else the particle कू (*kū*) is joined with the verb स्थ (*stha*) as a compound by division of the rule, and the single accent is what has come down in the reciters' tradition. As in अरा इव (*arā iva*) (Ṛgve. 5-58-5) **GLOSS**, कूचिज्जायते (*kūcijjāyate*) (Ṛgve. 10-4-5) **GLOSS** and कूचित्संतं (*kūcitsaṃtaṃ*) (Ṛgve. 10-93-11) **GLOSS**, so here too it is to be seen; where are you staying? Atri praises you; hear him **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—divine beings
+- मनावसू (*manāvasū*)—you whose wealth is praise
+- अश्विना (*aśvinā*)—O Aśvin deities
+- आद्य (*ādya*)—on this day of the sacrifice
+- दिवः (*divaḥ*)—coming from the heavenly world
+- कूष्ठः (*kūṣṭhaḥ*)—and standing on the earth
+- तत् (*tat*)—our praise
+- श्रवथः (*śravathaḥ*)—hear
+- वृषण्वसू (*vṛṣaṇvasū*)—showerers of wealth
+- वां (*vāṃ*)—you
+- अत्रिः (*atriḥ*)—the son of Atri
+- आ विवासति (*ā vivāsati*)—worships everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, divine beings whose wealth is praise: on this day of the sacrifice come from the heavenly world and, standing on the earth, hear our praise. The son of Atri worships you everywhere, showerers of wealth.
+
+##### English translation
+Divine Adityas, affluent in praise, descended this day from heaven upon the earth, hear that (laudation) which, liberal showerers (of benefits), Atri ever addresses to you.
+
 ---
 
-**Progress note:** Done through printed p. 86. Sukta 73 rks 1-6 (pp. 81-86)
+**Progress note:** Done through printed p. 92. Sukta 73 rks 7-10, Sukta 74 rk 1 (pp. 87-92)
