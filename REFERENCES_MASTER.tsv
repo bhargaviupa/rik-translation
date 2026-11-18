@@ -232,7 +232,6 @@ NOT IN LIST	Kveṃ. U.			no list form close to it	none		1												1
 NOT IN LIST	Jā.			no list form close to it	none		1												1					
 NOT IN LIST	Pu. U.			no list form close to it	none		1												1					
 NOT IN LIST	Kath.			no list form close to it	none		1												1					
-NOT IN LIST	śata.			no list form close to it	none		1												1					
 NOT IN LIST	Saḥ.			no list form close to it	none		1												1					
 NOT IN LIST	Āśv. Śrā.			no list form close to it	none		1												1					
 NOT IN LIST	haspati.			no list form close to it	none		1												1					
@@ -418,6 +417,7 @@ mistake	Pā. Mā.	→ Pā. Sū.					1								1
 mistake	mu. u.	→ Mu. U.					1								1									
 mistake	chā. u.	→ Chā. U.					1								1									
 mistake	śve. u.	→ Śve. U.					1												1					
+mistake	śata.	→ Śa. Brā.					1												1					
 mistake	Pra.	→ Pra. U.					1												1					
 mistake	Mā. Saṃ.	→ Ṛ. Saṃ.					1													1				
 mistake	Sāṃ. Śrau.	→ Sāṃ. Śrau. Sū.					1														1			
@@ -541,7 +541,7 @@ Devanagari	पा. सु.		Pā. Sū.	Devanagari read as pā. su.; user, Nov 18 
 Devanagari	सा. सू.		Pā. Sū.	Devanagari read as sā. sū.; known spelling of Pā. Sū.	high		2											2						
 Devanagari	पा. स.		Pā. Sū.	Devanagari read as pā. sa.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	2											2						
 Devanagari	बृ. उ.		Bṛ. U.	Devanagari read as bṛ. u.; same letters; only capitals, dots or spaces differ	high	yes	2												2					
-Devanagari	शत.			Devanagari read as śata.; no list form close to it	none		2												2					
+Devanagari	शत.		Śa. Brā.	Devanagari read as śata.; known spelling of Śa. Brā. (capitals/dots differ)	high		2												2					
 Devanagari	ऋ. सुं.			Devanagari read as ṛ. suṃ.; no list form close to it	none		2													2				
 Devanagari	य. सं.		Ya Saṃ.	Devanagari read as ya. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	2													2				
 Devanagari	आ. गृ. सू.		Ā. Gṛ. Sū.	Devanagari read as ā. gṛ. sū.; same letters; only capitals, dots or spaces differ	high	yes	2													2				
