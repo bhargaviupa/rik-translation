@@ -12042,6 +12042,268 @@ Although, most mighty Indra, you possess well-known abundance (of food), yet gol
 
 ईं (*īṃ*)—The word *īm* is well known as a particle (*nipāta*). On this word Yāska says: अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति ॥ (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti ‖*) (Ni. 1-9)
 
+### Printed p. 304
+
+That is, the particles *kam*, *ī*, *it*, *u* have no definite meaning of their own. It is said that these words are used in prose works for completing the sentence, and in metrical Ṛks and the like for completing the pāda. The pādas of metres (a pāda is a part of the metre, generally a quarter) must have a fixed number of syllables. In some cases, when a pāda is short by one syllable, one of these particles is used to fill out the pāda; therefore it is said that these particles are used for completing the words. Besides this, another kind of meaning may also result. Here the word *īm* has the sense "everywhere, on all sides". In some places the sense of the word *eva* is also given, and so on.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुष्मा॑सो॒ ये ते॑ अद्रिवो मे॒हना॑ केत॒सापः॑ ।  
+> उ॒भा दे॒वाव॒भिष्ट॑ये दि॒वश्च॒ ग्मश्च॑ राजथः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुष्मासः । ये । ते । अद्रिवः । मेहना । केतसापः ।  
+> उभा । देवौ । अभिष्टये । दिवः । च। गृः । च । राजथः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र ते त्वदीया ये शुष्मासो बलभूता मरुतः
+> संति । कीदृशास्ते । मेहना मंहनीयाः केतसापः प्रज्ञापकं कर्मांतरिक्षं वा
+> स्पृशंतः । उभौ देवौ त्वं च मरुत्समूहश्चेत्सु भौ युवां दिवश्च द्युलोकात्
+> ग्मश्च भूमेः सकाशादभिष्टयेऽभितो गमनाय राजथः । ईशाथे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, wielder of the thunderbolt, those *śuṣmas* of yours, that is, the Maruts who are your strength, are such as are *mehanā*, worthy of praise, and *ketasāpaḥ*, touching the rite that makes known, or touching the sky. Both gods, you and the host of the Maruts **NOTE**, rule from heaven and from earth, for going on all sides; *rājathaḥ* means "you two rule".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- मेहना (*mehanā*)—worthy of worship
+- केतसापः (*ketasāpaḥ*)—having rites that make known
+- ते (*te*)—to you
+- शुष्मासः (*śuṣmāsaḥ*)—givers of strength
+- ये (*ye*)—whichever Maruts there are (they)
+- उभा देवौ (*ubhā devau*)—you and the host of the Maruts, who are of divine nature
+- दिवश्च (*divaśca*)—from the world of heaven
+- ग्मश्च (*gmaśca*)—and from the earth
+- अभिष्टये (*abhiṣṭaye*)—to come to this place of sacrifice **NOTE**
+- राजथः (*rājathaḥ*)—you shine as lords
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, the Maruts who are worthy of worship, who have rites that make known and who give you strength, and you together with them, you who are of divine nature, being in the highest station, shine as lords of all heaven and earth.
+
+### Printed p. 305
+
+##### English translation
+Wielder of the thunderbolt, yours are the strong (Maruts), who are adorable, and whose exploits are renowned : both divinities, you and they) rule at pleasure over heaven and earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+अद्रिवः (*adrivaḥ*)—The word *adri* is stated among the names of the thunderbolt, among the names of the cloud (Ni. 2.2) and among the names of the mountain. *Adri* means the stone called *grāvā* that crushes the Soma plant.
+
+मेहना (*mehanā*)—On this word Yāska stated the meaning "*mehanā* is *maṃhanīya*", that is, worthy of worship, and in support of it gave as an example the Ṛk beginning यदिंद्र चित्र (*yadiṃdra citra*).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो नो॑ अ॒स्य कस्य॑ चि॒द्दक्ष॑स्य॒ तव॑ वृत्रहन् ।  
+> अ॒स्मभ्यं॑ नृ॒म्लमा भ॑रा॒स्मभ्यं॑ नृमणस्यसे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । नः । अस्य । कस्य । चित् । दक्षस्य । तव । वृत्तहन् ।  
+> अस्मभ्यं । नृम्णं । आ । भर । अस्मभ्यं । नृमनस्यसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च हे वृत्रहन्निंद्र नोऽस्मभ्यं कस्य चिदनिर्देश्यस्य दक्षस्य प्रवृद्धस्य
+> दातुर्वास्य तव स्वभूतेभ्योऽस्मभ्यं । पुनःश्रुतिरादरार्था । नृण्नं नृमणु धनमा
+> भर । आहर । हे इंद्र यतस्त्वमस्मभ्यं नृमणस्यसे धनमिच्छसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And also, O Vṛtra-slayer Indra, to us, who are your own, bring (*ā bhara* means "fetch") the wealth (*nṛmṇa* is wealth) of some unspecified person who is *dakṣa*, that is, grown great, or a giver; the repetition of "to us" is for emphasis. O Indra, since you desire wealth for us (*nṛmaṇasyase* means "you wish wealth").
+
+### Printed p. 306
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—moreover
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- अस्य तव (*asya tava*)—belonging to you
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- कस्य चित् दक्षस्य (*kasya cit dakṣasya*)—of someone abounding in wealth
+- नृण्मुं (*nṛṇmuṃ*)—the wealth
+- आ भर (*ā bhara*)—bring and give (O Indra)
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- नृमणस्यसे (*nṛmaṇasyase*)—you wish that wealth be obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, bring to us, who belong to you, the wealth of someone abounding in wealth. You certainly wish that wealth be obtained by us.
+
+##### English translation
+Slayer of Vritra, bring to us, your (worshippers), the wealth of any powerful (man) whatsoever, for you are disposed to enrich us.
+
+##### विशेषविषयगळु (Special Topics)
+
+नृम्मं (*nṛmmaṃ*)—The word *nṛmṇa* is read among the names of strength (Ni. 3-9) and among the names of wealth (Ni. 3-9).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू त॑ अ॒भिर॒भिष्टि॑भि॒स्तन॒ शर्म॑ञ्घातक्रतो ।  
+> इंद्र॒ स्याम॑ सुगो॒पाः शूर॒ स्याम॑ सुगो॒पाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । ते । अभिः । अभिष्टिभिः । तव । शर्मन् । शतक्रतो अतिशत्यक्रतो ।  
+> इंद्र ॥ स्याम । सुगोपाः । शूर । स्याम । सुगोपाः ॥ ५ ॥
+
+### Printed p. 307
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो इंद्र ते तवाभिरभिष्टिभिरभिगमनैर्नु शीघ्रं समृद्धा भवेमेति
+> शेषः । हे इंद्र तव शर्मन् शर्मणि सुखी सति सुगोपाः स्याम ! भवेम । हे
+> शूर तव शर्मणि सुगोपाः शोभनरक्षणाः स्याम । भवेम । पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra of a hundred acts, by your approaches (*abhiṣṭi* means going towards), may we quickly become prosperous; the verb "may we become" is what is to be supplied. O Indra, being happy in your shelter (*śarman*), may we be well protected, may we be. O hero, in your shelter may we be well protected, that is, well guarded; may we be. The repetition is for emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O Indra
+- ते (*te*)—made for you
+- अभिः अभिष्टिभिः (*abhiḥ abhiṣṭibhiḥ*)—by these our praises
+- नु (*nu*)—quickly (attain satisfaction) **NOTE**
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—to you
+- शर्मन् (*śarman*)—when there is happiness
+- सुगोपाः (*sugopāḥ*)—having excellent protection
+- स्याम (*syāma*)—may we be
+- शूर (*śūra*)—O valiant Indra
+- सुगोपाः स्याम (*sugopāḥ syāma*)—may we obtain your excellent protection
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be quickly satisfied by these our praises made for you. O heroic Indra, as a result of your satisfaction may we obtain your excellent protection.
+
+##### English translation
+May we, Shatakratu, speedily (partake of) your felicity through these our prayers: may we be well secured, Indra, (by you): may we be carefully protected, hero, by you.
+
+## Sūkta 39 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिंद्र चित्रेति पंचर्चं सप्तमं सूक्तमत्रेरार्षमैंद्रं । अंत्या पंक्तिः
+> शिष्टाः पंक्त्यंतपरिभाषयानुष्टुभः । यदिंद्र पंक्त्यंतमित्यनुक्रमणिका ॥ अभिप्लविकेषूक्ष्येषु तृतीयसवन आद्यस्तृचोऽच्छावाकस्य वैकल्पिकः स्तोत्रियः ।
+> सूश्रितं च । यदिंद्र चित्र मेहना यस्ते साधिष्ठोऽवसे । आ. ७-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The seventh sūkta, यदिंद्र चित्रेति (*yadiṃdra citreti*), has five ṛks; its seer is Atri and its deity is Indra. The last Ṛk is in the Paṅkti metre; the remaining ones are in Anuṣṭubh by the convention that the rest take the metre of a sūkta that ends in a Paṅkti. The Anukramaṇikā says: यदिंद्र पंक्त्यंतमित्यनुक्रमणिका (*yadiṃdra paṃktyaṃtamityanukramaṇikā*). Use in ritual: in the Ukthya days connected with the Abhiplava, at the third pressing, the first tṛca is the optional Stotriya of the Acchāvāka. And the sūtra: "Yad indra citra mehanā yas te sādhiṣṭho 'vase" (Ā. Sū. 7-8). **NOTE**
+
+Translation of the Anuvāda: This sūkta, यदिंद्र चित्र (*yadiṃdra citra*), is the seventh sūkta in the third anuvāka. There are five ṛks in it. The seer of this sūkta is Atri; Indra is the deity; the
+
+### Printed p. 308
+
+last Ṛk of this sūkta is in the Paṅkti metre; the remaining Ṛks are in the Anuṣṭubh metre. In the Anukramaṇikā it is said: यदिंद्र पंक्त्यंतं (*yadiṃdra paṃktyaṃtaṃ*). In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, the first three Ṛks of this sūkta are to be chosen by the priest called Acchāvāka as optional Stotriya mantras; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra यदिंद्र चित्र मेहना यस्ते साधिष्टोऽवसे (*yadiṃdra citra mehanā yaste sādhiṣṭo 'vase*) (A. 7-8). **NOTE**
+
+Sūkta 39.
+
+Maṇḍala 5, Anuvāka 3, Sūkta 39.
+
+Aṣṭaka 4, Adhyāya 2, Varga 10.
+
+Number of Ṛks in the sūkta: 5.
+
+Seer: Atri.
+
+Deity: Indra.
+
+Metre: Ṛks 1-4 Anuṣṭubh; Ṛk 5 Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र चित्र मे॒हनास्ति॒ त्वादा॑तमद्रिवः ।  
+> राध॒स्तन्नो॑ विदद्वस उभयाह॒स्त्या भ॑र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । चित्र । मेहना । अस्ति । त्वादातं । अद्विन्वः ।  
+> राधः । तत् । नः । विदद्वसो इति विदत्स्‌वसो । उभयाहस्ति । आ । भर ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हे चित्र जायनीय हे आद्रिवो वज्रवन्निंद्र यन्मेहना मंहनीयं त्वादातं त्वया दातव्यं राधो धनमस्ति तद्धनं हे विदद्वसो लब्धधनेंद्र
+> नोऽस्मभ्यमुभयाहस्तुभाभ्यां हस्ताभ्यामा भर । आहर । अत्र यदिंद्र चित्र
+> चायनीय मंहनीयं धनमस्तीत्यादिनिरुक्तं द्रष्टव्यं ॥ नि. ४-४ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, O wonderful one (*citra*, worthy of regard) **NOTE**, O Indra with the thunderbolt: whatever wealth (*rādhas*) there is that is *mehanā*, worthy of praise, and *tvādāta*, to be given by you, that wealth, O Vidadvasu, O Indra who has obtained wealth, bring (*ā bhara* means "fetch") to us with both hands. Here the Nirukta beginning धनमस्तीत्यादिनिरुक्तं (*dhanamastītyādiniruktaṃ*) is to be seen (Ni. 4-4).
+
+### Printed p. 309
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र (*citra*)—having an attractive form
+- अद्रिवः (*adrivaḥ*)—bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- मेहना (*mehanā*)—worthy of worship
+- त्वादातं (*tvādātaṃ*)—to be given by you
+- यत् राधः (*yat rādhaḥ*)—whatever wealth
+- अस्ति (*asti*)—there is
+- विदद्वसो (*vidadvaso*)—O Indra, lord of wealth
+- तत् (*tat*)—that wealth
+- नः (*naḥ*)—to us
+- उभया हस्ति (*ubhayā hasti*)—with both hands
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of attractive form, bearer of the thunderbolt and lord of wealth, whatever wealth there is that is worthy of worship and to be given by you, fill both your hands with that wealth and give it to us.
+
+##### English translation
+Wonderful Indra, wielder of the thunderbolt, since precious treasure is to be distributed by you, bestow it, possessor of riches, with both hands, upon us.
+
+##### विशेषविषयगळु (Special Topics)
+
+मेहना (*mehanā*)—In order to explain the meaning of this word Yāska took the present Ṛk itself and gave an etymology for it: यदिंद्र चित्रं चायनीयं मंहनीयं धनमस्ति । यन्म इह नास्तीति वा त्रीणि मध्यमानि पदानि त्वया नस्तद्दातव्यं । अद्रिवन् । अद्रिरादृणात्येतेन । अपि वात्तेः स्यात् । ते सोमाद इति ह विज्ञायते । राध इति धननाम राध्ववंत्यनेन । तन्नस्त्वं वित्तधनोभाभ्यां हस्ताभ्यामाहर । उभौ समुच्चौ भवतः ॥ (*yadiṃdra citraṃ cāyanīyaṃ maṃhanīyaṃ dhanamasti | yanma iha nāstīti vā trīṇi madhyamāni padāni tvayā nastaddātavyaṃ | adrivan | adrirādṛṇātyetena | api vātteḥ syāt | te somāda iti ha vijñāyate | rādha iti dhananāma rādhvavaṃtyanena | tannastvaṃ vittadhanobhābhyāṃ hastābhyāmāhara | ubhau samuccau bhavataḥ ‖*) (Ni. 4-3).
+
+Yāska has explained the component meaning of the word *mehanā* in this way: the word *mehanā* is made up of three separate words, *me* + *iha* + *na*. That is, in the sentence of five words *yat me iha na asti*, the word *mehanā* is formed from the middle words *me iha na*. The meaning of the sentence is "that which is not with me". The man who prays to Indra for wealth prays to Indra to give it for the very reason that the wealth is not with him. According to the rule that people ask from another that thing which they do not have, the word *mehanā* is taken to mean wealth.
+
+### Printed p. 310
+
+O Indra, whatever wonderful and excellent wealth you have, and whatever wealth I do not have, such wealth, O Indra bearer of the thunderbolt, bring by filling both your hands, and give it to me: this is the main intention.
+
+The word *adri* is formed from the root आदृणाति (*ādṛṇāti*), which has the sense "to split". Because Indra splits mountains and the like, or enemies, with his thunderbolt weapon, the thunderbolt of Indra is called *adri*. Indra, who holds that thunderbolt in his hand, is addressed here by the vocative word आद्रिवः (*ādrivaḥ*). Or else the word *adri* may be formed from the root *ad*, "to eat". The stones that crush the Soma plant are called *adri*. Since they crush the Soma plant as if chewing and eating it, the stone is also called *adri*. In the sentence ते सोमादः (*te somādaḥ*) this same intention is suggested.
+
+The word *rādhas* is formed from the root राध्नवंति (*rādhnavaṃti*), which has the sense "to pacify, to please", and indicates the meaning "wealth". For with this wealth others can be pacified or pleased, and so the meaning "*rādhas*, wealth" is given to such a thing. "O Indra, in order to give us such wealth, fill both your hands and bring it": thus Indra is entreated here.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्मन्य॑से॒ वरे॑ण्य॒मिंद्र॑ द्यु॒क्षं तदा भ॑र ।  
+> वि॒द्याम॒ तस्य॑ ते व॒यमकू॑पारस्य दा॒वने॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । मन्यसे । वरेण्यं । इंद्र । द्युक्षं । तत् । आ । भर ।  
+> विद्याम । तस्य । ते । वयं । अकूपारस्य । दावने ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यत् द्युक्षमन्नं वरेण्यं वरणीयं मन्यसे तत् द्युक्षमा
+> भरास्मभ्यं । ते तव संबंधिनो वयं तस्य तादृशस्योक्तलक्षणस्याकूपारस्य ।
+> अकुत्सितः पारोऽंतो यस्य तादृशस्यान्नस्य दावने दाने विद्याम । स्याम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, whatever *dyukṣa*, food that you consider *vareṇya*, desirable, that *dyukṣa* bring to us. We, who are yours, in the giving of such food of the stated character, *akūpāra*, that is, of which the shore or end is not bad, may we be (*vidyāma* means "may we be").
+
 ---
 
-**Progress note:** Done through printed p. 303. Sūkta 37 Ṛks 4-5 end, Sūkta 38 Ṛks 1-2, pp. 298-303
+**Progress note:** Done through printed p. 310. Sūkta 38 Ṛks 3-5, Sūkta 39 Ṛk 1 and start of Ṛk 2, pp. 304-310
