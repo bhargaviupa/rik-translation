@@ -1,7 +1,7 @@
 status	form as written	meaning / form to use	suggested form	basis	confidence	approved	total	vol1	vol2	vol3	vol4	vol5	vol6	vol7	vol8	vol9	vol10	vol11	vol12	vol14	vol15	vol16	vol17	vol18
 NOT IN LIST	Ā.		Ā.	the form of the list	high	yes	657	3	6	36	18	14	33	112	6		1	40	25	24	45	64	127	103
-NOT IN LIST	u.			too short to tell: could be U. Sū.	none		236		85	46	40	18	10	5	14	7	1			1	1	8		
-NOT IN LIST	U.			too short to tell: could be U. Sū.	none		114	2	4	31	20		15	18	15			1	6			1	1	
+NOT IN LIST	u.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		236		85	46	40	18	10	5	14	7	1			1	1	8		
+NOT IN LIST	U.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		114	2	4	31	20		15	18	15			1	6			1	1	
 NOT IN LIST	Kā.			no list form close to it	none		85		5	13	4	21	7	22	3	5			3			2		
 NOT IN LIST	P. sū.			no list form close to it	none		52			52														
 NOT IN LIST	Ā. Sū.		Ā. Sū.	the form of the list	high	yes	45		1									4					28	12
@@ -477,7 +477,7 @@ Devanagari	पा. सू.		Pā. Sū.	Devanagari read as pā. sū.; same letters
 Devanagari	ऋ. सं.		Ṛ. Saṃ.	Devanagari read as ṛ. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	795	20	176	11	85		4			241	6	1	2	240	2		4	3
 Devanagari	आ.		Ā.	Devanagari read as ā.; same letters; only capitals, dots or spaces differ	high	yes	585	2	34	31	27	23	26	68	17	6	14	18	19	49	33	53	92	73
 Devanagari	नि.		Ni.	Devanagari read as ni.; same letters; only capitals, dots or spaces differ	high	yes	558	5	41	18	31	31	20	23	29	54	47	17	18	158	20	23	13	10
-Devanagari	उ.			Devanagari read as u.; too short to tell: could be U. Sū.	none		403	2	119	79	41	18	25	20	30	7	1	1	5	1	1	41	12	
+Devanagari	उ.		U. Sū.	Devanagari read as u.; user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		403	2	119	79	41	18	25	20	30	7	1	1	5	1	1	41	12	
 Devanagari	उ. सू.		U. Sū.	Devanagari read as u. sū.; same letters; only capitals, dots or spaces differ	high	yes	247		102	1								121		23				
 Devanagari	तै. सं.		Tai. Saṃ.	Devanagari read as tai. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	129	20	16	6	6	6	14	4	2	5	5	2	6	22	2	5	5	3
 Devanagari	ऐ. ब्रा.		Ai. Brā.	Devanagari read as ai. brā.; same letters; only capitals, dots or spaces differ	high	yes	101	6	5	21	5	4	3	8	3	6	2	1	5	9	5	7	9	2

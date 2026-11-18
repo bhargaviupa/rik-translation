@@ -22,7 +22,7 @@ listforms = {}
 for f, r in lst.items():
     if r['status'] in ('legend', 'extra'):
         for g in f.split(' or '): listforms[g.strip()] = r
-ALIAS = {'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
+ALIAS = {'U.': 'U. Sū.', 'u.': 'U. Sū.', 'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
          'Ait. Brā.': 'Ai. Brā.', 'Ai. Br.': 'Ai. Brā.', 'Tai. Br.': 'Tai. Brā.', 'Āśv.': 'Ā. Sū.', 'Āś.': 'Ā. Sū.', 'Vāj. Saṃ.': 'Vā. Saṃ.', 'Uṇ.': 'U. Sū.', 'Uṇ. sū.': 'U. Sū.',
          'sā. sū.': 'Pā. Sū.', 'tā. sū.': 'Pā. Sū.', 'paṃ. sū.': 'Pā. Sū.', 'Av.': 'Ath. Saṃ.', 'Ṛ. Ve.': 'Ṛ. Saṃ.', 'Ā. Ve.': 'Ath. Saṃ.'}
 def dev2iast(w):
@@ -38,6 +38,7 @@ def suggest(w):
         if not base: return ('', 'cannot transliterate', 'none')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
+    if base in ('U.', 'u.'): return ('U. Sū.', note + 'user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)', 'high')
     if base in ALIAS: return (ALIAS[base], note + 'known spelling of ' + ALIAS[base], 'high')
     hit = [f for f in listforms if norm(f) == norm(base)]
     if hit: return (hit[0], note + 'same letters; only capitals, dots or spaces differ', 'high')
