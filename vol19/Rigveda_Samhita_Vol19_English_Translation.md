@@ -12740,6 +12740,121 @@ What is ṛjīṣa? What is the reason that it has this name? What is its use in
 
 सोमो वै राजामुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन् कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंश्चंदांसि यूयं न (*somo vai rājāmuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyan kathamayamasmātsomo rājāgacchediti te 'bruvaṃścaṃdāṃsi yūyaṃ na*)
 
+### Printed p. 323
+
+इमं सोमं राजानमाहरेति तथेति ते सुपर्णा भूत्वोदपतन् (*imaṃ somaṃ rājānamāhareti tatheti te suparṇā bhūtvodapatan*) (Ai. Brā. 13-25)
+
+In former times the Soma-rāja (the Soma plant; it is the custom to call the Soma plant out of respect Soma-rāja), that is, the Soma plant, was in the heavenly world. It was not in this world. Knowing this, the gods and the seers considered in what way this Soma could be brought here. Then, having deliberated on this matter, they understood that the metres had the power to bring the Soma from heaven to the earth, and they addressed the metres in prayer: "O metres, for us, that is, for use in our sacrifice, you must bring to the earth the Soma that is in heaven." Accepting their prayer, the metres took the forms of certain birds well known in the world and flew off to the heavenly world. First the Jagatī metre took the form of a bird and flew toward the heavenly world. But before it had gone a little way it became tired, could not go as far as heaven, and turned back. Then the Triṣṭup metre said that it would bring the Soma and leapt into the sky. But before it had gone a little beyond half the way it was worn out with fatigue and turned back. Thus the gods saw that the Jagatī and Triṣṭup metres had come back, unable to bring the Soma, and going to the Gāyatrī metre they prayed: "O Gāyatrī, you must bring the Soma from heaven for us." Gāyatrī agreed, "So be it," took the form of a śyena (falcon), flew to heaven, frightened the guardians of the Soma there, Sthāna, Bhrāja and others who were guarding the Soma, carried off the Soma and brought it to the earth. **NOTE** Because she brought the Soma plant, Gāyatrī obtained the most excellent place among the metres.
+
+सा यद्दक्षिणेन पदा समग्रभ्वात्तत्प्रातःसवनमभवत्तद्गायत्री स्वमायतनम कुरुत तस्मात्तत्समृद्धतमं मन्यंते सर्वेषां सवनानामग्रियो मुख्यो भवति श्रेष्ठतामश्नुते य एवं वेदाथ यत्सव्येन पदा समगृभ्वात्तन्माध्यंदिनं सवनमभवत्तद्विस्रंसत तद्विप्रस्तं नान्वाप्पोत्तूर्वं सवनं ते देवाः प्राजिज्ञासंत तस्मिंस्त्रिष्टुभं छंदसामदधुरिंद्रं देवतानां तेन तत्समावद्वीर्यमभवत्तूर्वेण सवनेनोभाभ्यां सवनाभ्यां समावद्वीर्याभ्यां समावज्जामीभ्यां राध्योति य एवं वेदाथ यन्नुखेन समगृभ्वात्तत्सृतीयसवनमभवत् । (*sā yaddakṣiṇena padā samagrabhvāttatprātaḥsavanamabhavattadgāyatrī svamāyatanama kuruta tasmāttatsamṛddhatamaṃ manyaṃte sarveṣāṃ savanānāmagriyo mukhyo bhavati śreṣṭhatāmaśnute ya evaṃ vedātha yatsavyena padā samagṛbhvāttanmādhyaṃdinaṃ savanamabhavattadvisraṃsata tadviprastaṃ nānvāppottūrvaṃ savanaṃ te devāḥ prājijñāsaṃta tasmiṃstriṣṭubhaṃ chaṃdasāmadadhuriṃdraṃ devatānāṃ tena tatsamāvadvīryamabhavattūrveṇa savanenobhābhyāṃ savanābhyāṃ samāvadvīryābhyāṃ samāvajjāmībhyāṃ rādhyoti ya evaṃ vedātha yannukhena samagṛbhvāttatsṛtīyasavanamabhavat |*) (Ai. Brā. 13-26)
+
+When bringing the Soma plants, the śyena bird carried them gripping them with both its feet and with its beak. The Soma (or the Soma plant) that the bird held with its right foot and brought became the morning savana. Gāyatrī made it, that is, the morning savana, her own place.
+
+### Printed p. 324
+
+Therefore, among all the savanas the morning savana is the best, in the opinion of the sacrificers. In that morning-savana rite the application of the mantras and the rest is also special. Therefore a man who knows this matter well is regarded as the best and chief among his equals. The portion of Soma that Gāyatrī held with her left foot and brought became famous as the midday savana. While carrying the Soma plant with the left foot, since the left foot did not have as much strength as the right foot, the plants kept slipping a little from the foot now and then. For this reason this midday savana did not become equal to the morning savana in strength and capacity. Seeing this, the gods deliberated and established the Triṣṭup metre and Indra, the best among the gods, for the metres used in the midday-savana rite. Through the association of Indra, the best among the gods, and of the Triṣṭup metre dear to him, the midday savana obtained a place equal to the morning savana in strength, capacity and excellence. The man who knows this equality of the morning and midday savanas, and their strength, capacity and excellence, obtains prosperity in wealth and the rest, and well-being, and lives happily. Then the portion of Soma that Gāyatrī, in the form of the śyena, bit with her beak and brought became famous as the third savana.
+
+तस्य पतंती रसमधयत्तद्वीतरसं नान्वाप्पोत्पूर्वे सवने ते देवाः प्राजिज्ञासंत तत्पशुष्पपश्यंस्तद्यदाशिरमवनयंत्याज्येन पशुना चरंति तेन तत्समावद्वीर्यमभवत्पूर्वाभ्यां सवनाभ्यां सर्वैः सवनैः समावद्वीर्यैः समावज्जा मिभी राध्योति य एवं वेद ॥ (*tasya pataṃtī rasamadhayattadvītarasaṃ nānvāppotpūrve savane te devāḥ prājijñāsaṃta tatpaśuṣpapaśyaṃstadyadāśiramavanayaṃtyājyena paśunā caraṃti tena tatsamāvadvīryamabhavatpūrvābhyāṃ savanābhyāṃ sarvaiḥ savanaiḥ samāvadvīryaiḥ samāvajjā mibhī rādhyoti ya evaṃ veda ‖*) (I. Bra. 13-17) **NOTE**
+
+While Gāyatrī (the śyena) was coming, holding the Soma plant in her beak, she sipped the juice that was in the plant little by little. Therefore, that is, because the juice in the Soma plants brought in the beak was not abundant but scanty, this third savana did not become equal in strength, capacity and the rest to the morning and midday savanas. Seeing this, the gods deliberated and found that the means suited to it lay in animals. From animals come milk, and from it the oblation materials such as ājya (ghee). If milk is mixed with the Soma juice that is scanty in the plants, that juice becomes powerful. If homas and the rest are performed with ājya and with the limbs of animals, the savana rite becomes complete. Therefore those who know the sacrificial rite, to the ṛjīṣa used in the third savana (the husks of the Soma plant that remain after the juice has been taken out in the morning and midday savanas are called ṛjīṣa) add āśira substances such as milk, and by performing homas with the ājya obtained from animals and with the heart and the other
+
+### Printed p. 325
+
+parts of animals, understand that the third savana rite becomes equal to the morning and midday savanas in strength, capacity and the rest, and act like them. This matter is stated in another śākhā thus:
+
+ब्रह्मवादिनो वदंति कस्मात्सत्याद्दायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्येत्तस्मा त्तेजस्विनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेनैकं यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातस्सवनं च माध्यंदिनं च तस्मात्तृतीयसवन ऋजीषमभिषुण्वंति धीतमिव हि मन्यंते आशिरमवनयति सशुक्रत्वाय ॥ (*brahmavādino vadaṃti kasmātsatyāddāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryettasmā ttejasvinītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātassavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavana ṛjīṣamabhiṣuṇvaṃti dhītamiva hi manyaṃte āśiramavanayati saśukratvāya ‖*) (Śrī. Saṃ. 6-1-6-4) **NOTE**
+
+The same view is stated in the Taittirīya Saṃhitā. The man who knows this matter, that is, that the three savanas, the morning savana, the midday savana and the third savana, have obtained places equal in strength, capacity and excellence, lives happily, endowed with every prosperity.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्त्वा॑ सूर्य॒ स्व॑र्भानु॒स्तम॒सावि॑ध्यदासु॒रः ।  
+> अक्षे॑त्रवि॒द्यथा॑ मु॒ग्धो भुव॑नान्यदीधयुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । त्वा । सूर्य । स्वःभानुः । तमसा । अविध्यत् । आसुरः ।  
+> अक्षेत्रवित् । यथा । मुग्धः । भुवनानि । अदीधयुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिचतुर्भिर्मंत्रैरत्रीणां कर्म कीर्त्यते । हे सूर्य प्रेरक देव
+> त्वा त्वां यद्यदासुरोऽसुरस्य प्राणापहर्तुरसुर्या वा पुत्रः स्वर्भानुः स्वर्भानुसंज्ञकस्तमसा मायानिमितेनाविध्यत् । आवृणोदित्यर्थः । तदा भुवनानि सर्वाण्यदीधयुः । दृश्यंते । यथा तत्रत्यः सर्वो जनोऽक्षेत्रवित् स्वस्वस्थानमजानन्
+> मुग्धो मूढो भवति तथा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that with this and the three following mantras (four in all) the deed of the Atris is proclaimed. O Sūrya, impelling god, when स्वर्भानुः (*svarbhānuḥ*), the Āsura, that is, the son of an asura, a taker of life, or else the son of Asurī, who bears the name Svarbhānu, pierced you (अविध्यत् (*avidhyat*), that is, covered you) with darkness produced by magic (māyā), then all the worlds (भुवनानि (*bhuvanāni*)) are seen (अदीधयुः (*adīdhayuḥ*), they appear), just as all the people there, not knowing their own places (अक्षेत्रवित् (*akṣetravit*)), become bewildered (मुग्धः (*mugdhaḥ*), that is, stupefied).
+
+### Printed p. 326
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O god Sūrya
+- त्वा (*tvā*)—you
+- यत् (*yat*)—when
+- आसुरः (*āsuraḥ*)—the son of an asura
+- स्वर्भानुः (*svarbhānuḥ*)—Svarbhānu
+- तमसा (*tamasā*)—with darkness (created by his magic)
+- अविध्यत् (*avidhyat*)—covered (then)
+- भुवनानि (*bhuvanāni*)—all the worlds
+- यथा (*yathā*)—as
+- अक्षेत्रवित् (*akṣetravit*)—as if all the people there had no knowledge of their own dwellings
+- मुग्धः (*mugdhaḥ*)—and had become bewildered (so it happened)
+- अधीधयुः (*adhīdhayuḥ*)—appeared
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, when Svarbhānu, the son of an asura, covered you with the darkness created by his magic, all the worlds were terrified. All the inhabitants there, not knowing their own dwellings, became as if bewildered.
+
+##### English translation
+When, Surya, the son of the Asura Swarbhanu, overspread you with darkness, the worlds were beheld like one bewildered, knowing not his place.
+
+##### विशेषविषयगळु (Special Topics)
+
+सभानुः (*sabhānuḥ*) **NOTE**—he is a person of asura nature. With his magic he hides Sūrya with tamas (darkness). In the present sūkta his name occurs in the 5th, 6th, 8th and 9th Ṛks. These four Ṛks tell how Indra fought against his magic, and how Atri, cooperating with Indra in this matter, re-established the eye (the light) of Sūrya in the sky. In the Brāhmaṇas also this asura is mentioned in many places. In the Purāṇas and elsewhere he is called Rāhu.
+
+Svarbhānu is described in the Saṃhitā, the Brāhmaṇas and the rest everywhere as an extremely powerful asura. In worldly usage it is he who is famous as Rāhu. In the Saṃhitā the name Rāhu is not current for him. But since all the nature described in the अनुरकोश (*anurakośa*) **NOTE**, तमस्तु राहुस्स्वर्भानुः सैंहिकेयो विधंतुदः (*tamastu rāhussvarbhānuḥ saiṃhikeyo vidhaṃtudaḥ*), is found in him, it may be said that the asura who is later famous in the Purāṇas and elsewhere as Rāhu is this Svarbhānu. But it must also be understood that in the Purāṇas and elsewhere Rāhu means only the head of the asura. When Sāyaṇa explains the Ṛk यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः (*yattvā sūrya svarbhānustamasāvidhyadāsuraḥ*) (Ṛ. Saṃ. 5-40-5), he makes it known, with आसुरः असुरस्य प्राणापहर्तुरसुरा वा पुत्रः । स्वर्भानुः स्वर्भानुसंज्ञकः (*āsuraḥ asurasya prāṇāpaharturasurā vā putraḥ | svarbhānuḥ svarbhānusaṃjñakaḥ*), that he is an asura person, the son of an asura and bearing the name Svarbhānu. The meaning "merely the face of an asura" is not given.
+
+### Printed p. 327
+
+In the Ṛk-saṃhitā the matter of Svarbhānu is described only in the present context. That too is a context that shows the power of the seer Atri.
+
+- यत्त्वा सूर्य स्वर्भानुः .... (*yattvā sūrya svarbhānuḥ ....*) (5-40-5)
+- स्वर्भानोरध यदिंद्र माया .... (*svarbhānoradha yadiṃdra māyā ....*) (5-40-6)
+- अत्रिः सूर्यस्य दिवि चक्षुराधा स्वर्भानोः .... (*atriḥ sūryasya divi cakṣurādhā svarbhānoḥ ....*) (5-40-8)
+- यं वै सूर्यं स्वर्भानुः .... (*yaṃ vai sūryaṃ svarbhānuḥ ....*) (5-40-9)
+
+In these four mantras he is mentioned incidentally, at the time of praising Atri. The meaning of these mantras is as follows.
+
+1. (5) O Sūra, when Svarbhānu, the son of an asura, covered you, pervading you with his pitch darkness, the whole world, seeing neither you nor your place, was completely bewildered.
+
+(6) O Indra, at the time when you were engaged in the effort to destroy the pitch darkness spread around Sūra, the seer Atri, with the help of his fourth mantra, found Sūra, who was hidden in the darkness.
+
+(8) Afterwards Atri destroyed the power of Svarbhānu, which was of the nature of darkness, and established Sūra in the sky for the benefit of the world.
+
+(9) The Ātreyas afterwards found Sūra, who had been covered by Svarbhānu. This release of Sūra from bondage was possible for no one other than the Atris.
+
+Thus the power of Svarbhānu is described. That is, it is understood that he possessed an asura power that hid Sūrya, the eye of the world, and created an obstruction to the business of the world. Pointing out this very matter, the Bṛhaddevatā says:
+
+स्वर्भानुदृष्टं सूर्यस्य अपहत्य ततोऽत्रयः । सप्तविंशतिभिः सूक्तैरबोधीत्यग्निमस्तुवन् ॥ (*svarbhānudṛṣṭaṃ sūryasya apahatya tato 'trayaḥ | saptaviṃśatibhiḥ sūktairabodhītyagnimastuvan ‖*) (Bṛ. De. 5-12)
+
+It is said that the Atris freed from darkness Sūrya, who had been seized by Svarbhānu, and afterwards, after the light of Sūra, praised Agni. This same matter of Svarbhānu is told in the form of a story in the Kauṣītakī Brāhmaṇa, which explains it as follows. The asura called Svarbhānu covered Sūrya with darkness. At the prayer of the gods the Atris agreed to free Sūrya from this darkness. Then they performed a rite of three days' extent, joined with the saptadaśa-stoma, preceding the viṣuvat. Then the darkness of the asura was destroyed only in the front part; in the rear part it remained. Afterwards, above the viṣuvat, they performed this same rite of three days again. Then the darkness that was in the rear part also was destroyed forever. Therefore those who perform this rite according to the injunction become able to destroy the darkness of both worlds. The mantra by whose power this darkness is destroyed is called the svara-sāman. It was with the help of this svara-sāman that the Atris became able to destroy the power of Svarbhānu. (Kau. Brā. 24.3) **NOTE**
+
+### Printed p. 328
+
+The same matter is told somewhat differently in the Taittirīya Saṃhitā:
+
+स्वर्भानुरासुरस्सूरं तमसाविध्यत्तस्यै देवाः प्रायश्चित्ति वैच्छन्तस्य यत्प्रथमं तमोपाघन्ता कृष्णा विरभवद्यद्वितीयग् सा फल्गुनी यत्तृतीयग् सा वलक्ष्मी यदध्यस्थादपाकृंतन्ता निर्वशा समभवत्ते देवा अब्रुवन्तेवपशुर्वा अयग्ं समभूत्कस्मा इममा लप्स्यामहा इत्यथ वै तहल्यल्पा पृथिव्यासीत् ॥ (*svarbhānurāsurassūraṃ tamasāvidhyattasyai devāḥ prāyaścitti vaicchantasya yatprathamaṃ tamopāghantā kṛṣṇā virabhavadyadvitīyag sā phalgunī yattṛtīyag sā valakṣmī yadadhyasthādapākṛṃtantā nirvaśā samabhavatte devā abruvantevapaśurvā ayagṃ samabhūtkasmā imamā lapsyāmahā ityatha vai tahalyalpā pṛthivyāsīt ‖*) (Kṛ. Saṃ. 2-1-2-2) **NOTE**
+
+The asura called Svarbhānu covered Sūra with darkness. Then the gods desired the release of Sūra. In that effort they cut off a small part of the darkness. It turned into a cloud of black colour. The second part became of bright colour. The third part became of white colour. When the upper region of the darkness was cut off, it turned into a barren one. Then the gods saw it and fell into doubt: "Here a divine animal has come into being; to whom should this animal be offered?" Then, since the earth was extremely small and plants and the rest had not yet been produced, they offered it to the Ādityas, it is described. Thus, although the context of the story is the same, there are differences in the account. Although this same situation is described in the Śatapatha Brāhmaṇa, the account there is quite different. How? Thus:
+
+स्वभानुर्हवा असुराः । सूर्यं तमसा विव्याध । स तमसा विद्धो न व्यरोचत तस्य सोमारुद्रावेवैतत्तमोऽपाहताग्ं स एषोऽपहतपाप्मा तपति ॥ ( (*svabhānurhavā asurāḥ | sūryaṃ tamasā vivyādha | sa tamasā viddho na vyarocata tasya somārudrāvevaitattamo 'pāhatāgṃ sa eṣo 'pahatapāpmā tapati ‖ (*) (Śa. Brā. 5-3-2-2)
+
+In this passage it is said that when Sūrya was covered by the darkness of Svarbhānu, Soma and Rudra freed him from the darkness. Thus the Kauṣītakī Brāhmaṇa says that the release of Sūrya came about through the power of the seer Atri **NOTE**, the Taittirīya Saṃhitā says that it was brought about by the effort of the gods alone, and the Śatapatha says that the release of Sūrya came about through the power of Soma and Rudra. Thus, in the account of the manner of the release of Sūrya
+
 ---
 
-**Progress note:** Done through printed p. 322. Vol 19 pp. 317-322: Sūkta 40 Ṛks 1-4
+**Progress note:** Done through printed p. 328. Vol 19 pp. 323-328: Ṛk 4 special topics (Soma/savanas), Ṛk 5, Svarbhānu discussion
