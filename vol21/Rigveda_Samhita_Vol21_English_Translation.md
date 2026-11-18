@@ -6318,6 +6318,294 @@ O Indra, we praise you alone; this is what is to be supplied. You who in former 
 - हवं (*havaṃ*)—our praise
 - श्रुधि (*śrudhi*)—hear
 
+### Printed p. 143
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I praise that renowned Indra. You who were called of old for the sake of wealth, you who even now are called for the gaining of the wealth placed among the enemies, that same you, hear our praise.
+
+##### English translation
+(We invoke) you, such as you are, you who have been invocable of old, and who are now to be invoked for the wealth held (by the foe): hear our invocation.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धी॒भिरर्व॑द्भि॒रर्व॑तो॒ वाजा॑ इंद्र श्र॒वाय्या॑न् ।  
+> त्वया॑ जेष्म हि॒तं धनं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीभिः । अर्वत् ऽभिः । अर्वतः । वाजान् । इंद्र । श्रवाय्यान् ॥  
+> त्वया । जेष्म । हितं । धनं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धीभिः स्तुतिभिस्तद्विषयाभिः प्रीतेन त्वयानुगृहीता वयमर्वद्भिरस्मदीयैरश्वैरर्वतः शत्रुसंबंधिनोऽश्वान् श्रवाय्यान् श्रवणीयान् प्रशस्यान्
+> वाजानन्नानि च हितं शत्रुषु निहितं धनं च जेष्म । त्वदनुग्रहाज्जयेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we, favoured by you who are pleased with our praises directed to you, may win, with our own horses, the horses of the enemies, their praiseworthy, renowned foods, and the wealth placed among the enemies. By your favour may we conquer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धीभिः (*dhībhiḥ*)—pleased with our praises
+- त्वया (*tvayā*)—we who are favoured by you
+- अर्वद्भिः (*arvadbhiḥ*)—by the strength of our horses
+- अर्वतः (*arvataḥ*)—the horses of the enemies also
+- श्रवाय्यान् (*śravāyyān*)—that are praiseworthy
+- वाजान् (*vājān*)—their foods also
+- हितं (*hitaṃ*)—that is among the enemies
+- धनं (*dhanaṃ*)—the wealth also
+- जेष्म (*jeṣma*)—we conquer
+
+### Printed p. 144
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we, pleased by our praises and favoured by you, can conquer, by the strength of our horses, the horses of the enemies, their praiseworthy foods, and the wealth lying among the enemies.
+
+##### English translation
+(Favoured) by you, Indra, (who are propitiated) by our hymns, (we overcome) with our steeds, the steeds (of the enemy), and we conquer abundant food, and the wealth held (by the foe)
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॑रु वीर गिर्वणो म॒हा इं॑द्र॒ धने॑ हि॒ते ।  
+> भरे॑ वितंत॒साय्यः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूः । ऊं इति । वीर । गिर्वणः । महान् । इंद्र । धने । हिते ॥  
+> भरे । वितंतसाय्क्यः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीर विविधमीरयितः शत्रुणां हे गिर्वणो गीर्भिर्वननीयेंद्र हिते
+> शत्रुषु निहिते धने निमित्तभूते सति महान् प्रवृद्धस्त्वं भरे संग्रामे वितंतसाय्कः
+> शत्रुणां जीताभूः ॥ तंतस इति धातुर्जयार्थः कंड्वादौ पठ्यते । तस्माद्व्युपसृष्टादौणादिकः कर्तर्य्याय्यप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O hero, one who sends the enemies far apart in various ways; O गिर्वणः (*girvaṇaḥ*), Indra, to be served with songs of praise: wealth placed among the enemies being the occasion, you, grown great, become the victor over the enemies in the battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीर (*vīra*)—O valiant one
+- गिर्वणः (*girvaṇaḥ*)—who are worshipped with praises
+- इंद्र (*iṃdra*)—O Indra
+- हिते (*hite*)—that is placed among the enemies
+- धने (*dhane*)—for the sake of wealth
+- भरे (*bhare*)—in battle
+- महान् (*mahān*)—you who have grown great
+- वितंतसाय्कः (*vitaṃtasāykaḥ*)—as the conqueror of the enemies
+- अभूः (*abhūḥ*)—you become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, valiant and worshipped with praises, you who have grown great in the battle fought for the wealth placed among the enemies conquer the enemies.
+
+### Printed p. 145
+
+##### English translation
+Heroic and adorable Indra, verily you are mighty in battle, and victor of the wealth held (by the enemy).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यात॑ ऊ॒तिर॑मित्रहन्म॒क्षूज॑वस्त॒मास॑ति ।  
+> तया॑ नो हिनुही॒ रथं॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । ऊतिः । अमित्रहन् । मक्षुजवःतमा । असति ।  
+> तया । नः । हिनुहि । रथं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमित्रहन् अमित्राणां शत्रुणां हंतरिंद्र ते त्वदीया मक्षुजवस्तमातिशयेन शीघ्रजवा योतिर्गतिरसति आस्ति तया गत्या नोऽस्माकं रथं हिनुहि ।
+> प्रेरय । शत्रुजयार्थं शीघ्रं गमय ॥
+
+##### Gist of the bhāṣya
+
+O destroyer of enemies, Indra, that course of yours which is exceedingly swift, with that course impel our chariot; send it quickly, for the conquest of the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमित्रहन् (*amitrahan*)—O Indra, destroyer of enemies
+- ते (*te*)—your
+- मक्षु जवस्तमा (*makṣu javastamā*)—exceedingly swift-moving
+- या ऊतिः (*yā ūtiḥ*)—the course that
+- आसति (*āsati*)—there is
+- तया (*tayā*)—by that same course
+- नः (*naḥ*)—our
+- रथं (*rathaṃ*)—chariot
+- हिनुहि (*hinuhi*)—impel (for the conquest of enemies)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, by that exceedingly swift course which is yours, impel our chariot for the conquest of the enemies.
+
+##### English translation
+Destroyer of enemies with that your velocity, which is of exceeding swiftness impel our chariots (against the foe).
+
+### Printed p. 146
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रथे॑न र॒थीत॑मो॒ऽस्मा के॑नाभि॒युग्व॑ना ।  
+> जेषि॑ जिष्णो हि॒तं धनं॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रथेन । रथितमः । अस्माकेन । अभियुग्वना ।  
+> जेषि । जिष्णो इति । हितं । धनं ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जिष्णो जयशीलेंद्र रथीतमोऽतिशयेन रथी महारथः स त्वमस्माकेना.
+> स्मदीयेनाभियुग्वनाभियोक्ता शत्रूणामभिभवित्रा रथेन हितं शत्रुषु निहितं धनं
+> जेषि । अस्मदर्थं जय ॥
+
+##### Gist of the bhāṣya
+
+O victorious Indra, you who are रथीतमः (*rathītamaḥ*), exceedingly a charioteer, a great chariot-warrior: with our chariot, which is the attacker and overcomer of enemies, conquer the wealth placed among the enemies; conquer it for our sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जिष्णो (*jiṣṇo*)—O Indra, of victorious nature
+- रथीतमः (*rathītamaḥ*)—you who have an excellent chariot
+- सः (*saḥ*)—you
+- आस्माकेन (*āsmākena*)—that belongs to us
+- अभियुग्वना (*abhiyugvanā*)—and defeats the enemies
+- रथेन (*rathena*)—with the chariot
+- हितं (*hitaṃ*)—that is placed among the enemies
+- धनं (*dhanaṃ*)—the wealth
+- जेषि (*jeṣi*)—conquer for us
+
+##### भावार्थ (Bhāvārtha)
+
+O victorious Indra, you who have an excellent chariot, conquer for us, with the chariot that is ours and that defeats the enemies, the wealth placed among the enemies.
+
+##### English translation
+Victorious Indra, you are the chief of charioteers ; conquer the wealth that is held (by the enemy) with our assailing car.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य एक॒ इत्तमु॑ ष्टुहि कृष्णी॒नां विच॑र्षणिः ।  
+> पति॑र्ज॒ज्ञे वृष॑क्रतुः ॥ १६ ॥
+
+### Printed p. 147
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । एकः । इत् । तं । ऊं इति । स्तुहि । कृष्णीनां । विचर्षणिः ।  
+> पतिः । जज्ञे । वृषक्रतुः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विचर्षणिर्विशेषेण सर्वस्य द्रष्टा वृषक्रतुर्वर्षकर्मा य इंद्र एक इदेक
+> एव कृष्णीनां प्रजानां पतिरधिपतिर्जज्ञे आजायत नान्यः कश्चित् तमु तमेवेंद्रं
+> हे स्तोतः स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+विचर्षणिः (*vicarṣaṇiḥ*): the one who sees everything in a special way; वृषक्रतुः (*vṛṣakratuḥ*): one whose work is rain. That Indra who alone, and no other, was born as the lord, the overlord, of the कृष्णीनां (*kṛṣṇīnāṃ*), the subjects: that very Indra, O praiser, praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणिः (*vicarṣaṇiḥ*)—who is able to see everything
+- वृषक्रतुः (*vṛṣakratuḥ*)—who has the work of rain
+- यः (*yaḥ*)—which Indra
+- एक इत् (*eka it*)—as one without a second
+- कृष्णीनां (*kṛṣṇīnāṃ*)—of all the subjects
+- पतिः (*patiḥ*)—as lord
+- जज्ञे (*jajñe*)—was born
+- तमु (*tamu*)—that same Indra
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise that same Indra who can see everything, who has the work of rain, and who was born as one without a second, as lord of all the subjects.
+
+##### English translation
+Praise that Indra who alone has been born the supervisor (of all), the lord of men, the giver of rain.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो गृ॑ण॒तामिदासि॑था॒पिरू॒ती शि॒वः सखा॑ ।  
+> स त्वं न॑ इंद्र मृळय ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । गृणतां । इत् । आसिथ । आपिः । ऊती । शिवः । सखा ।  
+> सः । त्वं । नः । इंद्र । मृळॆय ॥ १७ ॥
+
+### Printed p. 148
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्त्वमूती ऊत्या रक्षया शिवः सुखकरोऽत एव सखा मित्रभूतश्च सन् गृणतामित् स्तुवतामस्माकमेवापिर्बंधुरासिथ पुरा बभूविथ स
+> तादृशस्त्वं नोऽस्मानिदानीं मृळय सुखय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who by your protection are शिवः (*śivaḥ*), a giver of happiness, and for that very reason a friend: being a friend, you were formerly a kinsman of us who praise, of us the praisers alone. Such as you are, now make us happy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—you who
+- ऊती (*ūtī*)—by your protection
+- शिवः (*śivaḥ*)—beneficent
+- सखा (*sakhā*)—and a friend
+- गृणतां इत् (*gṛṇatāṃ it*)—only to the praisers
+- आपिः (*āpiḥ*)—as a kinsman
+- आसिथ (*āsitha*)—you have been
+- सः (*saḥ*)—such
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- मृळय (*mṛḷaya*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who by your protection are beneficent and a friend, and who have been a kinsman only to the praisers: such as you are, make us happy.
+
+##### English translation
+Indra, you have ever been the friend of those who praise you, and the insurer of their happiness by your protection; grant us felicity.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धि॒ष्ट्व वज्रं॒ गभ॑स्तो रक्षो॒हत्या॑य वज्रिवः ।  
+> सा॒स॒ही॒ष्ठा अ॒भि स्पृधः॑ ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धिष्ट्व । वज्रं । गभस्त्यो ॥ रक्षःहत्याय । वज्रिवः ।  
+> सासहीष्ठाः । अभि । स्पृधः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिवो वज्रवन्निंद्र गभस्तोरात्मीययोर्हस्तयोर्वज्रं कुलिशं
+> धिष्ट्व । धारय । किमर्थं । रक्षोहत्याय रक्षसां हननार्थं । धृत्वा च स्पृधः
+> स्पर्धमाना अभि अभिगंत्रीरासुरीः सेनाः ससहीष्ठाः । अत्यर्थमभिभव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, possessor of the thunderbolt, hold the thunderbolt, the कुलिशं (*kuliśaṃ*), in your two arms. For what purpose? For the slaying of the Rākṣasas. And having held it, overcome exceedingly the contending, approaching armies of the Asuras.
+
 ---
 
-**Progress note:** Done through printed p. 142. Mandala 6 sukta 45 rks 4-11 (end of sukta pending)
+**Progress note:** Done through printed p. 148. Mandala 6 sukta 45 rks 11-18
