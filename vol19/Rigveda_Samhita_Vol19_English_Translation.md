@@ -16181,6 +16181,251 @@ The goddess Rākā is the first fortnight. The goddess Kuhū is the second fortn
 > इति ।  
 > पिता । माता । मधुवचाः । सुहस्ता । भरेऽभरे । नः । यशसौ । अविष्टां ॥ २ ॥
 
+### Printed p. 435
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं सुष्टुती सुष्टुत्या शोभनस्तोत्रेण नमसा हविषा चामृद्रे हिंसारहिते
+> द्यावा पृथिवी द्यावापृथिव्यावा वर्तयध्यै । आवर्तयितुमिच्छामि वाजायानार्थं ।
+> अन्नं वै वाज इति हि श्रुतिः । पिता पालयित्रि द्यौर्माता निर्मात्री पृथिवी मधुवचाः
+> प्रियवचना सुहस्ताभिमतदानेन शोभनहस्ता । एते उभयविशेषणे । यशसौ
+> यशोयुक्तौ द्यावापृथिव्यौ भरे भरे सर्वॆषु संग्रामेषु यज्ञेषु वा
+> नोऽस्मानविष्टां । रक्षतां ॥
+
+##### Gist of the bhāṣya
+
+I wish to bring hither the unharmed heaven and earth, with excellent praise and with oblation, for the sake of vāja, that is, food: the Śruti says अन्नं वै वाज इति (*annaṃ vai vāja iti*). The father is the protector, Heaven; the mother is the maker, Earth. They are sweet of speech, that is, of kind words, and good of hand through giving what is desired. These two are epithets of both. May the glorious heaven and earth protect us in every battle or sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुष्टुती (*suṣṭutī*)—with most excellent praise
+- नवसा (*navasā*)—and together with oblation**NOTE**
+- अमृध्रे (*amṛdhre*)—the unharmed
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- वाजाय (*vājāya*)—for the sake of food
+- आ वर्तयध्यै (*ā vartayadhyai*)—I approach
+- पिता (*pitā*)—the protectors of the world
+- माता (*mātā*)—the mothers of the world
+- मधुवचाः (*madhuvacāḥ*)—with pleasant speech
+- सुहस्ता (*suhastā*)—with hands that give liberally
+- यशसौ (*yaśasau*)—and endowed with renown, heaven and earth
+- भरे भरे (*bhare bhare*)—in every battle
+- नः (*naḥ*)—us
+- अविष्टां (*aviṣṭāṃ*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+Endowed with most excellent praise and with oblation, I approach heaven and earth for the sake of food. May heaven and earth, the protectors of the world and mothers of the world, of pleasant speech, of liberally giving hands and endowed with renown, protect us in every battle.
+
+##### English translation
+(I purpose) to approach with pious praise, and with oblations, for (the sake of) the uninjured heaven and earth: may the paternal (heaven), and the sweet-spoken, free-handed, maternal (earth), both enjoying renown, defend us in every battle.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्यवश्चकृ॒वांसो॒ मधू॑नि॒ प्र वा॒यवे॑ भरत॒ चारु॑शु॒क्रं ।
+
+### Printed p. 436
+
+> होतेव नः प्रथमः पाह्कस्य देव मध्वो ररिमा ते  
+> मदाय ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वर्यवः । चकृनांसः । मधूनि । प्र । वायवे । भरत । चारु । शुक्रं ।  
+> होता इव । नः । प्रथमः । पाहि । अस्य । देव । मध्वः । ररिम । ते । मदाय ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवोऽध्वरं युंजाना मधुनि मधुररसानि सोमाज्यादीनि
+> चकृवांसः कुर्वाणा यूयं वायवे प्रथमं प्र भरत प्रकर्षण संपादयत
+> चारु चरणीयं शुक्रं दीप्तं सोमं । हे वायो त्वं च होतेव होता यथा
+> प्रथमं पिबति तद्वन्नोऽस्मदर्थमस्यामुं सोमं प्रथम इतरदेवेभ्यः पूर्वं
+> पाहि । पिब । हे देव वायो मध्यो मधुरं सोमरसं ते मदाय ररिम ।
+> ददाम । वायोः पूर्वपानमसकृत्प्रपंचितं ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus, who yoke the sacrifice and have prepared sweet things, Soma, ājya and the like, offer forth first to Vāyu the lovely, bright Soma. And you, O Vāyu, as the Hotṛ drinks first, so drink first for us this Soma, before the other gods. O god Vāyu, we give the sweet Soma-juice for your exhilaration. Vāyu's drinking first has been set forth again and again.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus
+- मधूनि (*madhūni*)—sweet Soma-juices
+- चकृवांसः (*cakṛvāṃsaḥ*)—you who prepare (first)
+- वायवे (*vāyave*)—for Vāyu
+- चारु (*cāru*)—and lovely
+- शुक्रं (*śukraṃ*)—and bright Soma
+- प्र भरत (*pra bharata*)—offer in an exceeding manner
+- देव (*deva*)—O Vāyu, who are divine
+- मध्वः (*madhvaḥ*)—the sweet Soma-juice
+- ते (*te*)—your
+- मदाय (*madāya*)—for the delight
+- ररिम (*rarima*)—we offer
+- नः (*naḥ*)—offered by us
+- अस्य (*asya*)—this Soma-juice
+- होतेव (*hoteva*)—as the Hotṛ drinks before all
+- प्रथमः (*prathamaḥ*)—you yourself first, before the other gods
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, you who prepare sweet Soma-juices, offer first to Vāyu, in an exceeding manner, the lovely and bright Soma. O divine Vāyu, we offer you sweet Soma-juice for your delight,
+
+### Printed p. 437
+this Soma-juice offered by us: as the Hotṛ drinks before all, so do you drink first, before the other gods.
+
+##### English translation
+Priests, who are preparing (the libation), first offer to Vayu the delightful and brilliant (Soma); and you, divine Vayu, like the Hotri, first drink of this sweet juice, (which) we offer for your exhilaration.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॒ क्षिपो॑ युंजते बा॒हू अद्रिं॒ सोम॑स्य॒ या श॑मि॒तारा॑  ॒॑
+> सुहस्ता ।  
+> मध्वो॒ रसं॑ सु॒गभ॑स्तिर्गिरि॒ष्ठां चनि॑श्चदद्दु दुहे शु॒क्रमं॒शुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । क्षिपः । युंजते । बाहू इति । अद्रिं । सोमस्य । या । शमितारा । सुहस्ता ॥  
+> मध्वः । रसं । सुगभस्तिः । गिरिस्थां । चनिश्चदत् । दुदुहे । शुक्रं । अंशुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्राभिषवस्य प्रतिपाद्यमानत्वात्सोमो देवता । यद्वा ऐंद्री । अद्रिमभिषवग्रावाणं दश क्षिपो दशसंख्याकाः क्षेप्रोऽंगुलयो युंजते । गृण्णंति । यद्वा ।
+> परस्परं युक्ता भवंति । बाहू अप्यध्वर्युसंबंधिनावद्रिं युंजाते । या यौ
+> सुहस्ता शोभनहननौ सोमस्य शमितारावभिषोतारौ तौ बाहू युंजाते । मध्यो
+> मधुरस्य सोमस्य रसं गिरिष्ठां गिरिस्थायिनं गिरिवदुन्नतप्रदेशस्थितं वा सुगभस्तिः
+> शोभनांगुलिरध्वर्युश्चनिश्चददाह्लादयन् ॥ चदि आह्लादन इत्यस्माद्यज्लु किछांदसं
+> रूपं ॥ दुदुहे । दोग्धि । स चांशुः शुक्रं निर्मलं रसं दुदुहे । दुग्धे ।
+> यद्वैकं वाक्यं । अंशुर्व्याप्तः सुगभस्तिः सुहस्तोऽध्वर्युर्मध्यो रसं दुदुहे ।
+> दोग्धि ॥
+
+##### Gist of the bhāṣya
+
+Since the pressing is what is set forth here, Soma is the deity; or else it is Aindrī (addressed to Indra). The ten kṣipaḥ, the ten fingers, seize the pressing-stone; or else they are joined one to another. The two arms too, belonging to the Adhvaryu, seize the stone: the two that are of good hand and are the pressers of the Soma. The Adhvaryu of good fingers, gladdening, the juice of the sweet Soma that dwells on the mountain, or that stands on a high place like a mountain, milks it out. And the aṃśu (the Soma plant) yields its pure, clear juice. Or else it is one sentence: the pervading Soma plant, the Adhvaryu of good hands, milks the sweet juice.
+
+### Printed p. 438
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers, (and)
+- या (*yā*)—which
+- सुहस्ता (*suhastā*)—being of excellent hands
+- सोमस्य (*somasya*)—of the Soma-juice
+- शमितारा (*śamitārā*)—are the instruments of pressing, such
+- बाहू (*bāhū*)—the arms (of the Adhvaryus)
+- अद्रिं (*adriṃ*)—the pressing-stone
+- युंजते (*yuṃjate*)—seize
+- सुगभस्तिः (*sugabhastiḥ*)—the Adhvaryu, with excellent fingers
+- गिरिष्ठां (*giriṣṭhāṃ*)—that dwells in the mountain region
+- मध्वः (*madhvaḥ*)—of the sweet
+- रसं (*rasaṃ*)—the juice
+- चनिश्चदत् (*caniścadat*)—presses out
+- अंशुः (*aṃśuḥ*)—the Soma plant also
+- शुक्रं (*śukraṃ*)—the clear juice
+- दुदुहे (*duduhe*)—pours out
+
+##### भावार्थ (Bhāvārtha)
+
+The arms of the Adhvaryus, which are of excellent hands and are the instruments for pressing the Soma-juice, and their ten fingers, seize the pressing-stone. The Adhvaryu of excellent fingers presses out the sweet Soma-juice that dwells in the mountain region. The Soma plant too pours out the clear juice.
+
+##### English translation
+The ten expressers of the juice, (the fingers) and the two arms of the priest, which are the dexterous immolators of the Soma, take hold of the stone; the exulting, skilful-fingered (priest) milks the mountain-born juice of the sweet Soma, and that Soma (yields its) pure juice.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑वि ते जुजुषा॒णाय॒ सोमः॒ क्रत्वे॒ दक्षा॑य बृह॒ते  ॑
+> मदाय ।  
+> हरी॒ रथे॑ सु॒धुरा॒ योगे॑ अ॒र्वागिंद्र॑ प्रि॒या कृ॑णुहि हू॒यमा॑नः ॥ ५ ॥
+
+### Printed p. 439
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असावि । ते । जुजुषाणाय । सोमः । क्रत्वे । दक्षाय । बृहते । मदाय ।  
+> हरी इति । रथे । सुधुरा । योगे । अर्वाक् । इंद्र । प्रिया । कृणुहि । हूयमानः । ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तुभ्यं जुजुषाणाय सेवमानाय सोमोऽसावि ' अभिषुतः ।
+> किमर्थं । क्रत्वे क्रतवे वृत्रवधादिकर्मणे दक्षाय बलाय बृहते मदाय च ।
+> यस्मादेवं तस्मात् हे इंद्र त्वं हूयमानः सन् सुधुरा शोभनायां धुरि
+> नियुक्तौ प्रिया प्रियौ हरी अश्वा योगे योगार्हे युक्ते वा रथे योजयित्वा
+> तं रथमर्वागस्मदभिमुखं कृणुहि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for you, who delight in it and partake of it, Soma has been pressed. For what? For kratu, for work such as the slaying of Vṛtra; for dakṣa, strength; and for great exhilaration. Since this is so, O Indra, being invoked, yoke to the chariot, which is fit for yoking, your two beloved bay horses, fastened to the good yoke, and make that chariot face us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) दक्षाय (*dakṣāya*)—for the increase of your strength
+- बृहते (*bṛhate*)—and for abundant
+- मदाय (*madāya*)—delight
+- जुजुषाणाय (*jujuṣāṇāya*)—and for satisfaction
+- क्रत्वे (*kratve*)—and for the sake of an extraordinary work
+- सोमः (*somaḥ*)—Soma
+- ते (*te*)—towards you
+- असावि (*asāvi*)—has been pressed
+- इंद्र (*iṃdra*)—O Indra
+- हूयमानः (*hūyamānaḥ*)—as soon as you are prayed to by us
+- सुधुरा (*sudhurā*)—that bear an excellent load
+- प्रिया (*priyā*)—and are dear
+- हरी (*harī*)—your horses
+- रथे (*rathe*)—to your chariot
+- योगे (*yoge*)—having yoked them (that chariot)
+- अर्वाक् (*arvāk*)—facing us
+- कृणु हि (*kṛṇu hi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Soma has been pressed towards you for the increase of your strength, for abundant delight, for satisfaction and for the sake of an extraordinary work. O Indra, as soon as you are prayed to by us, yoke your dear horses, which bear an excellent load, to your chariot, and make that chariot face us.
+
+##### English translation
+The soma has been effused, (Indra), for your gratification, for (giving you) strength in action, and for your great exhilaration : therefore, Indra
+
+### Printed p. 440
+when invoked by us, put to your car, your two beloved, docile, well trained horses and come down.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ म॒हीम॒रम॑तिं स॒जोषा॒ ग्नां दे॒वीं नम॑सा रा॒तह॑व्यां।  
+> मधो॒र्मदा॑य बृह॒तीमृ॑त॒ज्ञा माग्ने॑ वह प॒थिभि॑र्देव॒यानैः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । महीं । अरमतिं । सजोषाः । ग्नां । देवीं । नमसा । रातहव्यां ।  
+> मधोः । मदाय । बृहती । ऋत्यज्ञां । आ । अग्ने । वह । पथिभिः । देव्ययानैः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्राग्निं संबोध्य ग्नादेवताया आवाह्यत्वादस्याग्निर्ग्ना वा देवता । हे
+> अग्ने सजोषा अस्माभिः सह प्रीयमाणस्त्वं ग्नां देवीं सर्वैर्गंतव्यामेतन्ना
+> मिकां देवतां । मेना ग्ना इति स्त्रीणां । नि. ३-२१. । इति यास्कः । नोऽस्मदर्थं
+> देवयानैर्देवैर्गंतवैः पथिभिर्मार्गैरा अभिमुखमा वह । कीदृशीं । महीं
+> महतीमरमतिमा समंताद्रममाणां सर्वत्र गंत्रीं ना नमसा स्तोत्रेण सह
+> रातहव्यां । रातं दत्तं दानाय संकल्पितं हव्यं यस्यास्तां । दत्तहविष्कामित्यर्थः ।
+> किमर्थं । मधोर्मधुरस्य सोमस्य मदाय । पुनः कीदृशीं । बृहतीं प्रवृद्धा
+> मृतज्ञां यज्ञमभिजानतीं ॥
+
+##### Gist of the bhāṣya
+
+Here Agni is addressed, but since the goddess Gnā is to be invoked, the deity of this Ṛk is Agni or Gnā. O Agni, being pleased together with us, bring for us the goddess Gnā, the deity so named, to whom all go (Yāska: मेना ग्ना इति स्त्रीणां (*menā gnā iti strīṇāṃ*), Ni. 3-21), by the paths that the gods travel, facing us. What is she like? Great, aramati, that is, moving about everywhere and going everywhere, together with praise; rātahavyā, she whose oblation has been given, set apart for giving, that is, desirous of the oblation given; and for what purpose? For the exhilaration of the sweet Soma. Again, what is she like? Great, grown, ṛtajñā, knowing the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सजोषाः (*sajoṣāḥ*)—having the same regard towards us
+- महीं (*mahīṃ*)—great
+- अरमतिं (*aramatiṃ*)—all-pervading
+- नमसा (*namasā*)—joined with praise
+- रातहव्यां (*rātahavyāṃ*)—one to whom oblation has been offered
+- बृहतीं (*bṛhatīṃ*)—grown
+- ऋतज्ञां (*ṛtajñāṃ*)—knowing the nature of the sacrifice**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 434. Sūkta 43 intro, Ṛk 1 with Special Topics on Rākā, Ṛk 2 saṃhitā/pada, pp. 429-434
+**Progress note:** Done through printed p. 440. Ṛk 2 end, Ṛk 3-5, Ṛk 6 start (Sūkta 43), pp. 435-440
