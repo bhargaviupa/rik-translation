@@ -21039,6 +21039,252 @@ Therefore the word नियुत्वच्छब्द (*niyutvacchabda*) in
 > नायो इति । आ । याहि । नीतये । जुषाणः । हव्यदातये ।  
 > पिब । सुतस्य । अंधसः । अभि । प्रयः ॥ ५ ॥
 
+### Printed p. 571
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायवा याहीत्येषा पृष्ठस्य तृतीयेऽहनि प्रलुगशस्त्रे वायव्यतृचस्याद्या ।
+> सूत्रितं च । वायवा याहि नीतय इत्येका वायो याहि शिवा दिन इति द्वे । आ
+> ७-१० । इति ॥
+> हे वायो प्रयोऽन्नं सोमाख्यमभि अभिलक्ष्या याहि वीतये भक्षणाय
+> जुषाणः प्रीयमाणो हव्यदातये हविर्दात्रे यजमानाय तदर्थं । अगत्य च
+> सुतस्यांधसोऽभिशुतमंधोऽन्नं सोमलक्षणं पिब ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, beginning वायवा याहीत्येषा (*vāyavā yāhītyeṣā*), is the first Ṛk of the tṛca addressed to Vāyu in the Praüga-śastra of the third day of the Pṛṣṭha rite. **NOTE** The sūtra is cited: the Āśvalāyana text (Ā. Sū. 7-10) prescribes वायवा याहि नीतय इत्येका वायो याहि शिवा दिन इति द्वे । (*vāyavā yāhi nītaya ityekā vāyo yāhi śivā dina iti dve |*). Sāyaṇa explains: O Vāyu, come with regard to the food called Soma, for partaking of it, delighting in it, for the sacrificer who offers the oblation, and on his behalf; and drink the pressed Soma, the food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जुषाणः (*juṣāṇaḥ*)—one who bears a mind of favour towards the sacrificer
+- वायो (*vāyo*)—O Vāyu
+- हव्यदातये (*havyadātaye*)—to the sacrificer who offers the oblation
+- प्रयः अभि (*prayaḥ abhi*)—looking to the oblation
+- वीतये (*vītaye*)—for its partaking
+- आ याहि (*ā yāhi*)—deign to come
+- सुतस्य (*sutasya*)—of the pressed
+- अंधसः (*aṃdhasaḥ*)—of the food in the form of Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, who bear a mind of favour towards the sacrificer, deign to come to the sacrificer who offers the oblation, looking to the oblation, for its partaking. Drink the pressed Soma.
+
+##### English translation
+Come, Vayu, propitious to the offerer of the libation, to partake of the sacrificial food, and drink of the effused juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, वायवा याहि (*vāyavā yāhi*), is to be recited as the first Ṛk of the tṛca (a group of three Ṛks) addressed to Vāyu, at the time of reciting the mantras of the Praüga-śastra on the third day of the sacrifice called Pṛṣṭha. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, वायवा याहि वीतय इत्येका वायो याहि शिवा दिव इति द्वे (*vāyavā yāhi vītaya ityekā vāyo yāhi śivā diva iti dve*) (Ā. Sū. 7-10). For the detailed account we have written on the invitation, in this Ṛk, to Vāyu to be the first of all the gods to drink Soma, see the Special Topics of the preceding Ṛk.
+
+### Printed p. 572
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑श्च वायवेषां सु॒तानां॑ प्री॒तिम॑र्हथः ।  
+> ताञ्चु॑षेधामरे॒पसा॑व॒भि प्रयः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । च । वायो इति । एषां । सुतानां । पीतिं । अर्हथः ।  
+> तान् । जुषेथां । अरेपसौ । अभि । प्रयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठस्य तृतीयेऽहनि प्रउगशस्त्र ऐंद्रवायवतृच इंद्रश्च इत्यादिके द्वे ऋचौ
+> शंसेत् । तयोः प्रथमां द्वितीयां नावर्त्य तृच संपादयेत् । तथा च सूत्रितं।
+> इंद्रश्च वायवेषां सुतानामिति द्वयोरन्यतरां द्विः । आ. ७-१८ । इति ॥
+> हे वायो त्वं चेंद्रश्चैषां पुरतो गृहीतानां सुतानामभिषुतानां
+> सोमानां पीतिं पानमर्हथः । यस्मादेवं तस्मात्तान् सोमरसान् जुषेथां
+> सेवेथामरेपसावहिंसकौ । तदर्थं प्रयः सोमाख्यमन्नमभिलक्ष्यागच्छतमिति
+> शेषः । यद्वा । प्रयोऽन्नरूपान् ॥
+
+##### Gist of the bhāṣya
+
+In the Praüga-śastra of the third day of the Pṛṣṭha rite, in the Aindra-Vāyava tṛca, the two Ṛks beginning इंद्रश्च (*iṃdraśca*) are to be recited. The tṛca is to be completed by repeating one of the two, the first or the second. **NOTE** The sūtra is cited accordingly (Ā. Sū. 7-18). **NOTE** Sāyaṇa explains: O Vāyu, you and Indra are worthy of drinking these pressed Soma juices, those taken in the first place. Since this is so, enjoy and partake of those Soma juices, being free from harm to others. For that purpose come, looking to the food called Soma; the words "come" are to be supplied. Or else the food-like Soma juices are the object of "enjoy".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu, you
+- इंद्रश्च (*iṃdraśca*)—and Indra as well
+- सुतानां (*sutānāṃ*)—of the pressed
+- एषां (*eṣāṃ*)—of these Soma juices
+- पीतिं (*pītiṃ*)—for the drinking
+- अर्हथः (*arhathaḥ*)—you are worthy
+- अरेपसौ (*arepasau*)—being free from harm
+- तान् (*tān*)—these juices
+- जुषेथां (*juṣethāṃ*)—partake of
+- प्रयः अभि (*prayaḥ abhi*)—come looking to the food in the form of juice
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, you and Indra as well are worthy of drinking these Soma juices that have been pressed and prepared. Being free from harm, partake of these juices. For that very reason, come looking to this food in the form of juice.
+
+##### English translation
+Indra and Vayu, you ought to drink of these libations: be gratified by them, benevolent (divinities), and partake of the sacrificial food.
+
+### Printed p. 573
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice called Pṛṣṭha, for the Aindra-Vāyava tṛca among the mantras of the Praüga-śastra, this Ṛk इंद्रश्च (*iṃdraśca*) and the Ṛk that follows it, सुता इंद्राय (*sutā iṃdrāya*), are to be recited. That is, of these two Ṛks, either the first or the second is to be taken again as the third and the tṛca (a tṛca is three Ṛks) is recited. This matter is explained by the sūtra of the Āśvalāyana Śrauta-sūtra on repeating one of the two Ṛks (Ā. Sū. 7-10).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ता इंद्रा॑य वा॒यवे॒ सोमा॑सो॒ दध्या॑शिरः ।  
+> नि॒म्मं न यं॑ति॒ सिंध॑वो॒ऽभि प्रयः॑ ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुताः । इंद्राय । वायवे । सोमासः । दधिआशिरः ।  
+> निम्मं । न । यंति । सिंधवः । अभि । प्रयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राय वायवे च सोमासः सोमा दध्याशिरो दध्याश्रयणाः सुताः ।
+> अभिषुताः । संपादिताः । ते च निम्मं गर्तं सिंधवो न नद्य इव हे इंद्रवायू
+> युवामभि यंति प्रयोऽन्नरूपाः ॥
+
+##### Gist of the bhāṣya
+
+For Indra and for Vāyu the Soma juices mixed with curds have been pressed and prepared. O Indra and Vāyu, like rivers to a hollow place, these food-like juices flow towards you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राय (*iṃdrāya*)—for Indra
+- वायवे च (*vāyave ca*)—and for Vāyu as well
+- दध्याशिरः (*dadhyāśiraḥ*)—mixed with curds
+- सोमासः (*somāsaḥ*)—the Soma juices
+- सुताः (*sutāḥ*)—have been prepared (O Indra and Vāyu)
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- निम्मं न (*nimmaṃ na*)—as they flow swiftly in low-lying places
+- प्रयः (*prayaḥ*)—this food in the form of juice
+- अभि यंति (*abhi yaṃti*)—come hastily towards you
+
+##### भावार्थ (Bhāvārtha)
+
+For Indra and Vāyu, Soma juices mixed with curds have been prepared. O Indra and Vāyu, as rivers flow swiftly in low-lying places, these Soma juices flow swiftly and come towards you.
+
+### Printed p. 574
+
+##### English translation
+The Soma juices mixed with curds are poured out to Indra and to Vayu : the sacrificial viands proceed to you as rivers flow downwards.
+
+##### विशेषविषयगळु (Special Topics)
+
+दध्याशिरः (*dadhyāśiraḥ*)—Soma juice mixed with curds. The Soma juice pressed from the Soma plant is well strained and drunk. This kind of Soma is called pure and sharp. To enhance the taste of the Soma juice it is also drunk after mixing milk, curds or barley flour into the juice. The things mixed into the juice, such as milk, are called आशिर (*āśira*) substances. Therefore it is the custom to speak of Soma juice mixed with milk by one name, Soma juice mixed with curds by another (the one used here), and Soma juice mixed with barley flour by yet another. In the present Ṛk Indra and Vāyu are prayed to drink the Soma juice mixed with curds.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जूर्विश्वे॑भिर्दे॒वेभि॑र॒श्वभ्या॑मु॒षसा॑ स॒जूः ।  
+> आ या॑ह्यग्ने अत्रि॒वत्सु॒ते र॑ण ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजूः । विश्वेभिः । देवेभिः । अश्विभ्यां । उषसा । सजूः ।  
+> आ । याहि । अग्ने । अत्रिवत् । सुते । रण ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽहनि प्रउगशस्त्रे सजूर्विश्वेभिरिति वैश्वदेवस्त्रृचः । सूत्रितं च ।
+> सजूर्विश्वेभिर्देवेभिरुत नः प्रिया प्रियासु । आ ७-१० । इति ॥
+> हे अग्ने विश्वेभिः सर्वैर्देवेभिर्देवैः सजूः संगतः सन् अश्विभ्यामुषसा च
+> सजूः समानप्रीतिः सन् आ याहि । आगहि । अत्रिवदत्रिरिव । अत्रेय्यज्ञे यथा
+> तथेत्यर्थः । यद्वा । अत्रियथा यज्ञे रमते तद्वत्सुतेऽभिषुते सोमे रण ।
+> रमस्व ॥
+
+##### Gist of the bhāṣya
+
+In the Praüga-śastra of the third day, the tṛca beginning सजूर्विश्वेभिरिति (*sajūrviśvebhiriti*) is the one addressed to the Viśvedevas; the sūtra is cited (Ā. Sū. 7-10). Sāyaṇa explains: O Agni, come, united with all the gods, and in equal love with the Aśvins and Uṣas. Like Atri: just as Atri delights in the sacrifice, so delight in the pressed Soma. Or else, as Atri rejoices in the sacrifice, so likewise rejoice in the pressed Soma.
+
+### Printed p. 575
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विश्वेभिः (*viśvebhiḥ*)—with all
+- देवेभिः (*devebhiḥ*)—the gods
+- सजूः (*sajūḥ*)—united
+- अश्विभ्यां (*aśvibhyāṃ*)—with the Aśvin gods
+- उषसा (*uṣasā*)—with the goddess Uṣas
+- सजूः (*sajūḥ*)—joined in equal love
+- आ याहि (*ā yāhi*)—deign to come
+- अत्रिवत् (*atrivat*)—like Atri
+- सुते (*sute*)—with this prepared juice
+- रण (*raṇa*)—take delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, united with all the gods, with the Aśvin gods and with the goddess Uṣas, joined in equal love, deign to come. With this prepared juice take delight, like Atri.
+
+##### English translation
+Accompanied by all the gods, accompanied by the Aswins, and by Ushas, come, Agni, and, like Atri, delight in the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice, at the time of reciting the mantras of the Praüga-śastra, the tṛca beginning सजूर्विश्वेभिः (*sajūrviśvebhiḥ*) (the 8th, 9th and 10th Ṛks of this sūkta) is a tṛca to be recited addressed to the Viśvedevas. This matter is explained by the sūtra of the Āśvalāyana Śrauta-sūtra on this tṛca (Ā. Sū. 7-10).
+
+सजूः (*sajūḥ*)—For this word Yāska has given the etymology सजूः सहजोषण (*sajūḥ sahajoṣaṇa*) (Ni. 9-15), समानप्रीतिः (*samānaprītiḥ*), "one having equal love"; that is, the sense is: accompanied by the deity who is with him, with mutual love (friendship) and co-operation. In this Ṛk Agni is prayed to come to the place of sacrifice together with the Viśvedevas, the Aśvin gods and the goddess Uṣas.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जूर्मि॒त्रावरु॑णाभ्यां स॒जूः सोमे॑न॒ विष्णु॑ना ।  
+> आ या॑ह्यग्ने अत्रि॒वत्सु॒ते र॑ण ॥९॥
+
+### Printed p. 576
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजूः । मित्रावरुणाभ्यां । सजूः । सोमेन । विष्णुना ।  
+> आ । याहि । अग्ने । अत्रिवत् । सुते । रण ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वे नवमीदशम्या स्पष्टे ॥
+
+##### Gist of the bhāṣya
+
+The ninth and the tenth, two Ṛks, are clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मित्रावरुणाभ्यां (*mitrāvaruṇābhyāṃ*)—with Mitra and Varuṇa
+- सजूः (*sajūḥ*)—united
+- सोमेन (*somena*)—with Soma
+- विष्णुना (*viṣṇunā*)—with Viṣṇu
+- सजूः (*sajūḥ*)—united
+- आ याहि (*ā yāhi*)—deign to come to this sacrifice
+- सुते (*sute*)—with this prepared juice
+- अत्रिवत् (*atrivat*)—like Atri
+- रण (*raṇa*)—take delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, united with Mitra and Varuṇa, with Soma and with Viṣṇu, deign to come to this sacrifice. With this prepared juice take delight, like Atri.
+
+##### English translation
+Accompanied by Mitra and Varuna, accompanied by Soma and Vishnu, come, Agni, and like Atri, delight in the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is prayed to come to the place of sacrifice together with the deities Mitra and Varuṇa, the Soma deity, and Viṣṇu. The latter half of the preceding Ṛk is recited again in this Ṛk and in the next Ṛk. Saying that the meaning is clear, the bhāṣya-writer has not written a bhāṣya for this Ṛk and for the next Ṛk.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जूरा॑दि॒त्यैर्वसु॑भिः स॒जूरिंद्रे॑ण वा॒युना॑ ।  
+> आ या॑ह्यग्ने अत्रि॒वत्सु॒ते र॑ण ॥१०॥
+
 ---
 
-**Progress note:** Done through printed p. 570. Sūkta 51 Ṛk 3-5 (pp. 565-570)
+**Progress note:** Done through printed p. 576. Vol 19 pp. 571-576, Sūkta 51 Ṛks 5-10
