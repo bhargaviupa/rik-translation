@@ -19445,6 +19445,290 @@ Anuvāda: Since the Second Chapter in the Fourth Aṣṭaka has now ended, the e
 > प्र॒युं॒ज॒ती दि॒न ए॑ति ब्रुवा॒णा म॒ही मा॒ता दु॑हि॒तुर्बो॒धयं॑ती ।  
 > अ॒विवा॑संती युव॒तिर्म॑नी॒षा पि॒तृभ्य॒ आ सद॑ने॒ जोहु॑वाना ॥
 
+### Printed p. 527
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रयुंजती । दिवः । एति । ब्रुवाणा । मही । माता । दुहितुः । बोधयंती ।  
+> आविवासंती । युवतिः । मनीषा । पितृभ्यः । आ । सदने । जोहुवाना ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषस्या । प्रयुंजती प्राणिनः प्रस्तुतेषु कर्मसु दिवो द्युलोकादेति ।
+> आगच्छति ब्रुवाणा स्तूयमाना ॥ कर्मणि कर्तृप्रत्ययः ॥ मही महती माता
+> प्रकाशस्य देवानां वा निर्माश्री दुहितुर्भूम्या बोधयंती बोधं कुर्वाणा ।
+> तदुपजीव्यत्वात् दुहितृत्वमुपचर्यते । यद्वा दुहितुर्दिव इति संबंधः ॥ उषसो
+> दिवो दुहितृत्वं व्युच्चा दुहितर्दिवः । ऋग्वे. १-४८-१ । इत्यादिषु प्रसिद्धं । अन्यत
+> च दिवो दुहिता भुवनस्य पत्नि ! ऋग्वे. ७-३५-४ । इत्युषसो द्युदुहितृत्वमान्नातं
+> अत इदमधिगम्यते । कदाचिद्भौरुषसो जायत उषाश्च दिन इति । प्रजापतिर्वै
+> स्वां दुहितरमभ्यद्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये । ऐ ब्रा. ३-३३ । इति हि
+> श्रूयते । लिंगं च दृश्यते कार्यकारणभावव्यत्ययेऽदि तेर्दक्षो अजायत दक्षाद्वदितिः । ऋग्वे. १०-२२-४ । इति ॥ किंच आविवासंती परिचरंती युवतिर्मिश्रयंती
+> सर्वत्र नित्यतरुणी ना मनीषा स्तुतिमती पितृभ्यः ॥ तृतीयार्थे पंचमी ॥ पितृभिः
+> पालकैर्देनैः सह सदने यागगृह आ सर्वतो जोहुवानाहूयमाना । यद्वा
+> पितृभ्यः कर्मणां पालकेभ्यो जनमानेभ्य इष्टप्रापणेन पालकेभ्यो ना तेषामर्थाय जोहुवाना ॥
+
+##### Gist of the bhāṣya
+
+प्रयुंजती (*prayuṃjatī*): she who impels living beings to the rites in hand comes from heaven, from the heavenly world; ब्रुवाणा (*bruvāṇā*) means "being praised", the active ending being used in the sense of the passive. मही (*mahī*) is the great one, the mother, the maker, of light or of the gods; she awakens her daughter, the earth, making her know. Because the earth lives on her, daughterhood is figuratively ascribed to the earth. Or else connect दुहितुर्दिव (*duhiturdiva*) together, "of the daughter, of heaven". That Uṣas is the daughter of heaven is well known from passages such as "Dawn, O daughter of heaven, shine forth" (Ṛgve. 1-48-1), and elsewhere "the daughter of heaven, the consort of the world" (Ṛgve. 7-35-4), where Uṣas is declared to be heaven's daughter. From this it is understood that sometimes heaven is born of Uṣas and Uṣas of heaven. For it is heard: "Prajāpati desired his own daughter, some say heaven, others say Uṣas" (Ai. Brā. 3-33). A reversal of cause and effect is also seen: "From Aditi Dakṣa was born, from Dakṣa Aditi" (Ṛgve. 10-22-4). Further, आविवासंती (*āvivāsaṃtī*) means serving; युवतिः (*yuvatiḥ*) is she who is ever young everywhere; मनीषा (*manīṣā*) is she who is praised. पितृभ्यः (*pitṛbhyaḥ*) stands, in the sense of the instrumental, for "with the protecting gods": in the sacrificial house, invoked from all sides together with them. Or else पितृभ्यः (*pitṛbhyaḥ*) means: for the sake of the protectors of the rites, who protect by granting what is desired, she is invoked. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—she who is of great nature
+- माता (*mātā*)—Uṣas, who is the mother of the world
+- दुहितुः (*duhituḥ*)—to her daughter, the earth
+- बोधयंती (*bodhayaṃtī*)—giving wakefulness
+- प्रयुंजती (*prayuṃjatī*)—and appointing all living beings to their several works
+- ब्रुवाणा (*bruvāṇā*)—being praised
+- दिवः (*divaḥ*)—from the heavenly world
+- एति (*eti*)—she comes
+- युवतिः (*yuvatiḥ*)—ever young
+- मनीषा (*manīṣā*)—and full of praise, Uṣas
+- आविवासंती (*āvivāsaṃtī*)—serving (the world)
+- पितृभ्यः (*pitṛbhyaḥ*)—together with all the protecting gods
+- सदने (*sadane*)—in the sacrificial house
+- आ (*ā*)—everywhere
+- जोहुवाना (*johuvānā*)—being entreated (she comes)
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, who is of great nature and the mother of the world, giving wakefulness to her daughter the earth, and appointing all living beings to their several works, being praised by the world, appears from the
+
+### Printed p. 528
+
+heavenly world. Ever young and full of praise, Uṣas serving the world comes together with all the protecting gods to the sacrificial house, entreated everywhere.
+
+##### English translation
+Arousing (men to their labours), the adorable (Dawn) comes from the heaven, a mighty mother, the awakener of her daughter (earth): pious, ever young, and glorified (she comes), when invoked, to the chamber of sacrifice with the protecting (gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+माता दुहितुः (*mātā duhituḥ*)—this Ṛk gives the account that the goddess Uṣas, the mother, is the mother of her daughter, the earth. But in the Ṛgveda it is said in many places that heaven and earth are, by nature, the mother and father of the other gods; accordingly —
+सह वामेन न उषो व्युच्छा दुहितर्दिवः । (*saha vāmena na uṣo vyucchā duhitardivaḥ |*)
+(Ṛ. Saṃ. 1-48-1)
+अभिपश्यंती वयुना जनानां दिवो दुहिता भवनस्य पत्नी । (*abhipaśyaṃtī vayunā janānāṃ divo duhitā bhavanasya patnī |*)
+(Ṛ. Saṃ. 7-25.4)
+In such places the goddess Uṣas is clearly called the daughter of heaven and earth. Is it not then a mutual contradiction that in the present Ṛk the earth is called the daughter of the goddess Uṣas? To this the commentator gives the following answer: in some places, that is, in
+कदा चिद्भौरुषसो जायत उषाश्च दिन इति । (*kadā cidbhauruṣaso jāyata uṣāśca dina iti |*)
+and
+प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्थन्ये । (*prajāpatirvai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamitthanye |*)
+(Ai. Brā. 3-3-3)
+अदितेर्दक्षो अजायत दक्षाद्वदितिः परि । (*aditerdakṣo ajāyata dakṣādvaditiḥ pari |*)
+(Ṛ. Saṃ. 10.72.4)
+such a contradictory view is found; that is, in some places it is said that द्यौः (*dyauḥ*), the heavenly world, was born of the goddess Uṣas, and in other places that the goddess Uṣas arose from the goddess of heaven. And in the passage of the Aitareya Brāhmaṇa cited above, after speaking of the daughter of Prajāpati, it is shown that there is a difference of view: some say that the daughter is the deity of heaven, some that she is the goddess Uṣas. Besides, in the third example given above, that from Aditi Dakṣa was born and from Dakṣa the birth of Aditi, a mutually contradictory view is indicated in a single sentence. How is this reasonable? Here, that is, in these places, these views or meanings should not be taken to be contradictory. In them a definite meaning alone is stated, and to confirm that meaning there is लिंगव्यत्यय (*liṃgavyatyaya*), a reversal of the indication, but no mutually contradictory meaning is suggested here; so the answer has been given.
+
+### Printed p. 529
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒जि॒रास॒स्तद॑प॒ ईय॑माना आतस्थि॒वांसो॑ अ॒मृत॑स्य॒ नाभिं॑ ।  
+> आ॒नं॒तास॑ उ॒रवो॑ वि॒श्वतः॑ सीं॒ परि॒ द्यावा॑पृथि॒वी यं॑ति॒  ॑
+> पंथाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजिरासः । तत् अपः । ईयमानाः । आतस्थिवांसः । अमृतस्य । नाभिं ।  
+> अनंतासः । उरवः । विश्वतः । सीं । परि । द्यावापृथिवी इति । यंति । पंथाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजिरासो गमनशीलाः ॥ अजिरिरच् प्रत्ययांतोऽजिरशिशिरेत्यादिना निपातितः ॥
+> तदपस्तदेव प्रकाशनरूपं कर्म यस्य तत्तादृशमहरीयमाना गच्छंतोऽमृतस्य
+> सूर्यस्य नाभिं संनाहकं मंडलं अमृतस्योदकस्य वा नाभिमंतरिक्षमातस्थिवांस
+> आतिष्ठंतोऽनंतासोऽपरिमिता उरवो व्याप्ताः पंथाः पतनशीला रश्मयो द्यावापृथिवी परि दिवं च पृथिवीं चांतरिक्षं च विश्वतः परितो यंति । गच्छंति । सीमिति
+> पूरणः ।
+
+##### Gist of the bhāṣya
+
+अजिरासः (*ajirāsaḥ*) are those given to going. तदपः (*tadapaḥ*) are those whose work is just that, the work of making light, going about such a day; so they go, abiding at the centre (nābhi) of the immortal one, the Sun, that is, his orb which binds all together; or at the centre of the immortal water, the atmosphere. They are endless, that is, unmeasured; उरवः (*uravaḥ*) means wide, pervading; the पंथाः (*paṃthāḥ*) are the rays, given to falling. They go all around heaven and earth, that is, heaven, earth and the atmosphere, on every side. सीं (*sīṃ*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजिरासः (*ajirāsaḥ*)—those given to going
+- तदपः (*tadapaḥ*)—having as their one work the lighting up of the day
+- ईयमानाः (*īyamānāḥ*)—moving about
+- अमृतस्य (*amṛtasya*)—of the Sun, who is free of the nature of death
+- नाभिं (*nābhiṃ*)—the orb
+- आतस्थिवांसः (*ātasthivāṃsaḥ*)—resting on
+- अनंतासः (*anaṃtāsaḥ*)—unmeasured
+- उरवः (*uravaḥ*)—widely pervading
+- पंथाः (*paṃthāḥ*)—the rays, given to falling
+- द्यावापृथिवी परि (*dyāvāpṛthivī pari*)—around heaven and earth
+- विश्वतः (*viśvataḥ*)—everywhere
+- यंति (*yaṃti*)—they move about
+
+### Printed p. 530
+
+##### भावार्थ (Bhāvārtha)
+
+The rays, ever given to moving, having as their one work the lighting up of the day, resting on the orb of the Sun, who is free of the nature of death, unmeasured, widely pervading and given to falling, move about everywhere around heaven and earth.
+
+##### English translation
+The rays (of light) extending round, fulfilling their duty (of bringing on the day), abiding in contact with the orb of the immortal (sun), unlimited and diffusive, spread everywhere through heaven and earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्षा स॑मु॒द्रो अ॑रु॒षः सु॑प॒र्णः पूर्व॑स्य॒ योनिं॑ ॒ ॑
+> पि॒तुरा वि॑वेश ।  
+> मध्यॆ॑ दि॒वो निहि॑तः॒ पृश्नि॒रश्मा॒ वि च॑क्रमे॒ रज॑सस्पा॒त्यंतौ॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्षा । समुद्रः । अरुषः । सुपर्णः । पूर्वस्य । योनिं । पितुः । आ । विवेश ।  
+> मध्ये । दिवः । निहितः । पृश्निः । अश्मा । वि । चक्रमे । रजसः । पाति । अंतौ ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सौर्योऽयं तृचः । उक्षोदकस्य कामानां वा सेक्ता समुद्रः समुंदनः ।
+> यद्वा । संमोदंते तस्मिन्देवा इति समुद्रः । अरुष आरोचमानः सुपर्णः
+> सुगमनः पूर्वस्य । अवयवलक्षणेयं । पूर्वदिगवयवस्य पितुः पालकस्यांतरिक्षस्य
+> योनिमुत्पादकमवयवमा विवेश । आविष्टवान् । पश्चाद्दिवो मध्यॆ निहितः पृश्नि ।
+> प्राश्नुत एनं वर्ण इति पृश्निरादित्यः । अश्मा सर्वत्र व्याप्तः । लुप्तोपमा ना । अत्मसदृशो रजसोऽन्तरिक्षस्यांतौ पूर्वापरभागौ वि चक्रमे । विक्रमते । पाति च जगत् ।
+> जगद्रक्षार्थं क्रमत इत्यर्थः ॥
+
+### Printed p. 531
+
+##### Gist of the bhāṣya
+
+This triplet is addressed to Sūrya. उक्षा (*ukṣā*) is the sprinkler of water or of desires; समुद्रः (*samudraḥ*) is the moistener, or else that in which the gods rejoice together. अरुषः (*aruṣaḥ*) is the shining one; सुपर्णः (*suparṇaḥ*) the good goer. पूर्वस्य (*pūrvasya*) is here a mark of a part: of the part belonging to the eastern quarter, of the father, the protecting atmosphere, he entered the womb, the producing part. Afterwards he is placed in the middle of heaven as पृश्निः (*pṛśniḥ*), the Āditya, since colour partakes of him. अश्मा (*aśmā*) is the all-pervading one, a simile that has been dropped, so that he is like himself. He strides to the two ends of the atmosphere, its eastern and its western parts, and protects the world; that is, he strides in order to protect the world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षा (*ukṣā*)—that which is the sprinkler of water
+- समुद्रः (*samudraḥ*)—that which wets everything
+- अरुषः (*aruṣaḥ*)—that which is golden-coloured
+- सुपर्णः (*suparṇaḥ*)—that which has an excellent flight (the chariot of the Sun)
+- पितुः (*pituḥ*)—of the protecting atmosphere
+- पूर्वस्य (*pūrvasya*)—of the eastern part
+- योनिं (*yoniṃ*)—the place
+- आ विवेश (*ā viveśa*)—has entered
+- दिवः (*divaḥ*)—of the atmosphere
+- मध्यॆ (*madhyè*)—in the middle
+- निहितः (*nihitaḥ*)—placed
+- पृश्निः (*pṛśniḥ*)—the Āditya
+- अश्मा (*aśmā*)—being all-pervading
+- रजसः (*rajasaḥ*)—of the atmosphere
+- अंतौ (*aṃtau*)—both the eastern and the western parts
+- विचक्रमे (*vicakrame*)—he strides over and moves about
+- पाति (*pāti*)—he protects (the world)
+
+##### भावार्थ (Bhāvārtha)
+
+The chariot of the Sun, which sprinkles water, which wets everything with drops of water, which is golden-coloured and has an excellent flight, has entered the place in the eastern part of the protecting atmosphere. The Āditya, placed in the middle of the atmosphere, being all-pervading, strides over and moves about both the eastern and the western parts of the atmosphere, and protects the world.
+
+##### English translation
+The showerer (of rain), the shedder of dew, the radiant and quick-going (car) has entered the region of the paternal east: the many-tinted and pervading (luminary) proceeds to both extermities of the firmament, (and so) preserves (the world).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒त्वार॑ ईं बिभ्रति क्षेम॒यंतो॒ दश॒ गर्भं॑ च॒रसे॑ धापयंते ।  
+> त्रि॒धात॑वः पर॒मा अ॑स्य॒ गावो॑ दि॒वश्व॑रंति॒ परि॑ स॒द्यो अंता॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चत्वारः । ईं । बिभ्रति । क्षेमयंतः । दश । गर्भं । चरसे । धापयंते ।  
+> त्रिधातवः । परमाः । अस्य । गावः । दिवः । चरंति । परि । सद्यः । अंतान् ॥ ४ ॥
+
+### Printed p. 532
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चत्वार ऋत्विज ईमेनमादित्यं क्षेमयंतः क्षेममात्मन इच्छंतो बिभ्रति ।
+> धारयंति हविर्भिः स्तुतिभिश्च । किंच दश दिशो गर्भं गर्भवन्मध्य उत्पन्नमेनं चरसे
+> चरणायोदयास्तमयव्यवहाराय धापयंते । गमयंति । त्रिधातवस्त्रिप्रकाराः
+> शीतोष्णवर्षभेदेन त्रिविधा अस्यादित्यस्य परमा उत्कृष्टा गावो रश्मयो दिवोऽंत
+> रिक्षस्यांतान् परि परितः सद्य उदयानंतरमेव चरंति । गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The four priests bear this Āditya, desiring welfare for themselves, sustaining him with oblations and with praises. Further, the ten quarters, like a womb, send forth him who is produced in the midst of them, to move, that is, for the daily course of rising and setting. Threefold, according to the division into cold, heat and rain, are the excellent rays of this Āditya, and immediately after his rising they move round the ends of the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चत्वारः (*catvāraḥ*)—the four priests also
+- ईं (*īṃ*)—this Āditya
+- क्षेमयंतः (*kṣemayaṃtaḥ*)—desiring it for their own welfare
+- बिभ्रति (*bibhrati*)—they bear (with oblations and the like)
+- दश (*daśa*)—the ten quarters
+- गर्भं (*garbhaṃ*)—Āditya, produced in the midst of them like an embryo
+- चरसे (*carase*)—for his movement
+- धापयंते (*dhāpayaṃte*)—send forth
+- त्रिधातवः (*tridhātavaḥ*)—of three kinds
+- अस्य (*asya*)—of this Āditya
+- परमाः (*paramāḥ*)—excellent
+- गावः (*gāvaḥ*)—the rays
+- दिवः (*divaḥ*)—of the atmosphere
+- अंतान् (*aṃtān*)—from the border region
+- परि (*pari*)—all around
+- सद्यः (*sadyaḥ*)—immediately upon rising
+- चरंति (*caraṃti*)—they move about
+
+##### भावार्थ (Bhāvārtha)
+
+The four priests also bear this Āditya, desiring him for their own welfare, with oblations and the like. The ten quarters send forth Āditya, who is produced in the midst of them like an embryo, for his movement. The excellent rays of this Āditya, which are of three kinds, namely cold, heat and rain, move about all around from the border region of the atmosphere immediately upon his rising.
+
+##### English translation
+The four (chief priests) sustain him (with oblations and praises), seeking their own welfare : the ten (regions of space) invigorate him, their embryo, to travel (his daily course): his three elementary rays swiftly traverse the boundaries of the sky.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं नपु॑र्नि॒वच॑नं जनास॒च्चरं॑ति॒ यन्न॒द्य॑स्त॒स्तु रासः॑ ।
+
+### Printed p. 533
+
+> द्वे यदीं बिभृतो मातुरन्ये इहेह जाते यम्या३  
+> सबंधू ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वपुः । निवचनं । जनासः । चरंति । यत् । नद्यः । तस्थुः । आपः ।  
+> द्वे इति । यत् । ईं । बिभृतः । मातुः । अन्ये इति । इहइह । जाते इति । यम्या ।  
+> सबंधू इति सबंधू ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनासो हे जना ऋत्विज इदं पुरतो दृश्यमानं वपुः शरीरं मंडलं
+> निवचनं स्तुत्यं भवतीति शेषः । यन्मंडलमुपजीव्य नद्यश्चरंति प्रवहंति । आपश्च
+> यन्मंडलमधितस्थुः । मंडलाधीनत्वात्तासां । ईमेतदुक्तलक्षणं यन्मंडलं द्वे
+> अहोरात्रे मातुर्निर्मातुर्मातृस्थानीयादंतरिक्षादन्ये इहेह जाते इह चेह च
+> सूर्ये जाते निष्पन्ने यम्या यम्ये नियमनीये युग्मभूते ना सबंधू
+> समानबले समानबंधने उभयोरप्येक एव सूर्यो बंधकोऽक्षो ययोस्तादृश्यौ बिभृतः धारयतः ॥
+
+##### Gist of the bhāṣya
+
+O people, O priests, this body seen before us, the orb, is to be praised; relying on which orb the rivers flow and the waters stand, since they depend on the orb. This orb, of the characteristics stated: the two, day and night, which are different from the mother, the maker, the atmosphere, and are born here and there, that is, are produced from the Sun, यम्या (*yamyā*), controllable, a pair, सबंधू (*sabaṃdhū*), of equal strength and equal bond, having one and the same Sun as the binding axle of both, he bears; that is, he upholds them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनासः (*janāsaḥ*)—O people
+- यत् (*yat*)—by relying on which orb of Āditya
+- नद्यः (*nadyaḥ*)—the rivers
+- चरंति (*caraṃti*)—flow
+- आपः (*āpaḥ*)—the waters
+- तस्तुः (*tastuḥ*)—such as rest relying on which
+- निवचनं (*nivacanaṃ*)—worthy of praise
+- इदं वपुः (*idaṃ vapuḥ*)—this is the orb of Āditya
+- मातुः (*mātuḥ*)—from the atmosphere
+- जाते (*jāte*)—those born
+- यम्या (*yamyā*)—which bring about the control of the world
+- सबंधू (*sabaṃdhū*)—having (Āditya himself) as the common kinsman
+- द्वे (*dve*)—day and night
+- अन्ये (*anye*)—and the other priests and the like
+- यत् ईं (*yat īṃ*)—which bear the sun
+- इहेह (*iheha*)—in all their several fixed regions
+- बिभ्रतः (*bibhrataḥ*)—bear
+
+##### भावार्थ (Bhāvārtha)
+
+O people, behold this praiseworthy orb of Āditya, by the support of which the rivers flow, relying on which the waters stand. From the atmosphere
+
 ---
 
-**Progress note:** Done through printed p. 526. Ṛk 7-8 of Sūkta 46, end of Adhyāya 2, start of Sūkta 47, pp. 520-526
+**Progress note:** Done through printed p. 533. Sūkta 47 Ṛks 1-5 (to Bhāvārtha of Ṛk 5), pp. 527-533
