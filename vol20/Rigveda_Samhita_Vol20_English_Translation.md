@@ -10613,6 +10613,127 @@ May Kubera, the friend of the god, and Fame, together with the wish-fulfilling j
 - ऋद्धिं (*ṛddhiṃ*)—prosperity of all that can be enjoyed
 - ददातु (*dadātu*)—may he give
 
+### Printed p. 302
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Śrī, may Kubera, the friend of Tryambaka, and Kīrti, the daughter of Dakṣa and the deity presiding over fame, together with the wish-fulfilling jewel, or with the god named Maṇibhadra, the treasurer, come near me in order to show me grace. It is for the gaining of your grace that I have arisen in this country. Therefore may Kubera, the friend of the god, bestow on me fame reaching to the ends of the quarters and the prosperity of all that can be enjoyed, and so show me grace.
+
+##### विशेषविषयगळु (Special Topics)
+
+आंडवल्ली (*āṃḍavallī*)
+
+हे श्रीः त्वदुपासकोऽहं यस्मादस्मिन् राष्ट्रे मर्त्यलोके प्रादुर्भूतो जातोऽस्मि तस्मादहं मानवजन्मसाधारणानुपपत्तिमसहमानस्तां प्रार्थये द्वितीयत्वात्मनु त्वदाज्ञपो मामुद्धर्तुं देवसखः कुबेरः “ भवाय देवाय नमः” इत्यादौ देवशब्दो महादेवे रूढः तस्य सखा देवसखः राजाहस्सखिभ्यष्टच् । “कुबेरस्त्र्यंबकसख” इत्यभिदानं । (*he śrīḥ tvadupāsako 'haṃ yasmādasmin rāṣṭre martyaloke prādurbhūto jāto 'smi tasmādahaṃ mānavajanmasādhāraṇānupapattimasahamānastāṃ prārthaye dvitīyatvātmanu tvadājñapo māmuddhartuṃ devasakhaḥ kuberaḥ “ bhavāya devāya namaḥ” ityādau devaśabdo mahādeve rūḍhaḥ tasya sakhā devasakhaḥ rājāhassakhibhyaṣṭac | “kuberastryaṃbakasakha” ityabhidānaṃ |*)
+
+कुबेरस्तपसा पूर्वं तोषयामास शंकरं । शिनार्थं तु महालक्ष्मीः कुबेरस्य वशे स्थिता ॥ तस्माल्लक्ष्मीप्रदानाय कुबेरोऽधिकृतोऽभवत् । तस्माद्दि भक्तवात्सल्यं श्रीदेव्या प्रकटीकृतं ॥ अनुगृह्णाति यं यं श्रीस्तं कुबेरोऽनुधावति । (*kuberastapasā pūrvaṃ toṣayāmāsa śaṃkaraṃ | śinārthaṃ tu mahālakṣmīḥ kuberasya vaśe sthitā ‖ tasmāllakṣmīpradānāya kubero 'dhikṛto 'bhavat | tasmāddi bhaktavātsalyaṃ śrīdevyā prakaṭīkṛtaṃ ‖ anugṛhṇāti yaṃ yaṃ śrīstaṃ kubero 'nudhāvati |*)
+
+इति ईशानसंहितावचनात् (*iti īśānasaṃhitāvacanāt*)
+
+कीर्तियोभिमानिनी देवताकीर्तिर्मतिद्युतिः पुष्टिस्समृद्धिस्तुष्टिरेव च । श्रुतिः स्मृतिर्बलं मेधा श्रद्धारोग्यजयादिकाः ॥ देवताशक्तयः सर्वास्तत्तदेवांशगा नृप । महालक्ष्मीमुपासंते तस्याः किंकर्य एव ताः ॥ (*kīrtiyobhimāninī devatākīrtirmatidyutiḥ puṣṭissamṛddhistuṣṭireva ca | śrutiḥ smṛtirbalaṃ medhā śraddhārogyajayādikāḥ ‖ devatāśaktayaḥ sarvāstattadevāṃśagā nṛpa | mahālakṣmīmupāsaṃte tasyāḥ kiṃkarya eva tāḥ ‖*)
+
+इति भार्गवसंहितावचतात् (*iti bhārgavasaṃhitāvacatāt*) कीर्तिर्लक्ष्मीप्रेष्या मणिना चिंतामणिना सह... (*kīrtirlakṣmīpreṣyā maṇinā ciṃtāmaṇinā saha...*)
+
+कामधेनुः कल्पवृक्षस्सुधा चिंतामणिस्तथा । ऐरावतोच्चैश्रवसावप्सरः कौस्तुभेंदवः ॥ महालक्ष्म्यंशगाः सर्वे क्षीरसागरसंभवाः ॥ श्रियमेवोपजीवंति तेषां देवाश्च देवताः ॥ (*kāmadhenuḥ kalpavṛkṣassudhā ciṃtāmaṇistathā | airāvatoccaiśravasāvapsaraḥ kaustubheṃdavaḥ ‖ mahālakṣmyaṃśagāḥ sarve kṣīrasāgarasaṃbhavāḥ ‖ śriyamevopajīvaṃti teṣāṃ devāśca devatāḥ ‖*)
+
+### Printed p. 303
+
+इति सौरसंहितावचनात् (*iti saurasaṃhitāvacanāt*) मामुपैतु कीर्तिमृद्धिं च मे ददातु मत्समीपमागत्य त्वदाज्ञया ते मदिष्टं साधयंत्विति भावः ॥ (*māmupaitu kīrtimṛddhiṃ ca me dadātu matsamīpamāgatya tvadājñayā te madiṣṭaṃ sādhayaṃtviti bhāvaḥ ‖*)
+
+श्रीरत्नकोशे (*śrīratnakośe*)
+
+अनुष्टुभर्चं श्रीसूक्ते सप्तमीं प्रजपेद्बुधः । द्वात्रिंशल्लक्षपर्याप्तो सिद्धिं प्राप्नोति नान्यथा ॥ कुबेराद्यास्तस्य देवाः प्रत्यक्षाः स्युर्न संशयः । चिंतामण्यादिरत्नानि नवापि निधयस्तथा ॥ वशे तस्या भविष्यंति सिद्धमंत्रस्य योगिनः । भूतप्रेतपिशाचादिग्रहपीडानिवारणं ॥ प्रयतः प्रजपेन्मंत्रं रात्रिकाले विशेषतः । दूर्वाभिर्बिल्वपत्रैश्च सकुशैश्च कुशेशय्यैः ॥ सहरिद्राक्षतयवैस्तंडुलैश्च समौक्तिकैः । कुंकुमैरर्चयेद्देवीं प्रसूनैश्च विशेषतः ॥ केतकीकुंदमंदारैस्तुलसीदमनादिभिः । लक्ष्मीनाम्नां सहस्रेण श्रीबीजसहितेन च ॥ श्रीयंत्रं पूजयेन्नित्यं नित्यकर्माविरोधतः । (*anuṣṭubharcaṃ śrīsūkte saptamīṃ prajapedbudhaḥ | dvātriṃśallakṣaparyāpto siddhiṃ prāpnoti nānyathā ‖ kuberādyāstasya devāḥ pratyakṣāḥ syurna saṃśayaḥ | ciṃtāmaṇyādiratnāni navāpi nidhayastathā ‖ vaśe tasyā bhaviṣyaṃti siddhamaṃtrasya yoginaḥ | bhūtapretapiśācādigrahapīḍānivāraṇaṃ ‖ prayataḥ prajapenmaṃtraṃ rātrikāle viśeṣataḥ | dūrvābhirbilvapatraiśca sakuśaiśca kuśeśayyaiḥ ‖ saharidrākṣatayavaistaṃḍulaiśca samauktikaiḥ | kuṃkumairarcayeddevīṃ prasūnaiśca viśeṣataḥ ‖ ketakīkuṃdamaṃdāraistulasīdamanādibhiḥ | lakṣmīnāmnāṃ sahasreṇa śrībījasahitena ca ‖ śrīyaṃtraṃ pūjayennityaṃ nityakarmāvirodhataḥ |*)
+
+प्रजपेत्तुल्यगायत्रीं पुरश्चरणदीक्षितः ॥ सपाशांकुशमायां च सहाकर्षणपल्लवं । स्वाहांतं च नमोंतं च श्रीमंत्रमृचि योजयेत् ॥ सप्रवालाक्षमालाकस्त्रिसंध्यं नियतो जपेत् । धूपयेद्यक्षधूपैश्च घृतदीपैश्च भासयेत् । द्राक्षाफलं च खर्जूरं रंभाक्षीरेकुसंयुतं । मध्वाज्यदाडिमाचूतनारिकेलान्समर्चयेत् ॥ सुवासिनीस्समभ्यर्च्य स्तुत्वाऽन्यैस्तोत्रपाठकैः । हुत्वापामार्गसमिधो धृताहुतिपुरस्सराः ॥ कट्टाम्ललवणादीसि त्यक्त्वा नियतभुग्वती । सार्धद्विवत्सरे सिद्धिं प्राप्पुयान्नात्र संशयः ॥ (*prajapettulyagāyatrīṃ puraścaraṇadīkṣitaḥ ‖ sapāśāṃkuśamāyāṃ ca sahākarṣaṇapallavaṃ | svāhāṃtaṃ ca namoṃtaṃ ca śrīmaṃtramṛci yojayet ‖ sapravālākṣamālākastrisaṃdhyaṃ niyato japet | dhūpayedyakṣadhūpaiśca ghṛtadīpaiśca bhāsayet | drākṣāphalaṃ ca kharjūraṃ raṃbhākṣīrekusaṃyutaṃ | madhvājyadāḍimācūtanārikelānsamarcayet ‖ suvāsinīssamabhyarcya stutvā 'nyaistotrapāṭhakaiḥ | hutvāpāmārgasamidho dhṛtāhutipurassarāḥ ‖ kaṭṭāmlalavaṇādīsi tyaktvā niyatabhugvatī | sārdhadvivatsare siddhiṃ prāppuyānnātra saṃśayaḥ ‖*)
+
+श्रीं क्रों ऐं श्रीं ह्रीं आं ह्रीं क्रों इति बीजनवकं प्रतिना आं ह्रीं क्रों ऐं श्रीं ह्रीं आं ह्रीं क्रों इति बीजनवकं प्रतिन्यासं योजयेत् । अस्य मंत्रस्य कुबेर ऋषिः । मणिमालिनी लक्ष्मीर्देवता । अनुष्टुप् छंदः । श्रीं ब्लूं क्लीं बीजानि । ध्यानं ॥ (*śrīṃ kroṃ aiṃ śrīṃ hrīṃ āṃ hrīṃ kroṃ iti bījanavakaṃ pratinā āṃ hrīṃ kroṃ aiṃ śrīṃ hrīṃ āṃ hrīṃ kroṃ iti bījanavakaṃ pratinyāsaṃ yojayet | asya maṃtrasya kubera ṛṣiḥ | maṇimālinī lakṣmīrdevatā | anuṣṭup chaṃdaḥ | śrīṃ blūṃ klīṃ bījāni | dhyānaṃ ‖*)
+
+### Printed p. 304
+
+राजराजेश्वरीं लक्ष्मीं वरदां मणिमालिनीं । देवीं देवपि यां कीर्तिं वंदे काम्यार्थसिद्धये ॥ (*rājarājeśvarīṃ lakṣmīṃ varadāṃ maṇimālinīṃ | devīṃ devapi yāṃ kīrtiṃ vaṃde kāmyārthasiddhaye ‖*)
+
+##### Anuvāda
+
+O goddess Śrī, I, your worshipper, desiring your sidelong glance, have been born in this world or in this country. The hardships and poverty that commonly befall men are mine also. Therefore, at your command, may Kubera, the friend of the god, come near me and bestow on me all good fortune, wealth and prosperity, and fame; this is the main purport indicated in this Ṛk.
+
+देवसखि (*devasakhi*)—In the Vedic sentence भवाय देवाय नमः (*bhavāya devāya namaḥ*) the word देवाय (*devāya*) is well known to mean Mahādeva, Īśvara. He who is a friend of this Mahādeva is, according to the lexicon statement कुबेरस्त्र्यंबकसखिः (*kuberastryaṃbakasakhiḥ*), definitely Kubera.
+
+मणिना (*maṇinā*)—The commentators have explained this word as either the jewel called the wish-fulfilling jewel (Cintāmaṇi), which grants all desires, or the god named Maṇibhadra, the lord of the treasury for the wealth that is in Kubera's keeping.
+
+In former times Kubera performed austerity and pleased Śaṅkara. Pleased with his austerity, Mahādeva granted that Lakṣmī, the presiding deity of wealth, should be in Kubera's keeping. From that time it is well known that Lakṣmī, the presiding deity of riches, dwells always in Kubera's house. Therefore in this Ṛk Kubera is praised for the gaining of Lakṣmī's glance. Moreover, there is the statement of the Īśāna-saṃhitā that, out of the affection Lakṣmī has for her devotees, she shows grace to whoever prays to Kubera for welfare.
+
+कीर्तिः (*kīrtiḥ*)—Kīrti means the presiding deity of fame. In the work called the Bhārgava-saṃhitā it is said that the presiding deities of Kīrti, Mati, Dyuti, Puṣṭi, Samṛddhi, Tuṣṭi, Śruti, Smṛti, Bala, Medhā, Śraddhā, Ārogya and Jaya are forms of the power of Mahālakṣmī, each existing as a portion of her, and serve Mahālakṣmī in the spirit of service. Therefore Kīrti is to be understood as the deity presiding over fame, one among the endless powers of Mahālakṣmī.
+
+मणिना (*maṇinā*)—together with the Cintāmaṇi. The priceless jewel called Cintāmaṇi is spoken of in the Saura-saṃhitā:
+
+कामधेनुः कल्पवृक्षः सुधा चिंतामणिथा । ऐरावतोच्चैश्रवसावप्सरः कौस्तुभेंदवः ॥ महालक्ष्म्यंशगाः सर्वे क्षीरसागरसंभवाः । श्रियमेवोपजीवंति तेषां देवाश्च देवताः ॥ (*kāmadhenuḥ kalpavṛkṣaḥ sudhā ciṃtāmaṇithā | airāvatoccaiśravasāvapsaraḥ kaustubheṃdavaḥ ‖ mahālakṣmyaṃśagāḥ sarve kṣīrasāgarasaṃbhavāḥ | śriyamevopajīvaṃti teṣāṃ devāśca devatāḥ ‖*)
+
+### Printed p. 305
+
+The wish-cow, the wish-tree, nectar, the Cintāmaṇi, the elephant named Airāvata, the horse named Uccaiḥśravas, the women called Apsarases, the Kaustubha jewel and the moon: all these arose at the time of the churning of the ocean of milk, are portions of Mahālakṣmī herself, and rest on Mahālakṣmī alone. It is said that the gods of all these are the deities presiding over each of them.
+
+मामुपैतु कीर्तिमृद्धिंच मे ददातु (*māmupaitu kīrtimṛddhiṃca me dadātu*)—The main purport is that Kubera mentioned above, the deity presiding over fame, and the deity presiding over the Cintāmaṇi, all of them, should come near me and bestow on me fame and the prosperity of the fortune of enjoyment.
+
+श्रीतत्त्वकोशे (*śrītattvakośe*)
+
+The seventh Ṛk of the Śrī-sūkta is in the Anuṣṭubh metre. A discerning man should repeat this Ṛk thirty-two lakhs of times. If he does so, the mantra is perfected; if he does not, it is not perfected. And by repeating it in that way, the deities set forth in that Ṛk, Kubera and the others, become visible to the practitioner. The nine treasures, beginning with the Cintāmaṇi, come under his control. The affliction of ghosts, spirits, goblins and seizing planets is removed. This mantra should be repeated especially with discipline, at night. With dūrvā grass, bilva leaves, kuśa, darbha, rice mixed with turmeric as mantra-consecrated grains, and also kuṅkuma, flowers of many kinds, the screw-pine flower, kunda flowers, mandāra flowers, tulasī and davana, after the performance of the daily rites, the Śrī-yantra is to be worshipped with the thousand names of Lakṣmī together with the seed-syllables. The Lakṣmī Gāyatrī mantra also is to be repeated according to the rule of the preliminary service. While repeating the mantra it is to be repeated at the three times of day with a coral rosary, together with the seed-syllables beginning with Pāśa, Aṅkuśa and Māyā, and with the words svāhā and namaḥ added at the end of the mantra. Thereafter, at the time of worship, incense and a lamp lit with cow's ghee are offered, and grapes, dates, bananas, milk, sugar-cane, honey, ghee, pomegranates, mangoes and coconuts are all offered as food. Married women are to be honoured with clothes and ornaments, and the goddess is to be praised with hymns of many kinds. In the fire, with sticks of the apāmārga plant and with ghee, an oblation is to be made with the mantra. The one who repeats the mantra, during the time of the vow, giving up bitter, sour and salty things and so on, and keeping to a measured diet, is to repeat it. If this is done, the mantra is perfected in two and a half years. In this matter there is no doubt.
+
+While repeating this Ṛk, the nyāsa is to be made together with the nine seed-syllables आं ह्रीं क्रों ऐं श्रीं ह्रीं आं ह्रीं क्रों (*āṃ hrīṃ kroṃ aiṃ śrīṃ hrīṃ āṃ hrīṃ kroṃ*). **NOTE** For this mantra Kubera is the seer; Maṇimālinī Lakṣmī is the deity; Anuṣṭubh is the metre; Śrīṃ is the seed, Blūṃ the power, Klīṃ the pin. The meditation verse is:
+
+### Printed p. 306
+
+राजराजेश्वरीं लक्ष्मीं वरदां मणिमालिनीं । देवीं देवप्रियां कीर्तिं वंदे काम्यार्थसिद्धये ॥ (*rājarājeśvarīṃ lakṣmīṃ varadāṃ maṇimālinīṃ | devīṃ devapriyāṃ kīrtiṃ vaṃde kāmyārthasiddhaye ‖*)
+
+The purport of the meditation verse is: I bow, for the accomplishment of my desired aim, to the deity Lakṣmī, who gives to the devotees who worship her a boon according to the wish of each, who is adorned with ornaments made of many jewels, who is dear to Mahādeva, and who is famed by the name आद्यराजराजेश्वरी (*ādyarājarājeśvarī*).
+
+Here ends the explanation of the meaning of the seventh Ṛk.
+
+#### Ṛk 8
+
+अस्य श्रीश्रीसूक्तस्याष्टमयङ्महामंत्रस्य । श्रीमहाविष्णु र्यषिः । सर्वैश्वर्यकारिणी महालक्ष्मीर्देवता । अनुष्टुप् छंदः । क्षुं बीजं । हं शक्तिः । श्रीं कीलकं । श्रीमहालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*asya śrīśrīsūktasyāṣṭamayaṅmahāmaṃtrasya | śrīmahāviṣṇu ryaṣiḥ | sarvaiśvaryakāriṇī mahālakṣmīrdevatā | anuṣṭup chaṃdaḥ | kṣuṃ bījaṃ | haṃ śaktiḥ | śrīṃ kīlakaṃ | śrīmahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*) ओं रं क्षुत्पिपासामलां ज्येष्ठां—अंगुष्ठाभ्यां नमः । ओं ह्रीं अलक्ष्मींशर्जनीभ्यां नमः । ओं श्रीं नाशयाम्यहं - मध्यमाभ्यां नमः । ओं ह्रीं अभूतिमसमृद्धिं च—अनामिकाभ्यां नमः । ओं रं सर्वान्निर्णुद—कनिष्ठिकाभ्यां नमः । ओं रं ह्रीं श्रीं ह्रीं रं मेगृहात्—करतलकरपृष्टाभ्यां नमः । ओं रं क्षुत्तिपासामलां ज्येष्ठां—हृदयाय नमः । ओं ह्रीं अलक्ष्मीं—शिरसे स्वाहा । ओं श्रीं नाशयाम्यहं—शिखाय्कॆ वषट् । ओं ह्रीं अभूतिमसमसमृद्धिं च—कवचाय हुं । ओं रं सर्वान्निर्णुद—नेत्रत्रयाय वषट् । ओं रं ह्रीं श्रीं ह्रीं रं मे गृहात्—अस्त्राय फट् । (*oṃ raṃ kṣutpipāsāmalāṃ jyeṣṭhāṃ—aṃguṣṭhābhyāṃ namaḥ | oṃ hrīṃ alakṣmīṃśarjanībhyāṃ namaḥ | oṃ śrīṃ nāśayāmyahaṃ - madhyamābhyāṃ namaḥ | oṃ hrīṃ abhūtimasamṛddhiṃ ca—anāmikābhyāṃ namaḥ | oṃ raṃ sarvānnirṇuda—kaniṣṭhikābhyāṃ namaḥ | oṃ raṃ hrīṃ śrīṃ hrīṃ raṃ megṛhāt—karatalakarapṛṣṭābhyāṃ namaḥ | oṃ raṃ kṣuttipāsāmalāṃ jyeṣṭhāṃ—hṛdayāya namaḥ | oṃ hrīṃ alakṣmīṃ—śirase svāhā | oṃ śrīṃ nāśayāmyahaṃ—śikhāykè vaṣaṭ | oṃ hrīṃ abhūtimasamasamṛddhiṃ ca—kavacāya huṃ | oṃ raṃ sarvānnirṇuda—netratrayāya vaṣaṭ | oṃ raṃ hrīṃ śrīṃ hrīṃ raṃ me gṛhāt—astrāya phaṭ |*) भूर्भुवस्सुवरोमिति दिग्धंधः ॥ ध्यानं (*bhūrbhuvassuvaromiti digdhaṃdhaḥ ‖ dhyānaṃ*)
+
+ध्यायेद्देवीं महालक्ष्मीं दारिद्रोच्चाटकारिणीं । पंकजासनमध्यॆ तु सुखासीनां शुचिस्मितां ॥ हेमांबरधरां हेमपद्मपीठोपरि स्थितां । मुक्तामाणिक्यवैढूर्योपेतक्षिणितनूपुरां ॥ रत्नबद्धस्रजां चैव रत्नकुंडलमंडितां । विचित्ररत्नवद्भूषां विचित्रावयवैर्युताः ॥ पद्मद्वयधरां चैव वरदाभयधारिणीं । चामराभ्यां वीज्यमानां सितच्छत्रोपशोभितां ॥ शंखपद्मनिधिभ्यां च सेवितां पादमूलतः । (*dhyāyeddevīṃ mahālakṣmīṃ dāridroccāṭakāriṇīṃ | paṃkajāsanamadhyè tu sukhāsīnāṃ śucismitāṃ ‖ hemāṃbaradharāṃ hemapadmapīṭhopari sthitāṃ | muktāmāṇikyavaiḍhūryopetakṣiṇitanūpurāṃ ‖ ratnabaddhasrajāṃ caiva ratnakuṃḍalamaṃḍitāṃ | vicitraratnavadbhūṣāṃ vicitrāvayavairyutāḥ ‖ padmadvayadharāṃ caiva varadābhayadhāriṇīṃ | cāmarābhyāṃ vījyamānāṃ sitacchatropaśobhitāṃ ‖ śaṃkhapadmanidhibhyāṃ ca sevitāṃ pādamūlataḥ |*)
+
+### Printed p. 307
+
+ज्येष्ठा प्रहरणोद्युक्तामसमृद्धिविनाशिनीं ॥ अभूतिहरणां देवीं ध्यायेत्संपत्प्रदायिनीं । अज्ञानपातकतमस्मितिसूर्यरश्मिं दौर्भाग्यभूधरविदारणवज्रमीडे । रोगार्तिघोरफणिमर्दनपक्षिराजं लक्ष्मीपदद्वयमनर्थहरं सुखार्थी ॥ (*jyeṣṭhā praharaṇodyuktāmasamṛddhivināśinīṃ ‖ abhūtiharaṇāṃ devīṃ dhyāyetsaṃpatpradāyinīṃ | ajñānapātakatamasmitisūryaraśmiṃ daurbhāgyabhūdharavidāraṇavajramīḍe | rogārtighoraphaṇimardanapakṣirājaṃ lakṣmīpadadvayamanarthaharaṃ sukhārthī ‖*) **GLOSS**
+
+ओं क्षुत्पिपासामलां ज्येष्ठा मलक्ष्मीं नाशयाम्यहं । अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥ (*oṃ kṣutpipāsāmalāṃ jyeṣṭhā malakṣmīṃ nāśayāmyahaṃ | abhūtimasamṛddhiṃ ca sarvāṃ nirṇuda me gṛhāt ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+क्षुत्पिपासामलामशनायातृष्णामलिनात्मिकां ज्येष्ठां श्रियः प्रागुत्पन्नामित्यर्थः । अलक्ष्मीमश्रियमहं नाशयामि नाशं प्रापयामि । हे श्रीः त्वमभूतिमसंपत्तिं तथा सर्वामसमृद्धिमपि अनभिवृद्धिं मे मम गृहात् निर्णुद निष्कासय ॥ (*kṣutpipāsāmalāmaśanāyātṛṣṇāmalinātmikāṃ jyeṣṭhāṃ śriyaḥ prāgutpannāmityarthaḥ | alakṣmīmaśriyamahaṃ nāśayāmi nāśaṃ prāpayāmi | he śrīḥ tvamabhūtimasaṃpattiṃ tathā sarvāmasamṛddhimapi anabhivṛddhiṃ me mama gṛhāt nirṇuda niṣkāsaya ‖*)
+
+##### Gist of the bhāṣya
+
+क्षुत्पिपासामला (*kṣutpipāsāmalā*) is she whose nature is soiled by hunger and thirst; ज्येष्ठा (*jyeṣṭhā*), the elder, means one who arose before Śrī. अलक्ष्मी (*alakṣmī*) is Aśrī, the absence of Śrī; I destroy her, I bring her to destruction. O Śrī, you drive out from my house misfortune, that is, lack of wealth, and likewise all non-prosperity, that is, lack of growth.
+
+**Bhāṣya of Pṛthvīdhara**
+
+हे अग्ने क्षुत्पिपासामलां क्षुत्तृड्भ्यां मलिनां कृशांगीं ज्येष्ठां श्रियः अग्रजां-क्षीरोदमथनसमये अलक्ष्माः पूर्वमुत्पन्नतया ज्येष्ठतामाहुः । एता दृशीमलक्ष्मीमश्रियमहं नाशयामि । हे महालक्ष्मि त्वमेवं कुरु । अभूतिमनैश्वर्यं सर्वामसमृद्धिं सकलभोग्यवृद्धिराहित्यं च मे गृहात् मम गेहात् निर्णुद उच्चाटय निरासयेत्यर्थः ॥ (*he agne kṣutpipāsāmalāṃ kṣuttṛḍbhyāṃ malināṃ kṛśāṃgīṃ jyeṣṭhāṃ śriyaḥ agrajāṃ-kṣīrodamathanasamaye alakṣmāḥ pūrvamutpannatayā jyeṣṭhatāmāhuḥ | etā dṛśīmalakṣmīmaśriyamahaṃ nāśayāmi | he mahālakṣmi tvamevaṃ kuru | abhūtimanaiśvaryaṃ sarvāmasamṛddhiṃ sakalabhogyavṛddhirāhityaṃ ca me gṛhāt mama gehāt nirṇuda uccāṭaya nirāsayetyarthaḥ ‖*)
+
+##### Gist of the bhāṣya
+
+O Agni, क्षुत्पिपासामला (*kṣutpipāsāmalā*) is she who is soiled and emaciated by hunger and thirst; ज्येष्ठा (*jyeṣṭhā*) is the elder sister of Śrī, for at the time of the churning of the ocean of milk Alakṣmī arose first, and so they call her the eldest. Such an Alakṣmī, an Aśrī, I destroy. O Mahālakṣmī, you act accordingly: drive out from my house, that is, banish and cast away, misfortune, which is lack of lordship, and all non-prosperity, which is the lack of increase of everything enjoyable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अग्ने (*he agne*)—O Agni
+- क्षुत्पिपासामलां (*kṣutpipāsāmalāṃ*)—she who is emaciated and soiled by hunger and thirst
+- ज्येष्ठां (*jyeṣṭhāṃ*)—she who (at the time of the churning of the ocean) arose before Lakṣmī
+- अलक्ष्मीं (*alakṣmīṃ*)—the goddess of poverty
+- अहं (*ahaṃ*)—I
+- नाशयामि (*nāśayāmi*)—I destroy (therefore, O Agni)
+- अभूतिं (*abhūtiṃ*)—lack of lordship
+- असमृद्धिं (*asamṛddhiṃ*)—the absence of prosperity, that is, poverty
+- सर्वां (*sarvāṃ*)—all this
+- मे (*me*)—my
+- गृहात् (*gṛhāt*)—from the house
+- निर्णुद (*nirṇuda*)—strike and drive away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni (or O goddess Śrī), she who is worn out and emaciated by hunger and thirst, who has a filthy body, and who, since she arose before Lakṣmī at the time of the churning of the ocean of milk, to Lakṣmī
+
 ---
 
-**Progress note:** Done through printed p. 301. Śrī-sūkta appendix: Ṛk 6 end, Ṛk 7 to the Pratipadārtha
+**Progress note:** Done through printed p. 307. Pariśiṣṭa Śrīsūkta Ṛk 7 particulars, Ṛk 8 with bhāṣyas, pp. 302-307
