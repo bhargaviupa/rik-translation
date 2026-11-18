@@ -30,3 +30,4 @@
 | through p. 532 (three windows in one agent: pp. 515–532) | sonnet | 18 | 162549 | 4.6 |
 | through p. 550 (three windows in one agent: pp. 533–550) | sonnet | 12 | 162863 | 4.5 |
 | through p. 568 (three windows in one agent: pp. 551–568) | sonnet | 14 | 164555 | 4.3 |
+| through p. 586 (three windows in one agent: pp. 569–586) | sonnet | 14 | 178036 | 5.4 |
