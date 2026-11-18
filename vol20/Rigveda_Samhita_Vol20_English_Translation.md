@@ -10084,6 +10084,144 @@ For the word लक्ष्मीः (*lakṣmīḥ*) it is customary to descri
 
 ललिता शारदा लक्ष्मीरेकैव भगवत्युमा । तत्तल्लक्षणसंयुक्ता पुरुषार्थप्रदा नृणां ॥ (*lalitā śāradā lakṣmīrekaiva bhagavatyumā | tattallakṣaṇasaṃyuktā puruṣārthapradā nṛṇāṃ ‖*)
 
+### Printed p. 278
+
+So there is a statement of the Devī-purāṇa. That is, although the names ललिता (*lalitā*), शारदा (*śāradā*), लक्ष्मीः (*lakṣmīḥ*), भगवती (*bhagavatī*) and उमा (*umā*) appear to be different, all of them designate one and the same deity. That deity, endowed in accordance with her name with the respective marks, bestows on the devotees who worship her the human goals that they desire: so it is said. Therefore the meaning of the word लक्ष्मी (*lakṣmī*), "one who is endowed with the respective marks", has been set forth. Agni is prayed to bring near me, for the fulfilment of my wishes, the goddess Śrī who is distinguished by such qualities.
+
+In the work called Śatānanda-vṛtti it is said thus:
+
+**Śatānanda-vṛtti**
+
+ओं हिरण्यवर्णेत्यस्य पंचदशर्चस्य सूक्तस्य । जातवेदा अग्निर्दुर्गामहालक्ष्मीर्देवता । श्रीं बीजं । ह्रीं शक्तिः । क्लीं कीलकं । लक्ष्मीप्रसादसिध्यर्थे जपे विनियोगः । श्रीमित्यादिषडंगन्यासः । ध्यानं ॥ (*oṃ hiraṇyavarṇetyasya paṃcadaśarcasya sūktasya | jātavedā agnirdurgāmahālakṣmīrdevatā | śrīṃ bījaṃ | hrīṃ śaktiḥ | klīṃ kīlakaṃ | lakṣmīprasādasidhyarthe jape viniyogaḥ | śrīmityādiṣaḍaṃganyāsaḥ | dhyānaṃ ‖*)
+
+या सा पद्मासनस्था विपुलकटितटीपद्मपत्रायताक्षी गंभीरावर्तनाभिस्तनभरनमिता शुभ्रवस्त्रोत्तरीया । लक्ष्मीर्दिव्यैर्गजेंद्रॆर्मणिगणखचितैः स्थापिता हेमकुंभैर्नित्यं सा पद्महस्ता मम वसतुगृहे सर्वमांगल्ययुक्ता ॥ (*yā sā padmāsanasthā vipulakaṭitaṭīpadmapatrāyatākṣī gaṃbhīrāvartanābhistanabharanamitā śubhravastrottarīyā | lakṣmīrdivyairgajeṃdrèrmaṇigaṇakhacitaiḥ sthāpitā hemakuṃbhairnityaṃ sā padmahastā mama vasatugṛhe sarvamāṃgalyayuktā ‖*)
+
+हिरण्यवर्णामिति ऋक् प्राथमिकी । हिरण्यं विष्णुराख्यातस्तस्य वर्णस्तु वैष्णवी । लक्ष्मीर्हिरण्यवर्णेति श्रूयते कनकप्रभा ॥ इति श्रीपुराणात् ॥ (*hiraṇyavarṇāmiti ṛk prāthamikī | hiraṇyaṃ viṣṇurākhyātastasya varṇastu vaiṣṇavī | lakṣmīrhiraṇyavarṇeti śrūyate kanakaprabhā ‖ iti śrīpurāṇāt ‖*)
+
+हरिणीं— हरिणीं तु हरेः पत्नीं दारिद्रपरिहारिणीं । प्रपद्येऽहं हरिद्राभां हरिणाक्षीं हिरण्मयीां ॥ इति आथवर्णिकस्तुत् ॥ (*hariṇīṃ— hariṇīṃ tu hareḥ patnīṃ dāridraparihāriṇīṃ | prapadye 'haṃ haridrābhāṃ hariṇākṣīṃ hiraṇmayīāṃ ‖ iti āthavarṇikastut ‖*)
+
+सुवर्णरजतस्रजां— पिशंगधवळाभिश्च स्रग्भिरम्लानमूर्तिभिः । सौवर्णैः कमलैर्नित्यं राजतैः श्रीर्विभूषिता ॥ इति महालक्ष्मिकोशे । (*suvarṇarajatasrajāṃ— piśaṃgadhavaḷābhiśca sragbhiramlānamūrtibhiḥ | sauvarṇaiḥ kamalairnityaṃ rājataiḥ śrīrvibhūṣitā ‖ iti mahālakṣmikośe |*)
+
+चंद्रां चंद्रवत् प्रकाशमानां— “चंद्रां चंद्रनिभास्यां चपलां चंद्रस्य सोदरीं कलये” । इति सुधोद्धरणे ॥ (*caṃdrāṃ caṃdravat prakāśamānāṃ— “caṃdrāṃ caṃdranibhāsyāṃ capalāṃ caṃdrasya sodarīṃ kalaye” | iti sudhoddharaṇe ‖*)
+
+हिरण्मयां हिरण्यरूपेणाभिव्यक्तां । हिंकारो वज्रः रमग्निः तन्मयां तत्कांतिप्रचुरां । दंभोल्यात्मक दिव्यतेजःपुंजमंजुलां रिपुनिग्राहिकां पापघ्नीमिति वा । लक्ष्मीं लक्ष्मवतीं— (*hiraṇmayāṃ hiraṇyarūpeṇābhivyaktāṃ | hiṃkāro vajraḥ ramagniḥ tanmayāṃ tatkāṃtipracurāṃ | daṃbholyātmaka divyatejaḥpuṃjamaṃjulāṃ ripunigrāhikāṃ pāpaghnīmiti vā | lakṣmīṃ lakṣmavatīṃ—*)
+
+### Printed p. 279
+
+ज्ञानैश्वर्यसुखारोग्यधनधान्य जयादिकं । लक्ष्म यस्यास्समुद्दिष्टं सा लक्ष्मीति निगद्यते ॥ इति निरुक्तसारोक्तेः । (*jñānaiśvaryasukhārogyadhanadhānya jayādikaṃ | lakṣma yasyāssamuddiṣṭaṃ sā lakṣmīti nigadyate ‖ iti niruktasārokteḥ |*)
+
+हे जातवेदः शास्त्रयोने भो भगवन् त्वदीयां लक्ष्मीं मे मह्यं आवह आकर्षयेति यज्ञपुरुषं प्रार्थयेत् । “तेन नारायणः प्रीतो लक्ष्मीं भक्ताय दास्यतीति तत्रैवोक्तेः ॥ (*he jātavedaḥ śāstrayone bho bhagavan tvadīyāṃ lakṣmīṃ me mahyaṃ āvaha ākarṣayeti yajñapuruṣaṃ prārthayet | “tena nārāyaṇaḥ prīto lakṣmīṃ bhaktāya dāsyatīti tatraivokteḥ ‖*)
+
+##### Anuvāda
+
+The seers of this Śrī-sūkta beginning with हिरण्यवर्णां (*hiraṇyavarṇāṃ*) are Ānandakardama and the others mentioned before; the deities are Jātavedas Agni, Durgā and Mahālakṣmī; श्रीं (*śrīṃ*) is the seed (bīja), ह्रीं (*hrīṃ*) is the power (śakti), क्लीं (*klīṃ*) is the pin (kīlaka). For the attainment of the grace of Śrī Lakṣmī the recitation (japa) of this sūkta is to be performed; the nyāsa of the limbs and the rest have been stated before. For meditation this verse is to be recited:
+
+या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी गंभीरावर्तनाभिस्तनभरनमिता शुभ्रवस्त्रोत्तरीया । लक्ष्मिर्दिव्यैर्गजेंद्रॆर्मणिगणखचितैः स्नापिता हेमकुंभैर्नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमांगल्ययुक्ता । (*yā sā padmāsanasthā vipulakaṭitaṭī padmapatrāyatākṣī gaṃbhīrāvartanābhistanabharanamitā śubhravastrottarīyā | lakṣmirdivyairgajeṃdrèrmaṇigaṇakhacitaiḥ snāpitā hemakuṃbhairnityaṃ sā padmahastā mama vasatu gṛhe sarvamāṃgalyayuktā |*)
+
+The goddess Śrī, who bears the name Lakṣmī, is seated on a lotus seat. This goddess shines with broad hips, with wide eyes like lotus petals, and with a deep navel region. Her body is bent as if by the weight of her breasts, and she wears a pure white garment. Anointed with the waters of golden pots set with many jewels and splendid with choice elephants, holding a lotus flower in her hands, shining with all auspicious ornaments and the like, may this goddess Śrī, the bestower of all good fortune, dwell always in one's own house: this is the main intent.
+
+This mantra beginning with हिरण्यवर्णां (*hiraṇyavarṇāṃ*) is the first Ṛk of this sūkta. In accordance with the verse हिरण्यं विष्णुराख्यातस्तस्य वर्णस्तु वैष्णवीं (*hiraṇyaṃ viṣṇurākhyātastasya varṇastu vaiṣṇavīṃ*), hiraṇya means Viṣṇu; varṇa means his wife. Therefore the meaning of the word हिरण्यवर्णां (*hiraṇyavarṇāṃ*) is Viṣṇu's wife. In accordance with the statement of the Śrī-purāṇa लक्ष्मीर्हिरण्यवर्णेति श्रूयते कनकप्रभा (*lakṣmīrhiraṇyavarṇeti śrūyate kanakaprabhā*) the intent is that Lakṣmī is hiraṇyavarṇā, that is, one whose body has a radiance like that of gold.
+
+### Printed p. 280
+
+हरिणीं तु हरेः पत्नीं दारिद्रपरिहारिणीं । प्रपद्येऽहं हरिद्राभां हरिणाक्षीं हिरण्मयिं ॥ (*hariṇīṃ tu hareḥ patnīṃ dāridraparihāriṇīṃ | prapadye 'haṃ haridrābhāṃ hariṇākṣīṃ hiraṇmayiṃ ‖*)
+
+So it is said in the Ātharvaṇika-stuti. This verse explains the meaning of the word हरिणीं (*hariṇīṃ*). हरिणी (*hariṇī*) means the wife of Hari. This deity removes poverty. The principal meaning is that she shines with the bodily radiance of a yellow (fair) colour, the colour of gold, with wide eyes like the eyes of a doe, and with a body made of gold.
+
+सुवर्णरजतप्रजां (*suvarṇarajataprajāṃ*)—In the work called Mahālakṣmī-kośa it is said thus:
+
+पिशंगधवलाभिश्च स्रग्भिरम्लानमूर्तिभिः । सौवर्ण्यैः कमलैर्नित्यं राजतैः श्रीर्विभूषिता ॥ (*piśaṃgadhavalābhiśca sragbhiramlānamūrtibhiḥ | sauvarṇyaiḥ kamalairnityaṃ rājataiḥ śrīrvibhūṣitā ‖*)
+
+That is, this goddess Śrī shines, adorned with garlands strung of flowers that are yellow and white and never fade, and of lotus flowers made of gold and silver.
+
+चंद्रां (*caṃdrāṃ*)—In the work called Sudhoddharaṇa:
+
+चंद्रां चंद्रनिभास्यां चपलां चंद्रस्य सोदरीं कलये (*caṃdrāṃ caṃdranibhāsyāṃ capalāṃ caṃdrasya sodarīṃ kalaye*)
+
+so it is said. There, for the word चंद्र (*caṃdra*), the explanation is given: one who shines with a lotus face like the disc of the moon; or the sister of the moon. Since it is said in the Purāṇas and elsewhere that in former times, when the gods and the demons churned the ocean for the nectar, the moon and Lakṣmī arose there, it is explained here that Lakṣmī is the sister of the moon.
+
+हिरण्मयीं (*hiraṇmayīṃ*)—one who has a golden form, that is, a body made of gold; or, since the syllable हिं (*hiṃ*) is declared to mean the thunderbolt and the letter ra to mean fire, the meaning is one who shines with a bodily radiance like a gleaming thunderbolt and like a brilliantly blazing fire.
+
+लक्ष्मीं-लक्ष्मवतीं (*lakṣmīṃ-lakṣmavatīṃ*)—one who is endowed with all auspicious marks. According to the statement ज्ञानैश्वर्यसुखारोग्यधनधान्य, जयादिकं (*jñānaiśvaryasukhārogyadhanadhānya, jayādikaṃ*), the marks are knowledge, prosperity, happiness, health, wealth, grain and victory; the intent conveyed by the word लक्ष्मी (*lakṣmī*) is that she is endowed with these, that is, one who gives these to her devotees.
+
+जातवेदः (*jātavedaḥ*)—Agni who knows everything: the all-knowing. Or else, one who is propounded in the Vedas. In the Mahābhārata:
+
+### Printed p. 281
+
+वेदास्तद्वदर्थं जाताश्च जातवेदास्ततो ह्यसि (*vedāstadvadarthaṃ jātāśca jātavedāstato hyasi*)
+
+so it is said. That is, O Agni, the Vedas have come into being for thee, that is, for the praise of thee; therefore thou art famed by the name जातवेदाः (*jātavedāḥ*): this is the intent. In this Ṛk the prayer is made to Agni, the Sacrifice-Person: "O Agni, bring Lakṣmī to me, for bestowing grace on me."
+
+In the work called मंत्रकल्पावर्ण (*maṃtrakalpāvarṇa*) it is said thus:
+
+**मंत्रकल्याणवे (*maṃtrakalyāṇave*)** **NOTE**
+
+हिरण्यवर्णामित्युक्तां श्रीसूक्ते प्रथमामृचं । श्रीं ह्रीं क्षीमिति विन्यस्य हिरण्यप्रतिमां यजेत् ॥ लक्ष्मीं संपूज्य हारिद्रचूर्णसौवर्णपंकजैः । राजतैः पुंडरीकैश्च पूजयेद्दास्सुवासिनीः ।' पूर्णॆंदौ पूर्णकुंभे वा ध्यात्वा नारायणीं परां । प्राप्याक्षमालां सौवर्णीं कमलासनसंस्थितः ॥ (*hiraṇyavarṇāmityuktāṃ śrīsūkte prathamāmṛcaṃ | śrīṃ hrīṃ kṣīmiti vinyasya hiraṇyapratimāṃ yajet ‖ lakṣmīṃ saṃpūjya hāridracūrṇasauvarṇapaṃkajaiḥ | rājataiḥ puṃḍarīkaiśca pūjayeddāssuvāsinīḥ | ' pūrṇèṃdau pūrṇakuṃbhe vā dhyātvā nārāyaṇīṃ parāṃ | prāpyākṣamālāṃ sauvarṇīṃ kamalāsanasaṃsthitaḥ ‖*)
+
+ऋचं तु प्रजपेदाद्यां प्रत्यहं त्रिसहस्रकं । त्रि संध्यमेवं लक्षांते क्षीरैरयुततर्पणं ॥ सहस्रमाज्य होमश्च शतब्राह्मणभोजनं । सुवासिनीनां दशकं सालंकारमथार्चयेत् ॥ एकां धेनुं सवत्सां च शोत्रियाय प्रदापयेत् । (*ṛcaṃ tu prajapedādyāṃ pratyahaṃ trisahasrakaṃ | tri saṃdhyamevaṃ lakṣāṃte kṣīrairayutatarpaṇaṃ ‖ sahasramājya homaśca śatabrāhmaṇabhojanaṃ | suvāsinīnāṃ daśakaṃ sālaṃkāramathārcayet ‖ ekāṃ dhenuṃ savatsāṃ ca śotriyāya pradāpayet |*)
+
+इत्थमक्षरलक्षांतं यो जपेन्नियतव्रतः ॥ हिरण्यपूर्णस्तेजस्वी धनाढ्यो भोगभाग्यवान् । जीवेच्चिरं शरीरांते चंद्रसायुज्यमाप्नुयात् ॥ (*itthamakṣaralakṣāṃtaṃ yo japenniyatavrataḥ ‖ hiraṇyapūrṇastejasvī dhanāḍhyo bhogabhāgyavān | jīvecciraṃ śarīrāṃte caṃdrasāyujyamāpnuyāt ‖*)
+
+##### Anuvāda
+
+In the Śrī-sūkta, हिरण्यवर्णां (*hiraṇyavarṇāṃ*) is the first Ṛk. When this mantra is to be recited, nyāsa and the rest are to be performed together with the seed-syllables श्रीं ह्लीं क्लीं (*śrīṃ hlīṃ klīṃ*) **NOTE**; an image made of gold is to be set up, and the deity called Lakṣmī is to be invoked in it and worshipped with turmeric, kuṅkuma, lotus flowers made of gold, lotus flowers made of silver, flowers of many kinds, fragrant substances and the like. And cows and married women (suvāsinī) are to be honoured according to one's ability. One should meditate on this Lakṣmī as abiding in the full moon; or one should invoke Lakṣmī in a pot filled with pure water and meditate. Thereafter, holding a rosary in the hand, seated in the lotus posture, meditating on this goddess as made of gold, one should recite the first Ṛk of this sūkta, हिरण्यवर्णां (*hiraṇyavarṇāṃ*), every day in the morning, at noon and in the evening,
+
+### Printed p. 282
+
+up to three thousand in number a day. When one lakh of recitations has been completed in this way, a libation (tarpaṇa) of milk is to be given. In the fire that has been duly installed and consecrated, one thousand oblations of ghee are to be offered. A hundred Brahmins are to be fed. Ten married women are to be honoured and satisfied with ornaments of many kinds, and with garments and jewels. Afterwards a fine cow with her calf, well adorned, is to be given to a Brahmin learned in the Veda (śrotriya). The man who, by this procedure, with restraint, recites as many lakhs as there are syllables in the mantra will obtain gold as he wishes. Becoming radiant and wealthy, he will enjoy all pleasures. Having a long life, living for a long time, at the end he will attain the excellent state called union with the moon (candra-sāyujya).
+
+Here ends the explanation of the meaning of the first Ṛk.
+
+#### Ṛk 2
+
+अस्य श्रीसूक्तद्वितीय ऋङ्महामंत्रस्य । जातवेदा ऋषिः । श्रीराज्यलक्ष्मीर्देवता । अनुष्टुप् छंदः । श्रीं बीजं । ह्रीं शक्तिः । क्लीं कीलकं । मम राज्यलक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ ओं श्रीं तां म आवह—अंगुष्ठाभ्यां नमः । (*asya śrīsūktadvitīya ṛṅmahāmaṃtrasya | jātavedā ṛṣiḥ | śrīrājyalakṣmīrdevatā | anuṣṭup chaṃdaḥ | śrīṃ bījaṃ | hrīṃ śaktiḥ | klīṃ kīlakaṃ | mama rājyalakṣmīprasādasiddhyarthe jape viniyogaḥ ‖ oṃ śrīṃ tāṃ ma āvaha—aṃguṣṭhābhyāṃ namaḥ |*)
+
+ओं ह्रीं जातवेदो लक्ष्मीं—तर्जनीभ्यां नमः । ओं क्लीं अनपगामिनीं—मध्यमाभ्यां नमः । ओं क्ली यस्मां हिरण्यं विंदेयं—अनामिकाभ्यां नमः । ओं ह्रीं गामश्वं—कनिष्ठिकाभ्यां नमः । ओं श्रीं पुरुषानहं —करतलकरसृष्टाभ्यां नमः ओं श्रीं तां म आवह हृदयाय नमः । ओं ह्रीं जातवेदोलक्ष्मीं—शिरसे स्वाहा । ओं क्लीं अनपगामिनीं शिखाय्कॆ वषट् । ओं क्लीं यस्मां हिरण्यं विंदेयं— कवचाय हुं । ओं ह्रीं गामश्वं—नेत्रत्रयाय वषट् । ओं श्रीं पुरुषानहं— अस्त्राय फट् । (*oṃ hrīṃ jātavedo lakṣmīṃ—tarjanībhyāṃ namaḥ | oṃ klīṃ anapagāminīṃ—madhyamābhyāṃ namaḥ | oṃ klī yasmāṃ hiraṇyaṃ viṃdeyaṃ—anāmikābhyāṃ namaḥ | oṃ hrīṃ gāmaśvaṃ—kaniṣṭhikābhyāṃ namaḥ | oṃ śrīṃ puruṣānahaṃ —karatalakarasṛṣṭābhyāṃ namaḥ oṃ śrīṃ tāṃ ma āvaha hṛdayāya namaḥ | oṃ hrīṃ jātavedolakṣmīṃ—śirase svāhā | oṃ klīṃ anapagāminīṃ śikhāykè vaṣaṭ | oṃ klīṃ yasmāṃ hiraṇyaṃ viṃdeyaṃ— kavacāya huṃ | oṃ hrīṃ gāmaśvaṃ—netratrayāya vaṣaṭ | oṃ śrīṃ puruṣānahaṃ— astrāya phaṭ |*)
+
+भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं । केयूरैर्मेखलाद्यैर्नवमणिखचितैर्भूषणैर्भासमानां कर्पूरामोदवक्रामपरिमितकृपापूर्णनेत्रागविंदां । हेमाभां दिव्यवस्त्रं मृगमदतिलकां पद्मवक्रामुदारां श्रीलक्ष्मीं पद्महस्तां नतजनवरदां सर्वभूतै नमामि (*bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ | keyūrairmekhalādyairnavamaṇikhacitairbhūṣaṇairbhāsamānāṃ karpūrāmodavakrāmaparimitakṛpāpūrṇanetrāgaviṃdāṃ | hemābhāṃ divyavastraṃ mṛgamadatilakāṃ padmavakrāmudārāṃ śrīlakṣmīṃ padmahastāṃ natajanavaradāṃ sarvabhūtai namāmi*)
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+ओं तां म आवह जातवेदो लक्ष्मीमनपगामिनीं । यस्यां हिरण्यं विंदेयं गामश्वं पुरुषानहं ॥ (*oṃ tāṃ ma āvaha jātavedo lakṣmīmanapagāminīṃ | yasyāṃ hiraṇyaṃ viṃdeyaṃ gāmaśvaṃ puruṣānahaṃ ‖*)
+
+### Printed p. 283
+
+**Bhāṣya of Śrīnivārāṇya**
+
+हे जातवेदः अनपगामिनीमपगमनरहितां अनपायिनीमित्यर्थः । तां वक्ष्यमाणां लक्ष्मीं मे मह्यमावह आह्वय । यस्यां श्रीदेव्यामाहूतायां सत्यां हिरण्यं सुवर्णं गां धेनुमश्वं वाजिनं पुरुषान् पुत्रमित्रदासभूतान् अहं विंदेयं प्राप्नुयां ॥ (*he jātavedaḥ anapagāminīmapagamanarahitāṃ anapāyinīmityarthaḥ | tāṃ vakṣyamāṇāṃ lakṣmīṃ me mahyamāvaha āhvaya | yasyāṃ śrīdevyāmāhūtāyāṃ satyāṃ hiraṇyaṃ suvarṇaṃ gāṃ dhenumaśvaṃ vājinaṃ puruṣān putramitradāsabhūtān ahaṃ viṃdeyaṃ prāpnuyāṃ ‖*)
+
+**Bhāṣya of Pṛthvīdharācārya**
+
+हे जातवेदः श्रुताग्ने यस्यां लक्ष्म्यमागतायां सत्यां आहं पुरुषान् पुत्रादीन् गां पशून् अश्वं तुरगादिवाहनविशेषान् हिरण्यं कनकादिवस्तूनि विंदेयं लभेयं तामनपगामिनीं कदाचिदपि मां त्यक्त्या अन्यत्र गंतुमनुद्युक्तां मदेकाश्रयनिष्ठां लक्ष्मीं मे मदर्थमावह प्रेषय ॥ (*he jātavedaḥ śrutāgne yasyāṃ lakṣmyamāgatāyāṃ satyāṃ āhaṃ puruṣān putrādīn gāṃ paśūn aśvaṃ turagādivāhanaviśeṣān hiraṇyaṃ kanakādivastūni viṃdeyaṃ labheyaṃ tāmanapagāminīṃ kadācidapi māṃ tyaktyā anyatra gaṃtumanudyuktāṃ madekāśrayaniṣṭhāṃ lakṣmīṃ me madarthamāvaha preṣaya ‖*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेद: (*jātaveda:*)—O Agni
+- अनपगामिनीं (*anapagāminīṃ*)—she who never leaves me, that is, who abides firmly in my house
+- तां (*tāṃ*)—the famed
+- लक्ष्मीं (*lakṣmīṃ*)—the goddess Śrī named Lakṣmī
+- मे (*me*)—for graciously favouring me
+- आ वह (*ā vaha*)—bring
+- यस्यां (*yasyāṃ*)—when which goddess has come to me
+- अहं (*ahaṃ*)—I
+- हिरण्यं (*hiraṇyaṃ*)—gold
+- गां (*gāṃ*)—cows
+- अश्वं (*aśvaṃ*)—horses
+- पुरुषान् (*puruṣān*)—people such as sons, grandsons and servants
+- विंदेयं (*viṃdeyaṃ*)—may I obtain; (तां लक्ष्मीं मे अवन (*tāṃ lakṣmīṃ me avana*)—bring such a goddess to my presence.)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring near me the goddess Śrī who bears the name Lakṣmī, of such great glory that, when she comes to my house, by her grace I shall obtain gold, wealth of cows, wealth of horses, sons, grandsons, servants and the like, all of these.
+
+##### विशेषविषयगळु (Special Topics)
+
+**Cidvilāsa-vṛtti**
+
+तां हिरण्यवर्णत्वादिलक्षणोपेतामनपगामिनीं विष्णोरनपायिनीं लक्ष्मीं— राघवत्वे भवत्सीता रुक्ष्मिणी कृष्णजन्मनि । अन्येष्वप्यवतारेषु विष्णोरेवानपायिनी ॥ इति पराशरपुराणान् ॥ (*tāṃ hiraṇyavarṇatvādilakṣaṇopetāmanapagāminīṃ viṣṇoranapāyinīṃ lakṣmīṃ— rāghavatve bhavatsītā rukṣmiṇī kṛṣṇajanmani | anyeṣvapyavatāreṣu viṣṇorevānapāyinī ‖ iti parāśarapurāṇān ‖*)
+
+आवहेति जातवेदसं प्रार्थयेत् । आगतायां च तस्यां किं ते फलमिति चेदुच्यते-यस्यामिति । यस्यामागतायां हिरण्यं गामश्वं पुरुषांश्चाहं (*āvaheti jātavedasaṃ prārthayet | āgatāyāṃ ca tasyāṃ kiṃ te phalamiti ceducyate-yasyāmiti | yasyāmāgatāyāṃ hiraṇyaṃ gāmaśvaṃ puruṣāṃścāhaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 277. Śrī-sūkta appendix: end of Ṛk 1 Pratipadārtha, Special Topics, Kṛṣṇadharācārya bhāṣya, Śrīkaṇṭha-bhāṣya quotation and anuvāda
+**Progress note:** Done through printed p. 283. Śrī-sūkta appendix: Śatānanda-vṛtti, Mantrakalpārṇava, end of Ṛk 1, start of Ṛk 2
