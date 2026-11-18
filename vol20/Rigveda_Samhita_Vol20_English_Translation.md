@@ -8398,6 +8398,234 @@ In his dwelling in the heavenly world his worshippers have dealings with him. Th
 
 Let us understand what Varuṇa's real position is and what his nature is. From what is known so far, this much is certain: Varuṇa and Mitra are connected with the sun. Varuṇa is connected with it more than Mitra. Compared with Varuṇa, Mitra has, as it were, no personality at all. Mitra is a deity-planet belonging to the solar system. Varuṇa must reflect another aspect of nature. The root व्य (*vya*) **NOTE** which is the basis of the word वरुण (*varuṇa*) means "to cover". From that, Varuṇa means one who covers, or the act of covering. Therefore by the word Varuṇa the visible vault (of the sky) can be understood. If this object is understood by the word Varuṇa, there is room for all the works done by Varuṇa. It is a great thing, far vaster than the sun. Between the sun and Varuṇa there is a close kinship; without space one cannot even think of the sun's disc. The sun is the eye of Varuṇa; this eye (the sun) informs Varuṇa of everything that goes on in the world; Varuṇa is far-sighted; the world is within Varuṇa's view both by day and by night; and all such things fit. Moreover, no one else can attain sovereignty (संराजत्व (*saṃrājatva*)) as easily as the sky; for the sun and other masses of radiance
 
+### Printed p. 230
+
+all of them have it as their support. That the sky, which lies far above the earth, and which by day and night keeps in view all things moving and unmoving, is a deity who is a ruler whose commands cannot be transgressed, is not hard to imagine.
+
+(The introduction is concluded.)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सम्राज इत्यष्टर्चं त्रयोदशं सूक्तमात्रेयं त्रैष्टुभं वारुणं ।
+> अनुक्रम्यते च । प्र सम्राजेऽष्ट् वारुणमिति । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning प्र सम्राज (*pra samrāja*), has eight Ṛks and is the thirteenth sūkta. Its seer is Atri (Ātreya), its metre is Triṣṭubh, and its deity is Varuṇa. In the Anukramaṇī it is described thus: प्र सम्राजेऽष्ट् वारुणमिति (*pra samrāje 'ṣṭ vāruṇamiti*). Its ritual use (viniyoga) is by indication (laiṅgika).
+
+Translation: The sūkta प्र सम्रेजे (*pra samreje*) is the thirteenth sūkta in the sixth anuvāka. It has eight Ṛks. Atri is the seer of this sūkta; Varuṇa is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said: प्र सम्रेजेऽष्ट् वारुणं (*pra samreje 'ṣṭ vāruṇaṃ*). The ritual use is by indication.
+
+Sūkta 85. Maṇḍala 5; Anuvāka 6. Aṣṭaka 4; Adhyāya 4; Varga 30, 31. Number of Ṛks in the sūkta: 8. Seer: Atri. Deity: Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒म्राजे॑ बृ॒हद॑र्चा गभी॒रं ब्रह्म॑ प्रि॒यं वरु॑णाय  ॒॑
+> श्रुताय ।  
+> वि यो ज॒घान॑ शमि॒तेव॒ चर्मो॑प॒स्तिरे॑ पृथि॒वीं सूर्या॑य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । संराजे । बृहत् । अर्च । गभीरं । ब्रह्म । प्रियं । वरुणाय , श्रुताय ।  
+> वि । यः । जघान । शमिताइव । चर्म । उपस्थिरे । पृथिवीं । सूर्याय ॥ १ ॥
+
+### Printed p. 231
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रिः स्वात्मानं संबोध्य ब्रवीति । हे अत्रे त्वं सम्राजे सम्यग्राजमानायेश्वराय श्रुताय सर्वत्र श्रूयमाणाय वरुणायोपद्रवस्य निवारकाय
+> जनानामावरकायैतन्नामकाय देवाय बृहत् प्रभूतं गभीरं दुरवगाहं
+> बह्वर्थोपेतं प्रियं प्रियभूतं ब्रह्म स्तोत्ररूपं कर्म प्रार्थ । प्रार्थय ।
+> प्रोच्चारयेत्यर्थः । यो वरुणः शमितेव चर्म शमिता पशुविशसनकर्ता यथोपस्तरणायि चर्म हंति तद्वत्पृथिवीं विस्तीर्णमंतरिक्षं ॥ तृतीयस्यां पृथिव्यामिति
+> श्रुतेरंतरिक्षस्यापि पृथिवीशब्दवाच्यत्वं ॥ सूर्याय सूर्यस्कोपस्तिय आस्तरणाय
+> वि जघान विस्तारयामास । विस्तृतं हि व्यवहारयोग्यं भवति तस्माद्व्यवहारायांतरिक्षं विस्तारितवान् । उरुं हि राजा वरुणश्चकार । ऋग्वे. १-२४-८ । इति ह्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+Atri addresses himself: "O Atri, offer a prayer to Varuṇa." Varuṇa is the sovereign, that is, the lord who shines well; renowned, that is, heard of everywhere; the warder-off of calamity, or, in the other sense, the one who covers people, this being the meaning of his name. The prayer to be offered is a great, that is, abundant, profound, that is, hard to fathom and rich in meanings, dear, that is, pleasing, act of praise in the form of a hymn; "offer" means "pray" or "utter aloud". This is the Varuṇa who, as the slaughterer who cuts up the animal spreads out a hide as a spread, has spread out the earth, that is, the broad firmament. On the strength of the śruti that speaks of "the third earth", the word for earth can also denote the firmament. For the sun's spreading he has stretched it out. What is spread out becomes fit for use, so he spread out the firmament for use. This is stated in the verse उरुं हि राजा वरुणश्चकार (*uruṃ hi rājā varuṇaścakāra*) (Ṛgve. 1-24-8). **NOTE** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शमिता (*śamitā*)—the śamitṛ, who cuts up animals
+- चर्म इव (*carma iva*)—as one spreads out a hide
+- यः (*yaḥ*)—which Varuṇa
+- सूर्याय (*sūryāya*)—of the sun
+- उपस्थिरे (*upasthire*)—for the movement
+- पृथिवीं (*pṛthivīṃ*)—the firmament
+- वि जघान (*vi jaghāna*)—has spread out and extended
+- सम्रजे (*samraje*)—who shines as a sovereign
+- श्रुताय (*śrutāya*)—and is renowned
+- वरुणाय (*varuṇāya*)—to the god Varuṇa
+- बृहत् (*bṛhat*)—abundant
+- गभीरं (*gabhīraṃ*)—endowed with exceedingly profound meanings
+- प्रियं (*priyaṃ*)—pleasing
+- ब्रह्म (*brahma*)—the hymn of praise
+- प्र अर्च (*pra arca*)—recite and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Atri, to the god Varuṇa, who shines as a sovereign and is renowned, and who has spread out and extended the firmament for the sun's movement, as the slaughterer who cuts up animals spreads out a hide, recite and offer a hymn of praise that is abundant, endowed with exceedingly profound meanings, and pleasing.
+
+##### English translation
+Offer a solemn, profound, and acceptable prayer to the imperial and renowned Varuna, who has spread the firmament as a bed for the sun, as the immolator (spreads) the skin of the victim.
+
+##### विशेषविषयगळु (Special Topics)
+
+शमिता चर्म इव (*śamitā carma iva*)—as the slaughterer who cuts up animals spreads out the hide of the animal. In a sacrifice, the one who kills the animal and cuts it up is called the slaughterer (śamitṛ). After an animal has been killed in the sacrifice,
+
+### Printed p. 232
+
+the slaughterer spreads out that animal's hide wide in the sun, in order that it may dry. Putting this spreading wide as the simile, the text describes Varuṇa's unequalled power: he spread out the firmament wide, so that it became vast, for the sun's movement. In support of this the Ṛk उरुं हि राजा वरुणश्चकार सूर्याय पंथामन्वेतवा उ॥ (*uruṃ hi rājā varuṇaścakāra sūryāya paṃthāmanvetavā u‖*) is cited. (Ṛ. Saṃ. 1-24-8)
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वने॑षु॒ व्य१॒ं॑ंतरि॑क्षं ततान॒ वाज॒मर्व॑त्सु॒ पय॑ उ॒स्रिया॑सु ।  
+> हृ॒त्तु क्रतुं॒ वरु॑णो अ॒प्स्व१॒॑ग्निं दि॒वि सूर्य॑मदधा॒त्सोम॒मद्रौ॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वनेषु । वि । अंतरिक्षं । ततान । वाजं । अर्वत्सु । पयः । उस्रियासु ।  
+> हृत्सु । क्रतुं । वरुणः । अप्सु । अग्निं । दिवि । सूर्यं । अदधात् । सोमं ।  
+> ।  
+> आद्रॆ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वरुणो वनेषु वृक्षाग्रेष्ट्यंतरिक्षं वि ततान । विस्तारितवान् । तथा
+> वाजसनेयकं । वनेषु हीदमेषु वृक्षाग्रेष्ट्यंतरिक्षं विततं तस्मादाह वनेषु
+> व्यंतरिक्षं ततानेति । वाजं बलमर्वत्स्वश्वेषु वि ततान । पयः क्षीरमुस्रियासु
+> गोसु । उस्रियेति गोनाम । उत्साविणोऽस्यां भोगा इति तद्व्युत्पत्तिः । हृत्तु
+> हृदयेषु क्रतुं कर्मसंकल्पं । यद्दि मनसा ध्याययति तत्कर्मणा करोति ।
+> अप्सूदकेष्टग्निं वैद्युतमौर्वं वा । सर्वत्र वि ततानेति संबंधः । किंच दिवि
+> द्युलोके सूर्यमदधात् । स्थापितवान् । सोमं चाद् पर्वतेऽवधात् ॥
+
+##### Gist of the bhāṣya
+
+This Varuṇa has spread out the firmament over the tops of the trees (the woods). The Vājasaneyaka text has: वनेषु हीदमेषु वृक्षाग्रेष्ट्यंतरिक्षं विततं तस्मादाह वनेषु व्यंतरिक्षं ततानेति । (*vaneṣu hīdameṣu vṛkṣāgreṣṭyaṃtarikṣaṃ vitataṃ tasmādāha vaneṣu vyaṃtarikṣaṃ tatāneti |*) **GLOSS** Strength he has spread in the horses; milk, that is, the liquid, in the cows. The word for cow here is a name of the cow, and a derivation of it is given. In the hearts he has spread the resolve, that is, the purpose of action; for what one meditates on in the mind, one does in act. In the waters he has placed fire, that is, the lightning fire or the submarine fire. "Has spread out" is to be connected with all of these. Moreover, in heaven, the world of the sky, he has set the sun, and on the mountain he has placed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—that famous god Varuṇa
+- वनेषु (*vaneṣu*)—in the upper parts of trees
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- वि ततान (*vi tatāna*)—has spread out
+- आर्वत्सु (*ārvatsu*)—in horses
+- वाजं (*vājaṃ*)—strength (has spread out)
+
+### Printed p. 233
+
+- उस्रियासु (*usriyāsu*)—in cows
+- पयः (*payaḥ*)—milk
+- हृत्सु (*hṛtsu*)—in hearts
+- क्रतुं (*kratuṃ*)—the resolve that prompts action
+- अप्पु (*appu*)—in the waters
+- अग्निं (*agniṃ*)—fire
+- दिवि (*divi*)—in the heaven
+- सूर्यं (*sūryaṃ*)—the sun
+- आदधात् (*ādadhāt*)—has placed
+- अदौ (*adau*)—on the mountain
+- सोमं (*somaṃ*)—Soma (has placed)
+
+##### भावार्थ (Bhāvārtha)
+
+In the upper parts of the well-known trees he has spread out the firmament, in horses strength, in cows milk, and in hearts the resolve that prompts action. In the waters he has placed fire, in the heaven the sun, and on the mountain Soma.
+
+##### English translation
+He has extended the firmament over the tops of the trees, has given strength to horses, milk to cows, determination to the heart : he has placed fire in the waters, the sun in heaven, the Soma-plant in the mountain.
+
+##### विशेषविषयगळु (Special Topics)
+
+वनेषु वि अंतरिक्षं ततान (*vaneṣu vi aṃtarikṣaṃ tatāna*)—he made the firmament spread out over the tops of the trees. That is, to the people on the earth the firmament appears to rest on the tops of the trees. It is described as his having made it spread out. And the one who has set strength in the horses, milk in the cows, resolve in the mind, fire in the water, the sun in the firmament, and the Soma plants in the mountain region is Varuṇa himself. Therefore it is described that Varuṇa's power is exceedingly great.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नी॒चीन॑बारं॒ वरु॑णः॒ कबं॑धं॒ प्र स॑सर्ज॒ रोद॑सी अं॒तरि॑क्षं ।  
+> तेन॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॒ यवं॒ न वृ॒ष्टिव्यु॑र्वनत्ति॒ भूम॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नीचीनबारं । वरुणः । कबंधं । प्र । ससर्ज । रोदसी इति । अंतरिक्षं ।  
+> तेन । विश्वस्य । भुवनस्य । राजा । युवं । न । वृष्टिः । वि । उनत्ति । भूम ॥ ३ ॥
+
+### Printed p. 234
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नीचीनबारमधोमुखबिलं प्र ससर्ज । कृतवान् । कं । कवंधं । कवनमुदकं । तद्धीयतेऽत्रेति कवंधो मेघः । तं तथाकरोत् । अथवा कवंधमुदकं ।
+> तदुदकं नीचीनबारं नीचीननिर्गमनबिलं चकार । मेघं विदार्योदकमधोमुखं चकारेत्यर्थः । किं प्रतीत्युच्यते । रोदसी द्यावापृथिव्यावंतरिक्षं च प्रति ।
+> लोकत्रयहितायेत्यर्थः । तेनोदकेन विश्वस्य सर्वस्य भुवनस्य भूतजातस्य राजा
+> स्वामी वरुणो भूम भूमिं व्युनत्ति । क्लेदयति । वृष्टिः सेक्ता पुमान्यवं न
+> यवमिव यवान्यथा प्ररोहाय सर्वत्र प्रसारयति तद्वद्दूमिं सर्वत्तोनत्ति ।
+> अथवा वृष्टिर्वरुण इति संबंधः । वर्षकः पर्जन्य इत्यर्थः । अस्मिन्पक्षे यवं पुरुष
+> इवेति पुरुषशब्दोऽध्याहार्यः । अत्त नीचीनबारं वरुणः कवंधं । नि. १०-४ ।
+> इत्यादिनिरुक्तं द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa has made the cloud, whose opening is turned downward, pour forth. What is it? It is the कवंधं (*kavaṃdhaṃ*): water is called kavana, and that in which it is held is the cloud; he made it so. Or else the water itself is meant: he made that water have a downward outlet; that is, splitting the cloud, he made the water face downward. For whom? It is said: for the heaven-and-earth and the firmament, that is, for the welfare of the three worlds. By that water Varuṇa, the lord of the whole world, that is, of all that has come to be, wets the earth, that is, drenches it. As the rain, the sprinkling male, spreads barley everywhere for its sprouting, so he wets the earth everywhere. Or else the rain is Varuṇa himself, that is, the rainer, Parjanya; on this view the word "man" is to be supplied: as a man (sows) barley. The Nirukta (Ni. 10-4) and the like are to be seen. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- रोदसी (*rodasī*)—for the sake of heaven-and-earth
+- अंतरिक्षं (*aṃtarikṣaṃ*)—and for the sake of the firmament
+- कबंधं (*kabaṃdhaṃ*)—the cloud
+- नीचीनबारं (*nīcīnabāraṃ*)—facing downward
+- प्रससर्ज (*prasasarja*)—made it pour out water
+- वृष्टिः (*vṛṣṭiḥ*)—the rain
+- यवं न (*yavaṃ na*)—as it drenches barley grain
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of the whole world
+- राजा (*rājā*)—Varuṇa, the lord
+- तेन (*tena*)—with this same water
+- भूम (*bhūma*)—the earth
+- व्युनत्ति (*vyunatti*)—drenches
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa, for the sake of heaven-and-earth and of the firmament, made the cloud pour out water downward. As the rain thoroughly drenches barley grain, so Varuṇa, the lord of the whole world, drenches the earth with this same water.
+
+##### English translation
+Varuna has set free the (water of the) downward opening cloud for the (benefit of the) heaven, the earth, and the firmament; thence is ne monarch of all the world, watering the soil as the rain bedews the barley.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation of this Ṛk: नीचीनद्वारं वरुणः कबंधं मेघं । कवनमुदकं भवति तदस्मिन् धीयते उदकमपि कबंधमुच्यते बंधिरनिभृतत्वे कमनिभृतं च प्रसृजति द्यावा पृथिव्यौ चांतरिक्षं च महत्वेन तेन सर्वस्य भुवनस्य राजा यवनिव वृष्टिर्व्युनत्ति भूमिं ॥ (*nīcīnadvāraṃ varuṇaḥ kabaṃdhaṃ meghaṃ | kavanamudakaṃ bhavati tadasmin dhīyate udakamapi kabaṃdhamucyate baṃdhiranibhṛtatve kamanibhṛtaṃ ca prasṛjati dyāvā pṛthivyau cāṃtarikṣaṃ ca mahatvena tena sarvasya bhuvanasya rājā yavaniva vṛṣṭirvyunatti bhūmiṃ ‖*) (Ni. 10 4)
+
+### Printed p. 235
+
+नीचीनबारं (*nīcīnabāraṃ*) means नीचीनद्वारं (*nīcīnadvāraṃ*), facing downward; since the cloud, being in the lofty firmament, pours rain upon the earth below, it is described that the mouth or door of the cloud faces downward. कवन (*kavana*) means water; the place in which such water is bound and kept is called कबंध (*kabaṃdha*), that is, the cloud. Or कबंध (*kabaṃdha*) may also be understood to mean water. For the state in which water, whose nature is to spread out or flow away, is bound and made to remain in one place is called water or cloud. Varuṇa makes a door in the lower part of such a cloud and makes its waters fall downward upon the earth. Besides, that same Varuṇa creates (builds) heaven-and-earth and the firmament. That lord of all the worlds, by his own great majesty, drenches the earth with waters, as water soaks the seedlings of barley. This is the main idea.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒नत्ति॒ भूमिं॑ पृथि॒वीमु॒त द्यां य॒दा दु॒ग्धं वरु॑णो॒  
+> वष्ट्यादित् ।  
+> सम॒भ्रेण॑ वसत॒ पर्व॑तासस्तविषी॒यंतः॑ श्रथयंत वी॒राः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उनत्ति । भूमिं । पृथिवीं । उत । द्यां । यदा । दुग्धं । वरुणः । वष्टि । आत् ।  
+> इत् ।  
+> सं । अभ्रेण । वसत । पर्वतासः । तविषीयंतः । श्रथयंत । वीराः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणो भूमिं पृथिवीं प्रथितमंतरिक्षं । अंतरिक्षस्यापि पृथिवीशब्दवाच्यत्वं
+> पूर्वमुक्तं । उतापि च द्यां म्युलोकमुनत्ति । क्लेदयति । यदायं दुग्धमुदकपूरणं वष्टि कामयतेः । अथवा दुग्धमुदकं तेन तत्कार्यमोषध्यादिकं लक्ष्यते!
+> ओषध्यादयः प्रवर्धंतामिति यदा कामयते आदिदनंतरमेव सं वसत ! समाच्छादयंति । के । पर्वतासः पर्ववंतोऽद्रयः । केन । अभ्रेण मेघेन । किंचॆ
+> तनिषीयंतो बलमिच्छंतो वीरा विशेषेण वृष्टेः प्रेरयितारो मरुतः
+> श्रथयंत । श्रथयंति मेघान् ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa wets the earth, that is, the broad firmament; that the firmament too can be denoted by the word for earth has been stated before. And he wets also heaven, the world of the sky. When he desires the milked, that is, the fullness of water, or else when "milked" means the water, and by it its product, plants and the like, is indicated; when he desires that the plants and the like may grow, then immediately after that, the mountains, that is, the rocky heights that have ridges, cover themselves with the cloud. Moreover, the Maruts, the heroes, desiring strength, **NOTE**, and specially the impellers of the rain, loosen the clouds.
+
 ---
 
-**Progress note:** Done through printed p. 229. Varuna introduction continued, pp. 224-229 (prose only, no blocks)
+**Progress note:** Done through printed p. 235. Sūkta 85 (Atri, Varuṇa), Ṛk 1-3 and bhāṣya of Ṛk 4
