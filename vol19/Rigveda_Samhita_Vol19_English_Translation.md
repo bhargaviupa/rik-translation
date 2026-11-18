@@ -14567,6 +14567,104 @@ With what praise shall I worship the Maruts, who are exceedingly generous? Or: w
 ##### English translation
 How may be (duly) worship the liberal (Maruts) with praise, how adore the Maruts with present praise in a fitting manner, the glorious Maruts with present praise? may Ahirbudhnya contrive not for our harm ; may he be the destroyer (of our enemies).
 
+### Printed p. 385
+
+##### विशेषविषयगळु (Special Topics)
+
+The Nirukta-writers regard the deity named Ahirbudhnya as a deity of the middle region (antarikṣa). The word *ahi* ordinarily means a serpent; it is read among the names of the cloud and also among the names of water (Ni. 2-21; 2-24). But when the nature of the deity Ahirbudhnya is to be stated, what connection is there between the cloud and water? And what is the reason that this deity bears this name? These questions must be examined.
+
+For the word *ahi* alone, the Nirukta-writers give the derivation अहिः अयनात् एति अंतरिक्षे (*ahiḥ ayanāt eti aṃtarikṣe*), that is, because it moves about in the middle region, the cloud is the meaning of *ahi*; and then अयमपीतरोऽहिरेतस्मादेव निर्ह्रसित उपसर्ग आहंतीति । (*ayamapītaro 'hiretasmādeva nirhrasita upasarga āhaṃtīti |*): in the sense of a serpent too the derivation is the same. But the meaning "one that strikes with its hood" is also possible; (आहंत्यसौ भोगेन इत्यादिः (*āhaṃtyasau bhogena ityādiḥ*), Durga), so they have explained another meaning as well. In the same context they cite the mantra
+
+दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः (*dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ*) (Ṛ. Saṃ. 1-32.11)
+
+and explain the word अहिगोपाः (*ahigopāḥ*) there as "those who guard the clouds". That is, here the word *ahi* means Vṛtra. But the word *ahi* is also used in the sense of a particular deity. For example—
+
+उत नोऽहिर्बुध्न्यो ३ मयस्कः शिशुं न पिप्युषीव वेति सिंधुः । येन नपातमपां जुनाम मनोजुवो वृषणो यं वहंति ॥ (*uta no 'hirbudhnyo 3 mayaskaḥ śiśuṃ na pipyuṣīva veti siṃdhuḥ | yena napātamapāṃ junāma manojuvo vṛṣaṇo yaṃ vahaṃti ‖*) (Ṛ. Saṃ. 1-186-5)
+
+Here Sāyaṇa has explained the word *ahi* as meaning a particular deity, and has shown the derivation अहिः अंतरिक्षगामी अहंता ना अहीनो वा अहन्यमानो ना एतन्नामको देवः (*ahiḥ aṃtarikṣagāmī ahaṃtā nā ahīno vā ahanyamāno nā etannāmako devaḥ*). The nature of this derivation was explained earlier, when the purport of this cited Ṛk was set out. And the word बुध्नः (*budhnaḥ*) here is to indicate the place of this deity: बुध्नं अंतरिक्षं तदर्हतीति बुध्नः अंतरिक्षचारी एतन्नामको देवः । (*budhnaṃ aṃtarikṣaṃ tadarhatīti budhnaḥ aṃtarikṣacārī etannāmako devaḥ |*). The purport is: the deity of this name who moves in the middle region. What the individual nature of this deity who moves in the middle region is, is the chief matter to be examined. The Nirukta-writers have stated the derivation of this word thus:
+
+अहिर्बुध्न्यः । योऽहिः स बुध्यो बुध्नमंतरिक्षं । तन्निवासात् । (*ahirbudhnyaḥ | yo 'hiḥ sa budhyo budhnamaṃtarikṣaṃ | tannivāsāt |*) (Ni. 10-44)
+
+### Printed p. 386
+
+*Budhna* means the middle region. How so? बुद्धमंतरिक्षं बद्धा अस्मिन् ; धृता आप इति ना । इदमपीतरद्बुध्नमेतस्मादेव । बद्धा अस्मिन् धृताः प्राणा इति । (*buddhamaṃtarikṣaṃ baddhā asmin ; dhṛtā āpa iti nā | idamapītaradbudhnametasmādeva | baddhā asmin dhṛtāḥ prāṇā iti |*).**NOTE** Because it holds the waters, the middle region is called *budhna*. In the present context, the Nirukta-writers have shown only the deity's place of abode, namely that this deity is called Ahirbudhnya because he dwells in the middle region; they have not stated the individual nature of this deity. But first it must be examined whether any particulars on this matter are found in the passages of the Ṛk-saṃhitā.
+
+अब्बा मुक्कैरहिं गृणीषे बुद्धे नदीनां रर्जसु षीदन् । मा नोऽहिर्बुध्यो रिषे धान्मा यज्ञो अस्य स्रिधदृतायोः ॥ (*abbā mukkairahiṃ gṛṇīṣe buddhe nadīnāṃ rarjasu ṣīdan | mā no 'hirbudhyo riṣe dhānmā yajño asya sridhadṛtāyoḥ ‖*) (Ṛ. Saṃ. 7-34-16, 17)
+
+In these mantras there is a prayer to the god Ahirbudhnya. In the first of them the nature of this god is described to some extent: the poet resolves, "I praise the *ahi*, who is born in the waters and abides in the middle region." Sāyaṇa has explained the purport here as अहिश्चासौ बुध्न्यश्चेत्यहिर्बुध्न्योऽग्निः (*ahiścāsau budhnyaścetyahirbudhnyo 'gniḥ*), that is, the *ahi*-nature contained in Budhnya is a quality of the god Agni. The epithet *ahi* is applied to Vṛtra just as it is to Agni. In many contexts the word *ahi* means Vṛtra. But in
+
+हिरण्यकेशो रजसो विसारेऽहिर्धुनिर्नात इव ध्रूजीमान् । (*hiraṇyakeśo rajaso visāre 'hirdhunirnāta iva dhrūjīmān |*) (Ṛ. Saṃ. 1-79-1)
+
+and similar places the word *ahi* has been explained as "the striker". Agni is described as the one who makes the clouds tremble (*dhuniḥ*) and the one who splits the clouds asunder. In this way the word *ahi* shows the qualities of Agni as it shows the qualities of Vṛtra. But the purport of another word that shows a special quality of Agni must also be chiefly noted.
+
+स जायत प्रथमः पस्त्यासु महो बुद्धे रजसो अस्य योन् । अपादशीर्षा गुहमानो अंतायो युवानो वृषभस्य नीळे ॥ (*sa jāyata prathamaḥ pastyāsu maho buddhe rajaso asya yon | apādaśīrṣā guhamāno aṃtāyo yuvāno vṛṣabhasya nīḷe ‖*) (Ṛ. Saṃ. 4-1-11)
+
+Agni, who is without feet and without head, lies hidden in the *budhna* of the middle region, that is, in the corner beyond the range of sight. Such descriptions occur only as synonyms of Agni. From these examples it is also understood that the epithets *ahi*, Vṛtra and Apāṃ Napāt are common to both Agni and Vṛtra.
+
+### Printed p. 387
+
+Moreover, this deity Ahirbudhnya is described as ordinarily associated with the deities अज एकपात् (*aja ekapāt*), अपां नपात् (*apāṃ napāt*) and Savitṛ. There are also contexts in which he is praised separately. It is clear that all these deities are variant forms of Agni or of Sūrya. One may also say that they are deities of the middle region. That अपां नपात् (*apāṃ napāt*) is used as an epithet of the deity Ahirbudhnya is likewise stated in the mantra Ṛ. Saṃ. 7-34-16 cited above. There the word अब्ब (*abba*) also shows the special nature of this deity. It would not be wrong to give one and the same meaning to both अपां नपात् (*apāṃ napāt*) and अब्ब (*abba*). (That Agni is "born of water" because he is produced from the lotus leaf will be stated later, in the special topics of the mantra 6-16-13.) In the manner in which the word *ahirbudhnya* shows the special quality of Agni, that is, of the Agni of the middle region, in that same manner it also shows the special quality of Vṛtra, the chief of the Asuras; so the question is how one epithet can describe the special qualities of the opposite forms, gods and non-gods (Devas and Asuras). It may be examined that there are a few more such examples, like this one.
+
+In the mantra cited above, हिरण्यकेशो रजसः (*hiraṇyakeśo rajasaḥ*) (1-79-1), the epithet धुनिः (*dhuniḥ*) which describes the nature of Agni also shows a quality of an Asura. Moreover, this word is itself the name of an Asura. For example,
+
+त्वं नृभिर्नृमणो देववीत् भूरीणि वृत्रा हरश्व हंसि । त्वं नि दस्युं चुमुरिं धुनिं चास्वापयो दभीतये सुहंतु ॥ (*tvaṃ nṛbhirnṛmaṇo devavīt bhūrīṇi vṛtrā haraśva haṃsi | tvaṃ ni dasyuṃ cumuriṃ dhuniṃ cāsvāpayo dabhītaye suhaṃtu ‖*) (Puṃ. Saṃ. 7-19-4)**NOTE**
+
+In this mantra *dhuni* stands as the name of an Asura. The same point is shown by the mantra इंद्रो धुनिं च चुमुरिं च दंभयन् (*iṃdro dhuniṃ ca cumuriṃ ca daṃbhayan*) (10-113.9). In 1.174-9 धुनिः (*dhuniḥ*) is an epithet of Indra himself. Thus it cannot be improper that one and the same word, according to the context, should be an epithet describing the nature of persons of two groups, the gods and the Asuras. In the present case, if the word Ahirbudhnya is an epithet of a deity, then it must be examined which deity's individual nature it describes. In the Aitareya Brāhmaṇa the nature of this deity is described thus—
+
+तासु ना अहिना बुद्ध्येन परोक्षात्तेजोऽदधादेष ह वा अहिबुध्यो यदग्नि गार्हपत्योऽग्निनैवासु तद्गार्हपत्येन परोक्षात्तेजो दधाति । (*tāsu nā ahinā buddhyena parokṣāttejo 'dadhādeṣa ha vā ahibudhyo yadagni gārhapatyo 'gninaivāsu tadgārhapatyena parokṣāttejo dadhāti |*) (Ai. Brā. 3-36)
+
+### Printed p. 388
+
+In this sentence *ahirbudhnya* is explained as the Gārhapatya fire. Explaining the same view further, Sāyaṇa has said in his commentary:
+
+अहिना बुध्येन अहिशब्दबुध्यशब्दद्वयनामकाग्नि विशेषेण परोक्षात् परोक्षरूपेण तेजोऽदधात् । यो गार्हपत्योऽग्निरस्ति एष एवाहिशब्देन बुध्यशब्देनाभिहितः ॥ (*ahinā budhyena ahiśabdabudhyaśabdadvayanāmakāgni viśeṣeṇa parokṣāt parokṣarūpeṇa tejo 'dadhāt | yo gārhapatyo 'gnirasti eṣa evāhiśabdena budhyaśabdenābhihitaḥ ‖*) (Sā. Bhā.)**NOTE**
+
+The two words *ahi* and *budhya* are both names of Agni. By the help of this Agni, brilliance is spread among the people. The very Gārhapatya fire that exists is denoted by the word *ahi* and by the word *budhya*. Moreover, the invisibility of this god is also indicated; the word *budhya* shows this invisibility. This invisibility is shown by the sentence cited above (4-1-11), अपादशीर्षा गुहमानो अंता (*apādaśīrṣā guhamāno aṃtā*). Though he is invisible, he is praised as spreading visible radiance among the people. Because Agni is footless, headless and hiding, it would not be wrong to say that he is denoted by the word *budhya*. This same invisibility and *budhya*-nature of Agni are described in many places. In all such contexts it is understood that the description is of Agni in the form of Sūrya. For example—
+
+द्विमाता होता विधथेषु सम्राळन्वग्रं चरति क्षेति बुद्धः । प्र रण्यानि रण्यवाचो भरंते महद्देवानामसुरत्वमेकं ॥ (*dvimātā hotā vidhatheṣu samrāḷanvagraṃ carati kṣeti buddhaḥ | pra raṇyāni raṇyavāco bharaṃte mahaddevānāmasuratvamekaṃ ‖*) (Ṛ. Saṃ. 3-55-7)
+
+Here there is a description of Agni. But in explaining the sentence बुद्ध्यः चरति (*buddhyaḥ carati*), क्षेति (*kṣeti*), Sāyaṇa has said सूरभूतः तत्र वर्तते (*sūrabhūtaḥ tatra vartate*): having become Sūrya, he moves in the middle region; in the form of Agni he dwells on the earth. When this same Sūrya is hidden in a cave, he also becomes denoted by the word *ahi*.
+
+सूर‍्यं न दस्रा तमसि क्षियंतं (*sūryaṃ na dasrā tamasi kṣiyaṃtaṃ*) (1-117-5); गूळ्हं सूर‍्यं तमसापव्रतेन (*gūḷhaṃ sūryaṃ tamasāpavratena*) (5-40-6). These sentences state the invisibility of Sūrya. This same Sūrya, who is hidden in the cave, may also be denoted by the word *ahi*.
+
+गुहा हितं गुह्यं गूळ्मप्पपीवृतं मायिनं क्षियंतं । उतो अपो द्यां तस्तभ्वांसमहन्नहिं शूर वीर्येण ॥ (*guhā hitaṃ guhyaṃ gūḷmappapīvṛtaṃ māyinaṃ kṣiyaṃtaṃ | uto apo dyāṃ tastabhvāṃsamahannahiṃ śūra vīryeṇa ‖*) (Ṛ. Saṃ. 2-11-5)
+
+### Printed p. 389
+
+Here the manner in which Indra slew the *ahi* hidden in the cave is described. Here all the epithets गुहाहितं (*guhāhitaṃ*), गुह्यं (*guhyaṃ*), गूळं (*gūḷaṃ*) and the rest are just like the description of Sūrya given in the mantra 5 40-6, गूळं सूर्‍यं (*gūḷaṃ sūryaṃ*) and so on. Here the epithets अपीवृतं (*apīvṛtaṃ*), अपव्रतेन (*apavratena*) and so on indicate the Vṛtra-nature of Sūrya or Agni, who is hidden in the cave or is *budhya*. The description of Agni in the mantra 4-1-11 cited above, गुहमानो अंता (*guhamāno aṃtā*), also shows the same point. That is, if the word Ahirbudhnya is explained as Sūrya or Agni hidden in the cave, then one may say that the *ahi*-nature and the Vṛtra-nature are attributed to him. If it is asked what Vedic authority there is for explaining it in this way, the answer is that Vedic sentences themselves can be shown as the proof.
+
+अहन्वत्रमृचीषम और्णवाभमहीशुवं । हिमेनाविध्यदर्बुदं ॥ (*ahanvatramṛcīṣama aurṇavābhamahīśuvaṃ | himenāvidhyadarbudaṃ ‖*) (Ṛ. Saṃ. 8-22-26)
+
+आदीं शवस्यब्रवीदौर्णनाभमहीशुवं । ते पुत्र संतु निष्टुरः ॥ (*ādīṃ śavasyabravīdaurṇanābhamahīśuvaṃ | te putra saṃtu niṣṭuraḥ ‖*) (Ṛ. Saṃ. 8-77-2)
+
+In these and similar sentences Vṛtra has the epithet और्णवाभ (*aurṇavābha*). In explaining the meaning of this same epithet in the mantra Ṛ. Saṃ. 2-11-18, Sāyaṇa has stated the purport: और्णः ऊर्णनाभिः । तदाभं तत्सदृशमित्यर्थः । ततः तमोरूपस्य हननात् । (*aurṇaḥ ūrṇanābhiḥ | tadābhaṃ tatsadṛśamityarthaḥ | tataḥ tamorūpasya hananāt |*), that is, "like a weaver-insect (spider)", that is, "of the nature of darkness". In the Brāhmaṇas and other works, Ūrṇāyu is a Gandharva. (Sūrya too is praised as a Gandharva in the Saṃhitās and other works.) Moreover,
+
+अग्ने विश्वेभिः स्वनीक देवैरूर्णावंतं प्रथमः सीद योनिं । कुलायिनं धृतवंतं सवित्रे यज्ञं नय यजमानाय साधु ॥ (*agne viśvebhiḥ svanīka devairūrṇāvaṃtaṃ prathamaḥ sīda yoniṃ | kulāyinaṃ dhṛtavaṃtaṃ savitre yajñaṃ naya yajamānāya sādhu ‖*) (Ṛ. Saṃ. 6-15-16)
+
+Here the altar, the womb of Agni, is praised with the epithet ऊर्णवंतं (*ūrṇavaṃtaṃ*). One may say that there is no difference in purport between ऊर्णवंतं (*ūrṇavaṃtaṃ*) here and the epithet और्णवाभं (*aurṇavābhaṃ*). Such epithets also show the spiritual nature of Sūrya or Agni who is hidden in the cave. How? Thus:
+
+अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता । (*amī ye sapta raśmayastatrā me nābhirātatā |*) (Ṛ. Saṃ. 1-105-9)
+
+The description that "my navel grew spread out in these seven rays of the sun, which are in the form of the seven vital breaths"—this description
+
+### Printed p. 390
+
+स यथोर्णनाभिस्तंतुनोच्चरेद्यथाग्नेः क्षुद्रा विस्फुलिंगा व्युच्चरंति एवमेवास्मादात्मनः सर्वे प्राणाः सर्वे लोकाः सर्वे देवाः सर्वाणि भूतानि व्युच्चरंति........प्राणा वै सत्यं तेषामेष सत्यं ॥ (*sa yathorṇanābhistaṃtunoccaredyathāgneḥ kṣudrā visphuliṃgā vyuccaraṃti evamevāsmādātmanaḥ sarve prāṇāḥ sarve lokāḥ sarve devāḥ sarvāṇi bhūtāni vyuccaraṃti........prāṇā vai satyaṃ teṣāmeṣa satyaṃ ‖*) (Bṛ. U. 2-1-20)
+
+If it is compared with this description, that as small sparks go forth from fire and as threads go forth from the spider, so from this Self all the vital breaths come into being, then a likeness may be stated between the navel of Sūrya (or of Agni) and the navel of the Self. The extension of the seven threads of Sūrya in Ṛ. Saṃ. 1-164.5 was explained at length earlier. In the Kauṣītakī Brāhmaṇa Sūrya is compared to a spider (19.3). Therefore the purport is: when Sūrya, or Agni in the form of Sūrya, does not shine forth his rays but lies dormant, he is marked with the name Vṛtra; when he makes his rays shine, he is called a god. The same view is stated in the Śatapatha and other Brāhmaṇas by such sentences as
+
+तदसानादित्य इमांल्लोकान्सूत्रे समापयते तद्यत्तूत्रं (*tadasānāditya imāṃllokānsūtre samāpayate tadyattūtraṃ*) (Śa. Brā. 8-7-3-10)
+
+This same Sūrya, or Agni in the form of Sūrya, has two states: one the awakened state, the other the state of deep sleep. How so? Thus:
+
+अतृप्नवंतं वियतमबुध्यमानं सुषुपाणमिंद्र । (*atṛpnavaṃtaṃ viyatamabudhyamānaṃ suṣupāṇamiṃdra |*) (Ṛ. Saṃ. 4-19-3)
+
+Here the epithets अबुध्यं (*abudhyaṃ*) and सुषुपाणं (*suṣupāṇaṃ*) are noteworthy. In a time without awareness, that is, without light, these epithets show the nature of the *ahi*. For Sūrya as for Agni, the two states, the time of sleep and the time of waking, are well known in the Saṃhitās and other works.
+
+तदिंद्र प्रेव वीर्यं चकर्थ यत्ससंतं वज्रेणाबोधयोऽहिं । (*tadiṃdra preva vīryaṃ cakartha yatsasaṃtaṃ vajreṇābodhayo 'hiṃ |*) (Ṛ. Saṃ. 1-183-7)
+
+"O Indra, you struck the intoxicated Vṛtra with the thunderbolt and woke him by your valour"; such sentences show the sleeping state and the waking state of Sūrya. In the same way, sentences such as उषर्बुधः (*uṣarbudhaḥ*) and अबोध्यग्निः (*abodhyagniḥ*) (5-1.1; 4-23-7) show the sleeping state and the waking state of Agni. Therefore, in the sleeping state, either for Sūrya or for Agni, there is the *ahi*-nature or Vṛtra-nature; in the awakened state, godhood. In the same way,
+
 ---
 
-**Progress note:** Done through printed p. 384. Vol 19 pp. 379-384: M5 S41 Rk 12 end, Rk 13-16
+**Progress note:** Done through printed p. 390. Special topics on Ahirbudhnya, pp. 385-390
