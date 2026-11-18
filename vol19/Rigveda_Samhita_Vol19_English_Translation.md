@@ -9161,6 +9161,323 @@ Sāyaṇa explains: Of this Vṛtra, who thought himself without a vital spot (�
 - युयत्संतं (*yuyatsaṃtaṃ*)—Vṛtra, who was getting ready to fight
 - धाः (*dhāḥ*)—you made fall down
 
+### Printed p. 233
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you came to know, through the very deeds of Vṛtrāsura, who boasted that there was no vulnerable spot in him by which he could be killed, that dangerous spot of his. O mighty Indra, after you had drunk the Soma that causes joy, you thrust down Vṛtra, who was making ready for battle in the dense darkness in which nothing could be seen.
+
+##### English translation
+You have discovered, Indra, by his acts, the secret vital part of him who thought himself invulnerable, when, powerful Indra, in the exhilaration of the Soma, you have detected him preparing for combat in his dark abode.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यंचि॑दि॒त्था क॑त्प॒यं शया॑नमसू॒र्ये तम॑सि वावृधा॒नं ।  
+> तं चि॑न्मंदा॒नो वृ॑ष॒भः सु॒तस्यो॒च्चैरिंद्रो॑ अप॒गूर्या॑  
+> जघान ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । इत्था । कत्पयं । शयानं । असूर्ये । तमसि । ववृधानं ।  
+> तं । चित् । मंदानः । वृषभः । सुतस्य । उच्चैः । इंद्रः । अपगूर्य । जघान ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतस्याभिषुतेन सोमेन मंदानो मोदमानो वृषभः कामानां
+> वर्षितेंद्र उच्चैरूर्ध्वमपगूर्य वज्रमुद्यम्य तं चित्तमेव वृत्रासुरं
+> जघान । अवधीत् । कीदृशं । इत्थामुत्रांतरिक्षलोके कत्सयं । कत्सुखकरं पयो
+> यस्य तं । शयानमप्पु शयनं कुर्वंतमसूर्ये सूर्यरहिते तमस्यंधकारे
+> ववृधानं वर्धमानं । त्यं चिदिति पुनर्वचनं पूरणार्थं ॥
+
+##### Gist of the bhāṣya
+
+Indra, the showerer of desires, delighted by the Soma that has been pressed (सुतस्य (*sutasya*)), raised his thunderbolt aloft and slew that very Vṛtrāsura. Sāyaṇa describes him: इत्था (*itthā*) means "in the atmospheric world"; कत्सयं (*katsayaṃ*) means one whose water (पयो (*payo*)) gives pleasant ease; शयानं (*śayānaṃ*) means one lying down in the waters; असूर्ये (*asūrye*) means in the sunless तमसि (*tamasi*), that is, in darkness; ववृधानं (*vavṛdhānaṃ*) means one who was growing. The repetition in त्यं चित् (*tyaṃ cit*) is only for completion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतस्य (*sutasya*)—from the drinking of the desired Soma
+- मंदानः (*maṃdānaḥ*)—one who is delighted
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- इंद्रः (*iṃdraḥ*)—Indra
+- उच्चैः अपगूर्य (*uccaiḥ apagūrya*)—having lifted up his thunderbolt
+- इत्था (*itthā*)—in the atmospheric world
+- कत्पयं (*katpayaṃ*)—one who dwells in the pleasant water
+- शयानं (*śayānaṃ*)—one who lay sleeping in the atmosphere
+- आसूरै (*āsūrai*)—sunless
+- तमसि (*tamasi*)—in the darkness
+- नवृधानं (*navṛdhānaṃ*)—one who had grown
+- त्यं (*tyaṃ*)—the famous one
+- तं चित् (*taṃ cit*)—that Vṛtrāsura
+- जघान (*jaghāna*)—he slew
+
+### Printed p. 234
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, delighted by the drinking of the pressed Soma and the showerer of desires, lifted up his thunderbolt and slew Vṛtrāsura, who had lain sleeping in the atmosphere in the midst of pleasant water and had grown in the sunless darkness.
+
+##### English translation
+Indra, the showerer (of benefits) exhilarated by the effused juices, uplifting (his thunderbolt), has slain him enjoying the dews of the fiirmament sleeping (amidst the waters), and thriving in sunless darkness.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्यदिंद्रो॑ मह॒ते दा॑न॒वाय॒ वध॒र्यमि॑ष्ट॒ सहो॒  ॑
+> अप्रतीतं ।  
+> यदीं॒ वज्र॑स्य॒ प्रभृ॑तौ द॒दाभ॒ विश्व॑स्य जं॒तोर॑ध॒मं च॑कार ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । यत् । इंद्रः । महते । दानवाय । वधः । यमिष्ट । सहः । अप्रतिइतं ।  
+> यत् । ईं । वज्रस्य । प्रभृतौ । ददाभ । विश्वस्य । जंतोः । अधमं । चकार ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदेंद्रो महते प्रभूताय दानवाय वृत्रासुराय सहः शत्रूणामभिभवितृ अप्रतीतं केनाप्यप्रतिगतं वधर्वज्रमुद्यमिष्ट उदयच्छत् । यद्यदा
+> वज्रस्य प्रभृतौ प्रहृतौ प्रहरणे सति ॥ हृग्रहोर्भ इति भत्वं ॥ ईमेनं वृत्रं
+> ददाभ अहिंसीत् तदा विश्वस्य सर्वस्य जंतोः प्राणिनोऽधमं नीचं चकार ।
+> अकरोत् ॥
+
+##### Gist of the bhāṣya
+
+When Indra raised his thunderbolt (वधर्वज्रमुद्यमिष्ट (*vadharvajramudyamiṣṭa*)), which overpowers enemies and which nobody has withstood, against the great and mighty Dānava, Vṛtrāsura, and when, at the hurling of the thunderbolt, he injured this Vṛtra, then he made him the lowest, the meanest, of every living creature.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- इंद्रः (*iṃdraḥ*)—Indra
+- महते (*mahate*)—of great strength
+- दानवाय (*dānavāya*)—against Vṛtra, the Asura
+- सहः (*sahaḥ*)—that which withstands enemies
+- अप्रतीतं (*apratītaṃ*)—that which cannot be turned back
+
+### Printed p. 235
+
+- वधः (*vadhaḥ*)—the thunderbolt
+- उत् यमिष्ट (*ut yamiṣṭa*)—he hurled, (and)
+- यत् (*yat*)—when
+- वज्रस्य (*vajrasya*)—of the thunderbolt
+- प्रभृतौ (*prabhṛtau*)—when it was hurled
+- ईं (*īṃ*)—Vṛtra
+- ददाभ (*dadābha*)—he injured (then him)
+- विश्वस्य (*viśvasya*)—of all
+- जंतोः (*jaṃtoḥ*)—than creatures
+- अधमं (*adhamaṃ*)—so as to go down below
+- चकार (*cakāra*)—he made
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra hurled his thunderbolt, which withstands enemies and cannot be turned back, against Vṛtra, the mighty Asura, Vṛtra was grievously injured. Immediately he was thrust down into a region lower than all creatures.
+
+##### English translation
+When Indra raised his powerful irresistible weapon against the mighty Danava, when he struck him with the blow of the thunderbolt, he made him the lowest of all creatures.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॒दर्णं॑ मधु॒पं शया॑नमसि॒न्वं व॒व्रं मह्याद॑दु॒ग्रः ।  
+> अ॒पाद॑म॒त्रं म॑ह॒ता व॒धेन॒ नि दु॑र्यो॒ण आ॑वृणङ्मृ॒ध्रवा॑चं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । अर्णं । मधुपं । शयानं । असिन्वं । वव्रं । महि । आदत् । उग्रः ।  
+> अपादं । अत्रं । महता । वधेन । नि । दुर्योणे । अवृणक् । मृध्रवाचं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्र उद्धूर्णबल इंद्रो महि महांतं त्यं चित्तमेव वृत्रमादत् ।
+> आददौ । प्रत्यग्रहीत् । कीदृशं । अर्णं गंतारं जलं मेघं वावृत्य शयानं
+> शयनं कुर्वंतं । स्थितवंतमित्यर्थः । मधुपं मधुनोंभसः पातारं पालयितारमसिन्वं सपत्नानामवक्षेप्तारं ॥ अस्यतेरिदं रूपं ॥ वव्रं वृण्वंशं सर्वम.
+> प्याच्छादयंतं । स इमाल्लोकानवृणोत्तद्वृत्तस्य वृत्रत्वं । तै. सं. २-५-२-२ ।
+> इति हि तैत्तिरीयकं । तदनंतरमिंद्रो दुर्योणे संगामे महता प्रभूतेन
+
+### Printed p. 236
+
+> वधेन वज्रेणापादं पादरहितममत्रममात्रं परिमाणरहितं मृध्रवाचं हिंसितवागिंद्रियं । जृंभाभिभूतमित्यर्थः । वृत्रं नृवृणक् । नितरामहिंसीत् । तस्माज्जंजभ्यमानादग्नीषोमो निरक्रामतां प्राणापान् वा एनं तदजहितां । तै. सं.
+> २-५-२-४ । इति हि तैत्तिरीयकं ॥
+
+##### Gist of the bhāṣya
+
+The fierce Indra, of overpowering strength, seized that very Vṛtra, the great one. Sāyaṇa glosses the epithets: अर्णं (*arṇaṃ*) is one who goes, or water, or a cloud, having enveloped which he lay (शयानं (*śayānaṃ*)), that is, remained there; मधुपं (*madhupaṃ*) is the drinker and protector of the sweet water; असिन्वं (*asinvaṃ*) is one who casts down his rivals; वव्रं (*vavraṃ*) is one who covers everything. He quotes the Taittirīya: "He covered these worlds; hence Vṛtra is Vṛtra" (Tai. Saṃ. 2-5-2-2). After that, Indra in the battle (दुर्योणे (*duryoṇe*)), with his great and abundant weapon, the thunderbolt, utterly slew Vṛtra, who was footless, measureless, and whose faculty of speech was injured, that is, who was overcome by yawning. Sāyaṇa quotes the Taittirīya again: from him, as he was yawning, Agni and Soma departed, and the in-breath and the out-breath left him then (Tai. Saṃ. 2-5-2-4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रः (*ugraḥ*)—Indra, of terrible strength
+- अर्णं (*arṇaṃ*)—one who goes about enveloping the waters
+- शयानं (*śayānaṃ*)—one who lies in the atmosphere
+- मधुपं (*madhupaṃ*)—the protector of the water
+- असिन्वं (*asinvaṃ*)—one who defeats his enemies and throws them down
+- वव्रं (*vavraṃ*)—one who has the power to envelop everything
+- महि (*mahi*)—one of great power
+- त्यं चित् (*tyaṃ cit*)—that very Vṛtra (when)
+- आदत् (*ādat*)—he seized, then
+- दुर्योणे (*duryoṇe*)—in battle
+- महता (*mahatā*)—with the abundant
+- वधेन (*vadhena*)—thunderbolt
+- अपादं (*apādaṃ*)—the footless
+- अत्रं (*atraṃ*)—the measureless
+- मृध्रवाचं (*mṛdhravācaṃ*)—the one whose speech is harmful, Vṛtrāsura
+- नि अवृणक् (*ni avṛṇak*)—he injured completely
+
+##### भावार्थ (Bhāvārtha)
+
+When the fierce Indra seized that very Vṛtra, who goes about enveloping the waters, who lies in the atmosphere, who is the protector of the water, who defeats his enemies and throws them down, and who has the power to envelop everything, then in the battle he injured Vṛtra completely with his thunderbolt of mighty form, Vṛtra who was footless, measureless and of harmful speech.
+
+##### English translation
+The fierce Indra seized upon him, that vast moving (Vritra), when slumbering, (after) having drunk the Soma, subduing (his foe-), and envelop- ing (the world), and then slew him with his great weapon in battle, footless, measureless, speechless.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अ॑स्य॒ शुष्मं॒ तवि॑षीं वरात॒ एको॒ धना॑ भरते॒ अप्र॑तीतः ।  
+> इ॒मे च॑दस्य॒ ज्रय॑सो॒ नु दे॒वी इंद्र॒सौज॑सो भि॒यसा॑  
+> चहाते ॥ ९ ॥
+
+### Printed p. 237
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । अस्य । शुष्मं । तविषीं । वराते । एकः । धना । भरते । अप्रतिइतः ।  
+> इमे इति । चित् । अस्य । ज्रयसः । नु । देवी इति । इंद्रस्य । ओजसः । भियसा ।  
+> जिहाते इति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य संबंधिनीं शुष्मं शोषणीं तविषीं बलं को वराते । निवारयेत् ॥ शुष्मशब्दस्य स्त्रीलिंगविशेषणत्वेऽपि नियतलिंगत्वात्पुल्लिंगत्वमेव ॥ अप्रतीतः
+> केनाप्यप्रतिगत इंद्र एकोऽसहाय एव धना धनानि शत्रूणां वसूनि भरते । बिभर्ति
+> हरते वा । देवी देव्या द्योतमाने इमे चिदेव द्यावापृथिव्यौ ज्रयसो
+> वेगवतोऽस्येंद्रस्य संबंधिन ओजसो बलवादुद्भूतेन भयसा भयेन नु क्षिप्रं
+> जिहाते । गच्छतः । चलत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Who can hold back the withering (शोषणीं (*śoṣaṇīṃ*)) strength of this Indra? Indra, whom nobody has withstood, alone and unaided, carries off (or seizes) the riches of his enemies. These two shining ones, heaven and earth, move swiftly through the fear that arises from the strength of the swift Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- शुष्मं (*śuṣmaṃ*)—that destroys enemies
+- तविषीं (*taviṣīṃ*)—the strength
+- कः (*kaḥ*)—who indeed
+- वराते (*varāte*)—can obstruct?
+- अप्रतीतः (*apratītaḥ*)—Indra, who has never been repelled
+- एकः (*ekaḥ*)—alone, unaided
+- धना (*dhanā*)—the riches of enemies
+- भरते (*bharate*)—he carries
+- देवी (*devī*)—the two divine beings
+- इमे चित् (*ime cit*)—even these heaven and earth
+- ज्रयसः (*jrayasaḥ*)—swift
+- अस्य इंद्रस्य (*asya iṃdrasya*)—of this Indra
+- ओजसः (*ojasaḥ*)—of the strength
+- भयसा नु (*bhayasā nu*)—through fear
+- जिहाते (*jihāte*)—they move
+
+##### भावार्थ (Bhāvārtha)
+
+Who can obstruct the enemy-destroying strength of this Indra? Indra, whom nobody has repelled, carries off the riches of his enemies, alone and unaided. Even these two divine beings, heaven and earth, move through fear of the strength of the swift Indra.
+
+##### English translation
+Who may resist the withering might of that Indra : he, single and irresistible, carries off the riches (of the enemy) : these two divine (beings, heaven and earth), proceed swiftly through fear of the strength of the quick-moving Indra.
+
+### Printed p. 238
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य॑स्मै दे॒वी स्वधि॑तिर्जिहीत॒ इंद्रा॑य गा॒तुरु॑श॒तीव॑ येमे ।  
+> सं यदोजो॑ यु॒वते॒ विश्व॑माभि॒रनु॑ स्व॒धान्ने॑ क्षि॒तयो॑  
+> नमंत ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अस्मै । देवी । स्वधितिः । जिहीते । इंद्राय । गातुः । उशतीऽइव । येमे ।  
+> सं । यत् । ओजः । युवते । विश्वं । अभिः । अनु । स्वधाऽन्ने । क्षितयः । नमंत ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वधितिः स्वधृतिः स्वेन धृता देवी द्योतमाना द्यौरस्मा इंद्राय नि जिहीते ।
+> नीचत्वेन याति । गातुर्भूमिरुशतीव कामयमाना योषिदिवेंद्राय येमे ।
+> आत्मानं नियच्छति । यथेष्टमात्मानं नियोक्तुं योग्या भवतीत्यर्थः । यद्यदेंद्रो विश्वं समस्तमोजो बलमाभिः प्रजाभिः सं युवते संयोजयति ।
+> इंद्रः स्वकीयं बलं सर्वासु प्रजासु निहितवानित्यर्थः । अनु अनुकूल्येन वर्तमानाः क्षितयो मनुष्याः । क्षितय इति मनुष्यनामैतत् । स्वधान्ने बलवत
+> इंद्राय नमंत । संनमंति । प्रह्वीभवंति ॥
+
+##### Gist of the bhāṣya
+
+स्वधितिः (*svadhitiḥ*) means "held by herself": the shining Heaven bows down to Indra, that is, goes down in lowliness. गातुः (*gātuḥ*), the Earth, like a woman full of desire, holds herself in check for Indra; that is, she becomes fit to be disposed of as he pleases. When Indra joins all his strength with these creatures, that is, when Indra has placed his own strength in all the creatures, then the people (क्षितयः (*kṣitayaḥ*) is a name for men), following in accord with him, bow down to the mighty Indra, स्वधान्ने (*svadhānne*); they bow and become humble.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधितिः (*svadhitiḥ*)—she who sustains herself by her own power
+- देवी (*devī*)—the radiant presiding deity of the heavenly world
+- अस्मै (*asmai*)—toward Indra
+- नि जिहीते (*ni jihīte*)—she is submissive
+- गातुः (*gātuḥ*)—the Earth
+- उशतीव (*uśatīva*)—like a woman full of love
+- इंद्राय (*iṃdrāya*)—for Indra's companionship
+- येमे (*yeme*)—she surrenders (her self)
+- यत् (*yat*)—when
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वं (*viśvaṃ*)—all
+- ओजः (*ojaḥ*)—strength
+- अभिः (*abhiḥ*)—with all the creatures
+- सं युवते (*saṃ yuvate*)—he unites (then)
+- अनु (*anu*)—those who act according to Indra's wish
+- क्षितयः (*kṣitayaḥ*)—men
+- स्वधाम्ने (*svadhāmne*)—to the mighty Indra
+- नमंत (*namaṃta*)—they bow humbly
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant presiding deity of the heavenly world, who sustains herself by her own power, is submissive to Indra. The Earth, like a woman full of love, surrenders herself to Indra's companionship.
+
+### Printed p. 239
+
+When Indra unites all his strength with all the creatures, then all men, who follow Indra's wish, bow humbly to the mighty Indra.
+
+##### English translation
+The divine, self-sustaining (heaven) comes to him ; the moving (earth), like a loving (wife), resigns herself to Indra : when he shares all his vigour with these (his people), then in due succession, men offer reverence to the potent Indra.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एकं॒ नु त्वा॒ सत्प॑तिं॒ पांच॑जन्यं जा॒तं शृ॑णोमि य॒शसं॒  ॑
+> जनेषु ।  
+> तं मे॑ जगृभ्र आ॒शसो॒ नवि॑ष्ठं दो॒षा वस्तो॒र्हव॑मानास॒  ॑
+> इंद्रं ॥११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकं । नु । त्वा । सत्पतिं । पांचजन्यं । जातं । शृणोमि । यशसं । जनेषु ।  
+> तं । मे । जगृभ्रे । आशसः । नविष्ठं । दोषा । वस्तोः । हवमानासः । इंद्रं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामेकं मुख्यमेव जनेषु सर्वेषु मनुष्येषु मध्येऽहं
+> मंत्रद्रष्टा शृणोम्यषिमुख्येभ्यः । कीदृशं । सत्पतिं सतां साधूनां पालकं
+> पांचजन्यं पंचजनेभ्यो मनुष्येभ्यो हितं जातमुत्पन्नं यशसं यशोयुक्तं
+> दोषा क्षपायां वस्तोर्वासरे च हवमानासः स्तुवंत आशसः कामानां शुसमाना मे मदीयाः प्रजा नविष्ठमतिशयेन स्तुत्यं तमिंद्रं जगृभ्रे । गृह्णंतु ।
+> स्वीकुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I, the seer of the mantra, hear of you alone as the chief among all men, from the foremost of the seers. He describes him: सत्पतिं (*satpatiṃ*), the protector of the good; पांचजन्यं (*pāṃcajanyaṃ*), one who is beneficial to the five peoples, that is, to men; born, and glorious. Praising him by night (दोषा (*doṣā*)) and by day (वस्तोः (*vastoḥ*)), desiring their wishes, my people have taken hold of that Indra, the most praiseworthy; let them accept him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्पतिं (*satpatiṃ*)—protector of the good
+- पांचजन्यं (*pāṃcajanyaṃ*)—beneficial to the five kinds of people
+- जातं (*jātaṃ*)—born
+- यशसं (*yaśasaṃ*)—glorious
+- त्वा (*tvā*)—you
+- जनेषु (*janeṣu*)—among all men
+
 ---
 
-**Progress note:** Done through printed p. 232. Sūkta 32 Ṛks 1-5, pp. 227-232
+**Progress note:** Done through printed p. 239. Vol 19 pp. 233-239: Ṛk 5 end, Ṛk 6-11 (Sūkta 32 cont.)
