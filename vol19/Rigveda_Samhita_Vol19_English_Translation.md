@@ -19729,6 +19729,254 @@ O people, O priests, this body seen before us, the orb, is to be praised; relyin
 
 O people, behold this praiseworthy orb of Āditya, by the support of which the rivers flow, relying on which the waters stand. From the atmosphere
 
+### Printed p. 534
+
+born, which regulate the world, and day and night, which have Āditya himself as their common kinsman, and the other priests and the like, bear this same sun in all their several fixed regions.
+
+##### English translation
+(Behold), men, this indescribable form from which the rivers (spring), and where the waters dwell; which (form, the firmament), the two, (day and night), associated and equally allied, as well as other (seasons), born (of it, as of a parent), here and there sustain.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि त॑न्वते॒ धियो॑ अस्मा॒ अपां॑सि॒ वस्त्रा॑ पु॒त्राय॑ मा॒तरो॑ वयंति।  
+> उ॒प॒प्र॒क्षे वृष॑णो॒ मोद॑माना दि॒वस्प॒था व॒ध्वो॑ यं॒त्यच्छ॑  
+> ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । तन्वते । धियः । अस्मै । अपांसि । वस्त्रा । पुत्राय।मातरः । वयंति ।  
+> उपप्रक्षे । वृषणं । मोदमानाः । दिवः । पथा । वध्वः । यंति । अच्छ ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मै सूर्याय धियः स्तुतीरपांसि कर्माणि च पि तन्वते । विस्तारयंति
+> यजमानाः । पुत्राय पुत्रस्थानीयाय मातरो निर्मात्र्य उषसो दिशो वा
+> वस्त्रा वस्त्राणि वयंति । निष्पादयंति । वस्त्रसदृशानि तेजांसि निविडानि संपादयंतीत्यर्थः । वृषणः सेक्तुः सूर्यस्योपप्रक्ष उपपर्चने संपर्के सति मोदमाना
+> हृष्यंतो वध्वो वधूस्थानीया रश्मयो दिवस्पथा सूर्यसंबंधिना मार्गेणाच्छास्मदभिमुखं यंति । गच्छंति । प्रसरंति ॥
+
+##### Gist of the bhāṣya
+
+The worshippers extend praises and rites for this Sūrya. For the son-like Sūrya the mothers, that is the Uṣases who bring forth, or the directions, weave garments; that is, they produce dense lights like garments. When the showering Sūrya is in contact with them, the wives, that is the rays that stand in the place of brides, rejoicing, come and spread toward us by the path of the sky, the path belonging to Sūrya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै (*asmai*)—with reference to this Sūrya
+- धियर् (*dhiyar*)—praises **NOTE**
+- अपांसि (*apāṃsi*)—sacrificial rites
+- वि तन्वते (*vi tanvate*)—(the worshippers) extend
+- मातरः (*mātaraḥ*)—the directions, which are like mothers
+
+### Printed p. 535
+
+- पुत्राय (*putrāya*)—to Sūrya, who stands in the place of their son
+- वस्त्रा (*vastrā*)—garments of the form of light
+- वयंति (*vayaṃti*)—weave
+- वृषणः (*vṛṣaṇaḥ*)—of Sūrya, the giver of rain
+- उपप्रक्षे (*upaprakṣe*)—when there is contact
+- मोदमानाः (*modamānāḥ*)—rejoicing
+- वध्वः (*vadhvaḥ*)—the rays, which have the form of wives
+- दिवस्पथा (*divaspathā*)—by the path belonging to Sūrya
+- अच्छ (*accha*)—toward us
+- यंति (*yaṃti*)—spread and come
+
+##### भावार्थ (Bhāvārtha)
+
+The worshippers extend sacrificial rites and praises with reference to this Sūrya. The directions, which are like mothers, weave garments of the form of light for their son Sūrya. When there is contact with Sūrya, the giver of rain, the rays, which rejoice and have the form of wives, spread and come toward us by the path belonging to Sūrya.
+
+##### English translation
+To him (worshippers) multiply praises and acts of adoration: for (him as for) a son, the (divine) mothers weave garments (of light): rejoicing in the contact of their impregnation, the wives of the sun, (the solar rays), come to our presence by the path of the sky.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॑स्तु मित्रावरुणा॒ तद॑ग्ने॒ शं योर॒स्मभ्य॑मि॒दम॑स्तु श॒स्त्रं ।  
+> अ॒शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय  
+> ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अस्तु । मित्रावरुणा । तत् । अग्ने । शं । योः । अस्मभ्यं । इदं । अस्तु । शस्त्रं।  
+> अशीमहि । गाधं । उत । प्रतिस्थां । नमः । दिवे । बृहते । सदनाय ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र लिंगसिद्धा देवताः । हे मित्रावरुणा मित्रावरुणौ तदिदं सूक्तं शस्त्रं
+> स्तुतमस्तु । भवतु । हे अग्ने तत्तूक्तं शस्त्रमस्तु । अस्मभ्यं शं सुखाय योर्दुःखानाममिश्रणायेदं शस्त्रमस्तु । वयं चाशीमहि प्राप्नुयाम गाधं स्थितिं ।
+
+##### Gist of the bhāṣya
+
+In this Ṛk the deities are determined by indication. O Mitra and Varuṇa, may this sūkta, this praise, be praised, that is, be so. O Agni, may that same praise be so. For our happiness and for the non-mixture of sorrows may this praise be. And may we obtain a firm footing,
+
+### Printed p. 536
+
+> उतापि च प्रतिष्ठां स्थितेरविच्छित्तिं चाशीमहि । नमो नमस्करोमि दिवे द्योतमानाय सूर्याय बृहते महते सादनायाश्रयाय विश्वस्य ॥
+
+##### Gist of the bhāṣya
+
+and also the unbroken continuance of that footing. I bow to the shining Sūrya, the great one, the support of the universe.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- तत् इदं (*tat idaṃ*)—this praise recited by us
+- शस्त्रं अस्तु (*śastraṃ astu*)—may it be worthy of your praise
+- अग्ने (*agne*)—O Agni
+- तत् (*tat*)—that same praise
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- शंयोः (*śaṃyoḥ*)—as the means of happiness free from sorrow
+- अस्तु (*astu*)—may it be (may it be worthy of your praise)
+- गाथं (*gāthaṃ*)—the best state **NOTE**
+- उत (*uta*)—and
+- प्रतिष्ठां (*pratiṣṭhāṃ*)—and an unshaken good state
+- आशीमहि (*āśīmahi*)—we pray and look for (may we obtain)
+- दिवे (*dive*)—to the radiant one
+- बृहते (*bṛhate*)—the one of great nature
+- सादनाय (*sādanāya*)—the support (of the whole universe), to Sūrya
+- नमः (*namaḥ*)—we offer our homage
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, may this praise recited by us be worthy of your praise. O Agni, may that same praise, praised also by you, be the means for us of happiness free from sorrow. May we obtain a state that is excellent and lasting. To Sūrya, the radiant, of great nature, the support of the whole universe, we offer our homage.
+
+##### English translation
+May this (hymn), Mitra and Varuna, be valued (by you): may it, Agni, be valued (by you) as the means to us of happiness unmixed : may we (thence) obtain stability and permanence : reverence be to you, radiant and mighty asylum (of the universe).
+
+## Sūkta 48 (Maṇḍala 5)
+
+The forty-eighth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कदु प्रियायेति पंचर्चं चतुर्थं सूक्तं । प्रतिभानुर्नामात्रेय यषिः ।
+> जगती छंदः । विश्वे देवा देवता । अत्रानुक्रमणिका । कदु पंच प्रतिभानुर्जागतमिति ॥ अभिप्लविके पंचमेऽहनि वैश्वदेवशस्त्र इदं सूक्तं निविद्वानं । सूत्रितं च ।
+> कदु प्रियायेति वैश्वदेवं । आ. ७. ७. । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कदु प्रियायेति पंचर्चं (*kadu priyāyeti paṃcarcaṃ*), of five Ṛks, is the fourth sūkta. Its seer is Pratibhānu of the Ātreya line, its metre is Jagatī, and its deity is the Viśvedevas. The Anukramaṇī says: कदु पंच प्रतिभानुर्जागतमिति (*kadu paṃca pratibhānurjāgatamiti*). In the Abhiplava rite, on the fifth day, in the Vaiśvadeva-śastra, this sūkta is the nivid-sūkta. It is also laid down in the sūtra: कदु प्रियायेति वैश्वदेवं (*kadu priyāyeti vaiśvadevaṃ*) (Ā. 7. 7).
+
+### Printed p. 537
+
+Anuvāda: This sūkta beginning कदु प्रियाय (*kadu priyāya*) is the fourth sūkta in the fourth anuvāka. It has five Ṛks. Its seer is the one called Pratibhānu Ātreya; the deity is the Viśvedevas; the metre is Jagatī. In the Anukramaṇī it is said: कदु पंच प्रतिभानुर्जागतं (*kadu paṃca pratibhānurjāgataṃ*). It is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, कदु प्रियायेति वैश्वदेवं (*kadu priyāyeti vaiśvadevaṃ*) (Ā. 7-7), that in the sacrifices connected with the Abhiplava, on the fifth day, in the middle of the Vaiśvadeva-śastra mantras, this sūkta is to be inserted and recited as the nivid sūkta.
+
+- Sūkta 48
+- Maṇḍala 5, Anuvāka 4, Sūkta 48
+- Aṣṭaka 4, Adhyāya 3, Varga 2
+- Number of Ṛks in the sūkta: 5
+- Seer: Pratibhānu Ātreya
+- Deity: the Viśvedevas
+- Metre: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदु॑ प्रि॒याय॒ धाम्ने॑ मनामहे॒ स्वक्ष॑त्राय॒ स्वय॑शसे म॒हे  ॒
+> वयं ।  
+> आ॒मे॒न्यस्य॒ रज॑सो॒ यद॒भ्र आ अ॒पो वृ॑णा॒ना वि॑त॒नोति॑  ॒॑
+> मायिनी ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ऊं इति । प्रियाय । धान्ने । मनामहे । स्वक्षत्राय । स्वयशसे । महे ।  
+> वयं ।  
+> आमेन्यस्य । रजसः । यत् । अभ्रे । आ । अपः । वृणाना । विस्तनोति । मायिनी ॥ १ ॥
+
+### Printed p. 538
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र वैद्युताग्निसंस्तवः । कदु कदा । उ इति पूरणः । प्रियाय सर्वॆषां
+> प्रियभूताय । वृष्टिद्वारा हविरादिप्रयोजकत्वात्सर्वप्रियत्वमस्य प्रसिद्धं । तादृशाय धान्ने तेजसे वैद्युताय । उत्तरवाक्येऽभ्रेऽपो वितनोतीति वक्ष्यमाणत्वादिदं लभ्यते । कीदृशाय । स्वक्षत्राय स्वभूतबलाय किंच स्वयशसे स्वभूतान्नाय।
+> सर्वमप्यन्नं ह्यस्य स्वं । महे महते पूज्याय वयं कदा मनामहे । स्तवाम ।
+> यत् ॥ उत्तरत्र स्त्रीलिंगनिर्देशाद्वेति विपरिणामयितव्यं॥ याग्नॆयी शक्तिरामेन्यस्य
+> समंतान्मातव्यस्य रजसोऽंतरिक्षस्य । अपरिमितमपि नभ इयुदिति सर्वैर्मियते ।
+> संबंधिन्यभ्रे मेघ आ अधि मेघस्योपर्यप उदकानि वृष्टिलक्षणानि वितनोति
+> विस्तारयति वृणानाज्जादयंती सेव्यमाना ना मायिनी । मायेति प्रज्ञानाम ।
+> प्रज्ञावती सती । यद्यस्य संबंधिनी माध्यमिकी वागिति वा योज्यं ॥
+
+##### Gist of the bhāṣya
+
+Here the praises are of the lightning-fire. कदु (*kadu*) means "when"; the particle that follows is a filler. प्रियाय (*priyāya*) means dear to all: its being dear to all is well known, because through rain it provides the oblations and so on. To such a splendour, the splendour of lightning. Since it will be said in the next sentence that it spreads waters in the cloud, this meaning is obtained. Of what kind? One having strength of its own, and one having food of its own, for all food is its own. महे (*mahe*) means great, worthy of worship. When shall we praise it? In the later part the word is feminine, so it must be changed accordingly. The fiery power spreads waters, that is, rain, above the cloud that belongs to the atmosphere, which is measured on every side; for although the sky is unbounded, it is measured by all. Covering, that is, being served; it is possessed of wisdom, the word for illusive power being a name for wisdom. Or else it may be construed as the speech of the middle region, whose it is.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियाय (*priyāya*)—to that which is beneficial to all
+- स्वक्षत्राय (*svakṣatrāya*)—having a strength that is its own
+- स्वयशसे (*svayaśase*)—having food obtained by itself
+- महे (*mahe*)—and worthy of worship
+- धाम्ने (*dhāmne*)—with reference to the splendour of the form of lightning
+- कदु (*kadu*)—when
+- वयं (*vayaṃ*)—we
+- मनामहे (*manāmahe*)—shall we offer praise
+- मायिनी (*māyinī*)—endowed with wisdom
+- यत् (*yat*)—which this light
+- आमेन्यस्य (*āmenyasya*)—determined by measure
+- रजसः (*rajasaḥ*)—belonging to the atmosphere
+- अभ्रे आ (*abhre ā*)—in the region above the cloud
+- वृणाना (*vṛṇānā*)—covering the atmosphere
+- अपः (*apaḥ*)—the waters
+- वितनोति (*vitanoti*)—spreads widely
+
+##### भावार्थ (Bhāvārtha)
+
+When shall we offer praise to the splendour of the form of lightning, which is beneficial to all, which has a strength of its own, which has food obtained by itself, and which is worthy of worship? This light, endowed with the power of wisdom, pervading the atmosphere, which is unbounded and yet determined by measure, in the region above the cloud, spreads the waters widely.
+
+##### English translation
+When may we offer adoration to the benevolent splendour, strong in its own (strength), self-sustaining with food, deserving of worship : when the delusive (energy of Agni), investing (the heavens), spreads the waters above the clouds over the unbounded firmament.
+
+### Printed p. 539
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता अ॑त्यत व॒युनं॑ वी॒रव॑क्षणं समा॒न्या वृ॒तया॒ विश्व॒मा रजः॑ ।  
+> अपो॒ अपा॑ची॒रप॑रा॒ अपे॑जते॒ प्र पूर्वा॑भिस्तिरते देव॒युर्जनः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । अत्यत । नयुनं । वीर्यवक्षणं । समान्या । वृतया । विश्वं । आ । रजः ।  
+> अपो इति । अपाचीः । अपराः । अप । ईजते।प्र।पूर्वाभिः । तिरते । देव्ययुः । जनः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमुषस्या । ता उषसोऽत्नत । वितन्वंति । किं । वयुनं प्रज्ञानं । कीदृशं ।
+> वीरवक्षणं वीरैर्ऋत्विग्निर्वहनीयं । यद्वा । वक्षणाः कार्यवोढारो येन
+> प्रेर्यंते तत्तादृशं । किंच समानैकरूपया वृतयावरकया दीप्त्या विश्वमा
+> सर्वमपि रजो जगदत्नत । एवं सति देवयुर्देवकामो जनोऽपाचीरपांचनाः
+> प्रतिनिवृत्तमुखीरपरा अन्या आगामिनीरुषसोऽपेजते । अपचालयति । अपरोऽपशब्दः पूरणः । पूर्वाभिस्ताभिः प्रतिरते । प्रपूर्वस्तियतिर्वर्धनार्थः । वर्धयति
+> स्वमनीषां वर्धते ना स्वयं ॥
+
+##### Gist of the bhāṣya
+
+This is addressed to Uṣas. Those Uṣases spread out. What? Knowledge. Of what kind? That which is to be borne by heroes, that is, by priests; or else, that by which the bearers of the work are impelled. Moreover, with a radiance of one uniform kind, an enveloping one, they spread over the whole world. This being so, the man who longs for the gods turns away the other Uṣases, those yet to come, whose faces have turned back; and with the former ones he increases. Here the prefix together with the root is meant to express growth: he increases his own wisdom, he grows himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ताः (*tāḥ*)—those Uṣases
+- वीरवक्षणं (*vīravakṣaṇaṃ*)—to be borne by wise priests and the like
+- वयुनं (*vayunaṃ*)—knowledge
+- अत्यत (*atyata*)—they spread **NOTE**
+- समान्या (*samānyā*)—of one form
+- वृतया (*vṛtayā*)—and pervading, by the radiance
+- विश्वं (*viśvaṃ*)—the whole
+- आ रजः (*ā rajaḥ*)—the whole world (it covers)
+- देवयुः (*devayuḥ*)—longing for the gods
+- जनः (*janaḥ*)—the man
+- अपाचीः (*apācīḥ*)—those whose faces have turned back
+- अपराः (*aparāḥ*)—and which will appear later, the Uṣases
+- अपेजते (*apejate*)—he sends away
+- पूर्वाभिः (*pūrvābhiḥ*)—together with the Uṣases that appeared before
+- प्रतिरते (*pratirate*)—he attains growth
+
+##### भावार्थ (Bhāvārtha)
+
+The Uṣases spread knowledge that is to be borne by wise priests and the like. With a radiance that is of one form and pervading, it covers the whole world. The man who longs for the gods
+
 ---
 
-**Progress note:** Done through printed p. 533. Sūkta 47 Ṛks 1-5 (to Bhāvārtha of Ṛk 5), pp. 527-533
+**Progress note:** Done through printed p. 539. Sūkta 47 Ṛk 5 end to Ṛk 7; Sūkta 48 Ṛk 1 and start of Ṛk 2
