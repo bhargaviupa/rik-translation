@@ -7832,6 +7832,238 @@ Affluent Indra, propitiated by praise, be near to us, the defender of our person
 > अध । स्म । नः । वृधे । भव । इंद्र । नायं । अव । युधि ।  
 > यत् । अंतरिक्षे । पतॆयंति । पर्णिनः । दिद्यवः । तिग्ममूर्धानः ॥ ११ ॥
 
+### Printed p. 176
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अध स्म तदानीं नोऽस्माकं वृधे वर्धनाय भव । आपि च नायं
+> योऽस्माकं नयो नेता युधि युद्धे तमप्यव । रक्ष । तदेत्युक्तं कदेत्यत आह ।
+> पर्णिनः पक्षवंतस्तिग्ममूर्धानस्तीक्ष्णास्या दिद्यवो दीप्ता वाहा यद्यदांतरिक्षे
+> व्योम्मि पतयंति शत्रुभिर्विसृष्टाः पतंति तदानीं वृधे भवेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, at that time be for our growth, and protect in battle whoever is our leader. Sāyaṇa supplies the answer to "at what time?": when the feathered, sharp-pointed, shining वाहा (*vāhā*) **NOTE** ones, let loose by the enemies, fall through the sky, then be for our growth. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- पर्णिनः (*parṇinaḥ*)—the feathered ones
+- तिग्ममूर्धानः (*tigmamūrdhānaḥ*)—the ones with sharp points
+- दिद्यवः (*didyavaḥ*)—and shining ones, the arrows (sent by the enemies)
+- अंतरिक्षे (*aṃtarikṣe*)—from the sky
+- पतयंति (*patayaṃti*)—fall (upon us)
+- अध स्म (*adha sma*)—immediately then
+- नः (*naḥ*)—to us
+- वृधे (*vṛdhe*)—as one who brings increase
+- भव (*bhava*)—be
+- युधि (*yudhi*)—in battle
+- नायं (*nāyaṃ*)—our leader
+- अव (*ava*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the feathered, sharp-pointed and shining arrows of the enemies, sent by the enemies, fall upon us from the sky, be to us one who brings increase (a protector). Protect our leader in battle.
+
+##### English translation
+Indra, be (favourable) at present to our success: protect our leader in battle when the feathered, sharp-pointed, shining shafts fall from the sky.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ शूरा॑सस्त॒न्वो॑ वितन्व॒ते प्रि॒या शर्म॑ पित्ृ॒णां ।  
+> अध॑ स्मा यच्छ त॒न्वे॒३॒॑३ तने॑ च छ॒र्दिर॒चित्तं॑ या॒वय॒ द्वेषः॑॥१२।  
+> । चदचा ।  
+> यत्र । शूरासः । तन्वः । वितन्वते । प्रिया । शर्म । पित्ृणां ॥  
+> अध॑ । स्म । यच्छ । त॒न्वे॒३॒॑ । तने॑ । च । भ॒र्दिः । अ॒चित्तं॑ । य॒वय॒ । द्वेषः॑ ॥ १२ ॥
+
+### Printed p. 177
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्काले शूरासः शूराः शौर्यवंतो योद्धारस्तन्नः स्वकीयानि
+> शरीराणि वितन्वते विस्तारयंति स्वामिनो जयाय शत्रुणां पुरतो दर्शयंति ।
+> तथास्मिन्काले प्रिया प्रियाणि शर्म शर्माणि स्थानानि पित्ृणां जनकानां संबंधीनि ।
+> तैरर्जितानीति यावत् । एतानि च वितन्वते शत्रुणां पुरस्ताद्वि स्तरयंति । परित्यजंतीति
+> यावत । अध स्मास्मिन्काले तन्ने शरीराय तने तनयाय च छर्दिश्वादनमायुधानां
+> निवारकं कवचमचित्तं शत्रुभिरज्ञातं यथा भवति तथा यच्छ । प्रयच्छ । शत्रुज्ञानातूर्वमेव देहीत्यर्थः । अपि च द्वेषो द्वेष्टान् शत्रुन्यावय । तेभ्यो
+> वियोजय ॥
+
+##### Gist of the bhāṣya
+
+At the time when the brave warriors spread out their own bodies, that is, show them before the enemies for their master's victory, at that time they leave behind the pleasant dwellings that belong to their fathers, that is, that were acquired by them; they spread these out before the enemies, which means they abandon them. Then, at this time, for the body (तन्ने (*tanne*)) and for the offspring (तने (*tane*)) grant armour (छर्दिः (*chardiḥ*)), a covering that wards off weapons, in such a way that it is unknown to the enemies, that is, give it before the enemies know of it. And drive away the haters, the enemies: separate them from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यत्र (*yatra*)—at which time
+- शोरासः (*śorāsaḥ*)—valiant warriors
+- तन्वः (*tanvaḥ*)—their bodies
+- वितन्वते (*vitanvate*)—spread out on the battlefield (for the master's victory), at that time
+- प्रिया (*priyā*)—pleasant ones
+- पितृणां (*pitṛṇāṃ*)—and inherited from fathers
+- शर्म (*śarma*)—dwellings (they abandon)
+- अध स्म (*adha sma*)—in that circumstance
+- तन्ने (*tanne*)—for the protection of their bodies
+- तने (*tane*)—and of sons and others
+- छर्दिः (*chardiḥ*)—the armour that protects their bodies
+- अचित्तं (*acittaṃ*)—so that the enemies do not know it
+- यच्छ (*yaccha*)—cause to be given
+- द्वेषः (*dveṣaḥ*)—the enemies
+- यावय (*yāvaya*)—conquer and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at the time when valiant warriors spread out their bodies on the battlefield for their master's victory, they abandon their own houses, which are pleasant, inherited from their fathers and protective. At that time give armour, unknown to the enemies, for the protection of their bodies and of their sons and others. And destroy the enemies.
+
+##### English translation
+When heroes rest their persons (until abandoning) the pleasant abodes of their progenitors: grant us, for ourselves and our posterity, an unsuspected defence, and scatter our enemies.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ सर्गे॒ अर्व॑तश्चो॒दया॑से महाध॒ने ।  
+> अ॒स॒म॒ने अध्व॑नि वृजि॒ने प॒थि श्ये॒नाइ॑व श्रवस्य॒तः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 178
+
+> यत् । इंद्र । सर्गे । अर्वतः । चोदयासे । महाधने ।  
+> असमने । अध्वनि । वृजिने । पथि । श्येनान् इव । श्रवस्यतः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महाधने जेतव्यस्य महतो धनस्य निमित्ते महति संग्रामे
+> सर्ग उद्योगे सत्यसमने विषमेऽध्वनि मार्गेऽर्वतोऽस्मदीयानश्वान्यद्यदा
+> चोदयासे प्रेरयसि । वृजिने कुटिले पथि मार्गेऽंतरिक्षलक्षणे श्रवस्यतः
+> श्रवोऽन्नमामिषरूपमात्मन इच्छतः श्येनानिव यथामिषार्थिन श्येना अंतरिक्षे
+> शीघ्रं गच्छंति तथास्मदीयानश्वान्यदा त्वं शीघ्रं गमयसि तदानीमस्माकं तन्ने
+> तनयाय च छर्दिर्यच्छेति पूर्वस्यामृचि संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when in a great battle (महाधने (*mahādhane*)), that is, a battle fought for the sake of great wealth that is to be won, at the time of the effort (सर्गे (*sarge*), that is, exertion) you urge our horses along an uneven, rough road, and along the crooked path that is the sky, as falcons that desire food in the form of flesh (श्रवस्यतः (*śravasyataḥ*): śravaḥ is food, flesh) fly swiftly in the sky for the sake of that food, so, when you make our horses go swiftly, then give armour for our body and our offspring: this is the connection with the preceding Ṛk. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृजिने (*vṛjine*)—on the crooked
+- पथि (*pathi*)—path that is the sky
+- श्रवस्यतः (*śravasyataḥ*)—seeking food in the form of flesh
+- श्येनानिव (*śyenāniva*)—as falcons fly swiftly
+- महाधने (*mahādhane*)—in a battle for the sake of abundant wealth
+- सर्गे (*sarge*)—at the time of the effort
+- असमने (*asamane*)—uneven, full of pits and mounds
+- अध्वनि (*adhvani*)—on the road
+- अर्वशः (*arvaśaḥ*)—our horses
+- यत् (*yat*)—when
+- चोदयासे (*codayāse*)—you urge (to run swiftly) (then give protective armour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when, in a battle for the sake of abundant wealth, at the time of the effort, you urge our horses to run swiftly on a road full of pits and mounds and uneven, as falcons that seek food in the form of flesh fly swiftly on the crooked path of the sky, then give protective armour.
+
+##### English translation
+(At the time) when, in the effort (made) in an arduous conflict; urge our horses over an uneven road, like falcons darting upon their food through the difficult path (of the firmament).
+
+### Printed p. 179
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिंधू॑रिव प्रव॒ण आ॑शु॒या य॒तो यदि॒ क्लोश॒मनु॒ स्वणि॑ ।  
+> आ ये वयो॒ न वर्वृ॑त॒त्यामि॑षि गृभी॒ता बा॒ह्वर्गवि॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंधून् इव । प्रवणे । आशुया । यतः । यदि । क्लोशं । अनु । स्वनि ।  
+> आ । ये । वयः । न । वर्वृतति । आमिषि । गृभीताः । बाह्वोः । गवि ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तस्यैवार्थस्यातिशयप्रतिपादनार्थेयं । प्रवणे निम्म देशे सिंधूनिव
+> स्यंदमाना नदीरिवाशुयाशु शीघ्रं यतो गच्छतोऽश्वान् हे इंद्र यदि
+> चोदयासे प्रेरयसि । कदा । क्लोशमनु । क्लोश इति भयनाम । भयमनुलक्ष्य
+> स्वनि स्वन आक्रोशे सति । कीदृशास्तेऽश्वाः । बाह्वोर्बाहुमूलयोर्गृभीताः
+> कक्षया बद्धा येऽश्वा गवि गोरूपे धने जेतव्ये सत्या वर्वृतति पुनः पुनरावर्तंते । आमिष्यामिषे मांसे ग्रहीतव्ये सति वयो न यथा श्येनादयः दक्षिणः
+> पुनः पुनरावर्तंते तद्वत् । एवंभूतानश्वान् भयेन क्रोशे सति यदा त्वं
+> प्रेरयसि तदानीमस्मदीयेभ्यश्वर्दिः प्रयच्छेति संबंधः । यद्यप्यषेयूर्द्धे
+> प्रसक्तिर्नास्ति तथापि राजपुरोहितत्वेन राजकीयानां पुरुषाणां जयः प्रार्थ्यत
+> इति न कश्चिद्विरोधः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is meant to establish with emphasis the meaning already stated. O Indra, if you urge horses that go swiftly (आशुया (*āśuyā*)), like streams (सिंधूनिव (*siṃdhūniva*)) flowing down a slope (प्रवणे (*pravaṇe*)); when? क्लोशमनु (*klośamanu*): क्लोश (*klośa*) is a name for fear; with regard to fear, when there is a cry (स्वनि (*svani*), in the sense of a cry). What kind are those horses? Those that are held (गृभीताः (*gṛbhītāḥ*)) at the arm-roots (बाह्वोः (*bāhvoḥ*)), that is, bound by the girth, and that, when wealth in the form of cattle (गवि (*gavi*)) is to be won, turn back again and again (वर्वृतति (*varvṛtati*)); when flesh (आमिषि (*āmiṣi*)) is to be seized they turn again and again, like birds (वयो न (*vayo na*)) such as falcons. When you urge such horses while there is a cry through fear, then give armour for those who belong to us: this is the connection. And though the ṛṣi has no occasion in war **NOTE**, yet, since he is the king's chief priest, victory is prayed for the king's men, so there is no contradiction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) आमिषि (*āmiṣi*)—to obtain flesh
+- वयो न (*vayo na*)—as falcons and other birds come running again and again
+- बाह्वोः (*bāhvoḥ*)—at the arm-roots
+- गृभीताः (*gṛbhītāḥ*)—which are bound with a girth
+- ये (*ye*)—those horses
+- गवि (*gavi*)—for the sake of cattle
+- आ वर्वृतति (*ā varvṛtati*)—which come again and again
+- क्लोशमनु (*klośamanu*)—from fear
+- स्वनि (*svani*)—even though they are neighing
+- प्रवणे (*pravaṇe*)—in low-lying places
+- सिंधूनिव (*siṃdhūniva*)—like rapidly flowing rivers
+- आशुया (*āśuyā*)—very swiftly
+- यतः (*yataḥ*)—as they run
+- यदि (*yadi*)—when you urge (then give armour for war)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those horses which are bound with a girth at the arm-roots, and which come back again and again for the sake of cattle, as falcons and other birds come running again and again to obtain flesh, even though those horses are neighing through fear, when you urge them to run very swiftly, like rivers flowing rapidly in low-lying places, then give armour for war.
+
+### Printed p. 180
+
+##### English translation
+Rushing rapidly like rivers in their downward course, and although neighing loudly through terror, they yet, tight-girthed, return repeatedly (to the conflict) for cattle, like birds darting on their prey.
+
+## Sūkta 47 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वादुरित्येकत्रिंशदृचं चतुर्थं सूक्तं भरद्वाजपुत्रस्य गर्गस्यार्षं। प्रस्तोक
+> इन्नित्येषा त्रिष्टुप् दशाश्वानित्यनुष्टुप् दश रथानिति गायत्री महि राध इति द्विपदा
+> द्वैकादशका युजानो हरितेत्येषा बृहती दिवस्पृथिव्या इति जगती शिष्टास्त्रिष्टुभः ।
+> आदितः पंचानामृचां सोमो देवता । अगव्यूति क्षेत्यमित्यर्धर्चप्रथमपादे
+> देवा उत्तरस्य भूमिस्कृतीयस्य बृहस्पतिश्चतुर्थस्येंद्रः । प्रस्तोक इत्याद्याश्चतस्रः
+> सृंजयपुत्रस्य राज्यो दानस्तुतिरूपत्वात्तद्देवताकाः । वनस्पते वीड्वंग इत्ययं
+> तृचो रथदेवत्यः । उप श्वासयेति तृचो दुंदुभिदेवत्यः । समश्वपर्णा इत्यर्धर्च
+> ऐंद्रः । शिष्टा इंद्रदेवताकाः । तथा चानुक्रांतं । स्वादुरेकत्रिंशद्गर्गः पंचादौ
+> सौम्योऽगप्यूत्यर्धर्चो लिंगोक्तदेवतः प्रस्तोक इति त्रिष्टुबनुष्टुब्जायत्री
+> द्विपदा सार्ङ्मयस्य प्रस्तोकस्य दानस्तुतिः परौ तृचौ रथदुंदुभिदेवत्यावैंद्रोऽत्यर्थर्चो युजानो बृहती दिवस्पृथिव्या जगती ॥ अग्निमारुत
+> आदितश्चतस्रः शंसनीयाः । सूत्रितं च । स्वादुष्किलायमिति चतस्रो मध्यॆ जाह्वानं ।
+> अ. ५-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, beginning स्वादुः (*svāduḥ*), has thirty-one Ṛks; its seer is Garga, son of Bharadvāja. The Ṛk प्रस्तोक इन्नु (*prastoka innu*) is in the triṣṭubh metre, दशाश्वान् (*daśāśvān*) in anuṣṭubh, दश रथान् (*daśa rathān*) in gāyatrī, महि राधः (*mahi rādhaḥ*) a dvipadā of two lines of eleven syllables, युजानो हरित (*yujāno harita*) a bṛhatī, दिवस्पृथिव्याः (*divaspṛthivyāḥ*) a jagatī, and the rest are triṣṭubh. The deity of the first five Ṛks is Soma. In the first line of the half-verse अगव्यूति क्षेत्रं (*agavyūti kṣetraṃ*) the deities are the gods named in it; the next line has Bhūmi, the third Bṛhaspati and the fourth Indra. The four Ṛks beginning प्रस्तोक (*prastoka*) are in praise of the gift of the king Prastoka, son of Sṛñjaya, and so have that as deity. The three beginning वनस्पते वीड्वंगः (*vanaspate vīḍvaṃgaḥ*) have the chariot as deity; the three beginning उप श्वासय (*upa śvāsaya*) have the drum (dundubhi) as deity. The half-verse समश्वपर्णाः (*samaśvaparṇāḥ*) is addressed to Indra; the rest have Indra as deity. He quotes the Anukramaṇī to the same effect. He adds that it is prescribed in the sūtra: the four Ṛks beginning स्वादुष्किलायं (*svāduṣkilāyaṃ*) are recited in the middle (of the invocations), reference A. 5-20. **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning स्वादुः (*svāduḥ*) is the fourth sūkta in the fourth Anuvāka. It has thirty-one Ṛks. The seer of this sūkta is Garga, son of the ṛṣi Bharadvāja. Of this sūkta, the Ṛk beginning "Prastoka inn" (the 22nd) is in the triṣṭubh metre; the Ṛk beginning "daśāśvān" (the 23rd) is in the anuṣṭubh metre; the Ṛk beginning "daśa rathān" (the 24th) is in the gāyatrī metre; the Ṛk beginning "mahi rādhaḥ" (the 25th) is in the metre called dvipadā, with two lines of eleven syllables; the Ṛk beginning "yujāno daritā" (the 19th) **NOTE** is in the bṛhatī metre; the Ṛk beginning "divaspṛthivyāḥ" (the 27th) is in the jagatī metre. The remaining Ṛks are in the triṣṭubh metre. The deity of the first five Ṛks of this sūkta is Soma. For the first line of the first half of the twentieth Ṛk, "agavyūti kṣetram", the deities are those mentioned in it; for the second line the deities are Bhūmi, for the third line Bṛhaspati, and for the fourth line Indra. In the four Ṛks beginning with "Prastoka" (22-25) there is praise of the gift of the king named Prastoka, son of Sṛñjaya, so the deity of those four Ṛks is the praise of Prastoka's gift. For the three Ṛks beginning with "vanaspate vīḍvaṅgaḥ" (26-28) the chariot is the deity. For the three beginning with "upaśvāsaya" (24-31) **NOTE**, except the latter half of the last Ṛk, the drum is the deity. For the latter half of the thirty-first Ṛk, "samaśvaparṇāḥ", Indra is the deity. For all the remaining Ṛks Indra is the deity. In the Anukramaṇī it is said: स्वादुरेकत्रिंशद्गर्गः पंचादौ सौम्योऽगव्यूत्यर्धर्चो लिंगोक्तदेवतः प्रस्तोक इति त्रिष्टुबनुष्टुब्बायत्री द्विपदा सांजयस्य प्रस्तोकस्य दानस्तुतिः परौ तृचौ रथदुंदुभिदेवत्यावैंद्रोऽन्त्यर्थर्चो युजानो बृहती त्रिष्टुम्महि द्विपदा दिवस्पृथिव्या जगती (*svādurekatriṃśadgargaḥ paṃcādau saumyo 'gavyūtyardharco liṃgoktadevataḥ prastoka iti triṣṭubanuṣṭubbāyatrī dvipadā sāṃjayasya prastokasya dānastutiḥ parau tṛcau rathaduṃdubhidevatyāvaiṃdro 'ntyartharco yujāno bṛhatī triṣṭummahi dvipadā divaspṛthivyā jagatī*). That the first four Ṛks of this sūkta are to be recited for the Āgnimāruta śastra mantras is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वादुष्किलायमिति चतस्रो मध्यॆ चाह्वानां (*svāduṣkilāyamiti catasro madhyè cāhvānāṃ*) (Ā. 5-20).
+
+### Printed p. 181
+
+##### Particulars
+
+Sūkta 47. Maṇḍala 6. Anuvāka 4. Sūkta 47. Aṣṭaka 4. Adhyāya 7. Vargas 30, 31, 32, 33, 34, 35. Number of Ṛks in the sūkta: 31. Seer: Garga **NOTE**. Deity: Ṛks 1-5, Soma; Ṛks 6-19, 21 and the latter half of 31, Indra; for the first line of Ṛk 20 the deities named in it, for the second line Bhūmi, for the third line Bṛhaspati, for the fourth line Indra; Ṛks 22-25, the praise of the gift of Prastoka Sārjaya **NOTE**; Ṛks 26-28, the chariot; Ṛks 29-30 and the first half of 31, the drum. Metre: Ṛks 1-18, 20-22, 26 and 28-31, triṣṭubh; 19, bṛhatī; 23, anuṣṭubh; 24, gāyatrī; 25, dvipadā; 27, jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒दुष्किला॒यं मधु॑मा उ॒तायं ती॒व्रः किला॒यं रस॑वा  ॒
+> उतायं ।  
+> उ॒तो न्व१॒ं॑स्य प॑पि॒वांस॒मिंद्रं॒ न कश्च॒न स॑हत आह॒वेषु॑ ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 175. Vol 21 Mandala 6 sukta 46 Rks 5 (end)-11 (start)
+**Progress note:** Done through printed p. 181. Rik 11 end to 14 of sukta 46, intro of sukta 47, Rik 1 samhita
