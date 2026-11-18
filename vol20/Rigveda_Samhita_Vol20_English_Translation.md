@@ -17343,6 +17343,268 @@ Agni, the inovker of the gods, the lord of sacrifice, abides in the dwelling of 
 
 "Dyauḥ" is the praiser; "sarvatāteva": the word "iva" is only a filler. "Sarvatātā" is a name of the sacrifice**NOTE**: it is the sacrifice being extended by all. Or else, "sarvatāti" is formed from the word "sarva" with a suffix that adds no meaning of its own; "sarvaḥ" is the praiser.
 
+### Printed p. 509
+
+> हे यजत्र यष्टव्य राजन् राजमानाग्ने अपाके प्राज्ञे त्वे यस्मिंस्ते त्वयि सु
+> अत्यंतं नु क्षिप्रमा यक्षत् आयजति हवींषि जुहोति त्रिषधस्थस्त्रिषु लोकेषु सह
+> स्थितः । यद्वा । गार्हपत्यादिरूपेण त्रिधावस्थितः । तादृशस्त्वं ततरुषो न तरिता सूर्य
+> इव जंहः शीघ्रं गंता भव ॥ जंह इति हंतेर्गतिकर्मणो रूपं ॥ यद्वा ॥ त्या
+> प्लवनतरणयोरित्यस्मात्कौ रूपं ततर्वानिति । तस्य षष्ठ्यां रूपमेतत्ततरुष इति ॥
+> तरितुः सूर्यस्येव जंहो वेगस्तव भवत्वित्यथः । किमर्थं । मघानि मंहनीयानि
+> प्रशस्यानि मानुषा मनुष्याणां संबंधीनि हव्या हव्यानि हवींषि यजध्यै यष्टुं
+> देवेभ्यो दातुं ॥
+
+##### Gist of the bhāṣya
+
+"O Yajatra, adorable one, "rājan", shining Agni, in you, "apāke", the wise, "su", exceedingly, "nu", quickly, "ā yakṣat": he offers, he pours the oblations. "Triṣadhasthaḥ": abiding together in the three worlds; or else abiding in a threefold manner in the forms of Gārhapatya and the rest. You, being such, "tatarūṣo na", like the one who crosses, the sun, "jaṃhaḥ": be a swift goer; "jaṃhaḥ" is a form of the root "han" in the sense of motion. Or else, from the root "tṝ" in the sense of floating and crossing, the form "tatarvān" arises, and its genitive is "tatarūṣaḥ"; so "may your speed be like that of the one who crosses, the sun". For what purpose? "Maghāni": praiseworthy, "mānuṣā": belonging to men, "havyā": oblations, "yajadhyai": in order to offer, to give to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्र (*yajatra*)—who are adorable
+- राजन् (*rājan*)—O resplendent Agni
+- सर्वतातेव (*sarvatāteva*)—in the sacrifice
+- द्यौः (*dyauḥ*)—the praiser
+- अपाके (*apāke*)—who are wise
+- यस्मिन् त्वे (*yasmin tve*)—in whom, in you
+- सु (*su*)—exceedingly
+- नु (*nu*)—quickly
+- आ यक्षत् (*ā yakṣat*)—offers the oblation (when)
+- त्रिषधस्थः (*triṣadhasthaḥ*)—you who pervade the three worlds, such as you are
+- मानुषा (*mānuṣā*)—offered by men
+- मघानि (*maghāni*)—and worthy of honour
+- हव्या (*havyā*)—the oblations
+- यजध्यै (*yajadhyai*)—to carry and distribute to the gods
+- ततुरुषो न (*taturuṣo na*)—like the sun
+- जंहः (*jaṃhaḥ*)—be swift-going
+
+##### भावार्थ (Bhāvārtha)
+
+O adorable and resplendent Agni, in you, the wise, to whom the praiser at the sacrifice offers the oblation exceedingly and quickly, you who pervade the three worlds, such as you are, be swift-going like the sun, in order to carry to the gods and distribute the oblations that are offered by men and are worthy of honour.
+
+##### English translation
+Adorable and resplendent Agni, to whom, mature in wisdom, the worshipper offers oblations at every sacred rite, you who are present in the three (worlds) move with the speed of the traverser (of the sky, the sun) to convey the valuable oblations of men (to the gods).
+
+### Printed p. 510
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेजि॑ष्ठा॒ यस्या॑र॒तिर्व॑ने॒राट् तो॒दो अध्व॒न्न वृ॑धसा॒नो  ॑
+> अद्यौत् ।  
+> अ॒द्रो॒घो न द्र॑वि॒ता चे॑तति॒ तन्नम॑र्त्यो॒र्वत्र ओष॑धीषु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेजिष्ठा । यस्य । अरतिः । वनेऽराट् । तोदः । अध्वन् । न । वृधसानः । अदौत् ।  
+> अद्रोघः । न । द्रविता । चेतति । त्मन् । अमर्त्यः । अवत्रृः । ओषधीषु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्याग्नेररतिर्गंत्री ज्वाला तेजिष्ठातिशयेन तेजस्विनी सती वनेराट् दावरूपेणारण्ये राजमाना वर्तते वृधसानो वर्धमानः सोऽग्निस्तोदो अध्वन् न ।
+> तोदः सर्वस्य प्रेरकः सूर्यः । स इवाध्वनि स्वमार्गेऽंतरिक्षेऽद्यौत् । प्रकाशते ।
+> अपि चाद्रोघो न अद्रोग्यव्यः । यद्वा । प्राणरूपेण सर्वेषामद्रोग्था
+> वायुरिव तादृशोऽमर्त्यो मरणरहितः सोऽग्निरोषधीषु । ओषः पाक विषु
+> धीयत इत्योषधयो वनानि । तेषु द्रविता शीघ्रगामि सन् आवत्रः केनाप्यवारणीयश्च भवन् त्मन्नात्मना स्वप्रकाशेनैव चेतति । चेतयति । सर्वं जगत् ज्ञापयति ॥
+
+##### Gist of the bhāṣya
+
+The "aratiḥ", the moving flame, of which Agni, being "tejiṣṭhā", most brilliant, shines in the forest ("vanerāṭ") in the form of a forest fire, growing ("vṛdhasānaḥ"): that Agni shines ("adyaut") on his own path, in the atmosphere, like "todaḥ", the sun, the impeller of all. Moreover, "adrogho na": one who is not to be harmed; or else, like Vāyu, who in the form of breath does no harm to any being; such an Agni, immortal, free from death, among the "oṣadhīṣu": "oṣa" is burning, and it is placed ("dhīyate") in them, so the "oṣadhis" are the forests. Among them, being swift-going ("dravitā") and "avatraḥ", not to be checked by anything, he "cetati", makes known, illumines the whole world by himself, by his own light alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Agni
+- आरतिः (*āratiḥ*)—the spreading flame
+- तेजिष्ठा (*tejiṣṭhā*)—having exceeding splendour
+- वनेराट् (*vanerāṭ*)—shines in the forest in the form of a forest fire (which)
+- वृधसानः (*vṛdhasānaḥ*)—that same Agni who grows
+- तोदः (*todaḥ*)—the sun
+- अध्वन्न (*adhvanna*)—as he shines in the atmosphere, his path of movement
+- अद्यात् (*adyāt*)—shines
+- अद्रोघो न (*adrogho na*)—like the wind
+- अमर्त्यः (*amartyaḥ*)—Agni, free from the nature of death
+- ओषधीषु (*oṣadhīṣu*)—among the plants
+- द्रविता शीघ्रगामि (*dravitā śīghragāmi*)—being swift-going
+- अवर्त्रः (*avartraḥ*)—with unimpeded spread
+- त्मन् (*tman*)—by his own light alone
+- चेतति (*cetati*)—illumines the whole world
+
+##### भावार्थ (Bhāvārtha)
+
+The flame of that Agni, spreading everywhere and having exceeding splendour, shines in the forest in the form of a forest fire; that Agni, who grows, shines like the sun that shines in his path of movement,
+
+### Printed p. 511
+
+the atmosphere. And Agni, who like the wind is free from the nature of death, being swift in spreading among the plants, illumines the whole world with his own radiance.
+
+##### English translation
+He whose pure and spreading flame blazes in the forest, shines with increasing intensity, like the sun on his (celestial) path : rushing like the innocuous (wind) amongst the plants. immortal, unimpeded, he lights up (all things) by his own (lustre).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सास्माके॑भिरे॒तरी॒ न शू॒पैर॒ग्निः ष्ट॑वे॒ दम॒ आ जा॒तवे॑दाः ।  
+> द्र्व॑न्नो व॒न्वन् क्रत्वा॒ नार्वो॒स्रः पि॒तेव॑ जार॒यायि॑  ॒
+> यज्ञैः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अस्माकेभिः । एतरि । न । शूषैः । अग्निः । स्तवे । दमे । आ । जातवेदाः ।  
+> द्रुऽन्नः । वन्वन् । क्रत्वा । न । अर्वा । उस्रः । पिताइव । जारयायि । यज्ञैः॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदा जातधनो जातप्रज्ञो वा सोऽग्निरस्माकेभिरस्मदीयैः स्तोतृभिरेतरी न । एतरि गंतरि याचमाने पुरुषे विद्यमानानि स्तोत्राणि यथात्यंतं
+> सुखकराणि तथा शूषैः सुखकरैः स्तोत्रैर्दमेऽस्मदीये यज्ञगृह आ अभिमुख्यन
+> स्तवे । स्तूयते । अपि च द्रुवन्नः । द्रुद्रुमः । स एवान्नं यस्य स तथोक्तः । अत
+> एव वन्वन् वनानि संभजन् क्रत्वा न क्रतुनात्मीयेन कर्मणा चार्वा गंता च भवति ।
+> तत्र दृष्टांतः ! उस्रः पितेव । पिता पालयिता वत्सानां जनको वोस्रो वृषभ इव ।
+> स यथा मैथुनार्थं शीघ्रं गच्छति तद्वत् । यज्ञैर्यज्ञवद्धिर्यजमानैश्च
+> जारयायि । स्तूयते ॥ जरतेः स्तुतिकर्मण एतद्रूपं ॥
+
+##### Gist of the bhāṣya
+
+"Jātavedāḥ": one in whom wealth is born, or in whom knowledge is born. That Agni is praised by our praisers "etarī na": as praises that exist in a petitioner who goes to a patron are exceedingly pleasing, so he is praised, facing us, with "śūṣaiḥ", pleasing praises, in "dame", our sacrificial house. Moreover, "druvannaḥ": "dru" is a tree, and he whose food that is is so called. Therefore "vanvan", sharing in forests, "kratvā na", by his own action, he is also "arvā", a goer. The illustration is "usraḥ piteva": "pitā" is the protector and begetter of calves, the bull ("usraḥ"); as that goes swiftly for mating, so he. "Yajñaiḥ", by those who have sacrifices, the sacrificers, "jārayāyi": he is praised; this is the form of the root "jṝ" in the sense of praising.
+
+### Printed p. 512
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदाः (*jātavedāḥ*)—who is of the form of Jātavedas
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- अस्माकेभिः (*asmākebhiḥ*)—by us, the praisers
+- एतरि न (*etari na*)—like the excellent praises that are in a petitioner
+- शूपैः (*śūpaiḥ*)—with pleasing hymns of praise
+- दमे (*dame*)—in our sacrificial house
+- आ स्तवे (*ā stave*)—is praised exceedingly
+- द्रन्नः (*drannaḥ*)—eater of trees
+- वन्वन् (*vanvan*)—destroyer of forests (becoming)
+- उस्रः पितेव (*usraḥ piteva*)—like a bull
+- क्रत्वा न (*kratvā na*)—intent on his own work
+- अर्वा (*arvā*)—becomes swift-going
+- यज्ञैः (*yajñaiḥ*)—by the sacrificers
+- जारयायि (*jārayāyi*)—(is born) is praised
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is of the form of Jātavedas, is praised exceedingly in the sacrificial house by us, who have composed pleasing hymns of praise like the excellent praises that are in a petitioner. Having trees as his food, a destroyer of forests, he becomes swift-going, intent on his own work like a bull. And, born from the sacrificers, he is praised.
+
+##### English translation
+Agni, who knows all that exists, is propitiated in our dwelling by our praises, like those gratifying (commendations which proceed) from one soliciting (a favour) : feeder upon trees, consumer of forests, impetuous in act as bull, the (progenitor of calves), he is glorified by the celebration of sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word जारयायि (*jārayāyi*) Yāska has given the explanation उस्र इव गोपिताजायि यज्ञैः (*usra iva gopitājāyi yajñaiḥ*) (Ni. 6-15). जारयायि (*jārayāyi*) means अजायि (*ajāyi*), that is, he has been born. The intention is that, as a bull protects its herd of cows, so Agni has been born on this sacrificial ground in order to protect those who worship him for the sake of the sacrifice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ स्मास्य पनयंति॒ भासो॒ वृथा॒ यत्तक्ष॑दनु॒याति॑ पृ॒थ्वीं ।  
+> स॒द्यो यः स्यं॒द्रो विषि॑तो॒ धवी॑यान्नृ॒णो न ता॒युरति॒ ॑ 
+> धन्वा राट् ॥ ५ ॥
+
+### Printed p. 513
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । स्म । अस्य । पनयंति । भासः । वृथा । यत् । तक्षत् । अनुयाति । पृथ्वीं ।  
+> सद्यः । यः । स्यंद्रः । विसितः । धवीयान् । ऋणः । न । तायुः । अति । धन्व । राट् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधास्मिंल्लोके । स्मेति पूरकः । अस्याग्नेर्भासो रश्मीन् पनयंति । स्तोतारः
+> स्तुवंति । यद्यदा वृथानायासेन तक्षत् तक्षन् तनूकुर्वन् वनानि सम्यग्दहन्
+> पृथ्विं विस्तीर्णामरण्यभुवमनुयात्यनुगच्छति तदानीं पनयंतीत्यन्वयः ।
+> योऽग्निः स्यंद्रः स्यंदनवान् विषितो विमुक्तः प्रतिबंधरहितः अत एव सद्यः शीघ्रं
+> धवीयान् गंतृतमो भवति । क इव । ऋणो न तायुः ॥ ऋणोतिर्गतिकर्मा ॥
+> तायुरिति स्तेननाम । यथा स्तेनः शीघ्रं गंता भवति तद्वत्सोऽयमग्निर्धन्व
+> मरुभूमिमतिक्रम्य राट् । राजते । यद्वा । भन्वंतस्यादाप इति धन्वांतरिक्षं ।
+> अतिशयेनांतरिक्षमाक्रम्य राजते ॥
+
+##### Gist of the bhāṣya
+
+"Adha": in this world; "sma" is only a filler. "Asya", of this Agni, "bhāsaḥ", the rays, "panayanti": the praisers praise. When "vṛthā", without effort, "takṣat", paring away, that is, reducing the forests, burning them well, he follows ("anuyāti") the broad earth, the forest-land, then they praise: this is the construction. That Agni, "syandraḥ", flowing, "viṣitaḥ", released, free from restraint, therefore at once, quickly, becomes "dhavīyān", the swiftest goer. Like whom? "Ṛṇo na tāyuḥ": the root "ṛṇ" has the sense of motion, and "tāyu" is a name for a thief; as a thief is a swift goer, so this Agni, having passed over "dhanva", the desert land, shines ("rāṭ"). Or else "dhanva" is the atmosphere; having traversed the atmosphere greatly, he shines.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वृथा (*vṛthā*)—without any effort
+- तक्षत् (*takṣat*)—burning the forests completely
+- पृथ्विं (*pṛthviṃ*)—the forest regions
+- अनुयाति (*anuyāti*)—he overruns (at that time)
+- अध (*adha*)—in this world
+- अस्य (*asya*)—of this Agni
+- भासः (*bhāsaḥ*)—the rays
+- पनयंति (*panayaṃti*)—the praisers praise
+- यः (*yaḥ*)—that same Agni
+- स्यंद्रः (*syaṃdraḥ*)—quivering
+- विषितः (*viṣitaḥ*)—unrestrained
+- ऋणो न तायुः (*ṛṇo na tāyuḥ*)—as a thief runs, having carried off wealth
+- सद्यः (*sadyaḥ*)—quickly
+- धवीयान् (*dhavīyān*)—he runs and spreads everywhere
+- धन्व (*dhanva*)—overrunning all the deserts
+- अति राट् (*ati rāṭ*)—he shines exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni, burning the forests completely without any effort, overruns the forest regions, all the people of this world praise the rays of Agni. That same Agni, quivering and unrestrained, spreads everywhere quickly, as a thief runs having carried off wealth. And, overrunning all the deserts, he shines exceedingly.
+
+##### English translation
+Th y glorify his flames in this world: when, easily thinning the woods, they spread over the earth: he, who glides along unarrested, and rapid in movement as a fast flying thief, shines over the desert.
+
+### Printed p. 514
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं नो॑ अर्व॒न्निदा॑या॒ विश्वे॑भिरग्ने अ॒ग्निभि॑रिधा॒नः ।  
+> वेषि॑ रा॒यो वि या॑सि दु॒च्चुना॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । अर्वन् । निदायाः । विश्वेभिः । अग्ने । अग्निभिः । इधानः ।  
+> वेषि । रायः । वि । यासि । दुच्छुनाः । मदेम । शत्रुहिमाः । सुवीराः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अर्वन् गंतरग्ने स तादृशस्त्वं निदाया निंदित्र्याः प्रजाया निंदाया
+> एव वा पाहीति शेषः । कथंभूतः सन् । विश्वेभिः सर्वैरग्निभिस्त्वच्छाखाभूतैरिधान
+> इध्यमानः सन्। रायो धनानि चास्मान् वेषि । गमय । यद्वा । हविर्लक्षणानि धनानि
+> वेषि । कामयसे । दुच्चुना दुःखकारिणीः शत्रुसेना वि यासि च । विविधं गमयसि
+> च । वयं च सुवीराः शोभनपुत्रपौत्राः संतः शतहिमाः शतं संवत्सरान्मदेम ।
+> मोदेम ॥
+
+##### Gist of the bhāṣya
+
+"O Arvan, Agni, goer, you, being such, protect us from "nidāyāḥ", from a blameworthy progeny or from blame itself": this is the remainder to be supplied. Being what? "Viśvebhiḥ", with all the fires that are your branches, being kindled. And "rāyaḥ", riches, you "veṣi": you bring, you make go to us. Or else you "veṣi": you desire riches in the form of oblations. "Duccunā": the hostile armies that bring distress you "vi yāsi": you drive apart in various directions. And we, "suvīrāḥ", with fine sons and grandsons, for "śatahimāḥ", a hundred winters, that is, years, "madema": may we rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्वन् (*arvan*)—swift-going
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—possessing the qualities described above
+- त्वं (*tvaṃ*)—you
+- विश्वेभिः (*viśvebhiḥ*)—all, who are your branches
+- अग्निभिः (*agnibhiḥ*)—together with the fires
+- इधानः (*idhānaḥ*)—blazing
+- नः (*naḥ*)—us
+- निदायाः (*nidāyāḥ*)—save from blame
+- रायः (*rāyaḥ*)—riches
+- वेषि (*veṣi*)—provide
+- दुच्चुनाः (*duccunāḥ*)—the enemies who cause distress
+- वि यासि (*vi yāsi*)—scatter far away
+- वयं (*vayaṃ*)—we
+- सुवीराः (*suvīrāḥ*)—together with heroic sons
+- शतहिमाः (*śatahimāḥ*)—a hundred years
+- मदेम (*madema*)—may we be in joy
+
+##### भावार्थ (Bhāvārtha)
+
+O swift-going Agni, you who possess the qualities described above, blazing together with all the fires that are your branches (the Āhavanīya, the Gārhapatya and the rest), save us from blame. And provide us with riches. Scatter the enemies who cause distress far away. May we, together with heroic sons, be in joy for a hundred years.
+
 ---
 
-**Progress note:** Done through printed p. 508. Vol 20 pp. 502-508: 6.1.11 Ṛks 3-6, sūkta 12 intro, Ṛks 1-2 (partial)
+**Progress note:** Done through printed p. 514. Vol 20 pp. 509-514: 6.1.12 Ṛk 2 end, Ṛks 3-6
