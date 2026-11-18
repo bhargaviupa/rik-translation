@@ -275,7 +275,6 @@ NOT IN LIST	Śr. Brā.			no list form close to it	none		1													1
 NOT IN LIST	R. V.			no list form close to it	none		1													1				
 NOT IN LIST	E. XXXII. P.			no list form close to it	none		1													1				
 NOT IN LIST	Tai. Sa.			no list form close to it	none		1													1				
-NOT IN LIST	Mā. Saṃ.			no list form close to it	none		1													1				
 NOT IN LIST	M. Saṃ.			no list form close to it	none		1													1				
 NOT IN LIST	R. S.			no list form close to it	none		1														1			
 NOT IN LIST	Gṛ. Sū.			no list form close to it	none		1														1			
@@ -425,6 +424,7 @@ mistake	mu. u.	→ Mu. U.					1								1
 mistake	chā. u.	→ Chā. U.					1								1									
 mistake	śve. u.	→ Śve. U.					1												1					
 mistake	Pra.	→ Pra. U.					1												1					
+mistake	Mā. Saṃ.	→ Ṛ. Saṃ.					1													1				
 mistake	Sāṃ. Śrau.	→ Sāṃ. Śrau. Sū.					1														1			
 mistake	bṛ. de.	→ Bṛ. De.					1																	1
 extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					239		3	18	19	2	19	32	31		8	1	44	7		50	5	
@@ -482,7 +482,7 @@ Devanagari	उ. सू.		U. Sū.	Devanagari read as u. sū.; same letters; only 
 Devanagari	तै. सं.		Tai. Saṃ.	Devanagari read as tai. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	129	20	16	6	6	6	14	4	2	5	5	2	6	22	2	5	5	3
 Devanagari	ऐ. ब्रा.		Ai. Brā.	Devanagari read as ai. brā.; same letters; only capitals, dots or spaces differ	high	yes	101	6	5	21	5	4	3	8	3	6	2	1	5	9	5	7	9	2
 Devanagari	ऋग्वे.		Ṛ. Saṃ.	Devanagari read as ṛgve.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	95		19	8	2	5	4		1						7	2	25	22
-Devanagari	म. सं.			Devanagari read as ma. saṃ.; no list form close to it	none		95													93	2			
+Devanagari	म. सं.		Ṛ. Saṃ.	Devanagari read as ma. saṃ.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	95													93	2			
 Devanagari	ऋ.		Ṛ. Saṃ.	Devanagari read as ṛ.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	63	8							7	6	15	14	7	6				
 Devanagari	का.			Devanagari read as kā.; no list form close to it	none		58		5	6	8	7	6	10	5	6	1	2	2					
 Devanagari	तै. ब्रा.		Tai. Brā.	Devanagari read as tai. brā.; same letters; only capitals, dots or spaces differ	high	yes	54	9	3	2		5	4	5	5		3			16				2
