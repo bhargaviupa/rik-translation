@@ -11349,6 +11349,260 @@ Sāyaṇa says: O Indra, O possessor of bay horses, O hero, these two jaws of yo
 
 O Indra, you who are yoked with horses and are a hero, may Soma climb up and fill your jaws, the instrument of striking enemies, as one climbs the summit of a mountain. O Indra, lord, called by many, gladdening you with our praises as one pleases horses with grass and the like, we all shall rejoice with you.
 
+### Printed p. 286
+
+##### English translation
+Hero, lord of horses, may the the Soma ascend to your destructive jaw, as if to the summit of a mountain : may we all, royal Indra, who are invoked of many, give pleasure to you with our hymns, as to horses with fodder.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒क्रं न वृ॒त्तं पु॑रुहूत वेपते॒ मनो॑ भि॒या मे॒ अम॑ते॒रिद॑द्रवः ।  
+> रथा॒दधि॑ त्वा जरि॒ता स॑दावृध कु॒विन्नु स्तो॑षन्मघवन्नुरू॒वसुः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्रं । न । वृत्तं । पुरुहूत । वेपते । मनः । भिया । मे । अमतेः । इत् ।  
+> अद्रिवः ।  
+> रथात् । अधि । त्वा । जरिता । सदावृध । कुवित् । नु । स्तोषत् । मघवन् ।  
+> पुरुर्वसुः ॥ २ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूत हे अद्रिवो वज्रवन्निंद्र मे मनोऽमतेरिद्दारिद्रादस्तोतुर्वा सकाशाद्भिया भीत्या वेपते । कंपते । वृत्तं चक्रं न भूमौ
+> वर्तमानं चक्रमिव । यस्मादेवं तस्माद्रथादध्युपरि स्थितं त्वा त्वां हे सदावृध
+> सर्वदा वर्धमान हे मघवन्निंद्र जरिता स्तोता पुरूवसुरहमृषिः कुविद्बहु नु
+> क्षिप्रं स्तोषत् । स्तोष्यति । स्तूयात् ॥ अत्र कुविच्छब्दयोगेऽप्याख्यातस्य बहुलग्रहणान्निघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Puruhūta, called by many, O Adrivas, Indra armed with the thunderbolt, my mind trembles with fear, that is, shakes, from poverty (मनोऽमतेरिद्दारिद्रादस्तोतुर्वा (*mano 'materiddāridrādastoturvā*) is read here as "from poverty, or from one who does not praise"),**NOTE** like a wheel rolling on the ground. Because this is so, O ever-growing one (सदावृध (*sadāvṛdha*)), O Maghavan Indra, I, the praiser, the seer Puruvasu, will quickly and abundantly (कुविद्बहु नु क्षिप्रं (*kuvidbahu nu kṣipraṃ*) is his gloss of *kuvit* and *nu*) praise you, who stand above the chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—who are called by many
+- अद्रिवः (*adrivaḥ*)—and who hold the thunderbolt
+- मे (*me*)—my
+- मनः (*manaḥ*)—mind
+- अमशेः (*amaśeḥ*)—of poverty
+- भिया (*bhiyā*)—through fear
+
+### Printed p. 287
+
+- वृत्तं (*vṛttaṃ*)—which is rolling on the ground
+- चक्रं न (*cakraṃ na*)—like a wheel
+- वेपते (*vepate*)—trembles
+- सदावृध (*sadāvṛdha*)—who always grow
+- मघवन् (*maghavan*)—and are wealthy, O Indra
+- रथादधि (*rathādadhi*)—who stand on the chariot
+- त्वां (*tvāṃ*)—you
+- जरिता (*jaritā*)—the praiser
+- पुरूवसुः (*purūvasuḥ*)—named Puruvasu, I
+- कुवित् (*kuvit*)—in many ways
+- नु (*nu*)—and quickly
+- स्तोषत् (*stoṣat*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, called by many and holding the thunderbolt, my mind trembles through fear of poverty like a wheel rolling on the ground. O Indra, who always grow and are wealthy, I, the praiser named Puruvasu, praise you, who stand on the chariot, in many ways and quickly.
+
+##### English translation
+Wielder of the thunderbolt, the invoked of many, my mind trembles through dread of poverty like a whirling wheel : Maghavan, ever prosperous, may your worshipper, Puruvasu, praise you promptly and abundantly, seated in your chariot.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष ग्रावे॑व जरि॒ता त॑ इं॒द्रेय॑र्ति॒ वाचं॑ बृ॒हदा॑शुषा॒णः ।  
+> प्र स॒व्येन॑ मघव॒न्यंसि॑ रा॒यः प्र द॑क्षि॒णिद्ध॑रिवो॒ मा वि  ॑
+> वेनः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । गावाइव । जरिता । ते । इंद्र । इयर्ति । वाचं । बृहत् । आशुषाणः ।  
+> प्र । सव्येन । मघवन् । यंसि । रायः । प्र । दक्षिणित् । हरिवः । मा । वि ।  
+> वेनः ॥ ४ ॥
+
+### Printed p. 288
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष जरिता गरिता स्तोता ग्रावेवाभिषवाश्मेव । स यथा रसं जनयति तद्वत्
+> हे इंद्र ते तुभ्यं वाचं स्तुतिमियर्ति । प्रेरयतीत्यर्थः । बृहन्महत्प्रभूतं
+> फलमाशुषाण आशु संभक्ता सन् हे मघवन् सव्येन हस्तेन रायो धनानि प्र
+> यंसि । प्रयच्छसि । दक्षिणिद्दक्षिणेनापि प्र यंसीति शेषः । मा वि वेनः । विगतकामं
+> मा कार्षिः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This praiser, like the pressing stone (ग्रावेव (*grāveva*)), which produces the juice, sends forth (इयर्ति (*iyarti*), that is, urges on) praise to you, O Indra, quickly obtaining great, abundant fruit. O Maghavan, with the left hand you give riches (प्र यंसि (*pra yaṃsi*), that is, you give); the remainder is to be supplied thus: with the right hand also you give. Do not disappoint him (मा वि वेनः (*mā vi venaḥ*)): do not make him bereft of desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- एषः जरिता (*eṣaḥ jaritā*)—this praiser
+- बृहत् (*bṛhat*)—abundant
+- आशुषाणः (*āśuṣāṇaḥ*)—looking for fruit
+- ग्रावेव (*grāveva*)—as the stone that presses Soma produces the juice
+- ते (*te*)—which praises you
+- वाचं (*vācaṃ*)—praise
+- इयति (*iyati*)—produces
+- मघवन् (*maghavan*)—O wealthy Indra
+- सव्येन (*savyena*)—with the left hand
+- रायः (*rāyaḥ*)—riches
+- प्र यंसि (*pra yaṃsi*)—you give
+- हरिवः (*harivaḥ*)—O Indra, yoked with horses
+- दक्षिणित् (*dakṣiṇit*)—with the right hand also
+- प्र (*pra*)—give (generously)
+- मा वि वेनः (*mā vi venaḥ*)—do not hold back from giving
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this praiser, looking for abundant fruit, brings forth praise of you, as the stone that presses Soma brings out the juice. O wealthy Indra, you give riches with the left hand; in the same way, O Indra yoked with horses, give with the right hand also. Give generously; do not hold back from giving.
+
+##### English translation
+This your adorer, Indra, like the stone (that express the Soma juice), urges praise to you, participating in the great (reward): you bestow, Maghavan, riches with your left hand, you bestow them, lord of horses, with the right : be not reluctant.
+
+### Printed p. 289
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ त्वा॒ वृष॑णं वर्धतु॒ द्यौर्वृषा॒ वृष॑भ्यां वहसे॒ हरि॑भ्यां।  
+> स नो॒ वृषा॒ वृष॑रथः सुशिप्र॒ वृष॑क्रतो॒ वृषा॑ वज्रि॒न्भरे॑ धाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । त्वा ॥ वृषणं । वर्धतु । द्यौः । वृषा । वृषभ्यां । वहसे । हरिभ्यां ।  
+> सर् । नः । वृषा । वृषरथः । सुशिप्र । वृषक्रतो इति वृषक्रतो । वृषा । वज्रिन् ।  
+> भरे । धाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां वृषा वर्षित्री द्यौर्द्योतयित्रि स्तुतिः ॥ द्योततेर्दीव्यतीर्वा स्तुत्यर्थस्येदं रूपं ॥ वृषणं कामानां वर्षकं त्वां वर्धतु ।
+> वर्धयतु । वृषा त्वं वृषभ्यां सेक्तृभ्यां हरिभ्यां वहसे । यज्ञं प्रत्युह्यसे ।
+> सुशिप्र शोभनहनो वृषक्रतो वर्षणकर्मन् हे वज्रिन् वज्रयुक्तेंद्र स त्वं
+> वृषा वृषरथश्च सन् नोऽस्मान् भरे संग्रामे भरणवति यज्ञे वा धाः । धारय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may praise, which rains and illumines (द्यौः (*dyauḥ*), a form of the root meaning "to shine" or "to play", used in the sense of praise), increase you, the showerer of desires. You, the showerer, are borne to the sacrifice by the two showering (that is, sprinkling) bay horses. O Suśipra, of fine jaws, O you of showering deeds, O wielder of the thunderbolt, Indra, being such a showerer with a showering chariot, uphold (धाः (*dhāḥ*), that is, support) us in battle, or in the sacrifice that bears us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—this praise, which gives satisfaction (O Indra)
+- द्यौः (*dyauḥ*)—and which shines
+- वृषणं (*vṛṣaṇaṃ*)—who rain down desires
+- त्वा (*tvā*)—you
+- वर्धतु (*vardhatu*)—may it make grow
+- वृषा (*vṛṣā*)—you who rain down desires
+- वृषभ्यां (*vṛṣabhyāṃ*)—which have the power to sprinkle
+- हरिभ्यां (*haribhyāṃ*)—by the horses
+- वहसे (*vahase*)—are borne
+- सुशिप्र (*suśipra*)—who have fine cheeks
+- वृषक्रतो (*vṛṣakrato*)—who have deeds that grant desires
+- वज्रिन् (*vajrin*)—O Indra, who hold the thunderbolt
+- वृषा (*vṛṣā*)—who have the power to sprinkle
+- वृषरथः (*vṛṣarathaḥ*)—and have a chariot that grants desires
+- सः (*saḥ*)—you
+- नः (*naḥ*)—us
+- भरे (*bhare*)—in battle
+- धाः (*dhāḥ*)—uphold (protect)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may this praise, which gives satisfaction and shines, make you, the rainer of desires, grow. You, the rainer of desires, are borne by horses that have the power to sprinkle. O Indra, who have fine cheeks, deeds that grant desires, and who hold the thunderbolt, you who have the power to sprinkle and a chariot that grants desires, protect us in battle.
+
+### Printed p. 290
+
+##### English translation
+May the effective eulogium melt you, the showerer (of benefits): you, the showerer, are borne (to the sacrifice) by vigorous steeds: sender of rain, you of the handsome chin, wielder of the thunderbolt, showerer whose car showers down (blessings), you defend us in battle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो रोहि॑तौ वा॒जिन्॑ वा॒जिनी॑वान्त्रि॒भिः श॒तैः सच॑माना॒वदि॑ष्ट।  
+> यूने॒ सम॑स्मै क्षि॒तयो॑ नमंतां श्रु॒तर॑थाय मरुतो  ॒
+> दुवोया ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । रोहितौ । वाजिनौ । वाजिनीऽवान् । त्रिभिः । शतैः । सचमानौ । अदिष्ट ।  
+> यूने । सं । अस्मै । क्षितयः । नमंतां । श्रुतरथाय । मरुतः । दुवःऽया ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं शत्रुतरथस्य राजेण दानस्तुतिः । यो राजा वाजिनीवानन्नवान्
+> श्रुतरथो रोहितौ रोहितवर्णौ वाजिनौ वेजनवंतावश्वा त्रिभिः शतैर्गवां
+> धनानां ना उक्तसंख्याभिः सचमानौ संगच्छमानावदिष्ट ॥ वदातेर्दिशतीर्वा
+> लुजेदं रूपं ॥ यूने सर्वत्र मिश्रयित्रे नित्यतरुणाय वास्मै श्रुतरथाय
+> क्षितयः सर्वाः प्रजा दुवोया ॥ तृतीयैकवचनस्य याजादेशः ॥ परिचयया
+> सं नमंतां । प्रणता भवंतु । सेवंतामित्यर्थः । हे मरुत इतींद्रसहायभूतानां मरुतां संबोधनं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This is a praise of the gift of King Śrutaratha. The king who is rich in food, Śrutaratha, gave (अदिष्ट (*adiṣṭa*)) two red (रोहितौ (*rohitau*)) swift horses (वाजिनौ (*vājinau*)), joined with three hundreds, of the stated number, of cows, that is, of wealth.**NOTE** To him, the ever-youthful (यूने (*yūne*): one who mixes with all everywhere, or who is always young), to this Śrutaratha, may all peoples (क्षितयः (*kṣitayaḥ*)), in service (दुवोया (*duvoyā*), that is, in attendance), bow together, that is, be submissive and serve. "O Maruts" is an address to the Maruts, the helpers of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वाजिनीवान् (*vājinīvān*)—who is rich in food
+- यः (*yaḥ*)—the king named Śrutaratha who
+- रोहितौ (*rohitau*)—of golden colour
+- वाजिनौ (*vājinau*)—swift
+- त्रिभिः शतैः (*tribhiḥ śataiḥ*)—with three hundred cows
+- सचमानौ (*sacamānau*)—joined: those two horses
+- आदिष्ट (*ādiṣṭa*)—gave
+
+### Printed p. 291
+
+- यूने (*yūne*)—to the youthful
+- अस्मै श्रुतंथाय (*asmai śrutaṃthāya*)—to this Śrutaratha
+- क्षितयः (*kṣitayaḥ*)—all peoples
+- दुवोया (*duvoyā*)—may they offer service
+- सं नमंतां (*saṃ namaṃtāṃ*)—may they bow with loyalty to the king
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, to this youthful Śrutaratha, rich in food, who gave two golden-coloured, swift horses and three hundred cows, may all the peoples offer service and bow with loyalty to the king.
+
+##### English translation
+Maruts, may all men bow in obedience to that youthful Shrutaratha, the possessor of abundance, who has bestowed (upon us) two bay steeds accompanied by three hundred (cattle).
+
+## Sūkta 37 (Maṇḍala 5)
+
+The thirty-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सं भानुनेति पंचर्चं पंचमं सूक्तमत्रेरार्षं त्रैष्टुभमैंद्रं । सं
+> भानुना पंचात्रिरित्यनुक्रमणिका ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The fifth sūkta, सं भानुनेति (*saṃ bhānuneti*), has five ṛks; its seer is Atri, its metre is Triṣṭubh and its deity is Indra. The Anukramaṇikā says: सं भानुना पंचात्रिरित्यनुक्रमणिका (*saṃ bhānunā paṃcātrirityanukramaṇikā*). The use in ritual is laiṅgika.
+
+Translation of the Anuvāda: This sūkta, Saṃ bhānunā, is the fifth sūkta in the third anuvāka. There are five ṛks in it. The seer of this sūkta is Atri; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said: "Saṃ bhānunā pañcātriḥ". The use in ritual is laiṅgika.
+
+Sūkta 37.
+
+Maṇḍala 5, Anuvāka 3, Sūkta 37.
+
+Aṣṭaka 4, Adhyāya 2, Varga 8.
+
+Number of Ṛks in the sūkta: 5.
+
+Seer: Atri.
+
+Deity: Indra.
+
+Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 285. Sukta 35 Rk 6-8, sukta 36 Rk 1-2 (pp. 280-285)
+**Progress note:** Done through printed p. 291. Sukta 36 Rk 3-6, sukta 37 introduction (pp. 286-291)
