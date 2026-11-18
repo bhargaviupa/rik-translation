@@ -29,6 +29,7 @@ def _first_words():
     out = {'पु', 'मि', 'सा', 'ता', 'पं', 'म', 'ऋ', 'उ', 'पा', 'फि', 'तै', 'ऐ', 'शा', 'श', 'का', 'वा', 'आ', 'नि', 'ब्र', 'ऋग्वे'}
     return out
 FIRSTW = _first_words()
+REFV = re.compile(r'([\u0900-\u097f]{0,7}विधान\.|[A-Za-zāīūṛṃḥṇṭḍśṣñ]{0,7}vidhāna\.)\s*(' + NUM + ')')       # the Ṛgvidhāna: the long word is read whole (यग्विधान., मुग्विधान., ऋग्विधान.)
 REFL = re.compile(r'(?<![A-Za-zāīūṛṃḥ.])((?:Ṛ|Pu|Mi|Ma|Mu))\s(Saṃ\.)\s*(' + NUM + ')')      # "(Pu Saṃ. 1-3-7)", "(Ṛ Saṃ. 7-55-1)": the dot after the first word is missing in the print
 SUBPAGE = re.compile(r'\*\(\s*pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?[^)]*\)\*')      # "*(p. 440)*", "*(pp. 439–440)*" inside a section whose heading spans several pages
 RANGE = re.compile(r'^#{2,4} Pages?\s+(\d+)\s*[–-]\s*(\d+)')
@@ -36,6 +37,7 @@ PAGE = re.compile(r'^#{2,4} .*?(?:[Pp]age|[Pp]\.|[Pp]ages|[Pp]p\.)\s*([0-9]+|[iv
 GLOSS = re.compile(r'\*\*GLOSS\*\*|\b[Gg]loss(?:es)?\b[^.]{0,30}:|mine and tentative|\(mine\)|— mine\b')
 STOP = {'p', 'pp', 'no', 'nos', 'vol', 'vols', 'cf', 'c', 'e', 'g', 'i', 'viz', 'pdf', 'fig', 'ca', 'a', 'b', 'd', 'ch', 'st', 'dpi', 'ie', 'eg', 'etc'}
 def normlab(x):
+    if re.search(r'(विधान|vidhāna)\.\s*$', x): return x.strip()          # the Ṛgvidhāna: one long word
     # words of the name each followed by '. ' (missing dots, '-', ',' and doubled dots made regular); nothing is read from memory
     ws = re.findall(WORD, x)
     return ' '.join(w + '.' for w in ws)
@@ -68,6 +70,8 @@ def run(vols):
             ms = [(m, m.group(2), m.group(3), m.start(3)) for m in ms] + [(m, m.group(1), m.group(2), m.start(2)) for m in REF.finditer(l) if m.start(2) not in starts]
             lm = [(m, m.group(1) + '. ' + m.group(2), m.group(3), m.start(3)) for m in REFL.finditer(l)]
             ms = [t for t in ms if t[3] not in {x[3] for x in lm}] + lm
+            vm = [(m, m.group(1), m.group(2), m.start(2)) for m in REFV.finditer(l)]
+            ms = [t for t in ms if t[3] not in {x[3] for x in vm}] + vm
             ms.sort(key=lambda t: t[3])
             indic = []                                              # (end, number) of references read in Indic script: their Latin twin in italics follows within 60 characters
             for m, g1, g2, st_ in ms:

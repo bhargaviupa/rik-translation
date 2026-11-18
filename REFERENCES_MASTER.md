@@ -4,11 +4,11 @@
 
 | status | forms | references |
 |---|---|---|
-| NOT IN LIST | 279 | 1571 |
-| mistake | 141 | 14775 |
+| NOT IN LIST | 278 | 1566 |
+| mistake | 142 | 14780 |
 | extra | 32 | 828 |
 | legend | 20 | 14866 |
-| Devanagari | 158 | 8273 |
+| Devanagari | 160 | 8273 |
 
 ## Forms not in the list, most used first (first 60)
 
@@ -27,7 +27,6 @@
 | VII. | 6 | ? (retain) | 10 (2), 11 (1), 14 (2), 18 (1) |
 | T. S. | 5 | ? (none) | 1 (1), 2 (4) |
 | śata. brā. | 5 | Śa. Brā. (high) | 2 (3), 4 (1), 5 (1) |
-| Ṛ. Sū. | 5 | ? (none) | 3 (1), 4 (1), 6 (1), 16 (1), 18 (1) |
 | Brā. | 5 | ? (none) | 5 (1), 11 (1), 12 (1), 15 (1), 17 (1) |
 | IV. | 5 | ? (retain) | 10 (2), 11 (1), 14 (2) |
 | X. | 5 | ? (retain) | 10 (2), 14 (3) |
@@ -78,3 +77,4 @@
 | Tai. Prā. | 2 | ? (none) | 6 (2) |
 | atha. saṃ. | 2 | Ath. Saṃ. (high) | 9 (2) |
 | Vārt. | 2 | ? (none) | 9 (2) |
+| R. V. IV. | 2 | ? (none) | 10 (2) |

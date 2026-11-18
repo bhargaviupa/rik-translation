@@ -12,7 +12,6 @@ NOT IN LIST	Paṃ. Brā.			no list form close to it	none		6					4									2
 NOT IN LIST	VII.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		6										2	1		2				1
 NOT IN LIST	T. S.			no list form close to it	none		5	1	4															
 NOT IN LIST	śata. brā.		Śa. Brā.	known spelling of Śa. Brā. (capitals/dots differ)	high		5		3		1	1												
-NOT IN LIST	Ṛ. Sū.			no list form close to it	none		5			1	1		1									1		1
 NOT IN LIST	Brā.			no list form close to it	none		5					1						1	1		1		1	
 NOT IN LIST	IV.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2	1		2				
 NOT IN LIST	X.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2			3				
@@ -346,6 +345,7 @@ mistake	Kaṭha.	→ Ka. U.					6											3	3
 mistake	Trai. U.	→ Tai. U.					6												3				3	
 mistake	I. Brā.	→ Ai. Brā.					6															3	2	1
 mistake	ā. gṛ.	→ Ā. Gṛ. Sū.					5		1	1	2					1								
+mistake	Ṛ. Sū.	→ Ṛ. Saṃ.					5			1	1		1									1		1
 mistake	Tai. Br.	→ Tai. Brā.					5			2							2				1			
 mistake	Chā. Up.	→ Chā. U.					5								1						4			
 mistake	Kaṭh.	→ Ka. U.					5											1	4					
@@ -514,7 +514,6 @@ Devanagari	छा. उ.		Chā. U.	Devanagari read as chā. u.; same letters; onl
 Devanagari	सा.			Devanagari read as sā.; too short to tell: could be Sā. Saṃ.	none		5												1		2	2		
 Devanagari	कृ. सं.			Devanagari read as kṛ. saṃ.; no list form close to it	none		5													4		1		
 Devanagari	कृ. उ.			Devanagari read as kṛ. u.; no list form close to it	none		5													5				
-Devanagari	विधान.		Ṛgvi.	Devanagari read as vidhāna.; known spelling of Ṛgvi.	high	yes	5													5				
 Devanagari	पू. मी.		Jai. Sū.	Devanagari read as pū. mī.; known spelling of Jai. Sū. (capitals/dots differ)	high	yes	4	4																
 Devanagari	पा. म.		M.	Devanagari read as pā. ma.; user, Nov 18 2026 (later word): Pā. Ma. and पा. म. are the Mahābhāṣya	high	yes	4		3									1						
 Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form close to it	none		4		1			1	1									1		
@@ -530,6 +529,7 @@ Devanagari	वा. सू.		Pā. Sū.	Devanagari read as vā. sū.; known spelli
 Devanagari	पा. पा.		Pā. Sū.	Devanagari read as pā. pā.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	3											3						
 Devanagari	अ. वे.		A. Ve.	Devanagari read as a. ve.; same letters; only capitals, dots or spaces differ	high	yes	3													3				
 Devanagari	बृ. डे.			Devanagari read as bṛ. ḍe.; no list form close to it	none		3													3				
+Devanagari	मुग्विधान.		Ṛgvi.	Devanagari read as mugvidhāna.; user, Nov 18 2026: …vidhāna. is the Ṛgvidhāna (ऋग्विधान); the first letters are misreadings (यग्, मुग्)	high		3													3				
 Devanagari	कौ.		Ka. U.	Devanagari read as kau.; same letters; only capitals, dots or spaces differ	high	yes	2	1										1						
 Devanagari	अनु. ऋग्वे.		Anu.	Devanagari read as anu. ṛgve.; known spelling of Anu.	high	yes	2		2															
 Devanagari	अथ.			Devanagari read as atha.; no list form close to it	none		2					1	1											
@@ -602,6 +602,7 @@ Devanagari	मै. सं.		Mai. Saṃ.	Devanagari read as mai. saṃ.; same let
 Devanagari	सां. गृ. सू.		Sāṃ. Gṛ. Sū.	Devanagari read as sāṃ. gṛ. sū.; known spelling of Sāṃ. Gṛ. Sū.	high	yes	1													1				
 Devanagari	त्रै. उ.		Tai. U.	Devanagari read as trai. u.; known spelling of Tai. U. (capitals/dots differ)	high		1													1				
 Devanagari	त्रि. उ.			Devanagari read as tri. u.; no list form close to it	none		1													1				
+Devanagari	यग्विधान.		Ṛgvi.	Devanagari read as yagvidhāna.; user, Nov 18 2026: …vidhāna. is the Ṛgvidhāna (ऋग्विधान); the first letters are misreadings (यग्, मुग्)	high		1													1				
 Devanagari	अथ. वे.		Ath. Saṃ.	Devanagari read as atha. ve.; known spelling of Ath. Saṃ. (capitals/dots differ)	high	yes	1													1				
 Devanagari	क. ब्रा.			Devanagari read as ka. brā.; no list form close to it	none		1													1				
 Devanagari	कृ. ब्रा.			Devanagari read as kṛ. brā.; no list form close to it	none		1													1				
@@ -611,6 +612,7 @@ Devanagari	बृ. डी.			Devanagari read as bṛ. ḍī.; no list form close
 Devanagari	बृ. पे.			Devanagari read as bṛ. pe.; no list form close to it	none		1													1				
 Devanagari	उ. सं.			Devanagari read as u. saṃ.; no list form close to it	none		1													1				
 Devanagari	च. उ. सू.			Devanagari read as ca. u. sū.; no list form close to it	none		1													1				
+Devanagari	ऋग्विधान.		Ṛgvi.	Devanagari read as ṛgvidhāna.; user, Nov 18 2026: …vidhāna. is the Ṛgvidhāna (ऋग्विधान); the first letters are misreadings (यग्, मुग्)	high		1													1				
 Devanagari	कौ. सू.		Kau. Sū.	Devanagari read as kau. sū.; same letters; only capitals, dots or spaces differ	high	yes	1													1				
 Devanagari	तै.			Devanagari read as tai.; could be Tai. Ā. or Tai. Brā. or Tai. Saṃ. or Tai. U.	none		1													1				
 Devanagari	त्रै. सं.		Tai. Saṃ.	Devanagari read as trai. saṃ.; known spelling of Tai. Saṃ. (capitals/dots differ)	high	yes	1													1				
