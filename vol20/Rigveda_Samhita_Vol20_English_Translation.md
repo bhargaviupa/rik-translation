@@ -18370,6 +18370,203 @@ O seer Vītahavya Bharadvāja, you worship this very Agni with praise; that is, 
 
 O seer, Agni, pure by nature and by birth, comes from the heavenly world at the time of sacrifice. Worship exceedingly with praise this very Agni, who is to be honoured like a guest, who awakes at dawn and who is the protector of all the peoples. Agni, who is as an embryo in the kindling stick, accepts and eats for a long time the oblation that does not perish.
 
+### Printed p. 533
+
+##### English translation
+Propitiate by praises this guest who wakes at dawn, the cherisher of all people, who on every occasion descends, pure cf origin, from heaven, and, present as the embryo (in the wood of attrition), consumes immediately the offered (oblation).
+
+##### विशेषविषयगळु (Special Topics)
+
+वः (*vaḥ*)—त्वं (*tvaṃ*). In place of the word "you" (singular), the accusative plural form वः (*vaḥ*) of the pronoun *yuṣmad* is used. Such interchange of case and number occurs in many places in the Ṛgveda.
+
+यंजतिः प्रसाधनकर्मा (*yaṃjatiḥ prasādhanakarmā*). Yāska says that the word *yañjati* is used in the sense "gratify, worship", and as an example he gives the Vedic sentence आ व यंजसे ऊर्जां व्युष्टिषु इत्यपि निगमो भवति (*ā va yaṃjase ūrjāṃ vyuṣṭiṣu ityapi nigamo bhavati*) **GLOSS**
+
+अतिथिं (*atithiṃ*)—It is usual to praise Agni as a guest, to be honoured with worship. When Yāska gives the derivation of this word, he cites the Ṛk जुष्टो दमूना अतिथिर्दुरोण इमं नो यज्ञमुप याहि विद्वान् । (*juṣṭo damūnā atithirduroṇa imaṃ no yajñamupa yāhi vidvān |*) (Ṛ. Saṃ. 5-4-7) **GLOSS** and then says अतिथिरभ्यतितो गृहान् भवति अभ्येति तिथिषु परकुलानीति वा परगृहाणीति वा आयमपीतरो अतिथिरेतस्मादेव (*atithirabhyatito gṛhān bhavati abhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā āyamapītaro atithiretasmādeva*) (Ni. 4-4). A guest (*atithi*) means one who goes to another's house suddenly, without sending previous notice; or, since there is no restriction that he must come on such and such a day (*a* + *tithi*), one who comes without any rule of date. Durgācārya has explained this word thus: because this one (the guest) comes seeking houses, he is called a guest; or he comes and joins the houses of those who perform sacrifices on the lunar days (*tithi*) such as the full moon. This meaning applies especially to Agni.
+
+गर्भः (*garbhaḥ*)—अरण्योर्मध्यॆ गर्भवद्वर्तमानः । यद्वा । द्यावापृथिव्योर्गर्भभूतः । (*araṇyormadhyè garbhavadvartamānaḥ | yadvā | dyāvāpṛthivyorgarbhabhūtaḥ |*) Since Agni is produced by rubbing the pieces of wood called the *araṇis*, the meaning is that before his production Agni lies hidden in the *araṇis* in the form of an embryo. Or else it can be said that he is established between heaven and earth, on the sacrificial ground, in the fire-pits such as the Āhavanīya.
+
+### Printed p. 534
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रं न यं सुधि॑तं॒ भृग॑वो द॒धुर्वन॒स्पता॒वीड्य॑मू॒र्ध्वशो॑चिषं ।  
+> स त्वं सुप्री॑तो वी॒तह॑न्ये अद्भुत॒ प्रश॑स्तिभिर्महयसे दि॒वेदि॑वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रं । न । यं । सुधितं । भृगवः । दधुः । वनस्पत् । ईड्यं । ऊर्ध्वशोचिषं ।  
+> स । त्वं । सुप्रीतः । नीतहव्ये । अद्भुत । प्रशस्तिभिः । महयसे । दिवेदिवे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनस्पतावरण्यां सुधितं सुष्टु निहितमीड्यं स्तुत्यमूर्ध्वशोचिषमुच्छ्रिततेजस्कं यमग्निं त्वां मित्रं न मित्रमिव सखिभूतमिव भृगवो महर्षयो दधुः ।
+> आदधुः गृहे स्थापितवंतः हे अद्भुत महन्नग्ने स तादृशस्त्वं वीतहव्य एतत्संज्ञ
+> ऋषौ सुप्रीतः सुष्टु प्रीयमाणो भव । यतो दिवे दिने प्रतिदिनं प्रशस्तिभिः
+> प्रकृष्टैः स्तोत्रैर्महयसे पूज्यसे । भरद्वाज ऋषिश्चेत् वीतहव्ये दत्तहविष्के
+> भरद्वाज इति योजनीयं ॥
+
+##### Gist of the bhāṣya
+
+Agni is placed well in the wood, that is, in the kindling sticks. He is to be praised, and his splendour rises upward. The Bhṛgus, the great seers, set him in their house as one sets a friend. Sāyaṇa addresses him: O wonderful, great Agni, being such, be well pleased with the seer named Vītahavya, since day after day you are honoured with excellent praises. If the seer is Bharadvāja, then "to Vītahavya" is to be construed as "to Bharadvāja, who has given the oblation".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्भुत (*adbhuta*)—O Agni, of mighty form
+- वनस्पत् (*vanaspat*)—in the kindling stick
+- सुधितं (*sudhitaṃ*)—who lay dormant **NOTE**
+- ईड्यं (*īḍyaṃ*)—who is to be praised
+- ऊर्ध्वशोचिषं (*ūrdhvaśociṣaṃ*)—whose splendour spreads high upward
+- यं (*yaṃ*)—whom
+- मित्रं न (*mitraṃ na*)—like a friend
+- भृगवः (*bhṛgavaḥ*)—the great seers, the Bhṛgus
+- दधुः (*dadhuḥ*)—established
+- सः (*saḥ*)—such
+- त्वं (*tvaṃ*)—you
+- वीतहव्ये (*vītahavye*)—in respect of the seer named Vītahavya
+- सुप्रीतः (*suprītaḥ*)—be gracious
+- दिवेदिवे (*divedive*)—every day
+- प्रशस्तिभिः (*praśastibhiḥ*)—with excellent praises
+- महयसे (*mahayase*)—you are worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of mighty form, you who lay dormant in the kindling stick, who are to be praised, whose splendour spreads high upward, whom the great seers, the Bhṛgus, established like a friend: such as you are, be gracious to the seer named
+
+### Printed p. 535
+
+Vītahavya. Therefore you are worshipped every day with excellent praises.
+
+##### English translation
+Wonderful Agni, whom, adorable and upward flaming, the Bhrigus regard as a friend, deposited in the wood of (attrition), be pleased with Vitahavya, since you are glorified by (his) praise every day.
+
+##### विशेषविषयगळु (Special Topics)
+
+वनस्पत् सुधितं (*vanaspat sudhitaṃ*)—*Vanaspati* means a large tree. Here it is the pieces of wood, products of a tree. These are called *araṇis*. There are two of these *araṇis*: one is large and broad, below. On it another piece of wood, like a stick, is placed, and by rubbing, they produce Agni. This is the second piece of wood. Therefore the main idea is that Agni stays hidden in this piece of wood called the *araṇi*, and that after the rubbing he appears so that all can see him.
+
+भृगवः (*bhṛgavaḥ*)—For this word Yāska has given the derivation अर्चिषि भृगुः संबभूव । भृगुर्भृज्यमानो न देहे (*arciṣi bhṛguḥ saṃbabhūva | bhṛgurbhṛjyamāno na dehe*) (Ni. 3-17). That is, the great seer named Bhṛgu was born in the flames of Agni. Though he was burnt by the flames, no harm came to his body. In this matter Durgācārya, the commentator on the Nirukta, says प्रजापतिना किल शुक्रमात्मीयवादाय अग्नौ हुतं । ततः अर्चिषि ज्वालायां भृगुर्नाम महर्षिः संबभूव (*prajāpatinā kila śukramātmīyavādāya agnau hutaṃ | tataḥ arciṣi jvālāyāṃ bhṛgurnāma maharṣiḥ saṃbabhūva*). That is, formerly Prajāpati took his seed and offered it as an oblation in Agni. Then a flame of Agni arose from it, and in it the seer Bhṛgu was born. Because he was not burnt by the flame of Agni, he came to be called Bhṛgu.
+
+वीतहव्य (*vītahavya*)—Vītahavya is the seer who saw this sūkta. The meaning of this word is दत्तहविष्टे (*dattahaviṣṭe*), that is, one who has offered oblation in Agni. It has been said before that the seer who saw this sūkta is Vītahavya or Bharadvāja. Since the meanings of the words Vītahavya and Bharadvāja are more or less alike, it is doubtful whether these two are one person or different persons. Both were born in the Āṅgirasa line. For the word Bharadvāja Yāska says भरणाद्भरद्वाजः (*bharaṇādbharadvājaḥ*) (Ni. 3-17), meaning one who stands holding oblations and the like in order to offer them to Agni. Sāyaṇa makes this meaning clear in the next Ṛk by the words भरद्वाजाय (*bharadvājāya*) संभृतहनिर्लक्षणान्नाय (*saṃbhṛtahanirlakṣaṇānnāya*). In the present Ṛk either meaning may be taken.
+
+### Printed p. 536
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं दक्ष॑स्यावृ॒को वृ॒धो भू॑र॒र्यः पर॒स्यांत॑रस्य॒ तरु॑षः ।  
+> रा॒यः सू॑नो सहसो॒ मर्त्ये॒ष्वा छ॒र्दिर्य॑च्छ वी॒तह॑व्याय  
+> स॒प्रथो॑ भ॒रद्वा॑जाय स॒प्रथः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । दक्षस्य । अवृकः । वृधः । भूः । अर्यः । परस्य । अंतरस्य । तरुषः ।  
+> रायः । सूनो इति । सहसः । मर्त्येषु । आ । छर्दिः । यच्छ । वीतहव्याय ।  
+> सप्रथः । भरत्वाजाय । सप्रथः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स तादृशोवृको बाधकरहितस्त्वं दक्षस्यानुष्ठानसमर्थस्य वृधो
+> वर्धयिता भूः । भवसि । तथा परस्य विप्रकृष्टस्यार्योरेः शत्रोरंतरस्यातिकतरस्य
+> संनिकृष्टस्य शत्रोस्तरुषस्तरिता भवसि । अतः कारणात् हे सहसः सूनो सप्रथः
+> सर्वतः पृथुस्त्वं मर्त्येषु मनुष्येषु मध्यॆ भरद्वाजाय संभृतहनिर्लक्षणान्नाय
+> वीतहव्याय । वीतं गमितं हव्यं हविर्येन तादृशाय भारद्वाजायेति वा योज्यं।
+> रायो धनानि छर्दिगृहमा यच्छ । प्रयच्छ । सप्रथ इति पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni: such as you are, free from any harm, you become the increaser of the one who is able to carry out the rite. Likewise you become the one who carries across, safe from the enemy who is far away and from the enemy who is near. For this reason, O son of strength, you who are extended on every side, give among mortals riches and a house to Bharadvāja, who has gathered the oblation of food. Or "to Vītahavya" is to be construed with Bharadvāja, meaning one by whom the oblation has been made to go to the gods. The repetition "extended" is for respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवृकः (*avṛkaḥ*)—of unobstructed power
+- सः त्वं (*saḥ tvaṃ*)—that same you
+- दक्षस्य (*dakṣasya*)—of the master of sacrifice who has the power to perform rites
+- वर्धयिता (*vardhayitā*)—as the increaser
+- भूः (*bhūḥ*)—you have become
+- परस्य (*parasya*)—who is far away
+- अर‍्यः (*aryaḥ*)—also from the enemy
+- अंतरस्य (*aṃtarasya*)—from the enemy who is near
+- तरुषः (*taruṣaḥ*)—be the one who carries us across
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- सप्रथः (*saprathaḥ*)—you who are greater than all
+- मर्त्येषु (*martyeṣu*)—among men
+- भरद्वाजाय (*bharadvājāya*)—who has gathered and set down oblation
+- वीतहव्याय (*vītahavyāya*)—to Vītahavya
+- रायः (*rāyaḥ*)—riches
+- गृहं (*gṛhaṃ*)—and a house
+- आ यच्छ (*ā yaccha*)—give
+
+### Printed p. 537
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you of unobstructed power have become the increaser of the master of sacrifice who has the power to perform rites. Carry us across the enemy who is far away and the enemy who is near. O Agni, son of strength, you who are greater than all, give riches and a house to Bharadvāja, who is ready to gather oblation in abundance and offer it among men.
+
+##### English translation
+Agni, you, who are unresisted, become the benefactor of him who is skilled (in sacred rites), his defender against a near or distant enemy : Son of strength, who are ever renowned, grant wealth and a dwelling to Vitahavya, the offerer of the oblation.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यु॒ता॒नं वो॒ अति॑थिं॒ स्व॑र्णरम॒ग्निं होता॑रं॒ मनु॑षः  ॒
+> स्वध्वरं ।  
+> विप्रं॒ न द्यु॒क्षव॑चसं सुवृ॒क्तिभि॑र्हव्य॒वाह॑मर॒तिं दे॒वमृं॑जसे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युतानं । वः । अतिथिं । स्वःनरं । अग्निं । होतारं । मनुषः । सुअध्वरं ।  
+> विप्रं । न । द्युक्षवचसं । सुवृक्तिभिः । हव्यवाहं । अरतिं । देवं । ऋंजसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीतहव्य त्वं सुवृक्तिभिः शोभनाभिः स्तुतिभिर्हव्यवाहं हविषां वोढारं
+> देवमग्निमृंजसे । प्रसाधय । कीदृशं । द्युतानं दीप्यमानं वो युष्माकमतिथिमतिथिवत्पूज्यं स्वर्णरं स्वर्गस्य नेतारं मनुषो मनोः प्रजापतेर्यज्ञे
+> होतारं देवानामाह्वातारं स्वध्वरं शोभनयज्ञं विप्रं न मेधाविनं विपश्चितमिव
+> द्युक्षवचसं । दीप्तेर्निवासभूतं मुक्षं । तादृशवाक्योपेशमरतिमर्यं स्वामिनं॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Vītahavya: with beautiful praises, adorn, that is, gratify, the god Agni, the bearer of oblations. Of what kind is he? Shining; worthy of honour like a guest for you; the leader to heaven; the invoker of the gods in the sacrifice of Manu, that is, of Prajāpati; the one of good sacrifice; like a wise sage, a learned man. The next phrase, in which he explains the dwelling of brilliance and a certain speech, is damaged in the supplied text, but he closes by calling Agni the lord, who is free from the reproach of the unworthy. **NOTE**
+
+### Printed p. 538
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युतानं (*dyutānaṃ*)—who is radiant
+- वः (*vaḥ*)—to you
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- स्वर्णरं (*svarṇaraṃ*)—who takes one to heaven
+- मनुषः (*manuṣaḥ*)—in the sacrifice of Manu
+- होतारं (*hotāraṃ*)—who is the Hotṛ
+- स्वध्वरं (*svadhvaraṃ*)—the excellent performer of sacrifice
+- विप्रं न (*vipraṃ na*)—like a wise praiser
+- द्युक्वचसं (*dyukvacasaṃ*)—who has radiant speech
+- अरतिं (*aratiṃ*)—who is worthy of worship
+- हव्यवाहं (*havyavāhaṃ*)—who carries the oblation
+- देवं (*devaṃ*)—who is divine in nature
+- अग्निं (*agniṃ*)—Agni
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- यंजसे (*yaṃjase*)—adorn
+
+##### भावार्थ (Bhāvārtha)
+
+O Vītahavya, adorn with excellent praises Agni, who is radiant, worthy of honour for you like a guest, who takes one to heaven, who is the Hotṛ in the sacrifice of Manu, the excellent performer of sacrifice, who has radiant speech like a wise praiser, who is worthy of worship, who carries the oblation and is divine in nature. (praise him)
+
+##### English translation
+Propitiate with pious praises the radiant Agni, your guest, the guide to heaven, the invoker of the gods (at the sacrifice) of Manu, the celebrator of holy rites, the speaker of brilliant words like a learned sage, the bearer of oblations (to the gods), the lord, the divine.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒व॒कया॒ यश्चि॒तयं॑त्या कृ॒पा क्षाम॑नुरु॒च उ॒षसो॒ न  ॒॑
+> भानुना ।  
+> तूर्व॒न्न याम॒न्नेत॑शस्य॒ नू रण॒ आ यो घृ॒णे न त॑तृषा॒णो  ॒॑
+> अजरः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 532. Sukta 14 Rk 4-6, Sukta 15 intro and Rk 1
+**Progress note:** Done through printed p. 538. Sukta 6.15 Rks 1(end)-5(begin)
