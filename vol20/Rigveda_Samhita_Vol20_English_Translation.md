@@ -16531,6 +16531,257 @@ The tenth sūkta, which has seven ṛks and begins with the words "puro vaḥ", 
 
 This sūkta "puro vaḥ" is the tenth sūkta in the first anuvāka. It has seven ṛks. Bharadvāja is the seer of this sūkta; Agni is the deity; of this sūkta's
 
+### Printed p. 490
+
+seventh ṛk is of the Dvipadā Virāṭ metre; the remaining ṛks are of the Triṣṭubh metre. Where the Anukramaṇī says पुरो वो द्विपदांतं (*puro vo dvipadāṃtaṃ*) it means that, at the time of reciting the Prātaranuvāka mantras, for the mantras in the Triṣṭubh metre connected with the Agni-kratu, the four sūktas following this sūkta have their application; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, पुरो वो मंद्रमिति चत्वारि तं सुप्रतीकमिति षट् (*puro vo maṃdramiti catvāri taṃ supratīkamiti ṣaṭ*) (Ā. 4-13).
+
+##### Particulars
+
+Maṇḍala 6. Anuvāka 1. Sūkta 10. Aṣṭaka 4. Adhyāya 5. Varga 12. Number of ṛks in the sūkta: 7. Ṛṣi: Bharadvāja Bārhaspatya. Deity: Agni. Metre: 1-6 Triṣṭubh; 7 Dvipadā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो वो॑ मं॒द्रं दि॒व्यं सु॑वृ॒क्तिं प्र॑य॒ति य॒ज्ञे अ॒ग्निम॑ध्व॒रे  ॑
+> दधिध्वं ।  
+> पु॒र उ॒क्तेभिः॒ स हि नो॑ वि॒भावा॑ स्वध्व॒रा क॑रति जा॒तवे॑दाः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरः । वः । मंद्रं । दिव्यं । सुवृक्तिं । प्रयति । यज्ञे । अग्निं । अध्वरे । दधिद्वं ।  
+> पुरः । उक्तेभिः ! सः । हि । नः । विभावा । सुअध्वरा । करति । जातवेदाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यजमाना वो यूयं मंद्रं मोदनं स्तुत्यं ना दिव्यं दिवि
+> भवंस-व्यक्तिं सुष्टु दोषैर्वर्जितं सुखेनावर्जनीयं वा एवंगुणमग्निं प्रयति
+> प्रगच्छति. प्रवर्तमानेऽध्वरे रक्षःप्रभृतिभिरहिंस्यॆ हिंसाप्रत्यवायरहिते वास्मिन्यज्ञे
+> पुरो दधिध्वं पुरस्तादाहवनीयरूपेण धारयत । यद्वा । पुरोधसं कुरुत ।
+> उक्तेभिः स्तुतिशस्त्रैश्च पुरो दधिध्वं । विभावा विशेषेण दीप्यमानो जातवेदा
+> जातानां वेदिता सोऽग्निर्हि यस्मात् नोऽस्मान् स्वध्वरा शोभनयागान् करति
+> करोति तस्मात्पुरो दधिध्वमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"O priests and sacrificers, you": "mandra" means delightful, to be praised; "divya" means born in heaven; "suvṛkti" means well free of faults, or not easily to be abandoned; such an Agni "prayati", goes forth. In the sacrifice that is being performed, which is "adhvara", not to be injured by Rākṣasas and the like, or free of injury and obstruction, "puraḥ dadhidhvam": set him before you, hold him in front in the form of the Āhavanīya fire. Or else: appoint him as purohita. "Ukthebhiḥ": with praises and śastras, set him before you. "Vibhāvā" means shining in a special manner; "Jātavedas" means the knower of what is born. Since that Agni "svadhvarā", makes us possessors of fine sacrifices, "karati" (that is, "karoti"), therefore set him before you; such is the construction.
+
+### Printed p. 491
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O priests and sacrificers)
+- मंद्रं (*maṃdraṃ*)—who is to be praised
+- दिव्यं (*divyaṃ*)—who is born in the world of heaven
+- सुवृक्तिं (*suvṛktiṃ*)—who is free of faults
+- अग्निं (*agniṃ*)—Agni
+- प्रयति (*prayati*)—that which is going on in the present case
+- अध्वरे (*adhvare*)—and free from injury
+- यज्ञे (*yajñe*)—in the sacrifice
+- पुरः (*puraḥ*)—in front
+- दधिध्वं (*dadhidhvaṃ*)—hold and establish
+- उक्तेभिः (*uktebhiḥ*)—with the praises, śastras and mantras
+- पुरः (*puraḥ*)—in front (establish)
+- स हि (*sa hi*)—that same Agni
+- नः (*naḥ*)—us
+- स्वध्वरा (*svadhvarā*)—as persons of excellent sacrifice
+- करति (*karati*)—makes
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, establish in front of you Agni, who is to be praised, born in the world of heaven and free of faults, together with the praises, śastras and mantras, in the sacrifice that is going on in the present case and is free from injury. That same Agni makes us persons of excellent sacrifice.
+
+##### English translation
+Place before you at progressive, uninterrupted sacrifice, the divine, adorable, pefect Agni, with prayers ; for he, the resplendent Jatavedas, makes us prosperous in sacred rites.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ द्युमः पुर्वणीक होत॒रग्ने॑ अ॒ग्निभि॒र्मनु॑ष इधा॒नः ।  
+> स्तोमं॒ यम॑स्मै म॒मते॑व शू॒षं धृ॒तं न शुचि॑ म॒तयः॑  
+> पवंते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । द्युमः । पुरुअनेक । होतः । अग्ने । अग्निभिः । मनुषः । इधानः ।  
+> स्तोमं । यं । अस्मै । ममताइव । शूषं । धृतं । न । शुचि । मशयः । पवंते ॥
+
+### Printed p. 492
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्युमो दीप्तिमन् पुर्वणीक बहुज्वाल होतर्देवानामाह्वातरग्ने
+> अग्निभिस्तवावयवभूतैरन्यैरग्निभिः सार्धमिधानः समिध्यमानो दीप्तः सन् मनुषो
+> मनुष्यस्य स्तोतुस्तमु तं स्तोमं शृण्विति शेषः । उ इति पादपूरणं । यं
+> स्तोमं स्तोत्रं शूषं सुखकरं धृतं न पवित्राभ्यामुत्तूतं धृतमिव शुचि
+> शुद्धमस्मा अग्नये मतयो मंतारः स्तोतारो ममतेव । ममता नाम ब्रह्मवादिनी दीर्घतमसो माता । सेव पवंते पुनंति संस्कुर्वंति । दोषवर्जितमुच्चारयंतीत्यर्थः । तं स्तोममित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"O Dyumat", possessed of radiance, "purvaṇīka", of many flames, "hotṛ", the invoker of the gods, Agni, "agnibhiḥ", together with other fires that are parts of yourself, "idhānaḥ", kindled and shining, hear that praise of man, the praiser; the verb "hear" is the remainder to be supplied. The particle "u" fills out the foot. That praise, "śūṣa", which brings happiness, "pure", like clarified butter strained through the two purifiers, "śuci", clean, "asmai", for this Agni, "matayaḥ", the thinkers, the praisers, "mamateva": Mamatā is the name of a woman expounder of Brahman, the mother of Dīrghatamas. As she did, they "pavante", purify, that is, refine it; the meaning is that they utter it free of fault. "That praise" is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युमः (*dyumaḥ*)—possessed of radiance
+- पुर्वणीक (*purvaṇīka*)—possessed of many flames
+- होतः (*hotaḥ*)—who calls the gods to the sacrifice
+- अग्ने (*agne*)—O Agni
+- अग्निभिः (*agnibhiḥ*)—together with the other fires, your parts
+- इधानः (*idhānaḥ*)—kindled
+- शूषं (*śūṣaṃ*)—which brings happiness
+- धृतं न (*dhṛtaṃ na*)—like clarified butter, which is pure
+- शुचि (*śuci*)—wholly pure
+- यं स्तोमं (*yaṃ stomaṃ*)—which praise
+- मशयः (*maśayaḥ*)—the praisers
+- अस्मै (*asmai*)—directed to this Agni
+- ममता इव (*mamatā iva*)—as the woman named Mamatā offered
+- पवंते (*pavaṃte*)—offer in purity
+- मनुषः (*manuṣaḥ*)—of man
+- तमु (*tamu*)—that same praise (hear)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessed of radiance, of many flames, who call the gods to the sacrifice, kindled together with the other fires that are your parts, hear that same praise which these men, the praisers, offer in purity, directed to Agni, as the woman named Mamatā offered it, a pure praise like clarified butter, which brings happiness and is pure.
+
+##### English translation
+Brilliant, may-rayed Agni, invoker of the gods, kindled with many fires, (hear) this (praise) of men ; which delightful praise, pure as the clarified butter (that has been filtered), his worshippers offer unto him as Mamata (formerly offered it).
+
+### Printed p. 493
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पी॒पाय॒ स श्रव॑सा॒ मर्त्ये॑षु॒ यो अ॒ग्नये॑ द॒दाश॒ विप्र॑  ॒
+> उक्षैः ।  
+> चि॒त्राभि॒स्तमू॒तिभि॑श्चि॒त्रशो॑चिव्र॒जस्य॑ सा॒ता गोम॑तो दधाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीपाय । सः । श्रवसा । मर्त्येषु । यः । अग्नये । ददाश । विप्रः । उक्षैः ।  
+> चित्राभीः । तं । ऊतिभिः । चित्रशोचिः । व्रजस्य । साता । गोमतः । दधाति । ३
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स यजमानो मर्त्येषु मनुष्येषु मध्ये श्रवसान्नेन पीपाय वर्धते
+> विप्रो मेधावी यो यजमान उक्थैः स्तुतिभिः सार्धं हवींषि ददात प्रयच्छति ।
+> तं यजमानं चित्रशोचिर्विचित्रदीप्तिरग्निश्चिताभिरार्चर्यभूताभिरूतिभी रक्षाभिर्गॊमतो गोभिर्युक्तस्य व्रजस्य गोष्ठस्य साता सात् संभजने दधाति । धारयति ॥
+
+##### Gist of the bhāṣya
+
+That sacrificer, among mortals, that is, among men, "pīpāya", grows, "śravasā", through food. The wise one, the sacrificer who "dadāśa", gives, offers, oblations "ukthaiḥ", together with praises: that sacrificer "citraśociḥ", Agni of manifold radiance, "citrābhiḥ", with wondrous "ūtibhiḥ", protections, "dadhāti", holds in the enjoying, "sātā", of the herd, "vraja", the cow-pen "gomat", filled with cows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रः (*vipraḥ*)—the wise
+- यः (*yaḥ*)—which sacrificer
+- उक्षैः (*ukṣaiḥ*)—oblations accompanied by praises
+- अग्नये (*agnaye*)—directed to Agni
+- ददात (*dadāta*)—offers
+- सः (*saḥ*)—that same sacrificer
+- मर्त्येषु (*martyeṣu*)—among men
+- श्रवसा (*śravasā*)—possessed of food
+- पीपाय (*pīpāya*)—attains growth
+- तं (*taṃ*)—that same sacrificer
+- चित्रशोचिः (*citraśociḥ*)—Agni of manifold radiance
+- चित्राभिः (*citrābhiḥ*)—of many kinds
+- ऊतिभिः (*ūtibhiḥ*)—accompanied by protections
+- गोमतः (*gomataḥ*)—of cows
+- व्रजस्य (*vrajasya*)—the herd
+- साता (*sātā*)—in the state of enjoying
+- दधाति (*dadhāti*)—places
+
+The wise sacrificer who offers oblations accompanied by praises, directed to Agni, that same sacrificer grows among men, possessed of food. Agni of manifold radiance makes that same sacrificer enjoy a herd of cows, accompanied by protections of many kinds.
+
+### Printed p. 494
+
+##### English translation
+He thrives in abundance amongst men, who pious, presents to Agni (oblations) with prayers : the wonderfully radiant Agni places him with marvellous protection in the enjoyment of pasturage full of herds of cattle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यः प॒प्रौ जाय॑मान उ॒र्वी दू॑रे॒दृशा॑ भा॒सा कृ॒ष्णाध्वा॑ ।  
+> अध॑ ब॒हु चि॒त्तम॒ ऊर्म्या॑यास्ति॒रः शो॒चिषा॑ ददृशे पाव॒कः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । पप्रौ । जायमानः । उर्वी इति । दूरेऽदृशा । भासा । कृष्णअध्वा ।  
+> आध । बहु । चित् । तमः । ऊर्म्यायाः । तिरः । शोचिषा । ददृशे । पावकः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णाध्वा कृष्णवर्त्मा योऽग्निर्जायमानः प्रादुर्भवन् उर्वी विस्तीर्णे
+> द्यावापृथिव्यौ दूरेदृशा दूरे दृश्यमानया भासा दीप्त्या आ पप्रौ अपूरयति स
+> पावकोऽग्निरधानंतरमूर्म्यायाः । रात्रिनामैतत् । रात्रेः संबंधि बहु चित्
+> बह्वपि तमोऽंधकारं शोचिषा दीप्त्या तिरस्कुर्वन् ददृशे । दृश्यते ॥
+
+##### Gist of the bhāṣya
+
+"Kṛṣṇādhvā" means he whose path is black. The Agni who, "jāyamānaḥ", being born, that is, manifesting, fills "urvī", the two wide, heaven and earth, with "bhāsā", with a light "dūre-dṛśā", seen from afar: "ā papprau" means he fills them. That purifying Agni, "adha", thereafter, "ūrmyāyāḥ" (this is a name of night), belonging to night, "bahu cit", even much, "tamaḥ", darkness, is seen "dadṛśe", overcoming it with his radiance "śociṣā".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णाध्वा (*kṛṣṇādhvā*)—possessed of a black-coloured path
+- यः (*yaḥ*)—which, that same Agni
+- जायमानः (*jāyamānaḥ*)—as soon as he is born
+- उर्वि (*urvi*)—the two wide, heaven and earth
+- दूरेदृशा (*dūredṛśā*)—seen even from afar
+- भासा (*bhāsā*)—with radiance
+- आ पप्रौ (*ā paprau*)—fills
+- पावकः (*pāvakaḥ*)—Agni, the purifier
+- अध (*adha*)—thereafter
+- ऊर्म्यायाः (*ūrmyāyāḥ*)—belonging to night
+- तमः (*tamaḥ*)—the darkness
+- बहुचित् (*bahucit*)—even though very great
+- शोचिषा (*śociṣā*)—with his own radiance
+- तिरः (*tiraḥ*)—as one who destroys
+- ददृशे (*dadṛśe*)—is seen (shines)
+
+### Printed p. 495
+
+##### भावार्थ (Bhāvārtha)
+
+That same Agni, possessed of a black-coloured path, as soon as he is born fills the two wide, heaven and earth, with a radiance seen even from afar. Then Agni, the purifier, destroys with his own radiance even the very great darkness of the night, and shines.
+
+##### English translation
+The dark-pathed, as soon as generated, filled with his afar-seen light the two spacious (worlds) : he, the purifier, is now beheld dispersing with bis radiance the thick glooms of night.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू न॑श्चि॒त्रं पु॑रु॒वाजा॑भिरू॒ती अग्ने॑ र॒यिंम॒घव॑द्भ्यश्च धेहि।  
+> ये राध॑सा॒ श्रव॑सा॒ चात्य॒न्यान्तु॒ वीर्ये॑भिश्चा॒भि संति॒ जना॑न्॥  
+> ॥ पदसार ॥  
+> नु । नः । चित्रं । पुरुवाजाभिः । ऊती । आग्ने । रयिं । मघवत् ऽभ्यः । च । धेहि ।  
+> ये । राध॑सा॒ । श्रव॑सा॒ । च । अति । अ॒न्यान् । सु॒वीर्ये॑भिः । च । अ॒भि । संति॒। जना॑न्॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने मघवद्भो हविर्लक्षणधनयुक्तेभ्यो नोऽस्मभ्यं पुरुवाजाभिर्बह्वन्नैरूती ऊतिभी रक्षणैः सह चित्रं चायनीयं रयिं धनं नु क्षिप्रं धेहि ।
+> देहि ! प्रयच्छ ! चशब्दो वक्ष्यमाणेन समुच्छयार्थः । ये राधसा धनेन
+> श्रवसान्नेन च सुवीर्येभिः शोभनैर्वीर्यश्चान्यान् जनान्मनुष्यानति अतिशयेनाभि
+> संति अभिभवंति तादृशान्पुत्रांश्चा स्मभ्यं देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, to us, "maghavadbhyaḥ", who are possessed of wealth in the form of oblations, with "purūvājābhiḥ", much food, and "ūtī", with protections, "citram", a wondrous, desirable "rayim", wealth, "nu", quickly, "dhehi": give, bestow. The word "ca" is for combination with what is to be said. Those who by "rādhasā", wealth, and "śravasā", food, and "suvīryebhiḥ", fine vigour, surpass other men, "ati abhi santi", overcome them greatly: give us sons of that kind also." This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मघवद्भ्यः (*maghavadbhyaḥ*)—who possess wealth in the form of oblations
+- नः (*naḥ*)—to us
+- पुरुवाजाभिः (*puruvājābhiḥ*)—with many kinds of food
+- ऊती (*ūtī*)—accompanied by protections
+- चित्रं (*citraṃ*)—attractive
+- रयिं (*rayiṃ*)—the wealth
+- नु (*nu*)—quickly
+- धेहि (*dhehi*)—
+
 ---
 
-**Progress note:** Done through printed p. 489. Mandala 6 Sukta 9 Rks 3(end)-7; Sukta 10 introduction begun (pp. 484-489)
+**Progress note:** Done through printed p. 495. Mandala 6 Sukta 10 Rks 1-5 (pp. 490-495)
