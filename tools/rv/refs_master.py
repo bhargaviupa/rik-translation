@@ -22,7 +22,7 @@ listforms = {}
 for f, r in lst.items():
     if r['status'] in ('legend', 'extra'):
         for g in f.split(' or '): listforms[g.strip()] = r
-ALIAS = {'Ma. Saṃ.': 'Ṛ. Saṃ.', 'Mā. Saṃ.': 'Ṛ. Saṃ.', 'U.': 'U. Sū.', 'u.': 'U. Sū.', 'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
+ALIAS = {'Si.': 'Ni.', 'Ma. Saṃ.': 'Ṛ. Saṃ.', 'Mā. Saṃ.': 'Ṛ. Saṃ.', 'U.': 'U. Sū.', 'u.': 'U. Sū.', 'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
          'Ait. Brā.': 'Ai. Brā.', 'Ai. Br.': 'Ai. Brā.', 'Tai. Br.': 'Tai. Brā.', 'Āśv.': 'Ā. Sū.', 'Āś.': 'Ā. Sū.', 'Vāj. Saṃ.': 'Vā. Saṃ.', 'Uṇ.': 'U. Sū.', 'Uṇ. sū.': 'U. Sū.',
          'sā. sū.': 'Pā. Sū.', 'tā. sū.': 'Pā. Sū.', 'paṃ. sū.': 'Pā. Sū.', 'Av.': 'Ath. Saṃ.', 'Ṛ. Ve.': 'Ṛ. Saṃ.', 'Ā. Ve.': 'Ath. Saṃ.'}
 def dev2iast(w):
