@@ -5976,6 +5976,348 @@ The प्रणीतयः (*praṇītayaḥ*) of this Indra, his excellent le
 
 The excellent and skilful policies of Indra are of the greatest majesty. The ways of praising him are also many. There is no destruction of Indra's protections.
 
+### Printed p. 136
+
+##### English translation
+Vast are his designs, manifold are his praises, his protections are never withdrawn,
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑यो॒ ब्रह्म॑वाह॒सेऽर्च॑त॒ प्र च॑ गायत ॥  
+> स हि नः॒ प्रम॑तिर्म॒ही ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । ब्रह्मवाहसे । अर्चत । प्र । च । गायत ॥  
+> स । हि । नः । प्रमतिः । मही ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः समानख्याना। स्तोतारो ब्रह्मवाहसे ब्रह्मभिर्मंत्रैर्वहनीयाय प्राप्तव्यायेंद्रायार्चत । शस्त्राणि शंसत । प्र ग्रायत च स्तोत्राणि ।
+> स हि स खल्विंद्रो नोऽस्माकं मही महती प्रमतिः प्रकृष्णा बुद्धिः । ईदृश्या
+> बुद्धेः प्रदातेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Friends, fellow praisers, offer worship to Indra, who is to be borne along and reached by the Brahmas, that is, by mantras: recite the śastras. And sing the stotras. For that same Indra is for us great and a प्रमतिः (*pramatiḥ*), an excellent understanding; the meaning is that he is the giver of such understanding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O praisers, friends
+- ब्रह्मवाहसे (*brahmavāhase*)—to Indra, who is fit to be approached through praise alone
+- अर्चत (*arcata*)—worship by reciting the śastra mantras
+- प्र गायत (*pra gāyata*)—recite the praises
+- स हि (*sa hi*)—that same Indra
+- नः (*naḥ*)—to us
+- मही (*mahī*)—possessing greatness
+- प्रमतिः (*pramatiḥ*)—and excellent; he is the giver of intelligence
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, who are friends, recite the śastra mantras and worship Indra, who is fit to be approached through praise alone. Sing with stotras. That same Indra is for us the giver of an intelligence that is great and excellent.
+
+##### English translation
+Offer worship and praises, friends, to him who is to be attracted by prayers ; for he verily is our great intelligence.
+
+### Printed p. 137
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमेक॑स्य वृत्रहन्नवि॒ता द्वयो॑रसि ।  
+> उ॒तेदृशे॒ यथा॑ व॒यं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । एकस्य । वृत्रहन् । अविता । द्वयोः । असि ॥  
+> उत । ईदृशे । यथा । वयं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्राणां शत्रुणां हंतरिंद्र त्वमेकस्य स्तोतुर्द्वयोश्च
+> स्तोत्रोरविता रक्षितासि । सर्वेषां स्तोतृणां रक्षको भवसीत्यर्थः । उतापि
+> चेदृशे जनेऽप्यविता भवसि यथा यादृशा वयं त्वया रक्षिता बहुविधपुत्रपौत्रा
+> अभूम । ईदृशस्यापि जनस्य त्वमेव रक्षको नान्य इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Vṛtrahan, Indra, slayer of the Vṛtras, the enemies, you are the protector of one praiser and of two praisers; the meaning is that you are the protector of all praisers. And also of such a person as we are: as we, with sons and grandsons of many kinds, have been protected by you, so you are the protector of such a person too, and no one else is; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of enemies
+- त्वं (*tvaṃ*)—you
+- एकस्य (*ekasya*)—for a praiser who is alone
+- द्वयोः (*dvayoḥ*)—and for two praisers who are together
+- अविता (*avitā*)—as protector
+- असि (*asi*)—you are
+- उत (*uta*)—and
+- यथा (*yathā*)—as
+- वयं (*vayaṃ*)—we who are your devotees
+- ईदृते (*īdṛte*)—for people like us also you are protector
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, whether your praiser is alone or two are together, you are the protector of all of them. You are the protector also of devotees like us, your praisers.
+
+##### English translation
+Slayer of Vritra, you are the protector of one (adorer), or of two, and of such as we are.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नय॒सीद्वति॒ द्विषः॑ कृ॒णोष्यु॑क्थशं॒सिनः॑ ।  
+> नृभिः॑ सु॒वीर॑ उच्यसे ॥ ६ ॥
+
+### Printed p. 138
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नयसि । इत् । ऊं इति । अति । द्विषः । कृणोषि । उक्तशंसिनः ।  
+> न्यभिः । सुवीरः । उच्यसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रेत् त्वमेव द्विषो द्वेष्टनति नयसि । अस्मान्नयसि । तारयसि ।
+> उ इति पूरकः । तथोक्तशंसिन उक्थानि शस्त्राणि शंसतः स्तोत्थानस्मान्हर्षि ।
+> समृद्धान्करोषि । यस्मात्त्वं नृभिः स्तुतीनां नेतृभिः पुरुषैः सुवीरः शोभनैर्वीरैः पुत्रपौत्रादिभिः स्तोत्थभ्यो दातवैरुपेत इत्युच्यसे स्तूयसे अतस्तानप्यस्मभ्यं प्रयच्छेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you alone lead the haters across and bring us over; उ (*u*) is a mere filler. Likewise you make prosperous us, the praisers who recite the uktha śastras. Since you are called सुवीरः (*suvīraḥ*), endowed with good heroes, sons, grandsons and the like, to be given to praisers, and are praised by men, the leaders of the praises, therefore give those same things to us also; this is what is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इत् (*it*)—you alone (O Indra)
+- द्विषः (*dviṣaḥ*)—those who hate us
+- अति नयसि (*ati nayasi*)—you drive far away from us
+- उक्तशंसिनः (*uktaśaṃsinaḥ*)—those who praise you by reciting the uktha mantras
+- कृणोषि (*kṛṇoṣi*)—you make prosperous
+- सुवीरः (*suvīraḥ*)—you who favour with excellent heroic sons and the like
+- नृभिः (*nṛbhiḥ*)—by the praisers
+- उच्यसे (*ucyase*)—you are praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, it is you who drive far away from us those who hate us. You make prosperous those who praise you by reciting the uktha mantras. You, who favour with excellent heroic sons and the like, are praised by the praisers.
+
+##### English translation
+Remove (from us) those who hate us: prosper those who repeat your praise : bestower of excellent male descendants. you are glorified by men.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्र॒ह्माणं॒ ब्रह्म॑वाहसं गी॒र्भिः सखा॑यमृ॒ग्मियं॑ ।  
+> गां न दो॒हसे॑ हुने ॥ ७ ॥
+
+### Printed p. 139
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्माणं । ब्रह्मवाहसं । गीःभिः । सखायं । ऋग्मियं ।  
+> गां । न । दोहसे । हुवे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्माणं परिवृढं ब्रह्मवाहसं ब्रह्मभिः स्तुतिरूपैर्मंत्रैर्वहनीयं
+> सखायमस्माकं सखिभूतमृग्मियं । ऋग्मा ऋचः । तदर्हं । स्तुत्यर्हमित्यर्थः ।
+> एवंभूतमिंद्रं दोहसे दोग्धुं गां न गामिव गीर्भिः स्तुतिभिर्हुवे ।
+> आह्वयाम्यस्मदीयान्कामान्नोग्धुं ॥
+
+##### Gist of the bhāṣya
+
+The great one; one who is borne along by Brahmas, that is, by mantras in the form of praise; a friend, one who has become a friend of ours; ऋग्मियं (*ṛgmiyaṃ*): ṛgmā means ṛcs, and he is worthy of them, that is, worthy of praise. Such an Indra I call with praises, as one calls a cow in order to milk her; I invite him in order to milk out our desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्माणं (*brahmāṇaṃ*)—the one of vast form
+- ब्रह्मवाहसं (*brahmavāhasaṃ*)—who is borne along by praise
+- सखायं (*sakhāyaṃ*)—who is a friend
+- यग्नियं (*yagniyaṃ*)—who is worthy of praise: such an Indra
+- गां न (*gāṃ na*)—as one milks a cow
+- दोहसे (*dohase*)—to milk out the wealth of that Indra
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- हुवे (*huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is of the form of Brahman, who is borne along by praise, who is a friend and worthy of praise, I entreat and call with praises, to milk wealth from him as milk is drawn from a cow.
+
+##### English translation
+I invoke with hymns Indra, our friend, who is Brahma, who is attracted by prayer and entitled to adoration, to milk him as a cow.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ विश्वा॑नि॒ हस्त॑योरू॒चुर्वसू॑नि॒ नि द्वि॒ता ॥  
+> वी॒रस्य॑ पृतना॒षहः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । विश्वानि । हस्तयोः । ऊचु ॥ वसूनि । नि । द्विता ॥  
+> वीरस्य । पृतनासहः ॥ ८ ॥
+
+### Printed p. 140
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीरस्य वीर्यवतः पृतनासहः । पृतनाः शत्रुसेनाः । तासामभिभवितुर्यस्येंद्रस्य हस्तयोर्बाह्वर्विश्वानि सर्वाणि द्विता दिव्यपार्थिवरूपेण द्वैधं
+> वर्तमानानि वसूनि विद्यंत इति न्यूचुः ऋषयो नितरां वदंति तमिंद्रं हुव इति
+> पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+वीरस्य (*vīrasya*) means of the powerful one; पृतनासहः (*pṛtanāsahaḥ*): pṛtanās are enemy armies, and he is their overcomer. In whose hands, that is, in the arms of that Indra, all treasures, existing in a twofold way as heavenly and earthly, are found: so the seers say, they declare it constantly. That Indra I call; this is the connection with the previous verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरस्य (*vīrasya*)—of the valiant one
+- पृतनासहः (*pṛtanāsahaḥ*)—who defeats the armies of enemies
+- यस्य (*yasya*)—of which Indra
+- हस्तयोः (*hastayoḥ*)—in the arms
+- विश्वानि (*viśvāni*)—all
+- द्विता (*dvitā*)—that exist in two forms, heaven and earth
+- वसूनि (*vasūni*)—treasures are established
+- नि ऊचुः (*ni ūcuḥ*)—the seers have praised thus (that Indra I call)
+
+##### भावार्थ (Bhāvārtha)
+
+I call with prayer that Indra, valiant and the defeater of the armies of enemies, in whose arms the seers have praised all treasures, existing in the two forms of heaven and earth, as established.
+
+##### English translation
+In the hands of whom, the heroic subduer of hostile armies, (the sages) have declared, are all the treasures in both (heaven and earth).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि दृ॒ळ्हानि॑ चिदद्रिवो॒ जना॑नां शचीपते ।  
+> वृ॒ह मा॒या अ॑नानत ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । दृळ्हानि । चित् । अद्रिवः । जनानां । शचीपते ॥  
+> वृह । मायाः । अनानत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः । आदृणात्यनेनेत्यद्रिर्वज्रः । तद्वन् शचीपत इंद्र जनानां
+> शत्रूणां दृळ्हानि चित् दृढानि स्थिराण्यपि पुराणि बलानि वा वि वृह । विभिंधि ।
+
+##### Gist of the bhāṣya
+
+O अद्रिवः (*adrivaḥ*): adri is the thunderbolt, and Indra is its possessor. O lord of Śacī, Indra, split open the firm things of the people, that is, of the enemies, even their strong and ancient strongholds or powers; split them apart.
+
+### Printed p. 141
+
+> विविधमुन्मूलयेत्यर्थः । हे अनानत अप्रह्वीभूत सर्वोच्छ्रितेंद्र मायाश्च
+> शत्रुभिर्निर्मिता वि वृह । विनाशय ॥
+
+##### Gist of the bhāṣya
+
+That is, uproot them in every way. O unbending one, one who has not bowed, exalted above all, Indra, destroy also the magic devices made by the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O bearer of the thunderbolt
+- शचीपते (*śacīpate*)—O Indra, lord of Śacī
+- जनानां (*janānāṃ*)—of the enemy people
+- दृळ्हानि चित् (*dṛḷhāni cit*)—even though extremely hard, their towns
+- वि वृह (*vi vṛha*)—tear apart
+- अनानत (*anānata*)—O Indra, whose power bends to none
+- मायाः (*māyāḥ*)—destroy the deceitful acts of the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt and lord of Śacī, tear apart the towns of the enemies, even though they are extremely strong. O Indra, whose power bends to none, destroy all the deceitful acts of the enemies.
+
+##### English translation
+Wielder of the thunderbolt, lord of Sachi, demolish the strong (cities) of men : (baffle), unbending (Indra), their devices.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा सत्य सोमपा॒ इंद्र॑ वाजानां पते ।  
+> अहू॑महि श्रव॒स्यवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । त्वा । सत्य । सोमपाः । इंद्र । वाजानां । पते ॥  
+> अहूमहि । श्रवस्यवः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सत्य अवितथस्वभाव सोमपाः सोमस्य पातर्हे वाजानां पते अन्नानां
+> पालयितरेवंभूत हे इंद्र श्रवस्यवः श्रवोऽन्नमात्मन इच्छंतो वयं तमु त्वा
+> शादृशं त्वामेवाहूमहि । आह्वयामः । स्तुम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O true one, of unfailing nature; O drinker of Soma, worthy to drink Soma; O lord of foods, protector of foods: O Indra, such as you are, we who desire fame, that is, food for ourselves, call upon you alone, that is, we praise you; this is the meaning.
+
+### Printed p. 142
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्य (*satya*)—one whose nature is truth
+- सोमपाः (*somapāḥ*)—who drinks Soma
+- वाजानां पते (*vājānāṃ pate*)—who is the protector of foods
+- इंद्र (*iṃdra*)—O Indra
+- श्रवस्यवः (*śravasyavaḥ*)—we who desire food
+- तमु त्वा (*tamu tvā*)—that same you
+- अहूमसि (*ahūmasi*)—we call, praising you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose nature is truth, who drink Soma and protect foods, we who desire food praise and call upon you, the renowned one.
+
+##### English translation
+Veracious Indra, drinker of the Soma, provider of sustenance, we, desirous of food, invoke such as you are.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा॒ यः पु॒रासि॑थ॒ यो वा॑ नू॒नं हि॒ते धने॑ ।  
+> हव्यः॒ स श्रु॑धी॒ हवं॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । त्वा । यः । पुरा । आसिथ । यः । वा । नूनं । हिते । धने ।  
+> हव्यः । सः । श्रुधि । हवं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तमु त्वा तमेव त्वां स्तुम इति शेषः । यस्त्वं पुरा पूर्वस्मिन्काले
+> हव्यो ह्वातव्य आसिथ बभूविथ धनलाभार्थं । यो वा यश्च त्वं हिते शत्रुषु
+> निहिते धने निमित्तभूते सति नूनमद्यापि हव्यो ह्वातव्यो बभूविथ स त्वमस्मदीयं
+> हवं स्तोत्रं श्रुधि । शृणु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we praise you alone; this is what is to be supplied. You who in former times were to be invoked, that is, became one to be invoked, for the gaining of wealth; and you who, now too, wealth being placed among the enemies as the cause, have become one to be invoked: such as you are, hear our call, our hymn; listen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तमु त्वा (*tamu tvā*)—(O Indra) we praise that renowned same you
+- यः (*yaḥ*)—who
+- पुरा (*purā*)—in former times
+- हव्यः आसिथ (*havyaḥ āsitha*)—were called for the sake of wealth
+- यो वा (*yo vā*)—and who, that same you
+- हिते (*hite*)—placed among enemies
+- धने (*dhane*)—for the sake of wealth
+- नूनं (*nūnaṃ*)—even now are called
+- सः (*saḥ*)—that same you
+- हवं (*havaṃ*)—our praise
+- श्रुधि (*śrudhi*)—hear
+
 ---
 
-**Progress note:** Done through printed p. 135. Sūkta 44 Ṛk 22-24 end; Sūkta 45 Ṛk 1-3 (pp. 129-135)
+**Progress note:** Done through printed p. 142. Mandala 6 sukta 45 rks 4-11 (end of sukta pending)
