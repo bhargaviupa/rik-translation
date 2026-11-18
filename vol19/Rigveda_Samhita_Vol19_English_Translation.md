@@ -13514,6 +13514,246 @@ Metre—1–15 and 18–19 Triṣṭubh; 16–17 Atijagatī; 20 Ekapadā.
 
 Sāyaṇa addresses the two deities Mitra and Varuṇa: which sacrificer, desiring the sacrifice (ऋतायन् (*ṛtāyan*)), could (so he supplies the missing verb) perform it for you? **NOTE** He then glosses दिवः सदसि (*divaḥ sadasi*) as "in the seat, the place belonging to the heaven-world", महो (*maho*) as "of the great", and takes पार्थिवस्य (*pārthivasya*) as the seat of the atmosphere, which gives rise to ṛta, the word being used of it because it is its cause. He explains त्रासीथां (*trāsīthāṃ*) as "protect": protect us in these three places; the word वा (*vā*) is used in the sense of ... **NOTE** Then the block goes on with "moreover" (किंच (*kiṃca*)).
 
+### Printed p. 354
+
+> यज्ञायते दे ना हनिर्दात्रे च मह्यं पशुषो न वाजान् पशुषु सीदतो
+> वाजानन्नानि क्षीरदध्यादीनीव । तानि यथा प्रयच्छथः तद्वदवतमिति । यद्वा ।
+> नशब्दश्चार्थे । पशुषः पशून्वाजांश्च दत्तमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The block continues the gloss: for the one who desires to sacrifice to you and for the giver of the oblation, and for me (यज्ञायते दे ना हनिर्दात्रे च मह्यं (*yajñāyate de nā hanirdātre ca mahyaṃ*)) **NOTE**, give पशुषो न वाजान् (*paśuṣo na vājān*): the foods that dwell in animals, such as milk and curds. As you bestow them, so protect. Or else the word न (*na*) is in the sense of "and": give both animals and foods (पशुषः (*paśuṣaḥ*), वाजांश्च (*vājāṃśca*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- नां (*nāṃ*)—with reference to you
+- को नु (*ko nu*)—which sacrificer indeed
+- ऋतायन् (*ṛtāyan*)—to perform the sacrifice (is he able?)
+- दिवः वा सदसि (*divaḥ vā sadasi*)—either from the place of the heaven-world
+- महः (*mahaḥ*)—great
+- पार्थिवस्य वा (*pārthivasya vā*)—or from the place of the earth
+- ऋतस्य वा (*ṛtasya vā*)—or from the place of the atmosphere
+- नः (*naḥ*)—us
+- त्रासीथां (*trāsīthāṃ*)—protect
+- यज्ञायते (*yajñāyate*)—to one who wishes to worship (you) with sacrifice
+- दे वा (*de vā*)—and to one who offers the oblation
+- पशुष (*paśuṣa*)—animals
+- नाजान् (*nājān*)—foods (provide)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, what sacrificer, with reference to you, is able to perform a sacrifice that is pleasing to you? Whether you are in the place of the heaven-world, in the great place of the earth, or in the region of the atmosphere, protect us from there. Provide animals and foods to the one who wishes to worship you through the sacrifice and to the one who offers the oblation.
+
+##### English translation
+Who, Mitra, and Varuna, desiring to sacrifice to you, (is able to do so) ? do you, whether (abiding) in the region of heaven, or of the vast earth, or of the firmament, protect us, and give to the donor (of the oblation), and to the sacrificer, cattle and food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ मि॒त्रो वरु॑णो आर्य॒मायुरिंद्र॑ ऋभु॒क्षा ॒॑ 
+> नुरुतो जुषंत ।
+
+### Printed p. 355
+
+> नमोभिर्वा ये दधते सुवृक्तिं स्तोमं रुद्राय मीळुषे  
+> सजोषाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । मित्रः । वरुणः । अर्यमा । आयुः । इंद्रः । ऋभुक्षाः । मरुतः जुषंत ।  
+> नमःभिः । वा । ये । दधते । सुवृक्तिं । स्तोमं । रुद्राय । मीळुषे ।  
+> सृजोषाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मित्रादयो देवा नोऽस्माकं सुवृक्तिं स्तोमं शोभनपापादिवर्जनवत्सोत्रं नमोभिर्वा हविर्भिश्च जुषंत । सेवंतां । ये दधते धारयंत्युक्तलक्षणं
+> स्तोत्रं । देवा द्विविधाः स्तोत्रभाजो हविर्भाजश्च । अत्र स्तोत्रभाज उच्यंते ।
+> आयुः सततगतिर्वायुरुच्यते । अथ मरुत एव वियुज्य विशेष्यंते । रुद्राय
+> माळ्हुषे ॥ तृतीयार्थे चतुर्थी ॥ रुद्रेण सह सजोषाः सजोषसः सह प्रीयमाणाः । तेषां पुत्रत्वादिति भावः । केचन रुद्राय सजोषा इत्येतन्मित्रादिसर्वदेवताविशेषणमिति कथयंति ॥
+
+##### Gist of the bhāṣya
+
+Those deities, Mitra and the others, are to accept our well-made hymn (सुवृक्तिं स्तोमं (*suvṛktiṃ stomaṃ*), a hymn of praise free from evil and the like) with praises or with oblations; जुषंत (*juṣaṃta*) means "let them enjoy". They are those who hold (दधते (*dadhate*)) the hymn so described. Deities are of two kinds, those who share in praise and those who share in oblations; here those who share in praise are meant. आयुः (*āyuḥ*), the ever-moving, is said to be Vāyu. Then the Maruts are separated off and specified. रुद्राय माळ्हुषे (*rudrāya māḷhuṣe*): the dative is used in the sense of the instrumental, so "together with Rudra, the showerer". सजोषाः (*sajoṣāḥ*) means "pleased together"; the idea is that they are his sons. Some say that "रुद्राय सजोषा (*rudrāya sajoṣā*)" is an epithet of all the deities, Mitra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which deities
+- सुवृक्तिं (*suvṛktiṃ*)—well made
+- स्तोमं (*stomaṃ*)—the hymn
+- दधते (*dadhate*)—those who accept and hold, they also (such sharers in praise); (or) ये (*ye*)—those who
+- मीळ्हुषे (*mīḷhuṣe*)—the giver of what is desired
+- रुद्राय (*rudrāya*)—together with Rudra
+- सजोषाः (*sajoṣāḥ*)—those who with equal affection together receive the oblation (sharers in oblations); ते (*te*)—all those deities, that is,
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अरमा (*aramā*)—Aryaman
+- आयुः (*āyuḥ*)—Vāyu
+- इंद्रः (*iṃdraḥ*)—Indra
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Ṛbhukṣan
+- मरुतः (*marutaḥ*)—the Maruts
+- नः (*naḥ*)—our
+- नमोभिः (*namobhiḥ*)—with praises
+- जुषंत (*juṣaṃta*)—let them be pleased, enjoying
+
+##### भावार्थ (Bhāvārtha)
+
+Those deities who have accepted the well-made praises and are famed as sharers in praise, and those who, joined in equal affection with Rudra, the giver of what is desired, receive the oblation together and are renowned as sharers in oblations, that is, Mitra, Varuṇa, Aryaman, Vāyu, Indra, Ṛbhukṣan and the Maruts, may all of them enjoy our praises and be satisfied.
+
+### Printed p. 356
+
+##### English translation
+May those divinities, Mitra, Varuna, Aryaman, Ayu, Indra, Ribhukshin, the Maruts who accept pious praise, be pleased by our adorations, partaking of the gratification afforded to Rudra, the showerer (of benefits).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ येष्ठा॑श्विना हु॒वध्यै॒ वात॑स्य॒ पत्म॒न्रथ्य॑स्य पु॒ष्टौ ।  
+> उ॒त वा॑ दि॒वो असु॑राय॒ मन्म॒ प्रांधां॑सीव॒ यज्य॑वे भरध्वं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । येष्णा । अश्विना । हुवध्यै । वातस्य । पत्मन् । रथ्यस्य । पुष्टौ ।  
+> उत । वा । दिवः । असुराय । मन्म । प्र । अंधांसिइव । यज्यवे । भरध्वं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयाश्विनौ रुद्रश्चोच्यंते । हे अश्विनाश्विनौ येष्ठा कामानां यंतृतमौ
+> नां युवां वातस्य पत्मन् । धर्मसाम्याद्दर्मिग्रहणं । वायुसमानगतेरश्वस्य
+> नमने प्राप्तौ रथ्यस्य रथस्य पुष्टौ च निमित्ते सति हुवध्यै । हुवे । आह्वयामि ।
+> आह्वातुं प्रभवामि । अथवा वायुवद्युवयोः शीघ्रगमनसाधनरथस्य पोषे च
+> निमित्ते सति । उत ना किंचेत्यर्थः । दिवो द्योतमानाय ॥ चतुर्थ्यर्थे षष्ठी ॥
+> असुराय प्राणापहर्त्रॆ रुद्राय । यद्वा । द्युलोकसंबंधिनेऽसुराय प्राणदात्रे
+> सूर्याय वायवे वा यज्यवे यागसाधकाय मन्म मननीयं स्तोत्रं प्र
+> भरध्वं । संपादयत हे ऋत्विजः । अंधांसीवान्नानि हविर्लक्षणानि हवींषि स्तोत्रं
+> चेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By this verse the Aśvins and Rudra are addressed. O Aśvins, best controllers of desires: you, at the course of the wind (वातस्य पत्मन् (*vātasya patman*)), the possessor being taken by likeness of property, when a horse whose going equals the wind's is reached **NOTE**, and for the nourishment of the chariot (रथ्यस्य रथस्य पुष्टौ (*rathyasya rathasya puṣṭau*)), I call (हुवध्यै (*huvadhyai*): I call; I am able to call). Or else: for the nourishing of your chariot, the means of swift going like the wind. उत वा (*uta vā*) means "and moreover". दिवः (*divaḥ*) means "to the shining one", the genitive being used in the sense of the dative; असुराय (*asurāya*), to Rudra, the taker of life. Or else: to the Asura belonging to the heaven-world, the giver of life, that is, to Sūrya or to Vāyu. यज्ञवे (*yajñave*): to the accomplisher of the sacrifice. O priests, bring forth (भरध्वं (*bharadhvaṃ*): provide) a hymn worthy of reflection (मन्म (*manma*)), and as foods (अंधांसीव (*aṃdhāṃsīva*)) the oblations; that is, both oblations and hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येष्ठा (*yeṣṭhā*)—those who restrain desires
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—you
+- वातस्य (*vātasya*)—of the wind
+- पत्मन् (*patman*)—swift like the going
+- रथ्यस्य (*rathyasya*)—of the chariot
+- पुष्पा (*puṣpā*)—for the increase of its speed
+- हुवध्यै (*huvadhyai*)—I pray and call
+- उत ना (*uta nā*)—moreover (O priests)
+
+### Printed p. 357
+
+- दिवः (*divaḥ*)—the shining one
+- यज्ञवे (*yajñave*)—the accomplisher of the sacrifice
+- असुराय (*asurāya*)—Rudra, the taker of life, with reference to whom
+- अंधांसीव (*aṃdhāṃsīva*)—as one procures foods in the form of oblations
+- मन्म (*manma*)—the hymn worthy of reflection
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, restrainers of desire, we pray to you that your chariot, swift like the going of the wind, may attain increase of its speed towards our sacrifice. O priests, as you procure foods in the form of oblations to offer to Rudra, the shining, the accomplisher of the sacrifice and the taker of life, so procure (recite) a hymn worthy of reflection.
+
+##### English translation
+I invoke you, Aswins, the restrainers (of desire), for the acceleration
+of your chariot with the swiftness of the wind: (priests) offer praise and
+oblations to the celestial destroyer of life, to the accomplisher of the
+sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒क्षणो॑ दि॒व्यः कण्व॑होता त्रि॒तो दि॒वः स॒जोषा॒ वातो॑  ॒
+> अग्निः ।  
+> पू॒षा भगः॑ प्रभृ॒थे वि॒श्वभो॑जा आ॒जिं न ज॑ग्मुरा॒श्व॑श्वतमाः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सक्षणः । दिव्यः । कण्वहोता । त्रितः । दिवः । सजोषाः । वातः । अग्निः ।  
+> पूषा । भगः । प्रभृथे । विश्वभोजाः । आजिं । न । जग्मुः । अश्वश्वंतमाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत्र लिंगोक्तदेवताः । प्र जग्मुरिति संबंधः । सक्षणो यज्ञं सेवमानः
+> शत्रुणां सोढा वा दिव्यो दिवि भवः कण्वहोता । कण्णा ऋषयो मेधाविनो ना
+
+##### Gist of the bhāṣya
+
+The deities here are those named by their marks (liṅga). The construction is प्र जग्मुः (*pra jagmuḥ*), "they go forth". सक्षणः (*sakṣaṇaḥ*) is one who attends the sacrifice or one who overcomes enemies; दिव्यः (*divyaḥ*) is one born in heaven; कण्वहोता (*kaṇvahotā*): the Kaṇvas are seers, the wise,
+
+### Printed p. 358
+
+> होतार आह्वातारो यस्य स तथोक्तः । त्रितस्त्रिषु क्षित्यादिस्थानेषु तायमानो
+> दिवः सूर्येण सह सजोषाः समानगतिः समानप्रीतिर्वा वात उक्तलक्षणको
+> नायुरग्निः पूषा पोषक एतन्नामा भगश्च प्रभृथे प्रभरणवत्यस्मिन्यज्ञ उक्ताः
+> सर्वदेवा विश्वभोजा विश्वरक्षकाः कृत्सात्तारो वा आश्वश्वतमाः प्रकृष्टगमनाश्ववतां
+> श्रेष्ठाः संत आजिं न संग्राममिव प्र जग्मुः । प्रगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+who are the hotṛs, the callers, of that one; so he is described. त्रितः (*tritaḥ*) is the one spread out in the three places beginning with the earth; दिवः सजोषाः (*divaḥ sajoṣāḥ*), of the same course or the same pleasure with the sun (Sūrya); वातः (*vātaḥ*) is Vāyu as already characterised; Agni; Pūṣan, the nourisher of that name; and Bhaga. In this sacrifice, which has the bringing forward (प्रभृथे (*prabhṛthe*)), all the deities named, विश्वभोजाः (*viśvabhojāḥ*), protectors of all or devourers of all **NOTE**, the best among those who possess horses of excellent going, go forth (प्र जग्मुः (*pra jagmuḥ*): proceed) as if to battle (आजिं न (*ājiṃ na*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सक्षणः (*sakṣaṇaḥ*)—the one who accepts the share of the sacrifice
+- दिव्यः (*divyaḥ*)—the one born in the heaven-world
+- कण्वहोता (*kaṇvahotā*)—the one who has the Kaṇva seers themselves as hotṛs
+- त्रितः (*tritaḥ*)—Trita
+- दिवः (*divaḥ*)—with the sun
+- सजोषाः (*sajoṣāḥ*)—having equal affection
+- वातः (*vātaḥ*)—Vāyu
+- अग्निः (*agniḥ*)—Agni
+- पूषा (*pūṣā*)—the god Pūṣan
+- भगः (*bhagaḥ*)—Bhaga
+- विश्वभोजाः (*viśvabhojāḥ*)—all the deities who protect the universe
+- प्रकृते (*prakṛte*)—to this sacrifice
+- आश्वश्वतमाः (*āśvaśvatamāḥ*)—the horses that are the best even among swift-going horses
+- आजिं न (*ājiṃ na*)—as they run to the field of battle
+- प्रजग्मुः (*prajagmuḥ*)—let them graciously come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+The one who accepts the share of the sacrifice, who is born in the heaven-world, and who has the Kaṇva seers as his hotṛs, namely Trita; Vāyu, who has equal affection with the sun; Agni; the god Pūṣan; Bhaga; and all the deities who protect the universe: may they come quickly and graciously to this sacrifice, as the best of the swift-going horses run to the battle.
+
+##### English translation
+May the divine accepter of sacrifice, of whom the Kanwas are
+the priests, Trita, Vayu, and Agni, concurring in satisfaction with (the
+ruler of) heaven, or (Surya and) Pushan, and Bhaga, and they who are the
+protectors of the universe, (come quickly) to the sacrifice, as the fleetest
+coursers rush to battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+कण्वहोता त्रितः (*kaṇvahotā tritaḥ*)
+
+The deities mentioned in the present mantra are all, Sāyaṇa has said in the introduction, deities indicated by marks (liṅgokta). Liṅga means the individual and unique quality of each deity. For example, what are the unique qualities of Agni, Indra, Vāyu and Sūrya? —
+
+### Printed p. 359
+
+व्यवस्येन्मंत्रमाग्नेयं अंगैरग्नेशश्च लक्षितं । हविष्संक्ति प्रधान्यैश्च नामाह्वानैश्च केवलैः ॥ (*vyavasyenmaṃtramāgneyaṃ aṃgairagneśaśca lakṣitaṃ | haviṣsaṃkti pradhānyaiśca nāmāhvānaiśca kevalaiḥ ‖*)
+(Bṛ. De. 1-86)
+
+By mantras that indicate the special qualities of Agni **NOTE**, Agni is to be worshipped. One kind is that in which the havis-paṅkti is prominent, or the other kind is that which is to be recited in the form of an invocation. Thus the indication of the limbs of Agni is of two kinds. In the same way,
+
+ऐंद्रस्तु मंत्रो वायवैर्लिंगैरैंद्रॆश्च लक्ष्यते । नामधेयैश्च वज्रस्य बलकृत्या बलेन च ॥ (*aiṃdrastu maṃtro vāyavairliṃgairaiṃdrèśca lakṣyate | nāmadheyaiśca vajrasya balakṛtyā balena ca ‖*)
+(Bṛ. Pe. 1-87) **NOTE**
+
+Just as the mantras that indicate the special qualities of Indra describe the nature of Indra, they make known the natures of Vāyu in the same way. The nature of these two becomes known through the mention of the names of the thunderbolt weapon, through usages that suggest prowess, and through descriptions of prowess. And,
+
+सौरस्तु लिंगैः सूरस्य गुणैः सर्वैश्च तैजसैः । नामधेयैश्च चंद्रस्य सूक्तं च भजतेऽत्र यैः ॥ (*saurastu liṃgaiḥ sūrasya guṇaiḥ sarvaiśca taijasaiḥ | nāmadheyaiśca caṃdrasya sūktaṃ ca bhajate 'tra yaiḥ ‖*)
+(Bṛ. De. 1-88)
+
+The Sūrya mantras are to be recognised by the description of all the qualities of Sūrya and by the account of the divisions relating to his radiance. Thus the way of recognising the deities indicated by marks has been told. In the same manner, in the present mantra too, it takes no great effort to know the place of deities such as Agni and Pūṣan. But in "कण्वहोता त्रितः (*kaṇvahotā tritaḥ*)" it takes a little effort to understand the nature of Trita. Sāyaṇa has explained त्रिषु क्षित्यादिस्थानेषु तायमानः (सूरैण सह समानगतिः) वातः । वायुः (*triṣu kṣityādisthāneṣu tāyamānaḥ (sūraiṇa saha samānagatiḥ) vātaḥ | vāyuḥ*) as the Vāyu who is in the three worlds beginning with the earth and who has the same course as the sun. Therefore the two, दिवः सजोषाः (*divaḥ sajoṣāḥ*) and कण्वहोता (*kaṇvahotā*), become epithets of वातः (*vātaḥ*). In this view, what is the import of the epithet कण्वहोता (*kaṇvahotā*)? He has explained that too in this way: कण्वा ऋषयो मेधाविनो वा होतार आह्वातारो यस्य सः । (*kaṇvā ṛṣayo medhāvino vā hotāra āhvātāro yasya saḥ |*). The word kaṇva means a seer. This word is also used in the sense of "wise". Sāyaṇa, explaining the meaning of this word **NOTE**,
+
+कण्वशब्दार्थः । कणंति ध्वनंति स्तोत्रादिपाठेनेति कण्वा ऋत्विजः । (*kaṇvaśabdārthaḥ | kaṇaṃti dhvanaṃti stotrādipāṭheneti kaṇvā ṛtvijaḥ |*)
+(Sā. Bhā. Hu. Saṃ. 1-14-5) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 353. pp. 347-353: Viśvedeva introduction, sūkta 41 start, Ṛk 1
+**Progress note:** Done through printed p. 359. pp. 354-359: Ṛk 1 end, Ṛks 2-4, special topics
