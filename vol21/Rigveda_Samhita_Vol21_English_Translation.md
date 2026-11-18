@@ -7290,6 +7290,276 @@ The third sūkta, of fourteen Ṛks, beginning त्वामिद्दीत
 
 This sūkta, त्वामिद्दि (*tvāmiddi*), is the third sūkta in the fourth Anuvāka. It has fourteen Ṛks. The seer of this sūkta is Śaṃyu, son of Bṛhaspati; Indra is the deity. In this sūkta the Ṛks of odd number, 1, 3, 5 and so on, are in the Bṛhatī metre; the Ṛks of even number, 2, 4, 6 and so on, are in the Satobṛhatī metre. In the Anukramaṇī it is said: त्वामिद्दि पळूना प्रागाथं (*tvāmiddi paḷūnā prāgāthaṃ*) **GLOSS** **NOTE** The use of the sūkta is by indication. In the variety of the Jyotiṣṭoma sacrifice called Bṛhatpṛṣṭha, at the time of reciting the niṣkevalya-śastra mantras, the use of this sūkta for the stotriya mantras called the pragātha at the beginning is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यद्यु वै बृहत्वामिद्दि हवामहे (*yadyu vai bṛhatvāmiddi havāmahe*) (Ā. 5-15). In the Mahāvratesṭi too, when the niṣkevalya-śastra mantras are recited, this sūkta is to be recited as a pragātha sūkta; this is indicated in the fifth Āraṇyaka of the Aitareya-Āraṇyaka by the sentence त्वामिद्दि हवामहे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ (*tvāmiddi havāmahe tvaṃ haihi cerava iti bṛhataḥ stotriyānurūpau*) (Ai. Ā. 5-2-2).
 
+### Printed p. 164
+
+##### Particulars
+
+Sūkta 46. Maṇḍala 6. Anuvāka 4. Aṣṭaka 4. Adhyāya 7. Vargas 27, 28, 29. Number of Ṛks in the sūkta: 14. Seer: Śaṃyu Bārhaspatya. Deity: Indra. Metre: Prāgātha.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्धि हना॑महे सा॒ता वाज॑स्य का॒रवः॑ ।  
+> त्वां वृ॒त्रेस्विं॑द्र॒ सत्प॑तिं॒ नर॒स्त्वां काष्ठा॒ स्वर्व॑तः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । हि । हवामहे । साता । वाजस्य । कारवः ।  
+> त्वां । वृत्रेषु । इंद्र । सर्त्पतिं । नरः । त्वां । काष्ठासु । अर्वतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारवः स्तोतारो वयं वाजस्यान्नस्य साता सात् संभजने निमित्तभूते सति
+> हे इंद्र त्वामिद्दि त्वामेव हवामहे । स्तुतिभिराह्वयामः । हे इंद्र सत्पतिं सतां
+> पालयितारं श्रेष्ठं त्वां नरोऽन्येऽपि मनुष्या वृत्रेष्वावरकेषु शत्रुषु सत्तु
+> हवंते । आह्वयंति तज्जयार्थं । अपि चार्वतोऽश्वस्य संबंधिनीषु काष्ठासु
+> यत्राश्वः क्रांता तिष्ठति तासु काष्ठाः संग्रामेषु युद्धकामाश्च त्वामेवाह्वयंति ।
+> आतो वयं त्वामेवाह्वयाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We singers (कारवः (*kāravaḥ*)), for the sake of the sharing of food (साता (*sātā*), that is, when there is a cause for sharing), call on you alone, O Indra, with praises. O Indra, protector of the good and the best, other men too call on you in the encounters with enemies (वृत्रेषु (*vṛtreṣu*), the obstructing foes) for the conquest of them. And in the battles (काष्ठासु (*kāṣṭhāsu*)) connected with the horse, where the horse stands having advanced, those who desire to fight call on you alone. Therefore we too call on you alone: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कारवः (*kāravaḥ*)—we who are praisers
+- वाजस्य (*vājasya*)—of food
+- साता (*sātā*)—for the gain
+- त्वामिद्दि (*tvāmiddi*)—you alone
+- हवामहे (*havāmahe*)—we call, praying
+- सत्पतिं (*satpatiṃ*)—the protector of good men and the best
+- त्वां (*tvāṃ*)—you
+- नरः (*naraḥ*)—other men also
+- वृत्रेषु (*vṛtreṣu*)—at the time of fighting with enemies (they call you for help)
+- अर्वतः (*arvataḥ*)—accompanied by horses
+- काष्टासु (*kāṣṭāsu*)—in battles also
+- त्वां (*tvāṃ*)—they call you alone
+
+### Printed p. 165
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who are praisers call on you alone, praying, for the gain of food. Other men too call on you alone for help, when they are fighting with enemies in battles accompanied by horses, you who are the protector of good men and the best.
+
+##### English translation
+We worshippers invoke you for the acquirement of food; you, Indra, the protector of the good, (do) men (invoke for aid) against enemies, and in places where horses (enconnter).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं न॑श्चित्र वज्रहस्त धृष्णु॒या म॒हः स्त॑वा॒नो अ॑द्रिवः ।  
+> गामश्वं॑ र॒थ्य॑मिंद्र॒ सं कि॑र स॒त्रा वाजं॒ न जि॒ग्युषे॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । चित्र । वज्रहस्त । धृष्टुया । महः । स्तवानः । अद्रिवः ।  
+> गां । अश्वं । रथ्यं । इंद्र । सं । किर । सत्रा । वाजं । न । जिग्युषे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे चित्र चायनीय वज्रहस्त वज्रबाहो आद्रिवो वज्रवन् । यद्वा ।
+> अदृणात्यनेनेत्यद्रिरशनिः । तद्वन् । एवंभूतेंद्र धृष्णुया धृष्णुः शत्रूणां धर्षयिता महो महान् स तादृशस्त्वं स्तवानोऽस्माभिः स्तूयमानः सन् गां रथ्यं
+> रथवाहनमश्वं च सं किर । सम्यक् प्रयच्छ । जिग्युषे जितवते पुरुषाय भोगार्थं
+> सत्रा महत्पभूतं वाजं नान्नमिव । यथा शत्रून् जितवते भोर्गार्थं बह्वन्नं
+> प्रयच्छसि तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O wonderful (चित्र (*citra*), worthy of admiration) Indra, wielder of the thunderbolt in your hand (vajra-armed), possessor of the thunderbolt, or else, since the thunderbolt is that by which one tears, the possessor of that; such an Indra, bold (धृष्णुया (*dhṛṣṇuyā*), the assailer of enemies) and great: being praised by us, grant us (सं किर (*saṃ kira*), bestow well) the cow and the horse that draws the chariot. As you give abundant food (सत्रा (*satrā*), much) for enjoyment to a man who has conquered (जिग्युषे (*jigyuṣe*)), so do you give: this is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र (*citra*)—wonder-working
+- वज्रहस्त (*vajrahasta*)—holding the thunderbolt in the hand
+- अद्रिवः (*adrivaḥ*)—holding the thunderbolt **NOTE**
+- इंद्र (*iṃdra*)—O Indra
+- धृष्णुया (*dhṛṣṇuyā*)—assailer of enemies
+- महः (*mahaḥ*)—great-souled
+- सः (*saḥ*)—and renowned
+- त्वं (*tvaṃ*)—you
+
+### Printed p. 166
+
+- स्तवानः (*stavānaḥ*)—being praised by us
+- जिग्युषे (*jigyuṣe*)—to a man who is victorious, for enjoyment
+- सत्रा (*satrā*)—abundant
+- वाजं न (*vājaṃ na*)—as you give food
+- गां (*gāṃ*)—cattle
+- अश्वं (*aśvaṃ*)—and horses
+- सं किर (*saṃ kira*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wonder-working and holding the thunderbolt in your hand, you who are the assailer of enemies, great-souled and renowned, being praised by us, provide us too with cattle and horses, as you give abundant food to a man who is victorious, for enjoyment.
+
+##### English translation
+Wonderful wielder of the thunderbolt, Indra, the lord of clouds, mighty in resolution, being glorified by us. grant us cattle, and horses fit for chariots, as (you grant) abundant food to him who is victorious (in battle).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः स॑त्रा॒हा विच॑र्षणि॒रिंद्रं॒ तं हू॑महे व॒यं ।  
+> सह॑स्रमुष्क॒ तुवि॑नृम्म॒ सत्प॑ते॒ भवा॑ स॒मत्सु॑ नो वृ॒धे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । सत्राहा । विचर्षणिः । इंद्रं । तं । हूमहे । वयं ।  
+> सहस्रमुष्क । तुविनृम्म । सत्पते । भव । समत्सु । नः । वृधे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महाव्रते निष्केवल्ये यः सत्राहेत्यादिसूक्तशेषः शंसनीयः । सूत्र्यते हि ।
+> यः सत्राहा विचर्षणिरिति शेषोऽयं ते अस्तु हर्यत इति सूक्ते । ऐ. आ. ५-२-४ ।
+> इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने यः सत्राहेति प्रगाथो वैकल्पिकोऽनुरूपः । सूत्रितं च । यः सत्राहा विचर्षणः स्वादोरित्था विषूवतः । आ. ७-४ ॥ इति ॥
+> य इंद्रः सत्राहा महतां शत्रूणां हंता विचर्षणिर्विशेषेण सर्वस्य द्रष्टा
+> तमिंद्रं वयं हूमहे । स्तुतिपदैराह्वयामः । उत्तरार्धः प्रत्यक्षकृतः । हे
+> सहस्रमुष्क सहस्रशेफ । यां कां च स्त्रियं संभवन्निंद्रो भोगलोलुपतया
+
+##### Gist of the bhāṣya
+
+In the Mahāvrata, in the niṣkevalya, the remainder of the sūkta beginning with यः सत्राहा (*yaḥ satrāhā*) is to be recited. For it is laid down: यः सत्राहा विचर्षणिरिति शेषोऽयं ते अस्तु हर्यत इति सूक्ते । (*yaḥ satrāhā vicarṣaṇiriti śeṣo 'yaṃ te astu haryata iti sūkte |*) (Ai. Ā. 5-2-4) **GLOSS** On the Cāturviṃśika day, at the midday pressing, the pragātha यः सत्राहेति (*yaḥ satrāheti*) is an optional anurūpa. And it is laid down in the sūtra: यः सत्राहा विचर्षणः स्वादोरित्था विषूवतः । (*yaḥ satrāhā vicarṣaṇaḥ svādoritthā viṣūvataḥ |*) (Ā. 7-4) **GLOSS** **NOTE** The Indra who is the slayer (सत्राहा (*satrāhā*)) of mighty enemies and the all-seer (विचर्षणिः (*vicarṣaṇiḥ*), he who sees everything in particular): that Indra we call (हूमहे (*hūmahe*)), summoning him with words of praise. The latter half is in the direct address. O thousand-organed one (सहस्रमुष्क (*sahasramuṣka*), with a thousand members), whatever woman Indra met, in his eagerness for enjoyment
+
+### Printed p. 167
+
+> स्वशरीरे पर्वणि पर्वणि शेफान् ससर्जेति कौषीतकिभिराम्नातं । तदभिप्रायेणेदं
+> संबोधनं । हे तुविनृम्म बहुधन सत्पते सतां पालयितरिंद्र समत्सु संग्रामेषु
+> नोऽस्माकं वृधे वर्धनाय भव ॥
+
+##### Gist of the bhāṣya
+
+he sent forth organs in his own body, at every joint: so the Kauṣītakins have handed down. With this in mind the address is made. O you of much wealth (तुविनृम्म (*tuvinṛmma*)), O protector of the good (सत्पते (*satpate*)), Indra, be in battles (समत्सु (*samatsu*)) for our increase (वृधे (*vṛdhe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- सत्राहा (*satrāhā*)—is the destroyer of enemies
+- विचर्षणिः (*vicarṣaṇiḥ*)—is able to see everything
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- वयं (*vayaṃ*)—we
+- हूमहे (*hūmahe*)—call, praying
+- सहस्रमुष्क (*sahasramuṣka*)—O you who have thousands of organs of enjoyment
+- तुविनृम्म (*tuvinṛmma*)—who have many kinds of wealth
+- सत्पते (*satpate*)—and are the protector of good men, O Indra
+- समत्तु (*samattu*)—in battles
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—as the increaser
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is the destroyer of enemies and is able to see everything, that same Indra we call, praying. O Indra, who have thousands of organs of enjoyment, who have many kinds of wealth and are the protector of good men, be the increaser for us in battles.
+
+##### English translation
+We invoke that Indra who is the destroyer of mighty foes, the supervisor (of all things): you, the many-organed, the protector to the good, the distributor of wealth, be unto us (the ensurer of) successs in combats.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśaka, at the time of the midday pressing, the priest called Brāhmaṇācchaṃsin may recite, optionally, for the anurūpa Ṛk, the Ṛk (pragātha) इंद्र ज्येष्ठं न आ भर (*iṃdra jyeṣṭhaṃ na ā bhara*); this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, इंद्र ज्येष्ठं न आ भरा त्वा सहस्रमा शतं (*iṃdra jyeṣṭhaṃ na ā bharā tvā sahasramā śataṃ*) (Ā. 7-4).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बाध॑से॒ जना॑वृष॒भेव॑ म॒न्युना॒ फृषौ॑ मी॒ळ्ह ऋ॑चीषम ।  
+> अ॒स्माकं॑ बोध्यवि॒ता म॑हाध॒ने त॒नूष्व॒प्सु सूर्ये॑ ॥ ४ ॥
+
+### Printed p. 168
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बाधसे । जनान् । वृषभा इव । मन्युना । फृष् । माळ्ही । ऋचीषम ।  
+> अस्माकं । बोधि । अविता । महाधने । तनूषु । अप्सु । सूर्ये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋचीषम ऋचा सम ऋग्यादृशं रूपं प्रतिपादयति तादृग्रूपेंद्र
+> घृषौ शत्रूणां घर्षके बाधके माळ्वे संग्रामे जनानस्मदीयान् शत्रून् वृषभेव
+> वृषभेणेव बलवता मन्युना क्रोधेन बाधसे । बाधस्व । तथा महाधने महतो
+> धनस्य निमित्तभूते संग्रामे चास्माकमविता रक्षिता बोधि । बुध्यस्व । रक्षितृत्वेनात्मानं
+> जानीहि । रक्षको भवेति यावत् । किमर्थं । तनूषु तनयेष्टप्पूडकेषु सूर्ये
+> च लब्धव्येषु सत्त्वतेषां लाभार्थं । सूर्यस्य लाभः संदर्शनं । तदर्थमित्यर्थः॥
+
+##### Gist of the bhāṣya
+
+O ऋचीषम (*ṛcīṣama*), one who is like the Ṛk, that is, whose form is such as the Ṛk sets forth: such an Indra, in battle (माळ्वे (*māḷve*)), the crusher and harasser of enemies (घृषौ (*ghṛṣau*)), you assail (बाधसे (*bādhase*), assail!) the people, our enemies, with strong anger (मन्युना (*manyunā*)), as a bull would. And in the battle that is the cause of great wealth, be our protector (अविता (*avitā*)); बोधि (*bodhi*) means know yourself as protector, that is, be our protector. For what purpose? For the gain of those things that are to be obtained, among them the offspring (तनूषु (*tanūṣu*)), the waters, and the sun (सूर्ये (*sūrye*)); the gain of the sun is its sight; for that, is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋचेषम (*ṛceṣama*)—O Indra, whose form is set forth by the Ṛk and the other mantras
+- फृषौ (*phṛṣau*)—who assail enemies
+- माळ्वे (*māḷve*)—in battle
+- जनान् (*janān*)—the enemy people
+- वृषभेव (*vṛṣabheva*)—like a bull
+- मन्युना (*manyunā*)—with powerful anger
+- बाधसे (*bādhase*)—destroy
+- महाधने (*mahādhane*)—in the battle which is the cause of abundant wealth
+- अस्माकं (*asmākaṃ*)—our
+- अविता (*avitā*)—that you should be the protector
+- बोधि (*bodhi*)—know
+- तनूषु (*tanūṣu*)—for the gain of sons and the rest
+- अप्पु (*appu*)—and for the gain of water
+- सूर्ये (*sūrye*)—and for our obtaining the light of the sun (be our protector)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose form is set forth by the Ṛk and the other mantras, in the battle fought with enemies destroy the enemy people with anger as powerful as a bull's. Know that you should be our protector in the battle that is the cause of abundant wealth. And be our protector for the gain of sons and the rest for us, for the gain of water, and for our obtaining the light of the sun.
+
+##### English translation
+Such, Indra, as you are represented in holy texts, assail (our) adversaries with fierceness like (that of) a bull in close conflict: regard yourself as our defender in war, (that we may long enjoy) posterity, water, and the (sight of the) sun.
+
+### Printed p. 169
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ ज्येष्ठं॑ न॒ आ भ॑र॒ ओजि॑ष्ठं॒ पपु॑रि॒ श्रवः॑ ।  
+> येने॒मे चि॑त्र वज्रहस्त॒ रोद॑सी॒ ओभे सु॑तिप्र॒ प्राः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ज्येष्ठं । नः । आ । भर । ओजिष्ठं । पपुरि । श्रवः ।  
+> येन । इमे इति । चित्र । वज्रहस्त । रोदसी इति । आ । उभे इति । सुशिप्र । प्राः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिन इंद्र ज्येष्ठं न आ भरेति
+> प्रगाथो वैकल्पिकोऽनुरूपः । सूत्रितं च । इंद्र ज्येष्ठं न आ भरा त्वा सहस्रमा
+> शतं । आ. ७-४ । इति ॥
+> हे इंद्र ज्येष्ठं प्रशस्यतममोजिष्ठमोजस्वितममतिशयेन बलकरं पपुरि
+> पूरकं श्रवोऽन्नं नोऽस्मभ्यमा भर । आहर । प्रयच्छ । हे चित्र चायनीय
+> वज्रहस्त वज्रबाहो हे सुशिप्र शोभनहनुक एवंभूत हे इंद्र येनान्नेनेमे
+> परिदृश्यमाने उभे रोदसी द्यावापृथिव्यावा प्रा आपूरयसि तदन्नमा भरेत्यन्वयः॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the midday pressing, the pragātha of the Brāhmaṇācchaṃsin, इंद्र ज्येष्ठं न आ भरेति (*iṃdra jyeṣṭhaṃ na ā bhareti*), is an optional anurūpa; this is laid down in the sūtra इंद्र ज्येष्ठं न आ भरा त्वा सहस्रमा शतं (*iṃdra jyeṣṭhaṃ na ā bharā tvā sahasramā śataṃ*) (Ā. 7-4). O Indra, bring (आ भर (*ā bhara*), fetch, give) to us the food that is the best (ज्येष्ठं (*jyeṣṭhaṃ*), the most praiseworthy), most vigorous (ओजिष्ठं (*ojiṣṭhaṃ*), exceedingly strengthening) and filling (पपुरि (*papuri*), that which fills). O wonderful one (चित्र (*citra*), worthy of admiration), holder of the thunderbolt in your hand, O fair-jawed one (सुशिप्र (*suśipra*), having a beautiful jaw), such an Indra: the food with which you fill (प्राः (*prāḥ*)) these two visible worlds, heaven and earth (रोदसी (*rodasī*)), bring us that food: this is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र (*citra*)—attractive one
+- वज्रहस्त (*vajrahasta*)—you who have a hand holding the thunderbolt
+- सुशिप्र (*suśipra*)—you who have an excellent jaw
+- इंद्र (*iṃdra*)—O Indra
+- येन (*yena*)—with which food
+- इमे (*ime*)—these visible
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ प्राः (*ā prāḥ*)—you protect; such
+- ज्येष्ठः (*jyeṣṭhaḥ*)—praiseworthy
+- ओजिष्ठं (*ojiṣṭhaṃ*)—endowed with vigour
+- पपुरि (*papuri*)—and the giver of creation
+- श्रवः (*śravaḥ*)—food
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, attractive, with a hand holding the thunderbolt and with an excellent jaw, bring and give us such praiseworthy food, endowed with vigour and the giver of nourishment, with which you protect these two visible worlds, heaven and earth.
+
 ---
 
-**Progress note:** Done through printed p. 163. Vol 21 Mandala 6 sukta 45 Rks 27-33 and introduction of sukta 46
+**Progress note:** Done through printed p. 169. Vol 21 Mandala 6 sukta 46 Rks 1-5 (Rk 5 partly)
