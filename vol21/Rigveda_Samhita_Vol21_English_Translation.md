@@ -525,6 +525,236 @@ I now glorify his vast and Asura-destroying (vigour) : those exploits that he ha
 
 **NOTE**
 
+### Printed p. 14
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्य । चित् । नु । चित् । तत् । अपः । नदीनां । यत् । आभ्यः । आरदः । गातुं ।  
+> इंद्र ।  
+> नि । पर्वताः । अद्मसदः । न । सेदुः । त्वया । दृळ्हानि । सुक्रतो इति सुक्रतो ।  
+> रजांसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अद्या चिदद्यापि नू चित्पुरापि तव नदीनां संबंधिकं तदपः कर्म
+> वर्तते । अभ्यो नदीभ्यो गातुं मार्गमरदः प्रवहनार्थं व्यलिख इति यत्कर्म
+> तत्सर्वदानुपक्षीणं सद्वर्तत इत्यर्थः । अपि च त्वदाज्ञया पर्वता गिरयो नि
+> षेदुः । निषण्णाः । उत्पतनं परित्यज्य क्वचिदेव स्थाने नैश्चल्येनोपविष्टा बभूवुः ।
+> अद्मसदो न । अद्मादनीयमन्नं । तदर्थं सीदंतः पुरुषा इव । यथा ते
+> भोजनार्थं नैश्चल्येनासते तथेत्यर्थः । अतः कारणात् हे सुक्रतो शोभनकर्मन्निंद्र त्वया रजांसि सर्वे लोका दृळ्हानि दृढीतानि स्थिरीकृता आसन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, today and in earlier times too, that act of yours that belongs to the rivers continues: the act by which you cut a path, a way, for these rivers to flow, remains always unimpaired. Moreover, at your command the mountains have settled down: abandoning flight, they sat motionless in one place, like men sitting down for the sake of food that is to be eaten, who sit still for the sake of their meal. For this reason, O Indra of good deeds, by you all the worlds were made firm, made steady.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आभ्यः (*ābhyaḥ*)—for the rivers
+- गातुं (*gātuṃ*)—to flow
+- अरदः (*aradaḥ*)—you made a way, the act so called
+- यत् (*yat*)—which act there is
+- नदीनां (*nadīnāṃ*)—belonging to the rivers
+- तदपः (*tadapaḥ*)—those acts of yours
+- अद्या चित् (*adyā cit*)—just as they are now
+- नू चित् (*nū cit*)—were well known in former times too
+- अद्मसदो न (*admasado na*)—like men sitting motionless to eat food
+- पर्वताः (*parvatāḥ*)—the mountains
+- नि षेदुः (*ni ṣeduḥ*)—stand unmoving
+- सुक्रतो (*sukrato*)—O Indra, doer of excellent deeds
+- त्वया (*tvayā*)—by you alone
+- रजांसि (*rajāṃsi*)—all the worlds
+- दृळ्हानि (*dṛḷhāni*)—have been made to stand firm
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those acts of yours that belong to the rivers, the act so called of making a way for the rivers to flow, were well known in former times just as they are now. The mountains stand unmoving, like men sitting motionless to eat food. O Indra, doer of excellent deeds, by you alone all the worlds have been made to stand firm.
+
+##### English translation
+At present, verily as of old, that act, (the liberation) of the rivers, is effective ; whereby you have directed them on their course : the mountains
+
+### Printed p. 15
+have settled (at your command) like (men) seated at their meals : doer of great deeds, by you, have the worlds been rendered stationary.
+
+##### विशेषविषयगळु (Special Topics)
+
+नू चित् (*nū cit*): the particle नू चित् (*nū cit*) is used when the matter of "new" and "old" is indicated. Yāska has given the explanation on this point:
+नूचिदिति निपातः पुराणनवयोर्नूचेति च । अद्याचिन्नू चित्तदपो नदीनां । अद्य च पुरा च तदेव कर्म नदीनां । नू च पुरा च सदनं रयीणां रयिरिति धननाम रातेर्दानकर्मणः ॥ (*nūciditi nipātaḥ purāṇanavayornūceti ca | adyācinnū cittadapo nadīnāṃ | adya ca purā ca tadeva karma nadīnāṃ | nū ca purā ca sadanaṃ rayīṇāṃ rayiriti dhananāma rāterdānakarmaṇaḥ ‖*) (Ni. 4-17).
+That is: having said that the particle नूचित् (*nūcit*) is used in the sense of new and old, he has given as an example the sentence in the present Ṛk, अद्याचिन्नु चित्तदपो नदीनां (*adyācinnu cittadapo nadīnāṃ*) (Ṛ. Saṃ. 6-30-3). The action of the river, that is, the action of flowing, is of one kind both in former times and now. That is, the way the river used to flow in former times, so it flows now also: this is the meaning. And having said that the words नू च (*nū ca*) also are used in this same sense, for it he gives:
+नू च पुरा च सदनं रयाणां जातस्य च जायमानस्य च क्षामं । सतश्च गोपा भवतश्च भूरेर्देवा अग्निं धारयन् द्रविणोदां ॥ (*nū ca purā ca sadanaṃ rayāṇāṃ jātasya ca jāyamānasya ca kṣāmaṃ | sataśca gopā bhavataśca bhūrerdevā agniṃ dhārayan draviṇodāṃ ‖*) (Ṛ. Saṃ. 1-96-7).
+In this Ṛk, in the first pāda, the words नू च (*nū ca*) are used. O Agni, named Draviṇoda, you are, in former times and now, the resting place of wealth: this is the meaning.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमित्तन्न त्वावा॑ अ॒न्नो अ॒स्तींद्र॑ दे॒वो न मर्त्यो॒  ॑
+> ज्यायान् ।  
+> अह॒न्नहिं॑ परि॒शया॑न॒मणोऽवा॑स्यजो अ॒पो अच्छा॑ समु॒द्रं॥
+
+### Printed p. 16
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । इत् । तत् । न । त्वावान् । अन्यः । अस्ति । इंद्र । देवः । न । मर्त्यः ।  
+> ज्यायान् ।  
+> अहन् । अहिं । परिशयानं । अर्णः । अव । असृजः । अपः । अच्छ । समुद्रं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वक्ष्यमाणं तत्सत्यमित्सत्यमेव नानृतं । त्वावान् त्वत्सदृशोऽन्यो
+> देवो नास्ति । त्वत्सदृशोऽन्यो मर्त्यो मनुष्योऽपि नैव विद्यते । ज्यायानधिकोऽपि देवो मनुष्यो वा न खल्वस्ति । इति यद्दीयते तत्सत्यमेवेत्यर्थः ।
+> अपि च त्वमर्ण उदकं परिशयानं परिवृत्य शयानमहिं मेघमहन् । अवधीः ।
+> हत्वा च समुद्रमंतरिक्षं जलधिं वाच्छाभिमुख्येनाप उदकान्यवासृजः । अवाज्मुखतॆया विसृष्टवानसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, what is about to be said is true, truly so and not false: no other god like you exists; no other mortal, no man either, like you is found; no god or man who is greater, superior, exists. What is said thus is true: this is the meaning. Moreover, you slew the cloud, the serpent that lay encircling the water. And having slain it, you sent forth the waters toward the sea, the atmosphere or the ocean, facing it, that is, you let them go with their mouths turned downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वावान् (*tvāvān*)—equal to you
+- अन्यः (*anyaḥ*)—other
+- देवः (*devaḥ*)—god
+- न अस्ति (*na asti*)—there is not
+- मर्त्यः (*martyaḥ*)—nor man
+- न (*na*)—there is not
+- ज्यायान् (*jyāyān*)—no god superior to you: thus
+- तत् (*tat*)—that well-known saying
+- सत्यमित् (*satyamit*)—is indeed true
+- अर्णः (*arṇaḥ*)—the water
+- परिशयानं (*pariśayānaṃ*)—lying encircling
+- अहिं (*ahiṃ*)—the Asura
+- अहन् (*ahan*)—you have slain
+- समुद्रं (*samudraṃ*)—in the atmosphere
+- अपः (*apaḥ*)—the waters
+- अच्छ (*accha*)—in abundance
+- अनासृजः (*anāsṛjaḥ*)—you caused to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O god, the saying that there is no god or man who is superior or equal to you is indeed true. You have slain the Asura named Vṛtra who lay encircling the water, and you have caused the waters of the atmosphere to flow in abundance.
+
+##### English translation
+Verily it is the truth, Indra, that there is no other such as you, no god nor mortal is (your) superior: you have slain Ahi obstructing the waters, you have set them free (to flow) to the ocean.
+
+### Printed p. 17
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॒पो वि दुरो॒ विषू॑ची॒रिंद्र॑ दृ॒ळ्ह म॑रुजः॒ पर्व॑तस्य ।  
+> राजा॑भवो॒ जग॑तश्चर्षणी॒नां सा॒कं सूर्यं॑ ज॒नय॒न्द्यामु॒  ॑
+> षासं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अपः । वि । दुरः । विषूचीः । इंद्र । दृळ्णं । अरुजः । पर्वतस्य ।  
+> राजा । अभवः । जगतः । चर्षणीनां । साकं । सूर्यं । जनयन् । द्यां । उषसं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दुरो वृत्रेणावृता अपो विषूचीर्विविधमंचंत्यो यथा
+> सर्वशः प्रसृता भवंति तथा व्यसृजः । यतस्त्वं पर्वतस्य पर्ववतो मेघस्य दृळं
+> दृढमपां बंधकप्रदेशमरुजः अभांक्षीः । अपि च त्वं जगतः संबंधिनीनां
+> चर्षणीनां प्रजानां राजाभवः । अधिपतिर्भवसि । किं कुर्वन् । सूर्यं द्यां
+> द्युलोकमुषसं च तमसा प्रावृतमेतत्त्रितयं साकं युगपदेव जनयन्
+> प्रादुर्भावयन् । प्रकाशयन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you released the waters enclosed by Vṛtra in such a way that they flow in various directions, that is, spread out on all sides. For you broke open the firm place of the mountain, that is, of the cloud with its joints, which binds the waters. And you became king, lord, of the people of the world. Doing what? Bringing forth together, at one and the same time, the sun, the sky, the heavenly world, and the dawn, these three that were enveloped in darkness; that is, making them manifest, lighting them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- दुरः (*duraḥ*)—which had been enclosed by Vṛtra
+- आपः (*āpaḥ*)—the waters
+- विषोचीः (*viṣocīḥ*)—so that they spread everywhere and flow
+- वि (*vi*) (असृजः (*asṛjaḥ*))—you released
+- पर्वतस्य (*parvatasya*)—of the cloud
+- दृळं (*dṛḷaṃ*)—the firm places that bind
+- अरुजः (*arujaḥ*)—you broke open
+- जगतः (*jagataḥ*)—of the world
+- चर्वणीनां (*carvaṇīnāṃ*)—over the people
+- राजा (*rājā*)—as lord
+- अभवः (*abhavaḥ*)—you have become
+- सूर्यं (*sūryaṃ*)—the sun
+- द्यां (*dyāṃ*)—the heavenly world
+- उषसं (*uṣasaṃ*)—and the dawn
+- साकं (*sākaṃ*)—together
+- जनयन् (*janayan*)—bringing forth (you have become lord)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you released the waters that had been enclosed by Vṛtra, so that they spread everywhere and flow. You broke open the firm places of the cloud that bind them. Bringing forth together the sun, the heavenly world and the dawn, you have become lord over all the people of the world.
+
+### Printed p. 18
+
+##### English translation
+You have set the obstructed waters free to flow in all directions : you have fractured the solid (barrier) of the cloud ; you are lord over the people of the world, making manifest together the sun, the sky, and the dawn.
+
+The thirty-first sūkta
+
+## Sūkta 31 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभूरेक इति पंचर्चमष्टमं सूक्तं भरद्वाजस्य सुहोत्रस्यार्षं ।
+> उपांत्या शक्वरी शिष्टाश्च तस्रस्त्रिष्टुभः । इंद्रो देवता । अनुक्रम्यते च । अभूरेकः
+> सुहोत्रस्तु चतुर्थी शक्वरीति ॥ महाव्रतस्य निष्केवल्य इदमादीन्यष्ट सूक्तानि
+> शंसनीयानि । तथा पंचमारण्यकं । अभूरेको रयिपते रयाणामित्यष्टौ
+> सूक्तानि । ऐ. आ. ५-२-२ । इति ॥ पृष्ठस्य षष्ठेऽहनि निष्केवल्य इदं सूक्तं निविद्वानं।
+> सूत्रितं च । एंद्र याहुप नः प्र घा न्वस्याभूरेक इति निष्केवल्यं । आ. ६० ।
+> इति ॥ विश्वजिति माध्यंदिनेऽच्छावाकशस्त्रे सामसूक्ताख्यमेतच्छंसनीयं । सूत्रितं
+> च । अभूरेको रयिपते रयाणामिति सामसूक्तानि । आ. ८-७ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the sūkta of five Ṛks beginning अभूरेक (*abhūreka*) is the eighth sūkta, with Suhotra of the Bharadvāja family as its seer. The penultimate Ṛk is Śakvarī and the remaining three are Triṣṭubh. The deity is Indra. The Anukramaṇī says: अभूरेकः सुहोत्रस्तु चतुर्थी शक्वरी (*abhūrekaḥ suhotrastu caturthī śakvarī*). In the niṣkevalya of the Mahāvrata the eight sūktas beginning with this one are to be recited; likewise the fifth Āraṇyaka says: अभूरेको रयिपते रयाणामित्यष्टौ सूक्तानि (*abhūreko rayipate rayāṇāmityaṣṭau sūktāni*) (Ai. Ā. 5-2-2). On the sixth day of the Pṛṣṭha rite this sūkta is the one with the nivid in the niṣkevalya. It is stated in the sūtra: एंद्र याहुप नः प्र घा न्वस्याभूरेक इति निष्केवल्यं । (*eṃdra yāhupa naḥ pra ghā nvasyābhūreka iti niṣkevalyaṃ |*) (Ā. 60) **NOTE**. In the Viśvajit, in the Acchāvāka's śastra at the midday pressing, this is to be recited as the Sāmasūkta. It is stated in the sūtra: अभूरेको रयिपते रयाणामिति सामसूक्तानि (*abhūreko rayipate rayāṇāmiti sāmasūktāni*) (Ā. 8-7).
+
+Translation (Anuvāda): This sūkta "Abhūr ekaḥ" is the eighth sūkta in the third anuvāka. In it there are five Ṛks. The seer of this sūkta is a person named Suhotra of the Bharadvāja gotra; Indra is the deity; the Ṛk before the last, that is, the fourth Ṛk of this sūkta, is in the Śakvarī metre; the remaining four Ṛks are in the Triṣṭup metre. In the Anukramaṇī it is said: अभूरेकः सुहोत्रस्तु चतुर्थी शक्वरी (*abhūrekaḥ suhotrastu caturthī śakvarī*). In the rite called Mahāvrata, the use of the eight sūktas from this sūkta onward, for the niṣkevalya-śastra mantras, is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence अभूरेको रयिपते रयाणामित्यष्टौ सूक्तानि (*abhūreko rayipate rayāṇāmityaṣṭau sūktāni*) (Ai. Ā. 5-2-2). On the sixth day of the Pṛṣṭha sacrifice also, this sūkta is to be recited, inserted among the niṣkevalya-śastra mantras as a nivid-bearing sūkta; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra, ऐंद्र या ह्युप नः प्र घान्वस्याभूरेक इति निष्केवल्यं (*aiṃdra yā hyupa naḥ pra ghānvasyābhūreka iti niṣkevalyaṃ*) (Ā. 8-1). In the Viśvajit rite also, at the time of the midday pressing, in the śastra-mantras recited by the priest called Acchāvāka, this sūkta is to be recited as a Sāmasūkta; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra, अभूरेको रयिपते रयाणामिति सामसूक्तानि (*abhūreko rayipate rayāṇāmiti sāmasūktāni*) (Ā. 8-7).
+
+### Printed p. 19
+Sūkta 31. Maṇḍala 6. Anuvāka 3. Sūkta 31. Aṣṭaka 4. Adhyāya 6 **NOTE**. Varga 3. Number of Ṛks in the sūkta: 5. Seer: Suhotra. Deity: Indra. Metre: 1, 3, 5 Triṣṭup; 4 Śakvarī **NOTE**.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॒रेको॑ रयिपते रयी॒णामा हस्त॑योरधिथा इंद्र  ॒
+> कृ॒ष्टीः ।  
+> वि तो॒के अ॒प्पु तन॑ये च॒ सूरेऽवो॑चंत चर्ष॒णयो॒  ॑
+> विवाचः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूः । एकः । रयिपते । रयाणां । आ । हस्तयोः । अधिथाः । इंद्र । कृष्टीः ।  
+> वि । तोके । अप्सु । तनये । च । :रे । अवोचंत । चर्षणयः । विवाचः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रयिपते धनस्य पालकेंद्र एकः प्रधानभूतस्त्वं रयाणां धनानां
+> स्वाम्यभूः । भवसि । यद्वा । रयाणां रयिपत इति संबंधः । एको रयिशब्दोऽनुवादो यथा गवामसि गोपतिरेक इंद्र । ऋग्वे. ७-९८-६ । इति । तदानीमेको
+> मुख्यस्त्वं भवसीति योजनीयं । अपि च हे इंद्र त्वं हस्तयोरात्मीययोर्बाह्वोः कृष्णीः प्रजा आधिथाः । आधत्से ! सर्वं जगत्तवाज्ञायां वर्तत
+> इत्यर्थः । किंच चर्षणयो मनुष्यास्तोके पुत्रेऽप्सूदकेषु सूरे शत्रूणां
+> प्रेरके तनये पौत्रेषु चैतेषु निमित्तभूतेषु सत्सु विवाचो विशिष्टाः स्तुतीर्व्यवोचंत । विविधं ब्रुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O lord of wealth, protector of wealth, Indra, you, the single chief, became the master of riches. Or else the connection is "lord of the riches": the word for wealth is repeated, as in यथा गवामसि गोपतिरेक इंद्र (*yathā gavāmasi gopatireka iṃdra*) (Ṛgve. 7-98-6) **NOTE**; then it is to be construed that you alone are the chief. And, O Indra, you hold in your two arms the peoples; that is, the whole world abides in your command. Further, men, in the matters of a son, of waters, of a hero, the impeller of enemies, and of grandsons, these being the occasions, utter various special praises, that is, they speak in manifold ways.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रयिपते (*rayipate*)—O Indra, lord of all wealth
+- इंद्र (*iṃdra*)—O Indra
+- एकः (*ekaḥ*)—you, the chief, alone
+- रयीणां (*rayīṇāṃ*)—of all wealth
+- अभूः (*abhūḥ*)—you have become the master
+- हस्तयोः (*hastayoḥ*)—your two arms
+
 ---
 
-**Progress note:** Done through printed p. 13. Rk 4-6 of Sukta 29, Sukta 30 Rk 1-3 (b17)
+**Progress note:** Done through printed p. 19. Suk 30 Rk 3-5, Suk 31 intro and Rk 1 (to p. 19)
