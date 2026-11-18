@@ -6565,6 +6565,144 @@ This Uṣas becomes व्येनी (*vyenī*), especially white. द्व�
 
 Although Uṣas has traversed the two places, earth and atmosphere, she is of a very bright colour, making her form manifest only in the eastern direction. As if she knew well the excellent path on which she has to travel, she goes following the path of the sun. She does not injure any quarter.
 
+### Printed p. 173
+
+##### English translation
+Lucidly white is she, occupying the two (regions, the upper and middle firmament), and manifesting her person from the east: she traverses the path of the sun as if knowing (his course), and harms not the quarters of the horizon.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा शु॒भ्रान त॒न्वो॑ विदा॒नोर्ध्वेव॑ स्ना॒ती दृ॒शये॑ नो  
+> अस्थात् ।  
+> अप॒ द्वेषो॒ बाध॑माना॒ तमां॑स्यु॒षा दि॒वो दु॑हि॒ता ज्योति॒षागा॑त् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । शुभ्रा । न । तन्वः । विदाना । ऊर्ध्वा इव । स्नाती । दृशये । नः । अस्थात् ।  
+> अप । द्वेषः । बाधमाना । तमांसि । उषाः । दिवः । दुहिता । ज्योतिषा । आ । अगात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषाः शुभ्रा न शुभ्रवर्णा निर्मला स्वलंकृता योषिदिव तन्नोऽंगानि
+> विदाना प्रज्ञापयंती स्नाती स्नानं कुर्वाणोर्ध्वेवोन्नतेव स्नानादुत्तिष्ठंतीव
+> नोऽस्मदर्थमस्माकं पुरतो वा दृशये सर्वेषां दर्शनायोदस्थात् । पूर्वस्यां
+> दिश्युत्तिष्ठति । किं कुर्वती । द्वेषो द्वेष्याणि तमांस्यप बाधमाना दिवो दुहितोषा
+> ज्योतिषा तेजसा सहागात् । आगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Uṣas, like a woman pure white in colour, spotless and well adorned, making known her limbs, and like one who has bathed and rises up from the bath, has risen for our sight, that is, before us, so that all may see her; she rises in the eastern quarter. What does she do? Driving away the hateful darknesses, Uṣas, the daughter of heaven, comes with radiance, that is, with brilliance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा (*eṣā*)—this goddess Uṣas
+- शुभ्रा न (*śubhrā na*)—like a woman adorned with bright garments and ornaments
+- तन्नः (*tannaḥ*)—her limbs
+- विदाना (*vidānā*)—showing
+- स्नाती (*snātī*)—like a woman who has gone down to bathe
+- ऊर्ध्वेव (*ūrdhveva*)—appearing as if rising up from the water, swaying modestly
+- नः (*naḥ*)—our
+- दृशये (*dṛśaye*)—for the sight
+- अस्थात् (*asthāt*)—she has risen and stands
+- दिवः (*divaḥ*)—of the atmosphere
+
+### Printed p. 174
+
+- दुहिता (*duhitā*)—the daughter
+- उषाः (*uṣāḥ*)—the goddess Uṣas
+- द्वेषः (*dveṣaḥ*)—hateful
+- तमांसि (*tamāṃsi*)—the dense darknesses
+- अप बाधमाना (*apa bādhamānā*)—afflicting and driving them far away
+- ज्योतिषा (*jyotiṣā*)—with her own brilliance
+- आगात् (*āgāt*)—she comes
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Uṣas, like a woman adorned with bright garments and ornaments, showing her limbs, and like a woman who has gone down to bathe and rises up from the water swaying modestly, appearing, has risen and stands for our sight. Uṣas, the daughter of the atmosphere, afflicting the hateful dense darknesses and driving them far away, comes with her own brilliance.
+
+##### English translation
+Exhibiting her person like a well-attired female, she stands before our eyes, (gracefully) inclining like (a woman who has been). bathing : dispersing the hostile glooms, Ushas, the daughter of heaven, comes with radiance.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा प्र॑ती॒ची दु॑हि॒ता दि॒वो नृन्नोषे॑व भ॒द्रा नि रि॑णीते॒  ॑
+> अप्सः ।  
+> पू॒र्ण्॒ती दा॒शुषे॒ वार्या॑णि॒ पुन॒ज्योति॑र्युव॒तिः पू॒र्वथा॑कः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । प्रतीची । दुहिता । दिवः । नृन् । योषा इव । भद्रा । नि । रिणीते । अप्सः ।  
+> विऊर्ण्ती । दाशुषे । वार्याणि । पुनः । ज्योतिः । युवतिः । पूर्वथा ।  
+> अकरित्यकः ॥ ६ ॥
+
+### Printed p. 175
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषाः प्रतीच्यभिमुखा सती दिवो दुहिता नृन् सर्वान् प्राणिनः प्रति
+> भद्रा योषेव कल्याणवेषा योषिदिवाप्सो रूपं नि रिणीते । प्रेरयति । किंच
+> दाशुषे हविर्दात्रे यजमानाय वार्याणि वरणीयानि धनानि व्यूर्ण्वती प्रयच्छंती युवतिर्नित्ययौवना सर्वत्र मिश्रयंती वा पुनरद्यापि पूर्वथा पूर्वमिव
+> ज्योतिस्तेजोऽकः । करोति ॥
+
+##### Gist of the bhāṣya
+
+This Uṣas, facing the west, the daughter of heaven, sends forth her form towards all beings, like an auspicious woman, one of fair dress; she sends it out. Further, to the giver of oblations, the sacrificer, she bestows desirable riches; ever young, that is, ever in youth, or else mingling with all things everywhere, she again now makes light as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the atmosphere
+- दुहिता (*duhitā*)—the daughter
+- एषा (*eṣā*)—this goddess Uṣas
+- प्रतीची (*pratīcī*)—facing the west
+- भद्रा (*bhadrā*)—auspicious
+- योषेव (*yoṣeva*)—like a woman
+- नृन् (*nṛn*)—to all beings
+- अप्पः (*appaḥ*)—form
+- नि रिणीते (*ni riṇīte*)—she provides
+- दाशुषे (*dāśuṣe*)—to the sacrificer who gives oblations
+- वार्याणि (*vāryāṇi*)—the much desired riches
+- व्यूर्ण्वती (*vyūrṇvatī*)—providing
+- युवति (*yuvati*)—the ever young Upastu **NOTE**
+- पुनः (*punaḥ*)—again
+- पूर्वथा (*pūrvathā*)—as before
+- ज्योतिः (*jyotiḥ*)—brilliance
+- आकः (*ākaḥ*)—she produces
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, the daughter of the atmosphere, facing the west, provides form to all beings like an auspicious woman. Providing the much desired riches to the sacrificer who gives oblations, the ever young Upasu again produces brilliance as before.
+
+##### English translation
+Ushas, the daughter of heaven, tending to the west puts forth her beauty like a (well-dressed) woman, bestowing precious treasures upon the offerer of adoration : she ever youthful, brings back the light as (she has done) of old.
+
+## Sūkta 81 (Maṇḍala 5)
+
+**Introduction (Piṭhike)**
+
+**A brief introduction to the deity Savitṛ**
+
+In this sūkta and in the next, the deity Savitṛ is praised. We have spoken briefly about the deity Savitṛ before. Even so, we shall explain here some necessary matters.
+
+### Printed p. 176
+
+Eleven entire sūktas, and parts of some other sūktas besides, praise Savitṛ; his name occurs about 170 times. Of the eleven sūktas, only three are in the first and tenth maṇḍalas, and the rest are in the remaining maṇḍalas. Savitṛ is for the most part a golden deity; those who belong to him and his equipment are all described as golden. His eye is of gold (1-35,8); his hands are of gold (1-35-9 and 10); he has a golden tongue (6-71-3). Such description is the distinction of Savitṛ. His hands are of gold (6-71-1 and 5; 7-45-2), broad (2-38-2), or beautiful (3-33-6). His speech is sweet (6-71-4); his tongue is beautiful (3-54 11). In one place only he is said to have iron jaws (6-71-4). His hair is yellow in colour (1-39-1); the hair of Agni and Indra is also of this colour. His garment is tawny (4-53-2). He has a golden chariot with a golden pole (1-35-2 and 5). This chariot, like himself (5-81-2), has many forms (1-53-3). His chariot has two radiant horses, or else a larger number of dusky horses with white hoofs draw the chariot (1-35-2 and 5; 7-45-1).
+
+Savitṛ's splendour is boundless. His golden lustre is immeasurable; this is rarely granted to other deities (3-38 8; 7-38-1). He spreads or pours out this lustre outwards. By it the atmosphere, heaven and earth, the world, the hollows of the earth and the sky, all become bright (1-35-7 and 8; 4-14-2; 4-53-4; 5-81-2). Raising his strong golden arms, which reach to the horizon, he awakens all beings and blesses them (2-38-2; 4-53-3 and 4; 6-71-1 and 5; 7-45-2). Because other deities are compared to Savitṛ in the raising of the arms, this too may be called a personal quality of his. Agni raises his arms like Savitṛ (1-95-7); as Savitṛ stretches out his arm, Uṣas stretches out the light (7-79-2). In the same way Bṛhaspati is prayed to that the words of praise be uttered aloud (1-190-3). On the path that runs downwards and upwards, Savitṛ goes seated in his golden chariot, looking upon all beings (1-35-2 and 3). Before the time of dawn he sets out the chariot of the Aśvin deities (1-36-10). Following the path of the goddess Uṣas, he too shines (5-81-2). He has measured the regions of the earth; he goes to the three regions of the heavenly world; he goes united with the rays of the sun (5-81-3 and 4). In the Ṛgveda the word "sun-ray" occurs only once. It belongs to Savitṛ. Shining with the rays of the sun, Savitṛ of the yellow hair constantly sheds his lustre in the eastern direction (10-139-1).
+
+### Printed p. 177
+
+He goes around the atmosphere, the three skies and the three shining regions of the upper world, three times (4-53-5). The ancient paths that he follows in the sky are pure and easy to walk upon. Here his worshippers seek him, saying "protect" (1-35-11). They pray to him, "Join the life of the dead to the place where the living are" (10-17,4). It is he who gives immortality to the gods and long life to men (4-54-2). It is he also who bestowed immortality on the Ṛbhus, who came to his house by the power of their works (1-110-2 and 3). As the sun is prayed to, so Savitṛ is prayed to for the removal of bad dreams (5 82-4) and for release from sin (4-54-3). He drives away evil forces and sorcerers (1-35-10; 7-38-7). Like some other deities he too is an Asura (4-53-1). He follows certain fixed laws (4-53-4; 10-34-8; 10-139-3). Waters and winds are subject to his laws (2-38-2). He is the guide of the waters; driven by him, they flow far and wide (3-33-6; compare Nirukta 2.26). Other deities follow his lead (5-81-3). No one can resist his resolve and his independence. Indra, Varuṇa, Mitra, Aśvama **NOTE**, Rudra and others also cannot resist (2-58-7 and 9; 5-83-2). The Vasus, Aditi, Varuṇa, Mitra and Aryaman praise his fame (7-38-3 and 4). Like Pūṣan and Sūrya, Savitṛ is the lord of the moving and the unmoving (4-53-6). All things desired by all are under his control. He alone becomes the giver of good through heaven, earth and sky (1-25-3; 2-38-11). Twice he is called, like Agni, "of the house" (गृह्य (*gṛhya*)), and "belonging to the home" (दमूनः (*damūnaḥ*)) (1-123-3; 6-71-4). Like other deities, he too is the support of the sky (4-53-2; 10-149-4). He is the support of the whole world (4-54-4). He has bound the earth with bonds and set it firm, and has made the sky stand in a void without beams or chariots (10-149-1]. The epithet अपांनपात् (*apāṃnapāt*), "born of the water", which is proper only to Agni, is said of Savitṛ at least once (1-22-6; 10-149-2). It appears that in the same way it is said of Savitṛ in **NOTE**. Yāska (Nirukta 11-32), commenting on the mantra (10-149-2) mentioned above, has said that, since Savitṛ is the cause of rain, he is a deity of the middle region, and since the sun in the sky (Āditya) also has the name Savitṛ, Savitṛ must be a deity of this middle world. Since he is the cause of rain, and since Savitṛ's path lies in the atmosphere, or in the middle world (1-35-11), in the Naighaṇṭuka section the name of this deity stands in the list of the deities of heaven and of the middle world. Once Savitṛ is called Prajāpati also
+
+### Printed p. 178
+
+(4-53-2). In the Śatapatha Brāhmaṇa the view is expressed that Savitṛ and Prajāpati are one and the same deity (Śa. Brā. 12-3-5-1). In the Taittirīya Brāhmaṇa (1-6-4-1) it is said that Prajāpati himself became Savitṛ and created beings. He alone is lord of the power of giving life. By his movements (यामभिः (*yāmabhiḥ*)) he becomes Pūṣan (5-82-5). Pūṣan, possessing the life-giving power, like a nourisher, moves about looking upon all beings (10-139-1). In two mantras (3-62-9 and 10) it is said that Savitṛ and Pūṣan are related. In the first, the favour of Pūṣan, who sees all beings, is asked for. In the second, it is prayed that Savitṛ should so inspire that all the mental activities of those who wish to know his vigour and greatness, and of those who worship him, may be directed towards him. This second is the famous Sāvitrī or Gāyatrī mantra. The custom has arisen of reciting it at the beginning of the study of the Veda. Because Savitṛ is the regulator of ordinances, he is called Mitra (5-81-4). Savitṛ is sometimes called "Bhaga" (5-81-1 and 2; 7-38-1 and 6). Or this too may be an epithet applicable to him. The word "Bhaga" (the deity who gives auspicious fruits to men) is often attached to Savitṛ and used as सविता भगः (*savitā bhagaḥ*). In other places a distinction is made between Savitṛ and Mitra, Pūṣan and Bhaga. In many passages the two words Savitṛ and Sūra are used for one deity. Savitṛ, holding his radiance upward, produces light for the whole world; Sūra, shining abundantly, fills heaven, earth and sky with his rays (4-14-2). In the Ṛks 7-63-1, 2 and 4, the epithet प्रसवितृ (*prasavitṛ*), which belongs to Savitṛ, is used for Sūra. In the third mantra of the same sūkta it appears to be said that Savitṛ himself is Sūra. In some other places also (10-158-1 to 4; 1-35-1 to 11; 1 124-1) it is very hard to separate the two. Savitṛ moves between heaven and earth; he removes disease; he sets the sun in motion (1-35-9); in this sentence the difference between Sūrya and Savitṛ is clearly stated. Savitṛ tells the sun that men are free from sin (1-123-3). He mingles with the rays of the sun (5-81-4), or shines here together with the rays of the sun (1 139-1; compare 10-18-3; 1-157-1; 7-35-8 and 10). At sunrise, Savitṛ, joined with Mitra, Aryaman and Bhaga, is prayed to, so that he may revive the worshipper (7-66-4).
+
+In Yāska's view Savitṛ appears after the darkness has been removed (Ni. 12-12). Sāyaṇa (5-8-4) holds that the sun has the name Savitṛ before sunrise, and the name Sūrya from sunrise to sunset. But since it is said that Savitṛ makes beings go to sleep (4-53-6; 7-45-1), for Savitṛ the evening and
+
 ---
 
-**Progress note:** Done through printed p. 172. Sūkta 79 Ṛk 10; Sūkta 80 intro, Ṛks 1-4 (pp. 167-172)
+**Progress note:** Done through printed p. 178. Uṣas Ṛks 5-6 (Sūkta 80) end; Sūkta 81 introduction on Savitṛ begins
