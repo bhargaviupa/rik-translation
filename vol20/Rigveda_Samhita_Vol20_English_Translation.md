@@ -19702,6 +19702,238 @@ To make known the greatness of this anointing of Bharata, five verses are recite
 हिरण्येन परीवृतान्कृष्णान् शुक्लदतो मृगान् । मष्णारे भरतोददाच्छतं बद्धानि सप्त च ॥ (*hiraṇyena parīvṛtānkṛṣṇān śukladato mṛgān | maṣṇāre bharatodadācchataṃ baddhāni sapta ca ‖*)
 This king named Bharata, at the time of his coronation, in the country called Maṣṇāra, gave as a gift a herd of one hundred and seven elephants, black in colour, with white horns, adorned with golden ornaments.
 
+### Printed p. 569
+
+भरतस्यैष दौष्पंतेरग्निः साचीगुणे चितः । यस्मिन्सहस्रं ब्राह्मणा बद्वशो गा विभेजिरे ॥ (*bharatasyaiṣa dauṣpaṃteragniḥ sācīguṇe citaḥ | yasminsahasraṃ brāhmaṇā badvaśo gā vibhejire ‖*)
+
+When this King Bharata, the son of Duṣyanta, performed the sacrificial rite called Agnicayana in the country named Sācīguṇa, he distributed thousands of cows as gifts among the Brāhmaṇas.
+
+अष्टासप्ततिं भरतो दौष्पंतियार्मुनामनु । गंगायां वृत्रघ्नेऽबध्नात्पंचपंचाशतं हयान् ॥ (*aṣṭāsaptatiṃ bharato dauṣpaṃtiyārmunāmanu | gaṃgāyāṃ vṛtraghne 'badhnātpaṃcapaṃcāśataṃ hayān ‖*)
+
+This King Bharata, the son of Duṣyanta, had made ready seventy-eight excellent horses fit for sacrifice on the bank of the river Yamunā, and fifty-five horses in the country called Vṛtraghna on the bank of the river Gaṅgā, binding them for the Aśvamedha sacrifice to be performed in honour of Indra. (That is, he performed the Aśvamedha sacrifice.)
+
+त्रयस्त्रिंशच्छतं राजाश्वान् बध्वायं मेध्यान् । दौष्पंतिरत्यगाद्राज्ञो मायां मायवत्तरः ॥ (*trayastriṃśacchataṃ rājāśvān badhvāyaṃ medhyān | dauṣpaṃtiratyagādrājño māyāṃ māyavattaraḥ ‖*)
+
+It has been said before that this king, the son of Duṣyanta, had bound and made ready, for the sacrifice, a total of one hundred and thirty-three horses fit for sacrifice on the banks of the Gaṅgā and the Yamunā. After preparing the horses for the sacrifice in this way, this king conquered his enemy kings by various devices and by his strength and power.
+
+महाकर्म भरतस्य न पूर्वे नापरे जनाः । दिवं मर्त्य इव हस्ताभ्यां नोदापुः पंच मानवा इति ॥ (*mahākarma bharatasya na pūrve nāpare janāḥ | divaṃ martya iva hastābhyāṃ nodāpuḥ paṃca mānavā iti ‖*) (Ai. Brā. 39-23)
+
+Such a great deed was not done before by anyone of the race of Bharata, and will not be done hereafter. Just as a man among the five peoples beginning with the Brāhmaṇas cannot touch the world of heaven with his hands, so no one can perform such a profound rite as King Bharata performed. All this is praise of the virtues of Bharata. The examination of the subject concerning this king, as it relates to history, we shall make later.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमि॒मा वार्या॑ पु॒रु दिवो॑दासाय सुन्व॒ते ।  
+> भ॒रद्वा॑जाय दा॒शुषे॑ ॥ ५ ॥
+
+### Printed p. 570
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इमा । वार्या । पुरु । दिवःदासाय । सुन्वते ।  
+> भरत् ऽवाजाय । दाशुषे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमिमा इमानि दृश्यमानानि पुरु पुरूणि बहूनि वार्या वार्याणि
+> वरणीयानि संभजनीयानि धनानि दिवोदासाय सुन्वते । लुप्तोपममेतत् ।
+> यथा सोमाभिषवं कुर्वते दिवोदासाख्याय राज्ञे प्रादास्तथा दाशुषे हवींषि
+> दत्तवते भरद्वाजाय ऋषये देहीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, you, these visible, many, desirable and shareable riches, give to Divodāsa who presses Soma. This is a simile with a word omitted: as, to the king named Divodāsa who performs the pressing of Soma, you gave them, so to Bharadwāja the sage, who has offered oblations, give them as well; the word "give" is what must be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you
+- इमा (*imā*)—those well known
+- पुरु (*puru*)—exceedingly abundant
+- वार्या (*vāryā*)—deserving the regard of all, the riches
+- सुन्वते (*sunvate*)—who presses and offers Soma juice
+- दिवोदासाय (*divodāsāya*)—to Divodāsa (as you have given)
+- दाशुषे (*dāśuṣe*)—who offers oblations
+- भरद्वाजाय (*bharadvājāya*)—to me, Bharadwāja, also (give and favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as you gave to Divodāsa, who pressed and offered Soma juice, these well-known, exceedingly abundant riches deserving the regard of all, so give them also to me, who offer oblations, and favour me.
+
+##### English translation
+As you have conferred these many blessings upon Divodasa when presenting libations, (so now grant them) to the actual offerer, Bharadwaja.
+
+##### विशेषविषयगळु (Special Topics)
+
+Divodāsa: the king named Divodāsa, or Divodāsa Atithigva, was a very famous king in the time of the Vedas. He was the son of one called Vadhryaśva and the father of one called Sudāsa. This Sudāsa was renowned among the kings of the Tṛtsu line in the Bharata people. Therefore Divodāsa also is called Bharata (Ṛ. Saṃ. 6-16-4, 5, 19), and it is said in places such as Ṛ. Saṃ. 7-19-8 that, like Sudāsa, he too was an enemy king, a rival of the Turvaśas and the Yadus. His chief enemy was the Asura or Dāsa called Śambara. This Śambara is described as the chief of the original inhabitants of this country, who lived in the hills and mountains (Ṛ. Saṃ. 1-130-7:
+
+### Printed p. 571
+
+2-12-11; 6-26-5; 7-18-20), and it is described that Divodāsa defeated him many times, in the Ṛks Ṛ. Saṃ. 1-112-14; 1-116-18; 1-119-4; 1-130-7 to 10; 2-19-6; 4-26-3; 4-30-20; 1-102-14; 1-106-18; 1-109-4: 1-130-7 to 10; 2-19-6; 4-26-3; 4-30-20; 6-26-3; 6-26-5; 6-43-1; 6-47-21, 22; 9-61-2. Also in Ṛ. Saṃ. 1-119-4 it is described that when this king Divodāsa undertook to perform a sacrifice, the Aśvin gods, knowing that his sacrifice would be destroyed by the demon named Śambara and that danger would come to him also, killed the Asura Śambara and protected Divodāsa. Because he worshipped Agni especially, Agni is seen to be called by his name in the Ṛk Ṛ. Saṃ. 8-13-2. In the Ṛk Ṛ. Saṃ. 6-61-1 and in some of the Ṛks following it, there is a description of this Divodāsa fighting on the bank of the river Sarasvatī with the Paṇis, the Pārāvatas and the Bṛsayas. In places such as Ṛ. Saṃ. 1-112-13, 14; 1-116-18; 6-16-5; 6-31-4, his name is found recited together with the name of the sage Bharadwāja or of that sage's descendants. In Ṛ. Saṃ. 1-130-10 the plural word दिवोदासेभिः (*divodāsebhiḥ*) is used, indicating the descendants of Divodāsa or his subjects. The name of Divodāsa is not found in the 3rd, 5th, 8th and 10th Maṇḍalas.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं दू॒तो अम॑र्त्य॒ आ व॑हा॒ दैव्यं॒ जनं॑ ।  
+> शृ॒ण्वन्विप्र॑स्य सुष्टु॒तिं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । दूतः । अमत्यर्ः । आ । वह । दैव्यं । जनं ।  
+> शृण्वन् । विप्रस्य । सुस्तुतिं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमर्त्योऽमरणधर्मस्त्वं दूतो भूत्वा दैव्यं देवसंबंधिनं जनमा
+> वह । अस्मद्यज्ञ आनय ! किं कुर्वन् । विप्रस्य मेधाविनो भरद्वाजस्य सुष्टुतिं
+> शोभनां स्तुतिं शृण्वन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: You, Agni, who are immortal, not subject to death, becoming the messenger, bring the divine people, those who belong to the gods, to our sacrifice. Doing what? Hearing the good praise of Bharadwāja, the wise.
+
+### Printed p. 572
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमूर्त्यः (*amūrtyaḥ*)—free from the nature of death
+- त्वं (*tvaṃ*)—you
+- दूतः (*dūtaḥ*)—having become the messenger of the gods
+- विप्रस्य (*viprasya*)—of the wise Bharadwāja
+- सुष्टुतिं (*suṣṭutiṃ*)—the excellent praise
+- शृण्वन् (*śṛṇvan*)—hearing
+- दैव्यं (*daivyaṃ*)—those who belong to the gods
+- जनं (*janaṃ*)—people, that is, the gods
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are free from the nature of death, having become the messenger of the gods, hearing the excellent praise of the wise Bharadwāja, bring the gods who are worthy of the sacrifice.
+
+##### English translation
+Hearing the adoration of the sage, you, who are the immorta messenger, bring hither the celestial people. **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने स्वा॒ध्यो॒३॒॑३ मर्ता॑सो दे॒ववी॑तये ।  
+> य॒ज्ञेषु॑ दे॒वमी॑ळते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । सुआध्यः । मर्तासः । देववीतये ।  
+> यज्ञेषु । देवं । ईळते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवं द्योतमानं त्वां स्वाध्यः शोभनाध्याना मर्तासो मनुष्या
+> देववीतये देवानां तर्पणार्थं यज्ञॆष्ट्वीळते । स्तुवंति याचंते ना ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, to you, the shining god, mortals of good meditation praise and entreat in the sacrifices, for the satisfaction of the gods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवं (*devaṃ*)—who are shining
+- त्वां (*tvāṃ*)—towards you
+- स्वाध्यः (*svādhyaḥ*)—who recite excellent praise
+- मर्तासः (*martāsaḥ*)—mortals
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- देववीतये (*devavītaye*)—to satisfy the gods
+- ईळते (*īḷate*)—praise
+
+### Printed p. 573
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, mortals who praise you, the shining one, with excellent praises, praise you in the sacrifices in order to satisfy the gods.
+
+##### English translation
+Pious mortals invoke you, divine Agni, at sacrificees to convey their (sacrificial) food to the gods.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ प्र य॑क्षि सं॒दृश॑मु॒त क्रतुं॑ सु॒दान॑वः ।  
+> विश्वे॑ जुषंत का॒मिनः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । प्र । यक्षि । संदृशं । उत । क्रतुं । सुदानवः ।  
+> विश्वे । जुषंत । कामिनः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तव संदृशं सम्यग्दर्शनीयं यद्वा सम्यग्धृष्टारं सर्वस्य भासकं
+> तेजः प्र यक्षि । प्रयजे । प्रकर्षण पूजयामि । उतापि च सुदानवः सुदानोः
+> शोभनदानस्य तव क्रतुं कर्म प्रज्ञानं वा पूजयामि। न केवलमहमेव किंत्वन्ये
+> विश्वे सर्वॆऽपि यजमानाः कामिनस्त्वदनुग्रहात्तैस्तैः कामैरुपेताः संतो
+> जुषंत । त्वदीयं संदृशं क्रतुं च सेवंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, your radiance, which is well to be seen or else which is the good beholder, the illuminator of all, I worship with distinction; the sense of the words is "I worship" with eminent worship. Moreover, of you, the good giver, I worship the work, or the wisdom. Not I alone: all the other sacrificers also, being endowed with the several desires through your favour, enjoy your radiance and your work, that is, they resort to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तव (*tava*)—your
+- संदृशं (*saṃdṛśaṃ*)—the attractive, or all-illuminating, radiance
+- प्रयक्षि (*prayakṣi*)—I worship well
+- उत (*uta*)—and
+- सुदानवः (*sudānavaḥ*)—of you, who give excellent wealth and the like
+- क्रतुं (*kratuṃ*)—the work or the wisdom
+- विश्वे (*viśve*)—all sacrificers
+- कामिनः (*kāminaḥ*)—having obtained their desired ends through your favour
+- जुषंत (*juṣaṃta*)—praise
+
+### Printed p. 574
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I worship your attractive radiance that illuminates everything. The sacrificers, who have obtained their desired ends through your favour, praise your excellent works and wisdom, you who give wealth. I also praise that work of yours exceedingly.
+
+##### English translation
+I glorify your splendour, and the acts of you, the liberal giver : all who (through your favour) enjoy their desires, glorify you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं होता॒ मनु॑र्हितो॒ वह्नि॑रा॒सा वि॒दुष्ट॑रः ।  
+> अग्ने॒ यक्षि॑ दि॒वो विशः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । होता । मनुःसहितः । वह्निः । आसा । विदुःतरः ।  
+> अग्ने । यक्षि । दिवः । विशः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं होता होतृत्वेन मनुर्हितो मनुनाहितोऽसि । आसास्येनास्यभूतया ज्वालया वह्निर्हविषां वोढा विदुष्टरोऽतिशयेन विद्वान् । अतः
+> कारणात्त्वं दिवो द्युलोकसंबंधिनीर्विशो दैवीः प्रजा यक्षि । यज ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, you are the Hotā: as Hotā you are established by Manu. With the mouth, that is, with the flame that is your mouth, you are the carrier, the bearer of the oblations, and the most knowing, one who knows to the highest degree. For that reason you worship the Viś, the heavenly people, the divine subjects belonging to the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- होता (*hotā*)—as the accomplisher of the offerings
+- मनुर्हितः (*manurhitaḥ*)—you are established by Manu
+- आसा (*āsā*)—with your mouth in the form of flame
+- वह्निः (*vahniḥ*)—the bearer of the oblation
+- विदुष्टरः (*viduṣṭaraḥ*)—the one who has exceeding knowledge, you
+- दिवः (*divaḥ*)—belonging to the world of heaven
+- विशः (*viśaḥ*)—the subjects in the form of gods
+- यक्षि (*yakṣi*)—worship
+
 ---
 
-**Progress note:** Done through printed p. 568. Sūkta 16 Ṛks 1-4 with intro, pp. 563-568
+**Progress note:** Done through printed p. 574. Ṛk 5-9 of 6.16, Bharata verses, Divodāsa notes
