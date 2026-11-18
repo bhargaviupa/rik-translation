@@ -84,7 +84,7 @@ print(dict(by), dict(ref))
 none = {w: (sg[1]) for st, w, mean, tot, c, sg in rows if st in ('NOT IN LIST', 'Devanagari') and sg[2] == 'none'}
 tot_by = {w: tot for st, w, mean, tot, c, sg in rows}
 places = [r for r in csv.DictReader(open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), encoding='utf8'), delimiter='\t') if r['work'] in none]
-places.sort(key=lambda r: (-tot_by[r['work']], r['work'], int(r['vol']), int(r['page']) if r['page'].isdigit() else -1, int(r['line']) if r['line'].isdigit() else 0))
+places.sort(key=lambda r: (-tot_by[r['work']], r['work'], int(r['vol']), int(re.match(r'\d+', r['page']).group()) if re.match(r'\d+', r['page']) else -1, int(r['line']) if r['line'].isdigit() else 0))
 with open(os.path.join(ROOT, 'REFERENCES_NONE_PLACES.tsv'), 'w', encoding='utf8') as o:
     o.write('form as written\tforms like it (why no suggestion)\ttotal uses\tvol\tprinted page\tline in the English file\tnumber after it\tyour reading (what it is)\ttext around it\n')
     for r in places: o.write('\t'.join([r['work'], none[r['work']], str(tot_by[r['work']]), r['vol'], r['page'], r['line'], r['number'], '', r['text'][:160].replace('\t', ' ')]) + '\n')

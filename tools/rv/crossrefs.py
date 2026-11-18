@@ -23,6 +23,8 @@ NUM = N + r'(?:(?:\s?[-–]\s?|\.(?=' + N + r')|\s(?=' + N + r'{2,}))' + N + r')
 REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
 # the work's name in Indic script right after "(" may lack the dot of its first word ("(पा सू. ७-१-३९)", "(पा- सू. …", "(उ सू. …", "(पं- सू. …"): read as the full name
 REFB = re.compile(r'[(\[]\s?((?:' + DEVW + r'(?:\.\.|[.,-])?\s){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
+SUBPAGE = re.compile(r'\*\(\s*pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?[^)]*\)\*')      # "*(p. 440)*", "*(pp. 439–440)*" inside a section whose heading spans several pages
+RANGE = re.compile(r'^#{2,4} Pages?\s+(\d+)\s*[–-]\s*(\d+)')
 PAGE = re.compile(r'^#{2,4} .*?(?:[Pp]age|[Pp]\.|[Pp]ages|[Pp]p\.)\s*([0-9]+|[ivxlc]+)\b')
 GLOSS = re.compile(r'\*\*GLOSS\*\*|\b[Gg]loss(?:es)?\b[^.]{0,30}:|mine and tentative|\(mine\)|— mine\b')
 STOP = {'p', 'pp', 'no', 'nos', 'vol', 'vols', 'cf', 'c', 'e', 'g', 'i', 'viz', 'pdf', 'fig', 'ca', 'a', 'b', 'd', 'ch', 'st', 'dpi', 'ie', 'eg', 'etc'}
@@ -43,10 +45,14 @@ def run(vols):
     for v in vols:
         p = os.path.join(ROOT, f'vol{v}', f'Rigveda_Samhita_Vol{v}_English_Translation.md')
         if not os.path.exists(p): continue
-        L = open(p, encoding='utf8').read().split('\n'); page = ''; c = collections.Counter()
+        L = open(p, encoding='utf8').read().split('\n'); page = ''; sub = ''; c = collections.Counter()
         for i, l in enumerate(L):
             m = PAGE.match(l)
-            if m: page = m.group(1); continue
+            if m:
+                page = m.group(1); sub = ''; rg = RANGE.match(l)
+                if rg: page = rg.group(1) + '–' + rg.group(2)
+                continue
+            for sm in SUBPAGE.finditer(l): sub = sm.group(1) + ('–' + sm.group(2) if sm.group(2) else '')
             seen = set()
             ms = list(REFB.finditer(l)); starts = {m.start(2) for m in ms}
             ms += [m for m in REF.finditer(l) if m.start(2) not in starts]; ms.sort(key=lambda m: m.start(2))
@@ -59,7 +65,7 @@ def run(vols):
                 seen.add((kd, num))
                 g = 'gloss' if any(GLOSS.search(x) for x in L[i:i + 3]) else ''
                 a = max(0, m.start() - 70); txt = re.sub(r'\s+', ' ', l[a:m.end() + 70]).replace('\t', ' ')
-                rows.append((v, page, i + 1, kd, lab, num, g, txt)); c[kd] += 1; c['gloss'] += bool(g)
+                rows.append((v, sub or page, i + 1, kd, lab, num, g, txt)); c[kd] += 1; c['gloss'] += bool(g)
         summ[v] = c
     with open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), 'w', encoding='utf8') as f:
         f.write('vol\tpage\tline\tkind\twork\tnumber\tgloss\ttext\n')
