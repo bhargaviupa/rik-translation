@@ -11313,6 +11313,206 @@ O Lakṣmī who have great wealth, you are the giver to devotees of horses, cows
 
 पुत्रपौत्रधनं धान्यं हस्यश्वादिगवे रथं । प्रजानां भवसि माता आयुष्मंतं करोतु मां ॥ (*putrapautradhanaṃ dhānyaṃ hasyaśvādigave rathaṃ | prajānāṃ bhavasi mātā āyuṣmaṃtaṃ karotu māṃ ‖*)
 
+### Printed p. 334
+
+O goddess, mother of all creatures, give me children, grandchildren, wealth, grain, elephants, horses, cows and chariots, all of these, and favour me by making me long-lived.
+
+चंद्राभां लक्ष्मीमीशानां सूर्यभां श्रियमीश्वरीं । चंद्रसूर्याग्नि संकाशां श्रीमहालक्ष्मीमुपास्महे ॥ (*caṃdrābhāṃ lakṣmīmīśānāṃ sūryabhāṃ śriyamīśvarīṃ | caṃdrasūryāgni saṃkāśāṃ śrīmahālakṣmīmupāsmahe ‖*)
+
+We worship the deity called Śrī Mahālakṣmī, who shines with a cool and charming radiance like the moon; who is the mistress of the whole world; who blazes with exceeding splendour like the sun; who is the mistress of prosperity; and who shines with the surpassing splendour that would arise if the splendours of the moon, the sun and fire were all added together.
+
+धनमग्नि र्धनं वायुर्धनं सूर्यो धनं वसुः । धनमिंद्रो बृहस्पतिर्वरुणं धनमश्नुते ॥ (*dhanamagni rdhanaṃ vāyurdhanaṃ sūryo dhanaṃ vasuḥ | dhanamiṃdro bṛhaspatirvaruṇaṃ dhanamaśnute ‖*)
+
+O goddess, the deities Agni, Vāyu, Sūrya, the eight Vasus, Indra, Bṛhaspati, Varuṇa and the rest enjoy the wealth and prosperity that they desire only through your favour.
+
+वैनतेय सोमं पिब सोमं पिबतु वृत्रहा । सोमं धनस्य सोमिनो मह्यं ददातु सोमिनः ॥ (*vainateya somaṃ piba somaṃ pibatu vṛtrahā | somaṃ dhanasya somino mahyaṃ dadātu sominaḥ ‖*)
+
+O Garuḍa, son of Vinatā, drink the soma juice (or the nectar). O Indra, slayer of the demon Vṛtra, you too drink soma. O all you gods who are worthy to drink soma, all of you drink the soma that comes from wealth. And grant wealth and the rest to me also, who drink soma.
+
+न क्रोधो न च मात्सर्यो न लोभो नाशुभा मतिः । भवंतु कृतपुण्यानां भक्तानां श्रीसूक्तं जपेत्सदा ॥ (*na krodho na ca mātsaryo na lobho nāśubhā matiḥ | bhavaṃtu kṛtapuṇyānāṃ bhaktānāṃ śrīsūktaṃ japetsadā ‖*)
+
+For the virtuous people who are devotees of the goddess Śrī and who at all times repeat the Śrīsūkta, there are no such faults as anger, envy (jealousy), greed (miserliness), and a mind set on evil deeds.
+
+वर्षंतु ते विभावरि दिवो अभ्रस्य विद्युतः । रोहंतु सर्वबीजान्यव ब्रह्मद्विषो जहि ॥ (*varṣaṃtu te vibhāvari divo abhrasya vidyutaḥ | rohaṃtu sarvabījānyava brahmadviṣo jahi ‖*)
+
+O radiant goddess Śrī, by your favour may the clouds that stand in the sky, accompanied by thunder and lightning, pour down rain. Refreshed by that rain, may all the seeds and the like in the earth sprout and grow into seedlings. O goddess, destroy the haters of Brahman.
+
+### Printed p. 335
+
+पद्मप्रिये पद्मिनि पद्महस्ते पद्मालये पद्मदळायताक्षि । विश्वप्रिये विष्णुमनोनुकूले त्वत्पादपद्मं मयि संनिधत्स्व ॥ (*padmapriye padmini padmahaste padmālaye padmadaḷāyatākṣi | viśvapriye viṣṇumanonukūle tvatpādapadmaṃ mayi saṃnidhatsva ‖*)
+
+O Mahālakṣmī, the padma, or lotus, is dear to you. You came into being from the lotus itself. In both your hands you hold lotuses. The lotus is your dwelling-place. Your eyes are wide and charming like the petals of the lotus flower. You are dear to the whole world, that is, to all people. You act in accordance with the mind of your husband Viṣṇu. Being endowed with such qualities, set your feet, tender like the lotus, upon me, your devotee, and show favour.
+
+या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी गंभीरावर्तनाभिस्तनभरनमिता शुभ्रवस्त्रोत्तरीया । लक्ष्मीर्दिव्यैर्गजेंद्रॆर्मणिगणखचितैः स्नापिता हेमकुंभैर्नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमांगल्ययुक्ता ॥ (*yā sā padmāsanasthā vipulakaṭitaṭī padmapatrāyatākṣī gaṃbhīrāvartanābhistanabharanamitā śubhravastrottarīyā | lakṣmīrdivyairgajeṃdrèrmaṇigaṇakhacitaiḥ snāpitā hemakuṃbhairnityaṃ sā padmahastā mama vasatu gṛhe sarvamāṃgalyayuktā ‖*)
+
+The goddess Śrī, who bears the name Śrī Mahālakṣmī, is seated on a lotus seat. She shines with broad hips, with eyes wide like lotus petals, and with a deep navel. Her body is bent as if by the weight of her breasts, and she wears a spotless garment. Anointed by the trunks of the best of elephants with pure water from golden pots studded with many jewels, holding a lotus flower in her hands, and resplendent with all auspicious ornaments, may this Mahālakṣmī, endowed with all good fortune and bestowing auspiciousness, dwell always in my house.
+
+लक्ष्मीं क्षीरसमुद्रराजतनयां श्रीरंगधामेश्वरीं दासीभूतसमस्तदेववनितां लोकैकदीपांकुरां । श्रीमन्मंदकटाक्षलब्धविभवद्ब्रह्मेंद्रगंगाधरां त्वां त्रैलोक्यकुटुंबिनीं सरसिजां वंदे मुकुंदप्रियां ॥ (*lakṣmīṃ kṣīrasamudrarājatanayāṃ śrīraṃgadhāmeśvarīṃ dāsībhūtasamastadevavanitāṃ lokaikadīpāṃkurāṃ | śrīmanmaṃdakaṭākṣalabdhavibhavadbrahmeṃdragaṃgādharāṃ tvāṃ trailokyakuṭuṃbinīṃ sarasijāṃ vaṃde mukuṃdapriyāṃ ‖*)
+
+Since Śrī Mahālakṣmī arose at the time of the churning of the ocean, she is renowned as the daughter of the ocean of milk, the best of oceans. She is the wife of Śrī Viṣṇu, who dwells in the holy place Śrīraṅga under the name Śrīraṅga. All the wives of the gods serve this Lakṣmī in the manner of maidservants, to win the goddess's favour. She shines with a radiance equal to that of the sun, who makes all the worlds grow. The gods, Brahmā, Indra, Īśvara and the rest, long for the favour to be obtained from this goddess's gentle smile. She nourishes the three worlds like a mother. With devotion I bow to this goddess called Mahālakṣmī, who arose in a lotus flower and is dear to Śrī Viṣṇu.
+
+### Printed p. 336
+
+सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीः सरस्वती । श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना भव सर्वदा ॥ (*siddhalakṣmīrmokṣalakṣmīrjayalakṣmīḥ sarasvatī | śrīlakṣmīrvaralakṣmīśca prasannā bhava sarvadā ‖*)
+
+O Mahālakṣmī, since all aims are accomplished for those who worship you, you have the name Siddhalakṣmī; since you grant liberation, you are praised as Mokṣalakṣmī; since you give victory in battles and in all undertakings, as Jayalakṣmī; since you preside over the Veda, as Sarasvatī; since you are the mistress of wealth, as the goddess Śrī; and since you give devotees the boons each desires, as Varalakṣmī; thus you are praised by many kinds of excellent names. Being such, be ever gracious of mind towards me.
+
+वरांकुशौ पाशमभीतिमुद्रां करैर्वहंतीं कमलासनस्थां । बालार्ककोटिप्रतिभां त्रिणेत्रां भजेऽहमाद्यां जगदीश्वरीं तां ॥ (*varāṃkuśau pāśamabhītimudrāṃ karairvahaṃtīṃ kamalāsanasthāṃ | bālārkakoṭipratibhāṃ triṇetrāṃ bhaje 'hamādyāṃ jagadīśvarīṃ tāṃ ‖*)
+
+This Mahālakṣmī, seated on a lotus or on a lotus seat, holds in her four hands the boon-giving hand, the goad, the noose and the gesture of fearlessness, and shines with three eyes and with the radiance of ten million suns rising at one time. With devotion I worship this goddess, the mistress of the whole world.
+
+सर्वमंगळमांगल्ये शिवे सर्वार्थसाधके । शरण्ये त्र्यंबके देवि नारायणि नमोऽस्तु ते ॥ (*sarvamaṃgaḷamāṃgalye śive sarvārthasādhake | śaraṇye tryaṃbake devi nārāyaṇi namo 'stu te ‖*)
+
+O goddess, you are the embodiment of auspiciousness for all auspicious things, that is, you are the foremost; or you are she who brings auspiciousness to all, who accomplishes all the desired aims of devotees, and who is worthy to be a refuge. You are praised by various names, as the wife of Maheśvara and as the wife of Nārāyaṇa. To you, such as you are, here is my salutation.
+
+विष्णुपत्नीं क्षमां देवीं माधवीं माधवप्रियां । विष्णोः प्रियसखीं देवीं नमाम्यच्युतवल्लभां ॥ (*viṣṇupatnīṃ kṣamāṃ devīṃ mādhavīṃ mādhavapriyāṃ | viṣṇoḥ priyasakhīṃ devīṃ namāmyacyutavallabhāṃ ‖*)
+
+I bow to Śrī Mahālakṣmī, the wife of Viṣṇu, who has the nature of forbearance, who is exceedingly dear to Mādhava, the lord of Lakṣmī, and who is like a dear friend to Viṣṇu, the wife of Śrī Mahāviṣṇu.
+
+महालक्ष्मी च विद्महे विष्णुपत्नै च धीमहि । तन्नो लक्ष्मीः प्रचोदयात् ॥ (*mahālakṣmī ca vidmahe viṣṇupatnai ca dhīmahi | tanno lakṣmīḥ pracodayāt ‖*)
+
+Let us meditate on that Śrī Lakṣmī, whose divine power, belonging to Śrī Mahālakṣmī who bears the name of Viṣṇu's wife, impels us in all undertakings.
+
+### Printed p. 337
+
+श्रीर्वर्चस्य वायुष्यमारोग्यमाविधात्पवमानं महीयते । धनं धान्यं पशुं बहुपुत्रलाभं शतसंवत्सरं दीर्घमायुः ॥ (*śrīrvarcasya vāyuṣyamārogyamāvidhātpavamānaṃ mahīyate | dhanaṃ dhānyaṃ paśuṃ bahuputralābhaṃ śatasaṃvatsaraṃ dīrghamāyuḥ ‖*)
+
+To those who repeat the Śrīsūkta, Śrī Mahālakṣmī grants radiance (lustre and brightness of the face), long life, health, excellence, wealth, grain, wealth of cattle, a numerous progeny of sons, and a full span of a hundred years. That man is honoured and respected by all.
+
+श्रीसूक्तं समाप्तं (*śrīsūktaṃ samāptaṃ*)
+
+Here ends the explanation of the meaning of the Śrīsūkta.
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+Some verses recited at the end of a maṇḍala.
+
+विश्वेश्वर विरूपाक्ष विश्वरूप सदाशिव । शरणं भव भूतेश करुणाकर शंकर ॥ (*viśveśvara virūpākṣa viśvarūpa sadāśiva | śaraṇaṃ bhava bhūteśa karuṇākara śaṃkara ‖*) **GLOSS**
+
+हर शंभो महादेव विश्वेशामरवल्लभ । शिव शंकर सर्वात्मन् नीलकंठ नमोऽस्तु ते ॥ (*hara śaṃbho mahādeva viśveśāmaravallabha | śiva śaṃkara sarvātman nīlakaṃṭha namo 'stu te ‖*) **GLOSS**
+
+मृत्युंजयाय रुद्राय नीलकंठाय शंभवे । अमृतेशाय सर्वाय महादेवाय ते नमः ॥ (*mṛtyuṃjayāya rudrāya nīlakaṃṭhāya śaṃbhave | amṛteśāya sarvāya mahādevāya te namaḥ ‖*) **GLOSS**
+
+एतानि शिवनामानि यः पठेन्नियतः सकृत् । नास्ति मृत्युभयं तस्य पापरोगादि किंचन ॥ (*etāni śivanāmāni yaḥ paṭhenniyataḥ sakṛt | nāsti mṛtyubhayaṃ tasya pāparogādi kiṃcana ‖*) **GLOSS**
+
+यज्ञेशाच्युत गोविंद माधवानंत केशव । कृष्ण विष्णो हृषिकेश वासुदेव नमोऽस्तु ते ॥ (*yajñeśācyuta goviṃda mādhavānaṃta keśava | kṛṣṇa viṣṇo hṛṣikeśa vāsudeva namo 'stu te ‖*) **GLOSS**
+
+कृष्णाय गोपिनाथाय चक्रिणे मुरवैरिणे । अमृतेशाय गोपाय गोविंदाय नमो नमः ॥ (*kṛṣṇāya gopināthāya cakriṇe muravairiṇe | amṛteśāya gopāya goviṃdāya namo namaḥ ‖*) **GLOSS**
+
+वासनाद्दासुदेवोऽसि वासितं ते जगत्रयं । सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥ (*vāsanāddāsudevo 'si vāsitaṃ te jagatrayaṃ | sarvabhūtanivāso 'si vāsudeva namo 'stu te ‖*) **GLOSS**
+
+दश सप्त च नामानि मंडलांतेषु यः पठेत् । स शिवस्य पदं गत्वा शिवलोके महीयते ॥ (*daśa sapta ca nāmāni maṃḍalāṃteṣu yaḥ paṭhet | sa śivasya padaṃ gatvā śivaloke mahīyate ‖*) **GLOSS**
+
+एतानि शिवनामानि मंडलांते सकृत्पठेश् ॥ (*etāni śivanāmāni maṃḍalāṃte sakṛtpaṭheś ‖*) **GLOSS**
+
+### Printed p. 338
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्क भूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे यक्संहिताभाष्ये पंचमं मंडलं समाप्तं ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukka bhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe yaksaṃhitābhāṣye paṃcamaṃ maṃḍalaṃ samāptaṃ ‖*) **GLOSS**
+
+ओं तत्सत् (*oṃ tatsat*)
+
+Here ends the fifth Maṇḍala in the Ṛgveda-saṃhitā, together with the Bhāṣya of Śrī Sāyaṇa and with the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वक्षं क्षम्यतां देव वागीश्वरनमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvakṣaṃ kṣamyatāṃ deva vāgīśvaranamo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
+ओं (*oṃ*)
+
+श्रीः (*śrīḥ*)
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्चसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niścasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+Ṛgveda-saṃhitā, with the Bhāṣya of Sāyaṇa
+
+अथ षष्ठं मंडलं (*atha ṣaṣṭhaṃ maṃḍalaṃ*)
+
+The Sixth Maṇḍala.
+
+**Introduction**
+
+**The seers who saw the sūktas of the sixth maṇḍala**
+
+In the Ṛk-saṃhitā the sixth maṇḍala is renowned as the Bhāradvāja maṇḍala. Although other seers of the line of Bharadvāja are also the seers of some sūktas of this maṇḍala, the sūktas seen by Bharadvāja are by far the most numerous, and therefore this maṇḍala is renowned by this name.
+
+सपुत्रस्य तु तस्यैतन्मंडलं षष्ठमुच्यते (*saputrasya tu tasyaitanmaṃḍalaṃ ṣaṣṭhamucyate*)
+
+(Bṛ. Ve. 5-13) **NOTE**
+
+Śaunaka and others have stated clearly that this maṇḍala, seen by Bharadvāja together with his son, is renowned by the name Bhāradvāja maṇḍala. The seers Suhotra, Śunahotra, Nara, Śaṃyu, Garga, Ṛjiśvan and Pāyu, so many of them, belonging to the line of Bharadvāja, are praised as seers of the sūktas of the sixth maṇḍala. The line of Bharadvāja is exceedingly ancient. The name Bharadvāja too is exceedingly renowned throughout the Veda, the Purāṇas and the Itihāsas. But in all these places the one who is praised
+
+### Printed p. 340
+
+is not to be understood as a single seer. Three or four seers bearing the name Bharadvāja are famed in the Purāṇas, Itihāsas and the like. Although in the present context the introduction of the Bharadvāja seers specified in Vedic literature is the main concern, it is necessary also to know the individual nature of the other Bharadvājas; so we may first examine the greatness of the seers specified in Vedic sentences, and afterwards see in how many places, and in what contexts, this name is renowned in the Purāṇas, Itihāsas and the like.
+
+**Introduction of the seer Bharadvāja**
+
+**The seer of the sūktas of the sixth maṇḍala of the Ṛk-saṃhitā.**
+
+The Bharadvāja who saw the sūktas of the Ṛk-saṃhitā belongs to the line of Aṅgiras. He is the son of Bṛhaspati. The greatness of his line and the manner of his origin are told in the Brahma-deity text in this way.
+
+त्रिसांवत्सरिकं सत्त्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वेदेवैः सहेति च ॥ (*trisāṃvatsarikaṃ sattraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvedevaiḥ saheti ca ‖*)
+
+(Bṛ. De. 5-97)
+
+Prajāpati, desiring offspring, performed a sattra of three years. At that time the Sādhyas and the Viśvedevas became his helpers.
+
+तत्र वाग्दीक्षणीयायामाजगाम शरीरिणी । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥ (*tatra vāgdīkṣaṇīyāyāmājagāma śarīriṇī | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖*)
+
+(Bṛ. De. 5-98) **NOTE**
+
+At the time of this rite the goddess of speech came to that place in bodily form. At that time Prajāpati and Varuṇa together saw her. Seeing her form, beautiful and exceedingly attractive, both of them alike, together, felt a disturbance of mind.
+
+शुक्रं चस्कंद तद्वायुरग्नौ प्रास्यद्यदृच्छया । ततोऽर्चिभ्यो भृगुर्जज्ञे अंगारेष्वंगिरा ऋषिः ॥ ( (*śukraṃ caskaṃda tadvāyuragnau prāsyadyadṛcchayā | tato 'rcibhyo bhṛgurjajñe aṃgāreṣvaṃgirā ṛṣiḥ ‖ (*)
+
+(Bṛ. De. 5-99)
+
+Then at once both of them had an emission of semen. Then Vāyu, as he pleased, offered it into the fire. Then from the flames of that fire Bhṛgu arose, and from the embers the seer Aṅgiras.
+
+योऽंगिरेभ्य यषिर्जज्ञे तस्य पुत्रो बृहस्पतिः । बृहस्पतेर्भरद्वाजो विदथीति य उच्यते ॥ (*yo 'ṃgirebhya yaṣirjajñe tasya putro bṛhaspatiḥ | bṛhaspaterbharadvājo vidathīti ya ucyate ‖*)
+
+(Bṛ. De. 5-12) **NOTE**
+
+### Printed p. 341
+
+Bṛhaspati was born from the seer Aṅgiras, who arose from the embers. The son of Bṛhaspati is Bharadvāja. He has also another name, Vidathi.
+
+मरुत्स्वासीद्गुरुर्यश्च स एवांगिरसो नपात् । नपुत्रस्य तु तस्यैतत् मंडलं षष्ठमुच्यते ॥ (*marutsvāsīdgururyaśca sa evāṃgiraso napāt | naputrasya tu tasyaitat maṃḍalaṃ ṣaṣṭhamucyate ‖*)
+
+(Bṛ. De. 5-103)
+
+This same Bhāradvāja, who has the other name Vidathi, is the grandson of Aṅgiras. It is a matter well known, in some places in the Śrutis also, that the sūktas of the sixth maṇḍala of the Ṛk-saṃhitā were composed by this Bhāradvāja and by his sons, grandsons and others. This is the description of the lineage of the seer Bharadvāja.
+
+This Bhāradvāja was the house-priest of one named Abhyāvartin; and it is known from the sentences of the Ṛk-saṃhitā that he was honoured by him in many ways and helped him in many ways. The same matter is told in the Bṛhaddevatā in this way.
+
+अभ्यावर्ती जायमानः प्रस्तोकश्चैव सांज्ञयः । आजग्मतुर्भरदाजं जितौ वारशिख्ययुधि ॥ (*abhyāvartī jāyamānaḥ prastokaścaiva sāṃjñayaḥ | ājagmaturbharadājaṃ jitau vāraśikhyayudhi ‖*)
+
+(Bṛ. De. 5-124)
+
+Abhyāvartin Jāyamāna, who had been defeated by the group called the Vāraśikhas, and Prastoka, the son of Sṛñjaya, came to Bharadvāja and sought his help.
+
+अभिगम्योचतुस्तौ तं प्रसाद्याख्याय नामनी । युधि वारशिखैर्ब्रह्मन्नावां निद्दि विनिर्जितौ ॥ (*abhigamyocatustau taṃ prasādyākhyāya nāmanī | yudhi vāraśikhairbrahmannāvāṃ niddi vinirjitau ‖*)
+
+(Bṛ. De. 5-125)
+
+Then Abhyāvartin Jāyamāna and Prastoka, son of Sṛñjaya, came to Bharadvāja, offered him worship and the like according to rule, greeted him pronouncing their own names, and spoke thus: "O teacher, knower of Brahman, know that we have been conquered by the Vāraśikhas." They told him fully of their defeat and of the enemies who had caused it. Then:
+
+भवत्पुरोहितावानां क्षत्रबंधूञ्च येवहि । क्षत्रं तदपि विज्ञेयं ब्रह्म यत्पाति शाश्वतं ॥ (*bhavatpurohitāvānāṃ kṣatrabaṃdhūñca yevahi | kṣatraṃ tadapi vijñeyaṃ brahma yatpāti śāśvataṃ ‖*)
+
+(Bṛ. De. 5-126)
+
+"O great seer, you are the family priest of all of us. With your help we shall be able to conquer all the Kṣatrabandhus. The power that can protect and honour the power of Brahman, that alone is the true
+
 ---
 
-**Progress note:** Done through printed p. 333. Śrīsūkta Ṛk 15, phalastuti Ṛk 16, closing stotra verses, pp. 328-333
+**Progress note:** Done through printed p. 341. end of Śrīsūkta (Ṛk 15-16 verses), end of Maṇḍala 5, start of Maṇḍala 6: seers and Bharadvāja lineage, pp. 334-341
