@@ -1,21 +1,20 @@
 status	form as written	meaning / form to use	suggested form	basis	confidence	approved	total	vol1	vol2	vol3	vol4	vol5	vol6	vol7	vol8	vol9	vol10	vol11	vol12	vol14	vol15	vol16	vol17	vol18
-NOT IN LIST	Ā.		Ā.	the form of the list	high	yes	657	3	6	36	18	14	33	112	6		1	40	25	24	45	64	127	103
+NOT IN LIST	Ā.		Ā.	the form of the list	high	yes	656	3	6	36	18	14	33	112	6		1	40	25	23	45	64	127	103
 NOT IN LIST	u.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		236		85	46	40	18	10	5	14	7	1			1	1	8		
 NOT IN LIST	U.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		114	2	4	31	20		15	18	15			1	6			1	1	
 NOT IN LIST	Ā. Sū.		Ā. Sū.	the form of the list	high	yes	45		1									4					28	12
 NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	yes	44		5	5	8	7	5	3	4	6	1							
-NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	11		2	4		3			1	1								
+NOT IN LIST	Saṃ.			no list form close to it	none		14		1				1				1	1	2	1	2	2	2	1
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
 NOT IN LIST	anu.			no list form close to it	none		10	1	2	2			1	1	1		2							
+NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
 NOT IN LIST	dhā.			no list form close to it	none		8	6				2												
 NOT IN LIST	āśva.			no list form close to it	none		8	1				4				3								
 NOT IN LIST	Ṛ. Sa.		Ṛ. Saṃ.	known spelling of Ṛ. Saṃ. (capitals/dots differ)	high		8		2		4											2		
 NOT IN LIST	Āś. Gṛ.			no list form close to it	none		8		1	1	4	1		1										
 NOT IN LIST	Āś. Gṛ. Sū.			no list form close to it	none		8					8												
-NOT IN LIST	Brā.			no list form close to it	none		7					1						1	1		3		1	
 NOT IN LIST	Trai. Saṃ.			no list form close to it	none		7											1	5	1				
 NOT IN LIST	Atha. Ve.			no list form close to it	none		7																	7
 NOT IN LIST	Āśv. Sū.			no list form close to it	none		6		5								1							
@@ -24,6 +23,7 @@ NOT IN LIST	VII.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11"
 NOT IN LIST	T. S.			no list form close to it	none		5	1	4															
 NOT IN LIST	śata. brā.		Śa. Brā.	known spelling of Śa. Brā. (capitals/dots differ)	high		5		3		1	1												
 NOT IN LIST	Ṛ. Sū.			no list form close to it	none		5			1	1		1									1		1
+NOT IN LIST	Brā.			no list form close to it	none		5					1						1	1		1		1	
 NOT IN LIST	IV.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2	1		2				
 NOT IN LIST	X.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2			3				
 NOT IN LIST	Pā. sū. vā.			no list form close to it	none		4		4															
@@ -209,7 +209,6 @@ NOT IN LIST	U. Sā.			no list form close to it	none		1												1
 NOT IN LIST	Kara.			no list form close to it	none		1												1					
 NOT IN LIST	Pi.			no list form close to it	none		1												1					
 NOT IN LIST	anastha. Ṛ. Saṃ.			no list form close to it	none		1												1					
-NOT IN LIST	Sve. U.			no list form close to it	none		1												1					
 NOT IN LIST	Ā. Sā. Bhā.			no list form close to it	none		1												1					
 NOT IN LIST	Kena.			no list form close to it	none		1												1					
 NOT IN LIST	U. Śaṃ. Dhā.			no list form close to it	none		1												1					
@@ -306,22 +305,22 @@ NOT IN LIST	Kā. Brā.			no list form close to it	none		1																	1
 NOT IN LIST	Ja. Je.			no list form close to it	none		1																	1
 NOT IN LIST	nmoving.			no list form close to it	none		1																	1
 NOT IN LIST	Ma. Sa.			no list form close to it	none		1																	1
-mistake	Pā.	→ Pā. Sū.					7593		1395	204	1063	894	188	573	255	1634	1133	3	1	4	3	242	1	
+mistake	Pā.	→ Pā. Sū.					7580		1394	203	1063	893	188	573	255	1627	1130	3	1	4	3	242	1	
 mistake	Pā. sū.	→ Pā. Sū.					2069		1248	627		194												
 mistake	pā.	→ Pā. Sū.					1208	2	514	247	206	65	41	23	56	26	11		3	3	3	8		
-mistake	Uṇ.	→ U. Sū.					576		136	20	72	116	47	14	35	22	74					40		
+mistake	Uṇ.	→ U. Sū.					575		136	20	72	116	47	14	35	21	74					40		
 mistake	ṛ. saṃ.	→ Ṛ. Saṃ.					510	13	159	4	85					240	6							3
 mistake	ni.	→ Ni.					259	2	39	15	31	31	9	2	16	54	47		2	2	5	2		2
 mistake	ā.	→ Ā.					190		37	26	29	28	11		8	6	13		11	7	7	6		1
 mistake	Av.	→ Ath. Saṃ.					190					190												
 mistake	Āś.	→ Ā. Sū.					182		3	31	25	1	9	66	12	15	11		2	4	3			
 mistake	Ṛk. Saṃ.	→ Ṛ. Saṃ.					170						163	7										
-mistake	Uṇ. sū.	→ U. Sū.					156		84	12		40				20								
+mistake	Uṇ. sū.	→ U. Sū.					155		84	12		40				19								
 mistake	Śat. Brā.	→ Śa. Brā.					136		2		2	100	2						11	3	16			
 mistake	Āśv.	→ Ā. Sū.					132		14	36	7	42	14	10	3	4					1	1		
 mistake	Nir.	→ Ni.					126		1			33	5							23	15	49		
+mistake	Ma. Saṃ.	→ Ṛ. Saṃ.					79													45	7	25	2	
 mistake	Ṛ.	→ Ṛ. Saṃ.					72	4	5	1		2			12	15	10	19	2		1			1
-mistake	Ma. Saṃ.	→ Ṛ. Saṃ.					66													41		23	2	
 mistake	tai. saṃ.	→ Tai. Saṃ.					61	3	10	4	6	6	14	1	1	5	5		1		3	2		
 mistake	Ṛ. saṃ.	→ Ṛ. Saṃ.					58		54	4														
 mistake	Niru.	→ Ni.					54			4	7	42	1											
@@ -334,15 +333,15 @@ mistake	Bhā. U.	→ Chā. U.					34											4	16	1		1	12
 mistake	Ṛgve.	→ Ṛ. Saṃ.					30			5		1	2									1	13	8
 mistake	ṛ.	→ Ṛ. Saṃ.					29	2							7	6	14							
 mistake	Ṛg. Saṃ.	→ Ṛ. Saṃ.					28		5		21		1								1			
+mistake	Si.	→ Ni.					26													8	5	13		
 mistake	Ai. Br.	→ Ai. Brā.					25			10						6	9							
 mistake	tai. brā.	→ Tai. Brā.					24	3	3	2		5	4		3		3			1				
 mistake	Ṛg.	→ Ṛ. Saṃ.					24		3	1	6	3											7	4
+mistake	Pu. Saṃ.	→ Ṛ. Saṃ.					24													7	1	16		
 mistake	Ma.	→ M.					23			4		8	9			1					1			
 mistake	Kṛ. Saṃ.	→ Tai. Saṃ.					22											7	4		2	2	5	2
-mistake	Pu. Saṃ.	→ Ṛ. Saṃ.					22													6		16		
 mistake	ma.	→ M.					21		7	4	1	4	3		2									
 mistake	Ait. Brā.	→ Ai. Brā.					19					19												
-mistake	Si.	→ Ni.					17													4		13		
 mistake	Ā. Gṛ.	→ Ā. Gṛ. Sū.					15			1				1				2			2	1	2	6
 mistake	Atha. Saṃ.	→ Ath. Saṃ.					15																10	5
 mistake	Pā. Ma.	→ M.					14		3	4	1	3	2									1		
@@ -351,6 +350,7 @@ mistake	ai. ā.	→ Ai. Ā.					12	1	7		1						2			1
 mistake	phi.	→ Phi.					11		4	4		1	1			1								
 mistake	pā. sū.	→ Pā. Sū.					10		6		2			2										
 mistake	jai. sū.	→ Jai. Sū.					8	8																
+mistake	Mi. Saṃ.	→ Ṛ. Saṃ.					8													2	2	4		
 mistake	Vā.	→ Pā. Sū.					7			3		1				1				1		1		
 mistake	I. Ā.	→ Ai. Ā.					7											1					6	
 mistake	Phi. sū.	→ Phi. Sū.					6		6															
@@ -362,7 +362,6 @@ mistake	Ṛ. Ve.	→ Ṛ. Saṃ.					6					1	4										1
 mistake	Śai. Brā.	→ Tai. Brā.					6											1	1	2			2	
 mistake	Kaṭha.	→ Ka. U.					6											3	3					
 mistake	Trai. U.	→ Tai. U.					6												3				3	
-mistake	Mi. Saṃ.	→ Ṛ. Saṃ.					6													2		4		
 mistake	I. Brā.	→ Ai. Brā.					6															3	2	1
 mistake	ā. gṛ.	→ Ā. Gṛ. Sū.					5		1	1	2					1								
 mistake	Tai. Br.	→ Tai. Brā.					5			2							2				1			
@@ -375,15 +374,14 @@ mistake	Pū. Mī.	→ Jai. Sū.					4	4
 mistake	śa. brā.	→ Śa. Brā.					4		1							2	1							
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
 mistake	Kṛ. U.	→ Tai. U.					4												1				3	
+mistake	Mu. Saṃ.	→ Ṛ. Saṃ.					4													1	1		2	
 mistake	Jai. Nyā.	→ Jai. Nyā. Vi.					3	3																
 mistake	tai. ā.	→ Tai. Ā.					3					2				1								
 mistake	manu.	→ Ma. Smṛ.					3					1			1	1								
 mistake	Ait. Br.	→ Ai. Brā.					3					2					1							
 mistake	vā. saṃ.	→ Vā. Saṃ.					3									3								
 mistake	Ait. Ār.	→ Ai. Ā.					3										3							
-mistake	Kaṭha. U.	→ Ka. U.					3												3					
 mistake	Chā.	→ Chā. U.					3												2				1	
-mistake	Mu. Saṃ.	→ Ṛ. Saṃ.					3														1		2	
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
 mistake	pū. mī.	→ Jai. Sū.					2	2																
 mistake	Ath.	→ Ath. Saṃ.					2				1		1											
@@ -393,7 +391,9 @@ mistake	ath.	→ Ath. Saṃ.					2						2
 mistake	Ya. Saṃ.	→ Ya Saṃ.					2											1			1			
 mistake	bṛ. u.	→ Bṛ. U.					2												2					
 mistake	Praśna. U.	→ Pra. U.					2												1				1	
+mistake	Kaṭha. U.	→ Ka. U.					2												2					
 mistake	Kṛ. Ā.	→ Tai. Ā.					2												1				1	
+mistake	Pā. Rū.	→ Pā. Sū.					2															2		
 mistake	Manu.	→ Ma. Smṛ.					2																2	
 mistake	I. U.	→ Ai. U.					2																2	
 mistake	āśv.	→ Ā. Sū.					1		1															
@@ -418,7 +418,6 @@ mistake	Pra.	→ Pra. U.					1												1
 mistake	Mā. Saṃ.	→ Ṛ. Saṃ.					1													1				
 mistake	Sāṃ. Śrau.	→ Sāṃ. Śrau. Sū.					1														1			
 mistake	Pā. Saṃ.	→ Pā. Sū.					1															1		
-mistake	Pā. Rū.	→ Pā. Sū.					1															1		
 mistake	Praśne.	→ Pra. U.					1																1	
 mistake	Kar.	→ Ka. U.					1																1	
 mistake	Vāla.	→ Vāl.					1																	1
@@ -426,7 +425,7 @@ mistake	bṛ. de.	→ Bṛ. De.					1																	1
 extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					236		3	18	19	2	19	32	31		5	1	44	7		50	5	
 extra	Bṛ. De.	Bṛhaddevatā					189		1			1	2				8	42	25	11	31	13	37	18
 extra	Bṛ. U.	Bṛhadāraṇyaka Upaniṣad					116										1	10	64	2	1	4	26	8
-extra	Kā.	Kātyāyana-vārttika (Vārttikapāṭha)					85		5	13	4	21	7	22	3	5			3			2		
+extra	Kā.	Kātyāyana-vārttika (Vārttikapāṭha)					84		5	13	3	21	7	22	3	5			3			2		
 extra	Tai. U.	Taittirīya Upaniṣad					25										1	2	7	3			11	1
 extra	A. Ve.	Atharvaveda (the legend has Ath. Saṃ.)					18													1		1	13	3
 extra	Mu. U.	Muṇḍaka Upaniṣad					17											1	11				5	
@@ -452,11 +451,11 @@ extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
 extra	Go. Brā.	Gopatha Brāhmaṇa					2																2	
 extra	Ṛ. Saṃ. Bhā.	Ṛgveda-saṃhitā bhāṣya					1																1	
 extra	Śā. Bhā.	Śaṅkara-bhāṣya					1																1	
-legend	Pā. Sū.	Pāṇinīya Sūtra					5886		11	1194	436	19	608	640	1277		75	1	735	65		824	1	
-legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3686	24	146	100	83	78	12	176	9	36	405	647	353	264	425	178	453	297
-legend	Ni.	Nirukta, Nighaṇṭu					3505	2	116	83	129	161	256	186	61	254	383	291	261	200	447	310	210	155
-legend	Tai. Saṃ.	Taittirīya Saṃhitā					479	26	4	12	14	65	30	15	1	9	80	52	38	9	42	16	31	35
-legend	Ai. Brā.	Aitareya Brāhmaṇa					373	6	3	20	5	15	4	17	3		12	44	35	27	37	33	64	48
+legend	Pā. Sū.	Pāṇinīya Sūtra					5875		11	1194	436	19	606	640	1269		75	1	734	65		824	1	
+legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3734	24	146	100	83	78	12	176	9	36	404	647	353	313	425	178	453	297
+legend	Ni.	Nirukta, Nighaṇṭu					3503	2	116	83	129	161	256	186	61	254	381	291	261	200	447	310	210	155
+legend	Tai. Saṃ.	Taittirīya Saṃhitā					480	26	4	12	14	65	30	15	1	9	80	52	38	10	42	16	31	35
+legend	Ai. Brā.	Aitareya Brāhmaṇa					376	6	3	20	5	15	4	17	3		12	44	35	28	39	33	64	48
 legend	Śa. Brā.	Śatapatha Brāhmaṇa					326	3						1	2		7	51	78	13	4	8	115	44
 legend	Tai. Brā.	Taittirīya Brāhmaṇa					183	8	2	2		48	11	13	2		5	13	13	11	14	6	14	21
 legend	U. Sū.	Uṇādi-sūtra					150			41	38		1						25			45		
@@ -472,9 +471,9 @@ legend	Tā. Brā.	Tāṇḍya-mahā-brāhmaṇa					3											2					1
 legend	Bra. Sū.	Brahma-sūtra					3																3	
 legend	Ai. U.	Aitareya Upaniṣad					1															1		
 legend	Sā. Saṃ.	Sāmaveda-saṃhitā, etc.					1																	1
-Devanagari	पा.		Pā. Sū.	Devanagari read as pā.; short for Pā. Sū.; 98% of its numbers have 3 parts (sūtra numbers); Pā. Śi. would have 1-2	medium	yes	2689	2	1698	317	204	66	81	95	79	25	11	12	7	7	3	65	17	
+Devanagari	पा.		Pā. Sū.	Devanagari read as pā.; short for Pā. Sū.; 98% of its numbers have 3 parts (sūtra numbers); Pā. Śi. would have 1-2	medium	yes	2688	2	1697	317	204	66	81	95	79	25	11	12	7	7	3	65	17	
 Devanagari	पा. सू.		Pā. Sū.	Devanagari read as pā. sū.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	1881		596		2			3				1068		210		1	1	
-Devanagari	ऋ. सं.		Ṛ. Saṃ.	Devanagari read as ṛ. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	808	20	176	11	85		4			241	6	1	2	253	2		4	3
+Devanagari	ऋ. सं.		Ṛ. Saṃ.	Devanagari read as ṛ. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	807	20	176	11	85		4			241	6	1	1	253	2		4	3
 Devanagari	आ.		Ā.	Devanagari read as ā.; same letters; only capitals, dots or spaces differ	high	yes	581	2	33	31	27	22	25	68	17	6	14	18	19	49	33	52	92	73
 Devanagari	नि.		Ni.	Devanagari read as ni.; same letters; only capitals, dots or spaces differ	high	yes	537	5	37	15	30	31	19	22	29	54	44	15	16	158	19	21	12	10
 Devanagari	उ.		U. Sū.	Devanagari read as u.; user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		396	2	116	79	40	18	24	20	28	7	1	1	5	1	1	41	12	

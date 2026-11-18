@@ -60,6 +60,7 @@ def run(vols):
                 continue
             for sm in SUBPAGE.finditer(l): sub = sm.group(1) + ('–' + sm.group(2) if sm.group(2) else '')
             seen = set()
+            l = re.sub(r'\s*\[(?:sic|printed|so printed|as printed|as supplied)[^\]]*\]', '', l)       # a remark of ours between the name and its number ("Ma. [sic as printed] Saṃ. 3-54-1") is not part of the name
             if re.search(r'Running head|\(Header:|Page header', l): continue          # "Sū." in a running head is the sūkta number, not a work
             ms = [m for m in REFB.finditer(l) if m.group(1) or re.match(DEVW, m.group(2)).group() in FIRSTW]
             starts = {m.start(3) for m in ms}
