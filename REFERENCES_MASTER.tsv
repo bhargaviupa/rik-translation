@@ -9,7 +9,6 @@ NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two p
 NOT IN LIST	Saṃ.			no list form close to it	none		10		1				1				1	1	2	1			2	1
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
 NOT IN LIST	Trai. Saṃ.			no list form close to it	none		7											1	5	1				
-NOT IN LIST	Atha. Ve.			no list form close to it	none		7																	7
 NOT IN LIST	Paṃ. Brā.			no list form close to it	none		6					4									2			
 NOT IN LIST	VII.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		6										2	1		2				1
 NOT IN LIST	T. S.			no list form close to it	none		5	1	4															
@@ -63,7 +62,7 @@ NOT IN LIST	sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two p
 NOT IN LIST	Āp. Gṛ.			no list form close to it	none		2					2												
 NOT IN LIST	e. Pā. Sū.			no list form close to it	none		2						1						1					
 NOT IN LIST	Tai. Prā.			no list form close to it	none		2						2											
-NOT IN LIST	atha. saṃ.			no list form close to it	none		2									2								
+NOT IN LIST	atha. saṃ.		Ath. Saṃ.	known spelling of Ath. Saṃ. (capitals/dots differ)	high		2									2								
 NOT IN LIST	Vārt.			no list form close to it	none		2									2								
 NOT IN LIST	R. V. IV.			no list form close to it	none		2										2							
 NOT IN LIST	viii.			no list form close to it	none		2										2							
@@ -336,6 +335,7 @@ mistake	Āś. Gṛ. Sū.	→ Ā. Gṛ. Sū.					8					8
 mistake	Mi. Saṃ.	→ Ṛ. Saṃ.					8													2	2	4		
 mistake	Vā.	→ Pā. Sū.					7			3		1				1				1		1		
 mistake	I. Ā.	→ Ai. Ā.					7											1					6	
+mistake	Atha. Ve.	→ Ath. Saṃ.					7																	7
 mistake	Āśv. Sū.	→ Ā. Sū.					6		5								1							
 mistake	Phi. sū.	→ Phi. Sū.					6		6															
 mistake	Tai. saṃ.	→ Tai. Saṃ.					6		6															
@@ -534,7 +534,7 @@ Devanagari	कौ.		Ka. U.	Devanagari read as kau.; same letters; only capitals,
 Devanagari	अनु. ऋग्वे.		Anu.	Devanagari read as anu. ṛgve.; known spelling of Anu.	high	yes	2		2															
 Devanagari	अथ.			Devanagari read as atha.; no list form close to it	none		2					1	1											
 Devanagari	मु. उ.		Mu. U.	Devanagari read as mu. u.; same letters; only capitals, dots or spaces differ	high	yes	2								1				1					
-Devanagari	अथ. सं.			Devanagari read as atha. saṃ.; no list form close to it	none		2									2								
+Devanagari	अथ. सं.		Ath. Saṃ.	Devanagari read as atha. saṃ.; known spelling of Ath. Saṃ. (capitals/dots differ)	high		2									2								
 Devanagari	पि.			Devanagari read as pi.; no list form close to it	none		2										1		1					
 Devanagari	पा. सु.		Pā. Sū.	Devanagari read as pā. su.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	2											2						
 Devanagari	सा. सू.		Pā. Sū.	Devanagari read as sā. sū.; known spelling of Pā. Sū.	high		2											2						
@@ -602,7 +602,7 @@ Devanagari	मै. सं.		Mai. Saṃ.	Devanagari read as mai. saṃ.; same let
 Devanagari	सां. गृ. सू.		Sāṃ. Gṛ. Sū.	Devanagari read as sāṃ. gṛ. sū.; known spelling of Sāṃ. Gṛ. Sū.	high	yes	1													1				
 Devanagari	त्रै. उ.			Devanagari read as trai. u.; no list form close to it	none		1													1				
 Devanagari	त्रि. उ.			Devanagari read as tri. u.; no list form close to it	none		1													1				
-Devanagari	अथ. वे.			Devanagari read as atha. ve.; no list form close to it	none		1													1				
+Devanagari	अथ. वे.		Ath. Saṃ.	Devanagari read as atha. ve.; known spelling of Ath. Saṃ. (capitals/dots differ)	high	yes	1													1				
 Devanagari	क. ब्रा.			Devanagari read as ka. brā.; no list form close to it	none		1													1				
 Devanagari	कृ. ब्रा.			Devanagari read as kṛ. brā.; no list form close to it	none		1													1				
 Devanagari	कौ. ब्रा.		Kau. Brā.	Devanagari read as kau. brā.; same letters; only capitals, dots or spaces differ	high	yes	1													1				
