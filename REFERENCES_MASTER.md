@@ -4,8 +4,8 @@
 
 | status | forms | references |
 |---|---|---|
-| NOT IN LIST | 330 | 1858 |
-| mistake | 96 | 14551 |
+| NOT IN LIST | 329 | 1855 |
+| mistake | 97 | 14554 |
 | extra | 27 | 779 |
 | legend | 20 | 14825 |
 | Devanagari | 158 | 8275 |
@@ -73,8 +73,8 @@
 | Śat. Br. | 3 | ? (none) | 4 (1), 8 (2) |
 | e. Ṛ. Saṃ. | 3 | ? (none) | 5 (1), 15 (1), 16 (1) |
 | manu. | 3 | ? (none) | 5 (1), 8 (1), 9 (1) |
-| Ait. Br. | 3 | ? (none) | 5 (2), 10 (1) |
 | Āp. Śrau. Sū. | 3 | ? (none) | 5 (3) |
 | Kā. Śrau. Sū. | 3 | ? (none) | 5 (2), 15 (1) |
 | Ṛk. Ve. | 3 | ? (none) | 5 (3) |
 | III. | 3 | ? (none) | 7 (1), 14 (2) |
+| VIII. | 3 | ? (none) | 10 (2), 14 (1) |
