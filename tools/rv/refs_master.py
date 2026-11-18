@@ -78,3 +78,13 @@ for st, w, mean, tot, c, sg in rows:
     if st == 'NOT IN LIST' and len(md) < 80: md.append(f'| {w} | {tot} | {sg[0] or "?"} ({sg[2]}) | ' + ', '.join(f'{v} ({c[v]})' for v in sorted(c)) + ' |')
 open(os.path.join(ROOT, 'REFERENCES_MASTER.md'), 'w', encoding='utf8').write('\n'.join(md) + '\n')
 print(dict(by), dict(ref))
+
+# places of the forms with no suggestion (and not yet in the list): vol, printed page, line, number, text; for the user's reading (Nov 18 2026)
+none = {w: (sg[1]) for st, w, mean, tot, c, sg in rows if st in ('NOT IN LIST', 'Devanagari') and sg[2] == 'none'}
+tot_by = {w: tot for st, w, mean, tot, c, sg in rows}
+places = [r for r in csv.DictReader(open(os.path.join(ROOT, 'CROSS_REFERENCES.tsv'), encoding='utf8'), delimiter='\t') if r['work'] in none]
+places.sort(key=lambda r: (-tot_by[r['work']], r['work'], int(r['vol']), int(r['page'] or 0), int(r['line'] or 0)))
+with open(os.path.join(ROOT, 'REFERENCES_NONE_PLACES.tsv'), 'w', encoding='utf8') as o:
+    o.write('form as written\tforms like it (why no suggestion)\ttotal uses\tvol\tprinted page\tline in the English file\tnumber after it\tyour reading (what it is)\ttext around it\n')
+    for r in places: o.write('\t'.join([r['work'], none[r['work']], str(tot_by[r['work']]), r['vol'], r['page'], r['line'], r['number'], '', r['text'][:160].replace('\t', ' ')]) + '\n')
+print(len(none), 'forms without suggestion;', len(places), 'places -> REFERENCES_NONE_PLACES.tsv')
