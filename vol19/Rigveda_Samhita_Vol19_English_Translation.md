@@ -18548,6 +18548,138 @@ Here, at this sacrifice, the pressing stone (adri), held in the hand, sounded; t
 - हस्तयतः (*hastayataḥ*)—held in the hand
 - अनूनोत् (*anūnot*)—
 
+### Printed p. 501
+
+makes a sound.
+- सरमा (*saramā*)—the divine bitch called Saramā
+- ऋतं (*ṛtaṃ*)—the sacrifice
+- यती (*yatī*)—entering
+- गाः (*gāḥ*)—the cows
+- अविंदत् (*aviṃdat*)—found
+- अंगिराः (*aṃgirāḥ*)—the Aṅgirā seers
+- विश्वानि (*viśvāni*)—all the rites of sacrifice
+- सत्या (*satyā*)—so that they become true in nature
+- चकार (*cakāra*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+The pressing stone, by the help of which the seers called Navagva worshipped Indra for ten months entire, is held in the hand at this sacrifice and makes a sound; the divine bitch called Saramā, entering the sacrifice, found the cows. The Aṅgirā seers made all the rites of sacrifice true in nature.
+
+##### English translation
+At this sacrifice the stone (set in motion) by the hands (of the priests) makes a noice, whereby the nine-months ministrants celebrated the ten- months worship: when Sarama, going to the ceremony, discovered the cattle and Angiras rendered all the rites effective.
+
+##### विशेषविषयगळु (Special Topics)
+
+नवग्वाः (*navagvāḥ*)—It is the custom in the Ṛgveda to call the foremost among the Aṅgirā seers by the names Navagva and Daśagva. To explain the reason for these names the commentator has explained thus:
+
+नवग्वै, दशग्वै—नवभिर्मासैर्गच्छंतीति नवग्वाः । दशभिर्मासैर्गच्छंतीति दशग्वाः । अंगिरसां सत्रमासीनानां मध्ये ये नवभिर्मासैरवाप्तफला उत्ति तास्तेषां नवग्वा इति संज्ञा । दशभिर्मासैर्दशग्वा इति च ॥ (*navagvai, daśagvai—navabhirmāsairgacchaṃtīti navagvāḥ | daśabhirmāsairgacchaṃtīti daśagvāḥ | aṃgirasāṃ satramāsīnānāṃ madhye ye navabhirmāsairavāptaphalā utti tāsteṣāṃ navagvā iti saṃjñā | daśabhirmāsairdaśagvā iti ca ‖*)
+
+Some in the lineage of the seer Aṅgirā obtained their success by performing the sacrifice in only nine months, in the sattra sacrifice that lasts a year. Of them the custom is to say that the Navagvas are the foremost of those in the Aṅgirā lineage who obtained their desired end in nine months, and the Daśagvas those in the Aṅgirā lineage who obtained their desired end in ten months. On this matter Western scholars, when explaining the meaning of this word, say: The term Navagva is applied to a man generally an Angiras, in the highest degree ( Angirastama-अंगिरस्तम (*aṃgirastama*) ) who appears as a mystic race of olden times coupled with, and conceived probably as related to the Angirasas they are often associated with the Dasagvas (दशग्व (*daśagva*)). This word is used in many Ṛks of the Ṛgveda. We shall give some examples.
+
+### Printed p. 502
+
+येना नवग्वो दध्यज्ज पोर्णुते येन विप्रास आपिरे । (*yenā navagvo dadhyajja porṇute yena viprāsa āpire |*) (Ṛ. Saṃ. 9.108.4)
+
+नवग्वो नु दशग्वो अंगिरस्तमः सचा देवेषु महंते । (*navagvo nu daśagvo aṃgirastamaḥ sacā deveṣu mahaṃte |*) (Ṛ. Saṃ. 10.62-6)
+
+सखा ह यत्र सखिभिर्नवग्वैरभिज्ञा सत्वभिर्गा अनुग्मन् । (*sakhā ha yatra sakhibhirnavagvairabhijñā satvabhirgā anugman |*) (Ṛ. Saṃ. 3.39.5)
+
+अंगिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः । (*aṃgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ |*) (Ṛ. Saṃ. 10.14-6)
+
+येना नवग्वे अंगिरे दशग्वे सप्तास्यॆ रेवती रेवदूष ॥ (*yenā navagve aṃgire daśagve saptāsyè revatī revadūṣa ‖*) (Ṛ. Saṃ. 4-51-4)
+
+These words are used in these and many other Ṛks of the Ṛgveda, and in mantras such as Atharvaveda Saṃ. 19-1-56; 18-3-20. Of these, it is noteworthy that in the second example the foremost of the Aṅgirā lineage, who has obtained the famous names Navagva and Daśagva, is honoured even by the gods.
+
+In this Ṛk and in the following Ṛks it is said that the divine bitch called Saramā found the cows. In this matter, the commentator has told a story here. Saramā is a female dog that belongs to the gods. When the demons called Paṇis had carried off the cows of the gods and hidden them in a cave, Indra sent this divine bitch Saramā to search for those cows. As, in worldly practice, a hunter sends the hunting dog that he keeps to search for beasts, so Indra also told this divine bitch to go in search of the cows. Then she said to Indra: O Indra, if you will give food such as milk for my pup, I shall go and bring the cows after searching for them. (As the followers of the Śāṭyāyana branch tell it: अन्नादिनीं ते सरमे प्रजां करोमि या नो गा अन्वविंद (*annādinīṃ te sarame prajāṃ karomi yā no gā anvaviṃda*), that is, when he said: O Saramā, I shall provide food for your pup; go and search for the cows and come back.) When Indra said: Be it so, that bitch set out, searched, found the region where the Paṇis had hidden the cows, and informed Indra of it. Having learned of it, Indra destroyed those demons, set free the cows of the gods and brought them back. This very sense is set forth in this Ṛk, so he says.
+
+### Printed p. 503
+
+It is known that Saramā, the bitch of the gods, that is, of Indra, had two pups, that they were with Yama, the deity of death, and that after the name of their mother they were called Sārameya:
+
+अति द्रव सारमेयौ श्वानौ चतुरक्षौ शबलौ साधुना पथा । (*ati drava sārameyau śvānau caturakṣau śabalau sādhunā pathā |*) (Ṛ. Saṃ. 10-14-10)
+
+यौ ते श्वान् यम रक्षितार् चतुरक्षौ पथिरक्षी नृचक्षसौ ॥ (*yau te śvān yama rakṣitār caturakṣau pathirakṣī nṛcakṣasau ‖*) (Ṛ. Saṃ. 10-14-11)
+
+In these Ṛks the matter of the two dogs called Sārameya, the two pups of the divine bitch Saramā, and the matter of their having four eyes become known. The matter of the above-mentioned divine bitch Saramā going to the Paṇis and negotiating with them is described in the 108th sūkta of the 10th maṇḍala of the Ṛgveda thus:
+
+किमिच्छंती सरमा प्रेवमानडूरे ह्यध्वा जगुरिः पराचैः । कास्मेहितिः का परितक्क्यासीत्कथं रसाया आतरः पयांसि ॥ (*kimicchaṃtī saramā prevamānaḍūre hyadhvā jaguriḥ parācaiḥ | kāsmehitiḥ kā paritakkyāsītkathaṃ rasāyā ātaraḥ payāṃsi ‖*)
+
+इंद्रस्य दूतीरिषिता चरामि मह इच्छंती पणयो निधीन् वः । अतिष्कदो भियसा तन्न आनत्तथा रसाया अतरं पयांसि ॥ (*iṃdrasya dūtīriṣitā carāmi maha icchaṃtī paṇayo nidhīn vaḥ | atiṣkado bhiyasā tanna ānattathā rasāyā ataraṃ payāṃsi ‖*)
+
+कीदृज्जूंद्रः सरमे का दृशीका यस्येदं दूतीरसरः पराकात् । आ च गच्छान्मित्रमेना दधामाथा गवां गोपतिर्नो भवाति ॥ (*kīdṛjjūṃdraḥ sarame kā dṛśīkā yasyedaṃ dūtīrasaraḥ parākāt | ā ca gacchānmitramenā dadhāmāthā gavāṃ gopatirno bhavāti ‖*)
+
+नाहं तं वेद दभ्यं दभत्स यस्येदं दूतीरसरं पराकात् । न तं गूहंति स्रवतो गभीरा हता इंद्रेण पणयः शयद्वे ॥ (*nāhaṃ taṃ veda dabhyaṃ dabhatsa yasyedaṃ dūtīrasaraṃ parākāt | na taṃ gūhaṃti sravato gabhīrā hatā iṃdreṇa paṇayaḥ śayadve ‖*)
+
+इमा गावः सरमे या ऐच्छः परि दिवो अन्तान् सुभगे पतंती । कस्त एना अव सृजादयुध्युतास्माकमायुधा संति तिग्मा ॥ (*imā gāvaḥ sarame yā aicchaḥ pari divo antān subhage pataṃtī | kasta enā ava sṛjādayudhyutāsmākamāyudhā saṃti tigmā ‖*)
+
+असेन्यावः पणयो वचांस्यनिषव्यास्तन्वः संतु पापीः । अदृष्टो न एतना अस्तु पन्था बृहस्पतिर्व उभया न मृळात् ॥ (*asenyāvaḥ paṇayo vacāṃsyaniṣavyāstanvaḥ saṃtu pāpīḥ | adṛṣṭo na etanā astu panthā bṛhaspatirva ubhayā na mṛḷāt ‖*)
+
+अयं निधिः सरमे अद्रिबुध्नो गोभिरश्वेभिर्वसुभिर्नृष्टः । रक्षंति तं पणयो ये सुगोपा रेकु पदमलकमा जगंथ ॥ एह गमनृषयः सोमशिता अयास्को अंगिरसो ववग्वाः । त एतमूर्व० विभजंत गोनामथैतद्वचः पणयो वमन्नित् ॥ एवा च त्वं सरनु आजगंथ (*ayaṃ nidhiḥ sarame adribudhno gobhiraśvebhirvasubhirnṛṣṭaḥ | rakṣaṃti taṃ paṇayo ye sugopā reku padamalakamā jagaṃtha ‖ eha gamanṛṣayaḥ somaśitā ayāsko aṃgiraso vavagvāḥ | ta etamūrva0 vibhajaṃta gonāmathaitadvacaḥ paṇayo vamannit ‖ evā ca tvaṃ saranu ājagaṃtha*)
+
+एह गमनृषयः सोमशिता अयास्को अंगिरसो ववग्वाः । त एतमूर्व० विभजंत गोनामथैतद्वचः पणयो वमन्नित् ॥ (*eha gamanṛṣayaḥ somaśitā ayāsko aṃgiraso vavagvāḥ | ta etamūrva0 vibhajaṃta gonāmathaitadvacaḥ paṇayo vamannit ‖*)
+
+एवा च त्वं सरनु आजगंथ प्रबाधिता सहसा देव्येन । स्वसारं त्वा कृणवै मा पुनर्गा अप ते गवां सभगे भजाम ॥ (*evā ca tvaṃ saranu ājagaṃtha prabādhitā sahasā devyena | svasāraṃ tvā kṛṇavai mā punargā apa te gavāṃ sabhage bhajāma ‖*)
+
+### Printed p. 504
+
+नाहं वेद भ्रातृत्वं नो स्वसृत्वमिंद्रो विदुरंगिरसश्च घोराः । गोकामा मे अच्छदयन् यदायमपात इत पणयो वरीयः ॥ (*nāhaṃ veda bhrātṛtvaṃ no svasṛtvamiṃdro viduraṃgirasaśca ghorāḥ | gokāmā me acchadayan yadāyamapāta ita paṇayo varīyaḥ ‖*)
+
+दूरमित पणयो वरीय उद्गावो यंतु मिनतीर्युतेन । बृहस्पतिर्या अविंदन्निगूळ्हाः सोमो ग्रावाण ऋषयश्च विप्राः ॥ (*dūramita paṇayo varīya udgāvo yaṃtu minatīryutena | bṛhaspatiryā aviṃdannigūḷhāḥ somo grāvāṇa ṛṣayaśca viprāḥ ‖*) (Ṛ. Saṃ. 10-18-1 to 11) **NOTE**
+
+Its translation is given below. It is in the form of a conversation between the Paṇis and Saramā. Formerly the cows of Bṛhaspati were carried off by the Paṇis, the followers of Vala, and hidden in a secret place. Then, at Bṛhaspati's request, Indra sent the divine bitch Saramā to search for those cows. Searching for the cows, Saramā travelled a very long way, crossed a great river called Rasā that lay across the path, and came near the Paṇis. Then the Paṇis, knowing the purpose for which Saramā had come, held this conversation with her, with the thought of making friends with her:
+
+The Paṇis: O Saramā, you appear to have come here from a long way off, with great trouble. What is the purpose for which you have come here? How did you come here? How did you cross the river called Rasā?
+
+Saramā: Listen, O Paṇis. Directed by Indra, I have come here as his messenger. Indra desires the treasures that you have hidden. The river Rasā, in fear, helped me to cross. Therefore I crossed that river and came.
+
+The Paṇis: O Saramā, very well. You said that Indra has sent you as his messenger. What is that Indra like to look at? (The Paṇis speak thus among themselves:) Let Saramā come, if she comes. Let us make friends with her, and let her be the mistress of our cows.
+
+Saramā: That Indra cannot be conquered as you imagine. That Indra who sent me conquers his enemies, but others cannot conquer him. Even deep rivers cannot hold him back. Slain by him, you will have to lie on the bed of death.
+
+The Paṇis: O Saramā, is it not for these very cows that you have come a long way by the path of the sky and desire them? But who will hand those cows over to you for nothing, without a fight? Our weapons are very sharp.
+
+### Printed p. 505
+
+Saramā: What is the use of your words? Is there in those words the strength of an army, or the power that bows and arrows have, in your bodies filled with sin? The path that you follow is very hard. Bṛhaspati (the owner of the cows) will show you no mercy, and will set no value on your words.
+
+The Paṇis: O Saramā, this wealth of cattle, that is, cows, horses, goods and the like, we have gathered and brought to the mountains, and we, the Paṇis, are guarding it with great care. Your coming alone to so inaccessible a place is in vain.
+
+Saramā: Listen, O Paṇis. The seers and the Aṅgirases, having gained strength and capacity by drinking soma, will come here under the leadership of Ayāsya, take these cows by force and divide them among themselves. Then you will know that the words you speak are in vain.
+
+The Paṇis: O Saramā, it appears that you have the support of the gods. Therefore we shall regard you as our sister. Do not go back to Indra. Stay here. We shall give you a share in these cows too.
+
+Saramā: I do not want the friendship and sisterhood that you offer. Indra and the terrible Aṅgirases know my nature. When I came here searching for the cows, they learned your dwelling-place by a hidden path. Therefore, O Paṇis, run far away and save yourselves. Do not delay; go to the safe region that is far off. Let the cows that are kept in the cave come out in order. Bṛhaspati, Soma and the wise seers, having found this secret place, will break open the door of the cave where the cows are and burst in.
+
+In this conversation, one Ṛk is spoken by the Paṇis and another, in reply, by Saramā. These matters of the Paṇis' carrying off the cows are indicated in many places in the Ṛgveda.
+
+Although in the Ṛgveda the word Paṇi has the meaning of a wealthy man who carries on trade and the like, it also means a man who does not perform sacrifices and the like and does not give gifts such as sacrificial fees; so it appears that the seers not only looked on him with contempt but regarded him as one unworthy of honour and a base man. In some places Paṇi appears as a single separate person, but since the plural use of this word is especially frequent, it should be understood that the word पणयः (*paṇayaḥ*) denotes a class of people. According to some, these Paṇis were earlier inhabitants of this country who were engaged in trade and the like, but since they had no honesty, people said that they belonged to the company of the asuras. Since they did not perform sacrifices, had no interest in the practice of any good rite, and, by just or unjust means, considered the mere acquisition of wealth the chief thing and lived accordingly, the Āryas **NOTE** regarded them as dasyus and men of base livelihood, and gave out that opinion in the mantras and elsewhere. There are many Ṛks in the Ṛgveda concerning the Paṇis.
+
+### Printed p. 506
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ अ॒स्या व्युषि॒ माहि॑नायाः॒ सं यद्गोभि॒रंगि॑रसो॒ नवं॑त।  
+> उत्स॑ आसां पर॒मे स॒धस्थ॑ ऋ॒तस्य॑ प॒था स॒रमा॑ विद॒द्गाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । अस्याः । विउषि । माहिनायाः । सं । यत् । गोभिः । अंगिरसः । नवंत ॥  
+> उत्सः । आसां । परमे । सधस्थे । ऋतस्य । पथा । सरमा । विदत् । गाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे सर्वॆंगिरसो माहिनाया मंहनीयाया अस्या उषसो व्युषि
+> व्युच्छने सति गवामावरकेंधकारेपवृते सति यद्यदा गोभिः सं नवंत संजग्निरे
+> तदासां गवामुत्सः क्षीराद्युत्सा वः परम उत्कृष्टे सधस्थे सहस्थाने यज्ञ उपयुक्तोऽभवदित्यर्थः । ऋतस्य सत्यस्य पथा मार्गेण सरमा वाक् देवशुनी ना गा
+> निगूढा विदत् । अलभत । यद्वा । आसां गवां परमे सधस्थे सहस्थाने व्रजस्य निगूहनप्रदेश उत्स उदकस्य प्रस्रवणो वर्तते । बिलमित्यर्थः । तेन ऋतस्कोदकस्य पथा
+> मार्गेण सरमा गा विदत् ॥
+
+##### Gist of the bhāṣya
+
+All the Aṅgirases, when at the dawn of this Uṣas, the worshipful one, the darkness that covered the cows having been uncovered, they came together with the cows, then the spring of these cows, that is, milk and the like, became useful at the sacrifice, in the highest common abode; this is the sense. By the path of truth, Saramā, that is, speech, the divine bitch, found the hidden cows. Or else: in the highest common abode of these cows, the place where the cow-pen was hidden, there is a spring, a flow of water, that is, a cave; by the path of that water Saramā found the cows.
+
 ---
 
-**Progress note:** Done through printed p. 500. pp. 495-500: Ṛk 3 end, Ṛk 4-6, Ṛk 7 start of sūkta 45
+**Progress note:** Done through printed p. 506. pp. 501-506: Ṛk 7 end, special topics (Navagva, Saramā and the Paṇis), Ṛk 8
