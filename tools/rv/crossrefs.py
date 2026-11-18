@@ -22,7 +22,7 @@ DEVW = r'(?:[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
 NUM = N + r'(?:(?:\s?[-–]\s?|\.(?=' + N + r')|\s(?=' + N + r'{2,}))' + N + r'){1,4}'
 REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
 # the work's name in Indic script right after "(" may lack the dot of its first word ("(पा सू. ७-१-३९)", "(पा- सू. …", "(उ सू. …", "(पं- सू. …"): read as the full name
-REFB = re.compile(r'(?<![ऀ-ॿ.])([(\[]\s?)?((?:' + DEVW + r'(?:\.\.|[.,-]|\))?\s){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
+REFB = re.compile(r'(?<![ऀ-ॿ.])([(\[]\s?)?((?:' + DEVW + r'(?:(?:\.\.|[.,-]|\))\s?|\s)){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
 # first words of known works, in Devanagari, and the misreadings the user named: only these may start a dotless name away from a "("
 def _first_words():
     import csv
@@ -60,6 +60,7 @@ def run(vols):
                 continue
             for sm in SUBPAGE.finditer(l): sub = sm.group(1) + ('–' + sm.group(2) if sm.group(2) else '')
             seen = set()
+            if re.search(r'Running head|\(Header:|Page header', l): continue          # "Sū." in a running head is the sūkta number, not a work
             ms = [m for m in REFB.finditer(l) if m.group(1) or re.match(DEVW, m.group(2)).group() in FIRSTW]
             starts = {m.start(3) for m in ms}
             ms = [(m, m.group(2), m.group(3), m.start(3)) for m in ms] + [(m, m.group(1), m.group(2), m.start(2)) for m in REF.finditer(l) if m.start(2) not in starts]

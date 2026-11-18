@@ -8,10 +8,10 @@ NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	y
 NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Sū.			no list form close to it	none		15					1							7	3		4		
 NOT IN LIST	Pā. Ma.			no list form close to it	none		14		3	4	1	3	2									1		
 NOT IN LIST	Vāl.			no list form close to it	none		12					12												
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	11		2	4		3			1	1								
+NOT IN LIST	Sū.			no list form close to it	none		11					1							6			4		
 NOT IN LIST	anu.			no list form close to it	none		10	1	2	2			1	1	1		2							
 NOT IN LIST	dhā.			no list form close to it	none		8	6				2												
 NOT IN LIST	āśva.			no list form close to it	none		8	1				4				3								
@@ -346,11 +346,11 @@ mistake	Pā.	→ Pā. Sū.					7593		1395	204	1063	894	188	573	255	1634	1133	3	1
 mistake	Pā. sū.	→ Pā. Sū.					2069		1248	627		194												
 mistake	pā.	→ Pā. Sū.					1208	2	514	247	206	65	41	23	56	26	11		3	3	3	8		
 mistake	Uṇ.	→ U. Sū.					576		136	20	72	116	47	14	35	22	74					40		
-mistake	ṛ. saṃ.	→ Ṛ. Saṃ.					511	13	159	4	85					240	6			1				3
+mistake	ṛ. saṃ.	→ Ṛ. Saṃ.					510	13	159	4	85					240	6							3
 mistake	ni.	→ Ni.					259	2	39	15	31	31	9	2	16	54	47		2	2	5	2		2
 mistake	ā.	→ Ā.					190		37	26	29	28	11		8	6	13		11	7	7	6		1
 mistake	Av.	→ Ath. Saṃ.					190					190												
-mistake	Āś.	→ Ā. Sū.					184		3	31	25	1	9	66	12	15	13		2	4	3			
+mistake	Āś.	→ Ā. Sū.					182		3	31	25	1	9	66	12	15	11		2	4	3			
 mistake	Ṛk. Saṃ.	→ Ṛ. Saṃ.					170						163	7										
 mistake	Uṇ. sū.	→ U. Sū.					156		84	12		40				20								
 mistake	Śat. Brā.	→ Śa. Brā.					136		2		2	100	2						11	3	16			
@@ -360,7 +360,7 @@ mistake	Ṛ.	→ Ṛ. Saṃ.					72	4	5	1		2			12	15	10	19	2		1			1
 mistake	Ma. Saṃ.	→ Ṛ. Saṃ.					66													41		23	2	
 mistake	tai. saṃ.	→ Tai. Saṃ.					61	3	10	4	6	6	14	1	1	5	5		1		3	2		
 mistake	Ṛ. saṃ.	→ Ṛ. Saṃ.					58		54	4														
-mistake	Niru.	→ Ni.					55			4	7	42	1				1							
+mistake	Niru.	→ Ni.					54			4	7	42	1											
 mistake	ai. brā.	→ Ai. Brā.					53	4	4	19	4	4	3	1	3	6	2				2	1		
 mistake	Vāj. Saṃ.	→ Vā. Saṃ.					47					45				1	1							
 mistake	U. sū.	→ U. Sū.					42			42														
@@ -425,8 +425,8 @@ mistake	Pra.	→ Pra. U.					1												1
 mistake	Mā. Saṃ.	→ Ṛ. Saṃ.					1													1				
 mistake	Sāṃ. Śrau.	→ Sāṃ. Śrau. Sū.					1														1			
 mistake	bṛ. de.	→ Bṛ. De.					1																	1
-extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					239		3	18	19	2	19	32	31		8	1	44	7		50	5	
-extra	Bṛ. De.	Bṛhaddevatā					190		1			1	2				9	42	25	11	31	13	37	18
+extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					236		3	18	19	2	19	32	31		5	1	44	7		50	5	
+extra	Bṛ. De.	Bṛhaddevatā					189		1			1	2				8	42	25	11	31	13	37	18
 extra	Bṛ. U.	Bṛhadāraṇyaka Upaniṣad					116										1	10	64	2	1	4	26	8
 extra	Kā.	Kātyāyana-vārttika (Vārttikapāṭha)					85		5	13	4	21	7	22	3	5			3			2		
 extra	Tai. U.	Taittirīya Upaniṣad					25										1	2	7	3			11	1
@@ -452,9 +452,9 @@ extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
 extra	Go. Brā.	Gopatha Brāhmaṇa					2																2	
 extra	Ṛ. Saṃ. Bhā.	Ṛgveda-saṃhitā bhāṣya					1																1	
 extra	Śā. Bhā.	Śaṅkara-bhāṣya					1																1	
-legend	Pā. Sū.	Pāṇinīya Sūtra					5967		11	1194	436	19	608	640	1277		156	1	735	65		824	1	
-legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3690	24	146	100	83	78	12	176	9	36	409	647	353	264	425	178	453	297
-legend	Ni.	Nirukta, Nighaṇṭu					3510	2	116	83	129	161	256	186	61	254	388	291	261	200	447	310	210	155
+legend	Pā. Sū.	Pāṇinīya Sūtra					5886		11	1194	436	19	608	640	1277		75	1	735	65		824	1	
+legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3686	24	146	100	83	78	12	176	9	36	405	647	353	264	425	178	453	297
+legend	Ni.	Nirukta, Nighaṇṭu					3505	2	116	83	129	161	256	186	61	254	383	291	261	200	447	310	210	155
 legend	Tai. Saṃ.	Taittirīya Saṃhitā					479	26	4	12	14	65	30	15	1	9	80	52	38	9	42	16	31	35
 legend	Ai. Brā.	Aitareya Brāhmaṇa					373	6	3	20	5	15	4	17	3		12	44	35	27	37	33	64	48
 legend	Śa. Brā.	Śatapatha Brāhmaṇa					326	3						1	2		7	51	78	13	4	8	115	44
@@ -472,14 +472,14 @@ legend	Tā. Brā.	Tāṇḍya-mahā-brāhmaṇa					3											2					1
 legend	Bra. Sū.	Brahma-sūtra					3																3	
 legend	Ai. U.	Aitareya Upaniṣad					1															1		
 legend	Sā. Saṃ.	Sāmaveda-saṃhitā, etc.					1																	1
-Devanagari	पा.		Pā. Sū.	Devanagari read as pā.; short for Pā. Sū.; 98% of its numbers have 3 parts (sūtra numbers); Pā. Śi. would have 1-2	medium	yes	2718	2	1729	315	204	66	81	95	79	25	11	12	7	7	3	65	17	
-Devanagari	पा. सू.		Pā. Sū.	Devanagari read as pā. sū.; same letters; only capitals, dots or spaces differ	high	yes	1901		618		2			3				1067		209		1	1	
+Devanagari	पा.		Pā. Sū.	Devanagari read as pā.; short for Pā. Sū.; 98% of its numbers have 3 parts (sūtra numbers); Pā. Śi. would have 1-2	medium	yes	2686	2	1697	315	204	66	81	95	79	25	11	12	7	7	3	65	17	
+Devanagari	पा. सू.		Pā. Sū.	Devanagari read as pā. sū.; same letters; only capitals, dots or spaces differ	high	yes	1880		596		2			3				1068		209		1	1	
 Devanagari	ऋ. सं.		Ṛ. Saṃ.	Devanagari read as ṛ. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	808	20	176	11	85		4			241	6	1	2	253	2		4	3
 Devanagari	आ.		Ā.	Devanagari read as ā.; same letters; only capitals, dots or spaces differ	high	yes	581	2	33	31	27	22	25	68	17	6	14	18	19	49	33	52	92	73
 Devanagari	नि.		Ni.	Devanagari read as ni.; same letters; only capitals, dots or spaces differ	high	yes	537	5	37	15	30	31	19	22	29	54	44	15	16	158	19	21	12	10
-Devanagari	उ.		U. Sū.	Devanagari read as u.; user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		399	2	119	79	40	18	24	20	28	7	1	1	5	1	1	41	12	
-Devanagari	उ. सू.		U. Sū.	Devanagari read as u. sū.; same letters; only capitals, dots or spaces differ	high	yes	247		102	1								121		23				
-Devanagari	तै. सं.		Tai. Saṃ.	Devanagari read as tai. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	129	20	16	6	6	6	14	4	2	5	5	2	6	22	2	5	5	3
+Devanagari	उ.		U. Sū.	Devanagari read as u.; user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		396	2	116	79	40	18	24	20	28	7	1	1	5	1	1	41	12	
+Devanagari	उ. सू.		U. Sū.	Devanagari read as u. sū.; same letters; only capitals, dots or spaces differ	high	yes	245		100	1								121		23				
+Devanagari	तै. सं.		Tai. Saṃ.	Devanagari read as tai. saṃ.; same letters; only capitals, dots or spaces differ	high	yes	127	20	14	6	6	6	14	4	2	5	5	2	6	22	2	5	5	3
 Devanagari	ऐ. ब्रा.		Ai. Brā.	Devanagari read as ai. brā.; same letters; only capitals, dots or spaces differ	high	yes	101	6	5	21	5	4	3	8	3	6	2	1	5	9	5	7	9	2
 Devanagari	म. सं.		Ṛ. Saṃ.	Devanagari read as ma. saṃ.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	96													94	2			
 Devanagari	ऋग्वे.		Ṛ. Saṃ.	Devanagari read as ṛgve.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	95		19	8	2	5	4		1						7	2	25	22
@@ -585,7 +585,6 @@ Devanagari	पासू.		Pā. Sū.	Devanagari read as pāsū.; same letters; on
 Devanagari	पा. रू.			Devanagari read as pā. rū.; no list form close to it	none		1											1						
 Devanagari	सिरु.			Devanagari read as siru.; no list form close to it	none		1											1						
 Devanagari	ता. सू.		Pā. Sū.	Devanagari read as tā. sū.; known spelling of Pā. Sū.	high		1											1						
-Devanagari	सू.			Devanagari read as sū.; no list form close to it	none		1											1						
 Devanagari	वा. ॥. नि.			Devanagari read as vā. ||. ni.; no list form close to it	none		1											1						
 Devanagari	प. सू.			Devanagari read as pa. sū.; no list form close to it	none		1											1						
 Devanagari	पं. सू.		Pā. Sū.	Devanagari read as paṃ. sū.; known spelling of Pā. Sū.	high		1											1						
@@ -620,7 +619,6 @@ Devanagari	बृ. डी.			Devanagari read as bṛ. ḍī.; no list form close
 Devanagari	बृ. पे.			Devanagari read as bṛ. pe.; no list form close to it	none		1													1				
 Devanagari	उ. सं.			Devanagari read as u. saṃ.; no list form close to it	none		1													1				
 Devanagari	च. उ. सू.			Devanagari read as ca. u. sū.; no list form close to it	none		1													1				
-Devanagari	अ. २४. सू.			Devanagari read as a. 24. sū.; no list form close to it	none		1													1				
 Devanagari	कौ. सू.		Kau. Sū.	Devanagari read as kau. sū.; same letters; only capitals, dots or spaces differ	high	yes	1													1				
 Devanagari	तै.			Devanagari read as tai.; could be Tai. Ā. or Tai. Brā. or Tai. Saṃ. or Tai. U.	none		1													1				
 Devanagari	त्रै. सं.			Devanagari read as trai. saṃ.; no list form close to it	none		1													1				

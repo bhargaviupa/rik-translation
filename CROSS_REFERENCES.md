@@ -10,7 +10,7 @@
 | Vol | rik | grammar | other | all | with a gloss or marker |
 |---|---|---|---|---|---|
 | 1 | 73 | 20 | 223 | 316 | 0 |
-| 2 | 577 | 6109 | 486 | 7172 | 289 |
+| 2 | 577 | 6050 | 484 | 7111 | 289 |
 | 3 | 142 | 2926 | 510 | 3578 | 39 |
 | 4 | 267 | 2156 | 426 | 2849 | 98 |
 | 5 | 91 | 1450 | 1159 | 2700 | 83 |
@@ -18,15 +18,15 @@
 | 7 | 195 | 1451 | 596 | 2242 | 123 |
 | 8 | 40 | 1876 | 220 | 2136 | 17 |
 | 9 | 561 | 1827 | 512 | 2900 | 106 |
-| 10 | 466 | 1397 | 729 | 2592 | 4 |
-| 11 | 682 | 1220 | 724 | 2626 | 0 |
-| 12 | 365 | 826 | 890 | 2081 | 0 |
+| 10 | 462 | 1311 | 720 | 2493 | 4 |
+| 11 | 682 | 1221 | 723 | 2626 | 0 |
+| 12 | 365 | 826 | 889 | 2080 | 0 |
 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 14 | 659 | 325 | 802 | 1786 | 2 |
+| 14 | 658 | 325 | 798 | 1781 | 2 |
 | 15 | 441 | 11 | 824 | 1276 | 5 |
 | 16 | 207 | 1331 | 712 | 2250 | 7 |
 | 17 | 498 | 41 | 1001 | 1540 | 1 |
 | 18 | 335 | 3 | 659 | 997 | 0 |
-| **all** | 5789 | 24011 | 11030 | 40830 | 895 |
+| **all** | 5784 | 23867 | 11013 | 40664 | 895 |
 
 **Limits.** A reference is found only where a work's abbreviation stands before a number of two or more parts; a quotation without a number, a reference written in words ("the next Ṛk", "Rik 9 of this sūkta") and a number whose abbreviation was misread beyond recognition are not listed. The kind is decided from the abbreviation as written; misread abbreviations fall under "other". Vol 13 is not translated; Vol 19 is in translation.
