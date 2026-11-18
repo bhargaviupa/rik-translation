@@ -24700,6 +24700,208 @@ In this Ṛk the word अस्मे (*asme*) has the sense of the seventh case
 > यू॒यमर्वं॑तं भर॒ताय॒ वाजं॑ यू॒यं ध॑त्त॒ राजा॑नं  
 > श्रुष्टि॒मंतं॑ ॥ ८४ ॥
 
+### Printed p. 680
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । रयिं । मरुतः । स्पार्हवीरं । यूयं । ऋषिं । अवथ । सामविप्रं।  
+> यूयं । अर्वंतं । भरताय । वाजं । यूयं । धत्थ । राजानं। श्रुष्टिमंतं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं रयिं धनं स्पार्हवीरं स्पृहणीयैर्वीरैः पुत्रभृत्यादिभिरुपेतं धत्थ । दत्थ । हे मरुतो यूयं सामविप्रं साम्मां विविधं प्रेरयितारां यद्वा सामसहिता विप्रा यस्य तादृशमृषिमवथ । रक्षथॆ । हे यूयमर्वंतमश्वं वाजमन्नं च भरताय देवान् बिभ्रते श्यावाश्वाय धत्थ । हे
+> मरुतो यूयं राजानं दीप्तं स्वामिनं वा श्रुष्टिमंतं सुखवंतं । पुत्रमित्यर्थः । धत्थ ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you bestow wealth, that is, wealth accompanied by enviable heroes, namely sons, servants and the like; the verb धत्थ (*dhattha*) here means "you give". O Maruts, you protect the sage who is a सामविप्रं (*sāmavipraṃ*): either one who variously impels the Sāman, or one whose learned men (vipras) are accompanied by the Sāman. **NOTE** You give a horse and food to Bharata, that is, to Śyāvāśva, who bears the gods. O Maruts, you also grant a king, that is, a resplendent one or a master, who is endowed with happiness (श्रुष्टिमंतं (*śruṣṭimaṃtaṃ*)); the meaning is a son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- रयिं (*rayiṃ*)—wealth
+- स्पार्हवीरं (*spārhavīraṃ*)—enviable heroic sons and the like
+- धत्त (*dhatta*)—you give
+- यूयं (*yūyaṃ*)—you
+- सामविप्रं (*sāmavipraṃ*)—who praises, knowing the nature of the Sāma mantras
+- ऋषिं (*ṛṣiṃ*)—the sage
+- अवथ (*avatha*)—you protect
+- यूयं (*yūyaṃ*)—you
+- भरताय (*bharatāya*)—to me, who bear the gods
+- अर्वंतं (*arvaṃtaṃ*)—a horse
+- वाजं (*vājaṃ*)—food (you give)
+- यूयं (*yūyaṃ*)—you
+- राजानं (*rājānaṃ*)—the king
+- श्रुष्टिमंतं (*śruṣṭimaṃtaṃ*)—you make him endowed with prosperity and happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you give wealth and enviable heroic sons and the like. You protect the sage who praises, knowing the nature of the Sāma mantras. To me, who bear the gods, you give a horse and food. You make the king endowed with prosperity and happiness.
+
+##### English translation
+You bestow, Maruts, wealth and enviable posterity: you protect the sage learned in the Sama: you grant horses and food to (me) the ministrant priest; you render a prince prosperous.
+
+### Printed p. 681
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which is the conclusion of the sūkta, and in the next Ṛk, the seer Śyāvāśva prays to the Marut deities to grant wealth, horses, food and other nourishment, sons, grandsons and the like, and long life, so that he may live up to a hundred years.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्यो॑ यामि॒ द्रवि॑णं सद्यऊतयो॒ येना॒ स्व१॒॑र्ण त॒तना॑म॒  ॒
+> स्वरभि ।  
+> इ॒दं सु मे॑ मरुतो हर्यता॒ वचो॒ यस्य॒ तरे॑म॒ तर॑सा ॒ ॑
+> शतं हिमाः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । यामि । द्रविणं । सद्यःऊतयः । येन । स्वः । न । ततनाम । न्यान् ।  
+> अभि ।  
+> इदं । सु । मे । मरुतः । हर्यत । वचः । यस्य । तरेनु । तरसा । शतं । हिमाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सद्यऊतयः । तदानीमेव रक्षा येषां ते तादृशाः । सद्योगमना वा
+> वो युष्मान् तद्द विणं धनं यामि । याचामहे । येन धनेन नृनस्मत्पुत्रभृत्यादीनभि । ततनाम स्वर्ण आदित्य इव रश्मीन् । हे मरुतो मे मनु स्वभूतमिद.
+> मिदानीं क्रियमाणं वचः स्तोत्रं सु सुष्टु हर्यत । कामयध्वं । यस्य स्तोत्रवचसस्तरसा बलेन शतं शतसंख्याकान् हिमा हेमंतान् तरेम । शतसंवत्सरं
+> जीवेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O you who are सद्यऊतयः (*sadyaūtayaḥ*), that is, whose protection comes at that very moment, or whose coming is immediate: from you we ask that wealth, by which we may extend our sons, servants and the rest, as the sun extends his rays. O Maruts, desire well this praise now being made by me **NOTE**; by the strength of this praise we may pass a hundred winters, that is, live a hundred years.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सद्यऊतयः (*sadyaūtayaḥ*)—O Maruts, who give protection at once
+- येन (*yena*)—by which wealth
+- स्वर्ण (*svarṇa*)—as the sun spreads out his rays
+- नृन् (*nṛn*)—our sons and the rest of our progeny
+
+### Printed p. 682
+- अभि (*abhi*) ततनाम (*tatanāma*)—we may extend and increase
+- तत् (*tat*) द्रविणं (*draviṇaṃ*)—such wealth
+- वः (*vaḥ*)—from you
+- यामि (*yāmi*)—I ask
+- मरुतः (*marutaḥ*)—O Maruts
+- यस्य (*yasya*)—of which praise
+- तरसा (*tarasā*)—by the strength
+- शतं (*śataṃ*)—a hundred
+- हिमाः (*himāḥ*)—winters (years)
+- तरेम (*tarema*)—we may live
+- मे (*me*)—by me
+- इदं (*idaṃ*)—now made
+- वचः (*vacaḥ*)—praise
+- सु (*su*)—exceedingly
+- हर्यत (*haryata*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who give protection as soon as you are prayed to, I ask of you that wealth by whose help we may extend and increase our sons and the rest of our progeny, as the sun spreads out his rays. O Maruts, desire exceedingly this praise made by me, by the strength of which we may live a hundred years.
+
+##### English translation
+Therefore do I solicit wealth of you, who are prompt to grant protection, whereby we may multiply our descendants, as the sun (spreads wide his rays): be propitiated, Maruts, by this my praise, by the efficacy whereof may we pass over a hundred winters.
+
+##### विशेषविषयगळु (Special Topics)
+
+तदानीमेव रक्षा येषां ते तादृशाः । सद्योगमना ना (*tadānīmeva rakṣā yeṣāṃ te tādṛśāḥ | sadyogamanā nā*) (on सद्यऊतयः (*sadyaūtayaḥ*)). The word सद्यऊतयः (*sadyaūtayaḥ*) suggests two meanings: that you should give us your protection at once, immediately; or that you should come to this place of sacrifice at once.
+
+येन धनेन अस्मत्पुत्रभृत्यादीन् आदित्यरशीनिव ततनाम (*yena dhanena asmatputrabhṛtyādīn ādityaraśīniva tatanāma*). What is expressed here is the hope: just as the sun spreads his rays widely, so by the wealth and other gifts that the Marut deities give us, may we increase and extend our line of sons, grandsons and so on.
+
+स्तोत्रवचसः बलेन वयं शतसंख्याकान् हेमंतान् शतसंवत्सरं जीवेमेत्यर्थः । (*stotravacasaḥ balena vayaṃ śatasaṃkhyākān hemaṃtān śatasaṃvatsaraṃ jīvemetyarthaḥ |*). The seer prays that, by the power of the hymns we recite addressed to the Marut deities, we may live up to a hundred years. The word हिमाः (*himāḥ*) means Hemanta, the Hemanta seasons. The Hemanta season comes only once in a
+
+### Printed p. 683
+year, and therefore शतं हिमाः (*śataṃ himāḥ*) means a hundred years. In the same way the use of the words शरदः शतं (*śaradaḥ śataṃ*) also indicates the sense of a hundred years. Such usages are especially frequent in the Ṛgveda.
+
+## Sūkta 55 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रयज्यव इति दर्चशमेकादशं सूक्तं श्यावाश्वस्यार्षं मारुतं । दशमी
+> त्रिष्टुप् शिष्टा जगत्यः । प्रयज्यवो दशांत्या त्रिष्टुबित्यनुक्रमणिका ॥ अभिप्लविके
+> षष्ठेऽहन्याग्निमारुत इदं सूक्तं मारुतनिविद्धानीयं । सूत्रितं च । प्रयज्यव इमं
+> स्तोममित्याग्निमारुतं । आ-७-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रयज्यव (*prayajyava*) is the eleventh, of ten Ṛks, and is the vision of Śyāvāśva, addressed to the Maruts. The tenth Ṛk is Triṣṭubh and the rest are Jagatī, as the Anukramaṇikā says: प्रयज्यवो दशांत्या त्रिष्टुप् (*prayajyavo daśāṃtyā triṣṭup*). In the Abhiplava rite, on the sixth day, in the Agni-Marut recitation, this sūkta serves as the Māruta nivid-inserted hymn. It is also taught in the sūtra: प्रयज्यव इमं स्तोममित्याग्निमारुतं (*prayajyava imaṃ stomamityāgnimārutaṃ*) (Ā. 7-7).
+Anuvāda: The sūkta beginning प्रयज्यव (*prayajyava*) is the eleventh sūkta in the fourth anuvāka. It has ten Ṛks. Śyāvāśva is the seer of this sūkta; the Maruts are the deity. The tenth Ṛk of this sūkta is in the Triṣṭubh metre; the remaining Ṛks are in the Jagatī metre. The Anukramaṇikā states: प्रयज्यवो दशांत्या त्रिष्टुप् (*prayajyavo daśāṃtyā triṣṭup*). In the Abhiplava sacrifice, on the sixth day, when the Agni-Marut Śastra mantras are recited, this sūkta is to be inserted and recited as the मारुतनिविद्धानीयसूक्तवन्नागि (*mārutanividdhānīyasūktavannāgi*); this is set out in the Āśvalāyana Śrauta Sūtra in the sūtra प्रयज्यव इमं स्तोममित्याग्निमारुतं (*prayajyava imaṃ stomamityāgnimārutaṃ*) (Ā. 7-7).
+- Sūkta: 55.
+- Maṇḍala 5; Anuvāka 4; Sūkta 55.
+- Aṣṭaka 4; Adhyāya 3; Varga 17, 18.
+- Number of Ṛks in the sūkta: 10.
+- Ṛṣi: Śyāvāśva Ātreya.
+- Deity: Maruts.
+- Metre: 1–9 Jagatī; 10 Triṣṭubh.
+
+### Printed p. 684
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रय॑ज्यवो म॒रुतो॒ भ्राज॑दृष्टयो बृ॒हद्वयो॑ दधिरे  ॒॑
+> रु॒क्मव॑क्षसः ।  
+> ईयं॑ते॒ अश्वैः॑ सु॒यमे॑भिरा॒शुभिः॒ शुभं॑ या॒तामनु॒ रथा॑  
+> अवृत्सत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रयज्यवः । मरुतः । भ्राजत्ऋष्टयः । बृहत् । वयः । दधीरे । रुक्म्यवक्षसः ।  
+> ईयंते । अश्वैः । सुयमेभिः । आशुभिः । शुभं । यातां । अनु । रथाः ।  
+> अवृत्सत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रयज्यवः प्रकर्षेण यष्टारो भ्राजदृष्टयो दीप्तायुधा मरुतो
+> बृहत् प्रभूतं वयो यौवनलक्षणं प्रभूतमन्नं वा दधिरे । धारयंति । रुक्ष्मवक्षसो हारायतवक्षस्काः । ते मरुतः सुयमेभिः सुखेन नियमितुं शक्यैराशुभिः
+> श्रीघ्रगैरश्वैरीयंते । प्राप्यंते । शुभं शोभनं यथा भवति तथा । यद्वा। उदकमभिलक्ष्य यातां गच्छतां मरुतां रथा अप्यन्ववृत्सत । अनुवर्तंते ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are प्रयज्यवः (*prayajyavaḥ*), eminent sacrificers, and भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*), having shining weapons. They bear abundant वयः (*vayaḥ*), which is either the youthful age that is their mark or abundant food. They are रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*), having necklaces spread over their chests. Those Maruts are brought by swift horses that can be easily controlled, and they come splendidly. Or else: aiming at the water, the chariots of the Maruts as they go also follow them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रयज्यवः (*prayajyavaḥ*)—eminent sacrificers
+- भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*)—having shining weapons
+- रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)—having necklaces on their chests
+- मरुतः (*marutaḥ*)—the Maruts
+- बृहत् (*bṛhat*)—abundant
+- वयः (*vayaḥ*)—food
+- दधिरे (*dadhire*)—possess (and)
+- सुयमेभिः (*suyamebhiḥ*)—capable of bearing them with ease
+- आशुभिः (*āśubhiḥ*)—swift-moving
+- अश्वैः (*aśvaiḥ*)—by horses
+- ईयंते (*īyaṃte*)—are brought
+- शुभं (*śubhaṃ*)—as bringers of well-being
+- यातां (*yātāṃ*)—of them as they go
+- रथाः (*rathāḥ*)—the chariots
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, eminent sacrificers, having shining weapons and necklaces on their chests, possess abundant food. They are brought by swift-moving horses that are capable of bearing them with ease. As bringers of well-being, they go, and their chariots also follow them.
+
+### Printed p. 685
+
+##### English translation
+The adorable Maruts, armed with bright lances and cuirassed with golden breast-plates, enjoy vigorous existence: may the cars of the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*)—भ्राजत् ऋष्टर्य (*bhrājat ṛṣṭarya*) **NOTE**. ऋष्टि (*ṛṣṭi*) is a particular weapon of the Marut deities. It is said to be sharp, shining and spear-shaped. The meaning of the word भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*) is those who bear such shining weapons. The use of this word in describing the qualities of the Marut deities is special to them, and it indicates their distinction. This word is not much used of the other deities.
+
+बृहत् (*bṛhat*) वयः (*vayaḥ*)—The commentator gives two kinds of meaning for these words. बृहत् (*bṛhat*) means large, much, abundant. If वयः (*vayaḥ*) is taken to mean food (Ni. 3-9), the sense is that they have abundant wealth of food, or that they give abundant food and other sustenance to the sacrificers who praise them. If वयः (*vayaḥ*) is taken to mean age, then बृहत् (*bṛhat*) means greater, and वयः (*vayaḥ*) means having age; that is, not young children but those who are like young men, endowed with the marks of youth; this is the intended sense.
+
+रुक्मवक्षसः (*rukmavakṣasaḥ*)—Like the word भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*), the word रुक्मवक्षसः (*rukmavakṣasaḥ*) also is used only of the Marut deities. It too describes their distinction. The meaning is those who wear golden necklaces and other ornaments on their chests.
+
+सुयमेभिः आशुभिः अश्वैः ईयंते (*suyamebhiḥ āśubhiḥ aśvaiḥ īyaṃte*)—The word सुयमेभिः (*suyamebhiḥ*) means horses that have the strength to carry the Marut deities easily, that is, without difficulty or effort. Or the meaning may be given as having easy control, that is, "Well-Controlled", subject to the charioteer's hold. The word आशुभिः (*āśubhiḥ*) means able to run swiftly. Therefore the chief meaning of this sentence is that these Marut deities are carried by their chariot horses, which bear the load easily and go quickly.
+
+शुभं यातां रथाः अनु आवृत्सत (*śubhaṃ yātāṃ rathāḥ anu āvṛtsata*)—The chariots of the Marut deities, which travel happily, follow them. That is, the chariots carry them, according to their wish, to wherever the Marut deities desire to go. Or for the word शुभं (*śubhaṃ*) the sense water
+
 ---
 
-**Progress note:** Done through printed p. 679. Mandala 5 sukta 54 Rk 12 (end), Rk 13, special topics on asme, Rk 14 (Samhita)
+**Progress note:** Done through printed p. 685. Ṛk 84 end, Ṛk 15, sūkta 55 intro, Ṛk 1 (pp. 680-685)
