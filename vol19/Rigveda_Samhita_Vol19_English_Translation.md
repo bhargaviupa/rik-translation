@@ -18309,6 +18309,245 @@ For this one, who is the chief and is praised with the stotra, the womb of the c
 - उक्ताय (*uktāya*)—for the praiser
 - अस्मै (*asmai*)—for my **NOTE**
 
+### Printed p. 495
+
+- हितक्कागि (*hitakkāgi*)—benefit
+- पर्वतस्य (*parvatasya*)—of the cloud
+- गर्भः (*garbhaḥ*)—the water that lies in the womb
+- जिहीत (*jihīta*)—is released and flows
+- पर्वत् (*parvat*)—the cloud
+- वि (*vi*)—(the cloud) splits open, for the release of rain
+- द्यौः (*dyauḥ*)—the atmosphere
+- साधत (*sādhata*)—brings about the sprinkling of rain
+- आविवासंतः (*āvivāsaṃtaḥ*)—the Aṅgirases, who worship everywhere
+- भूम (*bhūma*)—exceedingly
+- दसयंत (*dasayaṃta*)—are worn out by the labour of the rite
+
+##### भावार्थ (Bhāvārtha)
+
+As it came about for the former seer, the producer of praises possessed of great qualities, so for the benefit of me, the praiser, the water that lies in the womb of the cloud is released and flows. The cloud splits open to release rain. The atmosphere brings about the sprinkling of rain. The Aṅgirases, who worship everywhere, are worn out by the exceedingly great labour of the rite.
+
+##### English translation
+To me, when offering praise, as to an ancient author of sacred songs, the burden of the cloud (descends); the cloud parts (with its burden); the sky performs (its office): the assiduously worshipping Angirasas are exhausted by much (adoration).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सू॒क्तेभि॑र्वो॒ वचो॑भिर्दे॒वजु॑ष्टै॒रिंद्रा॒ न्न१॒॑ग्नी अव॑से  ॒॑
+> हुवध्यै ॥ ४ ॥
+
+> उक्तेभिर्हि ष्मा कवयः सुयज्ञा आविवासंतो मरुतो  
+> यजंति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुउक्तेभिः । वः । वचःभिः । देवजुष्टैः । इंद्रा । नु । अग्नी इति । अवसे ।  
+> हुवध्यै ।  
+> उक्तेभिः । हि । स्म । कवयः । सुयज्ञाः । आविवासंतः । मरुतः । यजंति ॥ ४ ॥
+
+### Printed p. 496
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रा हे अग्नी ॥ परस्परापेक्षया प्रत्येकं द्विवचनं । यद्यस्येकमेव
+> पदं मध्ये व्यवधानं छांदसं ॥ हे इंद्राग्नी वो युवां ॥ व्यत्ययेन बहुवचनं ॥
+> देवजुष्टैर्देवैः सेवनीयैः सूक्तेभिः सूक्तैः सुवचनैः शोभनगुणप्रकाशनप्रवशैर्वचोभिरवसेऽस्मद्रक्षणाय हुवध्यै । आह्वयामि । नु क्षिप्रं युवामुक्थेभिः
+> स्रोत्रैः कवयोऽनूचानाः पूर्व ऋषयः सुयज्ञाः शोभनयागा आविवासंतः
+> स्तुत्यादिना परिचरंतो मरुतो मरुत्सदृशाः कर्मसु शीघ्रायजंति । पूजयंति ॥
+> हि स्मेति पूरणौ ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, O Agni": each of the two is addressed separately, with the dual used in view of their mutual connection; where a single word stands between them, that is Vedic usage. The plural "you" stands in place of the dual "you two". With words that are well spoken, that are sought by the gods and that make plain excellent qualities, I invoke you (हुवध्यै (*huvadhyai*)) for our protection, and quickly. The ancient seers, the Anūcānas, who perform good sacrifices and serve you with praise and the like, worship you with hymns, swift in their rites like the Maruts. The two particles हि स्मेति (*hi smeti*) are mere fillers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्रा (*(he) iṃdrā*)—O Indra; (हे) अग्नी (*(he) agnī*)—O Agni, that is, O Indra and Agni
+- वः (*vaḥ*)—you
+- देवजुष्टैः (*devajuṣṭaiḥ*)—worthy of being served by the gods
+- सूक्तेभिः (*sūktebhiḥ*)—that have the form of a sūkta (well made)
+- वचोभिः (*vacobhiḥ*)—with words of praise
+- अवसॆ (*avasè*)—for our protection
+- हुवध्यै (*huvadhyai*)—I call you, praying
+- नु (*nu*)—certainly
+- सुयज्ञाः (*suyajñāḥ*)—excellent conductors of sacrifice
+- कवयः (*kavayaḥ*)—the seers, the Anūcānas
+- आविवासंतः (*āvivāsaṃtaḥ*)—serving you
+- मरुतः (*marutaḥ*)—swift in their dealings like the Maruts
+- उक्षैः (*ukṣaiḥ*)—with instruments in the form of praise **NOTE**
+- यजंतिहि स्म (*yajaṃtihi sma*)—they worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, with words of praise that are worthy of being served by the gods, that have the form of praise and are well made, I call you for our protection. The seers, excellent conductors of sacrifice and Anūcānas, serving you, worship you with instruments in the form of praise, swift in their dealings like the Maruts.
+
+##### English translation
+Indra and Agni, I invoke you for my salvation with well-uttered words, agreeable to the gods; for verily, sages excelling in sacrifice, and deligently adoring, worship you with sacred songs, prompt as the Maruts (in devotion).
+
+### Printed p. 497
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एतो॒ नृग१॒॑द्य सु॒ध्यो॒३॒॑३ भवा॑म॒ प्र दु॒च्छुना॑ मिनवामा॒  ॑
+> वरीयः ।  
+> आ॒रे द्वेषां॑सि सनु॒तर्द॑धा॒माया॑म॒ प्रांचो॒ यज॑मान॒मच्च ॥ ५ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतो इति । नु । अद्य । सुध्यः । भवाम । प्र । दुच्छनाः । मिनवाम । वरीयः ।  
+> आरे । द्वेषांसि । सनुतः । दधाम । अयाम । प्रांचः । यजमानं । अच्छ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमंगिरसां वादः । अद्यास्मिन्यागदिने नु क्षिप्रमेतो । एत । गच्छत । सुध्यः
+> शोभनकर्माणो भवाम । दुच्चुना द्विषः प्र मिनवाम । प्रकर्षण हिंसाम
+> वरीयः । अत्यंतमित्यर्थः । तदेवोच्यते । सनुतः संभक्त्वान् द्वेषांसि यजमानस्य
+> द्वेष्टानारे दूरे दधाम । स्थापयाम । यद्वा । सनुतरित्यंतर्हितनाम । पूर्वं
+> प्रकाशवैरिणां वध उक्त इदानीं प्रच्छन्नानामिति विवेकः । तदर्थं यजमानं
+> प्रांचः सदापृणमवत्सारं चाच्छाभिमुखमयाम । गच्छाम ॥
+
+##### Gist of the bhāṣya
+
+This is a speech of the Aṅgirases. Today, at this sacrifice, come quickly (एतो (*eto*) means: go). Let us be doers of good deeds. Let us strike down the haters of the sacrificer with violence, exceedingly. The same is then said again: the word सनुतः (*sanutaḥ*) is explained by a word that is damaged in the print, and we shall set the enemies of the sacrificer far away. Or else, the same word means hidden: earlier the slaying of open enemies was spoken of, now that of the concealed ones, this being the distinction. For that purpose, facing forward, we shall go toward the sacrificer; the words that follow, about Sadāpṛṇa and Avatsāra, are damaged in the print. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—to this sacrifice
+- नु (*nu*)—quickly
+- एतो (*eto*)—come
+- सुध्यः (*sudhyaḥ*)—endowed with good deeds
+- भवानु (*bhavānu*)—let us be **NOTE**
+- दुच्छनाः (*ducchanāḥ*)—the haters
+- वरीयः (*varīyaḥ*)—exceedingly
+- प्र विनवामु (*pra vinavāmu*)—let us strike down **NOTE**
+- सनुतः (*sanutaḥ*)—entering into the rite of sacrifice
+- द्वेषांसि (*dveṣāṃsi*)—the enemies (of the sacrificer)
+- आरे (*āre*)—far away
+- दधाम (*dadhāma*)—let us put
+- यजमानं (*yajamānaṃ*)—to the sacrificer
+- प्रांचः (*prāṃcaḥ*)—facing
+- अच्छ अयानु (*accha ayānu*)—let us go and join **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Come quickly, all of you, to this sacrifice. Let all of us be endowed with good deeds. Let us strike down our haters completely and destroy them. Let us drive far away all the enemies of the sacrificer who enters into the rite of sacrifice. For this work let us go facing the sacrificer.
+
+### Printed p. 498
+
+##### English translation
+Come to-day quickly: let us be engaged in pious acts: let us entirely annihilate the hostile: let us keep off all secret enemies: let us hasten to the presence of the institutor of the rite.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एता॒ धियं॑ कृ॒णवा॑मा सखा॒योs प॒ या मा॒ता ऋ॑णु॒त  
+> व्र॒जं गोः ।  
+> यया॒ मनु॑र्वितिशि॒प्रं जि॒गाय॒ यया॑ व॒णिग्वं॒कुरापा॒  ॑
+> पुरीषं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इत । धियं । कृणवाम । सखायः । अप । या । माता । ऋणुत । व्रजं । गोः ।  
+> यया । मनुः । विशिशिप्रं । जिगाय । यया । वणिक् । वंकुः । आप । पुरीषं ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमप्यंगिरसां वाक्यं । एत । आगच्छत। अगत्य च धियं स्तुतिः कृणवाम । कर.
+> नाम । हे सखायः परस्परं सखिभूता अंगिरस इत्यंगिरसां वचनं । या धीर्माता
+> गवां निर्मात्रि गोर्गवां व्रजं पणिभिरपहृतमप ऋणुत अपावृणोत् । यया
+> च मनुर्विशिशिप्रं निगतहनुं शत्रुं जिगाय जितवान् । यद्वा। मनुः सर्वस्य मंतें.
+> द्रो विशिशिप्रो वृत्रः । स तमस्माभिः कृतया स्तोमलक्षणया धिया जिगाय ।
+> यया च वणिक् वणिगिवाल्पेन कर्मणा बहुफलाकांक्षी कक्षीवान् वंकुर्जलेच्छया
+> वनगामि पुरीषं पूरकमुदकमाप । याभिः सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशः । ऋग्वे १. ११२. ११. । इति हि श्रुतं ॥
+
+##### Gist of the bhāṣya
+
+This too is a speech of the Aṅgirases. Come: having come, let us make a hymn of praise. O friends, that is, Aṅgirases who are friends to one another, this is their word. The hymn which, as a mother, a maker of cows, opened the cow-pen of the cows that had been carried off by the Paṇis; and by which Manu conquered Viśiśipra, an enemy whose jaw had fallen. Or else, Manu is Indra, the thinker of all, and Viśiśipra is Vṛtra; he conquered him by the hymn in the form of a stoma made by us. And by which the merchant, like a trader who desires much fruit from little work, Vaṅku, that is, Kakṣīvān, going to the forest from a wish for water, obtained the filling water. So it is heard in a verse that Sāyaṇa cites with its reference (Ṛgve 1. 112. 11), the passage in which Kakṣīvān is spoken of together with the Aśvins. **NOTE**
+
+### Printed p. 499
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माता (*mātā*)—the maker
+- या (*yā*)—which hymn
+- गोः (*goḥ*)—of the cows
+- व्रजं (*vrajaṃ*)—the cow-pen
+- अप ऋण्यत (*apa ṛṇyata*)—caused to be opened
+- यया (*yayā*)—by which hymn
+- मनुः (*manuḥ*)—intoxication **NOTE**
+- विशिशिप्रं (*viśiśipraṃ*)—the asura called Viśiśipra
+- जिगाय (*jigāya*)—conquered
+- यया (*yayā*)—with the help of which
+- वणिक् (*vaṇik*)—who deals as a merchant
+- कक्षीवंतनु (*kakṣīvaṃtanu*)—Kakṣīvān
+- वंकुः (*vaṃkuḥ*)—wandering in the forest from a wish for water
+- पुरीषं (*purīṣaṃ*)—water
+- आप (*āpa*)—obtained (such a)
+- धियं (*dhiyaṃ*)—hymn
+- कृणवामनिर्मिसि (*kṛṇavāmanirmisi*)—let us compose and recite
+- सखायः (*sakhāyaḥ*)—O friends, Aṅgirases
+- एत (*eta*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+The hymn that, as a mother, as soon as it was recited, caused the cow-pen of the cows carried off by the Paṇis to be opened; by which hymn Manu conquered the asuras called Viśiśipra; with the help of which Kakṣīvān, who dealt as a merchant, wandering in the forest from a wish for water, obtained water: let us compose and recite such a hymn. O friends, Aṅgirases, come, all of you.
+
+##### English translation
+Come, friends, let us celebrate that solemn rite which was effectual in setting open the (secret) stalls of the (stolen) cattle; by which Manu overcame Visisipra ; by which the merchant, going to the wood (for it), obtained the water.
+
+##### विशेषविषयगळु (Special Topics)
+
+विशिशिप्रं (*viśiśipraṃ*)—Here the commentator has explained the word Viśiśipra as Vṛtra. Vṛtra also means an enemy. Therefore the sense is suggested that in the present Ṛk Manu conquered his enemy by the power of the hymn he had made. Or it may be said that Viśiśipra is a person or an asura. In this context, since this word is recited only in this Ṛk and nowhere else, nothing can be said about him.
+
+यया वणिक् वंकुः पुरीषं आप (*yayā vaṇik vaṃkuḥ purīṣaṃ āpa*)—It is said here that the seer called Kakṣīvān, wandering in the forest for the sake of water, obtained water by the power of this hymn. But the commentator has cited the verse
+
+याभिः सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशो अक्षरत् । कक्षीवंतं स्तोतारं याभिरावतं ताभिरू षु ऊतिभिरश्विना गतं ॥ (*yābhiḥ sudānū auśijāya vaṇije dīrghaśravase madhu kośo akṣarat | kakṣīvaṃtaṃ stotāraṃ yābhirāvataṃ tābhirū ṣu ūtibhiraśvinā gataṃ ‖*) (Ṛ. Saṃ. 1-112-11)
+
+### Printed p. 500
+
+and in that Ṛk it is said that the seer Kakṣīvān praised the Aśvin deities and obtained protection from them. Whatever deity the hymn was recited to, Kakṣīvān obtained the fulfilment of his wish by the power of that hymn; therefore that matter is explained here in order to show that the greatness of that hymn is exceedingly high.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनू॑नो॒दत्र॒ हस्त॑यतो॒ अद्रि॒रार्च॒न्येन॒ दश॑ मा॒सो नव॑ग्वाः ।  
+> ऋ॒तं य॒ती स॒रमा॒ गा अ॑विंद॒द्विश्वा॑नि स॒त्यांगि॑राश्चकार ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनूनोत् । अत्र । हस्तयतः । अद्रिः । आर्चन् । येन । दश । मासः । नवग्वाः ।  
+> ऋतं । यती । सरमा । गाः । अविंदत् । विश्वानि । सत्या । अंगिराः । चकार ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्यज्ञेऽद्रिरभिषवग्रावा हस्तयतो हस्तेन संहतः सन् अनूनोत् ।
+> नौतिरत्र शब्दमात्रे वर्तते । अशब्दयत् । येन ग्राव्णा तदभिषवेण दश मासो
+> मासान् दशमासपर्यंतं नवग्वाः । नवमासपर्यंतं गवार्थमनुतिष्ठंतोऽंगिरसो नवग्वाः । नवगोयुक्ता वार्चन् अपूजयन्निंद्रं । यद्वा! दशसंख्याकमासोपेता दशमासानुष्ठाना अंगिरसोऽपरे नवग्वाल्मैते सर्वॆऽपि येनार्चंति ।
+> नवग्दासः सुतसोमास इंद्रं । ऋग्वे ५. २९ १२ । इति हि निगमः । ऋतं सत्यं यज्ञं
+> ना यती प्राप्नुवती सरमा सरणीला स्तुतिरूपा वागंगिरसां गवार्थमिंद्रॆण
+> प्रहिता देवशुनी वा गा अविंदत् पणिभिरपहृताः । विश्वानि सर्वाणि स्तुत्यादिलक्षणानि
+> सत्या सत्यानि चकारांगिराः ॥
+
+##### Gist of the bhāṣya
+
+Here, at this sacrifice, the pressing stone (adri), held in the hand, sounded; the root "nu" here has only the sense of making a sound. By this stone, through the pressing, the Navagvas, the Aṅgirases who performed the rite for the sake of cows for nine months, worshipped Indra for ten months. Or else, the other Aṅgirases, endowed with ten months and performing the rite for ten months, and these Navagvas, all worship by it. So the Vedic text has it: the verse with the Navagvas, the soma pressed, and Indra (Ṛgve 5. 29 12) **NOTE**. Reaching the truth, that is the sacrifice, Saramā, the swift speech in the form of praise of the Aṅgirases, or the divine bitch sent by Indra for the sake of the cows, found the cows carried off by the Paṇis. All the things, praise and the rest, the Aṅgirā made true.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by whose pressing stone
+- नवग्वाः (*navagvāḥ*)—the seers called Navagva
+- दश मास: (*daśa māsa:*)—for ten months entire
+- आर्चन् (*ārcan*)—worshipped (Indra), (such a)
+- अद्रिः (*adriḥ*)—pressing stone
+- अत्र (*atra*)—at this sacrifice
+- हस्तयतः (*hastayataḥ*)—held in the hand
+- अनूनोत् (*anūnot*)—
+
 ---
 
-**Progress note:** Done through printed p. 494. pp. 489-494: Ṛk 14-15 end of sūkta 44, sūkta 45 Ṛk 1-3
+**Progress note:** Done through printed p. 500. pp. 495-500: Ṛk 3 end, Ṛk 4-6, Ṛk 7 start of sūkta 45
