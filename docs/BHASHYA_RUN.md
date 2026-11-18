@@ -25,3 +25,7 @@ For the first sūkta of each volume, and about one sūkta in ten after that, the
 
 ## Volumes
 `bhashya_run.py` skips a volume whose English file is in an older layout (Vols 1–10, 12, 14, 15 on Nov 18 2026), has no text (13) or is not translated yet (19). They join the run when `publish/bhashya_book.py` can read their layout (shared tool, not a per-volume script).
+
+## For the user to settle once for the series
+- **Uṇādi-sūtra numbers**: the supplied text and the reference edition number them differently every time (found in Vol 16, 3.17–3.21: five NOTEs). From Nov 18 2026 the agents copy the supplied number without a NOTE; which numbering the book prints belongs with the abbreviation list.
+- **Sūkta introductions and whole bhāṣyas missing in the supplied text** but present in the reference edition (Vol 11: nine introductions; Vol 16: 3.10 introduction, 3.15 Ṛk 7): marked by NOTE, nothing added.
