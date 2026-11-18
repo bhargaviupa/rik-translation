@@ -12094,6 +12094,253 @@ Offerer of the oblation, frequent celebrator of sacrifice, now sit down on the f
 
 O Agni, the sacrificers devoted to your worship, desiring wealth from you, who have a shining colour, who have the qualities of अंगनादि (*aṃganādi*), who have an attractive form, who have a vast form,
 
+### Printed p. 367
+
+one distinguished by oblations and food, who shines at all times, and who goes along the path of the atmosphere together with innumerable Vasus: they have come near you.
+
+##### English translation
+Those who are assiduous in (worshipping) you for riches follow you, going with many Vasus by the path (of the firmament); you, the radiant Agni, of goodly aspect, mighty, fed with burnt-offerings, and blazing every day.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒दं दे॒वस्य॒ नम॑सा॒ व्यंतः॑ श्रव॒स्यवः॒ श्रव॑ आप॒न्नमृ॑क्तं ।  
+> नामा॑नि चिद्दधिरे य॒ज्ञिया॑नि भ॒द्रायां॑ ते रणयंत॒ संदृ॑ष्टौ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पदं । देवस्य । नमसा । व्यंतः । श्रवस्यवः । श्रवः । आपन् । अमृक्तं ।  
+> नामानि । चित् । दधिरे । यज्ञियानि । भद्रायां । ते । रणयंत । संसदृष्टौ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवस्य द्योतमानस्याग्नेः पदमावहनीयस्थानं नमसा हविषा स्तोत्रेण
+> वा व्यंतो गच्छंतः श्रवस्यवोऽन्नमिच्छंतः पूर्वे यजमानाः श्रवः सर्वत्र श्रूयमाणमन्नममुक्तमन्वैरपरिबाध्यमापन् । अप्पुवंति । हे अग्ने ते तव भद्रायां
+> स्तुत्यायां संदृष्टौ निमित्तायां रणयंत । रमयंति । यज्ञियानि यज्ञयोग्यानि
+> नामानि नमनीयानि वैश्वानरो जातवेदा इत्यादीनि दधिरे । धारयंति । अथवा
+> नमनसाधनानि स्तोत्राणि दधिरे ॥
+
+##### Gist of the bhāṣya
+
+Of the shining god Agni, the "pada" is the place of the Āhavanīya fire. The sacrificers of former times, going (vyantaḥ, "gacchantaḥ") there with an oblation or with praise (namasā), desiring food (śravasyavaḥ), obtain (āpan, "prāpnuvanti") śravas, that is, food that is heard of everywhere, amṛkta, unseized and not obstructed by others. O Agni, on account of the sight (saṃdṛṣṭi) of you that is praiseworthy (bhadrāyām) they rejoice (raṇayanta, "ramayanti"). They hold (dadhire, "dhārayanti") names fit for sacrifice (yajñiya) and worthy of homage, such as वैश्वानरो जातवेदा (*vaiśvānaro jātavedā*) and the like. Or else they hold hymns that are the means of bowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—(O Agni) of you, the worshipful
+- पदं (*padaṃ*)—the place in the form of the Āhavanīya
+- नमसा (*namasā*)—with food in the form of oblation
+- व्यंतः (*vyaṃtaḥ*)—those who come and gather (for the sacrifice)
+- श्रवस्यवः (*śravasyavaḥ*)—the sacrificers who desire food
+- अमृक्तं (*amṛktaṃ*)—that which cannot be taken away by anyone
+- श्रवः (*śravaḥ*)—food
+
+### Printed p. 368
+
+- अपन् (*apan*)—they obtain
+- ते (*te*)—your
+- भद्रायां (*bhadrāyāṃ*)—auspicious
+- संदृष्टौ (*saṃdṛṣṭau*)—on account of the sight
+- रणयंत (*raṇayaṃta*)—they rejoice
+- यज्ञियानि (*yajñiyāni*)—worthy of worship
+- नामानि चित् (*nāmāni cit*)—names also, such as Jātavedas and the like
+- वधिरे (*vadhire*)—they obtain in the form of meditation (they recite)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers, who come and gather for your worship, bringing food in the form of oblation to your place, the Āhavanīya, and who desire food, have prepared food that cannot be taken away by anyone. They rejoice on account of the auspicious sight of you. They recite also your names that are worthy of worship, such as Jātavedas.
+
+##### English translation
+Men desirous of food obtain abundance unopposed when repairing to the station of the divinity with oblations ; and when delighting, Agni, in your auspicious persence, they repeat those your names which are to be uttered at sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+व्यंतः (*vyaṃtaḥ*)—going. Yāska has given the etymology of this word thus: व्यंत इत्येषोऽनेककर्मा । पदं देवस्य नमसा व्यंतः इति पश्यतिकर्मा । व्रीहि शूर पुरोळाशं इति खादतिकर्मा । वीतं पातं पयस उस्रियायाः अश्नीतं पिबतं पयस उस्रियायाः । उस्रियेति गोनाम । उस्राविणोऽस्यां भोगाः । उस्रेति च ॥ (*vyaṃta ityeṣo 'nekakarmā | padaṃ devasya namasā vyaṃtaḥ iti paśyatikarmā | vrīhi śūra puroḷāśaṃ iti khādatikarmā | vītaṃ pātaṃ payasa usriyāyāḥ aśnītaṃ pibataṃ payasa usriyāyāḥ | usriyeti gonāma | usrāviṇo 'syāṃ bhogāḥ | usreti ca ‖*) (Ni. 4-19)
+
+That is: in the Ṛk पदं देवस्य नमसा व्यंतः (*padaṃ devasya namasā vyaṃtaḥ*) (Ṛ. Saṃ. 6-1-4) the word vyantaḥ is used in the sense of "seeing". Sāyaṇa has taken it to mean "they approach". In the Ṛk इमा ब्रह्म ब्रह्मवाहः (*imā brahma brahmavāhaḥ*) (Ṛ. Saṃ. 3-41-3) the word is used in the sense of "eating". In the Ṛk उत वां विक्षु (*uta vāṃ vikṣu*) (Ṛ. Saṃ. 1-153-4) also the word वीतं (*vītaṃ*) has the meaning "eating". The word उस्रिया (*usriyā*) means a cow, because in this cow the means of enjoyment, such as milk, flow, that is, are milked. Therefore the main sense of the etymology is that the word उस्रिया (*usriyā*) or उस्रा (*usrā*) means a cow.
+
+### Printed p. 369
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां व॑र्धंति क्षि॒तयः॑ पृथि॒व्यां त्वां राय॑ उ॒भया॑सो॒ जना॑नां ।  
+> त्वं त्रा॒ता त॑रणे॒ चेत्यो॑ भूः पि॒ता मा॒ता सद॒मिन्मानु॑  
+> षाणां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । वर्धंति । क्षितयः । पृथिव्यां । त्वां । रायः । उभयासः । जनानां ।  
+> त्वं । त्राता । तरणे । चेत्यः । भूः । पिता । माता । सदं । इत् । मानुषाणां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां क्षितयो मनुष्या ऋत्विजः पृथिव्यां वेदिलक्षणायां वर्धंति ।
+> वर्धयंति । उभयास उभयविधानि पश्वपशुरूपाणि जनानां यजमानानां
+> संबंधीनि रायो धनान्यृत्तिजोऽध्वय्यादयस्त्वां त्वामुद्दिश्य वर्धंति । अथवोभयविधानि धनानि गनादीनि जनानां पुत्रादीनामर्थाय प्राप्तुं त्वां वर्धंति । हे
+> तरणे दुःखात्तारकाग्ने त्वं चेत्यो ज्ञातव्यः स्तुत्यः सन् त्राता रक्षिता भूः । भवसि ।
+> किंच मानुषाणां मनुष्याणां स्तोत्यणामस्माकं सदमित्सर्वदा पिता माता च
+> मातापितृस्थानीयो भूः । भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the kṣitayaḥ, that is, men, the priests, make you grow on the earth in the form of the altar. The riches (rāyaḥ) of the sacrificers (janānām) are of two kinds (ubhayāsaḥ), consisting of animals and of what is not animals; the priests, the Adhvaryu and the others, increase them with reference to you. Or else: they increase you in order to obtain the two kinds of wealth, such as गनादीनि (*ganādīni*),**NOTE** for the sake of the sons and others of the people. O taraṇe, Agni who carry across from suffering, you, to be known (cetya) and praised, have become the protector (trātā). Moreover you have always become father and mother to men (mānuṣāṇām), us your praisers, standing in the place of mother and father.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वां (*tvāṃ*)—(O Agni) you
+- क्षितयः (*kṣitayaḥ*)—the sacrificers
+- पृथिव्यां (*pṛthivyāṃ*)—in the place of the altar
+- वर्धंति (*vardhaṃti*)—cause to grow
+- जनानां (*janānāṃ*)—to men
+- उभयासः (*ubhayāsaḥ*)—in the form of cattle and wealth
+- रायः (*rāyaḥ*)—bringing riches
+- त्वां (*tvāṃ*)—you (they worship for the sake of those riches)
+- तरणे (*taraṇe*)—O protecting Agni
+- त्वं (*tvaṃ*)—you
+- चेत्यः (*cetyaḥ*)—worshipful
+- त्राता (*trātā*)—as protector
+- भूः (*bhūḥ*)—you have become
+- मानुषाणां (*mānuṣāṇāṃ*)—to men
+- सदमित् (*sadamit*)—at all times
+- माता (*mātā*)—as mother
+- पिता (*pitā*)—as father you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers cause you to blaze up and grow in the place of the altar. They worship you, who bring to men riches in the form of cattle and wealth, for the sake of those riches.
+
+### Printed p. 370
+
+O Agni, the protector, you have become a worshipful protector. To men you are at all times both mother and father.
+
+##### English translation
+Men exalt you upon earth : they exalt you for both kinds of affluence, (cattle and treasure, which you bestow upon) men : you who extricate (us from evil) are to be known as our preserver, as the unfailing father and mother of mankind.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प॒र्येण्यः॒ स प्रि॒यो वि॒क्ष्व१॒॑ग्निर्होता॑ मं॒द्रो नि ॒॑ ॑
+> ष॑सादा॒ यजी॑यान् ।  
+> तं त्वा॑ व॒यं दम॒ आ दी॑दि॒वांस॒मुप॑ ङ्जु॒बाधो॒ नम॑सा  
+> सदेम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सपर्येण्यः । सः । प्रियः । विक्षु । अग्निः । होता । मंद्रः । नि । ससाद । यजीयान् ।  
+> तं । त्वा । वयं । दमे । आ । दीदिवांसं । उप । ङ्जुबाधः । नमसा । सदेम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः सपर्येण्यः पूज्यः प्रियः कामानां पूरको विक्षु प्रजासु होता
+> होमनिष्पादको मंद्रो मदनीयो यजीयानतिशयेनेतरदेवानां यष्टा
+> यजनीयो वा । एवं महानुभावोऽग्निर्नि षसाद । निषण्णोऽभूत् । अथ प्रत्यक्षकृतः । तं त्वा तादृशं त्वां वयं यजमाना दमे गृहे दीदिनांसं दीप्यमानं
+> ज्जुबाधः जानुनी बाधयंतोऽवनतजानवः प्रणताः संतो नमसा स्तोत्रेणोपा
+> सदेम । आसादयेम । अथवोपासीदेमेत्येवमाशास्त्रे ॥
+
+##### Gist of the bhāṣya
+
+That Agni is worthy of worship (saparyeṇya) and dear (priya), the fulfiller of desires. Among the people (vikṣu) he is the Hotṛ, the accomplisher of the offering; he is mandra, delightful; he is yajīyān, the best sacrificer to the other gods, or else the one who is to be sacrificed to. Such a greatly powerful Agni has sat down; then he was made visible. We, the sacrificers, in the house (dame) approach you who are blazing, bending our knees (jñubādhaḥ, "bending the knees", bowing low), with praise (namasā). "May we approach" (upa sadema) means "may we bring near"; or else it is a wish "may we sit near".**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सपर्येण्यः (*saparyeṇyaḥ*)—worthy of worship
+- प्रियः (*priyaḥ*)—fulfiller of desires
+- विक्षु (*vikṣu*)—among the people
+- होता (*hotā*)—accomplisher of the offering
+- मंद्रः (*maṃdraḥ*)—giver of delight
+
+### Printed p. 371
+
+- यजीयान् (*yajīyān*)—one who conducts the sacrifice in the highest degree
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- निषसाद (*niṣasāda*)—has been established (O Agni)
+- दीदिवासं (*dīdivāsaṃ*)—shining
+- तं त्वा (*taṃ tvā*)—you such as that
+- वयं (*vayaṃ*)—we
+- दमे (*dame*)—in the house of sacrifice
+- ज्ञुबाधः (*jñubādhaḥ*)—bowing down on bended knee
+- नमसा (*namasā*)—with praise
+- उप आ सदेम (*upa ā sadema*)—we approach
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is worthy of worship, the fulfiller of desires, the accomplisher of the offering among the people, the giver of delight, and the one who conducts the sacrifice in the highest degree, has been established in the house of sacrifice. O Agni, we approach you who are shining, bowing down on bended knee and with praise.
+
+##### English translation
+Agni, who is adorable, affectionate, the offerer of oblations amongst men, the giver of delight, the celebrator of worship, has sat down (upon the altar: let us approach you, kindled in our dwellings, on bended knees, with praise.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ व॒यं सु॒ध्यो॒३॒॑ नव्य॑मग्ने सुम्ना॒यव॑ ईमहे देव॒यंतः॑ ।  
+> त्वं विशो॑ अनयो॒ दीद्या॑नो दि॒वो अ॑ग्ने बृह॒ता रो॑च॒नेन॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वां । वयं । सुध्यः । नव्यं । अग्ने । सुम्नयवः । ईमहे । देवयंतः ।  
+> त्वं । विशः । अनयः । दीद्यानः । दिवः । अग्ने । बृहता । रोचनेन ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तं तादृशं महानुभावं नव्यं स्तुत्यं त्वा त्वां सुध्यः शोभनबुद्धयः सुम्नायवः सुखमिच्छंतो देवयंतो देवं त्वामिच्छंतो वयमी-
+
+##### Gist of the bhāṣya
+
+O Agni, to you, such a greatly powerful and praiseworthy (navya) one, we who are of good mind (sudhyaḥ), desiring happiness (sumnāyavaḥ), and desiring you as god, make our request (īmahe).
+
+### Printed p. 372
+
+> महे । याचामहे । स्तुम इत्यर्थः । हे अग्ने त्वं दीद्यानो दीप्यमानः सन् ।
+> केन । बृहता महता रोचनेन रोचमानेन तेजसा दीद्यानो विशः प्रजाः
+> स्तोत्थनस्मान् दिवः स्वर्गमनयः । अगमयः । रोचनेनादित्येन दिवमगमय इति
+> वा संबंधः । आदित्यमार्गेणेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"We make our request" means "we praise". O Agni, you are shining (dīdyāna). By what? By great, radiant brilliance. Shining thus, you have led (anayaḥ, "agamayaḥ") the people (viśaḥ), us your praisers,**NOTE** to heaven (divaḥ), that is, to the world of svarga. Or else the connection is: with the sun, which is the rocana, you led them to heaven; that is, by the path of the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नव्यं (*navyaṃ*)—praiseworthy
+- तं त्वा (*taṃ tvā*)—you, the same
+- सुध्यः (*sudhyaḥ*)—possessed of excellent intelligence
+- सुम्नायवः (*sumnāyavaḥ*)—desirous of wealth
+- देवयंतः (*devayaṃtaḥ*)—desiring the favour of the gods
+- वयं (*vayaṃ*)—we
+- ईमहे (*īmahe*)—we beg
+- अग्ने (*agne*)—O Agni
+- बृहता (*bṛhatā*)—abundant
+- रोचनेन (*rocanena*)—with brilliance
+- दीद्यानः (*dīdyānaḥ*)—shining
+- त्वं (*tvaṃ*)—you
+- विशः (*viśaḥ*)—the sacrificers
+- दिवः (*divaḥ*)—to heaven
+- अनयः (*anayaḥ*)—you lead
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we, who have excellent intelligence, who desire wealth and who desire the favour of the gods, praise you, the praiseworthy. O Agni, you who shine with abundant brilliance lead the sacrificers to heaven.
+
+##### English translation
+Intelligent, hoping for happiness, and devout, we glorify you, adorable Agni: shining with exceeding lustre, lead men to heaven.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शां क॒विं वि॒श्वतिं॒ शश्व॑तीनां नि॒तोष॑नं वृष॒भं च॑र्षणी॒नां ।  
+> प्रेती॑षणिमि॒षयं॑तं पाव॒कं राजं॑तम॒ग्निं य॑ज॒तं र॑या॒णां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशां । कविं । विश्वतिं । शश्वतीनां । नितोशनं । वृषभं । चर्षणीनां ।  
+> प्रेति इषणिं । इषयंतं । पावकं । राजंतं । अग्निं । यजतं । रयाणां ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 366. Mandala 6 introduction end, Sukta 6.1 Rk 1-3
+**Progress note:** Done through printed p. 372. Sukta 6.1 Rk 4-8 (Rk 8 verse and pada)
