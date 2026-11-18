@@ -14,3 +14,4 @@
 | through p. 247 (three windows in one agent: pp. 230–247) | sonnet | 16 | 176826 | 6.1 |
 | through p. 265 (three windows in one agent: pp. 248–265) | sonnet | 13 | 161789 | 4.4 |
 | through p. 271 (ONE window only: pp. 266–271; verify failed on a `##` Pariśiṣṭa heading, repaired by dispatcher) | sonnet | 6 | 117732 | 1.9 |
+| through p. 283 (two windows: pp. 272–283; verify failed on window 2 for an extra Saṃhitā label, repaired by dispatcher) | sonnet | 10 | 189388 | 5.8 |

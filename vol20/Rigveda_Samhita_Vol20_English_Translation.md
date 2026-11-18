@@ -10180,8 +10180,6 @@ Here ends the explanation of the meaning of the first Ṛk.
 
 भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं । केयूरैर्मेखलाद्यैर्नवमणिखचितैर्भूषणैर्भासमानां कर्पूरामोदवक्रामपरिमितकृपापूर्णनेत्रागविंदां । हेमाभां दिव्यवस्त्रं मृगमदतिलकां पद्मवक्रामुदारां श्रीलक्ष्मीं पद्महस्तां नतजनवरदां सर्वभूतै नमामि (*bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ | keyūrairmekhalādyairnavamaṇikhacitairbhūṣaṇairbhāsamānāṃ karpūrāmodavakrāmaparimitakṛpāpūrṇanetrāgaviṃdāṃ | hemābhāṃ divyavastraṃ mṛgamadatilakāṃ padmavakrāmudārāṃ śrīlakṣmīṃ padmahastāṃ natajanavaradāṃ sarvabhūtai namāmi*)
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 ओं तां म आवह जातवेदो लक्ष्मीमनपगामिनीं । यस्यां हिरण्यं विंदेयं गामश्वं पुरुषानहं ॥ (*oṃ tāṃ ma āvaha jātavedo lakṣmīmanapagāminīṃ | yasyāṃ hiraṇyaṃ viṃdeyaṃ gāmaśvaṃ puruṣānahaṃ ‖*)
 
 ### Printed p. 283
