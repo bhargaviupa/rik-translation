@@ -17858,6 +17858,272 @@ The mortal who by praise, by prayers, by sacrifices, attracts, Son of strength, 
 > ता नृभ्य॒ आ सौ॑श्रव॒सा सु॒वीराग्ने॑ सूनो सहसः पु॒ष्यसे॑ धाः ।  
 > कृ॒णोषि॒ यच्छव॑सा॒ भूरि॑ प॒श्वो वयो॒ वृका॑या॒रये॒ जसु॑रये ॥ ५ ॥
 
+### Printed p. 521
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नृभ्यः । आ । सौश्रवसा । सुवीरा । अग्ने । सूनो इति । सहसः । पुष्यसे । धाः ।  
+> कृणोषि । यत् । शवसा । भूरि । पश्वः । वयः । वृकाय । अरये । जसुरये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो सहसस्पुत्राग्ने सुवीरा शोभनैः पुत्रैरुपेतानि सौश्रवसा
+> सुश्रवांसि शोभनान्यन्नानि ता तानि नृभ्यः शत्रुजनेभ्य आहृत्य धाः । अस्मासु धेहि ।
+> किमर्थ० । पुष्यसे पोषार्थ० । यद्वा । नृभ्यः स्तुतीनां नेतृभ्योऽस्मभ्यमाधेहि ।
+> अभिमुख्येन प्रयच्छ । शवसा बलेन युक्तस्त्वं भूरि बहुलं पश्वः पशोः संबंधि
+> दध्यादिलक्षणं यद्वयोऽन्नं वृकायादात्रे जसुरय उपक्षपयित्र अरये शत्रवे
+> कृणोषि करोषि तदन्न माहृत्य प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, bring from the enemy folk those riches, rich in excellent sons (सुवीरा (*suvīrā*)) and in good food (सौश्रवसा (*sauśravasā*)), and place them in us. For what purpose? For our nourishment. Or else: place them in us, the leaders of praises, and give them directly to us. You, joined with strength, make that abundant sustenance from cattle, such as curds, for the enemy who does not give and who harasses; bring that food, and give it to us. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- सुवीरा (*suvīrā*)—that which is accompanied by excellent sons
+- सौश्रवसा (*sauśravasā*)—that which has excellent food
+- ता (*tā*)—and that renowned (wealth)
+- नृभ्यः (*nṛbhyaḥ*)—for us, the praisers
+- आ धाः (*ā dhāḥ*)—fill in
+- शवसा (*śavasā*)—you who are joined with strength
+- भूरि (*bhūri*)—abundant
+- पश्वः (*paśvaḥ*)—that which comes from cattle, in the form of milk and the like
+- यत् वयः (*yat vayaḥ*)—which food
+- वृकाय (*vṛkāya*)—for the one who does not give
+- जसुरये (*jasuraye*)—who is harmful
+- अरये (*araye*)—for the enemy
+- कृणोषि (*kṛṇoṣi*)—you produce (prepare that food for us alone)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, fill in for us, your praisers, the renowned wealth that is accompanied by excellent sons and has excellent food. The abundant food from cattle, in the form of milk and the like, which you, joined with strength, produce for the enemy who does not give and who is harmful, prepare that food for us alone.
+
+##### English translation
+Grant, Son of strength, to men (who praise you), those abundant viands and excellent descendants, (that may contribute) to their prosperity: grant also that copious sustenance from cattle, which by your strength you take away from a churlish and malignant adversary.
+
+### Printed p. 522
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒द्मा सू॑नो सहसो नो॒ विहा॑या॒ अग्ने॑ तो॒कं तन॑यं ॒ ॑
+> वा॒जि नो॑ दाः ।  
+> विश्वा॑भिगीर्ग॒र्भिर॒भि पू॒र्तिम॑श्यां॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वद्मा । सूनो इति । सहसः । नः । विहायाः । अग्ने । तोकं । तनयं । वाजि । नः ।  
+> दाः ।  
+> विश्वाभिः । गीर्गर्भिः । अभि । पूर्तिं । अश्यां । मदेम । शतहिमाः । सुवीराः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनोऽग्ने विहायाः । महन्नामैतत् । महांस्त्वं नोऽस्माकं
+> वद्मा वदिता हितोपदेष्टा भव । अपि च तोकं पुत्रं तनयं तत्पुत्रं च वाजि
+> अन्नयुक्तं नोऽस्मभ्यं दाः । देहि । अहं स्तोता विश्वाभिः सर्वाभिर्गर्भिस्त्वद्विषयाभिः पूर्तिं कामानां पूर्तिमभ्यश्यां । अभिप्राप्नुयां । अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, विहायाः (*vihāyāḥ*) is a name meaning "great": you, the great one, be for us a speaker, a giver of counsel for our good. And give us a son, a grandson, and food. I, the praiser, with all praises that have you as their subject, would attain the fulfilment of my desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- विहायाः (*vihāyāḥ*)—you, the great one
+- नः (*naḥ*)—to us
+- वद्या (*vadyā*)—be a counsellor for our good
+- तोकं (*tokaṃ*)—a son
+- तनयं (*tanayaṃ*)—a grandson
+- वाजि (*vāji*)—food
+- नः (*naḥ*)—to us
+- दाः (*dāḥ*)—give
+- विश्वाभिः (*viśvābhiḥ*)—all
+- गीर्भिः (*gīrbhiḥ*)—by means of praises
+- पूर्तिं (*pūrtiṃ*)—the fulfilment of my desires
+- अभि आश्यां (*abhi āśyāṃ*)—may I obtain
+- सुवीराः (*suvīrāḥ*)—accompanied by excellent sons
+- शतहिमाः (*śatahimāḥ*)—a hundred years
+- मदेव (*madeva*)—may we be in joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you, the great one, be our counsellor for our good. Give us a son, a grandson and food. By means of all praises may I obtain the fulfilment of my desires. Accompanied by excellent sons, may we be in joy for a hundred years.
+
+### Printed p. 523
+
+##### English translation
+Agni, Son of strength, you are mighty, be our councillor : give us sons and grandsons, together with food : may I, by all my praises, obtain the fulfilment of my desires: may we, blessed with excellent male descendants, enjoy happiness for a hundred winters
+
+## Sūkta 14 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ना य इति षडृचं चतुर्दशं सूक्तं भरद्वाजस्यार्षमाग्नेयं । षष्ठी
+> शक्वरी शिष्टाः पंचानुष्टुभः । तथा जानुक्रांतं । अग्ना य आनुष्टुभं शक्वर्यंतमिति ॥ प्रातरनुवाक अग्नेये क्रतावाश्विनशस्त्रे चेदं सूक्तं । सूत्रितं च । अग्ना
+> यो होताजनिष्ट । आ. ४-१३ । इति ॥ अत्रेश्चतुर्वीराख्ये चतूरात्रॆऽहीने
+> तृतीयेऽहनीदं सूक्तमाज्यशस्त्रं । सूत्रितं च । अग्ना यो मर्त्यो दुव इति
+> तृतीये । आ. १०-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the fourteenth sūkta, of six Ṛks. Its seer is Bharadvāja and its deity is Agni. The sixth Ṛk is in the Śakvarī metre and the remaining five are Anuṣṭubh, as the Anukramaṇikā says in the words अग्ना य आनुष्टुभं शक्वर्यंतमिति (*agnā ya ānuṣṭubhaṃ śakvaryaṃtamiti*). The sūkta is used in the Prātaranuvāka, in the Āgneya kratu, and in the Āśvina-śastra; this is laid down in the sūtra अग्ना यो होताजनिष्ट (*agnā yo hotājaniṣṭa*) (Ā. 4-13). In the four-night rite called Caturvīra, a sacrifice of the ahīna kind, this sūkta serves on the third day as the Ājya-śastra; this is laid down in the sūtra अग्ना यो मर्त्यो दुव इति तृतीये (*agnā yo martyo duva iti tṛtīye*) (Ā. 10-2).
+
+The Kannada Anuvāda says the same: the sūkta is the fourteenth in the first Anuvāka and has six Ṛks; Bharadvāja is the seer and Agni the deity; the sixth Ṛk is in the Śakvarī metre and the other five in Anuṣṭubh; the use for the mantras of the Āgneya kratu in the Prātaranuvāka and for the Āśvina-śastra mantras is explained by the Āśvalāyana Śrauta Sūtra; and the use of this sūkta for the Ājya-śastra mantras on the third day of the Caturvīra four-day sacrifice performed by the seer Atri is explained by the Āśvalāyana Śrauta Sūtra.
+
+- Maṇḍala 6, Anuvāka 1, Sūkta 14
+- Aṣṭaka 4, Adhyāya 5, Varga 16
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Devatā: आग्निः (*āgniḥ*)
+- Chandas: Ṛks 1-5 अनुष्टुप् (*anuṣṭup*); Ṛk 6 शक्वरी (*śakvarī*)
+
+### Printed p. 524
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्ना यो मत्यो॒र् दुवो॒ धियं॑ जु॒जोष॑ धी॒तिभिः॑ ।  
+> भस॒न्नु ष प्र पू॒र्व्य इषं॑ पुरी॒ताव॑से ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ना । यः । मर्त्य९ः । दुवः । धियं । जुजोष । धीतिभिः ।  
+> भसत् । नु । सः । प्र । पूर्व्य९ः । इषं । पुरीत । अवसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्त्यो मनुष्योग्नाग्नावग्नि विषयं दुवः परिचरणं धियं कर्म च
+> यज्ञादिलक्षणं धीतिभिः स्तुतिभिः सार्धं जुजोष सेवते आचरति स मर्त्यः पूर्व्यः
+> पूर्वेषां मुख्यः सन् नु क्षिप्रं प्र भसत् । प्रभासेत । प्रकृष्टप्रकाशवान् भवेत् ।
+> अवसे पुत्रादीनां रक्षणार्थमिषमन्नं च पुरीत । वृणीत । संभजेत । शत्रुसकाशाल्लभेतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, who offers service to Agni and the rite of sacrifice and the like, together with praises, that mortal, becoming foremost among the earlier ones, quickly shines forth; that is, he becomes possessed of excellent radiance. For the protection of sons and the rest he also obtains food; that is, he receives it from the enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- मर्त्यः (*martyaḥ*)—man
+- आग्ना (*āgnā*)—directed to Agni
+- दुवः (*duvaḥ*)—worship
+- धियं (*dhiyaṃ*)—the rite of sacrifice and the like
+- धीतिभिः (*dhītibhiḥ*)—together with praises
+- चुजोष (*cujoṣa*)—performs
+- सः (*saḥ*)—that same man
+- पूर्व्यः (*pūrvyaḥ*)—foremost of all
+- नु (*nu*)—quickly
+- प्र भसत् (*pra bhasat*)—shines
+- अवसे (*avase*)—for the protection of sons and the rest
+- इषं (*iṣaṃ*)—food
+- पुरीत (*purīta*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+The man who performs worship directed to Agni, and the rite of sacrifice and the like, together with praises, that same man, foremost of all, quickly shines. He obtains food for the protection of his sons and the rest.
+
+##### English translation
+May the mortal who propitiates Agni by devotion and worship, together with praises, quickiy become distinguished as first (amongst men), and acquire ample food for the support (of his children).
+
+### Printed p. 525
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरिद्दि प्रचे॑ता अ॒ग्निर्वे॒धस्त॑म॒ ऋषिः॑ ।  
+> अ॒ग्निं होता॑रमीळते य॒ज्ञेषु॒ मनु॑षो॒ विशः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । इत् । हि । प्रचेताः । अग्निः । वेधःतमः । ऋषिः ।  
+> अग्निं । होतारं । ईळते । यज्ञेषु । मनुषः । विशः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरिदग्निरेव प्रचेताः प्रकृष्टज्ञानवान् नान्यः कश्चित् । हि यस्मादेवं
+> तस्माद्वेधस्तमो विधातृतमोऽतिशयेन हनिर्वहनादीनां कर्मणां कर्ता ऋषिः
+> सर्वस्य द्रष्टा च भवति । मनुषो मनुष्यस्य यजमानस्य विशः प्रजा ऋत्विग्लक्षणा
+> होतारं देवानामाह्वातारं तादृशमग्निं यज्ञेषु यागेष्वीळते । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Agni alone is of excellent knowledge; no one else is. Since this is so, he is the greatest maker, the supreme performer of rites such as the carrying of oblations, and he is a seer, the beholder of all. The people (विशः (*viśaḥ*)) of the man, the sacrificer, that is, those who are the priests, praise at the sacrifices such an Agni, the invoker of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निरित् (*agnirit*)—Agni alone
+- प्रचेताः (*pracetāḥ*)—possessor of excellent knowledge
+- हि (*hi*)—for that very reason
+- वेधस्तमः (*vedhastamaḥ*)—the best performer of rites
+- ऋषिः (*ṛṣiḥ*)—one who has the power to see everything
+- मनुष्य (*manuṣya*)—belonging to the sacrificer, the man
+- विशिः (*viśiḥ*)—all the people
+- होतारं (*hotāraṃ*)—who invites the gods to the sacrifice
+- अग्निं (*agniṃ*)—Agni
+- यज्ञेषु (*yajñeṣu*)—at the sacrifices
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Agni alone is possessed of excellent knowledge, and for that very reason he is the best performer of rites and has the power to see everything. All the people belonging to the man who is the sacrificer praise at the sacrifices Agni, who invites the gods to the sacrifice.
+
+##### English translation
+Agni verily is most wise ; he is the chief performer of religious rites a holy sage : the progeny of men glorify Agni as the invoker of the gods at sacrifices.
+
+### Printed p. 526
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाना॒ ह्य१॒॑ग्नेऽव॑से॒ स्पंधं॑ते॒ रायो॑ अ॒र्यः ।  
+> तूर्वं॑तो॒ दस्यु॑मा॒यवो॑ व्र॒तैः सीक्षं॑तो अव्र॒तं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाना । हि । अग्ने । अवसे । स्वर्धंते । रायः । आर्यः ।  
+> तूर्वंतः । दस्युं । आयवः । व्रतैः । सीक्षंतः । अव्रतं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अर्योऽरेः शत्रो रायो धनान्यवसे त्वत्तोत्थाणां रक्षणार्थं
+> नाना शत्रुसकाशात्पृथग्भूताः स्पर्धंते । अहमेव पालयान्यहमेव पालयानीति
+> स्पर्धां कुर्वंति । आयवो मनुष्यास्ते च स्तोतारो दस्युमुपक्षपयितारं शत्रुं
+> तूर्वंतो हिंसंतो व्रतैस्त्वद्देवत्यैर्यागैरव्रतं व्रतविरोधिनं च पुरुषं
+> सीक्षंतः सोढुमभिभवितुमिच्छंतो भवंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the riches of the enemy, separated in many ways from the enemy's side, contend for the protection of those who have arisen from you; each says, "I alone shall protect, I alone shall protect." The men, the praisers, harassing the dasyu, the enemy who wastes away others, by rites addressed to you, wish to endure and overcome the man who is without rites, who opposes the rites.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अवसे (*avase*)—to protect your praisers
+- आर्यः (*āryaḥ*)—from the enemies
+- नाना (*nānā*)—in many ways
+- रायः (*rāyaḥ*)—the riches that have been seized
+- स्पर्धंते (*spardhaṃte*)—contend in the protection of the sacrificer
+- आयवः (*āyavaḥ*)—men who are your praisers
+- दस्युं (*dasyuṃ*)—the harmful enemy
+- तूर्वंतः (*tūrvaṃtaḥ*)—harassing
+- व्रतैः (*vrataiḥ*)—by rites such as sacrifice
+- अव्रतं (*avrataṃ*)—the one fallen from rites
+- सीक्षंतः (*sīkṣaṃtaḥ*)—become able to face
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, riches that have been seized in many ways contend in the protection of the sacrificer, each saying "I, I", in order to protect your praiser. The men who are your praisers, harassing the harmful enemy, become able by rites such as sacrifice to face the one fallen from rites.
+
+##### English translation
+The manifold treasures of the enemy (detached from them) are emulous, Agni, for the presrvation (of your worshippers) : men who worship
+
 ---
 
-**Progress note:** Done through printed p. 520. Sukta 13 intro, Rk 1-4 complete, Rk 5 samhita
+**Progress note:** Done through printed p. 526. Rk 5-6 of sukta 13, sukta 14 Rk 1-3
