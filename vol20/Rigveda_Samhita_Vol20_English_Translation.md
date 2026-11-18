@@ -19492,6 +19492,216 @@ In the second anuvāka there are eight sūktas. Among them the first sūkta, त
 
 Translation: In the second anuvāka of the sixth maṇḍala there are eight sūktas. Among them this sūkta, त्वमग्ने यज्ञानां (*tvamagne yajñānāṃ*), is the first. It has forty-eight Ṛks. The seer of this sūkta is Bharadvāja; the deity is Agni. The first and the sixth Ṛks of this sūkta are of the metre called Vardhamānā Gāyatrī. This metre Vardhamānā has three pādas: the first pāda has six syllables, the second seven, the third eight; thus the characteristic of this metre is stated in the Anukramaṇikā. The twenty-seventh Ṛk of this sūkta, and the forty-seventh and forty-eighth Ṛks, आ ते अग्ने (*ā te agne*) and अग्निं देवासः (*agniṃ devāsaḥ*), are of the Anuṣṭubh metre. The forty-sixth Ṛk, नीती यो देवं (*nītī yo devaṃ*), is of the Triṣṭubh metre. The remaining forty-two Ṛks are of the Gāyatrī metre. In the Anukramaṇikā it is said: त्वमग्नेऽष्टाचत्वारिंशद्दायत्रं वर्धमानाद्या षष्ठि च सप्तविंश्यनुष्टुप् त्रिष्टुप् पूर्वे चांत्ये (*tvamagne 'ṣṭācatvāriṃśaddāyatraṃ vardhamānādyā ṣaṣṭhi ca saptaviṃśyanuṣṭup triṣṭup pūrve cāṃtye*). In the recitation of the mantras of the Prātaranuvāka and of the Āśvina śastra, this sūkta is applied for the mantras of the Gāyatrī metre connected with the Āgneya kratu,
 
+### Printed p. 563
+
+is stated. But the last three Ṛks are to be left out. This matter is explained by the Āśvalāyana Śrauta Sūtra, त्वमग्ने यज्ञानामिति तिस्र उत्तमामुद्धरेत् (*tvamagne yajñānāmiti tisra uttamāmuddharet*) (Ā. 4-13). **NOTE** And in the sacrifice called Viśvajit, when the mantras of the Āgnimāruta śastra are recited, on the occasion of reciting the Agniṣṭoma-sāman mantra in place of the Bṛhatsāman mantra, the first six Ṛks of this sūkta are to be recited as stotriya and anurūpa mantras; this is explained by the Āśvalāyana Śrauta Sūtra, त्वमग्ने यज्ञानामिति स्तोत्रियानुरूपा (*tvamagne yajñānāmiti stotriyānurūpā*) (Ā. 8-7).
+
+- Maṇḍala 6, Anuvāka 2, Sūkta 16
+- Aṣṭaka 4, Adhyāya 5, Varga 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+- Number of Ṛks in the sūkta: 48
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Devatā: अग्निः (*agniḥ*)
+- Chandas: Ṛks 1, 6 Vardhamānā; 2-5, 7-26, 28-45 Gāyatrī; 46 Triṣṭup; 27, 47, 48 Anuṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने य॒ज्ञानां॒ होता॒ विश्वे॑षां हि॒तः ।  
+> दे॒वेभि॒र्मानु॑षे॒ जने॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । यज्ञानां । होता । विश्वेषां । हितः ।  
+> देवेभिः । मानुषे । जने ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं विश्वेषां सर्वॆषां सप्तसंस्थारूपेण भिन्नानां यज्ञानां
+> होता होमनिष्पादकोऽसि । यद्वा । यज्ञानां संबंधी देवानामाह्वाता भवसि ।
+> कुत इत्यत आह । यस्मात्त्वं मानुषे मनोः संबंधिनि मनुष्ये जने यजमाने
+> देवेभिर्देवैर्हितो होतृत्वेन निहितोऽसि तस्मादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are the hotā, the accomplisher of the oblation, of all the sacrifices, which are differentiated in the form of the seven saṃsthās. Or else: you are the caller of the gods in connection with the sacrifices. Why so? Because among the man, the sacrificer, who belongs to Manu, you have been placed by the gods as hotā; therefore: this is the meaning.
+
+### Printed p. 564
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यस्मात् (*yasmāt*)—for which reason
+- मानुषे (*mānuṣe*)—belonging to Manu
+- जने (*jane*)—in the man, the sacrificer
+- देवेभिः (*devebhiḥ*)—by the gods
+- हितः (*hitaḥ*)—you have been established (therefore)
+- त्वं (*tvaṃ*)—you
+- विश्वेषां (*viśveṣāṃ*)—all
+- यज्ञानां (*yajñānāṃ*)—for the sacrifices
+- होता (*hotā*)—you are the accomplisher
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you have been established by the gods in this sacrificer, who belongs to Manu. Therefore you are the accomplisher of all sacrifices.
+
+##### English translation
+You, Agni, have been appointed by the gods, the ministrant for men, the descendants of Manu, at all sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्ने त्वं विश्वेषां यज्ञानां होता—हे अग्ने त्वं सर्वॆषां सप्तसंस्थारूपेण भिन्नानां यज्ञानां होमनिष्पादकोऽसि । (*agne tvaṃ viśveṣāṃ yajñānāṃ hotā—he agne tvaṃ sarvèṣāṃ saptasaṃsthārūpeṇa bhinnānāṃ yajñānāṃ homaniṣpādako 'si |*) O Agni, the meaning is: you, being the accomplisher of the oblation in all the sacrifices of various kinds by the varieties of the seven saṃsthās, and being the Hotṛ who invokes the gods, cause those sacrifices to be completed fully. Here an explanation is necessary about what the seven saṃsthās are. In the Soma sacrifice there are seven varieties. It is customary to call them the seven Soma saṃsthās. Their names are Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Atirātra, Aproryāma and Vājapeya. Among these the Agniṣṭoma sacrifice is of the nature of the prakṛti. That is, this sacrifice is the basis (Base) of the other Soma sacrifices; with some modifications it becomes the other six Soma sacrifices.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ मं॒द्राभि॑रध्व॒रे जि॒ह्वाभि॑र्यजा म॒हः ।  
+> आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥ २ ॥
+
+### Printed p. 565
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः ' नः । मंद्राभिः । अध्वरे । जिह्वाभिः । यज । महः ।  
+> आ । देवान् वक्षि । यक्षि । च ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स त्वं नोऽस्माकमध्वरे यज्ञे मंद्राभिर्मदकरीभिः स्तुत्याभिर्वा
+> जिह्वाभिर्ज्वालाभिर्महो महतो देवान्यज । हविर्भिस्तर्पय । कथं तदित्युच्यते ।
+> देवान्यष्टव्यानिंद्रादीना वक्षि । आवह । ततो यक्षि च । यज च । हवींषि तेभ्यो
+> देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, for us in the sacrifice, with the tongues, the flames, that are exhilarating or worthy of praise, worship the great gods; satisfy them with oblations. How that is done is stated: bring the gods who are to be worshipped, Indra and the others; and then worship them, that is, give them the oblations: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same well-known you
+- नः (*naḥ*)—our
+- अध्वरे (*adhvare*)—in the sacrifice
+- मंद्राभिः (*maṃdrābhiḥ*)—which cause delight
+- जिह्वाभिः (*jihvābhiḥ*)—with the flames
+- महः (*mahaḥ*)—of great nature
+- देवान् (*devān*)—the gods
+- यज (*yaja*)—worship
+- देवान् (*devān*)—those gods
+- आ वक्षि (*ā vakṣi*)—bring
+- यक्षि च (*yakṣi ca*)—and worship them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the well-known, in our sacrifice, with your flames that cause delight, worship the gods of great nature. Bring those gods to us and worship them.
+
+##### English translation
+Therefore at our sacrifice offer oblations to the great deities with exhilarating flames : bring hither the gods : offer them worship.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेत्था॒ हि वे॑धो॒ अध्व॑नः प॒थश्च॑ दे॒वांज॑सा ।  
+> अग्ने॑ य॒ज्ञेषु॑ सुक्रतो ॥ ३ ॥
+
+### Printed p. 566
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेत्थ । हि । वेधः । अध्वनः । पथः । च । देव । अंजसा ।  
+> अग्ने । यज्ञेषु । सुक्रतो इति सुक्रतो ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पाधिकृत्यामग्नेः पथिकृतोऽनुवाक्या वेत्थेत्येषा । सूत्रितं च । वेत्था हि
+> वेधो अध्वन आ देवानामपि पंथामगन्म । आ. ३-१० । इति ॥
+> हे वेधो विधातः सुक्रतो शोभनकर्मन्देव दानादिगुणयुक्ताग्ने त्वं
+> यज्ञेषु दर्शपूर्णमासादियागेष्वध्वनो महामार्गान् पथश्च क्षुद्रमार्गांश्चांजसार्जवेन वेत्थ । जानासि । हि यस्मादेवं तस्मात्कारणाद्यज्ञमार्गाद्भ्रष्टं
+> यजमानं पुनस्तं मार्गं प्रापयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the offering to Agni Pathikṛt, this Ṛk is the anuvākyā; the sūtra is cited (Ā. 3-10). Sāyaṇa explains: O Vedhas, creator, O Sukratu, doer of good deeds, O god Agni, endowed with qualities such as generosity, you know in the sacrifices, in the new-moon and full-moon sacrifices and others, the great roads and also the small paths, directly and straightly. Since it is so, bring the sacrificer who has fallen away from the path of the sacrifice back to that path: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधः (*vedhaḥ*)—O creator
+- सुक्रतो (*sukrato*)—O doer of excellent deeds
+- देव (*deva*)—O one of divine nature
+- अग्ने (*agne*)—O Agni
+- यज्ञेषु (*yajñeṣu*)—in our new-moon and full-moon sacrifices and the others
+- अध्वनः (*adhvanaḥ*)—the great roads
+- सथश्च (*sathaśca*)—and the small roads **NOTE**
+- अंजसा (*aṃjasā*)—by direct sight alone
+- वेत्थ हि (*vettha hi*)—you know, do you not
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, creator, doer of excellent deeds, of divine nature, in our new-moon and full-moon sacrifices and the others you know, do you not, the great roads and the small roads (that is, all the ways of performing the sacrifice) by your direct sight alone.
+
+##### English translation
+Agni, doer of great deeds, creator, you know (how to traval over) with speed (great) roads and (little) paths at sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering made to Agni Pathikṛt, अग्नये पथिकृते (*agnaye pathikṛte*), this Ṛk beginning वेत्था (*vetthā*) is to be recited as an anuvākyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra, वेत्था हि वेदो अध्वन आ देवानामपि पंथामगन्म (*vetthā hi vedo adhvana ā devānāmapi paṃthāmaganma*) (Ā. 3-10).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामि॑ळे॒ अध॑ द्वि॒ता भ॑र॒तो वा॒जिभिः॑ शु॒नं ।  
+> ई॒जे य॒ज्ञेषु॑ य॒ज्जियं॑ ॥ ४ ॥
+
+### Printed p. 567
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । ईळे । अध । द्विता । भरतः । वाजिभिः । शुनं ।  
+> ईजे । यज्ञेषु । यज्जियं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां भरतो दौष्यंतिरेतत्संज्ञो राजा वाजिभिः । वाजो हविर्लक्षणमन्नं । तद्वद्भिर्युत्विग्निः सह द्विता द्विविधमिष्टप्राप्त्यनिष्टपरिहाररूपेण द्विधा भिन्नं
+> शुनं सुखमुद्दिश्येळे । स्तुतवान् । स्तुत्वा च यज्ञॆयं यज्ञार्हं त्वां यज्ञेषु॥
+> तृतीयार्थे सप्तमी ॥ यज्ञैरीजे । इष्टवान् । तस्मै त्वमुभयविधं सुखं प्रादा
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, Bharata, the king of that name, son of Duṣyanta, together with the vājins (vāja is food in the form of oblation; those who have it) praised you, for the sake of happiness divided in two ways: the obtaining of what is desired and the removal of what is undesired. And having praised, he worshipped you, who are worthy of sacrifice, with sacrifices. To him you gave the two kinds of happiness: this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वां (*tvāṃ*)—directed to you
+- भरतः (*bharataḥ*)—Bharata, son of Duṣyanta
+- वाजिभिः (*vājibhiḥ*)—with food in the form of oblations
+- द्विता शुनं (*dvitā śunaṃ*)—for the two kinds of happiness, the obtaining of what is desired and the removal of what is undesired
+- ईळे (*īḷe*)—has praised
+- यज्ञियं (*yajñiyaṃ*)—you who are worthy of sacrifice
+- यज्ञेषु (*yajñeṣu*)—with sacrifices
+- ईजे (*īje*)—has worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Bharata, son of Duṣyanta, with food in the form of oblations, has praised you for the two kinds of happiness, the obtaining of what is desired and the removal of what is undesired. He has worshipped you, who are worthy of sacrifice, with sacrifices. Bestow on him both those kinds of happiness.
+
+##### English translation
+Bharata, with the presenters of the oblation, has joyfully praised you in your (two-fold capacity), and has worshiped you, the adorable with sacrifices.
+
+### Printed p. 568
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is mention of a king named Bharata; Sāyaṇa has said that he is the son of Duṣyanta. It is understood that the king Bharata was king of the people of the Āryan tribe called the Bharatas, who were very powerful in the time of the Ṛgveda. Probably that tribe got its name from this king. It is understood that the seer Viśvāmitra was the priest of this king or of his descendants, and that Viśvāmitra had great friendship and trust among these Bharata people. In the Ṛks 11 and 12 of Ṛ. Saṃ. 3-33, in praising the rivers विराट्टुतुद्रि (*virāṭṭutudri*), he prayed those rivers to reduce their waters so that it might be convenient for the kings of the Bharata family or their followers to cross the river. Since the account of the Bharata people and the relation of the seer Bharadvāja with them is extensive, it will be explained later. But the statement of the commentator that this king Bharata is the son of Duṣyanta is supported in the Aitareya Brāhmaṇa. On the occasion of the great anointing of Indra there are also descriptions of the royal anointing of many famous kings. Among them there is also the description of the royal anointing of the king named Bharata, son of Duṣyanta. That we shall explain here.
+एतेन ह वा ऐंद्रेण महाभिषेकेण दीर्घतमा मामतेयो भरतं दौष्पंतिमभिषिषेच तस्मादु भरतो दौष्पंतिः समंतं सर्वतः सृथिवीं जयन्परीयायाश्वैरु च मुध्यॆरीजे ॥ (*etena ha vā aiṃdreṇa mahābhiṣekeṇa dīrghatamā māmateyo bharataṃ dauṣpaṃtimabhiṣiṣeca tasmādu bharato dauṣpaṃtiḥ samaṃtaṃ sarvataḥ sṛthivīṃ jayanparīyāyāśvairu ca mudhyèrīje ‖*) (Ai. Brā. 39-23)
+The description of the great anointing of Indra, and the order in which the gods performed it, have been stated before. Among the kings anointed according to that order is the king named Bharata, son of Duṣyanta. The famous seer Dīrghatamas, son of the woman Mamatā, performed the rites of the coronation of this king Bharata. After that Bharata set out for the conquest of the quarters, travelled over the earth, conquered various countries, and performed the Aśvamedha sacrifice with excellent horses fit for sacrifice.
+तदप्येते श्लोका अभिगीताः (*tadapyete ślokā abhigītāḥ*)
+To make known the greatness of this anointing of Bharata, five verses are recited. Their explanation is as follows.
+हिरण्येन परीवृतान्कृष्णान् शुक्लदतो मृगान् । मष्णारे भरतोददाच्छतं बद्धानि सप्त च ॥ (*hiraṇyena parīvṛtānkṛṣṇān śukladato mṛgān | maṣṇāre bharatodadācchataṃ baddhāni sapta ca ‖*)
+This king named Bharata, at the time of his coronation, in the country called Maṣṇāra, gave as a gift a herd of one hundred and seven elephants, black in colour, with white horns, adorned with golden ornaments.
+
 ---
 
-**Progress note:** Done through printed p. 562. Ṛk 16 (rest) to Sūkta 16 intro, pp. 557-562
+**Progress note:** Done through printed p. 568. Sūkta 16 Ṛks 1-4 with intro, pp. 563-568
