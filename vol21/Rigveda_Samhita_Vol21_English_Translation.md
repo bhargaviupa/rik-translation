@@ -4679,6 +4679,389 @@ O Ṛtvijs and sacrificers, for your welfare I praise that same Indra, who favou
 (his adorers); the lord of strength, the all-subduing, the leader (of rites),
 the most beautiful, the beholder of the universe.
 
+### Printed p. 107
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fourth day of the sacrifice called Pṛṣṭha-ṣaḍaha, when the Praüga-śastra mantras are recited, the three Ṛks beginning त्र्यमुवः (*tryamuvaḥ*) are to be recited as the tṛca addressed to the deity Indra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, त्यमु वो अप्रहणमप त्यं वृजिनं रिपुं (*tyamu vo aprahaṇamapa tyaṃ vṛjinaṃ ripuṃ*) (Ā. 7-11).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं व॒र्धयं॒तीद्गिरः॒ पतिं॑ तु॒रस्य॒ राध॑सः ।  
+> तमिन्न॑स्य॒ रोद॑सी दे॒वी शुष्मं॑ सपर्यतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । वर्धयंति । इत् । गिरः । पतिं । तुरस्य । राधसः ।  
+> तं । इत् । नु । अस्य । रोदसी इति । देवी इति । शुष्कं । सपर्यतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरः स्तुतय इंद्रसंबंधिनं यमित् यमेव शुष्मं बलं वर्धयंति ।
+> कीदृशं । पतिमीश्वरं । कस्य । तुरस्य हिंसकस्य शत्रो राधसो धनस्य । शत्रुधनानामपहर्तारमित्यर्थः । अस्येंद्रस्य तमित्तमेव शुष्मं शोषकं बलं देवी देवनशीले
+> रोदसी द्यावापृथिव्यौ नु क्षिप्रं सपर्यतः । परिचरतः ॥
+
+##### Gist of the bhāṣya
+
+The hymns of praise increase that very strength शुष्मं (*śuṣmaṃ*), the strength that belongs to Indra. Of what kind is he? He is the lord, the master, of whom? Of the harming enemy and of his wealth राधसः (*rādhasaḥ*); that is, he is the taker away of the wealth of enemies. That very drying, consuming strength of this Indra the two divine, shining ones, heaven and earth, quickly attend upon, that is, serve.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरस्य (*turasya*)—of the harming enemy
+- राधसः (*rādhasaḥ*)—of the wealth
+- पतिं (*patiṃ*)—the lord
+- यं इत् (*yaṃ it*)—whose very strength
+- गिरः (*giraḥ*)—the hymns of praise
+- वर्धयंति (*vardhayaṃti*)—cause to grow
+- अस्य तं इत् तुष्मं (*asya taṃ it tuṣmaṃ*)—of that Indra, that same strength
+- देवी (*devī*)—the divine ones
+- रोदसी (*rodasī*)—heaven and earth
+- नु (*nu*)—quickly
+- सपर्यतः (*saparyataḥ*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+The strength of that Indra, the lord of the wealth of the harming enemy, which the hymns of praise cause to grow, that same strength of that Indra the divine heaven and earth quickly worship.
+
+### Printed p. 108
+
+##### English translation
+The divine heaven and earth adore that vigour of his, which our
+hymns augment, the appropriator of the riches of the foe.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्व॑ उ॒क्तस्य॑ ब॒र्हणेंद्रा॑योपस्तृणी॒षणि॑ ।  
+> विपो॒ न यस्को॒तयो॒ वि यद्रोहं॑ति स॒क्षितः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । उक्तस्य । बर्हणा । इंद्राय । उपस्तृणीषणि ।  
+> विपः । न । यस्य । ऊतयः । वि । यत् । रोहंति । सक्षितः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारो वो युष्मदीयस्योक्तस्य स्तोत्रस्य तद्बर्हणा बहुत्वं
+> माहात्म्यमिंद्रायेंद्रार्थमुपस्तृणीषणि । उपस्तरणीयं । उपेत्य विस्तरणीयं।
+> इंद्रो यथा स्तोत्रस्य माहात्म्यं जानीयात् तथा विस्तार्यत इत्यर्थः ।
+> यस्येंद्रस्योतयो रक्षा विपो न मेधाविन इव भवंति । सर्वकार्यकुशला
+> इत्यर्थः । यद्वा नेति पूरकः । विपो विप्रस्य मेधाविनो यस्येंद्रस्यॆति योज्यं ।
+> यद्यस्मिंश्चेंद्रे सक्षितः समाननिवासाः संहता ऊतयो वि रोहंति प्रादुर्भवंति
+> तस्मा इंद्रायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praisers, the greatness बर्हणा (*barhaṇā*), that is, the abundance and majesty, of your uttered praise is to be spread out for Indra, to be extended for him, so that Indra may know the majesty of the praise. His protections ऊतयः (*ūtayaḥ*) are like the wise ones विपः (*vipaḥ*), that is, skilled in every work. Or else: the word न (*na*) is a mere filler, and विपः (*vipaḥ*) is to be connected with the wise Indra, of whom the protections are meant. In whom the united, gathered protections arise and appear, for that Indra the praise is to be spread.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) यस्य (*yasya*)—of which Indra
+- ऊतयः (*ūtayaḥ*)—the protections
+- विपो न (*vipo na*)—are, like the wise, competent for all works
+- यत् (*yat*)—in which Indra
+- सक्षितः (*sakṣitaḥ*)—the gathered protections
+- वि रोहंति (*vi rohaṃti*)—arise; for such an
+- इंद्राय (*iṃdrāya*)—for Indra
+- वः (*vaḥ*)—your
+- उक्तस्य (*uktasya*)—of the praise
+- तत् बर्हणा (*tat barhaṇā*)—that same greatness
+- उपस्तृणीषणि (*upastṛṇīṣaṇi*)—may be extended and made to grow
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, for such an Indra, whose protections, like the wise, are competent for all works, and in whom the protections contained in him arise, may that same greatness of your praise be extended and made to grow.
+
+### Printed p. 109
+
+##### English translation
+(Worshippers), the efficacy of your eulogy is to be manifested to that
+Indra, whose protections. iike (those) of a sensible man. are displayed as
+abiding along with him.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवि॑द॒द्दक्षं॑ मि॒त्रो नवी॑यान्पपा॒नो दे॒वेभ्यो॒ वस्को॑  
+> अच्चैत् ।  
+> स॒स॒वान्सौ॒ लाभि॑र्धौ॒तरी॑भिरुरु॒ष्या पा॒युर॑भव॒त्सखि॑भ्यः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविदत् । दक्षं । मित्रः । नवीयान् । पपानः । देवेभ्यः । वस्यः । अचैत् ।  
+> सस्यवान् । स्तौलाभिः । धौतरीभिः । उरुष्या । पायुः । अभवत् । सखिभ्यः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो दक्षं कर्मसु समर्थं प्रवृद्धं वा यष्टारमविदत् । जानाति ।
+> कीदृशः । मित्रो मित्रभूतो नवीयान्नवतरः कल्याणतरः स्तुत्यतरो वा । स च
+> पपानः सोमं पिबन् देवेभ्यः स्तोतृभ्यो वस्यो वसीयः श्रेष्ठं धनमचैत् ।
+> जिनोति । उपचितं करोति । ददातीति यावत् । अपि च ससवान् । ससमित्यन्ननाम ।
+> हविर्लक्षणान्नोपेतः स इंद्रः स्तौलाभिः स्फूलाभिः प्रवृद्धाभिर्धौतरीभिः कंपनकारिणीभिर्वडवाभिरीदृशैर्मरुद्भिर्वा युक्तः सन् सखिभ्यः स्तोतृभ्य उरुष्या रक्षणेच्छयागत्य पायुरभवत् । रक्षको भवति । यद्वा । ससवानिति सनतेः क्वसौ रूपं ।
+> स्तौलाभिर्धौतरीभिः ससवान् संभजमान इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+That Indra knows the दक्षं (*dakṣaṃ*), the sacrificer who is competent in rites or who is grown great. Of what kind is Indra? A friend, नवीयान् (*navīyān*), newer, that is, more auspicious or more praiseworthy. And he, drinking the Soma, accumulates, that is, gives, for the gods, the praisers, the best wealth वस्यः (*vasyaḥ*). Moreover he is ससवान् (*sasavān*): सस (*sasa*) is a name for food, so he is provided with the food in the form of the oblation. That Indra, joined with the stout, grown mares that cause shaking, or with Maruts of such a kind, comes with desire to protect the praisers, his friends, and becomes their protector. Or else: ससवान् (*sasavān*) means partaking; it is connected with the stout and shaking ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Indra) दक्षं (*dakṣaṃ*)—the sacrificer who is competent in rites
+- अविदत् (*avidat*)—knows
+- मित्रः (*mitraḥ*)—friend to all
+- नवीयान् (*navīyān*)—and worshipful Indra
+- पपानः (*papānaḥ*)—drinking Soma
+- देवेभ्यः (*devebhyaḥ*)—to the praisers
+- वस्यः (*vasyaḥ*)—the best wealth
+- अचैत् (*acait*)—gives
+- ससवान् (*sasavān*)—Indra, provided with food
+- स्तौलाभिः (*staulābhiḥ*)—with growing
+
+### Printed p. 110
+
+- धौतरीभिः (*dhautarībhiḥ*)—horses, joined with them**NOTE**
+- सखिभ्यः (*sakhibhyaḥ*)—to the praisers
+- उरुष्या (*uruṣyā*)—coming with the desire to help
+- पायुः (*pāyuḥ*)—as their protector
+- अभवत् (*abhavat*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+Indra knows who the sacrificer is that is competent in rites. Indra, who is a friend to all and worshipful, gives, drinking Soma, the best wealth to the praisers. Indra, provided with food, joined with growing horses, comes with the desire to help the praisers and becomes their protector.
+
+##### English translation
+Indra appreciates him who is skilled (in holy rites): a recent friend,
+quaffing (the libation), he heaps excellent (wealth) upon the devout :
+partaking of (the sacrificial) food, (and brought) by his robust agitators
+(of the earth, his steeds), he, through his benevolence, is a protector to
+his friends.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ प॒थि वे॒धा अ॑पायि श्रि॒ये मनां॑सि दे॒वासो॑ अक्रन् ।  
+> दधा॑नो॒ नाम॑ म॒हो वचो॑भि॒र्वपु॑र्द्वृ॒शये॑ वे॒न्यो व्या॑वः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । पथि । वेधाः । आसायि । श्रिये । मनांसि । देवासः । अक्रन् ।  
+> दधानः । नाम । महः । वचभिः । वपुः । दृशये । वेन्यः । वि । आवरित्यावः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य पथि मार्गे वेधा विधाता सर्वस्य द्रष्टा सोमोऽपायि ।
+> इंद्रेण पीतोऽभूत् । यद्वा । वेधा विधाते०द्रोऽपायि । सोमं पिबतु ॥
+> व्यत्ययेन कर्तरि चिन् ॥ तस्मिन् सोम इंद्रस्य मनांसि श्रिये श्रयितुं देवाः
+> स्तोतार ऋत्विजोऽक्रन् । कर्माणि कुर्वंति । स चेंद्रो नाम शत्रूणां नामकं
+
+##### Gist of the bhāṣya
+
+On the path of the sacrifice the Soma, the वेधा (*vedhā*), the arranger and beholder of all, has been drunk by Indra. Or else: Indra, the arranger, has been made to drink, that is, let him drink the Soma. The sentence is explained by a change of form. In that Soma, to resort to it, the gods, that is, the praisers and priests, have made Indra's minds, that is, they perform the rites. And that Indra, so named because he humbles enemies,
+
+### Printed p. 111
+
+> महो महदात्मीयं वपुः शरीरं दधानो धारयन् वचोऽभिः स्तुतिभिर्वेन्यू
+> वननीयः संभजनीयश्च सन् दृशये दर्शनार्थं व्यावः । विवृणोतु । प्रकाशयतु ।
+> अनुकूलं तेज इति शेषः । यद्वा । वेन्य इति वेनतेः कांतिकर्मणो रूपं वपुरिति
+> च रूपनाम । वेन्यः कमनीयो वपुर्भास्वरं रूपं दृशये दर्शनार्थं व्यावः
+> विवृणोतु वचोऽभिः स्तूयमानः सन् ॥
+
+##### Gist of the bhāṣya
+
+bearing his own great body वपुः (*vapuḥ*), being adorable and to be resorted to by praises, may he uncover, that is, make manifest his favourable splendour, for the sake of being seen; the word "splendour" is to be supplied. Or else: वेन्यः (*venyaḥ*) is a form of the root वेनति (*venati*), which means to shine and to desire, and वपुः (*vapuḥ*) is a name for form: Indra, the desirable, being praised with words, may uncover his radiant form, for the sake of being seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पथि (*pathi*)—on the path
+- वेधाः (*vedhāḥ*)—Indra, the all-seeing (the creator)
+- अपायि (*apāyi*)—may he drink the Soma
+- मनांसि (*manāṃsi*)—the mind of Indra
+- श्रिये (*śriye*)—to gladden
+- देवासः (*devāsaḥ*)—the praisers
+- अक्रन् (*akran*)—perform the rite
+- (Indra) नाम (*nāma*)—who brings enemies down
+- महः (*mahaḥ*)—and is great
+- वपुः (*vapuḥ*)—body
+- दधानः (*dadhānaḥ*)—possessing
+- वचोभिः (*vacobhiḥ*)—by praises
+- वेन्यः (*venyaḥ*)—worshipped
+- दृशये (*dṛśaye*)—to be visible to all
+- व्यावः (*vyāvaḥ*)—may he shine forth
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the all-seeing**NOTE**, drink the Soma on the path of the sacrifice. The praisers perform the rite to gladden the mind of Indra. Possessing a body that brings enemies down and is great, and worshipped by praises, may Indra shine forth and appear, so as to be visible to all.
+
+##### English translation
+The Soma, creator (of all), on the path of sacrifice, has been drunk:
+the worshippers have presented it to gratify the mind (of Indra): may he,
+the humilator (of his foes), possessing a vast body, propitiated by our
+praises, become manifest to our view.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यु॒मत्त॑मं॒ दक्षं॑ धेह्य॒स्मे सेधा॒ जना॑नां पू॒र्वीररा॑तीः ।  
+> वर्षी॑यो॒ वयः॑ कृणुहि॒ शची॑भि॒र्धन॑स्य सा॒ताव॒स्मा अ॑विद्धि ॥९॥
+
+### Printed p. 112
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युमत्कतमं । दक्षं । धेहि । अस्मे इति । सेध । जनानां । पूर्वीः । अरातीः ।  
+> वर्षीयः । वयः । कृणुहि । शचीभिः । धनस्य । सात् । अस्मान् । अविद्धि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र द्युमत्तमं दीप्तिमत्तमं दक्षं बलमस्मे अस्मासु धेहि । धारय ।
+> जनानां स्तोत्कणामस्माकं पूर्वीर्बह्वररातीः शत्रुसेनाः सेध । निषेध ।
+> निवारय । अपि चास्माकं वर्षीयो वृद्धतरु वयोऽन्नं शचीभिरात्मीयाभिः प्रज्ञाभिः
+> कृणिहि । कुरु । तथा धनस्य सातौ संभजनेऽस्मानविड्डि । गमय । यद्वा । धनस्य
+> संभजनार्थमस्मान्रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Indra, place in us the most brilliant strength दक्षं (*dakṣaṃ*). Keep off, hold back, the many hostile armies of us the praisers. Moreover make our food वयः (*vayaḥ*) more abundant by your own wisdom शचीभिः (*śacībhiḥ*). And in the winning of wealth, lead us, that is, make us go. Or else: protect us for the sharing in wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) द्युमत्तमं (*dyumattamaṃ*)—most brilliant
+- दक्षं (*dakṣaṃ*)—strength
+- अस्मे (*asme*)—to us
+- धेहि (*dhehi*)—give
+- जनानां (*janānāṃ*)—for us the praisers
+- पूर्वीः (*pūrvīḥ*)—many
+- अरातीः (*arātīḥ*)—hostile armies
+- सेध (*sedha*)—destroy
+- शचीभिः (*śacībhiḥ*)—to us who are engaged in rites**NOTE**
+- वर्षीयः (*varṣīyaḥ*)—best
+- वयः (*vayaḥ*)—food
+- कृणुहि (*kṛṇuhi*)—make
+- धनस्य (*dhanasya*)—of wealth
+- सातौ (*sātau*)—for the gain
+- अस्मान् (*asmān*)—us
+- अविड्डि (*aviḍḍi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give us the most brilliant strength. Destroy the many hostile armies for us the praisers. Make the best food for us who are engaged in rites. Protect us so that we obtain wealth.
+
+##### English translation
+Bestow upon us most brilliant vigour : oppose the numerous enemies
+of your worshippers: grant us, for our pious acts, abundant food : secure
+us in the enjoyment of wealth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ तुभ्य॒मिन्म॑घवन्नभूम व॒यं दा॒त्रे ह॑रिवो॒ मा वि  ॑
+> वेनः ।  
+> नकि॑रा॒पिर्॑दृशे मर्त्य॒त्रा किमं॒ग र॑ध्र॒चोद॑नं त्वाहुः॥१०॥
+
+### Printed p. 114
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । तुभ्यं । इत् । मघवन् । अभूम । वयं । दात्रे । हरिवः । मा । वि । वेनः ।  
+> नकिः । आपिः । ददृशे । मर्त्यत्रा । किं । अंग । रध्रचोदनं । त्वा । आहुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र दात्रे कामानां दात्रे तुभ्यमित् तुभ्यमेव वयं
+> शेषभूता अभूम । यद्वा । त्वदर्थमेव दात्रे हविषां दाने वर्तमाना अभूम ।
+> हे हरिवो हरिवन्निंद्र अतः कारणान्मा वि वेनः । मा विगतकामो भूः । आस्मान्
+> सर्वदा कामयस्व ॥ वेनतिः कांतिकर्मा ॥ मर्त्यत्रा मर्त्येषु मनुष्येषु मध्य
+> आपिर्बंधुस्त्वत्तोऽन्यः कश्चिदपि नकिर्ददृशे । नैव दृश्यते । किमनेन विशेषकथनेन ।
+> अंग हे इंद्र त्वा त्वां रध्रचोदनं रध्रस्य राधकस्य समृद्धस्य धनस्य चोदनं
+> चोदयितारमाहुः कथयंति पुराजाः ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, to you the giver of desires, to you alone we have become subordinate. Or else: for you alone we have become engaged in giving oblations. O lord of bay horses, for this reason do not be without desire; desire us always; the root वेनति (*venati*) has the sense of shining and desiring. Among mortals, among men, no other kinsman than you is seen at all. What use is this particular statement? O dear Indra, the ancients call you the impeller रध्रचोदनं (*radhracodanaṃ*) of prosperous, abundant wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- इंद्र (*iṃdra*)—Indra
+- दात्रे (*dātre*)—giver of desires
+- तुभ्यमित् (*tubhyamit*)—for your service alone
+- वयं (*vayaṃ*)—we
+- अभूम (*abhūma*)—are ready
+- हरिवः (*harivaḥ*)—O Indra, possessor of horses
+- मा वि वेनः (*mā vi venaḥ*)—do not forget us
+- मर्त्यत्रा (*martyatrā*)—among men
+- आपिः (*āpiḥ*)—a kinsman (other than you)
+- नकिः ददृशे (*nakiḥ dadṛśe*)—no one has been seen
+- अंग (*aṃga*)—O Indra
+- त्वा (*tvā*)—you
+- रथ्रचोदनं (*rathracodanaṃ*)—as the impeller of wealth
+- अहुः (*ahuḥ*)—they have praised
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, we are ready for your service alone, you who grant desires. O Indra, possessor of horses, do not forget us. Other than you, we have seen no kinsman among men. O Indra, everyone has praised you alone as the impeller of wealth and the giver of wealth.
+
+##### English translation
+Indra, possessor of affluence, we have recourse to you, the bountiful lord of steeds, be not unfavourable to us: no other kinsman is beheld (by us) amongst men: why else have they called you the bestower of wealth?
+
+#### Ṛk 11
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा जस्व॑ने वृषभ नो ररीथा॒ मा ते॑ रे॒वतः॑ स॒ख्ये रि॑षाम ।  
+> पू॒र्वीष्ट॑ इंद्र नि॒ष्पिधो॒ जने॑षु ज॒ह्यसु॑स्वी॒न्र वृ॒हापृ॑णतः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । जस्वने । वृषभ । नः । ररीथाः । मा । ते । रेवतः । सख्ये । रिषाम ॥  
+> पूर्विः । ते । इंद्र । निःसिधः । जनेषु । जहि । असुस्वीन् । प्र । वृह । अपृणतः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभ कामानां वर्षितरिंद्र जस्वने ॥ जसिरुपक्षयकर्मा ॥ उपक्षपयित्रे
+> राक्षसादये नोऽस्मान् मा ररीथाः । मा दाः । रेवतो धनवतस्ते तव सख्ये
+> सखित्वे वर्तमाना वयं मा रिषाम । हिंसिता मा भूम । हे इंद्र ते त्वदीयाः
+> पूर्वीर्बह्निर्निष्पिधो निषेधा निवारणानि जनेषु शत्रुषु निहिताः संति । यद्वा ।
+> निष्पिधो निषेधार्था रज्जवः । ताः शत्रुजनेषु तव बह्वो विद्यंते । आतः कारणादसुष्टीननभिषोत्थनयजमानान् जहि । मारय । अपृणतो हवींष्यप्रयच्छतश्च
+> प्र वृह । उन्मूलय ॥ पृण दान इति धातुः ॥
+
+##### Gist of the bhāṣya
+
+O Vṛṣabha, showerer of desires, Indra, do not give us up to the destroyer जस्वने (*jasvane*); the root जसि (*jasi*) has the sense of destroying; that is, to a destroyer such as a Rākṣasa. Being in the friendship of you, the wealthy, may we not be harmed. O Indra, your many hindrances, that is, restraints, are set among the enemy people. Or else: the hindrances are ropes for restraining, and many of them are found among your enemy people. For this reason slay those who do not press the Soma and uproot those who do not give oblations.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, showerer of desires
+- जस्वने (*jasvane*)—to the harming enemy
+- नः (*naḥ*)—us
+- मा ररीथाः (*mā rarīthāḥ*)—do not give up
+- रेवतः (*revataḥ*)—of the wealthy
+- ते (*te*)—your
+- सख्ये (*sakhye*)—in friendship, we who are
+- मा रिषाम (*mā riṣāma*)—do not let us be harmed
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- पूर्वीः (*pūrvīḥ*)—many
+- निष्पिधः (*niṣpidhaḥ*)—hindrances
+- जनेषु (*janeṣu*)—are among the enemy people
+- असुष्टीन् (*asuṣṭīn*)—those who do not press the Soma
+- जहि (*jahi*)—destroy
+- अपृणितः (*apṛṇitaḥ*)—those who do not offer oblations
+- प्र वृह (*pra vṛha*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, do not give us up to the harming enemy. Do not let us, who are in the friendship of you, the wealthy, be harmed. O Indra, many hindrances of yours are among the enemy people. Destroy those who do not press the Soma and those who do not offer oblations.
+
 ---
 
-**Progress note:** Done through printed p. 106. Vol 21 pp. 101-106: Mandala 6 sukta 43 rk 4, sukta 44 rks 1-4
+**Progress note:** Done through printed p. 114. Vol 21 pp. 107-114: Mandala 6 sukta 44 rks 5-11
