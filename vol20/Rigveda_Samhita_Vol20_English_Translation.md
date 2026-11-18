@@ -14291,6 +14291,223 @@ The Kannada rendering: This sūkta, beginning हुवे वः (*huve vaḥ*)
 > हु॒वे वः॑ सू॒नुं सह॑सो॒ युवा॑न॒मद्रो॑घवाचं म॒तिभि॒र्यवि॑ष्ठं ।  
 > य इन्व॑ति॒ द्रवि॑णानि॒ प्रचे॑ता वि॒श्ववा॑राणि पुरु॒वारो॑ अ॒ध्रुक् ॥
 
+### Printed p. 420
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हुवे । वः । सूनुं । सहसः । युवानं । अद्रोघवाचं । मतिभिः । यविष्ठं ।  
+> यः । इन्वति । द्रविणानि । प्रचेताः । विश्ववाराणि । पुरुवारः । अध्रुक् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वः ॥ व्यत्ययेन बहुवचनं ॥ त्वां मतिभिर्मननीयैः स्तोत्रैर्हुवे ! आह्वयामि । कीदृशं । सहसो बलस्य सूनुं पुत्रं । अग्निर्हि बलेन
+> मथ्यमानो जायते। युवानं नित्यतरुणं फलस्य मिश्रयितारं वा अद्रोघवाचं।
+> आद्रोद्धव्या प्रशस्ता स्तुतिरूपा वाक् यस्मिन् प्रयुज्यते तादृशं । यविष्ठमतिशयेन युवानं । प्रचेताः प्रकृष्टज्ञानः पुरुवारः पुरुभिर्बहुभिर्वरणीयः
+> संभजनीयोऽध्रुगद्रोद्धा यजमानानां एवंभूतो योऽग्निर्विश्ववाराणि सर्वैवर्वणीयानि संभजनीयानि प्रशस्यानि द्रविणानि धनानीश्वति प्रेरयति । स्तोतृभ्यो
+> ददातीति यावत् । तं त्वां हुव इति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, *vaḥ*": the plural stands by interchange of number, for "you". "I invoke you with *matis*, that is, with hymns worthy of reflection." What kind of Agni? The son (*sūnu*) of *sahas*, of strength: for Agni is born when it is churned with strength. *Yuvan* is "ever young", or else one who mixes (the fruit). *Adroghavāc* is one in whom a praiseworthy speech in the form of praise, free from injury, is employed. *Yaviṣṭha* is exceedingly young. *Pracetāḥ* is of excellent knowledge. *Puruvāra* is to be chosen and resorted to by many (*puru*), and *adhruk* is one who does not injure the sacrificers. Such an Agni, who sends forth (*invati*, impels) all the riches (*dravina*) that are choiceworthy, worthy of being shared and praiseworthy (*viśvavāra*), that is, gives them to the singers: "you, that Agni, I invoke" is the connection with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेताः (*pracetāḥ*)—one of excellent knowledge
+- पुरुवारः (*puruvāraḥ*)—one honoured by many
+- अध्रुक् (*adhruk*)—one who does no harm to the sacrificers and others
+- यः (*yaḥ*)—you who
+- विश्ववाराणि (*viśvavārāṇi*)—wished for by all
+- संभजनीयानि (*saṃbhajanīyāni*)—praiseworthy
+- द्रविणानि (*draviṇāni*)—riches
+- इन्वति (*invati*)—you give to the sacrificers
+- सहसः सूनुं (*sahasaḥ sūnuṃ*)—the son of strength
+- युवानं (*yuvānaṃ*)—ever young
+- अद्रोघवाचं (*adroghavācaṃ*)—worthy of praising speech
+- वः (*vaḥ*)—you
+- मतिभिः (*matibhiḥ*)—with venerable hymns
+- हुवे (*huve*)—I call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are of excellent knowledge, honoured by many, and do no harm to the sacrificers and others, you who give to the sacrificers the riches wished for by all and praiseworthy: you, the son of strength, ever young, and worthy of praising speech, we call, praying, with venerable hymns.
+
+##### English translation
+I invoke you, Agni, the son of strenth, the irreproachable. the very young ; vou who are wise, the sought of many, the merciful. who bestow trcasures acceptalbe to all.
+### Printed p. 421
+
+##### विशेषविषयगळु (Special Topics)
+
+वः (*vaḥ*)—त्वां (*tvāṃ*), you. Here a plural is used in place of the singular. सर्वे विधयच्छंदसि विकल्प्यंते (*sarve vidhayacchaṃdasi vikalpyaṃte*) means that in verses bound by metre, or in Vedic sentences, the rules of case, number, gender and so on need not be according to grammar or according to literary or linguistic usage; that is, they may or may not accord with the rules of grammar and the like. The idea is that usages of this kind are not at all contrary to rule. In the Ṛgveda the interchange of case and number for the convenience of the metre is especially frequent. In the present Ṛk, in place of the word त्वां (*tvāṃ*), the accusative singular of the word *yuṣmad*, the plural of the same case, the word वः (*vaḥ*), is used.
+
+सूनुं सहसः (*sūnuṃ sahasaḥ*)—the son of strength. In the sacrifice, Agni is churned out and produced, as curd is churned, in pieces of wood called *araṇi*. Because in this churning much strength or force has to be used, it is a special custom in the Ṛgveda to call Agni one produced by the application of strength, or the son of strength. The words सहसः सूनु (*sahasaḥ sūnu*), सहसः पुत्र (*sahasaḥ putra*), सहसः यहु (*sahasaḥ yahu*) and so on indicate this same meaning.**NOTE**
+
+युवानं यविष्ठं (*yuvānaṃ yaviṣṭhaṃ*)—it is customary to call Agni youthful. For in human beings and other creatures the stage called youth (the time marked by exceeding capacity) exists only in a fixed period. This stage lies between childhood and old age. Since this stage is limited in time, no creature can remain always in youth; its strength must gradually decrease and it must reach old age. But the case of Agni is not so. When Agni is churned only a small spark is produced, and so it is then called an infant (शिशुं जातन बिभ्रति (*śiśuṃ jātana bibhrati*)); that is, that stage of Agni is called the stage of infancy. After that they place it in the fire-pit and make it blaze with materials such as fuel sticks and ghee. Then Agni is said to be in the stage of youth. For as long as, that is, for as much time as, they put in wood and the like, so long Agni remains blazing, shining, in the stage of youth. There is no limit of time to this state of Agni. For as long as one wishes, by putting in wood and the like, Agni may be kept bright (in the stage of youth). It is for this very reason that Agni is praised as युवा (*yuvā*) and यविष्ठ (*yaviṣṭha*), young and exceedingly young.
+
+अद्रोघवाचं (*adroghavācaṃ*)—without words that injure or revile; that is, the meaning is praiseworthy speech in the form of praise.
+### Printed p. 422
+पुरुवारः (*puruvāraḥ*)—पुरुभिर्बहुभिः वरणीयः (*purubhirbahubhiḥ varaṇīyaḥ*): one wished for by many, or by the many sacrificers who perform the sacrifice. Since a sacrifice cannot be performed without Agni, all who perform sacrifices desire Agni. The use of this word occurs also with regard to many deities such as Agni and Indra. The meaning and use of the word विश्ववाराणि (*viśvavārāṇi*) are just like those of the word पुरुवार (*puruvāra*). In the present Ṛk the meaning is explained as riches needed by everyone.
+
+अध्रुक् (*adhruk*)—अद्रोग्ना यजमानानां (*adrognā yajamānānāṃ*): this word is used as an epithet of Agni in the sense of one who does no injury or harm to the sacrificers and others who perform the sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे वसू॑नि पुर्वणीक होतदर्दो॒षा वस्तो॒रेरि॑रे य॒ज्ञया॑सः।  
+> क्षामे॑व॒ विश्वा॒ भुव॑नानि॒ यस्मि॒न्तं सौभ॑गानि दधि॒रे पा॑व॒के ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वे इति । वसूनि । पुरुऽअनीक । होतः । दोषा । वसोः । आ । ईरिरे । यज्ञि यासः ।  
+> क्षाम इव । विश्वा । भुवनानि । यस्मिन् । सं । सौभगानि । दधिरे । पावके ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुर्वणीक बहुज्वाल होतर्देवानामाह्वातरग्ने त्वे त्वयि दोषा रात्रौ
+> पस्तोरहनि च यज्ञियासो यज्ञार्हा यजमाना वसूनि हनिर्लक्षणानि धनान्येरिरे । अभिमुख्येन प्रेरयंति ! प्रापयंति । जुह्वतीत्यर्थः । विश्वा विश्वानि सर्वाणि
+> भुवनानि भूतजातानि क्षामेव क्षमायां भूम्यामिव यस्मिन् पावके शोधकेऽग्नौ
+> सौभगानि धनानि संदधिरे देवाः सम्यग्निहितवंतः ! अग्नौ नामं वसु सं नृपधत ।
+> कै. सं. १-५-१ १ । इति ब्राह्मणं । तस्मिंस्त्वयीति पूर्वत्र योज्यं !
+
+##### Gist of the bhāṣya
+
+"O Agni of many flames (*puruṇīka*), Hotṛ, caller of the gods, in you (*tve*), at night (*doṣā*) and by day (*vastoḥ*), the sacrificers worthy of sacrifice (*yajñiyāsaḥ*) send forth riches (*vasūni*) in the form of oblations", that is, they offer them, directing them towards you. "All (*viśvā*) beings (*bhuvanāni*), as on the earth (*kṣāmā iva*), in whom, the purifier Agni, the gods have well placed good fortunes (*saubhagāni*), that is, riches." A Brāhmaṇa says: अग्नौ नामं वसु सं नृपधत । (*agnau nāmaṃ vasu saṃ nṛpadhata |*) (Kai. Saṃ. 1-5-1 1).**NOTE** "In him, in you" is to be joined with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुर्वणीक (*purvaṇīka*)—one with abundant flames
+- होतः (*hotaḥ*)—one in the form of the Hotṛ, O Agni
+- श्वे (*śve*)—in you
+- दोषा (*doṣā*)—by night
+- वस्तोः (*vastoḥ*)—by day
+- यज्ञियासुः (*yajñiyāsuḥ*)—sacrificers fit to perform sacrifice
+- वसूनि (*vasūni*)—riches in the form of oblations
+- एरिरे (*erire*)—offer
+### Printed p. 423
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- क्षामेव (*kṣāmeva*)—as if established on the earth itself
+- यस्मिन् पावके (*yasmin pāvake*)—in you the purifier
+- सौभगानि (*saubhagāni*)—all riches of an auspicious nature
+- सं दधिरे (*saṃ dadhire*)—the gods have established
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of abundant flames, in the form of the Hotṛ, the sacrificers fit to perform sacrifice offer to you, by day and by night alike, riches in the form of oblations. As all beings are established on the earth itself, so in you, the purifier, the gods have established all auspicious riches.
+
+##### English translation
+Bright-blazing Agni, invoker of the gods, to you the adorahle deities have appropriated, by night and day, the riches (of the oblation): they have deposited in the purifier (Agni) all good things, as they have placed all beings upon earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वि॒क्षु प्र॒दिवः॑ सीद आ॒सु क्रत्वा॑ र॒थीर॑भवो॒ वार्या॑णां ।  
+> अत॑ इनोषि विध॒ते चि॑कित्सो॒ व्या॑नु॒षग्जा॑तवेदो॒ वसू॑नि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । विक्षु । प्रदिवः । सीदः । असु । क्रत्वा । रथीः । अभवः । वार्याणां ।  
+> अतः । इनोषि । विधते । चिकित्वः । वि । आनुषक् । जातवेदः । वसूनि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं प्रदिवः । पुराणनामैतत् । पुरातनकालीनासु विक्षु प्रजास्वासु
+> परिदृश्यमानासु च सीदः । सीदसि । विश्वांतरात्मना वर्तसे । तथा क्रत्वात्मीयेन
+> कर्मणा वार्याणां वरणीयानां धनानां रथीरभवः । रंहयिता यजमानेभ्यः
+> प्रापयिताभूः । अतः कारणात् हे चिकित्सो विद्वन् जातवेदो जातानां प्राणिनां
+
+##### Gist of the bhāṣya
+
+"O Agni, you (*tvam*), *pradivaḥ*": this is a name meaning "ancient". You sit (*sīdaḥ*), that is, you abide, in the peoples of ancient times and in these peoples that are seen now; you exist as the inner self of all. So too, by your own action (*kratvā*), you have become the conveyer (*rathī*) of choiceworthy riches (*vāryāṇām*): the one who speeds them and brings them to the sacrificers. Therefore, O knowing (*cikitvaḥ*) Jātavedas, knower of the beings that are born,
+### Printed p. 424
+
+> वेदितरग्ने विधते परिचरते यजमानाय वसूनि धनान्यानुषगनुषक्तं सततं यथा
+> भवति तथा वीनोषि । विविधं प्रेरयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to the sacrificer who serves you (*vidhate*) you send variously (*vi noṣi*) riches, in such a way that it is continuous (*ānuṣak*, uninterrupted), that is, unceasing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you
+- प्रदिवः (*pradivaḥ*)—belonging to the ancient lineage
+- आसु विक्षु (*āsu vikṣu*)—in these very peoples
+- सीदः (*sīdaḥ*)—you abide in the form of Vaiśvānara
+- क्रत्वा (*kratvā*)—by your action
+- वाराणां (*vārāṇāṃ*)—of the wished-for riches
+- रथीः अभवः (*rathīḥ abhavaḥ*)—you have become the conveyer
+- अतः (*ataḥ*)—therefore
+- चिकित्वः (*cikitvaḥ*)—wise one
+- जातवेदः (*jātavedaḥ*)—O Agni, in the form of Jātavedas
+- विधते (*vidhate*)—to the sacrificer who worships you
+- वसूनि (*vasūni*)—riches
+- आनुषक् (*ānuṣak*)—always (so as to be everlasting)
+- वि इनोषि (*vi inoṣi*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you abide in the form of Vaiśvānara in these very peoples of the ancient lineage. By your own action you have become the conveyer of the riches wished for by the sacrificers. Therefore, O wise Agni in the form of Jātavedas, provide everlasting riches to the sacrificer who worships you.
+
+##### English translation
+You abide from of old in these people, and by your deeds have been (to them) the conveyer of good things; thence, sage Jatavedas, you bestow continually wealth upon the sacrificer.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॒ सनु॑त्यो अभि॒दास॑दग्ने॒ यो अंत॑रो मित्रमहो  ॒
+> वनु॒ष्यात् ।  
+> तम॒जरे॑भि॒वृष॑भि॒स्तव॒ स्वैस्तपा॑ तपिष्ठ॒ तप॑सा॒ तप॑स्वान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋः । नः । सनुत्यः । अभिदासत् । अग्ने । यः । अंतरः । मित्रमहः । वनुष्यात् ।  
+> ६ । अजरेभिः । वृषभिः । तव । स्वैः । तप । तपिष्ठ । तपसा । तपस्वान् ॥ ४ ॥
+
+### Printed p. 425
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ग्येभिष्टवे यो नः सनुत्य इति दृचः । सूत्रितं च । यो नः सनुत्यो
+> अभिदासदग्ने भवा नो अग्ने सुमना उपेताविति दृचाः । आ. ४-६ । इति ॥
+> हे अग्ने यः शत्रुः सनुत्यः । सनुतरित्यंतर्हितनाम । अंतर्हिते देशे वर्तमानः सन् नोसास्मानभिदासत् उपक्षयति बाधते । यश्चांतरोऽभ्यंतरवर्ति सन्
+> हे मित्रमहोऽनुकूलदीप्ते मित्राणां महयितर्वाग्ने वनुष्यात् हिंस्यात् तमुभयविधं हे तपिष्ठ तृप्ततमाग्ने तपसा तेजसा तपस्वान् तेजस्वी त्वमजरेभिर्जरारहितैर्वृषभिर्वर्षितृभिर्वृष्टिहेतुभूतैस्तव स्वैः स्वभूतैरसाधारणैस्तेजोभिस्तप । दह ॥
+
+##### Gist of the bhāṣya
+
+In the Pravargya, in the Abhiṣṭava, the triplet beginning यो नः सनुत्य (*yo naḥ sanutya*) is used. It is also given in the sūtra: यो नः सनुत्यो (*yo naḥ sanutyo*) and भवा नो अग्ने सुमना उपेताविति दृचाः (*bhavā no agne sumanā upetāviti dṛcāḥ*) (Ā. 4-6). "O Agni, the enemy who is *sanutyaḥ*": सनुतरित्यंतर्हितनाम (*sanutarityaṃtarhitanāma*), it is a name for "hidden". Being in a hidden place, he *abhidāsat*, that is, he harms and afflicts us; and he who, being *antaraḥ*, inside, near, *vanuṣyāt*, would injure us, O Mitramahas, O one brilliant in a way favourable to friends, or one who makes friends great, O Agni: that enemy of both kinds, O most heated (*tapiṣṭha*) Agni, you who are endowed with heat (*tapasvān*) through radiance (*tapasā*), burn (*tapa*) with your own flames, which are ageless, showering, causes of rain, and belong to you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मित्रमहः (*mitramahaḥ*)—favourable like a friend
+- तपिष्ठ (*tapiṣṭha*)—one who burns most fiercely
+- तपसा (*tapasā*)—by radiance
+- तपस्वान् (*tapasvān*)—one who blazes, you who are such
+- यः (*yaḥ*)—which enemy
+- सनुत्यः (*sanutyaḥ*)—staying in secrecy
+- नः (*naḥ*)—us
+- अभिधासत् (*abhidhāsat*)—injures
+- यः (*yaḥ*)—who
+- अंतरः (*aṃtaraḥ*)—staying close by
+- वनुष्यात् (*vanuṣyāt*)—injures
+- तं (*taṃ*)—those enemies of two kinds
+- अजरेभिः (*ajarebhiḥ*)—ageless
+- वृषभिः (*vṛṣabhiḥ*)—causes of rain
+- तव स्वैः (*tava svaiḥ*)—with your radiances
+- तप (*tapa*)—burn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are favourable like a friend, who burn most fiercely, and who blaze with radiance: whichever enemy injures us staying in secrecy, and whichever injures us staying close by, burn those enemies of both kinds with your radiances, which are ageless and causes of rain.
+
+##### English translation
+You, protector of (your) friends, are most resplendent blazing with radiance consume; your own imperishable flames him who injures us abiding in secret, or when near to us designs us harm.
+
+In the Pravargya sacrifice, this Ṛk यो नः सनुत्यः (*yo naḥ sanutyaḥ*) is to be recited as the second Ṛk in the Abhiṣṭava, as is explained by the sūtra of the Āśvalāyana Śrautasūtra भवा नो अग्ने सुमना उपेताविति द्वृचाः (*bhavā no agne sumanā upetāviti dvṛcāḥ*) (A. 4-6).**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 419. Mandala 6 sukta 4 rks 4-8; sukta 5 start (Agni), pp. 413-419
+**Progress note:** Done through printed p. 425. Mandala 6 sukta 5 rks 1-4
