@@ -54,6 +54,7 @@ def render_english(raw, notes, where):
         before = re.sub(r'[⟦⟧]', '', raw[max(0, m.start() - 60):m.start()]).replace('\n', ' ').strip()
         notes.append((*where, re.sub(r'[⟦⟧]', '', m.group(1)).strip(), before)); return '**NOTE**'
     text = NOTE.sub(note, raw)
+    text = re.sub(r'(?<=\S)\*\*NOTE\*\*', ' **NOTE**', text)
     text = re.sub(r'⟦(.*?)⟧', lambda m: f'{m.group(1).strip()} (*{deva_to_iast(m.group(1).strip())}*)', text, flags=re.S)
     return [l.rstrip() for l in text.splitlines()]
 KEPT = ('samhita', 'pada', 'bhashya', 'gist', 'grammar')
