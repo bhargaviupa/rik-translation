@@ -20498,6 +20498,257 @@ Sāyaṇa says: Pāthya Vṛṣan is the name of a certain seer. O Agni, that ve
 - वृषा (*vṛṣā*)—the seer named Vṛṣan
 - समाधे (*samādhe*)—caused to blaze exceedingly
 
+### Printed p. 600
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, that very you, the destroyer of enemies and the winner of wealth in every battle, the seer called Vṛṣan, the son of Pathya, caused to blaze exceedingly.
+
+##### English translation
+(The Rishi) Pathya, the showerer, kindled you, the destroyer of the Dasyu, the winner of spoil in battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+Pāthya Vṛṣan: the name of a seer called Pathya occurs nowhere else than in this Ṛk. But the name of a seer called Vṛṣan occurs only in this Ṛk and in the Ṛk Ṛ. Saṃ. 1-36-10. In both places there is mention only of this seer's kindling Agni well. Since the name of this seer occurs nowhere else, nothing more can be said about him.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एहू॒ षु ब्रवा॑णि॒ तेग्न॑ इ॒त्थेत॑रा॒ गिरः॑ ।  
+> ए॒भिर्व॑र्धास॒ इंदु॑भिः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इहि । ऊं इति । सु । ब्रवाणि । ते । अग्ने । इत्मा । इतराः । गिरः ।  
+> विभिः । वर्धासे । इंदुभिः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्थे क्रत् तृतीयसवने मैत्रावरुणस्यैहू ष्वित्यादिकौ तृच स्तोत्रियानुरूपौ । आ. ६-१ ॥ अभिप्लविकेषूक्ष्येषु त्वेत् वैकल्पिकौ स्तोत्रियानुरूपौ ।
+> अभिप्लविकेषूक्ष्येषु सूत्रितं च । एह्यू षु ब्रवाणि त अग्निरगामि भारतः । आ. ७-८ ।
+> इति ॥ पौनराधेयिक्यामिष्टावुत्तराज्यभागस्यैहू ष्वित्यनुवाक्या । सूत्रितं च । एह्यू
+> षु ब्रवाणि त इत्याग्नेयावाज्यभागौ । आ. २-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa states the use. In the Ukthya rite, at the third pressing, the two tṛcas beginning with एहू षु (*ehū ṣu*) are the stotriya and anurūpa of the Maitrāvaruṇa priest (Ā. 6-1). In the Abhiplavika Ukthya rites they are alternative stotriya and anurūpa, and this is also laid down in the sūtra: एह्यू षु ब्रवाणि त अग्निरगामि भारतः (*ehyū ṣu bravāṇi ta agniragāmi bhārataḥ*) (Ā. 7-8). In the Punarādheyikī Iṣṭi the verse beginning एहू षु (*ehū ṣu*) is the anuvākyā of the later Ājyabhāga offering; and this too is laid down in the sūtra: एह्यू षु ब्रवाणि त इत्याग्नेयावाज्यभागौ (*ehyū ṣu bravāṇi ta ityāgneyāvājyabhāgau*) (Ā. 2-8).
+
+### Printed p. 601
+
+> हे अग्न एहि । आगच्छ । ते तुभ्यं त्वदर्थं गिरः स्तुतीरित्थेत्थमनेन प्रकारेण
+> सु सुष्टु ब्रवाणीत्याशास्यते । ताः स्तुतीः शृण्वित्यर्थः । उ इत्येतत्तूरकं । इतरा
+> असुरैः कृताः स्तुतीः शृण्विति शेषः । तथा च ब्राह्मणं । अग्न इत्थेतरा गिर इत्यसुर्या
+> ह वा इतरा गिरः । ऐ. ब्रा. ३-४९ । इति । अपि जागतस्त्वमेभिरेतैरिंदुभिः सोमैर्वर्धासे । वर्धस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, come. For you, for your sake, I shall speak the praises well, in this manner; this is a wish: listen to those praises. The particle उ (*u*) is said to be तूरकं (*tūrakaṃ*) **NOTE**. The word "listen" is to be supplied after "other praises", meaning the praises made by the Asuras. The Brāhmaṇa also says so: अग्न इत्थेतरा गिर इत्यसुर्या ह वा इतरा गिरः (*agna itthetarā gira ityasuryā ha vā itarā giraḥ*) (Ai. Brā. 3-49). Moreover, you grow with these Soma drops; increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एहि (*ehi*)—be pleased to come
+- इतराः (*itarāḥ*)—recited by others
+- गिरः (*giraḥ*)—the praises also
+- ते (*te*)—addressed to you
+- इत्था (*itthā*)—in this prescribed manner
+- सु (*su*)—exceedingly
+- ब्रवाणि (*bravāṇi*)—I shall recite
+- एभिः (*ebhiḥ*)—by these praises
+- इंदुभिः (*iṃdubhiḥ*)—and by these Somas
+- वर्धासे (*vardhāse*)—you grow strong
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be pleased to come. I shall recite, addressed to you, also the praises recited by others, in this prescribed manner and exceedingly. By these praises and by these Somas you grow strong.
+
+##### English translation
+Come, Agni, that I may address to you other praises in this manner : augment with these libations.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the third pressing of the sacrifice called Ukthya, the priest called Maitrāvaruṇa is to recite as stotriya and anurūpa mantras the two tṛcas beginning with एह्यू षु (*ehyū ṣu*) (the Ṛks 16 to 21 of this sūkta); and likewise in the Ukthya sacrifices connected with the Abhiplava these Ṛks are to be used as alternative stotriya and anurūpa mantras. This is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra, एह्यू षु ब्रवाणि त आग्निरगामि भारतः (*ehyū ṣu bravāṇi ta āgniragāmi bhārataḥ*) (Ā. 7-8). And in the offering called Punarādheya this Ṛk beginning एह्यू षु (*ehyū ṣu*) is to be recited as the anuvākyā mantra of the Ājyabhāga; this is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra, एह्यू षु ब्रवाणि त इत्याग्नेयावाज्यभागौ (*ehyū ṣu bravāṇi ta ityāgneyāvājyabhāgau*) (Ā. 2-8).
+
+### Printed p. 602
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ क्व॑ च ते॒ मनो॒ दक्षं॑ दधस॒ उत्त॑रं ।  
+> तत्रा॒ सदः॑ कृणवसे ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । क्व । च । ते । मनः । दक्षं । दधसे । उत्तरं ।  
+> तत्र । सदः । कृणवसे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव मनोऽनुग्रहात्मकमंतःकरणं यत्र यस्मिन्देशे क्व च
+> कस्मिंश्चिद्यजमाने वर्तते तत्र तस्मिन्यजमान उत्तरमुद्धततरं श्रेष्ठं दक्षं बलकरमन्नं वा दधसे । धारयसि । तथा सदः स्थानं च कृणवसे । तस्मिन्यजमाने करोषि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, wherever, in whatever place, with whatever sacrificer your mind, that is, your inner organ of favour, is present, there, in that sacrificer, you bear a higher, better दक्षं (*dakṣaṃ*), that is, strength-giving food. And you also make a seat there, that is, you make a dwelling place in that sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind of the nature of favour
+- यत्र (*yatra*)—in whatever place
+- क्व च (*kva ca*)—in whatever sacrificer (it is directed)
+- तत्र (*tatra*)—in that place and in that sacrificer
+- उत्तरं (*uttaraṃ*)—more abundant
+- दक्षं (*dakṣaṃ*)—and strong food
+- दधसे (*dadhase*)—you bring about
+- सदः (*sadaḥ*)—an excellent place too
+- कृणवरे (*kṛṇavare*)—you make for yourself
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in whatever place and in whatever sacrificer your mind, which is of the nature of favour, is directed, in that place and in that sacrificer you bring about more abundant and strong food; and you also make for yourself an excellent place.
+
+##### English translation
+Wherever, and upon whatever your mind is directed, you bestow uncommon vigour, and there you make your abode.
+
+### Printed p. 603
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि ते॑ पू॒र्तम॑क्षि॒पद्भुव॑न्नेमानां वसो ।  
+> अथा॒ दुवो॑ वनवसे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । ते । पूर्तं । अक्षिपत् । भुवत् । नेमानां । वसो इति ।  
+> अथ । दुवः । वनवसे । ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वदीयं पूर्तं पूरकं तेजोऽक्षिपदक्ष्णोः पातकं विनाशकं
+> नहि भुवत् । न भवतु । सर्वदास्माकं दर्शनसामर्थ्यं करोतु । हे नेमानां
+> वसो । नेमशब्दोऽल्पवाची । मनुष्याणां मध्यॆ कतिपयानां यजमानानां
+> वासक । अथातः कारणात् दुवोऽस्माभिर्यजमानैः कृतं परिचरणं वनवसे ।
+> संभजस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, may your पूर्तं (*pūrtaṃ*), filling brilliance, not become अक्षिपत् (*akṣipat*), one that falls upon the eyes, a destroyer; may it always give us the power of sight. O नेमानां वसो (*nemānāṃ vaso*): the word नेम (*nema*) means "few"; you are the one who gives dwelling to some few sacrificers among men. Therefore accept दुवः (*duvaḥ*), the service done by us, the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेमानाः (*nemānāḥ*)—to a few sacrificers **NOTE**
+- वसो (*vaso*)—O Agni, giver of dwelling
+- ते (*te*)—your
+- पूर्तं (*pūrtaṃ*)—filling brilliance
+- अक्षिपत् (*akṣipat*)—being of a sharpness that pierces our eyes
+- नहि भुवत् (*nahi bhuvat*)—may it not become
+- अथ (*atha*)—for that very reason
+- दुवः (*duvaḥ*)—our services
+- वनवसे (*vanavase*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwelling to sacrificers of our own only **NOTE**, may your full brilliance not become of a sharpness that pierces our eyes. For that very reason accept our services.
+
+##### English translation
+Let not your full (blaze) be distressing to the eye, giver of dwellings, to your humble votaries, and therefore accept our worship.
+
+### Printed p. 604
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्निर॑गामि॒ भार॑तो वृत्र॒हा पु॑रु॒चेत॑नः ।  
+> दिवो॑दासस्य॒ सत्प॑तिः ॥ १९ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्निः । आगामि । भारतः । वृत्रहा । पुरुचेतनः ॥  
+> दिवसदासस्य । सत्पतिः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निरागामि । अस्माभिः स्तुतिभिरभ्यगम्यत । कीदृशः । भारतो हविषां
+> भर्ता दिवोदासस्यैतत्संज्ञस्य राज्यो वृत्रहा वृत्राणां शत्रूणां हंता पुरुचेतनः
+> पुरूणां बहूनां चेतयिता ज्ञाता । सर्वज्ञ इत्यर्थः । सत्पतिः सतां यजमानानां
+> पालयिता ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Agni has been approached by us with praises. Of what kind? भारतः (*bhārataḥ*), the bearer of the oblations; the slayer of the enemies of King Divodāsa, so named; the knower of many, that is, all-knowing; सत्पतिः (*satpatiḥ*), the protector of good sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भारतः (*bhārataḥ*)—the bearer of the oblation
+- दिवोदासाय (*divodāsāya*)—of the king called Divodāsa
+- वृत्रहा (*vṛtrahā*)—the destroyer of enemies
+- पुरुचेतनः (*purucetanaḥ*)—the all-knowing
+- सत्पतिः (*satpatiḥ*)—the protector of good sacrificers
+- अग्निः (*agniḥ*)—Agni
+- आ आगामि (*ā āgāmi*)—has been brought here (by our praises)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the bearer of the oblation, the destroyer of the enemies of the king called Divodāsa, the all-knowing, the protector of good sacrificers, has been brought here by our praises.
+
+##### English translation
+Agni, the bearer (of oblations), the destroyer of the enemies of Divodasa, the cognizant of many, the protector of the good, has been brought hither (by our praises).
+
+##### विशेषविषयगळु (Special Topics)
+
+Divodāsa: see what we have explained about Divodāsa on pages 570-571.
+
+### Printed p. 605
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि विश्वाति॒ पार्थि॑वा र॒यिं दाश॑न्महित्व॒ना ।  
+> व॒न्वन्नवा॑तो॒ अस्तृ॑तः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । विश्वा । अति । पार्थिवा । रयिं । दाशत् । महित्वना ।  
+> वन्सन् । अवातः । अस्तृतः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि खल्वग्निर्विश्वा विश्वानि सर्वाणि पार्थिवा पृथिव्यां भवानि भूतजातानि
+> महित्वना महत्वेन स्वमहिम्नातिक्रामन् रयिं धनं दाशत् । अस्मभ्यं ददातु ।
+> यद्वा । विश्वं सर्वं पार्थिवं पृथिव्यां विद्यमानं रयिं धनमति अतिशयेन दाशत् ।
+> ददातु । कीदृशोऽग्निः । महित्वना महत्वेन तेजसा वन्वन् काष्ठानि शत्रून्वा हिंसन्
+> अवातोऽन्यैः शत्रुभिरप्रतिगतोऽस्तृतः केनाप्यहिंसितः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: That Agni, surpassing all beings born on the earth, by his greatness, that is, by his own glory, let him give us wealth. Or else: let him give in excess all wealth that exists on the earth. Of what kind is Agni? By his greatness, that is, his brilliance, वन्वन् (*vanvan*), injuring wood or enemies; अवातः (*avātaḥ*), not approached by other enemies; अस्तृतः (*astṛtaḥ*), injured by none.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वन्वन् (*vanvan*)—the injurer of enemies
+- अवातः (*avātaḥ*)—not struck down by enemies
+- अस्तृतः (*astṛtaḥ*)—injured by none
+- स हि (*sa hi*)—that very Agni
+- विश्वा (*viśvā*)—all
+- पार्थिवा (*pārthivā*)—the riches of the earth
+- महित्वना (*mahitvanā*)—by his superiority
+- रयिं (*rayiṃ*)—the wealth that surpasses
+- दाशत् (*dāśat*)—may he favour us and give
+
+##### भावार्थ (Bhāvārtha)
+
+May that very Agni, the injurer of enemies, not struck down by enemies, injured by none, favour me and give all the riches of the earth and the wealth that surpasses them by his superiority.
+
+##### English translation
+Surpassing all earthly things, may he bestow upon us riches, destroying his enemies by his greatness, unresisted, unassailed.
+
 ---
 
-**Progress note:** Done through printed p. 599. pp. 594-599 Atharvan, Dadhyañc, Ṛk 14, 15 start
+**Progress note:** Done through printed p. 605. pp. 600-605 Ṛk 15 end, Ṛks 16-20
