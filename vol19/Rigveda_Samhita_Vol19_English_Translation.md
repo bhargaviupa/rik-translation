@@ -16679,6 +16679,263 @@ O Agni, of the nature of Jātavedas, being entreated by us, bring all the Maruts
 ##### English translation
 Bring hither Jatavedas, who are invoked by us all, the Maruts, under their several names and forms : come, all you Maruts, with all your protect-ing faculties, to the sacrifice, the praises, and the adoration of the worshipper.
 
+### Printed p. 447
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दि॒वो बृ॑ह॒तः पर्व॑ता॒दा सर॑स्वती यज॒ता गं॑तु य॒ज्ञं।  
+> हवं॑ दे॒वी जु॑जुषा॒णा धृ॒ताची॑ श॒ग्मां नो॒ वाच॑मुश॒ती  ॑
+> शृणोतु ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । दिवः । बृहतः । पर्वतात् । आ । सरस्वती । यजता । गंतु । यज्ञं ।  
+> हवं । देवी । जुजुषाणा । घृताची । शग्मां । नः । वाचं । उशती । शृणोतु ॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नो दिव इत्येकादशी व्यूढे दशरात्रे नवमेऽहनि प्रउगशस्त्रे सारस्वततृचे
+> द्वितीया । सूत्रितं च । आ नो दिवो बृहतः पर्वतादा सरस्वत्यभि नो नेषि वस्यः ।
+> आ. ८. ११ । इति ॥
+> नोऽस्माकं य ज्ञं यजता यष्टव्या देवी सरस्वती दिवो द्योतमानाद्भुलोकादा गंतु । आगच्छतु । तथा बृहतो महतः पर्वतात्पर्ववतः पूरणवतः
+> प्रीणनवतो वांतरिक्षान्मेघाद्वा सरस्वत्या गंतु । आगच्छतु । अनेन माध्यमिकी
+> वागुच्यते ! यद्वैतद्दिव इत्यस्य विशेषणं । संति हि द्युलोकस्य त्रीणि पर्वाणि तिस्रो
+> दिवः पृथिवीरित्यादि श्रुतेः । अस्मिन्पक्षे द्वितीय आकारः पूरणः । तदर्थं हवनमस्मदीयमाह्वानं देवी सरस्वती जुजुषाणा स्तुतिं सेवमाना धृताची धृतमुदकमंचती नोऽस्मदीयां शग्मां सुखकरीं वाचं स्तुतिमुशती कामयमाना सती
+> शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, "आ नो दिवः (*ā no divaḥ*)", is the eleventh; in the Daśarātra called Vyūḍha, on the ninth day, in the Prauga-śastra, it is the second of the Sārasvata triplet. The sūtra says so: "आ नो दिवो बृहतः पर्वतादा सरस्वत्यभि नो नेषि वस्यः (*ā no divo bṛhataḥ parvatādā sarasvatyabhi no neṣi vasyaḥ*)" (Ā. 8. 11). The worshipful goddess Sarasvatī is to come to our sacrifice from heaven, the shining world; or, as a second explanation, from the great "parvata", which means that which has joints or fullness, or that which gives satisfaction, namely from the cloud of the atmosphere; by this the speech of the middle region is meant. Or else "great parvata" is an epithet of "heaven", since the heavenly world has three joints, as the Śruti says, "three are the heavens and the earths" and so on; on this view the second "ā" is the filling one. Therefore the goddess Sarasvatī, taking pleasure in our invocation, serving our praise, bringing water (ghee-water), and desiring our happiness-giving speech, our praise, is to hear it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजता (*yajatā*)—worshipful
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- दिवः (*divaḥ*)—from the heavenly world
+- आ गंतु (*ā gaṃtu*)—may she be gracious to come (or)
+- बृहतः (*bṛhataḥ*)—great
+- पर्वतात् (*parvatāt*)—from the atmosphere
+- आ (*ā*) (the verb गंतु (*gaṃtu*) understood)—may she be gracious to come
+- देवी (*devī*)—Sarasvatī, who is of the nature of a deity
+- हवं (*havaṃ*)—our praise in the form of prayer
+- जुजुषाणा (*jujuṣāṇā*)—serving
+- धृताती (*dhṛtātī*)—sprinkling water
+- नः (*naḥ*)—our
+- शग्मां (*śagmāṃ*)—happiness-giving
+- वाचं (*vācaṃ*)—praise
+- उशती (*uśatī*)—desiring
+- शृणोतु (*śṛṇotu*)—may she hear
+
+### Printed p. 448
+
+##### भावार्थ (Bhāvārtha)
+
+May the worshipful goddess Sarasvatī be gracious to come to our sacrifice either from the heavenly world or from the great atmosphere. May the goddess Sarasvatī, serving our praise in the form of prayer and sprinkling water, desiring our happiness-giving praise, listen to it with pleasure.
+
+##### English translation
+May the radiant Saraswati come to the sacrifice from the heavens or the spacious firmament : may the goddess, the showerer of water, propitiated by our invocation, and desirous of our gratifying praises, hear.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Prauga-śastra mantras on the ninth day of the Daśarātra sacrifice called Vyūḍha, this Ṛk "आ नो दिवः (*ā no divaḥ*)" is to be recited as the second Ṛk in the triplet (a triplet is three Ṛks) whose deity is Sarasvatī. This is set out by the aphorism of the Āśvalāyana Śrauta Sūtra, "आ नो दिवो बृहतः पर्वतादा सरस्वत्यभि नो नेषि वस्यः (*ā no divo bṛhataḥ parvatādā sarasvatyabhi no neṣi vasyaḥ*)" (Ā. 8.11).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वे॒धसं॒ नील॑पृष्ठं बृ॒हंतं॒ बृह॒स्पतिं॒ सद॑ने सादयध्वं ।  
+> सा॒दद्यो॑निं॒ दनु॒ आ दी॑दि॒वांसं॒ हिर॑ण्यवर्णमरु॒षं स॑पेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वेधसं । नीलपृष्ठं । बृहंतं । बृहस्पतिं । सदने । सादयध्वं ।  
+> सादर्‍योनिं । दमे ॥ आ दीदृनांसं । हिरण्यवर्णं । अरुषं । सपेम ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा बार्हस्पत्या । हे ऋत्विजो यूयं बृहस्पतिं बृहतो मंत्रस्य
+> स्वामिनं देवं सदनेऽस्मद्यागगृह आ सादयध्वं । स्थापयध्वं । कीदृशं देवं ।
+> वेधसं विविधकर्तारं नीलपृष्टं स्निग्धांगं बृहंतं महांतं । तथा संतं वयम्मृत्ति-
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Bṛhaspati. O priests, install in the house of our sacrifice the god Bṛhaspati, the lord of the great mantra. What sort of god? He is "vedhas", the maker of manifold things, "nīlapṛṣṭha", of glossy body, "bṛhat", great. Of such a god we, priests and sacrificers, **NOTE** are to perform service,
+
+### Printed p. 449
+
+> ग्यजमानाः सपेम । परिचरेम । स एव विशेष्यते । सादद्योनिं योन् सीदंतं
+> दमे यागगृह आ सर्वतो दीदिवांसं दीप्यमानं हिरण्यवर्णमरुषमारोचमानं । अथवेयमाग्नेयि । बृहतः परिवृढस्य कर्णणः स्वामीति बृहस्पतिरग्निरुच्यते ।
+> तथा नीलवर्णधूमपृष्ठत्वसदनसादनहिरण्यवर्णत्वादिलिंगैरप्यग्निरेव बृहस्पतिः ॥
+
+##### Gist of the bhāṣya
+
+he alone is described further. "Sādadyoni" means sitting on his seat; in the "dame", the sacrificial house, shining all round, golden-hued, "aruṣa", brilliant. Or else this Ṛk is addressed to Agni: Agni is called Bṛhaspati, since he is lord of the great परिवृढस्य कर्णणः (*parivṛḍhasya karṇaṇaḥ*) **NOTE**. By the marks also, namely the blue-coloured smoky back, the sitting and the seating, the golden colour and so on, Agni alone is Bṛhaspati.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) वेधसं (*vedhasaṃ*)—the creator
+- नीलपृष्ठं (*nīlapṛṣṭhaṃ*)—one whose back is blue in colour
+- बृहंतं (*bṛhaṃtaṃ*)—of mighty form
+- बृहस्पतिं (*bṛhaspatiṃ*)—the god Bṛhaspati
+- सदने (*sadane*)—in our house of sacrifice
+- आ सादयध्वं (*ā sādayadhvaṃ*)—install
+- सादद्योनिं (*sādadyoniṃ*)—one who is seated on the sacrificial altar
+- दमे (*dame*)—in the house of sacrifice
+- आ (*ā*)—everywhere
+- दीदिवांसं (*dīdivāṃsaṃ*)—shining
+- हिरण्यवर्णं (*hiraṇyavarṇaṃ*)—of attractive golden colour
+- अरुषं (*aruṣaṃ*)—brilliant
+- सपेम (*sapema*)—let us worship
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, install in our house of sacrifice the god Bṛhaspati, the creator, whose back is blue in colour, of mighty form. Let us worship Bṛhaspati, who is seated on the sacrificial altar, shines everywhere in the house of sacrifice, is of an attractive golden colour and is brilliant.
+
+##### English translation
+(Priests) place the mighty Brihaspati, the creator, whose back is dark blue, in the chamber (of sacrifice): let us worship him who is seated in the interior of the mansion, everywhere shining, golden-hued, resplendent.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ध॑र्ण॒सिर्बृ॒हद्दि॑वो॒ ररा॑णो॒ विश्वे॑भिर्गं॒त्वोम॑भिर्हुवा॒नः।  
+> ग्ना वसा॑न॒ ओष॑धी॒रमृ॑द्रस्त्रि॒धातु॑शृंगो वृष॒भो व॑यो॒धाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धर्णसिः । बृहत्स्‌दिवः । रराणः । विश्वेभिः । गंतु । ओमभिः । हुनानः ।  
+> ग्नाः । वसानः । ओषधीः । अमृध्रः । त्रिधातुशृंगः । वृषभः । वयुधाः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 450
+
+> इदमाद्यक्रयमाग्नेयं । अग्निरा गंतु आगच्छत्वस्मदृज्ञं धर्णसिः सर्वस्य
+> धारको बृहद्दिवः प्रभूतदीप्ति रराणो रममाणः कामान् प्रयच्छन् आ विश्वेभिः
+> सर्वैरोमभी रक्षणैः सह हुवान आहूयमानः । ग्ना गंत्रीर्ज्वाला ओषधीश्च वसानोऽमृध्रोऽहिंसितस्त्रिधातुशृंगस्त्रिप्रकारशृंगवदुन्नतलोहितशुक्लकृष्णवर्णज्वालो
+> वृषभो वर्षिता वयोधा अन्नस्य दाता हविषो वा धारकः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Agni **NOTE**. May Agni come to our sacrifice: "dharṇasi", the upholder of all; "bṛhaddivaḥ", of abundant radiance; "rarāṇaḥ", delighting and granting desires; being invoked with all "omas", protections. "Gnāḥ" are the moving flames, and he clothes himself in them and in the herbs; "amṛdhra", unharmed; "tridhātuśṛṅga", whose flames, like horns of three kinds, are tall and red, white and black; "vṛṣabha", the one who showers; "vayodhāḥ", the giver of food or the upholder of the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहद्दिवः (*bṛhaddivaḥ*)—of abundant radiance
+- रराणः (*rarāṇaḥ*)—full of delight
+- ग्नाः (*gnāḥ*)—the moving flames
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- वसानः (*vasānaḥ*)—wearing
+- अमृधः (*amṛdhaḥ*)—unharmed
+- त्रिधातुशृंगः (*tridhātuśṛṃgaḥ*)—possessed of flames which are red, white and black and are like horns
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- वयोधाः (*vayodhāḥ*)—the giver of food
+- धर्णसिः (*dharṇasiḥ*)—Agni, the upholder of the whole world
+- विश्वेभिः (*viśvebhiḥ*)—all
+- ओमभिः (*omabhiḥ*)—together with the protections
+- हुवानः (*huvānaḥ*)—as soon as he is entreated by us
+- आ गंतु (*ā gaṃtu*)—may he be gracious to come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who is of abundant radiance, full of delight, wears the moving flames and the herbs, is unharmed, has flames that are red, white and black and are like horns, is the showerer of desires, the giver of food and the upholder of the whole world, be gracious to come to our sacrifice, together with all his protections, as soon as he is entreated by us.
+
+##### English translation
+May the sustainer of all, (Agni), the greatly radiant, tho delighter, come, with all his protecting (faculties), when invoked; he who is clothed with flames and with plants; who is irresistible; who has horns of three colours; the showerer (of benefits), the accepter of oblations.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒तुष्प॒दे प॑र॒मे शु॒क्र अ॒योर्वि॑प॒न्यवो॑ रास्पि॒रासो॑  
+> अग्मन् ।
+
+### Printed p. 451
+
+> सुशेव्यं नमसा रातहव्याः शिशुं मृजंत्यायवो न वासे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मातुः । पदे । परमे । शुक्रे । आयोः । विपन्यवः । रास्पिरासः । अग्मन् ।  
+> सुशेव्यं । नमसा । रातहव्याः । शिशुं । मृजंति । आयवः । न । वासे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयोर्मनुष्यस्य यजमानस्य विपन्यवः । स्तोतृनामैतत् । स्तोतारो
+> होत्रादयो रास्पिरासः ॥ रा धनं हविर्लक्षणं । तत्सृशंति रास्पा जुह्वादयः ।
+> तद्वान् रास्पि । तद्वंतो रास्पिराः ॥ उक्तविधा ऋत्विजो मातुर्निर्मातुः पृथिव्याः
+> शुक्रे दीप्ते परमे पद उत्तरवेद्यां स्थितमग्नन् । अगमन् । भजंते । तदर्थं
+> सुशेव्यं सुखाय हितं शिशुमुत्पन्न मात्रं वासे वासाय नमसा स्तोत्रेण रातहव्या
+> दत्तहव्याः । हविष्का इत्यर्थः । तादृशास्ते मृजंति । संमार्जयंति । तत्र दृष्टांतः ।
+> आयवो न लौकिका मनुष्या इव । ते यथा शिशुं वासाय मृजंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Āyu" means man, the sacrificer; "vipanyavaḥ" is a name for praisers, the praisers, the Hotṛ priests and others, are "rāspirāsaḥ". "Rā" is wealth, in the form of oblation; the ladles, the juhū and the others, touch it, and are "rāspā"; he who has them is "rāspi"; those who have them are "rāspirāḥ". Such priests have gone to the bright, supreme place of the mother, the Earth, her maker, that is to the northern altar where the fire stands. For this purpose, "suśevya", what is good for happiness, the new-born child, "vāse", for his dwelling, "namasā", with praise, the "rātahavyāḥ", those who have given the oblation, that is who have offered the oblation, rub, cleanse. Here the example is "āyavaḥ", ordinary men; as they rub a child for his dwelling, so do these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रास्पिरासः (*rāspirāsaḥ*)—those who hold the juhū ladle filled with the oblation
+- आयोः (*āyoḥ*)—for the sacrificer, a man
+- विपन्यवः (*vipanyavaḥ*)—the priests, who are praisers and performers of the offering
+- मातुः (*mātuḥ*)—of the earth
+- शुक्रे (*śukre*)—brilliant
+- परमे पदे (*parame pade*)—to the region of the northern altar
+- अग्मन् (*agman*)—have gone
+- शिशुं (*śiśuṃ*)—the tender child
+- आयवो न (*āyavo na*)—as they rub and caress it for its growth
+- रातहव्याः (*rātahavyāḥ*)—the priests who have offered the oblation
+- सुशेव्यं (*suśevyaṃ*)—one comfortably established
+- शिशुं (*śiśuṃ*)—the one just born, Agni
+- वासे (*vāse*)—for his increase
+- नवसा (*navasā*)—with praise **NOTE**
+- मृजंति (*mṛjaṃti*)—rub (that is, nourish with love)
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, who hold the juhū ladle filled with the oblation and who are the praisers and performers of the offering for the sacrificer, a man, have gone to the brilliant region of the northern altar of the earth. As one rubs and caresses a tender child for its growth, so the priests who have offered the oblation rub, with praise, for his increase, Agni, who is comfortably established and just born; that is, they nourish him with love.
+
+### Printed p. 452
+
+##### English translation
+The holders of the (sacrificial) ladles, the ministrant priests of the man (who institutes the rite), have repaired to the bright and most excellent place of the maternal (earth): offerers of the oblation, they foster the tender infant, (Agni), with worship, as people rub (the limbs of a child to promote his) existence.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्वयो॑ बृह॒ते तुभ्य॑मग्ने धियो॒जुरो॑ मिथु॒नासः॑ सचंत ।  
+> दे॒वोदे॑वः सु॒हवो॑ भूतु॒ मह्यं॒ मा नो॑ मा॒ता पृ॑थि॒वी ॒॑ ॑
+> दुर्मत् धात् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । वयः । बृहते । तुभ्यं । अग्ने । धियाजुरः । मिथुनासः । सचंत ।  
+> देवःदेवः । सुहवः । भूतु । मह्यं । मा । नः । माता । पृथिवी । दुर्मतौ ।  
+> धात् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहत्प्रभूतं वयोऽन्नं हे अग्ने बृहते तुभ्यं धियाजुरः कर्मणा जीर्णा
+> मिथुनासः पत्निभिः सहिताः सचंत । सेवंते । जायापती अग्निमादधीयातामित्यादिश्रुतेः । अधिकाराध्याये षष्ठे स्त्रिया अग्न्यधिकारः स च पत्या सहेति हि प्रतिपादितं
+> पू. मी. ६. १. २४ । अवशिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+"Bṛhat" is abundant; "vayas" is food. O Agni, to you, the great, those "dhiyājuraḥ", worn out by their rites, "mithunāsaḥ", together with their wives, render service. The Śruti says, "Let husband and wife establish the fire" and so on. In the sixth chapter, the Adhikārādhyāya, it is established that the wife also has the right to the fire, and that this is together with the husband: Pū. Mī. 6.1.24 **NOTE**. The remainder has been dealt with.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धियाजुरः (*dhiyājuraḥ*)—those who have grown thin through rites alone
+- मिथुनासः (*mithunāsaḥ*)—the sacrificers accompanied by their wives
+- बृहते (*bṛhate*)—of mighty form
+- शुभ्यं (*śubhyaṃ*)—towards you **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 446. Mandala 5 sukta 43 Rks 7-10, pp. 441-446
+**Progress note:** Done through printed p. 452. Mandala 5 sukta 43 Rks 11-15, pp. 447-452
