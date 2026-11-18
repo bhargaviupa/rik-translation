@@ -21913,6 +21913,159 @@ They make a loud sound (1-169. 7 and so on). That sound is the thunder (1 23-11)
 
 The pouring of rain is the chief of their deeds. Rain is their garment (5-57-4). They rise up from the sea and pour rain (1-38 9). Pouring rain in both the worlds, they blow (1-64-6; 8-7-6). Rain follows them (5-53-10). They bring water and produce rain (5-58-3). With the rain they hide their radiance
 
+### Printed p. 602
+
+(5-59-1). They cover the eye of the Sun with rain (5.59-5). When they pour rain, they produce darkness from the clouds (1-38-9). Moving swiftly with the wind, they scatter hail (8-7-4). They make the jar of the atmosphere (the cloud, 5-53-6; 5-59-8) and the mountain streams pour water (5-59-7). When they rush, water flows (5-58-6). Because of this, a river of the earth has received the name मरुद्वधा (*marudvadhā*) (that which is made to grow by the Maruts, 10-75.5). The sweat of the sons of Rudra became rain (5.58-7). The rain produced by the Maruts is figuratively called milk (1-166 3), ghee (1-85-3; 10-88-4), milk and ghee (1-64-6). They pour the spring (honey) (1-85-11) or drench the earth with honey (5-54-8). Raising water from the sea to the sky, they pour it from there on the earth in the form of rain (A. Ve. 4.27-4) **NOTE**. Lightning and thunder are always present along with the rain they pour. Desiring to pour water, the Maruts rush with violence, roaring (5-54-3). By their power they produce wind, lightning and thunderbolts; milking the heavenly things with the udder, they fill the earth with milk (1-64-5); the spring that is milked by them roars (1-64-6). When water is rained by them, the sky, the red bull, bellows (5.58-6). They cause the horse to pour out water (1-64-6). Favouring the rain of the sky, they make the streams born of the horse flow well (5.83-6). When they join with the horse and produce water, the Maruts become golden in colour (2-34-13). When the clouds sound, the streams echo the sound of the chariot rims of the Maruts (1.168-8). The waters that Indra pours are named मरुत्वती (*marutvatī*) (accompanied by the Maruts) (1-80-4). In the sense of being the causers of rain they have the names पुरुद्रप्पाः (*purudrappāḥ*) (5-57-5) or द्रप्पिनः (*drappinaḥ*) (1-64-2) (those who have many drops of water) and सुदानवः (*sudānavaḥ*) (those who are well drenched in water). They reduce heat (5.54-1). But they themselves also drive away darkness (7-56-20), produce light (1-86-10) and make a path for the Sun (8-7-8); they have fixed the limit of the wind (5-55-2); they have extended the regions of the earth and the radiant regions of the sky and separated the two worlds (8-83-9 and 11). Perhaps because of the sound heard in the wind, they are called singers (5.52-1: 5-60-8; 5.35.9). They are the singers of the heavenly world (5.57-5). They sing a song (1-19-4; 1-166-7). By singing they made the Sun shine (8-29-10); playing the flute they split the mountain (1-85-10). When Indra slew the serpent, the Maruts sang for him and prepared the Soma juice (5-29-2; 5-30-6). By singing they produced strength in Indra (1-85-2). Their song is chiefly the sound that is heard in the wind (compare 4-22-4); even so
+
+### Printed p. 603
+
+it is regarded as praise (3-14-4). When they are with Indra, they are invoked as priests (5-29-3) and are compared with priests (10-78-1). They were the first to perform the sacrifice (2-36-2); it is they also who purified the fire in the houses of their disciples; those who kindled the fire were the Bhṛgus (10-122-5). Like many other gods they too are said to drink Soma (2-36-2; 8-83-9 to 12 and so on).
+
+Because of the idea that thunder, rain and these are one, by nature they are friends of Indra; as colleagues they have a close relation with him; by their praises and songs (1-165-11 and so on) they increase Indra's strength and power (3-25-9; 6-17-11). In the battle with Vṛtra it is generally the Maruts who are his helpers (8-65.2 and 3; 10-113-3). They help Trita and Indra in the slaying of Vṛtra (8-7-24). They are entreated to sing the sūkta that effects the slaying of Vṛtra (8-78-1 to 3). In the battles that Indra fought with the serpent and with Śambara they helped him (3-47-3 and 4). Only along with the Maruts did Indra obtain light (8-65.4) and the cows (1-6-5) and become the support of the sky (7-47-5). In truth it is with their help that Indra performed all his heroic deeds (the sūktas 1-100, 101 and 165; 10-65). In some cases the Marut deities are more independent than Indra in these heroic deeds. Accompanied by Indra, the Maruts strike Vṛtra (1.23-9). They severed the joints of the demon Vṛtra (8-7-23). They found the cows (2-34-1). Like the other gods, they too have Indra as leader (1-23-8; and so on). They are joined with Indra (10-128-2). They are like sons to Indra (1 100-5). They are called his brothers (1-170-2). Only once or twice is it said that the Maruts abandoned Indra: creating a situation in which he fought alone with the serpent (1.165-6), they left him alone (8-7-31). In a single Ṛk even enmity between Indra and them is mentioned. The Maruts have said to Indra, "O Indra, why do you wish to slay us? Do not slay us in battle" (compare 1-170-2; 1-171.6). In one Brāhmaṇa too (Tai. Brā. 2.7.11-1) it is said that there was a clash between Indra and the Maruts.
+
+When they are not in the company of Indra, violent qualities are seen in the Maruts. In this respect they show the qualities of their father Rudra. They are prayed that the thunderbolt may not trouble their worshippers and that their ill temper may not touch them (7-56-9). Of the arrows and stones that they throw (1-172-2), the thunderbolt (7-57-4), and the thunderbolt weapon that slays cows and men (7-56-13), they are begged to
+
+### Printed p. 604
+
+avert them. Harm may come from them (1-39-8); there is a request that they should not be angry (1-71-1; 7-58-5): they become angry like serpents (1-64-8 and 9). Like Rudra, from them also the Sindhu, the Asikni, the seas and the herbs on the mountains are begged for (8-20-23 to 26); pure, favourable and comfortable healing remedies are with Rudra accompanied by the Maruts (2-33-13). The Maruts give that in the form of rain (5-53-14); therefore "herb" must mean water. Like Agni, they too have the name पावक (*pāvaka*) (purifiers) (7-56-12; and so on).
+
+From the qualities stated above it becomes clear that the Maruts are deities of the storm. Although it is largely correct to take the word मरुत् (*marut*) as meaning wind, all the qualities seen above are not included in it.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र श्यावाश्वेति सप्तदशर्चमष्टमं सूक्तं । अत्रेयमनुक्रमणिका । श्यावाश्व
+> त्र्यूना श्यावाश्वो मारुतं ह तत्पंक्तिः षष्ठ्यंता चेति । आत्रेयः श्यावाश्व ऋषिः ।
+> ह तदिति प्रयोगादिदमादीनि दश सूक्तानि मरुद्देवत्यानि । षष्ठि सप्तदशी च पंक्तौ
+> शिष्टाः पंक्त्यंतपरिभाषयानुष्टुभः । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र श्यावाश्वेति (*pra śyāvāśveti*), of seventeen Ṛks, is the eighth sūkta. Here is this Anukramaṇī: त्र्यूना श्यावाश्वो मारुतं ह तत्पंक्तिः षष्ठ्यंता चेति । (*tryūnā śyāvāśvo mārutaṃ ha tatpaṃktiḥ ṣaṣṭhyaṃtā ceti |*). The seer is Śyāvāśva Ātreya. By the expression ह तदिति (*ha taditi*) the ten sūktas beginning with this one have the Maruts as deity. The sixth and the seventeenth Ṛks are Paṅkti; the remaining Ṛks are Anuṣṭubh, by the rule that what follows the Paṅkti is Anuṣṭubh. The application (viniyoga) has been stated.
+
+Anuvāda: This sūkta beginning प्र श्यावाश्व (*pra śyāvāśva*) is the eighth sūkta in the fourth anuvāka. It has seventeen Ṛks. In the Anukramaṇī it is said: प्र श्यावाश्व त्रूना श्वावाश्वो मारुतं ह तत्पंक्तिः षष्ठ्यंता च (*pra śyāvāśva trūnā śvāvāśvo mārutaṃ ha tatpaṃktiḥ ṣaṣṭhyaṃtā ca*). The seer of this sūkta is called Śyāvāśva; the ten sūktas following this one (sūktas 52-61) have the Maruts as deity. The sixth and the seventeenth Ṛks of this sūkta are in the Paṅkti metre; the remaining Ṛks are in the Anuṣṭubh metre. The application has been stated before.
+
+- Sūkta 52
+- Maṇḍala 5, Anuvāka 4, Sūkta 52
+- Aṣṭaka 4, Adhyāya 3, Varga 8, 9, 10
+- Number of Ṛks in the sūkta: 17
+- Seer: Śyāvāśva Ātreya
+- Deity: the Maruts
+- Metre: Ṛks 1-5, 7-16 Anuṣṭubh; 6, 17 Paṅkti
+
+### Printed p. 605
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र श्या॑वाश्व धृष्णु॒यार्चा॑ म॒रुद्भि॒र्युक्व॑भिः ।  
+> ये अ॑द्रो॒घम॑नुष्व॒धं श्रवो॒ मदं॑ति य॒ज्ञियाः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । श्याव्‌अश्व । धृष्ट्णुया । अर्च ! मरुत्भिः । ऋक्वभिः ।  
+> ये । अद्रोघं । अनुस्वधं । श्रवः । मदंति । यज्ञियाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे श्यावाश्व एतन्नामक ऋषे धृष्णुया धृष्णुस्त्वमृक्वभिः स्तुत्यान्मरुद्भिर्मरुतः प्रार्च ॥ द्वितीयार्थे तृतीया ॥ एवं स्वयमेव संप्रेष्यति । यद्वा । यजमानो होतारं श्यावाश्वं ब्रूते । यद्वा । मरुद्भिर्मरुत्सदृशैर्युक्वभिः स्तोतृभिः
+> सह स्तोत्रैर्वार्च । स्तुहीत्यर्थः । ये मरुतो यज्ञिया यज्ञार्हा अनुष्पधं
+> प्रत्यहं । हनिर्लक्षणान्नप्रदानं स्वधा । अनु पश्चाद्वा । अद्रोघमहिंसकं श्रवोऽन्नं
+> लब्ध्वा मदंति हृष्यंति ॥
+
+##### Gist of the bhāṣya
+
+O Śyāvāśva, seer of this name, being bold, worship the Maruts, who are to be praised by ऋक्वभिः (*ṛkvabhiḥ*); the instrumental stands in the sense of the accusative. Thus he sends himself forth. Or else: the sacrificer says it to the Hotṛ Śyāvāśva. Or else: worship, that is, praise, along with the Maruts, along with praisers like the Maruts, who are ऋक्वभिः (*ṛkvabhiḥ*), or with hymns. The Maruts who are worthy of sacrifice, अनुष्पधं (*anuṣpadhaṃ*) daily (स्वधा (*svadhā*) is the giving of food in the form of an oblation; or अनु (*anu*) means afterwards), having obtained harmless food, rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्वावाश्व (*śvāvāśva*)—O Śyāvāśva
+- ये (*ye*)—which Maruts
+- यज्ञियाः (*yajñiyāḥ*)—being worthy of sacrifice
+- अनुष्वधं (*anuṣvadhaṃ*)—every day
+- अद्रोघं (*adroghaṃ*)—harmless
+- श्रवः (*śravaḥ*)—food (having obtained)
+- मदंति (*madaṃti*)—rejoice; such
+- ऋक्वभिः (*ṛkvabhiḥ*)—worthy of praise
+- मरुद्भिः (*marudbhiḥ*)—the Maruts
+- धृष्णुया (*dhṛṣṇuyā*)—you who are tolerant of hair **NOTE**
+- प्र अर्च (*pra arca*)—worship exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Śyāvāśva, you who are tolerant of hair **NOTE**, worship exceedingly those praiseworthy Maruts who, being worthy of sacrifice, rejoice every day in harmless food.
+
+##### English translation
+Offer worship with perseverance, Shyavaswa, to the praise-deserving Maruts: they who are adorable and delight in the daily offered and inoffensive sacrificial food.
+
+### Printed p. 606
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer of the sūkta, Śyāvāśva, addresses himself, saying "worship the Marut deities". Or else it may be said that the sacrificer who performs the sacrifice addresses in this Ṛk the seer Śyāvāśva, who is carrying out the sacrifice taking the part of the priest called Hotṛ.
+
+ऋक्वभिः मरुद्भिः प्र अर्च (*ṛkvabhiḥ marudbhiḥ pra arca*)—स्तुत्यान् मरुतः पूजय (*stutyān marutaḥ pūjaya*): worship the praiseworthy Maruts. In this sentence, although the words ऋक्वभिः (*ṛkvabhiḥ*) and मरुद्भिः (*marudbhiḥ*) are words ending in the instrumental plural, the commentator has said that for these words, द्वितीयार्थे तृतिया (*dvitīyārthe tṛtiyā*), the instrumental case is used to indicate the sense of the accusative. That is, instead of the natural sense "by the Marut deities worthy of worship", it must be understood as "the Marut deities who are worthy of praise or of worship". Or for this sentence, मरुद्धिर्मरुत्सदृशैर्युक्वभिः स्तोत्रैर्वा अर्च स्तुहीत्यर्थः । (*maruddhirmarutsadṛśairyukvabhiḥ stotrairvā arca stuhītyarthaḥ |*), the meaning "praise with priests who chant hymns and are equal to the Marut deities, or with hymns" can also be given; thus Sāyaṇa has made two kinds of explanation of the meaning.
+
+अनुष्टदं (*anuṣṭadaṃ*)—प्रत्यहं (*pratyahaṃ*): the meaning is "every day". For the indeclinable word अनु (*anu*) Yāska has given the derivation अन्विति शादृश्यापरभावं (*anviti śādṛśyāparabhāvaṃ*) (Ni. 1-3). अनु (*anu*) means likeness: when pointing to one thing that is like another, the word अनु (*anu*) is used in stating likeness or comparison, "like that". Or the word अनु (*anu*) is used also when the meaning "one after another" is stated. In the present Ṛk, for the word अनुस्वधं (*anusvadhaṃ*) the meaning given is "the next day after one day", that is, every day.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि स्थि॒रस्य॒ शव॑सः॒ सखा॑यः॒ संति॑ धृष्ण॒या ।  
+> ते याम॒न्ना धृ॑ष॒द्विन॒स्त्मनां॑ पांति॒ शश्व॑तः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । स्थिरस्य । शवसः । सखायः । संति । धृष्णुया ।  
+> ते । यामन् । आ । धृषत्‌निनः । त्मना । पांति । शश्वतः ॥ २ ॥
+
+### Printed p. 607
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते हि ते खलु स्थिरस्याविचलितस्य शवसो बलस्य सखायः संति । भवंति मह्यं ।
+> धृष्णया धृष्णवः । ते च यामन्ना । आ इति चार्थे । गमनेऽपि धृषद्विनो धर्षणवंतस्त्मनात्मनानुग्रहेणैवास्मदुपकारमनपेक्ष्यैव शश्वतो बहूनस्मान्पुत्रभृत्यादी
+> न्पांति । रक्षॆंति ॥
+
+##### Gist of the bhāṣya
+
+They indeed are the friends of steady, unwavering strength (शवसः (*śavasaḥ*)); they are to me bold ones (धृष्णया (*dhṛṣṇayā*) means bold). And they, even on the march (आ (*ā*) is in the sense of "and"), being daring, by themselves, out of favour alone, without regard to any service from us, always protect us, who are many, with our sons, servants and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those very gods
+- यामन् (*yāman*)—even at the time of going about
+- धृषद्विनः (*dhṛṣadvinaḥ*)—having the power to confront (enemies)
+- त्मना (*tmanā*)—by their own impulse
+- शश्वतः (*śaśvataḥ*)—our numerous sons, servants and the rest
+- पांति (*pāṃti*)—protect; such
+- धृष्णुया (*dhṛṣṇuyā*)—having the power of boldness
+- ते (*te*)—the same gods
+- स्थिरस्य (*sthirasya*)—eternal
+- तवसः (*tavasaḥ*)—to strength **NOTE**
+- सखायः (*sakhāyaḥ*)—as dear men
+- संति (*saṃti*)—they are
+
+##### भावार्थ (Bhāvārtha)
+
+Those very gods who, even at the time of going about, having the power to confront enemies, protect by their own impulse our numerous sons, servants and the rest, those same gods, possessed of the power of boldness, are dear men to eternal strength.
+
+##### English translation
+They are the firm friends of steady vigour, who, proceeding resolute on their way, willingly protect (our) numerous (descendants).
+
+##### विशेषविषयगळु (Special Topics)
+
+ते स्थिरस्य शवसः सखायः संति (*te sthirasya śavasaḥ sakhāyaḥ saṃti*)—those Marut deities are friends of steady strength; that is, there is always a mutual relation between them and strength; they are always powerful. The meaning is that their strength and power are great and never fail.
+
+The form of the word त्मना (*tmanā*)-आत्मना (*ātmanā*) has lost its initial letter according to the Vedic usage, and only त्मना (*tmanā*) remains. Even so, the word त्मना (*tmanā*) has the very meaning of the word आत्मना (*ātmanā*). This kind of usage is particularly common in the Ṛgveda.
+
+Yāska has said that the indeclinable आ (*ā*) has many meanings and has made them clear by examples.
+
+आ इत्यर्नागर्थेः (*ā ityarnāgartheḥ*)
+
+(Ni. 1-3)
+
 ---
 
-**Progress note:** Done through printed p. 601. Sukta 52 intro: Marut deities (Sayana on Rudra/Maruts, Indra and Maruts, Marut description)
+**Progress note:** Done through printed p. 607. Sukta 52 intro continued (Marut deities), sukta 52 Rks 1-2
