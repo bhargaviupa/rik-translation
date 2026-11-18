@@ -21626,6 +21626,126 @@ In the sacrifice called Upasad, in the offering made to Agni, this Ṛk य उ�
 
 In this Ṛk it is stated that Agni destroyed the cities of the Asuras, who were enemies. Here the commentator cites the śruti sentence रुद्रो वा एष यदग्निः (*rudro vā eṣa yadagniḥ*) (Tai. Brā. 2-1-3-1), that is, Agni is Rudra, and so indicates the idea that when it is said that Agni destroyed the cities of the Asuras, it was Rudra in the form of Agni who destroyed them; in support of this he has cited a sentence of the Aitareya Brāhmaṇa: देवासुरा वा एषु लोकेषु समयतंत ते ना असुरा इमानेव लोकान्पुरोऽकुर्वत यथौजीयांसो बलीयांस एवं ते वा (*devāsurā vā eṣu lokeṣu samayataṃta te nā asurā imāneva lokānpuro 'kurvata yathaujīyāṃso balīyāṃsa evaṃ te vā*)
 
+### Printed p. 626
+
+अयस्मयामेवेमामकुर्वत रजतामंतरिक्षं हरणीं दिवं ते तथेमांल्लोकान्पुरोऽकुर्वत ते देवा अब्रुवन् पुरो वा इमेऽसुरा इमांल्लोकानक्रत पुर इमांल्लोकान्प्रतिकरनामहा इति तथेति ॥ (*ayasmayāmevemāmakurvata rajatāmaṃtarikṣaṃ haraṇīṃ divaṃ te tathemāṃllokānpuro 'kurvata te devā abruvan puro vā ime 'surā imāṃllokānakrata pura imāṃllokānpratikaranāmahā iti tatheti ‖*) (Ai. Brā. 4-23)
+
+In former times the Devas and the Asuras prepared for battle. At the time of war, kings naturally build impregnable forts and ramparts so that the enemy armies may not break into their city. In the same way the Asuras built three strong forts. They surrounded this earth with an iron rampart, the atmosphere with a rampart of silver (rajata), and the heavenly world with a rampart of gold, and so turned them into strong fortresses. In the Taittirīya Saṃhitā of the Yajurveda this matter is stated thus:
+
+तेषामसुराणां तिस्रः पुर आसन्नयस्मय्यवमाथ रजताथ हरिणी ता देवा जेतुं नाशक्कु वन्ता उपसदैवाजिगीषन् तस्मादाहुर्यश्चैवं वेद यश्च नोपसदा वै महापुरं जयंतीति त इषुग्ं समस्कुर्वताग्निमनीकग्ं सोमुग्ं शल्यं विष्णुं तेजनं त्रेऽब्रुवन् क इमामसिष्यतीति रुद्र इत्यब्रुवन् रुद्रो वै क्रूरः सोऽस्यत्विति सोऽब्रवीद्वरं वृणा अहमेव पशूनामधिपतिरसानीति तस्माद्रुद्रः पशूनामधिपतिस्ताग्ं रुद्रो वा सृजत्स तिस्त्रः पुरो भित्वैभ्यो लोकेभ्योऽसुरान्प्राणुदत ॥ (*teṣāmasurāṇāṃ tisraḥ pura āsannayasmayyavamātha rajatātha hariṇī tā devā jetuṃ nāśakku vantā upasadaivājigīṣan tasmādāhuryaścaivaṃ veda yaśca nopasadā vai mahāpuraṃ jayaṃtīti ta iṣugṃ samaskurvatāgnimanīkagṃ somugṃ śalyaṃ viṣṇuṃ tejanaṃ tre 'bruvan ka imāmasiṣyatīti rudra ityabruvan rudro vai krūraḥ so 'syatviti so 'bravīdvaraṃ vṛṇā ahameva paśūnāmadhipatirasānīti tasmādrudraḥ paśūnāmadhipatistāgṃ rudro vā sṛjatsa tistraḥ puro bhitvaibhyo lokebhyo 'surānprāṇudata ‖*) (Tai. Saṃ. 6-2-3-1 2) **GLOSS**
+
+In former times, when war broke out between the Devas and the Asuras, the Asuras held three cities. One of them was covered with an iron rampart, another with a silver rampart, and the third with a golden rampart, so that they were impregnable to enemies. The Devas were not able to besiege these cities and conquer them. Therefore all the Devas assembled and, after long deliberation as to how these cities could be besieged and conquered, and whether there was anyone among them with the strength to conquer them, they came at last to a decision. They made ready a bow and arrows to take aim at those cities and strike them. The arrow that is fixed to the bow and shot must be very sharp and powerful. Therefore, in preparing the arrow, they made Agni its tip (point), Soma its shalya (the upper part of the arrow), and Viṣṇu its shaft. After the arrow had been made ready in this way, they searched among themselves to see who was able to fix this arrow to the bowstring and shoot it. Then they determined that Rudra alone was fit to do this work, because the one who behaves cruelly in facing enemies
+
+### Printed p. 627
+
+is none other than Rudra; this they came to know. Then they went to Rudra and prayed: "O Rudra, in order to help the Devas, fix this arrow that we have prepared to your bow, take aim at the cities of the Asuras, strike them and destroy them." To this Rudra said: "Very well, let it be so. But in return for doing this difficult task you must grant me a boon. I must become the lord of all animals. If you grant this boon I shall do your work." For this very reason Rudra became famous as the lord of animals. When the Devas agreed to Rudra's word, Rudra fixed the arrow prepared by the Devas to his bow, took aim at the cities of the Asuras, shot, and destroyed them. This story is told both in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā.
+
+In this context, since the Devas, in making the arrow, made Agni its tip (the point of the arrow), and since that sharp tip itself was the cause of the destruction of the cities of the Asuras, the matter that Agni destroyed the cities of the enemy Asuras is explained in the present Ṛk.
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यं हस्ते॒ न खा॒दिनं॒ शिशुं॑ जा॒तं न बिभ्र॑ति ॥  
+> वि॒शाम॒ग्निं स्व॑ध्व॒रं ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यं । हस्ते । न । खादिनं । शिशुं । जातं । न । बिभ्रति ।  
+> विशां । अग्निं । सुअध्वरं ॥ ४० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमंथने जायमानेग्नावा यं हस्त इत्येषानुवाक्या । सूत्रितं च । आ
+> यं हस्ते न खादिनमित्यर्धर्च आरमेत् । आ. २-१६ । इति ॥
+> मंथनोत्पन्नं यमग्निं शिशुं जातं न जातं पुत्रमिव हस्त आ बिभ्रति
+> हस्तेष्वभिमुखं धारयंत्यध्वर्यवः । पूर्वो नशब्दः पुरस्तादुपचारोऽप्युपमार्थीयः । खादिनं न भक्षकं व्याघ्रादिमिव । यथा तं बिभ्रतः पुरुषा अवहितास्त्रथाभूता इत्यर्थः । यद्वा संप्रत्यर्थे । संप्रतीदानीं खादिनं हविषां भक्षकं यमग्निं
+> हस्ते धारयंति विशां जनानां स्वध्वरं शोभनयागस्य निष्पादकं तमग्निं हे
+> ऋत्विजः परिचरतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+When Agni is being produced by churning, the verse beginning "ā yaṃ haste" is the anuvākyā. This is laid down in the sūtra: one should begin with the half-verse "ā yaṃ haste na khādinam" (Ā. Sū. 2-16). The Agni born of churning, like a newborn child, is held by the adhvaryus in their hands, turned towards them. The first "na" is a particle of comparison, here placed in front by transposition. "Khādinam na" means like a devourer, like a tiger or the like; just as men who hold such a creature are watchful, so are they. Or else "na" is in the sense of "now": now they hold in the hand that Agni, the devourer of the oblations, who is the accomplisher of a good sacrifice (svadhvara) for the people. O priests, serve that Agni; this is the word to be supplied.
+
+### Printed p. 628
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- खादिनं न (*khādinaṃ na*)—like tigers and others that devour everything
+- यं (*yaṃ*)—which Agni
+- जातं (*jātaṃ*)—just born
+- शिशुं न (*śiśuṃ na*)—like a babe
+- हस्ते (*haste*)—in the hand
+- आ बिभ्रति (*ā bibhrati*)—the priests hold, such a one and
+- विशां (*viśāṃ*)—for the people
+- स्वध्वरं (*svadhvaraṃ*)—the accomplisher of an excellent sacrifice
+- अग्निं (*agniṃ*)—Agni (worship)
+
+##### भावार्थ (Bhāvārtha)
+
+Worship that Agni whom the priests receive in the hand, like a newborn babe, just as tigers and other creatures devour everything, he who devours the oblations, and who is the accomplisher of an excellent sacrifice for the people.
+
+##### English translation
+(Worship) that Agni whom (the priests) bear in their hands like a new-born babe; the devourer (of the oblation), the (conveyer of the) holy sacrifices of men.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is shown by the sūtra of the Āśvalāyana Śrauta Sūtra, आ यं हस्ते न खादिनमित्यर्धर्च आरमेत् (*ā yaṃ haste na khādinamityardharca āramet*) (Ā. Sū. 2-16), that at the time of churning Agni, as soon as Agni has been produced, this Ṛk "ā yaṃ haste" is to be recited as the anuvākyā mantra. The 40th, 41st and 42nd Ṛks of this sūkta are very important mantras in the rite of Agni-churning. The order of reciting them and their explanation are given at length in the Aitareya Brāhmaṇa. That very matter we explain here, with the mantras and the necessary explanation.
+
+**Description of the rite of Agni-churning (as in the Aitareya Brāhmaṇa)**
+
+When Agni is produced in a sacrifice, two pieces of wood of the aśvattha tree or the śamī tree are placed one upon the other and rubbed hard. From that Agni is produced. In this matter:
+
+शमिगर्भादग्निं मंथति । एषा ना अग्नेय्यज्ञिया तनूः । तामेवास्मै जनयति ॥ (*śamigarbhādagniṃ maṃthati | eṣā nā agneyyajñiyā tanūḥ | tāmevāsmai janayati ‖*) (Tai. Brā. 1-1--9-1) **GLOSS**
+
+### Printed p. 629
+
+so runs the sentence of the Taittirīya Brāhmaṇa. The procedure for producing Agni by churning, with mantras and with the rites, in sacrifices and the like, is stated in the Aitareya Brāhmaṇa (Ai. Brā. 3-5) as follows. Since the churning of Agni is the matter spoken of in this Ṛk, it is proper to explain that procedure here. In a sacrifice, after the rite called Somavikrayaṇa (obtaining the Soma plant by purchase from those who have brought it from mountains, forests and the like) is completed, the work of Agni-churning begins. Then the priest called Adhvaryu addresses the priest called Hotṛ and speaks thus:
+
+अग्नये मध्यमानायानुब्रूहित्याहाध्वर्युरभि त्वा देव सवितरिति सावित्रीमन्वाह तदादुर्यदग्नये मध्यमानायानुवाचाहाथ कस्मात्सावित्रीमन्वाहेति । सविता वै प्रसवानामीशे सवितृप्रसूत एवैनं तन्मंथति तस्मात्सावित्रीमन्वाह । (*agnaye madhyamānāyānubrūhityāhādhvaryurabhi tvā deva savitariti sāvitrīmanvāha tadāduryadagnaye madhyamānāyānuvācāhātha kasmātsāvitrīmanvāheti | savitā vai prasavānāmīśe savitṛprasūta evainaṃ tanmaṃthati tasmātsāvitrīmanvāha |*)
+
+The Adhvaryu, addressing the Hotṛ, speaks the praiṣa mantra अग्नये मध्यमानायनुब्रू ३ हि (*agnaye madhyamānāyanubrū 3 hi*). A praiṣa mantra is the recitation of a mantra by which, when various rites are performed in a sacrifice, the Adhvaryu and others, addressing the person concerned, enjoin in the form of a command: "Perform such and such a rite (or oblation)." Hearing it, the Hotṛ recites the mantra addressed to Savitṛ (the Sāvitrī Ṛk):
+
+अभि त्वा देव सवितरीशानं नार्याणां । सदावन् भागमीमहे ॥ (*abhi tvā deva savitarīśānaṃ nāryāṇāṃ | sadāvan bhāgamīmahe ‖*) (Ṛ. Saṃ. 1-24-3) **GLOSS**
+
+Here a doubt arises. Although the Adhvaryu has directed the Hotṛ to say the mantra necessary for the churning of Agni, why does the Hotṛ, not doing so, recite a Ṛk addressed to the deity Savitṛ? Is this not a mistake? The answer is that it is not. As the sentence सविता वै प्रसवानामिशे (*savitā vai prasavānāmiśe*) says, in all rites such as sacrifices, whatever has to be produced, Savitṛ is the lord of all that production; therefore it is natural that, for the beginning of the work of producing Agni, called Agni-churning, the permission of the deity Savitṛ should be asked. For that reason the Hotṛ first recites the Ṛk addressed to Savitṛ.
+
+मही द्यौः पृथिवी च न इति द्यावापृथिवीयामन्वाह । तदाहुर्यदग्नये मध्यमानायानुवाचाहाथ कस्माद्ध्यावापृथिवीयामन्वाहेति द्यावापृथिवीभ्यां ना एतं जातं देवाः पर्यगृण्णंस्ताभ्यामेवाद्यापि परिगृहीतस्तस्माद्ध्यावापृथिवीयामन्वाह ॥ (*mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivīyāmanvāha | tadāhuryadagnaye madhyamānāyānuvācāhātha kasmāddhyāvāpṛthivīyāmanvāheti dyāvāpṛthivībhyāṃ nā etaṃ jātaṃ devāḥ paryagṛṇṇaṃstābhyāmevādyāpi parigṛhītastasmāddhyāvāpṛthivīyāmanvāha ‖*)
+
+Then the Hotṛ went on:
+
+मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षतां । पितृतां नो भरीमभिः ॥ (*mahī dyauḥ pṛthivī ca na imaṃ yajñaṃ mimikṣatāṃ | pitṛtāṃ no bharīmabhiḥ ‖*) (Ṛ. Saṃ. 1-22-13) **GLOSS**
+
+### Printed p. 630
+
+he recites the Ṛk addressed to Dyāvāpṛthivī (Heaven and Earth). Some raise this objection: when he is told to say a Ṛk for the work of Agni-churning, addressed to Agni, why does this Hotṛ recite a Ṛk addressed to Dyāvāpṛthivī? The answer is that in former times, when Agni was produced, the Devas received him between Dyāvāpṛthivī (earth and heaven). (They held him.) Therefore the same must be done now. Since the Agni named Pāvaka is received by the earth, and the Agni in the form of the Sun is received by heaven, it is proper that for the reception of Agni a Ṛk addressed to Dyāvāpṛthivī should be recited.
+
+त्वामग्ने पुष्करादधीति तृचमाग्नेयं गायत्रमन्वाहाग्नौ मध्यमाने स्वयैवैनं तद्देवतया स्वेन छंदसा समर्धयति । अथर्वा निरमंथतेति रूपसमृद्धमेतदै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति ॥ (*tvāmagne puṣkarādadhīti tṛcamāgneyaṃ gāyatramanvāhāgnau madhyamāne svayaivainaṃ taddevatayā svena chaṃdasā samardhayati | atharvā niramaṃthateti rūpasamṛddhametadai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati ‖*)
+
+Then, for the churning of Agni, the Hotṛ recites the three Ṛks addressed to the deity Agni:
+
+त्वामग्ने पुष्करादध्यथर्वा निरमंथत । मूर्ध्नो विश्वस्य वाघतः । तमु त्वा दध्यज् ऋषिः पुत्र ईधे अथर्वणः । वृत्रहणं पुरंदरं ॥ त मु त्वा पाथ्यो वृषा समीधे दस्युहंतमं । धनंजयं रणेरणे ॥ (*tvāmagne puṣkarādadhyatharvā niramaṃthata | mūrdhno viśvasya vāghataḥ | tamu tvā dadhyaj ṛṣiḥ putra īdhe atharvaṇaḥ | vṛtrahaṇaṃ puraṃdaraṃ ‖ ta mu tvā pāthyo vṛṣā samīdhe dasyuhaṃtamaṃ | dhanaṃjayaṃ raṇeraṇe ‖*) (Ṛ. Saṃ. 6-16-13, 14. 15) **GLOSS**
+
+These three Ṛks praise the deity Agni alone, and they are Ṛks in the Gāyatrī metre, which is dear to Agni. For both Agni and the Gāyatrī metre were produced by Prajāpati, so the Gāyatrī metre is said to be Agni's own metre. Now, in the second pāda of the first Ṛk it is said अथर्वा निरमंथत (*atharvā niramaṃthata*): the seer named Atharvan churned Agni and produced him. This seer Atharvan was the first of all to churn Agni in the aranis (the two fire-sticks) and produce him. Therefore there is the prayer that Agni, born as a son to the seer Atharvan, may grow abundantly in the sacrifice and flourish. For this reason it is natural to recite these Ṛks, which give the meaning that Agni, produced and shaped from the aranis (that is, in his complete form as Agni), may blaze up in the sacrificial rite (burning high) and shine. Whatever mantra is recited in a sacrifice, its meaning must be such as to explain the rite concerned. This is called rūpasamṛddhi.
+
+स यदि न जायेत यदि चिरं जायेत राक्षोघ्नो गायत्रोऽनूच्याः अग्ने हंसिन्य १ त्रिणमित्येताः रक्षसामपहत्यै रक्षांसि ना एनं तर्हालभंते यर्हि न जायते यर्हि चिरं जायते ॥ (*sa yadi na jāyeta yadi ciraṃ jāyeta rākṣoghno gāyatro 'nūcyāḥ agne haṃsinya 1 triṇamityetāḥ rakṣasāmapahatyai rakṣāṃsi nā enaṃ tarhālabhaṃte yarhi na jāyate yarhi ciraṃ jāyate ‖*)
+
+### Printed p. 631
+
+The five Ṛks mentioned above are to be recited while churning Agni in the aranis. If, even when this is done, Agni is not produced, or if he is produced slowly after a long time, with smoke and the like coming, then the following Rākṣoghna sūkta in the Gāyatrī metre is to be recited:
+
+अग्ने हंसि नृ १ त्रिणं दीद्यन्मर्तेष्वा । स्वे क्षये शुचिव्रत ॥ उत्तिष्ठसि स्वाहुतो घृतानि प्रतिमोदसे । यत्त्वा स्सुचः समस्थिरन् ॥ स आहुतो वि रोचतेऽग्निरीळेन्यो गिरा । सुचा प्रतीकमज्यते ॥ घृतेनाग्निः समज्यते मधुप्रतीक आहुतः । रोचमानो विभावसुः । जरमाणः समिध्यसे देवेभ्यो दव्यवाहन । तं त्वा हवंत मर्त्याः ॥ तं मर्ता अमर्त्यं घृतेनाग्निं सपर्यत । अदाभ्यं गृहपतिं ॥ अदाभ्येन शोचिषाग्ने रक्षस्त्वं दह । गोपा ऋतस्य दीदिहि । स त्वमग्ने प्रतीकेन प्रत्योष यातुधान्यः । उरुक्षयेषु दीद्यत् ॥ तं त्वा गीर्भिरुरुक्षया हव्यवाहं समाधिरे । यजिष्यं मानुषे जने ॥ (*agne haṃsi nṛ 1 triṇaṃ dīdyanmarteṣvā | sve kṣaye śucivrata ‖ uttiṣṭhasi svāhuto ghṛtāni pratimodase | yattvā ssucaḥ samasthiran ‖ sa āhuto vi rocate 'gnirīḷenyo girā | sucā pratīkamajyate ‖ ghṛtenāgniḥ samajyate madhupratīka āhutaḥ | rocamāno vibhāvasuḥ | jaramāṇaḥ samidhyase devebhyo davyavāhana | taṃ tvā havaṃta martyāḥ ‖ taṃ martā amartyaṃ ghṛtenāgniṃ saparyata | adābhyaṃ gṛhapatiṃ ‖ adābhyena śociṣāgne rakṣastvaṃ daha | gopā ṛtasya dīdihi | sa tvamagne pratīkena pratyoṣa yātudhānyaḥ | urukṣayeṣu dīdyat ‖ taṃ tvā gīrbhirurukṣayā havyavāhaṃ samādhire | yajiṣyaṃ mānuṣe jane ‖*) (Ṛ. Saṃ. 10-118-1 to 9) **GLOSS**
+
+There are nine Ṛks in this sūkta. They drive away the Rākṣasas and kill them. Therefore, by reciting these Ṛks the Rākṣasas are destroyed. The reason why Agni is not produced at the time of churning, or is produced late, is that these Rākṣasas obstruct Agni and keep him in their power without releasing him. Therefore the killing of the Rākṣasas is necessary in order to set Agni free. For that reason it is said that the Rākṣoghna sūkta of these nine Ṛks is to be recited.
+
+स यद्येकस्यामेवानूक्तायां जायेत यदि द्वयोरथोत ब्रुवंतु जंतव इति जाताय जातवतीमभिरूपामनुब्रूयात् ॥ (*sa yadyekasyāmevānūktāyāṃ jāyeta yadi dvayorathota bruvaṃtu jaṃtava iti jātāya jātavatīmabhirūpāmanubrūyāt ‖*)
+
+While the Rākṣoghna sūkta is being recited, if Agni is produced after one Ṛk has been recited in the middle, or after the recitation of two, three or more Ṛks, then at that very moment
+
+उत ब्रुवंतु जंतव उदग्निर्वृत्रहाजनि । धनंजयो रणेरणे (*uta bruvaṃtu jaṃtava udagnirvṛtrahājani | dhanaṃjayo raṇeraṇe*) (Ṛ. Saṃ. 1-74-3) **GLOSS**
+
+this Ṛk is to be recited at once. For the matter set forth in this Ṛk is favourable to the production of Agni. The word जातवतीं (*jātavatīṃ*) is used in order to state this favourableness. Then, in the second pāda उदग्निर्वृत्रहाजनि (*udagnirvṛtrahājani*)
+
 ---
 
-**Progress note:** Done through printed p. 625. Sukta 16 Rk 35-39, pp. 620-625
+**Progress note:** Done through printed p. 631. Ai. Brā./Tai. Saṃ. Asura cities; Ṛk 40 with bhāṣya; Special Topics on Agni-churning rite
