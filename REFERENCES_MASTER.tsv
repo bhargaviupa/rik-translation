@@ -8,7 +8,6 @@ NOT IN LIST	Maṃ.			retain: Maṃ. = Ṛgveda maṇḍala ("Maṃ. 2-32" = ma�
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
 NOT IN LIST	Saṃ.			no list form close to it	none		10		1				1				1	1	2	1			2	1
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
-NOT IN LIST	Ṛ. Sa.		Ṛ. Saṃ.	known spelling of Ṛ. Saṃ. (capitals/dots differ)	high		8		2		4											2		
 NOT IN LIST	Trai. Saṃ.			no list form close to it	none		7											1	5	1				
 NOT IN LIST	Atha. Ve.			no list form close to it	none		7																	7
 NOT IN LIST	Paṃ. Brā.			no list form close to it	none		6					4									2			
@@ -331,6 +330,7 @@ mistake	pā. sū.	→ Pā. Sū.					10		6		2			2
 mistake	dhā.	→ Dhā.					8	6				2												
 mistake	jai. sū.	→ Jai. Sū.					8	8																
 mistake	āśva.	→ Ā. Sū.					8	1				4				3								
+mistake	Ṛ. Sa.	→ Ṛ. Saṃ.					8		2		4											2		
 mistake	Āś. Gṛ.	→ Ā. Gṛ. Sū.					8		1	1	4	1		1										
 mistake	Āś. Gṛ. Sū.	→ Ā. Gṛ. Sū.					8					8												
 mistake	Mi. Saṃ.	→ Ṛ. Saṃ.					8													2	2	4		
