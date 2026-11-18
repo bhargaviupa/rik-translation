@@ -15016,6 +15016,117 @@ The flame of the showerer, (Agni), repeatedly descends like the hurled thunderbo
 
 O Agni, you who are of great nature and an impeller: with your powerful radiances you have pervaded and covered all the regions of the earth to be gone to. Such a one, destroy all the sources of fear to us. Harming with powerful radiances the enemies who fight with us, conquer the enemies who injure us.
 
+### Printed p. 438
+
+##### English translation
+You overspread the accessible places of the earth with light by
+the energy of your powerful, exciting (influence) : you disperse all perils
+and, baffling (our) adversaries by your mighty (powers), destroy (our) foes.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स चि॑त्र चि॒त्रं चि॒तयं॑तम॒स्मे चित्र॑क्षत्र चि॒त्रत॑मं वयो॒धां ।  
+> चं॒द्रं र॒यिं पु॑रु॒वीरं॑ बृ॒हंतं॒ चंद्र॑ चं॒द्राभि॑र्गृण॒ते  ॑
+> युवस्व ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चित्र । चित्रं । चितयंतं । अस्मे इति । चित्रक्षत्र । चित्रतमं । वयःधां ।  
+> चंद्रं । रयिं । पुरुवीरं । बृहंतं । चंद्र । चंद्राभिः । गृणते । युवस्व ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उखासंभरणीयेष्वावग्नेः क्षत्रवतः स चित्रेत्येषा याज्या । सूत्रितं च । स
+> चित्र चित्रं चितयंतमस्मे अग्निरीशे बृहतः क्षत्रियस्य । आ- ४-१ । इति ॥
+> हे चित्र चायनीय हे चित्रक्षत्र विचित्रबल चायनीयधन वा हे चंद्राह्लादकाग्ने स तादृशस्त्वं चंद्राभिराह्लादयित्रिभिः स्तुतिभिर्ग्गणते स्तुवते। वचनव्यत्ययः।
+> स्तुवद्योऽस्मे अस्मभ्यं दातुं रयिं धनं युवस्व । पृथक्कुरु । कीदृशं रयिं ।
+> चित्रं चायनीयं चितयंतं ज्ञापयंतं । धनेन हि पुरुषः प्रख्यायते ।
+> चित्रतममतिशयेनाश्चर्यभूतं वयोधां वयस्सोऽन्नस्य धातारं प्रजातारं
+> चंद्रमाह्लादकं पुरुवीरं पुरुभिर्बहुभिर्विरैः पुत्रपौत्रादिभिर्युक्तं बृहंतं
+> महांतं । ईदृशं धनमस्मभ्यं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Ukhāsaṃbharaṇa rites this verse is the yājyā offered to Agni, who is possessed of kṣatra (for a sacrificer of the warrior class). The sūtra says so (Ā. 4-1). Sāyaṇa explains: O wonderful one, who is to be piled (cāyanīya); O one of wonderful strength, or one whose wealth is to be piled; or O delightful Agni, the giver of joy: such as you are, grant wealth to us who praise you with delighting praises (the singular "to the one who praises" stands for the plural, a change of number). "Yuvasva" means "set apart". What kind of wealth? Wonderful and worthy of being piled; making one known, for by wealth a man becomes renowned; most wonderful, that is, astonishing in the highest degree; the supporter and producer of food (vayas); delightful; accompanied by many heroes, that is, by sons, grandsons and the like; great. The meaning is: give us such wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र (*citra*)—the attractive one
+- चित्रक्षत्र (*citrakṣatra*)—the one possessed of wonderful strength
+- चंद्र (*caṃdra*)—the one of delightful nature, O Agni
+- सः (*saḥ*)—such you
+- चंद्राभिः (*caṃdrābhiḥ*)—with praises that produce delight
+
+### Printed p. 439
+- गृणते (*gṛṇate*)—who praise you
+- अस्मे (*asme*)—to all of us
+- चित्रं (*citraṃ*)—that which is attractive
+- चितयंतं (*citayaṃtaṃ*)—that which makes (our duty) known
+- चित्रतमं (*citratamaṃ*)—that which is astonishing
+- वयोधां (*vayodhāṃ*)—that which gives food
+- चंद्रं (*caṃdraṃ*)—that which gives joy
+- पुरुवीरं (*puruvīraṃ*)—that which is accompanied by heroic sons and the like
+- बृहंतं (*bṛhaṃtaṃ*)—that which is abundant
+- रयिं (*rayiṃ*)—wealth
+- युवस्व (*yuvasva*)—they set apart in portions **NOTE**
+
+O attractive one, O one of wonderful strength, O delightful Agni: such a one as you, to all of us who praise you with praises that produce delight, set apart in portions and placed wealth that is attractive, that makes known our duty, that is astonishing, that gives food, that is accompanied by heroic sons and the like, and that is abundant. (Give it.)
+
+##### English translation
+Wonderful Agni. of wonderful strength, bestower of delight, grant to us, and to him who praises you with gratifying (praises), most wonderful riches, conferring fame, supplying food, comprehending male descendants, delectable and infinite.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Ukhāsaṃbharaṇa, in the oblation made to Agni, if the sacrificer is a Kṣatriya, this Ṛk beginning "Sa citra" is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स चित्र चित्रं चितयंतमस्मे अग्निरीशे बृहतः क्षत्रियस्य (*sa citra citraṃ citayaṃtamasme agnirīśe bṛhataḥ kṣatriyasya*) (Ā. 4-1).
+
+## Sūkta 7 (Maṇḍala 6)
+In this Sūkta and in the next two Sūktas Vaiśvānara Agni is praised. Although we have given many explanations about Vaiśvānara Agni before, what Yāska has said at length on this subject in his Nirukta, and the examination of the differing opinions of other sages on it, are explained here.
+
+### Printed p. 440
+**A brief introduction to Vaiśvānara Agni**
+वैश्वानरः । इति त्रीणि पदानि । वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयंतीति वा । अपि वा विश्वानर एव स्यात् प्रत्यकृतः सर्वाणि भूतानि तस्य वैश्वानरः ॥ (*vaiśvānaraḥ | iti trīṇi padāni | vaiśvānaraḥ kasmādviśvānnarānnayati | viśva enaṃ narā nayaṃtīti vā | api vā viśvānara eva syāt pratyakṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ ‖*) (Ni. 7-21)
+Now we shall explain the word Vaiśvānara. This word Vaiśvānara is a word denoting a deity who contains the meaning of the three words "viśvān narān nayati". If it is asked why this name came to Vaiśvānara: this deity "viśvān narān nayati", that is, leads all people on the good path; that is, he is the one who sets all people on the good path. Therefore this deity is named Vaiśvānara. Or, "viśva enaṃ narā nayanti iti vā": or all people carry this deity in the sacrifices they perform to the northern altar; that is, when in sacrifices the rite called agnipraṇayana is performed, the fire is churned and produced, and from the place where it was produced it is duly taken to the vicinity of the northern altar and installed there. Or all people take the fire to their own houses and install it in places such as the great kitchen for the work of cooking. Therefore this fire is named Vaiśvānara. Or Viśvānara himself is Vaiśvānara. This Viśvānara pervades the bodies of all beings, remains there in the form of the digestive fire, and digests the food and other things that beings eat. Therefore the Viśvānara who is in the bodies of all beings is Vaiśvānara Agni.
+वैश्वानरस्य सुमतौ स्याम राजा हिकं भुवनानामभि श्रीः । इतो जातो विश्वमिदं विचष्टे वैश्वानरो यतते सूर्येण ॥ (*vaiśvānarasya sumatau syāma rājā hikaṃ bhuvanānāmabhi śrīḥ | ito jāto viśvamidaṃ vicaṣṭe vaiśvānaro yatate sūryeṇa ‖*) (Ṛ. Saṃ. 1-98-1)
+This Ṛk praises Vaiśvānara Agni. May we be worthy of the favouring intelligence of Vaiśvānara Agni. For this Vaiśvānara Agni is a king, and a king is the support of all worlds. Born in this world, he looks upon the whole universe. Together with the sun he pervades everything. This is the chief import of this Ṛk.
+**Who is Vaiśvānara Agni? Is he a deity of the middle region?**
+इतो जातः सर्वमिदमभिविपश्यति वैश्वानरः संयतते सूर्येण राजा यः सर्वेषां भूतानामभिश्रयणीयस्तस्य वयं वैश्वानरस्य कल्याण्यां मता स्यामेति । तत्को वैश्वानरः । मध्यम इत्याचार्याः ॥ (*ito jātaḥ sarvamidamabhivipaśyati vaiśvānaraḥ saṃyatate sūryeṇa rājā yaḥ sarveṣāṃ bhūtānāmabhiśrayaṇīyastasya vayaṃ vaiśvānarasya kalyāṇyāṃ matā syāmeti | tatko vaiśvānaraḥ | madhyama ityācāryāḥ ‖*) (Ni. 7-22)
+
+### Printed p. 441
+This is the explanation of the Ṛk. This Vaiśvānara Agni, born in this world itself, is able to see the whole universe. Together with the sun he pervades the whole universe. May we be worthy of the excellent intelligence, that is, the favour, of such a Vaiśvānara Agni. He is the king and the support of all created beings. But who is this Vaiśvānara? What is his nature? Some teachers say that this Vaiśvānara is a deity dwelling in the middle region (the atmosphere). For their opinion is that this Vaiśvānara himself is the cause of rain. Therefore a Ṛk which describes the part played by this Vaiśvānara in the work of rain is cited here:
+प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्काष्ठा अव शंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkāṣṭhā ava śaṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6)
+I shall describe in particular the greatness of this Vaiśvānara Agni, the bestower of desired things. Many people serve with devotion this Vaiśvānara Agni, the slayer of Vṛtra. This Vaiśvānara Agni destroyed Vṛtra the Dasyu, split (and killed) the demon Śambara (the cloud), and caused the waters gathered in the clouds to fall on the earth in the form of rain. This is the chief import of this Ṛk.
+The explanation of this Ṛk is:
+प्रब्रवीमि तन्महित्वं महाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयि तव्या मनुष्या वृत्रहणं मेघहनं सचंते सेवंते वर्षकामाः । दस्युर्दस्यतेः क्षयार्थादुपदस्यंत्यस्मिन्नसा उपदासयति कर्माणि तमग्निर्वैश्वा नरो घ्ननाधूनोदपः काष्ठा अभिनभ्भंबरं मेघं ॥ (*prabravīmi tanmahitvaṃ mahābhāgyaṃ vṛṣabhasya varṣiturapāṃ yaṃ pūravaḥ pūrayi tavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacaṃte sevaṃte varṣakāmāḥ | dasyurdasyateḥ kṣayārthādupadasyaṃtyasminnasā upadāsayati karmāṇi tamagnirvaiśvā naro ghnanādhūnodapaḥ kāṣṭhā abhinabhbhaṃbaraṃ meghaṃ ‖*) (Ni. 7-23)
+So it stands. I shall describe in a special manner the great glory (the excess of power) of this Vaiśvānara Agni, who sends down the rain of water. People who desire what they wish for, and who long for rain, serve with reverence, by praises and the like, this Vaiśvānara Agni, the destroyer of the demon Vṛtra (the cloud). The word dasyu is formed from the root das, "to destroy", and indicates the meaning of a wicked one who obstructs the water from falling on the earth and destroys it. The chief import is that Vaiśvānara Agni struck such a Dasyu, Śambara (the cloud; the word śambara is read among the names of the cloud), scattered the waters that had been gathered in the cloud, and caused them to fall on the earth in the form of rain.
+
+### Printed p. 442
+**The view of the earlier sacrificial teachers that Vaiśvānara is Āditya (the sun)**
+**(Objections and answers on this point)**
+अथासावादित्य इति पूर्वे याज्ञिकाः । एषां लोकानां रोहेण सवनानां रोह अम्मातो रोहात् प्रत्यवरोहश्चिकीर्षितस्तामनुकृतिं होताग्निमारुते शस्त्रे वैश्वानरीयेण सूक्तेन प्रतिपद्यते सोऽपि न स्तोत्रियमाद्रियेताग्नेयो हि भवति । तत आगच्छति मध्यस्थाना देवता रुद्रं च मरुतश्च ततोऽग्निमिहस्थानमत्रवै स्तोत्रियं शंसति ॥ (*athāsāvāditya iti pūrve yājñikāḥ | eṣāṃ lokānāṃ roheṇa savanānāṃ roha ammāto rohāt pratyavarohaścikīrṣitastāmanukṛtiṃ hotāgnimārute śastre vaiśvānarīyeṇa sūktena pratipadyate so 'pi na stotriyamādriyetāgneyo hi bhavati | tata āgacchati madhyasthānā devatā rudraṃ ca marutaśca tato 'gnimihasthānamatravai stotriyaṃ śaṃsati ‖*) (Ni. 7-23)
+Certain teachers of former times, skilled in the performance of sacrificial rites, say that this Āditya, who is visible to our eyes, is Vaiśvānara. They give the reason in this way. In sacrificial rites such as the morning pressing there is an order of ascent (roha) and descent (avaroha). The same order is found in the worlds: the earth (the lower region), the atmosphere (the middle region), and heaven (the heavenly region). In the same way there are three pressings in the sacrifices: the morning pressing, the midday pressing and the third pressing. In sacrifices the Hotṛ, at the morning pressing, invokes and praises the deities of the earth region; at the midday pressing, the deities of the middle region; at the third pressing, the deities of the heavenly region. This is the order of ascent. After the ascent comes the order of descent. That is, first the deities of the heavenly region are praised, then the deities of the middle region, then the deities of the earth region, in order. This is the order of descent. In the order of descent, Vaiśvānara Agni is praised first by the Sūkta वैश्वानराय पृथुपाजसे (*vaiśvānarāya pṛthupājase*) (Ṛ. Saṃ. 3-3-1); then Rudra and the Maruts, deities of the middle region, by the Sūkta आते पितर्मरुतां (*āte pitarmarutāṃ*) (Ṛ. Saṃ. 2-23-1); then Agni, the deity of the earth region, by the Sūkta यज्ञायज्ञावो अग्नये (*yajñāyajñāvo agnaye*) (Ṛ. Saṃ. 6-48-1). Since in the order of descent the praise of Vaiśvānara Agni comes first, and since this Āditya is a deity of the heavenly region, this Vaiśvānara Agni is Āditya: such is their line of argument.
+अथापि वैश्वानरीयो द्वादशकपालो भवत्येतस्य हि द्वादशविधं कर्म । (*athāpi vaiśvānarīyo dvādaśakapālo bhavatyetasya hi dvādaśavidhaṃ karma |*)
+Besides, an oblation on twelve potsherds is always offered to Vaiśvānara Agni. An oblation on twelve potsherds is stated also for Āditya, in "आदित्यं द्वादशकपालं (*ādityaṃ dvādaśakapālaṃ*)". Since an oblation in twelve portions, indicating the twelve months, is stated for Āditya, and is stated in the same way for Vaiśvānara Agni, this Vaiśvānara Agni is Āditya.
+
+### Printed p. 443
+अथापि ब्राह्मणं भवत्यसौ ना आदित्योऽग्निर्वैश्वानरः ॥ (*athāpi brāhmaṇaṃ bhavatyasau nā ādityo 'gnirvaiśvānaraḥ ‖*)
+Besides, there is also a Brāhmaṇa statement that this Āditya is Vaiśvānara Agni.
+अथापि निवित् सौर्यवैश्वानरी भवत्या यो द्यां भात्या पृथिवीमित्येष हि द्यादापृथिव्यावाभासयति । (*athāpi nivit sauryavaiśvānarī bhavatyā yo dyāṃ bhātyā pṛthivīmityeṣa hi dyādāpṛthivyāvābhāsayati |*)
+A nivid mantra is a particular mantra which praises a deity and, in the middle of the śastra mantras, praises the distinctive excellence of that deity; it is a separate mantra inserted in the middle of the śastra mantras and recited. Here, when the nivid mantras addressed to Āditya are recited, the mantra of Sūrya and Vaiśvānara is recited; that is, that nivid mantra praises both the sun and Vaiśvānara Agni (it sings the qualities of those deities). That mantra begins आ यो द्यां भात्या पृथिवीं (*ā yo dyāṃ bhātyā pṛthivīṃ*) and means "who lights heaven and earth with his own light". He who lights heaven and earth with his own light is Āditya himself; therefore the Vaiśvānara Agni taught by this mantra is also Āditya.
+अथापि छांदोमिकं सूक्तं सौर्यवैश्वानरं भवति दिव पृष्टो अरोचत इत्येष हि दिवि पृष्टो अरोचतेति । (*athāpi chāṃdomikaṃ sūktaṃ sauryavaiśvānaraṃ bhavati diva pṛṣṭo arocata ityeṣa hi divi pṛṣṭo arocateti |*)
+And the Chandomika Sūkta दिवि पृष्ठो अरोचत (*divi pṛṣṭho arocata*) (Vā. Siṃ. 33-92) **NOTE** has Sūrya-Vaiśvānara as its deity. In it is said that he shines on the back (the lower part) of heaven. He who shines in heaven is Āditya. Since Vaiśvānara is praised by this very Sūkta, it follows that this Vaiśvānara Agni is Āditya.
+अथापि हविष्वांतीयं सूक्तं सौर्यवैश्वानरं भवति । (*athāpi haviṣvāṃtīyaṃ sūktaṃ sauryavaiśvānaraṃ bhavati |*)
+And the Sūkta हविष्वांतमजरं (*haviṣvāṃtamajaraṃ*) (Ṛ. Saṃ. 10-88-1), the Haviṣvantīya Sūkta (the Sūkta recited at the time of drinking the oblation), has Sūrya and Vaiśvānara Agni as its deity; that is, this Sūkta has Sūrya-Vaiśvānara as its deity. In the Ṛk of this Sūkta
+विश्वस्था अग्निं भुवनाय देवा वैश्वानरं केतुमह्नामकृण्वन् । (*viśvasthā agniṃ bhuvanāya devā vaiśvānaraṃ ketumahnāmakṛṇvan |*) (Ṛ. Saṃ. 10-88-2)
+it is said that the gods appointed this Vaiśvānara Agni, in order to give light to the whole world, to produce the days (the daytimes). Since it is the sun that produces days, and since this Vaiśvānara Agni too has the power to produce days, Vaiśvānara Agni and Āditya are one and the same person; that is, this Vaiśvānara Agni is Āditya. All this is the view of the earlier teachers, the sacrificers.
+
+### Printed p. 444
+**The view of Śākapūṇi that Vaiśvānara is the terrestrial fire (and not Āditya)**
+**(Objections and answers on this point)**
+अयमेवाग्निर्वैश्वानर इति शाकपूणिः । विश्वासरावेते उत्तरे ज्योतिषी वैश्वानरोऽयं यत्ताभ्यां जायते । कथं न्वयमेताभ्यां जायत इति यत्र वैद्युतः शरणमभिहंति यावदनपात्तो भवति मध्यमधर्म्यैव शावद्भवत्युदकेंधनः शरीरोपशमन उपादीयमान एवायं संपद्यत उदकोपशमनः शरीरदीप्तिः ॥ (*ayamevāgnirvaiśvānara iti śākapūṇiḥ | viśvāsarāvete uttare jyotiṣī vaiśvānaro 'yaṃ yattābhyāṃ jāyate | kathaṃ nvayametābhyāṃ jāyata iti yatra vaidyutaḥ śaraṇamabhihaṃti yāvadanapātto bhavati madhyamadharmyaiva śāvadbhavatyudakeṃdhanaḥ śarīropaśamana upādīyamāna evāyaṃ saṃpadyata udakopaśamanaḥ śarīradīptiḥ ‖*)
+It is the view of the teacher named Śākapūṇi that the terrestrial fire itself is Vaiśvānara Agni. For the terrestrial fire is produced from two lights (from two Viśvānara fires), the light of Āditya in the heavenly region and the lightning light in the middle region. Therefore the fire produced from the Viśvānaras is called Vaiśvānara Agni; that is, the terrestrial fire is Vaiśvānara Agni. If it is asked how the terrestrial fire is produced from the two lights, the light of Āditya and the lightning light, they explain it. The light of Āditya, which undergoes no change in place or in nature, is called the first quality. That is, this light of Āditya stays where it is, draws up by its rays the waters of the sea and other reservoirs, and turns those waters into clouds; this is the work of the first light. Next, the lightning fire is called the second. The nature of this lightning fire is the middle quality, that is, it is different. This lightning fire has the nature of moving in the midst of the waters (the clouds), and the nature of striking and destroying trees, houses and the like, which are a shelter to people; that is, since this lightning fire has the power to move in the waters, it cannot be quenched by water (as ordinary fire is extinguished). And ordinary fire is kindled by trees, wood and other things and begins to burn; but when lightning fire touches trees and the like, it is quenched on the spot; that is, its force ends there. It does not grow by trees and the like. And this lightning fire cannot be held with the hands and the like. This is the nature of the lightning fire. But the nature of the terrestrial fire (ordinary fire) is entirely opposite to this. The terrestrial fire can be increased by wood and the like, can be quenched by water, and can be held by the hands and the like. These are the natural qualities of the terrestrial fire. An explanation is necessary on the point that the terrestrial fire is produced from the two lights, the light of the heavenly region and the light of the middle region. Āditya, the light of the heavenly region, draws by his rays the waters of the sea and other reservoirs and turns them into clouds. When the lightning fire seen in those clouds touches trees and the like, the terrestrial fire arises and burns; such
+
 ---
 
-**Progress note:** Done through printed p. 437. Mandala 6 sukta 6 rks 2-6
+**Progress note:** Done through printed p. 444. Vol 20 Mandala 6 Sukta 6 Rk 7 and start of Sukta 7 introduction (Vaisvanara in the Nirukta)
