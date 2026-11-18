@@ -7493,6 +7493,172 @@ O Indra, these praisers, causing excellent happiness, fashion a hymn addressed t
 ##### English translation
 These devoted Maruts eulogise you with pious praise, and pour out to you the sacrificial food : Indra has overcome by his devices the guileful Ahi, harassing the gods and arresting the waters.
 
+### Printed p. 189
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः (*marutaḥ*)—महत् रवंति वदंतीति मरुतः स्तोतारः । (*mahat ravaṃti vadaṃtīti marutaḥ stotāraḥ |*) The commentator explains the parts of the word *marutaḥ* thus: those who sound forth with a great loud voice, that is, who recite hymns of praise loudly, the praisers.
+
+सुशेवाः (*suśevāḥ*)—शेवमिति सुखनामैतत् । शोभनसुखाः संतः । स्तोत्रेण शोभनं सुखमुत्पादयंत इत्यर्थः । (*śevamiti sukhanāmaitat | śobhanasukhāḥ saṃtaḥ | stotreṇa śobhanaṃ sukhamutpādayaṃta ityarthaḥ |*) The word *śeva* is read among the names of happiness (Ni. 3-13). Concerning this word Yāska says:
+
+शेव इति सुखनाम शिष्यतेर्वकारो नामकरणोऽन्तस्थांतरोपलिंगी । विभाषितगुणः शिवमित्यप्यस्य भवति ॥ (*śeva iti sukhanāma śiṣyatervakāro nāmakaraṇo 'ntasthāṃtaropaliṃgī | vibhāṣitaguṇaḥ śivamityapyasya bhavati ‖*)
+
+(Ni. 18-18). **NOTE**
+
+The word *śeva* means happiness. This word is formed from the root *śiṣ*. How: the letter ṣ in the middle of the root *śiṣ* (*śiṣyati*) is counted as a semivowel. The semivowels are the letters ya, ra, la, va; of these semivowels the letter va takes the place of the letter ṣ. This is what is called *nāmakaraṇa*. Therefore, when the ṣ of the root *śiṣ* is dropped, only the letter *śi* remains. When the semivowel va is added to it as an affix, *śiva* results. When the guṇa comes to the letter *śi* and it becomes *śe*, the word *śeva* results. The meaning intended is that the word *śiva* is also in use.
+
+इत् (*it*)—This word in the Ṛgveda, and also in the other Vedas, indicates the meaning of emphasis, *eva*. In some contexts it has no meaning at all and is used to fit the letters required in the metre, that is, as a filler of the line. Yāska says:
+
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति । (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti |*)
+
+(Ni. 1-9). That is: the particles *kam*, *īm*, *it*, *u* are used for completing a sentence in works that are in prose, not bound by metre, and for completing a line in works of measured syllables, that is, in metres that contain a fixed number of syllables. In such contexts he says these particles have no definite meaning. Yet according to context various meanings of these words are also found stated. For the word *it* in the present passage the meaning of the word *eva* is the usual one in practice. In the present Ṛk, for the words *tubhyet* (*tubhya* + *it*) the commentator too has explained the meaning as "to you alone".
+
+### Printed p. 190
+
+अर्कं (*arkaṃ*)—अर्चनीयं स्तोत्रं । अथवा अर्चंत्येभिरर्काः मंत्राः । (*arcanīyaṃ stotraṃ | athavā arcaṃtyebhirarkāḥ maṃtrāḥ |*) *Arka* means a hymn of praise. Because they are used for praising, mantras or hymns are called *arka*s. Here *arkam* means a hymn of praise composed of such mantras that are to be adored. Yāska has stated four kinds of meaning for this word:
+
+अर्कः । अर्को देवो भवति यदेनमर्चति । (*arkaḥ | arko devo bhavati yadenamarcati |*)
+अर्को मंत्रोभवति यदनेनार्चंति ॥ (*arko maṃtrobhavati yadanenārcaṃti ‖*)
+अर्कमन्नं भवत्यर्चति भूतानि । (*arkamannaṃ bhavatyarcati bhūtāni |*)
+अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥ (*arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*)
+
+(Ni. 5-4). Four kinds of meaning of the word *arka* are stated in this way (Ni. 5-4).
+
+देवः (*devaḥ*)—तावत्सर्व एवार्क इत्युच्यते यदस्मादेनं देवमर्चंति स्तोतारः । (*tāvatsarva evārka ityucyate yadasmādenaṃ devamarcaṃti stotāraḥ |*) *Arka* means a deity. For it is that person or god whom devotees use it to worship; that is, the object worshipped by devotees (the deity) is called *arka*.
+
+अर्को मंत्रो भवति यत् यस्मात् अनेन मंत्रेण अर्चंति स्तोतारः तस्मादर्कः । (*arko maṃtro bhavati yat yasmāt anena maṃtreṇa arcaṃti stotāraḥ tasmādarkaḥ |*) *Arka* is also understood to mean a mantra. For the praisers worship the deity with this (the *arka*, or mantra). Therefore the word *arka* also means a mantra.
+
+अर्कमन्नं भवति—तद्धि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते, पूज्यं च सर्वस्यॆवान्नं । (*arkamannaṃ bhavati—taddhi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate, pūjyaṃ ca sarvasyèvānnaṃ |*) *Arka* is also understood to mean food. Since food (nourishment) is necessary to all living beings, everyone respects and desires food with regard; that is, because all honour and wish for it with love and respect, the word *arka* means food.
+
+अर्को वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्मा =कटुकभावेन भवति । (*arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimmā =kaṭukabhāvena bhavati |*) Further, the meaning of a particular tree for the word *arka* is well known. The *arka* tree is called in the Karnataka language the *ekka* plant. Because its sacrificial sticks are used in homa and other rites, and its milk and leaves are customarily used in medicines and the like, the *arka* tree is a thing known to all. Because it is bitter it is called *kaṭukimmā*.
+
+अंधः (*aṃdhaḥ*)—सोमलक्षणवन्नं । (*somalakṣaṇavannaṃ |*) The word *andhaḥ* is read among the twenty-eight names of food (Ni. 3-9). Although this word has the meaning of food, its use in contexts that designate the Soma juice is a special custom in the Ṛgveda. Yāska says:
+
+### Printed p. 191
+
+अंधः । अंध इत्यन्ननामाध्यानीयं भवति । .... तमोऽप्यंध उच्यते नास्मिन् ध्यानं भवति । न दर्शनमंधंतम इत्यभिभाषंते । अयमपीतरो एतस्मादेव । पश्यदक्षण्वान्न विचेतदंधः इत्यपि निगमो भवति ॥ (*aṃdhaḥ | aṃdha ityannanāmādhyānīyaṃ bhavati | .... tamo 'pyaṃdha ucyate nāsmin dhyānaṃ bhavati | na darśanamaṃdhaṃtama ityabhibhāṣaṃte | ayamapītaro etasmādeva | paśyadakṣaṇvānna vicetadaṃdhaḥ ityapi nigamo bhavati ‖*)
+
+(Ni. 5-1). Thus he has stated the etymology of this word. The general meaning of the word *andhas* is food. For all desire this food, that is, pray that it may come to them. The word *andhaḥ* also means darkness. For in darkness it is possible neither to see anything nor to concentrate the mind and reflect. People commonly use the word अंधंतमः (*aṃdhaṃtamaḥ*) in the sense of pitch darkness, deep gloom in which nothing is seen. These two meanings are formed from one and the same word (or root). Yāska has given as an example the Vedic sentence पश्यदक्ष्णान्न विचेतदंधः (*paśyadakṣṇānna vicetadaṃdhaḥ*), which means that one who has eyes sees, the blind cannot see.
+
+मायाभिः (*māyābhiḥ*)—स्वकीयाभिः शक्तिभिः । (*svakīyābhiḥ śaktibhiḥ |*) By his own powers and capacities; the word *māyā* is read among the names of intelligence (Ni. 3-13). And Yāska, in giving the explanation of the Ṛk beginning मूर्धा भुवो (*mūrdhā bhuvo*), says मायां-प्रज्ञां (*māyāṃ-prajñāṃ*) (Ni. 7-27), and in explaining the Ṛk beginning शुक्रं ते अन्यत् (*śukraṃ te anyat*) he explains the words विश्वा हि मायाः (*viśvā hi māyāḥ*) as सर्वाणि प्रज्ञनानि (*sarvāṇi prajñanāni*) (Ni. 12-17). Where this word is used of the Asuras, and in some contexts of Indra, the word *māyā* is used in the senses of crooked means, intrigue and the like.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि षू मृधो॑ ज॒नुषा॒ दान॒मिन्व॒न्नह॒न्नवा॑ मघवन्त्संचका॒नः।  
+> अत्रा॑ दा॒सस्य॒ नमु॑चेः॒ शिरो॒ यदव॑र्तयो॒ मन॑वे गा॒तुमि॒च्छन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सु । मृधः । जनुषा । दानं । इन्वन् । अहन् । गवा । मघवन् । संचकानः ।  
+> अत्र । दासस्य । नमुचेः । शिरः । यत् । अवर्तय: । मनवे । गातुं । इच्छन् ॥ ७ ॥
+
+### Printed p. 192
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुघवन्थनवन्निंद्र संचकानोऽस्माभिः स्तूयमानस्त्वं ॥ संपूर्वः
+> कायतिः शब्दकर्मा । तस्य लडर्थे लिटि रूपु ॥ दानं देवानां बाधकं वृत्रमसुरं
+> गवा वज्रेणेन्वन् प्रेरयन् हिंसन् जनुषा जन्मना मृधस्तदनुचरान्राक्षसादीन्
+> शत्रुन् सु सुष्टु व्यहन् । विजघंथ । इंद्रस्यासुरा जन्मारभ्य शत्रव इत्यर्थः । हे
+> इंद्र त्वमत्रास्मिन्युद्धे मनवे नमुचिनापहृतगोधनाय मह्यं गातुं सुखमिच्छन् अभिलषन् नमुचेरेतन्नामकस्योपक्षपयितुरसुरस्य संबंधि शिरः शीर्षं
+> यद्यदावर्तयः अचूर्णयः तदा शत्रुन् विजघंथेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised by us, you, संचकानः (*saṃcakānaḥ*) as the word is explained, impelling and killing with the thunderbolt (here called गवा (*gavā*)) the Dānava, that is, the demon Vṛtra who obstructs the gods, struck down well, by your very birth, the मृधः (*mṛdhaḥ*), his followers, Rākṣasas and other enemies. The meaning is that the Asuras are Indra's enemies from his birth. O Indra, in this battle, desiring ease (*gātu* is glossed as happiness) for Manu, that is, for me, whose wealth of cattle was carried off by Namuci, when you crushed the head of the Asura named Namuci, who torments, then you struck down the enemies: this is the connection with the first part. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, the wealthy
+- अत्र (*atra*)—in this battle
+- मनवे (*manave*)—to me, who belong to Manu
+- गातुं (*gātuṃ*)—happiness
+- इच्छन् (*icchan*)—desiring
+- नमचीः (*namacīḥ*)—named Namuci
+- दासस्य (*dāsasya*)—of the Asura
+- शिरः (*śiraḥ*)—the head
+- यत् (*yat*)—when
+- अवर्तयः (*avartayaḥ*)—you cut off, then
+- संचकानः (*saṃcakānaḥ*)—you, praised by us
+- दानं (*dānaṃ*)—the Asura who injures the gods
+- गवा (*gavā*)—with the thunderbolt
+- इन्वन् (*invan*)—injuring
+- जनुषा (*januṣā*)—by birth, by natural quality
+- मृधः (*mṛdhaḥ*)—the followers of that injurious Asura also
+- सु (*su*)—completely
+- वि अहन् (*vi ahan*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, in this battle, in order to bring happiness to me, who belong to Manu, when you cut off the head of the Asura named Namuci, then, praised by us, injuring with the thunderbolt the Asura who injures the gods, you have completely destroyed also his followers, who are injurious by birth, by natural quality.
+
+##### English translation
+Maghavan, you are glorified by us ; assailing with the thunderbolt the antagonist (of the gods), you have slain those who were ever hostile (to you) from your birth : desiring to do good to Manu, you have bruised the head of the slaves Namuchi.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next two Ṛks the account of Indra's slaying of the Rākṣasa named Namuci is described. After giving a brief introduction to this Namuci, we shall explain how Indra killed him.
+
+### Printed p. 193
+
+The name Namuci occurs in the Ṛgveda nine times, and besides this the name is found also in the Vājasaneya Saṃhitā, the Taittirīya Brāhmaṇa (Tai. Brā. 1-7-1-6, 7), the Śatapatha Brāhmaṇa (Śa. Brā. 12-7-1-10) and other places. He is spoken of in the Ṛgveda as of Asura nature and as *dāsa* (Ṛ. Saṃ. 5-30-7, 8). In one place (Ṛ. Saṃ. 1-53-7) he is described as *māyin*. It is said in the Ṛgveda that when Indra defeated Namuci he had the friendship or support of Namī and Sāyva (Ṛ. Saṃ. 1-53-7; 6-20-6). Like other Asuras Namuci too was slain by Indra (Ṛ. Saṃ. 2-14-5; 7-19-5), or was struck down and destroyed (1-53-7). Indra slew the Asuras Vṛtra and Namuci and destroyed a hundred fortresses of the Asuras (Ṛ. Saṃ. 7-19-5). Namuci's head is not cut off as Vṛtra's head is cut off, but he is killed by being churned (crushed) (Ṛ. Saṃ. 5-30-8; 6-20-6), or by twisting the head (Ṛ. Saṃ. 5-30-7), or by twisting (wringing) his head with the foam of the water (of the sea) (Ṛ. Saṃ. 8-14-3). In some places it is also said that he cut off the head (Tai. Brā. 1-7-1-6, 7). In one place (Ṛ. Saṃ. 10-131-4, 5) Indra sat beside Namuci and drank intoxicating liquor; then Sarasvatī, with the help of the Aśvin deities, healed him. These are all the particulars stated in the Ṛgveda.
+
+Now we shall explain how the Taittirīya Brāhmaṇa of the Yajurveda tells of Indra's slaying of Namuci. नमुचिः । इंद्रेण सह युद्धं न मुंचतीति नमुचिः । (*namuciḥ | iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ |*) Some commentators have explained the form of the word *namuci* thus: since he does not leave off fighting with Indra, he is named Namuci. Because this Asura was of great strength, it became very hard for Indra to fight and conquer him. Therefore Indra had to kill him by a stratagem. On this matter there is a story in the Taittirīya Brāhmaṇa:
+
+इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेतां । सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावस्रक्षामि । न मा शुष्केण नार्दॆण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिंचत् ! न वा एष शुष्को नार्दो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग् स्यपाहत । यदपमार्गहोमो भवति । रक्षसामपहत्यै ॥ (*iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetāṃ | so 'smādabhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣāmi | na mā śuṣkeṇa nārdèṇa hanaḥ | na divā na naktamiti | sa etamapāṃ phenamasiṃcat ! na vā eṣa śuṣko nārdo vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasmin loke | apāṃ phenena śira udavartayat | tadenamanvavartata | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai sa rakṣāg syapāhata | yadapamārgahomo bhavati | rakṣasāmapahatyai ‖*)
+
+(Tai. Brā. 1-7-1-6, 7).
+
+### Printed p. 194
+
+After slaying the Asura Vṛtra, Indra slew also other Asuras. But he could not conquer the Asura named Namuci. He was very mighty. He did not yield to any kind of weapons. Therefore Indra, wishing to overcome him by the strength of his own body, began a wrestling fight with him. Yet the more they fought, the more Namuci's strength grew. Indra could not escape from his grip. Then Indra asked Namuci to let him go, and the Asura said to Indra: "O Indra, if I am to let you go, you must do as I say. Now let us make a pact with each other. You may wish again to fight me by some stratagem and kill me. In such a case the weapon you use to kill me must not be wet, nor dry; you must not kill me by day, nor kill me at night. If you agree to these conditions I shall let you go." Indra agreed to this and, freed from his grip, began to think how he should conquer him. After some time Indra thought of a means. While he was walking on the seashore the foam of the sea fell within his sight. This foam is neither wet nor dry. "Therefore I shall make this itself my weapon and kill Namuci. When the night has passed and the time of dawn has begun, before the sun rises it is quite light. That time, since it has no darkness, is not night, and since the sun has not risen, is not day. If at such a time I fight Namuci and kill him with a weapon made of the foam of the water, I shall not have broken my word." Having so resolved, he fought Namuci accordingly and cut off his head with that foam. Yet the Asura did not die, and pursued Indra in order to kill him. "O Indra, betrayer of a friend, stop, stop! Having formerly given your word that you would not kill me, you have now done such a deed of betrayal of a friend. Even now I shall not let you go without killing you," he said. Then Indra, afraid, created a particular tree called *apāmārga* and made homa in the fire with its sacrificial sticks for the increase of his vigour. By that Indra's strength increased and he slew that Namuci. Therefore those who wish to be delivered from the affliction of Rākṣasas should make homa in the fire with *apāmārga* sticks for the increase of vigour. By that homa their strength will increase and they will be able to conquer the Rākṣasas: so the story runs. This name Namuci in the Ṛgveda is in the Ṛks:
+
+नम्मा यदिंद्र सख्या परावति निबर्हयो नमुचिं नाम मायिनं ॥ (*nammā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāma māyinaṃ ‖*)
+
+(Ṛ. Saṃ. 1-53-7)
+
+यः पिप्रुं नमुचिं यो रुधिक्रां तस्मा इंद्रायांधसो जुहोत ॥ (*yaḥ pipruṃ namuciṃ yo rudhikrāṃ tasmā iṃdrāyāṃdhaso juhota ‖*)
+
+(Ṛ. Saṃ. 2-14-5)
+
+### Printed p. 195
+
+नीवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् ॥ (*nīveśane śatatamāviveṣīrahañca vṛtraṃ namucimutāhan ‖*)
+
+(Ṛ. Saṃ. 7-19-5)
+
+त्वं जघंथ नमुचिं मखस्युं दासं कृण्वान ऋषये विमायं । (*tvaṃ jaghaṃtha namuciṃ makhasyuṃ dāsaṃ kṛṇvāna ṛṣaye vimāyaṃ |*)
+
+(Ṛ. Saṃ. 10-23-7)
+
+अत्ता दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् । (*attā dāsasya namuceḥ śiro yadavartayo manave gātumicchan |*)
+
+(Ṛ. Saṃ. 5-30-7)
+
+युजं हि मामकृथा आदिदिंद्र शिरोदासस्य नमुचेर्मथायन् । (*yujaṃ hi māmakṛthā ādidiṃdra śirodāsasya namucermathāyan |*)
+
+(Ṛ. Saṃ. 5-30-8)
+
+प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् । (*pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan |*)
+
+(Ṛ. Saṃ. 6-20-6)
+
+अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः । (*apāṃ phenena namuceḥ śira iṃdrodavartayaḥ |*)
+
+(Ṛ. Saṃ. 8-14-13) **NOTE**
+
+युवं सुराममश्विना नमुचावासुरे सचा ॥ (*yuvaṃ surāmamaśvinā namucāvāsure sacā ‖*)
+
+(Ṛ. Saṃ. 10-131-4)
+
+It is in these Ṛks, and nowhere else.
+
+The main purport: यदा इंद्रः स्तोपासकस्य नमिनाम्मा ऋषे रक्षणार्थं नमुचिनामानमसुरं हतवान् तदा तेन नमुचिना सहैकस्माद्युद्धानंतरमन्यद्युद्धमेवं प्रकारेणानेकानि युद्धानि चकार । तथैकस्मान्नगरादनंतरमन्यन्नगरमेवं प्रकारेण नमचेः सर्वाण्यपि नगराणि हतवानित्यर्थः ॥ (*yadā iṃdraḥ stopāsakasya namināmmā ṛṣe rakṣaṇārthaṃ namucināmānamasuraṃ hatavān tadā tena namucinā sahaikasmādyuddhānaṃtaramanyadyuddhamevaṃ prakāreṇānekāni yuddhāni cakāra | tathaikasmānnagarādanaṃtaramanyannagaramevaṃ prakāreṇa namaceḥ sarvāṇyapi nagarāṇi hatavānityarthaḥ ‖*) Indra, in order to protect the seer named Nami, who praised him, fought many times with the Asura named Namuci, and each time he fought he destroyed his cities one after another, and at last killed him also: so runs the ancient history. It is described in the present Ṛk and in the next two Ṛks.
+
+दासस्य (*dāsasya*)—This word occurs in this sūkta in this Ṛk and in the next two Ṛks. A detailed explanation of this word and of the word *dasyu* we have given in the Special Topics of the ninth Ṛk of this sūkta (pages 198-202).
+
 ---
 
-**Progress note:** Done through printed p. 188. Sukta 30 Rk 3 end, Rks 4-6
+**Progress note:** Done through printed p. 195. Sukta 30 Rk 6 special topics, Rk 7 with Namuci notes
