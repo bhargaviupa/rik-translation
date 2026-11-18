@@ -4,8 +4,8 @@
 
 | status | forms | references |
 |---|---|---|
-| NOT IN LIST | 278 | 1566 |
-| mistake | 142 | 14780 |
+| NOT IN LIST | 277 | 1562 |
+| mistake | 143 | 14784 |
 | extra | 32 | 828 |
 | legend | 20 | 14866 |
 | Devanagari | 160 | 8273 |
@@ -34,7 +34,6 @@
 | Pā. Gṛ. Sū. | 4 | ? (none) | 5 (3), 18 (1) |
 | Piṅ. | 4 | ? (none) | 7 (2), 10 (2) |
 | Vāja. Saṃ. | 4 | ? (none) | 10 (1), 18 (3) |
-| Bṛ. Je. | 4 | ? (none) | 11 (2), 12 (2) |
 | Bṛ. Pe. | 4 | ? (none) | 11 (1), 12 (2), 18 (1) |
 | V. | 4 | ? (retain) | 11 (1), 14 (3) |
 | VI. | 4 | ? (retain) | 11 (3), 14 (1) |
@@ -78,3 +77,4 @@
 | atha. saṃ. | 2 | Ath. Saṃ. (high) | 9 (2) |
 | Vārt. | 2 | ? (none) | 9 (2) |
 | R. V. IV. | 2 | ? (none) | 10 (2) |
+| viii. | 2 | ? (none) | 10 (2) |
