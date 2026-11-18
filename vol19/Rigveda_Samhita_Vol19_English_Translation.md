@@ -26164,6 +26164,173 @@ The fifty-seventh hymn. **NOTE**
 
 In the fifth Anuvāka there are sixteen hymns. Of these, the first, the hymn with the word रुद्रास (*rudrāsa*), is of eight Ṛks; its seer is Śyāvāśva and its deity the Maruts. The seventh and the eighth Ṛks are in the Triṣṭubh metre; the remaining six are in the Jagatī metre. The Anukramaṇikā says: आ रुद्रासोऽष्टौ द्वित्रिष्टुबंतमित्यनुक्रमणिका ॥ (*ā rudrāso 'ṣṭau dvitriṣṭubaṃtamityanukramaṇikā ‖*). The application of the hymn is by indication (liṅga).
 
+### Printed p. 723
+
+Translation: In the fifth Anuvāka of the fifth Maṇḍala there are sixteen hymns. Of these, this hymn beginning आ रुद्रासः (*ā rudrāsaḥ*) is the first. It has eight Ṛks. The seer of this hymn is Śyāvāśva; the deity is the Maruts. The seventh and eighth Ṛks of this hymn are in the Triṣṭubh metre. The remaining six Ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: द्वित्रिष्टुबंतं (*dvitriṣṭubaṃtaṃ*) **NOTE**. The application is by indication (liṅga).
+
+- Sūkta: 57
+- Maṇḍala 5; Anuvāka 5; Sūkta 57
+- Aṣṭaka 4; Adhyāya 3; Varga 21, 22
+- Number of Ṛks in the Sūkta: 8
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: Maruts
+- Chandas: 1-6 Jagatī; 7-8 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रु॑द्रास॒ इंद्र॑वंतः स॒जोष॑सो॒ हिर॑ण्यरथाः सुवि॒ताय॑  
+> गंतन ।  
+> इ॒यं वो॑ अ॒स्मत्पति॑ हर्यते म॒तिस्त्रृ॒ष्णजे॒ न दि॒व उत्सा॑  ॒॑
+> उदन्यवे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रुद्रासः । इंद्रवंतः । सजोषसः । हिरण्यरथाः । सुविताय । गंतन ।  
+> इयं । वः । अस्मत् । प्रति । हर्यते । मतिः । तृष्णजे । न । दिवः । उत्साः ।  
+> उदन्यवे ॥ १ ॥
+
+### Printed p. 724
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुद्रासो रुद्रपुत्रा इंद्रवंत इंद्रेण युष्मत्स्वामिना तद्वंतः सजोषसः परस्परं समानप्रीतयो हिरण्यरथा हिरण्यमयरथाः संतः सुविताय सुगमनाय तत्साधनाय सुष्टु सर्वैर्गंतव्याय यज्ञाय तदर्थमा गंतन । आगच्छत ।
+> किमत्र विद्यत इति तदुच्यते । इयमस्मदस्मदीया मतिः स्तुतिवोर्युष्मान् प्रति
+> हर्यते । कामयते । तस्मादागच्छत । उदन्यव उदकेच्छवे तृष्णजे गोतमाय
+> दिवो द्युलोकसकाशादुत्सा उदकनिष्यंदा यथा युष्माभिः प्रेरितास्तद्वदस्मदर्थमप्यागत्याभिमतं ददतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Rudras, sons of Rudra, accompanied by Indra, your lord, of one mind and mutual delight, having golden chariots, come for सुविताय (*suvitāya*), that is, for the sacrifice, the means of good going, to which all should go well; come to it. He then says what there is here: this our praise (मतिः (*matiḥ*)) desires you; therefore come. As the streams of water (उत्साः (*utsāḥ*)), sent by you from the heavenly world, came for Gotama, thirsty and desiring water, so also come for us, and grant what we wish.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवंतः (*iṃdravaṃtaḥ*)—companions of Indra
+- सजोषसः (*sajoṣasaḥ*)—having mutual affection
+- हिरण्यरथाः (*hiraṇyarathāḥ*)—having chariots made of gold
+- रुद्रासः (*rudrāsaḥ*)—O sons of Rudra (Maruts)
+- सुविताय (*suvitāya*)—to the sacrifice, an excellent place
+- आ गंतन (*ā gaṃtana*)—come
+- अस्मत् (*asmat*)—made by us
+- वः (*vaḥ*)—addressed to you
+- इयं मतिः (*iyaṃ matiḥ*)—this praise
+- प्रति हठते (*prati haṭhate*)—being offered, desires to reach you **NOTE**
+- तृष्णजे (*tṛṣṇaje*)—tormented by thirst
+- उदन्यवे (*udanyave*)—desiring water, for Gotama
+- दिवः (*divaḥ*)—from the atmosphere
+- उत्साः न (*utsāḥ na*)—taking flowing waters, as you descended (so be gracious to our sacrifice also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, companions of Indra, mutually affectionate, having chariots made of gold, sons of Rudra, come to the sacrifice, an excellent place. This praise, made by us and addressed to you, being offered, desires to reach you. As you came from the atmosphere, taking flowing waters for Gotama, who was tormented by thirst and desired water, so come to our sacrifice also.
+
+##### English translation
+Rudras, servants of Indra, mutually kind, riding in golden cars come to the accessible (sacrifice): this our praise is addressed to you: (come to us as you came) from heaven, (bringing) oozing water to the thirsty (Gotama) longing for moisture.
+
+##### विशेषविषयगळु (Special Topics)
+
+रुद्रासः— रुद्रपुत्राः मरुतः । (*rudrāsaḥ— rudraputrāḥ marutaḥ |*) The Marut deities, the sons of Rudra, are here designated रुद्रासः (*rudrāsaḥ*) by their father's name alone.
+
+### Printed p. 725
+
+The eternal companionship between Indra and the Maruts, the relation of king and subjects between them, the offering of the oblation in the principal sacrificial acts to Indra together with the Maruts, and the help given by the Maruts to Indra when he fought with the demon Vṛtra are praised in many places in the Saṃhitās and the Brāhmaṇas. A story of former times telling how Indra, joined with the Maruts, stood apart from the other deities is told in the Śatapatha Brāhmaṇa:
+
+आतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वेदेवैः । (*ātithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvedevaiḥ |*) (Śa. Brā. 3-4-2-1)
+
+In former times, when the deities performed the Ātithya rite, discord arose among them; unwilling to join one another, they formed four groups and became separate. Agni joined the Vasus, Soma the Rudras, Varuṇa the Ādityas, Indra the Maruts, and Bṛhaspati the Viśvedevas, and each formed a separate group. **NOTE** In this story the close relation that Indra has kept with the Maruts, having developed companionship with them, is told.
+
+Besides, it is said in many places that Indra is the king and the Maruts are the subjects. For example, in the same Śatapatha Brāhmaṇa:
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा नै क्षत्रियो बलवान् भवति । (*kṣatraṃ nā iṃdro viśo maruto viśā nai kṣatriyo balavān bhavati |*) (Śa. Brā. 4-3-3-6)
+
+Indra is a king possessed of the splendour of the warrior class. The Maruts are his subjects. It is indicated that only through the cooperation of the subjects does the king become powerful, and that Indra's valour increased through the help of the Maruts. Because there is such a close relation and companionship, the practice of offering oblations addressed jointly to Indra and the Maruts is found in the Śrutis. And in Ṛks such as
+
+स नो मरुद्भिवृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no marudbhivṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*) (Ṛ. Saṃ. 1-171-5)
+
+there are the invitation and the offering of the oblation jointly to Indra and the Maruts. Describing this companionship, the Bṛhaddevatā says:
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56)
+
+### Printed p. 726
+
+By sentences such as this the qualifying word indicating the relationship of these deities is explained. But in one hymn, as a result of a dispute between Indra and the Maruts, their discord and Indra's anger are indicated. The dispute between them that is the source of this anger is told thus:
+
+क्वंस्यावो मरुतः स्वधासीद्यन्मामेकं समधत्ताहिहॆत्ये । आहं ह्युंग्रस्तविषस्तुविष्मान्विश्वस्व शत्रोरनमं वधस्नैः ॥ (*kvaṃsyāvo marutaḥ svadhāsīdyanmāmekaṃ samadhattāhihètye | āhaṃ hyuṃgrastaviṣastuviṣmānviśvasva śatroranamaṃ vadhasnaiḥ ‖*) (Mu. Saṃ. 1..165-6) **NOTE**
+
+"O Maruts, it is false to say that with your help I killed Ahi. Where was that strength of yours? Because my own strength is extraordinary, it helped me at the time of the slaying of Vṛtra without seeking the help of any other strength. I alone am fierce, of wonderful power, and endowed with greatness." Thus he looks at the Maruts with contempt and shows his anger. Here that anger is indicated. It is well known that Indra received the help of the Maruts at the time of the slaying of the demon Vṛtra. Even so, when the Maruts mentioned that matter and asked that, in memory of that help, they too be given a share in the oblation due to Indra, Indra says that no help whatever came from the Maruts and that he killed all his enemies by his own strength. The author of the Nirukta, telling this same matter, has said:
+
+अगस्त्य इंद्राय हविर्निरुप्य मरुद्भः संप्रदित्सांचकार । स इंद्र एत्य परिदेवयांचक्रे । (*agastya iṃdrāya havirnirupya marudbhaḥ saṃpraditsāṃcakāra | sa iṃdra etya paridevayāṃcakre |*) (Ni. 1-5)
+
+When the sage Āgastya prepared an oblation for Indra and wished to offer a share in it to the Maruts also, Indra objected in that matter. Having stated this context, the Nirukta author quoted the Ṛk that conveys this point:
+
+न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतं । अन्यस्य चित्तमभि संचरेण्यमुताधीतं विनश्यति ॥ (*na nūnamasti no śvaḥ kastadveda yadadbhutaṃ | anyasya cittamabhi saṃcareṇyamutādhītaṃ vinaśyati ‖*) (Ma. Sa. 1-170-1). **NOTE**
+
+So that the force of that anger might abate and not harm him, and with the intention that the share of the oblation justly due to the Maruts must reach them, the Maruts are addressed in prayer here. After this kind of conciliatory speech, Indra's friendship grew as before, and he himself gives a share of his oblation to the Maruts also. This same matter the seer has stated and praised in the eighth Maṇḍala thus:
+
+### Printed p. 727
+
+वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । मरुद्धरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि ॥ (*vṛtrasya tvā śvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ | maruddhariṃdra sakhyaṃ te astvathemā viśvāḥ pṛtanā jayāsi ‖*) (Ṛ. Saṃ. 8-96-7)
+
+O Indra, your friendship with the Maruts is well known; giving them also a share in your oblation, conquer all the enemies with their help: thus the prayer is made.
+
+उदन्यवे तृष्णजे दिवः उत्साः—उदकेच्छवे गोतमाय द्युलोकसकाशात् उदकनिष्यंदा युष्माभिः प्रेरिताः । (*udanyave tṛṣṇaje divaḥ utsāḥ—udakecchave gotamāya dyulokasakāśāt udakaniṣyaṃdā yuṣmābhiḥ preritāḥ |*) It is stated here that, to satisfy the seer named Gotama, who was wandering in the forest with thirst, they brought from the atmosphere a well full of water.
+
+परावतं नासत्यानुदेथामुच्चा बुद्धं चक्रथुर्जिह्मबारं ॥ क्षरन्नापो न पायनाय राये सहस्राय तृष्यते गोतमस्य ॥ (*parāvataṃ nāsatyānudethāmuccā buddhaṃ cakrathurjihmabāraṃ ‖ kṣarannāpo na pāyanāya rāye sahasrāya tṛṣyate gotamasya ‖*) (Ṛ. Saṃ. 1-116-9)
+
+In this Ṛk there is a description of this matter. A seer named Gotama, suffering from great thirst while wandering in a desert (a sandy forest), searched for water to drink, and since he found none, he prayed to the Aśvin deities for water. They brought him a well full of water, and made it so that its bottom was upward and the upper part with the water faced downward, so that the seer drank water, as it were, from a vessel. By this his thirst was quenched: this history is described here. And:
+
+जिह्मं नुनुद्रेऽवतं तया दिशासिंचन्नुत्सं गोतमाय तृष्णजे । आ गच्छंतीमवसा चित्रभानवः कामं विप्रस्य तर्पयंत धामभिः ॥ (*jihmaṃ nunudre 'vataṃ tayā diśāsiṃcannutsaṃ gotamāya tṛṣṇaje | ā gacchaṃtīmavasā citrabhānavaḥ kāmaṃ viprasya tarpayaṃta dhāmabhiḥ ‖*) (Ṛ. Saṃ. 1-85-11)
+
+In this Ṛk the Marut deities set the well they had dug in the direction in which the seer Gotama dwelt and made water available. Then, placing that well in the seer's hermitage itself, they made a stream of water flow for the thirsty seer Gotama. The Maruts, of manifold radiance, approaching the devoted seer Gotama with such protection, satisfied the desire of that wise one with the waters that sustain life: so it is said. Although the word गोतम (*gotama*) is not used in the present Ṛk, the commentator has said that the matter applies to the seer Gotama, and that by this the greatness of the Marut deities is described.
+
+### Printed p. 728
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाशी॑मंत ऋष्टि॒मंतो॑ मनी॒षिणः॑ सु॒धन्वा॑न॒ इषु॑मंतो  ॒॑
+> निषंगिणः ।  
+> स्वश्वाः॑ स्थ सु॒रथाः॑ पृत्विमातरः स्वायु॒धा म॑रुतो याथना॒  ॑
+> शुभं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाशीमंतः । ऋष्टिमंतः । मनीषिणः । सुधन्वानः । इषुमंतः । निषंगिणः ।  
+> सुअश्वाः । स्थ । सुरथाः । पृश्निमातरः । सुआयुधाः । मरुतः । याथन । शुभं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं नाशीमंतः । नाशीति तक्षणसाधनमायुधं । तद्वंतः
+> स्थ । ऋष्टिमंतः । ऋष्टिर्नामभुरिका । तद्वंतः स्थ । एवं सर्वत्र योज्यं । मनीषिणो मनस ईश्वरा मनस्सिनः सुधन्वानः शोभनधनुष्का इषुमंतो वाणवंतो
+> निषंगिणो निषंगवंतः स्वश्वाः स्थ । शोभनाश्वा भवथ । सुरथाः शोभनरथाः पृश्निमातरः पृश्नेः पुत्राः स्वायुधाः खड्ग परश्वादिसकलायुधोपेताः । एवं
+> महात्मानः संतः शुभं शोभनं यथा भवति तथा शुभमुदकाय वा रथेन याथन।
+> गच्छथ ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you possess the weapon नाशीमंतः (*nāśīmaṃtaḥ*), नाशी (*nāśī*) being a weapon that serves for cutting. **NOTE** You have ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*), ऋष्टि (*ṛṣṭi*) being called भुरिका (*bhurikā*); and so it is to be construed with every word. You are मनीषिणः (*manīṣiṇaḥ*), lords of the mind, thoughtful; having fine bows, with arrows, with quivers; you have fine horses and fine chariots; you are the sons of Pṛśni, equipped with every weapon such as sword and axe. Being such great ones, come in the chariot शुभं (*śubhaṃ*), that is, in an auspicious way; or else come शुभमुदकाय (*śubhamudakāya*), for water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणः (*manīṣiṇaḥ*)—wise
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- वाशीमंतः (*vāśīmaṃtaḥ*)—having a sharp-edged sword
+- ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*)—having spears
+- सुधन्वानः (*sudhanvānaḥ*)—having excellent bows
+- इषुमंतः (*iṣumaṃtaḥ*)—bearing arrows
+- निषंगिणः (*niṣaṃgiṇaḥ*)—having quivers
+- स्वश्वाः (*svaśvāḥ*)—having excellent horses
+- सुरथाः (*surathāḥ*)—possessing excellent chariots
+- स्थ (*stha*)—you are
+- पृश्निमातरः (*pṛśnimātaraḥ*)—sons of Pṛśni
+- स्वायुधाः (*svāyudhāḥ*)—having excellent weapons
+- मरुतः (*marutaḥ*)—O Maruts
+- शुभं (*śubhaṃ*)—to bring us auspiciousness
+- याथन (*yāthana*)—come
+
 ---
 
-**Progress note:** Done through printed p. 722. Rk 5.56.8-9 with Special Topics on Rodasi; start of sukta 57
+**Progress note:** Done through printed p. 728. Sukta 57 Rk 1 with Special Topics; Rk 2 up to Pratipadartha
