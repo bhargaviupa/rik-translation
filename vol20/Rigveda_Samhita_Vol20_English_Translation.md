@@ -12979,6 +12979,263 @@ O Agni, the mortal, the man, who attains (नशत् (*naśat*); the root न�
 
 O Agni, the sacrificer, a man, who fills with kindling-sticks your oblation, consecrated by mantra, and makes it ripe, that same sacrificer makes grow a house that is joined with branches such as sons and grandsons and with long life.
 
+### Printed p. 389
+
+##### English translation
+The mortal who feeds your consecrated burnt-offering with fuel enjoys, Agni, a dwelling peopled with descendants, and a life of a hundred years.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे॒षस्ते॑ धू॒म ऋ॑ण्वति दि॒वि षञ्ख॒क्र आत॑तः ।  
+> सूरो॒ न हि द्यु॒ता त्वं कृ॒पा पा॑वक॒ रोच॑से ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वेषः । ते । धूमः । ऋण्वति । दिवि । सन् । शुक्रः । आततः ।  
+> सूरः । न । हि । द्युता । त्वं । कृपा । पावक । रोचसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वेषो दीप्तस्य ते तव शुक्रो निर्मलः शुभ्रवर्णो वा धूनो
+> दिव्यंतरिक्ष आततो विस्तीर्णः सन् ऋण्वति । मेघात्मना परिणतो गच्छति । अपि च हे
+> पावक शोधकाग्ने सूरो न सूर्य इव कृपाभिमुखीकरणसमर्थया स्तुत्या
+> स्तूयमानस्त्वं द्युता दीप्त्या रोचसे हि । दीप्यसे खलु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the smoke of you who are त्वेषः (*tveṣaḥ*), shining, is शुक्रः (*śukraḥ*), clean or of a white colour; spread out and extended in the sky (the atmosphere), it ऋण्वति (*ṛṇvati*), that is, goes, having been transformed into the form of a cloud. And, O purifying Agni, like the sun, you, who are praised with a hymn that is able to turn you towards the worshipper in favour, shine with brilliance; you are indeed lit up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वेषः (*tveṣaḥ*)—(O Agni) of you who are shining
+- ते (*te*)—your
+- शुक्रः (*śukraḥ*)—of white colour
+- धूमः (*dhūmaḥ*)—the smoke
+- दिवि (*divi*)—in the atmosphere
+- आततः सन् (*ātataḥ san*)—having spread out widely
+- ऋण्वति (*ṛṇvati*)—is transformed into the form of a cloud
+- पावक (*pāvaka*)—O Agni, the purifier
+- कृपा (*kṛpā*)—praised with a hymn able to obtain your favour
+- त्वं (*tvaṃ*)—you
+- द्युता (*dyutā*)—with your brilliance
+- सूरो न (*sūro na*)—like the sun
+- रोचसे हि (*rocase hi*)—do you not shine?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the white smoke of you who are shining spreads widely in the atmosphere and is transformed into the form of a cloud. O purifying Agni, you, who are praised with a hymn able to obtain your favour, shine with your brilliance like the sun, do you not?
+
+### Printed p. 390
+
+##### English translation
+The pure smoke of you the resplendent spreads through firma- ment, matures (in clouds), and you, the purifier, shine with radiance like the sun. when propitiated by praise.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ हि वि॒क्ष्वीड्योऽसि॑ प्रि॒यो नो॒ अति॑थिः ।  
+> र॒ण्वः पु॒री॑व॒ जूर्यः॑ सू॒नुर्न त्र॑य॒याय्यः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । विक्षु । ईड्यः । असि । प्रियः । नः । अतिथिः ।  
+> रण्वः । पुरिइव । जूर्यः । सूनुः । न । त्रययाय्कः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च विक्षु प्रजासु हे अग्ने त्वमीड्यः स्तुत्योऽसि । भवसि । हि यस्मागर्थे । यस्मादेवं तस्मान्नोऽस्माकमतिथिः । लुप्तोपममेतत् । अतिथिरिव
+> प्रियोऽसि । यद्वा । हनिर्वहनाय सततगामी भूत्वास्माकं प्रियोऽसि । तथा पुरीव
+> नगर्यां जूर्यो जीर्णो वृद्यो हितोपदेष्टा राजीव रणो रमणीयो
+> गंतव्यो ना भवसि । तथा सूनुर्न पुत्र इव त्रययाय्को यजमानैस्तातव्यः
+> पालयितव्यो भवसि ॥ त्रायतेरेतद्रूपं ॥ यद्वैतत्सूनोर्विशेषणं । विद्यातपःकर्मलक्षणं त्रयं यातीति त्रययाय्कः ॥ यातेरौणादिक आय्यप्रत्ययः ।
+> स्पृहयाय्क इति यथा । अथवा त्रययाय्क जन्मत्रयं प्राप्तः । जन्मश्रयं
+> स्मर्यते । मातुरग्रेऽधिजननं द्वितीयं मौंजिबंधनात् । तृतीयं यज्ञदीक्षाया इति जन्मत्रयं स्मृतं । मनु. २-१६९ । इति । तादृशः पुत्र इति । रणो
+> रमणीयोऽसि ॥
+
+##### Gist of the bhāṣya
+
+And further, O Agni, among the people (विक्षु (*vikṣu*)) you are ईड्यः (*īḍyaḥ*), to be praised; the word हि (*hi*) is used in the sense of "since". Since this is so, you are our guest; this is a comparison with the word of likeness dropped: you are dear like a guest. Or else: having become one who goes constantly to carry the oblations, you are dear to us. Likewise, like an old man (जूर्यः (*jūryaḥ*)) in a city, one who is advanced in age and gives advice for one's good, or like a king, you are रण्वः (*raṇvaḥ*), delightful, one to be approached. Likewise, like a son (सूनुर्न (*sūnurna*)) you are त्रययाय्कः (*trayayāykaḥ*), one to be guarded and protected by the sacrificers. He says that this is a form from the root meaning "to protect"; or else it is an epithet of the son: one who goes to a triad, namely knowledge, austerity and rite. Or else त्रययाय्कः (*trayayāykaḥ*) means one who has obtained three births. The three births are remembered thus: मातुरग्रेऽधिजननं द्वितीयं मौंजिबंधनात् । तृतीयं यज्ञदीक्षाया इति जन्मत्रयं स्मृतं । (*māturagre 'dhijananaṃ dvitīyaṃ mauṃjibaṃdhanāt | tṛtīyaṃ yajñadīkṣāyā iti janmatrayaṃ smṛtaṃ |*) (Manu. 2-169) **GLOSS** **NOTE**. Such a son you are; you are delightful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध हि (*adha hi*)—precisely because you possess great qualities
+- विक्षु (*vikṣu*)—among all the people
+- ईड्यः (*īḍyaḥ*)—worthy of praise
+- आसि (*āsi*)—you are
+- नः (*naḥ*)—to us
+- प्रियः (*priyaḥ*)—dear
+
+### Printed p. 391
+
+- अतिथिः (*atithiḥ*)—you are a guest
+- पुरि (*puri*)—in the city
+- जूर्यः इव (*jūryaḥ iva*)—like an old man (who gives advice for the good of all)
+- रण्वः (*raṇvaḥ*)—as one who is beneficial and dear
+- त्रययाय्यः (*trayayāyyaḥ*)—one who is to be protected by the sacrificers
+- सूनुः न (*sūnuḥ na*)—like a son (you are dear)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, precisely because you possess great qualities, you are worthy of praise among all the people. You are a guest dear to us. As in a city an old man, who gives advice for the good of all, is beneficial and dear, and as a son who is to be protected by the sacrificers in the house is dear, so you are dear to all.
+
+##### English translation
+You are now to be praised amongst the people, for you are our well beloved guest, venerated like an elder in the city, and to be cherished like a son.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वा॒ हि द्रोणे॑ अ॒ज्यसेग्ने॑ वा॒जी न कृत्त्वः॑ ।  
+> परि॑ज्जीव स्व॒धा गयोऽत्यो॒ न ह्वा॒र्यः शिशुः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वा । हि । दोणे । अज्यसे । आग्ने । वाजी । न । कृत्व्यः ।  
+> परिज्माइव । स्वधा । गयः । अत्यः । न । ह्वाय्यः । शिशुः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने क्रत्वा कर्मणा मंथनरूपेण द्रोणे द्रुमे काष्ठेरण्यां
+> विद्यमानस्त्वमज्यसे हि । व्यज्यसे खलु । तथा वाजी न वेजनवानश्व इव कृत्त्वः ।
+> कृत्वेति कर्मनाम । हनिर्वहनादीनां कर्मणां कर्ता । स यथा पुरुषं वहति
+> तद्वद्धनिर्वहनमग्नेरश्वसादृश्यं । तथा परिज्जीव परितः सर्वत्र गंता वायुरिव
+> दावानलादिरूपेण सर्वत्र गंता त्वं स्वधा । अन्ननामैतत् । अन्नं गयो गृहं
+
+##### Gist of the bhāṣya
+
+O Agni, you who are present in the द्रोणे (*droṇe*), in the tree, in the wood, the fire-stick, are अज्यसे (*ajyase*), made manifest, by the work, the क्रत्वा (*kratvā*), that has the form of churning. And you are like a वाजी (*vājī*), a horse that has speed, कृत्त्वः (*kṛttvaḥ*): कृत्व (*kṛtva*) is a name for work; you are the doer of the works such as carrying the oblation. As a horse carries a man, so is the carrying of the oblation; this is Agni's likeness to a horse. And you are परिज्जीव (*parijjīva*), one who goes all round, everywhere, like the wind, going everywhere in the form of a forest fire and the like. स्वधा (*svadhā*) is a name for food; you are food and also the house (गयः (*gayaḥ*)).
+
+### Printed p. 392
+
+> च भवसि । उभयोर्दातेत्यर्थः । अपि च शिशुर्जातमात्रो बालोऽपि त्वमत्तो
+> न सततगामिा जात्यश्व इव ह्वार्यः कुटिलमितस्ततो गंतासि ॥ ह्वृ कौटिल्य
+> इत्यस्यैतद्रूपं ॥
+
+##### Gist of the bhāṣya
+
+That is, you are the giver of both. And further, you who are शिशुः (*śiśuḥ*), a child just born, are like a thoroughbred horse that goes constantly **NOTE**, ह्वार्यः (*hvāryaḥ*), crooked, one who goes hither and thither. He says that this is a form of the root ह्वृ कौटिल्य (*hvṛ kauṭilya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- द्रोणे (*droṇe*)—you who stand in the fire-stick that has the form of wood
+- क्रत्वा (*kratvā*)—by the act in the form of churning
+- अज्यसे हि (*ajyase hi*)—you become manifest
+- वाजी न (*vājī na*)—like a swift horse
+- कृत्व्यः (*kṛtvyaḥ*)—you are engaged in works such as carrying the oblation
+- परिज्जीव (*parijjīva*)—you are all-pervading like the wind that moves everywhere
+- स्वधा (*svadhā*)—and the food in the form of the oblation
+- गयः (*gayaḥ*)—and the house (you yourself are)
+- शिशुः (*śiśuḥ*)—although just born
+- अत्यो न (*atyo na*)—like a swift-going horse
+- ह्यार्यः (*hyāryaḥ*)—you move about everywhere with a crooked course
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who stood in the fire-stick, which has the form of wood, become manifest by the act of churning. Like a swift horse, you are engaged in works such as carrying the oblation. Like the wind that moves everywhere, you are all-pervading. You yourself are both the food in the form of the oblation and the house. Although just born and in the form of a child, you move about everywhere with a crooked course, like a swift-going horse.
+
+##### English translation
+You are manifested in the timber. Agni. by the act of attrition : you are the bearer (of the oblation). as a horse (is of his rider): you are like the circumambient wind : you are food and dwelling: you are like a (new-born) babe, and variable (in movement) as a horse.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्या चि॒दच्यु॒ताग्ने॑ प॒शुर्न यव॑से ।  
+> धामा॑ ह॒ यत्ते॑ अजर॒ वना॑ वृ॒श्चंति॒ शिक्व॑सः ॥ ९ ॥
+
+### Printed p. 393
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । त्या । चित् । अच्युता । अग्ने । पशुः । न । यवसे ।  
+> धाम । ह । यत् । ते । अजर । वना । वृश्चंति । शिक्वसः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यामग्नेर्धामच्छदो वैकल्पिक्यनुवाक्यात्वं त्येति । सूत्रितं च । त्वं
+> त्या चिदच्युता धामंते विश्वं भुवनमधिश्रितं । आ. २-१३ । इति ॥
+> हे अग्ने त्वं त्या तानि काष्ठानि । चिच्छब्दोऽपिशब्दसमानार्थो भिन्नक्रमः ।
+> अच्युताच्युतानि च्यावयितुमशक्यान्यपि । अतीति शेषः । तत्र दृष्टांतः । यवसे
+> घासे विसृष्टः पशुर्न पशुरिव । स यथा सर्वं भक्षयति तथा त्वं प्रौढकाष्ठादीनि
+> क्षणमात्रेण दहसीत्यर्थः । हे अजर जरारहिताग्ने यद्यस्य ॥ सुपां सुलुगिति षष्ठ्या
+> लुक् ॥ शिक्षसो दीप्तस्य ते तव धाम धामानि तेजांसि वना वननीयानि संभजनीयान्यरण्यानि वृश्चंति छिंदंति तक्षंति स त्वमिति पूर्वत्रान्वयः । हेत्येतत्पादपूरणं ॥
+
+##### Gist of the bhāṣya
+
+Application: in the Kārīrī, for the Agni of the Dhāmacchad offering, this is the alternative anuvākyā; and it is laid down in the sūtra: त्वं त्या चिदच्युताग्ने पशुर्न यवसे । धामा ह यत्ते अजर वना वृश्चंति शिक्वसः ॥ ९ ॥ त्वं । त्या । चित् । अच्युता । अग्ने । पशुः । न । यवसे । धाम । ह । यत् । ते । अजर । वना । वृश्चंति । शिक्वसः ॥ ९ ॥ कारीर्यामग्नेर्धामच्छदो वैकल्पिक्यनुवाक्यात्वं त्येति । सूत्रितं च । त्वं त्या चिदच्युता धामंते विश्वं भुवनमधिश्रितं । (*tvaṃ tyā cidacyutāgne paśurna yavase | dhāmā ha yatte ajara vanā vṛścaṃti śikvasaḥ ‖ 9 ‖ tvaṃ | tyā | cit | acyutā | agne | paśuḥ | na | yavase | dhāma | ha | yat | te | ajara | vanā | vṛścaṃti | śikvasaḥ ‖ 9 ‖ kārīryāmagnerdhāmacchado vaikalpikyanuvākyātvaṃ tyeti | sūtritaṃ ca | tvaṃ tyā cidacyutā dhāmaṃte viśvaṃ bhuvanamadhiśritaṃ |*) (Ā. 2-13). O Agni, you त्या (*tyā*), those pieces of wood; the word चित् (*cit*) has the same sense as "even" and stands in a different order; अच्युता (*acyutā*), even those that cannot be made to fall; the word "beyond" is to be supplied. An example is given: पशुर्न (*paśurna*), like an animal let loose in the pasture to graze; as he eats everything, so you burn up grown wood and the like in a moment. O ageless Agni, यत् (*yat*), of you who are shining, the radiances (धाम (*dhāma*)) वना (*vanā*), the forests that are desirable and to be resorted to, वृश्चंति (*vṛścaṃti*), cut, hew; "you" is connected with what came before. ह (*ha*) is a filler of the line.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यवसे (*yavase*)—let loose to graze in a pasture
+- पशुः न (*paśuḥ na*)—as an animal eats the grass completely
+- त्वं (*tvaṃ*)—you
+- त्यां (*tyāṃ*)—the trees and the like
+- आच्युता चित् (*ācyutā cit*)—even though they have firm roots (you burn them completely and bring them down)
+- अजर (*ajara*)—O Agni, who are free from old age
+- शिक्षसः (*śikṣasaḥ*)—shining
+- यत् ते (*yat te*)—those your
+- धाम (*dhāma*)—radiances
+- वना (*vanā*)—all the trees and the like of the forest
+- वृश्चंति हि (*vṛścaṃti hi*)—burn and consume, do they not
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as an animal let loose to graze in a pasture eats the grass completely, you burn the trees and the like completely and bring them down, although they have firm roots. O ageless Agni, the radiances of you who are shining burn and consume all the trees of the forest, do they not?
+
+##### English translation
+You :consume, Agni, the unfallen (trees) as an animal (feeds) upon pasture, when, undecaying deity, the flames of you who are resplendent shear the forests.
+
+### Printed p. 394
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Kārīrī iṣṭi, in the alternative purodāśa offering made to Agni of the Dhāmacchad offering, this Ṛk, beginning त्वं त्या (*tvaṃ tyā*), is to be used as an anuvākyā mantra; this is set out by the Āśvalāyana Śrauta Sūtra aphorism (Ā. 2-13) that is quoted in the bhāṣya above, ending with "or".
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेषि॒ ह्य॑ध्वरीय॒तामग्ने॒ होता॒ दमे॑ वि॒शां ।  
+> स॒मृधो॑ विश्वते कृणु जु॒षस्व॑ ह॒व्यमं॑गिरः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेषि । हि । अध्वरियतां । अग्ने । होता । दमे । विशां ।  
+> संयधः । विश्वते । कृणु । जुषस्व । हव्यं । अंगिरः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हॆ अग्ने अध्वरीयतामध्वरं यज्ञमात्मन इच्छतां विशां यजमानानां
+> दमे गृहे त्वं होता देवानामाह्वाता सन् वेषि हि स्तुतिं हवींषि वा यतः
+> कामयसे अतः कारणाद्विश्वते विशां पालकाग्ने समृधः समृद्धानस्मान्यजमानान् ।
+> कृणु । कुरु । कृत्वा च हे अंगिरोऽंगनादिगुणयुक्त अंगाररूप वाग्ने हव्यम
+> स्मदीयं हविर्जुषस्व । सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in the house of the sacrificers who desire the sacrifice for themselves (अध्वरीयतां (*adhvarīyatāṃ*)), you, being the hotṛ, the caller of the gods, वेषि (*veṣi*), desire praise or oblations; therefore, O protector of the people (विश्वते (*viśvate*)), make us sacrificers (समृधः (*samṛdhaḥ*)) prosperous (कृणु (*kṛṇu*) is "do"). Having done so, O अंगिरः (*aṃgiraḥ*), endowed with qualities such as अंगनादि (*aṃganādi*), or in the form of embers, partake of (जुषस्व (*juṣasva*), "serve") our oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध्वरीयतां (*adhvarīyatāṃ*)—of the sacrificers who desire the sacrifice
+- विशां (*viśāṃ*)—of the sacrificers
+- दमे (*dame*)—in the house
+- होता (*hotā*)—being the hotṛ
+- वेषि हि (*veṣi hi*)—you desire oblations and the like
+- विश्वते (*viśvate*)—O Agni, protector of the people
+- समृधः (*samṛdhaḥ*)—(the sacrificers) endowed with prosperity
+- कृणु (*kṛṇu*)—make (them, and then)
+- अंगिरः (*aṃgiraḥ*)—O Agni, endowed with qualities such as अंगनादि (*aṃganādi*)
+- हव्यं (*havyaṃ*)—our oblation
+- जुषस्व (*juṣasva*)—partake of
+
 ---
 
-**Progress note:** Done through printed p. 388. Vol 20 pp. 380-388: end of Sūkta 1 (special topics, colophon), Sūkta 2 Ṛk 1-5
+**Progress note:** Done through printed p. 394. Vol 20 pp. 389-394: Sūkta 2 Ṛk 5 end, Ṛk 6-10
