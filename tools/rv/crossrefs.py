@@ -22,7 +22,13 @@ DEVW = r'(?:[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
 NUM = N + r'(?:(?:\s?[-–]\s?|\.(?=' + N + r')|\s(?=' + N + r'{2,}))' + N + r'){1,4}'
 REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
 # the work's name in Indic script right after "(" may lack the dot of its first word ("(पा सू. ७-१-३९)", "(पा- सू. …", "(उ सू. …", "(पं- सू. …"): read as the full name
-REFB = re.compile(r'[(\[]\s?((?:' + DEVW + r'(?:\.\.|[.,-])?\s){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
+REFB = re.compile(r'(?<![ऀ-ॿ.])([(\[]\s?)?((?:' + DEVW + r'(?:\.\.|[.,-]|\))?\s){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
+# first words of known works, in Devanagari, and the misreadings the user named: only these may start a dotless name away from a "("
+def _first_words():
+    import csv
+    out = {'पु', 'मि', 'सा', 'ता', 'पं', 'म', 'ऋ', 'उ', 'पा', 'फि', 'तै', 'ऐ', 'शा', 'श', 'का', 'वा', 'आ', 'नि', 'ब्र', 'ऋग्वे'}
+    return out
+FIRSTW = _first_words()
 SUBPAGE = re.compile(r'\*\(\s*pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?[^)]*\)\*')      # "*(p. 440)*", "*(pp. 439–440)*" inside a section whose heading spans several pages
 RANGE = re.compile(r'^#{2,4} Pages?\s+(\d+)\s*[–-]\s*(\d+)')
 PAGE = re.compile(r'^#{2,4} .*?(?:[Pp]age|[Pp]\.|[Pp]ages|[Pp]p\.)\s*([0-9]+|[ivxlc]+)\b')
@@ -54,12 +60,17 @@ def run(vols):
                 continue
             for sm in SUBPAGE.finditer(l): sub = sm.group(1) + ('–' + sm.group(2) if sm.group(2) else '')
             seen = set()
-            ms = list(REFB.finditer(l)); starts = {m.start(2) for m in ms}
-            ms += [m for m in REF.finditer(l) if m.start(2) not in starts]; ms.sort(key=lambda m: m.start(2))
-            for m in ms:
-                lab = re.sub(r'\s*(\.\.|[.,-])?\s+', lambda mm: '. ', re.sub(r'\s+', ' ', m.group(1)).strip() + ' ').strip() if False else normlab(m.group(1)); k = key(lab)
-                if not k or k in STOP or re.search('[ಀ-೿]', lab) and not k: continue
-                num = re.sub(r'\s?[–-]\s?|(?<=\d)[.\s](?=\d)', '-', m.group(2).translate(DIG))
+            ms = [m for m in REFB.finditer(l) if m.group(1) or re.match(DEVW, m.group(2)).group() in FIRSTW]
+            starts = {m.start(3) for m in ms}
+            ms = [(m, m.group(2), m.group(3), m.start(3)) for m in ms] + [(m, m.group(1), m.group(2), m.start(2)) for m in REF.finditer(l) if m.start(2) not in starts]
+            ms.sort(key=lambda t: t[3])
+            indic = []                                              # (end, number) of references read in Indic script: their Latin twin in italics follows within 60 characters
+            for m, g1, g2, st_ in ms:
+                lab = normlab(g1); k = key(lab)
+                if not k or k in STOP: continue
+                num = re.sub(r'\s?[–-]\s?|(?<=\d)[.\s](?=\d)', '-', g2.translate(DIG))
+                if not re.search('[ऀ-ॿ]', g1) and any(e <= m.start() + len(g1) and m.start() - e <= 80 and n == num for e, n in indic): continue
+                if re.search('[ऀ-ॿ]', g1): indic.append((m.end(), num))
                 kd = kind(k)
                 if (kd, num) in seen: continue                      # the same reference in another script on the same line
                 seen.add((kd, num))
