@@ -8869,6 +8869,8 @@ If, like gamblers, who cheat at play, (we commit offences) knowingly, or (those)
 
 **NOTE**
 
+## Sūkta 86 (Maṇḍala 5)
+
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > इंद्राग्नी यमिति षडृचं चतुर्दशं सूक्तमत्रेरार्षमानुष्टुभमैंद्राग्नं ।

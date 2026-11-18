@@ -17,3 +17,4 @@
 | through p. 283 (two windows: pp. 272–283; verify failed on window 2 for an extra Saṃhitā label, repaired by dispatcher) | sonnet | 10 | 189388 | 5.8 |
 | through p. 301 (three windows in one agent: pp. 284–301) | sonnet | 16 | 203383 | 5.5 |
 | through p. 320 (three windows in one agent: pp. 302–320) | sonnet | 18 | 222414 | 6.7 |
+| through p. 341 (three windows in one agent: pp. 321–341) | sonnet | 25 | 227945 | 7.1 |

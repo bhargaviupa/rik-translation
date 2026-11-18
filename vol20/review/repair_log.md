@@ -1,3 +1,4 @@
 - 2026-11-18 printed pp. 1-6: three sub-headings written as '## ' (flagged by verify as chapter-level headings) changed to bold lines; no text changed.
 - 2026-11-18 printed pp. 266-271: heading "## Pariśiṣṭa-sūkta 11 (Śrī-sūkta)" (flagged by verify/audit as a chapter-level heading that is not a sūkta) changed to the bold line "**Pariśiṣṭa Sūkta 11 (Śrī-sūkta)**" like the earlier Pariśiṣṭa headings; no text changed.
 - 2026-11-18 printed pp. 278-283: stray label line "**Saṃhitā-pāṭha**" before the Ṛk 2 verse of the Śrī-sūkta removed (kn.md has no such label there, so Kannada 164 vs English 165 Saṃhitā labels); no other change.
+- 2026-11-18 printed p. 241/242: `## Sūkta 86 (Maṇḍala 5)` inserted before the Sāyaṇa-bhāṣya of the Indrāgnī sūkta (its six Ṛks stood under Sūkta 85; the Kannada heading line reads "ಎಂಭತ್ತನೆಯ ಸೂಕ್ತವು" (80th) and the head line printed on p. 242 says Sūkta 86). Nothing else changed.
