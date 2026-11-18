@@ -2997,6 +2997,285 @@ I glorify you with hymns and with pious worship, the ancient undecaying Indra, f
 > वर्धाहै॑नमु॒षसो॒ याम॑न्न॒ क्तोर्वर्धा॒न्मासाः॑ श॒रदो॒ द्याव॒  ॑
 > इंद्रं ॥ ४ ॥
 
+### Printed p. 70
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वर्धात् । यं । यज्ञः । उत । सोमः । इंद्रं । वर्धान् । ब्रह्म । गिरः । उक्था ।  
+> च । मन्म ।  
+> वर्ध । अह । एनं । उषसः । यामन् । अक्टोः । वर्धान् । मासाः । शरदः । द्यावः।  
+> इंद्रं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमिंद्रं यज्ञो यागो वर्धात् वर्धयति । उतापि च तत्साधनभूतः
+> सोमश्च यमिंद्रं वर्धयति । तथा ब्रह्म हविर्लक्षणमन्नं च पुरोडाशादिकं
+> यमिंद्रं वर्धात् वर्धयति । गिरः स्तोत्राणि मन्म मननीयान्कुक्षोकशस्त्राणॆ च
+> यं वर्धयंति एनमिंद्रमुषसश्चाक्तो रात्रेर्यामन् यामनि गमने सति
+> वर्ध । वर्धयंति । मासाः शरदः संवत्सराश्च द्यावो दिवसाश्चैनमिंद्रं वर्धान् ।
+> वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+The Indra whom the sacrifice (यज्ञो (*yajño*), the rite) makes grow (वर्धात् (*vardhāt*)); and also Soma, the means of it, makes that Indra grow. So too ब्रह्म (*brahma*), food in the form of the oblation, such as the sacrificial cake and the like, makes that Indra grow. The praises (गिरः (*giraḥ*)) and the मन्म (*manma*), the thoughtful recitations of the śastra kind, make him grow. This Indra the Dawns (उषसः (*uṣasaḥ*)) cause to grow when the night (अक्टोः (*akṭoḥ*)) goes on (यामन् (*yāman*)). The months, the autumns, that is, the years, and the days make this Indra grow. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं इंद्रं (*yaṃ iṃdraṃ*)—the Indra whom
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- वर्धात् (*vardhāt*)—makes strong
+- उत (*uta*)—and
+- सोमः (*somaḥ*)—Soma
+- ब्रह्म (*brahma*)—and the food in the form of oblation
+- वर्धात् (*vardhāt*)—make full-grown
+- गिरः (*giraḥ*)—the praises
+- मन्म (*manma*)—which are means of meditation
+- उक्ता (*uktā*)—and the recited mantras, make whom strong
+- एनं (*enaṃ*)—that same Indra
+- अक्टोः (*akṭoḥ*)—of the night
+- यामन् (*yāman*)—in the time of its passing
+- उषसः (*uṣasaḥ*)—the Dawns
+- वर्ध (*vardha*)—make grow
+- मासाः (*māsāḥ*)—the months
+- शरदः (*śaradaḥ*)—the years
+- द्यावः (*dyāvaḥ*)—the days
+- इंद्रं (*iṃdraṃ*)—Indra
+- वर्धान् (*vardhān*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra whom the sacrifice, the Soma that is its means, and the food in the form of oblation make full-grown, and whom the praises and the recited mantras that serve meditation make strong: that same Indra the Dawns make grow in the time of the night's passing. The months, the years and the days are causes of Indra's growth.
+
+### Printed p. 71
+
+##### English translation
+Indra, whom the sacrifice, whom the libation exalts, whom the oblation, the praises, the prayers, the adoration exalt, whom the course of day and night exalts, whom months, and years, and days exalt.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ज॑ज्ञा॒नं सह॑से॒ असा॑मि वावृधा॒नं राध॑से च श्रु॒ताय॑।  
+> म॒हामु॒ग्रमव॑से विप्र नू॒नमा वि॑वासेनु वृत्र॒तूर्ये॑षु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । जज्ञानं । सहसे । आसामि । ववृधानं । राधसे । च । श्रुताय ।  
+> महां । उग्रं । अवसे । विप्र । नूनं । आ । विवासेम । वृत्रतूर्येषु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हॆः विप्र मेधाविन्निंद्र एवैवं जज्ञानं प्रादुर्भवंतं सहसे शत्रूणामभिभवार्थमसामि बहुलं वावृधानं वर्धमानं महां महांतमुग्रमुद्गूर्णबलं
+> त्वां नूनमद्य वृत्रतूर्येषु श्रुताय विश्रुताय राधसे धनाय चावसे रक्षणाय
+> चा विवासेम । परिचरेम ॥
+
+##### Gist of the bhāṣya
+
+O wise (विप्र (*vipra*), intelligent) Indra, you who are thus (एव (*eva*)) being born, manifesting yourself (जज्ञानं (*jajñānaṃ*)), for the overcoming of enemies (सहसे (*sahase*)), असामि (*asāmi*), abundantly, growing (वावृधानं (*vāvṛdhānaṃ*)), great (महां (*mahāṃ*)), mighty (उग्रं (*ugraṃ*), of uplifted strength): you do we serve (विवासेम (*vivāsema*), परिचरेम (*paricarema*)) today in the battles in which Vṛtra is slain (वृत्रतूर्येषु (*vṛtratūryeṣu*)), for renowned (श्रुताय (*śrutāya*)) wealth (राधसे (*rādhase*)) and for protection (अवसे (*avase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise Indra
+- एव (*eva*)—in this manner
+- जज्ञानं (*jajñānaṃ*)—one who has come into being
+- सहसे (*sahase*)—to defeat the enemies
+- आसामि (*āsāmi*)—exceedingly
+- वावृधानं (*vāvṛdhānaṃ*)—one who has grown
+- महां (*mahāṃ*)—and a great soul
+- उग्रं (*ugraṃ*)—and one of fearful strength, you
+- नूनं (*nūnaṃ*)—now
+- वृत्रशूरेषु (*vṛtraśūreṣu*)—in the battles
+- श्रुताय (*śrutāya*)—for fame
+- राधसे (*rādhase*)—for wealth
+- अवसे (*avase*)—for protection
+- आ विवासेम (*ā vivāsema*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Indra, you who have thus come into being, who have grown exceedingly in order to defeat the enemies, a great soul, one of fearful strength, we worship in the battles, for fame, for wealth and for protection.
+
+### Printed p. 72
+
+##### English translation
+So, wise Indra, may we to-day propitiate you who are manifested. to overcome (our foes), you who are greatly augmenting, mightly and free, for (the sake of) wealth, fame, and protection, and for the destruction of (our) enemies.
+
+## Sūkta 39 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रस्य कवेरिति पंचर्चं षोडशं सूक्तं भरद्वाजस्यार્ષं त्रैष्टुभमैंद्रं ।
+> मंद्रस्येत्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मंद्रस्य कवेरिति (*maṃdrasya kaveriti*) has five Ṛks and is the sixteenth sūkta. Its seer is Bharadvāja (Ārṣa), its metre is Triṣṭubh, and its deity is Indra. It is listed in the Anukramaṇī with the word मंद्रस्येत्यनुक्रांतं (*maṃdrasyetyanukrāṃtaṃ*). Its use has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning "मंद्रस्य कवेः (*maṃdrasya kaveḥ*)" is the sixteenth sūkta in the third anuvāka. It has five Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity, and the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with "Mandrasya". The use has been stated before.
+
+##### Particulars
+
+- Sūkta 39
+- Maṇḍala 6; Anuvāka 3; Sūkta 39
+- Aṣṭaka 4; Adhyāya 7; Varga 11
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रस्य॑ क॒वेर्दि॒व्यस्य॒ वह्ने॒र्विप्र॑मन्मनो वच॒नस्य॒ मध्वः॑ ।  
+> अपा॑ न॒स्तस्य॑ सच॒नस्य॑ दे॒वेषो॑ युवस्व गृण॒ते गोअ॑ग्राः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रस्य । कवेः । दिव्यस्य । वह्नेः । विप्रमन्मनः । वचनस्य । मध्वः ।  
+> अपाः । नः । तस्य । सचनस्य । देव । इषः । युवस्व । गृणते । गोऽअग्राः ॥ १ i
+
+### Printed p. 73
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रस्य मोदनस्य मदकरस्य वा कवेर्विक्रांतस्य दिव्यस्य दिवि भवस्य
+> वह्नेर्वोढुर्विप्रमन्मनः । विप्रा मेधाविनो मन्मनः स्तोतारो यस्य स तथोक्तः ।
+> तस्य वचनस्य वचनीयस्य स्तुत्यस्य तस्य सर्वत्र प्रसिद्धस्य सचनस्य सेव्यस्य एवंभूतस्य
+> मध्वो मधुनः सोमस्य ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥ एवंभूतं नोऽस्मदीयं सोमं हे इंद्र त्वमपाः । पिब । अपि
+> च हे देव द्योतमानेंद्र गृणते स्तुवते ॥ तृतीयार्थे चतुर्थी ॥ स्तुवता
+> मया गोअग्राः । गावोऽग्री प्रमुखे यासां तादृशा इषोऽन्नानि युवस्व ।
+> संयोजय ॥
+
+##### Gist of the bhāṣya
+
+मंद्रस्य (*maṃdrasya*) is delighting or intoxicating; कवेः (*kaveḥ*), the powerful; दिव्यस्य (*divyasya*), born in heaven; वह्नेः (*vahneḥ*), the bearer; विप्रमन्मनः (*vipramanmanaḥ*) is one whose praisers (मन्मनः (*manmanaḥ*)) are the wise (विप्रा (*viprā*)); वचनस्य (*vacanasya*), that which is to be spoken of, to be praised; that which is famed everywhere; सचनस्य (*sacanasya*), to be served; the sweet Soma (मध्वो मधुनः सोमस्य (*madhvo madhunaḥ somasya*)) of such a kind, our Soma, O Indra, you drink (अपाः (*apāḥ*), पिब (*piba*)). The genitive here stands in the sense of the dative, since the act of taking is to be performed on it as the thing given. And, O shining god Indra, to me who praise (गृणते (*gṛṇate*); the dative stands for the instrumental), join (युवस्व (*yuvasva*), संयोजय (*saṃyojaya*)) foods (इषः (*iṣaḥ*), foods) that have cattle at their head. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—offered by us
+- मंद्रस्य (*maṃdrasya*)—intoxicating
+- कवेः (*kaveḥ*)—life-giving
+- दिव्यस्य (*divyasya*)—born in the heavenly world
+- वह्नेः (*vahneḥ*)—bearing fruit
+- विप्रमन्मनः (*vipramanmanaḥ*)—meditated on by the praisers
+- वचनस्य (*vacanasya*)—praiseworthy
+- तस्य (*tasya*)—well known
+- सचनस्य (*sacanasya*)—fit to be served
+- मध्यः (*madhyaḥ*)—sweet Soma juice
+- अपाः (*apāḥ*)—drink
+- देव (*deva*)—O shining Indra
+- गृणते (*gṛṇate*)—with me, the praiser
+- गो अग्राः (*go agrāḥ*)—having cattle as the chief part
+- इषः (*iṣaḥ*)—foods
+- युवस्व (*yuvasva*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the sweet Soma juice, offered by us, intoxicating, life-giving, born in the heavenly world, bearing fruit, meditated on by the praisers, praiseworthy, well known and fit to be served. O shining Indra, join to me, the praiser, foods that have cattle as their chief part; that is, fill me with all of them.
+
+##### English translation
+Drink, Indra, of that our sweet, exhilarating, inspiring, celestial, fruit-yielding Soma, commended by the wise, and entitled to praise and preparation: bestow upon him who glorifies you, divine (Indra), food, the chiefest of which is cattle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमु॑शा॒नः पयद्रि॑मु॒स्रा ऋ॒तधी॑तिभिर्ऋत॒युग्यु॑जा॒नः ।  
+> रु॒जदरु॑ग्णं॒ वि व॒लस्य॒ सानुं॑ प॒णीर्वचो॑भिर॒भि यो॑ध॒दिंद्रः॑ ॥
+
+### Printed p. 74
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । उशानः । परि । अद्रं । उस्राः । ऋतधीतिभिः । ऋत्ययुक् । युजानः ।  
+> रुजत् । अरुग्णं । वि । वलस्य । सानुं । पणीन् । वचःभिः । अभि । योधत् । इंद्रः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयमिंद्रोऽद्रिं वलेन गोपिधानाय निर्मितं शिलोच्चयं परि परितः
+> पर्वतसमीपे विद्यमाना उस्रा गा उशानः कामयमान ऋतधीतिभिः सत्यकर्मभिरंगिरोभिर्युजानः संगच्छमान ऋतयुक् ऋतेन तत्कृतेन स्तोत्रेण युक्तश्च
+> भूत्वा वलस्यासुरस्य स्वभूतं सानुमुच्च्रितं पर्वतमरुग्णमन्मैरभग्नं वि रुजत् ।
+> व्यभांक्षीत् । किं च पणीन्वलानुचरानेतत्संज्ञानसुरांश्च वचोभिः स्तुत्यैरायुध्यैः
+> संतर्जनरूपैर्वाक्यैरेव वायमिंद्रोऽभि योधत् । अभ्ययुध्यत् ॥
+
+##### Gist of the bhāṣya
+
+This Indra, desiring (उशानः (*uśānaḥ*)) the cows (उस्रा (*usrā*)) that were near the mountain (अद्रिं (*adriṃ*)), the mass of rock made by Vala to enclose the cows, joining (युजानः (*yujānaḥ*)) the Aṅgirases whose acts were true (ऋतधीतिभिः (*ṛtadhītibhiḥ*)), and being joined with the praise (ऋतयुक् (*ṛtayuk*)) made by them, broke (वि रुजत् (*vi rujat*)) the unbroken (अरुग्णं (*arugṇaṃ*)) summit (सानुं (*sānuṃ*)), the high mountain belonging to the asura Vala. And further, the Paṇis, the asuras of that name who were Vala's followers, Indra fought (अभि योधत् (*abhi yodhat*)) with words alone (वचोभिः (*vacobhiḥ*)), words that were praiseworthy and warlike, in the nature of संतर्जन (*saṃtarjana*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं इंद्रः (*ayaṃ iṃdraḥ*)—this Indra
+- अद्रिं परि (*adriṃ pari*)—around the mountain
+- उस्राः (*usrāḥ*)—the cows
+- उशानः (*uśānaḥ*)—wishing to obtain
+- यतधीतिभिः (*yatadhītibhiḥ*)—with the Aṅgirases, whose acts are true
+- युजानः (*yujānaḥ*)—joining
+- यतयुक् (*yatayuk*)—being furnished with praise
+- वलस्य (*valasya*)—of the asura Vala
+- अरुग्णं (*arugṇaṃ*)—which others could not enter
+- सानुं (*sānuṃ*)—the high part of the mountain
+- वि रुजत् (*vi rujat*)—split apart
+- पणीन् (*paṇīn*)—the Paṇis, followers of Vala
+- वचोभिः (*vacobhiḥ*)—with harsh words alone
+- अभि योधत् (*abhi yodhat*)—he confronted
+
+##### भावार्थ (Bhāvārtha)
+
+Wishing to obtain the cows that were around the mountain made by Vala to confine the cows, Indra joined the Aṅgirases, whose acts are true, and, furnished with praise, split apart the high part of the mountain of the asura Vala, which others could not enter. He confronted the Paṇis, the followers of Vala, with harsh words alone.
+
+##### English translation
+Determined (to recover) the cattle hidden in the mountain, associated with the celebrators of pure rites, (the Angirasas), and animated by (their) veracious (praise), this (Indra) fractured the infrangible rock of Vala. and overwhelmed the Panis with reproaches.
+
+### Printed p. 75
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं द्यो॑तयद॒द्युतो॒ व्य१॒ं॑ कून्दो॒षा वस्तोः॑ श॒रद॒  
+> इंदु॑रिंद्र ।  
+> इ॒मं के॒तुम॑दधु॒र्नू चि॒दह्नां॒ शुचि॑जन्मन उ॒षस॑श्चकार ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । द्योतयत् । अद्युतः । वि । अक्तून् । दोषा । वस्तोः । शरदः । इंदुः ।  
+> इंद्र ।  
+> इमं । केतुं । अदधुः । नु । चित् । आह्नां । शुचिजन्मनः । उषसः । चकार ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वया नियम्यमानः पीयमानो वायमिंदुः सोमोऽद्युतोऽद्योतमानानक्तून् । अक्तुरिति रात्रिनाम । अत्र च तत्संबंधात्पक्षमासादयो
+> लक्ष्यंते । पक्षमासादीन् तथा दोषा रात्रिं वसोर्दिवसं शरदः संवत्सरांश्च वि
+> द्योतयत् । व्यदीपयत् । कुत इत्यत आह । नू चित् पुरा देवा इमं सोमं
+> चंद्रात्मना नभसि वर्तमानमह्नां दिवसानां केतुं प्रज्ञापकं यस्माददधुः
+> व्यदधुः अकुर्वन् तस्मादनेन पक्षमासादयः सर्वे प्रकाश्यंते । चंद्रगत्यधीनत्वात्तिथिविभागानां । अपि चायं सोम उषस उषःकालान् शुचिजन्मन आत्मीयेन
+> तेजसा शुद्धोदयान् चकार । करोति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Indu, Soma, controlled (नियम्यमानः (*niyamyamānaḥ*)) or drunk by you, illumined (वि द्योतयत् (*vi dyotayat*)) the dark (अद्युतः (*adyutaḥ*)) अक्तून् (*aktūn*). अक्तुरिति (*akturiti*) is a name of night; here, by association with it, fortnights, months and the like are meant. So Soma illumined the fortnights, months and the like, the night (दोषा (*doṣā*)), the day (वस्तोः (*vastoḥ*)), the autumns, that is, the years. Why? Because the gods formerly (नू चित् (*nū cit*)) set up (अदधुः (*adadhuḥ*)) this Soma, which stands in the sky in the form of the moon, as the indicator (केतुं (*ketuṃ*)) of the days (अह्नां (*ahnāṃ*)), and therefore by it all fortnights, months and the like are made known, since the divisions of the lunar days depend on the moon's course. Moreover this Soma makes the dawns (उषसः (*uṣasaḥ*)), the times of dawn, of pure birth (शुचिजन्मन (*śucijanmana*)), that is, of pure rising, by its own radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नू चित् (*nū cit*)—formerly
+- इमं (*imaṃ*)—this Soma
+- अह्नां (*ahnāṃ*)—for the days
+- केतुं (*ketuṃ*)—as the indicator (in the form of the moon)
+- अदधुः (*adadhuḥ*)—(the gods) established
+- आयं इंदुः (*āyaṃ iṃduḥ*)—this Soma, therefore
+- अद्युतः (*adyutaḥ*)—which are without light
+- अक्तून् (*aktūn*)—of the dark fortnights and the like
+- दोषा (*doṣā*)—the nights
+- वस्तोः (*vastoḥ*)—the days
+- शरदः (*śaradaḥ*)—the years
+- वि द्योतयत् (*vi dyotayat*)—made to shine
+- उषसः (*uṣasaḥ*)—the Dawns
+- श.चिजन्मनः (*śa.cijanmanaḥ*)—of purified birth
+- चकार (*cakāra*)—made
+
 ---
 
-**Progress note:** Done through printed p. 69. VI.37 Ṛks 4-5; VI.38 Ṛks 1-4 begin (pp. 63-69)
+**Progress note:** Done through printed p. 75. VI.38 Ṛks 4-5; VI.39 Ṛks 1-3 (pp. 70-75)
