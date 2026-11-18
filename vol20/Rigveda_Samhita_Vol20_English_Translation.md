@@ -4389,6 +4389,221 @@ Showerers of wealth, the praise of your worshipper is addressed to your chariot;
 > विभिः । च्यवानं । अश्विना । नि । याथः । अद्वयाविनं । माध्वी इति । मम । श्रुतं ।  
 > हवं ॥ ५ ॥
 
+### Printed p. 117
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना बोधिन्मनसा बुध्यमानमनस्कौ रथ्या रथस्वामिनाविषिरा शीघ्रगंता रौ
+> सर्वैर्गंतव्यौ वा हवनश्रुता हवनस्य स्तुतेः श्रोतारौ युवां विभिरश्चैश्चवानमृषिमद्वयाविनं मायारहितं नि याथः । यथा तम्मृषिं प्राप्तवंतौ तद्वन्मां प्रति
+> पथि नि याथः । नितरामागच्छतं । प्र च्यवानाज्जु जुरुषो वव्रिं । ऋग्वे. ५-७४-५
+> इति ह्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you whose minds are attentive, who are lords of the chariot, swift-going or else to be approached by all, who hear the invocation, that is, the praise: you go with your horses to the ṛṣi Cyavāna, who is free of duplicity. Just as you came to that ṛṣi, so come on the way to me; come down to me fully. Sāyaṇa says that this is also stated in "प्र च्यवानाज्जु जुरुषो वव्रिं (*pra cyavānājju juruṣo vavriṃ*)" (Ṛgve. 5-74-5)**NOTE****GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- बोधिन्मनसा (*bodhinmanasā*)—having minds that understand our praise
+- रथ्या (*rathyā*)—being lords of the chariot
+- इषिरा (*iṣirā*)—swift-going
+- हवनश्रुता (*havanaśrutā*)—who hear our invocation
+- विभिः (*vibhiḥ*)—with your horses
+- अद्वयाविनं (*advayāvinaṃ*)—who, single-minded, was meditating on you alone
+- च्यवानं (*cyavānaṃ*)—to the sage Cyavana
+- नि याथः (*ni yāthaḥ*)—you set out
+- माध्वी (*mādhvī*)—O Aśvin deities, skilled in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, having minds that understand our praise, being lords of the chariot, swift-going, hearers of our invocation, you set out with your horses to the sage Cyavana, who, single-minded, was meditating on you alone. O Aśvin deities, skilled in the madhuvidyā, listen to my invocation.
+
+##### English translation
+With mind attentive (to praise), riding in cars, swif-tmoving, listening to invocations, you hastened with your steeds to the single-purposed Chyavana : masters of mystic lore, hear my invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sage Cyavana was old. His body was full of the marks of old age, such as grey hair and a wrinkled body. Because of this, the sons and others of this sage had abandoned him. Then the sage Cyavana praised the Aśvin deities and pleased them, lost his old age through them and obtained youth: this history is told here by this Ṛk. Skandasvāmin has told this history in a different way. This history is seen in the Śatapatha Brāhmaṇa.
+
+### Printed p. 118
+
+Here, in the Śatapatha (Śa. Brā. 4-1-5): अधीतमितिहासमाचक्षते । शर्यातो नाम राजा संक्रीडद्भिः कृतापराधाय कुपिताय जीर्णाय च्यवनाय प्रत्यापत्त्यर्थं सुकन्यां नाम कन्यकां दुहितरं ददौ । तां तत्रासीनां दृष्ट्वा अश्विनौ पुनः पुनरूचतुः । किं किं जीर्णीकृतरूपं कामयसे । आवां संभजेति । सा तौ प्रत्युवाच । यस्मै मां पिता अदात् नाहं तं जीवंतं हास्यामीति । तदृषिज्ञात्वा सुकन्यामुवाच । यदि त्वामेतौ पुनरेवं ब्रूयातां ततस्त्वमेनौ प्रतिब्रूयाः । आसर्वौ वसुसमृद्धौ संतौ पतिं मे निंदथ इति। तौ यदि त्वां प्रतिब्रूयातां केनासर्वौ वसुसमृद्धौ चेति तत एनौ प्रतिब्रूयाः पतिं मे पुनः युवानं कुरुतं । अथ नां वक्ष्यामीति । सा तौ तथोवाच । तामश्विन् प्रत्यूचतुः एतं ह्रदमवतरतु आतो यत् कामयते तेन वयसा युक्त उत्तरिष्यतीति । स ऋषिस्तं ह्रदमवतीयोत्ततार युवाभूत्वेति । तदेतदितिहासेनोच्यते जुजुरुषो नासत्येत्यादिना ॥ (*adhītamitihāsamācakṣate | śaryāto nāma rājā saṃkrīḍadbhiḥ kṛtāparādhāya kupitāya jīrṇāya cyavanāya pratyāpattyarthaṃ sukanyāṃ nāma kanyakāṃ duhitaraṃ dadau | tāṃ tatrāsīnāṃ dṛṣṭvā aśvinau punaḥ punarūcatuḥ | kiṃ kiṃ jīrṇīkṛtarūpaṃ kāmayase | āvāṃ saṃbhajeti | sā tau pratyuvāca | yasmai māṃ pitā adāt nāhaṃ taṃ jīvaṃtaṃ hāsyāmīti | tadṛṣijñātvā sukanyāmuvāca | yadi tvāmetau punarevaṃ brūyātāṃ tatastvamenau pratibrūyāḥ | āsarvau vasusamṛddhau saṃtau patiṃ me niṃdatha iti| tau yadi tvāṃ pratibrūyātāṃ kenāsarvau vasusamṛddhau ceti tata enau pratibrūyāḥ patiṃ me punaḥ yuvānaṃ kurutaṃ | atha nāṃ vakṣyāmīti | sā tau tathovāca | tāmaśvin pratyūcatuḥ etaṃ hradamavataratu āto yat kāmayate tena vayasā yukta uttariṣyatīti | sa ṛṣistaṃ hradamavatīyottatāra yuvābhūtveti | tadetaditihāsenocyate jujuruṣo nāsatyetyādinā ‖*) (Śa. Brā. 4-1-5)
+
+The king named Śaryāti, angered because his sons were playing, gave his daughter named Sukanyā in marriage to the old sage Cyavana. When Sukanyā was living in the hermitage of the sage Cyavana, the Aśvin deities came there and said to her many times: "Abandon this old husband and marry us." To this she said: "My father gave me to this sage. As long as the one who married me is alive, I shall not abandon him." The sage Cyavana heard this and told her: "When they question you again in this way, ask them: 'Though you are endowed with every prosperity, what is the reason that you reproach my husband?' In answer they will ask you: 'How are we rich in wealth?' Then tell them: 'Give my husband youth; afterwards I shall tell you.'" Thus the sage Cyavana taught her what to say to them. Sukanyā spoke to the Aśvin deities as the sage Cyavana had said. Hearing her words, the Aśvin deities said: "If your husband descends into this pool and bathes, your wish will be fulfilled; your husband will become possessed of youth." Having heard the words spoken by the Aśvin deities, he bathed in the pool they had named and came up a young man. This history is told by the Ṛk beginning "jujuruṣo nāsatya". The matter of the Aśvin deities making the old sage Cyavana young is described in many places in the Ṛgveda:
+
+### Printed p. 119
+
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहधुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhadhurāśumaśvaṃ |*) (Ṛ. Saṃ. 7-71-5)**GLOSS**
+
+प्र च्यवानाज्जु जुरुषो वव्रिमत्कं न मुंचथः । (*pra cyavānājju juruṣo vavrimatkaṃ na muṃcathaḥ |*) (Ṛ. Saṃ. 5-74-5)**GLOSS**
+
+निष्पौग्र्यं पारयथः समुद्रात्पुनश्च त्वापानं चक्रधुर्युवानं । (*niṣpaugryaṃ pārayathaḥ samudrātpunaśca tvāpānaṃ cakradhuryuvānaṃ |*) (Ṛ. Saṃ. 1-118-6)**GLOSS**
+
+युवं च्यवानं सनयं यथा रथं पुनर्युनानं चरथाय तक्षथुः । (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryunānaṃ carathāya takṣathuḥ |*) (Ṛ. Saṃ. 10-39-4)**GLOSS**
+
+This matter is mentioned in these Ṛks, and in many other Ṛks such as Ṛ. Saṃ. 5-74-5 and 7-68-6.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आवां॑ नरा मनो॒युजोऽश्वा॑सः पुषि॒तप्स॑वः ।  
+> वयो॑ वहंतु पी॒तये॑ स॒ह सु॒म्नेभि॑रश्विना॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । नरा । मनःयुजः । आश्वासः । प्रुषितप्सवः ।  
+> वयः । वहंतु । पीतये । सह । सुम्नेभिः । अश्विना । माध्वी इति । मम । श्रुतं ।  
+> हवं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा कर्मणां नेतारौ हे अश्विनौ वां युवां मनोयुजो
+> मनोमात्रेण युज्यमानाः । सुशिक्षिता इत्यर्थः । प्रुषितप्पवो विचित्ररूपा वयः
+> शीघ्रगंतारोऽश्वासोऽश्वा आ वहंतु पीतये सोमपानाय । सुम्नेभिः सह
+> अस्मभ्यं देयैः सुखैस्तत्साधनैर्धनादिभिर्वा सह वहंतु ॥
+
+##### Gist of the bhāṣya
+
+O Naras, leaders of rites, O Aśvins, let your horses, which are yoked by mere thought, that is, are well trained, of variegated form, swift-going, bring you for the drinking of Soma. Let them bring you together with comforts, that is, with the pleasures to be given to us, or with wealth and the like, which are the means of them.
+
+### Printed p. 120
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मनोयुजः (*manoyujaḥ*)—those that join the chariot by mere resolve
+- पुषिताप्सवः (*puṣitāpsavaḥ*)—of wondrous form
+- वयः (*vayaḥ*)—swift-going
+- आश्वासः (*āśvāsaḥ*)—horses
+- वां (*vāṃ*)—you
+- सुम्मेभिः सह (*summebhiḥ saha*)—with wealth that is to be given to us and gives comfort
+- पीतये (*pītaye*)—for the drinking of Soma
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+- माध्वी (*mādhvī*)—O Aśvin deities, skilled in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, let your horses, which join the chariot by mere resolve, are of wondrous form and are swift-going, bring you for the drinking of Soma, together with wealth that is to be given to us and gives comfort. O Aśvin deities, skilled in the madhuvidyā, listen to my invocation.
+
+##### English translation
+Aswins, leaders (of rites), may your horses, harnessed at will, of wondrous beauty, and of rapid course, bring you hither with good gifts to drink (of the proffered beverage): masters of mystic lore, hear my invocation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना॒वेह ग॑च्छतं॒ नास॑त्या॒ मा वि वे॑नतं ।  
+> ति॒रश्चि॑दर्य॒या परि॑ व॒र्तिया॑र्तमदाभ्या॒ माध्वी॒ मम॑ श्रुतं॒  ॑
+> हवं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वन् । आ । इह । गच्छतं । नासत्या । मा । वि । वेनतं ।  
+> तिरः । चित् । अर्यया । परि । वर्तिः । यातं । अदाभ्या । माध्वी इति । मम ।  
+> श्रुतं । हवं ॥ ७ ॥
+
+### Printed p. 121
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाविहास्मिन्यज्ञ आ गच्छतं । हे नासत्या मा वि वेनतं । विगतकामौ
+> मा भवतं ॥ वेनतिः कांतिकर्मा ॥ हे आदाभ्याहिंस्यौ पूज्यौ आर्ययार्यौ
+> स्वामिनौ युवां ॥ सुपां सुलुगित्यादिना सुपो याजादेशः ॥ तिरश्चित् अंतर्हिताद्दूरदेशादपि युवां वर्तिरस्मद्यज्ञगृहं परि यातं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come here, to this sacrifice. O Nāsatyas, do not be without desire: do not become ones whose desire has gone. "Venati" is a word for a verb of desire. O inviolable, worshipful, masters, you two: from a distant place, even one hidden from sight, come to our house of sacrifice, that is, approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनौ (*aśvinau*)—O Aśvin deities
+- इह (*iha*)—to this sacrifice
+- आ गच्छतं (*ā gacchataṃ*)—come
+- नासत्या (*nāsatyā*)—O Nāsatyas
+- मा वि वेनतं (*mā vi venataṃ*)—do not be unwilling to come to us
+- अदाभ्या (*adābhyā*)—who are unharmed
+- आरया (*ārayā*)—and worshipful lords, you
+- तिरश्चित् (*tiraścit*)—even from a distant place hidden from the eye
+- वर्तिः (*vartiḥ*)—to our house of sacrifice
+- परि यातं (*pari yātaṃ*)—come
+- माध्वी (*mādhvī*)—O Aśvins, skilled in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to this sacrifice. O Nāsatyas, do not be unwilling to come to us. You who are unharmed and are worshipful lords, come to our house of sacrifice even from a distant place hidden from the eye. O Aśvin deities, skilled in the madhuvidyā, listen to my invocation.
+
+##### English translation
+Aswins, come hither : Nasatyas, be not unpropitious : invincible lords, come from hidden (regions) to our sacrificial hall : master of mystic lore, hear my invocation.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मिन्न्य॒ज्ञे अ॑दाभ्या जरि॒तारं॑ शुभस्पती ।  
+> अ॒व॒स्युम॑श्विना यु॒वं गृ॒णंत॒मुप॑ भूषथो॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ ८ ॥
+
+### Printed p. 122
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मिन् । यज्ञे । अदाभ्या । जरितारं । शुभः । पती इति ।  
+> अवस्युं । अश्विना । युवं । गृणंतं । उप । भूषथः । माध्वी इति । मम । श्रुतं  
+> हवं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदाभ्या अहिंस्यौ हे शुभस्पती उदकस्य स्वामिनावश्विना युवं युवामस्मिन्यज्ञे जरितारं स्तोतारमवस्युं गृणंतं स्तुवंतं मामुप भूषथः ।
+> उपप्रापुतं ॥
+
+##### Gist of the bhāṣya
+
+O inviolable, that is, unharmable ones, O Śubhaspatis, lords of water, O Aśvins: you at this sacrifice approach me, the praiser, who am eager for help and who extol you; that is, come near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदाभ्या (*ādābhyā*)—who are free from harm
+- शुभस्पती (*śubhaspatī*)—who are lords of water
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- जरितारं (*jaritāraṃ*)—the maker of praise
+- गृणंतं (*gṛṇaṃtaṃ*)—the reciter of praise, who extols you
+- अवस्युं (*avasyuṃ*)—named Avasyu, me
+- उप भूषथः (*upa bhūṣathaḥ*)—favour
+- माध्वी (*mādhvī*)—O Aśvin deities, skilled in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—praise
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who are free from harm and are lords of water, favour me in this sacrifice, me who am the maker of praise and extol you with praises. O Aśvin deities, skilled in the madhuvidyā, listen to my praise.
+
+##### English translation
+Invincible Aswins, lords of water, favour Avasyu, glorifying you at this sacrifice : masters of mystic lore, hear my invocation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॑दु॒षा रुश॑त्पशु॒राग्नि र॑धाय्य॒त्वियः॑ ।  
+> आयो॑जि वां वृषण्वसू॒ रथो॑ दस्रा॒वम॑र्त्यो॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 116. Special Topics end (Dadhīci legends), Sūkta 75 Ṛk 2-4, Ṛk 5 Saṃhitā and Pada
+**Progress note:** Done through printed p. 122. Ṛk 5 end (Cyavana story), Ṛk 6-8, start of Ṛk 9
