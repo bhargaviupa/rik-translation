@@ -5062,6 +5062,261 @@ O Vṛṣabha, showerer of desires, Indra, do not give us up to the destroyer �
 
 O Indra, showerer of desires, do not give us up to the harming enemy. Do not let us, who are in the friendship of you, the wealthy, be harmed. O Indra, many hindrances of yours are among the enemy people. Destroy those who do not press the Soma and those who do not offer oblations.
 
+### Printed p. 115
+
+##### English translation
+Give us not up, showerer (of benefits), to the obstructor (of our rites) : relying upon the friendship of you, lord of riches, may we be unharmed : many are the hindrances (opposed) to you amongst men: slay those who make no libations, root out those who present no offering.
+
+#### Ṛk 12 **NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॒भ्राणी॑व स्त॒नय॑न्निय॒र्तिंद्रो॒ राधां॒स्यश्वा॑नि॒ गव्या॑ ।  
+> त्वम॑सि प्र॒दिवः॑ का॒रुधा॑या॒ मा त्वा॑दा॒मान॒ आ द॑भन्म॒घोनः॑ ॥  
+> ॥ चरित्रॆ ॥  
+> उत् । अभ्राणिइव । स्तनयन् । इयर्ति । इंद्रः । राधांसि । अश्वानि । गव्या ॥  
+> त्वं । अ॑सि । प्र॒दिवः॑ । का॒रुधा॑याः॒ । मा । त्वा॑ । आदा॒मानः॒ । आ । द॑भन् । म॒घोनः॑ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्राणीव स्तनयन् गर्जयन् पर्जन्यो यथा मेघानुद्गमयत्येवमिंद्रोऽश्वान्यश्वसंबंधीनि गव्या गव्यानि गोसंबंधीन्वेतत्समूहद्वयरूपाणि
+> राधांसि धनान्युदियर्ति । उदीरयति । उद्गमयति स्तोतृभ्यो दातुं । उत्तरार्धः
+> प्रत्यक्षकृतः । हे इंद्र प्रदिवः पुराणस्त्वं कारुधायाः कारूणां स्तोतृणां
+> धारयितासि । भवसि । तादृशं त्वा त्वां मघोनो धनवंतः कृपणा अदामानो
+> हविषामदाकारो मा दभन् । मा हिंसिषुः । यद्वा वचनव्यत्ययः । मघवानं
+> धनवंतं त्वामिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Like thundering Parjanya who raises up the clouds, Indra raises up and sends forth riches, both of horses and of cattle, in order to give them to the worshippers. The second half of the verse is addressed directly: O Indra, ancient one, you are the upholder of the कारूणां (*kārūṇāṃ*), the praisers. Such as you are, let the wealthy, the niggardly ones who offer no oblations, not harm you. Or else there is a change of number, and the construction is: let them not harm you, the wealthy one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तनयन् (*stanayan*)—the thundering Parjanya
+- अभ्राणीव (*abhrāṇīva*)—as he scatters the clouds in masses upwards (disperses them)
+- इंद्रः (*iṃdraḥ*)—Indra
+- अश्वानि (*aśvāni*)—those connected with horses
+- गव्या (*gavyā*)—and those full of cattle
+- राधांसि (*rādhāṃsi*)—riches
+- उदियर्ति (*udiyarti*)—he spreads out abundantly (O Indra)
+- प्रदिवः (*pradivaḥ*)—ancient one
+- त्वं (*tvaṃ*)—you yourself
+- कारुधायाः (*kārudhāyāḥ*)—as the upholder of the praisers
+- आसि (*āsi*)—you are (such)
+- त्वा (*tvā*)—you
+- मघोनः (*maghonaḥ*)—the wealthy, niggardly ones
+- अदामानः (*adāmānaḥ*)—not offering oblations
+- मा आ धभन् (*mā ā dhabhan*)—let them not harm
+
+### Printed p. 116
+
+##### भावार्थ (Bhāvārtha)
+
+As the thundering Parjanya scatters the clouds upwards in masses (disperses them), Indra spreads out abundantly riches full of horses and full of cattle. O Indra, you yourself, the ancient one, are the upholder of the praisers. Let the niggardly ones, who though wealthy offer no oblations, not harm such a one as you.
+
+##### English translation
+As Indra, when thundering, raises the clouds, so he (heaps upon his worshippers) riches of horses and cattle: you, Indra, are the ancient upholder of the sacrificer : let not the opulent wrong you, not presenting (oblations).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑यो वीर॒ प्रम॒हे सु॒ताना॒मिंद्रा॑य भर॒ सह्य॑स्य॒ राजा॑।  
+> यः पू॒र्व्याभि॑रु॒त नूत॑नाभिर्गि॒र्भिर्वा॑वृ॒धे गृ॑ण॒तामृषी॑णां ॥ -३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वयो इति । वीर । प्र । महे । सुतानां । इंद्राय । भर । सः । हि । अस्य । राजा।  
+> यः । पूर्व्याभिः । उत । नूतनाभिः । गीःभिः । ववृधे । गृणतां । ऋषीणां ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीर हविषां विशेषेण प्रेरयितरध्वयो महे महतेऽस्मा इंद्राय
+> सुतानां ॥ कर्मणि षष्ठी ॥ सुतानभिषुतान् सोमान् प्र भर । प्रहर । प्रगमय ।
+> स हि खल्विंद्रोऽस्य सोमस्य राजा स्वामी भवति । य इंद्रः पूर्व्याभिः पूर्वकाले
+> कृताभिरुतापि च नूतनाभिरिदानीं क्रियॆमाणाभिर्गृणतां स्तुवतामृषिणां संबंधिनीभिर्गीर्भिरुभयविधाभिः स्तुतिभिर्वावृथे वर्धते । स इंद्रो यस्मात्सोमस्य राजा
+> शस्मादस्मै सोमः प्रदेय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O hero, O priest who sends forth the oblations in a special manner: offer the pressed Soma to the great Indra. For that Indra is the lord of this Soma, he who grows strong through the hymns of the praising sages, hymns of both kinds, made in the former time and now being made. Because Indra is the lord of the Soma, Soma is to be given to him; this is the meaning.
+
+### Printed p. 117
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- पूर्व्याभिः (*pūrvyābhiḥ*)—of the ancient time
+- उत (*uta*)—and
+- नूतनाभिः (*nūtanābhiḥ*)—of the modern time
+- गृणतां (*gṛṇatāṃ*)—praising
+- ऋषीणां (*ṛṣīṇāṃ*)—made by the sages
+- गीर्भिः (*gīrbhiḥ*)—by hymns
+- वावृधे (*vāvṛdhe*)—grows strong
+- स हि (*sa hi*)—that same Indra
+- अस्य (*asya*)—of this Soma
+- राजा (*rājā*)—is the lord (therefore)
+- वीर (*vīra*)—offering the oblation
+- अध्वर्यो (*adhvaryo*)—O Adhvaryu
+- महे (*mahe*)—to the exalted
+- इंद्राय (*iṃdrāya*)—to Indra
+- सुतानां (*sutānāṃ*)—the pressed Somas
+- प्र भर (*pra bhara*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who grows strong through hymns that are of the ancient time and also of the modern time, made by the praising sages, that same Indra is the lord of this Soma. Therefore, O Adhvaryu who offers the oblation, offer the pressed Somas to the exalted Indra.
+
+##### English translation
+Ministrant priests offer libations to the mighty Indra, for he is their king, he who has been exalted by the ancient and recent hymns of adoring sages.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य मदे॑ पु॒रु वर्पां॑सि वि॒द्वानिंद्रो॑ वृ॒त्राण्य॑ प्र॒ती ज॑घान ।  
+> तमु॒ प्र हो॑षि॒ मधु॑मंतमस्मै॒ सोमं॑ वी॒राय॑ शि॒प्रिणे॒  ॑
+> पिबध्यै॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । मदे । पुरु । वर्षांसि । विद्वान् । इंद्रः । वृत्राणि । अप्रति । जघान ॥  
+> तं । ऊं इति । प्र । होषि । मधुमंतं । अस्मै । सोमं । वीराय । शिप्रिणे ।  
+> पिबध्यै ॥ १४ ॥
+
+### Printed p. 118
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे रात्रिपर्याये मैत्रावरुणस्यास्य मद इति शस्त्रयाज्या । सूत्रितं च ।
+> अस्य मदे पुरु वर्षांसि विद्वानिति याज्या । आ. ६-४ । इति ॥
+> अस्य सोमस्य पानेन मदे वर्षे सति विद्वानभिज्ञ इंद्रः पुरु पुरूणि बहूनि
+> वर्पांस्यावरकाणि वृत्राणि शत्रुवनप्रति स्वयमन्यैरप्रतिगतः सन् जघान । हतवान् ।
+> यद्वा । वर्प इति रूपनाम । बहूनि वर्पांस्यसुरमायया निर्मितानि रूपाणि
+> विद्वान् जानन्निंद्रो वृत्राण्यावरकाणि रक्षःप्रभृतीनीतः पूर्वमन्यैरप्रतिगतानि
+> जघान । हतवान् । मधुमंतं माधुर्यवंतं तमु तमेव सोमं शिप्रिणे
+> शोभनहनुकायास्मै वीराय शत्रुवनां वीरयित्र इंद्राय पिबध्यै पातुं
+> प्र होषि । हे अध्वयो प्रजुहुधि ॥
+
+##### Gist of the bhāṣya
+
+In the first night-session this verse, beginning अस्य मदे (*asya made*), is the śastra-yājyā of the Maitrāvaruṇa priest. It is also stated in the sūtra: "अस्य मदे पुरु वर्षांसि विद्वानिति याज्या (*asya made puru varṣāṃsi vidvāniti yājyā*)", Ā. 6-4. When the exhilaration arises from drinking this Soma, the knowing Indra, himself unopposed by others, slew many enemies, the obstructors. Or else: वर्प (*varpa*) is a name for form; knowing the many forms created by the magic of the Asuras, Indra slew the obstructors, the Rakṣas and others, that none before had overcome. Offer that same sweet Soma into the fire for this hero, the fair-jawed one, the one who makes the enemies tremble, to drink it. The address is to the Adhvaryu: offer it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—by drinking this Soma
+- मदे (*made*)—when exhilaration arises
+- विद्वान् (*vidvān*)—the wise
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरु (*puru*)—those of many number
+- वर्षांसि (*varṣāṃsi*)—and of the form of obstructors
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- अप्रति (*aprati*)—unopposed
+- जघान (*jaghāna*)—slew
+- शिप्रिणे (*śipriṇe*)—having an excellent jaw
+- वीराय (*vīrāya*)—and valiant
+- अस्मै (*asmai*)—to this Indra
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with sweetness
+- तमु (*tamu*)—and famed
+- सोमं (*somaṃ*)—that same Soma
+- पिबध्यॆ (*pibadhyè*)—to drink
+- प्र होषि (*pra hoṣi*)—offer in the form of an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+When exhilaration arose from drinking this Soma, the wise Indra, unopposed, slew the enemies, who were many in number and of the form of obstructors. To this Indra, who has an excellent jaw and is valiant, offer in the form of an oblation the Soma, which is endowed with sweetness and famed, so that he may drink it.
+
+##### English translation
+In the exhilaration of this Soma, the wise Indra, irresistible, has destroyed numerous opposing enemies : offer the sweet-flavoured beverage to that hero. the handsome-chinned, to drink.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first night-session the priest called Maitrāvaruṇa is to recite this Ṛk beginning अस्य मदे (*asya made*) as the śastra-yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, "अस्य मदे पुरु वर्षांसि विद्वानिति याज्या (*asya made puru varṣāṃsi vidvāniti yājyā*)" (Ā. 6-4).
+
+### Printed p. 119
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पाता॑ सु॒तमिंद्रो॑ अस्तु॒ सोमं॒ हंता॑ वृ॒त्रं वज्रे॑ण मंदसा॒नः ।  
+> गंता॑ य॒ज्ञं प॑रा॒वत॑श्चि॒दच्छा॒ वसु॑र्धी॒नाम॑वि॒ता का॒रुधा॑याः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाता । सुतं । इंद्रः । अस्तु । सोमं । हंता । वृत्रं । वज्रेण । मंदसानः ।  
+> गंता । यज्ञं । परावतः । चित् । अच्छ । वसुः । धीनां । अविता । कारुधायाः ॥१५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये रात्रिपर्याये मैत्रावरुणस्यैव पाता सुतमिति शस्त्रयाज्या ।
+> सूत्रितं च । पाता सुतमिंद्रो अस्तु सोमं हंता वृत्रमिति याज्या । आ. ६-४ । इति ॥
+> अयमिंद्रः सुतमभिषुतं सोमं पातास्तु । साधु पाता भवतु ॥ साधुकारिणि
+> तृन् । आत एव न लोकाव्ययेति षष्ठिप्रतिषेधात् द्वितीया । एवं हंतेत्यादावपि
+> द्रष्टव्यं ॥ तेन च सोमेन मंडसानो माद्यन् वज्रेणायुधेन वृत्रमावरकं
+> शत्रुं हंतास्तु । भवतु । एतदुभयार्थं परावतश्चित् दूरदेशादपि यज्ञमच्छास्मदीयं यज्ञमभि गंता भवतु । दूरदेशस्थोऽपि शीघ्रमस्मदृज्ञॆ सोमपानायागच्छत्वित्यर्थः । कीदृश इंद्रः । वसुः सर्वेषां निवासयिता धीनां ध्यात्यणां
+> स्तोत्यणां कर्मणां नाविता रक्षिता कारुधायाः कारूणां कर्तृणां यजमानानां
+> धारयिता ॥
+
+##### Gist of the bhāṣya
+
+In the second night-session this verse, beginning पाता सुतं (*pātā sutaṃ*), is the śastra-yājyā of the Maitrāvaruṇa priest alone. It is also stated in the sūtra: "पाता सुतमिंद्रो अस्तु सोमं हंता वृत्रमिति याज्या (*pātā sutamiṃdro astu somaṃ haṃtā vṛtramiti yājyā*)", Ā. 6-4. May this Indra be a good drinker of the pressed Soma. And, exhilarated by that Soma, may he be the slayer, with the thunderbolt, his weapon, of Vṛtra, the obstructing enemy. For both purposes, may he come to our sacrifice even from a far-off place; the meaning is: though staying far away, let him come quickly to our sacrifice to drink Soma. What kind of Indra? The one who is the dwelling-giver of all, the protector of the rites of the thinkers and praisers, the upholder of the doers, the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुतं (*sutaṃ*)—the pressed
+- सोमं (*somaṃ*)—Soma
+- पाता अस्तु (*pātā astu*)—let him be the drinker
+- मंदसानः (*maṃdasānaḥ*)—satisfied by it
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रं (*vṛtraṃ*)—the enemy
+- हंता (*haṃtā*)—let him be the destroyer
+- वसुः (*vasuḥ*)—the dweller-giver of all
+- धीनां (*dhīnāṃ*)—of the praisers
+- अविता (*avitā*)—the protector
+- कारुधायाः (*kārudhāyāḥ*)—and the upholder of the sacrificers, Indra
+- परावतश्चित् (*parāvataścit*)—even though in a very distant place
+- यज्ञं अच्छ (*yajñaṃ accha*)—facing our sacrifice
+- गंता (*gaṃtā*)—let him be the one who comes,
+
+### Printed p. 120
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra be the drinker of the pressed Soma. Satisfied by it, let him be the destroyer of the enemy with the thunderbolt. Let Indra, the dweller-giver of all, the protector of the praisers and the upholder of the sacrificers, be one who comes facing our sacrifice, even though he is in a very distant place.
+
+##### English translation
+May Indra be the drinker of this effused Soma juice, and exhilarated by it, become the destroyer of Vritra by the thunderbolt: may he come, although from afar, to our sacrifice, (he who is) the giver of dwellings, the upholder of the celebrator (of religious rites).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second night-session the priest called Maitrāvaruṇa is to recite this Ṛk beginning पाता सुतं (*pātā sutaṃ*) as the śastra-yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, "पाता सुतमिंद्रो अस्तु सोमं हंता वृत्रमिति याज्या (*pātā sutamiṃdro astu somaṃ haṃtā vṛtramiti yājyā*)" (Ā. 6-4).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं त्यत्पात्र॑मिंद्र॒पान॒मिंद्र॑स्य प्रि॒यम॒मृत॑मपायि ।  
+> मत्स॒द्यथा॑ सौमन॒साय॑ दे॒वं व्य१॒॑गस्मद्वेषो॑ यु॒यव॒द्व्यंहः॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । त्यत् । पात्रं । इंद्रपानं । इंद्रस्य । प्रियं । अमृतं । अपायि ।  
+> मत्सत् । यथा । सौमनसाय । देवं । वि । अस्मत् । द्वेषः । युयवत् । वि । अंहः ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये रात्रिपर्याये प्रशास्तुरिदं त्यदिति शस्त्रयाज्या । सूत्रितं च । इदं
+> त्यत्पात्रमिंद्रपानमिति याज्या । आ. ६-४ । इति ॥
+> पात्रं पातव्यमिंद्रपानमिंद्रस्य पानार्हमिंद्रस्य प्रियमनुकूलं त्यत्तदिदं
+> सोमात्मकममृतमपायि । इंद्रः पिबतु ॥ व्यत्ययेन कर्तरि चिन् ॥ यद्वा ।
+> एतदमृतमपायि । इंद्रेण पीयतां । यथा येन प्रकारेण पीतः सोमः
+
+##### Gist of the bhāṣya
+
+In the third night-session this verse, beginning इदं त्यत् (*idaṃ tyat*), is the śastra-yājyā of the Praśāstṛ priest. It is also stated in the sūtra: "इदं त्यत्पात्रमिंद्रपानमिति याज्या (*idaṃ tyatpātramiṃdrapānamiti yājyā*)", Ā. 6-4. The vessel, to be drunk, fit for Indra's drinking, dear and favourable to Indra, this Soma-nature immortal drink, has been drunk; let Indra drink. The passive form stands for the active by a change of voice. Or else: let this immortal drink be drunk by Indra, in such a manner that the Soma is drunk.
+
 ---
 
-**Progress note:** Done through printed p. 114. Vol 21 pp. 107-114: Mandala 6 sukta 44 rks 5-11
+**Progress note:** Done through printed p. 120. Sūkta 44 Ṛk 12-16 (pp. 115-120)
