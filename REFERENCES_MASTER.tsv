@@ -22,7 +22,7 @@ NOT IN LIST	nai.			no list form close to it	none		3		2								1
 NOT IN LIST	ṛ. sa.		Ṛ. Saṃ.	known spelling of Ṛ. Saṃ.	high		3				3													
 NOT IN LIST	Ṛ. Su.			no list form close to it	none		3				3													
 NOT IN LIST	Śat. Br.			no list form close to it	none		3				1				2									
-NOT IN LIST	e. Ṛ. Saṃ.			no list form close to it	none		3					1									1	1		
+NOT IN LIST	i. e. Ṛ. Saṃ.			no list form close to it	none		3					1									1	1		
 NOT IN LIST	Āp. Śrau. Sū.			no list form close to it	none		3					3												
 NOT IN LIST	Kā. Śrau. Sū.			no list form close to it	none		3					2									1			
 NOT IN LIST	Ṛk. Ve.			no list form close to it	none		3					3												
@@ -35,7 +35,7 @@ NOT IN LIST	i. e. Ni.			no list form close to it	none		3												1		2
 NOT IN LIST	Ka. Prā.			no list form close to it	none		3												3					
 NOT IN LIST	muṃ. u.		Mu. U.	known spelling of Mu. U.	high		3												3					
 NOT IN LIST	Bh. Gī.			no list form close to it	none		3												3					
-NOT IN LIST	e. Śat. Brā.			no list form close to it	none		3														3			
+NOT IN LIST	i. e. Śat. Brā.			no list form close to it	none		3														3			
 NOT IN LIST	Ai. Brā. Bhā.			no list form close to it	none		2	1		1														
 NOT IN LIST	pā. sū. ma.			no list form close to it	none		2		2															
 NOT IN LIST	Bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		2			2														
@@ -43,7 +43,7 @@ NOT IN LIST	Up.			no list form close to it	none		2					1	1
 NOT IN LIST	Kāś.			no list form close to it	none		2					1					1							
 NOT IN LIST	sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	2					2												
 NOT IN LIST	Āp. Gṛ.			no list form close to it	none		2					2												
-NOT IN LIST	e. Pā. Sū.			no list form close to it	none		2						1						1					
+NOT IN LIST	i. e. Pā. Sū.			no list form close to it	none		2						1						1					
 NOT IN LIST	Tai. Prā.			no list form close to it	none		2						2											
 NOT IN LIST	atha. saṃ.		Ath. Saṃ.	known spelling of Ath. Saṃ. (capitals/dots differ)	high		2									2								
 NOT IN LIST	Vārt.			no list form close to it	none		2									2								
@@ -65,12 +65,11 @@ NOT IN LIST	Kh. Saṃ.			no list form close to it	none		2												1			1
 NOT IN LIST	Ai.			too short to tell: could be Ai. Ā. or Ai. U. or Ai. Brā. or Ai. U. Śa. Bhā.	none		2													2				
 NOT IN LIST	Maṃ. Saṃ.			no list form close to it	none		2													2				
 NOT IN LIST	Ṛ. S.			no list form close to it	none		2														2			
-NOT IN LIST	e. Ai. Brā.			no list form close to it	none		2														2			
+NOT IN LIST	i. e. Ai. Brā.			no list form close to it	none		2														2			
 NOT IN LIST	Tṛ. Saṃ.			no list form close to it	none		2															2		
 NOT IN LIST	Gā.			no list form close to it	none		2															2		
 NOT IN LIST	Prā. Sū.			no list form close to it	none		2															2		
 NOT IN LIST	Śa. Bā.			no list form close to it	none		2															2		
-NOT IN LIST	U. Śa. Bhā.			no list form close to it	none		2																2	
 NOT IN LIST	Śa.			too short to tell: could be Śa. Brā. or Śa. Bhā. or Śa. Bhā. Bra. Sū.	none		1	1																
 NOT IN LIST	Jai. U.			no list form close to it	none		1	1																
 NOT IN LIST	R. V. X.			no list form close to it	none		1	1																
@@ -93,10 +92,10 @@ NOT IN LIST	Kā. vā.			no list form close to it	none		1		1
 NOT IN LIST	Tai. Śru. Saṃ.			no list form close to it	none		1		1															
 NOT IN LIST	MB.			no list form close to it	none		1		1															
 NOT IN LIST	ga. sū.			no list form close to it	none		1		1															
-NOT IN LIST	sū. Ma. Bhā.			no list form close to it	none		1		1															
+NOT IN LIST	Pā. sū. Ma. Bhā.			no list form close to it	none		1		1															
 NOT IN LIST	Sā. sū.		Pā. Sū.	known spelling of Pā. Sū. (capitals/dots differ)	high		1			1														
 NOT IN LIST	Phi. Sū.		Phi. Sū.	the form of the list	high	yes	1			1														
-NOT IN LIST	Sū. Pā. Mā.			no list form close to it	none		1			1														
+NOT IN LIST	Pā. Sū. Pā. Mā.			no list form close to it	none		1			1														
 NOT IN LIST	U. Sa.			no list form close to it	none		1			1														
 NOT IN LIST	bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		1			1														
 NOT IN LIST	ama.			no list form close to it	none		1			1														
@@ -166,8 +165,9 @@ NOT IN LIST	U. Sā.			no list form close to it	none		1												1
 NOT IN LIST	Kara.			no list form close to it	none		1												1					
 NOT IN LIST	Pi.			no list form close to it	none		1												1					
 NOT IN LIST	anastha. Ṛ. Saṃ.			no list form close to it	none		1												1					
-NOT IN LIST	Ā. Sā. Bhā.			no list form close to it	none		1												1					
+NOT IN LIST	Tai. Ā. Sā. Bhā.			no list form close to it	none		1												1					
 NOT IN LIST	Kena.			no list form close to it	none		1												1					
+NOT IN LIST	P. U. Śaṃ. Bhā.			no list form close to it	none		1												1					
 NOT IN LIST	Mā. U. Kā.			no list form close to it	none		1												1					
 NOT IN LIST	Ca. Prā.			no list form close to it	none		1												1					
 NOT IN LIST	Tri. Ā.			no list form close to it	none		1												1					
@@ -190,7 +190,7 @@ NOT IN LIST	Aś.			no list form close to it	none		1													1
 NOT IN LIST	Śr. Brā.			no list form close to it	none		1													1				
 NOT IN LIST	saṃ.		Ṛ. Saṃ.	user, Nov 18 2026: lower-case saṃ. and the Devanagari सं. are Ṛ. Saṃ.; NOT true for capital Saṃ.	high	yes	1													1				
 NOT IN LIST	R. V.			no list form close to it	none		1													1				
-NOT IN LIST	E. XXXII. P.			no list form close to it	none		1													1				
+NOT IN LIST	B. E. XXXII. P.			no list form close to it	none		1													1				
 NOT IN LIST	Tai. Sa.			no list form close to it	none		1													1				
 NOT IN LIST	M. Saṃ.			no list form close to it	none		1													1				
 NOT IN LIST	R. S.			no list form close to it	none		1														1			
@@ -199,14 +199,14 @@ NOT IN LIST	gṛ.			no list form close to it	none		1														1
 NOT IN LIST	Tai. A.			no list form close to it	none		1														1			
 NOT IN LIST	Ā. Va.			no list form close to it	none		1														1			
 NOT IN LIST	Ā. Śrau. Sū.			no list form close to it	none		1														1			
-NOT IN LIST	e. Chā. Up.			no list form close to it	none		1														1			
+NOT IN LIST	i. e. Chā. Up.			no list form close to it	none		1														1			
 NOT IN LIST	places.			no list form close to it	none		1														1			
-NOT IN LIST	e. Bṛ. Ā.			no list form close to it	none		1														1			
+NOT IN LIST	i. e. Bṛ. Ā.			no list form close to it	none		1														1			
 NOT IN LIST	Rā. Sū.			no list form close to it	none		1															1		
 NOT IN LIST	Yaj. Vā. Saṃ.			no list form close to it	none		1															1		
 NOT IN LIST	Gā. Sū.			no list form close to it	none		1															1		
 NOT IN LIST	Bṛ. Ā.			no list form close to it	none		1															1		
-NOT IN LIST	e. Ma. Saṃ.			no list form close to it	none		1															1		
+NOT IN LIST	i. e. Ma. Saṃ.			no list form close to it	none		1															1		
 NOT IN LIST	R. Saṃ.			no list form close to it	none		1															1		
 NOT IN LIST	Pu. Sa.			no list form close to it	none		1															1		
 NOT IN LIST	Ś. Cā.			no list form close to it	none		1															1		
@@ -230,11 +230,9 @@ NOT IN LIST	Vāj.			no list form close to it	none		1																1
 NOT IN LIST	Pa. Saṃ.			no list form close to it	none		1																1	
 NOT IN LIST	Tā. Prā.			no list form close to it	none		1																1	
 NOT IN LIST	Maitrya. Panisat.			no list form close to it	none		1																1	
-NOT IN LIST	Bhā. Bra. Sū.			no list form close to it	none		1																1	
 NOT IN LIST	A. U.			no list form close to it	none		1																1	
 NOT IN LIST	Tai. U. U.			no list form close to it	none		1																1	
 NOT IN LIST	Śrī. Ṭi. Si.			no list form close to it	none		1																1	
-NOT IN LIST	Saṃ. Bha. Bhā.			no list form close to it	none		1																1	
 NOT IN LIST	Bhā.			no list form close to it	none		1																1	
 NOT IN LIST	Ā. Kā.			no list form close to it	none		1																	1
 NOT IN LIST	Sā. Sū.		Pā. Sū.	known spelling of Pā. Sū. (capitals/dots differ)	high		1																	1
@@ -341,7 +339,6 @@ mistake	Bṛ. Je.	→ Bṛ. De.					4											2	2
 mistake	Bṛ. Pe.	→ Bṛ. De.					4											1	2					1
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
 mistake	Mu.	→ Mu. U.					4												4					
-mistake	U. Śaṃ. Bhā.	→ Ai. U. Śa. Bhā.					4												4					
 mistake	Muṇḍ. U.	→ Mu. U.					4												4					
 mistake	Kṛ. U.	→ Tai. U.					4												1				3	
 mistake	Mu. Saṃ.	→ Ṛ. Saṃ.					4													1	1		2	
@@ -355,6 +352,7 @@ mistake	Ait. Br.	→ Ai. Brā.					3					2					1
 mistake	vā. saṃ.	→ Vā. Saṃ.					3									3								
 mistake	Ait. Ār.	→ Ai. Ā.					3										3							
 mistake	Muṇḍaka.	→ Mu. U.					3											2	1					
+mistake	Mu. U. Śaṃ. Bhā.	→ Mu. U. Śa. Bhā.					3												3					
 mistake	Chā.	→ Chā. U.					3												2				1	
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
 mistake	pū. mī.	→ Jai. Sū.					2	2																
@@ -401,7 +399,7 @@ mistake	Piṅ. Sū.	→ Piṅ.					1							1
 mistake	Pā. Mā.	→ Pā. Sū.					1								1									
 mistake	mu. u.	→ Mu. U.					1								1									
 mistake	chā. u.	→ Chā. U.					1								1									
-mistake	U. Śaṃ. Dhā.	→ Ai. U. Śa. Bhā.					1												1					
+mistake	Mu. U. Śaṃ. Dhā.	→ Mu. U. Śa. Bhā.					1												1					
 mistake	śve. u.	→ Śve. U.					1												1					
 mistake	śata.	→ Śa. Brā.					1												1					
 mistake	Pra.	→ Pra. U.					1												1					
@@ -451,6 +449,10 @@ extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
 extra	Go. Brā.	Gopatha Brāhmaṇa					2																2	
 extra	Ṛ. Saṃ. Bhā.	Ṛgveda-saṃhitā bhāṣya					1																1	
 extra	Śā. Bhā.	Śaṅkara-bhāṣya					1																1	
+extra	Śa. Bhā. Bra. Sū.	Śaṅkara-bhāṣya on the Brahma-sūtra					1																1	
+extra	Tai. U. Śa. Bhā.	Śaṅkara-bhāṣya on the Taittirīya Upaniṣad					1																1	
+extra	Tai. Saṃ. Bha. Bhā.	Bhaṭṭabhāskara's bhāṣya on the Taittirīya Saṃhitā					1																1	
+extra	Ai. U. Śa. Bhā.	Śaṅkara-bhāṣya on the Aitareya Upaniṣad					1																1	
 legend	Pā. Sū.	Pāṇinīya Sūtra					5875		11	1194	436	19	606	640	1269		75	1	734	65		824	1	
 legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3736	24	146	100	83	78	12	176	9	36	404	647	353	313	426	179	453	297
 legend	Ni.	Nirukta, Nighaṇṭu					3503	2	116	83	129	161	256	186	61	254	381	291	261	200	447	310	210	155
