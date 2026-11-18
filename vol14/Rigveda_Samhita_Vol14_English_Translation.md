@@ -24971,7 +24971,7 @@ In the first half of this Ṛk too Indra is prayed to come accompanied by horses
 
 तीव्रो वो मधुमा अयं शुनहोत्रेषु मत्सरः । एतं पिबत काम्यं ॥ (*tīvro vo madhumā ayaṃ śunahotreṣu matsaraḥ | etaṃ pibata kāmyaṃ ‖*) (Ṛ. Saṃ. 2-41-15 [closing bracket not printed])
 
-शुनहोत्रेषु मत्स्य प्रजां देवि दिदिड्डि नः । (*śunahotreṣu matsya prajāṃ devi didiḍḍi naḥ |*) [as supplied; the line is garbled] (printed "ಋ. ಸಂ. 2-41.-87" [as supplied])
+शुनहोत्रेषु मत्स्य प्रजां देवि दिदिड्डि नः । (*śunahotreṣu matsya prajāṃ devi didiḍḍi naḥ |*) [as supplied; the line is garbled] (printed "ಮ ಸಂ. 2-41.-87" [as supplied])
 
 has given for the word शुनहोत्रेषु (*śunahotreṣu*) occurring in them the meaning गृत्समदेव्वस्मासु शुनहोत्रवंशस्थराद (*gṛtsamadevvasmāsu śunahotravaṃśastharāda*) [as supplied; garbled], that is, among Gṛtsamada and others who are Śunahotra's descendants. The relation between Gṛtsamada and Śunahotra we have explained at the beginning of this Maṇḍala, that is, on p. 378 of this same part.
 
