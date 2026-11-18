@@ -4,10 +4,8 @@ NOT IN LIST	u.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (U�
 NOT IN LIST	U.		U. Sū.	user decision, Nov 18 2026: bare U. / u. is U. Sū. (Uṇādi-sūtra)	high		114	2	4	31	20		15	18	15			1	6			1	1	
 NOT IN LIST	Ā. Sū.		Ā. Sū.	the form of the list	high	yes	45		1									4					28	12
 NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	yes	44		5	5	8	7	5	3	4	6	1							
-NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
-NOT IN LIST	anu.			no list form close to it	none		10	1	2	2			1	1	1		2							
 NOT IN LIST	Saṃ.			no list form close to it	none		10		1				1				1	1	2	1			2	1
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
 NOT IN LIST	dhā.			no list form close to it	none		8	6				2												
@@ -62,7 +60,6 @@ NOT IN LIST	muṃ. u.		Mu. U.	known spelling of Mu. U.	high		3												3
 NOT IN LIST	Bh. Gī.			no list form close to it	none		3												3					
 NOT IN LIST	e. Śat. Brā.			no list form close to it	none		3														3			
 NOT IN LIST	Ai. Brā. Bhā.			no list form close to it	none		2	1		1														
-NOT IN LIST	anu. ṛgve.			no list form close to it	none		2		2															
 NOT IN LIST	pā. sū. ma.			no list form close to it	none		2		2															
 NOT IN LIST	Pā. sū. Vā.			no list form close to it	none		2		2															
 NOT IN LIST	Pā. Sū. Vā.			no list form close to it	none		2			2														
@@ -125,7 +122,6 @@ NOT IN LIST	ref.			no list form close to it	none		1		1
 NOT IN LIST	āpa.			no list form close to it	none		1		1															
 NOT IN LIST	amu.			no list form close to it	none		1		1															
 NOT IN LIST	pā. ma.			no list form close to it	none		1		1															
-NOT IN LIST	Anu. Ṛgve.			no list form close to it	none		1		1															
 NOT IN LIST	ṛ. anu.			no list form close to it	none		1		1															
 NOT IN LIST	ai. ha.			no list form close to it	none		1		1															
 NOT IN LIST	Kā. vā.			no list form close to it	none		1		1															
@@ -139,7 +135,6 @@ NOT IN LIST	Sā. sū.		Pā. Sū.	known spelling of Pā. Sū. (capitals/dots diff
 NOT IN LIST	Phi. Sū.		Phi. Sū.	the form of the list	high	yes	1			1														
 NOT IN LIST	Sū. Pā. Mā.			no list form close to it	none		1			1														
 NOT IN LIST	U. Sa.			no list form close to it	none		1			1														
-NOT IN LIST	Anukr.			no list form close to it	none		1			1														
 NOT IN LIST	bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		1			1														
 NOT IN LIST	ama.			no list form close to it	none		1			1														
 NOT IN LIST	checked.			no list form close to it	none		1				1													
@@ -348,6 +343,7 @@ mistake	Pā. Ma.	→ M.					14		3	4	1	3	2									1
 mistake	Ś. Brā.	→ Śa. Brā.					14												11	1	1	1		
 mistake	ai. ā.	→ Ai. Ā.					12	1	7		1						2			1				
 mistake	phi.	→ Phi.					11		4	4		1	1			1								
+mistake	anu.	→ Anu.					10	1	2	2			1	1	1		2							
 mistake	pā. sū.	→ Pā. Sū.					10		6		2			2										
 mistake	jai. sū.	→ Jai. Sū.					8	8																
 mistake	Mi. Saṃ.	→ Ṛ. Saṃ.					8													2	2	4		
@@ -384,6 +380,7 @@ mistake	Ait. Ār.	→ Ai. Ā.					3										3
 mistake	Chā.	→ Chā. U.					3												2				1	
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
 mistake	pū. mī.	→ Jai. Sū.					2	2																
+mistake	anu. ṛgve.	→ Anu.					2		2															
 mistake	Ath.	→ Ath. Saṃ.					2				1		1											
 mistake	Chāṃ. U.	→ Chā. U.					2						1								1			
 mistake	chāṃ. u.	→ Chā. U.					2						1								1			
@@ -397,6 +394,7 @@ mistake	Pā. Rū.	→ Pā. Sū.					2															2
 mistake	Manu.	→ Ma. Smṛ.					2																2	
 mistake	I. U.	→ Ai. U.					2																2	
 mistake	āśv.	→ Ā. Sū.					1		1															
+mistake	Anu. Ṛgve.	→ Anu.					1		1															
 mistake	vā.	→ Pā. Sū.					1		1															
 mistake	Pā. su.	→ Pā. Sū.					1		1															
 mistake	Kau.	→ Ka. U.					1		1															
@@ -405,6 +403,7 @@ mistake	Pā. sū. ma.	→ Pā. Sū.					1		1
 mistake	Pā. sū. vārtti.	→ Pā. Sū.					1		1															
 mistake	Pā. Mabhā.	→ Pā. Sū.					1		1															
 mistake	u. sū.	→ U. Sū.					1			1														
+mistake	Anukr.	→ Anu.					1			1														
 mistake	Pā. sū. Ma.	→ Pā. Sū.					1			1														
 mistake	ka. u.	→ Ka. U.					1					1												
 mistake	niru.	→ Ni.					1					1												
@@ -426,6 +425,7 @@ extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					236		3	18	19	2	19	
 extra	Bṛ. De.	Bṛhaddevatā					189		1			1	2				8	42	25	11	31	13	37	18
 extra	Bṛ. U.	Bṛhadāraṇyaka Upaniṣad					116										1	10	64	2	1	4	26	8
 extra	Kā.	Kātyāyana-vārttika (Vārttikapāṭha)					84		5	13	3	21	7	22	3	5			3			2		
+extra	Anu.	Anukramaṇī: Kātyāyana's Sarvānukramaṇī (कात्यायनीय सर्वानुक्रमणी)					29	1	3	9			4	1	1		4	1	3					2
 extra	Tai. U.	Taittirīya Upaniṣad					25										1	2	7	3			11	1
 extra	A. Ve.	Atharvaveda (the legend has Ath. Saṃ.)					18													1		1	13	3
 extra	Mu. U.	Muṇḍaka Upaniṣad					17											1	11				5	
@@ -491,7 +491,7 @@ Devanagari	बृ. दे.		Bṛ. De.	Devanagari read as bṛ. de.; same letters
 Devanagari	सि.		Ni.	Devanagari read as si.; known spelling of Ni. (capitals/dots differ)	high	yes	22													16	5	1		
 Devanagari	फि.		Phi.	Devanagari read as phi.; same letters; only capitals, dots or spaces differ	high	yes	21		6	8		1	1		1	1						1	2	
 Devanagari	वा. ।. नि.			Devanagari read as vā. |. ni.; no list form close to it	none		20		4	3	1		1	1			3	1	2		1	2	1	
-Devanagari	अनु.			Devanagari read as anu.; no list form close to it	none		18	2	1	3			2	1	1		2		1	5				
+Devanagari	अनु.		Anu.	Devanagari read as anu.; same letters; only capitals, dots or spaces differ	high	yes	18	2	1	3			2	1	1		2		1	5				
 Devanagari	श. ब्रा.		Śa. Brā.	Devanagari read as śa. brā.; same letters; only capitals, dots or spaces differ	high	yes	17	1	1							2	1		3	7		1	1	
 Devanagari	निरु.		Ni.	Devanagari read as niru.; known spelling of Ni. (capitals/dots differ)	high	yes	17		2									13		2				
 Devanagari	जै. सू.		Jai. Sū.	Devanagari read as jai. sū.; same letters; only capitals, dots or spaces differ	high	yes	15	14	1															
@@ -531,7 +531,7 @@ Devanagari	पा. पा.		Pā. Sū.	Devanagari read as pā. pā.; user, Nov 18
 Devanagari	अ. वे.		A. Ve.	Devanagari read as a. ve.; same letters; only capitals, dots or spaces differ	high	yes	3													3				
 Devanagari	बृ. डे.			Devanagari read as bṛ. ḍe.; no list form close to it	none		3													3				
 Devanagari	कौ.		Ka. U.	Devanagari read as kau.; same letters; only capitals, dots or spaces differ	high	yes	2	1										1						
-Devanagari	अनु. ऋग्वे.			Devanagari read as anu. ṛgve.; no list form close to it	none		2		2															
+Devanagari	अनु. ऋग्वे.		Anu.	Devanagari read as anu. ṛgve.; known spelling of Anu.	high	yes	2		2															
 Devanagari	अथ.			Devanagari read as atha.; no list form close to it	none		2					1	1											
 Devanagari	मु. उ.		Mu. U.	Devanagari read as mu. u.; same letters; only capitals, dots or spaces differ	high	yes	2								1				1					
 Devanagari	अथ. सं.			Devanagari read as atha. saṃ.; no list form close to it	none		2									2								
