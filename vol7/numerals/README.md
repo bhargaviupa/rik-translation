@@ -59,3 +59,4 @@ User confirmed (Nov 4 2026): Ni. [2-1] → 3-2 and [2-10] → 3-9 are correct (t
 User checked `numeral_drop_q_same.applied.tsv` (the 291 numerals / 305 tokens whose `[?]` was dropped): all OK (Nov 4 2026).
 
 User confirmed (Nov 4 2026) that the part-count-changing file values are correct (7-4-79 → 7-479, 6-4-24 → 6-4-24-4, 3-4-91 → 3-491). Applied with `--parts-ok`: **229 more tokens**, log `numeral_apply_different_parts.applied.tsv`. 12 rows still skipped (clearly different references paired by the aligner: edit distance ≥ 4 or a plain list, e.g. md 1-[89]-[7] vs file 5-599-6, md 6-1-160 vs file 6-1); they need the user's reading.
+- 2026-11-18: numeral_drop_q_same.py (Nov 18 alignment Vol7_file_vs_md_Nov18.xlsx): [?] dropped on 7 numerals (7 tokens) whose digits equal the aligned file row; log numerals/numeral_drop_q_same_Nov18.applied.tsv.
