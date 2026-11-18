@@ -5618,6 +5618,182 @@ of the) terrified, imploring Rishi, Saptavadhri.
 > यथा॒ वातः॑ पुष्क॒रिणीं॑ समिं॒गय॑ति स॒र्वतः॑ ।  
 > ए॒वा ते॒ गर्भ॑ एजतु नि॒रैतु॒ दश॑मास्यः ॥ ७ ॥
 
+### Printed p. 148
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वातः । पुष्करिणीं । संइंगयति । सर्वतः ।  
+> एव । ते । गर्भः । एजतु । निःऐतु । दशमास्यः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदाद्यक्रयं गर्भस्राविण्युपनिषत् ॥ एतदाद्यक्रयेणासौ सप्तवध्रिः
+> स्वयोषितः । गर्भिण्याः प्रसवायाशु स्तुतवानश्विनावृषिः ॥ यथा वातः पुष्करिणीं
+> सर आदिकं सर्वतः समिंगयति सम्यक् चालयति एवैवं तव गर्भ विजतु । कंपतां ।
+> इतस्ततः संचरतु । दशमास्को दशमासान् गर्भे स्थितो निरैतु । निर्गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk and the next two form the Garbhasrāviṇī Upaniṣad. With these three Ṛks the seer Saptavadhri praised the two Aśvins for the quick delivery of his pregnant wife. Sāyaṇa explains: as the wind moves a lake, a pond and the like on every side, shaking it thoroughly, so may your embryo move, tremble, go about here and there; and the one who has stayed in the womb ten months, let him come out, let him go forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- वातः (*vātaḥ*)—the wind
+- पुष्करिणीं (*puṣkariṇīṃ*)—the lake
+- सर्वतः (*sarvataḥ*)—all around
+- समिंगयति (*samiṃgayati*)—makes it move
+- एव (*eva*)—in the same manner
+- गर्भः (*garbhaḥ*)—(your) embryo
+- विजतु (*vijatu*)—let it move
+- दशमास्यः (*daśamāsyaḥ*)—the child that has been in the womb for ten months
+- निरैतु (*niraitu*)—let it come out
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner in which a lake shaken by the wind moves all around with waves, in the same manner let your embryo move. Let the child that has been in the womb for ten months come out.
+
+##### English translation
+As the wind, ruffles the lake on every side, so may your womb be stimulated, and the conception of the months come forth.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk and the next two Ṛks are the Garbhasrāviṇī Upaniṣad, the bhāṣyakāra has said:
+एतदाद्यक्रयेणासौ सप्तवध्रिः स्वयोषितः । गर्भिण्याः प्रसवायाशु स्तुतवानश्विनावृषिः ॥ (*etadādyakrayeṇāsau saptavadhriḥ svayoṣitaḥ | garbhiṇyāḥ prasavāyāśu stutavānaśvināvṛṣiḥ ‖*)
+It says that the seer Saptavadhri, wishing an easy delivery for his wife, praised the Aśvin deities with these three Ṛks.
+
+### Printed p. 149
+
+Here and in the following Ṛks the child in the womb is described as staying in the womb for ten months. Now, ordinarily, it is the custom that the child stays in the mother's womb only up to nine months. But it is seen that in that time it was common for a child to stay in the womb for ten months. Even now there are many instances of delivery not taking place until ten months. And in the Ṛgveda and in the Ekāgni Kāṇḍa of the Yajurveda:
+तं ते गर्भं हवामहे दशमे मासि सूतवे । (*taṃ te garbhaṃ havāmahe daśame māsi sūtave |*) (Ṛ. Saṃ. 10-184-3) **GLOSS**
+यथेयं पृथिवी मही तिष्ठंती गर्भमादधे । एवं त्वं गर्भमाधत्स्व दशमे मासि सूतवे । पुमाग्ंसं गर्भमाधेहि दशमे मासि सूतवे । तं माता दशमासो बिभर्तु स जायतां वीरतमः स्वानां । आ वीरो जायतां पुत्रस्ते दशमास्यः ॥ (*yatheyaṃ pṛthivī mahī tiṣṭhaṃtī garbhamādadhe | evaṃ tvaṃ garbhamādhatsva daśame māsi sūtave | pumāgṃsaṃ garbhamādhehi daśame māsi sūtave | taṃ mātā daśamāso bibhartu sa jāyatāṃ vīratamaḥ svānāṃ | ā vīro jāyatāṃ putraste daśamāsyaḥ ‖*) (Tai. E. Anu. 13) **NOTE** **GLOSS**
+It is said that the child stays in the womb for ten months, and that the son who is born after being so becomes a hero. It is a matter known from experience that the child who is born after staying ten months in the womb will in future be endowed with strength and health and be long-lived.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ वातो॒ यथा॒ वनं॒ यथा॑ समु॒द्र एज॑ति ।  
+> ए॒वा त्वं द॑शमास्य स॒हावे॑हि ज॒रायु॑णा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वातः । यथा । वनं । यथा । समुद्र । विजति ॥  
+> एव । त्वं । दशमास्य । सह । अव । इहि । जरायुणा ॥ ८ ॥
+
+### Printed p. 150
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातो यथा कंपमानो वनं कंपयति स्वयं । यथा समुद्रश्चलति
+> चाल्यते वाथ वायुना ॥ स्थित्वा दशैव मासांस्त्वं गर्भोल्पेन सुवेष्टितः । निर्गच्छ
+> जठरान्मातुर्जरायुजस्ततः पतेत् ॥
+
+##### Gist of the bhāṣya
+
+As the wind, itself shaking, makes the wood shake, and as the ocean moves or is moved by the wind, so you, having stayed only ten months, well enveloped by the membrane of the womb **NOTE**, come out of the mother's belly; then, born with the afterbirth, may you fall forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- वातः (*vātaḥ*)—the moving (blowing) wind
+- यथा (*yathā*)—in what manner
+- वनं (*vanaṃ*)—makes the trees tremble
+- यथा (*yathā*)—in what manner
+- समुद्रः (*samudraḥ*)—the ocean (moved by the wind)
+- विजति (*vijati*)—is agitated
+- एव (*eva*)—in the same manner
+- दशमास्य (*daśamāsya*)—O child that has been in the womb for ten months
+- जरायुणा सह (*jarāyuṇā saha*)—with the membrane of the womb
+- अवेहि (*avehi*)—come out
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner in which the blowing wind makes the trees and the ocean tremble, in the same manner, by the movement of the womb, O child that has been in the womb for ten months, come out with the membrane of the womb.
+
+##### English translation
+As the wind, as the wood, as the ocean are agitated, so do you,
+gestation of ten months, invested with the uterine membranes, descend.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॒ मासा॑ञ्छशया॒नः कु॑मा॒रो अधि॑ मा॒तरि॑ ।  
+> नि॒रैतु॑ जी॒वो अक्ष॑तो जी॒वो जीवं॑त्या॒ अधि॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । मासान् । शशयानः । कुमारः । अधि । मातरि ॥  
+> निःऐतु । जीवः ! अक्षतः । जीवः । जीवंत्याः । अधि ॥ ९ ॥
+
+### Printed p. 151
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दश मासानुषित्वासौ जननीजठरे सुखं । निर्गच्छतु सुखं जीवो जननी
+> चापि जीवतु ॥
+
+##### Gist of the bhāṣya
+
+Having lain ten months in the mother's womb, may he come out happily, alive, and may the mother also live.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दश मासान् (*daśa māsān*)—for ten months
+- मातरि अधि (*mātari adhi*)—in the mother's womb
+- शशयानः (*śaśayānaḥ*)—who lay
+- कुमारः (*kumāraḥ*)—the child
+- अक्षतः (*akṣataḥ*)—unharmed
+- जीवंत्याः (*jīvaṃtyāḥ*)—from the womb of the mother who is living
+- जीवः (*jīvaḥ*)—himself living
+- निरैतु (*niraitu*)—let him come out
+
+##### भावार्थ (Bhāvārtha)
+
+Let the child who lay ten months in the mother's womb come out, unharmed, himself living, from the womb of the mother who is living.
+
+##### English translation
+May the boy who has reposed for ten months in the bosom of his mother come forth, alive, unharmed, living, from a living (parent).
+
+## Sūkta 79 (Maṇḍala 5)
+**A brief introduction to the deity Uṣas**
+The deity of this sūkta and of the next sūkta is Uṣas. Concerning the deity Uṣas, the great sage Yāska has said:
+उषा? कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣā? kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni. 2-19). That is, examining questions such as who the deity Uṣas is, what her nature is, and what is the reason for her having this name, he says:
+उषः कस्मात् । उच्छतीति सत्याः । उच्छि विवासे । विवासयति हीयं तमांसि तस्मादुच्छतीत्येवमस्या एतस्मिन्कर्मणि सत्याः कर्तरि कारके उषा इत्येतदभिधानं भवति । का पुनरियमुषा इति । रात्रेरपरःकालः स उषा इत्युच्यते ॥ (*uṣaḥ kasmāt | ucchatīti satyāḥ | ucchi vivāse | vivāsayati hīyaṃ tamāṃsi tasmāducchatītyevamasyā etasminkarmaṇi satyāḥ kartari kārake uṣā ityetadabhidhānaṃ bhavati | kā punariyamuṣā iti | rātreraparaḥkālaḥ sa uṣā ityucyate ‖*)
+That is, he explains that the word Uṣas is derived from the root उच्छि-विवासे (*ucchi-vivāse*), which has the meaning "to drive out". If one asks what is driven out, the meaning is darkness. Because she drives out darkness and spreads light, this deity is called उषाः (*uṣāḥ*). If one asks what that time is, it is the last part of the night. The time after the night is over and before sunrise, when there is no darkness and it is light, is called the Uṣas time; thus they have explained the meaning. The night is over
+
+### Printed p. 152
+
+and the Uṣas time follows; therefore it is customary to say that the Uṣas time is born of night. To support this, Yāska quoted the Ṛk
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्रुषसे योनिमारैक् ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātruṣase yonimāraik ‖*) (Ṛ. Saṃ. 1-113-1) **GLOSS**
+And following this order, since sunrise comes after the Uṣas time, in the matter of saying that the sun is born in Uṣas, Yāska quoted for support the Ṛk
+रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः । समानबंधू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥ (*ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ | samānabaṃdhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*) (Ṛ. Saṃ. 1-113-2) **GLOSS**
+(Ni. 2-20).
+
+The seers have described the nature of this deity Uṣas in various ways. In accordance with these descriptions they have used various epithets. Of these, sixteen principal words apply to the deity Uṣas. Yāska has stated them thus (Ni. 2-19):
+- विभावरी (*vibhāvarī*)—विशेषप्रभावयुक्ता । विशिष्टप्रकाशयुक्ता (*viśeṣaprabhāvayuktā | viśiṣṭaprakāśayuktā*): having special power; having distinct light; very radiant—Resplendent. This word occurs in the Ṛks Ṛ. Saṃ. 1-30-21; 1-48-1; 1-48-10; 1-92-14; 4-52-6; 5-79-4; 5-79-11; 8-47-14.
+- सूनरी (*sūnarī*)—सुष्टु नेत्री (*suṣṭu netrī*): a good leader; beautiful—Beautiful. This word occurs in the Ṛks Ṛ. Saṃ. 1-48-10; 1-48-5; 1-48-8; 4-52-1; 7-81-1.
+- भास्वती (*bhāsvatī*)—तेजस्सती। विशिष्टप्रकाशनयुक्ता (*tejassatī| viśiṣṭaprakāśanayuktā*): possessing brilliance; having distinct radiance; shining—Shining. This word is recited in the Ṛks Ṛ. Saṃ. 1-92-7; 1-113-4.
+- ओदती (*odatī*)—उंदी क्लेदने । उनत्ति सर्वं नीहारेणेत्योदती (*uṃdī kledane | unatti sarvaṃ nīhāreṇetyodatī*): flowing, gushing, streaming, wetting everything with mist—flowing. gushing & c. This word is only in Ṛ. Saṃ. 1-46-6; 8-69-2.
+- चित्रमघा (*citramaghā*)—विचित्रधना । विविधरश्माख्यधना वा (*vicitradhanā | vividharaśmākhyadhanā vā*): having various wealth, or radiant wealth—possessed of brilliant riches. This word occurs in Ṛ. Saṃ. 7-75-5; 7-77-3; 8-58-3.
+
+### Printed p. 153
+
+- अर्जुनी (*arjunī*)—शुभ्रवर्णा (*śubhravarṇā*): of bright colour; white—white. This word is in the Ṛks Ṛ. Saṃ. 1-49-3; 5-84-2.
+- वाजिनी (*vājinī*)—or वाजिनीवती (*vājinīvatī*)—वाजोऽन्नमस्या अस्तीति । बह्वन्ना (*vājo 'nnamasyā astīti | bahvannā*): having plenty of food; endowed with food, or bringing food—the bringer of food. These words are in the Ṛks Ṛ. Saṃ. 3-6-1; 3-60-1; 6-61-6; and Ṛ. Saṃ. 1-3-10; 6-61-4; 6-75-5; 7-96-3; 10-75-8; 1-48-6; 1-48-16; 1-92-13; 1-92-15; 2-41-18; 4-55-9; 6-61-3; 8-24-28.
+- सुम्मावरी (*summāvarī*)—सुम्ममिति सुखनाम । तद्वती (*summamiti sukhanāma | tadvatī*): सुम्म (*summa*) is a name for happiness; she who has it; producing joy—the giver of joy. This word is only in the Ṛk Ṛ. Saṃ. 1-113-12.
+- अहना (*ahanā*), द्योतना (*dyotanā*)—कृत्स्नं जगद्द्योतनशीला । तद्वती (*kṛtsnaṃ jagaddyotanaśīlā | tadvatī*): she whose nature is to illumine the whole world; she who has it; radiant—bright. These words are in the Ṛk Ṛ. Saṃ. 1-123-4.
+- श्वेत्या (*śvetyā*)—श्वेतवर्णोषा । श्वेता वर्णॆ (*śvetavarṇoṣā | śvetā varṇè*): Uṣas of white colour; having a bright colour—the fair-caloured. This word is in Ṛ. Saṃ. 1-113-2; 10-75-6.
+- अरुषी (*aruṣī*)—आरोचमाना । रक्तवर्णा ना (*ārocamānā | raktavarṇā nā*): red-coloured, having a slightly reddish shade—the ruddy. This word is recited in the Ṛks Ṛ. Saṃ. 3-55-11; 4-52-2; 8-98-8 and others.
+- सूनृता (*sūnṛtā*), सूनृतावती (*sūnṛtāvatī*), सूनृतावरी (*sūnṛtāvarī*)—प्रियसत्यरूपा । प्रियसत्यात्मिका वाक् । तादृश्या वाचा युक्ता (*priyasatyarūpā | priyasatyātmikā vāk | tādṛśyā vācā yuktā*): who speaks pleasant and beneficial words—the utterer of pleasent or sacred speech. These words are recited in the Ṛks Ṛ. Saṃ. 1-8-8; 1-30-5; 1-43-3 and others, and in the Ṛks Ṛ. Saṃ. 1-92-14; 1-22 3; 7-81-6; and Ṛ. Saṃ. 4-52-4.
+
+Although these words are generally used with reference to the deity Uṣas, in some contexts they are used also with reference to other deities.
+
+Yāska has given this explanation of the Ṛk quoted above:
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्र्युषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātryuṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ ‖*) **GLOSS**
+According to the statement रात्रेरपरः काल उष इत्युच्यते (*rātreraparaḥ kāla uṣa ityucyate*), the last part of the night, that is, the time before sunrise, is called the Uṣas time. The brilliance of this Uṣas time, that is, the light
+
 ---
 
-**Progress note:** Done through printed p. 147. Sūkta 78 Ṛk 3 end, Ṛks 4-6, Ṛk 7 Saṃhitā (pp. 142-147)
+**Progress note:** Done through printed p. 153. Sūkta 78 Ṛks 7-9; Sūkta 79 heading and introduction on the deity Uṣas (pp. 148-153)
