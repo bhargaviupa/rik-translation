@@ -70,7 +70,6 @@ NOT IN LIST	R. V. IV.			no list form close to it	none		2										2
 NOT IN LIST	viii.			no list form close to it	none		2										2							
 NOT IN LIST	cf. I.			no list form close to it	none		2										1	1						
 NOT IN LIST	Pra. Prā.			no list form close to it	none		2											1	1					
-NOT IN LIST	I. Bra.			no list form close to it	none		2											2						
 NOT IN LIST	Ka. Brā.			no list form close to it	none		2											1	1					
 NOT IN LIST	Muṃ. U.		Mu. U.	known spelling of Mu. U. (capitals/dots differ)	high		2											1	1					
 NOT IN LIST	Śrī. A.			no list form close to it	none		2											1	1					
@@ -378,6 +377,7 @@ mistake	Āś. Śrau. Sū.	→ Ā. Sū.					2					2
 mistake	Chāṃ. U.	→ Chā. U.					2						1								1			
 mistake	chāṃ. u.	→ Chā. U.					2						1								1			
 mistake	ath.	→ Ath. Saṃ.					2						2											
+mistake	I. Bra.	→ Ai. Brā.					2											2						
 mistake	Ya. Saṃ.	→ Ya Saṃ.					2											1			1			
 mistake	bṛ. u.	→ Bṛ. U.					2												2					
 mistake	Praśna. U.	→ Pra. U.					2												1				1	
@@ -504,7 +504,7 @@ Devanagari	शत. ब्रा.		Śa. Brā.	Devanagari read as śata. brā.; kn
 Devanagari	वा. ।. पा.			Devanagari read as vā. |. pā.; no list form close to it	none		10		6	2		1				1								
 Devanagari	धा.		Dhā.	Devanagari read as dhā.; known spelling of Dhā.	high	yes	9	6	1			2												
 Devanagari	आश्व.		Ā. Sū.	Devanagari read as āśva.; known spelling of Ā. Sū. (capitals/dots differ)	high	yes	9	1	1			4				3								
-Devanagari	इ. ब्रा.			Devanagari read as i. brā.; no list form close to it	none		8													7		1		
+Devanagari	इ. ब्रा.		Ai. Brā.	Devanagari read as i. brā.; known spelling of Ai. Brā.	high	yes	8													7		1		
 Devanagari	छां. उ.		Chā. U.	Devanagari read as chāṃ. u.; known spelling of Chā. U.	high	yes	7	1					2					2			1			1
 Devanagari	फि. सू.		Phi. Sū.	Devanagari read as phi. sū.; same letters; only capitals, dots or spaces differ	high	yes	6		6															
 Devanagari	मनु.		Ma. Smṛ.	Devanagari read as manu.; known spelling of Ma. Smṛ. (capitals/dots differ)	high	yes	6					1			1	1			2				1	

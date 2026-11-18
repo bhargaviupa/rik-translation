@@ -4,8 +4,8 @@
 
 | status | forms | references |
 |---|---|---|
-| NOT IN LIST | 285 | 1598 |
-| mistake | 136 | 14750 |
+| NOT IN LIST | 284 | 1596 |
+| mistake | 137 | 14752 |
 | extra | 31 | 826 |
 | legend | 20 | 14866 |
 | Devanagari | 158 | 8273 |
