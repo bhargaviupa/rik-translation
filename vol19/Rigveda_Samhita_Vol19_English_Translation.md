@@ -13149,7 +13149,6 @@ By Viśvedevas is meant all the deities. It is therefore stated plainly in the �
 (Bṛ. U. 1-4-12)
 
 Prajāpati, engaged in the work of creation, had not yet attained fullness of creation. Then he created the subjects and the deities who are indicated in the form of groups. They are the Vasus, the Rudras, the Ādityas and the Viśvedevas, and also the Maruts. Of these groups, the Vasus show a group of eight in number, the Rudras a group of eleven (11), the Ādityas a group of twelve (12), and the Maruts a group of seven. Having explained thus, Śaṅkarācārya in his commentary has given this meaning for the word Viśvedeva.
-[22] [Vol. 19]
 
 ### Printed p. 338
 
