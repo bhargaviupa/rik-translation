@@ -19246,6 +19246,205 @@ And those well-known mountains, the jointed rocks, of good praise; and further t
 
 May the well-known clouds, and the highly praiseworthy, generous-minded rivers, be engaged in our protection. May Bhaga, who has the power of distributing wealth, come with food and with other protection. May Aditi, of wide pervasion, hear my call.
 
+### Printed p. 520
+
+##### English translation
+Or may the glorious mountains, the beneficent rivers, be to us for our preservation : may Bhaga, the apportioner of wealth, come with abundance and protection : may this wide-pervading Aditi hear my invocation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वानां॒ पत्नी॑रुश॒तीर॑वंतु नः॒ प्रावं॑तु नस्तु॒जये॒ वाज॑सातये ।  
+> याः पार्थि॑वासो॒ या अ॒पामसि॑ व्र॒ते ता नो॑ देवीः  
+> सुहवाः॒ शर्म॑ यच्छत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानां । पत्निः । उशतीः । अवंतु । नः । प्र । अवंतु । नः । तुजये । वाजः  
+> सातये ।  
+> याः । पार्थिवासः । याः । अपा । अपि । व्रते । ताः । नः । देवीः । सुहवाः ।  
+> शर्म । यच्छत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पत्नीसंयाजेषु देवपत्नीनां देवानां पत्नीरित्यादिके द्वे याज्यानुवाक्ये।
+> सूत्रितं च । देवानां पत्नीरुशतीरवंतु न इति द्वे । आ. १. १०. । इति ॥ अग्निमारुतशस्त्रेऽप्येते । देवानां पत्नीरुशतीरवंतु न इति द्वे राकामहमिति द्वे । आ. ५. २०.।
+> इति ॥
+> देवानामिंद्रादीनां पत्निः पत्न्य उशतीरुशत्योऽस्मदीयां स्तुतिं कर्म
+> ना कामयमाना नोऽस्मानवंतु । रक्षंतु । तथा नोऽस्माकं तुजये बलवते
+> पुत्राय वाजसातयेऽन्नलाभाय संग्रामाय ना प्रावंतु । प्रकर्षण रक्षंतु
+
+### Printed p. 521
+
+> गच्छंतु वा । याः पार्थिवासः पृथिवीसंबंधिन्यो याश्चापामुदकानां व्रते कर्मण्यंतरिक्षे वर्तंते ता हे देवीर्देव्यो हे सुहवाः शोभनाह्वाना यूयं
+> नोऽस्मभ्यं शर्म यच्छत ॥
+
+##### Gist of the bhāṣya
+
+In the Patnīsaṃyāja offerings made to the wives of the gods, the two verses beginning with देवानां पत्नीः (*devānāṃ patnīḥ*) are the yājyā and the anuvākyā. It is laid down by a sūtra that the two verses beginning "Devānāṃ patnīr uśatīr avantu naḥ" are used (Ā. 1. 10.). These two are also used in the Agnimāruta śastra, where the sūtra names the two "Devānāṃ patnīr uśatīr avantu naḥ" and the two "Rākām aham" (Ā. 5. 20.). Sāyaṇa explains: the wives of the gods, Indra and the others, desiring our praise and rite, protect us. Likewise, may they protect us for the sake of our strong son, for the winning of food, or for battle; protect thoroughly, or else may they go. Those who belong to the earth, and those who abide in the rite of the waters in the atmosphere, those goddesses, well invoked, give us happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods, Indra and the rest
+- पत्निः (*patniḥ*)—the wives
+- उशतीः (*uśatīḥ*)—desiring our praises
+- नः (*naḥ*)—us
+- अवंतु (*avaṃtu*)—may they protect
+- नः (*naḥ*)—for us
+- तुजये (*tujaye*)—for the gaining of a strong son also
+- वाजसातये (*vājasātaye*)—for the gaining of food also
+- प्रावंतु (*prāvaṃtu*)—may they protect us completely
+- याः (*yāḥ*)—those who
+- पार्थिवासः (*pārthivāsaḥ*)—those of you who dwell on the earth, and
+- याः (*yāḥ*)—those who
+- अपांव्रते (*apāṃvrate*)—those of you who dwell in the atmosphere, protector of the waters
+- ताः अपि (*tāḥ api*)—such as these too
+- देवीः (*devīḥ*)—O wives of the gods
+- सुहवाः (*suhavāḥ*)—being exceedingly entreated by us
+- नः (*naḥ*)—to us
+- शर्म (*śarma*)—happiness
+- यच्छत (*yacchata*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+May the wives of Indra and the other gods, desiring our praises, protect us. May they protect us completely for the gaining of a strong son and for the gaining of food. O wives of the gods, both those who dwell on the earth and those who dwell in the atmosphere, protector of the waters, being exceedingly entreated by us, give us happiness.
+
+##### English translation
+May the wives of the gods, desiring (our homage), defend us: may they so protect us that (we may obtain) vigorous (offspring) and abundant food : whether terrestrial, or those in charge of the waters (in the firmament), do you, goddesses, earnestly invoked, bestow upon us felicity.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Patnīsaṃyāja homas, the homas made with the wives of the gods in view, this Ṛk देवानांपत्नीः (*devānāṃpatnīḥ*) and the following Ṛk उत ग्ना व्यंतु (*uta gnā vyaṃtu*) are to be recited respectively as the yājyā and the anuvākyā mantras; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, देवानां पत्नीरुशतीरवंतु न इति द्वे (*devānāṃ patnīruśatīravaṃtu na iti dve*) (Ā. 1-10). And these two Ṛks are also applied in the Agnimāruta śastra mantras, as set out by the sūtra of the Āśvalāyana Śrauta Sūtra, देवानां पत्नीरुशती रवंतुन इति द्वे राकामहमिति द्वे (*devānāṃ patnīruśatī ravaṃtuna iti dve rākāmahamiti dve*) (Ā. 5-20).
+
+### Printed p. 522
+
+देवानां पत्नीः (*devānāṃ patnīḥ*)—here पत्न्यः (*patnyaḥ*) ought to have stood, but through the interchange of case-endings पत्नीः (*patnīḥ*) stands. Such interchange of case-endings and numbers is called Chāndasa; that is, the commentators say that in the Chandas (the Ṛks) they are used optionally. Yāska gave, for the word देवपत्न्यः (*devapatnyaḥ*), the explanation देवपत्नो देवानां पत्न्यः (*devapatno devānāṃ patnyaḥ*), "the wives of the gods" (Ni. 12-44); and to explain the meaning of this word he took this very Ṛk as an example and gave an explanation of this Ṛk —
+देवानां पत्न्य उशत्योऽवंतु नः प्रावंतु नस्तुजयेऽपत्यजननाय चान्नसंसननाय च याः पार्थिवासो या अपामपि कर्मणि व्रते ता नो देव्यः सुहवाः शर्म यच्छंतु शरणं ॥ (*devānāṃ patnya uśatyo 'vaṃtu naḥ prāvaṃtu nastujaye 'patyajananāya cānnasaṃsananāya ca yāḥ pārthivāso yā apāmapi karmaṇi vrate tā no devyaḥ suhavāḥ śarma yacchaṃtu śaraṇaṃ ‖*)
+(Ni. 22-45) **NOTE**
+May the wives of the gods protect us of their own wish, and show love and friendship towards us. May they grant that we obtain progeny of sons and food and the like. May the wives of the gods who are on the earth, and those who are in the atmosphere, the realm of the waters, where work (creation) is prominent, accept our auspicious invocation and provide us with a home and protection. **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ग्ना व्यं॑तु दे॒वप॑त्नीरिंद्रा॒ण्य१॒ं॑ग्नाय्य॒श्विनी॒ राट् ।  
+> आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यंतु॑ दे॒वीर्य ऋ॒तुर्जनी॑नां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ग्नाः । व्यंतु । देवःपत्नीः । इंद्राणी । अग्नायी । अश्विनी । राट् ।  
+> आ । रोदसी इति । वरुणानी । कृणोतु । व्यंतु । देवीः । यः । ऋतुः । जनीनां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च ग्नाः स्त्रियो देवपत्नीर्देवपत्न्यो देवाः पतयो यासां ताः ।
+> शादृश्यो व्यंतु । हविर्भक्षयंतु । ता विविच्योच्यंते । इंद्राणींद्रस्य पत्नग्नाय्यग्नेः पत्नश्विन्यश्विनोः पत्नि राट् राजमाना । किंच रोदसी । रुद्रस्य पत्नीति
+
+### Printed p. 523
+
+> यास्केनोक्तं । एवं सति विषितस्तुका रोदसी । ऋग्वे. १. १६७. ५. । इत्यत्र यथाद्युदात्तप्रगृह्यते न स्तस्तद्वदत्रापि भाव्यं । तथापि शाकल्येन महर्षिणैवमुक्तत्वात्तथैव द्रष्टव्यं । वरुणानी वरुणस्य पत्न्या सर्वतः प्रत्येकं शृणोतु । किंच देवीः
+> पत्नीसंयाजदेव्यो व्यंतु । खादंतु हविः । यो जनीनां देवजायानामृतुः
+> कालस्तदभिमानी देवोऽपि शृणोतु वेतु च । अत्रापि च ग्ना व्यंतु देवपत्न्यः । नि.
+> १२. ४६. । इत्यादि निरुक्तं द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+And the ग्नाः (*gnāḥ*), the women, the wives of the gods, those whose husbands are gods: such women may enjoy, may eat the oblation. They are now distinguished: Indrāṇī the wife of Indra, Agnāyī the wife of Agni, Aśvinī the wife of the Aśvins, Rāṭ the shining one. Further, Rodasī: that she is the wife of Rudra was said by Yāska. And Varuṇānī, the wife of Varuṇa, may hear from all sides, each separately. Further, the goddesses of the Patnīsaṃyāja may enjoy, may eat the oblation. The god who presides over the Ṛtu, the season, of the wives of the gods, may also hear and enjoy. Here too the Nirukta is to be seen, beginning "gnā vyantu devapatnyaḥ" (Ni. 12. 46.). Sāyaṇa cites Ṛgve. 1. 167. 5. in connection with the accent of Rodasī, and says that, since Śākalya the great seer has said it so, it is to be understood so. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- देवपत्निः (*devapatniḥ*)—those who have the gods as their husbands
+- ग्नाः (*gnāḥ*)—the goddesses
+- व्यंतु (*vyaṃtu*)—may they eat the oblation
+- इंद्राणी (*iṃdrāṇī*)—the wife of Indra
+- अग्नायी (*agnāyī*)—the wife of Agni
+- अश्विनी (*aśvinī*)—the wife of the Aśvin gods
+- राट् (*rāṭ*)—the radiant one
+- रोदसी (*rodasī*)—the wife of Rudra
+- वरुणानि (*varuṇāni*)—the wife of Varuṇa
+- आ (*ā*)—gathering around
+- शृणोतु (*śṛṇotu*)—may she hear our prayer
+- देवीः (*devīḥ*)—those goddesses
+- व्यंतु (*vyaṃtu*)—may they accept the oblation (drink)
+- यः (*yaḥ*)—who
+- जनीनां (*janīnāṃ*)—of the wives of the gods
+- ऋतुः (*ṛtuḥ*)—the god who regulates time (may he also hear our praise and accept the oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddesses, the wives of the gods, eat our oblation. May the wife of Indra, the wife of Agni, the wife of the Aśvin gods, the radiant wife of Rudra, and the wife of Varuṇa gather together and hear our prayer. May those goddesses accept our oblation. May the god who regulates time for the wives of the gods also hear our praise and accept the oblation. **NOTE**
+
+##### English translation
+Or may the goddessse, the wives of the gods, accept (the offering) : Indrani, Agnayi, the radiant Aswini, Rodasi, Varunani, may each hear (our prayer) : may the goddesses partake (of the oblation) : may'the (personified) season of the wives of the gods, accept it.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation for this Ṛk as well, and has also named some of the wives of the gods here. As to the names: the wives of the gods have no separate names; that is, in the Ṛgveda the wives of Indra and the others do not have names such as शची (*śacī*) and the like, as stated in the Purāṇas and elsewhere. Only the words that mark them as the wife of the respective god are applied to the wives of the respective gods. For instance, the wife of Indra is called इंद्राणी (*iṃdrāṇī*)
+
+### Printed p. 524
+
+and the wife of Agni अग्नायी (*agnāyī*), the wife of Varuṇa वरुणानी (*varuṇānī*), and so on. Yāska has explained this in his Nirukta —
+अपि च ग्ना व्यंतु देवपत्न्यः । इंद्राणींद्रस्य पत्न्यग्नाय्यग्नेः पत्न्यश्विन्य श्विनोः पत्नि राट् राजते । रोदसीः रुद्रस्य पत्नि । वरुणानी च वरुणस्य पत्नि । व्यंतु देव्यः कामयंतां य ऋतुः कालो जायानां (*api ca gnā vyaṃtu devapatnyaḥ | iṃdrāṇīṃdrasya patnyagnāyyagneḥ patnyaśvinya śvinoḥ patni rāṭ rājate | rodasīḥ rudrasya patni | varuṇānī ca varuṇasya patni | vyaṃtu devyaḥ kāmayaṃtāṃ ya ṛtuḥ kālo jāyānāṃ*)
+(Ni. 12.46)
+And may the goddesses, the wives of the gods, receive and drink the oblation in the form of ghee. Who they are: the wife of Indra is named इंद्राणी (*iṃdrāṇī*), the wife of Agni is named अग्नाया (*agnāyā*). The wife of the Aśvin gods is named अश्विनी (*aśvinī*). राट् (*rāṭ*) means the shining goddess. The wife of Rudra is named रोदसी (*rodasī*) (nominative singular). The wife of Varuṇa is named वरुणानी (*varuṇānī*). ऋतुः (*ṛtuḥ*) means time; ऋतुर्जनीनां (*ṛturjanīnāṃ*) means the time at which these wives of the gods receive the oblation. Therefore the chief purport of the explanation is that all the wives of the gods mentioned above, at the particular time at which they are to receive the oblation, desiring their oblation, may receive it and be satisfied.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके द्वितीयोऽध्यायः समाप्तः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake dvitīyo 'dhyāyaḥ samāptaḥ*)
+
+Here ends the Second Chapter in the Fourth Aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and with a Karnāṭaka translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्धनेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तु ते॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yaddhanet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostu te‖*)
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+मंगळं (*maṃgaḷaṃ*)
+
+श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विदातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidātīrthamaheśvaraṃ ‖*)
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-saṃhitā with the bhāṣya of Sāyaṇa.
+
+चतुर्थाष्टके तृतीयोऽध्यायः (*caturthāṣṭake tṛtīyo 'dhyāyaḥ*)
+The Third Chapter in the Fourth Aṣṭaka.
+The forty-seventh sūkta in the fifth maṇḍala.
+
+In this chapter the first five sūktas (that is, sūktas 47-51 of this maṇḍala) have the Viśvedevas as their deity. We have explained the subject of the Viśvedevas in detail in the previous chapter, that is, on pages 336-352 of this part. For sūktas 52 to 61 (ten sūktas in all) the Maruts are the deity. For the last sūkta of this chapter, sūkta 62, Mitra and Varuṇa are the deity. Since not much is known about the seers who appear in this chapter, Pratiratha, Pratibhānu, Pratiprabha, Svasti, Śyāvāśva and Śrutavit, there is no room for an account of them. But about the seer Śyāvāśva we have already explained some matters before.
+
+### Printed p. 526
+
+## Sūkta 47 (Maṇḍala 5)
+
+The forty-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ तृतीयोऽध्याय आरभ्यते । तत्र प्रयुंजतीति सप्तर्चं तृतीयं सूक्तं
+> प्रतिरथस्यार्षं त्रैष्टुभं । पूर्वत्र वैश्वदेवं वै तदित्युक्तत्वादिदमपि वैश्वदेवं ।
+> प्रयुंजती सप्त प्रतिरथ इत्यनुक्रमणिका विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Now the third chapter begins. In it the third sūkta, beginning प्रयुंजती (*prayuṃjatī*), of seven Ṛks, has Pratiratha as its seer and Triṣṭubh as its metre. Since it was said in the preceding sūkta वैश्वदेवं वै तदित्युक्तत्वादिदमपि (*vaiśvadevaṃ vai tadityuktatvādidamapi*), this one too is addressed to the Viśvedevas. The Anukramaṇī says प्रयुंजती सप्त प्रतिरथ (*prayuṃjatī sapta pratiratha*). The use in ritual is लैंगिकः (*laiṃgikaḥ*).
+
+Anuvāda: Since the Second Chapter in the Fourth Aṣṭaka has now ended, the explanation of the meaning and translation of the Third Chapter will begin henceforth. The first sūkta of this chapter, the sūkta called प्रयुंजती (*prayuṃjatī*), is the third sūkta in the fourth anuvāka of the fifth maṇḍala. It has seven Ṛks. Its seer is Pratiratha Ātreya; the deity is the Viśvedevas; the metre is Triṣṭubh. In the Anukramaṇī it is said प्रयुंजती सप्त प्रतिरथः (*prayuṃjatī sapta pratirathaḥ*); the use in ritual is Laiṅgika.
+
+- Sūkta 47
+- Maṇḍala 5, Anuvāka 4, Sūkta 47
+- Aṣṭaka 4, Adhyāya 3, Varga 1
+- Number of Ṛks in the sūkta: 7
+- Seer: Pratiratha Ātreya
+- Deity: the Viśvedevas
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒युं॒ज॒ती दि॒न ए॑ति ब्रुवा॒णा म॒ही मा॒ता दु॑हि॒तुर्बो॒धयं॑ती ।  
+> अ॒विवा॑संती युव॒तिर्म॑नी॒षा पि॒तृभ्य॒ आ सद॑ने॒ जोहु॑वाना ॥
+
 ---
 
-**Progress note:** Done through printed p. 519. Ṛk 1 end to Ṛk 6, pp. 513-519
+**Progress note:** Done through printed p. 526. Ṛk 7-8 of Sūkta 46, end of Adhyāya 2, start of Sūkta 47, pp. 520-526
