@@ -5794,6 +5794,219 @@ Yāska has given this explanation of the Ṛk quoted above:
 इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्र्युषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātryuṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ ‖*) **GLOSS**
 According to the statement रात्रेरपरः काल उष इत्युच्यते (*rātreraparaḥ kāla uṣa ityucyate*), the last part of the night, that is, the time before sunrise, is called the Uṣas time. The brilliance of this Uṣas time, that is, the light
 
+### Printed p. 154
+
+is the best of all lights. In the world the sun, the moon and the stars are luminous. Among these the light of the sun is very sharp. The light of the stars illumines only the stars themselves and does not illumine other things; that is, other objects cannot be seen by the light of the stars. Although the light of the moon is cool, it is not very bright, and so objects are not seen clearly by it. But the light of the Uṣas time is neither sharp like the light of the sun, nor cool like the radiance of the moon, nor dim. It has the power of illumining all things very well. For this very reason it is said here that the light of this Uṣas time is far better than the light of the sun, the moon, the stars and the rest. Moreover, the light of the Uṣas time spreads over all regions at one and the same time and is very pleasing to the mind. The rising of such an Uṣas time has now come about. This is the translation of the first half of this Ṛk.
+
+In the world, night comes after the sun has set. After the night has passed, the Uṣas time comes, and after the Uṣas time, the sunrise. Because they come one after another in this order, one is said to be the cause of the birth of the other. For example, since night arises after the sun has set, the sun is the cause of the birth of night; that is, night is born from the sun. In the same way, the Uṣas time is born from night, and the sun rises from the Uṣas time. This very idea is described in this Ṛk: as night was born from the sun, so the Uṣas time came into being from night.
+
+(The introduction is ended.)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महे नो आद्येति दशर्चं सप्तमं सूक्तमात्रेयस्य सत्यश्रवस आर्षं
+> पांक्तमुषस्यं । अनुक्रम्यते च । महे दश सत्यश्रवा उषस्यं तु पांक्तमिति ॥
+> प्रातरनुवाक उषस्ये क्रत्वा पांक्ते छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्र्यते हि ।
+> महे नो आद्येति पांक्तं । अ. ४-१४ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta beginning महे नो आद्येति (*mahe no ādyeti*) has ten Ṛks and is the seventh sūkta. Its seer is Satyaśravas of the Atri line, its deity is Uṣas and its metre is Pāṅkta (Paṅkti). The Anukramaṇikā says: महे दश सत्यश्रवा उषस्यं तु पांक्तमिति (*mahe daśa satyaśravā uṣasyaṃ tu pāṃktamiti*). In the Prātaranuvāka, in the Uṣasya rite, in the Pāṅkta metre and in the Āśvina śastra this sūkta is employed. This is laid down in the sūtra: महे नो आद्येति पांक्तं (*mahe no ādyeti pāṃktaṃ*) (A. 4-14). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning महे नो अद्य (*mahe no adya*) is the seventh sūkta in the sixth anuvāka. It has ten Ṛks. The seer of this sūkta is the one called Satyaśravas Ātreya; the deity is Uṣas; the metre is Paṅkti. In the Anukramaṇikā it is said महे दश सत्यश्रवा उषस्यं तु पांक्तमिति ॥ प्रातरनुवाक उषस्ये क्रत्वा पांक्ते छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्र्यते हि । महे नो आद्येति पांक्तं । अ. ४-१४ । इति ॥ अनुवादवु—महे नो अद्य ऎंब ई सूक्तवु आरनॆय अनुवाकदल्लि एळनॆय सूक्तवु. इदरल्लि हत्तु ऋक्कुगळिरुववु. ई सूक्तक्कॆ सत्यश्रवा आत्रेयः ऎंबुवनु ऋषियु; उषोदेवतॆयु देवतॆयु ; पुक्तिश्चंदस्सु, अनुक्रमणिकॆयल्लि महे दश सत्यश्रवा उषस्यं तु पांक्तं (*mahe daśa satyaśravā uṣasyaṃ tu pāṃktamiti ‖ prātaranuvāka uṣasye kratvā pāṃkte chaṃdasyāśvinaśastre cedaṃ sūktaṃ | sūtryate hi | mahe no ādyeti pāṃktaṃ | a. 4-14 | iti ‖ anuvādavu—mahe no adya èṃba ī sūktavu āranèya anuvākadalli eḷanèya sūktavu. idaralli hattu ṛkkugaḷiruvavu. ī sūktakkè satyaśravā ātreyaḥ èṃbuvanu ṛṣiyu; uṣodevatèyu devatèyu ; puktiścaṃdassu, anukramaṇikèyalli mahe daśa satyaśravā uṣasyaṃ tu pāṃktaṃ*). At the time of the recitation of the mantras of the Prātaranuvāka, this sūkta is employed for the mantras in the Paṅkti metre connected with the Uṣasya sacrificial rite
+
+### Printed p. 155
+
+and for the mantras of the Āśvina śastra, as is set out in the sūtra of the Āśvalāyana Śrautasūtra महे नो अद्येति पांक्तं (*mahe no adyeti pāṃktaṃ*) (Ā. 4-14).
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 79
+- Aṣṭaka 4; Adhyāya 4; Varga 21, 22
+- Number of Ṛks in the sūkta: 10
+- Seer: सत्यश्रव अत्रेयः (*satyaśrava atreyaḥ*)
+- Deity: उषाः (*uṣāḥ*)
+- Metre: पंक्तिः (*paṃktiḥ*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हे नो॑ अ॒द्य बो॑ध॒योषो॑ रा॒ये दि॒वित्म॑ती ।  
+> यथा॑ चिन्नो॒ आबो॑धयः स॒त्यश्र॑वसि वा॒य्कॆ सुजा॑ते॒ अश्व॑सूनृते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महे । नः । अद्य । बोधय । उषः । राये । दिवित्कृती ।  
+> यथा । चित् । नः । अबोधयः । सत्यश्रवसि । वाय्ये । सुजाते । अश्वसूनृते ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्यागदिने हे उष उषोदेवि दिवित्कृती दीप्तिमती त्वं नोऽस्मान्महे
+> महते राये धनप्राप्तये बोधय । प्रज्ञापय । प्रकाशयेत्यर्थः । सति प्रकाशे
+> क्रतुद्वारा द्रव्यस्योपार्जयितुं शक्यत्वात् । यथा चित् यथैव पूर्वं सोऽस्मानबोधयः अतीतेषु दिवसेषु यथा बोधितवती तद्वदद्यापीत्यर्थः । हे सुजाते
+> शोभनप्रादुर्भूते अश्वसूनृते आश्वार्था प्रियसत्यात्मिका स्तुतिवाग्यस्याः सा । हे
+> तादृशि देवि वाय्कॆ वय्यपुत्रे सत्यश्रवसि मय्यनुगृहाणेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Today, on this sacrificial day, O Uṣas, goddess of light, you awaken us for great wealth, that is, you make us aware and illumine us; for when there is light, it is possible to acquire wealth through the sacrifice. यथा चित् (*yathā cit*): just as you awakened us before, on the days gone by, so also now today. O well-born one, you who have arisen in beauty, O अश्वसूनृते (*aśvasūnṛte*), you whose praise-speech, pleasing and true, is for the sake of horses: O goddess of such a kind, show favour to me, Satyaśravas, the son of Vayya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीप्तिमती (*dīptimatī*)—O radiant one
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- यथा चित् (*yathā cit*)—in which manner
+- नः (*naḥ*)—us
+- अबोधयः (*abodhayaḥ*)—you awakened (before; in the same manner)
+- आद्य (*ādya*)—this sacrificial day also
+
+### Printed p. 156
+
+- नः (*naḥ*)—us
+- महे (*mahe*)—abundant
+- राये (*rāye*)—for the gain of wealth
+- बोधय (*bodhaya*)—awaken
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised excellently for the sake of horses, O Uṣas
+- वाय्ये (*vāyye*)—the son of Vayya
+- सत्यश्रवसि (*satyaśravasi*)—in me, who bear the name Satyaśravas, place your favour
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant goddess Uṣas, in the same way as you awakened us all the time before, awaken us this sacrificial day also for the gain of abundant wealth. O you of excellent birth, you who are praised excellently for the sake of horses, O goddess Uṣas, place your favour in me, the son of Vayya, named Satyaśravas.
+
+##### English translation
+Radiant Ushas, wake us up to-day for (the acquisition of) ample riches, in like manner as you have awakened us (of old): bright-born, and praised sincerely for (the gift of) horses, shew favour to Satyashravas, the son of Vayya.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next two Ṛks, the seer of this sūkta, Satyaśravas, has said of himself that he is the son of one called Vayya. In some places it is said that Vayya was a royal sage and that the Aśvin deities protected him.
+याभिः कर्कंधुं वय्यं च जिन्नथस्ताभिरू षु ऊतिभिरश्विना गतं ॥ (*yābhiḥ karkaṃdhuṃ vayyaṃ ca jinnathastābhirū ṣu ūtibhiraśvinā gataṃ ‖*) (Ṛ. Saṃ. 1-112-6) **GLOSS**
+In the commentary on this Ṛk the commentator has spoken thus:
+कर्कंधुः वय्यश्च राजर्षि अतिक्षात् तपस्तप्यमानौ यदृच्छया पर्यटंतावश्विन् ददृशतुः । दृष्ट्वा च तावमृतेनाप्याययांचक्रतुरिति । तदेतदिहोच्यते ॥ (*karkaṃdhuḥ vayyaśca rājarṣi atikṣāt tapastapyamānau yadṛcchayā paryaṭaṃtāvaśvin dadṛśatuḥ | dṛṣṭvā ca tāvamṛtenāpyāyayāṃcakraturiti | tadetadihocyate ‖*)
+The royal sages Karkandhu and Vayya, while practising extremely painful austerity and wandering in the forest, were seen by the Aśvin deities by chance. Afterwards the Aśvins satisfied them with the gift of nectar: so it is said. The matter of Karkandhu is not spoken of anywhere else in the Ṛgveda except in this Ṛk. But the fact that Vayya received help not only from the Aśvin deities but also from Indra and the other deities is indicated elsewhere:
+
+### Printed p. 157
+
+त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वितिं वय्यं शतक्रतो । (*tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvitiṃ vayyaṃ śatakrato |*) (Ṛ. Saṃ. 1-54-6) **GLOSS**
+अरमयः सरपसस्तराय कं तुर्वीतये च वय्याय च स्तुति । (*aramayaḥ sarapasastarāya kaṃ turvītaye ca vayyāya ca stuti |*) (Ṛ. Saṃ. 2-13-12) **GLOSS**
+त्वं महीमवनिं विश्वधेनां तुर्वीतये वय्याय क्षरंतीं । (*tvaṃ mahīmavaniṃ viśvadhenāṃ turvītaye vayyāya kṣaraṃtīṃ |*) (Ṛ. Saṃ. 4-19-6) **GLOSS**
+In these and other Ṛks the matter of Vayya is stated. For the word वय्यं (*vayyaṃ*) in the Ṛk Ṛ. Saṃ. 1-54-6, Sāyaṇa explains: वय्यकुलजं तुर्वितिनामानं (*vayyakulajaṃ turvitināmānaṃ*), that is, a king named Turviti, born in the family of Vayya. This shows that Vayya, and the other royal sages born in his family, were famous.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या सु॑नी॒थे शौ॑चद्र॒थे वाच्यो॑ दुहितर्दिवः ।  
+> सा व्यु॑च्छ॒ सही॑यसि स॒त्यश्र॑वसि वा॒य्ये सुजा॑ते॒ अश्व॑सूनृते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । सुनीथे । शौचत् रथे । वि । औच्छः । दुहितः । दिवः ।  
+> सा । वि । उच्छ । सहीयसि । सत्यश्रवसि । वाय्ये । सुजाते । अश्वसूनृते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितर्दिवः सूर्यस्य पुत्रुषो या त्वं सुनीथ एतन्नामके
+> शौचद्रथे शुचद्रथस्यापत्ये पूर्वं व्यौच्छृ व्यवासयस्तमांसि सा त्वं सहीयस्यतिशयेन बलवति वाय्मे वय्यपुत्रे सत्यश्रवसि मयि व्युच्छ । तमो विवासय । उच्छी
+> विवासे । विवासो वर्जनं । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+O daughter of heaven, Uṣas, you who earlier dispelled the darkness for Sunītha, son of Śucadratha, **NOTE** that same you, O very powerful one, dawn upon me, Satyaśravas, the son of Vayya; drive away the darkness. The root उच्छी (*ucchī*) is in the sense विवासे (*vivāse*), and विवास (*vivāsa*) means removal. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the sky
+- दुहितः (*duhitaḥ*)—O Uṣas, daughter
+- या (*yā*)—you who
+- शौचद्रथे (*śaucadrathe*)—son of Śucadratha
+- सुनीथे (*sunīthe*)—for Sunītha
+- व्याच्छः (*vyācchaḥ*)—have shone, destroying the darkness
+
+### Printed p. 158
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised excellently for the sake of horses
+- सा (*sā*)—that same you
+- वाय्कॆ (*vāykè*)—the son of Vayya
+- सहीयसि (*sahīyasi*)—possessed of strength
+- सत्यश्रवसि (*satyaśravasi*)—bearing the name Satyaśravas, for me
+- व्युच्छ्र (*vyucchra*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, daughter of the sky, you who formerly shone, destroying the darkness, for Sunītha, the son of Śucadratha, O you of excellent birth, you who are praised excellently for the sake of horses, that same you shine for me, the son of Vayya, strong, named Satyaśravas.
+
+##### English translation
+Daughter of heaven, who have dawned upon Sunitha, the son of Shuchadratha, bright-born, and praised sincerely for (the gift of) horses, dawn upon the powerful son of Vayya, Satyashravas.
+
+##### विशेषविषयगळु (Special Topics)
+
+शौचद्रथे सुनीथे (*śaucadrathe sunīthe*)—Śucadratha and his son called Sunītha may have belonged to the family of the famous king named Vayya, and may have been forefathers or relatives of Satyaśravas, the seer of this mantra. Although the word सुनीथ (*sunītha*) is recited in the Ṛks Ṛ. Saṃ. 1-35-7; 1-35-10; 2-8-2; 7-46-4; 10-47-2; 3-8-8; 6-51-11; 1-62-3; 5-67-4, the commentator has explained this word as सुनयन (*sunayana*). Not much can be learned about this Sunītha. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा नो॑ अ॒द्याभ॒रद्व॑ सु॒व्यू॑च्छा दुहितर्दिवः ।  
+> यो व्याच्छः॒ सही॑यसि स॒त्यश्र॑वसि वा॒य्ये सुजा॑ते॒ अश्व॑सूनृते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । नः । आद्य । आभरत् वसुः । वि । उच्छ । दुहितः । दिवः ।  
+> यो इति । वि । औच्छः । सहीयसि । सत्यश्रवसि । वाय्मे । सुजाते । अश्वसूनृते ॥३॥
+
+### Printed p. 159
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दुहितर्दिव उष आभरद्वसुराहृतधना सा प्रसिद्धा त्वं नोऽस्माकमद्यास्मिन्निने व्युच्छ । तपो विवासय । हे सहीयसि यो या । उकारोऽनर्थकः । या
+> त्वं पूर्वं व्यौच्छः साद्यापीति ॥
+
+##### Gist of the bhāṣya
+
+O daughter of heaven, Uṣas, you who are आभरद्वसुः (*ābharadvasuḥ*), one who has brought wealth: you, the famous one, shine for us today, on this day; drive away the darkness. **NOTE** O very powerful one, यो (*yo*) means या (*yā*) ("who"); the vowel उ (*u*) has no meaning. You who dawned before, that same you do so today also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आभरद्वसुः (*ābharadvasuḥ*)—bringer of wealth
+- दिवः (*divaḥ*)—of the sky
+- दुहितः (*duhitaḥ*)—daughter, O goddess Uṣas
+- यो (*yo*) (या (*yā*))—you who
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वशूनृते (*aśvaśūnṛte*)—O you who are prayed to for the sake of horses
+- वाय्कॆ (*vāykè*)—the son of Vayya
+- सहीयसि (*sahīyasi*)—possessed of strength
+- सत्यश्रवसि (*satyaśravasi*)—for Satyaśravas
+- व्याच्छः (*vyācchaḥ*)—you have shone, destroying the darkness
+- सा (*sā*)—that same glorious you
+- अद्य (*adya*)—this day of the sacrifice
+- नः (*naḥ*)—for us
+- व्यच्छ (*vyaccha*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, bringer of wealth and daughter of the sky, you who, being of excellent birth and prayed to for the sake of horses, shone, destroying the darkness, for Satyaśravas, the son of Vayya and possessed of strength: that same glorious you, shine for us this day of the sacrifice.
+
+##### English translation
+Daughter of heaven, you are the bringer of opulence ; dawn upon us to-day, as bright-born, and praised for (the gift of) horses ; you have dawned upon the powerful Satyashravas, the son of Vayya.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि ये त्वा॑ विभावरि॒ स्तोमै॑गृ॒णंति॒ वह्न॑यः ।  
+> म॒घैर्म॑घोनि सु॒त्रियो॒ दाम॑न्वंतः सुरा॒तयः॒ सुजा॑ते॒अश्व॑सूनृते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । योः । त्वा । विभावरि । स्तोमैः । गृणंति । वह्नयः ॥  
+> मघैः। मघोनि। सुश्रियः। दामन्वंतः। सुरातयः। सुजाते। अश्वसूनृते॥४॥
+
 ---
 
-**Progress note:** Done through printed p. 153. Sūkta 78 Ṛks 7-9; Sūkta 79 heading and introduction on the deity Uṣas (pp. 148-153)
+**Progress note:** Done through printed p. 159. Sūkta 79 intro end, bhāṣya of sūkta, Ṛks 1-3, Ṛk 4 saṃhitā/pada (pp. 154-159)
