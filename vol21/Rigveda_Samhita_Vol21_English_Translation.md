@@ -3276,6 +3276,266 @@ O Indra, this Indu, Soma, controlled (नियम्यमानः (*niyamyam�
 - श.चिजन्मनः (*śa.cijanmanaḥ*)—of purified birth
 - चकार (*cakāra*)—made
 
+### Printed p. 76
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in former times the gods established this Soma as the indicator, in the form of the moon, for the days. Therefore this Soma made to shine the nights of the dark fortnights and the like, which are without light, and the days and the years. He made the births of the Dawns pure.
+
+##### English translation
+This Soma, Indra, (quaffed by you), has lighted up the unlustrous nights, and days and nights, and years : (the gods) of old have established it as the ensign of days, and it has made the dawns generated in light.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं रो॑चयद॒रुचो॑ रुचा॒नो॒३॒॑ ३ यं वा॑सय॒द्व्य १ १॒॑तेन॑  ॒
+> पू॒र्वीः । ॒ 
+> अ॒यमी॑यत ऋत॒युग्भि॒रश्वैः॑ स्व॒र्विदा॒ नाभि॑ना चर्षणि॒प्राः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । रोचयत् । अरुचः । रुचानः । अयं । वासयत् । वि । ऋतेन । पूर्वीः ।  
+> अयं । ईयते । ऋतयुक्भिः । अश्वैः । स्वःविदा । नाभिना । चर्षणिप्राः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो रुचानो रोचमानः सूर्यात्मना दीप्यमानोऽरुचः
+> प्रकाशरहितान् तमसा मलीमसान् सर्वाल्लोकान्नोचयत् । प्रकाशयति । तथा
+> पूर्वीर्बहीरुषसश्चायमिंद्र ऋतेन सत्यभूतेन सर्वत्र गमनशीलेन वा तेजसा
+> वि वासयत् । व्यापयति । तत्रत्यानि तमांसि निवर्तयतीत्यर्थः । तथा ऋतयुग्भिऋतेन स्तोत्रेण युज्यमानैरश्वैर्नाभिना संनद्देन स्वर्विदा सुष्वरणीयस्य
+> धनस्य लंभकेन रथेन चर्षणिप्राश्चर्यणीनां मनुष्याणां कामैः पूरयिता सन्
+> अयमेवेंद्र ईयते । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Indra, shining (रुचानो (*rucāno*)) in the form of the Sun, illumines all the worlds that are without light, made dark by gloom. Likewise this Indra pervades the many dawns with ऋतेन (*ṛtena*), that is, with a radiance that is true in nature or that moves everywhere, and thereby removes the darkness in them. Likewise, being the fulfiller of the desires of men, he moves (ईयते (*īyate*)) with horses yoked by praise (ṛta here meaning praise), on a chariot that is well fastened and that obtains wealth worthy of being well proclaimed.
+
+### Printed p. 77
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Indra
+- रुचानः (*rucānaḥ*)—shining in the form of the Sun
+- अरुचः (*arucaḥ*)—all the worlds that are without light
+- रोचयत् (*rocayat*)—he illumines
+- पूर्विः (*pūrviḥ*)—the many dawns
+- आयं (*āyaṃ*)—this Indra
+- ऋतेन (*ṛtena*)—with his own lustre of the nature of truth
+- वि वासयत् (*vi vāsayat*)—has pervaded
+- ऋतयुग्भिः (*ṛtayugbhiḥ*)—endowed with praise
+- अश्वैः (*aśvaiḥ*)—by horses
+- नाभिना (*nābhinā*)—fastened
+- स्वर्विदा (*svarvidā*)—and rich in wealth, along with the chariot
+- चर्षणिप्राः (*carṣaṇiprāḥ*)—as the fulfiller of the desires of all men
+- अयं (*ayaṃ*)—this Indra
+- ईयते (*īyate*)—moves about
+
+##### भावार्थ (Bhāvārtha)
+
+This same Indra, shining in the form of the Sun, illumines all the worlds that are without light. This Indra has pervaded the many dawns with his own lustre of the nature of truth. With a chariot that is fastened and rich in wealth, drawn by horses endowed with praise, Indra moves about as the fulfiller of the desires of all men.
+
+##### English translation
+This radiant (Indra) has illumed the non-radiant (worlds): he has pervaded many dawns with true lustre: the benefactor of men moves in (a chariot) drawn by horses, harnessed by praise, laden with riches.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू गृ॑णा॒नो गृ॑ण॒ते प्र॑त्न राज॒न्निषः॑ पिन्व वसु॒देया॑य  ॒
+> पू॒र्वीः । ॒ 
+> अ॒प ओष॑धीरवि॒षा वना॑नि॒ गा अर्व॑तो॒ नृ॒न्नचसे॑ रिरीहि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । गृणानः । गृणते । प्रश्नॆ । राजन् । इषः । पिन्न । वसुदेयाय । पूर्वीः ।  
+> अपः । ओषधीः । अविषा । वनानि । गाः । अर्वतः । नृन् । ऋचसे । रिरीहि ॥ ५ ॥
+
+### Printed p. 78
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रश्नॆ पुरातन राजन् राजमानेंद्र गृणानः स्तूयमानस्त्वं वसुदेयाय
+> वसूनि धनानि त्वया देयानि यस्मै तादृशाय गृणते स्तुवते पूर्वीर्बह्वरिषोऽन्नानि नु क्षिप्रं पिन्व । सिंच । प्रयच्छेत्यर्थः । किं च ऋचसेऽर्चयित्रे
+> स्तोत्रेऽपो वृष्टिलक्षणान्युदकान्नोषधीर्वीह्यादीन् अविषा विषरहितानि रक्षकाणि
+> वा वनानि वृक्षजातानि चूतपनसादीनि गा अर्वतोऽश्वानन्मनुष्यांश्च कर्मकर्मान्
+> रिरीहि । देहि ॥
+
+##### Gist of the bhāṣya
+
+O ancient and shining Indra, being praised, you should quickly bestow (पिन्व (*pinva*), meaning sprinkle, give) many foods on the praiser, one to whom riches are to be given by you. Moreover, to the worshipper, the praiser, give the waters in the form of rain, the plants such as rice, the trees such as mango and jackfruit, which are free of poison or protective, and cows, horses and men who do work.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रश्न (*praśna*)—O ancient one
+- राजन् (*rājan*)—O shining Indra
+- गृणानः (*gṛṇānaḥ*)—you who are to be praised
+- वसुदेयाय (*vasudeyāya*)—to him to whom wealth is to be given
+- गृणते (*gṛṇate*)—to the praiser
+- पूर्विः (*pūrviḥ*)—of many kinds
+- इषः (*iṣaḥ*)—foods
+- नु (*nu*)—quickly
+- पिन्व (*pinva*)—provide
+- ऋचसे (*ṛcase*)—to your worshipper
+- अपः (*apaḥ*)—rain-waters
+- ओषधीः (*oṣadhīḥ*)—rice and the like
+- अविषा (*aviṣā*)—free of poison
+- वनानि (*vanāni*)—trees
+- गाः (*gāḥ*)—cows
+- आर्वतः (*ārvataḥ*)—horses
+- नृन् (*nṛn*)—sons, servants and the like
+- रिरीहि (*rirīhi*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, ancient and shining, you who are to be praised, quickly provide many kinds of food to the praiser, to whom you are to give wealth. To your worshipper provide rain-waters, rice and the like, trees free of poison, cows, horses, and sons, servants and the like.
+
+##### English translation
+Sovereign of old, when glorified, you bestow upon him who praises you, and to whom affluence is due, abundant food: grant to the worshipper water, plants, innocuous woods, cattle, horses, and men.
+
+## Sūkta 40 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र पिबेति पंचर्चं सप्तदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> इंद्र पिबेत्यनुक्रांतं ॥ गतः सूक्तविनियोगः ॥ प्रथमे रात्रिपर्यायेच्छावाकस्याद्या शस्त्रयाज्या । सूत्रितं च । इंद्र पिब तुभ्यं सुतो मदायेति याज्या
+> आ. ६-४ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्र पिबेति (*iṃdra pibeti*) has five Ṛks and is the seventeenth sūkta. Its seer is Bharadvāja (Ārṣa), its metre is Triṣṭubh, and its deity is Indra. It is listed in the Anukramaṇī with the words इंद्र पिबेत्यनुक्रांतं (*iṃdra pibetyanukrāṃtaṃ*). The use of the sūkta has already been stated. In the first night-round the first Ṛk is the śastra-yājyā of the Acchāvāka priest. It is stated in the sūtra: इंद्र पिब तुभ्यं सुतो मदायेति याज्या (*iṃdra piba tubhyaṃ suto madāyeti yājyā*) (Ā. Sū. 6-4).
+
+### Printed p. 79
+
+##### Anuvāda
+
+This sūkta beginning "Indra piba" is the seventeenth sūkta in the third anuvāka. It has five Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity, and the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with "Indra piba". The use has been stated before. And at the time of reciting the first Chandomā mantras, in the night-round, the priest called Acchāvāka is to recite the first Ṛk of this sūkta as the śastra-yājyā mantra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "Indra piba tubhyaṃ suto madāyeti yājyā" (Ā. 6-4).
+
+##### Particulars
+
+- Sūkta 40
+- Maṇḍala 6; Anuvāka 3; Sūkta 40
+- Aṣṭaka 4; Adhyāya 7; Varga 12
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ पिब॒ तुभ्यं॑ सु॒तो मदा॒याव॑ स्य॒ हरी॒ वि मु॑चा॒  ॑
+> सखाया ।  
+> उ॒त प्र गा॑य ग॒ण आ नि॒षद्याथा॑ य॒ज्ञाय॑ गृण॒ते वयो॑ धाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । पिब । तुभ्यं । सुतः । मदाय । अव । स्य । हरी इति । वि । मुच । सखाया ।  
+> उत । प्र । गाय । गणे । आ । निसद्य । अथ । यज्ञाय । गृणते । वयः । धाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तं सोमं पिब यः सोमस्तुभ्यं मदाय मदार्थं
+> सुतोऽभिषुतः । यतस्त्वया सोमः पातव्योऽतः कारणात्सखाया समानख्यान्
+> मित्रभूतौ वा हरी अश्वावव स्य । अवस्थापय । तदनंतरं वि मुच । रथाद्विमुंच ।
+
+##### Gist of the bhāṣya
+
+O Indra, drink that Soma which has been pressed for you for your exhilaration. Since the Soma is to be drunk by you, for that reason make your two horses, who are your friends or bear the same name, stand still (अव स्य (*ava sya*)), and afterwards unyoke them from the chariot.
+
+### Printed p. 80
+
+> उतापि च गणेऽस्मत्सोतृसंघ आ अभिमुख्येन निषद्योपविश्य प्र गाय । आस्माभिः
+> कृतं स्तोत्रमुपश्लोकय ! अथानंतरं यज्ञाय यजमानाय गृणते स्तुवते
+> वयोऽन्नं धाः । देहि ॥
+
+##### Gist of the bhāṣya
+
+And also, sitting down facing us in this company of us Soma-pressers, sing (प्र गाय (*pra gāya*)), that is, listen to the hymn made by us. Then give food to the sacrificer who praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you
+- मदाय (*madāya*)—to cause you delight
+- सुतः (*sutaḥ*)—the Soma juice that has been pressed, that
+- पिब (*piba*)—drink
+- सखाया (*sakhāyā*)—your two friendly
+- हरी (*harī*)—horses
+- अव स्य (*ava sya*)—make stand
+- वि मुच (*vi muca*)—(afterwards) unyoke them
+- गणे (*gaṇe*)—in our company
+- अथ (*atha*)—afterwards
+- गृणते (*gṛṇate*)—to the praiser
+- वयः (*vayaḥ*)—food
+- धाः (*dhāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the Soma that has been pressed for you, to cause you delight. Make your friendly horses stand. Afterwards unyoke them, and, sitting in our company facing us, graciously accept our praise. Afterwards give food to the praiser, the sacrificer.
+
+##### English translation
+Drink, Indra, (the Soma) that is effused for your exhilaration : stop your friendly steeds: let them loose: sitting in our society, respond to our hymns: give food to him who lauds and worships you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ पिब॒ यस्य॑ जज्ञा॒न इं॑द्र॒ मदा॑य॒ क्रत्वे॒ अपि॑बो  
+> विरप्सिन् ।  
+> तमु॑ ते॒ गावो॒ नर॒ आपो॒ अद्रि॒रिंदुं॒ सम॑ह्यन्पी॒तये॒  ॑
+> समस्यॆ ॥ २ ॥
+
+### Printed p. 81
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । पिब । यस्य । जज्ञानः । इंद्र । मदाय । कृत्वे । अपिबः । विरप्सिन् ।  
+> तं। ऊं इति । ते । गावः । नरः । आपः । अद्रिः । इंदुं । सं । अह्यन् । पीतये । सं ।  
+> अस्मै ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये. रात्रिपर्यायेच्छावाकस्यास्य पिबेति शस्त्रयाज्या । सूत्रितं च ।
+> अस्य पिबेति याज्या । आ. ६-४ । इति.
+> हे इंद्र अस्येमं सोमं पिब । हे विरष्यन् महन् जज्ञानो जायमान
+> एव त्वं यस्य यं सोममपिबः पूर्वं पीतवानसि । किमर्थं । मदाय हर्षाय
+> क्रत्वे कर्मणे वृत्रवधादिलक्षणं वीर्यकर्म कर्तुं च । तमु तादृशमेवेंदुं
+> सोमं गावो गवि भवाः श्रपणसाधनाः क्षीरादयो नरो नेतारोऽध्वर्यव
+> अपो वसतीवर्याख्या अद्रिरभिषवार्थो ग्रावा एते सर्वेऽस्मा अस्येंद्रस्य ते तव
+> पीतये पानार्थं समह्यन् । समगमयन् ॥ हि गतावित्यस्यैतद्रूपं । पुनः
+> समिति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+In the second night-round this Ṛk अस्य पिबेति (*asya pibeti*) is the śastra-yājyā of the Acchāvāka. It is stated in the sūtra: अस्य पिबेति याज्या (*asya pibeti yājyā*) (Ā. Sū. 6-4). O Indra, drink this Soma. O mighty one, being born, you drank in former times that Soma, for exhilaration and for the deed of valour, such as the slaying of Vṛtra. Just this Soma, the cow products such as milk used for cooking, the leaders, the Adhvaryu priests, the waters called Vasatīvarī, and the pressing stones, all these have brought together for this Indra, for your drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विरप्सिन् (*virapsin*)—O great one
+- इंद्र (*iṃdra*)—O Indra
+- जज्ञानः (*jajñānaḥ*)—as soon as you were born
+- यस्य (*yasya*)—which Soma
+- मदाय (*madāya*)—for your delight
+- क्रत्वे (*kratve*)—and for the deed such as the slaying of Vṛtra
+- अपिबः (*apibaḥ*)—you drank
+- अस्य (*asya*)—that same Soma
+- पिब (*piba*)—drink
+- तमु इंदुं (*tamu iṃduṃ*)—that same Soma
+- गावः (*gāvaḥ*)—the milk and the like produced from cows
+- नरः (*naraḥ*)—the Adhvaryus
+- आपः (*āpaḥ*)—the Vasatīvarī waters and the like
+- अद्रिः (*adriḥ*)—the pressing stones
+- अस्मै (*asmai*)—for this one in the form of Indra
+- ते (*te*)—your
+- पीतये (*pītaye*)—for drinking
+- समह्यन् (*samahyan*)—brought together and pressed
+
+##### भावार्थ (Bhāvārtha)
+
+O great Indra, as soon as you were born, you drank the Soma for your delight and for the deed such as the slaying of Vṛtra: drink that same Soma. The milk and the like produced from cows, the Adhvaryus, the Vasatīvarī waters and the like, and the pressing stones brought together and pressed that same Soma for your drinking, you who are Indra.
+
 ---
 
-**Progress note:** Done through printed p. 75. VI.38 Ṛks 4-5; VI.39 Ṛks 1-3 (pp. 70-75)
+**Progress note:** Done through printed p. 81. Ṛk 3 end, Ṛk 4-5 of Sūkta 39, Sūkta 40 Ṛk 1-2 (pp. 76-81)
