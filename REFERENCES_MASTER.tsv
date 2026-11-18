@@ -8,8 +8,8 @@ NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	y
 NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Ma.			too short to tell: could be Ma. Bhā. or Ma. Smṛ.	none		23			4		8	9			1					1			
-NOT IN LIST	ma.			too short to tell: could be Ma. Bhā. or Ma. Smṛ.	none		21		7	4	1	4	3		2									
+NOT IN LIST	Ma.		M.	Mahābhāṣya (user: M. / म.); 100% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)	medium		23			4		8	9			1					1			
+NOT IN LIST	ma.		M.	Mahābhāṣya (user: M. / म.); 100% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)	medium		21		7	4	1	4	3		2									
 NOT IN LIST	Sū.			no list form close to it	none		15					1							7	3		4		
 NOT IN LIST	Pā. Ma.			no list form close to it	none		14		3	4	1	3	2									1		
 NOT IN LIST	Vāl.			no list form close to it	none		12					12												
@@ -88,7 +88,6 @@ NOT IN LIST	pā. sū. ma.			no list form close to it	none		2		2
 NOT IN LIST	Pā. sū. Vā.			no list form close to it	none		2		2															
 NOT IN LIST	Pā. Sū. Vā.			no list form close to it	none		2			2														
 NOT IN LIST	Pā. Vā.			no list form close to it	none		2			1					1									
-NOT IN LIST	M.			no list form close to it	none		2			1	1													
 NOT IN LIST	Bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		2			2														
 NOT IN LIST	Up.			no list form close to it	none		2					1	1											
 NOT IN LIST	Dhā.			no list form close to it	none		2					1			1									
@@ -446,6 +445,7 @@ extra	Tai. Saṃ. Bhā.	Sāyaṇa's bhāṣya on the Taittirīya Saṃhitā					
 extra	Mā. U.	Māṇḍūkya Upaniṣad					5												5					
 extra	Sāṃ. Śrau. Sū.	Śāṅkhāyana Śrauta-sūtra					4					3											1	
 extra	Ā. Gṛ. Sū.	Āśvalāyana Gṛhya-sūtra					3																1	2
+extra	M.	Mahābhāṣya (Patañjali) on a Pāṇini sūtra					2			1	1													
 extra	Mā. Gṛ. Sū.	Mānava Gṛhyasūtra					2					1											1	
 extra	Śa. Bhā.	Śaṅkara-bhāṣya					2												1	1				
 extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
@@ -486,7 +486,7 @@ Devanagari	ऋग्वे.		Ṛ. Saṃ.	Devanagari read as ṛgve.; known spell
 Devanagari	ऋ.		Ṛ. Saṃ.	Devanagari read as ṛ.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	62	8							7	6	15	14	7	5				
 Devanagari	का.		Kā.	Devanagari read as kā.; same letters; only capitals, dots or spaces differ	high	yes	58		5	6	8	7	6	10	5	6	1	2	2					
 Devanagari	तै. ब्रा.		Tai. Brā.	Devanagari read as tai. brā.; same letters; only capitals, dots or spaces differ	high	yes	54	9	3	2		5	4	5	5		3			16				2
-Devanagari	म.			Devanagari read as ma.; too short to tell: could be Ma. Bhā. or Ma. Smṛ.	none		35		11	4	1	5	9		2							1	2	
+Devanagari	म.		M.	Devanagari read as ma.; user, Nov 18 2026: M. / म. is the Mahābhāṣya on a Pāṇini sūtra	high	yes	35		11	4	1	5	9		2							1	2	
 Devanagari	ऐ. आ.		Ai. Ā.	Devanagari read as ai. ā.; same letters; only capitals, dots or spaces differ	high	yes	24	2	9		1		1	1			2			2			2	4
 Devanagari	बृ. दे.		Bṛ. De.	Devanagari read as bṛ. de.; same letters; only capitals, dots or spaces differ	high	yes	22													21				1
 Devanagari	सि.			Devanagari read as si.; no list form close to it	none		22													16	5	1		
