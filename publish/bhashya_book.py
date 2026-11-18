@@ -127,7 +127,7 @@ def select(lines, chosen, english=None, lean=False):
     bhāṣya only). Returns (output lines, report)."""
     english = english or {}
     out, rep = [], {k: 0 for k in KEPT}
-    rep.update(en_suktas=0, en_units=0, en_lines=set(), notes=[])
+    rep.update(en_suktas=0, en_units=0, en_lines=set(), notes=[], remarks=0)
     rep.update(suktas=0, rks=0, joins=0, no_particulars=[], dropped_particulars=0, part_en=0, part_dev=0, anuvada_lines=0)
     st = dict(on=False, sec=None, rk=False, par=[], page=False, last=None, name='', cut='b', en=[], dev=[], done=True, unit=None, eng=None)
 
@@ -191,6 +191,8 @@ def select(lines, chosen, english=None, lean=False):
             par = keep
             if not par: st['page'] = False; return
         if sec == 'grammar' and not par[0].startswith('- '): st['sec'] = sec = 'other'
+        if sec == 'bhashya' and not par[0].startswith('>'):      # a remark of the volume's translator inside the block
+            rep['remarks'] += 1; st['page'] = False; return
         if (lean or st['eng']) and sec == 'gist' and not par[0].startswith('>'): sec = 'other'   # Gist prose not wanted
         if lean:
             par = [l for l in par if DEVA.search(l)]          # no transliteration lines
@@ -336,6 +338,7 @@ def main():
           f'Kannada Anuvāda lines taken out of bhāṣya blocks {rep["anuvada_lines"]}')
     print(f'  English of the bhāṣya in place of the Gist: {rep["en_suktas"]} of {rep["suktas"]} sūktas, {rep["en_units"]} units')
     print(f'  paragraphs rejoined across a page break {rep["joins"]}; **NOTE** markers {md.count("**NOTE**")}')
+    if rep['remarks']: print(f'  remarks of the volume inside bhāṣya blocks left out: {rep["remarks"]}')
     if rep['no_particulars']: print('  no particulars found: ' + '; '.join(rep['no_particulars']))
     if rep['dropped_particulars']:
         print(f'  paragraphs under a Particulars heading left out (not particulars): {rep["dropped_particulars"]}')
