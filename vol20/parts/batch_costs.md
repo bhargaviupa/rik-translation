@@ -2,3 +2,4 @@
 | through p. 24 (three windows in one agent: pp. 7–24) | sonnet | 14 | 164612 | 3.8 |
 | through p. 44 (three windows in one agent: pp. 25–44) | sonnet | 14 | 165049 | 4.6 |
 | through p. 62 (three windows in one agent: pp. 45–62) | sonnet | 13 | 152558 | 3.8 |
+| through p. 80 (three windows in one agent: pp. 63–80) | sonnet | 13 | 148110 | 3.3 |
