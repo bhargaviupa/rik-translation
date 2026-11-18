@@ -5905,6 +5905,269 @@ Deity: Agni.
 
 Metre: 1–3 Triṣṭubh; 2 Jagatī; 4 Anuṣṭubh; 5–6 Gāyatrī. **NOTE**
 
+### Printed p. 151
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्दो अ॒ग्निर्दि॒वि शो॒चिर॑श्रेत्प्र॒त्यज्जु॒षस॑मुर्वि॒या वि भा॑ति ।  
+> एति॒ प्राची॑ वि॒श्ववा॑रा॒ नमो॑भिर्दे॒वा ईळा॑ना ह॒विषा॑  ॒॑
+> घृताची ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्दः । अग्निः । दिवि । शोचिः । अश्रेत् । प्रत्यज् । उषसं । उर्विया । वि । भाति ।  
+> एति । प्राची । विश्वनारा । नमःभिः । देवान् । ईळाना । हविषा । घृताची ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्धः सम्यग्ग्रीप्तोऽग्निर्दिवि द्योतमानेऽंतरिक्षे शोचिस्तेजोऽश्रेत् ।
+> श्रयति । तथोषसं प्रत्यज् उषसमभिमुखः सन् उर्वियोरु विस्तीर्णं वि भाति ।
+> विशेषेण भ्राजते । नमोभिः स्तोत्रैर्देवानिंद्रादीनीळाना स्तुवती हविषा
+> पुरोडाशादिलक्षणेन युक्तया धृताची धृताच्या सुचा सहिता विश्ववारा सर्वमपि
+> पापरूपं शत्रुं वारयित्र्येतन्नामिका प्राचि प्राङ्मुखी सत्येति । एवंभूतमग्निं
+> प्रतिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Agni, fully kindled, spreads (*aśret*, that is, *śrayati*) his lustre in the shining atmosphere; likewise, facing the dawn, he shines widely (*urviyā*) and brilliantly. Viśvavārā, so named because she keeps off every sinful enemy, faces east (*prācī*, that is, *prāṅmukhī*); she praises the gods, Indra and the others, with praises (*namobhiḥ*), and, provided with oblations such as the *puroḍāśa* and with the ghee-ladle (*dhṛtācī*), goes towards Agni who is thus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिद्धः (*samiddhaḥ*)—fully kindled
+- अग्निः (*agniḥ*)—Agni
+- दिवि (*divi*)—in the shining atmosphere
+- शोचिः (*śociḥ*)—his lustre
+- अश्रेत् (*aśret*)—spreads
+- उषसं प्रत्यज् (*uṣasaṃ pratyaj*)—facing the dawn
+- उर्विया (*urviyā*)—widely
+- वि भाति (*vi bhāti*)—shines
+- नमोभीः (*namobhīḥ*)—with praises
+- देवान् (*devān*)—the gods, Indra and the rest
+- ईळाना (*īḷānā*)—praising
+- हविषा (*haviṣā*)—furnished with oblations
+- धृताची (*dhṛtācī*)—holding the ladle
+- विश्ववारा (*viśvavārā*)—the seer named Viśvavārā
+- प्राची (*prācī*)—facing east (facing Agni)
+- एति (*eti*)—approaches Agni
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, fully kindled, spreads his lustre in the shining atmosphere. Facing the dawn, he shines widely. Praising Indra and the other gods with praises, and holding the ladle furnished with oblations, the seer named Viśvavārā goes towards Agni, facing him.
+
+### Printed p. 152
+
+##### English translation
+Agni, when kindled, spreads lustre through the firmament, and shines in widely the presence of the dawn: Vishwavara, facing the east, glorifying the gods with praises, and bearing the ladle with the oblation, proceeds (to the sacred fire).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मि॒ध्यमा॑नो अ॒मृत॑स्य राजसि ह॒विष्कृ॒ण्वंतं॑ सचसे स्व॒स्तये॑ ।  
+> विश्वं॒ स ध॑त्ते॒ द्रवि॑णं॒ यमिन्व॑ स्याति॒थ्यम॑ग्ने॒ नि च॑ धत्त॒ इत्पु॒रः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइध्यमानः । अमृतस्य । राजसि । हविः । कृण्वंतं । सचसे । स्वस्तये ।  
+> विश्वं । सः । धत्ते । द्रविणं । यं । इन्वसि । आतिथ्यं । अग्ने । नि । च । धत्ते । इत् ।  
+> पुरः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समिध्यमानः सम्यगिध्यमानस्त्वममृतस्योदकस्य राजसि । ईशिषे ।
+> तथा हविष्कृण्वंतं पुरोडाशादिहविष्कर्तारं यजमानं स्वस्तयेऽविनाशाय सचसे ।
+> सेवसे । किंच यं यजमानमिन्वसि गच्छसि स यजमानो विश्वं समस्तं द्रविणं
+> पश्वादिलक्षणं धनं धत्ते । धारयति । अपि च हे अग्ने आतिथ्यमतिथिरूपस्य तव योग्यं
+> हविः पुर इत् तव पुरस्तादेव नि धत्ते च । स्थापयति च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being well kindled, you rule (*rājasi*, that is, *īśiṣe*) over *amṛta*, that is, water. You also attend (*sacase*, that is, *sevase*) the sacrificer who makes oblations such as the *puroḍāśa*, for his welfare (*svastaye*), that is, for his freedom from destruction. Moreover, the sacrificer to whom you come (*invasi*, that is, *gacchasi*) holds all wealth (*dravinam*) of the kind that consists of cattle and the like. And, O Agni, he sets before you, as the guest that you are, the oblation fitting for your hospitality (*ātithya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) समिध्यमानः (*samidhyamānaḥ*)—when you are kindled
+- अमृतस्य (*amṛtasya*)—of water
+- राजसि (*rājasi*)—you are lord
+- हविष्कृण्वंतं (*haviṣkṛṇvaṃtaṃ*)—the sacrificer who offers the oblation
+- स्वस्तये (*svastaye*)—to bring him welfare
+- सचसे (*sacase*)—you attend
+- यं (*yaṃ*)—whichever sacrificer
+- इन्वसि (*invasi*)—you favour and approach
+- सः (*saḥ*)—that sacrificer
+- विश्वं (*viśvaṃ*)—all
+- द्रविणं (*draviṇaṃ*)—wealth
+- धत्ते (*dhatte*)—obtains
+- अग्ने (*agne*)—O Agni
+- आतिथ्यं (*ātithyaṃ*)—the oblation fit for your worship as guest
+- पुर इत् (*pura it*)—right in front of you
+- नि धत्ते (*ni dhatte*)—he places
+
+### Printed p. 153
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you are kindled you are lord of all the water. You attend the sacrificer who makes the oblation, so that welfare may come to him. The sacrificer whom you favour and attend obtains all wealth. O Agni, he places the oblation fit for your worship as guest right in front of you.
+
+##### English translation
+When about to be kindled, Agni, you rule over ambrosial (water) : you are present with the offerer of the oblation for his welfare: he to whom you repair acquires universal wealth ; he places before you, Agni, the dues of hospitality.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ संतु ।  
+> सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒  ॑
+> महांसि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । शर्ध । महते । सौभगाय । तव । द्युम्नानि । उत्तमानि । संतु ।  
+> सं । जाःपत्यं । सुयमं । आ । कृणुष्ट । शत्रुयतां । अभि । तिष्ठ । महांसि ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रेष्ट्यां स्विष्टकृतोऽग्ने शर्धॆति याज्या । सूत्र्यते हि । जुष्टो दमूना
+> अग्ने शर्ध महते सौभगायेति संयाज्ये । आ. २. १२ । इति ॥ साकमेधेषु
+> मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालमित्यत्राप्येष्टैव स्विष्टकृतो याज्या ।
+> सूत्रितं च । जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये ।
+> आ. २. १८. । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Pavitreṣṭi, the verse beginning *agne śardha* is the yājyā of the Sviṣṭakṛt offering. It is laid down in the sūtra: जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2. 12). In the Sākamedha offerings too, at the offering "to the sporting Maruts, a *puroḍāśa* on seven potsherds", the Sviṣṭakṛt yājyā is this same verse, and the sūtra says so: जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2. 18).
+
+### Printed p. 154
+
+> हे अग्ने त्वं महते प्रभूताय सौभगायास्माकं शोभनधनत्वाय शर्ध ।
+> शत्रून् सहस्व । तथा तव संबंधीनि द्युम्नानि धनानि तेजांसि वा उत्तमान्त्युत्कृष्टानि संतु । भवंतु । किंच हे अग्ने सं जास्पत्यं । जा जाया च पतिश्च जायापती ।
+> तयोः कर्म जास्पत्यं । तत्सुयमं सुष्टु नियमनोपेतं । अन्नोन्यसंश्लिष्टमित्यर्थः । समा कृणुष्व । सम्यक्कुरुष्व । अपि च शत्रूयतां शत्रुमात्मन इच्छतां
+> सपत्नानां महांसि तेजांस्यभि तिष्ठ । आक्रमस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, for our great (*mahate*, that is, abundant) good fortune (*saubhaga*, that is, good wealth), *śardha*: overcome the enemies. Let your *dyumnāni*, that is, riches or splendours, be excellent. Moreover, O Agni, make *jāspatya* (*jā* is wife, and the husband too; the pair is *jāyāpatī*) well-regulated, that is, closely joined to one another; make it good. And overcome (*abhi tiṣṭha*, that is, attack) the energies of the rivals who wish for themselves an enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- महते (*mahate*)—exceeding
+- सौभगाय (*saubhagāya*)—so that blessed wealth may come to us
+- शर्ध (*śardha*)—check our enemies
+- तव (*tava*)—belonging to you
+- द्युम्नानि (*dyumnāni*)—riches
+- उत्तमानि (*uttamāni*)—excellent
+- संतु (*saṃtu*)—let them be
+- जास्पत्यं (*jāspatyaṃ*)—the good rites that point to the mutual relation of husband and wife
+- सुयमं (*suyamaṃ*)—joined to one another, as if under one rule
+- सं आकृणुष्ट्व (*saṃ ākṛṇuṣṭva*)—perfect
+- शत्रूयतां (*śatrūyatāṃ*)—of those who wish us harm
+- महांसि (*mahāṃsi*)—the energies
+- अभि तिष्ठ (*abhi tiṣṭha*)—check and stand against
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, check our enemies, so that blessed wealth may come to us in abundance. Let your riches be excellent. Perfect the good rites that point to the mutual relation of husband and wife, joined to one another as if under one rule. Check and overcome the energies of those who wish us harm.
+
+##### English translation
+Repress, Agni, (our foes to ensure our) exceeding prosperity : may your riches ever be excellent : preserve in concord the relation of man and wife, and overpower the energies of the hostile.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pavitreṣṭi, this verse beginning अग्ने शर्ध (*agne śardha*) is to be recited as the yājyā mantra at the Sviṣṭakṛt offering; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2-12). Again, in the Sākamedha sacrifices, when the offering is made with the words मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालं (*marudbhyaḥ krīḍibhyaḥ puroḍāśaṃ saptakapālaṃ*), this verse is to be recited as the yājyā mantra at the Sviṣṭakṛt offering; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2-18).
+
+### Printed p. 155
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्धस्य॒ प्रम॑ह॒सोऽग्ने॒ वंदे॒ तव॒ श्रियं॑ ।  
+> वृ॒ष॒भो द्यु॒म्नवा॑ असि॒ सम॑ध्व॒रेष्वि॑ध्यसे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्धस्य । प्रमहसः । अग्ने । वंदे । तव । श्रियं ।  
+> वृषभः । द्युम्नवान् । असि । सं । अध्वरेषु । इध्यसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समिद्धस्य प्रवृद्धस्य प्रमहसः प्रकृष्टतेजसस्तव संबंधिनीं श्रियं
+> दीप्तिं वंदे । .अहं यजमानः सौमि । वृषभः कामानां वर्षिता त्वं द्युम्नवानसि । धनवान्भवसि । अध्वरेषु यज्ञेषु समिध्यसे । सम्यग्दीप्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, I, the sacrificer, praise (*stauti*) **NOTE** the glory (*śrī*), that is, the brightness, that belongs to you, who are kindled, that is, grown strong, of excellent splendour (*pramahas*). You are the showerer (*vṛṣabha*) of desires and are wealthy (*dyumnavān*). In the sacrifices (*adhvareṣu*) you are well kindled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- समिद्धस्य (*samiddhasya*)—who are fully kindled
+- प्र महसः (*pra mahasaḥ*)—and who have most excellent splendour
+- तव (*tava*)—your
+- श्रियं (*śriyaṃ*)—splendour
+- वंदे (*vaṃde*)—I bow to
+- वृषभः (*vṛṣabhaḥ*)—you, the showerer of desires
+- द्युम्नवान् (*dyumnavān*)—wealthy with brightness
+- आसि (*āsi*)—are
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- सं इध्यसे (*saṃ idhyase*)—you are well kindled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I bow to the splendour of you, who are fully kindled and have most excellent splendour. You, the showerer of desires, are wealthy with brightness. In the sacrifices you are well kindled.
+
+##### English translation
+I praise the glory, Agni, of you when kindled and blazing fiercely : you are the affluent showerer ( of benefits ), you are fitly lighted at sacrifices.
+
+### Printed p. 156
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑द्धो अग्न आहुत दे॒वान्य॑क्षि स्वध्वर ।  
+> त्वं हि ह॑व्य॒वाळसि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्धः । अग्ने । आहुत । देवान् । यक्षि । सुअध्वर ।  
+> त्वं । हि । हव्यनाट् । असि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासयोः समिद्धो अग्न आहुतेति द्वे सामिधेन्न्यौ । सूत्रितं
+> च । समिद्धो अग्न आहुतेति द्वे । आ. १-२ । इति ॥
+> हे आहुत यजमानैरा समंताद्भुत हे स्वध्वर शोभनयज्योपेत हे
+> अग्ने समिद्धः सम्यग्दीप्तस्त्वं देवान्दोतमानानिंद्रादीन्यक्षि । यजस्व । हि यस्मात्कारणात् हे अग्ने त्वं हव्यनाडसि हव्यानां वोढा भवसि । अतः कारणाद्देवान्यजस्वेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+In the new-moon and full-moon sacrifices, the two verses beginning *samiddho agna āhuta* are the two Sāmidhenī verses. The sūtra says so: समिद्धो अग्न आहुतेति द्वे (*samiddho agna āhuteti dve*) (Ā. 1-2). O invoked one (*āhuta*), called from every side by the sacrificers; O one of good sacrifice (*svadhvara*); O Agni, being fully kindled, worship (*yakṣi*, that is, *yajasva*) the gods, Indra and the other shining ones. For you are the bearer of the oblations (*havyavāṭ*, that is, *havyānāṃ voḍhā*); for that reason, the connection is, worship the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आहुत (*āhuta*)—called by the sacrificers
+- स्वध्वर (*svadhvara*)—having an excellent sacrifice
+- अग्ने (*agne*)—O Agni
+- समिद्धः (*samiddhaḥ*)—fully kindled
+- त्वं (*tvaṃ*)—you
+- देवान् (*devān*)—for the gods
+- यक्षि (*yakṣi*)—perform the sacrifice
+- हि (*hi*)—because
+- त्वं (*tvaṃ*)—you
+- हव्यवाट् (*havyavāṭ*)—the bearer of the oblation
+- असि (*asi*)—are
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, called by the sacrificers and having an excellent sacrifice, you are the bearer of the oblation to the gods. Therefore, as soon as you are kindled by the sacrificer, perform the sacrifice for the gods.
+
+##### English translation
+Agni, you are kindled and invoked ; worship the gods at the holy rite, for you are the bearer of the oblation.
+
 ---
 
-**Progress note:** Done through printed p. 150. Sūkta 27 Ṛk 2-6 and Sūkta 28 start, pp. 145-150
+**Progress note:** Done through printed p. 156. Sūkta 28 Ṛk 1-5, pp. 151-156
