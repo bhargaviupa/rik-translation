@@ -55,7 +55,9 @@ def render_english(raw, notes, where):
         notes.append((*where, re.sub(r'[⟦⟧]', '', m.group(1)).strip(), before)); return '**NOTE**'
     text = NOTE.sub(note, raw)
     text = re.sub(r'(?<=\S)\*\*NOTE\*\*', ' **NOTE**', text)
-    text = re.sub(r'⟦(.*?)⟧', lambda m: f'{m.group(1).strip()} (*{deva_to_iast(m.group(1).strip())}*)', text, flags=re.S)
+    L = '[\u0900-\u0965\u0970-\u097F]'                                  # Devanagari letters and signs, not digits
+    unhyphen = lambda q: re.sub(f'(?<={L})-\\s*(?={L})', '', q.strip())      # a line-end hyphen of the supplied text
+    text = re.sub(r'⟦(.*?)⟧', lambda m: f'{unhyphen(m.group(1))} (*{deva_to_iast(unhyphen(m.group(1)))}*)', text, flags=re.S)
     return [l.rstrip() for l in text.splitlines()]
 KEPT = ('samhita', 'pada', 'bhashya', 'gist', 'grammar')
 SUKTA = re.compile(r'^Sūkta\s+(\d+)(?:\s+\(Maṇḍala\s+(\d+)\))?\s*$')

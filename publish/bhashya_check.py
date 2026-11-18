@@ -74,7 +74,7 @@ def main():
     if parts[0].strip(): faults.append('text before the first heading')
     got = [(parts[i].strip(), parts[i + 1]) for i in range(1, len(parts), 2)]
     readings = got.pop()[1] if got and got[-1][0] == 'Readings' else ''
-    alldeva = ''.join(u['deva'] for u in units.values())
+    alldeva = ''.join(u['deva'] for u in units.values()).replace('-', '')
     nread = 0
     for ln in readings.splitlines():
         if not ln.strip(): continue
@@ -82,7 +82,7 @@ def main():
         if not re.match(r'^- (Introduction|Ṛk \d+): ⟦[^⟧]+⟧ → .+ — .+', ln):
             faults.append(f'Readings: line not in the form "- Ṛk N: ⟦supplied⟧ → reading adopted — basis": {ln[:70]}')
         for q in re.findall(r'⟦(.*?)⟧', ln):
-            if SQUEEZE.sub('', q) not in alldeva: faults.append(f'Readings: ⟦{q[:50]}⟧ is not in this sūkta letter for letter')
+            if SQUEEZE.sub('', q).replace('-', '') not in alldeva: faults.append(f'Readings: ⟦{q[:50]}⟧ is not in this sūkta letter for letter')
         if DEVA.search(re.sub(r'⟦.*?⟧', '', ln)): faults.append(f'Readings: Devanagari outside ⟦ ⟧: {ln[:70]}')
     if [h for h, _ in got] != list(units):
         faults.append(f'headings are {[h for h, _ in got]}; expected {list(units)}')
@@ -95,7 +95,7 @@ def main():
         if body.count('⟦') != body.count('⟧'): faults.append(f'{h}: unbalanced ⟦ ⟧')
         quotes = re.findall(r'⟦(.*?)⟧', body, flags=re.S)
         for q in quotes:
-            if SQUEEZE.sub('', q) not in u['deva']:
+            if SQUEEZE.sub('', q).replace('-', '') not in u['deva'].replace('-', ''):      # a line-end hyphen of the supplied text does not count
                 faults.append(f'{h}: ⟦{q[:50]}⟧ is not in this unit letter for letter')
         outside = re.sub(r'⟦.*?⟧', '', body, flags=re.S)
         m = DEVA.search(outside)
