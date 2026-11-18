@@ -1886,6 +1886,270 @@ The sūkta beginning कदा भुवन् (*kadā bhuvan*) has five Ṛks a
 
 This sūkta, "Kadā bhuvan", is the twelfth sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Nara, born in the family of Bharadvāja; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇikā: "कदा नरस्तु (*kadā narastu*)", thus
 
+### Printed p. 45
+
+has been said. It was said earlier that this sūkta is used for the third Chandoma mantras, and, in the Mahāvrata sacrifice, for the mantras of the Niṣkevalya śastra.
+
+##### Particulars
+
+- Sūkta 35
+- Maṇḍala 6; Anuvāka 3; Sūkta 35
+- Aṣṭaka 4; Adhyāya 7; Varga 7
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Nara
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा भु॑व॒न्रथ॑क्षयाणि॒ ब्रह्म॑ क॒दा स्तो॒त्रे स॑हस्रपो॒ष्यं॑ दाः।  
+> क॒दा स्तोमं॑ वासयोऽस्य रा॒या क॒दा धियः॑ करसि॒  ॑
+> वाजरत्नाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । भुवन् । रथक्षयाणि । ब्रह्म । कदा । स्तोत्रे । सहस्रपोष्यं । दाः ।  
+> कदा । स्तोमं । वासयः । अस्य । राया । कदा । धियः । करसि । वाज्ररत्नाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ब्रह्म ब्रह्माणि स्तोत्राण्यस्मदीयानि रथक्षयाणि रथनिवासानि कदा
+> कस्मिन्काले भुवन् । भवेयुः । रथेवस्थितं त्वां कदा प्राप्नुवंतीत्यर्थः । कदा
+> कस्मिन्काले स्तोत्रे स्तुवते मह्यं सहस्रपोष्यं सहस्रसंख्याकपुरुषपोषकं
+> गोसमूहं पुत्रं वा दाः । कदा चास्य मम स्तोतुः स्तोमं स्तोत्रं राया
+> धनेन वासयः । व्यापयेः । धियः कर्माणि चाग्निहोत्रादीनि वाजरत्ना
+> वाजैरन्नॆ रमणीयाः कदा कस्मिन्काले करसि कुर्याः । एवं स्तोता फलस्य
+> विलंबमसहमान इंद्रमनया पृष्टवान् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when will our hymns (ब्रह्म (*brahma*), that is, our praises), which have the chariot for their dwelling (रथक्षयाणि (*rathakṣayāṇi*)), come to be? The meaning is: when will they reach you as you stand on the chariot? When will you give me, who praise you, the सहस्रपोष्यं (*sahasrapoṣyaṃ*), that is, a herd of cattle or a son that nourishes a thousand persons? When will you make this hymn of mine, the singer's, pervade (वासयः (*vāsayaḥ*)) with wealth? And when will you make my rites, such as the agnihotra and the rest (धियः (*dhiyaḥ*)), delightful with food (वाजरत्नाः (*vājaratnāḥ*), delightful with vāja, that is, with food)? Thus the singer, unable to bear the delay of the fruit, asked Indra with this Ṛk.
+
+### Printed p. 46
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्म (*brahma*)—our hymns (O Indra)
+- कदा (*kadā*)—when
+- रथक्षयाणि (*rathakṣayāṇi*)—as dwelling in your chariot (with you)
+- भुवन् (*bhuvan*)—will they be?
+- कदा (*kadā*)—at what time
+- स्तोत्रे (*stotre*)—to me, the praiser
+- सहस्रपोष्यं (*sahasrapoṣyaṃ*)—wealth that nourishes thousands of people
+- दाः (*dāḥ*)—will you give?
+- कदा (*kadā*)—when
+- अस्य (*asya*)—of me, the singer
+- स्तोमं (*stomaṃ*)—the hymn
+- राया (*rāyā*)—with wealth
+- वासयः (*vāsayaḥ*)—will you make it fruitful?
+- धियः (*dhiyaḥ*)—our rites
+- कदा (*kadā*)—when
+- वाजरत्नाः (*vājaratnāḥ*)—delightful with food
+- करसि (*karasi*)—will you make?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when will our hymns reach you, who stand on the chariot? When will you give to me, the singer, wealth that nourishes thousands of people? When will you make the praise of me, the singer, fruitful with wealth? When will you make our rites delightful with food?
+
+##### English translation
+When may our prayers (be with you) in your chariot? when will you grant to your adorer the i(means of) maintaining thousands? when will you recompense my adoration with riches? when will you render sacred rites productive of food?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कर्हि॑ स्वि॒त्तदिं॑द्र॒ यन्नृभि॒र्नन्वी॒रैर्वी॒रान्नि॒ळया॑से॒ जया॒जीन् ।  
+> त्रि॒धातु॒ गा अधि॑ जयासि॒ गोष्टिंद्र॑ द्यु॒म्नं स्व॑र्वद्धेह्य॒स्मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कर्हि । स्वित् । तत् । इंद्र । यत् । नृभिः । न्यन् । वीरैः । वीरान् । नीळयासे ।  
+> जय । आजीन् ।  
+> त्रिधातु । गाः । अधि । जयासि । गोषु । इंद्र । द्युम्नं । स्वःवत् । धेहि ।  
+> अस्मे इति ॥ २ ॥
+
+### Printed p. 47
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> फलस्य विलंबमसहमान ऋषिरनयापींद्रं पृच्छति । हे इंद्र कर्हि स्वित्कदा
+> खलु तद्ववेत् । नृभिरस्मदीयैः पुरुषैन्रन् शत्रुपुरुषान् तथा वीरैरस्मदीयैः
+> पुत्रैर्वीराना शत्रुपुत्रांश्च यन्नीळयासे त्वं संश्लेषयेः संयोजयेः ॥
+> नीळयतिः संश्लेषणकर्मा ॥ ईदृशं युद्दे यत्संश्लेषणं तत्कदा भवेदिति वितर्कः ।
+> अपि चास्मदर्थं त्वमाजीन् संग्रामान् कदा जय । जयेः । कदा च गोष्टभिगंतृषु शत्रुषु विद्यमानास्त्रिधातु त्रिधातूनां क्षीरदधिघृतानां त्रयाणां
+> धारयित्रिर्गा अधि जयासि । अधिकं जयेः । हे इंद्र त्वं स्वर्वत् व्याप्तिमत्
+> द्युम्नं धनमस्मे अस्मासु कदा धेहि । धारयेः ॥
+
+##### Gist of the bhāṣya
+
+The seer, unable to bear the delay of the fruit, asks Indra with this Ṛk also. O Indra, "when indeed" (कर्हि स्वित् (*karhi svit*)) would that be, that you bring together (नीळयासे (*nīḷayāse*)) with our men the enemy men, and with our heroes, that is, our sons, the enemy heroes and sons? The root नीळयतिः (*nīḷayatiḥ*) has the sense of joining. Such a joining in battle, when would it be? so runs the question. Moreover, when will you win the battles for us? And when will you win in addition (अधि जयासि (*adhi jayāsi*)) the cattle that are found among the enemies who approach the cow-pen, cattle that bear the three threefold products (त्रिधातु (*tridhātu*): milk, curds and ghee)? O Indra, when will you place among us pervading (स्वर्वत् (*svarvat*)) wealth (द्युम्नं (*dyumnaṃ*), that is, riches)?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नृभिः (*nṛbhiḥ*)—with our men
+- नृन् (*nṛn*)—(bringing face to face) the enemy men
+- वीरैः (*vīraiḥ*)—with our heroic sons
+- वीरान् (*vīrān*)—(bringing face to face) the enemy heroes
+- यत् (*yat*)—whatever effort for battle there is
+- तत् (*tat*)—that
+- कर्हि स्मित् (*karhi smit*)—when indeed
+- नीळयासे (*nīḷayāse*)—will you bring about?
+- आजीन् (*ājīn*)—the battles
+- जय (*jaya*)—will you make us win?
+- गोषु (*goṣu*)—among the opposing enemies
+- त्रिधातु (*tridhātu*)—having the substance of milk and the rest
+- गाः (*gāḥ*)—the cattle
+- अधि जयिसि (*adhi jayisi*)—will you win for us?
+- इंद्र (*iṃdra*)—O Indra
+- स्वर्वत् (*svarvat*)—all-pervading
+- द्युम्नं (*dyumnaṃ*)—wealth
+- अस्मे (*asme*)—in us
+- धेहि (*dhehi*)—will you establish?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when will you bring our heroic men together with the enemy heroes and make ready for battle? And when, causing the effort for battle to be made, will you bring us victory? When will you win for us and bring the cattle that are among the enemies who oppose us, cattle that have the three substances beginning with milk? O Indra, when will you establish all-pervading wealth in us?
+
+##### English translation
+When, Indra, will you bring together leaders with leaders, heroes with heroes, and give us victory in battles? when will you conquer from the enemy the threefold food-supplying cattle? (when will you grant) us, Indra, diffusive wealth?
+
+### Printed p. 48
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कर्हि॑ स्वि॒त्तदिं॑द्र॒ यज्ज॑रि॒त्रे वि॒श्वप्सु॒ ब्रह्म॑ कृ॒णवः॑ शविष्ठ ।  
+> क॒दा धियो॒ न नि॒युतो॑ युवासे क॒दा गोम॑घा॒ हव॑नानिगच्छाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कर्हि । स्वित् । तत् । इंद्र । यत् । जरित्रे । विश्वप्सु । ब्रह्म । कृणवः । शविष्ठ ॥  
+> तदा । धियः । न । नियुतः । युवासे । कदा । गोऽमघा । हवनानि । गच्छाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयापि कतिचित् प्रश्नाः क्रियंते । हे इंद्र कर्हि स्वित्कदा खलु तद्भवेत् ।
+> हे शविष्ठ बलवत्तमेंद्र त्वं जरित्रे स्तोत्रे विश्वप्सु बहुविधरूपं ब्रह्मान्नं कृणवः
+> करोषीति यत् तत्कदा भवेदिति वितर्कः । कदा च धियः कर्माणि । नेति समुच्चये ।
+> नियुतः स्तुतीश्च युवासे । आत्मनि योजयेः । कदा च त्वं गोमघा गोमघानि
+> गवां दातृणि । मंहतेर्दानार्थस्य रूपमुत्तरपदं ॥ हवनानि स्तोत्राणि गच्छाः ।
+> अभिगच्छेः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk also some questions are put. O Indra, when indeed would that be? O Śaviṣṭha, most mighty Indra, that you make (कृणवः (*kṛṇavaḥ*)) for the singer, the praiser, food (ब्रह्म (*brahma*)) of many forms (विश्वप्सु (*viśvapsu*)): when would that be? so runs the question. And when will you join (युवासे (*yuvāse*)) to yourself our rites (धियः (*dhiyaḥ*)) and the praises (नियुतः (*niyutaḥ*)), the word न (*na*) being in the sense of combination? And when will you approach (गच्छाः (*gacchāḥ*)) our hymns (हवनानि (*havanāni*)), which are givers of cattle (गोमघा (*gomaghā*))? The word मघा (*maghā*) is a form of the root meaning "to give", standing as the last member of the compound. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—O powerful one
+- इंद्र (*iṃdra*)—O Indra
+- जरित्रे (*jaritre*)—for the praiser
+- विश्वप्सु (*viśvapsu*)—of many kinds
+- ब्रह्म (*brahma*)—food
+- कृणवः (*kṛṇavaḥ*)—that you will make
+- यत् (*yat*)—which matter is famed
+- तत् (*tat*)—that
+- कर्हि स्मित् (*karhi smit*)—when indeed (will you bring about)
+- कदा (*kadā*)—when
+- धियः (*dhiyaḥ*)—our rites
+- न (*na*)—and
+- नियुतः (*niyutaḥ*)—the praises
+- युवासे (*yuvāse*)—will you unite to yourself?
+- कदा (*kadā*)—when
+- हवनानि (*havanāni*)—our hymns
+- गोमघा (*gomaghā*)—fruitful with riches
+- गच्छाः (*gacchāḥ*)—will you make?
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, the matter that is famed, that you make for him who praises you a wealth of food of many forms: when will you bring it about? When will you unite our rites and our praises in yourself? When will you make our hymns fruitful with the gift of wealth?
+
+### Printed p. 49
+
+##### English translation
+When most vigorous Indra, will you grant your worshipper that food which is all-sufficing ? whea will you combine (in yourself) worship and praises ? when will you render oblations productive of cattle ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स गोम॑घा जरि॒त्रे अश्व॑श्चंद्रा॒ वाज॑श्रवसो॒ अधि॑ धेहि॒ पृक्षः॑।  
+> पी॒पि॒हीषः॑ सु॒दुघा॑मिंद्र धे॒नुं भ॒रद्वा॑जेषु सु॒रुचो॑  
+> रुरुच्याः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । गोमघाः । जरित्रे । अश्वचंद्राः । वाजश्रवसः । अधि । धेहि । पृक्षः ।  
+> पीपिहि । इषः । सुदुघां । इंद्र । धेनुं । भरत्वाजेषु । सुरुचः । रुरुच्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स त्वं जरित्रे स्तोत्रे गोमघा गवां दात्रीरश्वश्चंद्रा अश्वैराह्लादयंतीर्वाजश्रवसो वाजैर्बलैः प्रसिद्धा एवंभूताः पृक्षोऽन्नानि भरद्वाजेषु
+> भरद्वाजपुत्रेष्वस्मास्वधि धेहि । धारय । तथेषस्तान्यन्नानि सुदुघां शोभनदोग्ध्रीं
+> धेनुं गां च हे इंद्र पीपिहि । प्यायय । आपि च ता इषो गौश्च सुरुचः
+> शोभनदीप्तयो यथा भवंति तथा त्वं रुरुच्याः । दीपयेः । शोभनदीप्तियुक्ताश्च ताः संत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, for the singer, the praiser, place (धेहि (*dhehi*), bestow) in us, the sons of Bharadvāja, foods (पृक्षः (*pṛkṣaḥ*)) that are givers of cattle (गोमघा (*gomaghā*)), delighting with horses (अश्वश्चंद्रा (*aśvaścaṃdrā*)) and famed for strength (वाजश्रवसः (*vājaśravasaḥ*)). And, O Indra, nourish (पीपिहि (*pīpihi*), make swell) those foods and the cow, the well-milking one (सुदुघां धेनुं (*sudughāṃ dhenuṃ*)). And make them shine (रुरुच्याः (*rurucyāḥ*)) in such a way that they become of beautiful radiance (सुरुचः (*surucaḥ*)): the meaning is, let them be endowed with beautiful radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you (O Indra)
+- जरित्रे (*jaritre*)—for the praiser
+- गोमघाः (*gomaghāḥ*)—those that furnish wealth of cattle
+- अश्वश्चंद्राः (*aśvaścaṃdrāḥ*)—those delightful with horses
+- वाजश्रवसः (*vājaśravasaḥ*)—those famed for strength
+- पृक्षः (*pṛkṣaḥ*)—the foods
+- भरद्वाजेषु (*bharadvājeṣu*)—in us, the sons of Bharadvāja
+- अधि धेहि (*adhi dhehi*)—fill
+- इंद्र (*iṃdra*)—O Indra
+- इषः (*iṣaḥ*)—those foods
+- सुदुघां धेनुं (*sudughāṃ dhenuṃ*)—the cows that are excellent milkers
+- पीपिहि (*pīpihi*)—make thrive
+- सुरुचः (*surucaḥ*)—so that they shine exceedingly
+- रुरुच्याः (*rurucyāḥ*)—make them radiant
+
+### Printed p. 50
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fill in us, the sons of Bharadvāja, for the singer, the foods that furnish wealth of cattle, are delightful with horses and are famed for strength. O Indra, make those foods and the cows that are excellent milkers thrive. Make them radiant, so that they shine exceedingly.
+
+##### English translation
+Grant Indra, to your adorer (abundant) food, productive of cattle, pleasant with horses, and renowned for vigour: multiply nourishment, and (cherish) the cows easily milked, and render them so that they may be resplendent.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमा नू॒नं वृ॒जन॑म॒न्यथा॑ च॒च्चूरो॒ यच्छ॑क्र॒ वि दुरो॑  ॒
+> गृणी॒षे ।  
+> मा निर॑रं शुक्र॒दुघ॑स्य धे॒नोरां॑गिर॒सान्ब्रह्म॑णा विप्र  
+> जिन्व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । आ । नूनं । वृजनं । अन्यथा । चित् । शूरः । यत् । शक्र । वि । दुरः । गृणीषे ।  
+> मा । निः । अरं । शुक्रदुघस्य । धेनोः । अंगिरसान् । ब्रह्मणा । विप्र । जिन्व ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नूनमद्यतनं वृजनं बाधकमस्मदीयं शत्रुमन्यथा चिदन्येनैव प्रकारेण योजय । येन प्रकारेण सर्वॆ जीवंति तद्विलक्षणं प्रकारं
+> मरणाख्यं प्रापयेत्यर्थः । आकारः पूरकः । हे शक्र सर्वकार्येषु शक्तेंद्र कूरः
+> शौर्यपेतो वि दुरो विशेषेण दारयिता शत्रूणां । यद्वा । दुरो द्वाराणि
+> शत्रुसंबंधीनि वि घटयंस्तं यद्यस्मादृणीषे अस्माभिः स्तूयसे तस्मात्कारणात्
+> शुक्रदुघस्य शुक्राणां निर्मलानां दोग्धुरिंद्रस्य धेनोर्वाचः स्तोत्रान्मा निररं ।
+> मा निर्गच्छेयं । यद्वा । शुक्रस्य पयसो दोग्धा धेनोस्त्वया दत्ताया
+
+##### Gist of the bhāṣya
+
+O Indra, you now (नूनं (*nūnaṃ*)) bring our present obstructing enemy (वृजनं (*vṛjanaṃ*)) to a different (अन्यथा (*anyathā*)) manner: that is, to a manner unlike that in which all live, the one called death. The syllable आ (*ā*) is a filler. O Śakra, Indra, capable in all works, brave and endowed with heroism, tearing the enemies apart in an especial manner (वि दुरः (*vi duraḥ*)). Or else: breaking open the doors belonging to the enemy. Since you are praised (गृणीषे (*gṛṇīṣe*)) by us, for that reason may I not go away (मा निररं (*mā niraraṃ*)) from the hymn, the speech, the cow of Indra, the milker of the pure and spotless (शुक्रदुघस्य (*śukradughasya*)). Or else: the milker of the pure milk, of the cow given by you.
+
 ---
 
-**Progress note:** Done through printed p. 44. Sukta 34 Rk 1-5 (rest of Rk 1 to Rk 5), start of Sukta 35
+**Progress note:** Done through printed p. 50. Sukta 35 Rk 1-5 (start), pp. 45-50
