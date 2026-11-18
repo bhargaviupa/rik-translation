@@ -20,9 +20,7 @@ NOT IN LIST	Piṅ.			no list form close to it	none		4							2			2
 NOT IN LIST	Vāja. Saṃ.			no list form close to it	none		4										1							3
 NOT IN LIST	V.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											1		3				
 NOT IN LIST	VI.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											3		1				
-NOT IN LIST	Mu.			too short to tell: could be Mu. U.	none		4												4					
 NOT IN LIST	U. Śaṃ. Bhā.			no list form close to it	none		4												4					
-NOT IN LIST	Muṇḍ. U.			no list form close to it	none		4												4					
 NOT IN LIST	R. V. I.			no list form close to it	none		3	1									2							
 NOT IN LIST	Nṛ. Tā.			no list form close to it	none		3	1		2														
 NOT IN LIST	nai.			no list form close to it	none		3		2								1							
@@ -36,7 +34,6 @@ NOT IN LIST	Ṛk. Ve.			no list form close to it	none		3					3
 NOT IN LIST	III.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		3							1						2				
 NOT IN LIST	VIII.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		3										2			1				
 NOT IN LIST	Pu.			no list form close to it	none		3											2	1					
-NOT IN LIST	Muṇḍaka.			no list form close to it	none		3											2	1					
 NOT IN LIST	Śa. Prā.			no list form close to it	none		3											3						
 NOT IN LIST	Pa. Prā.			no list form close to it	none		3											2	1					
 NOT IN LIST	i. e. Ni.			no list form close to it	none		3												1		2			
@@ -70,7 +67,6 @@ NOT IN LIST	Ta. Brā.			no list form close to it	none		2											1	1
 NOT IN LIST	Bṛ. Me.			no list form close to it	none		2												2					
 NOT IN LIST	Prai. U.			no list form close to it	none		2												2					
 NOT IN LIST	Śrī. Ā.			no list form close to it	none		2												2					
-NOT IN LIST	Muṇḍ.			no list form close to it	none		2												2					
 NOT IN LIST	Te. U.			no list form close to it	none		2												1			1		
 NOT IN LIST	Ś. Prā.			no list form close to it	none		2												2					
 NOT IN LIST	Kh. Saṃ.			no list form close to it	none		2												1			1		
@@ -353,6 +349,8 @@ mistake	Pā. Gṛ. Sū.	→ Sāṃ. Gṛ. Sū.					4					3												1
 mistake	Bṛ. Je.	→ Bṛ. De.					4											2	2					
 mistake	Bṛ. Pe.	→ Bṛ. De.					4											1	2					1
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
+mistake	Mu.	→ Mu. U.					4												4					
+mistake	Muṇḍ. U.	→ Mu. U.					4												4					
 mistake	Kṛ. U.	→ Tai. U.					4												1				3	
 mistake	Mu. Saṃ.	→ Ṛ. Saṃ.					4													1	1		2	
 mistake	Atharva.	→ Ath. Saṃ.					4																	4
@@ -364,6 +362,7 @@ mistake	manu.	→ Ma. Smṛ.					3					1			1	1
 mistake	Ait. Br.	→ Ai. Brā.					3					2					1							
 mistake	vā. saṃ.	→ Vā. Saṃ.					3									3								
 mistake	Ait. Ār.	→ Ai. Ā.					3										3							
+mistake	Muṇḍaka.	→ Mu. U.					3											2	1					
 mistake	Chā.	→ Chā. U.					3												2				1	
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
 mistake	pū. mī.	→ Jai. Sū.					2	2																
@@ -381,6 +380,7 @@ mistake	Praśna. U.	→ Pra. U.					2												1				1
 mistake	Kaṭha. U.	→ Ka. U.					2												2					
 mistake	Āśv. Śrau.	→ Ā. Sū.					2												2					
 mistake	Kṛ. Ā.	→ Tai. Ā.					2												1				1	
+mistake	Muṇḍ.	→ Mu. U.					2												2					
 mistake	sā.	→ Pā. Sū.					2														2			
 mistake	Pā. Rū.	→ Pā. Sū.					2															2		
 mistake	Manu.	→ Ma. Smṛ.					2																2	
