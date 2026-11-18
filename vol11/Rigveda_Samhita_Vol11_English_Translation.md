@@ -148,7 +148,7 @@ Om. Sūkta 137. Maṇḍala 1, Anuvāka 2, Sūkta 136**NOTE**. Aṣṭaka 2, Adh
 > तस्मान्मैत्रावरुणं पयसा श्रीणातीति हि ब्राह्मणं । मत्सरास्त्रि हेतवः सोमाः ।
 > मत्सरः सोमो मंदतेस्तृप्तिकर्मण इति यास्कः । नि. २-५ । इमेपुरतो गृहीता
 > वर्तंते । आत आ यातं ! पुनस्त एव विशेष्यंते । इमे सोमासो मत्सरा मदहेतवो मादने मात्सर्यवंतो वेतरयज्ञगतसोमेभ्यः सोमाः । कीदृशौ
-> युवां । राजाना राजनशीलौ । दिविस्पृशा द्युलोकवासिनौ ॥ हृद्दुभ्यां जीरुपसंख्यानं । पा. ६-३-९-१ । इत्यलुक् ॥ ईदृश् युवामस्मत्रास्मासु मध्येऽस्मत्पालका वा युवां नोऽस्मत्संबंधिनं यज्ञमुप गंतं । आगच्छतं । किंच हे मित्रावरुणैतन्नामान् देवौ नां युवयोरर्थायेमे सोमा गवाशिरः । पूर्ववद्विकारे प्रकृतिशब्दः । गोभिः क्षीरैराशिरो मिश्रिताः संजाताः । किंच गवाशिरो गोभिरुदकेभिर्मिश्रिताः संजाताः । यद्वा । गोभिः स्तुतिलक्षणैर्मंत्रैर्मिश्रिताः । अत एव
+> युवां । राजाना राजनशीलौ । दिविस्पृशा द्युलोकवासिनौ ॥ हृद्दुभ्यां जीरुपसंख्यानं । पा. सू. ६-३-९-१ । इत्यलुक् ॥ ईदृश् युवामस्मत्रास्मासु मध्येऽस्मत्पालका वा युवां नोऽस्मत्संबंधिनं यज्ञमुप गंतं । आगच्छतं । किंच हे मित्रावरुणैतन्नामान् देवौ नां युवयोरर्थायेमे सोमा गवाशिरः । पूर्ववद्विकारे प्रकृतिशब्दः । गोभिः क्षीरैराशिरो मिश्रिताः संजाताः । किंच गवाशिरो गोभिरुदकेभिर्मिश्रिताः संजाताः । यद्वा । गोभिः स्तुतिलक्षणैर्मंत्रैर्मिश्रिताः । अत एव
 > शुक्रा दीप्ताः संजाताः । आशिरमव नयति सशुक्रत्वाय । तै. सं. ६-१-५ । इति
 > श्रुतेः ॥
 
@@ -758,7 +758,7 @@ In the same way the words सरीमणि (*sarīmaṇi*), सरीसृप
 ### Printed p. 30
 - नवीयसीम् — अतिशयेन नवा नवीयसी ताम् । अतिशयार्थे ईयसुन् प्रत्ययः । यस्येति च इत्यकारलोपः । उगितश्च इति स्त्रीत्वे जीप् । ईयसुन् जॆ नित्त्वात् आद्युदात्तस्वरो भवति । द्वितीयाकवचनांतरूपम् । **NOTE**
 - रायः — द्वितीयाबहुवचनांतरूपम् । ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
-- ईमहे — ईज् गतौ धातुः । ईमहे यामि (निरु. ३-१९-१) इति याचनार्थे पठितम् । लट् उत्तमपुरुषबहुवचने वहिज् प्रत्ययः । टेः एत्वम् । बहुलं छंदसि (पा. सू. २-४-७३) इति विकरणस्य लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
+- ईमहे — ईज् गतौ धातुः । ईमहे यामि (नि. ३-१९-१) इति याचनार्थे पठितम् । लट् उत्तमपुरुषबहुवचने वहिज् प्रत्ययः । टेः एत्वम् । बहुलं छंदसि (पा. सू. २-४-७३) इति विकरणस्य लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
 - अहेळमानः — हेडृ अनादरे धातुः । भ्वादिः । लडर्थे शानच् प्रत्ययः । शप् विकरणम् । आनेमुक् (पा. सू. ७-२-८) इत्यंगस्य मुकागमः । न हेळमानः । तत्पुरुषे तुल्यार्थं (पा. सू ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरो भवति ।
 - सरी — सृ गतौ धातुः । तस्माद् औणादिकः इनि प्रत्ययः । तं निमित्तीकृत्य धातोर्गुणः । उरणप्ररः इति रपरत्वेन भवति । सरिन् शब्दो भवति । आद्युदात्तस्वरोऽपि उणादित एव सिद्धः । प्रथमाएकवचनांतरूपम् । **NOTE**
 - वाजेवाजे — नित्यवीप्सयोः (पा. सू. ८-१-४) इति द्विर्वचनम् । परस्य आम्रेडितसंज्ञा भवति । अनुदात्तं च (पा. सू. ८-१-३) इति तत् सर्वानुदात्तं भवति ।
@@ -995,7 +995,7 @@ Here it means the strength of weapons, or of those who do harm. In the present �
 विश्वायुरसि पृथिवीं दृग्‌ह ध्रुवक्षिवसि (*viśvāyurasi pṛthivīṃ dṛgha dhruvakṣivasi*) (Tai. Saṃ. 1-2-19)
 the first meaning fits. Or, if the meaning "sacrifice" is taken, support for that meaning too is found in Saṃhitā sentences such as:
 इयं वेदिः परो अंतः पृथिव्या अयं यज्ञोभुवनस्य नाभिः । (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā ayaṃ yajñobhuvanasya nābhiḥ |*) (Ṛ. Saṃ. 1. 164-35)
-यज्ञ माहुर्भुवनस्य नाभिं (*yajña māhurbhuvanasya nābhiṃ*) (Trai. Saṃ. 7-4-18)**NOTE**
+यज्ञ माहुर्भुवनस्य नाभिं (*yajña māhurbhuvanasya nābhiṃ*) (Tai. Saṃ. 7-4-18)**NOTE**
 Either of the two meanings may be given.
 विवस्वति (*vivasvati*)—दीप्तिमति (*dīptimati*), that is, "shining". It is an adjective of the word nābhā. In the Ṛgveda-Saṃhitā the word vivasvat is used in different senses. Besides meaning "shining" and "man", it is also a proper name, the name of a person.
 
@@ -1204,11 +1204,11 @@ The verse is used at the Pṛṣṭhya Ṣaḍaha, on the sixth day, in the Prau
 > मधुपूर्णे रथे पवयस्तन्नेमयः प्रषायंते । क्षरंति स्रवंति ॥ पुष प्लुष
 > स्नेहनसेचनपूरणेषु । छंदसि शायजपीत्यहावपि श्वः शायजादेशः ॥ मधुपूर्णपात्रोपेतत्वात् शीघ्रगमनेन चक्रेषु मधूनि स्रवंतीति भावः । पवी रथनेमिर्भवति
 > यद्विपुनाति भूमिमिति निरुक्तं । ५-५ । अश्विनो रथस्य मधुपूर्णत्वं त्रयः पवयो
-> मधुवाहने रथे । ऋ. १-३४-२ । इत्यादिषु प्रसिद्दं । किंच तादृशे हिरण्मये हृदयरमणे रथे मधुरं हनिर्वहनमिति शेषः ॥
+> मधुवाहने रथे । ऋ. सं. १-३४-२ । इत्यादिषु प्रसिद्दं । किंच तादृशे हिरण्मये हृदयरमणे रथे मधुरं हनिर्वहनमिति शेषः ॥
 
 ##### Gist of the bhāṣya
 
-...heard on every side, as it were, and so they praise. श्लोक (*śloka*) is a name of speech; the further remark about श्लोको धार (*śloko dhāra*) is garbled. What kind of men are they? They bring you near with oblations, ghee and the like, facing you. Further, O विश्ववेदसा (*viśvavedasā*), owners of all wealth, "all your श्रियः (*śriyaḥ*)", all desirable fortune in the form of wealth, gold and the like, they enjoy abundantly (so the sentence is completed). Further, food also they obtain in abundance through your favour. Further, O दस्रा (*dasrā*), destroyers of enemies, in the golden car filled with honey the पवयः (*pavayaḥ*), the fellies, प्रषायंते (*praṣāyaṃte*): they drip, they flow. The root is पुष प्लुष स्नेहनसेचनपूरणेषु (*puṣa pluṣa snehanasecanapūraṇeṣu*); in the Veda the replacement शायज् (*śāyaj*) occurs. The idea is that because the car carries vessels full of honey, honey streams on the wheels with its swift going. The Nirukta (5-5) says: पवी रथनेमिर्भवति यद्विपुनाति भूमिमिति (*pavī rathanemirbhavati yadvipunāti bhūmimiti*). That the Aśvins' car is full of honey is well known in passages such as त्रयः पवयो मधुवाहने रथे (*trayaḥ pavayo madhuvāhane rathe*) (Ṛ. 1-34-2). Further, in such a golden, heart-delighting car, the sweet carrying of the oblation (is to be supplied).**NOTE**
+...heard on every side, as it were, and so they praise. श्लोक (*śloka*) is a name of speech; the further remark about श्लोको धार (*śloko dhāra*) is garbled. What kind of men are they? They bring you near with oblations, ghee and the like, facing you. Further, O विश्ववेदसा (*viśvavedasā*), owners of all wealth, "all your श्रियः (*śriyaḥ*)", all desirable fortune in the form of wealth, gold and the like, they enjoy abundantly (so the sentence is completed). Further, food also they obtain in abundance through your favour. Further, O दस्रा (*dasrā*), destroyers of enemies, in the golden car filled with honey the पवयः (*pavayaḥ*), the fellies, प्रषायंते (*praṣāyaṃte*): they drip, they flow. The root is पुष प्लुष स्नेहनसेचनपूरणेषु (*puṣa pluṣa snehanasecanapūraṇeṣu*); in the Veda the replacement शायज् (*śāyaj*) occurs. The idea is that because the car carries vessels full of honey, honey streams on the wheels with its swift going. The Nirukta (5-5) says: पवी रथनेमिर्भवति यद्विपुनाति भूमिमिति (*pavī rathanemirbhavati yadvipunāti bhūmimiti*). That the Aśvins' car is full of honey is well known in passages such as त्रयः पवयो मधुवाहने रथे (*trayaḥ pavayo madhuvāhane rathe*) (Ṛ. Saṃ. 1-34-2). Further, in such a golden, heart-delighting car, the sweet carrying of the oblation (is to be supplied).**NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -1354,7 +1354,7 @@ That is, because it pierces the body the arrow-head is called *pavi*; because he
 
 ##### Gist of the bhāṣya
 
-"O Dasras, Aśvins!" What is about to be said, your wish, is known to all. What is it? That is now told: you go specially (व्यृण्वथः (*vyṛṇvathaḥ*), from the root *ṛṇu*, "to go") to heaven (नाकं (*nākaṃ*)), that is, after the sacrifice is completed; उ (*u*) is for emphasis. Or else: *nāka* is *a-kam*, "without sorrow"; you go specially to the sacrifice free of sorrow. For that purpose your charioteers, the yokers of your chariot, yoke (the horses) in the quests for heaven (दिविष्टिषु (*diviṣṭiṣu*)), that is, in the quests of the shining sacrifice, or in goings that are the occasion; or (they yoke) you on the yoked chariot. They are qualified: in goings through the heavens, through the sky that has no support, they do not destroy the chariot or those who rest on it. Further, O Dasras, Aśvins, (we have placed you) on your chariot with three *bandhuras*. The *bandhura* is a special piece of wood that is the support of the yoke-fastening; a chariot having three such is well known in passages such as रथो यो नां त्रिवंधुरः (*ratho yo nāṃ trivaṃdhuraḥ*) (Ṛ. 8-22-5). On the golden chariot—upon such a chariot—we have set (you) (स्थाम (*sthāma*), "we caused to stand"). What kind are you? Going toward heaven by a good road, in the unsupported sky, "rajas" being in the nature of what gives colour; for it is said that the worlds are called *rajas*. अनुशासता (*anuśāsatā*): ruling, bringing under control, the unfavourable enemies. Further, अंजसा (*aṃjasā*): chiefly, excellent *rajas*, that is water in the form of rain, शासता (*śāsatā*): controlling by force.
+"O Dasras, Aśvins!" What is about to be said, your wish, is known to all. What is it? That is now told: you go specially (व्यृण्वथः (*vyṛṇvathaḥ*), from the root *ṛṇu*, "to go") to heaven (नाकं (*nākaṃ*)), that is, after the sacrifice is completed; उ (*u*) is for emphasis. Or else: *nāka* is *a-kam*, "without sorrow"; you go specially to the sacrifice free of sorrow. For that purpose your charioteers, the yokers of your chariot, yoke (the horses) in the quests for heaven (दिविष्टिषु (*diviṣṭiṣu*)), that is, in the quests of the shining sacrifice, or in goings that are the occasion; or (they yoke) you on the yoked chariot. They are qualified: in goings through the heavens, through the sky that has no support, they do not destroy the chariot or those who rest on it. Further, O Dasras, Aśvins, (we have placed you) on your chariot with three *bandhuras*. The *bandhura* is a special piece of wood that is the support of the yoke-fastening; a chariot having three such is well known in passages such as रथो यो नां त्रिवंधुरः (*ratho yo nāṃ trivaṃdhuraḥ*) (Ṛ. Saṃ. 8-22-5). On the golden chariot—upon such a chariot—we have set (you) (स्थाम (*sthāma*), "we caused to stand"). What kind are you? Going toward heaven by a good road, in the unsupported sky, "rajas" being in the nature of what gives colour; for it is said that the worlds are called *rajas*. अनुशासता (*anuśāsatā*): ruling, bringing under control, the unfavourable enemies. Further, अंजसा (*aṃjasā*): chiefly, excellent *rajas*, that is water in the form of rain, शासता (*śāsatā*): controlling by force.
 
 ### Printed p. 56
 
@@ -1458,7 +1458,7 @@ it is said that the sorrowless world of heaven is beyond the world of the sun. I
 
 - दस्रा — सुपां सुलुक् इति विभक्तेराकारादेशः । आमंत्रितनिघातस्वरो भवति ।
 - अचेति — चिती संज्ञाने धातुः । कर्मणि लुजि प्रथमपुरुषैकवचने तप्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति तस्य चिण् । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । चिणोलुक् इति प्रत्ययस्य लुक् । अंगस्य अडागमः । पादादौ वर्तमानत्वान्निघातस्वरो न भवति । अडागमस्योदात्तत्वादाद्युदात्तो भवति ।
-- ऋण्वथः — ऋणु गतौ धातुः । तनादिः । लेटि मध्यमपुरुषद्विवचने थस् प्रत्ययः । लेटोडाटौ (पा सू. ३-४-९४) इति तस्याडागमः । तनादिकृञ्भ्यउः (पा. सु. ३-१-७९) इति उ विकरणः । तस्य यणादेशः । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- ऋण्वथः — ऋणु गतौ धातुः । तनादिः । लेटि मध्यमपुरुषद्विवचने थस् प्रत्ययः । लेटोडाटौ (पा सू. ३-४-९४) इति तस्याडागमः । तनादिकृञ्भ्यउः (पा. सू. ३-१-७९) इति उ विकरणः । तस्य यणादेशः । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
 - नाकम् — न अकः नाकः । नलोपो नञाः इति नलोपे प्राप्ते नभ्राण्नपात्— (पा. सू. ६-३-२५) इति प्रकृतिभावो निपातितः । तत्पुरुषेतु— (पा. सू. ६-२-२) इत्यव्ययपूर्वपदप्रकृतिस्वरो भवति ।
 - युज्जते — युजिर् योगे धातुः । प्रयोजकव्यापारस्य दर्शनादंतर्भावितण्यर्थको धातुः । लटि प्रथमपुरुषबहुवचनांतरूपम् । तिजंतस्य परत्वादतिजः इति निषेधान्निघातस्वरो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति ।
 - रथयुजः — रथे योजयंति इति रथयुजः । पूर्ववदांतर्भावितण्यर्थकाद्युजिर् धातोः क्विप् प्रत्ययः । प्रथमाबहुवचनांतरूपम् । गतिकारकोपपदात् कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
@@ -1931,7 +1931,7 @@ The Maruts, as the subjects of the gods, pervade the whole atmosphere. Those who
 
 ता ना एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः । (*tā nā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ |*) (Ai. Ā. 1-2-2)
 
-मयि स्तोभो, मयि स्तोमो मयि श्लोको मयि घोषो मयि यशः । (*mayi stobho, mayi stomo mayi śloko mayi ghoṣo mayi yaśaḥ |*) (I. Ā. 5-1.-5) **NOTE**
+मयि स्तोभो, मयि स्तोमो मयि श्लोको मयि घोषो मयि यशः । (*mayi stobho, mayi stomo mayi śloko mayi ghoṣo mayi yaśaḥ |*) (Ai. Ā. 5-1.-5) **NOTE**
 
 येनेदमन्नं पच्यते यदिदमद्यते तस्यैष घोषो भवति । (*yenedamannaṃ pacyate yadidamadyate tasyaiṣa ghoṣo bhavati |*) (Śa. Brā. 14-8-10-1)
 
@@ -2138,7 +2138,7 @@ Formerly, when Prajāpati was performing a sattra sacrifice lasting three years,
 
 In the Taittirīya Saṃhitā the manner in which Atri performed the Caturātra sacrifice, which praises Atri's glory and bestows wealth, is related:
 अत्रिरददादौर्वाय प्रजां पुत्रकामाय......स एतं चतुरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्य चत्वारो वीरा आजायंत...य एवं वेद विद्वान् ......तामेव यजमान यध्नोति । (*atriradadādaurvāya prajāṃ putrakāmāya......sa etaṃ caturātramapaśyattamāharattenāyajata tato vai tasya catvāro vīrā ājāyaṃta...ya evaṃ veda vidvān ......tāmeva yajamāna yadhnoti |*)
-(Kṛ. Saṃ. 7-1-8)**NOTE**
+(Tai. Saṃ. 7-1-8)**NOTE**
 In these sentences, after telling of the special blessings Atri obtained through the Caturātra sacrifice, it says that any sacrificer who knows this secret known to Atri and performs the sacrifice will obtain for himself the victory and wealth that Atri obtained.
 
 Atri's self-luminousness, indicated by the epithet सूर्यानलसमद्युतिः (*sūryānalasamadyutiḥ*)—that he gives light even to the sun and the rest, the very bases of light, when they are enveloped in darkness—is described both in the Ṛk Saṃhitā and in the Śatapatha and other Brāhmaṇas. For example:
@@ -2160,9 +2160,9 @@ The nature of this Atri is not merely physical radiance; that it is also spiritu
 ##### Grammar
 
 - जनुषम् — जनी प्रादुर्भावे धातुः । जनेरुसिः (उ. सू. २-२७२) इति अस्मात् औणादिकः उसि प्रत्ययः भवति । जनुस् शब्दः भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । द्वितीयाविकवचनांतरूपम् ।
-- आंगिराः — अंगिराः अंगाराः (निरु. ३-१७) इति यास्कैः उक्तम् । ऐतरेयब्राह्मणेऽपि “ येंगिरा आसन् ते अंगिरसोभवन्” (ऐ. ब्रा.३-३४) इति उक्तम् । अतः अंगिरसमुनेः कारणत्वात् अंगाररूपात् अग्नेः अंगिरस् रूपं भवति ।
+- आंगिराः — अंगिराः अंगाराः (नि. ३-१७) इति यास्कैः उक्तम् । ऐतरेयब्राह्मणेऽपि “ येंगिरा आसन् ते अंगिरसोभवन्” (ऐ. ब्रा.३-३४) इति उक्तम् । अतः अंगिरसमुनेः कारणत्वात् अंगाररूपात् अग्नेः अंगिरस् रूपं भवति ।
 - प्रियमेधः — प्रियमेधः प्रिया अस्य मेधाः (निरु ३-१७) इति यास्कः आह । प्रियः मेधः यस्य सः । बहुव्रीहौ प्रकृत्यापूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
-- अत्रिः — न विद्यंते त्रीणि यस्य सः अत्रिः । अत्रिः न त्रयः (निरु. ३-१७) इति यास्कैः उक्तम् । अदेस्त्रिनिच (उ. सू. ५-७७४) इत्यत्र चकारेण अनुवृत्तः त्रि प्रत्ययः आद् धातोः भवति । व्यत्ययेन आद्युदात्तः भवति ।
+- अत्रिः — न विद्यंते त्रीणि यस्य सः अत्रिः । अत्रिः न त्रयः (नि. ३-१७) इति यास्कैः उक्तम् । अदेस्त्रिनिच (उ. सू. ५-७७४) इत्यत्र चकारेण अनुवृत्तः त्रि प्रत्ययः आद् धातोः भवति । व्यत्ययेन आद्युदात्तः भवति ।
 
 ### Printed p. 88
 - विदुः — विद ज्ञाने धातुः । लट् प्रथमपुरुषबहुवचने विदो लटोवा (पा. सू. ३-४-८३) इति झेः उसादेशः । अदिप्रभृतिभ्यः शपः इति शपः लुक् । प्रत्ययसकारस्य रुत्वविसर्गौ । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
@@ -2200,11 +2200,11 @@ The nature of this Atri is not merely physical radiance; that it is also spiritu
 > तदर्थ० बृहस्पतिर्भृहतो मंत्रस्य हविषो ना पालकोऽध्वयुर्दैव्यू बृहस्पतिर्वा
 > स्वयमेव यजति । यागं करोति । कीदृशः सः । वेनः कामयमानः । केन साधनेनेति तदुच्यते । उक्षभिः सेचकैः सोमैः पुरुषारेभिर्बहुभिर्वरणीयैः तथोक्षभिः
 > सेचनसमर्थैरुदकैः तन्निमित्तभूतैर्हूयमानैराहुतिभिरादित्यद्वारा वृष्टुत्पन्नैः ।
-> वयं यजमाना दूरआदिशं दूरदेश आदिगादेशो यस्य तादृशं ॥ हलदंतात्सप्तम्याः पा. ६-३-९ । इत्यलुक् ॥ अद्रेः । जातावेकवचनं । अभिषवसाधनस्य ग्राव्णः
+> वयं यजमाना दूरआदिशं दूरदेश आदिगादेशो यस्य तादृशं ॥ हलदंतात्सप्तम्याः पा. सू. ६-३-९ । इत्यलुक् ॥ अद्रेः । जातावेकवचनं । अभिषवसाधनस्य ग्राव्णः
 > श्लोकं वाचं ध्वनिं जगृभ्य । गृहीमः श्रोत्राभ्यां । पूजार्थं बहुवचनं ।
 > इदानीं परोक्षकृतः। सुक्रतुः । शोभनकर्मायं यजमानोऽधाध यागसंपूर्त्यनंतरमररिंदानि । उदकनामैतत् । अररिंदानि ध्वस्मन्वदिति तन्नामसु पाठात् । वृष्टिलक्षणान्युदकानि त्मनात्मनाधारयत् । धारयति ॥ ररिर्दाता । नास्त्यन्यो ररिरस्य
 > पिपासोपशमनस्य तादृशं पिपासोपशमनं ददतीत्यररिंदानि । यद्वा । आररिरितश्चेतश्च गमनं । औणादिकोऽरिप्रत्ययः । आतोऽनुपसर्गॆ कः । पृषोदरादित्वादभिमतस्वरूपस्वरसिद्धिः । तद्ददतीत्यररिंदान्युदकानि । चेष्टाप्रदानीत्यर्थः । आपोमयः
-> प्राणः । छां. उ. ६-५-४। इति श्रुतेः। यद्वा । ररिर्दानं । न विद्यते तादृशं दानमितरभूतेषु तदर । तद्ददतीत्यररिंदानि । अन्वैरदेयं लोकोपकारि भोगं ददतीत्यर्थः ॥ तादृशान्युदकानि यागेनोत्पादितवानित्यर्थः । किंच सुक्रतुः । शोभनकर्मायं पुरु पुरूणि बहूनि सद्मानि सदनानि सुखनिवासयोग्यानि गृहाण्यधारयत्
+> प्राणः । छा. उ. ६-५-४। इति श्रुतेः। यद्वा । ररिर्दानं । न विद्यते तादृशं दानमितरभूतेषु तदर । तद्ददतीत्यररिंदानि । अन्वैरदेयं लोकोपकारि भोगं ददतीत्यर्थः ॥ तादृशान्युदकानि यागेनोत्पादितवानित्यर्थः । किंच सुक्रतुः । शोभनकर्मायं पुरु पुरूणि बहूनि सद्मानि सदनानि सुखनिवासयोग्यानि गृहाण्यधारयत्
 
 ##### Gist of the bhāṣya
 
@@ -2326,13 +2326,13 @@ The author of the Bṛhaddevatā calls this Ṛk a Bārhaspatya Ṛk: मार�
 > तत्संख्याका भवथ । यद्वा । अंतरिक्षस्येयं संज्ञा । आपः पृथिवीत्यंतरिक्षनामसु
 > पाठात् । यद्यपि तिस्र एव देवता इत्युक्तत्वात् क्षित्याद्यभिमानिन्नो देवतास्तिस्र एव
 > तथापि महिना महत्वेन स्वस्वनिभूत्या त्रयस्त्रिंशत्संख्याका भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् । महिना देवास इत्येते सर्वत्र संबध्येते । ते यूयं
-> हे देवासो मिलित्योक्तसंख्याका देवा इममस्मदीयं यज्ञं जुषध्वं । संभजध्वं । तत्संबंधि हविर्वा सेवित्वा प्रीणयध्वं ॥ एकं च दश चैकादश । प्रागेकादशभ्यः । पा. ५-३-४९ । इति निपातनाद्दीर्घः । संख्यॆति पूर्वपदप्रकृतिस्वरत्वं ॥
+> हे देवासो मिलित्योक्तसंख्याका देवा इममस्मदीयं यज्ञं जुषध्वं । संभजध्वं । तत्संबंधि हविर्वा सेवित्वा प्रीणयध्वं ॥ एकं च दश चैकादश । प्रागेकादशभ्यः । पा. सू. ५-३-४९ । इति निपातनाद्दीर्घः । संख्यॆति पूर्वपदप्रकृतिस्वरत्वं ॥
 
 ##### Gist of the bhāṣya
 
 Viniyoga: on the sixth day of the Daśarātra, in the Prauga-śastra, this is the second Ṛk, ये देवास (*ye devāsa*), of the Viśvedeva tṛca. It is prescribed in the sūtra ये देवासो दिव्येकादश स्थेयमददाद्रभसु (*ye devāso divyekādaśa stheyamadadādrabhasu*) (Ā. 8-1).
 
-"O gods, shining ones, you who are eleven in heaven, the world of Dyu; likewise you are eleven on the earth, above; and further you are the अप्स्युक्षितः (*apsyukṣitaḥ*), eleven in number." The word means those who dwell (क्षियंति (*kṣiyaṃti*)) in the *apas*, the atmosphere; it is formed from the root *kṣi* with *kvip*, and the case ending is not elided in a tatpuruṣa. So "you who dwell in the atmosphere are eleven." Or else *apas* here is a name of the atmosphere, since आपः पृथिवी (*āpaḥ pṛthivī*) are read among the names of the atmosphere. Although, as stated, there are only three deities, the deities presiding over the earth and the rest, yet by महिना (*mahinā*), their greatness and their own powers, they come to be thirty-three in number; for it is said that the others, abiding in those places, are their manifestations. महिना (*mahinā*) and देवासः (*devāsaḥ*) are to be connected throughout. "You, O gods, of the numbers stated, taken together, enjoy this sacrifice of ours": accept it, or be gratified by partaking of the oblation connected with it. एकं च दश चैकादश (*ekaṃ ca daśa caikādaśa*) (eleven is one and ten): the lengthening is by *nipātana* in accordance with प्रागेकादशभ्यः (*prāgekādaśabhyaḥ*) (Pā. 5-3-49), and the word has the accent of its first member.
+"O gods, shining ones, you who are eleven in heaven, the world of Dyu; likewise you are eleven on the earth, above; and further you are the अप्स्युक्षितः (*apsyukṣitaḥ*), eleven in number." The word means those who dwell (क्षियंति (*kṣiyaṃti*)) in the *apas*, the atmosphere; it is formed from the root *kṣi* with *kvip*, and the case ending is not elided in a tatpuruṣa. So "you who dwell in the atmosphere are eleven." Or else *apas* here is a name of the atmosphere, since आपः पृथिवी (*āpaḥ pṛthivī*) are read among the names of the atmosphere. Although, as stated, there are only three deities, the deities presiding over the earth and the rest, yet by महिना (*mahinā*), their greatness and their own powers, they come to be thirty-three in number; for it is said that the others, abiding in those places, are their manifestations. महिना (*mahinā*) and देवासः (*devāsaḥ*) are to be connected throughout. "You, O gods, of the numbers stated, taken together, enjoy this sacrifice of ours": accept it, or be gratified by partaking of the oblation connected with it. एकं च दश चैकादश (*ekaṃ ca daśa caikādaśa*) (eleven is one and ten): the lengthening is by *nipātana* in accordance with प्रागेकादशभ्यः (*prāgekādaśabhyaḥ*) (Pā. Sū. 5-3-49), and the word has the accent of its first member.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -2836,7 +2836,7 @@ As the Muṇḍaka and other Upaniṣads praise the fruit of offering oblations�
 
 असमनाः (*asamanāḥ*)—असमानमनस्काः । काश्चन प्राङ्मुख्यो गच्छंति काश्चन प्रत्यङ्मुख्यः इति विविधमनस्काः (*asamānamanaskāḥ | kāścana prāṅmukhyo gacchaṃti kāścana pratyaṅmukhyaḥ iti vividhamanaskāḥ*). The meaning is: those whose nature is to spread and burn towards various directions. Or else असमना भिन्नवर्णाः (*asamanā bhinnavarṇāḥ*): it can be understood as "those having different colours".
 
-काली कराली च मनोजवा च सुलोहिता या च सूधूम्रवर्णा । स्फुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः । (*kālī karālī ca manojavā ca sulohitā yā ca sūdhūmravarṇā | sphuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ |*) (Muṇḍaka. 1-2-4)
+काली कराली च मनोजवा च सुलोहिता या च सूधूम्रवर्णा । स्फुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः । (*kālī karālī ca manojavā ca sulohitā yā ca sūdhūmravarṇā | sphuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ |*) (Mu. U. 1-2-4)
 
 The black-coloured one, the one of terrible form, the one swift as the mind, the one of exceedingly red colour, the brown-coloured one, the one of gleaming lustre, the one shining everywhere, the divine one—
 
@@ -2848,7 +2848,7 @@ since there is this description of the tongues, which are forms of flame, Sāya�
 
 - मुमुक्षुः—मुच्‌ल्य मोक्षणे धातुः । मोक्तुं इच्छंत्यः मुमुक्षवः । सनाशंसभिक्ष उः—(पा. सू. ३-२-१६८) इति सन्नंतात् उ प्रत्ययः । मुमुक्षुः इति रूपं भवति । प्रत्ययस्वरेण अंतोदात्तं भवति । अस्मात् जस् परे जसिच—इति गुणः प्राप्तश्चेत् जसादिषु छंदसि वा वचनम्—इति वचनेन विकल्पितत्वात् न भवति । यणादेशः । उदात्तस्थाने यणादेशे आगते तत्परे विभक्तौ आगतायां उदात्तस्वरयोर्यणः—(पा. सू. ८-२-४) इति स्वरितस्वरः भवति ।
 - मानवस्यते—मानवान् आत्मनः इच्छति मानवस्यति सुप आत्मनः क्यच्—(पा. सू. ३-१-८) इति इच्छार्थे क्यच् प्रत्ययः । सर्वप्रातिपदिकानां क्यचि लालसायां सुगसुता—(पा. सू. ७-१-५१-१) इति क्यच् परे सुकागमः । सनाद्यंता धातवः—इति धातुसंज्ञा । क्यजंतात् लडर्थे शतृ प्रत्ययः । चतुर्थीएकवचनांतरूपम् । नुम्‌रहितस्य शतृवः परे विभक्तौ आगतायां शतुरनुनो नद्यजादी—(पा. सू. ६-१-१७३) इति विभक्तेः उदात्तस्वरः भवति ।
-- रघुद्रुवः—लघु द्रुवंति इति रघुद्रुवः द्रु गतौ धातुः । भ्वादिः । क्विप् चॆ—(पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । पूर्वपदे वालमूललघ्वल—(पा. म. ८-२-१८) इति लत्वविकल्पः । प्रथमाबहुवचनांतरूपम् । कृदुत्तरपदप्रकृतिस्वरः भवति । **NOTE**
+- रघुद्रुवः—लघु द्रुवंति इति रघुद्रुवः द्रु गतौ धातुः । भ्वादिः । क्विप् चॆ—(पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । पूर्वपदे वालमूललघ्वल—(म. ८-२-१८) इति लत्वविकल्पः । प्रथमाबहुवचनांतरूपम् । कृदुत्तरपदप्रकृतिस्वरः भवति । **NOTE**
 - कृष्ण सीतासः—कृष्णाः सीताः येषां ते । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरः भवति । जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य आसुकागमः ।
 - जुवः—जु धातुः सूत्रमात्रनिर्दिष्टः गत्यर्थे प्रयुक्तः अस्ति । अस्मात् क्विप् प्रत्ययः । जस् परे उपजादेशः ।
 - असमनाः—न विद्यते समानं मनः येषां ते । व्यत्ययो बहुलं इति बहुवचनस्य एकवचनप्रत्ययः । नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति ।
@@ -3311,8 +3311,8 @@ they strive eagerly for an embrace. In the same way the thin flames of Agni embr
 
 ##### Grammar
 
-- केशिनीः — केशाः आसां संति इति अर्थविवक्षायां मत्त्वर्थे अत इनि ठनौ (पा. सू. ५-२-११५) इति इनि प्रत्ययः । नांतत्वात् स्त्रीत्वे ऋन्नेभ्योजीप् सूत्रेण जीप् । जनपरत्वे सुपां सुलुक् (पा. ३-१-३९) इति पूर्वसवर्णदीर्घः । प्रत्ययस्वरेण इकार उदात्तो भवति । **NOTE**
-- रेभिरे — रभ राभस्यै इति धातुः । लिटि प्रथमपुरुषबहुवचने लिटस्तझयोः इति इरे आदेशः । अत एकहल्मध्ये (पा. सू. ६-४-१२०) इति द्वित्वे आगते एत्वम् अभ्यासलोपः । हि इति पूर्वं विद्यमानत्वात् हिच (पा. सू. ८-१-३४) इति निघातप्रतिषेधे आगते प्रत्ययस्य चित्त्वात् चितः (पा. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- केशिनीः — केशाः आसां संति इति अर्थविवक्षायां मत्त्वर्थे अत इनि ठनौ (पा. सू. ५-२-११५) इति इनि प्रत्ययः । नांतत्वात् स्त्रीत्वे ऋन्नेभ्योजीप् सूत्रेण जीप् । जनपरत्वे सुपां सुलुक् (पा. सू. ३-१-३९) इति पूर्वसवर्णदीर्घः । प्रत्ययस्वरेण इकार उदात्तो भवति । **NOTE**
+- रेभिरे — रभ राभस्यै इति धातुः । लिटि प्रथमपुरुषबहुवचने लिटस्तझयोः इति इरे आदेशः । अत एकहल्मध्ये (पा. सू. ६-४-१२०) इति द्वित्वे आगते एत्वम् अभ्यासलोपः । हि इति पूर्वं विद्यमानत्वात् हिच (पा. सू. ८-१-३४) इति निघातप्रतिषेधे आगते प्रत्ययस्य चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
 - तस्थुः — ष्ठा गतिनिवृत्तौ इति धातुः । लिटि प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
 - ममुषीः — मृज् प्राणत्यागे इति धातुः । अस्मात् लिटि आगते क्वसुश्च (पा. सू. ३-२-७६) इति तस्य क्वसुरादेशः । तं निमित्तीकृत्य धातोर्द्वित्वम् । उरत् इति अभ्यासस्य अत्वम् । रपरत्वे आगते आदिहल् शेषः । उगित्त्वात् स्त्रीत्वे उगितश्च इति जीप् । भसंज्ञायां वसोः संप्रसारणम् इति संप्रसारणम् । संप्रसारणाच्च इति पूर्वरूपम् । धातोः ऋकारस्य यणादेशः । शासिवसिघसीनां च (पा. सू. ८-३-६०) इति षत्वम् । जस्परत्वे सुपां सुलुक् इति पूर्वसवर्णदीर्घः ।
 - प्रमुञ्ज्न् — मुच्ल्य मोक्षणे इति धातुः । प्रेरणातोरुवुदरिंद अंतर्भावितण्यर्थको धातुः । लडर्थे शतृप्रत्ययः । श विकरणम् । शेमुचादीनाम् (पा. सू. ६-१-२०) इति सुमागमः । प्रथमाएकवचनांतरूपम् । विकरणस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
@@ -3514,7 +3514,7 @@ In Ṛks such as this it is said that for one who has obtained Agni's refuge, ho
 - वृषभः—वृषु सेचने इति धातुः । ऋषिवृषिभ्यां कित् (उ. सू. ४-४०३) इति अभच् प्रत्ययः । कित्त्वविधानात् गुणः न भवति । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
 
 ### Printed p. 142
-- दमूनाः—दमयति इति दमूनाः । दम उपशमे इति धातुः । दमेरूनसिः (उ. सू. ४-६७४) इति औणादिकः ऊनसि प्रत्ययः । अस्य शब्दस्य विषये यास्केनापि एवमुक्तम् । दमूना दममाना वा दानमना वा दांतमना वापि दम इति गृहनाम तन्मनाः स्यात् (निरु. ४-४) इति ।
+- दमूनाः—दमयति इति दमूनाः । दम उपशमे इति धातुः । दमेरूनसिः (उ. सू. ४-६७४) इति औणादिकः ऊनसि प्रत्ययः । अस्य शब्दस्य विषये यास्केनापि एवमुक्तम् । दमूना दममाना वा दानमना वा दांतमना वापि दम इति गृहनाम तन्मनाः स्यात् (नि. ४-४) इति ।
 - अवास्य—अव उपसर्गः । असु क्षेपणे इति धातुः । समासेनञ् पूर्वेक्तोल्यप् (पा.सू. ७-१-३७) इति ल्यप् । अयं पित्त्वात् धातुस्वरः शिष्यते । गतिकारकोपपदात्‌कृत् इति कृदुत्तरपद प्रकृतिस्वरः भवति ।
 - अदीदेः—दीदि धातुः पूर्वमुक्तः । छंदसि लुज् लज् लिटः (पा. सू. ३-४-६) इति लोडर्थे लज् । मध्यमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
 - युत्सु—यु मिश्रणामिश्रणयोः इति धातुः । क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । ह्रस्वस्य पिति कृति तुक् (पा सू. ६-१-७१) इति धातोः तुकागमः । सप्तमी बहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरः भवति ।
@@ -3601,7 +3601,7 @@ Here he has explained it as अस्मदभिप्रेतानि स्
 ते तन्वः शुचि शुक्रं (*te tanvaḥ śuci śukraṃ*): The radiance, pure and shining, of the flame-form body kindled by ghee. Thus the special quality of Agni's radiance after the sacrificial offering is described.
 
 अग्निश्शुचि व्रततमश्शुचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजंत ईरते । तव ज्योतीग्‌ष्यर्चयः ॥ (*agniśśuci vratatamaśśucirvipraḥ śuciḥ kaviḥ | śucī rocata āhutaḥ | udagne śucayastava śukrā bhrājaṃta īrate | tava jyotīgṣyarcayaḥ ‖*)
-(Kṛ. Saṃ. 1-3-14)**NOTE**
+(Tai. Saṃ. 1-3-14)**NOTE**
 
 As this is described in the Taittirīya Saṃhitā, Agni's white radiance is described.
 
@@ -3839,7 +3839,7 @@ The Asuras driven from there entered the uktha of the Brāhmaṇācchaṃsin. Th
 उदपुतो न वयो रक्षमाणा वावदतो अभ्रियस्येव घोषाः । गिरिभ्रजो नोर्मयो मदंतो बृहस्पतिमभ्यंकर्का अनावन् । (*udaputo na vayo rakṣamāṇā vāvadato abhriyasyeva ghoṣāḥ | giribhrajo normayo madaṃto bṛhaspatimabhyaṃkarkā anāvan |*) (Ṛ. Saṃ. 10-68-1)
 and praised Indra and Bṛhaspati. Then Indra and Bṛhaspati together drove the Asuras off from there.
 
-ते वै ततोऽपहता असुरा अच्छावाकस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्सावहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मादैंद्रावैष्णवमच्छावाकस्कृतीयसवने शंसतींद्रश्च हि तान्विष्णुश्च ततो नुदेतां । (*te vai tato 'pahatā asurā acchāvākasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsāvahā ityahaṃ cetyabravīdviṣṇustasmādaiṃdrāvaiṣṇavamacchāvākaskṛtīyasavane śaṃsatīṃdraśca hi tānviṣṇuśca tato nudetāṃ |*) (I. Bra. 15-6) **NOTE**
+ते वै ततोऽपहता असुरा अच्छावाकस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्सावहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मादैंद्रावैष्णवमच्छावाकस्कृतीयसवने शंसतींद्रश्च हि तान्विष्णुश्च ततो नुदेतां । (*te vai tato 'pahatā asurā acchāvākasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsāvahā ityahaṃ cetyabravīdviṣṇustasmādaiṃdrāvaiṣṇavamacchāvākaskṛtīyasavane śaṃsatīṃdraśca hi tānviṣṇuśca tato nudetāṃ |*) (Ai. Brā. 15-6) **NOTE**
 The Asuras driven out of the uktha of the Brāhmaṇācchaṃsin joined themselves to the uktha of the Acchāvāka. Then Indra rose and asked which of them would help him drive these out from here. Then Viṣṇu said he would help. At that time the Acchāvāka recited the sūkta beginning with the Ṛk
 — सं वां कर्मणा समिषा हिनोमींद्राविष्णू अपसस्पारे अस्य । जुषेथां यज्ञं द्रविणं च धत्तमरिष्टैर्नः पथिभिः पारयंता ॥ (*— saṃ vāṃ karmaṇā samiṣā hinomīṃdrāviṣṇū apasaspāre asya | juṣethāṃ yajñaṃ draviṇaṃ ca dhattamariṣṭairnaḥ pathibhiḥ pārayaṃtā ‖*) (Ṛ. Saṃ. 6-69-1)
 and praised Indra and Viṣṇu. Then they drove the Asuras off from there too. This story is recited in the Aitareya Brāhmaṇa (15-6). From it the power of the uktha, and the benefit that comes by it to the sacrificer who recites it, is understood.
@@ -4852,14 +4852,14 @@ By you Agni, Varuna, observant of his duties, and Mitra aud Aryaman, bountiful d
 ### Printed p. 199
 
 > हि शाशद्रे । तीक्ष्णिक्रियंते । हिशब्दो मंत्रांतरप्रसिद्धिद्योतनार्थः । त्वमग्ने
-> वरुणो जायसे । ऋ. ५-३-१ । इति हि मंत्रांतरं ॥ शदेः कर्मणि च्छांदसो लिट् ।
+> वरुणो जायसे । ऋ. सं. ५-३-१ । इति हि मंत्रांतरं ॥ शदेः कर्मणि च्छांदसो लिट् ।
 > इरयो र इति रेभावः । हि चेति निघाताभावः ॥ वरुणादीनामग्न्यायत्तत्व उपपत्तिमाह । यद्यस्मात्कारणात् हे अग्ने सीं सर्वतः क्रतुना कर्मणा विश्वथा विश्व इव
 > विश्वात्मक इव विभुर्मित्रार्यमात्मना सर्वव्यापी परिभूः स्वतेजसा सर्वतः परिभाविता
 > सन्ननुक्रमेणाजायथाः जायसे प्रामर्भवसि । तत्र दृष्टांतः । अरान्रथस्य चक्रान्नेमिर्न वाह्यवलय इव । स यथा व्याप्य तिष्ठति तद्वयमग्निर्वरुणादीन्व्याप्य तिष्ठति ॥
 
 ##### Gist of the bhāṣya
 
-… by you "are made keen" (तीक्ष्णिक्रियंते (*tīkṣṇikriyaṃte*)): this is शाशद्रे (*śāśadre*). The word हि (*hi*) shows what is well known from another mantra: त्वमग्ने वरुणो जायसे (*tvamagne varuṇo jāyase*) (Ṛ. 5-3-1), for this is the other mantra. (The grammar of शाशद्रे (*śāśadre*) and the absence of nighāta is added.) Sāyaṇa then states the ground for Varuṇa and the others being dependent on Agni. Because, O Agni, सीं (*sīṃ*) all around, by क्रतुना (*kratunā*) action, विश्वथा (*viśvathā*) as if universal, as if of the nature of the universe, विभुः (*vibhuḥ*) pervading all in the form of Mitra and Aryaman, परिभूः (*paribhūḥ*) being the one who excels all around by your own brilliance, you अजायथाः (*ajāyathāḥ*), were born, appeared, in due succession. The illustration: as the rim, the outer circle, does with the spokes of a chariot-wheel (अरान्रथस्य चक्रान्नेमिर्न वाह्यवलय इव (*arānrathasya cakrānnemirna vāhyavalaya iva*)). As it stands pervading them, so Agni stands pervading Varuṇa and the others.
+… by you "are made keen" (तीक्ष्णिक्रियंते (*tīkṣṇikriyaṃte*)): this is शाशद्रे (*śāśadre*). The word हि (*hi*) shows what is well known from another mantra: त्वमग्ने वरुणो जायसे (*tvamagne varuṇo jāyase*) (Ṛ. Saṃ. 5-3-1), for this is the other mantra. (The grammar of शाशद्रे (*śāśadre*) and the absence of nighāta is added.) Sāyaṇa then states the ground for Varuṇa and the others being dependent on Agni. Because, O Agni, सीं (*sīṃ*) all around, by क्रतुना (*kratunā*) action, विश्वथा (*viśvathā*) as if universal, as if of the nature of the universe, विभुः (*vibhuḥ*) pervading all in the form of Mitra and Aryaman, परिभूः (*paribhūḥ*) being the one who excels all around by your own brilliance, you अजायथाः (*ajāyathāḥ*), were born, appeared, in due succession. The illustration: as the rim, the outer circle, does with the spokes of a chariot-wheel (अरान्रथस्य चक्रान्नेमिर्न वाह्यवलय इव (*arānrathasya cakrānnemirna vāhyavalaya iva*)). As it stands pervading them, so Agni stands pervading Varuṇa and the others.
 
 **Special Topics** *(begins on the next page)*
 
@@ -5025,12 +5025,12 @@ in this Ṛk: कारे । कीर्यंत आयुधान्यत
 
 ##### Grammar
 
-- शशमानाय — शशमानः शंसमानः (निरु. ६-८) इति यास्कैः उक्तम् । स्तुत्यर्थकात् अस्मात् धातोः लडर्थे कानच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- शशमानाय — शशमानः शंसमानः (नि. ६-८) इति यास्कैः उक्तम् । स्तुत्यर्थकात् अस्मात् धातोः लडर्थे कानच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
 - सुन्वते — षुञ् अभिषवे धातुः । धात्वादेःषः सः इति आदेः सत्वम् । लडर्थे शतृ प्रत्ययः । स्वादिभ्यः श्नुः (पा. सू. ३-१-७३) इति श्नुविकरणम् । सार्वधातुकमपित् इति अस्य जत्वात् गुणः न भवति । यणादेशः । चतुर्थीएकवचनांतरूपम् । नुम् रहितस्य शतृप्रत्ययस्य परत्र विभक्तेः आगमनात् शतुरनुमो नद्यजादी (पा. सू. ६-१-१७३) इति तत् उदात्तं भवति । **NOTE**
 - रत्नम् — रमयतीति रत्नम् । रमेस्तच (उ. सू. ३-२९४) इति न प्रत्ययः । धातोः मकारस्य तकारादेशः । नित् इति अनुवृत्तेः आद्युदात्तस्वरः भवति ।
 - यविष्ठ — अतिशयेन युवा यविष्ठः । युवन् शब्दः । अस्मात् अतिशायने तम- (पा. सू. ५-३-५५) इति इष्टन् प्रत्ययः । स्कूलदूर- (पा. सू ६-४-१५६) इति यणादिपरस्य (वन्) लोपः ; उकारस्य गुणः । अजादिप्रत्ययपरत्वात् अपादेशः । संबुद्धौ आमंत्रितस्य च इति निघातस्वरः भवति ।
 - देवतातिम् — सर्वदेवात्तातिल् (पा. सू. ४-४-१४२) इति तातिल् प्रत्ययः । लित्त्वात् लिति (पा. सू. ६-१-१३९) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
-- इन्वसि — इवि व्याप्तौ धातुः । इन्वति ननक्ष (निरु. २-१८-१) इति व्याप्तिकर्मकधातुभिः सह पठितम् । इदित्त्वात् सुमागमः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्र आगमनात् निघातस्वरः भवति । **NOTE**
+- इन्वसि — इवि व्याप्तौ धातुः । इन्वति ननक्ष (नि. २-१८-१) इति व्याप्तिकर्मकधातुभिः सह पठितम् । इदित्त्वात् सुमागमः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्र आगमनात् निघातस्वरः भवति । **NOTE**
 
 ### Printed p. 207
 - नव्यम् — भवे छंदसि (पा. सू. ४-४-११०) इति यत् प्रत्ययः । यस्येति च इति अकारलोपः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति ।
@@ -5058,7 +5058,7 @@ in this Ṛk: कारे । कीर्यंत आयुधान्यत
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे अग्ने त्वमस्मे अस्मासु स्वर्थं सुष्ठरणीयं दमूनसं दमनीयमुपार्ज्य० ॥ दमेरूनसिः । उ. ४-२३४ । इत्यूनसिप्रत्ययः ॥ रयिं न पपृचासि धनं
+> हे अग्ने त्वमस्मे अस्मासु स्वर्थं सुष्ठरणीयं दमूनसं दमनीयमुपार्ज्य० ॥ दमेरूनसिः । उ. सू. ४-२३४ । इत्यूनसिप्रत्ययः ॥ रयिं न पपृचासि धनं
 > यथा संपृणक्षि । तथा भगं सर्वैर्भजनीयं दक्षं नोत्साहवंतं प्रबुद्धं वा
 > धर्णसिं विद्यादिधारणकुशलं पुत्रं यथा पपृचासि संपृणक्षि । उभयमपि ददासीत्य
 > र्थः ॥ पृची संपर्के । लेट्याडागमः। बहुलं छंदसीति विकरणस्य श्लुः । इदानीं
@@ -5300,12 +5300,12 @@ explained it as मूढा वयं स्मोमूढस्त्वम�
 > किंचेममग्निममी च पुरोवर्तमाना ऋत्विजः पुत्रादयो ना ये वयं च पूर्वं
 > स्तोतृत्वेन प्रसिद्धा वयमप्यत्यर्थं निष्टतन्युः । शब्दयंतु ॥ निष्पूर्वः स्तनतिः शब्दकर्मा ॥ इतः परमप्यस्मत्पुत्रपौत्रादयो वयं चाग्निं स्तुम इत्यर्थः । तत्र
 > वृष्टांतः । मिहं न सूरः । मिहं मेहनशीलं मेघं यथा सूरः सूर्यॆ वृष्ट्यर्थं शब्दयति तद्वत् ॥ लिजि च्छांदसो विकरणस्य श्लु । अभिनिस: स्तनः शब्दसंज्ञायां ।
-> पा. ८-३-८६ । इति षत्वं ॥
+> पा. सू. ८-३-८६ । इति षत्वं ॥
 
 ##### Gist of the bhāṣya
 
 This Agni has been praised, अस्तावि (*astāvi*), by us the sacrificers with hymns (अर्कैः (*arkaiḥ*), mantras that are the means of worship) belonging to those who perform rites such as offering the oblation; शिमा (*śimā*) is a word for "rite", since in the lists of such names the reading is "śimā, śaktiḥ". What is he like? He holds in a very high degree, प्रतरं (*prataraṃ*), brilliant splendour, shining well, for sovereignty; here the fourth case stands in the place of the sixth (साम्राज्यस्य (*sāmrājyasya*)). The suffix is अमु (*amu*) by the rule on the Veda.
-Further: these Ṛtvijs standing before us, and those sons and others, and we who are already famed as praisers, may all loudly sound his praise, निष्टतन्युः (*niṣṭatanyuḥ*) = शब्दयंतु (*śabdayaṃtu*); the root स्तनतिः (*stanatiḥ*) with निः (*niḥ*) means making sound. The sense is: henceforth also our sons, grandsons and we shall praise Agni. The illustration: मिहं न सूरः (*mihaṃ na sūraḥ*) — as the sun makes the rain-giving cloud sound for the sake of rain. The श्लु (*ślu*) in the verbal form is Vedic, and the cerebral ṣ comes by Pā. 8-3-86.
+Further: these Ṛtvijs standing before us, and those sons and others, and we who are already famed as praisers, may all loudly sound his praise, निष्टतन्युः (*niṣṭatanyuḥ*) = शब्दयंतु (*śabdayaṃtu*); the root स्तनतिः (*stanatiḥ*) with निः (*niḥ*) means making sound. The sense is: henceforth also our sons, grandsons and we shall praise Agni. The illustration: मिहं न सूरः (*mihaṃ na sūraḥ*) — as the sun makes the rain-giving cloud sound for the sake of rain. The श्लु (*ślu*) in the verbal form is Vedic, and the cerebral ṣ comes by Pā. Sū. 8-3-86.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -5704,7 +5704,7 @@ This terrestrial Agni is the nephew/grandson (नपात् (*napāt*)) of the
 - धृतवंतम् — धृतमस्यास्ति इति धृतवान् । तम् । तदस्यास्ति इति सूत्रेण मतुप् प्रत्ययः । पित्त्वात् अनुदात्तो भवति ।
 - मासि — मा माने इति धातुः । अदादिः । लट् मध्यमपुरुषैकवचने सिप् प्रत्ययः । अदिप्रभृतिभ्यः शपः इति शसि लुक् । अतिजंतस्य परत्वात् निघातस्वरो भवति । **NOTE**
 - तनूनपंत् — आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
-- यज्ञम् — यज देवपूजासंगतिकरणदानेषु इति धातुः । यजयाच—(पा. स. ३-३-९०) इति नज् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाएकवचनांतरूपम् ।
+- यज्ञम् — यज देवपूजासंगतिकरणदानेषु इति धातुः । यजयाच—(पा. सू. ३-३-९०) इति नज् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाएकवचनांतरूपम् ।
 - मावतः — युष्मदस्मदोः सादृश्ये वतुप् वाच्यः (पा. सू. ५-१-६५-२) इति सादृश्यार्थे प्रतीयमाने अस्मद् शब्दात् वतुप् प्रत्ययः । प्रत्ययोत्तरपदयोश्च (पा. सू. ७-२-९८) इति प्रकृतेः मादेशः । आ सर्वनाम्नः (पा. सू. ६-३-९१) इति वतुप् निमित्तम् आत्वम् । वतुप् पित्त्वात् अनुदात्तो भवति ।
 - शशमानस्य — शंसमान इति भवति स्थले शशमान इति रूपं भवति । चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । षष्ठीएकवचनांतरूपम् ।
 - दाशुषः — पूर्वस्मिन् मंत्रे व्याख्यातम् । षष्ठीएकवचनांतरूपम् ।
@@ -6034,7 +6034,7 @@ Although in many matters the authors of the Bṛhaddevatā follow the sentences 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > द्वारो देवीर्यज्ञस्य द्वाराभिमानिन्नो देवता वि श्रयंतां । विविधं
-> श्रयंतु । विवृता भवंतु । किमर्थ० । देवेभ्यः प्रयै प्रयातुं देवानां प्रापणाय ॥ प्रयै रोहिष्यॆ अव्यथिष्यॆ । पा. ३-४-१० । इति निपातितः ॥ कीदृश्यस्ताः । ऋतवृधो यज्ञस्य वर्धयित्र्यः पूज्याः महीर्महत्यः पावकास शोधयित्र्यः पुरुस्पृहो बहुस्वहणीयाः असश्च तोर्ऽसज्यमानाः परस्परविप्रकृष्टा इत्यर्थः ॥
+> श्रयंतु । विवृता भवंतु । किमर्थ० । देवेभ्यः प्रयै प्रयातुं देवानां प्रापणाय ॥ प्रयै रोहिष्यॆ अव्यथिष्यॆ । पा. सू. ३-४-१० । इति निपातितः ॥ कीदृश्यस्ताः । ऋतवृधो यज्ञस्य वर्धयित्र्यः पूज्याः महीर्महत्यः पावकास शोधयित्र्यः पुरुस्पृहो बहुस्वहणीयाः असश्च तोर्ऽसज्यमानाः परस्परविप्रकृष्टा इत्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
@@ -6069,7 +6069,7 @@ Let the bright, separable doors, the augmenters of sacrificial, the purifiers of
 Another point to be noticed here is that the word is in the plural, "doors". In the verse of an Āprī hymn,
 सप्त होत्राणि मनसा वृणाना इन्वंतो विश्वं प्रति यन्नृतेन । नृपेशसो विदथेषु प्र जाता अभीमं यज्ञं वि चरंत पूर्विः ॥ (*sapta hotrāṇi manasā vṛṇānā invaṃto viśvaṃ prati yannṛtena | nṛpeśaso vidatheṣu pra jātā abhīmaṃ yajñaṃ vi caraṃta pūrviḥ ‖*) (Ṛ. Saṃ. 3-4-5)
 the adjective पूर्विः (*pūrviḥ*) is also in the plural. And if we examine the duties of these door-deities:
-1) "Open out, ye sacrifice-increasing divine doors, unclinging" (वि श्रयंतां ऋतावृधो द्वारो देवीरसश्वतः (*vi śrayaṃtāṃ ṛtāvṛdho dvāro devīrasaśvataḥ*)), meaning "take them apart for the convenience of the sacrificer", in the verse Ṛ. 1-13-6;
+1) "Open out, ye sacrifice-increasing divine doors, unclinging" (वि श्रयंतां ऋतावृधो द्वारो देवीरसश्वतः (*vi śrayaṃtāṃ ṛtāvṛdho dvāro devīrasaśvataḥ*)), meaning "take them apart for the convenience of the sacrificer", in the verse Ṛ. Saṃ. 1-13-6;
 2) दुरो धृतान्यक्षरन् (*duro dhṛtānyakṣaran*), "they poured out waters", in 1-188-5;
 3) प्र प्र यज्ञं प्रणीत न (*pra pra yajñaṃ praṇīta na*), "they fill the sacrifice with fruit", in 5-5-5;
 4) इन्वंतो विश्वं प्रति यन्नृतेन (*invaṃto viśvaṃ prati yannṛtena*), "they quicken the whole world with water", in 3-4-5.
@@ -6109,7 +6109,7 @@ it says that these doors are wives of the gods; that they follow Agnāyī, who f
 - महीः — महतीः इत्यत्र छांदसत्वेन अतः लोपः । विभक्तौ परस्यां सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः ।
 - पावकासः — जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
 - पुरुस्पृहः — स्पृह ईप्सायां धातुः । क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
-- असश्चतः — ग्लुञ्च षस्ज गतौ धातुः । जकारस्य व्यत्ययेन चकारः । अस्मात् लडर्थे शतृ प्रत्ययः । न विद्यंते सश्चंतः गच्छंतः येषु असश्चतः । नञ्सुभ्याम् (पा. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- असश्चतः — ग्लुञ्च षस्ज गतौ धातुः । जकारस्य व्यत्ययेन चकारः । अस्मात् लडर्थे शतृ प्रत्ययः । न विद्यंते सश्चंतः गच्छंतः येषु असश्चतः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति ।
 
 #### Ṛk 7
 
@@ -6248,7 +6248,7 @@ in which Uṣā-naktā are prayed to sit on the sacred-grass seat not only with 
 
 नक्तोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते । (*naktoṣāsau ca ye devyāvāgneyyāveva te smṛte |*)
 श्याव्याग्नेयी हि कालस्य तस्यैवोषाः कलेव तु॥ (*śyāvyāgneyī hi kālasya tasyaivoṣāḥ kaleva tu‖*)
-(Bṛ. Je. 3-8)**NOTE**
+(Bṛ. De. 3-8)**NOTE**
 
 It is well known that these two deities, Uṣas and Nakta, are related to Agni. Of these, Śyāvī (the night-deity, 1-71-1) has a close relation with Agni; and from the Nirukta sentence उषः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣaḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni 2-18) it is known that Uṣas is the later part of that night.
 
@@ -6274,7 +6274,7 @@ Elsewhere in the Ṛk-saṃhitā, by epithets such as तंतुं ततं 
 - उपाके—अंतोदात्तस्वरे प्राप्ते व्यत्ययेन आद्युदात्तं भवति ।
 - नक्तोषसा—नक्तं च उषाश्च नक्तोषसा । द्विवचनस्य औकारविभक्तेः सुपां सुलुक्—(पा.सू. ७-१-३९) इति आकारादेशः । पूर्वपदस्य मकारस्य लोपः उत्तरपदे दीर्घश्च छांदसतया भवतः ।
 - सुपेशसा—शोभनं पेशः रूपं ययोस्ते । पूर्ववत् आकारादेशः । नञ्सुभ्याम् (पा. सू. ६-२-१६२) इति उत्तरपदांतोदात्तस्वरे प्राप्ते तस्यापवादतया आद्युदात्तं द्व्यच्छंदसि (पा. सू. ६-२-११९) इति उत्तरपदमाद्युदात्तस्वरं भवति ।
-- मातरा—सुपां सुलुक्—(पा. रू. ७-३९) इति विभक्तेः आकारादेशः ।**NOTE**
+- मातरा—सुपां सुलुक्—(पा. सू. ७-३९) इति विभक्तेः आकारादेशः ।**NOTE**
 - सीदताम्—षद्ल्य विशरणगत्यवसादनेषु । लोट्प्रथमपुरुषद्विवचने लज्ञद्भावत्वात् तामादेशः । पाघ्राध्मा—(पा. सू. ७-३-७८) इति सीदादेशः । अदुपदेशात् परं प्रत्ययस्यागतत्वात् तास्यनुदात्तेत्—सूत्रेण तदनुदात्तं भवति । तेन धातुस्वरः शिष्यते । पादादौ आगतत्वात् निघातस्वरो न भवति ।
 
 ### Printed p. 258
@@ -6429,11 +6429,11 @@ May the pure Hotra, placed among the gods, and Bharati, among the Maruts, and ma
 In this Ṛk a group of three deities is addressed and requested to come to the sacrifice. In all the Āprī hymns except the present hymn and hymn 1-18, these deities are put together and collectively designated तिस्रो देवीः (*tisro devīḥ*); Iḷā, Sarasvatī and Bhāratī are these three. There is much disagreement about the nature of these deities. In this hymn the goddess Bhāratī has the epithets hotrā, śuciḥ and arpitā (marutsu, deveṣu), and the goddess Sarasvatī has the epithet mahī. In some hymns the word mahī is not an epithet but is used as a synonym of the goddess Bhāratī. Whether the nature of these deities can be determined exactly here may be considered by taking Śruti and similar texts as authority. If we examine the mantra that designates these deities in the Praiṣa-sūkta, which collects the main points of the Āprī hymns:—
 
 ### Printed p. 264
-होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्येदमपस्तन्वतां । देवेभ्यो देवीर्देवमपो वियंत्वाज्यस्य होतरज ॥ (*hotāyakṣattisro devīrapasāmapastamā acchidramadyedamapastanvatāṃ | devebhyo devīrdevamapo viyaṃtvājyasya hotaraja ‖*) (Śai. Brā. 3-6-2-2) **NOTE**
+होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्येदमपस्तन्वतां । देवेभ्यो देवीर्देवमपो वियंत्वाज्यस्य होतरज ॥ (*hotāyakṣattisro devīrapasāmapastamā acchidramadyedamapastanvatāṃ | devebhyo devīrdevamapo viyaṃtvājyasya hotaraja ‖*) (Tai. Brā. 3-6-2-2) **NOTE**
 Thus the original has only तिस्रो देवीः (*tisro devīḥ*). Explaining this in the Bhāṣya: इडा, सरस्वती, भारतीत्येवंरूपास्ति स्रोऽष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु । (*iḍā, sarasvatī, bhāratītyevaṃrūpāsti sro 'ṣṭamaprayājadevyastadrūpamagniṃ daivyo hotā yajatu |*). It is said that the three eighth-prayāja goddesses, Iḍā, Sarasvatī and Bhāratī, are deities that mirror Agni. Further, अपसां अपस्तमाः (*apasāṃ apastamāḥ*), कर्मवतीनां मध्येऽतिश येन कर्मवत्यः । (*karmavatīnāṃ madhye 'tiśa yena karmavatyaḥ |*): by this epithet they are declared to be the most excellent of those who have work. In the Aitareya Brāhmaṇa:
 तिस्रो देवीर्यजति प्राणो वा अपानो व्यानस्तिस्रो देव्यस्ता एव तत्रिणाति ता यजमाने दधाति । (*tisro devīryajati prāṇo vā apāno vyānastisro devyastā eva tatriṇāti tā yajamāne dadhāti |*) (Ai. Brā. 2-4)
 Thus the identity of these three deities with the life-principles prāṇa, apāna and vyāna is stated. The Nirukta author cites the Ṛk 10-110-8, आ नो यज्ञं (*ā no yajñaṃ*), and gives its explanation thus: एतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यवदिह चेतयमाना तिस्रो देव्यः बर्हिरिदं सुखं सरस्वती च सुकर्माण असीदंतु । (*etu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyavadiha cetayamānā tisro devyaḥ barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa asīdaṃtu |*) (Ni. 8-13). Let the deity who is the radiance of Bharata (the sun), Iḷā and Sarasvatī adorn the barhis. In the Bṛhaddevatā:
-तिस्रस्तु देव्यो याः प्रोक्तास्त्रि स्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिषु त्रिषु वर्तिनी ॥ आग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमू स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*tisrastu devyo yāḥ proktāstri sthānaiveha sā tu vāk | trividhenocyate nāmnā jyotiṣu triṣu vartinī ‖ āgnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amū sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖ saiṣā tu trividhā vāgvai divi ca vyommi ceha ca vyastā caiva samastā ca bhajatyagnīnimānapi ‖*) (Bṛ. Pe. 3-12 to 14) **NOTE**
+तिस्रस्तु देव्यो याः प्रोक्तास्त्रि स्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिषु त्रिषु वर्तिनी ॥ आग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमू स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*tisrastu devyo yāḥ proktāstri sthānaiveha sā tu vāk | trividhenocyate nāmnā jyotiṣu triṣu vartinī ‖ āgnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amū sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖ saiṣā tu trividhā vāgvai divi ca vyommi ceha ca vyastā caiva samastā ca bhajatyagnīnimānapi ‖*) (Bṛ. De. 3-12 to 14) **NOTE**
 त्रिस्रो देव्यः (*trisro devyaḥ*) means the deities presiding over speech who dwell in all three worlds. [The three forms of speech are explained in Bṛ. De. verses 2-7 to 82.] **NOTE**
 अयं प्रयोगस्त्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogastveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*) (Bṛ. De. 1-91)
 
@@ -6570,7 +6570,7 @@ Such passages praise the work of creation of Tvaṣṭṛ. Moreover he has the e
 तुरीपं (*turīpaṃ*)—If only the etymology of the word तुरीप (*turīpa*) is considered, it means तूर्णं व्यापि (*tūrṇaṃ vyāpi*), "that which pervades swiftly"; that is, falling or pervading swiftly. According to the commentator it may be rain or it may be seed. In this Ṛk the commentator has made the word an epithet of rain. But
 तन्न स्तुरीपमध पोषयित्नु देव त्वष्टर्वि रराणः स्यस्व । यतो वीरः कर्मण्यः सुदक्षो युक्तग्रावा जायते देवकामः ॥ (*tanna sturīpamadha poṣayitnu deva tvaṣṭarvi rarāṇaḥ syasva | yato vīraḥ karmaṇyaḥ sudakṣo yuktagrāvā jāyate devakāmaḥ ‖*) (Ṛ. Saṃ. 3-4-9)
 in this Ṛk the word तुरीप (*turīpa*) is explained as generative seed. Since in the Praiṣa-sūkta the epithet रेतोधां (*retodhāṃ*) states a special quality of Tvaṣṭṛ, this meaning appears sound.
-त्वष्टे स्वाहा, त्वष्टे पुरीपाय स्वाहा, त्वष्टे पुरुरूपाय स्वाहा । (*tvaṣṭe svāhā, tvaṣṭe purīpāya svāhā, tvaṣṭe pururūpāya svāhā |*) (Kṛ. Saṃ. 7-3-15)
+त्वष्टे स्वाहा, त्वष्टे पुरीपाय स्वाहा, त्वष्टे पुरुरूपाय स्वाहा । (*tvaṣṭe svāhā, tvaṣṭe purīpāya svāhā, tvaṣṭe pururūpāya svāhā |*) (Tai. Saṃ. 7-3-15)
 **NOTE**
 In this Saṃhitā passage too, where the identity of Tvaṣṭṛ and तुरीप (*turīpa*) is stated, the word is explained as seed. The scholar Keith explains this mantra as "To Tvashtra, the Seminal". Or, since he is a deity of the middle world, he may be called the cause of the fall of rain.
 
@@ -6820,7 +6820,7 @@ He explains that it is well known as svāhākṛti either because one has recite
 It explains that since the oblation is completed by the svāhākṛti, that is the support of the whole sacrifice, and that it establishes the sacrifice on a proper foundation. In the Bṛhaddevatā:
 स्वाहाकृतयोऽनेकाश्च विदुषां मतयोऽभवन् । तत्सर्वं त्वयमेवाग्निर्भवतीति विनिश्चयः ॥ (*svāhākṛtayo 'nekāśca viduṣāṃ matayo 'bhavan | tatsarvaṃ tvayamevāgnirbhavatīti viniścayaḥ ‖*)
 अयं हि कर्ता स्वाहानां कृतिस्तासामिहैकजा । अयं प्रसूतिर्भूतानां सर्वेषामयमव्ययः ॥ (*ayaṃ hi kartā svāhānāṃ kṛtistāsāmihaikajā | ayaṃ prasūtirbhūtānāṃ sarveṣāmayamavyayaḥ ‖*)
-(Bṛ. Je. 3-29 to 31) **NOTE**
+(Bṛ. De. 3-29 to 31) **NOTE**
 
 Although the opinions of the learned about the svāhākṛti are not of one kind, the whole idea denoted by this word is directed to this terrestrial Agni. Since this Agni is the maker of svāhā and he himself is its making, the terrestrial Agni is so called. Following the view of the Nirukta-author, आग्नेयी इति तु स्थितिः (*āgneyī iti tu sthitiḥ*) (Ni. 8-22), the author of the Bṛhaddevatā has declared his opinion.
 
@@ -7100,13 +7100,13 @@ as "wisdom". In some places the word is also used in the sense of "praise". In t
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > स पूर्वोक्तोग्निर्जायमानोऽरणीभ्यामुत्पद्यमानः काष्ठेषु ना प्रादुर्भूतः सन् तदानीमेव परम उत्कृष्टे प्रोमनि विविधरक्षणवति वेदिदेशे मातरिश्वनेऽंतरिक्षसंचारिणे नाय्वे प्रथममाविरभवत् । प्रत्यक्षोऽभूत् । त्वमग्ने
-> प्रथमो मातरिश्वन आविर्भव । ऋ. १-३१-३। इत्यादिश्रुत्यंतरप्रसिद्धेः । वायुसंयोगात्पज्वलित इत्यर्थः । अथवा मातरि फलस्य निर्मातरि यज्ञॆ श्वसिति चेष्टत इति मातरिश्वा यजमानः । तदर्थं । किंच समिधानस्येंधनैः सम्यग्दर्धमानस्याग्नेर्मज्जना ।
+> प्रथमो मातरिश्वन आविर्भव । ऋ. सं. १-३१-३। इत्यादिश्रुत्यंतरप्रसिद्धेः । वायुसंयोगात्पज्वलित इत्यर्थः । अथवा मातरि फलस्य निर्मातरि यज्ञॆ श्वसिति चेष्टत इति मातरिश्वा यजमानः । तदर्थं । किंच समिधानस्येंधनैः सम्यग्दर्धमानस्याग्नेर्मज्जना ।
 > बलनामैतत् । बलवता क्रत्वा क्रतुना कर्मणा ज्वालनादिव्यापारेण शोचिद्यावा
 > पृथिवी द्यां च पृथिवीं च प्रारोचयत् । प्रकर्षणादीपयत् ॥ मध्यॆ शोचिःशब्दश्चांदसः ॥ मज्मना क्रत्वा समिधानस्येति वा योज्यं । प्रबलेन समिंधनादिव्यापारेण समिध्यमानस्येत्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-That Agni spoken of before, being born—arising from the two fire-sticks—and having appeared in the pieces of wood, at that very moment first manifested himself in the supreme, excellent व्योमनि (*vyomani*) (the place of varied protection, i.e. the altar), to मातरिश्वने (*mātariśvane*), the wind moving in the atmosphere. He became visible; this is known from another śruti, त्वमग्ने प्रथमो मातरिश्वन आविर्भव (*tvamagne prathamo mātariśvana āvirbhava*) (Ṛ. 1-31-3). The meaning: through contact with the wind he blazed up. Or else: Mātariśvan is the sacrificer, who breathes (śvasiti), i.e. exerts himself, in the sacrifice, the maker (nirmātṛ) of its fruit; for his sake. Further, by the मज्मना (*majmanā*) (a word for strength) of Agni, well kindled with fuel, by powerful क्रत्वा (*kratvā*), that is, by action, by the work of blazing and the like, the radiance lit up heaven and earth, brightening them intensely. The word शोचिः (*śociḥ*) in the middle is Vedic usage. Or construe मज्मना क्रत्वा समिधानस्य (*majmanā kratvā samidhānasya*): of him kindled by powerful action of kindling and the like.
+That Agni spoken of before, being born—arising from the two fire-sticks—and having appeared in the pieces of wood, at that very moment first manifested himself in the supreme, excellent व्योमनि (*vyomani*) (the place of varied protection, i.e. the altar), to मातरिश्वने (*mātariśvane*), the wind moving in the atmosphere. He became visible; this is known from another śruti, त्वमग्ने प्रथमो मातरिश्वन आविर्भव (*tvamagne prathamo mātariśvana āvirbhava*) (Ṛ. Saṃ. 1-31-3). The meaning: through contact with the wind he blazed up. Or else: Mātariśvan is the sacrificer, who breathes (śvasiti), i.e. exerts himself, in the sacrifice, the maker (nirmātṛ) of its fruit; for his sake. Further, by the मज्मना (*majmanā*) (a word for strength) of Agni, well kindled with fuel, by powerful क्रत्वा (*kratvā*), that is, by action, by the work of blazing and the like, the radiance lit up heaven and earth, brightening them intensely. The word शोचिः (*śociḥ*) in the middle is Vedic usage. Or construe मज्मना क्रत्वा समिधानस्य (*majmanā kratvā samidhānasya*): of him kindled by powerful action of kindling and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -7443,7 +7443,7 @@ In this Ṛk, after praising Agni as the sole lord and master of all wealth, the
 
 राजति (*rājati*)—"kṣiyati, rājati" and so on are read among the names of verbs of lordship (Ni. 2-21). ईश्वरः भवति (*īśvaraḥ bhavati*)—he is lord of all wealth. In the Ṛk सप्त क्षरंति शिशवे मरुत्वते पित्रे पुत्रासो अप्यवीवतन्नृतं । उभे इदस्योभयस्य राजत उभे यतेते उभयस्य पुष्यतः । (*sapta kṣaraṃti śiśave marutvate pitre putrāso apyavīvatannṛtaṃ | ubhe idasyobhayasya rājata ubhe yatete ubhayasya puṣyataḥ |*) (Ṛ. Saṃ. 18-13-5) **NOTE**, the Nirukta authors show as an example that the word राजतः (*rājataḥ*) gives the sense ईशाते (*īśāte*); the same sense results here too.
 
-भृगवः ईरिरे (*bhṛgavaḥ īrire*)—भृगुगोत्रोत्पन्नाः स्थापितवंतः (*bhṛgugotrotpannāḥ sthāpitavaṃtaḥ*): this points to the old story that the sages born of the Bhṛgu line first established Agni in the house of sacrifice. In such Taittirīya Saṃhitā passages as अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः । यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभुवं विशेषिविशे ॥ (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ | yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhuvaṃ viśeṣiviśe ‖*) (Kṛ. Saṃ. 1-5-1) **NOTE**, the matter of the Bhṛgus first establishing Agni as hotṛ is told. In the Ṛk Saṃhitā too, in Ṛks such as दधुष्टा भृगवः मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः । होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने । (*dadhuṣṭā bhṛgavaḥ mānuṣeṣvā rayiṃ na cāruṃ suhavaṃ janebhyaḥ | hotāramagne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane |*) (Ṛ. Saṃ. 1-58-6) and द्विता यदीं कीस्तासो अभिद्यवो नमस्यंत उपवोचंत भृगवो मथ्यंतो दाशा भृगवः । अग्निरीशे वसूनां शुचियोर्ण धर्णिरेषां । प्रिया अपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ॥ (*dvitā yadīṃ kīstāso abhidyavo namasyaṃta upavocaṃta bhṛgavo mathyaṃto dāśā bhṛgavaḥ | agnirīśe vasūnāṃ śuciyorṇa dharṇireṣāṃ | priyā apidhīrvaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ ‖*) (Ṛ. Saṃ. 1-127-7), it is praised in many places that the Bhṛgus churned and established Agni in the house of sacrifice, and that Mātariśvan brought Agni from a distant region for these Bhṛgus. That circumstance is hinted at in the present Ṛk also.
+भृगवः ईरिरे (*bhṛgavaḥ īrire*)—भृगुगोत्रोत्पन्नाः स्थापितवंतः (*bhṛgugotrotpannāḥ sthāpitavaṃtaḥ*): this points to the old story that the sages born of the Bhṛgu line first established Agni in the house of sacrifice. In such Taittirīya Saṃhitā passages as अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः । यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभुवं विशेषिविशे ॥ (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ | yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhuvaṃ viśeṣiviśe ‖*) (Tai. Saṃ. 1-5-1) **NOTE**, the matter of the Bhṛgus first establishing Agni as hotṛ is told. In the Ṛk Saṃhitā too, in Ṛks such as दधुष्टा भृगवः मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः । होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने । (*dadhuṣṭā bhṛgavaḥ mānuṣeṣvā rayiṃ na cāruṃ suhavaṃ janebhyaḥ | hotāramagne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane |*) (Ṛ. Saṃ. 1-58-6) and द्विता यदीं कीस्तासो अभिद्यवो नमस्यंत उपवोचंत भृगवो मथ्यंतो दाशा भृगवः । अग्निरीशे वसूनां शुचियोर्ण धर्णिरेषां । प्रिया अपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ॥ (*dvitā yadīṃ kīstāso abhidyavo namasyaṃta upavocaṃta bhṛgavo mathyaṃto dāśā bhṛgavaḥ | agnirīśe vasūnāṃ śuciyorṇa dharṇireṣāṃ | priyā apidhīrvaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ ‖*) (Ṛ. Saṃ. 1-127-7), it is praised in many places that the Bhṛgus churned and established Agni in the house of sacrifice, and that Mātariśvan brought Agni from a distant region for these Bhṛgus. That circumstance is hinted at in the present Ṛk also.
 
 ### Printed p. 309
 
@@ -7451,7 +7451,7 @@ In this Ṛk, after praising Agni as the sole lord and master of all wealth, the
 
 The Nirukta authors, with अर्चिषि भृगुः संबभूव भृगुर्भृज्यमानो न देहे (*arciṣi bhṛguḥ saṃbabhūva bhṛgurbhṛjyamāno na dehe*) (Ni. 3-17), show the derivation of the word Bhṛgu: Bhṛgu, born of the flame, though inside Agni, was not burnt; hence the name. This undying power helps the great sacrificial work, and likewise the destruction of sin. In the Śatapatha Brāhmaṇa, अथांगारैरभ्यूहति । भृगूणामंगिरसां तपसा तप्यध्वमित्येतद्वै तेजो यद्भग्वंगिरसाग् सुतप्तान्यसन्निति तस्मादेनमभ्यूहति । (*athāṃgārairabhyūhati | bhṛgūṇāmaṃgirasāṃ tapasā tapyadhvamityetadvai tejo yadbhagvaṃgirasāg sutaptānyasanniti tasmādenamabhyūhati |*) (Ka. Brā. 1-2-1-3) **NOTE**. In such passages, since those born in the Bhṛgu line are direct relations of Agni, they are said to have extremely brilliant radiance. And, citing the Taittirīya Saṃhitā passages अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्टीड्यः (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣṭīḍyaḥ*) and so on (Śa. Brā. 2-3-4-14) and Tai. Saṃ. (1-5-5-1); and द्वे अग्नेर्जुहोति । द्विपाद्यजमानो यजमानोऽग्निर्यावानाग्निर्यावत्यस्य मात्रा तावतैवैतद्यज्ञग्ं सग्स्थापयतीष्टो यज्ञो भृगुभिरिष्टोऽग्निराहुतः पिपर्तु न इति । (*dve agnerjuhoti | dvipādyajamāno yajamāno 'gniryāvānāgniryāvatyasya mātrā tāvataivaitadyajñagṃ sagsthāpayatīṣṭo yajño bhṛgubhiriṣṭo 'gnirāhutaḥ pipartu na iti |*) (Pa. Brā. 9-5-1-31) **NOTE**. By such passages the manner in which the Bhṛgus worshipped Agni and performed sacrifice is also explained.
 
-पृथिव्या नाभा भुवनस्य मज्मना ईरिरे (*pṛthivyā nābhā bhuvanasya majmanā īrire*)—by this mantra the manner in which the Bhṛgus established Agni is stated. Here पृथिव्या नाभा (*pṛthivyā nābhā*) is explained as the northern altar. As it is said in Saṃhitā passages such as उत्तरं परिग्राहं परि गृह्णात्येतावती वै पृथिवी यावती वेदिस्तस्या एतावत एव । (*uttaraṃ parigrāhaṃ pari gṛhṇātyetāvatī vai pṛthivī yāvatī vedistasyā etāvata eva |*) (Kṛ. Saṃ. 2-6-4-3) **NOTE**, that the earth itself is the altar, so it is explained here also. On such an altar in the form of the earth, gathering together the strength of all beings, the Bhṛgus established Agni.
+पृथिव्या नाभा भुवनस्य मज्मना ईरिरे (*pṛthivyā nābhā bhuvanasya majmanā īrire*)—by this mantra the manner in which the Bhṛgus established Agni is stated. Here पृथिव्या नाभा (*pṛthivyā nābhā*) is explained as the northern altar. As it is said in Saṃhitā passages such as उत्तरं परिग्राहं परि गृह्णात्येतावती वै पृथिवी यावती वेदिस्तस्या एतावत एव । (*uttaraṃ parigrāhaṃ pari gṛhṇātyetāvatī vai pṛthivī yāvatī vedistasyā etāvata eva |*) (Tai. Saṃ. 2-6-4-3) **NOTE**, that the earth itself is the altar, so it is explained here also. On such an altar in the form of the earth, gathering together the strength of all beings, the Bhṛgus established Agni.
 
 ### Printed p. 310
 
@@ -7471,7 +7471,7 @@ The Nirukta authors, with अर्चिषि भृगुः संबभू�
 
 ##### Grammar
 
-- राजति — राज धातुः ऐश्वर्य क्रियावाची । क्षयति राजति (निरु. २-२१-४) इति पठितम् । लट् प्रथमपुरुष एकवचनांतरूपम् । यः इति यच्छब्दसंबंधात् यद्वृत्तान्वित्यम् (पा. सू. ८-१-६६) इति निघातप्रतिषेधो भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
+- राजति — राज धातुः ऐश्वर्य क्रियावाची । क्षयति राजति (नि. २-२१-४) इति पठितम् । लट् प्रथमपुरुष एकवचनांतरूपम् । यः इति यच्छब्दसंबंधात् यद्वृत्तान्वित्यम् (पा. सू. ८-१-६६) इति निघातप्रतिषेधो भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
 
 #### Ṛk 5
 
@@ -7582,7 +7582,7 @@ In this Ṛk it indicates the nature of the weapon, "with a sharp weapon". The a
 
 - तिगितैः — तिज निशाने (तीक्ष्णीकरण) धातुः । क्त प्रत्ययः । छांदसत्वेन धातोः अंत्यस्य कुत्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । तृतीया बहुवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
 - अत्ति — आद भक्षणे धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
-- भर्वति — भर्व हिंसायां धातुः । यास्कैः भर्वतिरत्तिकर्मा (निरु. ९-२३) इति उक्तम् । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतपरत्वात् निघातस्वरो न भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
+- भर्वति — भर्व हिंसायां धातुः । यास्कैः भर्वतिरत्तिकर्मा (नि. ९-२३) इति उक्तम् । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतपरत्वात् निघातस्वरो न भवति । शप् तिप् पित्तात् धातुस्वरो अवशिष्यते ।
 - योधः — युध संप्रहारे धातुः । नंदिग्रहपचादि— (पा. सू. ३-१-१३४) इति कर्तरि अच् प्रत्ययः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । चितः इति अंतोदात्तस्वरो भवति ।
 - वना — शसि शि आदेशे सति रूपे शेश्छंदसि बहुलम्— (पा. सू. ६-१-७०) इति शेः लोपः ।
 - ऋञ्चिते — ऋञ्चित धातुः प्रसाधनक्रियावाची प्रयुक्तः । लट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतपरत्वात् निघातस्वरो भवति ।
@@ -8210,7 +8210,7 @@ they have shown that the word ऋतावरी (*ṛtāvarī*) is the name of 
 ### Printed p. 340
 - अपां — षष्ठीबहुवचनांतरूपम् । ऊडिदंपदा (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
 - उपस्थे — ष्ठा गतिनिवृत्तौ धातुः । आतश्चोपसर्गे (पा. सू. ३-१-१३६) इति क प्रत्ययः । आतो लोप इटि च (पा. सू. ६-४-६४) इति आकारलोपः । सप्तमीएकवचनांतरूपम् ।
-- विभृतः — भृञ् भरणे धातुः । कर्मणि क्त प्रत्ययः । गतिरनंतरः (पा. स. ६-४-४९) इति गतेः (वि) प्रकृतिस्वरो भवति ।
+- विभृतः — भृञ् भरणे धातुः । कर्मणि क्त प्रत्ययः । गतिरनंतरः (पा. सू. ६-४-४९) इति गतेः (वि) प्रकृतिस्वरो भवति ।
 - आवसत् — वस निवासे धातुः । छांदसो वर्तमानार्थे लज् । प्रथमपुरुषएकवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । अडागमस्योदात्तत्वाद् आद्युदात्तो भवति ।
 - अधयत् — धेट् पाने धातुः । लज् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । शप् विकरणम् । एचोयवा इति अयादेशः । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
 - ईयते — ईज् गत् धातुः दिवादिः श्यन् विकरणम् लट् प्रथमपुरुषएकवचनांतरूपम् । यद्वृत्तान्तित्यम् इति निघातप्रतिषेधो भवति । श्यन् नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ॥ २ ॥
@@ -8966,7 +8966,7 @@ For the sentence स्वेनेव धीरो मनसा यदग्र
 > वचांसि स्तोत्ररूपाणि शृणवत् । शृणोति । अग्नेः सर्वदेवतात्मकत्वं तैत्तिरीया
 > अहुः । ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति । तै. सं.
 > ६-२-२-६ । तथात्रैव पुरस्तादाम्यास्यते । त्वमग्ने वरुणो जायसे यत्त्वं मित्रः ।
-> ऋ. ५-३-१ । इत्यादिकोऽस्य विशेष इत्युच्यते । पुरुप्रैषो बहुप्रैषभाक् । यद्वा
+> ऋ. सं. ५-३-१ । इत्यादिकोऽस्य विशेष इत्युच्यते । पुरुप्रैषो बहुप्रैषभाक् । यद्वा
 > बहुप्रेषणः । सर्वस्याज्ञापयितेत्यर्थः । ततुरिस्तरयिता ॥ तरतेरंतर्णर्थादादृगमहन इति किन्पत्ययः । बहुलं छंदसीत्युत्वं ॥ यज्ञसाधनो यज्ञसाधकः
 > अग्न्यधीनत्वाद्यज्ञस्य अच्चिद्रोतिरविच्चिन्नरक्षणः शिशुः शिशुवत्प्रियकारी शोचयिता
 > ना शत्रूणां एवंभूतोऽग्निः सं रभो यज्ञादिसंरंभवान् सन्नादत्त । आदत्ते ।
@@ -8974,7 +8974,7 @@ For the sentence स्वेनेव धीरो मनसा यदग्र
 
 ##### Gist of the bhāṣya
 
-The sense is that the ladles are also directed to him as the oblation is being offered to the other deities. Further, the *arvatīḥ*, the praises that reach their goal, go to that very Agni, because he is of the nature of all the deities. He alone, this Agni, hears all my words, which take the form of hymns. The Taittirīyas state that Agni is of the nature of all the deities: ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति । (*te devā bibhyato 'gniṃ prāviśan tasmādāhuragniḥ sarvā devatā iti |*) (Tai. Saṃ. 6-2-2-6). Likewise, in this very place, it is said further on: त्वमग्ने वरुणो जायसे यत्त्वं मित्रः (*tvamagne varuṇo jāyase yattvaṃ mitraḥ*) (Ṛ. 5-3-1), and the like; this is called his special feature. *Puruproṣaḥ* is "one who has a share in many commands," or else "one who sends out many," that is, the one who gives orders to all. *Taturiḥ* is "one who carries across"; the affix *kin* is applied to the root *tṛ* with its causal sense, and the *u* is by the rule "bahulaṃ chandasi." *Yajñasādhanaḥ* is the accomplisher of the sacrifice, since the sacrifice depends on Agni. *Acchidrotiḥ* is one whose protection is unbroken. *Śiśuḥ* is one who is pleasing like a child, or one who causes his enemies to grieve. Such an Agni, *saṃ rabhaḥ*, possessed of the zeal for undertaking the sacrifice and the like, *ādatta*, accepts the oblation and the rest.
+The sense is that the ladles are also directed to him as the oblation is being offered to the other deities. Further, the *arvatīḥ*, the praises that reach their goal, go to that very Agni, because he is of the nature of all the deities. He alone, this Agni, hears all my words, which take the form of hymns. The Taittirīyas state that Agni is of the nature of all the deities: ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति । (*te devā bibhyato 'gniṃ prāviśan tasmādāhuragniḥ sarvā devatā iti |*) (Tai. Saṃ. 6-2-2-6). Likewise, in this very place, it is said further on: त्वमग्ने वरुणो जायसे यत्त्वं मित्रः (*tvamagne varuṇo jāyase yattvaṃ mitraḥ*) (Ṛ. Saṃ. 5-3-1), and the like; this is called his special feature. *Puruproṣaḥ* is "one who has a share in many commands," or else "one who sends out many," that is, the one who gives orders to all. *Taturiḥ* is "one who carries across"; the affix *kin* is applied to the root *tṛ* with its causal sense, and the *u* is by the rule "bahulaṃ chandasi." *Yajñasādhanaḥ* is the accomplisher of the sacrifice, since the sacrifice depends on Agni. *Acchidrotiḥ* is one whose protection is unbroken. *Śiśuḥ* is one who is pleasing like a child, or one who causes his enemies to grieve. Such an Agni, *saṃ rabhaḥ*, possessed of the zeal for undertaking the sacrifice and the like, *ādatta*, accepts the oblation and the rest.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -9027,7 +9027,7 @@ states the same view. Therefore he is praised with "ekaḥ śṛṇavat."
 
 The quality is stated here as it is described in the Aitareya Brāhmaṇa and elsewhere. To show that a *śiśu* is not merely of child-form but also worthy of honour, the Nirukta author says: शिशुः शंसनीयो भवति (*śiśuḥ śaṃsanīyo bhavati*) (Ni. 10-39): it is called *śiśu* because it is worthy of praise. Or else: शिशीतेर्ना स्याद्वानकर्मणः । चिरलब्दो गर्भो भवति (*śiśīternā syādvānakarmaṇaḥ | ciralabdo garbho bhavati*) (Ni. Saṃ. 10-39)**NOTE**. Thus he has also shown the explanation of the word as "the name *śiśu* because it came from the man to the woman in the form of a gift."
 
-अन्यान्या वत्समुपधापयेते। तयोरेत्वा वत्स । अग्निश्चा दित्यश्च । रात्रेवत्सः । श्वेत आदित्यः । अहोऽग्निः । (*anyānyā vatsamupadhāpayete| tayoretvā vatsa | agniścā dityaśca | rātrevatsaḥ | śveta ādityaḥ | aho 'gniḥ |*) (Trai. Ā. 8-10)**NOTE**. In sentences such as these also this state of being a child is praised.
+अन्यान्या वत्समुपधापयेते। तयोरेत्वा वत्स । अग्निश्चा दित्यश्च । रात्रेवत्सः । श्वेत आदित्यः । अहोऽग्निः । (*anyānyā vatsamupadhāpayete| tayoretvā vatsa | agniścā dityaśca | rātrevatsaḥ | śveta ādityaḥ | aho 'gniḥ |*) (Tai. Ā. 8-10)**NOTE**. In sentences such as these also this state of being a child is praised.
 
 In the second sense, शोचयिता वा शत्रूणां (*śocayitā vā śatrūṇāṃ*), it is said that the name is given because Agni destroys his enemies completely.
 
@@ -9046,7 +9046,7 @@ In Ṛks such as this, Agni is described thus: no enemy, however great, who fall
 
 - अर्वति—ऋ गत् धातुः । अन्येभ्योऽपिदृश्यंते (पा सू. ३-२-७५) इति वनिप् । स्त्रीत्वविवक्षायां कृतायां ऋन्नेभ्योजिप् इति जीप् । अर्वणस्तृसावनञ्ः (पा. सू. ६-४-१२७) इति तृ अंतादेशः । ऋकार इत् । जस् परे सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः भवति । **NOTE**
 - शृणवत्—श्रु श्रवणे धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः (पा. सू. ३-४-९७) इति तस्य इकारस्य लोपः । लेटोऽडाटौ (पा. सू. ३. ४-९४) इति अडागमः । श्रुवः श्रुच (पा. सू. ३-१-७४) इति धातोः शृ आदेशः । श्नु विकरणप्रत्ययनिमित्ते विकरणउकारस्य गुणः । अवावेश ऋवर्णं निमित्तीकृत्य विकरणनकारस्य णत्वं । तिजंतनिघातस्वरः भवति । **NOTE**
-- ततुरिः—तृ प्लवनतरणयोः धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः धातुः । आद्यगमहनजन—(पा. पा. ३-२-१७१) इति किन् प्रत्ययः । लिड्वद्भावात् धातोः द्वित्वं । बहुलं छंदसि इति धातोः उत्वं । रपरत्वेन आगच्छति । नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । **NOTE**
+- ततुरिः—तृ प्लवनतरणयोः धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः धातुः । आद्यगमहनजन—(पा. सू. ३-२-१७१) इति किन् प्रत्ययः । लिड्वद्भावात् धातोः द्वित्वं । बहुलं छंदसि इति धातोः उत्वं । रपरत्वेन आगच्छति । नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । **NOTE**
 - यज्ञसाधनः—यज्ञं साधयति इति यज्ञसाधनः । साध सं-द्भौ धातुः । ण्यंतात् ल्युट् प्रत्ययः । युवोरनाक् (पा सू. ७-१-१) इति अनादेशः । णेरनिटि इति णिचः लोपः । लिति (पा. सू. ६-१-१६३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति । समासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
 - अच्छिद्रऊतिः—छिद्रा ऊतिः यस्य सः छिद्रऊतिः । न छिद्रऊतिः अछिद्रऊतिः । तत्पुरुषेतुल्यार्थ—(पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरः भवति ।
 - अदत्त—डुदाञ् दाने धातुः । छांदसत्वेन वर्तमानार्थे लज् प्रथमपुरुषएकवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
@@ -9671,9 +9671,9 @@ Experienced sages bring the invincible (Agni) to his station (on the altar); che
 
 In Ṛks such as this, and in
 
-श्रेयश्च प्रेयश्च मनुष्यमेतस्ता संपरीत्य विविनक्ति धीरः । श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मंदो योगक्षेमाद्वृणीते ॥ (*śreyaśca preyaśca manuṣyametastā saṃparītya vivinakti dhīraḥ | śreyo hi dhīro 'bhipreyaso vṛṇīte preyo maṃdo yogakṣemādvṛṇīte ‖*) (Kaṭha. 2-2)
+श्रेयश्च प्रेयश्च मनुष्यमेतस्ता संपरीत्य विविनक्ति धीरः । श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मंदो योगक्षेमाद्वृणीते ॥ (*śreyaśca preyaśca manuṣyametastā saṃparītya vivinakti dhīraḥ | śreyo hi dhīro 'bhipreyaso vṛṇīte preyo maṃdo yogakṣemādvṛṇīte ‖*) (Ka. U. 2-2)
 
-महांतं विभुमात्मानं मत्वा धीरो न शोचति (*mahāṃtaṃ vibhumātmānaṃ matvā dhīro na śocati*) (Kaṭha. 5-4)
+महांतं विभुमात्मानं मत्वा धीरो न शोचति (*mahāṃtaṃ vibhumātmānaṃ matvā dhīro na śocati*) (Ka. U. 5-4)
 
 and in such Upaniṣadic sentences too, the word *dhīra* means धीमान् प्राज्ञः (*dhīmān prājñaḥ*), intelligent, wise.
 
@@ -9779,7 +9779,7 @@ In these and other Ṛks the word काष्ठा (*kāṣṭhā*) has been e
 तं ना एतमाहुतिपिता बताभूरतिपितामहो बताभूः परमां बत काष्ठां प्रापच्छ्रिया यशसा ब्रह्मवर्चसेन । (*taṃ nā etamāhutipitā batābhūratipitāmaho batābhūḥ paramāṃ bata kāṣṭhāṃ prāpacchriyā yaśasā brahmavarcasena |*) (Bṛ. U. 6-4-28)
 
 ### Printed p. 402
-महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा स परा गतिः ॥ (*mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiṃcitsā kāṣṭhā sa parā gatiḥ ‖*) (Kaṭha. 3-11)
+महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा स परा गतिः ॥ (*mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiṃcitsā kāṣṭhā sa parā gatiḥ ‖*) (Ka. U. 3-11)
 In these and other passages काष्ठा (*kāṣṭhā*) means the most excellent destination, that is, the highest state. Among such various meanings, in the present Ṛk काष्ठासु (*kāṣṭhāsu*) means "in the ten directions."
 जेन्यः—सर्वत्र प्रादुर्भवनशीलो भवति जयशीलो वा । (*jenyaḥ—sarvatra prādurbhavanaśīlo bhavati jayaśīlo vā |*) Two meanings are stated alternatively: manifest everywhere, or inclined to victory. It is the view of the commentator that the word may be formed either from the root जनी प्रादुर्भावे (*janī prādurbhāve*) or from the root जी जये (*jī jaye*); the word is used in both meanings.
 In the Ṛk जनिष्ट हि जेन्नो अग्रे अह्नां हितो हितेष्वरुषो वनेषु । दमेदमे सप्त रत्ना दधानोग्नि र्होता नि षसादा यजीयान् (*janiṣṭa hi jenno agre ahnāṃ hito hiteṣvaruṣo vaneṣu | damedame sapta ratnā dadhānogni rhotā ni ṣasādā yajīyān*) (Ṛ. Saṃ. 5-1-5), जेन्य (*jenya*) is understood as उत्पादनीयः (*utpādanīyaḥ*), an epithet of Agni; in Ṛks such as होताजनिष्ट चेतनः पिता पितृभ्य ऊतये । प्रयक्ष इज्जॆन्यं वसु शकेम वाजिनो यमं ॥ (*hotājaniṣṭa cetanaḥ pitā pitṛbhya ūtaye | prayakṣa ijjènyaṃ vasu śakema vājino yamaṃ ‖*) (Ṛ. Saṃ. 2-5-1) as जीतव्यं धनं (*jītavyaṃ dhanaṃ*); and in Ṛks such as ते हिन्विरे अरुणं जेन्यं वस्वेकं पुत्रं तिस्कृणां । ते धामान्यमृता मर्त्यानामदब्बा अभि चक्षते । (*te hinvire aruṇaṃ jenyaṃ vasvekaṃ putraṃ tiskṛṇāṃ | te dhāmānyamṛtā martyānāmadabbā abhi cakṣate |*) (Ṛ. Saṃ. 8-101-6) as जयशीलं (*jayaśīlaṃ*) or जयसाधनं (*jayasādhanaṃ*). In the present Ṛk either meaning suits Agni.
@@ -10299,11 +10299,11 @@ misfortune.
 - मर्तः — मृज् प्राणत्यागे धातुः । असिहसिमृ—(उ. सू. ३-३६६) इति तन् प्रत्ययः । तन्निमित्तीकृत्य धातोरिको गुणः । रः परः आगच्छति । नित्त्वात् आद्युदात्तस्वरः आगच्छति ।
 - पाहि — पा रक्षणे धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
 ### Printed p. 423
-- स्तवमान — ष्टुञ् स्तुतौ धातुः । लडर्थे शानच् प्रत्ययः । व्यत्ययेन शपः लुक् न आगच्छति । शप् निमित्तीकृत्य धातोरिको गुणः । अवादेशः । आनेमुक् (पा-सू. ७-२-८२) इति मुकागमः । संबुद्धौ आमंत्रितनिघातस्वरः आगच्छति ।
+- स्तवमान — ष्टुञ् स्तुतौ धातुः । लडर्थे शानच् प्रत्ययः । व्यत्ययेन शपः लुक् न आगच्छति । शप् निमित्तीकृत्य धातोरिको गुणः । अवादेशः । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । संबुद्धौ आमंत्रितनिघातस्वरः आगच्छति ।
 - स्तुवंतम् — पूर्वोक्तात् धातोः लडर्थे शतृ प्रत्ययः । शपः लुक् । सार्वधातुकमपित् इति प्रत्ययस्य चित्त्वात् गुणः न आगच्छति । अचिश्नुधातुभ्रुवां सूत्रेण उवजादेशः । प्रत्ययस्य आद्युदात्तस्वरः आगच्छति ।
 - अग्ने — पादादित्वात् आष्टमिकनिघातस्वरः न आगच्छति । आमंत्रितस्य (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरः आगच्छति ।
 - दुरिताय — दुर् उपसर्गः । इण् गतौ धातुः । क्त प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरः आगच्छति । चतुर्थीएकवचनांतरूपम् ।
-- धायीः — धि धारणे धातुः । लुज् मध्यमपुरुषएकवचने सिप् प्रत्ययः । इतश्च इति इकारलोपः । च्लेः सिचादेशः । व्यत्ययेन तस्य इडागमः । अस्तिसिचोऽपृक्ते इति प्रत्ययस्य ईडागमः । इटईटि (पा. सू. ८-२-२८) इति सिचो लोपः । सिचिवृद्धिः परस्मैपदेषु (पा. पा. ७-२-१) इति धातोरिको वृद्धिः । अच् परत्वात् आयादेशः । नमाज्‌योगे (पा. सू. ६-४-७४) इति अंगस्य अडागमः न आगच्छति । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति । ॥५॥
+- धायीः — धि धारणे धातुः । लुज् मध्यमपुरुषएकवचने सिप् प्रत्ययः । इतश्च इति इकारलोपः । च्लेः सिचादेशः । व्यत्ययेन तस्य इडागमः । अस्तिसिचोऽपृक्ते इति प्रत्ययस्य ईडागमः । इटईटि (पा. सू. ८-२-२८) इति सिचो लोपः । सिचिवृद्धिः परस्मैपदेषु (पा. सू. ७-२-१) इति धातोरिको वृद्धिः । अच् परत्वात् आयादेशः । नमाज्‌योगे (पा. सू. ६-४-७४) इति अंगस्य अडागमः न आगच्छति । अतिजंतस्य परत्वात् निघातस्वरः आगच्छति । ॥५॥
 
 Here ends the one hundred and forty-seventh sūkta.
 
@@ -10758,7 +10758,7 @@ Agni, who is संतं (*saṃtaṃ*), present, in the गर्भे (*garb
 
 ### Printed p. 441
 
-> रिषण्यति । पा. ७-४-३६ । इति क्यचि निपात्यते । क्याच्छंदसीत्युः ॥ न हिंसंति । कीदृशास्ते
+> रिषण्यति । पा. सू. ७-४-३६ । इति क्यचि निपात्यते । क्याच्छंदसीत्युः ॥ न हिंसंति । कीदृशास्ते
 > रेषणा हिंसनस्वभावाः । यद्वा । तैः क्रियमाणा हिंसनप्रकारा न हिंसंति । किंचास्याभिख्याभितः ख्यातिं माहात्ममंधा ज्ञानशक्तिरहिता अविद्वांसः अत एवापश्या अद्रष्टारः । यद्वा । विद्वांसोऽप्यभावयितारः । अनुपासका इत्यर्थः । ईदृग्रूपा
 > भयेऽपि न दभन् । न दभ्नुवंति । न हिंसंति । लौकिकोपकारेणापि प्रयोजकत्वादिति
 > भावः । तर्ह्यस्य पारमार्थिकं रूपं के जानंतीति चेत् उच्यते । नित्यासो नित्या
@@ -11082,7 +11082,7 @@ and other Ṛks, वेद्याख्यं स्थानं (*vedyākhya�
 > Sपेक्षितदेशं प्रत्यतनशीलः कविः क्रांतदर्शि । तत्र दृष्टांतः । अर्वारणकुशलो
 > नभन्यो न नभस्याकाशे भवो नभस्वान्वायुरिव । किंच शतात्मा शतं। सहस्रमित्यपरिमितवचनः। तत्तद्यजमानगृहापेक्षया आहवनीयगार्हपत्याद्यपेक्षया वा नानारूपत्वं ।
 > अथवा मित्रवरुणभेदेनाग्निर्मित्रादिरूपं त्वमग्ने वरुणो जायसे यत् ।
-> ऋ. ५-३-१ । इंद्रं मित्रं वरुणमग्निमाहुः । ऋ. १-१६४-४६ । इत्यादिश्रुतिषु
+> ऋ. सं. ५-३-१ । इंद्रं मित्रं वरुणमग्निमाहुः । ऋ. सं. १-१६४-४६ । इत्यादिश्रुतिषु
 > प्रसिद्धं । अग्नेरेवेंद्राद्यात्मकत्वमाहुरिति द्वितीयमंत्रस्यार्थः । तादृशोयं
 > सूरो न सूर्य इव ररुक्वान् दीप्यमानः ॥ रुच दीप्ता । छांदसस्य लिटः क्वसुः ॥
 > अतः स तादृशोऽग्निरस्ति उत्कृष्टं वर्तत इति पूर्वत्रान्वयः ॥
@@ -11172,7 +11172,7 @@ Agni is described as the self of all (विश्वात्माने (*vi�
 
 - नार्मिणीम्—ऋन्नेभ्योजीप् (पा. सू. ४-१-४) इति स्त्रीत्वे जीप्पित्तात् अनुदात्तः भवति । द्वितीया एकवचनांतरूपम् ।
 - अदीदेत्—दीदी इति छांदसधातुः । दीप्त्यर्थे प्रयुक्तः । छंदसिलुज्लज्‌लिटः (पा.सू ३-४-९) इति वर्तमानार्थे लज् । छांदसत्वेन शपि लुक् । प्रत्ययनिमित्तात् धातोः इकः गुणः । अंगस्य अडागमः । यच्छब्दसंबंधात् निघातस्वरः न भवति आद्युदात्तः भवति ।
-- अत्यः—अत्यः हयः (निरु. १-४१-१) इति पठितः । वेगसाम्यात् गमनशीले कवौ अत्र प्रयुक्तः ।
+- अत्यः—अत्यः हयः (नि. १-४१-१) इति पठितः । वेगसाम्यात् गमनशीले कवौ अत्र प्रयुक्तः ।
 
 ### Printed p. 458
 - नभन्यः—नभसि भवः नभन्यः । यत् प्रत्ययः । तित्‌स्वंतम् (पा. सू. ६-१-१८५) इति स्वरितस्वरः भवति । छांदसत्वेन वर्णविकारः भवति ।
@@ -11536,7 +11536,7 @@ the word prahoṣiṇaḥ, glossed प्रकर्षेण देवान�
 
 > हे अग्ने विप्र मेधाविन् यो मर्त्यस्त्वां यजते स मर्त्यो यजमानो
 > दिवि द्युलोके चंद्रः सर्वेषामाह्लादकश्चंद्रसदृशो भवति । यद्वा । चंद्र एव
-> भवति । यजमानानां चंद्रत्वप्राप्तिं छंदोगा आमनंति । पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा । छां. उ. ५-१०-४ । इति । सोमलोके विभूतिमनुभूयेति च । तथा मुंडकेऽपि द्युलोकप्राप्तिराम्नायते । एहैहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहंति तं नयंत्येताः सूर्यस्य
+> भवति । यजमानानां चंद्रत्वप्राप्तिं छंदोगा आमनंति । पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा । छा. उ. ५-१०-४ । इति । सोमलोके विभूतिमनुभूयेति च । तथा मुंडकेऽपि द्युलोकप्राप्तिराम्नायते । एहैहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहंति तं नयंत्येताः सूर्यस्य
 > रश्मयो यत्र देवानां पतिरेकोऽधिवास इति । एष वः पुण्यः सुकृतो ब्रह्मलोक
 > इति च । मुं. उ- १-२-५,६ । पुनः स एव विशेष्यते । महो महतोऽपि प्राधंतमः
 > प्रवृद्धतमः । इतरदेवानामपि श्रेष्ठ इत्यर्थः । अतोऽग्नै ते तव प्रप्रेत् प्रकर्षेणैव वनुषः संभक्तारः स्याम । यद्वा । प्रीणयित्वा प्रप्रेत् स्याम । प्रकृष्टा एव
@@ -11586,7 +11586,7 @@ the word is a synonym for enemy, glossed हिंसकान् महतः �
 ### Printed p. 474
 
 चंद्रश्चंदतेः कांतिकर्मणः (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ*) (Ni. 11-5): since the word means "radiant and delightful", the word चंद्र (*caṃdra*) is formed from the root चंद् (*caṃd*). So the worshipper of Agni becomes radiant. Secondly, चंद्र एव भवति (*caṃdra eva bhavati*): the sacrificer becomes the moon itself. यजमानानां चंद्रत्वपाप्तिं छांदोगा आमनंति (*yajamānānāṃ caṃdratvapāptiṃ chāṃdogā āmanaṃti*): the Chāndogas recite a Śruti passage saying that the performer of the sacrifice attains the state of the moon:
-पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा (*pitṛlokādākāśamākāśāccaṃdramasameṣa somo rājā*) (Bhā. U. 5-10-4) **NOTE**
+पितृलोकादाकाशमाकाशाच्चंद्रमसमेष सोमो राजा (*pitṛlokādākāśamākāśāccaṃdramasameṣa somo rājā*) (Chā. U. 5-10-4) **NOTE**
 सोमलोके विभूतिमनुभूय (*somaloke vibhūtimanubhūya*) (Pra. U. 5-4) **NOTE**
 Sāyaṇa has cited such passages.
 
@@ -11642,16 +11642,16 @@ Metre: Jagatī.
 > तच्चैकया द्वित्राभिरपि स्यात् । अतः स्पृहणीया बह्व इत्यवगमयितुं गोष्टिति
 > पदं । यथा गवामसि गोपतिः । ऋ ७-९८-६ । गणानां त्वा गणपतिं । ऋ २-२३-१ ।
 > तथा स्वाध्यः सुष्वाध्यातारः फलस्योत्पादयितारः शोभनध्याना वा विदथे यागेस्प्यंतरिक्षॆ वैद्युतरूपेण वर्तमानं । अप इत्यंतरिक्षनाम आपः पृथिवीति तन्नामसूक्तत्वात् । अग्नेरंतरिक्षोत्पत्तिर्यदग्ने दिविजा अस्यप्पुजा वा । ऋ ८-४३-२८ ।
-> अप्स्वगे सधिष्टव । ऋ. ८-४३-९ । इत्यादिमंत्रांतरेषु प्रसिद्दा । प्रियं सर्वॆषां
+> अप्स्वगे सधिष्टव । ऋ. सं. ८-४३-९ । इत्यादिमंत्रांतरेषु प्रसिद्दा । प्रियं सर्वॆषां
 > प्रियतमं प्रीणयितारं वा यजतं यष्टव्यमग्निं जनुषां जन्मवतां प्राणिनामवः प्रति रक्षणं निमित्तीकृत्य शिम्या मथनादिकर्मणा जीजनन् जनयंति यजमाना ।
 > यद्वा । अप्सु निमित्तभूतासु जीजनन् सर्वप्राणिनामुपकाराय वृष्टर्थं चेत्य
-> र्थः । एवमुत्पन्न स्याग्नेः पाजसा बलेन गिरा भयंकरशब्देन च रोदसी द्यावापृथिव्यावरेजेतां । अकंपेतां । अग्नेः सकाशात्कंपनमरेजेतां रोदसी होतृवूर्ये । ऋ. १-३१-३ । इत्यादिश्रुतिषु प्रसिद्धं । न च सर्वरक्षणार्थमुत्पादितोऽग्निर्लोकद्वयस्य भीतिमजनयत् किमेतदिति वाच्यं निंदास्तुतित्वात् । यथा लोकौ
+> र्थः । एवमुत्पन्न स्याग्नेः पाजसा बलेन गिरा भयंकरशब्देन च रोदसी द्यावापृथिव्यावरेजेतां । अकंपेतां । अग्नेः सकाशात्कंपनमरेजेतां रोदसी होतृवूर्ये । ऋ. सं. १-३१-३ । इत्यादिश्रुतिषु प्रसिद्धं । न च सर्वरक्षणार्थमुत्पादितोऽग्निर्लोकद्वयस्य भीतिमजनयत् किमेतदिति वाच्यं निंदास्तुतित्वात् । यथा लोकौ
 > बिभीतस्तथा प्रवृद्योऽभवदिति स्तुतौ पर्यवसानात् । यद्यप्यत्राग्निरेव प्रतिपाद्यते
 > मित्रस्तु परं दृष्टांतित एव तथापि द्युस्थानस्याग्नेरेव मित्रत्वान्मंत्रस्य मैत्रत्वम-
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says that Agni, whom (the sacrificers generate) शिम्या (*śimyā*)—this is a word for action, the Nighaṇṭu list of "power" words having शिमी शक्ति (*śimī śakti*)—by acts such as producing light and rain, stands मित्रं न (*mitraṃ na*) like a friend. Or else शिम्या (*śimyā*) is construed with the verb. गोषु (*goṣu*): in the many cows that are the occasion; गव्यवः (*gavyavaḥ*): those desiring cows for themselves. Although गव्यव (*gavyava*) alone would suffice, without गोषु (*goṣu*), and it conveys ownership of cows—which could be by one, two or three—the word गोषु (*goṣu*) is there to show that the cows desired are many. So गवामसि गोपतिः (*gavāmasi gopatiḥ*) (Ṛ. 7-98-6), गणानां त्वा गणपतिं (*gaṇānāṃ tvā gaṇapatiṃ*) (Ṛ. 2-23-1). Likewise स्वाध्यः (*svādhyaḥ*): good meditators, producers of fruit, or those of excellent meditation. विदथे (*vidathe*): at the sacrifice; अप्सु (*apsu*): in the atmosphere, existing in the form of lightning (आपः (*āpaḥ*) being a name of the atmosphere, as in the Nighaṇṭu list आपः पृथिवी (*āpaḥ pṛthivī*)). Agni's origin in the atmosphere is well known from other mantras: यदग्ने दिविजा अस्यप्पुजा वा (*yadagne divijā asyappujā vā*) (Ṛ. 8-43-28), अप्स्वगे सधिष्टव (*apsvage sadhiṣṭava*) (Ṛ. 8-43-9). प्रियं (*priyaṃ*): dearest to all, or the gratifier; यजतं (*yajataṃ*): the Agni to be worshipped. The sacrificers generate (जीजनन् (*jījanan*)) him by churning and similar acts, for the protection (अवः प्रति (*avaḥ prati*)) of embodied beings (जनुषां (*januṣāṃ*)). Or else: they generate him in the waters (अप्सु (*apsu*)), for the benefit of all beings and for the sake of rain. When he is thus produced, heaven and earth (रोदसी (*rodasī*)) trembled (अरेजेतां (*arejetāṃ*)) at his strength (पाजसा (*pājasā*)) and his fearsome sound (गिरा (*girā*))—the trembling of the two worlds at Agni is well known from Śruti such as *arejetāṃ rodasī hotṛvūrye* (Ṛ. 1-31-3). It is not to be objected that Agni, produced for the protection of all, causes fear to the two worlds, for this is censure that ends in praise: the two worlds feared, and so he became exalted. Although here Agni alone is the subject and Mitra is only the thing compared, yet, since Agni of the heavenly region is himself Mitra, the hymn's being addressed to Mitra is not inconsistent.
+Sāyaṇa says that Agni, whom (the sacrificers generate) शिम्या (*śimyā*)—this is a word for action, the Nighaṇṭu list of "power" words having शिमी शक्ति (*śimī śakti*)—by acts such as producing light and rain, stands मित्रं न (*mitraṃ na*) like a friend. Or else शिम्या (*śimyā*) is construed with the verb. गोषु (*goṣu*): in the many cows that are the occasion; गव्यवः (*gavyavaḥ*): those desiring cows for themselves. Although गव्यव (*gavyava*) alone would suffice, without गोषु (*goṣu*), and it conveys ownership of cows—which could be by one, two or three—the word गोषु (*goṣu*) is there to show that the cows desired are many. So गवामसि गोपतिः (*gavāmasi gopatiḥ*) (Ṛ. Saṃ. 7-98-6), गणानां त्वा गणपतिं (*gaṇānāṃ tvā gaṇapatiṃ*) (Ṛ. Saṃ. 2-23-1). Likewise स्वाध्यः (*svādhyaḥ*): good meditators, producers of fruit, or those of excellent meditation. विदथे (*vidathe*): at the sacrifice; अप्सु (*apsu*): in the atmosphere, existing in the form of lightning (आपः (*āpaḥ*) being a name of the atmosphere, as in the Nighaṇṭu list आपः पृथिवी (*āpaḥ pṛthivī*)). Agni's origin in the atmosphere is well known from other mantras: यदग्ने दिविजा अस्यप्पुजा वा (*yadagne divijā asyappujā vā*) (Ṛ. Saṃ. 8-43-28), अप्स्वगे सधिष्टव (*apsvage sadhiṣṭava*) (Ṛ. Saṃ. 8-43-9). प्रियं (*priyaṃ*): dearest to all, or the gratifier; यजतं (*yajataṃ*): the Agni to be worshipped. The sacrificers generate (जीजनन् (*jījanan*)) him by churning and similar acts, for the protection (अवः प्रति (*avaḥ prati*)) of embodied beings (जनुषां (*januṣāṃ*)). Or else: they generate him in the waters (अप्सु (*apsu*)), for the benefit of all beings and for the sake of rain. When he is thus produced, heaven and earth (रोदसी (*rodasī*)) trembled (अरेजेतां (*arejetāṃ*)) at his strength (पाजसा (*pājasā*)) and his fearsome sound (गिरा (*girā*))—the trembling of the two worlds at Agni is well known from Śruti such as *arejetāṃ rodasī hotṛvūrye* (Ṛ. Saṃ. 1-31-3). It is not to be objected that Agni, produced for the protection of all, causes fear to the two worlds, for this is censure that ends in praise: the two worlds feared, and so he became exalted. Although here Agni alone is the subject and Mitra is only the thing compared, yet, since Agni of the heavenly region is himself Mitra, the hymn's being addressed to Mitra is not inconsistent.
 
 ### Printed p. 477
 
@@ -11901,7 +11901,7 @@ In ṛks such as इंद्रज्येष्ठान् बृहद्�
 > हे वृषणा कामानां वर्षितारौ हे मित्रावरुण् नां युवयोः संबंधि
 > जन्म जननमुत्पत्तिं रोदस्योर्द्यावापृथिव्योः सकाशात् । द्यावापृथिवीभ्यामेव
 > सर्वेषामुत्पत्तेः । यद्वा । मित्र इति सर्वोपकार्यग्नि रुच्यते वरुण इति तमोनिवारक आदित्यः । उभयोः पृथिवीद्युस्थानत्वात् । ततः पूर्वमंत्रे मित्रदृष्टांतवेनाग्निः स्तुतः । अत इदमधिगम्यते अग्निरेव मित्र इति । तथान्यत्रापि । अग्निं मित्रं न
-> क्षितिशु प्रशंस्यं । ऋ. २-२-३ । मित्रं न यं सुधितं भृगवो दधुः । ऋ. ६-१५-२ । इति
+> क्षितिशु प्रशंस्यं । ऋ. सं. २-२-३ । मित्रं न यं सुधितं भृगवो दधुः । ऋ. सं. ६-१५-२ । इति
 > च । प्रवाच्यं स्तुत्यं तादृग्युवयोर्जन्म महे महते दक्षसे सर्वविषयबलाय
 > क्षितयो मनुष्या यजमाना आ भूषन् । सर्वतोऽलंकुर्वंति । श्लाघंत इत्यर्थः ।
 > जन्मनः प्रवाच्यत्वमाह । यदीं यस्मादेव कारणात् । अथवा । ईमित्यनर्थकः मिताक्षरेष्टनर्थकाः कमीमिद्वितीत्युक्तत्वात् । ऋताय यज्ञाय भरथः सामर्थ्यं । यद्यस्माच्च कारणादर्वते युष्मान् प्राप्तवते यजमानाय च भरथोऽभिमतं फलं ।
@@ -11912,7 +11912,7 @@ In ṛks such as इंद्रज्येष्ठान् बृहद्�
 
 ##### Gist of the bhāṣya
 
-"O showerers of desires, O Mitrāvaruṇa! Your birth, your origin, is from heaven and earth, since all things arise from heaven and earth alone." Or else: by मित्र (*mitra*) Agni, the benefactor of all, is meant, and by वरुण (*varuṇa*) Āditya, the remover of darkness, since the two are placed on earth and in heaven. In the preceding mantra Agni was praised under the simile of Mitra; hence it is understood that Agni himself is Mitra. So elsewhere too: अग्निं मित्रं न क्षितिशु प्रशंस्यं (*agniṃ mitraṃ na kṣitiśu praśaṃsyaṃ*) (Ṛ. 2-2-3) and मित्रं न यं सुधितं भृगवो दधुः (*mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhuḥ*) (Ṛ. 6-15-2). Such a birth of yours is प्रवाच्यं (*pravācyaṃ*), praiseworthy; for the sake of great दक्षसे (*dakṣase*), strength in every sphere, the क्षितयः (*kṣitayaḥ*), men, the sacrificers, आ भूषन् (*ā bhūṣan*): they adorn on every side, that is, they extol.
+"O showerers of desires, O Mitrāvaruṇa! Your birth, your origin, is from heaven and earth, since all things arise from heaven and earth alone." Or else: by मित्र (*mitra*) Agni, the benefactor of all, is meant, and by वरुण (*varuṇa*) Āditya, the remover of darkness, since the two are placed on earth and in heaven. In the preceding mantra Agni was praised under the simile of Mitra; hence it is understood that Agni himself is Mitra. So elsewhere too: अग्निं मित्रं न क्षितिशु प्रशंस्यं (*agniṃ mitraṃ na kṣitiśu praśaṃsyaṃ*) (Ṛ. Saṃ. 2-2-3) and मित्रं न यं सुधितं भृगवो दधुः (*mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhuḥ*) (Ṛ. Saṃ. 6-15-2). Such a birth of yours is प्रवाच्यं (*pravācyaṃ*), praiseworthy; for the sake of great दक्षसे (*dakṣase*), strength in every sphere, the क्षितयः (*kṣitayaḥ*), men, the sacrificers, आ भूषन् (*ā bhūṣan*): they adorn on every side, that is, they extol.
 
 He states why the birth is praiseworthy: यदीं (*yadīṃ*) means "for which very reason"; or else ईं (*īṃ*) is meaningless, since it is said that the monosyllabic particles are meaningless (*kamīmit* and so on). You two भरथः (*bharathaḥ*), bear the power for the ऋताय (*ṛtāya*), the sacrifice; and because you bear the desired fruit for the अर्वते (*arvate*), the sacrificer who has come to you. Or else, since the sacrifice and the sacrificer are both recipients (sampradāna), the dative is used in both places: the sense is that you bear (support) both the sacrifice and the sacrificer. And because you प्र वीथः (*pra vīthaḥ*), attain (accept) in full, by होत्रया (*hotrayā*), speech in the form of praise, and by शिम्या (*śimyā*), rites such as the offering of oblations, therefore they adorn your praiseworthy birth. होत्रा (*hotrā*) is a name for speech, since it is read among the speech-names, "*hotrā gīḥ*".
 
@@ -12118,7 +12118,7 @@ In this Ṛk the explanation is अनिष्टक्षेपणशीलः
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे मित्रावरुणौ युवां मही महत्यां ॥ सप्तम्येकवचने पूर्वसवर्ण
-> दीर्घः । ईदूतौ च सप्तम्यर्थे । पा. १-१-१९ । इति प्रगृह्यता ॥ अत्रास्यां पृथिव्यां
+> दीर्घः । ईदूतौ च सप्तम्यर्थे । पा. सू. १-१-१९ । इति प्रगृह्यता ॥ अत्रास्यां पृथिव्यां
 > महिना महत्वेन या धेनूर्वारं वरणीयं प्रदेशमृण्वथः गमयथः ॥ अंतर्भावितण्यर्थोऽयं ॥ गमनादिव्यवहारस्य तयोरधीनत्वात् द्यावापृथिव्योरभिमानिदेवत्वाच्च मित्रावरुणयोः । ता एता धेनवो गावः सायंकाले युष्मन्महत्वेनारेणवोऽनवद्यास्तस्कराद्यनपहारेणानष्टा वा तुजः क्षीराणां प्रदात्र्यः ॥ तुजतिर्दान
 > कर्मा ॥ सद्मन् सद्मनि गोष्ठ आ । आश्रिता आगच्छंति वा ॥ उपसर्गश्रुतेयोर्ग्यक्रियाध्याहारः ॥ ता एवंकारिता धेनव उपरतातु परतात् ॥ सप्तम्या लुक् ॥ मेघानां
 > विस्तारवत्यंतरिक्षे मेघाच्छन्ने सति सूर्यं सर्वस्य प्रसवितारं सुवीर्यं शोभन
@@ -12129,7 +12129,7 @@ In this Ṛk the explanation is अनिष्टक्षेपणशीलः
 
 ##### Gist of the bhāṣya
 
-"O Mitrāvaruṇas, you two": मही (*mahī*) is the locative singular of मही (*mahī*) (the earlier vowel and the long vowel coalesce), and by the rule ईदूतौ च सप्तम्यर्थे । पा. १-१-१९ (*īdūtau ca saptamyarthe | pā. 1-1-19*) it is pragṛhya. अत्र (*atra*) is "on this earth"; महिना (*mahinā*), "by greatness". The cows which you cause to go (ऋण्वथः (*ṛṇvathaḥ*)) to the choice place (वारं (*vāraṃ*)) – the verb has an inner causative sense, because the activity of going and the like is dependent upon those two, and Mitrāvaruṇa are the presiding deities of heaven and earth. Those cows, at evening, through your greatness are अरेणवः (*areṇavaḥ*), faultless, or not lost through theft and the like; they are तुजः (*tujaḥ*), givers of milk. (तुजतिर्दानकर्मा (*tujatirdānakarmā*).) सद्मन् (*sadman*) is in the stall (सद्मनि गोष्ठ (*sadmani goṣṭha*)); आ (*ā*): they come, resorting to it. The verbal action that fits the preverb heard here must be supplied. Those cows so brought, उपरताति (*uparatāti*) (the locative affix dropped), when the wide sky of clouds is covered by cloud, cry out स्वरंति (*svaraṃti*) towards the sun (सूर्यं (*sūryaṃ*)), the impeller of all, the possessor of good power, in order to move happily; he is Sūrya because of the Śruti passage सुवीर्यो मर्या यथा गोपायत इति तत्सूर्यस्य सूर्यत्वमिति (*suvīryo maryā yathā gopāyata iti tatsūryasya sūryatvamiti*). The root sva is in the sense of sound and heat, of the bhū class. At what time? That is told: निम्रुचः । उषसः (*nimrucaḥ | uṣasaḥ*), at all evenings and at all dawns. An illustration: तक्ववीरिव (*takvavīriva*): takvā is a thief, and the man who goes after him cries out; so it is. Thus the happy grazing of the confined cows depends on you: this is the praise of those two.
+"O Mitrāvaruṇas, you two": मही (*mahī*) is the locative singular of मही (*mahī*) (the earlier vowel and the long vowel coalesce), and by the rule ईदूतौ च सप्तम्यर्थे । पा. सू. १-१-१९ (*īdūtau ca saptamyarthe | pā. sū. 1-1-19*) it is pragṛhya. अत्र (*atra*) is "on this earth"; महिना (*mahinā*), "by greatness". The cows which you cause to go (ऋण्वथः (*ṛṇvathaḥ*)) to the choice place (वारं (*vāraṃ*)) – the verb has an inner causative sense, because the activity of going and the like is dependent upon those two, and Mitrāvaruṇa are the presiding deities of heaven and earth. Those cows, at evening, through your greatness are अरेणवः (*areṇavaḥ*), faultless, or not lost through theft and the like; they are तुजः (*tujaḥ*), givers of milk. (तुजतिर्दानकर्मा (*tujatirdānakarmā*).) सद्मन् (*sadman*) is in the stall (सद्मनि गोष्ठ (*sadmani goṣṭha*)); आ (*ā*): they come, resorting to it. The verbal action that fits the preverb heard here must be supplied. Those cows so brought, उपरताति (*uparatāti*) (the locative affix dropped), when the wide sky of clouds is covered by cloud, cry out स्वरंति (*svaraṃti*) towards the sun (सूर्यं (*sūryaṃ*)), the impeller of all, the possessor of good power, in order to move happily; he is Sūrya because of the Śruti passage सुवीर्यो मर्या यथा गोपायत इति तत्सूर्यस्य सूर्यत्वमिति (*suvīryo maryā yathā gopāyata iti tatsūryasya sūryatvamiti*). The root sva is in the sense of sound and heat, of the bhū class. At what time? That is told: निम्रुचः । उषसः (*nimrucaḥ | uṣasaḥ*), at all evenings and at all dawns. An illustration: तक्ववीरिव (*takvavīriva*): takvā is a thief, and the man who goes after him cries out; so it is. Thus the happy grazing of the confined cows depends on you: this is the praise of those two.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12310,7 +12310,7 @@ and similar Ṛks, इरज्यति (*irajyati*) means ईश्वरो �
 
 - केशिनीः — केशाः आसां संतीति केशिन्यः । अत्र जसि परे सुपां सुलुक् (पा.सू. ७-१-३९) इति पूर्वसवर्णदीर्घो भवति ।
 - अनूषत — णु स्तुतौ धातुः । व्यत्ययो बहुलं इत्यात्मनेपदी भवति । छांदसत्वात् लुङ् । झ प्रत्ययस्य अत् आदेशः । क्लिगे सिचि प्राप्ते गांकुटादिभ्यः (पा सू. १-२-१) इति तस्य जित्त्वात् तन्निमित्तीकृत्य गुणो न भवति । छांदसत्वात् धातोर्दीर्घः सिचः इडभावश्च भवति । तिजंतनिघातस्वरो भवति । **NOTE**
-- गातुम् — गै शब्दे धातुः । कमिमनिजनि (उ. सू. १-७२) इति तु प्रत्ययः । आदेचउपदेशेशिति (पा. सू. ६-१-४५) इति धातोरात्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाकवचनांतरूपम् । गातुः पूषा (निरु. १-१-२०) इति पृथिवीन्याये पठितः ।
+- गातुम् — गै शब्दे धातुः । कमिमनिजनि (उ. सू. १-७२) इति तु प्रत्ययः । आदेचउपदेशेशिति (पा. सू. ६-१-४५) इति धातोरात्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । द्वितीयाकवचनांतरूपम् । गातुः पूषा (नि. १-१-२०) इति पृथिवीन्याये पठितः ।
 
 ### Printed p. 505
 
@@ -12473,7 +12473,7 @@ Accepers of sacrifices, you are the first whom (worshippers) propiate with offer
 ऋतानाना (*ṛtānānā*)—Mitra and Varuṇa are addressed as यज्ञवंतौ वृष्ट्युदकवंतौ ना मित्रावरुणौ (*yajñavaṃtau vṛṣṭyudakavaṃtau nā mitrāvaruṇau*), "possessors of sacrifice or lords of rain-water".
 In Ṛks such as अधारयतं पृथिवीमुत द्यां मित्रराजाना वरुणा महोभिः । वर्धयतमोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू (*adhārayataṃ pṛthivīmuta dyāṃ mitrarājānā varuṇā mahobhiḥ | vardhayatamoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū*) (Ṛ. Saṃ. 5-62-3) and ऋतस्य गोपावधि तिष्ठथो रथं सत्यधर्माणा परमे व्योमनि । यमत्र मित्रावरुणावधो युवं तस्मै वृष्टिर्मधुमत्पिन्वते दिवः ॥ (*ṛtasya gopāvadhi tiṣṭhatho rathaṃ satyadharmāṇā parame vyomani | yamatra mitrāvaruṇāvadho yuvaṃ tasmai vṛṣṭirmadhumatpinvate divaḥ ‖*) (Ṛ. Saṃ. 5-63-1), Mitra and Varuṇa are prayed to as the presiding deities of rain and as the ones who should send rain and protect the world. Here too such rain-deities, Mitra and Varuṇa, are prayed to for help.
 गोभिः (*gobhiḥ*)—गोविकारैः पय आदिभिः (*govikāraiḥ paya ādibhiḥ*). The word गो (*go*) is used also for the products of the cow, milk and the like. The Nirukta authors have shown that गो (*go*) has meanings such as Pṛthivī (2-5), Āditya (2-6). In the present context it is to be understood that the chief meaning of गो (*go*) is the cow and the milk and the like obtained from it. In the Nirukta,
-आ धावता सुहस्त्यः शुक्रा गृंभीत मंथिना । गोभिः श्रीणीत मत्सरं ॥ (*ā dhāvatā suhastyaḥ śukrā gṛṃbhīta maṃthinā | gobhiḥ śrīṇīta matsaraṃ ‖*) (Ṛ. 9-46-4) **NOTE**
+आ धावता सुहस्त्यः शुक्रा गृंभीत मंथिना । गोभिः श्रीणीत मत्सरं ॥ (*ā dhāvatā suhastyaḥ śukrā gṛṃbhīta maṃthinā | gobhiḥ śrīṇīta matsaraṃ ‖*) (Ṛ. Saṃ. 9-46-4) **NOTE**
 
 ### Printed p. 511
 this Ṛk is cited, and गोभिः (*gobhiḥ*) there is explained as गोभ्यः अभिनिष्पन्नेन क्षीरेण (*gobhyaḥ abhiniṣpannena kṣīreṇa*); as there, so in the present Ṛk the meaning is "with milk and the like, the products of the cow".
@@ -12614,15 +12614,15 @@ Here Indra is praised: "you destroyed the deceitful enemy by your special wisdom
 > लैंगिकः ॥ मैत्रावरुणे पशावाद्या वपायाज्या । प्रदानानामितिखंडे सूत्रितं ।
 > युवं वस्त्राणिपीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः । आ. ३-८ । इति ॥ सैव
 > समावर्तने नव वस्त्रधारणे विनियुक्ता । सूत्रितं च । युवं वस्त्राणि पीवसा
-> वसाथे इत्यहते वाससी आच्छाद्य । आ. गृ. ३-८-९ । इति ॥
+> वसाथे इत्यहते वाससी आच्छाद्य । आ. गृ. सू. ३-८-९ । इति ॥
 
 ##### Gist of the bhāṣya
 
-The sūkta युवं वस्त्राणि (*yuvaṃ vastrāṇi*), of seven Ṛks, is the twelfth sūkta; its seer is Dīrghatamas, son of Ucathya. By the rule of the non-substitute (अनादेशपरिभाषया (*anādeśaparibhāṣayā*)) its metre is Triṣṭubh. Its deity is Maitrāvaruṇa (Mitra and Varuṇa), since the preceding sūkta was declared to be Maitrāvaruṇa. The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the animal sacrifice to Mitra and Varuṇa the first Ṛk is the yājyā for the offering of the omentum; this is laid down in the section प्रदानानां (*pradānānāṃ*) by the sūtra युवं वस्त्राणिपीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇipīvasā vasāthe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. Sū. 3-8). The same Ṛk is used at the Samāvartana, the putting on of a new garment, as the sūtra says: युवं वस्त्राणि पीवसा वसाथे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasāthe ityahate vāsasī ācchādya*) (Ā. Gṛ. 3-8-9). **NOTE**
+The sūkta युवं वस्त्राणि (*yuvaṃ vastrāṇi*), of seven Ṛks, is the twelfth sūkta; its seer is Dīrghatamas, son of Ucathya. By the rule of the non-substitute (अनादेशपरिभाषया (*anādeśaparibhāṣayā*)) its metre is Triṣṭubh. Its deity is Maitrāvaruṇa (Mitra and Varuṇa), since the preceding sūkta was declared to be Maitrāvaruṇa. The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the animal sacrifice to Mitra and Varuṇa the first Ṛk is the yājyā for the offering of the omentum; this is laid down in the section प्रदानानां (*pradānānāṃ*) by the sūtra युवं वस्त्राणिपीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇipīvasā vasāthe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. Sū. 3-8). The same Ṛk is used at the Samāvartana, the putting on of a new garment, as the sūtra says: युवं वस्त्राणि पीवसा वसाथे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasāthe ityahate vāsasī ācchādya*) (Ā. Gṛ. Sū. 3-8-9). **NOTE**
 
 ##### Anuvāda
 
-This sūkta, युवं वस्त्राणि (*yuvaṃ vastrāṇi*), is the twelfth sūkta in the twenty-first anuvāka. It has seven Ṛks. The seer of this sūkta is Dīrghatamas, the son of Ucathya. As said before, the deities are Mitra and Varuṇa. The metre is Triṣṭubh. The use is by indication. In the animal sacrifice offered to Mitra and Varuṇa, the first Ṛk of this sūkta is to be used as the yājyā mantra while the omentum is offered; this is set out in the section प्रदानानां (*pradānānāṃ*) of the Āśvalāyana Śrauta Sūtra by the sūtra युवं वस्त्राणि पीवसा वसाधे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇi pīvasā vasādhe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. 3-8). And this same Ṛk is to be recited, at the domestic rite called Samāvartana, when a new garment is put on; this is indicated by the sūtra युवं वस्त्राणि पीवसा वसाधे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasādhe ityahate vāsasī ācchādya*) of the Āśvalāyana (Ā. Gṛ. 3-8-9).
+This sūkta, युवं वस्त्राणि (*yuvaṃ vastrāṇi*), is the twelfth sūkta in the twenty-first anuvāka. It has seven Ṛks. The seer of this sūkta is Dīrghatamas, the son of Ucathya. As said before, the deities are Mitra and Varuṇa. The metre is Triṣṭubh. The use is by indication. In the animal sacrifice offered to Mitra and Varuṇa, the first Ṛk of this sūkta is to be used as the yājyā mantra while the omentum is offered; this is set out in the section प्रदानानां (*pradānānāṃ*) of the Āśvalāyana Śrauta Sūtra by the sūtra युवं वस्त्राणि पीवसा वसाधे प्र बाहवा सिसृतं जीवसे नः (*yuvaṃ vastrāṇi pīvasā vasādhe pra bāhavā sisṛtaṃ jīvase naḥ*) (Ā. 3-8). And this same Ṛk is to be recited, at the domestic rite called Samāvartana, when a new garment is put on; this is indicated by the sūtra युवं वस्त्राणि पीवसा वसाधे इत्यहते वाससी आच्छाद्य (*yuvaṃ vastrāṇi pīvasā vasādhe ityahate vāsasī ācchādya*) of the Āśvalāyana (Ā. Gṛ. Sū. 3-8-9).
 
 ##### Particulars
 
@@ -13020,7 +13020,7 @@ having cited the Ṛk कनीनकेव विद्रधे नवे द�
 - प्रयंतं — इण् गतौ धातुः । लडर्थे शतृ प्रत्ययः । इणो यण् (पा. सू. ६-४-८१) इति धातोः यण् । द्वितीयाएकवचने नुमागमः । प्रत्ययस्य आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
 - जारम् — जरयतीति जारः आदित्यः । दारजार् कर्तरि णिलुक् च (पा. सू. ३-३-२०-४) इति घइंतत्वेन निपातितः । कर्षात्वतः (पा. सू. ६-१-१५९) इति अंतोदात्तस्वरः भवति । द्वितीयाविकवचनांतरूपम् । **NOTE**
 - कनीनाम् — कन कांत्यादिषु धातुः । सर्वधातुभ्यइन् इति अस्मात् इन् प्रत्ययः । अस्य स्त्रीत्वविवक्षायां कृदिकारादक्तिनः इति वचनेन जीप् । यद्वा कन्याशब्दस्य पष्ठिबहुवचनं आम् परे छंदसि संप्रसारणं भवति ।
-- पश्यामसि — दृशिर् प्रेक्षणे धातुः । लट् उत्तमपुरुषबहुवचने वस् प्रत्ययः । शप् विकरणम् । पाघ्राध्मा- (पा. सू- ७-३-७८) इति धातोः पश्यादेशः । अतोदीर्घोयञ् (पा. सू. ७-३-१०१) इति अदंतस्य दीर्घः । इदंतोमसि (पा. सू. ७-१-४६) इति प्रत्ययस्य इकागमः । पादादित्वात् निघातस्वरः न भवति । तास्यनुदात्तेत्- (पा. पा. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते । **NOTE**
+- पश्यामसि — दृशिर् प्रेक्षणे धातुः । लट् उत्तमपुरुषबहुवचने वस् प्रत्ययः । शप् विकरणम् । पाघ्राध्मा- (पा. सू- ७-३-७८) इति धातोः पश्यादेशः । अतोदीर्घोयञ् (पा. सू. ७-३-१०१) इति अदंतस्य दीर्घः । इदंतोमसि (पा. सू. ७-१-४६) इति प्रत्ययस्य इकागमः । पादादित्वात् निघातस्वरः न भवति । तास्यनुदात्तेत्- (पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते । **NOTE**
 
 ### Printed p. 532
 - उपनिपद्यमानम् — उप नि इति उपसर्गाभ्यां युक्तः गत्यर्थः पद धातुः । लडर्थे शानच् प्रत्ययः । दिवादित्वात् श्यन् विकरणम् । लसार्वधातुकं पूर्ववत् अनुदात्तं भवति इति विकरणस्य नित्त्वात् आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
@@ -13110,7 +13110,7 @@ Yāska explains ब्रह्माणि (*brahmāṇi*) as कर्मा�
 
 ### Printed p. 536
 
-- पतयत् (continued) — ४-९७) इति इकारलोपः । लेटोडाटौ (वा. सू. ३-४-९४) इति तस्य अडागमः । शप्निमित्तं णिचः गुणः । अयादेशः । अलोपस्य स्थानिवद्भावत् णिच्निमित्ता उपधावृद्धिः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- पतयत् (continued) — ४-९७) इति इकारलोपः । लेटोडाटौ (पा. सू. ३-४-९४) इति तस्य अडागमः । शप्निमित्तं णिचः गुणः । अयादेशः । अलोपस्य स्थानिवद्भावत् णिच्निमित्ता उपधावृद्धिः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
 - ऊर्ध्वसानुः — बहुव्रीहिसमासः । बहुव्रीहौ प्रकृत्या- (पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
 - अचित्तम् — नञ्ञस्वरस्य बाधकत्वेन परादिश्चंदसि बहुलम् (पा. सू. ६-२-१९९) इति उत्तरपदाद्युदात्तस्वरः भवति ।
 - ब्रह्म — बृहि वृद्धौ धातुः । बृंहेनोच्च (उ सू ४-५८५) इति मसिन् प्रत्ययः । नुमागतस्य नकारस्य अत्वम् । नकारस्य आकारे आगते यणादेशः । नित् प्रत्ययत्वात् आद्युदात्तस्वरः भवति ।
@@ -13472,7 +13472,7 @@ In the beginning the Ṛk was in feminine form and the Sāma in masculine form. 
 Of these, the first is the hiṅkāra, recited by the Udgātṛ at the beginning in the form of the sound हिं (*hiṃ*). The second is the prastāva, a part of the Sāma, to be sung by the Prastotṛ. The third, called udgītha, is what the Udgātṛ has to recite. The fourth is the pratihāra, to be recited by the Pratihartṛ. The fifth, to be sung at the end by all together, is called nidhana. Of these five parts, the second, the prastāva, is to be recited by the Prastotṛ. Taking an example, in the Ṛk
 अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः । देवं देवाय देवयु ॥ (*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ‖*) (Ṛ. Saṃ. 9-11-2)
 the portion अभि ते मधुना पय (*abhi te madhunā paya*) (Om) is the part called prastāva, to be recited by the Prastotṛ. This is a mantra addressed to the deity Soma. It has been said that if one knows only this portion of the mantra and does not know the nature of the deity to whom it is addressed, there is no benefit at all, and moreover harm results. In this connection Uśasti Cākrāyaṇa explained the nature of the Sāma consisting of the five parts beginning with the prastāva. He declared the importance of knowing the relation between the prastuti and the deity indicated by it, and the trouble that results from reciting only the mantra without that knowledge. Since that part of the story is told in order to make known the nature of the prastāva and the characteristics of one desirous of prastuti, it is also given here briefly. Śaṅkarācārya too, in his introduction, says:
-उद्गीथोपासनप्रसंगेन प्रस्तावप्रतिहारविषयमप्युपासनं वक्तव्यमितीदमारभ्यते । (*udgīthopāsanaprasaṃgena prastāvapratihāraviṣayamapyupāsanaṃ vaktavyamitīdamārabhyate |*) (Bhā. U. 1-10-1, Śāṅkara-bhāṣya) **NOTE**
+उद्गीथोपासनप्रसंगेन प्रस्तावप्रतिहारविषयमप्युपासनं वक्तव्यमितीदमारभ्यते । (*udgīthopāsanaprasaṃgena prastāvapratihāraviṣayamapyupāsanaṃ vaktavyamitīdamārabhyate |*) (Chā. U. 1-10-1, Śāṅkara-bhāṣya) **NOTE**
 that is, in connection with the worship of the udgītha, the worship of its parts, the prastāva and the rest, is also necessary; to make this known the story of Cākrāyaṇa is told. That part of the story runs as follows:
 मटचीहतेषु कुरुष्वाटिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास । स हेभ्यं कुल्माषान्बादंतं विभिक्षे तं होवाच । (*maṭacīhateṣu kuruṣvāṭikyā saha jāyayoṣastirha cākrāyaṇa ibhyagrāme pradrāṇaka uvāsa | sa hebhyaṃ kulmāṣānbādaṃtaṃ vibhikṣe taṃ hovāca |*)
 
@@ -13480,7 +13480,7 @@ that is, in connection with the worship of the udgītha, the worship of its part
 "Nor are there others (to be found), and these that are laid by for me." "Give me some of these," he said. He gave them to him. "Here, drink after it," (said the owner). "But then what I drink would be a leftover of his," he said. "Were not these (beans) also leftovers?" "I could not have lived without eating these," he said; "water is at my pleasure." Having eaten, he took the remainder to his wife. She had already obtained food (elsewhere) and kept them, having received them. In the morning he rose and said: "If we could get some food, we might get some wealth; the king yonder is about to perform a sacrifice, and he will choose me for all the priestly offices." His wife said to him, "Here, my lord, are these very beans." Having eaten them, he went to that sacrifice which was in progress.
 
 There he sat down near the Udgātṛs who were about to sing praise at the Stotra. He said to the Prastotṛ: "Prastotar, the deity that is connected with the Prastāva, if you chant the Prastāva without knowing her, your head will fall off." Likewise he said to the Udgātṛ: "Udgātar, the deity connected with the Udgītha—if you sing the Udgītha without knowing her, your head will fall off." In the same way he said to the Pratihartṛ: "Pratihartar, the deity connected with the Pratihāra—if you perform the Pratihāra without knowing her, your head will fall off." They stopped, and sat down in silence.
-(Bhā. U. 1-10, 11)
+(Chā. U. 1-10, 11)
 
 [Kannada exposition:] In the land of Kuru lived a poor man named Uṣasti Cākrāyaṇa, with his wife Āṭikī. Once, when a storm had brought distress, Cākrāyaṇa, afflicted by poverty, went to a rich man of his village and begged for something to eat. That rich man, who was eating beans, said he had nothing but the small quantity of that grain he had. Cākrāyaṇa insisted that he be given some of it, and the rich man gave a little. Then he showed a vessel nearby and said there was water to drink. Cākrāyaṇa said that the rest was leftover water and he did not want it. When the rich man asked whether the beans too were not leftovers he had eaten, he replied that, being in dire need, he had taken the grain for the sake of sustaining life, even if it was a leftover, that this rule did not apply to water; and he gave a little grain to his wife also. By then she had obtained her own food and said she did not want it. The next day, learning that the king would perform a sacrifice, Cākrāyaṇa thought he might obtain the priesthood there, and went. There he went to the Udgātṛs who were reciting the stotra and said, "If you chant the Prastāva without knowing the full nature of the deity toward whom the Prastāva-stotra is to be chanted, your head will burst and fall off,"
 
@@ -13501,7 +13501,7 @@ One should meditate on the fivefold Sāman in the vital breaths, the "higher and
 Among the earth-principles fire, among the rain-principles the cloud, among the seasons summer, among the animals sheep, among the living beings speech, are the forms of the Prastāva.
 
 अथ यत्प्रथमोदिते स प्रस्तावस्तवदस्य मनुष्या अन्वायत्तास्तस्मात्ते प्रस्तुतिकामाः प्रस्तावभाजिनो ह्येतस्य सान्मुः ॥ (*atha yatprathamodite sa prastāvastavadasya manuṣyā anvāyattāstasmātte prastutikāmāḥ prastāvabhājino hyetasya sānmuḥ ‖*)
-(Bhā. U. 2-9-3)
+(Chā. U. 2-9-3)
 
 The mantra to be recited after sunrise is called Prastāva. It has a very close relation with man. That is why men are desirous of praise (prastuti), and are also engaged in reciting the Prastāva, a part of the Sāman. Having thus shown the identity of the physical principles with the Sāman-parts such as the Prastāva, the text then shows the relation of identity of the spiritual principles with the Prastāva and the rest.
 
@@ -13525,7 +13525,7 @@ Prayukti: प्रयुक्तिः कृत्स्नप्रयोग
 Without this, the recitation of individual mantras one by one is plainly said to be of no use. Even when explaining the greatness of Oṃkāra in the Praśna Upaniṣad:
 
 तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्नोन्यसक्ता अनविप्रयुक्ताः । क्रियासु बाह्याभ्यंतरमध्यमासु सम्यक्रयुक्तासु न कंपते ज्ञ ॥ (*tisro mātrā mṛtyumatyaḥ prayuktā annonyasaktā anaviprayuktāḥ | kriyāsu bāhyābhyaṃtaramadhyamāsu samyakrayuktāsu na kaṃpate jña ‖*)
-(Praśna U. 5-6)
+(Pra. U. 5-6)
 
 If these three mātrās (a, u, m) are applied one after another separately, without knowing their mutual relation, harm results. Whether the outer rite, the inner rite, or the rite between them, it has significance only when it is wholly blended with it and unity is achieved between inner meditation and outer practice. In the same way, in the present Ṛk prayukti means कृत्स्नप्रयोगः (*kṛtsnaprayogaḥ*): rite-performance that attains or has attained completeness.
 
@@ -13769,7 +13769,7 @@ Sūkta 154. Maṇḍala 1, Anuvāka 21, Sūkta 154; Aṣṭaka 2, Adhyāya 2, Va
 > रजांसि रंजनात्मकानि क्षित्यादिलोकत्रयाभिमानीन्याग्निवाय्वादित्यरूपाणि रजांसि
 > विममे विशेषेण निर्ममे । अत्र त्रयो लोका अपि पृथिवीशब्दवाच्याः । तथा च
 > मंत्रांतरं । यदींद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्या मुत स्थः ।
-> ऋ. १-१०८-९ । इति । तैत्तरीयेऽपि । योऽस्यां पृथिव्यामस्यायुषेत्युपक्रम्य यो
+> ऋ. सं. १-१०८-९ । इति । तैत्तरीयेऽपि । योऽस्यां पृथिव्यामस्यायुषेत्युपक्रम्य यो
 > द्वितीयस्यां तृतीयस्यां पृथिव्यामिति । तै. सं. १-२-१२-१ । तस्माल्लोकत्रयस्य
 > पृथिवीशब्दवाच्यत्वं । किंच यश्च विष्णुरुत्तरमुद्धततरमतिविस्तीर्णं सधस्थं सहस्थानं लोकत्रयाश्रयभूतमंतरिक्षमस्कभायत् तेषामाधारत्वेन स्तंभितवान् ।
 > निर्मितवानित्यर्थः । अनेनांतरिक्षाश्रितं लोकत्रयमपि सृष्टवानित्युक्तं भवति । यद्वा।
@@ -13779,15 +13779,15 @@ Sūkta 154. Maṇḍala 1, Anuvāka 21, Sūkta 154; Aṣṭaka 2, Adhyāya 2, Va
 > स्कंभेः स्तंभुस्तुंबिति विहितस्य श्नः छंदसि शायजपीति व्यत्ययेन शायजादेशः ॥
 > अथवा पार्थिवानि पृथिवीनिमित्तकानि रजांसि लोकान् विममे । भूरादिलोकत्रयमित्यर्थः । भूम्यामुपार्जितकर्मभोगार्थत्पादितरलोकानां तत्कारणत्वं । किंच
 > यश्चोत्तरमुत्कृष्टतरं सर्वेषां लोकानामुपरिभूतं । अपुनरावृत्तेस्तस्योत्कृष्टत्वं । सधस्थमुपासकानां सहस्थानं सत्यलोकमस्कभायत् । स्कंभितवान् ।
-> ध्रुवं स्थापितवानित्यर्थः । किं कुर्वन् । त्रेधा विचक्रमाणस्तिप्रकारं स्वसृष्टांल्लोकान्विविधं क्रममाणः ॥ विष्णोस्त्रेधा क्रमणमिदं विष्णुर्वि चक्रमे । ऋ. १-२२-१७ ।
+> ध्रुवं स्थापितवानित्यर्थः । किं कुर्वन् । त्रेधा विचक्रमाणस्तिप्रकारं स्वसृष्टांल्लोकान्विविधं क्रममाणः ॥ विष्णोस्त्रेधा क्रमणमिदं विष्णुर्वि चक्रमे । ऋ. सं. १-२२-१७ ।
 > इत्यादिश्रुतिषु प्रसिद्धं । अतएवोरुगाय उरुभिर्महद्निर्गियमानः अतिप्रभूतं
 > गीयमानो वा । य एवं कृतवान् तादृशस्य विष्णोर्वीर्याणि प्र वोचं ॥
 
 ##### Gist of the bhāṣya
 
-The "realms" (rajāṃsi) are the colourful ones, the forms of Agni, Vāyu and Āditya presiding over the three worlds beginning with earth; he measured them out specially. Here the three worlds are also denoted by the word "earth". So another mantra: यदींद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्या मुत स्थः (*yadīṃdrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyā muta sthaḥ*) (Ṛ. 1-108-9); and in the Taittirīya, beginning योऽस्यां पृथिव्यामस्यायुष (*yo 'syāṃ pṛthivyāmasyāyuṣa*) and continuing *yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāṃ* (Tai. Saṃ. 1-2-12-1). Hence the three worlds are called "earth". Also, Viṣṇu propped up the higher, very wide common abode, the atmosphere that supports the three worlds, i.e. made it; so he is said to have created the three worlds resting on it.
+The "realms" (rajāṃsi) are the colourful ones, the forms of Agni, Vāyu and Āditya presiding over the three worlds beginning with earth; he measured them out specially. Here the three worlds are also denoted by the word "earth". So another mantra: यदींद्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्या मुत स्थः (*yadīṃdrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyā muta sthaḥ*) (Ṛ. Saṃ. 1-108-9); and in the Taittirīya, beginning योऽस्यां पृथिव्यामस्यायुष (*yo 'syāṃ pṛthivyāmasyāyuṣa*) and continuing *yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāṃ* (Tai. Saṃ. 1-2-12-1). Hence the three worlds are called "earth". Also, Viṣṇu propped up the higher, very wide common abode, the atmosphere that supports the three worlds, i.e. made it; so he is said to have created the three worlds resting on it.
 Alternatively: the earthly realms are the seven worlds beneath the earth, which he made variously; the word rajas means world, since Yāska says "worlds are called rajāṃsi". And he propped up the higher abode, the group of seven worlds beginning with Bhūr, fit for the joint dwelling of the virtuous, i.e. created it. The root skambh takes the ending śnā by the rule of vyatyaya.
-Or: the realms caused by the earth, the three worlds Bhūr etc.; the other worlds exist for the enjoyment of deeds earned on earth, so earth is their cause. And the higher, most excellent abode above all worlds, from which there is no return, is the Satyaloka, which he fixed firm. Doing what? Striding thrice, going variously through the worlds he created. Viṣṇu's threefold stride is famed in śruti such as विष्णुर्वि चक्रमे (*viṣṇurvi cakrame*) (Ṛ. 1-22-17). Hence he is "wide-praised" (urugāya), sung by many or greatly. I proclaim the heroic deeds of such a Viṣṇu.
+Or: the realms caused by the earth, the three worlds Bhūr etc.; the other worlds exist for the enjoyment of deeds earned on earth, so earth is their cause. And the higher, most excellent abode above all worlds, from which there is no return, is the Satyaloka, which he fixed firm. Doing what? Striding thrice, going variously through the worlds he created. Viṣṇu's threefold stride is famed in śruti such as विष्णुर्वि चक्रमे (*viṣṇurvi cakrame*) (Ṛ. Saṃ. 1-22-17). Hence he is "wide-praised" (urugāya), sung by many or greatly. I proclaim the heroic deeds of such a Viṣṇu.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -13863,7 +13863,7 @@ As the three worlds shine by Viṣṇu's three steps, so in the present Ṛk too
 ##### Grammar
 
 - विष्णोः — विष्‌ल्य व्याप्तौ इति धातुः । विषेः किच्च (उ. सू. ३-३१९) इति णुप्रत्ययः । कित्वविधानात् लघोपधगुणो न भवति । सित् इति पूर्वसूत्रादनुवृत्तत्वात् आद्युदात्तस्वरो भवति । षष्ठि विकवचनांतरूपं ।
-- वीर्याणि — शूर वीर विक्रांतौ इति धातुः । अस्मात् णिच् आगते अचोयत् (पा. सू. ३-१-९७) इति यत्प्रत्ययः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । तित् स्वरितम् (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति । वीरशब्दविषये यतोनावः इति आद्युदात्तस्वरो न भवति इति (ऋ. स. १ ३२-१) इत्यत्र उक्तं ।
+- वीर्याणि — शूर वीर विक्रांतौ इति धातुः । अस्मात् णिच् आगते अचोयत् (पा. सू. ३-१-९७) इति यत्प्रत्ययः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । तित् स्वरितम् (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति । वीरशब्दविषये यतोनावः इति आद्युदात्तस्वरो न भवति इति (ऋ. सं. १ ३२-१) इत्यत्र उक्तं ।
 
 ### Printed p. 571
 
@@ -14325,10 +14325,10 @@ In the present Ṛk the word is a synonym of the atmospheric region. It is said 
 ### Printed p. 590
 Therefore the word पाथः (*pāthaḥ*) too must be taken not in its commonly current sense of atmospheric region but as the excellent upper world. The nature of this supreme abode is described in the Upaniṣads thus:
 यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः । स तु तत्सदमाप्नोति यस्माद्भूयो न जायते ॥ विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः । सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदं (*yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ | sa tu tatsadamāpnoti yasmādbhūyo na jāyate ‖ vijñānasārathiryastu manaḥ pragrahavānnaraḥ | so 'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padaṃ*)
-(Kaṭh. 3-8-9) **NOTE**
+(Ka. U. 3-8-9) **NOTE**
 In the Kaṭha Upaniṣad the greatness of the supreme abode is praised: the self-controlled man who has gained spiritual knowledge and is endowed with the riches of calm, self-restraint and the like attains Viṣṇu's supreme abode and does not again become a transmigrating being. Hence this is not merely the commonly meant atmospheric region. The Muṇḍaka describes this same supreme abode:
 सत्यमेव जयति नानृतं सत्येन पंथा विततो देवयानः । येनाक्रमंत्यषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानं ॥ (*satyameva jayati nānṛtaṃ satyena paṃthā vitato devayānaḥ | yenākramaṃtyaṣayo hyāptakāmā yatra tatsatyasya paramaṃ nidhānaṃ ‖*)
-(Muṇḍaka. 3-1-6) **NOTE**
+(Mu. U. 3-1-6) **NOTE**
 Seers whose desires are fulfilled and who know the supreme truth attain this most exalted world of Truth; this is the supreme abode. In this supreme abode there is "a sweet spring": a stream of the bliss of the Self. The nature of this bliss is described in the Upaniṣads:
 सलिल एको द्रष्ट्वाद्वैतो भवत्येष ब्रह्मलोकः सम्राडिति हैनमनुशशास याज्ञवल्क एषास्य परमा गतिरेषास्य परमा संपदेषोऽस्य परमो लोक एषोऽस्य परम आनंद एतस्यैव आनंदस्यान्यानि भूतानि मात्रामुपजीवंति । (*salila eko draṣṭvādvaito bhavatyeṣa brahmalokaḥ samrāḍiti hainamanuśaśāsa yājñavalka eṣāsya paramā gatireṣāsya paramā saṃpadeṣo 'sya paramo loka eṣo 'sya parama ānaṃda etasyaiva ānaṃdasyānyāni bhūtāni mātrāmupajīvaṃti |*)
 (Bṛ. U. 4-3-39)
@@ -14357,7 +14357,7 @@ is stated here.
 
 ##### Grammar
 
-- पाथः—पा रक्षणे धातुः । उदकॆ थुट् च (उ. सू. ४-६४३) इति असुन् प्रत्ययः । धातोः थुट् आगमः । अत्र पाथोंतरिक्षं पथा व्याख्यातम् (निरु. ६-७) इति निर्वचनकरणात् अंतरिक्षार्थे प्रयुक्तम् ।
+- पाथः—पा रक्षणे धातुः । उदकॆ थुट् च (उ. सू. ४-६४३) इति असुन् प्रत्ययः । धातोः थुट् आगमः । अत्र पाथोंतरिक्षं पथा व्याख्यातम् (नि. ६-७) इति निर्वचनकरणात् अंतरिक्षार्थे प्रयुक्तम् ।
 - अश्याम्—अशू व्याप्तौ धातुः । लिज् उत्तमपुरुषएकवचने परे बहुलं छंदसि इति विकरणस्य लुक् । लिजः यासुट् आगमः । तिजंतनिघातस्वरः भवति ।
 - देवयवः—देवान् आत्मनः इच्छति इति अर्थविवक्षायां सुप आत्मनः क्याच् (पा सू. ३-१.-८) इति क्याच् । देवयति इति देवयुः क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतात् उ प्रत्ययः । **NOTE**
 
@@ -14476,7 +14476,7 @@ The gods and Asuras, sons of Prajāpati, once fought with each other for suprema
 (Tai. Brā. 3-9-9-7; reference printed त्रै (*trai*), जाति (*jāti*).)**NOTE**
 and the Aitareya Brāhmaṇa has the same matter:
 न हि तयोः कतरश्चन पराजिग्ये । इंद्रश्च विष्णो यदपस्पृधेथां त्रेधा सहस्रं वि तद्वैरयेथामिति । इंद्रश्च ह वै विष्णुश्चासुरैर्युयुधाते तान्ह स्म जित्तोचतुः कल्पामहा इति ते ह तथेत्यसुरा ऊचुः सोऽब्रवीदिंद्रो यावदेवायं विष्णुस्त्रिविक्रमते तावदस्माकमथ युष्माकमितिरदिति स इमान् लोकान्विचक्रमेऽथो वेदानथो वाचं तदाहुः किं तत्सहस्रमितीमे लोका इमे वेदा अथो वागिति ब्रूयात् ॥ (*na hi tayoḥ kataraścana parājigye | iṃdraśca viṣṇo yadapaspṛdhethāṃ tredhā sahasraṃ vi tadvairayethāmiti | iṃdraśca ha vai viṣṇuścāsurairyuyudhāte tānha sma jittocatuḥ kalpāmahā iti te ha tathetyasurā ūcuḥ so 'bravīdiṃdro yāvadevāyaṃ viṣṇustrivikramate tāvadasmākamatha yuṣmākamitiraditi sa imān lokānvicakrame 'tho vedānatho vācaṃ tadāhuḥ kiṃ tatsahasramitīme lokā ime vedā atho vāgiti brūyāt ‖*)
-(I. Bra. 6-15)**NOTE**
+(Ai. Brā. 6-15)**NOTE**
 
 ### Printed p. 598
 Neither Indra nor Viṣṇu ever suffered defeat. In the past, when they had fought the Asuras and defeated them, and a proposal came that the earth be divided, it was agreed that the regions covered by Viṣṇu's three feet should go to the gods and the whole remaining region to the Asuras; then Indra became the lord of the three worlds covered by Viṣṇu's three feet. Having driven out the Asuras, he (together with the gods) himself occupied the three worlds: this is the story described here.
@@ -14711,7 +14711,7 @@ One may note the sentence in the Taittirīya Saṃhitā that teaches the identit
 
 In this passage it is indicated that Snāna, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu are Soma-guardians. **NOTE**. In the Taittirīya Saṃhitā also,
 
-.... .... ज्योतिस्सोमविक्रयिणि तमोमित्रोन ऐहि सुमित्रधा इंद्रस्योरुमा विश दक्षिणमुशन्नुशंतग्स् सोन्यसस्योनग्स् स्नानभ्राजांघारे बंभारे हस्त सुहस्त कृशानवेते वस्सोमक्रयणास्तान्नक्षध्वं मा वो दभन् । (*.... .... jyotissomavikrayiṇi tamomitrona aihi sumitradhā iṃdrasyorumā viśa dakṣiṇamuśannuśaṃtags sonyasasyonags snānabhrājāṃghāre baṃbhāre hasta suhasta kṛśānavete vassomakrayaṇāstānnakṣadhvaṃ mā vo dabhan |*) (Kṛ. Saṃ. 1-2-7) **NOTE**
+.... .... ज्योतिस्सोमविक्रयिणि तमोमित्रोन ऐहि सुमित्रधा इंद्रस्योरुमा विश दक्षिणमुशन्नुशंतग्स् सोन्यसस्योनग्स् स्नानभ्राजांघारे बंभारे हस्त सुहस्त कृशानवेते वस्सोमक्रयणास्तान्नक्षध्वं मा वो दभन् । (*.... .... jyotissomavikrayiṇi tamomitrona aihi sumitradhā iṃdrasyorumā viśa dakṣiṇamuśannuśaṃtags sonyasasyonags snānabhrājāṃghāre baṃbhāre hasta suhasta kṛśānavete vassomakrayaṇāstānnakṣadhvaṃ mā vo dabhan |*) (Tai. Saṃ. 1-2-7) **NOTE**
 
 In these sentences it is said that those named above, Sthāna **NOTE**, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu, are the vigilant protectors of Soma, and afterwards,
 
@@ -14900,7 +14900,7 @@ Sāyaṇa explains the word रेतस् (*retas*) as पासव (*pāsava*
 The use of this word in the sense of the seed that begets offspring, and the account of the exceeding power of the seed, are given at length in the Taittirīya Saṃhitā (5-6-8).
 
 भुरण्यति (*bhuraṇyati*)—the commentator says the sense is गच्छति भजते च (*gacchati bhajate ca*), that is, "he understands" (the Kannada word given). The Nirukta author has included this word among the names of motion (Ni. 3-9). Since even that motion indicates swift movement, it is said that birds and the like also bear the name Bhuraṇyu:
-भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि पोळ्ता तत्संपाती भुरण्युरनेन पावकख्यातेन । (*bhuraṇyuriti kṣipranāma | bhuraṇyuḥ śakunirbhūrimadhvānaṃ nayati svargasya lokasyāpi poḷtā tatsaṃpātī bhuraṇyuranena pāvakakhyātena |*) (si. 12-22).**NOTE**
+भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि पोळ्ता तत्संपाती भुरण्युरनेन पावकख्यातेन । (*bhuraṇyuriti kṣipranāma | bhuraṇyuḥ śakunirbhūrimadhvānaṃ nayati svargasya lokasyāpi poḷtā tatsaṃpātī bhuraṇyuranena pāvakakhyātena |*) (ni. 12-22).**NOTE**
 
 ### Printed p. 618
 
@@ -15047,7 +15047,7 @@ Vṛtra, the harmer of all three worlds, stood grown by his distorted and harmfu
 …in the Ṛk (4-18-11 **NOTE**) Indra's mother, seeing the unchecked growth of Vṛtra, grew anxious, and Indra then prayed to Viṣṇu in the manner described above. In both of the situations cited above there is the matter of Viṣṇu's wide-spreading growth. The same situation is also described in the Taittirīya Saṃhitā, which sets out the threefold expansion in the three worlds that is indicated in the description त्रिभिरिद्विगामभिः (*tribhiridvigāmabhiḥ*).
 
 असीद्यदि ना तावदध्यग्नेरासीत्स संभवन्नग्नीषोमावभि समभवथ्य इषुमात्र मिषुमात्रं विष्वज्जवर्धत स इमान् लोकानावृणोद्यदिमान् लोकान वृणोत्तद्वत्रस्य वृत्रत्वं तस्मादिंद्रोऽबिभेदपि त्वष्टा तस्मै त्वष्टावज्रमसिंचत्तपो वै स वज्र आसीत्तमुद्यंतुं नाशक्कोदथ वै तर्हि विष्णुरन्या देवतासीत्सोब्रवीद्विष्णवेहीदना हरिष्यावो येनायमिदमिति स विष्णुस्रेधात्मानं वि न्यधत्त पृथिव्यां तृतीयमंतरिक्षे तृतीयं दिवि तृतीयमभिपर्यावर्ताद्द्य बिभेद्यत्पृथिव्यां तृतीयमासीत्तेनेंद्रो वज्र मुदयच्छद्विष्णुनुस्थितस्सोऽब्रवीन्मामे प्र हारस्ति वा इदं मयि वीर्यं तत्ते प्र दास्यामीति (*asīdyadi nā tāvadadhyagnerāsītsa saṃbhavannagnīṣomāvabhi samabhavathya iṣumātra miṣumātraṃ viṣvajjavardhata sa imān lokānāvṛṇodyadimān lokāna vṛṇottadvatrasya vṛtratvaṃ tasmādiṃdro 'bibhedapi tvaṣṭā tasmai tvaṣṭāvajramasiṃcattapo vai sa vajra āsīttamudyaṃtuṃ nāśakkodatha vai tarhi viṣṇuranyā devatāsītsobravīdviṣṇavehīdanā hariṣyāvo yenāyamidamiti sa viṣṇusredhātmānaṃ vi nyadhatta pṛthivyāṃ tṛtīyamaṃtarikṣe tṛtīyaṃ divi tṛtīyamabhiparyāvartāddya bibhedyatpṛthivyāṃ tṛtīyamāsītteneṃdro vajra mudayacchadviṣṇunusthitasso 'bravīnmāme pra hārasti vā idaṃ mayi vīryaṃ tatte pra dāsyāmīti*)
-(Kṛ. Saṃ. 2-4-12-2) **NOTE**
+(Tai. Saṃ. 2-4-12-2) **NOTE**
 
 Formerly Vṛtra, born from the sacrificial fire, spread very quickly over all the worlds. He grew as fast as an arrow leaves a bow, and with a vast extent. For that very reason he got the name Vṛtra. Seeing this, fear arose in Indra. Then Tvaṣṭṛ made the thunderbolt and gave it to Indra, telling him to strike Vṛtra with it. Indra could not even lift the thunderbolt, which was born of the power of austerity. Viṣṇu was standing close by at the time. Indra prayed to Viṣṇu to help him in slaying Vṛtra; Viṣṇu agreed, divided his body into three parts, and placed one part on the earth, one in the atmosphere, and the remaining third in the heaven-world. With the help of the part of Viṣṇu's body that was on the earth, Indra lifted the thunderbolt.
 
@@ -15201,7 +15201,7 @@ Here it is an epithet of heroes who are turned towards heaven. Having thus shown
 - क्रमणे — क्रमु पादविक्षेपे धातुः । भावार्थे ल्युट् प्रत्ययः । युवोरनाकौ इति तस्य अनादेशः । अट्‌कुप्वाज् इति सूत्रेण नकारस्य णत्वं । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वमुदात्तस्वरो भवति ।
 - स्वर्दृशः — दृशिर् प्रेक्षणे धातुः । क्विप् प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति । षष्ठीएकवचनांतरूपं ।
 - अभिख्याय — ख्या प्रकथने धातुः । तस्मात् क्त्वा प्रत्यये समासेन नञ्पूर्वे (पा. सू. ७-१-७२) इति तस्य ल्यबादेशः । पित्त्वात् सोऽनुदात्तो भवति । **NOTE**
-- भुरण्यति — भुरण्य गत् धातुः । कंड्वादिः । भुरण्यति शवति (निरु. १४-१६) इति गतिकर्मकधातूनां मध्ये पठितः । लट् प्रथमपुरुषएकवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- भुरण्यति — भुरण्य गत् धातुः । कंड्वादिः । भुरण्यति शवति (नि. १४-१६) इति गतिकर्मकधातूनां मध्ये पठितः । लट् प्रथमपुरुषएकवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
 - दधर्षति — धृषि शसी वैयात्ये धातुः । इध्यषा प्रागल्भ्ये धातुः । लट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । बहुलं छंदसि इति शपः श्लु आदेशः । लेटोऽडाट् (पा. सू. ३-४-९४) इति प्रत्ययस्य अडागमः । धातोर्द्वित्वादि । प्रत्ययनिमित्तत्वेन धातोर्लघोपधाया गुणः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
 - वयः — वा गतिगंधनयोः धातुः । वातेर्डिच्च (उ. सू. ४-५७३) इति इण् प्रत्ययः । तस्य डित्त्वविधानात् धातोः टेः (आ) लोपः । वि शब्दो भवति । प्रथमाबहुवचनांतरूपं ।
 
@@ -15359,7 +15359,7 @@ In these and similar passages Prajāpati is described as the soul of all. Just a
 - चतुर्भिः — झल्युपोत्तम् (पा. सू. ८६-१-१८०) इति झलादिविभक्त्यंतत्वात् उपोत्तम उदात्तं भवति ।
 - व्यतीन् — वि उपसर्गः । अत सातत्यगमने धातुः । इन् सार्वधातुभ्यः इति इन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
 - वृत्तम् — वृतु वर्तने धातुः । अस्मात् निष्ठा क्त प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । प्रत्ययस्वरो भवति ।
-- अवीविपत् — टुवेपृ कंपने धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । णिजंतात् लुज् । प्रथमपुरुषैकवचने ति प्रत्ययः । इतश्च इति इकारलोपः । णिश्रिद्रुसुभ्यः (पा. सू. ३-१-८४) इति कर्तरि चज् । णौचङ्जुपधायाः ह्रस्वः (पा सव. ७-४-१) इति धातोरुपधाया ह्रस्वः । एचइत् ह्रस्वादेशे इति इकारो भवति । चजि (पा. सू. ६-१-११) इति द्वित्वम् । सन्वल्लघुनि चज् (पा सू. ७-४-९३) इति सन्वद्भावे सति दीर्घो लघोः (पा सू ७-४-९४) इति अभ्यासस्य दीर्घः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- अवीविपत् — टुवेपृ कंपने धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । णिजंतात् लुज् । प्रथमपुरुषैकवचने ति प्रत्ययः । इतश्च इति इकारलोपः । णिश्रिद्रुसुभ्यः (पा. सू. ३-१-८४) इति कर्तरि चज् । णौचङ्जुपधायाः ह्रस्वः (पा. सू. ७-४-१) इति धातोरुपधाया ह्रस्वः । एचइत् ह्रस्वादेशे इति इकारो भवति । चजि (पा. सू. ६-१-११) इति द्वित्वम् । सन्वल्लघुनि चज् (पा सू. ७-४-९३) इति सन्वद्भावे सति दीर्घो लघोः (पा सू ७-४-९४) इति अभ्यासस्य दीर्घः । णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
 - बृहत् शरीरः — बृहत् शरीरः यस्य सः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा.सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
 - विमिमानः — माज् माने धातुः । जुहोत्यादिः । लडर्थे शानच् प्रत्ययः । श्लौ इति धातोर्द्वित्वम् । बृञामित् (पा. सू. ७-४-७६) इति अभ्यासस्य इत्वम् । अभ्यस्तानामादिः (पा. सू. ६-१-८९) इति आद्युदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
 - ऋक्वभिः — ऋच स्तुतौ धातुः । अन्येभ्योऽपिदृश्यंते (पा. सू. ३-२-३५) इति क्वनिप् प्रत्ययः । व्यत्ययेन कुत्वं भवति । प्रत्ययस्य पित्त्वात् अनुदात्तत्वं भवति ।
@@ -15517,7 +15517,7 @@ and quoting this Ṛk they showed the fitting meaning of the word there as state
 > वा सुमज्ञानये स्वयमेवोत्पन्नाय ॥ जनेर्‌णादिक इण् ॥ सुमत्स्ययमित्यर्थः ।
 > नि. ६-२२ । इति यास्कः । यद्वा । सुतरां मादयतीति सुमत् । तादृशी जाया यस्य
 > स तथोक्तः। तस्मै सर्वजगन्मादनशीलश्रीपतय इत्यर्थः ॥ बहुव्रीहौ जायायानिज्॥
-> पा. ५-४-१३४. ॥ इति निजादेशः समासांतः । वलि लोपः ॥ उक्तगुणकाय विष्णवे
+> पा. सू. ५-४-१३४. ॥ इति निजादेशः समासांतः । वलि लोपः ॥ उक्तगुणकाय विष्णवे
 > व्यापकाय ददाशति हविरादिकं ददाति । किंचास्य विष्णोर्महतो महानुभावस्य महि
 > महत् पूज्यं जातं जन्मोत्पत्तिं हिरण्यगर्भादिरूपं जन्म ब्रवत् ब्रूयात् ॥
 > ब्रवीतेर्लेट्यडागमः ॥ संकीर्तयेत् । सेदु । उशब्दोऽपिशब्दार्थः । सोऽपि दाता
@@ -15526,7 +15526,7 @@ and quoting this Ṛk they showed the fitting meaning of the word there as state
 
 ##### Gist of the bhāṣya
 
-"He who" (यः (*yaḥ*)), the mortal, to the one who is पूर्व (*pūrva*), of former time, that is, eternal; वेधसे (*vedhase*), the maker of the manifold world; नवीयसे (*navīyase*), ever new, that is, exceedingly delightful, or else worthy of praise; सुमज्ञानये (*sumajñānaye*), born of himself (the suffix is Uṇādi इण् (*iṇ*)), "self-existent" (*sumatsyayam*), Ni. 6-22, says Yāska. Or else: सुतरां मादयतीति सुमत् (*sutarāṃ mādayatīti sumat*), one whose wife is of such a kind is so called; thus, to the lord of Śrī, whose nature is to gladden the whole world. In this case the substitute निज् (*nij*) is a samāsānta by Pā. 5-4-134, and the व (*va*) is elided. To Vishnu, the all-pervading, who has the stated qualities, "he gives" (ददाशति (*dadāśati*)) oblations and the like. Moreover, of this great Vishnu, of great majesty, he would proclaim (ब्रवत् (*bravat*), i.e. would celebrate; the *aṭ* augment of the Leṭ of ब्रू (*brū*)) the great, worshipful birth (जातं (*jātaṃ*)), the birth in the form of Hiraṇyagarbha and the like. सेदु (*sedu*): the word उ (*u*) has the sense of "also"; he too, the giver and the praiser, endowed with श्रवः (*śravaḥ*) (food, or fame), reaches (*abhyasat*: goes, attains) that place which is to be reached by all (युज्यं चित् (*yujyaṃ cit*)), facing it directly.
+"He who" (यः (*yaḥ*)), the mortal, to the one who is पूर्व (*pūrva*), of former time, that is, eternal; वेधसे (*vedhase*), the maker of the manifold world; नवीयसे (*navīyase*), ever new, that is, exceedingly delightful, or else worthy of praise; सुमज्ञानये (*sumajñānaye*), born of himself (the suffix is Uṇādi इण् (*iṇ*)), "self-existent" (*sumatsyayam*), Ni. 6-22, says Yāska. Or else: सुतरां मादयतीति सुमत् (*sutarāṃ mādayatīti sumat*), one whose wife is of such a kind is so called; thus, to the lord of Śrī, whose nature is to gladden the whole world. In this case the substitute निज् (*nij*) is a samāsānta by Pā. Sū. 5-4-134, and the व (*va*) is elided. To Vishnu, the all-pervading, who has the stated qualities, "he gives" (ददाशति (*dadāśati*)) oblations and the like. Moreover, of this great Vishnu, of great majesty, he would proclaim (ब्रवत् (*bravat*), i.e. would celebrate; the *aṭ* augment of the Leṭ of ब्रू (*brū*)) the great, worshipful birth (जातं (*jātaṃ*)), the birth in the form of Hiraṇyagarbha and the like. सेदु (*sedu*): the word उ (*u*) has the sense of "also"; he too, the giver and the praiser, endowed with श्रवः (*śravaḥ*) (food, or fame), reaches (*abhyasat*: goes, attains) that place which is to be reached by all (युज्यं चित् (*yujyaṃ cit*)), facing it directly.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -15596,7 +15596,7 @@ Since there is a Nirukta statement चिदित्येषोऽनेकक
 
 - वेधसे — वि उपसर्गः । डुधाञ् धारणपोषणयोः धातुः । विधाञ्नो वेधच (उ. सू. ४-६६४) इति असि प्रत्ययः । उपसर्गविशिष्टधातोः वेधादेशः । प्रत्ययस्य आद्युदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
 - नवीयसे — अतिशयेन नवः नवीयान् । अतिशयार्थे ईयसुन् प्रत्ययः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति ।
-- सुमज्ञानये — सुमत् स्वयं जानिः उत्पत्तिः यस्य । सुमत्‌स्वयमित्यर्थः (निरु. ६-२२) इति यास्केन उक्तम् । जनी प्रादुर्भावे धातुः । अस्मात् औणादिकः इण् प्रत्ययः । अतउपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । सुमज्ञानि इति रूपं भवति । अथवा सुतरां मादयति इति सुमत् । सु उपपदे सति अंतर्भावितण्यर्थकात् मद धातोः क्विप् प्रत्ययः । सुमत् जाया यस्य सः सुमज्ञानिः । जायाया निज् (पा.सू. ५-४-१३४) इति समासांतत्वेन निजादेशः भवति । लोपोव्योर्वलि इति यकारलोपः । बहुव्रिह प्रकृत्या पूर्वपदम् (पा सू. ६-२-२) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- सुमज्ञानये — सुमत् स्वयं जानिः उत्पत्तिः यस्य । सुमत्‌स्वयमित्यर्थः (नि. ६-२२) इति यास्केन उक्तम् । जनी प्रादुर्भावे धातुः । अस्मात् औणादिकः इण् प्रत्ययः । अतउपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । सुमज्ञानि इति रूपं भवति । अथवा सुतरां मादयति इति सुमत् । सु उपपदे सति अंतर्भावितण्यर्थकात् मद धातोः क्विप् प्रत्ययः । सुमत् जाया यस्य सः सुमज्ञानिः । जायाया निज् (पा.सू. ५-४-१३४) इति समासांतत्वेन निजादेशः भवति । लोपोव्योर्वलि इति यकारलोपः । बहुव्रिह प्रकृत्या पूर्वपदम् (पा सू. ६-२-२) इति पूर्वपदप्रकृतिस्वरः भवति ।
 - ददाशति — दाश्य दाने धातुः । भ्यादिः । लट् प्रथमपुरुषएकवचने परे बहुलं छंदसि इति शपि श्लु आदेशः । श्लु इति धातोः द्वित्वम् । यद्योगात् निघातस्वरः न भवति । अभ्यस्तासामादिः (पा सू. ६-१-१८९) इति आद्युदात्तस्वरः भवति ।
 - महतः — बृहन्महतोरुपसंख्यानम् इति वचनेन षष्ठीविभक्तेः उदात्तस्वरः भवति ।
 - महि — मह पूजायां धातुः । सर्वधातुभ्य इन् इति इन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
@@ -15880,7 +15880,7 @@ Besides the meaning stated above, Sāyaṇa has explained this Ṛk in another w
 - अहर्विदम् — विद ज्ञाने धातुः । क्विप् च इति क्विप् प्रत्ययः । गतिकारकोपपदात्‌कृत् इति कृदुत्तरपदप्रकृतिस्वरः भवति । द्वितीयाविकवचनांतरूपम् ।
 
 ### Printed p. 663
-- सखिवान् — सखा अस्य अस्ति इति सखिवान् । छंदसीवनिपौ इति मत्त्वर्थे वनिप् प्रत्ययः । पित्त्वाद् अनुदात्तः भवति । उप इति अच् परत्वात् दीर्घादटि समानपादे (पा. सु. ८-३-९) इति नकारस्य रुत्वम् । आतोटि नित्यम् (पा. सू. ८-३-३) इति पूर्वस्य आकारस्य संहितायां नित्यम् अनुनासिकत्वम् । **NOTE**
+- सखिवान् — सखा अस्य अस्ति इति सखिवान् । छंदसीवनिपौ इति मत्त्वर्थे वनिप् प्रत्ययः । पित्त्वाद् अनुदात्तः भवति । उप इति अच् परत्वात् दीर्घादटि समानपादे (पा. सू. ८-३-९) इति नकारस्य रुत्वम् । आतोटि नित्यम् (पा. सू. ८-३-३) इति पूर्वस्य आकारस्य संहितायां नित्यम् अनुनासिकत्वम् । **NOTE**
 - अप ऊर्णुते — ऊर्णुञ् आच्छादने धातुः । अदादिः । लट् प्रथमपुरुष एकवचनांतरूपम् । च इति संबंधत्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । तिजिचोदात्तवति (पा सू. ८-१-७१) इति गतेः (अप) निघातस्वरः भवति ।
 
 #### Ṛk 5
@@ -16476,7 +16476,7 @@ has given, for प्रतारिषत् (*pratāriṣat*), an example suit
 ##### विशेषविषयगळु (Special Topics)
 
 रपो रिप्रमिति पापनामनी भवतः । (*rapo ripramiti pāpanāmanī bhavataḥ |*) (Ni. 4-21). It is said that rapaḥ and ripra are both synonyms for sin.
-त्वं कुत्सेनाभि शुष्णमिंद्राशुषं युध्य कुयवं गविष्टौ । दश प्रपित्वे अध सूर्यस्य मुषायश्च क्रमविवे रपांसि ॥ (*tvaṃ kutsenābhi śuṣṇamiṃdrāśuṣaṃ yudhya kuyavaṃ gaviṣṭau | daśa prapitve adha sūryasya muṣāyaśca kramavive rapāṃsi ‖*) (Ṛ. 6-31-3). In Ṛks such as this, the word रपांसि (*rapāṃsi*) means पापकारीणि रक्षःप्रभृतीनि । (*pāpakārīṇi rakṣaḥprabhṛtīni |*) — sin-doing demons and the like. In the present Ṛk it means "our sins" (मृक्षतं (*mṛkṣataṃ*)).
+त्वं कुत्सेनाभि शुष्णमिंद्राशुषं युध्य कुयवं गविष्टौ । दश प्रपित्वे अध सूर्यस्य मुषायश्च क्रमविवे रपांसि ॥ (*tvaṃ kutsenābhi śuṣṇamiṃdrāśuṣaṃ yudhya kuyavaṃ gaviṣṭau | daśa prapitve adha sūryasya muṣāyaśca kramavive rapāṃsi ‖*) (Ṛ. Saṃ. 6-31-3). In Ṛks such as this, the word रपांसि (*rapāṃsi*) means पापकारीणि रक्षःप्रभृतीनि । (*pāpakārīṇi rakṣaḥprabhṛtīni |*) — sin-doing demons and the like. In the present Ṛk it means "our sins" (मृक्षतं (*mṛkṣataṃ*)).
 सचाभुवा (*sacābhuvā*)—सहभुवानवस्मत्कार्येषु सहभवनवंतौ भवतं । (*sahabhuvānavasmatkāryeṣu sahabhavanavaṃtau bhavataṃ |*) The Aśvin deities are entreated: in our sacrifices and the like, be the two of you joined together, united.
 
 ##### Grammar
@@ -16598,14 +16598,14 @@ Because the passage above, and likewise other Śruti passages, describe the Aśv
 
 > हे अश्विन् युवं युवां ह खलु भेषजेभिर्भेषजैरौषधैः । भेषजौषधभैषज्यान्यगदो जायुरगदं तत्रौषधमिति चाभिधानात् । तैर्भिषजा भिषजौ स्थः ।
 > हशब्दोऽश्विनौ हि देवानां भिषजावित्यादिप्रसिद्धिद्योतनार्थः । अथो अपि च रथ्येभि
-> रथवोढृभिरश्चै रथ्या रथवंतौ स्थः । आ वां रथो अश्विना । ऋ. १-११८-१ । इत्यादिप्रसिद्धिद्योतनार्थो हशब्दः । अनयो रथेन विशेषसंबंधो युवोर्हि पूर्वं
-> सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति । ऋ. १-३४-१० । इत्यादिमंत्रांतरेषु
+> रथवोढृभिरश्चै रथ्या रथवंतौ स्थः । आ वां रथो अश्विना । ऋ. सं. १-११८-१ । इत्यादिप्रसिद्धिद्योतनार्थो हशब्दः । अनयो रथेन विशेषसंबंधो युवोर्हि पूर्वं
+> सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति । ऋ. सं. १-३४-१० । इत्यादिमंत्रांतरेषु
 > प्रसिद्धः ! अथो अपि च युवयोः क्षत्रं बलमधि ह । अधिकं खलु । हशब्दः प्रसिद्धौ ।
 > यस्मादेवं तस्माद्दे उग्रोद्गूर्णसामर्थ्यावश्विन् वां युवाभ्यां यो हविष्मानाज्ञपुरोडाशादिहवियर्युक्तो यजमानो मनसा युद्धदायत्तेन चेतसा
 
 ##### Gist of the bhāṣya
 
-O Aśvins, you are indeed physicians with medicines (भेषजेभिः (*bheṣajebhiḥ*)), since the lexicon says भेषजौषधभैषज्यान्यगदो जायुरगदं तत्रौषधमिति चाभिधानात् । (*bheṣajauṣadhabhaiṣajyānyagado jāyuragadaṃ tatrauṣadhamiti cābhidhānāt |*) The word ह (*ha*) points to the well-known fact *aśvinau hi devānāṃ bhiṣajāvityādi*. Further, you are रथ्या (*rathyā*), possessed of chariots, with रथ्येभि (*rathyebhi*), horses that draw the chariot; here too ह (*ha*) points to what is famed, as in आ वां रथो अश्विना (*ā vāṃ ratho aśvinā*) (Ṛ. 1-118-1). The special connection of these two with the chariot is well known in other mantras, such as युवोर्हि पूर्वं सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति (*yuvorhi pūrvaṃ savitoṣasā rathamṛtāya citraṃ dhṛtavaṃtamiṣyati*) (Ṛ. 1-34-10). And your क्षत्रं (*kṣatraṃ*), strength, is indeed greater (अधि ह (*adhi ha*); ह (*ha*) again in the sense of "well known"). Since it is so, O fierce ones (उग्रा (*ugrā*), "of lifted-up power"), the sacrificer who has oblations (cakes and the like) and who gives with his mind (मनसा (*manasā*), "with a heart bent on …" **NOTE**) —
+O Aśvins, you are indeed physicians with medicines (भेषजेभिः (*bheṣajebhiḥ*)), since the lexicon says भेषजौषधभैषज्यान्यगदो जायुरगदं तत्रौषधमिति चाभिधानात् । (*bheṣajauṣadhabhaiṣajyānyagado jāyuragadaṃ tatrauṣadhamiti cābhidhānāt |*) The word ह (*ha*) points to the well-known fact *aśvinau hi devānāṃ bhiṣajāvityādi*. Further, you are रथ्या (*rathyā*), possessed of chariots, with रथ्येभि (*rathyebhi*), horses that draw the chariot; here too ह (*ha*) points to what is famed, as in आ वां रथो अश्विना (*ā vāṃ ratho aśvinā*) (Ṛ. Saṃ. 1-118-1). The special connection of these two with the chariot is well known in other mantras, such as युवोर्हि पूर्वं सवितोषसा रथमृताय चित्रं धृतवंतमिष्यति (*yuvorhi pūrvaṃ savitoṣasā rathamṛtāya citraṃ dhṛtavaṃtamiṣyati*) (Ṛ. Saṃ. 1-34-10). And your क्षत्रं (*kṣatraṃ*), strength, is indeed greater (अधि ह (*adhi ha*); ह (*ha*) again in the sense of "well known"). Since it is so, O fierce ones (उग्रा (*ugrā*), "of lifted-up power"), the sacrificer who has oblations (cakes and the like) and who gives with his mind (मनसा (*manasā*), "with a heart bent on …" **NOTE**) —
 
 ### Printed p. 691
 
