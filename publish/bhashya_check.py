@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Check an English rendering of the Sāyaṇa-bhāṣya (tools/rv/BHASHYA_BRIEF.md) against its task file.
 
+    python3 publish/bhashya_check.py VOL M.S          # e.g. 17 3.40: the task and English files of that sūkta
     python3 publish/bhashya_check.py TASK.md ENGLISH.md
 
-TASK.md is a one-sūkta reader built by publish/bhashya_book.py. Checks:
+TASK.md is built by `publish/bhashya_book.py VOL --task M.S`. Checks:
   - the headings are exactly `## Introduction` (if the task has a bhāṣya block before Ṛk 1) and `## Ṛk N`
     for every Ṛk of the task, in order, each with text;
   - every ⟦…⟧ occurs letter for letter (spaces, line breaks and accent marks apart) in that unit's Devanagari;
-  - no Devanagari outside ⟦ ⟧; no stray ⟦ or ⟧.
+  - no Devanagari outside ⟦ ⟧; no stray ⟦ or ⟧;
+  - every numbered reference (2-3-4, 5.10) stands with the same numbers in that unit's block;
+  - no Sanskrit gloss typed in Roman letters inside brackets, e.g. (ramate, krīḍati): it must be copied with ⟦ ⟧.
 Prints the size of each unit (bhāṣya words → English words) and VERIFIED, or the faults and exit 1.
 What it cannot check: whether the English is right. Only a reader can.
 """
@@ -15,6 +18,23 @@ import re, sys
 
 SQUEEZE = re.compile('[\\s\\u0951\\u0952\\u1CD0-\\u1CFF\\uA8E0-\\uA8FF]+')   # spaces, line breaks, Vedic accent marks
 DEVA = re.compile(r'[ऀ-ॿ]')
+
+
+REF = re.compile(r'(?<![\w.-])\d+(?:[-.–]\d+)+(?![\w-])')
+DIAC = re.compile('[āīūṛṝḷṅñṭḍṇśṣṃḥ]')
+ENGLISH = set('the of a an in is that or and to with by for as its it this are be from on at his he who which not i e'.split())
+TO_DEVA = str.maketrans('0123456789', '०१२३४५६७८९')
+
+
+def roman_gloss(body):
+    """Bracketed runs of lower-case Sanskrit in Roman letters, e.g. (ramate, krīḍati)."""
+    out = []
+    for m in re.finditer(r'\(([^()⟦⟧{}\d]{2,60})\)', body):
+        words = re.findall(r'[^\W\d_]+', m.group(1))
+        if (words and len(words) <= 5 and DIAC.search(m.group(1)) and all(w.islower() for w in words)
+                and not ENGLISH & set(words)):
+            out.append(m.group(0))
+    return out
 
 
 def task_units(path):
@@ -36,8 +56,17 @@ def task_units(path):
 
 def main():
     if len(sys.argv) != 3: sys.exit(__doc__)
-    units = task_units(sys.argv[1])
-    text = open(sys.argv[2], encoding='utf-8').read()
+    task, eng = sys.argv[1], sys.argv[2]
+    if task.isdigit():
+        import pathlib, subprocess
+        root = pathlib.Path(__file__).resolve().parent.parent
+        r = subprocess.run([sys.executable, str(root / 'publish' / 'bhashya_book.py'), task, '--task', eng], capture_output=True, text=True)
+        got = re.findall(r'^(?:task|write your English to): (\S+)', r.stdout, flags=re.M)
+        if r.returncode or len(got) != 2: sys.exit((r.stdout + r.stderr).strip() or 'could not build the task file')
+        task, eng = str(root / got[0]), str(root / got[1])
+        if not pathlib.Path(eng).exists(): sys.exit(f'no English file yet: {got[1]}')
+    units = task_units(task)
+    text = open(eng, encoding='utf-8').read()
     parts = re.split(r'^## (.+)$', text, flags=re.M)
     faults = []
     if parts[0].strip(): faults.append('text before the first heading')
@@ -58,6 +87,12 @@ def main():
         outside = re.sub(r'⟦.*?⟧', '', body, flags=re.S)
         m = DEVA.search(outside)
         if m: faults.append(f'{h}: Devanagari outside ⟦ ⟧ near "{outside[max(0, m.start() - 25):m.start() + 15].strip()}"')
+        refs = re.sub(r'[.–—]', '-', u['deva'])
+        for r in REF.findall(re.sub(r'\*\*NOTE\*\*\{[^{}]*\}', '', outside)):
+            if re.sub(r'[.–]', '-', r).translate(TO_DEVA) not in refs:
+                faults.append(f'{h}: the reference {r} is not in this unit\'s block (nothing may be supplied from elsewhere)')
+        for g in roman_gloss(outside):
+            faults.append(f'{h}: Sanskrit in Roman letters inside brackets {g}: cite the word with ⟦ ⟧, or give only the English; a technical term stands without brackets')
         plain = re.sub(r'⟦.*?⟧', '', body, flags=re.S)
         rows.append((h, u['bh_words'], len(plain.split()), len(quotes), body.count('**NOTE**')))
     for h, b, e, q, n in rows: print(f'  {h}: bhāṣya {b} words → English {e} words; {q} quotations; {n} NOTE')
@@ -65,7 +100,7 @@ def main():
     print(f'  total: bhāṣya {tb} words → English {te} words; {sum(r[3] for r in rows)} quotations; {sum(r[4] for r in rows)} NOTE')
     if faults:
         print('FAULTS:'); [print('  - ' + f) for f in faults]; return 1
-    print('VERIFIED (form only: headings, quotations copied from the unit, no typed Devanagari)')
+    print('VERIFIED (form only: headings, quotations and references copied from the unit, no typed Sanskrit in brackets)')
     return 0
 
 

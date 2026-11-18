@@ -15,6 +15,12 @@ back together (counted in the report).
     python3 publish/bhashya_book.py 17 --sukta 40            # one sūkta
     python3 publish/bhashya_book.py 17 --sukta 3.40 --sukta 4.1   # Maṇḍala.Sūkta
     python3 publish/bhashya_book.py 17 --all [--out DIR] [--html]
+    python3 publish/bhashya_book.py 17 --task 3.40    # task file for the translator of one sūkta
+    python3 publish/bhashya_book.py 17 --notes        # the translators' questions → volN/review/bhashya_notes.tsv
+
+The English of the bhāṣya (tools/rv/BHASHYA_BRIEF.md) lives in volN/bhashya_en/M<m>_S<sss>.md, one
+file per sūkta. Where that file exists the book prints it in place of the Gist (`--gist` forces the
+Gist): ⟦…⟧ becomes Devanagari + transliteration, **NOTE**{question} becomes **NOTE**.
 
 A bare sūkta number that occurs in two Maṇḍalas of the volume is refused: give
 Maṇḍala.Sūkta. Reads volumes in the labelled layout (`## Sūkta`, `#### Ṛk`,
@@ -25,6 +31,31 @@ prints a report; exits 1 if the built-in check fails.
 import argparse, json, pathlib, re, subprocess, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+DEVA = re.compile('[\u0900-\u097F]')
+NOTE = re.compile(r'\*\*NOTE\*\*\{([^{}]*)\}')
+EN_HEAD = '#### English of the bhāṣya'
+
+
+def en_path(vol, mand, sukta):
+    return ROOT / f'vol{vol}' / 'bhashya_en' / f'M{mand or 0}_S{sukta:03d}.md'
+
+
+def read_english(path):
+    """{'Introduction' | 'Ṛk N': raw text} from one sūkta's English file."""
+    parts = re.split(r'^## (.+)$', path.read_text(encoding='utf-8'), flags=re.M)
+    return {parts[i].strip(): parts[i + 1].strip() for i in range(1, len(parts), 2)}
+
+
+def render_english(raw, notes, where):
+    """⟦X⟧ → X (*iast*); **NOTE**{q} → **NOTE**, the question going to `notes`."""
+    sys.path.insert(0, str(ROOT / 'publish' / 'tools' / 'translit'))
+    from add_iast import deva_to_iast
+    def note(m):
+        before = re.sub(r'[⟦⟧]', '', raw[max(0, m.start() - 60):m.start()]).replace('\n', ' ').strip()
+        notes.append((*where, re.sub(r'[⟦⟧]', '', m.group(1)).strip(), before)); return '**NOTE**'
+    text = NOTE.sub(note, raw)
+    text = re.sub(r'⟦(.*?)⟧', lambda m: f'{m.group(1).strip()} (*{deva_to_iast(m.group(1).strip())}*)', text, flags=re.S)
+    return [l.rstrip() for l in text.splitlines()]
 KEPT = ('samhita', 'pada', 'bhashya', 'gist', 'grammar')
 SUKTA = re.compile(r'^Sūkta\s+(\d+)(?:\s+\(Maṇḍala\s+(\d+)\))?\s*$')
 RK = re.compile(r'^Ṛk\s+\d+')
@@ -67,16 +98,21 @@ def sukta_list(lines):
     return out
 
 
-def select(lines, chosen):
-    """chosen: set of sūkta-heading line indexes. Returns (output lines, report)."""
+def select(lines, chosen, english=None, lean=False):
+    """chosen: set of sūkta-heading line indexes. english: {heading line index: (label, {unit: raw text})}
+    for the sūktas whose Gist is replaced. lean: a translator's task (Devanagari of Saṃhitā, Pada and
+    bhāṣya only). Returns (output lines, report)."""
+    english = english or {}
     out, rep = [], {k: 0 for k in KEPT}
+    rep.update(en_suktas=0, en_units=0, en_lines=set(), notes=[])
     rep.update(suktas=0, rks=0, joins=0, no_particulars=[], dropped_particulars=0, part_en=0, part_dev=0, anuvada_lines=0)
-    st = dict(on=False, sec=None, rk=False, par=[], page=False, last=None, name='', cut='b', en=[], dev=[], done=True)
+    st = dict(on=False, sec=None, rk=False, par=[], page=False, last=None, name='', cut='b', en=[], dev=[], done=True, unit=None, eng=None)
 
     def particulars():
         """Once per sūkta, before its first Ṛk: the English particulars, else the Devanagari ones."""
         if not st['on'] or st['done']: return
         st['done'] = True
+        if lean: return
         pars = st['en'] or st['dev']
         if not pars: rep['no_particulars'].append(st['name']); return
         rep['part_en' if st['en'] else 'part_dev'] += 1
@@ -85,6 +121,16 @@ def select(lines, chosen):
 
     def heading(text):
         out.extend([text, '']); st['last'] = None
+
+    def close_unit():
+        """The English of the unit that ends here (introduction or one Ṛk)."""
+        if not st['on'] or not st['eng'] or st['unit'] is None: return
+        raw = st['eng'][1].get(st['unit'])
+        st['unit'] = None
+        if not raw: return
+        body = render_english(raw, rep['notes'], (st['eng'][0], st['unit_name']))
+        heading(EN_HEAD); out.extend(body); out.append('')
+        rep['en_units'] += 1; rep['en_lines'].update(body)
 
     def emit(par):
         quote = par[0].startswith('>')
@@ -122,6 +168,10 @@ def select(lines, chosen):
             par = keep
             if not par: st['page'] = False; return
         if sec == 'grammar' and not par[0].startswith('- '): st['sec'] = sec = 'other'
+        if (lean or st['eng']) and sec == 'gist' and not par[0].startswith('>'): sec = 'other'   # Gist prose not wanted
+        if lean:
+            par = [l for l in par if DEVA.search(l)]          # no transliteration lines
+            if not par or sec == 'grammar': st['page'] = False; return
         if sec in KEPT: emit(par)
         st['page'] = False
 
@@ -131,26 +181,31 @@ def select(lines, chosen):
             flush()
             lvl, head = len(m.group(1)), m.group(2).strip()
             if lvl <= 2:
-                particulars()
-                st.update(on=i in chosen, sec=None, rk=False, last=None, page=False, name=head, cut='b', en=[], dev=[], done=False)
-                if st['on']: rep['suktas'] += 1; heading(f'## {head}')
+                close_unit(); particulars()
+                st.update(on=i in chosen, sec=None, rk=False, last=None, page=False, name=head, cut='b', en=[], dev=[], done=False,
+                          unit='Introduction', unit_name='Introduction', eng=english.get(i))
+                if st['on']:
+                    rep['suktas'] += 1; heading(f'## {head}')
+                    if st['eng']: rep['en_suktas'] += 1
                 continue
             if not st['on']: continue
             if lvl == 3 and head.startswith('Printed p.'):
                 st['page'] = True; continue           # marker dropped, section continues
             if lvl == 4:
                 if RK.match(head) and not CONT.search(head):
-                    particulars(); st['rk'] = True; rep['rks'] += 1; heading(f'### {head}')
+                    close_unit(); particulars(); st['rk'] = True; rep['rks'] += 1; heading(f'### {head}')
+                    st['unit'] = st['unit_name'] = re.match(r'^Ṛk\s+\d+', head).group(0)
                 st['sec'] = None; st['last'] = None; continue
             if lvl == 5:
                 st['sec'] = kind(head); st['cut'] = 'b'
-                if st['sec'] in KEPT: rep[st['sec']] += 1; heading(f'#### {head}')
+                skip = (st['sec'] == 'gist' and (lean or st['eng'])) or (lean and st['sec'] == 'grammar')
+                if st['sec'] in KEPT and not skip: rep[st['sec']] += 1; heading(f'#### {head}')
                 continue
             st['sec'] = None; continue
         if not st['on']: continue
         if ln.strip() == '': flush()
         else: st['par'].append(ln)
-    flush(); particulars()
+    flush(); close_unit(); particulars()
     return out, rep
 
 
@@ -158,7 +213,7 @@ def check(lines, chosen, slist, out, rep):
     """Independent of select(): every text line is in the source unchanged, and the
     Ṛk count equals the source's count of (non-continuation) Ṛk headings."""
     src = set(lines)
-    bad = [l for l in out if l.strip() and not l.startswith('#') and l not in src]
+    bad = [l for l in out if l.strip() and not l.startswith('#') and l not in src and l not in rep['en_lines']]
     starts = sorted(i for _, _, i in slist)
     want = 0
     for s in chosen:
@@ -180,8 +235,13 @@ def main():
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--out', default=str(ROOT / 'publish' / 'out'))
     ap.add_argument('--html', action='store_true')
+    ap.add_argument('--task', metavar='M.S', help='write the translator task file for one sūkta')
+    ap.add_argument('--notes', action='store_true', help='write volN/review/bhashya_notes.tsv from all English files')
+    ap.add_argument('--gist', action='store_true', help='print the Gist even where an English file exists')
     a = ap.parse_args()
-    if not a.sukta and not a.all: ap.error('give --sukta or --all')
+    if a.task: a.sukta, a.all = [a.task], False
+    if a.notes: a.all = True
+    if not a.sukta and not a.all: ap.error('give --sukta, --all, --task or --notes')
     cfgf = ROOT / f'vol{a.vol}' / 'volcfg.json'
     src = (ROOT / json.loads(cfgf.read_text(encoding='utf-8'))['out']['en'] if cfgf.exists()
            else ROOT / f'vol{a.vol}' / f'Rigveda_Samhita_Vol{a.vol}_English_Translation.md')
@@ -206,8 +266,30 @@ def main():
             chosen.add(hits[0][2])
         sel = 'S' + '-'.join(s.replace('.', '_') for s in a.sukta)
         what = 'Sūkta ' + ', '.join(a.sukta)
-    body, rep = select(lines, chosen)
+    if a.task:
+        m, n, i = next(x for x in slist if x[2] in chosen)
+        body, rep = select(lines, chosen, lean=True)
+        errs = check(lines, chosen, slist, body, rep)
+        if errs: print('CHECK FAILED: ' + ' | '.join(errs)); return 1
+        t = ROOT / f'vol{a.vol}' / 'work' / 'bhashya' / f'M{m or 0}_S{n:03d}.task.md'
+        t.parent.mkdir(parents=True, exist_ok=True)
+        t.write_text('\n'.join(body).strip() + '\n', encoding='utf-8')
+        print(f'task: {t.relative_to(ROOT)}  ({rep["rks"]} Ṛks)')
+        print(f'write your English to: {en_path(a.vol, m, n).relative_to(ROOT)}')
+        return 0
+    english = {}
+    if not a.gist:
+        for m, n, i in slist:
+            ep = en_path(a.vol, m, n)
+            if i in chosen and ep.exists(): english[i] = (f'{m or 0}.{n}', read_english(ep))
+    body, rep = select(lines, chosen, english=english)
     errs = check(lines, chosen, slist, body, rep)
+    if a.notes:
+        nf = ROOT / f'vol{a.vol}' / 'review' / 'bhashya_notes.tsv'
+        rows = ['sūkta\tunit\tquestion\twords before the mark\tdecision'] + ['\t'.join((*r, '')) for r in rep['notes']]
+        nf.write_text('\n'.join(rows) + '\n', encoding='utf-8')
+        print(f'wrote {nf.relative_to(ROOT)}: {len(rep["notes"])} questions from {rep["en_suktas"]} sūkta file(s)')
+        return 1 if errs else 0
     title = f"Sāyaṇa's Ṛgveda-bhāṣya in English: reader (Vol {a.vol}, {what})"
     md = f'# {title}\n\n' + '\n'.join(body).strip() + '\n'
     out = pathlib.Path(a.out); out.mkdir(parents=True, exist_ok=True)
@@ -219,6 +301,7 @@ def main():
     print(f'  particulars kept for {rep["part_en"] + rep["part_dev"]} of {rep["suktas"]} sūktas '
           f'({rep["part_en"]} in English, {rep["part_dev"]} only in Devanagari); '
           f'Kannada Anuvāda lines taken out of bhāṣya blocks {rep["anuvada_lines"]}')
+    print(f'  English of the bhāṣya in place of the Gist: {rep["en_suktas"]} of {rep["suktas"]} sūktas, {rep["en_units"]} units')
     print(f'  paragraphs rejoined across a page break {rep["joins"]}; **NOTE** markers {md.count("**NOTE**")}')
     if rep['no_particulars']: print('  no particulars found: ' + '; '.join(rep['no_particulars']))
     if rep['dropped_particulars']:
