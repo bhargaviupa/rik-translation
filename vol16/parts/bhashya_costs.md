@@ -4,3 +4,4 @@
 |---|---|---|---|---|---|
 | 3.7–3.11 (one volume agent, with the reference text) | Fable agent | 388,431 | 14 | 459 | Nov 18 2026 |
 | 3.12–3.16 (one volume agent, with the reference text) | Fable agent | 239,110 | 27 | 288 | Nov 18 2026 |
+| 3.17–3.21 (one volume agent, with the reference text) | Fable agent | 217,788 | 17 | 186 | Nov 18 2026 |
