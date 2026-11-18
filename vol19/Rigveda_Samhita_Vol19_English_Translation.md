@@ -22558,6 +22558,242 @@ Now, leaders (of the rains), they support (the world): now, blending together, t
 
 छंदःस्तुभः (*chaṃdaḥstubhaḥ*): praisers with metres (चंद्रोभिः (*caṃdrobhiḥ*) **NOTE**). कुभन्यवः (*kubhanyavaḥ*): those desiring water. कीरिणः (*kīriṇaḥ*): praisers. Having regard to the well, for the thirsty Gotama, the Maruts whom (the praisers) set going all around, or led, with praise. Or else: those who are to be praised with metres; the root स्तोभतिः (*stobhatiḥ*) means the act of praising. कुभन्यवः (*kubhanyavaḥ*) are the sprinklers of the rain-water; कुभि (*kubhi*) means the act of wetting. कीरिणः (*kīriṇaḥ*): of the praiser Gotama, for the sake of drinking, the Maruts brought the well. For it is said: असिंचन्नुत्सं गोतमाय तृष्णजे । (*asiṃcannutsaṃ gotamāya tṛṣṇaje |*) (Ṛgve-1-85.11) **NOTE**. **NOTE**
 
+### Printed p. 620
+
+> रूपं ॥ ते मरुतः के चिन्मे मह्यं तायवो न कदाचिदप्यदृश्यास्तस्करा इव स्थिता
+> ऊमा रक्षका दृशि दर्शन आसन् । विषयभूता अभवन् । केचित्विषे शरीरदीप्तैश्चि
+> बलाय वासन् । प्राणरूपेणेति भावः ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts, "some of them", for me, are the "thieves" (तायवो (*tāyavo*)): they stood like thieves, never visible, as ऊमा (*ūmā*), protectors. Others came into view, into sight. Some, with the radiance of their bodies, for strength **NOTE**, were in the form of the life-breath: this is the idea.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- छंदस्तुभः (*chaṃdastubhaḥ*)—those who are praised with metres
+- कुभन्यवः (*kubhanyavaḥ*)—and who pour down the water of the rain: the Maruts
+- कीरिणः (*kīriṇaḥ*)—for the praiser Gotama
+- उत्सं (*utsaṃ*)—a well
+- आ नृतुः (*ā nṛtuḥ*)—made to come into being
+- ते (*te*)—among those Maruts
+- के चित् (*ke cit*)—some
+- मे (*me*)—for me
+- तायवो न (*tāyavo na*)—staying hidden like thieves
+- ऊमाः (*ūmāḥ*)—are protectors; (the others)
+- त्विषे (*tviṣe*)—through the power of their splendour
+- दृशि आसन् (*dṛśi āsan*)—have come into view
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who are praised with metres and who pour down the water of the rain, caused a well to come into being for the thirsty Gotama, the praiser. Some of those Maruts, staying hidden like thieves, are my protectors. The others, through the power of their splendour, are visible right before me, and are protectors.
+
+##### English translation
+The reciters of sacred metres, desirous of water, and celebrating (the Maruts), have drawn them to (provide) a well (for Gotama): some of them, (invisible) as thieves, have been my defenders: some have been (obvious) to view through the light (of life).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ष्वा ऋ॒ष्टिवि॑द्युतः क॒वयः॒ संति॑ वे॒धसः॑ ।  
+> तम्मृ॑षे॒ मारु॑तं ग॒णं न॑म॒स्या र॒मया॑ गि॒रा ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ऋष्टाः । ऋष्टिऽविद्युतः । कवयः । संति । वेधसः ।  
+> तं । ऋषे । मारुतं । गणं । नमस्य । रमय । गिरा ॥ १३ ॥
+
+### Printed p. 621
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुत ऋष्वा दर्शनीया ऋष्टिविद्युत आयुधैर्विद्योतमानाः कवयो
+> मेधाविनो वेधस: सर्वस्य विधातारः सति तं तेषां मारुतं गणं रमया रमणीयया गिरा स्तुत्या हे ऋषे श्यावाश्व नमस्य । परिचर । स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who are ऋष्वा (*ṛṣvā*), worthy to be seen, shining with their weapons (ऋष्टिविद्युत (*ṛṣṭividyuta*)), wise (कवयः (*kavayaḥ*)), intelligent, वेधसः (*vedhasaḥ*), the creators of everything: the host of those Maruts, with a pleasing (रमणीयया (*ramaṇīyayā*)) praise, O sage Śyāvāśva, venerate, serve, praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषे (*ṛṣe*)—O sage Śyāvāśva
+- ये (*ye*)—which Maruts
+- ऋष्वाः (*ṛṣvāḥ*)—who are worthy to be seen
+- ऋष्टिविद्युतः (*ṛṣṭividyutaḥ*)—who shine with their weapons
+- कवयः (*kavayaḥ*)—who are wise
+- वेधसः (*vedhasaḥ*)—and creators
+- संति (*saṃti*)—there are
+- तं (*taṃ*)—the host of such Maruts
+- रमया (*ramayā*)—pleasing
+- गिरा (*girā*)—with praise
+- नमस्य (*namasya*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O sage Śyāvāśva, worship with a pleasing praise the host of those Maruts who are worthy to be seen, who shine with their weapons, and who are wise and creators.
+
+##### English translation
+Glorify, Rishi, with grateful praise, the company of the Maruts, who are manifest, bright with lightning lances, who are wise, and the creators (of all things).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छ॑ ऋषे॒ मारु॑तं ग॒णं दा॒ना मि॒त्रं न यो॒षणा॑ ।  
+> दि॒वो वा॑ धृष्णव॒ ऒज॑सा स्तु॒ता धी॒भिरि॑षण्यत ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । ऋषे । मारुतं ' गणं । दाना । मित्रं । न । योषणा ।  
+> दिवः । ना । धृष्णवः । ओजसा । स्तुताः । धीभिः । इषण्यत ॥ १४ ॥
+
+### Printed p. 622
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋषे मारुतं गणं मरत्संघं मित्रं न आदित्यमिव दाना हविर्दानेन
+> योषणा ॥ यौतेरिदं रूपं । यौतीति योषा स्तुतिः ॥ तया चाच्छ अभिगच्छेति
+> शेषः । ऋषेरुत्तरार्धः प्रत्यक्षवादः । ओजसा बलेन हे धृष्णवो धर्षका मरुतो
+> दिवो ना द्युलोकाद्वा । नाशब्दश्रुतेरितरलोकद्वयाद्वा । धीभिरस्मदीयाभिः स्तुतिभिः
+> स्तुता इषण्यत । गच्छत यज्ञं ॥
+
+##### Gist of the bhāṣya
+
+O sage, approach the host of Maruts, like Mitra, that is, like Āditya, with the gift of the oblation and with praise (योषणा (*yoṣaṇā*), which is explained as praise); the verb "approach" is to be supplied. The latter half of the verse is the sage's direct address: with strength, O bold Maruts, assailers, from the heaven-world, or, because the word ना (*nā*) is heard, from the other two worlds, praised by our hymns, come to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषे (*ṛṣe*)—O sage
+- मारुतं गणं (*mārutaṃ gaṇaṃ*)—the host of Maruts
+- मित्रं न (*mitraṃ na*)—as one approaches a friend
+- दाना (*dānā*)—with gifts of the oblation
+- योषणा (*yoṣaṇā*)—and with praise
+- अच्छ (*accha*)—approach
+- धृष्णवः (*dhṛṣṇavaḥ*)—O Maruts, of enduring strength
+- धीभिः (*dhībhiḥ*)—by our hymns
+- स्तुताः (*stutāḥ*)—being praised
+- ओजसा (*ojasā*)—with your strength
+- दिवो वा (*divo vā*)—whether from the heaven-world or from any other region
+- इषण्यत (*iṣaṇyata*)—graciously come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O sage, approach the host of Maruts, as one approaches a friend, with the gift of the oblation and with praise. O Maruts of enduring strength, praised by our hymns, graciously come to our sacrifice with your strength, whether from the heaven-world or from any other region.
+
+##### English translation
+Approach, Rishi, with offerings and with praise, the company of the Maruts like a friend: come, sustaining (Maruts), with your strength, from heaven or (any other region), glorified by our hymns.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू म॑न्वा॒न ए॑षां दे॒वा अच्छा॒ न व॒क्षणा॑ ।  
+> दा॒ना स॑चेत सू॒रिभि॒र्याम॑श्रुतेभिरं॒जिभिः॑ ॥ १५ ॥
+
+### Printed p. 623
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मन्वानः । एषां । देवान् । अच्छ । न । वक्षणा ।  
+> दाना । सचेत । सूरिभिः । याम्यश्रुतेभिः । अंजिभिः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नु क्षिप्रमेषां मरुतां । एतान्मरुत इत्यर्थः । मन्वानः स्तुवन् देवान्मरुद्व्यतिरिक्तान्वक्षणा वहनेन निमित्तेनाच्छ अभिप्राप्तुं न मनुते । सस्तोता सूरिभिर्मेधाविभिर्यामश्रुतेभिः शीघ्रगमनेन विश्रुतैरंजिभिः फलस्य व्यंजकैर्मरुद्भिः ॥ सर्वाः
+> पंचम्यर्थे तृतीयाः ॥ उक्तलक्षणेभ्यो मरुद्भो दानाभिमतदानानि सचेत '
+> संगच्छते ॥
+
+##### Gist of the bhāṣya
+
+Quickly, praising these Maruts, he does not intend, as a means of conveying (them), to approach deities other than the Maruts. The praiser, with the wise ones, famed for their swift going (यामश्रुतेभिः (*yāmaśrutebhiḥ*)), the Maruts, who are the revealers of the fruit (अंजिभिः (*aṃjibhiḥ*)): all the instrumentals here are in the sense of the ablative. From the Maruts of the said characteristics he joins (सचेत (*saceta*)) the desired gifts, that is, he receives them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नु (*nu*)—quickly
+- एषां (*eṣāṃ*)—these Maruts
+- मन्वानः (*manvānaḥ*)—praising
+- देवान् (*devān*)—(other than the Maruts) deities
+- वक्षणा (*vakṣaṇā*)—for the purpose of invoking
+- अच्छ (*accha*)—to approach
+- न (*na*)—(the sacrificer) does not wish
+- सूरिभिः (*sūribhiḥ*)—by the wise ones
+- यामश्रुतेभिः (*yāmaśrutebhiḥ*)—renowned for their swift going
+- अंजिभिः (*aṃjibhiḥ*)—by the Maruts, the revealers of the fruit (by their favour)
+- दाना (*dānā*)—the desired gifts
+- सचेत (*saceta*)—obtains (the sacrificer receives)
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, praising these Maruts duly, does not approach deities other than them, to invoke them. By the favour of the Maruts, who are wise, renowned for their swift going and revealers of the fruit, he receives the desired gifts.
+
+##### English translation
+Glorifying them promptly, desiring not to bring (other) deities to (his) presence, let (the worshipper) associate his gifts with those wise (divinites) renowned for their velocity, and distributors (of rewards).
+
+#### Ṛk 16
+
+### Printed p. 624
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये मे॑ बंध्वे॒षे गां वोचं॑त सू॒रयः॒ पृश्निं॑  ॒॑
+> वोचंत मातरं ।  
+> अधा॑ पि॒तर॑मि॒ष्मिणं॑ रु॒द्रं वो॑चंत॒ शिक्व॑सः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । मे । बंधुएषे । गां । वोचंत । सूरयः । पृश्निं । वोचंत ।  
+> मातरं ।  
+> अध । पितरं । इष्मिणं । रुद्रं । वोचंत । शिक्वसः ! १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो मे मह्यं बंध्वेषे स्वेषां बंधूनामन्वेषणी सति सूरयः
+> प्रेरका गां माध्यमिकां वाचं गोदेवतां वा प्र वोचंत प्रावोचन् ॥ अविशिष्टमृषेर्वाक्यं । ऋषिर्मरुद्वाक्यमनुवदति । तस्मादुत्तरयोराख्यातयोर्यच्छब्दानन्वयान्निघातः ॥ ते पृश्निं द्युदेवतां पृश्निवर्णां गां वा मातरं वोचंत ।
+> अब्रुवन् । पृश्नियै वै पयसो मरुतो जाता इति श्रुतेः । अधाध पितरं स्वकीयमिष्मिणं गमनवंतमन्नवंतं ना रुद्रं वोचंत शिक्षसः शक्तास्ते । मरुतां रुद्रेण
+> पुत्रत्वपरिग्रहो बहुकृत्व उपपादितः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, for me, in the seeking of their own kinsmen, being impellers (सूरयः (*sūrayaḥ*)), uttered गां (*gāṃ*), that is, the speech of the middle region, or the cow deity. The sage repeats the speech of the Maruts. They called Pṛśni, the deity of the sky, or the cow of dappled colour, their mother: for it is said, पृश्नियै वै पयसो मरुतो जाता इति श्रुतेः (*pṛśniyai vai payaso maruto jātā iti śruteḥ*). Then they, being capable, called their own father the moving, food-possessing Rudra. The adoption of Rudra as father of the Maruts has been established many times.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरयः (*sūrayaḥ*)—impellers of the world
+- ये (*ye*)—those same Maruts who
+- बंध्वेषे (*baṃdhveṣe*)—when asked about their kinsmen
+- मे (*me*)—to me
+- गां (*gāṃ*)—in the form of the speech of the middle region
+- प्र वोचंत (*pra vocaṃta*)—gave a reply
+- पृश्निं (*pṛśniṃ*)—Pṛśni
+- मातरु (*mātaru*)—as their mother
+- वोचंत (*vocaṃta*)—said
+- अध (*adha*)—afterwards
+- शिक्षवः (*śikṣavaḥ*)—the capable Maruts **NOTE**
+- इष्मिणं (*iṣmiṇaṃ*)—endowed with food
+- रुद्रं (*rudraṃ*)—Rudra
+- पितरं (*pitaraṃ*)—as their father
+- वोचंत (*vocaṃta*)—said
+
+### Printed p. 625
+
+##### भावार्थ (Bhāvārtha)
+
+When the Maruts, impellers of the world, were asked about their kinsmen, they gave me a reply in the form of the speech of the middle region. The capable Maruts said that Pṛśni was their mother and that Rudra, endowed with food, was their father.
+
+##### English translation
+To me, inquiring of their kindred, the sage (Maruts) have uttered a reply; they have declared Prishni (to be their) mother; the mighty ones have declared the food-bestowing Rudra (to be their) father.
+
+##### विशेषविषयगळु (Special Topics)
+
+गां (*gāṃ*)—for this word two kinds of meaning are given: the speech of the middle region, or the cow deity. The speech of the middle region means the goddess of speech. Because this deity is one who dwells in the atmosphere, the middle region, she is called the deity of the middle region, or the speech of the middle region. The word for "cow" here means the cow in the form of Pṛśni, the mother of the Maruts. It is explained that while the sage was considering what relation the Maruts had with the cow called Pṛśni, the Maruts spoke to him in reply to the sage's question in this way. What the Maruts said in reply, the sage has explained in his own sentences in this way:
+
+पृश्निं मातरं वोचंत अध इष्मिणं रुद्रं पितरु वोचंत (*pṛśniṃ mātaraṃ vocaṃta adha iṣmiṇaṃ rudraṃ pitaru vocaṃta*)—the sage explains here that the Maruts told him that Pṛśni was their mother and Rudra their father. How Pṛśni is mother to the Maruts and how Rudra is their father, we have explained on pages 594-596 of this part.
+
+पृश्निं (*pṛśniṃ*)—the Maruts are described in many Ṛks of the Ṛgveda as पृश्निमातरः (*pṛśnimātaraḥ*), those who have Pṛśni for their mother. It is therefore necessary to give here an explanation of the words पृश्नि (*pṛśni*) and पृश्निमातरः (*pṛśnimātaraḥ*):
+
+मरुन्माता नानावर्णा । तामेवांतरिक्षदेवतां केचिदाहुः। (*marunmātā nānāvarṇā | tāmevāṃtarikṣadevatāṃ kecidāhuḥ|*)
+
+The word पृश्नि (*pṛśni*) is stated among the common names of the atmosphere (स्वः नाकः (*svaḥ nākaḥ*)) and of the Ādityas (Ni. 2-13), and: पृश्निरादित्यो भवति प्राश्नुत एनं वर्ण इति नैरुक्ताः (*pṛśnirādityo bhavati prāśnuta enaṃ varṇa iti nairuktāḥ*) (Ni. 2-14). Yāska has explained that, because abundant colour pervades him in an excessive manner, Āditya is called Pṛśni. The goddess Pṛśni is the mother of the Maruts, and she is of many colours: having explained one kind of meaning in this way, of those who say that she herself is the deity presiding over the atmosphere, and say
+
 ---
 
-**Progress note:** Done through printed p. 619. Mandala 5 sukta 52 rks 7-12 (start), pp. 614-619
+**Progress note:** Done through printed p. 625. Mandala 5 sukta 52 rks 12 (end)-16, pp. 620-625
