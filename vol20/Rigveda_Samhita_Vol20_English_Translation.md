@@ -6703,6 +6703,198 @@ He goes around the atmosphere, the three skies and the three shining regions of 
 
 In Yāska's view Savitṛ appears after the darkness has been removed (Ni. 12-12). Sāyaṇa (5-8-4) holds that the sun has the name Savitṛ before sunrise, and the name Sūrya from sunrise to sunset. But since it is said that Savitṛ makes beings go to sleep (4-53-6; 7-45-1), for Savitṛ the evening and
 
+### Printed p. 179
+
+the morning must both be related. In one sūkta (2-38) he is praised as the setting sun; moreover, it appears that there is a rule that all the sūktas addressed to Savitṛ are to be used in the evening rites or in the morning oblations. It is he who makes all two-footed and four-footed creatures rest, and afterwards awakens them (6-71-2; compare 4-53-3 and 7-45-1). He unyoks his horses; he makes those who travel take rest; when his order is given, night comes; the weaver folds up his cloth; and the workman stops his half-finished work at that point (2-38-3 and 4). As it is said that Agni is in the east and Soma in the south, it is customary to say that Savitṛ is in the west (Śa. Brā. 3-2-3-18).
+
+This word Savitṛ is formed from the root सू (*sū*). This root is used in various forms only when the deity Savitṛ is praised. Even in contexts where the same meaning is needed, other roots are seen to be used in mantras addressed to other deities. Encouragement, awakening and reviving are the meanings specially intended for this root. Savitṛ has made every moving thing intent on poetry (प्रासावीत् (*prāsāvīt*)) (1-157-1); you alone are able to give life (प्रसवस्य (*prasavasya*)) (5-81-3); Savitṛ granted immortality (असुवत् (*asuvat*)) to you (1-110-3); Savitṛ is ready to awaken us (सवाय (*savāya*)) (2-38-1); from the sky he sends desired things (सोसवीति (*sosavīti*)) three times a day (3-56-6); O Savitṛ, make us free from sin (सुवतात् (*suvatāt*), 4-54-3); by the power of Savitṛ (सवे (*save*)), may all boons be obtained by us, who are footless **NOTE** in regard to Aditi (5-2- **NOTE**; drive away bad dreams (परासर (*parāsara*)), remove calamities, grant what is good (आसुव (*āsuva*)) (5-22-4 and 5); may Savitṛ drive away disease (अपसानिशत् (*apasāniśat*)) (10-100-8); with this same root Savitṛ is prayed to in many places to grant wealth (2-56-6; etc.). Thus it may be said that this root is wholly reserved for Savitṛ. But two or three times it is used also for Sūra (7-63-2 and 4; 10-37-4). It is used with Uṣas in 7-77-1, for Varuṇa in (2-28-9), for the Ādityas in 8-18-1, and for Mitra, Aramya **NOTE** and Savitṛ together in 7-66-4. Because this root is used so often for Savitṛ, Yāska has called Savitṛ (सर्वस्य प्रसविता (*sarvasya prasavitā*), Ni. 10-31) "the one who brings all to life".
+
+In almost all the contexts in which the word Savitṛ occurs it is joined with the word देव (*deva*). In all these places the word देव (*deva*) seems to have no special sense, but only the ordinary meaning of deity. However that may be, in two passages it is an epithet of Tvaṣṭṛ
+
+### Printed p. 180
+
+(देवः त्वष्टा सविता विश्वरूपा (*devaḥ tvaṣṭā savitā viśvarūpā*), 3-55-19; 10-10-5). Seeing these words joined in this way, one gets the idea that Savitṛ and Tvaṣṭṛ are one.
+
+The name Savitṛ may belong to one power of the sun, which produces life in the world and gives the power of movement. But compared with the sun (the solar orb that we see), Savitṛ may be said not to be a deity perceptible to the outer senses. It is known from the Ṛgveda that the sun is the visible orb, a mass of radiance, in this gross sky, and that Savitṛ is the embodied divine power of that sun.
+
+According to some, the life-giving power itself is Savitṛ; the sun and his fixed course and so on are all secondary matters. For a detailed account of Savitṛ see the special topics of the Gāyatrī mantra (Ṛ. Saṃ. Part 17).
+
+(The introduction is concluded.)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युंजते मन इति पंचर्चं नवमं सूक्तं । अत्रेयमनुक्रमणिका ।
+> युंजते पंच श्यावाश्वः सावित्रं तु जागतमिति । श्यावाश्वो नामात्रेय ऋषिः ।
+> जगती छंदः । सविता देवता ॥ पृष्टाभिप्लवषडहयोः प्रथमेऽहनि वैश्वदेवशस्त्रे
+> सावित्रनिविद्वानमिदं । सूत्रितं च । युंजते मन इहेह व इति चतस्रः । आ. ७-५ ।
+> इति ॥ आद्या ग्रावस्तोत्रेऽपि । सूत्रितं च । युंजते मन उत युंजते धिय आ
+> तू न इंद्र क्षुमंतं । आ. ५-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the ninth sūkta, with five Ṛks, beginning युंजते मन (*yuṃjate mana*). On it the Anukramaṇikā says: युंजते पंच श्यावाश्वः सावित्रं तु जागतं (*yuṃjate paṃca śyāvāśvaḥ sāvitraṃ tu jāgataṃ*). The seer is Śyāvāśva, of the Atri family; the metre is Jagatī; the deity is Savitṛ. On the first day of the Pṛṣṭhya and Abhiplava ṣaḍahas this sūkta is the Sāvitra nivid-hymn in the Vaiśvadeva-śastra. It is enjoined also by the sūtra: युंजते मन इहेह व इति चतस्रः (*yuṃjate mana iheha va iti catasraḥ*) (Ā. 7-5) **NOTE**. The first Ṛk is also used in the Grāvastotra; the sūtra says: युंजते मन उत युंजते धिय आ तू न इंद्र क्षुमंतं (*yuṃjate mana uta yuṃjate dhiya ā tū na iṃdra kṣumaṃtaṃ*) (Ā. 5-12).
+
+##### Anuvāda
+
+This sūkta beginning युंजते मनः (*yuṃjate manaḥ*) is the ninth sūkta in the sixth anuvāka. It has five Ṛks. In the Anukramaṇikā it is said: युंजते पंच श्यावाश्वः सावित्रं तु जागतं (*yuṃjate paṃca śyāvāśvaḥ sāvitraṃ tu jāgataṃ*). The seer of this sūkta is Śyāvāśva Ātreya; the deity is Savitṛ; the metre is Jagatī. When the Vaiśvadeva-śastra mantras are recited on the first day of the sacrifices called Pṛṣṭhya and Abhiplava ṣaḍaha, this sūkta is to be recited as the nivid-hymn relating to Savitṛ; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, युंजते मन इहेव व इति चतस्रः (*yuṃjate mana iheva va iti catasraḥ*) (Ā. 7-5). And when the Grāvas (the stones, instruments for pressing Soma) are praised, the first Ṛk of this sūkta is to be recited; this is set out by the Āśvalāyana Śrauta Sūtra, युंजते मन उत युंजते धिय आ तू न इंद्र क्षुमंतं (*yuṃjate mana uta yuṃjate dhiya ā tū na iṃdra kṣumaṃtaṃ*) (Ā. 5-12).
+
+### Printed p. 181
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 81
+- Aṣṭaka 4; Adhyāya 4; Varga 24
+- Number of Ṛks in the sūkta: 5
+- Seer: Śyāvāśva Ātreya **NOTE**
+- Deity: Savitṛ
+- Metre: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युं॒जते॒ मन॑ उ॒त युं॑जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो  ॒॑॑
+> विपश्चितः ।  
+> वि होत्रा॑ दधे वयुना॒विदेक॒ इन्म॒ही दे॒वस्य॑ सवि॒तुः  ॑
+> परिष्टुतिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युंजते । मनः । उत । युंजते । धियः । विप्राः । विप्रस्य । बृहतः । विपःचितः ।  
+> वि । होत्राः । दधे । वयुनवित् । एकः । इत् । मही । देवस्य । सवितुः । परिस्तुतिः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ कयडाशं ॥
+> विप्रा मेधाविन ऋत्विग्यजमाना मनः स्वीयं सर्वॆषु कर्मसु युंजते ।
+> योजयंति । सवित्रनुग्रहाय संकल्पं कुर्वंतीत्यर्थः। उतापि च धियः कर्माण्यपि
+> युंजते । प्राप्नुवंति । कस्यानुज्ञयेत्कुच्यते । विप्रस मेधाविनो बृहतो
+> महतो विपश्चितः स्तुत्यस्य ज्ञानवतो वा सवितुरनुज्ञयेति । सविता वै प सवानामीश
+> इति हि श्रुतिः । स एव सविता होत्राः सप्त होत्रकाणामुचिताः क्रिया वयुनाविद् ।
+> वयुनमिति प्रज्ञानाम । तत्तदनुष्ठानविषयप्रज्ञावेत्तैक इत् एक एव विदधे ।
+> करोति । पृथक् पृथगवधारयति । किंच तस्य सवितुर्देवस्य परिष्टुतिः स्तुतिर्मही
+> महत्यतिप्रभूता । स्तुत्यगोचरेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The wise priests and sacrificers apply their own minds to all the rites, that is, they make a resolve for the favour of Savitṛ. Also they apply their actions, that is, they engage in them. By whose leave? By the leave of the wise, great, learned or praiseworthy Savitṛ. The Śruti says that Savitṛ is the lord of impulses **NOTE**. He alone, the Savitṛ, ordains the proper acts of the seven Hotṛs. He is वयुनाविद् (*vayunāvid*): वयुन (*vayuna*) is a name for knowledge; he who knows the knowledge concerning each performance alone ordains and fixes each separately. Further, the praise of that divine Savitṛ is great, very abundant; the meaning is that it is within the range of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+### Printed p. 182
+
+- विप्राः (*viprāḥ*)—the wise priests and sacrificers
+- मनः (*manaḥ*)—their minds
+- युंजते (*yuṃjate*)—apply to the rites themselves
+- उत (*uta*)—and
+- धियः (*dhiyaḥ*)—their rites
+- विप्रस्य (*viprasya*)—of the wise one
+- बृहतः (*bṛhataḥ*)—of the one of great form
+- विपश्चितः (*vipaścitaḥ*)—of the learned Savitṛ
+- युंजते (*yuṃjate*)—they apply
+- वयुनावित् (*vayunāvit*)—Savitṛ, who knows the form of each rite
+- एक इत् (*eka it*)—alone
+- होत्राः (*hotrāḥ*)—the seven Hotṛs (or their acts)
+- वि दधे (*vi dadhe*)—makes them perform individually
+- देवस्य (*devasya*)—of the divine
+- सवितुः (*savituḥ*)—Savitṛ
+- परिष्टुतिः (*pariṣṭutiḥ*)—the praise
+- मही (*mahī*)—full of greatness
+
+##### भावार्थ (Bhāvārtha)
+
+The wise priests and sacrificers apply their minds to the rites themselves. And they apply their rites to Savitṛ, who is wise, of great form and learned. Savitṛ, who knows the form of each rite, alone makes the seven Hotṛs perform their acts individually. The praise of the divine Savitṛ is full of greatness.
+
+##### English translation
+The wise apply their minds: they perform sacred rites for the propitiation of the intelligent, great, adorable Savitri : he alone, knowing their functions, directs the priests: verily, great is the praise of the divine Savitri.
+
+##### विशेषविषयगळु (Special Topics)
+
+विप्राः मनः युंजते । मेधाविनः ऋत्विग्यजमानाः स्वीयं मनः सर्वेषु कर्मसु योजयंति । सवित्रमनुग्रहाय संकल्पं कुर्वंतीत्यर्थः । (*viprāḥ manaḥ yuṃjate | medhāvinaḥ ṛtvigyajamānāḥ svīyaṃ manaḥ sarveṣu karmasu yojayaṃti | savitramanugrahāya saṃkalpaṃ kurvaṃtītyarthaḥ |*). "The wise" means the intelligent priests and the sacrificer: they join their minds in all the rites connected with the sacrifice. That is, they perform all the activities with a willing mind, so that the god Savitṛ may be pleased; this is the meaning.
+
+विप्रस्य बृहतः विपश्चितः—मेधाविनः महतः स्तुत्यस्य ज्ञानवतो वा सवितुः अनुज्ञयेति । (*viprasya bṛhataḥ vipaścitaḥ—medhāvinaḥ mahataḥ stutyasya jñānavato vā savituḥ anujñayeti |*). This god Savitṛ is very intelligent, wise, one who knows the form of all rites, one who knows well the rites of the seven Hotṛs. All the rites that these seven Hotṛs and the other priests and sacrificers have to perform, this god Savitṛ alone can perform.
+
+### Printed p. 183
+
+His power is extraordinary; therefore the sentence of the Aitareya Brāhmaṇa, सविता वै प्रसवानामिशा (*savitā vai prasavānāmiśā*) (Ai. Brā. 7-16), supports this.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑ रू॒पाणि॒ प्रति॑ मुंचते क॒विः प्रासा॑वीद्भ॒द्रं द्वि॒पदे॒  ॑
+> चतुष्पदे ।  
+> वि नाक॑मुख्यत्सवि॒ता वरे॒ण्योनु॑ प्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । रूपाणि । प्रति । मुंचते । कविः । प्र । असावीत् । भद्रं । द्विपदे । चतुःपदे ।  
+> वि । नाकं । अख्यत् । सविता । वरेण्यः । अनु । प्रयानं । उषसः । वि । राजति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हविर्धानप्रवर्तने रराट्यामवनद्धायां विश्वा रूपाणीत्येषानुवचनीया ।
+> सूत्रितं च । विश्वा रूपाणि प्रति मुंचते कविरिति व्यवस्तायां । आ. ४-९ । इति ॥
+> कविर्मेधावी सविता विश्वा सर्वाणि रूपाण्यात्मनि प्रति मुंचते । बध्नाति ।
+> धारयति । किंच भद्रं कल्याणं गमनादिविषयं प्रासावीत् । अनुजानाति । कस्मै ।
+> द्विपदे मनुष्याय चतुप्पदे गवाश्वादिकाय । किंच सविता सर्वस्य प्रेरको देवो
+> वरेण्यो वरणीयः सन् व्यख्यत् । ख्यापयति । प्रकाशयति । किं । नाकं । नास्मिन्नकं
+> दुःखमस्तीति नाकः स्वर्गः । यजमानार्थं स्वर्गं प्रकाशयतीत्यर्थः । स देव
+> उषसः प्रयाणमुदयमनु वि राजति । प्रकाशते । सवितुरुदयात्पूर्वं ह्युषा
+> उदेति ॥
+
+##### Gist of the bhāṣya
+
+In the Havirdhāna-pravartana, when the cart (रराट्यामवनद्धायां (*rarāṭyāmavanaddhāyāṃ*)) **NOTE** is bound, this Ṛk विश्वा रूपाणि (*viśvā rūpāṇi*) is the anuvacanīyā. The sūtra says: विश्वा रूपाणि प्रति मुंचते कविरिति व्यवस्तायां (*viśvā rūpāṇi prati muṃcate kaviriti vyavastāyāṃ*) (Ā. 4-9). The poet, the wise Savitṛ, binds on himself, that is, bears, all forms. Further, he has permitted what is good, auspicious, relating to going and the like. For whom? For the biped, man, and the quadruped, cattle, horses and the like. Further, Savitṛ, the god who impels all, being adorable, has made known the नाकं (*nākaṃ*); he makes it manifest. What? The नाकं (*nākaṃ*): in it there is no aka, no pain; hence it is heaven. The meaning is that he makes heaven manifest for the sacrificer. That god shines after the going forth of Uṣas, that is, her rising; for Uṣas rises before the rising of Savitṛ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise Savitṛ
+- विश्वा (*viśvā*)—all
+- रूपाणि (*rūpāṇi*)—forms
+- प्रति मुंचते (*prati muṃcate*)—he bears on himself
+- द्विपदे (*dvipade*)—for men and others with two feet
+- चतुष्पदे (*catuṣpade*)—for cattle and others with four feet
+- भद्रं (*bhadraṃ*)—welfare
+- प्रासावीत् (*prāsāvīt*)—he has made
+- वरेण्यः (*vareṇyaḥ*)—the most venerable
+- सविता (*savitā*)—Savitṛ
+- नाकं (*nākaṃ*)—heaven
+
+### Printed p. 184
+
+- वि अख्यत् (*vi akhyat*)—he made it shine
+- उषसः (*uṣasaḥ*)—of the goddess Uṣas
+- प्रयाणं अनु (*prayāṇaṃ anu*)—following the path of her rising
+- वि राजति (*vi rājati*)—he makes it shine
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Savitṛ bears all forms on himself. He has made welfare for men and others with two feet and for cattle and others with four feet. The most venerable Savitṛ has made heaven shine. Following the path of the rising of the goddess Uṣas, he makes it shine, and shines himself.
+
+##### English translation
+The wise Savitri comprehends all forms (in himself): he has engendered what is good for biped and quadruped : the adorable Savitri has illumed the heaven, and shines in sequence to the passage of the Dawn.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the carts for bringing Soma, called Havirdhāna-pravartana, are brought, this Ṛk विश्वा रूपाणि (*viśvā rūpāṇi*) is to be recited as an anuvacanīyā Ṛk; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra **NOTE**, विश्वारूपाणि प्रति मुंचते कविरिति व्यवस्तायां (*viśvārūpāṇi prati muṃcate kaviriti vyavastāyāṃ*) (Ā. 4-9).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ प्र॒याण॒मन्व॒न्य इद्य॒युर्दे॒वा दे॒वस्य॑ महि॒मान॒मोज॑सा।  
+> यः पार्थि॑वानि विम॒मे स एत॑शो॒ रजां॑सि दे॒वः स॑वि॒ता  ॒॑
+> महित्वना ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । प्रयानं । अनु । अन्ये । इत् । ययुः । देवाः । देवस्य । महिमानं ।  
+> ओजसा ।  
+> यः । पार्थिवानि । विममे । सः । एतशः । रजांसि । देवः । सविता । महित्वना ॥ ४ ॥
+
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 178. Uṣas Ṛks 5-6 (Sūkta 80) end; Sūkta 81 introduction on Savitṛ begins
+**Progress note:** Done through printed p. 184. Savitṛ introduction ends; Sūkta 81 Ṛks 1-2 complete, Ṛk 3 verse and pada
