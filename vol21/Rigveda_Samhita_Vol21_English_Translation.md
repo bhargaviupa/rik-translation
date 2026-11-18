@@ -1613,6 +1613,279 @@ Sūkta 34. Maṇḍala 6. Anuvāka 3. Sūkta 34. Aṣṭaka 4. Adhyāya 7. Varga
 
 O Indra, many words, that is, praises, come together in you. From you wide-ranging thoughts of the singers, that is, their minds, go forth in many ways. In earlier time, and today, of the seers…
 
+### Printed p. 39
+
+> द्रियार्थदर्शिनां भरद्वाजादीनां स्तुतयः स्तोत्राणींद्रेऽध्यधिकं पस्पृध्रे ।
+> अस्पर्धंत । अहमहमिकयेंद्रस्य स्तवने त्वरिता बभूवुरित्यर्थः । तथोक्तार्था ।
+> उक्कं शस्त्रं । तद्रूपाण्यर्कण्यर्चनसाधनानि स्तोत्राणि च पस्पृध्रे । अस्पर्धंत ॥
+
+##### Gist of the bhāṣya
+
+The sense of the sentence begun before: the praises, that is, the hymns, of the seers who see beyond the senses, Bharadvāja and the others, vie with one another in excess for Indra (पस्पृध्रे (*paspṛdhre*) means "they vied"). The meaning is that each, saying "I first, I first", became eager in praising Indra. In the same sense the Ṛk speaks of the ukthārkā: ukthā is the śastra (recitation), and its forms, the arkas, the instruments of worship, that is, the hymns, also vied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वे (*tve*)—in you
+- पूर्वीः (*pūrvīḥ*)—of many kinds
+- गिरः (*giraḥ*)—praises
+- सं जग्मुः (*saṃ jagmuḥ*)—come together
+- त्वत् (*tvat*)—from you alone
+- विभ्वः (*vibhvaḥ*)—wide-ranging
+- मनीषाः (*manīṣāḥ*)—the minds of the singers
+- वि यंति (*vi yaṃti*)—unfold in many ways
+- पुरा (*purā*)—in former time
+- नूनं च (*nūnaṃ ca*)—and now
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers, Bharadvāja and the others
+- स्तुतयः (*stutayaḥ*)—the hymns
+- इंद्रे (*iṃdre*)—in praising Indra
+- अधि (*adhi*)—in excess
+- पस्पृध्रे (*paspṛdhre*)—vie
+- उत्थार्का (*utthārkā*)—the ukthā mantras, instruments of worship (also vie)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praises of many kinds come together in you alone. The minds of the singers, wide-ranging as they are, unfold in many ways from you alone. Now and in former time the hymns of the singers, Bharadvāja and the others, vie in excess in the very praising of Indra. The ukthā mantras, instruments of worship, likewise vie.
+
+##### English translation
+Many praises, Indra, are concentrated in you : from you abuandent commendations diversely proceed : to you, formerly and at present, the praises of the sages, their prayers and hymns, vic (in glorifying) Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒हू॒तो यः पु॑रुगू॒र्त ऋभ्वा॒ एकः॑ पुरुप्रश॒स्तो अस्ति॑  ॒
+> यज्ञैः ।  
+> रथो॒ न म॒हे शव॑से युजा॒नो॒३॒॑३ स्माभि॒रिंद्रो॑ अनु॒माद्यो॑  
+> भूत् ॥ २ ॥
+
+### Printed p. 40
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुहूतः । यः । पुरुगूर्तः । ऋभ्वा । एकः । पुरुप्रशस्तः । आस्ति । यज्ञैः ।  
+> रथः । न । महे । शवसे । युजानः । अस्माभिः । इंद्रः । अनुमाद्यः । भूत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुहूतो बहुभिराहूतः पुरुगूर्तो बहुभिरुद्यमित ऋभ्वा महानेकः
+> प्रधानभूत एवंगुणविशिष्टो य इंद्रो यज्ञैर्यष्टृभिः पुरुषैर्यजनसाधनैः
+> स्तोत्रैर्वा पुरुप्रशस्तोऽस्ति बहुधा प्रशस्तः स्तुतो भवति स इंद्रो रथो न रथ
+> इव महे महते शवसे बलाय तदर्थं युजानोऽस्मत्सुतिभिर्युज्यमानः सन्
+> आस्माभिः स्तोतृभिरनुमाद्यो भूत् । सर्वदा स्तुत्यो भवतु ॥
+
+##### Gist of the bhāṣya
+
+Indra is "invoked by many" (पुरुहूतः (*puruhūtaḥ*)), "extolled by many" (पुरुगूर्तः (*purugūrtaḥ*), lifted up by many), "mighty" (ऋभ्वा (*ṛbhvā*), great) and "the one" (एकः (*ekaḥ*), the chief). The Indra of such qualities who is praised in many ways by sacrifices (यज्ञैः (*yajñaiḥ*)), that is, by the sacrificers, the men, or by the hymns that are the means of sacrifice, that Indra, like a chariot, is yoked for great strength (शवसे (*śavase*)), that is, joined to that purpose by our praises, and may he be worthy of being gladdened (अनुमाद्यः (*anumādyaḥ*)) by us, the singers. May he always be one to be praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूतः (*puruhūtaḥ*)—one who is called by many
+- पुरुगूर्तः (*purugūrtaḥ*)—one who is worshipped by many
+- ऋभ्वा (*ṛbhvā*)—the great one
+- एकः (*ekaḥ*)—the chief (among the gods)
+- यः (*yaḥ*)—which Indra
+- यज्ञैः (*yajñaiḥ*)—by the sacrificers
+- पुरुषप्रशस्तः (*puruṣapraśastaḥ*)—honoured in excess
+- आस्ति (*āsti*)—who becomes
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- रथो न (*ratho na*)—like a chariot
+- महे (*mahe*)—great
+- शवसे (*śavase*)—for strength
+- युजानः (*yujānaḥ*)—joined with our praises
+- अस्माभिः (*asmābhiḥ*)—by us, the singers
+- अनुमाद्यः (*anumādyaḥ*)—one praised at all times
+- भूत् (*bhūt*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra, who is called by many, worshipped by many, great, and the chief among all the gods, and who is honoured in excess by the sacrificers, be praised at all times by us, the singers, joined with our praises for great strength, like a chariot.
+
+##### English translation
+May that Indra ever be propitiated by us who is the invoked of many, mighty and chief, especially honoured by sacrifices, and to whom, as to a conveyance, we are attached for (the attainment of) great strength.
+
+### Printed p. 41
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं हिंसं॑ति धी॒तयो॒ न वाणी॒रिंद्रं॒ नक्षं॒तीद॒भि व॒र्धयं॑तीः ।  
+> यदि॑ स्तो॒तारः॑ श॒तं यत्स॒हस्रं॑ गृ॒णंति॒ गिर्व॑णसं॒ शं तद॑स्मै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । हिंसंति । धीतयः । न । वाणीः । इंद्रं । नक्षंति । इत् । अभि ।  
+> वर्धयंतीः ।  
+> यदि । स्तोतारः । शतं । यत् । सहस्रं । गृणंति । गिर्वणसं । शं । तत् । अस्मै ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमिंद्रं धीतयः कर्माणि परिचरणानि न हिंसंति न बाधंते। वाणीर्वाण्यः
+> स्तुतयश्च यं न बाधंते । दातुमसमर्थः पुरुषोऽन्यकृतैः परिचरणैः स्तुतिभिश्च
+> भृशं खिद्यतेऽस्य चंद्रस्य बहुधनत्वादात्तृत्वाच्च तस्मिन्प्रयुज्यमानानि परिचरणानि
+> स्तोत्राणि च बाधहेतवो नाभूवन्नित्यर्थः । किं तर्हित्यत आह । तमिंद्रं वर्धयंतीर्वर्धयंतोऽभि नक्षंति । अभिगच्छंति । अपि च गिर्वणसं गिरां संभक्तारमिंद्रं
+> शतं शतसंख्याकाः स्तोतारो यदि गृणंति स्तुवंति । यद्यदि च सहस्रं सहस्रसंख्याकाः स्तोतारः स्तुवंति तत्सर्वं स्तोत्रमस्मा इंद्राय शं सुखकरं भवति ॥
+
+##### Gist of the bhāṣya
+
+The Indra whom the dhītayaḥ, that is, rites and services, do not harm, do not oppress; and whom the vāṇīḥ, the words, the praises, do not oppress. A man who is unable to give is greatly distressed by services and praises made by others. But because of this Indra's abundance of wealth and his being a giver, the services and hymns offered to him do not become causes of distress. What then? Making that Indra grow, they reach him (अभि नक्षंति (*abhi nakṣaṃti*), they go to him). Moreover, if a hundred singers praise Gīrvaṇas, the sharer of praises (गिर्वणसं (*girvaṇasaṃ*)), and if a thousand singers praise him, all that praise is शं (*śaṃ*), that is, productive of happiness, for this Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं इंद्रं (*yaṃ iṃdraṃ*)—the Indra whom
+- धीतयः (*dhītayaḥ*)—the acts of worship
+- न हिंसंति (*na hiṃsaṃti*)—do not harm
+- वाणीः (*vāṇīḥ*)—the words of praise
+- न (*na*)—do not harm
+- वर्धयंतीः (*vardhayaṃtīḥ*)—making him grow
+- अभि नक्षंति (*abhi nakṣaṃti*)—go and reach
+- गिर्वणिसं (*girvaṇisaṃ*)—towards Indra, who is worthy of worship through praise
+- शतं स्तोतारः (*śataṃ stotāraḥ*)—hundreds of singers
+- यदि गृणंति (*yadi gṛṇaṃti*)—if they offer praise and extol
+- सहस्रं (*sahasraṃ*)—thousands of singers
+- यत् (*yat*)—whatever praise they offer
+- तत् (*tat*)—all that
+- अस्मै (*asmai*)—to Indra
+- शं (*śaṃ*)—is productive of happiness
+
+### Printed p. 42
+
+##### भावार्थ (Bhāvārtha)
+
+Whichever Indra neither the acts of worship nor the words of praise harm, going to that Indra and making him grow, all those praises reach him. The hundreds and thousands of praisers who extol that Indra and offer him praises of many kinds, all those praises are productive of happiness for that Indra.
+
+##### English translation
+All praises contributing to his exaltation proceed to Indra, whom no acts, no words can harm, since hundreds and thousands of adorers glorify him who is entitled to praise, and so afford him gratification.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्मै॑ ए॒तद्दि॒व्य१॒ं॑ र्च्छेव॑ मा॒सा मि॑मि॒क्ष इंद्रे॒ न्य॑यामि॒  ॑
+> सोमः ।  
+> जनं॒ न धन्व॑न्न॒भि सं यदापः॑ स॒त्रा वा॑वृधु॒र्हव॑नानि य॒ज्ञैः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । एतत् । दिवि । अर्चा इव । मासा । मिमिक्षः । इंद्रे । नि । अयामि । सोमः ।  
+> जनं । न । धन्वन् । अभि । सं । यत् । आपः । सत्रा । ववृधुः । हवनानि । यज्ञैः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदेतस्मिन्निवि दिवसे सौत्येऽहन्यर्चेवार्चनसाधनेन स्तोत्रेणेव मासा
+> मानेनेंद्राय त्वा वृत्रघ्न इत्यादिमंत्रसाध्येन युक्तो मिमिषो वसतीवर्येकधनाख्याभिरद्भिरासिक्तः सोमोऽस्मै ॥ विभक्ति व्यत्ययः ॥ अस्मिन्निंद्रे न्ययामि ।
+> नियतोऽभूत् । यद्वा । अस्मा इंद्रायैतत्तोत्रं ब्रवाणीति शेषः । दिवि
+> द्युलोकेऽर्चेवार्कः सूर्य इव मासा । लुप्तोपममेतत् । माति परिच्छिन्नत्तीति
+> मासश्चंद्रमाः । स इव मिमिषो वृष्ट्युदकानां सेक्ता य इंद्रो वर्ततेऽस्मिन्निंद्रेऽभिषुतः सोमो नियम्यते स्म । किंच तमिंद्रं यज्ञैर्यजनसाधनैः
+> पुरोडाशादिभिर्हविर्भिः सार्धं हवनानि स्तोत्राणि सत्रा सह नावृधुः । अवर्धयन् ।
+
+##### Gist of the bhāṣya
+
+"On this day", that is, on the day of the pressing of Soma, अर्चेव (*arceva*), as if with a hymn that is the instrument of worship, मासा (*māsā*), with a measure, that is, joined with a mantra to be accomplished by the words beginning "Indrāya tvā vṛtraghne", the Soma, sprinkled with the waters called vasatīvarī and ekadhanā, is held fast in this Indra (a change of case is to be understood: अस्मै (*asmai*) for "in this"). Or else the meaning is: "To this Indra I would speak this hymn", the words "I would speak" being supplied. Another explanation: दिवि (*divi*), in the heavenly world, अर्चेव (*arceva*), like the sun; मासा (*māsā*) (the elliptical simile), the moon, which measures; like him, the sprinkler of rain and waters, who is Indra, in this Indra the pressed Soma is held fast. Moreover, the hymns together with the oblations, the puroḍāśa cakes and the rest, which are the means of sacrifice, made that Indra grow together.
+
+### Printed p. 43
+
+> तत्र दृष्टांतः । धन्वन्धन्वनि मरुदेशेऽभि अभिमुखं सं यत् सम्यग्यत्यो गच्छंत्य
+> आपो जनं प्राणिनमिव । यथा मरुदेश उपलभ्यमाना आपः प्राणिनं वर्धयंति
+> तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Here is the illustration. धन्वन् (*dhanvan*), in a desert land, अभि (*abhi*), towards a man, the waters flowing together well, as a living being is, that is, as waters found in a desert land make a living being grow, so (the hymns make Indra grow).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्चेव (*arceva*)—like a hymn that is the instrument of worship
+- मासा (*māsā*)—joined with a meditative mantra **NOTE**
+- मिमिक्षः (*mimikṣaḥ*)—that which is joined with the vasatīvarī waters
+- सोमः (*somaḥ*)—the Soma
+- अस्मै इंद्रे (*asmai iṃdre*)—in this Indra
+- एतत् दिवि (*etat divi*)—this day
+- न्ययामि (*nyayāmi*)—is offered
+- धन्वन् (*dhanvan*)—in a sandy desert
+- अभि (*abhi*)—before the traveller
+- सं यत् (*saṃ yat*)—flowing together
+- आपः (*āpaḥ*)—the water
+- जनं न (*janaṃ na*)—as it gladdens him
+- यज्ञैः (*yajñaiḥ*)—joined with oblations, the means of sacrifice
+- हवनानि (*havanāni*)—the hymns
+- सत्रा (*satrā*)—together
+- यत् (*yat*)—that same Indra
+- वावृधुः (*vāvṛdhuḥ*)—made to grow
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma, which is joined with a meditative mantra like a hymn that is the instrument of worship, and with the vasatīvarī waters, is offered today in this Indra. As the water flowing before a traveller in a sandy desert gladdens him, the hymns joined with oblations, the means of sacrifice, gathering together, made that Indra grow.
+
+##### English translation
+The mixed Soma juice has been prepared for Indra, (to be offered) on the day (of sacrifice), with reverence-like adoration, when praises, together with offerings, yield him increase, as when water (revives) a man in a desert waste.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्मा॑ ए॒तन्मह्यां॑गू॒षम॑स्मा॒ इंद्रा॑य स्तो॒त्रं म॒तिभि॑रवाचि ।  
+> अस॒द्यथा॑ मह॒ति वृ॑त्र॒तूर्य॒ इंद्रो॑ वि॒श्वायु॑रवि॒ता वृ॒धश्च॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । एतत् । महि । अंगूषं । अस्मै । इंद्राय । स्तोत्रं । मतिभिः । अवाचि ।  
+> आसत् । यथा । महति । वृत्रतूर्ये । इंद्रः । विश्वआयुः । अविता । वृधः । च ॥ ५ ॥
+
+### Printed p. 44
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा इंद्राय महि महदेतदांगूषं स्तोत्रं मतिभिः स्तोतृभिरवाचि ।
+> उक्तमभूत् । अस्मा इंद्राय स्तोत्रमिति पुनरुक्तिरादरार्था । विश्वायुः सर्वत्र
+> गंता स इंद्रो महति प्रभूते वृत्रतूर्ये संग्रामे यथा येन प्रकारेणास्माकमविता रक्षको वृधो वर्धयिता चासत् भवेत् तथावाचीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+To this Indra this great (महि (*mahi*)) āṅgūṣa hymn has been spoken (अवाचि (*avāci*)) by the minds, that is, by the singers. The repetition "to this Indra the hymn" is for the sake of reverence. May that Indra, who goes everywhere (विश्वायुः (*viśvāyuḥ*)), in the great, abundant vṛtratūrya, the battle, be our protector and the one who makes us grow, in such a manner (यथा (*yathā*)) was the hymn spoken: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वायुः (*viśvāyuḥ*)—going everywhere
+- इंद्रः (*iṃdraḥ*)—Indra
+- महति (*mahati*)—in the great
+- वृत्रतूरै (*vṛtratūrai*)—in the battle
+- यथा (*yathā*)—in whatever manner
+- अविता (*avitā*)—our protector
+- वृधः (*vṛdhaḥ*)—the one who makes us grow
+- असत् (*asat*)—may he be (for that reason)
+- अस्मै (*asmai*)—addressed to this Indra
+- महि (*mahi*)—great
+- एतत् आंगूषं (*etat āṃgūṣaṃ*)—this hymn
+- मतिभिः (*matibhiḥ*)—by the singers
+- अवाचि (*avāci*)—has been recited
+- अस्मा (*asmā*)—for this (Indra)
+- स्तोत्रं (*stotraṃ*)—the hymn has been recited
+
+##### भावार्थ (Bhāvārtha)
+
+Because Indra, who goes everywhere, is our protector and the one who makes us grow in the great battle, this great hymn has been recited by the praisers, addressed to this Indra.
+
+##### English translation
+To this Indra has this earnest eulogy been addressed by the devout, in order that the all-pervading Indra may be our defender and exalter in the great conflict with (our) foes.
+
+## Sūkta 35 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कदा भुवन्निति पंचर्चं द्वादशं सूक्तं नरस्त्यार्षं त्रैष्टुभमैंद्रं । कथा
+> चानुक्रांतं । कदा नरस्त्विति ॥ तृतीये छंदोमे महाव्रते च निष्केवल्य
+> उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कदा भुवन् (*kadā bhuvan*) has five Ṛks and is the twelfth sūkta. Its seer is Nara, in the Ārṣa (seer's) account; the metre is Triṣṭubh and the deity is Indra. So it is also listed in the Anukramaṇī: "Kadā naras tu". Its use is stated for the third Chandoma day and for the Mahāvrata, in the Niṣkevalya recitation.
+
+##### Anuvāda
+
+This sūkta, "Kadā bhuvan", is the twelfth sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Nara, born in the family of Bharadvāja; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇikā: "कदा नरस्तु (*kadā narastu*)", thus
+
 ---
 
-**Progress note:** Done through printed p. 38. Sūkta 33 Ṛk 1 (end) to 5, Sūkta 34 intro and Ṛk 1 (to bhāṣya)
+**Progress note:** Done through printed p. 44. Sukta 34 Rk 1-5 (rest of Rk 1 to Rk 5), start of Sukta 35
