@@ -20228,6 +20228,215 @@ The god, the shining Savitā, the sanctioner of all, I approach for you; that is
 - वां (*vāṃ*)—you
 - आ ववृत्यां (*ā vavṛtyāṃ*)—I pray again and again
 
+### Printed p. 546
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, on your behalf, at this time of sacrifice, I approach to pray to the god Savitṛ in nature, and to Bhaga, who divides delightful wealth for man. Leaders, who have the capacity to enjoy many excellent things, O Aśvin gods, wishing for your friendship, I pray to you again and again every day.
+
+##### English translation
+For you, (worshippers), I approach to-day the divine Savitri and Bhaga, the distributors of precious (wealth) amongst men : Aswins, (leaders of rites), enjoyers of many (good things), desiring your friendship, I solicit your daily presence.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk two deities, Savitṛ and Bhaga, are praised, and in the second half the Aśvin gods.
+
+वः (*vaḥ*)—Here, instead of the singular त्वां (*tvāṃ*), the plural वः (*vaḥ*) is used. त्वां (*tvāṃ*) "you" means you who are the god Savitṛ. Or else, the commentator says, it may be thought that this sentence is recited by the priest called Hotṛ, addressing the sacrificers. In that case वः (*vaḥ*) means युष्मभ्यं (*yuṣmabhyaṃ*), and the meaning of the sentence देवं वः अद्य सवितारं एषे (*devaṃ vaḥ adya savitāraṃ eṣe*) is: "I approach to praise the god Savitṛ so that you, the sacrificers who perform the sacrifice, may gain wealth." The following sentences too can be explained in the same way.
+
+भगं च रत्नं आयोः विभजंतं (*bhagaṃ ca ratnaṃ āyoḥ vibhajaṃtaṃ*)—for this sentence also he says that two kinds of meaning are possible. The word रत्न (*ratna*) in this sentence means रमणीयं हविः (*ramaṇīyaṃ haviḥ*): a delightful oblation or food; or delightful wealth and other things. One who distributes such food or wealth to the man who is the sacrificer, that is, one who gives wealth and the like as the fruit, in accordance with the sacrifices and other rites performed by each sacrificer: this is the intention. Yāska gave as the etymology of the word Bhaga भगो भजतेः (*bhago bhajateḥ*) (Ni. 1.7): since this god divides and gives wealth and the like, his name is Bhaga. In the Purāṇas and the like, and in modern Sanskrit, the word Bhaga is generally current in the sense of the sun (one of the twelve Ādityas), but in the Ṛgveda Bhaga is clearly indicated as a separate deity. The chief function of this deity is to divide or share out (for the sacrificers or the worshippers) wealth and the like, which are the fruit of the rites. This matter
+
+### Printed p. 547
+
+is stated clearly in the present Ṛk by the word विभजंतं (*vibhajaṃtaṃ*). And as examples in this matter the commentator quotes the Śruti sentences:
+
+विभिन्नभिर्नृतमो अस्य शाकै रायो विभक्ता संभरश्च वस्वः । (*vibhinnabhirnṛtamo asya śākai rāyo vibhaktā saṃbharaśca vasvaḥ |*) (Ṛ. Saṃ. 4-17-11)
+
+भगो विभक्ता शवसावसा गमदुरुव्यचा अदितिः श्रोतु मे हवं । (*bhago vibhaktā śavasāvasā gamaduruvyacā aditiḥ śrotu me havaṃ |*) (Ṛ. Saṃ. 5-46.6)
+
+The description of the qualities of this god Bhaga is very well explained in the 41st sūkta of the 7th maṇḍala. In that sūkta Bhaga and other deities are invoked in the morning; that is, Bhaga is included in the group of deities invoked in the morning, such as Agni and the Aśvin gods. Yāska says तस्य (भगस्य) काल प्रागुत्सर्पणात् (*tasya (bhagasya) kāla prāgutsarpaṇāt*) (Ni. 12-13), stating that this deity is one to be invoked in the morning, and gives as an example the Ṛk of this same sūkta प्रातर्जितं भगमुग्रं हुवेम (*prātarjitaṃ bhagamugraṃ huvema*). As a rule it is the custom to invoke this Bhaga together with Savitṛ and the Aśvin gods, the deities of the morning. So it is also in the present Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ प्र॒याण॒मसु॑रस्य वि॒द्वान्सू॒क्तैर्दे॒वं स॑वि॒तारं॑ दुवस्य।  
+> उप॑ ब्रुवीत॒ नम॑सा विजा॒नञ्जेष्ठं॑ च॒ रत्नं॑ वि॒भजं॑तमा॒योः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । प्रयानं । असुरस्य । विद्वान् । सुउक्तैः । देवं । सवितारं । दुवस्य ।  
+> उप । ब्रुवीत । नमसा । विजानन् । ज्येष्ठं । च । रत्नं । विभजंतं । आयोः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असुरस्य शत्रूणां निरसितुः सवितुः प्रति प्रयाणं प्रत्यागतिं विद्वान् जानन्
+> सूक्तैः सवितारं देवं दुवस्य । परिचर हे अंतरात्मन् । किंचायोर्मनुष्ठाय
+
+##### Gist of the bhāṣya
+
+Knowing the return, that is the approach, of Savitā, the asura, that is, the one who casts out enemies, serve the god Savitā with good hymns, O inner self; and further, for the man,
+
+### Printed p. 548
+
+> ज्येष्ठं रत्नं धनं च विभजंतं गमयंतमित्यर्थः । नमसा नमस्कारेण हविषा वा
+> विजानन् । विशेषेण भावयन्नित्यर्थः ॥ यद्वांतर्णीतण्यर्थोऽयं ॥ ज्ञापयन्
+> उप ब्रुवीत । स्तौतु भवान् ॥
+
+##### Gist of the bhāṣya
+
+distributing the best wealth, that is, causing it to go to him. With homage, or with oblation, knowing, that is, perceiving in a special way; or else this has the sense of a causative, making known: let you declare, that is, may you praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुरस्य (*asurasya*)—of Savitṛ, the destroyer of enemies
+- प्रतिप्रयाणं (*pratiprayāṇaṃ*)—the coming again
+- विद्वान् (*vidvān*)—knowing
+- देवं (*devaṃ*)—the god in nature
+- सवितारं (*savitāraṃ*)—the god Savitṛ
+- सूक्तैः (*sūktaiḥ*)—with excellent praises
+- दुवस्य (*duvasya*)—worship
+- आयोः (*āyoḥ*)—to man
+- ज्येष्ठं (*jyeṣṭhaṃ*)—praiseworthy
+- रत्नं (*ratnaṃ*)—wealth
+- विभजंतं (*vibhajaṃtaṃ*)—as one who divides
+- विजानन् (*vijānan*)—knowing in a special way
+- नमसा (*namasā*)—together with the oblation
+- उप ब्रुवीत (*upa bruvīta*)—recite the praise
+
+##### भावार्थ (Bhāvārtha)
+
+Knowing the coming again of Savitṛ, the destroyer of enemies, worship the god Savitṛ, divine in nature, with excellent praises; knowing in a special way that he divides praiseworthy wealth for man, recite the praise together with the oblation.
+
+##### English translation
+Knowing the approach of the expeller (of the foes of the gods from heaven), worship the divine Savitri with holy hymns: praise him with reverence, distinguishing him as distributing precious (treasures) amongst men.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the deity Savitṛ is praised. In the sentence जेष्ठं च रत्नं विभजंतमायोः (*jeṣṭhaṃ ca ratnaṃ vibhajaṃtamāyoḥ*) of this Ṛk the distinction of the deity Bhaga is attributed to Savitṛ and described. That is, although it is the deity Bhaga who distributes wealth and the like, the prayer is expressed here that the god Savitṛ may share out to the sacrificer the best jewels and the like.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द॒त्र॒या द॑यते॒ वायर्या॑णि पू॒षा भगो॒ अदि॑ति॒र्वस्त॑ उ॒स्रः ।
+
+### Printed p. 549
+
+> इंद्रो विष्णुर्वरुणो मित्रो अग्निरहानि भद्रा जनयंत  
+> दस्माः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदत्र्यया । दयते । वार्याणि । पूषा । भगः । अदितिः । वस्ते । उस्रः ।  
+> इंद्रः । विष्णुः । वरुणः । मित्रः । अग्निः । अहानि । भद्रा । जनयंत । दस्माः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निरदत्रयादनीयानि ॥ अदेरौणादिकोऽत्रप्रत्ययः । सुपां सुलुगिति
+> याजादेशः॥ अथवात्तीत्यदत्रा जिह्वा । तया वार्याणि वरणीयानि काष्ठानि दयते .
+> दयतिरनेककर्मात्र दहने वर्तते । दहतीत्यर्थः । सामर्थ्यादग्निरिति गम्यते ।
+> यद्वा अदनीयानि वरणीयान्यन्नानि दयते। ददाति यजमानाय ॥ दय दानगतिहिंसाबलाख्यानेषु ॥ कीदृशोऽग्निः पूषा पोषको भगो भजनीयोदितिरखंड।
+> नीयः । यद्वा । पूषादयस्त्रयोऽपि प्रत्येकमदनीयानि वार्याणि चान्नानि
+> दयते । उस्रः सूर्यो वस्ते । आच्छादयति । सामथ्यात्तेजांसि । इंद्रादयः
+> पंचापि देवा दस्मा दर्शनीया अहानि सर्वाण्यागंत्यणि भद्रा शोभनीयानि
+> जनयंत । जनयंति ! दिवसानां यागदानादिविशिष्टत्वमेव भद्रत्वं ॥'
+
+##### Gist of the bhāṣya
+
+This Agni gives, for the sacrificer, edible things, or, otherwise, the word means the tongue, the organ that eats; with it he burns choice pieces of fuel. The root has many senses and here it is used for burning; that it is Agni is understood from the context. Or else he gives to the sacrificer desirable foods. Of what kind is Agni? Pūṣan, the nourisher; Bhaga, the adorable; Aditi, the indivisible. Or else the three, Pūṣan and the others, each give edible and desirable foods. The ruddy one, Sūrya, covers; by implication, he covers with his radiance. Indra and the other five gods, the handsome ones, bring forth all the coming days as auspicious; the auspiciousness of days is just their being distinguished by sacrifices, gifts and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—Pūṣan
+- भगः (*bhagaḥ*)—Bhaga
+- अदितिः (*aditiḥ*)—and Aditi
+- अदत्रया (*adatrayā*)—fit for enjoyment
+- वार्याणि (*vāryāṇi*)—and desired foods
+- दयते (*dayate*)—they give
+- उस्रः (*usraḥ*)—the sun
+- वस्ते (*vaste*)—puts on radiance
+- दस्माः (*dasmāḥ*)—having a form worth seeing
+- इंद्रः (*iṃdraḥ*)—Indra
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—and Agni
+- भद्रा (*bhadrā*)—auspicious
+- अहानि (*ahāni*)—days
+- जनयंत (*janayaṃta*)—bring forth
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣan, Bhaga and Aditi give foods that are fit for enjoyment and desired. The sun puts on radiance. Indra, Viṣṇu, Varuṇa, Mitra and Agni, who have a form worth seeing, bring forth auspicious days.
+
+### Printed p. 550
+
+##### English translation
+Pushan, Bhaga, Aditi. bestow (severally) excellent viands : the fierce (sun) robes (himself with radiance): the good-looking (deities), Indra, Vishnu, Varuna, Mitra, Agni, give birth to happy days.
+
+##### विशेषविषयगळु (Special Topics)
+
+अदत्रया (*adatrayā*)—अदनीयानि (*adanīyāni*): oblations and the like fit to be eaten; or अत्तीतित्यदत्ता जिह्वा तया अदत्रया (*attītityadattā jihvā tayā adatrayā*): the organ that is the means of eating, that is, the tongue. In the first sense the word अदत्रया (*adatrayā*) is a word ending in the accusative plural and is an adjective of the word वार्याणि (*vāryāṇi*). In the second sense, that is, in the sense of the tongue, the word अदत्रया (*adatrayā*) is a word ending in the dative singular. **NOTE**
+
+पूषा (*pūṣā*), भगः (*bhagaḥ*), अदितिः (*aditiḥ*)—पूषा पोषकः (*pūṣā poṣakaḥ*): one who nourishes by giving food and the like. भगः भजनीयः (*bhagaḥ bhajanīyaḥ*): the deity worthy to be worshipped. आदितिः अखंडनीयः (*āditiḥ akhaṃḍanīyaḥ*): one who pervades everywhere. These three words are explained as epithets of Agni. Or else the commentator says that they may be explained as three separate deities, Pūṣan, Bhaga and Aditi. When it is explained as referring to Agni, the verb दयते (*dayate*): दयते । दयतिरनेककर्मात्र दहने वर्तते (*dayate | dayatiranekakarmātra dahane vartate*); the root has many meanings, and here it is used in the sense of burning. That is, the intention is that Agni burns the oblations and other substances. Or else दयते ददाति यजमानाय (*dayate dadāti yajamānāya*): he gives food and other substances to the sacrificer who performs the sacrifice; thus the sense of giving may also be stated for the root. The act of burning applies to Agni alone. The act of giving applies to Agni and also to the other deities, Pūṣan and the rest.
+
+वस्ते (*vaste*), उस्रः (*usraḥ*)—The word उस्र (*usra*) is formed from the root meaning "to spread"; since he spreads everywhere with his rays, उस्रः (*usraḥ*) means the sun. Here the commentator explains that this sun covers, that is, envelops, everything with his radiance.
+
+अहानि (*ahāni*)—सर्वाण्यागंत्यणि (*sarvāṇyāgaṃtyaṇi*): he has explained it as all the works that may come in future, that is, that will be attained.
+
+In this Ṛk the deities Pūṣan, Bhaga, Aditi, the sun, Indra, Varuṇa, Mitra and Agni are prayed to, that in what follows, that is, in succession, they may bring about all welfare for us.
+
+### Printed p. 551
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नो॑ अन॒र्वा स॑वि॒ता वरू॑थं॒ तत्सिंध॑व इ॒षयं॑तो॒ अनु॑  
+> ग्मन् ।  
+> उप॒ यद्वोचे॑ अध्व॒रस्य॒ होता॑ रा॒यः स्या॑म॒ पत॑यो॒  ॑
+> वाजरत्नाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । अनर्वा । सविता । वरूथं । तत् । सिंधवः । इषयंतः । अनु । ग्मन् ।  
+> उप । यत् । वोचे । अध्वरस्य । होता । रायः । स्याम । पतयः । वाजरत्नाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्प्रसिद्धं वरूथं वरणीयमस्मदभिमतं धनं नोऽस्मभ्यमनर्वाप्रत्यृतः
+> केनाप्यतिरस्कृतः सविता देवः प्रयच्छत्विति शेषः ॥ तद्दनं सिंधवः स्कंदनशीला
+> इषयंतो गच्छंत्यो नद्योऽनु अनुसृत्य ग्मन् । गच्छंतु । धनं दातुं गच्छंतित्यर्थः। यद्यस्मादध्वरस्य यागस्य होता होमनिष्पादकोऽहमुप वोचे उपेत्य
+> ब्रवीमि तस्मात्तत्पयच्छंत्विति शेषः । वयं चात्रयो रायो धनस्य बहुविधस्य
+> पतयः स्वामिनः स्याम । भवेम । वाजरत्ना अन्नेन बलेन वा रमणीयाः । अथवा
+> यद्यस्माद्वोचे सौमि तस्मात्सविता नो वरूथमागच्छतु । तस्मान्नद्यश्च नो वरूथं
+> यज्ञमनु ग्मन् अनुगच्छंत्विति ना योज्यं ॥
+
+##### Gist of the bhāṣya
+
+That well-known wealth which we desire and which is worth choosing, may the unopposed god Savitā, whom nobody has repelled, bestow on us: this is to be supplied. The rivers, which flow, going along, follow after that wealth; the sense is that they go to give wealth. Since I, the Hotṛ, the one who brings about the oblation of the sacrifice, approach and speak, therefore may they bestow it. And may we, the Ātreyas, be lords of wealth of many kinds, delightful through food or strength. Or else: since I speak, therefore may Savitā come to our desired wealth, and therefore may the rivers too follow the sacrifice, our desired wealth: so it is to be construed. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनर्वा (*anarvā*)—the unopposed
+- सविता (*savitā*)—the god Savitṛ
+- नः (*naḥ*)—to us
+- तत् (*tat*)—that well-known
+- वरूथं (*varūthaṃ*)—and desired wealth (may he give)
+- इषयंतः (*iṣayaṃtaḥ*)—flowing
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- तत् (*tat*)—that same wealth (to give to us)
+- अनु ग्मन् (*anu gman*)—may they come toward us
+- यत् (*yat*)—by which same cause
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- होता (*hotā*)—I, the Hotṛ
+- उप वोचे (*upa voce*)—approach them and praise
+- वयं (*vayaṃ*)—we
+- रायः (*rāyaḥ*)—of wealth
+- पतयॆः (*patayèḥ*)—lords
+- वाजरत्नाः (*vājaratnāḥ*)—and possessed of delightful wealth of food
+- स्याम (*syāma*)—may we become (may the gods grant it)
+
 ---
 
-**Progress note:** Done through printed p. 545. Sūkta 48 Ṛk 2 end to Ṛk 5; Sūkta 49 intro and Ṛk 1
+**Progress note:** Done through printed p. 551. Sūkta 49 Ṛk 1 end to Ṛk 4 pratipadārtha
