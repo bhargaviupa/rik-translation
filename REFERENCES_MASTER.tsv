@@ -7,7 +7,6 @@ NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	y
 NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Vāl.			no list form close to it	none		12					12												
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	11		2	4		3			1	1								
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
 NOT IN LIST	anu.			no list form close to it	none		10	1	2	2			1	1	1		2							
@@ -291,7 +290,6 @@ NOT IN LIST	Sā. Sū.		Pā. Sū.	known spelling of Pā. Sū. (capitals/dots diff
 NOT IN LIST	sūkta. Ṛ. Saṃ.			no list form close to it	none		1																	1
 NOT IN LIST	Ma. Seṃ.			no list form close to it	none		1																	1
 NOT IN LIST	Atha.			no list form close to it	none		1																	1
-NOT IN LIST	Vāla.			no list form close to it	none		1																	1
 NOT IN LIST	E. Saṃ.			no list form close to it	none		1																	1
 NOT IN LIST	Ai. Bṛṃ.			no list form close to it	none		1																	1
 NOT IN LIST	Tai.			could be Tai. Ā. or Tai. Brā. or Tai. Saṃ. or Tai. U.	none		1																	1
@@ -423,6 +421,7 @@ mistake	Pā. Saṃ.	→ Pā. Sū.					1															1
 mistake	Pā. Rū.	→ Pā. Sū.					1															1		
 mistake	Praśne.	→ Pra. U.					1																1	
 mistake	Kar.	→ Ka. U.					1																1	
+mistake	Vāla.	→ Vāl.					1																	1
 mistake	bṛ. de.	→ Bṛ. De.					1																	1
 extra	Uṇ. Sū.	Uṇādi-sūtra (the legend has U. Sū.)					236		3	18	19	2	19	32	31		5	1	44	7		50	5	
 extra	Bṛ. De.	Bṛhaddevatā					189		1			1	2				8	42	25	11	31	13	37	18
@@ -431,6 +430,7 @@ extra	Kā.	Kātyāyana-vārttika (Vārttikapāṭha)					85		5	13	4	21	7	22	3	5	
 extra	Tai. U.	Taittirīya Upaniṣad					25										1	2	7	3			11	1
 extra	A. Ve.	Atharvaveda (the legend has Ath. Saṃ.)					18													1		1	13	3
 extra	Mu. U.	Muṇḍaka Upaniṣad					17											1	11				5	
+extra	Vāl.	Vālakhilya-sūkta (the Vālakhilya hymns, Ṛgveda 8.49–59)					12					12												
 extra	Mai. U.	Maitrāyaṇīya Upaniṣad					10												1				9	
 extra	Ka. U.	Kaṭha Upaniṣad					8					2					2	1		1		1	1	
 extra	Śve. U.	Śvetāśvatara Upaniṣad					8												6				2	
