@@ -1074,6 +1074,275 @@ I have fabricated with my mouth unprecedented, comprehensive, and gratifying pra
 > स मा॒तरा॒ सूर्ये॑णा कवी॒नामवा॑सयद्रु॒जदद्रिं॑ गृणा॒नः ।  
 > स्वा॒धीभि॒र्ऋक्व॑भिर्वावशा॒न उदु॒स्रिया॑णामसृजन्नि॒ दानं॑ ॥ २ ॥
 
+### Printed p. 27
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मातरा । सूर्येण । कवीनां । अवासयत् । रुजत् । अद्रिं । गृणानः ।  
+> सुआधीभिः । ऋक्वभिः । वावशानः । उत् । उस्रियाणां । असृजत् । निदानं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो मातरा मातरौ दिवं च पृथिवीं च कवीनां क्रांतदर्शिनामंगिरसामर्थाय सूर्येणावासयत् । प्राकाशयत् । किं कुर्वन् । अद्रिं गवामदर्शनाय बलेन स्थापितं पर्वतं रुजद्भंजन् । यद्वा । कवीनामंगिरसामिति
+> तृतीयार्थे षष्ठी । अंगिरोभिर्गृणानः स्तूयमान इति संबंधः । अपि च स्वाधीभिः
+> शोभनध्यानैर्युक्वभिः स्तोतृभिरंगिरोभिर्वावशानः पुनःपुनः काम्यमानः सन्
+> उस्रियाणां वलस्य भृत्यैः पणिभिरपहृतानां गवां निदानं बंधनमुदसृजत् ।
+> अमोचयत् ॥
+
+##### Gist of the bhāṣya
+
+That Indra made the two mothers, heaven and earth, shine with the sun, for the sake of the far-seeing Aṅgirases. How did he do so? By splitting the mountain that had been set by force so that the cows could not be seen. Or else, the genitive "of the far-seeing Aṅgirases" stands for the instrumental sense, and the connection is: he was praised by the Aṅgirases. Further, he was repeatedly desired by the Aṅgirases, the singers, who are of good meditation, and so he released the confinement of the cows that had been carried off by the Paṇis, the servants of Vala.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Indra
+- कवीनां (*kavīnāṃ*)—by the far-seeing Aṅgirases
+- गृणानः (*gṛṇānaḥ*)—being praised
+- अद्रिं (*adriṃ*)—the mountain
+- रुजन् (*rujan*)—splitting
+- मातरा (*mātarā*)—heaven and earth
+- सूर्येण (*sūryeṇa*)—with the help of the sun
+- आवासयत् (*āvāsayat*)—he made shine
+- स्वाधीभिः (*svādhībhiḥ*)—by those intent on excellent meditation
+- ऋक्वभिः (*ṛkvabhiḥ*)—and by the singers of praise, the Aṅgirases
+- नावशानः (*nāvaśānaḥ*)—desired again and again
+- उस्रियाणां (*usriyāṇāṃ*)—of the cows that had been carried off
+- निदानं (*nidānaṃ*)—the bond
+- उदसृजत् (*udasṛjat*)—he released
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, praised by the far-seeing Aṅgirases, splitting the mountain, made heaven and earth shine with the help of the sun. Desired again and again by the Aṅgirases, who are intent on excellent meditation and are singers of praise, he released the bond of the cows that had been carried off.
+
+##### English translation
+He has obtained :the parent (worlds, heaven and earth), with the sun, for the sake of the sages, (the Angirasas), and glorified (by them). he has shattered the mountain ; repeatedly wished for by his adorers intently meditating (upon him), he has cast off the fetters of the cows.
+
+### Printed p. 28
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वह्नि॑भि॒र्ऋक्व॑भि॒र्गोषु॒ शश्व॑न्म॒तज्नु॑भिः पुरु॒कृत्वा॑ जिगाय ।  
+> पुरः॑ पुरो॒हा सखि॑भिः सखी॒यन्‌दृ॒ळ्हा रु॑रोज क॒विभिः॑क॒विः  
+> सन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वह्निभिः । ऋक्वभिः । गोषु । शश्वत् । मितज्नुभिः । पुरुकृत्वा । जिगाय ।  
+> पुरः । पुरःहा । सखिभिः । सखियान् । दृळ्हाः । रुरोज । कविभिः । कविः । सन् ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुकृत्वा बहुकर्मकृत्स इंद्रो वह्निभिर्हविषां वोढृभिर्यक्वभिः स्तोतृभिः
+> शश्वत्सर्वदा मितज्नुभिः संकुचितजानुभिरंगिरोभिः सह गोषु निमित्तभूतेषु
+> जिगाय । असुरान् जितवान् । जित्वा च पुरोहा पुराणां हंता स इंद्रः सखिभिः
+> समानख्यानैः कविभिः क्रांतप्रज्ञैरंगिरोभिः सह सखीयन् सखित्वमात्मन इच्छन्
+> कविः सन् स्वयमपि क्रांतप्रज्ञो भवन् दृळ्हाः स्थिराः पुर आसुरीः पुरी रुरोज ॥
+
+##### Gist of the bhāṣya
+
+That Indra, the doer of many deeds, together with the Aṅgirases, bearers of the oblations, singers of praise, who always bend the knee, conquered the asuras on account of the cows. Having conquered, the destroyer of cities, Indra, wishing friendship with his friends, the Aṅgirases, who are of the same fame and far-seeing in wisdom, and being himself a seer, far-seeing in wisdom, broke the firm cities of the asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुकृत्वा (*purukṛtvā*)—doer of many deeds
+- सः (*saḥ*)—Indra
+- वह्निभिः (*vahnibhiḥ*)—with those who bear the oblations
+- ऋक्वभिः (*ṛkvabhiḥ*)—the singers of praise
+- शश्वत् (*śaśvat*)—always
+- मितज्जुभिः (*mitajjubhiḥ*)—who bow down, kneeling, the Aṅgirases
+- गोषु (*goṣu*)—on account of the cows
+- जिगाय (*jigāya*)—he conquered the asuras
+- पुरोहा (*purohā*)—Indra, destroyer of the enemy's cities
+- सखिभिः (*sakhibhiḥ*)—with those who are his friends
+- कविभिः (*kavibhiḥ*)—and far-seeing, the Aṅgirases
+- सखीयन् (*sakhīyan*)—desiring friendship
+- कविः सन् (*kaviḥ san*)—himself also, being far-seeing
+- दृळ्हाः (*dṛḷhāḥ*)—exceedingly hard
+- पुरः (*puraḥ*)—the cities of the enemy
+- रुरोज (*ruroja*)—he destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the doer of many deeds, together with the Aṅgirases, who bear the oblations, sing praises, and always bow down kneeling, conquered the asuras on account of the cows. Indra, the destroyer of the enemy's cities, desiring friendship with the Aṅgirases, his friends, who are far-seeing, and being himself far-seeing, destroyed the exceedingly hard cities of the enemy.
+
+### Printed p. 29
+
+##### English translation
+He, the achiever of many deeds, together with his worshippers ever offering oblations upon bended knees, has overcome (the Asuras) for (the rescue of) the cows: friendly with his friends (the Angirasas), far-seeing with the far-seeing, the destroyer of cities has demolished the strong cities (of the Asuras).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नी॒व्या॑भिर्जरि॒तार॒मच्छा॑ म॒हो वाजे॑भिर्म॒हद्भि॑श्च॒ शुष्मैः॑ ।  
+> पु॒रु॒वीरा॑भिर्वृषभ क्षिती॒नामा गि॑र्वणः सुवि॒ताय॒ प्र या॑हि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नीव्याभिः । जरितारं । अच्छ । महः। वाजेभिः । महत् 5भिः । च । शुष्मैः ।  
+> पुरुऽवीराभिः । वृषभ । क्षितीनां । आ । गिर्वणः । सुविताय । प्र । याहि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभ कामानां वर्षक हे गिर्वणो गिरा स्तुत्या संभजनीयेंद्र स
+> त्वं महो महद्भिर्वाजेभिर्वाजैरन्नैर्महद्धिः शुष्मैर्बलैश्च सह क्षितीनां
+> प्रजानां मध्यॆ जरितारं स्तोतारमच्छाभिमुख्येन नीव्याभिर्नव्याभिर्नवतराभिः
+> पुरुवीराभिः पुरुणां बहूनां वीरयित्रिभिर्वडवाभिरा प्र याहि । आगच्छ ।
+> किमर्थं । सुविताय शोभनाय । सुखप्राप्त्यर्थमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O showerer of desires, O Indra who are to be served with song, you, together with great food and great strengths, come, in the midst of the peoples, towards the praiser, with new mares that bring forth many heroes. What for? For a good thing, that is, for the attainment of happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O showerer of desires
+- गिर्वणः (*girvaṇaḥ*)—O Indra, honoured with praises
+- सः (*saḥ*)—you
+- महद्भिः (*mahadbhiḥ*)—great
+- वाजेभिः (*vājebhiḥ*)—with foods
+- महः (*mahaḥ*)—exceeding
+- शुष्मैः (*śuṣmaiḥ*)—with strengths
+- च (*ca*)—and
+- नीव्याभिः (*nīvyābhiḥ*)—new
+- पुरुवीराभिः (*puruvīrābhiḥ*)—accompanied by many heroes, with horses
+- जरितारं अच्छ (*jaritāraṃ accha*)—towards the praiser
+- क्षितीनां (*kṣitīnāṃ*)—in the midst of the peoples
+- सुविताय (*suvitāya*)—for his welfare
+- आ प्र याहि (*ā pra yāhi*)—be gracious and come
+
+### Printed p. 30
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires and honoured with praises, with great foods and exceeding strengths, and with new horses accompanied by many heroes, be gracious and come, in the midst of the peoples, towards the praiser, for his welfare.
+
+##### English translation
+Showerer (of benefits), propitiated by praise, come to him who glorifies you, to make him happy amongst men with abundant food, with exceeding strength, and with young (mares) with numerous colts.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सर्गे॑ण॒ शव॑सा त॒क्तो अत्यै॑र॒प इंद्रो॑ दक्षिण॒तस्तु॑रा॒षाट् ।  
+> इ॒त्था सृ॑जा॒ना अन॑पावृ॒दर्थं॑ दि॒वेदि॑वे विविषुरप्रमृ॒ष्यं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सर्गेण । शवसा । तक्तः । अत्यैः । अपः । इंद्रः । दक्षिणतः । तुराषाट् ।  
+> इत्था । सृजानाः । अनपवृत् । अर्थं । दिवेऽदिवे । विविषुः । अप्रमृष्यं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुराषाट् तुराणां हिंसकानां सोढाभिभविता स इंद्रः सर्गेण सर्वदोद्युक्तेन शवसा बलेनात्यैरश्वैः सततगामिभिस्तेजोभिर्वा तक्तः संगतः सन्
+> दक्षिणतो दक्षिणायनेऽप उदकानि विसृजतीति शेषः । इत्येत्थमनेन प्रकारेण
+> सृजानाः सृज्यमानास्ता आपोऽर्थं गंतव्यमप्रमृष्यमन्वैरक्षोभ्यं समुद्रं
+> दिवे दिवे प्रतिदिनमनसावृत् अपावर्तनं पुनरागमनं यथा न भवति तथा विविषुः ।
+> व्याप्नुवंति ॥ अर्तेस्थन्प्रत्ययांतस्य रूपमर्थमिति ॥
+
+##### Gist of the bhāṣya
+
+Indra, the overcomer of the violent, united with his strength that is always ready for action, and with swift horses or with ever-moving lights, in the southern course releases the waters; this is to be supplied. Thus released, those waters go each day to their goal, the ocean, which is not stirred by others, in such a way that there is no turning back, no return; they pervade it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुराषाट् (*turāṣāṭ*)—who defeats enemies
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- सर्गेण (*sargeṇa*)—natural to him
+- शवसा (*śavasā*)—with strength
+- अत्यैः (*atyaiḥ*)—with horses
+- तक्तः (*taktaḥ*)—united
+- दक्षिणतः (*dakṣiṇataḥ*)—in the southern course
+- अपः (*apaḥ*)—the waters (he made them flow)
+- इत्या (*ityā*)—in this manner
+
+### Printed p. 31
+
+- सृजानाः (*sṛjānāḥ*)—the waters released from bondage
+- अर्थं (*arthaṃ*)—their destination, too
+- अप्रमृष्यं (*apramṛṣyaṃ*)—the ocean, which does not dry up
+- दिवे दिवे (*dive dive*)—every day
+- अनपावृत् (*anapāvṛt*)—without return
+- विविषुः (*viviṣuḥ*)—they enter
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, the assailer of enemies, united with horses, with his natural strength, released the waters in the southern course and made them flow. In this manner the waters, released from bondage, enter every day, without return, the ocean, their destination, which does not dry up.
+
+##### English translation
+Endowed with natural force, possessed of (swift) horses, Indra, the overcomer of adversaries, (sets free) the waters at the southern (declination): you liberated the waters expanded daily to the insatiable goal whence there is no returning.
+
+The thirty-third sūkta
+
+## Sūkta 33 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ओजिष्ठ इति पंचर्चं दशमं सूक्तं शुनहोत्रस्यार्षं त्रिष्टुभमैंद्रं ।
+> अनुक्रम्यते च । य ओजिष्ठः शुनहोत्रस्त्विति ॥ महाव्रतेऽपि निष्केवल्य उक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning य ओजिष्ठः (*ya ojiṣṭhaḥ*) is the tenth sūkta, with Śunahotra as its seer; it is in the Triṣṭubh metre and addressed to Indra. The Anukramaṇī says: य ओजिष्ठः शुनहोत्रस्त्विति (*ya ojiṣṭhaḥ śunahotrastviti*). The application to the Niṣkevalya litany in the Mahāvrata has also been stated.
+
+Anuvāda: This sūkta, beginning with य ओजिष्ठः (*ya ojiṣṭhaḥ*), is the tenth sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Śunahotra, born in the Bhāradvāja lineage; the metre is Triṣṭup. In the Anukramaṇī it is said: य ओ जिष्ठः शुनहोत्रस्तु (*ya o jiṣṭhaḥ śunahotrastu*). In the rite called Mahāvrata this sūkta is applied to the Niṣkevalya-śastra mantras.
+
+Sūkta 33. Maṇḍala 6. Anuvāka 3. Sūkta 23 **NOTE**. Aṣṭaka 4. Adhyāya 7. Varga 5. Number of Ṛks in the sūkta: 5. Seer: Śunahotra. Deity: Indra. Metre: Triṣṭup.
+
+### Printed p. 32
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ओजि॑ष्ठ इंद्र॒ तं सु नो॑ दा॒ मदो॑ वृषन्तस्वभि॒ष्टिर्दास्वा॑न् ।  
+> सौव॑श्व्यं॒ यो व॒नव॒त्स्वश्वो॑ वृ॒त्रा स॒मत्तु॑ सा॒सह॑द॒मित्रा॑न्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ओजिष्ठः । इंद्र । तं । सु । नः । दाः । मदः । वृषन् । सुअभिष्टिः । दास्वान् ।  
+> सौवश्व्यं । यः । वनवत् । सुअश्वः । वृत्रा । समत्सु । ससहत् । अमित्रान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षयितरिंद्र त्वं यः पुत्र ओजिष्ठ ओजस्वितमो बलवत्तमो मदस्तव मादयिता । स्तुतिभिः स्तोतेत्यर्थः । स्वभिष्टिः शोभनाभ्येषणो
+> दास्वान् । हविषां दानं दाः । तद्वान् । एवंगुणविशिष्टं तं पुत्रं नोऽस्मभ्यं
+> सु ; सुष्टु दाः । देहि । यः पुत्रः स्वश्वः सन् समत्सु संग्रामेषु सौवश्वं
+> शोभनाश्वानां समूहं वनवत् हिंस्यात् । तथा वृत्रा वृत्रान् वारयित्यनमित्रान्
+> शत्रुंश्च सासहत् अत्यर्थमभिभवेत् तं दा इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, showerer of desires: give us well that son who is most mighty and strong, your gladdener, that is, one who delights you by his praises; of good purpose (*svabhiṣṭi*, "one whose seeking is fair") **NOTE**; and a giver, that is, one who gives oblations. Give us a son endowed with such qualities, who, being possessed of good horses, shall in battles destroy the host of the enemy's good horses, and shall utterly overcome the obstructing enemies. This is the construction: give us him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—the son who
+- ओजिष्ठः (*ojiṣṭhaḥ*)—is exceedingly mighty
+- मदः (*madaḥ*)—a giver of delight to you by praise
+- स्वभिष्टिः (*svabhiṣṭiḥ*)—an excellent sacrificer
+- दास्वान् (*dāsvān*)—an offerer of oblations
+- यः (*yaḥ*)—the son who
+- स्वश्वः (*svaśvaḥ*)—possessed of good horses
+- समत्सु (*samatsu*)—in battles
+- सौवश्वं (*sauvaśvaṃ*)—the good horses of the enemies
+- वनवत् (*vanavat*)—destroying
+- वृत्रा (*vṛtrā*)—who are hostile
+- अमित्रान् (*amitrān*)—the enemies
+- सासहत् (*sāsahat*)—shall defeat
+- तं (*taṃ*)—such a son
+- सु (*su*)—abundantly
+- दाः (*dāḥ*)—grant to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires: the son who is exceedingly mighty, a giver of delight to you by praise, an excellent sacrificer, and an offerer of oblations, and who, possessed of good horses, shall in battles destroy the enemies' good horses and defeat the hostile enemies: grant us such a son.
+
 ---
 
-**Progress note:** Done through printed p. 26. Sūkta 31 Ṛk 1 (end) to 5, Sūkta 32 intro and Ṛk 1-2 (saṃhitā)
+**Progress note:** Done through printed p. 32. Sūkta 32 Ṛk 2-5, Sūkta 33 intro and Ṛk 1
