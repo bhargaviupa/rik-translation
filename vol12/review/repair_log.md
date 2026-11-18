@@ -112,3 +112,4 @@
 - 2026-11-10 QA2 p. 414: वृक्षो व्रश्चनात्… -> वृक्षं—वृक्षो व्रश्चनात्… (headword omitted)
 - 2026-11-10 QA2 p. 414: one and the same tree -> + as-supplied note (garbled ಒ ವೇ silently read)
 - 2026-11-10 QA2 p. 422: …so as to favour the fall of rain -> again [ಪುನ.] added ("ಪುನ." left out)
+- 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 28, en kannada 7, en latin 108, en latin-twin 11, kn kannada 136, places 6; every change is a row of review/refs_applied.tsv.
