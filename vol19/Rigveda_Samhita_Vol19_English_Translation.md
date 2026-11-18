@@ -9478,6 +9478,185 @@ O Indra, I, the seer of the mantra, hear of you alone as the chief among all men
 - त्वा (*tvā*)—you
 - जनेषु (*janeṣu*)—among all men
 
+### Printed p. 240
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकं नु (*ekaṃ nu*)—as the most excellent, the chief one
+- शृणोमि (*śṛṇomi*)—I have heard
+- दोषा (*doṣā*)—at night
+- वस्तोः (*vastoḥ*)—by day
+- हवमानासः (*havamānāsaḥ*)—those who praise (you)
+- आशासः (*āśāsaḥ*)—those who pray for their desired ends
+- मे (*me*)—my sons and others
+- नविष्ठं (*naviṣṭhaṃ*)—exceedingly praiseworthy
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- जगृभ्रे (*jagṛbhre*)—may they accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I have heard of you, the protector of the good, who were born beneficial to the five kinds of people and are endowed with fame, as the most excellent chief among all men. May my sons and others, who praise you day and night and pray for their desired ends, accept that Indra, who is exceedingly praiseworthy.
+
+##### English translation
+Verily I hear of you as chief amongst men, the protector of the good friendly to the five classes of beings, the begotten, the renowned ; may my (progeny), representing (their wishes), and uttering his praises night and, day, propitiate the glorified Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+पांचजन्यं (*pāṃcajanyaṃ*)—गंधर्वा अप्सरसो देवा असुरा रक्षांसि पंचजनाः । निषादपंच माश्चत्वारो वर्णा वा । (*gaṃdharvā apsaraso devā asurā rakṣāṃsi paṃcajanāḥ | niṣādapaṃca māścatvāro varṇā vā |*). Sāyaṇa explains that the five groups are the Gandharvas, the Apsarases, the gods, the Asuras and the Rākṣasas together; or else the four classes of people (varṇas) together with the fifth group, the Niṣādas, that is, the hunters. There are differences of opinion in this classification. The author of the Nirukta has not stated his own view, but has only cited the opinions of others.
+
+पंचजना ( मम होत्रं जुषध्वं ) गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । (*paṃcajanā ( mama hotraṃ juṣadhvaṃ ) gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ |*) (Ni. 3-8)
+
+That is, some say that the five kinds of people are the Gandharvas, the ancestors, the gods, the Asuras and the Rākṣasas; Upamanyu and others hold that the four classes of people beginning with the Brāhmaṇas, together with the fifth group called the Niṣādas, are the five peoples. Thus he has stated only the opinions of others.
+
+Formerly, when all the gods addressed Agni and prayed that he should accept the oblation offered in the sacrifice for them and distribute it to all, Agni agreed and said:
+
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं । (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ |*) (Ṛ. Saṃ. 10-53-4).
+
+### Printed p. 241
+
+The author of the Bṛhaddevatā cites this sentence, in which the answer is given that the five peoples should enjoy this oblation, and discusses it, showing the differences of opinion about who the five peoples are. In the śloka
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*) (Bṛ. De. 7-66)
+
+he states the answer that Agni gave to the gods, and then explains the word pañcajana:
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Bṛ. De. 7-67)
+
+That is, the fire at the entrance of the hall, the Āhavanīya fire that has been led forth, the Gārhapatya fire that is like a son of the sacrificer, and the southern and northern fires: these five kinds of fire are held to be the five groups, according to traditional usage. This is one opinion. Moreover:
+
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः । गंधर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ | gaṃdharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68)
+
+According to the first opinion the serpents and Rākṣasas form one group; in the second the Yakṣas and Rākṣasas form one group.
+
+यास्कौपमन्यनावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāskaupamanyanāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 76-69)**NOTE**
+
+In this verse the author of the Bṛhaddevatā says that Yāska's opinion is the first. But in the Nirukta the opinions of others are stated, and Yāska's own opinion is not stated definitively. Probably he too accepted that one.
+
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते । (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate |*) (Bṛ. De. 7-20)**NOTE**
+
+The opinion of Śākapūṇi is that the four priests, the hotṛ and the others, together with the sacrificer make five groups.
+
+चक्षुः श्रोतं मनो वाक् च प्राणश्चेत्यात्मवादिनः । गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके । (*cakṣuḥ śrotaṃ mano vāk ca prāṇaścetyātmavādinaḥ | gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā ‖ sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake |*)
+
+### Printed p. 242
+
+The opinion of those who speak of the Self is that these five, the eye, the ear, the mind, speech and breath, are the five peoples. The Aitareya Brāhmaṇa explains them as the Gandharvas and the others (Ai. Brā. 3-31-5). Differences of opinion are cited also in the explanation of the Bṛhaddevatā, where it is said that Agni gave the gods the answer that such five peoples should enjoy the oblation.
+
+The words पंच जनाः (*paṃca janāḥ*) and पंचकृस्टीः (*paṃcakṛsṭīḥ*) occur in many places in the Ṛgveda:
+
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं ॥ (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ ‖*) (Ṛ. Saṃ. 10-53-4)
+
+पंच जना मम होत्रं जुषंतां गोजाता उत ये यज्ञियासः । (*paṃca janā mama hotraṃ juṣaṃtāṃ gojātā uta ye yajñiyāsaḥ |*) (Ṛ. Saṃ. 10-53-5)
+
+सद्यश्चिद्यः शवसा पंचकृष्णी सूर्य इव ज्योतिषापस्ततान ॥ (*sadyaścidyaḥ śavasā paṃcakṛṣṇī sūrya iva jyotiṣāpastatāna ‖*) (Ṛ. Saṃ. 10-178-3)
+
+In his Nirukta Yāska has explained the words पंचजनाः (*paṃcajanāḥ*) and पंचकृष्टीः (*paṃcakṛṣṭīḥ*) in these ṛks in the following way:
+
+पंच जना मम होत्रं जुषध्वं गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । निषादः कस्मान्निषदनो भवति निषण्णमस्मिन् पापकमिति नैरुक्ताः (*paṃca janā mama hotraṃ juṣadhvaṃ gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ | niṣādaḥ kasmānniṣadano bhavati niṣaṇṇamasmin pāpakamiti nairuktāḥ*)
+
+That is, some say that the five peoples are the Gandharvas, the ancestors, the gods, the Asuras and the Rākṣasas. The opinion of Upamanyu and others is that the four classes of people beginning with the Brāhmaṇas, together with the people of the hunter caste called Niṣāda, make the five kinds of people (Sāyaṇa has approved this). The Nirukta-writers say that Niṣādas are those who kill animals, or that they are called Niṣāda because sin has settled in them. Besides this, there may have been five principal tribes at that time. The poet may have kept this very opinion in mind and said पंच क्षितीनां (*paṃca kṣitīnāṃ*). In any case it is clear that there was a difference of opinion on this matter even in the time of Yāska, the author of the Nirukta.
+
+### Printed p. 243
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा हि त्वामृ॑तु॒था या॒तयं॑तं म॒घा विप्रे॑भ्यो॒ दद॑तं  ॒॑
+> शृणोमि ।  
+> किं ते॑ ब्र॒ह्माणो॑ गृहते॒ सखा॑यो॒ ये त्वा॒या नि॑द॒धुः  ॑
+> काममिंद्र ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । हि । त्वां । ऋतुथा । यातयंतं । मघा । विप्रेभ्यः । ददतं । शृणोमि ।  
+> किं । ते । ब्रह्माणः । गृहते । सखायः । ये । त्वाया । निदधुः । कामं । इंद्र ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवैवमुक्तप्रकारेण हि ऋतुथा काले काले यातयंतं जंतून्सेरयंतं हे इंद्र त्वां विप्रेभ्यः स्तोतृभ्यो मघा मघानि धनानि ददतं यच्छंतं
+> शृणोमि । निशामयामि । एतनृष्यैव प्रतिभाति । हे इंद्र त्वाया त्वयि ये
+> स्तोतारः कामं स्वकीयाभिलाषं निदधुः न्यक्षिपन् ब्रह्माणो बृहंतस्ते त्वदीयाः
+> सखायः स्तोतारः किं गृहते । त्वत्तः किं गृष्णंते । ऋषिः स्वकीयाभिलाषप्राप्तिविलंबनादेवमुक्तवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the manner just stated, O Indra, I hear of you as one who from time to time, in the proper seasons, sets creatures in motion (यातयंतं (*yātayaṃtaṃ*)) and gives wealth (मघा (*maghā*)) to the praisers, the learned singers (विप्रेभ्यः (*viprebhyaḥ*)). "I hear" means "I perceive"; this is how it strikes the seer himself. O Indra, the praisers who have placed their own desire in you, the great ones (ब्रह्माणो (*brahmāṇo*) means "great"), your friends, the praisers: what do they obtain from you? The seer spoke in this way because the fulfilment of his own wish was delayed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) एव (*eva*)—in this manner
+- ऋतुथा (*ṛtuthā*)—in the respective seasons
+- यातयंतं (*yātayaṃtaṃ*)—one who impels people (to their respective rites)
+- विप्रेभ्यः (*viprebhyaḥ*)—to the praisers
+- मघा (*maghā*)—wealth
+- ददतं (*dadataṃ*)—one who gives
+- त्वा (*tvā*)—concerning you
+- शृणोमि (*śṛṇomi*)—I have heard (from those who know) (O Indra)
+- त्वाया (*tvāyā*)—in you
+- ये (*ye*)—which of your praisers
+- कामं (*kāmaṃ*)—their desired ends
+- निदधुः (*nidadhuḥ*)—place
+- ब्रह्माणि (*brahmāṇi*)—those of great nature
+- ते (*te*)—your kinsmen
+- सखायः (*sakhāyaḥ*)—the praisers
+- किं गृह्णते (*kiṃ gṛhṇate*)—what can they obtain (from you)?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I have heard from those who know about you, who constantly impel people at the respective seasons to the respective rites and who give wealth to the praisers.
+
+### Printed p. 244
+
+What can those praisers of yours obtain from you, who place their desired ends in you, who know the great truth and are your kinsmen?
+
+##### English translation
+I hear of you influencing (creatures) according to the season, and giving riches to the pious ; but what do your devoted friends ( obtain ), who have entrusted their desires, Indra, to you ?
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके प्रथमोऽध्यायः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake prathamo 'dhyāyaḥ ‖*) समाप्तिः (*samāptiḥ*) ओं तत्स्यत् (*oṃ tatsyat*)
+
+Here ends the first adhyāya, in the fourth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and with a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*) शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*)
+
+Om. Obeisance to Śrī Mahāgaṇapati.
+
+वागीशादाः सुमनसः सर्वार्थानामुपक्रमे ! यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādāḥ sumanasaḥ sarvārthānāmupakrame ! yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+**Introduction**
+
+Fourth Aṣṭaka, second Adhyāya.
+
+Fifth Maṇḍala, thirty-third Sūkta.
+
+**Prefatory note**
+
+In this section, the second adhyāya of the fourth aṣṭaka, there are in all 14 sūktas, from the 33rd sūkta to the 46th sūkta of the fifth maṇḍala. This section can be roughly divided into two parts. First, ऐंद्राणि द्वादश (*aiṃdrāṇi dvādaśa*) (Bṛ. De. 5-27): the twelve Aindra sūktas from the 29th sūkta to the 40th sūkta of the 5th maṇḍala. Of these, 8 sūktas of the present adhyāya are included, that is, up to the 40th sūkta. Second,
+
+को नु वां वैश्वदेवानि एकादश पराण्यतः । (*ko nu vāṃ vaiśvadevāni ekādaśa parāṇyataḥ |*) (Bṛ. De. 5-36)
+
+the eleven Vaiśvadeva sūktas in all, from the 41st sūkta, which begins with को नु वां (*ko nu vāṃ*), to the 51st sūkta. Of these, 6 sūktas of the present adhyāya are included. That is, 8 Aindra sūktas and
+
+### Printed p. 246
+
+the remaining 6 Vaiśvadeva sūktas: this is the rough division. But in these same sūktas other deities who are to be praised incidentally are also included. It is therefore necessary to examine how many such occasions there are in the Aindra sūktas, and who the deities are that are included occasionally in the Vaiśvadeva sūktas. If the Aindra sūktas are explained first,
+
+यत्वा सूर्येति चात्रीणां पंचर्चे कर्म कीर्त्यते । (*yatvā sūryeti cātrīṇāṃ paṃcarce karma kīrtyate |*) (Bṛ. De. 5-28)
+
+in the five mantras (5-40-5 to 9), beginning with the mantra यत् त्वा सूर (*yat tvā sūra*), the work of Atri is praised. This episode stands in the midst of the Aindra sūktas. Although the subject makes known the greatness of Atri's work, praise of Indra is mixed with it, and so it may be said that praise of Indra runs through it as well. Sentences such as इंद्र माया अवाहन् (*iṃdra māyā avāhan*) (5-40-6) make this clear. The gist of this section is that when Sūra was hidden by Svarbhānu, through the efforts of Indra and the efforts of Atri Svarbhānu was destroyed, and the light of Sūra was able to spread over the whole world. The greatness of Atri has been told in the introduction at the beginning of the fifth maṇḍala; there is no need to describe it here. Only the present context is briefly stated.
+
+Svarbhānu is the son of an Asura. When he hid Sūra and obstructed his light, Indra and Atri destroyed him: this is the description of the present context. But this occasion is described in one way in one place and in another way in another. For example:
+
+सुवर्भानुरासुरस्सूर्यं तमसाविध्यत्तस्मै देवाः प्रायश्चित्तिमैच्छन्तस्य यत्प्रथमं तमोऽपाघ्नन्ता कृष्णा विरभवद्यद्दितीयग्ं सा फल्गुनी यतृतीयग्ं सा वलक्षी यथद्यस्थादपाकृंतन्ता निर्वशा समभवत्ते देवा देवा अब्रुवन् देवपशुर्वा अयग्ं समभूत् ॥ (*suvarbhānurāsurassūryaṃ tamasāvidhyattasmai devāḥ prāyaścittimaicchantasya yatprathamaṃ tamo 'pāghnantā kṛṣṇā virabhavadyadditīyagṃ sā phalgunī yatṛtīyagṃ sā valakṣī yathadyasthādapākṛṃtantā nirvaśā samabhavatte devā devā abruvan devapaśurvā ayagṃ samabhūt ‖*) (Tai. Saṃ. 2-1-2-2)
+
+Svarbhānu, the son of an Asura, once caused Sūra to be covered with darkness. The gods then tried to remove it. As soon as they had destroyed half of that darkness, a black cloud came into being. From the second half the origin of a shining cloud came about. From the third it became of white colour. What was cut off from the upper part of the bone came to be transformed into a barren animal. Then all the gods together discussed: "This has become an animal of the gods; to whom shall we offer it?" And so on: in the Taittirīya Saṃhitā it is described
+
 ---
 
-**Progress note:** Done through printed p. 239. Vol 19 pp. 233-239: Ṛk 5 end, Ṛk 6-11 (Sūkta 32 cont.)
+**Progress note:** Done through printed p. 246. Vol 19 pp. 240-246: end of Ṛk 11, Ṛk 12, end of Adhyāya 1, Pīṭhike of Adhyāya 2
