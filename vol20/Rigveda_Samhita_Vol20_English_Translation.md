@@ -8882,6 +8882,266 @@ The sūkta इंद्राग्नी यमिति (*iṃdrāgnī yamiti*
 
 Translation: The sūkta इंद्राग्नी यं (*iṃdrāgnī yaṃ*) is the fourteenth sūkta in the sixth anuvāka. It has six Ṛks. Atri is the seer of this sūkta; Indra and Agni are the deities. Anuṣṭubh is the metre. Only the sixth Ṛk is of the metre called विराट् पूर्वा (*virāṭ pūrvā*). In the Chandonukramaṇī it is said: आद्य दशकावष्टकास्त्रयः (*ādya daśakāvaṣṭakāstrayaḥ*). That is, the Ṛks of this metre have five pādas in all; the first two pādas have ten syllables each and the last three pādas eight syllables each; thus the characteristic of this metre called विराट् पूर्वा (*virāṭ pūrvā*) is stated in the Chandonukramaṇī. This metre also has the name पंक्युत्तरा (*paṃkyuttarā*) (Chaṃ. Anu. 9-11). **NOTE** In the Anukramaṇī it is said: इंद्राग्नी षळ्ळैंद्राग्नमानुष्टुभं विराट् पूर्वांतं (*iṃdrāgnī ṣaḷḷaiṃdrāgnamānuṣṭubhaṃ virāṭ pūrvāṃtaṃ*). The ritual use is by indication.
 
+### Printed p. 242
+
+Sūkta 86. Maṇḍala 5; Anuvāka 6; Aṣṭaka 4; Adhyāya 4; Varga 32. Number of Ṛks in the sūkta: 6. Seer: Atri. Deity: Indra and Agni. Metre: Ṛks 1-5 Anuṣṭubh; Ṛk 6 Virāṭ-pūrvā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी॒ यमव॑थ उ॒भा वाजे॑षु॒ मर्त्यं॑ ।  
+> दृ॒ळ्हा चि॒त्स प्र भे॑दति द्यु॒म्मा वाणी॑रिव त्रि॒तः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । यं । अवथः । उभा । वाजेषु । मर्त्यं ।  
+> दृळ्हा । चित् । सः । प्र । भेदति । द्युम्ना । वाणीःइव । त्रितः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी उभोभौ परस्परावियुक्तौ युवां यं मर्त्यमवथो
+> रक्षथो वाजेषु संग्रामेषु स मर्त्यो दृळ्ता चित् दृढान्यपि द्युम्ना द्योतमानानि धनानि शत्रुसंबंधीनि भेदति । भिनत्ति । त्रित ऋषिर्वाणीरिव प्रतिवादिवाक्यानीव ।
+> अथवा त्रिषु स्थानेषु वर्तमानोऽग्निः शत्रुणां वाक्यानीव ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, you two who are never parted from each other: the mortal whom you protect in the battles, that mortal breaks even the firm, shining possessions that belong to the enemy. He breaks them as the seer Trita breaks the words of an opponent, that is, like the statements of the opponent. Or else, Agni, who is present in the three places, breaks them like the words of the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- उभा (*ubhā*)—both of you together
+- यं (*yaṃ*)—which
+- मर्त्यं (*martyaṃ*)—man
+- अवथः (*avathaḥ*)—you protect
+- सः (*saḥ*)—that man, the sacrificer
+- त्रितः (*tritaḥ*)—the seer named Trita
+- वाणीरिव (*vāṇīriva*)—as he breaks the words of the opposing side
+- वाजेषु (*vājeṣu*)—in battles
+- दृळ्हा चित् (*dṛḷhā cit*)—even though very strong
+- द्युम्ना (*dyumnā*)—the wealth of the enemies
+- प्र भेदति (*pra bhedati*)—breaks and scatters
+
+### Printed p. 243
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, the man (the sacrificer) whom you both together protect breaks and scatters in the battles the wealth of the enemies, even though it is guarded very firmly, as Trita breaks the words of the opposing side.
+
+##### English translation
+Indra and Agni, the mortal whom you both protect scatters the the substantial treasures (of his enemies), as Trita (confutes) the words (of his opponents).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या पृत॑नासु दु॒ष्टरा॒ या वाजे॑षु श्र॒वाय्या॑ ।  
+> या पंच॑ चर्ष॒णीर॒भीं॑द्रा॒ग्नी ता ह॑वामहे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । पृतनासु । दुस्तरा । या । वाजेषु । श्रवाय्या ।  
+> या । पंच । चर्षणीः । अभि । इंद्राग्नी इति । ता । हवामहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या याविंद्राग्नी पृतनासु : दुष्टरा दुष्टरावनभिभाव्यौ । या यौ च
+> वाजेषु संग्रामेष्वन्नेषु वा श्रवाय्या श्रवाय्यौ स्तुत्यौ । या यौ पंच
+> चर्षणीः । चर्षणयो मनुष्याः । तानभि । रक्षत इति शेषः । ता त् महानुभावौ
+> हवामहे । स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+Indra and Agni, who are hard to overcome in the armies, that is, not to be overpowered; who in the battles, or in the matter of food, are praiseworthy, that is, to be praised; who protect the five peoples, the peoples being men (the word "protect" is to be supplied): those two, of great majesty, we invoke, that is, we praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- या (*yā*)—you who
+- पृतनासु (*pṛtanāsu*)—among the enemy armies
+- दुष्टरा (*duṣṭarā*)—are unassailable
+- या (*yā*)—you who
+- वाजेषु (*vājeṣu*)—in battles
+- श्रवाय्या (*śravāyyā*)—are praised
+- या (*yā*)—you who
+- पंच चर्षणीः (*paṃca carṣaṇīḥ*)—the five peoples beginning with men
+- अभि (*abhi*)—wholly protect
+- ता (*tā*)—such venerable ones, you
+- हवामहे (*havāmahe*)—I praise
+
+### Printed p. 244
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, you who are unassailable among the enemy armies, who are praised in the battles, and who wholly protect the five peoples beginning with men, such venerable ones, you we praise and invoke.
+
+##### English translation
+We invoke the two, Indra and Agni, who are irresistible in conflicts, who are renowned in battles, who protect the five (classes of) men.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तयो॒रिदम॑व॒च्छव॑स्ति॒ग्मा दि॒द्युन्म॒घोनोः॑ ।  
+> प्रति॒ द्रुणा॒ गभ॑स्त्यो॒र्गवां॑ वृत्र॒घ्न एष॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तयोः । इत् । आमवत् । शवः । तिग्मा । दिद्युत् । मघोनोः ।  
+> प्रति । द्रुणा । गभस्तोः । गवां । वृत्रस्ने । आ । ईषते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमवदभिभावुकं शवो बलं तयोरित् तयोरेव ! मघोनोर्मघवतोरन्नवतोर्धनवतोर्वा तयोर्दिद्युत् वज्रं तिग्मा तीक्ष्णं वर्तते गभस्योर्हस्तयोः । एवंभूत् देवौ गवामुदकानां पणिभिरपहृतानां ना गवां लाभाय
+> द्रुणा द्रुविकारेण गमनशीलेन वैकेन रथेन वृत्रघ्न अवरकमेघहननाय तथाविधवृत्रासुरवधाय वा प्रतीषते । प्रतिगच्छतः ॥
+
+##### Gist of the bhāṣya
+
+The strength, the power, of those two alone is overpowering. Of those two bountiful ones, who possess food or wealth, the lightning, that is, the thunderbolt, is sharp in their hands. Such gods set out, for the gain of the cows, that is, of the waters, carried off by the Paṇis **NOTE**, in a single swift chariot made of wood, **NOTE**, for the killing of Vṛtra, the cloud that obstructs, or of the asura Vṛtra of that kind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तयोः इत् (*tayoḥ it*)—of these very Indra and Agni
+- शवः (*śavaḥ*)—the strength
+- अमवत् (*amavat*)—is that which restrains enemies
+- मघोनोः (*maghonoḥ*)—of these two wealthy ones
+- दिद्युत् (*didyut*)—the shining thunderbolt
+- तिग्मा (*tigmā*)—sharply
+- गभस्तोः (*gabhastoḥ*)—in their arms (shines) (such great ones)
+
+### Printed p. 245
+
+- गवां (*gavāṃ*)—for the gain of cows
+- वृत्रघ्ने (*vṛtraghne*)—for the destruction of Vṛtra
+- द्रुणा (*druṇā*)—seated in a single swiftly running chariot
+- प्रति ईषते (*prati īṣate*)—set out
+
+##### भावार्थ (Bhāvārtha)
+
+The strength of the famous Indra and Agni is that which restrains enemies. The shining thunderbolt of these two wealthy ones shines sharply in their arms. Such great ones set out, for the gain of cows and also for the destruction of Vṛtra, seated in a single swiftly running chariot.
+
+##### English translation
+Overpowering is the might of these two: the bright (lightning) is shining in the hands of Maghavan, as they go together in one chariot for the (recovery of the) cows, and the destruction of Vritra.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वा॒मेषे॒ रथा॑नामिंद्रा॒ग्नी ह॑वामहे ।  
+> पती॑ तु॒रस्य॒ राध॑सो वि॒द्वांसा॒ गिर्व॑णस्तमा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । एषे । रथानां । इंद्राग्नी इति । हनामहे ।  
+> पती इति । तुरस्य । राधसः । विद्वांसा । गिर्वणःतमा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवौ ता तौ वक्ष्यमाणगुणौ वां युवां हवामहे । स्तुमः । किमर्थ० ।
+> रथानामेषे युद्धे रथानां प्रेरणाय । कीदृशौ युवां । इंद्राग्नी इंद्रमग्निं
+> च परस्परयुग्मभूतौ तुरस्य जंगमरूपस्य राधसो धनादिलक्षणस्य पती स्वामिनौ
+> विद्वांसा सर्वज्ञा गिर्वणस्तमा गीर्भिर्वननीयतम् । ईदृशौ युवां हवामहे ॥
+
+##### Gist of the bhāṣya
+
+O gods, those two, of the qualities to be told, we invoke, that is, we praise. For what purpose? For the sending forth of the chariots in the battle. What are you like? Indra and Agni, who are a pair joined with each other; lords of the moving kind of wealth, which has riches and the like as its mark; knowing, that is, all-knowing; to be served most of all with words of praise. Such are you whom we invoke.
+
+### Printed p. 246
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- तुरस्य (*turasya*)—of the moving kind
+- राधसः (*rādhasaḥ*)—of all wealth
+- पती (*patī*)—the lords
+- विद्वांसा (*vidvāṃsā*)—the all-knowing
+- गिर्वणस्तमा (*girvaṇastamā*)—who are worthy of the choicest praises
+- ता वां (*tā vāṃ*)—such you
+- रथानां (*rathānāṃ*)—your chariots
+- एषे (*eṣe*)—to send forth for battle
+- हवामहे (*havāmahe*)—we pray and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, who are lords of all the moving wealth, all-knowing, and worthy of the choicest praises, you we pray and praise to send your chariots forth for battle.
+
+##### English translation
+We invoke you both, Indra and Agni, for (sending) your chariots to the combat, lords of moveable wealth. all-knowing, most deserving of praise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वृ॒धंता॒वनु॒ द्यून्मर्ता॑य दे॒वान॒दभा॑ ।  
+> अर्हं॑ता चित्पु॒रो द॒धे०शे॑व दे॒वान्वर्॑ते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वृधंतौ । अनु । द्यून् । मर्ताय । देव् । अदभा ।  
+> अर्हंता । चित् । पुरः । दधे । अंशा इव । देव् । अर्वते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तावनु द्यून् प्रतिदिनं वृधंत् वर्धमान् । सर्वदा प्रवृद्धावित्यर्थः ।
+> वर्धने दृष्टांतः । मर्तेव मनुष्याविव । त् यथा प्रतिदिनं वर्धेते । देवौ
+> द्योतमानावदभाहिंस्यावर्हंता चित् प्रकर्षण पूज्यौ । चिदिति पूजायां ।
+> तादृशौ महानुभावौ देवावर्वतेऽश्वलाभाय पुरो दधे पुरस्कुर्वे । अंशेव ।
+> अंशो नाम द्वादशादित्यमध्यवर्ति देवः । स भगस्याप्युपलक्षकः । अंशाविव ।
+> आदित्याविव । दीप्तावित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those two grow day by day; that is, they are always increased. As an illustration of the growth: as two mortals, that is, two men, grow day by day. The two gods are shining and not to be injured, and worthy of worship, that is, to be honoured exceedingly; the particle चिदिति (*ciditi*) is used in the sense of worship. Such great gods I place in front, that is, I honour first, for the gain of a horse. As for the comparison अंशेव (*aṃśeva*): Aṃśa is a god within the twelve Ādityas, and he stands also for Bhaga. Like two Aṃśas, that is, like two Ādityas, which means blazing.
+
+### Printed p. 247
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Indra and Agni)
+
+- मर्तेव (*marteva*)—like men
+- अनु द्यून् (*anu dyūn*)—every day
+- वृधंता (*vṛdhaṃtā*)—you who prosper
+- देवौ (*devau*)—resplendent
+- अदभा (*adabhā*)—unharmed
+- अंशा इव (*aṃśā iva*)—like the Ādityas
+- देवौ (*devau*)—resplendent
+- अहंता चित् (*ahaṃtā cit*)—and greatly venerable
+- ता (*tā*)—you
+- अर्वते (*arvate*)—for the gain of a horse
+- पुरः दधे (*puraḥ dadhe*)—we honour and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, who prosper every day like men, who are resplendent and unharmed, and who are resplendent and venerable like the Ādityas, you we honour and worship for the gain of horses.
+
+##### English translation
+I adore you, irresistible deities, for (the sake of obtaining) horses : you who are increasing day by day like mortals, who are worthy of worship, like two Adityas.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेंद्रा॒ग्निभ्या॒महा॑वि ह॒व्यं शू॒ष्यं॑ घृ॒तं न पू॒तमद्रि॑भिः ।  
+> ता सू॒रिषु॒ श्रवो॑ बृ॒हद्र॒यिं गृ॒णत्सु॑ दिधृत॒मिषं॑ गृ॒णत्सु॑  
+> दिधृतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इंद्राग्निभ्यां । अहावि । हव्यं । शूष्यं । घृतं । न । पूतं । अद्रिभिः ।  
+> ता । सूरिषु । श्रवः । बृहत् । रयिं । गृणत्सु । दिधृतं । इषं । गृणत्सु ।  
+> दिधृतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवैवमिदानीं क्रियमाणप्रकारेण । स्तुतिसाहित्येनेत्यर्थः । इंद्राग्निभ्यां
+> हव्यं हविरहावि । परित्यक्तमासीत् । कीदृशं तत् । शूष्यं बलकरं । किमिव । अद्रिभिग्रावभिः पूतमभिषुतं धृतं न सोमरसमिव । तद्यथा युवाभ्यां प्रदीयते
+
+##### Gist of the bhāṣya
+
+"Thus", that is, in the manner in which it is now being done, with praise. By Indra and Agni the oblation was given up, that is, offered. What kind of oblation? Strength-giving. Like what? Like the Soma juice, pressed and purified with the stones, that is, the pressing-stones, as if it were ghṛta **NOTE**. As it is given to you both
+
 ---
 
-**Progress note:** Done through printed p. 241. Ṛk 4 end, Ṛk 5-8 of sūkta 85, start of next sūkta (Indra-Agni)
+**Progress note:** Done through printed p. 247. Sūkta 86 (Indra-Agni) Ṛk 1-5 and start of Ṛk 6
