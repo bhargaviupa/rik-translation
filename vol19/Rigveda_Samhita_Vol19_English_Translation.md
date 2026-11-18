@@ -8336,6 +8336,277 @@ When the light (of the sun) overpowers the light (of the dawn) Indra grants all 
 > अनवः । ते । रथं । अश्वाय । तक्षन् । त्वष्टा । वज्रं । पुरुहुत । द्रुमंतं ।  
 > ब्रह्माणः । इंद्रं । महयंतः । अर्कैः । अवर्धयन् । अहये । हंतवै । ऊं इति ॥
 
+### Printed p. 215
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र ते त्वदीयं रथमश्वायाश्वाभ्यां संयोगार्हमनवः । अनवो मनुष्याः । ऋभवस्तक्षन् । अतक्षन् । अकुर्वन् । त्वष्टा च
+> त्वद्वीयं वज्रं द्युमंतं दीप्तिमंतमकरोत् । उ अपि च महयंत इंद्रं
+> पूजयंतो ब्रह्माणोंगिरसः परिवृढा मरुतो वा अहयेऽहिं वृत्रं हंतवै
+> हंतुमर्कैः स्तोत्रैरवर्धयन् । वर्धितवंतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, invoked by many, the अनवः (*anavaḥ*), that is, men, namely the Ṛbhus, fashioned (तक्षन् (*takṣan*), "made") your chariot so that it is fit to be yoked to horses; and Tvaṣṭṛ made your thunderbolt radiant. And the ब्रह्माणोंगिरसः (*brahmāṇoṃgirasaḥ*), the Aṅgirases, or else the Maruts, called परिवृढा (*parivṛḍhā*), worshipping Indra, strengthened him with arkas, that is, with hymns of praise, in order to slay Ahi, that is, Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, invoked by many
+- ते (*te*)—your
+- रथं (*rathaṃ*)—chariot
+- आश्वाय (*āśvāya*)—so as to be fit for yoking with horses
+- अनवः (*anavaḥ*)—the Ṛbhus, who are men
+- तक्षन्माडिद्दारॆ (*takṣanmāḍiddārè*)—have made
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- वज्रं (*vajraṃ*)—your thunderbolt
+- द्युमंतं (*dyumaṃtaṃ*)—(has made it) radiant
+- उ (*u*)—and
+- इंद्रं (*iṃdraṃ*)—Indra
+- महयंतः (*mahayaṃtaḥ*)—worshipping
+- ब्रह्माणः (*brahmāṇaḥ*)—the venerable Aṅgirases
+- अहये (*ahaye*)—of Vṛtrāsura
+- हंतवै (*haṃtavai*)—for the destruction
+- अर्कॆैः (*arkèaiḥ*)—with hymns
+- अवर्धयन् (*avardhayan*)—made (you) grow strong
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, invoked by many, the Ṛbhus, who are men, have made your chariot fit to be yoked to horses. Tvaṣṭṛ has made your thunderbolt radiant. And the venerable Aṅgirases, worshipping Indra, have made you, the lord, grow strong with hymns for the destruction of Vṛtrāsura.
+
+##### English translation
+The Ribhus have fabricated your car, Indra, the invoked of many, adapted to its horses : Twashtri (has made) your radiant thounderbolt : the venerable (Angirasas), praising Indra, with hymns, have given him vigour for the destruction of Ahi.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष्णे॒ यत्ते॒ वृष॑णो अ॒र्कमर्चा॒निंद्र॒ ग्रावा॑णो॒ अदि॑तिः  ॒॑
+> सजोषाः ।  
+> अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इंद्रे॑षिता अ॒भ्यव॑र्तंत॒ दस्यू॑न् ॥
+
+### Printed p. 216
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्णे । यत् । ते । वृषणः । आर्कं । आर्चान् । इंद्र । ग्रावाणः । आदितिः ।  
+> सृजोषाः ।  
+> अनश्वासः । ये । पवयः । आरथाः । इंद्रइषिताः । अभि । अवर्तंत । दस्यून् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदा वृषणः सेचनसमर्था मरुतो वृष्णे कामानां वर्षित्रे
+> ते तुभ्यमर्कं स्तोत्रमर्चान् अस्तुवन् । अकुर्वन्नित्यर्थः । तदादितिरदीनाः ।
+> वचनव्यत्ययः ॥ ग्रावाणोऽभिषवपाषाणाः सजोषाः संगता बभूवुरिति शेषः ।
+> अनश्वासोऽश्ववर्जिता अरथा रथहीना इंद्रेषिता इंद्रेण प्रेषिताः पवयः
+> पवमाना गच्छंतो ये मरुतो दस्यून् शत्रुनभ्यवर्तंत अभिभूतान् कुर्वंतो
+> वर्तंते स्म ते मरुतोऽर्चानिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, when the Maruts, who are वृषणः (*vṛṣaṇaḥ*), able to shower, praised, that is, composed, a hymn (अर्कं (*arkaṃ*)) for you, the showerer of desires, then आदितिः (*āditiḥ*) means adīnāḥ, "not poor" (a change of number); the ग्रावाणः (*grāvāṇaḥ*), the pressing-stones for the Soma, came together in concord (सजोषाः (*sajoṣāḥ*)), "became" being understood. The Maruts who are horseless (अनश्वासः (*anaśvāsaḥ*)), without chariots, sent by Indra, and पवयः (*pavayaḥ*), that is, moving and purifying, overcame the Dasyus, the enemies, that is, made them overpowered. The connection is that those Maruts praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- वृषणः (*vṛṣaṇaḥ*)—the Maruts, able to shower
+- वृष्णे (*vṛṣṇe*)—addressing you, the showerer of desires
+- अर्कं (*arkaṃ*)—a hymn
+- अर्चान् (*arcān*)—composed and recited (then)
+- आदितिः (*āditiḥ*)—the exalted
+- ग्रावाणः (*grāvāṇaḥ*)—pressing-stones
+- सजोषाः (*sajoṣāḥ*)—come together (immediately after that)
+- अनश्वासः (*anaśvāsaḥ*)—those without horses
+- आरथाः (*ārathāḥ*)—without chariots
+- इंद्रेषिताः (*iṃdreṣitāḥ*)—urged by Indra
+- पवयः (*pavayaḥ*)—of a roaming nature
+- ये (*ye*)—the Maruts who are such
+- दस्यून् (*dasyūn*)—towards the enemies
+- अभ्यवर्तंत (*abhyavartaṃta*)—run, pursuing them
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the Maruts, able to shower, composed and recited a hymn addressed to you, the showerer of desires, then the exalted pressing-stones, which press the Soma juice, come together to press the juice for you. Immediately after that, those Maruts who are without horses, without chariots, urged by Indra and of a roaming nature, run towards the enemies.**NOTE**
+
+##### English translation
+When the Maruts, the showerers (of benefits), glorify you, Indra, the showerer (of desires), with praises, and the exulting stones delight (to bruise
+
+### Printed p. 217
+
+the Soma), then, without horses, without chariots, they, the purifying (Maruts), dispatched by Indra, have overcome the Dasyus.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ पूर्वा॑णि॒ कर॑णानि वोचं॒ प्र नूत॑ना मघव॒न्या  ॒॑
+> चकर्थ ।  
+> शक्ती॑वो॒ यद्वि॒भरा॒ रोद॑सी उ॒भे जय॑न्न॒पो मन॑वे॒ दानु॑चित्राः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । पूर्वाणि । करणानि । वोचं । प्र । नूतना । मघ्यवन् । या । चकर्थ ।  
+> शक्तिवः । यत् । विभराः । रोदसी इति । उभे इति । जयन् । अपः । मनवे ।  
+> दानुचित्ताः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयानि पूर्वाणि पुरातनानि करणानि कर्माणि प्र वोचं
+> अहं प्रकर्षण ब्रवीमि । नूतना नूतनानि नवानि कर्माणि प्र वोचं । प्रब्रवीमि।
+> हे मघवन् धनवन्निंद्र या यानि कर्माणि चकर्थ कृतवानसि तानि प्र वोचमिति
+> संबंधः । हे शक्तीवः शक्तिमन् । शक्तिर्वज्रं कर्म वा । तद्वन्निंद्र यत् यस्त्वमुभे
+> रोदसी द्यावापृथिव्यौ जयन्वशीकुर्वन् अप उदकानि मनवे मनुष्याय विभराः
+> विविच्य बिभर्षि । कीदृशीः । दानुचित्राः चित्रदानाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, I proclaim your ancient deeds, and I proclaim your new deeds; O Maghavan, wealthy Indra, I proclaim those deeds which you have done, this being the connection. O शक्तीवः (*śaktīvaḥ*), possessor of power (śakti is the thunderbolt, or else action), Indra, you who, subduing both heaven and earth, have separated out and bear the waters for man, Manu. Of what kind are these waters? दानुचित्राः (*dānucitrāḥ*), of wonderful gifts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, the wealthy
+- ते (*te*)—your
+- पूर्वाणि (*pūrvāṇi*)—ancient
+- करणानि (*karaṇāni*)—deeds
+- प्र वोचं (*pra vocaṃ*)—we praise
+- नूतना (*nūtanā*)—new
+- या चकर्थ (*yā cakartha*)—and those deeds which you have accomplished
+- प्र (*pra*)—we praise
+- शक्तीवः (*śaktīvaḥ*)—powerful one
+- यत् (*yat*)—you who
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- जयन् (*jayan*)—having brought under your sway
+- दानुचित्राः (*dānucitrāḥ*)—possessed of manifold power of giving
+- अपः (*apaḥ*)—waters
+- मनवे (*manave*)—for man
+- विभराः (*vibharāḥ*)—you bear
+
+### Printed p. 218
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, we praise fully your ancient deeds and your new deeds. O powerful one, having brought both heaven and earth under your sway, you bear for the sake of man the waters possessed of manifold power of giving.
+
+##### English translation
+I celebrate, Maghavan, your, ancient exploits, and those which you have newly achieved : wielder of the thunderbolt, subjugating both heaven and earth, you have distributed the wonderfully bountiful waters to man
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिन्नु ते॒ कर॑णं दस्म वि॒प्राहिं॒ यद्घन्नोजो॒ अत्रामि॑मीथाः ।  
+> शुष्ण॑स्य चि॒त्परि॑ मा॒या अ॑गृभ्णाः प्रपि॒त्वं यन्नप॒ दस्यू॑रसेधः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । नु । ते । करणं । दस्म । विप्र । अहिं । यत् । घन् । ओजः । अत्र ।  
+> अमिमीथाः ।  
+> शुष्णस्य । चित् । परि । मायाः । अगृभ्णाः । प्रपित्वं । यन् । अप । दस्यून् ।  
+> असेधः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्म दर्शनीय विप्र मेधाविन्निंद्र त्वमत्रास्मिल्लोकेऽहिं वृत्रमसुरं
+> घन् हिंसन् यदोजो यद्बलममिमीथाः प्रकाशितवानसि तदिन्नु तत्पलु ते
+> त्वदीयं करणं कर्म विद्यते । अपि च शुष्णस्य चिदेतन्नामकस्याप्यसुरस्य । संबंधिनीर्माया प्रज्ञाः पर्यगृभ्णाः । परिगृहीतवानसि । हे इंद्र त्वं प्रपित्वं संग्रामं
+> समीपं ना यन् प्राप्नुवन् दस्युनसुरानपासेधः । अपाबाधथाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O handsome (दस्म (*dasma*)), wise (विप्र (*vipra*)) Indra, the power that you displayed in this world while slaying Ahi, the asura Vṛtra, that is indeed your deed. And you seized the wiles (माया (*māyā*)), that is, the intelligences, belonging to the asura named Śuṣṇa. O Indra, you, approaching the battle, drove away the Dasyus, the asuras.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्म (*dasma*)—O you of handsome form
+- विप्र (*vipra*)—and wise Indra, you
+- अत्र (*atra*)—in this world
+- अहिं (*ahiṃ*)—Vṛtrāsura
+- घ्नन् (*ghnan*)—slaying
+- यत् ओजः (*yat ojaḥ*)—which power
+- अमिमीथाः (*amimīthāḥ*)—you have displayed
+
+### Printed p. 219
+
+- तदिन्नु (*tadinnu*)—that same
+- ते (*te*)—your
+- करणं (*karaṇaṃ*)—extraordinary deed
+- शुष्णस्य चित् (*śuṣṇasya cit*)—of the mighty Śuṣṇa
+- मायाः (*māyāḥ*)—the deceitful intelligence
+- परि अगृभ्णाः (*pari agṛbhṇāḥ*)—you have checked and stopped
+- प्रपित्वं (*prapitvaṃ*)—the battlefield
+- यन् (*yan*)—entering
+- दस्यून् (*dasyūn*)—the asuras
+- अप असेधः (*apa asedhaḥ*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, handsome in form and wise, the power that you displayed in this world while slaying Vṛtrāsura, that is your extraordinary deed. You have checked and stopped even the deceitful intelligence of the mighty Śuṣṇa. And just as you entered the battle, you destroyed all the asuras.
+
+##### English translation
+Handsome and sagacious Indra, this is your deed, that, slaying Ahi, you have here displayed your vigour : you have arrested the devices of Sushna urging the combat : you have overcome the Dasyus.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॒पो यद॑वे तु॒र्वशा॒यार॑मयः सु॒दुघाः॑ पा॒र इं॑द्र।  
+> उ॒ग्रम॑यात॒मव॑हो ह॒ कुत्सं॒ सं ह॒ यद्वा॑मु॒शनारं॑त  ॒
+> देवाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अपः । यदवे । तुर्वशाय । अरमयः । सुदुघाः । पारः । इंद्र ।  
+> उग्रं । अयातं । अवहः । ह । कुत्सं । सं । ह । यत् । वां । उशना । अरुत ।  
+> देवाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पारे नदीनां तीरे । प्रवृद्ध इति शेषः । सुदुघा ओषधिवनस्पतीन् सुष्टु दुहतीरप उदकानि यदवे यदुनामकाय राजे तुर्वशाय्कॆतन्नामकाय राजे चारमयः । रमितवानसि । हे इंद्र युवां । त्वं कुत्सश्चेति
+
+### Printed p. 220
+
+> शेषः । उग्रमुद्गूर्णं शुष्णमयातं । आगच्छतं । तदनंतरं त्वं शुष्णं हत्वा
+> कुत्समवहो ह । स्वगृहं प्रापितवानसि खलु । यद्यदा नां युवामिंद्राकुत्सावुशना भार्गवो देवाश्च समरंत ह संभेजिरे खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, you, on the bank (पारे (*pāre*)) of the rivers, "grown great" being understood, gave delight to Yadu, a king so named, and to the king named Turvaśa, with the waters, सुदुघा (*sudughā*), which yield the herbs and trees well. "O Indra, you two", that is, you and Kutsa, were to be supplied: उग्रमुद्गूर्णं (*ugramudgūrṇaṃ*) Śuṣṇa, the fierce, the one with uplifted weapon, you two approached. After that, having slain Śuṣṇa, you carried Kutsa to his own house. When you two, Indra and Kutsa, and Uśanā Bhārgava and the gods came together, they united indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- पारः (*pāraḥ*)—being on the bank of the river
+- सुदुघाः (*sudughāḥ*)—which make the herbs and trees grow
+- अपः (*apaḥ*)—waters
+- यदवे (*yadave*)—for the king named Yadu
+- तुर्वशाय (*turvaśāya*)—and for the king Turvaśa
+- अरमयः (*aramayaḥ*)—you made fruitful
+- वां (*vāṃ*)—you and Kutsa
+- उग्रं (*ugraṃ*)—to the terrible Śuṣṇa
+- अयातं (*ayātaṃ*)—went (then you, having killed Śuṣṇa)
+- कुत्सं (*kutsaṃ*)—Kutsa
+- अवहो ह (*avaho ha*)—sent to his own house
+- यत्यावाग (*yatyāvāga*)—when you helped Kutsa, then
+- उशना (*uśanā*)—Uśanas
+- देवाः (*devāḥ*)—and the gods
+- सं आरंत ह (*saṃ āraṃta ha*)—have praised and worshipped you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, being on the bank of the river, made the waters, which make the herbs and trees grow, fruitful for Yadu and for Turvaśa as well; and when Kutsa went to face the mighty Śuṣṇa, you killed Śuṣṇa and sent Kutsa to his house. In gratitude for your having helped all these in this way, Uśanas and the gods have praised and worshipped you.**NOTE**
+
+##### English translation
+You, Indra, (abiding on the further bank), have rendered the fert liziag**NOTE** waters agreeable to Yadu and Turvasu : you two, (Indra and Kutsa), have assailed the fierce (Sushna), and (having slain him), you have conveyed Kutsa (to his dwelling), and Ushanas and the gods have therefore honoured you both.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑कुत्सा॒ वह॑माना॒ रथे॒ना वा॒मत्या॒ अपि॒ कर्णे॑ वहंतु ।  
+> निः षी॑म॒द्भ्यो धम॑थो॒ निः ष॒धस्था॑न्म॒घोनो॑ हृ॒दो  ॒॑॑
+> वरथस्तमांसि ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 214. M5 S30 Rk 13-15 end; S31 intro and Rk 1-3, Rk 4 samhita/pada
+**Progress note:** Done through printed p. 220. Ṛk 4 bhāṣya to Ṛk 9 saṃhitā, pp. 215-220
