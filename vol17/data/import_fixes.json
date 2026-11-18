@@ -526,5 +526,127 @@
    ],
    "why": "note 467: सत्तवे (*sattave*) -> पत्तवे (*pattave*)"
   }
+ ],
+ "replace_sub": [
+  {
+   "unit": "17.3.056.04.vishesha",
+   "old": "(Ka Brā. 4-3-1-15)",
+   "new": "(Śa. Brā. 4-3-1-15)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.03.vishesha",
+   "old": "(Tā. Prā. 3-2-1-23",
+   "new": "(Śa. Brā. 3-2-1-23",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.057.06.vishesha",
+   "old": "(Saṃ. 5-32-1)",
+   "new": "(Ṛ. Saṃ. 5-32-1)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.059.09.vishesha",
+   "old": "(Saṃ. Saṃ. 1,110-4)",
+   "new": "(Ṛ. Saṃ. 1-110-4)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.01.vishesha",
+   "old": "In I. 31-17",
+   "new": "In 1-31-17",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.059.01.vishesha",
+   "old": "(Bṛ. De. Ni. 68)",
+   "new": "(Bṛ. De. 7-68)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.057.02.vishesha",
+   "old": "(Bhā U. 3-6)",
+   "new": "(Chā. U. 3-6)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.10.vishesha",
+   "old": "(Bhā. 81, 3-6-1)",
+   "new": "(Chā. U. 81, 3-6-1)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.4.016.10.vishesha",
+   "old": "(Sa Bhā. 4-16 10)",
+   "new": "(Ṛ. Saṃ. Bhā. 4-16-10)",
+   "by": "Nov 18 2026: the line is Sāyaṇa's commentary on Ṛgveda 4.16.10; \"Sa Bhā.\" = Sāyaṇa-bhāṣya, not Chāndogya (corrects the earlier Bhā. = Chā. U. reading at this place); number separator slip 4-16 10"
+  },
+  {
+   "unit": "17.3.056.02.grammar",
+   "old": "(Ī. Ka. 8)",
+   "new": "(Īśa U. 8)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.057.05.grammar",
+   "old": "(Ī. Ka. 15)",
+   "new": "(Īśa U. 15)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.10.vishesha",
+   "old": "(Kar. 2-23)",
+   "new": "(Ka. U. 2-23)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.056.03.summary",
+   "old": "(Vāj. 25-8)",
+   "new": "(Vā. Saṃ. 25-8)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.053.03.summary",
+   "old": "by Pā. 1-4-41",
+   "new": "by Pā. Sū. 1-4-41",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.10.vishesha",
+   "old": "(Praśna. U. 5-5)",
+   "new": "(Pra. U. 5-5)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.046.03.vishesha",
+   "old": "(Praśne. 4-8)",
+   "new": "(Pra. U. 4-8)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.10.vishesha",
+   "old": "(A. U. 3-17-2)",
+   "new": "(Ai. U. 3-17-2)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.055.02.vishesha",
+   "old": "compare Ṛ. Ve. 10-15-2",
+   "new": "compare Ṛ. Saṃ. 10-15-2",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.10.vishesha",
+   "old": "(Chā. 5-12-1)",
+   "new": "(Chā. U. 5-12-1)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  },
+  {
+   "unit": "17.3.062.05.vishesha",
+   "old": "(Maitrya. Panisat. 7-9)",
+   "new": "(Mai. U. 7-9)",
+   "by": "user, Nov 17 2026 (vol17/review/reference_proposals.tsv)"
+  }
  ]
 }

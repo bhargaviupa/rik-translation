@@ -61,6 +61,21 @@
 | Uṇ. Sū. | ಉಣ್. ಸೂ. | Uṇādi-sūtra (the legend has U. Sū.) |
 | A. Ve. | ಅ. ವೇ. | Atharvaveda (the legend has Ath. Saṃ.) |
 | Tai. Saṃ. Bhā. | ತೈ. ಸಂ. ಭಾ. | Sāyaṇa's bhāṣya on the Taittirīya Saṃhitā |
+| Kau. U. | ಕೌ. ಉ. | Kauṣītaki Upaniṣad |
+| Kau. Brā. | ಕೌ. ಬ್ರಾ. | Kauṣītaki Brāhmaṇa |
+| Ka. U. | ಕ. ಉ. | Kaṭha Upaniṣad |
+| Pa. Brā. | ಪ. ಬ್ರಾ. | Pañcaviṃśa Brāhmaṇa |
+| Mā. Gṛ. Sū. | ಮಾ. ಗೃ. ಸೂ. | Mānava Gṛhyasūtra |
+| Ya Saṃ. | ಯ. ಸಂ. | Yajurveda-saṃhitā |
+| Ṛ. Saṃ. Bhā. | ಋ. ಸಂ. ಭಾ. | Ṛgveda-saṃhitā bhāṣya |
+| Tai. Saṃ. Bha. Bhā. | ತೈ. ಸಂ. ಭ. ಭಾ. | Bhaṭṭabhāskara's bhāṣya on the Taittirīya Saṃhitā |
+| Śā. Bhā. | ಶಾ. ಭಾ. | Śaṅkara-bhāṣya |
+| Śa. Bhā. | ಶ. ಭಾ. | Śaṅkara-bhāṣya |
+| Ai. U. Śa. Bhā. | ಐ. ಉ. ಶ. ಭಾ. | Śaṅkara-bhāṣya on the Aitareya Upaniṣad |
+| Tai. U. Śa. Bhā. | ತೈ. ಉ. ಶ. ಭಾ. | Śaṅkara-bhāṣya on the Taittirīya Upaniṣad |
+| Śa. Bhā. Bra. Sū. | ಶ. ಭಾ. ಬ್ರ. ಸೂ. | Śaṅkara-bhāṣya on the Brahma-sūtra |
+| Īśa U. | ಈ. ಉ. | Īśa Upaniṣad |
+| Ke. U. | ಕೇ. ಉ. | Kena Upaniṣad |
 
 ## 3. Known and suspected mistakes (of the machine reading, the print, or the translation)
 
@@ -80,12 +95,64 @@
 | Śai. Brā. | ಶೈ. ಬ್ರಾ. | Tai. Brā. | decided by the user, Nov 14 2026 |
 | Kṛ. Saṃ. | ಕೃ. ಸಂ. | Tai. Saṃ. | decided by the user, Nov 14 2026 |
 | Kṛ. U. | ಕೃ. ಉ. | Tai. U. | decided by the user, Nov 14 2026 |
-| Bhā. U. | ಭಾ. ಉ. | Bṛ. U. | decided by the user, Nov 14 2026 |
+| Bhā. U. | ಭಾ. ಉ. | Chā. U. | user, Nov 17 2026: ಭಾ. ಉ. is almost always Chāndogya Upaniṣad (decided Nov 14 as → Bṛ. U.; changed) |
 | Atha. Saṃ. | ಅಥ. ಸಂ. | Ath. Saṃ. | decided by the user, Nov 14 2026 |
 | Ṛgve. | ಋಗ್ವೇ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |
 | Ṛg. | ಋಗ್. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 |
 | Kṛ. Ā. | ಕೃ. ಆ. | Tai. Ā. | decided by the user, Nov 14 2026 |
 | Manu. | ಮನು. | Ma. Smṛ. | decided by the user, Nov 14 2026 |
 | Ā. Gṛ. | ಆ. ಗೃ. | Ā. Gṛ. Sū. | decided by the user, Nov 14 2026 |
+| Pā. sū. |  | Pā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Uṇ. |  | U. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of U. Sū.) |
+| ṛ. saṃ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| ni. |  | Ni. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Av. |  | Ath. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ath. Saṃ.) |
+| ā. |  | Ā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Āś. |  | Ā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ā. Sū.) |
+| Ṛk. Saṃ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ.) |
+| Uṇ. sū. |  | U. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of U. Sū.) |
+| Śat. Brā. |  | Śa. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Śa. Brā.) |
+| Āśv. |  | Ā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ā. Sū.) |
+| Nir. |  | Ni. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ni.) |
+| Ṛ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ.) |
+| tai. saṃ. |  | Tai. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Ṛ. saṃ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Niru. |  | Ni. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ni.) |
+| ai. brā. |  | Ai. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Vāj. Saṃ. |  | Vā. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Vā. Saṃ.) |
+| U. sū. |  | U. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| ṛgve. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ. (capitals/dots differ)) |
+| ṛ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ. (capitals/dots differ)) |
+| Ṛg. Saṃ. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ.) |
+| Ai. Br. |  | Ai. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ai. Brā.) |
+| tai. brā. |  | Tai. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Ait. Brā. |  | Ai. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ai. Brā.) |
+| Ś. Brā. |  | Śa. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Śa. Brā.) |
+| ai. ā. |  | Ai. Ā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| phi. |  | Phi. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| pā. sū. |  | Pā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| jai. sū. |  | Jai. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Phi. sū. |  | Phi. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Tai. saṃ. |  | Tai. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Ṛ. Ve. |  | Ṛ. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ṛ. Saṃ.) |
+| Pā.Sū. |  | Pā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Tai. Br. |  | Tai. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Tai. Brā.) |
+| Ā. Ve. |  | Ath. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ath. Saṃ.) |
+| śa. brā. |  | Śa. Brā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| tai. ā. |  | Tai. Ā. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| vā. saṃ. |  | Vā. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Ya. Saṃ. |  | Ya Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| bṛ. u. |  | Bṛ. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| āśv. |  | Ā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ā. Sū. (capitals/dots differ)) |
+| Kau. |  | Ka. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| Ā. sū. |  | Ā. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| u. sū. |  | U. Sū. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| ka. u. |  | Ka. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| niru. |  | Ni. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: known spelling of Ni. (capitals/dots differ)) |
+| mu. u. |  | Mu. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| chā. u. |  | Chā. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| śve. u. |  | Śve. U. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| tai.saṃ. |  | Tai. Saṃ. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
+| bṛ. de. |  | Bṛ. De. | approved by the user, Nov 18 2026 (REFERENCES_MASTER, high confidence: same letters; only capitals, dots or spaces differ) |
 
 A form marked "?" or "to confirm" is not corrected anywhere until the editor decides; it is only reported.
