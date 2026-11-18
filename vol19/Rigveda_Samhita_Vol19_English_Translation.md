@@ -11603,6 +11603,208 @@ Deity: Indra.
 
 Metre: Triṣṭubh.
 
+### Printed p. 292
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं भा॒नुना॑ यतते॒ सूर्य॑स्या॒जुह्वा॑नो घृ॒तपृ॑ष्ठः॒ स्वंचाः॑।  
+> तस्मा॒ अमृ॑ध्रा उ॒षसो॒ व्यु॑च्छा॒न्य इंद्रा॑य सु॒नवा॒मेत्याह॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । भानुना । यतते । सूर्यस्य । आजुह्वानः । धृतपृष्ठः । सुअंचाः ।  
+> तस्मै । अमृध्राः । उषसः । वि । उच्छान् । यः । इंद्राय । सुनवाम । इति । अह॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरस्य भानुना तेजसा सहाजुह्वानः सर्वत्र हूयमानः ॥ कर्मणि कर्तृप्रत्ययः । धृतपृष्ठः प्रदीप्तज्वालो धृतयुक्त पृष्ठप्रदेशो वा स्वंचाः स्वंचनोऽग्निः सं यतते । सम्यक् प्रयत्नं करोति। उदयकाले ह्यग्नयः प्रज्वाल्यंते ।
+> तस्मात्कारणाद्यो यजमान इंद्राय सुनवामेत्याह ब्रूतेऽध्वर्युं प्रति तस्मै
+> यजमानायामृध्रा अहिंसिता उषसो व्युच्छान् । व्युच्छंतु । उदयकालेऽग्निः
+> प्रज्वालितस्तस्मात्सोमयागं कुर्म इति यो ब्रूते तस्यॆ सुदिनानि भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Together with the radiance (bhānu), that is, the brilliance, of the sun, Agni, who is invoked everywhere (the agent-suffix is used here in the passive sense), who has blazing flames or whose back is joined with ghee (*dhṛtapṛṣṭha*), and who is of good motion (*svañcāḥ*), makes a proper effort, for fires are kindled at the time of sunrise. For that reason, the sacrificer who says to the adhvaryu, "Let us press Soma for Indra" — for that sacrificer may the unharmed dawns shine forth. The meaning is that good days come to him who says, "At sunrise the fire is kindled; therefore we perform the Soma sacrifice."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतपृष्ठः (*dhṛtapṛṣṭhaḥ*)—having blazing flames
+- स्वंचाः (*svaṃcāḥ*)—of beautiful motion
+- आजुह्वानः (*ājuhvānaḥ*)—he who is invoked everywhere, Agni
+- सूर्यस्य (*sūryasya*)—of the sun
+- भानुना (*bhānunā*)—with the radiance
+- संयतते (*saṃyatate*)—joins and becomes one (or: vies with the splendour of the sun and shines)
+- यः (*yaḥ*)—which sacrificer
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुनवाम (*sunavāma*)—let us press Soma (for offering to Indra)
+- इति (*iti*)—thus
+- आह (*āha*)—says
+- तस्मै (*tasmai*)—for that sacrificer
+- अमृध्राः (*amṛdhrāḥ*)—unharmed
+- उषसः (*uṣasaḥ*)—the dawns
+- व्युच्छान् (*vyucchān*)—may they appear and shine
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has blazing flames, who is of good motion and who is invoked everywhere, vies by his own radiance with the splendour of the sun. For the sacrificer who, urging Indra, says, "Let us press Soma for offering to Indra," may the unharmed dawns appear and shine.
+
+### Printed p. 293
+
+##### English translation
+The piously worshipped (Agni), when invoked, glistening with the oblation, vies with the splendour of the sun : may the dawns rise innoxious to him who says, let us offer oblations to Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+धृतपृष्ठः (*dhṛtapṛṣṭhaḥ*)—प्रदीप्तज्वालो धृतयुक्तपृष्ठप्रदेशो वा (*pradīptajvālo dhṛtayuktapṛṣṭhapradeśo vā*). Because ghee is offered into the fire, the meaning is that Agni shines with sharp and brilliant flames. It is customary to praise the Agni that blazes through oblations and the like by the word dhṛtapṛṣṭha.
+
+स्वंचाः (*svaṃcāḥ*)—On this word Yāska has given the explanation: स्पंचाः सु अंचनः । आजुह्वानो धृतपृष्ठः स्पंचाः इत्यपि निगमो भवति (*spaṃcāḥ su aṃcanaḥ | ājuhvāno dhṛtapṛṣṭhaḥ spaṃcāḥ ityapi nigamo bhavati*) (Ni. 5-7). Since añcana means motion, svañcāḥ means one who has beautiful motion. If it be asked whether Agni has motion: the fire is churned in the araṇis, and from that place is brought to the fire-pit called Āhavanīya on the northern altar and established there. This rite is called Āgnyānayana or Agnipraṇayana. It is performed with injunction and with mantras. It is the most important of the auxiliary rites at the beginning of the sacrifice. To indicate this, he is here praised as svañcāḥ, one of beautiful motion.
+
+सूर्यस्य भानुना आजुह्वानः सं यतते (*sūryasya bhānunā ājuhvānaḥ saṃ yatate*)—In the morning, when the sun rises, the priests kindle the fire and make it blaze. Since that fire, blazing and burning, shines very brightly, the idea is suggested that Agni, invoked together with the radiance of the sun that is just rising, shines like the radiance of the sun.
+
+यः इंद्राय सुनवाम इति आह तस्मै अमृध्रा उषसः व्युच्छान् (*yaḥ iṃdrāya sunavāma iti āha tasmai amṛdhrā uṣasaḥ vyucchān*)—Whatever sacrificer expresses the wish that in the sacrifice performed in the morning Soma juice be pressed and offered for Indra, in his case may the Dawn deities be pleased, and may that day of the sacrifice turn out for the sacrificer a sudina, that is, a good day that brings about the favour of Indra and Agni. This intention is expressed here.
+
+### Printed p. 294
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्दाग्निर्वनवस्त्री॒र्णब॑र्हियु॒क्तग्रा॑वा सु॒तसो॑मो  
+> जराते ।  
+> ग्रावा॑णो॒ यस्ये॑षि॒रं वदं॒त्यय॑दध्व॒युर्ह॒विषाव॒ सिंधुं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समिद्ध्व अग्निः । वनवत् । स्त्रीर्णबर्हिः । युक्तग्रावा । सुतसोमः । जराते ।  
+> ग्रावाणः । यस्य । इषिरं । वदंति । आयत् । अध्वर्युः । हविषा । अव । सिंधुं ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्दाग्निः प्रदीप्ताग्निः स्तीर्णबर्हिः प्रस्तृतदर्भोऽयं यजमानो
+> वनवत् । संभजते । युक्तग्रावा नियुक्ताभिषवपाषाणः सुतसोमोऽभिषुतसोमो
+> जराते । जरति । स्तौति । यस्याध्वर्योर्ग्रावाणोऽभिषवसाधना इषिरमेषणीयं
+> गमनशीलं वा शब्दं वदंति सोऽध्वर्युर्हविषा सहानायत् सिंधुं । पन्नेजनीरवगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: He whose fire is kindled (*samiddhāgni*) and whose sacred grass is spread out (*stīrṇabarhiḥ*), this sacrificer, worships (*vanavat*, he serves). He who has the pressing stones fitted in place (*yuktagrāvā*) and whose Soma is pressed (*sutasoma*) praises (*jarāte* means "he praises"). The adhvaryu, whose pressing stones, the instruments of pressing, utter a desirable or moving sound (*iṣira*, that which is to be wished for, or that which has motion), that adhvaryu goes down with the oblation to the stream (*sindhu*), that is, to the waters called pannejanī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिद्दाग्नि (*samiddāgni*)—he who has a kindled fire
+- स्तीर्णबर्हिः (*stīrṇabarhiḥ*)—the sacrificer who has sacred grass spread widely for a seat
+- वनवत् (*vanavat*)—offers worship
+- युक्तग्रावा (*yuktagrāvā*)—he who holds the stone for pressing out the juice
+- सुतसोमः (*sutasomaḥ*)—the sacrificer (or priest) who has pressed Soma
+- जराते (*jarāte*)—praises
+- यस्य (*yasya*)—of which adhvaryu
+- ग्रावाणः (*grāvāṇaḥ*)—the stones
+- इषिरं (*iṣiraṃ*)—a moving sound
+- वदंति (*vadaṃti*)—indicate
+- हविषा (*haviṣā*)—with the oblation
+- सिंधुं (*siṃdhuṃ*)—to the river
+- अपायत् (*apāyat*)—descends (for the preliminary rite) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who has a kindled fire and sacred grass spread widely for the seat offers worship. The sacrificer, or the priest, who holds the stone for pressing out the juice and has the pressed Soma praises. The adhvaryu whose pressing stones indicate a moving sound goes down with the oblation to the river for the preliminary rite.
+
+### Printed p. 295
+
+##### English translation
+He whose fire is kindled, whose sacred grass is strewn, offers worship : he whose stone is uplifted, whose Soma juice is effused, offers praise : the priest, of whom the stones utter the sounds of bruising, descends with the oblation (for previous ablution) to the stream.
+
+##### विशेषविषयगळु (Special Topics)
+
+समिद्दाग्निः स्तीर्णबर्हिषः वनवत् युक्तग्रावा सुतसोमः (*samiddāgniḥ stīrṇabarhiṣaḥ vanavat yuktagrāvā sutasomaḥ*)—All these qualifying words describe the preparations that the sacrificer who performs the sacrifice has made for it. That is, the sacrificer, after sunrise in the morning, in order to perform the sacrifice, together with the priests and according to the rules performs the auxiliary rites such as the churning of the fire and the Agnipraṇayana, establishes the fire on the northern altar and kindles it with fuel and other materials so that he may offer oblations in it: this meaning is suggested by the word समिद्दाग्निः (*samiddāgniḥ*). Then the deities, invoked by Agni (or by the Hotṛ) and coming to the place of sacrifice, need a place to sit; for this he spreads darbha grass cut level, layer upon layer, that is, one layer upon another and a third upon that, in three layers. It is the custom to lay three layers in this way so that the seat is soft for those who sit. The idea that the sacrificer has prepared such a seat for the deities is expressed by the word स्तीर्णबर्हिः (*stīrṇabarhiḥ*). After this the priests, the adhvaryu and others, take stones in their hands, crush the Soma creepers and press out the juice. That the stones are made ready for this pressing of Soma, and that Soma is pressed out with them, is understood from the words यक्तग्रावा (*yaktagrāvā*) and सुतसोमः (*sutasomaḥ*). All these, that is, the kindling of the fire, the invocation of the deities, the spreading of the seat and the pressing of Soma, are preparations to be made at the start of the sacrifice as auxiliary rites. The matter that the sacrificer has made them and is ready to perform the sacrifice is indicated in the first half of this Ṛk.
+
+In the second half the beginning of the sacrifice is described in detail: the word जराते (*jarāte*) shows that the sacrificer or the Hotṛ has begun to praise the deities; ग्रावाणः यस्य इषिरं नदंति (*grāvāṇaḥ yasya iṣiraṃ nadaṃti*) shows that the stones that crush the Soma, busy in the work of pressing, are pressing out the Soma juice with an audible sound; and the sentence अध्वर्युः हविषा सिंधुं अव आयत् (*adhvaryuḥ haviṣā siṃdhuṃ ava āyat*) describes that the adhvaryu and others are engaged in their respective duties.
+
+### Printed p. 296
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒धूरि॒यं पति॑मि॒च्छंत्ये॑ति॒ य ईं॒ वहा॑ते॒ महि॑षीमिषि॒रां ।  
+> आस्य॑ श्रवस्या॒द्रथ॒ आ च॑ घोषात्पु॒रू स॒हस्रा॒ परि॑ वर्तयाते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वधूः । इयं । पतिं । इच्छंती । एति । यः । ईं । वहाते । महिषीं । इषिरां ।  
+> आ । अस्य । श्रवस्यात् । रथः । आ । च । घोषात् । पुरु । सहस्रा । परि । वर्तयाते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं वधूरिंद्रस्य पत्नि पतिमिच्छंती स्वप्रियं यज्ञगमनाय प्रवृत्तमिच्छंत्येति । अनुगच्छति । य इंद्र ईमेनां महिषीं वहाते वहतीषिरां गमनवतीं अस्येंद्रस्य रथ आ आर्वागस्मदभिमुखं श्रवस्यात् । अन्नमिच्छति । आ च
+> घोषात् । आघुष्यति । शब्दयति । पूर्वत्यधिकं सहस्रा सहस्राणि धनानि परि परितो
+> वर्तयाते । वर्तयति । प्रापयति । श्रवस्यादा च घुष्यादिति वा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This bride, the wife of Indra, desiring her husband, that is, wishing for her beloved who has set out for the sacrifice, follows him. The Indra who brings this chief queen (*mahiṣī*), who is *iṣirā*, that is, endowed with motion: of this Indra the chariot comes hither, facing us. It desires food (*śravasyāt*), it sounds loudly (*ghoṣāt*, it cries out, makes a noise), and it rolls around, that is, brings all around, more than before, thousands of riches. Or else the two verbs are to be taken as meaning "it desires food and it would sound."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- इषिरां (*iṣirāṃ*)—his companion
+- ईं महिषीं (*īṃ mahiṣīṃ*)—his chief queen
+- वहते (*vahate*)—brings along (his wife)
+- इयं वधूः (*iyaṃ vadhūḥ*)—this wife
+- पतिं (*patiṃ*)—her husband Indra
+- इच्छंती (*icchaṃtī*)—wishing that he should go toward the sacrifice
+- एति (*eti*)—follows him and goes
+- अस्य (*asya*)—of this same Indra
+- रथः (*rathaḥ*)—the chariot
+- आ (*ā*)—all around
+- श्रवस्यात् (*śravasyāt*)—wishes food (for the sacrificer)
+- आ च घोषात् (*ā ca ghoṣāt*)—makes sound all around
+- पुरु (*puru*)—exceedingly
+- सहस्रा (*sahasrā*)—immeasurably
+- परि (*pari*)—all around
+- वर्तयते (*vartayate*)—provides (the wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+The wife of the Indra who brings his companion, his chief queen, wishing that her husband Indra should go toward the sacrifice, follows him. The chariot of that same Indra wishes food for the sacrificer all around and makes sound all around. It provides all around wealth that is exceedingly abundant and immeasurable.
+
+### Printed p. 297
+
+##### English translation
+The bride (of Indra), devoted to her lord, attends, him (to the rite), who thus brings (with him) his accompanying queen : may his car convey to us ample food; may it sound loudly ; may it scatter around many thousands (of riches).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is a description of Indra's wife following Indra, sitting with Indra in the chariot, and coming to the place of sacrifice. Ordinarily, in sacrifices and the like, it is the custom to invite Indra alone for the drinking of Soma. But in this Ṛk the meaning is implied that Indra and his wife Indrāṇī come in a chariot that is able to give food and the like, that makes a sound by the turning of its wheels as it moves, and that gives wealth and the like without number to those who worship Indra.
+
+महिषी (*mahiṣī*)—The word mahiṣa is read among the names for "great" (Ni. 2-13) and indicates the sense "large, of great form". Therefore the word mahiṣī can be given the senses "worshipful, excellent".
+
+वधूः (*vadhūḥ*)—The word vadhū is read among the names of rivers (Ni. 2-24). Ordinarily the word vadhū is customarily used in the sense of a woman who has a young husband and is married. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न स राजा॑ व्यथते॒ यस्मि॒न्निंद्र॑स्ती॒व्रं सोमं॒ पिब॑ति॒ गोस॑खायं ।  
+> आ स॑त्त्व॒नैरज॑ति॒ हंति॑ वृ॒त्रं क्षेति॑ क्षि॒तीः सु॒भगो॒ नाम॒ पुष्य॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सः । राजा । व्यथते । यस्मिन् । इंद्रः । तीव्रं । सोमं । पिबति । गोऽसखायं ।  
+> आ । सत्त्वनैः । अजति । हंति । न तं । क्षेति । क्षितीः । सुभगो । नाम । पुष्यन् ॥ ८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ । सत्वनैः । अजति । हंति । वृत्रं । क्षेति । क्षितीः । सुभगः । नाम । पुष्यन् ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+The block gives only a word-by-word line of the second half of the Ṛk, with the number 4, and no explanation by Sāyaṇa. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 291. Sukta 36 Rk 3-6, sukta 37 introduction (pp. 286-291)
+**Progress note:** Done through printed p. 297. Sūkta 37 Ṛks 1-4 (start), pp. 292-297
