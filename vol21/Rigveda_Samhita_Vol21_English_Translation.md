@@ -2150,6 +2150,280 @@ Grant Indra, to your adorer (abundant) food, productive of cattle, pleasant with
 
 O Indra, you now (नूनं (*nūnaṃ*)) bring our present obstructing enemy (वृजनं (*vṛjanaṃ*)) to a different (अन्यथा (*anyathā*)) manner: that is, to a manner unlike that in which all live, the one called death. The syllable आ (*ā*) is a filler. O Śakra, Indra, capable in all works, brave and endowed with heroism, tearing the enemies apart in an especial manner (वि दुरः (*vi duraḥ*)). Or else: breaking open the doors belonging to the enemy. Since you are praised (गृणीषे (*gṛṇīṣe*)) by us, for that reason may I not go away (मा निररं (*mā niraraṃ*)) from the hymn, the speech, the cow of Indra, the milker of the pure and spotless (शुक्रदुघस्य (*śukradughasya*)). Or else: the milker of the pure milk, of the cow given by you.
 
+### Printed p. 51
+
+> गोः सकाशान्मा निर्गच्छेयं ॥ अरमित्याख्यातमृ गतावित्यस्य रूपं ॥ सा सर्वदास्मासु निवसत्त्व्यर्थः । हे विप्र प्राज्ञेंद्र आंगिरसानंगिरोगोत्रजानस्मान् ब्रह्मणान्नेन जिन्व । प्रीणय ॥
+
+##### Gist of the bhāṣya
+
+(So that) I may not depart from the vicinity of the cow. The word "aram" is a verb, a form of the root meaning "to go". The meaning is: may she always dwell among us. O Vipra, wise Indra, gratify (जिन्व (*jinva*), that is, please) with food (ब्रह्मणा (*brahmaṇā*)) us, the Āṅgirasas, those born in the lineage of Aṅgiras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूनं (*sūnaṃ*)—that which is of this time
+- तं वृजनं (*taṃ vṛjanaṃ*)—that enemy
+- अन्यथा चित् आ (*anyathā cit ā*)—make him one whose attention is elsewhere, or make him dead
+- शक्र (*śakra*)—O almighty Indra
+- यत् (*yat*)—for which reason
+- शूरः (*śūraḥ*)—mighty
+- विदुरः (*viduraḥ*)—and destroyer of enemies, you are (therefore)
+- गृणीषे (*gṛṇīṣe*)—you are praised (therefore indeed)
+- शुक्रमघस्य (*śukramaghasya*)—of Indra, whose wealth is pure
+- धेनोः (*dhenoḥ*)—by praise (I)
+- मा निररं (*mā niraraṃ*)—may I not become averse
+- विप्र (*vipra*)—O wise Indra
+- अंगिरसान् (*aṃgirasān*)—us, who are born in the lineage of Aṅgiras
+- ब्रह्मणा (*brahmaṇā*)—joining with food
+- जिन्व (*jinva*)—satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, turn the enemies who are present at this time of the sacrifice in another direction. O almighty Indra, for whatever reason you are mighty and the destroyer of enemies, for that very reason you are praised. For that reason, may I not become averse to the praise of Indra, whose wealth is pure. O wise Indra, make us, who are born in the lineage of Aṅgiras, rich in food, and satisfy us.
+
+##### English translation
+Direct him who is actually our adversary into a different (course): mighty Indra, you are a hero, the destroyer (of enemies). therefore are you glorified : never may I desist from the praise of the giver of pure (gifts): satisfy ; sage Indra, the Angirasas with food.
+
+## Sūkta 36 (Maṇḍala 6)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्रा मदास इति पंचर्चं त्रयोदशं सूक्तं नरस्त्यार्षं त्रैष्टुभमृंद्रं ।
+> सत्रेत्यनुक्रांतं ॥ पृष्टस्य पंचमेऽहनि निष्केवल्य एतत्सूक्तं शस्यं । सूत्रितं च ।
+> प्रेदं ब्रह्मेंद्रो मदाय सत्रा मदास इति निष्केवल्यं ॥ आ. ७-१२ । इति ॥ विश्वजिति
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सत्रा मदासः (*satrā madāsaḥ*) has five Ṛks and is the thirteenth sūkta. Its seer is Nara, in the Ārṣa (seer's) account; the metre is Triṣṭubh and the deity is Indra. It is listed in the Anukramaṇī as "सत्र (*satra*)". Its use: on the fifth day of the Pṛṣṭhya (rite) this sūkta is to be recited in the Niṣkevalya. It is also taught in the sūtra: "प्रेदं (*predaṃ*) …", the Niṣkevalya (Ā. Sū. 7-12). In the Viśvajit (rite), (the passage continues below).
+
+### Printed p. 52
+
+> माध्यंदिनसवने प्रशास्तुः शस्त्र इदं सामसूक्ताख्यं शंसनीयं । सूत्रितं च । सत्रा
+> मदासो यो जात एवाभूरेक इति सामसूक्तानि । आ. ८-७ । इति । महाव्रतेऽपि
+> निष्केवल्य उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+At the midday pressing, in the śastra of the Praśāstṛ priest, this sūkta, which is called a Sāma-sūkta, is to be recited. It is also taught in the sūtra: "सत्रा मदासो यो जात एवाभूरेक इति सामसूक्तानि (*satrā madāso yo jāta evābhūreka iti sāmasūktāni*)" (Ā. Sū. 8-7). In the Mahāvrata also its use in the Niṣkevalya is stated.
+
+##### Anuvāda
+
+This sūkta beginning "Satrā madāsaḥ" is the thirteenth sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Nara; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with "Satrā". That this sūkta is used for the Niṣkevalya śastra mantras on the fifth day of the Pṛṣṭha sacrifice is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्रेदं ब्रह्मेंद्रो मदाय सत्रा मदास इति निष्केवल्यं (*predaṃ brahmeṃdro madāya satrā madāsa iti niṣkevalyaṃ*) (Ā. Sū. 7-12). That in the śastra mantras that the priest called Praśāstṛ recites at the midday pressing of the Viśvajit iṣṭi this sūkta is to be recited as a Sāma-sūkta is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra सत्रा मदासो यो जात एवाभूरेक इति सामसूक्तानि (*satrā madāso yo jāta evābhūreka iti sāmasūktāni*) (Ā. Sū. 8-7). It was said before that this sūkta is used for the Niṣkevalya śastra mantras in the Mahāvrata also.
+
+##### Particulars
+
+- Sūkta 36
+- Maṇḍala 6; Anuvāka 3; Sūkta 36
+- Ṛṣi: Nara
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा मदा॑स॒स्तव॑ वि॒श्वज॑न्याः स॒त्रा रायोऽध॒ ये पार्थि॑वासः ।  
+> स॒त्रा वाजा॑नामभवो विभ॒क्ता यद्दे॒वेषु॑ धा॒रय॑था  ॒॑
+> असुर्यं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रा । मदासः । तव । विश्वजन्याः । सत्रा । रायः । अध । ये । पार्थिवासः ।  
+> सत्रा । वाजानां । अभवः । विभक्ता । यत् । देवेषु । धारयथाः । असुर्यं । १॥
+
+### Printed p. 53
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव त्वदीया मदासः सोमपानजनिता मदाः सत्रा । सत्यनामैतत् ।
+> सत्यं विश्वजन्याः सर्वजनहिता भवंति । यद्वा। सत्रेति महन्नाम । महांतस्तव मदा
+> इति योज्यं । अधापि च पार्थिवासः पृथिव्युपलक्षिते लोकत्रये भवास्त्वदीया
+> ये रायो धनसमूहाः संति तेऽपि सत्रा सत्यं विश्वजनहिता भवंतीत्यन्वयः । किं
+> च त्वं वाजानामन्नानां सत्रा सत्यं विभक्ता दाताभवः । भवसि । यद्वा। सत्रा महतां
+> वाजानामिति योज्यं । यद्यस्मात्त्वं देवेषु मध्येऽसुर्यं बलं धारयथा
+> अतः कारणात्त्वमेवं करोषीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your intoxications (मदासः (*madāsaḥ*)) produced by the drinking of Soma are सत्रा (*satrā*), which is a name for "truth": truly they are beneficial to all people (विश्वजन्याः (*viśvajanyāḥ*)). Or else: सत्रा (*satrā*) is a name for "great", and the construction is "your intoxications are great". Moreover, the riches (रायः (*rāyaḥ*)), the masses of wealth that are yours and are पार्थिवासः (*pārthivāsaḥ*), that is, found in the three worlds designated by the earth, they too truly are beneficial to all people: this is the construction. Further, you truly are (अभवः (*abhavaḥ*), you become) the distributor (विभक्ता (*vibhaktā*)), the giver, of foods (वाजानां (*vājānāṃ*)). Or else the construction is "of great foods". Since you hold strength (असुर्यं (*asuryaṃ*)) among the gods, for that reason you act so: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तव (*tava*)—your
+- मदासः (*madāsaḥ*)—the satisfactions born of drinking Soma
+- सत्रा (*satrā*)—truly
+- विश्वजन्याः (*viśvajanyāḥ*)—are beneficial to all people
+- अध (*adha*)—and
+- पार्थिवासः (*pārthivāsaḥ*)—those that are in the three worlds
+- ये रायः (*ye rāyaḥ*)—whatever riches of yours there are (those also)
+- सत्रा (*satrā*)—truly beneficial to the world
+- यत् (*yat*)—by which greatness of yours
+- देवेषु (*deveṣu*)—among the gods
+- असुरं (*asuraṃ*)—strength
+- धारयथाः (*dhārayathāḥ*)—you hold (for that very reason)
+- सत्रा (*satrā*)—truly
+- वाजानां (*vājānāṃ*)—of foods
+- विभक्ता अभवः (*vibhaktā abhavaḥ*)—you become the distributor
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the satisfaction born of your drinking of Soma brings benefit to the whole world. Your riches, spread through the three worlds, are truly beneficial to the world. By that greatness of yours by which you hold strength among the gods, for that very reason you are truly the distributor of foods.
+
+##### English translation
+Truly are your exhilarations beneficial to all men: truly are the riches which exist on earth (beneficial to all men): truly are you the distributor of food ; therefore you maintain vigour amongst the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ प्र ये॑जे॒ जन॒ ओजो॑ अस्य स॒त्रा द॑धिरे॒ अनु॑ वी॒र्या॑य।  
+> स्यू॒म॒गृभे॒ दुध॒येऽर्व॑ते च॒ क्रतुं॑ वृंजं॒त्यपि॑ वृत्र॒हत्ये॑ ॥ २ ॥
+
+### Printed p. 54
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । प्र । येजे । जनः । ओजः । अस्य । सत्रा । दधिरे । अनु । वीर्याय ।  
+> सूम्यगृभे । दुधये। अर्वते । च । क्रतुं । वृंजंति । अपि । वृत्रहत्ये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रसौजो बलं जनो यजमानोऽनु प्र येजे । संततं प्रकर्षण
+> यजते । पूजयति । अपि च तमिंद्रं वीर्याय वीरकर्म कर्तुं सत्रा सत्यमनु
+> दधिरे । पुरोदधिरे यजमानाः । यद्वा । सत्रा महांतमिंद्रमिति योज्यं । अपि
+> च सूमगृभे सूम्नः सूतानविच्छेदेन वर्तमानान् शत्रून् गृह्णते दुधये ।
+> दुधिर्हिंसाकर्मा । तेषां हिंसकायार्वते शत्रूणामभिगंत्रे च तस्मा इंद्राय
+> क्रतुं कर्म परिचरणात्मकं वृंजंति । निष्पादयंति । किमर्थं । वृत्रहत्ये वृत्रस्य
+> वारकस्य शत्रोर्हनननिमित्तं ॥
+
+##### Gist of the bhāṣya
+
+The worshipper (जनः (*janaḥ*)), the sacrificer, continually and eminently worships (अनु प्र येजे (*anu pra yeje*)) the strength (ओजः (*ojaḥ*)) of this Indra. Moreover, the sacrificers truly place him before them (अनु दधिरे (*anu dadhire*)) in order to perform a heroic deed. Or else the construction is "the great Indra". And further, to him who seizes (सूमगृभे (*sūmagṛbhe*)) the enemies that go on without interruption, to the destroyer (दुधये (*dudhaye*); the root has the sense of harming: दुधिर्हिंसाकर्मा (*dudhirhiṃsākarmā*)) of them, and to the one who goes against the enemies (अर्वते (*arvate*)), to that Indra they perform (वृंजंति (*vṛṃjaṃti*), accomplish) the rite (क्रतुं (*kratuṃ*)) consisting of service. For what purpose? For the slaying (वृत्रहत्ये (*vṛtrahatye*)) of Vṛtra, the obstructing enemy. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- ओजः (*ojaḥ*)—the strength
+- जनः (*janaḥ*)—the sacrificer
+- अनु प्र येजे (*anu pra yeje*)—worships always
+- वीराय (*vīrāya*)—for the performance of heroic deeds
+- सत्रा (*satrā*)—truly
+- अनु दधिरे (*anu dadhire*)—they worship, setting him as the model
+- सूमगृभे (*sūmagṛbhe*)—who seizes the enemies that come in succession
+- दुधये (*dudhaye*)—the harmer of enemies
+- अर्वते (*arvate*)—the one who defeats the enemies; (addressing) that Indra
+- क्रतुं (*kratuṃ*)—the rite of worship
+- वृत्रहत्ये (*vṛtrahatye*)—for the destruction of enemies
+- वृंजंति (*vṛṃjaṃti*)—they accomplish (perform)
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer always worships the strength of Indra. The sacrificers, in order to perform heroic deeds, worship Indra truly, setting him as the model. They offer worship to that Indra, who takes captive the enemies that press on without a break, who harms the enemies and defeats the enemies, for the destruction of the enemies.
+
+##### English translation
+The worshipper praises especially the strength of that Indra, verily they rely upon him for heroic deeds: they offer sacrifices to him as the seizer of an uninterrupted series of foes their assailant, their subduer, and also for their destruction.
+
+### Printed p. 55
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं स॒ध्रि ची॑रू॒तयो॒ वृष्ण्या॑नि॒ पौंस्या॑नि नि॒युतः॑ सश्चु॒रिंद्रं॑।  
+> स॒मु॒द्रं न सिंध॑व उ॒क्षशु॑ष्मा उरु॒व्यच॑सं॒ गिर॒ आ वि॑शंति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । सध्रीचीः । ऊतयः । वृष्ण्यानि । पौंस्यानि । नियुतः । सश्चुः । इंद्रं ।  
+> समुद्रं । न । सिंधवः । उक्तशुष्माः । उरुव्यचसं । गिरः । आ । विशंति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमिंद्रमूतये मरुतः सध्रीचीः सहांचंत्यः संगता भूत्वा सश्चुः ।
+> सचंते । सेवंते । यद्वा । ऊतयस्तर्पकाण्यन्नानि सह वर्तमानानि भूत्वा सेवंते ।
+> तथा वृष्ण्यानि वीर्याणि पौंस्यानि बलानि च नियुतो रथे युज्यमाना वडवाश्च
+> तमिंद्रं सेवंते । अपि चोक्षशुष्माः । उक्तं शस्त्रं । तदेव बलं यासां तादृशा
+> गिरः स्तुतयश्चोरुव्यचसं विस्तीर्णव्याप्तिकं तमिंद्रमा विशंति । प्रविशंति । तत्र
+> दृष्टांतः । समुद्रं न सिंधवः । यथा स्यंदनशीला नद्यः समुद्रमाविशंत्याविश्य च
+> विभक्ततया न दृश्यंते एवं सर्वा आपि स्तुतय इंद्रेणैकीभवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Indra the Maruts, moving together (सध्रीचीः (*sadhrīcīḥ*)), that is, assembled, attend (सश्चुः (*saścuḥ*), serve) for his protection. Or else: the ऊतयः (*ūtayaḥ*), the satisfying foods, being together, serve him. Likewise the virile powers (वृष्ण्यानि (*vṛṣṇyāni*)) and strengths (पौंस्यानि (*pauṃsyāni*)), and the mares (नियुतः (*niyutaḥ*)) yoked to the chariot, serve that Indra. Moreover the praises (गिरः (*giraḥ*)) whose strength is the recitation (उक्षशुष्मा (*ukṣaśuṣmā*): उक्तं (*uktaṃ*) is the śastra, and that itself is their strength) enter (आ विशंति (*ā viśaṃti*)) that Indra, who is of wide extent (उरुव्यचसं (*uruvyacasaṃ*)). Here is an illustration: as rivers (सिंधवः (*siṃdhavaḥ*)), which are flowing by nature, enter the ocean (समुद्रं न (*samudraṃ na*)) and, having entered, are no longer seen as distinct, so all the praises become one with Indra: this is the meaning.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सध्रीचीः (*sadhrīcīḥ*)—the companions of Indra
+- ऊतयः (*ūtayaḥ*)—the Maruts
+- वृष्ट्यानि (*vṛṣṭyāni*)—the virile powers
+- पौंस्यानि (*pauṃsyāni*)—the strengths
+- नियुतः (*niyutaḥ*)—the horses of Indra
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- सच्चुः (*saccuḥ*)—serve together
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- समुद्रं न (*samudraṃ na*)—as they go and join the ocean
+- उक्तशुष्माः (*uktaśuṣmāḥ*)—the recited mantras full of strength
+- गिरः (*giraḥ*)—the praises
+- उरुव्यचसं (*uruvyacasaṃ*)—Indra, who pervades widely
+- आ विशंति (*ā viśaṃti*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, the companions of Indra, the virile powers, the strengths and the horses of Indra serve Indra together. As rivers enter the ocean, the recited mantras full of strength and the praises go and join the widely pervading Indra.
+
+### Printed p. 56
+
+##### English translation
+The associated Maruts, heroic energies, virile strength, and the Niyut steeds, attend upon Indra, and praises powerful in sacred song centre in him as rivers flow into the ocean.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रा॒यस्सामुप॑ सृजा गृणा॒नः पु॑रुश्चं॒द्रस्य॒ त्वमिं॑द्र॒ वस्वः॑ ।  
+> पति॑र्बभू॒थास॑मो॒ जना॑ना॒मेको॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रायः । खां । उप । सृज । गृणानः । पुरुचंद्रस्य । त्वं । इंद्र । वस्वः ।  
+> पतिः । बभूथ । असमः । जनानां । एकः । विश्वस्य । भुवनस्य । राजा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गृणानः स्तूयमानः स त्वं रायो धनस्य खां । नदीनामैतत् ।
+> अत्र तत्संबद्धा धारा लक्ष्यते । धारामुप सृज । विमुंच । अस्माभिः संयोजयेत्यर्थः । कीदृशस्य धनस्य । पुरुश्चंद्रस्य बहूनामाह्लादकस्य वस्वो निवासकस्य ।
+> आपि चासमोऽनुपमः सर्वोतृष्टस्त्वं जनानां सर्वेषां प्राणिनां पतिरधिपतिर्बभूथ । तथा विश्वस्य सर्वस्य भुवनस्य भूतजातस्यैकोऽसाधारणो राजेश्वरश्च
+> बभूविथ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are praised (गृणानः (*gṛṇānaḥ*)), of wealth (रायः (*rāyaḥ*)) the खां (*khāṃ*): खा (*khā*) is a name for rivers, and here the stream connected with it is meant. उप सृज (*upa sṛja*): release the stream, join it with us. Of what kind of wealth? पुरुश्चंद्रस्य (*puruścaṃdrasya*), which gladdens many, and वस्वः (*vasvaḥ*), which gives dwelling. Moreover you, incomparable (असमः (*asamaḥ*)) and supreme, have become the lord, the overlord (पतिः (*patiḥ*)), of all people, all beings (जनानां (*janānāṃ*)); and likewise of the whole world (विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)), of all that is born, you have become the one, the unique, king and ruler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गृणानः (*gṛṇānaḥ*)—who are praised
+- सः त्वं (*saḥ tvaṃ*)—that same you
+- पुरुश्चंद्रस्य (*puruścaṃdrasya*)—which gives joy to many
+- वस्वः (*vasvaḥ*)—and is the cause of dwelling
+- रायः (*rāyaḥ*)—of wealth
+- खां (*khāṃ*)—the stream in the form of a flood
+- उप सृज (*upa sṛja*)—cause to flow
+- त्वं (*tvaṃ*)—you
+- असमः (*asamaḥ*)—as the one without a second
+- जनानां (*janānāṃ*)—of beings
+- पतिः (*patiḥ*)—as lord
+- बभूथ (*babhūtha*)—you have become
+- विश्वस्य (*viśvasya*)—of all
+- भुवनस्य (*bhuvanasya*)—of the whole creation
+- एकः (*ekaḥ*)—the unique
+- राजा (*rājā*)—you have become the ruler
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are praised by all, cause to flow the stream, in the form of a flood, of wealth that gives joy to many and is the cause of dwelling. You, the one without a second
+
 ---
 
-**Progress note:** Done through printed p. 50. Sukta 35 Rk 1-5 (start), pp. 45-50
+**Progress note:** Done through printed p. 56. Sukta 35 Rk 5 end; Sukta 36 Rk 1-4 start, pp. 51-56
