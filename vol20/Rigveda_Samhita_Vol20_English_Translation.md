@@ -8132,6 +8132,216 @@ This Ṛk is for the release from excessive rain. O Parjanya, you have rained; y
 - मनीषां (*manīṣāṃ*)—praise
 - अविदः (*avidaḥ*)—you have obtained
 
+### Printed p. 217
+
+##### भावार्थ (Bhāvārtha)
+
+O Parjanya, you have poured down rain. Hold back that same rain, which falls on without end, so that it does not fall in a way that troubles us. You have made the waterless deserts full of water so that they may be easy to cross. You have produced the plants so that they may be fit for the enjoyment of men. You have also obtained praise from men such as the priests.
+
+##### English translation
+You have rained : now check well the rain : you have made the deserts capable of being crossed : you have given birth to plans for (man's) enjoyment : verily you have obtained laudation from the people.
+
+## Sūkta 84 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बळित्थेति तृचात्मकं द्वादशं सूक्तं भौमस्यात्रेरार्षं पृथिवीदेवताकमानुष्टुभं । अनुक्रातं च i बळित्था तृचं पार्थिवमानुष्टुभमिति ॥ सूक्तविनियोगो
+> लैंगिकः । आद्या देवानां हविषु पृथिव्या अनुवाक्या । बळित्था पर्वतानां दृळ्हा
+> चित्या वनस्पतीन् । आ. ६-१४ । इति हि सूत्रितं ॥ भूमिस्तोमे चैषा मरुत्वतीयशस्त्रे
+> सूक्तमुखीया । आ. ९-५ ॥
+
+##### Gist of the bhāṣya
+
+The sūkta बळित्था (*baḷitthā*) (बळित्थेति (*baḷittheti*)) is the twelfth sūkta, consisting of three Ṛks. Its seer is Atri, the son of Bhūmi; its deity is Pṛthivī; its metre is Anuṣṭubh. It is stated in the Anukramaṇī: बळित्था तृचं पार्थिवमानुष्टुभमिति (*baḷitthā tṛcaṃ pārthivamānuṣṭubhamiti*). The use of the sūkta is indicated by its characteristic mark (liṅga). The first Ṛk is the anuvākyā for the Pṛthivī in the offerings to the gods; for it is laid down in the sūtra बळित्था पर्वतानां दृळ्हा चित्या वनस्पतीन् (*baḷitthā parvatānāṃ dṛḷhā cityā vanaspatīn*) (Ā. 6-14). And in the Bhūmi-stoma, in the Marutvatīya śastra, this Ṛk is the opening Ṛk of the sūkta (Ā. 9-5).
+
+##### Anuvāda
+
+This sūkta, beginning बळित्था (*baḷitthā*), is the twelfth sūkta in the sixth anuvāka. It contains three Ṛks. Atri is the seer of this sūkta. The deity is Pṛthivī, that is, the deity of the middle region (the atmosphere). The metre is Anuṣṭup. In the Anukramaṇī it is said: Baḷitthā, a triad, belonging to Pṛthivī, in Anuṣṭubh. The use of the sūkta is according to its mark. It is made clear by the Āśvalāyana Śrauta-sūtra, in the sūtra बळित्था पर्वतानां दृळ्हा चिद्या वनस्पतीन् (*baḷitthā parvatānāṃ dṛḷhā cidyā vanaspatīn*) (Ā. 6-14), that when an oblation is offered to the gods, the first Ṛk of this sūkta is to be recited as the anuvākyā mantra in the offering to the deity Pṛthivī. It is also specified (Ā. 9-5) that among the stoma mantras recited in honour of the earth, this first Ṛk is to be recited as the first Ṛk of the mantras of the Marutvatīya śastra.
+
+### Printed p. 218
+
+##### Particulars
+
+- Sūkta 84
+- Maṇḍala 5; Anuvāka 6
+- Aṣṭaka 4; Adhyāya 4; Varga 29
+- Number of Ṛks in the sūkta: 3
+- Seer: Atri
+- Deity: Pṛthivī
+- Metre: Anuṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळि॒त्था पर्व॑तानां खि॒द्रं बि॑भर्षि पृथिवि ।  
+> प्र या भूमिं॑ प्रवत्वति म॒ह्ना जि॒नोषि॑ महिनि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । इत्था । पर्वतानां । खिद्रं । बिभर्षि । पृथिवि ।  
+> प्र । या । भूमिं । प्रवत्वति । मह्ना । जिनोषि । महिनि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विरूपा पृथिवी चैषा प्रत्यक्षदेवतापि च । मध्यस्थाना देवतोक्ता सात्र
+> संबोध्य वर्ण्यते ॥ हे पृथिवि प्रथनवति मध्यस्थानदेवते । त्वमित्थेत्मममुश्रांतरिक्षे
+> वा बट् सत्यं पर्वशानां मेघानां वा खिद्रं खेदनं भेदनं बिभर्षि । धारयसि ।
+> हे महनि महति हे प्रवत्तति प्रकर्षवति प्रवणोदकवति वा या त्वं भूमिं प्रत्यक्षां
+> पृथिवीं मह्ना महत्वेन महतोदकेन वा जिनोषि प्रकर्षणेण प्रीणयसि ॥
+
+##### Gist of the bhāṣya
+
+Pṛthivī is of two forms: this one, which is visible, and also a deity; the one declared to be a deity of the middle region is the one addressed and described here. O Pṛthivī, extensive deity of the middle region, you truly bear the shattering, the splitting, of the mountains, or of the clouds. **NOTE**. O great one, O one of exceeding eminence, or one with abundant flowing water, you who by your greatness, or by great water, delight the visible earth exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथिवि (*pṛthivi*)—O deity of the middle region
+- त्वं (*tvaṃ*)—you
+- बट् (*baṭ*)—truly
+- इत्था (*itthā*)—in this manner
+- पर्वतानां (*parvatānāṃ*)—of the clouds
+- खिद्रं (*khidraṃ*)—the openings
+- बिभर्षि (*bibharṣi*)—you bear
+- प्रवश्वति (*pravaśvati*)—O you of exceeding qualities
+- महिनि (*mahini*)—O goddess of greatness
+- या (*yā*)—you, the very one who
+- मह्ना (*mahnā*)—by your greatness
+- भूमिं (*bhūmiṃ*)—the earth
+- प्र जिनोषि (*pra jinoṣi*)—you delight exceedingly
+
+### Printed p. 219
+
+##### भावार्थ (Bhāvārtha)
+
+O deity of the middle region, you bear the pieces of the clouds exceedingly. O goddess of excellent qualities and of greatness, by the same qualities you delight the earth exceedingly.
+
+##### English translation
+Verily you sustain here, Prithivi, the fracture of the mountains : mighty and most excellent. you are she who delights the earth by your greatness.
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning this sūkta the Bhāṣyakāra has said: द्विरूपा पृथिवी चैषा प्रत्यक्षा देवतापि च । मध्यस्थाना देवतोक्ता सात्र संबोध्य वक्ष्यते ॥ (*dvirūpā pṛthivī caiṣā pratyakṣā devatāpi ca | madhyasthānā devatoktā sātra saṃbodhya vakṣyate ‖*) **NOTE**. That is to say, Pṛthivī is the deity of this sūkta. This Pṛthivī is of two kinds. One kind is the Pṛthivī or Bhūmi that is visible to our eyes. The deity who presides over this earth is well known as a deity of the middle region; this is the second kind. The intention is that it is this second kind, the deity of the middle region, that is addressed and praised in this sūkta.
+
+Pṛthivī: the word पृथिवी (*pṛthivī*) or पृथ्वि (*pṛthvi*) is read among the twenty-one names of Pṛthivī (the earth) (Ni. 2-5) and among the sixteen names of the atmosphere (Ni. 2-10). And the word पृथ्वी (*pṛthvī*) (a word in the dual) is read among the names of heaven and earth (Ni. 3-22).
+
+The form of the word Pṛthivī is derived from the root पृथु विस्तीर्णे (*pṛthu vistīrṇe*). Pṛthivī means a very wide region. This meaning applies to the earth, or Bhūmi, and also to the atmosphere (the sky). Since the atmosphere is wider than the earth, the word Pṛthivī is used in many places in the Ṛgveda to indicate the atmosphere. In the present sūkta it is the middle deity, who dwells in the atmosphere, who is praised. Yāska has given an explanation of this Ṛk: सत्यं त्वं पर्वतातां मेघानां खेदनं भेदनं बलममुत्र धारयसि पृथिवि प्रजिन्वसि या भूमिं प्रणवति महत्त्वेन महतीत्युदकवतीति वा ॥ (*satyaṃ tvaṃ parvatātāṃ meghānāṃ khedanaṃ bhedanaṃ balamamutra dhārayasi pṛthivi prajinvasi yā bhūmiṃ praṇavati mahattvena mahatītyudakavatīti vā ‖*) (Ni. 11-37).
+
+### Printed p. 220
+
+O deity of the middle region, you in truth, staying in the atmosphere, strike or pierce the clouds and display your strength in the atmosphere. O goddess of great form (of vast shape), being of the form of water or bearing water, you make the earth moist by your extraordinary greatness and delight it. This is the main intention.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमा॑सस्त्वा विचारिणि॒ प्रति॑ ष्टोभंत्य॒क्तुभिः॑ ।  
+> प्र या वाजं॒ न हेषं॑तं पे॒रुमस्य॑स्यर्जुनि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोमासः । त्वा । विचारिणि । प्रति । स्तोभंति । अक्तुभिः ।  
+> प्र । या । वाजं । न । हेषंतं । पेरुं । आस्यसि । अर्जुनि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचारिणि विविधंचरणशीले पृथि वि देवि त्वा त्वां स्तोमासः स्तोतारोऽकुभिर्गमनशीलैः स्तोत्रैः प्रति प्वोभंति । अभिष्टुवंति । किंच या त्वं
+> हेषंतं शब्दयंतं वाजं न अश्वमिवोद्वृत्तं पेरुं पूरकं मेघां प्रास्यसि प्रक्षिपसि हे अर्जुनि शुभ्रवर्णे गमनशीले वा ॥
+
+##### Gist of the bhāṣya
+
+O Pṛthivī, goddess who move in various ways, the worshippers praise you with their moving hymns. Further, you who cast the filling cloud, which is neighing, that is, roaring, like a horse excited, O bright-coloured one, or O one who goes about, hurl it down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्जुनि (*arjuni*)—O you of bright colour
+- विचारिणि (*vicāriṇi*)—O goddess who move in many ways
+- या (*yā*)—you, the very one who
+- हेषंतं (*heṣaṃtaṃ*)—roaring
+- वाजं न (*vājaṃ na*)—as one makes a horse fall downward
+- पेरुं (*peruṃ*)—the cloud full of water
+- प्रास्यसि (*prāsyasi*)—you make fall downward
+- त्वा (*tvā*)—you, the same
+- स्तोमासः (*stomāsaḥ*)—the praisers
+- अक्तुभिः (*aktubhiḥ*)—by their own hymns
+- प्रति ष्टोभंति (*prati ṣṭobhaṃti*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of the middle region, of bright colour and of manifold movement, as one makes a roaring horse fall downward, you make the cloud, full of water and filled with the sound of thunder, fall downward; the praisers glorify and worship you, so, with their own hymns.
+
+### Printed p. 221
+
+##### English translation
+Wanderer in various ways your worshipers hymn you with (sacred)
+songs ; you who, bright-hued, toss the swollen (cloud) like a neighing horse.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दृ॒ळ्हा चि॒द्या वन॒स्पती॑न्क्ष्म॒या दर्ध॒र्ष्योज॑सा ।  
+> यत्ते॑ अ॒भ्रस्य॑ वि॒द्युतो॑ दि॒वो वर्षं॑ति वृ॒ष्टयः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दृळ्हा । चित् । या । वनस्पतीन् । क्ष्मया । दर्धर्षि । ओजसा ।  
+> यत् । ते । अभ्रस्य । विद्युतः । दिवः । वर्षंति । वृष्टयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां हविषु दृळ्ता चिदति पृथिव्या याज्या । एषैव भूमिस्तोमे निष्केवल्ये सूक्तमुखीया । सूत्रं तु पूर्वमेवोदाहृतं ॥
+> हे पृथिवि या त्वं दृळ्हा चित् ॥ सुपां सुलुगिति तृतीयाया आकारः ॥ दृढया
+> क्ष्मया भूम्या सह वनस्पतीन् वृक्षानोजसा बलेन दर्धर्षि धारयसि । अथवा
+> दृढेति विधेयविशेषणं । वनस्पतीन् दृढान् कृत्वा धारयसीत्यर्थः । यद्यस्यास्ते
+> तव संबंधिनो वृष्टयो वर्षका मेघा विद्युतो विद्योतमानादभ्रस्य॥ पंचम्यर्थे षष्ठी ॥ अभ्रादपां हर्तुद्दिवोऽंतरिक्षादादित्याद्वा वर्षंति । अथवा यद्यस्यास्ते तवाभ्रस्य मेघस्य वृष्टय उदकसंघाता विद्युतो विद्योतमानाया दिवः
+> सकाशाद्वर्षंति पतंति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā for Pṛthivī in the offerings to the gods. The same Ṛk is the opening Ṛk of the sūkta in the Bhūmi-stoma, in the Niṣkevalya śastra; the sūtra was quoted earlier. O Pṛthivī, you who hold the trees by strength together with the firm earth; or, taking दृढ (*dṛḍha*) as a predicative adjective, you hold the trees, making them firm. When the showers belonging to you, that is, the rain-giving clouds, rain from the shining cloud (the genitive being used in the sense of the ablative), from the one that carries off the waters, from the atmosphere or from the sun; or else, when the showers, the masses of water of your cloud, fall from the shining sky.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ते (*te*)—from your
+- अभ्रस्य (*abhrasya*)—cloud
+- वृष्टयः (*vṛṣṭayaḥ*)—streams of rain
+- विद्युतः (*vidyutaḥ*)—shining
+- दिवः (*divaḥ*)—from the atmosphere
+- वर्षंति (*varṣaṃti*)—pour down (then)
+- या (*yā*)—you, the well-known one
+- दृढा चित् (*dṛḍhā cit*)—very firm
+- क्षया (*kṣayā*)—together with the earth
+- ओजसा (*ojasā*)—by your strength
+- वनस्पतीन् (*vanaspatīn*)—the trees
+- दर्धर्षि (*dardharṣi*)—you make stand firm
+
+### Printed p. 222
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of the middle region, when from your cloud the streams of rain pour down from the shining atmosphere, then you, the well-known one, by your strength together with the firm earth make the trees stand firm.
+
+##### English translation
+You who, with solid earth, sustain by your strength the forest lords, when the showers of your cloud fall from the shining sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is said in the Āśvalāyana Śrauta-sūtra that when an oblation is offered to the gods, this Ṛk दृळ्हा चित् (*dṛḷhā cit*) is to be used as the yājyā mantra in the offering to the deity Pṛthivī, and that at the time of reciting the stoma in praise of the earth it is to be recited at the beginning of the sūkta among the mantras of the Niṣkevalya śastra. That detail has been given earlier.
+
+At the end of this sūkta there is a supplementary mantra to be recited: वर्षंतु ते विभावरि दिवो अभ्रस्य विद्युतः । रोहंतु सर्वबीजान्यव ब्रह्मद्विषो जहि ॥ (*varṣaṃtu te vibhāvari divo abhrasya vidyutaḥ | rohaṃtu sarvabījānyava brahmadviṣo jahi ‖*). O shining deity of the middle region, by your favour may the clouds in the atmosphere, together with thunder and lightning, pour down rain. May all the seeds on the earth, refreshed by that rain, sprout and grow as seedlings. O goddess, destroy the haters of the brahman: this is the prayer stated here.
+
+## Sūkta 85 (Maṇḍala 5)
+
+**Brief introduction to the god Varuṇa**
+
+Varuṇa is a most eminent deity, equal to Indra. The number of mantras addressed to Varuṇa is very small. The sūktas that praise him alone are twelve. Judged by the number of mantras, he would be a deity of the third rank. Or, if the twenty-four sūktas are taken in which the deity Mitra, his companion, and he are praised together, he comes in the fifth place in the order of rank. His place is far below the Aśvins and equal to that of the **NOTE**. The number of mantras addressed to Varuṇa shows neither Varuṇa's true position nor his eminence.
+
+### Printed p. 223
+
+Varuṇa has a human body and human activities. But more than to his physical body and activities, attention seems to be directed to his moral activities. The description of his body and equipment is very small; the description of his deeds is much greater. He has a face, eyes, arms, hands and feet. He moves his hands; he drives a chariot; he sits; he eats and drinks. The face (अनीकं (*anīkaṃ*)) of Varuṇa is taken to be the face of Agni (7-88-2; compare 7-87-6). The sun is the eye of Mitra and Varuṇa (1-115-1; 6-51-1; 7-61-1; 7-63-1; 10-37-1). Since the fact that the sun is like an eye to them occurs in the very first mantra of the sūktas addressed to Mitra and Varuṇa, it seems that this is the point that comes to mind first whenever Mitra and Varuṇa are mentioned. When it is said, in a sūkta addressed to the sun (1-50-6), that Varuṇa watches men with his eye, that eye must be the sun itself. **NOTE** Mitra and Varuṇa have the sun as their eye (7-66-10). The epithet is applied to all the gods. Varuṇa is far-sighted (1-25-5 to 16; 8-90-2) and thousand-eyed (7-34-10). Mitra and Varuṇa stretch out their arms (5-64-2; 7-62-5) and drive their chariot, making the rays of the sun their arms. Like Savitṛ and Tvaṣṭṛ, they have beautiful hands (सुपाणी (*supāṇī*)). Mitra and Varuṇa go swiftly on their feet (5-64-7), and Varuṇa tramples evil deeds with shining feet (8-41-8). He sits on the darbha grass spread in the sacrificial hall (1-26-4; 5-72-2) and, with Mitra, drinks soma like the other gods (4-4-3 and others). Varuṇa wears a golden mantle or robe (द्रापि (*drāpi*)) and shining raiment (1-25-13). Where he is said in some places to have shining raiment made of ghee (5-62-4; 7-64-1), this must refer to the offering of ājya made in the sacrifice. The "glittering garments" worn by both of them must be in this same sense (1-15-2-1). Only in one place in the Śatapatha Brāhmaṇa (13-3-6-5) is Varuṇa depicted as a handsome old man with a bald head and yellow eyes. The most important of his equipment is his chariot. It is radiant like the sun (1-112-15). It has a seat and whips (5-62-7), and firmly yoked horses draw it (5-62-4). Mitra and Varuṇa mount their chariot in a very high region of the sky (5-63-1). The poet has a longing to see that chariot on the earth (5-63-2).
+
 ---
 
-**Progress note:** Done through printed p. 216. Sukta 83 Rks 5-10 (pp. 210-216)
+**Progress note:** Done through printed p. 223. Suktas 84 (3 Rks) and start of 85: Varuna introduction (pp. 217-223)
