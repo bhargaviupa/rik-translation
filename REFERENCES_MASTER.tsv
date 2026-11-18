@@ -8,8 +8,6 @@ NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	y
 NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Ma.		M.	Mahābhāṣya (user: M. / म.); 100% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)	medium		23			4		8	9			1					1			
-NOT IN LIST	ma.		M.	Mahābhāṣya (user: M. / म.); 100% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)	medium		21		7	4	1	4	3		2									
 NOT IN LIST	Sū.			no list form close to it	none		15					1							7	3		4		
 NOT IN LIST	Pā. Ma.			no list form close to it	none		14		3	4	1	3	2									1		
 NOT IN LIST	Vāl.			no list form close to it	none		12					12												
@@ -374,8 +372,10 @@ mistake	Ṛg. Saṃ.	→ Ṛ. Saṃ.					28		5		21		1								1
 mistake	Ai. Br.	→ Ai. Brā.					25			10						6	9							
 mistake	tai. brā.	→ Tai. Brā.					24	3	3	2		5	4		3		3			1				
 mistake	Ṛg.	→ Ṛ. Saṃ.					24		3	1	6	3											7	4
+mistake	Ma.	→ M.					23			4		8	9			1					1			
 mistake	Kṛ. Saṃ.	→ Tai. Saṃ.					22											7	4		2	2	5	2
 mistake	Pu. Saṃ.	→ Ṛ. Saṃ.					22													6		16		
+mistake	ma.	→ M.					21		7	4	1	4	3		2									
 mistake	Ait. Brā.	→ Ai. Brā.					19					19												
 mistake	Si.	→ Ni.					17													4		13		
 mistake	Ā. Gṛ.	→ Ā. Gṛ. Sū.					15			1				1				2			2	1	2	6
@@ -486,7 +486,7 @@ Devanagari	ऋग्वे.		Ṛ. Saṃ.	Devanagari read as ṛgve.; known spell
 Devanagari	ऋ.		Ṛ. Saṃ.	Devanagari read as ṛ.; known spelling of Ṛ. Saṃ. (capitals/dots differ)	high	yes	62	8							7	6	15	14	7	5				
 Devanagari	का.		Kā.	Devanagari read as kā.; same letters; only capitals, dots or spaces differ	high	yes	58		5	6	8	7	6	10	5	6	1	2	2					
 Devanagari	तै. ब्रा.		Tai. Brā.	Devanagari read as tai. brā.; same letters; only capitals, dots or spaces differ	high	yes	54	9	3	2		5	4	5	5		3			16				2
-Devanagari	म.		M.	Devanagari read as ma.; user, Nov 18 2026: M. / म. is the Mahābhāṣya on a Pāṇini sūtra	high	yes	35		11	4	1	5	9		2							1	2	
+Devanagari	म.		M.	Devanagari read as ma.; user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra	high	yes	35		11	4	1	5	9		2							1	2	
 Devanagari	ऐ. आ.		Ai. Ā.	Devanagari read as ai. ā.; same letters; only capitals, dots or spaces differ	high	yes	24	2	9		1		1	1			2			2			2	4
 Devanagari	बृ. दे.		Bṛ. De.	Devanagari read as bṛ. de.; same letters; only capitals, dots or spaces differ	high	yes	22													21				1
 Devanagari	सि.			Devanagari read as si.; no list form close to it	none		22													16	5	1		

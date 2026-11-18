@@ -38,7 +38,7 @@ def suggest(w):
         if not base: return ('', 'cannot transliterate', 'none')
     if base in ('Ma.', 'ma.', 'M.'):
         sh = numshape.get(w, collections.Counter()); tt = sum(sh.values()) or 1; share = sum(v for k, v in sh.items() if k >= 3) / tt
-        if w in ('M.', 'म.'): return ('M.', note + 'user, Nov 18 2026: M. / म. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
+        if w in ('M.', 'म.', 'Ma.', 'ma.'): return ('M.', note + 'user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
         if share >= 0.8: return ('M.', note + f'Mahābhāṣya (user: M. / म.); {round(100 * share)}% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)', 'medium')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
