@@ -8337,6 +8337,195 @@ This makes known the wonderfully beautiful and inspiring (solar radiance) at the
 > धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिंद्र वृत्र॒हा शू॑र सम॒रे वसू॑नां ।  
 > माध्यं॑दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒स्थानो॑ र॒यिम॒स्मासु॑ धेहि ॥६॥
 
+### Printed p. 188
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धृषत् । पिब । कलशे । सोमं । इंद्र । वृत्रहा । शूर । संअरे । वसूनां ।  
+> माध्यंदिने । सवने । आ । वृषस्व । रयिस्थानः । रयिं । आस्मासु । धेहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर शौर्यवन्निंद्र वृत्रहा वृत्राणामावरकाणां शूत्रूणां हंता त्वं
+> वसूनां धनानां समरे संग्रामे निमित्तभूते सति कलशे द्रोणकलशेवस्थितं
+> सोमं धृषत् धृष्टं यथा । भवति तथा पिब । अपि च माध्यंदिने सवन आ वृषस्व ।
+> आसिंचस्व । जठरं सोमेन पूरय ! सर्वैंद्रं हि माध्यंदिनं सवनं । किं च
+> रयिस्थानो रयीणां धनानां स्थानभूतस्त्वं रयिं धनमस्मासु धेहि । धारय ॥
+
+##### Gist of the bhāṣya
+
+O hero, O Indra, you who slay the Vṛtras, the enemies who obstruct, when a battle for wealth has come about, drink boldly (धृषत् (*dhṛṣat*)), that is, in such a way that you become bold, the Soma standing in the Droṇa-kalaśa (कलशे (*kalaśe*)). Also pour in (आ वृषस्व (*ā vṛṣasva*)), that is, fill your belly with Soma at the midday pressing; for the midday pressing belongs wholly to Indra. And, as the abode of riches (रयिस्थानः (*rayisthānaḥ*)), place riches in us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- इंद्र (*iṃdra*)—O Indra
+- वृत्रहा (*vṛtrahā*)—you, the slayer of Vṛtra
+- वसूनां (*vasūnāṃ*)—that is fought for riches
+- समरे (*samare*)—in order to take part in the battle
+- कलशे (*kalaśe*)—which is in the Droṇa-kalaśa
+- सोमं (*somaṃ*)—the Soma
+- धृषत् (*dhṛṣat*)—so that strength and courage are filled
+- पिब (*piba*)—drink
+- माध्यंदिने सवने (*mādhyaṃdine savane*)—also at the time of the midday pressing
+- आ वृषस्व (*ā vṛṣasva*)—fill the belly fully with Soma
+- रयिस्थानः (*rayisthānaḥ*)—you, the place of origin of riches
+- अस्मासु (*asmāsu*)—in us
+- रयिं (*rayiṃ*)—riches
+- धेहि (*dhehi*)—place
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, you, the slayer of Vṛtra, drink the Soma that is in the Droṇa-kalaśa, so that you are filled with strength and courage, in order to take part in the battle that is fought for riches. At the time of the midday pressing also fill your belly fully with Soma. You, the place of origin of riches, fill us fully with riches.
+
+##### English translation
+Hero, Indra, you are the slayer of foes in contests for (the acquirement of) treasures, drink boldly from the pitcher : drink copiously at the noon-day rite : receptacle of riches, bestow riches upon us.
+
+### Printed p. 189
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ प्र णः॑ पुरुषि॒तेव॑ पश्य॒ प्र नो॑ नय प्रत॒रं वस्यो॒ अच्छ॑।  
+> भवा॑ सुपा॒रो अ॑तिपार॒यो नो॒ भवा॒ सुनी॑तिरु॒त ना॒मनी॑तिः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । प्र । नः । पुरएता इव । पश्य । प्र । नः । नय । प्रतरं । वस्यः । अच्छ ।  
+> भव । सुपारः । अतिपारयः । नः । भव । सुनीतिः । उत । वामनीतिः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पुरएतेव पुरतो गंतेव नोऽस्मान् प्र पश्य । प्रकर्षेणेकस्य ।
+> यथा मार्गरक्षकः स्वयं पुरतो गच्छन्ननुगच्छतो रक्षणीयान् पथिकान्पश्यति तथा
+> पश्येत्यर्थः । तथा वस्यो वसीयः श्रेष्ठं धनमच्छाभिमुख्येन प्रतरं प्रकृष्टतरमतिशयेन प्र णय । अस्मान्प्राय । तथा सुपारः सुष्टु पारयिता दुःखेभ्यस्तारयिता
+> भव । तथा नोऽस्मान् स्तोत्थनतिपारयः । शत्रूनतिक्रामय । सुनीति शोभनयनश्चास्माकं भव । उतापि च वामनीतिर्वामानां वननीयानां धनानां नेता भव ।
+> यद्वा । अस्मदर्थं श्रेष्ठप्रापणो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, look upon us (प्र पश्य (*pra paśya*)) like one who goes in front (पुरएतेव (*puraeteva*)). **NOTE** As a guardian of the road, going in front himself, sees the travellers who follow and are to be protected, so look upon us: this is the meaning. Likewise lead us (प्र णय (*pra ṇaya*)) towards the best, most excellent wealth (वस्यः (*vasyaḥ*)), facing us, to an excess. Be a good ferrier (सुपारः (*supāraḥ*)), one who takes us across sorrows. Make us pass beyond (अतिपारयः (*atipārayaḥ*)) the enemies **NOTE**. Be for us a good leader (सुनीतिः (*sunītiḥ*)), and also a leader of the desirable (वामानां (*vāmānāṃ*)), enjoyable riches (वामनीतिः (*vāmanītiḥ*)). Or else: be for our sake the conveyer to the best.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पुर एतेव (*pura eteva*)—like one who goes right in front of us
+- नः (*naḥ*)—us
+- प्र पश्य (*pra paśya*)—look upon fully
+- वस्यः (*vasyaḥ*)—the excellent wealth
+- अच्छ (*accha*)—towards us
+- प्रतरं (*prataraṃ*)—abundantly
+- प्र णय (*pra ṇaya*)—bring and supply
+- सुपारः (*supāraḥ*)—as one who brings to an end from sorrow
+- भव (*bhava*)—be
+- नः (*naḥ*)—us
+- अतिपारयः (*atipārayaḥ*)—free from the grip of the enemies
+- सुनीतिः (*sunītiḥ*)—as an excellent guide for us
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- वामनीतिः (*vāmanītiḥ*)—be also one who supplies attractive wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be right in front of us and look upon us fully. Supply us with excellent wealth. Bring us to the end of sorrow. Free us from the grip of the enemies. Be for us an excellent guide and also one who supplies attractive wealth.
+
+### Printed p. 190
+
+##### English translation
+Like one who goes before us, Indra, (on the road), look out, bring before us infinite wealth ; be our conductor beyond the bounds (of want) convey us safely over (peril); be our careful guide, our guide to desirable (affluence).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रुं नो॑ लो॒कमनु॑ नॆषि वि॒द्वान्स॑र्व॒ज्योति॒रभ॑यं  
+> स्व॒स्ति ।  
+> ऋ॒ष्वा त॑ इंद्र॒ स्थवि॑रस्य बा॒हू उप॑ स्थेयाम शर॒णा  ॒॑
+> बृहंता ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुं । नः । लोकं । अनु । नेषि । विद्वान् । स्वःवत् । ज्योतिः । अभयं । स्वस्ति ।  
+> ऋष्वा । ते । इंद्र । स्थविरस्य । बाहू इति । उप । स्थेयाम । शरणा । बृहंता ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐंद्रे पशावुरुं न इत्येषा वपाया याज्या । सूत्रितं च । उरुं नो
+> लोकमनु नेषि विद्वान् प्र ससाहिषे पुरुहूत शत्रून् । आ. ३-७ । इति ॥ होत्रकैः
+> सदःप्रसर्पणसमयेऽप्येषा जप्या । सूत्रितं च । उरुं नो लोकमनु नेषि
+> विद्वानिति जपंतः । आ. ५-३ । इति ॥ चातुर्विंशिकेऽहन्यहर्गणेषु च द्वितीयादिष्वहःसु
+> माध्यंदिनसवनेऽच्छवाकस्यैषा चारंभणीया सूत्रितं च । उरुं नो लोकमनु
+> नेषि विद्वानिति कद्वद्भ्य आरंभणीयाः । आ. ७-४. इति ॥
+> हे इंद्र विद्वान् जानंस्त्वमुरुं विस्तीर्णं लोकं स्थानं स्वर्गाख्यं
+> नोऽस्माननु नेषि । अनुगमय । तथा स्वर्वत्सुखवदभयं भयरहितं ज्योतिश्च स्वस्ति
+> क्षेमेणानु नेषि । आस्माननुगमय । हे इंद्र स्थविरस्य स्कूलस्य वृद्धस्य ते तव
+> संबंधिनावृष्ट्वा दर्शनीयौ बृहंता महांतौ बाहू त्वदीयौ हस्तौ शरणा शरणौ
+> रक्षकौ रक्षकतयोपस्थेयाम । उपतिष्ठेम । सेवेमहि ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Indra this Ṛk, उरुं नः (*uruṃ naḥ*), is the yājyā for the omentum (vapā); and it is prescribed in the sūtra: उरुं नो लोकमनु नेषि विद्वान् प्र ससाहिषे पुरुहूत शत्रून् (*uruṃ no lokamanu neṣi vidvān pra sasāhiṣe puruhūta śatrūn*) (Ā. 3-7). The assistants of the Hotṛ also mutter it when they approach the sadas, as the sūtra says: उरुं नो लोकमनु नेषि विद्वानिति जपंतः (*uruṃ no lokamanu neṣi vidvāniti japaṃtaḥ*) (Ā. 5-3). On the Cāturviṃśika day, and on the second and following days in the ahargaṇas, at the midday pressing it is the opening verse (ārambhaṇīyā) of the Acchāvāka, as the sūtra says: उरुं नो लोकमनु नेषि विद्वानिति कद्वद्भ्य आरंभणीयाः (*uruṃ no lokamanu neṣi vidvāniti kadvadbhya āraṃbhaṇīyāḥ*) (Ā. 7-4). O Indra, you who know, lead us (अनु नेषि (*anu neṣi*)), cause us to reach, the wide (उरुं (*uruṃ*)) world (लोकं (*lokaṃ*)), the place called heaven; and, with well-being (स्वस्ति (*svasti*)), lead us to light that is full of happiness (स्वर्वत् (*svarvat*)) and free from fear. O Indra, your two arms, lovely (ऋष्वा (*ṛṣvā*)) to behold and great (बृहंता (*bṛhaṃtā*)), belonging to you who are stout (स्थविरस्य (*sthavirasya*)), that is, big and old, as protectors (शरणा (*śaraṇā*)): may we resort to, serve, those arms of yours (उपस्थेयाम (*upastheyāma*)).
+
+### Printed p. 191
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) विद्वान् (*vidvān*)—you who know everything
+- स्वस्ति (*svasti*)—so that well-being comes to us
+- स्वर्वत् (*svarvat*)—that is full of happiness
+- अभयं (*abhayaṃ*)—that is free from fear
+- ज्योतिः (*jyotiḥ*)—that is radiant
+- उरुं (*uruṃ*)—and wide
+- लोकं (*lokaṃ*)—to the place
+- नः (*naḥ*)—us
+- अनु नेषि (*anu neṣi*)—lead and bring
+- इंद्र (*iṃdra*)—O Indra
+- स्थविरस्य (*sthavirasya*)—of you who are of firm body
+- ते (*te*)—your
+- ऋष्वा (*ṛṣvā*)—attractive
+- बृहंता (*bṛhaṃtā*)—and long
+- बाहू (*bāhū*)—arms
+- शरणा (*śaraṇā*)—so that they are protectors for us
+- उपस्थेयाम (*upastheyāma*)—may we take refuge in them and be happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who know everything, lead us and bring us, so that well-being comes to us, to a place that is full of happiness, free from fear, peaceful and wide. O Indra, may we take refuge in your attractive and long arms, you who are of firm body, so that they are protectors for us, and be happy.
+
+##### English translation
+Do you, Indra, who are wise, conduct us to the spacious world (of heaven), to a blessed state of happiness, light, and safety : may we recline in the graceful, protecting, and mighty arms of you the ancient one.
+
+##### विशेषविषयगळु (Special Topics)
+
+Although there is a difference of opinion on the question whether the gods have hands, feet and other limbs as human beings have, it is seen in the Ṛgveda that the seers praised Indra and the other gods, thinking of them as having hands, feet and other limbs. In this matter Yāska has given the explanation: अथाकारचिंतनं देवतानां । पुरुषविधाः स्युरित्येकं चेतनावद्वद्धि स्तुतयो भवंति । तथाभिधानानि । अथापि पौरुषविधिकैरंगैः संस्तूयंते । ऋष्वात इंद्र स्थविरस्य बाहू । यत्संगृभ्णा मघवन् काशिरित्ते ॥ (*athākāraciṃtanaṃ devatānāṃ | puruṣavidhāḥ syurityekaṃ cetanāvadvaddhi stutayo bhavaṃti | tathābhidhānāni | athāpi pauruṣavidhikairaṃgaiḥ saṃstūyaṃte | ṛṣvāta iṃdra sthavirasya bāhū | yatsaṃgṛbhṇā maghavan kāśiritte ‖*) (Ni. 7-6). Now let us examine the form, shape and so on of the gods. It is the opinion of some that the gods have hands and other limbs, as men have. Thinking that, as men have consciousness, so the gods also have consciousness, intelligence and so on, and since the gods also have limbs such as hands, and a form, as men have, they are thought of as endowed with consciousness,
+
+### Printed p. 192
+
+and they are praised accordingly. For this very reason it is the custom, when describing Indra and the other gods, to describe their hands and so on. In the third pāda of the present Ṛk, ऋष्वात इंद्र स्थविरस्य बाहू (*ṛṣvāta iṃdra sthavirasya bāhū*), there is a description of the arms of Indra. Likewise the authors of the Nirukta have cited, as one in which also there is a description of the limbs of Indra, the Ṛk: उताभये पुरुहूत श्रवोभिरेको दृळ्मवदो वृत्रहा सन् । इमे चिदिंद्र रोदसी अपारे यत्संगृभ्णा मघवन् काशिरित्ते ॥ (*utābhaye puruhūta śravobhireko dṛḷmavado vṛtrahā san | ime cidiṃdra rodasī apāre yatsaṃgṛbhṇā maghavan kāśiritte ‖*) (Ṛ. Saṃ. 3-30-5) **GLOSS**
+
+There are many descriptions saying that the gods have, besides the forms of men and the like, also union with various objects, as men have: अथापि पौरुषविधिकैर्द्रव्यसंयोगैः (*athāpi pauruṣavidhikairdravyasaṃyogaiḥ*) (Ni. 7-6). In this matter, after giving the example of the Ṛk आ द्वाभ्यां हरिभ्यामिंद्र याह्या चतुर्भिरा षड्भिर्हूयमानः । आष्टाभिर्दशभिः सोमपेयमयं सुतः सुमख मा मृधस्कः । (*ā dvābhyāṃ haribhyāmiṃdra yāhyā caturbhirā ṣaḍbhirhūyamānaḥ | āṣṭābhirdaśabhiḥ somapeyamayaṃ sutaḥ sumakha mā mṛdhaskaḥ |*) (Ṛ. Saṃ. 2-18-4), it is clearly explained in this Ṛk that, as men have cows, horses and the like, so Indra and the other gods also have them. "O Indra, come to our sacrifice, seated in your chariot, together with your two horses named Hari; or else come here to drink Soma together with four, six, eight or ten horses": since this is said, the idea becomes evident that, as in worldly dealings men have possessions, so the gods also have horses and the like. And further: अपाः सोममस्तमिंद्र प्र याहि कल्याणीर्जाया सुरणं गृहे ते । यत्रा रथस्य बृहतो निधानं विमोचनं वाजिनो दक्षिणावत् ॥ (*apāḥ somamastamiṃdra pra yāhi kalyāṇīrjāyā suraṇaṃ gṛhe te | yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino dakṣiṇāvat ‖*) (Ṛ. Saṃ. 3-53-6). In this Ṛk there is a mention of the fact that, as men have, so Indra also has at home a wife, a chariot and horses.
+
+Further, they have defended, by giving some examples, the view that the gods also have actions like the actions of men: अथापि पौरुषविधिकैः कर्मभिः (*athāpi pauruṣavidhikaiḥ karmabhiḥ*) (Ni. 7-6).
+
+### Printed p. 193
+
+इदं हविर्मघवन् तुभ्यं रातं प्रति सम्राळहृणानो गृभाय । तुभ्यं सुतो मघवन् तुभ्यं पक्वोत्थींद्र पिब च प्रस्थितस्य ॥ (*idaṃ havirmaghavan tubhyaṃ rātaṃ prati samrāḷahṛṇāno gṛbhāya | tubhyaṃ suto maghavan tubhyaṃ pakvotthīṃdra piba ca prasthitasya ‖*) (Ṛ. Saṃ. 10-16-7). आश्रुत्कर्ण श्रुधी हवं नू चिद्दधिष्ट मे गिरः । इंद्र स्तोममिमं मम कृष्णा युजश्चिदंतरं ॥ (*āśrutkarṇa śrudhī havaṃ nū ciddadhiṣṭa me giraḥ | iṃdra stomamimaṃ mama kṛṣṇā yujaścidaṃtaraṃ ‖*). These Ṛks have been given as examples. In the first Ṛk it is said that an oblation and Soma have been offered for Indra, and it is prayed that Indra should drink it. In the second Ṛk there is a prayer that he should hear our invocation and our hymn. That is, actions fitting to men, such as eating the oblation as men do, drinking the Soma juice, and listening to and hearing the invocation and the hymn, are ascribed also to Indra and the other gods in praising them. In this way it is the contention of some that, like men, the gods also have form, hands and other limbs, and actions such as eating. Others hold that the gods have no form and so on as men have, that their actions are also different from the actions that men perform, and that the gods are described in that way, by exaggeration, in order to describe their greatness: अपुरुषविधाः स्युरित्यपरं (*apuruṣavidhāḥ syurityaparaṃ*) (Ni. 7-7).
+
+Still others hold that the gods have no form, shape, actions and the like as men have, and that their distinguishing marks are of another kind. How? अपि तु यद्दृश्यतेऽपुरुषविधं तद्यथाग्निर्वायुरादित्यः पृथिवी चंद्रमा इति ॥ (*api tu yaddṛśyate 'puruṣavidhaṃ tadyathāgnirvāyurādityaḥ pṛthivī caṃdramā iti ‖*) (Ni. 7-7). Although the forms and actions of some gods appear as those of men, they are not so. Although the forms and actions of such gods as Agni, Vāyu, Āditya, Pṛthivī and Candramā appear like the actions of men, their manner is different. There is a particular difference between those actions and the actions of men.
+
+यथो एतच्चेतनावद्वद्धि स्तुतयो भवंतीत्यचेतनान्यप्येपं स्तूयंते यथाक्षप्रभृतीनोषधिपर्यंतानि ॥ (*yatho etaccetanāvadvaddhi stutayo bhavaṃtītyacetanānyapyepaṃ stūyaṃte yathākṣaprabhṛtīnoṣadhiparyaṃtāni ‖*) (Ni. 7-7). That is, when gods such as Agni are praised, they are praised as though they had consciousness. When gambling, people address the dice; though the dice are devoid of consciousness, they address them as living beings with consciousness. They address plants as well, that is, shrubs, trees and creepers, thinking of them as having consciousness.
+
+### Printed p. 194
+
+यथो एतत्पौरुषविधिकैरंगैः संस्तूयंत इत्यचेतनेष्वप्येतद्भवत्यभिक्रदंति हरितेभिरासभिरिति ग्रावस्तुतिः ॥ (*yatho etatpauruṣavidhikairaṃgaiḥ saṃstūyaṃta ityacetaneṣvapyetadbhavatyabhikradaṃti haritebhirāsabhiriti grāvastutiḥ ‖*) (Ni. 7-7). In the same way, things without consciousness are also praised, as though they had limbs belonging to men. Plants and the stones that crush Soma are without consciousness. Yet the sound that arises when the Soma plants are crushed with stones is described by saying that those stones cry out with their green mouths. Since stones are without consciousness, they have no mouths as living beings have. Yet the seer has described in a figurative way the sound that is made when a plant is placed on a stone and crushed, as the stones making it with their own mouths. When Soma plants are crushed, the green colour of those plants clings to the stones; to suggest that the mouths of the stones are of green colour, a description with exaggeration has been made, that the mouths of the stones are of green colour.
+
+यथो एतत्पौरुषविधिकैर्द्रव्यसंयोगैरित्येतदपि तादृशमेव । सुखं रथं युयुजे सिंधुरश्विनं इति नदीस्तुतिः ॥ (*yatho etatpauruṣavidhikairdravyasaṃyogairityetadapi tādṛśameva | sukhaṃ rathaṃ yuyuje siṃdhuraśvinaṃ iti nadīstutiḥ ‖*) (Ni. 7-7). In the matter of things without consciousness also having union with objects, as men have: as in sentences such as "the river (Sindhu) yoked her horses to a pleasant chariot", the river, being a thing without consciousness, has no chariot. Yet, in praising the river, the seer has praised it by ascribing to the river, as to men, union with objects (the possession of property).
+
+यथो एतत्पौरुषविधिकैः कर्मभिरित्येतदपि तादृशमेव । होतुश्चित्पूर्वे हविरद्यमाशत इति ग्रावस्तु तिरेव ॥ (*yatho etatpauruṣavidhikaiḥ karmabhirityetadapi tādṛśameva | hotuścitpūrve haviradyamāśata iti grāvastu tireva ‖*) (Ni. 7-7). In the matter of actions also, agency in action has been ascribed, as to men, to things without consciousness such as stones, and they have been praised. When the Soma plant is crushed with a stone, it is natural that the juice that comes out of the plant touches the stone. This is what the seer has described by saying that the stones, the means of pressing the Soma, taste the Soma juice before the sacrificers such as the Hotṛ. A stone has no mouth, and it has no capacity to taste. Yet, since the juice that comes out when the plant is crushed with the stone touches the stone, the description that the stone tastes the Soma juice before everyone is made with exaggeration and in a figurative way. That stones, being without consciousness, have neither a mouth nor the capacity to taste is a matter established by the experience of all.
+
+अपि वा पुरुषविधानामेव सतां कर्मात्मन एते स्युर्यथा यज्ञो यजमानस्य । एष चाख्यानसमयः ॥ (*api vā puruṣavidhānāmeva satāṃ karmātmana ete syuryathā yajño yajamānasya | eṣa cākhyānasamayaḥ ‖*) (Ni. 7-7) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 187. Sukta 47 Rik 1-5, Rik 6 samhita
+**Progress note:** Done through printed p. 194. Sukta 47 Rik 6-8, special topics on divine forms (Nirukta 7-6, 7-7) to p. 194
