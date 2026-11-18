@@ -4,8 +4,8 @@
 
 | status | forms | references |
 |---|---|---|
-| NOT IN LIST | 256 | 1500 |
-| mistake | 159 | 14832 |
+| NOT IN LIST | 255 | 1497 |
+| mistake | 160 | 14835 |
 | extra | 39 | 842 |
 | legend | 20 | 14866 |
 | Devanagari | 160 | 8273 |
@@ -49,7 +49,6 @@
 | i. e. Ni. | 3 | ? (none) | 12 (1), 15 (2) |
 | Ka. Prā. | 3 | ? (none) | 12 (3) |
 | muṃ. u. | 3 | Mu. U. (high) | 12 (3) |
-| Bh. Gī. | 3 | ? (none) | 12 (3) |
 | i. e. Śat. Brā. | 3 | ? (none) | 15 (3) |
 | Ai. Brā. Bhā. | 2 | ? (none) | 1 (1), 3 (1) |
 | pā. sū. ma. | 2 | ? (none) | 2 (2) |
@@ -78,3 +77,4 @@
 | Ś. Prā. | 2 | ? (none) | 12 (2) |
 | Kh. Saṃ. | 2 | ? (none) | 12 (1), 16 (1) |
 | Ai. | 2 | ? (none) | 14 (2) |
+| Maṃ. Saṃ. | 2 | ? (none) | 14 (2) |
