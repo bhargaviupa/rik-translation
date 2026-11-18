@@ -8030,6 +8030,312 @@ Sāyaṇa explains: O Agni, the Ruśamas, the servants of Ṛṇañcaya, bring t
 
 O Agni, the people of the Ruśama country have handed over to me a house furnished with thousands of cows and with excellent means. Afterwards the Soma juices, of keen taste and excellently pressed, exhilarated Indra at dawn, the end of the night enveloped in darkness.
 
+### Printed p. 208
+
+##### English translation
+The Rusamas, Agni, have presented to me a beautiful abode, with thousands of cattle : the sharp libations have exhilarated Indra upon the breaking up of the (gloom-)investing night.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Babhru praises the gift of a house made to him by King Ṛṇañcaya, and the detail is stated that, for the good and prosperity of that king, he offered Soma juice to Indra and prayed.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> औच्छ॒त्सा रात्रि॒ परि॑तक्क्या॒ या ऋ॑णंच॒ये राज॑नि रु॒शमा॑नां।  
+> अत्यो॒ न वा॒जी र॒घुर॒ज्यमा॑नोः ब॒भ्रुश्च॒त्वार्य॑सनत्स॒हस्रा॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> औच्छत् । सा । रात्री । परितक्म्या । या । ऋणंचये । राजनि । रुशमानां ।  
+> अत्यः । न । वाजी । रघुः । अज्यमानः । बभ्रुः । चत्वारि । असनत् । सहस्रा ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुशमानां रुशमनाम्मां जननां राजनि प्रभावृणंचय एतत्संज्ञके तत्समीप एव या रात्रिः परितक्क्या परितो गंत्रि भवति सा रात्रौच्छत् । व्युष्टाभवत् ।
+> अत्यः सततगामि वाजी न अश्व इव रघुः शीघ्रगाम्यज्यमानः प्रेर्यमाणो बभ्रुरेतन्नामक ऋषिश्चत्वारि चतुःसंख्याकानि सहस्रा सहस्राणि गोरूपाणि धनान्यसतत् ।
+> अलभत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: near Ṛṇañcaya, the king, the lord of the people named Ruśamas, the night that is *paritakmyā*, that goes about on all sides, dawned; that is, it came to its end. Babhru, the seer of that name, being urged on, like a horse (*vājin*) that is *atya*, a constant goer, and swift (*raghu*), obtained four thousand riches in the form of cattle. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the night that
+- परितक्क्या (*paritakkyā*)—is enveloped in darkness
+- सा रात्रि (*sā rātri*)—that night
+- रुशमानां (*ruśamānāṃ*)—of the people of the Ruśama country
+- राजनि (*rājani*)—lord
+- ऋणंचये (*ṛṇaṃcaye*)—the king named Ṛṇañcaya (as soon as he came into view)
+- औच्छत् (*aucchat*)—comes to its end (the appearing of the dawn takes place) (at that time)
+- अज्यमानः (*ajyamānaḥ*)—the one who was invited
+- अत्यः (*atyaḥ*)—constantly moving
+- वाजी न (*vājī na*)—like a horse
+- रघुः (*raghuḥ*)—and swift
+- बभ्रुः (*babhruḥ*)—the seer named Babhru
+- चत्वारि सहस्रा (*catvāri sahasrā*)—four thousand riches in the form of cattle
+- आसनत् (*āsanat*)—obtained
+
+### Printed p. 209
+
+##### भावार्थ (Bhāvārtha)
+
+The night that is enveloped in darkness comes to its end, and the dawn appears, as soon as the king named Ṛṇañcaya, the lord of the people of the Ruśama country, came into view. At that time the seer named Babhru, who had been invited, and who was swift like a horse of good breed, obtained four thousand riches in the form of cattle.
+
+##### English translation
+The (gloom-)investing night has dispersed with the dawn ( upon the appearance of) Rinanchaya, the Raja of the Rusamas : Babhru being summoned, going like a fleet courser, has received the four thousand (cattle).
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चतुः॑सहस्रं॒ गव्य॑स्य प॒श्वः प्रत्य॑ग्रभीष्म रु॒शमे॑ष्वग्ने ।  
+> घ॒र्मश्चि॑त्त॒प्तः प्र॒वृजे॒य आसी॑दय॒स्मय॒स्तम्वादा॑म॒ विप्राः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चतुर्सहस्रं । गव्यस्य । पश्वः । प्रति । अग्रभीष्म । रुशमेषु । अग्ने ।  
+> घर्मः । चित् । तप्तः । प्रवृजे । यः । आसीत् । अयस्मयः । तं । ऊं इति ।  
+> आदाम । विप्राः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वयं रुशमेष्टेतत्संज्ञकेषु जनेषु गव्यस्य गवात्मकस्य पश्वः पशोः
+> पशूनां । जातावेकवचनं । चतुः सहस्रं चत्वारि सहस्राणि प्रत्यग्रभीष्म ! प्रतिगृहीतवंतः स्मः । प्रवृजे प्रवृंजनार्थं तप्तः संतप्तः शोभनवर्णो घर्मश्चिन्महावीर
+> इवायस्मयोऽयोमयो हिरण्मयो यः कलश आसीत् अभवत् तमु दोहनार्थं
+> कलशं च विप्रा मेधाविनो वयं रुशमेष्वादाम । आदत्तवंतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, we have accepted from the people called Ruśamas four thousand cattle, animals in the form of cows (the singular *paśu* stands for the class). The vessel (*kalaśa*) that was *ayasmaya*, that is, made of iron, of gold, heated for the Pravargya, of fair colour, like the Ghṛma, the Mahāvīra, and a vessel for milking, that too we wise ones have taken from the Ruśamas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- (वयं (*vayaṃ*)—we)
+- रुशमेषु (*ruśameṣu*)—from the people of the Ruśama country
+- गव्यस्य (*gavyasya*)—in the form of cows
+- पश्वः (*paśvaḥ*)—of animals
+- चतुः सहस्रं (*catuḥ sahasraṃ*)—four thousand
+
+### Printed p. 210
+- प्रत्यग्रभीष्म (*pratyagrabhīṣma*)—we accepted
+- प्रवृजे (*pravṛje*)—for the Pravargya
+- तप्तः (*taptaḥ*)—heated and golden-coloured
+- घर्मश्चित् (*gharmaścit*)—like the Mahāvīra
+- अयस्मयः (*ayasmayaḥ*)—golden
+- यः (*yaḥ*)—which
+- आसीत् (*āsīt*)—was (the vessel)
+- तमु (*tamu*)—that too
+- विप्राः (*viprāḥ*)—we wise ones
+- आदाम (*ādāma*)—have taken
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we have accepted from the people of the Ruśama country four thousand animals in the form of cows. The golden vessel that was heated for the Pravargya and was of a golden hue like the Mahāvīra, that too we wise ones have taken.
+
+##### English translation
+We have accepted, Agni, the four thousand cattle from the Rusamas : and the glowing, the golden ewer prepared for the solemnity, we who are wise have accepted it.
+## Sūkta 31 (Maṇḍala 5)
+
+The thirty-first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो रथायेति त्रयोदशर्चं सप्तदशं सूक्तं । अवस्युर्नामात्रेय
+> ऋषिः । त्रिष्टुप् छंदः । इंद्रो देवता । उग्रमयातं सं ह यद्वामिति पादयोः
+> क्रमेण कुत्सोशनसौ विकल्पेन देवता । इंद्राकुत्सा वहमानेत्यस्या इंद्रः कुत्सश्च ।
+> तथा चानुक्रांतं । इंद्रो रथाय सप्तोनावस्युरुग्रमिति कौत्सौ शनसौ ना पादौ
+> परैंद्राकौत्सीति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्रो रथाय (*iṃdro rathāya*) has thirteen Ṛks and is the seventeenth sūkta. Avasyu Ātreya is the seer; the metre is Triṣṭubh; the deity is Indra. In the third and fourth pādas of the Ṛks beginning उग्रमयातं (*ugramayātaṃ*) and सं ह यद्वां (*saṃ ha yadvāṃ*), Kutsa and Uśanas respectively are, optionally, the deities. For the Ṛk इंद्राकुत्सा वहमाना (*iṃdrākutsā vahamānā*) the deities are Indra and Kutsa. So the Anukramaṇikā says: इंद्रो रथाय सप्तोनावस्युरुग्रमिति कौत्सौ शनसौ ना पादौ परैंद्राकौत्सीति ॥ (*iṃdro rathāya saptonāvasyurugramiti kautsau śanasau nā pādau paraiṃdrākautsīti ‖*). The use in ritual (*viniyoga*) is derived from the mark (*laiṅgika*).
+Translation: This sūkta, इंद्रो रथाय (*iṃdro rathāya*), is the seventeenth sūkta in the second Anuvāka. It contains thirteen Ṛks. The seer of this sūkta is Avasyu Ātreya; the deity is Indra; the metre is Triṣṭubh. For the third and fourth pādas of the eighth Ṛk of this sūkta, उग्रमयांतं (*ugramayāṃtaṃ*) and सं ह यद्वां (*saṃ ha yadvāṃ*), Indra or Kutsa and Indra or Uśanas respectively are, optionally, the deities. For the ninth Ṛk of this sūkta, इंद्रा कुत्सा वहमाना (*iṃdrā kutsā vahamānā*), both Indra and Kutsa are deities. In the Anukramaṇikā it is said: इंद्रो रथाय सवोनावस्युरुग्रमिति कौत्सौशनसौ ना पादौ परैंद्राकौसी (*iṃdro rathāya savonāvasyurugramiti kautsauśanasau nā pādau paraiṃdrākausī*) **NOTE**. The use in ritual is derived from the mark.
+
+### Printed p. 211
+Sūkta 31.
+
+Maṇḍala 5, Anuvāka 2, Sūkta 31.
+
+Aṣṭaka 4, Adhyāya 1, Varga 29, 30, 31.
+
+Number of Ṛks in the sūkta: 13.
+
+Seer: Avasyu Ātreya.
+
+Deity: Indra in 1-7, in the second pāda of 8, and in 10-13; in the third pāda of 8, Indra or Kutsa; in the fourth pāda of 8, Indra or Uśanas; in 9, Indra and Kutsa.
+
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ रथा॑य प्र॒वतं॑ कृणोति॒ यम॒ध्यस्था॑न्म॒घवा॑ वाज॒यंतं॑ ।  
+> यू॒थेव॑ प॒श्यो व्यु॑नोति गो॒पा अरि॑ष्टो याति प्रथ॒मः  ॑
+> सिषासन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । रथाय । प्रवतं । कृणोति । यं । अधिअस्थात् । मघवा । वाजयंतं ।  
+> यूथाइव । पश्वः । वि । उनोति । गोपाः । अरिष्टः । याति । प्रथमः । सिसासन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> माघवा धनवानिंद्रो वाजयंतमन्नमिच्छंतं यं रथमध्यस्थात् अधितिष्ठति तस्मै रथाय प्रवतं प्रवणमाजिं कृणोति करोति । अपि च गोपा गोपालः
+> पश्वो यूथेव पशोः पशूनां यूथानि यथा व्युनोति प्रेरयति तथा शत्रुसैन्यानि प्रेरयति । अरिष्टः शत्रुभिः स्वयमहिंसितः प्रथमो देवानां मुख्य इंद्रः
+> सिषासन् शत्रुधनानीच्छन् याति । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra, the possessor of wealth, makes a sloping course, a downward-going contest, for that chariot, desirous of food, which he mounts. And as a herdsman (*gopā*) drives the herds of cattle, so he drives the armies of enemies. Unharmed by enemies himself, Indra, the first, the chief of the gods, goes forward, desiring the wealth of the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- वाजयंतं (*vājayaṃtaṃ*)—that desires food
+- यं (*yaṃ*)—which chariot
+- अध्यस्थात् (*adhyasthāt*)—he has mounted and sits
+- (तस्मै (*tasmai*))रथाय (*rathāya*)—for that chariot
+- प्रवतं (*pravataṃ*)—
+
+### Printed p. 212
+a downward-moving course, as it were
+- कृणोति (*kṛṇoti*)—makes
+- गोपाः (*gopāḥ*)—the herdsman
+- पश्वः (*paśvaḥ*)—of animals
+- यूथेव (*yūtheva*)—as he drives the herds
+- व्युनोति (*vyunoti*)—driving (the armies of enemies)
+- अरिष्टः (*ariṣṭaḥ*)—unharmed by enemies
+- प्रथमः (*prathamaḥ*)—and chief among the gods
+- सिषासन् (*siṣāsan*)—desiring the wealth of enemies
+- याति (*yāti*)—goes forward
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the wealthy, makes the chariot which, desirous of food, he has mounted, move downward from the divine world, towards the earth. As a herdsman drives the herds of cattle, he goes forward driving the armies of enemies, unharmed by enemies, the chief among the gods, desiring the wealth of enemies.
+
+##### English translation
+Indra, the possessor of opulence, directs downwards the car over which, intended (to receive sacrificial) viands, he presides : he proceeds unimpeded, the first of the gods, driving ( his enemies before him), as a herdsman drives the herds of cattle.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प्र द्र॑व हरिवो॒ मा वि वे॑नः॒ पिशं॑गराते अ॒भि नः॑ सचस्व ।  
+> न॒हि त्वदिं॑द्र॒ वस्यो॑ अ॒न्यदस्त ॑मे॒नांश्चि॒ज्जनि॑वतश्चर्थ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । प्र । द्रव । हरिवः । मा । वि । वेनः । पिशंगराते । अभि । नः । सचस्व ।  
+> नहि । त्वत् । इंद्र । वस्यः । अन्यत् । अस्ति । अमेनान् । चित् । जनिवतः । चकर्थः २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवो हरिवन्निंद्र त्वमास्मानभिमुखं प्र द्रव । प्रकर्षण गच्छ । किंतु
+> मा पि वेनः । वेनतिः कांतिकर्मा । आस्मासु विगतकामो मा भूः । किंच हे पिशंगराते बहुरूपधनेंद्र नोऽस्मानभि सचस्व । अभिसेवस्व । अपि च हे इंद्र वस्यो
+> वसीयः श्रेयस्करं त्वत्त्वत्तोऽन्यन्नह्यस्ति । अन्यद्वसुजातं नास्ति । अमेनांश्चित् ।
+> मेनाशब्दः स्त्रीवाची । अपगतस्त्रीकांश्चित् जनिवतो जायावतश्चर्थ । करोषि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Hariva, Indra, lord of horses, run forward towards us; go forth. But do not be *vena*; the root *venati* has the sense of desire: do not be devoid of desire towards us. And, O Piśaṅgarāte, Indra, who have wealth of many forms, join us; serve us. Moreover, O Indra, there is nothing else that is *vasya*, that is, better, more beneficial, than you; there is nothing else born of wealth. The word *menā* denotes a woman; those who are *amenā*, without a wife, you make *janivat*, that is, possessed of a wife.
+
+### Printed p. 213
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, lord of horses
+- आ प्र द्रव (*ā pra drava*)—come to us with regard
+- मा वि वेनः (*mā vi venaḥ*)—do not be without regard for us
+- पिशंगराते (*piśaṃgarāte*)—O Indra, who have wealth of many kinds
+- नः (*naḥ*)—us
+- अभि सचस्व (*abhi sacasva*)—serve
+- इंद्र (*iṃdra*)—O Indra
+- त्वत् (*tvat*)—than you
+- वस्यः (*vasyaḥ*)—more beneficial
+- अन्यत् नहि अस्ति (*anyat nahi asti*)—there is no one else at all
+- अमेनांश्चित् (*amenāṃścit*)—one who is without a wife
+- जनिवतः (*janivataḥ*)—so that he has a wife
+- चकर्थ (*cakartha*)—you make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of horses, run to us with regard. Do not be without regard for us. O Indra, who have wealth of many kinds, serve us. O Indra, there is no one else at all more beneficial than you. You make one who is without a wife to have a wife.
+
+##### English translation
+Hasten to us, lord of horses : be not indifferent to us : distributor of manifold wealth, befriend us ; for there is nothing else that is better, Indra, than you : you have given wives to those who were without women.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्यत्सहः॒ सह॑स॒ आज॑निष्ट॒ देदि॑ष्ट॒ इंद्र॑ इंद्रि॒याणि॒ विश्वा॑ ।  
+> प्राचो॑दयत्सु॒दुघा॑ व॒व्रे अं॒तर्वि ज्योति॑षा संववृ॒त्वत्तमो॑ऽवः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । यत् । सहः । सहसः । आ । अजनिष्ट । देदिष्टे । इंद्रः । इंद्रियाणि । विश्वा ।  
+> प्र । अचोदयत् । सुदुघाः । वव्रे । अंतः । वि । ज्योतिषा । संववृत्वत् ।  
+> तमः । अवरित्यवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा सहः सूर्यसंबंधि तेजः सहस उषःसंबंधिनस्तेजस उदाजनिष्ट
+> उपरिष्टात् प्रादुर्बभूव तदेंद्रो विश्वा विश्वानि सर्वाणींद्रियाणि धनानि ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: when the might (*sahas*) belonging to the Sun arises (*udājaniṣṭa*), appears above, from the might belonging to Uṣas, then Indra gives all (*viśvā*) the *indriyas*, that is, riches.
+
+### Printed p. 214
+
+> इंद्रियमिति धननामैतत् । देदिष्टे । यजमानेभ्यो दिशति । वव्रे निवारके
+> पर्वतेंतर्मध्यॆ बलेन निरुद्धाः सुदुघाः सुष्टु दोग्धिर्गाः प्राचोदयत् ।
+> प्रैरयत् । ज्योतिषा तेजसा संववृत्वत् संवरणशीलं तमो व्यवः । निवारितवान् ॥
+
+##### Gist of the bhāṣya
+
+इंद्रियमिति धननामैतत् (*iṃdriyamiti dhananāmaitat*): *indriya* is a name for wealth. *Dediṣṭe*: he assigns to the sacrificers. Within the obstructing mountain (*vavre*), he drove out the cows that were well-milking and confined there by force. By light, that is, by his own brilliance, he warded off (*avaḥ*) the darkness that enveloped the world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सहः (*sahaḥ*)—the might of the Sun
+- सहसः (*sahasaḥ*)—the might of Uṣas
+- उत् आजनिष्ट (*ut ājaniṣṭa*)—covers
+- इंद्रः (*iṃdraḥ*)—then Indra
+- विश्वा (*viśvā*)—all
+- इंद्रियाणि (*iṃdriyāṇi*)—riches (to the sacrificer)
+- देदिष्टे (*dediṣṭe*)—gives
+- वव्रे (*vavre*)—of the obstructing mountain
+- अंतः (*aṃtaḥ*)—in the middle (confined)
+- सुदुघाः (*sudughāḥ*)—the cows full of milk
+- प्राचोदयत् (*prācodayat*)—made to come out
+- संववृत्वत् (*saṃvavṛtvat*)—that enveloped the world
+- तमः (*tamaḥ*)—the darkness
+- ज्योतिषा (*jyotiṣā*)—by his own brilliance
+- वि अवः (*vi avaḥ*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the might of the Sun covers the might of Uṣas, Indra gives all riches to the sacrificer. That same Indra made the cows full of milk, confined in the middle of the obstructing mountain, come out. He destroyed with his own brilliance the darkness that had enveloped the world.
+
+##### English translation
+When the light (of the sun) overpowers the light (of the dawn) Indra grants all (sorts of) wealth (to the worshipper) : he has liberated the milch- (cows) from the interior of the obstructing (mountain); he dissipates the enveloping darkness with light.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन॑वस्ते॒ रथ॒मश्वा॑य तक्ष॒न्त्वष्टा॒ वज्रं॑ पुरुहूत द्यु॒मंतं॑।  
+> ब्र॒ह्माण॒ इंद्रं॑ म॒हयं॑तो आ॒र्कैरव॑र्षय॒न्नह॑ये॒ हंत॒वा  ॑
+> उ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनवः । ते । रथं । अश्वाय । तक्षन् । त्वष्टा । वज्रं । पुरुहुत । द्रुमंतं ।  
+> ब्रह्माणः । इंद्रं । महयंतः । अर्कैः । अवर्धयन् । अहये । हंतवै । ऊं इति ॥
+
 ---
 
-**Progress note:** Done through printed p. 207. M5 S30 Rk 10-13; Special Topics on dasa chiefs continued
+**Progress note:** Done through printed p. 214. M5 S30 Rk 13-15 end; S31 intro and Rk 1-3, Rk 4 samhita/pada
