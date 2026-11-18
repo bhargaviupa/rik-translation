@@ -45,7 +45,7 @@
 
 > अप नः शोशुचदघम् ।
 > *apa naḥ śośucad agham |*
-> "May [our] sin burn away from us" *(mine and tentative; the printed words are the opening of the prayer of Sūkta 97)*
+> **GLOSS** *(mine and tentative; the printed words are the opening of the prayer of Sūkta 97)*
 
 > वैश्वानरस्य सुमतौ स्याम ।
 > *vaiśvānarasya sumatau syāma |*
@@ -113,7 +113,7 @@
 
 "— they are called seven Ādityas without naming them; and of the eight Ādityas referred to in 10-72-8 (confirmed by the reader), the seven who remain, with the exception of Mārtāṇḍa, are said to have been given over to the sway of the gods (10-72-9, confirmed by the reader)." *(continues below)*
 
-"In 1-50-12 (as corrected by the reader) the verse beginning *ud agād ayam ādityaḥ*, and in 1-191-9 (as corrected by the reader) *udapaptad asau sūryaḥ* (उदपप्तदसौ सूर्यः; "that sun flew up" — mine, tentative): the sun is said to be one of the sons of Aditi, one of the Ādityas. In 8-18-3 (as corrected by the reader) the line *tan naḥ savitā bhago varuṇo mitro aryamā* is read, and there Savitṛ is placed with Bhaga, Varuṇa, Mitra and Aryaman. Thus, although no determinate statement is made on the number of the Ādityas, yet —"
+"In 1-50-12 (as corrected by the reader) the verse beginning *ud agād ayam ādityaḥ*, and in 1-191-9 (as corrected by the reader) *udapaptad asau sūryaḥ* (उदपप्तदसौ सूर्यः; **GLOSS**): the sun is said to be one of the sons of Aditi, one of the Ādityas. In 8-18-3 (as corrected by the reader) the line *tan naḥ savitā bhago varuṇo mitro aryamā* is read, and there Savitṛ is placed with Bhaga, Varuṇa, Mitra and Aryaman. Thus, although no determinate statement is made on the number of the Ādityas, yet —"
 
 > भगश्चैवार्यमांशश्च मित्रो वरुण एव च ।
 > धाता चैव विधाता च विवस्वांश्च महाद्युतिः ॥
@@ -123,7 +123,7 @@
 > *tvaṣṭā pūṣā tathaivendro dvādaśo viṣṇur ucyate |*
 > (*Bṛ. De.* 5, 146–147, as corrected by the reader)
 
-*(Translation, mine and tentative, of the stanzas as read: "Bhaga, Aryaman and Aṃśa, Mitra and Varuṇa; Dhātṛ, Vidhātṛ, and the greatly radiant Vivasvat; Tvaṣṭṛ, Pūṣan, and likewise Indra, and Viṣṇu is called the twelfth.")*
+**GLOSS**
 
 "— the twelve Ādityas are well known. Though the twelve, Bhaga and the rest, are thus well known, yet *ṛtāvarī yoṣā* (Ṛ. 9-114-3, as corrected by the reader): in the universal activity of Aditi, who is of the nature of the *ṛta*, Mitra and Varuṇa, *ṛtāvānā samrājā*, true and illuminators of the world (Ṛ. 8-257, as corrected by the reader) are the constant helpers."
 
@@ -147,7 +147,7 @@
 > *mitro no atrāditir anāgān savitā devo varuṇāya vocat |*
 > (*Ṛ. Saṃ.* 10-12-8, as in the reader's final page iii log)
 
-*(Glosses, mine and tentative: "Aditi, Mitra and Varuṇa, be gracious, for whatever offence we have committed against you"; "may Mitra, Aditi, [and] the god Savitṛ declare us sinless to Varuṇa". The second quotation is read as printed, doubtful [?].)*
+*(**GLOSS**. The second quotation is read as printed, doubtful [?].)*
 
 "In all such Ṛks Aditi, together with Mitra and Varuṇa, is prayed to destroy all sin. So too —"
 
@@ -180,7 +180,7 @@
 > त्रितं कूपेऽवहितमेतत्सूक्तं प्रतिबभौ । तत्र ब्रह्मेतिहासमिश्रमृज्मिश्रं गाथामिश्रं भवति । त्रितस्त्वैर्णतमो [?] मेधया बभूव अपि वा संख्यानामेवाभिप्रेतं स्यादेकतो द्वितस्त्रित इति त्रयो बभूवुः ।
 > *tritaṃ kūpe 'vahitam etat sūktaṃ pratibabhau | tatra brahmetihāsamiśram ṛkmiśraṃ gāthāmiśraṃ bhavati | tritas tv airṇatamo [?] medhayā babhūva api vā saṃkhyānām evābhipretaṃ syād ekato dvitas trita iti trayo babhūvuḥ |*
 
-*(Translation, mine and tentative, with the Kannada that follows: "To Trita, who was set down in a well, this sūktā appeared. In it there is a mixture of brahman, of history, of ṛk, of gāthā. Trita became [the most …, the word is clotted [?]] by his intelligence; or else a mere reckoning of numbers may be intended: from Ekata, Dvita, Trita — thus three came into being.")*
+**GLOSS**
 
 "By Trita, who had fallen into the well, this sūkta was seen. It is a prayer in the form of *ṛk* and *gāthā*, with a story (*vittaṃ me asya rodasī*). Because he attained mastery in wisdom (*prajñā*), the name Trita came to him; or, since among Ekata, Dvita and Trita he is the third, the name 'Trita' may have come to him — so the first [explanation]. Secondly, in explaining the first Ṛk of 1-187 (1-187-1): '*trite sthāne indraḥ*' [as read [?]] (Ni. 9-25) — Indra, who pervades three regions, is explained as an epithet of Indra."
 
@@ -194,7 +194,7 @@
 > *caturdhāvihito ha vāgre 'gnir āsa | sa yam agre 'gniṃ hotrāya prāvṛṇīta sa prādhanvadyaṃ dvitīyaṃ prāvṛṇīta sa praivādhanvadyaṃ tṛtīyaṃ prāvṛṇīta sa praivādhanvad atha yo 'yam etarhy agniḥ sa bhīṣā nililye so 'paḥ praviveśa*
 > *(continues on folio v)*
 
-*(Read from the print letter by letter; several words — especially* prādhanvadyaṃ*,* praivādhanvadyaṃ *— are doubtful [?]. Translation, mine and tentative, of the passage, with its end on the next page: "Agni was at first divided in four [ways]. Whom he chose for the Hotṛ's office first, … the second, … the third … then he who is this Agni now, in fear, hid himself; he entered the waters.")*
+*(Read from the print letter by letter; several words — especially* prādhanvadyaṃ*,* praivādhanvadyaṃ *— are doubtful [?]. **GLOSS**)*
 
 ### Page v (PDF 10)
 
@@ -212,7 +212,7 @@
 > *devānāṃ havir lopaniṣighaṛṣaṇāya [?] agneḥ sakāśāt apsu ekato dvitas trita iti trayaḥ puruṣā jajñire | tathā ca taittirīyaiḥ samāmnātaṃ | so 'ṅgārebhyo 'po 'bhyapātayat | tata ekato 'jāyata | sa dvitīyam abhyapātayat | tato dvito 'jāyata | sa tṛtīyam abhyapātayat | tatas trito 'jāyata |*
 > (*Tai. Brā.* 3-2-8-10, confirmed by the reader)
 
-*(Translation, mine and tentative: "From Agni, in the water, three persons were born, Ekata, Dvita and Trita; and so the Taittirīyas have handed down: 'He made [drops] from the embers fall into the waters; thence Ekata was born; he let a second fall; thence Dvita was born; he let a third fall; thence Trita was born.'" The opening clause of the quotation is clotted [?].)*
+*(**GLOSS** The opening clause of the quotation is clotted [?].)*
 
 "The sense of this Brāhmaṇa passage is that Agni, to wipe away the fault of the gods, caused the three persons Ekata, Dvita and Trita to arise in the water. For this reason Trita, in —"
 
@@ -300,7 +300,7 @@
 > *pra saptagur divyaḥ kaṇvahotā trito divaḥ sajoṣā vāto agniḥ |*
 > (*Ṛ. Saṃ.* 5-41-4, confirmed by the reader)
 
-*(The first quotation is clotted and read as given [?]. Gloss, mine and tentative, of the second: "the heavenly, seven-voiced, with Kaṇva as Hotṛ; Trita of heaven, together with the wind and Agni".)*
+*(The first quotation is clotted and read as given [?]. **GLOSS**.)*
 
 "Trita, being in the atmosphere, makes this Agni blaze up, as described in the first; and in the second, Trita, who is in the atmosphere, comes along with the sun and others [as read]: on the basis of such sentences also it can be said that the lightning-fire is known to be a synonym of Trita."
 
@@ -470,14 +470,14 @@ Title block:
 > *dve virūpe sūktam auṣasāgneyam |*
 > (*Bṛ. De.* 3-129 as read [?])
 
-*(Translation, mine and tentative, of the quotation as read: "the sūkta* dve virūpe *is for Uṣas and for Agni".)*
+**GLOSS**
 
 "At the beginning of this sūkta there is a description of night and the dawns, and a series of attendances which serve Agni's nourishment. Without the least rest, by repeated revolution, and by alternation, the world-travel of the nights and dawns, which one by one goes on without a break, is described in a poetic hymn; and it is told with what affection both nourish Agni, the benefactor of the world. One more matter to notice in this Ṛk is, as Skandasvāmin says —"
 
 > उषसा चात्र तत्स्मरणमन्यन्तरभाव्यर्थः क्रम्यते [?]
 > *uṣasā cātra tatsmaraṇam anyantarabhāvyarthaḥ kramyate [?]*
 
-*(The Sanskrit of Skandasvāmin is clotted in the print and is read as given [?]; gloss, mine and tentative from the Kannada: "and here 'by Uṣas' the memory of that [day] is the sense to be understood".)* "— that since in this description the dawn (*uṣas*), which indicates the day, is mentioned, the word 'Uṣas' wherever it is used here means 'day' (*ahas*)."
+*(The Sanskrit of Skandasvāmin is clotted in the print and is read as given [?]; **GLOSS**.)* "— that since in this description the dawn (*uṣas*), which indicates the day, is mentioned, the word 'Uṣas' wherever it is used here means 'day' (*ahas*)."
 
 *(The Special Topics continue on p. 6.)*
 
@@ -505,7 +505,7 @@ Title block:
 > *ruśadvatsā ruśatī śvetyāgād āraigu kṛṣṇā sadanāny asyāḥ |*
 > (*Ṛ. Saṃ.* 1-113-2 as read)
 
-*(The word* āraigu *as printed, doubtful [?]. Gloss, mine and tentative: "the white one has come, shining, with the shining calf; the dark one has left her dwellings".)*
+*(The word* āraigu *as printed, doubtful [?]. **GLOSS**.)*
 
 "As it is used in such a Ṛk, Agni, in the form of the Sun, is well known as the son of Uṣas. And not only that, but —" *(continues on p. 7)*
 
@@ -529,7 +529,7 @@ Title block:
 > *tayor etau vatsau | agniś cādityaś ca | rātrer vatsaḥ | śveta ādityaḥ | ahno 'gniḥ |*
 > (*Tai. Ā.* 1-10 as read)
 
-*(Translation, mine and tentative: "Of these two [the day and the night] these two are the calves: Agni and Āditya; the calf of the night is the white Āditya; [the calf] of the day is Agni". This clearer printing shows that the bhāṣya's clotted words on p. 4 are to be read* tayor etau vatsau *and* ahno 'gniḥ*, not "*śatoretā vatsau*" and "*ahno 'ruṇaḥ*" as I had read them there [?].)*
+*(**GLOSS**. This clearer printing shows that the bhāṣya's clotted words on p. 4 are to be read* tayor etau vatsau *and* ahno 'gniḥ*, not "*śatoretā vatsau*" and "*ahno 'ruṇaḥ*" as I had read them there [?].)*
 
 "And, further, in many places the night and Uṣas, who indicates the day, are said to be sisters:"
 
@@ -714,7 +714,7 @@ Title block:
 > अत्रेतिहासमाचक्षते । सर्वमिदमन्धेन तमसा क्षणेनैवावृतमभवत् । अथ त्वष्टा दिक्ष्वग्निमजनयत् । तस्मिन्नृप्त्यति [?] प्रवर्धमाने आकाशे प्राज्वलन् । तं दिशो द्यावापृथिव्यौ चामृतेन तर्पयित्वा तत्र तत्र विहृतवत्य इति ।
 > *atretihāsam ācakṣate | sarvam idam andhena tamasā kṣaṇenaivāvṛtam abhavat | atha tvaṣṭā dikṣv agnim ajanayat | tasmin nṛptyati [?] pravardhamāne ākāśe prājvalan | taṃ diśo dyāvāpṛthivyau cāmṛtena tarpayitvā tatra tatra vihṛtavatya iti |*
 
-*(Translation, mine and tentative, with the Kannada that follows: "Here they tell a story: all this was covered in a moment by blind darkness; then Tvaṣṭṛ produced Agni in the quarters. As he grew, he blazed in the sky; the quarters, and heaven and earth, having satisfied him with nectar, carried him about here and there." The word* nṛptyati *is doubtful [?].)*
+*(**GLOSS** The word* nṛptyati *is doubtful [?].)*
 
 "In the beginning, by the darkness, the whole world was enveloped, and Tvaṣṭṛ created Agni in the quarters. Since materials for Agni's nourishment were also lacking [?], when he shone in the sky, heaven and earth and the ten quarters satisfied him with nectar: such is the story, in connexion with Agni–Mātariśvan (Ṛ. Saṃ. 1-93-6 as read). Since it suits the context of the story, it is to be understood that Skandasvāmin has indicated that by *tvaṣṭṛ* just Vāyu is to be understood."
 
@@ -802,7 +802,7 @@ Title block:
 > *ṛṣayo gīrbhir arcanti vyañjitaṃ nāmabhis tribhiḥ ‖*
 > (*Bṛ. De.* 1-61; 1-64 as read)
 
-*(Translation, mine and tentative: "Of what is, was and will be, of the moving and the unmoving, some know this [Agni] as the one source and dissolution, the Sun alone. In these beings and worlds, Agni stands threefold; the seers praise him with songs, made manifest by three names." The lines are read as printed; the second half of the first stanza is doubtful [?].)*
+*(**GLOSS** The lines are read as printed; the second half of the first stanza is doubtful [?].)*
 
 "In these verses, in the context of describing the greatness of Agni, the author of the Bṛhaddevatā says that Prajāpati, the womb of all beings, has obtained his existence in three forms, in the form of Agni, in three places, as the source of the creation and dissolution of all moving and unmoving creatures in the past, the future and the present. And that the seers, as said below, speak of this threefold manifestation of Agni by three names, so he praises this very Agni further —"
 
@@ -818,7 +818,7 @@ Title block:
 > *jātavedāḥ stuto madhye stuto vaiśvānaro divi ‖*
 > (*Bṛ. De.* 1-65 to 1-67 as read [?])
 
-*(Translation, mine and tentative: "And him, standing in three places, they worship with the sacrifice, having strewn the sacred grass: here Pavamāna Agni; the middle Agni, Vanaspati; and in that [heavenly] world, by the sages, Agni is called Śuci. Here on earth, being Agni, he is praised by the seers with hymns; Jātavedas is praised in the middle; Vaiśvānara is praised in heaven." The word* hotrāyāṃ *and the numerals are doubtful [?].)*
+*(**GLOSS** The word* hotrāyāṃ *and the numerals are doubtful [?].)*
 
 "Among these three kinds, for Agni who manifests on earth the name *pavamāna*, for the Agni of the middle world the name *vanaspati*, and for the Agni in the heavenly world the name *śuci* are well known. These three varieties are also read in the Taittirīya Saṃhitā (2-2-4 as read) in the division *pavamāna*, *śuci*, *pāvaka*. Besides, the names Agni, Jātavedas and Vaiśvānara too show the three places and three forms. The Nirukta-author also, citing from the Ṛksaṃhitā —"
 
@@ -979,7 +979,7 @@ Title block:
 > योऽयं वत्सस्थानीयः अपत्यभूतस्सन् मातॄः ओषधिवनस्पतयः । अत्र मातर उच्यन्तेऽग्नेर्जनकत्वात् । जनयत वैद्युतात्मना व्यवस्थितः सन् जनयति । स्वधाभिः । स्वधेत्युदकनाम । वृष्टिलक्षणैः उदकैः ।
 > *yo 'yaṃ vatsasthānīyaḥ apatyabhūtas san mātṝḥ oṣadhivanaspatayaḥ | atra mātara ucyante 'gner janakatvāt | janayata vaidyutātmanā vyavasthitaḥ san janayati | svadhābhiḥ | svadhety udakanāma | vṛṣṭilakṣaṇaiḥ udakaiḥ |*
 
-*(Translation, mine and tentative, with the Kannada that follows: "He who is in the place of the calf, being the offspring — 'mothers' are the plants and trees; here they are called mothers because they give birth to Agni. He gives birth (*janayata*), abiding in the lightning-form, he produces. *Svadhābhiḥ*: '*svadhā*' is a name for water, i.e. with waters of the nature of rain.")* "Since Agni arises from the plants and trees, they are mothers to Agni; again, taking the form of lightning, he pours rain and, by *svadhābhiḥ*, that is by the waters of the form of rain, makes his mothers, the plants and trees, arise again: so Skandasvāmin explains the sense."
+**GLOSS** "Since Agni arises from the plants and trees, they are mothers to Agni; again, taking the form of lightning, he pours rain and, by *svadhābhiḥ*, that is by the waters of the form of rain, makes his mothers, the plants and trees, arise again: so Skandasvāmin explains the sense."
 
 > अत्रेदमुक्तं भवति । सत्यपि भौतिकेऽग्नौ परिज्ञाते द्युलोकादिषु तथान्तरिक्षप्रदेशेषु वर्तमानं गूढस्वरूपमग्निं कोऽपि न जानाति । अग्निरूपो वत्सो हि शिशुरेव स्वकीयो मातॄर्जनयति । अल्पप्रकृतिरज्ञो बलहीनो बालकः कथं मातृजनने समर्थः स्यादिति न शङ्कनीयम् । अग्निर्हि न स्वमातॄणामुदरात् साधारणबालका यथा अल्पप्रकृतिरज्ञो निर्बलश्च जज्ञे । तर्हि महान् कविः स्वधावान् सन्नेव उदपद्यतेति ॥
 > *atredam uktaṃ bhavati | satyapi bhautike 'gnau parijñāte dyulokādiṣu tathāntarikṣapradeśeṣu vartamānaṃ gūḍhasvarūpam agniṃ ko 'pi na jānāti | agnirūpo vatso hi śiśur eva svakīyo mātṝr janayati | alpaprakṛtir ajño balahīno bālakaḥ kathaṃ mātṛjanane samarthaḥ syād iti na śaṅkanīyam | agnir hi na svamātṝṇām udarāt sādhāraṇabālakā yathā alpaprakṛtir ajño nirbalaś ca jajñe | tarhi mahān kaviḥ svadhāvān sann eva udapadyateti ‖*
@@ -997,7 +997,7 @@ Title block:
 > बह्वीनामोषधीनां दिशां वा गर्भः अपत्यभूतः अपसामुपस्थात् । आपांसि कर्माणि । तान्युपगम्य यत्र तिष्ठन्ति गो उपसामुपस्थो यज्ञः आहवनीयो वा [?] । तस्मात् महान् कविर्मेधावी स्वधावान् हविरिच्छन् स्वदाय निश्चरति देवान्प्रति निर्गच्छति ।
 > *bahvīnām oṣadhīnāṃ diśāṃ vā garbhaḥ apatyabhūtaḥ apasām upasthāt | āpāṃsi karmāṇi | tāny upagamya yatra tiṣṭhanti go upasām upastho yajñaḥ āhavanīyo vā [?] | tasmāt mahān kavir medhāvī svadhāvān havir icchan svadāya niścarati devān prati nirgacchati |*
 
-*(Translation, mine and tentative, with the Kannada: "The embryo, as offspring, of the many plants or of the quarters, from the lap of the* apas*s;* āpāṃsi *means 'rites'; having approached them where they stand — the sacrifice, or the Āhavanīya [fire] [the words in the middle of the sentence are clotted [?]]; from that [place] the great, wise one, possessed of* svadhā*, desiring the oblation, goes out; he goes out towards the gods.")* "Agni, as the offspring of the plants or of the quarters, being in the forms of the Āhavanīya and the other fires, takes the oblations from the midst of the sacrifice and sets out to go to the neighbourhood of the gods, so he explains. These two meanings both fit the context well. How? For '*bahvīnāṃ garbhaḥ*' —"
+**GLOSS** "Agni, as the offspring of the plants or of the quarters, being in the forms of the Āhavanīya and the other fires, takes the oblations from the midst of the sacrifice and sets out to go to the neighbourhood of the gods, so he explains. These two meanings both fit the context well. How? For '*bahvīnāṃ garbhaḥ*' —"
 
 > गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् ।
 > *garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām |*
@@ -1098,7 +1098,7 @@ Title block:
 > *āvir āvedanāt tyo vardhate cārur āsu cāru caratejihmaṃ jihīter ūrdhva ucchrito bhavati svayaśā ātmayaśā upastha upasthānaṃ ubhe tvaṣṭur bibhyatur jāyamānāt pratīcī siṃhaṃ prati joṣayete | dyāvāpṛthivyāv iti vāhorātre iti vāruṇe iti vāpi caite pratyakte [?] siṃhaṃ sahanaṃ pratyāsevete |*
 > (*Ni.* 8-15)
 
-*(Translation, mine and tentative, with the Kannada: "…the one who takes away (harati) lustre, who acquires, by his own power, a lofty state (*svayaśāḥ*, 'he who has his own glory'); he grows amid the crooked waters. Both — 'fearing Tvaṣṭṛ' [the Kannada continues:] both, afraid, serve him, who is of the nature of the lion, 'heaven and earth', or 'day and night', or 'the two fire-sticks'." The Sanskrit is read as printed, clotted in places [?]. The reading* pratyakte … pratyāsevete *is taken from this clearer printing; on p. 28 the same passage was read* pratyekte … pratyāsenete*.)*
+*(**GLOSS** The Sanskrit is read as printed, clotted in places [?]. The reading* pratyakte … pratyāsevete *is taken from this clearer printing; on p. 28 the same passage was read* pratyekte … pratyāsenete*.)*
 
 "If this is the sense, the Nirukta explains it still more fully."
 
@@ -1382,7 +1382,7 @@ Title block:
 > *vasāno atkaṃ surabhiṃ dṛśe kaṃ svar ṇa nṛtaviṣiro babhūtha |*
 > (*Ṛ. Saṃ.* 6-29-3)
 
-*(Glosses, mine and tentative: "like a barren cow [?], clothed in a covering, fair to see, with the splendour of the sun, with gold"; "clothing yourself in a fragrant covering, a joy to see, you have become [bright] like the sun". The first quotation's* vṛtaṃ *is as printed, where* vyutaṃ *might be expected [?].)*
+*(**GLOSS**. The first quotation's* vṛtaṃ *is as printed, where* vyutaṃ *might be expected [?].)*
 
 "In Ṛks like these, in which the word *atka* is used, Sāyaṇa too has given the explanation '*rūpa*'; only in one place here he says 'sap'. In this context Skandasvāmin's sense seems appropriate. In places such as Ṛ. 5-74-5; 9-69-4 the meaning is 'armour' (*kavaca*), in 6-33-3 'weapon', and in 10-49-3 'the child of a demon' [as read from small print, the first two doubtful [?]]."
 
@@ -1469,7 +1469,7 @@ Title block:
 > अत्रेदमुक्तं भवति । यदा मेघोदकरूपाभिर्गोभिर्युक्तः सन्नग्निर्वैद्युतः स्वकीयमुत्पृष्टतरं तेजस्तेजःपुञ्जपूर्णमन्तरिक्षे प्रादुर्भावयति तदा तत्सर्वमन्तरिक्षं तेन तेजसा प्रमृष्टं भवति यच्च तत्स्वरूपप्रादुर्भावनं तेनैव देवान्तरैः सहाग्नेर्गमनं भवतीति ॥
 > *atredam uktaṃ bhavati | yadā meghodakarūpābhir gobhir yuktaḥ sann agnir vaidyutaḥ svakīyam utpṛṣṭataraṃ tejas tejaḥpuñjapūrṇam antarikṣe prādurbhāvayati tadā tat sarvam antarikṣaṃ tena tejasā pramṛṣṭaṃ bhavati yac ca tatsvarūpaprādurbhāvanaṃ tenaiva devāntaraiḥ sahāgner gamanaṃ bhavatīti ‖*
 
-*(Translation, mine and tentative, with the Kannada that follows: "Here this is said: when, joined with the 'cows' that are the waters of the clouds, Agni, in the form of lightning, makes his own most excellent radiance, full of a mass of light, appear in the atmosphere, then the whole atmosphere is cleansed by that radiance; and the appearance of his own form is the very thing by which Agni's going with the other gods comes about.")* "That is: in the midst of the clouds Agni, in the form of lightning, appearing in the atmosphere with his entire radiance, fills the whole atmosphere with brightness, and shines exceedingly. In this way Agni, having appeared, joins the other deities."
+**GLOSS** "That is: in the midst of the clouds Agni, in the form of lightning, appearing in the atmosphere with his entire radiance, fills the whole atmosphere with brightness, and shines exceedingly. In this way Agni, having appeared, joins the other deities."
 
 "Two kinds of construction are possible, for the first and second halves of this Ṛk. For the first half: first, that Agni, mingled in the atmosphere with the rain-waters, makes his radiance arise in the form of lightning; second, that, joined in the sacrificial house with praises and Soma-juices, he makes his own blazing radiance appear. The first construction is in Sāyaṇa's explanation:"
 
@@ -1491,7 +1491,7 @@ Title block:
 > *gobhir yad īm anye asmann ṛgaṃ na vrā ny agayante [?]*
 > (*Ṛ. Saṃ.* 8-2-6)
 
-*(Translation, mine and tentative, with the Kannada: "'In the place of sacrifice; with the 'cows' and the waters; the word* go *here means praise.' The verse quoted is read as printed and is clotted [?].")* "— that is, '*stutibhiḥ somarasalakṣaṇābhiś cādbhiḥ stūyamānaḥ somena ca hūyamāna ity arthaḥ*': 'praised by songs of praise, by the waters of the nature of Soma-juice, and invoked by Soma': in the sacrificial house, joined with praises and Soma-juices, he makes his own radiance blaze: so it is explained. Here, to support the sense 'praise' for the word *go*, the scriptural sentence above has been cited as an authority."
+**GLOSS** "— that is, '*stutibhiḥ somarasalakṣaṇābhiś cādbhiḥ stūyamānaḥ somena ca hūyamāna ity arthaḥ*': 'praised by songs of praise, by the waters of the nature of Soma-juice, and invoked by Soma': in the sacrificial house, joined with praises and Soma-juices, he makes his own radiance blaze: so it is explained. Here, to support the sense 'praise' for the word *go*, the scriptural sentence above has been cited as an authority."
 
 ***uttaram*** — *utkṛṣṭataram*: "'extremely superior': an epithet of the word *tveṣam*."
 
@@ -1505,7 +1505,7 @@ Title block:
 > बुध्नमन्तरिक्षं । तेजः तमोपनयनेन सर्वतः शोधयति । धीरिति कर्मनाम । सङ्गच्छन्ते देवाः सा समितिः । यत्र यज्ञकर्मणि दीप्तिमात्मनो रूपमग्निः करोति अन्तरिक्षाच्च तमोपनयति तत्रैव देवाः सङ्गच्छन्ते नान्यत्रेत्यर्थः ।
 > *budhnam antarikṣaṃ | tejaḥ tamopanayanena sarvataḥ śodhayati | dhīr iti karmanāma | saṅgacchante devāḥ sā samitiḥ | yatra yajñakarmaṇi dīptim ātmano rūpam agniḥ karoti antarikṣāc ca tamopanayati tatraiva devāḥ saṅgacchante nānyatretyarthaḥ |*
 
-*(Translation, mine and tentative, with the Kannada: "The* budhna *is the atmosphere. By his radiance he purifies it on all sides, by removing the darkness. '*Dhīḥ*' is a name for 'action'. The gods come together: that is the* samiti*. In whatever sacrificial rite Agni makes his own form shining, and removes the darkness from the atmosphere, there the gods gather, and not elsewhere: this is the sense.")* "In the atmosphere Agni destroys the darkness with his radiance; therefore the assembly (*samiti*) of the gods arises there. In whatever sacrificial rite Agni shines, and removes the darkness in the atmosphere, there alone the gathering of the gods assembles. In other places the gods do not assemble indivisibly: such is the sense. According to this explanation the word *devatātā* — read among the fifteen names for 'sacrifice', *yajñaḥ*, *venaḥ* and so on (Ni. 3-19) — though it means 'sacrifice', means here only 'the company of the gods'."
+**GLOSS** "In the atmosphere Agni destroys the darkness with his radiance; therefore the assembly (*samiti*) of the gods arises there. In whatever sacrificial rite Agni shines, and removes the darkness in the atmosphere, there alone the gathering of the gods assembles. In other places the gods do not assemble indivisibly: such is the sense. According to this explanation the word *devatātā* — read among the fifteen names for 'sacrifice', *yajñaḥ*, *venaḥ* and so on (Ni. 3-19) — though it means 'sacrifice', means here only 'the company of the gods'."
 
 ***budhnam*** — *budhnam antarikṣam | baddhā asmin dhṛtā āpa iti vā*: "'the atmosphere is *budhna*; or, because the waters are bound, held, in it': since the waters are held and detained here, the atmosphere is called *budhna* (Ni. 10-46)." *(continues on p. 47)*
 
@@ -1650,7 +1650,7 @@ Title block:
 > *adabdhebhis tava gopābhir iṣṭe 'smākaṃ pāhi triṣadhastha sūrīn |*
 > (*Ṛ. Saṃ.* 6-8-7)
 
-*(Glosses, mine and tentative, of the two: "unceasing, with kindly protections and comforts, protect us, Agni; with unharmed, unassailable, unwinking [protections], protect our offspring on every side"; "with your unharmed guardians, protect our patrons, you who sit in three seats".)* "In such sentences, the firm faith that the protection of Agni so fully wards off the assaults of enemies, and makes it so that there is no harm, is expressed in many places."
+**GLOSS** "In such sentences, the firm faith that the protection of Agni so fully wards off the assaults of enemies, and makes it so that there is no harm, is expressed in many places."
 
 > न तस्य मायया चन रिपुरीशीत मर्त्यः ।
 > *na tasya māyayā cana ripur īśīta martyaḥ |*
@@ -2042,7 +2042,7 @@ Title block:
 > *agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahi śravaḥ ‖*
 > (*Ṛ. Saṃ.* 1-79-4 as read)
 
-*(Glosses, mine and tentative: "the dripper, the ghee-fed, the ancient Hotṛ, the choice one, the wonderful son of strength"; "you, youngest, O son of strength, when invoked, become the guardian of the rite, worthy of sacrifice"; "Agni, lord of the wealth of cows, O child of strength, grant us great glory, Jātavedas". The first verse's first word is printed *drannaḥ* (Kannada script, as read), doubtful [?].)*
+*(**GLOSS**. The first verse's first word is printed *drannaḥ* (Kannada script, as read), doubtful [?].)*
 
 "In these Ṛks the words *sahasaspūtra*, *sahasaḥ sūnu* and *sahaso yaho* are, respectively, used in praising Agni. Therefore, although other deities too can give strength and wealth, it is Agni, particularly, who is presented by the word *draviṇodāḥ*."
 
@@ -2088,7 +2088,7 @@ Title block:
 > *āgneyeṣv eva dṛśyante pravādā draviṇodasaḥ ‖*
 > (*Bṛ. De.* 3-61; 4-62 as read [?])
 
-*(Translation, mine and tentative: "For this Agni is Draviṇodas; he is the giver of strength; and he is born by strength, by the seers in the rite, for the [act of] churning. Agni alone is Draviṇodas, therefore he is so called; and statements about Draviṇodas are seen only in the sūktas addressed to Agni." The words of the second line of the first verse are clotted [?].)*
+*(**GLOSS** The words of the second line of the first verse are clotted [?].)*
 
 "The giver of wealth, the giver of strength, and one born by strength: and for this very reason the praise 'draviṇodāḥ' befits Agni. Therefore the author of the Bṛhaddevatā affirms that this epithet belongs to the deity Agni."
 
@@ -2180,7 +2180,7 @@ Title block:
 > *māṃ devā dadhire havyavāham apamluktaṃ bahu kṛcchrā carantam |*
 > (*Ṛ. Saṃ.* 10-52-4)
 
-*(Glosses, mine and tentative: "day by day you are born, in the months…" [the first quotation is clotted [?]]; "the gods set me, the bearer of oblations, [who had] hidden, wandering in great distress".)* "— other scriptural sentences are also authority."
+*(**GLOSS** [the first quotation is clotted [?]]; **GLOSS**.)* "— other scriptural sentences are also authority."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.1)** *(grammar pages, pp. 70–72, noted briefly; numerals small and doubtful [?])*
 
@@ -2264,14 +2264,14 @@ Title block:
 > *prajāpatir vā idam eka āsīt so 'kāmayata prajāyeyeti bhūyān syām iti sa tapo 'tapyata sa vācam ayacchat sa saṃvatsarasya parastād vyāharad dvādaśakṛtvaḥ prādeśa padā vā eṣā nivid etāṃ vāva tāṃ nividaṃ vyāharat tāṃ sarvāṇi bhūtāny asṛjyanta |*
 > (*Ai. Brā.* 10-1; 10-2)
 
-*(Translation, mine and tentative: "Prajāpati was this [world] alone. He desired, 'May I be born as offspring; may I become more.' He performed austerity; he held back speech; after a year he uttered it twelve times, in span-long steps: this is the* nivid*. He uttered this very* nivid*; by it all beings were created." The print's* prajāyeyeti bhūyān syām *reads as in Kannada* bhūyonyāmiti*, doubtful [?], and* prādeśa padā *is as printed [?].)*
+*(**GLOSS** The print's* prajāyeyeti bhūyān syām *reads as in Kannada* bhūyonyāmiti*, doubtful [?], and* prādeśa padā *is as printed [?].)*
 
 "In the beginning Prajāpati, being alone, wished for the creation of creatures — 'may I be born many' — and for a year practised silence and austerity. Afterwards, having recited twelve times the *nivid* mantras that are contained in twelve great sentences, he created all the beings of the world: so the power of these mantras is shown, and, understanding their secret, Kutsa praised both them and the Ṛk composed by him in this way —"
 
 > तदेतदृषिः पश्यन्नभ्यनूवाच स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनामिति ।
 > *tad etad ṛṣiḥ paśyann abhyanūvāca sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām iti |*
 
-*(Translation, mine and tentative: "Seeing this, the seer chanted after it: 'he, by the ancient* nivid *…'." The two words* kavyatāyoḥ *are as printed in this quotation [?].)*
+*(**GLOSS** The two words* kavyatāyoḥ *are as printed in this quotation [?].)*
 
 "By the power of the *nivid* mantras all the beings of the world were created: Kutsa, grasping this principle, composed this mantra, '*sa pūrvayā*' (Ṛ. Saṃ. 1-96-2)."
 
@@ -2292,7 +2292,7 @@ Title block:
 > *yad dhenuḥ sapty anaḍvāhau voḷhā dogdhry aśur eva vā ‖*
 > (*Bṛ. De.* 3-50)
 
-*(Translation, mine and tentative, with the Kannada: "In the* nivid *to Savitṛ he praises, by deed, the deed itself — [the beasts] the cow, the horse, the two draught-oxen, the bearer, the milker, the swift one." The verse is read as printed, doubtful in several words [?].)*
+*(**GLOSS** The verse is read as printed, doubtful in several words [?].)*
 
 "For example, in the first Ṛk of 1-24-3, the *nivid* mantra addressed to the deity Savitṛ shows the distinctive character of Savitṛ by describing his extraordinary actions. By *dogdhrī* is understood a cow that gives milk; by *āśu* ('swift'), the horse; by *voḷhā*, the draught-ox that bears the load — so they show the distinctive character of these. In the same way the *nivid* mantra of every deity praises, by describing the actions, the qualities that are special to that deity."
 
@@ -2344,7 +2344,7 @@ Title block:
 > *vi yad vācaṃ kīstāso bharante śaṃsanti ke cin nivido manānāḥ |*
 > (*Ṛ. Saṃ.* 6-67-10)
 
-*(Glosses, mine and tentative: "with the first* nivid *we invoke Bhaga, Mitra, Aditi, Dakṣa, the unharmed"; "enjoy the sacrifice, take heed of my call; may the Hotṛ, after the ancient* nivids*, sit"; "what do the* nivid*s tell for him? the waters wish to take up Indra's praise-worthy [deed]"; "when the singers bring forth speech, and some, reflecting, recite* nivid*s". The Ṛgveda numerals are as read from small print, doubtful [?]; the third verse's first words are doubtful [?].)*
+*(**GLOSS**. The Ṛgveda numerals are as read from small print, doubtful [?]; the third verse's first words are doubtful [?].)*
 
 "The greatness of the *nivid* mantras is stated in the Taittirīya Brāhmaṇa (3-5-6) — the *nivid* mantra relating to Agni:"
 
@@ -2386,7 +2386,7 @@ Title block:
 > *yuyopa nābhir uparasyāyoḥ pra pūrvābhis tirate rāṣṭi śūraḥ |*
 > (*Ṛ. Saṃ.* 1-104-4)
 
-*(Glosses, mine and tentative: "[Indra] who has made Āyu's…" — the first is read from clotted print; "do not let the secret enemy, O day, harm the man Āyu; do not hand us over to these evil-doers"; "the navel [?] of the later Āyu is covered; the hero, with the former [ones], overcomes the realm". The second and third are tentative, and the first is not rendered [?].)*
+*(**GLOSS** — the first is read from clotted print; **GLOSS**; **GLOSS**. The second and third are tentative, and the first is not rendered [?].)*
 
 ---
 
@@ -2402,7 +2402,7 @@ Title block:
 > *kutsasyāyor atithigvasya vīrān kṣṛvaṇigbharatā somam asmai |*
 > (*Ṛ. Saṃ.* 2-14-7 as read [?])
 
-*(The print's* kṣṛvaṇigbharatā *is as read from the Kannada and is doubtful [?]; gloss, mine and tentative: "of Kutsa, of Āyu, of Atithigva, the heroes… bring the Soma for him".)*
+*(The print's* kṣṛvaṇigbharatā *is as read from the Kannada and is doubtful [?]; **GLOSS**.)*
 
 "In such places it appears that Kutsa, Atithigva and Āyu were all, in a legendary way, adversaries needed by Indra. In many places also, 'to Āyu, the son of Urvaśī, of the royal seer of the Paururava line' (*paururavasya rājarṣeḥ ūrvaśeyāya āyave*) and 'to Manu' (*manave*) is explained. Therefore the name *āyu*, in various places, indicates different persons; this is clear."
 
@@ -2526,7 +2526,7 @@ Title block:
 > *ṛñjasānaḥ puruvāra ukthair indraṃ kṛṇvīta sadaneṣu hotā |*
 > (*Ṛ. Saṃ.* 4-21-5)
 
-*(Glosses, mine and tentative: "like a chariot among the peoples, being adorned…"; "adorned, the much-desired Hotṛ, with praises, makes Indra [his own] in the houses". The first quotation is clotted in the print and I read it with doubt [?].)* "In these, for the word *ṛñjasānaḥ* in the first, the epithet of Agni, Sāyaṇa gives the meaning 'praised' (*stūyamānaḥ*); and for the word that is an epithet of Indra in the second, '*prasādhyamānaḥ*' — 'Indra who is adorned'."
+*(**GLOSS**. The first quotation is clotted in the print and I read it with doubt [?].)* "In these, for the word *ṛñjasānaḥ* in the first, the epithet of Agni, Sāyaṇa gives the meaning 'praised' (*stūyamānaḥ*); and for the word that is an epithet of Indra in the second, '*prasādhyamānaḥ*' — 'Indra who is adorned'."
 
 ***ūrjaḥ putram*** — "The word *ūrj* is read among the names of food. *Bhuktenānnena jaṭharāgner vardhanād agner annaputratvaṃ*: since Agni is increased as the digestive fire by the food that is eaten, Agni is well known as the 'son of food'. Or, as Skandasvāmin explains: '*ūrjaśabdenātra annakāraṇatvād vṛṣṭilakṣaṇam udakam ucyate | tato hy oṣadhivanaspatayo jāyante oṣadhivanaspatibhya eṣa jāyate*': 'by the word *ūrj* here is meant water, the rain, since it is the cause of food; for from it the plants and trees are born, and from the plants and trees [Agni] is born': so Agni is born from water; and the sense that by succession he is the son of waters may also be taken. But the explanation of Sāyaṇa, that it is the digestive fire, is the natural one."
 
@@ -2536,7 +2536,7 @@ Title block:
 > *asadyā barhir bharatasya sūnavaḥ protrād ā somaṃ pibatā divo naraḥ |*
 > (*Ṛ. Saṃ.* 2-36)
 
-*(Gloss, mine and tentative: "sit on the sacred grass, sons of Bharata; from the* potṛ *cup drink the Soma, men of heaven". The print has* prota *for the usual* potrād *[?].)* *(continues on p. 83)*
+*(**GLOSS**. The print has* prota *for the usual* potrād *[?].)* *(continues on p. 83)*
 
 ### Page 83 (PDF 103)
 
@@ -2550,7 +2550,7 @@ Title block:
 > *napātā śavaso mahaḥ sūnū dakṣasya sukratū | sṛprādānū iṣo vāstv adhi kṣitaḥ |*
 > (*Ṛ. Saṃ.* 8-25-5)
 
-*(Gloss, mine and tentative: "the two grandsons of great strength, sons of skill, of good understanding, givers of abundant gifts, dwellers on the abode of food". In this Ṛk it is an epithet of Mitra and Varuṇa.)*
+*(**GLOSS**. In this Ṛk it is an epithet of Mitra and Varuṇa.)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.3)** *(grammar pages, pp. 83–84, noted briefly; numerals small and doubtful [?])*
 
@@ -2993,7 +2993,7 @@ Title block:
 > *nū cid dhi parimamnāthe asmān nā vāṃ śaśvadbhir vavṛtīya vājaiḥ |*
 > (*Ṛ. Saṃ.* 7-93-6)
 
-*(Glosses, mine and tentative: "never does that man come to harm, who attends upon his [the god's] terrible mind"; "you two do not neglect us at all; let me turn you hither with constant strengthening offerings". The two quotations are read from small, partly clotted print [?].)* "In all these, *nū cit* means 'not at all', that is a prohibition or negation."
+*(**GLOSS**. The two quotations are read from small, partly clotted print [?].)* "In all these, *nū cit* means 'not at all', that is a prohibition or negation."
 
 ***kṣām*** — *kṣiyater nivāsakarmaṇaḥ* (Ni. 2-6): "from the root *kṣi*, which gives the sense of 'dwelling' this form is derived: 'the place of dwelling'."
 
@@ -3199,7 +3199,7 @@ Title block:
 > *vaṣaṭkāreṇa vṛkleṣu bhrātṛṣv agniḥ sahaḥsute ‖*
 > (*Bṛ. De.* 7-61)
 
-*(Translation, mine and tentative, with the doubtful words [?]: "when [the oblation] was offered to Vaiśvānara, the lord of the house, and Agni, and Pāvaka, with the* vaṣaṭ *call, among the brothers, Agni the son of strength.")* "— in the Ṛksaṃhitā, in the telling of the story of the brothers of Agni, described on the basis of the 59th sūkta of the 1st maṇḍala, their names are also given. But in the present context there is no connexion between the word *pāvaka* and that story. Here *pāvaka* means 'one who purifies all'. By this excellent quality, the prayer is made that Mitra and the other deities may make the food produced by Agni worthy of worship."
+**GLOSS** "— in the Ṛksaṃhitā, in the telling of the story of the brothers of Agni, described on the basis of the 59th sūkta of the 1st maṇḍala, their names are also given. But in the present context there is no connexion between the word *pāvaka* and that story. Here *pāvaka* means 'one who purifies all'. By this excellent quality, the prayer is made that Mitra and the other deities may make the food produced by Agni worthy of worship."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.9)** *(grammar page, noted briefly)*
 
@@ -3303,13 +3303,13 @@ Title block:
 > अत्र छन्दोगब्राह्मणादीतिहासमाचक्षते । कुत्सश्च लुशश्च इन्द्रं वृष्णयेषाम् । स इन्द्रः कुत्समुपावर्तत शतं शकेन वाद्रिभिरण्डयोरबध्नादिति । तदेतल्लुश इन्द्ररूपधामापन्नो वस्कृतीति ।
 > *atra chandogabrāhmaṇād itihāsam ācakṣate | kutsaś ca luśaś ca indraṃ vṛṣṇayeṣām | sa indraḥ kutsam upāvartata śataṃ śakena vādribhir aṇḍayor abadhnād iti | tad etal luśa indrarūpadhām āpanno vaskṛtīti |*
 
-*(Translation, mine and tentative, of Skandasvāmin's story as the Kannada gives it: "Here they tell a story from the Chāndogya[?]-brāhmaṇa: Kutsa and Luśa [were rivals about Indra]; that Indra approached Kutsa; [and] bound his [the other's] testicles with a hundred stones [?]; thereupon Luśa, having taken Indra's form, …". The Sanskrit is clotted in the print and is read as given, doubtful throughout [?].)*
+*(**GLOSS**. The Sanskrit is clotted in the print and is read as given, doubtful throughout [?].)*
 
 > प्र मुञ्चस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसते ।
 > *pra muñcasva pari kutsād ihā gahi kim u tvāvān muṣkayor baddha āsate |*
 > (*Ṛ. Saṃ.* 10-38-5)
 
-*(Gloss, mine and tentative: "let [him] go; come here from Kutsa; why does one like you sit bound by the testicles?" — the print's words, read with doubt [?].)* *(continues on p. 114)*
+*(**GLOSS** — the print's words, read with doubt [?].)* *(continues on p. 114)*
 
 ---
 
@@ -3350,7 +3350,7 @@ Title block:
 > *prāketad vocad yaṃ bhavyāyendave havyo na yu iṣavān manmarejati rakṣohā manma rejati |*
 > (*Ṛ. Saṃ.* 1-129-6)
 
-*(The verse is read from small print and is doubtful in several words [?]; gloss, mine and tentative: "…the one who shakes the intent of the foe, the slayer of demons, shakes the intent".)* "— by quoting the repetition in such a Ṛk he shows it. In just the same way, in this instance too, in the repetition *apa naḥ śośucad agham*, a fervent attachment to the removal of sin is shown. This is the peculiarity of the seer Kutsa."
+*(The verse is read from small print and is doubtful in several words [?]; **GLOSS**.)* "— by quoting the repetition in such a Ṛk he shows it. In just the same way, in this instance too, in the repetition *apa naḥ śośucad agham*, a fervent attachment to the removal of sin is shown. This is the peculiarity of the seer Kutsa."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.1)** *(grammar pages, pp. 115–116, noted briefly; numerals small and doubtful [?])*
 
@@ -3533,7 +3533,7 @@ Title block:
 > *muhyantv anye abhito janāsa ihāsmākaṃ maghavā sūrir astu |*
 > (*Ṛ. Saṃ.* 10-81-6)
 
-*(Glosses, mine and tentative: "the man who [has] swift horses and chariots for me, the lord"; "may Indra be for the praiser, the lord, the giver of wealth that all desire"; "let the other folk around be bewildered; here may our bounteous one be the lord". The numerals and several words are read from small print [?].)* "— in contexts such as these, this epithet is used with reference to deities who are lords and who set [men] on the good path, and describes the qualities of Indra and others."
+*(**GLOSS**. The numerals and several words are read from small print [?].)* "— in contexts such as these, this epithet is used with reference to deities who are lords and who set [men] on the good path, and describes the qualities of Indra and others."
 
 > आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ।
 > *ād asya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathād īṣate vayaḥ |*
@@ -3561,7 +3561,7 @@ Title block:
 > *vaha kutsam indra yasmiñ cākan syūmanyū ṛjrā vātasyāśvā |*
 > (*Ṛ. Saṃ.* 1-174-5)
 
-*(Gloss, mine and tentative: "bring Kutsa, Indra, in whom you delight, with the two swift horses of the wind, the strong-minded". The print's* syūmanyū *is read as given [?].)* "In passages such as these it is told that Indra longed to listen to the praise composed by Kutsa; so the very great distinction of his work is known by the scriptural sentences themselves."
+*(**GLOSS**. The print's* syūmanyū *is read as given [?].)* "In passages such as these it is told that Indra longed to listen to the praise composed by Kutsa; so the very great distinction of his work is known by the scriptural sentences themselves."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 5.3)** *(grammar page, noted briefly; numerals small and doubtful [?])*
 
@@ -3697,7 +3697,7 @@ Title block:
 > *agniṃ vo vṛdhantam adhvarāṇāṃ purūtamam | acchā naptre sahasvate ‖*
 > (*Ṛ. Saṃ.* 8-102-7 as read [?])
 
-*(Glosses, mine and tentative: "for you, the great one, strong, mighty, waking at dawn: may this praise be for Agni, the herd-lord"; "so do that, hastened by us, Agni, strong in your own law; with strength repel the foes, O mighty one"; "to Agni, growing, the most abundant of the rites; to the grandson, the mighty". The numerals and several words are read from small print [?].)* "In many such places the nature of Agni is described as the one who has the power to confront and overcome enemies."
+*(**GLOSS**. The numerals and several words are read from small print [?].)* "In many such places the nature of Agni is described as the one who has the power to confront and overcome enemies."
 
 ***viśvato yanti bhānavaḥ*** — "the shining flames of Agni spread out to all regions and pervade —"
 
@@ -3920,7 +3920,7 @@ Title block:
 > *ṛtasya mitrāvaruṇā pathā vām apo na nāvā duritā tarema |*
 > (*Ṛ. Saṃ.* 7-65-2)
 
-*(Glosses, mine and tentative: "may Agni carry us across all difficulties, as a boat across a river, across dangers"; "may he carry us across all enemies, as by a boat, the one of good will"; "thus praising the greatness of the great one, may we cross over dangers as over waters by a boat"; "by the path of order, Mitra and Varuṇa, may we cross over dangers by you, as over water by a boat". Numerals read from small print, doubtful [?].)*
+*(**GLOSS**. Numerals read from small print, doubtful [?].)*
 
 "In many such places the comparison of the deities' help to a boat, which carries across a river that is deep and has strong currents, is most apt. In the present context, since sin is of the nature of an enemy, it is prayed that Agni should make Kutsa fit for his protection by destroying sin, and that Agni's boat-like favour and help are altogether necessary."
 
@@ -4117,7 +4117,7 @@ Title block:
 > *na ca punar ātmanātmā saṃyatate naivānyaḥ saṃyatate ita imām ādadhāty amuto 'muṣya raśmayaḥ prādurbhavantīto 'syārciṣas tayor bhāsoḥ saṃsaṅgaṃ dṛṣṭvaivam avakṣyat ‖*
 > (*Ni.* 7-23 as read [?])
 
-*(Translation, mine and tentative: "Then he says: 'Born from here, he surveys all this; Vaiśvānara vies with the sun'; and one thing does not unite with itself, nor does another unite [with it]: from here he places this [fire]; from yonder the rays of that [sun] appear; from here the flame of this; seeing the junction of their lights, he said so." The sentences are read as given, with clotted words [?].)*
+*(**GLOSS** The sentences are read as given, with clotted words [?].)*
 
 "The sentence of the Saṃhitā — that Vaiśvānara spreads himself widely and unites with the sun — supports this argument. That Vaiśvānara should of himself spread and unite with himself is impossible: it is natural to say that one thing, extending, unites with another. After the sacrificer has kindled Agni on the earth, its rays spread to the upper world and appear there also; seeing the union of the rays of Āditya, who pervades the atmospheric world, with these, it is described that '*yatate sūryeṇa*'" *(continues on p. 140)*
 
@@ -4131,7 +4131,7 @@ Title block:
 > *atha yāny etāny ātmikāni sūktāni bhāgāni vā sāvitrāṇi vā saurāṇi vā pauṣṇāni vā vaiṣṇavāni vā vaiśvadevyāni vā teṣu vaiśvānarīyāḥ pravādā abhaviṣyann ādityakarmaṇā jainam astoṣyann iti devedety astameṣīti visarkeṣīti |*
 > (no reference is printed here)
 
-*(Read from the print, doubtful in several words [?]. Translation, mine and tentative, with the Kannada: "And in the sūktas of the self [?], or the parts, or those to Savitṛ, Sūrya, Pūṣan, Viṣṇu, the Viśve-devāḥ, statements about Vaiśvānara would have occurred; he would have been praised by the act of Āditya, as the one who rises, who sets, who goes round.")* "If Vaiśvānara were the sun himself, then the nature and action of such deities of the atmosphere as Savitṛ, Pūṣan, Viṣṇu and the Viśve-devāḥ would also have had to be spoken of in him in the spiritual sense; and he would have had to be spoken of as 'rising', 'setting', 'going round'. But here there are only descriptions relating to Agni as deity; so it is clearly known that this Vaiśvānara is a synonym of the earthly Agni. From these and other grounds —"
+*(Read from the print, doubtful in several words [?]. **GLOSS**)* "If Vaiśvānara were the sun himself, then the nature and action of such deities of the atmosphere as Savitṛ, Pūṣan, Viṣṇu and the Viśve-devāḥ would also have had to be spoken of in him in the spiritual sense; and he would have had to be spoken of as 'rising', 'setting', 'going round'. But here there are only descriptions relating to Agni as deity; so it is clearly known that this Vaiśvānara is a synonym of the earthly Agni. From these and other grounds —"
 
 > यस्तु सूक्तं भजते यस्मै हविर्निरूप्यते तेयमेव सोऽग्निर्वैश्वानरः ।
 > *yas tu sūktaṃ bhajate yasmai havir nirūpyate teyam eva so 'gnir vaiśvānaraḥ |*
@@ -4257,7 +4257,7 @@ Title block:
 > *virāṇ mitrāvaruṇayor abhiśrīr indrasya triṣṭub iha bhāgo ahnaḥ |*
 > (*Ṛ. Saṃ.* 10-130-5)
 
-*(Glosses on these four citations, mine and tentative: "Those two great ones, the* abhiśrī*, golden, the* vakvarī*, take their seat on the sacred grass"; "the buttery one, the* abhiśrī *of the worlds, the broad and wide ones, the two who yield honey, the shapely"; "Be pleased with the ancient, praiseworthy* hotṛ*, Agni, wise in will, the* abhiśrī *of sacrifices"; "the* virāj *is the* abhiśrī *of Mitra and Varuṇa, the* triṣṭubh *is Indra's share of the day here".)*
+**GLOSS**
 
 "In all these contexts, as the epithet *abhiśrī* carries the sense of one fit to be saluted and fit to be praised, so here too the greatness of Vaiśvānara as the worshipful refuge is shown.
 
@@ -4366,7 +4366,7 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 > *vi yo vīrutsu rodhan mahitvota prajā uta prasūṣv antaḥ |*
 > (*Ṛ. Saṃ.* 1-67-9?]7-9 as read [?])
 
-*(Glosses, mine and tentative: "Your splendour, O worshipful one, that is in heaven, on earth, in plants and waters, with which you have spread the wide mid-air — that bright, flood-like, man-beholding ray"; "Like rays in the sun, the firm [flames] have set riches in Vaiśvānara, … who is in mountains, in plants, in waters, among men — of him [you are] king"; "who by his greatness spreads [or: stays] in the plants, in creatures, and in the offspring-bearing…". The second and third are broken in the print and the glosses are only a rough guess.)*
+*(**GLOSS**. The second and third are broken in the print and the glosses are only a rough guess.)*
 
 "As in many places of the Ṛksaṃhitā such praise is given, so in the Śatapatha and the other Brāhmaṇas too there is, in many places, praise of this kind of the Vaiśvānara fire."
 
@@ -4698,7 +4698,7 @@ Grammar pages, noted briefly. They treat: *astu* (root *as bhuvi*, *adādi*; *lo
 > *vidyate sarvabhūtair hi yadvā jātaḥ punaḥ punaḥ | tenaiṣa madhyabhāgendro jātavedā iti stutaḥ ‖*
 > (*Bṛ. De.* 2-31)
 
-*(Gloss, mine and tentative, the first verse being doubtful: "He knows [all] beings; for this he is called Jātavedas; and because he, being born, has [become] the knowing one, or [has] the wealth [of what is] born…"; second: "For he is found among all beings, or because he is born again and again; therefore he, who has the middle share, is praised as Jātavedas, like Indra".)*
+*(**GLOSS**; second: **GLOSS**.)*
 
 "Because on being born he knows everything; or because knowledge has been born in him; or because on being born he comes to possess all wealth; or because at every birth he is known by all beings; and because he, like Indra of the middle world, is praised as Jātavedas — so the Bṛhaddevatā gives the derivation. In the same way in the Śatapatha Brāhmaṇa also —"
 
@@ -4758,7 +4758,7 @@ Grammar pages, noted briefly. They treat: *astu* (root *as bhuvi*, *adādi*; *lo
 > *yo no arātiṃ samidhāna cakre nīcā taṃ dhakṣyatasaṃ [as printed] na śuṣkam |*
 > (*Ṛ. Saṃ.* 4-4-4)
 
-*(Glosses, mine and tentative, the printed words being uncertain: "Let not the foes have mastery over us, over the god or the mortal"; "for the evil-doers are the many dwellers [of the earth]; burn the foes who stand against [us]"; "He who, O kindled one, has made [himself] our foe, burn him low, like dry [wood]".)*
+**GLOSS**
 
 "— as in these and many other places prayer is made to be protected from enemies, so here too Agni is prayed to.
 
@@ -4940,7 +4940,7 @@ The word *vṛṣan* is used in many places in the sense of *pumān*, 'a male, c
 > *vi carmaṇeva dhiṣaṇe avartayad vaiśvānaro viśvam adhatta vṛṣṇyam |*
 > (*Ṛ. Saṃ.* 6-8-3)
 
-*(Glosses, mine and tentative: "Grow, and may your manly strength come together from every side, O Soma"; "You are great, O buffalo, with your powers, winning wealth, O fierce one, overcoming others"; "As if [rolling out] a hide, he spread the two worlds apart; Vaiśvānara took all manly power". The others are not glossed where the print is doubtful.)*
+*(**GLOSS**. The others are not glossed where the print is doubtful.)*
 
 "In these and many other passages the sense of *vīrya* and *parākrama* is the common one for *vṛṣṇya*. Besides this, in many contexts the word *vṛṣan* is used as a synonym of Indra and the other deities —"
 
@@ -5528,7 +5528,7 @@ Here, since we need to know what relation Indra has with the Aṅgirases, how it
 > *vīḷau satīr abhi dhīrā atṛndan prācāhinvan manasā sapta viprāḥ | viśvām avindan pathyām ṛtasya prajānann ittā namasā viveśa | vidad yadī saramā rugṇam adrer mahi pāthaḥ pūrvyaṃ sadhryak kaḥ | agraṃ nayat supady akṣarāṇām acchā ravaṃ prathamā jānatī gāt | agacchad u vipratamaḥ sakhīyann asūdayat sukṛte garbham adriḥ | sasāna maryo yuvabhir makhasyann athābhavad aṅgirāḥ sadyo arcan |*
 > (*Ṛ. Saṃ.* 3-31-5 to 6 as read [?]; the print divides the lines somewhat differently, and the second and third lines are clotted in places [?])
 
-*(Gloss, mine and tentative and only in outline: "The wise seven seers pierced the firm [places], they impelled [it] forward with the mind; they found the whole path of the Law; knowing it, he entered with homage. When Saramā found the cleft of the rock, she made the great ancient way her own; she led the way of the syllables, first knowing, she went toward the sound. The wisest came, wishing friendship; the rock gave up its embryo for the good-doer. The mortal won it with the youths, [wishing for] the sacrifice, and then he became Aṅgiras, honouring at once.")*
+**GLOSS**
 
 "In the story thus described, Indra went to develop friendship with the Aṅgirases; then their friendship grew; and afterwards Indra too, becoming the chief among the Aṅgirases, when fighting" *(the sentence continues on p. 190)*
 
@@ -6035,7 +6035,7 @@ The grammar of Rik 100.7 concludes: *trām* (*ā* for *e* by *ādeca upadeśe '�
 > पुनर्जघानेन्द्र इति पुराभिः कीर्त्येते ऋषिः [?] ॥
 > *vṛtraṃ pūrvaṃ nihatyendro dvitīyaṃ śuṣṇasaṃjñakam [?] | punar jaghānendra iti purābhiḥ kīrtyete ṛṣiḥ [?] ‖*
 
-*(Gloss, mine and tentative, the print being doubtful: "Mighty Indra struck down the weapon thrown by Vṛtra with his power; [and] the other great Asura who appeared from Vṛtra's body; after first killing Vṛtra, Indra again struck down the second one, named Śuṣṇa" — so it is told.)*
+*(**GLOSS** — so it is told.)*
 
 "— in commenting on the above Ṛk, Sāyaṇa has given these verses by way of introduction (*upodghāta*). In the same way, when it is said that Indra released the sun that the Asuras were holding fast, and gave light to the worlds which had been covered by darkness —
 
@@ -6835,7 +6835,7 @@ Thus, not only in bodily power but in the power of the Self also, Indra is the m
 > *yasya dvibarhaso bṛhat saho dādhāra rodasī | girīm̐r ajrām̐ apaḥ svar vṛṣatvanā |*
 > (*Ṛ. Saṃ.* 8-15-2)
 
-*(Gloss, mine and tentative, the second quotation: "Whose great might, of double strength, upheld the two worlds, the mountains, the plains, the waters, [and] the heaven, by his manliness".)*
+**GLOSS**
 
 *(The passage continues on the next page.)*
 
@@ -18391,7 +18391,7 @@ In this construction both praise and the antarikṣa are brought into relation: 
 > *udvatsvasmā ākṛṇvotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ |*
 > *agohyasya yad asastanā gṛhe tad adyedam ṛbhavo nānu gacchatha |*
 > (*Ṛ.* 1-161-11 as read [?])
-> *(Sanskrit as read from the print; I have not corrected it from memory. Gloss, mine and tentative: "…you, O Ṛbhus, who lay in the house of the one who is not hidden [Agohya, the sun], today you do not follow that…" — not reliable.)*
+> *(Sanskrit as read from the print; I have not corrected it from memory. **GLOSS** — not reliable.)*
 
 In this Ṛk, the Ṛbhus, abiding in the dwelling-place of Agohya, the sun, make the crops grow as [well as] the waters flow — they perform [such] works for the good of the world; and, as they perform such works, [the poet] offers praise with gratitude. The Nirukta-writer has cited this Ṛk to explain the identity of the Ṛbhus with the sun's rays. In the Ṛk before us too, saying the same thing, he praises their greatness: that by such good works they obtained the best place, [and] that by sacrifices and other works they obtained food of the nature of Soma, belonging to the antarikṣa world. *(the passage runs across the foot of p. 685 to the head of p. 686 and ends there)*
 
@@ -18767,7 +18767,7 @@ Even though the Ṛbhus are mentioned only secondarily, the pre-eminence here is
 > इहोप यात शवसो नपात इति तृतीयसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धास्ता ऐन्द्रार्भवो भवन्ति ।
 > *ihopa yāta śavaso napāta iti tṛtīyasavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīr madvatī rūpasamṛddhās tā aindrārbhavo bhavanti |*
 > (*Ai. Brā.* 3-[?] as read [?])
-> *(Sanskrit as read; the last clause is doubtful [?]. Gloss, mine and tentative: "…at the third pressing he recites [the verse] 'Come hither, O sons of strength' over the [cups] being carried up: 'rich in bulls, rich in drinks, rich in pressed [Soma], rich in exhilaration, abounding in form' — these are of Indra and the Ṛbhus.")*
+> *(Sanskrit as read; the last clause is doubtful [?]. **GLOSS**)*
 
 > इहोप यात शवसो नपातः सौधन्वना ऋभवो माप भूत ।
 > अस्मिन्हि वः सवने रत्नधेयं गमन्निन्द्रमनु वो मदासः ।
@@ -18900,7 +18900,7 @@ Here the Ṛbhus' skill in art, their devotion to their parents, and their discr
 > *ye aśvinā ye pitarā ya ūtī dhenuṃ tatakṣur ṛbhavo ye aśvā |*
 > *ye aṃsatrā ya ṛdhag rodasī ye vibhvo naraḥ svapatyāni cakruḥ |*
 > (*Ṛ.* 4-34-9 as read [?])
-> "Those Ṛbhus who [made] the Aśvins, who the parents, who for help carved the cow, who the horses; who the shoulder-guards, who apart the two worlds, who [as] Vibhvan the men did fine works" *(mine and tentative; the gloss is rough and uncertain)*
+> **GLOSS** *(mine and tentative; the gloss is rough and uncertain)*
 
 In places such as this, the qualities described are set out again here.
 
@@ -19969,7 +19969,7 @@ In this Ṛk, [as with the epithet *dvimātā*,] the epithet *dvibandhu* is used
 > देवा वै सोमस्य राज्ञोऽग्रपेये न समपादयन्नहं प्रथमः पिबेयमहं प्रथमः पिबेयमित्येवाकामयन्त तेऽब्रुवन्हन्ताजिमयाम स यो न उज्जेष्यति स प्रथमः सोमस्य पास्यतीति तथेति त आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेन्द्रोऽथ मित्रावरुणावथाश्विनौ इति ।
 > *devā vai somasya rājño 'grapeye na samapādayann ahaṃ prathamaḥ pibeyam ahaṃ prathamaḥ pibeyam ity evākāmayanta te 'bruvan hantājim ayāma sa yo na ujjeṣyati sa prathamaḥ somasya pāsyatīti tatheti ta ājim ayus teṣām ājiṃ yatām abhisṛṣṭānāṃ vāyur mukhaṃ prathamaḥ pratyapadyatātheindro 'tha mitrāvaruṇāv athāśvinau iti |*
 > (*Ai. Brā.* 2-251 as read [?])
-> *(Sanskrit as read from the print; I have not corrected it from memory. Gloss, mine and tentative: "The gods, at the first drinking of King Soma, did not agree: each wished, 'let me drink first.' They said: 'Come, let us run a race; whoever of us wins shall drink Soma first.' They agreed; they ran the race. When they had run, Vāyu reached the front first, then Indra, then Mitra and Varuṇa, then the Aśvins.")*
+> *(Sanskrit as read from the print; I have not corrected it from memory. **GLOSS**)*
 
 In the olden time, when Soma was being drunk, a quarrel arose as to who should drink the Soma-juice first, each one wanting to be first; and when, to settle that, they all agreed to run a race and said that whoever won should drink the Soma first, and all ran *(the passage runs on to p. 742)*
 
@@ -20102,7 +20102,7 @@ O Aśvin deities! With whichever of your protections you lifted up, in the atmos
 > *aśvaṃ na gūḷham aśvinā durevair ṛṣiṃ narā vṛṣaṇā rebham apsu |*
 > *saṃ taṃ riṇītho viprutaṃ daṃsobhir na vāṃ jūryanti pūrvyā kṛtāni |*
 > (*Ṛ.* 1-117-4 as read [?])
-> *(Sanskrit as read; the first line is doubtful in places [?]. Gloss, mine and tentative: "O Aśvins, bold men, the ṛṣi Rebha, hidden in the waters like a [lost] horse by the evil-doers; with your deeds you set him free; your ancient works do not grow old.")*
+> *(Sanskrit as read; the first line is doubtful in places [?]. **GLOSS**)*
 
 In Ṛks such as these the ṛṣi Kakṣīvān too, praising the Aśvin deities, tells of the help they gave to Rebha, how they lifted him up from the well and, by their healing arts, cured the wounds he had received; and he says that no one can ever forget benefactions of this kind. Ghoṣā, the *brahmavādinī* who was Kakṣīvān's daughter, has told the same *itihāsa* too, in the Ṛk
 
@@ -20216,7 +20216,7 @@ In many Ṛks such as these (*Ṛ.* 8-5-23, 8-5-25 as read [?]) it is likewise t
 > चित्रामाहं वृणे सुमतिं विश्वजन्यां यामस्य कण्वो अदुहत्प्रपीनां सहस्रधारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्मै सहस्रधारा सर्वान्कामान्दुदुहे ।
 > *citrām āhaṃ vṛṇe sumatiṃ viśvajanyāṃ yām asya kaṇvo aduhat prapīnāṃ sahasradhārāṃ payasā mahīṃ gām iti kaṇvo hainām dadarśa sā hāsmai sahasradhārā sarvān kāmān duduhe |*
 > (*Śa. Brā.* 4-3-3-38 as read [?])
-> *(Sanskrit as read from the print; I have not corrected it from memory. Gloss, mine and tentative: "'I choose the wondrous, well-minded [cow] belonging to all folk, whom Kaṇva milked for him, the fat one, the great cow of a thousand streams of milk': Kaṇva saw her, and she, with her thousand streams, yielded him all his desires.")*
+> *(Sanskrit as read from the print; I have not corrected it from memory. **GLOSS**)*
 
 "Kaṇva saw the cow with a thousand streams, delightful to all and worthy of worship; and when he called her she fulfilled all his desires: this is also stated in the Vājasaneyi Saṃhitā" *(the passage runs on to p. 749)*
 
@@ -20360,7 +20360,7 @@ A king named Bhujyu, when he was travelling over the sea, had his ship wrecked i
 > *tisraḥ kṣapas trir ahātivrajadbhir nāsatyā bhujyum ūhathuḥ pataṃgaiḥ |*
 > *samudrasya dhanvann ārdrasya pāre tribhī rathaiḥ śatapadbhiḥ ṣaḷaśvaiḥ ‖*
 > (*Ṛ.* 1-116-3 to 4 as read [?])
-> *(Sanskrit as read from the print; the first line is doubtful in places [?]. Gloss, mine and tentative: "Tugra, [to win] wealth… sent Bhujyu to the waters; you carried him, with self-possessed ships that fly through the air, free from water; three nights, three days, O Nāsatyas, you carried Bhujyu with flying [horses/ships], across the dry [shore] of the wet ocean, with three chariots of a hundred feet and six horses.")*
+> *(Sanskrit as read from the print; the first line is doubtful in places [?]. **GLOSS**)*
 
 "The royal sage named Tugra, who was dear to the Aśvin deities, sent his own son Bhujyu, in order to conquer his enemies, to far-off islands [*dvīpāntara*] — while he was giving them gifts [?]. Then the ship was wrecked in mid-sea." And in that context he tells of the help the Aśvin deities gave. In the same way, in Ṛks such as 1-116-3 to 6 [?], 1-117-14, 1-118-6, 6-62-6 [?] and 7-68-7 [?] (the numerals are as read, all doubtful), the matter of Bhujyu is told and the Aśvin deities who gave help in time of distress are praised. *(A note in the print: "The name of a teacher called Bhujyu, a contemporary of Yājñavalkya and descended from Lāhya, is also mentioned in the Bṛhadāraṇyaka. This must be a different person.")*
 
@@ -20494,7 +20494,7 @@ The asuras threw the ṛṣi Atri into a pit of fire; he prayed to the Aśvin de
 > *himenāgniṃ ghraṃsam avārayethāṃ pitumatīm ūrjam asmā adhattam |*
 > *ṛbīse atrim aśvināvanītam unninyathuḥ sarvagaṇaṃ svasti ‖*
 > (*Ṛ.* 1-116-8 as read [?])
-> "With cold you warded off the fire's heat; you gave him strength rich in food; Atri, led down into the pit, O Aśvins, you drew up, with his whole company, in welfare." *(mine and tentative; the third word is doubtful [?])*
+> **GLOSS** *(mine and tentative; the third word is doubtful [?])*
 
 > युवमत्रयेऽवनीताय तप्तमूर्जमोमानमश्विनावधत्तम् ।
 > *yuvam atraye 'vanītāya taptam ūrjam omānam aśvināv adhattam |*
@@ -20530,7 +20530,7 @@ Purukutsa, being without a son, performed austerity out of desire for a son, and
 > पुरुकुत्सो दौर्गहेणेज ऐक्ष्वाको राजा ।
 > *purukutso daurgaheṇeja aikṣvāko rājā |*
 > (*Śa. Brā.* 13-54-5 as read [?])
-> *(Sanskrit as read from the print; the numerals are doubtful [?]. Gloss, mine and tentative: "Purukutsa, the Aikṣvāka king, sacrificed [as] the son of Durgaha.")*
+> *(Sanskrit as read from the print; the numerals are doubtful [?]. **GLOSS**)*
 
 *(this passage runs on to p. 759)*
 
@@ -20571,7 +20571,7 @@ In this Ṛk Purukutsa is also called the king of the people called Pūru, and i
 > *purukutsānī hi vām adāśad dhavyebhir indrāvaruṇā namobhiḥ |*
 > *athā rājānaṃ trasadasyum asyā vṛtrahaṇaṃ dadathur ardhadevam ‖*
 > (*Ṛ.* 42-9 as read [?])
-> *(Sanskrit as read; the first word and numerals are doubtful [?]. Gloss, mine and tentative: "Purukutsa's wife [*purukutsānī*] has honoured you two, O Indra and Varuṇa, with oblations and with homage; and so you gave her the king Trasadasyu, a Vṛtra-slayer, half-divine.")*
+> *(Sanskrit as read; the first word and numerals are doubtful [?]. **GLOSS**)*
 
 In this [Ṛk] it is said that when Purukutsa's wife pleased Indra and Varuṇa with oblations and praises, they showed her such favour as to bring about her getting a son named Trasadasyu. On this basis the story is told that, after Purukutsa died in battle, his wife prayed to Indra and Varuṇa and obtained the son named Trasadasyu.
 
@@ -20913,7 +20913,7 @@ O Aśvin deities! seeking wealth but, since her legs were broken, unable to walk
 > *caritraṃ hi verivācchedi parṇam ājā khelasya paritakmyāyām |*
 > *sadyo jaṅghām āyasīṃ viśpalāyai dhane hite sartave praty adhattam ‖*
 > (*Ṛ.* 1-116-15 as read [?])
-> *(Sanskrit as read; the first line is doubtful in places [?]. Gloss, mine and tentative: "…[in the battle] of Khela, in the night [?], a wing was cut off like a bird's [?]; at once you set an iron leg for Viśpalā, to run, [that she might go] to the booty set forth.")*
+> *(Sanskrit as read; the first line is doubtful in places [?]. **GLOSS**)*
 
 Skandasvāmi has also quoted it, saying that this matter is told in this Ṛk too.
 
@@ -21287,7 +21287,7 @@ The royal sage called Triśoka, desiring that he should go to heaven with all hi
 > *dvicatvāriṃśakāt prītas triśokāya purandaraḥ |*
 > *giriṃ nikṛtya vajreṇa gā dadāv āsurair hṛtāḥ ‖*
 > (*Bṛ. De.* 6-41, 42 as read [?])
-> *(Sanskrit as read from the print; I have not completed it from memory. Gloss, mine and tentative: "Pleased with the forty-two [Ṛks], Purandara, for Triśoka, having split the mountain with the thunderbolt, gave [him] the cows carried off by the asuras.")*
+> *(Sanskrit as read from the print; I have not completed it from memory. **GLOSS**)*
 
 *(the passage continues on p. 782)*
 
@@ -22541,7 +22541,7 @@ O Aśvin deities of manifold deeds! with whichever of your protections you prote
 > इन्द्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहार्जुन इति ।
 > *indro bhavati yac ca kṣatriyo yad u ca yajamānas tasmād āhārjuna iti |*
 > (*Śa. Brā.* 5-4-3-7 as read [?])
-> *(Sanskrit as read; doubtful [?]. Gloss, mine and tentative: "…[the one] who is Indra, and the Kṣatriya, and the sacrificer: therefore he says 'Arjuna'.")*
+> *(Sanskrit as read; doubtful [?]. **GLOSS**)*
 
 The *Phalgunīs* [*nakṣatra*s] are Indra's stars; the name has its connection there. Indra has the name *Arjuna*; the *Phalgunīs* too are called *Ārjuni* — so, since it is said in the Śatapatha Brāhmaṇa and in other places, it may be said that Kutsa can be called by both names, 'son of Indra' and 'son of Arjunī'. In many places in the Ṛk-Saṃhitā the relation of Indra and Kutsa is shown, in that Kutsa conquers his enemies only by the help of Indra.
 

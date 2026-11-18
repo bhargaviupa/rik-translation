@@ -227,7 +227,7 @@
      *trivandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātam arvāk ||* — **GLOSS**
   2. > **त्रिवन्धुरेण त्रिवृता रथेना यातमश्विना ॥** *(no reference is printed under this line)*
 
-     *trivandhureṇa trivṛtā rathenā yātam aśvinā ||* — mine and tentative: "Come, O Aśvins, with the three-seated, threefold chariot." (the line is the same as the first half of this Rik 2)
+     *trivandhureṇa trivṛtā rathenā yātam aśvinā ||* — **GLOSS** (the line is the same as the first half of this Rik 2)
   3. > **अर्वाङ् त्रिचक्रो मधुवाहनो रथो जीराश्वो अश्विनोर्यातु सुष्टुतः ।**
      > **त्रिवन्धुरो मघवा विश्वसौभगः शं न आ वक्षद्द्विपदे चतुष्पदे ॥** *(Ṛ. Saṃ. 1-157-3)*
 
@@ -758,18 +758,18 @@
 
   *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ ||* — **GLOSS**
 
-  The Kannada author gives Yāska's fuller wording: "How does the word *uṣas* arise? '*Ucchatīti satyāḥ, uchī vivāse; vivāsayati hīyaṃ tamāṃsi, tasmād ucchatīty enām asyā uṣā ity etad abhidhānaṃ bhavati. punar iṣu mukhā? rātrer aparaḥ kālaḥ*'" (Ni. 2-19; Sanskrit as printed, re-read at 350 dpi) — उच्छतीति सत्याः उछी विवासे । विवासयति हीयं तमांसि तस्मादुच्छतीत्येनमस्या उषा इत्येतदभिधानं भवति । पुनरियमुषा ? रात्रेरपरः कालः — *ucchatīti satyāḥ | uchī vivāse | vivāsayati hīyaṃ tamāṃsi | tasmād ucchatīty enam asyā uṣā ity etad abhidhānaṃ bhavati | punar iyam uṣā ? rātrer aparaḥ kālaḥ* — mine and tentative: "'She dawns' (*ucchati*), being true: *uchī* in the sense of 'to drive away'; for she drives away the darknesses; therefore, as she drives away (*ucchati*), this name '*uṣā*' is given to her. Again, who is this Uṣas? The later time of the night." The Kannada author explains: "The word *uṣas* arises from the root *uchī*, which means 'to put out'. What is put out? Darkness. Because she gives light by putting out darkness, this deity is named *uṣas*. Who is this deity? She is the last part of the night, that is, the time when, the night being over, the light spreads before the rising of the Sun. This is called '*rātrer aparaḥ kālaḥ*'. Yāska states another sense in another place in his Nirukta:" — **untranslated in the source**:
+  The Kannada author gives Yāska's fuller wording: "How does the word *uṣas* arise? '*Ucchatīti satyāḥ, uchī vivāse; vivāsayati hīyaṃ tamāṃsi, tasmād ucchatīty enām asyā uṣā ity etad abhidhānaṃ bhavati. punar iṣu mukhā? rātrer aparaḥ kālaḥ*'" (Ni. 2-19; Sanskrit as printed, re-read at 350 dpi) — उच्छतीति सत्याः उछी विवासे । विवासयति हीयं तमांसि तस्मादुच्छतीत्येनमस्या उषा इत्येतदभिधानं भवति । पुनरियमुषा ? रात्रेरपरः कालः — *ucchatīti satyāḥ | uchī vivāse | vivāsayati hīyaṃ tamāṃsi | tasmād ucchatīty enam asyā uṣā ity etad abhidhānaṃ bhavati | punar iyam uṣā ? rātrer aparaḥ kālaḥ* — **GLOSS** The Kannada author explains: "The word *uṣas* arises from the root *uchī*, which means 'to put out'. What is put out? Darkness. Because she gives light by putting out darkness, this deity is named *uṣas*. Who is this deity? She is the last part of the night, that is, the time when, the night being over, the light spreads before the rising of the Sun. This is called '*rātrer aparaḥ kālaḥ*'. Yāska states another sense in another place in his Nirukta:" — **untranslated in the source**:
 
   > **उषाः वष्टेः कान्तिकर्मण उच्छतेरितरा माध्यमिका ॥** *(Ni. 12-7)*
 
-  *uṣāḥ vaṣṭeḥ kāntikarmaṇa ucchater itarā mādhyamikā ||* — mine and tentative: "*Uṣas* from *vaṣṭi* (the root *vaś*), 'to shine, to desire'; from *ucchati* [it is] the other, the middle-region one." The Kannada author explains: "that is, the word *uṣas* arises from the root *vaśa kāntau*; because it gives light, this deity is named *uṣas* (as against the sense of 'putting out darkness' given by the root *uchī*, the derivation from *uchī* is to be said to be *mādhyamika*, optional)."
+  *uṣāḥ vaṣṭeḥ kāntikarmaṇa ucchater itarā mādhyamikā ||* — **GLOSS** The Kannada author explains: "that is, the word *uṣas* arises from the root *vaśa kāntau*; because it gives light, this deity is named *uṣas* (as against the sense of 'putting out darkness' given by the root *uchī*, the derivation from *uchī* is to be said to be *mādhyamika*, optional)."
 - "These sages describe this Uṣas deity in many ways: as the dearest of the Sun — since she is born after the night has gone and the light comes — as the daughter of the night, as the sister of the Ādityas, Bhaga and Varuṇa, as the daughter of heaven, as the friend of the Aśvin gods, and with other epithets."
 - **duhitar divaḥ** — "daughter of heaven or of the atmosphere. Since the Sun's light reaches us from the atmosphere (heaven), and since the time of dawn exists as a forerunner of the Sun's rising, the goddess Uṣas is called *duhitā divaḥ*, 'daughter of heaven'" *(the source adds in English: "daughter of heaven")*.
 - **dyumnam** — (**untranslated in the source**; reference Ni. 5-6)
 
   > **द्युम्नं द्योततेर्यशो वा अन्नं वा ॥** *(Ni. 5-6)*
 
-  *dyumnaṃ dyotater yaśo vā annaṃ vā ||* — mine and tentative: "*dyumna* (is from) *dyotati*, 'it shines': fame, or food." "The word *dyumna* has many meanings: fame or food. In this ṛk the commentator has accepted the sense of food. And since the word *dyumna* is read among the twenty-eight names for wealth beginning *maghaṃ, rekṇaḥ* (Ni. 3-9), *dyumna* may also mean wealth."
+  *dyumnaṃ dyotater yaśo vā annaṃ vā ||* — **GLOSS** "The word *dyumna* has many meanings: fame or food. In this ṛk the commentator has accepted the sense of food. And since the word *dyumna* is read among the twenty-eight names for wealth beginning *maghaṃ, rekṇaḥ* (Ni. 3-9), *dyumna* may also mean wealth."
 - **vibhāvarī** — "since *vibhāvarī* is read among the sixteen names of Uṣas beginning *vibhāvarī, sūnarī, bhāsvatī* (Ni. 2-19), *vibhāvarī* means the goddess Uṣas."
 - **dāsvatī** — "*dānayuktā*; root *ḍudāñ dāne*: she who gives; one who gives food, wealth and the like."
 
@@ -1495,7 +1495,7 @@
      *rayiṃ dehi viśvavāram ||* — **GLOSS**
   8. > **त्वामु जातवेदसं विश्ववारं गृहे धियो ॥** *(Ṛ. Saṃ. 10-150-3)*
 
-     *tvām u jātavedasaṃ viśvavāraṃ gṛhe dhiyo ||* — mine and tentative: "you, O Jātavedas, desired by all, in the house [we seat?] our prayers" — the sentence is cut off in the print and the sense is doubtful [?].
+     *tvām u jātavedasaṃ viśvavāraṃ gṛhe dhiyo ||* — **GLOSS** — the sentence is cut off in the print and the sense is doubtful [?].
 
   followed by "*ityādi*", "and so on".
 - **supeśasam** — "*peśa* is a name for form; *śobhanarūpopetam*: of fine form, one with a good form."
@@ -1693,7 +1693,7 @@
 
   > **द्युम्नं द्योततेर्यशो वान्नं वा ।** *(Ni. 5-5)*
 
-  *dyumnaṃ dyotater yaśo vānnaṃ vā |* — mine and tentative: "*dyumna* (is from) *dyotate*, 'it shines': fame or food." "The word *dyumna* has the meanings 'fame' and 'food'. If the meaning 'food' is accepted for the word *iḷā* in this ṛk, the meaning 'fame' is to be given to *dyumna*."
+  *dyumnaṃ dyotater yaśo vānnaṃ vā |* — **GLOSS** "The word *dyumna* has the meanings 'fame' and 'food'. If the meaning 'food' is accepted for the word *iḷā* in this ṛk, the meaning 'fame' is to be given to *dyumna*."
 - **viśvaturā** — "*tūrvatīti tūḥ*; *turvī hiṃsārthaḥ*; *viśveṣāṃ tūḥ viśvatūḥ*; *sarveṣāṃ śatrūṇāṃ hiṃsakena*: the fame that comes of conquering and crushing all enemies; the word is an epithet of *dyumnena*."
 - **vājinīvati** — "*annavati*: one who has food. *Vāja* means food (Ni. 3-9). There is also the sentence of the Śatapatha Brāhmaṇa (Śat. Brā. 9-3-4-1) '*annaṃ vai vājaḥ*'; so *vājinīvatī* means one who has food, that is, one who has the power to give food." — **untranslated in the source**:
 
@@ -1910,7 +1910,7 @@
 
   > **ऋतेरर्तेर्गतिकर्मणः ।** *(Ni. 2-2-25; the citation reads ಋತೇರರ್ತೇರ್ಗತಿಕರ್ಮಣಃ)*
 
-  *ṛter arter gatikarmaṇaḥ |* — mine and tentative: "from *ṛ*, 'to go', a verb of motion." (The citation is as printed and crowded; I give no firmer reading.)
+  *ṛter arter gatikarmaṇaḥ |* — **GLOSS** (The citation is as printed and crowded; I give no firmer reading.)
 
 **Vyākaraṇa-prakriyā** *(pp. 100–102 — grammar pages, noted briefly)*
 - **patatriṇaḥ**: root *patḷ gatau*; "*patati anena iti patatram*", the means of flying (the wings); the Uṇādi rule *aminakṣi…* (Uṇ. 3-385, as printed) gives the suffix *atran*: *patatra*; "*patatram asya asti*", one who has wings: *ata iniṭhanau* (no number printed) gives *ini* in the possessive sense; *yasyeti ca* drops the *a* of *patatra*, so the stem ends in *n*: *patatrin*.
@@ -2058,11 +2058,11 @@
 
   > **सूर्यः सर्तेर्वा । सुवतेर्वा । स्वीर्यतेर्वा ॥** *(Ni. 12-14)*
 
-  *sūryaḥ sarter vā | suvater vā | svīryater vā ||* — mine and tentative: "*sūrya* (is) from *sṛ*, 'to go'; or from *su*, 'to impel'; or from *svīryate*." The Kannada author: "that is, he is called *sūrya* because he moves, or because he gives birth to all, or because he impels the whole group of living beings: these are the derivations of the word *sūrya*"; and he cites Yāska's own explanation of this ṛk (**untranslated in the source**; Ni. 12-15):
+  *sūryaḥ sarter vā | suvater vā | svīryater vā ||* — **GLOSS** The Kannada author: "that is, he is called *sūrya* because he moves, or because he gives birth to all, or because he impels the whole group of living beings: these are the derivations of the word *sūrya*"; and he cites Yāska's own explanation of this ṛk (**untranslated in the source**; Ni. 12-15):
 
   > **उद्वहन्ति तं जातवेदसं रश्मयः केतवः सर्वेषां भूतानां दर्शनाय सूर्यमिति । कमन्यमादित्यादेवमवक्ष्यत् ॥** *(Ni. 12-15)*
 
-  *udvahanti taṃ jātavedasaṃ raśmayaḥ ketavaḥ sarveṣāṃ bhūtānāṃ darśanāya sūryam iti | kam anyam ādityād devam avakṣyat ||* — mine and tentative: "The rays, the *ketus*, bear up that Jātavedas, the Sun, for the sight of all beings. Whom else, other than Āditya, would one call god?" "Since this explanation is just as the commentator has said, no further explanation of it is needed."
+  *udvahanti taṃ jātavedasaṃ raśmayaḥ ketavaḥ sarveṣāṃ bhūtānāṃ darśanāya sūryam iti | kam anyam ādityād devam avakṣyat ||* — **GLOSS** "Since this explanation is just as the commentator has said, no further explanation of it is needed."
 - **tyam** — "this word indicates the sense of *tad*, 'that'."
 - **jātavedasam** — "*jātāni vettīti jātavedāḥ*: one who knows everything born in the world."
 - **devam** — "the shining one, who shines in heaven."
@@ -2347,7 +2347,7 @@
 
   > **प्रत्यङ्ङिदं सर्वमुदेषि प्रत्यङ्ङिदं ज्योतिरुच्यते । प्रत्यङ्ङिदं सर्वमभिविपश्यसीति ॥** *(Ni. 12-24)*
 
-  *pratyaṅṅ idaṃ sarvam udeṣi pratyaṅṅ idaṃ jyotir ucyate | pratyaṅṅ idaṃ sarvam abhivipaśyasīti ||* — mine and tentative: "You rise facing all this; 'facing' is said of this light; you look upon all this facing it." Yāska's gloss follows, printed in Sanskrit (**untranslated in the source**):
+  *pratyaṅṅ idaṃ sarvam udeṣi pratyaṅṅ idaṃ jyotir ucyate | pratyaṅṅ idaṃ sarvam abhivipaśyasīti ||* — **GLOSS** Yāska's gloss follows, printed in Sanskrit (**untranslated in the source**):
 
   > **प्रत्यङ् देवानां विशस्ताः कृत्वा पुरस्तात्तासां उदेषि मानुषान् चैवमेव प्रत्यङ् कृत्वा तेषामपि पुरस्तादेव उदेषि । किं बहुना हे स्वः आदित्य प्रत्यङ् इदं सर्वं आत्मनः कृत्वा पुरस्तादुद्यन् सर्वमभिविपश्यसि ॥**
 
@@ -2411,7 +2411,7 @@
 
   > **भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि वोढा तत्सम्पाती भुरण्युरनेन पावकख्यातेन । भुरण्यन्तं जनाननु । त्वं वरुण पश्यसि । तत्ते वयं स्तुम इति वाक्यशेषः ॥** *(Ni. 12-22)*
 
-  *bhuraṇyur iti kṣipranāma | bhuraṇyuḥ śakunir bhūrim adhvānaṃ nayati svargasya lokasyāpi voḷhā tatsampātī bhuraṇyur anena pāvakakhyātena | bhuraṇyantaṃ janān anu | tvaṃ varuṇa paśyasi | tat te vayaṃ stuma iti vākyaśeṣaḥ ||* — mine and tentative, doubtful: "*Bhuraṇyu* is a name for 'swift'. The *bhuraṇyu* is a bird: it carries over a long road; or the carrier of the world of heaven, he who flies together with it, is *bhuraṇyu*, by this [verse] called *pāvaka*. 'You, Varuṇa, look upon the nourishing (world) in order': 'that of you we praise' is the remainder of the sentence."
+  *bhuraṇyur iti kṣipranāma | bhuraṇyuḥ śakunir bhūrim adhvānaṃ nayati svargasya lokasyāpi voḷhā tatsampātī bhuraṇyur anena pāvakakhyātena | bhuraṇyantaṃ janān anu | tvaṃ varuṇa paśyasi | tat te vayaṃ stuma iti vākyaśeṣaḥ ||* — **GLOSS**
 - The Kannada author explains: "The word *bhuraṇyu* means swiftly: the one who moves swiftly along the path of the atmosphere, or the one who holds up heaven, or the one who guards heaven — this is the meaning of the word *bhuraṇyantam*: O Sūrya, such as you are, you look upon people, that is, people look at you: 'we praise you who are such'; or one may, if one wishes, connect it with the verb *vi eṣi* of the next ṛk, that is, state the connexion with the next ṛk thus: 'you who go forth with the light with which you...'."
 
 **Vyākaraṇa-prakriyā** *(pp. 125–126 — grammar pages, noted briefly)*
@@ -2479,7 +2479,7 @@
 
 > **व्येषि द्यां रजश्च पृथु महान्तं लोकमहानि च विमानोऽक्तुभी रात्रिभिः सह पश्यञ्जन्मानि जातानि सूर्य ॥** *(no reference printed)*
 
-*vyeṣi dyāṃ rajaś ca pṛthu mahāntaṃ lokam ahāni ca vimāno 'ktubhī rātribhiḥ saha paśyañ janmāni jātāni sūrya ||* — mine and tentative: "You go through the heaven and the wide, great expanse, the world, and the days, measuring them out with the nights, seeing the born beings, O Sūrya." "There is no difference between the commentator's explanation and Yāska's explanation."
+*vyeṣi dyāṃ rajaś ca pṛthu mahāntaṃ lokam ahāni ca vimāno 'ktubhī rātribhiḥ saha paśyañ janmāni jātāni sūrya ||* — **GLOSS** "There is no difference between the commentator's explanation and Yāska's explanation."
 
 **Vyākaraṇa-prakriyā** *(pp. 128 — grammar page, noted briefly)*
 - **rajaspṛthu**: *rajaḥ pṛthu*; *chandasi vāprāmreḍitayoḥ* (Pā. 8-3-49) — except for *pra* and a word in *āmreḍita*, in the Chandas the *visarga* optionally becomes *s* before a *ku*- or *pu*-letter; so, since a *p* follows, the *upadhmānīya* is set aside and the *visarga* becomes *s*: *rajaspṛthu*.
@@ -2734,7 +2734,7 @@
 
   > **उद्यन्नद्येति मन्त्रोऽयं सौरः पापप्रणाशनः । रोगघ्नश्च विषघ्नश्च भुक्तिमुक्तिफलप्रदः ॥** *(Śaunaka, as the print gives it)*
 
-  *udyann adyeti mantro 'yaṃ sauraḥ pāpapraṇāśanaḥ | rogaghnaś ca viṣaghnaś ca bhuktimuktiphalapradaḥ ||* — mine and tentative: "this Saura mantra, *udyann adya*, destroys sin, destroys disease and poison, and gives the fruit of enjoyment and of liberation." The Kannada author adds: "this is to say that these three ṛks, with the Sun as deity, destroy not only the sins of the one who recites them but all diseases and poisons, and give the pleasures and liberation of this world and the next. In the work called *Bṛhaddevatā* it is also said '*rogaghnas tṛca uttamaḥ*' (Bṛ. De. 3-113)." — **untranslated in the source**:
+  *udyann adyeti mantro 'yaṃ sauraḥ pāpapraṇāśanaḥ | rogaghnaś ca viṣaghnaś ca bhuktimuktiphalapradaḥ ||* — **GLOSS** The Kannada author adds: "this is to say that these three ṛks, with the Sun as deity, destroy not only the sins of the one who recites them but all diseases and poisons, and give the pleasures and liberation of this world and the next. In the work called *Bṛhaddevatā* it is also said '*rogaghnas tṛca uttamaḥ*' (Bṛ. De. 3-113)." — **untranslated in the source**:
 
   > **रोगघ्नस्तृच उत्तमः ।** *(Bṛhaddevatā 3-113)*
 
@@ -3109,13 +3109,13 @@
 
   > **शतद्वारेषु यंत्रेष्वसुरैः पीडार्थं प्रक्षिप्ताय । शतं दुरा द्वाराण्येषाम् ॥**
 
-  *śatadvāreṣu yaṃtreṣv asuraiḥ pīḍārthaṃ prakṣiptāya | śataṃ durā dvārāṇy eṣām ||* — the source adds, in Kannada: "a special machine (*yantra*) with doors (holes) of many kinds; a weapon used for torturing Rākṣasas." (Mine and tentative gloss of the Sanskrit: "to one thrown, in order to torment him, by the Asuras into machines with a hundred doors; 'a hundred doors are theirs'.")
+  *śatadvāreṣu yaṃtreṣv asuraiḥ pīḍārthaṃ prakṣiptāya | śataṃ durā dvārāṇy eṣām ||* — the source adds, in Kannada: "a special machine (*yantra*) with doors (holes) of many kinds; a weapon used for torturing Rākṣasas." **GLOSS**
 - **sasena** — "*annena yuktaṃ*: joined with food. '*sasaṃ namaḥ āyuḥ*' (Ni. 3-9 [?: first digit 2 or 3]): in the sense of food the word *sasa* is read."
 - **adrim** — "*vajraṃ* — *atti bhakṣayati vairiṇam iti adrir vajraḥ*; the word *adri* is here explained as pertaining to the thunderbolt, in the sense of 'the destroyer of enemies'. Yāska gives this explanation of the word *adri* in the Nirukta: '*adrir ādṛṇāty etenāpi vā attes syāt | te somāda iti ha vijñāyate*' — that is, the thunderbolt eats the very essence of the mountain (*adri*). Or it is the *abhiṣavaṇagrāvā*, the pressing-stone of the soma-pressing: 'one that has an *adri*' is *adrivān*; the stone that crushes or grinds the soma is also called *adri*."
 
   > **अद्रिरादृणात्येतेनापि वात्तेः स्यात् । ते सोमाद इति ह विज्ञायते ॥**
 
-  *adrir ādṛṇāty etenāpi vā atteḥ syāt | te somāda iti ha vijñāyate ||* — mine and tentative: "*adri* may be from *ā-dṛ* 'to split' (one splits with it), or from *ad* 'to eat'; 'they are soma-eaters', so it is known." *(p. 161 prints* etenāpi*; the grammar note, p. 163, prints* anenāpi*.)*
+  *adrir ādṛṇāty etenāpi vā atteḥ syāt | te somāda iti ha vijñāyate ||* — **GLOSS** *(p. 161 prints* etenāpi*; the grammar note, p. 163, prints* anenāpi*.)*
 - **vavasānasya** — "To the root *vasa nivāse* the suffix *cānaś* in the agent-habitual sense (the 'dwelling in', i.e. 'who is dwelling') is attached; the meaning 'one who is making an abode' is obtained here." *(The print has the word "ವಾಸಮಾಡುತ್ತಲಿರುವ" "living".)*
 - **vimadāya** — "Vimada is a ṛṣi. This ṛṣi is the seer of the 66 Riks in Sūktas 20–26 of the tenth Maṇḍala of the Ṛgveda. The ṛṣi Vimada and his line are referred to in these sūktas, i.e. Ṛ. Saṃ. 10-20-10 and 10-23-7; and the name of Vimada is also found in Atharvaveda 4-29-4 and in the mantras of the Aitareya Brāhmaṇa 5-5-1."
 
@@ -4243,7 +4243,7 @@
 
   > **इन्द्रो वलस्य बिलमपौर्णोत्स य उत्तमः पशुरासीत्तं पृष्ठं प्रति संगृह्योदक्खिदत्तग्ं सहस्रं पशवोऽनूदायन्त्स उन्नतोऽभवद्यः पशुकामः स्यात्स एतमैन्द्रमुन्नतमा लभेतेन्द्रमेव स्वेन भागधेयेनोपधावति स एवास्मै पशून्प्रयच्छति पशुमानेव भवत्युन्नतो भवति ॥** *(Tai. Saṃ. 2-1-1-1; p. 232 is read from the old scan, the better scan lacks pp. 232–233)*
 
-  *indro valasya bilam apaurṇot sa ya uttamaḥ paśur āsīt taṃ pṛṣṭhaṃ prati saṃgṛhyodakkhidat taggṃ sahasraṃ paśavo 'nūdāyant sa unnato 'bhavad yaḥ paśukāmaḥ syāt sa etam aindram unnatam ā labhetendram eva svena bhāgadheyenopadhāvati sa evāsmai paśūn prayacchati paśumān eva bhavaty unnato bhavati ||* — mine and tentative, and incomplete where the print is doubtful: "Indra opened the cave of Vala; the best animal that was there, seizing it by the back, he dug out [*udakkhidat*]; a thousand animals followed it up; it became raised (*unnata*). He who desires cattle should offer this Indra-victim, the raised one; he runs to Indra with his own share; he gives him cattle; he becomes possessed of cattle, he becomes raised." "This matter has been described elsewhere in other mantras of the Ṛgveda, and in other Vedas. In the Ṛgveda, the matter of this Vala is touched in the Riks Ṛ. Saṃ. 1-62-4; 2-11-20; 2-14-3; 2-15-8; 2-12-3 [?]; 2-24-3 [?]; 3-30-10; 3-34-10; 4-50-5; 6-18-5; 6-39-2; 8-14-7 [?]; 8-24-30 [?]; 10-67-2 [?]; 10-62-6 [?]; 10-68-5; 10-68-6; 10-68-9; 10-68-10; 10-138-1 (as read from the old scan; [?] where a digit is not certain). The name *Vala* is a conventional term for the soldier-class called *Paṇis*; it is told in many places that these robbed cows and hid them in caves. On this matter we have written before in Ṛ. Saṃ. Part 2, p. 228 (printed "ಭಾಗ ೨ ಪೇಜು 228")."
+  *indro valasya bilam apaurṇot sa ya uttamaḥ paśur āsīt taṃ pṛṣṭhaṃ prati saṃgṛhyodakkhidat taggṃ sahasraṃ paśavo 'nūdāyant sa unnato 'bhavad yaḥ paśukāmaḥ syāt sa etam aindram unnatam ā labhetendram eva svena bhāgadheyenopadhāvati sa evāsmai paśūn prayacchati paśumān eva bhavaty unnato bhavati ||* — **GLOSS** "This matter has been described elsewhere in other mantras of the Ṛgveda, and in other Vedas. In the Ṛgveda, the matter of this Vala is touched in the Riks Ṛ. Saṃ. 1-62-4; 2-11-20; 2-14-3; 2-15-8; 2-12-3 [?]; 2-24-3 [?]; 3-30-10; 3-34-10; 4-50-5; 6-18-5; 6-39-2; 8-14-7 [?]; 8-24-30 [?]; 10-67-2 [?]; 10-62-6 [?]; 10-68-5; 10-68-6; 10-68-9; 10-68-10; 10-138-1 (as read from the old scan; [?] where a digit is not certain). The name *Vala* is a conventional term for the soldier-class called *Paṇis*; it is told in many places that these robbed cows and hid them in caves. On this matter we have written before in Ṛ. Saṃ. Part 2, p. 228 (printed "ಭಾಗ ೨ ಪೇಜು 228")."
 
 **Vyākaraṇa-prakriyā** *(pp. 232–233 — grammar pages, noted briefly; continued on p. 233)*
 - **svavṛṣṭim**: "*svīyā vṛṣṭir yasya saḥ taṃ*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*.
@@ -4836,7 +4836,7 @@
 
   > **वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः ।** *(Ai. Brā. 2-1)*
 
-  *vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ |* — mine and tentative: "this sacrificial post is the thunderbolt; it is to be made eight-cornered, for the thunderbolt is eight-cornered." *(The print reads* aṣṭāśriḥ *in both places.)*
+  *vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ |* — **GLOSS** *(The print reads* aṣṭāśriḥ *in both places.)*
 - **ānam prati** — "The word *āna* has two senses: *anana* (face, mouth) or the nose that serves for breathing. Indra struck Vṛtra's face or nose. If *anana*, with loss of a letter, is pronounced in the Veda, it means 'mouth'; and if derived as '*anyate 'nena*' ('that by which one breathes') it means 'nose'."
 
 **Vyākaraṇa-prakriyā** *(pp. 263–264 — grammar pages, noted briefly)*
@@ -5310,7 +5310,7 @@
 
   > **इन्द्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग् शच्यागृह्णात् । तौ समलभेताम् । सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावस्रक्ष्यामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिञ्चत् । न वा एष शुष्को नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तम् । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रध्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग्ंस्यपाहत । यदपमार्गहोमो भवति । रक्षसामपहत्यै ॥** *(Tai. Brā. 1-7-1, printed "ತೈ. ಬ್ರಾ. ೧-೭-೧"; re-read in the pass: "*abhiśunataro*", "*saṃdhāgṃ*", "*avasrakṣyāmi*", "*yad apamārgahomo*" as printed)*
 
-  *indro vṛtragṃ hatvā | asurān parābhāvya | namucim āsuraṃ nālabhata | tag śacyāgṛhṇāt | tau samalabhetām | so 'smād abhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktam iti | sa etam apāṃ phenam asiñcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etad divā na naktam | tasyaitasmin loke | apāṃ phenena śira udavartayat | tad enam anvavartata | mitradhrug iti | sa etān apāmārgān ajanayat | tān ajuhot | tair vai sa rakṣāgṃsy apāhata | yad apamārgahomo bhavati | rakṣasām apahatyai ||* — mine and tentative, rough: "Indra, having killed Vṛtra and routed the Asuras, did not get hold of the Asura Namuci; [Śacī] seized him; the two grappled; he became the stronger of the two. He said: 'Let us make a compact; then I shall release you: do not kill me with dry or with wet, neither by day nor by night.' He [Indra] sprinkled this foam of the waters. It was neither dry nor wet, the dawn had come but the sun had not risen; this was neither day nor night. With the foam of the waters he cut off his head; [the head] followed him, [crying] 'Mitra-traitor!' He produced these *apāmārga* plants, offered them; by them he drove away the Rākṣasas; therefore there is an *apāmārga*-oblation, for the removal of the Rākṣasas." *(The Kannada retelling that follows (p. 287–288) agrees in sense.)*
+  *indro vṛtragṃ hatvā | asurān parābhāvya | namucim āsuraṃ nālabhata | tag śacyāgṛhṇāt | tau samalabhetām | so 'smād abhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktam iti | sa etam apāṃ phenam asiñcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etad divā na naktam | tasyaitasmin loke | apāṃ phenena śira udavartayat | tad enam anvavartata | mitradhrug iti | sa etān apāmārgān ajanayat | tān ajuhot | tair vai sa rakṣāgṃsy apāhata | yad apamārgahomo bhavati | rakṣasām apahatyai ||* — **GLOSS** *(The Kannada retelling that follows (p. 287–288) agrees in sense.)*
 - The Kannada retelling (pp. 287–288): "After Indra killed Vṛtra he also killed other Rākṣasas; but he could not conquer the Rākṣasa Namuci. He was very strong; no weapon hurt him. Therefore Indra, wishing to conquer him by his own bodily strength, began wrestling with him; but as they fought, Namuci's strength only grew. Indra could not free himself from his grip. Then Indra asked Namuci to release him, and that Asura said to Indra: 'O Indra, if you wish to be released you must do as I say. Let us now make a compact between us. You must not wish to kill me by any weapon and any fighting. You must not use a weapon that is dry or wet; you must not kill me in the daytime or at night. If you agree to these conditions I shall release you.' Indra agreed and, freed from his grip, began to consider how to defeat him. After some time Indra thought of a way. The foam of the sea fell in his sight. This foam was neither dry nor wet. 'I shall therefore make this foam my weapon and kill Namuci.' When the night had passed and the dawn had begun, before the sun's rising, the time was clear and bright; since that time was not the night and the sun had not risen, it was not the day either. At such a time Indra fought with Namuci and cut off his head with the weapon made of foam of water, resolving that 'I shall not be a breaker of my word.' Even so, that Daitya, not dead, came pursuing Indra to kill him. 'O Indra, traitor to a friend, stand! Having promised that you would not kill me, you have done such a treacherous deed; I shall not leave you even now without killing you,' he said. Then Indra, afraid, created the tree called *apāmārga* and, with its twigs, offered oblations in the fire to increase his strength. By that Indra's strength increased and he killed that Namuci. Therefore those who wish to be free from the harm of Rākṣasas should offer oblations of *apāmārga* twigs."
 - The name of Namuci in the Ṛgveda (p. 288) — "Besides this Rik, the name of Namuci occurs in these Riks of the Ṛgveda:" *(eight Riks are quoted in Kannada-script Sanskrit; I give each in three layers, with the Ṛgveda references as printed — and a mine-and-tentative gloss)*:
 
@@ -5411,7 +5411,7 @@
 
   > **यत्पर्णयघ्न उत वा करञ्जहे प्राहं महे वृत्रहत्ये अशुश्रवि ।** *(Ṛ. Saṃ. 10-48-8)*
 
-  *yat parṇayaghna uta vā karañjahe prāhaṃ mahe vṛtrahatye aśuśravi |* — mine and tentative: "when, at the slaying of Parṇaya or the slaying of Karañja, in the great Vṛtra-battle, I was heard forth." The Kannada comment: "In this Rik too, in the context of Indra's slaying the Asura Karañja, the name of the Daitya Parṇaya is told. Not much is known about them."
+  *yat parṇayaghna uta vā karañjahe prāhaṃ mahe vṛtrahatye aśuśravi |* — **GLOSS** The Kannada comment: "In this Rik too, in the context of Indra's slaying the Asura Karañja, the name of the Daitya Parṇaya is told. Not much is known about them."
 - **atithigvasya** — "The name of a king. For his matter see what we wrote on p. 174 (of this volume)."
 - **vartanī** — "In the sense of the third case the first has come. It means 'by the power that destroys enemies'. The derivation is *vṛtyate preryate anayeti vartanī*."
 - **ananudaḥ** — "*Anu paścāt dyati khaṇḍayati iti anudaḥ*, *anucaraḥ*: from this derivation the word *anuda* gives the sense 'follower, servant'. By this word *anudaḥ* is shown the sense: 'Indra, who destroys enemies without the help of any such follower'. *Nāsti anudo yasya ananudaḥ* is its analysis. The lengthening seen in the Saṃhitā does not belong to the rules of grammar; it is just a Vedic matter."
@@ -5947,7 +5947,7 @@
 
 > **वृन्दी वृन्दतेर्मृदूभावकर्मणः । निवृणक्षि यच्छ्वसनस्य मूर्धनि शब्दकारिणः शुष्णस्यादित्यस्य च शोषयितुः रोरूयमाणो वनानीति वा धनानीति वा ।**
 
-*vṛndī vṛndater mṛdūbhāvakarmaṇaḥ | nivṛṇakṣi yac chvasanasya mūrdhani śabdakāriṇaḥ śuṣṇasyādityasya ca śoṣayituḥ roruyamāṇo vanānīti vā dhanānīti vā |* — mine and tentative: "*vṛndin* is from *vṛnd* [a root] of the action of becoming soft; 'when you pour down on the head of the sounding wind and of the drying sun, roaring, the *vana*, or [= the *dhana*]' — [the Nirukta] says 'the waters' or 'the riches' (?)" — the Kannada (p. 321) says that in the *dhanāni* alternative the sense is "the waters of the cloud" ("*meghasya dhanānīti vyākhyeyam*").
+*vṛndī vṛndater mṛdūbhāvakarmaṇaḥ | nivṛṇakṣi yac chvasanasya mūrdhani śabdakāriṇaḥ śuṣṇasyādityasya ca śoṣayituḥ roruyamāṇo vanānīti vā dhanānīti vā |* — **GLOSS** — the Kannada (p. 321) says that in the *dhanāni* alternative the sense is "the waters of the cloud" ("*meghasya dhanānīti vyākhyeyam*").
 
 **Translation of the bhāṣya:** "O Indra, you, roaring through the clouds, in the head — the upper region — of *śvasanasya*, the wind (*śvasana*, that which breathes in the atmosphere), *vṛndinaḥ*, which brings softness to the mango-fruit and the like by its rays, and of *śuṣṇasya cit*, even of the sun, the drier-up of the juices, *vanā*, the waters, *ni vṛṇakṣi*, you pour down: you cause to reach. For the waters rained down by the wind and by the sun's rays are placed again above the sun; and Indra does just that placing — thus it is figuratively said. *Prācīnena*, with a mind of forward going, *barhaṇāvatā*, set on the destruction of enemies — such a mind — *yad adyā cit kṛṇavaḥ*: because even today you do this: in the hot season you hold up the earth's juices above the sun, and in the rains you rain. Because you do this, *kaḥ tvā pari*, who is above you? (no one): therefore you alone are the highest — this is the sense."
 
@@ -6484,7 +6484,7 @@
 
   > **आहावनदता हते तस्मादा नद्यो नाम स्थ ता वो नामानि सिन्धवः ।** *(Tai. Saṃ. 5-6-1-2, printed "ತೈ. ಸಂ. ೫-೬-೧-೨")*
 
-  *āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ |* — mine and tentative, incomplete: "…therefore you are named 'sounding ones' (*nadyaḥ*); those are your names, rivers."
+  *āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ |* — **GLOSS**
 - **vṛṣāyate** — "*Vṛṣa ivācarati*: he comes with joy; Indra is like a bull: he is happy."
 - **panasyate** — "*Panaḥ stotram icchati*: he seeks praise. The word *pana*, which gives the sense of praise (*stotra*), is meant."
 
@@ -7372,7 +7372,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
   > **इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुस्सवाय एवा रात्र्युषसे योनिमारैक् ॥**
 
-  *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik ||* — mine and tentative: "This best of lights has come, the bright, wide-shining sign has been born; as one impelled by Savitṛ for his urging, so Night has yielded her womb to Uṣas." "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
+  *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik ||* — **GLOSS** "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
 - **panīyase** — "To the root *pan*, the sense of praise, the suffix added after it in the sense of 'excess': one who is most worthy of praise."
 - **na** — "The word *na* here means *saṃprati*, 'now' — the Nirukta (Niru. 7-31) 'अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोग इहेव निधेहि (*asty upamārthasya saṃpratyarthe prayoga iheva nidhehi*)' establishes *na* as *ivārtha* and *saṃpratyartha*."
 - **indriyam** — "*Indrasya paramaiśvaryasya liṅgam*: it means the radiance of Indra — the radiance that displays the supreme sovereignty in Indra. Indra receives the share of the sacrifice, rich in oblation, through that radiance."
@@ -8319,7 +8319,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
   > **उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसा ।**
 
-  *ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā |* — mine and tentative: "making both parents great, Agni was born, heaven and earth, with abundant seed." — "It says that heaven and earth are Agni's mother and father: for the sake of the great Agni's abiding the earth and atmosphere became very wide."
+  *ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā |* — **GLOSS**
 - **svarvate, satyaśuṣmāya** — "These two words indicate Agni's special manner of going: though his gait is graceful, he is [praised as] of special strength."
 - **manuṣyo na** — "'like a man'; here the illustration: as in the world a man, being a bard, praises the lord who gives wealth with many kinds of praise, so the hotṛ praises Agni with many praises."
 
@@ -8543,7 +8543,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 > **रातिं भृगूणामुशिजं कविक्रतुम् ।** *(Ṛ. Saṃ. 3-2-4)*
 
-*rātiṃ bhṛgūṇām uśijaṃ kavikratum |* — mine and tentative: "the friend [or: gift] of the Bhṛgus, the Uśij, of poet's wisdom." **mātariśvā**: "*sarvanirmāṇahetutvān mātā antarikṣaṃ śvasitir atra gatikarmā — mātari antarikṣe śvasiti gacchatīti mātariśvā*: one who moves in the atmosphere, namely the wind."
+*rātiṃ bhṛgūṇām uśijaṃ kavikratum |* — **GLOSS** **mātariśvā**: "*sarvanirmāṇahetutvān mātā antarikṣaṃ śvasitir atra gatikarmā — mātari antarikṣe śvasiti gacchatīti mātariśvā*: one who moves in the atmosphere, namely the wind."
 
 **Vyākaraṇa-prakriyā** *(pp. 464–465 — noted briefly)* — **vahnim**: *vaha prāpaṇe*; *vahiśriyuśruglāhātvaribhyo nit* (Uṇ. sū. 3-419 as printed): *ni*; since *nit* is imposed by *atideśa*, *ñnityādir nityam*: initial-acute; accusative singular. **yaśasam**: *yaśaḥ asya asti iti yaśasvī*; *asmāyāmedhāsrajo viniḥ* (Pā. sū. 5-2-121): *vini*; in the Veda *vin* dropped (*luk*); by *vyatyaya* end-acute; or, being in the *arśa-ādi* group, *arśa ādibhyo 'c* (Pā. sū. 5-2-127): *ac* in the possessive sense; *citaḥ*: end-acute. **suprāvyam**: *suṣṭhu prakarṣeṇa avati rakṣati iti suprāvīḥ*; with the two upasargas *su* and *pra* as *upapada*, *avitṛstṛtantribhya īḥ* (Uṇ. sū. 3-438 as printed): *ī*; *suprāvī*; before the accusative *am*, *vā chandasi* (Pā. sū. 6-1-106) makes the *pūrvarūpa* of *ami pūrvaḥ* optional: *yaṇ*; *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. sū. 8-2-4): *svarita* on the ending. **sadyoartham**: *ṛ gatau*; in the agent sense *uṣikuṣigārtibhyas than* (Uṇ. sū. 2-161): *than*; *guṇa*; *artha*; *sadya eva arthaḥ gantā sadyoarthaḥ* ("who goes quickly"): *tatpuruṣe tulyārtha…* (Pā. sū. 6-2-2) would give the avyaya-first-member accent, but *avyaye nañkunipātānām iti vaktavyam* (Pā. sū. 6-2-2-3) takes only those three, so not *sadyaḥ*: a bahuvrīhi then, *sadyaḥ arthaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: first-member accent. **mātariśvā**: *śvasa prāṇane* (adādi), here in the sense of going: *mātari antarikṣe śvasiti gacchati iti*; formed as irregular by *śvann ukṣan…* (Uṇ. sū. 1-156 as printed); or *as gatidīptyādāneṣu*, the Uṇādi suffix *ḍvan*; *ḍit*: loss of *ṭi*; *mātariśvan*; stated by Yāska (Niru. 7-26). **bharat**: *hṛñ haraṇe*; *laṅ*, *tip*; *itaś ca*: loss of *i*; *śap*; *guṇa*; *bahulaṃ chandasy amāṅyoge 'pi*: no *aṭ*; *hṛgrahor bhaś chandasi*: *bh* for *h*; after a non-verb: *nighāta*. **|| 1 ||**
 
@@ -9341,7 +9341,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 522)** — "Though fear of him, the mountains remain still ; and through fear of his appearance, heaven and earth tremble ; praising repeatedly with hymns the preserving power of that beloved Indra, Nodhas speedily acquired vigour."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 522** — **januṣaḥ** — *janī prādurbhāve*: "from the state of Indra who has manifested himself." **tujete**: "though the root *tuj* has the sense of harming, here the sense 'trembling' must be said: heaven and earth shake from fear of Indra's appearance." **venasya** — *kāntasya*: "of the charming (Indra)." **joguvānaḥ** — *guja avyakte śabde*: "one who makes an indistinct sound at every step." **nodhāḥ**: "the meaning of this word is 'seer'. In the Ṛg-saṃhitā: '*upo adarśi śundhyuvo navakṣo nodhā ivāvir akṛta priyāṇi*' (Ṛ. Saṃ. 1-124-4) — here too the word *nodhas* is explained as 'seer' (my gloss, tentative: 'as [a seer like] Nodhas makes his dear things manifest' — the reading of the verse is uncertain). The Nirukta explanations — '*nodhā iva āvir akṛta priyāṇi*', '*nodhā ṛṣir bhavati navanaṃ dadhāti*' and the like — also give 'seer' as its meaning."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 522** — **januṣaḥ** — *janī prādurbhāve*: "from the state of Indra who has manifested himself." **tujete**: "though the root *tuj* has the sense of harming, here the sense 'trembling' must be said: heaven and earth shake from fear of Indra's appearance." **venasya** — *kāntasya*: "of the charming (Indra)." **joguvānaḥ** — *guja avyakte śabde*: "one who makes an indistinct sound at every step." **nodhāḥ**: "the meaning of this word is 'seer'. In the Ṛg-saṃhitā: '*upo adarśi śundhyuvo navakṣo nodhā ivāvir akṛta priyāṇi*' (Ṛ. Saṃ. 1-124-4) — here too the word *nodhas* is explained as 'seer' (**GLOSS** — the reading of the verse is uncertain). The Nirukta explanations — '*nodhā iva āvir akṛta priyāṇi*', '*nodhā ṛṣir bhavati navanaṃ dadhāti*' and the like — also give 'seer' as its meaning."
 
 **Vyākaraṇa-prakriyā** *(pp. 522–523 — noted briefly)* — *Grammar pages, noted briefly.* **bhiyā**: instrumental singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168): acute on the ending. **dyāvā ca bhūmā**: the word *dyāvābhūmī*; the *ca* is read between the two words as a Vedic arrangement; *divo dyāvā* (Pā. 6-3-29): *dyāvā* in place of *div*; *supāṃ suluk*: *ḍā* for the dual ending; *ḍit*: loss of the *ṭi*; *devatādvandve ca* (Pā. 6-2-141): both members keep their own accent; both forms are traditional. **januṣaḥ**: *janī prādurbhāve*; *janer usiḥ* (Uṇ. 2-272 as read; middle digit 7 or 6 [?]): the *Aunādika* suffix *usi*; *janus*; ablative singular; acute on *u* by the suffix. **joguvānaḥ**: *guja avyakte śabde*; *yaṅ* in the intensive sense; *yañoś ca*: its loss (*luk*); though a *parasmaipada* root, *vyatyayo bahulam*: *śānac*; as *yaṅluganta* roots are read in the *adādi* class (*carkarītaṃ ca*), *adiprabhṛtibhyaḥ śapaḥ*: loss of *śap*; because of *yaṅ*, doubling; *guṇo yaṅluṅkoḥ* (Pā. 7-4-82): *guṇa* of the reduplicative vowel; *joguv + āna*: *aci śnudhātubhruvāṃ…*: *uvaṅ*; *abhyastānām ādiḥ* (Pā. 6-1-189): initial acute. **oṇim**: *oṇṛ apanayane*; the *Aunādika* *i*; end-acute by the suffix. **bhuvat**: *bhū sattāyām*; *leṭ*, third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88): no *guṇa* of the root; *uvaṅ*; *tiṅ atiṅaḥ*: *nighāta*. **nodhāḥ**: Yāska as above; *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *asun*, which arises on every root; "he holds newness" so *nava* → *no*; *nodhas*; *gatikārakopapadāt kṛt*: the first member's accent; nominative: *atvasantasya cādhātoḥ*: lengthening of the penultimate; *hal-ṅyābbhyo…*: loss of *su*; *rutva*, *visarga*.
 

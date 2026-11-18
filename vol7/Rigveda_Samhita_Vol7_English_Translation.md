@@ -100,7 +100,7 @@ The Gāyatrī and other metres described above are very ancient. Even in the Ṛ
 
 > यच्छक्वरीषु बृहता रवेणेन्द्रे शुष्ममदधाता वसिष्ठाः ।
 
-*yac chakvarīṣu bṛhatā raveṇendre śuṣmam adadhātā vasiṣṭhāḥ |* (Ṛ. Saṃ. 7-33-5) — *Gloss, mine and tentative:* "When, with the Śakvarī [verses], with great sound, the Vasiṣṭhas placed vigour in Indra." *(Both citations are given here as read from the print; the Kannada reference numerals are small and doubtful, "೧೦-೭೧-೧೧" and "೭-೩೩-೪" [?].)*
+*yac chakvarīṣu bṛhatā raveṇendre śuṣmam adadhātā vasiṣṭhāḥ |* (Ṛ. Saṃ. 7-33-5) — **GLOSS** *(Both citations are given here as read from the print; the Kannada reference numerals are small and doubtful, "೧೦-೭೧-೧೧" and "೭-೩೩-೪" [?].)*
 
 — these Ṛks support this meaning. Therefore it is clear that the Gāyatrī and other metres have been in use from very ancient times.
 
@@ -715,11 +715,11 @@ indro asmabhyaṃ śikṣatu vi bhajā bhūri te vasu bhakṣīya tava rādhasa�
 
 > वृषा वीरं पृथ्वीमुमतिं सृजान आ नभ्यो मर्तभोजनं सुवानः ।
 
-*vṛṣā vīraṃ pṛthvī-m-umatiṃ sṛjāna ā nabhyo martabhojanaṃ suvānaḥ |* (Ṛk. Saṃ. 2-[?]-[?] [?]) — *the first words are garbled at this resolution [?]. Gloss, mine and tentative:* "… sending forth … bringing from the sky the food of mortals."
+*vṛṣā vīraṃ pṛthvī-m-umatiṃ sṛjāna ā nabhyo martabhojanaṃ suvānaḥ |* (Ṛk. Saṃ. 2-[?]-[?] [?]) — *the first words are garbled at this resolution [?].* **GLOSS**
 
 > विश्रयमाणो अमतिमुरूचीं मर्तभोजनमध रासते नः ।
 
-*viśrayamāṇo amatim urūcīṃ martabhojanam adha rāsate naḥ |* (Ṛk. Saṃ. 6-[?]-[?] [?]) — *Gloss, mine and tentative:* "…resorting to the wide, (and) he will then give us food for mortals." (Sense uncertain.)
+*viśrayamāṇo amatim urūcīṃ martabhojanam adha rāsate naḥ |* (Ṛk. Saṃ. 6-[?]-[?] [?]) — **GLOSS** (Sense uncertain.)
 
 > यत्ते दिवो दुहितर्मर्तभोजनं तद्रास्व भुनजामहै ।
 
@@ -727,7 +727,7 @@ indro asmabhyaṃ śikṣatu vi bhajā bhūri te vasu bhakṣīya tava rādhasa�
 
 > विश्वा सोनो सहसो मर्तभोजना रास्व तद्यत्त्वीमहे ।
 
-*viśvā sono sahaso martabhojanā rāsva tad yat tvīmahe |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *the words of this line are doubtful [?]; I give them as read. Gloss, mine and tentative:* "All the foods of mortals — give that which we ask."
+*viśvā sono sahaso martabhojanā rāsva tad yat tvīmahe |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *the words of this line are doubtful [?]; I give them as read.* **GLOSS**
 
 - **शिक्षतु** — "*śikṣatir dānakarmā* (Ni. 3-20): *śikṣatu* means 'let (him) give'."
 - **राधसः** — "*dhana*, wealth. Among the twenty-eight names of wealth beginning *maghaṃ reṇkaḥ* the word *rādhaḥ* is read (Ni. 3-9)."
@@ -1419,7 +1419,7 @@ and nowhere else. There the bhāṣyakāra explains this word as '*haryor aśvay
 
 > हरिरसि हारियोजनो हर्योः स्थाता वज्रस्य भर्ता पृश्नेः प्रेता तस्य ते देव सोमेष्टयजुषः स्तुतस्तोमस्य शस्त्रोक्थस्य हरिवन्तं ग्रहं गृह्णामि हरीस्थ हर्योर्धानाः सहसोमा इन्द्राय स्वाहा ॥
 
-*harir asi hāriyojano haryoḥ sthātā vajrasya bhartā pṛśneḥ pretā tasya te deva someṣṭayajuṣaḥ stutastomasya śastrokthasya harivantaṃ grahaṃ gṛhṇāmi harīstha haryor dhānāḥ sahasomā indrāya svāhā ||* (Tai. Saṃ. 1-3-[?] [?]) — *Gloss, mine and tentative:* "You are *hari*, the *hāriyojana*, the stander on the two bays, the bearer of the thunderbolt, the goer to Pṛśni (…); of you, O god, whose Soma-offering and sacrifice are praised, whose recitation is praised in *stoma* and *śastra*, I take the cup that has the two bays; you (O grains) are the two bays' food; with Soma, to Indra, *svāhā*." *(The Taittirīya passage is read with doubt in several words; the reference is [?].)*
+*harir asi hāriyojano haryoḥ sthātā vajrasya bhartā pṛśneḥ pretā tasya te deva someṣṭayajuṣaḥ stutastomasya śastrokthasya harivantaṃ grahaṃ gṛhṇāmi harīstha haryor dhānāḥ sahasomā indrāya svāhā ||* (Tai. Saṃ. 1-3-[?] [?]) — **GLOSS** *(The Taittirīya passage is read with doubt in several words; the reference is [?].)*
 
 ### Page 48 (PDF 63)
 
@@ -1957,7 +1957,7 @@ asaṃyatto vrate te kṣeti puṣyati bhadrā śaktir yajamānāya sunvate ||3|
 *The meaning of this Ṛk is difficult (*toḍakāgiruvudu*).*
 
 - **द्वयोः** — *havirdhānayoḥ* — "In the Ṛk there is only the word *dvayoḥ*; the bhāṣyakāra has explained it as *havirdhānayoḥ*, 'of the two *havirdhānas*'. Yāska has given the etymology of the word *havirdhāna*: '*havirdhāne havīṃṣāṃ nidhāne*' — that is, 'the vessel or place in which the oblations — the Soma — are placed: *havirdhāna*'. The word *havirdhāna* is not found anywhere in the Ṛgveda. In the Yajurveda it occurs in mantras in the Taittirīya Saṃhitā (1-29-?-?; 6-1-?-?; 6-2-?…) and so on [numerals as read, all [?]]. There this word conveys the sense of a cart for carrying a load of Soma, or a hut in which the Soma is placed, or a vessel in which the Soma is placed. Soma is loaded into two carts called *havirdhāna*, and a single covering, of *khadira* wood (*bhadi*), is spread over both, and taken from the eastern portion (*prācīnavaṃśa*) to the northern altar. The *bhadi* is made of *darbha* grass [as read; *khadira* is the printed word, [?]]. The related sacrificial procedure, being lengthy, and its explanation being unnecessary here, I have not given. See the discussion in the Aitareya Brāhmaṇa (1-[3?]-[?] [?]) for the rest."
-- **उक्थ्यं वचः** — "When the covering called *khadira* [*bhadi*, as printed] is placed over the two vessels called *havirdhāna* in which the oblation is kept, the mantra of the form of a śastra that is said. For this the former half of the present Ṛk — *adhi dvayor adadhā ukthyaṃ vaco yatasrucā mithunā yā saparyataḥ* — is recited. One covering is used for covering the two *havirdhānas*; and since the covering is used to join them together, no separate mantras for each of the two *havirdhānas* are used; only one mantra is said. For that reason the expression *ukthyaṃ vacaḥ* — 'a speech in the form of a śastra mantra' — is in the singular. While joining these *havirdhānas*, they recite the mantra *yuje vāṃ brahma pūrvyaṃ namobhir viśloka etu pathyeva sūreḥ | śṛṇvantu viśve amṛtasya putrā āye dhāmāni divyāni tasthuḥ ||* (Ṛk. Saṃ. 10-13-1)" — *Gloss, mine and tentative:* "I join your ancient *brahman* with homages; let the fame (of the singer) go forth like a road of the sun [?]; let all the sons of the immortal hear, who have taken their divine stations." *(the gloss is tentative; the verse is garbled in the print at the second pāda [?]).*
+- **उक्थ्यं वचः** — "When the covering called *khadira* [*bhadi*, as printed] is placed over the two vessels called *havirdhāna* in which the oblation is kept, the mantra of the form of a śastra that is said. For this the former half of the present Ṛk — *adhi dvayor adadhā ukthyaṃ vaco yatasrucā mithunā yā saparyataḥ* — is recited. One covering is used for covering the two *havirdhānas*; and since the covering is used to join them together, no separate mantras for each of the two *havirdhānas* are used; only one mantra is said. For that reason the expression *ukthyaṃ vacaḥ* — 'a speech in the form of a śastra mantra' — is in the singular. While joining these *havirdhānas*, they recite the mantra *yuje vāṃ brahma pūrvyaṃ namobhir viśloka etu pathyeva sūreḥ | śṛṇvantu viśve amṛtasya putrā āye dhāmāni divyāni tasthuḥ ||* (Ṛk. Saṃ. 10-13-1)" — **GLOSS** *(the gloss is tentative; the verse is garbled in the print at the second pāda [?]).*
 
 ### Page 69 (PDF 84)
 
@@ -3506,7 +3506,7 @@ itthā candramaso gṛhe ||15||*
 
 > अत्र ह गोः समुमुंसताऽदित्यरश्मयः स्वं नामापीच्यमपचितमुपगतमपिहितमन्तर्हितं वामुत्र चन्द्रमसो गृहे ।
 
-*atra ha goḥ samumuṃsatādityaraśmayaḥ svaṃ nāmāpīcyam apacitam upagatam apihitam antarhitaṃ vāmutra candramaso gṛhe |* (Ni. 2-6) — *Gloss, mine and tentative (the print of this quotation is partly clotted [?]):* "Here, in the house of the moon, the rays of the sun [made themselves] their own name, *āpīcya* — gone, approached, covered, hidden."
+*atra ha goḥ samumuṃsatādityaraśmayaḥ svaṃ nāmāpīcyam apacitam upagatam apihitam antarhitaṃ vāmutra candramaso gṛhe |* (Ni. 2-6) — **GLOSS**
 
 Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, antarhitam vā* ('gone away, covered, hidden'). The rays of the sun, issuing from the solar orb, enter the lunar orb and are hidden within it; that is, being inside, they are not seen by the eye; yet the light of those rays is seen by us as an ordinary, not exceedingly bright, light. *Āpīcyam* means *antarhitam* — 'hidden inside'."
 
@@ -3627,7 +3627,7 @@ Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, anta
 
 > एतौ मे गावौ प्रमरस्य युक्तौ मो षु प्र सेधीर्मुहुरिन्ममन्धि ।
 
-*etau me gāvau pramarasya yuktau mo ṣu pra sedhīr muhur in mamandhi |* (Ṛ. Saṃ. 10-[?]-[?] [?]; the numerals printed are small and doubtful) — *Gloss, mine and tentative (the second half is doubtful):* "These two oxen of mine, yoked [to the chariot] of Pramara — do not drive them away; again and again [let him] rejoice."
+*etau me gāvau pramarasya yuktau mo ṣu pra sedhīr muhur in mamandhi |* (Ṛ. Saṃ. 10-[?]-[?] [?]; the numerals printed are small and doubtful) — **GLOSS**
 
 - **शिमीवतः** — *vīryakarmopetān* — "who perform deeds of valour. *Śimī* means *karma* ('action') (Ni. 3-1)."
 - **भामिनः** — *bhā dīptau* ("to shine") — "brilliant; hence beautiful to behold, in the sense of 'worthy of being looked at'."
@@ -3781,7 +3781,7 @@ Closing of Rik 84.17: "॥ १७ ॥" (17), followed by a printer's ornament.
 
 *ko agnim īṭṭe haviṣā ghṛtena srucā yajātā ṛtubhir dhruvebhiḥ | kasmai devā ā vahān āśu homa ko maṃsate vītihotraḥ sudevaḥ ‖ 18 ‖*
 
-*(Note: the print of the Saṃhitā reads "yajātā" where the Pada and bhāṣya have "yajātai"; as printed, noted [sic?] rather than altered.)* *Gloss, mine and tentative:* "Who invokes Agni with oblation of ghee, with the ladle, will worship [him] with the fixed seasons? To whom will the gods swiftly bring the oblation? Who thinks of [Indra], the one who has performed the sacrifice, with good gods?"
+*(Note: the print of the Saṃhitā reads "yajātā" where the Pada and bhāṣya have "yajātai"; as printed, noted [sic?] rather than altered.)* **GLOSS**
 
 ---
 
@@ -4631,7 +4631,7 @@ Closing of Rik 85.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 > अध क्षरन्ति सिन्धवो न सृष्वाः प्र नीचीरग्ने अरुषीरजानन् ॥
 
-*adha kṣaranti sindhavo na sṛṣvāḥ pra nīcīr agne aruṣīr ajānan ‖* (Ṛ. Saṃ. 1-[?]-[?] [?]) — *Gloss, mine and tentative:* "Then they flow like rivers in spate; the ruddy ones recognised [the way] downward, O Agni." *(Quotation partly doubtful in the print.)*
+*adha kṣaranti sindhavo na sṛṣvāḥ pra nīcīr agne aruṣīr ajānan ‖* (Ṛ. Saṃ. 1-[?]-[?] [?]) — **GLOSS** *(Quotation partly doubtful in the print.)*
 
 > ईशानकृतो धुनयो रिशादसो वातान् विद्युतस्तविषीभिरक्रत । दुहन्त्यूधर्दिव्यानि धूतयो भूमिं पिन्वन्ति पयसा परिज्रयः ॥
 
@@ -6197,7 +6197,7 @@ Closing of Rik 86.10: "॥ १० ॥" (10). *(The print has no separate closing
 
 > ऋजीषी सोमो यत् सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जीषी सोमः ॥
 
-*ṛjīṣī somo yat somasya pūyamānasyātiricyate tad ṛjīṣam apārjitaṃ bhavati tenarjīṣī somaḥ ‖* (Ni. [?] [?]) — *Gloss, mine and tentative:* "*Ṛjīṣī* is Soma: what remains over of Soma that is being purified is *ṛjīṣa*, the residue that is strained off; hence Soma is *ṛjīṣī*." *(Continues on p. 220.)*
+*ṛjīṣī somo yat somasya pūyamānasyātiricyate tad ṛjīṣam apārjitaṃ bhavati tenarjīṣī somaḥ ‖* (Ni. [?] [?]) — **GLOSS** *(Continues on p. 220.)*
 
 ---
 
@@ -6691,7 +6691,7 @@ Closing of Rik 87.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 > अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः ।
 
-*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ |* (Ṛ. Saṃ. 5-54-11) — *Gloss, mine and tentative:* "On your shoulders are spears, on your feet *khādis*, on your breasts golden ornaments, O Maruts; on the chariot there is splendour." *(Both reference numerals are small and doubtful [?].)*
+*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ |* (Ṛ. Saṃ. 5-54-11) — **GLOSS** *(Both reference numerals are small and doubtful [?].)*
 
 - **वाशीमन्तः** — *vāśīti vāṅnāma | śobhanayā stutilakṣaṇayā vācopetāḥ* — "*vāśī* means speech (Ni. 2-23); those who are praised by words in the form of praise. Skandasvāmin explains the word *vāśī* too as a special weapon, and gives the example —
 
@@ -8026,7 +8026,7 @@ Closing of Rik 89.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 > ये अग्निजिह्वा ऋतसाप आसुर्ये मनुं चक्रुरुपरं दसाय ॥
 
-*ye agnijihvā ṛtasāpa āsur ye manuṃ cakrur uparaṃ dasāya ‖* (Ṛ. Saṃ. [6-?-?] [?]) — *Gloss, mine and tentative:* "They who were fire-tongued, bound to the Law, who made Manu [the superior] for the lower one…" *(the second half is read with doubt [?])*
+*ye agnijihvā ṛtasāpa āsur ye manuṃ cakrur uparaṃ dasāya ‖* (Ṛ. Saṃ. [6-?-?] [?]) — **GLOSS** *(the second half is read with doubt [?])*
 
 > द्विजन्मानो य ऋतसापः सत्याः स्वर्वन्तो यजता अग्निजिह्वाः ॥
 
@@ -8343,7 +8343,7 @@ Closing of Rik 89.9: "॥ ९ ॥" (9), followed by a printer's ornament.
 
 > पञ्च जना मम होत्रं जुषध्वं गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः । निषादः कस्मान्निषदनो भवति निषण्णमस्मिन् पापकमिति नैरुक्ताः ॥
 
-*pañca janā mama hotraṃ juṣadhvaṃ gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ | niṣādaḥ kasmān niṣadano bhavati niṣaṇṇam asmin pāpakam iti nairuktāḥ ‖* (Ni. 3-8) — *Gloss, mine and tentative:* "'O five peoples, take pleasure in my offering': some say, the Gandharvas, Pitṛs, gods, Asuras, Rākṣasas; Aupamanyava says, the four castes, and the Niṣāda is the fifth. Why is the Niṣāda so called? Because he is a 'sitting-place' — evil is seated in him, say the etymologists." *(continues on p. 302)*
+*pañca janā mama hotraṃ juṣadhvaṃ gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ | niṣādaḥ kasmān niṣadano bhavati niṣaṇṇam asmin pāpakam iti nairuktāḥ ‖* (Ni. 3-8) — **GLOSS** *(continues on p. 302)*
 
 ---
 
@@ -9058,7 +9058,7 @@ Closing of Rik 90.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 > इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदम् । समूळ्हमस्य पांसुरे ॥
 
-*idaṃ viṣṇur vicakrame tredhā ni dadhe padam | samūḷham asya pāṃsure ‖* (Ṛ. Saṃ. [reference not printed on p. 323 [?]]) — *Gloss, mine and tentative:* "Viṣṇu strode across this; thrice he set down his foot; it is gathered in his dust-filled [footstep]." *(Correction: on p. 323 the print gives these two citations without any reference numerals — the page ends after the second citation — and the numerals are therefore not supplied here. The list of such Ṛks continues on p. 324, where the later citations do carry numerals.)*
+*idaṃ viṣṇur vicakrame tredhā ni dadhe padam | samūḷham asya pāṃsure ‖* (Ṛ. Saṃ. [reference not printed on p. 323 [?]]) — **GLOSS** *(Correction: on p. 323 the print gives these two citations without any reference numerals — the page ends after the second citation — and the numerals are therefore not supplied here. The list of such Ṛks continues on p. 324, where the later citations do carry numerals.)*
 
 ---
 
@@ -10977,7 +10977,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *kratve dakṣāya no hi nu pra ṇa [?] āyūṃṣi tāriṣaḥ |*  (Vā. Saṃ. 34-8; the Saṃhitā text as read, doubtful [?])
 
-*Gloss, mine and tentative (for both):* "Extend our lives, as the sun extends the days; … for strength and skill [extend] our lives."
+**GLOSS**
 
 "— in such places everywhere, *pravardhaya* — 'cause to grow' — is the meaning (Ni. 11-30)."
 
@@ -11270,7 +11270,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *saṃ devaiḥ śobhate vṛṣā kavir yonāv adhi priyaḥ | vṛtrahā devavītamaḥ ‖*  (Ṛ. Saṃ. 9-33-2 [?])
 
-*Gloss, mine and tentative (both):* "Flow clear, most Vṛtra-slaying one, to be gladdened by hymns. — The bull, the poet, dear, in his seat shines with the gods; the Vṛtra-slayer, most inviting the gods."
+**GLOSS**
 
 "— in such Ṛks Soma is described as the slayer of Vṛtra. In such places the word *vṛtra* is generally to be taken in the sense of 'cloud' (Ni. 2-16)."
 
@@ -11401,7 +11401,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *ye ugrebhyaś cid ojīyāñ śūrebhyaś cic chūrataraḥ | bhūridābhyaś cin maṃhīyān ‖*  (Ṛ. Saṃ. 9-66-17; the last word read *maṃhīyān* from a clotted print [?])
 
-*Gloss, mine and tentative (both):* "Great are you, O Soma, eldest of the fierce, mightiest [Indra-like]; by fighting you have conquered always. — He who is stronger than the strong, braver than the brave, more bounteous than the bountiful."
+**GLOSS**
 
 "— the strength and capacity of Soma are exceedingly great. In the same way in the Aitareya Brāhmaṇa too, describing Soma's greatness, it is said that when in the war between the gods and the *asuras* the gods suffered defeat and were praising [him], after they made Soma king they obtained victory in all the quarters:"
 
@@ -11947,7 +11947,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *asthur u citrā uṣasaḥ purastān mitā iva svaravo 'dhvareṣu |*  (Ṛ. Saṃ. 4-51-2)
 
-*Gloss, mine and tentative (for the group):* "…the measures of the *svarus* be peace for us; may the *vedi* be peace for us. — Those gods who stood as *svarus* [sacrificial posts], may they bestow upon us wealth with offspring. — Like geese in rows, bright, clothed [?], the *svarus* came to us. — Like horns of the horned, the *svarus* with their ring-heads were seen on the earth. — The bright Uṣases have stood forth in the east like measured *svarus* at the sacrifices." *(The Saṃhitā texts above are read from the print and each is doubtful in places [?].)*
+**GLOSS** *(The Saṃhitā texts above are read from the print and each is doubtful in places [?].)*
 
 "The word *svaru* in these Ṛks indicates the sense 'sacrificial post'. Yāska has given no explanation of this word."
 
@@ -12074,7 +12074,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *yāvan mātram uṣaso na pratīkaṃ suparṇyo vasate mātariśvaḥ |*  (Ṛ. Saṃ. 10-88-19; the print has *suparṇyo 3 vasate*, a mark of protraction)
 
-*Gloss, mine and tentative:* "As much as the [bright] face of the Uṣases, the well-winged [?] wind dwells [in it]." *(Reading of the whole citation doubtful [?].)*
+**GLOSS** *(Reading of the whole citation doubtful [?].)*
 
 "— in this Ṛk too the word *pratīka* is explained in such a way."
 
@@ -12178,7 +12178,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *eṣā netrī rādhasaḥ sūnṛtānām uṣā ucchantī ribhyate vasiṣṭhaiḥ |*  (Ṛ. Saṃ. 7-766-7)
 
-*Gloss, mine and tentative (both):* "The radiant leader of pleasant words has been noticed; she, the wonderful, has opened our doors. — This leader of bounty and of pleasant words, the Uṣas, shining forth, is praised by the Vasiṣṭhas."
+**GLOSS**
 
 "In some places Sāyaṇa explains the word *sūnṛtānām* as *stutīnām*, 'of praises': 'the leader of the praises'."
 
@@ -12422,7 +12422,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *vy u ṣā āvaḥ pathyā janānāṃ pañca kṣitīr mānuṣīr bodhayantī |*  (Ṛ. Saṃ. 7-79-1 [?])
 
-*Gloss, mine and tentative (for the three):* "…waking the sleepers, as one who has been absent comes back again and again. — Dawning, rousing the living, the Uṣas awakens even the one who seems dead. — The Uṣas opened up the paths of the people, awakening the five human tribes."
+**GLOSS**
 
 "— in many places such as these, the description of the benefit that comes to the world from the Uṣas has been given beautifully in the poetic language of the Ṛksaṃhitā."
 
@@ -12716,7 +12716,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *aruṣasya duhitarā virūpe stṛbhir anyā pipiśe sūro anyā | mithas turā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne ‖*  (Ṛ. Saṃ. 6-49-3)
 
-*Gloss, mine and tentative (for the three):* "The path of the two sisters is the same, endless; they go along it one after another, taught by the gods. — The younger sister yields her place to the elder, as if looking back at her. — The two daughters of the ruddy one, of different forms: one is adorned with stars, the other with the sun; hastening one after the other, moving about, purifying, the praised pair attain the heard prayer."
+**GLOSS**
 
 "In many Ṛks such as these, describing the sister-relation of the Night and the Uṣas, it is explained that both, by their constant and regulated movement, are the cause of the progress of the world. Hence here too it can be said that *svasāram* means 'sister'."
 
@@ -12748,7 +12748,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *aminatī daivyāni vratāni praminatī manuṣyā yugāni |*  (Ṛ. Saṃ. 1-124-2)
 
-*Gloss, mine and tentative (for both):* "Those mortals who saw the earlier Uṣas dawning have gone. — Not infringing the divine laws, bringing to an end the ages of men."
+**GLOSS**
 
 "— in many such places the picture of the brevity of human life is drawn: all who saw this eternal beauty of the Uṣas in former times and were pleased have passed away; those who come afterwards will be the same; but the Uṣas alone is eternal, ever young: so the idea is expressed."
 
@@ -13115,7 +13115,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *āveyam aśvaid yuvatiḥ purastād yuṅkte gavām aruṇānām anīkam |*  (Ṛ. Saṃ. 1-124-11)
 
-*Gloss, mine and tentative (for the four):* "May the ruddy [steeds] carry you to the house of the Soma-bearer. — May the well-tamed horses of broad strength carry you, golden-coloured. — The ruddy, wonderful horses, bearing Uṣas, were seen opposite the shining ones. — This young woman has come from the east; she yokes the host of ruddy cows."
+**GLOSS**
 
 "— in many contexts the vehicles of Uṣas are described."
 
@@ -13211,7 +13211,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *arvāg rathaṃ ni yacchataṃ pibataṃ somyaṃ madhu |*  (Ṛ. Saṃ. 8-35-22; numerals as read, doubtful)
 
-*Gloss, mine and tentative (for both):* "With one mind turn your chariot this way, and drink the Soma-sweet."
+**GLOSS**
 
 "— thus, in all the prayers made to them, the 'turning of the chariot to face this way' is praised."
 
@@ -13400,7 +13400,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *dasrā hiraṇyavartanī śubhas patī pātaṃ somam ṛtāvṛdhā |*  (Ṛ. Saṃ. 8-87-5)
 
-*Gloss, mine and tentative (for the group):* "O Dasras of the golden path, gracious, carried by the river [?], sweet, hear my call. — Growing strong, lords of splendour, Dasras of the golden chariot. — Dasras of the golden chariot, drink the sweet Soma. — Dasras of the golden chariot, lords of splendour, drink the Soma, increasers of Ṛta." *(The Saṃhitā texts and numerals of these four are read from the print and are doubtful in places [?].)*
+**GLOSS** *(The Saṃhitā texts and numerals of these four are read from the print and are doubtful in places [?].)*
 
 "— in all these Ṛks the two attributes *dasrā* and *hiraṇyavartanī* together describe the form and the beauty of the Aśvin deities."
 
@@ -13707,7 +13707,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *tvaṃ ca soma no vaśo jīvātuṃ na marāmahe |*  (Ṛ. Saṃ. 1-91-6 [read in the print; this is Rik 91.6, p. 347 above])
 
-*Gloss, mine and tentative (for the first two, which are doubtful in reading):* "[Agni] nourishes a household possessed of vigour, living a hundred years. — [He] gives a quick-going [?] son to the giver, who makes the master famous." *(Both first citations are read with considerable doubt [?].)*
+**GLOSS** *(Both first citations are read with considerable doubt [?].)*
 
 ---
 
@@ -13730,7 +13730,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *ihaiva staṃ mā vi yauṣṭaṃ viśvam āyur vy aśnutam | krīḷantau putrair naptṛbhir modamānau sve gṛhe ‖*  (Ṛ. Saṃ. 10-85-42)
 
-*Gloss, mine and tentative (for both):* "Those two, with sons and with children, attain the full life. — Remain just here, do not be parted; attain the full lifespan, playing with sons and grandsons, rejoicing in your own house."
+**GLOSS**
 
 "— as said in such Ṛks, it is described in many places that for the donor of oblations the gain of all sons, grandsons and the rest, and the delight arising from them, as well as a long life, is obtained."
 
@@ -13822,7 +13822,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *tvaṃ dasyūṃ r okaso agna āja uru jyotir janayann āryāya |*  (Ṛ. Saṃ. 7-5-6; the Saṃhitā text as read [?])
 
-*Gloss, mine and tentative (for both):* "Agni drove away [or confounded] those enemies of Paṇi — faithless, of weak speech, fettered, unworshipping, non-sacrificing — and made the former ones [lower] than the latter, the non-sacrificers. — You, Agni, drove the Dasyus from their dwelling, producing wide light for the Ārya."
+**GLOSS**
 
 "— as described in these Ṛks, it becomes known that Agni too freed the Āryas from the oppression of the *asuras* named Paṇi and furnished them with light."
 
@@ -14142,7 +14142,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *īḷenyaṃ prathamaṃ mātariśvā devās tetakṣur manave yajatram |*  (Ṛ. Saṃ. 10-46-9)
 
-*Gloss, mine and tentative (for the group):* "Mātariśvan brought for Bhṛgu the twice-born one, like a prized treasure. — Whom Mātariśvan [brought] for Manu from afar, the god, the radiance from afar. — Mātariśvan brought him, churned out for the gods, from afar. — The messenger Agni brought Vaiśvānara, Mātariśvan [brought him] from afar, for the shining one. — The gods fashioned the adorable first one, whom Mātariśvan [brought], for Manu."
+**GLOSS**
 
 "— in many such Ṛks it is well known in the śruti that Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, called Agni who had been hidden in a distant place and benefitted all the creatures of the earth. This story will be explained in detail later."
 
@@ -14789,7 +14789,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *etaṃ vāṃ stomam aśvināv akarmātakṣāma bhṛgavo na ratham |*  (Ṛ. Saṃ. 10-39-14)
 
-*Gloss, mine and tentative (for the group):* "For him I fashion this hymn, as a carpenter [fashions] a chariot for the hirer. — Like a fair, well-made garment, I, the wise one, skilful, fashioned [the hymn] as a chariot. — So for Indra the bull, the showerer, we have made the prayer, as the Bhṛgus [made] a chariot. — This hymn for you, O Aśvins, we have made, we have fashioned it, as the Bhṛgus a chariot."
+**GLOSS**
 
 "— in such Ṛks, the skill in fashioning a hymn of poetic form and the skill in fashioning a chariot are shown as alike, and the greatness of hymns is praised."
 
@@ -15262,7 +15262,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > *hotāraṃ citrarathm adhvarasya yajñasya-yajñasya ketuṃ ruśantam |*
 > (*Ṛ. Saṃ.* 10-1-5 as read [?])
 
-*(The print reads* citrarathm *as given; presumably* citrarathaṃ *[?]. Gloss, mine and tentative: "the Hotṛ of the bright chariot, of the rite, the banner of every sacrifice, the shining one".)*
+*(The print reads* citrarathm *as given; presumably* citrarathaṃ *[?]. **GLOSS**.)*
 
 > सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
 > *sadyo jāto vy amimīta yajñam agnir devānām abhavat purogāḥ |*
@@ -15356,7 +15356,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > तमोऽस्यन्ध उच्यते नास्मिन् ध्यानं भवति न दर्शनमन्धन्तम इत्यभिभाषन्ते ।
 > *tamo 'sy andha ucyate nāsmin dhyānaṃ bhavati na darśanam andhantama ity abhibhāṣante |*
 
-*(Gloss, mine and tentative: "Darkness is called* andha*: in it there is no seeing and no sight; they say 'the blindest dark'." The Kannada adds:)* "Because one cannot look, or cannot go forward, in it. The word *andha* means 'darkness'. The expression of the people, 'it is dark (blinding) darkness', is well known."
+*(**GLOSS** The Kannada adds:)* "Because one cannot look, or cannot go forward, in it. The word *andha* means 'darkness'. The expression of the people, 'it is dark (blinding) darkness', is well known."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*
 
@@ -15535,7 +15535,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 "— in Ṛks such as this, the word *sugaṃ*, from the moral standpoint, means 'what is to be gone to well' (*suṣṭhu gantavyaṃ*): '*yajñānuṣṭhānāya sumatiṃ dehi*', 'give a good mind for the performance of sacrifice'; it is also understood as the good sense that performs sacrifice and the like. Moreover, in places such as 6-20-4; 6-109-2 [?], the word *sugaṃ* is explained as 'happiness'."
 
-"Skandasvāmin explains this last sense as to be taken in this Ṛk also, saying *āsetitam api sukhanāmaitat; iha draṣṭavyaṃ* [read as printed, doubtful [?]; gloss, mine and tentative: 'this too is a name for happiness; to be seen here'], and cites the Ṛk —"
+"Skandasvāmin explains this last sense as to be taken in this Ṛk also, saying *āsetitam api sukhanāmaitat; iha draṣṭavyaṃ* [read as printed, doubtful [?]; **GLOSS**], and cites the Ṛk —"
 
 > अस्मभ्यमिन्द्र वरिवः सुगं कृधि प्र शत्रूणां मघवन् वृष्ण्या रुज ।
 > *asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇāṃ maghavan vṛṣṇyā ruja |*
@@ -15625,7 +15625,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > *vi vātajūto atiseṣu tiṣṭhate vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ |*
 > (*Ṛ. Saṃ.* 1-54-4 as read [?])
 
-*(The print's word before* tiṣṭhate *is read* atiseṣu *as printed, and is the Kannada-script reading of* atasesu*; doubtful [?]. Gloss, mine and tentative: "wind-driven, he stands apart among the bushes, with ladles, with the sickle, loud in sound".)*
+*(The print's word before* tiṣṭhate *is read* atiseṣu *as printed, and is the Kannada-script reading of* atasesu*; doubtful [?]. **GLOSS**.)*
 
 > यद्वातजूतो वना व्यस्थादग्निर्ह दाति रोमा पृथिव्याः ।
 > *yad vātajūto vanā vy asthād agnir ha dāti romā pṛthivyāḥ |*
@@ -15782,7 +15782,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > मित्रो वरुणो मरुतश्च कुत्सस्य यज्ञमाजग्मुः । सोऽग्निस्तुत्या क्षिप्तमनाः तान्न तुष्टाव [?] । तस्मै क्रुद्धा यज्ञाद्देवा जग्मुः । तत्प्रसक्तये [?] कुत्सोऽग्निमुवाच ।
 > *mitro varuṇo marutaś ca kutsasya yajñam ājagmuḥ | so 'gnistutyā kṣiptamanāḥ tān na tuṣṭāva [?] | tasmai kruddhā yajñād devā jagmuḥ | tatprasaktaye [?] kutso 'gnim uvāca |*
 
-*(Gloss, mine and tentative, from the Kannada that follows: "Mitra, Varuṇa and the Maruts came to Kutsa's sacrifice; he, his mind absorbed in praising Agni, did not praise them [?]; the angry gods went away from the sacrifice; [for that reason] Kutsa spoke to Agni." Several words of the print are doubtful [?].)*
+*(**GLOSS** Several words of the print are doubtful [?].)*
 
 ### Page 552 (PDF 567)
 
@@ -16082,7 +16082,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > *rāye mitrāvaruṇā sarvatātā īḷe śokāya tanayāya śaṃ yoḥ |*
 > (*Ṛ. Saṃ.* 5-69-3 as read [?])
 
-*(The middle quotation is clotted in the print and the words are read as given, doubtful [?]. Glosses, mine and tentative, for the first and third: "may he, the messenger of the gods, sent forth in many places, speak for us, sinless, in the rite"; "for riches, Mitra and Varuṇa, I invoke at the sacrifice, for the offspring, for weal and welfare".)* "In Ṛks like these also, and in 1-[?]-[?]; 2-[?]-[?] and many other Ṛks, the word *sarvatātā* is used as a synonym of 'sacrifice'. In this context it can be taken to mean 'in the midst of all rites'."
+*(The middle quotation is clotted in the print and the words are read as given, doubtful [?]. **GLOSS**.)* "In Ṛks like these also, and in 1-[?]-[?]; 2-[?]-[?] and many other Ṛks, the word *sarvatātā* is used as a synonym of 'sacrifice'. In this context it can be taken to mean 'in the midst of all rites'."
 
 ***anāgāstvaṃ*** — "'Freedom from sin', or 'fitness for rites that is free from sin'. From ignorance, through any sort of lapse in the rites or any other kind of deficiency, with the faith 'Agni will release us from this fault', a prayer of this kind is made to Agni at every step. For example —"
 
@@ -16096,7 +16096,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 > *yat kṣīmāgaś ca kṛmā tat su mṛḷa tad aryamāditiḥ śiśrathantu | [?]*
 > (*Ṛ. Saṃ.* 7-18-[?] [?], numeral as read "२-४१-६" [?])
 
-*(Gloss, mine and tentative, for the first: "whatever offence, youngest one, we have committed against you among the mortals through our lack of understanding — make us sinless before Aditi, loosen the sins on every side, Agni". The second quotation is clotted and I read it as given, doubtful [?].)* "In many such contexts the prayer to Agni that all sins be destroyed is made with deep repentance and with faith."
+*(**GLOSS**. The second quotation is clotted and I read it as given, doubtful [?].)* "In many such contexts the prayer to Agni that all sins be destroyed is made with deep repentance and with faith."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā of Rik 94.15** *(grammar page, noted briefly; continues on p. 563)*
 
