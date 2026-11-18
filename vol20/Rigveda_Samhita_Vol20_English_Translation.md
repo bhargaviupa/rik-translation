@@ -9796,6 +9796,152 @@ Note: the two sūktas below are mantras that the bridegroom speaks, addressing t
 
 अप्रजस्तां पौत्रमृत्युं पाप्नानमत नाघं । शीर्ष्णः स्रजमिवोन्मुच्य द्विषध्भ्यः प्रतिमुंचामि पाशं ॥ (*aprajastāṃ pautramṛtyuṃ pāpnānamata nāghaṃ | śīrṣṇaḥ srajamivonmucya dviṣadhbhyaḥ pratimuṃcāmi pāśaṃ ‖*)
 
+### Printed p. 266
+
+#### Ṛk 5
+
+देवकृतं ब्राह्मणं कल्पमानं तेन हन्मि योनिषदः पिशाचान् । क्रव्यादो मृत्यूनधरान् पातयामि दीर्घमायुस्तव जीवंतु पुत्राः ॥ (*devakṛtaṃ brāhmaṇaṃ kalpamānaṃ tena hanmi yoniṣadaḥ piśācān | kravyādo mṛtyūnadharān pātayāmi dīrghamāyustava jīvaṃtu putrāḥ ‖*)
+
+##### भावार्थ (Bhāvārtha)
+
+Main purport.
+
+Note—These mantras are ordinarily used as the principal oblation mantras in the marriage homa.
+
+1. (1) May Agni, first of all the gods, come here. Having come, may that Agni protect and guard the offspring of this woman, that is, her child, from the fear of death. May Varuṇa, the lord, also approve this. That is to say: may Agni and Varuṇa grant that this woman may suffer no kind of distress on account of her son and so may not weep on that account.
+
+(2) May this Gārhapatya fire (the fire established in the house for the principal marriage homa) guard this bride well. And may it make the child that this maiden will bear long-lived and protect it. May this woman's lap never be empty; that is, may she always keep a child on her lap, and may her children live. May this woman, as a mother, fully enjoy the delight that comes from her son.
+
+(3) O maiden, in your house, by night (and by day too), let there be no lamentation, that is, no weeping and wailing from grief. May all sorrows, beginning with weeping, go far away to another place. May evil acts such as tearing the hair in grief, lamenting and beating the breast not take place. May you suffer neither separation from your husband nor separation from your sons. May you live long in the house with your husband and rejoice, seeing your children playing happily.
+
+(4) O woman, childlessness, or the death of a child after its birth, or sorrow, and the other kinds of distress that are the fruit of sinful deeds: all these I (Agni) remove, as one takes off from the neck a faded garland of flowers, and so I protect you.
+
+(5) O woman, I (Agni) will destroy the sin and the sorrow that may arise from divine effort, from a Brahmin's curse, or from any other cause. I will strike down and destroy the piśāca and other seizing spirits, the yakṣas, rākṣasas and the like, and untimely death, which torment the child in your womb. May your sons be long-lived and live for a long time.
+
+### Printed p. 267
+
+## Pariśiṣṭa-sūkta 11 (Śrī-sūkta)
+
+**The Śrī-sūkta**
+
+**Introduction**
+
+The Śrī-sūkta is among the appendix mantras (pariśiṣṭa) that are to be recited at the end of the fifth maṇḍala of the Ṛgveda-saṃhitā. Since it is the custom to recite this sūkta daily in abhiṣeka, worship, pārāyaṇa and similar rites, it is a matter known to all that it is of use to everyone. Therefore this Śrī-sūkta is written here together with the necessary bhāṣya, explanation, special matters and other details. Although there are many bhāṣyas on this sūkta, of them the Śrī-Vidyāraṇya-bhāṣya and the Pṛthvīdharācārya-bhāṣya are the chief. Therefore, following these two bhāṣyas, there have been added for every mantra the word-meaning, the purport, special matters such as the fruit of recitation (phalaśruti) found in other works, the seer, deity and metre for each mantra, for the use of those who recite it, the aṅganyāsa, karanyāsa, the meditation verse and other useful matters. As stated in the phalaśruti of this sūkta: श्रियः पंचदशर्चं च श्रीकामः सततं जपेत् (*śriyaḥ paṃcadaśarcaṃ ca śrīkāmaḥ satataṃ japet*). In this sūkta there are only fifteen Ṛks. The sixteenth describes the fruit of reciting this sūkta. The mantras recited after that are in the form of ślokas and describe the qualities and greatness of the Goddess. There is no bhāṣya on these. Since it is the custom to recite them, only their main purport is explained, all of them.
+
+श्रीः (*śrīḥ*)
+
+अथ श्रीसूक्तं (*atha śrīsūktaṃ*)
+
+वेदार्थस्य प्रकाशेन तमोहार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamohārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+Seers: आनंद, कर्दम, श्रीद, चिक्लीताः, श्रीपुत्राः (*ānaṃda, kardama, śrīda, ciklītāḥ, śrīputrāḥ*).
+
+Deity: श्रीरग्निश्च (*śrīragniśca*).
+
+Metre: अनुष्टुप् । ४. बृहती । ५-६. त्रिष्टुप् । १५. प्रस्तारपंक्तिः (*anuṣṭup | 4. bṛhatī | 5-6. triṣṭup | 15. prastārapaṃktiḥ*).
+
+अथ समष्टिसूक्तस्य ऋषिदेवताछंदांसि (*atha samaṣṭisūktasya ṛṣidevatāchaṃdāṃsi*)
+
+ओं हिरण्यवर्णामिति पंचदशर्चस्य सूक्तस्य श्री आनंदकर्दमचिक्लीतेंदिरा ऋषयः । श्रीरग्निर्देवता । आद्यास्ति स्रोऽनुष्टुभः । चतुर्थी बृहती । पंचमीषष्टौ त्रिष्टुभौ । ततोऽष्टावनुष्टुभः । अंत्या प्रस्तारपंक्तिः ॥ हिरण्यवर्णामिति बीजं । तां म आ वह जातवेद इति शक्तिः । कीर्तिमृद्धिं ददातु म इति कीलकं ॥ मम श्रीमहालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*oṃ hiraṇyavarṇāmiti paṃcadaśarcasya sūktasya śrī ānaṃdakardamaciklīteṃdirā ṛṣayaḥ | śrīragnirdevatā | ādyāsti sro 'nuṣṭubhaḥ | caturthī bṛhatī | paṃcamīṣaṣṭau triṣṭubhau | tato 'ṣṭāvanuṣṭubhaḥ | aṃtyā prastārapaṃktiḥ ‖ hiraṇyavarṇāmiti bījaṃ | tāṃ ma ā vaha jātaveda iti śaktiḥ | kīrtimṛddhiṃ dadātu ma iti kīlakaṃ ‖ mama śrīmahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*)
+
+### Printed p. 268
+
+**Aṅganyāsa**
+
+अथांगन्यासः (*athāṃganyāsaḥ*)
+
+- Head: ओं हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजां । चंद्रां हिरण्मयां लक्ष्मीं जातवेदो म आ वह—शिरसि ॥ (*oṃ hiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajāṃ | caṃdrāṃ hiraṇmayāṃ lakṣmīṃ jātavedo ma ā vaha—śirasi ‖*)
+- Eyes: ओं तां म आ वह जातवेदो लक्ष्मीमनपगामिनीं । यस्यां हिरण्यं विंदेयं गामश्वं पुरुषानहं—नेत्रयोः ॥ (*oṃ tāṃ ma ā vaha jātavedo lakṣmīmanapagāminīṃ | yasyāṃ hiraṇyaṃ viṃdeyaṃ gāmaśvaṃ puruṣānahaṃ—netrayoḥ ‖*)
+- Ears: ओं अश्वपूर्णां रथमध्यां हस्तिनादप्रमोदिनीं । श्रियं देवीमुप ह्वये श्रीर्मा देवी जुषतां—कर्णयोः ॥ (*oṃ aśvapūrṇāṃ rathamadhyāṃ hastinādapramodinīṃ | śriyaṃ devīmupa hvaye śrīrmā devī juṣatāṃ—karṇayoḥ ‖*)
+- Nose: ओं कांसोस्मितां हिरण्यपाकारामाद्र्रां ज्वलंतीं तृप्तां तर्पयंतीं । पद्मे स्थितां पद्मवर्णां तामिहोप ह्वये श्रियं—नासिकायां । (*oṃ kāṃsosmitāṃ hiraṇyapākārāmādrrāṃ jvalaṃtīṃ tṛptāṃ tarpayaṃtīṃ | padme sthitāṃ padmavarṇāṃ tāmihopa hvaye śriyaṃ—nāsikāyāṃ |*)
+- Mouth: ओं ओं चंद्रां प्रभासां यशसा ज्वलंतीं श्रियं लोके देवजुष्टामुदारां ! तां पद्मिनीमिां शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृषे— मुखे॥ (*oṃ oṃ caṃdrāṃ prabhāsāṃ yaśasā jvalaṃtīṃ śriyaṃ loke devajuṣṭāmudārāṃ ! tāṃ padminīmiāṃ śaraṇamahaṃ prapadye 'lakṣmīrme naśyatāṃ tvāṃ vṛṣe— mukhe‖*)
+- Throat: ओं आदित्यवर्णॆ तपसोऽधि जातो वनस्पतिस्थव वृक्षोऽथ बिल्वः । तस्य फलानि तपसा नुदंतु मायां तरा याश्च बाह्या अलक्ष्मीः—कंठे ॥ (*oṃ ādityavarṇè tapaso 'dhi jāto vanaspatisthava vṛkṣo 'tha bilvaḥ | tasya phalāni tapasā nudaṃtu māyāṃ tarā yāśca bāhyā alakṣmīḥ—kaṃṭhe ‖*)
+- Arms: ओं उषैतु मां देवसखि कीर्तिश्च मणीना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे—बाह्वोः ॥ (*oṃ uṣaitu māṃ devasakhi kīrtiśca maṇīnā saha | prādurbhūto 'smi rāṣṭre 'smin kīrtimṛddhiṃ dadātu me—bāhvoḥ ‖*)
+- Heart: ओं क्षुत्पिपासामलां जेष्ठामलक्ष्मीं नाशयाम्यहं । अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात्—हृदये ॥ (*oṃ kṣutpipāsāmalāṃ jeṣṭhāmalakṣmīṃ nāśayāmyahaṃ | abhūtimasamṛddhiṃ ca sarvāṃ nirṇuda me gṛhāt—hṛdaye ‖*)
+- Navel: ओं गंधद्वारां दुराधर्षां नित्यपुष्टां करीषिणीं । ईश्वरीं सर्वभूतानां तामिहोप ह्वये श्रियं—नाभौ ॥ (*oṃ gaṃdhadvārāṃ durādharṣāṃ nityapuṣṭāṃ karīṣiṇīṃ | īśvarīṃ sarvabhūtānāṃ tāmihopa hvaye śriyaṃ—nābhau ‖*)
+- Secret part: ओं मनसः काममाकूतिं वाचः सत्यमशीमहि । पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः—गुह्ये ॥ (*oṃ manasaḥ kāmamākūtiṃ vācaḥ satyamaśīmahi | paśūnāṃ rūpamannasya mayi śrīḥ śrayatāṃ yaśaḥ—guhye ‖*)
+- Feet: ओं कर्दमेन प्रजा भूता मयि संभव कर्दम । श्रियं वासय मे कुले मातरं पद्ममालिनीं—पादौ ॥ (*oṃ kardamena prajā bhūtā mayi saṃbhava kardama | śriyaṃ vāsaya me kule mātaraṃ padmamālinīṃ—pādau ‖*)
+- Thighs: ओं आपः सृजंतु स्निग्धानि चिक्लीत वस मे गृहे । नि च देवीं मातरं श्रियं वासय मे कुले—ऊर्वोः ॥ (*oṃ āpaḥ sṛjaṃtu snigdhāni ciklīta vasa me gṛhe | ni ca devīṃ mātaraṃ śriyaṃ vāsaya me kule—ūrvoḥ ‖*)
+
+### Printed p. 269
+
+- Knees: ओं आद्र्रा० पुष्करिणीं पुष्टिं पिंगलां पद्ममालिनीं । चंद्रां हिरण्मयीं लक्ष्मीं जातवेदो म आ वह—जान्वोः ॥ (*oṃ ādrrā0 puṣkariṇīṃ puṣṭiṃ piṃgalāṃ padmamālinīṃ | caṃdrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma ā vaha—jānvoḥ ‖*)
+- Shanks: ओं आद्र्रां यः करिणीं यष्टिं सुवर्णां हेममालिनीं । सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आ वह-जंघयोः ॥ (*oṃ ādrrāṃ yaḥ kariṇīṃ yaṣṭiṃ suvarṇāṃ hemamālinīṃ | sūryāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma ā vaha-jaṃghayoḥ ‖*)
+- Feet: ओं तां म आ वह जातवेदो लक्ष्मीमनपगामिनीं । यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान्विंदेयं पुरुषानहं—॥ पादयोः ॥ (*oṃ tāṃ ma ā vaha jātavedo lakṣmīmanapagāminīṃ | yasyāṃ hiraṇyaṃ prabhūtaṃ gāvo dāsyo 'śvānviṃdeyaṃ puruṣānahaṃ—‖ pādayoḥ ‖*)
+
+इत्यंगन्यासः (*ityaṃganyāsaḥ*)
+
+**Karanyāsa**
+
+अथ करन्यासः (*atha karanyāsaḥ*)
+
+ओं नमो भगवत्यै, मताक्षत्रै भगवत्यै महालक्ष्मी हैरण्यवर्णायै—अंगुष्ठाभ्यां नमः । ,, ,, हरिण्यै—तर्जनीभ्यां नमः । ,, ,, सुवर्णरजतस्रजाय्कॆ—मध्यमाभ्यां नमः । ,, ,, चंद्रायै—अनामिकाभ्यां नमः । ,, ,, हिरण्मय्कॆ—कनिष्ठिकाभ्यां नमः । ,, ,, लक्ष्मी—करतलकरपृष्ठाभ्यां नमः । ,, ,, हिरण्यवर्णायै—हृदयाय नमः । ,, ,, हरिण्यै—शिरसे स्वाहा । ,, ,, सुवर्णरजतस्रजाय्कॆ—शिखाय्कॆ वषट् । ,, ,, चंद्रायै—कवचाय हुं । ,, ,, हिरण्मय्कॆ—नेत्रत्रयाय वौषट् । ,, ,, लक्ष्मी—अस्त्राय फट् । (*oṃ namo bhagavatyai, matākṣatrai bhagavatyai mahālakṣmī hairaṇyavarṇāyai—aṃguṣṭhābhyāṃ namaḥ | ,, ,, hariṇyai—tarjanībhyāṃ namaḥ | ,, ,, suvarṇarajatasrajāykè—madhyamābhyāṃ namaḥ | ,, ,, caṃdrāyai—anāmikābhyāṃ namaḥ | ,, ,, hiraṇmaykè—kaniṣṭhikābhyāṃ namaḥ | ,, ,, lakṣmī—karatalakarapṛṣṭhābhyāṃ namaḥ | ,, ,, hiraṇyavarṇāyai—hṛdayāya namaḥ | ,, ,, hariṇyai—śirase svāhā | ,, ,, suvarṇarajatasrajāykè—śikhāykè vaṣaṭ | ,, ,, caṃdrāyai—kavacāya huṃ | ,, ,, hiraṇmaykè—netratrayāya vauṣaṭ | ,, ,, lakṣmī—astrāya phaṭ |*)
+
+भूर्भुवस्सुवरोमिति दिग्बंधः (*bhūrbhuvassuvaromiti digbaṃdhaḥ*)
+
+**Dhyāna (meditation)**
+
+ध्यानं (*dhyānaṃ*)
+
+अरुणकमलसंस्था तद्रजःपुंजवर्णा करकमलधृतेष्टाभीतियुग्मांबुजाता । मणिमुकुटविचित्रालंकृतिः पद्ममाला भवतु भुवनमाता संततं श्रीः श्रियै नः ॥ (*aruṇakamalasaṃsthā tadrajaḥpuṃjavarṇā karakamaladhṛteṣṭābhītiyugmāṃbujātā | maṇimukuṭavicitrālaṃkṛtiḥ padmamālā bhavatu bhuvanamātā saṃtataṃ śrīḥ śriyai naḥ ‖*)
+
+कमलं कलशं धेनुं ज्ञानमंजलिमेव च । पंच मुद्राः प्रदर्श्याथ श्रीसूक्तं प्रजपेद्बुधः ॥ (*kamalaṃ kalaśaṃ dhenuṃ jñānamaṃjalimeva ca | paṃca mudrāḥ pradarśyātha śrīsūktaṃ prajapedbudhaḥ ‖*)
+
+### Printed p. 270
+
+**Mukhyābhiprāya (main purport)**
+
+This Goddess Śrī is seated on a red lotus flower. Like that same red lotus she shines with a bright radiance of the kind that is desired of a deity. In two of her hands she bears the signs of granting wishes and of giving freedom from fear, and in the other two hands lotus flowers. She wears a crown made of many kinds of jewels and a garland of lotus flowers. She is resplendent with many kinds of wondrous ornaments. May such a Goddess Śrī, the mother of all the worlds, always bring us increase of wealth and be graciously disposed towards us.
+
+Having meditated in this way and having shown the five mudrās called lotus, pitcher, cow, knowledge and añjali, the wise man should then recite this Śrī-sūkta.
+
+**Japa-mantra**
+
+जपमंत्र (*japamaṃtra*)
+
+हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजां । (*hiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajāṃ |*)
+
+अ. ................... (*a. ...................*)
+
+यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान् विंदेयं पुरुषानहं ॥ १५ ॥ (*yasyāṃ hiraṇyaṃ prabhūtaṃ gāvo dāsyo 'śvān viṃdeyaṃ puruṣānahaṃ ‖ 15 ‖*)
+
+[These fifteen Ṛks are to be recited according to one's ability. Since these Ṛks are explained separately at the time of the explanation of meaning, all of them are to be put together and recited.]
+
+**Separate procedure for each Ṛk**
+
+सूक्तस्यैव विधिः प्रोक्तं प्रत्येकं च वदाम्यहं ॥ (*sūktasyaiva vidhiḥ proktaṃ pratyekaṃ ca vadāmyahaṃ ‖*)
+
+The procedure for reciting the sūkta as a whole has been stated above. Now the procedure for reciting each Ṛk separately will be described, together with its aṅganyāsa, meditation, explanation of meaning, phalaśruti and other matters.
+
+**First Ṛk**
+
+अस्य श्रीसूक्तस्थ प्रथम ऋङ्ममहामंत्रस्य । जातवेद ऋषिः । अनुष्टुप् छंदः । सर्वसौभाग्यदायिनी श्री महालक्ष्मीर्देवता । हिरण्यवर्णामिति बीजं । स्वाहा शक्तिः । श्रीं ह्रीं क्लीं कीलकं (अथवा श्रीं बीजं । ह्रीं शक्तिः । क्लीं कीलकं इति पाठांतरं) श्रीसूक्त प्रथम ऋङ्ममहामंत्रप्रसादसिद्ध्यर्थे जपे विनियोगः । ओं हिरण्यवर्णां-अंगुष्ठाभ्यां नमः । (*asya śrīsūktastha prathama ṛṅmamahāmaṃtrasya | jātaveda ṛṣiḥ | anuṣṭup chaṃdaḥ | sarvasaubhāgyadāyinī śrī mahālakṣmīrdevatā | hiraṇyavarṇāmiti bījaṃ | svāhā śaktiḥ | śrīṃ hrīṃ klīṃ kīlakaṃ (athavā śrīṃ bījaṃ | hrīṃ śaktiḥ | klīṃ kīlakaṃ iti pāṭhāṃtaraṃ) śrīsūkta prathama ṛṅmamahāmaṃtraprasādasiddhyarthe jape viniyogaḥ | oṃ hiraṇyavarṇāṃ-aṃguṣṭhābhyāṃ namaḥ |*)
+
+### Printed p. 271
+
+**Dhyāna of the first Ṛk**
+
+अथ ध्यानं ॥ कांत्या कांचनसंनिभां हरगिरिप्रख्यैश्चतुर्भिर्गजैर्हस्तक्षिप्तहिरण्मयामृतघटैरासिच्यमानां श्रियं । नानारत्नसमुज्ज्वलां करलसत्पद्मां किरीटोज्ज्वलां क्षौमाबद्धनितंबबिंबलसितां वंदेऽरविंदस्थितां ॥ इति ध्यात्वा । निर्दिष्टसंख्यया जपं कृत्वा उत्तर न्यासं च कृत्वा देवै जपसमर्पणं कुर्यात् । (*atha dhyānaṃ ‖ kāṃtyā kāṃcanasaṃnibhāṃ haragiriprakhyaiścaturbhirgajairhastakṣiptahiraṇmayāmṛtaghaṭairāsicyamānāṃ śriyaṃ | nānāratnasamujjvalāṃ karalasatpadmāṃ kirīṭojjvalāṃ kṣaumābaddhanitaṃbabiṃbalasitāṃ vaṃde 'raviṃdasthitāṃ ‖ iti dhyātvā | nirdiṣṭasaṃkhyayā japaṃ kṛtvā uttara nyāsaṃ ca kṛtvā devai japasamarpaṇaṃ kuryāt |*)
+
+#### Ṛk 1
+
+**First Ṛk**
+
+हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजां । चंद्रां हिरण्मयीं लक्ष्मीं जातवेदो म आ वह ॥ १ ॥ (*hiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajāṃ | caṃdrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma ā vaha ‖ 1 ‖*)
+
+**Vidyāraṇya-bhāṣya**
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni, of known wisdom, you are asked to call to me Śrī who is of this kind. Hiraṇyavarṇā: she whose colour (radiance) is like that of gold. Hariṇī: she of green-golden colour, or she who has taken the form of a doe; the Purāṇa is cited for this: Śrī, having taken the form of a doe, wandered in the forest. Suvarṇarajatasrajām: she who has a garland of golden and silver flowers; the flowers of gold are golden and those of silver are silver, and from the word for a garland it is understood that they are flowers, by their resemblance to flowers; or else, she who has a chain made from gold and silver, whose colour is good being gold and silver, a chain of flowers or a chain made of those. Candrā: shining like the moon, or abiding in that form. Hiraṇmayī: of the nature of gold, or having a body of gold. Lakṣmī: possessed of auspicious marks, citing the Nirukta: Lakṣmī from lakṣaṇa (mark). Śrī of this form, for me, for my sake, bring, call. Agni is the carrier of oblations of the gods; the calling of her follows from that, so it depends on him. This is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who knows everything (you)
+- हिरण्यर्णां (*hiraṇyarṇāṃ*)—she who is resplendent with a bodily radiance as exceedingly brilliant as gold
+- हरिणीं (*hariṇīṃ*)—she who has a fair (green-golden) coloured body, or who has taken the form of a doe
+- सुवर्णरजतस्रजां (*suvarṇarajatasrajāṃ*)—she who wears a garland made of flowers fashioned of gold and of flowers fashioned of silver, or of yellow flowers of the colour of gold and white flowers of the colour of silver, made of
+
 ---
 
-**Progress note:** Done through printed p. 265. Sūkta 87 Ṛks 8-9, end of Maṇḍala 5, Pariśiṣṭa sūkta 9 and start of 10
+**Progress note:** Done through printed p. 271. Vol 5 appendix: end of Vivaha sukta commentary; Sri-sukta introduction, nyasa, dhyana, first Rk start
