@@ -240,7 +240,7 @@ The sky-traversing steeds of the showerer (of benefits) are the milch cows (of A
 पूष्णः । पृषश्यो मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्व (*pūṣṇaḥ | pṛṣaśyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśva*)
 रूपा बृहस्पतेः । नियुतो वायोः । (*rūpā bṛhaspateḥ | niyuto vāyoḥ |*) (Ni. 2-28)
 
-(Gloss mine and tentative: the two bay horses are Indra's; the red one is Agni's; the green ones are the Sun's; the two asses belong to the Aśvins; the goats to Pūṣan; the spotted ones to the Maruts; the ruddy cows to Uṣas; the dark ones to Savitṛ; the many-formed ones to Bṛhaspati; the नियुत् (*niyut*) team to Vāyu. The passage is quoted, with the विश्व-रूपा (*viśva-rūpā*) split across a line end; the Special Topics of Ṛk 2 continue on the next page.)
+(**GLOSS** The passage is quoted, with the विश्व-रूपा (*viśva-rūpā*) split across a line end; the Special Topics of Ṛk 2 continue on the next page.)
 
 ### Printed p. 11
 
@@ -2419,7 +2419,7 @@ Sāyaṇa here explains the word *kṣetra* as denoting the sacrifice: as the fi
 
 देवत्रा व्यंतु (*devatrā vyaṃtu*) — देवेषु गमयंतु (*deveṣu gamayaṃtu*). The meaning is explained thus: may the yūpas favour the sacrificers so that the gods receive the choice oblations offered by them. For the word *devatrā* the Nirukta-author cites the Ṛk
 वनस्पते रशनया नियूय पिष्टतमया वयुनानि विद्वान् । वहा देवत्रा दिधिषो हवींषि प्र च दातारममृतेषु वोचः ॥ (*vanaspate raśanayā niyūya piṣṭatamayā vayunāni vidvān | vahā devatrā didhiṣo havīṃṣi pra ca dātāramamṛteṣu vocaḥ ‖*)
-(my gloss, mine and tentative: "O vanaspati, bound with the girdle, knowing the rites, carry the oblations to the gods, and speak of the giver among the immortals"), and explains *devatrā* as देवत्रा देवान् (*devatrā devān*). Sāyaṇa describes it as the sacrificer's wish and request: अस्मदीयं हविः देवाधीनं कुर्वंतु (*asmadīyaṃ haviḥ devādhīnaṃ kurvaṃtu*) (the supplied text reads "ಅಸ್ಮ-ದೀಯಂ" with a hyphen at the line end).
+**GLOSS**, and explains *devatrā* as देवत्रा देवान् (*devatrā devān*). Sāyaṇa describes it as the sacrificer's wish and request: अस्मदीयं हविः देवाधीनं कुर्वंतु (*asmadīyaṃ haviḥ devādhīnaṃ kurvaṃtu*) (the supplied text reads "ಅಸ್ಮ-ದೀಯಂ" with a hyphen at the line end).
 
 ##### Grammar (Vyākaraṇa-prakriyā)
 
@@ -3067,7 +3067,7 @@ Desirous as you are of the forests since you have repaired to the maternal water
 
 अपः अजगन्—मातृभूताः अपः गतवानसि (*apaḥ ajagan—mātṛbhūtāḥ apaḥ gatavānasi*) — by the word अपांनपात् (*apāṃnapāt*) it was shown that water is the mother-place of Agni. Therefore Agni has entered the waters, which are like a mother to him and nourish through the herbs and trees produced from water; and the words अप्पु प्रविष्टत्वात् शांतोऽसि (*appu praviṣṭatvāt śāṃto 'si*) [sic, अप्पु (*appu*) for the bhāṣya's अप्सु (*apsu*)] are explained thus: since Agni is in the waters, he is in a state of calm.
 
-निवर्तनं न प्रमृषे—नितरां तत्त्रैव वर्तनं तेन च विनाशो लक्ष्यते । सविनाशः न प्रमृष्यते न सह्यते (*nivartanaṃ na pramṛṣe—nitarāṃ tattraiva vartanaṃ tena ca vināśo lakṣyate | savināśaḥ na pramṛṣyate na sahyate*) — the word वर्तन (*vartana*) is formed from the root वृतु (*vṛtu*) and is used here with the prefix नि (*ni*). As stated in उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । प्रहाराहारसंहारविहारपरिहारवत् (*upasargeṇa dhātvartho balādanyatra nīyate | prahārāhārasaṃhāravihāraparihāravat*) (gloss mine and tentative: "by a prefix the meaning of the root is forcibly led elsewhere, as in prahāra, āhāra, saṃhāra, vihāra, parihāra"), the word वर्तन (*vartana*) with the prefix नि (*ni*) conveys the meaning "destruction", and also the state that precedes destruction. By this, Agni's staying in the waters is not tolerated by the sacrificers; that is, Agni's becoming invisible is not to be tolerated.
+निवर्तनं न प्रमृषे—नितरां तत्त्रैव वर्तनं तेन च विनाशो लक्ष्यते । सविनाशः न प्रमृष्यते न सह्यते (*nivartanaṃ na pramṛṣe—nitarāṃ tattraiva vartanaṃ tena ca vināśo lakṣyate | savināśaḥ na pramṛṣyate na sahyate*) — the word वर्तन (*vartana*) is formed from the root वृतु (*vṛtu*) and is used here with the prefix नि (*ni*). As stated in उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । प्रहाराहारसंहारविहारपरिहारवत् (*upasargeṇa dhātvartho balādanyatra nīyate | prahārāhārasaṃhāravihāraparihāravat*) **GLOSS**, the word वर्तन (*vartana*) with the prefix नि (*ni*) conveys the meaning "destruction", and also the state that precedes destruction. By this, Agni's staying in the waters is not tolerated by the sacrificers; that is, Agni's becoming invisible is not to be tolerated.
 
 यत् दूरे सन् इह अभवः । अदृश्यतया वर्तमानः अग्नि: अस्मत्संबंधिषु अरणिरूपेषु काष्ठेषु मंथनात् क्षणमात्रेण अस्माकं समीपे भवति तस्मात् अग्नेः दूरतः वर्तनं अस्माकं न रोचते (*yat dūre san iha abhavaḥ | adṛśyatayā vartamānaḥ agni: asmatsaṃbaṃdhiṣu araṇirūpeṣu kāṣṭheṣu maṃthanāt kṣaṇamātreṇa asmākaṃ samīpe bhavati tasmāt agneḥ dūrataḥ vartanaṃ asmākaṃ na rocate*) — it is explained that Agni's being in the waters in an invisible form (a form not seen by the eye) is his manner of being far away, and that his appearing visibly at that very moment, when churned in the kindling-sticks of those who perform the sacrifice, is his manner of being near. Of the two, the sacrificers prefer Agni to be near rather than far. Yāska quoted this same Ṛk in the Nirukta and stated his own view clearly:
 
@@ -3138,7 +3138,7 @@ you wish exceedingly to convey satisfaction (to your worshipper) and are thereto
 
 ### Printed p. 128
 
-(continuing the Nirukta citation) सक्तुमिव तितउना पुनंतो यत्र धीरा मनसा वाचमक्रत । अश्रा सखायस्सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥ (*saktumiva titaunā punaṃto yatra dhīrā manasā vācamakrata | aśrā sakhāyassakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci ‖*) (Ṛ. Saṃ. 10-71-2, as printed; the text's तितउना (*titaunā*) is — a gloss would be mine and tentative: "as one purifies barley-meal with a sieve, where the wise fashioned speech with the mind; there friends know the marks of friendship; their auspicious mark is placed in speech"). In this Ṛk, the meaning सखायः सख्यानि संजानते (*sakhāyaḥ sakhyāni saṃjānate*), "friends recognise the states of friendship", is explained. Durgācārya (explains): समानख्यानाः समानख्यानानामेव सखायः, वैयाकरणानां वैयाकरणा एव नैरुक्तानां नैरुक्ता एव सखिभावान् संजानते विज्ञानानि संजानते इतरेतरस्य यो विज्ञानप्रकर्षः तं जानते (*samānakhyānāḥ samānakhyānānāmeva sakhāyaḥ, vaiyākaraṇānāṃ vaiyākaraṇā eva nairuktānāṃ nairuktā eva sakhibhāvān saṃjānate vijñānāni saṃjānate itaretarasya yo vijñānaprakarṣaḥ taṃ jānate*). Those who have one kind of knowledge are friendly with those equally skilled; those who know grammar recognise each other's excellence of knowledge among grammarians, and those who know the Nirukta among the Nirukta-scholars. From this, affection arises among them. In the same way Agni, being renowned as the Hotṛ, is friendly with the priests; thus the meaning is explained.
+(continuing the Nirukta citation) सक्तुमिव तितउना पुनंतो यत्र धीरा मनसा वाचमक्रत । अश्रा सखायस्सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥ (*saktumiva titaunā punaṃto yatra dhīrā manasā vācamakrata | aśrā sakhāyassakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci ‖*) (Ṛ. Saṃ. 10-71-2, as printed; the text's तितउना (*titaunā*) is — **GLOSS**). In this Ṛk, the meaning सखायः सख्यानि संजानते (*sakhāyaḥ sakhyāni saṃjānate*), "friends recognise the states of friendship", is explained. Durgācārya (explains): समानख्यानाः समानख्यानानामेव सखायः, वैयाकरणानां वैयाकरणा एव नैरुक्तानां नैरुक्ता एव सखिभावान् संजानते विज्ञानानि संजानते इतरेतरस्य यो विज्ञानप्रकर्षः तं जानते (*samānakhyānāḥ samānakhyānānāmeva sakhāyaḥ, vaiyākaraṇānāṃ vaiyākaraṇā eva nairuktānāṃ nairuktā eva sakhibhāvān saṃjānate vijñānāni saṃjānate itaretarasya yo vijñānaprakarṣaḥ taṃ jānate*). Those who have one kind of knowledge are friendly with those equally skilled; those who know grammar recognise each other's excellence of knowledge among grammarians, and those who know the Nirukta among the Nirukta-scholars. From this, affection arises among them. In the same way Agni, being renowned as the Hotṛ, is friendly with the priests; thus the meaning is explained.
 
 ##### Grammar (Vyākaraṇa-prakriyā)
 
@@ -3287,13 +3287,13 @@ Matarishwan therefore brought for the gods from afar, Agni, hiding of himself, a
 
 मातरिश्वा (*mātariśvā*)—वायुः (*vāyuḥ*). Sāyaṇa has explained this word as meaning Vāyu. The Nirukta authors, after citing the Ṛk (Ma. Saṃ. 6-8-4, "ಮ. ಸಂ.")
 
-आपामुपस्थे महिषा अगृभ्यत विशो राजानमुप तस्थुर्यग्नियम् । (*āpāmupasthe mahiṣā agṛbhyata viśo rājānamupa tasthuryagniyam |*) आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥ (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*) (my gloss, mine and tentative: "In the lap of the waters the great ones seized him; the clans stood by the king ...; the messenger of Vivasvat brought Vaiśvānara Agni from afar, Mātariśvan")
+आपामुपस्थे महिषा अगृभ्यत विशो राजानमुप तस्थुर्यग्नियम् । (*āpāmupasthe mahiṣā agṛbhyata viśo rājānamupa tasthuryagniyam |*) आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥ (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*) **GLOSS**
 
 have explained, with मातर्यंतरिक्षे श्वसिति (*mātaryaṃtarikṣe śvasiti*) (he breathes/moves in the mother, the sky)—because he moves without any obstruction in the sky, which is the mother of all beings in the world, or with मातरि आतु अनिति (*mātari ātu aniti*)—because he moves swiftly in the sky—that Vāyu is denoted by the word मातरिश्वा (*mātariśvā*).
 
 त्मना (*tmanā*)—स्वेच्छया आप्सु प्रवेशेन (*svecchayā āpsu praveśena*). It is the instrumental singular of the word आर्त्मन (*ārtmana*). The word त्मना (*tmanā*), used in the Veda with the ā dropped (the text reads "ಅಕಾರವನ್ನು ಉಳಿದು"), is rendered "by his own will". The sense given is that Agni entered the waters as he pleased. The Nirukta authors have cited the use of this word in the same sense. For example:
 
-कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद । (*katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda |*) विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥ (*viśvaṃ tmanā bibhṛto yaddha nāma vi vartete ahanī cakriyeva ‖*) (Ṛ. Saṃ. 1-185-1) (my gloss, mine and tentative: "Which of the two is earlier, which later? How were they born, O sages? Who knows? Of their own accord they bear every name, and the two days [day and night] turn like wheels")
+कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद । (*katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda |*) विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥ (*viśvaṃ tmanā bibhṛto yaddha nāma vi vartete ahanī cakriyeva ‖*) (Ṛ. Saṃ. 1-185-1) **GLOSS**
 
 Here त्मना (*tmanā*) is explained as आत्मना (*ātmanā*). Examples of the same kind have been cited separately in various places.
 
@@ -3301,7 +3301,7 @@ Here त्मना (*tmanā*) is explained as आत्मना (*ātmanā*).
 
 ### Printed p. 134
 
-एतदस्या अनः शये सुसंपिष्टं विपाश्या । ससार सीं परावतः ॥ (*etadasyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā | sasāra sīṃ parāvataḥ ‖*) (Ma. Saṃ. 4-30-11, "ಮ. ಸಂ.") (my gloss, mine and tentative: "This cart of hers lies well crushed in the Vipāś; she fled far away")
+एतदस्या अनः शये सुसंपिष्टं विपाश्या । ससार सीं परावतः ॥ (*etadasyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā | sasāra sīṃ parāvataḥ ‖*) (Ma. Saṃ. 4-30-11, "ಮ. ಸಂ.") **GLOSS**
 
 Here परावतः प्रेरितवतः परागताद्वा (*parāvataḥ preritavataḥ parāgatādvā*) is given as one kind of meaning. Durgācārya has also explained the meaning as दूराद्दूरतरं (*dūrāddūrataraṃ*). Because Agni has entered the waters and is therefore far away, Sāyaṇa explains that Mātariśvan fetched him, produced by churning with the araṇis, from a distant region for the delight of the gods, for the sacrifice. In this matter the simile सस्यवांसमिव (*sasyavāṃsamiva*) is stated. For this word [Sāyaṇa's explanation] यथा स्वाच्छंद्येन सरंतं गच्छंतं पुत्रं पिता बलादानयति तद्वैत् (*yathā svācchaṃdyena saraṃtaṃ gacchaṃtaṃ putraṃ pitā balādānayati tadvait*) is compared: as a father by force brings back and sets right a son who wanders at will. Because, by the śruti text वायोरग्निः (*vāyoragniḥ*), Agni is born of Vāyu, the relation of father and son (producer and produced) between Vāyu and Agni is appropriate in the illustration.
 
@@ -4268,7 +4268,7 @@ Agni, you are to be especially worshipped at the sacrifice : worship the gods (o
 
 देवीं वाचमजनयंत देवास्तां विश्वरूपाः पशवो वदंति । (*devīṃ vācamajanayaṃta devāstāṃ viśvarūpāḥ paśavo vadaṃti |*)
 सा नो मंद्रॆषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥ (*sā no maṃdrèṣamūrjaṃ duhānā dhenurvāgasmānupa suṣṭutaitu ‖*)
-(Pu. Saṃ. 8-100-11; abbreviation "ಪು. ಸಂ.") *[Gloss, mine and tentative: the gods generated the divine Speech; beings of every form speak it; may she, the cow of speech yielding food and strength for us, come to us well praised.]*
+(Pu. Saṃ. 8-100-11; abbreviation "ಪು. ಸಂ.") **GLOSS**
 
 Here "mandrā" is explained as madanā, the one that produces joy (mada). Sāyaṇa has explained the sense that Agni causes joy (delight) to the sacrificer.
 
@@ -7966,7 +7966,7 @@ The present Ṛk indicates the connection of the appearing of Uṣas and the ris
 
 (Ṛ. Saṃ. 7-28-3)
 
-*(Translator's gloss, the print gives none: these shining dawns have been seen in the east, bringing light; they have set the sun, the sacrifice and Agni in motion; the unwelcome darkness has gone backward.)*
+**GLOSS**
 
 ### Printed p. 301
 
