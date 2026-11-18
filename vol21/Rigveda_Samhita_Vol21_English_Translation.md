@@ -7560,6 +7560,278 @@ On the Cāturviṃśika day, at the midday pressing, the pragātha of the Brāhm
 
 O Indra, attractive, with a hand holding the thunderbolt and with an excellent jaw, bring and give us such praiseworthy food, endowed with vigour and the giver of nourishment, with which you protect these two visible worlds, heaven and earth.
 
+### Printed p. 170
+
+##### English translation
+Indra, bring to us most excellent, most invigorating and nutritious food, wherewith, wonderful wielder of the thunderbolt, the handsome-chinned, you sustain both heaven and earth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामु॒ग्रमव॑से चर्षणी॒सहं॒ राज॑न्दे॒वेषु॑ हूमहे ।  
+> विश्वा॒ सु नो॑ विधु॒रा पि॑ब्ब॒ना व॑सो॒ऽमित्रा॑न्तु॒षहा॑न्कृधि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । उग्रं । अवसे । चर्षणीसहं । राजन् । देवेषु । हूमहे ।  
+> विश्वा । सु । नः । विधुरा । पिब्बना । वसो इति । अमित्रान् । सुसहान् । कृधि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् राजमानेंद्र देवेषु देवानां मध्य उग्रमुद्गूर्णबलं
+> चर्षणीसहं चर्षणीनां शत्रुभूतानां प्रजानामभिभवितारं त्वामवसे रक्षणाय
+> हूमहे । आह्वयामः । त्वं विश्वा सर्वाणि पिब्बना पिब्बनानि रक्षांसि । पिहितमव्यक्तं
+> शब्दयंत इति पिब्बनानि । पृषोदरादिः । तानि सु सुष्टु विथुरा व्यथितानि बाधितानि
+> कुरु । हे वसो वासकेंद्र नोऽस्मदीयानमित्रान् शत्रुंश्च सुषहान् सुखेनाभिभवितुं शक्यान् कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O shining (राजन् (*rājan*)) Indra, among the gods you are fierce (उग्रं (*ugraṃ*), of uplifted strength) and the overcomer (चर्षणीसहं (*carṣaṇīsahaṃ*)) of the carṣaṇīs, the peoples who are enemies; you we call (हूमहे (*hūmahe*), we summon) for protection. Make all the पिब्बना (*pibbanā*), the rākṣasas (so called because they utter muffled, indistinct sounds), well afflicted and hindered. O Vasu, giver of dwellings, Indra, make our enemies easy to overcome (सुषहान् (*suṣahān*)), that is, such as can be overcome with ease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O shining Indra
+- देवेषु (*deveṣu*)—among the gods
+- उग्रं (*ugraṃ*)—you who have exceedingly great strength
+- चर्षणीसहं (*carṣaṇīsahaṃ*)—and who destroy enemy armies
+- त्वां (*tvāṃ*)—you
+- अवसे (*avase*)—for protection
+- हूमहे (*hūmahe*)—we call
+- वसो (*vaso*)—O Indra, giver of dwellings
+- विश्वा (*viśvā*)—all
+- पिब्बना (*pibbanā*)—the rākṣasas
+- सु (*su*)—completely
+- विधुरा (*vidhurā*)—make them afflicted
+- नः (*naḥ*)—our
+- अमित्रान् (*amitrān*)—enemies
+- सुषहान् (*suṣahān*)—so that we may conquer them easily
+- कृधि (*kṛdhi*)—help
+
+### Printed p. 171
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Indra, you who among the gods have exceedingly great strength and who destroy enemy armies, we call you for protection. O Indra, giver of dwellings, make all the rākṣasas completely afflicted. Help us so that we may conquer our enemies easily.
+
+##### English translation
+We invoke for proteetion you, royal Indra, who are mighty amongst the gods, the subduer of men; granter of dwellings, repel all evil spirits, and render our enemies easy of discomfiture.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ नाहु॑षी॒ष्वा ओजो॑ नृ॒ण्मं च॑ कृ॒ष्टिषु॑ ।  
+> यद्वा॒ पंच॑ क्षिती॒नां द्यु॒म्नमा भ॑र स॒त्रा विश्वा॑नि॒ पौंस्या॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । नाहुषेषु । आ । ओजः । नृम्मं । च । कृष्णिषु ।  
+> यत् । वा । पंच । क्षितीनां । द्युम्नं । आ । भर । सत्रा । विश्वानि । पौंस्या ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नाहुषीषु । नहुष इति मनुष्यनाम । तत्संबंधिनीसु कृष्णिषु
+> प्रजासु । आकारः समुच्चये । यच्चौजो बलं नृम्मं धनं च विद्यते । यद्वा
+> यच्च पंच पंचानां क्षितीनां । निषादपंचमाश्चत्वारो वर्णाः पंच क्षितयः ।
+> तेषां स्वरूपं द्युम्नं द्योतमानमन्नं तत्सर्वमस्मभ्यमा भर । आहर । प्रयच्छ
+> तथा सत्रा महांति विश्वानि सर्वाणि पौंस्यानि बलानि चास्मभ्यमाहर ॥
+
+##### Gist of the bhāṣya
+
+O Indra, among the Nāhuṣī (नाहुषीषु (*nāhuṣīṣu*)): Nahuṣa is a name for man, so the word means those connected with him, the peoples (कृष्णिषु (*kṛṣṇiṣu*)); the particle आ (*ā*) expresses combination. Whatever strength (ओजः (*ojaḥ*)) and wealth (नृम्मं (*nṛmmaṃ*)) there is among them; or else whatever there is of the five peoples (क्षितीनां (*kṣitīnāṃ*)), the four classes with the Niṣādas as the fifth being the five peoples, their own nature, the shining (द्युम्नं (*dyumnaṃ*)) food: all that bring to us, give to us. And likewise bring to us all the great manly powers (पौंस्यानि (*pauṃsyāni*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नाहुषीषु (*nāhuṣīṣu*)—connected with man
+- कृष्णिषु (*kṛṣṇiṣu*)—among the peoples
+- यत् (*yat*)—whatever
+- ओजः (*ojaḥ*)—strength
+- नृम्णं च (*nṛmṇaṃ ca*)—and wealth also there is
+- यद्वा (*yadvā*)—or
+- पंच क्षीतीनां (*paṃca kṣītīnāṃ*)—among the five peoples beginning with the Niṣādas
+- द्युम्नं (*dyumnaṃ*)—whatever shining food there is
+- all that: आ भर (*ā bhara*)—provide for us
+- सत्रा (*satrā*)—great
+- विश्वानि (*viśvāni*)—and all: give all the powers
+
+### Printed p. 172
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever strength and wealth there is among the peoples connected with man, or whatever shining food there is among the five peoples beginning with the Niṣādas, provide all that for us. Give all the great and entire powers.
+
+##### English translation
+Whatever strength and opulence (exist) amongst human beings, whatever be the sustenance of the five classes of men, bring Indra to us, as well (as) all great manly energies.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑ तृ॒क्षौ म॑घवन्नुद्रु॒ह्यावा जने॒ यत्पू॒रौ कच्च॒वृष्ण्यं॑ ।  
+> अ॒स्मभ्यं॒ तद्रि॑रीहि॒ सं नृ॒षाह्ये॒ऽमित्रा॑न्पृ॒त्सु तु॒र्वणे॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । तृक्षौ । मघवन् । द्रुह्यौ । आ । जने । यत् । पूरौ । कत् । च । वृष्टं ।  
+> अस्मभ्यं । तत् । रिरीहि । सं । नृसह्ये । अमित्रान् । पृत्सु । तुर्वणे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र तृक्षावेतत्संज्ञॆ राजनि यद्वा यच्च बलं विद्यते
+> द्रुह्यावा द्रुह्यौ चैतत्संज्ञॆ च जने यद्बलमस्ति । पूरावेतत्संज्ञॆ नृपे च यत्कच्च
+> यत्किंचन वृष्ट्यं वीर्यं विद्यते तत्सर्वमस्मभ्यं स्तोतृभ्यः सं सम्यग्रिरीहि ।
+> प्रयच्छ । कदा । नृसह्ये नृभिर्योद्धृभिः सोढव्ये युद्धे प्रवृत्ते । किमर्थं ।
+> पृत्सु पृतनासु संग्रामेष्टमित्रान् शत्रून् तुर्वणे तुर्वितुं हिंसितुं ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra: whatever strength there is in Tṛkṣu (तृक्षावेतत्संज्ञॆ (*tṛkṣāvetatsaṃjñè*), the king of this name); or in Druhyu, of this name, and in the people (जने (*jane*)) whatever strength there is; and in Pūru, the king of this name, whatever manly vigour (वृष्ट्यं (*vṛṣṭyaṃ*)) there is: all that give fully (सं रिरीहि (*saṃ rirīhi*), give completely) to us who are your praisers. When? When a battle is undertaken (नृसह्ये (*nṛsahye*)), one to be endured by men, by warriors. For what purpose? In the encounters (पृत्सु (*pṛtsu*), in battles), to crush (तुर्वणे (*turvaṇe*), to destroy) the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- तृक्षौ (*tṛkṣau*)—in the king named Tṛkṣu
+- यद्वा (*yadvā*)—or
+- द्रुह्यौ (*druhyau*)—named Druhyu
+- आ जने (*ā jane*)—in the multitude of people too
+- पूरौ (*pūrau*)—in the king named Pūru too
+- यत् कच्च (*yat kacca*)—of whatever kind
+
+### Printed p. 173
+
+- वृष्ट्यं (*vṛṣṭyaṃ*)—manly vigour there is, तत् (*tat*)—all that
+- अस्मभ्यं (*asmabhyaṃ*)—to us who are praisers
+- नृसह्ये (*nṛsahye*)—in confronting enemies
+- पृत्सु (*pṛtsu*)—in battles
+- अमित्रान् (*amitrān*)—enemies
+- तुर्वणे (*turvaṇe*)—to destroy
+- सं रिरीहि (*saṃ rirīhi*)—give fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of wealth, whatever kind of vigour there is in the king named Tṛkṣu, or in the king named Druhyu, or in the king named Pūru, give all that fully to us, who are praisers, in battles in which enemies are confronted, so that we may destroy the enemies.
+
+##### English translation
+Whatever vigour, Maghavan, (existed) in Trikshu, in Druhyu, in Puru, bestow fully upon us in conflicts wish foes, so that we may destroy our enemies in war.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ त्रि॒धातु॑ शर॒णं त्रि॒वरू॑थं स्वस्ति॒मत् ।  
+> छ॒र्दिर्य॑च्छ म॒घव॑द्भ्यश्च॒ मह्यं॑ च या॒वया॑ दि॒द्युमे॑भ्यः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । त्रिधातु । शरणं । त्रिवरूथं । स्वस्तिमत् ।  
+> छर्दिः । यच्छ । मघवत्भ्यः । च । मह्यं । च । यवय । दिद्युं । एभ्यः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि निष्केवल्ये इंद्र त्रिधात्विति वैरूपस्य सामप्रगाथः शंसनीयः।
+> सूत्रितं च । इंद्र त्रिधातु शरणं त्वमिंद्र प्रशूर्तिषु । आ ७ ३ । इति ॥
+> हे इंद्र त्रिधातु त्रिप्रकारं त्रिभूमिकं त्रिवरूथं त्रयाणां शीतातपवर्षाणां
+> वारकं स्वस्तिमदविनाशयुक्तं छर्दिश्चदिष्टिच्छादनयुक्तमेवंगुणविशिष्टं शरणं गृहं
+> मघवद्भ्यश्च । मघं हविर्लक्षणं धनं । तद्वद्भ्यश्चास्मदीयेभ्यो मह्यं
+> भरद्वाजाय च यच्छ । देहि । अपि चैभ्यः सकाशाद्विद्युं शत्रुप्रेरितं द्योतमानमायुधं यवय । पृथक्कुरु ।
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, in the niṣkevalya, the sāma-pragātha of the Vairūpa beginning इंद्र त्रिधातु (*iṃdra tridhātu*) is to be recited. It is laid down in the sūtra: इंद्र त्रिधातु शरणं त्वमिंद्र प्रशूर्तिषु (*iṃdra tridhātu śaraṇaṃ tvamiṃdra praśūrtiṣu*) (Ā. 7 3). **NOTE** O Indra, give a dwelling (शरणं (*śaraṇaṃ*), a house) that is threefold (त्रिधातु (*tridhātu*): of three kinds, of three storeys), a warder-off of three things, cold, heat and rain (त्रिवरूथं (*trivarūthaṃ*)), secure (स्वस्तिमत् (*svastimat*), free from destruction), furnished with a covering (छर्दिः (*chardiḥ*)) **NOTE**; a house of such qualities: give it to those of ours who are possessed of wealth (मघवद्भ्यश्च (*maghavadbhyaśca*): magha is wealth in the form of oblations) and to me, Bharadvāja. And separate from them (यवय (*yavaya*), put apart) the flaming (दिद्युं (*didyuṃ*)) weapon sent by the enemy.
+
+### Printed p. 174
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्रिधातु (*tridhātu*)—which is of three kinds
+- त्रिवरूथं (*trivarūthaṃ*)—which can protect from cold, sunshine and rain
+- स्वस्तिमत् (*svastimat*)—which is auspicious
+- छर्दिः (*chardiḥ*)—which is protective
+- शरणं (*śaraṇaṃ*)—a house
+- मघवद्ध्यः (*maghavaddhyaḥ*)—to our kinsmen, who have wealth in the form of oblations
+- मह्यं (*mahyaṃ*)—and to me, Bharadvāja
+- यच्छ (*yaccha*)—grant
+- एभ्यः (*ebhyaḥ*)—from these houses
+- दिद्युं (*didyuṃ*)—the flaming (and enemy-sent) weapons
+- यवयॆ (*yavayè*)—put apart
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, grant a house that is of three kinds, that can protect from cold, sunshine and rain, that is auspicious and protective, to our kinsmen, who are ready to offer oblations, and to me, Bharadvāja. Keep far from these houses the flaming weapon of the enemies, sent by the enemy, so that no harm may come to it.
+
+##### English translation
+Give, Indra, to the affluent, and to me also, a sheltering and prosperous dwelling, combining three elements, and defending in three ways, and keep from them the blazing (weapon of our foes).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśaka, when the niṣkevalya-śastra mantras are recited, this Ṛk, इंद्र त्रिधातु (*iṃdra tridhātu*), is to be recited for the sāma-pragātha mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, इंद्र त्रिधातु शरणं त्वमिंद्र प्रतूर्तिषु (*iṃdra tridhātu śaraṇaṃ tvamiṃdra pratūrtiṣu*) (Ā. 7-3).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ग॑व्य॒ता मन॑सा॒ शत्रु॑माद॒भुर॑भिप्र॒घ्नंति॑ धृष्णु॒या ।  
+> अध॑ स्मा नो मघवन्निंद्र गिर्वणस्तनू॒पा अंत॑मो भव ॥ ०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । गव्यता । मनसा । शत्रुं । आदभुः । अभिप्रघ्नंति । धृष्णुया ।  
+> अध । स्म । नः । मघवन् । इंद्र । गिर्वणः । तनूपाः । अंतमः । भव ॥ १० ॥
+
+### Printed p. 175
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये जना गव्यता शत्रुणां गा इच्छता मनसा युक्ताः संतः शत्रुं शायितारं
+> वैरिणमादभुः अहिंसिषुः । ये च धृष्टया धृष्टवो धृष्टाः संतोऽस्मानभिलक्ष्य
+> प्रघ्नंति प्रकर्षेण हिंसंति हे मघवन् धनवन् गिर्वणो गिरां संभक्तरिंद्र अध
+> स्मास्मिन्काले तेभ्यः सकाशात् नोऽस्माकं तनूपास्तनूनां शरीराणां रक्षिता सन्
+> अंतमोऽन्तिकतमो भव ॥
+
+##### Gist of the bhāṣya
+
+Those men who, endowed with a mind that desires the cows (गव्यता (*gavyatā*)) of their enemies, slew (आदभुः (*ādabhuḥ*), did violence to) the enemy, the foe (शायितारं (*śāyitāraṃ*)); and those who, bold (धृष्टया (*dhṛṣṭayā*)), aiming at us, strike (प्रघ्नंति (*praghnaṃti*), hurt violently): O Maghavan, wealthy Indra, sharer of songs (गिर्वणः (*girvaṇaḥ*)), at this time, from those, be the protector of our bodies (तनूपाः (*tanūpāḥ*)) and be nearest to us (अंतमः (*aṃtamaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- गिर्वणः (*girvaṇaḥ*)—and one to be reached by praise
+- इंद्र (*iṃdra*)—Indra
+- ये (*ye*)—those men who
+- गव्यता (*gavyatā*)—desiring to obtain cows (from the enemies)
+- मनसा (*manasā*)—endowed with such a mind
+- शत्रुं (*śatruṃ*)—the enemy
+- आदभुः (*ādabhuḥ*)—have slain (and who)
+- धृष्णुया (*dhṛṣṇuyā*)—with a mind that assails enemies
+- प्रघ्नंति (*praghnaṃti*)—strike (like such men)
+- अध स्मै (*adha smai*)—at this time
+- नः (*naḥ*)—to us
+- तनूपाः (*tanūpāḥ*)—as the protector of the body
+- अंतमः (*aṃtamaḥ*)—exceedingly near
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, one to be reached by praise, like those men who, endowed with a mind that desires to obtain cows from the enemies, have slain the enemy, and who strike with a mind that assails enemies, be exceedingly near to us at this time.
+
+##### English translation
+Affluent Indra, propitiated by praise, be near to us, the defender of our persons (against those) who assail (us as) enemies, with a mind bent upon carrying off (our) cattle, or who assault us with arrogance.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ स्मा नो वृ॒धे भ॒वेंद्र॑ ना॒यम॑वा यु॒धि ।  
+> यदं॒तरि॑क्षे प॒तयं॑ति प॒र्णिनो॑ दि॒व्यव॑स्ति॒ग्ममू॑र्धानः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । स्म । नः । वृधे । भव । इंद्र । नायं । अव । युधि ।  
+> यत् । अंतरिक्षे । पतॆयंति । पर्णिनः । दिद्यवः । तिग्ममूर्धानः ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 169. Vol 21 Mandala 6 sukta 46 Rks 1-5 (Rk 5 partly)
+**Progress note:** Done through printed p. 175. Vol 21 Mandala 6 sukta 46 Rks 5 (end)-11 (start)
