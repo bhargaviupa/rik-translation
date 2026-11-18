@@ -7659,6 +7659,153 @@ The main purport: यदा इंद्रः स्तोपासकस्य
 
 दासस्य (*dāsasya*)—This word occurs in this sūkta in this Ṛk and in the next two Ṛks. A detailed explanation of this word and of the word *dasyu* we have given in the Special Topics of the ninth Ṛk of this sūkta (pages 198-202).
 
+### Printed p. 196
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युजं॒ हि मामकृ॑था॒ आदिदिं॑द्र॒ शिरो॑ दा॒सस्य॒ नमु॑चेर्मथा॒यन् ।  
+> अश्मा॑नं चित्स्व॒र्यं१॒॑वर्त॑मानं॒ प्र च॒क्रिये॑व॒ रोद॑सी  ॒॑
+> मरुद्भ्यः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजं । हि।मां । अकृथाः । आत् । इत् । इंद्र । शिरः । दासस्य । नमुचेः । मथायन् ।  
+> अश्मानं । चित् । स्वर्यं । वर्तमानं । प्र । चक्रियाइव । रोदसी इति ।  
+> मरुत्ऽभ्यः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं स्वर्यं स्वरेण सहितं वर्तमानं भ्रमंतमश्मानं चित्
+> मेघमिव स्थितं दासस्योपक्षपयितुर्नमुचेरसुरस्य शिरो मथायन् चूर्णयन्
+> आदिदनंतरमेव मां युजं सखायमकृथा हि । चक्रषे खलु । तदानीं मरुद्भ्यः
+> स्त्वत्सहायेभ्यो रोदसी द्यावापृथिव्यौ चक्रियेव चक्रे इव प्रास्तां ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes the verse thus: "O Indra, you were crushing the head of Namuci the Asura, the slave, that is, the harasser, who, sounding (*svarya*, with sound) and rolling about (revolving), stood like a cloud (*aśmā*); and immediately after that you made me your companion, your friend. For at that time, by the Maruts, your helpers, the two worlds, heaven and earth, were set revolving as if they were two wheels." Because the preposition *pra* is heard in the verse, a verb suited to it must be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वर्यं (*svaryaṃ*)—the one that is with sound
+- वर्तमानं (*vartamānaṃ*)—that wheels about and moves around
+- अश्मानं चित् (*aśmānaṃ cit*)—who was like a cloud
+- दासस्य (*dāsasya*)—of the harasser
+- नमुचेः (*namuceḥ*)—of Namuci
+- शिरः (*śiraḥ*)—the head
+- मथायन् (*mathāyan*)—while cutting off
+- आदित् (*ādit*)—immediately after that
+- मां (*māṃ*)—me
+- युजं (*yujaṃ*)—as a friend
+- अकृथाः हि (*akṛthāḥ hi*)—you made, did you not? (then)
+- मरुद्भ्यः (*marudbhyaḥ*)—by the Maruts, your friends
+- रोदसी (*rodasī*)—both heaven and earth
+- चक्रियेव (*cakriyeva*)—like wheels
+- प्र (*pra*) (supply आस्तां (*āstāṃ*))—came to have the form of revolving
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, while cutting off the head of Namuci, the harasser, who was like a cloud, sounding and wheeling about, you immediately made me your friend. At that time, by the Maruts, your friends, heaven and earth both came to revolve like wheels.
+
+### Printed p. 197
+
+##### English translation
+Verily you have made me, Indra, your associate when grinding the head of the slave Namuchi like a sounding and rolling cloud : and the heaven and earth (have been caused) by the Maruts (to revolve like a wheel).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्त्रीयो॒ हि दा॒स आयु॑धानि च॒क्रे किं मा॑ करन्नब॒ला अ॑स्य॒  ॑
+> सेनाः ।  
+> अं॒तर्ह्य ॑दु॒भे अ॑स्य॒ धेने॒ अथोप॒ प्रैद्यु॒धये॒ दस्यु॒मिंद्रः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्त्रीयः । हि । दासः । आयुधानि । चक्रे । किं । मा । करन् । अबलाः । अस्य । सेनाः ।  
+> अंतः । हि । अख्यत् । उभे इति । अस्य । धेने इति । अथ । उप । प्र । ऐत् । युधये ।  
+> दस्युं । इंद्रः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दास उपक्षपयिता नमुचिरसुरः स्त्रीयः स्त्रीरायुधानि युद्धसाधनानि चक्रे
+> हि । कृतवान् खलु । इंद्रेण सह योद्दुं प्रतिहितवानित्यर्थः । अस्यासुरस्य संबंधिन्योऽबलाः स्त्रीरूपाः सेना मा मां किं करन् किं कुर्युरिति मन्यमान इंद्रस्तासां मध्येऽस्यासुरस्य धेने प्रीणयित्र्यौ सुरूपे उभे द्वे स्त्रीयावंतरख्यद्धि ।
+> गृहमध्ये निदधे खलु । अथानंतरमिंद्रो दस्युं नमुचिं युधये युद्धायोप
+> प्रैत् । उपप्रागच्छत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: the slave, that is, the harasser, the Asura Namuci, made women his weapons, his instruments of war; that is, he set them out to fight with Indra. Thinking, "What can the female hosts of this Asura, weak as they are, do to me?", Indra hid in the midst of them two women of this Asura, two (*dhenū*) who gave him delight and were beautiful, in the middle of the house. Then Indra went forth against the Dasyu, Namuci, for battle; he approached him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दासः (*dāsaḥ*)—the harasser, the Asura
+- स्त्रीयः (*strīyaḥ*)—women
+- आयुधानि (*āyudhāni*)—as his instruments of war
+- चक्रे हि (*cakre hi*)—made, did he not?
+- अस्य (*asya*)—"of this Asura, belonging to him
+- अबलाः (*abalāḥ*)—weak
+- सेनाः (*senāḥ*)—the armies of women
+- मा (*mā*)—me
+- किं करन् (*kiṃ karan*)—what can they do?"
+
+### Printed p. 198
+(saying) thus, among them:
+- अस्य (*asya*)—for this Asura
+- धेने (*dhene*)—who were a delight to him
+- उभे (*ubhe*)—the two women
+- अंतः (*aṃtaḥ*)—in the inner part of the house
+- अख्यत् हि (*akhyat hi*)—placed (Indra) in hiding, did he not?
+- अथ (*atha*)—afterwards
+- इंद्रः (*iṃdraḥ*)—Indra
+- दस्युं (*dasyuṃ*)—Namuci
+- युधये (*yudhaye*)—for battle
+- उपप्रैत् (*upaprait*)—confronted
+
+##### भावार्थ (Bhāvārtha)
+
+The harasser, the Asura, made women his instruments of war. Thinking, "What can the armies of these women, belonging to this Asura and weak, do to me?", Indra bound two of them, who were exceedingly dear to that same Asura, in the midst of those women, and hid them in the inner part of the house. Afterwards Indra confronted Namuci for battle.
+
+##### English translation
+The slave (Namuchi) made women his weapons : what will his female hosts do unto me ? the two his best beloved, ( Indra ) confined in the inner apartments, and then went forth to combat against the Dasyu.
+
+##### विशेषविषयगळु (Special Topics)
+
+दासः (*dāsaḥ*), दस्युं (*dasyuṃ*)—The word *dāsa* and the word *dasyu* are both formed from the root *dasyati* (*das*) and give the meaning "one who exhausts, one who destroys." Yāska has stated the etymology thus:
+दासो दस्यतेरुपदासयति कर्माणि (*dāso dasyaterupadāsayati karmāṇi*) (Ni. 2-18) दस्युर्दस्यतेः क्षयार्थादुपदस्यंत्यस्मिन्रसा उप दासयति कर्माणि (*dasyurdasyateḥ kṣayārthādupadasyaṃtyasminrasā upa dāsayati karmāṇi*) (Ni. 7-23).
+The meaning suggested is: one who dries up the water that is useful for agriculture and other works, obstructs those works and destroys them. Therefore it has become customary to use the word *dāsa* of Asuras such as Vṛtra, Śuṣṇa, Pipru and Namuci. In the Ṛgveda the word *dāsa* is used not only of Asuras but also of the human enemies, the former inhabitants of this country, who fought again and again with the people of the Āryan race. In many places it is said that these Dāsas, or the dark people, the former inhabitants of this country, lived in groups or in many clans, having built forts here and there.
+In the Ṛk
+प्रति यदस्य वज्रं बाह्वोर्धुहर्त्वी दस्यून् पुर आयसीर्नि तारीत् । (*prati yadasya vajraṃ bāhvordhuhartvī dasyūn pura āyasīrni tārīt |*)
+(Ṛ. Saṃ. 2-20-8)
+it is said that Indra shattered the cities or forts of these Dasyus, made of iron. And further—
+
+### Printed p. 199
+स जातूभर्मा श्रद्दधान ओजः पुरो विभिंदन्नचरद्वि दासीः ॥ (*sa jātūbharmā śraddadhāna ojaḥ puro vibhiṃdannacaradvi dāsīḥ ‖*)
+(Ṛ. Saṃ. 1-103-3)
+इंद्राग्नी नवतिं पुरो दासपत्नीरधूनुतं । (*iṃdrāgnī navatiṃ puro dāsapatnīradhūnutaṃ |*)
+(Ṛ. Saṃ. 3-12-6)
+प्र ते वोचाम वीर्या३या मंदसान आरुजः । पुरो दासीरभीत्य ॥ (*pra te vocāma vīryā3yā maṃdasāna ārujaḥ | puro dāsīrabhītya ‖*)
+(Ṛ. Saṃ. 4-32-10)
+In such Ṛks there is mention of the cities and forts of the Dāsa people. There are also descriptions in many places that these Dāsa people were of black colour (Ṛ. Saṃ. 1-101-1; 1-130-8; 2-20-7; 4-16-13; 4-47-21; 7-5-3, etc.). That their skin was black is said plainly in the Ṛk
+मनवे शासदव्रतान् त्वचं कृष्णामरंधयत् । (*manave śāsadavratān tvacaṃ kṛṣṇāmaraṃdhayat |*)
+(Ṛ. Saṃ. 1-130-8).
+Because the colour of these Dāsa people was black, they are described as noseless (*anāsa*), that is, as having flat noses like the Negro peoples, and as speakers of falsehood (*mṛdhravācaḥ*), in Ṛks such as
+अनासो दस्यूरमृणो वधेन नि दुर्योण अवृणज् मृध्रवाचः । (*anāso dasyūramṛṇo vadhena ni duryoṇa avṛṇaj mṛdhravācaḥ |*)
+(Ṛ. Saṃ. 5-29-10).
+It is said in Ṛ. Saṃ. 7-21-5; 1-33-4, 5; 5-16-9; 5-7-10; 5-42-9; 6-14-3; 8-70-10; 10-22-7, 8 and other places that their deity was the phallic deity, that they did not worship the Āryans' deities such as Indra, and that they were not performers of sacrifices and the like (*ayajñānaḥ*). It may be conjectured that the Āryans conquered these black people in wars and the like and made them work as slaves, and that therefore the meanings "slave" (Slave) and "servant" came into use for the word *dāsa* in that order (Ṛ. Saṃ. 7-86-7; 8-56-3; 10-62-10). On these Dāsa people the English scholars Macdonell and Keith have expressed their opinion in this way:
+The Rigveda, on the other hand, knows दस्यु (*dasyu*) and दास (*dāsa*), both as aborigines independent of Aryan control and as subjugated slaves ; it is reasonable to reckon the शूद्र (*śūdra*) of the later texts as belonging to the aborigines who had been reduced to subjection by the Aryans. Strictly speaking, the defeated aborigines must have been regarded as slaves, but it is obvious that except on occasions when most of the men were slain, which may have occured quite often, there must have remained too many of them to be used as slaves
+
+### Printed p. 200
+of individual owners. The villages of the aborigines must have continued to subsist, but under Aryan lordship and control; there may be this amonnt of truth in Baden Powell's theory, which practically traced all the early cultivating villages in India to Dravidian origin. On the other hand, the term शूद्र (*śūdra*) would also cover the wild hill tribes which lived by hunting and fishing, and many of which would acknowledge the superiority of their Aryan neighbours; it could, in fact, be applied to all beyand the pale of the Aryan State.
+( Vedic Index of Names and Subjects, Vol I1 P. 388 )
+The women of these Dāsa people are called *dāsī*. Although this name is not current in the Ṛgveda, the word is used in the Atharvaveda (Atha. Saṃ. 5-22-6; 12-3-13; 12-4-9) and in other places (Chā. U. 5-13-2; Bṛ. U. 6-1-10). It is learnt that after the husbands of these women died in battle they worked as servants of the Āryan people, that sometimes the Āryans also kept company with them, and that the sons born of them had no ordinary intercourse with the Āryans. In the Aitareya Brāhmaṇa (Ai. Brā. 2-19) and in the Kauṣītaki Brāhmaṇa (Kau. Brā. 12-3) there is the story of Kavaṣa Ailūṣa, the son of a *dāsī*. Once, when the seers were performing a sacrifice on the bank of the river Sarasvatī, this Kavaṣa Ailūṣa, the son of a *dāsī*, came and sat among those seers; seeing it, the seers said that, since he was the son of a *dāsī*, he was not fit for dealings with the seers, who were Brāhmaṇas, and drove him out from there. Afterwards that Kavaṣa Ailūṣa went to the forest in grief and prayed to the gods; they told him that if he praised the Viśvedevas he would obtain the fitness to become a seer, and he praised the gods accordingly. In the tenth Maṇḍala of the Ṛ. Saṃ. this Kavaṣa Ailūṣa is the seer of the five sūktas 30, 31, 32, 33 and 34. Seeing this, the seers taking part in the sacrifice admitted him into their company: such is the story.
+That these Dāsa people were enemies of the Āryans and fought with them, and that they caused obstruction to sacrifices and the like, is described in Ṛks such as Ṛ. Saṃ. 1-158-5; 2-13-8; 4-30-14, 15; 6-20-10; 7-99-5; 10-49-6, 7. Because in many contexts (Ṛ. Saṃ. 5-34-6, 7; 7-6-3; Atha. Saṃ. 5-11-6) the Dāsas and the Paṇis are mentioned together, it may be conjectured that they belonged to one group. That the wealth of these Dāsas was immense is learnt from Ṛks such as Ṛ. Saṃ. 1-176-4; 4-30-13; 7-40-6; 10-69-5; Atha. Saṃ. 7-9-20. It is learnt that among these Dāsa people there were chiefs such as Dhuni, Pipru, Varcin, Śuṣṇa and Śambara, and clans named Kirāta, Kīkaṭa, Caṇḍāla, Parṇaka and Śimyu. What is indicated in the Ṛgveda about some of the chiefs of these Dāsa people is explained in brief—
+
+### Printed p. 201
+Śuṣṇa—He is the chief enemy of Kutsa. His name is read about forty times in the Ṛgveda. For Kutsa, or together with Kutsa, Indra kills Śuṣṇa (4-16-12; 5-29-9, etc.). He has strong forts (1-51-11; 4-30-13). In one place it is called a moving fort (8-1-28). Indra destroys the forts of Śuṣṇa and releases the waters (1-51-11); he uproots the race of Śuṣṇa and wins the heavenly waters (*svarvatīḥ*) (8-40-10). Four times Śuṣṇa has the epithet *kuyava*, that is, "one who produces bad grain." In some places he is called simply Kuyava (1-103-8; 1-104-3). The result of the battle of Indra and Śuṣṇa is not only the release of the waters, but may also be the obtaining of cows or of the sun (8-85-17). While fighting with Indra, Śuṣṇa moves about in darkness. He is called the son of snow (hima) and a Dānava (5-32-4). From these descriptions it may be said that Śuṣṇa was a cause of drought.
+Śambara—This name is read about twenty times. His name is also read together with Śuṣṇa and Pipru Varcin (1-101-2; 1-103-8; 2-19-6; 6-18-8). When Indra fought with Ahi and Śambara, the Maruts helped Indra (3-47-4). When he shattered Śambara, Indra made the very sky tremble (1-54-4); having searched out Śambara, who lived on a mountain (2-12-11), he hurled him down from the mountain (1-130-7; 6-26-5); Indra hurled down from the great mountain the Dāsa named Śambara, son of Kulitara (4-30-14). Considering himself a minor deity, he struck Śambara and made him fall from the lofty region (7-18-20). Ninety (1-130-7), commonly ninety-nine (2-19-6, etc.) or a hundred (2-14-6, etc.) forts are under his control. In one place the word *śambarāṇi* has the meaning "the forts of Śambara"; Bṛhaspati shattered these and entered the mountain region that was furnished with treasures (2-24-2). It is said that Indra destroys Śambara for Atithigva (1-51-6), for Divodāsa (2-19-6), or for both of them (1-130-7; 4-26-3). Some are of the opinion that Śambara and Divodāsa are one and the same person.
+Pipru—He is the enemy of Ṛjiśvan, who was under Indra's protection. This Ṛjiśvan, having offered Soma juice to Indra, obtains his help when he fights against Pipru (5-29-11; 10-99-11). Indra, yoked with Ṛjiśvan (1-101-1; 10-138-3) or for his sake (4-16-13; 6-20-7), defeated Pipru. Many forts are under the control of Pipru, who is endowed with the illusions of Ahi. Indra shatters these (1-51-5; 6-20-7). Indra slew the Dāsa Pipru and others and released the waters (8-32-2). When the sun unyoked his chariot in the middle of the sky, Aryaman saw a warrior who matched Pipru. Indra, joined with Ṛjiśvan, destroyed the strong forts of the Asura named Pipru, the possessor of illusion (10-138-3). Indra handed over Pipru, who had the form of a wild beast, to Ṛjiśvan (4-16-13). Together with Ṛjiśvan
+
 ---
 
-**Progress note:** Done through printed p. 195. Sukta 30 Rk 6 special topics, Rk 7 with Namuci notes
+**Progress note:** Done through printed p. 201. Mandala 5 sukta 30 Rk 8-9; Special Topics on dasa/dasyu, Susna, Sambara, Pipru
