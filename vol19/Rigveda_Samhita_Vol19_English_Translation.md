@@ -14068,6 +14068,265 @@ O Uṣāsānaktā, deities presiding over day and night, you who are great: toge
 
 O deities of day and night, of great nature: together with the other gods who dwell in the firmament and are worthy of worship, I offer to you oblations accompanied by comfort-giving and knowledge-filled mantras. O gods, like wise and learned women, knowing all matters of the rite, bring to the human sacrificer that knowledge, so that it becomes the means of his sacrifice.
 
+### Printed p. 373
+
+##### English translation
+Mighty Day and night, to you, along with the adorable (deities) of heaven, I present (the oblation) with prayers delighting and explicit knowing, like two sages, all (that is required), you bring (it) to the worshipper for his sacrifice.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वो॑ अर्चे पो॒ष्याव॑तो॒ न्यन्वास्तो॒ष्पतिं॒ त्वष्टा॑रं॒  ॑
+> रराणः ।  
+> धन्या॑ स॒जोषा॑ धि॒षणा॒ नमो॑भि॒र्वन॒स्सती॒रोष॑धी रा॒य एषे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वः । अर्चे । पोष्यावतः । न्हन् । वास्तोः । पतिं । त्वष्टारं । रराणः ।  
+> धन्या । सजोषाः । धिषणा । नमभिः । वनस्पतीन् । ओषधीः । रायः । एषे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं पोष्यावतो बहुपोष्यजनयुक्तान्नकर्मनेत्यन् वो युष्मानभ्यर्चे । अभिपूजयामि । स्तौमीत्यर्थः । के पुनस्ते यूयं । उच्यते । वास्तोप्पतिं त्वष्टारं रराणः स्तोत्रादिभिः क्रीडन् हविर्ददद्वाहं । धन्या धनकरी सजोषा
+> इतरदेवैः सह गच्छंती प्रीणयंती ना धिषणा । वाज्ञामृतत् । वाग्गेवता ॥ एता
+> द्वितीयार्थे प्रथमाः ॥ उक्तलक्षणां वाणीं वनस्पतीनोषधीश्च नमोभिः सहार्च
+> इति संबंधः । किमर्थं । राय एषे धनानि प्राप्तं ॥
+
+##### Gist of the bhāṣya
+
+I worship, that is, I praise, you, who have many to nourish, the leaders of food and rites.**NOTE** Who are you? He says: Vāstoṣpati and Tvaṣṭṛ, whom I, delighting with praises and the like, or giving oblations, worship; the giver of wealth, who goes together with the other gods and gratifies them, the Dhiṣaṇā, that is Speech, the goddess of speech.**NOTE** These words, standing in the first case, are used in the sense of the second case. The construction is: I worship, together with salutations, the speech so described, the lords of the forest and the herbs. For what purpose? To obtain riches, that is, to attain wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रराणः (*rarāṇaḥ*)—I who recite praise and the like
+- पोष्यावतः (*poṣyāvataḥ*)—who nourish many people
+- नृन् (*nṛn*)—and who carry out rites such as sacrifices
+- वः (*vaḥ*)—you (that is)
+- वास्तोष्पतिं (*vāstoṣpatiṃ*)—the deity named Vāstoṣpati
+- त्वष्टारं (*tvaṣṭāraṃ*)—Tvaṣṭṛ
+- धन्या (*dhanyā*)—the giver of wealth
+- सजोषाः (*sajoṣāḥ*)—who has equal affection with the other gods
+- धिषणा (*dhiṣaṇā*)—the goddess of speech
+- वनस्पतीन् (*vanaspatīn*)—the deities presiding over trees, or the trees
+- ओषधीः (*oṣadhīḥ*)—the herbs, such as trees and creepers,
+
+### Printed p. 374
+  or the deities that preside over them
+- रायः एषे (*rāyaḥ eṣe*)—for the obtaining of wealth
+- नमोभिः (*namobhiḥ*)—with salutations or with praises
+- अर्चे (*arce*)—I worship or I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I who recite praises worship you, who nourish people and lead rites such as sacrifices: that is, the deity named Vāstoṣpati; the goddess of speech, the giver of wealth, who is affectionate together with the other gods; and the trees, the creepers and the climbers, or the deities who preside over them, with recitation of praises, salutations and the like, for the obtaining of wealth.
+
+##### English translation
+I glorify you, leaders (of rites), cherishers (of many), gratifying (with oblations, you) Twashtri the lord of foundations, and the goddess of speech, bestower of opulence, and sharer in the satisfaction (of the other divinities); also the lords of the forest, and the herbs, that I may obtain riches.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒जे न॒स्तने॒ पर्व॑ताः संतु॒ स्वैत॑वो॒ ये वस॑वो॒ न वी॒राः ।  
+> प॒नि॒त आ॒प्त्यो य॑ज॒तः सदा॑ नो॒ वर्धा॑न्नः॒ शंसं॒ नर्यो॑  ॒॑
+> अभिष्टौ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुजे । नः । तने । पर्वताः । संतु । स्वएतवः । ये । वसवः । न । वीराः ।  
+> पनितः । आप्त्यः । यजतः । सदा । नः । वर्धात् । नः । शंसं । नर्यः । अभिष्टौ ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्वताः पर्ववंतः पूरणवंतो ना मेघास्तने विस्त्रते तुजे दाने ।
+> यद्वा । तनेति पुत्रनाम ॥ षष्ठ्यर्थे चतुर्थी ॥ पुत्रस्य दान इत्यर्थः । अथवा
+> नस्तुजे पुत्रे तने तत्पुत्रे च स्वैतवः शोभनगमनाः संतु । भवंतु । कीदृशास्ते ।
+
+##### Gist of the bhāṣya
+
+The पर्वताः (*parvatāḥ*) are those having joints, that is, full ones: the clouds. तने (*tane*) means extended; तुजे (*tuje*) means in giving. Or else: तने (*tane*) is a name for son, and the fourth case stands in the sense of the sixth: the meaning is in the giving of a son. Or again: may they be of good going, in our तुजे (*tuje*), our son, and in तने (*tane*), his son. What are they like?
+
+### Printed p. 375
+
+> ये वसवो जगतो वासयितारो वीरा न वीरा इव । किंच पनितः स्तुत आप्त
+> आप्तव्यः सर्वैर्यजतो यजनीय आदित्यः सदा सर्वदा नः शंसमस्माकं स्तुतिं
+> नर्यो नरेभ्यो हितो देवोऽभिष्टावभित एषणेऽभिगमने वा सति वर्धात् ।
+> वर्धयेत् ॥
+
+##### Gist of the bhāṣya
+
+They are the Vasus, who make the world dwell, like heroes. Moreover, the Āditya, praised, to be obtained by all, adorable, beneficial to men, may always increase our praise, that is, make it grow, when there is longing or approach on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which clouds
+- वीरा न (*vīrā na*)—like heroes
+- वसवः (*vasavaḥ*)—such as give the world its dwelling
+- पर्वताः (*parvatāḥ*)—the clouds
+- नः (*naḥ*)—to us
+- तने (*tane*)—very extensive
+- तुजे (*tuje*)—for the giving (of water)
+- स्वैतवः (*svaitavaḥ*)—of excellent motion
+- संतु (*saṃtu*)—may they be
+- पनितः (*panitaḥ*)—praised by all
+- आप्त्यः (*āptyaḥ*)—easily attained by all
+- यजतः (*yajataḥ*)—worthy of worship, the Āditya
+- नर्यः (*naryaḥ*)—beneficial to all men
+- अभिष्टा (*abhiṣṭā*)—while he pervades all around
+- नः (*naḥ*)—our
+- शंसं (*śaṃsaṃ*)—praise
+- वर्धात् (*vardhāt*)—may he increase
+
+##### भावार्थ (Bhāvārtha)
+
+May those clouds which, like heroes, give the world its dwelling, move excellently so as to give us water in great abundance. May the Āditya, praised by all, easily attained by all, worthy of worship, beneficial to all men, increase our praise while he pervades all around.
+
+##### English translation
+May the Parvatas be (bountiful) to us in liberal donations; may they be favourable (to us) who are the establishers (of the world) like heroes; may the adored and adorable (deity), who is accessible (to all), who is friendly to man, ever grant us increase, being propitiated by our praise.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष्णो॑ अस्तोषि भू॒म्यस्य॒ गर्भं॑ त्रि॒तो नपा॑तम॒पां सु॑वृ॒क्ति ।  
+> गृ॒णी॒ते अ॒ग्निरे॒तरी॒ न शू॒ष्यैः शो॒चिष्के॑शो॒ नि रि॑णाति॒ वना॑ ॥१०॥
+
+### Printed p. 376
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्णः । अस्तोषि । भूम्यस्य । गर्भं । त्रितः । नपातं । अपां । सुवृक्ति ।  
+> गृणीते । अग्निः । एतरि । नः । शूषैः । शोचिःकेशः । नि । रिणाति । वना ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भूम्यस्य । भूमिरंतरिक्षं । तदर्हस्य । तादृशस्य वृष्णो वर्षकस्य पर्जन्यस्य
+> अथवा भूम्यो भूमेरेवार्हः तदुचितवृष्टि प्रदानात् । तादृशस्य मेघस्य गर्भं
+> गर्भस्थानीयमपां नपातं रक्षकं वैद्युतमग्निं सुवृक्ति । स्तोत्रकर्मैतत् ।
+> शोभनपापादिवर्जनवता स्तोत्रेणास्तोषि । स्तुतवानहं । स त्रितस्तीर्णतमस्त्रिषु
+> स्थानेष्टन्येषु त्रित्वापन्नेषु तायमानोऽग्निरेतरि गंतरि मयि शूषैः सुखकरै
+> रश्मिभिर्न गृणीते । न गरणं कुरुते । न क्रुद्यतीत्यर्थः । किंतुशोचिष्केशः प्रदीप्तरश्मिः
+> सन् वना वनानि नि रिणाति । हिनस्ति । दहतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+भूम्यस्य (*bhūmyasya*): भूमि (*bhūmi*) is the firmament; भूम्यस्य (*bhūmyasya*) means worthy of it. Of such a rain-giving Parjanya, or: भूम्यो (*bhūmyo*) means worthy of the earth alone, because he gives rain fitting to it. Of such a cloud, the embryo, that stands in the place of the womb, the protector of the waters, the lightning-fire, सुवृक्ति (*suvṛkti*), a word of praise: with praise that has avoided sin and the like, I have praised him. That Trita, who has crossed over most, who is preserved in the three places, the others having become threefold,**NOTE** Agni, does not गृणीते (*gṛṇīte*), that is, does not roar, with comfort-giving rays, at me, who go to him: that is, he does not become angry. But, with blazing rays as his hair, he नि रिणाति (*ni riṇāti*) the forests, that is, harms them: the meaning is that he burns them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूम्यस्य (*bhūmyasya*)—of him who dwells in the firmament
+- वृष्णः (*vṛṣṇaḥ*)—and who causes rain, to Parjanya
+- गर्भं (*garbhaṃ*)—who is as an embryo
+- अपां नपातं (*apāṃ napātaṃ*)—the protector of the waters, the lightning-fire
+- सुवृक्ति (*suvṛkti*)—by well-composed praise
+- अस्तोषि (*astoṣi*)—I have praised
+- त्रितः (*tritaḥ*)—who is in the three places, the earth and the rest
+- अग्निः (*agniḥ*)—Agni
+- एतरि (*etari*)—upon me, who go near him
+- शूषैः (*śūṣaiḥ*)—with comfort-giving rays
+- न गृणीते (*na gṛṇīte*)—does not show anger (but)
+- शोचिष्केशः (*śociṣkeśaḥ*)—having blazing rays
+- वना (*vanā*)—the forests
+- नि रिणाति (*ni riṇāti*)—he burns
+
+##### भावार्थ (Bhāvārtha)
+
+I have praised, with well-composed praise, the lightning-fire, who dwells in the firmament, is as an embryo to the rain-giving Parjanya and is the protector of the waters. Agni, who is in the three places, the earth and the rest, does not show anger with his comfort-giving rays at me, who approach him with devotion. But, with blazing rays as his hair, he burns all the forests.
+
+##### English translation
+I glorify with unqualified praise the embryo of the earth-fertilizing rain, the grandson of the waters, Agni, who is threefold, who rages (upon
+
+### Printed p. 377
+me) not, when travelling, with (his) withering rays, but, bright-haired. consumes the forests.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था म॒हे रु॒द्रिया॑य ब्रवाम॒ कद्रा॒ये चि॑कि॒तुषे॒ भगा॑य।  
+> आप॒ ओष॑धीरु॒त नो॑ऽवंतु॒ द्यौर्वना॑ गि॒रयो॑ वृ॒क्षके॑शाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । महे । रुद्रियाय । ब्रवाम । कत् । राये । चिकितुषे । भगाय ।  
+> आपः । ओषधीः । उत । नः । अवंतु । द्यौः । वना । गिरयः।वृक्षकेशाः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमत्रयः कथा केन प्रकारेण महे महते रुद्रियाय रुद्रपुत्राय
+> मरुद्धणाय ब्रवाम स्तुतीः । कत् किं च स्तोत्रं राये धनलाभाय चिकितुषे
+> सर्वं जानते भगाय्कॆतन्नामकाय देवाय ब्रवाम । उतापि चापोऽद्भवता
+> ओषधीरोषधयो द्यार्द्यदेवता वना वनानि गिरयो वृक्षकेशाः । वृक्षा एव केशस्थानीया येषां ते । एता उक्ता देवता नोऽस्मानवंतु । रक्षंतु ॥
+
+##### Gist of the bhāṣya
+
+We, the Atris: in what manner shall we speak praises to the great रुद्रियाय (*rudriyāya*), the son of Rudra, the host of the Maruts? And what praise shall we speak, for the gaining of wealth, to the all-knowing deity named Bhaga? Moreover, may the waters, the herbs, Dyu the deity of heaven, the woods, and the mountains whose tresses are trees, that is, those whose hair is the trees themselves, these deities named, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राये (*rāye*)—so that wealth may come to us
+- महे (*mahe*)—worthy of worship
+- रुद्रियाय (*rudriyāya*)—to the host of the Maruts, the sons of Rudra
+- कथा (*kathā*)—in what manner
+- ब्रवाम (*bravāma*)—shall we offer praise?
+- चिकितुषे (*cikituṣe*)—all-knowing
+- भगाय (*bhagāya*)—to Bhaga
+- कत् (*kat*)—what praise shall we recite?
+- उत (*uta*)—and
+- आपः (*āpaḥ*)—the deities of the waters
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- द्यौः (*dyauḥ*)—the deity presiding over the heaven
+- वृक्षकेशाः (*vṛkṣakeśāḥ*)—having trees for hair
+- गिरयः (*girayaḥ*)—the mountains
+- वना (*vanā*)—the woods
+- नः (*naḥ*)—us
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+In what manner shall we offer praise to the worshipful host of the Maruts, the sons of Rudra, so that wealth may come to us? What praise shall we recite to the all-knowing Bhaga? And
+
+### Printed p. 378
+the deities of the waters, the herbs, the deity presiding over the heaven, and the mountains and woods that have trees for hair, may they protect us.
+
+##### English translation
+How can we offer (fit praise) to the mighty posterity of Rudra, or to the all-knowing Bhaga, for (the sake of obtaining) riches? may the waters, may the plants, protect us, and the heaven, the woods, and the mountains, whose tresses are trees.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒णोतु॑ न ऊ॒र्जां पति॒र्गिरः॒ स नभ॒स्तरी॑या इषि॒रः परि॑ज्मा।  
+> शृ॒ण्वंत्वापः॒ पुरो॒ न शु॒भ्राः परि॒ स्रुचो॑ बबृहा॒णस्याद्रॆः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृणोतु । नः । ऊर्जां । पतिः । गिरः । सः । नभः । तरीयान् । इषिरः । परिज्मा ।  
+> शृण्वंतु । आपः । पुरः । न । शुभ्राः । परि । स्रुचः । बबृहाणस्य । अद्रेः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं गिरः स्तुतीः शृणोतु । कः । ऊर्जां बलानां पतिर्वायुः ।
+> अथवा ऊर्जामन्नानां पतिः । प्राणोपाधिकस्य वायोः कृत्सात्तत्वं प्रसिद्धं ।
+> श्रुतिश्च भवति । प्राणस्यान्नमिदं सर्वं प्रजापतिरकल्पयत् । मनु. ५-२८ । इति । स
+> नभो नभसि चारी तरीयान् तरितव्य इषिरो गमनशीलः परिज्मा परितो गंता ।
+> किंचापः शृण्वंतु गिरः । कीदृश्यस्ताः । पुरो न पुराणीव शुभ्रा दीप्ता बबृहाणस्य
+> वर्धमानस्याद्रेर्मघस्य ना पर्वतस्य वा परि परितः स्पुचः सरणशीलाः ॥
+
+##### Gist of the bhāṣya
+
+May the lord of strengths, Vāyu, hear our praises. Or else: the lord of ऊर्जामन्नानां (*ūrjāmannānāṃ*), of foods. That Vāyu, under the limitation of breath, is the eater of all is well known,**NOTE** and there is the Śruti: प्राणस्यान्नमिदं सर्वं प्रजापतिरकल्पयत् (*prāṇasyānnamidaṃ sarvaṃ prajāpatirakalpayat*) (Manu. 5-28). He moves in the sky, is तरीयान् (*tarīyān*), to be crossed over, इषिरः (*iṣiraḥ*), given to motion, परिज्मा (*parijmā*), one who goes all round. Moreover, may the waters hear the praises. What are they like? Bright, shining like cities, flowing all round, of the growing mountain or cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नभः (*nabhaḥ*)—in the firmament
+- तरीयान् (*tarīyān*)—who moves about
+- इषिरः (*iṣiraḥ*)—who is (always) in motion
+- परिज्मा (*parijmā*)—who pervades all around
+- ऊर्जां (*ūrjāṃ*)—of all powers
+- पतिः (*patiḥ*)—the lord
+- सः (*saḥ*)—that Vāyu
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- शृणोतु (*śṛṇotu*)—may he hear
+- बबृहाणस्य (*babṛhāṇasya*)—**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 372. Vol 19 pp. 367-372: end of Trita/Agni special topics; M5 S41 Rk 5-7
+**Progress note:** Done through printed p. 378. Vol 19 pp. 373-378: M5 S41 Rk 8-12
