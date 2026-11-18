@@ -5393,6 +5393,263 @@ To the institutor of the rite, pouring out the libation, bring excellent vigour 
 > स॒मि॒धा॒नः स॑हस्रजि॒दग्ने॒ धर्मा॑णि पुष्यसि ।  
 > दे॒वानां॑ दू॒त उ॒क्तः॑ ॥ ६ ॥
 
+### Printed p. 139
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधानः । सहस्रजित् । अग्ने । धर्माणि । पुष्यसि ।  
+> देवानां । दूतः । उक्ष्यः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्रजित्सहस्रस्य जेतरग्ने समिधानो हविर्भिः समिध्यॆमान उक्त्यः
+> प्रशस्यस्त्वं देवानां दूतः सन् धर्माणि नः कर्माणि यज्ञादिक्रियाः पुष्यसि ॥
+> पोषयसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni as "victor of a thousand" (the winner of a thousand), kindled with oblations and praiseworthy. As the messenger of the gods, he says, Agni nourishes our *dharmāṇi*, that is, our rites such as the sacrifice; *puṣyasi* means "you cause to thrive".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रजित् (*sahasrajit*)—one who has won victory in thousands of situations
+- अग्ने (*agne*)—O Agni
+- समिधानः (*samidhānaḥ*)—kindled with oblations
+- उक्थ्यः (*ukthyaḥ*)—praised
+- देवानां (*devānāṃ*)—of the gods
+- दूतः (*dūtaḥ*)—as messenger
+- धर्माणि (*dharmāṇi*)—our sacrificial and other rites
+- पुष्यसि (*puṣyasi*)—you cause to thrive
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have won victory in thousands of situations, kindled with oblations and worthy of praise, you, as messenger of the gods, cause our sacrificial and other good rites to thrive.
+
+##### English translation
+Victor over thousands, you favour, when kindled, our holy rites, the honoured messenger of the gods.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य१॒॑ग्निं जा॒तवे॑दसं होत्र॒वाहं॒ यवि॑ष्ठ्यं ।  
+> दधाता देवमृत्तिजं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अग्निं । जातवेदसं । होत्रवाहं । यविष्ठ्यं ।  
+> दधात । देवं । ऋत्विजं ॥ ७ ॥
+
+### Printed p. 140
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमाना जातवेदसं । जातानि भूतानि वेत्तीति जातवेदाः । तं
+> होत्रवाहं होत्रस्य यज्ञस्य वोढारं यविष्ठ्यं युवतमं देवं द्योतमानमृत्विजन्मृतौ यष्टारमग्निं नि दधात । निधत्त ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the sacrificers: "Establish Agni." He is *Jātavedas*, because he knows all beings that are born; the bearer of the *hotra*, that is, the carrier of the sacrifice; the youngest; the god, that is, the shining one; the *ṛtvij*, the one who sacrifices in the proper season. *Nidadhāta* means "establish".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदसं (*jātavedasaṃ*)—him who knows all beings that have come into being
+- होत्रवाहं (*hotravāhaṃ*)—who carries the oblations (to the gods)
+- यविष्ठ्यं (*yaviṣṭhyaṃ*)—the very youthful
+- देवं (*devaṃ*)—the shining
+- ऋत्विजं (*ṛtvijaṃ*)—who is the chief priest of the sacrifice
+- अग्निं (*agniṃ*)—Agni
+- निदधात (*nidadhāta*)—establish and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, establish and worship Agni, who knows all beings that have come into being, who carries the oblations to the gods, who is very youthful and shining, and who is the chief priest of the sacrifice.
+
+##### English translation
+Reverence Angi, by whom all that is, is known, the bearer of oblations the youngest of the gods, the divine, the ministrant priest.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र य॒ज्ञ ए॑त्वानु॒षग॒द्या दे॒वव्य॑चस्तमः ।  
+> स्त्री॒णी॒त ब॒र्हिरा॒सदे॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यज्ञः । एतु । आनुषक् । अद्य । देवव्यचःतमः ।  
+> स्त्रीणीत । बर्हिः । आसदे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्नहनि देवव्यचस्तमो देवैः प्रकाशमानैः स्तोतृभिर्व्याप्ततमो
+> यज्ञो यज्ञसाधनं हविरानुषगनुषक्तं यथा भवति तथा प्रैतु । देवान्
+> गच्छतु । हे ऋत्विज आसदेऽग्नेरासदनार्थं बर्हिः स्मृणीत ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day, let the sacrifice, which is the means of sacrifice, namely the oblation, most pervaded by the shining praisers of the gods, go forth uninterrupted to the gods. O priests, spread the sacred grass for Agni's seat.
+
+### Printed p. 141
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—in this sacrifice
+- देवव्यचस्तमः (*devavyacastamaḥ*)—offered with the utmost devotion by the shining praisers **NOTE**
+- यज्ञः (*yajñaḥ*)—the oblation
+- आनुषक् (*ānuṣak*)—duly, according to rule
+- प्र एतु (*pra etu*)—let it reach the gods (O priests)
+- आसदे (*āsade*)—for Agni's seat
+- बर्हिः (*barhiḥ*)—the seat of darbha grass
+- स्तणीत (*staṇīta*)—spread
+
+##### भावार्थ (Bhāvārtha)
+
+In this sacrifice, let the oblation offered with the utmost devotion by the shining praisers duly reach the gods. O priests, spread the seat of darbha grass for Agni.
+
+##### English translation
+May the sacrifice most solemnly offered by the devout duly proceed to-day (to the gods) : spread the sacred grass for their seat.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विदं म॒रुतो॑ अ॒श्विना॑ मि॒त्रः सी॑दंतु॒ वरु॑णः ।  
+> दे॒वासः॒ सर्व॑या वि॒शा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इदं । मरुतः । अश्विना । मित्रः । सीदंतु । वरुणः ।  
+> देवासः । सर्वया । विशा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतो मरुद्गणा अश्विनाश्विन् देवानां भिषजौ मित्रः सूर्यो वरुणश्च
+> देवास एते सर्वे देवाः सर्वया विशा समस्तेन स्वीयेन परिजनेन सार्धमिदं
+> बर्हिरा सीदंतु ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are the troops of Maruts; the Aśvins are the physicians of the gods; Mitra is the sun; and Varuṇa. All these gods, together with their entire retinue, are to sit down on this sacred grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—the Marut gods
+- अश्विना (*aśvinā*)—the Aśvin gods
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- देवासः (*devāsaḥ*)—all these gods
+- सर्वया विशा (*sarvayā viśā*)—with all the attendant gods belonging to them
+- इदं (*idaṃ*)—upon these seats of darbha grass
+- आ सीदंतु (*ā sīdaṃtu*)—let them sit
+
+### Printed p. 142
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, who are of divine nature, the Aśvin gods, Mitra and Varuṇa, together with all the attendant gods belonging to them, come and sit down upon these seats of darbha grass.
+
+##### English translation
+May the Maruts, the Ashwins, Mitra, Varuna, the gods, with all their attendants, sit down upon this grass.
+
+## Sūkta 27 (Maṇḍala 5)
+
+The twenty-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनस्वंतेति षडृचं त्रयोदशं सूक्तं । अत्रानुक्रमणिका । अनस्वंता षट्
+> त्रैवृष्णपौरुकुत्सौ द्वा त्रैरुणत्रसदस्य राजान् भारतश्चाश्वमेधोऽंत्यास्तिस्रोऽनुष्टुभो नात्मात्मने दद्यादिति सर्वास्वत्रिं केचिदंत्यैंद्राग्नीति । त्रिवृष्टस्य
+> पुत्रस्त्र्यरुणः पुरुकुत्सस्य पुत्रस्त्रसदस्युर्भरतस्य पुत्रोऽश्वमेध एते त्रयोऽपि
+> राजानः संभूयास्य सूक्तस्य ऋषयः । यद्वा । अत्रिरेव ऋषिः । अद्यास्तिस्रस्त्रिष्टुभश्चतुर्थाद्यास्ति स्रोऽनुष्टुभः । षष्ठींद्राग्नि देवत्या शिष्टाः पंचाग्नेय्यः ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning *anasvantā* has six Ṛks. Sāyaṇa cites the Anukramaṇikā for its seers, metres and deities (quoted in full in the Anuvāda below). He explains that Tryaruṇa, son of Trivṛṣṭa, Trasadasyu, son of Purukutsa, and Aśvamedha, son of Bharata, these three kings together are the seers of this sūkta; or else Atri alone is the seer. **NOTE** The first three Ṛks are in the Triṣṭubh metre, the three beginning with the fourth are in Anuṣṭubh. The sixth has Indra-Agni as deity; the remaining five are addressed to Agni. The use in ritual is by indication (*laiṅgika*).
+
+The sūkta beginning *anasvantā* is the thirteenth sūkta in the second Anuvāka. It has six Ṛks. In the Anukramaṇikā it is said: अनस्वंता षट् त्रैवृष्णपौरुकुत्सौ द्वा त्रैरुणत्रसदस्य राजान् भारतश्चाश्वमेधोऽंत्यास्तिस्रोऽनुष्टुभो नात्मात्मने दद्यादिति सर्वास्वत्रिं केचिदंत्यैंद्राग्नीति । त्रिवृष्टस्य पुत्रस्त्र्यरुणः पुरुकुत्सस्य पुत्रस्त्रसदस्युर्भरतस्य पुत्रोऽश्वमेध एते त्रयोऽपि राजानः संभूयास्य सूक्तस्य ऋषयः । यद्वा । अत्रिरेव ऋषिः । अद्यास्तिस्रस्त्रिष्टुभश्चतुर्थाद्यास्ति स्रोऽनुष्टुभः । षष्ठींद्राग्नि देवत्या शिष्टाः पंचाग्नेय्यः ॥ विनियोगो लैंगिकः ॥ अनुवादवु— अनस्वंता ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि हदिमूरनॆय सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. अनुक्रमणिकॆयल्लि—अनस्वंता षट् त्रैवृष्णपौरुकुत्सौ द्वौ त्र्यरुणत्रसदस्य राजानौ भारतश्चाश्वमेधोऽन्त्यास्ति सोऽनुष्टुभो नात्मात्मने दद्यादिति सर्वास्वत्रिं केचिदंतैंद्राग्नी (*anasvaṃtā ṣaṭ traivṛṣṇapaurukutsau dvā trairuṇatrasadasya rājān bhārataścāśvamedho 'ṃtyāstisro 'nuṣṭubho nātmātmane dadyāditi sarvāsvatriṃ kecidaṃtyaiṃdrāgnīti | trivṛṣṭasya putrastryaruṇaḥ purukutsasya putrastrasadasyurbharatasya putro 'śvamedha ete trayo 'pi rājānaḥ saṃbhūyāsya sūktasya ṛṣayaḥ | yadvā | atrireva ṛṣiḥ | adyāstisrastriṣṭubhaścaturthādyāsti sro 'nuṣṭubhaḥ | ṣaṣṭhīṃdrāgni devatyā śiṣṭāḥ paṃcāgneyyaḥ ‖ viniyogo laiṃgikaḥ ‖ anuvādavu— anasvaṃtā èṃba ī sūktavu èraḍanèya anuvākadalli hadimūranèya sūktavu. idaralli āru ṛkkugaḷiruvavu. anukramaṇikèyalli—anasvaṃtā ṣaṭ traivṛṣṇapaurukutsau dvau tryaruṇatrasadasya rājānau bhārataścāśvamedho 'ntyāsti so 'nuṣṭubho nātmātmane dadyāditi sarvāsvatriṃ kecidaṃtaiṃdrāgnī*). The seers of this sūkta are the three together: Tryaruṇa, son of King Trivṛṣṇa; Trasadasyu, son of King Purukutsa; and Aśvamedha, a prince, son of Bharata. Or else it can be said that Atri himself is the seer of this sūkta. The first three Ṛks of this sūkta are in the Triṣṭubh metre; the three from the fourth are in the Anuṣṭubh metre. The sixth Ṛk has Indra-Agni as its deity; the remaining five Ṛks have Agni as their deity. The use in ritual is by indication.
+
+### Printed p. 143
+
+Sūkta 27.
+
+Maṇḍala 5, Anuvāka 2, Sūkta 27. Aṣṭaka 4, Adhyāya 1, Varga 21.
+
+Number of Ṛks in the sūkta: 6.
+
+Seer: त्रैरुणस्त्रैवृष्ण स्त्रसदस्युश्च पौरुकुत्स अश्वमेधश्च भारत अत्रिर्वा ॥ (*trairuṇastraivṛṣṇa strasadasyuśca paurukutsa aśvamedhaśca bhārata atrirvā ‖*).
+
+Deity: 1–5 Agni; 6 Indra-Agni.
+
+Metre: 1–3 Triṣṭubh; 4–6 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन॑स्वंता॒ सत्प॑तिर्मामहे मे॒ गावा॒ चेति॑ष्टो॒ असु॑रो  ॒॑
+> मघोनः ।  
+> त्रै॒वृ॒ष्णो अ॑ग्ने द॒शभिः॑ स॒हस्रै॒र्वैश्वा॑नर॒ त्रै॑रुणश्चिकेत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनस्वंता । सत्पतिः । ममहे । मे । गावा । चेतिष्ठः । असुरः । मघोनः ।  
+> त्रैवृष्णः । अग्ने । दशभिः । सहस्रैः । वैश्वानर । त्रिअरुणः । चिकेत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्री राजर्षिणां दानमग्नेः पुरतोऽनेन सूक्तेनावर्णयत् । हे
+> वैश्वानर विश्वेषां नराणां नेतरग्ने सत्पतिः सतां साधूनां पालयिता चेतिष्टो
+> ज्ञातृतमोऽसुरो बलवान्मघोनो मघवा धनवान् ॥ प्रथमार्थे जसिः ॥ त्रैवृष्णस्त्रिवृष्णपुत्रस्र्यरुणस्त्र्यरुण इत्येतन्नामा राजर्षिरनस्वंतानस्वंतावनसा शकटेन
+> संयुक्ता गावा गावावनड्वाहौ गवां हिरण्यादीनां दशभिः सहस्रैः सह मे मह्यं
+> ममहे । ददौ ॥ महि दाने ॥ स राजर्षिश्चिकेत । सर्वैर्जनैरनेन दानेन ज्ञायते॥
+
+##### Gist of the bhāṣya
+
+Atri described the gift of the royal seers in the presence of Agni by means of this sūkta. O Vaiśvānara, leader of all men, Agni, you are *satpati*, the protector of the good and the righteous; *cetiṣṭha*, the most knowing; *asura*, the powerful; and *maghonaḥ*, one possessing wealth. Tryaruṇa, the royal seer of that name, son of Trivṛṣṇa, gave (*mamahe*) to me the two oxen *anasvantā* (that is, joined with a cart, *anas*) together with ten thousands of cattle, gold and the like. That royal seer is known (*ciketa*) to all people by this gift. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—O leader of all men
+- अग्ने (*agne*)—O Agni
+- सत्पतिः (*satpatiḥ*)—protector of the good
+- चेतिष्ठः (*cetiṣṭhaḥ*)—the best among the discerning
+- असुरः (*asuraḥ*)—endowed with strength
+- मघोनः (*maghonaḥ*)—possessing wealth
+
+### Printed p. 144
+
+- त्रैवृष्णः (*traivṛṣṇaḥ*)—son of Trivṛṣṇa
+- त्र्यरुणः (*tryaruṇaḥ*)—the royal seer named Tryaruṇa
+- मे (*me*)—to me
+- अनस्वंता (*anasvaṃtā*)—those joined with a cart
+- दशभिः सहस्रैः (*daśabhiḥ sahasraiḥ*)—those joined with ten thousand pieces of gold
+- गावा (*gāvā*)—the pair of cattle
+- ममहे (*mamahe*)—gave (and therefore)
+- चिकेत (*ciketa*)—he has become known and famous to all
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of Vaiśvānara, protector of the good, best among the discerning, endowed with strength and wealth: the royal seer named Tryaruṇa, son of Trivṛṣṇa, gave me a pair of cattle (two oxen) joined with a cart and with ten thousand pieces of gold. For that very reason he has become known and famous to all.
+
+##### English translation
+Agni, who are the protector of the good, most wise, powerful, and opulent; Tryaruna, the son of Trivrishna, has become renowned, Vaishwanara, in that he has bestowed upon me a pair of cattle with a waggon, and with ten thousands of treasure.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मे॑ श॒ता च॑ विंश॒तिं च॒ गोनां॒ हरी॑ च यु॒क्ता  
+> सु॒धुरा॒ ददा॑ति ।  
+> वैश्वा॑नर॒ सुष्टु॑तो वावृधा॒नोऽग्ने॒ यच्छ॒ त्र्य॑रुणाय॒  ॑
+> शर्म ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मे । शता । च । विंशतिं । च । गोनां । हरी इति । च । युक्ता । सुधुरा ।  
+> ददाति ।  
+> वैश्वानर । सुस्तुतः । ववृधानः । अग्ने । यच्छ । त्रिअरुणाय । शर्म ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 138. Sukta 25 Rk 8-9, Sukta 26 Rk 1-6 saṃhitā (pp. 132-138)
+**Progress note:** Done through printed p. 144. Ṛk 6-9 of Sūkta 26 and Sūkta 27 Ṛk 1-2 (start), pp. 139-144
