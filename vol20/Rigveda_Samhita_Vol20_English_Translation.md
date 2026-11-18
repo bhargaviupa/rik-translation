@@ -2081,6 +2081,252 @@ Sing loud with lusty praise to Mitra and to Varuna ; (come), mighty deities, to 
 > स॒म्राजा॒ या स्फु॒तियो॑नी मि॒त्रश्चो॒भा वरु॑णश्च ।  
 > दे॒वा दे॒वेषु॑ प्रश॒स्ता ॥ २ ॥
 
+### Printed p. 57
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराजा । या । धृतयोनी इति धृतयोनी । मित्रः । च । उभा । वरुणः । च ।  
+> देवा । देवेषु । प्रशस्ता ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ मित्रश्च वरुणश्च । परस्परापेक्षया चशब्दः । उभोभौ सम्राजा
+> सर्वस्य स्वामिन् घृतयोनी उदकस्योत्पादक् देवा द्योतमानौ देवेषु मध्ये
+> प्रशस्ता प्रकर्षेण स्तुत्यौ । तौ गायतेति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+Those two, Mitra and Varuṇa (the word "ca" is used in mutual dependence), both are sovereign, that is, lords of all; originators of water; shining; eminent among the gods, that is, exceedingly worthy of praise. The sentence connects with the earlier verse: sing to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which
+- मित्रश्च (*mitraśca*)—Mitra
+- वरुणश्च (*varuṇaśca*)—and Varuṇa
+- उभा (*ubhā*)—both of them
+- समूजा (*samūjā*)—are lords of the whole world
+- धृतयोनी (*dhṛtayonī*)—are originators of water
+- देवा (*devā*)—being shining
+- देवेषु (*deveṣu*)—among the gods
+- प्रशस्ता (*praśastā*)—are worthy of the highest praise (praise such Mitra and Varuṇa, addressing them)
+
+##### भावार्थ (Bhāvārtha)
+
+Praise, addressing them, those Mitra and Varuṇa who are both lords of the whole world, originators of water, and, being shining, worthy of the highest praise among the gods.
+
+##### English translation
+The Mitra and Varuna, who are both sovereign rulers, originators of the rain, eminent deties among the gods.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नः॑ शक्तं॒ पार्थि॑वस्य म॒हो रा॒यो दि॒व्यस्य॑ ।  
+> महि॑ वां क्ष॒त्रं दे॒वेषु॑ ॥ ३ ॥
+
+### Printed p. 58
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नः । शक्तं । पार्थिवस्य । महः । रायः । दिव्यस्य ।  
+> महि । वां । क्षत्रं । देवेषु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ देवौ नोऽस्मदर्थं पार्थिवस्य पृथिवीसंबद्धस्य दिव्यस्य दिवि भवस्य च
+> महो महतो रायो धनस्य शक्तं । समर्थौ भवतं । दातुमिति शेषः । हे देवौ
+> वां युवयोर्महि महत्पूज्यं क्षत्रं बलं देवेषु प्रसिद्धं स्तुम इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Those two gods, for our sake, be able, that is, capable, to give great wealth, both that connected with the earth and that which is in heaven ("to give" is to be supplied). O two gods, your great, adorable might is well known among the gods; "we praise it" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—those same Mitra and Varuṇa
+- नः (*naḥ*)—to us, for giving
+- पार्थिवस्य (*pārthivasya*)—connected with the earth
+- दिव्यस्य (*divyasya*)—connected with the heavenly world
+- महः (*mahaḥ*)—and exceedingly great
+- रायः (*rāyaḥ*)—wealth
+- शक्तं (*śaktaṃ*)—they are capable of
+- वां (*vāṃ*)—your
+- महि (*mahi*)—great
+- क्षत्रं (*kṣatraṃ*)—might
+- देवेषु (*deveṣu*)—is to be praised among the gods
+
+##### भावार्थ (Bhāvārtha)
+
+Those same Mitra and Varuṇa are capable of the wealth, connected with the earth, connected with the heavenly world and exceedingly great, that is to be given to us (they are its lords). Your great might is to be praised among the gods.
+
+##### English translation
+They two are able (to grant us) of great terrestrial and celestial riches: great is your might among the gods.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तमृ॒तेन॒ सपं॑तेषि॒रं दक्ष॑माशाते ।  
+> अ॒द्रुहा॑ दे॒वौ व॑र्धेते ॥ ४ ॥
+
+### Printed p. 59
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यतं । यतेन । सपंता । इषिरं । दक्षं । आशाते इति ।  
+> अद्रुहा । देव् । वर्धेते इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतेनोदकेन निमित्तेन ऋतं यज्ञं संपंता स्पृशंताविषिरमेषणवंतं
+> दक्षं प्रवृद्धं यजमानं हविर्वाशाते । व्याप्नुतः । अद्रुहाद्रोग्धारौ देवौ
+> मित्रावरुणौ युवां वर्धेते । प्रवृद्धौ भवतः ॥
+
+##### Gist of the bhāṣya
+
+By water as the cause, touching the sacrifice, the two pervade the sacrificer who is eager, strong and grown, or his oblation. O gods Mitra and Varuṇa, who do no harm, you two grow; you become greatly grown.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतेन (*yatena*)—with water in the form of rain
+- यतं (*yataṃ*)—the sacrifice
+- सपंता (*sapaṃtā*)—making fruitful
+- इषिरं (*iṣiraṃ*)—skilled in rites
+- दक्षं (*dakṣaṃ*)—and strong, the sacrificer
+- आशाते (*āśāte*)—they favour
+- अद्रुहा (*adruhā*)—who do no harm (to the performer of the sacrifice)
+- देवौ (*devau*)—O Mitra and Varuṇa
+- वर्धेते (*vardhete*)—may you prosper
+
+##### भावार्थ (Bhāvārtha)
+
+Making the sacrifice fruitful with water in the form of rain, Mitra and Varuṇa favour the sacrificer who is skilled in rites and strong. O Mitra and Varuṇa, who do no harm to the performer of the sacrifice, may you prosper.
+
+##### English translation
+Rewarding with rain the holy rite, they favour the zealous worshipper : benevolent deities, may you prosper.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष्टिद्या॑वा री॒त्या॑पे॒षस्पती॒ दानु॑मत्याः ।  
+> बृ॒हंतं॒ गर्त॑माशाते ॥ ५ ॥
+
+### Printed p. 60
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्टिद्यावा । रीतिआपा । इषः । पती इति । दानुमत्याः ।  
+> बृहंतं । गर्तं । आशाते इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृष्टिद्यावा । वृष्टर्था द्यौः स्तुतिर्ययोस्तौ वृष्टिद्यावा । अथवा वृष्टिर्वर्षिका द्यौरंतरिक्षं याभ्यां तौ तादृशौ । रीत्यापा ॥ री गतिरेषणयोः ॥ रीतिः
+> प्राप्तिः । सैवापास्ति रभिमतप्राप्तिर्ययोस्तौ तादृशौ । इषोऽन्नस्य पती स्वामिन् ।
+> वृष्टिप्रदत्वात् स्वामित्वं । दानुमत्या दानवत्याः । दातृषूचिताया इत्यर्थः ।
+> एतदिड्विशेषणं । एवं महानुभावौ बृहंतं महांतं गर्तं रथमाशाते । व्याप्पुतः ।
+> अधितिष्ठतो यागार्थं ॥
+
+##### Gist of the bhāṣya
+
+"Vṛṣṭidyāvā": those whose praise (dyauḥ) is for the sake of rain; or else those by whom rain, the rainy season, and the sky are brought about. "Rītyāpā": rī is in the sense of going and seeking; rīti is attainment; those for whom there is the attainment of what is desired.**NOTE** They are the lords of food; they are lords because they give rain. "Dānumatyā" means possessed of giving, that is, suited to givers; this is an adjective of food (iṣ). Such greatly powerful ones mount the great "garta", that is, the chariot, pervading it, for the sake of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्टिद्यावा (*vṛṣṭidyāvā*)—those who send down rain from the atmosphere
+- रीत्यापा (*rītyāpā*)—those who cause the desired object to be obtained
+- दानुमत्याः (*dānumatyāḥ*)—fit for giving
+- इषः (*iṣaḥ*)—of food
+- पती (*patī*)—and lords, Mitra and Varuṇa
+- बृहंतं (*bṛhaṃtaṃ*)—great
+- गर्तं (*gartaṃ*)—chariot
+- आशाते (*āśāte*)—they mount
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra and Varuṇa, who send down rain from the atmosphere, who cause the desired object to be obtained, and who are lords of the food that is fit for giving, mount the great chariot.
+
+##### English translation
+Senders of rain from heaven, granters of desires, lords of sustenance suited to the liberal donors (of oblations), they ascend their spacious car.
+### Printed p. 61
+## Sūkta 69 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्री रोचनेति चतुर्यचं त्रयोदशं सूक्तं । उरुचक्रिर्नामात्रेय
+> ऋषिः । त्रिष्टुप् छंदः । मित्रावरुणौ देवता । अनुक्रम्यते च । श्री रोचना
+> चतुष्कमुरुचक्रिरिति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "śrī rocanā", of four Ṛks, is the thirteenth. The seer is the one called Urucakri of the Atri family, the metre is Triṣṭubh, the deity is Mitra and Varuṇa. The Anukramaṇikā also says so. The application is by indication (laiṅgika).
+
+##### Anuvāda
+
+This sūkta beginning "śrī rocanā" is the thirteenth sūkta in the fifth anuvāka. It has four Ṛks. For this sūkta the seer is the one called Urucakri Ātreya; the deity is Mitra and Varuṇa; the metre is Triṣṭubh. In the Anukramaṇikā it is said: "śrī rocanā catuṣkam urucakriḥ". The application is by indication.
+
+##### Particulars
+
+- Sūkta 69
+- Maṇḍala 5; Anuvāka 5; Sūkta 69
+- Aṣṭaka 4; Adhyāya 4; Varga 7
+- Number of Ṛks in the sūkta: 4
+- Seer: Urucakri Ātreya
+- Deity: Mitra and Varuṇa
+- Metre: Triṣṭubh
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्री रो॑च॒ना व॑रुण॒ त्रेरु॒त द्यून्रीणि॑ मित्र धारयथो॒  ॑
+> रजांसि ।  
+> वा॒वृ॒धा॒नाव॒मतिं॑ क्ष॒त्रिय॒स्यानु॑ व्र॒तं रक्ष॑माणावजु॒र्य० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्री । रोचना । वरुण । त्रीन् । उत । द्यून् । त्रीणि । मित्र । धारयथः । रजांसि ।  
+> ववृधान् । अमतिं । क्षत्रियस्य । अनु । व्रतं । रक्षमाण् । अजुर्य० ॥ १ ॥
+
+### Printed p. 62
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण हे मित्र युवां त्री त्रीणि रोचना रोचनानि द्युलोकान्
+> धारयथ इति संबंधः । उतापि च त्रीन्दून् द्योतमानानंतरिक्षलोकान्दारयथः ।
+> तथा त्रीणि रजांसि भूलोकान् । कीदृशौ युवां । वावृधान् वर्धमान् क्षत्रियस्य ।
+> क्षत्रं बलं । तद्वत इंद्रस्य । यद्वा । क्षत्रियजातीयस्य यजमानस्यामतिं ।
+> रूपनामैतत् । रूपं व्रतं कर्म चाजुर्यमजीर्णमविरतं वा रक्षमाण् ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, O Mitra, you uphold three luminous regions, the heavenly worlds; and also three shining regions, the atmospheric worlds; and likewise the three "rajas", the earthly worlds. Of what sort are you? Increasing the "amati", the form, of the kṣatriya, kṣatra being strength, that is, of Indra who possesses it; or else, of the sacrificer of the kṣatriya class. "Amati" is a word for form. And you protect the rite (vrata), unfailing, that is, undecaying or uninterrupted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra (both of you)
+- क्षत्रियस्य (*kṣatriyasya*)—of the mighty Indra
+- अमतिं (*amatiṃ*)—the form
+- वावृधानौ (*vāvṛdhānau*)—causing to increase
+- आजुर्यं (*ājuryaṃ*)—undecaying
+- व्रतं (*vrataṃ*)—rite
+- अनुरक्षमाणौ (*anurakṣamāṇau*)—continually protecting
+- श्री रोचना (*śrī rocanā*)—the three heavenly worlds full of splendour
+- त्रीन् द्यून् (*trīn dyūn*)—the three shining atmospheres
+- उत (*uta*)—and
+- त्रीणि रजांसि (*trīṇi rajāṃsi*)—the three earthly worlds
+- धारयथः (*dhārayathaḥ*)—you uphold
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, both of you, causing the form of the mighty Indra to increase, and continually protecting the undecaying rite, you uphold the three heavenly worlds full of splendour, the three shining atmospheres and the three earthly worlds.
+
+##### English translation
+Mitra and Varuna, you uphold the three realms of light, the three heavens; the three regions (of the earth), augmenting the force of the vigorous (Indra), and protecting the imperishable rite.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इरा॑वतीर्वरुण धे॒नवो॑ वां॒ मधु॑मद्वां॒ सिंध॑वो मित्रदुहे ।  
+> त्रय॑स्तस्थुवृष॒भास॑स्ति सृ॒णां धि॒षणा॑नां रेतो॒धा विद्यु॒मंतः॑॥
+
 ---
 
-**Progress note:** Done through printed p. 56. Vol 20 pp. 51-56: MM 5.67 Rk 2-5, 5.68 Rk 1-2 start
+**Progress note:** Done through printed p. 62. Vol 20 pp. 57-62: MM 5.68 Rk 2-5, 5.69 Rk 1 and Rk 2 start
