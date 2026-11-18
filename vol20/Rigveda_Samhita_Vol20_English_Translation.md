@@ -13492,6 +13492,255 @@ He who has presented (oblations) to Agni, the possessor of desired (wealth), sac
 - अरेपाः (*arepāḥ*)—is free from fault
 - यत् ते (*yat te*)—your, which
 
+### Printed p. 401
+
+- radiant
+- धीः (*dhīḥ*)—the flame
+- आक्टोः (*ākṭoḥ*)—in the night-time
+- हेषस्वतः (*heṣasvataḥ*)—that roam about bellowing
+- शुरुधो न (*śurudho na*)—like bulls
+- भीमा (*bhīmā*)—terribly
+- आ (*ā*)—all round
+- एति (*eti*)—goes about, such a one
+- वसतिः (*vasatiḥ*)—the abode of all
+- वनेजाः (*vanejāḥ*)—born in the forest
+- आयं (*āyaṃ*)—your form
+- कुत्रा चित् (*kutrā cit*)—in all regions
+- रण्वः (*raṇvaḥ*)—is delightful
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose manifestation, like the radiance of the sun, is free from fault, whose shining flame goes terribly all round in the night like bulls that roam about bellowing, that form of yours, which is the abode of all and is born in the forest, is delightful in all regions.
+
+##### English translation
+When the fearful flames of you, whose appearance is (as) faultless as (that of) the sun, spread on every side as (if they were) the lowing heifers of the night, then this Agni, the asylum of all, generated in the woods, is everywhere beautiful.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्मं चि॒देम॒ महि॒ वर्पो॑ अस्य॒ भस॒दश्वो॒ न य॑मसा॒न आ॒सा।  
+> वि॒जेह॑मानः पर॒शुर्न जि॒ह्वां द्र॒विर्न द्रा॑वयति॒ दारु॒ धक्ष॑त् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मं । चित् । एम । महि । वर्पः । अस्य । भसत् । अश्वः । न । यमसानः । आसा ।  
+> विजेहमानः । परशुः । न । जिह्वां । द्रविः । न । द्रवयति । दारु । धक्षत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्नेरेम गमनभूतो मार्गस्तिग्मं तीक्ष्णं स्प्रष्टुमशक्यत्वात् । अस्य च
+> वर्पो रूपं महि महत् प्रभूतं भसत् । दीप्यते ॥ भस भर्त्सनदीप्त्योरिति
+> xx 26
+
+##### Gist of the bhāṣya
+
+The path of going (एम (*ema*)) of this Agni is sharp (तिग्मं (*tigmaṃ*)), because it cannot be touched. His form (वर्पः (*varpaḥ*)) is great and abundant. भसत् (*bhasat*) means that he shines.
+
+### Printed p. 402
+
+> धातुः ॥ कीदृशोऽग्निः । अश्वो न अश्व इवासास्येन यमसानस्तृणादिकं नियच्छन् ।
+> तथा परशुर्न । यथा परशुः स्वकीयां धारां काष्ठे प्रक्षिपति तथा स्वकीयां जिह्वां
+> ज्वालां विजेहमानस्तरुगुल्मादौ प्रक्षिपन् । तथा दारु काष्ठं धक्षत् दहन् द्रविर्न ।
+> द्रविद्रावयिता स्वर्णकारः । स यथा स्वर्णादिकं द्रावयति तथा सर्वं वनं द्रावयति । मूर्तभूतं भस्मसात्करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+What kind of Agni is he? Like a horse (अश्वो न (*aśvo na*)), champing grass and the like with its mouth. Likewise like an axe: as an axe plunges its own edge into wood, so he casts his own tongue, that is, his flame, spreading it into trees and shrubs, burning the wood. Like a goldsmith (द्रविर्न (*dravirna*)), the one who causes to melt: as he melts gold and the like, so Agni melts the whole forest. The meaning is that he reduces what has form to ashes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Agni
+- एम (*ema*)—the path of going
+- तिग्मं (*tigmaṃ*)—is sharp
+- वर्पः (*varpaḥ*)—the form
+- महि (*mahi*)—is abundant
+- आसा (*āsā*)—with the mouth
+- यमसानः (*yamasānaḥ*)—champing grass
+- अश्वो न (*aśvo na*)—like a horse
+- भसत् (*bhasat*)—is radiant
+- परशुर्न (*paraśurna*)—as the edge of an axe enters wood
+- जिह्वां (*jihvāṃ*)—the flame
+- विजेहमानः (*vijehamānaḥ*)—spreading in trees, shrubs and the like
+- वारु (*vāru*)—trees and the like
+- धक्षन् (*dhakṣan*)—burning
+- द्रविर्न (*dravirna*)—as a goldsmith melts gold and the like
+- द्रावयति (*drāvayati*)—(Agni too) burns and melts
+
+##### भावार्थ (Bhāvārtha)
+
+The path of going of this Agni is sharp and his form is abundant; he is radiant like a horse champing grass with its mouth. As the edge of an axe enters timber, so the flame of Agni spreads in trees, shrubs and the like, burning trees and the rest; and as a goldsmith melts gold and the like, so Agni too burns and melts everything.
+
+##### English translation
+Sharp is his path, and his vast body shines like a horse champing fodder with his mouth, darting forth his tongue like a hatchet and burning timber to ashes like a goldsmith who fuses (metal).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इदस्ते॑व॒ प्रति॑ धादसि॒ष्य इच्छी॑त॒ तेजोऽय॑सो॒ न धारां॑ ।  
+> चि॒त्रध्र॑जतिरर॒तियोर् अ॒क्तोर्वेर्न द्रु॒षद्वा॑ रघु॒पत्म॑जंहा ॥
+
+### Printed p. 403
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । अस्ताऽइव । प्रति । धात् । असिष्यन् । शिशीत । तेजः । आयसः । न । धारां ।  
+> चित्रध्रजतिः । आरतिः । यः । अक्तोः । वेः । न । द्रुसद्वा । रघुपत्म्यजंहाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत्थ खल्वग्निरस्तेव वाणादेः क्षेप्तेव प्रति धात् । स्वकीयज्वालां प्रतिधत्ते ।
+> यथा धन्वी लक्ष्याभिमुख्येन वाणं संधत्ते तथा ज्वालां संधत्त इत्यर्थः । प्रतिधाय
+> चासिष्यन् ज्वालां प्रक्षेप्स्यन् तेजः स्वकीयं तिशीत । निश्यति । तीक्ष्णीकरोति । तत्र
+> दृष्टांतः । अयसो न धारां । यथायोमयस्य परश्वादेर्धारां प्रक्षेपुकामस्तीक्ष्मीकरोति तद्वत् । तीक्ष्मीकृत्य च चित्रध्रजतिर्विचित्रगतिरक्तो रात्रेररतिरभिगंता
+> वेर्न पक्षीव द्रुषद्वा वृक्षेषु सीदन् रघुपत्मजंहा लघुपतनसमर्थपादः । एवंभूतः सन् योग्निर्वर्तते स इति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+That same Agni, like an archer (अस्ता इव (*astā iva*)) who shoots an arrow or the like, directs (प्रति धात् (*prati dhāt*)) his own flame: as an archer fits the arrow towards the target, so he fits his flame; this is the meaning. Having directed it, and about to hurl the flame (असिष्यन् (*asiṣyan*)), he sharpens his own radiance (शिशीत (*śiśīta*) is explained as: he sharpens, makes keen). An example is given: like the edge of iron (अयसो न धारां (*ayaso na dhārāṃ*)), as one who wishes to hurl an iron axe or the like sharpens its edge. Having sharpened it, he is of variegated motion (चित्रध्रजतिः (*citradhrajatiḥ*)), and he approaches at night (अक्तोः (*aktoḥ*) is explained as of the night), like a bird (वेर्न (*verna*)) sitting in trees, with feet able to fall lightly (रघुपत्मजंहा (*raghupatmajaṃhā*)). The Agni who is such, he: this is to be connected with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्रध्रजतिः (*citradhrajatiḥ*)—one of variegated motion
+- अक्टोः (*akṭoḥ*)—in the night-time
+- अरतिः (*aratiḥ*)—and one who moves about
+- वेः न (*veḥ na*)—like a bird
+- द्रुसद्वा (*drusadvā*)—hiding in a tree
+- रघुपत्नजंहाः (*raghupatnajaṃhāḥ*)—having light feet fit for moving swiftly
+- यः (*yaḥ*)—whichever Agni there is
+- स इत् (*sa it*)—that same Agni
+- अस्ता इव (*astā iva*)—as an archer swiftly looses his arrow
+- प्रति धात् (*prati dhāt*)—spreads his flame fiercely
+- आयसः (*āyasaḥ*)—of a weapon made of steel
+- धारां न (*dhārāṃ na*)—as a warrior rubs the edge and makes it sharp
+- असिष्यन् (*asiṣyan*)—with the intention of spreading his flame
+- तेजः (*tejaḥ*)—his radiance
+- शिशीत (*śiśīta*)—makes sharp
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is of variegated motion, who moves about in the night, and who, like a bird hiding in a tree, has light feet fit for moving swiftly, that same Agni fiercely spreads his flame, as an archer swiftly looses his arrow towards the target. As a warrior rubs the edge of a weapon made of steel and makes it sharp, so, with the intention of spreading his flame, he makes his radiance sharp.
+
+##### English translation
+He casts (afar his flames) as an archer (his arrows), and sharpens when about to dart his radiance, as (a warrior whets) the edge of his iron
+
+### Printed p. 404
+
+(weapons). he who, variously moving, passes through the night, like the light-falling foot of a bird perched upon a trec.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॑ रे॒भो न प्रति॑ वस्त उ॒स्राः शो॒चिषा॑ रारपीति मि॒त्रम॑हाः ।  
+> नक्तं॒ य ई॑ मरु॒षो यो दिवा॒ नृनम॑र्त्यो अरु॒षो  
+> यो दिवा॒ नृन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईं । रेभः । न । प्रति । वस्ते । उस्राः । शोचिषा । ररपीति । मित्रमहाः ।  
+> नक्तं । यः । ईं । अरुषः । यः । दिवा । न्यान् । अमर्त्यः । अरुषः । यः । दिवा । न्यान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स ईं सोऽयमग्नी रेभो न स्तुत्यः सूर्य इवोस्रा दीप्त ज्वालाः प्रति
+> वस्ते । आच्छादयति । तथा मित्रमहाः सर्वेषामनुकूलप्रकाशः सन् शोचिषा
+> तेजसा रारपीति । भृशं शब्दं करोति । य ईमयमग्निर्नक्तं रात्रावरुष आरोचमानः सन् दिवाहनीव नृन्मनुष्यान् स्वस्वकार्ये प्रेरयति । पुनर्यच्छब्धः पूरकः ।
+> तथामर्त्योऽमरणधर्मारुष आरोचमानो रोषरहितो वा योऽग्निर्दिवा
+> द्योतमानेन तेजसा नृन्नेत्य नात्मीयान्रश्मीन् प्रेरयति । स इति पूर्वत्र संबंधः।
+> यद्वा । नक्तं रात्र्योऽयमग्निररुष आरोचमानो यश्च मरणरहितोर्निर्दिवाह्नि नृन्नेत्यन् देवानविर्भिः संयोजयति। यो दिवा न निति पुनरुक्तिरादरार्था॥
+
+##### Gist of the bhāṣya
+
+That same Agni, like the praiseworthy sun (रेभो न (*rebho na*)), covers himself (प्रति वस्ते (*prati vaste*)) with his shining flames (उस्राः (*usrāḥ*)). Likewise, as one whose light is favourable to all (मित्रमहाः (*mitramahāḥ*)), he makes a loud sound (रारपीति (*rārapīti*)) with his lustre. This Agni, who by night is bright (अरुषः (*aruṣaḥ*), shining), as by day, impels men each to his own work; the second यः (*yaḥ*) is a complement. Likewise, being immortal, of deathless nature, bright or free from anger, the Agni who by day, with shining lustre, sends forth his own rays: this is connected with what precedes. Or else: this Agni is bright by night, and the one who is free from death ... **NOTE**. The repetition in यो दिवा नृन् (*yo divā nṛn*) is for emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स ईं (*sa īṃ*)—that same Agni
+- रेभो न (*rebho na*)—like the praiseworthy sun
+- उस्राः (*usrāḥ*)—his flames
+- प्रति वस्ते (*prati vaste*)—makes his covering
+- मित्रमहाः (*mitramahāḥ*)—having a favourable light
+- शोचिषा (*śociṣā*)—with his radiance
+- रारपीति (*rārapīti*)—makes a loud sound
+
+### Printed p. 405
+
+- यः ईं (*yaḥ īṃ*)—which same Agni
+- नक्तं (*naktaṃ*)—in the night-time
+- अरुषः (*aruṣaḥ*)—being luminous
+- दिवा (*divā*)—in the days
+- नृन् (*nṛn*)—men and others (he impels to their respective works)
+- अमूर्त्यः (*amūrtyaḥ*)—free from the nature of death
+- अरुषः (*aruṣaḥ*)—of attractive brilliance
+- यः (*yaḥ*)—which same Agni
+- दिवा (*divā*)—with shining radiance
+- नृन् (*nṛn*)—spreads his rays
+
+##### भावार्थ (Bhāvārtha)
+
+As the praiseworthy sun makes his own rays his covering, so the Agni of the great qualities described before makes his own flames his covering. Having a favourable light, he makes a loud sound with his radiance. That same Agni, being luminous throughout the night, impels men and others by day to their respective works. That same Agni, free from the nature of death and of attractive brilliance, spreads his rays with his shining radiance.
+
+##### English translation
+Like the adorable sun, he clothes himself with brilliant (rays) : diffusing friendly light, he crackles with (his flame) : (he it is) who is luminous by night, and who lights men (to their work) by day ; who is immortal and radiant ; who lights men by day.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो न यस्य॑ विध॒तो नवी॑नो॒द्वृषा॑ रु॒क्ष ओष॑धीषु नूनोत् ।  
+> घृणा॒ न यो ध्रज॑सा॒ पत्म॑ना॒ यन्ना रोद॑सी॒ वसु॑ना॒ दं  ॒॑
+> सुपत्नि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । न । यस्य । विधतः । नवीनोत् । वृषा । रुक्षः । ओषधीषु । नूनोत् ।  
+> घृणा । न । यः । ध्रजसा । पत्मना । यन् । आ । रोदसी इति । वसुना । दं । सुपत्नि  
+> इति सुपत्नि ॥ ७ ॥
+
+### Printed p. 406
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो न दीप्तस्य सूर्यस्येव विधतो विधातू रश्मीकुर्वतो यस्याग्नेर्नवीनोत् भृशं शब्दोऽभूत् । एतदेव व्याचष्टे । वृषा कामानां वर्षिता रुक्षो
+> दीप्तः सोऽग्निरोषधीषु दह्यमानासु सूनोत् । भृशं शब्दमकरोत् । यश्च
+> घृणा न संचलनशीलेन दीप्तेनेव ध्रजसा गमनशीलेन तेजसा पत्ननेतस्तत
+> उत्पतता यन् गच्छन् वर्तते सोऽग्निर्दं अस्मच्छत्रून् दमयन् सुपत्नि
+> शोभनपतिके रोदसी द्यावापृथिव्यौ वसुना धनेना पूरयति ॥
+
+##### Gist of the bhāṣya
+
+Of whom, like the shining sun (दिवो न (*divo na*)), who makes rays (विधतः (*vidhataḥ*)), a loud sound (नवीनोत् (*navīnot*)) arose, of that Agni. He explains this: the showerer of desires (वृषा (*vṛṣā*)), the shining one (रुक्षः (*rukṣaḥ*)), that Agni made a loud sound among the plants (ओषधीषु (*oṣadhīṣu*)) while they were being burnt. And he who, like a moving, as it were blazing, lustre (घृणा न (*ghṛṇā na*)), with his going radiance (ध्रजसा (*dhrajasā*)), flying (पत्मना (*patmanā*)) hither and thither, goes about, that Agni, subduing our enemies (दं (*daṃ*)), fills heaven and earth (रोदसी (*rodasī*)), who are well provided with husbands or protectors (सुपत्नि (*supatni*)), with wealth (वसुना (*vasunā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवो न (*divo na*)—like the shining sun
+- विधतः (*vidhataḥ*)—who spreads rays
+- यस्य (*yasya*)—of which Agni
+- नवीनोत् (*navīnot*)—a sound arose
+- वृषा (*vṛṣā*)—the showerer of desires
+- रुक्षः (*rukṣaḥ*)—and the shining one, that same Agni
+- ओषधीषु (*oṣadhīṣu*)—among plants and the like that are being burnt
+- नूनोत् (*nūnot*)—made a very loud sound
+- यः (*yaḥ*)—which same Agni
+- फृणा न (*phṛṇā na*)—like a lustre of movement
+- ध्रजसा (*dhrajasā*)—and like a lustre of going
+- पत्नना (*patnanā*)—in the manner of moving from one place to another
+- यन् (*yan*)—wandering about
+- दम् (*dam*)—destroying our enemies
+- सुपत्नि (*supatni*)—excellent protectors
+- रोदसी (*rodasī*)—heaven and earth
+- वसुना (*vasunā*)—with wealth in the form of radiance
+- आ (*ā*) (fills)—he fills
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who spreads his rays like the shining sun, and of whom a sound arose, the showerer of desires, the shining one, that same Agni made a loud sound among plants and the like that were being burnt. The Agni who, like a lustre of movement, moves from one place to another, destroys our enemies, and fills heaven and earth, the excellent protectors, with wealth in the form of radiance.
+
+##### English translation
+Of whom a sound is heard when scattering his rays like (that of) the sun : the brilliant showerer (of benefits) clamours among the (burning) plants; he who, moving not with a shifting variable motion, but humbling (our foes), fills the well-wedded earth and heaven with wealth.
+
 ---
 
-**Progress note:** Done through printed p. 400. Vol 20 pp. 395-400: Sūkta 2 Ṛk 10 end, Ṛk 11; Sūkta 3 Ṛk 1-3 (partial)
+**Progress note:** Done through printed p. 406. Mandala 6 sukta 3 rks 4-7 (Agni), pp. 401-406
