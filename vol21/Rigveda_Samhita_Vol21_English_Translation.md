@@ -8526,6 +8526,260 @@ Still others hold that the gods have no form, shape, actions and the like as men
 
 अपि वा पुरुषविधानामेव सतां कर्मात्मन एते स्युर्यथा यज्ञो यजमानस्य । एष चाख्यानसमयः ॥ (*api vā puruṣavidhānāmeva satāṃ karmātmana ete syuryathā yajño yajamānasya | eṣa cākhyānasamayaḥ ‖*) (Ni. 7-7) **GLOSS**
 
+### Printed p. 195
+
+Therefore there is room for both kinds of views. Although the earth and the other such things are without consciousness, they act as though they were endowed with consciousness; so, although there is a difference of opinion in regarding them as conscious or as unconscious, both ways may be accepted as right. In the sentence यज्ञो यज्ञमानस्य (*yajño yajñamānasya*) the sacrificer is endowed with consciousness, while the sacrifice is without consciousness. Yet when the sacrifice is spoken of, in sentences such as "the sacrifice provides the sacrificer with heaven, the best of places", the sacrifice is treated just as if it were endowed with consciousness. Therefore there is no fault in describing unconscious things as if they were endowed with consciousness. To give an example: पृथिवी स्त्रीरूपेण भारावतरणाय ब्रह्माणं ययाचे । अग्निश्च ब्राह्मणरूपेण वासुदेवार्जुनावुभौ खांडवं ययाचे । पुरुषरूपेणाग्निरूपेण च खांडवं ददाह । (*pṛthivī strīrūpeṇa bhārāvataraṇāya brahmāṇaṃ yayāce | agniśca brāhmaṇarūpeṇa vāsudevārjunāvubhau khāṃḍavaṃ yayāce | puruṣarūpeṇāgnirūpeṇa ca khāṃḍavaṃ dadāha |*) — the earth, taking the form of a woman, prayed to Brahmā that her burden be lifted; Agni, in the form of a brāhmaṇa, approached Kṛṣṇa and Arjuna and begged of them Indra's Khāṇḍava forest; Agni, in the form of a man and of fire, burnt the Khāṇḍava forest. In such sentences, and in the Purāṇas and other works, there are many descriptions saying that lifeless things such as Agni and the earth, or their presiding deities, took the form of persons and performed various acts. Therefore the main purport of the Nirukta is that the conclusion is that it is right to regard these as both conscious and unconscious, in two ways.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वरि॑ष्ठे न इंद्र वं॒धुरे॑ धा॒ वहि॑ष्टयोः शताव॒न्नश्व॑यो॒रा ।  
+> इष॒मा व॑क्षी॒षां वर्षि॑ष्ठां॒ मा न॑स्तारीन्मघव॒न्रायो॑ अ॒र्यः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरिष्टे । नः । इंद्र । वंधुरे । धाः । वहिष्टयोः । शतवन् । अश्वयोः । आ ।  
+> इषं । आ । वक्षि । इषां । वर्षिष्ठां । मा । नः । तारीत् । मघवन् । रायः । अर्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वरिष्ठ उरुतमे विस्तीर्णतमे वंधुर आत्मीये रथे नोऽस्मान्
+> धाः । धेहि ! धारय । अपि च हे शतावन् शतसंख्यधनेंद्र वहिष्ठयोर्वोढृतमयोः । आकारः समुच्चये । अश्वयोरा त्वदीययोरश्वयोश्चास्मान् धारय ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the verse thus. O Indra, in your own chariot, which is the most spacious (वरिष्ठे (*variṣṭhe*) means the most extensive), place us, hold us. And, O Śatāvan, Indra of a hundredfold wealth, place us also upon your two horses, the best at bearing; the particle आ (*ā*) has the sense of "and", so that he asks to be set upon the chariot and upon his horses as well.
+
+### Printed p. 196
+
+> तथेषामन्नानां मध्ये वर्षिष्टां वृद्धतमामिषमन्नमा वक्षि । अस्मदर्थमावह ।
+> आनय । हे मघवन् धनवन्निंद्र अर्यो धनस्य स्वाम्यन्यः कश्चिन्नोस्माकं रायो
+> धनानि मा तारीत् । मा हिंसीत् ॥
+
+##### Gist of the bhāṣya
+
+Likewise, from among these foods, bring the most abundant food, इषं (*iṣaṃ*), for us: carry it here, fetch it. O Maghavan, wealthy Indra, let no other, any master of wealth (अर्यः (*aryaḥ*)), harm our riches (रायः (*rāyaḥ*), "wealth"): the verb मा तारीत् (*mā tārīt*) is explained as "may he not injure".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वरिष्ठे (*variṣṭhe*)—in the most extensive
+- वंधुरे (*vaṃdhure*)—in your chariot
+- नः (*naḥ*)—us
+- धाः (*dhāḥ*)—seat
+- शतावन् (*śatāvan*)—O Indra, possessor of wealth reckoned in hundreds
+- वहिष्ठयोः (*vahiṣṭhayoḥ*)—fit to bear your chariot
+- अश्वयोः (*aśvayoḥ*)—behind the horses
+- आ (*ā*)—(place) us
+- इषं (*iṣaṃ*)—from among food of all kinds
+- वर्षिष्टां (*varṣiṣṭāṃ*)—the most excellent
+- इषं (*iṣaṃ*)—food
+- आ वक्षि (*ā vakṣi*)—provide to us
+- मघवन् (*maghavan*)—O Indra, possessed of wealth
+- अर्यः (*aryaḥ*)—no other who is lord of wealth
+- नः (*naḥ*)—our
+- रायः (*rāyaḥ*)—wealth
+- मा तारीत् (*mā tārīt*)—let him not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of wealth reckoned in hundreds, seat us in your most spacious chariot, behind the horses fit to bear your chariot. From among food of all kinds, provide us with the most excellent food. O wealthy Indra, let no other who is lord of wealth harm (carry off) our wealth.
+
+##### English translation
+Place us, possessor of riches, in your ample chariot, (behind) your powerful horses ; bring to us from among all viands the most excellent food : let not, Maghavan, any opulent man surpass us in wealth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ मृ॒ळ मह्यं॑ जी॒वातु॑मिच्छ चो॒दय॒ धिय॒मय॑सो॒  ॑
+> न धारां ।  
+> यत्किं चा॒हं त्वा॒युरि॒दं वदा॑मि॒ तज्जु॑षस्व कृ॒धि मा॑ दे॒ववं॑तं ॥ १० ॥
+
+### Printed p. 197
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । मृळ । मह्यं । जीवातुं । इच्छ । चोदय । धियं । आयसः । न । धारां ।  
+> यत् । किं । च । अहं । त्वायुः । इदं । वदामि । तत् । जुषस्व । कृधि । मा ।  
+> देववंतं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मृळ । मृळय । अस्मान् सुखय । जीवातुं जीवनौषधं च मह्यं
+> दातुमिच्छ । तथा धियं बुद्धिं चोदय । स्तुतिविषयां कर्मविषयां वा प्रेरय ।
+> तीक्ष्मीकुरु । आयसो न धारामयोमयस्य खड्गादेर्धारामिव । सा यथा सूक्ष्मा
+> तद्वत्सूक्ष्मविषयां धियं चोदयेत्यर्थः । किं च त्वायुस्मामात्मन इच्छन्
+> इदमिदानीं यत्किंचनाहं वदामि समीचीनमसमीचीनं वा तज्जुषस्व । मा मां
+> च देववंतं रक्षकैर्देवैरुपेतं कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, make us happy, gladden us. Wish to give me also जीवातुं (*jīvātuṃ*), the medicine of life. Likewise urge on my mind (धियं (*dhiyaṃ*)), whether it is directed to praise or to ritual action: sharpen it. आयसो (*āyaso*) न (*na*) धारामयोमयस्य (*dhārāmayomayasya*) means like the edge of a sword and the like made of iron; as that edge is fine, so urge a mind directed to fine matters. Further, desiring you for myself (त्वायुः (*tvāyuḥ*)), whatever I now say, whether fitting or unfitting, take pleasure in it. And make me one who has the gods, the protectors, with him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मृळ (*mṛḷa*)—make me happy
+- मह्यं (*mahyaṃ*)—to me
+- जीवातुं (*jīvātuṃ*)—long life
+- इच्छॆ (*icchè*)—desire
+- अयसः (*ayasaḥ*)—of the sword made of iron
+- धारां (*dhārāṃ*)—as the edge is made sharp
+- धियं (*dhiyaṃ*)—my mind, directed to ritual action, make sharp
+- त्वायुः (*tvāyuḥ*)—desiring your help
+- अहं (*ahaṃ*)—I
+- यत् किं च (*yat kiṃ ca*)—whatever, fitting or unfitting
+- इदं वदामि (*idaṃ vadāmi*)—whatever praise of you I recite
+- तत् (*tat*)—that
+- जुषस्व (*juṣasva*)—enjoy
+- मा (*mā*)—me
+- देववंतं (*devavaṃtaṃ*)—as one joined with the protections of the gods
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make me happy. Desire long life for me. As the edge of a sword made of iron is made sharp, make my mind, directed to ritual action, sharp. Desiring your help, whatever praise I offer, whether it be good or not good, enjoy it. Make me one joined with the protections of the gods.
+
+##### English translation
+Make me happy, Indra ; be pleased to prolong my life : sharpen my intellect like the edge of an iron sword : whatever, desirous (propitiating) you, I may utter, be pleased by it : render me the object of divine protection.
+
+### Printed p. 198
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रा॒तार॒मिंद्र॑मवि॒तार॒मिंद्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिंद्रं॑।  
+> ह्वया॑मि श॒क्रं पु॑रुहू॒तमिंद्रं॑ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विंद्रः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रातारं । इद्रं । अवितारं । इंद्रं । हवेऽहवे । सुहवं । शूरं । इंद्रं ।  
+> ह्वयामि । शक्रं । पुरुहूतं । इंद्रं । स्वस्ति । नः । मघवा । धातु । इंद्रः ॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयुष्कामेष्ट्यमिंद्रस्य त्रातुस्त्रातारमित्यनुवाक्या । सूत्रितं च । प्रातारमिंद्रमवितारमिंद्रं मा ते अस्यां सहसावन्परिष्टौ । आ. २-१० । इति ॥
+> त्रातारं शत्रुभ्यः पालयितारमिंद्रमाह्वयामि । तथावितारं कामैस्तर्पयितारमिंद्रमाह्वयामि हवे हवे सर्वेष्वाहवनेषु सुहवं सुखेनाह्वातुं शक्यं
+> शूरं शौर्यवंतं शक्रं सर्वकार्येषु शक्तं पुरुहूतं पुरुभिर्बहुभिः पालनार्थमाहूतमेवंविधमिंद्रं हृयामि । आह्वयामि । एवमाहूतो मघवा धनवान् स
+> इंद्रः स्वस्त्यविनाशं नोऽस्मभ्यं धातु । ददातु । यद्वा । अस्माकं विदधातु ॥
+
+##### Gist of the bhāṣya
+
+In the Āyuṣkāmeṣṭi, the ritual for one who desires long life, the verse त्रातारं (*trātāraṃ*), addressed to Indra the protector, is the anuvākyā. It is also laid down in the sūtra: प्रातारमिंद्रमवितारमिंद्रं मा ते अस्यां सहसावन्परिष्टौ । (*prātāramiṃdramavitāramiṃdraṃ mā te asyāṃ sahasāvanpariṣṭau |*) (Ā. 2-10). **NOTE**. I call Indra, the protector who guards from enemies; likewise Indra, the satisfier who gratifies with desired things. At every invocation, at all calls, he is सुहवं (*suhavaṃ*), easily called; शूरं (*śūraṃ*), heroic; शक्रं (*śakraṃ*), able in all undertakings; पुरुहूतं (*puruhūtaṃ*), called by many for protection. Such an Indra I call. Thus invoked, may Indra, the wealthy मघवा (*maghavā*), grant us स्वस्ति (*svasti*), freedom from destruction; or else, may he arrange it for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रातारं (*trātāraṃ*)—the protector
+- इंद्रं (*iṃdraṃ*)—Indra
+- ह्ययामि (*hyayāmi*)—I call with praise
+- अवितारं (*avitāraṃ*)—who gives desired things and satisfies
+- इंद्रं (*iṃdraṃ*)—Indra (I call)
+- हवेहवे (*havehave*)—at every time of invocation
+- सुहवं (*suhavaṃ*)—who readily grants our prayer
+- शूरं (*śūraṃ*)—the valiant
+- इंद्रं (*iṃdraṃ*)—the Lord of all
+- शक्रं (*śakraṃ*)—capable in all acts
+- पुरुहूतं (*puruhūtaṃ*)—called by many
+- इंद्रं (*iṃdraṃ*)—Indra (I call with praise)
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—to us
+- स्वस्ति (*svasti*)—welfare
+- धातु (*dhātu*)—let him bring about
+
+##### भावार्थ (Bhāvārtha)
+
+In this sacrifice I call with praise Indra the protector. I call Indra who gives desired things and satisfies. At every time of invocation, who readily grants our prayer,
+
+### Printed p. 199
+
+who is valiant, the Lord of all, capable in all acts, called by many, Indra, I call with praise. May the wealthy Indra bring about welfare for us.
+
+##### English translation
+I invoke, at repeated sacrifices, Indra, the preserver. the protector, the hero, who is easily propitiated, Indra the powerful, the invoked of many : may Indra, the lord of affluence, bestow upon us prosperity.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sacrificer is to recite this verse beginning त्रातारं (*trātāraṃ*) as the anuvākyā mantra in the Āyuṣkāmeṣṭi; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra त्रातारमिंद्रमवितारमिंद्रं मा ते आस्त्यां सहसावन्परिष्टौ (*trātāramiṃdramavitāramiṃdraṃ mā te āstyāṃ sahasāvanpariṣṭau*) (Ā. 2-10).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॑ सु॒त्रामा॒ स्ववा॒ अवो॑भिः सुमृळी॒को भ॑वतु वि॒श्ववे॑दाः।  
+> बाध॑तां॒ द्वेषो॒ अभ॑यं कृणोतु सु॒वीर्य॑स्य॒ पत॑यः  
+> स्याम ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सुत्रामा । स्ववान् । अवभिः । सुवृळीकः । भवतु । विश्ववेदाः ।  
+> बाधतां । द्वेषः । अभयं । कृणोतु । सुवीर्यस्य । पतयः । स्याम ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुत्रामा सुष्टु त्राता स्ववान्थनवान् स इंद्रोऽवोभी रक्षणैः सुमृळीकः
+> सुष्टु सुखयिता भवतु । तथा च विश्ववेदाः सर्वधनः सर्वविद्वान्वा स इंद्रो
+> द्वेषो द्वेष्टन् शत्र्यान् बाधतां । हिनस्तु । अभयं भयरहितं चास्माकं
+> कृणोतु । करोतु । वयं च तत्पसादात्सुवीर्यस्य शोभनवीर्यस्य पतयः
+> स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+सुत्रामा (*sutrāmā*) is the good protector, स्ववान् (*svavān*) the wealthy one. May that Indra, with his protections (अवोभिः (*avobhiḥ*)), be a good giver of happiness (सुमृळीकः (*sumṛḷīkaḥ*)). And likewise may Indra, विश्ववेदाः (*viśvavedāḥ*), he who has all wealth or who knows everything, oppress those who hate us, our enemies (द्वेषः (*dveṣaḥ*)). May he make us free from fear (अभयं (*abhayaṃ*)). And by his grace may we become lords (पतयः (*patayaḥ*)) of सुवीर्यस्य (*suvīryasya*), good heroism.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुत्रामा (*sutrāmā*)—who protects exceedingly
+- स्ववान् (*svavān*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- अवोभिः (*avobhiḥ*)—with his protections
+- सुमृळीकः (*sumṛḷīkaḥ*)—as one who brings excellent happiness
+
+### Printed p. 200
+
+- भवतु (*bhavatu*)—let him be
+- विश्ववेदाः (*viśvavedāḥ*)—Indra who knows everything
+- द्वेषः (*dveṣaḥ*)—the enemies who hate us
+- बाधतां (*bādhatāṃ*)—let him harm
+- आभयं (*ābhayaṃ*)—freedom from fear for us
+- कृणोतु (*kṛṇotu*)—let him bring about
+- सुवीरस्य (*suvīrasya*)—of all the wealth that is excellent and strong
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may he favour us that we become
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who protects exceedingly and is wealthy, be, with his protections, one who brings excellent happiness. May Indra, who knows everything, harm the enemies who hate us. May he bring about freedom from fear for us. May we become lords of all the wealth that is excellent and strong.
+
+##### English translation
+May the protecting, opulent Indra be the bestower of feiicity by his protections : may he, who is all-knowing, foil our adversaries : may he keep us out of danger, and may we be the possessors of excellent posterity. **NOTE**
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्य॑ व॒यं सु॑म॒तौ य॒ज्जिय॒स्यापि॑ भ॒द्रॆ सौ॑मन॒से स्या॑म ।  
+> स सु॒त्रामा॒ स्ववा॒ इंद्रो॑ अ॒स्मे आ॒राचि॒द्द्वेषः॑ सनु॒तर्यु॑योतु ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्य । वयं । सुमतौ । यज्जियस्य । अपि । भद्रॆ । सौमनसे । स्याम ।  
+> स । सुत्रामा । स्ववान् । इंद्रः । अस्मे इति । आरात् । चित् । द्वेषः सनुतः ।  
+> युयोतु ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियस्य यज्ञार्हस्य सुमतौ शोभनायामनुग्रहात्मिकायां बुद्धौ
+> वयं स्याम । तद्विषयभूता भवेम । तथा भद्रे कल्याणे सौमनसे सुमनसो
+> भावेऽपि तदीये स्याम । भवेम । स इंद्रोऽस्मास्वनुग्रहात्मिकां बुद्धिं सौमनस्यं
+
+##### Gist of the bhāṣya
+
+Of the one worthy of sacrifice (यज्ञियस्य (*yajñiyasya*)), that is, deserving the sacrifice, may we be in his good (सुमतौ (*sumatau*)), gracious thought, a mind of favour; may we become the objects of it. Likewise may we be in his auspicious good-mindedness (सौमनसे (*saumanase*)), that is, in the state of a good mind, belonging to him. That Indra, towards us, a mind of favour, good-mindedness.
+
 ---
 
-**Progress note:** Done through printed p. 194. Sukta 47 Rik 6-8, special topics on divine forms (Nirukta 7-6, 7-7) to p. 194
+**Progress note:** Done through printed p. 200. Ṛk 9-13 of sūkta 47 (pp. 195-200)
