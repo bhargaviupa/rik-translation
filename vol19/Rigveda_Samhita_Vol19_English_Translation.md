@@ -24574,6 +24574,132 @@ O Maruts, goers, you set in motion that well-known नाकं (*nākaṃ*), th
 - घोषं (*ghoṣaṃ*)—the sound
 - स्वरंति (*svaraṃti*)—you make
 
+### Printed p. 674
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who move about, set in motion the well-known atmosphere and the water, whose lustre is not carried off by enemies and which is bright and shining. You who wish to pour down water in the form of rain, when you gather your powers together, then, shining exceedingly, you make a far-spread sound.
+
+##### English translation
+Maruts, when moving, you agitate the heaven of unchecked radiancc, and (stir) the bright water : when you combine your energies and are shining brilliantly, and when purposing to send down rain, you utter a loud shout. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+The Nirukta-writers include the word नाक (*nāka*) among six common names and explain their meaning as common: साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca*), that is, they declare them to be synonyms common to the heavenly world and to the sun (Ni. 2-13). Afterwards, showing the explanation of this word: नाक आदित्यो भवति—नेता रसानां। नेता भासां ज्योतिषां प्रणयः । (*nāka ādityo bhavati—netā rasānāṃ| netā bhāsāṃ jyotiṣāṃ praṇayaḥ |*) (Ni. 2-14): having shown that the name नाक (*nāka*) belongs to the sun, who is the carrier of the sap and the carrier of splendour, as a synonym of the sun, they go on: अथ द्यौः। कमिति सुखनाम तत्पतिषिद्धं प्रतिषिध्येत । (*atha dyauḥ| kamiti sukhanāma tatpatiṣiddhaṃ pratiṣidhyeta |*). The word कं (*kaṃ*) is a synonym for happiness; the absence of happiness is अकं (*akaṃ*), and the absence of that, that is, the absence of the lack of happiness, means that which is free from sorrow. Explaining thus, they cite the sentence न ना अमुं लोकं जग्मु षे किं च नाकं (*na nā amuṃ lokaṃ jagmu ṣe kiṃ ca nākaṃ*) (Kāraka. Saṃ. 21.-2) **NOTE** and then न ना अमुं लोकं गतवते किंच नासुखं ; पुण्यकृतो ह्येव तत्र गच्छंति । (*na nā amuṃ lokaṃ gatavate kiṃca nāsukhaṃ ; puṇyakṛto hyeva tatra gacchaṃti |*). Those who have gone to this world (heaven) have no sorrow at all; only the virtuous have entry into this world: thus they have given the meaning of the word नाक (*nāka*). In the Ṛgveda-saṃhitā this word is used in some places as a synonym of the sun and in some places as a synonym of heaven.
+त्रिरश्विना सिंधुभिः सप्तमातृभिस्त्रिय आहानास्त्रेधा हविष्कृतं । तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितं ॥ (*triraśvinā siṃdhubhiḥ saptamātṛbhistriya āhānāstredhā haviṣkṛtaṃ | tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitaṃ ‖*) (Ṛ. Saṃ. 1-34-8)
+### Printed p. 675
+ये नाकस्याधि रोचने दिवि देवास आसते । मरुद्भिरग्न आ गहि ॥ (*ye nākasyādhi rocane divi devāsa āsate | marudbhiragna ā gahi ‖*) (Ṛ. Saṃ. 1-19-6)
+In these and other Ṛks the word is a synonym of the sun; and in
+तेवर्धंत स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः । विष्णुरद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥ ( (*tevardhaṃta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ | viṣṇuraddhāvadvṛṣaṇaṃ madacyutaṃ vayo na sīdannadhi barhiṣi priye ‖ (*) (Ṛ. Saṃ. 1.85.7)
+यज्ञेन यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमानः सचंत यत्र पूर्वे साध्याः संति देवाः ॥ (*yajñena yajñamayajaṃta devāstāni dharmāṇi prathamānyāsan | te ha nākaṃ mahimānaḥ sacaṃta yatra pūrve sādhyāḥ saṃti devāḥ ‖*) (Ṛ. Saṃ. 1-164-50)
+and other Ṛks it is also a synonym of heaven.
+व्यस्यॆव कपिलो भूत्वा यन्नाकमधिरोहति (*vyasyèva kapilo bhūtvā yannākamadhirohati*) (Bṛ. De. 2-66)
+In this sentence of the Bṛhaddevatā it is clear that the atmosphere is meant.
+इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकं (*ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokaṃ*)
+इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकं (*ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokaṃ*) (Chā. U. 2-10-5)
+In this sentence of the Chāndogya Upaniṣad it is said that the sorrowless heavenly world is better than the world of the sun.
+[In the Śatapatha Brāhmaṇa and in the Taittirīya Upaniṣad the name नाक (*nāka*) is well known for the son of Mudgala, who knew Brahman; there it means one free from sorrow.]
+In the present Ṛk, न विद्यते अकं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । (*na vidyate akaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ |*): the commentator has explained it as the atmosphere, in which there is neither sorrow nor the sin that is its cause.
+अच्यंत (*acyaṃta*), अतित्विषंत (*atitviṣaṃta*)—in these two verbs there is a change of person; that is, instead of the plural of the middle person, the plural of the first person is used.
+यत् वृजना समच्यंत अतित्विषंत—यदा अस्मद्दत्तैर्हनिर्भिः बलिनो भवथ तदा दीप्ता भवथ । (*yat vṛjanā samacyaṃta atitviṣaṃta—yadā asmaddattairhanirbhiḥ balino bhavatha tadā dīptā bhavatha |*). O Marut deities, when you accept (eat) the oblations and the like that we offer, then, grown strong by accepting the oblations, that is, by their power, shine well: this is one kind of meaning that the commentator has stated, and he has shown that another kind of meaning is possible. यदासुरा वृजना अतित्विषंत तदा घोषं विततु स्वरंति (*yadāsurā vṛjanā atitviṣaṃta tadā ghoṣaṃ vitatu svaraṃti*): when the Asuras, grown strong with the pride of their strength, swagger about, then you (the Marut deities), to subdue them, make a terrible sound: this is another kind of meaning.
+### Printed p. 676
+Or else, for the second half of this Ṛk, besides these two meanings, another meaning with reference to the priests and sacrificers is possible, and he has explained it also: यत् ऋतायवः समच्यंत वृजन अति त्वषंत च स्वरंति घोषं पिप्पलं विधूनुथ (*yat ṛtāyavaḥ samacyaṃta vṛjana ati tvaṣaṃta ca svaraṃti ghoṣaṃ pippalaṃ vidhūnutha*) and यदा यज्ञकामा यजमानादयो संगताः बलान्यतित्वषंत स्तोत्रं विततं स्वरंति च तदानीं पिप्पलं विधूनुथ । (*yadā yajñakāmā yajamānādayo saṃgatāḥ balānyatitvaṣaṃta stotraṃ vitataṃ svaraṃti ca tadānīṃ pippalaṃ vidhūnutha |*). When people such as the priests and sacrificers, with the wish to perform a sacrifice addressed to you, all assemble together in one place and, reciting stotras and mantras in a loud voice, extend, that is, carry forward, the sacrificial rite, then you, Marut deities, make the excellent water pour down for the satisfaction of the sacrificers: this is the chief intention.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ ३  ॑
+> वय॑स्वतः ।  
+> न यो युच्छ॑ति ति॒ष्यो॒३॒॑ ३ यथा॑ दि॒वो॒३॒॑३ स्मे रा॑रंत मरुतः  ॒॑
+> सहस्रिणं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्मादत्तस्य । मरुतः । विचेतसः । रायः । स्याम । रथ्यः । वयस्वतः ।  
+> न । यः । युच्छति । तिष्यः । यथा । दिवः । अस्मे इति । ररंत । मरुतः । सहस्रिणं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचेतसो विविधप्रज्ञा हे मरुतो युष्मादत्तस्य युष्माभिर्दत्तस्य
+> वयस्वतोऽन्नवतो रायो धनस्य स्याम। भवेम स्वामिनः के! रथ्यो रथस्वामिनो
+> वयं । यो युष्माभिर्दत्तो रा न युच्छति न च्यवते । यथा दिवः सकाशात्तिष्य
+> आदित्यो न युच्छति । तथास्मे अस्मासु सहस्रिणमपरिमितं रारुत । रमयत हे
+> मरुतः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts of manifold wisdom, may we become lords of the wealth given by you, wealth that gives food, we who are owners of chariots. **NOTE** The wealth given by you does not fail, does not decay: as the sun, Tiṣya, does not fail from the sky, so grant us among us this wealth, a thousandfold, without measure. Make us delight, O Maruts.
+### Printed p. 677
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचेतसः (*vicetasaḥ*)—possessing manifold wisdom
+- मरुतः (*marutaḥ*)—O Maruts
+- रथ्यः (*rathyaḥ*)—we who possess chariots
+- युष्मादत्तस्य (*yuṣmādattasya*)—given by you
+- वयस्वतः (*vayasvataḥ*)—and endowed with food
+- रायः (*rāyaḥ*)—to the wealth
+- स्याम (*syāma*)—may we become lords
+- यथा (*yathā*)—in the same way as
+- दिवः (*divaḥ*)—belonging to the atmosphere
+- तिष्यः (*tiṣyaḥ*)—the sun is imperishable, in the same way
+- यः (*yaḥ*)—that wealth given by you
+- न युच्छति (*na yucchati*)—does not perish
+- मरुतः (*marutaḥ*)—O Maruts
+- अस्मे (*asme*)—to us
+- सहस्रिणं (*sahasriṇaṃ*)—having provided immeasurable wealth
+- रारंत (*rāraṃta*)—make us rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts of manifold wisdom, may we, who are lords of chariots, become lords of the wealth given by you and endowed with food. As the sun in the atmosphere is imperishable, in the same way that wealth given by you does not perish. O Maruts, give us immeasurable wealth and make us rejoice.
+
+##### English translation
+May we, who are possessed of chariots, intelligent Maruts, become (proprietors) of wealth, comprising food bestowed by you : of wealth that vanishes not, as Tishya (declines not) from the sky: therefore, Maruts, gratify us with infinite (riches).
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्मे (*asme*)—The Nirukta-writers explain that the word अस्मे (*asme*), although it has one and the same form in all the case-endings, conveys the sense of each case-ending according to the context, and show the difference in the respective examples:
+(1) अस्मे ते बंधुः । वयमित्यर्थः (*asme te baṃdhuḥ | vayamityarthaḥ*)
+अस्मे इत्येतत्पदं सर्वविभक्त्यंतं । तस्मादनेकार्थं । एकमेव ह्येतच्छब्दरूपं सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिवशात् तस्य नियमो भवति । (*asme ityetatpadaṃ sarvavibhaktyaṃtaṃ | tasmādanekārthaṃ | ekameva hyetacchabdarūpaṃ saptasvapi vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati |*). Thus, for the first case-ending: अस्मे ते बंधुः । वयमित्यर्थः (*asme te baṃdhuḥ | vayamityarthaḥ*). That is, the word अस्मे (*asme*) is used in the sense of all seven case-endings according to the context; that is, according to the context, this word can be said to have the meaning of any one of the seven case-endings. Thus, in the sentence अस्मे ते बंधुः (*asme te baṃdhuḥ*) the word अस्मे (*asme*) has the meaning वयं (*vayaṃ*), "we". This is an example of the sense of the first case-ending.
+### Printed p. 678
+(2) अस्मे यातं नासत्या सजोषाः । अस्मानित्यर्थः (*asme yātaṃ nāsatyā sajoṣāḥ | asmānityarthaḥ*)
+Thus, for the second case-ending: the word अस्मे (*asme*) has the meaning of the second case-ending, अस्मान् (*asmān*), "us". As an example of this meaning they have given the Ṛk
+आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या शजोषाः । हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥ (*ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā śajoṣāḥ | have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*) (Ṛ. Saṃ. 1-118-11) **NOTE**
+In this Ṛk the word अस्मे (*asme*) means अस्मान् (*asmān*), "us".
+(3) अस्मे समानेभिर्वृषभ पौंस्येभिः । अस्माभिरित्यर्थः (*asme samānebhirvṛṣabha pauṃsyebhiḥ | asmābhirityarthaḥ*)
+Thus, for the third case-ending: here अस्मे (*asme*) means अस्माभिः (*asmābhiḥ*), "by us", the sense of the third case-ending. On this point
+भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः । भूरीणि हि कृणवामा शविष्ठेंद्र क्रत्वा मरुतो यद्वशाम ॥ (*bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ | bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kratvā maruto yadvaśāma ‖*) (Ṛ. Saṃ. 1-165-7)
+this Ṛk has been given as the example. Here अस्मे (*asme*) means अस्माभिः (*asmābhiḥ*), "by us".
+(4) अस्मे प्रयंधि मघवन्नृजीषिन् । अस्मभ्यमित्यर्थः (*asme prayaṃdhi maghavannṛjīṣin | asmabhyamityarthaḥ*)
+Thus, for the fourth case-ending: here अस्मे (*asme*) means अस्मभ्यं (*asmabhyaṃ*), "for us", the sense of the fourth case-ending, is the example.
+अस्मे प्र यंधि मघवन्नृजीषिन्निंद्र रायो विश्ववारस्य भूरेः । अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्श्वत इंद्र शिप्रिन् ॥ (*asme pra yaṃdhi maghavannṛjīṣinniṃdra rāyo viśvavārasya bhūreḥ | asme śataṃ śarado jīvase dhā asme vīrāñśvata iṃdra śiprin ‖*) (Ṛ. Saṃ. 3-36-10)
+In the words अस्मे (*asme*) of this Ṛk the sense is अस्मभ्यं (*asmabhyaṃ*), "for us", the fourth case-ending.
+(5) अस्मे आराच्चिद्देषः सनुतर्युयोतु । अस्मदित्यर्थः (*asme ārācciddeṣaḥ sanutaryuyotu | asmadityarthaḥ*)
+Thus, for the fifth case-ending: here अस्मे (*asme*) means अस्मत् (*asmat*), "from our side". The example:
+### Printed p. 679
+तस्य वयं सुमता यज्ञियस्यापि भद्रे सौमनसे स्याम । स सुत्रामा स्वना इंद्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥ (*tasya vayaṃ sumatā yajñiyasyāpi bhadre saumanase syāma | sa sutrāmā svanā iṃdro asme ārācciddveṣaḥ sanutaryuyotu ‖*) (Ṛ. Saṃ. 6-47-13)
+In this Ṛk the word अस्मे (*asme*) has the sense of the fifth case-ending, अस्मत् (*asmat*), "from our side".
+(6) ऊर्व इव पप्रथे कामो अस्मे ! अस्माकमित्यर्थः (*ūrva iva paprathe kāmo asme ! asmākamityarthaḥ*)
+Thus, for the sixth case-ending: here अस्मे (*asme*) means अस्माकं (*asmākaṃ*), "to us". To explain this meaning:
+आ नो भर भगमिंद्र द्युमंतं नि ते देष्णस्य धीमहि प्ररेके । ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनां ॥ (*ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṇasya dhīmahi prareke | ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖*) (Ṛ. Saṃ. 3 31--19) **NOTE**
+In this Ṛk the word अस्मे (*asme*) has the sense of the sixth case-ending, अस्माकं (*asmākaṃ*), "our, to us".
+(7) अस्मे धत्त वसवो वसूनि । अस्मास्वित्यर्थः (*asme dhatta vasavo vasūni | asmāsvityarthaḥ*)
+Thus, for the seventh case-ending: here अस्मे (*asme*) means "in us". The example:
+अग्ने वाजस्य गोमत ईशानः सहसो यहो ! अस्मे धेहि जातवेदो महि श्रवः ॥ (*agne vājasya gomata īśānaḥ sahaso yaho ! asme dhehi jātavedo mahi śravaḥ ‖*) (Ṛ. Saṃ. 1-69-4) (Ṛ. Saṃ. 1-79-4)
+In this Ṛk the word अस्मे (*asme*) has the sense of the seventh case-ending, अस्मासु (*asmāsu*), "in us".
+
+#### Ṛk 84
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं र॒यिं म॑रुतः स्पा॒र्हवी॑रं यू॒यमृषि॑ मवथ॒  ॑
+> सामविप्रं ।  
+> यू॒यमर्वं॑तं भर॒ताय॒ वाजं॑ यू॒यं ध॑त्त॒ राजा॑नं  
+> श्रुष्टि॒मंतं॑ ॥ ८४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 673. Mandala 5 sukta 54 Rks 8 (special topics)-12 (Maruts)
+**Progress note:** Done through printed p. 679. Mandala 5 sukta 54 Rk 12 (end), Rk 13, special topics on asme, Rk 14 (Samhita)
