@@ -15550,7 +15550,7 @@ By the radiance of Vaiśvānara, that is, of Agni, who is beneficial to all men,
 - तस्येदु (*tasyedu*)—of that same Vaiśvānara Agni
 - मूर्धनि (*mūrdhani*)—in the upper part, in the smoke that has turned into cloud
 - विश्वा भुवना (*viśvā bhuvanā*)—all waters
-- अधि (*adhi*)—dwell (the word "dwell" supplied)
+- अधि (*adhi*)—dwell
 - सप्त विस्सुहः (*sapta vissuhaḥ*)—the seven rivers in the form of streams also
 - वया इव (*vayā iva*)—like branches
 - रुरुहुः (*ruruhuḥ*)—come forth from this Vaiśvānara alone
@@ -16082,7 +16082,7 @@ Maṇḍala 6. Anuvāka 1. Sūkta 9. Aṣṭaka 4. Adhyāya 5. Varga 11. Number 
 - अहः (*ahaḥ*)—the day-time
 - रजसी (*rajasī*)—lighting up the world
 - वेद्याभिः (*vedyābhiḥ*)—by their revolutions, which are visible to all
-- वि वर्तेते (*vi vartete*)—move in turns (these are under the command of Vaiśvānara)
+- वि वर्तेते (*vi vartete*)—move in turns
 - वैश्वानरः (*vaiśvānaraḥ*)—who is of the form of Vaiśvānara
 - अग्निः (*agniḥ*)—Agni
 - जायमानः (*jāyamānaḥ*)—as soon as he is born
