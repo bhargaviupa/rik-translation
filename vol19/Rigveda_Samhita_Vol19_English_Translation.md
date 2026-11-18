@@ -19977,6 +19977,257 @@ This is addressed to Uṣas. Those Uṣases spread out. What? Knowledge. Of what
 
 The Uṣases spread knowledge that is to be borne by wise priests and the like. With a radiance that is of one form and pervading, it covers the whole world. The man who longs for the gods
 
+### Printed p. 540
+
+of the gods sends away the Uṣases that have turned their faces back and will appear later. With the Uṣases that appeared before he attains growth.
+
+##### English translation
+These dawns diffuse the consciousness that is apprchended by pious men and (overspread) the whole world with uniform, investing (light): the devout man disregards the dawns which have turned back and (those which) are to come, and improves (his understanding) by those which have proceded. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ग्राव॑भिरह॒न्ये॑भिर॒क्तुभि॒र्वरि॑ष्ठं॒ वज्र॒मा जि॑घर्ति मा॒यिनि॑ ।  
+> श॒तं वा॒ यस्य॑ प्र॒चर॒न्ते दमे॑ संव॒र्तयं॑तो॒ वि च॑ वर्तय॒न्नहा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ग्रावभिः । अहन्येभिः । अक्तुभिः । वरिष्ठं । वज्रं । आ । जिघर्ति । मायिनि ।  
+> शतं । वा । यस्य । प्रचरन् । स्वे । दमे । संवर्तयंतः । नि । च । वर्तयन् ।  
+> अहा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र पूर्वार्ध इंद्र उच्यत उत्तरार्ध इंद्रात्मा सूर्यः । आ हूयत इति
+> शेषः । कैः । अहन्येभिरहनि संपादितैरक्तुभी रात्रिभिः । तत्र निष्पन्नैरित्यर्थः । तथाविधैर्ग्रावभिः । साध्ये साधनशब्दः ग्रावसाध्यैरभिसनैर्निमित्तभूतैः । आगत्यात्र सोमी
+> सन् मायिनि वृत्रे निमित्ते सति वरिष्ठमुरुतरं वज्रमा सर्वतो जिघर्ति । दीपयति।
+> ना किंच । वाशब्दश्चार्थे । यस्येंद्रात्मकस्यादित्यस्य शतं शतसंख्याका रश्मयः स्वे दमे
+> स्वकीये गृह आकाशे प्रचरन् प्रचरंति । किं कुर्वंतः । संवर्तयंतः प्राणिनो
+
+##### Gist of the bhāṣya
+
+In the first half of this Ṛk Indra is spoken of; in the second half, Sūrya, who is the self of Indra. The verb "is invoked" is to be supplied. By what? By the pressing-stones, by the Soma pressings prepared by day and by night, that is, accomplished in them. Here the word for the instrument stands for what is accomplished by it: the pressings, brought about by the stones, being the occasion. Having come here, Indra, now possessed of Soma, kindles on every side his very great thunderbolt, when the occasion of Vṛtra the beguiler is present. Moreover, of him, that is of Āditya, whose self is Indra, a hundred rays move in their own house, the sky. What do they do? Making an end of living beings,
+
+### Printed p. 541
+
+> नाशयंतः । यद्वा । अहाहानि दिवसान् संवर्तयंतः सम्यक् प्रवर्तयंतो वि च
+> वर्तयन् अहाहानि निवर्तयंति गतानैव पुनः प्रापयंति च । तपनपरिस्यंदाधीनत्वात्पाणिनामायुःक्षयस्याहोरात्रादिव्यवहारस्य ॥
+
+##### Gist of the bhāṣya
+
+or else, bringing the days into order and also turning them back, they bring back the days that have gone. This is so because the decay of the life of living beings and the course of day and night and the like depend on the movement of the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra, who is Āditya himself
+- शतं (*śataṃ*)—the hundred rays
+- संवर्तयंतः (*saṃvartayaṃtaḥ*)—making the days that have appeared go away
+- वि च वर्तयन् (*vi ca vartayan*)—and again making those same days appear
+- स्वे दमे (*sve dame*)—in the sky, their own place
+- प्रचरन् (*pracaran*)—move about; such an Indra
+- अहन्येभिः (*ahanyebhiḥ*)—produced in the days
+- अक्तुभिः (*aktubhiḥ*)—and produced at night
+- आ ग्रावभिः (*ā grāvabhiḥ*)—by the Soma juices (stimulated)
+- मायिनि (*māyini*)—upon the beguiler Vṛtra, to be used
+- वरिष्ठं (*variṣṭhaṃ*)—and extensive
+- वज्रं (*vajraṃ*)—the thunderbolt
+- आ जिघर्ति (*ā jigharti*)—makes sharp
+
+##### भावार्थ (Bhāvārtha)
+
+Such an Indra, who is Āditya himself, whose hundred rays move about in their own place, making the days that have appeared go to their setting and again making those same days appear, stimulated by the Soma juices produced at both times, day and night, makes sharp the extensive thunderbolt that is to be used against Vṛtra the beguiler.
+
+##### English translation
+(Animated) by the libations offered by day and by night, (Indra) sharpens his vast thunderbolt against the beguiler (Vritra); he whose hundred (rays) attend him in his own abode, sending away, and bringing back (revolving) days.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताम॑स्य री॒तिं प॑र॒शोरि॑व॒ प्रत्यनी॑कमख्यं भु॒जे अ॑स्य॒ वर्ष॑सः ॥  
+> सचा॒ यदि॑ पितु॒मंत॑मिव॒ क्षयं॒ रत्नं॒ दधा॑ति॒ भर॑हूतये  ॒
+> विशे ॥ ४ ॥
+
+### Printed p. 542
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । अस्य । रीतिं । परशोःइव । प्रति । अनेकं । अख्यं । भुजे । अस्य । वर्षसः ।  
+> सचा । यदि । पितुमंतंइव । क्षयं । रत्नं । दधाति । भरहूतये । विशे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमाग्नेया । तां प्रसिद्धामस्याग्ने रीतिं स्वभावं गतिं वा परशोरिव प्रति
+> परशोः प्रतिनिधिमिव पश्यामि । परशुर्यथा स्वस्वामिन्यभिमतं साधयति तद्वदित्यर्थ;।
+> अस्य वर्पसो रूपवतोऽस्यादित्यस्यानीकः रश्मीसमूहं भुजे भोगायाख्यं । कथयाम्यहं । यदि यस्मात्स च देवः सचास्मत्सहायः सन् पितुमंतमन्नवंतं क्षॆयमिव निवासमिव भरहूतये संग्रामे यज्ञे वाह्वानयुक्ताय विशे यजमानाय
+> रत्नं रमणीयं धनं दधाति धारयति । उभयमपि ददातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Agni. I see that well-known nature, or movement, of this Agni as a counterpart of the axe: as an axe accomplishes what its owner desires, so does he. Of this radiant Āditya, who has form, I declare the host of rays for enjoyment. Since that god, being our helper, bestows beautiful wealth, like a dwelling abounding in food, on the sacrificer who is called to battle or to sacrifice, the meaning is that he gives both.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Agni
+- तां (*tāṃ*)—the well-known
+- रीतिं (*rītiṃ*)—nature (course of conduct)
+- परशोः प्रति (*paraśoḥ prati*)—like a counterpart of the axe (I behold)
+- अस्य वर्पसः (*asya varpasaḥ*)—of this Āditya, who has the form of splendour
+- अनेकं (*anekaṃ*)—the host of rays
+- भुजे (*bhuje*)—as a means of enjoyment for living beings
+- अख्यं (*akhyaṃ*)—I worship **NOTE**
+- यदि (*yadi*)—if
+- सचा (*sacā*)—(this Āditya) is a helper together with the sacrificer, (then)
+- भरहूतये (*bharahūtaye*)—who invokes him at the place of sacrifice
+- विशे (*viśe*)—to the sacrificer
+- पितुमंतं (*pitumaṃtaṃ*)—filled with food
+- क्षयं इव (*kṣayaṃ iva*)—like a house
+- रत्नं (*ratnaṃ*)—beautiful wealth
+- दधाति (*dadhāti*)—he gives
+
+##### भावार्थ (Bhāvārtha)
+
+I behold the well-known course of conduct of Agni as a counterpart of the axe. I worship the host of rays of this Āditya, who has the form of splendour, as a means of enjoyment for living beings. When this Āditya is with the sacrificer, he gives to the sacrificer who invokes him at the place of sacrifice beautiful wealth, like a house filled with food.
+
+##### English translation
+(I behold) the practice of that (Agni) as of a deputy: I celebrate the host (of rays) of that (resplendent) form, (designed for the enjoyment (of mankind): if he be with (the worshipper), he bestows upon the man who invokes him at a sacrifice such opulence as a mansion abounding with food.
+
+### Printed p. 543
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जि॒ह्वया॒ चतु॑रनीक ऋंजते॒ चारु॒ वसा॑नो॒ वरु॑णो॒  ॒॑
+> यतन्नरिं ।  
+> न तस्य॑ विद्म पुरुष॒त्वता॑ व॒यं यतो॒ भगः॑ सवि॒ता दाति॒  ॑
+> वार्यं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । जिह्वया । चतुःऽआनीकः । ऋंजते । चारु । वसानः । वरुणः । यतन् । अरिं ।  
+> न । तस्य । विद्म । पुरुषत्वता । वयं । यतः । भगः । सविता । दाति । वार्यं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोग्निश्चतुरनीकश्चतुर्दिक्षु प्रसृतज्वालः सन् जिह्वया ऋंजते । गच्छति
+> धृतादिकं ! यद्वा । जिह्वया चतुरनीकः सन् ऋंजते । अलंकरोति स्वात्मानं । किं
+> कुर्वन् । चारु रमणीयं तेजो वसान आच्छादयन् वरुणस्तमोवारकः सन्
+> अरिममित्रं यतन् उद्धरन् । तस्य । तमित्यर्थः । तं न विद्म । न जानीमो वयं
+> पुरुषत्वता पुरुषत्वेन कामानां पूरकत्वेन वा युक्तं ॥ अपरो भावप्रत्ययः
+> पूरणः । यतोऽयं भगो महान् भजनीयः सविता प्रेरको देवो दाति यच्छति
+> वार्यं वरणीयं धनं ॥
+
+##### Gist of the bhāṣya
+
+That Agni, four-flamed, that is, with flames spread in the four directions, goes with his tongue, that is, goes to the ghee and the like; or else, being four-flamed by his tongue, he adorns himself. Doing what? Covering himself with beautiful, delightful splendour, being Varuṇa, the remover of darkness, he roots out the enemy. Of him, that is, him, we do not know, as endowed with manhood or as the fulfiller of desires. Since this Bhaga, the great and adorable one, Savitā, the god who impels, gives desirable wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Agni
+- चारु (*cāru*)—beautiful splendour
+- वसानः (*vasānaḥ*)—spreading
+- वरुणः (*varuṇaḥ*)—as the remover of darkness
+- अरिं (*ariṃ*)—the enemy
+- यतन् (*yatan*)—uprooting
+- चतुरनीकः (*caturanīkaḥ*)—spreading his flame in all four directions
+- जिह्वया (*jihvayā*)—with the flames that take the form of tongues
+- ऋंजते (*ṛṃjate*)—adorns the place of sacrifice
+- यतः (*yataḥ*)—by whose greatness
+- भगः (*bhagaḥ*)—the adorable
+- सविता (*savitā*)—god Savitṛ
+- वार्यं (*vāryaṃ*)—desired wealth
+- दाति (*dāti*)—gives
+- तस्य (*tasya*)—that god
+- पुरुषत्वता (*puruṣatvatā*)—in the form of a man
+- वयं (*vayaṃ*)—we
+- न विद्म (*na vidma*)—cannot know
+
+##### भावार्थ (Bhāvārtha)
+
+Agni spreads beautiful splendour, uproots the enemy as the remover of darkness, spreads his flame in all four directions, and with the flames that take the form of tongues adorns the sacrificial
+
+### Printed p. 544
+
+ground. That god, by whose greatness the adorable Savitṛ gives the desired wealth, we cannot know in the form of a man.
+
+##### English translation
+Blazing with his (fiery) tongue in the four quarters (of the horizon) he proceeds (to the sacrifice), wearing beautiful (lustre), the disperser of darkness, extirpating foes: we know him not (as endowed) with manhood. whereby this adorable Savitri bestows desirable (wealth).
+
+## Sūkta 49 (Maṇḍala 5)
+
+The forty-ninth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवं व इति पंचर्चं पंचमं सूक्तमात्रेयस्य प्रतिप्रभस्यार्षं त्रैष्टुभं
+> वैश्वदेवं । देवं वः प्रतिप्रभोऽंत्या तृणपाणिरित्यनुक्रमणिका ॥ विनियोगो
+> लैंगिकः ॥ .
+
+##### Gist of the bhāṣya
+
+The sūkta beginning देवं व इति पंचर्चं (*devaṃ va iti paṃcarcaṃ*), of five Ṛks, is the fifth sūkta; its seer is Pratiprabha of the Ātreya line, its metre is Triṣṭubh, and it is addressed to the Viśvedevas. The Anukramaṇī says: देवं वः प्रतिप्रभोऽंत्या तृणपाणिरित्यनुक्रमणिका (*devaṃ vaḥ pratiprabho 'ṃtyā tṛṇapāṇirityanukramaṇikā*). The use in ritual is by indication.
+
+Anuvāda: This sūkta beginning देवं वः (*devaṃ vaḥ*) is the fifth sūkta in the fourth anuvāka. It has five Ṛks. Its seer is the one called Pratiprabha; the deity is the Viśvedevas; the metre is Triṣṭubh. In the Anukramaṇī it is said: देवं वः प्रतिप्रभोऽन्ता तृणपाणिः (*devaṃ vaḥ pratiprabho 'ntā tṛṇapāṇiḥ*). The use in ritual is Laiṅgika.
+
+- Sūkta 49
+- Maṇḍala 5, Anuvāka 4, Sūkta 49
+- Aṣṭaka 4, Adhyāya 3, Varga 2
+- Number of Ṛks in the sūkta: 5
+- Seer: Pratiprabha Ātreya
+- Deity: the Viśvedevas
+- Metre: Triṣṭubh
+
+### Printed p. 545
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वं वो॑ अ॒द्य स॑वि॒तार॒मेषे॒ भगं॑ च॒ रत्नं॑ वि॒भजं॑तमा॒योः ।  
+> आ वां॑ नरा पुरुभुजा ववृत्यां दि॒वेदि॑वे चिदश्विना सखी॒यन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवं । वः । अद्य । सवितारं । आ । ईषे । भगं । च । रत्नं । विभजंतं । आयोः ।  
+> आ । वां । नरा । पुरुभुजा । ववृत्यां । दिवेदिवे । चित् । अश्विना । सखीयन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सायणभाष्यं ॥ ५ ॥
+> देवं द्योतमानं सवितारं सर्वस्याभ्यनुज्ञातारं वः । त्वामित्यर्थः । यद्वा
+> होतुरिदं वाक्यं । वो यजमानेभो युष्मभ्यमर्थायाद्येदानीमेषे । उपगच्छामि । भगं च भजनीयं देवमायोर्मनुष्यस्य यजमानस्य रत्नं रमणीयं
+> हविर्विभजंतं । भगो नां विभजत्विति हि भगस्य विभजनं प्रसिद्धं । रायो विभक्ता
+> संभरश्च वस्वः । ऋग्वे. ४. १७. ११ । भगो विभक्ता शवसा । ऋग्वे. ५. ४६. ६ । इति च
+> श्रुतिः । यद्वा । चतुर्थ्यर्थे षष्ठी । यजमानार्थं रत्नं रमणीयं धनं विभजंतं ।
+> हे नरा नेतारौ हे पुरुभुजा । पुरु भुंजाते इति पुरुभुजौ । हे अश्विनाश्विनौ नां
+> युवां दिने दिने प्रतिदिनमा ववृत्यां । आवर्तयाम्यस्मदभिमुखं । सखीयन्
+> युवयोः सखित्वमिच्छन् । चिदिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+The god, the shining Savitā, the sanctioner of all, I approach for you; that is, you. Or else this is the speech of the Hotṛ: now, for you the sacrificers, I come near. And I come near to Bhaga, the adorable god, who divides the delightful oblation, the wealth, for the man, the sacrificer. That Bhaga divides is well known; and the Śruti says: रायो विभक्ता संभरश्च वस्वः (*rāyo vibhaktā saṃbharaśca vasvaḥ*) (Ṛgve. 4. 17. 11) **NOTE**, and: भगो विभक्ता शवसा (*bhago vibhaktā śavasā*) (Ṛgve. 5. 46. 6) **NOTE**. Or else the genitive stands for the dative: dividing for the sacrificer the delightful wealth. O leaders, O Aśvins who enjoy much: day by day I turn you toward us, wishing for your friendship. The particle that follows is a filler. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers) वः (*vaḥ*)—on your behalf
+- अद्य (*adya*)—at this time of sacrifice
+- देवं (*devaṃ*)—the god in nature
+- सवितारं (*savitāraṃ*)—Savitṛ
+- आयोः (*āyoḥ*)—to man
+- रत्नं (*ratnaṃ*)—beautiful wealth
+- विभजंतं (*vibhajaṃtaṃ*)—who divides
+- भगं च (*bhagaṃ ca*)—and Bhaga
+- एषे (*eṣe*)—I approach (to pray)
+- नरा (*narā*)—the leaders
+- पुरुभुजा (*purubhujā*)—who have the capacity to enjoy many excellent things
+- अश्विना (*aśvinā*)—O Aśvin gods
+- सखीयन् चित् (*sakhīyan cit*)—wishing for your friendship
+- दिने दिने (*dine dine*)—every day
+- वां (*vāṃ*)—you
+- आ ववृत्यां (*ā vavṛtyāṃ*)—I pray again and again
+
 ---
 
-**Progress note:** Done through printed p. 539. Sūkta 47 Ṛk 5 end to Ṛk 7; Sūkta 48 Ṛk 1 and start of Ṛk 2
+**Progress note:** Done through printed p. 545. Sūkta 48 Ṛk 2 end to Ṛk 5; Sūkta 49 intro and Ṛk 1
