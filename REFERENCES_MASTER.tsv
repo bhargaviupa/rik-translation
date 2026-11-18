@@ -13,7 +13,6 @@ NOT IN LIST	śata. brā.		Śa. Brā.	known spelling of Śa. Brā. (capitals/dots
 NOT IN LIST	Brā.			no list form close to it	none		5					1						1	1		1		1	
 NOT IN LIST	IV.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2	1		2				
 NOT IN LIST	X.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		5										2			3				
-NOT IN LIST	Vāja. Saṃ.			no list form close to it	none		4										1							3
 NOT IN LIST	V.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											1		3				
 NOT IN LIST	VI.			retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")	retain		4											3		1				
 NOT IN LIST	R. V. I.			no list form close to it	none		3	1									2							
@@ -225,7 +224,7 @@ NOT IN LIST	Uṣas.			no list form close to it	none		1																1
 NOT IN LIST	Night.			no list form close to it	none		1																1	
 NOT IN LIST	uarters.			no list form close to it	none		1																1	
 NOT IN LIST	Śrī. U.			no list form close to it	none		1																1	
-NOT IN LIST	Vāj.			no list form close to it	none		1																1	
+NOT IN LIST	Vāj.		Vā. Saṃ.	known spelling of Vā. Saṃ.	high		1																1	
 NOT IN LIST	Pa. Saṃ.			no list form close to it	none		1																1	
 NOT IN LIST	Tā. Prā.			no list form close to it	none		1																1	
 NOT IN LIST	Maitrya. Panisat.			no list form close to it	none		1																1	
@@ -334,6 +333,7 @@ mistake	Sā. Ve.	→ Sā. Saṃ.					5															1		4
 mistake	Pū. Mī.	→ Jai. Sū.					4	4																
 mistake	Pā. sū. vā.	→ Pā. Sū. Vā.					4		4															
 mistake	śa. brā.	→ Śa. Brā.					4		1							2	1							
+mistake	Vāja. Saṃ.	→ Vā. Saṃ.					4										1							3
 mistake	Bṛ. Je.	→ Bṛ. De.					4											2	2					
 mistake	Bṛ. Pe.	→ Bṛ. De.					4											1	2					1
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
