@@ -11637,6 +11637,120 @@ From the Pañcadaśa stoma the Bṛhat-sāman arises, and from it the seer Bhara
 
 The great seer Bharadvāja exerted his power also in the Agniṣṭoma sacrifice and made the Agniṣṭoma pure and fruitful. How, is thus: this occasion is explained in the form of a story in the Aitareya Brāhmaṇa.
 
+### Printed p. 348
+
+अग्निष्टोमं वै वेदा आश्रयंतोक्षान्यसुरास्ते समावद्वीर्या एवासन्न व्यावर्तंत तान्भरद्वाज ऋषीणामपश्यदिमे वा असुरा उक्थेषु श्रितास्तानेषां न कश्चन पश्यतीति सोऽग्नि मुदह्वयत् । एहू शुब्रवाणि तेऽग्न इत्थेतरा गिर इति असुरा ह वा इतरा गिरः । सोऽग्निरुपोत्तिष्ठन्नब्रवीत्किंस्विदेव मह्यं कृशो दीर्घः पलितो वक्ष्यतीति भरद्वाजो ह वै कृशो दीर्घः पलित आस । सोऽब्रवीदिमे ना असुरा उक्तेषु श्रितास्तान्वो न कश्चन पश्यतीति । तानग्निरश्वो भूत्वाभ्यत्यद्रवत् ॥ (*agniṣṭomaṃ vai vedā āśrayaṃtokṣānyasurāste samāvadvīryā evāsanna vyāvartaṃta tānbharadvāja ṛṣīṇāmapaśyadime vā asurā uktheṣu śritāstāneṣāṃ na kaścana paśyatīti so 'gni mudahvayat | ehū śubravāṇi te 'gna itthetarā gira iti asurā ha vā itarā giraḥ | so 'gnirupottiṣṭhannabravītkiṃsvideva mahyaṃ kṛśo dīrghaḥ palito vakṣyatīti bharadvājo ha vai kṛśo dīrghaḥ palita āsa | so 'bravīdime nā asurā ukteṣu śritāstānvo na kaścana paśyatīti | tānagniraśvo bhūtvābhyatyadravat ‖*)
+
+(Ai. Brā. 15-49)
+
+When the gods resorted to the Agniṣṭoma, the Asuras resorted to the Uktha. Then they too came to have as much power as the gods. The distinction who were the gods and who the Asuras could not be recognised. But only Bharadvāja, the foremost of all the seers, understood this distinction. "The Asuras are hidden in the Uktha. None of the gods has seen this," he said, and called Agni. Agni came to Bharadvāja and asked why Bharadvāja had called him. Then Bharadvāja said: "O Agni, I shall tell you what the speech of the others (that is, of the Asuras) is like." Agni, rising, wondered: "Why has this Bharadvāja, lean of body, tall of frame, grey-haired (with hair turned white), called me? What can he tell me?" As Agni described, Bharadvāja was indeed lean of body and tall of frame. As soon as Agni drew near, Bharadvāja said: "These Asuras are hidden in the Uktha; none of you can see them." Then Agni took the form of a horse and rushed upon them there. For this very reason he became the source of the Sākamaśva-sāman. Afterwards the gods drove away the Asuras with the help of the Pramaṃhiṣṭhīya-sāman. This narrative praises the greatness of Bharadvāja and explains that Bharadvāja's power is greater than the power of the gods, and that even a secret unknown to the gods became known to Bharadvāja.
+
+The Yajñāyajñīya mantras, which must be recited as the most important ones in this same Agniṣṭoma sacrifice, are also well known as works of Bharadvāja. Even in describing the power of these Yajñāyajñīya mantras, the Bṛhat made by Bharadvāja and the principle of mind that is reflected in its principle, and moreover, as stated before, the atmosphere, the region of the Sun's circuit that is the support of these, are shown to have a direct connection with the principle that the Yajñāyajñīya mantras convey.
+
+### Printed p. 349
+
+बृहदुत्तारे पक्षे । द्यौर्वै बृहद्दौर्हि बर्हिष्ठा दिवमेवास्यैतदुत्तरं पक्षं करोत्यथो उत्तरमेवास्यैतत्पक्षमनस्थिकममृतं करोति ॥ ( (*bṛhaduttāre pakṣe | dyaurvai bṛhaddaurhi barhiṣṭhā divamevāsyaitaduttaraṃ pakṣaṃ karotyatho uttaramevāsyaitatpakṣamanasthikamamṛtaṃ karoti ‖ (*)
+
+(Śa. Brā. 9-1-2-37)
+
+After the recitation of the Rathantara-sāman the Bṛhat-sāman mantra is recited. The heavenly world is this principle of the Bṛhat-sāman. The heavenly world is the most extensive of all worlds. If the Bṛhat is made the left wing for Agni, it is as if the heavenly world itself were made; that is, it shows its exceeding extent.
+
+यज्ञायज्ञियं पुच्छं । चंद्रमा वै यज्ञायज्ञियं । यो हि कश्च यज्ञः संतिष्ठत एतमेव तस्याहुतीनां रसः ॥ (*yajñāyajñiyaṃ pucchaṃ | caṃdramā vai yajñāyajñiyaṃ | yo hi kaśca yajñaḥ saṃtiṣṭhata etameva tasyāhutīnāṃ rasaḥ ‖*)
+
+(Śa. Brā. 9-1-2-39.)
+
+The Yajñāyajñīya, which reflects the principle of the moon, is the tail of this rite. That is, in the Soma sacrifice, in the last part of the Agniṣṭoma section, this Yajñāyajñīya mantra is recited and brings completeness, and the essence of the sacrificial offering goes to the world of the moon; this is the meaning.
+
+Another point must be noticed here. यज्ञायज्ञा वः समना (*yajñāyajñā vaḥ samanā*) is mantra 1-168-1; it was composed by Agastya. Moreover, the mantra 6-48-1, यज्ञा यज्ञा वो अग्नये (*yajñā yajñā vo agnaye*), was composed by Śaṃyu; so there is room for the doubt how these Yajñāyajñīya mantras can be called works of Bharadvāja. It is unnecessary to extend this discussion here. In the recitation of the Yajñāyajñīya mantras there are four kinds of variation of the tune. For the present the answer may be given that Bharadvāja is the maker of all of them.
+
+"In the case of the अग्निष्टोमसामन् (*agniṣṭomasāman*), however, the word सामन् (*sāman*) cannot be taken in its narrow acceptation, but the term has to be understood in the sense of "a hymn chanted in praise of Agni". The words commonly used for this chant, are the first two verses of Rig-Veda. VI. 48, a hymn indeed admirably adapted for the purpose of singing Agni's praises, for the first verse beginning "यज्ञायज्ञा वो अग्नये (*yajñāyajñā vo agnaye*)" the chief tune-book, the ग्रामगेयगान (*grāmageyagāna*), has preserved four different tunes, all of which are ascribed to the Rishi Bharadvaja."
+
+[Sacred Books of the East Vol.41. Eggling. Satapatha Brahmana Pt.III.p.XIV
+
+Therefore, in this context, both Bharadvāja's being the seer of the sūktas and the order laid down by him at the time of reciting the sūktas must be noticed. There is no room for the remaining discussions at present.
+
+### Printed p. 350
+
+This Bharadvāja, born of a divine portion and possessed of power greater than that of the gods, as was indicated before, obtained the Brahma-splendour that upholds the Kṣatra duty even in worldly affairs, became a helper to many Kṣatriyas and helped the protection of Brahman; and his help to Abhyāvartin Jāyamāna and to Prastoka was told briefly. For such helps:
+
+तौ तु वारशिखाञ्ञित्वा ततोऽभ्यावर्तिसार्ङ्ज्जयौ । भरद्वाजाय गुरवे ददतुर्विविधं वसु ॥ (*tau tu vāraśikhāññitvā tato 'bhyāvartisārṅjjayau | bharadvājāya gurave dadaturvividhaṃ vasu ‖*)
+
+(Bṛ. De. 5-139)
+
+These same Abhyāvartin Jāyamāna and the Sāṃrjaya,**NOTE** having completely conquered the Vāraśikhas, offered immeasurably valuable wealth as a gift to Bharadvāja, who was their teacher. While they were carrying this gift, on the way:
+
+भरद्वाजश्च गर्गश्च दृष्टाविंद्रेण वै पथि । द्वयान् प्रस्तोक इत्याभिर्दानं तत्र च तस्य तु ॥ (*bharadvājaśca gargaśca dṛṣṭāviṃdreṇa vai pathi | dvayān prastoka ityābhirdānaṃ tatra ca tasya tu ‖*)
+
+(Bṛ. De. 5-140)
+
+Bharadvāja and his son Garga, while walking along the road, were seen by Indra. Then, with the mantra द्वया अग्ने रथिनो विंशतिं (*dvayā agne rathino viṃśatiṃ*) (Ṛ. Saṃ. 6-27-8) and with the mantra प्रस्तोक्त इन्नु राधसस्त इंद्र (*prastokta innu rādhasasta iṃdra*) (6-47-22), they praised before Indra the wealth given by those two and prayed for the welfare of both; this is well known in the Bṛhaddevatā and other works.
+
+But if examined from the historical point of view, these situations are somewhat problematic. Abhyāvartin and Prastoka are both described as belonging to the Sṛñjaya family. But in some places Abhyāvartin is stated to be the son of Jayamāna, and in some others the son of Sṛñjaya. Abhyāvartin also has the epithet Daivavāta. Not only this, certain Saṃhitā passages give room for the doubt that Bharadvāja and Divodāsa are one and the same. In such contexts the relation of Divodāsa to the Sṛñjaya family must also be examined.
+
+First, it must be examined in which contexts of the Ṛksaṃhitā Abhyāvartin is mentioned and the teacher-pupil relation between Bharadvāja and Abhyāvartin is stated. Since only matters concerning Bharadvāja are being examined here, first Bharadvāja's precise position should be examined from the historical point of view, and afterwards, according to the occasion, if absolutely necessary, the above matters can be discussed suitably.
+
+The word Divodāsa is in some places an epithet of Bharadvāja. The word Bharadvāja is in some places an epithet of Divodāsa. This same word Divodāsa is in some other places an epithet of Prastoka, who received help from Bharadvāja.
+
+### Printed p. 351
+
+On the basis of such contexts there are also those who say that Divodāsa and Bharadvāja are one and the same. (The matter of Divodāsa Atithigva is told briefly in the Ṛgveda Saṃhitā, Part 8, p. 788.) This opinion cannot be quite right. How? —
+
+तमिमा नार्या पुरु दिवोदासाय सुन्वते । भरद्वाजाय दाशुषे ॥ (*tamimā nāryā puru divodāsāya sunvate | bharadvājāya dāśuṣe ‖*)
+
+(Ṛ. Saṃ. 6-16-5)
+
+Some English scholars hold that in this Ṛk the word दिवोदासाय (*divodāsāya*) is an epithet of भरद्वाजाय (*bharadvājāya*), that therefore Divodāsa and Bharadvāja are one and the same, and not different persons. But this is wrong. Sāyaṇa has explained both words correctly in this context. When he says लुप्तोपमा एतत् (*luptopamā etat*), that is, यथा दिवोदासाय प्रादाः तथा भरद्वाजाय देहि (*yathā divodāsāya prādāḥ tathā bharadvājāya dehi*), the meaning is: "As you furnished wealth to Divodāsa, so furnish wealth to me, Bharadvāja"; hence it is clear that the two are different persons. Likewise:
+
+यदयातं दिवोदासाय वर्तिर्भरद्वाजायाश्विना हयंता । रेवदुवाह सचनो रथो नां वृषभश्च शिंशुमारश्च युक्ता ॥ (*yadayātaṃ divodāsāya vartirbharadvājāyāśvinā hayaṃtā | revaduvāha sacano ratho nāṃ vṛṣabhaśca śiṃśumāraśca yuktā ‖*)
+
+(Mi. Sa. 1-116-18)**NOTE**
+
+In this Ṛk too there is room for the doubt that both are the same person. But भरद्वाजाय (*bharadvājāya*) means "to the one who bears vāja (food)"; Sāyaṇa has explained that the sense is "to Divodāsa, who bears food in the form of the oblation". So in this context too there is no room for doubt.
+
+अशिक्षो यत्र शच्या शचीवो दिवोदासाय सुन्वते सुतक्रे भरद्वाजाय गृणते वसूनि । (*aśikṣo yatra śacyā śacīvo divodāsāya sunvate sutakre bharadvājāya gṛṇate vasūni |*) (Ṛ. Saṃ. 6-31-4)
+
+In such contexts too they are understood as separate persons. But:
+
+प्रस्तोक इन्नु राधसस्त इंद्र दश कोशयार्दश वाजिनोऽदात् । दिवोदासादतिथिग्वस्य राधः शांबरं वसु प्रत्यग्रभीष्म ॥ (*prastoka innu rādhasasta iṃdra daśa kośayārdaśa vājino 'dāt | divodāsādatithigvasya rādhaḥ śāṃbaraṃ vasu pratyagrabhīṣma ‖*)
+
+(Ṛ. Saṃ. 6-47-22)
+
+Here Sāyaṇa himself has explained that the two names Prastoka and Divodāsa are alternative names of one and the same person. दिवोदासात् एतत्संज्ञात् प्रस्तोकात् (*divodāsāt etatsaṃjñāt prastokāt*): taking the sense as "from Prastoka, who has the other name Divodāsa
+
+### Printed p. 352
+
+", he has shown that both indicate one and the same person. If Prastoka and Divodāsa are one, then, since Bharadvāja is said to be the family priest of Divodāsa, he must be called the family priest of Prastoka. If so, whether Divodāsa also has the epithet Sāṃrjaya,**NOTE** and whether he too is well known as the son of Sṛñjaya, is also a matter that deserves examination.
+
+इयमददाद्रभसमृणच्युतं दिवोदासं वध्यश्वाय दाशुषे । (*iyamadadādrabhasamṛṇacyutaṃ divodāsaṃ vadhyaśvāya dāśuṣe |*)
+
+(Ṛ. Saṃ. 6-61-1)
+
+It says that this Sarasvatī granted to the seer named Vadhryaśva a son named Divodāsa. No relation of any kind is stated, in any context, between this Vadhryaśva and Sṛñjaya, who is well known as the father of Prastoka. Sṛñjaya is not merely a personal name; although it is a collective name of a people, the name of Vadhryaśva is not included in that group either. That is, it is not easy to say whether Prastoka and Divodāsa, who honoured Bharadvāja, are different persons or alternative names of one person. This discussion will be made in its proper place. For the present, on the basis of the sentence दिवोदासात् एतत्संज्ञकात् प्रस्तोकात् (*divodāsāt etatsaṃjñakāt prastokāt*) explained by Sāyaṇa in the commentary on the above-cited mantra 6-47-22, it can only be said that these two names are identical in one person. The Pañcaviṃśa Brāhmaṇa states clearly that Bharadvāja was family priest to Divodāsa. (Paṃ. Brā. 15-3-7)**NOTE** The Kāṭhaka Saṃhitā states that this same Bharadvāja gave the kingdom to Pratardana, the son or descendant of Divodāsa (21-10). But whether the Bharadvāja who was family priest of Prastoka and this one are the same person or different persons is difficult to say. Many different persons named Bharadvāja are well known both in Vedic passages and in the Purāṇas and the like. But here one should only suppose that the Bharadvāja, son of Bṛhaspati, praised in the Vedic passages is the single one who is extolled, and try to understand his greatness. Even in Vedic passages there is room to speak of two Bharadvājas, but since it is not easy for us to find precise grounds for that, we may take him to be one. How the power of Bharadvāja is described in Vedic passages such as the Taittirīya Brāhmaṇa, Aitareya Brāhmaṇa and Aitareya Āraṇyaka has been told briefly above. The meaning of the word Bharadvāja is stated in some places also from the spiritual point of view. For example:
+
+इ मावेव गोतमभरद्वाजावयमेव गोतमोऽयं भरद्वाजः (*i māveva gotamabharadvājāvayameva gotamo 'yaṃ bharadvājaḥ*)
+
+(Bṛ. U. 2-2-4)
+
+These organs of hearing are Gotama and Bharadvāja. Of them, one is Gotama and the other Bharadvāja; thus it states what principle that great seer reflects.
+
+### Printed p. 353
+
+**The Bharadvājas well known in the Purāṇas and Itihāsas**
+
+The Bharadvāja praised in Vedic literature is also well known in the Mahābhārata and other works. It is well known that in the Mahābhārata, the Śrīmad-Bhāgavata, the Viṣṇu Purāṇa and the Matsya Purāṇa the descriptions of the family, origin and nature of the seer Bharadvāja are just as described above in the Bṛhaddevatā. He is the son of Bṛhaspati. This Bharadvāja, son of Bṛhaspati, is described in the Purāṇas as the son of Bharata. This matter is told in the Śrīmad-Bhāgavata in this way:
+
+तस्यासन्नृप वैदर्भ्यः पत्न्यस्ति स्रः सुसंमताः । जघ्नुस्त्यागभयात्पुत्रान्नानारूपा इतीरिते ॥ तस्यैवं वितथे वंशे तदर्थं यजतस्सुतं । मरुत्सोमेन मरुतो भरद्वाजमुपाददुः ॥ (*tasyāsannṛpa vaidarbhyaḥ patnyasti sraḥ susaṃmatāḥ | jaghnustyāgabhayātputrānnānārūpā itīrite ‖ tasyaivaṃ vitathe vaṃśe tadarthaṃ yajatassutaṃ | marutsomena maruto bharadvājamupādaduḥ ‖*)
+
+(Bhāgavata. 9-20-34, 3**NOTE**
+
+That Bharata (whose wealth was greater than Indra's) had three wives, daughters of the king of Vidarbha. Seeing the children born of them, the husband Bharata said, "These are not sons worthy of my dignity," and cast them off. Then his wives, afraid that their husband would suspect them of unchastity and would abandon them, killed all those children. In the end, when the situation arose that the family would be cut off for want of offspring, Bharata, desiring offspring, performed the sacrifice called Marutsoma and worshipped the Maruts. Then the Maruts, pleased with Bharata's pure worship and the like, granted him a son named Bharadvāja. The manner of that Bharadvāja's origin is this:
+
+अंतरत्नां भ्रातृपत्न्यां मैथुनाय बृहस्पतिः । प्रवृत्तो वारितो गर्भं शप्ता वीर्यमपासृजत् ॥ तं त्युक्तु कामां ममतां भर्तुस्त्यागविशंकितां । नामनिवचनं तस्य शोकमेतं सुरा जगुः ॥ मूढे भर द्वाजमिमं भर द्वाजं बृहस्पते । यातौ यदुक्त्वा पितरौ भरद्वाजस्ततस्त्वयं ॥ चोद्यमाना सुरैरेवं मत्वा वितथमात्मजं । व्यसृजन्मरुतोऽबिभ्रन् दत्तोऽयं वितथेऽन्वये ॥ (*aṃtaratnāṃ bhrātṛpatnyāṃ maithunāya bṛhaspatiḥ | pravṛtto vārito garbhaṃ śaptā vīryamapāsṛjat ‖ taṃ tyuktu kāmāṃ mamatāṃ bhartustyāgaviśaṃkitāṃ | nāmanivacanaṃ tasya śokametaṃ surā jaguḥ ‖ mūḍhe bhara dvājamimaṃ bhara dvājaṃ bṛhaspate | yātau yaduktvā pitarau bharadvājastatastvayaṃ ‖ codyamānā surairevaṃ matvā vitathamātmajaṃ | vyasṛjanmaruto 'bibhran datto 'yaṃ vitathe 'nvaye ‖*)
+
+(Bhāgavata. 9-20-35 to 39)
+
+Bṛhaspati had a younger brother named Ucathya. He had a wife named Mamatā. At the time when that brother's wife was with child, Bṛhaspati, infatuated with her and overcome with desire, secretly with her
+
 ---
 
-**Progress note:** Done through printed p. 347. Mandala 6 introduction: Bharadvaja, Brhat-saman
+**Progress note:** Done through printed p. 353. Mandala 6 intro: Bharadvaja, Divodasa, Prastoka, Bhagavata
