@@ -2840,6 +2840,204 @@ This sūkta, "Ā mitre varuṇe", is the sixteenth sūkta in the fifth anuvāka.
 - Deity: Mitra and Varuṇa
 - Metre: Uṣṭik
 
+### Printed p. 75
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मि॒त्रे वरु॑णे व॒यं गी॒र्भिर्जु॑हुमो अत्रि॒वत् ।  
+> नि ब॒र्हिषि॑ सदतं॒ सोम॑पीतये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मित्रे । वरुणे । वयं । गीर्भिः । जुहुमः । अत्रिवत् ।  
+> नि । बर्हिषि । सदतं । सोमपीतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमात्रेया मित्रे वरुणे मित्रावरुणयोरर्थाय गीर्भिर्मंत्रैरा
+> जुहुमः अत्रिवत् अस्मद्द्योत्रप्रवर्तकोऽत्रिरिव । तस्माद्दे मित्रावरुणौ सोमपीतये
+> बर्हिषि नि षदतं । निषीदतं ॥
+
+##### Gist of the bhāṣya
+
+We, the Ātreyas, invoke Mitra and Varuṇa, for the sake of Mitra and Varuṇa, with songs, that is with mantras, like Atri, the originator of our praise. Therefore, O Mitra and Varuṇa, sit down upon the sacred grass to drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we, born in the family of Atri
+- अत्रिवत् (*atrivat*)—following the sage Atri himself
+- मित्रे (*mitre*)—Mitra
+- वरुणे (*varuṇe*)—Varuṇa, addressed
+- गीर्भिः (*gīrbhiḥ*)—with mantras (praying)
+- आ जुहुमः (*ā juhumaḥ*)—we call
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- नि सदतं (*ni sadataṃ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+We, born in the family of Atri, praise Mitra and Varuṇa as Atri praised them, and with those same mantras we pray to them and call them. O Mitra and Varuṇa, sit down upon the seat of darbha grass to drink the Soma.
+
+##### English translation
+We invoke Mitra aud Varuna with hymns, like (our progenitor) Atri; sit down upon the sacred grass to drink the some libation.
+### Printed p. 76
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्र॒तेन॑ स्थो ध्रु॒वक्षे॑मा॒ धर्म॑णा यात॒यज्ज॑ना ।  
+> नि ब॒र्हिषि॑ सदतं॒ सोम॑पीतये ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> व्रतेन । स्थः । ध्रुवक्षेमा । धर्मणा । यातयत्जना ।  
+> नि । बर्हिषि । सदतं । सोमपीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवां धर्मणा जगद्वारकेण व्रतेन कर्मणा योगेन
+> ध्रुवक्षेमा स्थः । अविचलितस्थान् भवथः । यातयज्जना । यातयंतः कर्मगु
+> प्रवर्तयंतो जना ऋत्विजो ययोस्त्या यातयज्जन् । अथवा यातयंतः
+> शत्रुन् हिंसंतो जना भृत्या ययोस्त्या । शिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you are firm in your abode through your sustaining law, that is through the work by which you uphold the world. The word for "those whose people urge them on" is explained thus: those whose men, the priests, set the rites going; or else, those whose men, their servants, strike down enemies. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यातयज्जना (*yātayajjanā*)—you who have priests and others who urge you on by praise and the like
+- धर्मणा (*dharmaṇā*)—by the world-sustaining
+- व्रतेन (*vratena*)—by your work
+- ध्रुवक्षेमा (*dhruvakṣemā*)—having an unshaken abode
+- स्थः (*sthaḥ*)—you are
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- नि सदतं (*ni sadataṃ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you who have priests and others urging you on by praise and the like, are of unshaken abode through your world-sustaining work. Sit down on the seat of darbha grass to drink the Soma.
+
+##### English translation
+Steady are you in your functions, whom men animate by (their) devotion: come and sit down upon the sacred grass to drink the some libation.
+### Printed p. 77
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रश्च॑ नो॒ वरु॑णश्च जु॒षेतां॑ य॒ज्ञ मि॒ष्टये॑ ।  
+> नि ब॒र्हिषि॑ सदतां॒ सोम॑पीतये ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । च । नः । वरुणः । च । जुषेतां । यज्ञं । इष्टये ।  
+> नि । बर्हिषि । सदतां । सोमपीकये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रश्च वरुणश्चोभौ नोऽस्माकं यज्ञमिष्टयेऽभीष्वाय जुषेतां ।
+> सेवेतां । आगत्य च बर्हिषि नि षदतां निषीदतां सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+Let both Mitra and Varuṇa accept our sacrifice for the fulfilment of our wish, that is, let them enjoy it. And having come, let them sit down upon the sacred grass for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रश्च (*mitraśca*)—and Mitra
+- वरुणश्च (*varuṇaśca*)—and Varuṇa
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—sacrifice
+- इष्टये (*iṣṭaye*)—for the fulfilment of our wish
+- जुषेतां (*juṣetāṃ*)—let them accept and enjoy
+- सोमपीतॆये (*somapītèye*)—for the drinking of Soma
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- नि सदतां (*ni sadatāṃ*)—let them come and sit down
+
+##### भावार्थ (Bhāvārtha)
+
+Let Mitra and Varuṇa accept and enjoy our sacrifice for the fulfilment of our wish, and let them come and sit down upon the seat of darbha grass to drink the Soma.
+
+##### English translation
+May Mitra and Varuna, accept with satisfaction our sacrifice; come and sit down upon the sacred grass to drink the some libation.
+### Printed p. 78
+## Sūkta 73 (Maṇḍala 5)
+**Introduction: a brief account of the Aśvin deities**
+In the six sūktas from this sūkta onwards the Aśvin deities are praised; therefore we give here a brief account of them.
+The Aśvin deities are two. It is the custom to say that one is named Dasra and the other Nāsatya. Yet these words are often found used in addressing both together. About their origin there is a story in the Purāṇas. Saṃjñā, the wife of the Sun, being displeased with the Sun for some reason, went to the forest and practised austerities in the form of a mare. The Sun learned of it, went in the form of a stallion to the place where she was, and stayed for some time; it is said that the Aśvin deities were then born to them as sons. In the Ṛgveda there are many sūktas about them. These are most solemn and praise their qualities and their heroic deeds. In the Yajurveda it is said, "अश्विन् वै देवानां भिषजौ (*aśvin vai devānāṃ bhiṣajau*)", that is, these Aśvin deities are the physicians of the gods. It is said in the 116th sūkta of this maṇḍala that once Ṛjāśva, who was grazing goats in the forest at the order of his father, gave a hundred goats as food to the Aśvin deities when they came in the form of wolves (vṛka); his father learned of it and in great anger had his son's eyes torn out and made him blind; then Ṛjāśva prayed to the Aśvin deities, and they, pleased with his praise, gave him eyes and showed him grace. Many such heroic and daring deeds of these deities are described in the 116th to 120th sūktas and elsewhere.
+In the Ṛgveda, when certain deities are praised, certain specific words are used. When Agni is praised, words such as kavi, hotṛ and gṛhapati are used; of Indra, words such as śatakratu, vṛtraghna, puruhūta and citrabhānu; of the Aśvin deities, words such as nāsatyā, śubhaspatī, narā and purubhujā. Since all the seers have used many such words for these respective deities, it is clear that those words must have had a specific meaning, besides the meanings that appear to us now or are current in usage.
+### Printed p. 79
+It is now difficult to say in what sense the seers used those words. Even if, following grammar and by an analysis into parts, we devise some reasonable meaning, it is doubtful whether it was the intention of the earlier seers. Though those words are still in use, the meaning they had in earlier use is not the one they have now. Since their meaning in modern culture is different, it cannot be said that the meaning we give by commentary agrees with the views of the earlier seers.
+Since the word Aśvinau is a proper name, that is, it denotes definite persons, it is not right to devise an etymological meaning for the word. Yet the interpreters of the Veda have given this word the meaning "अश्वः अस्यास्तीति अश्वी तौ अश्विन् (*aśvaḥ asyāstīti aśvī tau aśvin*)", that is, possessors of horses or those who ride on horses. For this kind of meaning there is no room in the Ṛgveda, because in many ṛcs the Aśvin deities are addressed as sitting on a chariot, and nowhere is it said that they ride seated on a horse. Therefore their view is not reasonable. But since the Aśvin deities were born of the Sun and of Saṃjñā, the Sun's wife, who were in the form of horses, it appears proper to conjecture that the name Aśvinā or Aśvin came to them from that. The two forms Aśvin and Aśvinau are both dual; they are used, according to the context, in the nominative and the accusative.
+The introduction ends.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽनुवाके पंचदश सूक्तानि । तत्र यदद्य स्थ इति दशर्चं प्रथमं सूक्तमात्रेयस्य पौरनाम्न आर्षमानुष्टुभमाश्विनं । अनुक्रांतं च । यदद्य दश पौर
+> अश्विनं तदानुष्टुभं त्विति । तदित्युक्तत्वादिदमादीनि षट् सूक्तान्याश्विनानि । आनुष्टुभं
+> त्विति तुशब्दादिदमुत्तरं च द्वे आनुष्टुभे ॥ प्रातरनुवाक आश्विने क्रतावानुष्टुभे
+> छंदस्याश्विनशस्त्रे चेदमादिके द्वे सूक्ते । यदद्य स्थ इति सूक्ते । आ. ४-१५ । इति
+> सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+In the sixth anuvāka there are fifteen sūktas. Of them the first, beginning "yad adya stha", has ten ṛcs; its seer is Paura Ātreya, its metre is Anuṣṭubh and its deity is the Aśvins. The Anukramaṇikā says so. Because the word "tat" is used there, this and the following five sūktas are addressed to the Aśvins. Because of the word "tu" in the Anukramaṇikā's phrase, this and the next sūkta are in Anuṣṭubh. The use: at the Prātaranuvāka, for the Anuṣṭubh verses connected with the Aśvin rite, and for the Aśvin śastra, the two sūktas beginning "yad adya stha" are used, as the sūtra of Āśvalāyana states (Ā. 4-15).
+
+##### Anuvāda
+
+In the sixth anuvāka there are fifteen sūktas. Of them, "Yad adya sthaḥ" is the first sūkta. It contains ten ṛcs. Its seer is Paura Ātreya; the Aśvin deities are the deity; the metre is Anuṣṭubh. In the Anukramaṇikā it is said: "Yad adya daśa paura āśvinaṃ tad ānuṣṭubhaṃ tu". Since the word *tat* is used in the Anukramaṇikā, the six sūktas from this one onwards are to be understood as addressed to the Aśvin deities; since it says *anuṣṭubhaṃ tu*, this sūkta and the next one are to be understood as in the Anuṣṭubh metre.
+### Printed p. 80
+At the time of reciting the Prātaranuvāka mantras, this sūkta and the next are used for the Anuṣṭubh ṛcs connected with the Aśvin rite and for the Aśvin śastra mantras, as explained in the sūtra of the Āśvalāyana Śrauta-sūtra, "Yad adya stha iti sūkte" (Ā. 4-15).
+
+##### Particulars
+
+- Sūkta 73
+- Maṇḍala 5; Anuvāka 6; Sūkta 73
+- Aṣṭaka 4; Adhyāya 4; Varga 11, 12
+- Number of ṛcs in the sūkta: 10
+- Seer: Paura Ātreya
+- Deity: the Aśvins
+- Metre: Anuṣṭubh
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य स्थः प॑रा॒वति॒ यद॑र्वा॒वत्य॑श्विना ।  
+> यद्वा॑ पु॒रू पु॑रुभुजा॒ यदं॒तरि॑क्ष॒ आ ग॑तं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । स्थः । परावति । यत् । अर्वावति । अश्विना ।  
+> यत् । वा । पुरु । पुरुभुजा । यत् । अंतरिक्षे । आ । गतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुभुजा बहुषु यज्ञेषु भोक्तारावधिकं रक्षितारौ वा हे अश्विना
+> यद्यद्यद्यास्मिन् काले परावत्यत्यंतं दूरदेशे द्युलोके स्थो भवथः । यद्वा ।
+> अर्वावत्यरणवति गंतुं शक्ये प्रदेशेऽंतिके स्थः । यद्यदि ना अथवा पुरु बहुप्रदेशेषु स्थः । यद्यद्यंतरिक्षे स्थः तस्मात्सर्वस्मादद्या गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who enjoy in many sacrifices, or who protect more: if today, at this time, you are far away, that is in the distant heavenly world; or else, if you are near, in a place that can be reached; or if you are in many places; or if you are in the atmosphere: from all of these come today.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभुजा (*purubhujā*)—you who accept a share in many sacrifices
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अद्य (*adya*)—at the time of this sacrifice
+- यत् (*yat*)—if
+- परावति (*parāvati*)—in a very distant place
+- स्थः (*sthaḥ*)—you are
+- यत् (*yat*)—or
+- अर्वावति (*arvāvati*)—in a near place
+- यत् वा (*yat vā*)—or if
+- पुरु (*puru*)—in many places
+- यत् (*yat*)—not so, but
+- अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
+- आ गतं (*ā gataṃ*)—graciously come to us
+
 ---
 
-**Progress note:** Done through printed p. 74. Vol 20 pp. 69-74: 5.70.3-4, 5.71, start of 5.72
+**Progress note:** Done through printed p. 80. Vol 20 pp. 75-80: 5.72.1-3, introduction on the Aśvins, 5.73.1 start
