@@ -1343,6 +1343,276 @@ O Indra, showerer of desires: give us well that son who is most mighty and stron
 
 O Indra, showerer of desires: the son who is exceedingly mighty, a giver of delight to you by praise, an excellent sacrificer, and an offerer of oblations, and who, possessed of good horses, shall in battles destroy the enemies' good horses and defeat the hostile enemies: grant us such a son.
 
+### Printed p. 33
+
+##### English translation
+Showerer (of benefits), Indra, grant us a son who shall be most vigorous, a delighter (of you by praise), a pious sacrificer, a liberal giver, who mounted on a good steed, shall overthrow numerous good steeds, and conquer opposing enemies in combats.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां ही॒३॒ं॑३ द्राव॑से॒ विवा॑चो॒ हवं॑ते चर्ष॒णयः॒ शूर॑सात् ।  
+> त्वं विप्रे॑भि॒र्वि प॒णीर॑शाय॒स्वोत॒ इत्सनि॑ता॒ वाज॒मवर् ॥ २ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । हि । इंद्र । अवसे । विवाचः । हवंते । चर्षणयः । शूरसातौ ।  
+> त्वं । विप्रेभिः । वि । पणीन् । अशायः । त्वाऊतः । इत् । सनिता । वाजं । अर्वा॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां हि त्वामेव विवाचो विविधाः स्तुतिरूपा वाचो येषां
+> तादृशाश्वर्षणयो मनुष्याः शूरसात् शूरैः संभजनीये संग्रामेवसे
+> रक्षणार्थं हवंते । आह्वयंति । किंच त्वं विप्रेभिर्विप्रैर्मेधाविभिरंगिरोभिः
+> सार्धं पणीन् । वलस्यानुचरा असुराः पणयः । तान्वशायः । विशेषेणाशाययः।
+> हतवानित्यर्थः । अतस्तोत इत् त्वयोतो रक्षित एव सनिता संभक्ता पुरुषो
+> वाजमन्नमर्वाभिगंता भवति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, it is you alone whom men, who have various praises as their speech, call to their protection in the battle that is to be shared by heroes. And you, together with the wise Aṅgirases, destroyed the Paṇis, the asura followers of Vala; the meaning is that you slew them. Therefore the man who is protected by you, the one who shares in the worship, becomes one who obtains food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विनाचः (*vinācaḥ*)—men of various kinds of praises
+- चर्षणयः (*carṣaṇayaḥ*)—men
+- शूरसात् (*śūrasāt*)—in battle
+- अवसे (*avase*)—for protection
+- त्वां हि (*tvāṃ hi*)—you alone
+- हवंते (*havaṃte*)—they invoke with prayer
+- त्वं (*tvaṃ*)—you
+- विप्रेभिः (*viprebhiḥ*)—together with the wise Aṅgirases
+- पणीन् (*paṇīn*)—the Paṇis
+- वि आशायः (*vi āśāyaḥ*)—you destroyed
+- त्वोत इत् (*tvota it*)—only the man protected by you
+- सनिता (*sanitā*)—as your worshipper
+- वाजं (*vājaṃ*)—food
+- अर्वा (*arvā*)—obtains
+
+### Printed p. 34
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, men who have various kinds of praises invoke you alone with prayer for protection in battle. You, together with the wise Aṅgirases, destroyed the Paṇis. Only the man protected by you, as your worshipper, obtains food.
+
+##### English translation
+Men of various speech invoke you, Indra, for their defence in war ; you, with the sages, (the Angirasas), have slain the Panis : protected by you, the liberal (worshipper) obtains food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ता इं॑द्रो॒भया॑ अ॒मित्रा॒न्दासा॑ वृ॒त्राण्यार्या॑ च शूर ।  
+> वधी॒र्वने॑व॒ सुधि॑तेभि॒रत्कै॒रा पृ॒त्सु द॑र्षि नृ॒णां नृ॑तम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं! तान् । इंद्र । उभयान् । अमित्रान् । दासा । वृत्राणि । आर्या । च । शूर ।  
+> वधीः । वनाइव । सुधितेभिः । अत्कैः । आ । पृत्सु । दर्षि । नृणां । नृतम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं तानुभयानुभयविधानमित्रान् शत्रुन्वधीः । अहिंसीः । के त
+> उभयविधाः । दासोपक्षपयित्यन्नर्मविरोधिनो वलप्रभृतीनसुरान् ॥ सुपां
+> सुलुगिति शस आकारः ॥ आर्यायाणि कर्मानुष्ठातृत्वेन श्रेष्ठानि वृत्राण्यावरकाणि
+> विश्वरूपादीनि च तानुभयविधान् हे शूर त्वं हतवानित्यर्थः । नृणां नेतृणां
+> मध्ये नृतमातिशयेन नेतर्हे इंद्र पृत्सु संग्रामेषु सुधितेभिः सुष्टु निहितैरत्कैरात्मीयैरायुधैरा दर्षि । अन्यानपि शत्रुनादृणासि । विदारयसि । तत्र दृष्टांतः।
+> वनेव वनानीव । यथा वृक्षजातानि कुठारादिभिश्चिनत्ति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you slew those enemies of both kinds. Which are the two kinds? The Dāsas, the destroyers, who are opposed to the rites, Vala and the other asuras; and the Āryas, who are excellent through the performance of rites, and the Vṛtras, the obstructers, Viśvarūpa and the others. Those enemies of both kinds, O hero, you have slain. O Indra, most leader-like among leaders, in battles you cleave with your well-placed weapons; you tear apart other enemies also. The illustration: like forests; as a man cuts the growths of trees with axes and the like, so you do. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- दासा (*dāsā*)—those opposed to the rites
+- आर्या (*āryā*)—those belonging to the group of the Āryas
+- वृत्राणि (*vṛtrāṇi*)—and pervading
+- तान् उभयान् (*tān ubhayān*)—those two kinds of
+
+### Printed p. 35
+
+- अमित्रान् (*amitrān*)—enemies
+- वधीः (*vadhīḥ*)—you have slain
+- नृणां (*nṛṇāṃ*)—among leaders
+- नृतम (*nṛtama*)—O Indra, the most excellent leader
+- पृत्सु (*pṛtsu*)—in battles
+- वनेव (*vaneva*)—as one splits trees with an axe
+- सुधितेभिः (*sudhitebhiḥ*)—sharpened
+- अत्कैः (*atkaiḥ*)—with weapons
+- आ दर्षि (*ā darṣi*)—you have split the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have slain the enemies of two kinds: the Dasyus, who are opposed to the rites, and those belonging to the group of the Āryas devoted to the rites, and pervading ones. O Indra, the most excellent leader among leaders, in battles you have split the enemies with sharpened weapons, as one splits trees with an axe.
+
+##### English translation
+You, hero, Indra, destroyed both (classes of) enemies, (both) Dasa and Arya, adversaries; chief leader of leaders, you cut your foes in pieces in battles with well-pleid weapons, as (wood-cutters fell) the forests.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं न॑ इं॒द्राक॑वाभिरू॒ती सखा॑ वि॒श्वायु॑रवि॒ता वृ॒धे भूः॑ ।  
+> स्व॑र्षाता॒ यद्ध्वया॑मसि त्वा॒ युध्यं॑तो ने॒मधि॑ता पृ॒त्सु  ॑
+> शूर ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । इंद्र । आकवाभिः । ऊती । सखा । विश्वआयुः । अविता । वृधे । भूः ।  
+> स्वःसाता । यत् । ह्वयामसि । त्वा । युध्यंतः । नेमधिता । पृथ्सु । शूर ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स तादृशस्त्वमकवाभिरकुत्सिताभिरूती ऊतिभी रक्षाभिर्नोऽस्माकं
+> वृधे वर्धनायाविता रक्षिता भूः । भव । तथा विश्वायुः सर्वतो गंता त्वमस्माकं
+> सखा च भव । नेमधिता । नेमशब्दोऽर्धवाची । उक्तं च । त्वो नेम इत्यर्थस्य ।
+> नि. ३-२० । इति । आर्धाः कतिपयाः पुरुषा धीयंत एष्विति नेमधितयः संग्रामाः ।
+
+##### Gist of the bhāṣya
+
+O Indra, such as you are, become the protector for our growth with unblamed protections. Likewise, be, as the one who goes everywhere, our friend. The word *nema* means "half"; it is said त्वो नेम इत्यर्थस्य (*tvo nema ityarthasya*) (Ni. 3-20). Battles are *nemadhiti*, because in them some half-number of men are laid down.
+
+### Printed p. 36
+
+> तादृशेषु पृत्सु पृतनासु संग्रामेषु युध्यंतो युद्धं कुर्वंतो वयं
+> स्वर्षाता स्वः सुष्वरणीयं धनं तस्य संभजनार्थं हे शूर त्वां यद्यदा
+> ह्वयामसि आह्वयामः तदानीं त्वमविता सखा च भवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In such battles, fighting, we call you, O hero, to share in the choicest wealth, *svar*; whenever we call you, at that time be our protector and friend. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः त्वं (*saḥ tvaṃ*)—you, such as you are
+- अकवाभिः (*akavābhiḥ*)—unblamed
+- ऊती (*ūtī*)—with protections
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for growth
+- अविता (*avitā*)—as protector
+- भूः (*bhūḥ*)—be
+- शूर (*śūra*)—O valiant Indra
+- नेमधिता (*nemadhitā*)—destroying some men
+- पृत्सु (*pṛtsu*)—in battles
+- युध्यंतः (*yudhyaṃtaḥ*)—fighting
+- स्वर्षाता (*svarṣātā*)—for the sake of the most excellent wealth
+- श्वा (*śvā*)—you
+- यत् (*yat*)—whenever
+- ह्वयामसि (*hvayāmasi*)—we invoke with prayer (then)
+- विश्वायुः (*viśvāyuḥ*)—you who move everywhere
+- सखा (*sakhā*)—be our friend
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, famous as you are, be our protector, with your unblamed protections, for our growth. O valiant Indra, whenever, fighting in battles that destroy some men, we invoke you with prayer for the sake of the most excellent wealth, then, you who move everywhere, be our friend.
+
+##### English translation
+Do you, Indra, who are all-pervading, be a friend, and a protector with irreproachable protections for our prosperity; when warring in number-thinning conflicts, we invoke you for the acquirement of wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू॒नं न॑ इंद्राप॒राय॑ च स्या॒ भवा॑ मृळी॒क उ॒त नो॑ अ॒भिष्टौ॑ ।  
+> इ॒त्था गृ॒णंतो॑ म॒हिन॑स्य॒ शर्म॑न्दि॒वि ष्या॑म॒ पार्ये॑ गो॒षत॑माः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नूनं । नः । इंद्र । अपराय । च । स्याः । भव । मृळीकः । उत । नः । अभिष्टौ ।  
+> इत्था । गृणंतः । महिनस्य । शर्मन् । दिवि । स्याम । पार्ये । गोसतमाः ॥ ५ ॥
+
+### Printed p. 37
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नूनमद्य नोऽस्माकं स्याः । अस्मदीयो भव । अपराय
+> चापरस्मिन्नन्यस्मिन्नपि कालेऽस्मदीयो भव। उतापि च त्वं नोऽस्माकमभिष्टावभिगमने
+> सति मृळीकः सुखयिता भव । इत्थेत्थमनेन प्रकारेण गृणंतः स्तुवंतो वयं
+> गोषतमा महिनस्य महतस्तव संबंधिनि दिवि द्योतमाने पार्ये दुःखस्य पारके
+> शर्मन् शर्मणि सुखे स्याम । वर्तमाना भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, be ours now, today; and in another time also be ours. Moreover, when we come to you, be gracious, a giver of happiness to us. Thus praising, we, who are great winners of cows, may we abide in the happiness that belongs to you, the great, in the shining and grief-removing refuge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नूनं (*nūnaṃ*)—now
+- नः (*naḥ*)—to us
+- स्याः (*syāḥ*)—be belonging
+- अपराय च (*aparāya ca*)—at another time also be belonging to us
+- उत (*uta*)—and
+- नः (*naḥ*)—to us
+- अभिष्टौ (*abhiṣṭau*)—as the giver of what is desired
+- मृळीकः (*mṛḷīkaḥ*)—giver of happiness to us
+- भव (*bhava*)—be
+- इत्या (*ityā*)—in this manner
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise
+- गोषतमाः (*goṣatamāḥ*)—as worshippers of cows
+- महिनस्य (*mahinasya*)—belonging to you, the great
+- दिवि (*divi*)—shining
+- पारै (*pārai*)—destroying grief
+- शर्मन् (*śarman*)—in happiness
+- स्याम (*syāma*)—may we abide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be ours now and at other times as well. Be the giver of what is desired and a giver of happiness to us. Thus praising, may we, as worshippers of cows, abide in the happiness that belongs to you, the great, which is shining and destroys grief.
+
+##### English translation
+Do you, Indra, now and at (all) other times be verily ours: be the bestower of happiness according to our condition : and in this manner, worshipping at dawn, and glorifying you, may we abide in the brilliant and unbounded felicity of you who are mighty.
+
+The thirty-fourth sūkta
+
+## Sūkta 34 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सं च त्वे जग्मुरिति पंचर्चमेकादशं सूक्तं शुनहोत्रस्यार्षं । सं च त्वे
+> इत्यनुक्रांतं ॥ तृतीये छांदोमिकेऽहनीदमादिके द्वे सूक्ते । सूत्रितं च । सं च
+> त्वे जग्मुरिति सूक्ते । आ. ८-७ । इति ॥ महाव्रतेऽपि निष्केवल्य उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning सं च त्वे जग्मुः (*saṃ ca tve jagmuḥ*) is the eleventh sūkta, with Śunahotra as its seer; the Anukramaṇī records it as सं च त्वे (*saṃ ca tve*). On the third Chandoma day two sūktas beginning with this one are to be recited. It is laid down in the sūtra सं च त्वे जग्मुरिति सूक्ते (*saṃ ca tve jagmuriti sūkte*) (Ā. 8-7). The application to the Niṣkevalya litany in the Mahāvrata has also been stated.
+
+### Printed p. 38
+
+Anuvāda: This sūkta, beginning with सं च त्वे जग्मुः (*saṃ ca tve jagmuḥ*), is the eleventh sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Śunahotra; Indra is the deity; the metre is Triṣṭup. In the Anukramaṇī it is stated as सं च त्वे (*saṃ ca tve*). That this sūkta and the following ones are to be recited on the day of reciting the third Chandoma mantras is explained in the Āśvalāyana Śrauta Sūtra by the sūtra सं च त्वे जग्मुरिति सूक्ते (*saṃ ca tve jagmuriti sūkte*) (Ā. 8-7). In the rite called Mahāvrata also the sūkta is applied to the Niṣkevalya-śastra mantras.
+
+Sūkta 34. Maṇḍala 6. Anuvāka 3. Sūkta 34. Aṣṭaka 4. Adhyāya 7. Varga 6. Number of Ṛks in the sūkta: 5. Seer: Śunahotra. Deity: Indra. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं च॒ त्वे ज॒ग्मुर्गिर॑ इंद्र पू॒र्वीर्वि च॒ त्वद्यं॑ति वि॒भो॑  ॒
+> मनीषाः ।  
+> पु॒रा नू॒नं च॑ स्तु॒तय॒ ऋषी॑णां पस्पृ॒ध्र इंद्रे॒ अध्यु॑क्था॒र्का ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । च । त्वे इति । जुग्मुः । गिरः । इंद्र । पूर्वीः । वि । च । त्वत् । यंति । विभ्वः ।  
+> मनीषाः ।  
+> पुरा । नूनं । च । स्तुतयः । ऋषीणां । पस्पृध्रे । इंद्रे। अधि । उक्तअर्का ॥ १॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वे त्वयि पूर्विर्बहो गिरः स्तुतयश्च सं जग्मुः । संगच्छंते ।
+> त्वत्त्वत्तो विभ्वो विभवो विस्तृता मनीषाः स्तोत्यणां मतयश्च वि यंति । विविधं
+> निर्गच्छंति । शेषः परोक्षकृतः । पुरा पूर्वस्मिन्काले नूनमद्य च ऋषीणामतीं-
+
+##### Gist of the bhāṣya
+
+O Indra, many words, that is, praises, come together in you. From you wide-ranging thoughts of the singers, that is, their minds, go forth in many ways. In earlier time, and today, of the seers…
+
 ---
 
-**Progress note:** Done through printed p. 32. Sūkta 32 Ṛk 2-5, Sūkta 33 intro and Ṛk 1
+**Progress note:** Done through printed p. 38. Sūkta 33 Ṛk 1 (end) to 5, Sūkta 34 intro and Ṛk 1 (to bhāṣya)
