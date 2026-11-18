@@ -18,7 +18,7 @@ User decisions (Nov 18 2026): direct translation from Sāyaṇa's Sanskrit; **Fa
 - When the agent reports: `python3 tools/rv/bhashya_run.py status`; `verify N m.s` for each sūkta it names; confirm its commits in `git log`. Append one line per agent to `volN/parts/bhashya_costs.md` (sūktas, model, total agent tokens, NOTE and readings counts). A file that is not VERIFIED is removed (`git rm`) so `next` gives the sūkta out again.
 - Never report a commit not seen in `git log`.
 - After each volume: `python3 publish/bhashya_book.py N --notes` (questions and logged readings to `volN/review/`), commit; update PUBLICATION_TODO T13.
-- Web: the environment allows `vishvasa.github.io`, `gretil.sub.uni-goettingen.de`, `sanskritdocuments.org`, `ashtadhyayi.com` (added Nov 18 2026 with the user's approval).
+- Reference text: `tools/rv/sayana_ref.py M S` prints Sāyaṇa's bhāṣya from vishvasa.github.io (only his sections). The environment allows `vishvasa.github.io`, `gretil.sub.uni-goettingen.de`, `sanskritdocuments.org`, `ashtadhyayi.com` (added Nov 18 2026 with the user's approval); pages open with `curl`, not with the WebFetch tool.
 
 ## Spot checks (the form check cannot judge meaning)
 For the first sūkta of each volume, and about one sūkta in ten after that, the dispatcher reads two Ṛks of the English against the Sanskrit block. Kinds of error found on Sonnet's pilot (Sūkta 3.40) and now named in the brief: a gloss Sāyaṇa does not give; an epithet attached to the wrong word; a lost causative, particle or possessive; dictionary sense in place of Sāyaṇa's gloss. A sūkta with such errors is redone, and the brief is extended if the error is of a new kind.
