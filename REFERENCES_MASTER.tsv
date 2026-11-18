@@ -512,8 +512,8 @@ Devanagari	ऋग्वि.		Ṛgvi.	Devanagari read as ṛgvi.; known spelling 
 Devanagari	ऐ. ब्रां.		Ai. Brā.	Devanagari read as ai. brāṃ.; known spelling of Ai. Brā.	high	yes	6																	6
 Devanagari	छा. उ.		Chā. U.	Devanagari read as chā. u.; same letters; only capitals, dots or spaces differ	high	yes	5								1			2	1	1				
 Devanagari	सा.			Devanagari read as sā.; too short to tell: could be Sā. Saṃ.	none		5												1		2	2		
-Devanagari	कृ. सं.			Devanagari read as kṛ. saṃ.; no list form close to it	none		5													4		1		
-Devanagari	कृ. उ.			Devanagari read as kṛ. u.; no list form close to it	none		5													5				
+Devanagari	कृ. सं.		Tai. Saṃ.	Devanagari read as kṛ. saṃ.; known spelling of Tai. Saṃ. (capitals/dots differ)	high	yes	5													4		1		
+Devanagari	कृ. उ.		Tai. U.	Devanagari read as kṛ. u.; known spelling of Tai. U. (capitals/dots differ)	high	yes	5													5				
 Devanagari	पू. मी.		Jai. Sū.	Devanagari read as pū. mī.; known spelling of Jai. Sū. (capitals/dots differ)	high	yes	4	4																
 Devanagari	पा. म.		M.	Devanagari read as pā. ma.; user, Nov 18 2026 (later word): Pā. Ma. and पा. म. are the Mahābhāṣya	high	yes	4		3									1						
 Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form close to it	none		4		1			1	1									1		
@@ -593,7 +593,7 @@ Devanagari	पु. उ.			Devanagari read as pu. u.; no list form close to it	no
 Devanagari	मुं. उं.		Mu. U.	Devanagari read as muṃ. uṃ.; known spelling of Mu. U.	high	yes	1												1					
 Devanagari	कठ.		Ka. U.	Devanagari read as kaṭha.; known spelling of Ka. U.	high	yes	1												1					
 Devanagari	आ. ।. ऋ.			Devanagari read as ā. |. ṛ.; no list form close to it	none		1													1				
-Devanagari	कृ. आ.			Devanagari read as kṛ. ā.; no list form close to it	none		1													1				
+Devanagari	कृ. आ.		Tai. Ā.	Devanagari read as kṛ. ā.; known spelling of Tai. Ā. (capitals/dots differ)	high	yes	1													1				
 Devanagari	पा. सा.		Pā. Sū.	Devanagari read as pā. sā.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	1													1				
 Devanagari	मु. वं.			Devanagari read as mu. vaṃ.; no list form close to it	none		1													1				
 Devanagari	म. प.			Devanagari read as ma. pa.; no list form close to it	none		1													1				
@@ -609,7 +609,7 @@ Devanagari	कृ. ब्रा.			Devanagari read as kṛ. brā.; no list form 
 Devanagari	कौ. ब्रा.		Kau. Brā.	Devanagari read as kau. brā.; same letters; only capitals, dots or spaces differ	high	yes	1													1				
 Devanagari	मं. सं.			Devanagari read as maṃ. saṃ.; no list form close to it	none		1													1				
 Devanagari	बृ. डी.			Devanagari read as bṛ. ḍī.; no list form close to it	none		1													1				
-Devanagari	बृ. पे.		Bṛ. De.	Devanagari read as bṛ. pe.; known spelling of Bṛ. De. (capitals/dots differ)	high		1													1				
+Devanagari	बृ. पे.		Bṛ. De.	Devanagari read as bṛ. pe.; known spelling of Bṛ. De. (capitals/dots differ)	high	yes	1													1				
 Devanagari	उ. सं.			Devanagari read as u. saṃ.; no list form close to it	none		1													1				
 Devanagari	च. उ. सू.			Devanagari read as ca. u. sū.; no list form close to it	none		1													1				
 Devanagari	ऋग्विधान.		Ṛgvi.	Devanagari read as ṛgvidhāna.; user, Nov 18 2026: …vidhāna. is the Ṛgvidhāna (ऋग्विधान); the first letters are misreadings (यग्, मुग्)	high		1													1				
