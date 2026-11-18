@@ -1575,6 +1575,264 @@ Inasmuch as you two are possessed of irresistible and Asura-subduing strength, t
 > ता वा॒मेषे॒ रथा॑नामु॒र्वीं गव्यू॑तिमेषां ।  
 > रा॒तह॑व्यस्य सुष्टु॒तिं द॒धृक्सोमै॑र्मनामहे ॥ ३ ॥
 
+### Printed p. 45
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । एषे । रथानां । उर्वीं । गव्यूतिं । एषां ।  
+> रात्‌हव्यस्य । सुस्तुतिं । दधृक् । स्तोमैः । मनामहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ ता तौ प्रसिद्धौ नां युवां रथानामस्मदीयानामेषां ।
+> पुरतो वर्तमानानामुर्विं प्रभूतां गव्यूतिमतिविस्तृतं मार्गमेषे गंतुं ।
+> मार्गरक्षणायेत्यर्थः ॥ तुमर्थेऽसेन्प्रत्ययः ॥ तदर्थं नां मनामहे स्तुमो
+> रातहव्यस्य ऋषे रातहव्यसंबंधिभिः सुष्टुतिं सुष्टुतिभिः शोभनस्तुतिसाधनैः
+> स्तोमैः दधृक् धर्षकौ युवां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Mitra and Varuṇa, "those well known ones, you". For the sake of our chariots that stand in front, for going along a broad, abundant and very extensive path (the meaning is: for the protection of the way), we praise you. We praise you with the praises of Rātahavya, that is, with the good praises, the means of good eulogy, connected with Rātahavya the seer, you who are bold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां रथानां (*eṣāṃ rathānāṃ*)—to these chariots of ours, in front
+- उर्विं (*urviṃ*)—wide
+- गव्यूतिं (*gavyūtiṃ*)—path
+- ऐषे (*aiṣe*)—in order to travel
+- रातहव्यस्य (*rātahavyasya*)—of the seer called Rātahavya
+- सुष्टुतिं (*suṣṭutiṃ*)—the excellent worship
+- स्तोमैः (*stomaiḥ*)—with his praises
+- दधृक् (*dadhṛk*)—those who accept
+- ता (*tā*)—who are well known
+- वां (*vāṃ*)—you
+- मनामहे (*manāmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, in order to travel while protecting the broad path in front of these chariots of ours, we praise you, who are well known and who accept the excellent worship of the seer called Rātahavya, together with his praises.
+
+##### English translation
+We glorify you both, that your chariots may precede ours by a long distance; accepting the pious worship of Rathahavya with (his) praises.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ हि काव्या॑ यु॒वं दक्ष॑स्य पू॒र्भिर॑द्भुता ।  
+> नि के॒तुना॒ जना॑नां चि॒के,थे॑ पूतदक्षसा ॥ ४ ॥
+
+### Printed p. 46
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । काव्या । युवं । दक्षस्य । पूःभिः । अद्भुता ।  
+> नि । केतुना । जनानां । चिकेथे इति । पूतदक्षसा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अपि च । हि प्रसिद्धौ । काव्या स्तुत्यौ युवं युवां दक्षस्य प्रवृद्धस्य मम
+> पूर्भिः पूरकैः स्तवैर्हे अद्भुतामहांतावाश्चर्यभूत् संतौ केतुना प्रज्ञानेनानुकूलेन मनसा जनानां । यजमानानामित्यर्थः । स्तोत्रं नि चिकेथे । नितरां
+> जानीथः । हे पूतदक्षसा शुद्धबलौ युवां ॥
+
+##### Gist of the bhāṣya
+
+"Moreover": you two, well known and praiseworthy, with the fulfilling praises of me, who am grown strong, O wonderful ones, that is, great and marvellous beings, know thoroughly, with a favourable understanding and mind, the praise of the people, that is, of the sacrificers. The meaning is: you know it fully. O you of pure strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—moreover
+- काव्या (*kāvyā*)—worthy of praise
+- पूतदक्षसा (*pūtadakṣasā*)—possessed of purified strength
+- दक्षस्य (*dakṣasya*)—of me, who am strong (and worship you)
+- पूर्भिः (*pūrbhiḥ*)—with gratifying praises
+- अद्भुता (*adbhutā*)—astonished ones
+- युवं (*yuvaṃ*)—you
+- जनानां (*janānāṃ*)—of these sacrificers, also the praise
+- केतुना (*ketunā*)—with a gracious understanding
+- नि चिकेथे (*ni cikethe*)—know fully (and be gratified)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, worthy of praise and possessed of purified strength, astonished by the gratifying praises of me, who am strong and worship you, know fully, with a gracious understanding, the praise of these sacrificers also, and be gratified.
+
+##### English translation
+Now, adorable and wonderful deities, (propitiated) by the former (praises) of (me, your) worshipper, do you, who are of pure vigour, consider with approving minds (the adoration) of these men
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्व॒तं पृ॑थिवि बृ॒हच्छ्र॑वए॒ष ऋषी॑णां ।  
+> ज्र॒य॒सा॒नावरं॑ पृ॒थ्विति॑ क्षरंति॒ याम॑भिः ॥ ५ ॥
+
+### Printed p. 47
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । ऋतं । पृथिवि । बृहत् श्रवः एषे । ऋषीणां ।  
+> ज्रयसान् । अरं । पृथु । अति । क्षरंति । यामभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पृथिवि देवि त्वयि तत्सर्वैरर्थ्यमानत्वेन प्रसिद्धं बृहत् प्रभूतमृतमुदकमृषीणां स्तोत्यणामस्माकं श्रवएषेऽन्नस्यैषणे सति जयसान् गच्छंतौ ॥
+> छंदस्यसानच् शुज्य भ्यां । उ. २-८६ । इत्यसानच् ज्रयतेरपि भवति । चित इत्यंतोदात्तः । अरमलमत्यर्थं पृथु यथा भवति तथा यामभिर्गमनैरति क्षरंति । अत्यर्थं
+> वर्षतः ॥ व्यत्ययेन बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+"O goddess Earth, in you" there is that well-known great water, sought by all, belonging to the seers, that is, to us the praisers. When the search for food is on, those two who go swiftly pour down rain exceedingly, sufficiently and abundantly, by their movements. The plural number is by the substitution of number (vyatyaya).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथिवि (*pṛthivi*)—O Earth
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- श्रवएषे (*śravaeṣe*)—that which is chief for obtaining food
+- बृहत् (*bṛhat*)—abundant
+- तत् (*tat*)—well known
+- यतं (*yataṃ*)—the water**NOTE**
+- ज्रयसान् (*jrayasān*)—Mitra and Varuṇa, who move swiftly
+- यामभिः (*yāmabhiḥ*)—by their movements
+- आरं (*āraṃ*)—so as to be a means of satisfaction
+- पृथु (*pṛthu*)—abundantly
+- अति क्षरंति (*ati kṣaraṃti*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Earth, Mitra and Varuṇa, who move swiftly, pour down abundantly, by their movements, the well-known and abundant water, chief for obtaining food for the seers, so that it becomes a means of satisfaction for all.
+
+##### English translation
+Earth. in you is abundant water for the necessities of the Rishis : the two active (deities) dispense by thcir movements sufficiently copious (rain).
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्वा॑मीयचक्षसा॒ मित्र॑ व॒यं च॑ सू॒रयः॑ ।  
+> व्यचि॑ष्ठे बहु॒पाय्ये॒ यते॑महि स्व॒राज्ये॑ ॥ ६ ॥
+
+### Printed p. 48
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । मां । ईयचक्षसा । मित्रा । वयं । च । सूरयः ।  
+> व्यचिष्ठे । बहुपाय्ये । यतेमहि । स्वराज्ये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ईयचक्षसा व्याप्तदर्शनौ हे मित्रा मित्रावरुण् नां युवां यत् ये
+> वयं च सूरयः स्तोतार आ आह्वयामः । व्यचिष्ठेत्यंतविस्त्यते बहुपाय्कॆ
+> बहुभिर्गंतव्ये बहुभी रक्षितव्ये वा स्वराज्ये स्वराट् त्वाय एवंविधराज्यार्थं
+> यतेमहि । गच्छेम ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, of far-reaching sight, we who are the sūris, the praisers, call upon you. For the sake of such a kingdom of our own rule, that is, a kingdom to be entered by many or protected by many, we strive, that is, we go. Sāyaṇa glosses "vyaciṣṭhe" as very extensive.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईयचक्षसा (*īyacakṣasā*)—possessed of a power of sight that pervades the whole universe
+- मित्रा (*mitrā*)—O Mitra and Varuṇa
+- सूरयः (*sūrayaḥ*)—praisers
+- यत् वयं (*yat vayaṃ*)—we, who are your devotees
+- आ (*ā*)—call upon you
+- व्यचिष्ठे (*vyaciṣṭhe*)—very extensive
+- बहुपाय्कॆ (*bahupāykè*)—entered by many
+- स्वराज्ये (*svarājye*)—for entering your kingdom
+- यतेमहि (*yatemahi*)—we strive
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, whose power of sight pervades the whole universe, we, the praisers and your devotees, call upon you. We strive to enter your kingdom, which is very extensive and entered by many.
+
+##### English translation
+We and the devout (iuvoke) you, Mitra and Varuna, who are farseeing: may we proceed to your spacious and much frequented kingdom.
+### Printed p. 49
+## Sūkta 67 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बळित्था देवेति पंचर्चमेकादशं सूक्तं । अत्रेयमनुक्रमणिका । बळित्था
+> पंच यजत इति । यजतो नामात्रेय ऋषिः । मित्रावरुणौ देवता । आनुष्टुभं
+> त्वित्युक्तत्वादिदमप्यानुष्टुभं । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This is the eleventh sūkta, "baḷitthā deva", consisting of five Ṛks. The Anukramaṇikā says: "baḷitthā pañca yajataḥ". The seer is Yajata, of the Atri family; the deity is Mitra and Varuṇa. Since "Ānuṣṭubhaṃ tu" has been said, this sūkta also is in the Anuṣṭubh metre. The application is by indication (laiṅgika).
+
+##### Anuvāda
+
+This sūkta beginning "baḷitthā deva" is the eleventh sūkta in the fifth anuvāka. It has five Ṛks. In the Anukramaṇikā it is said: "baḷitthā pañca jagataḥ".**NOTE** For this sūkta the seer is the one called Yajata Ātreya; the deity is Mitra and Varuṇa; the metre is Anuṣṭup. The application is by indication.
+
+##### Particulars
+
+- Sūkta 67
+- Maṇḍala 5; Anuvāka 5; Sūkta 67
+- Aṣṭaka 4; Adhyāya 4; Varga 5
+- Number of Ṛks in the sūkta: 5
+- Seer: Yajata Ātreya
+- Deity: Mitrāvaruṇā
+- Metre: Anuṣṭup
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळि॒त्था दे॑व निष्कृ॒तमादि॑त्या यज॒तं बृ॒हत् ।  
+> वरु॑ण॒ मित्रार्य॑म॒न्वर्षि॑ष्टं क्ष॒त्रमा॑शाथे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । इत्था । देवा । निःकृतं । आदित्या । यजतं । बृहत् ।  
+> वरुण । मित्र । आर्यमन् । वर्षिष्ठं । क्षत्रं । आशाथे इति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा द्योतमान् हे आदित्यादितेः पुत्रौ हे वरुण हे अर्यमन्
+> अरीणां नियमितर्मित्र देव युवां बट् सत्यं निष्कृतमबाध्यमित्थेत्थमिदानीं-
+> XX. 4
+
+##### Gist of the bhāṣya
+
+O shining ones, O sons of Aditi, O Varuṇa, O Aryaman, the restrainer of enemies, O divine Mitra: you, in truth, in the way that obtains at present, have attained a strength that is flawless, that is, not to be obstructed.
+### Printed p. 50
+
+> वर्तमानप्रकारेण यजतं यष्टव्यं बृहदतिप्रवृद्धं वर्षिष्ठं प्रवृद्धतमं क्षत्रं
+> बलमाशाथे । आश्नुवाथे । यद्वार्यमा पृथगेव निर्देष्टव्यः । द्विवचनं
+> बहुवचनीकर्तव्यं ॥
+
+##### Gist of the bhāṣya
+
+The strength you have attained is adorable, that is, worthy of worship, great, that is, exceedingly grown, and most vast; āśāthe means "you obtain". Or else Aryaman is to be indicated separately. The dual number is to be made plural.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—shining ones
+- आदित्या (*ādityā*)—sons of Aditi
+- वरुण अर‍्यमन् मित्र (*varuṇa aryaman mitra*)—O deities named Varuṇa, Aryaman and Mitra
+- इत्था (*itthā*)—at this time of sacrifice
+- बट् (*baṭ*)—truly
+- निष्कृतं (*niṣkṛtaṃ*)—without deficiency
+- यजतं (*yajataṃ*)—worthy of worship
+- बृहत् (*bṛhat*)—abundant
+- वर्षिष्ठं (*varṣiṣṭhaṃ*)—exceedingly grown
+- क्षत्रं (*kṣatraṃ*)—strength
+- आशाथे (*āśāthe*)—you have attained
+
+##### भावार्थ (Bhāvārtha)
+
+O shining ones, sons of Aditi, O deities named Varuṇa, Aryaman and Mitra, at this time of sacrifice you have attained a strength that is true, without deficiency, worthy of worship, abundant and exceedingly grown.
+
+##### English translation
+Divine sons of Aditi, Mitra, Varuna, Aryaman, verily you are posessed at the present time, of perfect, adorable, vast, exceeding strength.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्योनिं॑ हिर॒ण्ययं॒ वरु॑ण॒ मित्र॒ सद॑थः ।  
+> ध॒र्तारा॑ चर्षणी॒नां यं॒तं सु॒म्मं रि॑शादसा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । योनिं । हिरण्ययं । वरुण । मित्र । सदथः ।  
+> धर्तारा । चर्षणीनां । यंतं । सुम्नं । रिशादसा ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 44. Sukta 65 Rks 4-6; Sukta 66 Rks 1-2, Rk 3 samhita (pp. 39-44)
+**Progress note:** Done through printed p. 50. Vol 20 pp. 45-50: MM 5.66 Rk 3-6, 5.67 Rk 1-2 start
