@@ -17152,6 +17152,235 @@ Besides this, in the Śatapatha Brāhmaṇa there is also an indication of the p
 
 Yāska has given an etymology of this Ṛk: था इति च । तं प्रत्नथा पूर्वथा विश्वथेमथा । प्रत इव पूर्व इव विश्व इवेम इवेति अयमेततरोऽमुष्मात् । असावस्ततरोऽस्मात् । अमुथा यथासाविति वाख्यातं ॥ (*thā iti ca | taṃ pratnathā pūrvathā viśvathemathā | prata iva pūrva iva viśva ivema iveti ayametataro 'muṣmāt | asāvastataro 'smāt | amuthā yathāsāviti vākhyātaṃ ‖*)
 
+### Printed p. 459
+
+Here, in order to explain also the meaning of the word or particle था (*thā*), Yāska has taken this very Ṛk as his example, and has explained what the particle था (*thā*) conveys in the words प्रत्नथा (*pratnathā*), पूर्वथा (*pūrvathā*), विश्वथा (*viśvathā*) and इमथा (*imathā*) that occur in this Ṛk. The meaning of अमुथा (*amuthā*) has already been given earlier: it means यथासौ (*yathāsau*), "like this". Here too the particle था (*thā*) must be given the meaning "like". In the word प्रत्नथा (*pratnathā*) the first part means ancient **NOTE**; therefore प्रत्नथा (*pratnathā*) means "like the ancients" or "as before". In the same way पूर्वथा (*pūrvathā*) means "like the former", विश्वथा (*viśvathā*) "like everything", इमथा (*imathā*) "like the present": such are the meanings of these words. Now, for the word अयं (*ayaṃ*) the explanation is "nearer than another object", that is, "this", "this object"; for that reason, when we point to an object that is near, we say अयं (*ayaṃ*), "this". In the same way, for the word असौ (*asau*) the explanation is अस्ततरः (*astataraḥ*), that is, "farther than this (than the object that is near)". Therefore, when we point to an object that is far away, we say असौ (*asau*), "that".
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒ये सु॒दृशी॒रुप॑रस्य॒ याः स्व॑र्वि॒रोच॑मानः क॒कुभा॑मचो॒दते॑ ।  
+> सु॒गो॒पा अ॑सि॒ न दभा॑य सुक्रतो प॒रो मा॒याभि॑ऋ॒त ॒॑ ॑
+> आस नाम ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रिये । सुदृशीः । उपरस्य । याः । स्वः । विरोचमानः । ककुभां । अचोदते ।  
+> सुगोपाः । असि । न । दभाय । सुक्रतो इति सुक्रतो । परः । मायाभिः । यते ।  
+> आस । नाम । ते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्वः स्वर्गे निरोचमानस्त्वमचोदतेऽप्रेरयितुः ॥ षष्ठ्यर्थे
+> चतुर्थी ॥ उपरस्य मेघस्य संबंधिन्यः सुदृशीः सुरोचमाना या आपः संति तासा-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra: "O Indra, you who shine in heaven." He explains that the dative form of the word for "impeller" is used in the sense of the genitive (the Ṛk speaks of one who impels). The waters here are those connected with the cloud, beautiful and well shining, and the word for the quarters means all the directions; in the midst of them Indra is to be an impeller for the welfare of living beings, that is, for their finding refuge in them (the verb "be" is to be supplied).
+
+### Printed p. 460
+
+> मपां ककुभां सर्वासां दिशां मध्ये श्रिये प्राणिनां श्रयणाय प्रेरको भवेति
+> शेषः । हे सुक्रतो शोभनवृष्टिप्रदानादिकर्मकेंद्र त्वं सुगोपाः प्राणिनां
+> सुष्टु गोपायितासि । अतो न दभाय न दंभनाय वधाय प्राणिनां नासि । न
+> प्रभवसि । त्वं च मायाभिरासुरीभिः परो मायाभ्यः परस्ताद्वर्तमानः । यस्मात्ते
+> त्वदीयं नाम नामकं रूपमृते सत्यलोक आस आस्ते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: "O Indra of good works, whose acts are such as the granting of excellent rain, you are the good protector of living beings; therefore you are not for harming or destroying them: you are not able to do so. And you stand beyond the demonic delusions, abiding above them; for your name, your designation and form, abides in the world of truth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वः (*svaḥ*)—in heaven
+- विरोचमानः (*virocamānaḥ*)—you who shine
+- उपरस्य (*uparasya*)—connected with the cloud
+- सुदृशीः (*sudṛśīḥ*)—and attractive
+- याः (*yāḥ*)—whichever waters there are, them
+- ककुभां (*kakubhāṃ*)—in the interiors of all the quarters
+- श्रिये (*śriye*)—for the welfare of living beings
+- अचोदते (*acodate*)—you have impelled (to flow)
+- सुकृतो (*sukṛto*)—O Indra, who have excellent deeds
+- सुगोपाः असि (*sugopāḥ asi*)—you are the complete protector (of all beings)
+- दभाय (*dabhāya*)—for their destruction (as a means)
+- न (*na*)—(certainly) not
+- मायाभिः (*māyābhiḥ*)—than the demonic delusions
+- परः (*paraḥ*)—you are beyond them
+- ते (*te*)—your
+- नाम (*nāma*)—divine name
+- ऋते (*ṛte*)—in the world of truth
+- आस (*āsa*)—is established (is renowned)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who shine in heaven have impelled the waters that belong to the cloud and are attractive, so that they pervade the interiors of all the quarters and flow, and have brought welfare to all beings. O Indra of excellent deeds, you are the complete protector of all living beings; certainly you do not wish for their destruction. Your power surpasses the demonic delusions. Your divine name is established even in the world of truth.
+
+##### English translation
+You, (Indra), who are radiant in heaven, spread through the regions, for the good (of mankind) those the beautiful (waters) of the unyielding cloud : doer of good deeds, you are the preserver (of men), not (destined for their detriment : you are superior to all delusions ; your name abides in the world of truth.
+
+### Printed p. 461
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्यं॑ ह॒विः स॑चते॒ सच्च॒ धातु॒ चारि॑ष्टगातुः॒ स होता॑  ॒॑
+> सहोभरिः ।  
+> प्र॒सर्र्॑णो॒ अनु॑ ब॒र्हिर्वृषा॒ शिशु॒र्मध्यॆ॒ युवा॒जरो॑  
+> वि॒स्सुहा॑ हि॒तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्यं । हविः । सचते । सत् । च । धातु । च । अरिष्टगातुः । सः । होता ।  
+> सहःभरिः ।  
+> प्रसर्र्णः । अनु । बर्हिः । वृषा । शिशुः । मध्यॆ । युवा । अजरः । विस्सुहा ।  
+> हितः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमाग्नेया होतृत्वयुवत्वादिलिंगैः । आयमग्निरत्यं सततमतनार्हं
+> हविराज्यादिकं सचते । सेवते । कीदृशं हविः । सत् । सत्पलसाधनत्वाद्धविरपि सत् ।
+> धातु च धारकं सर्वस्य । हूयमानस्य हविष आदित्यद्वारा वृष्टिसाधनत्वात् तया च
+> वृष्ट्या प्रजोत्पत्तेर्धारकत्वं । तथा हि । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ।
+> आदित्याज्ञायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः । मनु. ३. ७६. । इति । अरिष्टागातुरहिंसितगमनः । सति तस्य गमने यज्ञनिष्पत्ता फलसिद्धेररिष्टगमनत्वं । तदेवाह ।
+> स खलु होता होमनिष्पादकः सहोभरिर्बलस्य भर्ता बर्हिरनु प्रसस्राणः
+> प्रकर्षण सरन् वृषा वर्षकः फलस्य शिशुः स इव रक्षणीयोऽप्रौढो वा युवा
+> सवत्र मिश्रयिताजरो जरारहितो विस्सुहा विस्सुहाणामोषधीनां मध्यॆ हितो
+> निहितः स्थापितः । एवंभूतः सचते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk is addressed to Agni, as the marks of being the Hotṛ priest, being a youth and the like show. This Agni partakes of the perpetual oblation, the ghee and the rest, that is fit to be offered continually. What kind of oblation? A good one: since it is the means of a good result, the oblation too is good. It is also the sustainer of all: the oblation poured into the fire is the means of rain through the sun, and through that rain creatures are born, so it is the sustainer. For so it is said: the offering properly cast into the fire reaches the sun; from the sun rain arises, from rain food, and from that creatures (Manu. 3. 76). Agni is of unharmed course, because when he moves the sacrifice is accomplished and its fruit obtained. Sāyaṇa then says the same thing again of him: he is the Hotṛ, the accomplisher of the offering; the bearer of strength; gliding forth over the sacred grass; the showerer, who rains down the fruit; a child, to be protected like one, or else immature; a youth, who mingles with everything; free from old age; and placed in the midst of the plants. Such a one partakes of the oblation. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरिष्टगातुः (*ariṣṭagātuḥ*)—of unharmed course
+- होता (*hotā*)—accomplisher of the offering
+- सहोभरिः (*sahobhariḥ*)—bearer of strength
+- वृषा (*vṛṣā*)—showerer of desires
+- शिशुः (*śiśuḥ*)—newly born
+
+### Printed p. 462
+
+- युवा (*yuvā*)—youthful
+- अजरः (*ajaraḥ*)—free from decay
+- विस्तुहा (*vistuhā*)—of the plants
+- मध्यॆ (*madhyè*)—in the midst
+- हितः (*hitaḥ*)—one who is established
+- सः (*saḥ*)—Agni
+- बर्हिः अनु (*barhiḥ anu*)—upon the seat of sacred grass
+- प्रसर्त्राणः (*prasartrāṇaḥ*)—moving **NOTE**
+- धातु (*dhātu*)—that which sustains all
+- अत्यं च (*atyaṃ ca*)—and that which is to be offered continually
+- सत् च (*sat ca*)—and that which gives a good result
+- हविः (*haviḥ*)—the oblation
+- सचते (*sacate*)—partakes of
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is of unharmed course, the accomplisher of the offering, the bearer of strength, the showerer of desires, newly born, youthful, free from decay, and established in the midst of the plants, moving upon the seat of sacred grass, partakes of the oblation that sustains all, that is to be offered continually, and that gives a good result.
+
+##### English translation
+He, (Agni), is associated with the perpetual oblation that is the true (source of good); the sustainer of all, he is of unrestricted movement, the offerer (of burnt-offerings), the cherisher of strength: gliding especially over the sacred grass, the showerer (of benefits) ; an infant, a youth, exempt from decay, whose place is among plants.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र व॑ ए॒ते सु॒युजो॒ याम॑न्नि॒ष्टये॒ नीची॑र॒मुष्मै॑य॒म्य॑  ॒॑
+> ऋतावृधः ।  
+> सु॒यंतु॑भिः सर्वशा॒सैर॒भीशु॑भिः॒ क्रिवि॒र्नामा॑नि प्रव॒णे मु॑षायति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । एते । सुयुजः । यामन् । इष्टये । नीचीः । अमुष्मै । यम्यः ।  
+> ऋतावृधः ।  
+> सुयंतुभिः । सर्वशासैः । अभीशुभिः । क्रिविः । नामानि । प्रवणे । मुषायति ॥ ४ ॥
+
+### Printed p. 463
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा सौरी ना । एते रश्मयः सुयुजः सुष्टु परस्परं संयुक्ता यामन्यज्ञगमन इष्टय एषणाय नीचीः । नीचं गच्छंतीति शेषः । अमुष्मै यजमानाय
+> यन्नो यम्या गमनार्हाः । अथवा यमो नियमितादित्यः । तस्य संबंधिनः ।
+> ऋतावृधो यज्ञस्य वर्धयितारश्च । अयमादित्यः सुयंतुभिः सुगमनै: सर्वशास्यैः
+> सर्वस्य शासकैरभीशुभी रश्मिभिः क्रिविः कर्ता नामानि नामकान्युदकानि प्रवणे निम्मे
+> भूप्रदेशे मुषायति । मुष्णाति । आदत्त इत्यर्थः । अथवाग्निनावाह्यस्याग्नेरेतेऽश्वा
+> इष्टये यज्ञगमनाय यामनि रथे सुयुजः प्रगच्छंति । शिष्टं समानं । क्रिविः क्रिविसदृशोऽग्निः प्रवणे न मानि हवींष्युक्तलक्षणाभिर्ज्वालाभिर्मुषायति । आदत्ते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk is addressed to the sun **NOTE**. These rays are well joined with one another; at the going of the sacrifice, for its desire, they go downward (the verb is to be supplied). They are fit to go for this sacrificer. Or else the word for them refers to Yama, the restraining Āditya, and means those that belong to him; they are also the augmenters of the sacrifice. This Āditya, with these rays that go well and rule over all, is the doer: he takes the waters, the things so named, in the low ground; that is, he draws them to himself. Or else, Sāyaṇa gives another explanation: these are the horses of Agni, who is to be borne along by Agni, and for the sake of going to the sacrifice they proceed well yoked in the chariot; the rest is the same. Agni, like the active one, takes up the oblations with the flames of the kind described, in the low places **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः एते (*vaḥ ete*)—these rays of yours
+- सुयुजः (*suyujaḥ*)—well united with one another
+- अमुष्मै (*amuṣmai*)—for this sacrificer
+- यम्यः (*yamyaḥ*)—regulating, or belonging to Āditya
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—augmenting the sacrifice
+- यामन् (*yāman*)—in going to the sacrifice
+- इष्टये (*iṣṭaye*)—being desirous
+- नीचीः प्र (*nīcīḥ pra*)—(they) spread downward
+- सुयंतुभिः (*suyaṃtubhiḥ*)—having excellent spreading
+- सर्वशास्यैः (*sarvaśāsyaiḥ*)—governing the world
+- अभीशुभिः (*abhīśubhiḥ*)—with these very rays
+- क्रिविः (*kriviḥ*)—Āditya or Agni, who acts
+- नामानि (*nāmāni*)—the waters, or the oblation
+- प्रवणे (*pravaṇe*)—in your regions **NOTE**
+- मुषायति (*muṣāyati*)—draws to himself
+
+##### भावार्थ (Bhāvārtha)
+
+These rays of the sun or of Agni, well united with one another, spread downward, augmenting the sacrifice for this sacrificer, and being desirous of going to the sacrifice. With these same rays, which have excellent spreading and govern the world, Āditya or Agni, who acts, draws to himself all the waters that are in your regions.
+
+##### English translation
+These well-combined rays (of the sun) are descending with intent to proceed on the path (of the sacrifice), amplifiers of the ceremony for this (its institutor) : operating with these swift-moving, all-regulating rays, he' (Aditya), steals the waters (that flow) in low places.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk the commentator has explained the meaning in two ways, with reference to Āditya and with reference to Agni. Like the rays of the sun, the rays of the flame of fire also spread in every direction. The sun's
+
+### Printed p. 464
+
+rays draw up the waters that lie in low ground such as pits, that is to say, they make the water dry up. The rays of Agni, by means of the flame, draw up the oblations and other things offered in the sacrifice and carry them to the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं॒जर्भु॑राण॒स्तरु॑भिः सुते॒गृभं॑ वया॒किनं॑ चि॒त्तग॑र्भासु  ॒॑
+> सु॒स्वरुः॑ ।  
+> धा॒र॒वा॒केष्व॑जुगाथ शोभसे॒ वर्ध॑स्व॒ पत्नी॑र॒भि जी॒वो  ॒॑
+> अध्वरे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संजर्भुराणः । तरुभिः । स तेगृभं । वयाकिनं । चित्तगर्भासु । सुस्वरुः ।  
+> धारवाकेषु । ऋजुगाथ । शोभसे । वर्धस्व । पत्निः । अभि । जीवः । अध्वरे ॥ ५ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋजुगाथ शोभनस्तुतिकाग्ने तरुभिस्तरुविकारैर्ग्रह्यः सुतेगृभनुभिषुतेन
+> रसेन गृहीतं वयाकिनं । कुत्सिता वयाः शाखा वयाका लताः । तद्वंतं सोमं
+> चित्तगर्भासु चित्तग्राहिणेषु स्तुतिषु स्तुतिभिः सह संजर्भुराणो गृभन् गृण्णन्
+> सुस्वरुः शोभनगमनः शोभनस्तुतिको वा त्वं धारवाकेषु । धारयंति वाकान्
+> स्तोत्राणीति धारवाका ऋत्विग्यजमानाः । तेषु मध्यॆ शोभसे । किंचाध्वरे जीवः
+> सर्वस्य जीवयिता पत्नीः पालयित्रिरोषधीर्ज्वाला ना अभि अभिमुखं वर्धस्व ।
+> अभिवर्धय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni: "O Agni of straight and excellent praise." The Soma is described as taken up by the pressed juice, and as having creepers, for the word means bad branches, which are creepers; he refers to the Soma that has them **NOTE**. Agni, seizing and taking it up together with praises that charm the mind, being of good going or of good praise, shines among the holders of the praises, that is, among the priests and sacrificers who hold the utterances. Moreover, in the sacrifice, Agni is the life-giver of all; he is to grow towards the protecting herbs, the flames, and make them grow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजुगाथ (*ṛjugātha*)—O Agni, who are worshipped with faultless praise
+- तरुभिः (*tarubhiḥ*)—(filled) with vessels made of wood **NOTE**
+- सुतेगृभं (*sutegṛbhaṃ*)—that which is pressed and consists of juice
+- वयाकिनं (*vayākinaṃ*)—**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 458. Mandala 5 sukta 43 Rks 15-17, sukta 44 Rk 1, pp. 453-458
+**Progress note:** Done through printed p. 464. Sūkta 44 Ṛks 2-5 (pp. 459-464)
