@@ -41,7 +41,7 @@ def suggest(w):
         sh = numshape.get(w, collections.Counter()); tt = sum(sh.values()) or 1; share = sum(v for k, v in sh.items() if k >= 3) / tt
         if w in ('M.', 'म.', 'Ma.', 'ma.'): return ('M.', note + 'user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
         if share >= 0.8: return ('M.', note + f'Mahābhāṣya (user: M. / म.); {round(100 * share)}% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)', 'medium')
-    if w == 'Pā. Ma.': return ('M.', note + 'user, Nov 18 2026 (later word): Pā. Ma. is the Mahābhāṣya; the Devanagari पा. म. stays Pā. Sū. by the earlier word — to confirm', 'high')
+    if w in ('Pā. Ma.', 'पा. म.'): return ('M.', note + 'user, Nov 18 2026 (later word): Pā. Ma. and पा. म. are the Mahābhāṣya', 'high')
     if re.search('[\u0900-\u097f]', w) and re.match(r'pā\. \S', base): return ('Pā. Sū.', note + 'user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)', 'high')
     if w in ('Pā. Mabhā.', 'Pā. Mā.', 'Pā. Rū.', 'Pā. Saṃ.', 'Pā. su.', 'Pā. sū. Ma.', 'Pā. sū. ma.', 'Pā. sū. vārtti.'): return ('Pā. Sū.', note + 'user, Nov 18 2026: "Pāṇini sūtra as well" (the second word is a misreading or names the vārttika / Mahābhāṣya)', 'high')
     key = base if base in listforms else None
