@@ -36,6 +36,7 @@ def suggest(w):
     if re.search('[\u0900-\u097f]', w):
         base = dev2iast(w).replace('ṁ', 'ṃ'); note = 'Devanagari read as ' + base + '; '
         if not base: return ('', 'cannot transliterate', 'none')
+    if re.fullmatch(r'[IVXLC]+\.', w): return ('', 'retain: a Roman numeral is a maṇḍala number ("VII. 66-11" = maṇḍala VII, sūkta 66, ṛk 11), not a work (user, Nov 18 2026: "VII. - retain")', 'retain')
     if base in ('Ma.', 'ma.', 'M.'):
         sh = numshape.get(w, collections.Counter()); tt = sum(sh.values()) or 1; share = sum(v for k, v in sh.items() if k >= 3) / tt
         if w in ('M.', 'म.', 'Ma.', 'ma.'): return ('M.', note + 'user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
