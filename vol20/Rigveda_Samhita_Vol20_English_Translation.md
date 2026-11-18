@@ -292,6 +292,198 @@ In the 59th sūkta of the third maṇḍala of the Ṛk-saṃhitā Mitra alone i
 
 Approaching with reverence this Mitra, who makes men know their respective duties and impels them to those duties, and who favours the worshippers, one should offer to him a worship fit to win his favour.
 
+### Printed p. 13
+
+"Mitra, of great form, by his greatness surpasses even the atmosphere; by his power he has transcended the earth."
+
+"Even the five peoples beginning with the Niṣādas (or the Gandharvas and others) offer worship to Mitra, who is the support and the helper of the states and conditions of all the gods, the powerful benefactor." Thus there is one sūkta, in the form of praise, addressed to Mitra alone. (Ṛ. Saṃ. 3-59-1 to 8)
+
+The opinion of the German scholar Roth on the greatness of Mitra and Varuṇa.
+
+In the journal named Journal of the German Oriental Society this scholar has given his opinion about Mitra and Varuṇa in this way.
+
+"In the group of deities reckoned as the Ādityas, the relation of Mitra and Varuṇa to each other is a close one. The passages in which Mitra and Varuṇa are praised together are more numerous than those in which Varuṇa alone is praised. The sūkta that praises Mitra is only one (3-59). Whichever of the two is being described, the same epithets are applied to both; but in some passages of the Saṃhitā and other texts there are also occasions where the subtle difference between the two is explained. Mitra is the luminous one who shines in the atmosphere as the source of the day. Varuṇa, though he shines in the form of radiance as lord over all the world and all time, is praised chiefly as the presiding deity of night. For example, in a mantra composed by the sage Vasiṣṭha he is praised thus: 'O Varuṇa, of you two, one (you) are of unobstructed power and the most excellent guide of the path for all; Mitra gives vigour to all creatures and impels them to their duties.'"
+(7-36-2)
+
+That is to say, the capacity and the lordship of bringing delight and activity to the world, as the radiance of the day, giving vigour to all living beings, belong to Mitra. This is a limited authority. Even though Varuṇa is described as the presiding deity of night, his lordship is all-pervading and belongs to all times.
+
+"Although there is a limited description of his nature such as 'Varuṇa is the form of the setting sun' (7-87-1, Sā. Bhā.) **NOTE**, there is truth in that too. As the very name of Varuṇa indicates, he is a special radiance pervading the atmosphere. All existence in the world is contained within him, the all-pervading. His nature is infinite. Neither the human eye nor the imagination of the mind can comprehend such an infinite nature. This radiance, spread out most widely, cannot be reached by the eye in the time of the day
+
+### Printed p. 14
+
+time. At night the veil that covered Varuṇa disappears and his nature becomes known a little. Moreover, the other radiances that pervaded the atmosphere, the cloud and the space between heaven and earth also disappear. Therefore at this time Varuṇa alone, shining singly, becomes visible even to the eye."
+
+The relation of Varuṇa to the element of water.
+
+In the Ṛk-saṃhitā Varuṇa is not regarded as the presiding deity of the ocean. Nevertheless, in some passages a close relation is shown between Varuṇa and the water that pervades heaven and earth. These explanations indicate the propriety of the occasions in the Purāṇas and other works that describe the relation of Varuṇa to water and make known his extraordinary actions.
+
+"O Ṛbhus, sons of Śakti, the Maruts come from the heavenly world desiring you, Agni from the earth, Vāyu from the atmosphere, and Varuṇa from the waters of the atmosphere." (1-161-14)
+
+"O waters that are in the atmosphere and flow, for whose flowing channels have been dug and made ready, those that are self-produced, that run towards the ocean, that are shining and pure, protect us." (7-49-2)
+
+"May those waters protect us in whose midst the lord Varuṇa moves, watching the true and untrue dealings of men."
+
+May those waters, in whose midst the gods beginning with Varuṇa rejoice, protect us fully. (7-49-3, 4)
+
+"O lords, protectors of the sacrifice, masters of the ocean and the rivers, O Mitra and Varuṇa, graciously provide us food here and pour down rain from the atmosphere." (7-64-2)
+
+In the above mantra (7 49-3), in which he is described as "Varuṇa within the waters", the ocean that is mentioned must be the ocean of the atmosphere. In the Purāṇas and other works Varuṇa alone is described as connected with the ocean. But in the quoted mantra 7-64-2 it is understood that the epithet सिंधुपती (*siṃdhupatī*) is applied to Mitra and Varuṇa together. The prayer "pour down food and rain from the atmosphere" supports their lordship of the ocean. In the mantra 7-49-2 the waters indicated by या आपो दिव्या उत वा स्रवंति (*yā āpo divyā uta vā sravaṃti*) must be waters of the earth, in the opinion of the scholar Max Muller. Sāyaṇa
+
+### Printed p. 15
+
+though he does not generally designate Varuṇa as lord of the ocean (samudrapati) or lord of the rivers (sindhupati), explains, when interpreting mantras such as 1-161-14 and 8-69-12, that he is जलाभिमानी देवः (*jalābhimānī devaḥ*). In 8-41-8 Varuṇa is described as the ocean contained within (अपीच्यः समुद्रः (*apīcyaḥ samudraḥ*)). In some other places also it is described in the same way. For example—
+
+"O Varuṇa, as rivers flow and reach the fathomless depth below, so the seven rivers also flow into your jaw." (8-69-12)
+
+As it is said that Soma dwells in the plants, so Varuṇa also is praised as dwelling in the oceans and the like (वना वसानो वरुणः (*vanā vasāno varuṇaḥ*)). (9-90-2)
+
+The sentence of the Vājasaneyi-saṃhitā praises thus: "Varuṇa, the child of the waters, made his dwelling in the waters that are in the form of mothers" (अपां शिशुः (*apāṃ śiśuḥ*)). (Vā. Saṃ. 1-7)
+
+In the Atharvaveda also, of the mantras that make known the relation of Varuṇa to water, only the purport of some is given here.
+
+"May Varuṇa from the midst of the water, and Soma from the mountain region, call you." (Ā. Ve. 3-3-3) **NOTE**
+
+"O Varuṇa, as soon as you, my divine father, pour down rain, the streams breathe." (Ā. Ve. 4-15-12)
+
+"Varuṇa is the lord of the waters. Mitra and Varuṇa are the lords of rain." (Ā. Ve. 5-24-4)
+
+"O Varuṇa, your golden house is situated in the waters." (Ā. Ve. 7-83-1)
+
+In the Taittirīya-saṃhitā the relation of the waters to Varuṇa is stated in this way.
+
+आपो वरुणस्य पत्नय आसन्ता अग्निरभ्यध्यायत्तास्समभवत्तस्य रेतः परापतत्तदियमभवद्यद्वितीयं परापतत्तदसावभवदियं वै विराडसौ स्वराट् । ( (*āpo varuṇasya patnaya āsantā agnirabhyadhyāyattāssamabhavattasya retaḥ parāpatattadiyamabhavadyadvitīyaṃ parāpatattadasāvabhavadiyaṃ vai virāḍasau svarāṭ | (*)
+(Tai. Saṃ. 5-5-4-1)
+
+The waters are the wives of Varuṇa. Agni desired them and also obtained union with them. His seed was discharged. As the result of the first discharge, this earth came into being. As the result of the second discharge, the atmosphere came into being. It is said that this earth is the virāṭ and the atmosphere is the svarāṭ. In the Purāṇas and other works Varuṇa is praised as the lord of the oceans.
+
+### Printed p. 16
+
+Roth and Westergaard have set out the historical development of this idea, showing in what circumstances in history, and how, the relation of Varuṇa to the waters has been described. (Since Western method is included in it, it does not appear necessary to explain it here. **NOTE**
+
+The introduction ends.
+
+## Sūkta 63 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य गोपाविति सप्तर्चं सप्तमं सूक्तं । आत्रेयमनुक्रमणिका । ऋतस
+> सप्तार्चनाना जागतमिति । आत्रेयोऽर्चनाना नाम ऋषिः । जगती छंदः । तुह्यादि
+> परिभाषया मित्रावरुणौ देवता ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning ऋतस्य गोपौ (*ṛtasya gopau*), is the seventh sūkta of the fifth anuvāka and has seven Ṛks. The Anukramaṇikā says ऋतस्य सप्तार्चनाना जागतं (*ṛtasya saptārcanānā jāgataṃ*): the seer is Arcanānā Ātreya and the metre is Jagatī. By the convention तुह्यादि परिभाषया (*tuhyādi paribhāṣayā*) the deities are Mitra and Varuṇa. The ritual use is laiṅgika, that is, by indication of the text itself.
+
+##### Anuvāda
+
+This sūkta, beginning ऋतस्य गोपा (*ṛtasya gopā*), is the seventh sūkta in the fifth anuvāka of the fifth maṇḍala. It contains seven Ṛks. In the Anukramaṇikā it is said: ऋतस्य सप्तार्चनाना जागतं (*ṛtasya saptārcanānā jāgataṃ*). The seer of this sūkta is a man named Arcanānā Ātreya; the deities are Mitra and Varuṇa; the metre is Jagatī. The use is laiṅgika.
+
+##### Particulars of the sūkta
+
+- Sūkta 63
+- Maṇḍala 5; Anuvāka 5; Sūkta 63
+- Aṣṭaka 4; Adhyāya 4; Varga 1
+- Number of Ṛks in the sūkta: 7
+- Seer: Arcanānā Ātreya
+- Deity: मिश्रावरुणौ (*miśrāvaruṇau*) **NOTE**
+- Metre: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋत॑स्य गोपा॒वधि॑ तिष्ठथो॒ रथं॒ सत्य॑धर्माणा पर॒मे  ॑
+> व्योमनि ।  
+> यमत्र॑ मित्रावरु॒णाव॑धो यु॒वं तस्मै॑ वृ॒ष्टिर्मधु॑मत्पिन्वते दि॒वः ॥ १ ॥
+
+### Printed p. 17
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यतस्य । गोपौ । अधि । तिष्ठधः । रथं । सत्यधर्माणा । परमे । विओमनि ।  
+> यं । अत्र । मित्रावरुणा । अवथः । युवं । तस्मै । वृष्टिः । मधुमत् । पिन्नते ।  
+> दिवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतस्योदकस्य गोपौ रक्षितारौ सत्यधर्माणा सत्यधर्माणौ युवां
+> रथमधि तिष्ठथः । आरोहथोऽस्मद्यज्ञमागमनार्थं । कुत्र । परमे व्योमनि
+> निरतिशय आकाशे । हे मित्रावरुणौ युवं युवामत्रास्मिन्यज्ञेयं यजमानमुवथो रक्षथः तस्मै यजमानाय वृष्टिः पर्जन्यो मधुमदुदकं दिवो
+> द्युलोकात्पिन्वते । सिंचति । वर्धयति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, protectors of ṛta, that is, of water, whose dharma is truth: you two mount the chariot in order to come to our sacrifice. Where? In the highest sky, that is, the sky that has nothing beyond it. O Mitra and Varuṇa, the sacrificer whom you two protect here in this sacrifice, for that sacrificer the rain, that is, Parjanya, sprinkles and makes grow the sweet water from the world of heaven; पिन्वते (*pinvate*) means "sprinkles" and "makes grow".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—to water
+- गोपौ (*gopau*)—the protectors; you who are protectors and whose dharma is truth, O Mitra and Varuṇa (सत्यधर्माणा (*satyadharmāṇā*))
+- परमे व्योमनि (*parame vyomani*)—in the most excellent atmosphere
+- रथं (*rathaṃ*)—the chariot
+- अधि तिष्ठथः (*adhi tiṣṭhathaḥ*)—you mount and sit
+- युवं (*yuvaṃ*)—you
+- अत्र (*atra*)—in this sacrifice
+- यं (*yaṃ*)—whichever sacrificer
+- अवथः (*avathaḥ*)—you protect
+- तस्मै (*tasmai*)—for that sacrificer
+- वृष्टिः (*vṛṣṭiḥ*)—Parjanya
+- दिवः (*divaḥ*)—from the world of heaven
+- मधुमत् (*madhumat*)—the sweet water
+- पिन्नते (*pinnate*)—pours down
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, protectors of water, whose dharma is truth, you mount the chariot in the most excellent atmosphere. For the sacrificer whom you protect in this sacrifice, Parjanya pours down sweet water from the world of heaven.
+
+##### English translation
+Guardians of water, observers of truth, you ascend your car in the highest heaven : to him whom you, Mitra and Varuna, protect, the rain sends down the sweet (shower) from the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta the immense power of Mitra and Varuṇa in sending down rain is described.
+
+ऋतस्य गोपौ (*ṛtasya gopau*)—For the words ऋतस्य गोपौ (*ṛtasya gopau*) in this Ṛk the commentator has given the explanation उदकस्य रक्षितारौ (*udakasya rakṣitārau*), that is, protectors of the waters. Since the word ṛta means sacrifice or truth,
+
+### Printed p. 18
+
+it can also be explained as protectors of the sacrifice or of truth. Here ṛta means वरुणस्य व्रतं (*varuṇasya vrataṃ*), the acts that relate to the regulation of the universe, universal laws. It is said in many places in the Ṛgveda that the vrata (laws) of Varuṇa is the chief cause for keeping the affairs of the universe or world under a fixed rule. Since in the present sūkta the praise of Mitra and Varuṇa concerns rain, it is proper to explain the word ṛta as water.
+
+सत्यधर्माणा (*satyadharmāṇā*)—This indicates that the acts of these Mitra and Varuṇa are of the nature of truth, and also that they have the power to impel the acts of others and to bring them under the control of truth, that is, of the regulation of the universe.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राजा॑व॒स्य भुव॑नस्य राजथो॒ मित्रा॑वरुणा वि॒दथे॑ स्व॒र्दृशा॑।  
+> वृ॒ष्टिं वां॒ राधो॑ अमृत॒त्वमी॑महे॒ द्यावा॑पृथि॒वी वि च॑रंति  ॒॑
+> तन्यवः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराज् । अस्य । भुवनस्य । राजथः । मित्रावरुणा । विदथे । स्वःवृशा ।  
+> वृष्टिं । वां । राधः । अमृतत्वं ईमहे । द्वावापृथिवी इति । वि । चरंति । तन्वयः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणे सम्राजौ सम्यग्राजमान् युवामस्य भुवनस्य
+> राजथः । ईशाथे । स्वर्दृशा स्वर्गस्य द्रष्टारौ युवां विदथेऽस्मदृज्ञे सम्राजाविति
+> संबंधः । वां युवां वृष्टिं राधो धनं वृष्टाख्यं धनममृतत्वं स्वर्गं
+> चेमहे । प्रार्थयामहे । युवयोस्तन्मवो विस्तता रश्मयो द्यावापृथिवी वि
+> चरंति । विविधं प्राप्नुवंति । अथवा वृष्टिं धनममृतत्वं चेमहे ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you two, who shine well (सम्राजौ (*samrājau*)), rule over this world; the verb राजथः (*rājathaḥ*) means "you two have lordship". You are seers of heaven (स्वर्दृशा (*svardṛśā*), "those who look upon heaven"), in our sacrifice (विदथे (*vidathe*)); this is to be construed with "you who shine well". We beg of you two rain, wealth (राधः (*rādhaḥ*) is wealth, namely the wealth called rain), and immortality, that is, heaven. Your extended rays range variously over heaven and earth, that is, reach them in various ways. Or else: we beg rain, wealth and immortality. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य भुवनस्य (*asya bhuvanasya*)—of this whole world
+- सम्राज् (*samrāj*)—you who are lords
+- स्वर्दृशा (*svardṛśā*)—you who look upon heaven
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- विदथे (*vidathe*)—in this sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 12. Varuna and Mitra-Varuna characterisation, pp. 7-12
+**Progress note:** Done through printed p. 18. Roth, Varuna and water, Sukta 63 intro, Rk 1-2 start, pp. 13-18
