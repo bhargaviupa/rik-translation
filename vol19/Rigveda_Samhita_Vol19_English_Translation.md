@@ -11074,6 +11074,281 @@ O Indra, bearer of the thunderbolt, doer of many acts, protector of strength, se
 ##### English translation
 Indra, wielder of the thunderbolt, rider in an all-pervading car, object of many rites, and lord of strength, proceed against the mortal who entertains hostility towards you.
 
+### Printed p. 280
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्वृ॑त्रहंतम॒ जना॑सो वृ॒क्तब॑र्हिषः ।  
+> उ॒ग्रं पू॒र्वीषु॑ पू॒र्व्यं हवं॑ते॒ वाज॑सातये ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । वृत्रहन्ऽतम । जनासः । वृक्तबर्हिषः ।  
+> उग्रं । पूर्विषु । पूर्व्यं । हवंते । वाज्यसातये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतमातिशयेन वृत्राणां हंतरिंद्र त्वामित्वामेव जनासो जना
+> वृक्तबर्हिष आच्छादितदर्भाः । प्रवृत्तयज्ञा इत्यर्थः । उग्रमुद्गूर्णबलं पूर्वीषु
+> बह्वीषु प्रजासु मध्यॆ पूर्व्यं पुरातनं संतं वाजसातये संग्रामाय हवंते ।
+> आह्वयंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, greatest slayer of Vṛtras, you alone do the people whose sacred grass is spread (वृक्तबर्हिषः (*vṛktabarhiṣaḥ*), that is, who have covered the darbha grass; the meaning is that they have set the sacrifice going) call to the battle (वाजसातये (*vājasātaye*), that is, for the fight). You are fierce, of uplifted strength, and ancient among the many peoples.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतनु (*vṛtrahaṃtanu*)—O Indra, destroyer of Vṛtra
+- पूर्वीषु (*pūrvīṣu*)—among many men
+- उग्रं (*ugraṃ*)—who are of exceeding strength
+- पूर्व्यं (*pūrvyaṃ*)—and ancient
+- त्वामित् (*tvāmit*)—you alone
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—who prepare seats of darbha grass to provide you a seat
+- जनासः (*janāsaḥ*)—people
+- वाजसातये (*vājasātaye*)—for help in battle
+- हवंते (*havaṃte*)—call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of Vṛtra, you who are of exceeding strength and ancient among many men, you alone do those men who prepare seats of darbha grass for you and make ready the sacrifice call, desiring help in battle.
+
+##### English translation
+Slayer of Vritra, men with clipped sacred grass invoke you, who are fierce and foremost among many, for aid in battle.
+
+### Printed p. 281
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मिंद्र दु॒ष्टरं॑ पुरो॒यावा॑नमा॒जिषु॑ ।  
+> स॒यावा॑नं॒ धने॑धने वाज॒यंत॑मवा॒ रथं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इंद्र । दुस्तरं । पुरःऽयावानं । आजिषु ।  
+> स्ययावानं । धनेऽधने। वाजयंतं । अव । रथं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्माकं रथं रंहणस्वभावं ना पुत्रमव । रक्ष । कीदृशं रथं ।
+> दुष्टरं दुःखेन तरणीयमाजिसु संग्रामेषु पुरोयावानं पुरतो मिश्रयितारं सयावानमनुचरैः सह गंतारं धने धने सर्वेषु धनेषु वाजयंतं
+> संग्रामं धनं वेच्छंतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, protect our chariot, whose nature is to rush on.**NOTE** Of what kind is the chariot? It is hard to cross, that is, to be got over only with difficulty, in battles; it goes in front (पुरोयावानं (*puroyāvānaṃ*), that is, it mingles in front); it goes together with followers; in every kind of wealth it seeks battle and wealth (वाजयंतं (*vājayaṃtaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दुष्टरं (*duṣṭaraṃ*)—which others can hardly stop
+- आजिषु (*ājiṣu*)—in battles
+- पुरोयावानं (*puroyāvānaṃ*)—which moves about in the forefront
+- सयावानं (*sayāvānaṃ*)—which moves along with followers
+- धनेधने (*dhanedhane*)—again and again, to gather wealth
+- वाजयंतं (*vājayaṃtaṃ*)—and which desires battle
+- अस्माकं (*asmākaṃ*)—our
+- रथं (*rathaṃ*)—chariot
+- अव (*ava*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protect our chariot, which others can hardly stop, which moves boldly in the forefront in battles, moves along with followers, and again and again desires battle for the sake of gaining wealth.
+
+##### English translation
+Defend, Indra, our chariot, difficult (to be stopped), mingling foremost in combats, followed by attendants. and eagerly striving for repeated spoil.
+
+### Printed p. 282
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मिं॒द्रेहि॑ नो॒ रथ॑मवा॒ पुरं॑ध्या ।  
+> व॒यं श॑विष्ठ॒ वार्यं॑ दि॒वि श्रवो॑ दधीमहि दि॒वि स्तोमं॑  
+> मनामहे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इंद्र । आ । इहि । नः । रथं । अव । पुरंs ध्या ।  
+> वयं । शविष्ठ । वार्यं । दिवि । श्रवः । दधीमहि । दिवि । स्तोमं । मनामहे ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्माकमस्मदीय एव सन् एहि । आगच्छ । अगत्य च पुरंध्या शोभनबुद्धा नोऽस्माकु रथमव । रक्ष । वयं च हे शविष्ठ अतिशयेन बलवन् त्वदनुग्रहाद्वार्यं वरणेयं श्रवोऽन्नं कीर्तिं वा दिवि द्योतमाने त्वयि दधीमहि ।
+> स्थापयामः । तथा दिवि त्वयि स्तोमं स्तोत्रं मनामहे । करवामह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, come to us, being truly ours; and having come, protect our chariot with good understanding (पुरंध्या (*puraṃdhyā*)). And we, O Śaviṣṭha, most mighty one, by your favour place the desirable (वार्यं (*vāryaṃ*)) food or fame (श्रवः (*śravaḥ*)) in you who shine; likewise we make (मनामहे (*manāmahe*)) praise in you who shine; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अस्माकं (*asmākaṃ*)—to us
+- एहि (*ehi*)—be pleased to come
+- पुरंध्या (*puraṃdhyā*)—with a favouring understanding
+- नः (*naḥ*)—our
+- रथं (*rathaṃ*)—chariot
+- अव (*ava*)—protect
+- शविष्ठ (*śaviṣṭha*)—O Indra, most powerful
+- वयं (*vayaṃ*)—we
+- वार्यं (*vāryaṃ*)—desired
+- श्रवः (*śravaḥ*)—food
+- दिवि (*divi*)—in you who shine
+- दधीमहि (*dadhīmahi*)—we place
+- दिवि (*divi*)—addressed to you who are divine
+- स्तोमं (*stomaṃ*)—praise
+- मनामहे (*manāmahe*)—we recite and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come to us. Protect our chariot with a favouring understanding. O most powerful Indra, in you who shine we place the most desired**NOTE** food. Addressing you, who are divine, we also recite and offer praise.
+
+### Printed p. 283
+
+##### English translation
+Come, Indra, to us ; defend by your providence our car : we contemplate in you who, most mighty one, are divine, all desirable vigour : (to you), who are divine, we offer praise.
+
+## Sūkta 36 (Maṇḍala 5)
+
+The thirty-sixth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स आ गमदिति षडृचं चतुर्थं सूक्तं ॥ अंगिरसः प्रभूवसुर्ऋषिः । तृतीया
+> जगती शिष्टा अनुक्तत्वात् त्रिष्टुभः । इंद्रो देवता । अनुक्रांतं च । स आ गमत्
+> षट् तृतीया जगतीति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The fourth sūkta, स आ गमदिति (*sa ā gamaditi*), has six ṛks. The seer is the Aṅgirasa Prabhūvasu. The third ṛk is in Jagatī; the remaining ones are Triṣṭubh, because no other metre is stated. The deity is Indra. The Anukramaṇikā also says: स आ गमत् षट् तृतीया जगतीति (*sa ā gamat ṣaṭ tṛtīyā jagatīti*). The use in ritual is laiṅgika.
+
+Translation of the Anuvāda: This sūkta, Sa ā gamat, is the fourth sūkta in the third anuvāka. There are six ṛks in it. The seer of this sūkta is Prabhūvasu, born in the line of the seer Aṅgiras. Indra is the deity. The third ṛk of this sūkta is in the Jagatī metre and the remaining ṛks are in the Triṣṭubh metre. In the Anukramaṇikā it is said: "Sa ā gamat ṣaṭ tṛtīyā jagatī". The use in ritual is laiṅgika.
+
+Sūkta 36.
+
+Maṇḍala 5, Anuvāka 3, Sūkta 36.
+
+Aṣṭaka 4, Adhyāya 2, Varga 7.
+
+Number of Ṛks in the sūkta: 6.
+
+Seer: Prabhūvasu Āṅgirasa.
+
+Deity: Indra.
+
+Metre: 1, 2, 4-6, Triṣṭubh; 3, Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स आ ग॑म॒दिंद्रो॒ यो वसू॑नां॒ चिके॑त॒द्दातुं॒ दाम॑नो  ॒
+> रयीणां ।  
+> ध॒न्व॒च॒रो न वंस॑गस्तृषा॒णश्च॑कमा॒नः पि॑बतु दु॒ग्धमं॒शुं ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । आ । गमत् । इंद्रः । यः । वसूनां । चिकेतत् । दातुं । दामनः । रयीणां ।  
+> धन्वचरः । न । वंसगः । तृषाणः । चकमानः । पिबतु । दुग्धं । अंशुं ॥ १ ॥
+
+### Printed p. 284
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रोऽस्मद्यज्ञं प्रत्या गमत् । आगच्छतु । यो देवो वसूनां धनानां ।
+> कर्मणि षष्ठी ॥ वसूनि धनानि चिकेतत् जानाति प्रदातुं । स कीदृशः । दामनो
+> दाता दानमना वा रयिणां धनानां । गमने दृष्टांतः । धन्वचरो न धनुषा
+> सह संचरन् धानुष्क इव वंसगो वननीयगमनस्तृषाणोऽत्यंतं तृषितश्चकमानः
+> कामयमानश्च सन् दुग्धमभिषुतमंशुं सोमं पिबतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: May that Indra come to our sacrifice, the god who knows how to give wealth. What kind is he? He is the giver of riches, or one whose mind is set on giving. As an illustration of his coming: like a bowman (धन्वचरो (*dhanvacaro*), one who moves about with a bow), whose going is lovely (वंसगः (*vaṃsagaḥ*)), exceedingly thirsty and desirous, may he drink the pressed (दुग्धं (*dugdhaṃ*)) Soma, the *aṃśu*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- वसूनां (*vasūnāṃ*)—wealth
+- दातुं (*dātuṃ*)—to distribute to the sacrificers
+- चिकेतत् (*ciketat*)—knows (and)
+- रयीणां (*rayīṇāṃ*)—of riches
+- दामनः (*dāmanaḥ*)—is the giver
+- सः इंद्रः (*saḥ iṃdraḥ*)—that Indra
+- धन्वचरो न (*dhanvacaro na*)—like a warrior bearing a bow
+- आ गमत् (*ā gamat*)—may he come to our sacrifice
+- वंसगः (*vaṃsagaḥ*)—of attractive going
+- तृषाणः (*tṛṣāṇaḥ*)—thirsty
+- चकमानः (*cakamānaḥ*)—and desirous (of drinking Soma)
+- दुग्धं (*dugdhaṃ*)—pressed
+- अंशुं (*aṃśuṃ*)—Soma
+- पिबतु (*pibatu*)—may he drink
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra who knows that wealth is to be distributed to the sacrificers come to our sacrifice like a warrior bearing a bow. Of attractive going, thirsty and desirous of drinking Soma, may he drink the Soma juice.
+
+##### English translation
+May that Indra who is the donor of wealth, who knows ( how ) to distribute riches, come (to our sacrifice) marching boldly like a warrior ; and may he, being thirsty, and desirous (of the draught), drink of the effused Soma juice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ ते॒ हनू॑ हरिवः शूर॒ शिप्रे॒ रुह॒त्सोमो॒ न पर्व॑तस्य पृ॒ष्ठे ।  
+> अनु॑ त्वा राज॒न्नर्व॑तो॒ न हि॒न्वन् गी॒र्भिर्म॑देम पुरुहूत॒  ॑
+> विश्वे ॥ २ ॥
+
+### Printed p. 285
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । हनू इति । हरिऽवः । शूर । शिप्रे इति । रुहत् । सोमः । न । पर्वतस्य ।  
+> पृष्ठे ।  
+> अनु । त्वा । राजन् । अर्वतः । न । हिन्वन् । गीभिः । मदेम । पुरुहूत ।  
+> विश्वे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हे हरिवो हरिभ्यां तद्वन् शूर ते तव हनू हननसाधने । यद्यप्ययं शिप्रावचनस्तथापि पुनः शिप्राभिधानाद्गौणोऽवगंतव्यः । उक्तरूपे संहते
+> वा शिप्रे आ रुहत् आरोहतु प्राप्नोतु सोमोऽस्मद्दत्तः । पर्वतस्य पृष्ठे न
+> रुहत् । नारोहति । तत्र न तिष्ठतीत्यर्थः । यद्वा । नशब्दः पुरस्तात्पयुक्तोऽप्यत्रोपमार्थः । पर्वतस्य पृष्ठ उपरिप्रदेशे सोमो न । तत्र यथा विस्रंभेण
+> प्रसरत्ति-तद्वत् । हे राजन् राजमानेंद्र त्वा त्वामनु त्वया सह ॥ तृतीयार्थ
+> इत्यनोः कर्मप्रवचनीयत्वं ॥ विश्वे वयमर्वतो नाश्वानिव तृणादिभिर्गिर्भिः
+> स्तुतिभिर्हिन्वन् हिन्वंतस्त्वां प्रीणयंतः संतो मदेम । हृष्येम ॥ हे पुरुहूत
+> बहुप्रकारं बहुभिर्वाहूतेंद्र ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, O possessor of bay horses, O hero, these two jaws of yours (हनू (*hanū*)) are the instruments of striking. Although this word has the sense of *śipra*, yet because *śipra* is named again, it is to be understood in a secondary sense.**NOTE** Into the two *śipras*, of the stated form or joined together, may the Soma given by us climb, that is, reach. It does not climb on the back of a mountain, that is, it does not stay there. Or else, the word *na*, although used earlier, has here the sense of comparison: as Soma moves about with confidence on the upper part, the back, of a mountain, so it does here. O shining king Indra, with you (त्वा (*tvā*) अनु (*anu*)) we all, pleasing you with our praises (*girbhiḥ*), as one delights horses (अर्वतो (*arvato*)) with grass and the like, would rejoice, that is, be glad. O Puruhūta, Indra, called in many ways or by many.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O one yoked with horses
+- शूर (*śūra*)—and O hero, Indra
+- सोमः (*somaḥ*)—may Soma
+- पर्वतस्य (*parvatasya*)—of a mountain
+- पृष्ठे न (*pṛṣṭhe na*)—as one climbs the summit
+- हनू (*hanū*)—which are the instrument of striking (enemies)
+- ते शिप्रे (*te śipre*)—into your jaws
+- आ रुहत् (*ā ruhat*)—climb (and join)
+- राजन् (*rājan*)—O lord
+- पुरुहूत (*puruhūta*)—and O Indra, called by many
+- अर्वतो न (*arvato na*)—as one pleases horses with grass and the like
+- गीर्भिः (*gīrbhiḥ*)—with our praises
+- हिन्वन् (*hinvan*)—gladdening you
+- त्वा अनु (*tvā anu*)—with you
+- विश्वे मदेम (*viśve madema*)—we all shall rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are yoked with horses and are a hero, may Soma climb up and fill your jaws, the instrument of striking enemies, as one climbs the summit of a mountain. O Indra, lord, called by many, gladdening you with our praises as one pleases horses with grass and the like, we all shall rejoice with you.
+
 ---
 
-**Progress note:** Done through printed p. 279. Sukta 34 Rk 9 to sukta 35 Rk 5 (pp. 273-279)
+**Progress note:** Done through printed p. 285. Sukta 35 Rk 6-8, sukta 36 Rk 1-2 (pp. 280-285)
