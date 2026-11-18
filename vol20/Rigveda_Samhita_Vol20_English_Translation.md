@@ -15838,6 +15838,263 @@ The friend (of all), the wonderful (Agni), has upheld heaven and earth : he has 
 
 "Āpaḥ" is a name of the intermediate space. In the lap, the middle, of the intermediate space, the "mahiṣāḥ", the great Maruts ("mahiṣa" being a name for "great"), seized this Vaiśvānara, who was present as lightning; the meaning is that they did not know him. **NOTE** And having seized him, the people, the subjects, stood near the king, their lord, worthy of praise, and praised him. And further, this Vaiśvānara Agni, who before was near the sun, Mātariśvan, the swift one, or the messenger of the gods, that is, the wind, carried from far away, from Vivasvat, the Āditya; he brought him to this world.
 
+### Printed p. 472
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of the intermediate space
+- उपस्थे (*upasthe*)—being in the middle part
+- महिषाः (*mahiṣāḥ*)—the Maruts of great form
+- अगृभ्यत (*agṛbhyata*)—grasped (the form of Vaiśvānara, who is in the shape of lightning)
+- विशः (*viśaḥ*)—all the people
+- राजानं (*rājānaṃ*)—the lord
+- ऋग्मियं (*ṛgmiyaṃ*)—the worshipful, this Agni
+- उप तस्थुः (*upa tasthuḥ*)—praised
+- वैश्वानरं (*vaiśvānaraṃ*)—who is of the form of Vaiśvānara
+- अग्निं (*agniṃ*)—Agni
+- दूतः (*dūtaḥ*)—the messenger of the gods
+- मातरिश्वा (*mātariśvā*)—the wind
+- परावतः (*parāvataḥ*)—who is in a very distant region
+- विवस्वतः (*vivasvataḥ*)—from Āditya
+- आ भरत् (*ā bharat*)—has taken and brought
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts of great form, who are in the middle part of the intermediate space, grasped the form of Vaiśvānara, who is in the shape of lightning. All the people praised this worshipful lord, Agni. The wind, the messenger of the gods, has taken Agni, who is of the form of Vaiśvānara, from Āditya, who is in a very distant region, and brought him.
+
+##### English translation
+The mighty Maruts have seized upon him on the lap of the waters
+(in the firmament), and men have acknowledged him as their adorable
+sovereign : Matarishwan, the messenger of the gods. has brought Agni
+Vaishwanara (hither) from the distant (sphere of the) sun.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒गेयु॑गे विद॒थ्यं॑ गृ॒णद्भोग्ने॑ र॒यिं य॒शसं॑ धेहि॒  ॑
+> नव्यसीं ।  
+> प॒स्येव॑ राजन्न॒घशं॑समजर नी॒चा नि वृ॑श्च व॒निनं॒ न तेज॑सा । ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युगेऽयुगे । विदथ्यं । गृणत्ऽभ्यः । अग्ने । रयिं । यशसं । धेहि । नव्यसीं ।  
+> पव्याइव । राजन् । अघशंसं । अजर । नीचा । नि । वृश्च । वनिनं । न । तेजसा ॥ ५ ॥
+
+### Printed p. 473
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने युगे युगे काले काले विदथ्यं । विदथो यज्ञः । तदर्हं
+> त्वामुद्दिश्य नव्यसीं नवतरां स्तुतिं गृणद्भ्य उच्चारयितृभ्योऽस्मभ्यं रयिं धनं
+> यशसं यशस्विनं पुत्रं च धेहि । विधेहि । कुरु । किंच हे राजन् राजमानाजर
+> जरारहिताग्ने पन्येव वज्रेणेवात्मीयेन तेजसा वनिनं न वृक्षमिवाघशंसमघस्यानर्थस्य शंसितारं शत्रुं नीचा नीचीनो न्यग्भूतो यथा भवति तथा नि
+> वृश्च । निजहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in every age, at every time, "vidathya" is that which is fit for the "vidatha", the sacrifice; directed to you, who are worthy of it, give wealth and a famed son to us who utter a newer praise. And further, O shining, ageless Agni, with your own radiance, like a thunderbolt, strike down the enemy who proclaims evil, as one cuts down a tree, so that he becomes low, laid prostrate.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- युगे युगे (*yuge yuge*)—in every age
+- विदथ्यं (*vidathyaṃ*)—directed to you, who are fit for the sacrifice
+- नव्यसीं (*navyasīṃ*)—the newly made praise
+- गृणद्भ्यः (*gṛṇadbhyaḥ*)—to me, who recite
+- रयिं (*rayiṃ*)—wealth
+- यशसं (*yaśasaṃ*)—and famed sons and the rest
+- देहि (*dehi*)—provide
+- आजर (*ājara*)—O one who is free from death
+- राजन् (*rājan*)—O shining Agni
+- पव्येव (*pavyeva*)—sharp like a thunderbolt
+- तेजसा (*tejasā*)—with your radiance
+- वनिनं न (*vaninaṃ na*)—as one cuts down a tree
+- अघशंसं (*aghaśaṃsaṃ*)—the enemy who wishes us harm
+- नीचा (*nīcā*)—so that he falls down
+- नि वृश्च (*ni vṛśca*)—cut down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide wealth and famed sons and the rest to us, who recite a newly made praise in every age, directed to you, who are fit for the sacrifice. O Agni, free from death and shining, with your radiance, sharp like a thunderbolt, cut down the enemy who wishes us harm, as one cuts down a tree, so that he falls down.
+
+##### English translation
+To those, Agni, who repeat new (praises) to you the object of their
+worship from age to age, grant riches and famous (posterity) : strike down
+undecaying sovereign, the sinner with your blaze like the thunderbolt, as
+if he were a tree.
+
+### Printed p. 474
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मग्ने म॒घव॑त्सु धार॒याना॑मि क्ष॒त्रम॒जरं॑ सु॒वीर्यं॑ ।  
+> व॒यं ज॑येम श॒तिनं॑ सह॒स्रिणं॒ वैश्वा॑नर॒ वाज॑मग्ने॒ तवो॒तिभिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अग्ने । मघवत्सु । धारय । अनामि । क्षत्रं । अजरं । सुवीर्यं ।  
+> वयं । जयेम । शतिनं सहस्रिणं । वैश्वानर । वाजं । अग्ने । तव । ऊतिभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अस्माकं ॥ सप्तम्यर्थे ष्टी ॥ अस्मासु मघवत्सु हविर्लक्षणेन
+> धनेन युक्तेषु क्षत्रं धनं धारय । स्थापय । कीदृशं । अनाम्य नमनीयमनपहार्यमजरं जरारहितमनश्वरं सुवीर्यं शोभनवीर्योपेतं । किंच हे
+> वैश्वानराग्ने तवोतिभिस्त्वत्संबंधिभी रक्षणैर्वयं शतिनं शतसंख्यायुक्तं शतपुरुषयुक्तं वा तथा सहस्रिणं वाजमन्नं जयेम । लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the word "asmākam" is a genitive in the sense of the locative: in us, who are "maghavat", possessed of wealth in the form of oblations, establish "kṣatra", wealth. Of what kind: not to be bent, that is, not to be carried off; ageless, free from old age, imperishable; with excellent vigour. And further, O Vaiśvānara Agni, through your protections we may win "vāja", food, that is "śatin", of the number of a hundred or accompanied by a hundred men, and likewise "sahasriṇa", of the number of a thousand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मघवत्सु (*maghavatsu*)—who have wealth in the form of oblations
+- अस्मासु (*asmāsu*)—in us
+- अनामि (*anāmi*)—which cannot be carried off
+- अजरं (*ajaraṃ*)—which is imperishable
+- सुवीर‍्यं (*suvīryaṃ*)—which has excellent sons and the rest
+- क्षत्रं (*kṣatraṃ*)—the wealth
+- धारय (*dhāraya*)—establish
+- वैश्वानर (*vaiśvānara*)—of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- तव ऊतिभिः (*tava ūtibhiḥ*)—accompanied by your protection
+- वयं (*vayaṃ*)—we
+- शतिनं (*śatinaṃ*)—of the number of a hundred
+- सहस्रिणं (*sahasriṇaṃ*)—and of the number of a thousand
+- वाजं (*vājaṃ*)—food
+- जयेम (*jayema*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, establish in us, who have wealth in the form of oblations, wealth that is not carried off by thieves, that is imperishable and has excellent sons and the rest. O Agni, of the form of Vaiśvānara, accompanied by your protection may we obtain food of the number of a hundred and of a thousand, that is, in abundance.
+
+### Printed p. 475
+
+##### English translation
+Grrnt, Agni, to us who are affluent in (offerings), wealth that cannot be taken away, that is exempt from decay, and that comprehends excellent male descendants : may we obtain, Agni Vishwanara, hundreds and thousands of viands through your protection.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑ब्बेभि॒स्तव॑ गो॒पाभि॑रिष्टे॒ऽस्माकं॑ पाहि त्रिषधस्थ सू॒रीन् ।  
+> रक्षा॑ च नो द॒दुषां॒ शर्धो॑ अग्ने॒ वैश्वा॑नर॒ प्र च॑ तारीः॒  ॑
+> स्तवानः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदब्बेभिः । तव । गोपाभिः । इष्टे । अस्माकं । पाहि । त्रिसदस्थ । सूरीन् ।  
+> रक्ष । च । नः । ददुषां । शर्धः । अग्ने । वैश्वानर । प्र । च । तारीः । स्तवानः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इष्टे यष्टव्य एषणीय वा त्रिषधस्थ त्रिषु लोकेषु सहावस्थायिन्
+> यद्वाहवनीयादिषु त्रिष्वायतनेषु यष्टवैर्देवैः सहावतिष्ठमानाग्ने अदब्धेभिः
+> केनाप्यहिंसितैस्तव त्वदीयैर्गोपाभिगोर्गोपकै रक्षकैस्तेजोभिरस्माकं सूरीनस्मदीयान् स्तोत्यन् पाहि । रक्ष! हे वैश्वानराग्ने ददुषां हवींषि दत्तवतां नोऽस्माकं
+> शर्धो बलं रक्ष च । स्तवानः स्तूयमानस्त्वं प्र च तारीः । प्रवर्धय च ॥
+
+##### Gist of the bhāṣya
+
+O "iṣṭe", you who are to be sacrificed to or to be sought, O "tri-ṣadhastha", you who abide together in the three worlds, or else, you who abide together in the three sites such as the Āhavanīya with the gods to whom sacrifice is offered, O Agni: with your radiances that are protectors ("gopā"), undamaged by anyone, protect our "sūri", our singers. O Vaiśvānara Agni, protect also the strength of us who have given oblations. Being praised, carry us over and advance us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इष्टे (*iṣṭe*)—you who are fit for sacrifice
+- त्रिषधस्थ (*triṣadhastha*)—you who abide in all three worlds, O Agni
+- अदब्धेभिः (*adabdhebhiḥ*)—with irresistible
+- तव (*tava*)—your
+- गोपाभिः (*gopābhiḥ*)—protecting radiances
+- सूरीन् (*sūrīn*)—who are your singers of praise
+- आस्माकं (*āsmākaṃ*)—us
+- पाहि (*pāhi*)—protect
+- वैश्वानर (*vaiśvānara*)—of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- ददुषां (*daduṣāṃ*)—who offer oblations
+- नः (*naḥ*)—our
+
+### Printed p. 476
+
+- शर्धः (*śardhaḥ*)—strength
+- रक्ष च (*rakṣa ca*)—protect
+- स्तवानः (*stavānaḥ*)—you who are to be praised by us
+- प्र च तारीः (*pra ca tārīḥ*)—cause to increase, or carry across (from sin)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are fit for sacrifice and abide in all three worlds, protect us, your singers of praise, with your irresistible protecting radiances. O Agni, of the form of Vaiśvānara, protect the strength of us who offer oblations. You who are to be praised by us, grow strong.
+
+##### English translation
+Adored Agni, present in the three worlds, protect your worshippers with your irresistible protections, preserve the strength of us who offer (oblations) : glorified (by us), Agni Vaishwanara, transport us (beyond evil.
+
+## Sūkta 9 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहश्चेति सप्तर्चं नवमं सूक्तं भरद्वाजस्यार्षं वैश्वानराग्नि देवताकं ।
+> अनुक्रांतं च । अहश्चेति ॥ व्यूळ्हे दशरात्रे षष्ठेऽहन्याग्नि मारुतशस्त्रे वैश्वानरनिविद्धानमिदं । सूत्र्यते हि । अहश्च कृष्णं मध्यो वो नाम । आ. ८_८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, which has seven ṛks and begins with the words "ahaś ca", has Bharadvāja as its seer and Vaiśvānara Agni as its deity. The Anukramaṇī says: "ahaś ca". In the Vyūḍha Daśarātra, on the sixth day, in the Āgnimāruta śastra, this is the Vaiśvānara nivid-dhāna, as is stated in the sūtra cited as Ā. Sū. 8-8.
+
+##### Anuvāda
+
+This sūkta beginning with the words "ahaś ca" is the ninth sūkta in the first anuvāka. It has seven ṛks. Bharadvāja is the seer of this sūkta; Vaiśvānara Agni is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said that it begins with "ahaś ca". In the ten-day sacrifice called Vyūḍha, on the sixth day, among the Āgnimāruta śastra mantras, this sūkta is to be recited as the nivid-dhānīya sūkta; this is set out in the Āśvalāyana Śrauta Sūtra (Ā. Sū. 8-8). **NOTE**
+
+##### Particulars
+
+Maṇḍala 6. Anuvāka 1. Sūkta 9. Aṣṭaka 4. Adhyāya 5. Varga 11. Number of ṛks in the sūkta: 7. Ṛṣi: Bharadvāja Bārhaspatya. Deity: Vaiśvānara. Metre: Triṣṭubh.
+
+### Printed p. 477
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अह॑श्च कृ॒ष्णमह॒रर्जु॑नं च॒ वि व॑र्तेते॒ राज॑सी वे॒द्याभिः॑ ।  
+> वै॒श्वा॒न॒रो जाय॑मानो॒ न राजावा॑तिर॒ज्योति॑षा॒ग्निस्तमां॑सि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहरिति । च । कृष्णं । अहः । अर्जुनं । च । वि । वर्तेते इति । रजसी इति । वेद्याभिः ।  
+> वैश्वानरः । जायमानः । न । राजा । अव । अतिरत् । ज्योतिषा । आग्निः । तमांसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आहरति पुरुषोऽस्मिन्कर्माणीत्यहः । कृष्णं कृष्णवर्णं । एतत्सामानाधिकरण्यादहःशब्दो रात्रिवाचकः । तमसा कृष्णवर्णा रात्रिश्चार्जुनं च सौरेण तेजसा
+> शुक्लवर्णमहो दिवसश्च रजसी स्वस्वभासा सर्वं जगद्रंजयंतौ वेद्याभिर्वेदितव्याभिरनुकूलतया ज्ञातव्याभिः स्वप्रवृत्तिभिर्वि वर्तेते । विविधं पर्यावर्तेते । यद्वा।
+> रजसी द्यावापृथिव्यौ । उपलक्षणमेतत् । लोकत्रयं प्रत्यावर्तेते । एतच्च
+> वैश्वानराग्नेराज्ञयेति शेषः । स हि देवतात्वेनात्र प्रतिपाद्यः । स च वैश्वानरोऽग्निर्जायमानो न राजा प्रादुर्भवन् प्रवर्धमानो राजीव ज्योतिषा तेजसा
+> तमांस्यवातिरत् ॥ अवतिरतिर्वधकर्मा ॥ अवतिरति । विनाशयति ॥
+
+##### Gist of the bhāṣya
+
+"Aha" is that on which a man brings ("āharati") his works. "Kṛṣṇa" is black. By agreement in gender, the word "aha" here means the night, black with darkness; and "arjuna", white by the solar radiance, is the day. The two "rajasī", lighting the whole world each with its own light, revolve in various ways by their "vedyā", their activities, which are to be known as favourable. Or else, the "rajasī" are heaven and earth, which is an indication of the three worlds: they turn about the three worlds. And this is, it is to be supplied, by the command of Vaiśvānara Agni, who is here the deity to be set forth. And this Vaiśvānara Agni, being born, appearing and growing like a king, destroyed the darknesses with his radiance. The root "avatirati" has the sense of killing; it means he destroys.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णं (*kṛṣṇaṃ*)—possessed of darkness
+- अहः (*ahaḥ*)—the night-time (of the day)
+- अर्जुनं च (*arjunaṃ ca*)—possessed of its own radiance
+- अहः (*ahaḥ*)—the day-time
+- रजसी (*rajasī*)—lighting up the world
+- वेद्याभिः (*vedyābhiḥ*)—by their revolutions, which are visible to all
+- वि वर्तेते (*vi vartete*)—move in turns (these are under the command of Vaiśvānara)
+- वैश्वानरः (*vaiśvānaraḥ*)—who is of the form of Vaiśvānara
+- अग्निः (*agniḥ*)—Agni
+- जायमानः (*jāyamānaḥ*)—as soon as he is born
+- राजा न (*rājā na*)—shining like a lord
+- ज्योतिषा (*jyotiṣā*)—with his radiance
+- तमांसि (*tamāṃsi*)—the dense darknesses
+- अवातिरत् (*avātirat*)—has destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+The night-time, possessed of darkness, and the day, possessed of its own radiance, under the command of Vaiśvānara, lighting up the world, move in turns by their revolutions, which are visible to all,
+
 ---
 
-**Progress note:** Done through printed p. 471. Mandala 6 Sukta 7 Rk 7; Sukta 8 Rks 1-4 (pp. 465-471)
+**Progress note:** Done through printed p. 477. Mandala 6 Sukta 8 Rks 4-7; Sukta 9 Rk 1 (pp. 472-477)
