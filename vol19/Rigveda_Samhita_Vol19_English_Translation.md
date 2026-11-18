@@ -7806,6 +7806,230 @@ That these Dāsa people were enemies of the Āryans and fought with them, and th
 Śambara—This name is read about twenty times. His name is also read together with Śuṣṇa and Pipru Varcin (1-101-2; 1-103-8; 2-19-6; 6-18-8). When Indra fought with Ahi and Śambara, the Maruts helped Indra (3-47-4). When he shattered Śambara, Indra made the very sky tremble (1-54-4); having searched out Śambara, who lived on a mountain (2-12-11), he hurled him down from the mountain (1-130-7; 6-26-5); Indra hurled down from the great mountain the Dāsa named Śambara, son of Kulitara (4-30-14). Considering himself a minor deity, he struck Śambara and made him fall from the lofty region (7-18-20). Ninety (1-130-7), commonly ninety-nine (2-19-6, etc.) or a hundred (2-14-6, etc.) forts are under his control. In one place the word *śambarāṇi* has the meaning "the forts of Śambara"; Bṛhaspati shattered these and entered the mountain region that was furnished with treasures (2-24-2). It is said that Indra destroys Śambara for Atithigva (1-51-6), for Divodāsa (2-19-6), or for both of them (1-130-7; 4-26-3). Some are of the opinion that Śambara and Divodāsa are one and the same person.
 Pipru—He is the enemy of Ṛjiśvan, who was under Indra's protection. This Ṛjiśvan, having offered Soma juice to Indra, obtains his help when he fights against Pipru (5-29-11; 10-99-11). Indra, yoked with Ṛjiśvan (1-101-1; 10-138-3) or for his sake (4-16-13; 6-20-7), defeated Pipru. Many forts are under the control of Pipru, who is endowed with the illusions of Ahi. Indra shatters these (1-51-5; 6-20-7). Indra slew the Dāsa Pipru and others and released the waters (8-32-2). When the sun unyoked his chariot in the middle of the sky, Aryaman saw a warrior who matched Pipru. Indra, joined with Ṛjiśvan, destroyed the strong forts of the Asura named Pipru, the possessor of illusion (10-138-3). Indra handed over Pipru, who had the form of a wild beast, to Ṛjiśvan (4-16-13). Together with Ṛjiśvan
 
+### Printed p. 202
+Indra destroyed the very progeny of the dark-coloured people (the black people) (1-111-1). Since he has the two epithets Asura and Dāsa, some are of the opinion that he was a human enemy of Asura nature.
+Namuci—His matter has been explained on pages 192-195 of this same part.
+Dhuni and Cumuri—Ordinarily these two names occur together. Only once is the name of Cumuri alone found. Once they are also used as a pair (6-21-13). From this it is learnt that the relation between the two was very close. Indra put both of them to sleep (2-15-9; 6-20-13; 7-19-4); the same happened to Cumuri (6-26-6). Indra destroyed them, together with Śambara, Pipru, Śuṣṇa and others, and demolished their forts (6-18-8). For the sake of the seer Dabhīti, who prepared Soma juice for him, these two were destroyed by Indra or were made to fall asleep (10-113-9), and Dabhīti obtained from the gods a reward suited to his devotion (6-26-6). For Dabhīti Indra made thirty thousand Dasyus fall asleep (4-30-21) and for him bound the Dasyus without a rope (2-13-9). Dhuni means "one who roars loudly."
+Varcin—His name is mentioned four times together with Śambara. He too is an Asura (7-99-5), but like Śambara he is also called Dāsa (6-47-21). Indra broke the forts of Śambara and destroyed a hundred thousand warriors of Varcin (2-14-6; 4-30-15).
+Besides the chiefs mentioned above, Vala, Dabhīka, Rudhikra (2-14-3, 5), Anarśani, Sṛbinda (8-32-2) and Ilībiśa (1-33-12) may also be said to belong to the group of people called Dāsa.
+दासः स्त्रीयो आयुधानि चक्रे (*dāsaḥ strīyo āyudhāni cakre*)—Another matter is touched upon in this Ṛk. Namuci, the Dāsa, sent some women, or women soldiers, to fight with Indra. Indra looked at them with contempt, thought that it did not befit his dignity to fight with these women, and put in confinement two young women among them who were most dear to Namuci. When the remaining women fled, Indra set out to fight with Namuci: so it is explained.
+
+### Printed p. 203
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समत्र॒ गावो॒ऽभितो॑ऽनवंते॒हेह॑ व॒त्सैर्वियु॑ता॒ यदास॑न्।  
+> सं ता इंद्रो॑ असृजदस्य शा॒कैर्यदीं॒ सोमा॑सः॒ सुषु॑ता॒  ॑
+> अमंदन् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अत्र । गावः । अभितः।अनवंत । इहइह । वत्सैः। वियुताः । यत् । आसन् ।  
+> सं । ताः । इंद्रः। असृजत् । अस्य । शाकैः । यत् । ईं । सोमासः । सुसुताः ।  
+> अमंदन् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा गावो वत्सैर्वियुता आसन् वियुक्ता अभवन् अत्रास्मिन्कालेऽभितः
+> सर्वतो नमुचिनापहृता गाव इहेह इह चेह च सर्वतः समनवंत । अत्यंतमगच्छन् । यद्यदा सुषुता बभ्रुनाम्ना ऋषिणा सुष्ठ्वभिषुताः सोमासः सोमा
+> ईमेनमिंद्रममंदन् अमादयन् तदेंद्रः शाकैः शक्तैर्मरुद्भिः सहास्य बभ्रोः
+> संबंधिनीर्नमुचिनापहृतास्ता गाः समसृजत् । वत्सैः सह समयोजयत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: when the cows were separated from their calves, at that time the cows that had been carried off by Namuci wandered on all sides, here and there, everywhere, going about exceedingly. When the Soma juices, well pressed by the seer named Babhru, exhilarated this Indra, then Indra, together with the powerful Maruts, reunited with their calves those cows of this Babhru that Namuci had carried off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- गावः (*gāvaḥ*)—the cows
+- वत्सैः (*vatsaiḥ*)—from their calves
+- वियुताः आसन् (*viyutāḥ āsan*)—were separated
+- अत्र (*atra*)—at that time
+- अभितः (*abhitaḥ*)—all around
+- इहेह (*iheha*)—everywhere
+- सं अनवंत (*saṃ anavaṃta*)—were wandering about
+- यत् (*yat*)—when
+- सुषुताः (*suṣutāḥ*)—pressed in the best manner
+- सोमाः (*somāḥ*)—the Soma juices
+- ईं (*īṃ*)—this Indra
+- अमंदन् (*amaṃdan*)—exhilarated (then)
+- इंद्रः (*iṃdraḥ*)—Indra
+- शाकैः (*śākaiḥ*)—joined with the exceedingly powerful Maruts
+- अस्य (*asya*)—of Babhru
+- ताः (*tāḥ*)—those cows
+- सं असृजत् (*saṃ asṛjat*)—united with their calves
+
+##### भावार्थ (Bhāvārtha)
+
+When the cows were separated from their calves, at that time they wandered about everywhere. But as soon as the well-pressed Soma juices had exhilarated Indra, Indra, joined with the exceedingly powerful Maruts, united with their calves the cows of Babhru that had been carried off by Namuci.
+
+### Printed p. 204
+
+##### English translation
+When the cows were separated from their calves, they wandered about hither and thither ; but when the well-offered libations had exhilarated him, then Indra, with his vigorous (Maruts), reunited them (with their calves).
+
+##### विशेषविषयगळु (Special Topics)
+
+Once upon a time, when the cows of Babhru, the seer of this sūkta, were grazing in the forest with their calves, the Asura named Namuci separated the cows from the calves and carried them off. The calves, not seeing their cows, wandered about in the forest. Then, when the seer Babhru offered Soma juice to Indra and prayed, Indra, with the help of the Marut deities, freed the cows of the seer Babhru from Namuci and made them join their calves: this ancient history is told here.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदीं॒ सोमा॑ ब॒भ्रुधू॑ता॒ अमं॑द॒न्नरो॑रवीद्वष॒भः  ॑
+> सादनेषु ।  
+> पु॒रं॒द॒रः प॑पि॒वा इंद्रो॑ अस्य॒ पुन॒र्गवा॑मददादु॒स्रिया॑णां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईं । सोमाः । बभ्रुधूताः । अमंदन् । अरोरवीत् । वृषभः । सदनेषु ।  
+> पुरंsdरः । पपिवान् । इंद्रः । अस्य।पुनः । गवां । अददात् । उस्रियाणां ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा बभ्रुधूता बभ्रुणाभिषुताः सोमा ईमेनमिंद्रममंदन्
+> अमादयन् तदा वृषभः कामानां वर्षितेंद्रः सदनेषु युद्धेष्टरोरवीत् ।
+> अत्यर्थं शब्दमकरोत् । पुरंदरः पुरां दारयितास्येमं सोमं पपिवान्
+> पीतवानिंद्रः पुनरुस्रियाणां क्षीरमुत्स्राविणीर्गवां गा अददात् । बभ्रवे
+> ददौ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: when the Soma juices shaken (pressed) by Babhru exhilarated this Indra, then Indra, the showerer of desires, roared in the battles, that is, made an exceeding noise. Indra, the breaker of cities, having drunk this Soma, gave again, that is, gave to Babhru, the cows that flow with milk.
+
+### Printed p. 205
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- बभ्रुधूताः (*babhrudhūtāḥ*)—pressed by Babhru
+- सोमाः (*somāḥ*)—the Soma juices
+- ईं (*īṃ*)—Indra
+- अमंदन् (*amaṃdan*)—exhilarated (then)
+- वृषभः (*vṛṣabhaḥ*)—Indra, the showerer of desires
+- सदनेषु (*sadaneṣu*)—in the battles
+- अरोरवीत् (*aroravīt*)—made a deep sound
+- पुरंदरः (*puraṃdaraḥ*)—who splits asunder the cities of enemies
+- अस्य (*asya*)—this Soma
+- पपिवान् (*papivān*)—who drank
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुनः (*punaḥ*)—again
+- उस्रियाणां (*usriyāṇāṃ*)—that yield milk
+- गवां (*gavāṃ*)—the herd of cows
+- अददात् (*adadāt*)—gave to Babhru
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the Soma juices pressed by Babhru had exhilarated Indra, Indra, the showerer of desires, made a deep sound in the battles. Indra, who splits asunder the cities of enemies and who drank the Soma, made all the milch cows join Babhru again.
+
+##### English translation
+When the libations effused by Babhru had exhilarated him, the showerer (of benefits) shouted aloud in the combats : Indra, the destroyer of cities, quaffing (the Soma), restored to him his milk-yielding cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+What was said in the preceding Ṛk is said again in this Ṛk also.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रमि॒दं रु॒शमा॑ अग्ने अक्र॒न्गवां॑ च॒त्वारि॒ दद॑तः स॒हस्रा॑ ।  
+> ऋ॒णं॒च॒यस्य॒ प्रय॑ता म॒घानि॒ प्रत्य॑ग्रभीष्म॒ नृत॑मस्य नृ॒णां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । इदं । रुशमाः ' अग्ने। अक्रन् । गवां । चत्वरि । ददतः।सहस्रा ।  
+> ऋणंचयस्य । प्रयता । मघानि । प्रति । अग्रभीष्म । नृतमस्य । नृणां ॥ १२ ॥
+
+### Printed p. 206
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुशम इति कश्चिज्जनपदविशेषः । अत्र रुशमशब्देन तत्रत्या जना उच्यंते ।
+> रुशमा ऋणंचयनान्नो राज्ञः किंकरा हे अग्ने भद्रं कल्याणमिदं कर्माक्रन् ।
+> अकुर्वन् । कीदृशाः । गवां धेनूनां चत्वारि चतुःसंख्यायुक्तानि सहस्रा सहस्राणि
+> ददतो मह्यं प्रयच्छंतः । राज्णा हि दीयमानानि राजपुरुषा एव प्रयच्छंतीत्यर्थः । नृणां नेतृणां मध्यॆ नृतमस्यातिशयेन नेतृतमस्य ऋणंचयस्यैतन्नामकेन राज्णा प्रयता प्रयतानि दत्तानि मघानि गोरूपाणि धनानि वयं
+> प्रत्यग्रभीष्म । प्रतिगृहीतवंतः स्मः । पूज्यार्थं बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Ruśama is the name of a particular country (people); here the word *ruśama* denotes the people of that place. The Ruśamas, servants of the king named Ṛṇañcaya, have done this auspicious, beneficial act, O Agni. Of what kind are they? They give me four thousand cows. The meaning is that gifts that a king bestows are in fact handed over by the king's men. Among leaders, of Ṛṇañcaya, the best of leaders in the highest degree, we have accepted the wealth in the form of cows given by that king of this name. The plural is used in honour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- गवां (*gavāṃ*)—of cows
+- चत्वारि सहस्रा (*catvāri sahasrā*)—four thousand in number
+- ददतः (*dadataḥ*)—who gave me
+- रुशमाः (*ruśamāḥ*)—the people of the Ruśama country
+- भद्रं (*bhadraṃ*)—beneficial
+- इदं (*idaṃ*)—this act
+- अक्रन् (*akran*)—have done
+- नृणां (*nṛṇāṃ*)—among all men (among all leaders)
+- नृतमस्य (*nṛtamasya*)—of the most excellent
+- ऋणंचयस्य (*ṛṇaṃcayasya*)—from the king named Ṛṇañcaya
+- प्रयता (*prayatā*)—offered
+- मघानि (*maghāni*)—the wealth in the form of cows
+- प्रत्यग्रभीष्म (*pratyagrabhīṣma*)—we have accepted
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the people of the Ruśama country, who have given me four thousand cows, have performed these auspicious acts. We have accepted the wealth in the form of cows offered by the king named Ṛṇañcaya, who is the most excellent of all leaders and himself a leader.
+
+##### English translation
+The Rusamas giving me four thousand cows, Agni, have done well : we have accepted the wealth, the donation of the leader of leaders Rinanchaya.
+
+##### विशेषविषयगळु (Special Topics)
+
+Ṛṇañcaya was the king of the people called Ruśama. By this king's command his servants, the Ruśamas, gave as a gift many cows to the seer Babhru, the seer of this sūkta. The seer accepted it with gratitude and praised the king's gift. In the fourteenth and fifteenth Ṛks of this same sūkta also there is a description praising this gift; there the seer says that King Ṛṇañcaya gave him four thousand cows.
+
+### Printed p. 207
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒पेश॑सं॒ माव॑ सृजं॒त्यस्तं॒ गवां॑ स॒हस्रै॑ रु॒शमा॑सो अग्ने ।  
+> ती॒व्रा इंद्र॑मममंदुः सु॒तासो॒क्तोर्व्यु॑ष्टौ॒ परि॑तक्क्यायाः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुपेशसं । मा । अव । सृजंति । अस्तं । गवां । सहस्रैः । रुशमासः । अग्ने ।  
+> तीव्राः । इंद्रं।अमनुंदुः । सुतासः । अक्तोः।विउष्टौ । परितक्म्यायाः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने रुशमासो रुशमा ऋणंचयस्य किंकराः सुपेशसं सुरूपमलंकाराच्छादनादिभिः संस्कृतं मा मामस्तं गृहं गवां धेनूनां सहस्रैः सहाव
+> सृजंति । प्रापयंति स्म । तदनंतरमेव तीव्रा रसवंतः सुतासो लब्धबहुधनेन
+> मयाभिशुताः सोमाः परितक्क्यायाः । तमसा भूतानि परितस्तकति गच्छतीति
+> परितक्क्या । तस्या अक्तो रात्रेर्वृष्टौ व्युच्छने सति। उषःकाल इत्यर्थः । इंद्रमनुमंदुः । अमादयन् । बभ्रुर्गवां प्राप्त्यनंतरमविलंबितमेव सोमेनेज
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, the Ruśamas, the servants of Ṛṇañcaya, bring to the house (*asta*), together with thousands of cows, me, who am well formed (*supeśasa*), that is, of fair form, adorned with ornaments, clothes and the like. Immediately after that, the keen, that is, juicy, Soma juices pressed by me, who had obtained much wealth, exhilarated Indra at the end (*vyuṣṭi*) of the night (*akti*), that is, at dawn; the night is called *paritakmyā* because it goes around beings with darkness. The meaning is that Babhru, immediately after obtaining the cows, without delay offered sacrifice with Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- रुशमासः (*ruśamāsaḥ*)—the people of the Ruśama country
+- गवां (*gavāṃ*)—of cows
+- सहस्रैः (*sahasraiḥ*)—with thousands
+- सुपेशसं (*supeśasaṃ*)—adorned with excellent means
+- अस्तं (*astaṃ*)—to the house
+- मा (*mā*)—to me
+- अव सृजंति (*ava sṛjaṃti*)—hand over (afterwards)
+- तीव्राः (*tīvrāḥ*)—having keen juice
+- सुतासः (*sutāsaḥ*)—and pressed Soma juices
+- परितक्क्यायाः (*paritakkyāyāḥ*)—enveloped in darkness
+- अक्टोः (*akṭoḥ*)—of the night
+- व्युष्टौ (*vyuṣṭau*)—at the end, at dawn
+- इंद्रं (*iṃdraṃ*)—Indra
+- अममंदुः (*amamaṃduḥ*)—gladdened
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the people of the Ruśama country have handed over to me a house furnished with thousands of cows and with excellent means. Afterwards the Soma juices, of keen taste and excellently pressed, exhilarated Indra at dawn, the end of the night enveloped in darkness.
+
 ---
 
-**Progress note:** Done through printed p. 201. Mandala 5 sukta 30 Rk 8-9; Special Topics on dasa/dasyu, Susna, Sambara, Pipru
+**Progress note:** Done through printed p. 207. M5 S30 Rk 10-13; Special Topics on dasa chiefs continued
