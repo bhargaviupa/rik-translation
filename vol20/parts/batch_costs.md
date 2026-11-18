@@ -13,3 +13,4 @@
 | through p. 229 (three windows in one agent: pp. 210–229) | sonnet | 18 | 181473 | 4.6 |
 | through p. 247 (three windows in one agent: pp. 230–247) | sonnet | 16 | 176826 | 6.1 |
 | through p. 265 (three windows in one agent: pp. 248–265) | sonnet | 13 | 161789 | 4.4 |
+| through p. 271 (ONE window only: pp. 266–271; verify failed on a `##` Pariśiṣṭa heading, repaired by dispatcher) | sonnet | 6 | 117732 | 1.9 |

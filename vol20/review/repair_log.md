@@ -1,1 +1,2 @@
 - 2026-11-18 printed pp. 1-6: three sub-headings written as '## ' (flagged by verify as chapter-level headings) changed to bold lines; no text changed.
+- 2026-11-18 printed pp. 266-271: heading "## Pariśiṣṭa-sūkta 11 (Śrī-sūkta)" (flagged by verify/audit as a chapter-level heading that is not a sūkta) changed to the bold line "**Pariśiṣṭa Sūkta 11 (Śrī-sūkta)**" like the earlier Pariśiṣṭa headings; no text changed.

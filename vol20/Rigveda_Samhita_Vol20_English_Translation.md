@@ -9820,7 +9820,7 @@ Note—These mantras are ordinarily used as the principal oblation mantras in th
 
 ### Printed p. 267
 
-## Pariśiṣṭa-sūkta 11 (Śrī-sūkta)
+**Pariśiṣṭa Sūkta 11 (Śrī-sūkta)**
 
 **The Śrī-sūkta**
 
