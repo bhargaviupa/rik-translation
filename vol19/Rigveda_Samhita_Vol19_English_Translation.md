@@ -17513,6 +17513,85 @@ In this Ṛk the description that Agni, in the most excellent region of the sky,
 
 For the original reality, which is of the nature of the real and the unreal and of the nature of shade and heat **NOTE**, the desire to develop itself is just the desire to be transformed from death into the state that takes the form of the living being. मृत्योर्मुक्षीय मामृतात् (*mṛtyormukṣīya māmṛtāt*) (Ṛ. Saṃ. 7 59-12)
 
+### Printed p. 471
+
+The support of the principle of development, which is lit up by the principle that is hidden (not reachable by the perception of the world) and enveloped in darkness, is the extremely extensive earth (Bhūmi); this earth is the support. But it does not follow, because freedom from death has been obtained, that there is again no death at all.
+
+In the passage य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायामृतं यस्य मृत्युः कस्मै देवाय हविषा विधॆम ॥ (*ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyāmṛtaṃ yasya mṛtyuḥ kasmai devāya haviṣā vidhèma ‖*) (Mṛ. Saṃ. 10-121-2) **NOTE** it is stated that even for Prajāpati, the creator, the bondage of death has not been removed. Hiraṇyagarbha, Agni, Prajāpati and the rest include both the principles, of life and of death. This point is praised in sentences such as स संनयः स विनयः (*sa saṃnayaḥ sa vinayaḥ*) (Ṛ. Saṃ. 2-24.9). Therefore in this mantra that has been quoted (Ṛ. Saṃ. 10-121-2), what is indicated by the word for shade is the whole world of practical life. The purport is that in this practical world the individuals, each according to the form of the principle, shine as reflections of their original principle. In this way the usages छायामृत (*chāyāmṛta*), सदसत् (*sadasat*) and अदिति—दिति (*aditi—diti*) (Ṛ. Saṃ. 5.62.8) all indicate one and the same idea.
+
+Thus, in giving the word for shade the meaning of light, and in stating the purport that this light means the manifold forms of manifestation of the supreme principle that are seen in the practical world, and the reflections of the original principle, the sentences of the Saṃhitā themselves are the basis. Contrary to this, there are also some contexts in which the word for shade is used in the sense of darkness. For example:
+
+यज्ञवल्क्य वेद ना अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायं छायामयः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति मृत्युरिति होवाच ॥ (*yajñavalkya veda nā ahaṃ taṃ puruṣaṃ sarvasyātmanaḥ parāyaṇaṃ yamāttha ya evāyaṃ chāyāmayaḥ puruṣaḥ sa eṣa vadaiva śākalya tasya kā devateti mṛtyuriti hovāca ‖*) (Bṛ. U. 3-9-14)
+
+Here Śaṅkarācārya has stated the purport of छायामयः (*chāyāmayaḥ*) as अज्ञानमयः (*ajñānamayaḥ*). For such a person (puruṣa) अप एवायतनम् (*apa evāyatanam*): the waters alone are his dwelling. What is described in the Ṛk Saṃhitā as तमसा गॊळ्हं (*tamasā gòḷhaṃ*) is described as छायामयः (*chāyāmayaḥ*). The same is described also by the epithets अपामुपस्थे (*apāmupasthe*), अदितेरुपस्थे (*aditerupasthe*) and निर्ऋतेरुपस्थे (*nirṛterupasthe*). The Upaniṣads describe it by अमूर्त (*amūrta*), अशब्द (*aśabda*), शांत (*śāṃta*) and the like.
+
+Therefore the word for shade is used also in the context of describing the two states of the supreme principle. When the Brahman that is the cause has been transformed into the state of effect **NOTE**, his particular radiances are designated by the word
+
+### Printed p. 472
+
+for shade. One meaning is that the whole moving and unmoving world, in the forms of gods, men and animals, also reflects this very thing by the shade-form of this Supreme Brahman.
+
+Secondly, that which before the time of creation was praised by the epithets अमूर्त (*amūrta*), अशब्द (*aśabda*), शांत (*śāṃta*) and the like (Maitrī. 6-3-22 ; 36) **NOTE**, and by descriptions such as नैवेह किंचनास आसीन्मृत्युनैवेदमावृतमासीत् (*naiveha kiṃcanāsa āsīnmṛtyunaivedamāvṛtamāsīt*) (Bṛ. U. 1-2-1), "everything was enveloped by death alone", that unmodified state of the Supreme Brahman, which is the cause, is also described by the very word for shade.
+
+In the present mantra the first meaning is the natural one. In Sāyaṇa's explaining the word छायया (*chāyayā*) as दीप्त्या (*dīptyā*), the purport is that they are the multiple, luminous reflections of that very principle which, being the cause, is praised in manifold forms through the variety of views.
+
+**The original principle**
+This same original principle has been described by names such as अग्नि (*agni*), सामन् (*sāman*), उक्त (*ukta*), ऊर्ज (*ūrja*) and गंधर्व (*gaṃdharva*), on the basis of the qualities that came within the vision of each, and has been worshipped by worshippers such as the Adhvaryus and the Bahvṛcas. That Indra and the other deities are all manifold particular manifestations of one principle, and that by the greatness of that principle रूपंरूपं प्रतिरूपो बभूव (*rūpaṃrūpaṃ pratirūpo babhūva*) (Ṛ. Saṃ. 6-47-18), one thing assumes different forms, has been set out at length, as the Vedic view on the unity of the deities, by citing sentences such as those of the Nirukta. (Ṛ. Saṃ. 1-164, the 46th mantra, for example: इंद्रं मित्रं वरुण मग्निमाहुः (*iṃdraṃ mitraṃ varuṇa magnimāhuḥ*).) Although the same subject is present here too, this mantra, which sets forth the unity of the universe, is explained here without raising merely the unity of the deities; and the opposed elements that shine forth in the world, being and non-being, shade and heat, birth and death, light and darkness, also have one and the same support. The views stated in the Vedic sentences on the point that there is no thing other than Brahman are examined closely.
+
+The word for shade has been said above to denote both the manifest and the unmanifest nature of the supreme principle: manifoldness in the manifest world, and unity in the unmanifest state. Sentences such as अपादशीर्षा गुहमानो अंता (*apādaśīrṣā guhamāno aṃtā*) (Ṛ. Saṃ. 4-1-11) explain these two points. (The purport of the quoted mantra 4-1-11 was given above in explaining the subject of अहिर्बुध्न्य (*ahirbudhnya*).) In the same way the epithets सहस्रशीर्षा (*sahasraśīrṣā*) and सहस्राक्षः (*sahasrākṣaḥ*) and the like also indicate it. Here the word for thousand
+
+### Printed p. 473
+
+does not, as a numeral, designate merely the number one thousand. The word for thousand means infinite; it means ब्रह्मयोनि (*brahmayoni*) (Mu. U. 3-1-3) **NOTE**, which holds in itself infinite forms. Mantras such as तदेकं (*tadekaṃ*) (Ṛ. Saṃ. 10-129-2), विश्वमेकं (*viśvamekaṃ*) (Ṛ. Saṃ. 3.54-8) and वचोभिरेकं संतं बहुधा कल्पयंति (*vacobhirekaṃ saṃtaṃ bahudhā kalpayaṃti*) (Ṛ. Saṃ. 10-114-5) convey this same purport. That is, whatever manifestation takes place in the form of shade, the designation of names follows accordingly. The present aim is thus to understand in what way the sentences of the Saṃhitā have examined the point that both the manifest and the unmanifest natures belong to one and the same original thing, and that its transformation and recurrence are the form of the activity of the world.
+
+ये अर्वांचस्ता उ पराच आहुर्ये परांचस्ता उ अर्वाच आहुः । (*ye arvāṃcastā u parāca āhurye parāṃcastā u arvāca āhuḥ |*) (Ṛ. Saṃ. 1-164-19)
+
+Those rays of the sun's disc that have a downward movement are said by those who know time to be of upward position, and those rays that have an upward spreading they call downward-going. The same is indicated also in the sentence या निशा सर्वभूतानां तस्यां जागर्ति संयमी (*yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī*) (Bha. Gī. 2-69) **NOTE**. In this way a single word sometimes indicates both elements, light and darkness. For example, the purports of one or two words such as विश्वरूप (*viśvarūpa*) and वृत्र (*vṛtra*) can be examined by looking at certain contexts.
+
+Viśvarūpa: this word is an epithet of an Asura. It is likewise an epithet of Tvaṣṭṛ, the creator of all the gods, men and others.
+
+अस्मभ्यं तत्वाष्ट्रं विश्वरूपमरंधयः साख्यस्य त्रिताय (*asmabhyaṃ tatvāṣṭraṃ viśvarūpamaraṃdhayaḥ sākhyasya tritāya*) (Ṛ. Saṃ. 2-11-19)
+
+त्वाष्ट्रस्य चिद्विश्वरूपस्य गोनामाचक्राणस्त्रीणि शीर्षा परा वर्क् । (*tvāṣṭrasya cidviśvarūpasya gonāmācakrāṇastrīṇi śīrṣā parā vark |*) (Ṛ. Saṃ. 18-8-9) **NOTE**
+
+In all such contexts the slaying of the Asura Viśvarūpa is narrated. These descriptions of Viśvarūpa, such as that he had three heads, six eyes and seven rays, show both his demonic nature and his divinity. As soon as this Viśvarūpa, who is an Asura, is slain, Vṛtra comes into being. At once Agni and Soma both come under the demonic power called Vṛtra. Indra and Tvaṣṭṛ are alarmed at this. Then Tvaṣṭṛ makes the thunderbolt for Indra. As soon as Indra raises the thunderbolt, Agni and Soma, both of whom were contained in
+
+### Printed p. 474
+
+Vṛtra, show their fear, and Indra makes the Asura Vṛtra open his mouth wide. Then Agni and Soma both come out. When this is so, one must note what the purport of this account is. (मुखादिंद्रश्चाग्निश्च (*mukhādiṃdraścāgniśca*) Ṛ. Saṃ. 10-90.13: it is stated that from the mouth of the Puruṣa both Indra and Agni came into being.) Describing the nature of this Vṛtra, who was produced by the resolve of Tvaṣṭṛ in order to obstruct Indra, the Taittirīya Saṃhitā says thus:
+
+स इमांल्लोकानवृणोद्यदिमांल्लोकानवृणोत्तद्वत्रस्य वृत्रत्वं (*sa imāṃllokānavṛṇodyadimāṃllokānavṛṇottadvatrasya vṛtratvaṃ*) (Tai. Saṃ. 2-4-12 2)
+
+Because, as soon as he was produced, he pervaded all the worlds, his name is Vṛtra; thus the very characteristics that are stated elsewhere of Viṣṇu and of Viśvarūpa are stated also of this Vṛtra. Just as it is stated that Agni and Soma were contained in Vṛtra, it is stated also that Heaven and Earth were contained in this very Vṛtra. When, as soon as Agni and Soma had come out of Vṛtra, Indra raised the thunderbolt again, Heaven and Earth also stopped Indra, saying: "We two are in him; do not strike him." When it is stated that Heaven and Earth, having then come out from him, obtained their own individual light, the all-pervading nature of Vṛtra is understood. In this context the word that Indra says to Viṣṇu is noteworthy.
+
+सोऽब्रवीद्विष्णवेहीदमा हरिष्यावो येनायमिद मिति स विष्णुस्त्रेधात्मानं नि न्यथत्त पृथिव्यां तृतीयमंतरिक्षे तृतीयं दिवि तृतीयं ॥ (*so 'bravīdviṣṇavehīdamā hariṣyāvo yenāyamida miti sa viṣṇustredhātmānaṃ ni nyathatta pṛthivyāṃ tṛtīyamaṃtarikṣe tṛtīyaṃ divi tṛtīyaṃ ‖*) (Tai. Saṃ. 2.4-1-3)
+
+"O Viṣṇu, help me to slay this Vṛtra, who has made the three worlds contained in himself." Then Viṣṇu too pervaded the three worlds, in order to check Vṛtra, who had pervaded the three worlds. In Ṛ. Saṃ. 10-88-9, the description यस्मिन्नाजुहवुर्भुवनानि विश्वा (*yasminnājuhavurbhuvanāni viśvā*), that they offered the entire universe in Agni as an oblation, indicates the same point in the pervasiveness of Vṛtra. The gods, the scriptures, fame, food and form, all of these went out from the mouth of Vṛtra. The same kind of descriptions that occur in the Puruṣa Sūkta occur at the time of the slaying of Vṛtra. Therefore, at the time of the destruction of both Viśvarūpa and Vṛtra, who are famed as Asuras, a preparation preceding the time of creation appears. The division of the Puruṣa described in the Puruṣa Sūkta and the division of Vṛtra at the time of the slaying of Vṛtra are of one
+
+### Printed p. 475
+
+and the same kind. At the time of the division of the Puruṣa, the effort at creation and the origin of the gods, men and others, as indicated by sentences such as व्यदधुः (*vyadadhuḥ*), कतिधा (*katidhā*) and व्यकल्पयन् (*vyakalpayan*), are described also at the time of the slaying of Vṛtra. The word Vṛtra is formed from the root vṛ, which gives such meanings as "be enveloped" and "revolve". Therefore this epithet can praise also the qualities of Agni, the sun and the others who have these qualities. Just as the word अहि (*ahi*) explains the quality of Vṛtra, so it also makes known the quality of Agni and Soma. The epithet अहि (*ahi*), which indicates the individual quality of Vṛtra, in the same way makes known the quality of Agni and the others. (This subject has been stated in the section on अहिर्बुध्न्य (*ahirbudhnya*).) In this section it is also necessary to consider the similarity between Vṛtra and Varuṇa. As described in mantras such as आनीदवातं (*ānīdavātaṃ*) (Ṛ. Saṃ. 10-129-2), the lower power by which the whole universe is covered may be denoted by the word Vṛtra or by the word Varuṇa. Both words are formed from the root vṛ, which gives the meaning "be enveloped". From this root not only the meaning "pervade" or "be enveloped" but also the meaning "be enveloped again and again" is possible. Because this meaning is possible, the word for shade can have two meanings, one a manifest state and the other an unmanifest state. Creation and dissolution being in the form of recurrence, the meaning of the word for shade also follows this order. For this very reason the movement of Agni too is in alternation. He who reflects the original principle in the form of अहिर्बुध्न्य (*ahirbudhnya*) is in the sacrificial hall in the form of the Gārhapatya and the rest, and having absorbed the whole world in himself, makes it shine forth now and again. Describing this very thing, the Aitareya Brāhmaṇa says स ना एषोऽग्निरेव यदग्निष्टोमः (*sa nā eṣo 'gnireva yadagniṣṭomaḥ*) (Ai. Brā. 3-43). It means that Agni, hidden in the cave, is not ordinarily within the sight of the world, but is the one who appears on the altar in the form of the Agniṣṭoma. That is, in the enveloped form he is the one who reveals the spiritual and the divine natures. That is, there is neither eternal concealment nor eternal manifestation.
+
+For this very reason this Agniṣṭoma has been compared to a chariot wheel. (यथैव प्रायणं यथोदयनं (*yathaiva prāyaṇaṃ yathodayanaṃ*)) यदस्य पूर्वं अपरं तदस्य (*yadasya pūrvaṃ aparaṃ tadasya*): what is the beginning of this is its end also. For this very reason the Aitareya Brāhmaṇa describes the Agniṣṭoma as अहेरेव सर्पणं (*ahereva sarpaṇaṃ*). Just as the supreme principle is described as न ह ना अस्मा उदेति न निम्लोचति (*na ha nā asmā udeti na nimlocati*) (Chā. U. 3-11-3), neither rising nor setting, so the Agniṣṭoma, which has a revolution of every form, is described.
+
+### Printed p. 476
+
+In this way the principle of shade, which is in the form of recurrence, now hidden within and now with an outer light, is praised in the Ṛk Saṃhitā in many contexts. But in all those places the word for shade need not be expressed; the same idea is indicated precisely.
+
+समानमेतदुदकमुच्चैत्यव चाहभिः (*samānametadudakamuccaityava cāhabhiḥ*) (Ṛ. Saṃ. 1-164-51)
+
+सदृशीरद्य सदृशीरिदु श्वो दीर्घं सचंते वरुणस्य धाम (*sadṛśīradya sadṛśīridu śvo dīrghaṃ sacaṃte varuṇasya dhāma*) (Ṛ. Saṃ. 1-123-8)
+
+अनंतास उरवो विश्वत्वः सीं परि द्यावापृथिवी यंति पंथाः (*anaṃtāsa uravo viśvatvaḥ sīṃ pari dyāvāpṛthivī yaṃti paṃthāḥ*) (Ṛ. Saṃ. 5-47-2)
+
+The views contained in sentences such as these convey the very purport that is in the present mantra. The Taittirīya Saṃhitā describes very eminently this principle, which is of the nature of recurrence and shows unity even in variety. The shade principle that has two forms, though they are two transformations of one and the same thing, as light and darkness are two transformations: this is the description of it.
+
+द्वौ समुद्रौ विततावजूर्यौ पर्यावर्तेते जठरेव पादाः । तयोः पश्यंतो अति यंत्यन्यमपश्यंतः । सेतुनाति यंत्यन्यं । द्वे द्रधसी सतती वस्त एकः केशी विश्वा भुवनानि विद्वान् । तिरोधायैत्यसितं वसानश्चक्रमा दत्ते अनुहाय जार्यै ॥ (*dvau samudrau vitatāvajūryau paryāvartete jaṭhareva pādāḥ | tayoḥ paśyaṃto ati yaṃtyanyamapaśyaṃtaḥ | setunāti yaṃtyanyaṃ | dve dradhasī satatī vasta ekaḥ keśī viśvā bhuvanāni vidvān | tirodhāyaityasitaṃ vasānaścakramā datte anuhāya jāryai ‖*) (Tai. Saṃ. 3-2-19, 2)
+
+There are two oceans that do not waste away. They are imperishable. As waves in the midst of the sea arise one after another in alternation, so these oceans revolve in alternation. Men pass these days and nights knowing the nature of one of them and not knowing the nature of the other. Of these, Āditya covers one with his rays (this is the shade in the form of radiance), and he hides the other. Then he leaves the night, which is in the form of darkness, and takes possession of the shining day. Then he leaves the night, which is in the form of darkness, and takes possession of the shining day. In this way the two shades are described.
+
+Therefore, although in the present mantra the beyond-perception of the supreme principle is described by the description यादृगेव ददृशे (*yādṛgeva dadṛśe*), certain aspects come within the sight of certain views through the manifestation of that same thing in the form of shade. This very thing again in the Ṛk Saṃhitā,
+
 ---
 
-**Progress note:** Done through printed p. 470. Sūkta 44 Ṛk 5 end, Ṛk 6 and Special Topics (pp. 465-470)
+**Progress note:** Done through printed p. 476. Special Topics of Sūkta 44 Ṛk 6, shade (chāyā) discussion (pp. 471-476)
