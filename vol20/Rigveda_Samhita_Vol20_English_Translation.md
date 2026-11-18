@@ -154,6 +154,144 @@ Varuṇa teaches the secrets of truth to the sage Vasiṣṭha. (7-87-4)
 
 But he does not disclose his secret truth, nor that of Mitra, to one who is dull of mind and without discernment.
 
+### Printed p. 7
+
+The power and the omniscience of Varuṇa are described in the Atharvaveda in this way.
+
+बृहन्नेषामधिष्ठाता अंतिकादिव पश्यति । यस्त्यायन्मन्यते चरन्सर्वां देवा इदं विदुः ॥ (*bṛhanneṣāmadhiṣṭhātā aṃtikādiva paśyati | yastyāyanmanyate caransarvāṃ devā idaṃ viduḥ ‖*)
+(Ā. Ve. 4-16-1) **NOTE**
+
+Varuṇa, who rules as lord over all these worlds and is of vast form, sees directly the entire doings of each world as if he were very near to all the worlds, and he knows all of it thoroughly. If any man does a wrong deed in secret and imagines that he has done it without anyone knowing, he is mistaken. The gods know all secrets.
+
+यस्तिष्ठति चरति यश्च वंचति यो निलायञ्चरति यः प्रतंकं । द्वौ सन्निषद्य यन्मंत्रयेते राजा तद्वेद वरुणस्तृतीयः ॥ (*yastiṣṭhati carati yaśca vaṃcati yo nilāyañcarati yaḥ prataṃkaṃ | dvau sanniṣadya yanmaṃtrayete rājā tadveda varuṇastṛtīyaḥ ‖*)
+(4-16-2)
+
+Whoever stands, whoever moves about, whoever slips away and wanders in secret, whoever enters a house for shelter or hides in a concealed place, all this Varuṇa finds out. If two persons sit together and carry on a secret plot, Varuṇa, without their knowing it, sits between them as the third and understands that inner plot.
+
+उतेयं भूमिर्वरुणस्य राज्य उतासौ द्यौर्भहती दूरे अंता । उतो समुद्रौ वरुणस्य कुक्षी उतास्मिन्नल्पे उदके निलीनः ॥ (*uteyaṃ bhūmirvaruṇasya rājya utāsau dyaurbhahatī dūre aṃtā | uto samudrau varuṇasya kukṣī utāsminnalpe udake nilīnaḥ ‖*)
+(4-16-3)
+
+The rule of this earth belongs to Varuṇa, the lord. The heaven too, which is boundless and of vast form, belongs to him alone. The oceans, which belong to both heaven and earth, are the bellies of Varuṇa. In this little pool of small extent too Varuṇa is present.
+
+उत यो द्यामतिसर्पात्परस्तान्न स मुच्यातै वरुणस्य राज्ञः । दिवस्पशः प्रचरंतीदमस्य सहस्राक्षा अति पश्यंति भूमिं ॥ (*uta yo dyāmatisarpātparastānna sa mucyātai varuṇasya rājñaḥ | divaspaśaḥ pracaraṃtīdamasya sahasrākṣā ati paśyaṃti bhūmiṃ ‖*)
+(4-16-4)
+
+Even if there is one who could pass beyond the atmosphere, he too cannot escape from the grip of Varuṇa, the lord. His messengers descend from the atmosphere and take possession of this whole earth. And, having a thousand eyes, they scrutinise the whole earth completely.
+
+### Printed p. 8
+
+सर्वं तद्राजा वरुणो विचष्टे यदंतरा रोदसी यत्परस्तात् । संख्याता अस्य निमिषो जनानां अक्षानिव श्वघ्नी नि मिनोति तानि ॥ (*sarvaṃ tadrājā varuṇo vicaṣṭe yadaṃtarā rodasī yatparastāt | saṃkhyātā asya nimiṣo janānāṃ akṣāniva śvaghnī ni minoti tāni ‖*)
+(4-16-5)
+
+Varuṇa knows all the things that lie between the two worlds, heaven and earth. He knows also the things that lie in the regions beyond these two worlds. He notices even the subtle moments in which men wink their eyes and counts them all. As a gambler throws the dice, so Varuṇa examines all these minutely and keeps all these dealings under his own control.
+
+ये ते पाशा वरुण सप्त सप्त त्रेधा तिष्ठंति विषिता रुशंतः । सिनंतु सर्वॆ अनृतं वदंतं यस्सत्यवादी अति तं सृजंतु ॥ (*ye te pāśā varuṇa sapta sapta tredhā tiṣṭhaṃti viṣitā ruśaṃtaḥ | sinaṃtu sarvè anṛtaṃ vadaṃtaṃ yassatyavādī ati taṃ sṛjaṃtu ‖*)
+(4-16-6)
+
+O Varuṇa, may all those snares of yours, which are divided sevenfold and stand in three shining forms, bind tightly the man who speaks untruth. May they not bind the man who speaks the truth, even though they pass close to him.
+
+From what is described in this way it is understood that Varuṇa holds the ordering of all beings under his own control. Because he is able to put an end to the troubles of his people by thousands of kinds of remedies, he is prayed to show kindness out of his measureless and unfathomable bounty, to destroy the sin of his people and to favour them. (1-24-9)
+
+He is prayed to remove sin as one undoes snares. (2-5-5; 5-85-7, 8)
+
+He is entreated not to take away the lives of men but to increase their span of life (मा न आयुः प्रमोषीः । प्र ण आयूंषि तारिषत (*mā na āyuḥ pramoṣīḥ | pra ṇa āyūṃṣi tāriṣata*)). (1-24-11; 1-25-12)
+
+It is asked that he forgive the sacrificer even if, through ignorance, the sacrificer should accidentally transgress the ordinances of Varuṇa. (1-25-1)
+
+That he binds with his snare those who transgress his ordinance and commit sin, and punishes them fully, is stated clearly in many places. (1-24-15; 1 25-21; 6-74-4; 10-85-24; A. Ve. 4-16-6) **NOTE**
+
+### Printed p. 9
+
+In some places Mitra and Varuṇa, both furnished with snares, are praised together. For example, in the mantra 7-65-3 their praise is given, and it is warned that no man who sets himself against them can be able to subdue them, and it is also stated that they are opponents of untruth. In some other places Indra and Varuṇa also are said to be furnished with snares and to bind and punish those whose dealings are untrue. (7-84-2)
+
+Although he inflicts cruel punishment, Varuṇa also has the generosity to forgive sinners, and he forgives those who have sinned through ignorance. (7-87-7)
+
+He is the one who protects immortality by his wisdom.
+
+There is the hope that the virtuous will have the good fortune to see Varuṇa ruling in the highest state together with Yama in the other world. (10-14-7)
+
+Thus both the deeds that show the greatness of Varuṇa and the epithets that describe his extraordinary powers indicate Varuṇa's lofty position, spiritual and moral. Such a high station cannot belong to any other god. Besides the passages quoted above, the greatness of Varuṇa is praised in many other places. Of these, only the purport of some mantras is given.
+
+"O Varuṇa, to find out the sin committed through ignorance I trust the wise and question them." All those sages, with one voice, declare, "Varuṇa is angry with you. Therefore, O Varuṇa, forgive this sin and release us from the snare."
+
+"O Varuṇa, what is that great sin because of which you, taking offence, wish to punish severely me, your friend and your worshipper? O radiant Varuṇa, whose power cannot be checked, tell me the nature of that sin of mine. Freed from it, I shall afterwards undertake your worship."
+
+"If the sin committed by our forefathers in former times has followed us, free us from it. If we ourselves have committed sin, protect us from that also. As, when a thief is stealing cattle, one frees them from their bonds and makes them free, and as one frees from the rope's bond a calf eager to suck at its mother, so free me from the bond that is sin."
+
+"O Varuṇa, we did not commit this sin deliberately. It is the result of our delusion. We committed this sin through ignorance caused by liquor, by being overcome with anger, by the vice of gambling and the like, and through the vices of desire and the rest.
+
+### Printed p. 10
+
+Delusion, which has power over us and is stronger than our resolve, has made us do this sin. Even our sleep is a cause of sin for us." (Ṛ. Saṃ. 7-86-3 to 6)
+
+"O Varuṇa, do not make me go to the house made of earth. O Varuṇa of excellent valour, favour me. Have mercy on me."
+
+"O Varuṇa, who hold a sharp weapon, I tremble when I look at you, like a leather bag filled with wind. Have mercy on me."
+
+"O powerful and pure Varuṇa **NOTE**, I am unable to be one who follows your pure command, and only through my weakness have I transgressed your command. But since weakness alone is the cause in this matter, forgive this sin and show mercy to me."
+
+"Though I stand in a place full of water, I am tormented by thirst. Since I am your praiser, do not prolong my trouble; have mercy on me and remove my trouble."
+
+"O Varuṇa, whatever offence we may have committed against the gods who dwell in the shining world, or whatever offence against you in the form of transgressing your command, knowing that all of it is due to our ignorance, make us free from that sin. Do not punish us for those sinful deeds. Have mercy on us." (7-89-1 to 5)
+
+Having prayed in this way in some places, the same sage in another place recalls the friendship between himself and Varuṇa, reminds Varuṇa of all the kindnesses that the gods had done to him formerly, asks what the reason is that Varuṇa should be unkind to him now alone, and entreats his mercy.
+
+"Varuṇa had seated Vasiṣṭha in his own boat. By the favour of that Varuṇa, Vasiṣṭha too attained the highest sagehood of his life, and he worshipped him also with the aim that long life should be gained by him."
+
+"O Varuṇa, where is that friendship which was formerly between the two of us? Where has that mutual feeling that was between us gone? O Varuṇa, who shine by your own radiance, I have come as a suppliant to your house of a thousand doors."
+
+"O Varuṇa, the sage who was your friend, your closest intimate, who was your own, who was worthy of your love, may have committed sin through ignorance; he may have committed an offence against you. But do not make us (myself and those who belong to me) undergo the fruit of that sin. O wise god Varuṇa, give protection to the sage who praises you." (7-88-4)
+
+### Printed p. 11
+
+The nature of the companionship of Mitra and Varuṇa, and their actions.
+
+The same epithets that have been used to show the greatness of Varuṇa are used to praise Mitra and Varuṇa together.
+
+These two, Mitra and Varuṇa, uphold heaven and earth and are lords over them. As owners of the radiant heaven and earth, they have established the sun in the atmosphere. (5-62-3, 5-69-1, 4, 5-63-7, 6-67-5, 7-61-4, 18-13-2-2)
+
+These two, Mitra and Varuṇa, are the protectors of all the worlds (विश्वस्य भुवनस्य गोपा (*viśvasya bhuvanasya gopā*)). (2-27-4, 5-62-9, 7-51-2, 8-25-1, 10-126-4)
+
+It is in obedience to the command of these two, Mitra and Varuṇa, that the great atmosphere also shines. (10-65-5)
+
+They themselves are the creators and do good to the whole world. (5-62-3, 5-63-1 to 3)
+
+Their divinity surpasses the extent of the heavenly world and the length of the rivers. (1-151-9)
+
+These two gods (together with Aryaman **NOTE**), just as they are attractive to the virtuous, so are they opponents of evil deeds and of untruthful living, and are of most terrible form to men who are of evil mind and speak untruth. (1-152-1, 7-66-13)
+
+They carry out their works in accordance with their firm resolves, which cannot be obstructed even by the immortal gods. (5-63-7, 5-69-4)
+
+These Mitra and Varuṇa bring even a man who is without discernment and foolish to be endowed with discernment. They are omniscient. (7-60-6, 7)
+
+As a herdsman watches his cattle, Mitra and Varuṇa look upon all men from the atmosphere itself and know their dealings. (7-60-3, 9, 16)
+
+### Printed p. 12
+
+In many places they are described as truthful in nature, pure in soul, and helpers of holy sacrificial acts (ऋतावृधा (*ṛtāvṛdhā*); ऋतजाता (*ṛtajātā*), ऋतस्म गोपौ (*ṛtasma gopau*), ऋतावाना (*ṛtāvānā*)). (1-2-8; 1-23-5; 1-136-4; 2-27-4; 5-63-1; 5-65-2; 5-67-4, 7-64-2; 7-66-3; 8-23-30; 8-25-8)
+
+These two alone are the lords of truth and the masters of lights (यतस्य ज्योतिषस्पती (*yatasya jyotiṣaspatī*)). (1-23-5)
+
+Mitra and Varuṇa, together with the other Ādityas, destroy sinful deeds and untruth **NOTE**. (2-27-4; 7-60-5)
+
+The man who neglects to recite the praise of these two groans in distress. (1-12)
+
+They are entreated, together with Aditi, for the forgiveness of sin committed through ignorance by the praisers.
+
+They are prayed to, together with Aryaman, to make one free from sin. (2-27-14)
+
+The description of the personal nature of Mitra. (10-12-6)
+
+In the 59th sūkta of the third maṇḍala of the Ṛk-saṃhitā Mitra alone is praised. The purport of only some of the mantras that describe his qualities is given here.
+
+"Mitra, uttering his own dear speech, impels men to their respective works. He makes heaven and earth stand firm and is their support. Without even winking his eye he watches all beings. Offer the oblation of ghee to this Mitra."
+
+"O Mitra, son of Aditi, may food be gained by the man who worships you with the most excellent sacrificial acts and offers you praise. For the man who has come under your protection there is neither death nor defeat. From very near or from a distant place, there is no calamity at all for such a man."
+
+"This venerable Mitra is the best. He alone is the lord, he alone is powerful and wise. May we be under his protection."
+
+Approaching with reverence this Mitra, who makes men know their respective duties and impels them to those duties, and who favours the worshippers, one should offer to him a worship fit to win his favour.
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 Mitra-Varuna introduction to Sukta 63
+**Progress note:** Done through printed p. 12. Varuna and Mitra-Varuna characterisation, pp. 7-12
