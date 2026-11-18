@@ -10734,6 +10734,174 @@ O Agni, क्षुत्पिपासामला (*kṣutpipāsāmalā*) is
 
 O Agni (or O goddess Śrī), she who is worn out and emaciated by hunger and thirst, who has a filthy body, and who, since she arose before Lakṣmī at the time of the churning of the ocean of milk, to Lakṣmī
 
+### Printed p. 308
+
+the elder sister, the deity presiding over poverty, I destroy. O Agni, thereafter drive out of my house the low state of being without wealth, and poverty.
+
+##### विशेषविषयगळु (Special Topics)
+
+लक्ष्मीयामळे (*lakṣmīyāmaḷe*)
+
+प्रजपेद्विधिना नित्यं श्री सूक्ते चर्चमष्टमीं । प्रत्यक्षरसहस्रं च गायत्रीमपि तावतीं ॥ श्रीगायत्रीदशांशं तु लक्ष्मीमंत्रं शतांशकं । अनिष्टपरिहारार्थो मंत्रोऽयं परिकीर्तितः ॥ दौर्भाग्यं शमयेदेव दुर्लिपिं परिमार्जयेत् । वीरासनसमासीनः अग्निहोत्रपुरस्थितः । फलाशी प्रजपेन्मंत्रं भक्त्या रुद्राक्षमालया । तिलहोमं प्रकुर्वीत विरजामपि हावयेत् ॥ धृतेन जुहुयालक्ष्मीं दौर्भाग्यं तस्य नश्यति । सौभाग्यं जायते तस्य नात्र कार्या विचारणा ॥ (*prajapedvidhinā nityaṃ śrī sūkte carcamaṣṭamīṃ | pratyakṣarasahasraṃ ca gāyatrīmapi tāvatīṃ ‖ śrīgāyatrīdaśāṃśaṃ tu lakṣmīmaṃtraṃ śatāṃśakaṃ | aniṣṭaparihārārtho maṃtro 'yaṃ parikīrtitaḥ ‖ daurbhāgyaṃ śamayedeva durlipiṃ parimārjayet | vīrāsanasamāsīnaḥ agnihotrapurasthitaḥ | phalāśī prajapenmaṃtraṃ bhaktyā rudrākṣamālayā | tilahomaṃ prakurvīta virajāmapi hāvayet ‖ dhṛtena juhuyālakṣmīṃ daurbhāgyaṃ tasya naśyati | saubhāgyaṃ jāyate tasya nātra kāryā vicāraṇā ‖*)
+
+रं ह्रीं श्रीं ह्रीं रं इति बीजपंचकेन समंत्रांगन्यासः ॥ (*raṃ hrīṃ śrīṃ hrīṃ raṃ iti bījapaṃcakena samaṃtrāṃganyāsaḥ ‖*)
+
+अज्ञानपातकतमस्ततितीव्ररश्मिं दौर्भाग्यभूधरविदारणवज्रमीडे । रोगार्तिघोरफणिमर्दनपक्षिराजं लक्ष्मीपदद्वयमनर्थहरं सुखार्थी ॥ खड्गं सवातचक्रं च कमलं वरमेव च । करैश्चतुर्भिर्बिभ्राणां ध्यायेच्चंद्राननां श्रियं ॥ (*ajñānapātakatamastatitīvraraśmiṃ daurbhāgyabhūdharavidāraṇavajramīḍe | rogārtighoraphaṇimardanapakṣirājaṃ lakṣmīpadadvayamanarthaharaṃ sukhārthī ‖ khaḍgaṃ savātacakraṃ ca kamalaṃ varameva ca | karaiścaturbhirbibhrāṇāṃ dhyāyeccaṃdrānanāṃ śriyaṃ ‖*)
+
+##### Anuvāda
+
+In the work called Lakṣmī-yāmaḷa it is said thus. The eighth Ṛk in the Śrī-sūkta is to be repeated every day according to the rule. It is to be repeated as many thousand times as there are syllables in the mantra. After that the Lakṣmī Gāyatrī mantra is to be repeated to the extent of one hundredth part of the number stated above, and the Śrī Gāyatrī mantra to the extent of one tenth part. It is well known that by repeating this mantra misfortune, poverty and other evils are removed. The man who repeats it, after performing the agnihotra and other rites, is to sit in the hero posture (vīrāsana) facing the agnihotra fire, hold in his hand a rosary of rudrākṣa beads, and repeat the mantra with devotion. On the day of the repetition he is to keep to a measured diet, eating only fruits and the like. After the repetition he is to make a sesame oblation and a virajā oblation in the fire. If an oblation of ghee is made with the mantra, addressed to the goddess Lakṣmī, that man's sorrow and poverty are destroyed, and
+
+### Printed p. 309
+
+all wealth and good fortune come to him. There is no need to doubt this. While repeating this mantra, the nyāsa is to be made together with the five seed-syllables रं ह्रीं श्रीं ह्रीं रं (*raṃ hrīṃ śrīṃ hrīṃ raṃ*), and the meditation verses given below are to be recited and meditated on.
+
+अज्ञानपातकतमस्ततीतीव्ररश्मिं दौर्भाग्यभूधरविदारणवज्रमीडे । रोगार्तिघोरफणिमर्दनपक्षिराजं लक्ष्मीपदद्वयमनर्थहरं सुखार्थी ॥ खड्गं सवातचक्रं च कमलं वरमेव च । करैश्चतुर्भिर्बिभ्राणां ध्यायेच्चंद्राननां श्रियं ॥ (*ajñānapātakatamastatītīvraraśmiṃ daurbhāgyabhūdharavidāraṇavajramīḍe | rogārtighoraphaṇimardanapakṣirājaṃ lakṣmīpadadvayamanarthaharaṃ sukhārthī ‖ khaḍgaṃ savātacakraṃ ca kamalaṃ varameva ca | karaiścaturbhirbibhrāṇāṃ dhyāyeccaṃdrānanāṃ śriyaṃ ‖*)
+
+The pair of feet of the goddess Śrī Lakṣmī is like the sharp rays of the sun in driving away the darkness called ignorance and sin; it is like the thunderbolt that splits the mountain called misfortune; it is like Garuḍa, the king of birds, who destroys the terrible serpents called disease and affliction. I praise the pair of feet of Śrī Lakṣmī, who has the power and capacity to remove such evils. This goddess Śrī, holding in her four hands a sword, a discus, a lotus and the hand granting a boon, shines with a radiance pleasing to the eye like the moon. Such a goddess Śrī is to be meditated on. This is the main purport of the meditation verses.
+
+Here ends the explanation of the meaning of the eighth Ṛk.
+
+#### Ṛk 9 (continued)
+
+[अस्य श्रीश्रीसूक्तनवमऋचो गंधद्वारेति महामंत्रस्य । श्रीमहाविष्णुर्यषिः । श्रीमहालक्ष्मीर्देवता । अनुष्टुप्छंदः ॥ गं बीजं । ह्रीं शक्तिः । श्रीं कीलकं । श्रीमहालक्ष्मीप्रसाद सिद्ध्यर्थे गंधद्वारेति मंत्रजपे विनियोगः ॥ (*[asya śrīśrīsūktanavamaṛco gaṃdhadvāreti mahāmaṃtrasya | śrīmahāviṣṇuryaṣiḥ | śrīmahālakṣmīrdevatā | anuṣṭupchaṃdaḥ ‖ gaṃ bījaṃ | hrīṃ śaktiḥ | śrīṃ kīlakaṃ | śrīmahālakṣmīprasāda siddhyarthe gaṃdhadvāreti maṃtrajape viniyogaḥ ‖*) ओं गंधद्वारां—अंगुष्ठाभ्यां नमः । ओं दुराधर्षां—तर्जनीभ्यां नमः । ओं नित्यपुष्टां—मध्यमाभ्यां नमः । ओं करीषिणीं—अनामिकाभ्यां नमः । ओं ईश्वरीं सर्वभूतानां—कनिष्ठिकाभ्यां नमः । ओं तामिहोपह्वये श्रियं—करतलकरपृष्ठाभ्यां नमः । (*oṃ gaṃdhadvārāṃ—aṃguṣṭhābhyāṃ namaḥ | oṃ durādharṣāṃ—tarjanībhyāṃ namaḥ | oṃ nityapuṣṭāṃ—madhyamābhyāṃ namaḥ | oṃ karīṣiṇīṃ—anāmikābhyāṃ namaḥ | oṃ īśvarīṃ sarvabhūtānāṃ—kaniṣṭhikābhyāṃ namaḥ | oṃ tāmihopahvaye śriyaṃ—karatalakarapṛṣṭhābhyāṃ namaḥ |*) ओं गंधद्वारां—हृदयाय नमः । ओं दुराधर्षां—शिरसे स्वाहा । ओं नित्यपुष्टां—शिखाय्कॆ वषट् । ओं करीषिणीं—कवचाय हुं ॥ ओं ईश्वरीं सर्वभूतानां—नेत्रत्रयाय वौषट् । ओं तामिहोपह्वये श्रियं— अस्त्राय फट् ॥ (*oṃ gaṃdhadvārāṃ—hṛdayāya namaḥ | oṃ durādharṣāṃ—śirase svāhā | oṃ nityapuṣṭāṃ—śikhāykè vaṣaṭ | oṃ karīṣiṇīṃ—kavacāya huṃ ‖ oṃ īśvarīṃ sarvabhūtānāṃ—netratrayāya vauṣaṭ | oṃ tāmihopahvaye śriyaṃ— astrāya phaṭ ‖*) भूर्भुवस्सुवरोमिति दिग्बंधः ॥ अथ ध्यानं ॥ (*bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ atha dhyānaṃ ‖*)
+
+### Printed p. 310
+
+कल्पद्रोः पादमूले द्रुतकनकनिभाचारुसिंहासनस्थां हस्तैः पद्मौ वरदमभयं धारयंतीं च मालां । नानाभूषां सुवेषां मणिमकुटधरां दिव्यगंधानुलेपां ध्यायेत्संपूर्णकामप्रदकरकमलां कंबुकंठीं हृदब्बे ॥ एवं ध्यात्वा जपेन्मंत्रं लक्षं सर्वार्थसिद्धये] ॥ (*kalpadroḥ pādamūle drutakanakanibhācārusiṃhāsanasthāṃ hastaiḥ padmau varadamabhayaṃ dhārayaṃtīṃ ca mālāṃ | nānābhūṣāṃ suveṣāṃ maṇimakuṭadharāṃ divyagaṃdhānulepāṃ dhyāyetsaṃpūrṇakāmapradakarakamalāṃ kaṃbukaṃṭhīṃ hṛdabbe ‖ evaṃ dhyātvā japenmaṃtraṃ lakṣaṃ sarvārthasiddhaye] ‖*) **GLOSS**
+
+गंधद्वारां दुराधर्षां नित्यपुष्टां करीषिणीं । ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियं ॥ (*gaṃdhadvārāṃ durādharṣāṃ nityapuṣṭāṃ karīṣiṇīṃ | īśvarīṃ sarvabhūtānāṃ tāmihopahvaye śriyaṃ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+गंधः घ्राणग्राह्यो गुणः द्वारं लक्षणं यस्यास्तां दुराधर्षां केनापि धर्षितुमशक्यां नित्यपुष्टां नित्यं सदा सस्यादिभिः पुष्टां समृद्धां करीषिणीं करीषः शुष्कगोमयादिस्तद्वतीं गवाश्वादिबहुपशुसमृद्धामिति यावत् । सर्वभूतानां सकलप्राणिनामीश्वरीमधिष्ठात्रीमाधारभूतां ना तां भूरूपां श्रियमिह उपह्वये उपाह्वये । (*gaṃdhaḥ ghrāṇagrāhyo guṇaḥ dvāraṃ lakṣaṇaṃ yasyāstāṃ durādharṣāṃ kenāpi dharṣitumaśakyāṃ nityapuṣṭāṃ nityaṃ sadā sasyādibhiḥ puṣṭāṃ samṛddhāṃ karīṣiṇīṃ karīṣaḥ śuṣkagomayādistadvatīṃ gavāśvādibahupaśusamṛddhāmiti yāvat | sarvabhūtānāṃ sakalaprāṇināmīśvarīmadhiṣṭhātrīmādhārabhūtāṃ nā tāṃ bhūrūpāṃ śriyamiha upahvaye upāhvaye |*)
+
+##### Gist of the bhāṣya
+
+गंधद्वारा (*gaṃdhadvārā*) is she whose mark (dvāra) is smell, the quality grasped by the nose. दुराधर्षा (*durādharṣā*) is she who cannot be overcome by anyone. नित्यपुष्टा (*nityapuṣṭā*) is she who is ever nourished by crops and the like, that is, prosperous. करीषिणी (*karīṣiṇī*) is she who has karīṣa, dried cow-dung and the like; that is, she is rich in many animals such as cows and horses. She is the ruler, the presiding deity and the support of all beings, all living creatures. Her, Śrī in the form of earth, I here invite. **NOTE**
+
+**Bhāṣya of Pṛthvīdhara**
+
+हे अग्ने गंधद्वारां गंधवतीं पृथ्वीरूपां दुराधर्षां दुस्सहां केनापि धर्षितुमशक्यामित्यर्थः । नित्यपुष्टां नित्यं सस्यादिभिः पोषणशीलां करीषिणीं शुष्कगोमयवतीं अनेन पृथिव्या असंख्यातपशुमत्तं व्यज्यते । सर्वभूतानां समस्त प्राणिनामीश्वरीं नियामिकां प्रभुरूपां तां श्रियं लक्ष्मीमिह आस्मिन् देशे अहमुपह्वये मत्समीपं प्रत्यागच्छेत्याह्वानं करोमीत्यर्थः ॥ विष्णुपति ० महा देवीमिति भूसूक्ते । श्रीर्भूर्निलीला रमा दुर्गा सीता सत्या च भामिनी । रुक्ष्मिणीतुलसीराधास्सर्वा लक्ष्म्यंशसंभवाः ॥ इति श्रीरहस्ये ॥ (*he agne gaṃdhadvārāṃ gaṃdhavatīṃ pṛthvīrūpāṃ durādharṣāṃ dussahāṃ kenāpi dharṣitumaśakyāmityarthaḥ | nityapuṣṭāṃ nityaṃ sasyādibhiḥ poṣaṇaśīlāṃ karīṣiṇīṃ śuṣkagomayavatīṃ anena pṛthivyā asaṃkhyātapaśumattaṃ vyajyate | sarvabhūtānāṃ samasta prāṇināmīśvarīṃ niyāmikāṃ prabhurūpāṃ tāṃ śriyaṃ lakṣmīmiha āsmin deśe ahamupahvaye matsamīpaṃ pratyāgacchetyāhvānaṃ karomītyarthaḥ ‖ viṣṇupati 0 mahā devīmiti bhūsūkte | śrīrbhūrnilīlā ramā durgā sītā satyā ca bhāminī | rukṣmiṇītulasīrādhāssarvā lakṣmyaṃśasaṃbhavāḥ ‖ iti śrīrahasye ‖*)
+
+##### Gist of the bhāṣya
+
+O Agni, गंधद्वारा (*gaṃdhadvārā*) is she who has smell, who is in the form of earth. दुराधर्षा (*durādharṣā*) is she who is hard to bear, that is, whom no one can overcome. नित्यपुष्टा (*nityapuṣṭā*) is she who is ever nourishing with crops and the like. करीषिणी (*karīṣiṇī*) is she who has dried cow-dung; by this the possession of countless cattle by the earth is shown. She is the ruler of all beings, their controller, of the form of the lord. That Śrī, Lakṣmī, I here, in this country, invite: I make the invitation, "Come back to my presence." He cites, with the Bhū-sūkta, the words विष्णुपति ० महा देवीमिति भूसूक्ते (*viṣṇupati 0 mahā devīmiti bhūsūkte*) **NOTE**, and a verse from the Śrī-rahasya naming Śrī, Bhū, Nīlā, Ramā, Durgā, Sītā, Satyā, Bhāminī, Rukmiṇī, Tulasī and Rādhā as all born of portions of Lakṣmī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अग्ने (*he agne*)—O Agni
+- गंधद्वारां (*gaṃdhadvārāṃ*)—she whose mark is the quality of smell, that is, who has the form of earth
+- दुराधर्षां (*durādharṣāṃ*)—who cannot be borne by anyone
+
+### Printed p. 311
+
+- नित्यपुष्टां (*nityapuṣṭāṃ*)—who is at all times nourished together with crops and the like, that is, endowed with abundance of crops
+- करीषिणीं (*karīṣiṇīṃ*)—endowed with dried cow-dung, that is, endowed with the wealth of countless cattle
+- सर्वभूतानां (*sarvabhūtānāṃ*)—of all living beings
+- ईश्वरीं (*īśvarīṃ*)—who is the mistress
+- तां (*tāṃ*)—her who is in the form of earth
+- श्रियं (*śriyaṃ*)—the goddess Śrī
+- इह (*iha*)—to the place where I am
+- उप ह्वये (*upa hvaye*)—I call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I pray and call to my presence the goddess Śrī, who has the form of earth, whose mark is smell; whose shape or weight cannot be borne by anyone; who at all times nourishes all with crops and the like and with countless wealth of cattle; and who, in the form of earth, is the lord and controller of all living beings.
+
+##### विशेषविषयगळु (Special Topics)
+
+वैखानसविद्यायां (*vaikhānasavidyāyāṃ*)
+
+ऋचमानुष्टुभीं गंधद्वारामिति जपेच्छ्रियः । षष्टुत्तरशतानां तु सहस्राणां च संख्यया ॥ पद्माक्षमालया पद्मासनस्थसह पार्थिवं । बीजं विन्यस्य मंत्रेण श्रीबीजेन च तज्ञपेत् ॥ केसरीचंद्रकस्तूरीश्रीखंडाद्यैर्मनोहरैः । गंधद्रव्यैस्समभ्यर्च्य स्थंडिले श्रियमर्चयेत् ॥ (*ṛcamānuṣṭubhīṃ gaṃdhadvārāmiti japecchriyaḥ | ṣaṣṭuttaraśatānāṃ tu sahasrāṇāṃ ca saṃkhyayā ‖ padmākṣamālayā padmāsanasthasaha pārthivaṃ | bījaṃ vinyasya maṃtreṇa śrībījena ca tajñapet ‖ kesarīcaṃdrakastūrīśrīkhaṃḍādyairmanoharaiḥ | gaṃdhadravyaissamabhyarcya sthaṃḍile śriyamarcayet ‖*)
+
+गोवृंदानुगतां ध्यात्वा सुरभिं सस्यमालिनीं । पृथुलां प्राणिनामीशां दुर्धर्षां श्रियमर्चयेत् ॥ (*govṛṃdānugatāṃ dhyātvā surabhiṃ sasyamālinīṃ | pṛthulāṃ prāṇināmīśāṃ durdharṣāṃ śriyamarcayet ‖*)
+
+कृषिफलप्रदः धनधान्यपशुसमृद्धिकरः पुण्यगंधप्रदः महत्वापादकः प्रभुत्वसाधकश्च मंत्रोऽयं ॥ (*kṛṣiphalapradaḥ dhanadhānyapaśusamṛddhikaraḥ puṇyagaṃdhapradaḥ mahatvāpādakaḥ prabhutvasādhakaśca maṃtro 'yaṃ ‖*)
+
+##### Anuvāda
+
+In this Ṛk the goddess Śrī is praised, conceived as being in the form of earth. In this matter it is said in the work called Śrī-rahasya:
+
+श्रीर्भूर्निलीला रमा दुर्गा सीता सत्या च भामिनी । (*śrīrbhūrnilīlā ramā durgā sītā satyā ca bhāminī |*)
+
+रुक्ष्मिणीतुलिसीराधाः सर्वा लक्ष्म्यंशसंभवाः ॥ (*rukṣmiṇītulisīrādhāḥ sarvā lakṣmyaṃśasaṃbhavāḥ ‖*)
+
+That is, since it is said that all the goddesses, Śrīdevī, Bhūdevī (Pṛthivī), Nīlā, Ramā, Durgā, Sītā, Satyabhāmā, Rukmiṇī, Tulasī and Rādhā, are born of portions of the goddess Lakṣmī, in this Ṛk the goddess Śrī is described as bearing the form of earth.
+
+### Printed p. 312
+
+गंधद्वारां (*gaṃdhadvārāṃ*)—गंधः घ्राणग्राह्यो गुणः द्वारं लक्षणं यस्यास्तां (*gaṃdhaḥ ghrāṇagrāhyo guṇaḥ dvāraṃ lakṣaṇaṃ yasyāstāṃ*). Earth and the other five elements have the chief qualities of sound, touch and so on. Thus, it is said in the Vedic sentences that sound is the chief quality of space, touch of air, form of fire, taste of water, and smell of earth. Therefore here, when earth is designated, its quality, smell, is stated as its mark. For this reason it is customary to say गंधवती पृथिवी (*gaṃdhavatī pṛthivī*).
+
+दुराधर्षां (*durādharṣāṃ*)—Since earth, unlike other ordinary things, is very large in size and extremely heavy, the idea that no one is able to bear (carry) it is indicated by the epithet दुराधर्षां (*durādharṣāṃ*).
+
+नित्यपुष्टां (*nityapuṣṭāṃ*)—Since on the earth crops, trees and plants always grow abundantly, and nourishing food for all living beings is obtained from them, the earth is described as nourishing everyone.
+
+करीषिणीं (*karīṣiṇīṃ*)—शुष्कगोमयस्तद्वतीं (*śuṣkagomayastadvatīṃ*). The commentator has explained करीष (*karīṣa*) as dried cow-dung. Where there is cow-dung there must be cattle. Therefore "one who has dried cow-dung" means one who has the wealth of cattle, the cows and so on, that are the cause of that cow-dung. The idea is that for living beings or for people to get nourishing food, abundance of crops and abundance of cattle must exist. The earth is praised as one that possesses these two kinds of nourishment.
+
+In the work called Vaikhānasa-vidyā the manner in which this Ṛk is to be repeated is described thus. The Ṛk of the Śrī-sūkta in the Anuṣṭubh metre beginning गंधद्वारां (*gaṃdhadvārāṃ*) is to be repeated one lakh sixty thousand times. The practitioner, seated in the lotus posture, holding in his hand the rosary called padmākṣa, is to make the nyāsa together with the earth seed-syllable and the Śrī seed-syllable, and repeat this Ṛk. Having properly made a sthaṇḍila (ritual platform), decorated it with rangoli and the like, and installed the goddess Śrī upon it, he is to worship her with saffron, camphor, musk, sandal, and charming, fragrant auspicious substances, meditating on the goddess Śrī as being in the form of earth, in which there is a multitude of cows and fragrant abundance of crops, who is very extensive, the mistress of all living beings, and possessed of incomparable power and capacity that no one can endure. By worshipping the goddess in this manner and repeating this mantra, the fruit of cultivation, that is, grain and other produce of agriculture, wealth and abundance of cattle, all this will be obtained. Welfare, regard, lordship and similar distinctions will also be obtained.
+
+Here ends the explanation of the ninth Ṛk.
+
+### Printed p. 313
+
+#### Ṛk 10
+
+[अस्य श्री श्रीसूक्तमनसःकाममिति दशमयङ्महामंत्रस्य । काम ऋषिः । श्रीमहालक्ष्मीर्देवता । अनुष्टुप्छंदः । मं बीजं । शं शक्तिः । श्रीः कीलकं । महालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*[asya śrī śrīsūktamanasaḥkāmamiti daśamayaṅmahāmaṃtrasya | kāma ṛṣiḥ | śrīmahālakṣmīrdevatā | anuṣṭupchaṃdaḥ | maṃ bījaṃ | śaṃ śaktiḥ | śrīḥ kīlakaṃ | mahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*) ओं ओं मनसः काममाकूतिं—अंगुष्ठाभ्यां नमः । ओं ऐं वाचस्सत्यं— तर्जनीभ्यां नमः । ओं लं अशीमहि—मध्यमाभ्यां नमः । ओं वं पशूनां रूपमन्नस्य—अनामिकाभ्यां नमः । ओं श्रीं मयिश्रीः—कनिष्ठिकाभ्यां नमः । ओं ओं ऐं लं वं श्रीं श्रयतां यशः—करतलकरपृष्ठाभ्यां नमः । (*oṃ oṃ manasaḥ kāmamākūtiṃ—aṃguṣṭhābhyāṃ namaḥ | oṃ aiṃ vācassatyaṃ— tarjanībhyāṃ namaḥ | oṃ laṃ aśīmahi—madhyamābhyāṃ namaḥ | oṃ vaṃ paśūnāṃ rūpamannasya—anāmikābhyāṃ namaḥ | oṃ śrīṃ mayiśrīḥ—kaniṣṭhikābhyāṃ namaḥ | oṃ oṃ aiṃ laṃ vaṃ śrīṃ śrayatāṃ yaśaḥ—karatalakarapṛṣṭhābhyāṃ namaḥ |*) ओं ओं मनसः काममाकूतिं—हृदयाय नमः । ओं ऐं वाचस्सत्यं—शिरसे स्वाहा । ओं लं अशीमहि— शिखाय्कॆ वषट् । ओं वं पशूनां रूपमन्नस्य—कवचाय हुं । ओं श्रीं मयि श्रीः— नेत्रत्रयाय नौषट् । ओं ओं ऐं लं वं श्रीं श्रयतां यशः—अस्त्राय फट् ॥ (*oṃ oṃ manasaḥ kāmamākūtiṃ—hṛdayāya namaḥ | oṃ aiṃ vācassatyaṃ—śirase svāhā | oṃ laṃ aśīmahi— śikhāykè vaṣaṭ | oṃ vaṃ paśūnāṃ rūpamannasya—kavacāya huṃ | oṃ śrīṃ mayi śrīḥ— netratrayāya nauṣaṭ | oṃ oṃ aiṃ laṃ vaṃ śrīṃ śrayatāṃ yaśaḥ—astrāya phaṭ ‖*) भूर्भुवस्सुवरोमिति दिग्धंधः ॥ ध्यानं ॥ (*bhūrbhuvassuvaromiti digdhaṃdhaḥ ‖ dhyānaṃ ‖*) कांत्या कांचनसन्निभां द्विनयनां कल्हारमालावतीं कस्तूरीतिलकां करैश्च कमले कंठेन मुक्तावळीं । शेषाशेषविशेषभूषणरतां संबिभ्रतीं कुंडलां पद्माक्षीं भज सर्वदाभिलषितप्राप्त्यै समृद्धश्रियै ॥ एवं ध्यात्वा जपेन्मंत्रलक्षमात्रमतंद्रितः ॥ (*kāṃtyā kāṃcanasannibhāṃ dvinayanāṃ kalhāramālāvatīṃ kastūrītilakāṃ karaiśca kamale kaṃṭhena muktāvaḷīṃ | śeṣāśeṣaviśeṣabhūṣaṇaratāṃ saṃbibhratīṃ kuṃḍalāṃ padmākṣīṃ bhaja sarvadābhilaṣitaprāptyai samṛddhaśriyai ‖ evaṃ dhyātvā japenmaṃtralakṣamātramataṃdritaḥ ‖*) **GLOSS**
+
+मनसः काममाकूतिं वाचः सत्यमशीमहि । पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥ (*manasaḥ kāmamākūtiṃ vācaḥ satyamaśīmahi | paśūnāṃ rūpamannasya mayi śrīḥ śrayatāṃ yaśaḥ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+हे श्रीः मनसः कामं मनोरथमाकूतिं संकल्पं वाचः वागिंद्रियस्य सत्यं याथार्थ्यं पशूनां गोमहिष्यादीनां रूपं क्षीरादि अन्नस्य अदनीयस्य यवप्रीह्यादेः रूपं !भक्ष्यादिचतुर्विधमशीमहि लभेमहि । श्रीः संपत् यशः कीर्तिश्च मयि त्वदुश्वासके श्रयतां आश्रयतां ॥ (*he śrīḥ manasaḥ kāmaṃ manorathamākūtiṃ saṃkalpaṃ vācaḥ vāgiṃdriyasya satyaṃ yāthārthyaṃ paśūnāṃ gomahiṣyādīnāṃ rūpaṃ kṣīrādi annasya adanīyasya yavaprīhyādeḥ rūpaṃ !bhakṣyādicaturvidhamaśīmahi labhemahi | śrīḥ saṃpat yaśaḥ kīrtiśca mayi tvaduśvāsake śrayatāṃ āśrayatāṃ ‖*)
+
+##### Gist of the bhāṣya
+
+O Śrī, may we obtain: the काम (*kāma*) of the mind, that is, the wish; the आकूति (*ākūti*), that is, the resolve; the सत्य (*satya*) of speech, that is, the truthfulness of the organ of speech; the form of cattle, that is, of cows, buffaloes and the like, namely milk and so on; the form of food, that is, of what is to be eaten, barley, rice and the like, the fourfold food beginning with what is chewed. May Śrī, wealth, and यशः (*yaśaḥ*), fame, abide in me, your worshipper.
+
+### Printed p. 314
+
+**Bhāṣya of Pṛthvīdhara**
+
+मम मनसः कामं भूरिमनोरथमाकूतिं संतोषं वाचस्सत्यं वचसां यथार्थतां पशूनां रूपं गजाश्वगोमहिष्यादिप्राचुर्यमन्नस्य रूपं भक्ष्यभोज्यादिकं यशः कीर्तिं च यस्यास्सकाशात् वयमशीमहि लभेमहि । तादृशी श्रीलक्ष्मीः मयि श्रयतां सन्निधत्तां ॥ (*mama manasaḥ kāmaṃ bhūrimanorathamākūtiṃ saṃtoṣaṃ vācassatyaṃ vacasāṃ yathārthatāṃ paśūnāṃ rūpaṃ gajāśvagomahiṣyādiprācuryamannasya rūpaṃ bhakṣyabhojyādikaṃ yaśaḥ kīrtiṃ ca yasyāssakāśāt vayamaśīmahi labhemahi | tādṛśī śrīlakṣmīḥ mayi śrayatāṃ sannidhattāṃ ‖*)
+
+##### Gist of the bhāṣya
+
+Of my mind, काम (*kāma*) is abundance of wishes; आकूति (*ākūti*) is contentment; the सत्य (*satya*) of speech is the correctness of words; the form of cattle is abundance of elephants, horses, cows, buffaloes and the like; the form of food is what is to be chewed and eaten and the like; यशः (*yaśaḥ*) is fame. From whose presence we may obtain these, such a Śrī, Lakṣmī, may she abide in me, may she be present.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः (*manasaḥ*)—of the mind
+- कामं (*kāmaṃ*)—the desired object
+- आकूतिं (*ākūtiṃ*)—resolve, or joy
+- वाचः (*vācaḥ*)—of words
+- सत्यं (*satyaṃ*)—truth
+- पशूनां रूपं (*paśūnāṃ rūpaṃ*)—wealth of cattle in the form of cows, buffaloes and the like
+- अन्नस्य (रूपं) (*annasya (rūpaṃ)*)—the heaps of grains such as barley and rice, needed for food and other nourishment
+- आशीमहि (*āśīmahi*)—may we obtain
+- श्रीः (*śrīḥ*)—wealth and other prosperity
+- यशः (*yaśaḥ*)—fame
+- मयि (*mayi*)—in me
+- श्रयतां (*śrayatāṃ*)—may it abide
+
+##### भावार्थ (Bhāvārtha)
+
+May we obtain, by the grace of the goddess Śrī, all the desires of our minds, the fulfilment of our resolves, satisfaction, truthfulness in our speech, wealth of cattle such as cows and buffaloes, and abundance of grains such as rice and barley; and may abundance of wealth and fame abide in me.
+
+##### विशेषविषयगळु (Special Topics)
+
+मंत्रकल्पार्णवे (*maṃtrakalpārṇave*)
+
+मनसः काममित्याद्यां श्रीसूक्ते दशमीमृचं । मनोवाङ्मयतो नित्यमष्टलक्षजपं चरेत् ॥ वाक्सिद्धिर्भोगसिद्धिश्च भोग्यलाभो भवेद्भवं ॥ (*manasaḥ kāmamityādyāṃ śrīsūkte daśamīmṛcaṃ | manovāṅmayato nityamaṣṭalakṣajapaṃ caret ‖ vāksiddhirbhogasiddhiśca bhogyalābho bhavedbhavaṃ ‖*)
+
+ओं ऐंलं वं श्रीमिति सपल्लवं न्यासः (*oṃ aiṃlaṃ vaṃ śrīmiti sapallavaṃ nyāsaḥ*)
+
+तां ध्यायेत्सत्यसंकल्पां लक्ष्मीं क्षीरोदनप्रियां । ख्यातां सर्वॆषु भूतेषु तत्त्वज्ञा नबलक्रियां ॥ (*tāṃ dhyāyetsatyasaṃkalpāṃ lakṣmīṃ kṣīrodanapriyāṃ | khyātāṃ sarvèṣu bhūteṣu tattvajñā nabalakriyāṃ ‖*)
+
+##### Anuvāda
+
+The mantra मनसःकाममाकूतिं (*manasaḥkāmamākūtiṃ*), the tenth Ṛk of the Śrī-sūkta, is to be repeated every day with purity of mind until the number reaches eight lakhs. If this is done, success in speech, success in enjoyment, and the wealth that is the means of enjoyment will all certainly be obtained. While repeating this mantra, the nyāsa is to be made with the seed-syllables ओं ऐं लं वं श्रीं (*oṃ aiṃ laṃ vaṃ śrīṃ*), and the repetition done. The meditation is to be done in this way.
+
 ---
 
-**Progress note:** Done through printed p. 307. Pariśiṣṭa Śrīsūkta Ṛk 7 particulars, Ṛk 8 with bhāṣyas, pp. 302-307
+**Progress note:** Done through printed p. 314. Pariśiṣṭa Śrīsūkta Ṛk 8 end, Ṛk 9, Ṛk 10, pp. 308-314
