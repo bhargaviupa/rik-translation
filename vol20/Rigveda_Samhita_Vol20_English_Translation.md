@@ -9942,6 +9942,148 @@ O Jātavedas, Agni, of known wisdom, you are asked to call to me Śrī who is of
 - हरिणीं (*hariṇīṃ*)—she who has a fair (green-golden) coloured body, or who has taken the form of a doe
 - सुवर्णरजतस्रजां (*suvarṇarajatasrajāṃ*)—she who wears a garland made of flowers fashioned of gold and of flowers fashioned of silver, or of yellow flowers of the colour of gold and white flowers of the colour of silver, made of
 
+### Printed p. 272
+
+garland—she who wears it.
+
+- चंद्रां (*caṃdrāṃ*)—she who shines like the moon
+- हिरण्मयीं (*hiraṇmayīṃ*)—she who has a body of gold
+- लक्ष्मीं (*lakṣmīṃ*)—she who is endowed with auspicious marks, the deity called the goddess Śrī
+- मे (*me*)—to me
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who knowest all, bring within me the deity called the goddess Śrī: she who shines with a bodily radiance like gold; who is of a fair colour, or has taken the form of a doe; who wears a garland of flowers made of gold and silver; who has a radiance as delightful as the moon; who has a body of gold; and who is endowed with all auspicious marks.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरिणीं—हरितवर्णां हरिणीरूपधरां वा । श्रीर्धृत्वा हरिणीरूपमरण्ये संचचार ह । (*hariṇīṃ—haritavarṇāṃ hariṇīrūpadharāṃ vā | śrīrdhṛtvā hariṇīrūpamaraṇye saṃcacāra ha |*). Two kinds of meaning have been given for the word हरिणीं (*hariṇīṃ*). हरिद्वर्ण (*haridvarṇa*) means one who is of a fair colour like turmeric. Or else, what is said in the Purāṇas and elsewhere, that the goddess Śrī roamed about having taken the form of a doe, has been cited.
+
+सुवर्णरजतस्रजां (*suvarṇarajatasrajāṃ*)—Two kinds of meaning have been given for this word also. One who wears a garland made of flowers wrought, delightful to the eye, of gold and silver; or one who wears a divine garland strung of flowers of the colour of gold, that is, yellow flowers, and white flowers white like silver. Thus two kinds of explanation have been made.
+
+लक्ष्मीं—लक्षणवतीं (*lakṣmīṃ—lakṣaṇavatīṃ*). "One endowed with auspicious marks" is the explanation of the bhāṣya-writer. With regard to the word लक्ष्मी (*lakṣmī*), Yāska, when giving the etymology for the Ṛk beginning सक्तुमिवतिताउना (*saktumivatitāunā*) (Ṛ. Saṃ. 10-71-2), says:
+
+लक्ष्मीर्लाभाद्वा लक्षणाद्दा (लप्स्यनाद्दा) लांछनाद्दा लषतेर्वास्यात् प्रेप्साकर्मणो लग्यतेर्वा स्यादाश्लेषकर्मणो लज्जतेर्वा स्यादश्लाघाकर्मणः ॥ (*lakṣmīrlābhādvā lakṣaṇāddā (lapsyanāddā) lāṃchanāddā laṣatervāsyāt prepsākarmaṇo lagyatervā syādāśleṣakarmaṇo lajjatervā syādaślāghākarmaṇaḥ ‖*) (Ni. 4-9)
+
+Thus he has stated the etymology. That is, the word लक्ष्मी (*lakṣmī*) is derived from words that denote these meanings: लाभाद्वा (*lābhādvā*)—attaining, obtaining; लक्षणाद्वा (*lakṣaṇādvā*)—designating; लप्स्यनात् (*lapsyanāt*)—having a desire to attain; लांछनाद्दा (*lāṃchanāddā*)—making a mark or sign. Or else it may be derived from the root लषति (*laṣati*) with the sense "desire", or from the root लग्यति (*lagyati*) with the sense "cling, hold on", or from the root लज्जति (*lajjati*) with the sense "do not praise". Thus he has explained both the meaning of this word and the derivation of its form.
+
+### Printed p. 273
+
+चंद्रां (*caṃdrāṃ*)... The word चंद्र (*caṃdra*) is stated among the names of gold (Ni. 6-10). And for the word चंद्र (*caṃdra*):
+
+चंद्रश्चंदतेः कांतिकर्मणः । चंदनमित्पप्यस्य भवति । चारु द्रमति चिरं द्रमति चमेर्वा पूर्वं ॥ चारु रुचेर्विपरीतस्य ॥ (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ | caṃdanamitpapyasya bhavati | cāru dramati ciraṃ dramati camervā pūrvaṃ ‖ cāru rucerviparītasya ‖*) (Ni. 11-5)
+
+That is, the word चंद्र (*caṃdra*), derived from the root चंद् (*caṃd*) having the sense "to shine", has the meaning "shining". The word चंदन (*caṃdana*) (fragrance) is also derived from this same root. चारु—रुचेर्विपरीतस्य (*cāru—rucerviparītasya*) means: by transposing the places of the letters ra and ca in the word रुचि (*ruci*) it becomes चारु (*cāru*), and the sense "shining with exceeding radiance" is just what is set forth in the present Ṛk.
+
+In this Ṛk, Agni is addressed and the prayer is made that the goddess Śrī be brought. For Agni is the होतृ (*hotṛ*) (the one who calls) who brings all the gods. Many scriptural sentences such as अग्ने देवानिहा वह (*agne devānihā vaha*) support the point that Agni is the messenger who brings the gods to the sacrificial ground.
+
+**Now the bhāṣya of Kṛṣṇadharācārya**
+
+हे जातवेदः अग्ने । हिरण्यवर्णां स्वर्णकांतिं हरिणीं हरितवर्णां हरिद्राभां सुवर्णरजतस्रजां हेमराप्यमयकमलमालां चंद्रां सकलजनाह्लादकारिणीं हिरण्मयीं हिरण्यस्वरूपामेतादृशीं लक्ष्मीं मे मम सर्वाभीष्टसाधनाय आवह प्रेषय ॥ (*he jātavedaḥ agne | hiraṇyavarṇāṃ svarṇakāṃtiṃ hariṇīṃ haritavarṇāṃ haridrābhāṃ suvarṇarajatasrajāṃ hemarāpyamayakamalamālāṃ caṃdrāṃ sakalajanāhlādakāriṇīṃ hiraṇmayīṃ hiraṇyasvarūpāmetādṛśīṃ lakṣmīṃ me mama sarvābhīṣṭasādhanāya āvaha preṣaya ‖*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni
+- हिरण्यावर्णां (*hiraṇyāvarṇāṃ*)—she who is distinguished by a radiance like gold
+- हरिणीं (*hariṇīṃ*)—she who shines with a bodily radiance of a fair colour
+- सुवर्णरजतस्रजां (*suvarṇarajatasrajāṃ*)—she who wears a garland strung of flowers made of gold and silver
+- चंद्रां (*caṃdrāṃ*)—she who gives delight to all people
+- हिरण्ययीं (*hiraṇyayīṃ*)—she who has the nature of gold, and
+- लक्ष्मीं (*lakṣmīṃ*)—the goddess Śrī, famed by the name Lakṣmī
+- मे (*me*)—near me
+- आवह (*āvaha*)—send
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, send, or bring, to me the goddess Śrī who is famed by the name Lakṣmī: she who is distinguished by a radiance like gold; who shines with the bodily radiance of a fair colour; who wears a garland strung of flowers made of precious things such as gold and silver; who gives delight (joy) to all people; and who has a body of gold.
+
+### Printed p. 274
+
+##### विशेषविषयगळु (Special Topics)
+
+In the work called Śrīkaṇṭha-bhāṣya it is said thus:
+
+ओं हिरण्यवर्णामिति सूक्तेनाग्निं प्रार्थयेत् । अग्निस्तुष्टो यजमानाय श्रियं प्रयच्छति । अग्निस्तु रुद्र एव । “रुद्रो वा एषोऽग्निः” इति श्रुतेः । रुद्रो हि पुरुषः । “पुरुषो वै रुद्रः” इति श्रुतेः । तस्य पत्नि भगवत्युमृव लक्ष्मीः । “श्रीश्च ते लक्ष्मीश्च पत्न्यौ” इति पुरुषसूक्तोक्तेः । पुरुषो महादेवः शिवः । वेदाहमेतं पुरुषं महांतमिति तत्रैवोक्तेः । तथा च अग्निस्वरूपिणः परमेश्वरस्योपासनेन तच्छक्तिविभूतेर्महालक्ष्म्याः प्राप्तिर्भविव्यतीति सिद्धं । “धनार्थिभिरग्निरुपास्य ऐश्वर्यार्थिभिरीश्वर” इत्यादि स्मर्यते । आरोग्यं भास्करादिच्छेच्छ्ययमिच्छेद्दुताशनात् । ऐश्वर्यमीश्वरादिच्छेन्नोक्षमिच्छेज्जनार्दनात् ॥ (*oṃ hiraṇyavarṇāmiti sūktenāgniṃ prārthayet | agnistuṣṭo yajamānāya śriyaṃ prayacchati | agnistu rudra eva | “rudro vā eṣo 'gniḥ” iti śruteḥ | rudro hi puruṣaḥ | “puruṣo vai rudraḥ” iti śruteḥ | tasya patni bhagavatyumṛva lakṣmīḥ | “śrīśca te lakṣmīśca patnyau” iti puruṣasūktokteḥ | puruṣo mahādevaḥ śivaḥ | vedāhametaṃ puruṣaṃ mahāṃtamiti tatraivokteḥ | tathā ca agnisvarūpiṇaḥ parameśvarasyopāsanena tacchaktivibhūtermahālakṣmyāḥ prāptirbhavivyatīti siddhaṃ | “dhanārthibhiragnirupāsya aiśvaryārthibhirīśvara” ityādi smaryate | ārogyaṃ bhāskarādicchecchyayamiccheddutāśanāt | aiśvaryamīśvarādicchennokṣamicchejjanārdanāt ‖*)
+
+इति । सूक्ते ऋचः पंचदश । हिरण्यवर्णामिति प्रथमा ऋक् । अस्या अर्थः— हिरण्यवर्णां हिरण्यवर्णरूपां — ज्ञानमात्मनि भा सूर्ये चंद्रे ज्योत्स्ना च खे ध्वनिः । वर्णो हिरण्ये पयसि धृतं त्वमसि मातृके ॥ (*iti | sūkte ṛcaḥ paṃcadaśa | hiraṇyavarṇāmiti prathamā ṛk | asyā arthaḥ— hiraṇyavarṇāṃ hiraṇyavarṇarūpāṃ — jñānamātmani bhā sūrye caṃdre jyotsnā ca khe dhvaniḥ | varṇo hiraṇye payasi dhṛtaṃ tvamasi mātṛke ‖*)
+
+इति श्रीस्तुतावगस्तोक्तेः । हिरण्यवर्णां मणिनूपुरांघ्रिं प्रसन्नवक्रां शुकपद्महस्तां । विशालनेत्रीं प्रणमामि गौरीं वचोविदं वाचमुदीरयंतीं ॥ इति जैमिन्युक्तेः । हिरण्यवर्णसदृग्वर्णां वा । “तप्तस्वर्णसवर्णाभामिति” श्री पुराहाच्च । (*iti śrīstutāvagastokteḥ | hiraṇyavarṇāṃ maṇinūpurāṃghriṃ prasannavakrāṃ śukapadmahastāṃ | viśālanetrīṃ praṇamāmi gaurīṃ vacovidaṃ vācamudīrayaṃtīṃ ‖ iti jaiminyukteḥ | hiraṇyavarṇasadṛgvarṇāṃ vā | “taptasvarṇasavarṇābhāmiti” śrī purāhācca |*)
+
+हरिणीं हरिणीरूपां— यज्ञोग्निर्मृगरूपेण धावति स्म पुराध्वरे । रुद्रस्ता कृष्य तच्छक्तिं मृगीं जग्राह वैष्णवीं ॥ इति वैवर्तदक्षाध्वराध्यायोक्तेः । (*hariṇīṃ hariṇīrūpāṃ— yajñognirmṛgarūpeṇa dhāvati sma purādhvare | rudrastā kṛṣya tacchaktiṃ mṛgīṃ jagrāha vaiṣṇavīṃ ‖ iti vaivartadakṣādhvarādhyāyokteḥ |*)
+
+अथ वा हरिणीं हरिद्राभां हरिद्राचूर्णलिप्तश्वाद्वा । “हरिणीं पूजयेद्दुर्गा० हरिद्राचूर्णनिर्मितां” इति हरिद्रागौरीव्रतकल्पोक्तेः । सुवर्णरजतस्रजां सुवर्णमय्यः रजतमय्यश्च स्रजः हाराः यस्यांस्तां । चंद्रां चदि आह्लादने दीप्त्वा च रकिचंद्रामिति टाबंतरूपं आह्लादिकां प्रकाशिकां च । ज्ञानानंतस्वरूपिणीमिति यावत् । चंद्रे विद्यमाना चांद्री चंद्रिका चंद्रेति विवक्ष्यते । “पूर्णमास्यां चंद्रबिंबे ध्यात्वा श्रीललितांबिकामिति ” हय- (*atha vā hariṇīṃ haridrābhāṃ haridrācūrṇaliptaśvādvā | “hariṇīṃ pūjayeddurgā0 haridrācūrṇanirmitāṃ” iti haridrāgaurīvratakalpokteḥ | suvarṇarajatasrajāṃ suvarṇamayyaḥ rajatamayyaśca srajaḥ hārāḥ yasyāṃstāṃ | caṃdrāṃ cadi āhlādane dīptvā ca rakicaṃdrāmiti ṭābaṃtarūpaṃ āhlādikāṃ prakāśikāṃ ca | jñānānaṃtasvarūpiṇīmiti yāvat | caṃdre vidyamānā cāṃdrī caṃdrikā caṃdreti vivakṣyate | “pūrṇamāsyāṃ caṃdrabiṃbe dhyātvā śrīlalitāṃbikāmiti ” haya-*)
+
+### Printed p. 275
+
+ग्रीवोक्तेः । हिरण्मयीं विकारार्थे मयट् हिरण्यात्मना विकृतां । “तत्सुवर्णमभवत् ” इति श्रुतेः । पवित्रमयीं ना—“पवित्रं वै हिरण्यं” इति श्रुतेः । मूलप्रकृतिर्जगतः परिणाम्युपादानत्वेन सैव हिरण्यरूपेण परिणतेति भावः ॥ (*grīvokteḥ | hiraṇmayīṃ vikārārthe mayaṭ hiraṇyātmanā vikṛtāṃ | “tatsuvarṇamabhavat ” iti śruteḥ | pavitramayīṃ nā—“pavitraṃ vai hiraṇyaṃ” iti śruteḥ | mūlaprakṛtirjagataḥ pariṇāmyupādānatvena saiva hiraṇyarūpeṇa pariṇateti bhāvaḥ ‖*)
+
+हिरण्यरेतसः शंभोः शक्तिः प्रोक्ता हिरण्मया । धनार्थिभिरुपास्यैषा जातवेदसि सर्वदा ॥ (*hiraṇyaretasaḥ śaṃbhoḥ śaktiḥ proktā hiraṇmayā | dhanārthibhirupāsyaiṣā jātavedasi sarvadā ‖*)
+
+इति कालिकापुराणवचनात् । प्राचुर्यार्थे मयट् । हिरण्मयां हिरण्यप्रचुरां । प्राचुर्यं च स्वसमानाधिकरणस्वजातीयाल्पत्वरूपं स्वव्यधिकरणविजातीयाल्पत्वरूपं वा । तेन च धनाधिकां भाग्यसमृद्धां वित्तपूर्णामिति भावः । (*iti kālikāpurāṇavacanāt | prācuryārthe mayaṭ | hiraṇmayāṃ hiraṇyapracurāṃ | prācuryaṃ ca svasamānādhikaraṇasvajātīyālpatvarūpaṃ svavyadhikaraṇavijātīyālpatvarūpaṃ vā | tena ca dhanādhikāṃ bhāgyasamṛddhāṃ vittapūrṇāmiti bhāvaḥ |*)
+
+लक्ष्मीं शोभासंपत्तिपद्मारूपां । “शोभा संपत्तिपद्मासु लक्ष्मीः श्रीरपि कथ्यते” इति कोशात् । (*lakṣmīṃ śobhāsaṃpattipadmārūpāṃ | “śobhā saṃpattipadmāsu lakṣmīḥ śrīrapi kathyate” iti kośāt |*)
+
+यद्वा लक्षणवतीं— ललिता शारदा लक्ष्मीरेकैव भगवत्युमा । तत्तल्लक्षणसंयुक्ता पुरुषार्थप्रदा नृणां ॥ इति देवीपुराणोक्तेः । तादृशीं श्रियं मे मह्यमावह आकारयेति जातवेदसमग्निं प्रार्थयेत् ॥ (*yadvā lakṣaṇavatīṃ— lalitā śāradā lakṣmīrekaiva bhagavatyumā | tattallakṣaṇasaṃyuktā puruṣārthapradā nṛṇāṃ ‖ iti devīpurāṇokteḥ | tādṛśīṃ śriyaṃ me mahyamāvaha ākārayeti jātavedasamagniṃ prārthayet ‖*)
+
+##### Anuvāda
+
+By this sūkta beginning हिरण्यवर्णां (*hiraṇyavarṇāṃ*) Agni is to be prayed to. Agni, pleased by the praise of the sacrificer, gives him prosperity (aiśvarya). Who is this Agni? He is Rudra himself. There is the Śruti sentence रुद्रो वा एषोऽग्निः (*rudro vā eṣo 'gniḥ*). And many Śruti sentences such as रुद्रो हि पुरुषः । पुरुषो वै रुद्रः (*rudro hi puruṣaḥ | puruṣo vai rudraḥ*) support the point that the Puruṣa is Rudra. The consort of that Rudra, the goddess Umā herself, is Lakṣmī. ह्रीश्च (श्रीश्च) ते लक्ष्मीश्च पत्न्यौ (*hrīśca (śrīśca) te lakṣmīśca patnyau*)—"the goddess Śrī and Lakṣmī are thy two consorts"—so it is said in the Puruṣa-sūkta (Yajurveda). Here Puruṣa means Mahādeva, Śiva. The Śruti sentence वेदाहमेतं पुरुषं महांतं (*vedāhametaṃ puruṣaṃ mahāṃtaṃ*) also supports this. And it is well known that by the worship of Parameśvara, who has the form of Agni, the grace of Mahālakṣmī, the special power (śakti) of that Īśvara, comes to be. धनार्थिभिरुग्निरुपास्य ऐश्वर्यार्थिभिरीश्वरः (*dhanārthibhirugnirupāsya aiśvaryārthibhirīśvaraḥ*)—those who seek wealth should worship Agni, and those who seek prosperity (aiśvarya) should worship Īśvara: there is a Smṛti sentence to this effect also.
+
+And:
+
+आरोग्यं भास्करादिच्छेच्छ्ययमिच्छेद्दुताशनात् । ऐश्वर्यमीश्वरादिच्छेन्नोक्षमिच्छेज्जनार्दनात् ॥ (*ārogyaṃ bhāskarādicchecchyayamiccheddutāśanāt | aiśvaryamīśvarādicchennokṣamicchejjanārdanāt ‖*)
+
+### Printed p. 276
+
+A discerning person desires the gain of health by the grace of the Sun, wealth (riches) by the grace of Agni, prosperity (aiśvarya) by the grace of Īśvara, and the human goal called liberation by the grace of Viṣṇu: so a saying of the noble also runs.
+
+In this Śrī-sūkta there are fifteen Ṛks. Among them हिरण्यवर्णां (*hiraṇyavarṇāṃ*) is the first Ṛk. Its meaning is as follows. हिरण्यवर्णां (*hiraṇyavarṇāṃ*) means one who has a bodily radiance glittering like gold. In the Śrī-stuti composed by Agastya it is said:
+
+ज्ञानमात्मनि.भा सूर्ये चंद्रे ज्योत्स्ना च खे ध्वनिः । वर्णो हिरण्ये पयसि धृतं त्वमसि मातृके ॥ (*jñānamātmani.bhā sūrye caṃdre jyotsnā ca khe dhvaniḥ | varṇo hiraṇye payasi dhṛtaṃ tvamasi mātṛke ‖*)
+
+That is, certain qualities abide in certain things as their essence and by nature. Thus: knowledge in the self, radiance in the sun, moonlight in the moon, sound in space, the excellent colour in gold, and ghee (clarified butter) in milk. Just as these are excellent qualities, so, O Mother, thou art the most excellent among the deities: this is the sense suggested here. Therefore this verse has been cited in order to say that the colour of hiraṇya (gold) is exceedingly excellent.
+
+The sage Jaimini also, when praising Gaurī, used this very epithet हिरण्यवर्णां (*hiraṇyavarṇāṃ*):
+
+हिरण्यवर्णां मणिनूपुरांघ्रिं प्रसन्नवक्रां शुकपद्महस्तां । विशालनेत्रीं प्रणमामि गौरीं वचोविदं वाचमुदीरयंतीं ॥ (*hiraṇyavarṇāṃ maṇinūpurāṃghriṃ prasannavakrāṃ śukapadmahastāṃ | viśālanetrīṃ praṇamāmi gaurīṃ vacovidaṃ vācamudīrayaṃtīṃ ‖*)
+
+In this verse, for the word हिरण्यवर्णां (*hiraṇyavarṇāṃ*), हिरण्यवर्णसदृग्वर्णां वा तप्तस्वर्णसवर्णा भामिति श्रीपुराणाच्च (*hiraṇyavarṇasadṛgvarṇāṃ vā taptasvarṇasavarṇā bhāmiti śrīpurāṇācca*): the meaning is one who has a bodily radiance with such a brilliance as gold free of any puṭa shines with. **NOTE**
+
+हरिणीं—हरिणीरूपां (*hariṇīṃ—hariṇīrūpāṃ*): one who has taken the form of a doe. In this matter:
+
+यज्ञोऽग्निर्मृगरूपेण धावति स्म पुराध्वरे । रुद्रस्त्वा कृष्य तच्छक्तिं मृगीं जग्राह वैष्णवीं ॥ (*yajño 'gnirmṛgarūpeṇa dhāvati sma purādhvare | rudrastvā kṛṣya tacchaktiṃ mṛgīṃ jagrāha vaiṣṇavīṃ ‖*)
+
+—so it is said in the work called Dakṣādhvara. That is, at one time Agni, of the form of sacrifice, took the form of a deer and went running away. Rudra, seeing it, used his power and seized that doe which has the form of sacrifice (since it is said यज्ञो वै विष्णुः (*yajño vai viṣṇuḥ*), the word वैष्णवीं (*vaiṣṇavīṃ*) means "of the form of sacrifice"): this is the intent. Therefore the deity Śrī is here praised as one who has taken the form of a doe. Besides:
+
+### Printed p. 277
+
+हरिणीं पूजयेद्दुर्गा० हरिद्राचूर्णनिर्मितां (*hariṇīṃ pūjayeddurgā0 haridrācūrṇanirmitāṃ*)
+
+as is said in the Haridrā-gaurī-vrata-kalpa, one whose body is smeared with, or made of, turmeric powder; and therefore it may be understood also as one who is of a fair colour.
+
+सुवर्णरजतस्रजां (*suvarṇarajatasrajāṃ*)—one who wears a garland made of things such as gold and silver.
+
+चंद्रां (*caṃdrāṃ*)—चदि आह्लादने दिप्तौ च (*cadi āhlādane diptau ca*): one who shines with a delightful radiance; or it may also be said, one whose nature is knowledge and infinity. And the radiance that is in the moon bears the names चांद्री चंद्रिका चंद्रा (*cāṃdrī caṃdrikā caṃdrā*).
+
+पूर्णमास्यां चंद्रबिंबे ध्यात्वा श्री ललितांबिकां (*pūrṇamāsyāṃ caṃdrabiṃbe dhyātvā śrī lalitāṃbikāṃ*)
+
+According to this statement, since it is said that on the full-moon day one should meditate on the goddess Śrī Lalitā in the shining disc of the full moon, the epithet चंद्रं (*caṃdraṃ*) is employed here.
+
+हिरण्मयां (*hiraṇmayāṃ*)—one who has a body of gold. तत्सुवर्णग्ं हिरण्यमभवत् (*tatsuvarṇagṃ hiraṇyamabhavat*) । तत्सुवर्णस्य हिरण्यस्य जन्म (*tatsuvarṇasya hiraṇyasya janma*) । य एवग्ं सुवर्णस्य जन्मवेद (*ya evagṃ suvarṇasya janmaveda*) । सुवर्ण आत्मना भवति (*suvarṇa ātmanā bhavati*) । And scriptural sentences such as पवित्रं वै हिरण्यं (*pavitraṃ vai hiraṇyaṃ*) set forth the excellence of hiraṇya, or gold.
+
+हिरण्यरेतसः शंभोः शक्तिः प्रोक्ता हिरण्मया । धनार्थिभिरुपास्यैषा जातवेदसि सर्वदा ॥ (*hiraṇyaretasaḥ śaṃbhoḥ śaktiḥ proktā hiraṇmayā | dhanārthibhirupāsyaiṣā jātavedasi sarvadā ‖*)
+
+This is a statement of the Kalikā-purāṇa. **NOTE** That is, the power of Īśvara of great glory, whose seed has the form of gold, bears the name हिरण्मया (*hiraṇmayā*). This deity always abides in Agni. Those who seek wealth should worship this goddess: so it is said.
+
+लक्ष्मीं (*lakṣmīṃ*)—the sense is the goddess Śrī who is in the form of radiance, wealth and the lotus. In this matter there is a statement of the lexicon:
+
+शोभासंपत्तिपद्मासु लक्ष्मी श्रीरपि कथ्यते (*śobhāsaṃpattipadmāsu lakṣmī śrīrapi kathyate*)
+
+For the word लक्ष्मीः (*lakṣmīḥ*) it is customary to describe these things, शोभा (*śobhā*)—radiance, संपत्ति (*saṃpatti*)—prosperity, पद्म (*padma*)—the lotus, as the form of Lakṣmī. Besides:
+
+ललिता शारदा लक्ष्मीरेकैव भगवत्युमा । तत्तल्लक्षणसंयुक्ता पुरुषार्थप्रदा नृणां ॥ (*lalitā śāradā lakṣmīrekaiva bhagavatyumā | tattallakṣaṇasaṃyuktā puruṣārthapradā nṛṇāṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 271. Vol 5 appendix: end of Vivaha sukta commentary; Sri-sukta introduction, nyasa, dhyana, first Rk start
+**Progress note:** Done through printed p. 277. Śrī-sūkta appendix: end of Ṛk 1 Pratipadārtha, Special Topics, Kṛṣṇadharācārya bhāṣya, Śrīkaṇṭha-bhāṣya quotation and anuvāda
