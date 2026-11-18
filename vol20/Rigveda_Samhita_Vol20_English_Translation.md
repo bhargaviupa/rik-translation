@@ -15293,6 +15293,278 @@ the unceasing pervader of earth, born for (the celebration of) sacrifice, wise,
 imperial. the guest of men, in whose mouth (is) the vessel (that conveys
 the the oblation to the gods).
 
+### Printed p. 459
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाभिं॑ य॒ज्ञानां॒ सद॑नं रया॒णां म॒हामा॑हा॒वम॒भि सं न॑  
+> वंत ।  
+> वै॒श्वा॒न॒रं र॒थ्य॑मध्व॒राणां॑ य॒ज्ञस्य॑ के॒तुं ज॑नयंत दे॒वाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाभिं । यज्ञानां । सदनं । रयाणां । महां । आहावं । अभि । सं । नवंत ।  
+> वैश्वानरं । रथ्यं । अध्वराणां । यज्ञस्य । केतुं । जनयंत । देवाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञानां ज्योतिष्टोमादियागानां नाभिं नहनं बंधकं तथा रयाणां
+> धनानां सदनं स्थानमेकनिलयं महां महांतमाहावं । अहूयंतेऽस्मिन्नाहुतय इत्याहावः । तादृशं । यद्वा । वृष्टुदकधारणमाहावं निपानस्थानीयं ।
+> एवंभूतमग्निमभि अभितः सं नवंत । स्तोतारः सम्यक् स्तुवंति । तथा वैश्वानरं
+> विश्वेषां नराणां संबंधिनमध्वराणां यज्ञानां रथ्यं रथिनं । यथा रथी स्वरथं
+> नयति तद्वन्नेतारं ग्राहयितारं गमयितारं यज्ञस्य केतुं प्रज्ञापकं । एवंविध
+> मग्निं देवाः स्तोतार ऋत्विजोदेवा एव वा जनयंत जनयंति! मथनेनोत्पादयंति
+
+##### Gist of the bhāṣya
+
+Agni is the nave, the binding link, of the sacrifices such as the Jyotiṣṭoma, and the abode, the one resting-place, of riches. He is great, and he is the "āhāva", that is, the place into which the oblations are called; or else, "āhāva" is the water-trough that holds the rain-water, to which Agni is compared. Such an Agni the worshippers praise together on every side. Vaiśvānara is the one who belongs to all men, the "ratha-driver" of the sacrifices: as a charioteer drives his own chariot, so he is the leader, the one who makes the sacrifices go and reach their end; he is the banner of the sacrifice, the one that makes it known. Such an Agni the gods, that is, the worshipping priests, or the gods themselves, bring forth, that is, produce by churning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञानां (*yajñānāṃ*)—to the sacrifices such as the Jyotiṣṭoma
+- नाभिं (*nābhiṃ*)—the one in the form of the nave (the binder)
+- रयाणां (*rayāṇāṃ*)—to riches
+- सदनं (*sadanaṃ*)—the abode
+- महां (*mahāṃ*)—the one of great form
+- आहावं (*āhāvaṃ*)—the one who receives the oblations, that Agni
+- अभि (*abhi*)—all round
+- सं नवंत (*saṃ navaṃta*)—(the worshippers) praise
+- वैश्वानरं (*vaiśvānaraṃ*)—the leader of all mankind
+- अध्वराणां (*adhvarāṇāṃ*)—to the sacrifices
+- रथ्यं (*rathyaṃ*)—the one who carries them through
+- यज्ञस्य (*yajñasya*)—to the sacrifice
+- केतुं (*ketuṃ*)—the one who makes it known
+- वैश्वानरं (*vaiśvānaraṃ*)—that Agni who is of the form of Vaiśvānara
+- देवाः (*devāḥ*)—the gods
+- जनयंत (*janayaṃta*)—produced
+
+##### भावार्थ (Bhāvārtha)
+
+The worshippers stand all round and praise Agni, who is the nave of the sacrifices such as the Jyotiṣṭoma, the abode of riches, of great form, and the receiver of the oblations. The gods produced Agni, who is of the form of Vaiśvānara, the leader of all mankind, the one who carries the sacrifices through, and the one who makes the sacrifice known.
+
+### Printed p. 460
+
+##### English translation
+(The worhippers) glorify together, (Agni), the bond of sacrifices, the
+abode of riches the great receptacle of burnt-offerings : the gods generate
+Vaishwanara, the conveyer of oblations, the emblem, of sacrifice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद्विप्रो॑ जायते वा॒ज्य॑ग्ने॒ त्वद्वी॒रासो॑ अभिमाति॒षाहः॑ ।  
+> वैश्वा॑नर॒ त्वम॒स्मासु॑ धेहि॒ वसू॑नि राजन्तसृह॒याय्या॑णि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वत् । विप्रः । जायते । वाजि । अग्ने । त्वत् । वीरासः । अभिमाति सहः ।  
+> वैश्वानर । त्वं । अस्मासु । धेहि । वसूनि । राजन् । स्पृहयाय्याणि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वाजी हविर्लक्षणान्नवान्नुरुषस्त्वत् त्वत्तः सकाशात् विप्रो मेधावी
+> जायते । तुभ्यं हविर्दानेन मेधावी भवति । तथा वीरासो वीरास्त्वत् त्वत्तोऽभिमातिषाहोऽभिमातीनां शत्रूणामभिभवितारो जायंते । यस्मादेवं तस्मात्
+> हे वैश्वानर राजन् राजमानाग्ने त्वमास्मासु त्वद्भक्तेषु स्पृहयाय्र्याणि
+> स्पृहणीयानि वसूनि धनानि धेहि । निधेहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the offerer who is "vājī", that is, the man who has oblations in the form of food, becomes wise, a "vipra", through you: by giving you the oblation he becomes wise. Likewise heroes are born through you as those who overcome the "abhimāti", the enemies. Since this is so, O Vaiśvānara, O king, O shining Agni, place in us, your devotees, desirable riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वाजी (*vājī*)—the sacrificer who has the oblation
+- त्वत् (*tvat*)—through your help alone
+- विप्रः (*vipraḥ*)—wise
+- जायते (*jāyate*)—is born
+- वीरासः (*vīrāsaḥ*)—heroes also
+- त्वत् (*tvat*)—through your help alone
+- अभिमातिषाहः (*abhimātiṣāhaḥ*)—(become) possessed of the power that destroys enemies
+- राजन् (*rājan*)—O shining one
+- वैश्वानर (*vaiśvānara*)—O Agni, who is of the form of Vaiśvānara
+- त्वं (*tvaṃ*)—you
+- अस्मासु (*asmāsu*)—in us
+- स्पृहयाय्याणि (*spṛhayāyyāṇi*)—worthy of the utmost regard
+- वसूनि (*vasūni*)—riches
+- धेहि (*dhehi*)—fill (us with)
+
+### Printed p. 461
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who has the oblation is born wise through your help alone. Heroes also become possessed of the power that destroys enemies through your help alone. O shining one, O Agni of the form of Vaiśvānara, fill us with riches worthy of the utmost regard.
+
+##### English translation
+The offerer of (sacrificial) food becomes wise, Agni, from you: from
+you heroes become the vanquishers of foes : therefore royal Vaishwanara,
+bestow upon us enviable riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां विश्वे॑ अमृत॒ जाय॑मानं॒ शिशुं॒ न दे॒वा अ॒भि सं न॑वंते।  
+> तव॒ क्रतु॑भिरमृत॒त्वमा॑य॒न्वैश्वा॑नर॒ यत्पि॒त्रोरदी॑देः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । विश्वे । अमृत । जायमानं । शिशुं । न । देवाः । अभि । सं । नवंते ।  
+> तव । क्रतुभिः । अमृतत्वं । आयन् । वैश्वानर । यत् । पित्रोः । अदीदेः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमृत मरणधर्मरहिताग्ने विश्वे सर्वे देवाः स्तोतारो जायमानमरण्योः सकाशादुत्पद्यमानं त्वां शिशुं न पुत्रमिवाभि सं नवंते । अभिसंस्तुवंति ।
+> यद्वा । दीव्यंतीति देवा रश्मयः । ते सर्वे जायमानं त्वामभि सं नवंते ।
+> अभिसंगच्छंते यथा पितरः पुत्रमभिगच्छंति । अपि च हे वैश्वानराग्ने यद्यदा पित्रोः
+> पालयित्योर्द्यानापृथिव्योर्मध्येऽदीदेः दीप्यसे तदानीं तव त्वदीयैः
+> क्रतुभिः कर्मभिर्ज्योतिष्टोमादिभिर्यागैरमृतत्वं देवत्वमायन् । यजमानाः
+> प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+O immortal Agni, free from the nature of death, all the gods, that is, the worshippers, praise you as you are being born from the two churning-sticks, as one praises a child. Or else, the "devas" are the rays, since they shine; all of them come to you at your birth, as fathers come to a son. And further, O Vaiśvānara Agni, when you shine between the two parents, who are the guardians, heaven and earth, then through your rites, the sacrifices such as the Jyotiṣṭoma, the sacrificers obtain immortality, the state of gods.
+
+### Printed p. 462
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृत (*amṛta*)—O Agni, free from the nature of death
+- विश्वे (*viśve*)—all
+- देवाः (*devāḥ*)—the worshippers also
+- जायमानं (*jāyamānaṃ*)—born from the churning-stick
+- त्वां (*tvāṃ*)—you
+- शिशुं न (*śiśuṃ na*)—like a young child
+- अभि सं नवंते (*abhi saṃ navaṃte*)—honour and worship
+- वैश्वानर (*vaiśvānara*)—O Agni, of the form of Vaiśvānara
+- यत् (*yat*)—when
+- पित्रोः (*pitroḥ*)—between heaven and earth, the protectors of the worlds
+- आदीदेः (*ādīdeḥ*)—you shine (then)
+- तव (*tava*)—connected with you
+- क्रतुभिः (*kratubhiḥ*)—by rites such as sacrifices
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- आयन (*āyana*)—(the sacrificers and others) obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O immortal Agni, free from the nature of death, all the worshippers honour and worship you, born from the churning-stick, as one does a young child. O Agni, of the form of Vaiśvānara, when you shine between heaven and earth, the protectors of the worlds, then by the rites connected with you, the sacrifices and the rest, the sacrificers and others obtain freedom from death.
+
+##### English translation
+All the worshippers together praise you, immortal Agni, when born like an infact : when you shine Vishwanara, between the parental (heaven and earth), they obtain immortality through your (sacred) rites.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वैश्वा॑नर॒ तव॒ तानि॑ व्र॒तानि॑ म॒हान्य॑ग्ने॒ नकि॒रा द॑धर्ष ।  
+> यज्जाय॑मानः पि॒त्रोरु॒पस्थेविं॑दः के॒तुं व॒युने॒ष्वह्नां॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैश्वानर । तव । तानि । व्रतानि । महानि । अग्ने । नकिः । आ । दधर्ष ।  
+> यत् । जायमानः । पित्रोः । उपस्थे । अविंदः । केतुं । वयुनेषु । अह्नां ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैश्वानर विश्वेषां नराणां संबंधिन्नग्ने तव त्वदीयानि तानि प्रसिद्धानि
+> व्रतानि कर्माणि महानि महांति नकिरा दधर्ष । न कश्चनान्यो धर्षयति । बाधते ।
+
+##### Gist of the bhāṣya
+
+O Vaiśvānara Agni, who belongs to all men, those well-known great rites of yours no one else can withstand or hinder.
+
+### Printed p. 463
+
+> यद्यदा त्वं पित्रोर्द्यावापृथिव्योरुपस्थ उपस्थानेंतरिक्षे वयुनेषु गंतव्येषु
+> मार्गेषु जायमानः : सन् अहां केतुं प्रज्ञापकं सूर्यं स्वर्भानुनावृतमविंदः अलंभयः । तमोरूपमसुरं स्वतेजसा निवारयन्नस्थापय इत्यर्थः ।
+> तदा तानि व्रतानीति पूर्वता नयः ॥
+
+##### Gist of the bhāṣya
+
+When you, being born in the lap of your parents, heaven and earth, in the intermediate space, on the paths to be traversed, find the banner of the days, the sun, which is the one that makes it known, covered by Svarbhānu, you drive away by your own radiance the demon who is of the form of darkness, that is, you establish the sun. Then those rites of yours are such that no one can hinder them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—O Agni, of the form of Vaiśvānara
+- तव (*tava*)—your
+- तानि (*tāni*)—well-known
+- महानि (*mahāni*)—of great power
+- व्रतानि (*vratāni*)—rites
+- नकिः आ दधर्ष (*nakiḥ ā dadharṣa*)—no one can hinder
+- यत् (*yat*)—when
+- पित्रोः (*pitroḥ*)—of heaven and earth, who are like parents to you
+- उपस्थे (*upasthe*)—in the lap
+- जायमानः (*jāyamānaḥ*)—you are born (then)
+- अह्नां केतुं (*ahnāṃ ketuṃ*)—the sun, who makes the day known
+- वयुनेषु (*vayuneṣu*)—on the paths of the intermediate space
+- अविंदः (*aviṃdaḥ*)—you establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the form of Vaiśvānara, no one can hinder your well-known rites of great power. When you are born in the lap of heaven and earth, who are like parents to you, then you establish the sun, who makes the day known, on the paths of the intermediate space.
+
+##### English translation
+Agni, Vaishwanara, these your mighty deeds no one can resist; when born on the lap of your parents, you have stationed the banner of the days on the paths of the firmament.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वै॒श्वा॒न॒रस्य॒ विमि॑तानि॒ चक्ष॑सा॒ सानू॑नि दि॒वो अ॒मृत॑स्य के॒तुना॑ ।  
+> तस्येदु॒ विश्वा॒ भुव॒नाधि॑ मू॒र्धनि॑ व॒याइ॑व रुरुहुः स॒प्त  ॒॑
+> विस्सुहः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैश्वानरस्य । विमितानि । चक्षसा । सानूनि । दिवः । अमृतस्य । केतुना ।  
+> तस्य । इत् । ऊं इति । विश्वा । भुवना । अधि । मूर्धनि । वयाः इव । रुरुहुः । सप्त ।  
+> विस्सुहः ॥ ६ ॥
+
+### Printed p. 464
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वानरस्य विश्वनरहितस्याग्नेश्चक्षसा तेजसामृतस्योदकस्य केतुना प्रज्ञापकेन
+> दिवो द्युलोकस्य सानूनि समुच्चि तस्थलानि नक्षत्ररूपाणि विमितानि निर्मितानि। यद्वा।
+> दिवोऽंतरिक्षस्य सानूनि समुच्चि तप्रदेशा मेघात्मका विमितानि निर्मिताः । धूमविकारत्वात्तेषां । तस्येदु तस्यैव वैश्वानरस्य मूर्धनि मूर्धस्थानीय उपरिवर्तमाने धूमे मेघात्मना परिणते विश्वा विश्यानि व्याप्तानि भुवना भुवनान्युदकान्यधि
+> वसंति । यद्वा । वैश्वानरात्मकस्य परब्रह्मणो मूर्धन्युपरिप्रदेशे सर्वाणि भूतजातान्यधिवसंति । तथा वयाः शाखा इव सप्त सर्पणशीलाः सप्तसंख्या वा विस्तुहो
+> नद्यश्च गंगाद्या रुरुहुः । रोहंति । आस्मादेव वैश्वानरात् प्रादुर्भवंति ।
+> आहुतिद्वारा सकलं जगदन्नेः सकाशादुत्पद्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By the radiance of Vaiśvānara, that is, of Agni, who is beneficial to all men, and by the one who makes known the "amṛta", the water, the "sānūni", the lofty places of heaven, the starry regions, are measured out, that is, built. Or else, the "sānūni" of the intermediate space, the lofty places, which are the clouds, are built, since they are a transformation of smoke. In the very head of this same Vaiśvānara, that is, in the smoke that stands above like a head and has turned into cloud, all the "bhuvanāni", the pervading waters, dwell. Or else, all beings dwell in the head, the upper region, of the supreme Brahman who is of the nature of Vaiśvānara. And the seven gliding rivers, or rivers of the number seven, the Gaṅgā and the rest, spring up like branches; they come forth from this very Vaiśvānara. The meaning is that through the oblation the whole world arises from Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतस्य (*amṛtasya*)—to the rain-water
+- केतुना (*ketunā*)—the one that makes known
+- वैश्वानरस्य (*vaiśvānarasya*)—of Vaiśvānara Agni
+- चक्षसा (*cakṣasā*)—by the radiance
+- दिवः (*divaḥ*)—of the heavenly world
+- सानूनि (*sānūni*)—the lofty regions
+- विमितानि (*vimitāni*)—are built
+- तस्येदु (*tasyedu*)—of that same Vaiśvānara Agni
+- मूर्धनि (*mūrdhani*)—in the upper part, in the smoke that has turned into cloud
+- विश्वा भुवना (*viśvā bhuvanā*)—all waters
+- अधि (*adhi*)—dwell (the word "dwell" supplied)
+- सप्त विस्सुहः (*sapta vissuhaḥ*)—the seven rivers in the form of streams also
+- वया इव (*vayā iva*)—like branches
+- रुरुहुः (*ruruhuḥ*)—come forth from this Vaiśvānara alone
+
+##### भावार्थ (Bhāvārtha)
+
+By the radiance of Vaiśvānara Agni, who makes known the rain-water, the lofty regions of the heavenly world are built. In the upper part of that same Vaiśvānara Agni, in the smoke that has turned into cloud, all the waters dwell. The seven rivers also, in the form of streams, come forth like branches from this Vaiśvānara alone.
+
+##### English translation
+The summits of the fimament are measured by the light of Vaishwa
+nara, the manifester of ambrosial (rain) : all the regions are overspread
+(by the vapour) on his brow, and the seven gliding (streams) spring from
+thence like branches.
+
 ---
 
-**Progress note:** Done through printed p. 458. Vol 20 Sukta 7 intro end (Nirukta on Vaisvanara), Sukta 7 Rk 1, pp. 452-458
+**Progress note:** Done through printed p. 464. Mandala 6 Sukta 7, Rks 2-6 (pp. 459-464)
