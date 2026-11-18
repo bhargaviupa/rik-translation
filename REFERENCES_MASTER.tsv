@@ -72,7 +72,7 @@ NOT IN LIST	Śa. Prā.			no list form close to it	none		3											3
 NOT IN LIST	Pa. Prā.			no list form close to it	none		3											2	1					
 NOT IN LIST	i. e. Ni.			no list form close to it	none		3												1		2			
 NOT IN LIST	Ka. Prā.			no list form close to it	none		3												3					
-NOT IN LIST	muṃ. u.			no list form close to it	none		3												3					
+NOT IN LIST	muṃ. u.		Mu. U.	known spelling of Mu. U.	high		3												3					
 NOT IN LIST	Kaṭha. U.			no list form close to it	none		3												3					
 NOT IN LIST	Bh. Gī.			no list form close to it	none		3												3					
 NOT IN LIST	e. Śat. Brā.			no list form close to it	none		3														3			
@@ -103,7 +103,7 @@ NOT IN LIST	cf. I.			no list form close to it	none		2										1	1
 NOT IN LIST	Pra. Prā.			no list form close to it	none		2											1	1					
 NOT IN LIST	I. Bra.			no list form close to it	none		2											2						
 NOT IN LIST	Ka. Brā.			no list form close to it	none		2											1	1					
-NOT IN LIST	Muṃ. U.			no list form close to it	none		2											1	1					
+NOT IN LIST	Muṃ. U.		Mu. U.	known spelling of Mu. U. (capitals/dots differ)	high		2											1	1					
 NOT IN LIST	Śrī. A.			no list form close to it	none		2											1	1					
 NOT IN LIST	si.		Ni.	known spelling of Ni. (capitals/dots differ)	high		2											1				1		
 NOT IN LIST	Ta. Brā.			no list form close to it	none		2											1	1					
@@ -522,7 +522,7 @@ Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form clos
 Devanagari	ऋ. स.		Ṛ. Saṃ.	Devanagari read as ṛ. sa.; known spelling of Ṛ. Saṃ.	high	yes	4				3							1						
 Devanagari	वा. ।. उ.			Devanagari read as vā. |. u.; no list form close to it	none		4				1		1		2									
 Devanagari	श्वे. उ.		Śve. U.	Devanagari read as śve. u.; same letters; only capitals, dots or spaces differ	high	yes	4												4					
-Devanagari	मुं. उ.			Devanagari read as muṃ. u.; no list form close to it	none		4												4					
+Devanagari	मुं. उ.		Mu. U.	Devanagari read as muṃ. u.; known spelling of Mu. U.	high	yes	4												4					
 Devanagari	वे. सू.		Ve. Sū.	Devanagari read as ve. sū.; same letters; only capitals, dots or spaces differ	high	yes	3	2	1															
 Devanagari	जै. न्या.		Jai. Nyā. Vi.	Devanagari read as jai. nyā.; short for Jai. Nyā. Vi. (the only list form that begins so)	medium	yes	3	3																
 Devanagari	नै.			Devanagari read as nai.; no list form close to it	none		3		1								1	1						
