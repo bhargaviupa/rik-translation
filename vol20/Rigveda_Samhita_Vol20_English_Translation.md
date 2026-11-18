@@ -11173,6 +11173,146 @@ Here ends the explanation of the meaning of the fourteenth Ṛk.
 
 ओं अस्य श्री श्रीसूक्तस्थ ऋक्पंचदशीमहामंत्रस्य । अंगिरा ऋषिः । श्री लक्ष्मी र्देवता ! अनुष्टुप् छंदः । अथवा कुबेर ऋषिः । श्रीमहालक्ष्मीर्देवता ! प्रस्तार पंक्तिशृंदः। ह्रीं बीजं। श्रीं शक्तिः । ह्रीं कीलकं । श्री राज्यसिंहासनस्थमहालक्ष्मीप्रसाद सिद्ध्यर्थे जपे विनियोगः ॥ (*oṃ asya śrī śrīsūktastha ṛkpaṃcadaśīmahāmaṃtrasya | aṃgirā ṛṣiḥ | śrī lakṣmī rdevatā ! anuṣṭup chaṃdaḥ | athavā kubera ṛṣiḥ | śrīmahālakṣmīrdevatā ! prastāra paṃktiśṛṃdaḥ| hrīṃ bījaṃ| śrīṃ śaktiḥ | hrīṃ kīlakaṃ | śrī rājyasiṃhāsanasthamahālakṣmīprasāda siddhyarthe jape viniyogaḥ ‖*) ओं ह्रीं तां म आवह—अंगुष्ठाभ्यां नमः। ओं श्रीं जातवेदः-तर्जनीभ्यां नमः । ओं ह्रीं लक्ष्मीमनपगामिनीं— मध्यमाभ्यां नमः ! यस्यां हिरण्यं— अनामिकाभ्यां—नमः। ओं श्रीं प्रभूतं गावो दास्योऽश्वान्—कनिष्ठिकाभ्यां नमः । (*oṃ hrīṃ tāṃ ma āvaha—aṃguṣṭhābhyāṃ namaḥ| oṃ śrīṃ jātavedaḥ-tarjanībhyāṃ namaḥ | oṃ hrīṃ lakṣmīmanapagāminīṃ— madhyamābhyāṃ namaḥ ! yasyāṃ hiraṇyaṃ— anāmikābhyāṃ—namaḥ| oṃ śrīṃ prabhūtaṃ gāvo dāsyo 'śvān—kaniṣṭhikābhyāṃ namaḥ |*)
 
+### Printed p. 328
+
+ओं ह्री पुरुषानहं—करतलकरपृष्ठाभ्यां नमः ॥ ओं ह्रीं तां म आवह-हृदयाय नमः । ओं ह्रीं लक्ष्मीमनसगामिनीं—शिखाय्कॆ वषट् । ओं श्रीं जातवेदः—शिरसे स्वाहा । ओं ह्रीं लक्ष्मीमनसगामिनीं—शिखाय्कॆ वषट् । ओं ह्रीं यस्यां हिरण्यंकवचाय हुं । ओं श्रीं प्रभूतं गावो दास्योऽश्वान्-नेत्रत्रयाय वौषट् । ओं ह्रीं पुरुषानहं—अस्त्राय फट् ॥ भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ (*oṃ hrī puruṣānahaṃ—karatalakarapṛṣṭhābhyāṃ namaḥ ‖ oṃ hrīṃ tāṃ ma āvaha-hṛdayāya namaḥ | oṃ hrīṃ lakṣmīmanasagāminīṃ—śikhāykè vaṣaṭ | oṃ śrīṃ jātavedaḥ—śirase svāhā | oṃ hrīṃ lakṣmīmanasagāminīṃ—śikhāykè vaṣaṭ | oṃ hrīṃ yasyāṃ hiraṇyaṃkavacāya huṃ | oṃ śrīṃ prabhūtaṃ gāvo dāsyo 'śvān-netratrayāya vauṣaṭ | oṃ hrīṃ puruṣānahaṃ—astrāya phaṭ ‖ bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖*) ध्यायॆल्लक्ष्मीं प्रहसितमुखीं राज्यसिंहासनस्थां मुद्राशक्तिं सकलविनुतां सर्वसंसेव्यमानां । अग्नौ पूज्यामखिलजननीं हेमवर्णां हिरण्यां भाग्योपेतां भुवनसुखदां भार्गवीं भूतधात्रीं ॥ इति ध्यात्वा जपंकुर्यात् ॥ (*dhyāyèllakṣmīṃ prahasitamukhīṃ rājyasiṃhāsanasthāṃ mudrāśaktiṃ sakalavinutāṃ sarvasaṃsevyamānāṃ | agnau pūjyāmakhilajananīṃ hemavarṇāṃ hiraṇyāṃ bhāgyopetāṃ bhuvanasukhadāṃ bhārgavīṃ bhūtadhātrīṃ ‖ iti dhyātvā japaṃkuryāt ‖*) **GLOSS**
+
+तां म आवह जातवेदो लक्ष्मीमनपगामिनीं । यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान्विंदेयं पुरुषानहं ॥ (*tāṃ ma āvaha jātavedo lakṣmīmanapagāminīṃ | yasyāṃ hiraṇyaṃ prabhūtaṃ gāvo dāsyo 'śvānviṃdeyaṃ puruṣānahaṃ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+इयं ऋक् द्वितीयया ऋचा व्याख्याता । प्रभूतं भूयिष्ठं गावः गाः । दास्यः परिचारिकाः । उभयत्र शसर्थे जस् । इयान् विशेषः .. ॥ (*iyaṃ ṛk dvitīyayā ṛcā vyākhyātā | prabhūtaṃ bhūyiṣṭhaṃ gāvaḥ gāḥ | dāsyaḥ paricārikāḥ | ubhayatra śasarthe jas | iyān viśeṣaḥ .. ‖*)
+
+##### Gist of the bhāṣya
+
+This Ṛk has been explained by the second Ṛk. प्रभूतं (*prabhūtaṃ*) means abundant; गावः (*gāvaḥ*) means cows; दास्यः (*dāsyaḥ*) means maidservants. This much is the difference.
+
+**Bhāṣya of Pṛthvīdhara**
+
+हे जातवेदः अग्ने यस्यां लक्ष्म्यामागतायां सत्यां प्रभूतं हिरण्यं पुष्कलं धनं गावः गोमहिष्यादीन् दासीजनान् अश्वान् तुरगादीन् पुरुषान् पुत्रमित्रकलत्रादीन् विंदेयमहं लभेयं । अनपगामिनीं निवृत्तिरहितां तां तादृशीं लक्ष्मीं श्रियं मे मदर्थं आवह आवाहनं कुरु ॥ (*he jātavedaḥ agne yasyāṃ lakṣmyāmāgatāyāṃ satyāṃ prabhūtaṃ hiraṇyaṃ puṣkalaṃ dhanaṃ gāvaḥ gomahiṣyādīn dāsījanān aśvān turagādīn puruṣān putramitrakalatrādīn viṃdeyamahaṃ labheyaṃ | anapagāminīṃ nivṛttirahitāṃ tāṃ tādṛśīṃ lakṣmīṃ śriyaṃ me madarthaṃ āvaha āvāhanaṃ kuru ‖*)
+
+##### Gist of the bhāṣya
+
+O Jātavedas, O Agni: when that Lakṣmī has come, in whom there is प्रभूतं हिरण्यं (*prabhūtaṃ hiraṇyaṃ*), abundant gold, that is, plentiful wealth, I would obtain cows, that is, buffaloes and the like, servant-women, horses, that is, steeds and the like, and पुरुषान् (*puruṣān*), that is, sons, friends, wives and the like. अनपगामिनीं (*anapagāminīṃ*) means she who does not turn away. Bring, perform the invocation of, such a Lakṣmī, Śrī, for my sake, for my purpose.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni
+- अनपगामिनीं (*anapagāminīṃ*)—she who never leaves me, that is, who dwells firmly in my house
+- तां (*tāṃ*)—that renowned one
+- लक्ष्मीं (*lakṣmīṃ*)—the goddess Śrī, renowned as Mahālakṣmī
+
+### Printed p. 329
+
+- मे (*me*)—to my side, or to show me favour
+- आ वह (*ā vaha*)—bring
+- यस्यां (*yasyāṃ*)—the goddess Śrī, by whose coming to me
+- अहं (*ahaṃ*)—I
+- प्रभूतं (*prabhūtaṃ*)—abundant
+- हिरण्यं (*hiraṇyaṃ*)—gold, or wealth such as money and gold
+- गावः (*gāvaḥ*)—cows (wealth of cattle)
+- दास्यः (*dāsyaḥ*)—male and female servants, that is, attendants
+- अश्वान् (*aśvān*)—horses
+- पुरुषान् (*puruṣān*)—people such as sons, friends and wives
+- विंदेयं (*viṃdeyaṃ*)—may I obtain (by the grace of the goddess); bring such a goddess Śrī to my side
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring to my side that goddess Śrī, by whose coming to my house I shall obtain, through the favour of that goddess, abundant wealth such as money and gold, wealth of cattle such as cows, male and female servants, horses, and the circle of relatives such as sons, friends and wives.
+
+##### विशेषविषयगळु (Special Topics)
+
+मंत्रकल्पार्णवे (*maṃtrakalpārṇave*)
+
+पंचदश्या ऋचः कुबेरऋषिः प्रस्तारपंक्तिश्छंदः । ह्रीं श्रीं ह्रीमिति बीजानि द्विधाविभक्तमंत्रेण सबीजत्रयेण पल्लवेन त्रिवारमनुलोमविलोमपरिवर्तनतः षोढा न्यासाः । (*paṃcadaśyā ṛcaḥ kuberaṛṣiḥ prastārapaṃktiśchaṃdaḥ | hrīṃ śrīṃ hrīmiti bījāni dvidhāvibhaktamaṃtreṇa sabījatrayeṇa pallavena trivāramanulomavilomaparivartanataḥ ṣoḍhā nyāsāḥ |*) ध्यायेल्लक्ष्मीं प्रहसितमुखीं राज्यसिंहासनस्थां मुद्राशक्तिं सकलविनुतां सर्वसंसेव्यमानां । अग्नौ पूज्यामखिलजननीं हेमवर्णां हिरण्यां भाग्योपेतां भुवनसुखदां भार्गवीं भूतिधात्रीं ॥ (*dhyāyellakṣmīṃ prahasitamukhīṃ rājyasiṃhāsanasthāṃ mudrāśaktiṃ sakalavinutāṃ sarvasaṃsevyamānāṃ | agnau pūjyāmakhilajananīṃ hemavarṇāṃ hiraṇyāṃ bhāgyopetāṃ bhuvanasukhadāṃ bhārgavīṃ bhūtidhātrīṃ ‖*)
+
+मंत्रोऽयं धान्यराशेरुपरि पद्माक्षमालया तुलसीकाष्ठमालया ना प्रत्यहमष्टोत्तरत्रिसहस्रप्रकारेण सहस्रदिवसजपात्सिद्धो भवति । व्याघ्राजिने महेंद्रनीलाक्षमालया पंचलक्षजपाच्छत्रून् जयति । वस्त्रासने दर्भास्तरणे वा रुद्राक्षमालया नवलक्षजपाद्विद्यां प्राप्नोति । वेत्रासने सुवर्णाक्षमालया कोटिजपाद्राज्यं प्राप्नुयात् । ऐहिकसर्वकामप्रदोऽयं मंत्रः । अर्थतस्त्वेषा द्वितीयामृचमनुकरोति । अन्यदन्यत्रोक्तमेवेति समानं ॥ (*maṃtro 'yaṃ dhānyarāśerupari padmākṣamālayā tulasīkāṣṭhamālayā nā pratyahamaṣṭottaratrisahasraprakāreṇa sahasradivasajapātsiddho bhavati | vyāghrājine maheṃdranīlākṣamālayā paṃcalakṣajapācchatrūn jayati | vastrāsane darbhāstaraṇe vā rudrākṣamālayā navalakṣajapādvidyāṃ prāpnoti | vetrāsane suvarṇākṣamālayā koṭijapādrājyaṃ prāpnuyāt | aihikasarvakāmaprado 'yaṃ maṃtraḥ | arthatastveṣā dvitīyāmṛcamanukaroti | anyadanyatroktameveti samānaṃ ‖*)
+
+इति पंचदशी ऋग्विवृता (*iti paṃcadaśī ṛgvivṛtā*)
+
+इति श्रीसूक्तभाष्यं (*iti śrīsūktabhāṣyaṃ*)
+
+### Printed p. 330
+
+##### Anuvāda
+
+For this Ṛk of the Śrīsūkta, the fifteenth Ṛk, which begins तां म (*tāṃ ma*), Kubera is the seer; Lakṣmī is the deity; the metre is Prastārapaṅkti. For the convenience of nyāsa the mantra is to be divided into two parts, the three seed syllables are to be joined in direct and reverse order, and the sixfold nyāsa is to be performed. The meditation verse is as follows.
+
+ध्यायॆल्लक्ष्मीं प्रहसितमुखीं राज्यसिंहासनस्थां मुद्राशक्तिं सकलविनुतां सर्वसंसेव्यमानां अग्नौ पूज्यामखिलजननीं हेमवर्णां हिरण्यां भाग्योपेतां भुवनसुखदां भागवीं भूतिधात्रीं ॥ (*dhyāyèllakṣmīṃ prahasitamukhīṃ rājyasiṃhāsanasthāṃ mudrāśaktiṃ sakalavinutāṃ sarvasaṃsevyamānāṃ agnau pūjyāmakhilajananīṃ hemavarṇāṃ hiraṇyāṃ bhāgyopetāṃ bhuvanasukhadāṃ bhāgavīṃ bhūtidhātrīṃ ‖*)
+
+This goddess Śrī, bearing the name Lakṣmī, shines seated on the royal throne, with a gentle smile on her face, holding in her hands the gestures of granting boons, giving fearlessness and the like. She is praised by all people. Invoked in the fire, she is worthy of worship. She is the mother of the whole world. She shines with the radiance of a golden-hued body. The body of this goddess is wholly of gold. Being the mistress of fortune, she brings happiness to the people of all worlds. Born in the family of Bhṛgu and bearing prosperity and the other glories, this goddess Śrī is to be meditated on in this way: such is the main purport.
+
+The practiser who repeats the mantra should sit upon a heap of grain, take as his rosary either a lotus-seed rosary or a rosary of tulasī wood, and repeat this Ṛk every day three thousand one hundred and eight times, for a thousand days; for such men the mantra is accomplished. If he spreads for a seat a tiger skin, sits upon it, and repeats it five hundred thousand times with a rosary of sapphire (indranīla) beads, he conquers his enemies in battles and the like and wins victory over all quarters. If he spreads a cloth, or sits on a seat of darbha grass, and repeats it nine hundred thousand times with a rudrākṣa rosary, he obtains all knowledge. If he sits on a seat of cane (vetra), that is, a seat made of rattan, and repeats it ten million times with a rosary studded with golden beads, he obtains a kingdom. This mantra grants all desires that are enjoyed in this world (aihika). In meaning this mantra is just like the second Ṛk of this sūkta.
+
+Here ends the explanation of the meaning of the fifteenth Ṛk.
+
+Here the Śrīsūkta ends.
+
+### Printed p. 331
+
+#### Ṛk 16
+
+निरुक्तकारोक्तफलस्तुतिः (*niruktakāroktaphalastutiḥ*)
+
+यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहं । श्रियः पंचदशर्चं च श्रीकामः सततं जपेत् ॥ १६ ॥ (*yaḥ śuciḥ prayato bhūtvā juhuyādājyamanvahaṃ | śriyaḥ paṃcadaśarcaṃ ca śrīkāmaḥ satataṃ japet ‖ 16 ‖*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- श्रीकामः (*śrīkāmaḥ*)—desires wealth; that man
+- प्रयतः (*prayataḥ*)—with effort
+- शुचिर्भूत्वा (*śucirbhūtvā*)—having become pure by bathing and the like
+- श्रियः (*śriyaḥ*)—of this Śrīsūkta that treats of the goddess Śrī
+- पंचदशर्चं (*paṃcadaśarcaṃ*)—with the fifteen Ṛks
+- अन्वहं (*anvahaṃ*)—every day
+- आज्यं (*ājyaṃ*)—with the offering of ghee
+- जुहयात् (*juhayāt*)—must offer in the consecrated fire
+- च (*ca*)—and the fifteen Ṛks of this sūkta
+- सततं (*satataṃ*)—always, that is, every day
+- जपेत् (*japet*)—must repeat
+
+##### भावार्थ (Bhāvārtha)
+
+The man who desires to obtain the favour of the goddess Śrī and wealth should, with effort, purified by bathing and the like, offer every day in the consecrated fire oblations of ghee with the fifteen Ṛks of this Śrīsūkta. And he should also repeat this sūkta every day according to rule.
+
+##### विशेषविषयगळु (Special Topics)
+
+निरुक्तकारोक्तफलस्तुतिः (*niruktakāroktaphalastutiḥ*)
+
+ओं । यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहं । श्रियः पंचदशर्चं च श्रीकामः सततं जपेत् ॥ १६ ॥ (*oṃ | yaḥ śuciḥ prayato bhūtvā juhuyādājyamanvahaṃ | śriyaḥ paṃcadaśarcaṃ ca śrīkāmaḥ satataṃ japet ‖ 16 ‖*)
+
+यः श्रीकामः स शुचिः प्रयतश्च भूत्वा सततं संकल्पदिनादि पंचदशाब्देषु प्रत्यहं स्वशाखोक्तविधानेनाग्निं संस्कृत्य श्रीसूक्तपंचदशऋग्भिः पंचदशाज्याहुतीर्हुत्वा ततः परं श्रियः श्रीसूक्तपंचदशर्चं साकल्येनैकवारमिति यथाशक्त्यखंडपारायणं कुर्यात् । अथवा पंचदशवारमखंडपारायणं कृत्वा तत एकैकामृचं विधिवद्यथासंख्यं जपेत् । तदशक्तौ लौकिकेऽग्नावपि पंचदश ऋग्भिः प्रत्यहं पंचदशाज्याहुतीर्हुत्वा पंचदश वारं श्रीसूक्तं जपेत्तस्य श्रीकामस्य तस्मिन्नेव (*yaḥ śrīkāmaḥ sa śuciḥ prayataśca bhūtvā satataṃ saṃkalpadinādi paṃcadaśābdeṣu pratyahaṃ svaśākhoktavidhānenāgniṃ saṃskṛtya śrīsūktapaṃcadaśaṛgbhiḥ paṃcadaśājyāhutīrhutvā tataḥ paraṃ śriyaḥ śrīsūktapaṃcadaśarcaṃ sākalyenaikavāramiti yathāśaktyakhaṃḍapārāyaṇaṃ kuryāt | athavā paṃcadaśavāramakhaṃḍapārāyaṇaṃ kṛtvā tata ekaikāmṛcaṃ vidhivadyathāsaṃkhyaṃ japet | tadaśaktau laukike 'gnāvapi paṃcadaśa ṛgbhiḥ pratyahaṃ paṃcadaśājyāhutīrhutvā paṃcadaśa vāraṃ śrīsūktaṃ japettasya śrīkāmasya tasminneva*)
+
+### Printed p. 332
+
+जन्मनि महती श्रीप्राप्तिर्भविष्यतीति विज्ञायते । विधिवदनुष्ठानासमर्थस्य तु जन्मांतरे फलानुभवो भविष्यतीति सिद्धांतः ॥ (*janmani mahatī śrīprāptirbhaviṣyatīti vijñāyate | vidhivadanuṣṭhānāsamarthasya tu janmāṃtare phalānubhavo bhaviṣyatīti siddhāṃtaḥ ‖*) तदुक्तं मंत्ररहस्ये (*taduktaṃ maṃtrarahasye*)
+
+अधिकारी यथादेशे यथाकाले यथामनुं । यादृग्विधानसंधानः प्रजपेत्तादृशं फलं ॥ कालदेशक्रियारूपाद्यनुरूपं लभेन्नरः । अत्युत्कटेन पुण्येन तस्मिन्नेव हि जन्मनि ॥ तत्फलं प्राप्नुयात्सिद्दो नात्र कार्या विचारणा । पुण्यस्यानुत्कटत्वे तु चिरात्किंचित्सलं लभेत् ॥ प्रतिबंधकबाहुल्ये फलं जन्मांतरे भवेत् । न देवतोषणं व्यर्थं भविष्यति कदाचन ॥ तस्मान्मंत्रं जपेद्योगी यतः शुद्धेंद्रियक्रियः ॥ इति ॥ (*adhikārī yathādeśe yathākāle yathāmanuṃ | yādṛgvidhānasaṃdhānaḥ prajapettādṛśaṃ phalaṃ ‖ kāladeśakriyārūpādyanurūpaṃ labhennaraḥ | atyutkaṭena puṇyena tasminneva hi janmani ‖ tatphalaṃ prāpnuyātsiddo nātra kāryā vicāraṇā | puṇyasyānutkaṭatve tu cirātkiṃcitsalaṃ labhet ‖ pratibaṃdhakabāhulye phalaṃ janmāṃtare bhavet | na devatoṣaṇaṃ vyarthaṃ bhaviṣyati kadācana ‖ tasmānmaṃtraṃ japedyogī yataḥ śuddheṃdriyakriyaḥ ‖ iti ‖*)
+
+##### Anuvāda
+
+The man who desires wealth, grain and the like, having become pure, from the day on which he makes his resolve, for fifteen years, should offer in the consecrated fire fifteen oblations of ghee, one with each Ṛk of this Śrīsūkta, and every day repeat those fifteen Ṛks according to rule. Or else he should perform the recitation as far as he is able. Or, putting the fifteen Ṛks together, he should perform the unbroken recitation (akhaṇḍa-pārāyaṇa) and afterwards repeat each single Ṛk the prescribed number of times. If he lacks the strength even for that, he should every day offer fifteen oblations of ghee with the fifteen Ṛks in the ordinary fire itself and afterwards repeat the Śrīsūkta fifteen times. By this it is known by experience that the man who desires wealth obtains great prosperity in this very birth. If one lacks the strength to perform the observance according to rule, without the slightest deficiency, then even if he does the repetition and the rest as far as he is able, the fruit comes to him accordingly without fail. If, while the repetition and the rest are being done, many obstacles arise and the observance is not completed, the experience of the fruit will come in a later birth: this is the established conclusion. This matter is stated in the work called Mantrarahasya in the following way.
+
+The man who is qualified to repeat this sūkta, even if for other reasons he is unable to perform the repetition according to rule without the slightest deficiency, receives the fruit in as far as he repeats this mantra, suitably to place and time, that is, as the occasion allows. By the power of exceedingly great merit the mantra is accomplished in this very birth, and its fruit too is obtained. In this matter there is no doubt. If the power of merit is not so great, some fruit is obtained a little, after some time.
+
+### Printed p. 333
+
+If many obstacles arise and the repetition is not carried on, then however small the repetition performed up to then, its fruit will be obtained in the next birth. Repetition, worship and the like done for the pleasure of the deity are never in vain. Therefore the yogin (or the one who repeats) should, having conquered his senses and being pure, repeat these mantras of the Śrīsūkta with devotion.
+
+Here ends the explanation of the Ṛk that is the praise of the fruit.
+
+Notice: in the Śrīsūkta that is stated among the Appendix mantras of the Ṛgveda there are only fifteen Ṛks. One Ṛk, which describes the praise of the fruit, stands at its end. It is well known as the mantra in the form of the praise of the fruit of the Śrīsūkta, spoken by the author of the Nirukta. After reciting these, it is the custom to recite some verses that praise Lakṣmī, or the goddess Śrī. Since these are in easy language, no one has written commentaries and the like upon them. In their number and in the order of recitation, differences and variant readings are seen, as they are in use in different places. As far as possible, these verses and their main purport are explained here in the order that is customary in reciting them.
+
+पद्मासने पद्मऊरू पद्माक्षी पद्मसंभवे । त्वं मां भजस्व पद्माक्षी येन सौख्यं लभाम्यहं ॥ (*padmāsane padmaūrū padmākṣī padmasaṃbhave | tvaṃ māṃ bhajasva padmākṣī yena saukhyaṃ labhāmyahaṃ ‖*)
+
+O Mahālakṣmī, you have made the lotus itself your seat and sit upon it. Your thighs are tender like the lotus. Your eyes are wide and charming like the lotus. You are born in the lotus itself. O Lakṣmī, whose eyes are charming like the lotus, show favour to me, come to my side and abide in my dwelling-place. Thereby I shall come to obtain happiness.
+
+अश्वदायिा गोदायिा धनदायिा महाधने । धनं मे जुषतां देवि सर्वकामार्थसिद्धये ॥ (*aśvadāyiā godāyiā dhanadāyiā mahādhane | dhanaṃ me juṣatāṃ devi sarvakāmārthasiddhaye ‖*)
+
+O Lakṣmī who have great wealth, you are the giver to devotees of horses, cows and riches. Therefore, O goddess, for the accomplishment of all desired aims, that is, so that all the wishes that I desire may be fulfilled, bestow wealth upon me and show favour.
+
+पुत्रपौत्रधनं धान्यं हस्यश्वादिगवे रथं । प्रजानां भवसि माता आयुष्मंतं करोतु मां ॥ (*putrapautradhanaṃ dhānyaṃ hasyaśvādigave rathaṃ | prajānāṃ bhavasi mātā āyuṣmaṃtaṃ karotu māṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 327. Śrīsūkta Ṛk 12 end, Ṛk 13, 14 with Special Topics and Anuvāda, start of Ṛk 15, pp. 321-327
+**Progress note:** Done through printed p. 333. Śrīsūkta Ṛk 15, phalastuti Ṛk 16, closing stotra verses, pp. 328-333
