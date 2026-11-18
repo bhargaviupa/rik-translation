@@ -15250,6 +15250,265 @@ The Ṛk beginning उदीरय कवितमं कवीनां भग�
 
 O priests, gladden the god Savitṛ, the most excellent of poets. Satisfy this god with sweet Soma juice. May that same god Savitṛ give us wealth that is complete, beneficial and delightful.
 
+### Printed p. 410
+
+##### English translation
+Celebrate, (priests), the most prophetic of the prophets; imbue him with the sweet libation, and may the divine Savitri bestow upon us ample beneficial, and delightful riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning with the word उदीरय (*udīraya*) is to be recited as the yājyā mantra in the vapā-offering made in the animal sacrifice to the deity called Ekādaśī Savitṛ**NOTE**, as is explained in the Āśvalāyana Śrauta Sūtra by the sūtra उदीरय कवितमं कवीनां भगं धियं वाजयंतः पुरंधिमिति द्वे (*udīraya kavitamaṃ kavīnāṃ bhagaṃ dhiyaṃ vājayaṃtaḥ puraṃdhimiti dve*) (Ā. 3-7).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समिं॑द्र णो॒ मन॑सा नेषि॒ गोभिः॒ सं सू॒रिभि॑र्हरिवः॒ सं स्व॒स्ति ।  
+> सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒त्या य॒ज्ञिया॑नां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । इंद्र । नः । मनसा । नेषि । गोभिः । सं । सूरिभिः । हरिवः । सं । स्वस्ति ।  
+> सं । ब्रह्मणा । देव्यहितं । यत् । अस्ति । सं । देवानां । सुमत्या । यज्ञियानां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मान्मनसा प्रकृष्टेन चेतसा गोभिः सह सं नेषि । नयसि ।
+> अस्मान् गाः प्रापयसीत्यर्थः । एवं सर्वत्र । हे हरिवो हरिभ्यां तद्वन्निंद्र सूरिभिर्मेधाविभिः पुत्रैर्यृत्विग्निर्वा सं नेषि । तथा स्वस्ति स्वस्तिभिः क्षेमैः सं नेषि । ब्रह्मणा
+> प्रभूतेनान्नेन सं नेषि । यदन्नं देवहितमस्ति तेन । किंच यज्जियानां यज्ञार्हाणां देवानां सुमत्यानुग्रहबुद्ध्या सं नेषि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you lead us (सं नेषि (*saṃ neṣi*)) with a mind, that is, with an excellent thought, together with cows; that is, you bring cows to us. In the same way the verb is to be supplied everywhere. O Harivat, that is, Indra, who has the two bay horses, you lead us with the wise (सूरिभिः (*sūribhiḥ*)), that is, with sons or with priests**NOTE**; likewise with blessings (स्वस्ति (*svasti*)), that is, with well-being, you lead us. With brahma, that is, with abundant food, you lead us: with the food which is beneficial to the gods. Further, you lead us with the good will (सुमत्या (*sumatyā*)), that is, with the thought of favour, of the gods who are worthy of sacrifice.
+
+### Printed p. 411
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- मनसा (*manasā*)—with a mind full of favour
+- गोभिः (*gobhiḥ*)—with cows
+- सं (*saṃ*) (नेषि (*neṣi*))—unite
+- हरिवः (*harivaḥ*)—O Indra, who has the horses named Hari
+- सूरिभिः (*sūribhiḥ*)—with sons who are wise
+- सं (*saṃ*) (नेषि (*neṣi*))—unite
+- स्वस्ति (*svasti*)—with blessings
+- सं (*saṃ*) (नेषि (*neṣi*))—unite
+- यत् (*yat*)—which food
+- देवहितं (*devahitaṃ*)—beneficial also to the gods
+- अस्ति (*asti*)—there is, such
+- ब्रह्मणा (*brahmaṇā*)—with abundant wealth of food
+- सं (*saṃ*)—join
+- यज्ञियानां (*yajñiyānāṃ*)—of those worthy of sacrifice
+- देवानां (*devānāṃ*)—of the gods
+- सुमत्या (*sumatyā*)—with the thought of favour
+- सं (*saṃ*) (नेषि (*neṣi*))—unite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with your mind full of favour, unite us with cows, with wise sons, and with abundant food that is beneficial also to the gods. And cause the thought of favour of the gods who are worthy of sacrifice to be upon us.
+
+##### English translation
+With a (willing) mind, Indra, you associate us with cattle, with pious (priests) and, lord of steeds, with prosperity, with (sacrificial) food that is agreeable to the gods, and with the favour of the adorable deities.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वो भगः॑ सवि॒ता रा॒यो अंश॒ इंद्रो॑ वृ॒त्रस्य॑ सं॒जितो॒  ॑
+> धनानां ।  
+> ऋ॒भु॒क्षा वाज॑ उ॒त वा॒ पुरं॑धि॒रवं॑तु नो अ॒मृता॑सस्तु॒रासः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवः । भगः । सविता । रायः । अंशः । इंद्रः । वृत्रस्य । संजितः । धनानां ।  
+> ऋभुक्षाः । वाजः । उत । ना । पुरंधिः । अवंतु । नः । अमृतासः । तुरासः ॥ ५ ॥
+
+### Printed p. 412
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र लिंगोक्ता देवताः । भगो देवः सविता च रायो धनस्य स्वाम्यंशस्वष्टा वृत्रस्य हंतेंद्रश्च एते देवा धनानां संजितः सम्यग्जेतार ऋभुक्षा ऋभुर्वाजश्च उत वापि च पुरंधिः बहुधीः । विभोच्यते । एते चामृतासोऽमृता
+> अमरणधर्माणो भगादिदेवास्तुरासोऽस्मद्यज्ञं प्रति त्वरमाणाः संतो नोऽस्मानवंतु । रक्षंतु ॥
+
+##### Gist of the bhāṣya
+
+Here the deities are stated by their gender. Bhaga, the god Savitṛ, the master of wealth, Aṃśa, and स्वष्टा (*svaṣṭā*)**NOTE**, and Indra, the slayer of Vṛtra: these gods are the conquerors of riches, that is, those who rightly conquer them; Ṛbhukṣan, that is, Ṛbhu, and Vāja, and also Purandhi, that is, one of much wisdom, who is called Vibhu. And these gods, Bhaga and the others, being immortal, of the nature of not dying, hastening toward our sacrifice, may protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the divine
+- भगः (*bhagaḥ*)—Bhaga
+- रायः (*rāyaḥ*)—the master of wealth
+- सविता (*savitā*)—the god Savitṛ
+- अंशः (*aṃśaḥ*)—Aṃśa
+- वृत्रस्य (*vṛtrasya*)—the slayer of Vṛtra
+- इंद्रः (*iṃdraḥ*)—Indra
+- धनानां (*dhanānāṃ*)—over riches
+- संजितः (*saṃjitaḥ*)—who have obtained mastery
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Ṛbhu
+- वाजः (*vājaḥ*)—Vāja
+- उत (*uta*)—and also
+- पुरंधिः (*puraṃdhiḥ*)—Vibhvan, of many kinds of wisdom
+- अमृतासः (*amṛtāsaḥ*)—all the gods who are free from the nature of death
+- तुरासः (*turāsaḥ*)—being eager to come to our sacrifice
+- नः (*naḥ*)—us
+- अवंतु (*avaṃtu*)—may protect
+
+##### भावार्थ (Bhāvārtha)
+
+The god Bhaga, Savitṛ the master of wealth, Aṃśa, Indra the slayer of Vṛtra, Ṛbhu, Vāja and Vibhvan, who have obtained mastery over riches, and all the gods who are free from the nature of death, being eager to come to our sacrifice, may protect us.
+
+##### English translation
+May the divine Bhaga, Savitri, the lord of wealth, Ansa, Indra (the slayer) of vritra, (all) the conquerors of riches, Ribhukshin, Vaja and also Purandhi, immortals, hastening (to our sacrifice) preserve us.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्व॑तो॒ अप्र॑तीतस्य जि॒ष्णूरजू॑र्यतः॒ प्र ब्र॑वामा कृ॒तानि॑।  
+> न ते॒ पूर्वे॑ मघव॒न्नाप॑रासो॒ न वी॒र्यं१॒॑१ नूत॑नः॒ कश्च॒नाप॑ ॥ ६ ॥
+
+### Printed p. 413
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वतः । अप्रतिइतस्य । जिष्णोः । अजूर्यतः । प्र । ब्रवाम । कृतानि ।  
+> न । ते । पूर्वे । मघवन् । न । अपरासः । न । वीर्यं । नूतनः । कः । चन ।  
+> आप ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं यजमाना मरुत्वतो मरुद्धिस्तद्वत इंद्रस्य कृतानि कर्माणि प्र
+> ब्रवाम । प्रख्यापयाम । कीदृशस्य तस्य । अप्रतीतस्याप्रतिगतस्य युद्धेऽपलायमानस्य । न केवलं तावन्मात्रं । जिष्णोर्जयनशीलस्याजूर्यतोऽजीर्यमाणस्य ।
+> सर्वदा यून इत्यर्थः । अथ प्रत्यक्षेणोच्यते । हे मघवन्निंद्र ते तव वीर्यं
+> पराक्रमं पूर्वे पुरातनाः पुरुषा नापुः । नापरासोऽपरेऽपि नापुः । किं बहुना ।
+> नूतनः कश्चनाश्चर्यभूतो यः कोऽपि वीर्यं नाप । न प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+We, the sacrificers, proclaim, that is, make known, the deeds of Indra, who is possessed of the Maruts (मरुत्वतो (*marutvato*)). What kind of Indra is he? He is unopposed (अप्रतीतस्य (*apratītasya*)), that is, one who has not retreated, who does not run away in battle. And not only that: he is victorious (जिष्णोः (*jiṣṇoḥ*)), that is, by nature a conqueror, and unageing (अजूर्यतः (*ajūryataḥ*)), that is, one who does not grow old, always young. Now it is said directly: O Maghavan Indra, the ancient men did not attain your valour, that is, your prowess; the later ones did not attain it either. What more is there to say? Whoever is new, a marvel, whoever he may be, does not attain valour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्रतीतस्य (*apratītasya*)—of the unopposed
+- जिष्णोः (*jiṣṇoḥ*)—the victorious
+- अजूरतः (*ajūrataḥ*)—the undecaying**NOTE**
+- मरुत्वतः (*marutvataḥ*)—Indra, who is with the Maruts
+- कृतानि (*kṛtāni*)—deeds
+- प्र ब्रवाम (*pra bravāma*)—we praise
+- मघवन् (*maghavan*)—O Indra, the possessor of wealth
+- ते (*te*)—your
+- वीर्यं (*vīryaṃ*)—prowess
+- पूर्वे (*pūrve*)—none of the earlier ones
+- न (*na*) (आपुः (*āpuḥ*))—had attained
+- अपरासः (*aparāsaḥ*)—none of those after them
+- न (*na*)—attained
+- नूतनः कश्चन (*nūtanaḥ kaścana*)—any among the moderns
+- न आप (*na āpa*)—cannot attain
+
+##### भावार्थ (Bhāvārtha)
+
+We praise the heroic deeds of Indra, who is unopposed, victorious, undecaying and always in the company of the Maruts. O Indra, possessor of wealth, none of those who came before attained your prowess. None of those who came after attained it. None among the moderns can attain it.
+
+##### English translation
+We celebrate the exploits of Marutwat, the unrecoiling, the victorious, the undecaying: neither the ancients, Maghavan, nor their successors, have attained your prowess, nor has any one recent attained it.
+
+### Printed p. 414
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ स्तुहि प्रथ॒मं र॑त्न॒धेयं॒ बृह॒स्पतिं॑ सनि॒तारं॒ धना॑नां  
+> यः शंस॑ते स्तुव॒ते शंभ॑विष्यः पुरू॒वसु॑रा॒गम॒ज्योहु॑वानं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । स्तुहि । प्रथमं । रत्नधेयं । बृहस्पतिं । सनितारं । धनानां ।  
+> यः । शंसते । स्तुवते । शंभविष्यति । पुरुवसुः । आगमत् । जोहुवानं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंतरात्मन् त्वं प्रथमं मुख्यं । प्रकृष्टतममित्यर्थः । रत्नधेयं रमणीयधनदातारं धनानां हनिर्लक्षणानां सनितारं संभक्तारं । अथवा रत्नशब्देन
+> मणिमुक्तादयो गृहीता इह धनशब्देन गवादयः । गनादिदातारं बृहस्पतिं
+> बृहतो मंत्रस्य पतिं स्वामिनं देवमुप स्तुहि । यो देवः शंसते शस्त्रैः स्तुवतॆ ।
+> सामभिर्यजमानाय शंभविष्ठः सुखस्य भावयित्कृतमो भवति । यश्च जोहुवानमाह्वयंतं यजमानं पुरूनसुः प्रभूतधनः सन्नागमत् आगच्छति तमुप स्तुहि
+
+##### Gist of the bhāṣya
+
+O inner self, you praise (उप स्तुहि (*upa stuhi*)) the god Bṛhaspati. He is first (प्रथमं (*prathamaṃ*)), that is, chief, the most excellent; the giver of delightful wealth (रत्नधेयं (*ratnadheyaṃ*)); the distributor, the one who apportions, of riches that are of the nature of oblations**NOTE**. Or else: by the word ratna jewels, pearls and the like are meant, and here by the word dhana cows and the like; he is the giver of cows and the like. Bṛhaspati is the lord, the master, of the great mantra. Praise that god who praises the sacrificer with the śastras and extols him with the sāmans, who is the greatest producer of happiness (शंभविष्ठः (*śaṃbhaviṣṭhaḥ*)), and who, being rich in abundant wealth, comes to the sacrificer who calls upon him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O inner self)
+- यः (*yaḥ*)—who
+- शंसते (*śaṃsate*)—who praises with the śastra mantras
+- स्तुवते (*stuvate*)—to the sacrificer who extols with the sāmans and the like
+- शंभविष्ठः (*śaṃbhaviṣṭhaḥ*)—the giver of happiness; and he who
+- चोहुवानं (*cohuvānaṃ*)—to the sacrificer who prays that he may come to his help**NOTE**
+- पुरूनसुः (*purūnasuḥ*)—possessed of abundant wealth**NOTE**
+- आगमत् (*āgamat*)—comes, such a one
+- प्रथमं (*prathamaṃ*)—the best of all
+- रत्नधेयं (*ratnadheyaṃ*)—the giver of jewels and other riches**NOTE**
+- धनानां (*dhanānāṃ*)—of the wealth of oblation-food and the like
+- सनितारं (*sanitāraṃ*)—the distributor
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- उप स्तुहि (*upa stuhi*)—praise with hymns
+
+##### भावार्थ (Bhāvārtha)
+
+O inner self, praise and extol Bṛhaspati, who gives happiness to the sacrificer who praises with the śastras and the like and extols with the sāmans and the like, who comes bringing abundant wealth to the sacrificer who prays to him for help, who is the best of all, the giver of riches such as jewels, and the distributor of the wealth of oblation-food and the like.
+
+### Printed p. 415
+
+##### English translation
+Glorify the first donor of precious treasure, Brihaspati, the distributer of riches, the bestower of great happiness upon him who recites or chants (his praise), who comes laden with ample wealth to his invoker.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवो॒तिभिः॒ सच॑माना॒ अरि॑ष्टा॒ बृह॑स्पते म॒घवा॑नः सु॒वीराः॑ ।  
+> ये अ॑श्व॒दा उ॒त वा॒ संति॑ गो॒दा ये व॑स्त्र॒दाः सु॒भगा॒स्तेषु॒  ॑
+> रायः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । ऊतिभिः । सचमानाः । अरिष्टाः । बृहस्पते । मघवानः । स्तुवीराः ।  
+> ये । अश्वदाः । उत । वा । संति । गोऽदाः । ये । वस्त्रदाः । सुभ्यगाः । तेषु ।  
+> रायः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहस्पते तवोतिभी रक्षाभिः सचमानाः संगच्छमाना अरिष्टा आहिंसिता
+> मघवानो धनवंतः सुवीराः शोभनपुत्राश्च भवंति । ये त्वदनुगृहिता अश्वदा
+> बहूनामश्वानां दातारः संति । उत वाथवा गोदाः संति । ये च वस्त्रदाः सुभगाः
+> शोभनधनाः संति तेषु सर्वॆषु रायो धनानि संभवंत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati, the sacrificers who are united with your protections (तवोतिभी (*tavotibhī*)), who are unharmed, wealthy and have good sons, that is, good heroes. Those who, favoured by you, are givers of many horses; or else givers of cows; and those who are givers of clothing and are fortunate, that is, possessed of good wealth: among all of these let riches, that is, wealth, come to be; "let come to be" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- तव ऊतिभिः (*tava ūtibhiḥ*)—with your protections
+- सचमानाः (*sacamānāḥ*)—the sacrificers who are united
+- अरिष्टाः (*ariṣṭāḥ*)—unharmed (by enemies)
+- मघवानः (*maghavānaḥ*)—possessed of wealth
+- सुवीराः (*suvīrāḥ*)—and united also with excellent sons and the like
+- ये सुभगाः (*ye subhagāḥ*)—whoever have obtained the wealth of your favour
+- अश्वदाः (*aśvadāḥ*)—givers of horses
+- उत वा (*uta vā*)—or else
+- गोदाः (*godāḥ*)—givers of cows, and
+- ये (*ye*) (च (*ca*))—who
+- वस्त्रदाः (*vastradāḥ*)—givers of clothing
+- संति (*saṃti*)—are
+- तेषु (*teṣu*)—among such
+- रायः (*rāyaḥ*)—let riches abound
+
 ---
 
-**Progress note:** Done through printed p. 409. pp. 403-409: Vāyu special topics (pañcahotā), Ṛk 2 and 3 of Sūkta 42
+**Progress note:** Done through printed p. 415. pp. 410-415: Sūkta 42 Ṛk 3 close, Ṛk 4-8
