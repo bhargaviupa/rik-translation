@@ -261,3 +261,4 @@
 | w0992 pp. 992-997 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16338 + cache write 0 + cache read 5183, out 9415 | $0.064 |
 | w0998 pp. 998-1003 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 14585 + cache write 0 + cache read 5183, out 5167 | $0.041 |
 | w1004 pp. 1004-1007 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 9797 + cache write 0 + cache read 5183, out 3027 | $0.025 |
+| bhāṣya reader pilot, Sūkta 3.40 (9 Ṛks, 754 bhāṣya words → 2,192 English words) | Sonnet agent (Agent tool), Nov 18 2026 | 1 agent, 5 tool uses | 99,509 total agent tokens | no API spend |
