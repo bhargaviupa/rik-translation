@@ -10365,6 +10365,129 @@ This goddess Śrī whom I invoke has the nature of Brahman, beyond the reach of 
 
 The fourth Ṛk of this sūkta, कां सोस्मितां (*kāṃ sosmitāṃ*), is to be recited every day, one thousand each time, on Fridays three thousand each time, and on the full-moon day fifteen thousand
 
+### Printed p. 290
+
+each time, so that in all eight lakhs of recitations are made. On the days of recitation one must recite while living on milk alone, with the senses controlled. Eight thousand oblations are to be made in the fire, with the mantra, with the oblation-materials palāśa-sticks, milk and cow's ghee. Eighty thousand libations (tarpaṇa) are to be made. At the time of the recitation the nyāsa is to be made together with the seed-syllables śrī and vāk. One hundred and eight Brahmins are to be satisfied with worship and the like. If this is done, success in the mantra and abundance of wealth result; of this there is no doubt. The nyāsa is made together with the seed-syllables श्रीं ऐं (*śrīṃ aiṃ*), and meditation is made with the verse वरदाभयशुकपुस्तककरकलितां कमलमध्यगां कलये । कमलां सस्मित वदनां कनकावरणस्थितां कांचित् । (*varadābhayaśukapustakakarakalitāṃ kamalamadhyagāṃ kalaye | kamalāṃ sasmita vadanāṃ kanakāvaraṇasthitāṃ kāṃcit |*) That is: this goddess Śrī, in her four hands, bears in order the gestures called the boon-giving hand and the fearless hand, and a parrot and a book, and is seated in the middle of a lotus. "I meditate on this goddess Śrī, who shines with a bodily lustre of the colour of gold and is accompanied by a gentle smile": such is the main sense of this verse.
+
+#### Ṛk 5
+
+अस्य श्री श्रीसूक्तपंचमयङ्महामंत्रस्य । आनंद ऋषिः । सर्वैश्वर्यप्रदायिनी श्रीमहालक्ष्मीर्देवता । त्रिष्टुप् छंदः । चं बीजं । णं शक्तिः । श्रीं कीलकं । सर्वदारिद्र्यनाशिनी श्रीमहालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः । ओं ह्रां चंद्रां प्रभासां—अंग-ष्ठाभ्यां नमः। ओं ह्रीं यशसा ज्वलंतींशर्जनीभ्यां नमः । ओं हूं श्रियं लोके देवजुष्टामुदारां-मध्यमाभ्यांनमः । ओं हैं तां पद्मिनीमीं शरणमहं प्रपद्ये-अनामिकाभ्यां नमः । ओं ह्रौं अलक्ष्मीर्मे नश्यतां—कनिष्ठिकाभ्यां नमः । ओं ह्रः त्वां वृणे—करतलकरपृष्ठाभ्यां (*asya śrī śrīsūktapaṃcamayaṅmahāmaṃtrasya | ānaṃda ṛṣiḥ | sarvaiśvaryapradāyinī śrīmahālakṣmīrdevatā | triṣṭup chaṃdaḥ | caṃ bījaṃ | ṇaṃ śaktiḥ | śrīṃ kīlakaṃ | sarvadāridryanāśinī śrīmahālakṣmīprasādasiddhyarthe jape viniyogaḥ | oṃ hrāṃ caṃdrāṃ prabhāsāṃ—aṃga-ṣṭhābhyāṃ namaḥ| oṃ hrīṃ yaśasā jvalaṃtīṃśarjanībhyāṃ namaḥ | oṃ hūṃ śriyaṃ loke devajuṣṭāmudārāṃ-madhyamābhyāṃnamaḥ | oṃ haiṃ tāṃ padminīmīṃ śaraṇamahaṃ prapadye-anāmikābhyāṃ namaḥ | oṃ hrauṃ alakṣmīrme naśyatāṃ—kaniṣṭhikābhyāṃ namaḥ | oṃ hraḥ tvāṃ vṛṇe—karatalakarapṛṣṭhābhyāṃ*) ओं ह्रां चंद्रां प्रभासां—हृदयाय नमः । ओं ह्रीं यशसाज्वलंतीं—शिरसे स्वाहा । ओं हूं श्रियं लोके देवजुष्टामुदारां—शिखाय्कॆ वषट् । ओं हैं तां पद्मनीमीं शरणमहं प्रपद्ये-कवचाय हुं । ओं ह्रौं अलक्ष्मीर्मे नश्यतांनेत्रत्रयाय वौषट् । ओं ह्रः त्वां वृणे—अस्त्राय फट् । भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ तेजोमंडलमध्यगां द्विनयनां दिव्यांबरालंकृतां देवीं पद्मवराभयां करतलैश्चिंतामणिं बिभ्रतीं । नानादिव्यविभूषणां च भजतां दौर्भाग्यसंहारिणीं नानाभीष्टवरप्रदाननिरतां वंदे परां देवतां । (*oṃ hrāṃ caṃdrāṃ prabhāsāṃ—hṛdayāya namaḥ | oṃ hrīṃ yaśasājvalaṃtīṃ—śirase svāhā | oṃ hūṃ śriyaṃ loke devajuṣṭāmudārāṃ—śikhāykè vaṣaṭ | oṃ haiṃ tāṃ padmanīmīṃ śaraṇamahaṃ prapadye-kavacāya huṃ | oṃ hrauṃ alakṣmīrme naśyatāṃnetratrayāya vauṣaṭ | oṃ hraḥ tvāṃ vṛṇe—astrāya phaṭ | bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖ tejomaṃḍalamadhyagāṃ dvinayanāṃ divyāṃbarālaṃkṛtāṃ devīṃ padmavarābhayāṃ karatalaiściṃtāmaṇiṃ bibhratīṃ | nānādivyavibhūṣaṇāṃ ca bhajatāṃ daurbhāgyasaṃhāriṇīṃ nānābhīṣṭavarapradānaniratāṃ vaṃde parāṃ devatāṃ |*)
+
+### Printed p. 291
+
+चंद्रां प्रभासां यशसा ज्वलंतीं श्रियं लोके देवजुष्टामुदारां । तां पद्मनीमां शरणमहं प्रपद्ये अलक्ष्मीर्मे नश्यतां त्वां वृणे ॥ (*caṃdrāṃ prabhāsāṃ yaśasā jvalaṃtīṃ śriyaṃ loke devajuṣṭāmudārāṃ | tāṃ padmanīmāṃ śaraṇamahaṃ prapadye alakṣmīrme naśyatāṃ tvāṃ vṛṇe ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+आत्राहंशब्दप्रक्षेपः प्रामादिकः । चंद्रां चंद्रवत् प्रकाशमानां प्रभासां प्रकृष्टा भाः कांतियस्यास्त्यां । आपं चेत्याप् । यशसा कीर्त्या ज्वलंतीं प्रकाशमानां । देवजुष्टां देवैरिंद्राद्यैस्सेवितां प्रीतां वा । उदारां प्रगल्भां वा पद्मिनीं पद्मलतारूपां पद्माकारां वा । ईमितिनिपातः अनर्थकः— “मिताक्षरेष्वनर्थकः किमीमिद्विति” यास्कवचनात् । (*ātrāhaṃśabdaprakṣepaḥ prāmādikaḥ | caṃdrāṃ caṃdravat prakāśamānāṃ prabhāsāṃ prakṛṣṭā bhāḥ kāṃtiyasyāstyāṃ | āpaṃ cetyāp | yaśasā kīrtyā jvalaṃtīṃ prakāśamānāṃ | devajuṣṭāṃ devairiṃdrādyaissevitāṃ prītāṃ vā | udārāṃ pragalbhāṃ vā padminīṃ padmalatārūpāṃ padmākārāṃ vā | īmitinipātaḥ anarthakaḥ— “mitākṣareṣvanarthakaḥ kimīmidviti” yāskavacanāt |*) ईकारवाच्यां वा तां श्रियं लोके इहलोके शरणं रक्षित्रीं प्रपद्ये प्रपन्मोऽस्मि । अहमिति शेषः । अतः हे श्रीः मे मम अलक्ष्मीः आश्रीः नश्यतां नाशं प्राप्नोतु । त्वां वृणे शरणत्वेन कुर्वॆ ॥ (*īkāravācyāṃ vā tāṃ śriyaṃ loke ihaloke śaraṇaṃ rakṣitrīṃ prapadye prapanmo 'smi | ahamiti śeṣaḥ | ataḥ he śrīḥ me mama alakṣmīḥ āśrīḥ naśyatāṃ nāśaṃ prāpnotu | tvāṃ vṛṇe śaraṇatvena kurvè ‖*)
+
+##### Gist of the bhāṣya
+
+The insertion of the word अहं (*ahaṃ*) here is an error of the copyists. चंद्रां (*caṃdrāṃ*) is one shining like the moon; प्रभासां (*prabhāsāṃ*) is she who has excellent radiance (the feminine affix being by the rule आपं चेत्याप् (*āpaṃ cetyāp*)). यशसा ज्वलंतीं (*yaśasā jvalaṃtīṃ*) is one shining with fame; देवजुष्टां (*devajuṣṭāṃ*) is one served by gods such as Indra, or pleasing to them; उदारां (*udārāṃ*) is bold or generous; पद्मिनीं (*padminīṃ*) is of the form of a lotus-creeper or of a lotus. The particle ईं (*īṃ*) is without meaning, on the authority of Yāska's statement मिताक्षरेष्वनर्थकः किमीमिद्विति (*mitākṣareṣvanarthakaḥ kimīmidviti*); or else it denotes the syllable ī (Śrī). That Śrī, the protectress in this world, I take as my refuge. Therefore, O Śrī, may my misfortune be destroyed; I choose you as my refuge.
+
+**Bhāṣya of Pṛthvīdharācārya**
+
+चंद्रां संतोषकारिणीं प्रभासां प्रकर्षण भास्वतीं । लोके लोकेषु चतुर्दशसु । यशसा ज्वलंतीमैश्वर्यसंपदौदार्यादिप्रयुक्तकीर्त्या प्रकाशमानां । आत एव देवजुष्टामिंद्रादिसेवितां । उदारां विस्तारां सर्वव्यापिनीमित्यर्थः । पद्मिनीं करधृतकमलामिति यावत् । ईं ईकारवाच्यां तादृशीं श्रियमहं शरणं प्रपद्ये रक्षकी भवेति व्रजामि । मे मम अलक्ष्मीर्या सा नश्यतां नाशं प्राप्नोतु । त्वां लक्ष्मीमहं वृणे मदाश्रितज्येष्ठानिस्सारणाय त्वां प्रति वरणं करिष्ये । (*caṃdrāṃ saṃtoṣakāriṇīṃ prabhāsāṃ prakarṣaṇa bhāsvatīṃ | loke lokeṣu caturdaśasu | yaśasā jvalaṃtīmaiśvaryasaṃpadaudāryādiprayuktakīrtyā prakāśamānāṃ | āta eva devajuṣṭāmiṃdrādisevitāṃ | udārāṃ vistārāṃ sarvavyāpinīmityarthaḥ | padminīṃ karadhṛtakamalāmiti yāvat | īṃ īkāravācyāṃ tādṛśīṃ śriyamahaṃ śaraṇaṃ prapadye rakṣakī bhaveti vrajāmi | me mama alakṣmīryā sā naśyatāṃ nāśaṃ prāpnotu | tvāṃ lakṣmīmahaṃ vṛṇe madāśritajyeṣṭhānissāraṇāya tvāṃ prati varaṇaṃ kariṣye |*) नात्राहंशब्दः प्रक्षिप्तः—“सार्वदेशिकशिष्टपाठसंप्रतिपत्ते” रित्यात्तरीयाः । दाक्षिणात्यपाठे तददर्शनात्पृक्षिप्त एव ॥ (*nātrāhaṃśabdaḥ prakṣiptaḥ—“sārvadeśikaśiṣṭapāṭhasaṃpratipatte” rityāttarīyāḥ | dākṣiṇātyapāṭhe tadadarśanātpṛkṣipta eva ‖*)
+
+##### Gist of the bhāṣya
+
+चंद्रां (*caṃdrāṃ*) is she who gives delight; प्रभासां (*prabhāsāṃ*) is greatly shining; लोके (*loke*) means in the fourteen worlds; यशसा ज्वलंतीं (*yaśasā jvalaṃtīṃ*) is one shining with fame arising from lordship, wealth, generosity and the like; therefore देवजुष्टां (*devajuṣṭāṃ*) is served by Indra and the others; उदारां (*udārāṃ*) is extended, all-pervading; पद्मिनीं (*padminīṃ*) is one holding a lotus in her hand; ईं (*īṃ*) denotes the syllable ī, so such a Śrī I approach as refuge, that she may become my protector. May whatever misfortune is mine be destroyed; I choose you, Lakṣmī, in order to drive out the misfortune that clings to me. Some say the word अहं (*ahaṃ*) has not been inserted here, on the authority of the agreement of the texts of all regions; since it is not seen in the southern reading it was interpolated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चंद्रां (*caṃdrāṃ*)—she who has a lustre like the moon
+- प्रभासां (*prabhāsāṃ*)—she who shines with excellent bodily lustre
+- यशसा (*yaśasā*)—by fame, that is, by the fame arising from qualities such as lordship, wealth and generosity
+- ज्वलंती (*jvalaṃtī*)—she who is famed or shining
+- देवजुष्टां (*devajuṣṭāṃ*)—she who is served by gods such as Indra
+
+### Printed p. 292
+
+- उदारां (*udārāṃ*)—she who gives boons and the like abundantly to devotees, or who is widely extended, pervading everywhere
+- पद्मिनीं (*padminīṃ*)—she who bears lotuses in her hands, or who has a body swaying like a lotus-creeper, or who has a bodily form as delightful to the eye as a lotus
+- तां ईं श्रियं (*tāṃ īṃ śriyaṃ*)—that same famed goddess Śrī
+- अहं (*ahaṃ*)—I
+- शरणं प्रपद्ये (*śaraṇaṃ prapadye*)—I take refuge, that is, I resort to her for protection (by the grace of this goddess)
+- मे (*me*)—my
+- अलक्ष्मीः (*alakṣmīḥ*)—misfortune, poverty and the like
+- नश्यतां (*naśyatāṃ*)—may they be destroyed (O goddess, I)
+- त्वां (*tvāṃ*)—you
+- वृणे (*vṛṇe*)—I pray and call, for my protection
+
+##### विशेषविषयगळु (Special Topics)
+
+**Bhāgadheya-bhūṣaṇa**
+
+श्रीसूक्ते प्रथमे वर्गे प्रजपेत्संचमीमृचं । मायाबीजेन विन्यस्य भक्तितो भुवनेश्वरीं ॥ अक्षीणभासां चंद्राख्यां ज्वलंतीं यशसा श्रियं । देवैर्जुष्टामुदारां च पद्मिनीमां भजाम्यहं ॥ त्वां वृणे त्वत्पसादेन ममालक्ष्मीर्विनश्यतु । (*śrīsūkte prathame varge prajapetsaṃcamīmṛcaṃ | māyābījena vinyasya bhaktito bhuvaneśvarīṃ ‖ akṣīṇabhāsāṃ caṃdrākhyāṃ jvalaṃtīṃ yaśasā śriyaṃ | devairjuṣṭāmudārāṃ ca padminīmāṃ bhajāmyahaṃ ‖ tvāṃ vṛṇe tvatpasādena mamālakṣmīrvinaśyatu |*)
+
+प्रत्यहं त्वेकसाहस्रं गोष्ठस्थः प्रजपेद्यचं ॥ अखंडदीपं प्रज्वाल्य गोघृतेन जितेंद्रियः । प्रत्यक्षरत्रिसाहस्रजपान्मुच्यत संकटैः ॥ मंडलैश्च त्रिभिः पूर्णैर्द्रारिद्रान्मुच्यते ध्रुवं । (*pratyahaṃ tvekasāhasraṃ goṣṭhasthaḥ prajapedyacaṃ ‖ akhaṃḍadīpaṃ prajvālya goghṛtena jiteṃdriyaḥ | pratyakṣaratrisāhasrajapānmucyata saṃkaṭaiḥ ‖ maṃḍalaiśca tribhiḥ pūrṇairdrāridrānmucyate dhruvaṃ |*)
+
+दीक्षितश्च तिलैर्हुत्वा विरजामंगदेवतां ॥ आमिक्षाशी धनं प्राप्य भूमिस्थं राजवंदितः । संग्रामे विजयं प्राप्य चांद्रीं गतिमनाप्नुयात् ॥ अहस्सु प्रजपेत्सौरीं दक्षिणोत्तरमार्गगां । तिलैः श्वेतैस्सहाज्येन जुहुयात्पावके स्वके ॥ जपाद्दशांशं संतर्प्य गंधकर्पूरवारिभिः । होमं कृत्वा दशांशं च पूजयेच्च सुवासिनीः ॥ कमलैरर्चयेद्देवीं गोभ्यो घासं प्रदापयेत् । एतत्पुण्यप्रभावेण दरिद्रोऽपि धनी भवेत् ॥ (*dīkṣitaśca tilairhutvā virajāmaṃgadevatāṃ ‖ āmikṣāśī dhanaṃ prāpya bhūmisthaṃ rājavaṃditaḥ | saṃgrāme vijayaṃ prāpya cāṃdrīṃ gatimanāpnuyāt ‖ ahassu prajapetsaurīṃ dakṣiṇottaramārgagāṃ | tilaiḥ śvetaissahājyena juhuyātpāvake svake ‖ japāddaśāṃśaṃ saṃtarpya gaṃdhakarpūravāribhiḥ | homaṃ kṛtvā daśāṃśaṃ ca pūjayecca suvāsinīḥ ‖ kamalairarcayeddevīṃ gobhyo ghāsaṃ pradāpayet | etatpuṇyaprabhāveṇa daridro 'pi dhanī bhavet ‖*)
+
+ह्रीमित्यादि षडंगन्यासः । ध्यानं— आकाशपद्माकरचंद्रबिंबप्लवोल्लसंतीं परिपूर्णकांतिं । पद्मस्थितां पद्मकरां प्रपद्ये लक्ष्मीलक्ष्मीविनिवृत्तयेऽहं ॥ (*hrīmityādi ṣaḍaṃganyāsaḥ | dhyānaṃ— ākāśapadmākaracaṃdrabiṃbaplavollasaṃtīṃ paripūrṇakāṃtiṃ | padmasthitāṃ padmakarāṃ prapadye lakṣmīlakṣmīvinivṛttaye 'haṃ ‖*)
+
+### Printed p. 293
+
+##### Anuvāda
+
+This fifth Ṛk of the Śrī-sūkta is to be recited with the nyāsa made together with the māyā-bīja (hrīṃ), meditating with devotion on the goddess Śrī. That goddess shines always with an unfailing radiance. Like the moon, she is distinguished by a cool lustre and is delightful. Toward her devotees she is famed for the glory of generosity and the like, granting boons such as favour, the fulfilment of wishes and the removal of poverty and ill fortune. She is served by all the gods, Indra and the others. Seated on a lotus seat and holding lotuses in her hands, this goddess Śrī shines; "I worship her always, and I pray and call that goddess for the destruction of my misfortune and poverty and for her grace": so one should pray. Sitting in the cow-pen where cows are tied, or in some other pure place, with undistracted mind, one should recite every day one thousand each time. During the recitation one should put cow's ghee in lamps and keep them lit so that they do not go out. If three thousand are recited for each syllable of this Ṛk, one is freed from all troubles. If this Ṛk is recited without a break for three maṇḍalas (a maṇḍala being forty-eight days), poverty is surely removed. Having taken the dīkṣā, that is, having purified oneself and made the resolve, if one makes oblations in the fire with sesame, with this mantra, together with the goddess Virajā, the subordinate deity, one finds the hidden treasure laid in the earth; one is honoured by kings, is victorious in battle, and at the end attains the world of the moon. In the daytime one should recite meditating on the sun, who travels the southern and northern paths, and make oblations in the fire with white sesame and with clarified butter. A libation is to be made with water mixed with sandal and camphor, to the tenth part of the number of recitations. Then oblations are to be made to the tenth part of the number of libations, and married women (suvāsinī) are to be honoured. The goddess Śrī is to be worshipped with lotus flowers, and fodder such as grass is to be given to cows. By doing so, that is, by the power of the merit of this recitation and these oblations, however poor one may be, one becomes rich. At the time of the nyāsa of the mantra one makes the nyāsa together with the seed-syllable hrīṃ and meditates as in the verse given below.—माडबेकु.—आकाशपद्माकरचंद्रबिंबप्लवोल्लसंतीं परिपूर्णकांतिं । पद्मस्थितां पद्मकरां प्रपद्ये लक्ष्मीमलक्ष्मीविनिवृत्तयेऽहं ॥ (*māḍabeku.—ākāśapadmākaracaṃdrabiṃbaplavollasaṃtīṃ paripūrṇakāṃtiṃ | padmasthitāṃ padmakarāṃ prapadye lakṣmīmalakṣmīvinivṛttaye 'haṃ ‖*)
+
+Here ends the explanation of the fifth Ṛk.
+
+### Printed p. 294
+
+#### Ṛk 6
+
+अस्य श्रीश्रीसूक्तस्य आदित्यवर्णेति षष्ठयज्ञहामंत्रस्य । आनंद ऋषिः । श्रीमहालक्ष्मीर्देवता । त्रिष्टुप्‌छंदः । आं बीजं । श्रीं शक्तिः । ह्रीं कीलकं । सर्वार्थसिद्धये महालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ओं आदित्यवर्णे तपसोऽधिजातः—अंगुष्ठाभ्यां नमः । ओं वनस्पतिस्तव— तर्जनीभ्यां नमः । ओं वृक्षोऽथ बिल्वः—मध्यमाभ्यां नमः । ओं तस्य फलानि तपसा नुदंतु—अनामिकाभ्यां नमः । ओं मायांतरायाश्च—कनिष्ठिकाभ्यां नमः । ओं बाह्या अलक्ष्मीः—करतलकरपृष्ठाभ्यां नमः ॥ ओं आदित्यवर्णे तपसोऽधिजातः— हृदयाय नमः । ओं वनस्पतिस्तव—शिरसे स्वाहा । ओं वृक्षोऽथ बिल्वः—शिखाय्कॆ वषट् । ओं तस्य फलानि तपसा नुदंतु—कवचाय हुं । ओं मायांतरायाश्च— नेत्रत्रयाय नौषट् । ओं बाह्या अलक्ष्मीः—आस्त्राय फट् ॥ भूर्भुवस्सुवरोमिति दिग्बंधः ॥ (*asya śrīśrīsūktasya ādityavarṇeti ṣaṣṭhayajñahāmaṃtrasya | ānaṃda ṛṣiḥ | śrīmahālakṣmīrdevatā | triṣṭupchaṃdaḥ | āṃ bījaṃ | śrīṃ śaktiḥ | hrīṃ kīlakaṃ | sarvārthasiddhaye mahālakṣmīprasādasiddhyarthe jape viniyogaḥ oṃ ādityavarṇe tapaso 'dhijātaḥ—aṃguṣṭhābhyāṃ namaḥ | oṃ vanaspatistava— tarjanībhyāṃ namaḥ | oṃ vṛkṣo 'tha bilvaḥ—madhyamābhyāṃ namaḥ | oṃ tasya phalāni tapasā nudaṃtu—anāmikābhyāṃ namaḥ | oṃ māyāṃtarāyāśca—kaniṣṭhikābhyāṃ namaḥ | oṃ bāhyā alakṣmīḥ—karatalakarapṛṣṭhābhyāṃ namaḥ ‖ oṃ ādityavarṇe tapaso 'dhijātaḥ— hṛdayāya namaḥ | oṃ vanaspatistava—śirase svāhā | oṃ vṛkṣo 'tha bilvaḥ—śikhāykè vaṣaṭ | oṃ tasya phalāni tapasā nudaṃtu—kavacāya huṃ | oṃ māyāṃtarāyāśca— netratrayāya nauṣaṭ | oṃ bāhyā alakṣmīḥ—āstrāya phaṭ ‖ bhūrbhuvassuvaromiti digbaṃdhaḥ ‖*) अथ ध्यानं ॥ श्रीमन्मंटपमध्यचक्रविलसत्तार्क्ष्यां ससंस्थस्य मे देवीं दक्षिणवक्षसि प्रणयिनीं पद्मौवरौ बिभ्रतीं। कोटीरांगदहारनूपुरलसत्ताटंकनासामणिं कस्तूरीतिलकांचितां शशिमुखीं वंदे परां देवतां ॥ उद्यदादित्यसंकाशां बिल्वकाननमध्यगां । तनुमध्यां श्रियं ध्यायेदलक्ष्मीपरिहारिणीं ॥ इति ध्यात्वा जपं कुर्यात् ॥ (*atha dhyānaṃ ‖ śrīmanmaṃṭapamadhyacakravilasattārkṣyāṃ sasaṃsthasya me devīṃ dakṣiṇavakṣasi praṇayinīṃ padmauvarau bibhratīṃ| koṭīrāṃgadahāranūpuralasattāṭaṃkanāsāmaṇiṃ kastūrītilakāṃcitāṃ śaśimukhīṃ vaṃde parāṃ devatāṃ ‖ udyadādityasaṃkāśāṃ bilvakānanamadhyagāṃ | tanumadhyāṃ śriyaṃ dhyāyedalakṣmīparihāriṇīṃ ‖ iti dhyātvā japaṃ kuryāt ‖*)
+
+आदित्यवर्णे तपसोऽधिजातो वनस्पतिस्तव वृक्षोऽथ बिल्वः । तस्य फलानि तपसानुदंतु मायांतरायाश्च बाह्या अलक्ष्मीः॥ (*ādityavarṇe tapaso 'dhijāto vanaspatistava vṛkṣo 'tha bilvaḥ | tasya phalāni tapasānudaṃtu māyāṃtarāyāśca bāhyā alakṣmīḥ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+वृक्षोधेत्यथपदमपि बाहुलकात् । आदित्यवर्णे आदित्यस्य सूर्यस्य वर्ण इव वर्णो यस्यास्तस्यास्संबोधनं । हे श्रीः तव तपसः नियमाद्भेतोः वनस्पतिः “अपुष्पाः फलवंतो ये ते वनस्पतयः स्मृताः ” इति मानवात्! बिल्वः बिल्वनामकः वृक्षः द्रुमः अधिजातः प्रादुर्भूतः त्वक्करादिति शेषः । “बिल्वो लक्ष्माः करेऽभवदिति” नामनपुराणे कात्यायनवचनात् । (*vṛkṣodhetyathapadamapi bāhulakāt | ādityavarṇe ādityasya sūryasya varṇa iva varṇo yasyāstasyāssaṃbodhanaṃ | he śrīḥ tava tapasaḥ niyamādbhetoḥ vanaspatiḥ “apuṣpāḥ phalavaṃto ye te vanaspatayaḥ smṛtāḥ ” iti mānavāt! bilvaḥ bilvanāmakaḥ vṛkṣaḥ drumaḥ adhijātaḥ prādurbhūtaḥ tvakkarāditi śeṣaḥ | “bilvo lakṣmāḥ kare 'bhavaditi” nāmanapurāṇe kātyāyanavacanāt |*) अथ अनंतरं तस्य बिल्वस्य फलानि पक्वशलाटुकानि तपसा त्वदनुग्रहेणेत्यर्थः । अंतरा अंतरिंद्रियसंबंधिनीः माया अज्ञानं तत्कार्याणि च । बाह्याः बहिरिंद्रियसंबंधिन्यः यास्ताः अलक्ष्मः आश्रियः नुदन्नु आपनुवस्तु निवारयंत्वित्यर्थः ॥ (*atha anaṃtaraṃ tasya bilvasya phalāni pakvaśalāṭukāni tapasā tvadanugraheṇetyarthaḥ | aṃtarā aṃtariṃdriyasaṃbaṃdhinīḥ māyā ajñānaṃ tatkāryāṇi ca | bāhyāḥ bahiriṃdriyasaṃbaṃdhinyaḥ yāstāḥ alakṣmaḥ āśriyaḥ nudannu āpanuvastu nivārayaṃtvityarthaḥ ‖*)
+
+##### Gist of the bhāṣya
+
+The word वृक्षः (*vṛkṣaḥ*) with अथ (*atha*) is also so read, by the Vedic latitude. आदित्यवर्णे (*ādityavarṇe*) is the vocative of her whose colour is like the colour of the sun. O Śrī, by reason of your austerity (niyama) the वनस्पतिः (*vanaspatiḥ*) (as the Mānava text defines, trees that bear fruit without flowers are called vanaspati), the tree named bilva, arose from your hand, as is said in the Nāmana-purāṇa by Kātyāyana: "the bilva arose from Lakṣmī's hand." Then the ripe fruits of that bilva, by your grace, अंतरा (*aṃtarā*) the māyā (ignorance and its effects) connected with the inner senses, and the बाह्याः (*bāhyāḥ*) misfortunes connected with the outer senses, may they drive away and remove.
+
+### Printed p. 295
+
+**Bhāṣya of Pṛthvīdharācārya**
+
+अथेत्यनंतरार्थः । हे आदित्यवर्णे सूर्यसमानकांते तपसः तपश्चर्यार्थं वनस्पतिः यो बिल्ववृक्षः तव निवासयोग्यः अधिजातः उत्पन्नः “ बिल्वाटव्यां महालक्ष्मीरूपास्ते बिल्वनायकमिति ” भार्गवपुराणात् । तस्य त्वत्करजातस्य बिल्ववृक्षस्य “ तनुमध्या स्वहस्तात्थं बिल्वद्रुं समुपाश्रितेति ” भार्गवतंत्रोक्तेश्व । प्रसूनादीनि फलानि मा मां प्रति अंतराः अंतर्गताः अलक्ष्मीः या बाह्याश्च अलक्ष्मीः ताः तव तव तपसा करणेन मदाश्रितान्तरगतबाह्यालक्ष्मीरूपदुर्गतीस्सर्वान् नुदंतित्याशयः ॥ (*athetyanaṃtarārthaḥ | he ādityavarṇe sūryasamānakāṃte tapasaḥ tapaścaryārthaṃ vanaspatiḥ yo bilvavṛkṣaḥ tava nivāsayogyaḥ adhijātaḥ utpannaḥ “ bilvāṭavyāṃ mahālakṣmīrūpāste bilvanāyakamiti ” bhārgavapurāṇāt | tasya tvatkarajātasya bilvavṛkṣasya “ tanumadhyā svahastātthaṃ bilvadruṃ samupāśriteti ” bhārgavataṃtrokteśva | prasūnādīni phalāni mā māṃ prati aṃtarāḥ aṃtargatāḥ alakṣmīḥ yā bāhyāśca alakṣmīḥ tāḥ tava tava tapasā karaṇena madāśritāntaragatabāhyālakṣmīrūpadurgatīssarvān nudaṃtityāśayaḥ ‖*)
+
+##### Gist of the bhāṣya
+
+अथ (*atha*) has the sense "afterwards." O sun-coloured one, for the sake of your austerity the bilva tree arose, suited to your dwelling, as is said in the Bhārgava-purāṇa and in the Bhārgava-tantra. May the fruits of that tree, born of your hand, by your austerity remove all the misfortunes, inner and outer, that cling to me, the evil states in the form of misfortune: such is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यवर्णे (*ādityavarṇe*)—O goddess Śrī, whose bodily lustre shines brilliantly like the radiance of the sun
+- तव (*tava*)—your
+- तपसा (तपसः) (*tapasā (tapasaḥ)*)—by restraint, or by grace
+- वनस्पतिः (*vanaspatiḥ*)—the tree that bears fruit without flowers
+- बिल्वः वृक्षः (*bilvaḥ vṛkṣaḥ*)—the tree called bilva
+- अधिजातः (*adhijātaḥ*)—arose
+- अथ (*atha*)—afterwards
+- तस्य (*tasya*)—of that bilva tree
+- फलानि (*phalāni*)—the fruits
+- तपसा (*tapasā*)—by your grace
+- याः (*yāḥ*)—which
+- अंतरा (*aṃtarā*)—connected with the inner senses
+- माया (*māyā*)—ignorance and its evil results
+- बाह्याः च (*bāhyāḥ ca*)—and connected with the outer senses
+- आलक्ष्मीः (*ālakṣmīḥ*)—sorrow, poverty, misfortune and the like
+- याः (ताः) (*yāḥ (tāḥ)*)—whichever there are, those
+- नुदंतु (*nudaṃtu*)—may they destroy (may they remove)
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Śrī, whose body shines with great radiance like the radiance of the sun, by your command (grace) the tree called bilva, which bears fruit only, without letting flowers appear, came into being. Then may the fruits of that bilva tree remove the ignorance lodged in the inner senses of human beings and the sorrow and poverty connected with the outer senses.
+
+**Sārasvatasiddhā**
+
+आदित्यवर्णे तरुणार्कवदरुणवर्णे । " अरुणां करुणातरंगिताक्षीमिति " बालारूपमत्र सूचितं भवति । वनस्पतिबिल्वो वृक्षः तव तपसोऽधिजातः । नीवातटीनीतटी बिल्वारण्यं त्वत्तपसो जातमिति भावः । (*ādityavarṇe taruṇārkavadaruṇavarṇe | " aruṇāṃ karuṇātaraṃgitākṣīmiti " bālārūpamatra sūcitaṃ bhavati | vanaspatibilvo vṛkṣaḥ tava tapaso 'dhijātaḥ | nīvātaṭīnītaṭī bilvāraṇyaṃ tvattapaso jātamiti bhāvaḥ |*) तनुमध्या पुरा बाला नीवातटमुपाश्रिता । बिल्वारण्ये तपश्चक्रे लक्ष्मीर्लोकहितार्थिनी ॥ (*tanumadhyā purā bālā nīvātaṭamupāśritā | bilvāraṇye tapaścakre lakṣmīrlokahitārthinī ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 289. Śrī-sūkta appendix: Ṛk 2 end, Ṛk 3, Ṛk 4 to the start of the Anuvāda
+**Progress note:** Done through printed p. 295. Śrī-sūkta appendix: Ṛk 4 end, Ṛk 5, Ṛk 6
