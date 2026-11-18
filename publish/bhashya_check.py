@@ -10,7 +10,9 @@ TASK.md is built by `publish/bhashya_book.py VOL --task M.S`. Checks:
   - every ⟦…⟧ occurs letter for letter (spaces, line breaks and accent marks apart) in that unit's Devanagari;
   - no Devanagari outside ⟦ ⟧; no stray ⟦ or ⟧;
   - every numbered reference (2-3-4, 5.10) stands with the same numbers in that unit's block;
-  - no Sanskrit gloss typed in Roman letters inside brackets, e.g. (ramate, krīḍati): it must be copied with ⟦ ⟧.
+  - no Sanskrit gloss typed in Roman letters inside brackets, e.g. (ramate, krīḍati): it must be copied with ⟦ ⟧;
+  - an optional last section `## Readings` (misread words of the supplied text and the reading translated), one
+    line each: `- Ṛk N: ⟦supplied⟧ → reading adopted — basis`.
 Prints the size of each unit (bhāṣya words → English words) and VERIFIED, or the faults and exit 1.
 What it cannot check: whether the English is right. Only a reader can.
 """
@@ -71,6 +73,17 @@ def main():
     faults = []
     if parts[0].strip(): faults.append('text before the first heading')
     got = [(parts[i].strip(), parts[i + 1]) for i in range(1, len(parts), 2)]
+    readings = got.pop()[1] if got and got[-1][0] == 'Readings' else ''
+    alldeva = ''.join(u['deva'] for u in units.values())
+    nread = 0
+    for ln in readings.splitlines():
+        if not ln.strip(): continue
+        nread += 1
+        if not re.match(r'^- (Introduction|Ṛk \d+): ⟦[^⟧]+⟧ → .+ — .+', ln):
+            faults.append(f'Readings: line not in the form "- Ṛk N: ⟦supplied⟧ → reading adopted — basis": {ln[:70]}')
+        for q in re.findall(r'⟦(.*?)⟧', ln):
+            if SQUEEZE.sub('', q) not in alldeva: faults.append(f'Readings: ⟦{q[:50]}⟧ is not in this sūkta letter for letter')
+        if DEVA.search(re.sub(r'⟦.*?⟧', '', ln)): faults.append(f'Readings: Devanagari outside ⟦ ⟧: {ln[:70]}')
     if [h for h, _ in got] != list(units):
         faults.append(f'headings are {[h for h, _ in got]}; expected {list(units)}')
     if re.search(r'^#(?!# )', text, flags=re.M): faults.append('a heading that is not `## …`')
@@ -97,7 +110,7 @@ def main():
         rows.append((h, u['bh_words'], len(plain.split()), len(quotes), body.count('**NOTE**')))
     for h, b, e, q, n in rows: print(f'  {h}: bhāṣya {b} words → English {e} words; {q} quotations; {n} NOTE')
     tb, te = sum(r[1] for r in rows), sum(r[2] for r in rows)
-    print(f'  total: bhāṣya {tb} words → English {te} words; {sum(r[3] for r in rows)} quotations; {sum(r[4] for r in rows)} NOTE')
+    print(f'  total: bhāṣya {tb} words → English {te} words; {sum(r[3] for r in rows)} quotations; {sum(r[4] for r in rows)} NOTE; {nread} readings logged')
     if faults:
         print('FAULTS:'); [print('  - ' + f) for f in faults]; return 1
     print('VERIFIED (form only: headings, quotations and references copied from the unit, no typed Sanskrit in brackets)')

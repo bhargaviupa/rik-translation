@@ -1,14 +1,14 @@
 # Brief: English of the Sāyaṇa-bhāṣya (for the bhāṣya reader)
 
-You render Sāyaṇa's Sanskrit commentary on the Ṛgveda into English, one sūkta at a time. Your reader knows English, not Sanskrit, and wants to follow everything Sāyaṇa says.
+You render Sāyaṇa's Sanskrit commentary on the Ṛgveda into English, one sūkta at a time. Your reader knows English, not Sanskrit, and wants to follow everything Sāyaṇa says. The English must be right the first time: it will be printed, and no script can check its meaning.
 
 ## The steps (VOL and M.S are in your task, e.g. 17 and 3.40)
 1. `python3 publish/bhashya_book.py VOL --task M.S` prints the task file and the file you are to write.
-2. Read the task file. For the sūkta's introduction and for each Ṛk it holds, in Devanagari, the Saṃhitā-pāṭha, the Pada-pāṭha and the Sāyaṇa-bhāṣya block (lines starting `>`). That is all you have, and all you may use.
-3. Write the English file named in step 1.
-4. `python3 publish/bhashya_check.py VOL M.S` until its last line begins with `VERIFIED`.
-5. Commit and push **only your English file**: `git add <file> && git commit -m "Bhāṣya English: Vol VOL, M.S" && git push` (on a network error wait and push again, up to 4 times; never force). Read no other file of the repository and change none.
-6. Report in three lines: the file, the check's last line, the commit as `git log --oneline -1` shows it.
+2. Read the task file. For the sūkta's introduction and for each Ṛk it holds, in Devanagari, the Saṃhitā-pāṭha, the Pada-pāṭha and the Sāyaṇa-bhāṣya block (lines starting `>`).
+3. Write the English file named in step 1 (a long sūkta may be written in parts: first Ṛks, then add the rest).
+4. Read each unit of your English once more against its block: every clause of the Sanskrit accounted for, nothing added.
+5. `python3 publish/bhashya_check.py VOL M.S` until its last line begins with `VERIFIED`.
+6. Report in three lines: the file, the check's last line, and how many web searches you made. **Do not commit or push**; read no other file of the repository and change none.
 
 ## The file you write
 Exactly these headings, in the order of the task file:
@@ -22,17 +22,29 @@ Exactly these headings, in the order of the task file:
 
 ## Ṛk 2
 …
+
+## Readings
+- Ṛk 5: ⟦दधिष्क⟧ → ⟦दधिष्व⟧ — the Pada-pāṭha of this Ṛk
+- Ṛk 9: ⟦नरावतम⟧ → parāvatam — the Ṛk has ⟦परावतं⟧
 ```
 
-Under a heading, plain paragraphs only. No other headings, no lists, no tables.
+Under a unit heading, plain paragraphs only: no other headings, no lists, no tables. `## Readings` is the last section and is left out if you have nothing to log (see rule 3).
 
 ## Rules
-1. **Everything, in Sāyaṇa's order.** The gloss of each word, the alternative explanations (`यद्वा`), the ritual use, every quotation, and the **grammatical part at the end** (derivations, suffixes, substitutions, accent). The grammar is translated too: say which word is being derived, from which root in which sense, by which suffix or rule, and what accent results. Do not summarise it as "the rest is grammar".
-2. **Nothing added.** Only what the block says. No fact from memory or from another edition: no sūtra numbers, no chapter-and-verse where the block gives none, no opinions of other commentators, no remarks of your own. **A word Sāyaṇa does not gloss is not glossed by you**: cite it and go on (if the block says `इरां दृणाति` without saying what `इरा` is, you do not say it either). A reference the block gives is kept with the block's numbers; the check rejects any numbered reference that is not in the unit.
-3. **The supplied text is the base.** Never correct a letter or a number. The Sanskrit you are given was read by machine and has misread letters. Wherever a word in the block is damaged, differs from the same word in the Ṛk or the Pada-pāṭha, or cannot be construed, translate what can be translated and put `**NOTE**{your question in one sentence}` right there. This holds also when you are sure what was meant: say it in the NOTE, not silently in the translation. One NOTE for each such place.
-4. **Sanskrit is copied, never typed.** To cite a Sanskrit word or passage, copy it from this unit's blocks between `⟦` and `⟧`, letter for letter: `⟦इंद्र⟧`. A script adds the transliteration and checks that every `⟦ ⟧` occurs in the unit. Outside `⟦ ⟧` there must be no Devanagari at all.
-5. **No Sanskrit in Roman letters inside brackets.** Do not write glosses such as `(ramate, krīḍati)` or `(sākṣāt)`: either cite the word with `⟦ ⟧` or give only the English. The check rejects them. Proper names (Sāyaṇa, Yāska, Viśvāmitra) and the standing technical terms of ritual and grammar (Soma, hotṛ, śastra, udātta, guṇa, laṭ, kvip) may stand in running English in Roman letters, without brackets: "the present tense, laṭ". Spell them with care; nothing checks them.
-6. Plain, exact English. Full sentences. A quotation from another text is first cited (`⟦ ⟧`), then translated. Words like `ṣāṣṭika` ("taught in the sixth book") are translated by their sense, not letter by letter.
+1. **Everything, in Sāyaṇa's order.** The gloss of each word, the alternative explanations (`यद्वा`), the ritual use, every quotation, the closing `इति भावः` remarks, and the **grammatical part at the end** (derivations, suffixes, substitutions, accent). The grammar is translated too: say which word is being derived, from which root in which sense, by which suffix or rule, and what accent results. Do not summarise it as "the rest is grammar".
+2. **Nothing added, nothing shifted.** Only what the block says. No fact from memory or from another edition: no sūtra numbers, no chapter-and-verse where the block gives none, no opinions of other commentators, no remarks of your own.
+   - A word Sāyaṇa does not gloss is not glossed by you: cite it and go on (if the block says `इरां दृणाति` without saying what `इरा` is, you do not say it, and you do not replace it by another word).
+   - Give Sāyaṇa's gloss, not the dictionary's: where he glosses `मधोः` by `मदकरस्य`, write "intoxicating", not "honey"; where he says `यशोऽन्नं`, yaśas is "food", not "glory".
+   - Keep each word with what Sāyaṇa attaches it to: an accusative epithet of the Soma is not turned into a vocative of Indra. Keep the voice and the causative (`दर्शयति` is "shows", not "sees"), the particles (`एव` "alone/only", `यतः` "since") and the possessives (`नः … अस्मदीयं` is "our", not "for us").
+3. **The supplied text is the base; it is never altered, and nothing is settled silently.** The Sanskrit you are given was read by machine and has misread letters. For a damaged or doubtful word:
+   - **If the intended word is certain** — it stands in the Ṛk or the Pada-pāṭha of the unit, or the grammar and context of the block leave no other possibility, or you have found the passage in a text of Sāyaṇa on the web (rule 7) — translate the intended word and log it in `## Readings`: `- Ṛk N: ⟦the letters as supplied⟧ → the reading you translated — the basis`. The reading is put in `⟦ ⟧` if it stands in the unit; otherwise in Roman letters. No mark in the text.
+   - **If it is not certain**, translate what can be translated and put `**NOTE**{your question in one sentence}` at that place. A NOTE is for a doubt that remains, not for every misprint.
+   - A difference between the Saṃhitā and the Pada-pāṭha that does not touch the bhāṣya is not your concern: no reading, no NOTE.
+4. **Sanskrit is copied, never typed.** To cite a Sanskrit word or passage, copy it from this unit's blocks between `⟦` and `⟧`, letter for letter as supplied (misread letters included): `⟦इंद्र⟧`. A script adds the transliteration and checks that every `⟦ ⟧` occurs in the unit. Outside `⟦ ⟧` there must be no Devanagari at all. Cite the word being explained and each quotation; do not wrap whole sentences of Sāyaṇa's own prose in `⟦ ⟧` in place of translating them.
+5. **References are copied too.** A reference in the block (`आ. ५-१०`, `नि. ६-१४`, `पा. २-३-४`) is copied with `⟦ ⟧` exactly as it stands, abbreviation and numbers, where Sāyaṇa has it: `(⟦आ. ५-१०⟧)`. Do not write an English abbreviation for it; a script will put the series' uniform abbreviation there.
+6. **No Sanskrit in Roman letters inside brackets.** Not `(ramate, krīḍati)`: either cite the word with `⟦ ⟧` or give only the English. Proper names (Sāyaṇa, Yāska, Viśvāmitra) and the standing technical terms of ritual and grammar (Soma, hotṛ, śastra, udātta, guṇa, laṭ, kvip) may stand in running English in Roman letters, without brackets. Spell them with care (`kṣi`, not `ki`); nothing checks them.
+7. **The web, for readings only.** When a damaged passage cannot be settled from the unit, you may search the web for Sāyaṇa's commentary on that Ṛk (or for the quoted sūtra or text) to find what the supplied text was meant to say. Use it only to identify the reading of a passage that is in your block; never to add anything the block lacks, and never to copy someone's translation. Name the site in the basis of the `## Readings` line. At most about five searches for a sūkta; what is still open becomes a NOTE.
+8. Plain, exact English. Full sentences. A quotation from another text is first cited (`⟦ ⟧`), then translated. Terms like `षाष्टिक` are rendered by their sense ("taught in the sixth book").
 
 ## What the check cannot see
-Whether your English is right. It checks only the form: headings, copied Sanskrit, references, brackets. Read each unit once more against the block before you run it.
+Whether your English is right. It checks only the form: headings, copied Sanskrit, references, brackets, the Readings lines. Step 4 is yours.

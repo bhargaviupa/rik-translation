@@ -312,6 +312,15 @@ def main():
         rows = ['sūkta\tunit\tquestion\twords before the mark\tdecision'] + ['\t'.join((*r, '')) for r in rep['notes']]
         nf.write_text('\n'.join(rows) + '\n', encoding='utf-8')
         print(f'wrote {nf.relative_to(ROOT)}: {len(rep["notes"])} questions from {rep["en_suktas"]} sūkta file(s)')
+        rd = ['sūkta\tunit\tsupplied text\treading translated\tbasis']
+        for i in sorted(english):
+            lab, units = english[i]
+            for ln in units.get('Readings', '').splitlines():
+                m = re.match(r'^- (Introduction|Ṛk \d+): ⟦([^⟧]+)⟧ → (.+?) — (.+)$', ln.strip())
+                if m: rd.append('\t'.join((lab, m.group(1), m.group(2), re.sub(r'[⟦⟧]', '', m.group(3)), m.group(4))))
+        rf = nf.with_name('bhashya_readings.tsv')
+        rf.write_text('\n'.join(rd) + '\n', encoding='utf-8')
+        print(f'wrote {rf.relative_to(ROOT)}: {len(rd) - 1} readings')
         return 1 if errs else 0
     title = f"Sāyaṇa's Ṛgveda-bhāṣya in English: reader (Vol {a.vol}, {what})"
     md = f'# {title}\n\n' + '\n'.join(body).strip() + '\n'
