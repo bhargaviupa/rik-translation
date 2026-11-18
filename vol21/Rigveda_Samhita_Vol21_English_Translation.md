@@ -3804,6 +3804,329 @@ Unirascible (Indra), come to the sacrifice : the effused juices are purified for
 > तया॑ पाहि॒ प्र ते॑ अध्व॒र्युर॑स्था॒त्सं ते॒ वज्रो॑ वर्ततामिंद्र  ॒
 > गव्युः ॥ २ ॥
 
+### Printed p. 88
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । काकुत् । सुकृता । या । वरिष्ठा । यया । शश्वत् । पिबसि । मध्वः ।  
+> ऊर्मिं ।  
+> शया । पाहि । प्र । ते । अध्वर्युः । अस्थात् । सं । ते । वज्रः । वर्ततां । इंद्र ।  
+> गव्युः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र या ते तव काकुज्जिह्वा सुकृता सुष्टु धात्रा निर्मिता । या च
+> वरिष्टोरुतमा विस्तीर्णतमा । यया च मध्वो मधुनः सोमस्योर्मिं रसं
+> शश्वद्बहुकृत्वः पिबसि तया जिह्वयास्मदीयं सोमं पाहि । पिब । तदर्थमध्वर्युरध्वरस्य नेता ऋत्विगृहीतसोमः सन् प्रास्थात् । हविर्धानादुत्तरवेदिदेशं
+> प्रत्यगमत् । अपि च हे इंद्र गव्युः शत्रुसंबंधिनीर्गा आत्मन इच्छन् ते त्वदीयो
+> वज्रः सं वर्ततां । शत्रुभिः संगतो भवतु । तान् हंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that tongue of yours which has been well fashioned by the creator, which is the most extensive, and with which you drink again and again the essence of the sweet Soma, with that tongue drink our Soma. For that purpose the Adhvaryu, the leader of the rite, having taken the Soma by the hands of the priests, has set out from the place of the oblations to the region of the northern altar. Moreover, O Indra, desiring for yourself the cows belonging to the enemies, let your thunderbolt come together with the enemies; that is, let it kill them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- या (*yā*)—which
+- काकुत् (*kākut*)—tongue
+- सुकृता (*sukṛtā*)—has been made most excellently
+- या (*yā*)—which
+- वरिष्ठा (*variṣṭhā*)—is most extensive
+- यया (*yayā*)—with which tongue
+- मध्वः (*madhvaḥ*)—of the sweet Soma
+- ऊर्मिं (*ūrmiṃ*)—the juice
+- शश्वत् (*śaśvat*)—many times
+- पिबसि (*pibasi*)—you drink
+- तया (*tayā*)—with that same tongue
+- पाहि (*pāhi*)—drink this Soma juice
+- अध्वर्युः (*adhvaryuḥ*)—the Adhvaryu
+- ते प्र अस्टात् (*te pra asṭāt*)—stands ready to offer it to you
+- इंद्र (*iṃdra*)—O Indra
+- गव्युः (*gavyuḥ*)—desirous of obtaining cows
+- ते (*te*)—your
+- वज्रः (*vajraḥ*)—thunderbolt weapon
+- सं वर्ततां (*saṃ vartatāṃ*)—let it be hurled against the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with that tongue of yours which has been made most excellently and is most extensive, with which you drink the sweet Soma juice many times, drink this Soma juice with that same tongue. The Adhvaryu stands ready to offer it to you. O Indra, let your thunderbolt weapon, desirous of obtaining cows, be hurled against the enemies.
+
+### Printed p. 89
+
+##### English translation
+Drink, Indra. with that well-formed and expanded tongue wherewith you ever quaff the juice of the sweet (Soma): before you stands the ministrant priest: let your bolt. Indra. designed (to recover) the cattle, be hurled (against your foes).
+
+#### Ṛk 3
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष द्र॒प्सो वृ॑ष॒भो वि॒श्वरू॑प॒ इंद्रा॑य॒ वृष्णे॒ सम॑कारि॒  ॑
+> सोमः ।  
+> ए॒तं पि॑ब हरिवः स्थातरुग्र॒ यस्येशि॑षे प्र॒दिवि॒ यस्ते॒ अन्नं॑ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । द्रप्सः । वृषभः । विश्वरूपः । इंद्राय । वृष्णे । सं । आकारि । सोमः ।  
+> एतं । पिब । हरिवः । स्थातः । उग्र । यस्य । ईशिषे । प्रदिवि । यः । ते । अन्नं ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्रप्पो द्रवणशीलो वृषभः कामानां वर्षिता विश्वरूपो बहुविधरूपोपेत
+> ईदृग्विध एष सोमो वृष्णे कामानां वर्षित्र इंद्रायेंद्रस्य पानार्थं समकारि ।
+> अभिषवादिभिः संस्कृतोऽभूत् । हे हरिवः । हरी अश्वे । तद्वन् हे स्थातः सर्वेषामधिष्ठातरुग्रोद्दूर्णबलेंद्र एतमीदृशं सोमं पिब । यस्य सोमस्य प्रदिवि ॥
+> जातावेकवचनं ॥ प्रभूतेषु दिवसेषु प्रगतेश्वहःसु वेशिषे त्वमेवेश्वरो भवसि ।
+> यश्च स्तोमस्ते तवान्न मन्नत्वेन परिकल्पित एतं पिबेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, flowing, showering desires, possessed of forms of many kinds, has been prepared (समकारि (*samakāri*)) for the drinking of Indra, the showerer of desires; it has been refined by pressing and the like. O Indra, lord of the bay horses, stander, presider over all, of mighty strength, drink this Soma, over which you alone are the lord throughout many past days, and which is conceived as your food. The construction is: drink this.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रप्पः (*drappaḥ*)—flowing by nature
+- वृषभः (*vṛṣabhaḥ*)—showering desires
+- विश्वरूपः (*viśvarūpaḥ*)—possessed of forms of many kinds
+- एषः सोमः (*eṣaḥ somaḥ*)—this Soma juice
+- वृष्णे (*vṛṣṇe*)—showerer of desires
+- इंद्राय (*iṃdrāya*)—for the drinking of Indra
+- समकारि (*samakāri*)—has been well refined and made ready
+- हरिवः (*harivaḥ*)—O you who have horses
+- स्थातः (*sthātaḥ*)—who stand firm as the foremost of all
+- उग्र (*ugra*)—O Indra, of terrible strength
+- यस्य (*yasya*)—of which Soma
+- प्रदिवि (*pradivi*)—for many days
+- ईशिषे (*īśiṣe*)—you are the lord
+
+### Printed p. 90
+
+- यः (*yaḥ*)—which Soma
+- ते (*te*)—for you
+- अन्नं (*annaṃ*)—is of the nature of food
+- एकं (*ekaṃ*)—this such Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, flowing by nature, showering desires, possessed of forms of many kinds, has been well refined and made ready for the drinking of Indra. O Indra, who have horses and stand as the foremost of all, you who are the lord of the Soma juices for many days, drink this Soma, which is of the nature of food for you.
+
+##### English translation
+This undropping, omniform Soma, the showerer (of benefits , has been duly prepared for Indra, the showerer (of rain): lord of steeds, ruler over all, mighty (Indra), drink this over which you have of old presided, which is your food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒तः सोमो॒ असु॑तांद्र॒ वस्या॑न॒यं श्रेया॑ञ्चिकि॒तुषे॒  ॑
+> रणाय ।  
+> ए॒तं ति॑तिर्व॒ उप॑ याहि य॒ज्ञं तेन॒ विश्वा॒स्तवि॑षी॒रा पृ॑णस्व ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतः । सोमः । असुतात् । इंद्र । वस्यान् । अयं । श्रेयान् । चिकितुषे । रणाय।  
+> एतं । तितिर्वः । उप । याहि । यज्ञं । तेन । विश्वाः । तविषीः । आ । पृणस्व ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुतोऽभिषुतोऽयं सोमोऽसुतादकृताभिषवात्सोमादन्यदीयाद्वस्यान् वसीयान् वसुमत्तरः प्रशस्यतरः । तथा चिकितुषे विदुषेऽभिज्ञाय
+> तुभ्यं रणाय रमणीयाय तदर्थं श्रेयान् श्रेष्ठश्च भवति । त्वामतिशयेन
+> रमयितेत्यर्थः । हे तितिर्वः शत्रूणां तरितरिंद्र यजनसाधनमेतं सोममुप
+> याहि । उपागच्छ । तेन च सोमेन विश्वास्तविषीः सर्वाणि बलान्या पृणस्व । आपूरय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Soma that has been pressed is better, richer and more praiseworthy than any unpressed Soma of another. Likewise, for you who are knowing and discerning, it is the best and the most delightful: it will give you the greatest delight. O Titirva, Indra, overcomer of the enemies, come to this Soma, the means of sacrifice; come near. And with that Soma fill up all your powers.
+
+### Printed p. 91
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सुतः (*sutaḥ*)—which has been pressed
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- असुतात् (*asutāt*)—than the Soma that has not been pressed
+- वस्यान् (*vasyān*)—is better
+- चिकितुषे (*cikituṣe*)—to you who are fully wise
+- रणाय (*raṇāya*)—to cause delight
+- श्रेयान् (*śreyān*)—is better
+- तितिर्वः (*titirvaḥ*)—O Indra, who cast down the enemies
+- यज्ञं (*yajñaṃ*)—which is the means of sacrifice
+- एतं (*etaṃ*)—to this Soma
+- उप याहि (*upa yāhi*)—be gracious and come
+- तेन (*tena*)—with this same Soma
+- विश्वाः तविषीः (*viśvāḥ taviṣīḥ*)—all your powers
+- आ पृणस्व (*ā pṛṇasva*)—fill up
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma that has been pressed and made ready is better than the Soma that has not been pressed. It is better for causing delight to you who are fully wise. O Indra, who cast the enemies down, be gracious and come to the place where this Soma, the means of sacrifice, is. With this same Soma fill up all your powers.
+
+##### English translation
+The effuscd Soma, Indra, is more excellent than that which is not effused : it is better (qualified) to give pleasure to you, who are capable of judging : overcomer (of enemies), approach this sacrifice, and thereby perfect all yours powers.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह्वया॑मसि॒ त्वेंद्र॑ याह्य॒र्वाजरं॑ ते॒ सोम॑स्त॒न्ने॑ भवाति ।  
+> शत॑क्रतो मा॒दय॑स्वा सु॒तेषु॒ प्रास्मा अ॑व॒ पृत॑नासु॒ प्र  ॒
+> विक्षु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ह्वयामसि । त्वा । आ । इंद्र । याहि । अर्वाज् । अरं । ते । सोमः । तन्ने । भवाति।  
+> शतक्रतो इति शतक्रतो । मादयस्व । सुतेषु । प्र । अस्माना । अव । पृतनासु । प्र ।  
+> विक्षु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां ह्वयामसि । आह्वयामः । अतः कारणात्त्वमर्वाजिस्मदभि_
+> मुखः सन् आ याहि । आगच्छ । अस्मदीयः सोमश्च ते तन्ने तव शरीरायारं
+
+##### Gist of the bhāṣya
+
+O Indra, we invoke you; therefore, facing us, come. And our Soma, for your body,
+
+### Printed p. 92
+
+> पर्याप्तं भवाति । भवतु । त्वदीयं शरीरं यथाभिलाषं तर्पयत्वित्यर्थः । हे
+> शतक्रतो बहुविधकर्मन्निंद्र त्वं च सुतेष्वभिषुतेष्वस्मदीयेषु सोमेषु
+> मादयस्व । तृप्स्य ॥ मद तृप्तियोगे ॥ तदनंतरं पृतनासु संग्रामेष्वस्मान्प्राव ।
+> प्रकर्षेण रक्ष । न केवलं पृतनासु किंतु विक्षु सर्वासु प्रजास्वस्मान्प्राव । प्ररक्ष ॥
+
+##### Gist of the bhāṣya
+
+may be sufficient; that is, let it satisfy your body as it desires. And you, O Śatakratu, Indra, doer of many kinds of deeds, delight yourself in our Soma that has been pressed; be satisfied. Thereafter protect us well in the battles. Not only in the battles, but protect us among all the peoples.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- ह्वयामसि (*hvayāmasi*)—we invoke with prayer
+- आर्वाज् (*ārvāj*)—facing us
+- आ याहि (*ā yāhi*)—be gracious and come
+- सोमः (*somaḥ*)—this Soma
+- ते (*te*)—your
+- तन्ने (*tanne*)—for the nourishment of the body
+- आरं (*āraṃ*)—as sufficient
+- भवाति (*bhavāti*)—let it be
+- शतक्रतो (*śatakrato*)—O Indra, doer of many deeds
+- सुतेषु (*suteṣu*)—in these Somas that have been pressed
+- मादयस्व (*mādayasva*)—find satisfaction
+- पृतनासु (*pṛtanāsu*)—in the battles
+- आस्मान् (*āsmān*)—us
+- प्र अव (*pra ava*)—protect completely
+- विक्षु (*vikṣu*)—among all the peoples
+- प्र (*pra*)—protect us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we invoke you with prayer. Be gracious and come facing us. Let this Soma be sufficient for the nourishment of your body. O Indra, doer of many deeds, find satisfaction in these Somas that have been pressed and made ready. Protect us completely in the battles. Protect us also among all the peoples.
+
+##### English translation
+We invoke you, Indra, come down : may the Soma be sufficient for (the satisfaction of) your person: exalt Shatakaratu with the libations, defend us in combats, and against the people.
+
+## Sūkta 42 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्यस्मा इति चतुर्ऋचमेकोनविंशं सूक्तं भरद्वाजस्यार्षमैंद्रं ।
+> चतुर्थी बृहती शिष्टा अनुष्टुभः । तथा चानुक्रांतं । प्रत्यस्मै चतुष्कमानुष्टुभं
+> बृहत्यंतमिति ॥ प्रातःसवनेच्छावाकस्येदमुन्नीयमानसूक्तं । सूत्रितं च । प्रत्यस्मा इत्युन्नीयमानायानूच्य । आ. ५-७ । इति.
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रत्यस्मा इति (*pratyasmā iti*) has four Ṛks and is the nineteenth sūkta. Its seer is Bharadvāja (Ārṣa) and its deity is Indra. The fourth Ṛk is a Bṛhatī and the remaining ones are Anuṣṭubh. It is listed in the Anukramaṇī thus: प्रत्यस्मै चतुष्कमानुष्टुभं बृहत्यंतमिति (*pratyasmai catuṣkamānuṣṭubhaṃ bṛhatyaṃtamiti*). At the morning pressing this is the unnīyamāna sūkta of the Acchāvāka. It is stated in the sūtra: प्रत्यस्मा इत्युन्नीयमानायानूच्य (*pratyasmā ityunnīyamānāyānūcya*) (Ā. Sū. 5-7).
+
+### Printed p. 93
+
+##### Anuvāda
+
+This sūkta beginning "Pratyasmai" is the nineteenth sūkta in the third anuvāka. It has four Ṛks. Bharadvāja is the seer of this sūkta and Indra is the deity. The fourth Ṛk of this sūkta is in the Bṛhatī metre; the remaining Ṛks are in the Anuṣṭup metre. In the Anukramaṇikā it is said: प्रत्यस्मै चतुष्कमानुष्टुभं बृहत्यंतं (*pratyasmai catuṣkamānuṣṭubhaṃ bṛhatyaṃtaṃ*). The use of this sūkta is for the unnīyamāna sūkta to be recited by the priest called Acchāvāka at the time of the morning pressing, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, प्रत्यस्मा इत्युन्नीयमानायानूच्य (*pratyasmā ityunnīyamānāyānūcya*) (Ā. 5-7).
+
+##### Particulars
+
+- Sūkta 42
+- Maṇḍala 6; Anuvāka 3; Sūkta 42
+- Aṣṭaka 4; Adhyāya 7; Varga 14
+- Number of Ṛks in the sūkta: 4
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Ṛks 1-3, Anuṣṭup; Ṛk 4, Bṛhatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॑स्मै॒ पिपी॑षते॒ विश्वा॑नि वि॒दुषे॑ भर ।  
+> अ॒रं॒ग॒माय॒ जग्म॒येऽप॑श्चाद्दघ्वने॒ नरे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अस्मै । पिपीषते । विश्वानि । विदुषे । भर ।  
+> आरंगमाय । जग्मये । अपश्चत् दघ्वने । नरे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो अस्मा इंद्राय प्रति भर । अभिहर । सोमं प्रयच्छेत्यर्थः ।
+> कीदृशायेंद्राय । पिपीषते पातुमिच्छते विश्वानि सर्वाणि वेद्यानि विदुषे जानतेऽरंगमायॆ पर्याप्तगमनाय जग्मये यज्ञेषु गमनशीलायापश्चाद्दघ्वने ॥
+> दघिर्गतिकर्मा ॥ अपश्चाद्गमनाय सर्वेषामग्रगामिने नरे नेत्रे यज्ञानां ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryu, bring forward to this Indra; that is, offer him the Soma. To what kind of Indra? To him who wishes to drink; to him who knows all things that are to be known; to him whose going is sufficient, who goes readily to the sacrifices, who goes in front of all and never behind, the leader of the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पिपीषते (*pipīṣate*)—who wishes to drink
+- विश्वानि (*viśvāni*)—all that is to be known
+- विदुषे (*viduṣe*)—who knows
+- अरंगमाय (*araṃgamāya*)—whose going is complete
+- जग्मये (*jagmaye*)—who goes readily to the sacrifices
+
+### Printed p. 94
+
+- अपश्चाद्दघ्वने (*apaścāddaghvane*)—who goes in front of all
+- नरे (*nare*)—who is the leader
+- अस्मै (*asmai*)—directed to this Indra
+- प्रतिभर (*pratibhara*)—offer the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, offer the Soma to this Indra, who wishes to drink, who knows all that is to be known, whose going is complete, who goes readily to the sacrifices, who goes in front of all, and who is the leader.
+
+##### English translation
+Offer, (priests), the libation to him who is desirous to drink ; who knows all things; whose movements are all-sufficient; who goes readily (to sacrifices); the leader (of holy rites), following no one.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एमे॑नं प्र॒त्येत॑न॒ सोमे॑भिः सोम॒पात॑मं ।  
+> अम॑त्रेभिर्ऋजी॒षिण॒मिंद्रं॑ सु॒तेभि॒रिंदु॑भिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आं । ईं । एनं । प्रतिएतन । सोमेभिः । सोमपातमं ।  
+> अमत्रेभिः । यजीषिणं । इंद्रं । सुतेभिः । इंदुभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये स्वरसामि निष्केवल्य एमेनमिति स्तोत्रियस्तृचः । सूत्रितं च ।
+> एमेनं प्रत्येतनेत्याद्यो ना सर्वेषां । आ. ८-५ । इति ॥
+> हे अध्वर्यवः सोमेभिः सोमैः करणभूतैः सोमपातममतिशयेन
+> सोमस्य पातारमेनमिंद्रमा अभिमुखं प्रत्येतन । प्रतिगच्छत । ईमिति निपातोऽन
+> र्थकः । कीदृशमींद्रं । अमत्रेभिरमत्रैः सोमपात्रैर्ग्रहचमसादिभिर्युजीषिणं ।
+> ऋजीषं शत्रूणामुपार्जकं बलं । तद्वंतं । यद्वा । ऋजीषिणमित्युत्तरत
+> संबंधनीयं । सुतेभिरभिषुतैरिंदुभिः सोमैर्युजीषिणं । गतसारः सोम
+> ऋजीषः । तद्वंतं । अथवामत्रेभिरमत्रैरमात्रैरपरिमितैरभिषुतैः सोमैर्युजीषिणं ॥ ऋजेर्गत्यर्थाद्भावसाधन ऋजीष शब्दः । ततो मत्वर्थीय इनिः ॥ संगतमित्यर्थः । एवंविधमिंद्रं प्रतिगच्छतेत्यन्वयः । अन्य आह । अमत्रेभिर्ग्रहचमसादिगतैरभिषुतैः सोमैर्युजीषिणं बलवंतमेनमिंद्रं प्रतिगच्छतेति ॥
+
+##### Gist of the bhāṣya
+
+In the third (round), in the Svarasāman Niṣkevalya, the triplet beginning एमेनमिति (*emenamiti*) is the stotriya.**NOTE** It is stated in the sūtra: एमेनं प्रत्येतनेत्याद्यो ना सर्वेषां (*emenaṃ pratyetanetyādyo nā sarveṣāṃ*) (Ā. Sū. 8-5). O Adhvaryus, go towards this Indra, who is the greatest drinker of Soma, with the Somas as the means. The particle ईं (*īṃ*) has no meaning. What kind of Indra? One who is possessed of ṛjīṣa with the Soma vessels (अमत्रेभिः (*amatrebhiḥ*)), the cups, ladles and the like. Ṛjīṣa is the strength that gathers from the enemies; he possesses it.**NOTE** Or else, ṛjīṣiṇam is to be connected with what follows: he is possessed of ṛjīṣa with the pressed Somas (इंदुभिः (*iṃdubhiḥ*)); Soma whose essence is gone is ṛjīṣa, and he possesses it. Or else, अमत्रेभिः (*amatrebhiḥ*) means with immeasurable pressed Somas; he is connected with them, that is, united. The construction is: go to an Indra of this kind. Another says: go to this mighty Indra with the Somas that have been pressed and put into the cups, the ladles and the like.
+
 ---
 
-**Progress note:** Done through printed p. 87. Sūkta 40 Ṛk 2 end, Ṛk 3-5; Sūkta 41 Ṛk 1-2 begin (pp. 82-87)
+**Progress note:** Done through printed p. 94. Sūkta 41 Ṛk 2 end, Ṛk 3-5; Sūkta 42 Ṛk 1-2 (pp. 88-94)
