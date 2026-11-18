@@ -6307,6 +6307,264 @@ Daughter of heaven, Dawn! delay not our (sacred) rite ; let not the sun scorch y
 > एतावत् । वा । इत् । उषः । त्वं । भूयः । वा । दातुं । अर्हसि ।  
 > या । स्तोतृभ्यः । विभावरि । उच्छंती । न । प्रमीयसे । सुजाते । अश्वसूनृते ॥ १० ॥
 
+### Printed p. 167
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषस्त्वमस्मभ्यं वाथवा दित्सितं किमेतावदेव । इच्छब्द एवकारार्थः ।
+> अस्मिन् सूक्ते प्रार्थितमेवेत्यर्थः । अथवा भूयो दातुमर्हसि । अप्रार्थितमपि ।
+> यद्दातव्यमस्ति तत्सर्वं देहीत्यर्थः । हे विभावर्युषो या त्वं स्तोतृभ्यस्तेषां
+> लौकिकवैदिकव्यवहारार्थं व्युच्छंती तमो विवासयंती न प्रमीयसे । न हंसि । न
+> क्रुद्धसीत्यर्थः । सा त्वं दातुमर्हसीति ॥ मीञ् हिंसायामित्यस्मात् श्नास्थाने
+> व्यत्ययेन श्यन् ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, is what you wish to give us only this much? The word इच्छब्द (*icchabda*) has the sense of "only": what has been prayed for in this sūkta alone, this is the meaning. Or else you are able to give more, even what has not been prayed for; whatever is to be given, give all of it, this is the meaning. O radiant Uṣas, you who, dawning for the singers, driving away the darkness for the sake of their worldly and Vedic activity, न प्रमीयसे (*na pramīyase*), are not harmful to them: you do not injure them; you are not angry, this is the meaning. Such as you are, you are able to give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—O you of excellent birth
+- अश्वसूनृते (*aśvasūnṛte*)—O you who are praised with excellent praises for the sake of horses
+- विभावरि (*vibhāvari*)—O radiant
+- उषः (*uṣaḥ*)—goddess Uṣas
+- या (*yā*)—you who
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—for the praisers
+- उच्छंती (*ucchaṃtī*)—destroying the darkness
+- न प्रमीयसे (*na pramīyase*)—are not harmful to them
+- त्वं (*tvaṃ*)—such you
+- एतावदित् (*etāvadit*)—just as much as is specified in this prayer
+- ना (*nā*)—or **NOTE**
+- भूयं वा (*bhūyaṃ vā*)—or in a still greater measure
+- दातुं (*dātuṃ*)—to give
+- अर्हसि (*arhasi*)—you are able
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant goddess Uṣas, of excellent origin, praised with excellent praises for the sake of horses: you who, destroying the darkness for your praisers, are not harmful to them, such as you are, you are able to give, whether just as much as is specified in this prayer or in a still greater measure.
+
+##### English translation
+You, Ushas, are able to give (us) whatever, indeed, (has been solicited), and much (that has not been asked for); for, radiant (divinity), you are dawning upon your adorers, you are never cruel (to them): bright-born goddes (you are) sincerely praised for (the gift of) horses.
+
+### Printed p. 168
+
+## Sūkta 80 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युतद्यामानमिति षडृचमष्टमं सूक्तं । तत्रानुक्रमणिका । द्युतद्यामानं
+> षडिति । सत्यश्रवा ऋषिः । अनुक्तत्वात् त्रिष्टुप् । उषस्यं त्वित्युक्तत्वादुषा देवता ॥
+> प्रातरनुवाक उपस्ये क्रत्वा त्रैष्टुभे छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्रितं च ।
+> द्युतद्यामानमुषो वाजेन । आ. ४-१४ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta beginning द्युतद्यामानं (*dyutadyāmānaṃ*) has six Ṛks and is the eighth sūkta. The Anukramaṇikā says द्युतद्यामानं (*dyutadyāmānaṃ*) and six. The seer is Satyaśravas. Because no metre is mentioned, it is Triṣṭubh. Because उषस्यं त्वित्युक्तत्वादुषा देवता (*uṣasyaṃ tvityuktatvāduṣā devatā*) is stated, the deity is Uṣas. In the Prātaranuvāka, in the Uṣasya rite, in the Traiṣṭubha metre and in the Āśvina śastra this sūkta is employed. This is laid down in the sūtra: द्युतद्यामानमुषो वाजेन (*dyutadyāmānamuṣo vājena*) (Ā. 4-14).
+
+##### Anuvāda
+
+This sūkta beginning द्युतद्यामानं (*dyutadyāmānaṃ*) is the eighth sūkta in the sixth anuvāka. It has six Ṛks. In the Anukramaṇikā it is said द्युतद्यामानं षट् (*dyutadyāmānaṃ ṣaṭ*). The seer of this sūkta is the one called Satyaśravas; the deity is Uṣas; the metre is Triṣṭubh. At the time of the recitation of the mantras of the Prātaranuvāka, this sūkta is employed for the mantras in the Triṣṭubh metre connected with the Uṣasya sacrificial rite and for the mantras of the Aśvina śastra, as is set out in the sūtra of the Āśvalāyana Śrautasūtra द्युतद्यामानमुषो वाजेन (*dyutadyāmānamuṣo vājena*) (Ā. 4-14). **NOTE**
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 80
+- Aṣṭaka 4; Adhyāya 4; Varga 23
+- Number of Ṛks in the sūkta: 6
+- Seer: सत्यश्रवा आत्रेयः (*satyaśravā ātreyaḥ*)
+- Deity: उषाः (*uṣāḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यु॒तद्या॑मानं बृह॒तीमृ॒तेन॑ ऋ॒ताव॑रीमरु॒णप्सुं॑ विभा॒तीं।  
+> दे॒वीमु॒षसं॒ स्व॑रा॒वहं॑तीं॒ प्रति॒ विप्रा॑सो म॒तिभि॑र्जरंते॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युतत्त्यामानं । बृहतीं । ऋतेन । ऋतवरीं । अरुणप्सुं । विभातीं ।  
+> देवीं । उषसं । स्वः । आवहंतीं । प्रति । विप्रासः । मतिभिः । जरंते ॥ १ ॥
+
+### Printed p. 169
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युतद्यामानं दीप्तरथां बृहतीं महतीमृतेन सत्येन यज्ञेन वर्तावरीमृतवतीमरुणप्सुमरुणरूपां विभातीं व्युच्छंतीं देवीं द्योतमानामुषसं
+> स्वरावहंतीं सूर्यं गच्छंतीं । एवं महानुभावामुषसं विप्रासो मेधाविन
+> ऋत्विजो मतिभिः स्तुतिभिः प्रति जरंते । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+द्युतद्यामानं (*dyutadyāmānaṃ*): having a shining chariot; बृहतीं (*bṛhatīṃ*): great; ऋतेन (*ṛtena*): by truth, by the sacrifice; she is ऋतावरीं (*ṛtāvarīṃ*), possessed of truth; अरुणप्सुं (*aruṇapsuṃ*): of ruddy form; विभातीं (*vibhātīṃ*): dawning; देवीं (*devīṃ*): the shining उषसं (*uṣasaṃ*), Uṣas; स्वरावहंतीं (*svarāvahaṃtīṃ*): going to the sun. Such a Uṣas, of great majesty, the wise priests, विप्रासः (*viprāsaḥ*), मतिभिः (*matibhiḥ*), with hymns of praise, प्रति जरंते (*prati jaraṃte*), praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युतद्यामानं (*dyutadyāmānaṃ*)—she who has a shining chariot
+- बृहतीं (*bṛhatīṃ*)—she who is of great form
+- ऋतेन (*ṛtena*)—by the sacrifice
+- ऋतावरीं (*ṛtāvarīṃ*)—she who is worshipped
+- अरुणप्सुं (*aruṇapsuṃ*)—she who has a golden-coloured form
+- विभातीं (*vibhātīṃ*)—she who shines, dispersing the darkness
+- देवीं (*devīṃ*)—she who has the nature of a deity
+- स्वरावहंतीं (*svarāvahaṃtīṃ*)—she who goes before the sun
+- उषसं (*uṣasaṃ*)—goddess Uṣas
+- विप्रासः (*viprāsaḥ*)—wise priests
+- मतिभिः (*matibhiḥ*)—with hymns of praise
+- प्रति जरंते (*prati jaraṃte*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+The wise priests praise with hymns of praise the goddess Uṣas, who has a shining chariot, is of great form, is worshipped through the sacrifice, has a golden-coloured form, shines dispersing the darkness, has the nature of a deity and goes before the sun.
+
+##### English translation
+The wise priests celebrate with hymns the divine, bright-charioted, expanded Dawn ; worshipped with holy worship, purple-tinted, radiant, leading on the sun.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा जनं॑ दर्श॒ता बो॒धयं॑ति सु॒गान्प॒थः कृ॑ण्व॒ती या॒त्यग्रे॑ ।  
+> बृ॒ह॒द्र॒था बृ॑ह॒ती वि॑श्वमि॒न्नोषा ज्योति॑र्यच्छ॒त्यग्रे॒ अह्नां॑॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । जनं । दर्शता । बोधयंती । सुगान् । पथः । कृण्वती । याति । अग्रे ।  
+> बृहत्ठरथा । बृहती । विश्वंइन्वा । उषाः । ज्योतिः । यच्छति । आग्रे । अह्नां ॥ २ ॥
+
+### Printed p. 170
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शता दर्शनीयैषोषा बोधयंती । कं । जनं । प्रसुप्तमित्यर्थः । पथः
+> सुगान् सुगमनान् कृण्वत्यग्रे सूर्यस्य पुरस्ताद्याति । गच्छति । कीदृश्युषाः ।
+> बृहद्रथा प्रभूतरथा बृहती महती विश्वमिन्वा विश्वं व्याप्नुवाना विश्वतर्पणा ना ।
+> ईदृश्युषा अह्नामग्रे ज्योतिस्तेजो यच्छति ॥
+
+##### Gist of the bhāṣya
+
+दर्शता (*darśatā*): this lovely Uṣas, बोधयंती (*bodhayaṃtī*), awakening: whom? The person who is asleep, this is the meaning. Making the paths सुगान् (*sugān*), easy to travel, she goes अग्रे (*agre*), before the sun. What is this Uṣas like? बृहद्रथा (*bṛhadrathā*), having a large chariot; बृहती (*bṛhatī*), great; विश्वमिन्वा (*viśvaminvā*), pervading the whole world. Such a Uṣas bestows light, brilliance, at the beginning of the days.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दर्शता (*darśatā*)—she who has an attractive form
+- एषा (*eṣā*)—this Uṣas
+- जनं (*janaṃ*)—the people
+- बोधयंती (*bodhayaṃtī*)—awakening
+- अग्रे (*agre*)—in front of the sun
+- सुगान् (*sugān*)—easy to travel
+- पथः (*pathaḥ*)—paths
+- कृण्वती (*kṛṇvatī*)—making
+- याति (*yāti*)—she goes
+- बृहद्रथा (*bṛhadrathā*)—she who has a chariot of huge form
+- बृहती (*bṛhatī*)—she who is of great form
+- विश्वमिन्वा (*viśvaminvā*)—she who pervades the world
+- उषाः (*uṣāḥ*)—Uṣas
+- अह्नां (*ahnāṃ*)—of the days
+- अग्रे (*agre*)—in the first parts (in the morning)
+- ज्योतिः (*jyotiḥ*)—brilliance
+- यच्छति (*yacchati*)—she spreads
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, who has an attractive form, goes awakening the people and making, in front of the sun, paths easy to travel. Uṣas, who has a chariot of huge form, is of great form and pervades the world, spreads brilliance in the first parts of the days (in the morning).
+
+##### English translation
+The lovely dawn, arousing man, goes before (the sun) preparing practicable paths, riding in a spacious chariot; vast, expanding everywhere, she diffuses light at the commencement of the days.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा गोभि॑ररु॒णेभि॑र्युजा॒नास्रे॑धंती र॒यिमप्रा॑यु चक्रे।  
+> प॒थो रदं॑ती सुवि॒ताय॑ दे॒वी पु॑रुष्टु॒ता वि॒श्ववा॑रा॒ वि भा॑ति॥
+
+### Printed p. 171
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । गोभिः । अरुणेभिः । युजाना । आस्रेधंती । रयिं । अप्रआयु । चक्रे ।  
+> पथः । रदंती । सुविताय । देवी । पुरुस्तुता । विश्ववारा । वि । भाति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषा अरुणेभिररुणवर्णैर्गोभिर्बलीवर्दै रथं युजाना योजयंत्यस्रेधंत्यशुष्यंत्यक्षीणा वा । किं । रयिं धनमप्राय्यप्रगंतृ अविचलितं चक्रे ।
+> करोति। किं कुर्वती । पथो मार्गान् रदंती प्रकाशयंती । किमर्थं । सुविताय
+> सुष्टु गमनाय देवी द्योतमाना पुरुष्टुता बहुभिः स्तुता विश्ववारा सर्वैर्वरणीया वि भाति । प्रकाशं करोति ॥
+
+##### Gist of the bhāṣya
+
+This Uṣas, harnessing to the chariot the oxen of ruddy colour, अस्रेधंती (*asredhaṃtī*), unwithering, or unwasting. What does she do? रयिं (*rayiṃ*), wealth, अप्रायु (*aprāyu*), that which does not go away, unshaken, she makes. Doing what? रदंती (*radaṃtī*), making the paths shine; for what purpose? सुविताय (*suvitāya*), for good going. देवी (*devī*), shining; पुरुष्टुता (*puruṣṭutā*), praised by many; विश्ववारा (*viśvavārā*), to be chosen by all, she shines forth; she makes light.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा (*eṣā*)—this goddess Uṣas
+- अरुणेभिः (*aruṇebhiḥ*)—with golden-coloured
+- गोभिः (*gobhiḥ*)—oxen
+- युजाना (*yujānā*)—harnessing her chariot
+- अस्रेधंती (*asredhaṃtī*)—without weariness
+- अप्रायु (*aprāyu*)—firm
+- रयिं (*rayiṃ*)—wealth
+- चक्रे (*cakre*)—she makes
+- देवी (*devī*)—she who is shining
+- पुरुष्टुता (*puruṣṭutā*)—she who is praised by many
+- विश्ववारा (*viśvavārā*)—she who is cherished by all, Uṣas
+- सुविताय (*suvitāya*)—so as to be fit for excellent travel
+- पथः (*pathaḥ*)—paths
+- रदंती (*radaṃtī*)—making them shine
+- वि भाति (*vi bhāti*)—she shines
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, harnessing golden-coloured oxen to her chariot, without weariness, makes wealth firm. Uṣas, who is shining, praised by many and cherished by all, shines, making the paths shine so as to be fit for the excellent travel of the sun.
+
+##### English translation
+Harnessing the purple oxen to her car, unwearied she renders riches perpetual: a goddess, praised of many, and cherished by all, she shines, manifesting the paths that lead to good.
+
+### Printed p. 172
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा व्ये॑नी भवति द्वि॒बर्हा॑ आविष्कृण्वा॒ना त॒न्वं॑ पु॒रस्ता॑त् ।  
+> ऋ॒तस्य॒ पंथा॒मन्वे॑ति सा॒धु प्र॑जान॒तीव॒ न दिशो॑ मिनाति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । विएनी । भवति । द्विबर्हाः । आनिःकृण्वाना । तन्वं । पुरस्तात् ।  
+> यतस्य । पंथां । अनु । एति । साधु । प्रजानतीइव । न । दिशः । मिनाति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषा व्येनी भवति विशेषेण श्वेता भवति द्विबर्हा द्वयोः प्रथममध्यमयोः परिवृढोषाः पश्चात्तन्वं स्वीयां तनूमाविष्कृण्णाना प्रकटीकुर्वती ।
+> कुत्र । पुरस्तात् पूर्वस्यां दिशि । किंच ऋतस्यादित्यस्य पंथां पंथानं साधु सम्यगन्वेति । किंच प्रजानतीव विश्वं प्रज्ञापयंती । इवेति संप्रत्यर्थे । न दिशो मिनाति ।
+> न हिनस्ति । प्रत्युत दिशः प्रकाशयति । अथवा प्रजानतीवानुगंतव्यमिति प्रकर्षेणावगच्छंती चर्तस्य पंथामन्वेति ॥
+
+##### Gist of the bhāṣya
+
+This Uṣas becomes व्येनी (*vyenī*), especially white. द्विबर्हा (*dvibarhā*): of the two, the first and the middle, Uṣas being परिवृढोषाः (*parivṛḍhoṣāḥ*), **NOTE** afterwards, तनूमाविष्कृण्णाना (*tanūmāviṣkṛṇṇānā*), making her own body manifest. Where? पुरस्तात् (*purastāt*), in the eastern quarter. Moreover, she follows well the path of ऋतस्य (*ṛtasya*), of the sun. Moreover, प्रजानतीव (*prajānatīva*), as if knowing, making the world aware; the word इव (*iva*) is in the sense of "now". न दिशो मिनाति (*na diśo mināti*): she does not injure the quarters; on the contrary she illumines the quarters. Or else, as if knowing clearly what is to be followed, she follows the path of ऋतस्य (*ṛtasya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा (*eṣā*)—this goddess Uṣas
+- द्विबर्हाः (*dvibarhāḥ*)—although she has traversed the two places, earth and atmosphere
+- पुरस्तात् (*purastāt*)—only in the eastern direction
+- तन्नं (*tannaṃ*)—her form
+- आविष्कृण्वाना (*āviṣkṛṇvānā*)—making manifest
+- व्येनी भवति (*vyenī bhavati*)—she is of a very bright colour
+- साधु (*sādhu*)—the excellent path on which she has to travel
+- प्रजानतीव (*prajānatīva*)—as if she knew well
+- ऋतस्य (*ṛtasya*)—of the sun
+- पंथां (*paṃthāṃ*)—the path
+- अन्वेति (*anveti*)—she goes, following
+- दिशः (*diśaḥ*)—the quarters
+- न मिनाति (*na mināti*)—she does not injure
+
+##### भावार्थ (Bhāvārtha)
+
+Although Uṣas has traversed the two places, earth and atmosphere, she is of a very bright colour, making her form manifest only in the eastern direction. As if she knew well the excellent path on which she has to travel, she goes following the path of the sun. She does not injure any quarter.
+
 ---
 
-**Progress note:** Done through printed p. 166. Sūkta 79 Ṛks 4-9 and Ṛk 10 saṃhitā/pada (pp. 160-166)
+**Progress note:** Done through printed p. 172. Sūkta 79 Ṛk 10; Sūkta 80 intro, Ṛks 1-4 (pp. 167-172)
