@@ -11037,6 +11037,142 @@ Here ends the explanation of the eleventh Ṛk.
 
 According to the Vedic statement आपो ना इदमग्रे सलिलमासीत् (*āpo nā idamagre salilamāsīt*), in the beginning water covered the whole universe; there was no other thing. From that water this whole visible world arose. Water is named नाराः (*nārāḥ*), as in आपो नारा इति प्रोक्ताः (*āpo nārā iti proktāḥ*). The god for whom this water was the dwelling-place came to be named Nārāyaṇa. And those waters, the dwelling-place of that Nārāyaṇa, produced narān, that is, human beings; that is, from water alone the whole world, beginning with human beings, came into being. Therefore those waters called नाराः (*nārāḥ*), the cause of the origin of the world, became, under the name Nārāyaṇī, the natural power of Nārāyaṇa, the goddess. Then from the water principle, from water, as in the Vedic statement अद्भ्यः पृथिवी (*adbhyaḥ pṛthivī*), the earth arose. Then likewise the origin of fire, air, sun, moon and the others took place. Since from this water, the nectar that is the sap sustaining life arose, water came to be named jala. Or, since this whole world of moving and unmoving things is born from this water and dissolves in water itself, water came to be named jala. A man purified by such water, tranquil in spirit, worships the water principle. Therefore, since water is the cause of everything, it is said that water has the power of creation. In water there is the quality called sneha (the property of sticking together). Therefore the atoms, the basic supports of the world, united with one another by the power of sneha of that water, became the cause of the origin of the world. In the end, by the absence of sneha, it is likewise the cause of the dissolution of the world; therefore the goddess is to be worshipped. The goddess is to be meditated on and worshipped as being in the form of the power of water, that is, in the form of water. One should pray that the goddess, who has the form of water and is the mother of the world, may create for my enjoyment all the objects of enjoyment that are most dear to me. To this goddess Śrī a son named चिक्षीत (*cikṣīta*) was born. They call him Manmatha. It has been said before that the chief quality of water is sneha. Since this son of the goddess Śrī, who has the form of water, named Cikṣīta, arose from the mind of the goddess, which is a modification of water, he came to have the names Cittaja and Kāma. **NOTE** The desire that appears in the mind is itself
 
+### Printed p. 321
+
+the cause of worldly existence. It is also the accomplisher of every purpose, and it gives room in people's minds to the sense of duality and so is the cause of the dealings of the world. That is to say, a man joined with desire (kāma; the word also means wishing) is engaged in the dealings of the world, and this worldly activity is itself the sense of duality. But the man free of desire, devoid of the sense of duality, attains the non-dual understanding that everything is Brahman alone and that there is no thing apart from Brahman; he is called a Śrotriya and remains absorbed in meditation on Brahman. In this world he has no duty or rite that he must perform. The attainment of the goddess Śrī Lakṣmī, who has the form of the three aims of life, has to come through her son Kāma, or Cikīta. Therefore, if one worships with effort the son of Lakṣmī, named Cikīta, who is famed as the god of desire (Kāmadeva) hard to conquer, and wins his favour, the favour of the goddess Śrī also follows and wealth is gained. To win Lakṣmī over is possible by effort, and that effort must itself come from Kāmadeva, the son of Lakṣmī. Therefore one should gratify the son of Lakṣmī and the goddess Lakṣmī by effort and practice not contrary to dharma, and obtain the fullness of wealth and prosperity.
+
+O Cikkīta, son of Śrī, O lord, dwell in my house for a long time. Abide in my family at all times. Abide in my mind with a gracious disposition. If you come to my house, your mother, the goddess Śrī, out of love for you, will follow you and come along with you. Impel your mother, that goddess Śrī, to dwell in my house for a long time. O Cikkīta, here is a salutation to you, and many salutations to your mother, the goddess Śrī.
+
+The twelfth Ṛk of the Śrīsūkta, which contains the meaning and purport stated above, is to be repeated with a disciplined mind. The seer of this Ṛk is Candra; the deity is the goddess Śrī, the mother of Cikṣīta; the metre is Anuṣṭubh; the seed (bīja) is नं (*naṃ*). For the mantra to be accomplished it must be repeated sixty-four thousand times. On the bank of a river that flows to the sea, or under a bilva tree, in a clean place, one should set up a pot full of water, invoke the deity in it, and worship according to rule. One should follow the rules and injunctions stated in the mantras called Āruṇaketaka in the Yajus branch, and perform the worship in the manner stated by one's own branch, according to the procedure (tantra) stated there. After the worship one should invite Brāhmaṇas, married women (suvāsinī) and their children, and satisfy them by giving drinks such as sweet syrup (pānaka). By this satisfaction of beings the goddess Śrī, dear to Hari, becomes pleased. For the man who performs the worship and the rest in this way, and for the members of his family and his dependants, wholesome, abundant and pure delicious food and many kinds of enjoyable things are obtained in as much plenty as he desires. Mahālakṣmī dwells firmly in his house and in his family.
+
+Here ends the explanation of the twelfth Ṛk.
+
+### Printed p. 322
+
+#### Ṛk 13
+
+अस्य श्रीश्रीसूक्तस्य आद्र्रां पुष्करिणीमिति त्रयोदशऋग्महामंत्रस्य । जातवेदा ऋषिः । श्री महालक्ष्मीर्देवता । अनुष्टुप् छंदः । आं बीजं । स्वाहा शक्तिः । श्रीं कीलकं । श्रीमहालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*asya śrīśrīsūktasya ādrrāṃ puṣkariṇīmiti trayodaśaṛgmahāmaṃtrasya | jātavedā ṛṣiḥ | śrī mahālakṣmīrdevatā | anuṣṭup chaṃdaḥ | āṃ bījaṃ | svāhā śaktiḥ | śrīṃ kīlakaṃ | śrīmahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*) ओं आद्र्रा० पुष्करिणीं पुष्टिं-अंगुष्ठाभ्यां नमः । ओं पिंगळां-तर्जनीभ्यां नमः । ओं पद्ममालिनीं-मध्यमाभ्यां नमः । ओं चंद्रां हिरण्मयीं लक्ष्मींअनामिकाभ्यां नमः । ओं जातवेदः-कनिष्ठिकाभ्यां नमः । ओं म आवह-करतलकरपृष्ठाभ्यां नमः । (*oṃ ādrrā0 puṣkariṇīṃ puṣṭiṃ-aṃguṣṭhābhyāṃ namaḥ | oṃ piṃgaḷāṃ-tarjanībhyāṃ namaḥ | oṃ padmamālinīṃ-madhyamābhyāṃ namaḥ | oṃ caṃdrāṃ hiraṇmayīṃ lakṣmīṃanāmikābhyāṃ namaḥ | oṃ jātavedaḥ-kaniṣṭhikābhyāṃ namaḥ | oṃ ma āvaha-karatalakarapṛṣṭhābhyāṃ namaḥ |*) ओं आद्र्रा० पुष्करिणीं पुष्टिं-हृदयाय नमः । ओं पिंगळां-शिरसे स्वाहा । ओं पद्ममालिनीं-शिखाय्कॆ वषट् । ओं चंद्रां हिरण्मयीं लक्ष्मीं-कवचाय हुं । ओं जातवेदः-नेत्रत्रयाय वषट् । ओं म आ वह-अस्त्राय फट् ॥ भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ (*oṃ ādrrā0 puṣkariṇīṃ puṣṭiṃ-hṛdayāya namaḥ | oṃ piṃgaḷāṃ-śirase svāhā | oṃ padmamālinīṃ-śikhāykè vaṣaṭ | oṃ caṃdrāṃ hiraṇmayīṃ lakṣmīṃ-kavacāya huṃ | oṃ jātavedaḥ-netratrayāya vaṣaṭ | oṃ ma ā vaha-astrāya phaṭ ‖ bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖*) ध्यायेत्कल्पतरोर्मूले रत्नसिंहासने स्थितां । पद्मद्वयधरां पद्मां वरदाभयधारिणीं ॥ सर्वरत्नविचित्रांगीं रक्तश्रीपादपीठिकां । नियतः प्रजपेन्मंत्री लक्षसंख्या जपेन्मनुं । पिपासानाशनं बुद्धिदायकं प्रथमं स्मृतं । अभूतिमसमृद्धिं च द्वितीयेन विनाशयेत् ॥ (*dhyāyetkalpatarormūle ratnasiṃhāsane sthitāṃ | padmadvayadharāṃ padmāṃ varadābhayadhāriṇīṃ ‖ sarvaratnavicitrāṃgīṃ raktaśrīpādapīṭhikāṃ | niyataḥ prajapenmaṃtrī lakṣasaṃkhyā japenmanuṃ | pipāsānāśanaṃ buddhidāyakaṃ prathamaṃ smṛtaṃ | abhūtimasamṛddhiṃ ca dvitīyena vināśayet ‖*) **GLOSS**
+
+आद्र्रां पुष्करिणीं पुष्टिं पिंगलां पद्ममालिनीं । चंद्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥ (*ādrrāṃ puṣkariṇīṃ puṣṭiṃ piṃgalāṃ padmamālinīṃ | caṃdrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+आद्र्रामिति । आद्र्रा० आर्द्रगंधां पुष्करिणीं अभिषेकोद्युक्तदिग्गजशुंडाग्रां पुष्करशब्दो गजशुंडाग्रवाचकः पद्मवतीं वा पद्मलतारूपां वा पुष्टिं पुष्पभिमानिनीं पुष्टिरूपां वा—“पुष्टिरूपेण संस्थितेति” मार्कंडेयवचनात् । पिंगलां पिंगळवर्णां । पद्मालिनीमित्यादि सिद्धमन्यत् ॥ (*ādrrāmiti | ādrrā0 ārdragaṃdhāṃ puṣkariṇīṃ abhiṣekodyuktadiggajaśuṃḍāgrāṃ puṣkaraśabdo gajaśuṃḍāgravācakaḥ padmavatīṃ vā padmalatārūpāṃ vā puṣṭiṃ puṣpabhimāninīṃ puṣṭirūpāṃ vā—“puṣṭirūpeṇa saṃsthiteti” mārkaṃḍeyavacanāt | piṃgalāṃ piṃgaḷavarṇāṃ | padmālinīmityādi siddhamanyat ‖*)
+
+##### Gist of the bhāṣya
+
+आद्र्रां (*ādrrāṃ*) means she of moist fragrance. पुष्करिणीं (*puṣkariṇīṃ*): she whose elephant-trunk tips, those of the elephants of the quarters, are ready for the anointing (the word पुष्कर (*puṣkara*) denotes the tip of an elephant's trunk); or she who has lotuses, or who has the form of a lotus-creeper. पुष्टिं (*puṣṭiṃ*): the presiding deity of flowers, **NOTE** or she who has the form of nourishment (puṣṭi), according to the statement of Mārkaṇḍeya, पुष्टिरूपेण संस्थितेति (*puṣṭirūpeṇa saṃsthiteti*). पिंगलां (*piṃgalāṃ*): of tawny colour. The rest, beginning with पद्मालिनीमित्यादि (*padmālinīmityādi*), is established.
+
+### Printed p. 323
+
+**Bhāṣya of Pṛthvīdhara**
+
+हेजातवेदः संस्कृताग्ने आद्र्रां शीतलगुणां पुष्करिणीं गजशुंडाग्रवतीं वा पुष्टिं पोषणकरीं सुवर्णां शोभनकांतिं हेममालिनीं हेमपद्मरचितस्रग्विणीं सूर्यामैश्वर्यरूपां हिरण्मयीं स्वर्णरूपां मे मदर्थमावह आवाहनं कुरु ॥ (*hejātavedaḥ saṃskṛtāgne ādrrāṃ śītalaguṇāṃ puṣkariṇīṃ gajaśuṃḍāgravatīṃ vā puṣṭiṃ poṣaṇakarīṃ suvarṇāṃ śobhanakāṃtiṃ hemamālinīṃ hemapadmaracitasragviṇīṃ sūryāmaiśvaryarūpāṃ hiraṇmayīṃ svarṇarūpāṃ me madarthamāvaha āvāhanaṃ kuru ‖*)
+
+##### Gist of the bhāṣya
+
+O Jātavedas, O Agni who are consecrated: आद्र्रां (*ādrrāṃ*) she of cool quality; पुष्करिणीं (*puṣkariṇīṃ*) she who has elephant-trunk tips; पुष्टिं (*puṣṭiṃ*) she who brings nourishment; सुवर्णां (*suvarṇāṃ*) she of beautiful radiance; हेममालिनीं (*hemamālinīṃ*) she who wears a garland made of golden lotuses; सूर्यां (*sūryāṃ*) she who has the form of prosperity; हिरण्मयीं (*hiraṇmayīṃ*) she who has the form of gold. For my sake, for my purpose, bring her, perform the invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni
+- आद्र्रां (*ādrrāṃ*)—having the quality of coolness
+- पुष्करिणीं (*puṣkariṇīṃ*)—she who is sprinkled with water from the tips of the elephants' trunks for the anointing
+- पुष्टिं (*puṣṭiṃ*)—she who has the form of nourishment, or who is the presiding deity of nourishment
+- पिंगलां (*piṃgalāṃ*)—she who has a body of a tawny colour (fair, yellow)
+- पद्ममालिनीं (*padmamālinīṃ*)—she who wears a garland tied of lotus flowers
+- चंद्रां (*caṃdrāṃ*)—she who has a form delightful like the moon
+- हिरण्मयीं (*hiraṇmayīṃ*)—she who is endowed with golden ornaments, or who shines with a body made of gold
+- लक्ष्मीं (*lakṣmīṃ*)—the great goddess Lakṣmī, or the goddess Śrī
+- मे (*me*)—for me (to bring me favour)
+- आवह (*āvaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Śrī Lakṣmī, though she shines with exceeding brilliance, is pleasing to the eye, endowed with a cool radiance. For the anointing of this goddess the elephants stand ready in the lake, having taken water in their trunks. She gives nourishment to all beings, has a body shining with a fair colour, wears a garland of lotus flowers, gleams with a golden form, and like the moon is a delight to all. O Agni, bring to me such a Mahālakṣmī, endowed with these qualities.
+
+In this Ṛk and in the next Ṛk the goddess Śrī is praised as being in the form of Gajalakṣmī. In this Ṛk she is described as dwelling within the moon's disc, and in the next Ṛk as dwelling within the sun's disc. The special matters of the fourteenth Ṛk apply also to this thirteenth Ṛk.
+
+#### Ṛk 14
+
+अथ चतुर्दशी युक्ओं अस्य श्रीश्रीसूक्तस्य चतुर्दर्श्यङ्महामंत्रस्य । जातवेदा ऋषिः । श्रीराज्य लक्ष्मीर्देवता । अनुष्टुप् छंदः । श्रीं बीजं । हं शक्तिः । ह्रीं कीलकं । श्रीराज्य लक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*atha caturdaśī yukoṃ asya śrīśrīsūktasya caturdarśyaṅmahāmaṃtrasya | jātavedā ṛṣiḥ | śrīrājya lakṣmīrdevatā | anuṣṭup chaṃdaḥ | śrīṃ bījaṃ | haṃ śaktiḥ | hrīṃ kīlakaṃ | śrīrājya lakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*)
+
+### Printed p. 324
+
+ओं आद्र्रा० पुष्करिणीं यष्टिं—अंगुष्ठाभ्यां वनुः । ओं सुवर्णां—तर्ज नीभ्यां नमः । ओं हेममालिनीं—मध्यमाभ्यां नमः । ओं सूर्यां हिरण्मयीं अनामिका भ्यां नमः । ओं लक्ष्मी—कनिष्ठिकाभ्यां नमः । ओं जातवेदो म आ वह करतलकरपृष्ठाभ्यां नमः । ओं आर्दां पुष्करिणीं यष्टिं—हृदयाय नमः । ओं हेममालिनीं—शिखाय्कॆ वषट् । ओं सूर्यां हिरण्मयीं—कवचाय हुं । ओं लक्ष्मीं—नेत्रत्रयाय वौषट्। ओं जातवेदो म आवह—अस्त्राय फट् ॥ भूर्भु वस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ (*oṃ ādrrā0 puṣkariṇīṃ yaṣṭiṃ—aṃguṣṭhābhyāṃ vanuḥ | oṃ suvarṇāṃ—tarja nībhyāṃ namaḥ | oṃ hemamālinīṃ—madhyamābhyāṃ namaḥ | oṃ sūryāṃ hiraṇmayīṃ anāmikā bhyāṃ namaḥ | oṃ lakṣmī—kaniṣṭhikābhyāṃ namaḥ | oṃ jātavedo ma ā vaha karatalakarapṛṣṭhābhyāṃ namaḥ | oṃ ārdāṃ puṣkariṇīṃ yaṣṭiṃ—hṛdayāya namaḥ | oṃ hemamālinīṃ—śikhāykè vaṣaṭ | oṃ sūryāṃ hiraṇmayīṃ—kavacāya huṃ | oṃ lakṣmīṃ—netratrayāya vauṣaṭ| oṃ jātavedo ma āvaha—astrāya phaṭ ‖ bhūrbhu vassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖*) पद्मं मणिमयं कुंभमिक्षुचापं च बिभ्रतीं । पुष्पबाणं महालक्ष्मीं ध्यायेद्राज्यप्रदायिनीं ॥ एवं ध्यात्वा जपेल्लक्षं राज्यलक्ष्मीं समश्नुते ॥ (*padmaṃ maṇimayaṃ kuṃbhamikṣucāpaṃ ca bibhratīṃ | puṣpabāṇaṃ mahālakṣmīṃ dhyāyedrājyapradāyinīṃ ‖ evaṃ dhyātvā japellakṣaṃ rājyalakṣmīṃ samaśnute ‖*) **GLOSS**
+
+आद्र्रां यःकरिणीं यष्टिं सुवर्णा० हेममालिनीं । सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥ (*ādrrāṃ yaḥkariṇīṃ yaṣṭiṃ suvarṇā0 hemamālinīṃ | sūryāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+आद्र्रां पूर्वोक्तां यःकरिणीं यष्टिकरां वेत्रहस्तामित्यर्थः । टिलोपश्कांदसः । तद्वतीं दंडकारिणीं दंडकरां वा । यष्टिं दंडरूपां “धर्मदंडस्वरूपिणी” मिति ब्राह्मोक्तेः । सुवर्णां शोभनवर्णां रुक्ष्मरूपिणीं रुक्ष्मिणीं रुक्मदेवतां ना हेममालिनीं हेमविकृतशृंखलादिमालावतीं सूर्यां सूर्य वत्प्रकाशमानां तद्रूपां वा । सिद्धमन्यत् ॥ (*ādrrāṃ pūrvoktāṃ yaḥkariṇīṃ yaṣṭikarāṃ vetrahastāmityarthaḥ | ṭilopaśkāṃdasaḥ | tadvatīṃ daṃḍakāriṇīṃ daṃḍakarāṃ vā | yaṣṭiṃ daṃḍarūpāṃ “dharmadaṃḍasvarūpiṇī” miti brāhmokteḥ | suvarṇāṃ śobhanavarṇāṃ rukṣmarūpiṇīṃ rukṣmiṇīṃ rukmadevatāṃ nā hemamālinīṃ hemavikṛtaśṛṃkhalādimālāvatīṃ sūryāṃ sūrya vatprakāśamānāṃ tadrūpāṃ vā | siddhamanyat ‖*)
+
+##### Gist of the bhāṣya
+
+आद्र्रां (*ādrrāṃ*) is she who was spoken of before. यःकरिणीं (*yaḥkariṇīṃ*) means she who has a staff (yaṣṭi) in her hand, that is, a cane in her hand; or she who holds a staff, or has a staff in hand. यष्टिं (*yaṣṭiṃ*): of the form of a staff, according to the Brāhma statement धर्मदंडस्वरूपिणी (*dharmadaṃḍasvarūpiṇī*). सुवर्णां (*suvarṇāṃ*): of beautiful colour, who has the form of gold (rukma), the goddess of gold. **NOTE** हेममालिनीं (*hemamālinīṃ*): she who has a garland, chain and the like, fashioned of gold. सूर्यां (*sūryāṃ*): she who shines like the sun, or has his form. The rest is established.
+
+**Bhāṣya of Pṛthvīdhara**
+
+हे अग्ने आद्र्रां पूर्वोक्तां पुष्करिणीं करिहस्ताग्रवतीं यष्टिं पाकशालादिदंडरूपां, इष्टिमितिपाठे यागस्वरूपां पिंगळां कद्रूवर्णां पद्ममालिनीं पूर्वोक्तरूपां चंद्रां संतोषकरीं चंद्रमंडलवासिनीर चंद्ररूपां कर्पूरधारिणीं वा हिरण्मयीं सुवर्णमयीं धनरूपां धनप्रचुरां वा लक्ष्मीं मे मदर्थं ममेति पाठे मत्संबंधिप्रयोजनाय आवह ॥ (*he agne ādrrāṃ pūrvoktāṃ puṣkariṇīṃ karihastāgravatīṃ yaṣṭiṃ pākaśālādidaṃḍarūpāṃ, iṣṭimitipāṭhe yāgasvarūpāṃ piṃgaḷāṃ kadrūvarṇāṃ padmamālinīṃ pūrvoktarūpāṃ caṃdrāṃ saṃtoṣakarīṃ caṃdramaṃḍalavāsinīra caṃdrarūpāṃ karpūradhāriṇīṃ vā hiraṇmayīṃ suvarṇamayīṃ dhanarūpāṃ dhanapracurāṃ vā lakṣmīṃ me madarthaṃ mameti pāṭhe matsaṃbaṃdhiprayojanāya āvaha ‖*)
+
+##### Gist of the bhāṣya
+
+O Agni, आद्र्रां (*ādrrāṃ*) is she spoken of before. पुष्करिणीं (*puṣkariṇīṃ*): she who has elephant-trunk tips. यष्टिं (*yaṣṭiṃ*): of the form of a staff such as is used in a kitchen and the like; in the reading इष्टिमितिपाठे (*iṣṭimitipāṭhe*), of the form of a sacrifice. पिंगळां (*piṃgaḷāṃ*): of the colour of kadrū (tawny). पद्ममालिनीं (*padmamālinīṃ*): of the form spoken of before. चंद्रां (*caṃdrāṃ*): she who gives delight, who dwells in the moon's disc, who has the form of the moon, or who bears camphor. हिरण्मयीं (*hiraṇmayīṃ*): made of gold, of the form of wealth, or abounding in wealth. लक्ष्मीं (*lakṣmīṃ*). मे (*me*): for my sake; in the reading ममेति पाठे (*mameti pāṭhe*), for a purpose connected with me; bring her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni
+- आद्र्रां (*ādrrāṃ*)—of cool nature, or endowed with a cool radiance
+- यष्टिं यःकरिणीं (*yaṣṭiṃ yaḥkariṇīṃ*)—she who holds a cane or staff (the staff of dharma) in her hand
+- सुवर्णां (*suvarṇāṃ*)—she who has a beautiful colour
+- हेममालिनी (*hemamālinī*)—she who wears a garland of flowers made of gold
+- सूर्यां (*sūryāṃ*)—she who shines with great brilliance like the sun, or who has the form of the sun
+
+### Printed p. 325
+
+- हिरण्मयिं (*hiraṇmayiṃ*)—she who is adorned with golden ornaments, or who shines with a body made of gold
+- लक्ष्मीं (*lakṣmīṃ*)—the goddess called Mahālakṣmī
+- मे (*me*)—to my side
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring to my side the goddess called Mahālakṣmī, who is of cool nature, or endowed with a cool radiance like the moon; who holds a staff in her hand; who is of beautiful colour; who, wearing a garland of golden flowers, shines with excess of splendour like the sun, or has the form of the sun; and who is adorned with golden ornaments, or has a beautiful golden body.
+
+##### विशेषविषयगळु (Special Topics)
+
+श्रीशतकी (*śrīśatakī*) श्रीतत्त्व (*śrītattva*)
+
+ममकारो मदश्चेति वर्तेते पार्श्वयोर्द्वयोः । देवते गजरूपिण्य श्रीदेवीमभिषिंचतः ॥ तयोः शुंडाग्रयोर्भात आशाप्रीत्याह्वयावुभौ । सुवर्णकलश्‌ ताभ्यां तृप्तिपूर्णांभसान्वहं ॥ हृत्पद्मवासिनी देवी चिद्रूपिण्यभिषिच्यते । देहे गृहात्मके विष्टेत्सहानंदेन विष्णुना ॥ एतावान् गजलक्ष्म्यास्तु विभूतीर्विस्तरो ध्रुवः । तां स्मरेदभिषेकाद्र्रा० पुष्टिदां पुष्टिरूपिणीं ॥ (*mamakāro madaśceti vartete pārśvayordvayoḥ | devate gajarūpiṇya śrīdevīmabhiṣiṃcataḥ ‖ tayoḥ śuṃḍāgrayorbhāta āśāprītyāhvayāvubhau | suvarṇakalaś tābhyāṃ tṛptipūrṇāṃbhasānvahaṃ ‖ hṛtpadmavāsinī devī cidrūpiṇyabhiṣicyate | dehe gṛhātmake viṣṭetsahānaṃdena viṣṇunā ‖ etāvān gajalakṣmyāstu vibhūtīrvistaro dhruvaḥ | tāṃ smaredabhiṣekādrrā0 puṣṭidāṃ puṣṭirūpiṇīṃ ‖*)
+
+रुक्माभां स्वप्नधीगम्यां सुवर्णां स्वर्णमालिनीं । सूर्यामैश्वर्यरूपां च सावित्रीं सूर्यरूपिणीं ॥ आत्मसंज्ञां च चिद्रूपां ज्ञानदृष्टिस्वरूपिणीं । चक्षुःप्रकाशबां चैव हिरण्यप्रचुरां तथा ॥ स्वर्णात्मनाविर्भूतां च जातवेदो म आवह । ऋचमेतां जपेन्नित्यं पश्यन्नर्कं दिवा द्विजः ॥ (*rukmābhāṃ svapnadhīgamyāṃ suvarṇāṃ svarṇamālinīṃ | sūryāmaiśvaryarūpāṃ ca sāvitrīṃ sūryarūpiṇīṃ ‖ ātmasaṃjñāṃ ca cidrūpāṃ jñānadṛṣṭisvarūpiṇīṃ | cakṣuḥprakāśabāṃ caiva hiraṇyapracurāṃ tathā ‖ svarṇātmanāvirbhūtāṃ ca jātavedo ma āvaha | ṛcametāṃ japennityaṃ paśyannarkaṃ divā dvijaḥ ‖*)
+
+पद्माकरे तटाके वा प्रत्यहं त्रिसहस्रकं । मंडलत्रयपर्यंतं व्रतदीक्षापरायणः ॥ सुवासिनीशतं पूज्यं सालंकारं सदक्षिणं । (*padmākare taṭāke vā pratyahaṃ trisahasrakaṃ | maṃḍalatrayaparyaṃtaṃ vratadīkṣāparāyaṇaḥ ‖ suvāsinīśataṃ pūjyaṃ sālaṃkāraṃ sadakṣiṇaṃ |*)
+
+### Printed p. 326
+
+सिद्धौ गजांतरैश्वर्यमारोग्यं भाग्यमेव च ॥ सर्वार्थसिद्धिमंते तु सूर्यसायुज्यमाप्नुयात् । मैत्र्या दिवृत्तिभिश्चाद्र्रा० विराजःकरुणां श्रियं ॥ दयाद्रार्रा० वेत्रहस्तां च व्रतदंडस्वरूपिणीं । पिंगळाभां प्रसन्नास्यां पद्ममालाधरां तथा ॥ चंद्रस्थां चंद्ररूपां च चंद्रां चंद्रधरां तथा । हिरण्मयां महालक्ष्मीमृचमेतां जपेन्निशि ॥ (*siddhau gajāṃtaraiśvaryamārogyaṃ bhāgyameva ca ‖ sarvārthasiddhimaṃte tu sūryasāyujyamāpnuyāt | maitryā divṛttibhiścādrrā0 virājaḥkaruṇāṃ śriyaṃ ‖ dayādrārrā0 vetrahastāṃ ca vratadaṃḍasvarūpiṇīṃ | piṃgaḷābhāṃ prasannāsyāṃ padmamālādharāṃ tathā ‖ caṃdrasthāṃ caṃdrarūpāṃ ca caṃdrāṃ caṃdradharāṃ tathā | hiraṇmayāṃ mahālakṣmīmṛcametāṃ japenniśi ‖*)
+
+आरभ्य शुक्लपंचम्यामास्वेव दशरात्रिषु । प्राप्तैकोत्तरवृद्धैव जपेद्वतपरायणः ॥ द्वात्रिंशन्वासपर्यंतं पुरश्चरणमुच्यते । चंद्रमंडलमालक्ष लक्ष्मीं श्रीललितांबिकां ॥ सिद्धौ तु सार्वभौमत्वं वशीकरणमेव च । पूर्णानंदप्रतिष्ठां च कीर्तिभोगं महद्दनं । प्राप्यांते चंद्रसायुज्यं प्राप्नोत्येव न संशयः ॥ (*ārabhya śuklapaṃcamyāmāsveva daśarātriṣu | prāptaikottaravṛddhaiva japedvataparāyaṇaḥ ‖ dvātriṃśanvāsaparyaṃtaṃ puraścaraṇamucyate | caṃdramaṃḍalamālakṣa lakṣmīṃ śrīlalitāṃbikāṃ ‖ siddhau tu sārvabhaumatvaṃ vaśīkaraṇameva ca | pūrṇānaṃdapratiṣṭhāṃ ca kīrtibhogaṃ mahaddanaṃ | prāpyāṃte caṃdrasāyujyaṃ prāpnotyeva na saṃśayaḥ ‖*)
+
+##### Anuvāda
+
+Two deities named Mamakāra and Mada, in the form of elephants, stand on the left and right sides of the goddess Śrī and, having filled with the water of contentment, in their trunks, two golden pots named Hope (āśā) and Love (prīti), anoint every day the goddess Śrī, who dwells in the lotus of the heart, whose nature is consciousness (cit), and who sits on a seat in the house that is the body together with Viṣṇu, whose nature is bliss. This splendour is said to be the particular glory of Gajalakṣmī. This Gajalakṣmī is to be meditated on in the following way: this goddess has a body drenched with the water of the anointing; as the presiding deity of nourishment she gives nourishment to all; she shines with a radiance pure as silver; she appears in dreams; shining with the radiance of gold she wears a garland made of gold; she is radiant like the sun and is the embodiment of prosperity; she has the nature of the Self, the form of consciousness, and the nature of the eye of knowledge; she gives light to the eyes; she has a body radiant with gold, and has come forth from a body of gold. One should meditate thus: O Agni, bring to my side this deity called Gajalakṣmī.
+
+Meditating in this way, standing in water in a lake or a pond and looking at the sun, one should repeat this Ṛk every day three thousand times. Having taken up the vow and initiation for three maṇḍalas (a maṇḍala means forty-eight days) in this manner, and repeated it,
+
+### Printed p. 327
+
+at the end one should honour and gratify a hundred married women (suvāsinī) with clothes, ornaments and gifts. By doing so the mantra is accomplished, and one obtains elephant-wealth and the other kinds of prosperity, health and good fortune, and success in all undertakings, and enjoys happiness. At the end, at the dissolution of the body, he also attains the excellent state called union with the sun (sūryasāyujya).
+
+While repeating this mantra one should meditate on the goddess Śrī as endowed, towards her devotees, with qualities such as affection, tenderness, love and a gaze moist with compassion; as holding a staff in her hand, in the form of the staff of dharma, so that people observe the rules; as having a body of fair radiance and a form delightful like the moon; as bearing the disc of the moon; and as being the form of Mahālakṣmī, resplendent with a body of golden form. One should repeat this Ṛk at night. A man who wishes to perform the preparatory rite (puraścaraṇa) should begin the repetition on the fifth day (pañcamī) of the bright fortnight, and from there for ten days, every night, increasing by one thousand each time, repeat up to the full-moon day. On that day, looking at the disc of the moon, he should imagine that Śrī Mahālakṣmī, famed as Śrī Lalitāmbikā, dwells in that moon-disc. In this way, for twelve months, in each month from the fifth day up to the full-moon day, he should repeat. This way of repeating is named the rule of puraścaraṇa. If the course of repetition done by the rule of puraścaraṇa succeeds, the practiser becomes a universal sovereign. All become subject to him. Complete bliss, fame, the means of enjoyment and abundance of wealth are obtained; having enjoyed all enjoyments in this world for a long time, at the dissolution of the body he attains the great state named union with the moon (candrasāyujya).
+
+Here ends the explanation of the meaning of the fourteenth Ṛk.
+
+#### Ṛk 15
+
+ओं अस्य श्री श्रीसूक्तस्थ ऋक्पंचदशीमहामंत्रस्य । अंगिरा ऋषिः । श्री लक्ष्मी र्देवता ! अनुष्टुप् छंदः । अथवा कुबेर ऋषिः । श्रीमहालक्ष्मीर्देवता ! प्रस्तार पंक्तिशृंदः। ह्रीं बीजं। श्रीं शक्तिः । ह्रीं कीलकं । श्री राज्यसिंहासनस्थमहालक्ष्मीप्रसाद सिद्ध्यर्थे जपे विनियोगः ॥ (*oṃ asya śrī śrīsūktastha ṛkpaṃcadaśīmahāmaṃtrasya | aṃgirā ṛṣiḥ | śrī lakṣmī rdevatā ! anuṣṭup chaṃdaḥ | athavā kubera ṛṣiḥ | śrīmahālakṣmīrdevatā ! prastāra paṃktiśṛṃdaḥ| hrīṃ bījaṃ| śrīṃ śaktiḥ | hrīṃ kīlakaṃ | śrī rājyasiṃhāsanasthamahālakṣmīprasāda siddhyarthe jape viniyogaḥ ‖*) ओं ह्रीं तां म आवह—अंगुष्ठाभ्यां नमः। ओं श्रीं जातवेदः-तर्जनीभ्यां नमः । ओं ह्रीं लक्ष्मीमनपगामिनीं— मध्यमाभ्यां नमः ! यस्यां हिरण्यं— अनामिकाभ्यां—नमः। ओं श्रीं प्रभूतं गावो दास्योऽश्वान्—कनिष्ठिकाभ्यां नमः । (*oṃ hrīṃ tāṃ ma āvaha—aṃguṣṭhābhyāṃ namaḥ| oṃ śrīṃ jātavedaḥ-tarjanībhyāṃ namaḥ | oṃ hrīṃ lakṣmīmanapagāminīṃ— madhyamābhyāṃ namaḥ ! yasyāṃ hiraṇyaṃ— anāmikābhyāṃ—namaḥ| oṃ śrīṃ prabhūtaṃ gāvo dāsyo 'śvān—kaniṣṭhikābhyāṃ namaḥ |*)
+
 ---
 
-**Progress note:** Done through printed p. 320. Pariśiṣṭa Śrīsūkta Ṛk 11, Ṛk 12 with Sūktārthasaṃgraha, pp. 315-320
+**Progress note:** Done through printed p. 327. Śrīsūkta Ṛk 12 end, Ṛk 13, 14 with Special Topics and Anuvāda, start of Ṛk 15, pp. 321-327
