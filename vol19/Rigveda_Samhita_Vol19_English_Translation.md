@@ -17799,6 +17799,270 @@ The chiefest of these (our praises) proceed to the ocean-like sun : that chamber
 
 > स हि क्ष॒त्रस्य॑ मन॒सस्य॒ चित्ति॑भिरेवानव॒दस्य॑ यज॒तस्य॒ सध्रेः॑ ।
 
+### Printed p. 483
+
+> अवत्सारस्य स्पृणवाम रण्वभिः शविष्ठं वाजं विदुषा
+> चिदर्ध्यं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । क्षत्रस्य । मनसस्य । चित्तिभिः । एववदस्य । यजतस्य । सध्रेः ।  
+> अवत्सारस्य । स्पृणवाम । रण्वभिः । शविष्ठं । वाजं । विदुषा । चित् । अर्थ्यं ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमपि सौरी । स हि स खलु सविता देवः सर्वैः स्तुत्यः । सर्वकामपूरक
+> इत्यर्थः । हिशब्दो लोकवेदयोः प्रसिद्धिद्योतकः । तस्मात्सकाशात् । अत्रान्ये च
+> ऋषयोऽत्र दृष्टलिंगा इत्युक्तत्वात् क्षत्रादय ऋषयः । क्षत्रस्य मनसस्यॆवावदस्य
+> यजतस्य सध्रेरवत्सारस्य चैषामृषीणामस्माकं रण्वभी रमणीयाभिश्चित्तिभिः स्पृणवामु । पूरयाम । किं शविष्ठं वाजमतिशयेन बलवदन्नं । अन्नं वै वाज इति
+> श्रुतेः । विदुषा चिद्विपश्चितार्ध्यं समर्धनीयं स्पृणवामु । क्षत्रादयो वयमिति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk too is addressed to Sūrya. He, the god Savitṛ, is to be praised by all; that is, he is the fulfiller of all desires. The particle हि (*hi*) shows that this is well known in the world and in the Veda. From him, and here also the other seers, since it is said that the seers saw the marks here, namely Kṣatra and the rest, are named: Kṣatra, Manasa, Evāvada **NOTE**, Yajata, Sadhri and Avatsāra. "We would fill", that is, we would satisfy, with the pleasing thoughts of these seers; what do we fill? शविष्ठं वाजं (*śaviṣṭhaṃ vājaṃ*), food that is exceedingly strong, since the Śruti says that food is वाज (*vāja*). Food that is to be honoured even by the wise, that is, food that is to be duly increased, we would fill; the construction is "we, Kṣatra and the rest".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहि (*sahi*)—this very Āditya (is to be praised by all)
+- क्षत्रस्य (*kṣatrasya*)—of Kṣatra
+- मनसस्य (*manasasya*)—of Manasa
+- एवावदस्य (*evāvadasya*)—of Evāvada
+- यजतस्य (*yajatasya*)—of Yajata
+- सध्रेः (*sadhreḥ*)—of Sadhri
+- अवत्सारस्य (*avatsārasya*)—of Avatsāra (of all these seers)
+- रण्वभिः (*raṇvabhiḥ*)—pleasing
+- चित्तिभिः (*cittibhiḥ*)—together with the meditative minds
+- विदुषा चित् (*viduṣā cit*)—even by the wise
+- अर्ध्यं (*ardhyaṃ*)—that which is to be honoured
+- शविष्ठं (*śaviṣṭhaṃ*)—exceedingly strong
+- वाजं (*vājaṃ*)—food
+- स्पृणवाम (*spṛṇavāma*)—let us fill fully
+
+##### भावार्थ (Bhāvārtha)
+
+This Āditya is to be praised by all. With the very meditative mind with which all the seers, Kṣatra, Manasa, Evāvada, Sadhri, Yajata, Avatsāra and the rest, expressed their devotion, with that mind and with all those feelings of devotion, let us fully obtain food that is to be honoured even by the wise and that is exceedingly strong.
+
+### Printed p. 484
+
+##### English translation
+He verily (is to be glorified): let us, with the pleasant thoughts of Kshtra, Manasa, Avada, Yajata, Sadhri and Avatsara, fill up the invigorating food, (the portion) to be shared by the wise.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शै॒न आ॑सा॒मदि॑तिः क॒क्ष्यो॒३॒॑३मदो॑ वि॒श्ववा॑रस्य यज॒तस्य॑ मा॒यिनः॑।  
+> सम॒न्यम॑न्यमर्थयं॒त्येत॑वे वि॒दुर्वि॒षाणं॑ परि॒पान॒मंति॒ ते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्येनः । आसां । अदितिः।कक्ष्यः । मदः । विश्ववारस्य । यजतस्य । मायिनः ।  
+> सं । अन्यंऽअन्यं।अर्थयंति । एतवे । विदुः । विसानं । परिपानं । अंति । ते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मददेवत्येयं । विश्ववारादीनां त्रयाणामृषीणां स्वभूत आसामपां
+> सोमरसलक्षणानां मदः श्येनः शंसनीयगमनः शीघ्रं पातृसकाशं गंतादितिरदीनोऽतिसमृद्धः कक्ष्यः कक्ष्यपूरकश्च भवतीति शेषः । ते विश्ववारादयः सत्ते प्रवृत्ता
+> एतवे सोमं प्राप्तुं तत्पानायान्यमन्यं परस्परं समर्थयंति।याचंतेऽनुज्ञां।
+> ते विषाणं विशेषेण मदस्य दातारं परिपानमंत्यंतिके विदुः । जानंति लभंते वा ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Mada, intoxication. Of the waters, that is, the Soma juices, that belong to the three seers Viśvavāra and the rest, the exhilaration is श्येनः (*śyenaḥ*), of praiseworthy going, quickly going to the drinker; अदितिः (*aditiḥ*), not poor, exceedingly rich; and कक्ष्यः (*kakṣyaḥ*), one that fills the girth; "becomes" is to be supplied. Those seers, Viśvavāra and the rest, engaged in the sacrifice, to obtain Soma and to drink it, mutually entreat each other, that is, ask for permission. They know or obtain close at hand the draught that is a special giver of intoxication.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववारस्य (*viśvavārasya*)—of Viśvavāra
+- यजतस्य (*yajatasya*)—of Yajata
+- मायिनः (*māyinaḥ*)—of the one called Māyi (belonging to all these seers)
+- आसां (*āsāṃ*)—of the Soma juice
+- मदः (*madaḥ*)—the exhilaration
+- श्येनः (*śyenaḥ*)—is of praiseworthy going
+- अदितिः (*aditiḥ*)—exceedingly rich
+- कक्ष्यः (*kakṣyaḥ*)—and has satisfaction that fills to the throat
+- अन्यमन्यं (*anyamanyaṃ*)—these seers, one to another
+- सं अर्थयंति (*saṃ arthayaṃti*)—ask for permission
+- ते (*te*)—they
+- विषाणां (*viṣāṇāṃ*)—exceedingly productive of intoxication
+- परिपानं (*paripānaṃ*)—this drinking of Soma
+- अंती (*aṃtī*)—close at hand
+- विदुः (*viduḥ*)—obtain
+
+### Printed p. 485
+
+##### भावार्थ (Bhāvārtha)
+
+The exhilaration of the Soma juice that belongs to the seers Viśvavāra, Yajata and Māyi is praiseworthy, exceedingly rich, and gives satisfaction to the very throat. For this same Soma-drinking these seers mutually ask each other for permission. Then they immediately obtain, and drink, this Soma, which is exceedingly productive of intoxication.
+
+##### English translation
+Swift is the excessive and girth-distending inebriation of Vishwavara, Yajata and Mayin : (by dr nking) of these (juices) they urge one another to drink : they find the copious draught the promt giver of intoxication.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒दा॒ पृ॒णो य॑ज॒तो वि द्विषो॑ वधीद्बाहुवृ॒क्तः श्रु॑त॒वित्तर्यो॑ वः॒ सचा॑ ।  
+> उ॒भा स वरा॒ प्रत्ये॑कि॒ भाति॑ च॒ यदीं॑ ग॒णं भज॑ते सुप्र॒याव॑भिः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सदा पृणः । यजतः । वि । द्विषः । वधीत् । बाहुवृक्तः । श्रुतवित् । तर्यः । वः ।  
+> सचा ।  
+> उभा । सः । वरा । प्रति । एति । भाति । च । यत् । ईं । गणं । भजते । सुप्रयावभिः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सदापृणः सर्वदा दानशील एतन्नामा यजतो यष्टा च बाहुवृक्तो
+> चाहुभ्यां वृक्तदर्भश्च श्रुतनित् श्रुतस्य वेत्ता च तर्यश्च । एतेषां पंचानां
+> परस्सरापेक्षया प्रत्येकमेकवचनं । स स ऋषिर्द्विषः शत्रून्विवधीत् हिंस्यात् वो
+
+### Printed p. 486
+
+> युष्माकं सचा सहितः । युष्माभिः सहित इत्यर्थः । स ऋषिर्वरा श्रेष्ठावुभोभाविहलोकपरलोकविषयौ कामौ प्रत्येकति । अभिगच्छति । भाति च । यद्यस्मादीमेनं गणं
+> देवसंघं सुप्रयावभिः सुष्टु प्रकर्षेण मिश्रयद्भिः स्तोत्रैर्भजते तस्मादेवं
+> भातीति ।
+
+##### Gist of the bhāṣya
+
+सदापृणः (*sadāpṛṇaḥ*) is one who is always generous, a seer of this name; यजतः (*yajataḥ*) is the sacrificer; बाहुवृक्तः (*bāhuvṛktaḥ*) is one whose sacred grass is cut by his arms **NOTE**; श्रुतवित् (*śrutavit*) is the knower of what is heard (the Veda), **NOTE**; and तर्यः (*taryaḥ*) is a seer of that name. The singular is used for each of these five in mutual relation. Each such seer would destroy the enemies; वः (*vaḥ*) means "of you", and सचा (*sacā*) means "together", that is, together with you. That seer reaches the two most excellent desires, those relating to this world and to the next, and shines, because he serves this host of the gods with praises that are well and abundantly mingled with offerings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सदापृणः (*sadāpṛṇaḥ*)—Sadāpṛṇa
+- यजतः (*yajataḥ*)—Yajata
+- बाहुवृक्तं (*bāhuvṛktaṃ*)—Bāhuvṛkta
+- श्रुतवित् (*śrutavit*)—Śrutavit
+- तर्यः (*taryaḥ*)—Tarya (all these seers, individually)
+- वः (*vaḥ*)—with you
+- सचा (*sacā*)—united
+- द्विषः (*dviṣaḥ*)—the enemies
+- वि वधीत् (*vi vadhīt*)—may they destroy utterly
+- यत् (*yat*)—which seer
+- ईं गणं (*īṃ gaṇaṃ*)—this host of gods
+- सुप्रयावभिः (*suprayāvabhiḥ*)—with oblations joined with praises
+- भजते (*bhajate*)—worships
+- सः (*saḥ*)—that seer
+- वरा (*varā*)—the most excellent
+- उभा (*ubhā*)—and belonging to both worlds, this and the next, the desired objects
+- प्रत्येति (*pratyeti*)—obtains
+- भाति च (*bhāti ca*)—and shines
+
+##### भावार्थ (Bhāvārtha)
+
+May Sadāpṛṇa, Yajata, Bāhuvṛkta, Śrutavit and Tarya, all these seers, individually united with you, utterly destroy the enemies. The seer who worships this host of gods with oblations mingled with praises obtains the most excellent desired objects, belonging to both worlds, this and the next, and shines.
+
+##### English translation
+May Sadaprina, Yajata, Bahuvrikta, Shrutavit, Tarya, associated, with you, destroy your foes: the Rishi obtains his desires in both (worlds), and shines brightly, whenever he adores with well-mingled (offerings and praises) the host (of heaven).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒तं॒भ॒रो यज॑मानस्य॒ सत्प॑ति॒र्विश्वा॑सा॒मूधः॒ स धि॒यामु॒दंच॑नः ।
+
+### Printed p. 487
+
+> भरद्धेनू रसवच्छित्रिये पयोs नुब्रुवाणो अध्येति न  
+> स्वपन् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतंभरः । यजमानस्य । सत्पतिः।विश्वासां । ऊधः । सः । धियां । उत्अंचनः ।  
+> भरत् । धेनुः । रसवत्।शिश्रिये । पयः । अनुब्रुवाणः । अधि । एति । न । स्वपन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमानस्यावत्सारस्य मम सुतंभरो यागनिर्वाहक एतन्नामा ऋषिः
+> सत्पतिः सतां विद्यमानानां फलानां पालयिता होता भवतीत्यर्थः । स च विश्वासां
+> धियां सर्वेषां कर्मणामूध उद्धततरं फलमुदंचन ऊर्ध्वमुद्गमयिता ।
+> फलप्रापक इत्यर्थः । धेनुर्गौ रसवत्सारवत्पयो भरत् । अहरत् । तत्र पयः शिश्रिये ।
+> श्रयति चास्य सामर्थ्यात् । तत्सर्वमनुब्रुवाणोऽनुक्रमेण संकीर्तयन् न स्वपन्
+> स्वापमकुर्वन् अनवरतमध्येति । स्मरत्यवत्सारः । सुतंभरस्तादृश इति ॥
+
+##### Gist of the bhāṣya
+
+सुतंभरः (*sutaṃbharaḥ*) is the conductor of the sacrifice for me, Avatsāra, the sacrificer; he is a seer of that name. He is सत्पतिः (*satpatiḥ*), the protector of the fruits that exist; that is, he becomes the Hotṛ. He is the one who brings up on high the udder, that is, the lofty fruit, of all the acts (धियां (*dhiyāṃ*)); that is, he is the one who obtains the fruit. The cow (धेनुः (*dhenuḥ*)) brought juicy, essential milk; there the milk was resorted to, and by implication it resorts to him. Reciting all that in order, not sleeping, that is, without making sleep, he studies without interruption; Avatsāra remembers; Sutaṃbhara is such.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजमानस्य (*yajamānasya*)—for the sacrificer (named Avatsāra)
+- सुतंभरः (*sutaṃbharaḥ*)—the seer called Sutaṃbhara
+- सत्पतिः (*satpatiḥ*)—is in the form of the Hotṛ
+- सः (*saḥ*)—he
+- विश्वासां (*viśvāsāṃ*)—all
+- धियां (*dhiyāṃ*)—the acts
+- ऊधः (*ūdhaḥ*)—the fruits
+- उदञ्ञानः (*udaññānaḥ*)—is the one who makes them arise
+- धेनुः (*dhenuḥ*)—the cow
+- रसवत् (*rasavat*)—juicy
+- पयः (*payaḥ*)—milk
+- भरत् (*bharat*)—provides
+- शिश्रिये (*śiśriye*)—(it) is distributed
+- अनुब्रुवाणः (*anubruvāṇaḥ*)—reciting these very things in order
+- न स्वपन् (*na svapan*)—without being at all idle
+- अध्येति (*adhyeti*)—(Sutaṃbhara) studies (meditates)
+
+##### भावार्थ (Bhāvārtha)
+
+For the sacrificer called Avatsāra, the seer called Sutaṃbhara is in the form of the Hotṛ. He causes the fruit of all acts to arise. The cow provides juicy milk. Reciting these very things in order, without being at all idle, Sutaṃbhara studies.
+
+##### English translation
+Sutambhara is the ministrant priest of the institutor of the sacrifice, the causer of the upward ascent of all holy rites : the milch-cow offers juicy
+
+### Printed p. 488
+
+(milk), the milk is distributed : announcing this in order, (Avatsara) studies the holy texts) without repose.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो जा॒गार॒ तमृचः॑ कामयंते॒ यो जा॒गार॒ तमु॒ ॑ 
+> सामानि यंति ।  
+> यो जा॒गार॒ तम॒यं सोम॑ आह॒ तवा॒हम॑स्मि स॒ख्ये  ॑
+> न्योकाः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । जागार। तं । ऋचः । कामयंते । यः । जागार। तं । ऊं इति । सामानि ।  
+> यंति ।  
+> यः । जागार । तं । आयं । सोमः । आह । तव । आहं । अस्मि । सख्ये । निओकाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो देवो जागार सर्वदा विनिद्रो जागरूको गृहे वर्तते तम्मृचः
+> सर्वशास्त्रात्मिकाः कामयंते । यश्च जागार तमु तमेव सामानि स्तोत्ररूपाणि
+> यंति । प्राप्नुवंति । यो जागार तमयमभिषुतः सोम आह वक्ति मां स्वीकुर्विति ।
+> हे अग्ने तादृशस्य तव सख्ये समानख्याने हितकरणे न्यूका नियतस्था नोऽहमस्मि ।
+> भवामि ॥
+
+##### Gist of the bhāṣya
+
+The god who is always awake, sleepless and vigilant in the house, him the Ṛks, which embody all the śāstras, desire. And him who is awake, him alone, the Sāmans, which are in the form of hymns, go to and reach. Him who is awake this pressed Soma addresses: "Accept me." O Agni, in the friendship of you, such as you are, in doing what is good in the same renown, I am firmly established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the god who
+- जागार (*jāgāra*)—is always awake
+- तं (*taṃ*)—him
+- ऋचः (*ṛcaḥ*)—the Ṛk mantras
+- कामयंते (*kāmayaṃte*)—desire
+- यः (*yaḥ*)—the god who
+- जागार (*jāgāra*)—is awake
+- तमु (*tamu*)—that same god
+- सामानि (*sāmāni*)—the praises in the form of Sāmans
+- यंति (*yaṃti*)—go and reach
+- यः (*yaḥ*)—the god who
+- जागार (*jāgāra*)—is awake
+- तव सख्यॆ (*tava sakhyè*)—in friendship with you
+- न्योकाः (*nyokāḥ*)—having a fixed place
+- अहं (*ahaṃ*)—I
+- अस्मि (*asmi*)—am, (says)
+- तं (*taṃ*)—that same Agni
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- आह (*āha*)—says
+
 ---
 
-**Progress note:** Done through printed p. 482. pp. 477-482: end of Ṛk 6 discussion, Ṛk 7-9, start of Ṛk 10
+**Progress note:** Done through printed p. 488. pp. 483-488: Ṛk 10-14
