@@ -16095,6 +16095,184 @@ Maṇḍala 6. Anuvāka 1. Sūkta 9. Aṣṭaka 4. Adhyāya 5. Varga 11. Number 
 
 The night-time, possessed of darkness, and the day, possessed of its own radiance, under the command of Vaiśvānara, lighting up the world, move in turns by their revolutions, which are visible to all,
 
+### Printed p. 478
+
+moving about in alternation. Agni, of the form of Vaiśvānara, as soon as he is born, shining like a lord, has completely destroyed the darkness with his radiance.
+
+##### English translation
+The dark day and the light day revolve alternate, affecting (the world) by their recognizable (properties): Agni Vaishwanara, manifested like a prince, dispels darkness by his lustre.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहं तंतुं॒ न वि जा॑ना॒म्योतुं॒ न यं वयं॑ति सम॒रेऽत॑मानाः।  
+> कस्य॑ स्वित्पु॒त्र इ॒ह वक्त्वा॑नि प॒रो व॑दा॒त्यव॑रेण पि॒त्रा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । तंतुं । न । वि । जानामि । ओतुं । न । यं । वयंति । संअरे । अतमानाः ।  
+> कस्य । स्वित् । पुत्रः । इह । वक्त्वानि । परः । वदाति । अवरेण । पित्रा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वानरस्य महत्त्वमाख्यास्यन्नृषिस्तदर्थं यज्ञं वस्त्रात्मकतया रूपयन्
+> तस्य दुर्ज्ञानत्वमनया प्रतिपादयतीति यज्ञवादिनो मन्यंते । तंतुं तंतवः
+> पटस्य प्रागायतानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्यादीनि छंदांसि
+> स्तुतशस्त्राणि च । तान्यहं न वि जानामि । तथौतुं । ऒतवस्तिरश्चीनानि सूत्राणि । तानि
+> चात्र यजूंष्याध्वर्यवाणि कर्माणि च । तान्यहं न वि जानामि । आपि चैतदुभयसाध्यं तं पटं यज्ञलक्षणं न वि जानामि यं पटं यज्ञलक्षणं समरे संगमने
+> देवयजनेतमानाः सततं चेष्टमाना ऋत्तिजो वयंति तंतूनोतूंश्च
+> संतन्वंति । वस्त्ररूपेण निष्पादयंतीत्यर्थः । इहास्मिन् लोके कस्य स्वित् । स्विदिति
+> वितर्कॆ । कस्य खलु पुत्रो मनुष्यो वक्तानि वक्तव्यानि तानीमानि परः परस्ताद-
+
+##### Gist of the bhāṣya
+
+The sacrificialists hold that the seer, wishing to proclaim the greatness of Vaiśvānara, here pictures the sacrifice as a cloth and so shows how hard it is to know. The "tantu", the threads, are the extended threads of the cloth, the warp; for the cloth that is the sacrifice these are the metres such as Gāyatrī and the stuta-śastras. These, he says, "I do not know". Likewise the "otu": the woof, the threads laid across; here these are the Yajus mantras and the acts of the Adhvaryu. These too he does not know. Moreover, he does not know the cloth, the form of the sacrifice, that results from both, the cloth which the priests, "atamānāḥ", that is, constantly exerting themselves at the "samara", the meeting in the place of worship of the gods, weave, that is, they spin out warp and woof and produce them in the form of a cloth. "Kasya svit": here in this world; "svit" is in the sense of doubt. Of whom indeed the son, a man, would speak the things that are to be spoken, those that belong to the yonder world:
+
+### Printed p. 479
+
+> मुष्मिन् लोके वर्तमानो यः सूर्यस्तस्य पित्रावरेणावस्तादस्मिन् लोके
+> वर्तमानेन वैश्वानराग्निनानुशिष्टः सन् वदाति । वदेत् । न कश्चिदपि प्रवदितुं
+> शक्तोतीत्यर्थः ॥ एतच्च संप्रदायविद्धिरुक्तं । वैश्वानरस्य पुत्रोऽसौ परस्ताद्विदि
+> यः स्थितः । छंदांस्यध्वरवस्त्रस्य स्तुतशस्त्राणि तंतवः ॥ यजूंषि चेष्टाश्चातुः
+> स्याद्वस्त्रं वातव्यमध्यरः । परः परः स्थितः सूर्यः पिताग्निः पार्थिवो मत इति ॥
+> रूपकतया जगत्सृष्टेर्दुर्ज्ञानत्वमनया प्रतिपादयतीत्यात्मविदो मन्यंते ।
+> तंतुं तंतून् तंतुस्थानानि सूक्ष्माणि वियदादीन्यपंचीकृतानि भूतानि न विजानामि।
+> ओतुमोतून् पंचीकृतानि स्थूलान्नोतुस्थानीयान्यपि वियदादीनि न विजानामि । न
+> च तत्कार्यं पटस्थानीयं प्रपंचं विजानामि यं प्रपंचं समरे तंतूनामोतूनां च संगमनेऽतमानाः सततं चेष्टमानाः संसारिणो वयंति उत्पादयंति।
+> तेषां भोगार्थमीश्वरः सृजतीति कर्तृत्वमुपचर्यते । इहास्मिन्विषये परः
+> परस्ताद्भुद्धेरविषये वर्तमानानि वक्त्वानि वक्तव्यानीमान्यवरेणार्वाचीनेन
+> सृष्ट्युत्तरकालमुत्पन्नेन पित्रा स्वजनकेनानुशिष्टः सन् कस्य खलु पुत्रो वदाति ।
+> वदेत् । स्तोत्पत्तेः प्राचीनं वृत्तांतमजानानः कश्चिदपि न वदेदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sentence is completed thus: the one who abides yonder, in the other world, is Sūrya; he is instructed by his father, the "avara", Vaiśvānara Agni, who abides in this world; so instructed, he speaks ("vadāti" means "would speak"). The meaning is that no one is able to speak. This is stated by those who know the tradition in a verse: Vaiśvānara's son is he who stands beyond, in heaven; the metres, the stuta-śastras, are the threads of the sacrificial cloth; the Yajus mantras and the sacrificial acts are the woof, and the sacrifice is the cloth to be woven; Sūrya stands beyond, and the father, Agni, is held to be terrestrial. **NOTE**
+
+Those who know the Self hold that, by means of a metaphor, the ṛk shows how hard the creation of the world is to know. "Tantu": the subtle, unmixed elements, ether and the rest, which stand in the place of the warp threads, he does not know. "Otu": the gross, mixed elements, ether and the rest, which stand in the place of the woof, he does not know either. Nor does he know their product, the manifold world that stands in the place of the cloth, which worldly beings, constantly exerting themselves in the union of warp and woof, weave, that is, produce. For their enjoyment the Lord creates; hence agency is ascribed to them figuratively. "Iha": in this matter. The things to be spoken that lie beyond the range of the intellect: whose son, instructed by an "avara", a later being born after the creation, his own father, would speak them? Knowing nothing of the events before his own origin, no one would speak. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I (of the sacrificial kind)
+- तंतुं (*taṃtuṃ*)—the form of the threads of the warp needed for weaving cloth
+- न वि जानामि (*na vi jānāmi*)—have not known
+- ओतुं (*otuṃ*)—the threads (called the woof)
+- न (*na*)—have not known
+- यं (*yaṃ*)—which cloth of the form of the sacrifice
+- समरे (*samare*)—at the time of the sacrifice
+- अतमानाः (*atamānāḥ*)—the priests intent on their work
+- वयंति (*vayaṃti*)—weave, that too
+- न (*na*)—I do not know
+- अवरेण (*avareṇa*)—who is in this world
+- पित्रा (*pitrā*)—by the father of the form of Vaiśvānara (instructed)
+- परः (*paraḥ*)—of the other world, (in the form of a son) the Sun
+- वदाति (*vadāti*)—who can recite such sentences
+- इह (*iha*)—at this time of the sacrifice
+- वक्त्वानि (*vaktvāni*)—the sentences fit to be recited
+- कस्य स्वित् (*kasya svit*)—of which master of the house in this house of sacrifice
+- पुत्रः (*putraḥ*)—the son (can recite? it is possible for no one)
+
+##### भावार्थ (Bhāvārtha)
+
+I have not known the form of the threads of the warp needed for weaving the cloth that is the sacrifice, nor the threads called the woof. Nor do I know the form of the cloth of the sacrifice that these priests, intent on their work, weave. The Sun, who in the other world is in the form of a son, instructed by the father who is in this world in the form of Vaiśvānara, can recite sentences that are to be recited at this time of the sacrifice; but no master of the house here, nor his son, nor anyone, is able to recite them.
+
+### Printed p. 480
+
+##### English translation
+I understand not the threads (of the warp), nor the threads of the woof, nor that (cloth) which those who are assiduous in united exertion weave: of what (man) may the son declare the words that are to be spoken in the next world, (instructed) by a father abiding below.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator has given two kinds of meaning for this ṛk: one relating to the sacrifice, the other relating to the Self. Both kinds of meaning fit this ṛk well. In this ṛk the seer says that he does not know the form of the sacrifice or of the Self, and in the next ṛk he describes the greatness of Vaiśvānara Agni by saying that Vaiśvānara Agni alone knows this matter.
+
+**Explanation of the meaning relating to the sacrifice**
+
+न अहं तंतुं वि जानामि (*na ahaṃ taṃtuṃ vi jānāmi*)—तंतवः पटस्य प्रागायतनानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्रादीनि छंदांसि स्तुतशस्त्राणि च । तानि अहं न वि जानामि! (*taṃtavaḥ paṭasya prāgāyatanāni sūtrāṇi | tāni ca yajñātmakasya vastrasya gāyatrādīni chaṃdāṃsi stutaśastrāṇi ca | tāni ahaṃ na vi jānāmi!*) Here the sacrifice is compared to cloth. When cloth is woven, threads are used. These threads are of two kinds. Some threads are set lengthwise in the loom; these are called the warp. The threads that are passed across, crosswise, through the warp are called the woof. With the help of the loom, the woof is joined to the warp one thread at a time, and the cloth is woven. This is the making of cloth, that is, the manner of weaving cloth. Taking this very manner as the example, the meaning of this ṛk has been explained. Here, that is, in the sacrifice, the metres beginning with Gāyatrī and the śastra mantras are the threads called the warp, which are used for weaving the cloth. The seer says "I do not know these"; that is, he says "I do not know the nature and the like of the various metres beginning with Gāyatrī used in sacrifices, and of the śastra mantras such as आश्विन (*āśvina*), निष्केवल्य (*niṣkevalya*), आग्नि मारुत (*āgni māruta*) and आज्य (*ājya*)"; he states his own littleness, that is, that his knowledge is very small, in order to make known the greatness of Vaiśvānara Agni.
+
+तथा ओतुं न (वि जानामि) (*tathā otuṃ na (vi jānāmi)*)—ओतवस्तिरश्चीनानि सूत्राणि । तानि चात्र यजूंष्याध्वर्यवाणि कर्माणि च । तान्यहं न वि जानामि । (*otavastiraścīnāni sūtrāṇi | tāni cātra yajūṃṣyādhvaryavāṇi karmāṇi ca | tānyahaṃ na vi jānāmi |*) And I do not know the threads called the woof. Here, in the sacrifice, the cross-threads called the woof are the mantras of the Yajurveda and the subsidiary acts of the sacrifice that the priests such as the Adhvaryu perform in sacrifices and the like; the seer says that he does not know the nature of these either.
+
+### Printed p. 481
+
+समरे अतमानाः यं वयंति (तदपि अहं) न (जानामि) (*samare atamānāḥ yaṃ vayaṃti (tadapi ahaṃ) na (jānāmi)*)—अपि चैतदुभय साध्यं तं पटं यज्ञलक्षणं न वि जानामि । यं पटं यज्ञलक्षणं समरे संगमने देवयजने सततं वेष्टमाना ऋत्विजः वयंति तंतूनोतूंश्च संतन्वंति वस्त्ररूपेण निष्पादयंति तदपि नाहं जानामि । (*api caitadubhaya sādhyaṃ taṃ paṭaṃ yajñalakṣaṇaṃ na vi jānāmi | yaṃ paṭaṃ yajñalakṣaṇaṃ samare saṃgamane devayajane satataṃ veṣṭamānā ṛtvijaḥ vayaṃti taṃtūnotūṃśca saṃtanvaṃti vastrarūpeṇa niṣpādayaṃti tadapi nāhaṃ jānāmi |*) Besides this, I do not know the manner of weaving by joining the warp and the woof. That is, the seer says that he does not know the mantras that the priests and others recite when they perform the various acts in sacrifices, the subsidiary acts of the sacrifice that are to be performed at the proper times, or the order of when and how these are to be done.
+
+कस्य स्वित् पुत्र इह वक्त्वानि परः अवरेण पित्रा वदाति (*kasya svit putra iha vaktvāni paraḥ avareṇa pitrā vadāti*)—कस्य खलु पुत्रः मनुष्यः वक्तव्यानि तानीमानि अमुष्मिन् लोके वर्तमानस्य सूर्यस्य पित्रा अस्मिन्‌लोके वर्तमानेन वैश्वानराग्निनानुशिष्टान् वदेत् । न कश्चिदपि प्रवदितुं शक्नोतीत्यर्थः ॥ (*kasya khalu putraḥ manuṣyaḥ vaktavyāni tānīmāni amuṣmin loke vartamānasya sūryasya pitrā asminloke vartamānena vaiśvānarāgninānuśiṣṭān vadet | na kaścidapi pravadituṃ śaknotītyarthaḥ ‖*) Besides, what is to be said on these matters: what man indeed could say it with precision, accompanied by the Sun who shines in the atmosphere and by Vaiśvānara Agni who shines on the earth in sacrifices and the like? No one can.
+
+Here the Sun is described as the son of Vaiśvānara Agni. Some great seers who know the tradition state this matter in this way:
+
+वैश्वानरस्य पुत्रोऽसौ परस्ताद्दिवि यः स्थितः । छंदांस्यध्वरवस्तस्य स्तुतशस्त्राणि तंतवः । यजूंषि चेष्टाश्चौतुः स्याद्वस्त्रं वातव्यमध्वरः । परः परः स्थितः सूर्यः पिताग्निः पार्थिवो मतः ॥ (*vaiśvānarasya putro 'sau parastāddivi yaḥ sthitaḥ | chaṃdāṃsyadhvaravastasya stutaśastrāṇi taṃtavaḥ | yajūṃṣi ceṣṭāścautuḥ syādvastraṃ vātavyamadhvaraḥ | paraḥ paraḥ sthitaḥ sūryaḥ pitāgniḥ pārthivo mataḥ ‖*)
+
+That is: this Sun who shines in the atmosphere is the son of Vaiśvānara Agni; the metres and the śastra mantras recited in sacrifices are the warp threads of the cloth called the sacrifice; the Yajurveda mantras and the subsidiary acts of the sacrifice performed by the priests are the woof threads of this cloth. The sacrifice itself is the cloth. For the Sun who is in heaven, the sacrificial fire is the father. In this way the matters stated in this ṛk, that is, the cloth and the manner of weaving it, have been explained by comparing them with the metres and mantras used in the sacrifice, and with the sacrifice.
+
+**Explanation of the meaning relating to the Self**
+
+In this illustration the threads are compared to the five elements, earth and the rest, and the cloth to the creation of the world.
+
+न अहं तंतुं वि जानामि-तंतुस्थानानि सूक्ष्माणि वियदादीन्यपंचीकृतानि भूतानि न विजानामि । (*na ahaṃ taṃtuṃ vi jānāmi-taṃtusthānāni sūkṣmāṇi viyadādīnyapaṃcīkṛtāni bhūtāni na vijānāmi |*) Before the creation of the world, Prajāpati created पृथिव्यप्तेजोवायुराकाश (*pṛthivyaptejovāyurākāśa*)
+
+### Printed p. 482
+
+that is, the five elements, earth, water, fire, air and ether, and by the process of their fivefold combination (that is, by mixing one with another) he created this visible world. Therefore the five elements beginning with ether, which are the cause of the creation of the world, are here the warp threads of the cloth. The seer says that he does not know their nature.
+
+तथा ओतुं न (वि जानामि) (*tathā otuṃ na (vi jānāmi)*)—ओतून् पंचीकृतानि स्कूलान्वोतुस्थानीयान्यपि वियदादीनि न विजानामि । (*otūn paṃcīkṛtāni skūlānvotusthānīyānyapi viyadādīni na vijānāmi |*) Likewise, the woof threads here are the many things of this world visible to our eyes that arise from the fivefold combination (mixing) of the five elements beginning with ether. I do not know their nature.
+
+समरे अतमानाः यं वयंति (तदपि अहं) न (जानामि)—न च तत्कार्यं पटस्थानीयं प्रपंचं विजानामि यं प्रपंचं समरे तंतूनामोतूनां चॆ संगमेऽतामानाः सततं चेष्टमानाः संसारिणो वयंति उत्पादयंति तदपि न जानामि । (*samare atamānāḥ yaṃ vayaṃti (tadapi ahaṃ) na (jānāmi)—na ca tatkāryaṃ paṭasthānīyaṃ prapaṃcaṃ vijānāmi yaṃ prapaṃcaṃ samare taṃtūnāmotūnāṃ cè saṃgame 'tāmānāḥ satataṃ ceṣṭamānāḥ saṃsāriṇo vayaṃti utpādayaṃti tadapi na jānāmi |*) The five elements beginning with ether, and the things that arise from their fivefold combination: out of these the creator of the world creates the world, and in that world the embodied souls, caught in worldly existence, fix their own conditions by their own actions. I do not know these either.
+
+कस्य स्वित् पुत्र इह वक्तानि परः अवरेण पित्रा वदाति इहास्मिन्विषये परः परस्ताद्भुद्धेरविषये वर्तमानानि वक्तव्यानीमान्यवरेणार्वाचीनेन सृष्ट्युत्तरकालमुत्पन्नेन पित्रा स्वजनकेनानुशिष्टः सन् कस्य खलु पुत्रो वदाति ! स्वोत्पत्तेः प्राचीनं वृत्तांतमजानानः कश्चिदपि न वदेदित्यर्थः । (*kasya svit putra iha vaktāni paraḥ avareṇa pitrā vadāti ihāsminviṣaye paraḥ parastādbhuddheraviṣaye vartamānāni vaktavyānīmānyavareṇārvācīnena sṛṣṭyuttarakālamutpannena pitrā svajanakenānuśiṣṭaḥ san kasya khalu putro vadāti ! svotpatteḥ prācīnaṃ vṛttāṃtamajānānaḥ kaścidapi na vadedityarthaḥ |*) In this matter of creation, what is going on now and what happened before, that is, the conditions that existed before creation and how creation came about: what son born of a father could know these? That is, what man could know, without the help of others, the events that took place before his own birth? No one can know; this is the intention.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इत्तंतुं॒ स वि जा॑ना॒त्योतुं॒ स वक्त्वा॑न्यतु॒था व॑दाति ।  
+> य ईं॒ चिके॑तद॒मृत॑स्य गो॒पा अ॒वश्वर॑न्प॒रो अ॒न्येन॒ पश्य॑न्॥३॥
+
+### Printed p. 483
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । तंतुं । सः । वि । जानाति । ओतुं । सः । वक्त्वानि । ऋत्तुथा । वदाति ।  
+> यः । ईं । चिकेतत् । अमृतस्य । गोपाः । अवः । चरन् । परः । अन्येन । पश्यन् ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यप्युक्तेन प्रकारेण दुर्ज्ञानानि तथाप्येतानि वैश्वानरोऽग्निर्जानाति वदति
+> चेत्यनया प्रतिपादयति । स इत् स एव वैश्वानरोऽग्नि स्तंतुं तंतुस्थानीयानि
+> गायत्रादीनि छंदांसि स्तुतशस्त्राणि वि जानाति । तथा स एवौतुमोतुस्थानीयानि
+> यॆजूंष्याध्वर्यवाणि च कर्माणि वि जानाति । ऋतुथा काले काले तत्तदनुष्ठानसमये वक्तानि वक्तव्यानि च तानि वदाति । वदति । वदेत् । योऽयं वैश्वानरोऽमृतस्य गोपा उदकस्य गोपायिता रक्षितावोऽवस्ताद्भूलोके चरन् पार्थिवाग्निरूपेण संचरन् परः परस्ताद्दिव्यन्येन सूर्यात्मना पश्यन् सर्वं जगत्पकाशयन्
+> ईमिमानि परि दृश्यमानानि सर्वाणि भूतानि चिकेतत् जानाति स एवेति पूर्वत्र
+> संबंधः । यद्वा । स इत् स एव तंतुं तंतुस्थानीयानि सूक्ष्मभूतानि वि जानाति
+> नान्यः कश्चित् । तथौतुमोतुस्थानीयानि स्कूलभूतानि च स एव वि जानाति । स एव
+> वक्तानि । वक्तव्यान्युपदेष्टव्यानीमान्यतुथा काले काले यदा यदा विद्यासंप्रदायोच्छेदस्तदा तदा वदाति । वदेत् । कोऽस् यो विजानीयाद्वदेच्छेत्यत
+> आह । यो वैश्वानरो विश्वनरात्मकः परमात्मामृतस्यामृतत्वस्य विमोक्षणस्य गोपा
+> रक्षितावोऽवस्तात्संसारदशायां चरन् अंतःकरणोपेतो जीवात्मभावेन संचरन्
+> परः परस्तादविद्याया ऊर्ध्व० वर्तमानेनान्येनोक्तविलक्षणे निरुपाधिकेन सच्चिदादिलक्षणेन रूपेण पश्यन् सर्वं जगत्पकाशयिन् ईमिमानि चिकेतत् जानाति ।
+> तथा च परमात्मानं प्रकृत्य श्रूयते । तमेव भांतमनुभाति सर्वं तस्य भासा
+> सर्वमिदं विभाति । श्वे. उ. ६-१४ । इति ॥
+
+##### Gist of the bhāṣya
+
+Although these matters are hard to know in the way described, Vaiśvānara Agni knows and speaks them; this the ṛk sets forth. "Sa it": that same Vaiśvānara Agni knows fully the "tantu", the threads, that is, the metres such as Gāyatrī and the stuta-śastras that stand in the place of the warp threads; likewise he alone knows the "otu", the Yajus mantras and the acts of the Adhvaryu that stand in the place of the woof. "Ṛtuthā" means at each time, at the time of each performance; he speaks what is to be spoken. "Vadāti" means "he would speak". Who is this Vaiśvānara? He is the "gopā" of "amṛta", that is, the guardian of water; moving "avaḥ", below, in the terrestrial world, in the form of the terrestrial fire; "paraḥ", beyond, in heaven, in "anyena", another form, that of the Sun, he beholds and illuminates the whole world; "īm", these beings seen all around, "ciketat", he knows. "Sa eva", "he alone", is to be connected with what precedes.
+
+Or else: he alone knows the subtle elements that stand in the place of the warp threads, and no one else; likewise he alone knows the gross elements that stand in the place of the woof. He alone speaks the things that are to be spoken, to be taught, "ṛtuthā", at each time, whenever the tradition of knowledge is cut off. Who is it that could know and speak? To this he answers: Vaiśvānara, of the nature of all men, the Supreme Self, is the "gopā", the guardian, of "amṛta", that is, of immortality, of liberation; "avaḥ", below, in the state of worldly existence, moving, that is, equipped with the inner organ and moving in the condition of the individual self; "paraḥ", beyond ignorance, abiding above it, "anyena", by another form, different from the one described, free of limiting conditions, with the nature of being, consciousness and the like, he beholds and illuminates the whole world; he knows these, "īm". So too it is heard of the Supreme Self: तमेव भांतमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति । (*tameva bhāṃtamanubhāti sarvaṃ tasya bhāsā sarvamidaṃ vibhāti |*) **NOTE** **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Vaiśvānara Agni
+- अमृतस्य (*amṛtasya*)—of water
+- गोपाः (*gopāḥ*)—as protector
+- अवः (*avaḥ*)—in the terrestrial world
+- चरन् (*caran*)—moving in the form of the terrestrial fire
+- परः (*paraḥ*)—in the world of heaven
+- अन्येन (*anyena*)—in the form of the Sun
+- पश्यन् (*paśyan*)—beholding the whole world
+- ईं (*īṃ*)—all the beings referred to
+- चिकेतत् (*ciketat*)—knows
+- स इत् (*sa it*)—that same Vaiśvānara Agni
+- तंतुं (*taṃtuṃ*)—as threads are the very parts of a cloth
+- वि जानाति (*vi jānāti*)—knows fully
+- सः (*saḥ*)—he
+- ओतुं (*otuṃ*)—of the form of the woof
+
 ---
 
-**Progress note:** Done through printed p. 477. Mandala 6 Sukta 8 Rks 4-7; Sukta 9 Rk 1 (pp. 472-477)
+**Progress note:** Done through printed p. 483. Mandala 6 Sukta 9 Rk 1 end; Rk 2 with Special Topics; Rk 3 begun (pp. 478-483)
