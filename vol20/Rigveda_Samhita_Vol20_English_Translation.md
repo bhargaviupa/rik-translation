@@ -4088,6 +4088,104 @@ We have already described in detail the distinctive features of the chariot of t
 
 A comparison with the abodes of other Vedic Deities who are said to traverse the whole Universe like Vishnu confirms the same view. One of these deities is Savitṛ. The second deity that traverses or measures the Universe is Agni. He has three stations. His light is spoken of as three-fold. Although these three stations do not seem to be always conceived alike, yet, one of them at any rate can be clearly identified with the third step of Vishnu. Agni sometimes represents the Sun in the Rig-Veda and Vishnu is also the same Sun under
 
+### Printed p. 105
+
+a different name and the third or the hidden abode of Agni can therefore, be easily recognised as identical in character. The third Deity that traverses the Universe is the Aswins to whom the epithet परिज्मन् (*parijman*) is applied several times in the Rig-Veda. The Aswins are said to have three stations and their chariot which is to go over both the worlds alike has three wheels one of which is represented as deposited in a cave or a secret place like the third step of Vishnu which is beyond the ken of mortals. This coincidence between the third stations of three different world-traversing Gods cannot be treated as accidental. (J. A. O. S. Vol. 16. p. CXLIX to CL.)
+
+Two points are clearly understood from the above passage. First: 1. The three worlds, the earth, the heavenly world and the atmosphere, are the dwelling-places of Agni, Viṣṇu and the Aśvin deities; and secondly, 2. All these three deities have three steps, and the third step of each of the deities occupies the world that lies beyond the reach of man. Both these points are noteworthy. If we examine only some of the verses that describe the first point:
+
+प्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः । यस्योरुषु त्रिषु विक्रमणेष्वधिक्षियंति भुवनानि विश्वा ॥ (*pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ | yasyoruṣu triṣu vikramaṇeṣvadhikṣiyaṃti bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-2)
+
+यस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदंति । य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥ (*yasya trī pūrṇā madhunā padānyakṣīyamāṇā svadhayā madaṃti | ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-4)
+
+त्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्पु । पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्टु ॥ (*trīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamappu | pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭu ‖*) (Ṛ. Saṃ. 1-95-3)
+
+अग्निस्त्रीणि त्रिधातून्या क्षेति विदथा कविः । स त्रीरेकादशा इह यक्षच्च पिप्रयच्च नो विप्रो दूतः परिष्कृतो नभंतामन्यके समे ॥ (*agnistrīṇi tridhātūnyā kṣeti vidathā kaviḥ | sa trīrekādaśā iha yakṣacca piprayacca no vipro dūtaḥ pariṣkṛto nabhaṃtāmanyake same ‖*) **NOTE**
+
+त्रीणि पदान्यश्विनोराविः सांति गुहा परः । कवी ऋतस्य पत्मभिरर्वाग्जीवेभ्यस्परि ॥ (*trīṇi padānyaśvinorāviḥ sāṃti guhā paraḥ | kavī ṛtasya patmabhirarvāgjīvebhyaspari ‖*) (Ṛ. Saṃ. 8-8-23)
+
+### Printed p. 106
+
+Of these ṛks the first two describe the all-pervasiveness of Viṣṇu. Accordingly, all created beings stand firmly settled in the casts of Viṣṇu's exceedingly extensive steps, three in number. The three steps of Viṣṇu, which are filled with sweet nectar and are imperishable, delight those who take refuge in them with the gift of pure food. And that same Viṣṇu has upheld the seven lower worlds and the seven upper worlds, thus all the fourteen worlds, as though joined together with the three elements (dhātu) that have the forms of earth, water and fire: such is the description of the pervasiveness of Viṣṇu's three steps. In the third and fourth ṛks the nature of Agni is stated. Agni has three birthplaces: one in the sea in the form of the submarine fire, one in the heavenly world in the form of the sun, and one in the atmosphere in the form of lightning. And this same Agni has pervaded the three elements (tridhātu); thus Agni's pervading of the three worlds is described. In the same way, in the fifth ṛk the three steps of the Aśvin deities are described, as are the dwelling-places of Viṣṇu and Agni; and likewise:
+
+इदं हि नां प्रदिवि स्थानमोक इमे गृहा अश्विनेदं दुरोणं । आ नो दिवो बृहतः सर्वतादाद्भो यातमिषमूर्ज० वहंता ॥ ( (*idaṃ hi nāṃ pradivi sthānamoka ime gṛhā aśvinedaṃ duroṇaṃ | ā no divo bṛhataḥ sarvatādādbho yātamiṣamūrja0 vahaṃtā ‖ (*) (Ṛ. Saṃ. 5-76-4)
+
+here it is described that for the Aśvin deities also the three worlds, earth, atmosphere and the heavenly world, are dwelling-places. One more point must be noted in these descriptions. In the ṛk 1-154-4 that describes the steps of Viṣṇu, in the ṛk 8-39-9 that describes the pervasiveness of Agni, and in the ṛk (1-183-1) that describes the chariot-journey of the Aśvin deities, the word त्रिधातु (*tridhātu*) is a word that indicates the common nature of these three deities.
+
+Secondly, the description that the third step (or abode) of all of them lies in a secret place beyond reach shows the nature common to all of them.
+
+विष्णुरित्था परममस्य विद्वाञ्चातो बृहन्नभि पाति तृतीयं । आसा यदस्य पयो अक्रत स्वं सचेतसो अभ्यर्चंत्यत्र ॥ (*viṣṇuritthā paramamasya vidvāñcāto bṛhannabhi pāti tṛtīyaṃ | āsā yadasya payo akrata svaṃ sacetaso abhyarcaṃtyatra ‖*) (Ṛ. Saṃ. 10-1-3)
+
+कं इमं वो निण्यमा चिकेत वत्सो मात्रर्जनयत स्वधाभिः । (*kaṃ imaṃ vo niṇyamā ciketa vatso mātrarjanayata svadhābhiḥ |*) (Ṛ. Saṃ. 1-95-4)
+
+द्वे इदस्य क्रमणे स्वर्दृशोऽभिख्याय मत्योF भुरण्यति । तृतीयमस्य नकिरा दधर्षति वयश्चन पतॆयंतः पतत्रिणः ॥ (*dve idasya kramaṇe svardṛśo 'bhikhyāya matyoF bhuraṇyati | tṛtīyamasya nakirā dadharṣati vayaścana patèyaṃtaḥ patatriṇaḥ ‖*) **NOTE** (Ṛ. Saṃ. 1-155-29)
+
+### Printed p. 107
+
+In ṛks such as these it is stated that the third place of Agni and the occupation of the third step of Viṣṇu cannot be known by any man. As it is said, "Man knows only, by praising, the earthly world and the atmospheric world, the two steps of Viṣṇu, who looks upon the heavenly world; no man can know the world in which the third step of this Viṣṇu is placed", so also the course of the three-wheeled chariot of the Aśvin deities and its journey beyond reach are stated:
+
+यदयातं शुभस्पती वरेयं सूर्यामुप । क्वैकं चक्रं नामासीत्त्व देष्ट्राय तस्थथुः ॥ द्वे ते चक्रे सूर्ये ब्रह्माण ऋतुथा विदुः । अथैकं चक्रं यद्दुहा तदद्धातय इद्दिदुः ॥ (*yadayātaṃ śubhaspatī vareyaṃ sūryāmupa | kvaikaṃ cakraṃ nāmāsīttva deṣṭrāya tasthathuḥ ‖ dve te cakre sūrye brahmāṇa ṛtuthā viduḥ | athaikaṃ cakraṃ yadduhā tadaddhātaya iddiduḥ ‖*) (Ṛ. Saṃ. 1-85-15, 16)
+
+Here it is described that of the three wheels of the chariot of the Aśvin deities only one is visible to no eye and is known only to seers who have the power of vision. In this way, in the description of their extraordinary nature, a common quality of the three deities is shown in two main points. It was also stated earlier that all three deities are of the nature of the sun. In the epithets त्रिचक्रः (*tricakraḥ*), त्रिबर्हिः (*tribarhiḥ*), त्रिषधस्थः (*triṣadhasthaḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*), त्रिविक्रम (*trivikrama*) and so on, a symbolic meaning is indicated. The same matter is stated in the present ṛk also. And since, as said above, their all-pervasiveness is conveyed by the word त्रिधातु (*tridhātu*), it must be understood what the word त्रिधातु (*tridhātu*) means.
+
+त्रिधातुना—त्रिप्रकारस्थानोपेतेन । सुवर्णरजतताम्रधातुनोपेतेन वा रथेन (*tridhātunā—triprakārasthānopetena | suvarṇarajatatāmradhātunopetena vā rathena*) — thus he has explained the meaning. In many places the word त्रिधातु (*tridhātu*) is explained as त्रयाणां धातूनां समाहारस्त्रिधातु । पृथिव्यप्तेजोरूपधातुत्रयविशिष्टं । (*trayāṇāṃ dhātūnāṃ samāhārastridhātu | pṛthivyaptejorūpadhātutrayaviśiṣṭaṃ |*), that is, the combined principle of the three elements: earth, water and fire. In explaining the purport of this word, Sāyaṇa in some places quotes the sentence
+
+तासां त्रिवृतं तिवृतमेकैकां करवाणीति सेयं देवतेमास्तिस्रो देवता अनेनैव जीवेनात्मानुप्रविश्य नामरूपे व्याकरोत् । (*tāsāṃ trivṛtaṃ tivṛtamekaikāṃ karavāṇīti seyaṃ devatemāstisro devatā anenaiva jīvenātmānupraviśya nāmarūpe vyākarot |*) (Bhā. U. 6-3-2-3) **GLOSS** **NOTE**
+
+and says that here too is praised the greatness of the Supreme Brahman, who created the threefold principle of the forms of food, water and fire and sustained them by his glory. This explanation is only one of the many explanations of the word त्रिधातु (*tridhātu*). In some other places Sāyaṇa has said त्रिधातु कालत्रयं गुणत्रयं वा (*tridhātu kālatrayaṃ guṇatrayaṃ vā*): that it is understood either as the three times, namely past, future and present, or as the qualities of the forms sattva, rajas and tamas.
+
+### Printed p. 108
+
+अग्निरस्मि जन्मना जातवेदा धृतं मे चक्षुरमृतं म आसन् । आर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥ (*agnirasmi janmanā jātavedā dhṛtaṃ me cakṣuramṛtaṃ ma āsan | ārkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*) (Ṛ. Saṃ. 3-26-7) **GLOSS**
+
+In this ṛk the word त्रिधातु (*tridhātu*) is explained as प्राणापानव्यानात्मना त्रिधा वर्तमानोऽर्कोर्चनीयो यः प्राणोऽस्ति सोऽपि अहमेवास्मि । (*prāṇāpānavyānātmanā tridhā vartamāno 'rkorcanīyo yaḥ prāṇo 'sti so 'pi ahamevāsmi |*), that is, the principle of life-breath in the three forms of prāṇa, apāna and vyāna; and
+
+यद्देवाः शर्म शरणं यद्भद्रं यदनातुरं । त्रिधातु यद्वरूथ्यं १ तदस्मासु वि यंतनानेहसो व ऊतयः सु ऊतयो व ऊतयः ॥ (*yaddevāḥ śarma śaraṇaṃ yadbhadraṃ yadanāturaṃ | tridhātu yadvarūthyaṃ 1 tadasmāsu vi yaṃtanānehaso va ūtayaḥ su ūtayo va ūtayaḥ ‖*) (Ṛ. Saṃ. 8-47-10) **GLOSS**
+
+here it is explained as the three qualities in the forms of sattva, rajas and tamas. Moreover:
+
+आ धर्णसिर्बृहद्दिवो रराणो विश्वेभिर्गन्वोमभिर्हुवानः । ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृंगो वृषभो वयोधाः ॥ (*ā dharṇasirbṛhaddivo rarāṇo viśvebhirganvomabhirhuvānaḥ | gnā vasāna oṣadhīramṛdhrastridhātuśṛṃgo vṛṣabho vayodhāḥ ‖*) (Ṛ. Saṃ. 5-43-13)
+
+Here there is a description of the flame of Agni. Here the word त्रिधातुशृंगः (*tridhātuśṛṃgaḥ*) is explained as त्रिप्रकारशृंगवदुन्नतलोहितशुक्ल कृष्णवर्णज्वालः (*triprakāraśṛṃgavadunnatalohitaśukla kṛṣṇavarṇajvālaḥ*), that is, one who has flames that rise high in three ways, white, black and red.
+
+त्रिरा दिवः सवितर्नार्याणि दिवेदिव आ सुव त्रिर्नो अह्नः । त्रिधातु राय आ सुवा वसूनि भग त्रातर्धिषणे सातये धाः ॥ (*trirā divaḥ savitarnāryāṇi divediva ā suva trirno ahnaḥ | tridhātu rāya ā suvā vasūni bhaga trātardhiṣaṇe sātaye dhāḥ ‖*) (Ṛ. Saṃ. 3-56-6)
+
+Here, as the qualifier of वसूनि (*vasūni*) धनानि (*dhanāni*), it is explained as त्रिधातूनि पशुकनकरत्नभेदेन त्रिप्रकाराणि (*tridhātūni paśukanakaratnabhedena triprakārāṇi*): wealth of three kinds, namely cattle, gold and jewels.
+
+तव त्रिधातु पृथिवी उत द्यौर्वैश्वानर व्रतमग्ने सचंत । त्वं भासा रोदसी आ ततंथाजस्रेण शोचिषा शोशुचानः ॥ (*tava tridhātu pṛthivī uta dyaurvaiśvānara vratamagne sacaṃta | tvaṃ bhāsā rodasī ā tataṃthājasreṇa śociṣā śośucānaḥ ‖*) (Ṛ. Saṃ. 7-5-4)
+
+Here, in describing that the three worlds follow the vow of Vaiśvānara, the word त्रिधातु (*tridhātu*) is used, with पृथिवी (*pṛthivī*) and द्याः (*dyāḥ*), as a synonym for the atmosphere.
+
+तस्य यो योनिराशय आस । तमनु परामृश्य संलुप्याच्छिनत्सैषेष्टिरभवत्तद्यदेतस्मिन्नाशये त्रिधातुरिवैषा विद्या तस्मात्त्रैधातवी नाम । (*tasya yo yonirāśaya āsa | tamanu parāmṛśya saṃlupyācchinatsaiṣeṣṭirabhavattadyadetasminnāśaye tridhāturivaiṣā vidyā tasmāttraidhātavī nāma |*) (Śa. Brā. 5-5-5-6)
+
+### Printed p. 109
+
+From the sentences of the Śatapatha Brāhmaṇa it is understood that, because at the time of the slaying of the asura Vṛtra there was the support of the threefold knowledge, the sacrificial offering (iṣṭi) performed on that occasion became famous by the name Traidhātavī iṣṭi.
+
+ततो वै स इमान् लोकाग् स्त्रेधादुहत्तत्रिधातोस्त्रिधातुत्वं यं कामयेतान्नादस्स्यादिति तस्मा एतं त्रिधातुं निर्वपेदिंद्राय राज्ञे पुरोडाशमेकादशकपालं ॥ (*tato vai sa imān lokāg stredhāduhattatridhātostridhātutvaṃ yaṃ kāmayetānnādassyāditi tasmā etaṃ tridhātuṃ nirvapediṃdrāya rājñe puroḍāśamekādaśakapālaṃ ‖*) (Tai. Saṃ. 2-3-6-1)
+
+Sāyaṇa has explained the word त्रिधातु (*tridhātu*) in these sentences of the Taittirīya Saṃhitā in the following way.
+
+तिस्र एतास्त्रिधातोर्देवता लोकत्रयात्मिकाः । ततः खलु त्रिधातु देवातानां त्रित्वात्प्रजापतिः लोकत्रयव्यापी व्याप्तानिमान् लोकांस्त्रेधा दुहत् त्रिप्रकारमदुहत् । त्रयो धातवो धनान्यस्मिन्निति त्रिधातुः । त्रेधा धातव्यत्वात्पुरोडाशस्य । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥ (*tisra etāstridhātordevatā lokatrayātmikāḥ | tataḥ khalu tridhātu devātānāṃ tritvātprajāpatiḥ lokatrayavyāpī vyāptānimān lokāṃstredhā duhat triprakāramaduhat | trayo dhātavo dhanānyasminniti tridhātuḥ | tredhā dhātavyatvātpuroḍāśasya | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*) (Tai. Saṃ. Bhāṣya)
+
+Prajāpati arranged for the gods who dwell in the three worlds and exist in three forms, at three times, food in the form of the puroḍāśa; thus for the word त्रिधातु (*tridhātu*) the meanings world, food, the three elements and so on are given. Thus the word त्रिधातु (*tridhātu*) is used in different meanings in different places. In the present context it can be said that, in the ṛks praising the deities Agni, Aśvin and Viṣṇu, this word is used as a synonym that denotes the three worlds, earth, atmosphere and the heavenly world. The explanation of words such as त्रिचक्र (*tricakra*) and त्रिधातु (*tridhātu*) is given in Ṛ. Saṃ. Part 4, in the 34th sūkta.
+
+माध्वी (*mādhvī*)—This word is used to address the Aśvin deities who know the honey-lore (madhuvidyā). It is necessary to explain here what the madhuvidyā is. Skandasvāmin and Sāyaṇa have told a legend here. This legend is well known in the Vājasaneya Brāhmaṇa.
+
+आथर्वणाय दधीचे मध्वाख्यं परं ब्रह्म इंद्र उवाच । प्रोच्य च यदि वक्ष्यसि शिरस्ते पतिष्यतीति । तमश्विन् मध्वर्थिनावागत्य ऊचतुः । प्र ब्रूहि नौ परं ब्रह्मेति । स तौ प्रत्युवाच । शिरःपातभयान्न ब्रवीमीति । तौ तं प्रत्यूचतुः । अन्यत् ते आवां शिर आदध्वहे । तेन प्रब्रूहि । स तथेति प्रपेद । तस्याश्विनौ शिरश्चित्वा अश्वशिर आदधाते । तेनासौ तानध्यापयांचकारेति । तदेतदिहोच्यते दध्यज् ह यदित्यादिना ॥ (*ātharvaṇāya dadhīce madhvākhyaṃ paraṃ brahma iṃdra uvāca | procya ca yadi vakṣyasi śiraste patiṣyatīti | tamaśvin madhvarthināvāgatya ūcatuḥ | pra brūhi nau paraṃ brahmeti | sa tau pratyuvāca | śiraḥpātabhayānna bravīmīti | tau taṃ pratyūcatuḥ | anyat te āvāṃ śira ādadhvahe | tena prabrūhi | sa tatheti prapeda | tasyāśvinau śiraścitvā aśvaśira ādadhāte | tenāsau tānadhyāpayāṃcakāreti | tadetadihocyate dadhyaj ha yadityādinā ‖*)
+
+### Printed p. 110
+
+Indra gave to the sage Dadhīci, the son of Atharvan, the well-known instruction in the Supreme Brahman called Madhu (the madhuvidyā), and said, "If you teach this to anyone else, your head will fall off." The Aśvin deities, desiring to obtain the madhuvidyā, came near the sage Dadhīci and asked him, "Teach us the Supreme Brahman, which the madhuvidyā sets forth." Then he said to them that he would not teach, from fear that his head would fall off. Then the Aśvin deities said, "We shall attach another head to you; therefore teach," and on hearing those words he agreed to it. Then the Aśvin deities cut off his head and attached a horse's head. He taught them the madhuvidyā. Such is the legend in the commentary of Skandasvāmin.
+
+तदिंद्रो ज्ञात्वा वज्रेण तच्छिरो अच्चिनत् । अथाश्विनौ तस्य स्वकीयं मानुषं शिरः प्रत्यधत्तां ॥ (*tadiṃdro jñātvā vajreṇa tacchiro accinat | athāśvinau tasya svakīyaṃ mānuṣaṃ śiraḥ pratyadhattāṃ ‖*)
+
+Indra learned of this and cut off the head of the sage Dadhīci with his thunderbolt. Afterwards the Aśvin deities attached to the body of the sage Dadhīci his former head, of human form, and protected him. This part of the legend (story) is told in the Sāyaṇa-bhāṣya.
+
+अश्वस्य शीर्ष्णा वां ईं यदुवाच-युष्मत् सामर्थ्येन प्रतिहितेन शिरसा युवाभ्यां इमां मधुविद्यां यदा च उक्तर्वा । (*aśvasya śīrṣṇā vāṃ īṃ yaduvāca-yuṣmat sāmarthyena pratihitena śirasā yuvābhyāṃ imāṃ madhuvidyāṃ yadā ca uktarvā |*) The meaning is: "I shall proclaim here your power, who brought and attached the horse's head, and the fact that the sage Dadhīci taught the madhuvidyā, and that you received instruction from him through the exchange of heads and protected him." Thus it is described in this ṛk.
+
+The sage called Dadhyañc or Dadhīci is well known in the Purāṇas and elsewhere. The commentators tell a story here. While the sage Dadhyañc, the son of one named Atharvan, was alive, the asuras, frightened by the sight of him, had fled. After he died and went to heaven, the asuras fearlessly spread over the whole earth. Then Indra, unable to fight those asuras, searched for that sage. It came to be known that the sage had gone to heaven. Then Indra asked those who were near whether any remnant of the limbs of that sage remained; they said that only the skull of the horse's head, with which Dadhīci had once taught the madhuvidyā to the Aśvin deities, remained, and that where it was no one knew. Then Indra told them to search for it, and they searched and brought it, found lying in the lake called Śaryaṇāvat near Kurukṣetra. Indra conquered the asuras with the bones of that skull; that is, nine times ninety, eight hundred, ten times the magical net of the asuras
+
 ---
 
-**Progress note:** Done through printed p. 104. Ṛk 7 end, Ṛk 8-10 of Sūkta 74, Sūkta 75 intro and Ṛk 1
+**Progress note:** Done through printed p. 110. Special Topics of Sūkta 75 Ṛk 1: Hopkins quotation, tridhātu, madhuvidyā legend
