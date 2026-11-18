@@ -21437,6 +21437,219 @@ How many are the Ādityas? The Ādityas are twelve in number. There are twelve m
 
 आदित्याश्चांगिरसश्च सुवर्गे लोकेऽस्पर्धंत । तेऽंगिरस आदित्येभ्यः। अमुमादित्यमश्वग्ग् श्वेतं भूतं दक्षिणामनयन् । तेऽब्रुवन् । यन्नोऽवेष्ट । स वर्ज्योऽभूदिति । तस्मादश्वग्ं सवरेत्याह्वयंति । तस्माद्यज्ञॆ वरो दीयते। यत्प्रजापतिरालब्दोऽश्वोऽभवत् । तस्मादश्वो नाम । यच्छ्वयदरुरासीत् । तस्मादर्वा नाम । यत्सद्यो वाजन्थमजयत् । तस्माद्वाजी नाम । यदसुसाराणां लोकानादत्त । तस्मादादित्यो नाम ॥ (*ādityāścāṃgirasaśca suvarge loke 'spardhaṃta | te 'ṃgirasa ādityebhyaḥ| amumādityamaśvagg śvetaṃ bhūtaṃ dakṣiṇāmanayan | te 'bruvan | yanno 'veṣṭa | sa varjyo 'bhūditi | tasmādaśvagṃ savaretyāhvayaṃti | tasmādyajñè varo dīyate| yatprajāpatirālabdo 'śvo 'bhavat | tasmādaśvo nāma | yacchvayadarurāsīt | tasmādarvā nāma | yatsadyo vājanthamajayat | tasmādvājī nāma | yadasusārāṇāṃ lokānādatta | tasmādādityo nāma ‖*) (Tai. Brā. 3-9.21-1, 2)
 
+### Printed p. 583
+
+In heaven the Ādityas and the Aṅgirases vied with one another. The Aṅgirases offered the Āditya who had the form of a white horse to the Ādityas as a sacrificial gift. Then the Ādityas said to the Aṅgirases, "This Āditya whom you have brought is of the most excellent form." Because the Ādityas said of the horse-formed Āditya स वरः (*sa varaḥ*) (he is excellent), the horse too came to be called सवर (*savara*) in the world. Therefore a boon came to be given in the sacrifice. Prajāpati, offered in the sacrifice, became famed under the horse-names: the first because he is all-pervading, the second because he suffered pain of the eyes, the third because he brought all wealth under his sway; and he became famed as Āditya because he seized (ādatte) from the Asuras all their worlds. Thus the etymology of the word Āditya is stated. Explaining this same etymology, the Taittirīya Āraṇyaka says—
+
+योऽसौ तपन्नु देति । स सर्वॆषां भूतानां प्राणानादायोदेति । (*yo 'sau tapannu deti | sa sarvèṣāṃ bhūtānāṃ prāṇānādāyodeti |*) (Śrī. Ā. 1-14-1) **NOTE**
+
+The Sun who rises takes away (ā+dā) the life-breaths of all beings and rises. Therefore he is Āditya. Thus both circumstances are described: that they are Ādityas by being sons of Aditi, or that they are Ādityas by being distinguished by the act of taking (ādāna). For this word the Nirukta-writers have given an explanation in this way—
+
+आदित्यः कस्मात् । आदत्ते रसान् । आदत्ते भासं ज्योतिषां । आदीप्तो भासेति वा । अदितेः पुत्र इति वा । .... .... ....सूरमादितेयं । एवमन्यासामपि देवतानामादित्यप्रवादाः स्तुतयो भवंति । तद्यथैतत् । मित्रस्य वरुणस्यार्यन्नो दक्षस्य भगस्यांशस्येति ॥ (*ādityaḥ kasmāt | ādatte rasān | ādatte bhāsaṃ jyotiṣāṃ | ādīpto bhāseti vā | aditeḥ putra iti vā | .... .... ....sūramāditeyaṃ | evamanyāsāmapi devatānāmādityapravādāḥ stutayo bhavaṃti | tadyathaitat | mitrasya varuṇasyāryanno dakṣasya bhagasyāṃśasyeti ‖*) (Ni. 2-13)
+
+As described in सहस्रगुणमुत्सृष्टुमावत्ते हि रसं रविः (*sahasraguṇamutsṛṣṭumāvatte hi rasaṃ raviḥ*) and so on, the name Āditya is famed because he takes in the juice. Not only the juice, he takes in all brilliance. This name is famed either because he is kindled by light or because he is the son of Aditi. But in the Ṛk-saṃhitā the Sun is called the son of Aditi only in one or two places. In places such as दिवि देवाः सूर आदितेयं (*divi devāḥ sūra āditeyaṃ*) (Ṛ. Saṃ. 10-88-11) there is this kind of descriptive statement. Besides the Sun, Mitra, Varuṇa, Aryama, Dakṣa, Bhaga and Aṃśa too are indicated as Ādityas. Thus, if the import of the word Āditya is the description of one's own quality, it applies to the Sun alone. If it is to show being a son of Aditi, it applies also to Mitra, Varuṇa and the rest. If the second meaning is given, then how many sons of Aditi there are is not a settled matter. There are statements of number such as six, eight, twelve and so on. Some śruti passages showing this number have been cited above.
+
+### Printed p. 584
+
+In the highest atmosphere the deities famed as Ādityas shine by their own lordship. To know the original form of those deities described in the Vedic literature, the descriptions should not be mixed with the accounts in the Purāṇas and the like. (According to that tradition the twelve Ādityas are those who reflect the twelve months of the year.) They are ageless, immortal, eternal revealers of the principle. Aditi, who is immortal and ageless, is the support of their existence. The dwelling-place of these Ādityas too is immortal light. Therefore whatever forms of brilliance there are in the world-order that is of practical use, revolving, and having the forms of rising and setting, they cannot reflect these eternal Ādityas. The Sun, the Moon and the stars: none of these can reflect this Āditya principle. The import of the opinion of the scholar Roth is that the Āditya principle is the principle that transcends all the masses of brilliance belonging to the practical world.
+
+The epithets that are useful chiefly when Mitra and Varuṇa are indicated are applied also to the Ādityas.
+
+- शुचयः (*śucayaḥ*) (shining ones)
+- हिरण्ययाः (*hiraṇyayāḥ*) (of golden form)
+- पूताः (*pūtāḥ*) (pure ones)
+- अवृचिनः (*avṛcinaḥ*) (free from sin)
+- अनवद्याः (*anavadyāḥ*) (free from fault)
+- ऋतावानः (*ṛtāvānaḥ*) (possessing the sacred law)
+- क्षत्रियाः (*kṣatriyāḥ*) (possessing valour)
+- अरिष्ठाः (*ariṣṭhāḥ*) (unassailed)
+- उरवः (*uravaḥ*) (of wide nature)
+- गभीराः (*gabhīrāḥ*) (of unfathomable nature)
+- अस्वप्नजः (*asvapnajaḥ*) (sleepless)
+- अनिमिषाः (*animiṣāḥ*) (those who do not move their eyelids)
+- भूरक्षाः (*bhūrakṣāḥ*) (possessing many eyes)
+- दीर्घधियः (*dīrghadhiyaḥ*) (far-sighted, or possessing the power to know the future)
+- धृतव्रताः (*dhṛtavratāḥ*) (of firm resolve)
+
+By such epithets and others the Ādityas are described.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति नो॑ मिमीताम॒श्विना॒ भगः॑ स्व॒स्ति दे॒व्यदि॑तिरन॒र्वणः॑ ।  
+> स्व॒स्ति पू॒षा असु॑रो दधातु नः स्व॒स्ति द्यावा॑पृथि॒वी सु॑चे॒तुना॑ ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्ति । नः । मिमीतां । अश्विना । भगः । स्वस्ति । देवी । अदितिः । अनर्वणः ।  
+> स्वस्ति । पूषा । असुरः । दधातु । नः । स्वस्ति । द्यावापृथिवी इति । सुचेतुना ॥ ११ ॥
+
+### Printed p. 585
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठस्य षष्ठेऽहनि वैश्वदेवशस्त्रे स्वस्ति न इति तृचः । सूत्रितं च । स्वस्ति नो
+> मिमीतामश्विना भग इति तृच इति वैश्वदेवं । आ ८. १ । इति ॥ तथा बृहस्पतिसवे वैश्वदेवनिविद्धानार्थोऽयं तृचः । स्वस्ति नो मिमीतामश्विना भग इति वैश्वदेवं ।
+> आ ९.५ । इति सूत्रितत्वात् ॥
+> नोऽस्मभ्यमश्विनाश्विन् स्वस्त्रविनाशं क्षेमं मिमितां । कुरुतां । भगश्च स्वस्ति
+> क्षेमं मिमितां । तथा देव्यदितिश्च स्वस्ति मिमितां । अनर्वणोऽप्रत्यृतः पूषा
+> असुरः शत्रूणां निरसिता प्राणानां बलानां दाता ना नः स्वस्ति दधातु । नोऽस्मभ्यं
+> द्यावापृथिवी द्यावापृथिव्यावपि सुचेतुना शोभनेन प्रज्ञानेन विशिष्टे स्वस्ति
+> मिमितां ॥
+
+##### Gist of the bhāṣya
+
+In the Vaiśvadeva-śastra on the sixth day of the Pṛṣṭha rite there is a tṛca beginning "Svasti naḥ". The sūtra is cited, which prescribes it as the Vaiśvadeva tṛca (Ā. 8. 1). Likewise, in the Bṛhaspatisava this tṛca serves as the nivid-dhāna of the Vaiśvadeva, as the sūtra cited (Ā. 9.5) shows. Sāyaṇa explains: may the two Aśvins make welfare, that is, safety from destruction, for us; may Bhaga make welfare; so may the goddess Aditi. Pūṣan, who is unassailed, an Asura in the sense of the remover of enemies and the giver of life-breaths and strengths, may bestow welfare on us. May Heaven and Earth, distinguished by good understanding, make welfare for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—the Aśvin gods
+- नः (*naḥ*)—to us
+- स्वस्ति (*svasti*)—welfare
+- मिमीतां (*mimītāṃ*)—may they bring about
+- भगः (*bhagaḥ*)—Bhaga
+- देवी (*devī*)—the goddess
+- आदितिः (*āditiḥ*)—Aditi
+- स्वस्ति (*svasti*)—may she bring about welfare
+- अनर्वणः (*anarvaṇaḥ*)—the unobstructed one **NOTE**
+- असुरः (*asuraḥ*)—the destroyer of enemies
+- पूषा (*pūṣā*)—the god Pūṣan
+- स्वस्ति (*svasti*)—welfare
+- दधातु (*dadhātu*)—may he bring about
+- सुचेतना (*sucetanā*)—endowed with excellent understanding **NOTE**
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- नः (*naḥ*)—to us
+- स्वस्ति (*svasti*)—may they bring about welfare
+
+##### भावार्थ (Bhāvārtha)
+
+May the Aśvin gods, Bhaga and the goddess Aditi bring about welfare for us. May Pūṣan, who is unobstructed and a destroyer of enemies, and Heaven and Earth, endowed with excellent understanding, be makers of good fortune for us.
+
+##### English translation
+May the Ashwins contribute to our prosperity : may Bhaga, and the divine Aditi (contribute) to (our) prosperity : may the irresistible Vishnu, the scatterer (of foes), bestow upon us prosperity : may the conscious Heaven and Earth (bestow upon us) prosperity. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+It is the custom to recite the next five Ṛks, beginning स्वस्ति नो मित्रावरुणा (*svasti no mitrāvaruṇā*), to express the wish that welfare (auspiciousness) may be ours.
+
+### Printed p. 586
+
+On the sixth day of the sacrifice called Pṛṣṭha, when the mantras of the Vaiśvadeva-śastra are recited, the three Ṛks beginning स्वस्ति नः (*svasti naḥ*) are to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वस्ति नो मिमीतामश्विना भग इति तृच इति वैश्वदेवं (*svasti no mimītāmaśvinā bhaga iti tṛca iti vaiśvadevaṃ*) (Ā. Ā. 1) **NOTE**. And in the sacrifice called Bṛhaspatisava too these three Ṛks are to be inserted among the mantras of the Vaiśvadeva-śastra and recited as nivid-dhāna mantras; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वस्ति नो मिमीतामाश्विना भग इति वैश्वदेवं (*svasti no mimītāmāśvinā bhaga iti vaiśvadevaṃ*) (Ā. 9.5).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्तये॑ वा॒युमुप॑ ब्रवामहै॒ सोमं॑ स्व॒स्ति भुव॑नस्य॒  ॑
+> यस्पतिः ।  
+> बृह॒स्पतिं॒ सर्व॑गणं स्व॒स्तये॑ स्व॒स्तय॑ आदि॒त्यासो॑ भवंतु नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्तये । वायुं । उप । ब्रवामहै । सोमं । स्वस्ति । भुवनस्य । यः । पतिः ।  
+> बृहस्पतिं । सर्वगणं । स्वस्तये । स्वस्तये । आदित्यासः । भवंतु । नः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वस्तये क्षेमाय वायुमुप ब्रवामहै । स्तुम इत्यर्थः । सोमं चोप
+> ब्रवामहै । यश्च सोमो भुवनस्य पतिः पालकः । सर्वलोकजीवनस्य सोमायत्तत्वात् । तथा सर्वगणं सर्वदेवगणोपेतं बृहस्पतिं बृहतः कर्मणो मंत्रस्य
+> पालयितारं स्वस्तये स्तुमः । आदित्यास आदित्या अदितेः पुत्राः सर्वॆ देवा अरुणादयो द्वादश वा नोऽस्माकं स्वस्तये भवंतु ॥
+
+##### Gist of the bhāṣya
+
+For welfare, that is, for safety, we address Vāyu, and we address Soma, who is the lord and protector of the world, since the life of all the worlds depends on Soma. Likewise, for welfare we praise Bṛhaspati, the protector of great ritual and of the mantra, together with the whole company of the gods. May the Ādityas, the sons of Aditi, that is, all the gods, or else the twelve beginning with Aruṇa, be for our welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वस्तये (*svastaye*)—for our welfare
+- वायुं (*vāyuṃ*)—Vāyu
+- उप ब्रवामहै (*upa bravāmahai*)—we praise
+- यः (*yaḥ*)—which Soma-god
+- भुवनस्य (*bhuvanasya*)—of all the worlds
+- पतिः (*patiḥ*)—is the protector, that
+- सोमं (*somaṃ*)—Soma we praise
+- सर्वगणं (*sarvagaṇaṃ*)—accompanied by the whole company of the gods
+
+### Printed p. 587
+
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati too
+- स्वस्तये (*svastaye*)—for our welfare (we praise)
+- आदित्यासः (*ādityāsaḥ*)—the Ādityas, sons of Aditi
+- नः (*naḥ*)—to us
+- स्वस्तये (*svastaye*)—for welfare
+- भवंतु (*bhavaṃtu*)—may they be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+For the gain of welfare for us we praise Vāyu and Soma, the protector of the worlds. In the same way we praise Bṛhaspati, accompanied by the whole company of the gods. May the Ādityas, the sons of Aditi, be gracious so that welfare may come to us.
+
+##### English translation
+We glorify Vayu for prosperity, Soma for prosperity, he who is the protector of the world : (we praise) Brihaspati (attended by) all the compa-nies (of the deities), for prosperity, and for our prosperity may the Adityas be ours.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा नो॑ आ॒द्या स्व॒स्तये॑ वैश्वान॒रो वसु॑र॒ग्निः स्व॒स्तये॑।  
+> दे॒वा अ॑वंत्वृ॒भवः॑ स्व॒स्तये॑ स्व॒स्ति नो॑ रु॒द्रः पा॒त्वंह॑सः ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । नः । अद्य । स्वस्तये । वैश्वानरः । वसुः । अग्निः । स्वस्तये ।  
+> देवाः । अवंतु । ऋभवः । स्वस्तये । स्वस्ति । नः । रुद्रः । पातु । अंहसः । १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्रमध्ये दीक्षिते व्याधिते सति तन्निन्नहनि वैश्वदेवशस्त्रेयं तृचो निविद्धानार्थः । सूत्रितं च । स्वस्त्यात्रेये निविदं दध्यात् । आ ६-९ । इति । स्वस्त्यात्रेय.
+> शब्देनायं तृचो विवक्षित इति तत्र व्याख्यानं । तथा रूपादिके सत्ययं तृचो जप्यः॥
+> विश्वे सर्वेऽपि देवा नोऽस्मानद्यास्मिन्यागदिने स्वस्तये क्षेमायावंतु ।
+> वैश्वानरः । विश्व एनं नरा नयंतीति वैश्वानरः । वसुः सर्वस्य वासयिताग्निर्देवः ।
+
+##### Gist of the bhāṣya
+
+When the sacrificer who has taken the consecration falls ill in the middle of a sattra, this tṛca serves as the nivid-dhāna in the Vaiśvadeva-śastra of that day. The sūtra is cited: स्वस्त्यात्रेये निविदं दध्यात् (*svastyātreye nividaṃ dadhyāt*) (Ā. 6-9); the explanation there is that by the word स्वस्त्यात्रेय (*svastyātreya*) this tṛca is meant. Likewise, in the case of रूपादिके (*rūpādike*) **NOTE** this tṛca is to be muttered. Sāyaṇa explains: may all the gods help us today, on this day of the sacrifice, for welfare, that is, for safety. Vaiśvānara: विश्व एनं नरा नयंतीति वैश्वानरः (*viśva enaṃ narā nayaṃtīti vaiśvānaraḥ*), all men lead him, therefore he is Vaiśvānara. Vasu: the god Agni, who gives dwelling to everyone.
+
+### Printed p. 588
+
+> अयमेवाग्निर्वैश्वानर इति शाकपूणिः । नि. ७-२३. । इति यास्कः ; सोऽपि स्वस्तयेऽवतु । देवा ऋभवोऽपि स्वस्तयेऽवंतु । रुद्रो दुःखाद्द्रावयिता देवोऽप्यंहसः पापात् स्वस्ति पातु नोऽस्मान् ॥
+
+##### Gist of the bhāṣya
+
+This very Agni is Vaiśvānara, says Śākapūṇi, as Yāska reports: अयमेवाग्निर्वैश्वानर इति शाकपूणिः (*ayamevāgnirvaiśvānara iti śākapūṇiḥ*) (Ni. 7-23). May he too protect us for welfare. May the divine Ṛbhus also help us for welfare. Rudra, the god who makes one run away from sorrow, may protect us from sin for welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- देवाः (*devāḥ*)—the gods
+- नः (*naḥ*)—us
+- अद्य (*adya*)—on this day of the sacrifice
+- स्वस्तये (*svastaye*)—for the gain of welfare for us (may they protect)
+- वैश्वानरः (*vaiśvānaraḥ*)—the guide of all
+- वसुः (*vasuḥ*)—the giver of dwelling
+- अग्निः (*agniḥ*)—Agni
+- स्वस्तये (*svastaye*)—may he be a maker of good fortune for us
+- देवाः (*devāḥ*)—the divine
+- ऋभवः (*ṛbhavaḥ*)—Ṛbhus
+- स्वस्तये (*svastaye*)—for our welfare
+- अवंतु (*avaṃtu*)—may they protect
+- रुद्रः (*rudraḥ*)—the god Rudra
+- स्वस्ति (*svasti*)—for our welfare
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin
+- पातु (*pātu*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods too protect us on this day of the sacrifice for the gain of our welfare. May Agni, the guide of all and giver of dwelling, be a maker of good fortune for us. May the divine Ṛbhus protect us for our welfare. May the god Rudra protect us from sin for our welfare.
+
+##### English translation
+May all the gods be with us to-day for our prosperity : may Agni, the benefactor of all men, and giver of dwellings, (be with us) for (our) prosperity : may the divine Ribhus protect us for ( our ) prosperity : may Rudra preserve us from iniquity for (our) prosperity.
+
+##### विशेषविषयगळु (Special Topics)
+
+If, in the middle of the sacrificial rites, the sacrificer who has taken the sacrificial consecration becomes afflicted by disease, then on that day the tṛca, that is, the three Ṛks, beginning विश्वे देवा नः (*viśve devā naḥ*), is to be inserted among the mantras of the Vaiśvadeva-śastra as nivid-dhāna mantras and recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वस्तात्रेये निविदं दध्यात् (*svastātreye nividaṃ dadhyāt*) (Ā. 6-9) **NOTE**. The sense of the word स्वस्तात्रेय (*svastātreya*) in the sūtra is explained as the tṛca, that is, the three Ṛks, beginning with this Ṛk. Likewise it is said that when calamities such as fear arrive, muttering these three Ṛks brings relief from fear.
+
 ---
 
-**Progress note:** Done through printed p. 582. Vol 19 pp. 577-582, Sūkta 51 Ṛk 10, Ādityas and Vasus
+**Progress note:** Done through printed p. 588. Vol 19 pp. 583-588, Sūkta 51 Ṛks 11-13
