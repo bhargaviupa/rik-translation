@@ -25582,6 +25582,210 @@ Translation: This hymn beginning अग्ने शर्धं (*agne śardha�
 - अधि अव (*adhi ava*)—so that they may come down towards us
 - ह्वये (*hvaye*)—I call with prayer
 
+### Printed p. 704
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I invoke the host of the Maruts, who are adorned with shining ornaments and are able to destroy enemies. On this day of the sacrifice I call and pray to the host of the Maruts to come down towards us from the shining world of heaven.
+
+##### English translation
+I invoke, Agni, the victorious company (of the Maruts) decorated with brilliant ornaments; (I invoke them), the people of the Maruts, to descend to-day from above the shining heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+अव (*ava*)—The word अव (*ava*) is a preposition. Concerning prepositions Yāska has given the following explanation—
+
+न निर्बद्धा उपसर्गार्थान्निराहुरिति शाकटायनः । नामाख्यातयोस्तु कर्मोपसंयोगद्योतका भवंति। उच्चावचाः पदार्था भवंतीति गार्ग्यः। तद्य एषु पदार्थेः प्राहुरिमे नामाख्यातयोरर्थविकरणं ॥ (*na nirbaddhā upasargārthānnirāhuriti śākaṭāyanaḥ | nāmākhyātayostu karmopasaṃyogadyotakā bhavaṃti| uccāvacāḥ padārthā bhavaṃtīti gārgyaḥ| tadya eṣu padārtheḥ prāhurime nāmākhyātayorarthavikaraṇaṃ ‖*) (Ni. 1-3)
+
+It is the view of Śākaṭāyana that when the words called prepositions are not used together with other nouns and verbs they do not indicate any meaning. But when they join nouns and verbs they explain the meaning of those words in a special or altered way. The teacher called Gārgya has expressed his opinion that prepositions have many kinds of meanings. Whatever meaning these prepositions may have, only this much is certain: when they are used together with nouns and verbs they make the meaning of those nouns and verbs somewhat more or less altered. In the same way—
+
+न्यवेति विनिग्रहार्थीयौ ॥ (*nyaveti vinigrahārthīyau ‖*)
+
+The prepositions नि (*ni*) and अव (*ava*) indicate the sense "below, downwards". For example, the word तरति (*tarati*), a form of the root तृ (*tṛ*) with the senses प्लवनतरणयोः (*plavanataraṇayoḥ*), means "crosses, goes from one place to another". If the preposition अव (*ava*) is added to this root, it becomes अवतरति (*avatarati*) and indicates the sense "comes down from above to below". In the present Ṛk this very sense is stated.
+
+चित् (*cit*)—Although the word चित् (*cit*) has many meanings, here it is used in the sense of completion, that is, to fill out the sentence. Therefore the word has no specific meaning here.
+
+### Printed p. 705
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ चि॒न्मन्य॑से हृ॒दा तदिन्ने॑ जग्मुरा॒शसः॑ ।  
+> ये ते॒ नेदि॑ष्टं॒ हव॑नान्या॒गम॒न्तान्व॑र्ध भी॒मसं॑दृशः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । चित् । मन्यसे । हृदा । तत् । इत् । मे । जग्मुः । आशसः ।  
+> ये । ते । नेदिष्टं । हवनानि । आऽगमन् । तान् । वर्ध । भीमसंदृशः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं हृदा हृदयेन मरुतो यथा चिन्मन्यसे । चिदिति पूजायां ।
+> येन प्रकारेणातिपूजितं जानासि । तेष्वादरं करोषीत्यर्थः । तदित्तथैव मे
+> मदर्थं जग्मुर्गच्छंत्वाशस आशंसितार इच्छंतः शत्रून् हिंसंतो वा । अनंतरं ये
+> मरुतो नेदिष्टमत्यंतांतिकं संनिधावेव ते तव हवनान्याह्वानानि श्रुत्वागमन्
+> आगच्छंति तान् भीमसंदृशः कालविलंबासहनेन भयंकरदर्शनान्वर्ध । वर्धय
+> हविष्प्रापणेन ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, in whatever manner you think of the Maruts in your heart": the word चित् (*cit*) is used in the sense of worship, that is, in the manner in which you know them to be highly honoured, you show regard for them. "Just so may they come for my sake", wishing for my good, or else destroying enemies. Next, those Maruts who come very near, in close attendance, having heard your invocations: "increase" those terrible-looking ones, who cannot bear delay, by bringing them oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) हृदा (*hṛdā*)—in your heart
+- यथा (*yathā*)—in what manner (the Maruts)
+- चिन्मन्यसे (*cinmanyase*)—you meditate with devotion
+- तदित् (*tadit*)—in the same way
+- मे (*me*)—for me
+- आशसः (*āśasaḥ*)—desiring welfare
+- जग्मुः (*jagmuḥ*)—let them come
+- ये (*ye*)—which Maruts
+- नेदिष्टं (*nediṣṭaṃ*)—very near
+- ते (*te*)—your
+- हवनानि (*havanāni*)—invocations, having accepted
+- आगमन् (*āgaman*)—graciously come
+- तान् (*tān*)—those
+- भीमसंदृशः (*bhīmasaṃdṛśaḥ*)—Maruts of terrible form
+- वर्ध (*vardha*)—satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the manner in which you meditate with devotion on the Maruts in your heart, in the same way may they come to me, desiring my welfare. Satisfy those Maruts of terrible form who graciously come, accepting your invocations, very near.
+
+### Printed p. 706
+
+##### English translation
+In whatever manner you honour the (Maruts, Agni), in your heart, may they come to me as benefactors: gratify, ( by oblations ), those fierce-looking Maruts, who most promptly come to your invocations.
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer Śyāvāśva has prayed to Agni, the Hotṛ, that Agni should bring the Marut deities to the sacrificial ground in the sacrifice, and that, although those Marut deities are of terrible form, he should satisfy them, meditating on them with devotion, with the view that they may grant us welfare.
+
+चित् (*cit*)—चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*). Yāska has explained with examples that the word चित् (*cit*) has many meanings such as worship and censure. We have said this before. In the present Ṛk the word चित् (*cit*) is used in the sense of worship, that is, in a sense that indicates devotion and respect.
+
+इत् (*it*)—The particles कं (*kaṃ*), ईं (*īṃ*), इत् (*it*) and उ (*u*) are used to fill out the verse-line. On this subject Yāska—
+
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति । (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti |*) (2. 1-9). **NOTE**
+
+has explained that the words कं (*kaṃ*), ईं (*īṃ*), इत् (*it*) and उ (*u*) (or particles) are used to fill out the sentence in sentences that are not in metre, and to fill out the pāda in metrical Ṛks or mantras (of measured syllables); therefore these words need not have any specific meaning.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मी॒ळ्हुष्म॑तीव पृथि॒वी परा॑हता॒ मदं॑त्येत्य॒स्मदा ।  
+> ऋक्षो॒ न वो॑ मरुतः॒ शिमी॑वा॒ अमो॑ दु॒ध्रो गौरि॑व  ॒
+> भीमयुः ॥ ३ ॥
+
+### Printed p. 707
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माळ्हुष्मतीऽइव । पृथिवी । पराहता । मदंती । एति । अस्मत् । आ ।  
+> ऋक्षः । न । वः । मरुतः । शिमीऽवान् । आमः । दुध्रः । गौऽइव । भीमयुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीळ्हुष्मती प्रबलस्वामिका पराहतान्यैरभिभूता पृथिवीव । आत्र पृथिवीशब्दस्तदधिष्ठितां प्रजां लक्षयति । सा यथा स्वस्वामिनमुपद्रुताभिगच्छति तद्वदिति ।
+> मरुतां साकल्येन सर्वथा प्राप्तेर्दृष्टांतः । एवं मदंती हृष्यंती मरुत्सेनास्मत् ।
+> अस्मानित्यर्थः । ऐति । आगच्छति हे मरुतो वो युष्माकममो बलं गण ऋक्षो न
+> अग्निरिव शिमीवान् कर्मवान् दुध्रो दुर्धरो गौरिव भीमयुर्भीमैर्वृषभैर्युक्तो गौरिव । स यथा शिमीवान् कर्मवान् ॥
+
+##### Gist of the bhāṣya
+
+मीळ्हुष्मती (*mīḷhuṣmatī*) means having a powerful lord, like the earth overcome by others; here the word "earth" denotes the people who dwell on it. As that people, when attacked, run to their own lord, so in the same way, the example being for the complete arrival of the Maruts, the army of the Maruts, rejoicing, comes to us. O Maruts, your strength, your host, is like fire, active; irresistible; like a bull accompanied by formidable bulls. As he is active **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीळ्हुष्मती (*mīḷhuṣmatī*)—having a strong and able lord
+- पृथिवी (*pṛthivī*)—the people of the earth
+- पराहता इव (*parāhatā iva*)—as, when confronted by enemies, they become glad at the coming of that lord
+- मदंती (*madaṃtī*)—both causing us joy and expressing their own joy
+- अस्मत् (*asmat*)—towards us
+- आ एति (*ā eti*)—(the army of the Maruts) comes
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- अमः (*amaḥ*)—the strength of the host
+- ऋक्षो न (*ṛkṣo na*)—like Agni
+- शिमावान् (*śimāvān*)—is endowed with action **NOTE**
+- दुध्रः (*dudhraḥ*)—having unobstructed power
+- गौरिव (*gauriva*)—like a bull
+- भीमयुः (*bhīmayuḥ*)—is terrible
+
+##### भावार्थ (Bhāvārtha)
+
+As the people of the earth, who have the help of a strong and able lord, rejoice at the coming of that lord when they are confronted by enemies, so the coming of the army of the Maruts gives us joy. O Maruts, the strength of your host is active like Agni and terrible like a bull of unobstructed power.
+
+##### English translation
+As the (people of the) earth having a powerful lord have recourse to him when oppressed (by others), so comes (the host of the Maruts) exulting to us: your company, Maruts, active as fire, is as difficult to be resisted as a formidable ux.
+
+### Printed p. 708
+
+##### विशेषविषयगळु (Special Topics)
+
+पृथिवी (*pṛthivī*)—The commentator has given the word पृथिवी (*pṛthivī*) here the sense "the people who live on the earth", just as the word "cow" is used to indicate milk, a product of the cow. In this Ṛk three illustrations are given concerning the Marut deities—
+
+(1) मीळ्हुष्मतीव पृथिवी पराहता मदंती । (*mīḷhuṣmatīva pṛthivī parāhatā madaṃtī |*) When a multitude of people with a powerful leader or chief is confronted by enemies, and that leader comes forward to help them, they rejoice; in the same way we rejoice at the coming of the Marut deities. The seer has described the relation of a leader to his people as an illustration for the Marut deities.
+
+(2) वः अमः ऋक्षो न शिमीवान् (*vaḥ amaḥ ṛkṣo na śimīvān*) O Maruts, your strength is like Agni endowed with action. As the influence of Agni in sacrifices and the like is full of greatness, or endowed with action, so the power and capacity of the Marut deities are excessive; thus the seer has described. This is the second illustration.
+
+(3) दुध्रः गौरिव भीमयुः (*dudhraḥ gauriva bhīmayuḥ*) Another comparison is also given regarding the power of the Marut deities. The strength of the Marut deities is terrible like a bull of unobstructed power. As a well-fattened bull in rut rushes forward fearlessly, heeding nothing, and behaves in a terrible way, injuring those it meets, so also the Marut deities, in the time of their violent coming, behave without any hindrance, throwing down trees and the like with their roots, so as to be terrible to those who see them. Thus the strength of the Marut deities and the strength of a bull in rut are compared with each other, as both are capable of producing terrible results.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि ये रि॒णंत्योज॑सा॒ वृथा॒ गावो॒ न दु॒र्धुरः॑ ।  
+> अश्मा॑नं चित्स्व॒र्यं१॒॑१ पर्व॑तं गि॒रिं प्र च्या॑वयंति॒ याम॑भिः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । ये । रिणंति । ओजसा । वृथा । गावः । न । दुःधुरः ।  
+> अश्मानं । चित् । स्वर्यं । पर्वतं । गिरिं । प्र । च्यवयंति । यामभिः ॥ ४ ॥
+
+### Printed p. 709
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुत ओजसा स्वीयेन बलेन नि रिणंति हिंसंति शत्रून् वृथानायासेन
+> स्वसंचारमात्रेण गावो न दुर्धुरो दुःखेन हिंस्का अश्वा इव ते मरुतः स्वयं
+> शब्दयंतमश्मानं व्याप्तं पर्वतं जगत्पूरकोदकवंतं । पर्ववान्पर्वतः पर्व पुनः
+> पृणातेः प्रीणातीर्वा । नि-१-२० । इति निरुक्तं । तादृशं गिरिं मेघं । यद्वा ।
+> पर्वतमिति विशेष्यं गिरिमिति विशेषणं । निगिरत्युदकमिति गिरिः । तं यामभिर्गमनैः पु
+> च्यावयंत्यु दकनिर्गमनार्थं ॥
+
+##### Gist of the bhāṣya
+
+"Those Maruts who by their own strength ओजसा (*ojasā*) destroy enemies" वृथा (*vṛthā*), that is, without effort, merely by their own passage, "like horses hard to harm", दुर्धुरः (*durdhuraḥ*) meaning those that can be injured only with difficulty: those Maruts cause to descend the अश्मानं (*aśmānaṃ*), the self-sounding, the vast पर्वतं (*parvataṃ*), the cloud full of water that fills the world. The Nirukta says: पर्ववान्पर्वतः पर्व पुनः पृणातेः प्रीणातीर्वा । (*parvavānparvataḥ parva punaḥ pṛṇāteḥ prīṇātīrvā |*) (Ni. 1-20). Such is the गिरिं (*giriṃ*), the cloud. Or else: पर्वतं (*parvataṃ*) is the noun to be qualified and गिरिं (*giriṃ*) the qualifier; it is गिरिः (*giriḥ*) because it swallows water. The Maruts cause it to move by their goings, so that the water may come out. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- ओजसा (*ojasā*)—by their strength
+- दुर्धुरः (*durdhuraḥ*)—having unobstructed power
+- गावो न (*gāvo na*)—like horses
+- वृथा (*vṛthā*)—without the least effort
+- नि रिणंति (*ni riṇaṃti*)—they destroy enemies; (those Maruts)
+- स्वरं-शब्द (*svaraṃ-śabda*)—that which makes sound **NOTE**
+- अश्वानु (*aśvānu*)—that which pervades and spreads **NOTE**
+- पर्वतंउदकपूर्णवादुदू (*parvataṃudakapūrṇavādudū*)—and mountain-like, filled with water **NOTE**
+- गिरिं (*giriṃ*)—the cloud
+- यामभिः (*yāmabhiḥ*)—by their goings
+- प्र च्यावयंति (*pra cyāvayaṃti*)—they make it descend
+
+##### भावार्थ (Bhāvārtha)
+
+Those Maruts who, like horses of unobstructed power, destroy enemies by their strength without the least effort, make the sounding, spread out, water-filled cloud descend by their goings.
+
+##### English translation
+They who with ease destroy (their foes) by their prowess, like horses difficult to be restrained, they send down by their movements the vast and sounding water-laden cloud.
+
+##### विशेषविषयगळु (Special Topics)
+
+ये ओजसा नि रिणंति (*ye ojasā ni riṇaṃti*)—In this sentence it is said that the Marut deities destroy enemies by their own capacity. Here the enemies are the clouds that hold water within themselves without raining. The Marut deities spread their very great power everywhere in the atmosphere, blow with extreme force, scatter the mass of clouds gathered together in one place, and make them spread to all places and pour down rain.
+
 ---
 
-**Progress note:** Done through printed p. 703. Vol 19 pp. 698-703: end of Special Topics, Rks 5.55.8-10, sukta 56 intro and Rk 1
+**Progress note:** Done through printed p. 709. Vol 19 pp. 704-709: Rk 5.56.1 end, Rks 2-4
