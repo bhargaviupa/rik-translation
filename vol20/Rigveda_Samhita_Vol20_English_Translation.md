@@ -3842,6 +3842,252 @@ O you whose wealth is food, who among the many mortals serves you today on all s
 
 O Aśvin deities, who have food for wealth, who among all these men has worshipped you most on this day of sacrifice? O Aśvin deities, who are praised by excellent seers
 
+### Printed p. 99
+
+> देवतॆगळे, मेधावियाद याव ऋषियु निम्मन्नु स्तुतिसि आराधिसिद्दानॆ? याव यजमाननु
+> निम्मन्नु यज्ञकर्मगळिंद पूजिसिद्दानॆ?
+
+O gods, which wise seer has praised and worshipped you? Which sacrificer has worshipped you with sacrificial rites?
+
+##### English translation
+Who among many mortals has this day (best) propitiated you? what wise man (has best propitiated you) who are reverenced by the wise ? What (worshipper has best propitiated you) by sacrifice, you who are affluent in food ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ रथो॒ रथा॑नां॒ येष्णो॑ यात्वश्विना ।  
+> पु॒रू चि॑दस्म॒युस्ति॒र आं॑गू॒षो मर्त्ये॒ष्वा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । रथः । रथानां । येष्णः । यातु । अश्विना ।  
+> पुरु । चित् । अस्मयुः । तिरः । आंगूषः । मर्त्येषु । आ ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ वां युवयो रथ एको रथो रथानां येष्ण इतरदेवरथानां मध्येऽतिशयेन गंता सन् आ यातु । कीदृशः सन् । पुरू चिद्वहून्यप्यस्मद्विरोधिनस्तिरो हिंसकस्तिरस्कर्ता वास्मयुरस्मान् कामयमानो मर्त्येषु सर्वेषु
+> यजमानेषु मध्य अंगूषः स्तुत्यः । आकारः पूरणः । अथवा अंगूषः स्तोमः ।
+> स्तवोऽस्मयुरस्मान् बलैर्योक्तुं कामयमानो मर्त्येषु मत्यैरस्मदीयैर्युत्विग्भिः प्रेरितः सन् । उक्तलक्षणाश्विनो रथस्य ना स्तुतिरा सर्वतः पुरू चित्
+> पुरुण्यपि शत्रुबलानि तिरः । तिरस्करोति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, may your chariot, one among the chariots, the one that goes most excellently among the chariots of the other gods, come hither. Of what kind is it? It overcomes and defeats even many enemies of ours, or it desires us; among all mortals, that is, among the sacrificers, it is praised. The syllable of the verse's ending is a filler. Or else the word for "praised" means the hymn itself: the hymn, desiring to join us with strength, is urged among mortals by our own priests. The praise of the chariot of the Aśvins, of the kind described, comes from all sides; even many hostile forces it overcomes. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पुरू चित् (*purū cit*)—even enemies of many kinds
+- तिरः (*tiraḥ*)—which overcomes
+- अस्मयुः (*asmayuḥ*)—which desires to come to us
+- मर्त्येषु (*martyeṣu*)—among all men
+
+### Printed p. 100
+
+- आंगूषः (*āṃgūṣaḥ*)—which is exceedingly praised
+- रथानां (*rathānāṃ*)—among chariots
+- श्रेष्ठः (*śreṣṭhaḥ*)—the most excellent
+- नां रथः (*nāṃ rathaḥ*)—your chariot
+- आ यातु (*ā yātu*)—may it come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may your chariot, which overcomes even enemies of many kinds, desires to come to us, is exceedingly praised among all men and is the most excellent among chariots, come to us.
+
+##### English translation
+May your car, Aswins, the swiftest of the cars (of the gods), come hither well-disposed towards us, the discomfiter of numerous (foes), glorified amongst men
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शमू॒षु वां॑ मधूयुवा॒स्माक॑मस्तु चर्कृ॒तिः ।  
+> अ॒र्वा॒ची॒ना वि॑चेतसा॒ विभिः॑ श्ये॒नेव॑ दीयतं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । ऊं इति । सु । वां । मधुयुवा । आस्माकं । अस्तु । चर्कृतिः ।  
+> अर्वाचीना । विचेतसा । विभिः । श्येनाइव । दीयतं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मधूयुवा मधुमंतौ वां युवाभ्यां चर्कृतिः पुनःपुनः करणं
+> युवाभ्यामर्थाय पुनःपुनः क्रियमाणं स्तोत्रं युवयोरागमनस्याभ्यासो
+> नास्माकं सु सुष्टु शमु सुखकरमेवास्तु । भवतु । हे अर्वाचीनार्वागस्मदभिमुखांचनौ हे विचेतसा विशिष्टप्रज्ञॆ श्येनेव श्येनाविव विभिर्गंतृभिरश्वैर्दीयतं ।
+> गच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who are possessed of honey: the repeated making of praise for you, that is, the praise made again and again for your sake, the repetition of your coming, may it be well and happily productive for us. O you who are turned towards us, O you of distinguished wisdom, go like two falcons with your swift-going horses.
+
+### Printed p. 101
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधूयुवा (*madhūyuvā*)—O Aśvin deities, joined with honey
+- वां (*vāṃ*)—addressed to you
+- चर्कृतिः (*carkṛtiḥ*)—made and recited again and again
+- आस्माकं (*āsmākaṃ*)—our praises
+- सु (*su*)—exceedingly
+- शमु अस्तु (*śamu astu*)—may they be productive of happiness
+- आर्वाचीना (*ārvācīnā*)—you who descend towards us
+- विचेतसा (*vicetasā*)—you who have special wisdom
+- श्येनेव (*śyeneva*)—like a falcon
+- विभिः (*vibhiḥ*)—with swift-going horses
+- दीयतं (*dīyataṃ*)—come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, joined with honey, may our praises, made and recited again and again for you, be exceedingly productive of happiness. You who descend towards us and have special wisdom, come here quickly, like a falcon, with your swift-going horses.
+
+##### English translation
+May our repeated adoration of you two, who are desirous of the libation, be productive of felicity: descending to our presence, and exceeding in wisdom, travel with rapid (steeds), swift as to falcons.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वि॑ना॒ यद्ध॒ कर्हि॑ चिच्छुश्रू॒यात॑मि॒मं हवं॑ ।  
+> वस्थि॑रू॒ षु वां॒ भुजः॑ पृं॒चंति॒ सु वां॒ पृचः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । यत् । ह । कर्हि । चित् । शुश्रुयातं । इमं । हवं ।  
+> वस्वीः । ऊं इति । सु । वां । भुजः । पृंचंति । सु । वां । पृचः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवां यद्ध यत्र कर्हि चित् स्थितवंतौ भवथः शत्रेमं मे
+> हवमाह्वानं शुश्रुयातं । शृणुतं । श्रुत्वागच्छतमित्यर्थः । किमर्थमित्युच्यते ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, wherever you may be, hear this invocation of mine; that is, hear it and come. For what purpose, he states next.
+
+### Printed p. 102
+
+> वस्वीः प्रशस्या भुजो धनानि हविर्लक्षणानि सु सुष्टु नां युवां पृंचंति । मिश्रयंति । प्राप्नुवंति । उ इति पूरणः । कीदृशो भुजः । नां युवां सु सुष्टु पृचः
+> संपर्चनाः । युवां प्राप्तुं कामयमाना इत्यर्थः । अथवा सु पृचः सुसंपर्चनाः स्तोतारो वस्वीर्भुजो नां सुष्टु पृंचंति । संपर्चयंति ॥
+
+##### Gist of the bhāṣya
+
+The excellent, praiseworthy riches in the form of oblations reach you well; that is, they mingle with you and attain you. The syllable that follows is a filler. Of what kind are these riches? They are well-connecting, desiring to reach you. Or else the praisers, who are well-connecting, mingle well with you the excellent riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यद्धकर्हिचित् (*yaddhakarhicit*)—in whatever region you may be
+- इमं हवं (*imaṃ havaṃ*)—this hymn recited by me
+- शुश्रुयातं (*śuśruyātaṃ*)—listen
+- सु पृचः (*su pṛcaḥ*)—those that wish to join you with regard
+- वस्वीः (*vasvīḥ*)—the praiseworthy
+- भुजः (*bhujaḥ*)—riches in the form of oblations
+- वां (*vāṃ*)—you
+- सु (*su*)—in an exceeding manner
+- पृंचंति (*pṛṃcaṃti*)—come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, wherever you may be, listen to this praise recited by me. The praiseworthy riches in the form of oblations, which wish to join you with regard, come and join you in an exceeding manner. **NOTE**
+
+##### English translation
+Aswins, wherever you may be, hear this invocation : the excellent sacrificial offerings, longing for your proximity, reach you.
+
+## Sūkta 75 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति प्रियतममिति नवर्चं तृतीयं सूक्तं अवस्युर्नामात्रेय ऋषिः ।
+> पंक्तिश्चंदः । अश्विनौ देवता । अनुक्रांतं च । प्रति नवावस्युः पांक्तमिति ॥ प्रातरनुवाक
+> आश्विने क्रत् पांक्ते छंदस्याश्विनशस्त्रे चेदं सूक्तं । प्रति प्रियतममिति पांक्तं ।
+> आ. ४-१५ । इति हि सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with the words "prati priyatamam" has nine ṛks and is the third sūkta. Its seer is Avasyu of the Atri line, its metre is Paṅkti and its deity is the Aśvins. The Anukramaṇī says: प्रति नवावस्युः पांक्तं (*prati navāvasyuḥ pāṃktaṃ*). This sūkta is used in the Prātaranuvāka, in the Āśvina-kratu, in the mantras in the Paṅkti metre, and in the Āśvina-śastra. This is stated in the sūtra of Āśvalāyana, Ā. 4-15.
+
+##### Anuvāda
+
+This sūkta beginning with prati priyatamam is the third sūkta in the sixth anuvāka. It contains nine ṛks. The seer of this sūkta is Avasyu of the Atri line; the deity is the Aśvins; the metre is Paṅkti. In the Anukramaṇikā it is said: प्रति नवावस्युः पांक्तं (*prati navāvasyuḥ pāṃktaṃ*).
+
+### Printed p. 103
+
+The application of this sūkta is for the Prātaranuvāka and for the mantras in the Paṅkti metre relating to the Āśvina-kratu; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, प्रति प्रियतम मिति पांक्तं (*prati priyatama miti pāṃktaṃ*) (Ā. 4-15).
+
+##### Particulars
+
+- Sūkta: 25 **NOTE**
+- Maṇḍala: 5
+- Anuvāka: 6
+- Sūkta: 75
+- Aṣṭaka: 4
+- Adhyāya: 4
+- Varga: 15, 16
+- Number of ṛks in the sūkta: 9
+- Ṛṣi: Avasyu of the Atri line
+- Devatā: the Aśvins
+- Chandas: Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ प्रि॒यत॑मं॒ रथं॒ वृष॑णं वसु॒वाह॑नं ।  
+> स्तो॒ता वा॑मश्विना॒वृषिः॒ स्तोमे॑न॒ प्रति॑ भूषति॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । प्रियतमं । रथं । वृषणं । वसुवाहनं ।  
+> स्तोता । वां । अश्विन् । ऋषिः । स्तोमन । प्रति । भूषति । माध्वी इति । मम । श्रुतं ।  
+> हवं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ । एकः प्रतिशब्दोऽनुवादः । वां युवयोः प्रियतमं रथं
+> स्तोता ऋषिरवस्युः स्तोमेन प्रति भूषति । अलंकरोति । कीदृशं रथं । वृषणं
+> वर्षितारं फलानां वसुवाहनं धनानां वाहकं । ईदृशं रथमागमनाय
+> स्तोतीत्यर्थः । तस्मात् हे माध्वी मधुविद्यावेदितार् मम हवमाह्वानं श्रुतं
+> शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins. The one word "prati" is a mere repetition. The seer Avasyu, the praiser, adorns with praise your dearest chariot. Of what kind is the chariot? It is the showerer of fruits and the bearer of wealth. He praises such a chariot so that it may come. Therefore, O you who know the honey-lore, hear my invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनौ (*aśvinau*)—O Aśvin deities
+- वां (*vāṃ*)—to you
+- प्रियतमं (*priyatamaṃ*)—the one that is most dear
+- वृषणं (*vṛṣaṇaṃ*)—the one that showers desires
+- वसुवाहनं (*vasuvāhanaṃ*)—the one that carries riches
+- रथं (*rathaṃ*)—the chariot
+
+### Printed p. 104
+
+- स्तोता (*stotā*)—the one named Avasyu, the praiser
+- ऋषिः (*ṛṣiḥ*)—and the seer, I
+- स्तोमेन (*stomena*)—with praises
+- प्रति भूषति (*prati bhūṣati*)—adorn
+- माध्वी (*mādhvī*)—O Aśvin deities who know the honey-lore
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, I, the praiser, the seer, named Avasyu, adorn with praises your chariot, which is most dear to you, which showers desires and carries riches. O Aśvin deities who know the honey-lore, listen to my invocation.
+
+##### English translation
+The Rishi, your worshipper. Aswins, graces your beloved chariot, the showerer (of benefits), the vehicle of wealth, with praises : masters of mystic lore, hear my invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have already described in detail the distinctive features of the chariot of the Aśvin deities. It is also said in Ṛ. Saṃ. 1-34 that their chariot has three wheels. The meaning of the epithets त्रिचक्रः (*tricakraḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*), मनसः जवीयान् (*manasaḥ javīyān*) and so on was explained earlier. In the present context we must examine in what manner the epithets त्रिचक्रः (*tricakraḥ*) and त्रिवंधुरः (*trivaṃdhuraḥ*) show the all-pervading nature of the Aśvin deities. Just as the pervasiveness of Viṣṇu is understood from sentences such as त्रिषु विक्रमणेषु (*triṣu vikramaṇeṣu*) **GLOSS** and so on, and the all-pervading nature of Agni from sentences such as त्रीणि जाना परिभूषंति (*trīṇi jānā paribhūṣaṃti*) **GLOSS** and so on, so the nature of the Aśvin deities is understood from the epithets त्रिचक्रः (*tricakraḥ*) and so on. It is noteworthy that the descriptions of Agni, Viṣṇu, Savitṛ and the Aśvin deities all explain a common principle, and in all contexts explain an element common to all these deities. The English scholar Hopkins, explaining this point, has stated as follows.
+
+A comparison with the abodes of other Vedic Deities who are said to traverse the whole Universe like Vishnu confirms the same view. One of these deities is Savitṛ. The second deity that traverses or measures the Universe is Agni. He has three stations. His light is spoken of as three-fold. Although these three stations do not seem to be always conceived alike, yet, one of them at any rate can be clearly identified with the third step of Vishnu. Agni sometimes represents the Sun in the Rig-Veda and Vishnu is also the same Sun under
+
 ---
 
-**Progress note:** Done through printed p. 98. Sukta 74 rks 2-7 (pp. 93-98)
+**Progress note:** Done through printed p. 104. Ṛk 7 end, Ṛk 8-10 of Sūkta 74, Sūkta 75 intro and Ṛk 1
