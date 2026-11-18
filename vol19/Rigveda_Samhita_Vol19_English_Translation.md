@@ -20437,6 +20437,209 @@ That well-known wealth which we desire and which is worth choosing, may the unop
 - वाजरत्नाः (*vājaratnāḥ*)—and possessed of delightful wealth of food
 - स्याम (*syāma*)—may we become (may the gods grant it)
 
+### Printed p. 552
+
+##### भावार्थ (Bhāvārtha)
+
+May the unopposed god Savitṛ give us that well-known and desired wealth. May the flowing rivers come toward us, so as to bring us that same wealth. I, the Hotṛ in the sacrifice, approach them for that very reason and praise them. May the gods grant that we become lords of wealth and possessed of delightful wealth of food.
+
+##### English translation
+May the irreproachable Savitri (grant) us that desirable (wealth); may the flowing rivers hasten to (convey) it to us; for which purpose I, the ministering priest of the sacrifice, repeat (pious praises): affluent in food, may we be the lords of (manifold) riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the god Savitṛ and the rivers are praised. The word वरूथ (*varūtha*) used here can be given two kinds of meaning. वरूथं । वरणीयमस्मदभिमतं धनं (*varūthaṃ | varaṇīyamasmadabhimataṃ dhanaṃ*): wealth that we desire, this is one meaning. The meaning is that the god Savitṛ and the rivers should give us the wealth that we desire. As regards the rivers, wealth may mean money and material goods. Since the rivers supply water for agricultural work and food and the like is obtained from agriculture, wealth may also be understood as wealth in the form of food and other nourishment. The prayer that they give us these is stated here. In the second meaning, if the word वरूथ (*varūtha*) is taken to mean sacrifice, then, as the Hotṛ prays in the second half of this Ṛk with the sentence उप यद्योचे अध्वरस्य होता (*upa yadyoce adhvarasya hotā*), a petition is stated that the god Savitṛ and the rivers come to this sacrifice that we are performing and give us wealth and the like. This is another kind of meaning. **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये वसु॑भ्य॒ ईव॒दा नमो॒ दुर्ये मि॒त्रे वरु॑णे सू॒क्तवा॑चः ।  
+> अवै॒त्वभ्वं॑ कृणु॒ता वरी॑यो दि॒वस्सृ॑थि॒व्योरव॑सा मदेम ॥५॥
+
+### Printed p. 553
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । वसुभ्यः । ईवत् । आ । नमः । दुः । ये । मित्रे । वरुणे । सूक्तवाचः॥  
+> अव । एतु । अभ्वं । कृणुत । वरीयः । दिवः पृथिव्योः । अवसा । मदेम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमाना वसुभ्यो यज्ञनिवासेभ्यो देवेभ्य ईवद्गमनवन्नमोऽन्नं
+> पश्वात्मकं प्र दुः प्रादुः । ये च मित्रे देवे वरुणे च सूक्तवाचः सूक्तवचसो
+> भवंति तानस्मानभ्वं महद्धनं तेजो नावैतु । अवगच्छतु । हे देवाः कृणुत
+> कुरुत चैतेभ्यो वरीय उरुतरं सुखं । दिवस्पृथिव्योर्द्यावापृथिव्योरवसा
+> रक्षणेन मदेम । हृष्येम ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers who gave to the Vasus, that is to the gods who have their dwelling at the sacrifice, food in the form of animals, food that is able to move about, and who are good speakers of praise toward the god Mitra and toward Varuṇa: to us, such sacrificers, may great wealth and splendour come near; he explains the verb as "may it approach". O gods, make for them wider, that is more spacious, happiness. By the protection of heaven and earth may we rejoice, that is, be glad. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which sacrificers
+- वसुभ्यः (*vasubhyaḥ*)—to the Vasus
+- ईवत् (*īvat*)—fit to move about
+- नमः (*namaḥ*)—food (food in the form of animals)
+- प्र दुः (*pra duḥ*)—offered
+- ये (*ye*)—who
+- मित्रे (*mitre*)—to Mitra
+- वरुणे (च) (*varuṇe (ca)*)—and to Varuṇa
+- सूक्तवाचः (*sūktavācaḥ*)—offered excellent praises (to such sacrificers)
+- अभ्वं (*abhvaṃ*)—great wealth
+- अवैतु (*avaitu*)—may it come near
+- देवाः (*devāḥ*)—O gods (to such sacrificers)
+- वरीयः (*varīyaḥ*)—the greatest happiness
+- कृणुत (*kṛṇuta*)—bring about
+- दिवस्पृथिव्योः (*divaspṛthivyoḥ*)—of heaven and earth
+- अवसा (*avasā*)—by the protection
+- मदेम (*madema*)—may we be happy
+
+##### भावार्थ (Bhāvārtha)
+
+May great wealth come to us, the sacrificers, who offered food in the form of animals to the Vasus and who offered excellent praises to Mitra and Varuṇa. O gods, bring about the greatest happiness for us, who are devoted in this way. May we be happy through the protection of heaven and earth.
+
+##### English translation
+May ample wealth devolve upon those who have presented victims to the Vasus, and upon those who have repeated praises to Mitra and Varuna : confer upon them, (gods), felicity, and may we rejoice in the protection of heaven and earth.
+
+### Printed p. 554
+
+##### विशेषविषयगळु (Special Topics)
+
+वसुभ्यः (*vasubhyaḥ*): यज्ञनिवासेभ्यो देवेभ्यः (*yajñanivāsebhyo devebhyaḥ*). Explaining the word vasu as "dwelling", the commentators have taken the word वसुभ्यः (*vasubhyaḥ*) to mean: to the gods who come to the sacrificial ground to receive the oblations and the like and who dwell there until the sacrifice is completed. सूक्तवाचः (*sūktavācaḥ*) means those who praise the gods such as Mitra and Varuṇa with excellent words. This word is an adjective of the word ये (*ye*) (the sacrificers).
+
+## Sūkta 50 (Maṇḍala 5)
+
+The fiftieth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वो देवस्येति पंचर्चं षष्ठं सूक्तं स्वस्तात्रेयमुनेरार्षं वैश्वदेवं
+> पंचमी पंक्तिराद्याश्चतस्रोऽनुष्टुभः । तदुक्तमनुक्रमण्यां । विश्वः स्वस्तात्रेयः
+> पंक्त्यंतमिति ॥ पृष्टाभिप्लवषडहयोः प्रथमेऽहनि वैश्वदेवशस्त्रे विश्वो देवस्येति
+> प्रतिपत्तृचस्याद्यः । सूत्रितं च । विश्वो देवस्य नेतुरित्येका । आ. ७.६. । इति ॥
+> आभिप्लविकेषु द्वितीयचतुर्थषष्ठॆष्वहस्वेष्टैव वैश्वदेवस्य शस्त्रस्य प्रतिपत् । युग्मेस्वेवमभिप्लवे । आ. ७. ६. । इति सूत्रितत्वात् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विश्वो देवस्येति (*viśvo devasyeti*), of five Ṛks, is the sixth sūkta. Its seer is the sage Svastyātreya, and it is addressed to the Viśvedevas. The fifth Ṛk is in the Paṅkti metre, the first four in Anuṣṭubh. This is stated in the Anukramaṇī: विश्वः स्वस्तात्रेयः पंक्त्यंतमिति (*viśvaḥ svastātreyaḥ paṃktyaṃtamiti*). Use in ritual: on the first day of the Pṛṣṭhya and Abhiplava ṣaḍaha rites, in the Vaiśvadeva-śastra, the first Ṛk of this sūkta, विश्वो देवस्य (*viśvo devasya*), is the first of the Pratipat triplet. It is laid down in the sūtra: विश्वो देवस्य नेतुरित्येका (*viśvo devasya neturityekā*) (Ā. 7.6). In the Ābhiplavika rites, on the second, fourth and sixth days, the same Ṛk is likewise the Pratipat of the Vaiśvadeva-śastra, since it is so laid down in the sūtra युग्मेस्वेवमभिप्लवे (*yugmesvevamabhiplave*) (Ā. 7. 6). **NOTE**
+
+Anuvāda: This sūkta beginning विश्वो देवस्य (*viśvo devasya*) is the sixth sūkta in the fourth anuvāka. It has five Ṛks. The seer of this sūkta is called Svastātreya; the deity is the Viśvedevas; the first four Ṛks of this sūkta are in the Anuṣṭubh metre, the fifth Ṛk in the Paṅkti metre. It is said in the Anukramaṇī: Viśvaḥ Svastātreyaḥ Paṅktyantam. On the first day of the sacrifices called Pṛṣṭha and Abhiplava ṣaḍaha, at the time of reciting the mantras of the Vaiśvadeva-śastra, the first Ṛk of this sūkta beginning विश्वो देवस्य (*viśvo devasya*) is to be recited as the first mantra of the Pratipat triplet; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वो देवस्य नेतुरित्येका (*viśvo devasya neturityekā*) (Ā. 7-6). And on the second, fourth and sixth days of the sacrifices connected with the Abhiplava, the first Ṛk of this sūkta is to be recited as the opening mantra of the Pratipat triplet among the mantras of the Vaiśvadeva-śastra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, युग्मेष्टेवमभिप्सवे (*yugmeṣṭevamabhipsave*) (Ā. 7-6).
+
+### Printed p. 555
+
+- Sūkta 50
+- Maṇḍala 5, Anuvāka 4, Sūkta 50
+- Aṣṭaka 4, Adhyāya 3, Varga 4
+- Number of Ṛks in the sūkta: 5
+- Seer: Svastyātreya
+- Deity: the Viśvedevas
+- Metre: Ṛks 1-4 Anuṣṭubh; Ṛk 5 Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वो॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ पुरीत स॒ख्यं ।  
+> विश्वो॑ रा॒य इ॑षुध्यति द्यु॒म्नं वृ॑णीत पु॒ष्यसे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वः । देवस्य । नेतुः । मर्तः । वुरीत । सख्यं ।  
+> विश्वः । राये । इषुध्यति । द्युन्नुं । वृणीत । पुष्यसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वः सर्वो मर्तो नेतुर्देवस्य । सवितुरित्यर्थः । तस्य सख्यं पुरीत ।
+> वृणीत विश्वो जनो राये धनस्येषुध्यति ॥ पंचमलकारः ॥ ईशीत । तस्यानुग्रहात्
+> सर्वो जनो द्युम्नं धनं वृणीत पुष्यसे पुष्टैश्च पर्याप्तं धनं ॥
+
+##### Gist of the bhāṣya
+
+Every mortal should choose the friendship of the leading god, that is, of Savitṛ; "choose" is Sāyaṇa's gloss of the verb. Every man, for the sake of wealth, should be lord of wealth, so Sāyaṇa glosses इषुध्यति (*iṣudhyati*) with ईशीत (*īśīta*). By his favour every person should choose wealth, wealth that is sufficient for nourishment. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वः (*viśvaḥ*)—all
+- वर्तुः (*vartuḥ*)—the man **NOTE**
+- नेतुः (*netuḥ*)—of the leading
+- देवस्य (*devasya*)—of the god Savitṛ
+- सख्यं (*sakhyaṃ*)—the friendship
+- पुरीत (*purīta*)—may he obtain by praying
+- विश्वः (*viśvaḥ*)—every man
+- राये (*rāye*)—for the gain of wealth
+- इषुध्यति (*iṣudhyati*)—may he look for favour (from Savitṛ)
+- पुष्यसे (*puṣyase*)—for a well-nourished life
+- द्युम्नं (*dyumnaṃ*)—wealth
+- वृणीत (*vṛṇīta*)—may he desire
+
+##### भावार्थ (Bhāvārtha)
+
+May every man pray for and obtain the friendship of the leading god Savitṛ. May every man gain wealth through Savitṛ's favour alone. For a well-nourished life let him desire wealth from him alone.
+
+### Printed p. 556
+
+##### English translation
+Let every man solicit the friendship of the divine leader (of heaven, the sun); let every man desire (of him) riches: let him request affluence (wherewith) to nourish (his descendants).
+
+##### विशेषविषयगळु (Special Topics)
+
+Although the Viśvedevas are said to be the deity of this sūkta, in all the Ṛks of the sūkta it is the god Savitṛ in particular who is praised. Since Savitṛ is ordinarily invoked in the morning, the time when the sacrifice begins, the seer prays that Savitṛ himself, as guide of this sacrifice which we perform, may see that the sacrificial rite is carried out completely, and that as the fruit of that sacrifice he may bestow on us things that bring happiness, such as a house together with sons and grandsons, wealth, food and the like.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते ते॑ देव नेत॒र्ये चे॒मा अ॑नु॒शसे॑ ।  
+> ते रा॒या ते ह्या॒३॒॑पिपृचे॒ सचे॑महि सच॒थ्यैः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । ते । देव । नेतः । ये । च । इमान् । अनुशसे ।  
+> ते । राया । ते । हि । आपृचे । सचेमहि । सचथ्यैः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नेतर्देव ते तव स्वभूतास्ते वयं यजमाना ये चान्य इमान् ॥
+> विभक्तिव्यत्ययः ॥ इमे होत्रादयोऽनुशसे शंसितुं प्रभवंति तेऽपि त्वदीयाः ।
+> यद्वा । इमानन्यानिंद्रादीननुशसे क्रमेण शंसितुं प्रभवंति । एकैव ना महानात्मा देवता स सूर्यः स हि सर्वभूतात्मेकृत्याद्विदितरासां देवतानां तदंतर्भावादिति भावः । न केवलं त्वच्छंसका एवेत्यर्थः । त उभये वयं राया धनेन
+> सचेमहीति संबंधः । ते हि ते खल्वापृच आपर्चनीयाः ॥ कृत्यार्थे केन्प्रत्ययः ।
+> कृन्मेजंत इत्यव्ययत्वादिभक्तेरदर्शनं ॥ सचथ्यैः सर्वैः कामैः सचेमहि । संगच्छेमहि ।
+
+##### Gist of the bhāṣya
+
+O leader, O god: we the sacrificers are yours, belong to you, and so are those others who are able to praise these (the Hotṛ priests and the rest); they too are yours. Or else, those who are able to praise in turn these others, Indra and the rest, are yours as well. Only one great Self is the deity, namely Sūrya; he is the Self of all beings, and the other deities are included in him; this is the sense. The meaning is that they are not only your praisers. Both of these groups, we, are to be united with wealth: this is the connection. Those indeed are the ones to be connected (with wealth). With all desires may we be united, may we come together. **NOTE**
+
+### Printed p. 557
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सेतः (*setaḥ*)—O leader **NOTE**
+- देव (*deva*)—O Savitṛ **NOTE**
+- ते (*te*)—we, these sacrificers
+- ते (*te*)—who belong to your protection
+- ये च (*ye ca*)—and who
+- इमान् (*imān*)—the other gods, Indra and the rest
+- अनुशसे (*anuśase*)—praise and worship (they too are yours)
+- ते (*te*)—these both our groups
+- राया (*rāyā*)—may they be joined with wealth
+- ते हि (*te hi*)—we ourselves
+- आपृचे (*āpṛce*)—for our satisfaction
+- सचथ्यैः (*sacathyaiḥ*)—with all our desires
+- सचेमहि (*sacemahi*)—we shall unite
+
+##### भावार्थ (Bhāvārtha)
+
+O leader, O Savitṛ, we, these sacrificers, belong to your protection. Not only we, but those here who praise and worship Indra and the other gods are also yours. May both these groups of ours be possessed of wealth; may we be united with all our desires, for the fulfilment of our wishes and for our satisfaction.
+
+##### English translation
+Divine leader of heaven), these (worshippers) are yours, and (so are they) who praise these (other gods): these (both) we associate with opulence, we (seek) to unite with (our) des res. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्रादीन् शंसितुं प्रभवंति तेऽपि त्वदीयाः (*iṃdrādīn śaṃsituṃ prabhavaṃti te 'pi tvadīyāḥ*). In this Ṛk the god Savitṛ is praised. Therefore the seer says that the people, such as the priests and sacrificers, who praise Savitṛ are dear to Savitṛ. But it may be asked whether it is right, addressing the god Savitṛ, to say that likewise the people who praise Indra and the other gods are also yours. To this the commentator says that Savitṛ dwells in the other gods as their inner self, and that therefore, if the other gods are worshipped, it is as though Savitṛ or Sūrya himself were worshipped, and in support of this he has quoted the sentence एकैन वा महानात्मा देवता स सूर‍्यः स हि सर्वभूतात्मा । (*ekaina vā mahānātmā devatā sa sūryaḥ sa hi sarvabhūtātmā |*). In this way he has made clear that Savitṛ has the feeling that even those who praise Indra and the other gods are his own.
+
 ---
 
-**Progress note:** Done through printed p. 551. Sūkta 49 Ṛk 1 end to Ṛk 4 pratipadārtha
+**Progress note:** Done through printed p. 557. Sūkta 49 Ṛk 4-5 end; Sūkta 50 Ṛk 1-2 (pp. 552-557)
