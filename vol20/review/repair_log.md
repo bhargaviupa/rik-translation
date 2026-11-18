@@ -1,0 +1,1 @@
+- 2026-11-18 printed pp. 1-6: three sub-headings written as '## ' (flagged by verify as chapter-level headings) changed to bold lines; no text changed.

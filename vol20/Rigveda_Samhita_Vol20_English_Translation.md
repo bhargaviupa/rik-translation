@@ -18,7 +18,7 @@ The fifth Maṇḍala.
 
 Sūkta 63
 
-## Introduction
+**Introduction**
 
 A brief account of Mitra and Varuṇa.
 
@@ -62,7 +62,7 @@ Sāyaṇa explains that the Sun, when he goes to his setting, is himself called 
 
 The Śatapatha Brāhmaṇa declares that this earth is Mitra and the heavenly world is Varuṇa. Thus the description of their qualities takes many forms.
 
-## The excellent qualities of Mitra and Varuṇa
+**The excellent qualities of Mitra and Varuṇa**
 
 The special qualities of Mitra and Varuṇa, as they are described in the Ṛk-Saṃhitā, are briefly set out here. Of these two deities, Varuṇa is praised as one who can at times come within the sight of the sacrificer.
 
@@ -120,7 +120,7 @@ More than all the other epithets, the word "Māyā" indicates the most extraordi
 
 By this Asura power and by this power of māyā both of them send down rain, and both are of firm ordinances (dhṛtavrata).
 
-## The individual qualities and acts of Varuṇa
+**The individual qualities and acts of Varuṇa**
 
 All the acts of Varuṇa relate to the working of the universe. Endowed with boundless intelligence, Varuṇa made heaven and earth and is their upholder; and as lord of all the worlds he has taken possession of them all. These ordinances of Varuṇa are altogether extraordinary. (8-42-1)
 
