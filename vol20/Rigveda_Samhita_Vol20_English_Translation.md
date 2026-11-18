@@ -15565,6 +15565,279 @@ nara, the manifester of ambrosial (rain) : all the regions are overspread
 (by the vapour) on his brow, and the seven gliding (streams) spring from
 thence like branches.
 
+### Printed p. 465
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यो रजां॒स्यमि॑मित सु॒क्रतु॑र्वैश्वान॒रो वि दि॒वो रो॑च॒ना क॒विः ।  
+> परि॒ यो विश्वा॒ भुव॑नानि पप्र॒थेऽद॑ब्बो गो॒पा अ॒मृत॑स्य  ॒
+> रक्षिता ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यः । रजांसि । अमिमात । सुक्रतुः । वैश्वानरः । वि । दिवः । रोचना । कविः ।  
+> परि । यः । विश्वा । भुवनानि । पप्रथे । अदब्बः । गोपाः । अमृतस्य । रक्षिता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुक्रतुः सुकर्मा वैश्वानरो विश्वेषां नराणां हितो योग्नि रजांस्युदकानि लोकान्या व्यमिमित निर्मितवान् । तथा दिवो द्युलोकस्य संबंधीनि रोचना
+> रोचमानानि दीप्यमानानि नक्षत्रादीनि कविः क्रांतदर्शि सन् योग्निर्व्यमिमित ।
+> यश्च विश्वा सर्वाणि भुवनानि भूतजातानि व्याप्तान्न्युदकानि वा परि सप्रथे परितोऽप्रथय सोऽयमदब्धः केनाप्यहिंसितो गोपाः सर्वस्य गोपायिता रक्षितामृतस्यामरणहेतोरुदकस्य रक्षिता पालयिता सन् वर्तत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Vaiśvānara Agni, the doer of good works, who is beneficial to all men, built the "rajāṃsi", the waters, the worlds. And being far-seeing, he built the shining bodies that belong to the heavenly world, the stars and the rest. He who spread all the beings, or the waters, all round, this one, unharmed by anyone, the guardian of all, is the protector, the keeper, of the "amṛta", the water that is the cause of freedom from death. The word "is" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतु: (*sukratu:*)—the doer of excellent works
+- यः (*yaḥ*)—who
+- रजांसि (*rajāṃsi*)—all the worlds
+- व्यमिमीत (*vyamimīta*)—built
+- कविः (*kaviḥ*)—the far-seeing one
+- दिवः (*divaḥ*)—of the intermediate space
+- रोचना (*rocanā*)—the spheres of radiance
+- यः (*yaḥ*)—who
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—the worlds
+- परि पप्रथे (*pari paprathe*)—has pervaded all round
+- वैश्वानरः (*vaiśvānaraḥ*)—that same Agni of the form of Vaiśvānara
+- अदब्धः (*adabdhaḥ*)—unassailed
+- गोपाः (*gopāḥ*)—the guardian of the world
+- अमृतस्य (*amṛtasya*)—of all the water that is of the nature of ambrosia
+- रक्षिता (*rakṣitā*)—is the keeper
+
+##### भावार्थ (Bhāvārtha)
+
+He who is the doer of excellent works and has built all the worlds, the far-seeing one who has built the spheres of radiance of the intermediate space, who has pervaded all the worlds all round,
+
+### Printed p. 466
+
+that same Agni of the form of Vaiśvānara, unassailed and the guardian of the world, is the keeper of all the water that is of the nature of ambrosia.
+
+##### English translation
+Vaishwanara, the performer of sacred acts, is he who made the regions ; foreseeing (he has made) the luminaries of heaven, and has spread throughout all worlds; the irresistible guardian (of all), the protector of ambrosial (rain).
+
+## Sūkta 8 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऎंटनॆय सूक्तवु
+> पृक्षस्येति सप्तर्चमष्टमं सूक्तं भरद्वाजस्यार્ષं वैश्वानराग्नि देवताकं ।
+> आदितः षड्गत्यः सप्तमी त्रिष्टुप् । तथा चानुक्रांतं । पृक्षस्यांत्या त्रिष्टुबिति ॥
+> चातुर्विंशिकेऽहन्याग्नि मारुत इदं सूक्तं वैश्वानरीयनिविद्वानं । सूत्रितं च ।
+> पृक्षस्य वृष्णो वृष्णे शर्धाय । आ. ७-४ । इति !! अभिप्लविके पृष्ठाभिप्लवषडहयोः
+> पंचमेऽहनीदमेव सूक्तं वैश्वानरनिविद्वानं । सूत्रितं च । पृक्षस्य वृष्णो वृष्णे
+> शर्धाय नू चित्सहोजा इत्याग्नि मारुतं । आ. ७-७ । इति ॥ विषुवत्याग्नि मारुत आद्यौ
+> तृचौ स्तोत्रियानुरूपौ । सूत्रितं च । पृक्षस्य वृष्णो आरुषस्य नू सह इति
+> स्तोत्रियानुरूपौ । आ. ८-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, which has seven ṛks and begins with the word "pṛkṣasya", has Bharadvāja as its seer and Vaiśvānara Agni as its deity. The first six ṛks are in the Jagatī metre, the seventh in the Triṣṭubh; the Anukramaṇī says that the last of the sūkta is a Triṣṭubh. In the Cāturviṃśika day, in the Āgnimāruta, this sūkta is the Vaiśvānarīya nivid-dhāna, as the sūtra Ā. Sū. 7-4 states. In the Abhiplava, in the Pṛṣṭhābhiplava ṣaḍaha, on the fifth day the same sūkta is the Vaiśvānara nivid-dhāna, as the sūtra पृक्षस्य वृष्णो वृष्टे शर्धाय नू चित्सहोजा इत्याग्निमारुतं (*pṛkṣasya vṛṣṇo vṛṣṭe śardhāya nū citsahojā ityāgnimārutaṃ*) (Ā. Sū. 7-7) states. In the Viṣuvat day, in the Āgnimāruta, the first two tṛcas are the stotriya and anurūpa, as the sūtra पृक्षस्य वृष्णो अरुषस्य नू सह इति स्तोत्रियानुरूपौ (*pṛkṣasya vṛṣṇo aruṣasya nū saha iti stotriyānurūpau*) (Ā. Sū. 8-6) states.
+
+##### Anuvāda
+
+This sūkta beginning with the word "pṛkṣasya" is the eighth sūkta in the first anuvāka. It has seven ṛks. Bharadvāja is the seer of this sūkta; Vaiśvānara Agni is the deity. The first six ṛks of this sūkta are in the Jagatī metre; the seventh is in the Triṣṭubh metre. In the Anukramaṇī it is said: "the last of Pṛkṣasya is a Triṣṭubh". In the sacrifice called Cāturviṃśika, among the Āgnimāruta śastra mantras, this sūtra, joined in as the Vaiśvānarīya nivid-dhāna sūkta, is to be recited; this is set out in the Āśvalāyana Śrauta Sūtra (Ā. Sū. 7-4). **NOTE** In the sacrifices called Pṛṣṭha and Abhiplava-ṣaḍaha, on the fifth day, this sūkta is to be recited among the mantras relating to the Abhiplava as the Vaiśvānarīya nivid-dhāna sūkta; this is set out in the Āśvalāyana Śrauta Sūtra (Ā. Sū. 7-7). And for the Āgnimāruta śastra mantras of the sacrifice called Viṣuvat, the first two tṛcas of this sūkta (six ṛks) are to be recited as the anurūpa stotra mantras; this is set out in the Āśvalāyana Śrauta Sūtra (Ā. Sū. 8-6).
+
+### Printed p. 467
+
+##### Particulars
+
+Maṇḍala 6. Anuvāka 1. Sūkta 8. Aṣṭaka 4. Adhyāya 5. Varga **NOTE**. Number of ṛks in the sūkta: 7. Ṛṣi: Bharadvāja Bārhaspatya. Deity: Vaiśvānara. Metre: 1-6 Jagatī; 7 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृ॒क्षस्य॒ वृष्णो॑ अरु॒षस्य॒ नू सहः॒ प्र नु वो॑चं वि॒दथा॑ जा॒तवे॑दसः ।  
+> वै॒श्वा॒न॒राय॑ म॒तिर्नव्य॑सी॒ शुचिः॒ सोम॑इव पवते॒ चारु॑र॒ग्नये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृक्षस्य । वृष्णः । अरुषस्य । नु । सहः । प्र । नु । वोचं । विदथा । जातवेदसः ।  
+> वैश्वानराय । मतिः । नव्यसी । शुचिः । सोमइव । पवते । चारुः । अग्नये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृक्षस्य संपृक्तस्य व्याप्तस्य । यद्वा । पृक्षं हनिर्लक्षणमन्नं । तद्वतः । वृष्णो
+> वर्षितुररुषस्यारोचमानस्य जातवेदसो जातानां वेदितुर्वैश्वानराग्नेः सहो
+> बलमभिभवनसमर्थं विदथा विदथे यज्ञे नु क्षिप्रं प्र वोचं । प्रब्रवीमि ।
+> प्रकर्षण स्तामीत्यर्थः । एको नुशब्दः पूरकः । नव्यसी नवतरा शुचर्निर्मला
+> यद्वा स्तोत्कृणां शोधयित्रि चारुः शोभना मतिर्मननीयू स्तुतिश्चास्मै वैश्वानरायाग्नये पवते । मत्सकाशात्स्रवति । स्वयमेव निर्गच्छतीत्यर्थः । सोम इव ।
+> यथा सोमो दशापवित्रात्स्रवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Pṛkṣa" means touched, pervaded; or else "pṛkṣa" is food in the form of oblations, so that it means the one who has it. Of the showerer, the radiant Jātavedas, the knower of what is born, Vaiśvānara Agni, I quickly proclaim in the sacrifice the might, the power to overcome; that is, I praise it greatly. One "nu" is a filler. This praise, which is newer, pure, or the purifier of the singers, beautiful, a thing to be thought about, flows forth to this Vaiśvānara Agni, flows from me; the meaning is that it goes out of itself, like Soma. As Soma flows from the ten-fold filter, so this praise.
+
+### Printed p. 468
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृक्षस्य (*pṛkṣasya*)—of the all-pervading one
+- वृष्णः (*vṛṣṇaḥ*)—the one who showers desires
+- अरुषस्य (*aruṣasya*)—the shining
+- जातवेदसः (*jātavedasaḥ*)—of Agni, who is Jātavedas
+- सहः (*sahaḥ*)—the uncommon strength
+- विदथा (*vidathā*)—in the sacrifice
+- नु (*nu*)—now
+- प्र वोचं (*pra vocaṃ*)—I praise
+- नव्यसी (*navyasī*)—new
+- शुचिः (*śuciḥ*)—pure
+- चारुः (*cāruḥ*)—charming
+- मतिः (*matiḥ*)—the praise
+- वैश्वानराय (*vaiśvānarāya*)—to Vaiśvānara
+- अग्नये (*agnaye*)—directed to Agni
+- सोम इव (*soma iva*)—like a stream of Soma juice
+- पवते (*pavate*)—flows without hindrance
+
+##### भावार्थ (Bhāvārtha)
+
+I now praise in the sacrifice the uncommon strength of Agni, the all-pervading, the showerer of desires, the shining, of the form of Jātavedas. That praise, new, pure and charming, flows without hindrance, directed to Agni of the form of Vaiśvānara, like a stream of Soma juice.
+
+##### English translation
+I commemorate promptly at the holy ceremony the might of the
+all-pervading! jatavedas, the showerer, the radiant : new, pure, and
+graceful praise issues (from me), like the Soma juice (from the filter) to
+Agni Vaishwanara.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जाय॑मानः पर॒मे व्यो॑मनि व्र॒तान्य॒ग्निर्व्र॑त॒पा अ॑रक्षत ।  
+> व्य१॒ं॑गतरि॑क्षममिमीत सु॒क्रतु॑र्वैश्वान॒रो म॑हि॒ना नाक॑मस्पृशत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जः । जायमानः । परमे । विओमनि । व्रतानि । अग्निः । व्रतपाः । अरक्षत ।  
+> वि । अंतरिक्षं । अमिमात । सुक्रतुः । वैश्वानरः । महिना । नाकं । अस्पृशत् ॥ २ ॥
+
+### Printed p. 469
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वैश्वानरोऽग्निर्व्रतपा व्रतस्य पालकः परम उत्कृष्टे व्योमनि व्योम्नाकाशे जायमानः सूर्यात्मना प्रादुर्भवन् व्रतानि कर्माणि लौकिकानि वैदिकानि
+> चारक्षत । रक्षति । अंतरिक्षं च व्यमिमात । एतदुपलक्षितांस्त्रीन् लोकान्निर्मितवान् ।
+> तथा सुक्रतुः शोभनकर्मा वैश्वानरोऽग्निर्महिना स्वमहिम्मा तेजसा नाकं
+> द्युलोकमस्पृशत् । स्पृशति स्म ॥
+
+##### Gist of the bhāṣya
+
+That Vaiśvānara Agni, the protector of rites, born in the highest sky and appearing in the form of the sun, protects the rites, the works, worldly and Vedic. He also built the intermediate space, that is, he built the three worlds characterised by it. Likewise Vaiśvānara Agni, the doer of good works, touched with his own greatness, his radiance, the heavenly world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that
+- अग्निः (*agniḥ*)—Agni, who is of the form of Vaiśvānara
+- व्रतपाः (*vratapāḥ*)—the protector of rites
+- परमे (*parame*)—in the highest
+- व्योमनि (*vyomani*)—in the intermediate space
+- जायमानः (*jāyamānaḥ*)—born (in the form of the sun)
+- व्रतानि (*vratāni*)—the Vedic rites of men
+- अरक्षत (*arakṣata*)—protects
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the intermediate space too
+- वि अमिमाश (*vi amimāśa*)—has built
+- सुक्रतुः (*sukratuḥ*)—the doer of excellent works
+- वैश्वानरः (*vaiśvānaraḥ*)—Vaiśvānara Agni
+- महिना (*mahinā*)—by his greatness
+- नाकं (*nākaṃ*)—the heavenly world
+- अस्पृशत् (*aspṛśat*)—has taken possession of
+
+##### भावार्थ (Bhāvārtha)
+
+Agni of the form of Vaiśvānara, the protector of rites, born in the form of the sun in the highest intermediate space, protects the Vedic rites of men. He has also built the intermediate space. Vaiśvānara Agni, the doer of excellent works, has taken possession of the heavenly world by his greatness.
+
+##### English translation
+That Agni who, as soon as born in the highest heaven, the protector
+of sacred rits, protects the pious acts (of men), he has made the manifold
+firmament : Vaishwanara, the performer of good deeds, has attained
+heaven by his greatness.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य॑स्तभ्ना॒द्रोद॑सी मि॒त्रो अद्भु॑तोंत॒र्वान॑दकृणो॒ज्योति॑षा॒ तमः॑ ।
+
+### Printed p. 470
+
+> वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त  
+> वृष्ण्यं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अस्तभ्नात् । रोदसी इति । मित्रः । अद्भुतः । अंतःसावत् । अकृणोत् ।  
+> ज्योतिषा । तमः ।  
+> वि । चर्मणी इवेति चर्मणीऽइव । धिषणे इति । अवर्तयत् । वैश्वानरः । विश्वं ।  
+> अधत्त । वृष्ट्यं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो मित्रभूतः सर्वेषामद्भुतो महान् आश्चर्यभूतो ना वैश्वानरोऽग्नी रोदसी द्यावापृथिव्यौ व्यस्तभ्नात् । विशेषेण स्तंभितवान् । यथाधो न
+> पततस्तथा स्वकीयदेशे स्थापितवानित्यर्थः । तथा ज्योतिषा तेजसा तमोऽंधकारं
+> चांतर्वावदंतर्हितं तिरोहितमकृणोत् । अकरोत् ॥ वावदिति वातेर्गतिकर्मणो
+> यज्लुगंतस्य रूपं ॥ अपि च धिषणे धारयित्र्यौ द्यावापृथिव्यौ चर्मणी इव
+> यथा पशोर्विशसिता द्वे चर्मणी शोषणार्थं प्रसारयति तथा व्यवर्तयत् ।
+> विवृते विस्तृते अकरोत् । किं बहुना वैश्वानरोऽयमग्निर्विश्वं सर्वं वृष्णं
+> वीर्यमधत्त । धत्ते । धारयति ॥
+
+##### Gist of the bhāṣya
+
+Vaiśvānara Agni, who is a friend to all, wonderful, great, a marvel, propped apart heaven and earth, the two "rodasī"; he held them up in particular so that they do not fall down, that is, he set them in their own place. Likewise by his radiance he made the darkness hidden, concealed within. The form is that of a root meaning movement, in the jug-ending class. And further, as one who has slaughtered an animal spreads out its two skins to dry, so he spread apart the two supporters, heaven and earth; he made them open and extended. What more need be said: this Vaiśvānara Agni holds all the virile power, he bears it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—the friend of all
+- अद्भुतः (*adbhutaḥ*)—of wonderful nature, Vaiśvānara Agni
+- रोदसी (*rodasī*)—both heaven and earth
+- व्यस्तभ्नात् (*vyastabhnāt*)—has held up
+- ज्योतिषा (*jyotiṣā*)—by radiance
+- तमः (*tamaḥ*)—darkness
+- अंतर्वावत् (*aṃtarvāvat*)—has hidden
+- धिषणे (*dhiṣaṇe*)—heaven and earth
+- चर्मणेव (*carmaṇeva*)—as one who dismembers the sacrificial animal spreads out the skins
+- वि अवर्तयत् (*vi avartayat*)—has spread widely
+- वैश्वानरः (*vaiśvānaraḥ*)—Agni of the form of Vaiśvānara
+- विश्वं (*viśvaṃ*)—the whole
+- वृष्ण्यं (*vṛṣṇyaṃ*)—generative capacity
+- अधत्त (*adhatta*)—has received
+
+##### भावार्थ (Bhāvārtha)
+
+Vaiśvānara Agni, the friend of all and of wonderful nature, has held up both heaven and earth. By his radiance he has hidden the darkness. As the one who dismembers the sacrificial animal, the cutter, spreads out the two skins, so Agni has spread heaven and earth widely. Agni, of the form of Vaiśvānara, has received the whole generative capacity.
+
+### Printed p. 471
+
+##### English translation
+The friend (of all), the wonderful (Agni), has upheld heaven and earth : he has hidden darkness within light : he has spread out the two sustaining (worlds, heaven and earth), like two skins : Vaishwanara comprehends all (creative) energy.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पामु॒पस्थे॑ महि॒षा अ॑गृभ्यत॒ विशो॒ राजा॑न॒मुप॑ तस्थुर्ऋ॒ग्मियं॑ ।  
+> आ दू॒तो अ॒ग्निम॑भरद्वि॒वस्व॑तो वैश्वान॒रं मा॑त॒रिश्वा॑ परा॒वतः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । उपस्थे । महिषाः । अगृभ्यत । विशः । राजानं । उप । तस्थुः । ऋग्मियं ।  
+> आ । दूतः । अग्निं । अभरत् । विवस्वतः । वैश्वानरं । मातरिश्वा । परावतः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आप इत्यंतरिक्षनाम । अपामंतरिक्षस्योपस्थ उपस्थाने मध्यॆ महिषाः ।
+> महन्नामैतत् । महांतो मरुतोऽगृभ्य त । अगृह्णन् । इमं वैश्वानरं वैद्युतात्मना वर्तमानमजानन्नित्यर्थः । गृहीत्या च विशः प्रजा राजानं स्वामिनमृग्मियमर्चनीयमुप तस्थुः । अस्तुवन् । आपि चेमं वैश्वानरमग्निं पुरा सूर्यसमीपे
+> विद्यमानं दूतो वेगवान् देवानां दूतो वा मातरिश्वा वायुः परावतो
+> दूरदेशाद्विवस्वत आदित्यादाभरत् । इमं लोकं प्रत्याजहार ॥
+
+##### Gist of the bhāṣya
+
+"Āpaḥ" is a name of the intermediate space. In the lap, the middle, of the intermediate space, the "mahiṣāḥ", the great Maruts ("mahiṣa" being a name for "great"), seized this Vaiśvānara, who was present as lightning; the meaning is that they did not know him. **NOTE** And having seized him, the people, the subjects, stood near the king, their lord, worthy of praise, and praised him. And further, this Vaiśvānara Agni, who before was near the sun, Mātariśvan, the swift one, or the messenger of the gods, that is, the wind, carried from far away, from Vivasvat, the Āditya; he brought him to this world.
+
 ---
 
-**Progress note:** Done through printed p. 464. Mandala 6 Sukta 7, Rks 2-6 (pp. 459-464)
+**Progress note:** Done through printed p. 471. Mandala 6 Sukta 7 Rk 7; Sukta 8 Rks 1-4 (pp. 465-471)
