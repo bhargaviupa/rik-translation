@@ -8626,6 +8626,262 @@ Yāska has given an explanation of this Ṛk: नीचीनद्वारं 
 
 Varuṇa wets the earth, that is, the broad firmament; that the firmament too can be denoted by the word for earth has been stated before. And he wets also heaven, the world of the sky. When he desires the milked, that is, the fullness of water, or else when "milked" means the water, and by it its product, plants and the like, is indicated; when he desires that the plants and the like may grow, then immediately after that, the mountains, that is, the rocky heights that have ridges, cover themselves with the cloud. Moreover, the Maruts, the heroes, desiring strength, **NOTE**, and specially the impellers of the rain, loosen the clouds.
 
+### Printed p. 236
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- दुग्धं (*dugdhaṃ*)—to milk the cloud (to pour out rain)
+- वष्टि (*vaṣṭi*)—desires (then)
+- भूमिं (*bhūmiṃ*)—the earth
+- पृथिवीं (*pṛthivīṃ*)—and the firmament
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heaven
+- उनत्ति (*unatti*)—he drenches with water
+- आदित् (*ādit*)—at that very moment
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- अभ्रेण (*abhreṇa*)—with clouds
+- सं वसंत (*saṃ vasaṃta*)—cover themselves
+- तविषीयंतः (*taviṣīyaṃtaḥ*)—who have gained zeal through strength
+- वीराः (*vīrāḥ*)—the Maruts
+- श्रथयंत (*śrathayaṃta*)—make the clouds move
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Varuṇa desires to pour out rain, he drenches the earth, the firmament and the heaven with water. At that very moment the mountains cover their peaks with clouds. The Maruts, who have gained zeal through strength, make the clouds move.
+
+##### English translation
+Varuna waters earth, mid-air, and heaven, when he pleases (to send forth) the milk (of the cloud): thereupon the mountains clothe (their summits) with the rain-cloud, and the hero, (Maruts), exulting in their strength, compel (the clouds) to relax.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मामू॒ प्वा॑सु॒रस्य॑ श्रु॒तस्य॑ म॒हीं मा॒यां वरु॑णस्य॒ प्र  ॑
+> वोचं ।  
+> माने॑नेव तस्थि॒वा अं॒तरि॑क्षे॒ वि यो म॒मे पृ॑थि॒वीं  ॑
+> सूर्येण ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । ऊं इति । सु । आसुरस्य । श्रुतस्य । महीं । मायां । वरुणस्य । प्र । वोचं ।  
+> मानेन इव । तस्थिवान् । अंतरिक्षे । वि । यः । ममे । पृथिवीं । सूर्येण ॥ ५ ॥
+
+### Printed p. 237
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसुरस्यासुरसंबंधिनः । आसुराणामस्य च वध्यघातकभावः संबंधः ! आसुरहंतुरित्यर्थः । अथवासुरो मेघः । प्राणदानात्तत्संबंधिनः श्रुतस्य विश्रुतस्य
+> महीं महतीमिमां मायां प्रज्ञां प्र वोचं । प्रब्रवीमि । कैषा मायेति
+> सोच्यते । यो वरुणोऽंतरिक्षे तस्थिवान् तिष्ठन्मानेनेव दंडेनेव सूर्येण
+> पृथिवीमंतरिक्षं वि ममे परिच्छिन्नत्ति तस्मैषा माया ॥
+
+##### Gist of the bhāṣya
+
+The word for "of the asuras" means one related to the asuras; the relation between the asuras and him is that of the slain and the slayer; that is, he is the slayer of the asuras. Or else the asura is the cloud, because it gives life; then it means one related to it. "Of the renowned" means of the famed. "This great", that is, mighty, device, that is, wisdom, I proclaim, that is, I declare. What is this device? It is said: the Varuṇa who, standing in the firmament, measures out the earth, that is, the firmament, by the sun, as if with a measuring rod, that is, a staff, has this device. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- अंतरिक्षे (*aṃtarikṣe*)—in the firmament
+- तस्थिवान् (*tasthivān*)—standing
+- मानेनेव (*māneneva*)—as if with a measuring rod
+- सूर्येण (*sūryeṇa*)—by the sun
+- पृथिविं (*pṛthiviṃ*)—the firmament
+- वि ममे (*vi mame*)—measures out
+- आसुरस्य (*āsurasya*)—the slayer of the asuras
+- श्रुतस्य (*śrutasya*)—and renowned
+- महीं (*mahīṃ*)—great
+- इमां मायां (*imāṃ māyāṃ*)—this supernatural power
+- प्र वोचं (*pra vocaṃ*)—I praise and recite
+
+##### भावार्थ (Bhāvārtha)
+
+I praise and recite the great supernatural power of Varuṇa, the slayer of the asuras and the renowned, who, standing in the firmament, measures out the firmament by the sun as if with a measuring rod.
+
+##### English translation
+I proclaim this great device ef the renowned Varuna, the destroyer of the Asuras, who abiding in the mid-heaven, has meted the firmament by the sun, as if by a measure.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मामू॒ नु क॒वित॑मस्य मा॒यां म॒हीं दे॒वस्य॒ नकि॒रा  ॑
+> दधर्ष ।  
+> एकं॒ यदु॒द्ना न पृ॒णंत्येनी॑रासिं॒चंती॑र॒वन॑यः समु॒द्रं ॥
+
+### Printed p. 238
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । ऊं इति । नु । कवीतमस्य । मायां । महीं । देवस्य । नकिः । आ । दधर्ष ।  
+> एकं । यत् । उद्ना । न । पृणंति । एनीः । आसिंचंतीः । अवनयः । समुद्रं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवितमस्य प्रकृष्णप्रज्ञस्य देवस्य द्योतमानस्य स्तुत्यस्य वा वरुणस्येमां
+> सर्वप्रसिद्धां महीं महतीं मायां प्रज्ञां नकिर्नैवा दधर्ष । न हिनस्ति कश्चिदपि ।
+> ऊ न्विति पूरणौ । यद्यस्मादेकं समुद्रमुद्योदकेन न पृणंति न पूरयंति ।
+> काः । एनीरेन्यः शुभ्रा गमनशीला वासिंचंतीरुदकमासेचयंत्योऽवनयो
+> नद्यः । बह्वो नद्यः सर्वदोदकेन पूरयंत्योऽपि नैकमपि समुद्रं पूरयंतीति । इदं वरुणस्य महत्कर्मेति । अत्रांतरिक्षविस्तारादिसमुद्रापूरणपर्यंतं
+> कर्म परमेश्वरस्यॆवोचितं न वरुणस्येति न वाच्यं तस्य वरुणादिरूपावसा नात् ।
+> एष ब्रह्मेत्यादि श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+Of Varuṇa, the one of surpassing wisdom, the god, that is, the shining or the praiseworthy, this universally known great device, that is, wisdom, no one ever assails; no one at all harms it. The two particles are mere fillers. The reason is this: the rivers, bright and swift-flowing, pouring water, that is, many rivers always filling it with water, do not fill even the one ocean. This is Varuṇa's great work. It must not be said that the work extending from the spreading out of the firmament to the non-filling of the ocean befits the Supreme Lord alone and not Varuṇa, since he has the form of Varuṇa and the rest **NOTE**; for there is the śruti एष ब्रह्मेत्यादि श्रुतेः (*eṣa brahmetyādi śruteḥ*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—by the greatness of which Varuṇa
+- एनीः (*enīḥ*)—flowing
+- आ सिंचंतीः (*ā siṃcaṃtīḥ*)—filled with water
+- अवनयः (*avanayaḥ*)—(many) rivers also
+- एकं समुद्रं (*ekaṃ samudraṃ*)—a single ocean
+- उद्ना (*udnā*)—with water
+- न पृणंति (*na pṛṇaṃti*)—cannot fill
+- कवितमस्य (*kavitamasya*)—who has the most excellent wisdom
+- देवस्य (*devasya*)—and is resplendent, of Varuṇa
+- इमां (*imāṃ*)—famous
+- महीं (*mahīṃ*)—and great
+- मायां (*māyāṃ*)—wisdom
+- नकिः (*nakiḥ*)—no one at all
+- आ दधर्ष (*ā dadharṣa*)—can resist
+
+##### भावार्थ (Bhāvārtha)
+
+That the ocean has such a depth that many rivers, though they come flowing full of floods, cannot fill it, is Varuṇa's greatness itself. No one at all can resist the famous and great wisdom of Varuṇa, who has such most excellent wisdom and is resplendent.
+
+##### English translation
+No one has counteracted the divice of the most sagacious divinity, whereby the lucid water-shedding rivers do not fill the ocean with water.
+
+### Printed p. 239
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्य॒म्यं॑ वरुण मि॒त्र्यं॑ वा॒ सखा॑यं वा॒ सद॒मिद्भात॑रं  
+> वा ।  
+> वे॒शं वा॒ नित्यं॑ वरु॒णार॑णं वा॒ यत्सी॒माग॑श्चकृ॒माति॒श्रथ॒स्तत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्यम्यं । वरुण । मित्र्यं । वा । सखायं । वा । सदं । इत् । भ्रातरं । वा ।  
+> वेशं । वा । नित्यं । वरुण । अरुणं । वा । यत् । सीं । आगः । चक्रम । शिश्रथः । तत् ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण अर्यम्यं । अर्यमैवार्यम्यः ॥ स्वार्थिको यत् । आर्तेरिदं
+> रूपं ॥ प्रदातारमित्यर्थः । अथवेरणान्मननाच्च शास्त्रीत्यर्यमा गुरुः । तं । वा
+> अथवा मित्र्यं ॥ इमिदा स्नेहन इत्यस्मान्मित्रं । स्वार्थिको यत्॥ आनुरक्तमित्यर्थः।
+> वा अथवा सखायं समानख्यानं सदमित्सर्वदैव भ्रातरं वा । नित्यं निरंतरं वेशं
+> निकटनिकेतनवर्तिनं वा । अरणं वा । अशब्दमित्यर्थः । अथवारणमदातारं वा नित्यं
+> निरंतरं । एतान्नृति यत्सिं यदेतदागोऽपराधं चक्रम तच्छिश्रथः । अस्यत्तो
+> विनाशय ॥
+
+##### Gist of the bhāṣya
+
+"O Varuṇa", whether to अर्यम्यं (*aryamyaṃ*), that is, to Aryaman himself, the giver; or else, because he guides and reflects, one who instructs: Aryaman, the teacher; to him; or to मित्र्यं (*mitryaṃ*), the friend, that is, one who is attached to us in affection; or to the companion, that is, one of the same fame; or to the brother, always; constantly to the neighbour, that is, one who dwells in a house close by; or to अरणं (*araṇaṃ*), that is, one without speech; or else to अरणं (*araṇaṃ*), one who does not give, continually. Whatever offence we have committed against any of these, loosen that, destroy it from us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- अरम्यं (*aramyaṃ*)—whether against one who has done us a service
+- मित्रं (*mitraṃ*)—or against a friend
+- वा (*vā*)—or
+- स खायं (*sa khāyaṃ*)—against a companion
+- वा (*vā*)—or
+- सदमित् (*sadamit*)—always
+- भ्रातरं (*bhrātaraṃ*)—against a brother
+- नित्यं (*nityaṃ*)—always
+- वेशं वा (*veśaṃ vā*)—or against one who lives next door
+- अरणं वा (*araṇaṃ vā*)—or against a mute person
+- यत् सीं (*yat sīṃ*)—of whatever kind
+- आगः (*āgaḥ*)—sin or injury
+- चक्रम (*cakrama*)—we have done
+- तत् (*tat*)—all those sins
+- शिश्रथः (*śiśrathaḥ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, whether it be against one who has done us a service, or against our friend, companion, brother or a mute person, whatever kind of injury we may have done, destroy all those sinful acts, and so deal that that sin may not cling to us, and forgive us.
+
+### Printed p. 240
+
+##### English translation
+If, Varuna, we have ever committed on offence against a benefactor, a friend, a companion, a brother, a near neighbour, or Varuna, a dumb man, remove it from us.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒पि यद्वा॑ घा स॒त्यम॒त यन्न वि॒द्म ।  
+> सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कितवासः । यत् । रिरिपुः । न । दीवि । यत् । वा । घ । सत्यं । उत । यत् । न । विष्म ।  
+> सर्वा । ता । वि । स्य । शिथिराइव । देव । अध । ते । स्याम । वरुण । प्रियासः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कितवासः कितवा द्यूतकृतः । किं तवास्ति सर्वं मया जितमिति वदतीति कितवः ।
+> न दीवि न देवने द्योते यथा यद्रिरिपुर्लोकयंति पापमारोपयंति तथास्मासु
+> द्वेष्टारो मयि त्वमेतत्पापमकरोरित्याक्षिपंति ॥ अत्र पुरस्तादुपचारोऽपि नकार
+> उपमार्थीयः ॥ ना अथवा । घेति पूरणः । यत्पापं सत्यमारोपमंतरेण
+> कृतवंतः स्मः । उतापि च यत्कृतं पापं न विद्म न जानीमः ता तानि सर्वा सर्वाणि
+> शिथिरेव शिथिलानीव शिथिलबंधनानि फलानीव वि ष्य । विमोचय ॥ सृतिरुपसृष्टो
+> विमोचने ॥ हे देव आधानंतरं ते तव प्रियासः प्रियाः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+कितवासः (*kitavāsaḥ*) are gamblers; "what have you? all has been won by me", so says one, hence the gambler. "Not in play", that is, in gaming, in the shining; as in play they make a charge and impute sin, so haters of us accuse thus: "you did this sin against me". Here the word for "not" stands in front, as a particle of comparison. **NOTE** Or else the particle घ (*gha*) is a filler. The sin which we have committed truly, without any false imputation; and also the sin committed which we do not know: all those, like loosened, that is, slack-bound fruits, release. And, O god, thereafter may we be dear to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Varuṇa who are of divine nature
+- वरुण (*varuṇa*)—O Varuṇa
+- दीवि (*dīvi*)—in dice and the like
+- कितवासो (*kitavāso*)—like gamblers
+- यत् रिरिपुः (*yat riripuḥ*)—whatever deceitful act we have committed (deliberately)
+- वा (*vā*)—or
+- यत् (*yat*)—whatever sinful act
+- सत्यं (*satyaṃ*)—certainly
+- न विद्य (*na vidya*)—we have done without knowing
+- सर्वा ता (*sarvā tā*)—all those sins also
+- शिथिरेव (*śithireva*)—as fruits become loose from the branch and fall down
+- विष्य (*viṣya*)—push away from us
+- अध (*adha*)—only thereafter
+- ते (*te*)—to you
+- प्रियासः (*priyāsaḥ*)—beloved
+- स्याम (*syāma*)—we shall be
+
+### Printed p. 241
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, who are of divine nature, as gamblers in dice and the like deliberately commit deceitful acts, so if we have committed deceitful acts, or if through our ignorance we have committed any sinful act, put all that sin far from us, as a fruit loosened from the branch of a tree falls down; only thereafter shall we be dear to you. And grant that it may be so.
+
+##### English translation
+If, like gamblers, who cheat at play, (we commit offences) knowingly, or (those) of which we know not, divine Varuna, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuna, to you.
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राग्नी यमिति षडृचं चतुर्दशं सूक्तमत्रेरार्षमानुष्टुभमैंद्राग्नं ।
+> षष्ठी विराट् पूर्वा । आद्यौ दशकावष्टकास्त्रयः । अनु. ९-११ । इति परिभाषितत्वात् ।
+> तथा चानुक्रांतं । इंद्राग्नी षळ्ळैंद्राग्नमानुष्टुभं विराट् पूर्वांतमिति ॥
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इंद्राग्नी यमिति (*iṃdrāgnī yamiti*) has six Ṛks and is the fourteenth sūkta. It is of Atri's seership, in the Anuṣṭubh metre, and its deity is Indra and Agni. The sixth Ṛk is Virāṭ-pūrvā, because of the definition आद्यौ दशकावष्टकास्त्रयः (*ādyau daśakāvaṣṭakāstrayaḥ*) (Anu. 9-11). **NOTE** Accordingly it is described in the Anukramaṇī: इंद्राग्नी षळ्ळैंद्राग्नमानुष्टुभं विराट् पूर्वांतमिति (*iṃdrāgnī ṣaḷḷaiṃdrāgnamānuṣṭubhaṃ virāṭ pūrvāṃtamiti*). Its ritual use is by indication (laiṅgika).
+
+Translation: The sūkta इंद्राग्नी यं (*iṃdrāgnī yaṃ*) is the fourteenth sūkta in the sixth anuvāka. It has six Ṛks. Atri is the seer of this sūkta; Indra and Agni are the deities. Anuṣṭubh is the metre. Only the sixth Ṛk is of the metre called विराट् पूर्वा (*virāṭ pūrvā*). In the Chandonukramaṇī it is said: आद्य दशकावष्टकास्त्रयः (*ādya daśakāvaṣṭakāstrayaḥ*). That is, the Ṛks of this metre have five pādas in all; the first two pādas have ten syllables each and the last three pādas eight syllables each; thus the characteristic of this metre called विराट् पूर्वा (*virāṭ pūrvā*) is stated in the Chandonukramaṇī. This metre also has the name पंक्युत्तरा (*paṃkyuttarā*) (Chaṃ. Anu. 9-11). **NOTE** In the Anukramaṇī it is said: इंद्राग्नी षळ्ळैंद्राग्नमानुष्टुभं विराट् पूर्वांतं (*iṃdrāgnī ṣaḷḷaiṃdrāgnamānuṣṭubhaṃ virāṭ pūrvāṃtaṃ*). The ritual use is by indication.
+
 ---
 
-**Progress note:** Done through printed p. 235. Sūkta 85 (Atri, Varuṇa), Ṛk 1-3 and bhāṣya of Ṛk 4
+**Progress note:** Done through printed p. 241. Ṛk 4 end, Ṛk 5-8 of sūkta 85, start of next sūkta (Indra-Agni)
