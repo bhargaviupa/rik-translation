@@ -23,10 +23,10 @@
 | 12 | 364 | 825 | 886 | 2075 | 0 |
 | 13 | 0 | 0 | 0 | 0 | 0 |
 | 14 | 711 | 324 | 799 | 1834 | 2 |
-| 15 | 448 | 11 | 822 | 1281 | 5 |
-| 16 | 209 | 1332 | 710 | 2251 | 7 |
+| 15 | 449 | 11 | 821 | 1281 | 5 |
+| 16 | 210 | 1332 | 709 | 2251 | 7 |
 | 17 | 498 | 41 | 1001 | 1540 | 1 |
 | 18 | 335 | 3 | 659 | 997 | 0 |
-| **all** | 5844 | 23837 | 11004 | 40685 | 895 |
+| **all** | 5846 | 23837 | 11002 | 40685 | 895 |
 
 **Limits.** A reference is found only where a work's abbreviation stands before a number of two or more parts; a quotation without a number, a reference written in words ("the next Ṛk", "Rik 9 of this sūkta") and a number whose abbreviation was misread beyond recognition are not listed. The kind is decided from the abbreviation as written; misread abbreviations fall under "other". Vol 13 is not translated; Vol 19 is in translation.

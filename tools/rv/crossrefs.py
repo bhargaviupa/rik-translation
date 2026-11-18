@@ -29,6 +29,7 @@ def _first_words():
     out = {'पु', 'मि', 'सा', 'ता', 'पं', 'म', 'ऋ', 'उ', 'पा', 'फि', 'तै', 'ऐ', 'शा', 'श', 'का', 'वा', 'आ', 'नि', 'ब्र', 'ऋग्वे'}
     return out
 FIRSTW = _first_words()
+REFL = re.compile(r'(?<![A-Za-zāīūṛṃḥ.])((?:Ṛ|Pu|Mi|Ma|Mu))\s(Saṃ\.)\s*(' + NUM + ')')      # "(Pu Saṃ. 1-3-7)", "(Ṛ Saṃ. 7-55-1)": the dot after the first word is missing in the print
 SUBPAGE = re.compile(r'\*\(\s*pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?[^)]*\)\*')      # "*(p. 440)*", "*(pp. 439–440)*" inside a section whose heading spans several pages
 RANGE = re.compile(r'^#{2,4} Pages?\s+(\d+)\s*[–-]\s*(\d+)')
 PAGE = re.compile(r'^#{2,4} .*?(?:[Pp]age|[Pp]\.|[Pp]ages|[Pp]p\.)\s*([0-9]+|[ivxlc]+)\b')
@@ -65,6 +66,8 @@ def run(vols):
             ms = [m for m in REFB.finditer(l) if m.group(1) or re.match(DEVW, m.group(2)).group() in FIRSTW]
             starts = {m.start(3) for m in ms}
             ms = [(m, m.group(2), m.group(3), m.start(3)) for m in ms] + [(m, m.group(1), m.group(2), m.start(2)) for m in REF.finditer(l) if m.start(2) not in starts]
+            lm = [(m, m.group(1) + '. ' + m.group(2), m.group(3), m.start(3)) for m in REFL.finditer(l)]
+            ms = [t for t in ms if t[3] not in {x[3] for x in lm}] + lm
             ms.sort(key=lambda t: t[3])
             indic = []                                              # (end, number) of references read in Indic script: their Latin twin in italics follows within 60 characters
             for m, g1, g2, st_ in ms:

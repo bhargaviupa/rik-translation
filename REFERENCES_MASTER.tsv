@@ -6,9 +6,9 @@ NOT IN LIST	Ā. Sū.		Ā. Sū.	the form of the list	high	yes	45		1									4				
 NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	yes	44		5	5	8	7	5	3	4	6	1							
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Saṃ.			no list form close to it	none		14		1				1				1	1	2	1	2	2	2	1
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
 NOT IN LIST	anu.			no list form close to it	none		10	1	2	2			1	1	1		2							
+NOT IN LIST	Saṃ.			no list form close to it	none		10		1				1				1	1	2	1			2	1
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
 NOT IN LIST	dhā.			no list form close to it	none		8	6				2												
 NOT IN LIST	āśva.			no list form close to it	none		8	1				4				3								
@@ -333,11 +333,11 @@ mistake	Bhā. U.	→ Chā. U.					34											4	16	1		1	12
 mistake	Ṛgve.	→ Ṛ. Saṃ.					30			5		1	2									1	13	8
 mistake	ṛ.	→ Ṛ. Saṃ.					29	2							7	6	14							
 mistake	Ṛg. Saṃ.	→ Ṛ. Saṃ.					28		5		21		1								1			
+mistake	Pu. Saṃ.	→ Ṛ. Saṃ.					26													7	2	17		
 mistake	Si.	→ Ni.					26													8	5	13		
 mistake	Ai. Br.	→ Ai. Brā.					25			10						6	9							
 mistake	tai. brā.	→ Tai. Brā.					24	3	3	2		5	4		3		3			1				
 mistake	Ṛg.	→ Ṛ. Saṃ.					24		3	1	6	3											7	4
-mistake	Pu. Saṃ.	→ Ṛ. Saṃ.					24													7	1	16		
 mistake	Ma.	→ M.					23			4		8	9			1					1			
 mistake	Kṛ. Saṃ.	→ Tai. Saṃ.					22											7	4		2	2	5	2
 mistake	ma.	→ M.					21		7	4	1	4	3		2									
@@ -452,7 +452,7 @@ extra	Go. Brā.	Gopatha Brāhmaṇa					2																2
 extra	Ṛ. Saṃ. Bhā.	Ṛgveda-saṃhitā bhāṣya					1																1	
 extra	Śā. Bhā.	Śaṅkara-bhāṣya					1																1	
 legend	Pā. Sū.	Pāṇinīya Sūtra					5875		11	1194	436	19	606	640	1269		75	1	734	65		824	1	
-legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3734	24	146	100	83	78	12	176	9	36	404	647	353	313	425	178	453	297
+legend	Ṛ. Saṃ.	Ṛgveda-saṃhitā					3736	24	146	100	83	78	12	176	9	36	404	647	353	313	426	179	453	297
 legend	Ni.	Nirukta, Nighaṇṭu					3503	2	116	83	129	161	256	186	61	254	381	291	261	200	447	310	210	155
 legend	Tai. Saṃ.	Taittirīya Saṃhitā					480	26	4	12	14	65	30	15	1	9	80	52	38	10	42	16	31	35
 legend	Ai. Brā.	Aitareya Brāhmaṇa					376	6	3	20	5	15	4	17	3		12	44	35	28	39	33	64	48
