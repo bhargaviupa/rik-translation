@@ -24902,6 +24902,241 @@ The adorable Maruts, armed with bright lances and cuirassed with golden breast-p
 
 शुभं यातां रथाः अनु आवृत्सत (*śubhaṃ yātāṃ rathāḥ anu āvṛtsata*)—The chariots of the Marut deities, which travel happily, follow them. That is, the chariots carry them, according to their wish, to wherever the Marut deities desire to go. Or for the word शुभं (*śubhaṃ*) the sense water
 
+### Printed p. 686
+is taken (Ni. 2.24), then the sense can also be given that the chariots of the Maruts, going toward the clouds for the sake of water, carry them there. It is well known that the chariot of the Maruts is made of water. The last pāda of this Ṛk, शुभं यातामनु रथा अवृत्सत (*śubhaṃ yātāmanu rathā avṛtsata*), is repeated again and again, like a refrain, as the last pāda in all the Ṛks of this sūkta.
+
+#### Ṛk 2
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒यं द॑धिद्वे॒ तवि॑षीं॒ यथा॑ वि॒द बृ॒हन्म॑हांत उर्वि॒या वि  ॑
+> राजथ ।  
+> उ॒तांतरि॑क्षं ममिरे॒ व्योज॑सा॒ शुभं॑ या॒तामनु॒ रथा॑ अवृत्सत॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वयं । दधिध्वे । तविषीं । यथा । विद । बृहत् । महांतः । उर्विया । वि ।  
+> राजथ ।  
+> उत । अंतरिक्षं । ममिरे । वि । ओजसा । शुभं । यातां । अनु । रथाः । अवृत्सत ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं स्वयमसहायेनैव दधिद्वे । धारयद्वे । कुरुध्व
+> इत्यर्थः । किं । तविषीं बलं सामर्थ्यं । यथा विद जानीथ । अप्रतिबद्धसामर्थ्या
+> इत्यर्थः । हे महांतो यूयमुर्वियोरवः संतो वि । राजथ । उतापि चांतरिक्षमोजसा बलेन वि ममिरे । व्याप्नुथ । शुभमित्यादिगतं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you yourselves, without any helper, दधिद्वे (*dadhidve*), that is, you hold or exercise. What? तविषीं (*taviṣīṃ*), strength, capacity. As you know, that is, your capacity is unobstructed. O great ones, you shine widely **NOTE**. And you also pervade the firmament with your power. The rest, beginning शुभं (*śubhaṃ*), has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) यथा (*yathā*) विद (*vida*)—as seems fitting to you
+- तविषीं (*taviṣīṃ*)—strength
+- स्वयं (*svayaṃ*)—you yourselves, without the help of others
+- दधिध्वै (*dadhidhvai*)—you have held
+- महांतः (*mahāṃtaḥ*)—you who are great
+- उर्विया (*urviyā*)—exceedingly
+- वि (*vi*) राजथ (*rājatha*)—you shine
+- उत (*uta*)—and
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- ओजसा (*ojasā*)—with your power
+- वि (*vi*) ममिरे (*mamire*)—you have pervaded
+- शुभं (*śubhaṃ*)—as bringers of well-being
+- यातां (*yātāṃ*)—of the Maruts as they go
+- रथाः (*rathāḥ*)—the chariots also
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+### Printed p. 687
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, as seems fitting to you, you have held your strength without the help of others. You who are great shine exceedingly. You have pervaded the firmament with your power. The chariots of the Maruts, who go as bringers of well-being, also follow them.
+
+##### English translation
+Maruts, you have of yourselves maintained your vigour according as you judge (fit): you shine most mighty and vast, and you pervade the firmament with your power: may the cars of the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+यथा विद तविषीं स्वयं दधिध्वे (*yathā vida taviṣīṃ svayaṃ dadhidhve*)—O Maruts, if you wish, you display your strength, capacity and the rest, without the help of others, so that all may know it. Your strength, capacity and the rest are unfathomable. You are not ones who look for another's help. The surpassing greatness of your capacity becomes visible to all when you move in the firmament (when you blow with force). The chief sense of the sentence is that you make this display of your strength only when it pleases you. The sentences that follow, बृहन्महांत उर्विया वि राजथ (*bṛhanmahāṃta urviyā vi rājatha*) and उतांतरिक्षं ममिरे वोजसा (*utāṃtarikṣaṃ mamire vojasā*), make clear in another form the very sense just stated.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒कं जा॒ताः सु॒भ्वः॑ सा॒कमु॑क्षि॒ताः श्रि॒ये चि॒दा प्र॑त॒रं  ॒॑॑
+> वा॑वृधु॒र्नरः॑ ।  
+> वि॒रो॒किणः॒ सूर्य॑स्येव र॒श्मयः॒ शुभं॑ या॒तामनु॒ रथा॑  
+> अवृत्सत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साकं । जाताः । सुभ्वः । साकं । उक्षिताः । श्रिये i चित् । आ । प्रतरं । ववृधुः ।  
+> नरः ।  
+> विरोकिणः । सूर्यस्य इव । रश्मयः । शुभं । यातां । अनु । रथाः । अवृत्सत ॥३॥
+
+### Printed p. 688
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकं सहैव जाता उत्पन्ना सुभ्वः सुष्टु भवंतः । महांत इत्यर्थः । तथैव
+> साकं सहैवोक्षिताः सेक्तारो वर्षकाः श्रिये चित् शोभाया एव प्रतरं प्रकृष्टतरमा सर्वतो नवृधुः । अवर्धयन् । नरः कर्मणां नेतारो विरोकिणः विरोचमानाः सूर्यस्येव रश्मयः सूर्यरश्मय इव । शुभमित्यादि गतं ।
+
+##### Gist of the bhāṣya
+
+Born साकं (*sākaṃ*), that is, together; सुभ्वः (*subhvaḥ*), those who are well, meaning great. In the same way they are sprinklers together, givers of rain; they have increased exceedingly, more and more, on all sides, for splendour alone. They are the leaders of rites, shining like the rays of the sun. The rest, beginning शुभं (*śubhaṃ*), has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साकं (*sākaṃ*)—together
+- जाताः (*jātāḥ*)—born
+- सुभ्वः (*subhvaḥ*)—great ones
+- साकं (*sākaṃ*)—together
+- उक्षिताः (*ukṣitāḥ*)—the Maruts, who pour down rain
+- श्रिये (*śriye*) चित् (*cit*)—as bringers of the utmost beauty
+- प्रतरु (*prataru*)—exceedingly
+- आ (*ā*)—everywhere
+- ववृधुः (*vavṛdhuḥ*)—have grown
+- सूर्यस्येव (*sūryasyeva*)—of the sun
+- रश्मयः (*raśmayaḥ*)—like the rays
+- विरोकिणः (*virokiṇaḥ*)—they are radiant
+- शुभं (*śubhaṃ*)—as bringers of auspiciousness
+- यातां (*yātāṃ*)—of the Maruts as they go
+- रथाः (*rathāḥ*)—the chariots also
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, born together, great, and pouring down rain together, have grown exceedingly everywhere, as bringers of the utmost beauty. They are radiant like the rays of the sun. The chariots of the Maruts, who go as bringers of auspiciousness, also follow them.
+
+##### English translation
+Born simultaneously, mighty, co-dispensers of moisture, they have grown exceedingly in glory: leaders (of rites), and radiant (are they) as the rays of the sun : may the cars of the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+साकं जाताः (*sākaṃ jātāḥ*)—सहैव उत्पन्नाः (*sahaiva utpannāḥ*). Those born together. We have already explained the origin of the Marut deities, on page 596 of this part. It was said earlier that Indra cut with his thunderbolt the embryo in the womb of the goddess Diti into seven parts, and each of those seven parts again into seven, and that the Supreme Lord, out of a mind of grace, turned all those forty-nine fragments of the embryo into separate sons; these are the Marut hosts. Therefore the seer describes these forty-nine Marut deities as साकं जाताः (*sākaṃ jātāḥ*), born at one time.
+
+### Printed p. 689
+सुष्टु भवंतः । महांत इत्यर्थः (*suṣṭu bhavaṃtaḥ | mahāṃta ityarthaḥ*)—those who shine well; that is, as described earlier in the Ṛk
+अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः । अग्निभ्राजसो विद्युतो गभस्तोः शिप्राः शीर्षसु वितता हिरण्ययाः ॥ (*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ | agnibhrājaso vidyuto gabhastoḥ śiprāḥ śīrṣasu vitatā hiraṇyayāḥ ‖*)
+(Ṛ. Saṃ. 5-54-11),
+these Marut deities bear on their arms the weapon called ṛṣṭi; they wear anklets on their feet, necklaces on their chests and a golden crown on their heads; holding in their hands divine weapons gleaming like lightning, seated on an excellent chariot, they shine with a divine brilliance blazing like Agni. This is the intended sense. Besides, they may also be called those of great glory and of immense strength and capacity.
+
+विरोकिणः सूर्यस्येव रश्मयः आ ववृधुः (*virokiṇaḥ sūryasyeva raśmayaḥ ā vavṛdhuḥ*)—As the rays of the shining sun spread everywhere in the firmament, so the Marut deities, whose nature is to move in the firmament, also increased everywhere, that is, spread. (The chief sense is that, because the wind blows everywhere in the firmament, it spread as the light of the sun spreads everywhere.)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒भू॒षेण्यं॑ वो मरुतो महित्व॒नं दि॑दृ॒क्षेण्यं॒ सूर्य॑स्येव॒  ॑
+> चक्षणं ।  
+> उ॒तो अ॒स्मा अ॑मृत॒त्वे द॑धातन॒ शुभं॑ या॒तामनु॒ रथा॑  
+> अवृत्सत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आभूषेण्यं । वः । मरुतः । महित्वनं । दिदृक्षॆण्यं । सूर्यस्य इव । चक्षणं ।  
+> उतो इति । अस्मान् । अमृतत्वे । दधातन । शुभं । यातां । अनु । रथाः ।  
+> अवृत्सत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 690
+
+> हे मरुतो वो युष्माकं महित्वनं महत्त्वमाभूषेण्यं स्तुत्यं । किंच
+> सूर्यस्येव चक्षणं रूपमिव दिदृक्षेण्यं दर्शनीयं । उतो अपि चास्मानमृतत्वे
+> मोक्षे । स्वर्ग इत्यर्थः । तत्र दधातन । धारयत । शिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, your greatness is to be praised (आभूषेण्यं (*ābhūṣeṇyaṃ*)). Moreover, it is to be seen, like the form of the sun (दिदृक्षेण्यं (*didṛkṣeṇyaṃ*)). And set us in immortality, that is, in liberation, which means heaven. The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- महित्वनं (*mahitvanaṃ*)—greatness
+- आभूषेण्यं (*ābhūṣeṇyaṃ*)—is to be praised
+- सूर्यस्य (*sūryasya*)—of the sun
+- चक्षणं (*cakṣaṇaṃ*) इव (*iva*)—like the form
+- दिदृक्षेण्यं (*didṛkṣeṇyaṃ*)—is worthy of being seen
+- उतो (*uto*)—and
+- अस्मान् (*asmān*)—us
+- अमृतत्वे (*amṛtatve*)—so that we attain freedom from death
+- दधातन (*dadhātana*)—set
+- शुभं (*śubhaṃ*)—as bringers of auspiciousness
+- यातां (*yātāṃ*)—of the Maruts as they go
+- रथाः (*rathāḥ*)—the chariots
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your greatness is to be praised. Your form, like the orb of the sun, is worthy of being seen and of being meditated upon. Grant that we become immortal. The chariots of the Maruts, who go as bringers of auspiciousness, follow them.
+
+##### English translation
+Your might, Maruts, is to be glorified : it is to be contemplated like the orb of the sun : sustain us ever in immortality: may the cars of the quick-moving (Maruts) arrive for our good.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑रयथा मरुतः समुद्र॒तो यू॒यं वृ॒ष्टिं व॑र्षयथा  
+> पुरीषिणः ।  
+> न वो॑ दस्रा॒ उप॑ दस्यंति धे॒नवः॒ शुभं॑ या॒तामनु॒ रथा॑  
+> अवृत्सत ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईरयथ । मरुतः । समुद्रतः । यूयं । वृष्टिं । वर्षयथ । पुरीषीणः।  
+> न । वः । दस्राः । उप । दस्यंति । धेनवः । शुभं । यातां ! अनु । रथाः । अवृत्सत ॥
+
+### Printed p. 691
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यां प्रथमस्याः पिंड्या उदीरयथेत्यनुवाक्या । सूत्रितं च । उदीरयथा मरुतः समुद्रतः प्र वो मरुतस्तविषा उदन्यवः । आ-२-१३ । इति ॥
+> हे मरुतो यूयं समुद्रतः समुद्रवणसाधनादंतरिक्षादुदीरयथ ।
+> प्रेरयथ वृष्टिं । अयमेर्वाथः पुनरुच्यते । हे पुरीषिणः । पृणतेः प्रीणातीर्वा
+> पुरीषमुदकं । हे तद्वंतो यूयं वृष्टिं वर्षयथ । हे दस्रा दर्शनीयाः
+> शत्रूणामुपक्षपयितारो ना वो युष्माकं धेनवः प्रीणयितारो मेघा
+> नोप दस्यंति । न शुष्यंति ॥
+
+##### Gist of the bhāṣya
+
+In the कारीर्यां (*kārīryāṃ*) rite, for the first पिंड्या (*piṃḍyā*) offering, उदीरयथ (*udīrayatha*) is the अनुवाक्या (*anuvākyā*) verse. The sūtra also states it: उदीरयथा मरुतः समुद्रतः प्र वो मरुतस्तविषा उदन्यवः (*udīrayathā marutaḥ samudrataḥ pra vo marutastaviṣā udanyavaḥ*) (Ā. 2-13). O Maruts, you send forth rain from the ocean, that is, from the firmament **NOTE**. This is the same sense repeated. O you who are पुरीषिणः (*purīṣiṇaḥ*), पुरीष (*purīṣa*) being water, derived from पृणतेः (*pṛṇateḥ*): you who possess it shower down rain. O दस्रा (*dasrā*), beautiful ones, destroyers of your enemies, your धेनवः (*dhenavaḥ*), the clouds that gratify, do not dry up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- समुद्रतः (*samudrataḥ*)—from the firmament
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- उदीरयथ (*udīrayatha*)—you send forth
+- पुरीषिणः (*purīṣiṇaḥ*)—you who are filled with water
+- वर्षयथ (*varṣayatha*)—you shower down rain
+- दस्राः (*dasrāḥ*)—O Maruts, of beautiful form
+- वः (*vaḥ*)—belonging to you
+- धेनवः (*dhenavaḥ*)—the gratifying clouds
+- न (*na*) उप (*upa*) दस्यंति (*dasyaṃti*)—never dry up
+- शुभं (*śubhaṃ*)—as bringers of auspiciousness
+- यातां (*yātāṃ*)—of the Maruts as they go
+- रथाः (*rathāḥ*)—the chariots also
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you send forth rain from the firmament. You who are filled with water shower down rain. O Maruts, of beautiful form, the gratifying clouds that belong to you never dry up. The chariots of the Maruts, who go as bringers of auspiciousness, also follow them.
+
+##### English translation
+You send (the rain), Maruts, from the firmament : charged with the waters you shower down the rain : destroyers of foes, your milch cows are never dry : may the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the कारीर्यॆष्टियल्लि (*kārīryèṣṭiyalli*), in the first पिंडिहोमदल्लि (*piṃḍihomadalli*), this Ṛk beginning उदीरयथा (*udīrayathā*) is to be recited as the अनुवाक्या (*anuvākyā*) mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उदीरयथा मरुतः समुद्रतः प्र वो मरुतस्तविषा उदन्यवः (*udīrayathā marutaḥ samudrataḥ pra vo marutastaviṣā udanyavaḥ*) (Ā. 2-13).
+
+समुद्रतः (*samudrataḥ*)—The word समुद्र (*samudra*) is read among the names of the firmament (Ni. 2.10), and in this Ṛk it is used in this same sense.
+
 ---
 
-**Progress note:** Done through printed p. 685. Ṛk 84 end, Ṛk 15, sūkta 55 intro, Ṛk 1 (pp. 680-685)
+**Progress note:** Done through printed p. 691. Ṛk 1 end, Ṛks 2-5 of sūkta 55 (pp. 686-691)
