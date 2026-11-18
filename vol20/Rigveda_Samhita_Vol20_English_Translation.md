@@ -17040,6 +17040,309 @@ You are amidst mortals at the celebration (of sacrifice), the invoker of the god
 > धन्या । चित् । हि । त्वे इति । धिषणा । वष्टि । प्र । देवान् । जन्म । गृणते । यजध्यै ।  
 > वेपिष्ठः । अंगिरसां । यत् । ह । विप्रः । मधु । छंदः । भनति । रेभः । इष्टौ ॥ ३ ॥
 
+### Printed p. 502
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धन्या धनमिच्छंती धनहेतुभूता धिषणा स्तुतिर्हे अग्ने त्वे त्वां वष्टि ।
+> कामयते । चिदित्येतत्पादपूरणं । किमर्थं । देवास्यष्टव्यानिंद्रादीन् प्र यजध्यै
+> प्रकर्षण यष्टुं त्वदीयं जन्म प्रादुर्भावं गृणते स्तुवते यजमानायेदृग्भूतयजमानार्थं । यद्ध यदा खल्वंगिरसामृषीणां मध्यॆ वेपिष्ठोऽतिशयेन
+> स्तुतेः प्रेरयिता विप्रो मेधावी रेभः स्तोता भरद्वाज इष्टौ यज्ञे मधु
+> मधुमन्मदकरं छंदः स्तोत्रं भनति उच्चारयति तदा धिषणा वष्टीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"Dhanyā": wishing for wealth, being the cause of wealth, "dhiṣaṇā", the praise, O Agni, wishes you ("tve" is "you"). The word "cit" only fills out the foot. For what purpose? In order to worship excellently ("pra yajadhyai") the gods who are to be worshipped, Indra and the rest; your "janma", your manifestation, is for the sacrificer who praises, for a sacrificer of this kind. When indeed, among the Aṅgirasa seers, Bharadvāja, "vepiṣṭhaḥ", the one who most impels praise, "vipraḥ", the wise one, "rebhaḥ", the praiser, at the sacrifice ("iṣṭau") pronounces the "madhu", honeyed, delight-giving "chandaḥ", the hymn of praise, then the praise wishes you. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्ध (*yaddha*)—(O Agni) when
+- अंगिरसां (*aṃgirasāṃ*)—among the Aṅgirases
+- वेपिष्ठः (*vepiṣṭhaḥ*)—who praises exceedingly
+- विप्रः (*vipraḥ*)—wise
+- रेभः (*rebhaḥ*)—a praiser, Bharadvāja
+- इष्टौ (*iṣṭau*)—at the sacrifice
+- मधु (*madhu*)—delightful
+- छंदः (*chaṃdaḥ*)—the hymn of praise
+- भनति (*bhanati*)—recites (then)
+- देवान् (*devān*)—the gods, Indra and the rest
+- प्र यजध्यॆ (*pra yajadhyè*)—to worship exceedingly
+- जन्म (*janma*)—your manifestation
+- गृणते (*gṛṇate*)—for the sacrificer who praises
+- धन्या (*dhanyā*)—recited with desire for wealth
+- धिषणा (*dhiṣaṇā*)—the hymn of praise
+- त्वे (*tve*)—you
+- वष्टि (*vaṣṭi*)—desires and praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when Bharadvāja, who among the Aṅgirases praises exceedingly, who is wise and a praiser, recites at the sacrifice the delightful hymn of praise, the praise recited with desire for wealth desires you and praises you, for the sacrificer who extols your manifestation in order to worship Indra and the other gods without hindrance.**NOTE**
+
+##### English translation
+Praise, solicitous of wealth. is ever addressed. Agni, to you inasmuch as your manifestation (enables) the worshipper to sacrifice to the gods when the pi us sage, the most earnest adorer amongst the Angirasas, the reciter (of the hymn), repeats at the ceremony, the gratifying measure.
+
+### Printed p. 503
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदि॑द्युत॒त्स्वपा॑को वि॒भावाग्ने॒ यज॑स्व॒ रोद॑सी उरू॒ची ।  
+> आ॒युं न यं नम॑सा रा॒तह॑व्या अं॒जंति॑ सुप्र॒यसं॒ पंच॒  ॑
+> जनाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदिद्युतत् । सु । अपाकः । विभावा । अग्ने । यजस्व । रोदसी इति । उरूची इति ।  
+> आयुं । न । यं । नमसा । रातहव्याः । अंजंति । सुप्रयसं । पंच । जनाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः स्वदिद्युतत् । सुष्टु द्योतते । दीप्यते । कथंभूतः । अपाकः ।
+> पाकः पक्तव्यप्रज्ञो मूर्खः । तद्विलक्षणोऽपाकः । विभावा दीप्तिमान् । शेषः
+> प्रत्यक्षकृतः । हे अग्ने स त्वमुरूची उरु विस्तीर्णमंचंत्यौ विस्त्रते रोदसी
+> द्यावापृथिव्य यजस्व । हविषा पूजय । आयुं न मनुष्यमतिथिमिव यं पंच
+> जना मनुष्या ऋत्विग्यजमानलक्षणा रातहव्या दत्तहविष्काः संतः सुप्रयसं
+> शोभनहविर्लक्षणमग्निं नमसान्नेन हनिर्लक्षणेनांजंति सिंचंति तर्पयंति स त्वं
+> यजस्वेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Agni "adidyutat": shines well, is lit up. Of what kind is he? "Apākaḥ": "pāka" is one whose understanding has still to ripen, a fool; the opposite of that is "apāka". "Vibhāvā": radiant. The rest of the sentence is in direct address: "O Agni, you, as such, worship with the oblation "rodasī", heaven and earth, which are widely spread, "urūcī". "Āyuṃ na": like a human guest, you whom "pañca janāḥ", the five peoples, men, namely the priests and the sacrificers, "rātahavyāḥ", having given the oblation, anoint, sprinkle, satisfy with "namasā", with food in the form of oblation, you who have "suprayasam", a fine oblation. Worship, such as you are." This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपाकः (*apākaḥ*)—possessing full understanding
+- विभावा (*vibhāvā*)—radiant, the Agni
+- सु (*su*)—exceedingly
+- अदिद्युतत् (*adidyutat*)—is shining
+- सुप्रयसं (*suprayasaṃ*)—who has an excellent oblation
+- यं (*yaṃ*)—whom, you
+- पंचजनाः (*paṃcajanāḥ*)—all men, priests, sacrificers and the rest
+- रातहव्याः (*rātahavyāḥ*)—offering oblations
+- आयुं न (*āyuṃ na*)—like a human guest
+- नमसा (*namasā*)—with homage
+- अंजंति (*aṃjaṃti*)—satisfy (such)
+- अग्ने (*agne*)—O Agni (you)
+- उरूची (*urūcī*)—very widely spread
+- रोदसी (*rodasī*)—heaven and earth
+- यजस्व (*yajasva*)—worship with the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who possesses full understanding and is radiant, is shining exceedingly. O Agni, you who have an excellent oblation, whom all men satisfy with homage while offering oblations, such as you are, worship with the oblation heaven and earth, which are very widely spread.
+
+### Printed p. 504
+
+##### English translation
+The brilliant Agni, mature in wisdom, has shone resplendently; offer worship to the wide-spread heaven and earth, you whom well-fed, the five races of men, bearing oblations, propitiate, with (sacrificial) food, as if you were a mortal guest.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृं॒जे ह॒ यन्नम॑सा ब॒र्हिर॒ग्नावया॑मि॒ स्रुघृ॒तव॑ती सुवृ॒क्तिः।  
+> अम्य॑क्षि॒ सद्म॒द॑ने पृथि॒व्या अश्रा॑यि य॒ज्ञः सूर्ये॒ न चक्षुः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृंजे । ह । यत् । नमसा । बर्हिः । अग्नौ । अयामि । स्रुक् । घृतवती । सुवृक्तिः ।  
+> अम्यक्षि । सद्म । सदने । पृथिव्याः । अश्रायि । यज्ञः । सूर्ये । न । चक्षुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्ध यदा खलु नमसा हविषा सहाग्नावग्निसमीपे बर्हिर्वृंजे ॥ वृजिश्वेदनार्थः ॥ छिद्यते । आह्रियत इत्यर्थः । सुवृक्तिः सुष्टु दोषैर्वर्जिता धृतवती
+> धृतपूर्णा स्सुगयामि । नियम्यते । बर्हिष्यासाद्यते । तथा पृथिव्या भूमे सदने
+> स्थाने सद्म हविरासादनार्था वेदिरम्यक्षि ॥ म्यक्षतिर्गतिकर्मा ॥ गम्यते । परिगृह्यते ।
+> शदानीं यज्ञोऽश्रायि । यजमान आश्रितो भवति । तत्र दृष्टांतः । सूर्ये न
+> चक्षुः । यथा सूर्यॆ सर्वस्य प्रेरक आदित्ये प्रकाशकं तेजः समवैति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Yaddha": when indeed, together with "namasā", the oblation, near Agni, the sacred grass is "vṛñje": the root "vṛj" has the sense of cutting; it is cut, that is, it is brought. "Suvṛktiḥ": free from faults; "ghṛtavatī": full of ghee; the ladle is "ayāmi": it is held, it is placed on the sacred grass. Likewise, on the earth, "sadane", in the place, "sadma", the altar for the placing of the oblation, is "amyakṣi": the root "myakṣ" has the sense of going; it is reached, it is taken possession of. At that time the sacrifice is "aśrāyi": the sacrificer becomes its resting place. The illustration is "sūrye na cakṣuḥ": as the light that illumines unites in the sun, the impeller of all, so it is here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् ह (*yat ha*)—when
+- नमसा (*namasā*)—together with the oblation
+- अग्नौ (*agnau*)—near Agni
+- बर्हिः (*barhiḥ*)—the sacred grass, for the seat
+- वृञ्ची (*vṛñcī*)—is cut (when)
+- सुवृक्तिः (*suvṛktiḥ*)—free from faults
+- धृतवती (*dhṛtavatī*)—full of ghee
+- स्रुक् (*sruk*)—the ladle
+- आयामि (*āyāmi*)—is placed on the sacred grass seat (and when)
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- सदने (*sadane*)—in the prepared place
+- सद्म (*sadma*)—the sacrificial altar
+- अमृषि (*amṛṣi*)—is taken up (then at once)
+
+### Printed p. 505
+
+- सूर्ये (*sūrye*)—in the sun
+- चक्षुः न (*cakṣuḥ na*)—as the light finds its support
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- अश्रायि (*aśrāyi*)—finds its support in the sacrificer
+
+##### भावार्थ (Bhāvārtha)
+
+When, together with the oblation, the sacred grass for the seat is cut near Agni, when the ladle, free from faults and full of ghee, is placed on the sacred grass seat, and when the sacrificial altar is taken up in the prepared place on the earth, then at once, as the light finds its support in the sun, the sacrifice finds its support in the sacrificer.
+
+##### English translation
+When the holy grass has been cut, (to be presented) to Agni, with the oblation, when the well-trimmed ladle, filled with butter, has been lifted up, then your receptacle (the alter) has been prepared on the surface of the earth, and the sacred rite is had recourse to as light (concentrates) in the sun.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒श॒स्या नः॑ पुर्वणीक होतर्दे॒वेभि॑रग्ने अ॒ग्निभि॑रिधा॒नः ।  
+> रा॒यः सू॑नो सहसो वावसा॒ना अति॑ स्रसेम वृ॒जनं॒ नांहः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दशस्य । नः । पुरुऽनीक । होतः । देवेभिः । अग्ने । अग्निभिः । इधानः ।  
+> रायः । सूनो इति । सहसः । वावसानाः । अति । स्रसेम । वृजनं । न । अंहः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुर्वणीक बहुज्वाल होतर्देवानामाह्वातरग्ने देवेभिर्देवैर्द्योतमानैरन्नैरग्निभिस्तद्विभूतिभूतैः सार्धमिधान इध्यमानो दीप्यमानः सन्
+
+### Printed p. 506
+
+> नोऽस्मभ्यं रायो धनानि दशस्य । प्रयच्छ । हे सहसः सूनो बलस्य पुत्राग्ने
+> वावसाना हविषा त्वामाच्छादयंतो वयं वृजनं न शत्रुमिवांहः पापमति
+> प्रसेम । अतिगच्छेम । अतिक्रामेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Purvaṇīka, many-flamed, Hotṛ, invoker of the gods, Agni, being kindled, blazing, together with the shining gods, the fires that are his manifestations, give us riches ("rāyaḥ"): "daśasya" means "bestow". O son of strength, Agni, we, "vāvasānāḥ", clothing you with the oblation, "vṛjanaṃ na", as one passes an enemy, may pass beyond "aṃhaḥ", sin: "ati prasema" means may we go beyond, may we cross over." This is the meaning.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुर्वणीक (*purvaṇīka*)—who has many flames
+- होतः (*hotaḥ*)—who are of the form of the Hotṛ
+- अग्ने (*agne*)—O Agni
+- देवेभिः (*devebhiḥ*)—shining and being your special members
+- अग्निभिः (*agnibhiḥ*)—with the other fires
+- इधानः (*idhānaḥ*)—kindled
+- नः (*naḥ*)—to us
+- रायः (*rāyaḥ*)—riches
+- दशस्य (*daśasya*)—give
+- सहसः सूनो (*sahasaḥ sūno*)—Agni, son of strength
+- पावसानाः (*pāvasānāḥ*)—we who clothe you with the oblation
+- वृजनं न (*vṛjanaṃ na*)—like an enemy
+- अंहः (*aṃhaḥ*)—sin
+- अति प्रसेम (*ati prasema*)—may we cross over
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have many flames and are of the form of the Hotṛ, kindled together with the other fires, which are shining and are special members of yours, give us riches. O Agni, son of strength, may we, who clothe you with the oblation, cross over sin as one crosses over an enemy.
+
+##### English translation
+Agni, many-rayed, invoker of the gods, blazing with brilliant fires bestow upon us riches; and may we, Son of strength clothing you with oblations, overcome iniquity (like) a foe.
+
+## Sūkta 12 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मध्यॆ होतेति षडृचं द्वादशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभवाग्नेयं।
+> मध्य इत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta "madhye hotā" is the twelfth sūkta, of six Ṛks; its seer is Bharadvāja, its deity Agni, its metre Triṣṭubh. In the Anukramaṇī it is given as "madhya". Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated before.
+
+##### Anuvāda
+
+This sūkta beginning "madhye hotā" is the twelfth sūkta in the first Anuvāka. It has six Ṛks. Bharadvāja is the seer of this sūkta; Agni is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said beginning with "madhye". It has been said before that this sūkta is used for the Prātaranuvāka and for the mantras of the Āśvina-śastra.
+
+### Printed p. 507
+
+##### Particulars
+
+- Maṇḍala 6, Anuvāka 1, Sūkta 12
+- Aṣṭaka 4, Adhyāya 5, Varga 14
+- Number of Ṛks in the sūkta: 6
+- Seer: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मध्यॆ॒ होता॑ दुरो॒णे ब॒र्हिषो॒ राळ॒ग्नि स्तो॒दस्य॒ रोद॑सी॒  ॑
+> यजध्यै ।  
+> अ॒यं स सू॒नुः सह॑स ऋ॒तावा॑ दू॒रात्सूर्यो॒ न शो॒चिषा॑  
+> ततान ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्यॆ । होता । दुरोणे । बर्हिषः । राट् । अग्निः । तोदस्य । रोदसी इति ।  
+> यजध्यै ।  
+> अयं । सः । सूनुः । सहसः । ऋतवा । दूरात् । सूर्यः । न । शोचिषा । ततान ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता देवानामाह्वाता बर्हिषो यज्ञस्य राट् राजाग्निस्तोदस्य । तुद्यते
+> तपसा पीड्यत इति तोदो यजमानः । तस्य दुरोणे गृहे मध्यॆ निषीदतीति
+> शेषः । किमर्थं । रोदसी द्यावापृथिव्यै यजध्यै यष्टुं । स तादृशोऽयं
+> सहसः सूनुः सहसस्पुत्र ऋतावा सत्यवान्यज्ञवान्वाग्निः सूर्यो न सूर्य इव
+> दूराद्दूरत एव शोचिषा तेजसा ततान । आतनोति । विस्तारयति । दूरदेशे वर्तमानोऽपि सूर्य इव सर्वं जगद्भासयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Hotā": the invoker of the gods; "barhiṣaḥ rāṭ": the lord of the sacrifice, Agni; "todasya": "tudyate" means he is afflicted by austerity, so "toda" is the sacrificer; in his house, "duroṇe", in the middle, he sits: this is the remainder to be supplied. For what purpose? "Rodasī", heaven and earth, "yajadhyai", to worship them. He, such as he is, "sahasaḥ sūnuḥ", son of strength, "ṛtāvā", true or possessed of the sacrifice, Agni, "sūryo na", like the sun, "dūrāt", from afar, "śociṣā", with his brilliance, "tatāna": spreads out, extends. This is the meaning: even though he is in a distant place, like the sun he illumines the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—of the form of the Hotṛ
+- बर्हिषः (*barhiṣaḥ*)—to the sacrifice
+- राट् (*rāṭ*)—lord
+- अग्निः (*agniḥ*)—Agni
+- रोदसी (*rodasī*)—heaven and earth
+- यजध्यै (*yajadhyai*)—to worship
+- तोदस्य (*todasya*)—of the sacrificer
+
+### Printed p. 508
+
+- दुरोणे (*duroṇe*)—of the sacrificial house
+- मध्यॆ (*madhyè*)—in the middle (he is situated)
+- ऋतावा (*ṛtāvā*)—who is truthful
+- सहसः सूनुः (*sahasaḥ sūnuḥ*)—son of strength
+- स आयं (*sa āyaṃ*)—that same Agni
+- सूरो न (*sūro na*)—as the sun, though far away, pervades the whole world with its rays
+- दूरात् (*dūrāt*)—from very far
+- शोचिषा (*śociṣā*)—with his own brilliance
+- ततान (*tatāna*)—spreads and pervades
+
+Agni, of the form of the Hotṛ and lord of the sacrifice, is situated in the middle of the sacrificial house of the sacrificer, in order to worship heaven and earth. As the sun, though far away, pervades the whole world with its rays, so that same Agni, the truthful, the son of strength, spreads his brilliance widely from very far away and illumines the world.
+
+##### English translation
+Agni, the inovker of the gods, the lord of sacrifice, abides in the dwelling of the institutor of the rite, to offer sacrifice to heaven and earrh; he the Son of strength, the observer of truth, has overspread (the world) from afar, like the sun, with light.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्मि॒न्त्वे स्वपा॑के यजत्र॒ यक्ष॑द्राजन्तस॒र्वता॑तेव॒ नु द्यौः ।  
+> त्रि॒ष॒धस्थ॑स्तत॒रुषो॒ न जंहो॑ ह॒व्या म॒घानि॒ मानु॑षा॒ यज॑ध्यै ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यस्मिन् । त्वे इति । सु । अपाके । यजत्र । यक्षत् । राजन् । सर्वताताइव ।  
+> नु । द्यौः ।  
+> त्रिसधस्थः । ततरुषः । न । जंहः । हव्या । मघानि । मानुषा । यजध्यै ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यौः स्तोता सर्वतातेव । इवशब्दः पूरकः । यज्ञनामृतत् । सर्वताता
+> सर्वैस्तायमाने यज्ञे । यद्वा । सर्वशब्दात्स्वार्थिकस्तातिल्पत्ययः । सर्वः स्तोता
+
+##### Gist of the bhāṣya
+
+"Dyauḥ" is the praiser; "sarvatāteva": the word "iva" is only a filler. "Sarvatātā" is a name of the sacrifice**NOTE**: it is the sacrifice being extended by all. Or else, "sarvatāti" is formed from the word "sarva" with a suffix that adds no meaning of its own; "sarvaḥ" is the praiser.
+
 ---
 
-**Progress note:** Done through printed p. 501. Vol 20 pp. 496-501: end of 6.1.10, Ṛks 6-7; 6.1.11 introduction, Ṛks 1-3 (Saṃhitā, Pada)
+**Progress note:** Done through printed p. 508. Vol 20 pp. 502-508: 6.1.11 Ṛks 3-6, sūkta 12 intro, Ṛks 1-2 (partial)
