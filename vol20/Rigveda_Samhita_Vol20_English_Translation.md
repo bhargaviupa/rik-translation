@@ -13236,6 +13236,262 @@ O Agni, in the house of the sacrificers who desire the sacrifice for themselves 
 - हव्यं (*havyaṃ*)—our oblation
 - जुषस्व (*juṣasva*)—partake of
 
+### Printed p. 395
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni in the form of Aṅgiras, being the hotṛ in the house of the sacrificers who desire the sacrifice, you desire oblations and the like. O Agni, protector of the people, make all the sacrificers endowed with prosperity, and afterwards accept their oblation and partake of it.
+
+##### English translation
+You enter as the ministrant priest into the habitations of men who wish to perform sacrifice : render them prosperous, benefactor of mankind : be propitiated, Angiras, by oblation.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ नो मित्रमहो देव दे॒वानग्ने॒ वोचः॑ सुम॒तिं  ॑
+> रोदस्योः ।  
+> वी॒हि स्व॒स्तिं सु॑क्षि॒तिं दि॒वो नृन्द्वि॒षो अंहां॑सि दुरि॒ता त॑रेम॒  
+> ता त॑रेम॒ तवाव॑सा तरेम ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । नः । मित्रमहः । देव । देवान् । अग्ने । वोचः । सुमतिं । रोदस्योः ।  
+> वीहि । स्वस्तिं । सुक्षितिं । दिवः । नृन् । द्विषः । अंहांसि । दुःइता । तरेम । ता ॥  
+> तरेम । तव । अवसा । तरेम ॥११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रमहोऽनुकूलदीप्ते देव दानादिगुणयुक्ताग्ने रोदस्त्योर्दावापृथिव्योर्वर्तमानस्तं देवान्यष्टव्यानिंद्रादीनच्छाभिमुख्येन नोऽस्माकं
+> सुमतिं स्तुतिं वोचः । ब्रूहि । दिवः स्तुतेर्न्नेन्तस्य नस्मान् सुक्षितिं शोभननिवासयुक्तं स्वस्तिमविनाशं वीहि । गमय ॥ वेतिरत्रांतर्भावितण्यर्थो द्रष्टव्यः ॥ वयं
+
+##### Gist of the bhāṣya
+
+O मित्रमहः (*mitramahaḥ*), favourably shining one, O divine Agni, endowed with qualities such as giving, you who abide in रोदस्योः (*rodasyoḥ*), heaven and earth, वोचः (*vocaḥ*), speak, that is, say, to the gods who are to be worshipped, Indra and the others, turning towards them (अच्छ (*accha*)), our सुमतिं (*sumatiṃ*), praise. Then वीहि (*vīhi*): lead us, who are of दिवः (*divaḥ*), of praise, and are the leaders (the text of this phrase is damaged) **NOTE**, to स्वस्तिं (*svastiṃ*), imperishable well-being, that is endowed with a good dwelling (सुक्षितिं (*sukṣitiṃ*)); the root वे (*ve*) here is to be seen as containing a causative sense, "cause to go". And we
+
+### Printed p. 396
+
+> च द्विषो द्वेष्ट्यन् शत्रुनंहांसि पापानि दुरिता तत्पलरूपाणि दुर्गमनानि तरेम ।
+> अतिक्रामेम । तथा ता तानि व्यवहितानि जन्मांतरकृतानि च पापादीनि तरेम । उक्त
+> एवार्थो दार्ढ्याय पुनरुच्यते । हे अग्ने तवावसा रक्षणेन द्वेष्टृप्रभृतीनत्यंतं तरेम ॥
+> मित्रमहः—अनुकूलकारियाद प्रभॆयुळ्ळवनू । देव—देवतात्मनू आद । अग्ने—
+> ऎलै अग्निये । रोदस्योः—द्यावापृथिविगळल्लॆल्ला व्यापिसिरुव नीनु । देवान् अच्छ—देवतॆ
+> गळिगॆ अभिमुखवागि । नः—नम्म । सुमतिं—स्तोत्रवन्नु । वोचः—पठिसि अर्पिसु ।
+> दिवः—स्तितिगळिगॆ । नृन्—निर्मापकराद नम्मन्नु (स्तोत्रगळन्नर्पिसुव नम्मन्नु) । सुक्षितिं—
+> श्रेष्ठवाद गृहादिगळिंद कूडिदुदू । स्वस्तिं—नाशरहितवादुदू आद श्रेयस्सिनॊडनॆ । वीहि—
+> सेरिसु ! वयं—नावु । द्विषः—नम्म शत्रुगळन्नू । अंहासि—पापगळन्नू । दुरिता—
+> दुःखकारकगळाद पापफलगळन्नू । तरेम—दाटुवंतागलि । ता—जन्मांतरद पापसंस्कार
+> गळन्नू । तरेम—दाटुवंतागलि (ऎलै अग्निये) । तव—निन्न । अवसा—रक्षणॆयॊडनॆ
+> कूडिदवरागि । तरेम—आ दुःखसाधनगळन्नॆल्ला ऎदुरिसि दुःखदिंद पारागुवंतागलि.
+
+##### Gist of the bhāṣya
+
+may overcome (तरेम (*tarema*), may we pass beyond) the द्विषः (*dviṣaḥ*), haters, the enemies, and the अंहांसि (*aṃhāṃsi*), sins, and the दुरिता (*duritā*), which are their fruits, hard to get through. Likewise may we overcome those (ता (*tā*)) sins and the like, set apart (that is, removed in time), that were done in other births. The meaning already stated is repeated for the sake of firmness. O Agni, by your protection may we completely overcome the haters and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रमहः (*mitramahaḥ*)—having a favourable radiance
+- देव (*deva*)—divine in nature
+- अग्ने (*agne*)—O Agni
+- रोदस्योः (*rodasyoḥ*)—you who pervade all of heaven and earth
+- देवान् अच्छ (*devān accha*)—facing the gods
+- नः (*naḥ*)—our
+- सुमतिं (*sumatiṃ*)—hymn
+- वोचः (*vocaḥ*)—recite and offer
+- दिवः (*divaḥ*)—to the praises
+- नृन् (*nṛn*)—us who are the makers (us who offer hymns)
+- सुक्षितिं (*sukṣitiṃ*)—endowed with excellent houses and the like
+- स्वस्तिं (*svastiṃ*)—with welfare that is imperishable
+- वीहि (*vīhi*)—unite
+- वयं (*vayaṃ*)—we
+- द्विषः (*dviṣaḥ*)—our enemies
+- अंहासि (*aṃhāsi*)—sins
+- दुरिता (*duritā*)—the painful fruits of sin
+- तरेम (*tarema*)—may we overcome
+- ता (*tā*)—the impressions of sin from other births
+- तरेम (*tarema*)—may we overcome (O Agni)
+- तव (*tava*)—your
+- अवसा (*avasā*)—being joined with protection
+- तरेम (*tarema*)—may we face all those causes of sorrow and be freed from sorrow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of favourable radiance and divine nature, you who pervade all of heaven and earth, facing the gods, recite and offer our hymn. Unite us, who are the makers of praises, with welfare that is endowed with excellent houses and the like and is imperishable. May we overcome our enemies, our sins and the painful fruits of sin. O Agni, being joined with your protection, may we face all those causes of sorrow and be freed from sorrow.
+
+##### English translation
+Divine Agni, reverenced as a friend, you are abiding in heaven and earth, communicate our praise to the gods: conduct the offerer of adoration to domestic felicity ; and may we overcome our adversaries, our iniquities, our difficulties : may we overcome those (sins of a prior existence) may we overcome them by your protection.
+
+### Printed p. 397
+
+## Sūkta 3 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने स क्षेषदित्यष्टर्चं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं ।
+> अनुक्रांतं च । अग्नेऽष्टाविति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, of eight Ṛks, beginning अग्ने स क्षेषत् (*agne sa kṣeṣat*), has Bharadvāja as seer, Agni as deity, and the Triṣṭubh metre. It is listed in the Anukramaṇī as अग्नेऽष्टाविति (*agne 'ṣṭāviti*). Its application in the Prātaranuvāka and in the Āśvina śastra has been stated already.
+
+The Kannada rendering: This sūkta, beginning अग्ने स क्षेषत् (*agne sa kṣeṣat*), is the third sūkta in the first anuvāka. It has eight Ṛks. Bharadvāja is the ṛṣi of this sūkta; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇī it is said अग्नेऽष्ट् (*agne 'ṣṭ*). The application of this sūkta for the recitation of the Prātaranuvāka and Āśvina-śastra mantras is **NOTE**
+
+- Sūkta 3
+- Maṇḍala 6; Anuvāka 1; Sūkta 3
+- Aṣṭaka 4; Adhyāya 5; Varga 3, 4
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ स क्षे॑षदृत॒पा ऋ॑ते॒जा उ॒रु ज्योति॑र्नशते देव॒युष्टे॑ ।  
+> यं त्वं मि॒त्रेण॒ वरु॑णः स॒जोषा॒ देव॒ पासि॒ त्यज॑सा॒ मर्त॒मंहः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । सः । क्षेषत् । ऋतspaः । ऋतेऽजाः । उरु । ज्योतिः । नशते । देवयुः ।  
+> ते ।  
+> यं । त्वं । मित्रेण । वरुणः । सजोषाः । देव । पासि । त्यजसा । मर्तं । अ०हः ॥ १ ॥
+
+### Printed p. 398
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स यजमानः क्षेषत् । क्षियति । निवसति । चिरकालं जीवेदित्यर्थः ।
+> कीदैशो यजमानः । ऋतपा ऋतस्य यज्ञस्य पालक ऋतेजा यज्ञनिमित्तं जातः ।
+> उषित्वा च ते त्वदीयं देवयुर्देवानात्मन इच्छन् स यजमान उरु विस्तीर्ण०
+> ज्योतिः सूर्याख्यं नशते । प्राप्नोति । हे देव द्योतमानाग्ने यं मर्तं
+> मनुष्यं यजमानं मित्रेण वरुणः ॥ तृतीयार्थे प्रथमा ॥ वरुणेन च सजोषाः
+> सह प्रीयमाणस्त्वं त्यजसा त्याजनसाधनेनायुधेनांहोऽंहसः पापात्पासि रक्षसि
+> स यजमान इति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that sacrificer क्षेषत् (*kṣeṣat*), dwells, abides; the meaning is that he would live a long time. What kind of sacrificer? ऋतपा (*ṛtapā*), the protector of ṛta, the sacrifice, and ऋतेजा (*ṛtejā*), born for the sake of the sacrifice. And उषित्वा (*uṣitvā*) **NOTE**, your devotee (देवयुः (*devayuḥ*)), desiring the gods for himself, that sacrificer obtains उरु (*uru*), the vast, ज्योतिः (*jyotiḥ*), the light called the sun. O shining god Agni, the mortal, the man, the sacrificer, whom you, together with Mitra and Varuṇa (the nominative stands in the sense of the instrumental), being pleased together with them (सजोषाः (*sajoṣāḥ*)), protect (पासि (*pāsi*)) from sin (अंहः (*aṃhaḥ*)) with the weapon (त्यजसा (*tyajasā*)), the means of casting away: that sacrificer is what is connected with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—divine in nature
+- आग्ने (*āgne*)—O Agni
+- यं मर्तं (*yaṃ martaṃ*)—which sacrificer
+- मित्रेण (*mitreṇa*)—together with Mitra
+- वरुणः (*varuṇaḥ*)—and with Varuṇa
+- त्वं (*tvaṃ*)—you
+- त्यजसा (*tyajasā*)—endowed with a sharp weapon
+- अंहः (*aṃhaḥ*)—from sin
+- पासि (*pāsi*)—you protect, such a one
+- ऋतपाः (*ṛtapāḥ*)—the protector of the sacrifice
+- ऋतेजाः (*ṛtejāḥ*)—born for the sake of the sacrifice itself
+- सः (*saḥ*)—that sacrificer
+- क्षेषत् (*kṣeṣat*)—attains an excellent life
+- ते (*te*)—your
+- देवयुः (*devayuḥ*)—the same sacrificer who desired worship
+- उरु (*uru*)—extremely vast
+- ज्योतिः (*jyotiḥ*)—the light in the form of the sun
+- नशते (*naśate*)—attains
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of divine nature, you, together with Mitra and Varuṇa and endowed with a sharp weapon, protect a sacrificer from sin; such a sacrificer, a protector of the sacrifice and born for the sake of the sacrifice itself, attains an excellent life. The same sacrificer, who desired your worship, attains an extremely vast **NOTE** light.
+
+##### English translation
+The offerer of sacrifice, born for religious rites, who lives devoted Agni, to you obtains abundant light, and is a man whom you, sympathizing in satisfaction with Mitra and Varuna, protect by your shield from iniquity.
+
+### Printed p. 399
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒जे य॒ज्ञेभिः॑ शश॒मे शमी॑भिर्ऋ॒धद्वा॑राया॒ग्नये॑ ददाश ।  
+> ए॒वा च॒न तं य॒शसा॒मजु॑ष्टि॒र्नांहो॒ मर्तं॑ नशते॒ न प्रदृ॑प्तिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईजे । यज्ञेभिः । शशमे । शमीभिः । ऋधत्त्वाराय । अग्नये । ददाश ।  
+> एव । चन । तं । यशसां । अजुष्टिः । न । अंहः । मर्तं । नशते । न । प्रदृप्तिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमान ऋधद्वाराय ऋधत्समृद्धं वारं वरणीयं धनं यस्य
+> तादृशायाग्नये ददाश हवींषि ददाति स यजमानो यज्ञेभिः सर्वैयज्ञैरीजे ।
+> इष्टवान् भवति । तथा शमीभिः कर्मभिः कृच्छ्रचांद्रायणादिभिः शशमे । शांतश्च
+> भवति । आग्नेयेन यागेन सर्वं फलं लभत इत्यर्थः । अपि च तं यजमानं
+> यशसां यशस्विनां पुत्राणामजुष्टिरप्राप्तिर्नैव नशते नैव प्राप्नोति । पुत्रवान्भवत्येवेत्यर्थः । तथा मर्तं मनुष्यं तमंहः पापं न नशते । तथा प्रदृष्टिरनर्थहेतुः
+> प्रदर्शश्च तं न प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who gives oblations to Agni who is ऋधद्वाराय (*ṛdhadvārāya*), whose choice wealth (वारं (*vāraṃ*)) is abundant, that sacrificer ईजे (*īje*), has sacrificed with यज्ञेभिः (*yajñebhiḥ*), all sacrifices; that is, he becomes one who has performed them. Likewise, through the works called शमीभिः (*śamībhiḥ*), such as the Kṛcchra and Cāndrāyaṇa, he शशमे (*śaśame*), becomes tranquil; the meaning is that through the sacrifice to Agni he obtains every fruit. And further, अजुष्टिः (*ajuṣṭiḥ*), the non-attainment of sons who are renowned (यशसां (*yaśasāṃ*)), does not at all reach that sacrificer; he is certainly one who has sons. Likewise, sin (अंहः (*aṃhaḥ*)) does not reach that mortal, a man; and arrogance, a cause of harm, and ostentation do not reach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which sacrificer
+- यधद्वाराय (*yadhadvārāya*)—endowed with the desired abundance of wealth
+- अग्नये (*agnaye*)—in the name of Agni
+- ददाश (*dadāśa*)—offers an oblation (he)
+- यज्ञेभिः (*yajñebhiḥ*)—with all sacrifices
+- ईजे (*īje*)—is just as one who has performed the sacrifice
+- शमीभिः (*śamībhiḥ*)—joined with all works such as the Kṛcchra and Cāndrāyaṇa
+- शशमे (*śaśame*)—becomes tranquil in mind
+- तं (*taṃ*)—that sacrificer
+- यशसां (*yaśasāṃ*)—of sons and the like that are causes of fame
+- अजुष्टिः (*ajuṣṭiḥ*)—the non-attainment
+- न एव नशते (*na eva naśate*)—does not reach at all
+- मर्तं (*martaṃ*)—the same sacrificer
+- अंहः (*aṃhaḥ*)—sin
+- न (*na*)—does not approach
+- प्रदृप्तिः (*pradṛptiḥ*)—arrogance that is a cause of harm
+- न (*na*)—does not approach
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who, in the name of Agni, endowed with the desired abundance of wealth, offers an oblation attains the fruit of having performed all the sacrificial rites, and tranquility of mind.
+
+### Printed p. 400
+
+For him there is no lack of sons and the like, who are causes of fame. No kind of sin, nor arrogance that is a cause of harm, approaches that sacrificer.
+
+##### English translation
+He who has presented (oblations) to Agni, the possessor of desired (wealth), sacrifices with (all) sacrifices, and is sanctified by (all) holy acts : him, the want of excellent (posterity) does not afflict, nor does sin or pride affect such a mortal.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूरो॒ न यस्य॑ दृश॒तिर॑रे॒पा भी॒मा यदेति॑ शुच॒तस्त॒ आ धीः ।  
+> हेष॑स्वतः शु॒रुधो॒ नायम॒क्तोः कुत्रा॑ चिद्र॒ण्वो व॑स॒तिर्व॑ने॒जाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूरः । न । यस्य । दृशतिः । अरेपाः । भीमा । यत् । एति । शुचतः । ते । आ । धीः ।  
+> हेषस्वतः । शुरुधः । न । आयं । अक्तोः । कुत्र । चित् । रण्वः । वसतिः । वनेऽजाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरो न सूर्यस्येव यस्याग्नेर्दृशतिर्दर्शनमरेपाः पापरहितं । हे अग्ने
+> यत् यस्य ते तव शुचतो ज्वलतो धीर्धारयित्रि ज्वाला भीमा भयंकरा सती
+> आ समंतादेति गच्छति । योऽयमग्निर्हेषस्वतः शब्दयुक्ताः शुरुधो न शुचः
+> शोकस्य रोधयित्रीर्गाश्चाक्तोः । अक्तुरिति रात्रिनाम ! तेन च तत्र संचारी
+> राक्षसादिर्लक्ष्यते । राक्षसादेः स्वभूता ददातीति शेषः । सोऽयं वसतिः सर्वेषामावासभूतो वनेजा अरण्ये जायमानः कुत्रा चित् क्वचिदेव स्थाने पर्वताग्रादौ
+> रण्वो रमणीयो भवति ॥
+
+##### Gist of the bhāṣya
+
+सूरो न (*sūro na*), like the sun, of which Agni the sight (दृशतिः (*dṛśatiḥ*), appearance) is अरेपाः (*arepāḥ*), free from sin. O Agni, of you who blaze, whose धीः (*dhīḥ*), the supporting flame, becoming terrible (भीमा (*bhīmā*)), goes all round (एति (*eti*)). This Agni, हेषस्वतः (*heṣasvataḥ*), those that are endowed with sound, शुरुधः (*śurudhaḥ*), like the cows that stop grief (शुचः (*śucaḥ*)), of अक्तोः (*aktoḥ*), the night: अक्तुरिति (*akturiti*) is a name for night, and by it a rākṣasa or the like that moves about there is meant; "he gives his own to the rākṣasa and the others" is what is to be supplied **NOTE**. This is the dwelling (वसतिः (*vasatiḥ*)), the abode of all, वनेजाः (*vanejāḥ*), born in the forest; कुत्रा चित् (*kutrā cit*), in some place only, on a mountain peak and the like, he is रण्वः (*raṇvaḥ*), delightful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरो न (*sūro na*)—(O Agni) like the radiance of the sun
+- यस्य (*yasya*)—of you whose
+- दृशतिः (*dṛśatiḥ*)—manifestation
+- अरेपाः (*arepāḥ*)—is free from fault
+- यत् ते (*yat te*)—your, which
+
 ---
 
-**Progress note:** Done through printed p. 394. Vol 20 pp. 389-394: Sūkta 2 Ṛk 5 end, Ṛk 6-10
+**Progress note:** Done through printed p. 400. Vol 20 pp. 395-400: Sūkta 2 Ṛk 10 end, Ṛk 11; Sūkta 3 Ṛk 1-3 (partial)
