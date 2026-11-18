@@ -22794,6 +22794,198 @@ To me, inquiring of their kindred, the sage (Maruts) have uttered a reply; they 
 
 The word पृश्नि (*pṛśni*) is stated among the common names of the atmosphere (स्वः नाकः (*svaḥ nākaḥ*)) and of the Ādityas (Ni. 2-13), and: पृश्निरादित्यो भवति प्राश्नुत एनं वर्ण इति नैरुक्ताः (*pṛśnirādityo bhavati prāśnuta enaṃ varṇa iti nairuktāḥ*) (Ni. 2-14). Yāska has explained that, because abundant colour pervades him in an excessive manner, Āditya is called Pṛśni. The goddess Pṛśni is the mother of the Maruts, and she is of many colours: having explained one kind of meaning in this way, of those who say that she herself is the deity presiding over the atmosphere, and say
 
+### Printed p. 626
+
+the opinion of some. And on the point that Pṛśni is the mother of the Maruts, they have quoted the sentence of the Taittirīya Saṃhitā प्रश्नियै वै पयसो मरुतो जाताः (*praśniyai vai payaso maruto jātāḥ*) (Tai. Saṃ. 2-2-11-4), and the sentence of the Ṛk-saṃhitā प्रश्नेः पुत्राः उपमासः (*praśneḥ putrāḥ upamāsaḥ*) (Ṛ. Saṃ. 5-58-5). The meaning is explained thus: सा देवी त्वेषं अयासं मरुतामनीकं असूत (*sā devī tveṣaṃ ayāsaṃ marutāmanīkaṃ asūta*): the goddess Pṛśni has brought forth the host of the Maruts, radiant and ever moving, forty-nine in number (having forty-nine persons).
+
+पृश्निमातरः (*pṛśnimātaraḥ*): for this word the commentator has given the meaning "the sons of the earth, endowed with various colours". And as an example he has given the Ṛk
+
+पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वय्या मत्या मरुतः सं मिमिक्षुः ॥ (*pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayyā matyā marutaḥ saṃ mimikṣuḥ ‖*) (Ṛ. Saṃ. 53 59-53)**NOTE**
+
+and, in explaining that Ṛk, he has explained the words पृश्नेः पुत्राः (*pṛśneḥ putrāḥ*) as गोरूपाया अंतरिक्षस्य ना पुत्रस्थानीयाः (*gorūpāyā aṃtarikṣasya nā putrasthānīyāḥ*)**NOTE**, that is, the sons of the earth in the form of a cow, or of the deity of the atmosphere. Skandasvāmin has said: पृश्निरिति द्युनाम । द्यौर्माता येषां मरुतां ते पृश्निमातरः । दिवः पुत्रा इत्यर्थः ॥ (*pṛśniriti dyunāma | dyaurmātā yeṣāṃ marutāṃ te pṛśnimātaraḥ | divaḥ putrā ityarthaḥ ‖*). Pṛśni means heaven; the atmosphere ... sons, he has said.**NOTE** Since the movement of the Maruts is in the atmosphere itself, it is proper to say that they are born from it. Yāska has explained this word in the following way:
+
+स्वः । पृश्निः । नाकः । गौः : विष्टं । नभ इति षट् साधारणानि ॥ साधारणान्युत्तराणि दिवश्चादित्यस्य ॥ (*svaḥ | pṛśniḥ | nākaḥ | gauḥ : viṣṭaṃ | nabha iti ṣaṭ sādhāraṇāni ‖ sādhāraṇānyuttarāṇi divaścādityasya ‖*) (Ni. 3-15)**NOTE**
+
+That is, the six words स्वः (*svaḥ*), पृश्निः (*pṛśniḥ*), नाकः (*nākaḥ*), गौः (*gauḥ*), विष्टं (*viṣṭaṃ*) and नभः (*nabhaḥ*) are common words denoting heaven (दिवः (*divaḥ*)) and the Ādityas. And:
+
+पृश्निरादित्यो भवति । प्राश्नुत एनं वर्ण इति नैरुक्ताः । संस्पृष्टा रसान् ! संस्पृष्टा भासं ज्योतिषां ॥ संस्पृष्टो भासेति वा ॥ अथ द्यौः संसृष्टा ज्योतिभिः पुण्यकृद्भिस् ॥ (*pṛśnirādityo bhavati | prāśnuta enaṃ varṇa iti nairuktāḥ | saṃspṛṣṭā rasān ! saṃspṛṣṭā bhāsaṃ jyotiṣāṃ ‖ saṃspṛṣṭo bhāseti vā ‖ atha dyauḥ saṃsṛṣṭā jyotibhiḥ puṇyakṛdbhis ‖*) (Ni. 2-14)**NOTE**
+
+Pṛśni means Āditya. Because excellent radiance pervades him all around, the Nairuktas (the authors of the Nirukta) say that Pṛśni means Āditya. संस्पष्टा रसान् (*saṃspaṣṭā rasān*)**NOTE** means स हि नित्यकालमेव रसानां संस्पष्टाभवति । अथास्यकर्म रसादानं । (*sa hi nityakālameva rasānāṃ saṃspaṣṭābhavati | athāsyakarma rasādānaṃ |*). Rasa means water; since he is the cause of
+
+### Printed p. 627
+
+pouring it down as rain, Āditya has the name Pṛśni. Or संस्पृष्टा भासं ज्योतिषां (*saṃspṛṣṭā bhāsaṃ jyotiṣāṃ*): the light of the planets, stars, moon and the rest becomes dim through the excess of the sun's light; or संस्पृष्टो भासेति वा (*saṃspṛṣṭo bhāseti vā*): because he pervades everywhere with his own radiance, Pṛśni means Āditya.
+
+Further, Pṛśni also means द्यौः (*dyauḥ*). For संस्पृष्टा ज्योतिर्भिः पुण्यकृद्भिश्च (*saṃspṛṣṭā jyotirbhiḥ puṇyakṛdbhiśca*): because it is attained by light and by the virtuous, Pṛśni means द्यौः (*dyauḥ*) (heaven). This is the explanation of Yāska. Therefore it is proper to accept for Pṛśni the meaning द्यौः (*dyauḥ*), heaven, the atmosphere, and to say that the word पृश्निमातरः (*pṛśnimātaraḥ*) means दिवस्पुत्राः (*divasputrāḥ*), those born in the atmosphere.
+
+In explaining the Ṛk
+
+यद्यूयं पृश्निमातरो मर्ताः स्यातन (*yadyūyaṃ pṛśnimātaro martāḥ syātana*) (Ṛ. Saṃ. 1-38-4)
+
+he has explained the word पृश्निमातरः (*pṛśnimātaraḥ*) as पृश्निनामकधेनुपुत्रा (*pṛśnināmakadhenuputrā*), the Maruts, sons of the cow named Pṛśni. In many contexts where the Maruts are praised the use of the word पृश्निमातरः (*pṛśnimātaraḥ*) is seen in particular. One may therefore say freely that a definite meaning was current for this word. The Ṛks of the Ṛgveda in which this word is used are given below.
+
+यद्यूयं पृश्निमातरो मर्तासः स्यातन (*yadyūyaṃ pṛśnimātaro martāsaḥ syātana*) (Ṛ. Saṃ. 1-38-4)
+
+अर्चंतो अर्कं जनयंत इंद्रियमधि श्रियो दधिरे प्रश्नॆमातरः ॥ (*arcaṃto arkaṃ janayaṃta iṃdriyamadhi śriyo dadhire praśnèmātaraḥ ‖*) (Ṛ. Saṃ. 1-85-2)
+
+पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विधथेषु जग्मयः ॥ (*pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidhatheṣu jagmayaḥ ‖*) (Ṛ. Saṃ. 1-89-7)
+
+सुजातासो जनुषा पृश्निमातरो दिवो मर्या आ नो अच्छा जिगातन (*sujātāso januṣā pṛśnimātaro divo maryā ā no acchā jigātana*) (Ṛ. Saṃ. 5-59-6)
+
+उदीरयंत वायुभिर्वाश्रासः पृश्निमातरः (*udīrayaṃta vāyubhirvāśrāsaḥ pṛśnimātaraḥ*) (Ṛ. Saṃ. 8-7-3)
+
+उदु स्वानेभिरीरत उद्रथैरुदु वायुभिः । उत्सॊम्मैः पृश्निमातरः ॥ (*udu svānebhirīrata udrathairudu vāyubhiḥ | utsòmmaiḥ pṛśnimātaraḥ ‖*) (Ṛ. Saṃ. 8-7-17)
+
+अभीमृतस्य विष्टपं दुहते पृश्निमातरः (*abhīmṛtasya viṣṭapaṃ duhate pṛśnimātaraḥ*) (Ṛ. Saṃ. 9-34-5)
+
+### Printed p. 628
+
+स्वश्वाः स्थ सुरथाः पृश्चिमातरः स्वायुधा मरुतो याथना शुभं ॥ (*svaśvāḥ stha surathāḥ pṛścimātaraḥ svāyudhā maruto yāthanā śubhaṃ ‖*) (Ṛ. Saṃ. 5-57-2)**NOTE**
+
+कोपयथ पृथिवीं पृश्निमातरः शुभे यदुग्राः पृषतीरयुग्ध्वं ॥ (*kopayatha pṛthivīṃ pṛśnimātaraḥ śubhe yadugrāḥ pṛṣatīrayugdhvaṃ ‖*) (Ṛ. Saṃ. 5-57-3)
+
+All the Ṛks in which the word पृश्निमातरः (*pṛśnimātaraḥ*) is used have been given above. Since in these Ṛks the word पृश्निमातरः (*pṛśnimātaraḥ*) is explained as meaning the Maruts, one may say freely that this word is used in a definite sense in respect of these deities alone.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त मे॑ स॒प्त शा॒किन॒ एक॑मेका श॒ता द॑दुः ।  
+> य॒मुना॑या॒मधि॑ श्रु॒तमुद्राधो॒ गव्यं॑ मृजे॒ नि राधो॒ ॑ 
+> अश्वं मृजे ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । मे । सप्त । शाकिनः । एकंएका । शता ' ददुः ।  
+> यमुनायां । अधि । श्रुतं । उत् । राधः । गव्यं । मृजे । नि । राधः । अश्वं ।  
+> मृजे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्त सप्तसंख्याकाः संघाः । सप्तगणा वै मरुतः । तै. सं. २-२-११-१ । इति
+> श्रुतेः । अदितिगर्भे वर्तमानं वायुमिंद्रः प्रविश्य सप्तधा विदार्य पुनरेकैकं
+> सप्तधा व्यदारयत् त एकोनपंचाशन्मरुद्धणा अभवन्निति पुराणेषु प्रसिद्धं । ते च
+> सप्तसंख्याकाः शाकिनः सर्वमपि कर्तुं शक्ताः । ते चैकमेकैकैकीको गणो मे मह्यं
+> शता शतसंख्याकानि गवाश्वयूथानि ददुः । दत्तवंतः । प्रयच्छंतृति नाशीः । तैर्दत्तं
+> यमुनायां नद्यामधि । अयं सप्तम्यर्थानुवादी । तत्र श्रुतं प्रसिद्धं गव्यं
+> गोसमूहात्मकं गोसंबंधि ना राधो धनमुन्मृजे । उन्मार्जयामि । तथा
+> तैर्दत्तमश्वमश्वसमूहात्मकं तत्संबंधि वा राधो धनं नि मृजे । निमार्ज्मि ॥
+
+##### Gist of the bhāṣya
+
+"Seven" means groups of seven in number; the Maruts are indeed in seven troops, according to the Veda: सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) (Tai. Saṃ. 2-2-11-1). It is well known in the Purāṇas that Indra entered the wind dwelling in the womb of Aditi, split it into seven, and then split each part again into seven, and so they became the forty-nine troops of the Maruts. These seven troops are able to do everything. Each single troop gave, or let it give, to me hundreds, that is, hundreds of herds of cattle and horses**NOTE**. What was given by them stands on the river Yamunā. There I rub up (उन्मार्जयामि (*unmārjayāmi*)) the renowned wealth connected with cattle, consisting of a mass of cows. In the same way I rub off (निमार्ज्मि (*nimārjmi*)) the wealth given by them, consisting of horses, a mass of horses or connected with them.
+
+### Printed p. 629
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्त (*sapta*)—having the number seven
+- सप्त (*sapta*)—the seven troops of the Maruts
+- शाकिनः (*śākinaḥ*)—being all-capable
+- मे (*me*)—to me
+- एकं एका (*ekaṃ ekā*)—each single troop
+- शता (*śatā*)—cows and the like, hundreds in number
+- ददुः (*daduḥ*)—let them give
+- यमुनायां अधि (*yamunāyāṃ adhi*)—on the bank of the river Yamunā
+- श्रुतं (*śrutaṃ*)—renowned
+- गव्यं (*gavyaṃ*)—in the form of cows
+- राधः (*rādhaḥ*)—wealth
+- उन्मृजे (*unmṛje*)—may I obtain
+- अश्वं (*aśvaṃ*)—in the form of horses
+- राधः (*rādhaḥ*)—wealth
+- निम्मचे (*nimmace*)—may I obtain
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, seven in number in each of the troops of seven, all-capable, give me, each single troop, hundreds of cows and the like. May we obtain the renowned wealth in the form of cows on the bank of the river Yamunā. And may we obtain also wealth in the form of horses.
+
+##### English translation
+May the seven times seven all-potent (Maruts, aggregated as) a single troop, bestow upon me hundreds (of cattle): may I possess wealth of cows, renowned upon the (banks of) the Yamuna: may I possess wealth of horses.
+
+## Sūkta 53 (Maṇḍala 5)
+
+The fifty-third sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> को वेद जानमिति षोडशर्चं नवमं सूक्तं । श्यावाश्व ऋषिः । आद्यापंच.
+> मादशम्येकादशीपंचदश्यः ककुभः षष्ठीसप्तमीनवमीत्रयोदशीचतुर्दशीषोडश्यः
+> सतोबृहत्योऽष्टमी द्वादशी च गायत्र्यौ द्वितीया बृहतिः तृतीयानुष्टुप्
+> चतुर्थी पुरउष्टिक् । मरुतो देवता । तथा चानुक्रांतं । को वेद षोळश
+> ककुब्बृहत्यनुष्टुप् पुरउष्टिक् ककुप्सतोबृहत्यौ गायत्री सतोबृहती ककुभा
+> गायत्री सतोबृहत्यौ ककुप्सतो बृहतीति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning को वेद जानमिति (*ko veda jānamiti*), of sixteen Ṛks, is the ninth sūkta. Śyāvāśva is the seer. The first, fifth, tenth, eleventh and fifteenth Ṛks are in the Kakubh metre; the sixth, seventh, ninth, thirteenth, fourteenth and sixteenth are Satobṛhatī; the eighth and twelfth are Gāyatrī; the second is Bṛhatī, the third Anuṣṭubh, the fourth Puraūṣṇik. The Maruts are the deity. Accordingly the Anukramaṇī says: को वेद षोळश ककुब्बृहत्यनुष्टुप् पुरउष्टिक् ककुप्सतोबृहत्यौ गायत्री सतोबृहती ककुभा गायत्री सतोबृहत्यौ ककुप्सतो बृहतीति ॥ (*ko veda ṣoḷaśa kakubbṛhatyanuṣṭup purauṣṭik kakupsatobṛhatyau gāyatrī satobṛhatī kakubhā gāyatrī satobṛhatyau kakupsato bṛhatīti ‖*). The use is by indication: विनियोगो लैंगिकः (*viniyogo laiṃgikaḥ*).
+
+Anuvāda: This sūkta beginning को वेद जानं (*ko veda jānaṃ*) is the ninth sūkta in the fourth anuvāka. It has sixteen Ṛks. Śyāvāśva is the seer of this sūkta; the Maruts are the deity. The first, fifth, tenth, eleventh and fifteenth Ṛks of this sūkta are in the metre called Kakubh; the sixth, seventh, ninth, thirteenth, fourteenth and sixteenth Ṛks are in the Satobṛhatī
+
+### Printed p. 630
+
+metre; the eighth and twelfth Ṛks are in the Gāyatrī metre; the second Ṛk is in the Bṛhatī metre; the third in the Anuṣṭubh metre; the fourth in the Puraūṣṇik metre. In the Anukramaṇī it is said only: को वेद षोळश ककुब्बृहत्यनुष्टुप् पुरउष्टिक् ककुप्पतोबृहत्यौ गायत्री सतोबृहती ककुभौ गायत्री सतोबृहत्यौ ककुप्पतोबृहतीति (*ko veda ṣoḷaśa kakubbṛhatyanuṣṭup purauṣṭik kakuppatobṛhatyau gāyatrī satobṛhatī kakubhau gāyatrī satobṛhatyau kakuppatobṛhatīti*). The use is by indication.
+
+- Sūkta 53
+- Maṇḍala 5, Anuvāka 4, Sūkta 53
+- Aṣṭaka 4, Adhyāya 3, Varga 11, 12, 13
+- Number of Ṛks in the sūkta: 16
+- Seer: Śyāvāśva Ātreya
+- Deity: the Maruts
+- Metre: Ṛks 1, 5, 10, 11, 15 Kakubh; 2 Bṛhatī; 3 Anuṣṭubh; 4 Puraūṣṇik; 6, 7, 9, 13, 14, 16 Satobṛhatī; 8, 12 Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वे॑द॒ जान॑मेषां॒ को ना॑ पु॒रा सु॒म्नेष्वा॑स म॒रुतां॑।  
+> यद्यु॑यु॒ज्रे कि॑ला॒स्यः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वेद । जानं । एषां । कः । ना । पुरा । सुम्मेषु । आस । मरुतां ।  
+> यत् । युयुज्रे । किलास्यः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां ॥ मरुतां पूर्वसूक्ते प्रस्तुतत्वादत्रान्वादेशविषयत्वादेषामित्यस्य
+> निघातता ॥ जानमुत्पत्तिं को वेद । जानाति कः पुमान् । को वा पुरा पूर्वम.
+> प्येषां मरुतां सुम्मेषु सुखेष्वास । भवति । यद्यदैते किलास्यः किलासीः। पृषतीरित्यर्थः । ता युयुज्रे रथे योजितवंतः तद्वैषां स्थितिं बललक्षणानि सुखानि च
+> को जानातीत्यर्थः । वेगविषये सर्वत्र वायोरुपमास्पदत्वादिति भावः ॥
+
+##### Gist of the bhāṣya
+
+The word एषां (*eṣāṃ*) means "of these Maruts": since the Maruts were the subject of the previous sūkta and are here referred to again, the word has no accent. Who knows their origin, their birth? What man knows it? Or who, even in former times, was a sharer in the pleasures of these Maruts? When these spotted deer were harnessed to the chariot, who knows their state, their marks of strength and their pleasures? Such is the meaning: since in every matter of speed the wind is the standard of comparison, the Maruts are beyond reckoning.
+
+### Printed p. 631
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां मरुतां (*eṣāṃ marutāṃ*)—of these Maruts
+- जानं (*jānaṃ*)—the origin
+- को वेद (*ko veda*)—who knows?
+- यत् (*yat*)—when (these Maruts)
+- किलास्यः (*kilāsyaḥ*)—their spotted deer
+- युयुज्रे (*yuyujre*)—they harnessed to their chariot (then)
+- मरुतां (*marutāṃ*)—of these Maruts
+- सुम्नेषु (*sumneṣu*)—as a sharer in the pleasures
+- पुरा (*purā*)—formerly
+- को वा आस (*ko vā āsa*)—who indeed was?
+
+##### भावार्थ (Bhāvārtha)
+
+Who has known the origin of these Maruts? When these Maruts harnessed their spotted deer to the chariot, who, formerly, was a sharer in the pleasures of these Maruts?
+
+##### English translation
+Who knows the birth of these (Maruts)? who has formerly been (participant) of the enjoyments of the Maruts (by whom) the spotted deer are harnessed (to their chariots)?
+
+##### विशेषविषयगळु (Special Topics)
+
+किलास्यः (*kilāsyaḥ*): किलासीः पृषती इत्यर्थः (*kilāsīḥ pṛṣatī ityarthaḥ*). It is said that the vehicle of the Maruts is the deer with white spots. On this matter Yāska:
+
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्टः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः । (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṭaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ |*) (Ni. 9-28)
+
+thus he has explained the vehicles of various deities. That is: for Indra the vehicles are two horses named Hari; for Agni, horses of a slightly red colour; for Āditya or Sūrya, (seven) horses of green or yellow colour; for the Aśvins, two asses; for the deity called Pūṣan, goats; for the Maruts, spotted deer; for the deity Uṣas, cows of aruṇa (red) colour; for the deity Savitṛ, horses of dusky colour; for Bṛhaspati, horses of various colours; for the deity Vāyu, swift-running horses named नियुत् (*niyut*). Thus he has given the explanation. In the present Ṛk the vehicles of the Maruts, the पृषतीः (*pṛṣatīḥ*), the spotted deer, are indicated by the word किलास्यः (*kilāsyaḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 625. Mandala 5 sukta 52 rks 12 (end)-16, pp. 620-625
+**Progress note:** Done through printed p. 631. Special Topics on Pṛśni (pp. 626-628), Ṛk 52.17, Sūkta 53 introduction and Ṛk 1
