@@ -1,1 +1,2 @@
 - 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 26, en latin 1247, en latin-twin 26; every change is a row of review/refs_applied.tsv.
+- 2026-11-18: numeral_drop_q_same.py (Nov 18 alignment Vol10_file_vs_md_Nov18.xlsx, files 1-7 merged): [?] dropped on 15 numerals (18 tokens) whose digits equal the aligned file row; log numerals/numeral_drop_q_same_Nov18.applied.tsv.
