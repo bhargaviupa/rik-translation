@@ -1,0 +1,1 @@
+- 2026-11-18: w0121 (pp. 121-128): kn.md and pages.json edited by a Python script, not by batch.py fix (not in the fix log): p. 123 marker corrected from 124, '<!-- printed 124 -->' inserted, 123 and 124 added to pages.json; Saṃhitā of Ṛk 19 wrapped in a block, Pada/Sāyaṇa labels set (blocks renumbered b1-b20). Reported by the translator agent; audit passes.
