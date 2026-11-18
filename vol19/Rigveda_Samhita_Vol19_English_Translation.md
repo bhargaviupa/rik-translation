@@ -25137,6 +25137,197 @@ In the कारीर्यॆष्टियल्लि (*kārīryèṣṭiya
 
 समुद्रतः (*samudrataḥ*)—The word समुद्र (*samudra*) is read among the names of the firmament (Ni. 2.10), and in this Ṛk it is used in this same sense.
 
+### Printed p. 692
+Since the word समुद्र (*samudra*) is used in the Ṛksaṃhitā in various senses, the authors of the Nirukta have included the word समुद्र (*samudra*) among the names of the firmament (Ni. 2.10). Afterwards they have shown the difference between the terrestrial ocean and the ocean that is a synonym of the firmament. Addressing those who do not know the difference between the two and give an interpretation that leaves room for doubt, they say: तत्र समुद्र इत्येतत्पार्थिवेन समुद्रेण संदिह्यते। (*tatra samudra ityetatpārthivena samudreṇa saṃdihyate|*) Many mistake the ocean that is a synonym of the firmament for the terrestrial ocean and interpret accordingly. That is not right, and so they have given an etymology of the word समुद्र (*samudra*):
+
+समुद्रः कस्मात्समुद्भवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्मिन् भूतानि समुदको भवति समुनत्तीति वा । (*samudraḥ kasmātsamudbhavaṃtyasmādāpaḥ samabhidravaṃtyenamāpaḥ saṃmodaṃte 'smin bhūtāni samudako bhavati samunattīti vā |*) (Ni. 2-11).
+
+First, the root dru, meaning to move, joined with the two prefixes sam and ud, gives the sense "it flows overflowing upward"; or, secondly, the same root dru with the prefixes sam and abhi gives the sense that the waters (of the rivers) flow toward it; or the root mud, meaning to rejoice, with the prefix sam, gives the sense that the aquatic creatures find joy in it; or because it is the store of water; or the root ud, meaning to wet, with the prefix sam, gives the sense "that which drenches". In these ways they have shown that the word समुद्र (*samudra*) is formed (Ni. 2-10). In this connection, to show the difference between the word समुद्र (*samudra*) as a synonym of the firmament and the terrestrial ocean, they have also cited an ancient story:
+
+तयोर्विभागस्तत्रेतिहासमाचक्षते । देवापिश्चाष्टिषेणः शंतनुश्च कौरव्या भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेजचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति । तस्यैतद्वर्षकामसूक्तं तस्यैषा भवति ॥ (*tayorvibhāgastatretihāsamācakṣate | devāpiścāṣṭiṣeṇaḥ śaṃtanuśca kauravyā bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣejacayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti | tasyaitadvarṣakāmasūktaṃ tasyaiṣā bhavati ‖*).
+
+Of the two, Devāpi and Śaṃtanu, of the Kuru line and sons of Ṛṣṭiṣeṇa, the younger, Śaṃtanu, had himself consecrated and became king of that kingdom. Devāpi went away to the forest to practise austerity. Thereafter, for twelve years, no rain fell in Śaṃtanu's kingdom. Then the Brāhmaṇas said to Śaṃtanu
+
+### Printed p. 693
+that, since he had sent his elder brother to the forest and become king himself, he had committed a sinful deed; therefore the god of rain had not poured rain in his kingdom. Then, when Śaṃtanu tried to have Devāpi consecrated king, Devāpi said, "I shall be your priest and perform sacrifice for you", and had the sacrifice performed for the sake of rain. Thereafter rain poured from the ocean in the upper region to the ocean in the lower region. To show the difference between the two oceans, they cite the Ṛk
+
+आर्ष्टिषेणो होत्रमृषिर्निषीदन् देवापिर्देवसुमतिं चिकित्वान् । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥ (*ārṣṭiṣeṇo hotramṛṣirniṣīdan devāpirdevasumatiṃ cikitvān | sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi ‖*)
+(Ṛ. Saṃ. 10-98-5)
+
+and show by it the difference between the upper ocean and the lower ocean. Here the upper ocean means the firmament, and the lower ocean means the terrestrial ocean.
+
+In some places in the Ṛksaṃhitā the word समुद्र (*samudra*) can be said decidedly to mean the terrestrial ocean. But in Ṛks such as
+
+यथा वातो यथा वनं याथा समुद्र विजति (*yathā vāto yathā vanaṃ yāthā samudra vijati*)
+(Ṛ. Saṃ. 5-78-8)
+
+it is difficult to say whether it is the synonym of the firmament or the terrestrial ocean. In
+
+अग्निं विश्वा अभि पृक्षः सचंते समुद्रं न स्रवतः सप्त यह्वीः (*agniṃ viśvā abhi pṛkṣaḥ sacaṃte samudraṃ na sravataḥ sapta yahvīḥ*)
+(Ṛ. Saṃ. 1-71-7),
+
+सं यं स्तुभोऽवनयो न यंति समुद्रं न स्रवतो रोधचक्राः (*saṃ yaṃ stubho 'vanayo na yaṃti samudraṃ na sravato rodhacakrāḥ*)
+(Ṛ. Saṃ. 1-190-7)
+
+and
+
+या आपो दिव्या उत वा स्रवंति खनित्रिमा उत वा याः स्वयंजाः । समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवंतु ॥ (*yā āpo divyā uta vā sravaṃti khanitrimā uta vā yāḥ svayaṃjāḥ | samudrārthā yāḥ śucayaḥ pāvakāstā āpo devīriha māmavaṃtu ‖*)
+(Ṛ. Saṃ. 7-49-2)
+
+and in many other Ṛks, it can be said decidedly to be the terrestrial ocean. In some places this word is used as an adjective and gives the sense "flowing". In the Ṛk
+
+अद्भिर्याति वरुणः समुद्रॆयुर्युष्मा इच्छंतः शवसो नपातः (*adbhiryāti varuṇaḥ samudrèyuryuṣmā icchaṃtaḥ śavaso napātaḥ*)
+(Ṛ. Saṃ. 1-161-14)
+
+the meaning of समुद्रॆः समुंदनस्वभावैः अद्भिः (*samudrèḥ samuṃdanasvabhāvaiḥ adbhiḥ*) is "with waters whose nature is to flow". Thus the meaning must be determined according to the context.
+
+### Printed p. 694
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदश्वा॑न्थू॒र्षु पृष॑ती॒रयु॑ग्ध्वं हिर॒ण्यया॒न्प्रत्यत्का॒  ॑
+> अमुग्ध्वं ।  
+> विश्वा॒ इत्‌स्पृधो॑ मरुतो॒ व्य॑स्यथ॒ शुभं॑ या॒तामनु॒ रथा॑  
+> आवृत्सत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अश्वान् । धूःऽसु । पृषतीः । अयुग्ध्वं । हिरण्ययान् । प्रति । अत्कान् ।  
+> अमुग्ध्वं ।  
+> विश्वाः । इत् । स्पृधः । मरुतः । वि । अस्यथ । शुभं । यातां । अनु । रथाः ।  
+> अवृत्सत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं यद्यदाश्वान् धूर्षु रथसंबंधनीष्टयुग्ध्वं योजितवंतः स्थ । कीदृशानश्वान् । पृषतीः । पृषत्यो मरुतामितुक्तत्वात् । पृषद्वर्णा
+> वडवाः । सारंगी वात्राश्वशब्द वाच्या । हिरण्ययान्हिरण्यवर्णानत्कान्कवचान् प्रत्यमुग्ध्वं प्रत्यमुंचत । एवं कृत्वा विश्वा इत् स्वृधः सर्वानपि संग्रामान् हे मरुतो
+> व्यस्यथ । विक्षिपथ । शुभमित्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when you have yoked to the poles of the chariot the horses, which are पृषतीः (*pṛṣatīḥ*), spotted (since the Maruts' horses are stated to be spotted): these are spotted mares; or else the female antelope is what is meant by the word "horse" here. You put on in turn the golden-coloured अत्कान् (*atkān*), that is, coats of mail. Having done so, O Maruts, you hurl away all battles. The rest, beginning शुभं (*śubhaṃ*), has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) यत् (*yat*)—when
+- पृषतीः (*pṛṣatīḥ*)—spotted
+- अश्वान् (*aśvān*)—horses
+- धूर्षु (*dhūrṣu*)—to the yoke-poles of your chariot
+- आयुग्ध्वं (*āyugdhvaṃ*)—you join and fasten (then)
+- हिरण्ययान् (*hiraṇyayān*)—made of gold
+- आत्कान् (*ātkān*)—your coats of mail
+- प्रति (*prati*) आमुग्ध्वं (*āmugdhvaṃ*)—you put on (afterwards)
+- मरुतः (*marutaḥ*)—O Maruts
+- विश्वा (*viśvā*) इत् (*it*)—all
+- स्पृधः (*spṛdhaḥ*)—enemies
+- व्यस्यथ (*vyasyatha*)—you strike down and overthrow
+- शुभं (*śubhaṃ*)—as bringers of auspiciousness
+- यातां (*yātāṃ*)—of the Maruts as they go
+- रथाः (*rathāḥ*)—the chariots also
+- अनु (*anu*) अवृत्सत (*avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when you join and fasten to the yoke-poles of your chariots your horses (antelopes) of spotted colour (marked with dots), you put on your golden
+
+### Printed p. 695
+coats of mail. Thereafter, O Maruts, you strike down and overthrow all enemies. The chariots of the Maruts, who go as bringers of auspiciousness, also follow them.
+
+##### English translation
+When you yoke your spotted mares to the poles (of your chariots), you lay aside your golden breast-plates, for you dissipate all hostility; may the cars of the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes the Marut deities making their preparations for battle and going to war. First the Maruts harness to their chariot spotted deer, that is, deer with white spots, and make the chariot ready. Next, so that their bodies may be impenetrable to the weapons of their enemies, they put on golden coats of mail (Armours). Then, seated in their chariot, which has the power to go wherever they wish, they strike and drive away their enemies (the clouds). Such is the description of the battle given here.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न पर्व॑ता॒ न न॒द्यो॑ वरंत वो॒ यत्राचि॑ध्वं मरुतो॒ ॒॒ 
+> गच्छ॒थेदु॒ तत् । ॒ 
+> उ॒त द्यावा॑पृथि॒वी या॑थना॒ परि॒ शुभं॑ या॒तामनु॒ रथा॑  
+> अवृत्सत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । पर्वताः । न । नद्यः । वरंत । वः । यत्र । अचिध्वं । मरुतः । गच्छथ । इत् ।  
+> ऊं इति । तत् ।  
+> उत । द्यावापृथिवी इति । याथन । परि शुभं । यातां । अनु । रथाः । अवृतसत ॥७॥
+
+### Printed p. 696
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्मान् पर्वताः शिलोच्चया न वरंत । न वारयंतु ।
+> तथा नद्यश्च न वारयंतु । किंतु यत्र यस्मिन्यज्ञादिस्थानेऽचिध्वं जानीथ संकल्पयथ तत्स्थानं गच्छथेदु । गच्छथैव। उतापि च द्यावापृथिवी च परि परितो याथन।
+> याथ वृष्ट्यर्थमिति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, let mountains, the heaps of rock, not ward you off; likewise let rivers not ward you off. Rather, to whatever place, such as a place of sacrifice, you know and resolve to go, to that place you go indeed. And you go all around heaven and earth for the sake of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—you
+- पर्वताः (*parvatāḥ*)—mountains
+- न (*na*) वरंत (*varaṃta*)—let them not stop
+- नद्यः (*nadyaḥ*)—rivers also
+- न (*na*)—let them not stop
+- यत्र (*yatra*)—to whatever region
+- अचिध्वं (*acidhvaṃ*)—you resolve that you must go
+- तत् (*tat*)—to that place
+- गच्छथेदु (*gacchathedu*)—you go and arrive without fail
+- उत (*uta*)—and
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- परि (*pari*)—all around
+- याथन (*yāthana*)—you travel
+- शुभं (*śubhaṃ*)—as bringers of auspiciousness
+- यातां (*yātāṃ*)—of the Maruts who travel
+- रथाः (*rathāḥ*)—the chariots also
+- अनुअवृत्सत (*anuavṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, let neither mountains nor rivers stop you. To whatever region you resolve to go, to that region you go and arrive without fail. And for the sake of rain you travel all around heaven and earth. The chariots of the Maruts, who travel as bringers of auspiciousness, also follow them.
+
+##### English translation
+Let not the mountains, let not the rivers, arrest you : whither you purpose, (Maruts), thither repair, and compass heaven and earth; may the cars of the quick-moving (Maruts) arrive for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use of the word पर्वत (*parvata*) is most frequent in the sūktas of Indra and the Maruts. Its ordinary meaning is mountain (hill), but it is customary for it to be a synonym of cloud. The authors of the Nirukta say: पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातीर्वा । मेघोऽपि गिरिरेतस्मादेव । (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātīrvā | megho 'pi giriretasmādeva |*) (Ni. 1-20). They show that the word पर्वत (*parvata*) comes from the word पर्व (*parva*), which is formed either from the root pṛ, meaning to fill, or from the root prī, meaning to worship or to satisfy, and so explain that it means mountain (hill) or cloud. This derivation gives the idea either of filling a region that is empty, or of satisfying beings (with rain and the like). In this, one must note which mountain is obstructive and which is helpful.
+
+### Printed p. 697
+In general, Indra's fight with the Asuras and with the mountains may be called the fight of darkness and light. In the Ṛk
+
+वि चिद्वृत्रस्य दोधतो वज्रेण शतपर्वणा । शिरो बिभेद वृष्टिना ॥ (*vi cidvṛtrasya dodhato vajreṇa śataparvaṇā | śiro bibheda vṛṣṭinā ‖*)
+(Ṛ. Saṃ. 8-6-6)
+
+he destroyed the Asura, who is of the nature of darkness and is an obstructor, with the thunderbolt that has a hundred joints (parvans) of the nature of rays. From such examples it may be said that, just as words such as Vṛtra show the embodied form of the darkness that covers the world, so too the word पर्वत (*parvata*) points to darkness in the shape of a mountain. Besides, if only the ordinary meaning, mere mountain or cloud, is given, it does not give the full sense suited to the circumstances. For instance, there is described a fourfold accomplishment: the release of the cows and waters hidden away by the slaying of the mountain, and the bringing forth of Uṣas and of the sun. Therefore, if the word पर्वत (*parvata*) is explained merely as a cloud, it will not suit the circumstances.
+
+In the Ṛk
+
+अदर्दरुत्समसृजो वि खानि त्वमर्णवान्बद्बधाना अरम्माणः । महांतमिंद्र पर्वतं वि यद्वः सृजो वि धारा अव दाननं हन् ॥ (*adardarutsamasṛjo vi khāni tvamarṇavānbadbadhānā arammāṇaḥ | mahāṃtamiṃdra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānanaṃ han ‖*)
+(Ṛ. Saṃ. 5-32-1)
+
+and in the Brāhmaṇa sentence
+
+शिशुं नदीनां हरिमद्रिबुध्नमिति गिरिर्वा अद्रिर्गिरिबुध्ना (*śiśuṃ nadīnāṃ harimadribudhnamiti girirvā adrirgiribudhnā*)
+(Śa.
+(Śa. Brā. 7-5-2-18)
+
+it is understood that the words पर्वत (*parvata*) and cloud have a surpassing and supernatural meaning. It is described as a mass of darkness in the shape of a mountain, situated in the world of heaven, concealing the waters and the cow. Having pierced this darkness, Indra causes the Maruts to spread out the waters and the light.
+
+In Ṛks such as
+
+अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष (*ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa*)
+(Ṛ. Saṃ. 1-32-2)
+
+it is said that Indra, who destroys the Asuras Ahi, Śambara, Vṛtra and others, who hide in this mass of darkness in the shape of a mountain and obstruct the flowing waters, is worthy of praise. In the same way
+
 ---
 
-**Progress note:** Done through printed p. 691. Ṛk 1 end, Ṛks 2-5 of sūkta 55 (pp. 686-691)
+**Progress note:** Done through printed p. 697. Ṛk 5 Special Topics (samudra), Ṛks 6-7 of sūkta 55 (pp. 692-697)
