@@ -730,6 +730,291 @@ O Mitra and Varuṇa, by your influence alone Parjanya makes manifest a thunderi
 ##### English translation
 The cloud, (through your will), Mitra and Varuna utters a wonderful sound, indicative of radiance, and announcing (abundant) food: the Maruts thoroughly invest the clouds with (their) devices, and (along with them), you two cause the purple and faultless sky to send down rain.
 
+### Printed p. 25
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धर्म॑णा मित्रावरुणा विपश्चिता व्र॒ता र॑क्षेथे॒ असु॑रस्य  ॒॑
+> मायया ।  
+> ऋ॒तेन॒ विश्वं॒ भुव॑नं॒ वि रा॑जथः॒ सूर्य॒मा ध॑त्तो दि॒वि चित्र्यं॒  ॑
+> रथं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धर्मणा । मित्रावरुणा । विपःचिता । व्रता । रक्षेथे इति । असुरस्य । मायया ।  
+> ऋतेन । विश्वं । भुवनं । वि । राजथः । सूर्यं । आ । धत्थः । दिवि । चित्र्यं । रथं॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा विपश्चिता प्राज्ञा युवां धर्मणा जगद्वारकेण वृष्ट्यादिलक्षणेन कर्मणा व्रता यज्ञादिकर्माणि रक्षेथे । पालयथः । आसुरस्य मेघानां
+> निरसितुः पर्जन्यस्य मायया प्रज्ञया च ऋतेनोदकेन यज्ञेन वा निमित्तेन
+> विश्वं भुवनं सर्वं भूतजातं वि राजथः । विदीपयथ इत्यर्थः । सूर्यमा
+> सूर्यं च चित्रं पूज्यं रथं रंहणस्वभावं दिवि द्युलोके धत्थः । धारयथो
+> जगदुपकारार्थं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Mitra and Varuṇa as wise ones. By your world-supporting action (dharman), which consists of rain and the like, you protect the rites (vrata), that is, the sacrifices and the other ceremonies. He takes asura as Parjanya, the one who casts down the clouds, and māyā as his wisdom. By ṛta, which he explains as water or else as the sacrifice, taken as the cause, you make the whole world, every kind of being, shine. He explains वि राजथः (*vi rājathaḥ*) as "you cause to shine". In heaven you hold the sun, and also a wondrous, worshipful chariot whose nature is swift motion; you sustain them for the good of the world. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- विपश्चिता (*vipaścitā*)—you, the wise
+- असुरस्य (*asurasya*)—of the powerful Parjanya
+- मायया (*māyayā*)—with the help of his extraordinary power
+- धर्मणा (*dharmaṇā*)—by your actions such as causing rain to fall
+- व्रता (*vratā*)—the sacrifices and other rites
+- रक्षेथे (*rakṣethe*)—you protect
+- ऋतेन (*ṛtena*)—by water
+- विश्वं भुवनं (*viśvaṃ bhuvanaṃ*)—the whole world
+- वि राजथः (*vi rājathaḥ*)—you cause to shine
+- दिवि (*divi*)—in the world of heaven
+- चित्र्यं (*citryaṃ*)—worshipful
+- रथं (*rathaṃ*)—in the form of a chariot
+- सूर्यं (*sūryaṃ*)—the sun
+- आ धत्थः (*ā dhatthaḥ*)—you have upheld (for the good of the world)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you, the wise, protect the sacrifices and other rites with the help of the extraordinary power of the powerful Parjanya and by your actions such as causing rain to fall.
+
+### Printed p. 26
+By water you cause the whole world to shine. You have upheld (established) in the world of heaven the sun, who is worshipful and in the form of a chariot, for the good of the world.
+
+##### English translation
+Sapient Mitra and Varuna. by your office you protect pious rites, through the power of the emitter of showers: you illumine the whole world with water: you sustain the sun, the adorable chariot in the sky.
+
+## Sūkta 64 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणं व इति सप्तर्चमष्टमं सूक्तमर्चनानस आर्षं मैत्रावरुणं ।
+> पंक्त्यंतपरिभाषयानुष्टुभं । अंत्या पंक्तिः । वरुणं पंक्त्यंतं त्वित्यनुक्रमणिका ।
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning वरुणं व (*varuṇaṃ va*), has seven Ṛks and is the eighth sūkta of the fifth anuvāka. Its seer is Arcanānas of the Atri line, its deity is Mitra and Varuṇa, and by the rule that a pāda-ending in paṅkti governs the metre, it is in Anuṣṭubh, with the last Ṛk in Paṅkti. The Anukramaṇikā says वरुणं पंक्त्यंतं (*varuṇaṃ paṃktyaṃtaṃ*). The use in ritual is by indication (laiṅgika).
+
+##### Anuvāda
+
+This sūkta, beginning "Varuṇaṃ vaḥ", is the eighth sūkta in the fifth anuvāka. It has seven Ṛks. The seer of this sūkta is Arcanānā of the Atri line; the deity is Mitra and Varuṇa; the last Ṛk is in Paṅkti metre; the remaining Ṛks are in Anuṣṭubh metre. In the Anukramaṇikā it is said: "Varuṇaṃ paṅktyantaṃ tu". The use in ritual is by indication.
+
+##### Particulars
+
+- Sūkta: 64
+- Maṇḍala 5; Anuvāka 5; Sūkta 64
+- Aṣṭaka 4; Adhyāya 4; Varga 2
+- Number of Ṛks in the sūkta: 7
+- Ṛṣi: Arcanānā Ātreya
+- Devatā: Mitra and Varuṇa
+- Chandas: 1-6 Anuṣṭubh; 7 Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वरु॑णं वो रि॒शाद॑समृ॒चा मि॒त्रं ह॑वामहे ।  
+> परि॑ व्र॒जेव॑ बा॒ह्वोर्ज॑ग॒न्वांसा॒ स्व॑र्णरं ॥ १ ॥
+
+### Printed p. 27
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरुणं । वः । रिशादसं । ऋचा । मित्रं । हवामहे ।  
+> परि । व्रजाइव । बाह्वोः । जगन्वांसा । स्वःनरं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वो युवयोर्मध्यॆ ॥ व्यत्ययेन बहुवचनं ॥ रिशादसं । रिशंति हिंसंतीति
+> रिशाः शत्रवः । तेषां प्रेरकं स्वर्णरं स्वर्गस्य नेतारं । एतद्व्यवहितमप्युभयत्र
+> संबध्यते । एवंविधं वरुणमुक्तलक्षणं मित्रं च ऋचा मंत्रेण हवामहे ।
+> आह्वयामः । अथावयुत्योच्यते । व्रजेव गोयूथानीव बाहोर्बलेन परि
+> जगन्वांसा परिगच्छंत् ॥
+
+##### Gist of the bhāṣya
+
+वो (*vo*) means "of you two"; the plural stands by a change of number. रिशादसं (*riśādasaṃ*): the रिशाः (*riśāḥ*) are enemies, those who injure; he is their driver (impeller). स्वर्णरं (*svarṇaraṃ*) is the leader to heaven. Though these two words stand apart, they are connected with both deities. Such a Varuṇa, with the stated qualities, and Mitra we call with a ṛc, a mantra. Then the comparison is explained: व्रजेव (*vrajeva*) means "like herds of cattle", and जगन्वांसा (*jaganvāṃsā*) means "going around" by the strength of the arms. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बाह्वोः (*bāhvoḥ*)—by his strength of arm
+- परि (*pari*)—in front of themselves
+- व्रजेव (*vrajeva*)—like herdsmen driving a herd of cattle along behind them **NOTE**
+- जगन्वांसा (*jaganvāṃsā*)—going
+- वः (*vaḥ*)—among you
+- रिशादसं (*riśādasaṃ*)—the destroyer of enemies
+- स्वर्णरं (*svarṇaraṃ*)—the one who takes the sacrificers and others to heaven
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मित्रं (*mitraṃ*)—Mitra (who has the same qualities)
+- ऋचा (*ṛcā*)—with mantras
+- हवामहे (*havāmahe*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, with mantras we call, praying, Varuṇa, the destroyer of enemies, who takes the sacrificers and others to heaven and who goes in front of you like herdsmen driving a herd of cattle along before them by the strength of their arms, and Mitra, who has the same qualities.
+
+##### English translation
+We invoke you, Mitra and Varuna, with this hymn; each the discomfiter of foes, the conductor to heaven, like (two herdsmen) driving, by (the strength of their) arms, the herds of cattle before them.
+
+### Printed p. 28
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता बा॒हवा॑ सुचे॒तुना॒ प्र यं॑तमस्मा॒ अर्च॑ते ।  
+> शेवं॒ हि जा॒र्यं॑ वां॒ विश्वा॑सु॒ क्षासु॒ जोगु॑वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । बाहवा । सुचेतुना । प्र । यंतं । अस्मै । अर्चते ।  
+> शेवं । हि । जार्यं । वां । विश्वासु । क्षासु । जोगुवे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ युवां बाहवा बाहुना सुचेतुना सुष्टु प्रज्ञात्रा । प्रयासभूयस्त्वं जानतेत्यर्थः । यद्यप्यात्मेव ज्ञाता न हस्तस्तथापि तद्धर्ममत्रारोप्य
+> सूयते । यद्वैतत्तावित्यस्य विशेषणं । सुज्ञानावित्यर्थः । शोभनहस्तेनास्मा
+> अर्चते स्तुवते मह्यं प्र यंतं । अभिवतं सुखं प्रगमयतं ॥ अंतर्भावि
+> तण्यर्थो द्रष्टव्यः । यमिर्दानकर्मा ना द्रष्टव्यः ॥ प्रयच्छतमित्यर्थः । जार्यं
+> स्तुत्यं शेवं सुखं वां युवयोः संबंधि युवाभ्यां कृतं वा विश्वासु सर्वासु
+> क्षासु भूमिषु जोगुवे । गच्छति । व्याप्नोति । अवते गवत इति गतिकर्मसु पाठादयमपि गतिकर्मा । अथवा जोगुवे सर्वत्र शब्दयामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+ता (*tā*) means "you two". बाहवा (*bāhavā*) is "by the arm", and सुचेतुना (*sucetunā*) is "well knowing", that is, "knowing with great effort". Although it is the self that knows and not the hand, the quality is transferred to the hand here. Or else सुचेतुना (*sucetunā*) is an epithet of ता (*tā*), meaning "you two of good knowledge". With the beautiful hand, to me, this one who praises, प्र यंतं (*pra yaṃtaṃ*): bring the desired happiness forward. The causative sense is to be understood within the verb; the root यमि (*yami*) is not to be seen as a verb of giving, but the meaning is "give". जार्यं (*jāryaṃ*) is "praiseworthy", शेवं (*śevaṃ*) is "happiness", and वां (*vāṃ*) is "belonging to you two" or "made by you two". In all the lands (क्षासु (*kṣāsu*), the earths) जोगुवे (*joguve*) means it goes, it pervades; since जोगुवे (*joguve*) is read among the verbs of motion (as in "avate, gavate"), this verb too means motion. Or else जोगुवे (*joguve*) means "I proclaim everywhere". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—you two
+- सुचेतुना (*sucetunā*)—possessing the wisdom that discerns the worthy from the unworthy
+- बाहवा (*bāhavā*)—with your arms
+- अर्चते (*arcate*)—the one who praises you
+- अस्मै (*asmai*)—to me
+- प्र यंतं (*pra yaṃtaṃ*)—fulfil (my desire)
+- वां (*vāṃ*)—given by you
+- जार्यं (*jāryaṃ*)—and praiseworthy
+- शेवं (*śevaṃ*)—happiness
+- विश्वासु (*viśvāsu*)—in all
+- क्षासु (*kṣāsu*)—lands
+- जोगुवे हि (*joguve hi*)—does it not pervade and spread?
+
+##### भावार्थ (Bhāvārtha)
+
+You two, with your arms that have the wisdom to discern the worthy from the unworthy, fulfil my desire, mine who praise you. The happiness given by you, which is praiseworthy, certainly pervades and spreads through all the lands.
+
+### Printed p. 29
+
+##### English translation
+Do you two, with discriminating hand, bestow upon me, your worshipper, (what I desire); for the desirable felicity (that is given by you) spreads through all lands.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्नू॒ नम॒श्यां गतिं॑ मि॒त्रस्य॑ यायां प॒था ।  
+> अस्य॑ प्रि॒यस्य॒ शर्म॒ण्यहिं॑सानस्य सश्चिते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नूनं । अश्यां । गतिं । मित्रस्य । यायां । पथा ।  
+> अस्य । प्रियस्य । शर्मणि । अहिंसानस्य । सश्चिरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा नूनमिदानीं गतिं गमनमश्यां प्राप्नुयां॥ यद्योगादनिघातः॥
+> तदा मित्रस्य मित्रभूतस्य पथा मार्गेण मित्रप्रापकेण मार्गेण यायां। गच्छेयं।
+> मित्रो नयतु विद्वान् । ऋग्वे. १-९०-१ । इत्यादिषु मित्रस्यॆष्टदेशगमयितृत्वं
+> प्रसिद्धं । न केवलमहमेक एव गंता किंतु सर्वॆऽपि तथागमन्नित्याह! आस्य प्रियस्य।
+> मित्रस्येत्थर्थः । अहिंसानस्याहिंसतः । यतोऽयमहंतातः प्रिय इत्यर्थः । तस्य
+> शर्मणि सुखे गृहे स्थाने वा सश्चिरे । संगताः ॥
+
+##### Gist of the bhāṣya
+
+यद्यदा (*yadyadā*) means "when": now may I obtain गतिं (*gatiṃ*), going. Because of the connection with यत् (*yat*) the verb does not lose its accent. Then may I go by the path of Mitra, the friend, that is, by the path that leads to Mitra. In passages such as मित्रो नयतु विद्वान् (*mitro nayatu vidvān*) (Ṛgve. 1-90-1) it is well known that Mitra leads to the desired place. **GLOSS** **NOTE** Not I alone shall go; all shall go in the same way, he says. अस्य प्रियस्य (*asya priyasya*): of this beloved Mitra. अहिंसानस्य (*ahiṃsānasya*) is "of the one who does not injure"; the sense is that he is dear like a father. In his happiness, that is, in his house or place, they are gathered together (सश्चिरे (*saścire*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यॆत् (*yèt*)—for which reason
+- अहिंसानस्य (*ahiṃsānasya*)—of the one who causes violence itself **NOTE**
+- प्रियस्य (*priyasya*)—dear to all
+- अस्य (*asya*)—of this Mitra (given by Mitra)
+- शर्मणि (*śarmaṇi*)—in the happiness
+- सश्चिरे (*saścire*)—(all good fortunes) have gathered together (therefore)
+- नूनं (*nūnaṃ*)—surely
+- गतिं (*gatiṃ*)—the good path
+- अश्यां (*aśyāṃ*)—may I attain
+- मित्रस्य (*mitrasya*)—of Mitra
+- पथा (*pathā*)—by the path
+- यायां (*yāyāṃ*)—may I walk
+
+### Printed p. 30
+
+##### भावार्थ (Bhāvārtha)
+
+All good fortunes have gathered together in the happiness given by this Mitra, who causes no violence and is dear to all. Therefore, in order to obtain his grace, surely keeping to the good path, I shall walk by the path of Mitra.
+
+##### English translation
+That I may now pursue the (right) direction, may I proceed by the path of Mitra, for all (good things) are aggregated in the happiness, (the gift) of that beloved and benignant (deity).
+
+##### विशेषविषयगळु (Special Topics)
+
+मित्रस्य पथा-मित्रभूतस्य मार्गेण मित्रप्रापकेण मार्गेण गच्छेयं । (*mitrasya pathā-mitrabhūtasya mārgeṇa mitraprāpakeṇa mārgeṇa gaccheyaṃ |*). The commentator explains this sentence thus: "I shall walk by a path dear like Mitra, or by a path that leads to Mitra, that is, by the good path", and cites in this connection the verse यजुनीती नो वरुणो मित्रो नयतु विद्वान् । अर्यमा देवैः सजोषाः ॥ (*yajunītī no varuṇo mitro nayatu vidvān | aryamā devaiḥ sajoṣāḥ ‖*) (Ṛ. Saṃ. 1-90-1). **GLOSS** **NOTE**
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वाभ्यां॑ मित्रावरुणोप॒मं धे॑यामृ॒चा ।  
+> यद्ध॒ क्षये॑ म॒घोनां॑ स्तोतृ॒णां च॑ स्पू॒र्धसे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवाभ्यां । मित्रावरुणा । उपमं । धेयां । यजा ।  
+> यत् । ह । क्षये । मघोनां । स्तोत्वाणां । च । स्पर्धसे ॥ ४ ॥
+
+### Printed p. 31
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा युवाभ्यां दातव्यमुपममुप सविपे मीयमानं
+> धनमृचा स्तुत्या साधनेन धेयां । धारयामि । यद्ध यत्खलु युवाभ्यां सकाशादाप्तं धनं मघोनां धनवतामदातृणां स्तोतृणां च क्षये गृहे स्पर्धसे
+> स्पर्धनाय भवति । धनिकानां स्तोतृणां च धनाधिक्यविषये स्पर्धा भवतीत्यर्थः ।
+> अपरिमितं धनं भवतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, I hold (धेयां (*dheyāṃ*), "I bear") by ṛc, that is, by praise as the means, the wealth उपमं (*upamaṃ*) that is to be given by you, wealth measured out close at hand. The wealth that is obtained from you, यद्ध (*yaddha*) certainly, becomes a cause of rivalry (स्पर्धसे (*spardhase*)) in the house (क्षये (*kṣaye*)) of the wealthy मघोनां (*maghonāṃ*), who are non-givers, and of the praisers. The meaning is that rivalry arises between the rich and the praisers about the excess of wealth; the idea is that the wealth is immeasurable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- स्तोतृणां (*stotṛṇāṃ*)—to the praisers (which you give)
+- यत् ह (*yat ha*)—which wealth
+- मघोनां (*maghonāṃ*)—of those who are merely rich (and not performers of sacrifice)
+- क्षये (*kṣaye*)—in the house
+- स्पर्धसे (*spardhase*)—is a cause of rivalry (gives rise to envy)
+- उपमं (*upamaṃ*)—such wealth
+- ऋचा (*ṛcā*)—as a reward for my praise
+- युवाभ्यां (*yuvābhyāṃ*)—from you
+- धेयां (*dheyāṃ*)—may I obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the wealth that you give to the praisers is greater than the wealth of those who are merely rich, without performing sacrifice. Therefore it causes envy in the house of such rich men and becomes a cause of rivalry. Grant that I may obtain such wealth from you as a reward for my praise.
+
+##### English translation
+May I obtain from you, Mitra and Varuna, by my praise, such wealth as to excite envy in the dwellings of the rich and the devout.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ मित्र सुदी॒तिभि॒र्वरु॑णश्च स॒दस्य॒ आ ।  
+> स्वे क्षये॑ म॒घोनां॒ सखी॑नां च वृ॒धसे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । मित्र । सुदीतिभिः । वरुणः । च । सधस्थे । आ ।  
+> स्वे । क्षये । मघोनां । सखीनां । च । वृधसे ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 24. Sukta 63 Rk 2 end to Rk 6, pp. 19-24
+**Progress note:** Done through printed p. 31. Sukta 63 Rk 7 end; Sukta 64 Rks 1-4, Rk 5 samhita/pada (pp. 25-31)
