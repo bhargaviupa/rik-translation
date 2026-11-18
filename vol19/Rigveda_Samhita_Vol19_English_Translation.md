@@ -14805,6 +14805,241 @@ The sacrificer does not touch the bricks named Nirṛti. Nirṛti has the form o
 > सा नः॑ सु॒दानु॑र्मृ॒ळयं॑ती दे॒वी प्रति॒ द्रवं॑ती सुवि॒ताय॑  
 > गम्याः ॥ १८ ॥
 
+### Printed p. 397
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । वः । देवाः । सुमतिं । ऊर्जयंतीं । इषं । अश्याम । वसवः । शसा । गोः।  
+> सा । नः । सुदानुः । मृळयंती । देवी । प्रति । द्रवंती । सुविताय । गम्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा हे वसवो वासयितारो वो युष्माकं स्वभूतां तां प्रसिद्धां
+> सुमतिं शोभनमननसाधनां । अन्नेन मतिवृद्धिरन्नमयं हि सोम्य मनः ।
+> छां उ. ६. ५. ४. । इत्यादिषु प्रसिद्धा । ऊर्जयंतीं बलकरीमिषमेषणसाधनमन्नं
+> क्षीरदध्यादिलक्षणं शसा स्तुत्या गोः सकाशादश्याम । प्राप्नुयाम । सा देवी
+> नोऽस्मान् सुविताय सुखाय प्रति गम्याः । गम्यात् । अभिगच्छेत् । सेट् देवता
+> विशेष्यते।सुदानुः शोभनदाना मृळयंती सुखयंती द्रवंत्यस्मदभिमुखं गच्छंती॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods as Vasus, "those who cause to dwell", and speaks of "that well-known good thought (sumati) of yours", that is, a means of good thinking; growth of thought comes from food, and it is well known in passages such as अन्नेन मतिवृद्धिरन्नमयं हि सोम्य मनः । (*annena mativṛddhirannamayaṃ hi somya manaḥ |*) (Chā. U. 6. 5. 4) that "the mind, dear one, is made of food". "Invigorating" means strength-giving, and the इषं (*iṣaṃ*) is food, a means of seeking, of the nature of milk, curds and the like. May we obtain it, may we reach it, through praise (शसा (*śasā*)) from the cow. May that goddess come to us for our good, for happiness; गम्याः (*gamyāḥ*) means "may she come", "may she approach". The deity is further qualified: सुदानुः (*sudānuḥ*), of good gifts; मृळयंती (*mṛḷayaṃtī*), making us happy; द्रवंती (*dravaṃtī*), hastening, coming towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O you who are of divine nature
+- वसवः (*vasavaḥ*)—O Vasus
+- शसा (*śasā*)—as the fruit of our praises
+- गोः (*goḥ*)—from that cow
+- वः (*vaḥ*)—which is to be (kept) with regard to you
+- तां (*tāṃ*)—that famous
+- सुमतिं (*sumatiṃ*)—conducive to an excellent state of mind
+- ऊर्जयंतीं (*ūrjayaṃtīṃ*)—producing strength of the body
+- इषं (*iṣaṃ*)—food of the nature of milk and the like
+- आश्याम (*āśyāma*)—may we obtain
+- सा देवी (*sā devī*)—that goddess
+- सुदानुः (*sudānuḥ*)—endowed with excellent gifts
+- मृळयंती (*mṛḷayaṃtī*)—giving us happiness
+- द्रवंती (*dravaṃtī*)—eager to come to us
+- नः (*naḥ*)—our
+- सुविताय (*suvitāya*)—for the good
+- प्रति गम्याः (*prati gamyāḥ*)—may she come towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasus, divine beings, the food of milk and the like, to be obtained from that cow, is conducive to the pure state of mind that we must keep with regard to you, and is a producer of nourishment for our body. As the fruit of our praise may we obtain that food. And may that goddess, who is endowed with excellent gifts, who is a giver of happiness to us, and who is eager to favour us, come towards us for our good.
+
+##### English translation
+Divine Vasus, may we obtain from the adorable cow invigorating and mind-sustaining food : may that liberal and benignant goddess, hastening (hither), come for our felicity.
+
+### Printed p. 398
+
+#### Ṛk 19
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि न॒ इळा॑ यू॒थस्य॑ मा॒ता स्मन्न॒दीभि॑रु॒र्वशी॑ वा गृणातु ।  
+> उ॒र्वशी॑ वा बृहद्दि॒वा गृ॑णा॒नाभ्यू॑र्व्वा॒ना प्र॑भृ॒थस्या॒योः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नः । इळा । यूथस्य । माता । स्मत् । नदीभिः । उर्वशी । वा । गृणातु ।  
+> उर्वशी । वा । बृहत्कदिवा । गृणाना । अभिऊर्व्वाना । प्रभृथस्य । आयोः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभि गृणातु नोऽस्मानिळा भूमिर्यूथस्य गोसंघस्य माता निर्मात्री ।
+> यद्वेळा गोरूपधरा मनोः पुत्रीत्याहुः । यद्वा यूथस्य मरुद्धणस्य निर्मात्रीळा माध्यमिकी वाक् । अथवोर्वशी माध्यमिकी वाक् । नदीभिर्गंगादिभिः सह
+> गृणातु । स्मच्छब्दः प्रशस्तवचन इत्तुक्तं । प्राशस्त्यं गृणातु । वाथवोर्वशी बृहद्दिवा
+> प्रभूतदीप्तिर्ग्गणाना शब्दयंत्यस्मदीयं कर्म प्रशंसंत्यभ्यूर्व्वानाच्छादयंती ।
+> कं । आयोरायुं मनुष्यं यजमानं । केन । प्रभृथस्य तेजसो वोदकस्य ना
+> दानेन । प्रभृथस्य तेजसो वोदकस्यॆति निरुक्तं । ११-४९. । अथवा प्रभृथस्य प्रभरणवत
+> आयोर्यज्ञमभ्यूर्व्वानाच्छादयंती ॥
+
+##### Gist of the bhāṣya
+
+May Iḷā, the earth, the creator of the herd (the host of cows), praise us. Or, as they say, Iḷā is the daughter of Manu, who has taken the form of a cow. Or else Iḷā is the Mādhyamikā Vāc, the creator of the host of Maruts. Or Urvaśī is the Mādhyamikā Vāc. May she praise with the rivers, with the Gaṅgā and the others. The word स्मच्छब्दः (*smacchabdaḥ*) is said to be a word of praise: may she proclaim excellence. Or else Urvaśī, of abundant brilliance, uttering, praising our rite, covering (the sacrificer): whom? Āyu, the man, the sacrificer. By what? By प्रभृथस्य (*prabhṛthasya*), by brilliance or by water, by giving; the Nirukta (11-49) says that प्रभृथस्य तेजसो वोदकस्यॆति (*prabhṛthasya tejaso vodakasyèti*). Or else प्रभृथस्य (*prabhṛthasya*) means "of him who carries offerings forward", covering the sacrifice of Āyu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यूधस्य (*yūdhasya*)—to the host of cows
+- माता (*mātā*)—the mother
+- इळा (*iḷā*)—the goddess Iḷā
+- उर्वशी (*urvaśī*)—and Urvaśī (माध्यमिका वाक् (*mādhyamikā vāk*))
+- नदीभिः (*nadībhiḥ*)—together with the Gaṅgā and the other rivers
+- नः (*naḥ*)—us
+- अभि गृणातु (*abhi gṛṇātu*)—may she favour
+- वा (*vā*)—moreover
+- बृहद्दिवा (*bṛhaddivā*)—of exceeding brilliance
+- उर्वशी (*urvaśī*)—Urvaśī
+- गृणाना (*gṛṇānā*)—praising our rites
+- आयोः (*āyoḥ*)—the sacrificer
+- प्रभृथस्य (*prabhṛthasya*)—by the spreading of brilliance
+- अभ्यूर्वाना (*abhyūrvānā*)—covering (may she be gracious)
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Iḷā, the mother of the host of cows, and Urvaśī, together with the Gaṅgā and the other rivers, favour us. Moreover, may Urvaśī, of exceeding brilliance, be gracious, praising our rites and covering the sacrificer by the spreading of brilliance.
+
+### Printed p. 399
+
+##### English translation
+May Ila, the mother of the herd, and Urvashi, with the rivers, be favourable to us; may the bright-shining Urvashi (come), commanding our devotion, and investing the worshipper with light.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिष॑क्तु न ऊर्ज॒व्य॑स्य पु॒ष्पेः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिसक्तु । नः । ऊर्जव्यस्य । पुष्पेः ॥ २८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्जव्यस्यॆतन्नामकस्य राज्यः पुष्टेः पोषकस्य संबंधिनो नोऽस्मान्
+> सिषक्तु । सेवतां । सामर्थ्याद्देवसंघ इति गम्यते । अथवोर्वशी मरुद्धणो वा
+> गृह्यते प्रकृतत्वादिति ॥
+
+##### Gist of the bhāṣya
+
+May she attend upon us, who belong to Ūrjavya of that name, the king, the nourisher. By implication the host of gods is understood; or else Urvaśī or the host of Maruts is taken, since it is the topic.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जव्यस्य (*ūrjavyasya*)—of the king named Ūrjavya
+- पुष्टेः (*puṣṭeḥ*)—who are the cause of (his) increase
+- नः (*naḥ*)—us
+- सिषक्तु (*siṣaktu*)—may she serve
+
+##### भावार्थ (Bhāvārtha)
+
+May that goddess serve us, who are the cause of the increase of the king named Ūrjavya.
+
+##### English translation
+May she cherish us (as the servants) of our patron Urjavya.
+
+### Printed p. 400
+
+## Sūkta 42 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र शंतमेत्यष्टादशर्चं दशमं सूक्तं भौमस्यात्रेरार्षं त्रैष्टुभं । पूर्वसूक्ते वै तदित्युक्तत्वादिदमपि वैश्वदेवं । तमु ष्टुहीत्येकादशी रुद्रदेवत्या ।
+> सप्तदश्येकपदैतयोरुपांत्यैकपदेत्यनुक्रमिष्यमाणत्वात् । अत्रानुक्रमणिका । प्र
+> शंतमा द्वौनैकादशी रौद्रीति । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sūkta beginning प्र शंतमा (*pra śaṃtamā*) has eighteen Ṛks and is the tenth sūkta. Its seer is Atri of the Bhauma line (भौमस्यात्रेरार्षं (*bhaumasyātrerārṣaṃ*)), the metre is Triṣṭubh, and, since the preceding sūkta was said to be Vaiśvadeva, this one too is Vaiśvadeva (addressed to the Viśvedevas). The eleventh Ṛk, तमु ष्टुही (*tamu ṣṭuhī*), has Rudra as its deity. The seventeenth is of one pāda, since the Anukramaṇikā is going to say so. The Anukramaṇikā here says that प्र शंतमा (*pra śaṃtamā*) is the sūkta in which, with the eleventh two short, the Ṛk is Raudra. The use (viniyoga) is by indication (laiṅgika).
+
+Anuvāda: This sūkta प्र शंतमा (*pra śaṃtamā*) is the tenth sūkta in the third anuvāka. It has eighteen Ṛks. Atri is the seer of this sūkta; the metre is Triṣṭubh; as in the preceding sūkta, the Viśvedevas are the deity; the eleventh Ṛk of this sūkta, तमुष्टिहि (*tamuṣṭihi*), is addressed to Rudra; the seventeenth Ṛk is in the metre called Ekapadā. In the Anukramaṇikā the statement द्व्यूनैकादशी दौद्रीति (*dvyūnaikādaśī daudrīti*) is made;**NOTE** the use is by indication.
+
+- Sūkta 42
+- Maṇḍala 5, Anuvāka 3, Sūkta 42
+- Aṣṭaka 4, Adhyāya 2, Vargas 17, 18, 19
+- Number of Ṛks in the sūkta: 18
+- Seer: अत्रिः (*atriḥ*)
+- Deity: Ṛks 1-10, 12-18 विश्वेदेवाः (*viśvedevāḥ*); 11 रुद्रः (*rudraḥ*)
+- Metre: Ṛks 1-16, 18 त्रिष्टुप् (*triṣṭup*); 17 एकपवा (*ekapavā*)**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शंत॑मा॒ वरु॑णं॒ दीधि॑ती॒ गीर्मि॒त्रं भग॒मदि॑तिं नू॒नम॑श्याः ।  
+> पृष॑द्योनिः॒ पंच॑होता शृणो॒त्वतू॑र्तपंथा॒ असु॑रो  ॒
+> मयोभुः ॥ १ ॥
+
+### Printed p. 401
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शंतमा । वरुणं । दीधिती । गीः । मित्रं । भगं । अदितिं । नूनं । अश्याः ।  
+> पृषत्ऽयोनिः । पंचहोता। शृणोतु । अतूर्तऽपंथाः । असुरः । मयःऽभुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र शंतमात्यंतं सुखकरी गीः स्तुतिरूपा, वाग्वरुणं मित्रं भगमदितिं च
+> दीधिती दीधित्या कर्मणा हविष्पक्षेपणात्मकेन सह नूनमवितथं प्राश्याः ।
+> प्राप्नोतु । किंच पृषद्योनिः पृषद्वर्णांतरिक्षस्थः पंचहोता पंचविधस्य प्राणापानादिहोमस्य साधको वायुः । यद्वा । पंचहोतेति वायोर्नाम । वायुः
+> पंचहोता स प्राण इति हि श्रुतेः । स चातूर्तपंथा अहिंसितगतिरसुरः प्राणस्य दाता
+> मयोभुः सुखस्यास्पदभूतः । एवमुक्तलक्षणो वायुः शृणोतु स्तोत्रमिति ॥
+
+##### Gist of the bhāṣya
+
+May the speech of praise, most happiness-giving, together with the दीधिती (*dīdhitī*), the rite consisting of casting in the oblation, surely and without fail reach Varuṇa, Mitra, Bhaga and Aditi. Moreover, पृषद्योनिः (*pṛṣadyoniḥ*) is he who dwells in the middle region of dappled colour; पंचहोता (*paṃcahotā*) is Vāyu, the accomplisher of the fivefold homa of the breaths prāṇa, apāna and the rest. Or else पंचहोता (*paṃcahotā*) is a name of Vāyu, for the śruti says that Vāyu is the five-fold hotṛ and he is the breath. He is अतूर्तपंथाः (*atūrtapaṃthāḥ*), of unharmed course, असुरः (*asuraḥ*), the giver of the breath, मयोभुः (*mayobhuḥ*), the abode of happiness. May Vāyu, of the nature so described, hear the praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शंतमा (*śaṃtamā*)—most happiness-giving
+- गीः (*gīḥ*)—the speech in the form of (our) praise
+- दीधिती (*dīdhitī*)—joined with rites such as the giving of the oblation
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मित्रं (*mitraṃ*)—Mitra
+- भगं (*bhagaṃ*)—Bhaga
+- अदितिं (*aditiṃ*)—Aditi
+- नूनं (*nūnaṃ*)—surely
+- प्र अश्याः (*pra aśyāḥ*)—may it go and reach
+- पृषद्योनिः (*pṛṣadyoniḥ*)—he whose own place is the middle region, of variegated colours
+- अतूर्तपंथाः (*atūrtapaṃthāḥ*)—he whose going is unimpeded
+- असुरः (*asuraḥ*)—the giver of life
+- मयोभुः (*mayobhuḥ*)—the bestower of happiness
+- पंचहोता (*paṃcahotā*)—Vāyu, the accomplisher of the fivefold homa consisting of prāṇa, apāna and the rest
+- शृणोतु (*śṛṇotu*)—may he hear our praise
+
+##### भावार्थ (Bhāvārtha)
+
+May our most happiness-giving praise, joined with rites such as the giving of the oblation, surely go and reach Varuṇa, Mitra, Bhaga and Aditi. May Vāyu, whose own abode is the middle region of variegated colours, whose going is unimpeded, the giver of life, the bestower of happiness, the accomplisher of the fivefold homa consisting of prāṇa, apāna and the rest, hear our praise.
+
+##### English translation
+May our most animating praise, together with our offerings, successfully attain Varuna, Mitra, Bhaga and Aditi: may the ministrant
+
+### Printed p. 402
+
+of the five (vital airs, Vayu), the dweller in the dappled (firmament), he whose path is unimpeded, who is the giver of life, the bestower of happiness, hear.
+
+##### विशेषविषयगळु (Special Topics)
+
+पृषद्योनिः पंचहोता (*pṛṣadyoniḥ paṃcahotā*)
+
+The two words पृषद्योनिः (*pṛṣadyoniḥ*) and पंचहोता (*paṃcahotā*) both describe the nature of Vāyu. Because he dwells in the middle region of dappled hue, Vāyu is called पृषद्योनिः (*pṛṣadyoniḥ*). There is also the synonymous name पृश्निगर्भ (*pṛśnigarbha*). This is the purport of the first epithet. Secondly, for पंचहोता (*paṃcahotā*) the explanation पंचविधस्य प्राणापानादिहोमस्य साधको वायुः (*paṃcavidhasya prāṇāpānādihomasya sādhako vāyuḥ*) is given: it is explained as Vāyu, the accomplisher of the fivefold homa in the form of prāṇa, apāna and the rest. It must be examined which natures of Vāyu these two epithets show. First,
+
+पृषद्योनिः (*pṛṣadyoniḥ*):— अथातो मध्यस्थाना देवताः । तासां वायुः प्रथमगामी भवति (*athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamagāmī bhavati*) (Ni. 10.1). The Nirukta-writers have indicated Vāyu's place thus: among the deities of the middle region the first place belongs to Vāyu; he is the "first-going". There is a difference between merely "dwelling in the middle region" and पृषद्योनिः (*pṛṣadyoniḥ*) or पृश्निगर्भ (*pṛśnigarbha*). The epithet पृषद्योनिः (*pṛṣadyoniḥ*) also indicates Vāyu's right to enjoy the sacrifice.
+
+अथ नमो नायवेंतरिक्ष्षिते लोकक्षिते (*atha namo nāyaveṃtarikṣṣite lokakṣite*) (Bhā. U. 9-24-9)**NOTE**
+
+The enjoyment of the sacrifice stated in such sentences is what is indicated in the present mantra. It is from this very place that he is the one to whom offerings are made, as is stated in the Śatapatha Brāhmaṇa thus:
+
+तान्वायुरब्रवीत् । उपाहमायानीति केनेति दिग्भिरिति तथेति दिश्याभिर्ह तदुवाच तस्माद्वितीयाय्कॆ स्वयमातृणाया अनंतर्हिता दिश्या उपधीयंते तस्मादंतरिक्षादनंतर्हिता दिशोऽनंतर्हितो वायुरनंतर्हितो हैष एताभिरुपैत् ॥ (*tānvāyurabravīt | upāhamāyānīti keneti digbhiriti tatheti diśyābhirha taduvāca tasmādvitīyāykè svayamātṛṇāyā anaṃtarhitā diśyā upadhīyaṃte tasmādaṃtarikṣādanaṃtarhitā diśo 'naṃtarhito vāyuranaṃtarhito haiṣa etābhirupait ‖*) (Śa. Bā. 6-2-3)**NOTE**
+
+The layer of the second storey itself appeared in the form of the middle region. "I shall ascend there," said Vāyu. Then he joined the bricks of the layer. Then they were not separated from the middle regions. Then
+
 ---
 
-**Progress note:** Done through printed p. 396. Nirṛti Ṛk 17 and special topics, pp. 391-396
+**Progress note:** Done through printed p. 402. Ṛk 18-20 of sūkta 41; sūkta 42 Ṛk 1 and special topics, pp. 397-402
