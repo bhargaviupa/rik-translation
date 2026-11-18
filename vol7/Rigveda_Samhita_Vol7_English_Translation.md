@@ -12705,7 +12705,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।
 
-*samāno adhvā svasror anantas tam anyānyā carato devaśiṣṭe |*  (Ṛ. Saṃ. 1-113-11)
+*samāno adhvā svasror anantas tam anyānyā carato devaśiṣṭe |*  (Ṛ. Saṃ. 1-113-3)
 
 > स्वस्वा स्वस्रे ज्यायस्यै योनिमारैगपैत्यस्याः प्रतिचक्ष्येव ।
 
@@ -12742,7 +12742,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > ईयुष्टे ये पूर्वतरामपश्यन्व्युच्छन्तीमुषसं मर्त्यासः ।
 
-*īyuṣ ṭe ye pūrvatarām apaśyan vyucchantīm uṣasaṃ martyāsaḥ |*  (Ṛ. Saṃ. 1-113-8 [?]; numerals as read; the first word is printed *īyuṣṭe* [?])
+*īyuṣ ṭe ye pūrvatarām apaśyan vyucchantīm uṣasaṃ martyāsaḥ |*  (Ṛ. Saṃ. 1-113-11; numerals as read; the first word is printed *īyuṣṭe* [?])
 
 > अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
 
