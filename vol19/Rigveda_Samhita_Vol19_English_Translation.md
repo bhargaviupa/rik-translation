@@ -12514,6 +12514,232 @@ To that Indra is the poetical and articulate prayer to be recited: to him the co
 
 Sāyaṇa says that the eighth sūkta, beginning आ याह्यद्रिभिरिति (*ā yāhyadribhiriti*), has nine Ṛks. The Anukramaṇikā says: its seer is Atri, of the Atri family; the metre of the nine Ṛks is Triṣṭubh, with the first and last Anuṣṭubh and, in the middle, one more, that is, the Sūrya Ṛk; the history that begins with it, and since the sūkta is a praise (stuti-karman), the deity is Atri. **NOTE** By the rule cited (Anu. 12-2) Atri is the seer.
 
+### Printed p. 317
+
+> आद्यास्तिस्र उष्णिहः पंचमीनवम्यावनुष्टुभौ शिष्टाश्चतस्रस्त्रिष्टुभः । अत्रेः स्तूयमानत्वात् षष्ठ्याद्या अत्रिदेवताका अत्यार्षेयाश्च पंचमी सूर्यदेवत्या
+> शिष्टा ऐंद्रः ॥ दशरात्रे तृतीयेहनि प्रउगशस्त्र आद्यस्तृच ऐंद्रः पंचमः ।
+> सूत्रितं च । आ याह्र्यद्रिभिः सुतं सजूर्विश्वेभिर्देवेभिः । आ. ७-१० । इति ॥ महाव्रतेऽप्यौषिहतृचाशीतावयं तृचः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues with the Anukramaṇikā: the first three Ṛks are Uṣṇih, the fifth and the ninth are Anuṣṭubh, and the remaining four are Triṣṭubh. Because Atri is praised in them, the Ṛks from the sixth onward have Atri as their deity and are Ātreya; the fifth has Sūrya as its deity, and the rest are Aindra (addressed to Indra). **NOTE** Then he gives the ritual use: on the third day of the Daśarātra, in the Prauga-śastra, the first tṛca is the fifth, Aindra. The sūtra says: the Ṛk beginning आ याह्र्यद्रिभिः (*ā yāhryadribhiḥ*) (Ā. 7-10). At the Mahāvrata also the tṛca, **NOTE**
+
+Anuvāda: This sūkta आ याह्यद्रिभिः (*ā yāhyadribhiḥ*) is the eighth sūkta in the third anuvāka. It has nine Ṛks. In the Anukramaṇikā it is said: आ याहि नव त्रुष्टिगाद्यंत्यानुष्टुम्मध्यॆ च सा सौरी तदादीतिहासः स्तुतिकर्मत्वादत्रिर्देवतैव (*ā yāhi nava truṣṭigādyaṃtyānuṣṭummadhyè ca sā saurī tadādītihāsaḥ stutikarmatvādatrirdevataiva*). Atri is the seer of this sūkta; the first three Ṛks of this sūkta are in the Uṣṇik metre; the fifth and the ninth Ṛks are in the Anuṣṭup metre; the remaining four Ṛks are in the Triṣṭup metre. In the four Ṛks from the sixth to the ninth of this sūkta there is praise of the seer Atri; therefore Atri is the deity of those four Ṛks, and the seer of those Ṛks also is Atri himself. The fifth Ṛk has Sūrya as its deity. In the sacrifice called Daśarātra, on the third day, at the time of reciting the Prauga-śastra mantra, the first three Ṛks of this sūkta are to be recited as the fifth tṛca (tṛca means three Ṛks), relating to Indra; this is explained by the sūtra आ याह्यद्रिभिः सुतं सजूर्विश्वेभिर्देवेभिः (*ā yāhyadribhiḥ sutaṃ sajūrviśvebhirdevebhiḥ*) (Ā. 7-10) of the Āśvalāyana-śrauta-sūtra. In the sacrifice called Mahāvrata also, the first three Ṛks of this sūkta are employed for mantras in the Uṣṇik metre.
+
+- Sūkta 40
+- Maṇḍala 5, Anuvāka 3, Sūkta 40
+- Aṣṭaka 4, Adhyāya 2, Varga 12, 13
+- Number of Ṛks in the sūkta: 9
+- Glory (mahimā): आत्म (*ātma*)
+- Deity: Ṛks 1-4 इंद्रः (*iṃdraḥ*); 5 सूर्यः (*sūryaḥ*); 6-9 अत्रिः (*atriḥ*)
+- Metre: Ṛks 1-3 उष्णिक् (*uṣṇik*); 4, 6-8 त्रिष्टुप् (*triṣṭup*); 5-9 अनुष्टुप् (*anuṣṭup*) **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॒ह्यद्रि॑भिः सु॒तं सोमं॑ सोमपते पिब ।  
+> वृष॑न्निंद्र॒ वृष॑भिर्वृत्रहन्तम ॥ १ ॥
+
+### Printed p. 318
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । अद्रिभिः । सुतं । सोमं । सोमपते । पिब ।  
+> वृषन् । इंद्र । वृषभिः । वृत्रहन्तम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आ याहि । अस्मद्यज्ञमागच्छ ; आगत्य च हे सोमपते सोमस्य
+> स्वामिन्निंद्र अद्रिभिग्रावभिः सुतनुभिषुतं सोमं पिब । हे वृषन् फलस्य वर्षयितर्वृत्रहंतमातिशयेन शत्रुणां हंतृतम वृषभिर्वर्षकैर्मरुद्भिः सहा याहि
+> पिब च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, come (आ याहि (*ā yāhi*)): come to our sacrifice; and having come, O lord of Soma (सोमपते (*somapate*), master of Soma), drink the Soma pressed with the stones (अद्रिभिः (*adribhiḥ*), the pressing stones). O showerer (वृषन् (*vṛṣan*), one who rains down the fruit), O foremost slayer of Vṛtra (वृत्रहंतम (*vṛtrahaṃtama*), one who is exceedingly the destroyer of enemies), come and drink together with the showerers (वृषभिः (*vṛṣabhiḥ*)), the Maruts, who rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आ याहि (*ā yāhi*)—(to our sacrifice) deign to come
+- सोमपते (*somapate*)—O Indra, lord of Soma
+- अद्रिभिः (*adribhiḥ*)—(crushed) with stones
+- सुतुं (*sutuṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma juice
+- पिब (*piba*)—drink
+- वृषन् (*vṛṣan*)—bestower of what is wished
+- वृत्रहंतम (*vṛtrahaṃtama*)—O Indra, who destroy Vṛtra completely
+- वृषभिः (*vṛṣabhiḥ*)—with the Maruts, who shower what is desired (deign to come to the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bestower of what is wished, who destroy Vṛtra completely, you, as lord of Soma, drink the Soma juice that has been crushed and pressed with stones.
+
+##### English translation
+Come, Indra, (to our sacrifice) ; drink, lord of the Soma, of the juice expressed by the stones : showerer (of benefits). utter destroyer of Vritra, (come) with the showering (Maruts).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ ग्रावा॒ वृषा॒ मदो॒ वृषा॒ सोमो॑ अ॒यं सु॒तः ।  
+> वृष॑न्निंद्र॒ वृष॑भिवृत्रहस्तम ॥ २ ॥
+
+### Printed p. 319
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । ग्रावा । वृषा । मदः । वृषा । सोमः । अयं । सुतः ।  
+> वृषन् । इंद्र । वृषभिः । वृत्रहन्तम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावाभिषवसाधनः पाषाणो वृषा वर्षकः सोमरसस्य फलस्य ना । मदः
+> सोमपानेन जनितो वृषा वर्षकः । अयं सुतोऽभिषुतः सोमो वृषा । तं
+> सोमं वृषभिः सह पिब ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: ग्रावा (*grāvā*) is the stone, the instrument of pressing; it is वृषा (*vṛṣā*), the showerer, of the Soma juice and of the fruit. **NOTE** The exhilaration (मदः (*madaḥ*)) produced by drinking Soma is वृषा (*vṛṣā*), a showerer. This pressed Soma is वृषा (*vṛṣā*). Drink that Soma together with the showerers (वृषभिः (*vṛṣabhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावा (*grāvā*)—the stone that presses the Soma
+- वृषा (*vṛṣā*)—that which showers desires
+- मदः (*madaḥ*)—the joy arising from drinking Soma
+- वृषा (*vṛṣā*)—that which bestows what is wished
+- अयं (*ayaṃ*)—here present
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—the Soma
+- वृषा (*vṛṣā*)—that which showers desires
+- वृषन् (*vṛṣan*)—bestower of what is wished
+- वृत्रहंतनु (*vṛtrahaṃtanu*)—and destroyer of Vṛtra completely
+- इंद्र (*iṃdra*)—O Indra
+- वृषभिः (*vṛṣabhiḥ*)—with the Maruts (drink)
+
+##### भावार्थ (Bhāvārtha)
+
+The stone that presses the Soma is a showerer of desires. The joy arising from drinking Soma is a bestower of what is wished. The Soma that has been pressed and made ready here is something that gives what is desired. May Indra, the bestower of what is wished and complete destroyer of Vṛtra, drink it together with the Maruts.
+
+##### English translation
+The stone is the showerer, the inebriation is the showerer, this effused Soma is the showerer; showerer (of benefits), Indra, utter destroyer of Vritra, come with the showering (Maruts).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ त्वा॒ वृष॑णं हुवे॒ वज्रन्॑ इ॒त्राभि॑रू॒तिभिः॑ ।  
+> वृष॑न्निंद्र॒ वृष॑भि र्वृत्रहस्तम ॥ ३ ॥
+
+### Printed p. 320
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । त्वा । वृषणं । हुवे । वज्रन् । चित्राभिः । ऊतिभिः ।  
+> वृषन् । इंद्र । वृषभिः । वृत्रहन्तम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद वृषा सोमरसस्य सेक्ताहं वृषणं त्वां हुवे ।
+> आह्वयामि । किमर्थं । चित्राभिश्चायनीयाभिरूतिभी रक्षाभिर्निमित्तभूताभिः ।
+> शिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wielder of the thunderbolt, Indra, I, who am वृषा (*vṛṣā*), the pourer of the Soma juice, call (हुवे (*huve*), invoke) you, the showerer. For what purpose? With wonderful (चित्राभिः (*citrābhiḥ*)) protections (ऊतिभिः (*ūtibhiḥ*)) as the occasion. The rest has already been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- वृषा (*vṛṣā*)—I, who press the Soma juice
+- वृषणं (*vṛṣaṇaṃ*)—who shower desires
+- त्वा (*tvā*)—you
+- चित्राभिः (*citrābhiḥ*)—of many kinds
+- ऊतिभिः (*ūtibhiḥ*)—for the sake of protections
+- हुवे (*huve*)—I call
+- वृषन् (*vṛṣan*)—bestower of what is wished
+- वृत्रहंतम (*vṛtrahaṃtama*)—O Indra, who destroy Vṛtra completely
+- वृषभिः (*vṛṣabhiḥ*)—with the Maruts (deign to drink the Soma)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who hold the thunderbolt, I, who press the Soma juice, call you, the shower of desires, for the sake of protections of many kinds. O Indra, bestower of what is wished and destroyer of Vṛtra, deign to drink the Soma together with the Maruts, who bestow what is wished.
+
+##### English translation
+Effusing the libation, I invoke you, the showerer (of benefits), for your marvellous protections : showerer (of benefits), Indra, utter destroyer of Vritra, come with the showering (Maruts).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒जी॒षी व॒ज्रे वृ॑ष॒भस्तु॑रा॒षाट्च्यु॒ष्मी राजा॑ वृत्र॒हा सो॑म॒सावा॑ ।
+
+### Printed p. 321
+
+> युक्त्वा हरिभ्यामुप यासदर्वाज्माध्यंदिने सवने मत्सदिंद्रः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजीषी । वज्री । वृषभः । तुराषाट् । शुष्मी । राजा । वृत्रहा । सोमपावा ।  
+> युक्त्वा । हरिभ्यां । उप । यासत् । अर्वाज् । माध्यंदिने । सवने । मत्सत् ।  
+> इंद्रः . ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजीषी वज्रीत्येषा ब्राह्मणाच्छंसिनः शस्त्रयाज्या । ऋजीषी वज्री
+> वृषभस्तुराषाळिति याज्या ! आ. ५. १६. । इति हि सूत्रितं ॥
+> ऋजीषी । सवनद्वयेऽभिषुतस्य गतसारस्य सोमरसस्य तृतीयसवन
+> आप्यायाभिसुतो योऽस्ति स ऋजीषः सोमः सोऽस्त्यास्तीत्यजीषी । वज्री
+> वज्रवान् वृषभो वर्षिता तुराषाट् तुराणां त्वरमाणानां शत्रूणां सोढा
+> शुष्मी बलवान् राजेश्वरः सर्वस्य वृत्रहा वृत्रस्य हंता सोमपावा सोमरसस
+> पाता एवं महानुभाव इंद्रो हरिभ्यां युक्त्वा रथं योजयित्वोप यासत् ।
+> उपगच्छतु । अर्वाजिस्मदभिमुखनागच्छतु । माध्यंदिने सवने मत्सत् माड्यतु
+> सोमेनेंद्रः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk ऋजीषी वज्री (*ṛjīṣī vajrī*) is the śastra-yājyā of the Brāhmaṇācchaṃsin. For the sūtra says: ऋजीषी वज्री वृषभस्तुराषाळिति याज्या (*ṛjīṣī vajrī vṛṣabhasturāṣāḷiti yājyā*) (Ā. 5. 16.). Then he explains ऋजीषी (*ṛjīṣī*): of the Soma juice pressed at the two savanas and its essence gone, that which is pressed again at the third savana is ऋजीषः (*ṛjīṣaḥ*) Soma; he who has it is ऋजीषी (*ṛjīṣī*). वज्री (*vajrī*) is the possessor of the vajra; वृषभः (*vṛṣabhaḥ*) is the rainer; तुराषाट् (*turāṣāṭ*) is the overcomer of the hastening enemies; शुष्मी (*śuṣmī*) is the mighty; राजा (*rājā*) is the lord of all; वृत्रहा (*vṛtrahā*) is the slayer of Vṛtra; सोमपावा (*somapāvā*) is the drinker of the Soma juice. May such a mighty Indra, having yoked his chariot to his two bay horses, come near (उप यासत् (*upa yāsat*)), come toward us (अर्वाज् (*arvāj*)), and be exhilarated by Soma at the midday savana (मत्सत् (*matsat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषी (*ṛjīṣī*)—who accepts the Soma that is ṛjīṣa
+- वज्री (*vajrī*)—who holds the thunderbolt
+- वृषभः (*vṛṣabhaḥ*)—who causes the shedding of rain
+- तुराषाट् (*turāṣāṭ*)—who has the power to face enemies
+- शुष्मी (*śuṣmī*)—the mighty
+- राजा (*rājā*)—the lord
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra
+- सोमपावा (*somapāvā*)—and the drinker of the Soma juice
+- इंद्रः (*iṃdraḥ*)—Indra
+- अर्वाज् (*arvāj*)—toward us
+- उष्य यासत् (*uṣya yāsat*)—may he deign to come
+- माध्यंदिने सवने (*mādhyaṃdine savane*)—at the time of the midday savana
+- मत्सत् (*matsat*)—may he be delighted (by drinking Soma)
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who accepts the Soma that is ṛjīṣa, holds the thunderbolt, causes the shedding of rain, has the power to face enemies, is mighty, lord, slayer of Vṛtra and drinker of the Soma juice, deign to come toward us. May he be delighted by drinking Soma at the time of the midday savana.
+
+### Printed p. 322
+
+##### English translation
+May the accepter of the spiritless libation, the wielder of the thunderbolt, the showerer ( of benefits ), the overcomer of quick-(flying foes), the mighty, the monarch, the slayer of Vritra, the drinker of the Soma, having harnessed his horses, come down (to us) : may Indra be exhilarated at the mid-day sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Brāhmaṇācchaṃsin priest is to recite this Ṛk ऋजीषी वज्री (*ṛjīṣī vajrī*) as the śastra-yājyā mantra; this is explained by the sūtra ऋजीषी वज्री वृषभस्तुराषाळिति याज्या (*ṛjīṣī vajrī vṛṣabhasturāṣāḷiti yājyā*) (Ā. 5-16) of the Āśvalāyana-śrauta-sūtra.
+
+यजीषी (*yajīṣī*) **NOTE**—Yāska has given this etymology of the word:
+
+ऋजिषी सोमो यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जिषी सोमः। अथाप्यैंद्रो निगमो भवति ऋजिषी वज्रे इति॥ (*ṛjiṣī somo yatsomasya pūyamānasyātiricyate tadṛjīṣamapārjitaṃ bhavati tenarjiṣī somaḥ| athāpyaiṃdro nigamo bhavati ṛjiṣī vajre iti‖*)
+
+The sapless matter, like husk, which remains after the Soma plants have been crushed with stones and the juice taken out, is called ऋजीष (*ṛjīṣa*). This ऋजीष (*ṛjīṣa*) is thrown away as not wanted. In some cases such ऋजीष (*ṛjīṣa*) is soaked in water and a little more juice is pressed out of it. That Soma juice is called ऋजीषः सोमः (*ṛjīṣaḥ somaḥ*). At the third savana flour and other mixing substances (āśira) are mixed with such ṛjīṣa Soma and offered to Indra. Because Indra drinks this ṛjīṣa Soma, it has become customary to call Indra by the word ऋजीषी (*ṛjīṣī*) itself. Besides this, it is well known that Indra's horses, called Hari, eat the husk of these Soma plants called ṛjīṣa. On this matter Yāska has quoted, as an example, the Vedic sentence बद्धां ते हरीधाना उप ऋजीषं जिघ्रतां (*baddhāṃ te harīdhānā upa ṛjīṣaṃ jighratāṃ*). The meaning of the above sentence is: O Indra, may your horses eat the grain and smell this ṛjīṣa.
+
+What is ṛjīṣa? What is the reason that it has this name? What is its use in the sacrifice? We shall examine closely here what is said on these matters in the Aitareya Brāhmaṇa and the Taittirīya Saṃhitā:
+
+सोमो वै राजामुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन् कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंश्चंदांसि यूयं न (*somo vai rājāmuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyan kathamayamasmātsomo rājāgacchediti te 'bruvaṃścaṃdāṃsi yūyaṃ na*)
+
 ---
 
-**Progress note:** Done through printed p. 316. Vol 19 pp. 311-316: Ṛk 2 end, Ṛks 3-5, start of sūkta 40
+**Progress note:** Done through printed p. 322. Vol 19 pp. 317-322: Sūkta 40 Ṛks 1-4
