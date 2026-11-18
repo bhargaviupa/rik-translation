@@ -8,7 +8,6 @@ NOT IN LIST	Maṃ.			retain: Maṃ. = Ṛgveda maṇḍala ("Maṃ. 2-32" = ma�
 NOT IN LIST	Sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	11					1							6			4		
 NOT IN LIST	Saṃ.			no list form close to it	none		10		1				1				1	1	2	1			2	1
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	10		2	4		3			1									
-NOT IN LIST	dhā.			no list form close to it	none		8	6				2												
 NOT IN LIST	Ṛ. Sa.		Ṛ. Saṃ.	known spelling of Ṛ. Saṃ. (capitals/dots differ)	high		8		2		4											2		
 NOT IN LIST	Trai. Saṃ.			no list form close to it	none		7											1	5	1				
 NOT IN LIST	Atha. Ve.			no list form close to it	none		7																	7
@@ -60,7 +59,6 @@ NOT IN LIST	Pā. Sū. Vā.			no list form close to it	none		2			2
 NOT IN LIST	Pā. Vā.			no list form close to it	none		2			1					1									
 NOT IN LIST	Bṛ.			too short to tell: could be Bṛ. De. or Bṛ. U.	none		2			2														
 NOT IN LIST	Up.			no list form close to it	none		2					1	1											
-NOT IN LIST	Dhā.			no list form close to it	none		2					1			1									
 NOT IN LIST	Kāś.			no list form close to it	none		2					1					1							
 NOT IN LIST	sū.		Pā. Sū.	user, Nov 18 2026: bare Sū. is Pā. Sū. (the two places where the line names Āpastamba are decided apart in REFERENCES_SU_DECIDED.tsv)	high	yes	2					2												
 NOT IN LIST	Āp. Gṛ.			no list form close to it	none		2					2												
@@ -331,6 +329,7 @@ mistake	ai. ā.	→ Ai. Ā.					12	1	7		1						2			1
 mistake	phi.	→ Phi.					11		4	4		1	1			1								
 mistake	anu.	→ Anu.					10	1	2	2			1	1	1		2							
 mistake	pā. sū.	→ Pā. Sū.					10		6		2			2										
+mistake	dhā.	→ Dhā.					8	6				2												
 mistake	jai. sū.	→ Jai. Sū.					8	8																
 mistake	āśva.	→ Ā. Sū.					8	1				4				3								
 mistake	Āś. Gṛ.	→ Ā. Gṛ. Sū.					8		1	1	4	1		1										
@@ -445,6 +444,7 @@ extra	Mā. U.	Māṇḍūkya Upaniṣad					5												5
 extra	Sāṃ. Śrau. Sū.	Śāṅkhāyana Śrauta-sūtra					4					3											1	
 extra	Ā. Gṛ. Sū.	Āśvalāyana Gṛhya-sūtra					3																1	2
 extra	M.	Mahābhāṣya (Patañjali) on a Pāṇini sūtra					2			1	1													
+extra	Dhā.	Dhātupāṭha (Pāṇinīya Dhātupāṭha, पाणिनीय धातुपाठ)					2					1			1									
 extra	Mā. Gṛ. Sū.	Mānava Gṛhyasūtra					2					1											1	
 extra	Śa. Bhā.	Śaṅkara-bhāṣya					2												1	1				
 extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
@@ -502,7 +502,7 @@ Devanagari	पु. सं.		Ṛ. Saṃ.	Devanagari read as pu. saṃ.; known spe
 Devanagari	तै. आ.		Tai. Ā.	Devanagari read as tai. ā.; same letters; only capitals, dots or spaces differ	high	yes	10	4				2				1		1	1	1				
 Devanagari	शत. ब्रा.		Śa. Brā.	Devanagari read as śata. brā.; known spelling of Śa. Brā. (capitals/dots differ)	high	yes	10		3		1	1	1									2		2
 Devanagari	वा. ।. पा.			Devanagari read as vā. |. pā.; no list form close to it	none		10		6	2		1				1								
-Devanagari	धा.			Devanagari read as dhā.; no list form close to it	none		9	6	1			2												
+Devanagari	धा.		Dhā.	Devanagari read as dhā.; known spelling of Dhā.	high	yes	9	6	1			2												
 Devanagari	आश्व.		Ā. Sū.	Devanagari read as āśva.; known spelling of Ā. Sū. (capitals/dots differ)	high	yes	9	1	1			4				3								
 Devanagari	इ. ब्रा.			Devanagari read as i. brā.; no list form close to it	none		8													7		1		
 Devanagari	छां. उ.		Chā. U.	Devanagari read as chāṃ. u.; known spelling of Chā. U.	high	yes	7	1					2					2			1			1
