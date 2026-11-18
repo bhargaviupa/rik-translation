@@ -14508,6 +14508,257 @@ You, protector of (your) friends, are most resplendent blazing with radiance con
 
 In the Pravargya sacrifice, this Ṛk यो नः सनुत्यः (*yo naḥ sanutyaḥ*) is to be recited as the second Ṛk in the Abhiṣṭava, as is explained by the sūtra of the Āśvalāyana Śrautasūtra भवा नो अग्ने सुमना उपेताविति द्वृचाः (*bhavā no agne sumanā upetāviti dvṛcāḥ*) (A. 4-6).**NOTE**
 
+### Printed p. 426
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ य॒ज्ञेन॑ स॒मिधा॒ य उ॒क्थैर॒र्केभिः॑ सूनो सहसो॒  ॑
+> ददा॑शत् ।  
+> स मर्त्ये॑ष्वमृत॒ प्रचे॑ता रा॒या द्यु॒म्नेन॒ श्रव॑सा॒ वि भा॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । यज्ञेन । संइधा । यः । उक्षैः । आर्केभिः । सूनो इति । सहसः ।  
+> ददाशत् ।  
+> सः । मर्त्येषु । अमृत । प्रचेताः । राया । द्युम्नेन । श्रवसा । वि । भाति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राग्ने ते त्वां यो यजमानो यज्ञेन
+> यागेन ददाशत् परिचरति । यश्च समिधा समिंधनसाधनेनेध्मेन । यश्चोक्तैः
+> शस्त्रैरर्केभिरर्चनीयैः स्तोत्रैश्च परिचरति हे अमृत मरणधर्मरहिताग्ने स
+> यजमानो मर्त्येषु मनुष्येषु प्रचेताः प्रकृष्णज्ञानः सन् राया धनेन
+> द्युम्नेन द्योतमानेन श्रवसा श्रवणीयेनान्नेन यशसा वा वि भाति । विशेषेण
+> प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+"O son of *sahas*, of strength, O Agni: the sacrificer who serves (*dadāśat*) you with sacrifice (*yajñena*), that is, with a rite; who serves you with fuel (*samidhā*), the wood that is the means of kindling; who serves you with recited praises (*ukthaiḥ*), with *śastras*, and with *arkas*, hymns of praise; O immortal one (*amṛta*), Agni, free from the nature of death: that sacrificer, being among mortals (*martyeṣu*), among men, of excellent knowledge (*pracetāḥ*), shines forth (*vi bhāti*), that is, shines in a special way, with wealth (*rāyā*), with *dyumna*, which is shining, and with *śravas*, which is renowned food or fame."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अमृत (*amṛta*)—O Agni, free from the nature of death
+- यः (*yaḥ*)—whichever sacrificer
+- ते (*te*)—you
+- यज्ञेन (*yajñena*)—with sacrifice
+- ददाशत् (*dadāśat*)—serves
+- यः (*yaḥ*)—whoever
+- समिधा (*samidhā*)—with fuel sticks
+- उक्षैः (*ukṣaiḥ*)—with *śastra* mantras
+- अर्कॆभिः (*arkèbhiḥ*)—with praiseworthy hymns of praise, praises
+- सः (*saḥ*)—that same sacrificer
+- मर्त्येषु (*martyeṣu*)—among men
+- प्रचेताः (*pracetāḥ*)—as one of excellent knowledge
+- राया (*rāyā*)—with wealth
+- म्यम्नेन (*myamnena*)—shining
+- श्रवसा (*śravasā*)—together with food
+- वि भाति (*vi bhāti*)—shines exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, free from the nature of death: the sacrificer who serves and worships you with sacrifice, with the means of kindling, with *śastra* mantras and with praiseworthy hymns of praise, that same
+### Printed p. 427
+sacrificer shines exceedingly among men, as one of excellent knowledge, together with wealth and with shining food.
+
+##### English translation
+He who propitiates you, son of strength, with sacrifice, with fuel, with prayers, with praises, shines immortal amongst men, eminent in wisdom and possessed of splendid opulence and (abuudant) food.
+
+#### Ṛk 6
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तत्कृ॑धीषि॒तस्तूय॑मग्ने॒ स्पृधो॑ बाधस्व॒ सह॑सा॒ सह॑स्वान् ।  
+> यच्छ॒स्यसे॒ द्युभि॑र॒क्तो वचो॑भि॒स्तज्जु॑षस्व जरि॒तुघोषि॒ मन्म॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तत् । कृधि । इषितः । तूयं । अग्ने । स्पृधः । बाधस्व । सहसा । सहस्वान् ।  
+> यत् । शस्यसे । द्युभिः । अक्तः । वचभिः । तत् । जुषस्व । जरितुः । घोषि । मन्म ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स त्वमिषितः प्रेषितः सन् तूयं क्षिप्रं तत्कृधि । कुरु । किं तदित्यत
+> आह । सहस्वान् बलवांस्तं स्पृधः स्पर्धमानान् सहसा बलेन परेषामभिभवनसमर्थेन तेजसा वा बाधस्व । विनाशय । द्युभिद्योतमानैस्तेजोभिरक्तः संसिक्त स्तं वचोभिः स्तुतिरूपैर्वाक्यैर्यच्छस्यसे यत्सूयसे । त्वामुद्धिश्य यत्
+> स्तोत्रं स्तोतृभिः क्रियत इत्यर्थः । तन्नन्न मननीयं घोषि घोषणीयं जरितुः
+> स्तोत्रं जुषस्व । सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you, being sent (*iṣitaḥ*), that is, impelled, quickly (*tūyam*) do (*kṛdhi*) that." What is that? He says: "You who are powerful (*sahasvān*), strong, drive away (*bādhasva*), that is, destroy, those who contend (*spṛdhaḥ*), by strength (*sahasā*), by the force that is able to overcome others, or by radiance. You are anointed (*aktaḥ*), thoroughly sprinkled, with shining (*dyubhiḥ*) radiances. That which (*yat*) is praised (*śasyase*), that is, extolled, with words (*vacobhiḥ*), with sentences in the form of praise: that is, the hymn which the singers make with you in view, that thought (*manma*), worthy to be reflected on, worthy to be proclaimed (*ghoṣi*): accept (*juṣasva*), that is, be pleased with, the hymn of the singer (*jarituḥ*)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you, the renowned
+- इषितः (*iṣitaḥ*)—being prayed to
+- तूयं (*tūyaṃ*)—quickly
+- तत् (*tat*)—what we desire
+- कृधि (*kṛdhi*)—accomplish
+- सहस्वान् (*sahasvān*)—you who are endowed with strength
+- स्पृधः (*spṛdhaḥ*)—the enemies who fight with us
+- सहसा (*sahasā*)—with your powerful radiance
+### Printed p. 428
+- बाधस्व (*bādhasva*)—destroy
+- द्युभिः (*dyubhiḥ*)—with shining radiances
+- अक्तः (*aktaḥ*)—you who are joined
+- वचोभिः (*vacobhiḥ*)—with words in the form of praise
+- यत् शस्यसे (*yat śasyase*)—for whatever purpose you are praised
+- तत् (*tat*)—for the accomplishment of that very purpose
+- मन्म (*manma*)—that which is of the nature of meditation
+- घोषि (*ghoṣi*)—and of the nature of proclamation
+- जरितुः (*jarituḥ*)—of the praiser, the hymn
+- जुषस्व (*juṣasva*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you the renowned, as soon as you are prayed to by us, fulfil our wishes. You who are powerful, destroy with your powerful radiance the enemies who fight with us. You who are joined with shining radiances: for the accomplishment of the purpose for which you are praised with words in the form of praise, accept the hymn of the praiser, which is of the nature of meditation and of proclamation.
+
+##### English translation
+Accomplish quickly, Agni, that for with you are solicited : endowed with strength, oppose by strength our adversaries: be pleased, you are annointed with radiance, by the loud vocification of your worshipper, by whom you are adored with hymus.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्याम॒ तं काम॑मग्ने॒ तवो॒ती अ॒श्याम॑ र॒यिं र॑यिवः  ॒॑
+> सुवीरं ।  
+> अ॒श्याम॒ वाज॑म॒भि वा॒जयं॑तोः॒श्याम॑ द्यु॒म्न म॑जरा॒जरं॑ ते॥  
+> ॥ पवपाट ॥  
+> अश्याम । तं । कामं । अग्ने । तव । ऊती । अश्याम । रयिं । रयिवः । सुवीरं ।  
+> अ॒श्याम॒ । वाजं॑ । अ॒भि । वा॒जयं॑तः । अ॒श्याम॑ । द्यु॒म्नं । अ॑जर । अ॒जरं॑ । ते ॥ ७ ॥
+
+### Printed p. 429
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नये कामाय पुरोडाशमष्टाकपालमित्यस्याश्यामेत्येषा याज्या ।
+> सूत्रितं च । अश्वाम तं काममग्ने तवोतीति कामाय । आ. २-१० । इति ॥
+> हे अग्ने तव संबंधिन्योती ऊत्या रक्षया तं काममश्याम। प्राप्नुयाम।
+> तमेव कामं विवृणोति । हे रयिवो धनवन्नन्ने सुवीरं शोभनपुत्रादियुक्तं
+> रयिं धनमश्याम । प्राप्नुयाम । तथा वाजयंतो वाजमन्नमात्मन इच्छंतो
+> वयं वाजं त्वया दत्तमन्नमभि अभिमुख्येनाश्याम । प्राप्नुयाम । हे अजर
+> जरारहिताग्ने त्वदीयमजरं जरारहितं द्युम्नं द्योतमानं यशश्चाश्याम ।
+> प्राप्नुयाम ।
+
+##### Gist of the bhāṣya
+
+For the offering "to Agni, for a wish, a cake on eight potsherds", the Ṛk beginning अग्नये कामाय पुरोडाशमष्टाकपालमित्यस्याश्यामेत्येषा याज्या (*agnaye kāmāya puroḍāśamaṣṭākapālamityasyāśyāmetyeṣā yājyā*) is the offering verse. It is also given in the sūtra: अश्वाम तं काममग्ने तवोतीति कामाय (*aśvāma taṃ kāmamagne tavotīti kāmāya*) (Ā. 2-10). "O Agni, may we obtain (*aśyāma*), that is, attain, that wish (*kāma*) by your (*tava*) protection (*ūtī*)." He explains that very wish: "O wealthy one (*rayivaḥ*), may we attain wealth (*rayim*) accompanied by good sons and the like (*suvīram*). So too, desiring food (*vājayantaḥ*) for ourselves, may we attain, directly (*abhi*), the food given by you. O ageless (*ajara*) Agni, may we attain your ageless, shining *dyumna*, that is, your fame."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—belonging to you
+- ऊती (*ūtī*)—by protection
+- तं कामं (*taṃ kāmaṃ*)—our desired object
+- अश्याम (*aśyāma*)—may we obtain
+- रयिवः (*rayivaḥ*)—O Agni, who are wealthy
+- सुवीरं (*suvīraṃ*)—accompanied by excellent sons and the like
+- रयिं (*rayiṃ*)—wealth
+- अश्याम (*aśyāma*)—may we possess
+- वाजयंतः (*vājayaṃtaḥ*)—we who desire food
+- वाजं (*vājaṃ*)—the food given by you
+- अभि (*abhi*)—directly
+- अश्याम (*aśyāma*)—may we enjoy
+- अजर (*ajara*)—O Agni, free from decay
+- ते (*te*)—your
+- अजरं (*ajaraṃ*)—imperishable
+- द्युम्नं (*dyumnaṃ*)—and shining
+- अश्याम (*aśyāma*)—may we too obtain fame
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by your protection may we obtain our desired object. O wealthy Agni, may we possess wealth accompanied by excellent sons and the like. May we, desiring food, enjoy at once the food given by you. O Agni, free from decay, may we too obtain your imperishable and shining fame.
+
+##### English translation
+ay we obtain through your protetion, Agni, that which we desire : giver of riches, may we obtain of you riches and descendants : desiring food, may we obtain food : may we obtain, imperihable Agni, impershable fame (through you).
+### Printed p. 430
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्नये कामाय पुरोडाशमष्टाकपालं (*agnaye kāmāya puroḍāśamaṣṭākapālaṃ*)—when the offering of a cake is made addressed to Agni, this Ṛk अश्वामतं (*aśvāmataṃ*) is to be recited as the offering verse (*yājyā*); this is explained by the sūtra of the Āśvalāyana Śrautasūtra अश्वाम तं काममग्ने तवोतीति कामाय (*aśvāma taṃ kāmamagne tavotīti kāmāya*) (Ā. 2-10).
+
+The sixth sūkta
+## Sūkta 6 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र नव्यसेति सप्तर्चं षष्ठं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं । प्र
+> नव्यसेत्यनुक्रांतं ॥ प्रातरनुवाकाशिनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, beginning प्र नव्यसेति (*pra navyaseti*), of seven Ṛks, is of the seer Bharadvāja, in the Triṣṭubh metre, with Agni as deity. It is listed in the Anukramaṇī as प्र नव्यसेत्यनुक्रांतं (*pra navyasetyanukrāṃtaṃ*). Its application in the Prātaranuvāka and in the Āśvina śastra has been stated.
+
+The Kannada rendering: This sūkta, beginning प्र नव्यसा (*pra navyasā*), is the sixth sūkta in the first anuvāka. It has seven Ṛks. Bharadvāja is the ṛṣi of this sūkta; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇī it is said प्र नव्यसा (*pra navyasā*). This sūkta is applied for the recitation of the Prātaranuvāka and Āśvina-śastra mantras.
+
+- Sūkta 6
+- Maṇḍala 6; Anuvāka 1; Sūkta 6
+- Aṣṭaka 4; Adhyāya 5; Varga 8
+- Number of Ṛks in the sūkta: 7
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नव्य॑सा॒ सह॑सः सू॒नुमच्छा॑ य॒ज्ञेन॑ गा॒तुमन॑ इ॒च्छमा॑नः ।  
+> वृ॒श्चद्व॑नं कृ॒ष्णया॑मं॒ रुशं॑तं वी॒तीहोता॑रं दि॒व्यं जि॑गाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नव्यसा । सहसः । सूनुं । अच्छ । यज्ञेन । गातुं । अवः । इच्छमानः ।  
+> वृश्चत्वनं । कृष्णयामं । रुशंतं । वीती । होतारं । दिव्यं । जिगाति ॥ १ ॥
+
+### Printed p. 431
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> । सायुधः स्तोत्रं ।
+> गातुमुपगंतव्यं स्तोतव्यं वा सहसः सूनुं बलस्य पुत्रमग्निमवोऽन्नं रक्षणं वा इच्छमान इच्छन् स्तोता नव्यसा नवतरेण यज्ञेन युक्तः
+> सन् अच्चाभिमुख्येन प्र जिगाति । प्रकर्षेण गच्छति । कीदृशमग्निं । वृश्चद्वनं वृक्षं
+> छिन्नं दग्धं वनं येन तादृशं कृष्णयामं कृष्णवर्त्मानं रुशंतं श्वेतवर्णं वीती
+> वीत्या कांतेन यज्ञेन होतारं यष्टारं दिव्यं दिवि भवं ॥
+
+##### Gist of the bhāṣya
+
+**NOTE** The praiser (*stotā*), desiring (*icchamānaḥ*) food (*avaḥ*) or protection, and joined with a newer (*navyasā*) sacrifice, goes forth (*pra jigāti*), that is, moves forward, towards (*acchā*) Agni, the son of strength (*sahasaḥ sūnum*), who is to be approached, or to be praised (*gātum*). What kind of Agni? One by whom the forest, the trees, has been cut, that is, burnt (*vṛścadvanam*); dark-pathed (*kṛṣṇayāmam*), that is, one whose way is black; white-hued (*ruśantam*); the Hotṛ, the sacrificer, with a beloved (*vītī*) sacrifice; the divine, one who exists in heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवः (*avaḥ*)—food
+- इच्छमानः (*icchamānaḥ*)—the praiser who desires
+- नव्यसा (*navyasā*)—new
+- यज्ञेन (*yajñena*)—joined with sacrifice
+- वृश्चद्वनं (*vṛścadvanaṃ*)—one who burns the forest trees
+- कृष्णयामं (*kṛṣṇayāmaṃ*)—one with a black path
+- रुशंतं (*ruśaṃtaṃ*)—shining
+- वीती (*vītī*)—by the radiant sacrifice
+- होतारं (*hotāraṃ*)—one who worships the gods
+- दिव्यं (*divyaṃ*)—born in the world of the gods
+- गातुं (*gātuṃ*)—worthy of praise
+- सहसः सूनुं (*sahasaḥ sūnuṃ*)—the son of strength, Agni
+- प्र जिगाति (*pra jigāti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+The praiser who desires food, joined with a new sacrifice, approaches Agni, who burns the forest trees, has a black path, is shining, worships the gods with a radiant sacrifice, is born in the world of the gods, is worthy of praise and is the son of strength.
+
+##### English translation
+He who is desirous of food has recourse with a new sacrifice, approachable son of strenght, (Agni), to you, the consumer of forests, the dark-pathed, the bright-shining, the ministrant (to the gods) of (sacrificial) food, the divine;
+
+#### Ṛk 2
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स श्वि॑त्ता॒नस्त॑न्य॒तू रो॑चन॒स्थ अ॒जरे॑भि॒र्नान॑दद्भि॒र्यवि॑ष्ठः ।  
+> यः पा॑व॒कः पु॑रु॒तनुः॑ पु॒रूणि॑ पृ॒थून्य॒ग्निर॑नु॒याति॒ भर्व॑न् ॥
+
 ---
 
-**Progress note:** Done through printed p. 425. Mandala 6 sukta 5 rks 1-4
+**Progress note:** Done through printed p. 431. Mandala 6 sukta 5 rks 5-7, sukta 6 rk 1
