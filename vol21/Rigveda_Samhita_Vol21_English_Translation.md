@@ -5667,6 +5667,315 @@ On the word स्तियानां (*stiyānāṃ*) Yāska has given this e
 
 This shining Indu, the Soma, born together with Indra his friend, the yoked one, stopped by his strength the Paṇi, the merchant, the Asura named Vala, who seizes cattle. Or else: he is called Paṇi because he is the lord of the Paṇis. He held that Asura back by strength, restrained him. Moreover, of his own wealth in the form of cattle, the protector, the guardian, of the inauspicious, the one who gives no happiness
 
+### Printed p. 129
+
+> वलस्यायुधानि वज्रादीन्यमुष्णात् । अपाहरत् । तदीया मायाश्चामुष्णात् ।
+> हे इंद्र त्वत्सख्यबलादेतत्सर्वं सोमः कृतवान् आतस्तव महिमा केन वर्णयितुं
+> शक्यत इतींद्रस्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+The Soma carried off the weapons of Vala, such as the thunderbolt, and carried off his magical powers too. O Indra, by the strength of friendship with you Soma has done all this; who can describe your greatness? This is a praise of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—of divine nature
+- आयं इंदुः (*āyaṃ iṃduḥ*)—this Soma
+- इंद्रेण युजा (*iṃdreṇa yujā*)—joined with Indra
+- जायमानः (*jāyamānaḥ*)—as soon as he was born
+- पणिं (*paṇiṃ*)—the Asura called Paṇi
+- सहसा (*sahasā*)—by his own strength
+- अस्तभायत् (*astabhāyat*)—destroyed **NOTE**
+- स्वस्य (*svasya*)—of his own wealth in the form of cattle
+- पितुः (*pituḥ*)—the guardian
+- आशिवस्य (*āśivasya*)—and the inauspicious Vala
+- आयुधानि (*āyudhāni*)—the weapons
+- अमुष्णात् (*amuṣṇāt*)—he carried off
+- मायाः (*māyāḥ*)—the deceitful powers also (he carried off)
+
+##### भावार्थ (Bhāvārtha)
+
+This divine Soma, joined with Indra, as soon as he was born destroyed by his own strength the Asura called Paṇi. He carried off the weapons of Vala, the guardian of his own wealth in the form of cattle and the inauspicious one. He carried off his deceitful powers also.
+
+##### English translation
+This divine Soma, with Indra for its ally, crushed, as soon as generated, Pani by force: this Soma baffled the devices and the weapons of the malignant secreter of (the stolen wealth, the cattle).
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॑कृणोदु॒षसः॑ सु॒पत्नी॑र॒यं सूर्ये॑ अदधा॒ज्योति॑रं॒तः ।  
+> अ॒यं त्रि॒धातु॑ दि॒वि रो॑च॒नेषु॑ त्रि॒तेषु॑ विंदद॒मृतं॒ निगू॑ळ्हं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अकृणोत् । उषसः । सुपत्नीः । अयं । सूर्ये । अदधात् । ज्योतिः ।  
+> अंतरिति ।  
+> अयं । त्रिधातु । दिवि । रोचनेषु । त्रितेषु । विंदत् । अमृतं । निगूळ्हं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 130
+
+> आयं सोम उषस उषःकालान् सुपत्नीः शोभनः पतिः पालकः सूर्यो
+> यासामुषसां तादृशीरकृणोत् । अकरोत् । आयमेव सूर्ये सूर्यमंडलेंतर्मध्यॆ ज्योतिस्तेजोऽदधात् । निहितवान् । त्रिधातु सवनत्रयरूपेण
+> त्रिप्रकारमयं लतारूपः सोमो दिवि द्युलोके रोचनेषु रोचमानेषु
+> त्रितेषु तृतीये स्थाने ततेषु विस्तृतेषु देवेषु निगूढं नितरां गूढमदृश्यतॆया
+> वर्तमानममृतममृतत्वकारणं पीयूषं विंदत् । अविंदत् । अलभत । हे इंद्र
+> त्वत्साहाय्यादेवमेवं सोमः कृतवानितींद्रस्य स्तुतिरधिगंतव्या । यद्वा । इदं
+> शब्देनेंद्र एव परामृश्यते । आयमिंद्र उषसः शोभनपतिका आकरोत् । आयमेव
+> सूर्येऽंतर्ज्योतिरदधात् । दिवि द्युलोके रोचमानेषु त्रिस्थानगतेषु देवेषु
+> मध्येयमेवेंद्रस्त्रिधातु सवनत्रयात्मना त्रिप्रकारं निगूढं पात्रैः संवृतममृतममरणहेतुभूतं सोममविंदत् । अलभत ॥
+
+##### Gist of the bhāṣya
+
+This Soma made the dawns, the times of dawn, सुपत्नीः (*supatnīḥ*), women whose husband and protector is the fair Sūrya; he made them so. He himself placed light, brilliance, within the sun, in the middle of the solar orb. This Soma, in the form of the plant and threefold through the three pressings, found the ambrosia, the immortal drink, the cause of immortality, that lay deeply hidden, unseen, among the gods who shine in heaven and are spread out in the third region. O Indra, the praise of Indra is to be understood thus: Soma has done so by virtue of your help. Or else the word इदं (*idaṃ*) refers to Indra himself: he made the dawns have a fair husband; he placed light within the sun; among the gods shining in heaven, in the three places, this Indra found the Soma, threefold through the three pressings, hidden, covered by the vessels, the cause of deathlessness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयं (*āyaṃ*)—this Soma
+- उषसः (*uṣasaḥ*)—the dawns
+- सुपत्नीः (*supatnīḥ*)—as wives of the excellent Sūrya
+- अकृणोत् (*akṛṇot*)—made
+- आयं (*āyaṃ*)—this same Soma
+- सूर्ये (*sūrye*)—of the solar orb
+- अंतः (*aṃtaḥ*)—in the middle part
+- ज्योतिः (*jyotiḥ*)—brilliance
+- अदधात् (*adadhāt*)—placed
+- अयं (*ayaṃ*)—this Soma in the form of the plant
+- दिवि (*divi*)—in the heavenly world
+- रोचनेषु (*rocaneṣu*)—shining
+- त्रितेषु (*triteṣu*)—and spread out in the third place, among the gods
+- निगूळ्हं (*nigūḷhaṃ*)—hidden
+- त्रिधातु (*tridhātu*)—of three forms in the form of the three pressings
+- अमृतं (*amṛtaṃ*)—and free from death, the juice
+- विंदत् (*viṃdat*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma made the dawns to be wives of the excellent Sūrya. This same Soma placed brilliance in the middle of the solar orb. This Soma in the form of the plant obtained the juice, which was hidden among the gods shining in the heavenly world and spread out in the third place, which has three forms in the form of the three pressings, and which is free from death.
+
+##### English translation
+This Soma made the dawns happily wedded to the sun : this Soma placed the light within the solar orb: this (Soma) has found the threefold ambrosia hidden in heaven in the three bright regions.
+
+### Printed p. 131
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं द्यावा॑पृथि॒वी वि ष्क॑भायद॒यं रथ॑मयुनक्स्॒यप्तर॑श्मिं ।  
+> अ॒यं गोषु॒ शच्या॑ प॒क्वमं॒तः सोमो॑ दाधार॒ दश॑यंत्र॒मुत्सं॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । द्यावापृथिवी इति । वि । स्वभायत् । अयं । रथं । आयुनक् । सप्तरश्मिं ।  
+> अयं । गोषु । शच्या । पक्वं । अंतरिति । सोमः । दाधार । दशयंत्रं । उत्सं ॥२४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयं सोमो द्यावापृथिवी दिवं च पृथिवीं च वि ष्कभायत् । विविधमस्थापयत् । अपि चायं सोमः सूर्यस्य च रथं सप्तरश्मिं सप्त रश्मिभिः किरणैरुपेतं
+> सप्ताश्वं सप्तचक्रं नवायुनक् । अयोजयत् । तथायं सोमो गोष्टंतर्मध्यॆ
+> पक्वं निष्पन्नं शच्या प्रज्ञया संकल्परूपयोत्समुत्सरणशीलं परो दाधार ।
+> धारयति । दशयंत्रं । उत्सस्य हेतुगर्भविशेषणमेतत् । उत्सरणहेतुभूतैर्दशभिश्चक्षुःश्रोत्रादिभिर्यंत्रैरुपाय्कॆर्युक्तं । इदं च पदं खैलिकेन मंत्रांतरेण
+> व्याख्यायते । चक्षुश्च श्रोत्रं च मनश्च वाक्च प्राणापानौ देह इदं शरीरं ।
+> द्वौ प्रत्यंचावनुलोमौ विसर्गावेतं तं मन्ये दशयंत्रमुत्समिति । यद्वा ।
+> अयमिंद्रो द्यावापृथिवी वि ष्कभायत् । स्वे स्वे स्थाने स्थिते अकरोत् । अयमेव
+> सप्तरश्मिं सूर्यस्य रथमयनक् । आयमेवेंद्रो गोष्टंतः शच्यात्मीयेन
+> कर्मणा पक्वं पयो धारयति । एवंभूतेंद्रार्थं सोमो दशयंत्रं
+> दशसंख्याकैरैंद्रवायवादिभिर्ग्रह्यैर्यंत्रितैर्गृहीतैरुपेतमुत्समुत्सरणशीलं रसं
+> दाधार । धारयति । प्रातःसवन ऐंद्रवायवादयो दश ग्रहा गृह्यंते । तथा च
+> ब्राह्मणं । नव प्रातर्ग्रहा गृह्यंते नवभिर्बहिष्पवमाने स्तुवते स्तुते स्तोमे
+> दशमं गृह्णाति । ऐ. ब्रा. ३-१ । इति । अन्यत्राम्नातं । दशैतानध्वर्युः प्रातःसवने
+> ग्रहान् गृह्णातीति । तदभिप्रायेणेदं दशयंत्रमिति विशेषणं ॥
+
+##### Gist of the bhāṣya
+
+This Soma propped apart heaven and earth, set them each in its place. Moreover, this Soma yoked the chariot of the sun, सप्तरश्मिं (*saptaraśmiṃ*), furnished with seven rays, with seven horses, with seven wheels **NOTE**. So also this Soma holds within the cows, शच्या (*śacyā*), by his intelligence in the form of resolve, the matured, produced milk, a spring, उत्सं (*utsaṃ*), which flows forth. दशयंत्रं (*daśayaṃtraṃ*) is an epithet of the spring: furnished with ten instruments, the eye, ear and the rest, which are the cause of its flowing forth. This word is explained by another khila mantra: चक्षुश्च श्रोत्रं च मनश्च वाक्च प्राणापानौ देह इदं शरीरं । द्वौ प्रत्यंचावनुलोमौ विसर्गावेतं तं मन्ये दशयंत्रमुत्समिति । (*cakṣuśca śrotraṃ ca manaśca vākca prāṇāpānau deha idaṃ śarīraṃ | dvau pratyaṃcāvanulomau visargāvetaṃ taṃ manye daśayaṃtramutsamiti |*). Or else: this Indra propped apart heaven and earth and set them each in its place; he himself yoked the seven-rayed chariot of the sun; this same Indra holds within the cows, by his own act, the matured milk. For such an Indra, Soma holds the spring-like juice, the flowing one, furnished with ten cups, the Aindravāyava and others, drawn and held in check. At the morning pressing ten cups, the Aindravāyava and the rest, are drawn. And so the Brāhmaṇa says: नव प्रातर्ग्रहा गृह्यंते नवभिर्बहिष्पवमाने स्तुवते स्तुते स्तोमे दशमं गृह्णाति । (*nava prātargrahā gṛhyaṃte navabhirbahiṣpavamāne stuvate stute stome daśamaṃ gṛhṇāti |*), Ai. Brā. 3-1. And elsewhere it is recited: दशैतानध्वर्युः प्रातःसवने ग्रहान् गृह्णातीति (*daśaitānadhvaryuḥ prātaḥsavane grahān gṛhṇātīti*). With this in view the epithet दशयंत्रं (*daśayaṃtraṃ*) is used.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Soma
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- वि ष्कभायत् (*vi ṣkabhāyat*)—set up individually
+- अयं (*ayaṃ*)—this Soma
+- रथं (*rathaṃ*)—the chariot of Sūrya
+- सप्तरश्मिं (*saptaraśmiṃ*)—as one having seven rays (rays or wheels)
+
+### Printed p. 132
+
+- आयुनक् (*āyunak*)—yoked
+- अयं सोमः (*ayaṃ somaḥ*)—this same Soma
+- गोषु अंतः (*goṣu aṃtaḥ*)—in the bodies of the cows
+- शच्या (*śacyā*)—by his intelligence in the form of resolve
+- उत्सं (*utsaṃ*)—that which flows forth
+- दशयंत्रं (*daśayaṃtraṃ*)—that which consists of ten instruments
+- पक्वं (*pakvaṃ*)—and ripened
+- दाधार (*dādhāra*)—has filled with milk
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma set up heaven and earth individually. This same Soma made the chariot of Sūrya one with seven rays. And by his intelligence in the form of resolve he has filled the bodies of the cows with milk that flows forth, consists of ten instruments, and is ripened.
+
+##### English translation
+This (Soma) has fixed heaven and earth: this has harnessed the seven-rayed chariot (of the sun): this Soma has developed of its own will the mature deeply-organized secretion in the cows.
+
+##### विशेषविषयगळु (Special Topics)
+
+The supplementary mantras (pariśiṣṭa) to be recited at the end of this sūkta are given at the end of this Maṇḍala.
+
+## Sūkta 45 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य आनयदिति त्रयस्त्रिंशद्वचं द्वितीयं सूक्तं बृहस्पतिपुत्रस्य शंयोरार्षं ।
+> पुरूतममित्येषातिनिच्छत् त्रयः सप्तकाः पादनिच्छत् मध्यमः षट्कश्चेदतिनिच्छदित्युक्तलक्षणात् त्रयस्त्रिंश्यनुष्टुप् शिष्टा गायत्र्यः । अधि बृबुः पणीनामित्यस्मिन्नंत्ये
+> तृचे बृबुर्नाम तक्षा स्सूयते । अतः स तृचस्तद्देवताकः । शिष्टास्त्रिंशद्यॆंद्रः ।
+> तथा चानुक्रांतं । य आनयत्रयस्त्रिंशद्दायत्रं पुरूतममतिनिच्छदंत्यानुष्टुप्
+> तृचेऽंत्ये बृबुस्तक्षा दैवतमिति ॥ महाव्रतेऽपि निष्केवल्येऽंत्यतृचवर्जमेतत्तूक्तं । तथैव पंचमारण्यकं । य अनयत्परावत इति तिस्र उत्तमा उद्दरति ॥
+> ऐ. आ. ५-२-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, of thirty-three Ṛks, beginning य आनयत् (*ya ānayat*), has Śaṃyu, son of Bṛhaspati, as its seer. By the stated definition, the verse पुरूतमं (*purūtamaṃ*) is atinicṛt (when there are three sevens it is pādanicṛt, and if the middle one is a six it is atinicṛt); the thirty-third is an anuṣṭubh, the remaining ones gāyatrī. In the last triplet, अधि बृबुः पणीनां (*adhi bṛbuḥ paṇīnāṃ*), the carpenter named Bṛbu is praised; so that triplet has him as its deity, and the remaining thirty have Indra. So the Anukramaṇī says: य आनयत्रयस्त्रिंशद्दायत्रं पुरूतममतिनिच्छदंत्यानुष्टुप् तृचेऽंत्ये बृबुस्तक्षा दैवतमिति ॥ (*ya ānayatrayastriṃśaddāyatraṃ purūtamamatinicchadaṃtyānuṣṭup tṛce 'ṃtye bṛbustakṣā daivatamiti ‖*). In the Mahāvrata too, in the niṣkevalya, this sūkta is used, except for the last triplet. So also the fifth Āraṇyaka: य अनयत्परावत इति तिस्र उत्तमा उद्दरति (*ya anayatparāvata iti tisra uttamā uddarati*), Ai. Ā. 5-2-5.
+
+##### Anuvāda
+
+This sūkta, य आनयत् (*ya ānayat*), is the second sūkta in the fourth Anuvāka. It has thirty-three Ṛks. The seer of this sūkta is Śaṃyu, son of Bṛhaspati. The verse in this sūkta beginning पुरूतमं (*purūtamaṃ*) (the twenty-ninth Ṛk) is in the metre called Atinicṛt. A verse with three feet of seven syllables each is said to be of the Pādanicṛt metre. If the first and the last feet have seven syllables each and the middle foot has six syllables, it is called the Atinicṛt metre. The thirty-third Ṛk is in the Anuṣṭup metre. The remaining Ṛks are in the Gāyatrī metre. Because in the last three Ṛks, beginning अधि बृबुः पणीनां (*adhi bṛbuḥ paṇīnāṃ*), the carpenter named Bṛbu is praised, Bṛbu is the deity of those three Ṛks; Indra is the deity of the remaining thirty Ṛks; in the Anukramaṇī it is said: य आनयत्पयस्त्रंशद्दायत्रं पुरूतममतिनिच्छदंत्यानुष्टुप् तृचेऽन्तै बृबुस्तक्षा दैवतं (*ya ānayatpayastraṃśaddāyatraṃ purūtamamatinicchadaṃtyānuṣṭup tṛce 'ntai bṛbustakṣā daivataṃ*) **NOTE**. In the Mahāvratestiʻ **NOTE** the remaining Ṛks of this sūkta, leaving out the last three Ṛks, are used for the niṣkevalya-śastra mantras; this is indicated in the fifth Āraṇyaka of the Aitareya-Āraṇyaka by the sentence य आनयत्पारावत इति तिस्त्र उत्तमा उद्धरति (*ya ānayatpārāvata iti tistra uttamā uddharati*) (Ai. Ā. 5-2-5).
+
+##### Particulars
+
+Sūkta 45. Maṇḍala 6. Anuvāka 4. Aṣṭaka 4. Adhyāya 7. Vargas 21, 22, 23, 24, 25, 26. Number of Ṛks in the sūkta: 33. Seer: Śaṃyu Bārhaspatya. Deity: 1-30 Indra; 31-33 Bṛbu Takṣan. Metre: 1-28, 30-32 Gāyatrī; 29 Atinicchat; 33 Anustup.
+
+### Printed p. 133
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आन॑यत्परा॒वतः॒ सुनी॑ती तु॒र्वशं॒ यदुं॑ ।  
+> इंद्रः॒ स नो॒ युवा॒ सखा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आ । अनयत् । परावतः । सुनीती । तुर्वशं । यदुं ॥  
+> इंद्रः । सः । नः । युवा । सखा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रस्तुर्वशं यदुं चैतत्संज्ञा राजानौ शत्रुभिर्दूरदेशे प्रक्षिप्तौ
+> सुनीति सुनीत्या शोभनेन नयनेन परावतस्तस्माद्दूरदेशादानयत् अनीतवान्
+> युवा तरुणः स इंद्रो नोऽस्माकं सखा भवतु ॥
+
+##### Gist of the bhāṣya
+
+The Indra who brought, by good guidance, from a distant place the two kings named Turvaśa and Yadu, who had been thrown into a far country by enemies, may that youthful Indra be our friend.
+
+### Printed p. 134
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- तुर्वशं (*turvaśaṃ*)—the one named Turvaśa
+- यदुं (*yaduṃ*)—and the one named Yadu, the two kings
+- सुनीती (*sunītī*)—by his excellent guidance
+- परावशः (*parāvaśaḥ*)—from a very distant country
+- आ आनयत् (*ā ānayat*)—brought
+- युवा (*yuvā*)—youthful
+- स इंद्रः (*sa iṃdraḥ*)—that same Indra
+- नः (*naḥ*)—to us
+- सखा (*sakhā*)—let him be a friend
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who brought the two kings named Turvaśa and Yadu from a very distant country by his excellent guidance, may that same youthful Indra be a friend to us also.
+
+##### English translation
+May that youthful Indra, who by good guidance, brought Turvasa and Yadu from afar, (be) our friend.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वि॒प्रे चि॒द्वयो॒ दध॑दना॒शुना॑ चि॒दर्व॑ता ।  
+> इंद्रो॒ जेता॑ हि॒तं धनं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविप्रे । चित् । वयः । दधत् । अनाशुना । चित् । अर्वता ॥  
+> इंद्रः । जीता । हितं । धनं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अविप्रे चित् । विप्रः स्तोता । तद्विलक्षणेऽपि पुरुषे वयोऽन्नं दधत् ।
+> इंद्रो धारयति । किमु वक्तव्यं स्तोतरि धारयतीति । स इंद्रोऽनाशुना चित्
+> अक्षिप्रगमनेनाप्यर्वताश्वेन हितं शत्रुषु निहितं स्थापितं धनं जेता जयशीलो
+> भवति ॥ जयतेस्ताच्छेलिकस्तृन् । अतो न लोकाव्ययेति षष्ठिप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+Even on one who is अविप्रे (*avipre*), not a विप्रः (*vipraḥ*), a praiser, Indra bestows वयः (*vayaḥ*), food; what need to say that he bestows it on the praiser? That Indra, even with a horse that is not swift-going, becomes the winner of the wealth that has been deposited among the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अविप्रे चित् (*avipre cit*)—even to a man who is not a praiser
+- वयः (*vayaḥ*)—food
+- दधत् (*dadhat*)—gives
+- अनाशुना अर्वता चित् (*anāśunā arvatā cit*)—even though he goes with a horse that does not move swiftly
+
+### Printed p. 135
+
+- हितं (*hitaṃ*)—deposited among the enemies
+- धनं (*dhanaṃ*)—wealth
+- जेता (*jetā*)—he brings under his own control
+
+##### भावार्थ (Bhāvārtha)
+
+Indra gives food even to a man who is not a praiser. Even when he goes with a horse that does not move swiftly, he brings under his own control the wealth deposited among the enemies.
+
+##### English translation
+Indra gives sustenance, even to the undevout : he is the conqueror of wealth accumulated (by enemies), through (going against) them with a slow-paced steed.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हीर॑स्य॒ प्रणी॑तयः पू॒र्विरु॒त प्रश॑स्तयः ।  
+> नास्य॑ क्षीयंत ऊ॒तयः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महीः । अस्य । प्रनीतयः । पूर्विः । उत । प्रशस्तयः ।  
+> न । अस्य । क्षियंते । ऊतयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य प्रणीतयः प्रकृष्टा नीशयः प्रापणानि महीर्मह्यो महत्यो
+> भवंति । उतापि च प्रशस्तयः प्रकृष्टाः स्तुतयः स्तोतृभिः क्रियमाणाः
+> पूर्वीर्बह्यो भवंति । तथास्येंद्रस्योतयो रक्षा न क्षीयंते । नापचीयंते
+> किंतु सर्वदा वर्धंत एव ॥
+
+##### Gist of the bhāṣya
+
+The प्रणीतयः (*praṇītayaḥ*) of this Indra, his excellent leadings, his ways of bringing about, are great; and likewise the प्रशस्तयः (*praśastayaḥ*), the excellent praises made by the praisers, are many. And so the ऊतयः (*ūtayaḥ*), the protections of this Indra, do not decay, do not diminish, but always only increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- प्रणीतयः (*praṇītayaḥ*)—the excellent and skilful policies
+- महीः (*mahīḥ*)—are great
+- उत (*uta*)—and
+- प्रशस्तयः (*praśastayaḥ*)—the acts in the form of praise
+- पूर्वीः (*pūrvīḥ*)—are many
+- अस्य (*asya*)—of that same Indra
+- ऊतयः (*ūtayaḥ*)—the protections
+- न क्षीयंते (*na kṣīyaṃte*)—do not come to destruction
+
+##### भावार्थ (Bhāvārtha)
+
+The excellent and skilful policies of Indra are of the greatest majesty. The ways of praising him are also many. There is no destruction of Indra's protections.
+
 ---
 
-**Progress note:** Done through printed p. 128. Sūkta 44 Ṛk 16 (end)-22 (pp. 121-128)
+**Progress note:** Done through printed p. 135. Sūkta 44 Ṛk 22-24 end; Sūkta 45 Ṛk 1-3 (pp. 129-135)
