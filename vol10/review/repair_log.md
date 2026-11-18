@@ -1,0 +1,1 @@
+- 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 26, en latin 1247, en latin-twin 26; every change is a row of review/refs_applied.tsv.
