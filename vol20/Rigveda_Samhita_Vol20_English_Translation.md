@@ -18810,6 +18810,253 @@ Sāyaṇa addresses Agni: gods and mortal men have made you their messenger. Of 
 
 O Agni, you who are free from mortality, in every age the gods and men have obtained you as messenger. And they approached with obeisances and worshipped the Agni who bears the oblation, protects, is to be praised, is awake, all-pervading and the protector of the peoples.
 
+### Printed p. 545
+
+##### English translation
+You, Agni, have gods and men in every age retained as their messenger, immortal bearer of oblations, beneficent, adorable : they have placed him with reverence (upon the altar), vigilant, prevading, the protecter of mankind,
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भूष॑न्नग्न उ॒भया॒ अनु॑ व्र॒ता दू॒तो दे॒वानां॒ रज॑सी॒  ॑
+> समीयसे ।  
+> यत्ते॑ धी॒तिं सु॑म॒तिमा॑वृणी॒महेऽध॑ स्मा नस्त्रि॒वरू॑थः शि॒वो  ॑
+> भव ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभूषन् । अग्ने । उभयान् । अनु । व्रता । दूतः । देवानां । रजसी इति । सं ।  
+> ईयसे ।  
+> यत् । ते । धीतिं । सुमतिं । आवृणीमहे । अध । स्म । नः । त्रिवरूथः । शिवः ।  
+> भव ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने उभयानुभयविधान् देवान्मनुष्यांश्च विभूषन् विशेषेण
+> भूषयन् अलंकुर्वन् त्वमनु व्रता व्रतान्यनु व्रतेषु कर्मसु यागेषु देवानां
+> दूतः सन् रजसी द्यावापृथिव्यौ समीयसे । संचरसि । देवानानेतुं द्युलोकं
+> गच्छसि हवींषि च नेतुमिमं लोकं । किंच यद्यस्मात्ते तुभ्यं त्वदर्थं धीतिं
+> कर्म सुमतिं शोभनां स्तुतिं चावृणीमहे वयं संभजामहे आधातः कारणात्
+> त्रिवरूथस्त्रिस्थानस्यं नोऽस्माकं शिवः सुखकरो भव । स्मृत्येतत्पादपूरणं ॥
+> xx. 35
+
+##### Gist of the bhāṣya
+
+O Agni, you adorn both kinds, gods and men, in a special way. Following the rites, that is, in the sacrifices, you go about as the messenger of the gods between the two worlds, heaven and earth: you go to the world of heaven to bring the gods, and to this world to bring the oblations. Further, since we choose for you the rite and the beautiful praise, that is, we offer them, for this reason, O you of the three places, be kind to us, that is, give us happiness. The word *sma* serves to fill out the verse-quarter **NOTE**.
+
+### Printed p. 546
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- उभयान् (*ubhayān*)—all the gods, men and the rest
+- विभूषन् (*vibhūṣan*)—favouring
+- अनु व्रता (*anu vratā*)—in all rites
+- देवानां (*devānāṃ*)—for the gods
+- दूतः (*dūtaḥ*)—being the messenger
+- रजसी (*rajasī*)—all of heaven and earth
+- समीयसे (*samīyase*)—you move about
+- यत् (*yat*)—for which reason
+- ते (*te*)—for you
+- धीतिं (*dhītiṃ*)—the rite
+- सुमतिं (*sumatiṃ*)—the excellent praise
+- आवृणीमहे (*āvṛṇīmahe*)—we offer
+- आध (*ādha*)—for that very reason
+- त्रिवरूथः (*trivarūthaḥ*)—you who are in the three places beginning with the earth
+- नः (*naḥ*)—to us
+- शिवः (*śivaḥ*)—kind
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, favouring all the gods, men and the rest, being in all rites the messenger of the gods, you always move about pervading all of heaven and earth. For the reason that we offer to you the rite and the excellent praise, for that very reason, you who are in the three places beginning with the earth, be kind to us.
+
+##### English translation
+Showing grace, Agni, to both (gods and men), and at each sacred rite the messenger of the gods, you traverse earth and heaven : inasmuch as we offer you worship and praise, therefore you, who are the guardian of the three (regions), be auspicious to us.
+
+##### विशेषविषयगळु (Special Topics)
+
+रजसी समियसे (*rajasī samiyase*)—द्यावापृथिव्य संचरसि । देवानानेतुं द्युलोकं गच्छसि हवींषि च नेतुमिमं—लोकं । (*dyāvāpṛthivya saṃcarasi | devānānetuṃ dyulokaṃ gacchasi havīṃṣi ca netumimaṃ—lokaṃ |*) The praise here says that you move about in the world of heaven and in the world of earth. The meaning is: since Agni is the messenger who carries the oblations to the gods, he goes to the world of heaven to bring the gods to the sacrificial ground in the sacrifices that human sacrificers perform on earth, and to the earth to receive the oblations that are offered in Agni in the sacrifice for the gods.
+
+त्रिवरूथः (*trivarūthaḥ*)—One who is in three places. That is, it is customary to describe Agni as being in three places, because he is in heaven in the form of the Sun, in the atmosphere in the form of lightning, and on earth in the form of the earthly fire, the sacrificial fire or the common fire.
+
+### Printed p. 547
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं सु॒प्रती॑कं सु॒दृशं॒ स्वंच॒मवि॑द्वांसो वि॒दुष्ट॑रं सपेम ।  
+> स य॑क्ष॒द्विश्वा॑ व॒युना॑नि वि॒द्वान्ह॒व्यम॒ग्निर॒मृते॑षु वोचत्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । सुप्रतीकं । सुदृशं । सुअंचं । अविद्वांसः । विदुःतरं । सपेम ।  
+> सः । यक्षत् । विश्वा । वयुनानि । विद्वान् । प्र । हव्यं । अग्निः । अमृतेषु । वोचत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रत् त्रैष्टुभे छंदसि तं सुप्रतीकमित्याद्याः षडृचः । सूत्रितं च । तं सुप्रतीकमिति षट् । आ. ४_१३ । इति ॥
+> अविद्वांसो वैदुष्यरहिता अल्पमतयो वयं विदुष्टरं विद्वत्तरं सर्वज्ञं
+> तमग्निं सपेम । परिचरेम । कीदृशं । सुप्रतीकं शोभनांगं सुदृशं शोभनद्रष्टारं स्वंचं सुष्पंचंतं गच्छंतं । किंच स तादृशोऽग्निर्यक्षत् । देवान्यजतु ।
+> विश्वा सर्वाणि वयुनानि । ज्ञाननामैतत् । इह तु ज्ञातव्ये वर्तते । ज्ञातव्यान्यर्थजातानि विद्वान् जानन्नग्निरमृतेषु मरणरहितेषु देवेषु हव्यमस्मदीयं हविः प्र
+> वोचत् । प्रब्रवीतु । युष्मदर्थं हविः कल्पितं तदर्थं यूयमागच्छतेत्येवं
+> कथयतु ॥
+
+##### Gist of the bhāṣya
+
+In the Prātaranuvāka and in the two Aśvina-śastras, in the Āgneya rite, in the Triṣṭubh metre, the six Ṛks beginning तं सुप्रतीकमिति षट् (*taṃ supratīkamiti ṣaṭ*) are used, and this is laid down in the sūtra (Ā. Sū. 4-13). Sāyaṇa explains: we who have no knowledge, of little understanding, serve that Agni who is wiser, that is, all-knowing, who has a fair body, who sees well, who goes well. Further, may such an Agni worship the gods. May Agni, who knows all that is to be known, announce our oblation among the immortal gods, that is, those free from death, saying: the oblation has been prepared for you, therefore come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अविद्वांसः (*avidvāṃsaḥ*)—we, of little knowledge
+- विदुष्टरं (*viduṣṭaraṃ*)—who is exceedingly wise
+- सुप्रतीकं (*supratīkaṃ*)—who has an excellent body
+- सुदृशं (*sudṛśaṃ*)—who has an excellent form
+- स्वंचं (*svaṃcaṃ*)—who has an excellent gait
+- तं (*taṃ*)—that Agni
+- सपेम (*sapema*)—we worship
+- सः (*saḥ*)—that same Agni
+- यक्षत् (*yakṣat*)—may he worship the gods
+- विश्वा (*viśvā*)—all
+- वयुनानि (*vayunāni*)—kinds of knowledge
+- विद्वान् (*vidvān*)—who knows
+- अग्निः (*agniḥ*)—Agni
+- अमृतेषु (*amṛteṣu*)—among the gods, who are free from mortality
+- हव्यं (*havyaṃ*)—our oblation
+- प्र वोचत् (*pra vocat*)—may he proclaim
+
+##### भावार्थ (Bhāvārtha)
+
+We, of little knowledge, worship Agni who is exceedingly wise, who has an excellent body, a good form and an excellent gait. May that same Agni worship the gods. May Agni, who has all knowledge, proclaim our oblation among the gods, who are free from mortality.
+
+### Printed p. 548
+
+##### English translation
+We of little wisdom adore the most wise Agni, the well-formed, the well-looking, the graceful-moving : may Agni, who knows all things that are to be known, offer the sacrifice : may he announce the oblation to the immortals.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Prātaranuvāka mantra, the six Ṛks of this sūkta beginning तं सुप्रतीकं (*taṃ supratīkaṃ*) have their use for the mantras in the Triṣṭubh metre connected with the Āgneya rite, as is set out by the sūtra of the Āśvalāyana Śrauta-sūtra तं सुप्रतीकमिति षट् (*taṃ supratīkamiti ṣaṭ*) (Ā. Sū. 4-13).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ग्ने पास्त्यु॒त तं पि॑पर्षि॒ यस्त॒ आन॑ट्क॒वये॑ शूर धी॒तिं ।  
+> य॒ज्ञस्य॑ वा॒ निशि॑तिं॒ वोदि॑तिं वा॒ तमित्पृ॑णक्षि॒ शव॑सो॒त रा॒या॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अग्ने । पासि । उत । तं । पिपर्षि । यः । ते । आनट् । कवये । शूर । धीतिं ।  
+> यज्ञस्य । वा । निशितिं । वा । उत् इतिं । वा । तं । इत् । पृणक्षि । शवसा । उत ।  
+> राया ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तं पुरुषं पासि । रक्षसि । उतापि च तं पिपर्षि । कामैः पूरयसि ।
+> यः पुरुषो हे शूर शौर्यवन्नग्ने कवये क्रांतदर्शनाय ते तुभ्यं त्वदर्थं
+> धीतिं कर्म स्तुतिं वानट् प्रापोति । यद्वा । क्रियाग्रहणं कर्तव्यमिति कर्मणः
+> संप्रदानत्वाच्चतुर्थी । कविं त्वां धीतिमानट् प्रापयति । तं पासीत्यन्वयः । अपि च
+> यज्ञस्य यागस्य वा । तत्साधनभूतस्य हविषो ना निशितं वा । निशितिः संस्कारः । तं
+> वोदितिमुद्दमनं वानट् प्रापयति तमित्तमेव शवसा बलेन पृणक्षि । पूरयसि
+> उतापि च राया धनेन पूरयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that man you protect, and you fill him with his desires, who attains for you, the hero, the one who sees beyond, the rite or the praise. Or else, because the rite is the one to whom something is given, the fourth case is used; and the construction is that the rite leads you, the seer, to the sacrifice, and that man you protect **NOTE**. Further, whoever attains the sacrifice, or the preparation of the oblation which is its means, or the offering that follows it, that same man you fill with strength, and you fill him with wealth **NOTE**.
+
+### Printed p. 549
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—who are endowed with valour
+- अग्ने (*agne*)—O Agni
+- कवये (*kavaye*)—who see beyond
+- ते (*te*)—for you
+- यः (*yaḥ*)—which man
+- धीतिं (*dhītiṃ*)—praise
+- आनट् (*ānaṭ*)—offers
+- तं (*taṃ*)—that man
+- पासि (*pāsi*)—you protect
+- उत (*uta*)—and
+- तं (*taṃ*)—him
+- पिपर्षि (*piparṣi*)—you satisfy with the things he desires
+- यज्ञस्य (*yajñasya*)—of the sacrifice, or of the oblations
+- निशितिं (*niśitiṃ*)—the preparation
+- वा (*vā*)—or
+- उदितिं (*uditiṃ*)—the offering that is accompanied by purification, whoever undertakes it
+- तमित् (*tamit*)—that very man
+- शवसा (*śavasā*)—with strength
+- पृणक्षि (*pṛṇakṣi*)—you fill
+- उत (*uta*)—and
+- राया (*rāyā*)—with wealth, you fill
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with valour, the man who offers praise to you, who see beyond, that man you protect, and you satisfy him with the things he desires. Whoever undertakes the preparation of the sacrifice or of the oblations, or the offering accompanied by purification, that very man you fill with strength and with wealth.
+
+##### English translation
+You cherish, you protect, Agni, that man who offers worship, hero, to you, the far-seeing : you reward with strength and with riches him (who undertakes) the insititution, (who effects) the accomplishment, of the sacrifice.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने वनुष्य॒तो नि पा॑हि॒ त्वमु॑ नः सहसावन्नव॒द्यात् ।  
+> सं त्वा॑ ध्वस्म॒न्वद॒भ्ये॑तु॒ पाथः॒ सं र॒यिः स्पृ॑ह॒याय्यः॑ सह॒स्री॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अग्ने । वनुष्यतः । नि । पाहि । तं । ऊं इति । नः । सहसावन् । अवद्यात् ।  
+> सं । त्वा । ध्वस्मन्स्वत् । अभि । एतु । पाथः । सं । रयिः । स्पृहयाय्यः । सहस्री॥१२॥
+
+### Printed p. 550
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं वनुष्यतो हिंसकाच्छत्रोर्नि नितरामस्मान्रक्ष । हे सहसावन्
+> बलवन्नग्ने त्वमु त्वमेव नोऽस्मानवद्यात्पापात् नि पाहि । त्वा त्वां ध्वनन्वत् ध्वंसनवत् ध्वस्तदोषं पाथो हविर्लक्षणमस्माभिर्दत्तमन्नं समभ्येतु । सम्यगभिगच्छतु।
+> स्पृहयाय्यः स्पृहणीयः सहस्री सहस्रसंख्यायुक्तो रयिस्त्वया दत्तं धनं
+> सम्यगभिगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us thoroughly from the violent enemy. O mighty Agni, you yourself protect us from sin. May the food, the oblation given by us, free from fault, come to you well. May the desirable wealth, in thousands, given by you, come to us well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वनुष्यतः (*vanuṣyataḥ*)—from the violent enemy
+- नि पाहि (*ni pāhi*)—protect fully
+- सहसावन् (*sahasāvan*)—O mighty Agni
+- त्वमु (*tvamu*)—you indeed
+- नः (*naḥ*)—us
+- अवद्यात् (*avadyāt*)—from sins, save
+- ध्वस्तन्वत् (*dhvastanvat*)—which is free from fault
+- पाथः (*pāthaḥ*)—food in the form of the oblation
+- त्वा (*tvā*)—you
+- समभ्येतु (*samabhyetu*)—may it come and join
+- स्पृहयाय्यः (*spṛhayāyyaḥ*)—which is esteemed
+- सहस्री (*sahasrī*)—which is in thousands
+- रयिः (*rayiḥ*)—wealth
+- सं (*saṃ*)—may it come and join us from you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us thoroughly from the violent enemy. O mighty Agni, you yourself save us from sins. May the food, free from fault and in the form of the oblation, come and join you. May the wealth, worthy of esteem and in thousands, come to us from you.
+
+##### English translation
+Protect us, Agni, from the malignant, preserve us, mighty one, from wickedness : may the offering come to you free from defects ; may desirable riches, by thousands, (reach us).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्होता॑ गृ॒हप॑तिः॒ स राजा॒ विश्वा॑ वेद॒ जनि॑मा जा॒तवे॑दाः।  
+> दे॒वाना॑मु॒त यो मर्त्या॑नां॒ यजि॑ष्ठः॒ स प्र य॑जतामृ॒तावा॑ ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 544. Sukta 6.15 Rks 5-8
+**Progress note:** Done through printed p. 550. Sukta 6.15 Rks 8(end)-13(begin)
