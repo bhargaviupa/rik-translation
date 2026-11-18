@@ -20749,6 +20749,369 @@ May that very Agni, the injurer of enemies, not struck down by enemies, injured 
 ##### English translation
 Surpassing all earthly things, may he bestow upon us riches, destroying his enemies by his greatness, unresisted, unassailed.
 
+### Printed p. 606
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प्र॑श्न॒वन्न वी॑य॒साग्ने॑ द्यु॒म्नेन॑ सं॒यता॑ ।  
+> बृ॒हत्त॑तंथ भा॒नुना॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । प्रत्नवत् । नवीयसा । अग्ने । द्युम्नेन । संयता ।  
+> बृहत् । ततंध । भानुना ॥ २० ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यः पूर्वोक्तगुणविशिष्टः स ताद्रशस्त्वं प्रत्नवत् प्रश्नेन पुराणेन
+> नवीयसा नवतरेण द्युम्नेन द्योतमानेन संयता संगच्छता सम्यग्वाप्नुवता
+> भानुना तेजसा बृहन्महदंतरिक्षं ततंथ । विस्तारयसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni: you, who are of the qualities described before, spread out the great firmament with your lustre, which is ancient-like, newer, radiant, and rightly pervading.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you, who have been described before
+- प्रश्नवत् (*praśnavat*)—as in former times, so also now
+- नवीयसा (*navīyasā*)—new
+- द्युम्नेन (*dyumnena*)—radiant
+- संयता (*saṃyatā*)—existing in a concentrated form
+- भानुना (*bhānunā*)—with your lustre
+- बृहत् (*bṛhat*)—the very vast firmament
+- ततंथ (*tataṃtha*)—you have pervaded so that it becomes still more vast
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who have been described before, have pervaded the very vast firmament, so that it becomes still more vast, with your lustre, which is new, radiant and concentrated, and which exists now just as it did in all former times.
+
+##### English translation
+You have overspread, Agni, this vast (firmament) with radiant concentrated lustre, recent like that of old.
+
+### Printed p. 607
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वः॑ सखायो अ॒ग्नये॒ स्तोमं॑ य॒ज्ञं च॑ धृष्ण॒या ।  
+> अर्च॒ गाय॑ च वे॒धसे॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । सखायः । अग्नये । स्तोमं । यज्ञं । च । धृष्णुया ।  
+> अर्च । गाय । च । वेधसे ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः समानख्याना ऋत्विजो वो यूयं धृष्णया शत्रोणां
+> धर्षकाय वेधसे विधात्रॆग्नये स्तोमं स्तोत्रं गाय । गायत । तथा यज्ञं
+> यजनसाधनं हविश्च प्राच्य । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O friends, fellow-officiants, you sing the stoma, the praise, to Agni, who is the vanquisher of enemies and the creator. Likewise offer the sacrificial means, the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friendly officiating priests
+- वः (*vaḥ*)—you
+- धृष्णुया (*dhṛṣṇuyā*)—who vanquishes enemies
+- वेधसे (*vedhase*)—who is the creator
+- अग्नये (*agnaye*)—addressing Agni
+- स्तोमं (*stomaṃ*)—the hymn of praise
+- गाय (*gāya*)—recite
+- यज्ञं च (*yajñaṃ ca*)—and the oblation, which is the means of the sacrifice
+- प्र अर्च (*pra arca*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O friendly officiating priests, recite the hymn of praise addressing Agni, who vanquishes enemies and is the creator. And offer also the oblation, which is the means of the sacrifice.
+
+##### English translation
+Sing praise and offer sacrifice, my friends, to the foe-diseomfiting, the creator, Agni.
+
+##### विशेषविषयगळु (Special Topics)
+
+सखायः (*sakhāyaḥ*)—It is the custom to call the officiating priests, who take part in sacrifices and work in co-operation with the sacrificer, the friends of the sacrificer who performs the sacrifice. There is a sentence of the Taittirīya Saṃhitā: ऋत्विजो वा अस्य सखायः (*ṛtvijo vā asya sakhāyaḥ*).
+
+### Printed p. 608
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि यो मानु॑षा यु॒गा सीद॒द्धोता॑ क॒विक्र॑तुः ।  
+> दू॒तश्च॑ हव्य॒वाह॑नः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । यः । मानुषा । युगा । सीदत् । होता । कविक्रतुः ।  
+> दूतः । च । हव्यवाहनः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खल्वग्निः सीदत् । सीदतु । अस्मदीये यज्ञॆ बर्हिष्युपविशतु ।
+> योऽग्निर्होता देवानामाह्वाता कविक्रतुः क्रांतप्रज्ञो मानुषा युगा
+> मानुषाणि युगानि मनुष्यसंबंधिनो यज्ञार्हान्नालविशेषान् येसु यागा
+> अनुष्ठीयंते ॥ अत्यंतसंयोगे द्वितीया ॥ एतावंतं कालं देवानां दूतः ।
+> स हव्यवाहनो हविषां वोढा च भवति ॥
+
+##### Gist of the bhāṣya
+
+That Agni indeed, may he sit down, take his seat on the sacred grass at our sacrifice, he who is the hotā, the invoker of the gods, and kavikratu, of far-reaching wisdom. The human ages, मानुषाणि युगानि (*mānuṣāṇi yugāni*), are the periods of time, belonging to men, suited to sacrifice, in which sacrifices are performed. For all this time he is the messenger of the gods, and he is the carrier of oblations, the bearer of the offerings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- होता (*hotā*)—the performer of the offering
+- कविक्रतुः (*kavikratuḥ*)—of far-reaching wisdom
+- मानुषा युगा (*mānuṣā yugā*)—in every age of men
+- दूतः (*dūtaḥ*)—who is the messenger of the gods
+- हव्यवाहनः (*havyavāhanaḥ*)—and who is the bearer of the oblation
+- स हि (*sa hi*)—that very Agni
+- सीदत् (*sīdat*)—may he be established (at our sacrificial altar)
+
+##### भावार्थ (Bhāvārtha)
+
+May that very Agni, who is the performer of the offering, of far-reaching wisdom, the messenger of the gods in every age of men, and the bearer of oblations, be established, sitting down, at our sacrificial altar.
+
+##### English translation
+May that Agni indeed sit down (at our sacrifice), who in every age of man has been the invoker the of gods, the doer of wise deeds, the messenger of the gods, the bearer of oblations.
+
+### Printed p. 609
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता राजा॑ना॒ शुचि॑व्रतादि॒त्यान्मारु॑तं ग॒णं ।  
+> वसो॒ यक्षी॒ह रोद॑सी ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । राजाना । शुचिव्रता । आदित्यान् । मारुतं । गणं ।  
+> वसो इति । यक्षि । इह । रोदसी इति ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ प्रसिद्धौ राजाना राजमानौ शुचिव्रता शुचिकर्माण् मित्रावरुणावादित्यानदितेः पुत्रान् धात्रादीन्मारुतं गणं मरुतां संघं च रोदसी द्यावापृथिव्यौ
+> च एतान्देवान् हे वसो वासकाग्न इहास्मिन्यज्ञे यक्षि । यज ॥
+
+##### Gist of the bhāṣya
+
+Those two well-known, resplendent ones, of pure rites, Mitra and Varuṇa, and the Ādityas, the sons of Aditi, Dhātṛ and the others, and the company of the Maruts, and heaven and earth: O Agni, the giver of dwelling, worship these gods here, at this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Agni, the giver of dwelling
+- इह (*iha*)—in this sacrifice
+- ता (*tā*)—who are well known
+- राजाना (*rājānā*)—who are resplendent
+- शुचिव्रता (*śucivratā*)—who are of pure rites, Mitra and Varuṇa
+- आदित्यान् (*ādityān*)—the Ādityas
+- मारुतं गणं (*mārutaṃ gaṇaṃ*)—the host of the Maruts
+- रोदसी (*rodasī*)—heaven and earth
+- यक्षि (*yakṣi*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwelling, worship in this sacrifice Mitra and Varuṇa, who are well known, resplendent and of pure rites, the Ādityas, the host of the Maruts, and heaven and earth.
+
+##### English translation
+Giver of dwellings, worship on this occasion the two regal divinities, Mitra and Varuna, whos acts are holy, the Adityas, the company of the Maruts, and heaven and earth.
+
+### Printed p. 610
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वस्वी॑ ते अग्ने॒ संदृ॑ष्टिरिषय॒ते मर्त्या॑य ।  
+> ऊर्जो॑ नपाद॒मृत॑स्य ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वस्वी । ते । अग्ने । संसदृष्टिः । इषयते । मर्त्याय ।  
+> ऊर्जः । नपात् । अमृतस्य ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्जो नपाद्बलस्य पुत्राग्ने अमृतस्य मरणरहितस्य ते तव संदृष्टिर्दिप्तिर्वस्वी वासयित्रि । प्रशस्येत्यर्थः । सा मर्त्याय मनुष्याय यजमानायेषयते । इषमन्नमिच्छति । ददातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, that is, son of force: of you, who are immortal, free from death, the radiance, संदृष्टिः (*saṃdṛṣṭiḥ*), is वस्वी (*vasvī*), that is, causing to dwell, which means praiseworthy. That radiance gives food to the mortal, the man who is the sacrificer: इषयते (*iṣayate*) means that it desires food, that is, it gives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जः नपात् (*ūrjaḥ napāt*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- अमृतस्य (*amṛtasya*)—who are free from death
+- ते (*te*)—your
+- संदृष्टिः (*saṃdṛṣṭiḥ*)—radiance
+- वस्वी (*vasvī*)—being praiseworthy
+- मर्त्याय (*martyāya*)—to the sacrificer, who is a man
+- इषयते (*iṣayate*)—supplies food
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, your radiance, which is free from death, being praiseworthy, supplies food to the sacrificer, who is a man.
+
+##### English translation
+Son of strength, Agni, the glorious radiance of you who are immortal, bestows food upon (your) mortal worshipper.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वा॒ दा अ॑स्तु॒ श्रेष्ठो॒ऽद्य त्वा॑ व॒न्वन्तु॒रेक्णां॑ ।  
+> मर्त॑ आनाश सुवृ॒क्तिं ॥ २६ ॥
+
+### Printed p. 611
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वा । दाः । अस्तु । श्रेष्ठः । आद्य । त्वा । वन्वन् । सुरेक्ष्णाः ।  
+> मर्तः । आनाश । सुवृक्तिं ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अद्येदानीं क्रत्वा कर्मणा परिचरणात्मना त्वां वन्वन् संभजन् दा
+> हवींषि दाता यजमानः श्रेष्ठोऽतिशयेन प्रशस्योऽस्तु । सुरेक्ष्णाः शोभनधनश्चास्तु । तथा स मर्तो मनुष्यः सुवृक्तिं त्वद्विषयां सुष्टुतिं चानाश । व्याप्नोतु ।
+> तव सर्वदा स्तोता भवत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, today, now, let the sacrificer, the giver, who honours you by the rite of attendance and offers the oblations, be exceedingly praiseworthy; and let him be possessed of fine wealth. And let that mortal, the man, attain good praise directed to you; the meaning is that he is always to be your praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—now
+- क्रत्वा (*kratvā*)—by rites such as sacrifices
+- वन्वन् (*vanvan*)—who worships you
+- दाः (*dāḥ*)—and who offers oblations, the sacrificer
+- श्रेष्ठः (*śreṣṭhaḥ*)—most praiseworthy
+- अस्तु (*astu*)—let him be
+- सुरेक्णाः (*surekṇāḥ*)—possessed of exceeding wealth also
+- मर्तः (*martaḥ*)—that same sacrificer, who is a man
+- सुवृक्तिं (*suvṛktiṃ*)—the most excellent praise
+- आनाश (*ānāśa*)—let him be one who offers to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, now let the sacrificer, who worships you by sacrifices and other rites and offers oblations, be most praiseworthy. Let him also be possessed of exceeding wealth. Let that same sacrificer, who is a man, be one who offers to you the most excellent praise.
+
+##### English translation
+May the donor (of the oblation). propitiating you by his acts to-day, be exalted, and (rendered) very opulent : may (such) mortal be diligent in (your) praise.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते ते॑ अग्ने॒ त्वोता॑ इ॒षयं॑तो॒ विश्व॒मायुः॑ ।  
+> तरं॑तो अ॒र्यो अरा॑तीर्व्॒वन्वंतो॑ अ॒र्यो अरा॑तीः ॥ २७ ॥
+
+### Printed p. 612
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । ते । अग्ने । त्वाऊताः । इषयंतः । विश्वं । आयुः ।  
+> तरंतः । आर्यः । अरातीः । वन्वंतः । आर्यः । अरातीः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वदीया ये त्वां स्तुवंति ते स्तोतारस्तोतास्त्वयोता
+> रक्षिता आत एवेषयंत इषमात्मन इच्छंतः संतो विश्वं सर्वमायुरन्नं लभंत इति
+> शेषः । आयुरेव ना शतवर्षलक्षणमिषयंत इच्छंतः प्राप्नुवंतीति शेषः । तथार्योऽरीनभिगंत्रीररातीः काश्चिच्छत्रुसेनास्तरंतोऽतिक्रामंतोऽर्योऽभिगंत्रीररातीः काश्चन शत्रुसेना वन्वंतो हिंसंतश्च भवंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, those who are yours, who praise you, those praisers, protected by you, desiring food for themselves, obtain all food; this is the word to be supplied. Or else, wishing for it, they obtain life itself, which is marked by a hundred years; this too is the word to be supplied. Likewise they overcome, pass beyond, certain hostile armies of assailants, and they destroy certain hostile armies of assailants; this is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इषयंतः (*iṣayaṃtaḥ*)—desiring food
+- ते (*te*)—who praise you
+- ते (*te*)—such praisers
+- त्वोताः (*tvotāḥ*)—being protected by you
+- आर्यः (*āryaḥ*)—who fall upon them
+- अरातीः (*arātīḥ*)—the enemies
+- तरंतः (*taraṃtaḥ*)—defeating
+- आर्यः (*āryaḥ*)—who fall upon them
+- अरातीः (*arātīḥ*)—the enemies
+- वन्वंतः (*vanvaṃtaḥ*)—destroying
+- विश्वं (*viśvaṃ*)—all
+- आयुः (*āyuḥ*)—also food (they obtain)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those who praise you, desiring food, such praisers, being protected by you, defeating and destroying the enemies who fall upon them, obtain all food.
+
+##### English translation
+Those, Agni. who are protected by you, wishing for the whole (term of) life (obtain it), overcoming hostile assailants, destroying hostile assailants.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निस्ति॒ग्नेन॑ शो॒चिषा॒ यास॒द्विश्वं॒ न्य१॒॑गत्रिणं॑ ।  
+> अ॒ग्निर्नो॑ वनते र॒यिं ॥ २८ ॥
+
+### Printed p. 613
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । तिग्मीन । शोचिषा । यासत् । विश्वं । नि । अत्रिणं ।  
+> अग्निः । नः । वनते । रयिं ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निस्तिग्नेन तीक्ष्णेन शोचिषा तेजसा विश्वं सर्वमत्रिणमत्तारं राक्षसादिकं नि यासत् । निहंतु । अपि च नोऽस्मभ्यमग्नी रयिं धनं वनते । ददातु ॥
+
+##### Gist of the bhāṣya
+
+This Agni, with his sharp flame, that is, his fiery energy, let him strike down all devourers, the Rākṣasas and the like. And further, let Agni give us wealth, riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- तिग्मीन (*tigmīna*)—with sharp
+- शोचिषा (*śociṣā*)—flame
+- विश्वं (*viśvaṃ*)—all
+- अत्रिणं (*atriṇaṃ*)—the Rākṣasas and the like
+- वि यासत् (*vi yāsat*)—let him destroy
+- नः (*naḥ*)—to us
+- अग्निः (*agniḥ*)—Agni
+- रयिं (*rayiṃ*)—wealth
+- वनते (*vanate*)—let him grant
+
+##### भावार्थ (Bhāvārtha)
+
+Let Agni destroy with his sharp flame all the Rākṣasas and the like; let Agni grant us wealth.
+
+##### English translation
+May Agni, with his sharp flame, demolish the devourer (of the oblation): may Agni grant us riches.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वीरं॑ र॒यिमा भ॑र॒ जात॑वेदो॒ विच॑र्षणे ।  
+> ज॒हि रक्षां॑सि सुक्रतो ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुवीरं । रयिं । आ । भर । जातवेदः । विचर्षणे ।  
+> जहि । रक्षांसि । सुक्रतो इति सुक्रतो ॥ २९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 605. pp. 600-605 Ṛk 15 end, Ṛks 16-20
+**Progress note:** Done through printed p. 613. Sukta 16 Rk 21-29, pp. 606-613
