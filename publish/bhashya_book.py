@@ -191,7 +191,7 @@ def select(lines, chosen, english=None, lean=False):
             par = keep
             if not par: st['page'] = False; return
         if sec == 'grammar' and not par[0].startswith('- '): st['sec'] = sec = 'other'
-        if sec == 'bhashya' and not par[0].startswith('>'):      # a remark of the volume's translator inside the block
+        if sec == 'bhashya' and not par[0].startswith('>') and '**NOTE**' not in par[0]:   # a remark of the volume's translator inside the block (its NOTE marks stay)
             rep['remarks'] += 1; st['page'] = False; return
         if (lean or st['eng']) and sec == 'gist' and not par[0].startswith('>'): sec = 'other'   # Gist prose not wanted
         if lean:
