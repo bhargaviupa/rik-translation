@@ -25328,6 +25328,260 @@ In Ṛks such as
 
 it is said that Indra, who destroys the Asuras Ahi, Śambara, Vṛtra and others, who hide in this mass of darkness in the shape of a mountain and obstruct the flowing waters, is worthy of praise. In the same way
 
+### Printed p. 698
+
+In many places the word पर्वत (*parvata*) is described as a synonym of "enemy", or as a support of enemies. Therefore in Ṛks such as आरंस्त पर्वतश्चित्सरिष्यन् (*āraṃsta parvataścitsariṣyan*) (Ṛ. Saṃ. 2-11-7) and शुष्माच्चिदस्य पर्वता भयंते (*śuṣmāccidasya parvatā bhayaṃte*) (Ṛ. Saṃ. 2-12-13) it is said that as soon as Indra, who is of the nature of light, became manifest, the mountain-shaped masses of darkness trembled with fear, and that Indra hid them in the nether world.
+
+Contrary to these descriptions, it is said in many places that the mountain is the thunderbolt weapon, which is of the nature of light, and also that it is Parjanya, the presiding deity of rain, water and the like.
+
+प्राक्तादपाक्तादधरादुदक्तादभि जहि रक्षसः पर्वतेन । (*prāktādapāktādadharādudaktādabhi jahi rakṣasaḥ parvatena |*)
+(Ṛ. Saṃ. 7-104-19)
+
+अस्मे रुद्रा मेहना पर्वतासो वृत्रहत्ये भरहूत् सजोषाः । (*asme rudrā mehanā parvatāso vṛtrahatye bharahūt sajoṣāḥ |*) **NOTE**
+(Ṛ. Saṃ. 8-63-12)
+
+In Ṛks such as these the mountains are instruments that help Indra in the work of destroying enemies.
+
+प्र पूषणं विष्णुमग्निं पुरंधिं सवितारमोषधीः पर्वतांश्च । (*pra pūṣaṇaṃ viṣṇumagniṃ puraṃdhiṃ savitāramoṣadhīḥ parvatāṃśca |*)
+(Ṛ. Saṃ. 6-21-9)
+
+शं नः पर्वता ध्रुवयो भवंतु शं नः सिंधवः शमु सन्त्वापः । (*śaṃ naḥ parvatā dhruvayo bhavaṃtu śaṃ naḥ siṃdhavaḥ śamu santvāpaḥ |*)
+(Ṛ. Saṃ. 7-35-8)
+
+In Ṛks such as these there is an invocation of the mountain together with deities such as Mitra, Varuṇa and Pūṣan.
+
+युवं तमिंद्रापर्वता पुरोयुधा यो नः पृतन्यादप तंतमिद्धतं वज्रेण तंतमिद्धतं । (*yuvaṃ tamiṃdrāparvatā puroyudhā yo naḥ pṛtanyādapa taṃtamiddhataṃ vajreṇa taṃtamiddhataṃ |*)
+(Ṛ. Saṃ. 1-133-6)
+
+इंद्रापर्वता बृहता रथेन वामीरिष आ वहतं सुवीराः । (*iṃdrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*)
+(Ṛ. Saṃ. 3-53-1)
+
+In these places and in other Ṛks there is a joint invocation and praise of Indra and of the mountain. Sāyaṇa has said that the mountain here means Parjanya. Here the mountain is a deity to be worshipped.
+
+### Printed p. 699
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्पू॒र्व्यं म॑रुतो॒ यच्च॒ नूत॑नं॒ यदु॒द्यते॑ वसवो॒ ॑ ॒॑
+> यच्च॑ श॒स्यते॑ ।  
+> विश्व॑स्य॒ तस्य॑ भवथा॒ नवे॑दसः॒ शुभं॑ या॒तामनु॒ रथा॑ अवृत्सत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पूर्व्यं । मरुतः । यत् । च । नूतनं । यत् । उद्यते । वसवः । यत् ।  
+> च । शस्यते !  
+> विश्वस्य । तस्य । भवथ । नवेदसः । शुभं । यातां । अनु । रथाः । अवृत्सत ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं यत्पूर्व्यं पूर्वतनं पूर्वमनुष्ठितं यत्कर्मास्ति
+> तदित्यर्थः । यच्च नूतनं कर्मास्ति । यच्चोद्यत ऊर्ध्वं प्राप्यते । स्तूयत
+> इत्यर्थः । हे वसवो वासका यच्च शस्यते शंसनं क्रियते तस्य विश्वस्योत्कृष्टस्य
+> नवेदसो जानंतो भवथ ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, whatever work is पूर्व्यं (*pūrvyaṃ*), that is, ancient, performed before; and whatever work is new; and whatever is उद्यते (*udyate*), that is, raised up, praised; and, O Vasus, that is, givers of dwelling, whatever praise is made: of all that excellent work you are knowers."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—what rite
+- पूर्वं (*pūrvaṃ*)—was performed anciently
+- यच्च (*yacca*)—and what
+- नूतनं (*nūtanaṃ*)—is performed now
+- यत् (*yat*)—what hymn
+- उद्यते (*udyate*)—is recited aloud
+- वसवः (*vasavaḥ*)—O Maruts, givers of dwelling
+- यच्च (*yacca*)—and what hymn
+- शस्यते (*śasyate*)—is recited in your praise
+- तस्य विश्वस्य (*tasya viśvasya*)—of all those rites and hymns
+- नवेदसः (*navedasaḥ*)—you, as those who know
+- भवथ (*bhavatha*)—become
+- शुभं (*śubhaṃ*)—as bringers of good
+- यातां (*yātāṃ*)—of the Maruts who are going
+- रथाः (*rathāḥ*)—the chariots also
+- अनु अवृत्सत (*anu avṛtsata*)—follow them
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, givers of dwelling, whatever rite was performed in the past in your honour, whatever is performed now, whatever hymn is recited aloud, whatever is
+
+### Printed p. 700
+
+laudatory to you: all those rites and hymns you know fully. The chariots also of the Maruts, who go as bringers of good, follow them.
+
+##### English translation
+Whatever (rite has been addressed to you), Maruts of old; whatever is recent; whatever (hymn) is recited, Vasus, whatever prayer is repeated, do you be cognizant of all: may the cars of the quick-moving (Maruts) arrive for our good.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒ळत॑ नो मरुतो॒ मा व॑धिष्टना॒स्मभ्यं॒ शर्म॑ बहु॒लं वि  ॑
+> यंतन ।  
+> अधि॑ स्तो॒त्रस्य॑ स॒ख्यस्य॑ गातन॒ शुभं॑ या॒तामनु॒ रथा॑ अवृत्सत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृळत । नः । मरुतः । मा । वधिष्टन । अस्मभ्यं । शर्म । बहुलं । वि । यंतन ।  
+> अधि । स्तोत्रस्य । सख्यस्य । गातन । शुभं । यातां । अनु । रथाः । अवृत्सत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो नोऽस्मान् मृळत । सुखयत । मा वधिष्टन । असम्यक्करणादिजनितेन कोपेन मा वधिद्वं । किंत्वस्मभ्यं शर्म सुखं बहुलमत्यधिकं वि यंतन ।
+> कुरुत । किंच स्तोत्रस्य स्तोत्रं सख्यस्य सख्यमधि गातन । अधिगच्छथ । स्तुतिमनुभूयास्मासु सख्यं कुरुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, make us happy, give us joy. Do not slay us: do not strike us down in anger caused by improper performance and the like; but bestow upon us abundant, exceeding happiness. Further, attain our praise and our friendship: having experienced our praise, make friendship with us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- नः (*naḥ*)—us
+- मृळत (*mṛḷata*)—make happy
+- मा वधिष्टन (*mā vadhiṣṭana*)—do not harm
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- बहुलं (*bahulaṃ*)—exceedingly
+- शर्म (*śarma*)—happiness
+- वि यंतन (*vi yaṃtana*)—bring about
+- स्तोत्रस्य (*stotrasya*)—our praise
+- सख्यस्य (*sakhyasya*)—and our friendship
+- अधि गातन (*adhi gātana*)—know
+- शुभं (*śubhaṃ*)—as bringers of good
+- यातां (*yātāṃ*)—of the Maruts who are going
+- रथाः (*rathāḥ*)—the chariots also
+- अनु अवृत्सत (*anu avṛtsata*)—follow them
+
+### Printed p. 701
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, make us happy, do not harm us. Bring about exceeding happiness for us. Knowing our praise and our friendship, give a reward for it. The chariots also of the Maruts, who go as bringers of good, follow them.
+
+##### English translation
+Send us felicity, Maruts; harm us not ; bestow upon us exceeding happiness: reward our adoration by your friendship: may the cars of the quick-moving (Maruts) arrive for our good.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यम॒स्मान्न॑यत॒ वस्यो॒ अच्चा॒ निरं॑ह॒तिभ्यो॑ मरुतो  ॒
+> गृणानाः ।  
+> जु॒षध्वं॑ नो ह॒व्यदा॑तिं यजत्रा व॒यं स्या॑म॒ पत॑यो  ॒
+> रयीणां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । अस्मान् । नयत । वस्यः । अच्च । निः । अंहतिभ्यः । मरुतः । गृणानाः ।  
+> जुषध्वं । नः । हव्यदातिं । यजत्राः । वयं । स्याम । पतयः । रयीणां ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयमस्मान्वस्यो वसीयो धनं स्वर्गादिलक्षणं स्थानं
+> वाच्छाभिलक्ष्य नयत । प्रापयत । किंचांहतिभ्यः पापेभ्यो निर्णयत । निर्गमयत
+> गृणानाः स्तूयमानाः ॥ कर्मणि कर्तृप्रत्ययः ॥ जुषध्वं सेवध्वं नोऽस्माकं
+> हव्यदातिं हविर्दानवंतं यज्ञं हे यजत्रा यष्टव्या यूयं । वयं च रयीणां
+> बहुविधानां धनानां पतयः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, lead us towards वस्यो (*vasyo*), that is, better wealth, or a place such as heaven, desiring it: cause us to reach it. Further, lead us out of अंहतिभ्यः (*aṃhatibhyaḥ*), that is, sins; take us out of them, you who are praised. Accept our sacrifice, which is rich in gifts of oblation, O you who are worthy of worship; and may we be the lords of manifold riches."
+
+### Printed p. 702
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- अस्मान् (*asmān*)—us
+- वस्यः अच्छ (*vasyaḥ accha*)—towards a region rich in prosperity
+- नयत (*nayata*)—lead
+- गृणानाः (*gṛṇānāḥ*)—being praised by us
+- अंहतिभ्यः (*aṃhatibhyaḥ*)—from sins
+- निः (नयत) (*niḥ (nayata)*)—take us far away
+- यजत्राः (*yajatrāḥ*)—you who are worthy of sacrifice
+- नः (*naḥ*)—our
+- हव्यदातिं (*havyadātiṃ*)—offering of oblation
+- जुषध्वं (*juṣadhvaṃ*)—accept
+- वयं (*vayaṃ*)—we
+- रयाणां (*rayāṇāṃ*)—of riches of many kinds **NOTE**
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, lead us to a region rich in prosperity. Being praised by us, release us from sin. You who are worthy of sacrifice, accept the oblation we have offered. May we be lords of riches of many kinds.
+
+##### English translation
+Maruts, conduct us to opulence: propitiated by our praises, extricate us from sin: accept, adorable (Maruts), our offered oblation, and may we be the possessors of riches.
+
+The fifty-sixth hymn.
+
+## Sūkta 56 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने शर्धंतमिति नवर्चं द्वादशं सूक्तं श्यावाश्वस्यार्षं मारुतं । तृतीयासप्तम्या सतोबृहत्या शिष्टा बृहत्यः । अग्ने नव बार्हतं तृतीयासप्तम्या सतोबृहत्यावित्यनुक्रमणिका ॥
+
+##### Gist of the bhāṣya
+
+This is the twelfth hymn, of nine Ṛks. Its seer is Śyāvāśva and its deity the Maruts. The third and seventh Ṛks are in the Satobṛhatī metre; the rest are in the Bṛhatī metre. The Anukramaṇikā says: Agni, nine, Bārhata; the third and seventh in Satobṛhatī.
+
+Translation: This hymn beginning अग्ने शर्धं (*agne śardhaṃ*) is the twelfth hymn in the fourth Anuvāka. It has nine Ṛks. The seer of this hymn is Śyāvāśva; the deity is the Maruts. The third and seventh Ṛks of this hymn are in the Satobṛhatī metre. In the Anukramaṇikā it is said: अग्ने नव बार्हतं तृतीयसप्तम्या सतोबृहत्या (*agne nava bārhataṃ tṛtīyasaptamyā satobṛhatyā*).
+
+### Printed p. 703
+
+- Sūkta: 56
+- Maṇḍala 5; Anuvāka 4; Sūkta 56
+- Aṣṭaka 4; Adhyāya 3; Varga 19, 20
+- Number of Ṛks in the Sūkta: 9
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: Maruts
+- Chandas: 1, 2, 4-6, 8, 9 Bṛhatī; 3, 7 Satobṛhatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ शर्धं॑त॒मा ग॒णं पि॒ष्टं रु॒क्मेभि॑रं॒जिभिः॑ ।  
+> विशो॑ अ॒द्य म॒रुता॒मन॑ ह्वये दि॒वश्चि॑द्रोच॒नादधि॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आग्ने । शर्धंतं । आ । गणं । पिष्टं । रुक्मेभिः । अंजिभिः ।  
+> विशः । अद्य । मरुतां । अव । ह्वये । दिवः । चित् । रोचनात् । अधि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने शर्धंतं शत्रूनभिभवंतं यज्ञायोत्सहमानं ना गणं मरुतां
+> गणमा ह्वयेति शेषः । कीदृशं गणं । रुक्मेभी रुक्मै रोचमानैरंजिभिराभरणैश्च
+> पिष्टमवयवितं । युक्तमित्यर्थः । अद्यास्मिन्यागदिने मरुतां विशः प्रजाः । गणानित्यर्थः । तान्रोचनाद्रोचमानात् दिवो द्युलोकात् । अधीति पंचम्यर्थानुवादी।
+> चित्तूरणः अवावस्तादस्मदभिमुखं ह्वये । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, call the host of the Maruts, which is शर्धंतं (*śardhaṃtaṃ*), that is, overcoming enemies and eager for the sacrifice; the words 'I call' are to be supplied." **NOTE** What kind of host? One endowed with shining golden ornaments and with अंजिभि (*aṃjibhi*) ornaments, that is, furnished with them. "Today, that is, on this day of the sacrifice, I call the Maruts' विशः (*viśaḥ*), that is, subjects, meaning hosts, from the shining heaven, the world of the sky; the word अधीति (*adhīti*) merely restates the sense of the ablative. I call them towards us." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- रुक्मेभिः (*rukmebhiḥ*)—with shining
+- अंजिभिः (*aṃjibhiḥ*)—ornaments
+- पिषम् (*piṣam*)—those who are adorned **NOTE**
+- शर्धंतं (*śardhaṃtaṃ*)—those who are able to destroy enemies
+- गणं (*gaṇaṃ*)—the host of the Maruts
+- आ (ह्वये) (*ā (hvaye)*)—I call
+- अद्य (*adya*)—on this day of the sacrifice
+- मरुतां विशः (*marutāṃ viśaḥ*)—the host of the Maruts
+- रोचनात् (*rocanāt*)—from the shining
+- दिवः (*divaḥ*)—heaven
+- अधि अव (*adhi ava*)—so that they may come down towards us
+- ह्वये (*hvaye*)—I call with prayer
+
 ---
 
-**Progress note:** Done through printed p. 697. Ṛk 5 Special Topics (samudra), Ṛks 6-7 of sūkta 55 (pp. 692-697)
+**Progress note:** Done through printed p. 703. Vol 19 pp. 698-703: end of Special Topics, Rks 5.55.8-10, sukta 56 intro and Rk 1
