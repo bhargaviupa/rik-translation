@@ -1015,6 +1015,310 @@ May I obtain from you, Mitra and Varuna, by my praise, such wealth as to excite 
 > आ । नः । मित्र । सुदीतिभिः । वरुणः । च । सधस्थे । आ ।  
 > स्वे । क्षये । मघोनां । सखीनां । च । वृधसे ॥ ५ ॥
 
+### Printed p. 32
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्र त्वं च वरुणश्च सुदीतिभिः सुदीप्तियुक्तौ युवां नोऽस्मभ्यं
+> सधस्थे सहस्थाने यज्ञ आ गच्छतं । द्वितीय आकारोऽनर्थक आदरार्थो वा ।
+> किमर्थमित्युच्यते । मघोनां धनवतां हविष्मतां सखीनां च युवयोः
+> सखिभूतानामस्माकं क्षये गृहे स्वे स्वकीये वृधसे वर्धनाय ॥
+
+##### Gist of the bhāṣya
+
+O Mitra, you and Varuṇa, you two, endowed with good radiance (सुदीतिभिः (*sudītibhiḥ*)), come to us at the sacrifice, the common place (सधस्थे (*sadhasthe*)). The second आ (*ā*) is either without meaning or expresses respect. The reason is now stated: for the growth (वृधसे (*vṛdhase*)) in our own house (स्वे क्षये (*sve kṣaye*)) of us, who are wealthy (मघोनां (*maghonāṃ*), that is, possessed of oblations) and are your friends (सखीनां (*sakhīnāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—O Mitra (you)
+- वरुणश्च (*varuṇaśca*)—and Varuṇa also
+- मघोनां (*maghonāṃ*)—of us who possess wealth in the form of oblations
+- सखीनां (*sakhīnāṃ*)—and are your friends, our
+- स्वे क्षये (*sve kṣaye*)—in our own house
+- वृधसे (*vṛdhase*)—to bring about growth
+- सुदीतिभिः (*sudītibhiḥ*)—with your shining protections
+- सदस्ये (*sadasye*)—to our house of sacrifice
+- आ (*ā*) (गच्छतं (*gacchataṃ*))—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, you and Varuṇa also, be pleased to come to our sacrifice with your shining protections, in order to bring about growth in our own house, we who possess wealth in the form of oblations and are your friends.
+
+##### English translation
+Come, Mitra, (come), Varuna, with your splendour to our assembly, and augment (the prosperity) of the affluent (worshipper), and of (those who are) your friends in their respective abodes
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं नो॒ येषु॑ वरुण क्ष॒त्रं बृ॒हच्च॑ बिभृ॒थः ।  
+> उ॒रु णो॒ वाज॑सातये कृ॒तं रा॒ये स्व॒स्तये॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । नः । येषु । वरुणा । क्षत्रं । बृहत् । च । बिभृथः ।  
+> उरु । नः । वाजसातये । कृतं । राये । स्वस्तये ॥ ६ ॥
+
+### Printed p. 33
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुणा मित्रावरुणौ युवं युवां नोऽस्माकं क्षत्रं बलं बृहत् ब्रह्म
+> परिवृधमन्नं च येषु स्तोत्रेषु निमित्तेषु बिभृथः धारयथः युवाभ्यां
+> धृतमन्नं च नोऽस्मभ्यं वाजसातयेऽन्नस्य लाभाय यज्ञाय ना राये धनाय
+> स्वस्तये क्षेमाय चोरु विस्तीर्णं कृतं । कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, that is, Mitra and Varuṇa, you two hold our strength (क्षत्रं (*kṣatraṃ*)), the great (बृहत् (*bṛhat*)) ब्रह्म (*brahma*) and food, in those hymns, which are the occasions (येषु (*yeṣu*)). **NOTE** The food held by you, for us, for the gain of food (वाजसातये (*vājasātaye*)), for the sacrifice, for wealth (राये (*rāye*)) and for welfare (स्वस्तये (*svastaye*)), make wide (उरु (*uru*)), that is, make spacious (कृतं (*kṛtaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणा (*varuṇā*)—O Mitra and Varuṇa
+- युवं (*yuvaṃ*)—you
+- येषु (*yeṣu*)—as the reward of those same praises of ours
+- क्षत्र्रं (*kṣatrraṃ*)—strength
+- बृहत् (*bṛhat*)—and abundant food
+- नः (*naḥ*)—to us (to give)
+- बिभृथः (*bibhṛthaḥ*)—hold
+- नः (*naḥ*)—to us
+- वाजसातये (*vājasātaye*)—for the gain of food
+- राये (*rāye*)—for increase of prosperity
+- स्वस्तये (*svastaye*)—for the gain of well-being
+- उरु (*uru*)—abundantly
+- कृतं (*kṛtaṃ*)—show favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, as the reward of our praises, hold strength and abundant food in order to give them to us. Show us abundant favour, for the gain of food, for increase of prosperity and for the gain of well-being.
+
+##### English translation
+You, Mitra and Varuna, bring us strength and abundant (food) for (those praises) which (we offer): be largely bountiful to us in food, in riches, in prosperity.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्छंत्यां॑ मे यज॒ता दे॒वक्ष॑ेत्रे॒ रुश॑द्गवि ।  
+> सु॒तं सोमं॒ न ह॒स्तिभि॒रा प॒द्भिर्धा॑वतं नरा॒ जिभ्र॑तावर्च॒नान॑सं ॥ ७ ॥
+
+### Printed p. 34
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्छंत्यां । मे । यजता । देवक्षत्रे । रुशत्गवि ।  
+> सुत । सोमं । न । हस्तिभिः । आ । पट्भिः । धावतं । नरा । बिभ्रता ।  
+> अर्चनानसं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उच्छंत्यामुषसि । मे सोममिति संबंधः । यजता यष्टव्यौ रुशद्गवि
+> रोचमानरश्मा प्रातःसवने देवक्षत्रे । देवानां क्षत्रं बलं यस्मिन् यज्ञे
+> तद्देवक्षत्रं । तस्मिन्ने मदीयं सुतमभिषुतं सोमं न । नेति संप्रत्यर्थे । इदानीं
+> हस्तिभिर्हस्तवद्धिः ॥ हंतेर्गतिकर्मणो हस्तशब्दः ॥ गमनसाधनपादवद्धिरित्यर्थः ।
+> पद्धिः पादवद्धिश्च पादचतुष्टयोपेतैरश्वैरा धावतं आगच्छतं नरा हे नेतारौ
+> मित्रावरुणौ ॥ '
+
+##### Gist of the bhāṣya
+
+उच्छंत्यां (*ucchaṃtyāṃ*) means "when the dawn is shining"; the construction is "my Soma". यजता (*yajatā*): you two who are to be worshipped; रुशद्गवि (*ruśadgavi*): when the rays are shining, at the morning pressing; देवक्षत्रे (*devakṣatre*): the sacrifice in which there is the strength (kṣatra) of the gods is the देवक्षत्रं (*devakṣatraṃ*). In that very sacrifice, my Soma that has been pressed. न (*na*) is used in the sense of "now". हस्तिभिः (*hastibhiḥ*) means "having hands"; the word hasta comes from the root han, a root of motion; the meaning is "having feet that are the means of going". पद्धिः (*paddhiḥ*) means "having feet", that is, with horses possessing four feet. Come, नरा (*narā*), leaders, Mitra and Varuṇa. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उच्छंत्यां (*ucchaṃtyāṃ*)—at the time of the appearing of the dawn
+- रुशद्गवि (*ruśadgavi*)—when the ray of the sun is shining (at the time of the morning pressing)
+- यजता (*yajatā*)—the ones who are worshipped
+- नरा (*narā*)—the leaders
+- अर्चनानासं (*arcanānāsaṃ*)—Arcanānas
+- बिभ्रत् (*bibhrat*)—who nourish with favour, O Mitra and Varuṇa
+- मे (*me*)—my (by me)
+- सुतं सोमं (*sutaṃ somaṃ*)—this pressed Soma, wishing for it
+- हस्तिभिः (*hastibhiḥ*)—possessing hands
+- पड्भिः (*paḍbhiḥ*)—and possessing feet, with horses
+- आ धावतं (*ā dhāvataṃ*)—come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the appearing of the dawn (in the morning), when the ray of the sun is shining, that is, at the time of the morning pressing, in the place of the sacrifice to the gods, O Mitra and Varuṇa, you who are worshipped, who are leaders and who nourish by your favour the seer called Arcanānas, wishing for this Soma pressed by me, come quickly with horses that have hands and feet.
+
+##### English translation
+Deities who are to be worshipped at the sacrifice to the gods, at the (first) shining ray (of light) at dawn, behold my Soma libation poured out : hasten, with rapid steeds, leaders (of rites), propitious to Archananas.
+
+### Printed p. 35
+
+##### विशेषविषयगळु (Special Topics)
+
+हस्तिभिः । हस्तवद्भिः (*hastibhiḥ | hastavadbhiḥ*)—For horses, "hands" means the two forelegs, in the part of the body where hands would be; this is the meaning intended.
+
+## Sūkta 65 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यश्चिकेतेति षडृचं नवमं सूक्तं रातहव्यस्यात्रेयस्यार्षं मैत्रावरुणं ।
+> यश्चिकेत षड्रातहव्य इत्यनुक्रमणिका । पंक्त्यंतं त्वित्युक्तत्वात् पंक्त्यंतपरिभाषयानुष्टुभं । अंत्या पंक्तिः ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यश्चिकेत (*yaściketa*) has six Ṛks and is the ninth sūkta. Its seer is Rātahavya of the Atri line, and its deity is Mitra and Varuṇa. The Anukramaṇikā says यश्चिकेत षड्रातहव्य (*yaściketa ṣaḍrātahavya*). Since it has been said that the ending is पंक्त्यंतं (*paṃktyaṃtaṃ*), by the rule of the paṅkti-ending the metre is Anuṣṭubh; the last Ṛk is Paṅkti. The use in ritual is by indication (laiṅgika).
+
+##### Anuvāda
+
+This sūkta, beginning "Yaś cikete", is the ninth sūkta in the fifth anuvāka. It has six Ṛks. The seer of this sūkta is Rātahavya of the Atri line; the deity is Mitra and Varuṇa. The last Ṛk of this sūkta is in Paṅkti metre; the remaining Ṛks are in Anuṣṭubh metre. In the Anukramaṇikā it is said: "Yaś cikete ṣaḍ rātahavyaḥ". The use in ritual is by indication.
+
+##### Particulars
+
+- Sūkta: 65
+- Maṇḍala 5; Anuvāka 5; Sūkta 65
+- Aṣṭaka 4; Adhyāya 4; Varga 3
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: Rātahavya Ātreya
+- Devatā: Mitra and Varuṇa
+- Chandas: 1-5 Anuṣṭubh; 6 Paṅkti
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यश्चि॒केत॒ स सु॒क्रतु॑र्देव॒त्रा स ब्र॑वीतु नः ।  
+> वरु॑णो॒ यस्य॑ दर्श॒तो मि॒त्रो वा॒ वन॑ते॒ गिरः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यो॥ । चिकेत । सः । सुक्रतुः । देवत्रा । सः । ब्रवीतु । नः ।  
+> वरुणः । यस्य । दर्शतः । मित्रः । वा । वनते । गिरः ॥ १ ॥
+
+### Printed p. 36
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः स्तोता चिकेत जानाति स्तुतिं युवयोः स सुक्रतुः स एव शोभनकर्मा
+> देवत्रा देवेषु स्तोतृमध्यॆ । यद्वा । देवेषु मध्यॆ । युवयोरेव स्तुतिं
+> यश्चिकेत स सुक्रतुरिति । स सुकर्मा नोऽस्माकं ब्रवीतु । स्तुतिं परमुपदिशतु ।
+> यश्च दर्शतो दर्शनीयो वरुणो दर्शनीयो मित्रो वा मित्रश्च । वाशब्दश्चार्थे ।
+> गिरोऽस्मदीयाः स्तुतीर्वनते संभजते ॥
+
+##### Gist of the bhāṣya
+
+The praiser who knows (चिकेत (*ciketa*)) your praise, he is सुक्रतुः (*sukratuḥ*), one of good works, देवत्रा (*devatrā*), among the gods, or in the midst of the praisers. Or else: among the gods, whoever knows the praise of you two alone, he is सुक्रतुः (*sukratuḥ*). May that doer of good works speak to us (ब्रवीतु (*bravītu*)), and teach the praise further. And the lovely Varuṇa, or Mitra (the word वा (*vā*) is in the sense of "and"), who accept (वनते (*vanate*), share in) our praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the praiser who
+- देवत्रा (*devatrā*)—firm among the gods
+- चिकेत (*ciketa*)—knows (the order of worship of Mitra and Varuṇa)
+- सः (*saḥ*)—he
+- सुक्रतुः (*sukratuḥ*)—is a performer of excellent works
+- यस्य (*yasya*)—of whichever praiser
+- गिरः (*giraḥ*)—the praises
+- दर्शतः (*darśataḥ*)—the lovely in form
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- वा (*vā*)—and
+- मित्रः (*mitraḥ*)—Mitra
+- वनते (*vanate*)—accept
+- सः (*saḥ*)—such a
+- doer of good works
+- नः (*naḥ*)—to us also
+- ब्रवीतु (*bravītu*)—may he teach that best path
+
+##### भावार्थ (Bhāvārtha)
+
+The praiser who knows the order of worship of Mitra and Varuṇa, who are firm among the gods, he is the excellent performer. May such a doer of good works, whose praises the lovely Varuṇa and Mitra accept, teach that best path to us also.
+
+##### English translation
+He who knows (how to honour you two), amongst the gods, is the performer of good works: let him communicate (that knowledge) to us, he of whom the graceful Varuna or Mitra accepts the laudation.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि श्रेष्ठ॑वर्चसा॒ राजा॑ना दीर्घ॒श्रुत्त॑मा  
+> ता सत्प॑ती ऋता॒वृध॑ ऋ॒तावा॑ना॒ जने॑जने ॥ २ ॥
+
+### Printed p. 37
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । श्रेष्ठवर्चसा । राजाना । दीर्घश्रुत्कतमा ।  
+> ता । सत्पती इति सत्पती । ऋत्यवृधा । ऋत्यवाना । जनेजने ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता हि तौ खलु मित्रावरुणौ श्रेष्ठवर्चसा प्रशस्ततेजस्क् राजानेश्वरौ
+> दीर्घश्रुत्तमा दूरदेशादाह्वानश्लोतृतमौ । ता तौ सत्पती सतां यजमानानां
+> स्वामिनावृतावृधा यज्ञस्योदकस्य वा वर्धयितार् जने जने सर्वॆषु स्तोतृषु
+> निमित्तेष्टृतावाना गमनवंत् ॥
+
+##### Gist of the bhāṣya
+
+ता हि (*tā hi*): those two, indeed, Mitra and Varuṇa, are श्रेष्ठवर्चसा (*śreṣṭhavarcasā*), of excellent splendour, राजाना (*rājānā*), lords, and दीर्घश्रुत्तमा (*dīrghaśruttamā*), best at hearing the call from a distant place. सत्पती (*satpatī*): they are the masters of the good, the sacrificers. ऋतावृधा (*ṛtāvṛdhā*): they cause the sacrifice, or the water, to grow. जने जने (*jane jane*): in all the praisers, on all occasions. ऋतावाना (*ṛtāvānā*): possessing motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रेष्ठ वर्चसा (*śreṣṭha varcasā*)—possessing the most excellent splendour
+- राजाना (*rājānā*)—lords
+- दीर्घ श्रुत्वामा (*dīrgha śrutvāmā*)—able to hear the call even from a distant place
+- ता (*tā*)—the well known
+- सत्पती (*satpatī*)—protectors of the sacrificers
+- ऋतावृधा (*ṛtāvṛdhā*)—causes of the growth of the sacrifice
+- ता ह (*tā ha*)—those same Mitra and Varuṇa
+- जने जने (*jane jane*)—for the good of every single person
+- ऋतावाना (*ṛtāvānā*)—are moving about
+
+##### भावार्थ (Bhāvārtha)
+
+Those same Mitra and Varuṇa, who possess the most excellent splendour, are lords, are able to hear the call even from a distant place, are the well-known protectors of the sacrificers and are the causes of the growth of the sacrifice, move about for the good of every single person.
+
+##### English translation
+They two, verily excelling in radiance, royal (deities), who hear (invocation s) from the greatest distance, lords of the virtuous, favourers of the sacrifice, are in movement (for the good of) each individual man.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वा॑मिया॒नोऽव॑से॒ पूर्वा॒ उप॑ ब्रुवे॒ सचा॑ ।  
+> स्वश्वा॑सः॒ सु चे॒तुना॒ वाजा॑ अ॒भि प्र दा॒वने॑ ॥ ३ ॥
+
+### Printed p. 38
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । इयानः । अवसे । पूर्व् । उप । ब्रुवे । सचा ।  
+> सुअश्वासः । सु । चेतुना । वाजान् । अभि । प्र । दावने ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ पूर्व पुरातन् नां युवामियानो गच्छन् अवसे रक्षणाय सचा
+> सहोप ब्रुवे । उपेत्य सौमि । स्वश्वासः स्वश्वा वयमात्रेयाः सुचेतुना शोभनप्रज्ञानौ युवां वाजानभि अन्नान्यभिलक्ष्य प्र प्रकर्षण दावने दानाय स्तुम इति
+> शेषः । यद्वा । स्वश्वासः सश्वा ॥ द्वितीयाद्विवचनस्य जसादेशः ॥ उप ब्रुव
+> इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+ता (*tā*), those two ancient (पूर्व (*pūrva*), old) ones; going (इयानः (*iyānaḥ*)) to you for protection (अवसे (*avase*)), I speak (उप ब्रुवे (*upa bruve*)) to you together, that is, I praise you, having approached. **NOTE** स्वश्वासः (*svaśvāsaḥ*): we of the Atri line, who have good horses; सुचेतुना (*sucetunā*): you two of good understanding. Aiming at food (वाजानभि (*vājānabhi*)), प्र (*pra*), greatly, for giving (दावने (*dāvane*)), we praise you; the verb स्तुम (*stuma*) is to be supplied. Or else स्वश्वासः (*svaśvāsaḥ*) means "having good horses", with the ending jas substituted for the accusative dual; it is connected with उप ब्रुव (*upa bruva*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—the well known
+- पूर्वौ (*pūrvau*)—and ancient
+- वां (*vāṃ*)—you two
+- अवसे (*avase*)—for protection
+- इयानः (*iyānaḥ*)—approaching
+- सचा (*sacā*)—both together
+- उप ब्रुवे (*upa bruve*)—I praise
+- स्वश्वासः (*svaśvāsaḥ*)—you who have excellent horses
+- सुचेतुना (*sucetunā*)—and have excellent understanding, you
+- वाजानभि (*vājānabhi*)—wishing for food
+- दावने (*dāvane*)—for the giving of that food
+- प्र (*pra*)—I praise exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, approaching you two, the well known and ancient, for protection, I praise both of you together. I extol you, who have excellent horses and excellent understanding, with exceeding praise for the sake of food.
+
+##### English translation
+Approaching you, ancient (divinities), I invoke you together for protection : possessed of good steeds, (we praise you) who are provident to give us food.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रो अं॒होश्चि॒दादु॒रु क्षया॑य गा॒तुं व॑नते ।  
+> मि॒त्रस्य॒ हि प्र॒तूर्व॑तः सुम॒तिरस्ति॑ विध॒तः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 31. Sukta 63 Rk 7 end; Sukta 64 Rks 1-4, Rk 5 samhita/pada (pp. 25-31)
+**Progress note:** Done through printed p. 38. Rk 5 bhashya to Sukta 65 Rk 4 samhita (pp. 32-38)
