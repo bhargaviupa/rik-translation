@@ -23677,6 +23677,260 @@ With the same (goodwill) that you bestow imperishable grain-seed upon a son or g
 
 O Maruts, we, abandoning sin through blessings of welfare, may pass beyond the revilers, the enemies who have come near; or else the word for "across" means "concealed", and the sense is that we may overcome them. By this the removal of what is unwelcome is prayed for; by what follows the attainment of what is desired is stated. When the rains impelled by you are present, may there be happiness, and the warding off of sins; and the waters, the word for waters here standing in the nominative plural by substitution. The remedy is that which is connected with cows. Although this word is a name for water, since the waters are named separately, the food produced by them is meant here. May we obtain all that together, O Maruts. Or else: may the waters impelled by you do all that has been said, and may we all be together, as your own.**NOTE**
 
+### Printed p. 650
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वस्तिभिः (*svastibhiḥ*)—by our auspicious rites (O Maruts)
+- अवद्यं (*avadyaṃ*)—sin
+- हित्वा (*hitvā*)—having abandoned
+- निदः (*nidaḥ*)—the reviling
+- तिरः (*tiraḥ*)—the hidden
+- अरातीः (*arātīḥ*)—enemies
+- अति इयाम (*ati iyāma*)—may we pass beyond
+- मरुतः (*marutaḥ*)—O Maruts
+- वृष्ट्वी (*vṛṣṭvī*)—by the rains impelled by you
+- शं (*śaṃ*)—happiness
+- योः (*yoḥ*)—freedom from sorrow
+- आपः (*āpaḥ*)—waters
+- उस्रि (*usri*)—connected with cows
+- भेषजं (*bheṣajaṃ*)—food
+- सह (*saha*)—together
+- स्याम (*syāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, by our auspicious rites may we abandon sin and pass beyond the enemies who are revilers and who lie hidden. O Maruts, through the rains impelled by you, may we obtain together happiness, freedom from sorrow, waters, and food connected with cows.
+
+##### English translation
+May we overcome our secret and reviling adversaries, having departed from iniquity by good deeds : may we possess, Maruts, through the rain (sent by you), unmixed happiness, water, cattle, and herbs.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒दे॒वः स॑महासति सु॒वीरो॑ नरो मरुतः॒ स मर्त्यः॑ ।  
+> यं त्राय॑ध्वे॒ स्याम॒ ते ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुदेवः । समह । असति । सुवीरः । नरः । मरुतः । सः । मर्त्यः ।  
+> यं । त्रायध्वे । स्याम । ते ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे समह । प्रशस्तवचनः समहशब्दः । हे पूजित मरुतां गण सुदेवः कल्याणमरुत्संज्ञकदेवोपेतोऽसति । भवति । हे नरो नेतारो हे मरुतः स मर्त्यः
+
+### Printed p. 651
+
+> सुवीरः शोभनपुत्राद्युपेतश्चासति । भवति । यं मर्त्यं त्रायध्वे पालयध्वे ।
+> एवं भवति ते वयं स्याम युष्मिदीयाः ॥
+
+##### Gist of the bhāṣya
+
+O Samaha: the word is one of praise. O revered troop of the Maruts, the man becomes one who has good gods, that is, he is endowed with the gods called Maruts who bring welfare. O leaders, O Maruts, that mortal also becomes one with good heroic sons and the like, whom you protect and guard. When this is so, may we be yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समह (*samaha*)—O revered Maruts
+- यं (*yaṃ*)—whichever man
+- त्रायध्वे (*trāyadhve*)—you protect
+- सः मर्त्यः (*saḥ martyaḥ*)—that man
+- सुदेवः (*sudevaḥ*)—becomes one favoured by the gods
+- असति (*asati*)—he is
+- नरः (*naraḥ*)—O leaders
+- मरुतः (*marutaḥ*)—O Maruts
+- सः (*saḥ*)—that same man
+- सुवीरः (*suvīraḥ*)—is endowed with heroic sons and the like
+- वयं (*vayaṃ*)—we also
+- ते (*te*)—belonging to you
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O revered Maruts, the man whom you protect becomes one favoured by the gods. O Maruts, leaders, that same man is endowed with heroic sons and the like. May we also, like him, remain under your protection.
+
+##### English translation
+Renowned (host of) Maruts, leaders (of rites), that mortal is favoured by the gods, and blessed with progeny, whom you protect : may we be such as he is.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒हि भो॒जान्तु॑ व॒तो अ॑स्य॒ याम॑नि॒ रण॒न्गावो॒ न यव॑से।  
+> य॒तः पूर्वा॑इव॒ सखी॒रनु॑ ह्वय गि॒रा गृ॑णीहि का॒मिनः॑ ॥१६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुहि । भोजान् । स्तुवतः । अस्य । यामनि । रणन् । गावः । न । यवसे ।  
+> यतः । पूर्वान् इव । सखीन् । अनु । ह्वयॆ । गिरा । गृणीहि । कामिनः ॥ १६ ॥
+
+### Printed p. 652
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋषे स्तुवतः स्तुतिं कुर्वतोऽस्य यजमानस्य यामनि यज्ञे भोजान्
+> दात्थन्मरुतः स्तुहि । गावो न यवसे । तृणादिभक्षणाय गच्छंत्यो गावो यथा
+> रमंते तद्वन्मरुतोऽपि रणन् । रमंतां । यतो गच्छतो मरुतः पूर्वान्
+> पुरातनान् सखीनिवानु ह्वय । आह्वय । कामिनः स्तुतीच्छावतो मरुतो गिरा
+> स्तुत्या गृणीहि । स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+O seer, praise the Maruts, the givers, in the sacrifice of this sacrificer who offers praise. As cows going to eat grass and the like take delight, so may the Maruts also take delight. Since the Maruts are going about, call them, as one calls old friends. Praise with a hymn the Maruts who desire praise.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तुवतः (*stuvataḥ*)—who offers praise (O seer)
+- अस्य (*asya*)—of this sacrificer
+- यामनि (*yāmani*)—in the sacrifice
+- भोजान् (*bhojān*)—the Maruts who are givers
+- स्तुहि (*stuhi*)—praise
+- यवसे (*yavase*)—going to eat grass and the like
+- गावो न (*gāvo na*)—like cows
+- रणन् (*raṇan*)—may they take delight
+- पूर्वान् (*pūrvān*)—long-cherished in friendship
+- सखीन् इव (*sakhīn iva*)—as one calls friends
+- यतः (*yataḥ*)—those who go about
+- अनु हृदय (*anu hṛdaya*)—call them**NOTE**
+- कामिनः (*kāminaḥ*)—those who desire praise
+- गिरा (*girā*)—with praise
+- गृणीहि (*gṛṇīhi*)—extol
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, in the sacrifice of this sacrificer who offers praise, praise the Maruts who are givers. May they take delight, like cows going to eat grass and the like. Call them, who are of a roving nature, as one calls friends of long-cherished friendship. Extol with praise those who desire praise.
+
+##### English translation
+Praise the givers of enjoyment, (the Maruts), at the sacrifice of this worshipper, (for they) delight in (pious praise), like cattle in fodder : where-fore call upon them as if upon old friends ; praise them, desirous of praise with a sacred hymn.
+
+## Sūkta 54 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र शर्धायेति पंचदशर्चं दशमं सूक्तं श्यावाश्वस्यार्षं मरुद्देवताकं ।
+> चतुर्दशी त्रिष्टुप् शिष्टा जगत्यः । प्र शर्धाय पंचोना जागतमुपांत्या त्रिष्टु-
+
+### Printed p. 653
+
+> बित्यनुक्रांतं ! सूक्तविनियोगो लैंगिकः । आद्यैंद्रामारुत्यां प्रधानस्य याज्या ।
+> सूत्रितं च । प्र शर्धाय मारुताय स्वभानव इत्यैंद्रीमनूच्य मारुत्या यजेत्!
+> आ. २-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is a sūkta of fifteen Ṛks, the tenth of the Anuvāka; its seer is Śyāvāśva, its deity the Maruts. The fourteenth Ṛk is in the Triṣṭubh metre, the rest in Jagatī, as the Anukramaṇī records. The use of the sūkta is by indication. The first Ṛk is the yājyā of the principal offering in the rite addressed to Indra and the Maruts. It is laid down in the sūtra: प्र शर्धाय मारुताय स्वभानव इत्यैंद्रीमनूच्य मारुत्या यजेत्! (*pra śardhāya mārutāya svabhānava ityaiṃdrīmanūcya mārutyā yajet!*) (Ā. Sū. 2-11).
+
+Translation: This sūkta, which opens with the dative word for "strength", is the tenth sūkta in the fourth Anuvāka. It contains fifteen Ṛks. The seer of this sūkta is Śyāvāśva; the deity is the Maruts; the fourteenth Ṛk of this sūkta is in the Triṣṭubh metre; the remaining Ṛks are in the Jagatī metre. In the Anukramaṇikā it is stated thus: प्र शर्धाय पंचोना जागतमुपांत्या त्रिष्टुप् (*pra śardhāya paṃconā jāgatamupāṃtyā triṣṭup*). The use of the sūkta is by indication. It is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, प्र शर्धाय मारुताय स्वभानव इत्यॆंद्रीमनूच्य मारुत्या यजेत् (*pra śardhāya mārutāya svabhānava ityèṃdrīmanūcya mārutyā yajet*) (Ā. Sū. 2-11), that the first Ṛk of this sūkta is to be recited as the yājyā mantra in the principal oblation made to the deities Indra and the Maruts.
+
+Sūkta: 54.
+Maṇḍala: 5. Anuvāka: 4. Sūkta: 54.
+Aṣṭaka: 4. Adhyāya: 3. Vargas: 14, 15, 16.
+Number of Ṛks in the sūkta: 15.
+Ṛṣi: Śyāvāśva Ātreya.
+Devatā: the Maruts.
+Chandas: 1–13, 15 Jagatī; 14 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शर्धा॑य॒ मारु॑ताय॒ स्वभा॑नव इ॒मां वाच॑मनजा  ॒॑
+> पर्वत॒च्युते॑ ।  
+> घ॒र्म॒स्तुभे॑ दि॒व आ पृ॑ष्ठ॒यज्ज॑ने द्यु॒म्नश्र॑वसे॒ महि॑ नृ॒म्मम॑र्चत ॥ १ ॥
+
+### Printed p. 654
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शर्धाय । मारुताय । स्वभानवे । इमां । वाचं । अनज । पर्वतच्युते ।  
+> घर्मस्तुभे । दिवः । आ, पृष्टयज्वने । द्युम्नश्रवसे । महि । नृम्मं । अर्चित ॥१॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र अनजेति संबंधः । मारुताय मरुत्संबंधिने शर्धाय बलायेमां
+> क्रियमाणां वाचं स्तुतिं प्रानज । प्रापय । स्वभानवे स्वायत्ततेजसे पर्वतच्युते
+> पर्वतस्य च्यानयित्रे घर्मस्तुभे घर्मस्य स्तोभयित्रे दिव आ द्युलोकादागच्छते
+> पृष्ठयज्वने षट् पृष्ठै रथंतरबृहदादिभिरीजानाय द्युम्नश्रवसे द्योतमानान्नाय महि महत् प्रभूतं नृम्मं धनं हविर्लक्षणमर्चत । ददतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Forth" is to be connected with "bring". Bring this praise that is being made to the strength of the Maruts: to the strength that is self-radiant, with a brilliance of its own; that makes the mountain fall (the cloud); that checks the heat; that comes from the heaven-world; that is worshipped with the six Pṛṣṭha chants, रथंतरबृहदादिभिरीजानाय (*rathaṃtarabṛhadādibhirījānāya*); and that has shining food. Offer much wealth in the form of oblation; this is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वभानवे (*svabhānave*)—to the self-luminous
+- पर्वतच्युते (*parvatacyute*)—to that which splits the cloud for the sake of rain
+- मारुताय (*mārutāya*)—belonging to the Maruts
+- शर्धाय (*śardhāya*)—to the strength in the form of a host
+- इमां (*imāṃ*)—this
+- वाचं (*vācaṃ*)—praise, now composed
+- प्र अनज (*pra anaja*)—offer
+- घर्मस्तुभे (*gharmastubhe*)—to that which removes heat
+- दिवः आ (*divaḥ ā*)—to that which comes from the sky
+- पृष्ठयज्वने (*pṛṣṭhayajvane*)—to that which is worshipped with the Pṛṣṭha praises
+- द्युम्नश्रवसे (*dyumnaśravase*)—to the host of the Maruts that has shining food
+- महि (*mahi*)—abundantly
+- नृम्मं (*nṛmmaṃ*)—wealth in the form of oblation
+- अर्चित (*arcita*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+Offer the praise now composed to the strength of the Maruts, in the form of a host, which is self-luminous and which splits the cloud for the sake of rain; to that which removes heat, which comes from the sky and which is worshipped with the Pṛṣṭha praises. To the host of the Maruts, which has shining food, offer wealth in the form of oblation abundantly.
+
+##### English translation
+Offer praise to the company of the Maruts, the self-irradiating, the precipitators of mountains : present liberal oblations to the assuagers of heat, to those who come from the sky, to whom solemn rites are familiar, to the givers of abundant food.
+
+### Printed p. 655
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ मरुतस्तवि॒षा उ॑द॒न्यवो॑ वयो॒वृधो॑ अश्व॒युजः॒  ॑
+> परि॑ज्रयः ।  
+> सं वि॒द्युता॒ दध॑ति॒ नाश॑ति त्रि॒तः स्वरं॒त्यापो॒ऽवना॒ परि॑ज्रयः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः मरुतः । तविषाः । उदन्यवः । वयैवृधः । अश्वयुजः । परिज्रयः ।  
+> सं । विद्युता । दधति । नाशति । त्रितः । स्वरंति । आपः । अवना । परिज्रयः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यां प्रथमस्याः पिंड्याः प्र वो मरुत इति याज्या । सूत्रितं च ।
+> प्र वो मरुतस्तविषा आ यं नरः । आ. २-१३ । इति ॥
+> हे मरुतो वो युष्माकं गणाः प्र प्रादुर्भवंति । कीदृशा गणाः । तविषा
+> दीप्ता महांतो वा उदन्यव उदकेच्छवो जगद्रक्षणार्थं वयोवृधोऽन्नस्य वर्धयितारोऽश्वयुजो गमनाय रथेऽश्वानां योक्तारः परिज्रयः परितो गंतारो
+> विद्युता सं दधति । संगच्छंते । तदानीं त्रितस्त्रिषु स्थानेषु तायमानो मेघो
+> मरुद्दणो वा नाशति । शब्दयति । अस्मिन्पक्षे संघवादोऽयः । तदापः परिज्रयः
+> परितो गंत्र्य आपोऽवनावनौ भूमौ स्वरंति । अधः पतंति ॥
+
+##### Gist of the bhāṣya
+
+In the Kārīrī rite, for the first of the offerings, this Ṛk is the yājyā. It is laid down in the sūtra: प्र वो मरुतस्तविषा आ यं नरः (*pra vo marutastaviṣā ā yaṃ naraḥ*) (Ā. Sū. 2-13). O Maruts, your troops appear. Of what kind are these troops? They are shining or great; desirous of water for the protection of the world; increasers of food; yokers of horses to the chariot for going; moving all round. They join with lightning. Then Trita, the cloud or the host of the Maruts, stretched out in the three places, sounds. In this view the word for host is used in an unusual way.**NOTE** Then the waters, flowing all round, fall down upon the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- तविषाः (*taviṣāḥ*)—exceedingly mighty
+- उदन्यतः (*udanyataḥ*)—pouring out water (for the world)**NOTE**
+- वयोवृधः (*vayovṛdhaḥ*)—causing increase of the wealth of food
+- वः (*vaḥ*)—your hosts
+- प्र (*pra*)—are excellent
+- अश्वयुजः (*aśvayujaḥ*)—with horses yoked to the chariot
+- परिज्रयः (*parijrayaḥ*)—moving everywhere
+- विद्युत्ता (*vidyuttā*)—with lightning
+- सं दधति (*saṃ dadhati*)—join together
+- त्रितः (*tritaḥ*)—the host of the Maruts (or the cloud), present in the three places
+- नाशति (*nāśati*)—makes a noise
+- परिज्रयः (*parijrayaḥ*)—spreading everywhere and flowing
+- आपः (*āpaḥ*)—waters
+- अवना (*avanā*)—upon the earth
+- स्वरंति (*svaraṃti*)—fall and flow
+
 ---
 
-**Progress note:** Done through printed p. 649. Sukta 53: Rasa/Sarama notes, Rks 10-14
+**Progress note:** Done through printed p. 655. Sukta 53 Rks 14-15 end, Sukta 54 Rks 1-2
