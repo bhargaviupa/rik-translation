@@ -20356,6 +20356,148 @@ Here the praise of the Aśvin gods, who wear lotus garlands, occurs. In this pra
 
 In this way the description that Agni, who is of the form of the lotus, obtained his existence in the lotus shows, in the present mantra, the nature of the lotus, which is the supporter of the whole world and the bearer of the world.
 
+### Printed p. 594
+
+In this lotus, which is the bearer and supporter of the universe, the statement that the seer Atharvan churned Agni and brought him forth carries a spiritual purport. Who is this seer Atharvan? Is he born of a divine portion, or does he belong merely to the company of men? This matter must be considered. The Taittirīya Saṃhitā tells of the seer Atharvan in this way:
+
+प्रजाप्रतिर्वा अथर्वाग्निरेव दध्यज्ञाथवर्णस्तस्येष्टका । (*prajāpratirvā atharvāgnireva dadhyajñāthavarṇastasyeṣṭakā |*) (Tai. Saṃ. 5-6-6-3)
+
+Here it is stated that Atharvan is Prajāpati and that his son Dadhīci is Agni. When the nature of the lotus was described above, it was told how Prajāpati, before the creation of the universe, standing in the water, made the lotus the support of his creation. The explanation of the present mantra is that this very Prajāpati, the creator, being designated Atharvan, churned Agni and brought him forth. The same matter of Atharvan's churning of Agni is also stated by reciting this very mantra (Tai. Saṃ. 3-5-11-3). In all the Upaniṣads Atharvan is very famous as a knower of Brahman.
+
+ओं ब्रह्मा देवानां प्रथमः संबभूव विश्वस्य कर्ता भुवनस्य गोप्ता । स ब्रह्मविद्या सर्वविद्यांप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह ॥ अथर्वणे यां प्रवदेत ब्रह्माधर्वा तां पुरोवाचांगिरे ब्रह्मविद्यां ॥ (*oṃ brahmā devānāṃ prathamaḥ saṃbabhūva viśvasya kartā bhuvanasya goptā | sa brahmavidyā sarvavidyāṃpratiṣṭhāmatharvāya jyeṣṭhaputrāya prāha ‖ atharvaṇe yāṃ pravadeta brahmādharvā tāṃ purovācāṃgire brahmavidyāṃ ‖*) (Mu. U. 1-1-1) **NOTE**
+
+Among all the gods Brahmā came into being first. He became the maker of the whole universe and its protector. Brahmā taught the knowledge of Brahman, the support of all knowledge, to his eldest son Atharvan. Atharvan afterwards taught it to the seer Aṅgirā. Thus in many ways Atharvan is praised as the very source of all the knowledge of Brahman that has come to men. The matter described in the present mantra is explained in the Śatapatha as follows.
+
+अथर्वा त्वा प्रथमो निरमंथदग्न इति प्राणो वा अथर्वा प्राणो ना एतमग्ने निरमंथत्तद्योऽसावग्रेऽग्निरसृज्यत । त्वामग्ने पुष्करादथर्वा निरमंथतेत्यापो वै पुष्करं........ .... वाघतः सर्वस्य मूर्ध्न इत्येतत् । (*atharvā tvā prathamo niramaṃthadagna iti prāṇo vā atharvā prāṇo nā etamagne niramaṃthattadyo 'sāvagre 'gnirasṛjyata | tvāmagne puṣkarādatharvā niramaṃthatetyāpo vai puṣkaraṃ........ .... vāghataḥ sarvasya mūrdhna ityetat |*) (Śa. Brā. 6-4-2-1, 2)
+
+Agni is the supporter of all. It was Atharvan who first caused this Agni to be born. Atharvan is of the form of the vital breath. This vital breath became the means of the churning of fire. The lotus which is praised in the statement that he caused Agni to appear from the lotus is the water. Atharvan, who is of the form of the vital breath
+
+### Printed p. 595
+
+caused Agni to be born from the water: thus an account containing a spiritual secret is given. Another special point must also be noticed. The words वाघतः सर्वस्य मूर्ध्न इत्येतत् (*vāghataḥ sarvasya mūrdhna ityetat*) mean that he caused him to appear from the head of each sacrificer and from the head of the universe itself.
+
+Since Atharvan was the cause of the first appearance of Agni after the time of creation, all who perform sacrificial rites follow the procedure that Atharvan followed.
+
+इममु त्यमथर्ववदग्निं मंथंति वेधसः । यमंकूयंतमानयन्नमूरं श्याव्याभ्यः ॥ (*imamu tyamatharvavadagniṃ maṃthaṃti vedhasaḥ | yamaṃkūyaṃtamānayannamūraṃ śyāvyābhyaḥ ‖*) (Ṛ. Saṃ. 6-15-17)
+
+In the manner in which Atharvan formerly churned this wise and intelligent Agni and caused him to be born, the other priests too, following the same rule, perform the act of churning fire: thus Atharvan's quality of being a guide is praised.
+
+अग्निर्जातो अथर्वणा विदद्विश्वानि काव्या । भुवद्दूतो विवस्वतो वि वो मदे प्रियो यमस्य काम्यो विवक्षसे ॥ (*agnirjāto atharvaṇā vidadviśvāni kāvyā | bhuvaddūto vivasvato vi vo made priyo yamasya kāmyo vivakṣase ‖*) (Ṛ. Saṃ. 10-21-5)
+
+Agni, born from Atharvan's act of churning, knows all the acts of praise. In praising him as the messenger of all sacrificers and a benefactor of the world, there is praise of the seer Atharvan as the cause of this benefit to the world. That this same Atharvan was the cause and guide of the world's progress on the path of truth is praised in sentences such as “ यज्ञैरथर्वा प्रथमो वि धारयद्देवा दक्षैर्भृगवः सं चिकित्रिरे (*yajñairatharvā prathamo vi dhārayaddevā dakṣairbhṛgavaḥ saṃ cikitrire*) ” (Ṛ. Saṃ. 10-92-10) and others. Moreover:
+
+यज्ञैरथर्वा प्रथमः पथस्तते ततः सूरो व्रतपा वेन अजनि । आ गा आजदुशना काव्यः सचा यमस्य जातममृतं यजामहे ॥ (*yajñairatharvā prathamaḥ pathastate tataḥ sūro vratapā vena ajani | ā gā ājaduśanā kāvyaḥ sacā yamasya jātamamṛtaṃ yajāmahe ‖*) (Ṛ. Saṃ. 1-83-5)
+
+When the Paṇis stole the cows, the seer named Atharvan performed a sacrifice addressed to Indra. With the help of that sacrifice he found, before all others, the paths by which the cows had been carried off. Then Indra, the guardian of vows, the radiant one, appeared in the form of the sun to show the way. With this help Atharvan recovered the cows. In such ways too Atharvan's benefit to the world is praised.
+
+### Printed p. 596
+
+It is praised in the Atharvaveda that this great-souled Atharvan lives in the world of heaven as a friend of the gods (A. Ve. 4-1-7) **NOTE**. Because Atharvan had such greatness, the sacrificial fire born from him is also designated by this very name.
+
+आ नूनमश्विनोर्यषिः स्तोमं चिकेत वामया । आ सोमं मधुमत्तमं घर्म० सिंचादथर्वणि ॥ (*ā nūnamaśvinoryaṣiḥ stomaṃ ciketa vāmayā | ā somaṃ madhumattamaṃ gharma0 siṃcādatharvaṇi ‖*) (Ma. Sa. 8-9-7) **NOTE** **GLOSS**
+
+In sentences such as this it is stated that Agni too, since he was churned out by Atharvan, is praised as Atharvan himself. The Nirukta authors have given the explanation of the word अथर्वन् (*atharvan*) in this way.
+
+“ अधर्वाणोऽथनवंतः । धर्वतिच्चरतिकर्मा तत्पतिषेधः (*adharvāṇo 'thanavaṃtaḥ | dharvaticcaratikarmā tatpatiṣedhaḥ*) ” (Ni. 11-19)
+
+The purport is that they are those who have no ever-moving, wandering way, that is, they are steady in nature, not of fickle disposition, masters of the Self: thus the nature of Atharvan and of his line is told. The greatness of this great seer is praised in the Purāṇas and elsewhere in this way.
+
+ततः स भगवांस्तत्र अंगिराः समदृश्यत । अथर्ववेदमंत्रैश्च देवेंद्रं समपूजयत् ॥ ततस्तु भगवानिंद्रः संहृष्टः समपद्यत । वरं च प्रददौ तस्मै अथर्वांगिरसे तदा ॥ अथर्वांगिरसं नाम वेदेऽस्मिन्वै भविष्यति । उदाहरणमेतद्धि यज्ञभागं च लप्स्यसे ॥ (*tataḥ sa bhagavāṃstatra aṃgirāḥ samadṛśyata | atharvavedamaṃtraiśca deveṃdraṃ samapūjayat ‖ tatastu bhagavāniṃdraḥ saṃhṛṣṭaḥ samapadyata | varaṃ ca pradadau tasmai atharvāṃgirase tadā ‖ atharvāṃgirasaṃ nāma vede 'sminvai bhaviṣyati | udāharaṇametaddhi yajñabhāgaṃ ca lapsyase ‖*) (Mahābhārata, U. Pa. 18-5 to 7) **NOTE**
+
+Then the sage Aṅgiras stood before Indra and praised Indra with the mantras of the Atharvaveda. Indra was thereby delighted and said to that great seer: "Let this be the sign that in the Atharvaveda there will be a part called Atharvāṅgirasa and that you are the seer of that mantra. You will receive the chief share in the sacrifice." So he is praised.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा द॒ध्यज्जृषिः॑ पु॒त्र ई॑धे॒ अथ॑र्वणः ।  
+> वृ॒त्र॒हणं॑ पुरंद॒रं ॥ १४ ॥
+
+### Printed p. 597
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । त्वा । दध्यज् । ऋषिः । पुत्रः । ईधे । अथर्वणः ।  
+> वृत्रहनं । पुरंदरं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने य उक्तगुणस्तमु तमेव त्वामथर्वणः पुत्रो दध्यज् एतत्संज्ञ
+> ऋषिरीधे । दीपितवान् । कीदृशं । वृत्रहणमावरकाणां शत्रूणां हंतारं पुरंदरमसुरपुराणां दारयितारं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, that very you, of the qualities stated, Dadhyañc by name, the seer, the son of Atharvan, kindled, that is, caused to blaze. Of what kind? वृत्रहणं (*vṛtrahaṇaṃ*), the slayer of the enemies who are obstructers, and पुरंदरं (*puraṃdaraṃ*), the splitter of the cities of the Asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहणं (*vṛtrahaṇaṃ*)—the slayer of Vṛtrāsura
+- पुरंदरं (*puraṃdaraṃ*)—the destroyer of the cities of enemies
+- तमु त्वा (*tamu tvā*)—that very you
+- अथर्वणः (*atharvaṇaḥ*)—of the seer Atharvan
+- पुत्रः (*putraḥ*)—the son
+- दध्यज् (*dadhyaj*)—named Dadhīci
+- ऋषिः (*ṛṣiḥ*)—the seer
+- ईधे (*īdhe*)—caused to blaze
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, that very you, the slayer of Vṛtrāsura and the destroyer of the cities of enemies, the seer Dadhīci, son of the seer Atharvan, caused to blaze.
+
+##### English translation
+The Rishi, Dadhyanch, the son of Atharavan, kindled the slayer of Vritra, the destroyer of the cities of the Asuras.
+
+##### विशेषविषयगळु (Special Topics)
+
+Dadhyañc the seer: the seer called Dadhyañc or Dadhīci is famous in the Purāṇas and elsewhere. The commentator tells a story here. While the seer Dadhyañc, the son of one called Atharvan, was alive, the Asuras fled in fear at the mere sight of him. After he died and went to heaven, the Asuras spread fearlessly over the whole earth. Then Indra, unable to fight these Asuras, looked for that seer. It became known that the seer had gone to heaven. Then Indra asked those who were near whether any remnant of the seer's limbs was left, and they said that only the skull of the horse's head, with which Dadhīci had once taught the Madhu-vidyā to the Aśvin gods, remained, and that where even that was, they did not know. When Indra then told them to search for it, they found it lying in the lake called Śaryaṇāvat near Kurukṣetra
+
+### Printed p. 598
+
+and brought it. With the bones of that skull Indra conquered the Asuras. That is, he made the magical net of the Asuras fail "nine times", that is, eight hundred and ten times. Here, in explaining the number "nine times ninety", the commentator says: To conquer the gods who are in the three worlds, the Asuras at first had three kinds of magical divisions. Since each of these was of three kinds, present, past and future, there were nine kinds in all. Again, these nine magics, combined with the three powers beginning with energy, became 9 × 3 = 27. Again, combined with the three qualities beginning with sattva, they became 27 × 3 = 81. Since these eighty-one magics are practised in the ten directions, the total became 81 × 10 = 810, or "nine times ninety", 9 × 90 = 810. Indra rendered useless in this way the magical nets of the Asuras, who are of the form of Vṛtra: so he explains (Ṛ. Saṃ. 1-80-16).
+
+Skandasvāmin tells another story. Formerly there were Asuras called Kālakañjas. Becoming powerful, they killed the gods and caused them great trouble. Then the gods went to Brahmā and prayed that he would tell them a means of destroying these Asuras. Brahmā said: "O gods, there is a seer named Dadhyañc. Go near him. He will tell you a suitable means for the destruction of the Asuras." The gods, as Brahmā had said, went to the seer Dadhīci and reported that Brahmā had sent them. That seer, knowing by yogic vision the purpose for which they had come, gave up his vital breaths in yogic trance. Then Indra destroyed the Asuras with the bones of that seer. Skandasvāmin explains that this very matter is described in this Ṛk (Ṛ. Saṃ. 1-80-16).
+
+It is traditionally said that the head of the seer Dadhīci was like a horse's head and that it had been given to him by the Aśvin gods. After the seer Dadhīci died, Indra searched for his head, which was like a horse's head. It is explained in Ṛ. Saṃ. 1-84-13 that it was found hidden behind a mountain in a lake called Śaryaṇāvat.
+
+On the question how the seer Dadhīci came to have a horse's head, Skandasvāmin tells an earlier story. Indra taught the seer Dadhīci, son of Atharvan, the nature of the Supreme Brahman called Madhu, and said that he must not tell it to anyone and that if he did tell it, his head would fall off. After some time the Aśvin gods came near that seer Dadhīci and asked him to explain the nature of Brahman that Indra had taught him. The seer Dadhīci said to them that Indra had said that if he told them this matter his head would fall off, and that out of that fear
+
+### Printed p. 599
+
+he would not tell. The Aśvin gods said: "Do not worry about that. If your head falls off, we shall give you another head." Dadhīci agreed and told them. Then, when the head of the seer Dadhīci fell off, the Aśvin gods cut off the head of a horse, brought it and joined it to the body of the seer Dadhīci. Thus it is described that the head of the seer Dadhīci is like the head of a horse. The seer Kakṣīvān describes this matter in the Ṛks Ṛ. Saṃ. 1-116-12 and 1-117-22.
+
+The name of this seer is mentioned in the Ṛgveda Saṃhitā in the Ṛks 1-80-16; 1-84-13; 1-84-14; 1-116-12; 1-117-22; 1-119-9 and others, and in the Taittirīya Saṃhitā 5-1-4-4; 5-6-6-3, the Kāṭhaka Saṃhitā 19-4, the Śatapatha Brāhmaṇa 4-1-5-18; 6-4-2-3; 14-1-1-18; 14-1-1-20; 14-1-1-25; 14-1-4-13, and the Bṛhadāraṇyaka Upaniṣad 2-5-22; 4-5-28 and other places.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा प्रा॒ध्यो वृषा॒ समि॑धे दस्यु॒हंत॑मं ।  
+> ध॒नं॒ज॒यं रणे॑रणे ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । त्वां । पाथ्यः । वृषा । सं । ईधे । दस्युहन्तमं ।  
+> धनंजयं । रणेरणे ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पाथ्यो वृषा नाम कश्चिदृषिः तमु तमेव त्वा त्वां हे अग्ने समिधे ।
+> समैंध । समदीपयत् । कीदृशं । दस्युहंतममतिशयेन दस्यूनामुपक्षपयित्यणां शत्रोणां हंतारं रणे रणे युद्धे युद्धे धनंजयं धनानां जेतारं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Pāthya Vṛṣan is the name of a certain seer. O Agni, that very you he kindled, that is, caused to blaze. Of what kind? दस्युहंतमं (*dasyuhaṃtamaṃ*), in the highest degree the slayer of the enemies **NOTE**, and धनंजयं (*dhanaṃjayaṃ*), the winner of riches in every battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्युहंतमं (*dasyuhaṃtamaṃ*)—the destroyer of enemies
+- रणेरणे (*raṇeraṇe*)—in every battle
+- धनंजयं (*dhanaṃjayaṃ*)—the winner of wealth
+- तमु त्वा (*tamu tvā*)—that very you
+- पाथ्यः (*pāthyaḥ*)—the son of Pathya
+- वृषा (*vṛṣā*)—the seer named Vṛṣan
+- समाधे (*samādhe*)—caused to blaze exceedingly
+
 ---
 
-**Progress note:** Done through printed p. 593. pp. 587-593 puṣkara, Agni and Vasiṣṭha, Brāhmaṇa passages
+**Progress note:** Done through printed p. 599. pp. 594-599 Atharvan, Dadhyañc, Ṛk 14, 15 start
