@@ -2,7 +2,7 @@
 """State of the bhāṣya-English run, read from the repository (no state file).
 
     python3 tools/rv/bhashya_run.py status          # per volume: sūktas done / total
-    python3 tools/rv/bhashya_run.py next [K]        # the next K sūktas without a verified English file (default 1)
+    python3 tools/rv/bhashya_run.py next [K] [VOL]  # the next K sūktas without an English file (default 1), of one volume if VOL is given
     python3 tools/rv/bhashya_run.py verify VOL M.S  # the check for one sūkta; exit 0 only on VERIFIED
 
 A sūkta is done when volN/bhashya_en/M<m>_S<sss>.md exists and passes publish/bhashya_check.py.
@@ -54,6 +54,7 @@ def main():
     if cmd == 'status':
         print(f'Total: {done} of {tot}; to do: {len(todo)}'); return 0
     k = int(sys.argv[2]) if len(sys.argv) > 2 else 1
+    if len(sys.argv) > 3: todo = [t for t in todo if t[0] == int(sys.argv[3])]
     for v, ms in todo[:k]: print(v, ms)
     if not todo: print('ALL DONE')
     return 0
