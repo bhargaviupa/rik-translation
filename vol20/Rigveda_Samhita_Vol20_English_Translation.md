@@ -4604,6 +4604,259 @@ Invincible Aswins, lords of water, favour Avasyu, glorifying you at this sacrifi
 > आयो॑जि वां वृषण्वसू॒ रथो॑ दस्रा॒वम॑र्त्यो॒ माध्वी॒ मम॑ ॒ ॑
 > श्रुतं हवं ॥ ९ ॥
 
+### Printed p. 123
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूत् । उषाः । रुशत्पशुः । आ । अग्निः । अधायि । ऋत्वियः ।  
+> अयोजि । वां । वृवण्वसू इति वृषण्वसू । रथः । दस्त्रौ । अमत्यर्घः । माध्वी इति ।  
+> मम । श्रुतं । हवं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषा व्युष्टिरभूत् । अग्निश्च रुशत्पशुर्दिप्तपशुमान् । प्रकाशितहविरित्यर्थः ।
+> अथवा पशवः किरणाः । रुशद्रश्मिः सन् आधायि । वेद्यामधीयत अग्निराहवनीय
+> ऋत्विय ऋत् काले भवः । हे वृषण्वसू प्रदत्तधनौ हे दस्रौ नां युवयोरमर्त्योऽमरणधर्मा ध्रुवो रथोऽयोजि । अश्वैर्युक्तो भवत्त्व्यर्थः ॥ छंदसि
+> लुङ्लज्जिट इत्यनेकेष्वर्थेषु लुज् भवति। इह प्रार्थनायां॥ माध्वी इत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+The dawn, that is, the break of day, has come. Agni too is रुशत्पशुः (*ruśatpaśuḥ*): he has shining animals, that is, his oblation is made bright. Or else, "animals" are rays: having shining rays, he has been placed on the altar. This is the Āhavanīya fire, born at the proper season. O showerers of wealth, who give wealth, O Dasras, your immortal chariot, whose nature is not to die, and which is steady, has been yoked; the meaning is that it should be yoked with horses. Here the aorist is used in the sense of a prayer. The meaning of "mādhvī" and the rest has been given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषाः (*uṣāḥ*)—the goddess Dawn
+- अभूत् (*abhūt*)—has appeared
+- ऋत्वियः (*ṛtviyaḥ*)—who appears in accordance with the season
+- रुशत्पशुः (*ruśatpaśuḥ*)—who has a shining flame; Agni
+- अधायि (*adhāyi*)—has been established on the altar
+- वृषण्वसू (*vṛṣaṇvasū*)—givers of wealth
+- दस्रौ (*dasrau*)—who have a form fair to see, O Aśvin deities
+- वां (*vāṃ*)—your
+- अमत्यर्‍यः (*amatyaryaḥ*)—indestructible
+- रथः (*rathaḥ*)—chariot
+- अयोजि (*ayoji*)—is yoked with horses
+- माध्वी (*mādhvī*)—O Aśvin deities, skilled in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen, giving ear
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Dawn has appeared. Agni, who appears in accordance with the season and has a shining flame, has been established on the altar. O Aśvin deities, givers of wealth, who have a form fair to see, your steady chariot is yoked with horses. O Aśvin deities, skilled in the madhuvidyā, give ear to my invocation.
+
+##### English translation
+The dawn has come: the Agni of the season, blazing with the oblation, has been placed (upon the altar): showerers of wealth, subduers of foes, your immortal chariot has been harnessed: masters of mystic lore, hear my invocation.
+
+### Printed p. 124
+
+## Sūkta 76 (Maṇḍala 5)
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ भात्यग्निरिति पंचर्चं चतुर्थं सूक्तं भौमस्यात्रेरार्षं त्रैष्टुभमाश्विनं।
+> अत्रानुक्रमणिका । आ भाति पंचात्रिरिति ॥ प्रवर्ग्येऽभिष्टवार्धमिदं सूक्तं । सूत्रितं
+> च । आ भात्यग्निर्ग्राणेव । आ. ४-६ । इति ॥ प्रातरनुवाक अश्विने क्रत्वा त्रैष्टुभे
+> छंदस्याश्विनशस्त्रे चेदमादिके द्वे सूक्ते । सूत्यते हि । आ भात्यग्निरिति सूक्ते ।
+> आ. ४-१५ । इति ॥ अपोर्यामे होतुरतिरिकोक्ष्य इदं सूक्तं । सूत्रितं च ।
+> आ भात्यग्निः क्षेत्रस्य पतिना वयमिति परिधानीया । आ. ९-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning आ भात्यग्निः (*ā bhātyagniḥ*), is the fourth sūkta; it has five Ṛks. It belongs to Atri Bhauma as seer; its deity is the Aśvins and its metre is Triṣṭubh. The Anukramaṇikā says आ भाति पंचात्रिः (*ā bhāti paṃcātriḥ*). This sūkta is used in the Pravargya for the praise; and it is prescribed in the sūtra आ भात्यग्निर्ग्राणेव (*ā bhātyagnirgrāṇeva*) (Ā. 4-6). In the morning recitation and in the Aśvina-śastra, in the Triṣṭubh metre of the Aśvina rite, this and the next are the two sūktas; it is prescribed in the sūtra आ भात्यग्निरिति सूक्ते (*ā bhātyagniriti sūkte*) (Ā. 4-15). In the Aporyāma it is to be recited by the Hotṛ as the atiriktokthya; and the sūtra says आ भात्यग्निः क्षेत्रस्य पतिना वयमिति परिधानीया (*ā bhātyagniḥ kṣetrasya patinā vayamiti paridhānīyā*) (Ā. 9-11).
+
+##### Anuvāda
+
+This sūkta, beginning आ भात्यग्निः (*ā bhātyagniḥ*), is the fourth sūkta in the sixth anuvāka; it contains five Ṛks. The seer of this sūkta is a man named Atri Bhauma, who saw it in the maṇḍala; the deity is the Aśvins; the metre is Triṣṭubh. In the Anukramaṇikā it is said आ भाति पंचात्रिः (*ā bhāti paṃcātriḥ*). The use of this sūkta in the sacrifice called Pravargya is for the praise; this is explained by the sūtra आ भात्यग्निर्ग्राणेव (*ā bhātyagnirgrāṇeva*) (Ā. 4-6) of the Āśvalāyana Śrauta Sūtra. For the Prātaranuvāka and for the Triṣṭubh mantras connected with the Aśvina rite, this sūkta and the next sūkta have a use; this is explained by the sūtra आ भात्यग्निरिति सूक्ते (*ā bhātyagniriti sūkte*) (Ā. 4-15) of the Āśvalāyana Śrauta Sūtra. And for the recitation of the mantra called atiriktokthya, which the Hotṛ recites in the sacrifice called Aporyāma, this sūkta has a use; this is explained by the sūtra आ भात्यग्निः क्षेत्रस्य पतिना वयमिति परिधानीया (*ā bhātyagniḥ kṣetrasya patinā vayamiti paridhānīyā*) (Ā. 9-11) of the Āśvalāyana Śrauta Sūtra.
+
+##### Particulars of the sūkta
+
+- Sūkta 76
+- Maṇḍala 5; Anuvāka 6; Sūkta 76
+- Aṣṭaka 4; Adhyāya 4; Varga 17
+- Number of Ṛks in the sūkta: 5
+- Seer: अत्रिः (*atriḥ*)
+- Deity: आश्विनौ (*āśvinau*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ भा॑त्य॒ग्नि रु॒षसा॒मनी॑क॒मुद्वि प्रा॑णां देव॒या वाचो॑ अस्थुः ।  
+> अ॒र्वांचा॑ नू॒नं र॑थ्ये॒ह या॑तं पीपि॒वांस॑मश्विनाघ॒र्ममच्छ॑ ॥
+
+### Printed p. 125
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । भाति । अग्निः । उषसां । अनेकं । उत् । पिप्राणां । देवयाः । वाचः । अस्तुः ।  
+> अर्वांचा । नूनं । रथ्या । इह । यातं । पीप्सिवांसं । अश्विना । घर्म० । अच्छ ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषसामनीकमनीकभूतः । अनीकं मुखं । उषसि प्रबुध्यमान इत्यर्थः ।
+> तादृशोऽग्निरा भाति । दीप्यते । यद्वा । उषसां मुखमा भाति । दीपयति । उषःकाले ह्यग्नयः प्रतिबोध्यंते । किंच विप्राणां मेधाविनां स्तोत्कृणां देवया
+> देवकामा वाचः स्तोत्राण्युदस्थुः । उत्तिष्ठंति । यस्मादेवं तस्मात् हे रथ्या
+> रथस्वामिनावश्विनावर्वांचास्मदभिमुखांचन् नूनमद्यास्मिन्यागदिन इहा यातं । कं
+> प्रति । पीपिवांसं स्वांगैः परिवृढं घर्मं प्रदीप्तं यज्ञं । यद्वा । पीपिवांसमाप्यायितं वसतीवरीभिः क्षरद्रूपं सोमरसं । अथवा धृतादिना पीपिवांसं
+> घर्मं प्रवर्ग्यमच्छाभिलक्ष्येह यातं । प्रवर्ग्येऽस्य सूक्तस्य विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is the face of the dawns, that is, who is awakened at dawn, shines; or else he lights up the face of the dawns, for at the time of dawn the fires are kindled. Moreover, the speeches, that is, the hymns, of the wise praisers, which long for the gods, have risen up. Since this is so, O Aśvins, lords of the chariot, turned toward us, come here today, to this day of the sacrifice. Come to what? To the घर्मं (*gharmaṃ*) that is kindled, the sacrifice, which is full with all its parts; or else to the Soma juice that has swollen, flowing with the vasatīvarī waters; or else, swollen with ghee and the like, to the Pravargya, the ghārma. The use of this sūkta is in the Pravargya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- उषसां (*uṣasāṃ*)—of the dawn goddesses
+- अनेकं (*anekaṃ*)—the divine faces
+- आ भाति (*ā bhāti*)—has made to shine
+- विप्राणां (*viprāṇāṃ*)—of the wise poets
+- देवयाः (*devayāḥ*)—which praise the gods
+- वाचः (*vācaḥ*)—the hymns
+- उत् अस्थुः (*ut asthuḥ*)—have shone forth
+- रथ्या (*rathyā*)—who are lords of the chariot
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नूनं (*nūnaṃ*)—in this sacrifice**NOTE**
+- पीपिवांसं (*pīpivāṃsaṃ*)—which is full with all its materials
+- घर्म० (*gharma0*)—which is kindled
+- इह (*iha*)—to this sacrifice
+- अच्छ अर्वांचा (*accha arvāṃcā*)—turned toward us
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+Agni has appeared and has made the divine faces of the dawn goddesses shine. The wise poets have made and brought to light hymns that praise the gods. O Aśvin deities, lords of the chariot, on this day of the sacrifice come, turned toward us, to this sacrifice, which is full with all its materials and kindled.
+
+##### English translation
+Agni lights up the face of the dawns: the devout praisers of the pious have risen up : therefore, Aswins, lords of the chariot, descending, come hither to-day to the splendid sacrifice, perfect (in all its parts).
+
+### Printed p. 126
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न सं॑स्कृ॒तं प्र मि॑मातो॒ गमि॒ष्ठांति॑ नू॒नम॒श्विनोप॑स्तु ते॒ह ।  
+> दिवा॑भिपि॒त्वेऽव॒साग॑मिष्ठा॒ प्रत्यव॑र्तिं दा॒शुषे॒ शंभ॑विष्ठा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । संस्कृतं । प्र । मिमातः । गमिष्ठा । अंति । नूनं । अश्विना । उपस्तुता । इह ।  
+> दिवा । अभिपित्वे । अवसा । आगमिष्ठा । प्रति । अवर्तिं । दाशुषे । शंभविष्ठा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्विनौ संस्कृतं घर्मं न प्र मिमितः । न हिंसां । किंतु अंत्यंतिके
+> घर्मसमीपे नूनमिदानीमिह यज्ञे गमिष्णा गंतृतमावश्विनाश्विनावुपस्तुतोपस्तुतौ भवतः । दिवाभिपित्वे दिवसस्याभिपतने प्रातःकालेवसा रक्षणेन सहागमिष्ठागंतृतमौ । अवर्तिं प्रति द्वंद्वभूत् । वर्तिर्जीवनं । तदभावोऽवर्तिः । तद्रहितमन्नं
+> यथा भवति तथागंतृतमौ । आगत्य च दाशुषे हविर्दत्तवते यजमानाय शंभविषा
+> सुखस्य भावयितारौ भवतां ॥
+
+##### Gist of the bhāṣya
+
+The Aśvins do not diminish the perfected ghārma; they do not harm it. Rather, near it, now, here in the sacrifice, may they, O Aśvins, who are most inclined to come, be praised. At the break of the day, that is, at the morning time, may you be most inclined to come with protection. Toward अवर्तिं (*avartiṃ*)**NOTE**: "varti" is livelihood, and "avarti" is its absence; come so that food is free of it. And having come, be producers of happiness for the sacrificer who has given the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- संस्कृतं (*saṃskṛtaṃ*)—this ghārma, which has been prepared and made ready
+- न प्र मिमीतः (*na pra mimītaḥ*)—do not destroy
+- इह अंति (*iha aṃti*)—in this part of the sacrifice
+- नूनं (*nūnaṃ*)—now
+- गमिष्ठा (*gamiṣṭhā*)—having come
+- उपस्तुता (*upastutā*)—be worthy of praise
+- दिवा अभिपित्वे (*divā abhipitve*)—at the beginning of the day
+- अवर्तिं प्रति (*avartiṃ prati*)—which checks poverty
+- अवसा (*avasā*)—with protection
+- आगमिष्ठा (*āgamiṣṭhā*)—having come
+- दाशुषे (*dāśuṣe*)—to the sacrificer who gives the oblation
+- शंभविष्ठा (*śaṃbhaviṣṭhā*)—be givers of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, do not destroy this ghārma (the sacrifice called Pravargya), which has been prepared and made ready. Come to this sacrifice and be worthy of our praise. At the beginning of the day, come with protection that checks poverty and be givers of happiness to the sacrificer who gives the oblation.
+
+### Printed p. 127
+
+##### English translation
+Harm not, Aswins, the perfected (rite), but coming now most quickly, be glorified on this occasion : be present at the opening of the day, with protection against destitution, and be prompt to bestow happines upon the donor (of the offering).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ता या॑तं संग॒वे प्रा॒तरह्नो॑ म॒ध्यंदि॑न॒ उदि॑ता॒ सूर्य॑स्य ।  
+> दिवा॒ नक्त॒मव॑सा॒ शंत॑मेन॒ नेदानीं॑ पी॒तिर॒श्विना त॑तान ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । आ । यातं । संगवे । प्रातः । अह्नः। मध्यंदिने । उत् इता । सूर्यस्य ।  
+> दिवा । नक्तं । अवसा । शंतमेन। न। इदानीं । प्रीतिः । अश्विना । आ । ततान ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहो द्वेधा त्रेधा पंचधा पंचदशधा समाना विभागाः संति । इह पंचधा
+> विभाग आत्तः ॥ उतापि चा यातं । आगच्छतं । कदा । संगवे संगवकाले । संगच्छंते
+> गावो दोहनभूमिं यस्मिन्काले स संगवः । रात्र्यपरकाले हि गावो वने हिमतृणानि भक्षयित्वा पुनर्दोहाय संगवे प्रतिनिवर्तंते । तथाः प्रातःकालेऽपि । तथा
+> मध्यंदिनेऽह्नो मध्यकाले सूर्यस्योदितोदितावभ्युदयेऽत्यंतप्रवृद्धसमये।
+> अपराह्न इत्यर्थः । एतत्सायाह्नस्याप्युपलक्षणं । न केवलमुक्तेष्टेव कालेषु
+> किंतर्हि दिवा नक्तं सर्वदा शंतमेन सुखतमेनावसा रक्षणेन हविषा वा निमित्तेना
+> यातं। किमर्थवागम्यते पूर्वमेवानैर्देवैः स्वीकृतत्वात् नेत्याह। इदानीमपि
+> पीतिरितरदेवानां पानं ना ततान न तनोत्यश्विनाश्विनौ विहायेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The day has equal divisions in two, three, five and fifteen ways; here the fivefold division is taken. "Utāpi ca": also come. When? At the time of saṃgava, the time when the cows gather at the milking place. For in the latter part of the night the cows eat the frosty grass in the forest and return at saṃgava to be milked again; so also in the morning. So also at midday, in the middle of the day, and at the sun's rising and rising, that is, at the time of the sun's greatest growth, which means the afternoon; this also indicates the evening. Not only at the times mentioned, but by day and by night, always, come with most pleasant protection, or on account of the oblation. For what purpose would you come, since the sacrifice had already been accepted before by the other gods? **NOTE** He says "no": even now the drinking of the other gods has not been extended, leaving the Aśvins aside; this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संगवे (*saṃgave*)—at the time when the cows are milked
+- प्रातः (*prātaḥ*)—at the morning time
+- मध्यंदिने (*madhyaṃdine*)—at the midday time
+- सूर्यस्य (*sūryasya*)—of the sun
+- उदिता (*uditā*)—at the evening time, the time of the rising prosperity
+- दिवा नक्तं (*divā naktaṃ*)—by day or by night, whichever time it may be
+- शंतमेन (*śaṃtamena*)—full of happiness
+- अवसा (*avasā*)—with protection
+- आ यातं (*ā yātaṃ*)—come
+- इदानीं (*idānīṃ*)—at this time of the sacrifice
+- पीतिः (*pītiḥ*)—the invitation to the drinking of Soma
+- न आ ततान (*na ā tatāna*)—has not been extended to any other deity, leaving the Aśvin deities aside (it has not been appointed)
+
+### Printed p. 128
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whether at the time when the cows are milked, at the morning time, at midday, or at the evening time, the time of the sun's rising prosperity, by day or by night, whichever time it may be, come with protection full of happiness. At this time of the sacrifice the invitation to the drinking of Soma has not been extended to any other deity, leaving the Aśvin deities aside.
+
+##### English translation
+Whether you come at the (milking time) of the cattle, at the dawn of day, at noon, when the sum is high, or by day or by night, (come) with felicitious protection : the drinking of the Soma has not now extended beyond the Aswins.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं हि वां॑ प्र॒दिवि॒ स्थान॒मोक॑ इ॒मे गृ॒हा अ॑श्विने॒दं दु॑रो॒णं ।  
+> आ नो॑ दि॒वो बृ॑ह॒तः पर्व॑ता॒दाद्यो या॑त॒मिष॒मूर्जं॒  ॑
+> वहंता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । हि । वां । प्रदिवि । स्थानं । ओकः । इमे । गृहाः। अश्विना । इदं । दुरोणं ।  
+> आ । नः । दिवः । बृहतः । पर्वतात् । आ । अत्भ्यः । यातं। इषं। ऊर्जं। वहंता॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना नां युवयोः प्रदिवि पुराणमिदं ह्योको निवासयोग्यं
+> स्थानमुत्तरवेद्याख्यं । अथ सौमिकवेद्यभिप्रायेणाह । इमे गृहाः प्राचीनवंशा-
+
+##### Gist of the bhāṣya
+
+O Aśvins, this is your ancient dwelling from of old, a place fit for residence, called the northern altar. Then, with the Saumika altar in view, he says: "These houses, the eastern halls, …" (the sentence continues in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 122. Ṛk 5 end (Cyavana story), Ṛk 6-8, start of Ṛk 9
+**Progress note:** Done through printed p. 128. Ṛk 9 end, Sūkta 76 Ṛks 1-4
