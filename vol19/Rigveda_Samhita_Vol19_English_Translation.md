@@ -10482,6 +10482,277 @@ He who pours out the libation to that Indra, by day or by night, undoubtedly bec
 > ईषते ।  
 > वेतीद्व॑स्य॒ प्रय॑ता यतंक॒रो न किल्बि॑षादीषते॒ वस्व॑ आक॒रः ॥
 
+### Printed p. 267
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अवधीत् । पितरं । यस्य । मातरं । यस्य । शक्रः । भ्रातरं । न । अतः । ईषते ।  
+> वेति । इत् । ऊं इति । अस्य । प्रयता । यतंकरः । न । किल्पिषात् । ईषते ।  
+> वस्वः । आकरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शक्रो शक्तोऽयं यस्यायज्वनः पितरमवधीत् हतवान् । यस्य च
+> मातरमवधीत् । यस्य च भ्रातरं अतोऽस्मादयज्जनः सकाशान्नेषते । न बिभेति
+> न गच्छति वा । किंत्वस्य प्रयता दत्तानि हवींषि वेतीदु । कामयत एव । अयज्ञानं
+> शिक्षयित्वा नियोजयतीत्यर्थः । यतंकरो यमनकर्ता वस्वो वसुनो धनस्याकर
+> आभिमुख्यकर्ता यः किल्बिषात्पित्रादिवधयुक्तान्नेषते न चलति न बिभेति वा । इंद्रस्यास्तोत्थणां हतरिंद्रो यतीन् सालावृकेभ्यः प्रायच्छत् अंतरिक्षे पौलोमान्पृथिव्यां कालकांज्यानरुन्मुखान्तीन् सालावृकेभ्यः प्रायच्छमित्यादि श्रुतिषु प्रसिद्धा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Indra, the capable one, has slain the father of a certain non-sacrificer, and also his mother and his brother; yet he does not fear this non-sacrificer nor go away from him. Rather he desires the oblations offered by him: having instructed the non-sacrificer, he engages him in the rite; that is the meaning. *Yataṃkara* is the regulator; *ākara* of wealth is the one who brings wealth toward the sacrificer. Indra neither moves away from nor fears the sin consisting in the killing of a father and the like. Passages in the śrutis, such as "Indra gave the ascetics to the wolves; in the atmosphere the Paulomas, on the earth the Kālakāñjas", are well known.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्रः (*śakraḥ*)—Indra
+- यस्य (*yasya*)—of whichever man
+- पितरं (*pitaraṃ*)—the father
+- अवधीत् (*avadhīt*)—has slain
+- यस्य (*yasya*)—of whom
+- मातरं (*mātaraṃ*)—the mother (has slain)
+- यस्य (*yasya*)—of whom
+- भ्रातरं (*bhrātaraṃ*)—the brothers (has slain)
+- अतः (*ataḥ*)—from all these people
+- न ईषते (*na īṣate*)—he is not afraid
+- अस्य (*asya*)—from such persons
+- प्रयता (*prayatā*)—the oblations offered
+- वेतीदु (*vetīdu*)—he surely desires and accepts
+- यतंकरः (*yataṃkaraḥ*)—who teaches the rules of rites
+- वस्वः (*vasvaḥ*)—of wealth
+- आकरः (*ākaraḥ*)—the support, Indra
+- किल्पिषात् (*kilpiṣāt*)—from the sinful deeds of those who do not follow the Veda
+- न ईषते (*na īṣate*)—is not frightened
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is not afraid of a man whose father, mother or brother he has slain for their sinful deeds. Or, if that man offers an oblation in the proper way, he accepts it without rejecting it. Indra, who teaches the rules of rites and is the support of wealth, is not frightened by the sinful deeds of those who do not follow the Veda.
+
+##### English translation
+Shakra does not turn away from him whose father, whose mother, whose brother he has slain, but is willing to accept his offerings : the regulator (of acts), the bestower of riches, does not turn away from iniquity.
+
+### Printed p. 268
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न पं॒चभि॑र्द॒शभि॑ वृष्ट्या॒रभं॒ नासु॑न्वता सचते॒ पुष्य॑ता च॒न ।  
+> जि॒नाति॒ वेद॑मु॒या हंति॑ वा॒ धुनि॒रा दे॑व॒युं भ॑जति॒ ॑ ॒
+> गोमति व्रजे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । पंचभिः । दश्यभिः । वष्टि । आरभं । न । असुन्वता । सचते । पुष्यता । चन ।  
+> जिनाति । वा । इत् । अमुया । हंति । वा । धुनिः । आ । देवयुं । भजति ।  
+> गोमति । व्रजे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः पंचभिर्दशभिर्वा सहायैरारभमारंभं शत्रुहननायालंबनं
+> न वष्टि । साहाय्यं नापेक्षत इत्यर्थः । यद्वा । अमुमिंद्रं पंचभिर्दशभिर्वा
+> यज्ञादन्यैरुषायैरारभमारब्धु मुद्योगं कर्तुं न वष्टि । न कामयते। असुन्वताभिषवमकुर्वता सह पुष्यता चन बंध्वादीनपोषयतापि न सचते। न संगच्छते।
+> असुन्वंतमभिषवमकुर्वाणमयष्टारमपुष्कंतं च न प्राप्नोतीत्यर्थः । न केवलमप्राप्तिमात्रं किंतु जिनाति वा । नाशब्दश्चार्थे । जिनाति च : बाधते । इदिति
+> पूरणः । हंति नामुयामुमयष्टारु धुनिः कंपकः शत्रूणां । देवयुं
+> देवमिंद्रं कामयमानं यजमानं गोमति व्रज आ भजति । योजयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Indra does not desire (न वष्टि (*na vaṣṭi*)) to begin an undertaking, a support for slaying enemies, with five or ten helpers; he does not look for help; that is the meaning. Or else: he does not desire, does not wish, to make an effort towards that undertaking by means other than the sacrifice, five or ten. He does not associate even with one who does not press the Soma and does not nourish his dependants; that is, he does not reach one who does not press, does not sacrifice and does not nourish. Not only does he not reach him; he also overcomes him: the word *na* is in the sense of "and": he oppresses and slays that non-sacrificer. The word *it* is for filling out. *Dhuni* is the shaker of enemies. The sacrificer who desires the god Indra he joins to a stall rich in cows; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- आरभं (*ārabhaṃ*)—for an effort that restrains enemies
+- पंचभिः (*paṃcabhiḥ*)—with five persons
+- दशभिः (*daśabhiḥ*)—or with ten persons
+- न वष्टि (*na vaṣṭi*)—he does not look for help
+- असुन्वता (*asunvatā*)—with a man who does not press Soma (for the sacrifice)
+- पुष्यता चन (*puṣyatā cana*)—and does not nourish his relations and the like
+- न सचते (*na sacate*)—he does not associate (not only that)
+- जिनाति वा (*jināti vā*)—he oppresses him
+- हंति वा (*haṃti vā*)—or slays him
+- अमु (*amu*)—such a one fallen from rites
+- धुनिः (*dhuniḥ*)—Indra, who terrifies
+- देवयुं (*devayuṃ*)—the sacrificer who longs for and worships Indra and the other gods for help
+- गोमति (*gomati*)—full of cows
+- वज्रे (*vajre*)—together with the stall
+- आ भजति (*ā bhajati*)—he joins
+
+##### भावार्थ (Bhāvārtha)
+
+Indra does not look for the help of any company, whether five persons or ten, in his effort to destroy enemies. He does not associate at all with a man who does not press Soma for the sacrifice and does not nourish his relations and the like.
+
+### Printed p. 269
+
+Moreover, he oppresses him, or slays him. Indra, who terrifies such a man fallen from rites, provides stalls full of cows for the sacrificers who worship Indra and the other gods.
+
+##### English translation
+He desires not (association in) enterprises with five or with ten ; he associates not with the man who does not present libations ; and cherishes not ( his dependants ) : nay, the terrorier (of foes) punishes him, but he places the devout man in a pasturage stocked with cattle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒त्वक्ष॑णः॒ समृ॑तौ चक्रमास॒जोऽसु॑न्वतो॒ विषु॑णः सुन्व॒तो  ॒
+> वृधः ।  
+> इंद्रो॒ विश्व॑स्य दमि॒ता वि॒भीष॑णो यथाव॒शं न॑यति॒ दास॒माय्यः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वित्वक्षणः । संऋत् । चक्रं आसजः । असुन्वतः । विषुणः । सुन्वतः । वृधः ।  
+> इंद्रः । विश्वस्य । दमिता । विभीषणः । यथावशं । नयति । दासं । आर्यः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुमृतौ संग्रामे वित्वक्षणो विशेषेण तनूकर्ता शत्रूणां तदर्थं चक्रमासजो रथचक्रस्यासंजयितासुन्वतोऽयजमानस्य विषुणः पराङ्मुखः सुन्वतो
+> यजमानस्य वृधो वर्धयितेंद्रो विश्वस्य दमिता शिक्षयिता विभीषणो भयजनक
+> आर्यः स्वामी यथावशं यथेच्छं दासं दासकर्माणं जनं नयति स्ववशं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, who in battle especially thins out the enemies, and for that purpose sets in motion the wheel of his chariot, turns away from the sacrificer who does not press Soma, the non-sacrificer, and is the increaser of the sacrificer who presses. Indra, the tamer, that is, the instructor, of all, causing fear, the lord, leads at his will the servant, the person who does a servant's work, under his own control.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समृतौ (*samṛtau*)—in battle
+- विश्वक्षणः (*viśvakṣaṇaḥ*)—who makes the strength of enemies decay
+- चक्रमासजः (*cakramāsajaḥ*)—and for that purpose makes his chariot wheel run swiftly
+- असुन्वतः (*asunvataḥ*)—from the man who does not press
+
+### Printed p. 270
+
+- विषुणः (*viṣuṇaḥ*)—who turns away
+- सुन्वतः (*sunvataḥ*)—to the sacrificer who presses Soma for the sacrifice
+- वृधः (*vṛdhaḥ*)—the increaser
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्य (*viśvasya*)—of the whole world
+- दमिता (*damitā*)—the instructor
+- विभीषणः (*vibhīṣaṇaḥ*)—the one who causes fear
+- आर्यः (*āryaḥ*)—and lord
+- यथावशं (*yathāvaśaṃ*)—as he pleases
+- दासु (*dāsu*)—servants
+- नयति (*nayati*)—he brings under his own control
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who makes the strength of enemies decay in battle, and for that purpose makes his chariot wheel run swiftly, who turns away from the man who does not press Soma and increases the sacrificer who presses Soma for the sacrifice, is the instructor of the whole world, the terrifier and the lord, and brings servants under his own control as he pleases.
+
+##### English translation
+Thinning (his enemies) in battle, and accelerating the wheels (of his car), he turns away from him who offers no libation, and augments (the prosperity of) the offerer : Indra, the subduer of all, the formidable, the lord, conducts the Dasa at his pleasure.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समीं॑ प॒णेर॑जति॒ भोज॑नं मु॒षे वि दा॒शुषे॑ भजति सू॒नरं॒  ॑
+> वसु ।  
+> दु॒र्गे च॒न ध्रि॑यते॒ विश्व॒ आ पु॒रु जनो॒ यो अ॑स्य॒ तवि॑षी॒मचु॑क्रुधत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ईं । पणेः । अजति । भोजनं । मुषे । वि । दाशुषे । भजति । सूनरं । वसु ।  
+> दुःगे । चन । ध्रियते । विश्वः । आ । पुरु । जनः । यः । अस्य । तविषीं ।  
+> अचुक्रुधत् ॥ ७ ॥
+
+### Printed p. 271
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईमयमिंद्रः पणेर्वणिज इव लुब्धकस्यादातुर्भोजनं धनमन्नं वा
+> मुषे चोरयितुं समजति । सम्यक् गच्छति । गत्वा चादाय दाशुषे हविर्दात्रे
+> यजमानाय वि भजति सूनरु शोभनमनुष्यं वसु धनं । अयष्टुर्धनमाकृष्य
+> यष्टे प्रयच्छतीत्यर्थः । न केवलं वणिग्धनप्रदानमात्रं किंतु पुरु पुरुणि दुर्गॆ
+> चन दुःखेन गंतव्य आपद्यपि विश्वः सर्वोऽपि दातृजन आ द्रियते । आस्थाप्यते ।
+> यो जनोऽस्येंद्रस्य तनिषीं बलमचुक्रुदत् विहिताकरणादिना तस्य पणेरजतीति
+> पूर्वशेषः । यद्वा । योऽस्य तनिषीमचुक्रुदत् स सर्वोऽपि जनो दुर्गॆ
+> चनाध्रियत इंद्रेण ॥ चनेत्येकपदमध्येतृसंप्रदायप्राप्तं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Indra goes, like a trader to a miser who gives nothing, to steal his wealth or food; he goes fully, and having taken it he distributes it to the sacrificer who gives oblations: fine wealth, rich in men. Having drawn away the wealth of the non-sacrificer, he gives it to the sacrificer; that is the meaning. Not only is it a giving of a trader's wealth: even in a danger hard to get through, every giving person is supported. Of the man who has angered the might of Indra by not doing what is prescribed, Indra goes to steal the wealth; this is the remainder to be supplied from before. Or else: every man who has angered his might is not supported by Indra even in a hard place. The word *cana* is a single word, received through the tradition of the reciters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईं (*īṃ*)—this Indra
+- पणेः (*paṇeḥ*)—of the miser who gives nothing
+- भोजनं (*bhojanaṃ*)—the wealth of food
+- मुषे (*muṣe*)—to steal
+- सं अजति (*saṃ ajati*)—he strives
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- सूनरं (*sūnaraṃ*)—beneficial to men
+- वसु (*vasu*)—wealth
+- वि भजति (*vi bhajati*)—he provides
+- यः जनः (*yaḥ janaḥ*)—whatever man
+- अस्य (*asya*)—of Indra
+- तविषीं (*taviṣīṃ*)—the might
+- अचुक्रुधत् (*acukrudhat*)—provokes by disrespect
+- विश्वः (*viśvaḥ*)—all such people
+- पुरु (*puru*)—very great
+- दुर्गे चन (*durge cana*)—in distress
+- आ ध्रियते (*ā dhriyate*)—are placed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra strives to steal the food-wealth of a miser who gives nothing. He provides wealth beneficial to men to the sacrificer who offers oblations. All people who provoke the might of Indra by disrespect have to share in very great distress.
+
+##### English translation
+He proceeds to plunder the wealth of the ( avaricious ), and bestows the riches that are prized by man upon the donor (of the libation) : every man is involved in great difficulty who provokes the might of Indra to wrath.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यज्जना॑ सु॒धना॑ वि॒श्वश॑र्धसा॒ववे॒दिंद्रो॑ म॒घवा॒ गोषु॑  ॒॑
+> शु॒भ्रिषु॑ ।
+
+### Printed p. 272
+
+> युजं ह्यगन्यमकृत प्रवेपन्युदीं गव्यं सृजते सत्वभिर्धुनिः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । जनौ । सुधन् । विश्वशर्धसौ । अनेत् । इंद्रः । मघवा । गोषु ।  
+> शुभ्रिषु ।  
+> युजं । हि । अन्यं । अकृत । प्रवेपनी । उत् । ईं । गव्यं । सृजते । सत्वभिः ।  
+> धुनिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समवेत्संजानाति यद्यदा जनौ परस्परं प्रतिद्वंद्विनौ सुधनौ शोभनधनौ
+> विश्वशर्धसौ व्याप्तबलौ बहूत्साहौ वा मघवा धनवानिंद्रो गोषु शुभ्रिषु
+> शोभनासु गोषु निमित्तभूतासु अन्यं यष्टारं युजं सहायमकृत कृतवान्
+> प्रवेपनी शत्रूणां प्रवेपनवान् । ईमस्मै गव्यं गोसमूहमुत्सृजते सत्वभिर्मरुद्धिः सह धुनिर्मेघानां कंपयिता । इंद्रो यजमानमयजमानं वा
+> यं जानाति गोनिमित्तं ज्ञात्वा यज्जने गोसमूहं प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra discerns when two persons, rivals of each other, rich, of pervading strength or of great zeal, are in contest over shining cows; Maghavan, the wealthy Indra, makes the other, the sacrificer, his ally on account of the cows. *Pravepanī* is the one who makes his enemies tremble. For him, together with the Maruts, he lets loose a herd of cows, he, the shaker of the clouds. Whomever Indra recognises as sacrificer or non-sacrificer, having known him in the matter of the cows, he gives the herd of cows to the sacrificing man; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- यत् (*yat*)—when
+- शुभ्रिषु (*śubhriṣu*)—for the sake of the shining
+- गोषु (*goṣu*)—cows (who fight)
+- सुधना (*sudhanā*)—those who possess wealth
+- विश्वशर्धसौ (*viśvaśardhasau*)—and are of exceedingly great strength
+- जनौ (*janau*)—among rivals
+- सं आवेत् (*saṃ āvet*)—discerns and knows (who is the sacrificer and who is not), then
+- प्रवेपनी (*pravepanī*)—causing fear in the enemy
+- अन्यं (*anyaṃ*)—to the sacrificer
+- युजं (*yujaṃ*)—help
+- अकृत (*akṛta*)—he gives
+- सत्वभिः (*satvabhiḥ*)—together with the Maruts
+- धुनि: (*dhuni:*)—Indra, who makes the clouds move
+- ईं (*īṃ*)—to such a sacrificer
+- गव्यं (*gavyaṃ*)—a herd of cows
+- उत्सृजते (*utsṛjate*)—he creates
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy Indra fights for the sake of shining cows. As soon as he discerns, among rival persons who are rich and of exceedingly great strength, who is the sacrificer and who is not, he causes fear in the enemy and helps the sacrificer. Indra, who makes the clouds move together with the Maruts, creates a herd of cows for such a sacrificer.
+
 ---
 
-**Progress note:** Done through printed p. 266. Ṛk 9 pada to Ṛk 4 saṃhitā of sūkta 34 (pp. 260-266)
+**Progress note:** Done through printed p. 272. Ṛk 4 pada to Ṛk 8 bhāvārtha of sūkta 34 (pp. 267-272)
