@@ -9017,6 +9017,255 @@ Explaining the word चोषूयते (*coṣūyate*) in this Ṛk, Yāska g
 
 This Indra turns away (परा वृणक्ति (*parā vṛṇakti*), he avoids) the friendships of the former men, those who came before and performed praised acts. Moreover, वितर्तुराणस्तान् (*vitarturāṇastān*), harming them, he goes (एति (*eti*)) with the others (अपरेभिः (*aparebhiḥ*)), the not-chief, not-praised performers of rites: he enters into friendship.
 
+### Printed p. 207
+
+> तथानानुभूतीरपरिचरणाः प्रजा अवधून्वानः परित्यजन् पूर्वीर्बह्वीः शरदः
+> संवत्सरानयमिंद्रस्तर्तरीति । भृशमतिक्रामति । स्तोतृभिः सह सख्यं कुर्वन्
+> चिरकालं वसतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Likewise, अनानुभूतीः (*anānubhūtīḥ*): he shakes off and abandons the people who do not serve him; for many years (शरदः (*śaradaḥ*)), that is, for many years, this Indra तर्तरीति (*tartarīti*), greatly passes beyond. The sense is that, making friendship with his praisers, he dwells with them for a long time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- पूर्वेषां (*pūrveṣāṃ*)—of men who first performed excellent rites
+- सख्या (*sakhyā*)—the friendship
+- परा वृणक्ति (*parā vṛṇakti*)—abandons
+- वितर्तुराणः (*vitarturāṇaḥ*)—harming them
+- अपरेभिः (*aparebhiḥ*)—with those inferior to them
+- एति (*eti*)—attains friendship
+- अनानुभूतीः (*anānubhūtīḥ*)—those who do not worship him
+- अवधून्वानः (*avadhūnvānaḥ*)—forsaking
+- पूर्वीः (*pūrvīḥ*)—many
+- शरदः (*śaradaḥ*)—years
+- इंद्रः (*iṃdraḥ*)—Indra
+- तर्तरीति (*tartarīti*)—passes the time (with his praisers)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra abandons the friendship of the men who first performed excellent rites. Afterwards, harming them, he builds friendship with those who are inferior to them. Again, forsaking those who do not worship him, Indra passes many years with his praisers.
+
+##### English translation
+Indra rejects the friendship of those who are foremost (in pious acts), and, despoiling them, associates with (their) inferiors : or (again) shaking off those who neglect his worship, Indra abides many years with those who serve him.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रू॒पंरू॑पं॒ प्रति॑रूपो बभूव॒ तद॑स्य रू॒पं प्र॑ति॒चक्ष॑णाय ।  
+> इंद्रो॑ मा॒याभिः॑ पुरु॒रूप॑ ईयते यु॒क्ताह्य॑स्य॒ हर॑यः ॒ ॑
+> शता दश ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रूपंरूपं । प्रतिरूपः । बभूव । तत् । अस्य । रूपं । प्रतिचक्षणाय ।  
+> इंद्रः । मायाभिः । पुरुरूपः । ईयते । युक्ताः । हि । अस्य । हरयः । शता ।  
+> दश ॥ १८ ॥
+
+### Printed p. 208
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः प्रतिरूपो रूपाणां प्रतिनिधिः सन् रूपं रूपं तत्तदग्न्यादिदेवतास्वरूपं बभूव । प्राप्नोति ॥ भू प्राप्ताविति धातुः ॥ इंद्रः स्वमाहात्म्येन
+> तत्तद्देवतारूपो भवतीत्यर्थः । अस्य चेंद्रस्य तत्पाप्तमग्न्यादिदेवतास्वरूपं
+> प्रतिचक्षणाय प्रतिनियतदर्शनायायमग्निरयं विष्णुरयं रुद्र इत्येवमसंकीर्णदर्शनाय भवति । अपि चायमिंद्रो मायाभिः ॥ ज्ञाननामैतत् ॥ ज्ञाननैरात्मीयैः
+> संकल्पैः पुरुरूपो बहुविधशरीरः सन् ईयते । बहून्य जमानान् गच्छति । ननु
+> द्वावेवास्याश्वानेकश्च रथः कथमनेन युगपद्वहून् गच्छतीत्यत आह । अस्येंद्रस्य
+> हरयोऽश्वा युक्ता रथे योजिताः शता दश सहस्रसंख्याका अपरिमिताः संति । हि
+> यस्मादेवं तस्माद्बहुशरीराणि स्वीकृत्य युगपद्धविष्मतो यजमानान् गच्छतीत्यर्थः ॥ अन्ये मन्यंते । इदि परमैश्वर्य इत्यस्य धातोरर्थानुगमादिंद्रः
+> परमात्मा । स चाकाशवत्सर्वगतः सदानंदरूपः । स एवोपाधिभिरंतःकरणैः
+> प्रतिशरीरमवच्चिन्नः सन् जीवात्मति व्यपदिश्यते । स एवानादिमायाशक्तिभिर्वियदादिजगदात्मना विवर्तते शब्दादिविषयहरणशीला इंद्रियवृत्तयश्च तेनैव संबद्धाः ।
+> एतत्सर्वं तस्य परमात्मनो यद्वास्तवं रूपं तस्य दर्शनायेति । आयमर्थोऽनया
+> प्रतिपाद्यते । रूपं रूपं । रूप्यत इति रूपं शरीरादि । प्रतिशरीरं चिद्रूपः
+> सर्वगतः परमात्मा प्रतिरूपः प्रतिबिंबरूपः सन् सर्वाणि शरीराणि बभूव ।
+> प्राप्नोत् । तच्च प्राप्तं प्रतिबिंबरूपमस्य परमात्मनः प्रतिचक्षणाय प्रतिनियता
+> कारस्य दर्शनाय भवति । स चेंद्रः परमेश्वरो मायाभिर्मायाशक्तिभिः पुरुरूपो
+> नियादादिभिर्बहुविधरूपैरुपेतः सन् ईयते । चेष्टते । एतदप्यस्य परमात्मनः
+> प्रतिचक्षणाय भवति । अस्य च दश शता सहस्रसंख्याका हरयॆ इंद्रियवृत्तय
+> युक्ता विषयग्रहणायोद्युक्ताः संति । तदप्यस्य वास्तवरूपस्य दर्शनायॆ भवतीति ।
+> एवं स्कूलसूक्ष्मशरीरयोर्वियदादिमहाप्रपंचस्य च तत्त्वज्ञानहेतुत्वमनया
+> प्रत्यपादीति ॥
+
+##### Gist of the bhāṣya
+
+This Indra, being the counterpart (प्रतिरूपो (*pratirūpo*)) of forms, a representative of forms, becomes each and every form, the form of each deity such as Agni; that is, he attains it, the root भू (*bhū*) being in the sense of attaining. The meaning is that by his own greatness Indra becomes the form of each deity. That form of Agni and the other deities which he has attained is for प्रतिचक्षणाय (*praticakṣaṇāya*), for distinct seeing, so that each is seen without confusion: "this is Agni, this is Viṣṇu, this is Rudra". Moreover, this Indra by his मायाभिः (*māyābhiḥ*) (this is a name for knowledge), that is, by his own resolves, having many bodies (पुरुरूपो (*pururūpo*)), goes (ईयते (*īyate*)) to many sacrificers. Objection: he has only two horses and one chariot; how can he go to many at the same time? Therefore Sāyaṇa says: his horses, the bay steeds, are yoked to the chariot, ten hundreds, a thousand in number, countless; since this is so, taking many bodies he goes at the same moment to the sacrificers who have oblations. Others hold: from the meaning of the root इदि (*idi*), supreme lordship, Indra is the Supreme Self (Paramātman). He is all-pervading like space and of the nature of bliss. He alone, limited in each body by the inner organs as limiting adjuncts, is called the individual self. He alone, by his beginningless powers of māyā, evolves as the world, ether and the rest; and the activities of the senses, which are apt to seize objects such as sound, are bound to him. All this is for the seeing of the real form of that Supreme Self; the verse teaches this meaning. रूपं रूपं (*rūpaṃ rūpaṃ*) is anything that is formed, a body and the like. In each body the Supreme Self, all-pervading, of the form of consciousness, being a counterpart, a reflection, became all bodies, that is, entered them. That reflected form is for the seeing of the definite form of this Supreme Self. And that Indra, the Supreme Lord, by his māyā powers, being furnished with many kinds of forms (**NOTE**), acts (ईयते (*īyate*), he exerts himself). This too is for the seeing of this Supreme Self. And his ten hundred bays are the activities of the senses, yoked, that is, eager to grasp their objects; this too is for the seeing of his real form. Thus by this verse he teaches that the gross and subtle bodies and the great expanse of the world, ether and the rest, are the cause of knowledge of the truth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- प्रतिरूपः (*pratirūpaḥ*)—being himself the counterpart of all the many forms such as Agni
+- रूपं रूपं (*rūpaṃ rūpaṃ*)—having taken the many different forms such as Agni
+- बभूव (*babhūva*)—has undergone change
+- अस्य (*asya*)—for Indra
+- तत् रूपं (*tat rūpaṃ*)—that particular form such as Agni
+- प्रतिभक्षणाय (*pratibhakṣaṇāya*)—for being visible to the world in the many forms such as Agni (is the means)
+- इंद्रः (*iṃdraḥ*)—Indra
+- मायाभिः (*māyābhiḥ*)—by his endless powers
+- पुरुरूपः (*pururūpaḥ*)—having taken many forms such as Agni, Viṣṇu and Rudra
+
+### Printed p. 209
+
+- ईयते (*īyate*)—goes to the sacrificer
+- अस्य (*asya*)—of this Indra
+- हरयः (*harayaḥ*)—the horses
+- शता दश (*śatā daśa*)—numbering a thousand
+- युक्ता हि (*yuktā hi*)—are they not yoked to the chariot?
+
+##### भावार्थ (Bhāvārtha)
+
+Indra takes the many different forms such as Agni according to his wish. For this Indra that particular form such as Agni is the means of being visible to the whole world in the many forms such as Agni. Indra, by his endless powers, takes the many forms such as Agni, Viṣṇu and Rudra, and goes to the sacrificer. The horses of this Indra, numbering a thousand, are yoked to the chariot, are they not?
+
+##### English translation
+Indra, the prototype, has assumed various forms, and such is his form as that which (he adopts) for his manifestation : Indra, maltiform by his illusions, proceeds (to his many worshippers), for the horses yoked to his car are a thousand.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Indra's greatness and his many kinds of power and capacity are described. The commentator has given two kinds of meaning for this Ṛk: one meaning describing Indra's surpassing power, and another explanation setting out the spiritual meaning that Indra himself is the Supreme Brahman. We shall explain the two separately.
+
+(1) The meaning that explains Indra's power and capacities.
+
+अयमिंद्रः प्रतिरूपः रूपंरूपं बभूव (*ayamiṃdraḥ pratirūpaḥ rūpaṃrūpaṃ babhūva*) — इंद्रः रूपाणां प्रतिनिधिः सन् तत्तवग्न्यादिदेवतास्वरूपं प्राप्नोति । (*iṃdraḥ rūpāṇāṃ pratinidhiḥ san tattavagnyādidevatāsvarūpaṃ prāpnoti |*). By his power and capacities Indra can take many forms. Taking also the forms of other deities such as Agni and Vāyu, he can perform the functions of those deities. Not only that: the main purport is that the deities such as Agni are parts of Indra, or other forms of him.
+
+अस्य तत् रूपं प्रतिचक्षणाय (*asya tat rūpaṃ praticakṣaṇāya*) — Indra takes many kinds of form in order to make the many deities visible to people: "this is Agni, this is Vāyu", and so on.
+
+इंद्रः मायाभिः पुरुरूपः ईयते (*iṃdraḥ māyābhiḥ pururūpaḥ īyate*) — Indra is able to take many forms by his own knowledges, which are of the nature of resolve. Why must he take many forms? What is the need? The answer is that many sacrificers on earth perform sacrifices and the like at one time, that is, on one and the same day, and invite Indra. For Indra to go to all those sacrifices he takes many forms (the forms of many Indras) and goes to the sacrificial ground of each sacrificer. For that very reason
+
+### Printed p. 210
+
+it is said that Indra takes many forms. Then, since Indra has one chariot and only two horses, the pair called Hari, how is it possible to go to many places at one time in a single chariot? The answer:
+
+अस्य हरयः युक्ताः शता दश (*asya harayaḥ yuktāḥ śatā daśa*) — Indra's horses also have great capacity. Since they are changed into thousands in number and yoked to the chariot, the main purport is that the many forms of Indra, seated in many chariots, can go at one time to all places.
+
+(2) Explanation of the spiritual meaning.
+
+In this meaning, Indra himself is the Supreme Self. He is all-pervading like space and ever of the nature of bliss. That Supreme Self, through the limiting adjuncts called the inner organs, is spoken of by the name of individual selves in many bodies. Besides, by his beginningless power of māyā he is manifest also in the form of the world, beginning with space. All these are the many forms of that Indra, the Supreme Self. Here the word counterpart means a form that is a reflection: that is, reflecting his own form of consciousness in the many bodies of individual selves, he is the inner self in all living beings. The Vedic sentence अंतः प्रविष्टः शास्ता जनानाग्ं सर्वात्मा (*aṃtaḥ praviṣṭaḥ śāstā janānāgṃ sarvātmā*) (Tai. Ā. 3-11-2) **GLOSS** also supports this. Such a Supreme Self in the form of Indra, हरयः शता दश युक्ता ईयते-सहस्रसंख्याका इंद्रियप्रवृत्तिभिर्युक्ता सर्वप्राणिसु प्रविष्टः सन् लोकव्यवहाररूपेण चेष्टते । (*harayaḥ śatā daśa yuktā īyate-sahasrasaṃkhyākā iṃdriyapravṛttibhiryuktā sarvaprāṇisu praviṣṭaḥ san lokavyavahārarūpeṇa ceṣṭate |*): as the inner self in all living beings, through thousands of kinds of activities of the senses, he is engaged in the affairs of the world. This is the main purport of the spiritual meaning.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒जा॒नो ह॒रिता॒ रथे॒ भूरि॒ त्वष्टे॒ह रा॑जति ।  
+> को वि॒श्वाहा॑ द्विष॒तः पक्ष॑ आसत उ॒तासी॑नेषु सू॒रिषु॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजानः । हरिता । रथे । भूरि । त्वष्टा । इह । राजति ।  
+> कः । विश्वाहा । द्विषतः । पक्षः । आसते । उत । आसिनेषु । सूरिषु ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिता हरितावश्चौ रथे युजानो युंजन् त्वष्टा दीप्त इंद्र इह त्रैलोक्ये
+> भूरि भूरिषु बहुषु प्रदेशेषु राजति । दीप्यते ! उतापि च सूरिषु स्तोतृस्मादृशेष्वासिनेषु सत्सु विश्वासा सर्वदेंद्रादन्यः को नाम द्विषतः शत्रोः पक्षः
+
+##### Gist of the bhāṣya
+
+Indra, bright, yoking the two bay horses to the chariot, shines here in the three worlds, in many places, in a great many regions. And while the praisers, such as ourselves, are seated, who other than Indra, at all times, would be on the side of the enemy, as a पाचको बाधकः (*pācako bādhakaḥ*)
+
+### Printed p. 211
+
+> पाचको बाधकः सन् आसते । आस्ते । इंद्र एव सर्वदा शत्रुन्बाधत इत्यर्थः ।
+> यद्वा । पक्ष इति सकारांतं समीपवचनं । इंद्रादन्यः को नाम द्विषतः शत्रुः
+> समीप आसते । आस्ते । इंद्र एव निर्भयः सन् शत्रुसमीपे स्थातुं शक्नोतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+...a tormentor sits there. The meaning is that Indra alone at all times obstructs the enemies. Or else: the word पक्ष (*pakṣa*) ending in स (*sa*) is a word for "near"; what enemy other than Indra would sit near an enemy? The sense is that Indra alone, fearless, is able to stay near enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिता (*haritā*)—his own green-hued horses
+- रथे (*rathe*)—with the chariot
+- युजानः (*yujānaḥ*)—having joined
+- त्वष्टा (*tvaṣṭā*)—Indra, the shining
+- इह (*iha*)—in these three worlds
+- भूरि (*bhūri*)—exceedingly
+- राजति (*rājati*)—shines
+- उत (*uta*)—and
+- विश्वाहा (*viśvāhā*)—on every day
+- सूरिषु (*sūriṣu*)—among the praisers
+- आसीनेषु (*āsīneṣu*)—among the gods who are seated
+- कः (*kaḥ*)—who else (than Indra)
+- द्विषतः (*dviṣataḥ*)—to the enemy
+- पक्षः (*pakṣaḥ*)—as one who harms
+- आसते (*āsate*)—could be
+
+##### भावार्थ (Bhāvārtha)
+
+Having joined his green-hued horses to the chariot, Indra, the shining, shines exceedingly in these three worlds. And on every day, among the gods who are seated amid the praisers, who else than Indra could be a harmer to the enemy?
+
+##### English translation
+Yoking his horses to his car, Twashtri shines in many places here in the three worlds: who (else), sojourning daily amongst his present worshippers, is their protector against adversaries ?
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग॒व्यू॒ति क्षेत्र॒माग॑न्न देवा उ॒र्वी स॒ती भूमि॑रंहूर॒णाभू॑त् ।  
+> बृह॑स्पते॒ प्र चि॑कित्स्या॒ गवि॑ष्टावि॒त्था स॒ते ज॑रि॒त्र इं॑द्र॒ पंथां॑॥२०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगव्यूति । क्षेत्रं । आ । अगन्न । देवाः । उर्वी । सती । भूमिः । अंहूरणा । अभूत् ।  
+> बृहस्पते । प्र । चिकित्स्या । गोइष्टौ । इत्था । सते । जरित्रे । इंद्र । पंथां ॥ २० ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रोक्तं । अरण्ये निर्जने गर्गो देवान् भूमिं बृहस्पतिं । इंद्रं
+> चास्तौत्स्वरक्षार्थमृचा मार्गच्युतोऽनयेति ॥ आगव्यूतीत्यत्र देवान् पादे
+
+##### Gist of the bhāṣya
+
+On this verse it is said: Garga, who had lost his way in a desolate, uninhabited forest, praised with this verse the gods, the earth, Bṛhaspati and Indra, for his own protection. And further: in आगव्यूतीत्यत्र (*āgavyūtītyatra*) he praises the gods in the pāda
+
+### Printed p. 212
+
+> भूमिमथोत्तरे । बृहस्पतिं तृतीये तु इंद्र एवोत्तमे स्तुत इति च ॥ हे देवा
+> अगव्यूत्यगोचरं गोसंचाररहितं निर्जनं क्षेत्रं देशमागन्म । आगताः स्मः । अतो
+> मां रक्षतेति शेषः । उर्वि विस्तीर्णा सती भूमिश्चांहूरणा । अंहव आहंतारो
+> दस्यवः । तेषां रमणा रमयित्र्यभूत् । भवति । अस्मानतः सापि रक्षतु । हे बृहस्पते
+> त्वं गविष्टौ गवामन्वेषण उपाये प्र चिकित्स । प्रवेदय । इत्थेत्ममनेन प्रकारेण
+> सते भवते दुःखमनुभवते जरित्रे स्तोत्रे मह्यं हे इंद्र पंथां पंथानं मार्गं
+> प्र चिकित्स । प्रज्ञापय ॥
+
+##### Gist of the bhāṣya
+
+...the earth in the next one, Bṛhaspati in the third, and in the last Indra alone is praised. O gods, we have come to a region that is अगव्यूति (*agavyūti*), without the roaming of cattle, uninhabited; therefore protect me: this is to be supplied. And the earth, although vast, has become अंहूरणा (*aṃhūraṇā*): the अंहव (*aṃhava*) are the striking robbers, and she has become the one who gives them delight. May she too protect us. O Bṛhaspati, in the search for cows (गविष्टौ (*gaviṣṭau*)), make known the means. Thus, to me, being so, who suffer misery, a praiser, O Indra, make known the path, cause me to know it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- अगव्यूति (*agavyūti*)—to the region that is uninhabited and without cattle
+- क्षेत्रं (*kṣetraṃ*)—to the region
+- आगन्म (*āganma*)—we have come
+- भूमिः (*bhūmiḥ*)—the earth
+- उर्वी सती (*urvī satī*)—being exceedingly vast
+- अंहूरणा (*aṃhūraṇā*)—a place of roaming for all the destroying enemies
+- अभूत् (*abhūt*)—has become
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- गविष्टा (*gaviṣṭā*)—the means of searching for cows
+- प्र चिकित्स (*pra cikitsa*)—teach us
+- इंद्र (*iṃdra*)—O Indra
+- इत्या (*ityā*)—in the manner described above
+- सते (*sate*)—who am suffering misery
+- जरित्रॆ (*jaritrè*)—to me, the praiser
+- पंथां (*paṃthāṃ*)—a path that brings happiness (show)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, we have come wandering into a region that is without cattle and uninhabited. This region is exceedingly vast and is a place of roaming for all the enemies who would harm us. O Bṛhaspati, teach us the means of searching for cows. O Indra, in the manner described above, show a path that brings happiness to me, the praiser, who am suffering misery.
+
+##### English translation
+We have wandered, gods, into a desert where there is no track of cattle : the vast extant earth has become the protectress of murderers : direct us, Brihaspati, in our search for cattle : show the path, Indra, to your votary being thus astray.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वेदि॑वे स॒दृशी॑र॒न्यमर्धं॑ कृ॒ष्णा अ॑सेध॒दप॒ सद्म॑नो॒ जाः ।  
+> अह॑न्दा॒सा वृ॑ष॒भो व॑स्न॒यंतो॒दव्र॑जे व॒र्चिनं॒ शंब॑रं च ॥
+
 ---
 
-**Progress note:** Done through printed p. 206. Ṛk 13 end, Ṛk 14-17 of sūkta 47 (pp. 201-206)
+**Progress note:** Done through printed p. 212. Ṛk 17 end, Ṛk 18-20 and start of 21, sūkta 47 (pp. 207-212)
