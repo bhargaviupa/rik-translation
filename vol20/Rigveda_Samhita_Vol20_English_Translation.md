@@ -16273,6 +16273,264 @@ Or else: he alone knows the subtle elements that stand in the place of the warp 
 - सः (*saḥ*)—he
 - ओतुं (*otuṃ*)—of the form of the woof
 
+### Printed p. 484
+
+such as the Yajus mantras and the rest, he knows.
+
+- ऋतुथा (*ṛtuthā*)—according to the time of each rite
+- वक्तानि (*vaktāni*)—the sentences that are to be recited
+- वदाति (*vadāti*)—he recites
+
+##### भावार्थ (Bhāvārtha)
+
+That Vaiśvānara Agni who, as the protector of water, moves on the earth in the form of the terrestrial fire, beholds the whole world in the world of heaven in the form of the Sun, and knows all the beings referred to, that same Vaiśvānara Agni fully knows the praises and the śastras, the parts of the sacrifice, just as threads are the very parts of a cloth. He too knows the Yajus mantras and the rest, which are of the form of the woof. He also recites the sentences that are to be recited according to the time of each sacrifice.
+
+##### English translation
+He verily knows the threads of the warp and of the woof, he speaks in due season what is to be said, who comprehends all this (universe) ; who is the protector of ambrosial water, sojourning both above and below, and contemplating (the world) under a different (manifestation).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं होता॑ प्रथ॒मः पश्य॑ते॒ममि॒दं ज्योति॑र॒मृतं॒ मर्त्ये॑षु ।  
+> अ॒यं स ज॑ज्ञे ध्रु॒व आ निष॒त्तोऽम॑र्त्यस्त॒न्वा॒३॒॑३ वर्ध॑मानः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । होता । प्रथमः । पश्यत । इमं । इदं । ज्योतिः । अमृतं । मर्त्येषु ।  
+> अयं । सः । जज्ञे । ध्रुवः । आ । निऽसत्तः । अमर्त्यः । तन्वा । वर्धमानः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वैश्वानरोऽग्निः प्रथम आद्यो होता । मानुषो हि होता
+> द्वितीयः । हे मनुष्यास्तमिमं पश्यत ' भजतेत्यर्थः । मर्त्येषु मरणस्वभावेषु
+> शरीरेष्टमृतं मरणरहितमिदं वैश्वानराख्यं ज्योतिर्जाररूपेण वर्तत इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+This Vaiśvānara Agni is the first, the foremost, Hotṛ; the human Hotṛ is the second. "O men, behold him", that is, serve him. Among mortals, that is, in bodies whose nature is to die, this immortal light, free from death, called Vaiśvānara, abides in the जाररूपेण (*jārarūpeṇa*) form. **NOTE**
+
+### Printed p. 485
+
+> अपि च सोऽयमग्निर्ध्रुवो निश्चल आ समंतान्निषत्तो निषण्णः सर्वव्यापी आत
+> एवामर्त्यो मरणरहितोऽपि तन्ना शरीरेण संबंधात् जज्ञे । जायते ।
+> वर्धमानश्च भवतीत्युपचर्यते ॥
+
+##### Gist of the bhāṣya
+
+Moreover, this same Agni is "dhruva", unmoving, and "ā niṣatta", seated all around, that is, all-pervading; for that very reason he is "amartya", free from death, and yet, through his connection with a body, he "jajñe", is born; and he is figuratively said to be growing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयं (*āyaṃ*)—this Vaiśvānara Agni
+- प्रथमः होता (*prathamaḥ hotā*)—the first among all the Hotṛs
+- इमं (*imaṃ*)—this Vaiśvānara (O men)
+- पश्यत (*paśyata*)—behold
+- इदं ज्योतिः (*idaṃ jyotiḥ*)—this light of the form of Vaiśvānara
+- मर्त्येषु (*martyeṣu*)—among men
+- अमृतं (*amṛtaṃ*)—that which is free from death
+- सः अयं (*saḥ ayaṃ*)—this same god
+- ध्रुवः (*dhruvaḥ*)—although unmoving
+- आ निषत्तः (*ā niṣattaḥ*)—and all-pervading
+- अमर्त्यः (*amartyaḥ*)—and free from death
+- तन्वा (*tanvā*)—having obtained a body
+- बज्जॆ (*bajjè*)—has come to be born
+- वर्धमानः (*vardhamānaḥ*)—also attains growth
+
+##### भावार्थ (Bhāvārtha)
+
+This Vaiśvānara Agni is the first among all the Hotṛs. O men, this Vaiśvānara; this light, of the form of Vaiśvānara, is free from death among men. **NOTE**. Although this same god is unmoving, all-pervading and free from death, he has obtained a body and come to be born. He also attains growth.
+
+##### English translation
+This Vaishwanara is the first offerer of burnt-offerings : behold him : this is the light immortal amongst mortals : he has been born in a bodily shape, immovable, all-pervading, immortal, ever increasing.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वं ज्योति॒र्निहि॑तं दृ॒शये॒ कं मनो॒ जवि॑ष्ठं प॒तय॑त्स्वं॒तः ।  
+> विश्वे॑ दे॒वाः सम॑नसः॒ सके॑ता॒ एकं॒ क्रतु॑म॒भि वि यं॑ति सा॒धु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवं । ज्योतिः । निहितं । दृशये । कं । मनः । जनिष्ठं । पतयत्सु । अंतरिति ।  
+> विश्वे । देवाः । समनसः । सकेताः । एकं । क्रतुं । अभि । वि । यंति । साधु ॥ ५ ॥
+
+### Printed p. 486
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ध्रुवं निश्चलं मनो मनसः तस्मादपि जविष्ठमतिशयेन वेगवत् ईदृशं
+> वैश्वानराख्यं ज्योतिः पतयत्तु गच्छत्तु जंगमेषु प्राणिष्टंतर्मध्यॆ निहितं ।
+> प्रजातिना स्थापितं । किमर्थं । दृशये कं । दर्शनार्थं । किंच विश्वे सर्वॆ देवाश्च
+> समनसः समानमनस्काः सकेताः समानप्रज्ञाश्च संत एकं मुख्यं गंतारं वा क्रतुं
+> कर्मणां कर्तारं साधु सम्यक् अभि वि यंति । अभिमुख्येन विविधं प्राप्नुवंति ।
+> सेवंत इत्यर्थः । यद्वा । पतयत्तु गच्छत्तु प्राणिष्टंतर्मध्यॆ हृदये मनो
+> जविष्ठं मनसोऽप्यतिशयेन वेगयुक्तं ध्रुवं निश्चलं निर्विकल्पं । तथा च वाजसनेयकं । अनेजदेकं मनसो जवीयः । वा. सं. ४०-४ । इति । ज्योतिर्ब्रह्म
+> चैतन्यं निहितं । न केनचित् स्थापितं । यो वेद निहितं गुहायां परमे व्योमन् ।
+> तै. आ. ८-१ । इति हि श्रूयते । किमर्थं । दृशये दर्शनार्थं । ज्ञानेन हि सर्वं
+> जानंति । अपि च । दीव्यंतीति देवा इंद्रियाणि । विश्वे सर्वॆ देवा सर्वाणींद्रियाणि चक्षुराद्याः समनसो मनसा सह वर्तमानाः सकेताः सतेजस्काः संत एकमद्वितीयं क्रतुं सृष्ट्यादीनां कर्मणां कर्तारं विश्वासनात्मकं परमात्मानमभिलक्ष्य
+> साधु सम्यक् वि यंति । विविधं गच्छंति । देवा एव वेममभि वि यंति। अभिमुख्येन
+> विविधमुपयंति । उपासत इत्यर्थः । तथा च श्रूयते । तद्देवा ज्योतिषां
+> ज्योतिरायुर्होपासतेऽमृतं । श. ब्रा. १४-७-२-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+"Dhruva" means unmoving; "javiṣṭha" means exceedingly swift, swifter even than the mind. Such a light, called Vaiśvānara, has been placed ("nihita") by Prajāpati "antar", in the midst, among beings who move ("patayatsu", those that go). For what purpose? "Dṛśaye kam": for the sake of seeing. Moreover, all the gods, "samanasaḥ", of one mind, and "saketāḥ", of one understanding, being so, properly and completely approach the one chief, or the goer, "kratu", the doer of rites; "abhi vi yanti" means that they approach him facing him, in various ways; the meaning is that they serve him.
+
+Or else: "patayatsu" means among those that go, beings; "antar" means in the middle, in the heart; "manaḥ" is the mind, here "javiṣṭha", exceedingly swift even beyond the mind, "dhruva", unmoving, free of conceptual alternatives. So the Vājasaneyaka says: अनेजदेकं मनसो जवीयः (*anejadekaṃ manaso javīyaḥ*) (Vā. Saṃ. 40-4) **GLOSS** The light is Brahman, consciousness; it is "nihita", placed by no one. So it is heard: यो वेद निहितं गुहायां परमे व्योमन् (*yo veda nihitaṃ guhāyāṃ parame vyoman*) (Tai. Ā. 8-1) **GLOSS** For what purpose? "Dṛśaye", for the sake of seeing; for by knowledge all is known. Moreover, "devāḥ" are the senses, because they shine; "viśve devāḥ" are all the senses, the eye and the rest, "samanasaḥ", functioning together with the mind, "saketāḥ", possessed of radiance, aiming at the one, the one without a second, "kratu", the doer of the acts of creation and the rest, the Supreme Self whose nature is विश्वासनात्मकं (*viśvāsanātmakaṃ*) **NOTE**, they "sādhu", properly, "vi yanti", go in various ways; that is, they approach him facing him, in various ways; the meaning is that they worship him. So it is heard: तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतं । (*taddevā jyotiṣāṃ jyotirāyurhopāsate 'mṛtaṃ |*) (Śa. Brā. 14-7-2-20) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रुवं (*dhruvaṃ*)—that which is unmoving
+- मनः (*manaḥ*)—than the mind
+- जविष्ठं (*javiṣṭhaṃ*)—that which is exceedingly swift
+- ज्योतिः (*jyotiḥ*)—the light of Vaiśvānara
+- पतयत्सु (*patayatsu*)—among living beings of a moving nature
+- अंतः (*aṃtaḥ*)—in the midst
+- दृशये कं (*dṛśaye kaṃ*)—for the sake of seeing
+- निहितं (*nihitaṃ*)—has been placed (by Prajāpati)
+- विश्वे (*viśve*)—all
+- देवाः (*devāḥ*)—the gods, all of them
+- समनसः (*samanasaḥ*)—being of one mind
+- सकेताः (*saketāḥ*)—being of one kind of understanding
+- एकं (*ekaṃ*)—the chief
+- क्रतुं (*kratuṃ*)—the doer of rites, Vaiśvānara
+- साधु (*sādhu*)—well
+- अभि वि यंति (*abhi vi yaṃti*)—approach and serve
+
+##### भावार्थ (Bhāvārtha)
+
+The light of Vaiśvānara, which is unmoving and exceedingly swifter than the mind, has been placed by Prajāpati among living beings of a moving nature, for the sake of seeing and as a guide. All the gods, being of one mind and of one kind of understanding, approach Vaiśvānara, the chief and the doer of rites, and serve him well.
+
+### Printed p. 487
+
+##### English translation
+A steady light, swifter than throught, stationed among moving beings to show (the way) to happiness : all ,the gods being of one mind, and of like wisdom, proceed respectfully to the presence of the one (chief) agent, (Vaishwanara).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि मे॒ कर्णा॑ पतयतो॒ वि चक्षु॒र्वी॒३॒॑३दं ज्योति॒र्हृद॑य॒ ॒॑ 
+> आहि॑तं॒ यत् ।  
+> विमे॒ मन॑श्चरति दू॒रआ॑धीः॒ किं स्वि॑द्व॒क्ष्यामि॒ किमु॒ नू म॑निष्ये ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । मे । कर्णा । पतयतः । वि । चक्षुः । वि । इदं । ज्योतिः । हृदये । आहितं ।  
+> यत् ।  
+> वि । मे । मनः । चरति । दूरेऽधीः । किं । स्वित् । वक्ष्यामि । किं । ऊं इति । नु ।  
+> मनिष्ये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वानरं श्रोतुकामस्य मे मम कर्णा कर्ण वि पतयतः । विविधं गच्छति ।
+> श्रोतव्यानां तदीयगुणानां बहुत्वात् । तथा वैश्वानरं दिदृक्षमाणस्य मम
+> चक्षुरिंद्रियं वि पतयति । विविधं गच्छति । द्रष्टव्यानां तदीयरूपाणां बहुत्वात् ।
+> तथा ज्योतिः प्रकाशकं हृदये हृदयपुंडरीक आहितं निहितं यद्बुद्ध्याख्यं
+> तत्त्वमिदमपि वि पतयति । विविधं गच्छति वैश्वानरात्मानं ज्ञातुं । अपि च दूरआधीः ।
+> दूरे विप्रकृष्टे विषय आधीराध्यानं यस्य तादृशं ॥ छांदसो लिंगव्यत्ययः ॥
+> मे मदीयं मनश्च वि चरति । विविधं प्रवर्तते । एवमहमहमिकया सर्वॆष्टिंद्रियेषु प्रवृत्तेषु किं स्विदहं वैश्वानरस्य रूपमिति वक्ष्यामि । किमु नु कमु खलु
+> संप्रति मनिष्ये । मनसा प्रपत्स्ये । वैश्वानरस्य गुणानामनंतत्वात् मंदप्रज्ञेन
+> मया ज्ञातुं न शक्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+For me, who wish to hear Vaiśvānara, my ears "vi patayataḥ", go in various ways, because the things to be heard, his qualities, are many. Likewise, for me who wish to see Vaiśvānara, the organ of the eye goes in various ways, because the things to be seen, his forms, are many. Likewise the light, the illuminator, placed in the heart, in the lotus of the heart, that principle called buddhi, also goes in various ways to know the Self that is Vaiśvānara. Moreover, "dūra-ādhīḥ" means that whose meditation is on a distant, remote object; the change of gender is Vedic. My mind too ranges in various ways. Thus, while all the senses are engaged, each vying with the others, what shall I say of the form of Vaiśvānara? "Kim u nu": what indeed shall I now think, that is, grasp with the mind? Because the qualities of Vaiśvānara are endless, he cannot be known by me, whose understanding is slow. This is the meaning.
+
+### Printed p. 488
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- कर्णा (*karṇā*)—ears (organs of hearing)
+- वि पतॆयतः (*vi patèyataḥ*)—spread all around (to hear the qualities of Vaiśvānara)
+- चक्षुः (*cakṣuḥ*)—the eyes
+- वि (*vi*)—spread out (to see his divine form)
+- हृदये (*hṛdaye*)—in the lotus of the heart
+- अहितं (*ahitaṃ*)—that is placed
+- यत् ज्योतिः (*yat jyotiḥ*)—which radiant principle of understanding there is
+- इदं (*idaṃ*)—that understanding also
+- वि (*vi*)—pervades all around (to know him)
+- दूरआधीः (*dūraādhīḥ*)—able to grasp even a distant object
+- मे (*me*)—my
+- मनः (*manaḥ*)—mind
+- वि चरति (*vi carati*)—ranges everywhere
+- किं स्वित् वक्ष्यामि (*kiṃ svit vakṣyāmi*)—which qualities of Vaiśvānara shall I praise?
+- किं नु मनिष्ये (*kiṃ nu maniṣye*)—which form shall I know?
+
+##### भावार्थ (Bhāvārtha)
+
+To hear the endless qualities of Vaiśvānara my ears spread out all around. To see his endless form the organs of my eyes spread out all around. My principle of understanding, placed in the lotus of the heart, is also eager to know him. My mind, which is able to grasp even a distant object, also ranges everywhere. Which of the endless qualities of Vaiśvānara shall I praise? Which of his endless forms shall I know?
+
+##### English translation
+My ears are turned (to hear him), my eyes (to behold hlm); this light that in placed in the heart (seeks to know him); my mind, the receptacle of distant (objects), hastens (towards him): what shall I declare (him)? how shall I comprehend him ?
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा अ॑नमस्यन्भिया॒नास्त्वाम॑ग्ने॒ तम॑सि तस्थि॒वांसं॑ ।  
+> वै॒श्वा॒न॒रो॑ऽवतू॒तये॒ नोऽम॑र्त्योऽवतू॒तये॑ नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । अनमस्यन् । भियानाः । त्वां । अग्ने । तमसि । तस्थिवांसं ।  
+> वैश्वानरः । अवतु । ऊतये । नः । अमत्यर्तः । अवतु । ऊतये । नः । ७ ॥
+
+### Printed p. 489
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैश्वानर तमस्यंधकारे तस्थिंवांसं स्थितवंतं त्वां विश्वे सर्वॆ देवा
+> अनमस्यन् । नमस्कुर्वंति । कुतो हेतोः । भियाना अंधकाराद्भीताः । तादृशोऽमर्त्यो मरणरहितो वैश्वानरोऽग्निर्नोऽस्मानूतय ऊत्या रक्षणेनावतु ।
+> रक्षतु । पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+O Vaiśvānara, all the gods bow to you, who stand "tamasi", in darkness. For what reason? "Bhiyānāḥ", because they are afraid of the darkness. Such a one, the immortal, free from death, Vaiśvānara Agni, "ūtaye", with protection, that is, by protecting, "avatu", may he protect us. The repetition is for the sake of respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तमसि (*tamasi*)—in darkness (O Vaiśvānara)
+- तस्थिवांसं (*tasthivāṃsaṃ*)—who are hidden
+- त्वां (*tvāṃ*)—to you
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- भियानाः (*bhiyānāḥ*)—being frightened
+- अनमस्यन् (*anamasyan*)—bow
+- वैश्वानरः (*vaiśvānaraḥ*)—such a Vaiśvānara
+- नः (*naḥ*)—us
+- ऊतये (*ūtaye*)—with protection
+- अवतु (*avatu*)—may he protect
+- अमर्त्यः (*amartyaḥ*)—Agni, who is free from the nature of death
+- ऊतये (*ūtaye*)—with protection
+- अवतु (*avatu*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Vaiśvānara, all the gods, frightened, bow to you, who are hidden in darkness. May that Vaiśvānara, free from the nature of death, protect us together with his protections.
+
+##### English translation
+All the gods, alarmed, venerate you, Agni, abiding in darkness : may Vaishwanara preserve us with his protection : may the immortal Agni preserve us with his protection.
+
+## Sūkta 10 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरो व इति सप्तर्चं दशमं सूक्तं भरद्वाजस्यार्षमाग्नेयं । सप्तमी
+> विंशिका द्विपदा विराट् शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । पुरो वो द्विपदांतं ॥
+> प्रातरनुवाक आग्नेये क्रतौ त्रैष्टुभे छंदसीदमादीनि . चत्वारि सूक्तानि । सूत्रितं
+> च । पुरो वो मंद्रमिति चत्वारि तं सुप्रतीकमिति षट् । अ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, which has seven ṛks and begins with the words "puro vaḥ", has Bharadvāja as its seer and Agni as its deity. The seventh ṛk is a Viṃśikā, a Dvipadā Virāṭ; the rest are Triṣṭubh. The Anukramaṇī says पुरो वो द्विपदांतं (*puro vo dvipadāṃtaṃ*) **GLOSS** In the morning litany, in the Āgneya rite, in the Triṣṭubh metre, there are four sūktas beginning with this one. It is stated in the sūtra: पुरो वो मंद्रमिति चत्वारि तं सुप्रतीकमिति षट् (*puro vo maṃdramiti catvāri taṃ supratīkamiti ṣaṭ*) (A. 4-13) **NOTE** **GLOSS**
+
+##### Anuvāda
+
+This sūkta "puro vaḥ" is the tenth sūkta in the first anuvāka. It has seven ṛks. Bharadvāja is the seer of this sūkta; Agni is the deity; of this sūkta's
+
 ---
 
-**Progress note:** Done through printed p. 483. Mandala 6 Sukta 9 Rk 1 end; Rk 2 with Special Topics; Rk 3 begun (pp. 478-483)
+**Progress note:** Done through printed p. 489. Mandala 6 Sukta 9 Rks 3(end)-7; Sukta 10 introduction begun (pp. 484-489)
