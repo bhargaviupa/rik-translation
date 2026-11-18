@@ -15,10 +15,21 @@ from add_iast import deva_to_iast
 DIG = str.maketrans('०१२३४५६७८९೦೧೨೩೪೫೬೭೮೯', '01234567890123456789')
 N = r'(?:\d+|[०-९]+|[೦-೯]+)'
 LAT = r'[A-Za-zĀāĪīŪūṚṛṢṣṆṇṬṭḌḍŚśṃḥṄṅñ]'
-REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + N + r'(?:\s?[-–]\s?' + N + r'){1,4})')
+WORD = r'(?:' + LAT + r'{1,7}|[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
+SEP = r'(?:\.\.|[.,-])?\s'                       # after a word of the work's name the dot may be missing or replaced by "-", ","  (e.g. "पा सू.", "पा- सू.")
+# a work name = 1-4 words, the last one with its dot, then a number of 2-4 parts joined by "-" (also "." or a space where the print or the machine slipped)
+DEVW = r'(?:[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
+NUM = N + r'(?:(?:\s?[-–]\s?|\.(?=' + N + r')|\s(?=' + N + r'{2,}))' + N + r'){1,4}'
+REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
+# the work's name in Indic script right after "(" may lack the dot of its first word ("(पा सू. ७-१-३९)", "(पा- सू. …", "(उ सू. …", "(पं- सू. …"): read as the full name
+REFB = re.compile(r'[(\[]\s?((?:' + DEVW + r'(?:\.\.|[.,-])?\s){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
 PAGE = re.compile(r'^#{2,4} .*?(?:[Pp]age|[Pp]\.|[Pp]ages|[Pp]p\.)\s*([0-9]+|[ivxlc]+)\b')
 GLOSS = re.compile(r'\*\*GLOSS\*\*|\b[Gg]loss(?:es)?\b[^.]{0,30}:|mine and tentative|\(mine\)|— mine\b')
 STOP = {'p', 'pp', 'no', 'nos', 'vol', 'vols', 'cf', 'c', 'e', 'g', 'i', 'viz', 'pdf', 'fig', 'ca', 'a', 'b', 'd', 'ch', 'st', 'dpi', 'ie', 'eg', 'etc'}
+def normlab(x):
+    # words of the name each followed by '. ' (missing dots, '-', ',' and doubled dots made regular); nothing is read from memory
+    ws = re.findall(WORD, x)
+    return ' '.join(w + '.' for w in ws)
 def key(lab):
     s = lab.strip()
     if re.search('[ऀ-ॿ]', s): s = deva_to_iast(s)
@@ -37,10 +48,12 @@ def run(vols):
             m = PAGE.match(l)
             if m: page = m.group(1); continue
             seen = set()
-            for m in REF.finditer(l):
-                lab = re.sub(r'\s+', ' ', m.group(1)).strip(); k = key(lab)
+            ms = list(REFB.finditer(l)); starts = {m.start(2) for m in ms}
+            ms += [m for m in REF.finditer(l) if m.start(2) not in starts]; ms.sort(key=lambda m: m.start(2))
+            for m in ms:
+                lab = re.sub(r'\s*(\.\.|[.,-])?\s+', lambda mm: '. ', re.sub(r'\s+', ' ', m.group(1)).strip() + ' ').strip() if False else normlab(m.group(1)); k = key(lab)
                 if not k or k in STOP or re.search('[ಀ-೿]', lab) and not k: continue
-                num = re.sub(r'\s?[–-]\s?', '-', m.group(2).translate(DIG))
+                num = re.sub(r'\s?[–-]\s?|(?<=\d)[.\s](?=\d)', '-', m.group(2).translate(DIG))
                 kd = kind(k)
                 if (kd, num) in seen: continue                      # the same reference in another script on the same line
                 seen.add((kd, num))
