@@ -18680,6 +18680,252 @@ Although in the Ṛgveda the word Paṇi has the meaning of a wealthy man who ca
 
 All the Aṅgirases, when at the dawn of this Uṣas, the worshipful one, the darkness that covered the cows having been uncovered, they came together with the cows, then the spring of these cows, that is, milk and the like, became useful at the sacrifice, in the highest common abode; this is the sense. By the path of truth, Saramā, that is, speech, the divine bitch, found the hidden cows. Or else: in the highest common abode of these cows, the place where the cow-pen was hidden, there is a spring, a flow of water, that is, a cave; by the path of that water Saramā found the cows.
 
+### Printed p. 507
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases
+- माहिनायाः (*māhināyāḥ*)—the venerable
+- अस्माःउषस्सिन (*asmāḥuṣassina*)—of this Uṣas
+- व्युषि (*vyuṣi*)—at the time of her appearing
+- यत् (*yat*)—when
+- गोभिः (*gobhiḥ*)—with the cows
+- सं नवंत (*saṃ navaṃta*)—they joined (then)
+- आसां (*āsāṃ*)—of these cows
+- उत्सः (*utsaḥ*)—the stream of milk
+- परमे (*parame*)—in the excellent
+- सदस्ये (*sadasye*)—place of sacrifice (it was offered) **NOTE**
+- ऋतस्य (*ṛtasya*)—of truth
+- पथा (*pathā*)—on the path
+- सरमा (*saramā*)—the divine bitch
+- गाः (*gāḥ*)—the cows (that were hidden)
+- विदत् (*vidat*)—found
+
+##### भावार्थ (Bhāvārtha)
+
+When all the Aṅgirases, at the time of the appearing of the venerable Uṣas, joined with the cows, then the stream of milk of these cows was offered in the excellent place of sacrifice. On the path of truth the divine bitch found the cows that had been hidden.
+
+##### English translation
+When all the Angirasas, on the opening of this adorable dawn, came in contact with the (discovered) cattle, then milk and the rest were offered in the august assembly, for Sarama had found cows by the path of truth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सूर्यो॑ यातु स॒प्ताश्वः॒ क्षेत्रं॒ यद॑स्योर्वि॒या दी॑र्घया॒थे ।  
+> र॒घुः श्ये॒नः प॑तय॒दंधो॒ अच्छा॒ युवा॑ क॒विर्दी॑दय॒द्योष्टु॒  ॑
+> गच्छन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सूर्यः । यातु । सप्तअश्वः । क्षेत्रं । यत् । अस्य । उर्विया । दीर्घयाथे ।  
+> रघुः । श्येनः । पतयत् । अंधः । अच्छ । युवा । कविः । दीदयत् । गोषु ।  
+> गच्छन् ॥ ९ ॥
+
+### Printed p. 508
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यः सर्वस्य प्रेरको देवः सप्ताश्वः सर्पणस्वभावाश्वोपेतः सप्तसंख्याकाश्वो ना आ यातु। अस्मदभिमुखमागच्छतु । यद्यस्मादस्य सूर्यस्य दीर्घयाथे
+> दीर्घगमने क्षेत्रं गंतव्यप्रदेश उर्वियोरु अतिप्रभूतायामः । स एव देवो
+> रघुर्लघुगमनः सन् श्येनः शंसनीयगमनोऽंधो दीयमानं हविरच्छाभिलक्ष्य
+> पतयत् । आगच्छति । युवा सर्वत्र मिश्रयिता कविः क्रांतदर्शि सन् गोषु रश्मिषु
+> गच्छन्मध्यॆ वर्तयन् दीदयत् । दीप्यते । यद्वा । श्येनः सुपर्णोऽंधोऽच्छ
+> पतयत् । द्युलोकस्थं सोमलक्षणं देवानामन्नमस्मद्यागार्थमानेतुं तदभिमुखमगात् । युवेत्यादि शिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+Sūrya, the god who impels all, with seven horses of a creeping nature, that is, with seven horses, let him come toward us. Because the field of this Sūrya to be traversed, in his long journey, is very wide, that same god, swift in going, praiseworthy in going like a hawk, directing himself to the oblation that is being given, comes. Ever young, mixing with all, and far-seeing, moving among the cows, that is, the rays, he shines. Or else: the hawk is the bird Suparṇa, who flew toward the soma in heaven, the food of the gods, in order to bring it for our sacrifice. The rest, beginning with the youth, is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- अस्य (*asya*)—of the sun
+- दीर्घयाथे (*dīrghayāthe*)—to be travelled over a great distance
+- क्षेत्रं (*kṣetraṃ*)—the region to be traversed
+- उर्विया (*urviyā*)—because it has a path that has grown very wide
+- सूर‍्यः (*sūryaḥ*)—the sun
+- सप्ताश्वः (*saptāśvaḥ*)—together with the seven horses
+- आ यातु (*ā yātu*)—let him come
+- श्येनः (*śyenaḥ*)—like a hawk
+- रघुः (*raghuḥ*)—the sun, swift in going
+- अंधः अच्छ (*aṃdhaḥ accha*)—facing the oblation
+- पतयत् (*patayat*)—descends and comes
+- युवा (*yuvā*)—ever young
+- कविः (*kaviḥ*)—far-seeing, the sun
+- गोषु (*goṣu*)—among the rays
+- गच्छन् (*gacchan*)—moving
+- दीदयत् (*dīdayat*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+For which reason the region to be traversed by the sun, over a great distance, has a path that has grown very wide, therefore let the sun come together with his seven horses. The sun, swift in going like a hawk, descends facing the oblation. The sun, ever young and far-seeing, moving among the rays, shines.
+
+##### English translation
+May Surya, lord of seven steeds, arrive, for he has a distant goal (to reach) by a tedious route : fleet as a hawk he pounces upon the offered (sacrificial) food : ever young and far-seeing, he shines, moving amidst rays of light.
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्ताश्व (*saptāśva*)—The horses of the sun are seven. They are called हरितः (*haritaḥ*) (Ni. 2.2.8). We have already explained the matter of the sun's horses earlier.
+
+### Printed p. 509
+
+#### Ṛk 10
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सूर्यो॑ अरुहच्चु॒क्रमणोयु॑क्त॒ यद्ध॒रितो॑ वी॒तपृ॑ष्ठाः ।  
+> उ॒द्ना न नाव॑मनयंत॒ धीरा॑ आशृण्व॒तीरापो॑ आ॒र्वाग॑तिष्ठन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सूर्यः । अरुहत् । शुक्रं । अर्णः । अयुक्त । यत् । हरितः । वीतपृष्ठाः ॥  
+> उद्ना । न । नावं । अन्वयंत । धीराः । आशृण्वतीः । आपः । अर्वाक् । अतिष्ठन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यो देवः शुक्रं दीप्तमर्ण उदकं प्रत्यारुहत् । सर्वतः प्रादुर्भवति ।
+> यद्यस्माद्यदा ना हरितोऽश्वान्वितपृष्ठाः कांतपृष्ठानयुक्त रथेयोजयत् तदा
+> तं सूर्यं धीरा धीमंतो यजमानादय उद्योदकेन नावं न नावमिवानयंत । तदाशृण्वतीः सर्वतोऽनुज्ञां कुर्वाणा आपोऽर्वागर्वाज्मुखा अतिष्ठन् ।
+> अभवन् ॥
+
+##### Gist of the bhāṣya
+
+The god Sūrya mounted the bright, shining water, that is, he appears on all sides. When he yoked to his chariot the bay horses with their lovely backs, then the wise, the intelligent sacrificers and the rest, led that Sūrya by the water, as if one were leading a boat. Then the waters, giving their assent on every side, stood facing downward, that is, they became so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वीतपृष्ठाः (*vītapṛṣṭhāḥ*)—having backs full of radiance
+- हरितः (*haritaḥ*)—his horses
+- अयुक्त (*ayukta*)—he yoked to the chariot (then)
+- सूर्यः (*sūryaḥ*)—the sun
+- शुक्रं (*śukraṃ*)—shining
+- अर्णः (*arṇaḥ*)—in the place of water
+- आ रुहत् (*ā ruhat*)—appears
+- धीराः (*dhīrāḥ*)—the wise sacrificers
+- उद्ना (*udnā*)—by water
+- नावं न (*nāvaṃ na*)—as one draws a boat
+- अनयंत (*anayaṃta*)—they have drawn him toward them
+- आपः (*āpaḥ*)—the waters
+- आशृण्वतीः (*āśṛṇvatīḥ*)—obeying his command
+- अर्वाक् (*arvāk*)—with their current flowing downward
+- अतिष्ठन् (*atiṣṭhan*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as he yoked to his chariot his horses with their backs full of radiance, the sun appears in the shining place of water. The wise sacrificers have drawn him toward them, as one draws a boat by water. The waters, obeying his command, became waters with their currents flowing downward.
+
+### Printed p. 510
+
+##### English translation
+Surya has ascended above the glistening water, as soon as he has put to his bright-backed steeds: sage (worshippers) have drawn him, like a ship, across the sea : the waters, hearing his commands, have come down.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धियं॑ वो अ॒प्पु द॑धिषे स्व॒र्षां ययात॑र॒न्दश॑ मा॒सो  ॑
+> नवग्वाः ।  
+> अ॒या धि॒या स्या॑म दे॒वगो॑पा आ॒या धि॒या तु॑तुर्या॒मात्यंहः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धियं । वः । अप्सु । दधिषे । स्वःसां । यया । अतरन् । दश । मासः । नवग्वाः ।  
+> अया । धिया । स्याम । देवगोपाः । अया । धिया । तुतुर्याम । अति । अंहः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो युष्माकं धियं स्तुतिमप्सब्निमित्तां स्वर्षां सर्वस्य दात्रीं
+> धधिषे । धारयामि । व्यत्ययेन मध्यमः ॥ यया धिया कर्मणा नवग्वा
+> अंगिरसो दश मासोऽतरन् समनुतिष्ठंत अयानया धिया देवगोपा देवैर्गुप्ताः स्याम । भवेम । अया धियांहः पापमिति तुतुर्याम । अतितरेम ॥
+
+##### Gist of the bhāṣya
+
+O gods, I hold your hymn, which is for the sake of water and gives everything; the person of the verb, the second, stands for the first. By which hymn, that is, by which rite, the Navagva Aṅgirases performed the rite for ten months, by this hymn may we be protected by the gods. By this hymn may we cross over sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) यया (*yayā*)—by which hymn (or by the rite that goes with the hymn)
+- नवग्वाः (*navagvāḥ*)—the Aṅgirases called Navagva
+- दश मासः (*daśa māsaḥ*)—for ten months
+- अतरन् (*ataran*)—performed the sacrifice (such a)
+- धियं (*dhiyaṃ*)—hymn
+- वः (*vaḥ*)—addressed to you
+- स्वर्षां (*svarṣāṃ*)—the giver of all
+- अप्पु (*appu*)—for the sake of water
+- दधीषे (*dadhīṣe*)—I offer
+- अया धिया (*ayā dhiyā*)—of this same hymn
+
+### Printed p. 511
+
+the offering;
+- देवगोपाः (*devagopāḥ*)—brought under the protection of the gods
+- स्याम (*syāma*)—may we become
+- अया धिया (*ayā dhiyā*)—with the help of this same hymn
+- अंहः (*aṃhaḥ*)—sin
+- अति तुतुर्याम (*ati tuturyāma*)—may we cross completely
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I offer to you, for the sake of water, the giver of all, that hymn by which the Aṅgirases called Navagva performed the sacrifice for ten months. By the offering of this same hymn, may we become people brought under the protection of the gods. With its help may we cross over all sin.
+
+##### English translation
+I offer to you, (gods), for the sake of water, an all-bestowing sacrifice, whereby the nine-months ministrants have completed the ten- months rite: may we, by this sacrifice, be the protected of the gods: may we, by this sacrifice, cross over the boundaries of sin.
+
+## Sūkta 46 (Maṇḍala 5)
+
+The forty-sixth hymn.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हयो नेत्यष्टर्चं द्वितीयं सूक्तं प्रतिक्षत्रस्यार्षं । अष्टमी द्वितीया च
+> त्रिष्टुभौ शिष्टाः षट् जगत्यः । आदितः षड्वैश्वदेव्यः सप्तम्यष्टमोर्देवपत्न्यो
+> देवता । तथा चानुक्रांतं । हयोऽष्टौ प्रतिक्षत्रोऽंत्यो द्वचो देवपत्नीस्तवोऽंत्या त्रिष्टुप् द्वितीया चेति ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning हयो नेत्यष्टर्चं (*hayo netyaṣṭarcaṃ*) is the second sūkta, of eight Ṛks, and its seer is Pratikṣatra. The eighth and the second are Triṣṭubh; the remaining six are Jagatī. From the beginning, six are addressed to the Viśvedevas; the seventh and eighth have the wives of the gods as deity. So the Anukramaṇī has it: हयोऽष्टौ प्रतिक्षत्रोऽंत्यो द्वचो देवपत्नीस्तवोऽंत्या त्रिष्टुप् द्वितीया चेति ॥ (*hayo 'ṣṭau pratikṣatro 'ṃtyo dvaco devapatnīstavo 'ṃtyā triṣṭup dvitīyā ceti ‖*). The use of the sūkta is लैंगिकः (*laiṃgikaḥ*).
+
+Anuvāda: This sūkta beginning हयो न (*hayo na*) is the second sūkta in the fourth anuvāka. It has eight Ṛks. The seer of this sūkta is the one called Pratikṣatra Ātreya; the first six Ṛks of this sūkta are addressed to the Viśvedevas; the deity of the seventh and eighth Ṛks is the wives of the gods; the second and eighth Ṛks are in the Triṣṭubh metre; the remaining six Ṛks are in the Jagatī metre; in the Anukramaṇī it is said: हयोऽष्टौ प्रतिक्षत्रोऽन्नो द्वृचो देवपत्निस्तवोऽ न्ता त्रिष्टुप् द्वितीया च (*hayo 'ṣṭau pratikṣatro 'nno dvṛco devapatnistavo ' ntā triṣṭup dvitīyā ca*). The use of the sūkta is Laiṅgika.
+
+### Printed p. 512
+
+- Sūkta 46
+- Maṇḍala 5, Anuvāka 4, Sūkta 46
+- Aṣṭaka 4, Adhyāya 2, Varga 28
+- Number of Ṛks in the sūkta: 8
+- Seer: Pratikṣatra Ātreya
+- Deity: 1-6, the Viśvedevas; 7-8, the wives of the gods
+- Metre: 1, 3-7 Jagatī; 2, 8 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हयो॒ न वि॒द्वा अ॑युजि स्व॒यं धु॒रि तां व॑हामि प्र॒तर॑णीमव॒स्युवं॑ ।  
+> नास्या॑ वश्मि वि॒मुचं॒ नावृतं॒ पुन॑र्वि॒द्वान्प॒थः पु॑रए॒त ऋ॒जु  ॑
+> नेषति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हयः । न।विद्वान् । अयुजि । स्वयं । धुरि । तां । वहामि । प्रतरणीं । अवस्युवं।  
+> न । अस्याः । वश्मि । विमुचं । न । असृतं । पुनः । विद्वान् । पथः । पुरः एता' ऋजु।  
+> नेषति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हयो न अश्व इव विद्वान् सर्वज्ञः प्रतिक्षत्रः स्वयमनन्यप्रेरितः सन् धुरि
+> यज्ञात्मिकायामयुजि । युक्तोऽभवत् । तां धुरं प्रतरणीं प्रकर्णेण तारयित्रिमवस्युवं रक्षयित्रीं वहामि : धारयाम्यहमध्वर्युर्होता ना । अस्या
+> धुरो विमुचं विमोचनं परित्यागं न वश्मि । न कामाये । नावृतं पुनः पुनरावरणं धारणमपि न च वश्मि । मम को भार इति तदेवोच्यते । पिद्वान्मार्गाभिज्योऽंतर्यामी देवः पुरएता पुरतो गंता सन् पथो यज्ञमार्गानृज्जकुटिलं नेषति । प्रापयति ॥
+
+##### Gist of the bhāṣya
+
+Like a horse, the all-knowing Pratikṣatra, himself impelled by no other, was yoked to the yoke-pole that is the sacrifice. That yoke-pole, which carries across and protects, I bear, I, the Adhvaryu or the Hotā. I do not desire the release of this yoke-pole, its abandonment, nor do I desire taking it up and bearing it again and again. What burden is it to me? The same is then said: the knowing god, the inner controller, who knows the way, going before as leader, leads the paths of the sacrifice straight, not crooked.
+
 ---
 
-**Progress note:** Done through printed p. 506. pp. 501-506: Ṛk 7 end, special topics (Navagva, Saramā and the Paṇis), Ṛk 8
+**Progress note:** Done through printed p. 512. pp. 507-512: Ṛk 8 end, Ṛk 9-11 end of sūkta 45, sūkta 46 introduction and Ṛk 1
