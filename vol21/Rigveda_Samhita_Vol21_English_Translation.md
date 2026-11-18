@@ -4127,6 +4127,285 @@ Offer, (priests), the libation to him who is desirous to drink ; who knows all t
 
 In the third (round), in the Svarasāman Niṣkevalya, the triplet beginning एमेनमिति (*emenamiti*) is the stotriya.**NOTE** It is stated in the sūtra: एमेनं प्रत्येतनेत्याद्यो ना सर्वेषां (*emenaṃ pratyetanetyādyo nā sarveṣāṃ*) (Ā. Sū. 8-5). O Adhvaryus, go towards this Indra, who is the greatest drinker of Soma, with the Somas as the means. The particle ईं (*īṃ*) has no meaning. What kind of Indra? One who is possessed of ṛjīṣa with the Soma vessels (अमत्रेभिः (*amatrebhiḥ*)), the cups, ladles and the like. Ṛjīṣa is the strength that gathers from the enemies; he possesses it.**NOTE** Or else, ṛjīṣiṇam is to be connected with what follows: he is possessed of ṛjīṣa with the pressed Somas (इंदुभिः (*iṃdubhiḥ*)); Soma whose essence is gone is ṛjīṣa, and he possesses it. Or else, अमत्रेभिः (*amatrebhiḥ*) means with immeasurable pressed Somas; he is connected with them, that is, united. The construction is: go to an Indra of this kind. Another says: go to this mighty Indra with the Somas that have been pressed and put into the cups, the ladles and the like.
 
+### Printed p. 95
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus) सोमेभिः (*somebhiḥ*)—with the Soma juices
+- सोमपातमं (*somapātamaṃ*)—who drinks Soma to the utmost
+- एनं (*enaṃ*)—Indra
+- आ प्रत्येतन (*ā pratyetana*)—go forth to meet and welcome
+- ऋजीषिणं (*ṛjīṣiṇaṃ*)—who has the strength that destroys enemies
+- इंद्रं (*iṃdraṃ*)—Indra
+- सुतेभिः (*sutebhiḥ*)—that have been pressed
+- अमत्रेभिः (*amatrebhiḥ*)—that are in the camasa vessel
+- इंदुभिः (*iṃdubhiḥ*)—with the Soma juices (meet him)
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, go forth to meet Indra, who drinks Soma to the utmost, together with the Soma juices. With the Soma juices that have been pressed and that stand in the camasa vessel, meet Indra, who has the strength that destroys enemies.
+
+##### English translation
+Proceed to the presence of that deep quaffer of the Soma, with the
+Soma juices; to the vigorous Indra with vessels (filled) with the effused
+libations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Iṣṭi called the third Svara-sāman, in the Niṣkevalya-śastra mantras, the tṛca beginning एमेनं (*emenaṃ*) is to be recited as the Stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, एमेनं प्रत्येतनेत्याद्यो वा सर्वॆषां (*emenaṃ pratyetanetyādyo vā sarvèṣāṃ*) (Ā. Sū. 8-5).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदी॑ सु॒तेभि॒रिंदु॑भिः॒ सोमे॑भिः प्रति॒भूष॑थ ।  
+> वेदा॒ विश्व॑स्य॒ मेधि॑रो धृ॒षत्तंत॒मिदेष॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । सुतेभिः । इंदुभिः । सोमेभिः । प्रतिभूषथ ।  
+> वेद । विश्वस्य । मेधिरः । धृषत् । तंतं । इत् । आ । ईषते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः सुतेभिरभिषुतैरिंदुभिरुंदनशीलैर्दीर्प्तैर्वा सोमेभिः
+> सोमैर्यदि प्रतिभूषथ इंद्रं प्रति यूयं प्रतिगच्छथ॥ भू प्राप्तावित्यस्यॆतद्रूपं॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Adhvaryus: if you go towards Indra with the Somas that are pressed and इंदुभिः (*iṃdubhiḥ*), that is, flowing or shining, then the sense of प्रतिभूषथ (*pratibhūṣatha*) is that you approach Indra; भू (*bhū*) is used in the sense of obtaining.
+
+### Printed p. 96
+
+> शदानीं मेधिरो मेधावी । मेधो यज्ञस्तद्वान्वा । स इंद्रो विश्वस्य विश्वं
+> सर्वं भवदीयं कामं वेद । वेत्ति । जानाति । ज्ञात्वा च धृषत् शत्रूणां धर्षकः
+> सन् तं तमित्तं तं काममेवैषते । प्रापयति ॥
+
+##### Gist of the bhāṣya
+
+Then Indra, the मेधिरः (*medhiraḥ*), is wise; or मेधो (*medho*) is the sacrifice and he is its possessor. That Indra knows all your desire; knowing it, and being the assailant of enemies, he brings about each and every desire, that is, he makes you obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus) सुतेभिः (*sutebhiḥ*)—that are pressed
+- इंदुभिः (*iṃdubhiḥ*)—that flow
+- सोमेभिः (*somebhiḥ*)—with the Soma juices
+- यदि (*yadi*)—when
+- प्रति भूषथ (*prati bhūṣatha*)—you go to meet him (then)
+- मेधिरः (*medhiraḥ*)—Indra, who is wise
+- विश्वस्य (*viśvasya*)—all your desires
+- वेद (*veda*)—he knows (and)
+- धृषत् (*dhṛṣat*)—being the destroyer of enemies
+- तंतमित् (*taṃtamit*)—all those desires
+- आ ईषते (*ā īṣate*)—he makes you obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, when you go to meet Indra with the pressed and flowing Soma juices, then the wise Indra knows all your desires. And, being the destroyer of enemies, he makes you obtain all your desires.
+
+##### English translation
+When, with the effused and flowing Soma juices, you come into his presence, the sagacious (Indra) knows your wish, and the suppressor (of enemies) assuredly grants it, whatever it may be.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा अ॑स्मा॒ इदंध॒सोऽध्व॑यो॒ प्र भ॑रा सु॒तं ।  
+> कु॒वित्स॑मस्य॒ जेन्य॑स्य॒ शर्ध॑तो॒ऽभिश॑स्तेरव॒स्पर॑त् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै अस्मै । इत् । अंधसः । अध्वयो इति । प्र । भर । सुतं ।  
+> कुवित् । समस्य । जेन्यस्य । शर्धतः । अभिशस्तेः । अव्यस्परत् ॥ ४ ॥
+
+### Printed p. 97
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा अस्मा इत् आस्मा एवेंद्राय नान्यस्य हे अध्वर्यो त्वमंधसः
+> सोमलक्षणस्यान्नस्य सुतमभिषुतं रसं प्र भर । संप्रहर । प्रयच्छेति यावत् ।
+> स चेंद्रः समस्य सर्वस्य जेन्यस्य जेतव्यस्य शर्धत उत्सहमानस्य शत्रोरभिशस्तेरभिशंसनात् तत्कृताद्धिंसनात्कुविद्बहुशोऽवस्परत् अस्मान्पालयतु ॥
+
+##### Gist of the bhāṣya
+
+अस्मा अस्मा इत् (*asmā asmā it*) means: to this Indra alone, not to another. O Adhvaryu, offer, that is, bestow, the pressed juice of the food called Soma. And may that Indra protect us again and again from the harm done by every enemy who is to be conquered and who is eager and violent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यो (*adhvaryo*)—O Adhvaryu
+- अंधसः (*aṃdhasaḥ*)—of the food in the form of Soma
+- सुतं (*sutaṃ*)—the pressed juice
+- अस्माअस्मा इत् (*asmāasmā it*)—to Indra alone, and to no other deity
+- प्र भर (*pra bhara*)—offer in the best manner (may this same Indra)
+- समस्य (*samasya*)—all
+- जेन्यस्य (*jenyasya*)—who is to be conquered
+- शर्धतः (*śardhataḥ*)—and who is violent; the enemy
+- अभिशस्तेः (*abhiśasteḥ*)—from the destruction
+- कुवित् (*kuvit*)—many times
+- अवस्परत् (*avasparat*)—protect us
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, offer in the best manner the pressed juice in the form of Soma to Indra alone, and not to any other deity. May this same Indra protect us many times by destroying every enemy who is to be conquered and who is violent.
+
+##### English translation
+Offer, priest, to him, and him (only) this libation of (sacrificial)
+food, and may he ever defend us against the malignity of every superable
+adversary.
+
+## Sūkta 43 (Maṇḍala 6)
+The forty-third Sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य त्यदिति चतुर्यचं विंशं सूक्तं भरद्वाजस्यार्षमौष्ठिहमैंद्रं ।
+> अनुक्रम्यते च । यसौष्ठिहमिति ॥ महाव्रतेऽपि निष्केवल्येऽप्यौष्ठिहतृचाशीतावेत
+> तूक्तं । तथैव पंचमारण्यके सूत्रितं । यस्य त्यच्छंबरं मद इति त्रयस्तृजा
+> गायत्र्यः । ऐ. आ. ५-२-५ । इति ॥
+> XXI 7
+
+##### Gist of the bhāṣya
+
+The Sūkta यस्य त्यदिति (*yasya tyaditi*) has four Ṛks and is the twentieth Sūkta. Its seer is Bharadvāja, its deity is Indra, and its metre is Uṣṇih. The Anukramaṇī says यस्यौष्ठिहं (*yasyauṣṭhihaṃ*). In the Mahāvrata and in the Niṣkevalya also, this Sūkta is employed for the Uṣṇih tṛca. Likewise it is laid down in the fifth Āraṇyaka: यस्य त्यच्छंबरं मद इति त्रयस्तृजा गायत्र्यः (*yasya tyacchaṃbaraṃ mada iti trayastṛjā gāyatryaḥ*) (Ai. Ā. 5-2-5).
+
+### Printed p. 98
+
+Anuvāda: This Sūkta beginning यस्य त्यत् (*yasya tyat*) is the twentieth Sūkta in the third Anuvāka; it has four Ṛks. Bharadvāja is the seer of this Sūkta, Indra is the deity, and Uṣṇik is the metre. In the Anukramaṇī it is said यस्यौष्ठिहं (*yasyauṣṭhihaṃ*). It is indicated by the sentence यस्य त्यच्छंबरं मद इति त्रयस्तृचा गायत्र्यः (*yasya tyacchaṃbaraṃ mada iti trayastṛcā gāyatryaḥ*) (Ai. Ā. 5-2-5) in the Pañcamāraṇyaka of the Aitareya Āraṇyaka that, when the Niṣkevalya-śastra mantras are recited in the Mahāvrata Iṣṭi, this Sūkta is employed for the Ṛks of the Uṣṇik metre.
+
+Sūkta—43
+Maṇḍala—6. Anuvāka—3. Sūkta—43.
+Aṣṭaka—4. Adhyāya—7. Varga—15.
+Number of Ṛks in the Sūkta—4.
+Ṛṣi—भरद्वाजो बार्दस्पत्यः (*bharadvājo bārdaspatyaḥ*).
+Devatā—इंद्रः (*iṃdraḥ*).
+Chandas—उष्णिक् (*uṣṇik*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्यच्छंब॑रं॒ मदे॒ दिवो॑दासाय रं॒धयः॑ ।  
+> अ॒यं स सोम॑ इंद्र ते सु॒तः पिब॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्यत् । शंबरं । मदे । दिवःऽदासाय । रंधयः ।  
+> अयं । सः । सोमः । इंद्र । ते । सुतः । पिब ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्य सोमस्य मदे पानेन जनिते हर्षे सति शंबरमसुरं
+> दिवोदासाय राजे रंधयः अहिंसीः । यद्वा । वशीकृतवानसि ॥ रध्यतिर्वशगमने ।
+> नि. ६-३२ । इति यास्कः ॥ त्यदिति क्रियाविशेषणं । त्यत्तत्प्रसिद्धं यथा भवति तथारंधय
+> इत्यर्थः । हे इंद्र सोऽयं सोमस्ते त्वदर्थं सुतोऽभिषुतः । आतस्तं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in the exhilaration produced by drinking which Soma you destroyed the asura Śambara for King Divodāsa, or, as he also says, you subdued him; Yāska says रध्यतिर्वशगमने (*radhyatirvaśagamane*) (Ni. 6-32). त्यत् (*tyat*) is an adverb of the action: you destroyed in that well-known manner. O Indra, this very Soma has been pressed for you; therefore drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यस्य मदे (*yasya made*)—satisfied by drinking which Soma juice
+- दिवोदासाय (*divodāsāya*)—for the king named Divodāsa
+- शंबरं (*śaṃbaraṃ*)—Śambara, the asura
+- रंधयः (*raṃdhayaḥ*)—you destroyed
+
+### Printed p. 99
+
+- त्यत् (*tyat*)—well-known
+- सः आयं सोमः (*saḥ āyaṃ somaḥ*)—that same Soma juice
+- ते (*te*)—for you
+- सुतः (*sutaḥ*)—has been pressed
+- पिब (*piba*)—drink it
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, satisfied by drinking which Soma juice you destroyed the asura Śambara for the king named Divodāsa, that same well-known Soma juice has been pressed for you. Drink it.
+
+##### English translation
+This Soma, in the exhilaration of which it is known that you have subdued Sambara for (the sake of) Divodasa, is poured out, Indra, for you; drink.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ तीव्र॒सुतं॒ मदं॒ मध्य॒मंतं॑ च॒ रक्ष॑से ।  
+> अ॒यं स सोम॑ इंद्र ते सु॒तः पिब॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । तीव्रसुतं । मदं । मध्यं । अंतं । च । रक्षसे ।  
+> अयं । सः । सोमः । इंद्र । ते । सुतः । पिब ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यस्य सोमस्यावयवभूतं तीव्रसुतं । तीक्ष्णं सुतमभिषवो
+> यस्य स तीव्रसुतः प्रातःसवनिकः । तं मदं मदकरं सोमरसं मध्यं मध्यंदिनसवनगतमंतं तृतीयसवनगतं च सोमरसं रक्षसे रक्षसि सोऽयं सोमस्त्वदर्थमभिषुतस्तं पिबेति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you protect the portion of which Soma, the तीव्रसुतं (*tīvrasutaṃ*), that is, the one whose pressing is sharp, belonging to the morning pressing; that intoxicating Soma juice; the मध्यं (*madhyaṃ*), belonging to the midday pressing; and the अंतं (*aṃtaṃ*), belonging to the third pressing. This Soma has been pressed for you; drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यस्य (*yasya*)—in the portion of which Soma juice
+- तीव्रसुतं (*tīvrasutaṃ*)—pressed at the morning pressing and strong
+- मदं (*madaṃ*)—which is intoxicating
+- मध्यं (*madhyaṃ*)—pressed at the midday pressing
+- अंतं (*aṃtaṃ*)—pressed at the third pressing; which Soma juices
+- रक्षसे (*rakṣase*)—you protect with regard
+- स अयं सोमः (*sa ayaṃ somaḥ*)—that same Soma
+- ते सुतः (*te sutaḥ*)—has been pressed for you
+- पिब (*piba*)—drink it
+
+### Printed p. 100
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink all the several Soma juices there are: the intoxicating one, the one pressed and made ready at the morning pressing, the one pressed at the midday pressing, and the one pressed at the third pressing.
+
+##### English translation
+This Soma, the exhilarating draught of which, when fresh effused (at dawn), or at noon, or at the last (or evening worship), you cherish is poured out, Indra, for you: drink.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ गा अं॒तरश्म॑नो॒ मदे॑ दृ॒ळ्हा अ॒वासृ॑जः ।  
+> अ॒यं स सोम॑ इंद्र ते सु॒तः पिब॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । गाः । अंतः । अश्मनः । मदे । दृळ्हाः । अव्यअसृजः ।  
+> आयं । सः । सोमः । इंद्र । ते । सुतः । पिब ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य सोमस्य मदे मदकरे रसे पीते सत्यश्मनो वलासुरेण विहितस्य
+> पर्वतस्यांतर्मध्यॆ विद्यमाना दृळ्हा दृढसिधानाश्च गाः पणिभिरपहृता अवास्पृजः
+> वलस्य बंधनाद्वस्यृजः स सोम इत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+When the Soma, the intoxicating juice, has been drunk, you released the cows that had been carried off by the Paṇis, which lay inside the mountain made by the asura Vala, firm and tightly shut in. The rest, स सोम इत्यादि गतं (*sa soma ityādi gataṃ*), has been explained already.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यस्य (*yasya*)—by drinking which Soma
+- मदे (*made*)—when satisfaction arose
+- अश्मनः (*aśmanaḥ*)—of the mountain
+- अंतः (*aṃtaḥ*)—in the middle
+- दृळ्ताः (*dṛḷtāḥ*)—though firmly bound
+- गाः (*gāḥ*)—the cows
+- अवासृजः (*avāsṛjaḥ*)—you released
+- अयं स सोमः (*ayaṃ sa somaḥ*)—that same Soma
+- ते (*te*)—for you
+- सुतः (*sutaḥ*)—has been pressed
+- पिब (*piba*)—drink it
+
 ---
 
-**Progress note:** Done through printed p. 94. Sūkta 41 Ṛk 2 end, Ṛk 3-5; Sūkta 42 Ṛk 1-2 (pp. 88-94)
+**Progress note:** Done through printed p. 100. Vol 21 pp. 95-100: Mandala 6 sukta 42 rks 2-4, sukta 43 rks 1-3
