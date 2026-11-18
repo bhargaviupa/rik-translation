@@ -13741,6 +13741,258 @@ The Agni who spreads his rays like the shining sun, and of whom a sound arose, t
 ##### English translation
 Of whom a sound is heard when scattering his rays like (that of) the sun : the brilliant showerer (of benefits) clamours among the (burning) plants; he who, moving not with a shifting variable motion, but humbling (our foes), fills the well-wedded earth and heaven with wealth.
 
+### Printed p. 407
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धायो॑भिर्वा॒ यो युज्ये॑भिर॒र्कैर्वि॒द्युन्न द॑विद्यो॒त्स्वेभिः॒  ॑
+> शुष्मैः ।  
+> शधर्दो॑ वा॒ यो म॒रुतां॑ त॒तक्ष॑ ऋ॒भुर्न त्वे॒षो र॑भसा॒नो  ॑
+> अद्यौत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धायःभिः । वा । यः । युज्येभिः । अर्कैः । विद्युत् । न । दविद्योत् । स्वेभिः ।  
+> शर्धः । वा । यः । मरुतां । ततक्ष । ऋभुः । न । त्वेषः । रभसानः । आद्यौत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्धायोभिर्वा धारकैरश्वैरिव युज्येभिर्युज्यैः स्वयमेव
+> युज्यमानैरर्कैरर्चनीय्मैर्दिप्तिभिर्गच्छति । सोऽग्निर्विद्युन्न विद्युदिव स्वेभिः
+> स्वकीय्यैः शुष्मैः शोषकैस्तेजोभिर्दविद्योत् । विद्योतते । यश्च मरुतामेतत्संज्ञकानां देवानां शर्धो वा बलमिव ततक्ष तनूकरोति सर्वं तीक्ष्णीकरोति ।
+> शोषयतीति यावत् । सोऽयमृभुर्न उरु भासमानः सूर्य इव त्वेषो
+> दीपो रभसानो वेगं कुर्वन् अद्यात् । विद्योतते । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+The Agni who goes with धायोभिर्वा (*dhāyobhirvā*), that is, with bearing horses as it were, with युज्येभिः (*yujyebhiḥ*), those that are yoked of themselves, with अर्कैः (*arkaiḥ*), worshipful flames. That Agni, like lightning, with his own (स्वेभिः (*svebhiḥ*)) शुष्मैः (*śuṣmaiḥ*), drying radiances, shines (दविद्योत् (*davidyot*) means he shines). And he who, like the strength (शर्धो वा (*śardho vā*)) of the Maruts, the gods so named, makes thin (ततक्ष (*tatakṣa*)), that is, makes everything sharp, which means that he dries it up. This same Agni, like the sun shining widely, brilliant (त्वेषः (*tveṣaḥ*)), making speed (रभसानः (*rabhasānaḥ*)), shines (अद्यात् (*adyāt*) means he shines forth).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- युज्येभिः (*yujyebhiḥ*)—fit to be yoked to a chariot
+- धायोभिर्वा (*dhāyobhirvā*)—and bearing a burden, like horses
+- अर्क्यैः (*arkyaiḥ*)—he who is endowed with worshipful rays
+- विद्युन्न (*vidyunna*)—like lightning
+- स्वेभिः (*svebhiḥ*)—his own
+- शुष्मैः (*śuṣmaiḥ*)—with radiances
+- दविद्योत् (*davidyot*)—he who shines, such a one, (and)
+- यः (*yaḥ*)—who
+- मरुतां (*marutāṃ*)—of the Maruts
+- शर्धो वा (*śardho vā*)—like a host
+- शतक्ष (*śatakṣa*)—who makes sharp (who burns everything), that same Agni
+- ऋभुर्न (*ṛbhurna*)—like the shining sun
+- त्वेषः (*tveṣaḥ*)—brilliant
+- रभसानः (*rabhasānaḥ*)—and swift-moving
+- अदौत् (*adaut*)—shines
+
+### Printed p. 408
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, like horses fit to be yoked to a chariot and bearing the burden, is endowed with worshipful rays, who like lightning shines with his own radiances, and who, like the host of the Maruts, burns everything, that same Agni, like the shining sun, brilliant and swift-moving, shines forth.
+
+##### English translation
+He who (goes) with sacred (rays), as if with self-harnessed, well-governed (steeds), who shines like lightning with his own scorching (flames), who impairs the vigour of Maruts, he glows radiant and rapid as the wide-shining sun.
+
+## Sūkta 4 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा होतरित्यष्टर्चं चतुर्थं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं।
+> यथा होतरित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, of eight Ṛks, beginning यथा होतः (*yathā hotaḥ*), has Bharadvāja as seer, Agni as deity, and the Triṣṭubh metre. It is listed in the Anukramaṇī as यथा होतः (*yathā hotaḥ*). Its application in the Prātaranuvāka and in the Āśvina śastra has been stated.
+
+The Kannada rendering: This sūkta, beginning यथा होतः (*yathā hotaḥ*), is the fourth sūkta in the first anuvāka. It has eight Ṛks. Bharadvāja is the ṛṣi of this sūkta; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇī it is said यथा होतः (*yathā hotaḥ*). This sūkta is applied for the recitation of the Prātaranuvāka and Āśvina-śastra mantras.
+
+- Sūkta 4
+- Maṇḍala 6; Anuvāka 1; Sūkta 4
+- Aṣṭaka 4; Adhyāya 5; Varga 5, 6
+- Number of Ṛks in the sūkta: 2 **NOTE**
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭup
+
+### Printed p. 409
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ होत॒र्मनु॑षो दे॒वता॑ता य॒ज्ञेभिः॑ सूनो सहसो॒  ॑
+> यजासि ।  
+> ए॒वा नो॑ अ॒द्य स॑म॒ना स॑मा॒नानु॒शन्न॑ग्न उश॒तो य॑क्षि  ॒
+> देवान् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । होतः । मनुषः । देवताता । यज्ञेभिः । सूनो इति । सहसः । यजासि ।  
+> एव । नः । अद्य । समना । समानान् । उशन् । अग्ने । उशतः । यक्षि । देवान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होतर्देवानामाह्वातः सहसः सूनो बलस्य पुत्राग्ने यथा येन
+> प्रकारेण मनुषो मनोः प्रजापतेर्यजमानस्य देवताता । यज्ञनामैतत् ।
+> देवतात् यज्ञे यज्ञेभिर्यजमानसाधनैर्हविर्भिर्यजासि देवान्यजसि एवैवं हे
+> अग्ने नोऽस्माकमद्यास्मिन्यज्ञे समानान् त्वत्सदृशानिंद्रादीनुशन् कामयमानस्त्वमुशतः कामयमानान्यष्टव्यान् देवान् समना क्षिप्रं यक्षि । यज । यद्वा।
+> समानं मन्यंतेऽस्मिन् देवानिति समनो यज्ञः । तस्मिन्निति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Hotṛ, invoked by the gods, O son of strength (सहसः सूनो (*sahasaḥ sūno*)), Agni: in the manner in which, at the sacrifice (देवताता (*devatātā*), which is a name for sacrifice) of Manu, that is, of the sacrificer Prajāpati, you worship the gods with sacrifices (यज्ञेभिः (*yajñebhiḥ*)), that is, with the oblations that are the sacrificer's means, so, O Agni, today, at this sacrifice of ours, desiring (उशन् (*uśan*)) Indra and the others who are like you, you quickly (समना (*samanā*)) worship (यक्षि (*yakṣi*)) the gods who desire to be worshipped (उशतः (*uśataḥ*)). Or else: a sacrifice in which the gods are regarded as equal is called समनो (*samano*); it is to be construed as "in that".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतः (*hotaḥ*)—invoker of the gods
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- यथा (*yathā*)—in whatever manner
+- मनुषः (*manuṣaḥ*)—of Manu, the sacrificer
+- देवताता (*devatātā*)—at the sacrifice
+- यज्ञेभिः (*yajñebhiḥ*)—with oblations, the means of sacrifice
+- यजासि (*yajāsi*)—you have worshipped the gods
+- एव (*eva*)—in the same manner
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- अद्य (*adya*)—in this sacrifice
+- समानान् (*samānān*)—Indra and the others, worshipful like you
+- उशन् (*uśan*)—desiring to worship
+- उशतः (*uśataḥ*)—desirous of the sacrifice
+- देवान् (*devān*)—those same gods
+- समना (*samanā*)—quickly
+- यक्षि (*yakṣi*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of the Hotṛ, son of strength: in the manner in which you worshipped the gods with oblations, the means of sacrifice, at the sacrifice of Manu, the sacrificer, in the same manner, O Agni,
+
+### Printed p. 410
+
+at this sacrifice of ours, desiring to worship Indra and the others who are worshipful like you, worship quickly those same gods who desire the sacrifice.
+
+##### English translation
+Son of strength, invoker (of the gods), in like manner as at the worship of the gods by Manu you offered worship with sacrifices, so now, Agni, with willing mind, worship for us the assenting deities, regarding them as youʳ equals.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ वि॒भावा॑ च॒क्षणि॒र्न वस्तो॑र॒ग्निर्व॒न्दारु॒ वेद्य॒श्चनो॑  
+> धात् ।  
+> वि॒श्वायु॒र्यो अ॒मृतो॒ मर्त्ये॑षूष॒र्भुद्भूदति॑थिर्जा॒तवे॑दाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । विभावा । चक्षणिः । न । वस्तोः । अग्निः । वंदारु । वेद्यः । चनः । धात् ।  
+> विश्वआयुः । यः । अमृतः । मर्त्येषु । उषःभुत् । भूत् । अतिथिः । जातवेदाः।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वस्तोरहनि चक्षणिर्न प्रकाशकः सूर्य इव विभावा विशेषेण दीप्यमानो
+> वेद्यः सर्वैर्ज्ञातव्यो लंभनीयो वा सोऽग्निर्नोऽस्मभ्यं वंदारु वंदनीयं
+> स्तुत्यं चनोऽन्नं धात् । दधातु । प्रयच्छृतित्यर्थः । विश्वायुः सर्वान्नः सर्वेषां
+> जीवनहेतुर्वामृतो मरणरहितोऽतिथिर्हविर्वहनाय सततगामि जातवेदा
+> जातानां वेदिता जातधनो ना एवंभूतो योऽग्निर्मत्येषु मनुष्येषु
+> यजमानेषूषर्भुद्भूत् उषःकालेऽग्निहोत्रहोमार्थं प्रबुद्धो भवति स
+> इति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+That Agni, like the illuminator of the day (वस्तोः (*vastoḥ*) is explained as by day), the sun, specially shining (विभावा (*vibhāvā*)), to be known or obtained by all (वेद्यः (*vedyaḥ*)), may grant us (धात् (*dhāt*) means let him give, let him bestow) adorable, praiseworthy food (वंदारु (*vaṃdāru*)). विश्वायुः (*viśvāyuḥ*) is the food of all, or the cause of life for all; अमृतः (*amṛtaḥ*) is free from death; अतिथिः (*atithiḥ*) is the constant goer for the carrying of oblations; जातवेदाः (*jātavedāḥ*) is the knower of all that is born, or one whose wealth is born. The Agni who, such as he is, among mortals, that is, among the sacrificers, wakes at dawn for the oblation of the Agnihotra, he: this is connected with what precedes.
+
+### Printed p. 411
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वस्तोः (*vastoḥ*)—by day
+- चक्षणिर्न (*cakṣaṇirna*)—like the sun, the illuminator
+- विभावा (*vibhāvā*)—shining
+- वेद्यः (*vedyaḥ*)—to be known by all
+- विश्वायुः (*viśvāyuḥ*)—the cause of life for all
+- अमृतः (*amṛtaḥ*)—free from death
+- अतिथिः (*atithiḥ*)—in the form of a guest
+- जातवेदाः (*jātavedāḥ*)—in the form of Jātavedas, (and)
+- यः (*yaḥ*)—who
+- मर्त्येषु (*martyeṣu*)—among men
+- उषर्बुद्भूत् (*uṣarbudbhūt*)—who wakes at dawn (for the Agnihotra), such a one
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- नः (*naḥ*)—to us
+- वंदारु (*vaṃdāru*)—praiseworthy
+- चनः (*canaḥ*)—food
+- धात् (*dhāt*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+May that same Agni, who shines like the sun that shines by day, who is known by all, the support of life for all, free from death, in the form of a guest, in the form of Jātavedas, and who wakes at dawn among men for the Agnihotra, provide us with praiseworthy food.
+
+##### English translation
+May that Agni, who, like the illuminator of the day, is resplendent and cognizable (by all), grant us commendable food; he who is the life of all, immortal. who knows all that exists, who is our guest, waking amongst men at dawn.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावो॒ न यस्य॑ प॒नयं॒त्यभ्वं॒ भासां॑सि वस्ते॒ सूर्यो॒ न  ॒
+> शु॒क्रः ।  
+> वि य इ॒नोत्य॒जरः॑ पाव॒कोऽश्न॑स्य चिच्छिश्वथ त्पू॒र्व्याणि॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावः । न । यस्य । पनयंति । अभ्वं । भासांसि । वस्ते । सूर्यः । न । शुक्रः ।  
+> वि । यः । इनोति । अजरः । पावकः । अश्वस्य । चित् । शिश्नथत् । पूर्व्याणि ॥ ३ ॥
+
+### Printed p. 412
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नेति संप्रत्यर्थे । उक्तं च । अस्तुपमार्थस्य संप्रत्यर्थे प्रयोगः ।
+> नि. ७-३१ । इति ॥ द्यावः स्तोतारः संप्रतीदानीं यस्याग्नेरभ्वं महत्कर्म पनयंति
+> स्तुवंति सोऽग्निः सूर्यो न सूर्य इव शुक्रः शुक्लवर्णः सन् भासांसि तेजांसि
+> वस्ते । आच्छादयति । यश्चाजरो जरारहितः पावकः सर्वस्य शोधकोऽग्निर्विनोति
+> भासा सर्वं व्याप्प्नोति सोऽयमश्नस्य चित् व्यापनशीलस्यापि राक्षसादेः पूर्व्याणि
+> चिरंतनानि पुराणि शिश्नथत् । हिनस्ति ॥ श्नथ क्नथ हिंसायामिति धातुः ॥
+
+##### Gist of the bhāṣya
+
+The word न (*na*) is in the sense of "now". And it has been said: अस्तुपमार्थस्य संप्रत्यर्थे प्रयोगः (*astupamārthasya saṃpratyarthe prayogaḥ*) (Ni. 7-31) **GLOSS** **NOTE**. The praisers (द्यावः (*dyāvaḥ*)), now, praise (पनयंति (*panayaṃti*)) the great deed (अभ्वं (*abhvaṃ*)) of which Agni; that Agni, like the sun, being of white colour (शुक्रः (*śukraḥ*)), covers himself (वस्ते (*vaste*)) with radiances (भासांसि (*bhāsāṃsi*)). And he who is ageless (अजरः (*ajaraḥ*)), the purifier (पावकः (*pāvakaḥ*)) of all, Agni, pervades everything with his light (विनोति (*vinoti*)); this same Agni breaks (शिश्नथत् (*śiśnathat*) means he injures) the ancient cities (पूर्व्याणि (*pūrvyāṇi*)) even of the pervading rākṣasa and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावः (*dyāvaḥ*)—the praisers
+- न (*na*)—now
+- यस्य (*yasya*)—of which Agni
+- अभ्वं (*abhvaṃ*)—the great deed
+- पनयंति (*panayaṃti*)—they praise, (that Agni)
+- सूर्यो न (*sūryo na*)—like the sun
+- शुक्रः (*śukraḥ*)—having a bright colour
+- भासांसि (*bhāsāṃsi*)—radiances
+- वस्त्रे (*vastre*)—he puts on as a cover
+- यः (*yaḥ*)—who
+- अजरः (*ajaraḥ*)—free from age
+- पावकः (*pāvakaḥ*)—and the purifier, that same Agni
+- वि इनोति (*vi inoti*)—pervades everything with his light
+- अश्वस्य चित् (*aśvasya cit*)—even though spread out in many places
+- पूर्वाणि (*pūrvāṇi*)—the cities of the Asuras
+- शिश्नथत् (*śiśnathat*)—he destroys completely
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni whose great deed the praisers now praise, like the sun, having a bright colour, spreads his radiances everywhere (covers himself with them). The Agni who is ageless and the purifier pervades everything everywhere with his light. Even though the cities of the Asuras are spread out and scattered in many places, he destroys them completely.
+
+##### English translation
+Whose great deeds his worshippers now celebrate, who is clothed with light, radiant as the sun, exempt from decay. the purifier, he illumes (all things), aud destroys the ancient cities of the dispersed (evil beings).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्नं॑ ।  
+> स त्वं न॑ ऊर्जसन॒ ऊर्जं॑ धा॒ राजे॑व जेरवृ॒के क्षे॑ष्यं॒तः । ४ ।
+
 ---
 
-**Progress note:** Done through printed p. 406. Mandala 6 sukta 3 rks 4-7 (Agni), pp. 401-406
+**Progress note:** Done through printed p. 412. Mandala 6 sukta 3 rk 8; sukta 4 rks 1-3 (Agni), pp. 407-412
