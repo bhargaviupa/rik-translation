@@ -14327,6 +14327,246 @@ May the lord of strengths, Vāyu, hear our praises. Or else: the lord of ऊर�
 - शृणोतु (*śṛṇotu*)—may he hear
 - बबृहाणस्य (*babṛhāṇasya*)—**NOTE**
 
+### Printed p. 379
+  very lofty and grown
+- अद्रेः (*adreḥ*)—of the mountain
+- परि (*pari*)—around
+- स्रुचः (*srucaḥ*)—flowing
+- पुरो न (*puro na*)—like cities
+- शुभ्राः (*śubhrāḥ*)—shining
+- आपः (*āpaḥ*)—the waters
+- शृण्वंतु (*śṛṇvaṃtu*)—may they hear (our praises)
+
+##### भावार्थ (Bhāvārtha)
+
+May Vāyu, who moves in the firmament, is always in motion, pervades all around and is lord of all powers, hear our praises. May the waters also, which flow around the exceedingly lofty mountain and shine like cities, hear our praises.
+
+##### English translation
+May the lord of vigour, (Vayu), hear our prayers; he who traverses the firmament, the circumambient: may the waters hear, bright as cities, flowing round the towering mountains.
+#### Ṛk 13
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दा चि॒न्नु म॑हांतो॒ ये व॒ एवा॒ ब्रवा॑म दस्मा॒ वार्यं॒  ॑
+> दधानाः ।  
+> वय॑श्च॒न सु॒भ्व१॒॑ १ आव॑ यंति क्षु॒भा मर्त॒मनु॑यतं वध॒स्नैः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विदा । चित् । नु । महांतः । ये । वः । एवाः । ब्रवाम । दस्माः । वार्यं ।  
+> दधानाः ।  
+> वयः । चन । सुभ्वः । आ । अव । यंति । क्षुभा । मर्तं । अनुयतं । वधस्नैः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महांतो मरुतो नु क्षिप्रं यूयं विद । जानीथ स्तोत्रं । हे दस्मा
+> दर्शनीया वो युष्मान्य एवा गंतारो युष्मान्भजमाना वार्यं वरणीयं
+
+##### Gist of the bhāṣya
+
+O great Maruts, quickly विद (*vida*), know, understand our praise. O beautiful ones, worthy of sight, we who approach you, serving you, desirable
+
+### Printed p. 380
+
+> हविर्दधाना ददाना धारयंतो ना वयं ब्रवाम स्तुतिं । यद्वा । ये वो
+> यूयमित्यर्थः । ये यूयमेवा अस्मद्यज्ञमभिगंतारस्ते विद । चिदिति पूरणः ।
+> वयश्चनागंतारश्चैते मरुतः सुभ्वः सुष्टु भवंतः प्रवृद्धा आ अस्मदभिमुखमव
+> यंति । गच्छंति । किं कुर्वंतः । क्षुभा क्षोभकेण सहितं मर्तं मरणधर्माणं
+> वैरिणमनुयतमभिगतं वधस्नैरायुधैः परिहरंतोऽव यंति ॥
+
+##### Gist of the bhāṣya
+
+oblation, holding it, offering it, speak praise. Or else: ये वो (*ye vo*) means you who are, in your own right, the ones who come to our sacrifice; you know it, the word चित् (*cit*) being a filler. Moreover, these Maruts, who are goers, सुभ्वः (*subhvaḥ*), well-being, greatly grown, come, go, towards us. What do they do? Warding off with weapons, with arms, the mortal, the enemy who is subject to death, who has come against them, accompanied by agitation, they come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महांतः (*mahāṃtaḥ*)—O great Maruts
+- नु (*nu*)—quickly
+- विद (*vida*)—know our praise
+- दस्माः (*dasmāḥ*)—O Maruts of attractive form
+- एवाः (*evāḥ*)—who approach you
+- ये (*ye*)—we who
+- नार्यं (*nāryaṃ*)—the cherished oblation
+- दधानाः (*dadhānāḥ*)—holding
+- ब्रवाम (*bravāma*)—recite your praise
+- वयश्चन (*vayaścana*)—the Maruts who are coming towards us
+- सुभ्वः (*subhvaḥ*)—being of a gracious mind
+- क्षुभा (*kṣubhā*)—who is accompanied by an agitated mind
+- अनुयतं (*anuyataṃ*)—and who opposes them
+- मर्तं (*martaṃ*)—the man
+- वधस्नैः (*vadhasnaiḥ*)—striking and driving away with weapons
+- आ (*ā*)—towards us
+- अव यंति (*ava yaṃti*)—they come
+
+##### भावार्थ (Bhāvārtha)
+
+O great Maruts of attractive form, holding the oblation that is dear to you, we approach you and recite your praise. Know the nature of our praise. The Maruts who are coming towards us come to us, being gracious to us, and striking and driving away with their weapons the man who opposes them with an agitated mind.
+
+##### English translation
+Mighty Maruts, of goodly aspect, quickly hear (the praises) that we who repair to you repeat, offering acceptable (oblations): (the Maruts) coming hither, well-disposed, come down to us, (destroying) with their weapons the mortals opposed to them, (overcome) by agitation.
+
+### Printed p. 381
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दैव्या॑नि॒ पार्थि॑वानि॒ जन्मा॒पश्चाच्छा॒ सुम॑खाय वोचं ।  
+> वर्धं॑तां॒ द्यावो॒ गिर॑श्चं॒द्राग्रा॑ उ॒दा व॑र्धंताम॒भिषा॑ता॒  ॑
+> अर्णाः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दैव्यानि । पार्थिवानि । जन्म । अपः । च । अच्छ । सुमखाय । वोचं ।  
+> वर्धंतां । द्यावः । गिरः । चंद्रग्राः । उदा । वर्धंतां । अभिसाताः । अर्णाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैव्यानि देवसंबंधीनि पार्थिवानि पृथिवीसंबंधीनि च जन्म जन्मान्यपश्चापसाच्छाभिप्राप्तं सुमखाय शोभनयज्ञाय मरुद्धणाय वोचं । ब्रवीमि । गिरः
+> स्तुतयो वर्धंतां । द्यावो द्योतमानाः स्वप्रतिपाद्यार्थप्रकाशिन्यश्चंद्राग्राः ।
+> आह्लादनं हिरण्यं वाग्रे यासां ताः । तादृश्यः सत्यो वर्धंतां । अर्णा नद्यश्चाभिषाता मरुद्भिः संभक्ता उदोदकेन वर्धंतां । समृद्धा भवंतु ॥
+
+##### Gist of the bhāṣya
+
+दैव्यानि (*daivyāni*) are things related to the gods, and पार्थिवानि (*pārthivāni*) are things related to the earth: births and waters.**NOTE** To obtain them I speak to the Maruts, the host of the good sacrifice. May the praises grow: they are shining, making known the meaning that they set forth, with a delightful gold at their head, and being such, may they grow. And may the rivers, cherished by the Maruts, grow with water, that is, be full.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दैन्यानि (*dainyāni*)—whether related to the heaven
+- पार्थवानि (*pārthavāni*)—or related to the earth
+- जन्म (*janma*)—that has come into being
+- अपः (*apaḥ*)—the waters
+- अच्छ (*accha*)—in order to obtain
+- सुमखाय (*sumakhāya*)—to the host of the Maruts, worthy of the excellent sacrifice
+- वोचं (*vocaṃ*)—I offer praise
+- द्यावः (*dyāvaḥ*)—shining
+- चंद्राग्राः (*caṃdrāgrāḥ*)—having a delightful forepart
+- गिरः (*giraḥ*)—the praises
+- वर्धंतां (*vardhaṃtāṃ*)—may they grow
+- अभिषाताः (*abhiṣātāḥ*)—cherished (by the Maruts)
+- अर्णाः (*arṇāḥ*)—the rivers
+- उदा (*udā*)—with water
+- वर्धंतां (*vardhaṃtāṃ*)—may they be filled
+
+##### भावार्थ (Bhāvārtha)
+
+For the gaining of waters, whether born of heaven or born of earth, I offer praise to the host of the Maruts, who are worthy of the excellent sacrifice. May the praises, which are shining and have a delightful forepart, grow. May the rivers, cherished by the Maruts, be filled with water (may they flow full).
+
+### Printed p. 382
+
+##### English translation
+I offer adoration to the company of the Maruts deserving of sacred sacrifice, to obtain the waters, whether born of heaven or earth : may my praises prosper : may the joy-bestowing heavens (flourish): may the rivers cherished (by the Maruts) be filled with water.
+#### Ṛk 15
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒देप॑दे मे जरि॒मा नि धा॑यि॒ वरू॑त्री वा श॒क्रा या  ॒॑
+> पा॒युभि॑श्च ।  
+> सिष॑क्तु मा॒ता म॒ही र॒सा नः॒ स्मत्तू॒रिभि॑र्यजु॒हस्त॑ ऋजु॒वनिः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पदेपदे । मे । जरिमा । नि । धायि । वरूत्री । वा । शक्रा । या । पायुभिः । च ।  
+> सिसक्तु । माता । मही । रसा । नः । स्मत् । सूरिभिः । ऋजुहस्ता । ऋजुवनिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जरिमा स्तुतिर्मे मदीया पदे पदे तदा तदा भूमौ नि धायि । निधीयते ।
+> स्थाप्यते । क्रियत इत्यर्थः । या च शक्रा शक्ता सती पायुभी रक्षणैर्वरूत्र्यस्मदुपद्रववारयित्रि भवति । वाशब्दश्चार्थे ! माता सर्वस्य निर्मात्री मही महती
+> पूज्या रसा सारभूता भूमिः सिषक्तु सेवतां नोऽस्माकं स्तुतिं । अथवा स्तुता
+> नोऽस्मान् सिषक्तु । स्मच्छब्दः प्रशस्तवचनः । प्रशस्त्यैः सूरिभिर्मधाविभिः स्तोतृभिर्निमित्तैः । तेषां परिचयया प्रीतेत्यर्थः । ऋजुहस्तास्मदनुकूलहस्ता ऋजुवनिः
+> कल्याणदाना भवतु ॥
+
+##### Gist of the bhāṣya
+
+My praise is placed, that is, laid down, offered, on the ground at every step, at each time. And that praise, being powerful, with its protections, becomes the warder-off of troubles that come upon us; the word वा (*vā*) is in the sense of "and". May the mother, the maker of all, great, worthy of worship, the essence, the Earth, attend our praise; or else, being praised, may she attend to us. The word स्मत् (*smat*) expresses praise: by reason of the praises of the wise praisers, that is, pleased by acquaintance with them, may she be straight-handed, that is, with a hand favourable to us, and a giver of good gifts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- जरिमा (*jarimā*)—praise
+- पदे पदे (*pade pade*)—from time to time
+- नि धायि (*ni dhāyi*)—is offered
+- या (*yā*)—that same praise
+- शक्रा (*śakrā*)—being powerful
+- वायुभिः (*vāyubhiḥ*)—with protections
+
+### Printed p. 383
+- वरूत्रि (*varūtri*)—becomes the remover of troubles
+- नः (*naḥ*)—our praise
+- माता (*mātā*)—who makes all things
+- मही (*mahī*)—great
+- रसा (*rasā*)—full of essence, the Earth
+- सिषक्तु (*siṣaktu*)—may she attend
+- सूरिभिः (*sūribhiḥ*)—pleased with the praises of the praisers
+- ऋजुहस्ता (*ṛjuhastā*)—having a hand favourable to us
+- ऋजुवनिः (*ṛjuvaniḥ*)—having a beneficial gift
+- स्मत् (*smat*)—may it be
+
+##### भावार्थ (Bhāvārtha)
+
+From time to time our praise is offered. That same praise, being powerful, becomes with its protections the remover of troubles. May the Earth, the maker of all, great and full of essence, attend to our praise (hear it). Pleased by the praises of the praisers, may she be of a hand favourable to us and of a beneficial gift.
+
+##### English translation
+My praise has been continually proffered as a protectress, powerful with (the means of) preservation: may the maternal and venerable earth accept our (praises), and, (pleased) with her pious (worshippers) be (to us) straight-handed, and the giver of good.
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था दा॑शेम॒ नम॑सा सु॒दानू॑नेव॒या म॒रुतो॒ अच्छो॑क्तौ॒  
+> प्रश्र॑वसो म॒रुतो॒ अच्छो॑क्तौ ।  
+> मा नो 5 हि॑र्बु॒ध्न्यो॑ रि॒षे धा॑द॒स्माकं॑ भूदुपमाति॒वनिः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । दाशेम । नमसा । सुदानून् । एव्यया । मरुतः। अच्छउक्तौ । प्रश्रवसः।  
+> मरुतः । अच्छउक्तौ ।  
+> मा । नः । अहिः । बुध्न्यः । रिषे । धात् । अस्माकं । भूत् । उपमातिवनिः ॥ १६ ॥
+
+### Printed p. 384
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं कथा केद प्रकारेण दाशेम परिचरेम नमसा स्तोत्रेणान्नेन वा
+> सुदानून् शोभनदानान्मरुतः । एवयैवं क्रियमाणप्रकारेणाच्चोक्तावाभिमुख्येन वचने निमित्ते सति तान्मरुतः कथं परिचरेम । तेषां दुराराध्यत्वादिति
+> भावः । कथं । प्रश्रवसः प्रकृष्टान्ना भवंति । अच्छोक्तौ । अभिगंत्र्युक्तिः स्तुतिर्यस्य
+> तादृशे मयि । यद्वा । प्रश्रवसः प्रकृष्टान्नस्य ममाच्चोक्तौ स्तोत्रनिमित्ते सति
+> मरुतः कथा केन प्रकारेण दाशेम । पुनरुक्तिरादरार्था । अहिर्बुध्न्यो देवो
+> नोऽस्मान् रिषे हिंसकाय मा धात् । मा स्थापयतु । स देवोऽस्माकं भूत्
+> भवतूपमातिवनिः शत्रूणां हंता ॥
+
+##### Gist of the bhāṣya
+
+In what manner shall we serve, that is, wait upon, with praise or with food, the Maruts of good gifts? In the manner thus being carried out, with a speech addressed to them as the occasion, how shall we serve those Maruts? The sense is that they are hard to propitiate. How are they possessors of excellent food, in me whose praise is an utterance that goes towards them? Or else: when there is praise from me, who have excellent food, in what manner shall we serve the Maruts? The repetition is for respect. May the god Ahirbudhnya not set us to the harmful one, that is, not establish us there; may that god be ours, the slayer of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानून् (*sudānūn*)—of excellent generosity
+- मरुतः (*marutaḥ*)—the Maruts
+- कथा (*kathā*)—in what manner
+- नमसा (*namasā*)—with praise (or with oblations)
+- दाशेम (*dāśema*)—shall we worship?
+- एवया (*evayā*)—in this very manner
+- अच्चोक्तौ (*accoktau*)—when there is excellent praise addressed to them
+- प्रश्रवसः (*praśravasaḥ*)—can excellent oblation be offered to them? (in what manner)
+- अच्चोक्तौ (*accoktau*)—I being ready with excellent praise
+- मरुतः (*marutaḥ*)—the Maruts (in what manner shall I worship them?)
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god Ahirbudhnya
+- नः (*naḥ*)—us
+- रिषे (*riṣe*)—to the harmful enemy
+- मा धात् (*mā dhāt*)—may he not give up
+- अस्माकं (*asmākaṃ*)—our
+- उपमातिवनिः (*upamātivaniḥ*)—the slayer of enemies
+- भूत् (*bhūt*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+With what praise shall I worship the Maruts, who are exceedingly generous? Or: when I am ready with the most excellent praise, in what manner shall I make them recipients of the excellent oblation? May the god Ahirbudhnya not give us up to the harmful enemy. May he be the slayer of our enemies.
+
+##### English translation
+How may be (duly) worship the liberal (Maruts) with praise, how adore the Maruts with present praise in a fitting manner, the glorious Maruts with present praise? may Ahirbudhnya contrive not for our harm ; may he be the destroyer (of our enemies).
+
 ---
 
-**Progress note:** Done through printed p. 378. Vol 19 pp. 373-378: M5 S41 Rk 8-12
+**Progress note:** Done through printed p. 384. Vol 19 pp. 379-384: M5 S41 Rk 12 end, Rk 13-16
