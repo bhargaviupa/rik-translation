@@ -13764,11 +13764,11 @@ Sāyaṇa has given सक्षणः यज्ञं सेवमानः; �
 
 The word sakṣaṇa is not used anywhere else in the whole Ṛk-saṃhitā except in this one place. But the word sakṣiṇi is used in other places. It can only be said that the meaning of the two words is the same. Although in one or two places the word sakṣiṇi is used in the first meaning, its use in the sense of enduring and in the sense of power is the more frequent. For example: सिंचंति हर्मस्य सक्षिणिं (*siṃcaṃti harmasya sakṣiṇiṃ*) (Ṛ. Saṃ. 9-71-4); परि वृत्राणि सक्षिणिः (*pari vṛtrāṇi sakṣiṇiḥ*) (9.110-1); पृतनासु सक्षिणिं (*pṛtanāsu sakṣiṇiṃ*) (1.111-3). In all such places the import is "one who has the power to win victory".
 
-If, in the present mantra too, one takes the word sakṣaṇa to mean "victorious" and explains it as an epithet referring to Indra, an objection is possible even then. Trita too is famed as a renowned victor. The question why the word sakṣaṇa should not be an epithet of Trita as well is natural. Besides, the epithet कण्वहोता (*kaṇvahotā*) naturally states the quality of Trita
+If, in the present mantra too, one takes the word sakṣaṇa to mean "victorious" and explains it as an epithet referring to Indra, an objection is possible even then. Trita too is famed as a renowned victor. The question why the word sakṣaṇa should not be an epithet of Trita as well is natural. Besides, the epithet कण्वहोता (*kaṇvahotā*) naturally states the quality of Trita.
 
 ### Printed p. 361
 
-. It does not fit Indra very well. The epithet kaṇvahotā too is not used anywhere else in the Ṛk-saṃhitā except in this one place. Since there are usages such as कण्वसखि (*kaṇvasakhi*) and कण्वतम (*kaṇvatama*), one must examine what they mean in those contexts and the special quality of which deity they make known.
+It does not fit Indra very well. The epithet kaṇvahotā too is not used anywhere else in the Ṛk-saṃhitā except in this one place. Since there are usages such as कण्वसखि (*kaṇvasakhi*) and कण्वतम (*kaṇvatama*), one must examine what they mean in those contexts and the special quality of which deity they make known.
 
 स इदग्निः कण्वतमः कण्वसखार्यः परस्यांतरस्य तरुषः । अग्निः पातु गृणतो अग्निः सूरीनग्निर्ददातु तेषामवो नः ॥ (*sa idagniḥ kaṇvatamaḥ kaṇvasakhāryaḥ parasyāṃtarasya taruṣaḥ | agniḥ pātu gṛṇato agniḥ sūrīnagnirdadātu teṣāmavo naḥ ‖*)
 (Ṛ. Saṃ. 10-115-5)
