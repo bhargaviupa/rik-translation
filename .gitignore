@@ -13,3 +13,6 @@ vol*/scans/*
 *.docx
 publish/out/*.html
 vol*/review/**/*.html
+
+# working paper of tools/rv/refs_apply.py (the applied changes are kept in refs_applied.tsv)
+vol*/review/refs_preview.tsv
