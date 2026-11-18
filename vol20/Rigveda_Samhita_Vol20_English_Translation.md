@@ -11515,6 +11515,128 @@ Then Abhyāvartin Jāyamāna and Prastoka, son of Sṛñjaya, came to Bharadvāj
 
 "O great seer, you are the family priest of all of us. With your help we shall be able to conquer all the Kṣatrabandhus. The power that can protect and honour the power of Brahman, that alone is the true
 
+### Printed p. 342
+
+Kṣatra power. All the others merely joined the Kṣatriya group in name and became engaged in evil deeds. "Therefore help us to destroy such evil powers," they prayed. Then:
+
+ऋषिस्तौ तु तथेत्युक्त्वा पायुं पुत्रमभाषत । अधर्षणीयौ शत्रूणां कुरुष्टौ नृपाविति ॥ (*ṛṣistau tu tathetyuktvā pāyuṃ putramabhāṣata | adharṣaṇīyau śatrūṇāṃ kuruṣṭau nṛpāviti ‖*)
+
+(Bṛ. De. 5-12.)
+
+The sage Bharadvāja agreed to help them, made his consent known to them, and then gave this command to his son Pāyu: "Help these two kings, and be the giver of strength to them, so that they conquer their enemies, and after the victory become such that no enemy can oppose them." When he said this, Pāyu, thus commanded by his father, accepted, "So be it," and became their helper in many ways. The details of this will be given later, when Pāyu is dealt with.
+
+Thus Bharadvāja is praised as one born with a divine portion from birth, and as one who, possessing the Brahma-splendour that upholds the Kṣatra duty even in worldly affairs, helped many Kṣatriyas and so helped the protection of Brahman. Therefore we may now examine closely in which contexts, and in what manner, these two kinds of power of Bharadvāja, famed as the seer of the sūktas of the Ṛksaṃhitā, are praised, and what his manifold greatnesses are. In the Ṛksaṃhitā Bharadvāja himself declares the matter of his lineage in this way:
+
+धन्या चिद्दि त्वे धिषणा वष्टि प्र देवाञ्जन गृणते यजध्यै । वेपिष्ठो अंगिरसां यद्ध विप्रो मधु च्छंदो भवति रेभ इष्टौ ॥ (*dhanyā ciddi tve dhiṣaṇā vaṣṭi pra devāñjana gṛṇate yajadhyai | vepiṣṭho aṃgirasāṃ yaddha vipro madhu cchaṃdo bhavati rebha iṣṭau ‖*)
+
+(Ṛ. Saṃ. 6-11-3)
+
+Among the Aṅgirases, this Bharadvāja, the most excellent praiser (रेभः स्तोता भरद्वाजः (*rebhaḥ stotā bharadvājaḥ*)), offers most excellent praises to Agni in the sacrifice performed for the sake of wealth. Thus he has declared that he belongs to the family of Aṅgiras. Moreover:
+
+याभिः सूर्यं परियाथः परावति मंधातारं क्षैत्रपत्येष्वावतं । याभिर्विप्रं त्र भरद्वाजमावतं ताभिरू षु ऊतिभिरश्विनागतं ॥ ( (*yābhiḥ sūryaṃ pariyāthaḥ parāvati maṃdhātāraṃ kṣaitrapatyeṣvāvataṃ | yābhirvipraṃ tra bharadvājamāvataṃ tābhirū ṣu ūtibhiraśvināgataṃ ‖ (*)
+
+(Ṛ. Saṃ. 1-112-13)
+
+O Aśvin deities, with whatever protections you went forward to free the Sun, who dwells in a distant region and was enveloped by Rāhu in the form of darkness, from the eclipse; and with whatever helps you protected the seer Māndhātṛ in the discharge of his duties of lordship; and moreover with whatever protections you well protected the wise seer Bharadvāja by giving him food, with all those protections come also to us with kindness. This verse tells how Bharadvāja obtained the help of the gods.
+
+### Printed p. 343
+
+There is a story that the Aśvin deities seated Bharadvāja, who desired wealth, in their own chariot, brought him, and gave him abundant wealth. (भरद्वाजऋषिर्धनकामोऽश्विनौ तुष्टाव । तस्य स्वरथेनानीयाश्विन् प्रभूतं धनं ददतुरिति । (*bharadvājaṛṣirdhanakāmo 'śvinau tuṣṭāva | tasya svarathenānīyāśvin prabhūtaṃ dhanaṃ dadaturiti |*) Sā. Bhā.)**NOTE** Because he had very great majesty, all the gods came in person and favoured Bharadvāja. The practice of the most excellent celibacy (brahmacarya) is one of these greatnesses. Explaining this point, the Taittirīya Brāhmaṇa describes a situation in the form of a legend in this way:
+
+भरद्वाजो ह त्रिभिरायुर्भिब्रह्मचर्यमुवास । तग्ं ह जीर्णिग् स्थविरग्ं शयानं । इंद्र उप प्रज्योवाच । भरद्वाज । यत्ते चतुर्थमायुः र्दद्यां । किमेनेन कुर्या इति । ब्रह्मचर्यमेवैनेन चरेयमिति होवाच । तग्ं ह त्रीन्गिरिरूपानविज्ञातानिव दर्शयांचकार । तेषाग्ं हैकैकस्मान्मुष्टिनाददे । स होवाच । भरद्वाजेत्यामंत्र्य । वेदा वा एते। अनंता वै वेदाः । एतद्वा एतैस्त्रिभिरायुर्भिरन्ववोचथाः । अथ त इतरदननूक्तमेव एहीमं विद्धि । आयं वै सर्वविद्यॆति । तस्मै हैतमग्निग्ं सावित्रमुवाच । तग्ं स विदित्वा! अमृतो भूत्वा। स्वर्ग० लोकमियाय । आदित्यस्य सायुज्यं । अमृतो हैव भूत्वा । स्वर्ग० लोकमेति । आदित्यस्य सायुज्यं । य एवं वेद । (*bharadvājo ha tribhirāyurbhibrahmacaryamuvāsa | tagṃ ha jīrṇig sthaviragṃ śayānaṃ | iṃdra upa prajyovāca | bharadvāja | yatte caturthamāyuḥ rdadyāṃ | kimenena kuryā iti | brahmacaryamevainena careyamiti hovāca | tagṃ ha trīngirirūpānavijñātāniva darśayāṃcakāra | teṣāgṃ haikaikasmānmuṣṭinādade | sa hovāca | bharadvājetyāmaṃtrya | vedā vā ete| anaṃtā vai vedāḥ | etadvā etaistribhirāyurbhiranvavocathāḥ | atha ta itaradananūktameva ehīmaṃ viddhi | āyaṃ vai sarvavidyèti | tasmai haitamagnigṃ sāvitramuvāca | tagṃ sa viditvā! amṛto bhūtvā| svarga0 lokamiyāya | ādityasya sāyujyaṃ | amṛto haiva bhūtvā | svarga0 lokameti | ādityasya sāyujyaṃ | ya evaṃ veda |*)
+
+(Tai. Brā. 3-10-11-3 to 6)
+
+The great seer Bharadvāja kept celibacy in three lives in succession. At the end of the third life, when he had become old, weak in body and was in his last state, Indra approached him and asked: "O Bharadvāja, if I give you a fourth life, what benefit will you obtain from it? How will you use it?" Then Bharadvāja said: "I will use that fourth life also for the practice of celibacy, just as I used the other three lives." Then Indra showed him three huge and most wonderful mountain-like objects. Taking a handful from each of them, he said to Bharadvāja: "O Bharadvāja, these are the three Vedas, and they are endless. In your three previous lives you have studied and recited only this much of these three Vedas. You have not made known the rest. Now study this Agni-Sāvitra and meditate on it. That is the great knowledge that teaches universal knowledge."
+
+### Printed p. 344
+
+Thus the greatness of Bharadvāja is praised in the Taittirīya Brāhmaṇa. The Bṛhat-sāman, the support and source of Kṣatra power, which is the best of all powers, was made by Bharadvāja himself; so both when the power of the Bṛhat-sāman is described and when the power of Kṣatra is praised, the greatness of Bharadvāja is highly extolled. Praising this very matter, the Ṛksaṃhitā itself says:
+
+अविंदन् ते अतिहितं यदासीद्यज्ञस्य धाम परमं गुहा यत् । धातुद्युर्त्यानात्सवितुश्च विष्णोर्भरद्याजो बृहदा चक्रे अग्नेः ॥ (*aviṃdan te atihitaṃ yadāsīdyajñasya dhāma paramaṃ guhā yat | dhātudyurtyānātsavituśca viṣṇorbharadyājo bṛhadā cakre agneḥ ‖*)
+
+(Ṛ. Saṃ. 10-181-2)
+
+The Bṛhat-sāman, which was the supporter of sacrifices and the like and possessed an excellent bodily form, lay hidden in a cave, that is, in a deep region unknown to anyone. Dhātṛ and the others realised it and made it manifest to the world. Bharadvāja obtained this same Bṛhat-sāman from this Dhātṛ, and also from Savitṛ, Viṣṇu and Agni, and made it favourable to sacrifices and the like. Describing this same point, the Aitareya Brāhmaṇa says:
+
+तमु ष्टुहि यो अभिभूत्योजा इति सूक्तमभिवदभिभूतै रूपं । अषाळ्मुग्रं सहमानमाभिरित्युग्रवत्सहमानवत्तत् क्षत्रस्य रूपं । तत्पंचदशर्चं भवत्योजो वा इंद्रियं वीर्यं पंचदश ओजः क्षत्रं वीर्यं राजन्यस्तदेनमोजसा क्षत्रेण वीर्येण समर्धयति तद्बारद्वाजं भवति भारद्वाजं वै बृहदार्षेयेण सलोमा एष ह नाव क्षत्रिययज्ञः समृद्धो यो बृहत्पृष्णस्तस्माद्यत्र क्व च क्षत्रियो यजेत बृहदेव तत्र पृष्टं स्यात्तत्समृद्धं ॥ (*tamu ṣṭuhi yo abhibhūtyojā iti sūktamabhivadabhibhūtai rūpaṃ | aṣāḷmugraṃ sahamānamābhirityugravatsahamānavattat kṣatrasya rūpaṃ | tatpaṃcadaśarcaṃ bhavatyojo vā iṃdriyaṃ vīryaṃ paṃcadaśa ojaḥ kṣatraṃ vīryaṃ rājanyastadenamojasā kṣatreṇa vīryeṇa samardhayati tadbāradvājaṃ bhavati bhāradvājaṃ vai bṛhadārṣeyeṇa salomā eṣa ha nāva kṣatriyayajñaḥ samṛddho yo bṛhatpṛṣṇastasmādyatra kva ca kṣatriyo yajeta bṛhadeva tatra pṛṣṭaṃ syāttatsamṛddhaṃ ‖*)
+
+(Ai. Brā. 36-3)
+
+Thus Bharadvāja and the Bṛhat-sāman that belongs to him are praised. The mantra तमु ष्टुहि (*tamu ṣṭuhi*) (Ṛ. Saṃ. 6-18-1) was composed by Bharadvāja; it is in praise of Indra. Here the use of the word अभि (*abhi*) indicates victory. अषाळ्व (*aṣāḷva*), उग्र (*ugra*) and सहमान (*sahamāna*) all indicate the terrible power of the Kṣatriya and his strength to confront the enemy. The number of mantras in this sūkta is fifteen. The Pañcadaśa (stoma) is the symbol of Ojas, Kṣatra and Vīrya. The Rājanya possesses all these qualities. The sūkta whose mantras have the power of the Rājanya, such as Ojas, Vīrya and Kṣatra, is the work of Bharadvāja. In the same way the Bṛhat-sāman too is connected with Bharadvāja. Since the making of both belongs to Bharadvāja, the power of both is one and the same.
+
+### Printed p. 345
+
+Therefore the sacrifice of any Kṣatriya that has the Pṛṣṭha in the form of the Bṛhat-sāman is the one that attains completeness. So whichever Kṣatriya, on whatever occasion, wishes to perform a sacrifice, then the Bṛhat-sāman alone must be arranged as the Pṛṣṭha. Only then does the sacrifice attain perfection. Thus the Bṛhat-sāman, which brings Kṣatra power to perfection, is praised as the work of the great seer Bharadvāja, its source. If the greatness of this Bṛhat-sāman is understood, the nature of the great seer who is its author is understood still better; hence it is now necessary to know what the nature of this sāman is and what its greatness is.
+
+In describing the Mahāvrata, the Mahāvrata has two wings, the right wing and the left wing. **NOTE** (Right wing and left wing). Of these, the Rathantara-sāman is the right wing and the Bṛhat-sāman is the left wing. The Rathantara made by Vasiṣṭha reflects Agni and is of a hundred in number. The Bṛhat-sāman made by Bharadvāja is of the same number. Its nature is described in the Aitareya Āraṇyaka in this way:
+
+अथात उत्तरः पक्षः । सोऽसौ लोकः सोऽसावादित्यस्तन्मनस्तद्बृहत्स भरद्वाजस्तच्छतं तानि षड्वीर्याणि भवंति । (*athāta uttaraḥ pakṣaḥ | so 'sau lokaḥ so 'sāvādityastanmanastadbṛhatsa bharadvājastacchataṃ tāni ṣaḍvīryāṇi bhavaṃti |*) (Ai. Ā. 1-4-2)
+
+The Bṛhat-sāman itself is the left wing (Left wing). It is the world above, it is Āditya, it is the mind. It is Bhāradvāja. It is of a hundred in number. Its powers are of six kinds. Which is this number of a hundred? It is thus:
+
+त्वामिद्दि हवामहे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ प्रगाथौ । चतस्रः सतीः षड्बृहतीः करोति । तमु ष्टुहि यो अभिभूत्योजाः सुत इत्त्वं निमिश्ल इंद्र सोम इति त्रीण्यभूरेको रयिपते रयाणामित्यष्टौ सूक्तानि । कथा महामवृधत्कस्य होतुरिति संपातः । इंद्रो मदाय नावृध इति पंक्तिः । (*tvāmiddi havāmahe tvaṃ haihi cerava iti bṛhataḥ stotriyānurūpau pragāthau | catasraḥ satīḥ ṣaḍbṛhatīḥ karoti | tamu ṣṭuhi yo abhibhūtyojāḥ suta ittvaṃ nimiśla iṃdra soma iti trīṇyabhūreko rayipate rayāṇāmityaṣṭau sūktāni | kathā mahāmavṛdhatkasya hoturiti saṃpātaḥ | iṃdro madāya nāvṛdha iti paṃktiḥ |*) (Ai. Ā. 5-2-2)
+
+| Reference | Verse | Number | |
+|---|---|---|---|
+| 6-46-1 | त्वामिद्दि हवामहे (*tvāmiddi havāmahe*) | 1 | mantra |
+| 6-46-2 | स त्वं नश्चित्र (*sa tvaṃ naścitra*) | 1 | mantra |
+| ,, | repetition | 1 | mantra |
+| 8-61-7 | त्वं हैहि (*tvaṃ haihi*) | 1 | mantra |
+| 8-61-8 | त्वं पुरू सहस्राणि (*tvaṃ purū sahasrāṇi*) | 1 | mantra |
+| ,, | repetition | 1 | mantra |
+
+### Printed p. 346
+
+| Reference | Verse | Number | |
+|---|---|---|---|
+| 6-18-1 to 15 | the sūkta beginning तमु ष्टुहि (*tamu ṣṭuhi*) | 15 | mantras |
+| 6-23-1 to 10 | the sūkta beginning सुत इत्त्वं निमिश्लः (*suta ittvaṃ nimiślaḥ*) | 10 | mantras |
+| 6-24-1 to 10 | the sūkta beginning वृषा मद इंद्रे (*vṛṣā mada iṃdre*) | 10 | mantras |
+| 6-25-1 to 9 | the sūkta beginning या त ऊतिरवमा (*yā ta ūtiravamā*) | 9 | mantras |
+| 6-31 to 38 | the sūktas in full | 40 | mantras |
+| 4-23-1 to 11 | the sūkta beginning कथामहामवृधक्कस्य (*kathāmahāmavṛdhakkasya*) | 11 | mantras |
+| | | 101 | |
+| 1-81-1 | इंद्रो मदाय वावृधे (*iṃdro madāya vāvṛdhe*) | 1 | |
+
+Total 102 mantras. Leaving out the repetitions 6-46-2 and 8-61-8, a total of 100 mantras are the Bṛhat-sāman mantras made by Bharadvāja. (Among these are included two mantras of the seers Bharga and Gotama.) With the Bṛhat-sāman that contains these mantras, identity with Āditya and with the mind is stated. But here another point must be understood. Ordinarily it is well known that the moon has a direct connection with the mind. Since here Āditya and the mind are both mentioned together, Sāyaṇa has said that Āditya and the moon are to be understood as two parts of one and the same principle. The Bṛhat-sāman is Āditya, the exponent of the principle of mind; its author is Bharadvāja, it is said. The great nature of this Bṛhat-sāman made by Bharadvāja is praised in the Chāndogya in this way:
+
+..........एतद्बृहदादित्ये प्रोतं स य एवमेतत् बृहदादित्ये प्रोतं वेद तेजस्व्यान्नादो भवति सर्वमायुरेति ज्योग्जीवति महान्पजया पशु. भिर्भवति महान्कीर्त्या तपंतं न निंदेत्तद्व्रतं । (*..........etadbṛhadāditye protaṃ sa ya evametat bṛhadāditye protaṃ veda tejasvyānnādo bhavati sarvamāyureti jyogjīvati mahānpajayā paśu. bhirbhavati mahānkīrtyā tapaṃtaṃ na niṃdettadvrataṃ |*)
+
+(Chā. U. 2-14-2)
+
+He who knows this truth, that this Bṛhat-sāman is woven into the Sun, becomes radiant. He lives possessed of abundance of food, long of life, with a life of splendour, with good offspring and cattle, and with the greatest fame. So it is said.
+
+It is Bharadvāja who composed Bṛhat-sāman mantras of such power. He attained the most excellent place among all the seers.
+
+भरद्वाजो ह वा ऋषीणामनूचानतमो दीर्घजीवितमस्तपस्वितम आस स एतेन सूक्तेन पाप्थानमपाहत तद्यद्वारद्वाजं शंसति पाप्मनोऽपहत्या अनूचानो दीर्घजीवी........तस्माद्वारद्वाजं शंसति । (*bharadvājo ha vā ṛṣīṇāmanūcānatamo dīrghajīvitamastapasvitama āsa sa etena sūktena pāpthānamapāhata tadyadvāradvājaṃ śaṃsati pāpmano 'pahatyā anūcāno dīrghajīvī........tasmādvāradvājaṃ śaṃsati |*)
+
+(Ai. Ā. 1-2)**NOTE**
+
+### Printed p. 347
+
+The great seer Bharadvāja was the one of the most excellent knowledge among all the seers, the one of the longest life, and the one of the greatest power of austerity. By reciting the sūkta पिबा सोममभि यमुग्र (*pibā somamabhi yamugra*) (Ṛ. Saṃ. 6-17) he destroyed sin. Therefore it is praised that whoever recites this Bhāradvāja sūkta becomes free from sin, long-lived, and possessed of the greatest power of austerity. For the nature of Bharadvāja is indeed such.
+
+एष उ एव बिभ्रद्वाजः प्रजा वै वाजस्ता एष बिभर्ति यद्विभर्ति तस्माद्भरद्वाजस्तस्माद्भरद्वाज इत्याचक्षत एतमेव संतं । (*eṣa u eva bibhradvājaḥ prajā vai vājastā eṣa bibharti yadvibharti tasmādbharadvājastasmādbharadvāja ityācakṣata etameva saṃtaṃ |*)
+
+(Ai. Ā. 2-2-2)**NOTE**
+
+वाज (*vāja*) means offspring, or strength, or wealth of food. Because he possesses all these riches, the name Bharadvāja became famous; so the Aitareya Āraṇyaka gives the etymology of this word. He who has mind is the possessor of food. Āditya (or the moon) is the possessor of the principle of mind; therefore Bharadvāja means the exponent of the principle of mind. Thus:
+
+मनो वै भरद्वाज ऋषिरन्नं वाजो यो वै मनो बिभर्ति सोऽन्नं वाजं भरति तस्मान्मनो भरद्वाजऋषिः ॥ (*mano vai bharadvāja ṛṣirannaṃ vājo yo vai mano bibharti so 'nnaṃ vājaṃ bharati tasmānmano bharadvājaṛṣiḥ ‖*)
+
+(Śa. Brā. 8-1-1-9)
+
+The seer Bharadvāja is the principle of mind. वाज (*vāja*) means food. Only he who possesses mind possesses food. Therefore the Śatapatha Brāhmaṇa states that Bharadvāja means the possessor of food, or the possessor of the principle of mind that is the root of food. The same principle is stated in the Taittirīya Saṃhitā in this way:
+
+अयं पुरो भुव ........ पंचदशाद्बृहद्बृहतो भरद्वाज ऋषिः प्रजापतिगृहीतया त्वया मनो गृह्णामि प्रजाभ्योऽयं पश्वाद्विश्वव्यचाः । (*ayaṃ puro bhuva ........ paṃcadaśādbṛhadbṛhato bharadvāja ṛṣiḥ prajāpatigṛhītayā tvayā mano gṛhṇāmi prajābhyo 'yaṃ paśvādviśvavyacāḥ |*)
+
+(Tai. Saṃ. 4-3-2-1)
+
+From the Pañcadaśa stoma the Bṛhat-sāman arises, and from it the seer Bharadvāja. (Here Bṛhat-sāman means the principle of the Bṛhat-sāman; the commentary explains it as "in the Bṛhat-sāman mantras".) On the basis of these, the principle of mind, which helps the continuity of offspring, is taken up; thus the relation of cause and effect between wealth of offspring and the principle of mind, and the direct connection of both with Bharadvāja, are stated.
+
+The great seer Bharadvāja exerted his power also in the Agniṣṭoma sacrifice and made the Agniṣṭoma pure and fruitful. How, is thus: this occasion is explained in the form of a story in the Aitareya Brāhmaṇa.
+
 ---
 
-**Progress note:** Done through printed p. 341. end of Śrīsūkta (Ṛk 15-16 verses), end of Maṇḍala 5, start of Maṇḍala 6: seers and Bharadvāja lineage, pp. 334-341
+**Progress note:** Done through printed p. 347. Mandala 6 introduction: Bharadvaja, Brhat-saman
