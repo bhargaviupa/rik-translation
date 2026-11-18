@@ -1319,6 +1319,262 @@ Approaching you, ancient (divinities), I invoke you together for protection : po
 > मि॒त्रो अं॒होश्चि॒दादु॒रु क्षया॑य गा॒तुं व॑नते ।  
 > मि॒त्रस्य॒ हि प्र॒तूर्व॑तः सुम॒तिरस्ति॑ विध॒तः ॥ ४ ॥
 
+### Printed p. 39
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । अंहोः । चित् । आत् । उरु । क्षयाय । गातुं । वनते ।  
+> मित्रस्य । हि । प्रतूर्वतः । सुमतिः । अस्ति । विधतः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो देवोऽहोश्चित् अंहस्वतोऽपि स्तोतुरादनंतरमेवोरूरवे
+> क्षयाय गृहाय निवासाय वा गातुमुपायं वनते । प्रयच्छति । मित्रस्य हि मित्रस्य
+> खलु देवस्य सुमतिः शोभनबुद्धिः प्रतूर्वतः प्रकर्षण हिंसतोऽपि विधतः परिचरतः
+> शुशूषकस्यास्ति हि । भवति खलु ॥
+
+##### Gist of the bhāṣya
+
+The god Mitra, even for a man who is a sinner (अंहोश्चित् (*aṃhościt*)), who is a praiser, immediately afterwards (आत् (*āt*)) grants (वनते (*vanate*), gives) the means (गातुं (*gātuṃ*), a way) for a spacious dwelling, a house or a place to live. For the good will (सुमतिः (*sumatiḥ*)) of the god Mitra is certainly (हि (*hi*)) with the servant, the attendant who serves, even one who greatly (प्रतूर्वतः (*pratūrvataḥ*)) injures. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंहोश्चित् (*aṃhościt*)—even if he is a sinful person
+- आत् (*āt*)—as soon as he recites the praise
+- मित्रः (*mitraḥ*)—Mitra
+- उरु (*uru*)—spacious
+- क्षयाय (*kṣayāya*)—for the house
+- गातुं (*gātuṃ*)—the means of building (the way of entrance)
+- वनते (*vanate*)—provides
+- प्रतूर्वतः (*pratūrvataḥ*)—who destroys foes
+- मित्रस्य (*mitrasya*)—of Mitra
+- सुमतिः (*sumatiḥ*)—the gracious mind
+- विधतः (*vidhataḥ*)—upon the one who offers worship
+- अस्ति हि (*asti hi*)—is always present
+
+##### भावार्थ (Bhāvārtha)
+
+Even if he is a sinful person, as soon as he recites the praise Mitra provides for him a way of entrance into a spacious house. The gracious mind of Mitra, who destroys foes, is always present upon the one who offers worship.
+
+##### English translation
+Mitra grants even to the sinful (worshipper) the (means of) repairing to his spacious dwelling: the favour of Mitra, the destroyer of foes, is (granted) to (his) adorer.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं मि॒त्रस्याव॑सि॒ स्याम॑ स॒प्रथ॑स्तमेः ।  
+> अ॒ने॒हस॒स्त्वोत॑यः स॒त्रा वरु॑णशेषसः ॥ ५ ॥
+
+### Printed p. 40
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । मित्रस्य । अवसि । स्याम । सप्रथःतमे ।  
+> अनेहसः । त्वाऊतयः । सत्रा । वरुणशेषसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं यजमाना मित्रस्य दुःखनिवारकस्य देवस्य सप्रथस्तमे सर्वतः
+> पृथुतमेवसि रक्षणेवयं स्याम । भवेम । किंचानेहसोऽपापास्वोऽतयस्त्वया
+> रक्षिता वरुणशेषसः । शेष इत्यपत्यनाम । वारकाः पुत्रा येषां ते । तादृशाः सत्रा
+> वयं सर्वॆ सहैव भवेम ॥
+
+##### Gist of the bhāṣya
+
+We, the sacrificers, may we be in the protection of the god Mitra, remover of distress, that is the most widely extended (सप्रथस्तमे (*saprathastame*), broadest on every side). Further, free from sin (अनेहसः (*anehasaḥ*)) and protected by you (त्वोतयः (*tvotayaḥ*)), वरुणशेषसः (*varuṇaśeṣasaḥ*): शेष (*śeṣa*) is a name for offspring; they whose sons are protective. Being such, all of us together (सत्रा (*satrā*)) may we be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—(O Mitra)
+- वयं (*vayaṃ*)—we
+- अनेहसः (*anehasaḥ*)—free from sin
+- त्वोतयः (*tvotayaḥ*)—under your protection
+- वरुणशेषसः (*varuṇaśeṣasaḥ*)—good subjects belonging to Varuṇa (or having protecting sons)
+- मित्रस्य (*mitrasya*)—of Mitra
+- सप्रथस्तमे (*saprathastame*)—most abundant
+- अवसि (*avasi*)—in the protection
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, free from sin, under your protection and good subjects belonging to Varuṇa, may we obtain the most abundant protection of Mitra.
+
+##### English translation
+May we ever be in the comprehensive guardianship of Mitra, and free from sin, enjoy, (Mitra), your protection, being at the same time the children of Varuna.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं मि॑त्रे॒मं जनं॒ यत॑थः॒ सं च॑ नयथः ।  
+> मा म॒घोनः॒ परि॑ ख्यतं॒ मो अ॒स्माक॒मृषी॑णां गोपी॒थे न॑  
+> उरुष्यतं ॥ ६ ॥
+
+### Printed p. 41
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । मित्रा । इमं । जनं । यतथः । सं । चॆ । नयथः ।  
+> मा । मघोनः । परि । ख्यतं । मो इति । अस्माकं । ऋषीणां । गोऽपीथे । नः ।  
+> उरुष्यतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रा मित्रावरुणौ युवं युवामिमं जनं स्तोतारं मां प्रति
+> यतथः । गच्छथः । आगत्य च सं च नयथः । संनयथश्च । कामान् प्रापयथः ।
+> यद्वा । यतथ इत्यंतर्णीतण्यर्थोऽयं । अहनि यतथः । व्यापारेषु गमयथः ।
+> रात्र्य च सं नयथः । निर्व्यापारं कारयथः । मघोनो हनिर्लक्षणान्नवतोऽस्मान्मा
+> परि ख्यतं । मा परित्यजतं । मो मैव ऋषीणामस्माकं पुत्रानपि परि ख्यतं । किंतु
+> गोपीथे । गौः सोमरसः । तस्य पानं यस्मिन् स गोपीथो यज्ञः । तस्मिन्न
+> उरुष्यतं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra, that is, Mitra and Varuṇa, you two go (यतथः (*yatathaḥ*)) towards this person (जनं (*janaṃ*)), me the praiser; having come, you lead (नयथः (*nayathaḥ*)) him, that is, you cause desires to be reached. Or else: यतथः (*yatathaḥ*) has a causative sense within it. By day you make him go (यतथः (*yatathaḥ*)) into his undertakings, and by night you bring him to rest (सं च नयथः (*saṃ ca nayathaḥ*)), you make him idle. Do not abandon (मा परि ख्यतं (*mā pari khyataṃ*)) us, rich (मघोनः (*maghonaḥ*)) in oblations of food; do not abandon the sons also of us who are seers (ऋषीणां (*ṛṣīṇāṃ*)). But in the गोपीथे (*gopīthe*) (गौः (*gauḥ*) is the Soma juice; the sacrifice in which it is drunk is the गोपीथो (*gopītho*)), protect us (उरुष्यतं (*uruṣyataṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रा (*mitrā*)—O Mitra and Varuṇa
+- युवं (*yuvaṃ*)—you
+- इमं जनं (*imaṃ janaṃ*)—looking to this praiser
+- यतथः (*yatathaḥ*)—come
+- सं च नयथः (*saṃ ca nayathaḥ*)—and provide what he desires
+- मघोनः (*maghonaḥ*)—us who possess food in the form of oblations
+- मा परि ख्यतं (*mā pari khyataṃ*)—do not abandon
+- ऋषीणां (*ṛṣīṇāṃ*)—who are seers
+- अस्माकं (*asmākaṃ*)—to us
+- मो (*mo*)—(our sons and others) do not reject
+- गोपीथे (*gopīthe*)—in this sacrifice in which Soma is drunk
+- नः (*naḥ*)—us
+- उरुष्यतं (*uruṣyataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, come towards this praiser. Provide what he desires. Do not abandon us, who possess food in the form of oblations. Do not reject our sons and others, we who are seers. Protect us in this sacrifice in which Soma is drunk.
+
+##### English translation
+You come Mitra and Varuna, to this man, and guide him (to his desires): deny us not when we are rich (in offerings) : (deny us not), who are (the sons) of Rishis : protect us in the presenting of the libation.
+
+### Printed p. 42
+## Sūkta 66 (Maṇḍala 5)
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ चिकितान (*ā cikitāna*) has six Ṛks and is the tenth sūkta. Its seer is Rātahavya; its deity is Mitra and Varuṇa; its metre is Anuṣṭubh. The Anukramaṇikā here says आ चिकितानानुष्टुभं (*ā cikitānānuṣṭubhaṃ*). The first tṛca (the first three Ṛks) is used in the Daśarātra, on the fourth day, in the प्रउगशस्त्रे (*praugaśastre*) of the Maitrāvaruṇa priest. It is also laid down in the sūtra आ चिकितान सुकृतू त्यमुः वो अप्रहणं (*ā cikitāna sukṛtū tyamuḥ vo aprahaṇaṃ*) (Ā. 7-11).
+
+##### Anuvāda
+
+This sūkta, beginning "Ā cikitāna", is the tenth sūkta in the fifth anuvāka. It has six Ṛks. The seer of this sūkta is Rātahavya of the Atri line; the deity is Mitra and Varuṇa; the metre is Anuṣṭubh. In the Anukramaṇikā it is said: "Ā cikitānānuṣṭubhaṃ tu". The first tṛca of this sūkta, that is, the first three Ṛks, is used in the ritual for the prauga-śastra mantras recited on the fourth day of the sacrifice called Daśarātra by the priest called Maitrāvaruṇa, as set out in the Āśvalāyana Śrauta Sūtra in the sūtra "Ā cikitānā sukṛtū tyamu vo apraha ṇaṃ" (Ā. 7-11).
+
+##### Particulars
+
+- Sūkta: 66
+- Maṇḍala 5; Anuvāka 5; Sūkta 66
+- Aṣṭaka 4; Adhyāya 4; Varga 4
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: Rātahavya Ātreya
+- Devatā: Mitra and Varuṇa
+- Chandas: Anuṣṭubh
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ चि॑कितान सु॒क्रतू॑ दे॒वौ म॑र्त रि॒शाद॑सा ।  
+> वरु॑णाय ऋ॒तपे॑शसे दधी॒त प्रय॑से म॒हे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । चिकितान । सुक्रतू इति सुक्रतू । देवौ । मर्त । रिशादसा ।  
+> वरुणाय । ऋत्पेशसे । दधीत । प्रयसे । महे ॥ १ ॥
+
+### Printed p. 43
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे चिकितान जानन् स्तुतिं हे मर्त मनुष्य रातहव्य त्वमिति तस्यैव
+> संबोधनं । सुक्रतू शोभनकर्माणौ रिशादसा हिंसकानां हिंसकौ देवावा ।
+> आकारयेति शेषः । आहूय च ऋतपेशसे । पेश इति रूपनाम । ऋतमुदकं ।
+> उदकमेव रूपं यस्य तादृशाय वरुणाय प्रयसे ॥ मत्त्वर्थो लुप्यते ॥
+> हविर्लक्षणान्नवते महे महते पूज्याय दधीत । दद्याः । हविरिति शेषः ।
+> द्वितीयार्थे वा चतुर्थी । महद्धनिर्दधीत । महतोऽन्नस्य लाभायेति ना
+> योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O चिकितान (*cikitāna*), you who know the praise; O मर्त (*marta*), man, Rātahavya: the word "you" is his own address. Call (आकारय (*ākāraya*), to be supplied) the two gods, सुक्रतू (*sukratū*), doers of good works, रिशादसा (*riśādasā*), destroyers of those who destroy. Having called them, give (दधीत (*dadhīta*), you should give; "oblation" is to be supplied) to Varuṇa ऋतपेशसे (*ṛtapeśase*): पेश (*peśa*) is a name for form, ऋत (*ṛta*) is water, so one whose form is water. प्रयसे (*prayase*): the affix expressing possession is dropped; so, possessed of food in the form of oblation. महे (*mahe*): great, worshipful. Or else the dative stands in the sense of the accusative. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चिकितान (*cikitāna*)—you who know the order of worship
+- मर्त (*marta*)—O man (praiser)
+- सुक्रतू (*sukratū*)—the performers of excellent works
+- रिशादसा (*riśādasā*)—and destroyers of foes
+- देवौ (*devau*)—Mitra and Varuṇa
+- आ (*ā*)—invite
+- ऋतपेशसे (*ṛtapeśase*)—who has water itself as his form
+- प्रयसे (*prayase*)—who is a sharer in food
+- महे (*mahe*)—and is worshipful
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- दधीत (*dadhīta*)—offer the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O man, praiser, who have knowledge of the order of worship, invite Mitra and Varuṇa, the performers of excellent works and destroyers of foes. Offer the oblation to Varuṇa, who has water itself as his form, who is a sharer in food in the form of oblations, and who is worshipful.
+
+##### English translation
+Man, endowed with intelligence, (adore) the two deities, the performers of good deeds, the destroyers of foes; offer (oblations) to the adorable accepter of (sacrificial) food, to Varuna, whose form is water.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि क्ष॒त्रमवि॑ह्रुतं स॒म्यग॑सु॒र्य१॒॑ १ माशा॑ते ।  
+> अध॑ व्र॒तेव॒ मानु॑षं॒ स्व१॒॑र्ण धा॑यि दर्श॒तं ॥ २ ॥
+
+### Printed p. 44
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । क्षत्रं । अविऽह्रुतं । सम्यक् । आसुर्यं । आशाते इति ।  
+> अध । व्रताइव । मानुषं । स्वः । न । धायि । दर्शतं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता हि । हीति हेत् । यस्मात्ता तौ क्षत्रं बलमविह्रुतमहिंस्यमसुर्यमसुरविघाति महद्बलं सम्यगाशाते व्याप्नुतः अध अतो हेतोर्मानुषं
+> मनुष्येषु प्रवृत्तं व्रतेव कर्मेव तद्मथा मनुष्येषु नियतं स्वर्ण सूर्य इव स
+> यथा दिवि दृश्यते तद्वद्दर्शतं दर्शनीयं बलं धायि । यज्ञे निहितं ॥
+
+##### Gist of the bhāṣya
+
+ता हि (*tā hi*): हि (*hi*) gives the reason. Since those two have strength (क्षत्रं (*kṣatraṃ*)), unharmed (अविह्रुतं (*avihrutaṃ*)) and आसुर्यं (*āsuryaṃ*), which strikes down the asuras, great strength, and pervade it fully (सम्यगाशाते (*samyagāśāte*)), therefore (अध (*adha*)): the strength that is directed to men, fixed among men like a rite (व्रतेव (*vrateva*)), and like the sun (स्वर्ण (*svarṇa*)) as he is seen in heaven, so beautiful (दर्शतं (*darśataṃ*)) strength is placed (धायि (*dhāyi*)) in the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—those Mitra and Varuṇa
+- हि (*hi*)—because
+- अविह्रुतं (*avihrutaṃ*)—unresisted
+- असुरं (*asuraṃ*)—and destroying the asuras
+- क्षत्रं (*kṣatraṃ*)—strength
+- सम्यक् (*samyak*)—fully
+- आशाते (*āśāte*)—they have obtained
+- अध (*adha*)—for that very reason
+- मानुषं (*mānuṣaṃ*)—fixed among men
+- व्रता इव (*vratā iva*)—like rites
+- स्वः न (*svaḥ na*)—and like the sun established in the sky
+- दर्शतं (*darśataṃ*)—attractive
+- धायि (*dhāyi*)—power has been established (in the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+Because Mitra and Varuṇa have fully obtained strength that is unresisted and destroys the asuras, for that very reason attractive power has been established in the sacrifice, like the rites fixed among men and like the sun established in the sky.
+
+##### English translation
+Inasmuch as you two are possessed of irresistible and Asura-subduing strength, therefore has holy sacrifice been established amongst men, as the sun (has been placed) in the sky.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वा॒मेषे॒ रथा॑नामु॒र्वीं गव्यू॑तिमेषां ।  
+> रा॒तह॑व्यस्य सुष्टु॒तिं द॒धृक्सोमै॑र्मनामहे ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 38. Rk 5 bhashya to Sukta 65 Rk 4 samhita (pp. 32-38)
+**Progress note:** Done through printed p. 44. Sukta 65 Rks 4-6; Sukta 66 Rks 1-2, Rk 3 samhita (pp. 39-44)
