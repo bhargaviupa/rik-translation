@@ -10488,6 +10488,131 @@ O goddess Śrī, whose body shines with great radiance like the radiance of the 
 
 आदित्यवर्णे तरुणार्कवदरुणवर्णे । " अरुणां करुणातरंगिताक्षीमिति " बालारूपमत्र सूचितं भवति । वनस्पतिबिल्वो वृक्षः तव तपसोऽधिजातः । नीवातटीनीतटी बिल्वारण्यं त्वत्तपसो जातमिति भावः । (*ādityavarṇe taruṇārkavadaruṇavarṇe | " aruṇāṃ karuṇātaraṃgitākṣīmiti " bālārūpamatra sūcitaṃ bhavati | vanaspatibilvo vṛkṣaḥ tava tapaso 'dhijātaḥ | nīvātaṭīnītaṭī bilvāraṇyaṃ tvattapaso jātamiti bhāvaḥ |*) तनुमध्या पुरा बाला नीवातटमुपाश्रिता । बिल्वारण्ये तपश्चक्रे लक्ष्मीर्लोकहितार्थिनी ॥ (*tanumadhyā purā bālā nīvātaṭamupāśritā | bilvāraṇye tapaścakre lakṣmīrlokahitārthinī ‖*)
 
+### Printed p. 296
+
+इति कालिकापुराणवचनात् । तस्य बिल्वस्य फलानि त्वत्तपसा सशक्तिकानि मा मयि स्थिताः अंतराः हृद्गताज्ञानपापादिरूपिण्यः बाह्याः दारिद्राद्रिरूपिण्यः याः दुर्गतयः शाः अलक्ष्मीः नुदंतु निरासयंतु । (*iti kālikāpurāṇavacanāt | tasya bilvasya phalāni tvattapasā saśaktikāni mā mayi sthitāḥ aṃtarāḥ hṛdgatājñānapāpādirūpiṇyaḥ bāhyāḥ dāridrādrirūpiṇyaḥ yāḥ durgatayaḥ śāḥ alakṣmīḥ nudaṃtu nirāsayaṃtu |*)
+
+बिल्वनाथप्रियायास्तु नारायण्यास्तपोबलात् । बिल्वारण्यं फलत्यद्य लोकालक्ष्मीनिवृत्तये ॥ (*bilvanāthapriyāyāstu nārāyaṇyāstapobalāt | bilvāraṇyaṃ phalatyadya lokālakṣmīnivṛttaye ‖*)
+
+इति ब्रह्मांडपुराणवचनात् । तत्रत्यबिल्वफलस्नानाशनादिकमलक्ष्मीपरिहारकं भवत्विति भावः ॥ (*iti brahmāṃḍapurāṇavacanāt | tatratyabilvaphalasnānāśanādikamalakṣmīparihārakaṃ bhavatviti bhāvaḥ ‖*)
+
+**Saubhāgya-sañjīvana**
+
+द्वितीयवर्गे प्रथमामृचं जपेत्प्रेणाति बाला तरुणारुणश्रीः । यस्यास्तपोयोगबलेन बिल्वफलान्यलक्ष्मीं शमयंति नृणां ॥ (*dvitīyavarge prathamāmṛcaṃ japetpreṇāti bālā taruṇāruṇaśrīḥ | yasyāstapoyogabalena bilvaphalānyalakṣmīṃ śamayaṃti nṛṇāṃ ‖*)
+
+तनुमध्यां महालक्ष्मीं बालां त्रिपुरसुंदरीं । त्रिबिल्वपत्रैस्संपूज्य सहस्रं प्रजपेद्यचं ॥ तिष्टुप् शिवाक्षरा यस्माच्चिवलक्षजपं चरेत् । बिल्वस्य हविषा होम आज्यहोमश्च शस्यते ॥ ऐश्वर्येणार्चयेद्देवीं बिल्वपत्रैर्हरिद्रया । रुद्रलक्षप्रदीपैश्च नीराजनविधिं चरेत् ॥ पक्वबिल्वफलाहारस्सतं नियतव्रतः । शांतिं कृत्वा विधानेन जगदंबाप्रसादतः ॥ अलक्ष्मीं परिभूयाथ महालक्ष्मीं स्थिरां लभेत् ॥ (*tanumadhyāṃ mahālakṣmīṃ bālāṃ tripurasuṃdarīṃ | tribilvapatraissaṃpūjya sahasraṃ prajapedyacaṃ ‖ tiṣṭup śivākṣarā yasmāccivalakṣajapaṃ caret | bilvasya haviṣā homa ājyahomaśca śasyate ‖ aiśvaryeṇārcayeddevīṃ bilvapatrairharidrayā | rudralakṣapradīpaiśca nīrājanavidhiṃ caret ‖ pakvabilvaphalāhārassataṃ niyatavrataḥ | śāṃtiṃ kṛtvā vidhānena jagadaṃbāprasādataḥ ‖ alakṣmīṃ paribhūyātha mahālakṣmīṃ sthirāṃ labhet ‖*)
+
+ऐं क्लीं सौः ऐं ह्रीं श्रीं। इति बीजषट्केन अनुलोमविलोमपरिवर्तितेन षट्त्रिंशन्ना साः । ध्यानं— (*aiṃ klīṃ sauḥ aiṃ hrīṃ śrīṃ| iti bījaṣaṭkena anulomavilomaparivartitena ṣaṭtriṃśannā sāḥ | dhyānaṃ—*)
+
+उद्यदादित्यसंकाशां बिल्वकाननमध्यगां । शनुमध्यां श्रियं ध्यायेदलक्ष्मीपरिहारिणीं ॥ (*udyadādityasaṃkāśāṃ bilvakānanamadhyagāṃ | śanumadhyāṃ śriyaṃ dhyāyedalakṣmīparihāriṇīṃ ‖*)
+
+अस्य मंत्रस्य विधिवदेकादशलक्षजपात् सारस्वतसिद्धिः । चतुश्चत्वारिंशल्लक्षजपान्महदैश्वर्यभोगभाग्याभिवृद्धिः । तावत्पारायणमात्रेणापि सभक्तिकेन तदुचितफलसिद्धिरिति तत्त्वं । पंचदशाक्षर्यां षष्टो हकारः षष्ठीमिमामृचं लक्षयति । षष्ठ्याः गायत्राः प्रणवार्थाभिव्यंजकत्वेन हार्द्राज्ञाननिवृत्तिद्वारा मोक्षदायकत्वं च सिद्धमिति फलितं ॥ (*asya maṃtrasya vidhivadekādaśalakṣajapāt sārasvatasiddhiḥ | catuścatvāriṃśallakṣajapānmahadaiśvaryabhogabhāgyābhivṛddhiḥ | tāvatpārāyaṇamātreṇāpi sabhaktikena taducitaphalasiddhiriti tattvaṃ | paṃcadaśākṣaryāṃ ṣaṣṭo hakāraḥ ṣaṣṭhīmimāmṛcaṃ lakṣayati | ṣaṣṭhyāḥ gāyatrāḥ praṇavārthābhivyaṃjakatvena hārdrājñānanivṛttidvārā mokṣadāyakatvaṃ ca siddhamiti phalitaṃ ‖*)
+
+**Skānda-purāṇa, Sanatkumāra-saṃhitā, Bilva-māhātmya**
+
+शिवलिंगार्चनोद्योगी जगद्रक्षणदीक्षितः । महाविष्णुस्तपश्चक्रे तस्यैव सहचारिणी ॥ (*śivaliṃgārcanodyogī jagadrakṣaṇadīkṣitaḥ | mahāviṣṇustapaścakre tasyaiva sahacāriṇī ‖*)
+
+### Printed p. 297
+
+महालक्ष्मीस्तपस्तेपे भर्तृसेवापरायणा । तदा बिल्वतरुर्जातो लक्ष्मीदक्षिणहस्ततः ॥ तत्पत्रैरर्चयामास महाविष्णुश्च शंकरं । बिल्वपत्रार्चितस्तुष्टो महादेवो दयानिधिः । सर्वदेवोत्तमत्वं च सर्वस्वातंत्रमेव च । प्रदद् सर्वपूज्यत्वं सर्वसिद्दिं च विष्णवे ॥ (*mahālakṣmīstapastepe bhartṛsevāparāyaṇā | tadā bilvatarurjāto lakṣmīdakṣiṇahastataḥ ‖ tatpatrairarcayāmāsa mahāviṣṇuśca śaṃkaraṃ | bilvapatrārcitastuṣṭo mahādevo dayānidhiḥ | sarvadevottamatvaṃ ca sarvasvātaṃtrameva ca | pradad sarvapūjyatvaṃ sarvasiddiṃ ca viṣṇave ‖*)
+
+श्रीवृक्ष इति विख्यातो बिल्वद्रुर्देवपूजितः । त्रिगुणैस्त्रिदलैः पत्रैस्त्रिमूर्तिप्रीतिदायकः ॥ त्रयिमयोऽयं विख्यातो नीतो देवैश्च नंदनं । कैलासेऽपि च वैकुंठे श्वेतद्वीपे सुरालये ॥ मंदरादिषु पुण्येषु क्षेत्रेषु सकलेष्टपि । पूज्यंते बिल्वतरवः श्रीवृक्षा इति नारद (*śrīvṛkṣa iti vikhyāto bilvadrurdevapūjitaḥ | triguṇaistridalaiḥ patraistrimūrtiprītidāyakaḥ ‖ trayimayo 'yaṃ vikhyāto nīto devaiśca naṃdanaṃ | kailāse 'pi ca vaikuṃṭhe śvetadvīpe surālaye ‖ maṃdarādiṣu puṇyeṣu kṣetreṣu sakaleṣṭapi | pūjyaṃte bilvataravaḥ śrīvṛkṣā iti nārada*)
+
+फलानि श्रीतपोयोगाद्यस्यालक्ष्मिनिरासने । लक्ष्मीप्राप्त पटीयांसि सेव्यंते पुण्यशालिभिः ॥ ज्ञानप्रदमिमं वृक्षं दारिद्रपरिहारकं । श्रीप्रियं योर्चयेद्बिल्वं स नरो भाग्यवान्भवेत् ॥ श्रीयंत्रं बिल्वपत्रैस्तु शिवलिंगमथापि वा । योर्चयेदन्नहं भक्त्या पुरुषार्थान्समश्नुते ॥ (*phalāni śrītapoyogādyasyālakṣminirāsane | lakṣmīprāpta paṭīyāṃsi sevyaṃte puṇyaśālibhiḥ ‖ jñānapradamimaṃ vṛkṣaṃ dāridraparihārakaṃ | śrīpriyaṃ yorcayedbilvaṃ sa naro bhāgyavānbhavet ‖ śrīyaṃtraṃ bilvapatraistu śivaliṃgamathāpi vā | yorcayedannahaṃ bhaktyā puruṣārthānsamaśnute ‖*)
+
+कालिदासकृतदेवीस्तोत्रे च बिल्वार्जनप्राशस्त्रमुक्तं॥ चंडि त्वच्चर णांबुजार्जनविधौ बिल्विदलोल्लुंठनात्तुट्यक्कंटककोटिभिः परिचयं येषां न जग्मुः कराः । ते दंडांकुशचक्रचापकुलिशश्रेणीशतैरंचिता जायंते पृथिवीभुजः कथमिवांभोजप्रभैः पाणिभिः ॥ (*kālidāsakṛtadevīstotre ca bilvārjanaprāśastramuktaṃ‖ caṃḍi tvaccara ṇāṃbujārjanavidhau bilvidalolluṃṭhanāttuṭyakkaṃṭakakoṭibhiḥ paricayaṃ yeṣāṃ na jagmuḥ karāḥ | te daṃḍāṃkuśacakracāpakuliśaśreṇīśatairaṃcitā jāyaṃte pṛthivībhujaḥ kathamivāṃbhojaprabhaiḥ pāṇibhiḥ ‖*)
+
+##### Anuvāda
+
+In the book called Sārasvata-siddhi the meaning is explained thus:
+
+आदित्यवर्णे (*ādityavarṇe*)—she who shines with a bodily lustre of reddish tinge like the young sun that has just risen; as in अरुणां करुणातरंगिताक्षीं (*aruṇāṃ karuṇātaraṃgitākṣīṃ*), the lustre of the young sun is here given as the illustration.
+
+वनस्पतिः बिल्वः (*vanaspatiḥ bilvaḥ*)—अपुष्पाः फलवंतो ये ते वनस्पतयः स्मृताः । (*apuṣpāḥ phalavaṃto ye te vanaspatayaḥ smṛtāḥ |*) Ordinarily trees first put forth flowers and afterwards become laden with fruit. But some kinds of tree bear fruit without putting forth flowers. These are called vanaspati. The bilva tree belongs to this
+
+### Printed p. 298
+
+class of vanaspati. In saying that such a bilva tree arose by your grace, the great nature of the goddess is described here. In some places it is said that for this goddess to perform austerity a forest of bilva trees arose on the bank of the river called Nīvā:
+
+तनुमध्या पुरा बाला नीवातटमुपाश्रिता । बिल्वारण्ये तपश्चक्रे लक्ष्मीर्लोकहितार्थिनी ॥ (*tanumadhyā purā bālā nīvātaṭamupāśritā | bilvāraṇye tapaścakre lakṣmīrlokahitārthinī ‖*)
+
+Such is the statement of the Kālikā-purāṇa; that is, in former times Lakṣmī, slender in the waist and a girl, performed austerity for the good of the world in the forest of bilva trees on the bank of the river called Nīvā. As for what the excellence of this bilva tree is, its greatness is set out in the second half of this mantra.
+
+बिल्वनाथप्रियायास्ते नारायण्यास्तपोबलात् । बिल्वारण्यं फलत्यद्य लोकालक्ष्मीनिवृत्तये ॥ (*bilvanāthapriyāyāste nārāyaṇyāstapobalāt | bilvāraṇyaṃ phalatyadya lokālakṣmīnivṛttaye ‖*)
+
+So it is said in the Brahmāṇḍa-purāṇa. That is, by the power of the austerity of the goddess Lakṣmī, the forest of bilva trees called Bilvāraṇya, dear to Īśvara, bears fruit even now for the removal of the poverty and misfortune of the people in the world. The intention is that if one bathes with the fruits of the bilva trees standing in that Bilvāraṇya, eats of them and so on, troubles such as ill fortune and poverty are removed.
+
+In the book called Saubhāgya-sañjīvana:
+
+By reciting the first Ṛk of the second varga of this Śrī-sūkta, that is, the sixth Ṛk of this sūkta, the goddess Śrī, a girl whose body is a mass of splendour like the young sun, is gratified. By the power of that goddess's austerity and yoga, the bilva fruits destroy the sorrow and poverty of men, it is said.
+
+This goddess called Mahālakṣmī shines with a slender body. Famed in the form of a girl and by the name Tripurasundarī, this Mahālakṣmī is to be worshipped with bilva leaves and this Ṛk recited a thousand times. After one lakh of recitations have been made in this way, oblations are to be made in the fire, with the mantra, of bilva leaves, havis (cooked rice) and ghee. The goddess is to be worshipped with many kinds of ornaments and with auspicious materials such as turmeric, and one lakh lamps are to be lit and the camphor-lamp waved. Afterwards the practiser, observing the vow with restraint, eating well-ripened bilva fruits during the recitation, should complete the oblations and the rest with all their parts. If this is done, by the grace of the goddess Śrī, the mother of the world, sorrow, poverty and the like are destroyed and lasting wealth and the like are obtained. During the recitation of this Ṛk
+
+### Printed p. 299
+
+one should make thirty-six nyāsas, reciting in direct and reverse order the six seed-syllables ऐं, क्षीं सौः ऐं ह्रीं श्रीं (*aiṃ, kṣīṃ sauḥ aiṃ hrīṃ śrīṃ*) **NOTE**, and meditate with the verse:
+
+उद्यदादित्यसंकाशां बिल्वकाननमध्यगां । तनुमध्यां श्रियं ध्यायेदलक्ष्मीपरिहारिणीं ॥ (*udyadādityasaṃkāśāṃ bilvakānanamadhyagāṃ | tanumadhyāṃ śriyaṃ dhyāyedalakṣmīparihāriṇīṃ ‖*)
+
+One should meditate with the above verse, whose meaning is: "I meditate on the goddess Śrī, who shines with a bodily lustre like the rising sun, who is in the middle of the forest of bilva trees, who is slender in the waist, and who removes sorrow and poverty." If this mantra is recited according to rule eleven lakhs of times, the grace of the goddess Sarasvatī results. If forty-four lakhs are recited, great wealth, enjoyment, good fortune and the like are obtained. By the mere devout recitation (pārāyaṇa) of the mantra to the number stated above, the same result is attained. The sixth syllable of the Pañcadaśākṣarī great mantra, the syllable ha, points to this sixth Ṛk. Since this sixth Ṛk contains the chief meaning of the Gāyatrī great mantra and of the Praṇava mantra, the fact that the recitation of this Ṛk grants liberation by removing ignorance is established by experience.
+
+In the Sanatkumāra-saṃhitā of the Skānda-purāṇa, in the description of the greatness of the bilva, it is set out thus:
+
+Once upon a time the great Viṣṇu, engaged in the protection of the world, was intent on the worship of the Śiva-liṅga and performed austerity. Mahālakṣmī, the wife of that Viṣṇu, serving her husband, also performed austerity. Then from the right hand of that Lakṣmī the bilva tree arose. Mahāviṣṇu worshipped Śiva with the leaves of that bilva tree. Pleased by the bilva-leaf worship made by Viṣṇu, Mahādeva Śiva, with a gaze moist with compassion, granted Viṣṇu supremacy among all the gods, complete independence, worship by all, and all success. Thus the bilva tree became famed under the name Śrīvṛkṣa, and that bilva tree became worthy of worship even by the gods. Its leaf, made of three leaflets, as a sign of the three guṇas, sattva, rajas and tamas, became pleasing to the three Mūrtis, Brahmā, Viṣṇu and Maheśvara. The three leaflets of its leaf became famed as the form of the three Vedas, Ṛg, Yajus and Sāman. The gods took that tree and planted it in their garden Nandana. Not only that; listen, O Nārada. That bilva tree, famed by the name Śrīvṛkṣa, thriving in Kailāsa, Vaikuṇṭha, Śvetadvīpa and other places, in heaven, in the temples of the gods and in all holy places, is worshipped by all. By the power of the austerity and yoga performed by Lakṣmī, the fruits of this bilva tree attained greatness. Men of merit who desire the grace of the goddess Lakṣmī eat the fruits of this tree.
+
+### Printed p. 300
+
+The greatness of this tree is exceeding. By worshipping it knowledge is attained, and poverty is removed. The man who worships this tree, which is most dear to the goddess Śrī, becomes fortunate; and the man who devoutly worships the Śrī-yantra and the Śiva-liṅga every day with bilva leaves obtains all the aims of man and lives happily.
+
+In the hymn to the Goddess composed by the great poet named Kālidāsa the greatness of this bilva worship is described thus:
+
+चंडि त्वच्चरणांबुजार्चनविधौ बिल्वदल्लोल्लुंठनात् त्र्युट्यत्कंटककोटिभिः परिचयं येषां न जग्मुः कराः । ते दंडांकुशचक्रचापकुलिश श्रेणीशतैरंचिता जायंते पृथिवीभुजः कथमिवांभोजप्रभैः पाणिभिः ॥ (*caṃḍi tvaccaraṇāṃbujārcanavidhau bilvadallolluṃṭhanāt tryuṭyatkaṃṭakakoṭibhiḥ paricayaṃ yeṣāṃ na jagmuḥ karāḥ | te daṃḍāṃkuśacakracāpakuliśa śreṇīśatairaṃcitā jāyaṃte pṛthivībhujaḥ kathamivāṃbhojaprabhaiḥ pāṇibhiḥ ‖*)
+
+O Caṇḍī, when your lotus feet are worshipped, the hands of those who worship devoutly with bilva leaves never come to know the acquaintance of crores of troubles and pains. That is, hands that have worshipped the goddess have no occasion to do hard work. By the greatness of the bilva worship they have performed, those men are born as kings whose hands, soft as lotuses, bear many royal marks such as the staff, the goad, the discus, the bow and the thunderbolt; how this comes about is a wonder.
+
+Here ends the explanation of the meaning of the sixth Ṛk.
+
+#### Ṛk 7
+
+अस्य श्रीश्रीसूक्तसप्तमयङ्महामंत्रस्य । वासुदेव ऋषिः । मणिमालिनी लक्ष्मीर्देवता । अनुष्टुप् छंदः । उं श्रीं बीजं । मं ब्लूं शक्तिः । श्रीं कीलकं । सर्वकाम्यार्थसिद्धये राजराजेश्वरी महालक्ष्मीप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ (*asya śrīśrīsūktasaptamayaṅmahāmaṃtrasya | vāsudeva ṛṣiḥ | maṇimālinī lakṣmīrdevatā | anuṣṭup chaṃdaḥ | uṃ śrīṃ bījaṃ | maṃ blūṃ śaktiḥ | śrīṃ kīlakaṃ | sarvakāmyārthasiddhaye rājarājeśvarī mahālakṣmīprasādasiddhyarthe jape viniyogaḥ ‖*) ओं उपैतु मां-अंगुष्ठाभ्यां नमः । ओं देवसखि-तर्जनीभ्यां नमः । ओं कीर्तिश्च मणिना सह-मध्यमाभ्यां नमः । ओं प्रादुर्भूतोऽस्मि-अनामिकाभ्यां नमः । ओं राष्ट्रेऽस्मिन्-कनिष्ठिकाभ्यां नमः । ओं कीर्तिमृद्धिं ददातु मे-करतलकरपृष्टाभ्यां नमः ॥ ओं उपैतु मां-हृदयाय नमः ओं देवसखि-शिरसे स्वाहा । ओं कीर्तिश्च मणिना सह-शिखाय्कॆ वषट् । प्रादुर्भूतोऽस्मि-कवचाय हुं । ओं राष्ट्रेऽस्मिन्-नेत्रत्रयाय नौषट् । ओं कीर्तिमृद्धिं ददातु मे-अस्त्राय फट् । (*oṃ upaitu māṃ-aṃguṣṭhābhyāṃ namaḥ | oṃ devasakhi-tarjanībhyāṃ namaḥ | oṃ kīrtiśca maṇinā saha-madhyamābhyāṃ namaḥ | oṃ prādurbhūto 'smi-anāmikābhyāṃ namaḥ | oṃ rāṣṭre 'smin-kaniṣṭhikābhyāṃ namaḥ | oṃ kīrtimṛddhiṃ dadātu me-karatalakarapṛṣṭābhyāṃ namaḥ ‖ oṃ upaitu māṃ-hṛdayāya namaḥ oṃ devasakhi-śirase svāhā | oṃ kīrtiśca maṇinā saha-śikhāykè vaṣaṭ | prādurbhūto 'smi-kavacāya huṃ | oṃ rāṣṭre 'smin-netratrayāya nauṣaṭ | oṃ kīrtimṛddhiṃ dadātu me-astrāya phaṭ |*) भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं ॥ राजराजेश्वरीं लक्ष्मीं वरदां (*bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ ‖ rājarājeśvarīṃ lakṣmīṃ varadāṃ*)
+
+### Printed p. 301
+
+मणिमालिनीं । देवीं देवप्रियां कीर्तिं वंदे काम्यार्थसिद्धये ॥ हेमाभां पीतवस्त्रां कुचभरनमितां मध्यदेशे कृशांगीं कांस्यं पुल्लांभोजयुग्मां करकमलयुगे धारयंतीमभीतिं । मुक्ताहारामुदारां मणिमयमकुटां शोभमानां च पद्मां भक्ताभीष्टार्थदानप्रथितगुणगणां नौम्यहं विश्वभूतिं ॥ इति ध्यात्वा ॥ (*maṇimālinīṃ | devīṃ devapriyāṃ kīrtiṃ vaṃde kāmyārthasiddhaye ‖ hemābhāṃ pītavastrāṃ kucabharanamitāṃ madhyadeśe kṛśāṃgīṃ kāṃsyaṃ pullāṃbhojayugmāṃ karakamalayuge dhārayaṃtīmabhītiṃ | muktāhārāmudārāṃ maṇimayamakuṭāṃ śobhamānāṃ ca padmāṃ bhaktābhīṣṭārthadānaprathitaguṇagaṇāṃ naumyahaṃ viśvabhūtiṃ ‖ iti dhyātvā ‖*)
+
+ओं उपैतु मां देवसखः कीर्तिश्च मणिना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥ (*oṃ upaitu māṃ devasakhaḥ kīrtiśca maṇinā saha | prādurbhūto 'smi rāṣṭre 'smin kīrtimṛddhiṃ dadātu me ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+हे श्रीः । देवसखः देवो महादेवस्तस्य सखा कुबेरः कीर्तिः कीर्त्यभिमानिनी तदाख्या दक्षकन्या देवता मणिना चिंतामणिना मणिभद्रेण कोशाध्यक्षेण वा सह सहितः अहं अस्मिन् राष्ट्रे जनपदे प्रादुर्भूतः उत्पन्नः अस्मि आसं । स देवसखस्तत्संबंधिसंगत्या कीर्तिं यशः कोशं वा ऋद्धिं सर्वभोग्यसमृद्धिं मे मह्यं ददातु यच्छतु ॥ (*he śrīḥ | devasakhaḥ devo mahādevastasya sakhā kuberaḥ kīrtiḥ kīrtyabhimāninī tadākhyā dakṣakanyā devatā maṇinā ciṃtāmaṇinā maṇibhadreṇa kośādhyakṣeṇa vā saha sahitaḥ ahaṃ asmin rāṣṭre janapade prādurbhūtaḥ utpannaḥ asmi āsaṃ | sa devasakhastatsaṃbaṃdhisaṃgatyā kīrtiṃ yaśaḥ kośaṃ vā ṛddhiṃ sarvabhogyasamṛddhiṃ me mahyaṃ dadātu yacchatu ‖*)
+
+##### Gist of the bhāṣya
+
+O Śrī. देवसखः (*devasakhaḥ*) is Kubera, the friend of the god, Mahādeva. कीर्तिः (*kīrtiḥ*) is the goddess of that name, the daughter of Dakṣa, who presides over fame. मणिना (*maṇinā*) means with the wish-fulfilling jewel, or with Maṇibhadra, the treasurer. I, accompanied by these, have arisen in this realm, this country. Through the connection of that friend of the god, may he give me fame, or treasure, and prosperity, the abundance of all that can be enjoyed.
+
+**Bhāṣya of Pṛthvīdhara**
+
+देवसखः कुबेरः कीर्तिः यशश्च मणिना चिंतामणिना सह मामुपैतु मां प्राप्नोतु । अस्मिन् राष्ट्रे मर्त्यलोके प्रादुर्भूतोऽस्मि जातः । त्वयाऽन्वेषणीयस्त्वत्कटाक्षलक्ष्य इति यावत् । स देवो मे मह्यं कीर्तिं दिगंतविश्रांतं यशः युद्धिमष्टैश्वर्यसमृद्धिं च ददातु प्रयच्छतु ॥ (*devasakhaḥ kuberaḥ kīrtiḥ yaśaśca maṇinā ciṃtāmaṇinā saha māmupaitu māṃ prāpnotu | asmin rāṣṭre martyaloke prādurbhūto 'smi jātaḥ | tvayā 'nveṣaṇīyastvatkaṭākṣalakṣya iti yāvat | sa devo me mahyaṃ kīrtiṃ digaṃtaviśrāṃtaṃ yaśaḥ yuddhimaṣṭaiśvaryasamṛddhiṃ ca dadātu prayacchatu ‖*)
+
+##### Gist of the bhāṣya
+
+May Kubera, the friend of the god, and Fame, together with the wish-fulfilling jewel, come to me, reach me. I have arisen in this realm, the world of mortals; that is, I am the target of your sidelong glance, to be sought by you. May that god give me fame, renown reaching to the ends of the quarters, and prosperity of the eight kinds of lordship.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवसखि (*devasakhi*)—Kubera, famed as the friend of Mahādeva, Īśvara (O goddess Śrī)
+- कीर्तिश्च (*kīrtiśca*)—and Kīrti, the daughter of Dakṣa, the deity presiding over fame
+- मणिना सह (*maṇinā saha*)—together with the wish-fulfilling jewel, or with Maṇibhadra, the treasurer
+- मां उपैतु (*māṃ upaitu*)—may he come near me
+- अहं (*ahaṃ*)—I
+- आस्मिन् राष्ट्रे (*āsmin rāṣṭre*)—in this world of mortals or in this country
+- प्रादुर्भूतः अस्मि (*prādurbhūtaḥ asmi*)—I have arisen (for the obtaining of your grace), therefore
+- स देवसखि (*sa devasakhi*)—Kubera, the friend of Tryambaka
+- मे (*me*)—to me
+- कीर्ति (*kīrti*)—fame reaching to the ends of the quarters
+- ऋद्धिं (*ṛddhiṃ*)—prosperity of all that can be enjoyed
+- ददातु (*dadātu*)—may he give
+
 ---
 
-**Progress note:** Done through printed p. 295. Śrī-sūkta appendix: Ṛk 4 end, Ṛk 5, Ṛk 6
+**Progress note:** Done through printed p. 301. Śrī-sūkta appendix: Ṛk 6 end, Ṛk 7 to the Pratipadārtha
