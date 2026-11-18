@@ -25786,6 +25786,184 @@ They who with ease destroy (their foes) by their prowess, like horses difficult 
 
 ये ओजसा नि रिणंति (*ye ojasā ni riṇaṃti*)—In this sentence it is said that the Marut deities destroy enemies by their own capacity. Here the enemies are the clouds that hold water within themselves without raining. The Marut deities spread their very great power everywhere in the atmosphere, blow with extreme force, scatter the mass of clouds gathered together in one place, and make them spread to all places and pour down rain.
 
+### Printed p. 710
+
+गावो न दुर्धुरः (*gāvo na durdhuraḥ*)—Here an illustration is given concerning the Marut deities' destroying of enemies (the clouds). When spirited horses (Spirited horses), which nobody can restrain, charge upon enemies on the battlefield, nobody is able to face and stop them; in the same way nobody can stop the Maruts when they blow with the utmost force to urge the clouds to rain. Therefore the unobstructed power of the Marut deities is compared with horses that charge forward boldly. Here the commentator has taken the word गावः (*gāvaḥ*) to mean horses and has explained the sense as stated above. Although it is reasonable to take the word for cow to mean cattle in general and therefore horses, the word गावः (*gāvaḥ*) used in the present Ṛk may also be taken to mean bulls or oxen belonging to the cow species. Another kind of meaning is possible for this sentence: as these bulls, free of anyone's hindrance or fear, that is, heeding nobody, in the pride of their strength charge wherever they please and injure those they meet.
+
+अश्मानं चित् स्वर्य० पर्वतं गिरिं यामभिः प्र च्यावयंति (*aśmānaṃ cit svarya0 parvataṃ giriṃ yāmabhiḥ pra cyāvayaṃti*)—The word पर्वत (*parvata*) or गिरि (*giri*) in this sentence means only a cloud. Although the words पर्वत (*parvata*) and गिरि (*giri*) have the general sense of a hill, here they must be taken to mean a cloud only. For, because of the attribute स्वर्य० (*svarya0*), "sounding", only clouds can make sounds such as lightning and thunder; mountains have no power to make any kind of sounds. And the word अश्मानं (*aśmānaṃ*), formed from the root अशू व्याप्तौ (*aśū vyāptau*), is also an attribute of the word पर्वत (*parvata*); it means "pervading and spread out in the atmosphere". The Marut deities make the cloud, which pervades the atmosphere everywhere making the sounds called lightning and thunder, descend by their goings, that is, by blowing swiftly or violently; that is, they make it fall from the atmosphere to the earth in the form of rain: this is the purport. For the word पर्वत (*parvata*) Yāska has given the etymology पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातीर्वा (*parvavān parvataḥ parva punaḥ pṛṇāteḥ prīṇātīrvā*) (Ni. 1-20). The cloud is called पर्वत (*parvata*) because it is gathered together in masses in one place; or because it pervades and fills the region of the atmosphere; or because it gladdens people by providing them with rain-water: thus he has given three kinds of meaning. In the sense of a hill, too, these three kinds of meaning apply. How? A hill has three kinds of qualities: it consists of masses of rocks; it occupies or pervades a very large region on earth, as if filling it; and it gladdens people by its plants, trees and other vegetation and by being the source of rivers. Therefore the name applies. For the word गिरि (*giri*) there is the sense निगिरत्युदकं (*nigiratyudakaṃ*), that is, "it emits water"; therefore the word गिरि (*giri*), like the word पर्वत (*parvata*), has the sense of a cloud. Therefore
+
+### Printed p. 711
+
+since the two words पर्वत (*parvata*) and गिरि (*giri*) in this Ṛk indicate the same meaning, the commentator has explained that one of them may be taken as the qualifying word and the other as the word qualified.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ति॑ष्ठ नू॒नमे॑षां॒ स्तोमैः॒ समु॑क्षितानां ।  
+> म॒रुतां॑ पुरु॒तम॒नुपू॑र्व्यं॒ गवां॒ सर्ग॑मिव ह्वये ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । तिष्ठ । नूनं । एषां । स्तोमैः । संऽउक्षितानां ।  
+> मरुतां । पुरुतनुं । अपूर्व्यं । गवां । सर्ग०इव । ह्वये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयमुत्तिष्ठ । उत्तिष्ठत ॥ व्यत्ययेनैकवचनं ॥ नूनं निश्चयमेषां स्तोमैः स्तोत्रैः समुक्षितानां वर्धितानां मरुतां । यद्वा ।
+> स्तोमैरुपह्वय इति संबंधः । तादृशां मरुतां पुरुतमं प्रभूततममपूर्व्यं।
+> न विद्यते पूर्वो येभ्यस्तमपूर्व्यं सर्गं संघं गवामुदकानां प्रसिद्धानां
+> गवां वा सर्गं संघमिन ह्वये । आह्वये ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, rise up": the singular is used by variation for the plural. नूनं (*nūnaṃ*) means certainly. Of these Maruts, who are increased by praises, that is, by hymns; or else the connection is "I call with praises". Of such Maruts I call the most abundant and unprecedented, that is, one before which none exists, host सर्गं (*sargaṃ*), that is, company, like a company of waters or of well-known cows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) उत्तिष्ठ (*uttiṣṭha*)—rise up
+- नूनं (*nūnaṃ*)—certainly
+- स्तोमैः (*stomaiḥ*)—by hymns
+- समुक्षितानां (*samukṣitānāṃ*)—who have grown together
+- एषां मरुतां (*eṣāṃ marutāṃ*)—of these Maruts
+- पुरुतमं (*purutamaṃ*)—most abundant
+- अपूर्व्यं (*apūrvyaṃ*)—and incomparable
+- सर्गं (*sargaṃ*)—the company
+- गवां (*gavāṃ*)—of cows or of waters
+- सर्गं इव (*sargaṃ iva*)—as one calls a host
+- ह्वये (*hvaye*)—I call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, rise up. By the hymns we make I call with prayer the most abundant and incomparable company of these Maruts, who have grown together, as one calls a herd of cows.
+
+### Printed p. 712
+
+##### English translation
+Rise up (Maruts) : verily by my praises I invoke the mighty and unpreceded (troop) of these exalted (Maruts) like a heap of waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+गवां सर्गमिव ह्वये (*gavāṃ sargamiva hvaye*)—Here the seer, while desiring the coming of the Marut deities, has stated the illustration "like a herd of cows". As, when the cows have gone to the forest to graze and return home in the evening, the masters receive and welcome the herd with affection, so I call with prayer, with devotion and respect, the host of the Marut deities, who are pleased with the hymns and the like that I have made, to come to our sacrificial ground; thus, comparing the host of the Marut deities to a herd of cows, he has expressed the excess of regard he has for the Marut deities. Here the commentator has given another meaning for the word गवां (*gavāṃ*), namely उदकानां (*udakānāṃ*). गवां संघं (*gavāṃ saṃghaṃ*) then means a collection of waters, or, as people desire for the sake of rain the clouds that pour down rain, another kind of meaning also becomes possible.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युं॒ग्ध्वं ह्यरु॑षी॒ रथे॑ युं॒ग्ध्वं रथे॑षु रो॒हितः॑ ।  
+> युं॒ग्ध्वं हरी॑ अजि॒रा धु॒रि वोळ्ह॑वे॒ वहि॑ष्टा धु॒रि वोळ्ह॑वे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युंग्ध्वं । हि । अरुषीः । रथे । युंग्ध्वं । रथेषु । रोहितः ।  
+> युंग्ध्वं । हरी इति । अजिरा । धुरि । वोळ्हने । नहिष्ठा । धुरि । वोळ्हने ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं रथे युष्मदीये सर्वेषां साधारणभूतेऽरुषीरारोचमाना वडवा युंग्ध्वं । योजयध्वं । तथा रथेषु युष्मदीयेषु रोहितो रोहितवर्णा युंग्ध्वं । हरी अश्वावजिराजिरानाशुगमनौ धुरि वोळ्हवे वहनाय युंग्ध्वं । आदरार्थं पुनर्वचनं । वहिष्ठा वोढृतमावश्वा धुरि वोळ्हवे ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, in your chariot, which is common to all, yoke the अरुषीः (*aruṣīḥ*), the shining mares. Likewise in your chariots yoke the रोहितः (*rohitaḥ*), those of red colour. Yoke the हरी (*harī*), the two horses, the अजिरा (*ajirā*), the swift-going, to the yoke, वोळ्हवे (*voḷhave*), to bear the load." The repetition is out of respect. वहिष्ठा (*vahiṣṭhā*) are the best bearers of loads, horses, to bear the load in the yoke.
+
+### Printed p. 713
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) रथे (*rathe*)—in your chariot
+- अरुषीः (*aruṣīḥ*)—golden horses
+- युज्ग्ध्वं (*yujgdhvaṃ*)—join and harness
+- रथेषु (*ratheṣu*)—in the chariots
+- रोहितः (*rohitaḥ*)—horses of red colour
+- युज्ग्ध्वं (*yujgdhvaṃ*)—yoke
+- अजिरा (*ajirā*)—the swift-going
+- हरी (*harī*)—horses
+- धुरि (*dhuri*)—in the yokes
+- वोळ्हवे (*voḷhave*)—to bear the load
+- युज्ग्ध्वं (*yujgdhvaṃ*)—yoke and harness
+- वहिष्ठा (*vahiṣṭhā*)—horses capable of bearing the load
+- वोळ्हवे (*voḷhave*)—(yoke) for bearing the load
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, harness to your chariots golden horses and horses of an attractive colour. Join to the yokes your swift horses, for bearing the load.
+
+##### English translation
+Yoke the bright steeds to the car ; yoke the red steeds to the cars; yoke the swift pair of horses to bear the burden ; the strong bearing to bear the burden.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has said in his etymology (Ni. 2-28) that the horses of the Marut deities are पृषत्यः (*pṛṣatyaḥ*), deer with white spots. But in this Ṛk the seer, addressing the Marut deities, has prayed that three kinds of horses be joined to the yoke of their chariot.
+
+अरुषीः—आरोचमानाः वडबाः (*aruṣīḥ—ārocamānāḥ vaḍabāḥ*). The meaning is: shining, that is, horses that are plump and attractive to look at. It is a matter of experience that healthy, strong horses are pleasing to the eye. The word अरुष (*aruṣa*) may also be explained as dull red, slightly reddish horses. That the golden-coloured horses of this kind are mentioned here applies also to the natural horses of the Marut deities, the पृषत्यः (*pṛṣatyaḥ*), that is, deer marked with white spots. As the colour of such horses and the colour of deer are generally of one kind, such deer are described here as horses, the vehicles of the Marut deities.
+
+रोहितः—रोहितवर्णाः (*rohitaḥ—rohitavarṇāḥ*). Horses of blood-red colour, that is, of red colour. Yāska has said, in the etymology रोहितोऽग्नेः (*rohito 'gneḥ*) (Ni. 2-28), that the vehicle of Agni is रोहित (*rohita*). But here the vehicles of the Marut deities are designated by the very word रोहित (*rohita*). Probably, because the colour of the deer, the vehicle of the Maruts, is also red, the seer may have used the word रोहित (*rohita*) to convey this detail.
+
+### Printed p. 714
+
+हरी (*harī*)—Yāska has indicated by the sentence हरी इंद्रस्य (*harī iṃdrasya*) (Ni. 2-28) that the two horses of Indra are named हरी (*harī*). Since the word अरुष (*aruṣa*) and the word रोहित (*rohita*) mentioned above both state the colour of the deer called पृषत्यः (*pṛṣatyaḥ*), the vehicle of the Marut deities, there was a common quality in them. But हरी (*harī*) is a word used only for Indra's horses. The word हरी (*harī*) is also a word with a dual ending, indicating the number: Indra's two horses. It is the custom to refer to the horses of the Marut deities by plural words. This being so, why has the seer used the word हरी (*harī*)? Is it not a mistake to have used it? To that the following answer may be given. Indra's horses are of very great strength and capacity. Understanding by themselves the intention of Indra's mind, they have the capacity to be yoked to the chariot of their own accord in a moment and to carry Indra wherever he wishes. Such strength and capacity do not exist in the vehicles of other deities. Therefore it may be thought that, in describing the vehicles of the Marut deities in a special way, the seer has transferred to the vehicles of the Marut deities also the qualities and the excess of capacity found in Indra's horses, and that for this very reason the use of the word हरी (*harī*) is justified.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तास्य वा॒ज्य॑रु॒षस्तु॑ वि॒ष्वणि॑रि॒ह स्म॑ धायि दर्श॒तः ।  
+> मा वो॒ यामे॑षु मरुतश्चि॒रं क॑र॒त्प्र तं रथे॑षु चोदत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्यः । वाजी । अरुषः । तुविस्वनिः । इह । स्म । धायि । दर्शतः ।  
+> मा । वः । यामेषु । मरुतः । चिरं । करत् । प्र । तं । रथेषु । चोदत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्य स वाजी वेजनवानरुष आरोचमानस्तु विष्वणिः प्रभूतध्वनिरश्वः।
+> अरुष इत्यनेन रोहित इत्युक्तं भवति । प्रष्टिर्वहति रोहितः । ऋग्वे-१-३९-६ । इति
+> ह्युक्तं । इहेदानीं दर्शतो दर्शनीयः सन् धायि । रथे नियोजितः । स्मेति
+
+### Printed p. 715
+
+> पूरणः । हे मरुतो वो यामेषु गमनेषु सोऽश्वश्चिरं विलंबं मा करत् ।
+> मा करोतु । तं रथेषु । रथे युक्तमिति शेषः । प्र चोदत । प्रेरयत । यथा
+> विलंबं न कुर्यात्तथा प्रेरयत ॥
+
+##### Gist of the bhāṣya
+
+"And that horse, वाजी (*vājī*), possessed of speed, अरुषः (*aruṣaḥ*), shining, तुविष्वणिः (*tuviṣvaṇiḥ*), of abundant sound": by the word अरुषः (*aruṣaḥ*) the red horse is meant, as has been said: प्रष्टिर्वहति रोहितः (*praṣṭirvahati rohitaḥ*) (Ṛgve. 1-39-6). **NOTE** Here now, being fair to look at, it has been placed, yoked in the chariot; the word स्म (*sma*) is a filler. "O Maruts, in your goings may that horse cause no delay. Urge it, yoked in the chariots, so that it may not delay." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and (O Maruts)
+- स्यः (*syaḥ*)—that famous
+- वाजी (*vājī*)—swift
+- अरुषः (*aruṣaḥ*)—and shining
+- तुविष्टणिः (*tuviṣṭaṇiḥ*)—and loud-sounding horse **NOTE**
+- इह (*iha*)—now
+- दर्शतः (*darśataḥ*)—having a form fair to look at
+- धायि (*dhāyi*)—has been yoked to the chariot
+- मरुतः (*marutaḥ*)—O Maruts (that same horse)
+- यामेषु (*yāmeṣu*)—at the time of your going
+- चिरं (*ciraṃ*)—for a long time, delay
+- मा करत् (*mā karat*)—let it not make
+- तं (*taṃ*)—that horse
+- रथेषु (*ratheṣu*)—having joined it in the chariots
+- प्र चोदत (*pra codata*)—urge on
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the swift, shining, loudly neighing horse, of a form fair to look at, has been yoked to the chariot. O Maruts, let that same horse make no delay at the time of your going. Join those horses to your chariots and urge them on.
+
+##### English translation
+And let not that horse, bright-shining, loud-neighing, of graceful form, who has been placed (in harness), delay you, Maruts, on your journey: urge him on in the car.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk also the horse of the Marut deities is described, and the prayer is stated: yoke the horse to the chariot and urge it on so that, without stopping anywhere on the way, it may come straight to the sacrificial ground.
+
+The words स्यः (*syaḥ*) and त्यं (*tyaṃ*) have the sense of the word "that": स्यः (*syaḥ*) means सः (*saḥ*), त्यं (*tyaṃ*) means तं (*taṃ*) and त्यत् (*tyat*) means तत् (*tat*). The use of words such as स्यः (*syaḥ*), त्यं (*tyaṃ*) and तत् (*tat*) is characteristic of the Ṛgveda.
+
+अरुषः—आरोचमानः । अरुष इत्यनेन रोहित इत्युक्तं भवति । (*aruṣaḥ—ārocamānaḥ | aruṣa ityanena rohita ityuktaṃ bhavati |*) The meaning of the word अरुष (*aruṣa*) has been explained in the Special Topics of the previous Ṛk. It can be understood from the commentator's explanation that the two words अरुष (*aruṣa*) and रोहित (*rohita*) generally have one meaning. The previous
+
 ---
 
-**Progress note:** Done through printed p. 709. Vol 19 pp. 704-709: Rk 5.56.1 end, Rks 2-4
+**Progress note:** Done through printed p. 715. Vol 19 pp. 710-715: Rk 4 special topics end, Rks 5-7
