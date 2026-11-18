@@ -25,3 +25,4 @@
 | through p. 437 (three windows in one agent: pp. 420–437; verify failed on window 3, repaired by dispatcher) | sonnet | 23 | 167630 | 4.9 |
 | through p. 458 (three windows in one agent: pp. 438–458) | sonnet | 17 | 224272 | 7.3 |
 | through p. 477 (three windows in one agent: pp. 459–477) | sonnet | 12 | 159149 | 4.7 |
+| through p. 495 (three windows in one agent: pp. 478–495) | sonnet | 16 | 195634 | 8.7 |
