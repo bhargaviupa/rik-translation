@@ -20912,6 +20912,133 @@ O gods who have truthful works and are upholders of truth, come graciously to ou
 
 ऋतधीतयः (*ṛtadhītayaḥ*)—सत्यस्तु तयोs बाध्यकर्मणो वा (*satyastu tayos bādhyakarmaṇo vā*). Those who are praised with true sentences: the qualities that the praising people have described and extolled in the gods are all true. In the hymns they sing or the descriptions they make there is no exaggeration; this is the intention. Or else अबाध्यकर्माणः (*abādhyakarmāṇaḥ*): no one can obstruct the deeds or the heroic acts that these gods perform; that is, no one is able to hinder or put an obstacle in the way of the gods or of the works they do; this other kind of meaning is also stated here. More or less the same meaning applies to the word सत्यधर्माणः (*satyadharmāṇaḥ*) in this same Ṛk. Or else, the main intention is that they uphold truth alone, that they impel and regulate good people so that they do good works, or that their rules and works always rest on truth alone, and therefore they are called सत्यधर्माणः (*satyadharmāṇaḥ*).
 
+### Printed p. 565
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्रे॑भिर्विप्र संत्य प्रात॒र्यान॑भि॒रा ग॑हि ।  
+> दे॒वेभिः॒ सोम॑पीतये ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रेभिः । विप्र । संत्य । प्रातर्याव्यभिः । आ । गहि ।  
+> देवेभिः । सोमपीतये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विप्र मेधाविन् विविधकानानां वा पूरक हे संत्य संभजनीयाग्ने
+> विप्रेभिरुक्तलक्षणैः प्रातर्यावभिः प्रातःकाल आगंतृभिर्देवेभिर्देवैः सार्धमा गहि ।
+> आगच्छ । किमर्थं । सोमपीतये सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+O wise one, O विप्र (*vipra*), who fulfils the various (desires), O Agni who is to be shared, come, together with the gods who come in the morning, with the wise ones of the kind described: आ गहि (*ā gahi*), come. For what purpose? For the drinking of Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise one
+- संत्य (*saṃtya*)—and adorable Agni
+- विप्रेभिः (*viprebhiḥ*)—with the wise
+- प्रातर्यावभिः (*prātaryāvabhiḥ*)—who come in the morning
+- देवेभिः (*devebhiḥ*)—with the gods
+- सोमपितये (*somapitaye*)—for drinking Soma **NOTE**
+- आ गहि (*ā gahi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O wise and adorable Agni, come graciously, together with the wise gods who come in the morning, to drink the Soma.
+
+##### English translation
+Sage and adorable Agni, come with the wise and early-stirring divinities to drink the Soma libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is prayed to come to the sacrificial ground together with the gods who come in the morning and to drink Soma with them. Who are the gods who come to the sacrificial ground in the morning? Namely—
+
+### Printed p. 566
+
+प्रातरग्निं प्रातरिंद्रं हवामहे प्रातर्मित्रावरुणा प्रातरश्विना । प्रातर्भगं पूषणं ब्रह्मणस्पतिं प्रातस्सोममुत रुद्रं हुवेम ॥ (*prātaragniṃ prātariṃdraṃ havāmahe prātarmitrāvaruṇā prātaraśvinā | prātarbhagaṃ pūṣaṇaṃ brahmaṇaspatiṃ prātassomamuta rudraṃ huvema ‖*) (Ṛ. Saṃ. 7-41-1). In this Ṛk the seer Vasiṣṭha says that Agni, Indra, Mitra and Varuṇa, the Aśvins, Bhaga, Pūṣan, Bṛhaspati, Soma and Rudra are invoked in the morning. Besides, among these gods it is the custom to invoke chiefly Agni, the Aśvins, Uṣas and Savitṛ in the morning. प्रातर्हि यज्ञमश्विना दधाते प्र शंसंति कवयः पूर्वभाजः । प्रातर्यजध्वमश्विना हिनोत न सायमस्ति देवया अजुष्टं ॥ (*prātarhi yajñamaśvinā dadhāte pra śaṃsaṃti kavayaḥ pūrvabhājaḥ | prātaryajadhvamaśvinā hinota na sāyamasti devayā ajuṣṭaṃ ‖*) (Ṛ. Saṃ. 5-77-1,2). In this Ṛk the matter of invoking the Aśvins in the morning is stated. Because Agni is absolutely necessary for sacrificial rites, and because the sacrificial rite begins in the morning, it is well known that Agni too is churned and invoked in the morning, the time when the sacrifice begins. In the same way, since the dawn appears before sunrise, the goddess Uṣas also is a deity of the morning; and since Savitṛ is the rising sun himself, Savitṛ too is a deity of the morning. Therefore Agni is prayed to come to the sacrificial ground in the morning with these gods and to drink Soma. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सोम॑श्च॒मू सु॒तोऽम॑त्रे॒ परि॑ षिच्यते ।  
+> प्रि॒य इंद्रा॑य वा॒यवे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सोमः । चमू इति । सुतः । अमत्रे । परि । सिच्यते ।  
+> प्रियः । इंद्राय । वायवे ॥ ४ ॥
+
+### Printed p. 567
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पुरतो वर्तमानः सोमश्चमू चन्नोरत्र्योरधिषवणफलकयोः
+> सुतोऽभिषुतः सन् अमत्रे पात्रे परि षिच्यते । पूर्यते । स चेंद्राय वायवे
+> च प्रियः । तं पातुं हे इंद्रवायू आगच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, present before us, pressed between the two चमू (*camū*), that is, the two pressing-boards, is poured around into the vessel; that is, it is filled. And it is dear to Indra and to Vāyu. To drink it, O Indra and Vāyu, come: this is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राय (*iṃdrāya*)—to Indra
+- वायवे (*vāyave*)—and to Vāyu
+- प्रियः (*priyaḥ*)—dear
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- चमू (*camū*)—in the camū vessels
+- सुतः (*sutaḥ*)—pressed
+- अनत्रे (*anatre*)—in the Soma vessel **NOTE**
+- परि षिच्यते (*pari ṣicyate*)—is filled
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, dear to Indra and Vāyu, is pressed between the two wooden boards (चमू (*camū*)) that are used for pressing out the Soma juice, and is filled into the Soma vessel.
+
+##### English translation
+The Soma juice, effused into the ladles, is poured out into the vase, acceptable to Indra and Vayu.
+
+##### विशेषविषयगळु (Special Topics)
+
+चन्नोः (*cannoḥ*): अत्रोः अधिषवणफलकयोः (*atroḥ adhiṣavaṇaphalakayoḥ*), "of the two pressing-boards". The Soma plants are crushed with stones and the juice is pressed out. Those stones are called ग्रावा (*grāvā*). In some places they are called अद्रि (*adri*). Some say that अद्रि (*adri*) is a stone broad at the bottom and hollow in the middle like a mortar, and that ग्रावा (*grāvā*) is another stone with which the Soma plants, placed on the stone called अद्रि (*adri*), are crushed. This stone called ग्रावा (*grāvā*) is thick at the base and shaped like a round stone so that it is convenient to hold in the hand. These stones may be compared, more or less, with the pestle and mortar (Pestle & Mortar) that physicians use for grinding medicines and the like. Ordinarily the use of such stones is the more common for crushing the Soma plants and pressing out the Soma juice, and it is their description that is found especially. But in place of these stones wooden boards or pieces are also used. The lower board is somewhat broad and hollow in the middle. Another piece of wood, thick and long, with which the Soma plants placed on it are crushed. These two kinds of wooden pieces are what is indicated here by the word चन्नोः (*cannoḥ*). In this Ṛk and in the next three Ṛks, Indra and Vāyu are prayed to come to the sacrificial ground to drink Soma. In the next Ṛk Vāyu alone is prayed to.
+
+### Printed p. 568
+
+For it is well known that in the sacrifice Vāyu is the first to be entitled to drink Soma, and that for another reason Indra joins Vāyu and the two drink Soma together. In this matter, that is, on how the god Vāyu is entitled to the first drinking of Soma, there is an ancient story in the Aitareya-Brāhmaṇa. देवा वै सोमस्य राज्योऽग्रपेये न समपादयन्नहं प्रथमः पिबीयमहं प्रथमः पिबीयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्जॆष्यति स प्रथमः सोमस्य पास्यतीति तथेति त आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विन् । (*devā vai somasya rājyo 'grapeye na samapādayannahaṃ prathamaḥ pibīyamahaṃ prathamaḥ pibīyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujjèṣyati sa prathamaḥ somasya pāsyatīti tatheti ta ājimayusteṣāmājiṃ yatāmabhisṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvin |*) (Ai. Brā. 9-25). In ancient times all the gods wished to drink Soma together, and when a dispute arose as to who among them should drink Soma first, a discussion began, each saying that he himself should drink first. Since the matter could not be settled in any way, they all met, deliberated and came to an agreement: "Let us all arrange a contest; whoever wins in it will be entitled to drink Soma first." Everyone agreed to this, and the contest was fixed thus: running from one place to another place far away, whoever first reaches a rock or a tree there is to be considered the winner. When all agreed to the pact that the winner among them should first drink Soma as the victor, all the gods began to run at the same moment. Of all the gods who were running, Vāyu reached the appointed place ahead of all. Indra came right behind Vāyu and was second. Afterwards Mitra and Varuṇa ran behind Indra, and behind them the Aśvins, and they reached the appointed place. Therefore among these gods Vāyu ran ahead of all and became the victor.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयावेति स नेत्त्वब्रवीदहमेवोज्जॆष्यामाति तृतीयं मेऽथोज्जयावेति नेति हैवाब्रवीदहमेवोज्जॆष्यामाति तुरीयं मेऽथोज्जयावेति तथेति तं तुरीयेऽत्यार्जत तत्तुरीयभागिंद्रोऽभवत्रिभाग्वायुः ॥ (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāveti sa nettvabravīdahamevojjèṣyāmāti tṛtīyaṃ me 'thojjayāveti neti haivābravīdahamevojjèṣyāmāti turīyaṃ me 'thojjayāveti tatheti taṃ turīye 'tyārjata tatturīyabhāgiṃdro 'bhavatribhāgvāyuḥ ‖*). While Vāyu was running, and Indra behind him, the following conversation took place between them. Seeing Vāyu running swiftly, Indra, who was behind him, thought: "This Vāyu will run ahead of all and be the victor. I must somehow run along with him and win", and, using all his strength, ran close to Vāyu.
+
+### Printed p. 569
+
+Yet there was no sign that he would leave Vāyu behind and go forward. Then Indra said to Vāyu: "O Vāyu, we two are ahead of everyone. Therefore let us consider that we have both won, and let us share the first drinking of Soma, half for me and half for you. Let us win the victory together, helping each other." Hearing this, Vāyu said: "O Indra, I am ahead of you, if only by a little. Therefore I alone shall be the victor. In the first drinking of Soma everything must belong to me. I cannot give you half." Then Indra said: "Very well, then I do not want half. Take two of three parts and give me only one part." Vāyu did not agree even to that: "Whatever happens, I shall win. All of it will belong to me, and I do not wish to give you even one part in three." Then Indra again entreated Vāyu: "I do not want even one in three. Still less; it is enough if you give me one in four. Agree at least to that." Vāyu said, "So be it", and agreed. Therefore it was arranged that in the Aindravāyava cup (that is, the vessel in which Indra and Vāyu drink Soma together) Indra should have one part and Vāyu three parts.
+
+तौ सहैवेंद्रवायू उदजयतां सह मित्रावरुणौ सहाश्विन् श एषामेते यथोज्जि तं भक्षा इंद्रवाय्वोः प्रथमोऽथ मित्रावरुणयोरथाश्विनो 8 स एष इंद्रतुरीयो ग्रहो गृह्यते यद्यैंद्रवायवः । (*tau sahaiveṃdravāyū udajayatāṃ saha mitrāvaruṇau sahāśvin śa eṣāmete yathojji taṃ bhakṣā iṃdravāyvoḥ prathamo 'tha mitrāvaruṇayorathāśvino 8 sa eṣa iṃdraturīyo graho gṛhyate yadyaiṃdravāyavaḥ |*). In this way Indra and Vāyu, helping each other, won the contest and first reached the appointed place. Behind them Mitra and Varuṇa came and arrived. Behind them the Aśvins came. Therefore, among these gods, in the order of the places they obtained in the contest, they became entitled to drink Soma. That is, an arrangement was made that first Indra and Vāyu, then Mitra and Varuṇa, and after them the Aśvins should drink Soma. In this way the order of the cup of two deities (the order in which two deities together drink Soma) came into use. Therefore in the Aindravāyava cup only a fourth part of the Soma-drinking is assigned to Indra. **NOTE**
+
+तदेतदृषिः षश्यन्नभ्यनूवाच नियुत्वा इंद्रसारथिरिति (*tadetadṛṣiḥ ṣaśyannabhyanūvāca niyutvā iṃdrasārathiriti*). The seer, knowing by divine sight that in the Aindravāyava cup Indra has one part in four, expressed this matter in the following Ṛk, that is, in the Ṛk शतेना नो अभिष्टिभिर्नियुत्वा इंद्रसारथिः (*śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ*) (Ṛ. Sa 4-46-2) by the sentence नियुत्वा इंद्रसारथिः (*niyutvā iṃdrasārathiḥ*). **NOTE** Here, according to the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28), the horses called नियुत (*niyuta*) are well known as the vehicle of the god Vāyu.
+
+### Printed p. 570
+
+Therefore the word नियुत्वच्छब्द (*niyutvacchabda*) indicates a connection with Vāyu. In the Ṛk above the word नियुत्वान् (*niyutvān*) indicates Indra together with Vāyu. Mantras such as अधा वायुं नियुतः सश्चतस्वाः (*adhā vāyuṃ niyutaḥ saścatasvāḥ*) (Tai. Brā. 2-8-1-1) support this. The meaning of the word इंद्रसारथिः (*iṃdrasārathiḥ*) is: Indra, who is the charioteer of Vāyu. Since Indra stands in the place of charioteer to Vāyu, this indicates that Indra has only a fourth part in the first drinking of Soma.
+
+तस्माद्वाप्येतर्हि भरताः सत्वनां नित्तिं प्रयंति तुरीये हैव संग्रहितारो वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वो दजयत् । (*tasmādvāpyetarhi bharatāḥ satvanāṃ nittiṃ prayaṃti turīye haiva saṃgrahitāro vadaṃte 'munaivānūkāśena yadada iṃdraḥ sārathiriva bhūtvo dajayat |*) (I. Cā. 9-25). **NOTE** The matter stated above is made clear by an example from worldly practice. Warriors in battle sit in chariots and, with the help of their charioteer, win in the battle and seize the wealth and other possessions of the enemies. When they seize them in this way, they give one part of that wealth and so on, that is, one part in four, to the charioteers who helped them. This custom is current in the world. In the same way, in this contest arranged by the gods Indra acted as charioteer to Vāyu and, since Vāyu was the victor, a fourth part of the first Soma-drinking won in the contest became Indra's share. The main meaning is that Indra gained his fourth part as charioteer to Vāyu.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाय॒वा या॑हि वी॒तये॑ जुषा॒णो ह॒व्यदा॑तये ।  
+> पिबा॑ सु॒तस्यांध॑सो अ॒भि प्रयः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नायो इति । आ । याहि । नीतये । जुषाणः । हव्यदातये ।  
+> पिब । सुतस्य । अंधसः । अभि । प्रयः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 564. Sūkta 50 Ṛk 3-5; Sūkta 51 Ṛk 1-2 (pp. 558-564)
+**Progress note:** Done through printed p. 570. Sūkta 51 Ṛk 3-5 (pp. 565-570)
