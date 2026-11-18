@@ -18124,6 +18124,252 @@ O Agni, riches that have been seized in many ways contend in the protection of t
 ##### English translation
 The manifold treasures of the enemy (detached from them) are emulous, Agni, for the presrvation (of your worshippers) : men who worship
 
+### Printed p. 527
+
+you, triumphing over the spoiler, seek to shame him who celebrates no sacred rite by (their) observances.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर॒प्सामृ॑ती॒षहं॑ वी॒रं द॑दाति॒ सत्प॑तिं ।  
+> यस्य॒ त्रसं॑ति॒ शव॑सः सं॒चक्षि॒ शत्र॑वो भि॒या ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । अप्पां । ऋतिसहं । वीरं । ददाति । सत्पतिं ।  
+> यस्य । त्रसंति । शवसः । संचक्षि । शत्रवः । भिया ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्वीरं पुत्रं ददाति । स्तोतृभ्यः प्रयच्छति । कीदृशं पुत्रं ।
+> अस्सामपामाप्तव्यानां कर्मणां सनितारं संभक्तारमृतीषहमृतीनामरातीनां
+> सोढारमभिभवितारं सत्पतिं सतां कर्मणां पालयितारं । यस्य वीरस्य संचक्षि
+> संदर्शने सति शवसो बलात् भिया भीत्या शत्रवस्त्रसंति उद्विजंते तं वीरमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Agni gives a heroic son; he bestows him on the praisers. What kind of son? One who is the sharer in the rites that are to be attained, who overcomes and endures the enemies (ऋतीषहं (*ṛtīṣahaṃ*)), who is the protector of the rites of the good. At the sight of that hero, through fear of his strength, the enemies tremble and are shaken. This is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which heroic son
+- सं चक्षि (*saṃ cakṣi*)—at the mere sight
+- शवसः (*śavasaḥ*)—of his strength
+- भिया (*bhiyā*)—through fear
+- शत्रवः (*śatravaḥ*)—all the enemies
+- त्रसंति (*trasaṃti*)—tremble and run away (such a one)
+- अप्पां (*appāṃ*)—the performer of rites
+- ऋतीषहं (*ṛtīṣahaṃ*)—who defeats enemies
+- सत्पतिं (*satpatiṃ*)—the protector of the good
+- वीरं (*vīraṃ*)—the heroic son
+- अग्निः (*agniḥ*)—Agni
+- ददाति (*dadāti*)—gives to the praiser
+
+##### भावार्थ (Bhāvārtha)
+
+Agni gives to the praiser a heroic son, a performer of rites, a defeater of enemies and a protector of the good, at the mere sight of whom, through fear of his strength, all enemies tremble and run away.
+
+### Printed p. 528
+
+##### English translation
+Agni bestows (upon his worshippers) a male descendant, (the performer of good) works, the subduer of foes, the protector of the virtuous, at whose appearance his enemies tremble through fear of his prowess.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्हि वि॒द्मना॑ नि॒दो दे॒वो मर्त॑मुरु॒ष्यति॑ ।  
+> स॒हावा॒ यस्यावृ॑तो र॒यिर्वाजे॒ष्ववृ॑तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । हि । विद्मना । निदः । देवः । मर्तं । उरुष्यति ।  
+> सह्यवा । यस्य । अवृतः । रयिः । वाजेषु । अवृतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहावा । सहो बलं । तद्वान् देवो दानादिगुणयुक्तोऽग्निर्विद्मना
+> ज्ञानेन युक्तः सन् तं मर्तं मनुष्यं यजमानं निदो निंदकादुरुष्यति । रक्षति ।
+> हीति पूरकः । यस्य मर्तस्य रयिर्हविर्लक्षणं धनमवृतो रक्तप्रभृतिभिरनाच्छादितं
+> वाजेषु यज्ञॆष्टवृतोऽन्यैर्यजमानैरसंभक्तं तं हविष्मंतं यजमानमुरुष्यतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+सहावा (*sahāvā*): sahas is strength; the divine Agni who has it, endowed with qualities such as generosity and joined with knowledge, protects that mortal, the sacrificer, from the reviler. The word हि (*hi*) is a filler. The mortal whose wealth, in the form of the oblation, is not covered by blood and the like, and at the sacrifices is not shared by other sacrificers, that sacrificer who has the oblation he protects. This is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which man (the sacrificer)
+- रयिः (*rayiḥ*)—the wealth
+- अवृतः (*avṛtaḥ*)—not seized by the Asuras
+- वाजेषु (*vājeṣu*)—at the sacrifices
+- अवृतः (*avṛtaḥ*)—is not obtained by other sacrificers (such)
+- मर्तं (*martaṃ*)—the sacrificer
+- सहावा (*sahāvā*)—who is mighty
+- देवः (*devaḥ*)—who is endowed with generosity and other qualities
+- अग्निः (*agniḥ*)—Agni
+- विद्मना (*vidmanā*)—being joined with knowledge
+- निदः (*nidaḥ*)—from reviler
+- उरुष्यति (*uruṣyati*)—protects
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer whose wealth is not seized by the Asuras and is not obtained at the sacrifice by other sacrificers, such a sacrificer Agni, who is mighty and endowed with generosity and other qualities, protects from reviler, being joined with knowledge.
+
+### Printed p. 529
+
+##### English translation
+The mighty and divine Agni, endowed with knowledge, protects the mortal from reproach whose rich (offerings) are unobstructed (by evil spirits), and unshared by other (offerers) at sacrifices.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ नो मित्रमहो देव दे॒वानग्ने॒ वोचः॑ सुम॒तिं  ॑
+> रोदस्योः ।  
+> वी॒हि स्व॒स्तिं सु॑क्षि॒तिं दि॒वो नृन्द्वि॒षो अंहां॑सि दुरि॒ता त॑रेम॒  
+> ता त॑रेम॒ तवाव॑सा तरेम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । नः । मित्रमहः । देव । देवान् । अग्ने । वोचः । सुमतिं । रोदस्योः ।  
+> वीहि । स्वस्तिं । सुक्षितिं । दिवः । नृन् । द्विषः । अंहांसि । दुःइता । तरेम । ता ।  
+> तरेम । तव । अवसा । तरेम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं ॥ अक्षरार्थस्तु । अनुकूलदीप्ते दानादिगुणयुक्ताग्ने
+> द्यावापृथिव्योरभिगतस्त्वमस्मदीयां सुष्टुतिं यष्टव्यान् देवान्प्रति वोचः ।
+> प्रब्रूहि । स्तुतेर्नॆत्यनस्मांश्च सुनिवासमविनाशं गमय । वयं च त्वत्पसादाद्वेष्टवान् पापानि तत्फलानि दुर्गमनानि चातिक्रामेम । व्यवहितानि जन्मांतरकृतानि
+> च तान्यतिक्रामेम । त्वदीयेन रक्षणेनात्यंतमतिक्रामेमेति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk has been explained already, and gives the meaning of its words. O Agni of favourable radiance, endowed with generosity and other qualities, you who have gone to heaven and earth, speak our good praise to the gods who are to be worshipped. Cause us who are the praisers to reach a good dwelling that does not perish. And through your favour may we overcome the haters, sins, their fruits and the hard-to-cross things; and may we overcome those which were done in other births, and the things that stand between. By your protection may we overcome them completely. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रमहः (*mitramahaḥ*)—you of favourable radiance
+- देव (*deva*)—divine in nature
+- अग्ने (*agne*)—O Agni
+- रोदस्योः (*rodasyoḥ*)—in all heaven and earth (you who pervade them)
+- देवान् अच्छ (*devān accha*)—facing the gods
+- नः (*naḥ*)—our
+- सुमतिं (*sumatiṃ*)—praise
+- वोचः (*vocaḥ*)—recite (offer)
+- दिवः (*divaḥ*)—to praises
+- न्यन् (*nyan*)—us, the composers
+- सुक्षितिं (*sukṣitiṃ*)—that which is accompanied by excellent homes
+
+### Printed p. 530
+
+- स्वस्तिं (*svastiṃ*)—with welfare that does not perish
+- वीहि (*vīhi*)—unite
+- वयं (*vayaṃ*)—we
+- द्विषः (*dviṣaḥ*)—our enemies
+- अंहांसि (*aṃhāṃsi*)—and sins
+- दुरिता (*duritā*)—the painful fruits of sin
+- तरेम (*tarema*)—may we cross
+- ता (*tā*)—and the impressions of sin from other births
+- तरेम (*tarema*)—may we cross (O Agni)
+- तव (*tava*)—your
+- अवसा (*avasā*)—being joined with protection
+- तरेम (*tarema*)—may we cross all that sorrow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of favourable radiance and divine in nature, you who pervade all heaven and earth, face the gods and recite and offer our praises. Unite us, the composers and reciters of praises, with welfare that is accompanied by excellent homes and the like and does not perish. May we cross our enemies, our sins and the painful fruits of sin. O Agni, joined with your protection, may we cross all those sorrows.
+
+##### English translation
+Divine Agni, revered as a freind, who, abiding in heaven and earth communicates our praise to the gods, conduct the offerer of adoration to domestic felicity, and may we overcome our adversaries, our difficulties : may we overcome them by your protection.
+
+## Sūkta 15 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इममू षु व इत्येकोनविंशत्यृचं पंचदशं सूक्तमांगिरसस्य वीतहव्यस्य
+> भरद्वाजस्य वार्षवाग्नियं । आदौ नव जगत्यस्तृतीयाषष्टौ तु शक्वर्यतिशक्वर्यौ
+> पंचदशी शक्वरी सप्तदश्यनुष्टुबष्टादशी बृहती दशम्याद्याः पंच षोडश्येकोनविंशी चेति सप्त त्रिष्टुभः । तथा चानुक्रांतं । इममू षैकोना वीतहव्य ऋषिर्वा
+> जागतं प्राग्गशम्यास्तृतीयापंचदश्यौ शक्वर्यौ षष्ठ्यतिशक्वर्यनुष्टुब्बृहत्या
+> उपांत्ये इति ॥ प्रातरनुवाक आग्नेये क्रतावाश्विनशस्त्रे चादितो नवर्चः । सूत्रितं
+> च । इममू षु वो अतिथिमुषर्बुधमिति नव । आ. ४-१३ ॥ इति ॥ दशरात्रे
+> पंचमेऽहनि नवर्चमाज्यशस्त्रं । सूत्रितं च । इममू षु वो अतिथिमुषर्बुधमिति
+> नवाज्यं । आ. ७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the fifteenth sūkta, of nineteen Ṛks, addressed to Agni. Its seer is Vītahavya of the Āṅgirasa line, or Bharadvāja. Its metres: the first nine Ṛks are Jagatī, except that the third is Śakvarī and the sixth is Atiśakvarī; the fifteenth is Śakvarī, the seventeenth Anuṣṭubh, the eighteenth Bṛhatī; the five from the tenth to the fourteenth, the sixteenth and the nineteenth, seven in all, are Triṣṭubh. The Anukramaṇikā states this accordingly. In the Prātaranuvāka, in the Āgneya kratu and in the Āśvina-śastra, the first nine Ṛks are used; this is laid down in the sūtra इममू षु वो अतिथिमुषर्बुधमिति नव (*imamū ṣu vo atithimuṣarbudhamiti nava*) (Ā. 4-13). In the Daśarātra, on the fifth day, the nine Ṛks form the Ājya-śastra; this is laid down in the sūtra इममू षु वो अतिथिमुषर्बुधमिति नवाज्यं (*imamū ṣu vo atithimuṣarbudhamiti navājyaṃ*) (Ā. 7-12).
+
+### Printed p. 531
+
+The Kannada Anuvāda says the same: this is the fifteenth sūkta in the first Anuvāka, with nineteen Ṛks; Vītahavya of the Aṅgiras lineage or Bharadvāja is the seer and Agni the deity; it gives the same metres and quotes the Anukramaṇikā; it explains the use of the first nine Ṛks for the mantras of the Āgneya kratu in the Prātaranuvāka and for the Āśvina-śastra by the Āśvalāyana Śrauta Sūtra (Ā. 4-13), and their use as the Ājya-śastra on the fifth day of the Daśarātra sacrifice by the same sūtra (Ā. 7-12).
+
+- Maṇḍala 6, Anuvāka 1, Sūkta 15
+- Aṣṭaka 4, Adhyāya 5, Varga 17, 18, 19, 20
+- Number of Ṛks in the sūkta: 19
+- Ṛṣi: भरद्वाजो बार्हस्पत्यो वीतहव्यो वा (*bharadvājo bārhaspatyo vītahavyo vā*)
+- Devatā: अग्निः (*agniḥ*)
+- Chandas: Ṛks 1, 2, 4, 5, 7-9 जगती (*jagatī*); 3, 15 शक्वरी (*śakvarī*); 6 अतिशक्वरी (*atiśakvarī*); 10-14, 16, 19 त्रिष्टुप् (*triṣṭup*); 17 अनुष्टुप् (*anuṣṭup*); 18 बृहती (*bṛhatī*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ममू॒ शु वो॒ अति॑थिमुष॒र्बुधं॒ विश्वा॑सां वि॒शां पति॑मृंजसे गि॒रा ।  
+> वेतीद्दि॒वो ज॒नुषा॒ कच्चि॒दा शुचि॒र्जोक्ष्चि॑तत्ति॒ गर्भो॒ यदच्यु॑तं ॥ १ ॥
+
+### Printed p. 532
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । ऊं इति । सु । वः । अतिथिं । उषःबुधं । विश्वासां । विशां । पतिं । यंजसे।  
+> गिरा ।  
+> वेति । इत् । दिवः । जनुषा । कत् । चित् । आ । शुचिः । ज्योक् । चित् । अत्ति । गर्भः ।  
+> यत् । अच्युतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीतहव्य ऋषे भरद्वाज ना वस्त्रं ॥ विभक्तिवचनयोर्व्यत्ययः ॥ इममु
+> इममेवाग्निं गिरा स्तुत्या स्वृंजसे सुष्टु प्रसाधय ॥ यंजतिः प्रसाधनकर्मेति
+> यास्कः ॥ कीदृशं । अतिथिं सततं गंतारं । यद्वा । अतिथिवत्पूज्यं । उषर्बुधमुषसि
+> प्रबुद्धं विश्वासां सर्वासां विशां प्रजानां पतिं पालयितारं । जनुषा जन्मना
+> स्वत एव शुचिः शुद्धो निर्मलो वाग्निः कच्चित् कस्मिंश्चिद्यागकाले दिवो
+> द्युलोकादा वेति । आगच्छति । तदानीं प्रसाधयेत्यन्वयः । एवं प्रसाधितोऽग्निर्गर्भोरण्योर्मध्यॆ गर्भवद्वर्तमानः । यद्वा । द्यावापृथिव्योर्गर्भभूतः सन्
+> यद्धविरच्युतं च्युतिरहितं नित्यमग्निहोत्रादिसाधनभूतं पयःप्रभृतिकं तत्
+> ज्योक्तित् चिरकालमत्ति । भक्षयति ॥
+
+##### Gist of the bhāṣya
+
+O seer Vītahavya Bharadvāja, you worship this very Agni with praise; that is, you prepare him well. Yāska is cited for the root: यंजतिः प्रसाधनकर्मेति यास्कः (*yaṃjatiḥ prasādhanakarmeti yāskaḥ*) **GLOSS**. What kind of Agni? A guest, one who goes constantly; or else, one to be honoured like a guest; one who is awake at dawn; the lord and protector of all the peoples. Pure by birth, of himself, Agni comes at some time of the sacrifice from the heavenly world; at that time prepare him. This is the construction. Thus prepared, Agni, who lies as an embryo between the two kindling sticks, or else, who is the embryo of heaven and earth, eats for a long time that oblation which does not fail, milk and the like, the constant means of the Agnihotra and the other rites. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनुषा (*januṣā*)—by nature
+- शुचिः (*śuciḥ*)—the pure Agni
+- कच्चित् (*kaccit*)—at this time of sacrifice
+- दिवः (*divaḥ*)—from the heavenly world
+- आ वेति (*ā veti*)—comes (such)
+- अतिथिः (*atithiḥ*)—to be honoured like a guest
+- उषर्बुधं (*uṣarbudhaṃ*)—who awakes at dawn
+- विश्वासां (*viśvāsāṃ*)—of all
+- विशां (*viśāṃ*)—the peoples
+- पतिं (*patiṃ*)—the protector
+- इममु (*imamu*)—this Agni alone
+- वः (*vaḥ*)—you
+- गिरा (*girā*)—with praise
+- सु (*su*)—exceedingly
+- ऋंजसे (*ṛṃjase*)—worship
+- गर्भः (*garbhaḥ*)—Agni who is as an embryo in the kindling stick
+- यत् (*yat*)—which oblation
+- अच्युतं (*acyutaṃ*)—is imperishable, that
+- ज्योक्तित् (*jyoktit*)—for a long time
+- अत्ति (*atti*)—accepts and eats
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, Agni, pure by nature and by birth, comes from the heavenly world at the time of sacrifice. Worship exceedingly with praise this very Agni, who is to be honoured like a guest, who awakes at dawn and who is the protector of all the peoples. Agni, who is as an embryo in the kindling stick, accepts and eats for a long time the oblation that does not perish.
+
 ---
 
-**Progress note:** Done through printed p. 526. Rk 5-6 of sukta 13, sukta 14 Rk 1-3
+**Progress note:** Done through printed p. 532. Sukta 14 Rk 4-6, Sukta 15 intro and Rk 1
