@@ -1,0 +1,35 @@
+"""Guesses checked against the line around each place (column I) — the user's request, Nov 18 2026 ("did you read column I in each case").
+CHK[form] = (guess, confidence, what the line shows).  Entries here override the pattern guesses of refs_guess.py.
+'high' here means the line itself (the work named in words, the quoted words, the neighbouring references) agrees; the quoted-words identifications
+are mine from memory and the user is asked to verify them."""
+CHK = {
+ 'Saṃ.': ('(capital Saṃ.: see REFERENCES_CAPITAL_SAM_PLACES.tsv; by place: Ṛk Saṃ. 6-71-3 = Ṛ. Saṃ.; Yajus Saṃ. = Yajurveda; Kāvya/Kāṭhaka/Śrī Saṃ. as named; Ya Saṃ. = Yajur; Saṃ. 19-1-56 = Atharva)', 'none', 'ten places, each named differently in its own line: no single reading'),
+ 'Brā.': ('by place: Tā. Brā. (Vol 5 p592, "Tāṇḍya Mahā Brā."); Tai. Brā. (Vol 11 p256 "Ḍvai Brā."); Śa. Brā. (Vol 12 p248 "Śa.. Brā."; Vol 17 "Ka Brā." done); Tā. Brā. (Vol 15 p667 "Tāṇḍya Brā.")', 'medium', 'four of the five lines name the Brāhmaṇa in words or in the neighbouring words'),
+ 'Ka. Prā.': ('Śa. Brā.', 'medium', 'numbers have 4 parts (5-2-1-64 …) as Śatapatha numbers do; Ka. = Śa. (as "Ka Brā. 4-3-1-15", confirmed); Prā. = Brā. misread'),
+ 'Śa. Prā.': ('Śa. Brā.', 'medium', 'Vol 11 p200 quotes "so \'gnereko bhāgo … yo vai varuṇaḥ so \'gniḥ" — Brāhmaṇa prose with a 4-part number; Prā. = Brā. misread'),
+ 'Pa. Prā.': ('Śa. Brā.', 'medium', 'Vol 11 p652 "viṣṇur … yajñaḥ … ādityaḥ" is Brāhmaṇa prose with a 4-part number (14-1-1-4 to 5); Pa./Prā. = Śa./Brā. misread'),
+ 'Pra. Prā.': ('Śa. Brā.', 'medium', 'Vol 11 p119 "te haite brahmaṇo mahatī abhve" is Brāhmaṇa prose, number 11-2-3-3; Pra. = Śa.? Prā. = Brā.'),
+ 'Kā. Śrau. Sū.': ('Kā. Śrau. Sū. = Kātyāyana Śrauta-sūtra (new row)', 'high', 'named next to Āś. Śrau. Sū. and Paṃ. Brā. in the list of ritual books'),
+ 'Nṛ. Tā.': ('Nṛsiṃha-tāpanīya Upaniṣad (new row)', 'medium', 'the line says "the Tāpanīya branch"'),
+ 'Pu.': ('Pu. 6-47-8 (Vol 11 p389) = Ṛ. Saṃ. (the quoted verse is Ṛgveda 6.47.8); Pu. 96-97 and Pu. 2-2-2: cannot tell', 'medium', 'only one of three places is identified by its quoted verse'),
+ 'R. V. I.': ('(retain: Rig-Veda in a quoted English text)', 'high', 'the lines read "R. V. I. 189-7" in the English of another author'),
+ 'i. e. Ni.': ('Ni.', 'high', 'the line reads "(printed सि- ३-९, i.e. Ni. 3-9)": the English "i.e." is not part of the name'),
+ 'i. e. Śat. Brā.': ('Śa. Brā.', 'high', 'the line reads "(printed ಶ. ಬ್ರಾ…., i.e. Śat. Brā. …)"'),
+ 'i. e. Ṛ. Saṃ.': ('Ṛ. Saṃ.', 'high', 'the line says "printed … i.e. Ṛ. Saṃ."'),
+ 'nai.': ('Ni. (Naighaṇṭuka part)', 'high', 'the line reads "nai. 1-15 | iti paṭhitatvāt" after the names of Indra\'s horses (Nighaṇṭu 1.15)'),
+ 'नै.': ('Ni. (Naighaṇṭuka part)', 'high', 'the line reads "पदानि । नै. ३-१२ । इत्युक्तत्वात्": a Nighaṇṭu number'),
+ 'परिभा.': ('Paribhā. = Paribhāṣā (new row)', 'medium', 'the line says "(संज्ञापूर्वको विधिरनित्यः, परिभा. ९-३-१)": a Pāṇinian paribhāṣā'),
+ 'बृ. डे.': ('Bṛ. De.', 'high', 'Vol 14 p256: the same Bṛhaddevatā-style number cited twice (1-90)'),
+ 'Ṛ. Su.': ('Ṛ. Saṃ.', 'high', 'the line itself says "printed Ṛ. Su. 10-66-3 [sic, for Ṛ. Saṃ.]"'),
+ 'Ṛk. Ve.': ('Ṛ. Saṃ.', 'high', 'the line reads "(Av. 18-2-49; Ṛk. Ve. 10-15-2)": the Ṛgveda is cited beside the Atharvaveda'),
+ 'Ai.': ('by place: Ai. Brā. (Vol 14 p26, "the Aitareya Brāhmaṇa sentences … Ai. 4-7"); Ai. Ā. (Vol 14 p47, "the Aitareya Āraṇyaka (Ai. 5-3-2)")', 'high', 'both lines name the work in words'),
+ 'Ai. Brā. Bhā.': ('Ai. Brā. Bhā. = Sāyaṇa\'s bhāṣya on the Aitareya Brāhmaṇa (new row)', 'high', 'the line says "Sayanacharya\'s own Aitareya-Brahmana-bhashya (Ai. Brā. Bhā. 5-7)"'),
+ 'Bṛ.': ('Bṛ. De.', 'high', 'the line says "the Bṛhaddevatā, a work by Śaunaka … (Bṛ. 3-411 as printed)"'),
+ 'Bṛ. Me.': ('Bṛ. De.', 'medium', 'Vol 12 numbers 1-61, 1-63, 1-42: Bṛhaddevatā-style numbers; Me. = De. misread'),
+ 'Gā.': ('Pā. Sū.', 'high', 'the lines quote "ajjaserasuk" (7-1-50) and "bahuvrīhau prakṛtyā pūrvapadam" (6-2-1): Pāṇini sūtras'),
+ 'Ka. Brā.': ('Śa. Brā.', 'high', 'Vol 11 p309 quotes Brāhmaṇa prose with a 4-part number 1-2-1-3; Ka. = Śa. as in "Ka Brā. 4-3-1-15" (confirmed)'),
+ 'Kh. Saṃ.': ('Ṛ. Saṃ.', 'medium', 'Vol 16 p463: the verse "maho arṇaḥ sarasvatī pra cetayati ketunā" is cited as "(Kh. Saṃ. 1-3-12)" beside "(Ma. Saṃ. 1-3-10)" — both are the Ṛgveda verse 1.3.12'),
+ 'Kha. Saṃ.': ('Ṛ. Saṃ.', 'low', 'same pattern as Kh. Saṃ.'),
+ 'Kāś.': ('Kāś. = Kāśikā (Kāśikāvṛtti on Pāṇini) (new row)', 'high', 'the lines read "(Kāś. 4-3-144)" after a Pāṇini rule and "[as read: Kāś. 3-1-8 vārttika]" beside "(Pā. 3-1-8)"'),
+ 'Maṃ. Saṃ.': ('Ṛ. Saṃ.', 'high', 'the quoted verse "abhi pravanta samaneva yoṣāḥ" is Ṛgveda 4.58.8 and the number is 4-58-8'),
+}
