@@ -12304,6 +12304,216 @@ The word *rādhas* is formed from the root राध्नवंति (*rādhna
 
 Sāyaṇa says: O Indra, whatever *dyukṣa*, food that you consider *vareṇya*, desirable, that *dyukṣa* bring to us. We, who are yours, in the giving of such food of the stated character, *akūpāra*, that is, of which the shore or end is not bad, may we be (*vidyāma* means "may we be").
 
+### Printed p. 311
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—which
+- द्युक्षं (*dyukṣaṃ*)—food
+- वरेण्यं (*vareṇyaṃ*)—as esteemed (excellent)
+- मन्यसे (*manyase*)—you consider
+- तत् (*tat*)—that food
+- आ भर (*ā bhara*)—fill up and give to us
+- ते (*te*)—belonging to you
+- वयिं (*vayiṃ*)—we
+- तस्य (*tasya*)—of such
+- अकूपारस्य (*akūpārasya*)—of the food without limit
+- दावने (*dāvane*)—fit for the giving
+- विद्याम (*vidyāma*)—we shall be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever food you consider most esteemed, fill it up and give it to us. We, who belong to you, shall be fit to receive the gift of such food, which is unstinted and without limit.
+
+##### English translation
+Whatever food you consider desirable, Indra, bestow it: let us be to you (in the relation of your) gift of unlimited sustenance.
+
+##### विशेषविषयगळु (Special Topics)
+
+दावने (*dāvane*), अकूपारस्य (*akūpārasya*)—to explain the meaning of these words Yāska has given an etymology for this Ṛk:
+
+दावने । अकूपारस्य । विद्याम तस्य ते वयमकूपारस्य दावने । विद्याम तस्य ते वयमकुपरणस्य दानस्य ॥ आदित्योऽप्यकूपार उच्यतेऽकूपारो भवति दूरपारः ॥ समुद्रोऽप्यकूपार उच्यतेऽकूपारो भवति महा पारः ॥ कच्छपोऽप्यकूपार उच्यतेऽकूपारो न कूपमृच्छतीति ॥ कच्छपः कच्छं पाति कच्छेन पातीति वा कच्छेन पिबतीति वा ॥ कच्छः खच्छः खच्छदः । अयमपीतरो नदीकच्छ एतस्मादेव । कमु=कं तेन छाद्यते ॥ (*dāvane | akūpārasya | vidyāma tasya te vayamakūpārasya dāvane | vidyāma tasya te vayamakuparaṇasya dānasya ‖ ādityo 'pyakūpāra ucyate 'kūpāro bhavati dūrapāraḥ ‖ samudro 'pyakūpāra ucyate 'kūpāro bhavati mahā pāraḥ ‖ kacchapo 'pyakūpāra ucyate 'kūpāro na kūpamṛcchatīti ‖ kacchapaḥ kacchaṃ pāti kacchena pātīti vā kacchena pibatīti vā ‖ kacchaḥ khacchaḥ khacchadaḥ | ayamapītaro nadīkaccha etasmādeva | kamu=kaṃ tena chādyate ‖*)
+
+Here the word दावने (*dāvane*) means दानस्य (*dānasya*), for giving (to us). The word अकूपारस्य (*akūpārasya*) has several meanings. The statement of the Nirukta authors is that अकूपारस्य (*akūpārasya*) means अकुपरणस्य (*akuparaṇasya*). What, then, is अकुपरणस्य (*akuparaṇasya*)? कु (*ku*) means contemptible, little; परण (*paraṇa*) means पूरण (*pūraṇa*), fullness, being filled; कुपरण (*kuparaṇa*) means that which is only little; अकुपरण (*akuparaṇa*) means that which is not little, that is, more, immense, endless. The word अकूपारस्य (*akūpārasya*) has the same meaning. In what contexts this meaning is used the Nirukta authors themselves explain thus:
+
+### Printed p. 312
+
+आदित्योऽप्यकूपार उच्यतेऽकूपारो भवति दूरपारः । (*ādityo 'pyakūpāra ucyate 'kūpāro bhavati dūrapāraḥ |*) The word अकूपार (*akūpāra*) is also taken to mean Āditya, that is, Sūrya. How? Since the sun travels from the time of rising to the time of setting over so great a distance that it cannot be measured, Āditya too is called अकूपार (*akūpāra*).
+
+समुद्रोऽप्यकूपार उच्यतेऽकूपारो भवति महापारः । (*samudro 'pyakūpāra ucyate 'kūpāro bhavati mahāpāraḥ |*) The ocean also is called अकूपार (*akūpāra*). For it spreads over a great distance; its end is not seen near at hand. Or, if पार (*pāra*) is taken to mean bank, shore, then, as the Nirukta authors say, महापारः (*mahāpāraḥ*): the shore of the ocean is endless, extremely long. Because it has such a boundless shore, the ocean too is called अकूपार (*akūpāra*).
+
+कच्छपोऽप्यकूपार उच्यते न कूपमृच्छति । (*kacchapo 'pyakūpāra ucyate na kūpamṛcchati |*) The tortoise also is called अकूपार (*akūpāra*). For, living in a well with little water, it has no room for much movement and stays in a small place. Here the word अकूपार (*akūpāra*) must be divided as आ+कूप+अर (*ā+kūpa+ara*) and so interpreted.
+
+कच्छपः कच्छं पाति कच्छेन पातीति वा कच्छेन पिबतीति वा । कच्छः खच्छः खच्छदः । (*kacchapaḥ kacchaṃ pāti kacchena pātīti vā kacchena pibatīti vā | kacchaḥ khacchaḥ khacchadaḥ |*) Here the word कच्छप (*kacchapa*) has been used to denote the tortoise. Incidentally Yāska has given an etymology for this word कच्छप (*kacchapa*) also:
+
+(1) कच्छ (*kaccha*) means the tortoise's face. कच्छं पातीति कच्छपः (*kacchaṃ pātīti kacchapaḥ*): because it specially protects its face or head, the tortoise is called कच्छप (*kacchapa*). In this sense the root पाति (*pāti*) is the root पा रक्षणे (*pā rakṣaṇe*), protect.
+
+(2) Or कच्छेन पातीति वा कच्छपः (*kacchena pātīti vā kacchapaḥ*): in this phrase the root पाति (*pāti*) has the sense of the root पा पाने (*pā pāne*), drink. Because the tortoise drinks with its mouth (कच्छेन (*kacchena*)), it is called कच्छप (*kacchapa*).
+
+(3) Or कच्छ (*kaccha*) means खच्छ (*khaccha*); the two words have one meaning. क (*ka*) means water, ख (*kha*) means sky, space. छादयतीति छः (*chādayatīti chaḥ*): छ (*cha*) means a covering, a cloak, a shell, and so on. Therefore कच्छप (*kacchapa*) means that which, living in the water itself, hides itself in the water, that is, plunges into the water and so protects itself; or, if the word खच्छप (*khacchapa*) is taken to mean covering, shell, then, because in time of danger it draws its head into its shell and so protects itself, the tortoise is called खच्छप (*khacchapa*) or कच्छप (*kacchapa*). **NOTE**
+
+### Printed p. 313
+
+(4) अयमपीतरो नदीकच्छ एतस्मादेव । कमुदकं तेन छाद्यते ॥ (*ayamapītaro nadīkaccha etasmādeva | kamudakaṃ tena chādyate ‖*) कच्छ (*kaccha*) is also the name of a river bank. Here क (*ka*) means water. च्छ (*ccha*) means छाद्यतॆ (*chādyatè*), is covered. Because the river bank is covered with water, it is called कच्छ (*kaccha*).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ दि॒त्सु प्र॒राध्यं॒ मनो॒ अस्ति॑ श्रु॒तं बृ॒हत् ।  
+> तेन॑ दृ॒ळ्ता चि॑दद्रिव॒ आ वाजं॑ दर्षि सा॒तये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । दित्सु । प्रराध्यं। मनः । अस्ति । श्रुतं । बृहत् ।  
+> तेन । दृळ्हा । चित् । अद्रिवः । आ । वाजं । दर्षि । सातये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजपेयेऽतिरिक्तोक्के यत्ते दित्त्वत्येषा । सूत्रितं च । यत्ते दित्तु
+> प्रराध्यं त्वामिच्छवसस्पते । आ- ९-९ । इति ॥
+> हे इंद्र ते तव यद्दित्सु दानेच्छु प्रराध्यं प्रकर्षण स्तुत्यं श्रुतं विश्रुतं
+> बृहन्महन्मनोऽस्ति तेन मनसा हे अद्रिवो वज्रवन्निंद्र दृळ्हा चिद्दृढमपि वाजमन्नमा दर्षि । आदरयसि सातयेऽस्मत्संभजनाय लाभाय ना ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that at the Vājapeya, in the supplementary utterance (atirikta-ukta), this Ṛk is used; **NOTE** and the sūtra says: the Ṛk beginning त्वामिच्छवसस्पते (*tvāmicchavasaspate*) (Ā. 9-9). He then explains: O Indra, that mind of yours which is desirous of giving (दित्सु (*ditsu*)), most highly praiseworthy (प्रराध्यं (*prarādhyaṃ*), praised in the highest degree), renowned (श्रुतं (*śrutaṃ*)), great (बृहत् (*bṛhat*)) — with that mind, O wielder of the thunderbolt (अद्रिवः (*adrivaḥ*), Indra who has the vajra), you bring (आ दर्षि (*ā darṣi*), you cause to be honoured) even the firm (दृळ्हा चित् (*dṛḷhā cit*), firm indeed) vāja, food, for सातये (*sātaye*), that is, for our sharing in it, for gain. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—your
+- दित्सु (*ditsu*)—having the intention of giving
+- प्रराध्यं (*prarādhyaṃ*)—to be praised exceedingly
+- श्रुतं (*śrutaṃ*)—renowned
+- बृहत् (*bṛhat*)—of great nature
+- यत् (*yat*)—which
+- मनः (*manaḥ*)—mind
+- अस्ति (*asti*)—there is
+- तेन (*tena*)—with that mind
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- दृळ्ता चित् (*dṛḷtā cit*)—firm and nourishing
+- वाजं (*vājaṃ*)—food
+- सातये (*sātaye*)—for giving to us
+- आ दर्षि (*ā darṣi*)—prepare and make ready
+
+### Printed p. 314
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, with that mind of yours which has the resolve to give, which is to be praised exceedingly, renowned and of great nature, make ready that firm and nourishing food, so as to give it to us.
+
+##### English translation
+Since your bountiful and praiseworthy will is famous and vastl therefore, thunderer, you have got ready for bestowing upon us substantia, food. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+It is settled by the Āśvalāyana-śrauta-sūtra, in the sūtra यत्ते दित्सु प्रराध्यं त्वामिच्छवसस्पते (*yatte ditsu prarādhyaṃ tvāmicchavasaspate*) (Ā. 9-9), that in the atirikta-ukta connected with the Vājapeya this Ṛk beginning यत्ते दित्सु (*yatte ditsu*) is to be recited.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंहि॑ष्ठं वो म॒घोनां॒ राजा॑नं चर्षणी॒नां ।  
+> • इंद्र॒मुप॒ प्रश॑स्तये पू॒र्विभि॑र्जुजुषे॒ गिरः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुंहिष्ठं । वः । मघोनां । राजानं । चर्षणीनां ।  
+> इंद्रं । उप । प्रशस्तये। पूर्विभिः । जुजुषे । गिरः ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघोनां हविर्लक्षणधनवतां वो युष्माकं मंहिष्ठमतिशयेन पूज्यं
+> चर्षणीनां मनुष्याहां राजानमिंद्रमुपोपेत्य प्रशस्तये प्रशंसितुं पूर्वीभिः
+> पुरातनीभिर्वाग्निर्गिरः स्तोतारो जुजुषे । सेवंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: मघोनां (*maghonāṃ*) means of those who have wealth in the form of oblations; वः (*vaḥ*) means of you. मंहिष्ठं (*maṃhiṣṭhaṃ*) means worthy of worship in the highest degree. चर्षणीनां (*carṣaṇīnāṃ*) means of men. Approaching Indra, the king of men, the praisers (गिरः (*giraḥ*)) serve him (जुजुषे (*jujuṣe*), सेवंते (*sevaṃte*)) with ancient words, in order to praise him (प्रशस्तये (*praśastaye*), प्रशंसितुं (*praśaṃsituṃ*)).
+
+### Printed p. 315
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनां (*maghonāṃ*)—of you who have wealth in the form of oblations
+- वः (*vaḥ*)—among you
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—most worthy of worship
+- चर्षणीनां (*carṣaṇīnāṃ*)—of all men
+- राजानं (*rājānaṃ*)—and lord
+- इंद्रं (*iṃdraṃ*)—Indra
+- उप (*upa*)—approach
+- प्रशस्तये (*praśastaye*)—in order to praise him
+- पूर्विभिः (*pūrvibhiḥ*)—with ancient praises
+- गिरः (*giraḥ*)—the praisers
+- जुजुषे (*jujuṣe*)—serve (praise)
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers approach Indra, who among you that have wealth in the form of oblations is most worthy of worship and is the lord of all men, praise him with ancient praises, and serve him.
+
+##### English translation
+With ancient (hymns) the pious approach Indra, to laud him who is most worthy of the beverage (the offering) of you who are opulent ; ( him ) who is the king of men.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आस्मा॒ इत्याव्यं॒ वच॑ उ॒क्षमिंद्रा॑य॒ शंस्यं॑ ।  
+> तस्मा॑ उ॒ ब्रह्म॑वाहसे॒ गिरो॑ वर्धं॒त्यत्र॑यो॒ गिरः॑ शुंभं॒त्यत्र॑यः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । इत् । काव्यं । वचः । उक्धं । इंद्राय । शंस्यं ।  
+> तस्मैः । ऊं इति । ब्रह्मवाहसे । गिरः । वर्धंति । अत्रयः । गिरः । शुंभंति ।  
+> अत्रयः ॥ ५ ॥
+
+### Printed p. 316
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा इदस्मा एनेंद्राय काव्यं कवेः स्तोतुः संबंधि । यद्वा । कु शब्दे ।
+> शब्दनीयं वचो वाग्रूपमुक्थं शस्त्रं शंस्यं शंसनीयं । यस्मादेवं तस्मात्तस्मा
+> उ तस्मा इंद्रायैव ब्रह्मवाहसे परिवृढस्य स्तोत्रस्य वाहकाय गिरः स्तुतीरत्रयोऽत्रिगोत्रा वर्धंति । वर्धयंति । अत्रयो गिरः शुंभंति । दीपयंति । पुन-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: अस्मा इत् (*asmā it*) means to this Indra alone; काव्यं (*kāvyaṃ*) means belonging to the poet, the praiser. Or else (यद्वा (*yadvā*)): from the root कु (*ku*) in the sense of sound, it means that which is to be sounded. वचः (*vacaḥ*) is speech, *uktha* is the śastra, शंस्यं (*śaṃsyaṃ*) is to be recited. Since this is so, therefore to him, to Indra alone, who is ब्रह्मवाहसे (*brahmavāhase*), the bearer of the all-embracing (परिवृढस्य (*parivṛḍhasya*)) hymn, the Atris, those of Atri's family, increase (वर्धंति (*vardhaṃti*), cause to grow) their praises; the Atris adorn (शुंभंति (*śuṃbhaṃti*), make shine) their praises. The repetition **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मा इत् इंद्राय (*asmā it iṃdrāya*)—for this Indra alone
+- काव्यं (*kāvyaṃ*)—of the nature of poetry
+- वचः (*vacaḥ*)—in the form of speech
+- उक्तं (*uktaṃ*)—the śastra mantra
+- शंस्यं (*śaṃsyaṃ*)—to be recited
+- ब्रह्मवाहसे (*brahmavāhase*)—who accepts praise
+- तस्मा उ (*tasmā u*)—for that very Indra
+- गिरः (*giraḥ*)—praises
+- अत्रयः (*atrayaḥ*)—the seers born in the family of Atri
+- वधंति (*vadhaṃti*)—increase
+- अत्रयः (*atrayaḥ*)—those same sons of Atri
+- गिरः (*giraḥ*)—praises
+- शुंभंति (*śuṃbhaṃti*)—make shine (recite)
+
+##### भावार्थ (Bhāvārtha)
+
+The śastra mantra, poetic and in the form of speech, is to be recited for this Indra alone. For that Indra, who accepts praise, the seers born in the family of Atri increase the praises. Those same sons of Atri make the praises shine (recite them).
+
+##### English translation
+To that Indra is the poetical and articulate prayer to be recited: to him the conveyers of pious praise, the sons of Atri, raise their hymns: the sons of Arti illumine their hymns.
+
+## Sūkta 40 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ याह्यद्रिभिरिति नवर्चमष्टमं सूक्तं । अत्रेयमनुक्रमणिका । आ याहि
+> नव त्र्युष्टिगाद्यंत्यानुष्टुम्मध्ये च सा सौरी तदादीतिहासः स्तुतिकर्मत्वादत्रिर्देवतैवेति । कृत्सस्य ऋषिश्चान्यस्मात् । अनु. १२-२ । इति परिभाषयात्रिर्यषिः ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the eighth sūkta, beginning आ याह्यद्रिभिरिति (*ā yāhyadribhiriti*), has nine Ṛks. The Anukramaṇikā says: its seer is Atri, of the Atri family; the metre of the nine Ṛks is Triṣṭubh, with the first and last Anuṣṭubh and, in the middle, one more, that is, the Sūrya Ṛk; the history that begins with it, and since the sūkta is a praise (stuti-karman), the deity is Atri. **NOTE** By the rule cited (Anu. 12-2) Atri is the seer.
+
 ---
 
-**Progress note:** Done through printed p. 310. Sūkta 38 Ṛks 3-5, Sūkta 39 Ṛk 1 and start of Ṛk 2, pp. 304-310
+**Progress note:** Done through printed p. 316. Vol 19 pp. 311-316: Ṛk 2 end, Ṛks 3-5, start of sūkta 40
