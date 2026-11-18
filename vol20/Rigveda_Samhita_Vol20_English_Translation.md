@@ -6895,6 +6895,306 @@ When the carts for bringing Soma, called Havirdhāna-pravartana, are brought, th
 
 **NOTE**
 
+### Printed p. 185
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्य इद्देवा अन्येऽप्यग्न्यादयो यस्य देवस्य द्योतमानस्य सवितुः
+> प्रयाणमनु ययुर्गच्छंति प्राप्नुवंति । किं महिमानं महत्त्वं ! सवितुरुदयाभावेऽग्निहोत्राद्यनिष्पत्तेस्तेषां हविःस्तुत्याद्यभावात् । ओजसा बलेन च युक्ता
+> भवंति! यः सविता पार्थिवानि रजांसि पृथिव्यादिलोकान्महित्वना स्वमहत्त्वेन विममे
+> परिच्छिन्नत्ति स देव एतश एतवर्णः शुभ्रः शोभमानः सन् । राजत इति शेषः ॥ युवशा
+> ताकृणोतन । ऋग्वे. १-१६१-७ । इत्यादिवदेतश इत्यादिशकारोपजनश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+Other gods too, Agni and the rest, follow the going forth of the shining god Savitṛ; that is, they obtain greatness. For without the rising of Savitṛ the Agnihotra and other rites are not accomplished, and those gods would lack oblation, praise and the like. They become endowed with ओजसा (*ojasā*), with strength. Savitṛ, who by his own greatness has measured out the terrestrial realms, that is, the worlds beginning with the earth, that god, एतश (*etaśa*), that is, एतवर्णः (*etavarṇaḥ*), bright, shining, shines; "he shines" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine
+- यस्य (*yasya*)—of which Savitṛ
+- प्रयाणं अनु (*prayāṇaṃ anu*)—following his very path of going
+- अन्ये इत् देवाः (*anye it devāḥ*)—all the other gods also
+- ओजसा (*ojasā*)—endowed with power
+- महिमानं (*mahimānaṃ*)—greatness
+- ययुः (*yayuḥ*)—obtain
+- देवः (*devaḥ*)—the divine
+- यः सविता (*yaḥ savitā*)—which Savitṛ
+- महित्वना (*mahitvanā*)—by his majesty
+- पार्थिवानि रजांसि (*pārthivāni rajāṃsi*)—the three worlds beginning with the earth
+- विमने (*vimane*)—created and divided
+- सः (*saḥ*)—that same Savitṛ
+- एतशः (*etaśaḥ*)—shines, of bright colour
+
+##### भावार्थ (Bhāvārtha)
+
+Following the very path of going of the divine Savitṛ, all the other gods also obtain greatness endowed with power. That same Savitṛ, the divine one, who by his majesty created and divided the three worlds beginning with the earth, shines of bright colour.
+
+##### English translation
+After the passage of which divine (being) the other deities proceed to (obtain) majesty with power ; he who by his greatness has measured out the terrestrial regions, the divine Savitri, (is) resplendent.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त या॑सि सवित॒स्त्रीणि॑ रोच॒नोत सूर्य॑स्य र॒श्मिभिः॒ समु॑च्यसि।  
+> उ॒त रात्रि॑मुभ॒यतः॒ परी॑यस उ॒त मि॒त्रो भ॑वसि देव॒  ॑
+> धर्मभिः ॥ ४ ॥
+
+### Printed p. 186
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । यासि । सवितरिति । त्रीणि । रोचना । उत । सूर्यस्य । रश्मिभिः । सं । उच्यसि ।  
+> उत । रात्रीं । उभयतः । परि । ईयसे । उत । मित्रः । भवसि । देव । धर्मभिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितर्देव उतापि च त्रीणि रोचना रोचमानान् द्युलोकान्यासि ।
+> गच्छसि । तिस्रो दिवः पृथिवीः । ऋग्वे. ४-५३-५। इत्युक्तं । उतापि च सूर्यस्य रश्मिभिः
+> समुच्यसि । संगच्छसि ॥ उच समवाय इत्यस्येदं रूपं ॥ उदयात्तूर्वभावी
+> सवितोदयास्तमयवर्ति सूर्य इति । उतापि च रात्रिमुभयत उभयपार्श्वे
+> परीयसे । परिगच्छसि । उतापि च हे देव सवितस्त्वं धर्मभिर्जगद्धारकैः कर्मभिर्मित्रो भवसि । मित्राख्यो देवो भवसि । अथवा प्रकाशादिप्रदानेन सखा भवसि
+> सर्वजगतां ॥
+
+##### Gist of the bhāṣya
+
+O god Savitṛ, you go to the three shining worlds, the worlds of heaven; this is said in तिस्रो दिवः पृथिवीः (*tisro divaḥ pṛthivīḥ*) (Ṛg. 4-53-5). Also you unite with the rays of Sūrya: Savitṛ is he who exists before sunrise, Sūrya is he who exists from rising to setting. Also you go around the night on both sides, on both flanks. Also, O god Savitṛ, by your acts of dharma, which uphold the world, you are Mitra, that is, you are the god called Mitra; or else, by granting light and the like, you are the friend of all the world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- सवितः (*savitaḥ*)—O god Savitṛ
+- त्रीणि रोचना (*trīṇi rocanā*)—the three shining worlds
+- यासि (*yāsi*)—you travel
+- उत (*uta*)—and
+- सूरस्य (*sūrasya*)—of Sūra
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- समुच्यसि (*samucyasi*)—you unite
+- उत (*uta*)—and
+- रात्रीं (*rātrīṃ*)—the night
+- उभयतः (*ubhayataḥ*)—on both sides
+- परि ईयसे (*pari īyase*)—you go around
+- उत (*uta*)—more than all this
+- देव (*deva*)—O divine Savitṛ
+- धर्मभिः (*dharmabhiḥ*)—by acts that uphold the world
+- मित्रः (*mitraḥ*)—in the form of Mitra
+- भवसि (*bhavasi*)—you become
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, you travel through the three shining worlds. You become one with the rays of the sun. You go around the night, encircling it on both sides. More than all this, by your acts that uphold the world you become Mitra in form.
+
+##### English translation
+Either you traverse, Savitri, the three regions, or combine with the rays of Surya ; or you pass, between the night on either hand ; or you divine Savitri, are Mitra, through your (benevolent) functions.
+
+### Printed p. 187
+
+##### विशेषविषयगळु (Special Topics)
+
+त्रीणि रोचनोत सूर्यस्य (*trīṇi rocanota sūryasya*)—The commentator has cited a Ṛk saying that the sun holds the three kinds of atmospheric worlds under his control:
+
+त्रिरंतरिक्षं सविता महित्वना त्री रजांसि परिभूस्त्रीणि रोचना । तिस्रो दिवः पृथिवीस्तिस्त्र इन्वति त्रिभिव्रतैरभि नो रक्षति त्मना ॥ (*triraṃtarikṣaṃ savitā mahitvanā trī rajāṃsi paribhūstrīṇi rocanā | tisro divaḥ pṛthivīstistra invati tribhivratairabhi no rakṣati tmanā ‖*) (Ṛ. Saṃ. 4-53-5)
+
+The idea suggested here is that Savitṛ holds under his control the three kinds of atmospheric worlds and the three kinds of earthly worlds, and protects them by his own impulse. These are: the worlds Vāyu, Vidyut, Varuṇa, or Agni, Vāyu, Āditya, which are the intermediate divisions of the atmospheric world. In the same way the three worlds Indra, Prajāpati and Satya are the intermediate divisions of the heavenly world; and likewise the earth (Bhū) world has three intermediate divisions, as the commentator has explained.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तेशि॑षे प्रस॒वस्य॒ त्वमेक॒ इदु॒त पू॒षा भ॑वसि देव॒ याम॑भिः ।  
+> उ॒तेदं विश्वं॒ भुव॑नं॒ वि रा॑जसि श्या॒वाश्व॑स्ते सवितः॒ स्तोम॑मानशे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ईशिशे । प्रसवस्य । त्वं । एकः । इत् । उत । पूषा । भवसि । देव । यामभिः ।  
+> उत । इदं । विश्वं । भुवनं । वि । राजसि । श्यावअश्वः । ते । सवितरिति । स्तोमं ।  
+> आनशे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितस्त्वमेक इत् एक एव प्रसवस्य सर्वकर्मानुज्ञाकरणस्येशिषे ।
+> समर्थो भवसि । ये लौकिकं गमनादिरूपं वैदिकमग्निहोत्रादिरूपं कर्मानुतिष्ठंते तेषां सर्वेषामनुज्ञातुमेक एव प्रभवसि । उतापि च पूषा पोषको
+> भवसि हे देव यामभिर्गमनैः । उतापि चेदं विश्वं भुवनं भूतजातं वि राजसि ।
+
+### Printed p. 188
+
+> ईशिषे धारयितुं । यस्मादेवं महानुभावस्तस्मात् हे सवितस्ते शुभ्यं श्यावाश्व
+> ऋषिः स्तोमं स्तोत्रमानशे । व्याप्न्नोति । करोतीत्येवमात्मानं परोक्षतया
+> निर्दिशन्नाह ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, you alone have power over प्रसवस्य (*prasavasya*), the giving of leave for all rites. Of all who perform rites, worldly ones such as going and Vedic ones such as the Agnihotra, you alone are able to give leave. Also you are Pūṣan, the nourisher, O god, by your goings. Also you shine over this whole world, all that has come to be; you are able to uphold it. Since you are of such great power, O Savitṛ, the seer Śyāvāśva has made this praise for you; thus he speaks of himself in the third person.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you (O Savitṛ)
+- एक इत् (*eka it*)—alone
+- प्रसवस्य (*prasavasya*)—of all the beings that have come into being
+- ईशिषे (*īśiṣe*)—you are the lord
+- उत (*uta*)—and
+- देव (*deva*)—O Savitṛ
+- यामभि (*yāmabhi*)—by your acts of going
+- पूषा (*pūṣā*)—in the form of Pūṣan
+- भवसि (*bhavasi*)—you are
+- उत (*uta*)—moreover
+- इदं विश्वं भुवनं (*idaṃ viśvaṃ bhuvanaṃ*)—this whole world
+- वि राजसि (*vi rājasi*)—you rule
+- सवितः (*savitaḥ*)—O god Savitṛ
+- श्यावाश्वः (*śyāvāśvaḥ*)—the seer Śyāvāśva
+- ते (*te*)—addressing you
+- स्तोमं (*stomaṃ*)—this praise
+- आनशे (*ānaśe*)—offers
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, you alone are the lord of all beings that have come into being; by your acts of going you yourself are called the god Pūṣan. You are the sovereign of the whole world and rule over all. O god Savitṛ, the seer Śyāvāśva offers this praise addressed to you.
+
+##### English translation
+You alone rule over (the actions of) living beings : you are Pushan divine (Savitri), by your movements; you are sovereign over the whole world : Shyavashwa offers praise, Savitri, to you.
+
+## Sūkta 82 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्सवितुरिति नवर्चं दशमं सूक्तं श्यावाश्वस्यार्षं । अत्रेयमनुक्रमणिका ।
+> तत्सवितुर्नव गायत्रमाद्यानुष्टुबिति । प्रथमानुष्टुप् शिष्टा गायत्रः । सावित्रं
+> त्वित्युक्तत्वात्सावित्रं ॥ अग्निष्टोमे वैश्वदेवशस्त्रस्याद्यस्तृचः प्रतिपत् आद्या नो
+> देवेत्यनुचरः । सूत्रितं च । तत्सवितुर्वृणीमहेऽद्या नो देव सवितरिति वैश्वदेवस्य
+> प्रतिपदनुचरा । आ. ५. १८. । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the tenth sūkta, of nine Ṛks, the vision of Śyāvāśva. On it the Anukramaṇikā says: तत्सवितुर्नव गायत्रमाद्यानुष्टुबिति (*tatsaviturnava gāyatramādyānuṣṭubiti*). The first Ṛk is Anuṣṭubh, the rest are Gāyatra. Because the Anukramaṇikā calls it Sāvitra, the deity is Savitṛ. In the Agniṣṭoma, the first tṛca of the Vaiśvadeva-śastra is the pratipad and the three beginning अद्या नो देव (*adyā no deva*) are the anucara. The sūtra says: तत्सवितुर्वृणीमहेऽद्या नो देव सवितरिति वैश्वदेवस्य प्रतिपदनुचरा (*tatsaviturvṛṇīmahe 'dyā no deva savitariti vaiśvadevasya pratipadanucarā*) (Ā. 5. 18.).
+
+### Printed p. 189
+
+##### Anuvāda
+
+This sūkta beginning तत्सवितुः (*tatsavituḥ*) is the tenth sūkta in the sixth anuvāka. It has nine Ṛks. In the Anukramaṇikā it is said: तत्सवितुर्नव गायत्रमाद्यानुष्टुप् (*tatsaviturnava gāyatramādyānuṣṭup*). The seer of this sūkta is Śyāvāśva Ātreya, and the deity is Savitṛ. The first Ṛk of this sūkta is in the Anuṣṭubh metre, the remaining Ṛks in the Gāyatrī metre. In the Agniṣṭoma sacrifice, when the Vaiśvadeva-śastra mantras are recited, the first three Ṛks of this sūkta are to be recited as the pratipad tṛca, and the three Ṛks beginning अद्या नो देव (*adyā no deva*) (Ṛks 4-6 of this sūkta) as the anucara tṛca; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, तत्सवितुर्वृणीमहेऽद्या नो देव सवितरिति वैश्वेदेवस्य प्रतिपदनुचर् (*tatsaviturvṛṇīmahe 'dyā no deva savitariti vaiśvedevasya pratipadanucar*) (Ā. 5-18).
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 82
+- Aṣṭaka 4; Adhyāya 4; Varga 25, 26
+- Number of Ṛks in the sūkta: 9
+- Seer: Śyāvāśva Ātreya
+- Deity: Savitṛ
+- Metre: Ṛk 1 Anuṣṭubh; Ṛks 2-9 Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्स॑वि॒तुर्वृ॑णीमहे व॒यं दे॒वस्य॒ भोज॑नं ।  
+> श्रेष्ठं॑ सर्व॒धात॑मं॒ तुरं॒ भग॑स्य धीमहि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सवितुः । वृणेमहे । वयं । देवस्य । भोजनं ।  
+> श्रेष्ठं । सर्वधातमं । तुरं । भगस्य । धीमहि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत् प्राप्यत्वेन प्रसिद्धं भोजनं भोग्यं धनं वयं स्तोतारो वृणीमहे
+> प्रार्थयामः । कस्य । धनं । सवितुः प्रेरकस्य देवस्य स्वभूतं । लब्ध्वा च श्रेष्ठं
+> प्रशस्यं सर्वधातमं सर्वधातृतमं । सर्वभोगप्रदमित्यर्थः । तुरं शत्रूणां
+> हिंसकं । धनेन शत्रून्हंतुं शक्यत्वात् । तादृशं धनं भगस्य भजनीयस्य सवितुरनु
+
+### Printed p. 190
+
+> ग्रहाद्दीमहि । धारायाम । उपभोगं करवामेत्यर्थः । अथवा धनं वृणे
+> महेऽर्थित्वाच्च लभेमहीति ॥
+
+##### Gist of the bhāṣya
+
+We, the singers, ask for that enjoyable wealth, well known as what is to be obtained. Whose? The wealth that belongs to the impelling god Savitṛ. Having obtained it, it is excellent, praiseworthy, सर्वधातमं (*sarvadhātamaṃ*), that is, giver of all enjoyments; तुरं (*turaṃ*), destroying foes, for with wealth enemies can be slain. Such wealth, by the favour of Bhaga, the adorable Savitṛ, we would hold, that is, enjoy. Or else: we ask for wealth, and, because of our desire, may we obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine
+- सवितुः (*savituḥ*)—Savitṛ
+- तत् (*tat*)—well known
+- भोजनं (*bhojanaṃ*)—and fit for enjoyment, the wealth (so as to obtain it)
+- वयं (*vayaṃ*)—we
+- वृणीमहे (*vṛṇīmahe*)—desire and pray for
+- भगस्य (*bhagasya*)—of the venerable Bhaga (Savitṛ)
+- श्रेष्ठं (*śreṣṭhaṃ*)—the most excellent
+- सर्वधातुवं (*sarvadhātuvaṃ*)—exceedingly fit for enjoyment
+- तुरं (*turaṃ*)—and destroying foes, the wealth
+- धीमहि (*dhīmahi*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+We desire and pray to obtain the well-known wealth of the divine Savitṛ, fit for enjoyment. May we obtain the wealth of the venerable Bhaga, most excellent, exceedingly fit for enjoyment and destroying foes.
+
+##### English translation
+We solicit of the divine Savitri enjoyable (wealth) ; may we receive from Bhaga that which is excellent, all-sustaining, destructive of foes.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॒ हि स्वय॑शस्तरं सवि॒तः कच्च॒न प्रि॒यं ।  
+> न मि॒नंति॑ स्व॒राज्यं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । हि । स्वयशःतरं । सवितुः । कत् । चन । प्रियं ।  
+> न । मिनंति । स्वराज्यं ॥ २ ॥
+
+### Printed p. 191
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सवितुः स्वयशस्तरं स्वयमसाधारणं यशो यस्यातिशयेन भवति
+> तत्तादृशं प्रियं सर्वेषां प्रियभूतं स्वराज्यं स्वयमेव राजमानत्वमैश्वर्य्यं
+> कच्चन केचिदप्यसुरादयो न मिनंति । न हिंसंति ॥
+
+##### Gist of the bhāṣya
+
+Of this Savitṛ, whose fame is exceedingly his own and uncommon, such a dear sovereignty, स्वराज्यं (*svarājyaṃ*), that is, shining by himself, lordship, dear to all, no one, no asuras and the like, impairs; they do not injure it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आस्य (*āsya*)—of the well-known
+- सवितुः (*savituḥ*)—god Savitṛ
+- स्वयशस्तरं (*svayaśastaraṃ*)—that which is itself the cause of his uncommon fame
+- प्रियं (*priyaṃ*)—and dear to the whole world
+- स्वराज्यं (*svarājyaṃ*)—sovereignty
+- कच्चन (*kaccana*)—no adversary even
+- न मिनंति (*na minaṃti*)—can injure
+
+##### भावार्थ (Bhāvārtha)
+
+No adversary can injure the sovereignty and the wealth of Savitṛ, which is the cause of his uncommon fame by his own greatness and is dear to the whole world.
+
+##### English translation
+Nothing impairs the sovereignty of this Savitri, which is most especially renowned and beloved.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि रत्ना॑नि दा॒शुषे॑ सु॒वाति॑ सवि॒ता भगः॑ ।  
+> तं भा॒गं चि॒त्रमी॑महे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । रत्नानि । दाशुषे । सुवाति । सविता । भगः ।  
+> तं । भागं । चित्रं । ईमहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खलु सविता भगो भजनीयो देवो दाशुषे हविर्दात्रे मह्यं
+> रत्नानि रमणीयानि धनानि सुवाति । प्रेरयति । प्रयच्छति । तं देवं भागं भजनीयं
+> चित्रं चायनीयं धनमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+He, indeed, Savitṛ Bhaga, the adorable god, gives, that is, sends and bestows, jewels, delightful riches, on me, the giver of oblation. That god's share, the adorable one, the wonderful wealth, चायनीयं (*cāyanīyaṃ*), to be gathered, we ask for; we beg.
+
 ---
 
-**Progress note:** Done through printed p. 184. Savitṛ introduction ends; Sūkta 81 Ṛks 1-2 complete, Ṛk 3 verse and pada
+**Progress note:** Done through printed p. 191. Sūkta 81 Ṛks 3-5; Sūkta 82 Ṛks 1-3 (bhāṣya)
