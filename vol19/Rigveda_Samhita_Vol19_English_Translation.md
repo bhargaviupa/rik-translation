@@ -17381,6 +17381,138 @@ Sāyaṇa addresses Agni: "O Agni of straight and excellent praise." The Soma is
 - सुतेगृभं (*sutegṛbhaṃ*)—that which is pressed and consists of juice
 - वयाकिनं (*vayākinaṃ*)—**NOTE**
 
+### Printed p. 465
+
+- the Soma
+- चित्तगर्भासु (*cittagarbhāsu*)—with praises that attract the mind
+- संजर्भुराणः (*saṃjarbhurāṇaḥ*)—accepting
+- सुस्वरुः (*susvaruḥ*)—having an excellent spreading
+- धारवाकेषु (*dhāravākeṣu*)—among the priests and others who recite the praises
+- शोभसे (*śobhase*)—you shine
+- अध्वरे (*adhvare*)—in the sacrifice
+- जीवः (*jīvaḥ*)—as the giver of life to all
+- पत्निः (*patniḥ*)—the protecting flames
+- अभि वर्धस्व (*abhi vardhasva*)—cause them to increase fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are worshipped with faultless praise, you accept the Soma, which is filled into the vessels (grahas) made of wood and is pressed and of the nature of juice, together with praises that attract the mind, and having an excellent spreading you shine among the priests and others who recite the praises. As the giver of life to all in the sacrifice, cause the protecting flames to increase fully.
+
+##### English translation
+Object of honest eulogium, (Agni), you shine amongst the reciters of your praises when the Soma is received at its effusion by the wooden (cups), and you accepting (the beverage), are animated by the heart-affecting (praises) : giver of life, increase in the sacrifice your protecting flames.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या॒दृगे॒व ददृ॑शे ता॒दृगु॑च्यते॒ सं छा॒यया॑ दधिरे सि॒द्धया॒प्सा ।  
+> म॒हीम॒स्मभ्य॑मुरु॒षामु॒रु ज्रयो॑ बृ॒हत्सु॒वीर॒मन॑पच्युतं॒ सहः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यादृक् । एव । ददृशे । तादृक् । उच्यते । सं । छायया । दधिरे । सिद्धया ।  
+> अप्सु । आ ।
+
+### Printed p. 466
+
+> महीं । अस्मभ्यं । उरुसां । उरु । ज्रयः । बृहत् । सुवीरं । अनपच्युतं ।  
+> सहः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा वैश्वदेवी । यादृगेव ददृशे यादृग्रूपमेव दृश्यते तादृगुच्यते ।
+> तादृग्रूपमेवोच्यते । यथादृष्टमेव स्तूयते न तु परवचनप्रत्ययेन ।
+> यस्माच्छायया दीप्त्या सिद्धर्या साधिकया सहाप्सु व्यापकासु स्तुतिषु अप्पेव
+> वा आ सं दधिरे सम्यग्दारयंति स्वीयं रूपं स्तुतिं वा । ते देवा महीं महतीं
+> पूज्यामुरुषां बहुदात्रीं रयिमुरु प्रभूतं ज्रयो वेगं बृहन्महत्सुवीरं
+> शोभनवीर्यमपत्यमनपच्युतमनुपक्षीणं सहो बलं चाभिभावुकमस्मभ्यं प्रयच्छंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk is addressed to the All-gods. In whatever form the deity is seen, in that very form he is spoken of: he is praised as he is seen, and not on the strength of another's word. Since the gods, together with their radiance (which he glosses as brightness) and with that which accomplishes, firmly hold their own form or their praise in the waters, that is, in the praises that pervade, or else in the waters themselves, let those gods give us great and venerable wealth that gives abundantly, plentiful speed, great and excellent valour and offspring, and strength that is unexhausted and overcomes (enemies). Such, he says, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यादृगेव (*yādṛgeva*)—(the deity) in whatever form
+- ददृशे (*dadṛśe*)—is seen (becomes perceptible)
+- तादृक् (*tādṛk*)—precisely according to that form
+- उच्यते (*ucyate*)—is designated
+- सिध्रया (*sidhrayā*)—consisting of a combination
+- छायया (*chāyayā*)—with radiance (all those deities)
+- अप्पु (*appu*)—in the waters
+- आ सं दधिरे (*ā saṃ dadhire*)—(all their own forms) they have taken up as if gathered together; (those same deities)
+- महीं (*mahīṃ*)—great
+- उरुषां (*uruṣāṃ*)—and abundant wealth
+- उरु (*uru*)—abundant
+- ज्रयः (*jrayaḥ*)—power (speed)
+- बृहत् (*bṛhat*)—abundantly
+- सुवीरं (*suvīraṃ*)—excellent sons
+- अनपच्युतं (*anapacyutaṃ*)—freedom from decay
+- सहः (*sahaḥ*)—strength
+- अस्मभ्यं (*asmabhyaṃ*)—to us, may they graciously give
+
+##### भावार्थ (Bhāvārtha)
+
+In whatever way a deity becomes perceptible, in that same way he is designated. All those deities too have taken up their forms in the waters, as if gathered together, with their radiance that consists of a combination. May the deities graciously give us great and abundant wealth, abundant speed, excellent sons, freedom from decay, and strength.
+
+##### English translation
+Such as (the deity) is beheld, such is he said (to be): they abide with concentrated splendour in the waters: (may they bestow) upon us honourable and ample (riches), great energy, numerous male offspring, and undecaying vigour.
+
+### Printed p. 467
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra beginning यादृगेव ददृशे तादृगुच्यते (*yādṛgeva dadṛśe tādṛgucyate*) the nature of the vision of the supreme reality is explained. It is not possible for everyone to know the true nature of the supreme reality. Each person describes the supreme reality in his own personal language only to the extent to which he has realised its nature according to his own capacity. Sāyaṇa has given the purport of this as यथा दृष्टमेव श्रूयते न तु परवचनप्रत्ययेन (*yathā dṛṣṭameva śrūyate na tu paravacanapratyayena*).
+
+In the commentary on the Brahma Sūtras the difference between what depends on the thing itself and what depends on the person has been shown thus:
+इह तु भूतं ब्रह्म जिज्ञास्यं नित्यत्वान्न पुरुषव्यापारतंत्रं । (*iha tu bhūtaṃ brahma jijñāsyaṃ nityatvānna puruṣavyāpārataṃtraṃ |*) (Bra. Sū. Bhā. 1-1-1).
+What depends on the thing itself lies beyond the vision of a person; what is within a person's vision is not what depends wholly on the person, as it is explained there. In the same way Sāyaṇa too has shown the difference between the two kinds of conviction, the conviction from seeing and the conviction from another's word. The purport of this very mantra is explained in the Śatapatha Brāhmaṇa in this way:
+
+तमेतमग्निरित्यध्वरव उपासते । यजुरित्येष हीदग्ं सर्वं युनक्ति सामेति छंदोगा एतस्मिन् हीदग्ं सर्वग्ं समानमुक्थमिति बह्वृचा एष हीदग्ं सर्वमुत्थापयति यातुरिति यातुविद एतेन हीदग्ं सर्वं यतं विषमिति सर्पाः सर्प इति सर्पविद ऊर्गिति देवा रयिरिति मनुष्या मायेत्यसुराः स्वधेति पितरो देवजन इति देवजनविदो रूपमिति गंधर्वा गंध इत्यप्सरसस्तं यथा यथोपासते तदेव भवति तद्धैनान्भूत्वावति तस्मादेतमेवंवित्सर्वैरेवैतैरुपासीत सर्वग्ं हैतद्भवति सर्वग्ं हैनमेतद्भूत्वावति ॥ (*tametamagnirityadhvarava upāsate | yajurityeṣa hīdagṃ sarvaṃ yunakti sāmeti chaṃdogā etasmin hīdagṃ sarvagṃ samānamukthamiti bahvṛcā eṣa hīdagṃ sarvamutthāpayati yāturiti yātuvida etena hīdagṃ sarvaṃ yataṃ viṣamiti sarpāḥ sarpa iti sarpavida ūrgiti devā rayiriti manuṣyā māyetyasurāḥ svadheti pitaro devajana iti devajanavido rūpamiti gaṃdharvā gaṃdha ityapsarasastaṃ yathā yathopāsate tadeva bhavati taddhainānbhūtvāvati tasmādetamevaṃvitsarvairevaitairupāsīta sarvagṃ haitadbhavati sarvagṃ hainametadbhūtvāvati ‖*) (Śa. Brā. 10-5-2-20).
+
+The divine principle that exists, the Adhvaryus worship as Agni (the fire-altar). The Adhvaryus are those who follow the Yajur Veda. Because it joins the whole universe together under one rule, this principle is called Yajus. Sāyaṇa has explained in his commentary: एष पुरुष इदं सर्वं जगद्युनक्ति सर्वत्र स्वयं संगत इति (*eṣa puruṣa idaṃ sarvaṃ jagadyunakti sarvatra svayaṃ saṃgata iti*), that is, this great Person, pervading everywhere by himself, brings unity into the whole world. Because in this principle all the individuals of the universe receive a common support, the Chandogas called this principle
+
+### Printed p. 468
+
+by the name सामन् (*sāman*). Sāyaṇa's explanation is एतस्मिन् परमात्मनि कारणे सर्वं कार्यजातं समानमिति (*etasmin paramātmani kāraṇe sarvaṃ kāryajātaṃ samānamiti*): in this Supreme Self, which is the cause of the world, all the effects that are produced from it find an equal place, and hence the name. This is the manner in which the followers of the Sāma Veda describe the supreme reality.
+
+Because this great cause raises up everything, and everything arises from it, the Bahvṛcas (the followers of the Ṛg Veda) have called it Uktha.
+
+Because everything is drawn by it, those who practise spells call it a thing of illusion (यातु (*yātu*)). Those who know the serpents worship the same as the serpent. The gods call this same thing Ūrk (Ūrj), that is, food full of strength. The Asuras describe and worship it as a thing of illusion. The Fathers who have gone to heaven worship it as Svadhā. The divine folk worship it as the divine folk, the Gandharvas as form, and the Apsarases as fragrance.
+
+In this way, because it appears in a different manner to each point of view, the supreme reality too has the capacity of nature to assume that very form. To those who, assuming each form, worship that form, it gives the fruit that corresponds to that form. But the one who, having realised all these forms together in a single reality, worships it, sees that whole reality and obtains the full fruit: thus the manifoldness of vision is the subject here. This passage of the Śatapatha Brāhmaṇa conveys both the unity of the supreme reality described in the present mantra, and the manifoldness of the vision of this reality that has many forms. This very thing is stated in the Bhagavad Gītā:
+ये यथा मां प्रपद्यंते तांस्तथैन भजाम्यहं । (*ye yathā māṃ prapadyaṃte tāṃstathaina bhajāmyahaṃ |*) (Bha. 96. 3-11) **NOTE**
+in the form of the assurance of the Supreme Self: in whatever way any persons worship and adore me, in that very way I approach each of them.
+
+In the divisions stated above the manifold forms of the supreme reality have been shown. The three kinds of division, the pure, the passionate and the dark, also appear. That is to say, the Self of the universe is all-pervading, containing all things, real and unreal, and is the inner controller of all. Whatever principle is of the nature of light, and whatever principle is of the nature of darkness, all of it is a particular manifestation of the Supreme Self. Both these kinds of nature are in the divisions stated above. They are as follows:
+
+### Printed p. 469
+
+1) the fire-altar; 2) साम (*sāma*); 3) Uktha; 4) illusion; 5) Ūrk (Ūrj); 6) Svadhā; 7) form; 8) fragrance, and so on.
+
+Although such a unity that has diversity has been described before in one or two places (Ṛ. Saṃ. 1-164), the description of the nature of the principle here is in a special form. What the seers who have faith in the true principle worship as the spiritual principle, the sorcerers of dark nature worship as the instrument of their magic and as having the form of illusion. Therefore the division into real and unreal is only what depends on the person. What depends on the thing itself consists of both kinds. That which is full of divinity and that which is of demonic nature, both these, the divine and the demonic, are branches of what depends on the thing itself. This very thing is stated in the Ṛk Saṃhitā:
+एक एवाग्निर्बहुधा समिद्ध एकः सूरो विश्वमनु प्रभूतः । एकैवोषाः सर्वमिदं वि भात्येकं ना इदं नि बभूव सर्वं ॥ (*eka evāgnirbahudhā samiddha ekaḥ sūro viśvamanu prabhūtaḥ | ekaivoṣāḥ sarvamidaṃ vi bhātyekaṃ nā idaṃ ni babhūva sarvaṃ ‖*) (Ṛ. Saṃ. 8-58_2).
+In mantras such as this the oneness of Brahman is set forth. Moreover, in the present mantra two matters must be noted chiefly: what the conviction from another's word that Sāyaṇa mentions means, and what छायया संदधिरे (*chāyayā saṃdadhire*) means. Therefore, first, what is indicated by the word छाययू (*chāyayū*) **NOTE** deserves examination.
+
+**Shade**
+In the present mantra Sāyaṇa has taken the word for shade to mean दीप्त्या (*dīptyā*), that is, "by brightness". This is a meaning contrary to common usage. The word for shade ordinarily means shadow, that is, something devoid of brightness. What is intended in saying here that it is bright must be considered.
+
+यान्त्राये मर्तान्नुषूदो अग्ने ते स्याम मघवानो वयं च । छायेव विश्वं भुवनं सिसक्ष्यापप्रिवान्नोदसी अंतरिक्षु ॥ (*yāntrāye martānnuṣūdo agne te syāma maghavāno vayaṃ ca | chāyeva viśvaṃ bhuvanaṃ sisakṣyāpaprivānnodasī aṃtarikṣu ‖*) (Ṛ. Saṃ. 1-77-8).
+Here the all-pervading nature of Agni, who has spread round heaven and earth and everything, is compared to a shade. But if there is to be a comparison with the shade, what is the quality that Agni and the shade have in common? It is that of being a place of refuge for protection. Because the quality of being a refuge for protection is present, the simile of the shade
+
+### Printed p. 470
+
+is present, and therefore the word for shade is used in a special sense. In this same sense this word is used also in mantras such as उपच्छाया मिन घृणेः (*upacchāyā mina ghṛṇeḥ*) (Ṛ. Saṃ. 6-16-38).
+
+In the present mantra the word conveys not only the meaning of a refuge for protection, but also the clear meaning that the deities who pervade all the waters are reflections, and that these reflections are by nature such as to spread a very radiant brightness. All these deities are particular manifestations of the supreme reality and nothing different from it. Therefore, when it is said that the deities pervaded the whole universe with their shade, the purport is that the supreme reality itself pervades the whole universe with its shade, in the form of the deities, that is, with its reflection. The shade of this supreme reality is the means by which the individual forms of that whole world, which in the state of sleep lay contained within the Lord himself and (from the world's point of view) in a condition of darkness, may become manifest in the waking state. Before this manifestation there was neither light, nor sign, nor shade, nor shelter. Only the principle in the form of heat, hidden behind the world, lay asleep. (Ṛ. Saṃ. 10-129-1-2) तम आसीत्तमसा गूह्ममग्रे . . . (*tama āsīttamasā gūhmamagre . . .*)
+
+ऋतं पिबंतौ सुकृतस्य लोके गुहां प्रविष्टा परमे पराधे । छायातपौ ब्रह्मविदो वदंति प्रंचाग्नयो ये च प्रिणाचिकेताः ॥ (*ṛtaṃ pibaṃtau sukṛtasya loke guhāṃ praviṣṭā parame parādhe | chāyātapau brahmavido vadaṃti praṃcāgnayo ye ca priṇāciketāḥ ‖*) (Ka. Ka. U. 3-1) **NOTE**
+Two principles have joined together in the most hidden space of the heart, having attained the union that is the fruit of their good deeds. The knowers of Brahman call them shade and heat. Here the meaning is that the nature of the undivided Supreme Brahman has these two natures. This is the same idea:
+असच्च सच्च परमे व्योमन्दक्षस्य जन्मन्नदितेरुपस्थे । अग्निर्ह नः प्रथमजा ऋतस्य पूर्व आयुनि वृषभश्च धेनुः ॥ (*asacca sacca parame vyomandakṣasya janmannaditerupasthe | agnirha naḥ prathamajā ṛtasya pūrva āyuni vṛṣabhaśca dhenuḥ ‖*) (Ṛ. Saṃ. 10-25-7).
+In this Ṛk the description that Agni, in the most excellent region of the sky, at the time when he is united with Varuṇa, is the union of the real and the unreal, also conveys this same idea.
+
+For the original reality, which is of the nature of the real and the unreal and of the nature of shade and heat **NOTE**, the desire to develop itself is just the desire to be transformed from death into the state that takes the form of the living being. मृत्योर्मुक्षीय मामृतात् (*mṛtyormukṣīya māmṛtāt*) (Ṛ. Saṃ. 7 59-12)
+
 ---
 
-**Progress note:** Done through printed p. 464. Sūkta 44 Ṛks 2-5 (pp. 459-464)
+**Progress note:** Done through printed p. 470. Sūkta 44 Ṛk 5 end, Ṛk 6 and Special Topics (pp. 465-470)
