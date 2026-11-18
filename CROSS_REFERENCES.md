@@ -10,7 +10,7 @@
 | Vol | rik | grammar | other | all | with a gloss or marker |
 |---|---|---|---|---|---|
 | 1 | 71 | 20 | 220 | 311 | 0 |
-| 2 | 576 | 6117 | 481 | 7174 | 284 |
+| 2 | 577 | 6111 | 480 | 7168 | 289 |
 | 3 | 142 | 2925 | 508 | 3575 | 39 |
 | 4 | 267 | 2157 | 424 | 2848 | 98 |
 | 5 | 91 | 1450 | 1158 | 2699 | 83 |
@@ -27,6 +27,6 @@
 | 16 | 206 | 1328 | 703 | 2237 | 7 |
 | 17 | 491 | 40 | 989 | 1520 | 1 |
 | 18 | 335 | 3 | 657 | 995 | 0 |
-| **all** | 5715 | 23909 | 11122 | 40746 | 890 |
+| **all** | 5716 | 23903 | 11121 | 40740 | 895 |
 
 **Limits.** A reference is found only where a work's abbreviation stands before a number of two or more parts; a quotation without a number, a reference written in words ("the next Ṛk", "Rik 9 of this sūkta") and a number whose abbreviation was misread beyond recognition are not listed. The kind is decided from the abbreviation as written; misread abbreviations fall under "other". Vol 13 is not translated; Vol 19 is in translation.
