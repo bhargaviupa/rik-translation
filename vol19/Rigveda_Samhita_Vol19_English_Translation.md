@@ -17592,6 +17592,213 @@ There are two oceans that do not waste away. They are imperishable. As waves in 
 
 Therefore, although in the present mantra the beyond-perception of the supreme principle is described by the description यादृगेव ददृशे (*yādṛgeva dadṛśe*), certain aspects come within the sight of certain views through the manifestation of that same thing in the form of shade. This very thing again in the Ṛk Saṃhitā,
 
+### Printed p. 477
+
+सुपर्णं विप्राः कवयो वचोभिरेकं संतं बहुधा कल्पयंति । छंदांसि च दधतो अध्वरेषु ग्रहान्सोमस्य मिमते द्वादश ॥ (*suparṇaṃ viprāḥ kavayo vacobhirekaṃ saṃtaṃ bahudhā kalpayaṃti | chaṃdāṃsi ca dadhato adhvareṣu grahānsomasya mimate dvādaśa ‖*) (Ṛ. Saṃ. 10-114-5)
+
+It is said that wise mortals, of transcendent insight, conceive by manifold imaginings the Supreme Self, who is of fair flight and non-dual, and praise him. This single principle is the beginning and the support of the universe. Describing this very thing in the Bṛhadāraṇyaka Upaniṣad:
+
+तद्धेवं तर्हव्याकृतमासीत् तन्नामरूपाभ्यामेव व्याक्रियतासौ नामायमिदं रूपं इति तदिदमस्येतर्हि नामरूपाभ्यामेव व्याक्रियतेऽसौ नामायमिदं रूप इति स एष इह प्रविस्थः ॥ (*taddhevaṃ tarhavyākṛtamāsīt tannāmarūpābhyāmeva vyākriyatāsau nāmāyamidaṃ rūpaṃ iti tadidamasyetarhi nāmarūpābhyāmeva vyākriyate 'sau nāmāyamidaṃ rūpa iti sa eṣa iha pravisthaḥ ‖*) (Bṛ. U. 1-4-7)
+
+Before this Brahman was transformed into a manifested form it was undifferentiated and non-dual. Then it had neither name nor form. When, in the state of manifested form, it acquired individual differentiation, individual name and form became established; only in the state of worldly dealing are there such designations as "this is the name of this person" and "this is the form of this person". Before that there was only the non-dual principle, devoid of name and form. The whole empirical world is only a part of this supreme principle. Thus the Upaniṣads describe this supreme principle.
+
+This One is the soul of the universe, the consciousness-power pervading the universe, and the support of universal energy. It is not merely the earth that is described in many other mantras, nor the atmosphere, nor the light of the sun, nor the physical force of nature. The Brahman-principle whose existence is established in the Bṛhadāraṇyaka by the very negating statements नेति नेति (*neti neti*) is the cosmic consciousness. The universal principle that is described elsewhere as Ṛta and Aditi is here the subject of praise. This power, which fills the principle of life into the many living beings of the universe, is all-pervading.
+
+In this way, if the description of the principle that teaches the oneness of the universe, रूपं रूपं प्रतिरूपो बभूव (*rūpaṃ rūpaṃ pratirūpo babhūva*), teaches non-duality, then is the very principle that is propounded in the sentences of the Ṛk Saṃhitā also described in the Upaniṣads and other texts? What relation between the world, which is an effect, and the causal entity is indicated in the Ṛk Saṃhitā? Is the same relation indicated in the Upaniṣads and other texts, or is there a difference of opinion there? Can the meaning that has been given to the word "shade" in the present mantra also be possible in the Upaniṣads? Since these points are essential for the examination of spiritual truth, it must be examined critically whether or not there is a difference between the purport of the sentences that propound this same principle in the Upaniṣads and the purport indicated in the present mantra. This matter will be explained in a suitable context later.
+
+### Printed p. 478
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेत्यगु॒र्जनि॑वा॒न्वा अति॒ स्पृधः॑ समर्य॒ता मन॑सा॒ सूर्यः॑  ॒
+> कविः ।  
+> घ्रं॒सं रक्षं॑तं॒ परि॑ वि॒श्वतो॒ गय॑म॒स्माकं॒ शर्म॑ वनव॒त्  ॑
+> स्वावसुः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेति । आग्रुः । जनिवान् । वै । अति । स्पृधः । समर्यता । मनसा । सूर्यः । कविः।  
+> घ्रंसं । रक्षंतं । परि । विश्वतः । गयं । अस्माकु । शर्म । वनवत् । स्ववसुः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं सौरी । सूर्यो देवोऽगुरग्रगामिा जनिवान्वै जन्मवान् जायानान्वा ।
+> उषा ह्यस्य जाया । वा इति प्रसिद्धौ । कविः क्रांतदर्शी समर्यता समरमिच्छता
+> मनसा स्पृधः संग्रामानति वेति । अति गच्छति मंदेहानसुरान्नोद्दुं । फ्रंसं
+> दीप्तं गयं गृहमंतरिक्षं ना विश्वतः सर्वतो रक्षंतं । परिचरेमेति शेषः । स
+> देवोऽस्माकं शर्म सुखं परि सम्यग्वनवत् । दद्यात् । स्वावसुः स्वायत्तधनः सन् ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Sūrya. The god Sūrya goes in front, and is जनिवान्वै (*janivānvai*), that is, one who has a birth or one who has a wife; Uṣas is his wife. **NOTE**. He is कविः (*kaviḥ*), the one of far-reaching vision. With a mind that desires battle he goes forth against the combats, that is, he goes to throw down the demons called Mandehas. गयं (*gayaṃ*) means a house, here the middle region; it is shining and protective on every side, and the words "we attend it" are to be supplied. May that god grant us happiness in full measure. He is स्वावसुः (*svāvasuḥ*), one whose wealth is under his own control.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the one of far-reaching vision
+- सूर्यः (*sūryaḥ*)—the god Sūrya
+- अग्रुः (*agruḥ*)—going in front
+- जनिवान्वै (*janivānvai*)—and accompanied by his wife Uṣas
+- समर‍्यता (*samaryatā*)—with a mind that fights (with the demons called Mandehas)
+- मनसा (*manasā*)—with the mind
+- स्पृधः (*spṛdhaḥ*)—to the battle
+- अति वेति (*ati veti*)—he rushes forward
+- स्वावसुः (*svāvasuḥ*)—Sūrya, who holds all wealth under his control
+- अस्माकं (*asmākaṃ*)—to us
+- परि (*pari*)—complete
+- शर्म (*śarma*)—happiness
+- विश्वतः (*viśvataḥ*)—in all ways
+- रक्षंतः (*rakṣaṃtaḥ*)—protective
+- घ्रंसं (*ghraṃsaṃ*)—and shining
+- गयं (*gayaṃ*)—a house
+- वनवत् (*vanavat*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+The far-seeing god Sūrya goes in front, and, united with his wife Uṣas, rushes forward to the battle with a mind that fights the demons called Mandehas.
+
+### Printed p. 479
+
+May Sūrya, who holds all wealth under his control, provide us with complete happiness, and with a house that is protective in all ways and shining.
+
+##### English translation
+The sage Surya, advancing, accompanied by his bride, (the dawn), proceeds boldly, intent on combat with his enemies: may he on whom riches are dependent, secure our entire felicity, (and grant) a brilliant and everywhere-protecting mansion.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्यायां॑सम॒स्य य॒तुन॑स्य के॒तुन॑ ऋषिस्व॒रं च॑रति॒ यासु॒ नाम॑  
+> ते ।  
+> या॒दृश्मि॒न्थायि॒ तम॑प॒स्यया॑ विद॒द्य उ॑ स्व॒यं वह॑ते॒ सो ॑ 
+> अरं करत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्यायांसं । अस्य । यतुनस्य । केतुना । ऋषिस्वरं । चरति । यासु । नाम । ते ।  
+> यादृश्मिन् । धायि । तं । आपस्यया । विदत् । यः । ऊं इति । स्वयं । वहते । सः ।  
+> अरं । करत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमाग्नेया सौरी वा । हे देव ज्यायांसमतिशयेन प्रवृद्धमस
+> यतुनस्य । यततिर्गतिकर्मा । गंतुरस्य सूर्यस्य ॥ कर्मणि षष्ठौ ॥ अमुं गंतारं
+> केतुना प्रज्ञापकेन कर्मणोदयादिलक्षणेन विशिष्टमृषिस्वरमृषिभिः स्तुत्यं त्वां
+> चरति । गच्छति । भजते यजमानः । केन साधनेन । यासु स्तुतिषु ते त्वदीयं नाम
+> नमनं नामकं वा रूपं वर्तते ताभिरित्यर्थः । यद्वा । अस्य यतुनस्य गमनशीलस
+> तव केतुना तमोनिर्हरणादिकर्मणा विशिष्टं त्वां चरति । यादृश्मिन्यादृशे कामे
+
+### Printed p. 480
+
+> धायि धत्ते ॥ कर्तरि चिण् ॥ सामर्थ्यान्मनो गम्यते । तं । यथानिर्देशं प्रतिनिर्दिष्टव्यत्वात्तादृशमित्यर्थो ज्ञातव्यः । तादृशं काममपस्यया कर्मणा हविःस्तुत्यादिलक्षणेन विदत् । विंदते । य उ य एव स्वयमनन्यप्रेरितः सन् स्वमनीषय्येव
+> वहते धारयति फलं सोरमलमत्यर्थं करत् । करोति । अथवा य उ य एव
+> स्वयं वहते स्वयमेवानुतिष्ठति सोत्यर्थं कुर्यात् । न ह्यन्येन कारितं
+> फलवद्भवति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to Agni or to Sūrya. O god, the one who is greatly grown, of this goer Sūrya (यतुनस्य (*yatunasya*); the root yat means movement), distinguished by a banner, that is, by a sign such as the rising that makes known his action, and praised by the Ṛṣis, is approached, that is, served, by the sacrificer. By what means? By the praises in which your name or your form is present. Or else: the sacrificer approaches you, who are distinguished by your banner, namely the action of removing darkness and the like, and who are ever moving. On whatever desire the mind is fixed, that very desire, as Sāyaṇa explains from the context, he obtains by his action consisting of oblation, praise and the like. He who, of his own accord, uninstigated by another and by his own judgment, bears the fruit, brings it fully to completion. Or else: he who himself carries out the rite does it fully, for what is done through another does not bear fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Sūrya) यासु (*yāsu*)—in whichever praises (of the Ṛṣis)
+- ते (*te*)—your
+- नाम (*nāma*)—well-known recitation of your name exists
+- ऋषिस्वरं (*ṛṣisvaraṃ*)—one who is praised by the hymns of the Ṛṣis
+- ज्यायांसं (*jyāyāṃsaṃ*)—the eldest (among the gods)
+- केतुना (*ketunā*)—one who is designated by marks such as rising
+- अस्य यतुनस्य (*asya yatunasya*)—and who is ever moving, you
+- चरति (*carati*)—(the sacrificer) approaches (worships)
+- यादृश्मिन् (*yādṛśmin*)—in what kind of wish
+- धायि (*dhāyi*)—he fixes his mind
+- तं (*taṃ*)—that same desired object
+- अपस्यया (*apasyayā*)—by his devout action
+- विदत् (*vidat*)—he obtains
+- य उ (*ya u*)—whoever
+- स्वयं (*svayaṃ*)—of his own accord (without compulsion)
+- करत् (*karat*)—offers worship and the like
+- सः (*saḥ*)—he
+- अरं (*araṃ*)—abundant fruit
+- वहते (*vahate*)—bears (obtains)
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, the sacrificer approaches you, who are praised by the hymns of those Ṛṣis in whose praises your well-known name is sung, who are the eldest among the gods, who are designated by marks such as rising, and who are ever moving. Whatever desired object the sacrificer resolves to obtain, that very object he obtains by his devout action. He who offers worship and the like of his own accord, without compulsion, obtains abundant fruit.
+
+##### English translation
+The (pious man) proceeds to you, most excellent (of the gods, who are indicated) by the sign of this moving (revolution); who are hymned by the Rishis in whose praises your name (is glorified): he obtains that blessing by his devotion, on whatsoever (his desire) has been fixed; and he also, who of his own accord offers (worship), acquires abundant (reward).
+
+### Printed p. 481
+
+##### विशेषविषयगळु (Special Topics)
+
+यादृश्मिन् (*yādṛśmin*)—When Yāska gives the explanation of this word, he takes the present Ṛk itself as the example, यादृश्मिन् धायि तमपस्ययाविदत् (*yādṛśmin dhāyi tamapasyayāvidat*) (Ni. 6-16), and explains the meaning as यादृशेऽधायि तमपस्ययाविदत् । (*yādṛśe 'dhāyi tamapasyayāvidat |*). Durgācārya, the commentator on the Nirukta, says:
+
+यादृश्मिन् यादृशे कामे धायि मनो धत्ते तं तादृशं कामं तया अपस्त्यया क्रियया हविःस्तुत्यादिलक्षणया तन प्रसादात् अविदत् अलभतेत्यर्थः ॥ (*yādṛśmin yādṛśe kāme dhāyi mano dhatte taṃ tādṛśaṃ kāmaṃ tayā apastyayā kriyayā haviḥstutyādilakṣaṇayā tana prasādāt avidat alabhatetyarthaḥ ‖*)
+
+The sacrificer who performs a sacrifice obtains, in whatever kind of desire he fixes his mind, that is, whatever object he wishes for, that very object by offering oblations and the like to Indra, that is, by action such as the giving of oblations; this is the main purport. **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रमा॑सा॒मव॑ तस्थे अग्रि॒मा न रि॑ष्यति॒ सव॑नं॒ यस्मि॒न्नाय॑ता ।  
+> अत्रा॒ न हार्दि॑ क्रव॒णस्य॑ रेजते॒ यत्रा॑ म॒तिर्वि॒द्यते॑ पूत॒बंध॑नी ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रं । आसां । अव । तस्थे । अग्रिमा । न । रिष्यति । सवनं । यस्मिन् । आयता ।  
+> अत्र । न । हार्दि । क्रवणस्य । रेजते । यत्र । मतिः । विद्यते । पूतबंधनी ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमपि सौरी । आसां स्तुतीनां समुद्रं समुद्रवत्पर्यवसानभूतं
+> सूर्यमग्रिमात्यंतं श्रेष्ठास्मदीया स्तुतिरव तस्थे । अवगच्छति । यद्वा । आसां
+> प्रजानामृत्विजां स्तुतिरिति संबंधः । सवनं । सूयते सोमोऽत्रेति सवनं यज्ञगृहं । न रिष्यति । न हिंस्यते । किंतु प्रवर्धत इत्यर्थः । यस्मिन्नायता विस्तीर्णानि
+> [ 31 ] [ Vol. 19 ]
+
+### Printed p. 482
+
+> स्तोत्राणि तत्सवनमिति । अत्रास्मिन्यजमानगृहे क्रवणस्य स्तुतिकर्तुर्हार्दि हृदयसंबंधि हृदयगतं काम्यं फलं न रेजते । न विचलति । न मृषा भवति । यत्र यस्मिन्
+> स्तोतृगृहे मतिः स्तुतिः पूतबंधनी पूतं सूर्यमनुबध्नती विद्यते अत्र न रेजत
+> इति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk too is addressed to Sūrya. Sūrya is the ocean of these praises, the final resting place like an ocean; our most excellent praise goes to him. Or else, the praise is of these subjects, the priests. सवनं (*savanaṃ*) is the house of sacrifice, where Soma is pressed. It is not harmed, but rather prospers. It is the sacrifice in which extended hymns of praise are recited. Here, in the house of the sacrificer, the desired fruit of the praiser (क्रवणस्य (*kravaṇasya*)), the fruit that lies in his heart (हार्दि (*hārdi*)), does not waver, does not become false. In whichever house of the praiser the praise is found that binds to the pure one, that is, to the pure Sūrya, there it does not waver.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसां (*āsāṃ*)—of all these praises of ours
+- समुद्रं (*samudraṃ*)—Sūrya, who like the ocean is the one receptacle
+- अग्रिमा (*agrimā*)—this most excellent praise of ours
+- अव तस्थे (*ava tasthe*)—goes, joins and abides (in him)
+- यस्मिन् (*yasmin*)—in which sacrificial rite
+- आयता (*āyatā*)—the praises are recited at length
+- सवनं (*savanaṃ*)—that sacrifice
+- न रिष्यति (*na riṣyati*)—is not impeded
+- यत्र (*yatra*)—in which house of sacrifice
+- मतिः (*matiḥ*)—the praise (meditation) (of the sacrificer)
+- पूतबंधनी विद्यते (*pūtabaṃdhanī vidyate*)—is directed to the pure Sūrya alone
+- अत्र (*atra*)—in such a house of sacrifice
+- क्रवणस्य (*kravaṇasya*)—of the praiser
+- हार्दि (*hārdi*)—the dear desired object
+- न रेजते (*na rejate*)—does not move (is not wasted)
+
+##### भावार्थ (Bhāvārtha)
+
+Our most excellent praise goes to Sūrya, who like the ocean is the one receptacle for all these praises of ours, and abides there. The sacrifice in which praises are recited at length is not impeded. In whatever house of sacrifice the praise of the sacrificer, which is meditation, is directed to the pure Sūrya, in such a house of sacrifice the dear desired object of the praiser is not wasted.
+
+##### English translation
+The chiefest of these (our praises) proceed to the ocean-like sun : that chamber of sacrifice fails not in which (his praises) are prolonged : there the heart's desire of the worshipper is not disappointed where the mind is known to be attached to the pure (sun).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि क्ष॒त्रस्य॑ मन॒सस्य॒ चित्ति॑भिरेवानव॒दस्य॑ यज॒तस्य॒ सध्रेः॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 476. Special Topics of Sūkta 44 Ṛk 6, shade (chāyā) discussion (pp. 471-476)
+**Progress note:** Done through printed p. 482. pp. 477-482: end of Ṛk 6 discussion, Ṛk 7-9, start of Ṛk 10
