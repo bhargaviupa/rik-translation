@@ -15796,6 +15796,252 @@ I bring forth well, that is, I prepare excellently, for the great one, the good 
 
 The Indra who, pouring out rain, for the good of the earth, his daughter, and producing forms of streams in the rivers, has made this water for our good: to offer to that great one, the giver of an excellent refuge, I fashion exceedingly a praise that is new, just now born, and of the nature of meditation.
 
+### Printed p. 423
+
+##### English translation
+To the great protector, (Indra), I offer devoutly pious praise, new and originated (at this time): to him, the showerer, who for his daughter (earth). giving form to the rivers, has provided this water for our (use).
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑ष्टु॒तिः स्त॒नयं॑तं रु॒वंत॑मि॒ळस्पतिं॑ जरितर्नू॒नम॑श्याः ।  
+> यो अ॑ब्बि॒मा उ॑दनि॒मा इय॑र्ति॒ प्र वि॒द्युता॒ रोद॑सी उ॒क्षमा॑णः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सुस्तुतिः । स्तनयंतं । रुवंतं । इळः । पतिं । जरितः । नूनुं । अश्याः ।  
+> यः । अब्दिमान् । उदनिमान् । इयर्ति । प्र । विद्युता । रोदसी इति ।  
+> उक्षमाणः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र पर्जन्यः स्तूयते । सुष्टुतिः शोभना स्तुतिः स्तनयुतं गर्जंतं रुवंतं
+> वर्षणजनितं शब्दं कुर्वाणमिळोऽन्नस्योदकस्य ना पतिं स्वामिनं हे जरितः स्तोतस्त्वदीया स्तुतिर्नूर्नं प्राश्याः । प्रकर्षेण वाप्नोतु । यश्च पर्जन्योऽब्बिमान् ।
+> अब्बिरपां दानवान्मेघः । तद्वान् । उदनिमानुदकवान्विद्युता तडिता रोदसी
+> द्यावापृथिव्यावुक्षमाणः सिंचन् प्रेयर्ति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Here Parjanya is praised. Sāyaṇa takes the verse thus: O worshipper, let your excellent praise surely reach, that is, attain in full measure, Parjanya, who thunders and roars, making the sound that is produced by raining, the lord of Ilā, that is, of food and of water. And that Parjanya who possesses the abbimān, the waters, that is, the clouds, and is full of water, goes forth sprinkling the two worlds, heaven and earth, with lightning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरितः (*jaritaḥ*)—O worshipper
+- यः (*yaḥ*)—which Parjanya
+- अब्दिमान् (*abdimān*)—who keeps the clouds under his own control
+- उदनिमान् (*udanimān*)—who is possessed of water (and)
+- विद्युता (*vidyutā*)—by lightning
+- रोदसी (*rodasī*)—both heaven and earth
+- उक्षमाणः (*ukṣamāṇaḥ*)—making them illumined
+- प्र इयर्ति (*pra iyarti*)—moves about
+
+### Printed p. 424
+- स्तनयंतं (*stanayaṃtaṃ*)—one who thunders such
+- रुवंतं (*ruvaṃtaṃ*)—producer of the sound that sprinkles rain
+- इळः (*iḷaḥ*)—of food (or of water)
+- पतिं (*patiṃ*)—the lord, the god Parjanya
+- सुष्टुतिः (*suṣṭutiḥ*)—your excellent praise
+- नूनं (*nūnaṃ*)—quickly
+- प्र अश्याः (*pra aśyāḥ*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipper, may your excellent praise go quickly and reach that Parjanya, the lord of food, who keeps all the clouds under his own control, who is full of water, who by his lightning makes heaven and earth shine, and who moves about thundering.
+
+##### English translation
+May your pious praise, oh worshipper, assuredly reach the thundering, roaring lord of Ila, who, impelling the clouds and distributing the rain, proceeds, illuminating the heaven and earth with lightning.
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्तोमो॒ मारु॑तं॒ शर्धो॒ अच्छा॑ रु॒द्रस्य॑ सू॒नूर्यु॑व॒न्यूरुद॑श्याः ।  
+> कामो॑ रा॒ये ह॑वते मा स्व॒स्तु प॑ स्तुहि॒ पृष॑दश्वा अ॒यासः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्तोमः । मारुतं । शर्धः । अच्छ । रुद्रस्य सूनून् । युवन्यून् । उत् ।  
+> अश्याः ।  
+> कामः । राये । हवते । मा । स्वस्ति । उप । स्तुहि । पृषत् अश्वान् । अयासः ॥१५॥
+
+### Printed p. 425
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष मया संपादितः स्तोमः स्तोत्रं मारुतं शर्धो मरुतां बलमच्छाभिमुखमश्याः । प्राप्योतु । समुदायरूपेण स्तुत्वा समुदायिरूपेणाह ।
+> रुद्रस्य सूनून् । एषां रुद्रेण पुत्रत्वेन परिक्लप्तिरसकृदुक्ता । युवन्यून्यूनो
+> मिश्रणेच्छून्वा उदुन्नतमत्यधिकमश्याः । व्याप्नुहि हे मनः । कामः संकल्पो राये
+> धनार्थं मा मां स्वस्त्यविनश्वरं हवते । आह्वयति । प्रेरयतीत्यर्थः । यस्मादेवं
+> तस्मात्पृषदश्वान्पृषद्वर्णाश्चोपेतानयासो यज्ञगंत्यनुपोपेत्यस्तुहि ॥
+
+##### Gist of the bhāṣya
+
+May this hymn, produced by me, reach the Maruts' might, turning towards it. Having praised them as a group, he now speaks of them as individuals: they are the sons of Rudra (their sonship to Rudra has been stated again and again), and they are youthful, or else desirous of union. The word for "up" is to be taken as "exceedingly": reach, O mind, exceedingly. Desire, that is, resolve, calls me, that is, impels me, towards wealth and towards imperishable well-being. Since this is so, approach and praise the Maruts who have spotted horses, that is, spotted in colour, and who go to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रस्य (*rudrasya*)—of Rudra
+- सूनून् (*sūnūn*)—the sons
+- युवन्यून् (*yuvanyūn*)—and very youthful
+- मारुतं (*mārutaṃ*)—of the Maruts
+- शर्धः (*śardhaḥ*)—the host
+- एषः (*eṣaḥ*)—produced by me
+- स्तोमः (*stomaḥ*)—this hymn
+- अच्छ (*accha*)—towards them
+- उत् आश्याः (*ut āśyāḥ*)—may it go and reach, so as to be pleasing
+- कामः (*kāmaḥ*)—my mental resolve
+- राये (*rāye*)—being desirous of wealth
+- मा (*mā*)—me
+- स्वस्ति (*svasti*)—on an auspicious path
+- हवते (*havate*)—impels
+- पृषदश्वान् (*pṛṣadaśvān*)—those who ride horses of variegated colour
+- आयासः (*āyāsaḥ*)—and who are going to the sacrifice, the gods
+- उप (*upa*)—approaching
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+May this hymn, produced by me, go and reach the host of the Maruts, the sons of Rudra and very youthful, turning towards them and so as to be pleasing to them. My mental resolve, being desirous of wealth, impels me on an auspicious path alone. Approach and praise the gods who ride variegated horses and are going to the sacrifice.
+
+##### English translation
+May this hymn reach up to the presence of the might of the Maruts, the youthful sons of Rudra: the desire of riches incites me to holiness : glorify those who go to sacrifice on spotted steeds.
+
+### Printed p. 426
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रैष स्तोमः॑ पृथि॒वीमं॒तरि॑क्षं॒ वन॒स्पते॒रोष॑धीरा॒ये  ॑
+> अश्याः ।  
+> दे॒वोदे॑वः सु॒हवो॑ भूतु॒ मह्यं॒ मा नो॑ मा॒ता पृ॑थि॒वी ॒॑ ॑
+> दुर्मतौ धात् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । एषः । स्तोमः । पृथिवीं । अंतरिक्षं । वनस्पतीन् । ओषधीः । राये । अश्याः ।  
+> देवःऽदेवः । सुहवः। भूतु । मह्यं । मा । नः । माता । पृथिवी । दुःऽमत् ।  
+> धात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष स्तोमः स्तुतिः पृथिव्यादिदेवताः प्राश्याः । पाप्नोतु । किमर्थं । राये
+> धनार्थं । देवो देवः सर्वोऽपि देवो मह्यं मदर्थं सुहवो भूतु । स्वाह्वानो
+> भवतु । नोऽस्मान्दुर्मतौ माता सर्वस्य निर्मात्रि । यद्वा । अत्रेर्भौमत्वाद्विशेषेण माता । तादृशी पृथिवी मा धात् । मा स्थापयतु :
+
+##### Gist of the bhāṣya
+
+May this hymn, this praise, reach the deities beginning with Earth. For what purpose? For wealth. May every god, each and every deity, be easily invoked for me, that is, readily called. May Earth, the mother, the maker of all (or else, since Atri is earth-born, in a special sense the mother), not place us in ill-thought, that is, not establish us there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise made by me
+- राये (*rāye*)—for wealth
+- पृथिवीं (*pṛthivīṃ*)—the deity Earth
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the deity presiding over the mid-region
+- वनस्पतीन् (*vanaspatīn*)—the deities of the forest trees
+- ओषधीः (*oṣadhīḥ*)—the presiding deities of the herbs
+- प्र अश्याः (*pra aśyāḥ*)—may it go and reach in an excellent manner
+- देवोदेवः (*devodevaḥ*)—every single deity also
+- मह्यं (*mahyaṃ*)—for me
+- सुहवो भूतु (*suhavo bhūtu*)—may be prayed to and called in an excellent manner
+- माता (*mātā*)—the maker of the world
+- पृथीवी (*pṛthīvī*)—Earth
+- नः (*naḥ*)—us
+- दुर्मत् (*durmat*)—with ill-thought
+- मा धात् (*mā dhāt*)—may she not place
+
+##### भावार्थ (Bhāvārtha)
+
+This praise, made by me, for the sake of wealth, may go and reach in an excellent manner the deity Earth, the deity of the mid-region, the deities of the forest trees and the deities of the herbs.
+
+### Printed p. 427
+May every single deity be prayed to and called by me in an excellent manner. May Earth, the maker of the world, not join us with ill-thought.
+
+##### English translation
+May this hymn attain (the divinities) of earth and heaven, the trees, the herbs, for (the sake of) wealth: may each individual deity be successfully invoked by me : let not mother earth take us into unfavourable thought.
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रौ दे॑वा अनिबा॒धे स्या॑म ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरौ । देवाः । अन्यबाधे । स्याम ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा युष्माकं संबंधिन्युरौ महत्यनिबाधे नितरां बाधरहिते सुखे
+> स्याम । भवेम वयमत्रयः ॥
+
+##### Gist of the bhāṣya
+
+O gods, may we, the Atris, be in your great happiness that is wholly without obstruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- उता (*utā*)—exceedingly great **NOTE**
+- अनिबाधे (*anibādhe*)—in happiness free from hindrance
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may we be in happiness that is exceedingly great and free from hindrance.
+
+##### English translation
+May we ever, gods, enjoy great and uninterrupted felicity.
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॒श्विनो॒रव॑सा॒ नूत॑नेन मयो॒भुवा॑ सु॒प्रणी॑ती गमेम ।
+
+### Printed p. 428
+
+> आ नो रयिं वहतमोत वीराना विश्वान्यमृता सौभगानि ॥१८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अश्विनोः । अवसा । नूतनेन । मयःभुवा । सुप्रनीती । गमेम ।  
+> आ । नः । रयिं । वहतं । आ । उत । वीरान् । आ । विश्वानि । अमृता । सौभगानि ॥१८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमश्विनोर्नूतनेन पूर्वमन्यैरननुभूतेन मयोभुवा सुखस्य भावयित्रा सुप्रणीती शोभनप्रणयनवतावसा रक्षणेन सं गमेम । संगच्छेमहि । हे
+> अमृतामरणावश्विन् नोऽस्मभ्यं रयिं धनमा वहतं । प्रापयतं । ओत वीरान्
+> सुवीर्यवतः पुत्रानप्या वहतं । विश्वानि सौभगान्यप्या वहतं ॥
+
+##### Gist of the bhāṣya
+
+We would come together with the Aśvins' protection, which is new, that is, not experienced before by others; which is joy-producing, that is, brings about happiness; and which is well-leading, that is, has good guidance. O immortals, deathless Aśvins, bring us wealth, that is, make it reach us; bring also sons of good valour; bring also all good fortunes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- नूतनेन (*nūtanena*)—with the new (not formerly existing)
+- मयोभुवा (*mayobhuvā*)—joy-producing
+- सुप्रणीती (*supraṇītī*)—and excellently guiding
+- अवसा (*avasā*)—together with protection
+- सं गमेम (*saṃ gamema*)—may we be joined
+- अमृता (*amṛtā*)—O Aśvin deities, free from the nature of death
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- आ वहतं (*ā vahataṃ*)—bring
+- आ उत (*ā uta*)—and further
+- वीरान् (*vīrān*)—heroic sons
+- आ (*ā*)—bring
+- विश्वानि (*viśvāni*)—all
+- सौभगानि (*saubhagāni*)—good fortunes
+- आ (*ā*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+Together with protection that is new, never experienced before by anyone, joy-producing and excellent, may we always be possessed of them. O Aśvin deities, free from the nature of death, bring us wealth, heroic sons and all good fortunes.
+
+##### English translation
+May we ever be participant of the unprecedented, joy-conferring and well-guided protection of the Aswins: bring to us, immortal (Aswins,) riches, male progeny, and all good things.
+
 ---
 
-**Progress note:** Done through printed p. 422. pp. 416-422: Sūkta 42 Ṛk 8 close, Ṛk 9-13
+**Progress note:** Done through printed p. 428. Ṛk 14-18 of sūkta 42 (Parjanya, Maruts, Earth, Aśvins), pp. 423-428
