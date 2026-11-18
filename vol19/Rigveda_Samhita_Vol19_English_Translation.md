@@ -21650,6 +21650,157 @@ May all the gods be with us to-day for our prosperity : may Agni, the benefactor
 
 If, in the middle of the sacrificial rites, the sacrificer who has taken the sacrificial consecration becomes afflicted by disease, then on that day the tṛca, that is, the three Ṛks, beginning विश्वे देवा नः (*viśve devā naḥ*), is to be inserted among the mantras of the Vaiśvadeva-śastra as nivid-dhāna mantras and recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वस्तात्रेये निविदं दध्यात् (*svastātreye nividaṃ dadhyāt*) (Ā. 6-9) **NOTE**. The sense of the word स्वस्तात्रेय (*svastātreya*) in the sūtra is explained as the tṛca, that is, the three Ṛks, beginning with this Ṛk. Likewise it is said that when calamities such as fear arrive, muttering these three Ṛks brings relief from fear.
 
+### Printed p. 589
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति मि॑त्रावरुणा स्व॒स्ति प॑थ्ये रेवति ।  
+> स्व॒स्ति न॒ इंद्र॑श्चा॒ग्निश्च॑ स्व॒स्ति नो॑ आदिते कृधि ॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्ति । मित्रावरुणा । स्वस्ति । पथ्ये । रेवति ।  
+> स्वस्ति । नः । इंद्रः । च । अग्निः । च । स्वस्ति । नः । अदिते । कृधि ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा अहोरात्राभिमानिदेवौ स्वस्ति कुरुतं । हे पथ्ये । पंथा
+> अंतरिक्षमार्गः । तत्र हिता मार्गाभिमानिनी देवी । हे तादृशि रेवति धनवति देवि
+> स्वस्ति कृधि। इंद्रश्चाग्निश्च प्रत्येकं नोस्मभ्यं स्वस्ति कृधि। हे अदिते देवि नः स्वस्ति कृधि।
+> कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, the deities presiding over day and night, bring about welfare for us. O Pathyā: the path is the way through the atmosphere, and the goddess who presides over the paths and is beneficial there is Pathyā. O such Revatī, O wealthy goddess, bring about welfare. Indra and Agni, each of them, bring about welfare for us. O goddess Aditi, bring about welfare for us. The verb "do" is to be supplied throughout.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- स्वस्ति (*svasti*)—may there be welfare for us
+- रेवति (*revati*)—endowed with wealth
+- पथ्ये (*pathye*)—O path of the atmosphere
+- स्वस्ति (*svasti*)—may there be well-being for us
+- इंद्रः (*iṃdraḥ*)—Indra
+- अग्निश्च (*agniśca*)—and Agni
+- नः (*naḥ*)—to us
+- स्वस्ति (*svasti*)—may he bring about welfare
+- आदिते (*ādite*)—O Aditi
+- नः (*naḥ*)—to us
+- स्वस्ति (*svasti*)—welfare
+- कृधि (*kṛdhi*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, may there be welfare for us. O path of the atmosphere, endowed with wealth, may there be well-being for us. May Indra and Agni bring about welfare for us. O Aditi, bring about welfare for us.
+
+##### English translation
+Mitra, and Varuna, grant us prosperity : Path (of the firmament), and Goddess of riches, ( grant us ) prosperity: may Indra and Agni (grant us) prosperity ; Aditi, bestow prosperity upon us.
+
+### Printed p. 590
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति पंथा॒मनु॑ चरेम सूर्याचंद्र॒मसा॑विन ।  
+> पुन॒र्दद॒ताघ्न॑ता जान॒ता सं ग॑मेमहि ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्ति । पंथां । अनु । चरेम । सूर्याचंद्रमसौ इव ।  
+> पुनः । ददता । अघ्नता । जानता । सं । गमेमहि ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंथां पंथानं स्वस्ति क्षेमेणानु चरेम सूराचंद्रमसाविन । तौ यथा
+> निरालंबे मार्गे राक्षसादिभिरनुपद्रुतौ संचरतस्तद्वत् । किंच वयं प्रवसंतः
+> पुनर्ददताभिमतमघ्नता चरकालविलंबकोपेनाहिंसता जानताविस्मरता मदीयश्शिरकालं गतः कोऽयमिति संदेहमकुर्वता। मदीयोऽयमिति बुध्यमानेनेत्यर्थः।
+> उक्तलक्षणेन बंधुजनेन सं गमेमहि । यद्वा । पूर्वार्ध० प्रवसतां वाक्यमुत्तरार्ध० बंधूनां । वयं बंधवो ददताभिमतमुपार्जितं यच्छताघ्नता
+> प्रयामकोपेनाहिंसता जानता सस्नेहमधिगच्छता प्रवसता सं गमेमहि ॥
+
+##### Gist of the bhāṣya
+
+May we travel along the path in welfare, that is, in safety, like the sun and the moon: just as those two travel on a supportless course, unharmed by rākṣasas and the like, so may we. Further, we who are living abroad: पुनर्ददता (*punardadatā*) means one who gives back what is desired; अघ्नता (*aghnatā*) means one who does not harm through anger at our long delay; जानता (*jānatā*) means one who does not forget, who does not doubt "who is this who has been gone for a long time?" but understands "this one is mine". May we meet such kinsfolk, as described. Or else: the first half is the speech of those who live abroad, the second half that of the kinsfolk. We, the kinsfolk, may meet the one who lives abroad, who gives what he has earned and desired, who does not harm through anger at his departure, who knows us and approaches us with affection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर‍्याचंद्रमसौ इव (*sūryācaṃdramasau iva*)—as the moon and the sun follow their own paths eternally
+- वयं (*vayaṃ*)—we too
+- पंथां (*paṃthāṃ*)—our path of conducting the sacrifice
+- स्वस्ति (*svasti*)—without obstacle
+- अनु चरेम (*anu carema*)—may we follow
+- पुनर्ददता (*punardadatā*)—who return a benefit for our benefit
+- अघ्नता (*aghnatā*)—who do not harm
+- जानता (*jānatā*)—who know well our kinship; with such kinsfolk
+- सं गमेमहि (*saṃ gamemahi*)—may we be united
+
+##### भावार्थ (Bhāvārtha)
+
+As the moon and the sun follow their own paths eternally, so may we too follow our path of conducting the sacrifice without obstacle. May we be united with kinsfolk who return a benefit for our benefit and who know well our kinship.
+
+### Printed p. 591
+
+##### English translation
+May we ever follow prosperously our path, like the sun and the moon: may we be associated with a requiting, grateful, and recognisant (kinsman).
+
+##### विशेषविषयगळु (Special Topics)
+
+In addition to the meaning stated above, the commentator says that the phrase पथां स्वस्ति अनुचरेम (*pathāṃ svasti anucarema*) may also be given the meaning: may we travel without obstacle and in safety together with the travellers whom we may meet in the middle of the road at the time of the journey.
+
+## Sūkta 52 (Maṇḍala 5)
+
+The fifty-second sūkta.
+
+For the ten sūktas of this maṇḍala from 52 to 61, one called Śyāvāśva is the seer. The deity of all these ten sūktas is the Maruts. First the introduction of the seer Śyāvāśva will be given, and afterwards the matter of the Marut deities will be explained. Sāyaṇa has given some particulars concerning the seer Śyāvāśva in his bhāṣya on the sixty-first sūkta. They will be stated later when that sūkta is explained. Now we shall explain what is said about the seer Śyāvāśva in the work called the Bṛhaddevatā.
+
+राजर्षिरभवद्धार्भ्यो रथवीतिरिति श्रुतः । स यक्षमाणो राजात्रिमभिगम्य प्रसाद्य च ॥ आत्मानं कारमर्थं च ख्यापयन्प्रांजलिः स्थितः । अवृणीतर्षिमात्रेयमार्त्विज्यायार्चनानसु ॥ स सपुत्रोऽभ्यगच्छत्तं राजानं यज्ञसिद्धये । श्यावाश्वस्यात्रिपुत्रस्य पुत्रः खल्वर्चनानसः !! सांगोपांगान्सर्ववेदान् यः पित्राध्यापितो मुदा । अर्चनानाः सपुत्रोऽथ गत्वा नृपमयाजयत् ॥ यज्ञे च विततेऽपश्यद्राजपुत्रीं यशस्विनीं । स्नुषा मे राजपुत्री स्वादिति तस्य मनोऽभवत् ॥ (*rājarṣirabhavaddhārbhyo rathavītiriti śrutaḥ | sa yakṣamāṇo rājātrimabhigamya prasādya ca ‖ ātmānaṃ kāramarthaṃ ca khyāpayanprāṃjaliḥ sthitaḥ | avṛṇītarṣimātreyamārtvijyāyārcanānasu ‖ sa saputro 'bhyagacchattaṃ rājānaṃ yajñasiddhaye | śyāvāśvasyātriputrasya putraḥ khalvarcanānasaḥ !! sāṃgopāṃgānsarvavedān yaḥ pitrādhyāpito mudā | arcanānāḥ saputro 'tha gatvā nṛpamayājayat ‖ yajñe ca vitate 'paśyadrājaputrīṃ yaśasvinīṃ | snuṣā me rājaputrī svāditi tasya mano 'bhavat ‖*)
+
+### Printed p. 592
+
+श्यावाश्वस्य च तस्यां वै सक्तमासीत्तदा मनः । संयुज्यस्व मया राजन्निति याज्यं च सोऽब्रवीत् ॥ श्यावाश्वाय सुतां दित्सुर्महिषीं स्वां नृपोऽब्रवीत् । किं ते मतमहं कन्यां श्यावाश्वाय ददामि हि ॥ अत्रिपुत्रोऽदुर्बलो हि जामाता त्ावयोरिति । राजानमब्रवीत्सापि नृपर्षिकुलजा ह्यहं ॥ नानृषिर्नौ तु जामाता नैष मंत्रान् हि दृष्टवान् । ऋषये दीयतां कन्या वेदस्यांबा भवेत्तथा ॥ ऋषिर्मंत्रदृशं वेदपितरं मन्यते यतः । प्रत्याचष्टे स तं राजा सह संमंत्र भार्यया ॥ अनृषिनैव जामाता कच्चिद्भवितुमर्हति । प्रत्याख्यात ऋषिस्तेन वृत्ते यज्ञे न्यवर्तत ॥ (*śyāvāśvasya ca tasyāṃ vai saktamāsīttadā manaḥ | saṃyujyasva mayā rājanniti yājyaṃ ca so 'bravīt ‖ śyāvāśvāya sutāṃ ditsurmahiṣīṃ svāṃ nṛpo 'bravīt | kiṃ te matamahaṃ kanyāṃ śyāvāśvāya dadāmi hi ‖ atriputro 'durbalo hi jāmātā tāvayoriti | rājānamabravītsāpi nṛparṣikulajā hyahaṃ ‖ nānṛṣirnau tu jāmātā naiṣa maṃtrān hi dṛṣṭavān | ṛṣaye dīyatāṃ kanyā vedasyāṃbā bhavettathā ‖ ṛṣirmaṃtradṛśaṃ vedapitaraṃ manyate yataḥ | pratyācaṣṭe sa taṃ rājā saha saṃmaṃtra bhāryayā ‖ anṛṣinaiva jāmātā kaccidbhavitumarhati | pratyākhyāta ṛṣistena vṛtte yajñe nyavartata ‖*)
+
+श्वावाश्वस्य तु कन्याया मनो नैव न्यवर्तत । ततस्तौ तु निवर्तेतामुभावेवाभिजग्मतुः ॥ शशीयसीं तरंतं च पुरुमीळं च पार्थिवं । तरंतपुरुमीळौ तु राजानौ वैददश्वृषी ॥ ताभ्यां तौ चक्रतुः पूजां ऋषिभ्यां नृपती स्वयं । ऋषिपुत्रं महिष्याश्च दर्शयामास तं नृपः ॥ अजाविकं गवाश्वं च श्यावाश्वाय शशीयसी । अश्रिं याज्यार्चितौ गत्वा पितापूत्रौ स्वमाश्रमं ॥ अभ्यवादयतामत्रिं महर्षिं दीप्ततेजसं । (*śvāvāśvasya tu kanyāyā mano naiva nyavartata | tatastau tu nivartetāmubhāvevābhijagmatuḥ ‖ śaśīyasīṃ taraṃtaṃ ca purumīḷaṃ ca pārthivaṃ | taraṃtapurumīḷau tu rājānau vaidadaśvṛṣī ‖ tābhyāṃ tau cakratuḥ pūjāṃ ṛṣibhyāṃ nṛpatī svayaṃ | ṛṣiputraṃ mahiṣyāśca darśayāmāsa taṃ nṛpaḥ ‖ ajāvikaṃ gavāśvaṃ ca śyāvāśvāya śaśīyasī | aśriṃ yājyārcitau gatvā pitāpūtrau svamāśramaṃ ‖ abhyavādayatāmatriṃ maharṣiṃ dīptatejasaṃ |*)
+
+श्वावाश्वस्य वनस्यासीन्मंत्रस्यादर्शनादहं ॥ न लब्धवानहं कन्यां हंत सर्वांगशोभनां । अप्यहं मंत्रदर्शि स्यां भवेद्धर्षो महान्मनु । इत्यरण्य चिंतयतः प्रादुरासीन्मरुद्दणः । ददर्श संस्थिन्नार्श्वे तुल्यरूपानिवात्मनः ॥ समानवयसश्चैन मरुतो रुक्मवक्षसः । तांस्तुल्यवयसो दृष्ट्वा देवान्पुरुषनिग्रहान् ॥ (*śvāvāśvasya vanasyāsīnmaṃtrasyādarśanādahaṃ ‖ na labdhavānahaṃ kanyāṃ haṃta sarvāṃgaśobhanāṃ | apyahaṃ maṃtradarśi syāṃ bhaveddharṣo mahānmanu | ityaraṇya ciṃtayataḥ prādurāsīnmaruddaṇaḥ | dadarśa saṃsthinnārśve tulyarūpānivātmanaḥ ‖ samānavayasaścaina maruto rukmavakṣasaḥ | tāṃstulyavayaso dṛṣṭvā devānpuruṣanigrahān ‖*)
+
+### Printed p. 593
+
+श्यावाश्वो विस्मितोऽपृच्छत्के स्थेति मरुतस्तदा । ततस्तु मरुतो देवान् रुद्रसूनूनबुध्यत ॥ य ईं वहंत इत्याभिर्बुद्ध्वा तुष्टाव तांस्तथा । अतिक्रमं हि तं मेने ऋषिर्विपुलमात्मनः ॥ रथनीतेर्दुहितरमगच्छन्मनसा तदा । स सद्म ऋषिरात्मानं प्रवक्ष्यन् रथवीतये ॥ आदाय कन्यां तां दार्भ्य उपेयायार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ (*śyāvāśvo vismito 'pṛcchatke stheti marutastadā | tatastu maruto devān rudrasūnūnabudhyata ‖ ya īṃ vahaṃta ityābhirbuddhvā tuṣṭāva tāṃstathā | atikramaṃ hi taṃ mene ṛṣirvipulamātmanaḥ ‖ rathanīterduhitaramagacchanmanasā tadā | sa sadma ṛṣirātmānaṃ pravakṣyan rathavītaye ‖ ādāya kanyāṃ tāṃ dārbhya upeyāyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖*)
+
+रथनीतिरहं दार्भ्य इति नाम शशंस च । मया संगतिमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत् क्षमस्व नमस्तेऽस्तु मा च मे भगवन्नृधः । ऋषेः पुत्रः स्वयमृषिः पितासि भगवन्नृषेः ॥ हंत प्रतिगृहाणेमां स्नुषामित्येवमब्रवीत् । पाद्यार्यम्यमधुपर्कैश्च पूजयित्वा स्वयं नृपः ॥ शुक्लमश्वशतं दत्वा अनुजज्ञॆ गृहान्नृति । शशीयसीं तरंतं च पुरुमीळं च पार्थिवं ॥ षड्भिः सनदिति स्तुत्वा जगामर्षिरपि क्षयं । (*rathanītirahaṃ dārbhya iti nāma śaśaṃsa ca | mayā saṃgatimicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tat kṣamasva namaste 'stu mā ca me bhagavannṛdhaḥ | ṛṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavannṛṣeḥ ‖ haṃta pratigṛhāṇemāṃ snuṣāmityevamabravīt | pādyāryamyamadhuparkaiśca pūjayitvā svayaṃ nṛpaḥ ‖ śuklamaśvaśataṃ datvā anujajñè gṛhānnṛti | śaśīyasīṃ taraṃtaṃ ca purumīḷaṃ ca pārthivaṃ ‖ ṣaḍbhiḥ sanaditi stutvā jagāmarṣirapi kṣayaṃ |*)
+
+(Bṛ. De. 5-50 to 80)
+
+The royal seer called Rathavīti Dārbhya, intending to perform a sacrifice, went to the seer Atri, worshipped him, and requested that Atri's son Arcanānas accept the office of priest at his sacrifice and help him to perform the sacrifice. Arcanānas agreed to this and went with his son Śyāvāśva to the king's house for the sacrificial work, and carried out the sacrifice. At the time of the sacrifice Arcanānas saw the king's daughter and, attracted, wished that she be married to Śyāvāśva. Śyāvāśva too became infatuated with her. Then the father and the son made their wish known to the king; he too consented to that connection and said that he would give his answer after asking his wife, but his wife did not consent. She made it known that Śyāvāśva was not a seer, and that they did not agree to give their daughter, born in a line of seers, to one who was not a seer. In the same way the king too gave the answer to both father and son, and after that they returned to their own town. But Śyāvāśva alone remained with his mind fixed on the king's daughter. On the way back they met Śaśīyasa
+
+### Printed p. 594
+
+and Taranta, and the king Purumīḷha. Taranta and Purumīḷha were both sons of the king Vidadaśva and were themselves seers. Both of them saluted the visiting father and son, honoured them and worshipped them. Then the women of the inner apartments also honoured them with gifts such as cows and horses. Śyāvāśva alone, grieving that he had not obtained a beautiful wife, was wandering in the forest when he met the host of the Maruts. Then, understanding that they were the Maruts, sons of Rudra and of divine portion, he praised them. He became the seer of the sūkta के ष्ठा नरः (*ke ṣṭhā naraḥ*) (Ṛ. Saṃ. 5-6-1) **NOTE**. Learning of this, Rathavīti, the son of Darbha, brought his daughter and prayed that he be forgiven for having earlier refused to give his daughter, and that, since Śyāvāśva was now a seer and so fit to accept his daughter, he should accept her. When Śyāvāśva and his father agreed to this, he then gave the maiden in marriage, preceded by the offering of arghya, pādya and the like. Then Śyāvāśva, in gratitude to Purumīḷha and the others for the help they had given him, saluted them and composed six Ṛks praising them. Among them,
+
+उत मेऽरपद्युवतिर्ममंदुषी प्रति श्यावाय वर्तनिं । वि रोहिता पुरुमीळ्याय येमतुर्विप्राय दीर्घयशसे ॥ (*uta me 'rapadyuvatirmamaṃduṣī prati śyāvāya vartaniṃ | vi rohitā purumīḷyāya yematurviprāya dīrghayaśase ‖*)
+
+(Ṛ. Saṃ. 5-61-9)
+
+this Ṛk is one that praises Purumīḷha.
+
+युवां गोतमः पुरुमीळ्हो अत्रिर्दस्रा हवतेवसे हविष्मान् । दिशं न दिष्टामृजूयेव यंता मे हवं नासत्योप यातं ॥ (*yuvāṃ gotamaḥ purumīḷho atrirdasrā havatevase haviṣmān | diśaṃ na diṣṭāmṛjūyeva yaṃtā me havaṃ nāsatyopa yātaṃ ‖*)
+
+(Ṛ. Saṃ. 1-183-5)
+
+in this Ṛk it is stated that Purumīḷha praised the Aśvin deities and obtained their protection.
+
+Introduction to the Marut deities
+
+In the Ṛgveda it is customary to call the Marut deities sons of Rudra. On how they came to be sons of Rudra, Sāyaṇa has explained as follows—
+
+रुद्रो यद्वो मरुतो रुक्मवक्षसो वृषाजनि पृश्न्याः शुक्र ऊधनि । (*rudro yadvo maruto rukmavakṣaso vṛṣājani pṛśnyāḥ śukra ūdhani |*)
+
+(Ṛ. Saṃ. 2-33-2)
+
+As said in this Ṛk, there is a well-known story that the Maruts were born as sons of Rudra in Pṛśni; therefore this epithet is used most often whenever they are addressed. In explaining this Ṛk, Sāyaṇācārya tells yet another story.
+
 ---
 
-**Progress note:** Done through printed p. 588. Vol 19 pp. 583-588, Sūkta 51 Ṛks 11-13
+**Progress note:** Done through printed p. 594. Sukta 51 Rks 14-15; sukta 52 intro (Brhaddevata on Syavasva)
