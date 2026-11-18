@@ -22,7 +22,7 @@ listforms = {}
 for f, r in lst.items():
     if r['status'] in ('legend', 'extra'):
         for g in f.split(' or '): listforms[g.strip()] = r
-ALIAS = {'Sā. Ve.': 'Sā. Saṃ.', 'Śata. Brā.': 'Śa. Brā.', 'Si.': 'Ni.', 'Ma. Saṃ.': 'Ṛ. Saṃ.', 'Mā. Saṃ.': 'Ṛ. Saṃ.', 'U.': 'U. Sū.', 'u.': 'U. Sū.', 'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
+ALIAS = {'pā. dū.': 'Pā. Sū.', 'pā. rū.': 'Pā. Sū.', 'pā. sava.': 'Pā. Sū.', 'pā. sā.': 'Pā. Sū.', 'Sā. Ve.': 'Sā. Saṃ.', 'Śata. Brā.': 'Śa. Brā.', 'Si.': 'Ni.', 'Ma. Saṃ.': 'Ṛ. Saṃ.', 'Mā. Saṃ.': 'Ṛ. Saṃ.', 'U.': 'U. Sū.', 'u.': 'U. Sū.', 'Ṛk. Saṃ.': 'Ṛ. Saṃ.', 'Ṛg. Saṃ.': 'Ṛ. Saṃ.', 'Ṛgve.': 'Ṛ. Saṃ.', 'Ṛ.': 'Ṛ. Saṃ.', 'Nir.': 'Ni.', 'Niru.': 'Ni.', 'Śat. Brā.': 'Śa. Brā.', 'Ś. Brā.': 'Śa. Brā.',
          'Ait. Brā.': 'Ai. Brā.', 'Ai. Br.': 'Ai. Brā.', 'Tai. Br.': 'Tai. Brā.', 'Āśv.': 'Ā. Sū.', 'Āś.': 'Ā. Sū.', 'Vāj. Saṃ.': 'Vā. Saṃ.', 'Uṇ.': 'U. Sū.', 'Uṇ. sū.': 'U. Sū.',
          'sā. sū.': 'Pā. Sū.', 'tā. sū.': 'Pā. Sū.', 'paṃ. sū.': 'Pā. Sū.', 'Av.': 'Ath. Saṃ.', 'Ṛ. Ve.': 'Ṛ. Saṃ.', 'Ā. Ve.': 'Ath. Saṃ.'}
 def dev2iast(w):
@@ -40,6 +40,7 @@ def suggest(w):
         sh = numshape.get(w, collections.Counter()); tt = sum(sh.values()) or 1; share = sum(v for k, v in sh.items() if k >= 3) / tt
         if w in ('M.', 'म.', 'Ma.', 'ma.'): return ('M.', note + 'user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
         if share >= 0.8: return ('M.', note + f'Mahābhāṣya (user: M. / म.); {round(100 * share)}% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)', 'medium')
+    if re.search('[\u0900-\u097f]', w) and re.match(r'pā\. \S', base): return ('Pā. Sū.', note + 'user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)', 'high')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
     if base == 'saṃ.' or (base != w and base == 'saṃ.'): return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.', 'medium')

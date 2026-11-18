@@ -18,9 +18,9 @@ LAT = r'[A-Za-zĀāĪīŪūṚṛṢṣṆṇṬṭḌḍŚśṃḥṄṅñ]'
 WORD = r'(?:' + LAT + r'{1,7}|[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
 SEP = r'(?:\.\.|[.,-])?\s'                       # after a word of the work's name the dot may be missing or replaced by "-", ","  (e.g. "पा सू.", "पा- सू.")
 # a work name = 1-4 words, the last one with its dot, then a number of 2-4 parts joined by "-" (also "." or a space where the print or the machine slipped)
-DEVW = r'(?:[ऀ-ॿ]{1,5}|[ಀ-೿]{1,5})'
+DEVW = r'(?:[\u0900-\u0965\u0970-\u097f]{1,5}|[ಀ-೿]{1,5})'      # Devanagari letters, not its digits (so "पा. ६.१.१०९" is the name पा. and the number 6-1-109)
 NUM = N + r'(?:(?:\s?[-–]\s?|\.(?=' + N + r')|\s(?=' + N + r'{2,}))' + N + r'){1,4}'
-REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[ऀ-ॿ]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
+REF = re.compile(r'((?:' + LAT + r'{1,7}\.\s?){1,3}|(?:[\u0900-\u0965\u0970-\u097f]{1,5}\.\s?){1,3}|(?:[ಀ-೿]{1,5}\.\s?){1,3})\s*[“"\']?(' + NUM + ')')
 # the work's name in Indic script right after "(" may lack the dot of its first word ("(पा सू. ७-१-३९)", "(पा- सू. …", "(उ सू. …", "(पं- सू. …"): read as the full name
 REFB = re.compile(r'(?<![ऀ-ॿ.])([(\[]\s?)?((?:' + DEVW + r'(?:(?:\.\.|[.,-]|\))\s?|\s)){1,2}' + DEVW + r'\.\s?)\s*(' + NUM + ')')
 # first words of known works, in Devanagari, and the misreadings the user named: only these may start a dotless name away from a "("
@@ -70,8 +70,8 @@ def run(vols):
                 lab = normlab(g1); k = key(lab)
                 if not k or k in STOP: continue
                 num = re.sub(r'\s?[–-]\s?|(?<=\d)[.\s](?=\d)', '-', g2.translate(DIG))
-                if not re.search('[ऀ-ॿ]', g1) and any(e <= m.start() + len(g1) and m.start() - e <= 80 and n == num for e, n in indic): continue
-                if re.search('[ऀ-ॿ]', g1): indic.append((m.end(), num))
+                if not re.search('[\u0900-\u097f]', g1) and any(e <= m.start() + len(g1) and m.start() - e <= 80 and n == num for e, n in indic): continue
+                if re.search('[\u0900-\u097f]', g1): indic.append((m.end(), num))
                 kd = kind(k)
                 if (kd, num) in seen: continue                      # the same reference in another script on the same line
                 seen.add((kd, num))

@@ -5,10 +5,10 @@
 | status | forms | references |
 |---|---|---|
 | NOT IN LIST | 341 | 1886 |
-| mistake | 85 | 14524 |
+| mistake | 85 | 14523 |
 | extra | 27 | 779 |
 | legend | 20 | 14825 |
-| Devanagari | 166 | 8278 |
+| Devanagari | 158 | 8275 |
 
 ## Forms not in the list, most used first (first 60)
 
