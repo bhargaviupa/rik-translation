@@ -25964,6 +25964,206 @@ The words स्यः (*syaḥ*) and त्यं (*tyaṃ*) have the sense of 
 
 अरुषः—आरोचमानः । अरुष इत्यनेन रोहित इत्युक्तं भवति । (*aruṣaḥ—ārocamānaḥ | aruṣa ityanena rohita ityuktaṃ bhavati |*) The meaning of the word अरुष (*aruṣa*) has been explained in the Special Topics of the previous Ṛk. It can be understood from the commentator's explanation that the two words अरुष (*aruṣa*) and रोहित (*rohita*) generally have one meaning. The previous
 
+### Printed p. 716
+
+Ṛk has the use of the plural. In this Ṛk, beginning with अरुषः दर्शतः (*aruṣaḥ darśataḥ*), the singular is used. Since interchange of case and number is the general rule in the metre, it is not wrong to give the sense of the plural to the singular and the sense of the singular to the plural. The use of the word रोहित (*rohita*) when the vehicle of the Marut deities is described is found in Ṛks such as उपो रथेषु पृषतीरयुग्ध्वं प्रष्टिर्वहति रोहितः । (*upo ratheṣu pṛṣatīrayugdhvaṃ praṣṭirvahati rohitaḥ |*) (Ṛ. Saṃ. 1-29-6), and the commentator has cited the above Ṛk as an example.
+
+The commentator has explained that the word स्म (*sma*) is used here as a filler of the pāda; that is, this word has no particular meaning of its own. It is used to complete the fixed number of syllables that the metre must have. In modern Sanskrit, when this word is used together with roots denoting the present tense, it conveys the sense of the past tense. For example, when the word स्म (*sma*) is joined to the word वहति (*vahati*) ("he carries"), it becomes वहति स्म (*vahati sma*), and it is the established usage to give such words the past sense "he carried".
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ नु मारु॑तं व॒यं श्र॑व॒स्युमा हु॑वामहे ।  
+> आ यस्मि॑न्त॒स्थौ सु॒रणा॑नि॒ बिभ्र॑ती॒ सचा॑ म॒रुत्सु॑ रोद॒सी ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । नु । मारुतं । वयं । श्रवस्युं । आ । हुवामहे ।  
+> आ । यस्मिन् । तस्थौ । सुरणानि । बिभ्रती । सचा । मरुत्सु । रोदसी ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमात्रेया रथं रंहणस्वभावं मारुतं मरुतां संबंधिनं रथं श्रवस्युमन्नेच्छुं नु अद्या हुवामहे । आह्वयामः । यस्मिन्रथे सुरणानि सुरमणानि
+> जलानि बिभ्रती धारयंती रोदसी रुद्रस्य पत्नि मरुतां माता । यद्वा । रुद्रो
+> वायुः । तत्पत्नि माध्यमिका देवी मरुत्सु सचा सहिता आ तस्थौ आस्थितवती तं
+> रथॆमाहुवे ।
+
+##### Gist of the bhāṣya
+
+We, the Ātreyas, today invoke the chariot of the Maruts, of rushing nature, desirous of food. In that chariot Rodasī, the wife of Rudra and the mother of the Maruts, stands together with the Maruts, bearing the pleasant-flowing waters. Or else, Rudra is the wind; his wife is the Mādhyamikā goddess, who stands together with the Maruts in that chariot. That chariot is invoked.
+
+### Printed p. 717
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which chariot
+- सुरणानि (*suraṇāni*)—waters
+- बिभ्रती (*bibhratī*)—bearing
+- रोदसी (*rodasī*)—the wife of Rudra (the mother of the Maruts)
+- मरुत्सु सचा (*marutsu sacā*)—together with the Maruts
+- आ तस्थौ (*ā tasthau*)—stands, such
+- मारुतुं (*mārutuṃ*)—belonging to the Maruts **NOTE**
+- श्रवस्युं (*śravasyuṃ*)—desirous of food
+- रथं (*rathaṃ*)—the chariot
+- वयं (*vayaṃ*)—we
+- आ हुवामहे (*ā huvāmahe*)—we invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+We invoke with prayer the chariot of the Maruts, desirous of food, in which the wife of Rudra, the mother of the Maruts, or the goddess called Mādhyamikā Vāk, bearing waters, stands.
+
+##### English translation
+We invoke the food laden chariot of the Maruts, in which Rodasi stood with the Maruts, bearing the delicious (waters).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the chariot of the Marut deities is praised, and Yāska has given a nirvacana of this Ṛk:
+
+रथं क्षिप्रं मारुतं मेघं वयं श्रवणीयमाह्वयामह आ यस्मिन्तस्था सुरमणीयान्न्युदकानि बिभ्रती सचा मरुद्भिः सह रोदसीरोदसी ॥ (*rathaṃ kṣipraṃ mārutaṃ meghaṃ vayaṃ śravaṇīyamāhvayāmaha ā yasmintasthā suramaṇīyānnyudakāni bibhratī sacā marudbhiḥ saha rodasīrodasī ‖*) (Ni. 11-50)
+
+The chariot of the Marut deities is swift-moving and renowned for glory. In that chariot the goddess named Rodasī, the wife of Rudra and the mother of the Marut deities, stands with the Marut deities, bearing excellent waters. We invoke with prayer that chariot of the Marut deities: this is the main import of the nirvacana.
+
+रथं (*rathaṃ*)—On the word रथं (*rathaṃ*) Yāska in his Nirukta has said: रथो रहंतेर्गतिकर्मणः। स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा रपतेवा रसतेर्वा (*ratho rahaṃtergatikarmaṇaḥ| sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā rapatevā rasatervā*) (Ni. 9-11). That is, it may be derived either from the root रंह् (*raṃh*), which denotes the action of going, or from the root स्थिरति (*sthirati*), meaning "be firm". Because this chariot is always going (moving about), it is called रथ (*ratha*). Or, the warrior who sits in it remains steady: when one sits on vehicles such as horses the body shakes, but when one sits in a chariot one can sit firm without shaking, and so it is called रथ (*ratha*). Or, because one sports sitting in this chariot, it is called रथ (*ratha*). Thus he has explained the meanings of its component parts.
+
+### Printed p. 718
+
+रोदसी (*rodasī*)—रोदसी (*rodasī*) means heaven and earth. The proper name रोदसी (*rodasī*) also denotes, in many contexts, a person (the wife of Rudra). Therefore this word is used both in the singular and in the dual. Its meaning must be taken according to the context. The Nirukta author, quoting the Ṛk
+
+उताभये पुरुहूत श्रवोभिरेको दृळ्हमवदो वृत्रहा सन् । इमे चिदिंद्र रोदसी अपारे यत्संगृभ्णा मघवन् काशिरित्ते ॥ (*utābhaye puruhūta śravobhireko dṛḷhamavado vṛtrahā san | ime cidiṃdra rodasī apāre yatsaṃgṛbhṇā maghavan kāśiritte ‖*) (Ṛ. Saṃ. 3-30-5)
+
+and stating there the nirvacana of the word रोदसी (*rodasī*), (Ṛ. Saṃ. 3-30-5)
+
+रोदसी द्यावापृथिव्य विरोधनात् । (*rodasī dyāvāpṛthivya virodhanāt |*) (Ni. 6-1)
+
+has said that the name रोदसी (*rodasī*) is well known for heaven and earth because they are bound and regulated by a limited boundary (limit); this should be understood. This is the nirvacana of the word रोदसी (*rodasī*) ending in the dual. Again, giving the meaning of the word ending in the singular, he says:
+
+रोदसी रुद्रस्य पत्नीः (*rodasī rudrasya patnīḥ*) (Ni. 11-49)
+
+Explaining that Rodasī is the wife of Rudra, he quotes the present Ṛk
+
+रथं नु मारुतं वयं श्रवस्युमा हुवामहे । आ यस्मिन्तस्थौ सुरणानि बिभ्रती सचा मरुत्सु रोदसी ॥ (*rathaṃ nu mārutaṃ vayaṃ śravasyumā huvāmahe | ā yasmintasthau suraṇāni bibhratī sacā marutsu rodasī ‖*) (Ṛ. Saṃ. 5-56-8)
+
+and has shown that here, in the word Rodasī, there is the use of the proper name meaning the wife of Rudra. **NOTE** But here another problem arises. Does "the wife of Rudra" mean the wife of the deity Rudra, or, the word Rudra meaning Marut, the wife of the Marut deities? Sāyaṇa has commented in both places in a way that leaves room for this doubt. While explaining the present Ṛk he says:
+
+रोदसी रुद्रस्य पत्नि मरुतां माता । यद्वा रुद्रो वायुः । तत्पत्नी माध्यमिका देवी ॥ (*rodasī rudrasya patni marutāṃ mātā | yadvā rudro vāyuḥ | tatpatnī mādhyamikā devī ‖*) (Sa. Bha.) **NOTE**
+
+### Printed p. 719
+
+One meaning may be that Rodasī is the wife of Rudra and the mother of the Maruts. Or, since the word Rudra means the wind, Rodasī is the wife of the wind, the Mādhyamikā Vāk: this is the second meaning. Thus he has explained it in two ways. And in explaining the Ṛk
+
+परा शुभ्रा अयासो यव्या साधारण्येव मरुतो मिमिक्षुः । न रोदसी अप नुदंत घोरा जुषंत वृधं सख्याय देवाः ॥ (*parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ | na rodasī apa nudaṃta ghorā juṣaṃta vṛdhaṃ sakhyāya devāḥ ‖*) (Ṛ. Saṃ. 1-167-4)
+
+**NOTE** he says, as stated earlier:
+
+रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे तु मरुतां स्त्रीयो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त उत्तरत्रैवं व्यवहारात् ॥ (*rodasā śabdena rodanasvabhāvo rudraḥ | tasya strī rodasīti kecidāhuḥ | apare tu marutāṃ strīyo rodasīti nāmadheyamityāhuḥ | ayameva pakṣo yukta uttaratraivaṃ vyavahārāt ‖*)
+
+That Rodasī is the wife of Rudra is one view; that she is the wife of the Maruts is another. Of these, the second alone seems to be correct: thus he has stated his opinion. Besides, in explaining the Ṛk
+
+जोषद्यदीमसुर्य्या सचध्यै विषितस्तुका रोदसी नृमणाः ॥ (*joṣadyadīmasuryyā sacadhyai viṣitastukā rodasī nṛmaṇāḥ ‖*) (Ṛ. Saṃ. 1-167.5)
+
+he has stated: रोदसी मरुत्पत्नी विद्युद्वा । (*rodasī marutpatnī vidyudvā |*) Rodasī is the wife of the Maruts, or lightning is known by this name. And he has also cited the matter, described there, that this Rodasī is to be found only in pursuit of the Maruts. And if some more contexts in which the word रोदसी (*rodasī*) is used are examined, in the single Ṛk
+
+त इदुग्राः शवसा धृष्णुषेणा उभे युजंत रोदसी सुमेके । अध स्मैषु रोदसी स्वशोचिरामवत्सु तस्थौ न रोकः ॥ (*ta idugrāḥ śavasā dhṛṣṇuṣeṇā ubhe yujaṃta rodasī sumeke | adha smaiṣu rodasī svaśocirāmavatsu tasthau na rokaḥ ‖*) (Ṛ. Saṃ. 6-66-6)
+
+the word रोदसी (*rodasī*) is used in both senses. Here Sāyaṇa has explained the first word as द्यावापृथिव्य (*dyāvāpṛthivya*) and the second as रुद्रस्य पत्नि माध्यमिका वाक् (*rudrasya patni mādhyamikā vāk*). And in
+
+मिन्यक्ष येषु रोदसी नु देवी सिषक्ति पूषा अभ्यर्धयज्वा । श्रुत्वा हवं मरुतो यद्ध याथ भूमा रेजंते अध्वनि प्रविक्ते ॥ (*minyakṣa yeṣu rodasī nu devī siṣakti pūṣā abhyardhayajvā | śrutvā havaṃ maruto yaddha yātha bhūmā rejaṃte adhvani pravikte ‖*) (Ṛ. Saṃ. 6-50-5)
+
+### Printed p. 720
+
+too it is explained only as देवी द्योतमाना माध्यमिका वाक् (*devī dyotamānā mādhyamikā vāk*). While giving the explanation of the Ṛk Ṛ. Saṃ. 1-167-3, the scholar Max Muller states as follows the matter of the word रोदसी (*rodasī*), used in the senses of lightning, Mādhyamikā Vāk and heaven and earth.
+
+In our verse, we take वाक् (*vāk*) in the sense of thunder, but as a feminine, of the lightning and thunder as the two companions of the Maruts, represents the first, रोदसी (*rodasī*) or lightning, as the recognised wife, hiding herself in the house, while the other, the loud thunder, is represented as a more public companion of the Maruts. This contrast, if it is really what the poet intended, throws a curious light on the social character of the Vedic times, as it presupposes two classes of wives, not necessarily simultanious, however—, a house wife, who stays at home and is not much seen, and a wife who appears in public and takes part in the society......... The loud voice of the thunder as well as the usual hiding of the lightning might well suggest this comparison. [ S. B. E. XXXII p. 276 ]
+
+Showing in this way the difference between the use of the singular and the use of the dual, the Bṛhaddevatā says:
+
+रोदसी देवपत्नीनां अथर्वांगिरसे यथा । (*rodasī devapatnīnāṃ atharvāṃgirase yathā |*) (Bṛ. De. 2-143)
+
+Here is an example of the use of the singular: according to the view of the Atharvāṅgirasa (the Atharvaveda), Rodasī is one of the wives of the gods. And:
+
+द्वे द्वे पदे संस्तुते रोदसी च देवाश्चार्चेन विभक्तमन्यत् । (*dve dve pade saṃstute rodasī ca devāścārcena vibhaktamanyat |*) (Bṛ. De. 4-6)
+
+In all such places where the dual is used, heaven and earth are meant.
+
+### Printed p. 721
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वः॒ शर्धं॑ रथे॒शुभं॑ त्वे॒षं प॑न॒स्कुमा हु॑वे ।  
+> यस्मि॒न्तु जा॑ता सु॒भगा॑ मही॒यते॒ सचा॑ म॒रुत्सु॑ मीळु॒षी ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । शर्धं । रथेऽशुभं ' त्वेषं । पनस्युं । आ । हुवे ।  
+> यस्मिन् । सुजाता । सुभगा । महीयते । सचा । मरुत्सु । विळ्ळुषी ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वः शर्धं युष्मदीयं बलं गणं रथेशुभं रथे शोभनं
+> त्वेषं दीप्तं पनस्युं स्तुत्यमा हुवे । आह्वये । यस्मिन् शर्धे सुजाता सुष्टु
+> प्रवृद्धा सुभगा शोभनभाग्यातिमहती मीळ्हुषी मीळ्हुष्टम शिवतमेत्यादौ दर्श
+> नान्मीढ्वानुद्रः । तत्पत्नी मीळ्हुषी । मरुत्तु सजा सह महीयते पूज्यते तं शर्धमा हुवे । आपस्तंबोऽपि रुद्रपत्नीं मीळ्हुषीसंज्ञया व्यवजहार । उत्तरया
+> दक्षिणस्यामीशानमावाहयति लौकिक्या वाचोत्तरस्यां मीळ्हुषीं मध्यॆ जयंतं । अप. गृ. २०. १.३. । इति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, I invoke your शर्धं (*śardhaṃ*), that is, your strength, your host, which graces the chariot, brilliant and adorable. In that host Sujātā, well grown, and Subhagā, of auspicious fortune and very great, is worshipped, together with the Maruts. She is Mīḷhuṣī: because Rudra is seen to be called मीढ्वान् (*mīḍhvān*) in such places as मीळ्हुष्टम शिवतमेत्यादौ (*mīḷhuṣṭama śivatametyādau*), Mīḷhuṣī is his wife. That host I invoke. Āpastamba too, he adds, used the name Mīḷhuṣī for the wife of Rudra, and he quotes a passage (Apa. Gṛ. 20. 1.3) **NOTE** in which Īśāna is invoked in the south, and Mīḷhuṣī in the north, with the next verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which host
+- सुजाता (*sujātā*)—of divine birth
+- सुभगा (*subhagā*)—of auspicious form
+- मीळ्हुषी (*mīḷhuṣī*)—the wife of Rudra
+- मरुत्तु सचा (*maruttu sacā*)—together with the Maruts **NOTE**
+- महीयते (*mahīyate*)—shines, worshipped
+- तं (*taṃ*)—that
+- रथेशुभं (*ratheśubhaṃ*)—that which is an ornament to the chariot
+- त्वेषं (*tveṣaṃ*)—brilliant
+- पनस्युं (*panasyuṃ*)—adorable
+- वः शर्धं (*vaḥ śardhaṃ*)—your host
+- आ हुवे (*ā huve*)—I invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, I invoke with prayer that host of yours, an ornament to the chariot, brilliant and adorable, in which the wife of Rudra, of divine birth and of auspicious form, stands together with the Maruts, worshipped and shining.
+
+### Printed p. 722
+
+##### English translation
+I invoke that, your cohort, gracing the chariot, brilliant and adorable, amidst which the rain-bestowing (goddess), of goodly origin, and auspicious, is worshipped together with the Maruts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk also the chariot of the Marut deities, Rodasī, the wife of Rudra, and the Marut host, all of them, are praised.
+
+मीळ्हुषी—मीळ्हुष्टम शिवतनु इत्यादौ दर्शनात् मीढ्वान् रुद्रः । तत्पत्नि मीळ्हुषी । (*mīḷhuṣī—mīḷhuṣṭama śivatanu ityādau darśanāt mīḍhvān rudraḥ | tatpatni mīḷhuṣī |*) In the Rudra chapter of the Taittirīya Saṃhitā (Tai. Saṃ. 4-5-10-4) it is said मीळ्हुष्टम शिवतनु (*mīḷhuṣṭama śivatanu*), so the word मीढ्वान् (*mīḍhvān*) denotes Rudra. The commentator has explained that मीळ्हुषी (*mīḷhuṣī*) means the wife of that Rudra, and in support of this he has cited the passage of the Āpastamba Gṛhya Sūtra
+
+उत्तरया दक्षिणस्यामीशानमावाहयति लौकिक्या वाचोत्तरस्यां मीळ्हुषीं मध्ये जयंतं ॥ (*uttarayā dakṣiṇasyāmīśānamāvāhayati laukikyā vācottarasyāṃ mīḷhuṣīṃ madhye jayaṃtaṃ ‖*) (Āsa. Gṛ. Sū. 20-1-3) **NOTE**
+
+and has shown that the word माळ्हुषीं (*māḷhuṣīṃ*) there denotes the wife of Rudra. **NOTE** Besides, in the 18th anuvāka of the second Prapāṭhaka of the part of the Kṛṣṇa Yajurveda called एकाग्नि कांड (*ekāgni kāṃḍa*):
+
+वाताजिरैरायाहि मम हन्याय शर्वोपस्पृशतु मीढ्वान् मीढुषे स्वाहोपस्पृशतु मीढुषी मीढुष्यै स्वाहा जयंतोपस्पृश जयंताय स्वाहा भवाय देवाय स्वाहा । (*vātājirairāyāhi mama hanyāya śarvopaspṛśatu mīḍhvān mīḍhuṣe svāhopaspṛśatu mīḍhuṣī mīḍhuṣyai svāhā jayaṃtopaspṛśa jayaṃtāya svāhā bhavāya devāya svāhā |*) (Tai. एकाग्नि कांड (*ekāgni kāṃḍa*). Pra. 2.18) **NOTE**
+
+in this Śruti sentence it is clear that the word माध्वान् (*mādhvān*) **NOTE** indicates Rudra and the word माधुषी (*mādhuṣī*) indicates the wife of Rudra.
+
+The fifty-seventh hymn. **NOTE**
+
+## Sūkta 57 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके षोडश सूक्तानि । तत्रा रुद्रास इत्यष्टर्चं प्रथमं सूक्तं
+> श्यावाश्वस्यार्षं मारुतं । सप्तम्यष्टम्या त्रिष्टुभौ शिष्टाः षट् जगत्यः। आ रुद्रासोऽष्टौ
+> द्वित्रिष्टुबंतमित्यनुक्रमणिका ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+In the fifth Anuvāka there are sixteen hymns. Of these, the first, the hymn with the word रुद्रास (*rudrāsa*), is of eight Ṛks; its seer is Śyāvāśva and its deity the Maruts. The seventh and the eighth Ṛks are in the Triṣṭubh metre; the remaining six are in the Jagatī metre. The Anukramaṇikā says: आ रुद्रासोऽष्टौ द्वित्रिष्टुबंतमित्यनुक्रमणिका ॥ (*ā rudrāso 'ṣṭau dvitriṣṭubaṃtamityanukramaṇikā ‖*). The application of the hymn is by indication (liṅga).
+
 ---
 
-**Progress note:** Done through printed p. 715. Vol 19 pp. 710-715: Rk 4 special topics end, Rks 5-7
+**Progress note:** Done through printed p. 722. Rk 5.56.8-9 with Special Topics on Rodasi; start of sukta 57
