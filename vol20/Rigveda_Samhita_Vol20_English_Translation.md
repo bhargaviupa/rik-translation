@@ -14970,11 +14970,7 @@ The flame of the showerer, (Agni), repeatedly descends like the hurled thunderbo
 
 #### Ṛk 6
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 ### Printed p. 437
-
-#### Ṛk 7
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
