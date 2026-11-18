@@ -13059,6 +13059,166 @@ Sāyaṇa explains that Atri, the Brahmin, saying "protect me here," engaged the
 
 The Brahman-knowing Atri, pressing Soma for Indra with the pressing-stones, worshipping the gods with hymns, adorning them with food in the form of oblation, Sūrya's
 
+### Printed p. 335
+
+disc-shaped eye (the radiance) in the sky; he removed the delusion-causing power of Svarbhānu.
+
+##### English translation
+Then the Brahman, 'Atri), applying the stones together, propitiating the gods with praise, and adoring them with reverence, placed the eye of Surya in the sky : he dispersed the delusions of Swarbhanu.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं वै सूर्यं॒ स्व॑र्भानु॒स्तम॒सा वि॑द्यदासु॒रः ।  
+> अत्र॑य॒स्तमन्व॑विंद न्न॒ह्य१॒॑गन्ने अश॑क्नुवन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । वै । सूर्यं । स्वःभानुः । तमसा । अविध्यत् । असुरः ।  
+> अत्रयः । तं । अनु । अविंदन् । नहि । अन्ये । अशक्नुवन् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रिकृतं सामर्थ्यमनुवदति यं वै सूर्यमिति । निगतव्याख्येषा। अत्रयस्तं
+> सूर्यमन्वविंदन् । इंद्रार्थं सोमयागदेवतास्तुतिनमस्कारैरनुक्रमेणेषदीपत्तमो विरुध्य लब्धवंत इत्यर्थः । अन्वे नह्यशक्नु वन् । न लब्धवंतः खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Ṛk restates what Atri accomplished: यं वै सूर्यं (*yaṃ vai sūryaṃ*). Its explanation is already given. The Atris found that Sūrya afterwards: for Indra, in the Soma sacrifice, by praise of the deities and by homage, one after another, they resisted the thick darkness **NOTE** and obtained him. Others were not able; they did not obtain him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं वै सूर्यं (*yaṃ vai sūryaṃ*)—which Sūrya
+- आसुरः (*āsuraḥ*)—the son of an asura
+- स्वर्भानुः (*svarbhānuḥ*)—Svarbhānu
+- तमसा (*tamasā*)—with pitch darkness
+- अविध्यत् (*avidhyat*)—covered and hid
+- तं (*taṃ*)—that Sūrya
+- अत्रयः (*atrayaḥ*)—the sages born in the family of Atri
+- अन्वविंदन् (*anvaviṃdan*)—obtained
+- अन्ये (*anye*)—others
+- नहि अशक्नु वन् (*nahi aśaknu van*)—were not able to do this work
+
+##### भावार्थ (Bhāvārtha)
+
+The sages born in the family of Atri obtained that Sūrya whom Svarbhānu, the son of an asura, had covered and hidden with pitch darkness. No others were able to do this great deed.
+
+### Printed p. 336
+
+##### English translation
+The sun, whom the Asura Swarbhanu, had enveloped with darkness, the sons of Atri subsequently recovered : no others were able (to effect his release).
+
+## Sūkta 41 (Maṇḍala 5)
+
+Deities: the Viśvedevas. Ṛks: 21.
+
+From this sūkta कोनु वां (*konu vāṃ*) onwards, the next eleven sūktas are addressed to the Viśvedevas. Who are the Viśvedevas? What is their nature? It is necessary to examine such matters here.
+
+को नु वां वैश्वदेवानि एकादश पराण्यतः (*ko nu vāṃ vaiśvadevāni ekādaśa parāṇyataḥ*)
+(Bṛ. De. 5-36)
+
+This statement of the Bṛhaddevatā, that beginning with the sūkta that starts with the mantra को नु वां मित्रावरुणौ (*ko nu vāṃ mitrāvaruṇau*) a total of eleven sūktas are sūktas praising the Viśvedevas, points to the matters praised in the eleven sūktas of the Ṛk-saṃhitā from the 41st sūkta of the fifth maṇḍala up to the 51st. This the Sarvānukramaṇī states as वैश्वदेवं वै तत् (*vaiśvadevaṃ vai tat*).
+Macdonell Brihad Dwata. English Translation. p. 175.
+
+It is not easy to state a precise view on the question what the Viśvedevas are. There are differences of opinion on whether the word means the assembly of all the deities, or a separate group of deities that indicates a definite number. But in the Ṛk-saṃhitā there is also a context in which, under the name of the groups of Viśvedevas, all the deities are clearly indicated.
+
+अविमा ये देवा स्तन त्रिष्वा रोचने दिवः । (*avimā ye devā stana triṣvā rocane divaḥ |*)
+(Ṛ. Saṃ. 1-185-5)
+
+Speaking of the very deities who are all indicated in this mantra as those of the three worlds, the Bṛhaddevatā says:
+
+### Printed p. 337
+
+बृहस्पतिप्रचोदिता विश्वेदेवगणास्त्रयः । जग्मुस्त्रितस्य तं यज्ञं भागांश्च जगृहुः सह ॥ (*bṛhaspatipracoditā viśvedevagaṇāstrayaḥ | jagmustritasya taṃ yajñaṃ bhāgāṃśca jagṛhuḥ saha ‖*)
+(Bṛ. Je. 1-136) **NOTE**
+
+All the deities, divided into three groups in the three worlds, Pṛthivī and the others, impelled by Bṛhaspati, came to the sacrifice of Trita and took part in it. Thus the word viśvadeva is explained as all the deities. The Śatapatha Brāhmaṇa also explains this same view:
+
+वैश्वदेवश्चतुर्थमहर्भवति । विश्वे वै सर्वॆ देवाः सर्वेषां देवानामास्मै वैश्वदेवा ग्रहा भवंति वैश्वदेव्यः परोरुचः सर्वं वैश्वदेवमसदिति ॥ (*vaiśvadevaścaturthamaharbhavati | viśve vai sarvè devāḥ sarveṣāṃ devānāmāsmai vaiśvadevā grahā bhavaṃti vaiśvadevyaḥ parorucaḥ sarvaṃ vaiśvadevamasaditi ‖*)
+(Śa. Brā. 13-7-1-6)
+
+The fourth day is that of the Vaiśvadevas. By Viśvedevas is meant all the deities. The aim is that on the fourth day their complete favour should be obtained. The Soma cups are the Vaiśvadeva cups. The groups called परोरुक् (*paroruk*) also serve to win the favour of all the deities. Therefore these cups must satisfy all the deities. And likewise:
+
+इति ह स्माह सत्यकामो जाबालो विश्वे वै सर्वॆ देवास्तदेनान्यथादेवतं प्रीणातीति (*iti ha smāha satyakāmo jābālo viśve vai sarvè devāstadenānyathādevataṃ prīṇātīti*)
+(Ṭa. Brā. 13-5-2-1) **NOTE**
+
+By Viśvedevas is meant all the deities. It is therefore stated plainly in the Śatapatha that Satyakāma Jābāla proclaimed that by this rite, which has the Viśvedevas as its deity, individual satisfaction is obtained for all the deities. Thus, although there is in some Vedic passages the view that the word applies to all the deities, in other places there is room for an alternative sense. For example:
+
+स नैन व्यभवत्स विशमसृजत यान्येतानि देवजातानि गणश आख्यायंते वसवो रुद्रा आदित्या विश्वे देवा मरुत इति । (*sa naina vyabhavatsa viśamasṛjata yānyetāni devajātāni gaṇaśa ākhyāyaṃte vasavo rudrā ādityā viśve devā maruta iti |*)
+(Bṛ. U. 1-4-12)
+
+Prajāpati, engaged in the work of creation, had not yet attained fullness of creation. Then he created the subjects and the deities who are indicated in the form of groups. They are the Vasus, the Rudras, the Ādityas and the Viśvedevas, and also the Maruts. Of these groups, the Vasus show a group of eight in number, the Rudras a group of eleven (11), the Ādityas a group of twelve (12), and the Maruts a group of seven. Having explained thus, Śaṅkarācārya in his commentary has given this meaning for the word Viśvedeva.
+[22] [Vol. 19]
+
+### Printed p. 338
+
+विश्वेदेवास्त्रयोदश विश्वाया अपत्यानि । सर्वे वा देवाः ॥ (*viśvedevāstrayodaśa viśvāyā apatyāni | sarve vā devāḥ ‖*)
+(Bṛ. U. Śaṃ. Bhā. 1-4-12)
+
+He has said that there is an alternative meaning: one meaning is the group of thirteen deities who are the sons of Viśvā, or else the other meaning is all the deities. It is not easy to say who this Viśvā is and how the status of her sons came to the deities. In the Saṃhitās and the rest she is not a very famous person. Only in the Bṛhaddevatā is her name stated, in one place.
+
+अदितिर्दितिदः नुः काला दनायुः सिंहिका मुनिः । क्रोधा विश्वा वरिष्ठा च सुरभिर्विनता तथा । कद्रूश्चैवेति दुहित्वाः कश्यपाय ददौ स च ॥ (*aditirditidaḥ nuḥ kālā danāyuḥ siṃhikā muniḥ | krodhā viśvā variṣṭhā ca surabhirvinatā tathā | kadrūścaiveti duhitvāḥ kaśyapāya dadau sa ca ‖*)
+(Bṛ. De. 5-144)
+
+Kaśyapa, the son of Marīci, had thirteen divine wives. They were: Aditi, Diti, Danu, Kālā, Danāyu, Siṃhikā, Muni, Krodhā, Viśvā, Variṣṭhā, Surabhi, Vinatā, Kadru. They were the daughters of Dakṣa. Dakṣa gave these thirteen maidens to Kaśyapa and married them to him.
+
+तासु देवासुराश्चैव गंधर्वोरगराक्षसाः (*tāsu devāsurāścaiva gaṃdharvoragarākṣasāḥ*)
+(Bṛ. De. 25-145) **NOTE**
+
+Of these daughters of Dakṣa were born gods, asuras, gandharvas, serpents, rākṣasas and others. Giving such details as that twelve sons were born to Aditi, it describes the order of birth of Agastya and Vasiṣṭha. In that very context:
+
+सर्वत्र पुष्करं तत्र विश्वे देवा आधारयन् (*sarvatra puṣkaraṃ tatra viśve devā ādhārayan*)
+(Bṛ. De. 5-125)
+
+It says that the Viśvedevas bore Vasiṣṭha, who was lying in a pushkara (lotus flower). Although it is said that Viśvā was a wife of Kaśyapa, it is not stated that the Viśvedevas were her sons. But the bearing of Vasiṣṭha, who lay in a pushkara, is also described in the Ṛk-saṃhitā.
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधि जातः । द्रप्सं स्कन्नं ब्रह्मणा दैन्वेन विश्वे देवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhi jātaḥ | drapsaṃ skannaṃ brahmaṇā dainvena viśve devāḥ puṣkare tvādadaṃta ‖*)
+(Ṛ. Saṃ. 7-23.)
+
+O Vasiṣṭha, you are the one born of Mitra and Varuṇa in Urvaśī. It says that the Viśvedevas bore you, who lay in a pushkara. Sāyaṇa has not said here who is meant by विश्वेदेवाः (*viśvedevāḥ*). The author of the Nirukta, giving the purport of this very passage,
+
+### Printed p. 339
+
+सर्वे देवाः श्वाधारयंत (*sarve devāḥ śvādhārayaṃta*)
+(Ni. 5-14)
+
+has taken विश्वे देवाः (*viśve devāḥ*) to mean all the deities as well. Only in the Matsya Purāṇa is it said, in one place, that the Viśvedevas are the sons of Viśvā, and that they are ten persons, namely Kratu, Dakṣa, Vasu, Satya, Kālakāma, Muni, Kuraja, Manuja, Vīja and Rocamāna. It praises them as worthy of worship in offerings to gods and ancestors. (Matsya. 203). The Mārkaṇḍeya Purāṇa says that they received a curse from Viśvāmitra. (Mārkaṇḍeya 7). But for the present we cannot settle the meaning of Vedic passages on the basis of the Purāṇas. In the Vedic passages the praise of the Viśvedevas is of three kinds. The Bṛhaddevatā states it thus:
+
+वैश्वदेवानि सूक्तानि त्रिविधानि भवंति तु । सूर्यसंस्तवसंयुक्तं विश्वलिंगं पृथक्स्तुति ॥ (*vaiśvadevāni sūktāni trividhāni bhavaṃti tu | sūryasaṃstavasaṃyuktaṃ viśvaliṃgaṃ pṛthakstuti ‖*)
+(Pṛ. Pe. 3-32) **NOTE**
+
+The sūktas that praise and pray to the Viśvedevas are of three kinds. Those sūktas that are combined with praises of Sūrya belong to the first class. Those sūktas that indicate and praise the general characteristics of all the deities belong to the second class. And again, praising an individual deity and extolling the individual qualities of each deity (पृथक् स्तुति (*pṛthak stuti*)) belongs to the third class.
+
+पृथक् स्तुतीति यत्प्रोक्तं तद्विद्याद्बहुदैवतं । विश्वलिंगं तु तद्यत्र विश्वैः स्वैः कर्मजैर्गुणैः ॥ (*pṛthak stutīti yatproktaṃ tadvidyādbahudaivataṃ | viśvaliṃgaṃ tu tadyatra viśvaiḥ svaiḥ karmajairguṇaiḥ ‖*)
+(Bṛ. Ve. 3-43) **NOTE**
+
+Of the three kinds of praises explained in the verse above, (1) सूर‍्यसंस्तवसंयुक्त (*sūryasaṃstavasaṃyukta*) (2) विश्वलिंग (*viśvaliṃga*) (3) पृथक् स्तुति (*pṛthak stuti*), the पृथक् स्तुति (*pṛthak stuti*) contains the individual praise of many deities. The stating of the general characteristics of the deities is the विश्वलिंग (*viśvaliṃga*). Stating this same point in another place, it explains what विश्वलिंग (*viśvaliṃga*) is.
+
+यषिभिर्देवताः सर्वा विश्वाभिः स्तुतिभिः स्तुताः । संज्ञा तु विश्वमित्येषा सर्वानाप्ता निपातिता ॥ (*yaṣibhirdevatāḥ sarvā viśvābhiḥ stutibhiḥ stutāḥ | saṃjñā tu viśvamityeṣā sarvānāptā nipātitā ‖*)
+(Bṛ. De. 2-134)
+
+### Printed p. 340
+
+All the deities are praised by the seers through praises that are combined and that describe the qualities common to all. The designation विश्व (*viśva*) is used in the sense of सर्वावाप्ति (*sarvāvāpti*). सर्वावाप्ति (*sarvāvāpti*) means containing everything within itself. According to this designation, विश्वे देवाः (*viśve devāḥ*) means that which includes all the deities. This is what is spoken of above by the designation विश्वलिंग (*viśvaliṃga*). In explaining the designation विश्वलिंग (*viśvaliṃga*), the author of the Nirukta has stated the view of Śākapūṇi, that only those sūktas praising the deities that are indicated by the word विश्व (*viśva*) are Vaiśvadeva sūktas. (Ni. 12-40)
+
+विश्वैः स्वैः कर्मजैर्गुणैः (*viśvaiḥ svaiḥ karmajairguṇaiḥ*) (3-43): it is said that the qualities common to the whole world are born of the individual actions of each deity. In this sense there is no great difference between the sūktas of the two groups, विश्वालिंग (*viśvāliṃga*) and पृथक् स्तुति (*pṛthak stuti*). How? Explaining what is meant by स्वकर्मज (*svakarmaja*), it indicates thus what the world-wide qualities born of one's own actions are.
+
+स्तूयंते देवता ह्यासु कर्मभिः स्वैः पृथक् पृथक् । स्तुताः कर्मगुणैः स्वैः स्वैर्देवता यत्र तत्र तु ॥ पृथक्कर्मस्तुतिर्नाम वैश्वदेवं तदेव तु । (*stūyaṃte devatā hyāsu karmabhiḥ svaiḥ pṛthak pṛthak | stutāḥ karmaguṇaiḥ svaiḥ svairdevatā yatra tatra tu ‖ pṛthakkarmastutirnāma vaiśvadevaṃ tadeva tu |*)
+(Bṛ. De. 6-69,70)
+
+Wherever the deities are praised by the description of their respective individual qualities and by their respective individual deeds, there is room for पृथक्कर्मस्तुति (*pṛthakkarmastuti*) (praise of individual deeds). Such praise is Vaiśvadevika.
+
+Thirdly, if one examines what is the nature of the Vaiśvadeva praise described by the statement सूर‍्यसंस्तवसंयुक्तं (*sūryasaṃstavasaṃyuktaṃ*), its nature is stated thus.
+
+विश्वानुद्दिश्य यद्देवान् स्तौति सूर्यमनेकधा । देवानेनाभिसंस्तौति तं प्राहुः सूर्यसंस्तवं ॥ (*viśvānuddiśya yaddevān stauti sūryamanekadhā | devānenābhisaṃstauti taṃ prāhuḥ sūryasaṃstavaṃ ‖*)
+(Bṛ. Je. 3-43) **NOTE**
+
+The mantra that, addressing the Viśvedevas, praises Sūrya greatly, and yet is mainly in praise of the deities, is called by the name सूरसंस्तव (*sūrasaṃstava*). But there is a lack of coverage for this rule in one or two places. For example:
+
+न तु भागस्य सूक्तादौ सूक्तेष्टेवौषसेषु वा । न सावित्रे ह्वयामीति न सूर्यायां क्रत्वा मखे ॥ (*na tu bhāgasya sūktādau sūkteṣṭevauṣaseṣu vā | na sāvitre hvayāmīti na sūryāyāṃ kratvā makhe ‖*)
+(Bṛ. De. 3-45)
+
 ---
 
-**Progress note:** Done through printed p. 334. Svarbhanu/Rahu discussion; Rk 6-8 of sukta 40 (Atri frees Surya)
+**Progress note:** Done through printed p. 340. Rk 9 of sukta 40; sukta 41 introduction (Visvedevas)
