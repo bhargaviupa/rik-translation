@@ -41,6 +41,7 @@ def suggest(w):
         if w in ('M.', 'म.', 'Ma.', 'ma.'): return ('M.', note + 'user, Nov 18 2026: M. / म. / Ma. is the Mahābhāṣya on a Pāṇini sūtra', 'high')
         if share >= 0.8: return ('M.', note + f'Mahābhāṣya (user: M. / म.); {round(100 * share)}% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)', 'medium')
     if re.search('[\u0900-\u097f]', w) and re.match(r'pā\. \S', base): return ('Pā. Sū.', note + 'user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)', 'high')
+    if w in ('Pā. Mabhā.', 'Pā. Mā.', 'Pā. Rū.', 'Pā. Saṃ.', 'Pā. su.', 'Pā. sū. Ma.', 'Pā. sū. ma.', 'Pā. sū. vārtti.'): return ('Pā. Sū.', note + 'user, Nov 18 2026: "Pāṇini sūtra as well" (the second word is a misreading or names the vārttika / Mahābhāṣya)', 'high')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
     if base == 'saṃ.' or (base != w and base == 'saṃ.'): return ('Ṛ. Saṃ.', note + 'user, Nov 18 2026: lower-case saṃ. (from ऋ/म सं.) is Ṛ. Saṃ.; NOT true for capital Saṃ.', 'medium')
