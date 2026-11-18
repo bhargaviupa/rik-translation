@@ -16936,6 +16936,222 @@ The holders of the (sacrificial) ladles, the ministrant priests of the man (who 
 - बृहते (*bṛhate*)—of mighty form
 - शुभ्यं (*śubhyaṃ*)—towards you **NOTE**
 
+### Printed p. 453
+
+- बृहत् (*bṛhat*)—abundant
+- वयः (*vayaḥ*)—food
+- सचंत (*sacaṃta*)—offering (to you), they serve
+- देवोदेवः (*devodevaḥ*)—every god also
+- मह्यं (*mahyaṃ*)—for me
+- सुहवो भूतु (*suhavo bhūtu*)—may he be entreated and called in an excellent manner
+- माता (*mātā*)—the maker of the world
+- पृथिवी (*pṛthivī*)—the Earth
+- नः (*naḥ*)—us
+- दुर्मतौ (*durmatau*)—with an evil mind
+- मा धात् (*mā dhāt*)—may she not place together
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers, worn thin by their rites alone and accompanied by their wives, offer abundant food to you of mighty form and serve you. May every god also be entreated and called in an excellent manner for me. May the Earth, the maker of the world, not place us together with an evil mind.
+
+##### English translation
+Married pairs, worn by devout rites, jointly offer abundant sacrificial food, Agni, to you who are mighty: may each individual divinity be successfully invoked by me : let them not take us into unfavourable thought.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रौ दे॑वा अनिबा॒धे स्या॑म ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरौ । देवाः । अनिबाधे । स्याम ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्याते द्वे ॥ (ई ऋक्किन मत्तु मुंदिन ऋक्किन भाष्यवन्नु हिंदिन सूक्तद कॊनॆय
+> ऎरडु ऋक्कुगळल्लिये हेळिदॆ).
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the two Ṛks have been explained. The printed note adds that the bhāṣya of this Ṛk and of the next was given in the last two Ṛks of the previous sūkta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- उरौ (*urau*)—exceedingly great
+- अनिबाधे (*anibādhe*)—in happiness free from hindrance
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may we be in happiness that is exceedingly great and free from hindrance.
+
+### Printed p. 454
+
+##### English translation
+May we ever, gods, enjoy great and uninterrupted felicity.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॒श्विनो॒रव॑सा॒ नूत॑नेन मयो॒भुवा॑ सु॒प्रणी॑ती गमेम ।  
+> आ नो॑ र॒यिं व॑हत॒मोत वी॒राना विश्वा॑न्यमृता॒ सौभ॑गानि ॥१७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अश्विनोः । अवसा । नूतनेन । मयःभुवा । सुप्रनीती । गमेनु ।  
+> आ । नः । रयिं । वहतं । आ । उत । वीरान् । आ । विश्वानि । अमृता । सौभगानि ॥१७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> (इदर भाष्यवु हिंदिन सूक्तद कॊनॆय ऋक्किनल्लिदॆ).
+
+##### Gist of the bhāṣya
+
+The bhāṣya of this Ṛk is stated to be in the last Ṛk of the previous sūkta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (वयं (*vayaṃ*))—we
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin gods
+- नूतनेन (*nūtanena*)—new (not found before anywhere)
+- मयोभुवा (*mayobhuvā*)—giving happiness
+- सुप्रणीती (*supraṇītī*)—of excellent guidance
+- अवसा (*avasā*)—together with protection
+- संगमेम (*saṃgamema*)—may we be joined
+- अमृता (*amṛtā*)—O Aśvins, free from the condition of mortality
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- आ वहतं (*ā vahataṃ*)—bring
+- आ उत (*ā uta*)—and also
+- वीरान् (*vīrān*)—heroic sons
+- आ (*ā*) (the verb वहतं (*vahataṃ*) understood)—bring
+- विश्वानि (*viśvāni*)—all
+- सौभगानि (*saubhagāni*)—blessings
+- आ (*ā*) (the verb वहतं (*vahataṃ*) understood)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+May we remain always joined with the protection of the Aśvin gods, which is new, that is, never experienced by anyone before, which gives happiness and is of excellent guidance. O Aśvin gods, free from the condition of mortality, bring to us wealth, heroic sons and all blessings.
+
+### Printed p. 455
+
+##### English translation
+May we ever be participant of the unprecedented, joy-conferring, and well-guiding protection of the Aswins: bring to us, immortal (Aswins), riches, male progeny, and all good things.
+
+## Sūkta 44 (Maṇḍala 5)
+
+The forty-fourth hymn.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं प्रत्नथेति पंचदशर्च० द्वादशं सूक्तं । अवत्सारो नाम ऋषिः स च
+> कश्यपगोत्रः । यास्वक्षु सदापृणबाहुवृक्तादयः श्रुतास्तासु तेऽपि समुच्चीयंते । चतुर्दशीपंचदशौ त्रिष्टुभौ शिष्टा स्त्रिष्टुबंतपरिभाषया जगत्यः । विश्वे देवा
+> देवता । अनुक्रांतं च । तं प्रत्नथा पंचोना काश्यपोऽवत्सारोऽन्ये च ऋषयोऽत्र गृष्टलिंगा द्वित्रिष्टुबंतमिति ॥ वाजपेयेऽतिरिक्कोष्ठ आदितस्त्रयोदशर्चः
+> शंसनीया: । सूत्रितं च । तं प्रत्नथेति त्रयोदशानामेकां शिष्टाहूय दूरोहणं रोहेत् । आ. ९, ९. । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तं प्रत्नथेति (*taṃ pratnatheti*) has fifteen Ṛks and is the twelfth sūkta. Its seer is Avatsāra, of the Kaśyapa gotra. In the Ṛks in which Sadāpṛṇa, Bāhuvṛkta and others are named, they too are included as seers. The fourteenth and fifteenth are Triṣṭubh; the rest are Jagatī, by the rule that the metre is Triṣṭubh at the end. The deity is the Viśvedevas. He cites the Anukramaṇikā: तं प्रत्नथा पंचोना काश्यपोऽवत्सारोऽन्ये च ऋषयोऽत्र गृष्टलिंगा द्वित्रिष्टुबंतमिति (*taṃ pratnathā paṃconā kāśyapo 'vatsāro 'nye ca ṛṣayo 'tra gṛṣṭaliṃgā dvitriṣṭubaṃtamiti*) **NOTE**. Use: in the Vājapeya, at the supplementary recitation वाजपेयेऽतिरिक्कोष्ठ (*vājapeye 'tirikkoṣṭha*) **NOTE**, the first thirteen Ṛks are to be recited. The sūtra says so: तं प्रत्नथेति त्रयोदशानामेकां शिष्टाहूय दूरोहणं रोहेत् (*taṃ pratnatheti trayodaśānāmekāṃ śiṣṭāhūya dūrohaṇaṃ rohet*) (Ā. 9, 9).
+
+Anuvāda: This sūkta, तं प्रत्नथा (*taṃ pratnathā*), is the twelfth sūkta in the third anuvāka. It has fifteen Ṛks. The seer of this sūkta is the one named Avatsāra, born in the Kaśyapa gotra; in whichever Ṛks of this sūkta the names of seers such as Sadāpṛṇa and Bāhuvṛkta are mentioned, they are the seers of those Ṛks; the deity is the Viśvedevas; the fourteenth and fifteenth Ṛks of this sūkta are in the Triṣṭubh metre, and the other Ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: तं प्रत्नथा पंचोना काश्यपोऽवत्सारोऽन्ने च ऋषयोऽत्र दृष्टलिंगा द्वित्रिष्टुबंतं (*taṃ pratnathā paṃconā kāśyapo 'vatsāro 'nne ca ṛṣayo 'tra dṛṣṭaliṃgā dvitriṣṭubaṃtaṃ*). In the sacrifice called Vājapeya, in the recitation of the atirikta mantras **NOTE**, the first thirteen Ṛks of this sūkta are to be recited; this is explained by the aphorism of the Āśvalāyana Śrauta Sūtra, तं प्रत्नथेति त्रयोदशानामेकां शिष्टाहूय दूरोहणं रोहेत् (*taṃ pratnatheti trayodaśānāmekāṃ śiṣṭāhūya dūrohaṇaṃ rohet*) (Ā. 9-9).
+
+### Printed p. 456
+
+- Sūkta 44
+- Maṇḍala 5, Anuvāka 3, Sūkta 44
+- Aṣṭaka 4, Adhyāya 2, Vargas 23, 24, 25
+- Number of Ṛks in the sūkta: 15
+- Seer: Anatsāra **NOTE**, Kāśyapa; and other seers whose marks are seen (dṛṣṭaliṅga)
+- Deity: the Viśvedevas
+- Metre: Ṛks 1-13 Jagatī; 14, 15 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिं बर्हि॒षदं॑  
+> स्व॒र्विदं॑ ।  
+> प्र॒ती॒ची॒नं वृ॒जनं॑ दोहसे गि॒राशुं जयं॑त॒मनु॒ यासु॒  
+> वर्ध॑से ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । प्रत्यथा । पूर्वथा । विश्वथा । इमथा । ज्येष्ठतातिं । बर्हिसदं ।  
+> स्वःविदं ।  
+> प्रतीचीनं । वृजनं । दोहसे । गिरा । आशुं । जयंतं । अनु । यासु । वर्धसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमुत्तरा च द्वे ऐंद्रा वित्याहुः । तत्रोपपत्तिमेवाहुः । तं प्रत्नथेत्येषा
+> शुक्रामंथिग्रहणे विनियुक्ता । ऐंद्रौ च शुक्रामंधिनौ । यदैंद्रं शंसति तेन
+> शुक्रामंथिना उक्तवंतौ । ऐ ब्रा. ३. १. इति हि ब्राह्मणं । अध्वर्युसंप्रैषोऽपि
+> भवति । प्रातःप्रातः सवस्य शुक्रवतो मधुश्चुत इंद्राय सोमान्प्रस्थितान्प्रेष्य ।
+> शत. ब्रा. ४. २. १. २३. । इति । प्रशास्त्रप्रैषश्च भवति । होता यक्षदिंद्रं प्रातः
+> प्रातः सावस्य । आ. ५. ५. । इत्यादि । प्रस्थिता इंद्राय सोमा इति याजा, चैंद्री ।
+
+##### Gist of the bhāṣya
+
+He says that this Ṛk and the next are called Aindra, and that what follows is the ground for it. This Ṛk, तं प्रत्नथे (*taṃ pratnathe*), is used in the taking of the Śukra and Manthin cups, and the two cups Śukra and Manthin belong to Indra. The Brāhmaṇa says: यदैंद्रं शंसति तेन शुक्रामंथिना उक्तवंतौ (*yadaiṃdraṃ śaṃsati tena śukrāmaṃthinā uktavaṃtau*) (Ai. Brā. 3. 1). There is also the Adhvaryu's injunction: प्रातःप्रातः सवस्य शुक्रवतो मधुश्चुत इंद्राय सोमान्प्रस्थितान्प्रेष्य (*prātaḥprātaḥ savasya śukravato madhuścuta iṃdrāya somānprasthitānpreṣya*) (Śata. Brā. 4. 2. 1. 23) **NOTE**, and the injunction of the Praśāstṛ: होता यक्षदिंद्रं प्रातः प्रातः सावस्य (*hotā yakṣadiṃdraṃ prātaḥ prātaḥ sāvasya*) (Ā. 5. 5) and so on; and "प्रस्थिता इंद्राय सोमा (*prasthitā iṃdrāya somā*)" is the yājyā **NOTE**, and the Aindrī is इदं ते सोम्यं मधु (*idaṃ te somyaṃ madhu*) (Ā. 5. 5). Therefore both are Aindra.
+
+### Printed p. 457
+
+> इदं ते सोम्यं मधु । आ. ५. ५. । इति । तस्माद्यंद्रौ ॥ तमिंद्रं प्रत्नथा पुरातना
+> यजमाना 'इव पूर्वथास्मदीयाः पूर्वे यथा विश्वथा विश्वे सर्वॆ प्राणिनो
+> यथेमथेम इदानीं वर्तमाना यजमानाः । ते यथेंद्रस्य स्तुत्या फलमलभंत
+> तद्वयमपि हे अंतरात्मन् त्वमपि ज्येष्ठतातिं ज्येष्ठं बर्हिषदं बर्हिषि सीदंतं
+> स्वर्विदं सर्वज्ञं सर्वस्य लंभयितारं ना प्रतीचीनं प्रत्यस्मदभिमुखमंचंतं
+> वृजनं । बलनामैतद्बलवति वर्तते । बलवंतमाशुं शीघ्रगामिनं व्याप्तं वा
+> जयंतं सर्वमभिभवंतमिंद्रं गिरा स्तुत्या साधनेन दोहसे । धुक्ष सर्वदा
+> सर्वान् कामान् । इत्यंतरात्मनः प्रैषः । यासु स्तुतिषु वर्धसे प्रवृद्धो भवसि
+> वर्धयसि वेंद्रं यया स्तुत्येति । यास्विति व्यत्ययेन बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+Him, Indra: as the ancient sacrificers, those before us, all creatures, and the sacrificers living now obtained the fruit by praising Indra, so we also; and you also, O inner self, extract by praise, as the means, from Indra, the eldest, seated on the sacred grass, the all-knowing, the bestower of everything, turned towards us, वृजनं (*vṛjanaṃ*) being a name for strength, so he is the strong one, swift or all-pervading, victorious, overcoming everything; milk always all desires. This is the injunction addressed to the inner self. In whichever praises you grow, or make Indra grow by whichever praise: the plural यास्विति (*yāsviti*) is by interchange of number.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रत्नथा (*pratnathā*)—the ancient sacrificers
+- पूर्वथा (*pūrvathā*)—our forefathers and others before us
+- विश्वथा (*viśvathā*)—all sacrificers
+- इमथा (*imathā*)—the great ones who are now living
+- तं (*taṃ*)—that same Indra (they praised him and obtained their desired ends); (O inner self, you also)
+- यासु (*yāsu*)—by which praises
+- अनु वर्धसे (*anu vardhase*)—you make Indra grow and you also obtain the growth that is its fruit; such
+- गिरा (*girā*)—by the means that takes the form of praise
+- ज्येष्ठतातिं (*jyeṣṭhatātiṃ*)—the eldest of all
+- बर्हिषदं (*barhiṣadaṃ*)—seated on the seat of darbha grass
+- स्वर्विदं (*svarvidaṃ*)—all-knowing
+- प्रतीचीनं (*pratīcīnaṃ*)—turned towards us
+- वृजनं (*vṛjanaṃ*)—strong
+- आशुं (*āśuṃ*)—swift
+- जयंतं (*jayaṃtaṃ*)—victorious Indra himself (worshipping him)
+- दोहसे (*dohase*)—(from him) cause all your desired ends to rain down
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient sacrificers, our forefathers and others before us, all sacrificers and the great ones now living praised that same Indra and obtained their desired ends. O inner self, you also, with the means that takes the form of praise, by which praises you make Indra grow and so obtain the growth that is its fruit, worship that same Indra, who is the eldest of all, seated on the seat of darbha grass, all-knowing, turned towards us, strong, swift and victorious, and cause all your desired ends to rain down from him.
+
+##### English translation
+In like manner as the ancient (sages), those our predecessors, as all sages, and those of the present period, (have obtained their wishes by his praise), so do you by praise extract (my desires) from him who is the oldest
+
+### Printed p. 458
+
+and best (of the gods), who is seated on the sacred grass, who is cognizant of heaven, coming to our presence, vigorous, swift, victorious, for by such praises you exalt him.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk and the next are said to be addressed to Indra. The Ṛk तं प्रत्नथा (*taṃ pratnathā*) is used as a preliminary recitation at the time of the taking of the Śukra-Manthin cup. There is a statement of the Aitareya Brāhmaṇa that when one recites this Ṛk addressed to Indra, the mantras that are to be recited for the Śukra-Manthin cup are thereby recited: यद्येंद्रं शंसति तेन शुक्रामंथिना उक्तवंतौ (*yadyeṃdraṃ śaṃsati tena śukrāmaṃthinā uktavaṃtau*) (Ai. Brā. 3-1).
+
+A little explanation is necessary here. In a sacrifice there is a custom of reciting the Prauga-śastra mantras for the increase of the sacrificer's food **NOTE**. In connection with these śastra mantras the mantras of nine cups are recited (a cup, graha, is a vessel for drinking Soma juice): the cups वायुग्रह (*vāyugraha*), इंद्रवायु ग्रह (*iṃdravāyu graha*), मैत्रावरुणग्रह (*maitrāvaruṇagraha*), आश्विनग्रह (*āśvinagraha*), शुक्रामंथिग्रह (*śukrāmaṃthigraha*), वैश्वदेवग्रह (*vaiśvadevagraha*), addressed to the deities named Sarasvatī and so on; there are nine cups, named उपांशु (*upāṃśu*), अंतर्याम (*aṃtaryāma*), वायव (*vāyava*), ऐंद्रवायव (*aiṃdravāyava*), मैत्रावरुण (*maitrāvaruṇa*), आश्विन (*āśvina*), शुक्र (*śukra*), आग्रयण (*āgrayaṇa*) **NOTE**. Among these the Ṛk तं प्रत्यथा (*taṃ pratyathā*) has its use in connection with the Śukra-Manthin cup. This Ṛk is also a praiṣa mantra that the Adhvaryu recites addressed to the Hotṛ. Since these matters belong to the Śrauta practice, we shall give further details on this when the Prauga-śastra mantras are explained later.
+
+Besides this, in the Śatapatha Brāhmaṇa there is also an indication of the praiṣa mantra on this Ṛk: प्रातः प्रातःसवस्य शुक्रवतो मधुश्चुत इंद्राय सोमान्प्रस्थितान् प्रेष्य (*prātaḥ prātaḥsavasya śukravato madhuścuta iṃdrāya somānprasthitān preṣya*) (Śa. Brā. 4-2-1-23). That this Ṛk is to be recited also as a Praśāstṛ-praiṣa mantra is explained by the aphorism of the Āśvalāyana Śrauta Sūtra होतायक्षदिंद्रं प्रातः प्रातस्सावस्य (*hotāyakṣadiṃdraṃ prātaḥ prātassāvasya*) (Ā. 5-5), and that it is to be recited addressed to Indra as the Prasthita-yājyā mantra by the aphorism of the Āśvalāyana Śrauta Sūtra इदं ते सोम्यं मधु (*idaṃ te somyaṃ madhu*) (Ā. 5-5).
+
+Yāska has given an etymology of this Ṛk: था इति च । तं प्रत्नथा पूर्वथा विश्वथेमथा । प्रत इव पूर्व इव विश्व इवेम इवेति अयमेततरोऽमुष्मात् । असावस्ततरोऽस्मात् । अमुथा यथासाविति वाख्यातं ॥ (*thā iti ca | taṃ pratnathā pūrvathā viśvathemathā | prata iva pūrva iva viśva ivema iveti ayametataro 'muṣmāt | asāvastataro 'smāt | amuthā yathāsāviti vākhyātaṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 452. Mandala 5 sukta 43 Rks 11-15, pp. 447-452
+**Progress note:** Done through printed p. 458. Mandala 5 sukta 43 Rks 15-17, sukta 44 Rk 1, pp. 453-458
