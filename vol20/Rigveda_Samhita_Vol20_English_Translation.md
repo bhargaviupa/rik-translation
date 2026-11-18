@@ -7571,6 +7571,256 @@ thundering smites the evil doers.
 
 The sūkta beginning अच्छा वद (*acchā vada*) has ten Ṛks and is the eleventh sūkta; its seer is Atri, son of Bhūmi. On it the Anukramaṇikā says: अच्छ दशात्रिः पार्जन्यमुपाद्यास्तिस्रो जगत्य उपांत्यानुष्टुबिति । (*accha daśātriḥ pārjanyamupādyāstisro jagatya upāṃtyānuṣṭubiti |*). The deity is Parjanya, and three Ṛks, beginning with the first, are Jagatī, the penultimate being Anuṣṭubh. The ninth Ṛk, यत्पर्जन्य (*yatparjanya*), is Anuṣṭubh; the three beginning वि वृक्षानि (*vi vṛkṣāni*) are Jagatī; the remaining six are Triṣṭubh. The deity is Parjanya. Ritual use: with this sūkta, or with each Ṛk, the directions are to be addressed. The sūtra says: संस्थितायां सर्वा दिश उपतिष्ठेताच्छा वद तवसं गीर्भिराभिरिति चतसृभिः प्रत्यृचं सूक्तेन वा । (*saṃsthitāyāṃ sarvā diśa upatiṣṭhetācchā vada tavasaṃ gīrbhirābhiriti catasṛbhiḥ pratyṛcaṃ sūktena vā |*) (Ā. 2-13). **NOTE**
 
+### Printed p. 204
+
+##### Anuvāda
+
+This sūkta beginning अच्छा वद (*acchā vada*) is the eleventh sūkta in the sixth anuvāka. It has ten Ṛks. The seer of this sūkta is Atri, the seer of the Maṇḍala. The deity is Parjanya. The ninth Ṛk of this sūkta, beginning यत्पर्जन्य (*yatparjanya*), is in the Anuṣṭubh metre. The three Ṛks beginning विवृक्षान् (*vivṛkṣān*) (Ṛks 2-4) are in the Jagatī metre. In the Anukramaṇikā it is said: अच्छ दशात्रिः पार्जन्यमुपाद्यास्तिस्रो जगत्त उपांत्यानुष्टुप् (*accha daśātriḥ pārjanyamupādyāstisro jagatta upāṃtyānuṣṭup*). With each Ṛk of this sūkta, or with the whole sūkta, an address (prayer) to the directions is to be made; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra संस्थितायां सर्वा दिश उपतिष्ठेताच्छा वद तवसं गीर्भिराभिरिति चतसृभिः प्रत्यृचं सूक्तेन वा (*saṃsthitāyāṃ sarvā diśa upatiṣṭhetācchā vada tavasaṃ gīrbhirābhiriti catasṛbhiḥ pratyṛcaṃ sūktena vā*) (Ā. 2-13).
+
+##### Particulars of the sūkta
+
+- Maṇḍala 5; Anuvāka 6; Sūkta 83
+- Aṣṭaka 4; Adhyāya 4; Varga 27, 28
+- Number of Ṛks in the sūkta: 10
+- Seer: Atri
+- Deity: Parjanya
+- Metre: Ṛks 1, 5-8 Triṣṭubh; Ṛks 2-4 Jagatī; Ṛk 9 Anuṣṭubh **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ वद त॒वसं॑ गी॒र्भिरा॒भिः स्तु॒हि प॒र्जन्यं॒ नम॒सा वि॑वास ।  
+> कनि॑क्रदद्वृष॒भो जी॒रदा॑नू॒ रेतो॑ दधा॒त्योष॑धीषु॒ गर्भं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । वद । तवसं । गीःभिः । आभिः । स्तुहि । पर्जन्यं । नमसा । आ । विवास ।  
+> कनिक्रदत् । वृषभः । जीरदानुः । रेतः । दधाति । ओषधीषु । गर्भं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतस्तवसं बलवंतं पर्जन्यमच्छाभिप्राप्य वद । प्रार्थय ॥ पर्जन्यशब्दो यास्केन बहुधा निरुक्तः । पर्जन्यस्तृपेराद्यंतविपरीतस्य तर्पयिता जन्यः
+> परो जेता ना जनयिता वा प्रार्जयिता वा रसानां । नि. १०-१० । इति ॥ आभिर्गिर्भिः
+
+##### Gist of the bhāṣya
+
+O praiser, go to the mighty Parjanya and speak, that is, pray. Sāyaṇa notes that the word parjanya has been explained in many ways by Yāska: पर्जन्यस्तृपेराद्यंतविपरीतस्य तर्पयिता जन्यः परो जेता ना जनयिता वा प्रार्जयिता वा रसानां । (*parjanyastṛperādyaṃtaviparītasya tarpayitā janyaḥ paro jetā nā janayitā vā prārjayitā vā rasānāṃ |*) (Ni. 10-10). आभिः (*ābhiḥ*) means with these words of praise (continued below).
+
+### Printed p. 205
+
+> स्तुतिवाग्भिः स्तुहि । नमसान्नेन हविर्लक्षणेना विवास । सर्वतः परिचर। यः पर्जन्यो
+> वृषभोपां वर्षिता जीरदानुः क्षिप्रदानः कनिक्रदत् गर्जनशब्दं कुर्वन्नोषधीषु
+> गर्भं गर्भस्थानीयं रेत उदकं दधाति स्थापयति तं स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+Praise him with these words of praise. With नमसा (*namasā*), that is, with food in the form of oblation, serve him on all sides. Parjanya, the bull, the one who rains the waters, जीरदानुः (*jīradānuḥ*), quick in giving, making the sound of thunder, कनिक्रदत् (*kanikradat*), places in the plants the germ, that is, the seed-like water standing in the place of an embryo: praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे स्तोतः (*he stotaḥ*)—O praiser
+- तवसं (*tavasaṃ*)—mighty
+- पर्जन्यं (*parjanyaṃ*)—the god Parjanya
+- अच्छ (*accha*)—approaching
+- वद (*vada*)—pray
+- अभिः गीर्भिः (*abhiḥ gīrbhiḥ*)—with these praises
+- स्तुहि (*stuhi*)—praise
+- नमसा (*namasā*)—with food in the form of oblation
+- आ विवास (*ā vivāsa*)—serve fully
+- वृषभः (*vṛṣabhaḥ*)—who pours rain
+- जीरदानुः (*jīradānuḥ*)—who quickly gives what is desired; such Parjanya
+- कनिक्रदत् (*kanikradat*)—making the sound of thunder
+- ओषधीषु (*oṣadhīṣu*)—in the plants (herbs and the like)
+- गर्भं (*garbhaṃ*)—standing in the place of an embryo
+- रेतः (*retaḥ*)—water
+- दधाति (*dadhāti*)—places
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, approach the mighty god Parjanya and pray. Praise him with these praises. Serve him fully with food in the form of oblation. Parjanya, who pours rain and quickly gives what is desired, making the sound of thunder places in the plants (herbs and the like) the water that stands in the place of an embryo.
+
+##### English translation
+Address the mighty Parjanya who is present : praise him with these hymns ; worship him with reverence, him who is the thunderer, the showerer, the bountiful. who impregnates the plants with rain.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि वृ॒क्षान् हं॑त्यु॒त हं॑ति र॒क्षसो॒ विश्वं॑ बिभाय॒ भुव॑नं  ॒॑
+> महानधात् ।  
+> उ॒ताना॑गा ईषते॒ वृष्णा॑वतो॒ यत्प॒र्जन्यः॑ स्त॒नय॒न् हंति॑  ॒॑
+> दुष्कृतः ॥ २ ॥
+
+### Printed p. 206
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । वृक्षान् । हंति । उत । हंति । रक्षसः । विश्वं । बिभाय । भुवनं । महावधात् ।  
+> उत । अनागाः । ईषते । वृष्ट्यवतः । यत् । पर्जन्यः । स्तनयन् । हंति । दुःकृतः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं मंत्रो निरुक्ते स्पष्टं व्याख्यातः । तदेवात्र लिख्यते । पर्जन्यो विहंति
+> वृक्षान्विहंति च रक्षांसि सर्वाणि चास्माद्भूतानि बिभ्यति महावधात् महान् ह्यस्य वधः।
+> अप्यनपराधो भीतः पलायते वर्षकर्मवतो यत्पर्जन्यः स्तनयन्यंति दुष्कृतः
+> पापकृतः । नि. १०-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this mantra is clearly explained in the Nirukta and writes down that same explanation here: पर्जन्यो विहंति वृक्षान्विहंति च रक्षांसि सर्वाणि चास्माद्भूतानि बिभ्यति महावधात् महान् ह्यस्य वधः। अप्यनपराधो भीतः पलायते वर्षकर्मवतो यत्पर्जन्यः स्तनयन्यंति दुष्कृतः पापकृतः । (*parjanyo vihaṃti vṛkṣānvihaṃti ca rakṣāṃsi sarvāṇi cāsmādbhūtāni bibhyati mahāvadhāt mahān hyasya vadhaḥ| apyanaparādho bhītaḥ palāyate varṣakarmavato yatparjanyaḥ stanayanyaṃti duṣkṛtaḥ pāpakṛtaḥ |*) (Ni. 10-11). Parjanya strikes down trees and strikes down demons; all beings fear him because of his great weapon, for great is his stroke; even the innocent man, afraid, runs away from the one who does the work of rain, when Parjanya, thundering, strikes the evil-doer, that is, the one who does sinful deeds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- वृक्षान् (*vṛkṣān*)—trees
+- वि हंति (*vi haṃti*)—throws down
+- उत (*uta*)—and
+- रक्षसः (*rakṣasaḥ*)—demons
+- हंति (*haṃti*)—destroys
+- महावधात् (*mahāvadhāt*)—with his great weapon
+- विश्वं भुवनं (*viśvaṃ bhuvanaṃ*)—the whole world
+- बिभाय (*bibhāya*)—frightens
+- यत् (*yat*)—when
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- स्तनयन् (*stanayan*)—thundering
+- दुष्कृतः (*duṣkṛtaḥ*)—sinners
+- हंति (*haṃti*)—kills (then)
+- वृष्ट्यवतः (*vṛṣṭyavataḥ*)—by this Parjanya, the maker of rain
+- उत अनागाः (*uta anāgāḥ*)—even the innocent
+- ईषते (*īṣate*)—(frightened) run away
+
+##### भावार्थ (Bhāvārtha)
+
+Parjanya throws down trees and destroys demons. With his great weapon he rebukes the whole world. When Parjanya, thundering, kills sinners, then even the innocent, frightened by this Parjanya, the maker of rain, run away.
+
+##### English translation
+He strikes down the trees, he destroys the Rakshasas, he terrifies the whole world by his mighty weapon : even the innocent man flies from the sender of rain, when Parjanya, thundering, slays the wicked.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this mantra Yāska has given the explanation: विहंति वृक्षान् विहंति च रक्षांसि सर्वाणि चास्मद्भूतानि बिभ्यति महावधान्महान् ह्यस्य वधोऽप्यनपराधो भीतः पलायते वर्षकर्मवतः यत्पर्जन्यः स्तनयन् हंति दुष्कृतः पापकृतः ॥ (*vihaṃti vṛkṣān vihaṃti ca rakṣāṃsi sarvāṇi cāsmadbhūtāni bibhyati mahāvadhānmahān hyasya vadho 'pyanaparādho bhītaḥ palāyate varṣakarmavataḥ yatparjanyaḥ stanayan haṃti duṣkṛtaḥ pāpakṛtaḥ ‖*) (Ni. 10-11).
+
+### Printed p. 207
+
+This god Parjanya strikes the trees and throws them down. And he also smites the demons. Seeing this kind of devastation (work of destruction) all beings are afraid. This work of slaying is very terrible. Even the innocent man, in great fear, seeing this terrible deed, runs away. The chief work of this Parjanya is indeed the pouring of rain. While pouring rain, appearing terrible with lightning and flashes and with a great roar, he strikes and kills those who do sinful deeds: this is the main purport. Here, because the thunderbolt strikes trees and beings and they are destroyed, this very matter is described here by the sentence that Parjanya strikes and kills the doers of sinful deeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथीव कशयाश्वा अभिक्षिपन्ना विर्दूतान्‌कृणुते वर्ष्यां ३ अह।  
+> दू॒रात्सिं॒हस्य॑ स्त॒नथा॒ उदी॑रते॒ यत्प॒र्जन्यः॑ कृणु॒ते व॒र्ष्य०१॒॑ १  ॑
+> नभः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथीऽइव । कशया । आश्वान् । अभिक्षिपन् । आविः । दूतान् । कृणुते । वर्ष्यान् ।  
+> अह ।  
+> दूरात् । सिंहस्य । स्तनथाः । उत् । ईरते । यत् । पर्जन्यः । कृणुते । वर्ष्यं ।  
+> नभः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथीव रथस्वामीव । स यथा कशयाश्वानभिक्षिपन् दूतान् भटानाविष्करोति
+> तद्वदसौ पर्जन्योऽपि कशयाश्वान्मेघानभिक्षिपन् अभिप्रेरयन् वर्ष्यान् वर्षकान्
+> दूतान् दूतवद्वृष्टिप्रेरकान्मेघान् मरुतो नाविष्कृणुते । प्रकटयति । अहेति
+> पूरणः । एवं सति सिंहस्य ॥ सहतेर्हिंसतेर्वा शब्दकर्मणः सिंहशब्दः ॥ अवर्षणेनाभिभवितुः शब्दयितुर्वा मेघस्य स्तनथा गर्जनशब्दा दूरादुदीरते । उद्दच्छंति ।
+> कदा ! यद्यदा पर्जन्यो नभोऽंतरिक्षं वर्ष्यं वर्षोपेशं कृणुते करोति तदा ॥
+
+##### Gist of the bhāṣya
+
+Like the master of a chariot: as he, urging the horses with the whip, makes his messengers, that is, his warriors, manifest, so this Parjanya also, urging with the whip the clouds, which are his horses, makes manifest the rain-giving messengers, that is, the clouds that like messengers impel the rain, the Maruts. अह (*aha*) is an expletive. This being so, from afar rise the thundering sounds of the cloud, which overpowers or sounds by not raining and which is called the lion, the word सिंह (*siṃha*) being from a root meaning to be strong or to injure, a root of the action of sound. When? When Parjanya makes the sky, नभः (*nabhaḥ*), that is, the atmosphere, rain-bearing.
+
+### Printed p. 208
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथीव (*rathīva*)—as a charioteer who drives the chariot strikes the horses with his whip and, bringing the warriors who are in the chariot, makes them visible to all, so (Parjanya also)
+- कशया (*kaśayā*)—with his whips
+- अश्वान् (*aśvān*)—the clouds
+- अभिक्षिपन् (*abhikṣipan*)—urging
+- वर्ष्यान् (*varṣyān*)—rain-making
+- दूतान् (*dūtān*)—those that are like messengers, the clouds
+- आविष्कृणुते (*āviṣkṛṇute*)—makes visible to all
+- यत् (*yat*)—when
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- नभः (*nabhaḥ*)—the atmosphere
+- वर्ष्यं (*varṣyaṃ*)—filled with rain
+- कृणुते (*kṛṇute*)—makes (then)
+- सिंहस्य (*siṃhasya*)—of the clouds that sound like a lion
+- स्तनथाः (*stanathāḥ*)—the sounds of thunder
+- दूरात् (*dūrāt*)—from afar
+- उदीरते (*udīrate*)—become manifest (are heard)
+
+##### भावार्थ (Bhāvārtha)
+
+As a charioteer who drives the chariot strikes the horses with his whip and, bringing the warriors who are in the chariot, makes them visible to all, so Parjanya also, urging the clouds with his whips, makes visible to all the clouds that make rain and are like messengers. When Parjanya fills the atmosphere with rain, then the thundering sounds of the clouds that sound like a lion are heard from afar.
+
+##### English translation
+As a charioteer, urging his horses with his whip, brings into view
+the messenger (of war), so Parjanya. (driving the clouds before him),
+make manifest the messengers of the rain: the roaring of the lion (like
+cloud) proclaims from afar that Parjanya overspreads the sky with
+rainy clouds.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वाता॒ वांति॑ प॒तयं॑तिवि॒द्युत॒ उदोष॑धी॒र्जिह॑ते॒ पिन्व॑ते॒ स्वः॑।  
+> इता॒ विश्व॑स्मै॒ भुव॑नाय जायते॒ यत्प॒र्जन्यः॑ पृथि॒वीं रेत॒साव॑ति॥
+
+### Printed p. 209
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वाताः । वांति । पतयंति । विद्युतः । उत् । ओषधीः । जिहते । पिन्वते । स्वगरिति स्वः ।  
+> इरा । विश्वस्मै । भुवनाय । जायते । यत् । सर्जन्यः । पृथिवीं । रेतसा । अवति ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवाता इति चतुर्थी पर्जन्यस्य चरोर्याज्या । सूत्रितं च । प्र वाता वांति
+> पतयंति विद्युत् इत्यग्न्याधेयप्रकृति । आ. २-१५ । इति ॥
+> प्रवांति वाता वृष्ट्यर्थं । पतयंति गच्छंति समंतात्संचरंति विद्युतः ।
+> ओषधीरोषधय उज्जिहते । उद्दच्छंति । प्रवर्धंते । स्वरंतरिक्षं पिन्वते । क्षरति ।
+> इरा भूमिर्विश्वस्यॆ सर्वस्मै भुवनाय सर्वजगद्धिताय जायते । समर्था भवति ।
+> कदैवमिति । यद्यदा पर्जन्यो देवः पृथिवीं रेतसोदकेनावति रक्षति अभिगच्छति ना
+> तदैवं भवति ॥
+
+##### Gist of the bhāṣya
+
+The fourth Ṛk, beginning प्रवाता (*pravātā*), is the yājyā in Parjanya's caru offering. The sūtra says: प्र वाता वांति पतयंति विद्युत् इत्यग्न्याधेयप्रकृति (*pra vātā vāṃti patayaṃti vidyut ityagnyādheyaprakṛti*) (Ā. 2-15). The winds blow forth for the sake of rain; the lightnings fly, that is, move about everywhere; the plants spring up, that is, rise and grow; the heaven, स्वः (*svaḥ*), the atmosphere, swells, that is, pours; Irā, the earth, becomes capable for the whole world, for the benefit of the whole universe. When is this so? When the god Parjanya protects the earth with seed, that is, with water; at that time it is so. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पर्जन्यः (*parjanyaḥ*)—the god Parjanya
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- रेतसा (*retasā*)—with water
+- अवति (*avati*)—makes fruitful and protects (then)
+- वाताः (*vātāḥ*)—the winds
+- प्र वांति (*pra vāṃti*)—blow strongly
+- विद्युतः (*vidyutaḥ*)—the lightnings
+- पतयंति (*patayaṃti*)—dart down from the atmosphere
+- ओषधीः (*oṣadhīḥ*)—the plants
+- उत् जिहते (*ut jihate*)—come forth and grow
+- स्वः (*svaḥ*)—the atmosphere
+- पिन्वते (*pinvate*)—becomes liquid
+- इरा (*irā*)—the earth
+- विश्वस्मै (*viśvasmai*)—for all
+- भुवनाय (*bhuvanāya*)—the world
+- जायते (*jāyate*)—becomes fit (as a dwelling-place)
+
+##### भावार्थ (Bhāvārtha)
+
+When the god Parjanya makes the earth fruitful with water and protects it, then the winds blow strongly. The lightnings dart down from the atmosphere. The plants come forth. The atmosphere becomes liquid. The earth becomes a fit dwelling-place for the whole world.
+
+##### English translation
+The winds blow strong, the lightning flash, the plants spring up, the
+the firmament dissolves : earth becomes (fit) for all creatures when Parjanya
+fertilizes the soil with showers.
+
 ---
 
-**Progress note:** Done through printed p. 203. Ṛk 9 bhāṣya and notes; Sūkta 83 introduction on Parjanya and Sāyaṇa intro, pp. 198-203
+**Progress note:** Done through printed p. 209. Sūkta 83 anuvāda, particulars, Ṛks 1-4, pp. 204-209
