@@ -25,3 +25,5 @@ Built (799 pp.) with `publish/build.py 3 full`; `publish/out/vol3_full.pdf`.
 
 ## Pointers
 `vol3/README.md`, `vol3/vol3_runbook.md`, `vol3/Session_Report_Vol3_Sukta29-32.md`.
+
+- **Nov 18 2026, glosses (T12):** 12 more labelled glosses replaced by the marker `**GLOSS**` (35 markers in the volume now; removed text in `review/glosses_removed.tsv`, 13 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
