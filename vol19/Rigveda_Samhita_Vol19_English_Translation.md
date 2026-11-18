@@ -13866,6 +13866,208 @@ In this verse the Kaṇvas are entreated to praise Agni joined with the Maruts. 
 
 (5) Fifth, not only the direct relation between Trita and Agni, but the identity between Trita and Agni is the main point. In this context the question naturally arises whether any main quality that applies to no other deity is well known as showing a common property of Trita and Agni. In answer to this, one may say freely that such a common property is well known. The epithet आप्त्य (*āptya*) is used in the Ṛk-saṃhitā in ten contexts only with reference to Trita. Sāyaṇa, in the introduction to the sūkta Ṛ. Saṃ. 1-105, says that the derivation "Āptya, because he was manifested from the waters (water)" is stated in the Taittirīya Brāhmaṇa too:
 
+### Printed p. 367
+त्रितस्य चापां पुत्रत्वं तैत्तीरियाः स्पष्टमामनंति । ततस्ति तोऽजायत । यदद्भ्योऽजायंत । तदास्यानामाप्यत्यं ॥ (*tritasya cāpāṃ putratvaṃ taittīriyāḥ spaṣṭamāmanaṃti | tatasti to 'jāyata | yadadbhyo 'jāyaṃta | tadāsyānāmāpyatyaṃ ‖*) (Tai. Brā. 3-2-8-11)
+
+Sāyaṇa has cited just this Brāhmaṇa sentence. Because he was born from the waters, he became Āpya. But how does the derivation of the form Āptya arise? Sāyaṇa has given the answer elsewhere, that it is Vedic usage. Sentences such as त्रितस्तद्वेदात् (*tritastadvedāt*) and so on are the illustrations (1-105-9 etc.). That Agni too has manifested from the waters is well known, with accounts in many places. O Agni, you are kindled in the firmament, the abode of the waters (अग्ने अपां समिध्यसे दुरोणे (*agne apāṃ samidhyase duroṇe*)). (Ṛ. Saṃ. 3-25-5) When Agni, held by the waters, occupies them, then the streams of water, in the dwelling-place of Āditya, their place of origin, are pervaded by his rays and receive a new refinement. Afterwards Agni, who is in the form of lightning, unites and joins with the waters. (अपामुपस्थे विभृतः (*apāmupasthe vibhṛtaḥ*) Ṛ. Saṃ. 1-144-2).
+
+The hotṛ who knows the sky is stationed in the lap of the waters in the form of lightning (10-46-1). The Bhṛgu seers realised Agni, who stands in the midst of the waters, and established him among men. (10-46-2; 2-4-2). निधीयमानपमगूळ्मप्पु प्र मे देवानां व्रतपा उवाच ॥ (*nidhīyamānapamagūḷmappu pra me devānāṃ vratapā uvāca ‖*) The great seer who knew the secret of the gods told me that Agni is within the waters. (18-32-6)**NOTE**
+
+Thus the account that Agni too is born of the waters, and the account that Trita, being born of the waters, is Āptya, both tell in the same way of an origin from the waters of the firmament; so there is no doubt that both accounts convey the very nature of the lightning-fire.
+
+In the same way the epithet Apāṃ Napāt too conveys the nature of the lightning-fire. How? अपां नपादा ह्यस्थादुपस्थं जिह्मानामूर्ध्वो विद्युत्व वसानः । तस्य ज्येष्ठं महिमानं वहंतीर्हिरण्यवर्णाः परि यंति यह्वीः ॥ (*apāṃ napādā hyasthādupasthaṃ jihmānāmūrdhvo vidyutva vasānaḥ | tasya jyeṣṭhaṃ mahimānaṃ vahaṃtīrhiraṇyavarṇāḥ pari yaṃti yahvīḥ ‖*) (Ṛ. Saṃ. 2-35-9)
+
+### Printed p. 368
+Clothed in a garment of lightning, the son of the waters stands within the shining waters. In his own form he is golden-hued and exceedingly attractive. The sentences quoted above show the identity of Trita Āptya with the fire named Apāṃnapāt. Both epithets are descriptions of the nature of the lightning-fire that dwells in the firmament. As has been said above, it can be stated with certainty that Trita, the Kaṇva hotṛ indicated in the mantra under discussion, is none other than this lightning-fire.
+
+6) Just as the identity of Trita and Varuṇa has been shown, there are also many sentences showing the identity of Agni and Varuṇa. For example: I have known the face of Agni to be the face of Varuṇa. (अनीकं वरुणस्य मंसि (*anīkaṃ varuṇasya maṃsi*) Ṛ. Saṃ. 7-88-2).
+
+7) युवमेतानि दिवि रोचनान्यग्निश्च सोम सक्रतू अधत्तं । (*yuvametāni divi rocanānyagniśca soma sakratū adhattaṃ |*) (Ṛ. Saṃ. 1.93-5)
+
+O Agni and Soma, you two are of like action. These shining star-systems, visible to our eyes, you two together have lifted up in the heaven. In sentences such as these, the relation between Agni and Soma is stated in the same way as the relation between Trita and Soma was shown above.
+
+8) Lastly, just as Trita is described as hidden in a place beyond sight, so Agni too is praised. त्वामग्ने अंगिरसो गुहा हितमन्वदिंदञ्छायाणं वनेवने । (*tvāmagne aṃgiraso guhā hitamanvadiṃdañchāyāṇaṃ vanevane |*) (Ṛ. Saṃ. 5.10-6) (Ṛ. Saṃ. 51-6)**NOTE**
+
+O Agni, the Aṅgirases found you hidden in a secret place.
+
+बृहंत इद्वानवो भाय्जीकमग्निं सचंत विद्युतो न शुक्राः । गुहेव वृद्धं सदसि स्वे अंतरपार ऊर्वे अमृतं दुहानाः ॥ (*bṛhaṃta idvānavo bhāyjīkamagniṃ sacaṃta vidyuto na śukrāḥ | guheva vṛddhaṃ sadasi sve aṃtarapāra ūrve amṛtaṃ duhānāḥ ‖*) (Ṛ. Saṃ. 3-1-14)
+
+Great lights, like the gleams of lightning, served Agni who stood in a secret place. And so on: this is a description of Agni as hidden in a place beyond sight.
+
+Thus, having set out the common qualities of Trita and Agni, it has been shown that the sentences of the Ṛk-saṃhitā themselves are clear proofs for establishing that Trita is none other than the lightning-fire. Other sentences of the Brāhmaṇas and the like, which help to confirm this very point, have also been quoted above.
+
+### Printed p. 369
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ र॒यिं यु॒क्ताश्वं॑ भरध्वं रा॒य एषेऽव॑से दधीत॒  
+> धीः ।  
+> सु॒शेव॒ एवै॑रौशि॒जस्य॒ होता॒ ये व॒ एवा॑ मरुतस्तु॒राणां॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । रयिं । युक्त अश्वं । भरध्वं । रायः । एषे । अवसे । दधीत । धीः ।  
+> सुशेवः । एवैः । औशिजस्य । होता । ये । वः । एवाः । मरुतः । तुराणां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो यूयं रयिं धनं युक्ताश्वमश्वसहितमश्वयोग्यं
+> पुत्रं वा प्र भरध्वं । संपादयत । रायो धनानि गवाश्वादिलक्षणान्येषे प्राप्तं ।
+> अवसे । अव इत्यन्ननाम । अन्नाय प्राप्तानां धनानां रक्षणाय वा धीः स्तोता
+> दधीत । धारयति स्तुतिं । स चौशिजस्य कक्षीवतो होतात्रिरेनैर्गंतवैः कामैर्गमनसाधनैरश्वैर्वा सुशेवः । शेवमिति सुखनाम । सुसुखो भवतु । हे मरुतस्तुराणां त्वरमाणानां वो युष्माकं य एवाः कामा अश्वा ना संति तैरिति ॥
+
+##### Gist of the bhāṣya
+
+Maruts, you bring wealth that is yoked with horses, that is, wealth accompanied by horses, or a son fit for horses: provide it. The riches, that is, wealth in the form of cattle, horses and the like, have been obtained. अव (*ava*) is a name for food; so for food, or for the protection of the wealth that has been obtained, the praiser holds, that is, offers, his praise. And may the hotṛ Atri, of Auśija Kakṣīvat, be well happy (शेवमिति सुखनाम (*śevamiti sukhanāma*), "śeva" is a name for happiness), through the objects of desire that are means of going, or through horses. Maruts, who are swift, he says, the desires or horses of you swift ones are the means.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you
+- रयिं (*rayiṃ*)—wealth
+- युक्ताश्वं (*yuktāśvaṃ*)—so that it is accompanied by horses
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure and give
+- रायः (*rāyaḥ*)—(new) riches
+- एषे (*eṣe*)—for obtaining
+- अवसे (*avase*)—for protecting (what one has)
+- धीः (*dhīḥ*)—the praise (that praises you)
+- दधीत (*dadhīta*)—composes and recites
+- मरुतः (*marutaḥ*)—O Maruts
+- तुराणां (*turāṇāṃ*)—swift-going
+- वः (*vaḥ*)—your
+- ये एवाः (*ye evāḥ*)—whatever swift-moving horses there are
+- एवैः (*evaiḥ*)—with those same horses
+- औशिजस्य (*auśijasya*)—of Kakṣīvat
+- होता (*hotā*)—the hotṛ, Atri
+- सुशेवः (*suśevaḥ*)—may he obtain excellent happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, procure for us wealth accompanied by horses. Both for obtaining new riches and for preserving what we have, the praiser composes and recites praise that extols you. O Maruts, may the hotṛ Atri, of Kakṣīvat, obtain excellent happiness together with the horses that belong to you, the swift-going, and that move swiftly.
+
+### Printed p. 370
+
+##### English translation
+Maruts, you bring wealth comprising horses: to acquire and preserve riches the wise man offers you praise: may the ministrant priest, (Atri), of the son of Ushij (Kakshivat), be made happy by those swift-going (horses) which are the swift.going (horses), Maruts, of you who are rapid in motion.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ वा॒युं र॑थ॒युजं॑ कृणुध्वं॒ प्र दे॒वं विप्रं॑  ॒॒॑
+> पनि॒तार॑म॒र्कैः ।  
+> इ॒षु॒ध्यव॑ ऋत॒सापः॒ पुरं॑धी॒र्वस्वी॑र्नो॒ अत्र॒ पत्नी॒रा धि॒ये  ॑
+> धुः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । वायुं । रथ्ययुजं । कृणुध्वं । प्र । देवं । विप्रं । पनितारं । अर्कैः।  
+> इषुध्यवः । ऋत्यसापः । पुरंधीः । वस्वीः । नः । अत्र । पत्निः । आ । धिये। धुरिति धुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो वायुमिति षष्ठी वायव्ये पशौ हविषो याज्या । प्र वो वायुं
+> रथयुजं कृणुद्धमुत त्वामदिते महि । आ. ३-८ । इति सूत्रितं ॥
+> हे मदीया ऋत्विजो वो यूयं वायुं वायुदेवं रथयुजं
+> यज्ञगमनाय रथसंबद्धं कृणुध्वं । कुरुध्वं । प्र देवं द्योतमानं विप्रं
+> विशेषेण कामानां पूरकं विप्रवत्पूज्यं वा पनितारं ॥ कर्मणि कर्तृप्रत्ययः ॥
+> स्तुतमित्यर्थः । फलप्रदातारं वा अर्कैरर्चनसाधनैर्मंत्रैः प्र कृणुध्वं । स्तुत ।
+> किंचेषुध्यवो गंत्र्य ऋतसापो यज्ञस्पृशः पुरंधीः पुरंध्यः स्त्रीरूपा रूपवत्यो
+
+##### Gist of the bhāṣya
+
+The sixth Ṛk is the yājyā for the oblation in the animal sacrifice to Vāyu; it is prescribed by the sūtra प्र वो वायुं रथयुजं कृणुद्धमुत त्वामदिते महि (*pra vo vāyuṃ rathayujaṃ kṛṇuddhamuta tvāmadite mahi*) (Ā. 3-8). O priests who are mine, make Vāyu, the god, yoked to the chariot for going to the sacrifice. Praise with hymns, that is, with the mantras that are means of worship, the shining one, the vipra, who is the special fulfiller of desires or is worshipful like a vipra, the one who is to be praised, or the giver of fruit. Moreover, the goers, those who touch the sacrifice, the women of fair form, or the excellent, praiseworthy wives, the wives of the gods,
+
+### Printed p. 371
+
+> वा वस्वीः प्रशंस्याः पत्नीर्देवपत्न्योऽत्रास्मिन्यज्ञे नोऽस्मदीयाय धीये
+> कर्मणे तन्निस्सत्तय आ धुः । आगतवत्यः ॥
+
+##### Gist of the bhāṣya
+
+in this sacrifice, for our rite, to accomplish it,**NOTE** may come: so he says, आगतवत्यः (*āgatavatyaḥ*), "they who have come".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O priests)
+- वायुं (*vāyuṃ*)—Vāyu
+- रथयुजं (*rathayujaṃ*)—so that he makes ready his chariot (for going to the sacrifice)
+- कृणुध्वं (*kṛṇudhvaṃ*)—make
+- देवं (*devaṃ*)—the shining
+- विप्रं (*vipraṃ*)—the special fulfiller of desired ends
+- पनितारं (*panitāraṃ*)—the praiseworthy Vāyu
+- अर्कैः (*arkaiḥ*)—with hymns of praise
+- प्र (*pra*)—praise
+- इषुध्यवः (*iṣudhyavaḥ*)—the goers
+- ऋतसापः (*ṛtasāpaḥ*)—those who accept the sacrificial rite
+- पुरंधीः (*puraṃdhīḥ*)—those of woman's form
+- वस्वीः (*vasvīḥ*)—the praiseworthy
+- पत्निः (*patniḥ*)—the wives of the gods
+- अत्र (*atra*)—in this sacrifice
+- नः (*naḥ*)—our
+- धिये (*dhiye*)—for the sake of the rite
+- आ धुः (*ā dhuḥ*)—may they come
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, cause Vāyu to make ready his chariot for going to the sacrifice. Praise with hymns Vāyu, the shining one, the special fulfiller of desired ends, the praiseworthy. May the goers, the acceptors of the sacrifice, the wives of the gods, of woman's form and praiseworthy, come to this sacrifice for the sake of our rite.
+
+##### English translation
+Prevail, (priests), by your prayers, on Vayu, the divine, the fulfiller of desires, the adorable, to harness his chariot: may the light-moving accepters of sacrifice, the lovely and excellent wives (of the gods), come hither to our rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, प्र वो वायुं (*pra vo vāyuṃ*), is to be recited as the yājyā mantra when the oblation is offered in the animal sacrifice made for the deity Vāyu; it is prescribed by the sūtra of the Āśvalāyana Śrauta Sūtra, प्र वो वायुं रथयुजं कृणुध्वमुत त्वामदिते महि (*pra vo vāyuṃ rathayujaṃ kṛṇudhvamuta tvāmadite mahi*) (Ā. 3-8).
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ व॒ एषे॒ वंद्ये॑भिः शू॒ष्यैः प्र य॒ह्वी दि॒वश्चि॒तय॑द्भिर॒र्कॆः
+
+### Printed p. 372
+
+> उषासानक्ता विदुषीव विश्वमा हा वहतो मर्त्याय  
+> यज्ञं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । वः । एषे । वंद्येभिः । शूषैः । प्र । यह्वी इति । दिवः । चितयत्भिः । अर्कैः ।  
+> उषसानक्ता । विदुषी इवेति विदुषीऽइव । विश्वं । आ । ह । वहतः । मत्याय ।  
+> यज्ञं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषासानक्ता अहोरात्राभिमानिदेवते यह्वी महत्यौ वंद्येभिर्वंदना.
+> र्हैरितरैर्देवैः सह दिवोऽंतरिक्षादविशेषेण सर्वप्रदेशाद्वो युष्मभ्यमुप प्रैषे।
+> उपप्रापयामि हविः ॥ ईषिः प्रापणकर्मा सादुपप्राभिः समन्वितः ॥ शूषैः सुखकरैः
+> चितयद्भिर्ज्ञापयद्धिरर्कैर्मंत्रैः सहोपप्रापयामि । हे उक्तदेवते विश्वं
+> सर्वं कर्तव्यजातं विदुषी इव जानत्याविन मर्त्याय यजमानाय यज्ञमा
+> वहतः । अभिमुखं प्रापयतः । हेति पूरणः । यद्वा । शूषैरित्यादीनि तृतीयाबहुवचनांतानि वंद्येभिरित्यस्य विशेषणानीति केचिदाहुः ॥
+
+##### Gist of the bhāṣya
+
+O Uṣāsānaktā, deities presiding over day and night, you who are great: together with the other gods who are worthy of salutation, from the sky, that is, the firmament, from every region without exception, I bring to you the oblation, together with mantras that give comfort and make known. O deities so named, as though knowing all that is to be done, the two carry the sacrifice to the mortal, the sacrificer; they bring it face to face. The word ह (*ha*) is a filler. Or else: some say that शूषैः (*śūṣaiḥ*) and the other words in the instrumental plural are epithets of वंद्येभिः (*vaṃdyebhiḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यह्वी (*yahvī*)—of great nature
+- उषासानक्ता (*uṣāsānaktā*)—O deities of day and night
+- दिवः (*divaḥ*)—dwelling in the firmament
+- नंद्येभिः (*naṃdyebhiḥ*)—together with the other gods who are worthy of worship
+- वः (*vaḥ*)—to you
+- शोषैः (*śoṣaiḥ*)—comfort-giving
+- चितयद्भिः (*citayadbhiḥ*)—full of knowledge
+- अर्कैः (*arkaiḥ*)—accompanied by mantras
+- उप प्र एषे (*upa pra eṣe*)—I offer (the oblations, O gods)
+- विदुषी इव (*viduṣī iva*)—like wise and learned women
+- विश्वं (*viśvaṃ*)—all matters of the rite (you being knowers of them)
+- मर्त्याय (*martyāya*)—to the sacrificer, a man
+- यज्ञं (*yajñaṃ*)—so that it becomes the means of his sacrifice
+- आ वहतः (*ā vahataḥ*)—bring that knowledge
+
+##### भावार्थ (Bhāvārtha)
+
+O deities of day and night, of great nature: together with the other gods who dwell in the firmament and are worthy of worship, I offer to you oblations accompanied by comfort-giving and knowledge-filled mantras. O gods, like wise and learned women, knowing all matters of the rite, bring to the human sacrificer that knowledge, so that it becomes the means of his sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 366. pp. 360-366: special topic on Trita, Kaṇvahotā; Agni parallels
+**Progress note:** Done through printed p. 372. Vol 19 pp. 367-372: end of Trita/Agni special topics; M5 S41 Rk 5-7
