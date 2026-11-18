@@ -22294,6 +22294,270 @@ The Maruts, leaders and great-souled, shine with their golden ornaments and with
 ##### English translation
 Leaders (of the rains), the mighty Maruts shine with brilliant ornaments and weapons, and hurl javelin (at their foes, the clouds): the
 
+### Printed p. 614
+
+lightnings, like roaring (torrents), daily follow the Maruts: the radiance of the resplendent (cohort) spontaneously breaks forth,
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये वा॑वृ॒धंत॒ पार्थि॑वा॒ य उ॒रावं॒तरि॑क्ष॒ आ ।  
+> वृ॒जने॑ ना न॒दीनां॑ स॒दस्ये॑ वा म॒हो दि॒वः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । नवृधंत । पार्थिवाः । ये । उरौ । अंतरिक्षे । आ ।  
+> वृजने । वा । नदीनां । सधस्थे । वा । महः । दिवः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतः पार्थिवाः पृथिवीसंबद्धाः संतो ववृधंत वर्धंते । ये चोर्
+> महत्यंतरिक्षे च ववृधंत । आ इति चार्थे । नदीनां नदनवतीनां वृजने ना बले
+> ववृधंत । महो महतो दिवो द्युलोकस्य सधस्थे सहस्थाने च ववृधंत । उभयत्र
+> वाशब्दश्चार्थे । एवं सर्वत्र वर्धमाना मरुतो वृष्ट्यर्थमृष्टीरसृक्षतेति पूर्वत्र
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts who, being connected with the earth, increase; and those who increase also in the vast atmosphere. The word आ (*ā*) is used in the sense of "and" (आ इति चार्थे (*ā iti cārthe*)). They increase also in the strength (बले (*bale*)) of the rivers, that is, of the resounding ones; and in the common abode (सहस्थाने (*sahasthāne*)) of the great heaven-world. In both places the word वा (*vā*) is used in the sense of "and". Thus the Maruts, growing everywhere, hurl their spears for the sake of rain: this is the connection with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पार्थिवाः (*pārthivāḥ*)—those who dwell on the earth
+- ये (*ye*)—whichever Maruts there are, they
+- ववृधंत (*vavṛdhaṃta*)—attain increase
+- उरौ (*urau*)—vast
+- अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
+- ये (*ye*)—whoever there are
+- आ (*ā*)—they too attain increase
+- नदीनां (*nadīnāṃ*)—of the rivers, which are of the nature of floods
+- वृजने वा (*vṛjane vā*)—in the speed, whoever are there, they too
+- महः (*mahaḥ*)—great
+- दिवः (*divaḥ*)—of the heaven-world
+- सधस्थे (*sadhasthe*)—in the abode, whichever Maruts there are, all of them too gain increase
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts who dwell on the earth, those who dwell in the atmosphere, those who produce the speed of the rivers that are of the nature of floods, and whichever Maruts dwell in the great heaven-world: all of them gain increase.
+
+### Printed p. 615
+
+##### English translation
+The Maruts, who are of the earth are augmented, so are those in the vast firmament; they increase in the force of the rivers, and in the aggregate of the spacious heaven.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शर्धो॒ मारु॑त॒मुच्छं॑स स॒त्यश॑वस॒मृभ्व॑सं ।  
+> उ॒त स्म॒ ते शु॒भे नरः॒ प्र स्क्॒यंद्रा यु॑जत॒ त्मना॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शर्धः । मारुतं । उत् । शंस । सत्यशवसं । यभ्वसं ।  
+> उत । स्त । ते । शुभे । नरः । प्र । स्कंद्राः । युजत । त्मना ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतर्मारुतं शधर्ण बलमुत् उत्कृष्टं शंस । स्तुहि । कीदृशं शर्धः।
+> सत्यशवसं सत्यवेगमृभ्वसं महदतिप्रवृद्धं । उत स्मापि च नरो वृष्टेर्नेतारस्ते
+> मरुतः शुभ उदकार्थं प्र युजत प्रायुंजत समयोजयन् त्मनात्मनैव जगद्रक्षाबुद्धैव स्यंद्राश्चलनस्वभावाः पृषतीरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praiser, praise the might (शर्धः (*śardhaḥ*), strength) of the host of Maruts, excellently (उत् (*ut*)). Of what kind is that might? Of true speed, and great, exceedingly grown. Moreover those Maruts, the leaders of the rain, for the sake of water, yoke, that is, harness forth by their own will, with the thought of protecting the world, the moving ones, that is, the dappled mares: this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्यशवसं (*satyaśavasaṃ*)—(O praiser) possessing strength of the nature of truth
+- यभ्वसं (*yabhvasaṃ*)—and great **NOTE**
+- मारुतं शर्धः (*mārutaṃ śardhaḥ*)—the might of the host of Maruts
+- उत् (*ut*)—excellently
+- शंस (*śaṃsa*)—praise
+- नरः (*naraḥ*)—the leaders
+- ते (*te*)—the Maruts
+- स्यंद्राः (*syaṃdrāḥ*)—being of a moving nature
+- त्मना (*tmanā*)—by their own impulse
+- शुभे (*śubhe*)—for our welfare
+- प्र युजत (*pra yujata*)—strive
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, the Maruts, the leaders, being of a moving nature, strive of their own impulse for our welfare. Therefore praise excellently the might of the host of Maruts, which possesses strength of the nature of truth and is great.
+
+### Printed p. 616
+
+##### English translation
+Glorify the truth-invigorated and infinite strength of the Maruts, for they, the leaders (of the rains), gliding along, are labouring voluntarily for (our) good.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्म॒ ते परु॑ष्या॒मूर्णा॑ वसत शुं॒ध्यवः॑ ।  
+> उ॒त प॒व्या रथा॑ना॒मद्रिं॑ भिंदं॒त्योज॑सा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । ते । परुष्यां । ऊर्णाः । वसत । शुंध्यवः ।  
+> उत । पव्या । रथानां । अद्रिं । भिंदंति । ओजसा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्मापि च ते मरुतः परुष्यामेतन्नामिकायां नद्यां वर्तंते । य
+> ऊर्णा दीप्तिः शुंध्यवः शोधिका वसत अच्छादयंति ते । उतापि च पव्या नेम्या
+> रथानां स्वकीयानां रथचक्रेणौजसा बलेन चाद्रिं भिंदंति । मेघं गिरिं वा
+> विदारयंति ॥
+
+##### Gist of the bhāṣya
+
+Moreover those Maruts abide in the river of that name, the Parushni. The radiance (दीप्तिः (*dīptiḥ*)) of those purifiers they put on, that is, they cover themselves with it. And with the felloe (नेम्या (*nemyā*)) of their own chariot wheels and with their strength they split the mountain (अद्रिं (*adriṃ*)), that is, they tear apart the cloud or the mountain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- ते (*te*)—those same Maruts
+- परुष्णां (*paruṣṇāṃ*)—(they abide) in the river Parushni **NOTE**
+- ऊर्णाः (*ūrṇāḥ*)—a radiant
+- शुंध्यवः (*śuṃdhyavaḥ*)—and purified splendour
+- वसत् (*vasat*)—they wear
+- उत (*uta*)—and
+- रथानां (*rathānāṃ*)—of their chariots
+- पव्या (*pavyā*)—of the form of a felloe
+- ओजसा (*ojasā*)—with strength
+- अद्रिं (*adriṃ*)—the cloud
+- भिंदंति (*bhiṃdaṃti*)—split
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts abide in the river Parushni. They are clothed with a splendour that is radiant and purified. And with the strength of the felloes of their chariots they split the cloud.
+
+### Printed p. 617
+
+##### English translation
+Whether they (abide) on the Parushni (river), or, purifying (all), they clothe themselves with light, or whether they break through the clouds with strength by the wheels of their chariots.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप॑थयो॒ विप॑थ॒योऽंत॑स्पथा॒ अनु॑पथाः ।  
+> ए॒तेभि॒र्मह्यं॒ नाम॑भिर्य॒ज्ञं वि॑ष्टा॒र ओ॑हते ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपथयः । विपथयः । अंतःसपथाः । अनुपथाः ।  
+> एतेभिः । मह्यं । नामभिः । यज्ञं । विस्तारः । ओहते ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपथयः । अस्मदभिमुखा मार्गा येषां ते तादृशाः । विपथयो विस्वज्मार्गा अंतस्पथा दरीसुषिरादिमार्गा अनुपथा अनुकूलमार्गाश्च ये मरुतः संति त
+> एतेभिरेतैश्चतुर्विधैर्नामकैः स्वरूपैर्मह्यं मदर्थं यज्ञं विस्तारो विस्तृताः
+> संत ओहते । वहंति । यद्वा । एतैनामभिरुदकैः सार्धं यज्ञमोहते ॥
+
+##### Gist of the bhāṣya
+
+आपथयः (*āpathayaḥ*): those Maruts whose paths lead towards us. विपथयः (*vipathayaḥ*): those whose paths are of various kinds **NOTE**. अंतस्पथा (*aṃtaspathā*): those whose paths are caves, hollows and the like. अनुपथा (*anupathā*): those whose paths are favourable. With these four kinds of names, that is, forms, those Maruts, being spread out, bear the sacrifice for me, for my sake. Or else: with these names, that is, with waters, they bear the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपथयः (*āpathayaḥ*)—let them follow the path that faces us (or)
+- विपथयः (*vipathayaḥ*)—let them follow various different paths (or)
+- अंतस्पथाः (*aṃtaspathāḥ*)—let them resort to paths such as mountain caves (or)
+- अनुपथाः (*anupathāḥ*)—let them have a favourable path
+- एतेभिः (*etebhiḥ*)—even though they are of these four kinds
+- नामभिः (*nāmabhiḥ*)—by their respective forms
+- मह्यं (*mahyaṃ*)—for me
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- विस्तारः (*vistāraḥ*)—extending and increasing it
+- ओहते (*ohate*)—they bear
+
+##### भावार्थ (Bhāvārtha)
+
+Whether the Maruts follow the path that faces us, or follow various different paths, or resort to paths such as mountain caves, or have a favourable path, even though they are of these four
+
+### Printed p. 618
+
+kinds, they bear the sacrifice for me, extending and increasing it, each in their respective forms.
+
+##### English translation
+(Whether), following the paths that lead (to us), or that spread diversely, or those that sink into the hollows (of the mountain), or those that extend smoothly, they, (however) scattered, accept the sacrifice for my benefit, (when invoked by these appellations).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ नरो॒ नृपो॑ह॒तेधा॑ नि॒युत॑ ओहते ।  
+> अधा॒ पारा॑वता॒ इति॑ चि॒त्रा रू॒पाणि॒ दर्श्या॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । नरः । नि । ओहते । अध । नियुतः । ओहते ।  
+> अध । पारावताः । इति । चित्रा । रूपाणि : दर्श्या । ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथ नरोऽभिमतवृष्टा दिनेतारो न्यूहते । नितरां वहंति जगत् । अध
+> नियुतः स्वयमेव मिश्रयितारः संत ओहते । अधाथ पारावताः । परावद्दूरदेशः।
+> तत्संबंधिनश्चांतरिक्षादिदूरदेशे ग्रहतारामेघादिधारकाः संत ओहत इत्यर्थः ।
+> इत्युक्त प्रकारेण तेषां रूपाणि चित्रा नानाविधानि चायनीयानि वा दर्श्या स्वव्यापारैर्दर्शनीयानि भवन्त्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Now the leaders, the bringers of the desired rain and the like, carry the world down, that is, bear it constantly. Now the नियुतः (*niyutaḥ*), themselves mixing (all things together), bear. Now the पारावताः (*pārāvatāḥ*): परावद्दूरदेशः (*parāvaddūradeśaḥ*); those belonging to it, that is, those who in the distant regions such as the atmosphere are the upholders of planets, stars, clouds and the like, bear: this is the meaning. In the manner thus stated their forms are manifold, of many kinds, or worthy of being gathered, and दर्श्या (*darśyā*), that is, to be seen through their own activities: may they be so; this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—once
+- नरः (*naraḥ*)—the Maruts who are leaders
+- न्यूहते (*nyūhate*)—bear the burden of the world
+- अध (*adha*)—in another way
+- नियुतः (*niyutaḥ*)—all gathered together
+- ओहते (*ohate*)—bear the burden of conducting the sacrifice
+- अध (*adha*)—in another manner
+- पारावताः (*pārāvatāḥ*)—being situated in very distant regions, they bear the burden of planets, stars and the like
+- इति (*iti*)—in this way
+- रूपाणि (*rūpāṇi*)—the forms of the Maruts
+- चित्रा (*citrā*)—are manifold
+- दर्श्या (*darśyā*)—and attractive
+
+### Printed p. 619
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts in one way, as leaders of the rain and the like, bear the burden of protecting the world. In another way, all gathering together, they bear the burden of conducting the sacrifice. In another way, being situated in very distant regions, they bear the burden of planets, stars and the like. In this way they are of manifold forms and of an attractive nature.
+
+##### English translation
+Now, leaders (of the rains), they support (the world): now, blending together, they bear (the oblation): now, situated remote, (they uphold distant objects): so may their manifold forms be manifest.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> छं॒दः॒स्तुभः॑ कुभ॒न्यव॒ उत्स॒मा की॒रिणो॑ नृतुः ।  
+> ते मे॒ के चि॒न्न ता॒यव॒ ऊमा॑ आसन्दृ॒ति त्वि॒षे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> छंदःस्तुभः । कुभन्यवः । उत्सं । आ। कीरिणः । नृतुः ।  
+> ते । मे । के । चित् । न । तायवः । ऊमाः । आसन् । दृशि । त्विषे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> छंदःस्तुभश्चंद्रोभिः स्तोतारः कुभन्यव उदकेच्छवः कीरिणः स्तोतार उत्सं
+> कूपमपेक्ष्य तृषिताय गोतमाय यान्मरुत आ नृतुः सर्वतोऽकुर्वन् अनयन्वा
+> स्तोत्रं । यद्वा । ये छंदःस्तुभश्चंद्रोभिः स्तुत्याः ॥ स्तोभतिः स्तुतिकर्मा ॥
+> कुभन्यवः सेक्तारो वृष्टुदकस्य । कुभिरुंदनकर्मा ॥ कीरिणः स्तोतुर्गोतमस्य
+> पानार्थमुत्सं कूपमा नृतुः आनीतवंतः । असिंचन्नुत्सं गोतमाय तृष्णजे ।
+> ऋग्वे-१-८५.११ । इति ह्युक्तं ॥ नृ नय इत्यस्य वा नर्ततीर्वा विक्षेपमात्रार्थस्येदं
+
+##### Gist of the bhāṣya
+
+छंदःस्तुभः (*chaṃdaḥstubhaḥ*): praisers with metres (चंद्रोभिः (*caṃdrobhiḥ*) **NOTE**). कुभन्यवः (*kubhanyavaḥ*): those desiring water. कीरिणः (*kīriṇaḥ*): praisers. Having regard to the well, for the thirsty Gotama, the Maruts whom (the praisers) set going all around, or led, with praise. Or else: those who are to be praised with metres; the root स्तोभतिः (*stobhatiḥ*) means the act of praising. कुभन्यवः (*kubhanyavaḥ*) are the sprinklers of the rain-water; कुभि (*kubhi*) means the act of wetting. कीरिणः (*kīriṇaḥ*): of the praiser Gotama, for the sake of drinking, the Maruts brought the well. For it is said: असिंचन्नुत्सं गोतमाय तृष्णजे । (*asiṃcannutsaṃ gotamāya tṛṣṇaje |*) (Ṛgve-1-85.11) **NOTE**. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 613. Mandala 5 sukta 52 rks 3-6 (start), pp. 608-613
+**Progress note:** Done through printed p. 619. Mandala 5 sukta 52 rks 7-12 (start), pp. 614-619
