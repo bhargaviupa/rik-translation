@@ -6168,6 +6168,301 @@ O Agni, called by the sacrificers and having an excellent sacrifice, you are the
 ##### English translation
 Agni, you are kindled and invoked ; worship the gods at the holy rite, for you are the bearer of the oblation.
 
+### Printed p. 157
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Darśapūrṇamāsa sacrifices, this Ṛk beginning समिद्दो अग्न आहुत (*samiddo agna āhuta*) and the following Ṛk are to be used as sāmidhenī mantras; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, समिद्दो अग्न आहुतेति द्वे (*samiddo agna āhuteti dve*) (Ā. Sū. 1-2).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ जु॑होता दुव॒स्यता॒ग्निं प्र॑य॒त्य॑ध्व॒रे ।  
+> वृ॒णी॒ध्वं ह॑व्य॒वाह॑नं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । जुहोत । दुवस्यत । अग्निं । प्रयति । अध्वरे ।  
+> वृणीध्वं । हव्यवाहनं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजो यूयमध्वरेऽस्मदीययागे प्रयति प्रवृत्ते सति हव्यवाहनं
+> हविषां वोढारमेतन्नामकमग्निमा जुहोत । आ समंताज्जु होत । तथा दुवस्यत ।
+> परिचरत । वृणीध्वं । संभजध्वं च हव्यवाहनं । हव्यवाहननामकस्यॆवाग्नेर्देवतासंबंधो यजमानैर्वर्णनीयत्वं च तैत्तिरीये स्पष्टमाम्मातं । त्रयो वा
+> अग्नयो हव्यवाहनो देवानां कव्यवाहनः पितृणां सहरक्षा असुराणां । त
+> एतर्हाशंसंते मां वरिष्यते मामिति वृणीध्वं हव्यवाहनमित्याह य एव देवानां
+> तं वृणीते ॥ तै. सं. २-५-८-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+O priests, when our sacrifice has begun, make offering to Agni, the bearer of the oblations (हव्यवाहनं (*havyavāhanaṃ*)), from every side; likewise serve him, and choose him. That Agni who is named Havyavāhana is connected with the gods, and that he is to be chosen by the sacrificers, is stated plainly in the Taittirīya (Tai. Saṃ. 2-5-8-6): there are three Agnis, Havyavāhana of the gods, Kavyavāhana of the fathers, and Sahaṃrakṣas of the Asuras. These now hope, "he will choose me, me"; by saying "choose Havyavāhana" he chooses the one who belongs to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरे (*adhvare*)—(O priests,) our sacrifice
+- प्रयति (*prayati*)—as soon as it has begun
+- हव्यवाहनं (*havyavāhanaṃ*)—who carries the oblation
+- अग्निं (*agniṃ*)—to Agni
+- आ जुहोत (*ā juhota*)—offer the oblation
+- दुवस्यत (*duvasyata*)—worship
+- वृणीध्वं (*vṛṇīdhvaṃ*)—choose (him as the messenger who brings your oblation to the gods)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, as soon as our sacrifice has begun, offer the oblation to Agni, who carries the oblation. Worship him and choose him as the messenger who brings your oblation to the gods.
+
+### Printed p. 158
+
+##### English translation
+Offer worship and adoration to Agni, when the sacrifice is solemnized ; select the bearer of the oblation to the gods.
+
+## Sūkta 29 (Maṇḍala 5)
+
+The twenty-ninth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्र्ययमेति पंचदशर्चं पंचदशं सूक्तं । अत्रानुक्रमणिका । त्र्ययमा
+> पंचोना गौरिवीतिः शाक्त्य ऐंद्रमुशना यदौशनसो वा पाद इति । शक्तिगोत्रोत्पन्नो गौरिवीतिर्नाम ऋषिः । अनुक्तत्वात्रिष्टुप् । इंद्रो देवता मंडलादिपरिभाषया निवृत्तत्वात् । उशना यत्सहस्यैरिति पाद औशनस ऐंद्रो वा ॥ अभिप्लविके
+> तृतीयेऽहनि मरुत्वतीय एतन्निविद्वानं । सूत्रितं च । तृतीयस्य त्र्ययमा यो
+> जात एवेति मध्यंदिनः ॥ आ. ७-७ । इति॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning त्र्ययमेति (*tryayameti*) has fifteen Ṛks and is the fifteenth sūkta. Sāyaṇa quotes the Anukramaṇikā (त्र्ययमा पंचोना गौरिवीतिः शाक्त्य ऐंद्रमुशना यदौशनसो वा पाद इति (*tryayamā paṃconā gaurivītiḥ śāktya aiṃdramuśanā yadauśanaso vā pāda iti*)) **NOTE**. The seer is named Gauriviti, born in the lineage of Śakti. The metre is Triṣṭubh, since no other is stated. The deity is Indra, since the general rule of the Maṇḍala and the like settles the matter. The pāda beginning उशना यत्सहस्यैरिति (*uśanā yatsahasyairiti*) has Auśana (Uśanā) or Indra as its deity. At the Abhiplava rite, on the third day, in the Marutvatīya recitation, this sūkta serves as the nivid-sūkta, and the sūtra says so: तृतीयस्य त्र्ययमा यो जात एवेति मध्यंदिनः ॥ (*tṛtīyasya tryayamā yo jāta eveti madhyaṃdinaḥ ‖*) (Ā. Sū. 7-7).
+
+Translation (Anuvāda): This sūkta, beginning *tryaryamā*, is the fifteenth sūkta in the second Anuvāka. It has fifteen Ṛks. The Anukramaṇikā says: त्र्यर्यमा पंचोना गौरिवीतिः शाक्त्य ऐंद्रमुशना यदौशनसो वा पादः (*tryaryamā paṃconā gaurivītiḥ śāktya aiṃdramuśanā yadauśanaso vā pādaḥ*). The seer of this sūkta is Gauriviti, born in the lineage of Śakti; the metre is Triṣṭubh; the deity is Indra; for the first pāda of the ninth Ṛk, उशना यत्सहस्यॆः (*uśanā yatsahasyèḥ*), the deity is Indra or Uśanā. At the Abhiplava sacrifice, on the third day, when the Marutvatīya śastra mantras are recited, this sūkta is to be recited as the nivid-sūkta; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, त्र्यर्यमा यो जात एवेति मध्यंदिनः (*tryaryamā yo jāta eveti madhyaṃdinaḥ*) (Ā. Sū. 7-7).
+
+Sūkta 22. **NOTE**
+
+Maṇḍala 5, Anuvāka 2, Sūkta 29.
+
+Aṣṭaka 4, Adhyāya 1, Varga 23, 24, 25.
+
+Number of Ṛks in the sūkta: 15.
+
+Seer: गौरिवीति शाक्त्यः (*gaurivīti śāktyaḥ*)
+
+Deity: Indra, for Ṛks 1-8, for pādas 2-4 of Ṛk 9, and for Ṛks 10-15; for the first pāda of Ṛk 9: Indra, Uśanā. **NOTE**
+
+Metre: Triṣṭubh.
+
+### Printed p. 159
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रै॑र्य॒मा मनु॑षो दे॒वता॑ता॒ त्रि रो॑च॒ना दि॒व्या धा॑रयंत।  
+> अर्चं॑ति त्वा म॒रुतः॑ पू॒तद॑क्षा॒स्त्वमे॑षा॒मृषि॑रिंद्रासि॒ धीरः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्री । अर्यमा । मनुषः । देवताता । श्री । रोचना । दिव्या । धारयंत ।  
+> अर्चंति । त्वा । मरुतः । पूत्यदक्षाः । त्वं । एषां । ऋषिः । इंद्र । असि । धीरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनुषो मनोः संबंधिनि देवताता देवतात् यज्ञे त्री त्रीण्यर्यमार्यमाणि यानि तेजांसि संति । तथा त्री त्रीणि रोचना रोचमानानि वाय्वग्निसूर्यात्मकानि दिव्या दिव्यान्यंतरिक्षे भवानि तानि तेजांसि धारयंत । मरुतो
+> धारयंति । पूतदक्षाः शुद्धबला मरुतस्त्वा त्वामर्चंति । स्तुवंति । हे इंद्र धीरो
+> धीमांस्त्वमेषां मरुतामृषिरसि । द्रष्टा भवसि ॥
+
+##### Gist of the bhāṣya
+
+In the sacrifice that belongs to Manu there are three splendours (त्री त्रीण्यर्यमार्यमाणि (*trī trīṇyaryamāryamāṇi*)) **NOTE**; and the Maruts uphold three shining lights, divine and in the atmosphere, which have the nature of wind, fire and sun, those splendours. The Maruts, of pure strength, praise you, Indra; you, wise one, are the seer of these Maruts, that is, you become their seer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनुषः (*manuṣaḥ*)—belonging to Manu
+- देवताता (*devatātā*)—in the sacrifice
+- त्री (*trī*)—three
+- अर्यमा (*aryamā*)—splendours (are established)
+- दिव्या (*divyā*)—that are in the atmosphere
+- त्री रोचना (*trī rocanā*)—three masses of splendour
+- धारयंत (*dhārayaṃta*)—the Maruts have upheld
+- पूतदक्षाः (*pūtadakṣāḥ*)—having pure strength
+- मरुतः (*marutaḥ*)—the Maruts
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- अर्चंति (*arcaṃti*)—worship
+- त्वं (*tvaṃ*)—you
+- एषां (*eṣāṃ*)—of these Maruts
+- धीरः (*dhīraḥ*)—wise
+- ऋषिः असि (*ṛṣiḥ asi*)—are the seer
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifice that belongs to Manu and is meant for worshipping the gods, three splendours are established. The Maruts uphold three masses of splendour, which are in the atmosphere and have the forms of fire, wind and sun. O Indra, the Maruts, whose strength is pure, worship you. You are the wise seer of those Maruts.
+
+### Printed p. 160
+
+##### English translation
+In the adoration of the gods by Manu there are three effulgences, and they, (the Maruts), uphold three luminaries in heaven : the Maruts of pure energy worship you, for you, Indra, are their intelligent Rishi.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ यदीं॑ म॒रुतो॑ मंदसा॒नमार्च॒न्निंद्रं॑ पपि॒वांसं॑  ॒॑
+> सुतस्य ।  
+> आद॑त्त॒ वज्र॑म॒भि यदहिं॒ हन्न॒पो य॒ह्वीर॑सृज॒त्सर्त॒ वा उ॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । यत् । ईं । मरुतः । मंदसानं । आर्चन् । इंद्रं । पपिवांसं । सुतस्य ।  
+> आ । अदत्त । वज्रं । अभि । यत् । अहिं । अपः । यह्विः । असृजत् । सर्तवै । ऊं  
+> इति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा मरुतो मंदसानं तृप्यंतं सुतस्याभिषुतं सोमं पपिवांसं
+> पीतवंतमीमेनमिंद्रमन्वार्चन् अन्वस्तुवन् तदेंद्रो वज्रमादत्त । आददौ ।
+> ततो यद्यदाहिं वृत्रमभि हन् अभ्यहन् अभिहतवान् तदा यह्वीर्महतीरपो
+> वृत्रेण निरुद्धान्न्युदकानि सर्तवै स्वैरत्वेन सर्तुं गंतुमसृजत् निरोधाच्चामुंचत् ॥
+
+##### Gist of the bhāṣya
+
+When the Maruts praised Indra, who was delighted, having drunk the pressed Soma, then Indra took up the thunderbolt. Then, when he slew Ahi, that is Vṛtra, he let the mighty waters, which Vṛtra had held back, go forth to flow freely, and freed them from their confinement.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- मरुतः (*marutaḥ*)—the Maruts
+- सुतस्य (*sutasya*)—the pressed Soma
+- पपिवांसं (*papivāṃsaṃ*)—who has drunk
+- मंदसानं (*maṃdasānaṃ*)—who has attained satisfaction
+- ईं इंद्रं (*īṃ iṃdraṃ*)—this very Indra
+- अनु आर्चन् (*anu ārcan*)—praised with devotion, then (Indra)
+- वज्रं (*vajraṃ*)—the thunderbolt
+- आदत्त (*ādatta*)—took in his hand (Indra)
+- यत् (*yat*)—when
+- अहिं (*ahiṃ*)—Vṛtra the Asura
+- अभि हन् (*abhi han*)—destroyed (then)
+- यह्वीः (*yahvīḥ*)—abundant
+- अपः (*apaḥ*)—waters
+- सर्तवै (*sartavai*)—to carry along freely
+- असृजत् (*asṛjat*)—released
+
+### Printed p. 161
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the Maruts praised with devotion Indra, who had drunk the pressed Soma and was satisfied, Indra took the thunderbolt in his hand. As soon as Indra destroyed the Asura Vṛtra, he released the abundant waters to flow freely.
+
+##### English translation
+When the Maruts worship Indra, exulting and drinking of the effused libation, he grasps the thunderbolt wherewith he destroys Ahi, and sets the abundant waters free to flow.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ब्र॑ह्माणो मरतो मे अ॒स्येंद्रः॒ सोम॑स्य॒ सुसु॑तस्य  
+> पेयाः ।  
+> तद्धि ह॒व्यं मनु॑षे॒ गा अविं॑द॒दह॒न्नहिं॑ पपि॒वा इंद्रो॑ अस्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ब्रह्माणः । मरुतः । मे । अस्य । इंद्रः । सोमस्य । सुसुतस्य । पेयाः ।  
+> तत् । हि । हव्यं । मनुषे । गाः । अविंदत् । अहन् । अहिं । पपिवान् । इंद्रः ।  
+> अस्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे ब्रह्माणो बृहंतो हे मरुतो यूयमिंद्रश्च सुसुतस्य
+> सुष्वृभिषुतस्य मे मदीयस्यास्य सोमस्येमं सोमं ॥ द्वितीयार्थे षष्ठी ॥
+> पेयाः । पिबत ॥ पिबतेराशीर्लिज मद्यमबहुनचनस्यैकवचनं ॥ तद्धि तत्पलु हव्यं
+> युष्माभिः पीतं सोमात्मकं हविर्मनुषे मनुष्याय यजमानाय गा धेनूर्वृष्टिलक्षणान्युदकानि ना अविंदत् । वेदयति । यजमानं गा लंभयतीत्यर्थः ।
+> किंचास्येमं सोमं पपिवान् पीतवानिंद्रोऽहिं वृत्रमहन् । अवधीत् ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, mighty ones, you and Indra drink this Soma of mine, well pressed; the genitive stands in the sense of the accusative. The oblation drunk by you, consisting of Soma, makes the sacrificer find cows, that is, the waters that take the form of rain; it makes the sacrificer obtain cows. Moreover Indra, having drunk this Soma, slew Ahi, that is Vṛtra.
+
+### Printed p. 162
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- ब्रह्माणः (*brahmāṇaḥ*)—mighty in form
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—(you)
+- इंद्रः (*iṃdraḥ*)—and Indra
+- सुसुतस्य (*susutasya*)—well pressed
+- मे (*me*)—my
+- अस्य सोमस्य (*asya somasya*)—this Soma
+- पेयाः (*peyāḥ*)—drink
+- तद्धि हव्यं (*taddhi havyaṃ*)—that same oblation, drunk by you
+- मनुषे (*manuṣe*)—to the sacrificer who performs the sacrifice
+- गाः (*gāḥ*)—cows
+- अविंदत् (*aviṃdat*)—makes known
+- अस्य (*asya*)—this Soma
+- पपिवान् (*papivān*)—having drunk
+- इंद्रः (*iṃdraḥ*)—Indra
+- अहिं (*ahiṃ*)—Vṛtra
+- अहन् (*ahan*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, mighty in form, you and Indra drink this well-pressed Soma juice. That same oblation, drunk by you, makes known to the sacrificer who performs the sacrifice the regions where the cows are. Indra, having drunk this Soma, destroyed Vṛtra. **NOTE**
+
+##### English translation
+Or, mighty Maruts, and you also, Indra, drink of this my copiously-effused libation : then the offered libation obtains cattle for the offerer, and Indra, drinking of it, kills Ahi.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आद्रोद॑सी वित॒रं वि ष्क॑भायत्संविव्या॒नश्चि॑द्धि॒यसे॑ मृ॒गं कः॑ ।  
+> जिग॑र्ति॒मिंद्रो॑ अप॒जगु॑र्राणः॒ प्रति॑श्व॒संत॒मन॑ दान॒वं ह॑न्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । रोदसी इति । वितरं । वि । स्कभायत् । संविव्यानः । चित् । भियसे । मृगं।  
+> करिति कः ।  
+> जिगर्तिं । इंद्रः । अप्पजगुर्राणः । प्रति । श्वसंतं । अव । दानवं । हन्निति हन् । ४ ॥
+
+### Printed p. 163
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः परमैश्वर्ययुक्त आत्सोमपानानंतरं रोदसी द्यावापृथिव्यौ
+> वितरमतिशयेन ॥ अमु च छंदसीति वेस्तरपि कृतेऽमुप्रत्ययः ॥ वि ष्कभायत् ।
+> व्यस्तभ्यात् । चलनरहिते अकरोत् । संविव्यानश्चित् संवृण्वानः संगच्छमानो
+> वेंद्रः ॥ व्ययतेर्वा संवरणकर्मणो वेतेर्वा गतिकर्मणो रूपं । चिदित्येवेत्यस्यार्थे वर्तते । मृगं मृगवत्पलायमानं वृत्रं भयसे भयाय कः ।
+> अकार्षित् ॥ करोतेर्लुजु मंत्रे घसह्वरेत्यादिना चेर्लोपः । बहुलं छंदस्यमाजज्योगेऽपीत्यडभावः ॥ इंद्रो जिगर्तिं निरंतमाच्छादयंतं श्वसंतं भयार्थं
+> श्वासं कुर्वंतं दानवं दनोः पुत्रं वृत्रमपजर्गुराण आच्छादनाद्विमोचयन
+> प्रति प्रतिगत्याव हन् । अवहतवान् ॥
+
+##### Gist of the bhāṣya
+
+Indra, endowed with supreme lordship, after drinking the Soma made the two worlds, heaven and earth, most firm; he made them unmoving. Enveloping (or: coming together, or going; Sāyaṇa derives the word from a root meaning to cover or from one meaning to go) **NOTE**, he made Vṛtra, who fled like a deer, afraid. Indra, freeing from his covering the Dānava, son of Danu, namely Vṛtra, who was concealing himself, panting to cause fear, advanced against him and slew him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—the lord Indra
+- आत् (*āt*)—as soon as the Soma was drunk
+- रोदसी (*rodasī*)—heaven and earth, both
+- वितरं (*vitaraṃ*)—exceedingly
+- वि ष्कभायत् (*vi ṣkabhāyat*)—established them firmly
+- संविव्यानश्चित् (*saṃvivyānaścit*)—while moving about with firm resolve
+- मृगं (*mṛgaṃ*)—Vṛtra, who was fleeing like a deer
+- भियसे कः (*bhiyase kaḥ*)—made him be overcome with fear
+- जिगर्ति० (*jigarti0*)—who tried to cover himself
+- श्वसंतं (*śvasaṃtaṃ*)—who was breathing in a hideous way so that others should fear
+- दानवं (*dānavaṃ*)—Vṛtra, the son of Danu
+- अपजगुराणः (*apajagurāṇaḥ*)—preventing him from hiding
+- प्रति (*prati*)—confronting him
+- अव हन् (*ava han*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+The lord Indra, as soon as the Soma was drunk, established heaven and earth exceedingly and firmly. While he was moving about with firm resolve to destroy his enemy, he made Vṛtra, who was fleeing like a deer, be overcome with fear. He prevented Vṛtra, the son of Danu, who tried to cover himself and was breathing hideously so that others should fear, from hiding, confronted him and destroyed him.
+
+##### English translation
+Thereupon he fixed firmly heaven and earth, and, resolutely advancing filled (Vritra), like a deer, with terror : stripping off his covering, Indra slew the Danava, endeavouring to hide, and panting with affright.
+
 ---
 
-**Progress note:** Done through printed p. 156. Sūkta 28 Ṛk 1-5, pp. 151-156
+**Progress note:** Done through printed p. 163. Sūkta 28 Ṛk 6 and Sūkta 29 Ṛks 1-4 (pp. 157-163)
