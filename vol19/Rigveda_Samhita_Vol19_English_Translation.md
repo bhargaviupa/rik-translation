@@ -9657,6 +9657,208 @@ Svarbhānu is the son of an Asura. When he hid Sūra and obstructed his light, I
 
 Svarbhānu, the son of an Asura, once caused Sūra to be covered with darkness. The gods then tried to remove it. As soon as they had destroyed half of that darkness, a black cloud came into being. From the second half the origin of a shining cloud came about. From the third it became of white colour. What was cut off from the upper part of the bone came to be transformed into a barren animal. Then all the gods together discussed: "This has become an animal of the gods; to whom shall we offer it?" And so on: in the Taittirīya Saṃhitā it is described
 
+### Printed p. 247
+
+But here there is no statement that either Atri or Indra destroyed Svarbhānu and made the sun shine. Explaining this same occasion, the Śatapatha Brāhmaṇa states as follows:
+
+स्वर्भानुर्ह वा असुरः सूर्यं तमसा विव्याध । स तमसा विद्धो न व्यरोचत तस्य सोमारुद्रादेवैतत्तमोऽपाहताग्ं स एषोऽपहतपाप्मा तपति ॥ (*svarbhānurha vā asuraḥ sūryaṃ tamasā vivyādha | sa tamasā viddho na vyarocata tasya somārudrādevaitattamo 'pāhatāgṃ sa eṣo 'pahatapāpmā tapati ‖*) (Śa. Brā. 5-3-2-2)
+
+The Asura Svarbhānu once covered the sun with darkness. Then the sun, enveloped in darkness, did not shine. Then, after Soma and Rudra both had destroyed that darkness, the sun began to shine, it is said. Here too there is no praise of Atri's help.
+
+Therefore only in the Ṛk-saṃhitā (5-40-5 to 9) is it stated that the great seer Atri became the cause of Svarbhānu's destruction. Showing a spiritual tradition in this endeavour:
+
+स्वर्भानोरध यदिंद्र माया अवो दिवो वर्तमाना अवाहन् । गूह्लं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविंददत्रिः ॥ (*svarbhānoradha yadiṃdra māyā avo divo vartamānā avāhan | gūhlaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāviṃdadatriḥ ‖*) (Ṛ. Saṃ. 5-40-6)
+
+यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः । अक्षेत्रविद्यधा मुग्धो भुवनान्यदीधयुः ॥ (*yattvā sūrya svarbhānustamasāvidhyadāsuraḥ | akṣetravidyadhā mugdho bhuvanānyadīdhayuḥ ‖*) (Ṛ. Saṃ. 5-40-5)
+
+It is said that Atri destroyed this darkness, which was of the nature of illusion, by means of the fourth mantra. What the spiritual meaning is in this context has been stated earlier, in the special topics on the mantra Ṛ. Saṃ. 3-62-10. After this praise of Atri there again follow mantras praising the qualities of Indra.
+
+**Deities incidentally praised in the Vaiśvadeva sūktas**
+
+Sūktas 41 to 46 of the fifth maṇḍala.
+
+Who the Viśvadevas are, whether a single group or the whole assembly of deities that includes all the gods, will be discussed later, in the introduction preceding the 41st sūkta of the fifth maṇḍala (Ṛ. Saṃ. 5. 41). Even if one accepts the view that in the Vaiśvadeva sūktas the assembly of specified deities is something separate, even then, besides the deities of that group, other deities who are praised incidentally are also included in those sūktas. On the question who these incidental deities are, there is a whole section in the Bṛhaddevatā. This subject will be explained in detail later. At present it will be stated only who the deities are that are praised incidentally. Beginning with सप्तर्षयो वसवश्चापि देवाः (*saptarṣayo vasavaścāpi devāḥ*) (Bṛ. De. 8-125) and so on, the Bṛhaddevatā names these incidental deities and concludes with निपातिनो वैश्वदेवेषु सर्वॆ (*nipātino vaiśvadeveṣu sarvè*) (8-128). Who are they?
+
+### Printed p. 248
+
+The seven seers, the Vasus, the divine Atharvans**NOTE**, the Bhṛgus, Soma, Sūra, Pathyāsvasti, Heaven and Earth, Kuhū, Gungū, Aditi, Dhenu, Aghnyā, Asunīti, Iḷā, Āstaru, Vidhātṛ, Anumati, the assembled Aṅgirases, Vaiśvānara, Suparṇa, Vivasvat, Prajāpati, Dyau, Sudhasvana, Nagohya, Apāṃ Napāt, Aramyan, Vātajūti, Iḷaspati, Rathaspati, the Ṛbhus, Parjanya, the mountains, Gnā, Dakṣa, Bhaga, the wives of the gods, the deities of the directions, the Ādityas, the Rudras, the ancestors and the Sādhyas (Bṛ. De. 8-125 to 128).
+
+If all the deities in this assembly are incidental deities, it also becomes laborious to settle who the constant deities are. Deities such as Agni, Soma and Bṛhaspati are regularly praised in the Vaiśvadeva sūktas. In indicating the deities included in this section, that is, in sūktas 41 to 46, the Bṛhaddevatā has named only some deities. It is therefore a question whether all the deities specified there can be taken as the incidental deities of these sūktas. Secondly, Yāska and others have shown a diversity of opinion also on which deity exactly is praised in some mantras. How is that?
+
+प्र सुष्टुतिः स्तनयंतं रुवंतमिळस्पतिं जरितर्नूनमश्याः । यो अब्बिमा उदनिमा इयर्ति प्र विद्युता रोदसी उक्षमाणः ॥ (*pra suṣṭutiḥ stanayaṃtaṃ ruvaṃtamiḷaspatiṃ jaritarnūnamaśyāḥ | yo abbimā udanimā iyarti pra vidyutā rodasī ukṣamāṇaḥ ‖*) (Ṛ. Saṃ. 5-42-1)
+
+In this mantra there is praise of Iḷaspati. There is no exact opinion at all about who this Iḷaspati is. Sāyaṇa has explained it as इळः अन्यस्य उदकस्य ना पतिं स्वामिनु (*iḷaḥ anyasya udakasya nā patiṃ svāminu*) (Parjanya), the lord of food or of water, all**NOTE**. This is one opinion. The opinion**NOTE** is stated in the Bṛhaddevatā in this way:
+
+तमु ष्टुहीति रौद्री तु प्र सुष्टुतिरिति त्वृचि । शौनकादिभिराचार्यैर्देवता बहुधेरिता । इळस्पतिं शाकपूणिः पर्जन्याग्नी तु गालवः ॥ यास्कस्तु पूषणं मेने स्तुतमिंद्रं तु शौनकः । वैश्वानरं भागुरिस्तु मारुत्येष समाश्विना । (*tamu ṣṭuhīti raudrī tu pra suṣṭutiriti tvṛci | śaunakādibhirācāryairdevatā bahudheritā | iḷaspatiṃ śākapūṇiḥ parjanyāgnī tu gālavaḥ ‖ yāskastu pūṣaṇaṃ mene stutamiṃdraṃ tu śaunakaḥ | vaiśvānaraṃ bhāguristu mārutyeṣa samāśvinā |*) (Bṛ. De. 5-38 to 40)
+
+In the mantra quoted above, Śaunaka and others have shown various kinds of opinion about who the specified deity is. Śākapūṇi called it Iḷaspati. Gālava said Parjanya and Agni**NOTE**. Yāska said Pūṣan. Śaunaka held that it is Indra. Bhāguri said Vaiśvānara. In this way there is a diversity of opinion. Similarly,
+
+### Printed p. 249
+
+तं प्रत्नथा पूर्वथा विश्वथेमथा ज्येष्ठतातिं बर्हिषदं स्वर्विदं । प्रतीचीनं वृजनं दोहसे गिराशुं जनयंतमनु मासु वर्धसे ॥ (*taṃ pratnathā pūrvathā viśvathemathā jyeṣṭhatātiṃ barhiṣadaṃ svarvidaṃ | pratīcīnaṃ vṛjanaṃ dohase girāśuṃ janayaṃtamanu māsu vardhase ‖*) (Ṛ. Saṃ. 5-44-1)
+
+In this mantra Sāyaṇa has taken तं इंद्रं (*taṃ iṃdraṃ*) as Indra**NOTE**. But the authors of the Bṛhaddevatā have not stated definitely which deity is praised in this mantra, and have shown many alternatives.
+
+तं प्रत्नथेति सौमी ना दैन्यैंद्री ना प्रजापतेः । परोक्षनैश्वदेवं तदाह कौषीतकिः स्वयं ॥ (*taṃ pratnatheti saumī nā dainyaiṃdrī nā prajāpateḥ | parokṣanaiśvadevaṃ tadāha kauṣītakiḥ svayaṃ ‖*) (Bṛ. De. 5-44)
+
+In the mantra तं प्रत्यथा (*taṃ pratyathā*) the deity indicated may be included (in the group), or it may be some other particular deity, or it may be Indra. If it is none of these, Prajāpati himself may be the one indicated: thus in the first half alternative meanings are stated. In the second half, stating the opinion of the Kauṣītaki Brāhmaṇa, the verse cites the sentence spoken by Kauṣītaki that in this mantra the Viśvedevas**NOTE** are indicated indirectly (Kau. Brā. 24-9)**NOTE**.
+
+Thus, when there is no exact opinion even about the deity specified in many mantras, it becomes laborious to determine, in the present section (5-41 to 46), which are the constant deities that belong to the Vaiśvadeva group and which are the incidental deities**NOTE**.
+
+## Sūkta 33 (Maṇḍala 5)
+
+The thirty-third sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्रात्रेः पंचमे मंडले तृतीयेऽनुवाके द्वादश सूक्तानि । तत्र महि
+> मह इति दशर्चं प्रथमं सूक्तं प्रजापतिपुत्रस्य संवरणस्यार्षं । इंद्रो देवता ।
+> त्रिष्टुप् छंदः । महि दश प्राजापत्यः संवरण इत्यनुक्रांतु । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+In the fifth maṇḍala, in the third anuvāka of Atri's hymns, there are twelve sūktas. Among them the first sūkta, महि मह (*mahi maha*), has ten ṛks. Its seer is Saṃvaraṇa, son of Prajāpati; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇikā says: महि दश प्राजापत्यः संवरण (*mahi daśa prājāpatyaḥ saṃvaraṇa*). The use in ritual is laiṅgika (determined by indication).
+
+In the third anuvāka of this fifth maṇḍala, which was seen by three seers, there are twelve sūktas. Among them the sūkta महि महे (*mahi mahe*) is the first. It has ten ṛks. The seer of this sūkta is Saṃvaraṇa, son of Prajāpati; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said: महि दश पाजापत्यः संवरणः (*mahi daśa pājāpatyaḥ saṃvaraṇaḥ*). The use in ritual is laiṅgika.
+
+### Printed p. 250
+
+Sūkta 33.
+
+Maṇḍala 5, Anuvāka 3, Sūkta 33.
+
+Aṣṭaka 4, Adhyāya 2, Varga 1, 2.
+
+Number of Ṛks in the sūkta: 10.
+
+Seer: Saṃvaraṇa Prājāpatya.
+
+Deity: Indra.
+
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॑ म॒हे त॒वसे॑ दीध्ये॒ न्यनिंद्रा॑ये॒त्था त॒वसे॒ अत॑व्यान् ।  
+> यो अ॑स्मै सुम॒तिं वाज॑सातौ स्तु॒तो जने॑ सम॒र्य॑श्चि॒केत॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । महे । तवसे । दीध्ये । न्यून् । इंद्राय । इत्था । तवसे । अतव्यान् ।  
+> यः । अस्मै । सुमतिं । वाजसात् । स्तुतः । जने । समर्यः । चिकेत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं संवरणोऽतव्यानत्यंतमिव दुर्बलः सन् महि महत् प्रभूतं
+> स्तोत्रं महे महते तवसे बलवत इंद्रायेत्थेत्थं वक्ष्यमाणप्रकारेण दीध्ये ।
+> दीपयामि । प्रकाशयामि ! किमर्थं । नृन् ॥ षष्ठ्यर्थे द्वितीया ॥ मनुष्याणामस्मदीयानां तवसे बलाय । यद्वा । ननस्मद्विरोधिनामभिभवायेति शेषः ।
+> तदर्थं तवसेऽस्मद्बलाय । यं इंद्रोऽस्मै जने जनाय संवरणाय वाजसात्
+> संग्रामे वाजस्यान्नस्य वा लाभे निमित्ते सति स्तुतः सन् सुमतिं समर्यो मर्त्यैः
+> स्तोतृभिः सहितो यद्वा सह म्रियमाणैर्युध्यमानैर्मरुदादिभिरथवा समरा
+> र्हश्चिकेत जानाति ॥
+
+##### Gist of the bhāṣya
+
+I, Saṃvaraṇa, being exceedingly weak (अतव्यान् (*atavyān*) means "as it were extremely feeble"), recite (दीध्ये (*dīdhye*) means "I kindle, I make shine") in the manner to be stated an abundant praise (महि (*mahi*)) to Indra, the great and mighty one (महे (*mahe*), तवसे (*tavase*)). For what purpose? नृन् (*nṛn*) stands in the accusative in the sense of the genitive: for the strength of our men; or else, the ellipsis being supplied, for the overcoming of those who oppose us: for that purpose, for our strength. That Indra, when praised on the occasion of winning a battle or winning food (वाजसात् (*vājasāt*)), knows (चिकेत (*ciketa*)) favourable intent toward this person (अस्मै जने (*asmai jane*)), Saṃvaraṇa. समर्यः (*samaryaḥ*) means accompanied by mortal praisers; or accompanied by the Maruts and others who fight and die in the battle; or else, worthy of the battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतव्यान् (*atavyān*)—I, who am extremely weak
+- महे (*mahe*)—who is of great form
+- तवसे (*tavase*)—and mighty
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- न्यन् (*nyan*)—to men
+- तवसे (*tavase*)—for giving strength
+- इत्या (*ityā*)—in this manner
+- महि (*mahi*)—the abundant praise
+- दीध्ये (*dīdhye*)—I recite with brilliance
+
+### Printed p. 251
+
+- समरः (*samaraḥ*)—accompanied by the Maruts and others
+- यः (*yaḥ*)—that same Indra who
+- वाजसात् (*vājasāt*)—in the battle fought for food
+- स्तुतः (*stutaḥ*)—being praised
+- अस्मै जने (*asmai jane*)—for me (named Saṃvaraṇa), on whom it is to be placed
+- सुमतिं (*sumatiṃ*)—the favourable mind
+- चिकेत (*ciketa*)—he knows
+
+##### भावार्थ (Bhāvārtha)
+
+For the sake of giving strength to all men, I, who am extremely weak, recite, in the manner to be stated, an abundant and brilliant praise addressed to Indra, who is of great form and mighty. Indra, accompanied by the Maruts and others, being praised in the battle fought for food, knows the favourable mind that is to be placed in me, who am named Saṃvaraṇa.
+
+##### English translation
+Feeble as I am, I offer praise to the great and vigorous Indra, for this purpose, (that he may grant) strength to (our) people : he who, associated with the Maruts, shews favour to this person when praised for the sake of sustenance.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं न॑ इंद्र धियसा॒नो अ॒र्कैर्हरी॑णां वृष॒न्योक्र॑मश्रेः ।  
+> या इ॒त्था म॑घव॒न्ननु॒ जोषं॒ वक्षो॑ अ॒भि प्राय्यः स॑क्षि॒  ॑
+> जनान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । इंद्र । धियसानः । अर्कैः । हरीणां । वृषन् । योक्रं । अश्रेः ।  
+> याः । इत्था । मघवन् । अनु । जोषं । वक्षः । अभि । प्र । अर्यः । सक्षि । जनान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् वर्षकेंद्र स प्रसिद्धस्त्वं नोऽस्मानियसानो ध्यायन् अर्कैरर्चनसाधनैः स्तोत्रैर्निमित्तभूतैर्हरीणां रथे नियोज्यानामश्वानां योक्रं
+
+### Printed p. 252
+
+> नियोजनरज्जुमश्रेः । आश्रयसि । याः ॥ लिंगव्यत्ययः ॥ यानर्कान् हे मघवन्
+> इत्थेष्ठं जोषं प्रीतिमनु वक्षोऽवहः तैर्निमित्तैर्योक्रमश्रेरिति । तथा कृत्वार्योऽस्मदरीन् जनानभि अभिमुख्येन प्र प्रकृष्टं सक्षि । पराभव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, showerer, you, the famous one, thinking of us (ध्यायन् (*dhyāyan*)) by means of praises (अर्कै (*arkai*), the instruments of worship) as the cause, fasten (अश्रेः (*aśreḥ*) means "you resort to") the traces (योक्रं (*yokraṃ*), the yoking rope) of the horses (हरीणां (*harīṇāṃ*)) that are to be harnessed to the chariot. याः (*yāḥ*) is a change of gender: O Maghavan, with the praises with which you bring the desired delight (जोषं (*joṣaṃ*), love), for those reasons you fasten the traces. Having done so, overpower strongly, in front, the people who are our enemies (अर्यः (*aryaḥ*), जनान् (*janān*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- वृषवन् (*vṛṣavan*)—O showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—the famous one
+- त्वं (*tvaṃ*)—you
+- याः (*yāḥ*)—in which of our praises
+- इत्या (*ityā*)—in this manner
+- जोषं (*joṣaṃ*)—love
+- अनु वक्षः (*anu vakṣaḥ*)—you have (such)
+- अर्कैः (*arkaiḥ*)—being satisfied by our praises
+- नः (*naḥ*)—us alone
+- धियसानः (*dhiyasānaḥ*)—thinking (with a mind of favour)
+- हरीणां (*harīṇāṃ*)—of the horses
+- योक्रं (*yokraṃ*)—the bridle
+- अश्रेः (*aśreḥ*)—you take hold of
+- अरैः (*araiḥ*)—(for us) the hostile
+- जनान् (*janān*)—people
+- अभि (*abhi*)—all around
+- प्र सक्षि (*pra sakṣi*)—overcome
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, showerer of desires, you, famous in the world, take great delight in our praises and, satisfied by them, thinking of us alone with a mind of favour, make your horses ready to come to us and take hold of their bridle. Overcome completely the people who are hostile to us.
+
+##### English translation
+You, Indra, medit ting upon us, fasten the traces of yours horses, (incited), showerer (of benefits), by those praises in which you take suitable delight, and therefore overcome (for us) hostile men.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते त॑ इंद्रा॒भ्य१॒ं॑स्मदृ॒ष्टायु॑क्तासो अब्र॒ह्मता॒ यदस॑न् ।  
+> तिष्ठा॒ रथ॒मधि॒ तं व॑ज्रह॒स्ता र॒श्मिं दे॑व यमसे॒ स्वश्वः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते। ते । इंद्र । अभि । अस्मत् । ऋष्ट । अयुक्तासः । अब्रह्मता । यत् । असन् !  
+> तिष्ठ । रथं । अधि । तं । वज्रहस्त । आ । रश्मिं । देव । यमसे । सुअश्वः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 246. Vol 19 pp. 240-246: end of Ṛk 11, Ṛk 12, end of Adhyāya 1, Pīṭhike of Adhyāya 2
+**Progress note:** Done through printed p. 252. Vol 19 pp. 247-252: Pīṭhike end, Sūkta 33 Ṛk 1-3 (Saṃhitā, Pada)
