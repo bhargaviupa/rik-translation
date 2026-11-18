@@ -755,6 +755,325 @@ Sāyaṇa says: O lord of wealth, protector of wealth, Indra, you, the single ch
 - अभूः (*abhūḥ*)—you have become the master
 - हस्तयोः (*hastayoḥ*)—your two arms
 
+### Printed p. 20
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णी (*kṛṣṇī*)—all the peoples
+- आ अधिथाः (*ā adhithāḥ*)—you have lifted up and hold
+- चर्षणयः (*carṣaṇayaḥ*)—men
+- तोके (*toke*)—for the sake of a son
+- अप्पु (*appu*)—for the sake of water
+- सूरे (*sūre*)—of the valiant
+- तनये (*tanaye*)—for the sake of a grandson
+- विवाचः (*vivācaḥ*)—praises of many kinds
+- वि अवोचंत (*vi avocaṃta*)—they recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of wealth, you alone, the chief among the gods, have become the master of all riches. With your two arms you have lifted up and hold all the peoples (you protect them). Men, for the sake of a son, for the sake of water, and for the sake of valiant grandsons, recite in your name praises of many kinds.
+
+##### English translation
+You, lord of riches. are the chief (sovereign) over riches: you hold men in your two hands, and men glorify you with various praises for (the sake of obtaining) sons. and valiant grandsons, and rain.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद्भि॒येंद्र॒ पार्थि॑वानि॒ विश्वाच्यु॑ता चिच्छावयंते॒ रजां॑सि ।  
+> द्यावा॒क्षामा॒ पर्व॑तासो॒ वना॑नि॒ विश्वं॑ दृ॒ळ्णं भ॑यते॒ अज्म॒न्ना  ॑
+> ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वत् । भिया । इंद्र । पार्थिवानि । विश्वा । अच्युता । चित् । च्यवयंते । रजांसि ।  
+> द्यावाक्षामा । पर्वतासः । वनानि । विश्वं । दृळं । भयते । अज्मन् । आ । ते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वत्त्वत्तो भिया भयेन विश्वा विश्वानि व्यापकानि पार्थिवानि । पृथिव्यंतरिक्षनाम । तत्र भवानि रजांस्युदकान्यच्युता चित् च्यावयितुमशक्यान्यपि
+> च्यावयंते । मेघाः प्रच्यावयंति । वर्षंतीत्यर्थः । अपि च हे इंद्र ते तवा
+> अज्मन्नागमने सति द्यावाक्षामा द्यावापृथिव्यौ पर्वतासो गिरयो वनानि वृक्षाश्च
+> भयं प्राप्नुवंति । किं बहुना विश्वं सर्वं दृश्यं स्थिरं प्राणिजातं भयते बिभेति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, through fear of you the waters (the word for them is explained as the three worlds' waters) that belong to the earth and the mid-region, all-pervading, and by nature impossible to dislodge, are nevertheless made to move: the clouds shake them down; that is, they rain. Further, O Indra, when you come, heaven and earth, the mountains, and the forests, that is the trees, are seized with fear. Why say more: the whole visible, stable world of living creatures trembles. **NOTE**
+
+### Printed p. 21
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वत् (*tvat*)—your
+- भिया (*bhiyā*)—through fear
+- विश्वा (*viśvā*)—all-pervading
+- पार्थिवानि (*pārthivāni*)—earth and the rest
+- रजांसि (*rajāṃsi*)—the three worlds also
+- अच्युता चित् (*acyutā cit*)—though devoid of movement
+- च्यावयंते (*cyāvayaṃte*)—shake the clouds and cause rain to pour
+- ते (*te*)—your
+- अ अज्मन् (*a ajman*)—at the time of coming
+- द्यावाक्षामा (*dyāvākṣāmā*)—heaven and earth
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- वनानि (*vanāni*)—the trees
+- विश्वं (*viśvaṃ*)—all
+- दृळ्हं (*dṛḷhaṃ*)—the stable things also
+- भयते (*bhayate*)—are seized with fear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, through fear of you the three worlds, earth and the rest, all-pervading, shake the motionless clouds and cause rain to pour. At the time of your coming, heaven and earth, the mountains, the trees, and all stable things are seized with fear.
+
+##### English translation
+Through fear of you, Indra, all the regions of the firmament cause the unfallen (rain) to descend : the heavens, the earth, the mountains, the forests, all the solid (universe) is alarmed at your approach.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं कुत्से॑ना॒भि शुष्ण॑मिंद्रा॒शुषं॑ युध्य॒ कुय॑वं॒ गवि॑ष्टौ ।  
+> दश॑ प्रसि॒त्वे अध॒ सूर्य॑स्य मुषा॒यश्च॒क्रमवि॑वे॒ रपां॑सि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । कुत्सेन । अभि । शुष्णं । इंद्र । अशुषं । युध्य । कुयवं । गोऽइष्टौ ।  
+> दश । प्रपित्वे । अध । सूर्यस्य । मुषायः । चक्रं । अविवेः । रपांसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं कुत्सेन सहाशुषं शोषयितुमशक्यं प्रबलं शुष्णं सर्वस्य
+> शोषकमेतत्सज्ञमसुरमभि युध्य । अभ्ययुध्यः । कुत्सस्य साहाय्यार्थं तेनासुरेण सह युद्धं कृतवानसीत्यर्थः । तथा गविष्टौ । गावो बाणा इष्यंति गच्छंतीति
+
+##### Gist of the bhāṣya
+
+O Indra, you, together with Kutsa, fought against the asura named Śuṣṇa, who is unwithering, that is, impossible to wither, mighty, the one who withers everything; the meaning is that to help Kutsa you made war with that asura. Likewise in the *gaviṣṭi*: the "cows" are arrows, which go; hence *gaviṣṭi* is a battle.
+
+### Printed p. 22
+
+> गविष्टिः संग्रामः । तस्मिन्कुयवमेतत्संज्ञमसुरं च दश । अदशः । हिंसितवानसि ॥
+> दन्य दशन इत्येतस्माच्छांदसे लोटि रूपं ॥ अधापि च प्रपित्वे प्रपतने युद्धे
+> सूर्यस्य चक्रं रथावयवभूतं मुषायः । अमुष्णाः । तदाप्रभृति सूर्यस्य रथ
+> एकचक्रोऽभूत् । तथा चाम्नातं । सप्त युंजंति रथमेकचक्रं । ऋग्वे. १.१६४-२ ।
+> इति । एतशाख्यस्य ऋषेः सूर्येण सह युद्धे तत्साहाय्यार्थमागत इंद्रः
+> सूर्यस्य चक्रमपहृतवानित्याख्यातं । सूरश्चक्रं प्र वृहज्जात ओजसा । ऋग्वे.
+> १-१३०-९ । इति च निगमांतरं । अपि च रपांसि पापकारीणि रक्षःप्रभृतीन्यविवेः ।
+> अस्माल्लोकादगमयः । अवधीरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In that battle you also slew the asura named Kuyava. Further, in the battle, the "falling" (*prapitva*), you carried off the wheel of the sun, a part of his chariot; from that time the sun's chariot has had one wheel. So it is handed down: सप्त युंजंति रथमेकचक्रं (*sapta yuṃjaṃti rathamekacakraṃ*) (Ṛgve. 1.164-2). It is related that when the seer called Etaśa fought with the sun, Indra came to his help and took away the sun's wheel; and another passage of the Veda says: सूरश्चक्रं प्र वृहज्जात ओजसा (*sūraścakraṃ pra vṛhajjāta ojasā*) (Ṛgve. 1-130-9). Moreover, you drove the sinful ones, the rākṣasas and the rest, away from this world; that is, you slew them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- कुत्सेन (*kutsena*)—together with Kutsa
+- अशुषं (*aśuṣaṃ*)—the mighty
+- शुष्णं (*śuṣṇaṃ*)—the asura called Śuṣṇa, facing him
+- अभि युध्य (*abhi yudhya*)—you have waged war
+- गविष्टौ (*gaviṣṭau*)—in the battle for cows
+- कुयवं (*kuyavaṃ*)—the asura called Kuyava
+- दश (*daśa*)—you have slain
+- अध (*adha*)—afterwards
+- प्रपित्वे (*prapitve*)—at the time of battle
+- सूर्यस्य (*sūryasya*)—of the sun
+- चक्रं (*cakraṃ*)—the wheel
+- मुषायः (*muṣāyaḥ*)—you have carried off
+- रपांसि (*rapāṃsi*)—the sinful rākṣasas
+- अविवेः (*aviveḥ*)—you have driven far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, together with Kutsa you have waged war against the mighty asura called Śuṣṇa, facing him. In the battle for cows you have slain the asura called Kuyava. At the time of battle you have carried off the wheel of the sun, and you have driven the sinful rākṣasas far away.
+
+##### English translation
+You, Indra, with Kutsa, have warred against the inexhaustible Sushna: you have ovhrthrown Kuyava in battle : in conflict you have carried off the wheel (of the chariot) of the sun : you have driven away the malignant (spirits).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं श॒तान्यव॒ शंब॑रस्य॒ पुरो॑ जघंथाप्र॒तीनि॒ दस्योः॑ ।  
+> अशि॑क्षो॒ यत्र॒ शच्या॑ शचीवो॒ दिवो॑दासाय सुन्व॒ते सु॑तक्रे  
+> भ॒रद्वा॑जाय गृण॒ते वसू॑नि ॥ ४ ॥
+
+### Printed p. 23
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । शतानि । अव । शंबरस्य । पुरः । जघंथ । अप्रतीनि । दस्योः ।  
+> अशिक्षः । यत्र । शच्या । शचीवः । दिवःदासाय । सुन्वते । सुतक्रे । भरत्वाजाय ।  
+> गृणते । वसूनि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं शतानि शतसंख्यानि दस्योरुपक्षपयितुरसुरस्य शंबरस्यैतत्संज्ञस्य
+> पुरः पुरीरप्रतीनि ॥ लिंगव्यत्ययः ॥ केनाप्यप्रतिगता अव जघंथ । अवाहन् । हे
+> शचीवः प्रज्ञावन् हे सुतक्रे अभिषुतेन सोमेन क्रीतेंद्र यत्र यस्मिन्काले
+> सुन्वते सोमाभिषवं कुर्वते दिवोदासाय शच्या प्रज्ञयाशिक्षो धनानि प्रादा
+> गृणते स्तुवते भरद्वाजाय च वसूनि प्रादाः तस्मिन्काले शांबरीः पुरोऽव
+> जघंथेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you struck down the hundred cities of the Dasyu, the asura named Śambara, the destroyer; the cities were such that nobody could withstand them. O possessor of wisdom (*śacīvān*), O Sutakra, Indra, bought with the pressed Soma: at the time when you, by your wisdom, gave riches to Divodāsa who was pressing the Soma, and gave riches also to Bharadvāja who praises you, at that time you struck down the cities of Śambara. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीवः (*śacīvaḥ*)—O wise one
+- सुतक्रे (*sutakre*)—O Indra, bought with Soma
+- यत्र (*yatra*)—at which time
+- सुन्वते (*sunvate*)—to the one pressing the Soma juice
+- दिवोदासाय (*divodāsāya*)—to Divodāsa
+- शच्या (*śacyā*)—by wisdom
+- अशिक्षः (*aśikṣaḥ*)—you gave wealth
+- गृणते (*gṛṇate*)—to the one who praises you
+- भरद्वाजायॆ (*bharadvājāyè*)—to Bharadvāja
+- वसूनि (*vasūni*)—riches (you gave), at that time
+- त्वं (*tvaṃ*)—you
+- दस्योः (*dasyoḥ*)—of the violent one
+- शंबरस्य (*śaṃbarasya*)—of Śambara
+- शतानि (*śatāni*)—hundreds
+- अप्रतीनि (*apratīni*)—unassailable
+- पुरः (*puraḥ*)—cities
+- अव जघंथ (*ava jaghaṃtha*)—you tore down and destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Indra, bought with Soma: at the time when you gave wealth, by your wisdom, to Divodāsa who presses the Soma juice, and gave riches to Bharadvāja who praises you, at that time you tore down and destroyed the hundred unassailable cities of the violent Śambara.
+
+##### English translation
+You have destroyed the hundred impregnable cities of the Dasyu, Sambara, when, sagacious Indra, you, who are brought by the libation, have bestowed in your liberality riches upon Divodasa presenting to you libations, and upon Bharadwaja hymning your praise.
+
+### Printed p. 24
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स स॑त्यसत्त्वन्मह॒ते रणा॑य॒ रथ॒मा ति॑ष्ठ तुविनृष्ण भी॒मं ।  
+> या॒हि प्र॑पथि॒न्नव॒सोप॑ म॒द्रिक्प्र च॑ श्रुत श्रावय चर्ष॒णिभ्यः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सत्यसत्वन् । महते । रणाय । रथं । आ । तिष्ठ । तुविनृम्न । भीमं ।  
+> याहि । प्रपथिन् । अवसा । उप । मद्रिक् । प्र । च । श्रुत । श्रवय । चर्षणिभ्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सत्यसत्वन् । सत्याः सत्वानो भटा यस्य स तथोक्तः । हे तुविन्नम्म ।
+> तुवि बहुलं नृम्मं धनं यस्य स तथोक्तः । हे तादृशेंद्र स त्वं महते रणाय
+> संग्रामाय तदर्थं भीमं भयंकरमात्मीयं रथमा तिष्ठ । हे प्रपथिन् प्रकृष्टमार्गेंद्र अवसा रक्षणेन सह तेन च रथेनोप याहि आगच्छ मदभिमुखः।
+> कथा हे श्रुत विश्रुतेंद्र चर्षणिभ्यः प्रजाभ्यः प्र श्रावय च । अस्मान् प्रख्यापय
+> च । सर्वासु प्रजासु मध्येऽस्मान्प्रख्यातान् कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you whose warriors are true (*satyasatvan*), and whose wealth is abundant (*tuvinṛmṇa*): you, such as you are, mount your own formidable, terrible chariot for the great battle. O Indra of the excellent road (*prapathin*), come with that chariot, with your protection, towards me. And, O renowned Indra, make us heard of among the peoples, that is, make us famous; the meaning is: make us celebrated in the midst of all the subjects.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्यसत्वन् (*satyasatvan*)—O you who have heroes of true strength
+- तुविनृम्म (*tuvinṛmma*)—O Indra, possessor of abundant wealth
+- सः (*saḥ*)—you
+- महते (*mahate*)—for the great
+- रणाय (*raṇāya*)—battle
+- भीमं (*bhīmaṃ*)—terrible
+- रथं (*rathaṃ*)—chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount and sit
+- प्रपथिन् (*prapathin*)—O Indra of the excellent road
+- अवसा (*avasā*)—with your protection
+- मद्रिक् (*madrik*)—towards me
+- उप याहि (*upa yāhi*)—be gracious
+- श्रुत (*śruta*)—O renowned Indra
+- चर्षणिभ्यः (*carṣaṇibhyaḥ*)—before the other peoples
+- प्र श्रावय (*pra śrāvaya*)—make us famous
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have heroes of true strength and abundant wealth, mount and sit in your terrible chariot for the great battle. O Indra of the excellent road, come towards us together with your protection. O renowned Indra, make us famous before the other peoples.
+
+### Printed p. 25
+
+##### English translation
+Leader of true heroes, possessor of infinite wealth, mount your formidable car for the arduous conflict : come to me, pursuer of a forward path, for my protection: do you, who are renowned, proclaim (our renown) amongst men.
+
+The thirty-second sūkta
+
+## Sūkta 32 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपूर्व्येति पंचर्चं नवमं सूक्तं त्रैष्टुभमैंद्रं । द्वितीये छांदो
+> मिकेऽहनि निष्केवल्य एतत्सूक्तं । सूत्रितं च । अपूर्व्या पुरुतमानि तां सु ते
+> कीर्तिं । आ. ८-७ । इति ॥ महाव्रतेऽपि निष्केवल्येऽस्य सूक्तस्य विनियोग उक्तः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning अपूर्व्या (*apūrvyā*) is the ninth sūkta; it is in the Triṣṭubh metre and addressed to Indra. On the second Chandoma day this sūkta belongs to the Niṣkevalya litany. It is also laid down in the sūtra: अपूर्व्या पुरुतमानि तां सु ते कीर्तिं (*apūrvyā purutamāni tāṃ su te kīrtiṃ*) (Ā. 8-7). The application of this sūkta to the Niṣkevalya litany in the Mahāvrata is also stated.
+
+Anuvāda: This sūkta, beginning with अपूर्व्या (*apūrvyā*), is the ninth sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Suhotra, the seer of the preceding sūkta; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇī it is stated as beginning with अपूर्व्या (*apūrvyā*). That this sūkta is applied to the Niṣkevalya-śastra mantras on the day of reciting the second Chandoma mantras is set out in the Āśvalāyana Śrauta Sūtra by the sūtra अपूर्व्या पुरुतमानि तां सु ते कीर्तिं (*apūrvyā purutamāni tāṃ su te kīrtiṃ*) (Ā. 8-7). It has been said earlier that this sūkta is applied to the Niṣkevalya-śastra mantras also in the rite called Mahāvrata.
+
+Sūkta 32. Maṇḍala 6. Anuvāka 3. Sūkta 32. Aṣṭaka 4. Adhyāya 7. Varga 4. Number of Ṛks in the sūkta: 5. Seer: Suhotra. Deity: Indra. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपू॑र्व्यान् पुरु॒षमा॑न्यस्यै म॒हे वी॒राय॑ त॒वसे॑ तु॒राय॑ ।  
+> वि॒र॒प्पिने॑ व॒ज्रणे॒ शंत॑मानि॒ वचां॑स्या॒सा स्थवि॑राय तक्षं ॥ १ ॥
+
+### Printed p. 26
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपूर्व्या । पुरुतमानि । अस्मै । महे । वीराय । तवसे । तुराय ।  
+> विरप्यिने । वज्रिणे । शंतमानि । वचांसि । आसा । स्थविराय । तक्षं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपूर्व्यापूर्व्याणि पूर्वैरकृतानि नूतनानि पुरुतमानि बहुतमानि शंतमानि
+> सुखकृत्तमानि वचांसि स्तुतिरूपाणि वाक्यान्यासास्येनास्मा इंद्राय तक्षं । अशक्षं ।
+> करोमि । कीदृशाय । महे महते वीराय विविधशत्रूणां मारयित्रे तवसे
+> तवस्विने बलवते तुराय त्वरमाणाय विरष्यने विशेषेण स्तुत्याय वज्रिणे वज्रवते
+> स्थविराय प्रवृद्धाय ॥
+
+##### Gist of the bhāṣya
+
+I fashion with my mouth for this Indra words of praise that are unprecedented, that is, new, not made by earlier singers; most numerous; and most productive of happiness. For what kind of Indra: great; a hero, the slayer of various enemies; mighty; swift; to be praised in a special degree **NOTE**; the wielder of the thunderbolt; and grown great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—who is of great nature
+- वीराय (*vīrāya*)—the valiant
+- तवसे (*tavase*)—the mighty
+- तुराय (*turāya*)—the swift
+- विरप्पिने (*virappine*)—the greatly praised
+- वज्रिणे (*vajriṇe*)—the bearer of the thunderbolt
+- स्थविराय (*sthavirāya*)—the one who is growing
+- अस्यॆ (*asyè*)—to this Indra
+- अपूर्व्या (*apūrvyā*)—unprecedented
+- पुरुतमानि (*purutamāni*)—very abundant
+- शंतमानि (*śaṃtamāni*)—productive of happiness
+- वचांसि (*vacāṃsi*)—words of praise
+- आसा (*āsā*)—from my mouth
+- तक्षं (*takṣaṃ*)—I fashion
+
+##### भावार्थ (Bhāvārtha)
+
+To Indra, who is of great nature, valiant, mighty, swift, greatly praised, the bearer of the thunderbolt, and growing in strength, I fashion from my mouth words of praise that are unprecedented (new), most abundant, and productive of happiness.
+
+##### English translation
+I have fabricated with my mouth unprecedented, comprehensive, and gratifying prasies to that mighty, heroic, powerful, rapid, adorable, and ancient wielder of the thunderbolt.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मा॒तरा॒ सूर्ये॑णा कवी॒नामवा॑सयद्रु॒जदद्रिं॑ गृणा॒नः ।  
+> स्वा॒धीभि॒र्ऋक्व॑भिर्वावशा॒न उदु॒स्रिया॑णामसृजन्नि॒ दानं॑ ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 19. Suk 30 Rk 3-5, Suk 31 intro and Rk 1 (to p. 19)
+**Progress note:** Done through printed p. 26. Sūkta 31 Ṛk 1 (end) to 5, Sūkta 32 intro and Ṛk 1-2 (saṃhitā)
