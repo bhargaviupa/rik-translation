@@ -12855,6 +12855,210 @@ The asura called Svarbhānu covered Sūra with darkness. Then the gods desired t
 
 In this passage it is said that when Sūrya was covered by the darkness of Svarbhānu, Soma and Rudra freed him from the darkness. Thus the Kauṣītakī Brāhmaṇa says that the release of Sūrya came about through the power of the seer Atri **NOTE**, the Taittirīya Saṃhitā says that it was brought about by the effort of the gods alone, and the Śatapatha says that the release of Sūrya came about through the power of Soma and Rudra. Thus, in the account of the manner of the release of Sūrya
 
+### Printed p. 329
+
+Though there are differences, there is one and the same view concerning the power of Svarbhānu and the obstruction to the course of the world that was caused by him. Whether the hiding of Sūrya seized by Rāhu, which the Purāṇas and the like and astronomy always describe as an eclipse, is the very same eclipse that the Ṛk-saṃhitā and the other texts speak of when Sūrya is seized by Svarbhānu, is a matter of debate among scholars. In order to discuss this point, one must first examine what the nature of Rāhu is in the worldly works, and whether Rāhu possesses all the features that are described in Svarbhānu. In the Purāṇas and the like, Svarbhānu and Rāhu are both said to be sons of Kaśyapa. But one might have to say that the persons are different.
+
+स्वर्गानुरश्वोऽश्वपतिवृषपर्नाजकस्तथा (*svargānuraśvo 'śvapativṛṣaparnājakastathā*)
+(Ma. Bhā. Ādi. Pa. 66-24)
+
+Here it is understood that the asura called Svarbhānu was born of the sage Kaśyapa in his wife called Danu, and that Rāhu is another name of his. Moreover,
+
+सिंहिका सुषुवे पुत्रं राहु चंद्रार्कमर्दनं (*siṃhikā suṣuve putraṃ rāhu caṃdrārkamardanaṃ*)
+(Ādi-parva 66-31)
+
+Here it is said that Rāhu is the son of Siṃhikā and the one who swallows the moon and the sun. In the same way, in several other places it is said that Rāhu and Svarbhānu are not different persons but one and the same person. Moreover, in the Bṛhaddevatā also,
+
+प्राजापत्यो मरीचिर्हि मारीचः कश्यपो मुनिः । तस्य देव्योऽभवञ्चाया दाक्षायण्यस्रयोदश ॥ अदितिर्दितीर्दनुः काला दनायुः सिंहिका मुनिः । (*prājāpatyo marīcirhi mārīcaḥ kaśyapo muniḥ | tasya devyo 'bhavañcāyā dākṣāyaṇyasrayodaśa ‖ aditirditīrdanuḥ kālā danāyuḥ siṃhikā muniḥ |*)
+(Bṛ. De. 5-143, 4)
+
+Prajāpati had a son called Marīci, and Marīci had a son called Kaśyapa. Kaśyapa had thirteen divine wives, the daughters of Dakṣa: Aditi, Diti, Danu, Kālā, Danāyu, Siṃhikā and so on. Thus there is no great difference between what is set out in the Vedic passages and what is set out in the Purāṇas and the like. Therefore, to answer the question whether one can say that the state of Sūrya seized by Rāhu, which is described as the solar eclipse, is the very thing that is described in the Vedic passages as being seized by Svarbhānu, one will have to investigate on the basis of certain Vedic passages. In the present context, certain passages must be examined in order to learn whether the matter of the solar eclipse is stated clearly and whether there is an exact account of it.
+
+### Printed p. 330
+
+सा मा सत्योक्तिः परि पातु विश्वतो द्यावा च यत्र ततनन्नहानि च । विश्वमन्नन्नि विशते यदेजति विश्वहापो विश्वाहोदेति सूर्यः ॥ (*sā mā satyoktiḥ pari pātu viśvato dyāvā ca yatra tatanannahāni ca | viśvamannanni viśate yadejati viśvahāpo viśvāhodeti sūryaḥ ‖*)
+(Ṛ. Saṃ. 1-37-2)
+
+Some scholars (Ludwig) have held, on the basis of this mantra, which gives the meaning that by which truth the expanse of heaven and earth comes about, and by which truth the revolution of night and day comes about, may that truth protect me; by the power of that truth all the business of the world goes on; and Sūrya too keeps up his daily movement of revolution, that Sūrya revolves around the earth, that when an obstruction by the moon occurs it is a solar eclipse, and that this moon is the one described as Svarbhānu. But this meaning does not give the purport of the mantra above correctly. Moreover, there is also the possibility of saying that there are passages in the Ṛk-saṃhitā which support the above view. For example:
+
+अनाधृष्टानि धृषितो व्यास्यन्निधीरदेवा अमृणदयास्यः । मासेव सूरो वसु पुर‍्यमा ददे गृणानः शत्रुरशृणाद्विरुक्मता ॥ (*anādhṛṣṭāni dhṛṣito vyāsyannidhīradevā amṛṇadayāsyaḥ | māseva sūro vasu puryamā dade gṛṇānaḥ śatruraśṛṇādvirukmatā ‖*)
+(Ṛ. Saṃ. 10-138-4)
+
+In this mantra they have taken the word मासेव (*māseva*) to mean the moon, and have shown the purport that, just as Sūrya is covered and seized by the moon, so may the wealth of the asuras be seized by Indra.
+(Journal of American oriental Society. Vol. 13. p. LXII)
+(Journal of American oriental Society. Vol. 13. p. LXII)
+
+But this meaning is plainly wrong. In this mantra there is no room at all for the meaning moon. The purport of this mantra is "in the way that Sūrya takes up the moisture of the earth, in that way." Therefore this mantra does not help the above view. In the same way they have given wrong meanings to many other mantras and criticised them. But to cite all of them would be out of place here. In the present context there is no support whatever for the idea that the revolution of Sūrya is obstructed by the moon. Svarbhānu must be understood to mean Rāhu; Rāhu is the cause of the eclipse of both Sūrya and the moon. रहति गृहीत्वा त्यजति चंद्रार्कौ (*rahati gṛhītvā tyajati caṃdrārkau*) (रह त्यागे (*raha tyāge*)): because he first seizes the moon and Sūrya and afterwards releases them, he is called Rāhu. स्वः आकाशे विपरीतलक्षणया भाति (*svaḥ ākāśe viparītalakṣaṇayā bhāti*): because he shines in a way different from both Sūrya and the moon, he is called Svarbhānu. The present sūkta praises the fact that only the fourth mantra of the great sage Atri was able to release the eclipse brought about by such a Svarbhānu.
+
+### Printed p. 331
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॑र्भानो॒रथ॒ यदिं॑द्र मा॒या अ॒वो दि॒वो वर्त॑माना अ॒वाह॑न्।  
+> गू॒ळ्लं सूर्यं॒ तम॒साप॑व्रतेन तु॒रीये॑ण॒ ब्रह्म॑णाविंद॒दत्रिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वःभानोः। आध । यत् । इंद्र । मायाः । अवः । दिवः। वर्तमानाः । अवअहन् ।  
+> गूळं । सूर्यं । तमसा । अस्यव्रतेन । तुरीयेण । ब्रह्मणा । अविंदत् । अत्रिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथ जगन्मौड्यानंतरं स्वर्भानोरसुरस्य यत्, या मायाः संति ।
+> कीदृश्यस्ताः । दिवो द्योतमानादादित्याववोवस्ताद्वर्तमानाः। तदुपरितिरोधानासामर्थ्यादिति भावः । हे इंद्र ताः सर्वा अवाहन् । अवहंसि । अथात्रेरेव
+> परोक्षवादः । तमसांधकारेणापव्रतेनापगतकर्मणा गूळं सूर्यं । अंधकारस्यावरणरूपत्वादपव्रतत्वं । तथाविधु तुरीयेण ब्रह्मणा ग्राव्णो ब्रह्मेत्यनेनात्रिरविंदत् , लब्धवान् आवरणापगमोपायं निवारणं शुद्धं ना सूर्यमिति ।
+> पूर्वमंत्रापेक्षयास्य तुरीयत्वं । एकैकं मायांशमेकैकेन मंत्रेणापनोद्य
+> चतुर्थेन मंत्रेण निलीनं तमोऽप्यनुददित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that, after the bewildering of the world, whatever illusions the asura Svarbhānu has are spread out below the shining sun, because they were able to obstruct it; O Indra, you destroyed all of them. The statement then turns to Atri himself, in indirect speech: Atri found the sun, hidden by the darkness that is अपव्रतेन (*apavratena*), that is, one that has put a stop to the sun's action (darkness is of the nature of a covering, hence it is called "deprived of action"), by the fourth prayer; he obtained the means by which the covering is removed, namely the prayer that begins with the word of the pressing-stone. It is called the fourth in relation to the preceding mantras: having driven off one portion of the illusion with each mantra, with the fourth mantra he drove away even the darkness that had lurked in hiding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—afterwards
+- इंद्र (*iṃdra*)—O Indra
+- दिवः (*divaḥ*)—of the shining Sun
+- अवः (*avaḥ*)—in the region below
+- वर्तमानाः (*vartamānāḥ*)—(hiding the Sun above) lying completely covering
+- स्वर्भानोः (*svarbhānoḥ*)—of Svarbhānu
+- यत् मायाः (*yat māyāḥ*)—those illusory forms of the nature of darkness that there are
+- अवाहन् (*avāhan*)—you destroyed
+- अपव्रतेन (*apavratena*)—that obstructs (the Sun's) action
+- तमसा (*tamasā*)—by pitch darkness
+- गूळ्हं (*gūḷhaṃ*)—concealed
+- सूर‍्यं (*sūryaṃ*)—Sūrya
+- अत्रिः (*atriḥ*)—the sage Atri
+- तुरियेण (*turiyeṇa*) ब्रह्मणा (*brahmaṇā*)—by the recitation of the fourth mantra
+- अविंदत् (*aviṃdat*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as soon as you destroyed the illusory powers, of the nature of darkness, of Svarbhānu, which lay in the region below the shining Sun, hiding the Sun above and covering him completely, the sage Atri obtained, by reciting the fourth mantra, the Sūrya who was concealed by the pitch darkness that obstructs action.
+
+### Printed p. 332
+
+##### English translation
+When Indra, you were dissipating those illusions of Swarbhanu which were spread below the sun, then Atri, by his fourth sacred prayer, discovered the sun concealed by the darkness impeding his functions.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुरियेण ब्रह्मणा (*turiyeṇa brahmaṇā*)—by the fourth hymn of praise or by the recitation of a mantra. In this sūkta the matter of Svarbhānu, and how he hid the radiance of Sūrya so that it did not shine, is stated. Indra, with the help of the sage Atri, destroyed this asura and made Sūrya, who had been covered by darkness, shine again. This matter is also set out in detail in the 5th, 6th, 7th and 8th Ṛks of this sūkta. Therefore तुरियेण ब्रह्मणा (*turiyeṇa brahmaṇā*), "by the fourth mantra", means that here the sage Atri made the radiance of Sūrya shine again by the fourth (of the 5th, 6th, 7th and 8th Ṛks), the 8th Ṛk of this sūkta, ग्राज्ञो ब्रह्मा (*grājño brahmā*) **NOTE**. This is the view stated here.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा मामि॒मं तव॒ संत॑मत्र इर॒स्या द्रु॒ग्धो भि॒यसा॒ नि  ॑
+> गारीत् ।  
+> त्वं मि॒त्रो अ॑सि स॒त्यरा॑धा॒स्तौ मे॒हाव॑तं॒ वरु॑णश्च॒ राजा॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । मां । इमं । तव । संतं । अत्ते । इरस्या । द्रुग्धः । भियसा । नि । गारीत् ।  
+> त्वं । मित्रः । असि । सत्यराधाः । शौ । मा । इह । अवतं । वरुणः । च । राजा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं सूर्यवाक्यं । हे अत्रे मामिममीदृगवस्थं मां तव संतं तन
+> स्वभूतमिरस्यान्नेच्छया द्रुग्धो द्रोग्धासुरो भियसा भयजनकेन तमसांध-
+
+##### Gist of the bhāṣya
+
+This is the speech of Sūrya. He says: O Atri, let the deceiver, the asura, who is moved by desire for food (इरस्या (*irasyā*) here means by wish for food), not swallow me, who am in such a state and who belong to you, who am your own, with fearful darkness.
+
+### Printed p. 333
+
+> कारेण मा नि गारीत् । मा गिरतु । किंच हे मित्र त्वं मित्रोऽसि । प्रमितेः
+> सकाशात्माता भवसि । सत्यराधाः सत्यधनश्च । तौ राजा वरुणश्च त्वं च तौ युवां मा
+> मामिहावतं । रक्षतं । यद्वा । अत्रिरेव मित्र उच्यते । वरुणश्च युवां ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues: let him not swallow me with the darkness that causes fear. And further: O Mitra, you are Mitra, for you become the one who saves from harm; you are also one whose wealth is truth. You and the royal Varuṇa, you two, protect me here. Or else, Atri himself is called Mitra, and Varuṇa is the other; you two protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्रे (*atre*)—O Atri
+- तव संतं (*tava saṃtaṃ*)—who belong to you
+- इमं मां (*imaṃ māṃ*)—me, who am covered by darkness
+- इरस्या (*irasyā*)—who is moved by desire for food
+- द्रुग्धः (*drugdhaḥ*)—the deceiver, the asura
+- भियसा (*bhiyasā*)—by the fearful pitch darkness
+- मा नि गारीत् (*mā ni gārīt*)—let him not swallow
+- त्वं (*tvaṃ*)—you
+- सत्यराधाः (*satyarādhāḥ*)—whose wealth is truth
+- मित्रः असि (*mitraḥ asi*)—you are of the nature of Mitra
+- राजा (*rājā*)—the lord
+- वरुणश्च (*varuṇaśca*)—and you are also Varuṇa
+- ता (*tā*)—you two
+- मा (*mā*)—me
+- इह (*iha*)—in this situation
+- अनतं (*anataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Atri, let the deceiver, the asura, who is moved by desire for food, not swallow me, who belong to you and am covered by darkness, with fearful pitch darkness. You are of the nature of Mitra, whose wealth is truth. You together with Varuṇa, the lord, protect me in this situation. (This is the speech of Sūrya.)
+
+##### English translation
+[Surya speaks] : Let not the violator, Atri through hunger, swallow with fearful (darkness) me who am yours ; you are Mitra, whose wealth is truth : you and the royal Varuna both protect me.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गाव्णो॑ ब्र॒ह्मा यु॑युजा॒नः स॑प॒र्यन् की॒रिणा॑ दे॒वान्नम॑सोप॒शिक्ष॑न् ।  
+> अत्रिः॒ सूर्य॑स्य दि॒वि चक्षु॒राधा॒त्स्व॑र्भानो॒रस॑ मा॒या अ॑घुक्षत् ॥ ८ ॥
+
+### Printed p. 334
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्राव्णः । ब्रह्मा । ययुजानः । सपर्यन् । कीरिणा । देवान् । नमसा । उप  
+> शिक्षन् ।  
+> अत्रिः । सूर्यस्य । दिवि । चक्षुः । आ । अधात् । स्वभानोः । अप । मायाः । अफृक्षत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मा ब्राह्मणोऽत्रिर्मामिहावतमित्युपशिक्षन् ग्रावोऽभिषवसाधनाय
+> युयुजानो युंजन् । इद्रार्थं सोममभिषुण्णन्नित्यर्थः । तथा कीरिणा ।
+> कीर्यते विक्षिष्यत इति कीरि स्तोत्रं । तेन देवान् सपर्यन् पूजयन्नमसा ।
+> उक्तैः साधनैः सूर्यस्य सर्वप्रेरकस्य चक्षु: सर्वस्य व्यापकं मंडलं दिव्यंतरिक्ष
+> आधात् । निस्तमस्कं कृतवानित्यर्थः । तदेव स्पष्टयति । स्पर्धानोरेतन्नामकस्यासुरस
+> मायाः । स्वाश्रयमया मोहयंती परांस्तथा कुर्वती मायेत्युच्यते । तादृशीर्मायाः । तुरीयेण ब्रह्मणेत्युक्तं । तदेतदुक्तं यत्तुरीयं ब्रह्म ।
+> तेनात्रिसहाय इंद्रोऽपाघुक्तः । अपजुगोप । न्यवारयदित्यर्थः । अथवा
+> तृतीयपाद एवं व्याख्येयः । सूर्यस्य दिवि पूर्वमावृते प्रकाशे तदपनोद्य
+> स्वकीयं चक्षुराधात् । निवारणं तेजःसंस्त्यायं दृष्टवानित्यर्थः । स्पर्धानुमायया सूर्यस्यावृतिर्हारिद्रविके समाम्नाता । स्वर्भानुश्चासुरः सूर्यं तमसाविध्यत्तस्मै देवाः प्रायश्चित्तमैच्छन् तस्य यत्पथमं तमोऽपाघन् सा कृष्णाविरभवत्, यद्वितीयं सा फाल्गुनी यत्तृतीयं सा वलक्ष्मी यदध्यस्थादपाकृंतन्नित्यादि॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that Atri, the Brahmin, saying "protect me here," engaged the pressing-stones for pressing, that is, pressed Soma for Indra; and with a hymn (कीर्यते विक्षिष्यत इति कीरि स्तोत्रं (*kīryate vikṣiṣyata iti kīri stotraṃ*), "what is scattered abroad is a kīri, a hymn") he worshipped the gods, with homage. By the means so stated he placed the eye of Sūrya, the impeller of all, that is, his disc, which pervades everything, in the sky: he made it free from darkness. He then makes this plain: the illusions of the asura named Svarbhānu are called illusion because they bewilder, by means of their own power, and so make others the same; it is such illusions that the fourth prayer drove away, as was said by "the fourth prayer". Thus Indra, with Atri's help, warded them off, that is, he held them back. Or else the third quarter may be explained thus: in the sky of Sūrya, where the light had before been covered, having removed that covering, he set his own eye; that is, he saw the removal of the obstruction and the mass of radiance. The covering of Sūrya by the illusion of Svarbhānu is recorded in the हारिद्रविके (*hāridravike*): the asura Svarbhānu pierced Sūrya with darkness; the gods sought an atonement for him; the first darkness that they struck away became Kṛṣṇāvi, the second became Phālgunī, the third became Valakṣmī, and what remained they cut away, and so on. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मा (*brahmā*)—the knower of Brahman
+- अत्रिः (*atriḥ*)—Atri
+- ग्राव्यः (*grāvyaḥ*)—the Soma-pressing stones
+- युयुजानः (*yuyujānaḥ*)—joining together (and pressing Soma for Indra)
+- कीरिणा (*kīriṇā*)—with a hymn
+- देवान् (*devān*)—the gods
+- सपर्यन् (*saparyan*)—worshipping
+- नमसा (*namasā*)—with food in the form of an oblation
+- उपशिक्षन् (*upaśikṣan*)—adorning
+- सूरस्य (*sūrasya*)—of Sūrya
+- चक्षुः (*cakṣuḥ*)—the eye of disc form
+- दिवि (*divi*)—in the sky
+- आधात् (*ādhāt*)—he set
+- स्वर्भानोः (*svarbhānoḥ*)—of Svarbhānu
+- मायाः (*māyāḥ*)—the powers that cause bewilderment
+- अपाघुक्षत् (*apāghukṣat*)—he warded off
+
+##### भावार्थ (Bhāvārtha)
+
+The Brahman-knowing Atri, pressing Soma for Indra with the pressing-stones, worshipping the gods with hymns, adorning them with food in the form of oblation, Sūrya's
+
 ---
 
-**Progress note:** Done through printed p. 328. Vol 19 pp. 323-328: Ṛk 4 special topics (Soma/savanas), Ṛk 5, Svarbhānu discussion
+**Progress note:** Done through printed p. 334. Svarbhanu/Rahu discussion; Rk 6-8 of sukta 40 (Atri frees Surya)
