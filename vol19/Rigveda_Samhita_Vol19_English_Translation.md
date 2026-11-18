@@ -21801,6 +21801,118 @@ In the Ṛgveda it is customary to call the Marut deities sons of Rudra. On how 
 
 As said in this Ṛk, there is a well-known story that the Maruts were born as sons of Rudra in Pṛśni; therefore this epithet is used most often whenever they are addressed. In explaining this Ṛk, Sāyaṇācārya tells yet another story.
 
+### Printed p. 595
+
+पृश्निर्नानावर्णा इयं भूमिः पुरा गोरूपधरासीत् । तस्यां महेशो वृषो भूत्वा मरुत उत्पादयामासेत्याचक्षते । (*pṛśnirnānāvarṇā iyaṃ bhūmiḥ purā gorūpadharāsīt | tasyāṃ maheśo vṛṣo bhūtvā maruta utpādayāmāsetyācakṣate |*)
+
+(Sāyaṇa-bhāṣya, Mu. Saṃ. 2-34-2) **NOTE**
+
+By saying that there is a story that when the earth, which has various colours, formerly assumed the form of a cow, Maheśa became a bull and produced the Maruts, Sāyaṇa has indicated the father-and-son relation of Rudra and the Maruts. And since the story told in the Ṛk 2-34-2 above is told also in the Taittirīya Saṃhitā, he has cited the sentence from there as well.
+
+पृश्नियै वै पयसो मरुतो जाताः । (*pṛśniyai vai payaso maruto jātāḥ |*)
+
+(Śai. Saṃ. 2-2-11-4) **NOTE**
+
+For this very reason the Maruts are addressed as sons of Rudra in many places. For example—
+
+प्र ये शुंभंते जनयो न सप्तयो यामनुद्रस्य सूनवः सुदंससः । (*pra ye śuṃbhaṃte janayo na saptayo yāmanudrasya sūnavaḥ sudaṃsasaḥ |*)
+
+(Ṛ. Saṃ. 1.85-1)
+
+इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनं । रास्वा च नो अमृत मर्तभोजनं त्मने शोकाय तनयाय मृळ । (*idaṃ pitre marutāmucyate vacaḥ svādoḥ svādīyo rudrāya vardhanaṃ | rāsvā ca no amṛta martabhojanaṃ tmane śokāya tanayāya mṛḷa |*)
+
+(Ṛ. Saṃ. 1-114-6)
+
+In these Ṛks, and likewise in 1-168-9, 2-33-1 and many other places, the epithet "sons of Rudra" is applied to the Maruts. In explaining the Ṛk 1-114-6 cited above, Sāyaṇa has told another story.
+
+रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय । तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे। इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेनिर्गत्य अरुदन् । एतस्मिनवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया कार्यं मयिचेत्प्रीतिरस्तीति। स च महेश्वरस्तान् समानरूपान् समानवयसः समानालंकारान् पुत्रान् कृत्वा गौरै प्रददौ तवेमे पुत्राः संत्विति । अतः सर्वेषु मारु- (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya | tadānīṃ ditirasuramātā iṃdrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe| imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarve garbhaikadeśāyonenirgatya arudan | etasminavasare līlārthaṃ gacchaṃtau pārvatīparameśvarau imān dadṛśatuḥ | maheśaṃ prati pārvatī evamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyatāmevaṃ tvayā kāryaṃ mayicetprītirastīti| sa ca maheśvarastān samānarūpān samānavayasaḥ samānālaṃkārān putrān kṛtvā gaurai pradadau taveme putrāḥ saṃtviti | ataḥ sarveṣu māru-*)
+
+### Printed p. 596
+
+तेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति । (*teṣu sūkteṣu maruto rudraputrā iti stūyaṃte | raudreṣu ca marutāṃ pitā rudra iti |*)
+
+(Sāyaṇa-bhāṣya, Mu. Saṃ. 1-114-6)
+
+Formerly, on one occasion, Indra conquered the Asuras. Then Diti, the mother of the Asuras, desiring a son capable of killing Indra, performed austerities and by the grace of her husband conceived a womb. Indra learnt of this, took his thunderbolt in hand, came in a subtle form, entered her belly and split that embryo into seven parts. Again he made each of them into seven pieces. Then all of them came out and were weeping. Then, as Pārvatī and Parameśvara were wandering for pleasure, they saw them, and Pārvatī, moved to pity, begged Maheśvara to change all of them into children. Then Īśvara made all of them of one form, of one age and with the same ornaments, and gave them to Gaurī as sons, saying, "Let these be your sons." Sāyaṇa has told this story to explain that, therefore, in all the Marut sūktas the Maruts are called sons of Rudra, and in the Rudra sūktas Rudra is called the father of the Maruts.
+
+The companionship of Indra and the Maruts
+
+The eternal companionship of Indra and the Maruts is well known from the Śruti. The relation of king and subjects between Indra and the Maruts, the offering of oblations in the chief sacrificial rites to Indra accompanied by the Maruts, and the help that the Maruts give to Indra when he fights with the demon Vṛtra are praised in many places in the Saṃhitās and the Brāhmaṇas. The Śatapatha Brāhmaṇa tells an ancient story of how Indra joined the Maruts and stood apart from the other gods.
+
+आतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धा व्यद्रवन्नन्योन्यस्य श्रियातिष्ठमाना अग्निर्वसुभिः, सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्धिर्भृहस्पतिर्विश्वेदेवैः । (*ātithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhā vyadravannanyonyasya śriyātiṣṭhamānā agnirvasubhiḥ, somo rudrairvaruṇa ādityairiṃdro maruddhirbhṛhaspatirviśvedevaiḥ |*)
+
+(Ka. Brā. 3-4-2-1) **NOTE**
+
+Formerly, when the gods performed the hospitality rite, ill feeling arose among them and, not wishing to be defeated by one another, they formed four groups and separated. Agni joined with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas, and each formed a separate group. In this story it is told that Indra
+
+### Printed p. 597
+
+developed companionship with the Maruts and kept a close relation with them. Besides this, it is said in many places that Indra is the king and the Maruts the subjects. For example—
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति । (*kṣatraṃ nā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati |*)
+
+(Śa. Brā. 4-3-3-6)
+
+Indra is the king, possessed of the splendour of the warrior class, and the Maruts are the subjects. It is indicated that by the co-operation of the subjects the king becomes powerful, and that by the help of the Maruts Indra's valour increased. Because of this close relation and companionship, the Śrutis also show the practice of offering oblations addressed to Indra and the Maruts together.
+
+अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति । गणैरिंद्रस्य काम्यैः ॥ (*anavadyairabhidyubhirmakhaḥ sahasvadarcati | gaṇairiṃdrasya kāmyaiḥ ‖*)
+
+(Ṛ. Saṃ. 1-6-8)
+
+मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रे मरुतः परिष्टुभः । (*maṃdrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā iṃdre marutaḥ pariṣṭubhaḥ |*)
+
+(Ṛ. Saṃ. 1-166-11)
+
+स नो मरुद्विर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no marudvirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*)
+
+(Ṛ. Saṃ. 1-171-5)
+
+By these and similar Ṛks Indra and the Maruts are invited together and oblations are offered to them together. Because of this companionship, here too the epithet Marutvān is found. In all contexts where Indra accompanied by the Maruts is meant he is called Marutvān; this is how the Bṛhaddevatā explains this epithet that indicates the relation of these deities.
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*)
+
+(Bṛ Ve. 4.56) **NOTE**
+
+Further account of the Marut deities
+
+In the Purāṇas and other works, and in modern literature, no special difference is found in the meaning of the words मरुत् (*marut*) and वायु (*vāyu*). The practice is to take these words as meaning wind or the wind-god. But in the Ṛgveda there is much difference between the two words, in meaning and in use. Vāyu or Vāta means the wind pervading the atmosphere or the sky, or the wind-god. The use as wind-god is more common than the sense of wind. And whenever this god is praised, the singular is used. But the Marut deities are always spoken of in the plural. Besides, between Vāyu
+
+### Printed p. 598
+
+and the Maruts there is also much difference in their characteristics. There is no special description of the qualities of Vāyu. Because Vāyu dwells in the atmosphere, he is known as a deity of the middle region. Since the Maruts are many, it is the custom to call them a troop of gods. In general it is the custom to speak of them by the words मारुतं शर्धः (*mārutaṃ śardhaḥ*) and मारुतं गणं (*mārutaṃ gaṇaṃ*) or by other words of the same meaning. Like Vāyu, they too are deities of the middle region.
+
+The Maruts are the form of the storm wind that blows with great violence. Before the rain comes at the time of the monsoon showers, or while the rain is pouring, the wind blowing with great violence is a matter of everyone's experience. This violently blowing storm itself is described in the Ṛgveda as the host of the Marut deities. The force of the wind is especially great before the rain falls or while it falls. Therefore there is a special relation between the rain and the Maruts. For that very reason the Maruts are praised with epithets such as उक्षण (*ukṣaṇa*), जलस्य सेक्तारः (*jalasya sektāraḥ*), that is, those who drench everything with water. Moreover, since the rain accompanied by thunder, lightning and thunderbolts and by the violently blowing wind has a relation to Indra, who is of the form of the slayer of Vṛtra and the like, it is said in many places that the Marut deities and Indra have friendship and companionship. Indra strikes with his thunderbolt the clouds that withhold the rain, or Vṛtra, and makes the rain fall. In that rain-making act the Maruts scatter the clouds and make the rain fall, so that they help Indra in the rain-making act. For this reason there is a special kind of friendship between Indra and the Maruts. The epithet Marutvān too came to Indra for this reason.
+
+The derivation of the word मरुतः (*marutaḥ*)
+
+अथातो मध्यस्थाना देवगणाः । तेषां मरुतः प्रथमागाविनो भवंति। मरुतः । मरुतो मितराविणो ना मितरोचिनो ना महद्द्रवंतीति वा ॥ (*athāto madhyasthānā devagaṇāḥ | teṣāṃ marutaḥ prathamāgāvino bhavaṃti| marutaḥ | maruto mitarāviṇo nā mitarocino nā mahaddravaṃtīti vā ‖*)
+
+(Ni. 1-13)
+
+Thus Yāska has given the derivation of the word Marut. Now we shall speak of the troops of gods of the middle region, that is, of those dwelling in the atmosphere. Among these troops the first place belongs to the Maruts. The word Marut is formed from the two roots मि+रु (*mi+ru*). These gods are called Maruts because they make a measured sound, that is, a sound of one kind or of one evenness. Or if the word Marut is formed from the roots मि+रुच् (*mi+ruc*), then it means those who have an even radiance, and if it is formed from the root महत्+द्रु (*mahat+dru*), then it means those who move (blow) greatly (with violence); such is the meaning of the derivation **NOTE**.
+
+### Printed p. 599
+
+These Marut deities have a very important place among the other deities. Thirty-three sūktas entirely, seven together with Indra, and one each with Agni and Pūṣan, thus a total of forty-two sūktas, praise them. Together they are one गण (*gaṇa*) or शर्धरु (*śardharu*) (1-37-1 and so on), and they are used in the plural only. In number they are said to be "thirty of sixty" (8-85.8) **NOTE** or "three of seven" (1-133-6; A. Ve. 13-1-13) **NOTE**. It is said many times that they were born (5-57-5 and so on). They are the sons of Rudra, and their very name is Rudras (1-39-4 and 7 and so on); sometimes they are called Rudriyas (1-38-7; 2.34-10 and so on); they are the children of Pṛśni (2.34-2, 5-52-16, 5-60-5, 6.66-3), and they are called many times पृश्निमातरः (*pṛśnimātaraḥ*) (those who have Pṛśni as mother) (1-23-10 and so on; A. Ve. 5-21-11). The cow called Pṛśni (5-52-16), or a cow in general (8-83-1), is their mother, and they are also called गोमातरः (*gomātaraḥ*) (1-85-3; compare 8-20.8). This cow is probably the cloud of various colours of the storm. Where it is said that cows with great udders come burning (2-34-5), that can be nothing other than the cloud with lightning and thunderbolts at the time of a storm. When they are born of Pṛśni, the Maruts are compared with Agni (6-66-1 to 3). The Maruts were born from the laughter of the lightning (1-23-12; compare 1-38-8). Agni gave them form or obtained them (6.3-8; 1-71-8). Vāyu placed them in the womb of the atmosphere (1-134-4), and they are children of the sky (11-77-2) **NOTE**, and heroes of the sky (वीराः (*vīrāḥ*) 1-64-4; 1.122-1; 5-54-10) or males of the sky (3.54-13; 5-59-6). In one place it is said that the sea is their mother (समुद्र मातरः (*samudra mātaraḥ*)) (10-78-6). In some other places it is said that they are self-born (1-1782: 5-87-2) **NOTE**.
+
+They are brothers, but there is no distinction of elder or younger (5-59-6; 5-60-5), because all of them are of the same age (1-165-1). All of them grew up together (5-56-5, 7-58-1) and are of one mind (8-20-1 and 21). All have one birthplace (5-53-3) and one dwelling place (1-165-1; 7-56-1). They grew up in the sky, on the earth, in heaven (5.55-6) or in the three heavens (5-60-6). In one place (8-83-1 and 2) they are also called dwellers of the mountains. Indrāṇī is a friend to them. They mingle with Indrāṇī (10-86-9) and with Sarasvatī (7-96-2). Their relation is closest with the goddess रोदसी (*rodasī*). She, providing them the means of comfort, stands with them in their chariot (5-56-8) or stands at their side (6-66-6). In all five places where her name occurs she is in the company of the Maruts (compare 1-167-4 and 5). Therefore, like Sūryā for the Aśvins, she is regarded as their bride. For this reason they have the epithet भद्रजानयः (*bhadrajānayaḥ*) (those who have a beautiful
+
+### Printed p. 600
+
+wife) (5-61-4), and the epithet of being compared to bridegrooms (5-60-4). And their being compared to bridegrooms (5-60-4) or to young lovers (10-78-6). The splendour of the Marut deities is mentioned again and again. They are of golden colour, of a brilliance bright like the sun, slightly red like a blazing fire (6 66-2; 7 59-11; 8-7-7); they shine like the flames of a fire (10 78-3). They are of the form of Agni or of the splendour of Agni (10-84-1, 3-26-5); they are compared to Agni in splendour (11 78-2) **NOTE**. They are like Agni (2-34-1) or like a kindled Agni (6-66-2); their very name is Agni (3-26-4); they are of the brilliance of serpents (हिभानवः (*hibhānavaḥ*) 1-172-1). They shine on the mountains (8-7-1). They are स्वभानु (*svabhānu*) (self-luminous, 1-37-2 and so on); this epithet is not said of any other gods. That they are radiant and blazing is said again and again (1-165-12 and so on). They have a special relation to lightning (5-54-2, 3 and 11; 1-64-5). When the Maruts pour out ghee, the lightnings look at the earth and smile (compare 1-168-8, 5.52-6). When the Maruts call the rain, the thunderbolt roars like a cow following her calf (7-56-13). So closely is lightning related to them that of the five places where the word lightning is used in a compound, all except one are together with the word Marut. They hold the thunderbolt in their hands (8-7-25; 5-54 11); the thunderbolt gives them great delight (5-54-3). They have spears in their hands. Here the spear (ऋष्टि (*ṛṣṭi*)) too must be the thunderbolt, because they have the epithet ऋष्टिविद्युत् (*ṛṣṭividyut*) (those who use the thunderbolt as a spear) (1-168-5, 5 52-13). In some other places it is said that their weapon is also an axe made of gold (8-7-22) (1-37-2, 1-88-3; 5.33-4; 5-57-2; 8-20-4). In one place it is said that they bear the thunderbolt weapon. In some places they are called bearers of bow and arrow (5.53-4, 5 57-2; 8-20-4 and 12) and once archers who shoot arrows, but this characteristic is rare in them. They are adorned with ornaments such as garlands (5-53-4). They wear golden girdles (5-55-6); like a wealthy man seeking marriage, they adorn their bodies with golden ornaments (5-60-4). Armlets or anklets are their personal ornament. Adorned with these ornaments they glitter like the star-studded sky or like the drops of rain falling from a cloud. They have spears on their shoulders, anklets on their feet, golden ornaments on their breasts, thunderbolts spitting embers in their hands, and golden helmets on their heads (5 54-11).
+
+The chariots that the Marut deities use shine with lightning (1-88-1; -54-13) **NOTE**; they are made of gold (55-7-1) **NOTE**; the wheels or rims are of gold (1-64-11; 1-58-5). In them
+
+### Printed p. 601
+
+there are weapons (5-57-6). There are water-jars (1-87-2). The horses that draw the chariot are brown (1-88 2; 5 57-4); they have golden hooves (8-7-27) and are swift as thought (1-85-4). These horses are spotted; their personal name is पृषदश्वरॆंदु (*pṛṣadaśvarèṃdu*) (those who have spotted horses). It is also said that mares are yoked to their chariot (1-39-6). It is said that they yoked the wind as a horse to their chariot (5-58-7).
+
+The Maruts are huge like the sky (5-57-4); they have measured heaven and earth (10-77-3). Their greatness is immeasurable (5-58-2); no one can know the limit of their power (1 167-9). They are young (1-64-2; 1-165-2; 5-42-15) and for them there is no old age (1-64-3). They are Asuras, full of energy, mighty, without impurity (1-64-2 and 12) and without dust (6-66-2). They are of terrible form (1 19-4) and of irritable nature (7-56-8); they are terrible (5-56-2 and 3, 7-58-2); they are fearsome like wild beasts (2-34-1 and so on); they are playful like children or calves (1-166-2; 7-56-16; 20-78-6) **NOTE**. They are like swans with dark backs (7-59.7). They are wild boars with tusks of iron (1-88-5); they are like lions (1-64-8).
+
+They make a loud sound (1-169. 7 and so on). That sound is the thunder (1 23-11); it is also the sound of the blowing wind (7.56.3). When they come, it is as if the sky cries out in fear (8-7-26). They make the mountains tremble, and make the earth or the two worlds shake. They break into pieces the mountains or rocks that are the rims of the chariot (1-64 11; 5-52-9). It is when they come accompanied by the wind that they make the mountains tremble (8-7-4). They overturn trees and devour the forests like wild elephants (1-39-5, 1 64-7). The forests, afraid of them, bend down to the ground (5.60.2). Unobstructed like mountains, they throw down the creatures of heaven and earth (1-64-3). All creatures fear them (1-85.8). They move swiftly like a storm (10-78-3). They raise the dust upward in whirls (1-64-12]. They produce wind or the sound of the wind (7-56-3). They come together with the wind (8-7-3, 4 and 17); they make it their horse (5-58-7).
+
+The pouring of rain is the chief of their deeds. Rain is their garment (5-57-4). They rise up from the sea and pour rain (1-38 9). Pouring rain in both the worlds, they blow (1-64-6; 8-7-6). Rain follows them (5-53-10). They bring water and produce rain (5-58-3). With the rain they hide their radiance
+
 ---
 
-**Progress note:** Done through printed p. 594. Sukta 51 Rks 14-15; sukta 52 intro (Brhaddevata on Syavasva)
+**Progress note:** Done through printed p. 601. Sukta 52 intro: Marut deities (Sayana on Rudra/Maruts, Indra and Maruts, Marut description)
