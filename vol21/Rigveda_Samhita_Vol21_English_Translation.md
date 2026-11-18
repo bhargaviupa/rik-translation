@@ -2424,6 +2424,270 @@ O Indra, you who are praised (गृणानः (*gṛṇānaḥ*)), of wealth 
 
 O Indra, you who are praised by all, cause to flow the stream, in the form of a flood, of wealth that gives joy to many and is the cause of dwelling. You, the one without a second
 
+### Printed p. 57
+
+and lord of creatures. You are the sole master of the whole of created beings.
+
+##### English translation
+Glorified by us. Indra, let flow the stream of much-delighting, home-conferring affluence, for you are the unequalled lord of men, the sole sovereign of all the world.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तु श्रु॑धि॒ श्रुत्या॒ यो दु॑वो॒युद्यार्न भूमा॒भि रायो॑  ॒
+> अर्यः ।  
+> असो॒ यथा॑ नः॒ शव॑सा चका॒नो यु॒गेयु॑गे॒ वय॑सा॒ चेकि॑तानः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । श्रुधि । श्रुत्या । यः । दुवःयुति । द्यौः । न । भूम । अभि । रायः । अर्यः।  
+> असः । यथा । नः । शवसा । चकानः । युगेऽयुगे । वयसा । चेकितानः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र श्रुत्या श्रुत्यानि शोतव्यानि स्तोत्राणि तु क्षिप्रं श्रुधि ! शृणु ।
+> यस्त्वं दुवोयुरस्मदीयं परिचरणमात्मन इच्छन् अर्योरेः संबंधीनि
+> रायो धनानि भूम बहुतराणि द्यौर्न सूर्य इवाभि भवसि स त्वं श्रुधीत्यन्वयः ।
+> अपि च शवसात्मीयेन बलेन स्तोतव्येन युक्तश्चकानः स्तूयमानो युगे युगे
+> काले काले वयसा हनिर्लक्षणेनान्नेन चेकितानः प्रज्ञायमानस्त्वं यथा येन
+> प्रकारेण नोऽस्माकमसाधारणोऽसि तथासः । स्याः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, listen quickly to the praises that are fit to be heard (श्रुत्या (*śrutyā*) is explained as श्रुत्यानि शोतव्यानि (*śrutyāni śotavyāni*), praises to be heard); you who, desiring our service, overcome like the sun the abundant riches belonging to the enemy, be that one and hear." The construction is: you who do so, listen. Further: you, endowed with your own strength and being praised, and made known age after age by the offered food, the oblation; as you are not common but peculiarly ours, so may you be. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—O Indra, you who
+- दुवोयुः (*duvoyuḥ*)—desiring our acts of worship
+- अर्यः (*aryaḥ*)—of the enemy
+- रायः (*rāyaḥ*)—the riches
+- भूम (*bhūma*)—abundantly
+- द्यौर्न (*dyaurna*)—like the sun
+- अभि (*abhi*)—seize
+- सः (*saḥ*)—such a you
+- श्रुत्या (*śrutyā*)—our praises
+- तु (*tu*)—quickly
+- श्रुधि (*śrudhi*)—hear
+- शवसा (*śavasā*)—as one endowed with strength
+- चकानः (*cakānaḥ*)—and praised by us
+- युगे युगे (*yuge yuge*)—in all times
+- वयसा (*vayasā*)—by the food in the form of the oblation
+- चेकितानः (*cekitānaḥ*)—and made known by us
+- यथा (*yathā*)—in whatever way
+- नः (*naḥ*)—to us
+- असः (*asaḥ*)—be favourable; be in that way
+
+### Printed p. 58
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who, desiring our acts of worship, seize abundantly the riches of the enemy like the sun, listen quickly to our praises. Being endowed with strength, praised by us, and made known by us at all times through food in the form of the oblation, be in whatever way is favourable to us.
+
+##### English translation
+Hear, Indra, (the praises) that may be heard (by you), who, are gratified by our adoration, and, like the sun, (prevail) over the ample riches of the enemy : endowed with strength, being glorified in every age rendered comprehensible by (sacrificial) food, be to us no other (than such as you have been.)
+
+## Sūkta 37 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आर्वाग्रथमिति पंचर्चं चतुर्दशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमृंद्रं।
+> आर्वाग्रथमित्यनुक्रांतं ॥ महाव्रते निष्केवल्य उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आर्वाग्रथमिति (*ārvāgrathamiti*) has five Ṛks and is the fourteenth sūkta. Its seer is Bharadvāja (Ārṣa), its metre is Triṣṭubh, and its deity is Indra. The Anukramaṇī records it with the words आर्वाग्रथमित्यनुक्रांतं (*ārvāgrathamityanukrāṃtaṃ*). Its use, as stated before, is in the Niṣkevalya (śastra) of the Mahāvrata.
+
+##### Anuvāda
+
+This sūkta beginning "अर्वाग्रथं (*arvāgrathaṃ*)" is the fourteenth sūkta in the third anuvāka. It has five Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity, and the metre is Triṣṭup. In the Anukramaṇikā it is said to begin "Arvāgratham". It has already been stated that this sūkta is used for the Niṣkevalya-śastra mantras in the Mahāvrata sacrifice.
+
+##### Particulars
+
+- Sūkta 37
+- Maṇḍala 6; Anuvāka 3; Sūkta 37
+- Aṣṭaka 4; Adhyāya 7; Varga 9
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+### Printed p. 59
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वाग्रथं॑ वि॒श्ववा॑रं त उ॒ग्रेंद्र॑ यु॒क्तासो॒ हर॑यो  
+> वहंतु ।  
+> की॒रिश्चि॒द्धि त्वा॒ हव॑ते॒ स्व॑र्वानृधी॒महि॑ सध॒माद॑स्ते अ॒द्य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाक् । रथं । विश्ववारं । ते । उग्र । इंद्र । युक्तासः । हरयः । वहंतु ।  
+> कीरिः । चित् । हि । त्वा । हवते । स्वःवान् । ऋधीमहि । सध्वमादः । ते । अद्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गूर्णबलेंद्र युक्तासो रथेन युक्ता हरयोऽश्वास्ते
+> त्वदीयं विश्ववारं विश्वैर्वणेयं रथमर्वागस्मदभिमुखं वहंतु । आनयंतु ।
+> हि यस्मात् स्वर्वान् । स्वः सुष्करणेयं गुणजातं । तद्वान् कीरिश्चित् स्तोता
+> भरद्वाज ऋषिस्त्वा त्वां हवते आह्वयति तस्मात्कारणात्त्वदीयं रथमभिमुखं
+> वहंतित्यर्थः । वयं चाद्येदानीं ते त्वया सधमादः सह माद्यंत ऋधीमहि ।
+> समृद्धा भवेम ॥
+
+##### Gist of the bhāṣya
+
+O fierce Indra, of uplifted strength, may your horses, yoked to the chariot, bring your chariot, which all desire (विश्ववारं (*viśvavāraṃ*), to be chosen by all), towards us. For (हि (*hi*)) the praiser, the seer Bharadvāja, who possesses स्वः (*svaḥ*) (explained as a group of qualities, and he is endowed with it), invokes you; for that reason may they bring your chariot towards us. And we also, today, rejoicing together with you, would prosper. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—possessed of fearful power
+- इंद्र (*iṃdra*)—O Indra
+- युक्तासः (*yuktāsaḥ*)—yoked to your chariot
+- हरयः (*harayaḥ*)—the horses
+- ते (*te*)—your
+- विश्ववारं (*viśvavāraṃ*)—worthy of the regard of all
+- रथं (*rathaṃ*)—the chariot
+- अर्वाक् (*arvāk*)—towards us
+- वहंतु (*vahaṃtu*)—let them carry and bring
+- हि (*hi*)—because
+- स्वर्वान् (*svarvān*)—one endowed with devotion
+- कीरिश्चित् (*kīriścit*)—Bharadvāja, the praiser
+- त्वा (*tvā*)—you
+- हवते (*havate*)—calls
+- अद्य (*adya*)—now
+- ते (*te*)—with you
+- सधमादः (*sadhamādaḥ*)—experiencing common joy
+- ऋधीमहि (*ṛdhīmahi*)—may we attain prosperity
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of fearful power, may the horses yoked to your chariot bring your chariot, which is worthy of the regard of all, towards us. Bharadvāja, who is endowed with devotion and is the praiser, calls you. May we too, experiencing common joy with you, attain prosperity.
+
+### Printed p. 60
+
+##### English translation
+Fierce Indra, let your harnessed steeds bring down your all-desired chariot : your devoted adorer verily invokes you: may we to-day, partaking of your exhilaration, increase to-day (in prosperity).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रोद्रोणे॒ हर॑यः॒ कर्मा॑ग्मन्नुना॒नास॒ ऋज्यं॑तो अभूवन् ।  
+> इंद्रो॑ न अ॒स्य पू॒र्व्यः प॑पीयाद्दु॒क्षो मद॑स्य सो॒म्यस्य॒  ॑
+> राजा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । द्रोणे । हरयः । कर्म । अग्मन् । पुनानासः । ऋज्यंतः । अभूवन् ।  
+> इंद्रः । नः । अस्य । पूर्व्यः । पपीयात् । म्युक्षः । मदस्य । सोम्यस्य । राजा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये पर्यायेच्छावाकस्य प्रो द्रोण इत्येषा शस्त्रयाज्या । सूत्रितं
+> च । प्रो द्रोणे हरयः कर्माग्मन्निति याज्या । आ-६-४ । इति ॥
+> हरयो हरितवर्णाः सोमा नः कर्मास्मदीयं यज्ञं प्रो अग्मन् । प्रकर्षेण
+> गच्छंति । प्राप्नुवंति । प्राप्य च पुनानासः पूयमाना द्रोणे द्रोणकलश ऋज्यंत
+> ऋजु गच्छंतोऽभूवन् । भवंति । पूर्व्यः पुरातनो द्युक्षो दीप्तेर्निवासभूतो
+> द्युस्थानो वा मदस्य मदकरस्य सोम्यस्य सोमस्य राजेश्वर एवंभूत इंद्रश्चास्येमं सोमं पपीयात् । पिबतु ॥
+
+##### Gist of the bhāṣya
+
+In the third paryāya, this Ṛk, प्रो द्रोण (*pro droṇa*), is the śastra-yājyā of the Acchāvāka priest. It is also taught in the sūtra: "प्रो द्रोणे हरयः कर्माग्मन्निति याज्या (*pro droṇe harayaḥ karmāgmanniti yājyā*)", with the reference Ā. 6-4. The green Soma juices (हरयः (*harayaḥ*)) come forward to our rite (कर्म (*karma*), our sacrifice); having come they are purified in the pitcher (द्रोणे (*droṇe*), the Droṇa vessel) and, flowing straight (ऋज्यंतः (*ṛjyaṃtaḥ*)), become so. The ancient (पूर्व्यः (*pūrvyaḥ*)) Indra, who abides in radiance or dwells in the heavenly region, and who is the lord of the exhilarating Soma, may drink this Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरयः (*harayaḥ*)—the Soma juices of green hue
+- नः (*naḥ*)—our
+- कर्म (*karma*)—the sacrifice
+- प्रो अग्मन् (*pro agman*)—come forward and join
+- पुनानासः (*punānāsaḥ*)—purified here
+- द्रोणे (*droṇe*)—in the Droṇa vessel
+- ऋज्यंतः (*ṛjyaṃtaḥ*)—joined together
+- अभूवन् (*abhūvan*)—they become
+- पूर्व्यः (*pūrvyaḥ*)—the ancient one
+- द्युक्षः (*dyukṣaḥ*)—the radiant dweller of the heavenly region
+- मदस्य (*madasya*)—of the gladdening
+- सोम्यस्य (*somyasya*)—Soma juice
+- राजा (*rājā*)—the lord
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्य (*asya*)—this Soma
+- पपीयात् (*papīyāt*)—may he drink
+
+### Printed p. 61
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices of green hue come forward to our sacrifice. Then, purified, they join together in the Droṇa vessel. May Indra, the ancient one, the radiant dweller of the heavenly region, the lord of the gladdening Soma juice, drink this Soma.
+
+##### English translation
+The green Soma juices flow at our sacrifice, and, purified, proceed direct into the pitcher: may the ancient. illustrious Indra, the sovereign of the exhilarating Soma libation, drink of this our offering.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third paryāya the priest called Acchāvāka is to recite this Ṛk, प्रो द्रोणे (*pro droṇe*), as the śastra-yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, प्रो द्रोणे हरयः कर्माग्मन्निति याज्या (*pro droṇe harayaḥ karmāgmanniti yājyā*) (Ā. Sū. 6-4).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒स॒स्रा॒णासः॑ शवसा॒नमच्छेंद्रं॑ सुच॒क्रे र॒थ्या॑सो॒ अश्वाः॑ ।  
+> अ॒भि श्रव॒ ऋज्यं॑तो वहेयु॒नूर्चि॒न्नु वा॒योर॒मृतं॒ वि  ॑
+> दस्यॆत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आसस्राणासः । शवसानं । अच्छै । इंद्रं । सुचक्रे । रथ्यासः । आश्वाः ।  
+> अभि । श्रवः । ऋज्यंतः । वहेयुः । नु । चित् । नु । वायोः । अमृतं । वि । दस्येत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असस्राणासः परितो गच्छंतो रथ्यासो रथे युक्ता अश्वा ऋज्यंत
+> यजुगमनाः संतः सुचक्रे शोभनचक्रे रथेवस्थितं शवसानं बलमिवाचरंतमिंद्रं
+> श्रवः श्रवणीयमस्मदीयं हविरच्छाभिमुख्येनाभि वहेयुः । आवहेयुः । नू
+> चिदिति निपातो निषेधेऽत्र वर्तते । अमृतममरणहेतुभूतं सोमलक्षणं हवि_
+
+### Printed p. 62
+
+> र्वायोर्हेतोनु इदानीं नू चित् नैव वि दस्येत् । क्षयं न प्राप्नुयात् ।
+> पात्रे गृहीतः सोमो वायुना शुष्यति ततः पुरैव तत्पानार्थमश्वा इंद्रमभिवहेयुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The horses yoked to the chariot (रथ्यासः (*rathyāsaḥ*)), going about on every side (आसस्राणासः (*āsasrāṇāsaḥ*)), moving straight (ऋज्यंतः (*ṛjyaṃtaḥ*), going directly), should carry towards our oblation, which is to be heard of (श्रवः (*śravaḥ*)), Indra, who stands in the chariot with fair wheels (सुचक्रे (*sucakre*)) and acts like strength itself (शवसानं (*śavasānaṃ*)). The word नू चित् (*nū cit*) is a particle used here in the sense of negation. The immortal (अमृतं (*amṛtaṃ*)), that is the oblation consisting of Soma, which is not the cause of death, should not be wasted, should not come to destruction by the wind: Soma taken in a vessel dries up through the wind; therefore, before that happens, the horses should bring Indra to drink it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसस्राणासः (*āsasrāṇāsaḥ*)—moving about on all sides
+- रथ्यासः (*rathyāsaḥ*)—yoked to the chariot
+- अश्वाः (*aśvāḥ*)—the horses
+- ऋज्यंतः (*ṛjyaṃtaḥ*)—going straight
+- सुचक्रे (*sucakre*)—in the chariot with excellent wheels
+- शवसानं (*śavasānaṃ*)—who is the representative of strength
+- इंद्रं (*iṃdraṃ*)—Indra
+- श्रवः अच्छ (*śravaḥ accha*)—towards the oblation
+- अभि वहेयुः (*abhi vaheyuḥ*)—may they bring
+- अमृतं (*amṛtaṃ*)—the Soma, which is like ambrosia
+- वायोः (*vāyoḥ*)—by the force of the wind
+- नु (*nu*)—now
+- नू चित् (*nū cit*)—certainly
+- विदस्यॆत् (*vidasyèt*)—let it not be dried up
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses, moving about everywhere and yoked to the chariot, going straight, bring Indra, the representative of strength, in the chariot with excellent wheels, towards the oblation. May the Soma, which is like ambrosia, not be dried up and wasted by the force of the wind.
+
+##### English translation
+May the everywhere-going, straight-proceeding, chariot-bearing steeds, bring the mighty Indra in his strong-wheeled car to our rite : let not the ambrosial Soma waste in the wind.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the companionship of Indra and Vāyu is described. In many contexts Indra and Vāyu have the same kind of epithets. To support this point Yāska has given an explanation of this Ṛk:
+आसस्यवांसोऽभिबलायमानमिंद्रं कल्याणचक्रे रथे योगाय रथ्या अश्वा रथस्य वोढार ऋज्यंत ऋजुगामिनोऽन्नमभिवहेयुर्नवं च पुराणं च । श्रव इत्यन्ननाम श्रूयत इति सतः । वायोश्चास्य भक्षो यथा न विदस्येदिति । इंद्रप्रधानेत्येके नैघुंटुकं नायुकर्मोभयप्रधानेत्यपरं ॥ (*āsasyavāṃso 'bhibalāyamānamiṃdraṃ kalyāṇacakre rathe yogāya rathyā aśvā rathasya voḍhāra ṛjyaṃta ṛjugāmino 'nnamabhivaheyurnavaṃ ca purāṇaṃ ca | śrava ityannanāma śrūyata iti sataḥ | vāyoścāsya bhakṣo yathā na vidasyediti | iṃdrapradhānetyeke naighuṃṭukaṃ nāyukarmobhayapradhānetyaparaṃ ‖*)
+(Ni. 10-3)
+
 ---
 
-**Progress note:** Done through printed p. 56. Sukta 35 Rk 5 end; Sukta 36 Rk 1-4 start, pp. 51-56
+**Progress note:** Done through printed p. 62. Ṛk 5 of VI.36 end; Sūkta 37 Ṛks 1-3 (pp. 57-62)
