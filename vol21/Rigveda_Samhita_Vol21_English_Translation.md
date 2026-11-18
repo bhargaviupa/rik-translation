@@ -6981,6 +6981,315 @@ Your friendship, Indra, is not easily lost : you, hero, are (the giver of) cattl
 > सः । मंदस्व । हि । अंधसः । राधसे । तन्वा । महे ।  
 > न । स्तोतारं । निदे । करः ॥ २७ ॥
 
+### Printed p. 157
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स तादृशस्त्वमंधसः सोमस्य पानेन हृष्टया तन्वात्मीयेन
+> शरीरेण मंदस्व । मोदस्व । किमर्थं । महे महते राधसे धनार्थं । हि पूरणः ।
+> अपि च त्वदीयं स्तोतारं निदे निंदकाय तस्य वशं न करः । कुर्याः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are so renowned, rejoice (मंदस्व (*maṃdasva*)) with your own body, gladdened by drinking the Soma (अंधसः (*aṃdhasaḥ*)); rejoice for great wealth, that is, for the sake of riches; the word हि (*hi*) is a filler. And do not hand over your worshipper to the power of the reviler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—(O Indra) you who are renowned
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—for the sake of wealth
+- अंधसः (*aṃdhasaḥ*)—satisfied by the drinking of Soma
+- तन्ना (*tannā*)—with the body
+- मंदस्व (*maṃdasva*)—attain contentment
+- स्तोतारं (*stotāraṃ*)—him who praises you
+- निदे (*nide*)—to the reviler, the enemy
+- न करः (*na karaḥ*)—do not give up
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are renowned, attain contentment with a body satisfied by the drinking of Soma, for the gain of great wealth. Do not give up him who praises you to the reviler, the enemy.
+
+##### English translation
+Delight your person with the (beverage of the) libation (offered) for the sake of great treasure : subject not your worshipper to his reviler.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ त्वा सु॒तेसु॑ते॒ नक्षं॑ते गिर्वणो॒ गिरः॑ ।  
+> व॒त्सं गावो॒ न धे॒नवः॑ ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । त्वा । सुतेऽसुते । नक्षंते । गीर्वणः । गिरः ।  
+> वत्सं । गावः । न । धेनवः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गीर्भिर्वननीयेंद्र सुते सुते सोमेऽभिषुतेऽभिषुते सतीमा
+> अस्मदीया गिरः स्तुतयस्त्वा त्वां नक्षंते । व्याप्प्नुवंति । धेनवो दोग्धो
+> गावो न गाव इव वत्सं । यथा शीघ्रं वत्सं व्याप्प्नुवंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Girvaṇas, Indra, who are to be adored with songs: at every pressing of the Soma, these praises of ours reach you (नक्षंते (*nakṣaṃte*) means they pervade). As milch cows (धेनवः (*dhenavaḥ*), those that give milk) reach their calf, quickly pervading it, so do our praises reach you.
+
+### Printed p. 158
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O Indra, who are honoured with praises
+- धेनवः (*dhenavaḥ*)—milch
+- गावः (*gāvaḥ*)—cows
+- वत्सं न (*vatsaṃ na*)—as they come and join their calves
+- सुते सुते (*sute sute*)—whenever the Soma juice is pressed
+- इमा गिरः (*imā giraḥ*)—these praise-words of ours
+- त्वा (*tvā*)—you
+- नक्षंते (*nakṣaṃte*)—come and pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are honoured with praises, as milch cows come and join their calves, so, whenever the Soma juice is pressed, these praise-words of ours come and pervade you.
+
+##### English translation
+These our praises tend, as the libations are repeatedly poured out, eagerly to you who are gratified by praise, as the milch cows (hasten) to their calves.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रू॒तमं॑ पुरू॒णां स्तो॑तृ॒णां विवा॑चि ।  
+> वाजे॑भिर्वाजय॒तां ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुतमं । पुरूणां । स्तोत्थाणां । विवाचि ।  
+> वाजेभिः । वाजयतां ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पुरुतमं पुराणां बहूनां शत्रुणां तमयितारं ग्लपयितारं
+> त्वां पुराणां बहूनां स्तोतृणामस्माकं स्तुतिः प्राप्नोत्विति शेषः । कीदृशानां ।
+> विवाचि विविधाः स्तुतशस्त्रात्मिका वाचो यस्मिन्यज्ञे तस्मिन्वाजेभिर्वाजैर्हनिर्लक्षणैरन्नैर्वाजयतां वाजवंतं बलवंतं वा त्वां कुर्वतां ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who wear out and exhaust many enemies: may the praise of us, the many worshippers, reach you; this is the word to be supplied. Of what kind are we? We are those who, in the sacrifice (विवाचि (*vivāci*)) in which there are various kinds of speech, consisting of stotras and śastras, make you vigorous (वाजयतां (*vājayatāṃ*)), that is, strong or possessed of strength, with food (वाजेभिः (*vājebhiḥ*)), meaning with the foods that are the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विवाचि (*vivāci*)—(O Indra) in the sacrifice accompanied by many kinds of praises
+- वाजेभिः (*vājebhiḥ*)—with the foods that take the form of oblations
+- वाजयतां (*vājayatāṃ*)—of those who make you powerful
+
+### Printed p. 159
+
+- पुराणां (*purāṇāṃ*)—of those who are many in number
+- स्तोतृणां (*stotṛṇāṃ*)—of us, the praisers, (may the praises)
+- पुरुतमः (*purutamaḥ*)—come and reach you, who kill many enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the praises of us, the praisers, who are many in number and who make you powerful with the foods that take the form of oblations in the sacrifice accompanied by many kinds of praises, come and reach you, who kill many enemies.
+
+##### English translation
+May the praises of many worshippers offered at the sacrifice, (accompanied) by (sacrificial) viands. invigorate you, destroyer of multitudes.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मिंद्र भूतु ते॒ स्तोमो॒ वाहि॑ष्ठो॒ अंत॑मः ।  
+> अ॒स्मान्रा॒ये म॒हे हि॑नु ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इंद्र । भूतु । ते । स्तोमः । वाहिष्ठः । अंतमः ।  
+> आस्मान् । राये । महे । हिनु ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाहिष्ठो वोढृतमोऽस्माकं स्तोमः स्तोत्रं ते तवांतमोऽन्तिकतमो भूतु । भवतु । त्वं चास्मान्महे महते राये धनाय हिनु । प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may our praise (स्तोमः (*stomaḥ*)), which is the best bearer (वोढृतमो (*voḍhṛtamo*)), be nearest to you. And you urge us on (हिनु (*hinu*) means impel) to great (महे (*mahe*)) wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाहिष्ठः (*vāhiṣṭhaḥ*)—possessing exaltedness in the highest degree
+- अस्माकं स्तोमः (*asmākaṃ stomaḥ*)—our praise
+- ते (*te*)—to you
+- अंतमः (*aṃtamaḥ*)—very near
+- भूतु (*bhūtu*)—may it have come
+- आस्मान् (*āsmān*)—us
+- महे (*mahe*)—great
+- राये (*rāye*)—for the sake of wealth
+- हिनु (*hinu*)—impel
+
+### Printed p. 160
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may our praise, which has exaltedness in the highest degree, have come very near to you. Impel us towards great wealth.
+
+##### English translation
+May our most elevating praise be near, Indra, to you, and urge us to (the acquirement of) great riches.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॑ बृ॒बुः प॑णी॒नां वर्षि॑ष्ठे मू॒र्धन्न॑ स्थात् ।  
+> उ॒रुः कक्षो॒ न गां॒ग्यः ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । बृबुः । पणीनां । वर्षिष्ठे । मूर्धन् । अस्थात् ।  
+> उरुः । कक्षः । न । गांग्यः ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृबुर्नाम पणीनां तक्षा । तत्सकाशाल्लब्बधनो भरद्वाजस्तदीयं दानमनेन
+> तृचेनास्त्वात् । एतच्च मनुना स्मर्यते । भरद्वाजः क्षुधार्तस्तु सपुत्रो विजने वने ।
+> बर्हीर्गाः प्रतिजग्राह बृबोस्तक्ष्णो महायशाः ॥ म १०-१०७ ॥ इति ॥ पणनात्पणयो
+> वणिज एतत्संज्ञा असुरा वा । तेषां तक्षा बृबुर्वर्षिष्टे मूर्धन्मूर्धनि मूर्धवदुच्छ्रिते स्थलेऽध्यस्थात् अधिष्ठितोऽभूत् गांग्यो गंगायः कूल उन्नते भवः कक्षो
+> न कक्षॆ इवोरुर्विस्तीर्णः सन् । जातितो हीनोऽपि दातृत्वात्सर्वत्र श्रेष्ठो भव
+> तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Bṛbu is the name of the carpenter of the Paṇis. Bharadvāja, having obtained wealth from him, extolled his gift with this triplet. This is also recalled by Manu: भरद्वाजः क्षुधार्तस्तु सपुत्रो विजने वने । बर्हीर्गाः प्रतिजग्राह बृबोस्तक्ष्णो महायशाः ॥ (*bharadvājaḥ kṣudhārtastu saputro vijane vane | barhīrgāḥ pratijagrāha bṛbostakṣṇo mahāyaśāḥ ‖*) (Ma 10-107) **GLOSS** **NOTE** The Paṇis are so called from trading (पणनात् (*paṇanāt*)): they are merchants, or else asuras of this name. Of them Bṛbu the carpenter has taken his stand (स्थलेऽध्यस्थात् (*sthale 'dhyasthāt*)) on the loftiest (वर्षिष्टे (*varṣiṣṭe*)) place, one raised up like a head (मूर्धन् (*mūrdhan*)). He is गांग्यः (*gāṃgyaḥ*), born on the high bank of the Gaṅgā, and, like a कक्षॆ (*kakṣè*), he is broad (उरुः (*uruḥ*)), spread wide. The meaning is: though low by birth, by being a giver he becomes the best everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गांग्यः (*gāṃgyaḥ*)—of the river Gaṅgā
+- कक्षो न (*kakṣo na*)—like the exceedingly high bank
+- बृबुः (*bṛbuḥ*)—the carpenter named Bṛbu
+- पणीनां (*paṇīnāṃ*)—among the Paṇis
+- वर्षिष्ठे (*varṣiṣṭhe*)—the most excellent, and
+- मूर्धन् (*mūrdhan*)—the exceedingly lofty
+- अधि अस्थात् (*adhi asthāt*)—has obtained a position; (the position)
+- उरुः (*uruḥ*)—he has also obtained wide fame
+
+### Printed p. 161
+
+##### भावार्थ (Bhāvārtha)
+
+Like the exceedingly high bank of the river Gaṅgā, the carpenter named Bṛbu, among all the Paṇis, has obtained the most excellent and exceedingly lofty position, and has attained exceedingly wide fame.
+
+##### English translation
+Bribu presided over the high places of the Panis, like the elevated bank of the Ganges.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ वा॒योरि॑व द्र॒वद्भ॒द्रा रा॒तिः स॑ह॒स्रिणी॑ ।  
+> स॒द्यो दा॒नाय॒ मह॑ते ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । वायोः इव । द्रवत् । भद्रा । रातिः । सहस्रिणी ।  
+> सद्यः । दानाय । मंहते ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायोरिव द्रवत् क्षिप्रगामिनो यस्य बृबोर्भद्रा कल्याणी सहस्रिणी सहस्र
+> संख्यायुक्ता रातिर्दानं सद्यः स्तुतिसमय एव दानाय दानकामाय याचमानाय
+> मह्यं मंहते अपेक्षितं धनं ददाति तं बृबुमित्युत्तरस्वामृचि संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The gift (रातिः (*rātiḥ*)) of Bṛbu, who goes swiftly like the wind, is auspicious (भद्रा (*bhadrā*), that is, benevolent) and consists of a thousand; at once, at the very time of the praise, it gives the wealth I desired to me (मह्यं (*mahyaṃ*)), who am asking for a gift (दानाय (*dānāya*)) and desire it (मंहते (*maṃhate*)). The connection is with that Bṛbu in the following Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायोः इव (*vāyoḥ iva*)—like the wind
+- द्रवत् (*dravat*)—swift-going
+- यस्य (*yasya*)—of which Bṛbu
+- भद्रा (*bhadrā*)—auspicious
+- सहस्रिणी (*sahasriṇī*)—numbering a thousand
+- रातिः (*rātiḥ*)—the gift
+- सद्यः (*sadyaḥ*)—at the very time of praise
+- दानाय (*dānāya*)—to me, who desire a gift
+- मंहते (*maṃhate*)—and who seek wealth, was given (such a Bṛbu is renowned)
+
+##### भावार्थ (Bhāvārtha)
+
+Such a Bṛbu is renowned, whose auspicious gift, numbering a thousand, swift like the wind, was given at the very time of the praise to me, who desired a gift and sought wealth.
+
+### Printed p. 162
+
+##### English translation
+Of whom, prompt as the wind, the liberal donation of thousands (of cattle) has been quickly given to (me) soliciting a gift.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नो॒ विश्वे॑ अ॒र्य आ सदा॑ गृणंति का॒रवः॑ ।  
+> बृ॒बुं स॑हस्र॒दात॑मं सू॒रिं स॑हस्र॒सात॑मं ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । नः । विश्वे । अर्यः । आ । सदा । गृणंति । कारवः ।  
+> बृबुं । सहस्रदातमं । सूरिं । सहस्रसातमं ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्तं बृबुं नोऽस्मदीया विश्वे सर्वेऽर्यः स्तुतीनामिरयितारः कारवः
+> स्तोतारः सदा सु सुष्ठ्वा गृणंति । अभिगृणंति । अभिष्णुवंति । कीदृशं । सहस्रदातममतिशयेन सहस्रसंख्यस्य धनस्य दातारं सूरिं प्राज्ञं यद्वा प्रेरयितारं
+> सहस्रसातममतिशयेन सहस्रसंख्यस्य स्तोत्रस्य धनस्य वा संभक्तारं ॥
+
+##### Gist of the bhāṣya
+
+That Bṛbu is always well (सु (*su*), meaning excellently) praised (गृणंति (*gṛṇaṃti*), that is, they extol, they laud) by all those who are ours (नः (*naḥ*)), the अर्यः (*aryaḥ*) who stir up praises, the praisers. Of what kind is he? He is the greatest giver of a thousandfold wealth (सहस्रदातमं (*sahasradātamaṃ*)); wise (सूरिं (*sūriṃ*)), or else an impeller; and the greatest sharer (सहस्रसातमं (*sahasrasātamaṃ*)) of a thousandfold praise or wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रदातमं (*sahasradātamaṃ*)—the giver of wealth numbering a thousand
+- सूरिं (*sūriṃ*)—the wise one
+- सहस्रसातमं (*sahasrasātamaṃ*)—and the sharer in wealth numbering a thousand
+- तत् बृबुं (*tat bṛbuṃ*)—that same Bṛbu
+- नः (*naḥ*)—those who belong to us
+- विश्वे (*viśve*)—all
+- आर्यः (*āryaḥ*)—venerable ones, the
+- कारवः (*kāravaḥ*)—praisers
+- सदा (*sadā*)—always
+- सु (*su*)—exceedingly
+- आ गृणंति (*ā gṛṇaṃti*)—fully praise
+
+##### भावार्थ (Bhāvārtha)
+
+That same Bṛbu, the giver of wealth numbering a thousand, the wise one, the lord of wealth numbering a thousand, is praised always, exceedingly and in the highest degree, by the praisers, who belong to us, all of them venerable.
+
+### Printed p. 163
+
+##### English translation
+Whom, therefore, we all, who are the profferers and bestowers of praise ever commend, as the pious Bribu, the donor of thousands (of cattle) the recciver of thousands (of laudations).
+
+## Sūkta 46 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वामिद्दीति चतुर्दशर्चं तृतीयं सूक्तं बृहस्पतिपुत्रस्य शंयोरार्षमैंद्रं।
+> प्रथमातृतीयाद्या आयुजो बृहत्यो द्वितीयाचतुर्थ्याद्या युजः सतोबृहत्यः ।
+> तथा चानुक्रांतं । त्वामिद्दि षळूना प्रागाथमिति ॥ सूक्तविनियोगो लैंगिकः ॥ यदि
+> ज्योतिःष्टोमो बृहत्पृष्ठः स्यात्तदानीं निष्केवल्यस्याद्यः प्रगाथः स्तोत्रियः ।
+> सूत्रितं च । यद्यु वै बृहत्वामिद्दि हवामहे । आ. ५-१५ । इति ॥ महाव्रतेऽपि
+> निष्केवल्येयं प्रगाथः शंसनीयः । तथैव पंचमारण्यके सूत्रितं । त्वामिद्दि
+> हवामहे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, of fourteen Ṛks, beginning त्वामिद्दीति (*tvāmiddīti*), has as its seer Śaṃyu, son of Bṛhaspati; its deity is Indra. The first, third and the following odd Ṛks are Bṛhatī; the second, fourth and the following even Ṛks are Satobṛhatī. So the Anukramaṇī says: त्वामिद्दि षळूना प्रागाथमिति (*tvāmiddi ṣaḷūnā prāgāthamiti*) **GLOSS** The use of the sūkta is by indication. If the Jyotiṣṭoma is Bṛhatpṛṣṭha, then at that time the first pragātha of the niṣkevalya is the stotriya. It is also laid down in the sūtra यद्यु वै बृहत्वामिद्दि हवामहे (*yadyu vai bṛhatvāmiddi havāmahe*) (Ā. 5-15). In the Mahāvrata too this pragātha is to be recited in the niṣkevalya. So also in the fifth Āraṇyaka it is laid down: त्वामिद्दि हवामहे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ (*tvāmiddi havāmahe tvaṃ haihi cerava iti bṛhataḥ stotriyānurūpau*) (Ai. Ā. 5-2-2).
+
+##### Anuvāda
+
+This sūkta, त्वामिद्दि (*tvāmiddi*), is the third sūkta in the fourth Anuvāka. It has fourteen Ṛks. The seer of this sūkta is Śaṃyu, son of Bṛhaspati; Indra is the deity. In this sūkta the Ṛks of odd number, 1, 3, 5 and so on, are in the Bṛhatī metre; the Ṛks of even number, 2, 4, 6 and so on, are in the Satobṛhatī metre. In the Anukramaṇī it is said: त्वामिद्दि पळूना प्रागाथं (*tvāmiddi paḷūnā prāgāthaṃ*) **GLOSS** **NOTE** The use of the sūkta is by indication. In the variety of the Jyotiṣṭoma sacrifice called Bṛhatpṛṣṭha, at the time of reciting the niṣkevalya-śastra mantras, the use of this sūkta for the stotriya mantras called the pragātha at the beginning is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यद्यु वै बृहत्वामिद्दि हवामहे (*yadyu vai bṛhatvāmiddi havāmahe*) (Ā. 5-15). In the Mahāvratesṭi too, when the niṣkevalya-śastra mantras are recited, this sūkta is to be recited as a pragātha sūkta; this is indicated in the fifth Āraṇyaka of the Aitareya-Āraṇyaka by the sentence त्वामिद्दि हवामहे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ (*tvāmiddi havāmahe tvaṃ haihi cerava iti bṛhataḥ stotriyānurūpau*) (Ai. Ā. 5-2-2).
+
 ---
 
-**Progress note:** Done through printed p. 156. Mandala 6 sukta 45 rks 19-27 (pp.153-154 head fix)
+**Progress note:** Done through printed p. 163. Vol 21 Mandala 6 sukta 45 Rks 27-33 and introduction of sukta 46
