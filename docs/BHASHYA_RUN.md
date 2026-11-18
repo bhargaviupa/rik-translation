@@ -29,3 +29,9 @@ For the first sūkta of each volume, and about one sūkta in ten after that, the
 ## For the user to settle once for the series
 - **Uṇādi-sūtra numbers**: the supplied text and the reference edition number them differently every time (found in Vol 16, 3.17–3.21: five NOTEs). From Nov 18 2026 the agents copy the supplied number without a NOTE; which numbering the book prints belongs with the abbreviation list.
 - **Sūkta introductions and whole bhāṣyas missing in the supplied text** but present in the reference edition (Vol 11: nine introductions; Vol 16: 3.10 introduction, 3.15 Ṛk 7): marked by NOTE, nothing added.
+
+## State when the run was stopped (Nov 18 2026, 21:30 UTC = 3 am IST Nov 19, by the user)
+- Done and VERIFIED: Vol 11 all 21 sūktas; Vol 16 3.7–3.31 (25 of 33); Vol 17 3.40. Next: `16 3.32` (17 Ṛks). The agent started on 3.32 hit the Fable limit before writing anything.
+- The hourly check-in (`Bhāṣya run check-in`) is disabled, not deleted. To go on: the user decides the model first (a side-by-side test of Sonnet on one finished sūkta was proposed, not run), then enable the check-in or start an agent by hand.
+- Second pass against the reference text still due: Vol 17 3.40. Vol 11 1.139, 1.148, 1.149 lack the NOTE for a missing introduction (made before that rule). Vol 16 3.7–3.26 were made under the looser NOTE rule for edition differences.
+- Long sūktas (17–22 Ṛks) take one agent each (about 215,000 tokens); short ones about 40,000–50,000 each in batches of five.
