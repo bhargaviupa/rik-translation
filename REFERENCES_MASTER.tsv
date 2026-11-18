@@ -72,7 +72,6 @@ NOT IN LIST	Muṃ. U.		Mu. U.	known spelling of Mu. U. (capitals/dots differ)	hi
 NOT IN LIST	Śrī. A.			no list form close to it	none		2											1	1					
 NOT IN LIST	si.		Ni.	known spelling of Ni. (capitals/dots differ)	high		2											1				1		
 NOT IN LIST	Ta. Brā.			no list form close to it	none		2											1	1					
-NOT IN LIST	Ṛgvi.			no list form close to it	none		2												1					1
 NOT IN LIST	Bṛ. Me.			no list form close to it	none		2												2					
 NOT IN LIST	Prai. U.			no list form close to it	none		2												2					
 NOT IN LIST	Śrī. Ā.			no list form close to it	none		2												2					
@@ -207,7 +206,6 @@ NOT IN LIST	Pu. De.			no list form close to it	none		1												1
 NOT IN LIST	Bṛ. Pī.			no list form close to it	none		1												1					
 NOT IN LIST	R. V. VI.			no list form close to it	none		1												1					
 NOT IN LIST	Nir. XI.			no list form close to it	none		1												1					
-NOT IN LIST	ṛgvi.			no list form close to it	none		1												1					
 NOT IN LIST	Aś.			no list form close to it	none		1													1				
 NOT IN LIST	Śr. Brā.			no list form close to it	none		1													1				
 NOT IN LIST	saṃ.		Ṛ. Saṃ.	user, Nov 18 2026: lower-case saṃ. and the Devanagari सं. are Ṛ. Saṃ.; NOT true for capital Saṃ.	high	yes	1													1				
@@ -413,6 +411,7 @@ mistake	śata.	→ Śa. Brā.					1												1
 mistake	Pra.	→ Pra. U.					1												1					
 mistake	Āśv. Śrā.	→ Ā. Sū.					1												1					
 mistake	Āśv. Śau.	→ Ā. Sū.					1												1					
+mistake	ṛgvi.	→ Ṛgvi.					1												1					
 mistake	Mā. Saṃ.	→ Ṛ. Saṃ.					1													1				
 mistake	Sāṃ. Śrau.	→ Sāṃ. Śrau. Sū.					1														1			
 mistake	Pā. Saṃ.	→ Pā. Sū.					1															1		
@@ -447,6 +446,7 @@ extra	M.	Mahābhāṣya (Patañjali) on a Pāṇini sūtra					2			1	1
 extra	Dhā.	Dhātupāṭha (Pāṇinīya Dhātupāṭha, पाणिनीय धातुपाठ)					2					1			1									
 extra	Mā. Gṛ. Sū.	Mānava Gṛhyasūtra					2					1											1	
 extra	Śa. Bhā.	Śaṅkara-bhāṣya					2												1	1				
+extra	Ṛgvi.	Ṛgvidhāna (ऋग्विधान)					2												1					1
 extra	Kau. U.	Kauṣītaki Upaniṣad					2																1	1
 extra	Go. Brā.	Gopatha Brāhmaṇa					2																2	
 extra	Ṛ. Saṃ. Bhā.	Ṛgveda-saṃhitā bhāṣya					1																1	
@@ -508,13 +508,13 @@ Devanagari	इ. ब्रा.		Ai. Brā.	Devanagari read as i. brā.; known spel
 Devanagari	छां. उ.		Chā. U.	Devanagari read as chāṃ. u.; known spelling of Chā. U.	high	yes	7	1					2					2			1			1
 Devanagari	फि. सू.		Phi. Sū.	Devanagari read as phi. sū.; same letters; only capitals, dots or spaces differ	high	yes	6		6															
 Devanagari	मनु.		Ma. Smṛ.	Devanagari read as manu.; known spelling of Ma. Smṛ. (capitals/dots differ)	high	yes	6					1			1	1			2				1	
-Devanagari	ऋग्वि.			Devanagari read as ṛgvi.; no list form close to it	none		6												1	4				1
+Devanagari	ऋग्वि.		Ṛgvi.	Devanagari read as ṛgvi.; known spelling of Ṛgvi.	high	yes	6												1	4				1
 Devanagari	ऐ. ब्रां.		Ai. Brā.	Devanagari read as ai. brāṃ.; known spelling of Ai. Brā.	high	yes	6																	6
 Devanagari	छा. उ.		Chā. U.	Devanagari read as chā. u.; same letters; only capitals, dots or spaces differ	high	yes	5								1			2	1	1				
 Devanagari	सा.			Devanagari read as sā.; too short to tell: could be Sā. Saṃ.	none		5												1		2	2		
 Devanagari	कृ. सं.			Devanagari read as kṛ. saṃ.; no list form close to it	none		5													4		1		
 Devanagari	कृ. उ.			Devanagari read as kṛ. u.; no list form close to it	none		5													5				
-Devanagari	विधान.			Devanagari read as vidhāna.; no list form close to it	none		5													5				
+Devanagari	विधान.		Ṛgvi.	Devanagari read as vidhāna.; known spelling of Ṛgvi.	high	yes	5													5				
 Devanagari	पू. मी.		Jai. Sū.	Devanagari read as pū. mī.; known spelling of Jai. Sū. (capitals/dots differ)	high	yes	4	4																
 Devanagari	पा. म.		M.	Devanagari read as pā. ma.; user, Nov 18 2026 (later word): Pā. Ma. and पा. म. are the Mahābhāṣya	high	yes	4		3									1						
 Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form close to it	none		4		1			1	1									1		
