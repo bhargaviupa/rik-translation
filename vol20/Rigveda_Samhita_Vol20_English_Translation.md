@@ -5409,6 +5409,215 @@ Thus it is said of the offering of the forest animal called गवय (*gavaya*)
 
 O Vājinīvasū, you two Aśvins who provide dwelling for the sake of food, accept our sacrifice, for the sake of what is desired or for the seeking of it; serve it.
 
+### Printed p. 142
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—endowed with the wealth of food
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- इष्टये (*iṣṭaye*)—for your satisfaction
+- जुषेथां (*juṣethāṃ*)—partake
+- हंसाविव (*haṃsāviva*)—like two swans flying in
+- सुतान् उप (*sutān upa*)—with the pressed Soma in view
+- आ पततं (*ā patataṃ*)—come flying
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, endowed with the wealth of food, partake of our sacrifice for your satisfaction. Like two swans flying in, come flying with the pressed Soma in view.
+
+##### English translation
+Aswins, affluent in food, be propitiated at your pleasure by the sacrifice: alight like two swans upon the effused libation.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्रि॒र्यद्वा॑मव॒रोह॑न्नृ॒बीस॒मजो॑हवी॒न्नाध॑मानेव॒  ॑
+> योषा ।  
+> श्ये॒नस्य॑ चि॒ज्जव॑सा॒ नूत॑ने॒नाग॑च्छतमश्विना॒ शंत॑मेन ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्रिः । यत् । वां । अवरोहन् । ऋबीसं । अजोहवीत् । नाधमानाइव ।  
+> योषा ।  
+> श्येनस्य । चित् । जवसा । नूतनेन । आ । आगच्छतं । अश्विना । शंतमेन ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रिरस्मत्पिता यद्यदा नां युवामजोहवीत् आस्तौषीत् नाधमाना याच
+> माना योषा योषिदिव । सा यथा पतिं प्रीणयति तद्वत्कुर्वन् ऋबीसं तुषाग्नि-
+
+##### Gist of the bhāṣya
+
+Atri, our father, when he called upon you and praised you, imploring like a woman who asks and who, as she pleases her husband, acts accordingly, **NOTE** while he was thrown into the ऋबीसं (*ṛbīsaṃ*), the chaff-fire, in the fire-pit,
+
+### Printed p. 143
+
+> मग्नि कुंडे क्षिप्तः सन् अवरोहन् विमुंचन् अजोहवीत् । श्येनस्य चिज्जवसा
+> श्येनस्य गरुत्मत इव वेगेन ! चिदित्युपमार्थे । अथवा श्येनस्य जवसा वेगेन
+> नूतनेन प्रथमोत्पन्नेन सततं गच्छतः श्येनस्य प्रथमजवेन शंतमेनास्माकं
+> सुखतमेन च रथेन तं रक्षितुमागच्छतं हे आश्विना ॥
+
+##### Gist of the bhāṣya
+
+and was releasing himself from it (अवरोहन् (*avarohan*)), called upon you. Sāyaṇa explains the next words: with the speed of a falcon, that is, of Garutmat, with its speed; the particle चित् (*cit*) has the sense of comparison. Or else: with the new speed, the speed freshly arisen, of a falcon that is constantly flying, the first speed of the falcon, and with a chariot that is the most auspicious, the most pleasant for us, come, O Aśvins, to protect him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अशिना (*aśinā*)—O Aśvin deities
+- यबीसं (*yabīsaṃ*)—fallen into the fire-pit
+- अत्रिः (*atriḥ*)—Atri
+- अवरोहन् (*avarohan*)—(with your help) escaping from there
+- यत् (*yat*)—with which devotion full of gratitude
+- नाधमाना (*nādhamānā*)—who begs for the love of her husband
+- योषा (*yoṣā*)—like a woman
+- वां (*vāṃ*)—you
+- अजोहवीत् (*ajohavīt*)—called, praying (for that reason)
+- श्येनस्य चित् (*śyenasya cit*)—of the falcon
+- नूतनेन (*nūtanena*)—newly arisen
+- जवसा (*javasā*)—with a speed like the speed
+- शंतमेन (*śaṃtamena*)—that brings happiness, with your chariot
+- आ अगच्छतं (*ā agacchataṃ*)—deign to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, Atri, fallen into the fire-pit, escaped from there with your help, and with the devotion full of gratitude with which he prayed to you and called you, like a woman who begs for the love of her husband, for that reason deign to come with your chariot that brings happiness, with a speed like the newly arisen speed of the falcon.
+
+##### English translation
+Inasmuch as Atri, escaping by your aid from the fire of chaff, conciliations you, like a wife soliciting (the affection of a husband), therefore come with (your) propitious cars, with the new-born rapidity of the falcon.
+
+##### विशेषविषयगळु (Special Topics)
+
+अश्विना ऋबीसं अत्रिः अवरोहन् (*aśvinā ṛbīsaṃ atriḥ avarohan*)—O Aśvin deities, the seer Atri, who had fallen into the fire-pit, escaped from the fire with your help. On this subject:
+युवं ह घर्म० मधुमंतमत्रयेऽपो न क्षोदोऽव्वणीतमेषे । (*yuvaṃ ha gharma0 madhumaṃtamatraye 'po na kṣodo 'vvaṇītameṣe |*) (Ṛ. Saṃ. 1-180-4) **GLOSS**
+In Ṛks such as this, the matter of the Aśvin deities saving Atri, who had fallen into the fire and was suffering, is stated.
+अत्रेतिहासमाहुः । प्रवर्ग्येण प्रचरंतमत्रिं राक्षसास्तप्ते घर्मेऽपातयन् स च तस्यमानोःश्विन् तुष्टाव । त्वा च स्तुत्या हृष्टमनसावरक्षतामिति ॥ (*atretihāsamāhuḥ | pravargyeṇa pracaraṃtamatriṃ rākṣasāstapte gharme 'pātayan sa ca tasyamānoḥśvin tuṣṭāva | tvā ca stutyā hṛṣṭamanasāvarakṣatāmiti ‖*) (Sā. Bhā.) **NOTE**
+
+### Printed p. 144
+
+The rākṣasas threw the seer Atri, who was engaged in the sacrificial rite called Pravargya, into a blazing fire. Then Atri took refuge in the Aśvin deities and prayed that they protect him. They, satisfied, protected him, so it says. Further:
+याभिः शुचंतिं धनसां सुषंसदं तप्तं घर्ममोम्यावंतमत्रये । (*yābhiḥ śucaṃtiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvaṃtamatraye |*) (Ṛ. Saṃ. 1-112-7) **GLOSS**
+हिमेनाग्निं फ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तं । यबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति ॥ (*himenāgniṃ phraṃsamavārayethāṃ pitumatīmūrjamasmā adhattaṃ | yabīse atrimaśvināvanītamunninyathuḥ sarvagaṇaṃ svasti ‖*) (Ṛ. Saṃ. 1-116-8) **GLOSS**
+This allusion is found also in these Ṛks:
+अत्रिर्नामषिः । तमसुरा अग्निकूटे प्रचिक्षिपुः । सोऽश्विनौ तुष्टाव तमश्विना वागत्य वृष्टा निशमय्याग्निं तत उज्जह्रतुः । बलं चासुरप्रतिबंध समर्थमस्मै सहान्नेन ददतुरिति ॥ (*atrirnāmaṣiḥ | tamasurā agnikūṭe pracikṣipuḥ | so 'śvinau tuṣṭāva tamaśvinā vāgatya vṛṣṭā niśamayyāgniṃ tata ujjahratuḥ | balaṃ cāsurapratibaṃdha samarthamasmai sahānnena dadaturiti ‖*) (Sā. Bhā.)
+Once upon a time the asuras threw the seer called Atri into a heap of fire. He prayed to the Aśvin deities. They came, put out the fire with rain-water and lifted him up. Afterwards they gave him strength to hold back the asuras, and food. So the story goes.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि जि॑हीष्व वनस्पते॒ योनिः॒ सूष्यं॑त्या इव ।  
+> श्रु॒तं मे॑ अश्विना॒ हवं॑ स॒प्तव॑ध्रिं च मुंचतं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । जिहीष्व । वनस्पते । योनिः । सूष्यंत्याः इव ।  
+> श्रुतं । मे । अश्विना । हवं । सप्तवध्रिं । च । मुंचतं ॥ ५ ॥
+
+### Printed p. 145
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र ब्रुवंतीतिहासं सप्तवध्रेः पुराविदः ॥ भ्रातृव्याः पेटिकायां तमृषिं
+> प्रक्षिप्य यत्नतः । मुद्रां कृत्वा गृहे स्वीये रक्षयित्वा न्यवेशयन् ॥ न संगच्छेत
+> भार्या० स्वां यथा रात्र्य तथा कृतं । प्रातः प्रातः समुद्घात्य निर्मथिष्यंति तं
+> मुनिं ॥ एवं स्थित्वा चिरं कालं पेटायां दुःखितः कृशः । उपायं चिंतयामास
+> निर्गमस्य चिरं मुनिः ॥ हृदि निश्चित्य नासत्यावस्तौषीद्धृष्टमानसः । तमश्विन् समागत्य
+> समुद्घात्य च पेटिकां ॥ उद्धृत्य तमृषिं शीघ्रं तावदृष्टौ बभूवतुः । स ऋषिर्भार्यया सार्धं रमित्वाथ पुनर्भयात् ॥ प्रातरेत्य पुनः पेटां प्रविश्य प्रागिव
+> स्थितः । पेटानिवाससमये दृष्टवानृद्वयं तदा ॥
+> हे वनस्पते वनस्पतिविकाररूपे पेटके वि जिहीष्ट । विगच्छ । विवृता भव ।
+> सूष्यंत्या इव प्रसवोन्मुख्याः स्त्रिया योनिरिव भगो यथा विव्रियते तथा त्वमपि
+> विवृता भव । तदर्थं हे अश्विनाश्विन् मे हवमाह्वानं श्रुतं । शृणुतं । श्रुत्वा च
+> सप्तवध्रिं च मामृषिं मुंचतं । मोचयतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa tells the old story of Saptavadhri. His rivals, his brother's sons, put the seer into a chest with care, sealed it and kept it in their own house, so arranged that he should not unite with his wife at night. Every morning they opened it and tormented that sage. Having lived thus a long time in the chest, unhappy and lean, the sage thought of a means of escape; having decided in his heart, with a glad mind he praised the Nāsatyas. The two Aśvins came, opened the chest, lifted the seer out and quickly became invisible. The seer, after being with his wife, afraid, came back in the morning and entered the chest again, staying as before. While he was staying in the chest he saw this pair of Ṛks. Then the explanation of the verse: O Vanaspati, that is, the chest, which is a modification of a tree, open wide, be opened; as the womb of a woman about to give birth is opened, so be opened. For that, O Aśvins, hear my call; and having heard, release me, the seer Saptavadhri.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पते (*vanaspate*)—O Vanaspati (O chest)
+- सूष्यंत्याः (*sūṣyaṃtyāḥ*)—of a woman at the time of delivery
+- योनिः इव (*yoniḥ iva*)—like the organ of birth
+- वि जिहीष्ट्व (*vi jihīṣṭva*)—open your mouth wide
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मे (*me*)—my
+- हवं (*havaṃ*)—call
+- श्रुतं (*śrutaṃ*)—hear
+- सप्तवध्रिं च (*saptavadhriṃ ca*)—and the seer Saptavadhri
+- मुंचतं (*muṃcataṃ*)—release
+
+##### भावार्थ (Bhāvārtha)
+
+O Vanaspati (O chest), open your mouth wide, like the organ of birth of a woman at the time of delivery. O Aśvin deities, hear my call. Release Saptavadhri also.
+
+##### English translation
+Open, Vanaspati. like the womb of a parturient female: hear,
+Aswins, my invocation : set Saptavadhri free.
+
+##### विशेषविषयगळु (Special Topics)
+
+On this Ṛk and the next there is a story concerning the seer Saptavadhri, who saw this sūkta:
+अत्र ब्रुवंतीतिहासं सप्तवध्रेः पुराविदः । भ्रातृव्याः पेटिकायां तमृषिं प्रक्षिप्य यत्नतः ॥ (*atra bruvaṃtītihāsaṃ saptavadhreḥ purāvidaḥ | bhrātṛvyāḥ peṭikāyāṃ tamṛṣiṃ prakṣipya yatnataḥ ‖*)
+
+### Printed p. 146
+
+मुद्रां कृत्वा गृहे स्विये रक्षयित्वा न्यवेशयन् । न संगच्छेत भार्यां स्वां यथा रात्रौ तथा कृतं ॥ प्रातःप्रातः समुद्भाट्य निर्मथिष्यंति तं मुनिं । एवं स्थित्वा चिरं कालं पेटायां दुःखितः कृशः ॥ उपायं चिंतयामास निर्गमस्य चिरं मुनिः । हृदि निश्चित्य नासत्यावस्तौषीद्वृष्टमानसः ॥ तमश्विन् समागत्य समुद्भाट्य च पेटकां । उद्धृत्य तम्मषिं शीघ्रं तावदृष्टौ बभूवतुः ॥ स ऋषिर्भार्यया सार्धं रमित्वाथ पुनर्भयात् । प्रातरेत्य पुनः पेटां प्रविश्य प्रागिव स्थितः ॥ पेटानिवाससमये दृष्टवानृग्वयं तदा ॥ (*mudrāṃ kṛtvā gṛhe sviye rakṣayitvā nyaveśayan | na saṃgaccheta bhāryāṃ svāṃ yathā rātrau tathā kṛtaṃ ‖ prātaḥprātaḥ samudbhāṭya nirmathiṣyaṃti taṃ muniṃ | evaṃ sthitvā ciraṃ kālaṃ peṭāyāṃ duḥkhitaḥ kṛśaḥ ‖ upāyaṃ ciṃtayāmāsa nirgamasya ciraṃ muniḥ | hṛdi niścitya nāsatyāvastauṣīdvṛṣṭamānasaḥ ‖ tamaśvin samāgatya samudbhāṭya ca peṭakāṃ | uddhṛtya tammaṣiṃ śīghraṃ tāvadṛṣṭau babhūvatuḥ ‖ sa ṛṣirbhāryayā sārdhaṃ ramitvātha punarbhayāt | prātaretya punaḥ peṭāṃ praviśya prāgiva sthitaḥ ‖ peṭānivāsasamaye dṛṣṭavānṛgvayaṃ tadā ‖*)
+Those who know the ancient history tell a story about the seer Saptavadhri. The sons of the brothers of this Saptavadhri, thinking that sons should not be born to the seer, so that he should not unite with his wife at night, used to put him every night, in his own house, into a wooden chest, close the door and lock it. Then, rising in the morning, they would open the door of the chest and beat the seer well. When night came, they would again put him in the chest and lock it. It seems that they did so probably out of the desire that if he had no children his property would come to them. When this had gone on for a long time, Saptavadhri, grown lean with sorrow, thought how he might escape from it, and praised the Aśvin deities. They, satisfied, came there, opened the door of the chest, released the seer and at once became invisible. The seer, delighted by this, enjoyed himself freely with his wife all night, and when morning came he entered the chest again as before, that is, like one who knew nothing. So it went on for a long time. While he was in the chest, this Ṛk and the next Ṛk were seen by this seer Saptavadhri. Thus the bhāṣyakāra has narrated this story.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भी॒ताय॒ नाध॑मानाय॒ ऋष॑ये स॒प्तव॑ध्रये ।  
+> मा॒याभि॑रश्विना यु॒वं वृ॒क्षं सं च॒ वि चा॑चथः ॥ ६ ॥
+
+### Printed p. 147
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भीताय । नाधमानाय । ऋषये । सप्तवध्रये ।  
+> मायाभिः । अश्विना । युवं । वृक्षं । सं । च । वि । च । अचथः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भीताय निर्गमाद्बिभ्युषे नाधमानाय विमोक्षं याचमानाय सप्तवध्रय
+> ऋषये हे अश्विनाश्विन् युवं युवां मायाभिर्वृक्षं वृक्षविकारां पेटिकां सं
+> चाचथः । मम निर्गमार्थं संगच्छथः । व्यचथश्च । विभक्तं कुरुथः ॥
+
+##### Gist of the bhāṣya
+
+For the seer Saptavadhri, who is afraid of coming out and who begs for release, O Aśvins, you two, by your powers, come together for my release to the chest, which is a modification of a tree, and separate it, that is, make it open.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- भीताय (*bhītāya*)—who is afraid
+- नाधमानाय (*nādhamānāya*)—who begs for release
+- सप्तवध्रये (*saptavadhraye*)—by name Saptavadhri
+- ऋषये (*ṛṣaye*)—for the help of me, the seer
+- युवं (*yuvaṃ*)—you
+- मायाभिः (*māyābhiḥ*)—by your extraordinary power
+- वृक्षं (*vṛkṣaṃ*)—to the chest, a modification of a tree
+- सं चाचथः (*saṃ cācathaḥ*)—come
+- वि चाचथः (*vi cācathaḥ*)—open its mouth (its door)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, for the help of the seer (me), who is afraid, who begs for release and who is named Saptavadhri, come with your extraordinary power to the chest, which is a modification of a tree. Open its mouth (its door).
+
+##### English translation
+Aswins, by your devices sunder the wicker-work for (the liberation
+of the) terrified, imploring Rishi, Saptavadhri.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ वातः॑ पुष्क॒रिणीं॑ समिं॒गय॑ति स॒र्वतः॑ ।  
+> ए॒वा ते॒ गर्भ॑ एजतु नि॒रैतु॒ दश॑मास्यः ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 141. Sūkta 77 Ṛk 3 end to Ṛk 5; Sūkta 78 introduction and Ṛks 1-3 start (pp. 135-141)
+**Progress note:** Done through printed p. 147. Sūkta 78 Ṛk 3 end, Ṛks 4-6, Ṛk 7 Saṃhitā (pp. 142-147)
