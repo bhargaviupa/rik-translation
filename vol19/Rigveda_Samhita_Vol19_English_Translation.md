@@ -6463,6 +6463,272 @@ The lord Indra, as soon as the Soma was drunk, established heaven and earth exce
 ##### English translation
 Thereupon he fixed firmly heaven and earth, and, resolutely advancing filled (Vritra), like a deer, with terror : stripping off his covering, Indra slew the Danava, endeavouring to hide, and panting with affright.
 
+### Printed p. 164
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ क्रत्वा॑ मघव॒न्नुभ्यं॑ दे॒वा अनु॒ विश्वे॑ अददुः सोम॒पेयं॑ ।  
+> यत्सूर्य॑स्य ह॒रितः॒ पतं॑तीः पु॒रः स॒तीरुप॑रा॒ एत॑शे॒ कः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । कत्वा । मघवन् । तुभ्यं । देवाः । अनु । विश्वे । अददुः । सोमपेयं ।  
+> यत् । सूर्यस्य । हरितः । पतंतीः । पुरः । सतीः । उपराः । एतशे । करिति कः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च हे मघवन् घनवन्निंद्र क्रत्वा क्रतुना त्वदीयेन कर्मणा विश्वे
+> सर्वॆ देवा द्योतमाना वह्नादयस्तुभ्यं त्वदर्थं सोमपेयं सोमपानमन्वददुः । आनुपूर्व्यण दत्तवंतः । ततः प्रभृतींद्रो देवेभ्यः सर्वेभ्योऽधिकोऽभवदित्यर्थः । तथा च श्रूयते । स महान्भात्वा देवता अब्रवीदुद्धारं म
+> उद्धरतेत्यादि । ऐ. ब्रा. ३-२१ । हे इंद्र यद्यस्त्वं पतंतीरागच्छंतीः पुरः सतीः
+> पुरस्ताद्भवंतीः सूर्यस्य संबंधिनीर्हरितो वडना उपरा उपरता मंदगतीरेतश एतशाख्याय ऋषये कः अकार्षिः । एतशो हि स्वश्वपुत्रेण सूर्येण सह
+> स्पर्धामकरोदिति यावत् । तथा च निगमांतरे । प्रैतशं सूर्ये पस्पृधानं
+> सौवश्यॆ सुष्टिमावदिंद्रः । ऋग्वे १-६१-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+And further, O Maghavan, O wealthy Indra, through your own deed all the shining gods, Agni and the others, have granted you in due order the drinking of Soma for your sake; from then on Indra became greater than all the gods. So it is heard: स महान्भात्वा देवता अब्रवीदुद्धारं म उद्धरतेत्यादि । (*sa mahānbhātvā devatā abravīduddhāraṃ ma uddharatetyādi |*) (Ai. Brā. 3-21) **NOTE**. Since you, O Indra, made the tawny horses of Sūrya, which were coming on and were in front, slow of pace for the sake of the seer named Etaśa **NOTE**, that is, Etaśa had competed with Sūrya, the son of his own horse **NOTE**; and another passage says the same: प्रैतशं सूर्ये पस्पृधानं सौवश्यॆ सुष्टिमावदिंद्रः (*praitaśaṃ sūrye paspṛdhānaṃ sauvaśyè suṣṭimāvadiṃdraḥ*) (Ṛgve. 1-61-15) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतशे (*etaśe*)—(O Indra) for the help of the seer named Etaśa
+- यत् (*yat*)—by which greatness of yours
+- पतंतीः (*pataṃtīḥ*)—that were coming against you
+- पुरः सतीः (*puraḥ satīḥ*)—that were spreading out in front
+- हरितः (*haritaḥ*)—the horses
+- उपराः कः (*uparāḥ kaḥ*)—you made slow of pace
+- अध (*adha*)—for that very reason
+- मघवन् (*maghavan*)—O wealthy Indra
+- क्रत्वा (*kratvā*)—pleased by your surpassing deed
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- तुभ्यं (*tubhyaṃ*)—to you
+- सोमपेयं (*somapeyaṃ*)—the drinking of Soma
+- अनु आदुदुः (*anu āduduḥ*)—approved (to you first, before all others)
+
+### Printed p. 165
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by that greatness of yours by which, for the help of the seer named Etaśa, you made the horses that belong to Sūrya, which were coming against you and spreading out in front, slow of pace, for that very reason all the gods, pleased by your surpassing deed, approved the drinking of Soma for you, O wealthy Indra, before all others.
+
+##### English translation
+Then, for this exploit, all the gods gave you, Maghavan, in succession, the Soma beverage ; whence you have retarded, for the sake of Etasa, the advancing horses of the sun.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नव॒ यद॑स्य नव॒तिं च॑ भो॒गान्ता॒स्यकं वज्रे॑ण म॒घवा॑  
+> विवृ॒श्चत् ।  
+> अर्चं॒तीद्रं॑ म॒रुतः॑ स॒दस्ये॒ त्रैष्टु॑भेन॒ वच॑सा बाधत॒ द्यां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नव । यत् । अस्य । नवतिं । च । भोगान् । साकं । वज्रेण । मघवा । विवृश्चत् ।  
+> अर्चंति । इंद्रं । मरुतः ! सधस्थे । त्रैस्तुभेन । वचसा । बाधत । द्यां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा मघवा धनवानिंद्रः । अस्येत्यनेन शंबर उच्यते । अस्य शंबरस्य
+> संबंधीनि नव नवसंख्याकानि नवतिं च नवतिसंख्याकानि च भोगान्सुराणि । भोगानित्यंतोदात्तः पुरवचनः । साकं युगपदेव वज्रेण विवृश्चत् व्यवृश्चत् अभिनत्
+> तदा मरुतः सधस्थे सहस्थाने युद्धे ना स्थितमिंद्रं त्रैष्टुभेन त्रिष्टुप्‌छंदस्केन
+> वचसा नाग्रूपेण स्तोत्रेणार्चंति । आस्तुवन् । इंद्र एवं स्तुतः सन् द्यां
+> मरुद्भिः प्रयुज्यमानेन मंत्रेण दीप्तं शंबराख्यमसुरं बाधत । अबाधत ।
+> पिपीडे ॥
+
+##### Gist of the bhāṣya
+
+When the wealthy Indra split with his thunderbolt at one stroke the nine and ninety strongholds of Śambara (the word अस्य (*asya*) here denotes Śambara; भोगान् (*bhogān*) means cities), then the Maruts, in the place of their common abode, that is, in the battle, praised Indra who stood there, with a hymn in the Triṣṭubh metre. Thus praised, Indra oppressed the shining Asura named Śambara by the mantra employed by the Maruts; the verb बाधत (*bādhata*) means he crushed.
+
+### Printed p. 166
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- मघवा (*maghavā*)—the wealthy Indra
+- अस्य (*asya*)—of Śambara
+- नव नवतिं च (*nava navatiṃ ca*)—ninety-nine in number
+- भोगान् (*bhogān*)—the cities
+- साकं (*sākaṃ*)—at one time
+- वज्रेण (*vajreṇa*)—with his thunderbolt
+- विवृश्चत् (*vivṛścat*)—split asunder (then)
+- मरुतः (*marutaḥ*)—the Maruts
+- सदस्ये (*sadasye*)—who stood in one place
+- इंद्रं (*iṃdraṃ*)—Indra
+- त्रैष्टुभेन (*traiṣṭubhena*)—composed in the Triṣṭubh metre
+- वचसा (*vacasā*)—with a praise
+- अर्चंति (*arcaṃti*)—worshipped (Indra, pleased by this worship)
+- द्यां (*dyāṃ*)—the shining Śambara
+- बाधत (*bādhata*)—harmed
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the wealthy Indra split asunder at one time, with his thunderbolt, the ninety-nine cities of Śambara, the Maruts worshipped Indra, who stood in one place, with praises composed in the Triṣṭubh metre. Indra, pleased by the recitation of these very mantras, harmed the shining Śambara.
+
+##### English translation
+Whereupon Maghavan has destroyed with his thunderbolt at once his (Shambara's) ninety and nine cities: the Maruts glorifying Indra in a common dwelling with the Trishtubh hymn, he destroyed the bright (city of the Asura).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॒ सख्ये॑ अपच॒त्तूय॑म॒ग्निर॒स्य क्रत्वा॑ महि॒षा त्री श॒तानि॑ ।  
+> श्री सा॒कमिंद्रो॒ मनु॑षः॒ सरां॑सि सु॒तं पि॑बद्वृत्र॒हत्या॑य॒  ॑
+> सोमं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखा । सख्ये । अपचत् । तूयं । अग्निः । अस्य । क्रत्वा । महिषा । त्री । शतानि ।  
+> श्री । साकं । इंद्रः । मनुषः । सरांसि । सुतं । पिबत् । वृत्तहत्याय । सोमं॥ ७ ॥
+
+### Printed p. 167
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखेंद्रस्य मित्रभूतोऽग्निर्महिषा महिषाणां पशूनां श्री त्रीणि शतानि
+> शतसंख्याकानि सख्ये सख्युर्मित्रभूतस्यास्येंद्रस्य क्रत्वा कर्मणा निमित्तभूतेन
+> तूयं क्षिप्रमपचत् । पपाच । किंच इंद्रः परमैश्वर्ययुक्तो मनुषो
+> मनोः संबंधीनि त्री त्रीणि सरांसि पात्राणि । अत्र सरःशब्देन पूतभृदाधवनीयद्रोणकलशसंज्ञानि पात्राण्युच्यंते । तेषु स्थितं सुतमभिषुतं सोमं साकं
+> युगपदेव वृत्रहत्याय वृत्रहननाय पिबत् । अपिबत् । पपौ ॥
+
+##### Gist of the bhāṣya
+
+Agni, the friend of Indra, quickly cooked three hundred buffaloes, that is, animals, for the friend, this Indra, by a deed that served as the cause. And Indra, endowed with supreme lordship, drank at one time, for the slaying of Vṛtra, the pressed Soma that stood in the three सरांसि (*sarāṃsi*) of Manu, that is, vessels; here the word सरः (*saraḥ*) is said to stand for the vessels named Pūtabhṛt, Ādhavanīya and Droṇakalaśa **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखा (*sakhā*)—Agni, the friend of Indra
+- अग्निः (*agniḥ*)—Agni
+- सख्यॆ (*sakhyè*)—to his own dear friend
+- अस्य (*asya*)—of Indra
+- क्रत्वा (*kratvā*)—to help in the deed
+- तूयं (*tūyaṃ*)—quickly
+- त्रि शतानि (*tri śatāni*)—three hundred in number
+- महिषा (*mahiṣā*)—animals in the form of buffaloes
+- अपचत् (*apacat*)—cooked
+- इंद्रः (*iṃdraḥ*)—Indra
+- मनुषः (*manuṣaḥ*)—that belongs to Manu
+- त्रि सरांसि (*tri sarāṃsi*)—that is in three Droṇakalaśa vessels
+- सुतं (*sutaṃ*)—that was pressed according to the rule
+- सोमं (*somaṃ*)—the Soma juice
+- साकं (*sākaṃ*)—at one time
+- वृत्रहत्याय (*vṛtrahatyāya*)—to gain strength to kill Vṛtra
+- पिबत् (*pibat*)—drank
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the friend of Indra, cooked three hundred animals in the form of buffaloes to help his dear friend Indra in his enemy-destroying deed. Indra drank at one time the Soma juice offered by Manu, which was in three Droṇakalaśa vessels and had been pressed according to the rule, and gained the strength needed for the slaying of Vṛtra.
+
+##### English translation
+To aid (the undertaking of) his friend, Agni, the friend (of Indra), has quickly consumed three hundred buffaloes ; and Indra, for the destruct- ion of Vritra, has at once quaffed three vessels of Sama, offered by Manu. **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्री यच्छ॒ता म॑हि॒षाणा॒मघो॒ मास्त्री सरां॑सि म॒घवा॑  ॒॑
+> सो॒म्यापाः॑ ।
+
+### Printed p. 168
+
+> कारं न विश्वे अह्वंत देवा भरमिंद्राय यदहिं जघान ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्री । यत् । शता । महिषाणां । अघः । माः । श्री । सरांसि । मघवा । सोम्या ।  
+> असाः ।  
+> कारं । न । विश्वे । अह्वंत । देव्याः । भरं । इंद्राय । यत् । अहिं । जघान ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यद्यदा त्री त्रयाणां शता शतसंख्याकानां महिषाणां
+> पशूनां मा मांसान्यघः भक्षितवानसि ॥ घसेरत्तेर्वा रूपं ॥ यदा च मघवा
+> धनवांस्त्वं सोम्या सोममयानि त्री त्रीणि सरांसि पात्राण्यपाः पीतवानसि ।
+> यद्यदेंद्रोऽहिं वृत्रं जघान हतवान् तदा विश्वे सर्वॆ देवा भरं सोमपानादिना पूर्णमिंद्रायेंद्रं युद्धार्थमह्वंत । आह्वयंत । तत्र दृष्टांतः ।
+> कारं न । स्वामिनः कर्मकरमिव तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you ate the flesh of three hundred buffaloes, that is, animals (the verb अघः (*aghaḥ*) stands for eating), and when you, the wealthy one, drank three vessels made of Soma, and when Indra slew Ahi, that is Vṛtra, then all the gods summoned Indra for battle, since he was filled by the drinking of Soma and the like. The example is कारं न (*kāraṃ na*): as a master calls his servant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when (O Indra)
+- त्री शता (*trī śatā*)—three hundred in number
+- महिषाणां (*mahiṣāṇāṃ*)—of animals
+- माः (*māḥ*)—the flesh
+- अघः (*aghaḥ*)—you ate
+- मघवा (*maghavā*)—you, the wealthy one
+- सोम्या (*somyā*)—filled with Soma
+- त्री सरांसि (*trī sarāṃsi*)—three Droṇakalaśa vessels
+- अपाः (*apāḥ*)—you drank
+- यत् (*yat*)—when
+- अहिं (*ahiṃ*)—Vṛtra
+- जघान (*jaghāna*)—Indra slew
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- भरं (*bharaṃ*)—full (through drinking Soma)
+- इंद्राय (*iṃdrāya*)—Indra
+- कारं न (*kāraṃ na*)—as masters call a servant
+- अह्वंत (*ahvaṃta*)—called for battle
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you ate the flesh of three hundred animals in the form of buffaloes, when you, the wealthy one, drank all the Soma that filled the three Droṇakalaśa vessels, and when you, Indra, slew Vṛtra, then all the gods summoned Indra, who was filled by the drinking of Soma, for battle, as masters call a servant.
+
+##### English translation
+When you have eaten the flesh of the three hundred buffaloes, when you who are Maghavan have drunk the three vessels of Soma, and had slain Ahi. then all the gods summoned Indra, full of food, as if he had been a servant, to the battle.
+
+### Printed p. 169
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शना॒ यत्स॑ह॒स्यै॒३॒॑रिरया॑तं गृ॒हमिं॑द्र जूजुवा॒नेभि॒रश्वैः॑ ।  
+> व॒न्वा॒नो अत्र॑ स॒रथं॑ ययाथ॒ कुत्से॑न दे॒वैरव॑नोर्ह॒  ॑
+> शुष्णं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशना । यत् । सहस्यैः । अयातं । गृहं । इंद्र । जूजुवानेभिः । अश्वैः ।  
+> वन्वानः । अत्र । सरथं ययाथ । कुत्सेन । देवैः । अवनोः । ह । शुष्णं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशनसः स्तोम उशना यत्सहस्यैरिति मरुत्वतीये सूक्तमुखीया ।
+> सूत्रितं च । उशनसः स्तोमेन गरगीर्णमिवात्मानं मन्यमानो यजेतोशना
+> यत्सहस्यैरयातं । आ. ९-५ । इति ॥
+> यद्यदा हे इंद्र त्वमुशना काव्यश्च सहस्यैरभिभवनशीलैर्जूजुवानेभिर्जूजुवानैर्गच्छद्भिरश्वैः कुत्सस्य गृहमयातं अगच्छतं तदा हे इंद्र त्वमत्रास्मिन्काले वन्वानः शत्रून् हिंसन् कुत्सेन देवैश्च सह सरथं समानमेकं रथं
+> ययाथ । जगंथ । किंच शुष्कमेतन्नामकमसुरमवनोर्ह । अहिंसीः खलु ॥
+
+##### Gist of the bhāṣya
+
+The Ṛk उशना यत्सहस्यै (*uśanā yatsahasyai*) belongs to the Stoma of Uśanas, and in the Marutvatīya rite it is the opening verse of the sūkta. The sūtra says: उशनसः स्तोमेन गरगीर्णमिवात्मानं मन्यमानो यजेतोशना यत्सहस्यैरयातं । (*uśanasaḥ stomena garagīrṇamivātmānaṃ manyamāno yajetośanā yatsahasyairayātaṃ |*) (Ā. Sū. 9-5): one who thinks of himself as if he had swallowed poison should sacrifice with the Stoma of Uśanas. Sāyaṇa explains: when you, O Indra, and Uśanā Kāvya went to the house of Kutsa with swift horses that overcome their foes, then, O Indra, at that time you went, slaying your enemies, in one and the same chariot with Kutsa and the gods; and you also slew the Asura named Śuṣka **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- उशना (*uśanā*)—and Uśanas (together)
+- सहस्यैः (*sahasyaiḥ*)—that have the power to resist enemies
+- जूजुवानेभिः (*jūjuvānebhiḥ*)—that are swift
+- अश्वैः (*aśvaiḥ*)—with horses
+- गृहं (*gṛhaṃ*)—to the house (of Kutsa)
+- आयातं (*āyātaṃ*)—you went
+- अत्र (*atra*)—at that time
+- वन्वानः (*vanvānaḥ*)—as destroyers of enemies
+- कुत्सेन (*kutsena*)—with Kutsa
+- देवैः (*devaiḥ*)—and with the other gods
+- सरथं (*sarathaṃ*)—seated in one chariot
+- ययाथ (*yayātha*)—you went
+- शुष्णं (*śuṣṇaṃ*)—the Asura named Śuṣṇa
+- अवनोर्ह (*avanorha*)—you also harmed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you and Uśanas, joining together, went to the house of Kutsa with horses that have the power to resist enemies and are swift, you went, destroying your enemies, seated in one chariot with Kutsa and the other gods. And you also harmed the Asura named Śuṣṇa.
+
 ---
 
-**Progress note:** Done through printed p. 163. Sūkta 28 Ṛk 6 and Sūkta 29 Ṛks 1-4 (pp. 157-163)
+**Progress note:** Done through printed p. 169. Sūkta 29 Ṛks 5-9 (pp. 164-169)
