@@ -61,6 +61,21 @@
 | Uṇ. Sū. | ಉಣ್. ಸೂ. | Uṇādi-sūtra (the legend has U. Sū.) |
 | A. Ve. | ಅ. ವೇ. | Atharvaveda (the legend has Ath. Saṃ.) |
 | Tai. Saṃ. Bhā. | ತೈ. ಸಂ. ಭಾ. | Sāyaṇa's bhāṣya on the Taittirīya Saṃhitā |
+| Kau. U. | ಕೌ. ಉ. | Kauṣītaki Upaniṣad |
+| Kau. Brā. | ಕೌ. ಬ್ರಾ. | Kauṣītaki Brāhmaṇa |
+| Ka. U. | ಕ. ಉ. | Kaṭha Upaniṣad |
+| Pa. Brā. | ಪ. ಬ್ರಾ. | Pañcaviṃśa Brāhmaṇa |
+| Mā. Gṛ. Sū. | ಮಾ. ಗೃ. ಸೂ. | Mānava Gṛhyasūtra |
+| Ya Saṃ. | ಯ. ಸಂ. | Yajurveda-saṃhitā |
+| Ṛ. Saṃ. Bhā. | ಋ. ಸಂ. ಭಾ. | Ṛgveda-saṃhitā bhāṣya |
+| Tai. Saṃ. Bha. Bhā. | ತೈ. ಸಂ. ಭ. ಭಾ. | Bhaṭṭabhāskara's bhāṣya on the Taittirīya Saṃhitā |
+| Śā. Bhā. | ಶಾ. ಭಾ. | Śaṅkara-bhāṣya |
+| Śa. Bhā. | ಶ. ಭಾ. | Śaṅkara-bhāṣya |
+| Ai. U. Śa. Bhā. | ಐ. ಉ. ಶ. ಭಾ. | Śaṅkara-bhāṣya on the Aitareya Upaniṣad |
+| Tai. U. Śa. Bhā. | ತೈ. ಉ. ಶ. ಭಾ. | Śaṅkara-bhāṣya on the Taittirīya Upaniṣad |
+| Śa. Bhā. Bra. Sū. | ಶ. ಭಾ. ಬ್ರ. ಸೂ. | Śaṅkara-bhāṣya on the Brahma-sūtra |
+| Īśa U. | ಈ. ಉ. | Īśa Upaniṣad |
+| Ke. U. | ಕೇ. ಉ. | Kena Upaniṣad |
 
 ## 3. Known and suspected mistakes (of the machine reading, the print, or the translation)
 
