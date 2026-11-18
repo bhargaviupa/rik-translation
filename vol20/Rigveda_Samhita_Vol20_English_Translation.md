@@ -4857,6 +4857,284 @@ Whether you come at the (milking time) of the cattle, at the dawn of day, at noo
 
 O Aśvins, this is your ancient dwelling from of old, a place fit for residence, called the northern altar. Then, with the Saumika altar in view, he says: "These houses, the eastern halls, …" (the sentence continues in the next window).
 
+### Printed p. 129
+
+> दयः । इदं दुरोणं देवयजनगृहं । नोऽस्मदर्थ० दिवो द्युलोकाद्बृहतः
+> पर्वतात् पर्ववतो मेघादद्भ्योऽपां कारणादंतरिक्षादा यातं । आगच्छतं । किं
+> तूष्णीं । न । इषमूर्जं चान्नं बलं च । बलसाधनमन्नं सारभूतमित्यर्थः ।
+> तादृशं वहंता वहंत् ॥
+
+##### Gist of the bhāṣya
+
+"These houses, the eastern halls and the rest": this is the house of divine sacrifice, the dwelling. For us, from the sky, from the great mountain, that is, from the cloud, the cause of waters, from the atmosphere: come, that is, arrive. **NOTE** Bringing food and strength: strength means the power, and food is the means of power, the essential thing; bearing such a thing, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इदं हि (*idaṃ hi*)—this very region
+- नां (*nāṃ*)—to you
+- प्रदिवि (*pradivi*)—ancient
+- ओकः (*okaḥ*)—fit for residence
+- स्थानं (*sthānaṃ*)—is the place
+- इमे (*ime*)—these
+- गृहाः (*gṛhāḥ*)—are the houses
+- इदं (*idaṃ*)—this
+- दुरोणं (*duroṇaṃ*)—is the place of sacrifice
+- बृहतः (*bṛhataḥ*)—great
+- अद्भ्यः (*adbhyaḥ*)—filled with water
+- पर्वतात् (*parvatāt*)—covered with clouds
+- दिवः (*divaḥ*)—from the heavenly world
+- नः (*naḥ*)—for us
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—and strength
+- वहंता (*vahaṃtā*)—bearing
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, this very region is for you an ancient place fit for residence. These are your houses, this is your place of sacrifice. From the great heavenly world, filled with water and covered with clouds, come for us, bearing food and strength.
+
+##### English translation
+This station, Aswins, is your ancient abode; these are your mansions, this your dwelling: come from the vast firmament, (overspread) by clouds (filled) with water, bringing to us food and strength.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॒श्विनो॒रव॑सा॒ नूत॑नेन मयो॒भुवा॑ सु॒प्रणी॑ती गमेम ।  
+> आ नो॑ र॒यिं व॑हत॒मोत वी॒राना विश्वा॑न्यमृता॒ सौभ॑गानि ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं ! अश्विनोः । अवसा । नूतनेन । मयःभुवा । सुप्रनीती । गमेम ।  
+> आ । नः । रयिं । वहतं । आ । उत । वीरान् । आ । विश्वानि । अमृता । सौभगानि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 130
+
+> वयं सं गमेम संगच्छेमाश्विनोर्नूतनेनावसानन्यकृतेन रक्षणेन
+> मयोभुवा सुखस्य भावयित्र्या सुप्रणीती सुप्रणीत्या सुष्टागमनेन च । अपि
+> वैते उभे अवसो विशेषणे । उक्तलक्षणेन सं गमेम । नोऽस्मभ्यं रयिमा
+> वहतं । उत वीरान् पुत्रादीना वहतं । हे अमृतामरणधर्माणौ विश्वानि सौभगानि
+> सुभगत्वान्या वहतं ॥
+
+##### Gist of the bhāṣya
+
+May we be united with the new protection of the Aśvins, not made by another, which is the producer of happiness, and with their good guidance, that is, their good coming; or else both are qualifiers of the protection. Bring wealth to us, and bring heroes too, sons and the rest. O immortals, you whose nature is not to die, bring all good fortunes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- नूतनेन (*nūtanena*)—new
+- मयोभुवा (*mayobhuvā*)—which brings happiness
+- सुप्रणीता (*supraṇītā*)—which is excellent and a guide
+- अवसा (*avasā*)—with protection
+- सं गमेम (*saṃ gamema*)—may we be united
+- अमृता (*amṛtā*)—O Aśvins, free from the nature of death
+- नः (*naḥ*)—to us
+- विश्वानि (*viśvāni*)—all
+- सौभगानि (*saubhagāni*)—things that bring good fortune
+- आ वहतं (*ā vahataṃ*)—bring
+- रयिं (*rayiṃ*)—wealth; provide it
+- उत (*uta*)—and
+- वीरान् (*vīrān*)—heroic sons and the rest; favour us with them
+
+##### भावार्थ (Bhāvārtha)
+
+May we be united with the new protection of the Aśvin deities, which brings happiness and is an excellent guide. O Aśvins, free from the nature of death, bring about for us all good fortunes. Provide wealth. Favour us with heroic sons and the rest.
+
+##### English translation
+May we be united with the Aswins by their special protection, which is the source of happiness and guide to good: bestow upon us, immortals, wealth and posterity. and all good things.
+
+## Sūkta 77 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातर्यावाणेति पंचर्चं पंचमं सूक्तमात्रेयं त्रैष्टुभमाश्विनं ।
+> प्रातर्यावाणेति ह्यनुक्रांतं॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो
+> विनियोगः ॥ अप्पोर्यामे मैत्रावरुणातिरिक्तोक्ष्य इदमेव शस्यं । तथा च
+> सूत्रितं । प्रातर्यावाणा क्षेत्रस्य पते मधुमंतमूर्मिं । आ. ९-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning प्रातर्यावाणा (*prātaryāvāṇā*), has five Ṛks and is the fifth sūkta; it is Ātreya, in Triṣṭubh metre, addressed to the Aśvins. The Anukramaṇikā has it as listed under प्रातर्यावाणेति (*prātaryāvāṇeti*). Its use, together with the previous sūkta, in the morning recitation and the Aśvina-śastra has already been stated. In the Aporyāma, at the atiriktokthya of the Maitrāvaruṇa, this alone is the recited piece; and so it is prescribed by the sūtra प्रातर्यावाणा क्षेत्रस्य पते मधुमंतमूर्मिं (*prātaryāvāṇā kṣetrasya pate madhumaṃtamūrmiṃ*) (Ā. 9-11).
+
+### Printed p. 131
+
+##### Anuvāda
+
+This sūkta, beginning प्रातर्यावाणा (*prātaryāvāṇā*), is the fifth sūkta in the sixth anuvāka. It contains five Ṛks. The seer of this sūkta, who saw it in the maṇḍala, is Atri; the deity is the Aśvin deities; the metre is Triṣṭubh. In the Anukramaṇikā it is said, beginning with प्रातर्यावाणा (*prātaryāvāṇā*). The use of this sūkta for the Prātaranuvāka and for the recitation of the mantras of the Aśvina-śastra has been stated in the use of the preceding sūkta. For the mantras called atiriktokthya, which the priest called Maitrāvaruṇa recites in the sacrifice called Aptoryāma, this sūkta has a use; this is explained by the sūtra प्रातर्यावाणा क्षेत्रस्य पते मधुमंतमूर्मिं (*prātaryāvāṇā kṣetrasya pate madhumaṃtamūrmiṃ*) (Ā. 9-11) of the Āśvalāyana Śrauta Sūtra.
+
+##### Particulars of the sūkta
+
+- Sūkta 77
+- Maṇḍala 5; Anuvāka 6; Sūkta 77
+- Aṣṭaka 4; Adhyāya 4; Varga 18
+- Number of Ṛks in the sūkta: 5
+- Seer: आत्रिः (*ātriḥ*)
+- Deity: अश्विनौ (*aśvinau*)
+- Metre: त्रिष्टप् (*triṣṭap*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रातर्यावाणा प्रथमा यजध्वंपुरा गृध्रादररुषः पिबातः।  
+> प्रातर्हि यज्ञमश्विना दधाते प्र शंसंति कवयः पूर्वभाजः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातःयावाना । प्रथमा । यजध्वं । पुरा । गृध्रात् । अररुषः । पिबातः ।  
+> प्रातः । हि । यज्ञं । अश्विना । दधाते इति । प्र । शंसंति । कवयः । पूर्वभाजः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीया ऋत्विजः प्रातर्यावाणा प्रातरेव यज्ञगंतार् प्रथमात
+> एवेतरेभ्यो देवेभ्यः पूर्वभाविनौ प्रकृष्टतमौ वाश्विनौ यजध्वं । किमर्थं ।
+> प्रथमयाग नियोग उच्यते । गृध्रादभिकांक्षतोऽररुषोऽदातु रक्षःप्रभृतेः
+> पुरा पूर्वं पिबातः । पिबतां । अनागतौ कथं यष्टुं शक्यावित्यत आह । अश्विनाश्विनौ
+
+##### Gist of the bhāṣya
+
+O my priests, worship the two Aśvins who come at dawn, who are first, that is, earlier than the other gods, or the most excellent. For what purpose? The command to sacrifice to them first is stated: let them drink before the greedy one who desires, the non-giver, the demon and the like. If they have not yet come, how can they be worshipped? Therefore he says: the Aśvins
+
+### Printed p. 132
+
+> प्रातर्हि यज्ञं दधाते । धारयतः । संभजतः । पूर्वभाजः पूर्वकालीनाः
+> कवयोऽनूचाना ऋषयः प्रातरेवैत् प्र शंसंति । ये वा अनूचानास्ते कवयः ।
+> ऐ. ब्रा. २-३८ । इति हि निगमः ॥
+
+##### Gist of the bhāṣya
+
+at dawn indeed bear the sacrifice, that is, they share in it. The former seers, the sharers of old, the poets, that is, the ṛṣis who are anūcāna, praise them at dawn alone. He cites ये वा अनूचानास्ते कवयः (*ye vā anūcānāste kavayaḥ*) (Ai. Brā. 2-38)**GLOSS** as the Vedic passage.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमा (*prathamā*)—earlier than the other gods
+- प्रार्यावाणा (*prāryāvāṇā*)—addressing the Aśvin deities who come at dawn
+- यजध्वं (*yajadhvaṃ*)—perform the sacrifice
+- गृध्रात् (*gṛdhrāt*)—than the greedy
+- अररुषः (*araruṣaḥ*)—and obstructing demon
+- पुरा (*purā*)—before
+- पिबातः (*pibātaḥ*)—let them drink the Soma
+- अश्विना (*aśvinā*)—the Aśvin deities
+- प्रातर्हि (*prātarhi*)—at dawn indeed
+- यज्ञं (*yajñaṃ*)—the share of the sacrifice
+- दधाते (*dadhāte*)—they bear
+- पूर्वभाजः (*pūrvabhājaḥ*)—belonging to former times
+- कवयः (*kavayaḥ*)—the sages also
+- प्र शंसंति (*pra śaṃsaṃti*)—praise them at dawn alone
+
+##### भावार्थ (Bhāvārtha)
+
+Perform the sacrifice addressing the Aśvin deities, who come at dawn, earlier than the other gods. Let them drink the Soma before the greedy, obstructing demon. The Aśvin deities bear the share of the sacrifice at dawn alone. The sages of former times also praise them at dawn alone.
+
+##### English translation
+Worship the two who come first (of the gods) at dawn : let them drink before the greedy withholders (of the offering); for the Aswins verily claim the morning sacrifice: the ancient sages praised them (at dawn).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रातर्यजध्वमश्विना हिनोतन सायमस्ति देवया अजुष्टं।  
+> उतान्यो अस्मद्यजते वि चावः पूर्वःपूर्वो यजमानो  
+> वनीयान् ॥ २ ॥
+
+### Printed p. 133
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातः । यजध्वं । अश्विना । हिनोत । न । सायं । अस्ति । देवयाः । अजुष्टं ।  
+> उत । अन्यः । अस्मत् । यजते । वि । च । अवः । पूर्वःपूर्वः । यजमानः । वनीयान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीयाः पुरुषा अश्विनाश्विन् प्रातः प्रातरेव यजध्वं । पूजयध्वं ।
+> स्तुध्वं । हिनोत । प्रहिणुत हवींषि । सायं सायंकाले हविर्देवया देवगामि
+> नास्ति । न विद्यते । देवा न स्वीकुर्वंतीत्यर्थः । अजुष्टमसेव्यं तद्भवति । पूर्वाणो
+> वै देवानामिति हि श्रुतिः । उतास्मदस्मत्तोऽन्यः कोऽपि यजते यजेत सोमेन वि
+> चावः वितर्पयेच्च हविषा । अतोऽस्मास्वन्येषु च मध्यॆ पूर्वः पूर्वो
+> यजमानो यः पूर्वः पूर्वो यष्टा भवति स वनीयान् देवानां संभजनीयः
+> संभाव्यो भवति ॥
+
+##### Gist of the bhāṣya
+
+O my men, worship the Aśvins at dawn alone; that is, honour and praise them. Send them oblations. In the evening, the oblation does not go to the gods, it is not; that is, the gods do not accept it. It is unfit to be served. The śruti says पूर्वाणो वै देवानामिति (*pūrvāṇo vai devānāmiti*)**GLOSS**. Moreover, if anyone other than ourselves sacrifices with Soma and satisfies with the oblation, then among us and the others the sacrificer who is earlier and earlier is the most to be honoured, the one whom the gods hold in regard.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—addressing the Aśvin deities
+- प्रातः (*prātaḥ*)—at dawn alone
+- यजध्वं (*yajadhvaṃ*)—offering worship
+- हिनोत (*hinota*)—offer oblations as well
+- सायं (*sāyaṃ*)—the oblation offered in the evening
+- देवयाः (*devayāḥ*)—pleasing to the gods
+- न अस्ति (*na asti*)—is not
+- अजुष्टं (*ajuṣṭaṃ*)—the oblation offered at that time is not fit to be enjoyed
+- उत (*uta*)—moreover
+- अस्मत् (*asmat*)—than ourselves
+- अन्यः (*anyaḥ*)—another man
+- यजते (*yajate*)—even if he worships
+- वि चावः (*vi cāvaḥ*)—or offers an oblation (whether among us or among others)
+- पूर्वः पूर्वः (*pūrvaḥ pūrvaḥ*)—who offers before all
+- यजमानः (*yajamānaḥ*)—the sacrificer
+- वनीयान् (*vanīyān*)—is dear to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing the Aśvin deities, offer at dawn alone a praise worthy of worship, and an oblation. An oblation offered in the evening is not pleasing to the gods; an oblation offered at that time is not fit to be enjoyed. Moreover, even if another than ourselves worships, or offers an oblation, whether among us or among others, the sacrificer who offers before all becomes worthy of the love of these gods.
+
+##### English translation
+Worship the Aswins at early dawn; offer them oblations: the evening is not for the gods; it is unacceptable to them; and whether it be
+
+### Printed p. 134
+
+any other than ourselves who worships them or propitiates them, the worshipper who is foremost (in his dovotion) is the most approved of.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिरण्यत्वज् मधुवर्णो घृतस्नुः पृक्षो वहन्ना रथोवर्तते  
+> नां ।  
+> मनोजवा अश्विना वातरंहा येनातियाथो दुरितानि विश्वा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यत्वक् । मधुवर्णः । धृतस्नुः । पक्षः । वहन् । आ । रथः । वर्तते । नां ।  
+> मनःजवाः । अश्विना । वातरंहाः । येन । अति याथः । दुःइतानि । विश्वा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यत्वगित्येषाश्विने पश् हविषो याज्या । हिरण्यत्वङ्मधुवर्णो धृतस्सुरभि
+> क्रत्वेंद्र भूरथ ज्मन् । आ. ३-८ । इति हि सूत्रितं ॥
+> वां युवयो रथः प्रक्षोऽन्नममृतं वहन्ना वर्तते । अस्मदभिमुखमागच्छति, केदृशो रथः । हिरण्यत्पक् हिरण्याच्छादितरूपो हिरण्यावृतो मधुवर्णो
+> मनोहरवर्णो घृतस्सुरुदकस्य प्रसन्नवो मनोजवा मनोवेगो नातरंहा
+> वातसदृशवेगः । हे अश्विना येन रथेन विश्वा सर्वाणि दुरितानि दुर्गमनान्मार्गानतियाधः अतिक्रम्य गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+This verse, "hiraṇyatvak", is the yājyā of the Aśvina offering **NOTE**; so it is prescribed in the sūtra beginning हिरण्यत्वङ्मधुवर्णो (*hiraṇyatvaṅmadhuvarṇo*) (Ā. 3-8). Your chariot, bearing food, the nectar, comes toward us. What kind of chariot? हिरण्यत्वक् (*hiraṇyatvak*): covered with gold, enveloped in gold; of charming colour; streaming with water **NOTE**; as swift as the mind; swift as the wind. O Aśvins, with which chariot you pass over all difficult roads, going beyond them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- येन (*yena*)—by which chariot
+- विश्वा (*viśvā*)—all
+- दुरितानि (*duritāni*)—even the roads that others cannot cross
+- अतियाधः (*atiyādhaḥ*)—you go beyond them; such a chariot
+- हिरण्यत्वक् (*hiraṇyatvak*)—which has a golden covering**NOTE**
+- मधुवर्णः (*madhuvarṇaḥ*)—which has a charming form
+- धृतस्नुः (*dhṛtasnuḥ*)—which streams water
+- मनोजवाः (*manojavāḥ*)—which has the speed of the mind
+- नातरंहाः (*nātaraṃhāḥ*)—which is swift like the wind
+- वां रथः (*vāṃ rathaḥ*)—your chariot
+- पक्षृ (*pakṣṛ*)—food
+- वहन् (*vahan*)—bearing
+- आ वर्तते (*ā vartate*)—comes toward us
+
 ---
 
-**Progress note:** Done through printed p. 128. Ṛk 9 end, Sūkta 76 Ṛks 1-4
+**Progress note:** Done through printed p. 134. Ṛk 4 end, Ṛk 5, Sūkta 77 Ṛks 1-3 (Pratipadārtha)
