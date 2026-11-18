@@ -15040,6 +15040,216 @@ The enjoyment of the sacrifice stated in such sentences is what is indicated in 
 
 The layer of the second storey itself appeared in the form of the middle region. "I shall ascend there," said Vāyu. Then he joined the bricks of the layer. Then they were not separated from the middle regions. Then
 
+### Printed p. 403
+
+Vāyu too came to have a permanent connection with the middle region, which is of the form of a brick, and so on; thus it is stated that his standing in the middle region itself produced his fitness for the sacrifice. While describing the nature of Vāyu at the time of the brahmodya it is said,
+
+वायुर्गृहपतिरिति हैक आहुः सोंतरिक्षलोकस्य गृहपतिः । (*vāyurgṛhapatiriti haika āhuḥ soṃtarikṣalokasya gṛhapatiḥ |*)
+
+and so on; thus it is stated that the lordship of the household fire (gārhapatya) of the middle world is the office of Vāyu. Although in this way the topic पृषद्योनिः (*pṛṣadyoniḥ*) points out the place of Vāyu, saying that the middle region itself is the womb (the place) of Vāyu, yet in some passages it is clearly stated that heaven and earth, both of them, are the causes of Vāyu's origin. For example:
+
+राये नु यं यज्ञ तू रोदसीमे राये देवी धिषणा धाति देवं ॥ (*rāye nu yaṃ yajña tū rodasīme rāye devī dhiṣaṇā dhāti devaṃ ‖*)
+(Saṃ. Saṃ. 7-90-2)**NOTE**
+
+In sentences of this kind, heaven and earth are said to have caused Vāyu to be born, and so the quality of being the womb of Vāyu is a common feature of the two worlds. The sentences प्राणाद्वायुरजायत (*prāṇādvāyurajāyata*) (Ṛ. Saṃ. 10-90-13), "from the breath of the Supreme Person the birth of Vāyu took place", are sentences that point to the quality of being a "five-fold priest" in Vāyu, which is indicated by the word पंचहोता (*paṃcahotā*), the second epithet in the present mantra. The connection that the five breaths, indicated by the word pañcahotṛ, have with Vāyu, and Vāyu's lordship over the middle region, are stated together in one and the same context in the Śatapatha Brāhmaṇa as follows.
+
+स यः स वैश्वानरः । अंतरिक्षमेव विश्वं । वायुर्नरः ॥ (*sa yaḥ sa vaiśvānaraḥ | aṃtarikṣameva viśvaṃ | vāyurnaraḥ ‖*)
+(Śa. Brā. 9-3-1.3)
+
+The middle region itself is the universe (viśva). Since Vāyu is the lord of the middle region, he too has the repute of being Vaiśvānara. Moreover, if the influence of Vāyu is to be described further,
+
+इदमेवांतरिक्षं । तस्मादेतदलोमकमलोमकमिव ह्यंतरिक्षं तदेतद्विश्वं प्राण एव वायुः स नरः स मध्येनास्य भवति मध्यॆ न ह्यंतरिक्षस्य वायुः ॥ (*idamevāṃtarikṣaṃ | tasmādetadalomakamalomakamiva hyaṃtarikṣaṃ tadetadviśvaṃ prāṇa eva vāyuḥ sa naraḥ sa madhyenāsya bhavati madhyè na hyaṃtarikṣasya vāyuḥ ‖*)
+(Ka. Brā. 9-3-15)**NOTE**
+
+This middle part of the Universal Person is the middle region itself. It is without hair. For this part of the Universal Self, Vāyu is the form of breath; he is the Man (nara). This Vāyu is the lord of the middle world. Sentences such as these declare the nature and the authority of Vāyu.
+
+### Printed p. 404
+
+अथ विश्वज्योतिषमुपदधाति । वायुर्वै मध्यमा विश्वज्योतिर्वायुर्ह्येवांतरिक्षलोके विश्वं ज्योतिर्वायुमेवैतदुपदधाति तामनंतर्हितां दिश्याभ्य उपदधाति दिक्षु तद्वायुं दधाति तस्मात्सर्वासु दिक्षु वायुः ॥ (*atha viśvajyotiṣamupadadhāti | vāyurvai madhyamā viśvajyotirvāyurhyevāṃtarikṣaloke viśvaṃ jyotirvāyumevaitadupadadhāti tāmanaṃtarhitāṃ diśyābhya upadadhāti dikṣu tadvāyuṃ dadhāti tasmātsarvāsu dikṣu vāyuḥ ‖*)
+(Śa. Brā. 8-3-2-1)
+
+When the bricks named Viśvajyotis are laid, there is this praise of Vāyu. The Viśvajyotis of the middle part is Vāyu. Vāyu is the light that illumines the world. Since it reflects all the directions and the intermediate directions, it is an all-pervading form of radiance. It also has the power of producing universal vitality. For this Vāyu, who is of the form of the universal light, the middle region is merely the place of origin; the existence of this Vāyu is all-pervading.
+
+वायुर्वाव धर्त्तं चतुष्टोमः स आभिश्चतसृभिर्दिग्भिः स्तुते तद्यत्तमाह धर्त्तमिति प्रतिष्ठा नै धर्त्तं वायुरु सर्वेषां भूतानां प्रतिष्ठा तदेव तद्रूपमुपदधाति स वै वायुमेव प्रथममुपदधाति वायुमुत्तमं वायुनैव तदेतानि सर्वाणि भूतान्युभयतः परिगृह्णाति ॥ (*vāyurvāva dharttaṃ catuṣṭomaḥ sa ābhiścatasṛbhirdigbhiḥ stute tadyattamāha dharttamiti pratiṣṭhā nai dharttaṃ vāyuru sarveṣāṃ bhūtānāṃ pratiṣṭhā tadeva tadrūpamupadadhāti sa vai vāyumeva prathamamupadadhāti vāyumuttamaṃ vāyunaiva tadetāni sarvāṇi bhūtānyubhayataḥ parigṛhṇāti ‖*)
+(Śa. Brā. 8-4-1-26)
+
+Thus is the praise of Vāyu by the hymn that is a part of the Catuṣṭoma. If the Catuṣṭoma is the supporter of all sacrifices, then Vāyu is this Catuṣṭoma. Therefore Vāyu is the supporter of all sacrifices. Because he keeps bestowing, from all directions, the gift in the form of praise, Vāyu is the supporter of the sacrifice from every direction. Moreover he is the foundation of all beings and their support as well. In this way the importance of Vāyu in the sacrifice is praised.
+
+Pañcahotā:
+
+In the present mantra, one must examine what personal quality is praised by the epithet पंचहोता (*paṃcahotā*), "the accomplisher of the offering in the form of the five breaths". Because he gives vitality to all living beings, Vāyu is praised in many places as the lord of the breath. He is the support, the shelter and the prop even of the primal deities Agni, Āditya and Soma, who give vitality to all beings. He is of the form of the breath of the universe. How is that? Thus:
+
+वायुर्वाव संवर्गो यदा वा अग्निरुद्वायति वायुमेवाप्येति यदा सूर्योऽस्तमेति वायुमेवाप्येति यदा चंद्रोऽस्तमेति वायुमेवाप्येति ॥ (*vāyurvāva saṃvargo yadā vā agnirudvāyati vāyumevāpyeti yadā sūryo 'stameti vāyumevāpyeti yadā caṃdro 'stameti vāyumevāpyeti ‖*)
+(Kṛ. 70. 2-5.)**NOTE**
+
+### Printed p. 405
+
+In the world Vāyu takes into his own power all things. When fire blazes up and becomes quiet, and after the sun has set, and after the moon has set, they join Vāyu alone and become one with him there.
+
+शौ वा ऐश् द्वै संवर्गौ वायुरेव देवेषु प्राणः प्राणेषु ॥ (*śau vā aiś dvai saṃvargau vāyureva deveṣu prāṇaḥ prāṇeṣu ‖*)
+(Cha. 32, 3-5-4)**NOTE**
+
+Among the "gatherers" of the world (those that take everything into themselves) there are chiefly only two that draw the breath: among the gods, Vāyu, and among the fivefold breaths, the breath. Vāyu and the breaths are not different principles.
+
+वायुः प्राणो भूत्वा नासिके प्राविशत् । (*vāyuḥ prāṇo bhūtvā nāsike prāviśat |*)
+(Ka. 3. 2. 4)**NOTE**
+
+Thus it is described: Vāyu, becoming breath, entered the nostrils. The following sentences explain that the five breaths too are the five-fold transformations of Vāyu. Moreover, they state the connection that the offering in the form of breath has with Vāyu.
+
+तस्य व्युष्टिवाहनोऽश्वरथो दक्षिणा । त्रयोऽश्वा द्वौ सव्यष्टसारथी ते पंचप्राणा यो वै प्राणः स वातस्तद्यते तस्य कर्मण एषा दक्षिणा तस्मात्पंचवातीयं नाम ॥ (*tasya vyuṣṭivāhano 'śvaratho dakṣiṇā | trayo 'śvā dvau savyaṣṭasārathī te paṃcaprāṇā yo vai prāṇaḥ sa vātastadyate tasya karmaṇa eṣā dakṣiṇā tasmātpaṃcavātīyaṃ nāma ‖*)
+(6. 75. 7-7-6-7)
+
+This is the explanation of the offering of oblations named Pañcavātīya. Here, what are the five oblations? They are three horses, a warrior, and a charioteer. The five breaths are these three horses, the warrior and the charioteer. These five breaths are the fivefold transformations of Vāyu. Therefore, since he is the accomplisher of the sacrifice by the oblations that are his own five forms, a kind of five-fold priesthood is established through this Pañcavātīya quality. Besides this, the five-fold priesthood has a spiritual meaning as well. The explanation below contains both purports, the one concerning the deities and the one concerning the self, and it also makes clear the five-fold priesthood of Vāyu.
+
+प्राणो वै वायुः । प्राणोग्निस्तस्येमा इष्टका । यः प्राणो व्यानोऽपानः समान उदानः ॥ (*prāṇo vai vāyuḥ | prāṇognistasyemā iṣṭakā | yaḥ prāṇo vyāno 'pānaḥ samāna udānaḥ ‖*)
+(Maitryupaniṣad 6-33)
+
+From one point of view the Gārhapatya fire is in the form of the year, which consists of the five seasons. From another point of view this same Gārhapatya is in the form of Vāyu, which consists of the five breaths. Prāṇa, apāna, vyāna,
+
+### Printed p. 406
+
+udāna and samāna, the five breaths so named, are the bricks of this Vāyu in the form of the Gārhapatya. It is described that Vāyu, the accomplisher of this offering in the form of the five breaths, has the five-fold priesthood.
+
+Besides this, how Vāyu, comprising these five breaths, is the accomplisher of the offering in the sacrifice that consists of the realisation of the Self is thus: the description of this offering of a spiritual nature is as follows.
+
+तस्य ह ना एतस्य हृदयस्य पंच देवसुषयः स योऽस्य प्राज्‌सुषि स प्राणस्तच्चक्षुः स आदित्यस्तदेतत्तेजोऽन्नाद्यमित्युपासीत तेजस्व्यन्नादो भवति य एवं वेद ॥ (*tasya ha nā etasya hṛdayasya paṃca devasuṣayaḥ sa yo 'sya prājsuṣi sa prāṇastaccakṣuḥ sa ādityastadetattejo 'nnādyamityupāsīta tejasvyannādo bhavati ya evaṃ veda ‖*)
+(Chā. U. 3-13-1)
+
+In the heart of a person there are five paths to the sacrifice that is the realisation of Brahman. Among these, the door of the eastern direction is the breath. That is the eye, and that is the sun. One should meditate upon that radiance as food. One who knows this truth becomes radiant and an eater of food.
+
+अथ योऽस्य दक्षिणः सुषिः । स व्यानस्तच्छोत्रं स चंद्रमास्तदेतच्छिश्च यशश्चेत्युपासीत श्रीमान् यशस्वी भवति य एवं वेद ॥ (*atha yo 'sya dakṣiṇaḥ suṣiḥ | sa vyānastacchotraṃ sa caṃdramāstadetacchiśca yaśaścetyupāsīta śrīmān yaśasvī bhavati ya evaṃ veda ‖*)
+(Bhā. U. 3-13-2)**NOTE**
+
+The path of the southern direction is vyāna. That is the ear and the moon. The worshipper should meditate upon it as fame and as wealth. One who knows this truth becomes wealthy and famous.
+
+अथ योऽस्य प्रत्यज् सुषि: सोऽपानः सा वाक् सोऽग्निस्तदेतद्ब्रह्मवर्चसमन्नाद्य मित्युपासीत ब्रह्मवर्चस्यन्नादो भवति य एवं वेद । (*atha yo 'sya pratyaj suṣi: so 'pānaḥ sā vāk so 'gnistadetadbrahmavarcasamannādya mityupāsīta brahmavarcasyannādo bhavati ya evaṃ veda |*)
+(Bhā. U. 3-13-3)**NOTE**
+
+The path of the western direction is apāna. That is speech and fire. The worshipper should meditate upon it as the knowledge of Brahman, which is the cause of the brilliance of Brahman, and as food. One who knows this truth becomes possessed of the brilliance of Brahman and an eater of food.
+
+अथ सोऽस्योदज्‌सुषिः स समानस्तन्मनः स पर्जन्यस्तदेतत्कीर्तिश्च व्युष्टिश्चेत्युपासीत कीर्तिमान्व्युमान्भवति य एवं वेद ॥ (*atha so 'syodajsuṣiḥ sa samānastanmanaḥ sa parjanyastadetatkīrtiśca vyuṣṭiścetyupāsīta kīrtimānvyumānbhavati ya evaṃ veda ‖*)
+(Bhā. U. 3-13-2)**NOTE**
+
+Samāna is the path of the northern direction. That is the mind-principle and is of the nature of Parjanya. That is fame and beauty. One who knows this truth becomes famous and powerful.
+
+### Printed p. 407
+
+अथ योऽस्योर्ध्वः सुषिः स उदानः स वायुः स आकाशस्तदेतदोजश्च महश्चेत्युपासीतौजस्वी महस्वान्भवति य एवं वेद ॥ (*atha yo 'syordhvaḥ suṣiḥ sa udānaḥ sa vāyuḥ sa ākāśastadetadojaśca mahaścetyupāsītaujasvī mahasvānbhavati ya evaṃ veda ‖*)
+(Chā. U. 3-13-5)
+
+Udāna is the door of the upper part. That is Vāyu and that is space. The worshipper should meditate upon it as vigour and as strength. One who knows this becomes vigorous and strong.
+
+ते वा एते पंच ब्रह्मपुरुषाः स्वर्गस्य लोकस्य द्वारपाः एतानेवं पंच .... .... .... .... स्वर्गस्य लोकस्य द्वारपान्वेद ॥ (*te vā ete paṃca brahmapuruṣāḥ svargasya lokasya dvārapāḥ etānevaṃ paṃca .... .... .... .... svargasya lokasya dvārapānveda ‖*)
+(Bhā. U. 3-13-6)**NOTE**
+
+These five divisions of Vāyu, of the nature of breath, are the door-keepers of the Person who is Brahman. One who knows this truth attains union with Brahman; thus the spiritual five-fold priesthood is described. Śaṅkarācārya, explaining this in his commentary, has explained it with sentences such as प्राणाय स्वाहेति हुतं हविः सर्वमेतत्तर्पयतीति (*prāṇāya svāheti hutaṃ haviḥ sarvametattarpayatīti*) (Chā. U. Śa. Bhā. 3-13.1)**NOTE**.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ मे॒ स्तोम॒मदि॑तिर्जगृभ्यात्सू॒नुं न मा॒ता हृद्यं॑  ॒॑
+> सुशेवं ।  
+> ब्रह्म॑ प्रि॒यं दे॒वहि॑तं॒ यदस्त्व॒हं मि॒त्रे वरु॑णे॒ यन्म॑यो॒भु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । मे । स्तोमं अदितिः । जगृभ्यात् । सूनुं । न । माता । हृद्यं । सुशेवं ।  
+> ब्रह्म । प्रियं । देव्यहितं । यत् । अस्ति । अहं । मित्रे । वरुणे । यत् ।  
+> मयःभु ॥ २ ॥
+
+### Printed p. 408
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मदीयं स्तोमं स्तोत्रमदितिर्देवता प्रति जगृभ्यात् । प्रतिगृह्णातु ।
+> सूनुं न माता स्वतनुजं जननीव । सा यथा प्रतिगृह्यालिंग्य परितुष्यति तद्वदित्यर्थः ।
+> कीदृशं तं । हृद्यं हृदयंगमं सुशेवं शोभनसुखकरं । एतद्वयं साधारणं ।
+> किंच ब्रह्म मंत्रजातं प्रियं प्रियकरु देवहितं देवैः प्राप्यं यदस्ति यद्ब्रह्म
+> मयोभु सुखसाधनं तदहं मित्रे वरुणे च प्रापयामिोति शेषः । यद्वा । मित्रे
+> वरुणे चाहोरात्राभिमानिदेवयोर्यदुक्तलक्षणं ब्रह्म परिवृढं यज्ञादिरूपं
+> कर्मास्ति तदहं धारयामिोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the word मे (*me*) as "mine" and says that the deity Aditi is to accept my praise (stoma, stotra). "As a mother her own son": as a mother, having received her son and embraced him, is pleased, so may she be, this is the meaning. What kind of praise is it? It is heart-going (हृद्यं (*hṛdyaṃ*)) and gives good happiness (सुशेवं (*suśevaṃ*)); these two qualities are common to the praise. Further, the brahma, the mass of mantras, which is pleasing, dear to the gods and attainable by the gods, which is a means of happiness: that I convey to Mitra and Varuṇa, "I convey" being the word to be supplied. Or else: of Mitra and Varuṇa, the presiding deities of day and night, there is the brahma of the stated character, the great rite in the form of sacrifice and so on, and that I uphold.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माता (*mātā*)—the mother
+- सूनं न (*sūnaṃ na*)—as (she) lovingly embraces her own child**NOTE**
+- अदितिः (*aditiḥ*)—Aditi
+- मे (*me*)—my
+- हृद्यं (*hṛdyaṃ*)—the pleasing
+- सुशेवं (*suśevaṃ*)—the auspicious
+- स्तोमं (*stomaṃ*)—praise
+- प्रति जगृभ्यात् (*prati jagṛbhyāt*)—may she accept
+- यत् ब्रह्म (*yat brahma*)—which mantra
+- प्रियं (*priyaṃ*)—is affection-producing
+- देवहितं (*devahitaṃ*)—beneficial to the gods
+- अस्ति (*asti*)—is
+- यत् (*yat*)—which
+- मयोभु (*mayobhu*)—is the giver of happiness, that mantra
+- अहं (*ahaṃ*)—I
+- मित्रे (*mitre*)—addressing Mitra
+- वरुणे (*varuṇe*)—addressing Varuṇa (I offer)
+
+##### भावार्थ (Bhāvārtha)
+
+As a mother lovingly embraces her child, may Aditi lovingly accept my praise, which is pleasing and auspicious. The mantra that is affection-producing, beneficial to the gods and giver of happiness, that mantra I offer, addressing Mitra and Varuṇa.**NOTE**
+
+##### English translation
+May Aditi accept my affectionate and devoted praise, as a mother (the endearments of) a son; the pleasing, delightful prayer that is approved of by the gods I address to Varuna and Mitra.
+
+### Printed p. 409
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑रय क॒वित॑मं कवी॒नामु॒नत्तै॑नम॒भि मध्वा॑ घृ॒तेन॑ ।  
+> स नो॒ वसू॑नि॒ प्रय॑ता हि॒तानि॑ चं॒द्राणि॑ दे॒वः स॑वि॒ता सु॑वाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईरय । कवितमं । कवीनां । उनत्त । एनं । अभि । मध्वा । धृतेन ।  
+> सः । नः । वसूनि । प्रयता । हितानि । चंद्राणि । देवः । सविता । सुवाति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदीरयेत्येष्टैकादशिने सावित्रे पशौ वपायज्या । सूत्रितं च । उदीरय
+> कवितमं कवीनां भगं धियं वाजयंतः पुरंधिमिति द्वे । आ ३-७. । इति ॥
+> अनया सविता च स्तूयते । हे ऋत्विजः कवीनां कवितमं क्रांतदर्शिनममुं
+> पुरोवर्तिनमग्निं सवितारं वोदीरय । ऊर्ध्व० प्रापयत । हर्षयतेत्यर्थः । एनं
+> देवं मध्वा मधुरेण सोमरसेन धृतेन चाभ्यनत्त । अभिषिंचत । तर्पयतेत्यर्थः ।
+> स सविता देवो नोऽस्मभ्यं वसूनि निवासयोग्यानि गवादिधनानि प्रयता प्रयतानि
+> हितानि चंद्राण्याह्लादकानि हिरण्यानि सुवाति । प्रयच्छत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Ṛk beginning उदीरय कवितमं कवीनां भगं धियं वाजयंतः पुरंधिमिति द्वे । (*udīraya kavitamaṃ kavīnāṃ bhagaṃ dhiyaṃ vājayaṃtaḥ puraṃdhimiti dve |*) is the vapā-yājyā at the animal sacrifice to Savitṛ in the rite named in the glued word उदीरयेत्येष्टैकादशिने (*udīrayetyeṣṭaikādaśine*)**NOTE**, and the sūtra says so: "'Udīraya kavitamaṃ kavīnām' and 'bhagaṃ dhiyaṃ vājayantaḥ puraṃdhim', two verses" (Ā. 3-7). By this Ṛk Savitṛ is praised. O priests, rouse this Agni, or Savitṛ, who stands before you, the most far-seeing (kavitama, "of penetrating vision") of the poets; carry him upward, that is, gladden him. Anoint this god with sweet Soma juice and with ghee; that is, satisfy him. May that god Savitṛ give us wealth (vasūni, fit for dwelling, such as cattle and the like), well offered (prayatā, prayatāni), beneficial, delightful (candrāṇi, āhlādaka) gold; this is the meaning of "may he give" (suvāti).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवीनां (*kavīnāṃ*)—among poets
+- कवितमं (*kavitamaṃ*)—the most excellent poet, Savitṛ
+- उदीरय (*udīraya*)—gladden
+- एनं (*enaṃ*)—this god
+- मध्वा (*madhvā*)—with sweet Soma juice
+- घृतेन च (*ghṛtena ca*)—and with ghee
+- अभि उनत्त (*abhi unatta*)—satisfy
+- सः सविता (*saḥ savitā*)—that same god Savitṛ
+- नः (*naḥ*)—to us
+- प्रयता (*prayatā*)—complete
+- हितानि (*hitāni*)—beneficial
+- चंद्रानि (*caṃdrāni*)—delightful**NOTE**
+- वसूनि (*vasūni*)—wealth
+- सुवाति (*suvāti*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, gladden the god Savitṛ, the most excellent of poets. Satisfy this god with sweet Soma juice. May that same god Savitṛ give us wealth that is complete, beneficial and delightful.
+
 ---
 
-**Progress note:** Done through printed p. 402. Ṛk 18-20 of sūkta 41; sūkta 42 Ṛk 1 and special topics, pp. 397-402
+**Progress note:** Done through printed p. 409. pp. 403-409: Vāyu special topics (pañcahotā), Ṛk 2 and 3 of Sūkta 42
