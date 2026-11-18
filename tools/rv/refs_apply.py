@@ -56,6 +56,7 @@ class Rules:
                     self.good.add(f)
                     if kn and script_of(kn[0]) == 'kannada': self.kn_of[f] = X.normlab(kn[min(i, len(kn) - 1)])
         hold = {X.normlab(h) for h in hold}
+        self.hold = hold                                  # a written label named in --hold is also left alone where it is only recognised by its letters (e.g. a Kannada ಪಾ.)
         for r in rows:
             if r['status'] != 'mistake': continue
             t = r['work'].replace('→', '').strip()
@@ -147,6 +148,7 @@ def fix_line(line, R, scripts, prev=''):
                 if len(words) - i == 1 and key(sub) in R.tails: break
                 if R.known(sub) or R.look(sub): hit = R.look(sub); skip = i; check.append('suffix')
                 break
+        if hit is not None and lab in R.hold: hit = None
         if hit is None: continue
         new, rule = hit; sc = script_of(lab)
         if sc not in scripts: continue
