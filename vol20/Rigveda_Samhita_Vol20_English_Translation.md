@@ -3038,6 +3038,271 @@ O Aśvins, you who enjoy in many sacrifices, or who protect more: if today, at t
 - अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
 - आ गतं (*ā gataṃ*)—graciously come to us
 
+### Printed p. 81
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who accept a share in many sacrifices: whether at the time of this sacrifice you are in a very distant place, or in a near place, or in many places, or else in the atmosphere, graciously come to us.
+
+##### English translation
+Whether, Ashwins, you are at present far off, whether you are nigh, whether you are (straying) in many places, or whether you are in mid-air, do you, who partake of many offerings, come hither.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्या पु॑रु॒भूत॑मा पु॒रू दंसां॑सि॒ बिभ्र॑ता ।  
+> व॒र॒स्या या॒म्यध्रि॑गू हु॒वे तु॒विष्ट॑मा भु॒जे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्या । पुरुभूतमा । पुरु । दंसांसि । बिभ्रता ।  
+> वरस्या । यामि । अध्रिगू इत्यध्रिगू । हुवे । तुविःतमा । भुजे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहास्मिन्यज्ञे त्या तौ पुरुभूतमा पुरूणां बहूनां यजमानानां
+> भावयितृतमौ पुरु पुरूणि दंसांसि कर्माणि बिभ्रता धारयंतौ वरस्या वरणीयावध्रिगू अन्यैरधृतगमनकर्माण् यामि । उपागच्छामि । तुविष्टमा प्रभूततवौ
+> भुजे भोगाय पालनाय वा हुवे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+In this sacrifice, those two Aśvins are the greatest benefactors of the many sacrificers; they bear many deeds; they are to be chosen, and their movement and action are not held back by others. Sāyaṇa says: I approach them, and I invoke them, who are of abundant strength, for enjoyment or for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभूतमा (*purubhūtamā*)—you who have honoured many sacrificers with your favour
+- पुरु (*puru*)—of many kinds
+- दंसांसि (*daṃsāṃsi*)—deeds
+- बिभ्रता (*bibhratā*)—you who bear
+- वरस्या (*varasyā*)—you who are esteemed
+- अध्रिगू (*adhrigū*)—you whose going is unobstructed
+- त्या (*tyā*)—the renowned Aśvin deities
+
+### Printed p. 82
+
+- इह (*iha*)—at this time of sacrifice
+- यामि (*yāmi*)—I approach
+- तुविष्टमा (*tuviṣṭamā*)—the Aśvin deities of exceedingly abundant strength
+- भुजे (*bhuje*)—for protecting us
+- हुवे (*huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+I approach, at this time of sacrifice, the renowned Aśvin deities, who have honoured many sacrificers with their favour, who have performed deeds of many kinds, who are esteemed, whose going is unobstructed. I call the Aśvin deities of exceedingly abundant strength for protecting us.
+
+##### English translation
+I approach you (to invite you) hither, you who are the encouragers of many; (who are) the achievers of many (great) exploits, most excellent and irresistible: I invoke you, who are most mighty, for protection.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒र्मान्यद्वपु॑षे॒ वपु॑श्च॒क्रं रथ॑स्य येमथुः ।  
+> पर्य॒न्या नाहु॑षा यु॒गा म॒ह्ना रजां॑सि दीयथः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईर्मा । अन्यत् । वपुषे । वपुः । चक्रं । रथस्य । येमथुः ।  
+> परि । अन्या । नाहुषा । युगा । मह्ना । रजांसि । दीयथः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां रथस्य युष्मदीयस्यान्यच्चक्रमिर्मा ॥ अर्तेरीर्मति
+> रूपं ॥ गंतर्यादित्ये वपुषे तस्य शोधायै वपुर्वपुष्मत् तेजोवत् चक्रं
+> येमथुः । नियमितवंतौ स्थः । अन्यान्येन चक्रेण मह्ना महत्त्वेन स्वसामर्थ्येन
+> नाहुषा युगा । नहुषा मनुष्याः । तेषां युगा युगोपलक्षितान् कालान्
+> प्रातरादिसवनान् अहोरात्रादिकालान्वा रजांसि लोकांश्च परि दीयथः । परिगच्छथः।
+> न्यंघ्यस्य मूर्धनि चक्रं रथस्य येमथुः । ऋग्वे. १-३०-१९ । इत्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, of your chariot you have held back one wheel, a radiant one, for the sake of the Sun while he is on his course; **NOTE**. With the other wheel, by your greatness, that is by your own power, you go round the ages of men, that is the times marked by the yugas, such as the morning and other pressings, or the times of day and night and so on, and also the worlds. Sāyaṇa adds that this is stated in the passage न्यंघ्यस्य मूर्धनि चक्रं रथस्य येमथुः । (*nyaṃghyasya mūrdhani cakraṃ rathasya yemathuḥ |*) (Ṛgve. 1-30-19) **GLOSS** **NOTE**.
+
+### Printed p. 83
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईर्मा (*īrmā*)—(O Aśvin deities) at the time of the Sun's course
+- वपुषे (*vapuṣe*)—to increase his radiance
+- रथस्य (*rathasya*)—of your chariot
+- वपुः (*vapuḥ*)—radiant
+- अन्यत् चक्रं (*anyat cakraṃ*)—one wheel
+- येमथुः (*yemathuḥ*)—you held back and made stand still
+- अन्या (*anyā*)—with the other wheel
+- मह्ना (*mahnā*)—with your greatness
+- नाहुषा युगा (*nāhuṣā yugā*)—the day-and-night and other times of men (to regulate them)
+- रजांसि (*rajāṃsi*)—in all the worlds
+- परि दीयथः (*pari dīyathaḥ*)—you go round
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in the course of the Sun's travel you held back and made stand still one radiant wheel of your chariot, to increase his radiance. With the other wheel, with your greatness, you go round and travel through all the worlds to regulate the day-and-night and other times of men.
+
+##### English translation
+You have arrested one luminous wheel of (your) car for illumining the form (of the sun), whilst with the other you traverse the spheres (to regulate) by your power the ages of mankind.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदू॒ षु ना॑मे॒ना कृ॒तं विश्वा॒ यद्वा॒मनु॒ ष्टवे॑ ।  
+> नाना॑ जा॒ताव॑रे॒पसा॒ सम॒स्मे बंधु॒मेय॑थुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । ऊं इति । सु । वां । एना । कृतं । विश्वा । यत् । वां । अनु । स्तवे ।  
+> नाना । जातौ । अरेपसा । सं । अस्मे इति । बंधुं । आ । ईयथुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वा व्याप्तौ यत् येन स्तोत्रेण वां युवामनु ष्टवे अनुस्तुवे
+> तदु । उ इति पूरणः । एनानेन पौरेण सु सुष्टु वां युवाभ्यां कृतं संपादितं
+> भवतु । नाना पृथगेव जात् समृद्धावरेपसापापावस्मे अस्यभ्यं बंधुमन्नं धनं
+> ना समेयथुः । सम्यक् गमयथः । सम्यक् प्रयच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O all-pervading ones, whatever praise I now offer to you, let that be well accomplished for you by this Paura (worshipper). Separately born and grown, sinless, you are to bring together for us food and wealth, that is, to give it fully **NOTE**.
+
+### Printed p. 84
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वा (*viśvā*)—O all-pervading Aśvin deities
+- यत् (*yat*)—with whatever recitation of praise
+- वां (*vāṃ*)—you
+- अनुष्टुवे (*anuṣṭuve*)—I am praising
+- तदु (*tadu*)—that same praise
+- एना (*enā*)—by this Paura
+- वां (*vāṃ*)—addressed to you
+- सु (*su*)—exceedingly
+- कृतं (*kṛtaṃ*)—has been accomplished
+- नाना (*nānā*)—individually
+- जाता (*jātā*)—you who were born and have grown
+- अरेपसा (*arepasā*)—being free from sin
+- आस्मे (*āsme*)—to us
+- बंधुं (*baṃdhuṃ*)—food
+- सं आ ईयथुः (*saṃ ā īyathuḥ*)—provide fully
+
+##### भावार्थ (Bhāvārtha)
+
+O all-pervading Aśvin deities, the praise with which I am now praising you has been accomplished exceedingly, addressed to you, by this Paura seer. Having been born individually and having grown, free from sin, provide us fully with food.
+
+##### English translation
+May the praise, universal (deities), wherewith I laud you, be agreeable to you, as offered by this (your worshipper); and do you, who are severally born, and free from blame bestow upon us food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्वां॑ सू॒र्या रथं॒ तिष्ठ॑द्रघु॒ष्यदं॒ सदा॑ ।  
+> परि॑ वामरु॒षा वयो॑ घृ॒णा व॑रंत आ॒तपः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । वां । सूर्या । रथं । तिष्ठत् । रघुस्यदं । सदा ।  
+> परि । वां । अरुषाः । वयः । फृणा । वरंते । आतपः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ नां युवयोः सदा सर्वदा रघुष्यदं शीघ्रगं रथं सूर्या
+> युवयोः पत्नि यद्यदा आ शिष्ठत् आस्थितवती तदा नां परि वरंते । परितो वृण्वंति।
+
+##### Gist of the bhāṣya
+
+O Aśvins, whenever Sūryā, your wife, mounts your chariot that always runs swiftly, then they surround you on every side.
+
+### Printed p. 85
+
+> के । अरुषा आरोचमाना फृणा दीप्ता आतप आतापनाः शत्रूणां वयोऽश्वाः ।
+> अथवातप इति विशेष्यं । वयो गंतार उक्तलक्षणा आतपः सर्वतस्तापयित्र्यो
+> दीप्तयः परि वरंते ॥
+
+##### Gist of the bhāṣya
+
+Who are they? The bright, shining ones, the radiant ones, the scorchers of enemies; the word for horses is also given as वयः (*vayaḥ*). Or else आतपः (*ātapaḥ*) is the noun to be qualified: the वयः (*vayaḥ*) are the goers, of the character stated, and the आतपः (*ātapaḥ*) are the flames that heat on all sides; they surround you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—(O Aśvin deities) your
+- सदा (*sadā*)—at all times
+- रघुष्यदं (*raghuṣyadaṃ*)—that travels swiftly
+- रथं (*rathaṃ*)—chariot
+- सूर्या (*sūryā*)—Sūryā, your wife
+- यत् (*yat*)—when
+- आ तिष्ठत् (*ā tiṣṭhat*)—she mounts and sits (then)
+- अरुषाः (*aruṣāḥ*)—with attractive radiance
+- घृणा (*ghṛṇā*)—blazing
+- वयः (*vayaḥ*)—and trembling
+- आतपः (*ātapaḥ*)—rays
+- वां (*vāṃ*)—your
+- परि (*pari*)—all around
+- वरंते (*varaṃte*)—encompass and pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, when Sūryā, your wife, mounts and sits in your chariot that travels swiftly at all times, then rays of attractive radiance, blazing and trembling, encompass and pervade you on all sides.
+
+##### English translation
+When Surya has ascended your ever-easy moving car, then bright-waving, resplendent rays (of light) encompass you.
+
+##### विशेषविषयगळु (Special Topics)
+
+As to the matter that Sūryā, that is the daughter of the Sun, mounted and sat in the chariot of the Aśvin deities, see what we have written earlier, that is in Ṛ. Saṃ. Part 9, page 365 and page 471.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वोरत्रि॑श्चिकेतति॒ नरा॑ सु॒म्नेन॒ चेत॑सा ।  
+> घ॒र्मं यद्वा॑मरे॒पसं॒ नास॑त्या॒स्ना भु॑र॒ण्यति॑ ॥ ६ ॥
+
+### Printed p. 86
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । अत्रिः । चिकेतति । नरा । सुम्नेन । चेतसा ।  
+> घर्मं । यत् । वां । अरेपसं । नासत्या । आस्ना । भुरण्यति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विन् युवोर्युवयोः । युवामित्यर्थः । अत्रिरस्मत्पिता
+> ऋषिः सुम्मेन सुखेनाग्नि दाहोपशमरूपेण हेतुना चेतसादरयुक्तेन मनसा
+> चिकेतति । जानाति । स्तुतवानित्यर्थः । सति दुःखे सुखमुक्षते । दुःखस्य कः प्रसंग
+> इत्यत आह । यद्यस्मात् हे नासत्यौ वां युवयोरास्नास्येन तन्निष्टन्नेन स्तोत्रेण
+> घर्मं दीप्तं दहंतमग्निमसुरैः स्वदाहाय प्रक्षिप्तमरेपसमपापं सुखकरं
+> भुरण्यति प्राप्तवान् ॥ भुरण्यतिर्गतिकर्मा ॥ अत्रेरग्नेः सकाशाद्रक्षणं हिमेनाग्निं
+> फुंसं । ऋग्वे. १-११६-८ । युवमृबीसमुत तप्तमत्रये । ऋग्वे. १०-३९-९ ।
+> इत्यादिभिः स्पष्टं प्रदर्शितं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Aśvins, Atri, our father the seer, knows you, that is, he has praised you, with a mind full of reverence, by reason of the happiness that consists in the quenching of the burning of the fire. If there was suffering, how is happiness spoken of? What occasion was there for suffering? Sāyaṇa answers: because, O Nāsatyas, by the praise that comes from his mouth and is directed to you, Atri obtained the blazing, burning fire that the Asuras had thrown in to burn him, harmless, free from sin, and giving comfort. The word भुरण्यति (*bhuraṇyati*) is a verb of motion. That Atri was protected from the fire is shown clearly by such passages as हिमेनाग्निं फुंसं (*himenāgniṃ phuṃsaṃ*) (Ṛgve. 1-116-8) **GLOSS** **NOTE** and युवमृबीसमुत तप्तमत्रये (*yuvamṛbīsamuta taptamatraye*) (Ṛgve. 10-39-9) **GLOSS** **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- यत् (*yat*)—when
+- वां (*vāṃ*)—who praise you
+- आस्ना (*āsnā*)—by praise
+- घर्मं (*gharmaṃ*)—the burning fire
+- अरेपसं (*arepasaṃ*)—not harmful but giving comfort
+- भुरण्यति (*bhuraṇyati*)—he obtained (then)
+- नरा (*narā*)—O Aśvin deities, leaders
+- अत्रिः (*atriḥ*)—Atri
+- युवोः (*yuvoḥ*)—your power
+- सुम्मेन (*summena*)—because he experienced happiness (with gratitude)
+- चेतसा (*cetasā*)—with the mind
+- चिकेतति (*ciketati*)—understood
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, when, by the greatness of the praise that extols you, Atri obtained the burning fire as harmless and comfort-giving, then, O Aśvin deities, leaders, because Atri unexpectedly experienced happiness, he understood your power with a mind full of gratitude.
+
+##### English translation
+Leaders (of rites), Atri recognized (your benevolence) with (a grateful) mind on account of the relief (you afforded him), when, Nastyas, through his praise of you, he found the (fiery) heat innocuous.
+
 ---
 
-**Progress note:** Done through printed p. 80. Vol 20 pp. 75-80: 5.72.1-3, introduction on the Aśvins, 5.73.1 start
+**Progress note:** Done through printed p. 86. Sukta 73 rks 1-6 (pp. 81-86)
