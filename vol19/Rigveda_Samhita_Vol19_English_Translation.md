@@ -10180,6 +10180,308 @@ May those ten bright horses, the gift to me of the pious gold-possessing Trasada
 > स॒हस्रा॑ मे॒ च्यव॑तानो॒ ददा॑न आनू॒कम॒र्यो वपु॑षे॒  ॑
 > नार्चत् ॥ ९ ॥
 
+### Printed p. 260
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्ये । मा । मारुतऽश्वस्य । शोणाः । क्रत्वामघासः । विदथस्य । रात् ।  
+> सहस्रा । मे । च्यवतानः । ददानः । आनूकं । अर्यः । वपुषे । न । आर्चत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च तै श्वा वक्ष्यमाणा मारुताश्वस्य । मरुत्सदृशवेगाश्ववान्मरुताश्वः । तदपत्यस्य विदथस्यॆतन्नामकस्य राज्ञः शोणाः शोणवर्णाः क्रत्वामघासः
+> क्रतुना कर्मणा शीघ्रगमनादिलक्षणेन माहनीया अश्वा रात् दाने विनियुक्ता
+> मां वहंतीति शेषः । किंच सहस्रा सहस्राण्यपरिमितानि धनान्यर्यः पूज्यस्य मे ।
+> चतुर्थ्यर्थे षष्ठी । पूज्याय मह्यं च्यवतानश्चावयन् ददानः प्रयच्छन् स
+> आनूकमाभरणं च वपुषे स्वशरीरालंकारायार्चत् । प्रायच्छत् । नेति चार्थे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And those (horses) to be mentioned: the horses of Vidatha, the king so named, son of Mārutāśva, one whose horses have a speed like that of the Maruts; tawny-coloured (शोणाः (*śoṇāḥ*)), made worthy of honour by a rite (क्रतुना (*kratunā*)) marked by swift going and the like, assigned at the gift, carry me; "carry me" is the remainder to be supplied. Further, the king gave countless thousands of riches to me, the venerable one (the genitive stands for the dative), causing them to fall to me as a gift; and he gave ornament for the adornment of my own body. The word *na* is in the sense of "and".**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मारुताश्वस्य (*mārutāśvasya*)—of the son of Marutāśva
+- विदथस्य (*vidathasya*)—belonging to the king named Vidatha
+- शोणाः (*śoṇāḥ*)—golden-coloured
+- क्रत्वामघासः (*kratvāmaghāsaḥ*)—those that have gained greatness through rites
+- रात् (*rāt*)—(given to me) at the time of the gift
+- तै (*tai*)—those horses
+- मा (*mā*)—me (may they carry to the sacrifice) (and that same king)
+- सहस्रा (*sahasrā*)—countless riches
+- अर्यः (*aryaḥ*)—venerable
+- मे (*me*)—to me
+- च्यवता (*cyavatā*)—wishing to give
+- ददानः (*dadānaḥ*)—giving (together with them)
+- वपुषे (*vapuṣe*)—for the adornment of the body
+- आनुकं (*ānukaṃ*)—and ornament
+- अर्चत् (*arcat*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses given to me at the time of the gift by the king named Vidatha, son of Mārutāśva, golden-coloured and having gained greatness through rites, carry me to the sacrifice. The same king, in his affection for me, who am worthy of his respect, gave me countless riches and presented ornaments for the adornment of my body.
+
+##### English translation
+Or may those bay, well-actioned horses, the donation of Vidatha, the son of Marutashwa, (convey me) : or (may) the thousands (of treasure) which he was bestowing upon and giving to me, entitled to respect, and the ornaments which he presented (to decorate) the person, (contribute to the ceremony).
+
+### Printed p. 261
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त तै मा॑ ध्व॒न॑स्य॒ जुष्टा॑ लक्ष्म॒ण्य॑स्य सु॒रुचो॒ यता॑नाः ।  
+> म॒ह्ना रा॒यः सं॒वर॑णस्य॒ ऋषे॑व्र॒जं न गावः॒ प्रय॑ता॒ ॑ 
+> अपि ग्मन् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्ये । मा । ध्वन्यस्य । जुष्टाः । लक्षण्यस्य । सुरुचः । यतानाः ।  
+> मह्ना । रायः । संवरणस्य । ऋषेः । व्रजं । न । गावः । प्रयताः । अपि । ग्मन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च तै ते वक्ष्यमाणा रायो ध्वन्यस्य ध्वन्यनामकस्य लक्षण्यस्य
+> लक्ष्मणपुत्रस्य राज्ञः संबंधिनोऽश्वा मा जुष्टा मां प्राप्ताः सुरुचः शोभनदीप्तयो यताना वहमानाय यतमानाः । रायो मह्ना महत्वेन युक्ता
+> रायः प्रयता दत्ताः सत्यः संवरणस्य ऋषेरपि ग्मन् । अपिगताः । प्राप्ता मद्गृहमिति शेषः । व्रजं न गावो गोष्ठं गाव इव । यद्वा । नेति चार्थे । गावश्च मम
+> व्रजमपिग्मन् । अत्रैंद्रे सूक्ते प्रायेणैंद्रे मरुतो राजां च दानस्तुतॆयः ।
+> अनु- २-२२ । इत्युक्तत्वाद्राज्ञां दानस्तुतिरविरुद्धा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And those (horses) to be mentioned, belonging to the king Dhvanya, son of Lakṣmaṇa, have come to me, shining beautifully, striving to carry me. The riches endowed with greatness, given, have reached the house of the seer Saṃvaraṇa; "reached my house" is the remainder to be supplied. They are like cows going to a stall. Or else *na* is in the sense of "and": and cows also have reached my stall. In this Aindra sūkta, since it is said, "for the most part in Aindra (hymns) there are praises of gifts by the Maruts and by kings" (Anu. 2-22), a praise of the gifts of kings is not contradictory.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—or
+- लक्ष्मण्यस्य (*lakṣmaṇyasya*)—of the son of Lakṣmaṇa
+- ध्वन्यस्य (*dhvanyasya*)—named Dhvanya, the king who gave
+- जुष्टाः (*juṣṭāḥ*)—those that have joined me
+- सुरुचः (*surucaḥ*)—of resplendent brilliance
+- यतानाः (*yatānāḥ*)—eager to carry me away
+- त्ये (*tye*)—those horses
+- मा (*mā*)—me (may they carry to the sacrifice) (and)
+- गावः (*gāvaḥ*)—cows
+- व्रजं न (*vrajaṃ na*)—as they hasten to and reach the stall
+- प्रयताः (*prayatāḥ*)—given to me
+- मह्वा (*mahvā*)—filled with greatness
+- रायः (*rāyaḥ*)—riches
+- संवरणस्य ऋषेः (*saṃvaraṇasya ṛṣeḥ*)—to the house of the seer named Saṃvaraṇa
+- अपि ग्मन् (*api gman*)—may they go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses given by the king named Dhvanya, son of Lakṣmaṇa, that have come into my possession, are radiant and are eager to carry me to the sacrifice, carry me to the sacrifice. As cows hasten to and reach their stalls, may the riches given to me, filled with greatness, go and reach the
+
+### Printed p. 262
+
+house of the seer named Saṃvaraṇa (my house).
+
+##### English translation
+Or may the bright and active steeds bestowed upon me by Dhwanya, the son of Lakshmana (bear me) : the riches, endowed with greatness, that have been presented, have passed ( to the dwelling) of the Rishi Samvarana, like cows to their stalls.
+
+## Sūkta 34 (Maṇḍala 5)
+
+The thirty-fourth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजातशत्रुमिति नवर्चं द्वितीयं सूक्तं प्राजापत्यस्य संवरणस्यार्षमैंद्रं ।
+> नवमी त्रिष्टुप् शिष्टास्त्रिष्टुंबतपरिभाषया जगत्यः । अजातशत्रुं नव त्रिष्टुबंतमित्यनुक्रमणिका । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The second sūkta, अजातशत्रुमिति (*ajātaśatrumiti*), of nine ṛks, belongs to the seer Saṃvaraṇa Prājāpatya; its deity is Indra. The ninth ṛk is in Triṣṭubh; the rest are Jagatī by the convention on a sūkta that ends in Triṣṭubh.**NOTE** The Anukramaṇikā says: अजातशत्रुं नव (*ajātaśatruṃ nava*) (the sūkta is called nine ṛks ending in Triṣṭubh). The use in ritual is laiṅgika.
+
+Translation of the Anuvāda: This sūkta, Ajātaśatrum, is the second sūkta in the third anuvāka. There are nine ṛks in it. The seer of this sūkta is Saṃvaraṇa, son of Prajāpati; Indra is the deity; the ninth ṛk of this sūkta is in the Triṣṭubh metre and the remaining ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: "Ajātaśatruṃ nava triṣṭubantam". The use in ritual is laiṅgika.
+
+Sūkta 31.**NOTE**
+
+Maṇḍala 5, Anuvāka 3, Sūkta 34.
+
+Aṣṭaka 4, Adhyāya 2, Varga 3, 4.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: Saṃvaraṇa Prājāpatya.
+
+Deity: Indra.
+
+Metre: 1-8, Jagatī, Triṣṭubh.
+
+### Printed p. 263
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजा॑तशत्रुम॒जरा॒ स्व॑र्व॒त्यनु॑ स्व॒धामि॑ता द॒स्ममी॑यते ।  
+> सु॒नोत॑न॒ पच॑त॒ ब्रह्म॑वाहसे पुरुष्टु॒ताय॑ प्रत॒रं द॑धातन ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजातशत्रुं । अजरा । स्वःवती । अनु । स्वधा । अमिता । दस्मं । ईयते ।  
+> सुनोतन । पचत । ब्रह्मवाहसे । पुरुस्तुताय । प्रतरं । दधातन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजातशत्रुं । अनुत्पन्नाः शातयितारो यस्य तं । दस्मं शत्रूणामुपक्षपयितारमजराक्षिणा स्वर्वती स्वरणवत्यमितापरिमिता स्वधान्नं हविरन्वियते । अनुप्राप्नोति । तदर्थं हे ऋत्विजः सुनोतन । अभिषुणुत । पचत पुरोडाशादिकं ।
+> कस्मै । ब्रह्मवाहसे ब्रह्मणः परिवृढस्य स्तोत्रस्य वाहकाय पुरुष्टुताय बहुभिः
+> स्तु तायेंद्राय । प्रतरं प्रकृष्टतरं दधातन । धारयत स्वस्वोचितकर्म ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: *Ajātaśatru* is he whose destroyers are not born. *Dasma* is the one who casts down enemies. Food as oblation (स्वधान्नं (*svadhānnaṃ*)), undecaying, leading to heaven and unlimited, follows him, that is, reaches him. For that purpose, O priests, press out the Soma and cook the cakes and the rest. For whom? For Indra, the bearer of *brahma*, the all-encompassing praise, praised by many. Set in place your respective duties in the best manner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजरा (*ajarā*)—undecaying
+- स्वर्वती (*svarvatī*)—leading to heaven
+- अमिता (*amitā*)—and unlimited
+- स्वधा (*svadhā*)—food in the form of oblation
+- अजातशत्रुं (*ajātaśatruṃ*)—the one who has no enemy at all
+- दस्मं (*dasmaṃ*)—and destroyer of enemies, the god
+- अनु ईयते (*anu īyate*)—goes and reaches (O priests)
+- सुनोतन (*sunotana*)—press out the Soma juice
+- पचत (*pacata*)—cook the cakes and the rest
+- ब्रह्मवाहसे (*brahmavāhase*)—who receives and bears the most excellent praises
+- पुरुष्टुताय (*puruṣṭutāya*)—and is praised by many, to Indra
+- प्रतरं (*prataraṃ*)—in the most excellent manner
+- दधातन (*dadhātana*)—perform (your respective) rites
+
+##### भावार्थ (Bhāvārtha)
+
+The food in the form of oblation, undecaying and unlimited, goes and reaches the god who has no enemy and destroys enemies. O priests, press out the Soma juice. Cook the cakes and the rest. Perform your respective rites in the most excellent manner, addressing Indra, who receives and bears the most excellent praises and is praised by many.
+
+### Printed p. 264
+
+##### English translation
+The undecaying, heaven-conferring, unlimited (sacrificial) food, goes to the tamer (of enemies), whose adversaries are unborn : therefore (priests), pour out (the libation), dress (the cakes and butter), diligently discharge (your offices) to him who is the accepter of prayer, who is glorified by many.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यः सोमे॑न ज॒ठर॒मपि॑प्र॒तामं॑दत म॒घवा॒ मध्यो॒  ॑
+> अंधसः ।  
+> यदीं॑ मृ॒गाय॒ हंत॑वे म॒हाव॑धः स॒हस्र॑भृष्टिमु॒शना॑ व॒धं  ॑
+> यमत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । सोमेन । जठरं । आपिप्रत । अमंदत । मघ्ववा । मध्वः । अंधसः ।  
+> यत् । ईं । मृगाय । हंतवे । महावधः । सहस्रभृष्टिं । उशना । वधं ।  
+> यमत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मघवा सोमेन जठरं स्वकीयोदरमा सर्वतोऽपिप्रत अपूरयत्
+> मध्वो मधुररसस्यांधसः सोमस्य पानेनामुंदत । अतृप्त्यत् । यद्यदेमयं
+> मृगायैतन्नामकायासुराय हंतवे तं हंतुं महावधो महावद्रः सहस्रभृष्टिरपरिमिततेजा उशना कामयमानः शत्रुं यद्वशनसा सह वधं वज्रं
+> यमत् उदयच्छत् तदापिप्रत अनुदंत च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Maghavan, who filled his own belly all round with Soma, was exhilarated, that is, satisfied, by drinking the sweet-flavoured Soma (अंधसः (*aṃdhasaḥ*)). When he, desiring to kill the Asura named Mṛga, raised the thunderbolt, the great weapon, thousand-edged, of unlimited brilliance, desiring the enemy, or else together with Uśanas, then he filled himself and was delighted.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- सोमेन (*somena*)—with Soma juice
+- जठरं (*jaṭharaṃ*)—his belly
+- आ अपिप्रत (*ā apiprata*)—fills completely, such a one
+- मघवा (*maghavā*)—Indra
+- मध्वा (*madhvā*)—of the sweet
+- अंधसः (*aṃdhasaḥ*)—by drinking the Soma juice
+- अमंदत (*amaṃdata*)—was satisfied
+- यत् (*yat*)—immediately thereafter
+- ईं (*īṃ*)—Indra
+
+### Printed p. 265
+
+- मृगाय (*mṛgāya*)—the Asura named Mṛga
+- हंतवे (*haṃtave*)—to kill
+- उशना (*uśanā*)—desiring
+- सहस्रभृष्टिः (*sahasrabhṛṣṭiḥ*)—having thousands of edges
+- महावधः (*mahāvadhaḥ*)—and destructive
+- वधं (*vadhaṃ*)—the thunderbolt weapon
+- यमत् (*yamat*)—raised and held
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who fills his belly completely with Soma juice, was satisfied by drinking the sweet Soma juice. Immediately thereafter, desiring to kill the Asura named Mṛga, he raised and held in his hand the thunderbolt weapon, which has thousands of edges and is destructive.
+
+##### English translation
+Maghavan, who fills his belly with the Soma, is exhilarated (by drinking) of the sweet-savoured beverage, whereupon he has lifted up his destructive thousand-edged weapon, desiring to slay (the Asura) Mriga.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑स्मै घ्रं॒स उ॒त वा॒ य ऊध॑नि॒ सोमं॑ सु॒नोति॒ भव॑ति ॒ ॑
+> द्युमा अह ।  
+> अपा॑प श॒क्रस्त॑त॒नुष्टि॑मूहति त॒नूशु॑भ्रं म॒घवा॒ यः  ॒॑
+> कवासखः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अस्मै । घ्रंसे । उत । वा । यः । ऊधनि । सोमं । सुनोति । भवति ।  
+> द्युमान् । अह ।  
+> अपाप । शक्रः । ततनुष्टिं । ऊहति । तनूशुभ्रं । मघवा । यः । कवसखः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानोऽस्मा इंद्राय फ्रंसे । अहर्नामैतत् । गृह्यंतेऽस्मिन्रसा
+> इति फ्रंसः । तस्मिन् । उत वा अथवा यो यजमान ऊधनि । उद्धततरं भवत्यु-
+
+### Printed p. 266
+
+> न्नद्धमिति वोधो रात्रिः । स्नेहप्रदानरसाभ्यामूधसि रात्रौ च समत्वाद्रात्रिरप्यूध
+> उच्यते । अहनि रात्रौ च सोमं सुनोति स भवति द्युमान् दीप्तिमान् ॥ अहेति
+> विनिग्रहार्थियः । किंच शक्रः शक्तोऽयमिंद्रस्ततनुष्टिं । ततं धर्मसंततिं नुदति
+> वष्टि कामयते कामानिति ततनुष्टिः । तं तनूशुभ्रं तनूः शुभ्रा शोभनीयालंकारादिभिर्यस्य तं । तादृशं स्वपोषकमयज्ञानमपोहति । अपरोऽपशब्दः
+> पूरणार्थः । मघवा धनवान्यश्च कवासखः कुत्सितपुरुषसहायस्तमपोहतीति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sacrificer who, for this Indra, in the *phraṃsa*, which is a name for the day (the juices are taken in it), or else the one who, in the *ūdhan*, the night: what is more swollen and raised is called *ūdhas*; since night is like the udder in giving moisture and sap, night too is called *ūdhas*. He who presses Soma by day and by night becomes radiant. The word *aha* is in the sense of restraint. Further, this capable Indra drives away the *tatanuṣṭi*, that is, one who thrusts aside the continuity of dharma and desires desires. He also drives away such a one, whose body is resplendent with ornaments and the like, who nourishes only himself and does not perform sacrifice; the second *apa* is for completion. And he drives away the wealthy man who is the friend of base men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- अस्मै (*asmai*)—addressing Indra
+- फ्रंसे (*phraṃse*)—by day
+- उत वा (*uta vā*)—or
+- यः (*yaḥ*)—whoever
+- ऊधनि (*ūdhani*)—also in the night
+- सोमं (*somaṃ*)—the Soma juice (to offer it)
+- सुनोति (*sunoti*)—presses (he)
+- द्युमान् (*dyumān*)—radiant
+- भवति (*bhavati*)—becomes
+- शक्रः (*śakraḥ*)—Indra
+- ततनुष्टिं (*tatanuṣṭiṃ*)—one who, without devotion to god, is proud only of his offspring
+- तनूशुभ्रं (*tanūśubhraṃ*)—and proud only of his own body, one fallen from rites
+- अप ऊहति (*apa ūhati*)—rejects
+- यः (*yaḥ*)—whoever
+- मघवा (*maghavā*)—though wealthy
+- कवासखः (*kavāsakhaḥ*)—is a friend of wicked people (he rejects him too)
+
+##### भावार्थ (Bhāvārtha)
+
+Those sacrificers who press out and offer Soma juice to Indra by day and by night become radiant. Indra rejects those who, without devotion to god, nurse an unworthy pride in their offspring alone and in their own bodies alone, and those who, though wealthy, are friends of wicked people.
+
+##### English translation
+He who pours out the libation to that Indra, by day or by night, undoubtedly becomes illustrious : Shakra disregards the man who is proud of his descendants and vain of his person, and who, though wealthy, is the friend of the base.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्याव॑धीत्पि॒तरं॒ यस्य॑ मा॒तरं॒ यस्य॑ श॒क्रो भ्रात॑रं॒ नात॑  
+> ईषते ।  
+> वेतीद्व॑स्य॒ प्रय॑ता यतंक॒रो न किल्बि॑षादीषते॒ वस्व॑ आक॒रः ॥
+
 ---
 
-**Progress note:** Done through printed p. 259. Ṛk 3 bhāṣya to Ṛk 9 saṃhitā (pp. 253-259)
+**Progress note:** Done through printed p. 266. Ṛk 9 pada to Ṛk 4 saṃhitā of sūkta 34 (pp. 260-266)
