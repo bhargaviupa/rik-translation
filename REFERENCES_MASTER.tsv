@@ -8,7 +8,6 @@ NOT IN LIST	kā.		Kā.	same letters; only capitals, dots or spaces differ	high	y
 NOT IN LIST	Saṃ.			no list form close to it	none		32		1				1				1	1	2	7	12	4	2	1
 NOT IN LIST	Anu.			no list form close to it	none		29	1	3	9			4	1	1		4	1	3					2
 NOT IN LIST	Maṃ.			no list form close to it	none		23	23																
-NOT IN LIST	Pā. Ma.		M.	proposal: Pāṇini + Mahābhāṣya (your M./म.); the same sentence आगमा अनुदात्ताः is cited as म. ३-१-३-२ in Vol 2 p. 162 and as पा. म. ३-१-३-२ in Vol 2 p. 360; numbers have 3-4 parts	medium		14		3	4	1	3	2									1		
 NOT IN LIST	Vāl.			no list form close to it	none		12					12												
 NOT IN LIST	Phi.		Phi.	the form of the list	high	yes	11		2	4		3			1	1								
 NOT IN LIST	Sū.			no list form close to it	none		11					1							6			4		
@@ -370,6 +369,7 @@ mistake	Ait. Brā.	→ Ai. Brā.					19					19
 mistake	Si.	→ Ni.					17													4		13		
 mistake	Ā. Gṛ.	→ Ā. Gṛ. Sū.					15			1				1				2			2	1	2	6
 mistake	Atha. Saṃ.	→ Ath. Saṃ.					15																10	5
+mistake	Pā. Ma.	→ Pā. Sū.					14		3	4	1	3	2									1		
 mistake	Ś. Brā.	→ Śa. Brā.					14												11	1	1	1		
 mistake	ai. ā.	→ Ai. Ā.					12	1	7		1						2			1				
 mistake	phi.	→ Phi.					11		4	4		1	1			1								
@@ -517,7 +517,7 @@ Devanagari	कृ. सं.			Devanagari read as kṛ. saṃ.; no list form close
 Devanagari	कृ. उ.			Devanagari read as kṛ. u.; no list form close to it	none		5													5				
 Devanagari	विधान.			Devanagari read as vidhāna.; no list form close to it	none		5													5				
 Devanagari	पू. मी.			Devanagari read as pū. mī.; no list form close to it	none		4	4																
-Devanagari	पा. म.		M.	Devanagari read as pā. ma.; proposal: Pāṇini + Mahābhāṣya (your M./म.); the same sentence आगमा अनुदात्ताः is cited as म. ३-१-३-२ in Vol 2 p. 162 and as पा. म. ३-१-३-२ in Vol 2 p. 360; numbers have 3-4 parts	medium		4		3									1						
+Devanagari	पा. म.		Pā. Sū.	Devanagari read as pā. ma.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	4		3									1						
 Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form close to it	none		4		1			1	1									1		
 Devanagari	ऋ. स.		Ṛ. Saṃ.	Devanagari read as ṛ. sa.; known spelling of Ṛ. Saṃ.	high	yes	4				3							1						
 Devanagari	वा. ।. उ.			Devanagari read as vā. |. u.; no list form close to it	none		4				1		1		2									
