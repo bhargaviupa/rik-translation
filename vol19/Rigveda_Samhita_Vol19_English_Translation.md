@@ -18926,6 +18926,326 @@ Anuvāda: This sūkta beginning हयो न (*hayo na*) is the second sūkta i
 
 Like a horse, the all-knowing Pratikṣatra, himself impelled by no other, was yoked to the yoke-pole that is the sacrifice. That yoke-pole, which carries across and protects, I bear, I, the Adhvaryu or the Hotā. I do not desire the release of this yoke-pole, its abandonment, nor do I desire taking it up and bearing it again and again. What burden is it to me? The same is then said: the knowing god, the inner controller, who knows the way, going before as leader, leads the paths of the sacrifice straight, not crooked.
 
+### Printed p. 513
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्वान् (*vidvān*)—the wise Pratikṣatra
+- हयो न (*hayo na*)—like a horse (yoked to a chariot)
+- स्वयं (*svayaṃ*)—of his own accord
+- धुरि (*dhuri*)—in the work of conducting the sacrifice
+- आयुजि (*āyuji*)—he has been appointed
+- प्रतरणीं (*prataraṇīṃ*)—that which can be carried out excellently, and
+- अवस्युवं (*avasyuvaṃ*)—protective
+- तां (*tāṃ*)—that burden
+- वहामि (*vahāmi*)—I bear
+- अस्याः (*asyāḥ*)—of this burden of conducting the work
+- विमुचं (*vimucaṃ*)—abandonment
+- न वश्मि (*na vaśmi*)—I do not desire
+- पुनः आवृतं (*punaḥ āvṛtaṃ*)—the burden of its repetition also
+- न (*na*)—I do not desire
+- विद्वान् (*vidvān*)—the wise seer
+- पुरएता (*puraetā*)—being the leader
+- ऋजु (*ṛju*)—straight
+- पथः (*pathaḥ*)—to the paths of the sacrifice
+- नेषति (*neṣati*)—he leads
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Pratikṣatra, like a horse yoked to a chariot, has of his own accord been appointed to the work of conducting the sacrifice. That burden, which can be carried out excellently and which protects, I bear. Evading this work, I do not desire to abandon this burden. The wise seer, being a guide, shows the straight paths of the sacrifice and leads others along that path.
+
+##### English translation
+The sage, (Pratikshatra), has, of his own accord, attached himself, to the burden (of sacrifice), like a horse (to a chariot): I support that transcendent and preservative load: I do not desire release from it, nor yet its reiterated imposition: the sage, going first, conducts (men) by the right path.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्न॒ इंद्र॒ वरु॑ण॒ मित्र॒ देवाः॒ शर्धः॒ प्रयं॑त॒ मारु॑तो॒त  ॑
+> विष्णो ।  
+> उ॒भा नास॑त्या रु॒द्रो अध॒ ग्नाः पू॒षा भगः॒ सर॑स्वती जुषंत ॥  
+> [33] [Vol. 19]
+
+### Printed p. 514
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । इंद्र । वरुण । मित्र । देवाः । शर्धः । प्र । यंत । मारुत । उत । विष्णो  
+> इति  
+> उभा । नासत्या । रुद्रः । अध । ग्नाः । पूषा । भगः । सरस्वती । जुषंत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्न इंद्र वरुण मित्र देवा यूयं शर्धो बलमस्माकं प्र यंत ।
+> प्रापयत ॥ अत्र सर्वत्र पूर्वस्याविद्यमानत्वेनोत्तरस्यॊत्तरस्य पादादित्वादनिघातः।
+> प्रथमस्य तु स्वत एव पादादित्वं । उतापि च हे मारुत मारुतानि मरुतां बलानि
+> हे विष्णो यूयं शर्धः प्र यंत ॥ विष्णो इत्यस्योतेत्यनेन व्यवधानान्निघातः ॥
+> किंचोभोभौ नासत्या सत्यभूतौ रुद्रोऽध अथ ग्ना एतेषां देवानां स्त्रियश्च
+> पूषा भगः सरस्वती च जुषंत । सेवंतामस्मदीयं यज्ञं स्तुतिं वा ॥
+
+##### Gist of the bhāṣya
+
+O Agni, Indra, Varuṇa, Mitra, gods, you bring us strength (शर्धो (*śardho*), which is might); the verb means "bestow". Further, O host of the Maruts, that is, the powers of the Maruts, and O Viṣṇu, you also bring strength. And both the Nāsatyas, who are true beings, Rudra, then the wives of these gods, Pūṣan, Bhaga and Sarasvatī: may they enjoy our sacrifice or our praise, that is, accept it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इंद्र (*iṃdra*)—O Indra
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- देवाः (*devāḥ*)—you, who are gods in your nature
+- शर्धः (*śardhaḥ*)—strength
+- प्र यंत (*pra yaṃta*)—provide to me
+- उत (*uta*)—and
+- मारुत (*māruta*)—O host of the Maruts
+- विष्णो (*viṣṇo*)—O Viṣṇu (you also provide)
+- उभा नासत्या (*ubhā nāsatyā*)—both the Aśvin gods
+- रुद्रः (*rudraḥ*)—Rudra
+- अध (*adha*)—likewise
+- ग्नाः (*gnāḥ*)—the wives of the gods
+- पूषा (*pūṣā*)—the god Pūṣan
+- भगः (*bhagaḥ*)—Bhaga
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- जुषंत (*juṣaṃta*)—may they enjoy our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, O Mitra and Varuṇa, you who are gods in your nature, provide us with strength. And, O host of the Maruts, O Viṣṇu, you also provide it. May the Aśvin gods, Rudra, the wives of the gods, the god Pūṣan, Bhaga and Sarasvatī enjoy our sacrifice.
+
+##### English translation
+Agni, Indra, Varuna, Mitra, gods, confer (upon us) strength : or company of the Maruts, or Vishnu, (bestow it): and may both the Nasatyas, Rudra, the wives of the gods, Pushan, Bhaga, Saraswati, be pleased (by our adoration .
+
+### Printed p. 515
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इं॒द्रा॒ग्नी मि॒त्रावरु॒णादि॑तिं॒ स्वः॑ पृथि॒वीं द्यां म॒रुतः॒ ॑ ॒
+> पर्वता अपः ।  
+> हु॒वे विष्णुं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॒ भगं॒ नु शंसं॑ सवि॒तार॑मू॒तये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । मित्रावरुणा । अदितिं । स्वरिति स्वः । पृथिवीं । द्यां । मरुतः ।  
+> पर्वतान् । अपः ।  
+> हुवे । विष्णुं । पूषणं । ब्रह्मणः । पतिं । भगं । नु । शंसं । सवितारं । ऊतये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रादिसनित्रंतान् चतुर्दश देवानूतयेऽस्मद्रक्षणाय हुवे । आह्वयामि
+> सौमि ना । स्वरित्यादित्य उच्यते स्वरणात् ॥
+
+##### Gist of the bhāṣya
+
+The fourteen gods beginning with Indra and ending with Savitṛ I invoke for the protection of us; that is, I call them. The word स्वरित्यादित्य (*svarityāditya*) is said to mean Āditya because of "sounding" (svaraṇa). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अहं (*ahaṃ*)—I)
+- ऊतये (*ūtaye*)—for protection
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- अदितिं (*aditiṃ*)—Aditi
+- स्वः (*svaḥ*)—Āditya
+- पृथिवीं (*pṛthivīṃ*)—Earth
+- द्यां (*dyāṃ*)—the presiding deity of the heavenly world
+- मरुतः (*marutaḥ*)—the Maruts
+- पर्वतान् (*parvatān*)—the mountains
+- अपः (*apaḥ*)—the deities of the waters
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- ब्रह्मणस्पतिं (*brahmaṇaspatiṃ*)—Brahmaṇaspati
+- भगं (*bhagaṃ*)—Bhaga
+- शंसं (*śaṃsaṃ*)—the praiseworthy
+- सवितारं (*savitāraṃ*)—Savitṛ
+- हुवे (*huve*)—I call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra and Agni, Mitra and Varuṇa, Aditi and Āditya, Earth, the presiding deity of the heavenly world, the Maruts, the mountains, the deities of the waters, Viṣṇu, the god Pūṣan, Brahmaṇaspati, Bhaga and the praiseworthy Savitṛ, I call with prayer.
+
+### Printed p. 516
+
+##### English translation
+I invoke for protection Indra and Agni, Mitra and Varuna, Aditi, Swar, Earth, Heaven, the Maruts, the clouds, the waters, Vishnu, Pushan, Brahmanaspati, and Savitri.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ विष्णु॑रु॒त वातो॑ अ॒स्मिदो॑ द्रविणो॒दा उ॒त  
+> सोमो॒ मय॑स्करत् ।  
+> उ॒त ऋ॒भव॑ उ॒त रा॒ये नो॑ अ॒श्विनो॒त त्वष्टो॒त विभ्वानु॑  
+> मंसते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । विष्णुः । उत । वातः । अस्मिदः । द्रविणःदाः । उत । सोमः । मयः ।  
+> करत् ।  
+> उत । ऋभवः । उत । राये । नः । अश्विना । उत । त्वष्टा । उत । विभ्वा । अनु ।  
+> मंसते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च नोऽस्माकं विष्णुर्व्यापको देवो मयस्करत् । मय इति
+> सुखनाम ! सुखं करोतु । उतापि च वातो वायुरस्त्रिधोऽहिंसकः सन् मयस्करत् । किंच द्रविणोदा धनस्य दाता सोमोऽपि मयस्करत् । उतापि च ऋभवो
+> नोऽस्मभ्यं राये धनायानु मंसते । अनुमन्यंतां । उताश्विनाश्विन् च उत
+> त्वष्टा देव उत विभ्वा ऋभूणामन्यतमो देवः । एते सर्वेऽप्यनु मंसते । यद्वा!
+> अनुमंस्त इति प्रत्येकं संबंधनीयं ॥
+
+##### Gist of the bhāṣya
+
+And may Viṣṇu, the pervading god, make happiness for us. The word मय (*maya*) is a name for happiness: let him create happiness. And may Vāta, the wind, being non-injuring, create happiness. Further, Draviṇodā, the giver of wealth, Soma also creates happiness. And the Ṛbhus approve for us, for wealth: let them consent. Likewise the two Aśvins, the god Tvaṣṭṛ, and Vibhvan, who is one of the Ṛbhus: all these approve. Or else, "approves" is to be connected with each of them separately. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—or
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- अस्त्रिधः (*astridhaḥ*)—the non-injuring
+- वातः (*vātaḥ*)—the wind
+- द्रविणोदाः (*draviṇodāḥ*)—Agni, in the form of the giver of wealth
+- उत (*uta*)—and
+- सोमः (*somaḥ*)—Soma
+- मयः (*mayaḥ*)—happiness
+
+### Printed p. 517
+
+- नः (*naḥ*)—to us
+- करत् (*karat*)—may he produce
+- ऋभ्वः (*ṛbhvaḥ*)—the Ṛbhus
+- उत (*uta*)—and
+- अश्विना (*aśvinā*)—the Aśvin gods
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- उत (*uta*)—besides
+- विभ्वा (*vibhvā*)—Vibhvan
+- नः (*naḥ*)—our
+- राये (*rāye*)—for the sake of wealth
+- अनु मंसते (*anu maṃsate*)—may they favour
+
+##### भावार्थ (Bhāvārtha)
+
+May Viṣṇu, the non-injuring wind, Agni in the form of the giver of wealth, and Soma produce happiness for us. May the Ṛbhus and the Aśvin gods, Tvaṣṭṛ and Vibhvan favour us (approve) for the sake of wealth.
+
+##### English translation
+Or may Vishnu grant us felicity, or the innocuous wind, or Soma the bestower of riches; or may the Ribhus, the Aswins, Twashtri, or Vibhwan bɔ favaurably disposed to our enrichment.
+
+##### विशेषविषयगळु (Special Topics)
+
+विभ्वा (*vibhvā*)—Vibhvan is the second of the three Ṛbhus, Ṛbhu, Vibhva and Vāja. **NOTE** In this Ṛk the three are referred to by the word ऋभवः (*ṛbhavaḥ*), yet the name Vibhvan is read once again.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यन्नो॒ मारु॑तं॒ शर्ध॒ आ ग॑मुद्दिविक्ष॒यं य॑ज॒तं ब॒र्हिरा॒सदे॑ ।  
+> बृह॒स्पतिः॒ शर्म॑ पू॒षोत नो॑ यमद्वरू॒थ्यं१॒॑ वरु॑णो ॒ ॒॑
+> मित्रो अर्यमा ॥ ५ ॥
+
+### Printed p. 518
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यत् । नः । मारुतं । शर्धः । आ । गमत् । दिविक्षयं । यजतं । बर्हिः ।  
+> आसदे ।  
+> बृहस्पतिः । शर्म । पूषा । उत । नः । यमत् । वरूथ्यं । वरुणः । मित्रः ।  
+> अर्यमा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च त्यत्तन्मारुतं शर्धो मरुतां बलं संघो नोऽस्माना गमत् ।
+> आगच्छतु । कीदृशं तच्छर्धः ' दिविक्षयं द्युलोके वर्तमानं यजतं पूज्यं । किमर्थमागमनमिति तदुच्यते । बर्हिर्बर्हिष्यासद उपवेष्टुं । उपविश्य हविःस्वीकारायेत्यर्थः । किंच बृहस्पतिर्देवः शर्म सुखं यमत् । यच्छतु । उत नोऽस्मभ्यं
+> पूषापि यमत् । कीदृशं शर्म । वरूथ्यं । वारयति शीतवातादिकमिति वरूथं
+> गृहं । तदर्हं वरूथ्यं । किंच वरुणादयस्त्रयोऽपि प्रत्येकं शर्म यच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+And may that well-known host of the Maruts, the strength and company of the Maruts, come to us. What is it like? Dwelling in the heavenly world, and worthy of worship. Why does it come? That is said: to sit upon the sacred grass; that is, to sit down and accept the oblation. Further, may the god Bṛhaspati give happiness; and to us Pūṣan also is to give. What kind of happiness? Fit for a house: that which wards off cold wind and the like is a वरूथं (*varūthaṃ*), a house; what is worthy of it is वरूथ्यं (*varūthyaṃ*). Further, the three beginning with Varuṇa, each separately, are to give happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- दिविक्षयं (*divikṣayaṃ*)—that which dwells in the heavenly world, and
+- यजतं (*yajataṃ*)—that which is worthy of worship, and
+- त्यत् (*tyat*)—that which is well known
+- मारुतं शर्धः (*mārutaṃ śardhaḥ*)—the host of the Maruts
+- बर्हिः (*barhiḥ*)—upon the seat
+- आ सदे (*ā sade*)—to sit down
+- नः (*naḥ*)—towards us
+- आ गमत् (*ā gamat*)—may it come
+- उत (*uta*)—and
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- पूषा (*pūṣā*)—the god Pūṣan
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्र (*mitra*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- नः (*naḥ*)—to us
+- वरूथ्यं (*varūthyaṃ*)—pertaining to a house
+- शर्म (*śarma*)—happiness
+- यमत् (*yamat*)—may they give
+
+##### भावार्थ (Bhāvārtha)
+
+May the well-known host of the Maruts, dwelling in the heavenly world and worthy of worship, come to us to sit upon the sacred grass seat. May Bṛhaspati, the god Pūṣan, Varuṇa and Aryaman give us happiness pertaining to a house.
+
+##### English translation
+Or may the adorable, heaven-abiding company of the Maruts, come to us to take their seats on the sacred grass; or may Brihaspati, Pushan, Varuna, Mitra, Aryaman, bestow upon us domestic happiness.
+
+### Printed p. 519
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्ये नः॒ पर्व॑तासः सुश॒स्तयः॑ सुदी॒तयो॑ न॒द्य१॒ं॑स्त्राम॑णे  
+> भुवन् ।  
+> भगो॑ विभ॒क्ता शव॒साव॒सा ग॑मदुरु॒व्यचा॒ अदि॑तिः श्रोतु मे॒  ॑
+> हनं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्ये । नः । पर्वतासः । सुशस्तयः । सुदीतयः । नद्यः । त्रामणे । भुवन् ।  
+> भगः । विभक्ता । शवसा । अवसा । आ । गमत् । उरुऽव्यचाः । अदितिः । श्रोतु । मे ॥  
+> हवं । ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च तै ते पर्वतासः पर्ववंतोऽद्रयः सुशस्तयः शोभनस्तुतयः
+> किंच सुदीतयः सुदाना नद्यश्च त्रामणे पालनेऽस्माकं भुवन् । भवंतु । भगो
+> देवो विभक्ता धनानां विभागकर्ता दाता सन् शवसान्नेनावसा रक्षणेन च सहा
+> गमत् । आगच्छतु । उरुव्यचाः प्रभूतव्याप्तिरदितिरदीना देवमाता मे हवं
+> स्तुतिमाह्वानं वा श्रोतु । शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+And those well-known mountains, the jointed rocks, of good praise; and further the rivers, of good giving: may they be for our protection. May the god Bhaga, the apportioner of wealth, being a giver, come with food and with protection. May Aditi, of wide pervasion, undiminished, the mother of the gods, hear my call, that is, my praise or invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- त्ये (*tye*)—the well-known
+- पर्वतासः (*parvatāsaḥ*)—the clouds
+- सुशस्तयः (*suśastayaḥ*)—the highly praiseworthy
+- सुदीतयः (*sudītayaḥ*)—the generous-minded
+- नद्यः (*nadyaḥ*)—the rivers
+- नः (*naḥ*)—our
+- त्रामणे (*trāmaṇe*)—engaged in protection
+- भुवन् (*bhuvan*)—may they be
+- विभक्ता (*vibhaktā*)—the one with the power of distributing wealth
+- भगः (*bhagaḥ*)—Bhaga
+- शवसा (*śavasā*)—with food
+- अवसा (*avasā*)—also with protection
+- आ गमत् (*ā gamat*)—may he come
+- उरुव्यचाः (*uruvyacāḥ*)—of wide pervasion
+- अदितिः (*aditiḥ*)—Aditi
+- मे (*me*)—my
+- हवं (*havaṃ*)—call
+- श्रोतु (*śrotu*)—may she hear
+
+##### भावार्थ (Bhāvārtha)
+
+May the well-known clouds, and the highly praiseworthy, generous-minded rivers, be engaged in our protection. May Bhaga, who has the power of distributing wealth, come with food and with other protection. May Aditi, of wide pervasion, hear my call.
+
 ---
 
-**Progress note:** Done through printed p. 512. pp. 507-512: Ṛk 8 end, Ṛk 9-11 end of sūkta 45, sūkta 46 introduction and Ṛk 1
+**Progress note:** Done through printed p. 519. Ṛk 1 end to Ṛk 6, pp. 513-519
