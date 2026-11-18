@@ -22066,6 +22066,234 @@ Yāska has said that the indeclinable आ (*ā*) has many meanings and has made 
 
 (Ni. 1-3)
 
+### Printed p. 608
+
+From here onward, or all around, is the meaning. In आ पर्वतात् (*ā parvatāt*) the meaning is the regions beyond the mountain, or the regions around the mountain.
+
+एतस्मिन्नेवार्थे (समुच्चयार्थे) देवेभ्यश्च पितृभ्य एत्याकारः ॥ (*etasminnevārthe (samuccayārthe) devebhyaśca pitṛbhya etyākāraḥ ‖*) (Ni. 1.4)
+
+The meaning "and" (samuccaya: showing the connection between two words) also belongs to the word आ (*ā*). In the sentence देवेभ्यश्च पितृभ्य आ (*devebhyaśca pitṛbhya ā*) the word आ (*ā*) has just the meaning "and" that the word च (*ca*) has. That is, the sentence means "to the gods and to the fathers".
+
+नवोत्तराणि पदानि सर्वपदसमान्नाये । (*navottarāṇi padāni sarvapadasamānnāye |*) (Ni. 3-14)
+
+Nine words beginning with हिकं (*hikaṃ*) are included in the list called सर्वपदसमाम्नाय (*sarvapadasamāmnāya*). Among these words the word अ (*a*) also occurs. That is, the word आ (*ā*) is used merely to fill out a sentence, without any particular meaning.
+
+अथाप्युपमार्थे दृश्यते । जार आ भगं । (ऋ. सं. १०-११-६) जार इव भगं । आदित्योऽत्र जार उच्यते । रात्रेजरयिता । स एव भासां ॥ (*athāpyupamārthe dṛśyate | jāra ā bhagaṃ | (ṛ. saṃ. 10-11-6) jāra iva bhagaṃ | ādityo 'tra jāra ucyate | rātrejarayitā | sa eva bhāsāṃ ‖*) (Si, Pi.-13) **NOTE**
+
+The word आ (*ā*) is also used in the sense of comparison (likeness); that is, the word आ (*ā*) has the meaning of the word इव (*iva*). The sentence जार आ भगं (*jāra ā bhagaṃ*) means जार इव भगं (*jāra iva bhagaṃ*): the deity Bhaga, who is like the Sun (Āditya).
+
+आ । आ इत्याकार उपसर्गः पुरस्तादेव व्याख्यातः । अथाप्यध्यर्थे दृश्यते । अभ्र आ अपः । अभ्रे आ अपो sपोऽभ्रेऽधीति ॥ (*ā | ā ityākāra upasargaḥ purastādeva vyākhyātaḥ | athāpyadhyarthe dṛśyate | abhra ā apaḥ | abhre ā apo spo 'bhre 'dhīti ‖*) (Ni. 5-2)
+
+The word आ (*ā*) is a preposition (upasarga). Some of its meanings have been stated above. Besides these meanings, this word also has the meaning "above, over" (अधि (*adhi*)). For example, in अभ्र आ आपः (*abhra ā āpaḥ*) (Ṛ. Saṃ. 5-48.1) the meaning is the water that is above the cloud; and in तोदस्येव आ महस्य (*todasyeva ā mahasya*) (Ṛ. Saṃ. 1-150-1) also, the word आ (*ā*) has the meaning "above" (अधि (*adhi*)).
+
+### Printed p. 609
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते स्यं॒द्रासो॒ नोक्षणोऽति॑ स्कंदंति॒ शर्व॑रीः ।  
+> म॒रुता॒मधा॒ महो॑ दि॒वि क्ष॒मा च॑ मन्महे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । स्यंद्रासः । न । उक्षणः । अति । स्कंदंति । शर्वरीः ।  
+> मरुतां । अध । महः । दिवि । क्षमा । च । मन्महे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतः स्यंद्रासः स्यंदनशीला उक्षणो जलस्य सेक्तारत्थ । नेति चार्थे ।
+> यस्मात्स्यंद्रा अन्येषां तस्मात् शर्वरीः i शर्वयो रात्रयः । कालावयवानित्यर्थः।
+> तानति स्कंदंति । अतिक्रम्य गच्छंति । नित्या इत्यर्थः ! यस्मादेत एवंविधान्तस्मान्रुतामधाधुना महस्तेजो दिवि द्युलोके क्षमा क्षमायां भूमौ च वर्तमानं
+> मन्महे । स्तुमः ।
+
+##### Gist of the bhāṣya
+
+Those Maruts are flowing, that is, of a flowing nature, and sprinklers of water. The word न (*na*) is used in the sense of "and". **NOTE** The शर्वरीः (*śarvarīḥ*) are the nights, that is, the divisions of time. They go beyond these, pass over them: the meaning is that they are everlasting. Since they are of such a kind, we now praise the might (tejas) of the Maruts, which abides in the heaven-world above and on the earth below.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—the Maruts
+- स्यंद्रासः (*syaṃdrāsaḥ*)—who make (the world) wet with drizzles
+- उक्षणः (*ukṣaṇaḥ*)—who are sprinklers of water
+- शर्वरीः (*śarvarīḥ*)—the nights
+- अति स्कंदंति (*ati skaṃdaṃti*)—move on, transgressing (being free of the regulations of time) (therefore)
+- दिवि (*divi*)—in the heaven-world
+- क्षमा (*kṣamā*)—and on the earth
+- मरुतां (*marutāṃ*)—of the Maruts
+- महः (*mahaḥ*)—the might, which is spread out
+- आध (*ādha*)—now
+- मन्महे (*manmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts move about with their powers, making the world wet with drizzles and sprinkling water, and transgressing the regulations of time such as the nights. Therefore we now praise the might of the Maruts, which is spread out in the heaven-world and on the earth.
+
+##### English translation
+Gliding along, and shedding moisture, they pass through the nights: therefore we now celebrate the might of the Maruts, manifested in both heaven nad earth. **NOTE**
+
+### Printed p. 610
+
+##### विशेषविषयगळु (Special Topics)
+
+Because the movement of the Maruts is especially marked while rain is falling, that is, because the wind blows with great force, the Maruts are described here as sprinklers of water.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्सु॑ वो दधीमहि॒ स्तोमं॑ य॒ज्ञं च॑ धृष्णु॒या ।  
+> विश्वे॒ ये मानु॑षा यु॒गा पांति॒ मर्त्यं॑ रि॒षः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्सु । वः । दधीमहि । स्तोमं । यज्ञं । च । धृष्णुया ।  
+> विश्वे । ये । मानुषा । युगा । पांति । मर्त्यं । रिषः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्युहोत्रादयो वो यूयं मरुत्सु धृष्णुया धर्षकेषु
+> दधीमहि ॥ व्यत्ययेनोत्तमः ॥ धत्त । किं । स्तोमं स्तोत्रं यज्ञंच । इज्यतेऽनेनेति यज्ञं हविः । तदुभयं किमर्थं दीयत इति । ये मरुतो विश्वे सर्वेऽपि
+> मानुषा मानुषाणि युगा युगानि । सर्वेषु कालेष्टित्यर्थः । मर्त्यं मरणधर्माणं यजमानं रिषो हिंसकात्सकाशात्पांति रक्षंति ॥
+
+##### Gist of the bhāṣya
+
+Addressing the Adhvaryus, Hotṛs and others: "you" offer to the Maruts, who are assailants, that is, to the Maruts among the assailants. The first person दधीमहि (*dadhīmahi*) stands, by an interchange of person, for the imperative second person धत्त (*dhatta*), "offer". What is offered? Praise (stoma, hymn) and the sacrifice (यज्ञं (*yajñaṃ*)): that by which one sacrifices, namely the oblation. Why are both given? Because the Maruts, all the human ages, that is, at all times, protect the mortal sacrificer, one subject to death, from the harmful one who injures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts (O Adhvaryus)
+- विश्वे (*viśve*)—entire
+- मानुषा युगा (*mānuṣā yugā*)—throughout the life-spans of man
+- मर्त्यं (*martyaṃ*)—the human sacrificer
+- रिषः (*riṣaḥ*)—from the injuring enemy
+- पांति (*pāṃti*)—protect; to such
+- धृष्णया (*dhṛṣṇayā*)—who assail enemies **NOTE**
+- मरुत्तु (*maruttu*)—to the Maruts **NOTE**
+- वः (*vaḥ*)—you
+- स्तोमं (*stomaṃ*)—praise
+- यज्ञं च (*yajñaṃ ca*)—and the oblation
+- दधीमहि (*dadhīmahi*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, offer praise and oblation to those Maruts who assail enemies, and who through all the life-spans of man protect the human sacrificer from the injuring enemy.
+
+### Printed p. 611
+
+##### English translation
+We enjoin you, (priests), to offer earnestly praise and sacrifice to the Maruts, who through all human ages, protect the mortal worshipper from harm.
+
+##### विशेषविषयगळु (Special Topics)
+
+मानुषा युगा (*mānuṣā yugā*)—मानुषाणि युगानि । सर्वेषु कालेष्टित्यर्थः । (*mānuṣāṇi yugāni | sarveṣu kāleṣṭityarthaḥ |*) In the time that a man lives; the intention is, in the time that the sacrificer lives.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्हं॑तो॒ ये सु॒दान॑वो॒ नरो॒ असा॑मिशवसः ।  
+> प्र य॒ज्ञं य॒ज्ञिये॑भ्यो दि॒वो अ॑र्चा म॒रुद्भ्यः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्हंतः । ये । सुदानवः । नरः । असामिशवसः ।  
+> प्र । यज्ञं । यज्ञियेभ्यः । दिवः । अर्च । मरुत्स्भ्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होतः हे आत्मन्वा येऽर्हंतः पूज्याः सुदानवः शोभनदाना नरो
+> नेतारः कर्मणामसामिशवसोऽनल्पबलाः संति तेभ्यो यज्जियेभ्यो यज्ञाहर्हेभ्यो दिवो द्योतमानेभ्यो मरुद्भ्यः ॥ विभक्तिवचनयोर्व्यत्ययः ॥ यद्वा कर्मणि
+> षष्ठी ॥ दीप्तं यज्ञं यज्ञसाधनं हविः प्रार्च । पूजय । प्रयच्छेत्यर्थः । अथवा
+> दिवोऽंतरिक्षादागतेभ्य इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Addressed to the Hotṛ, or to oneself (आत्मन् (*ātman*)): the Maruts who are worthy of worship, bountiful in giving, leaders of rites, and of no small strength: to those Maruts, worthy of the sacrifice and shining, offer the sacrifice. Case-endings and number are interchanged here; or else the genitive stands in the sense of the object. "The shining sacrifice" is the oblation, the means of the sacrifice: प्रार्च (*prārca*) means present, offer. Or else the connection is "to those come from the heaven, that is, from the atmosphere".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts (O Hotṛ)
+- अर्हंतः (*arhaṃtaḥ*)—who are worthy of worship
+- सुदानवः (*sudānavaḥ*)—who have an excellent disposition to give
+- नरः (*naraḥ*)—who are leaders of rites
+- असामिशवसः (*asāmiśavasaḥ*)—who have exceedingly great strength; to such
+- यज्ञियेभ्यः (*yajñiyebhyaḥ*)—to those worthy of the sacrifice
+- दिवः (*divaḥ*)—and shining
+- मरुद्भ्यः (*marudbhyaḥ*)—the Maruts, addressing them
+- यज्ञं (*yajñaṃ*)—the oblation
+- प्र अर्च (*pra arca*)—offer in abundance
+
+### Printed p. 612
+
+##### भावार्थ (Bhāvārtha)
+
+O Hotṛ, offer the oblation with devotion to those Maruts who are worthy of the sacrifice and shining, who are worthy of worship, have an excellent disposition to give, are leaders of rites, and have exceedingly great strength.
+
+##### English translation
+Offer sacrifice to the adorable Maruts, who (have come) from heaven who are worthy of worship, munificent leaders (of rites), and possessors of unequalled strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+असामिशवसः (*asāmiśavasaḥ*)—अनल्पबलाः (*analpabalāḥ*). Not small, that is, having abundant strength, is the meaning. Yāska has given the etymology of the word असामि (*asāmi*) in this way:
+
+असामि । बृहस्पतिं वर्धय नव्यमर्कैरर्चनीयैः स्तोमैरसामि सामि प्रतिषिद्धं । सामि स्यतेः । असाम्योजो बिभृथा सुदानवः । अनुसमाप्तं बलं बिभृत कल्याणदानाः ॥ (*asāmi | bṛhaspatiṃ vardhaya navyamarkairarcanīyaiḥ stomairasāmi sāmi pratiṣiddhaṃ | sāmi syateḥ | asāmyojo bibhṛthā sudānavaḥ | anusamāptaṃ balaṃ bibhṛta kalyāṇadānāḥ ‖*) (Ni. 6-23)
+
+The word सामि (*sāmi*), formed from the root स्यति (*syati*) ("kill"), means that which brings to an end, that which is small. When the negative prefix अ (*a*) joins this word, असामि (*asāmi*) results. Therefore the word असामि (*asāmi*) has the meaning opposed to that of the word सामि (*sāmi*), which has the meaning "small". So for the word असामि (*asāmi*) one may give the meaning "not small", that is, "very great". In the illustrative sentences given here by the author of the Nirukta, बृहस्पतिं वर्धय नव्यमर्कैरसामि (*bṛhaspatiṃ vardhaya navyamarkairasāmi*) and असाम्योजो बिभृथा सुदानवः (*asāmyojo bibhṛthā sudānavaḥ*), the meaning of the word असामि (*asāmi*) is "great, abundant".
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रु॒क्मैरा यु॒धा नर॑ ऋ॒ष्वा ऋ॒ष्टीर॑सृक्षत ॥  
+> अन्वे॑ना॒ अह॑ वि॒द्युतो॑ म॒रुतो॒ जज्ञ॑तीरव भा॒नुर॑र्त॒ त्मना॑  ॒
+> दिवः ॥ ६ ॥
+
+### Printed p. 613
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रुक्मैः । आ । युधा । नरः । ऋष्वाः । ऋष्टीः । अस्पृश्यत ।  
+> अनु । एनान् । अह । विद्युतः । मरुतः । जज्ञतीः इव । भानुः । अर्त । त्मना ।  
+> दिवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो वृष्टेर्नेतार ऋष्टा महांतो मरुतो रुक्मै रोचमानैराभरणविशेषैरा रोचंत इति शेषः ॥ उपसर्गश्रुतेः संगतक्रियाध्याहारः ॥ तथा युधा
+> प्रहरणसाधनेनायुधेना रोचंते । एते मरुत ऋष्टिरायुधविशेषानसृक्षत ।
+> प्रक्षिपंति मेघभेदार्थं । एनान्मरुतो विद्युतोऽपि जझुतीरिन शब्दकारिण्य आप
+> इव । जझुतीरापो भवंति शब्दकारिण्यः । नि-६-१६ । इति निरुक्तं । अन्वह अनुगच्छंत्ये व । दिवो द्योतमानस्य मरुद्धणस्य भानुर्दीप्तिस्त्मना स्वयमेवार्त ।
+> निरगात् ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, leaders of the rain, mighty, shine with brilliant ornaments of various kinds; "they shine" is the word to be supplied, because the preposition आ (*ā*) is heard (the verb is understood from the preposition). Likewise they shine with a weapon, an instrument of striking. These Maruts hurl the spears, a special kind of weapon, to split the cloud. Their lightnings also follow them, like noisy waters. The Nirukta says: जझुतीरापो भवंति शब्दकारिण्यः (*jajhutīrāpo bhavaṃti śabdakāriṇyaḥ*) (Ni-6-16) **NOTE**. The lightnings follow the shining host of Maruts; the radiance of the host came forth of itself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—the leaders
+- ऋष्टाः (*ṛṣṭāḥ*)—the great-souled Maruts
+- रुक्मैः (*rukmaiḥ*)—with their golden ornaments
+- आ (रोचंते) (*ā (rocaṃte)*)—shine
+- युधा (*yudhā*)—with a weapon, an instrument of striking
+- आ (*ā*)—shine
+- ऋष्टीः (*ṛṣṭīḥ*)—their spears
+- असृक्षत (*asṛkṣata*)—hurl (at their enemies)
+- एनान् मरुतः (*enān marutaḥ*)—these Maruts
+- विद्युतः (*vidyutaḥ*)—the lightnings
+- जज्ञतीरिव (*jajñatīriva*)—like streams of water flowing with a noise
+- अनु अह (*anu aha*)—certainly follow
+- दिवः (*divaḥ*)—of the shining host of Maruts
+- भानुः (*bhānuḥ*)—the radiance
+- त्मना अर्त (*tmanā arta*)—becomes self-luminous
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, leaders and great-souled, shine with their golden ornaments and with their weapons of striking. They hurl their spears at their enemies. These lightnings follow the Maruts constantly, like waters flowing with a noise. The radiance of the shining host of Maruts is self-luminous.
+
+##### English translation
+Leaders (of the rains), the mighty Maruts shine with brilliant ornaments and weapons, and hurl javelin (at their foes, the clouds): the
+
 ---
 
-**Progress note:** Done through printed p. 607. Sukta 52 intro continued (Marut deities), sukta 52 Rks 1-2
+**Progress note:** Done through printed p. 613. Mandala 5 sukta 52 rks 3-6 (start), pp. 608-613
