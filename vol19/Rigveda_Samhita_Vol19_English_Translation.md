@@ -6729,6 +6729,314 @@ The Ṛk उशना यत्सहस्यै (*uśanā yatsahasyai*) belong
 
 O Indra, when you and Uśanas, joining together, went to the house of Kutsa with horses that have the power to resist enemies and are swift, you went, destroying your enemies, seated in one chariot with Kutsa and the other gods. And you also harmed the Asura named Śuṣṇa.
 
+### Printed p. 170
+
+##### English translation
+When, Indra, you and Ushanas, with vigorous and rapid coursers went to the dwelling of Kutsa, then, destroying his foes, you went in one chariot with Kutsa and the gods, and verily you have slain Sushna.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the Stoma of Uśanas is recited, this ninth Ṛk of the sūkta, उशना यत्सहस्यैः (*uśanā yatsahasyaiḥ*), is to be recited as the first Ṛk among the Marutvatīya śastra mantras; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, उशनसस्तोमेन गरगीर्णमिवात्मानं मन्यमानो यजेतोशना यत्सहस्यैरयातं (*uśanasastomena garagīrṇamivātmānaṃ manyamāno yajetośanā yatsahasyairayātaṃ*) (Ā. Sū. 9-5).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रान्यच्च॒क्रम॑वृहः॒ सूर्य॑स्य॒ कुत्सा॑या॒न्यद्वरि॑वो॒ यात॑वेकः।  
+> अ॒नासो॒ दस्यू॑रमृणो व॒धेन॒ नि दु॑र्यो॒ण आ॑वृणङ्मृ॒ध्रवा॑चः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अन्यत् । चक्रं । अवृहः । सूर्यस्य । कुत्साय । अन्यत् । वरिवः । यातने ।  
+> अकरित्यकः ।  
+> अनासः । दस्यून् । अमृणः । वधेन । नि । दुर्योणे । अवृणक् । मृध्रवाचः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूर्वं द्विचक्रस्य सूर्यस्यान्यदेकं चक्रं प्रावृहः । पृथक्
+> चकर्थ । अन्यदेकं चक्रं कुत्साय कुत्सस्य वरिवो धनं यातवे प्राप्तुमकः ।
+> अकार्षिः । किंच अनास आस्यरहितान् । अस्यशब्देन शब्दोलक्ष्यते । अशब्दान्यूकान्
+> दस्युनसुरान् वधेनायुधेन वज्रेणामृणः । अहिंसीः । दुर्योणे संग्रामे
+> मृध्रवाचो हिंसितवागिंद्रियानसुरान्नृणक् । नितरां भिन्नवानसि । अमृणो
+> न्यवृणगिति द्विरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of the two-wheeled chariot of Sūrya you formerly took away one wheel and set it apart; the other wheel you made over to Kutsa, that he might attain wealth (वरिवः (*varivaḥ*) is wealth). Further, the Dasyus, the Asuras, are अनासः (*anāsaḥ*), without a mouth; by the word for mouth, sound is meant, so they are soundless and dumb. These you killed with your weapon, the thunderbolt. In the battle (दुर्योणे (*duryoṇe*)) you utterly split the Asuras whose organ of speech is harmed **NOTE**. The doubling of the verbs अमृणः (*amṛṇaḥ*) and न्यवृणगिति (*nyavṛṇagiti*) is for emphasis.
+
+### Printed p. 171
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यस्य (*sūryasya*)—(O Indra,) of Sūrya (of the chariot with two wheels)
+- अन्यत् चक्रं (*anyat cakraṃ*)—one wheel
+- प्र आवृकः (*pra āvṛkaḥ*)—you set apart
+- अन्यत् (*anyat*)—the other
+- कुत्साय (*kutsāya*)—to Kutsa
+- वस्विः (*vasviḥ*)—wealth
+- यातवे (*yātave*)—for obtaining
+- अकः (*akaḥ*)—you made it a help
+- अनासः (*anāsaḥ*)—who were without a mouth and dumb
+- दस्यून् (*dasyūn*)—the Asuras
+- वधेन (*vadhena*)—with the thunderbolt, the means of killing
+- अमृणः (*amṛṇaḥ*)—you harmed
+- दुर्योणे (*duryoṇe*)—in battle
+- मृध्रवाचः (*mṛdhravācaḥ*)—the Asuras whose speech is harmful
+- नि अवृणक् (*ni avṛṇak*)—you have cut through completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of the two wheels of Sūrya's chariot you set one apart; the other you made a help to Kutsa for obtaining wealth. With the thunderbolt, the means of killing, you harmed the Asuras who were without a mouth and dumb. In battle you have cut through completely the Asuras whose speech is harmful.
+
+##### English translation
+You have formerly detached one wheel (of the car) of Surya : another you have given to Kutsa wherwith to acquire wealth : with the thunderbolt you have confounded the voiceless Dasyus, you have destroyed in battle the speech-bereft (foes).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमा॑सस्त्वा॒ गौरि॑वीतेरवर्ध॒न्नरं॑धयो वैदथि॒नाय॒ पिपुं॑।  
+> आ त्वामृ॒जिश्वा॑ स॒ख्याय॑ चक्रे॒ पच॑न्प॒क्तीरपि॑बः॒ सोम॑मस्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोमासः । त्वा । गौरिऽवीतेः । अवर्धन् । आरंधयः । वैदथिनाय । पिपुं ।  
+> आ । त्वां । ऋजिश्वा । सख्याय । चक्रे । पचन् । पक्तिः । अपिबः सोमं । अस्य ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गौरिवीतेरेतन्नामकस्य मंत्रद्रष्टुर्मम संबंधीनि स्तोमासः
+> स्तोत्राणि त्वा त्वामवर्धन् । वर्धयंतु । वैदथिनाय विदथिनः पुत्राय यजिश्व-
+
+##### Gist of the bhāṣya
+
+O Indra, the praises that belong to me, the seer named Gauriviti, increase you; let them make you grow. You brought the Asura named Pipru under the power of Ṛjiśvan, the son of Vidathin.
+
+### Printed p. 172
+
+> नाम्ने पिप्रमेतन्नामकमसुरनुरंधयः । वशमनयः । हे इंद्र ऋजिश्वनामा
+> कश्चिदृषिः सख्याय तव सखित्वाय पक्तिः पक्तन्यानि पुरोडाशादीनि पचन् पाकं
+> कुर्वन् त्वामा चक्रे । अभिमुखीचकार । किंच त्वमस्य ऋजिश्वनः संबंधिनं
+> सोममपिबः । असाः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, a certain seer named Ṛjiśvan, for the sake of your friendship, cooking the offerings fit for cooking, the cakes (puroḍāśa) and the like, has turned you towards himself. And you drank the Soma of this Ṛjiśvan.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गौरिवीतेः (*gaurivīteḥ*)—(O Indra,) made by me, who am named Gauriviti
+- स्तोमासः (*stomāsaḥ*)—the praises
+- त्वा (*tvā*)—you
+- अवर्धन् (*avardhan*)—let them make you grow
+- वैदथिनाय (*vaidathināya*)—for Ṛjiśvan, the son of Vidathi
+- पिपुवं (*pipuvaṃ*)—the Asura named Pipu
+- आरंधयः (*āraṃdhayaḥ*)—you brought under his power
+- ऋजिश्वा (*ṛjiśvā*)—that same seer
+- सख्याय (*sakhyāya*)—to win your friendship
+- पक्तिः (*paktiḥ*)—the cakes and the like that are fit for cooking
+- पचन् (*pacan*)—cooking
+- त्वां (*tvāṃ*)—you
+- आ चक्रे (*ā cakre*)—has turned towards himself
+- त्वं (*tvaṃ*)—you
+- अस्य (*asya*)—of Ṛjiśvan
+- सोमं (*somaṃ*)—the Soma
+- अपिबः (*apibaḥ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the praises made by me, who am named Gauriviti, make you grow. For Ṛjiśvan, the son of Vidathi, you brought the Asura named Pipu under his power. That same Ṛjiśvan, to win your friendship, cooking the cakes and the like that are fit for cooking, has turned you towards himself. Drink his Soma.
+
+##### English translation
+May the praises of Gauriviti exalt you ; you have humbled Pipru for the son of Vidathin : Rijishwan preparing dressed viands, has, through your friendship, brought you (to his presence), and you have drunk of his libation.
+
+#### Ṛk 12
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नव॑ग्वासः सु॒तसो॑मास॒ इंद्रं॒ दश॑ग्वासो अ॒भ्य॑र्चंत्य॒र्कैः ।  
+> गव्यं॑ चिदू॒र्वम॑पि॒धान॑वंतं॒ तं चि॒न्नरः॑ शशमा॒ना अप॑व्रन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नवग्वासः । सुतसोमासः । इंद्रं । दशग्वासः । अभि । आर्चंति । अर्कैः ।  
+> गव्यं । चित् । ऊर्वं । अपिधानवंतं । तं । चित् । नरः । शशमानाः । अप । व्रन् ॥
+
+### Printed p. 173
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशपेयेऽहनि मरुत्वतीये शस्त्रे नवग्वास इति सूक्तमुखीया । सूत्रितं च ।
+> नवग्वासः सुतसोमास इंद्रं सखा ह यत्र सखिभिर्नवग्वैरिति निविद्वानयोराद्ये ।
+> आ. ९. ३ । इति ॥
+> नवग्वासः । सत्रयागमनुतिष्ठंतो ये नवभिर्मास्यॆ: समाप्य गतास्ते
+> नवग्वाः । दशभिर्मास्यॆ: समाप्य ये गतास्ते दशग्वाः । एत उभयविधा अंगिरसः
+> सुतसोमासोऽभिषुतसोमाः संत इंद्रमर्कैरर्चनीयैः स्तोत्रैरभ्यर्चंति ।
+> अभिष्णुवंति । तथा शशमानाः स्तुवंतो नरो नेतारोऽंगिरसोऽपिधानवंतं वलेनासुरेणाच्छादितवंतं तं चित् बहुषु प्रदेशेषु प्रसिद्धमपि गव्यंचित् गोसंबंधि!
+> नमष्यपूर्वं समूहमप व्रन् । अपावृण्वन् ॥
+
+##### Gist of the bhāṣya
+
+On the day of the Daśapeya, in the Marutvatīya śastra, the Ṛk नवग्वासः (*navagvāsaḥ*) is the sūktamukhīya, the opening verse of the sūkta. The sūtra says so: नवग्वासः सुतसोमास इंद्रं सखा ह यत्र सखिभिर्नवग्वैरिति निविद्वानयोराद्ये । (*navagvāsaḥ sutasomāsa iṃdraṃ sakhā ha yatra sakhibhirnavagvairiti nividvānayorādye |*) (Ā. Sū. 9-3). Those who perform a sattra sacrifice and go home having completed it in nine months are the navagvas; those who go having completed it in ten months are the daśagvas. These two kinds of Aṅgirases, having pressed the Soma, worship Indra with arkas, that is, with hymns fit for worship; they praise him. Likewise the praising leaders, the Aṅgirases, opened up the herd of cattle, well known in many places, which Vala the Asura had covered **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नवग्वासः (*navagvāsaḥ*)—those who complete the sacrifice in nine months
+- दशग्वासः (*daśagvāsaḥ*)—the sons of Aṅgiras who complete it in ten months
+- सुतसोमासः (*sutasomāsaḥ*)—holding the pressed Soma juices
+- इंद्रं (*iṃdraṃ*)—Indra
+- अर्कैः (*arkaiḥ*)—with hymns
+- अभ्यर्चंति (*abhyarcaṃti*)—praise and worship
+- शशमानाः (*śaśamānāḥ*)—those who worship Indra
+- नरः (*naraḥ*)—the Aṅgirases, who are also leaders
+- ऊर्वं (*ūrvaṃ*)—in the form of a mass
+- गव्यं चित् (*gavyaṃ cit*)—that was filled with cattle
+- अपिधानवंतं (*apidhānavaṃtaṃ*)—that was covered (by Vala)
+- तं (*taṃ*)—the cave
+- अप व्रन् (*apa vran*)—became able to open
+
+##### भावार्थ (Bhāvārtha)
+
+The sons of Aṅgiras, known as navagvas and daśagvas, ready to press the Soma juice and offer it to Indra, worship him with praises. The Aṅgirases, who praise Indra and are his leaders, became able to open the cave that was filled with a mass of cattle and covered by Vala.
+
+##### English translation
+The observers of the nine month's celebration, those of the ten months, pouring out libations, worship Indra with hymns : the leaders (of rites), glorifying him have set open the cave (concealing the cattle).
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of the Soma-drinking of the sacrifice called Daśapeya, when the Marutvatīya śastra mantras are recited, this Ṛk नवग्वासः (*navagvāsaḥ*) is to be recited as the opening Ṛk of the sūkta; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, in the aphorism
+
+### Printed p. 174
+
+नवग्वासः सुतसोमास इंद्रं सखा ह यत्र सखिभिर्नवगैरिति निविद्दानयोराद्ये (*navagvāsaḥ sutasomāsa iṃdraṃ sakhā ha yatra sakhibhirnavagairiti nividdānayorādye*) (Ā. Sū. 9-3).
+
+Among the Aṅgirasa seers it is the custom to call those who finish a sattra sacrifice and attain success in nine months navagva, and those who finish it in ten months daśagva. We have already explained the meaning of the words navagva and daśagva in Ṛ. Saṃ., Part 6, p. 24.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒थो नु ते॒ परि॑ चराणि वि॒द्वान्वी॒या॑ मघव॒न्या च॒कर्थ॑ ।  
+> या चो॒ नु नव्या॑ कृ॒णवः॑ शविष्ठ॒ प्रेदु॒ ता ते॑ वि॒दथे॑षु  
+> ब्रवाम ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथो इति । नु । ते । परि । चराणि । विद्वान् । वीर्या । मघवन् । या । चकर्थ ।  
+> या । चो इति । नु । नव्या । कृणवः । शविष्ठ । प्र । इत् । ऊं इति । ता । ते ।  
+> विदथेषु । ब्रवाम ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परिक्रीनाम्मेकाहे मरुत्वतीयनिष्केवल्ययोः सूक्तमुखीये कथो नु त
+> इत्याद्ये द्वे ऋचौ । सूत्रितं च । कथो नु ते परि चराणि विद्वानिति द्वे ।
+> आ. ९-५. । इति ॥
+> हे मघवन् धनवन्निंद्र त्वं या यानि वीर्या वीर्याणि चकर्थ चकृषे
+> अहं तानि वीर्याणि विद्वान् जानन् ते तुभ्यं कथो नु कथं नु परि चराणि ।
+> परिचर्यां करवाणि । हे शविष्ठ बलवत्तमेंद्र त्वं या चो यानि चैव नव्या
+> नव्यानि नूतनानि वीर्याणि नु क्षिप्रं कृणवः कुर्याः ते तद्वियानि ता तानि
+> वीर्याणि विदथेषु यज्ञेषु प्रेदु ब्रवाम । प्रैव वदाम ॥
+
+##### Gist of the bhāṣya
+
+In the one-day rite called Parikrī, in the Marutvatīya and the Niṣkevalya, the first two Ṛks, कथो नु त (*katho nu ta*), are the sūktamukhīya. The sūtra says so: कथो नु ते परि चराणि विद्वानिति द्वे (*katho nu te pari carāṇi vidvāniti dve*) (Ā. Sū. 9-5). O wealthy Indra, knowing those heroic deeds which you have done, how shall I serve you, that is, perform service to you? O strongest Indra, whatever new heroic deeds you quickly do, those deeds of yours we shall proclaim at the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- या (*yā*)—which
+- वीर्या (*vīryā*)—heroic deeds
+- चकर्थ (*cakartha*)—you have accomplished, those
+- विद्वान् (*vidvān*)—knowing
+- ते (*te*)—to you
+
+### Printed p. 175
+
+- कथो नु (*katho nu*)—in what way
+- परि चराणि (*pari carāṇi*)—can I offer worship
+- शविष्ठ (*śaviṣṭha*)—O Indra, endowed with the greatest strength
+- या चो (*yā co*)—whichever
+- नव्या (*navyā*)—new heroic deeds
+- नु (*nu*)—quickly
+- कृणवः (*kṛṇavaḥ*)—you do
+- ते (*te*)—of you, such
+- तानि (*tāni*)—all those heroic deeds
+- विदथेषु (*vidatheṣu*)—at the sacrifices
+- प्रेदु ब्रवाम (*predu bravāma*)—we praise and proclaim
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, knowing fully the nature of the heroic deeds that you have accomplished, in what way can I offer worship to you? O Indra, endowed with the greatest strength, whichever new heroic deeds you do, all those heroic deeds of yours I shall praise and proclaim at the sacrifices.
+
+##### English translation
+Although, knowing the heroic acts which, Maghavan, you ahve performed, how may I adequately offer you adoration ? most mighty Indra, we ever celebrate at sacred rites the recent exploits which you have achieved.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the one-day rite called Parikrī, in the Marutvatīya and Niṣkevalya śastra mantras, this Ṛk कथो नु ते (*katho nu te*) and the next Ṛk are to be recited as the opening mantras; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, कथो नु ते परि चराणि विद्वानिति द्वे (*katho nu te pari carāṇi vidvāniti dve*) (Ā. Sū. 9-5).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता विश्वा॑ चकृ॒वा इं॑द्र॒ भूर्यप॑रीतो ज॒नुषा॑ वी॒र्ये॑ण।  
+> या चि॒न्नु व॑ज्रिन्कृ॒णवो॑ दधृ॒ष्टान्न ते॑व॒र्ता तवि॑ष्या आस्ति॒  ॑
+> तस्याः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । विश्वा । चकृऽवान् । इंद्र । भूरि । अपरिऽइतः । जनुषा । वीर्येण ॥  
+> या । चित् । नु । वज्रिन् । कृणवः । दधृष्णान् । न । ते । वर्ता । तविष्याः । अस्ति ।  
+> तस्याः ॥ १४ ॥
+
+### Printed p. 176
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अपरीतः शत्रुभिरपरिगतस्त्वं जनुषा जननसिद्धेनात्मीयेन वीर्येण
+> बलेन भूरि भूरीणि बहून्येतैतानि प्रत्यक्षेणोपलभ्यमानानि विश्वा विश्वानि व्याप्तानि
+> भुवनजातानि चकृवान् । कृतवानसि । हे वज्रिन् वज्रवन्निंद्र दधृष्टान् सपश्नानर्षयंस्त्वं नु क्षिप्रं या चिद्यानि च विश्वानि कृणवः कुर्याः ते त्वदीयस्य तस्यास्तविष्यास्तस्य बलस्य वर्ता निवारयिता न कोऽप्यस्ति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, unencompassed by your foes, by your innate strength you have made all these many things, which are perceived plainly, all that is pervasive and born in the worlds. O wielder of the thunderbolt, Indra, who bring your rivals low, whatever you quickly do, there is no one at all who can check that strength of yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अपरीतः (*aparītaḥ*)—without opposition from anyone
+- जनुषा (*januṣā*)—by your innate
+- वीर्येण (*vīryeṇa*)—strength
+- भूरि (*bhūri*)—abundant
+- एता (*etā*)—plainly perceived
+- विश्वा (*viśvā*)—the whole universe
+- चकृवान् (*cakṛvān*)—you have made
+- वज्रिन् (*vajrin*)—O Indra, who hold the thunderbolt
+- दधृष्टान् (*dadhṛṣṭān*)—you who destroy your enemies
+- नु (*nu*)—quickly
+- या चित् (*yā cit*)—whatever deeds
+- कृणवः (*kṛṇavaḥ*)—you do
+- ते (*te*)—of you, such
+- तस्याः तविष्याः (*tasyāḥ taviṣyāḥ*)—to that very power
+- वर्ता (*vartā*)—an obstructer
+- न अस्ति (*na asti*)—there is none
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, without anyone's opposition, by your innate strength alone you have made the whole universe, abundant and plainly perceived by all. O Indra, who hold the thunderbolt, you who destroy your enemies, whatever deeds you quickly do, there is no one who can obstruct that very power of yours.
+
+##### English translation
+Unmatched (by any), you have done, Indra, all these many ( deeds ) by your innate energy : wielder of the thunderbolt, whatever you, the humbler of (foes), have undertaken, there is no one the arrester of this your prowess.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ ब्रह्म॑ क्रि॒यमा॑णा जुषस्व॒ या ते॑ शविष्ठ॒ नव्या॒ अक॑र्म ।  
+> वस्त्रे॑व भ॒द्रा सुकृ॑ता वसू॒यू रथं॒ न धीरः॒ स्वपा॑ अतक्षं ॥
+
 ---
 
-**Progress note:** Done through printed p. 169. Sūkta 29 Ṛks 5-9 (pp. 164-169)
+**Progress note:** Done through printed p. 176. Sūkta 29 Ṛks 10-15 (pp. 170-176)
