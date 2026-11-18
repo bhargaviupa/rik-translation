@@ -2688,6 +2688,315 @@ In this Ṛk the companionship of Indra and Vāyu is described. In many contexts
 आसस्यवांसोऽभिबलायमानमिंद्रं कल्याणचक्रे रथे योगाय रथ्या अश्वा रथस्य वोढार ऋज्यंत ऋजुगामिनोऽन्नमभिवहेयुर्नवं च पुराणं च । श्रव इत्यन्ननाम श्रूयत इति सतः । वायोश्चास्य भक्षो यथा न विदस्येदिति । इंद्रप्रधानेत्येके नैघुंटुकं नायुकर्मोभयप्रधानेत्यपरं ॥ (*āsasyavāṃso 'bhibalāyamānamiṃdraṃ kalyāṇacakre rathe yogāya rathyā aśvā rathasya voḍhāra ṛjyaṃta ṛjugāmino 'nnamabhivaheyurnavaṃ ca purāṇaṃ ca | śrava ityannanāma śrūyata iti sataḥ | vāyoścāsya bhakṣo yathā na vidasyediti | iṃdrapradhānetyeke naighuṃṭukaṃ nāyukarmobhayapradhānetyaparaṃ ‖*)
 (Ni. 10-3)
 
+### Printed p. 63
+
+That is: the horses that draw Indra's chariot, ever moving about, bring Indra, who is exceedingly mighty and sits in the chariot with excellent wheels, to partake of the old and the new food (the Soma). Indra's horses are by nature ones that go straight, that is, without turning this way or that, only facing forward. The intention is: that the Soma juice prepared for Indra may not dry up and be wasted through the drying power of the wind, may the horses bring Indra here quickly and straight. The word श्रवः (*śravaḥ*) is a synonym among the names of food. Because food is well known, food is also called श्रवः (*śravaḥ*). May the Soma not dry up and be wasted through the drying power of the wind. Some hold that in this Ṛk the matter of Indra is presented as the principal one; others hold that it is the action of Vāyu that is presented, and that both are praised.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वरि॑ष्ठो अस्य॒ दक्षि॑णामिय॒र्तींद्रो॑ म॒घोनां॑ तुविकू॒र्मित॑मः ।  
+> यया॑ वज्रवः परि॒यास्यंहो॑ म॒घा च॑ धृष्ट्णो॒ दय॑से॒ वि  ॒
+> सूरीन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरिष्ठः । अस्य । दक्षिणां । इयर्ति । इंद्रः । मघोनां । तुविकूर्मितमः ।  
+> यया । वज्रीवः । परियासि । अंहः । मघा । च । धृष्णो इति । दयसे । वि ।  
+> सूरीन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरिष्ठ उरुतमस्तुविकूर्मितमोऽतिशयेन बहुविधकर्मेंद्रो मघोनां
+> मघवतां हनिर्लक्षणधनोपेतानां मध्येऽस्य यजमानस्य दक्षिणां यज्ञे
+> दातव्यामियर्ति । प्रेरयति । यद्वा । मघोनामित्यस्येत्यनेन समानाधिकरणं ॥
+> वचनव्यत्ययः ॥ मघोनो हविष्मतोऽस्य यजमानस्येत्यर्थः । शेषः प्रत्यक्षकृतः ।
+> हे वज्रिवो वज्रवन्निद्र यया दक्षिणया दत्तयांहः पापं यज्ञसंबंधि परियासि
+> विनाशयसि हे धृष्टो धर्षक मघा मघानि धनानि सूरीन् स्तोत्थान् पुत्रांश्च
+> यया च दक्षिणया वि दयसे प्रयच्छसि तादृशीं दक्षिणां प्रेरयसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra is वरिष्ठ (*variṣṭha*), the most excellent, and तुविकूर्मितमः (*tuvikūrmitamaḥ*), one who performs exceedingly many kinds of deeds. Among the wealthy (मघोनां (*maghonāṃ*), those possessed of wealth in the form of oblations) he sends forth (इयर्ति (*iyarti*), impels) the fee (दक्षिणां (*dakṣiṇāṃ*)) that is to be given at the sacrifice of this sacrificer. Or else: मघोनां (*maghonāṃ*) agrees with अस्य (*asya*) through a change of number, so that the sense is: of this sacrificer, who is rich in oblations; the rest is evident. O wielder of the thunderbolt, by the fee given you remove the sin connected with the sacrifice (परियासि (*pariyāsi*) means: you destroy it). O bold one, the destroyer of enemies, with which fee you grant riches and सूरीन् (*sūrīn*), praisers and sons, such a fee you send forth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—O wielder of the thunderbolt
+- धृष्णो (*dhṛṣṇo*)—and humbler of the pride of enemies, O Indra
+- यया (*yayā*)—with which wealth
+- अ०हः (*a0haḥ*)—sin
+- परियासि (*pariyāsi*)—you destroy (and)
+- यया (*yayā*)—by which act of giving
+- मघा (*maghā*)—riches
+- सूरीन् (*sūrīn*)—and sons who are praisers
+- वि दयसे (*vi dayase*)—you favour; such
+- दक्षिणां (*dakṣiṇāṃ*)—wealth fit to be given
+- मघोनां (*maghonāṃ*)—among the wealthy
+- अस्य (*asya*)—to this sacrificer
+- वरिष्ठः (*variṣṭhaḥ*)—most excellent
+- तुविकूर्मितमः (*tuvikūrmitamaḥ*)—doer of manifold deeds
+- इंद्रः (*iṃdraḥ*)—and lord of all, you
+- इयर्ति (*iyarti*)—provide
+
+### Printed p. 64
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt and humbler of enemies, by what giving of wealth you destroy sin, and by what act of giving you favour us with riches and with sons who are praisers, such wealth fit to be given you, the most excellent, the doer of manifold deeds, the lord of all, provide for this sacrificer among the wealthy.
+
+##### English translation
+The very strong Indra, the performer of many great deeds, instigates the donation of this (institutor of the ceremony) amongst the opulent, whereby, wielder of the thunderbolt, you remove sin, and, firm of purpose, bestow riches upon the worshippers.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ वाज॑स्य॒ स्थवि॑रस्य दा॒तेंद्रो॑ गी॒र्भिर्व॑र्धतां वृ॒द्धम॑हाः ।  
+> इंद्रो॑ वृ॒त्रं हनि॑ष्ठो अस्तु॒ सत्वा ता सू॒रिः पृ॑णति॒ तूतु॑जानः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । वाजस्य । स्थविरस्य । दाता । इंद्रः । गीःभिः । वर्धतां । वृद्धमहाः ।  
+> इंद्रः । वृत्रं । हनिष्ठः । अस्तु । सत्वा । आ । ता । सूरिः । पृणति । तूतुजानः ॥ ५ ॥
+
+### Printed p. 65
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः स्थविरस्य वाजस्यान्नस्य बलस्य ना दाता भवतु । स चेंद्रो
+> वृद्धमहाः प्रवृद्धतेजस्कः सन् गीर्भिरस्मदीयाभिः स्तुतिभिर्वर्धतां । सत्वा शत्रूणां
+> शाशयिता स इंद्रो वृत्रमावरकं शत्रुं हनिष्ठो हंतृतमोऽस्तु । भवतु । अपि
+> च सूरिः प्रेरकः स इंद्रस्तूतुजानस्वरमाणस्ता तानि धनान्या पृणति । अस्मभ्यं
+> प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+May this Indra be the giver of स्थविरस्य वाजस्य (*sthavirasya vājasya*), abiding food, that is, strength. And may that Indra, of greatly increased splendour (वृद्धमहाः (*vṛddhamahāḥ*)), grow by our praises. सत्वा (*satvā*) means the chastiser of enemies: may that Indra be हनिष्ठः (*haniṣṭhaḥ*), the best slayer, of Vṛtra, the enemy who obstructs. And the impeller (सूरिः (*sūriḥ*)), that Indra, hastening (तूतुजानः (*tūtujānaḥ*) is explained as one who hurries), fills up those riches: may he give them to us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्थविरस्य (*sthavirasya*)—of abiding
+- वाजस्य (*vājasya*)—food
+- दाता (*dātā*)—let him be the giver
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृद्धमहाः (*vṛddhamahāḥ*)—being of exceeding splendour
+- गीर्भिः (*gīrbhiḥ*)—by our praises
+- वर्धतां (*vardhatāṃ*)—let him grow
+- सत्वा (*satvā*)—the destroyer of enemies
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृत्रं (*vṛtraṃ*)—the enemy
+- हनिष्ठः (*haniṣṭhaḥ*)—a swift destroyer
+- अस्तु (*astu*)—let him be
+- सूरिः (*sūriḥ*)—Indra the impeller
+- तूतुजानः (*tūtujānaḥ*)—hastening
+- ता (*tā*)—those well-known riches
+- आ पृणति (*ā pṛṇati*)—let him give to us
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra be the giver of abiding food. And, being of exceeding splendour, may he grow by our praises. May Indra, the destroyer of enemies, destroy the enemy in the form of Vṛtra. May Indra, the impeller, hastening, give us the well-known riches.
+
+##### English translation
+Indra is the donor of substantial food: may the very illustrious Indra increase (in glory) through our praises: may Indra, the destroyer (of enemies), be the especial slayer of Vritra : may he, the animator, the quick-mover, grant us those (riches which we desire).
+
+## Sūkta 38 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपादित इति पंचर्चं पंचदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> अपादित्यनुक्रांतं ॥ महाव्रते निष्केवल्य उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अपादित इति (*apādita iti*) has five Ṛks and is the fifteenth sūkta. Its seer is Bharadvāja (Ārṣa), its metre is Triṣṭubh, and its deity is Indra. It is listed in the Anukramaṇī with the words अपादित्यनुक्रांतं (*apādityanukrāṃtaṃ*). Its use, as stated before, is in the Niṣkevalya (śastra) of the Mahāvrata.
+
+##### Anuvāda
+
+This sūkta beginning "अपादितः (*apāditaḥ*)" is the fifteenth sūkta in the third anuvāka. It has five Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity, and the metre is
+
+### Printed p. 66
+
+Triṣṭup. In the Anukramaṇikā it is said to begin with "Apāt". It has already been stated that this sūkta is used for the Niṣkevalya-śastra mantras in the Mahāvrateṣṭi.
+
+##### Particulars
+
+- Sūkta 38
+- Maṇḍala 6; Anuvāka 3; Sūkta 38
+- Aṣṭaka 4; Adhyāya 7; Varga 10
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Bhāradvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपा॑दि॒त उदु॑ नश्चि॒त्रत॑मो म॒हीं भ॑र्षद्दु॒मती॒मिंद्र॑हूतिं।  
+> पन्य॑सीं धी॒तिं दैव्य॑स्य॒ याम॒ञ्जन॑स्य रा॒तिं व॑नते सु॒दानुः॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपात् । इतः । उत् । ऊं इति । नः । चित्रतमः । महीं । भर्षत् । द्युमतीं ।  
+> इंद्रहूतिं ।  
+> पन्यसीं । धीतिं । दैव्यस्य । यामन् । जनस्य । रातिं । वनते । सुदानुः ॥ १ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चित्रतमश्चायनीयतम आश्चर्यतमो वा स इंद्रो नोऽस्मदीयादितोऽस्माद्ग्रहचमसादेरपात् । सोमं पिबतु । यद्वा । इतोऽस्माच्छत्रोर्नोऽस्मानपात् । पातु । रक्षतु । उदु इत्येत् पूरणौ । तथा महीं महतीं द्युमतीं
+> दीप्तिमतीमिंद्रहूतिमिंद्रस्य स्तुतिं भर्षत् । स इंद्रो बिभर्तु । धारयतु ।
+> दैव्यस्य देवसंबंधिनो जनस्य यामन् यामनि यज्ञे क्रियमाणां पत्यसीं
+> स्तुत्यतमां धीतिं परिचरणरूपां क्रियां रातिं दाशव्यं हविश्च सुदानुः शोभनदान
+> इंद्रो वनशे । संभजतु ॥
+
+##### Gist of the bhāṣya
+
+That Indra, who is चित्रतमः (*citratamaḥ*) (the most worthy of being gathered to, or the most wonderful), अपात् (*apāt*): may he drink Soma from this vessel of ours, the grahacamasa and the like (इतः (*itaḥ*)). Or else: may he protect us (अपात् (*apāt*) is पातु (*pātu*), रक्षतु (*rakṣatu*)) from this enemy. उदु (*udu*) are two expletives. Likewise may that Indra bear (भर्षत् (*bharṣat*) is बिभर्तु (*bibhartu*), धारयतु (*dhārayatu*)) the great, shining invocation of Indra, that is, praise. In the course (यामन् (*yāman*)) of the sacrifice of the devout man (the one belonging to the gods), may Indra, the good giver (सुदानुः (*sudānuḥ*)), enjoy (संभजतु (*saṃbhajatu*)) the most praiseworthy rite performed in the sacrifice, in the form of service (धीतिं (*dhītiṃ*)), and the gift (रातिं (*rātiṃ*)), the oblation fit to be offered. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्रतमः (*citratamaḥ*)—Indra, the most attractive
+- नः (*naḥ*)—by us
+- इतः (*itaḥ*)—from our cups and other vessels
+- अपात् (*apāt*)—let him drink the Soma
+- महीं (*mahīṃ*)—great
+- द्युमशीं (*dyumaśīṃ*)—and radiant
+
+### Printed p. 67
+
+- इंद्रहूतिं (*iṃdrahūtiṃ*)—the praise addressed to Indra
+- भर्षत् (*bharṣat*)—let him bear
+- सुदानुः (*sudānuḥ*)—Indra, the excellent giver
+- दैव्यस्य (*daivyasya*)—belonging to the gods
+- जनस्य (*janasya*)—of the sacrificer
+- यामन् (*yāman*)—in the sacrifice
+- पन्यसीं (*panyasīṃ*)—the praiseworthy
+- धीतिं (*dhītiṃ*)—act of worship
+- राशिं (*rāśiṃ*)—and the oblation fit to be given
+- वनते (*vanate*)—he enjoys
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the most attractive, drink from our cups and other vessels the Soma offered by us. May he bear the great and radiant praise addressed to Indra. Indra, the excellent giver, enjoys in the sacrifice of the sacrificer who belongs to the gods the praiseworthy act of worship and the oblation fit to be given.
+
+##### English translation
+May the most marvellous Indra drink from this (our cup) : may he acknowledge our earnest and brilliant invocation: may the munificent (Indra) accept the offering and the praiseworthy adoration at the sacrifice of the devout worshipper.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒राच्चि॒दा व॑सतो अस्य॒ कर्णा॒ घोषा॒दिंद्र॑स्य तन्यति  ॒
+> ब्रुवा॒णः ।  
+> वियमे॑नं दे॒वहू॑तिर्ववृत्यान्म॒द्र्य१॒ं॑ गिंद्र॑मि॒यमृ॒च्यमा॑  
+> ना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरात् । चित् । आ । वसतः । अस्य । कर्णा । घोषात् । इंद्रस्य । तन्यति । ब्रुवाणः ।  
+> आ । इयं । एनं । देवहूतिः । ववृत्यात् । मद्र्यक् । इंद्रं । इयं । ऋच्यमाना॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य कर्णा कर्णौ दूराच्चित् दूरदेशादप्या वसतः । स्तोत्रश्रवणार्थमागच्छतः । इंद्रस्य घोषात् घोषणीयात् स्तोत्राद्धेतोर्ब्रुवाणः स्तुवन्
+> स्तोता तन्यति । शब्दं करोति । यद्वा ! सर्वत्र विस्तारयति । देवहूतिर्देवस्येंद्र-
+
+### Printed p. 68
+
+> स्याह्वानरूपेयं स्तुतिश्च ऋच्यमाना स्वयं प्रेर्यमाणा सत्येनमिंद्रं मद्यक्
+> मदभिमुखमा ववृत्यात् । आवर्तयतु । पुनरियमिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+The two ears of this Indra, even from a distant place, come (आ वसतः (*ā vasataḥ*): they come to hear the praise). Because of the praise to be proclaimed (घोषात् (*ghoṣāt*)) of Indra, the praiser, reciting (ब्रुवाणः (*bruvāṇaḥ*), praising), makes sound (तन्यति (*tanyati*)); or else: he spreads it everywhere. देवहूतिः (*devahūtiḥ*) is this praise, in the form of an invocation of the god Indra, and being herself urged on (ऋच्यमाना (*ṛcyamānā*)), may she turn this Indra to face me (मद्यक् (*madyak*), towards me); इयं (*iyaṃ*) is to be repeated. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूराच्चित् (*dūrāccit*)—from very far away
+- आ वसतः (*ā vasataḥ*)—though dwelling
+- अस्य (*asya*)—of Indra
+- कर्णा (*karṇā*)—to touch the ears
+- इंद्रस्य (*iṃdrasya*)—addressed to Indra
+- घोषात् (*ghoṣāt*)—for the sake of the praise
+- ब्रुवाणः (*bruvāṇaḥ*)—reciting the praise, the praiser
+- तन्यति (*tanyati*)—makes sound
+- देवहूतिः (*devahūtiḥ*)—that which invokes the god Indra
+- इयं (*iyaṃ*)—this praise
+- ऋच्यमाना (*ṛcyamānā*)—self-impelled
+- एनं (*enaṃ*)—this Indra
+- मद्रक् (*madrak*)—towards me
+- आ ववृत्यात् (*ā vavṛtyāt*)—let it make him turn
+
+##### भावार्थ (Bhāvārtha)
+
+Though Indra is very far away, the praiser, reciting praise, makes sound addressed to him, so as to touch Indra's ears. May this praise that invokes the god Indra, self-impelled, make this Indra turn towards me.
+
+##### English translation
+Reciting (his praise, the worshipper) calls aloud, that by the sound he may reach the ears of Indra, although abiding afar off: may this invocation of the deity, inducing him (to come). bring Indra to my presence.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो॑ धि॒या प॑र॒मया॑ पुरा॒जाम॒जर॒मिंद्र॑म॒भ्य॑नूष्क॒र्कैः।  
+> ब्रह्मा॑ च॒ गिरो॑ दधि॒रे सम॑स्मिन्म॒हांश्च॒ स्तोमो॒ अधि॑  ॒॑
+> वर्धदिंद्रॆ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । व ॥ धिया । परमया । पुराजां । अजरं । इंद्रं । अभि । अनूषि । अकैः ।  
+> ब्रह्म । च । गिर ॥ दधिरे । सं । अस्मिन् । महान् । च । स्तोमः । अधि । वर्धत् ।  
+> इंद्रे ॥ ३ ॥
+
+### Printed p. 69
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तं तादृशमिंद्रं वस्तां ॥ व्यत्ययेन बहुवचनं ॥ परमयोत्कृष्टतमया धिया स्तुत्यार्कैरर्चनसाधनैर्हविर्भिः सार्धमभ्यनूषि । अभिष्टौमि ।
+> कीदृशं । पुराजां पूर्वस्मिन् काले जातं चिरंतनमजरं जरारहितं नित्यं ।
+> अतः कारणादस्मिन्निंद्रॆ ब्रह्म ब्रह्माणि हविर्लक्षणान्यन्नानि गिरः स्तुतयश्च सं दधिरे ।
+> संधीयंते । संश्लिष्यंते । महान् प्रवृद्धः स्तोमश्चाधि वर्धत् । अधिकं वर्धते ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, that such Indra" तं (*taṃ*): the plural वः (*vaḥ*) stands by a change of number. I praise (अभ्यनूषि (*abhyanūṣi*)) him with the most excellent praise (परमयोत्कृष्टतमया धिया (*paramayotkṛṣṭatamayā dhiyā*)) together with oblations (अर्कैः (*arkaiḥ*), the means of worship). Of what kind is he: पुराजां (*purājāṃ*), born in former time, ancient; अजरं (*ajaraṃ*), free from old age, eternal. For that reason, in this Indra the oblations in the form of food (ब्रह्म (*brahma*)) and the praises (गिरः (*giraḥ*)) are joined together (सं दधिरे (*saṃ dadhire*), they are put together, they cling), and the great, swelling praise (स्तोमः (*stomaḥ*)) grows further. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुराजां (*purājāṃ*)—the ancient
+- अजरं (*ajaraṃ*)—the free from old age
+- इंद्रं (*iṃdraṃ*)—the lord
+- तं वः (*taṃ vaḥ*)—that same you
+- परमया (*paramayā*)—with the most excellent
+- धिया (*dhiyā*)—praise
+- अर्कैः (*arkaiḥ*)—and with oblations, the means of worship
+- अभ्यनूषि (*abhyanūṣi*)—I worship
+- अस्मिन् इंद्रे (*asmin iṃdre*)—in this very Indra
+- ब्रह्म (*brahma*)—the food in the form of oblation
+- गिरः (*giraḥ*)—and the praises
+- सं दधिरे (*saṃ dadhire*)—have come together
+- महान् (*mahān*)—very great
+- स्तोमः (*stomaḥ*)—praise also
+- अधि वर्धत् (*adhi vardhat*)—grows exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are ancient, free from old age and lord, that same you I worship with the most excellent praise and with oblations that are the means of worship. In this very Indra the food in the form of oblation and the praises have come together. Very great praise also grows exceedingly.
+
+##### English translation
+I glorify you with hymns and with pious worship, the ancient undecaying Indra, for in him are oblations and praises concentrated, and great adoration is enhanced (when addressed to him).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वर्धा॒द्यं य॒ज्ञ उ॒त सोम॒ इंद्रं॒ वर्धा॒द्ब्रह्म॒ गिर॑ ॒ ॒॑
+> उ॒क्था च॒ मन्म॑ ।  
+> वर्धाहै॑नमु॒षसो॒ याम॑न्न॒ क्तोर्वर्धा॒न्मासाः॑ श॒रदो॒ द्याव॒  ॑
+> इंद्रं ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 62. Ṛk 5 of VI.36 end; Sūkta 37 Ṛks 1-3 (pp. 57-62)
+**Progress note:** Done through printed p. 69. VI.37 Ṛks 4-5; VI.38 Ṛks 1-4 begin (pp. 63-69)
