@@ -14665,6 +14665,146 @@ Here the epithets अबुध्यं (*abudhyaṃ*) and सुषुपाण
 
 "O Indra, you struck the intoxicated Vṛtra with the thunderbolt and woke him by your valour"; such sentences show the sleeping state and the waking state of Sūrya. In the same way, sentences such as उषर्बुधः (*uṣarbudhaḥ*) and अबोध्यग्निः (*abodhyagniḥ*) (5-1.1; 4-23-7) show the sleeping state and the waking state of Agni. Therefore, in the sleeping state, either for Sūrya or for Agni, there is the *ahi*-nature or Vṛtra-nature; in the awakened state, godhood. In the same way,
 
+### Printed p. 391
+
+अपादहस्तो अपृतन्यदिंद्रमास्य वज्रमधि सानौ जघान । (*apādahasto apṛtanyadiṃdramāsya vajramadhi sānau jaghāna |*) (Ṛ. Saṃ. 1-32-7)
+
+सहदानुं पुरुहूत क्षियंतमहस्त मिंद्र सं पिणक्कुणारुं । (*sahadānuṃ puruhūta kṣiyaṃtamahasta miṃdra saṃ piṇakkuṇāruṃ |*) (Ṛ. Saṃ. 3-30-8)
+
+In these and similar sentences, the epithets आपात् (*āpāt*), अहस्त (*ahasta*) and the like, which are well known as describing particular Asuras such as Vṛtra and Ahivṛtra, are without doubt also descriptions of Sūrya.
+
+गुहा शिरो निहितमृधगक्षी असिन्वन्नत्ति जिह्वया वनानि । अत्राण्यस्मै पड्भिः सं भरंत्युत्तानहस्ता नमसाधि विक्षु ॥ (*guhā śiro nihitamṛdhagakṣī asinvannatti jihvayā vanāni | atrāṇyasmai paḍbhiḥ saṃ bharaṃtyuttānahastā namasādhi vikṣu ‖*) (Ṛ. Saṃ. 10-79-2)
+
+In these and similar sentences the descriptions गुहा शिरो निहितं (*guhā śiro nihitaṃ*) are the same as the descriptions बुद्धे रजसः (*buddhe rajasaḥ*).
+
+The authorities cited above explain the nature of Ahirbudhnya. The purport is that Agni acquires the state of Ahirbudhnya at the time when he lies asleep in a hidden region of the middle region. The purport of the sentence in the Aitareya Brāhmaṇa, which describes the Gārhapatya fire that possesses invisibility as the god Ahirbudhnya, is the same.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति चिन्नु प्रजायै पशुमत्यै देवासो वनते मर्त्यो न  
+> आ देवासो वनते मर्त्यो नः ।  
+> अत्रा॑ शि॒वां त॒न्नो॑ धा॒सिम॒स्या ज॒रां चि॑न्मे॒ निर्य॑तिर्जग्रसीत॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । चित् । नु । प्रजायै । पशुमत्यै । देवासः । वनते । मर्त्यः । वः । आ ।  
+> देवासः । वनते । मर्त्यः । वः ।  
+> अत्र । शिवां । तन्वः । धासिं । अस्याभिजरां । चित् । मे । निःऋतिः । जग्रसीत ॥ १७ ॥
+
+### Printed p. 392
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवा वो युष्मानिति चिदित्थमेव नु क्षिप्रं प्रजायै पशुमत्यै
+> पशुसहितायापत्याय वनते भजते मर्त्यो मनुष्यो यजमानः । आ देवास इति
+> पुनरुक्तिरादरार्था । अत्रास्मिन्यज्ञे शिवां धासिमन्नं मे ममास्यास्तन्वो देवैरनुगृहीतस्य पुत्रस्य करोतु निर्ऋतिर्देवता । जरां चिज्जरां च जग्रसीत । ग्रसतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses देवासः (*devāsaḥ*) as "O gods" and वः (*vaḥ*) as "you". Thus, indeed, and quickly, the mortal, the sacrificer, worships (वनते (*vanate*)) for offspring accompanied by cattle (पशुमत्यै (*paśumatyai*) प्रजायै (*prajāyai*)). The repetition in आ देवास (*ā devāsa*) is for the sake of respect. In this sacrifice, may the deity Nirṛti make good food for me, for this body, a son favoured by the gods. And may she swallow up (ग्रसतु (*grasatu*)) old age.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- मर्त्यः (*martyaḥ*)—the human being
+- वः चित् (*vaḥ cit*)—you
+- नु (*nu*)—quickly
+- पशुमत्यै (*paśumatyai*)—accompanied by cattle
+- प्रजायै (*prajāyai*)—for the wealth of progeny
+- वनते (*vanate*)—worships
+- देवासः (*devāsaḥ*)—O gods
+- मर्त्यः (*martyaḥ*)—that same human being
+- वनते (*vanate*)—(surely) worships
+- अत्र (*atra*)—in this sacrifice
+- निर्ऋतिः (*nirṛtiḥ*)—the god Nirṛti
+- मे (*me*)—my
+- अस्याः (*asyāḥ*)—for the protection of this body
+- शिवां धासिं (*śivāṃ dhāsiṃ*)—the most excellent food
+- तन्वः (*tanvaḥ*)—may she produce
+- जरांचित् (*jarāṃcit*)—decay
+- जग्रसीत (*jagrasīta*)—may she remove
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, the human being worships you without fail for the wealth of progeny together with cattle; he is bound to worship you. On this occasion may the god Nirṛti increase the excellent food needed for the nourishment of this body of mine. May she see to it that our body does not waste away through old age.
+
+##### English translation
+The mortal (sacrificer) worships you, gods, at all times for progeny and cattle : verily, gods, the mortal worships you: may Nirriti, on this occasion, sustain my body with solutary food, and keep off decay.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present mantra Nirṛti is regarded as a particular deity. Sāyaṇa has explained it as meaning a deity. And the sacrificer prays that she should do him a favour. Such contexts are rare. Nirṛti is ordinarily known as a deity who causes harm. In the present case a good result is expected from that deity. It is therefore necessary to know what the true nature of this deity is.
+
+The Nirukta-writers have read the word निर्यति (*niryati*) among the names of the earth (Ni. 2-5).**NOTE** Afterwards, showing the derivation of this word,
+
+### Printed p. 393
+
+इमान्येकविंशतिः पृथिवीनामधेयान्यनुक्रांतानि । तत्र निर्यतिर्निरमणादृच्छतेः कृच्छ्रापत्तिरितरा सा पृथिव्या संदिह्यते । तयोर्विभागः ॥ (*imānyekaviṃśatiḥ pṛthivīnāmadheyānyanukrāṃtāni | tatra niryatirniramaṇādṛcchateḥ kṛcchrāpattiritarā sā pṛthivyā saṃdihyate | tayorvibhāgaḥ ‖*) (Ni. 2-7)
+
+This word may be formed from two roots. If it is formed first from the root *ram*, then निरमणात् (*niramaṇāt*): निविष्टानि रमंते अस्यां भूतानीति निर्ऋतिः पृथिवी (*niviṣṭāni ramaṃte asyāṃ bhūtānīti nirṛtiḥ pṛthivī*); because all beings that rest on the earth experience delight from the earth, the earth has the name Nirṛti. Secondly, from ऋच्छतेः (*ṛcchateḥ*): इतरा कृच्छ्रापत्तिः । दुःखसंज्ञिका । निर्ऋतिः पाप्मा । (*itarā kṛcchrāpattiḥ | duḥkhasaṃjñikā | nirṛtiḥ pāpmā |*); because she causes sorrow, the goddess Nirṛti is a producer of sin. But here, समान नामधेयत्वात् समानश्रुतित्वं पृथिव्या संदिह्यते (*samāna nāmadheyatvāt samānaśrutitvaṃ pṛthivyā saṃdihyate*); having shown in this way the two derivations of this word, he then says that the meaning of the word is to be stated according to the context, that when the meaning "earth" is intended one must not take it as "mother of sin", and when the second purport is intended one must not take it as "earth".
+
+Durgācārya has explained it in two ways: 1) एका निविष्टानां भूतानां रमयित्री (*ekā niviṣṭānāṃ bhūtānāṃ ramayitrī*), one who gives delight to all beings; 2) एका पुनः कृच्छ्रमापादयित्री (*ekā punaḥ kṛcchramāpādayitrī*), another who gives sorrow. In this context the Nirukta-writers
+
+य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु तस्मात् । स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा विवेश ॥ (*ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu tasmāt | sa māturyonā parivīto aṃtarbahuprajā nirṛtimā viveśa ‖*) (Ṛ. Saṃ. 1-164-32)
+
+cite this mantra and explain the meaning of the word *nirṛti*. In the cited mantra, in stating his explanation of the word *nirṛti*, Sāyaṇa first gives his own view, which differs from that of the Nirukta-writers, and explains it as sorrow; afterwards he also gives the view of the Nirukta-writers and explains it as the earth, the means of sorrow. But it appears that the view of the Nirukta-writers is that whenever the meaning "earth" is intended, it must be explained as a means of delight. But the use of the word *nirṛti* appears for the most part to concern an inauspicious deity. One or two of these may be taken as examples and their purport examined.
+
+मो षु णः परापरा निर्युतिर्दुर्हणा वधीत् । पदीष्टतृष्णया सह ॥ (*mo ṣu ṇaḥ parāparā niryutirdurhaṇā vadhīt | padīṣṭatṛṣṇayā saha ‖*) (Ṛ. Saṃ. 1.38-6)
+
+### Printed p. 394
+
+Here the word *nirṛti* is explained as a deity of the demon class. The prayer is that this deity of demonic form may not do us harm. In such contexts, powers that cause calamity, such as famine and greed, are indicated as the deity. In sum, it may be explained as the presiding deity of sin.
+
+Showing the purport of this word, the scholar Max Muller has stated his view thus:
+
+"One of the meanings of निर्यति (*niryati*) is sin. It is derived from the same root which yielded ऋत (*ṛta*) in the sense of right. निर्यति (*niryati*) was conceived, it would seem, as going away from the Path of right. It was personified as a power of destruction and evil," (Sacred Books of the East, Vol. 32, p. 88)
+
+Among the many meanings of the word *nirṛti*, the meaning "sin" is the most frequent. The word *nirṛti* is formed from the same root from which the word *ṛta* is formed. The word *ṛta* means the straight path, truth. That which is without straightness and without truth is the meaning of the word *nirṛti*. To conceive the states of sin and destruction as embodied is the knowledge of the nature of the deity Nirṛti.**NOTE** There is a rule that certain rites must be performed to escape from the influence of this deity, who is full of sin and causes sorrow. When these rules are stated, the nature of this deity is stated along with them. For example, only a few passages may be examined here.
+
+अथातो नैऋतीर्हरंति । एतद्वै देवा गार्हपत्यं चित्वा समारोहन्नयं वै लोको........समारोहंस्ते तम एवानतिदृश्यमपश्यन् ॥ (*athāto naiṛtīrharaṃti | etadvai devā gārhapatyaṃ citvā samārohannayaṃ vai loko........samārohaṃste tama evānatidṛśyamapaśyan ‖*) (Śa. Bhā. 7. 2. 1-1)**NOTE**
+(Śa. Brā. 7-2-1-1)
+
+These are the mantras recited while the bricks named Nirṛti are laid. When the gods had built the Gārhapatya fire-altar and were ready to ascend it, they were enveloped in pitch darkness on this Gārhapatya, which has the form of the earth, and could see nothing.
+
+तेऽब्रुवन् । उप तज्ञानीत यथेदं तमः पाप्मानमपहनामहा इति तेऽब्रुवंश्चतयध्वमिति ॥ (*te 'bruvan | upa tajñānīta yathedaṃ tamaḥ pāpmānamapahanāmahā iti te 'bruvaṃścatayadhvamiti ‖*)
+
+"We must think how we are to cross this darkness. All of you meditate, seeking a means of destroying it." When this was said, the knowledge came to them that the fire-altar must be built.
+
+ते चेतयमानाः । एता इष्टका अपश्यन्नैर्य्यतीस्ता उपादधत ताभिस्तत्तमः पाप्मानमपाघ्नत पाप्मा वै निर्ऋतिः तद्यदेताभिः पाप्मानं निर्ऋतिमपाघ्नत ॥ (*te cetayamānāḥ | etā iṣṭakā apaśyannairyyatīstā upādadhata tābhistattamaḥ pāpmānamapāghnata pāpmā vai nirṛtiḥ tadyadetābhiḥ pāpmānaṃ nirṛtimapāghnata ‖*) (Śa. Brā. 7-2-1-3)
+
+### Printed p. 395
+
+Meditating, they found the bricks named Nirṛti. Then by building them they destroyed the darkness and Nirṛti, who has the form of sin. Nirṛti is the mass of sin in the form of destruction. By the building of the bricks named Nirṛti this sin is destroyed. In this way and the like the nature of this deity is described. But in order to escape the destructive influence of this deity, worship must be offered even to this deity.
+
+असुन्वंतमयजमानमिच्छेति । यो वै न सुनोति न यजते तं निर्ऋतिऋच्छति स्तेनस्येत्यामन्विहि तस्करस्येति .... .... .... .... यथा स्येनतस्करः प्रलायमेत्यॆ वं प्रलायनि:हि .... .... .... .... नमो देवि निर्ऋते तुभ्यमस्त्विति नमस्कारेणैवैनामपहते ॥ (*asunvaṃtamayajamānamiccheti | yo vai na sunoti na yajate taṃ nirṛtiṛcchati stenasyetyāmanvihi taskarasyeti .... .... .... .... yathā syenataskaraḥ pralāyametyè vaṃ pralāyani:hi .... .... .... .... namo devi nirṛte tubhyamastviti namaskāreṇaivaināmapahate ‖*) (Śa. Prā. 7 2.1.9)**NOTE**
+
+"O goddess Nirṛti, strike the one who does not press the Soma for the sacrifice and does not offer the oblation in the sacrifice. O goddess, follow the very path the thief takes, and hide as he hides. Approach the one who is not a sacrificer and strike him. O goddess, homage to you"; saying this and making obeisance, he sends that goddess out.
+
+नमः सु ते निर्ऋते तिग्मत्तेज इति । तिग्मत्तेजा वै निर्ऋतिस्तस्याएतन्नमस्करोत्ययस्मयं विच्यता बंधमेतमित्ययस्मयेन ह वै तं बंधेन निर्ऋतिर्बध्नाति .... .... .... .... ॥ (*namaḥ su te nirṛte tigmatteja iti | tigmattejā vai nirṛtistasyāetannamaskarotyayasmayaṃ vicyatā baṃdhametamityayasmayena ha vai taṃ baṃdhena nirṛtirbadhnāti .... .... .... .... ‖*) (Śa. Brā. 7-2-19)
+
+"Homage to you, O Nirṛti of sharp brilliance. Indeed your power is very keen and radiant. Loosen this bond of mine in the form of an iron rod." For Nirṛti binds the man with whom she is displeased with hard iron rods (pierces him).
+
+यस्यास्ते घोर आसज्जु होमीति । घोरा वै निर्ऋतिस्तस्या एतदासञ्जुहोति यत्तद्देवत्यं कर्म करोत्येषां बंधानामवसर्जनायेति यैर्बंधैर्बद्धो भवति यां त्वा जनो भूमिरिति प्रमंदत इतीयं वै भूमिरस्स्यां वै स भवति यो भवति निर्ऋतिं त्वाहं परिवेद विश्वत इति निर्ऋतिरिति त्वाहं परिवेद सर्वत इत्येतदियं वै निर्ऋतिरियं वै तं निरर्पयति यो निर्ऋच्छति................आमंत्रितो हिनस्ति ॥ (*yasyāste ghora āsajju homīti | ghorā vai nirṛtistasyā etadāsañjuhoti yattaddevatyaṃ karma karotyeṣāṃ baṃdhānāmavasarjanāyeti yairbaṃdhairbaddho bhavati yāṃ tvā jano bhūmiriti pramaṃdata itīyaṃ vai bhūmirassyāṃ vai sa bhavati yo bhavati nirṛtiṃ tvāhaṃ pariveda viśvata iti nirṛtiriti tvāhaṃ pariveda sarvata ityetadiyaṃ vai nirṛtiriyaṃ vai taṃ nirarpayati yo nirṛcchati................āmaṃtrito hinasti ‖*) (Śa. Brā. 7-2-1-11)
+
+### Printed p. 396
+
+"O goddess Nirṛti, you are of terrible form": having praised her thus, in performing the rite of the deity he offers the oblation in her mouth. If he offers it saying "O goddess, this is for the release of your bond", the sacrificer is freed from whatever bond he is bound by. "O goddess, the sacrificers address you as the earth; but I know you only as all-pervading." What is said here is also true. The earth rejects and thrusts far away the sacrificer who is blameworthy. If, as said above, worship is offered to Nirṛti, the sacrificer's release from bondage comes about.
+
+नोपस्पृशति । पाप्मा वै निर्ऋतिर्नेत्पास्मना सग्गस्पृशा इति न सादयति प्रतिष्ठा वै सादनं नेत्वाप्मानं प्रतिष्ठापयानीति .... .... .... ॥ (*nopaspṛśati | pāpmā vai nirṛtirnetpāsmanā saggaspṛśā iti na sādayati pratiṣṭhā vai sādanaṃ netvāpmānaṃ pratiṣṭhāpayānīti .... .... .... ‖*) (Śa. Brā. 7-2-1-12)
+
+The sacrificer does not touch the bricks named Nirṛti. Nirṛti has the form of sin; therefore, if he touches them, contact with sin results. Nor does he set them up; if he set them up, it would be as if he established in his own house Nirṛti herself, who has the form of sin. — In this way and the like, in order to escape the sin-filled and sorrow-causing influence of Nirṛti, who is of an inauspicious nature, he regards her as a particular deity, worships her and sends her out (नमस्कारेणैवैनामपहते (*namaskāreṇaivaināmapahate*)). Thus there is a description of Nirṛti's nature. Even though Nirṛti is said to have the form of the earth, for some people the earth becomes a giver of delight; then the derivation of this word is from the root *ram*. For others the earth is a sharer of sorrow; then the derivation is from the root *ṛ*. Although at times an identity between the earth and this deity is shown, on many occasions she is regarded as a deity different from the earth.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां वो॑ देवाः सुम॒तिमू॒र्जयं॑ती॒मिष॑मश्याम वसदः॒ ॒ 
+> शसा॒ गोः ।  
+> सा नः॑ सु॒दानु॑र्मृ॒ळयं॑ती दे॒वी प्रति॒ द्रवं॑ती सुवि॒ताय॑  
+> गम्याः ॥ १८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 390. Special topics on Ahirbudhnya, pp. 385-390
+**Progress note:** Done through printed p. 396. Nirṛti Ṛk 17 and special topics, pp. 391-396
