@@ -5317,6 +5317,356 @@ In the second night-session the priest called Maitrāvaruṇa is to recite this 
 
 In the third night-session this verse, beginning इदं त्यत् (*idaṃ tyat*), is the śastra-yājyā of the Praśāstṛ priest. It is also stated in the sūtra: "इदं त्यत्पात्रमिंद्रपानमिति याज्या (*idaṃ tyatpātramiṃdrapānamiti yājyā*)", Ā. 6-4. The vessel, to be drunk, fit for Indra's drinking, dear and favourable to Indra, this Soma-nature immortal drink, has been drunk; let Indra drink. The passive form stands for the active by a change of voice. Or else: let this immortal drink be drunk by Indra, in such a manner that the Soma is drunk.
 
+### Printed p. 121
+
+> सौमनसाय सुमनस्त्वाय देवमिंद्रं मत्सत् मादयेत्तथा पीयतामित्यर्थः ।
+> स पीतसोम इंद्रो द्वेषो द्वेष्ट नस्मदस्मत्तो वि युयवत् । वियोजयतु ।
+> अंहः पापं चास्मत्तो वियोजयतु ॥
+
+##### Gist of the bhāṣya
+
+सौमनसाय (*saumanasāya*) means for the sake of good-mindedness; Soma is to be drunk in such a manner that it delights the god Indra. Having drunk the Soma, Indra is to remove from us hatred, that is, the hater, and sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in whatever manner
+- सौमनसाय (*saumanasāya*)—for the sake of showing favour
+- देवं (*devaṃ*)—Indra
+- मत्सत् (*matsat*)—for the very reason that it gladdens
+- पात्रं (*pātraṃ*)—that which is fit to be drunk
+- इंद्रपानं (*iṃdrapānaṃ*)—that which is fit for Indra to drink
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- प्रियं (*priyaṃ*)—agreeable
+- त्यत् (*tyat*)—famed
+- इदं (*idaṃ*)—of the nature of Soma
+- अमृतं (*amṛtaṃ*)—this ambrosia
+- अपायि (*apāyi*)—let it be drunk (after that, Indra)
+- द्वेषः (*dveṣaḥ*)—the enemies
+- अस्मत् (*asmat*)—from us
+- वि युयवत् (*vi yuyavat*)—let him keep far away and separate
+- अंहः (*aṃhaḥ*)—sin
+- वि (*vi*)—let him keep far away
+
+##### भावार्थ (Bhāvārtha)
+
+In order that Indra may attain the delight of showing us favour, let this ambrosia be drunk, which is fit to be drunk, fit for Indra to drink, agreeable to Indra, famed, and of the nature of Soma. Thereafter let Indra keep our enemies and our sins apart from us (or let him destroy them).
+
+##### English translation
+May this ambrosia, the appropriate beverage of Indra, of which he is fond, be quaffed (by him), so that it may inspire the divinity with favourable feelings (towards us), and that he may remove from us our adversaries, and (all) iniquity.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third night-session the priest called Praśāstra **NOTE** is to recite this Ṛk beginning इदं त्यत् (*idaṃ tyat*) as the śastra-yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, "इदं त्यत्पात्रमिंद्रपानमिति याज्या (*idaṃ tyatpātramiṃdrapānamiti yājyā*)" (Ā. 6-4).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ना मं॑दा॒नो ज॒हि शू॑र॒ शत्रू॑ञ्जा॒ मिमजा॑मिं मघवन्न॒मित्रा॑न् ।  
+> अ॒भि॒षे॒णा अ॒भ्या॒३॒॑सि देदि॑शाना॒न्परा॑च इंद्र॒ प्र मृ॑णा ज॒ही च॑॥१७॥
+
+### Printed p. 122
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एना । मंदानः । जहि । शूर । शत्रून् । जामिं । अजामिं । मघवन् । मित्रान् ।  
+> अभिऽसेनान् ! अभि । आदेदिशानान् । पराचः । इंद्र । प्र । मृण । जहि । च ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन् शूर शौर्यवन्निंद्र एनैनेन प्रकृतेनानेन सोमेन
+> मंदानो मंदमानो माद्यन् जामिं ज्ञातिमजामिं तद्विलक्षणमेवमुभयविधानमित्रानस्मत्पतिकूलाचरणपरान् शत्रुन् जहि । हिंसितान्कुरु । किंचाभिषेणान्
+> अस्मान्नृत्यभिगताः सेना येषां तादृशानस्मदभिमुखमादेदिशानानायुधानि पुनः
+> पुनरादिशतो विसृजतः शत्रुंश्च हे इंद्र पराचः प्र मृण । ते यथा पराज्मुखा
+> भवंति तथा बाधस्व । तदनंतरं तान् जहि च ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy one, O hero, valiant Indra, exhilarated by this Soma now at hand, slay the enemies, whether जामिं (*jāmiṃ*), a kinsman, or अजामिं (*ajāmiṃ*), one unlike him; that is, enemies of both kinds, intent on acting against us. Do them harm. Moreover, O Indra, drive back the enemies who are अभिषेणान् (*abhiṣeṇān*), whose armies advance against us, and who आदेदिशानान् (*ādediśānān*) again and again aim and hurl their weapons in our direction. Press them so that they turn their faces away; after that, slay them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- शूर (*śūra*)—and valiant, O Indra
+- एना (*enā*)—by this Soma
+- मंदानः (*maṃdānaḥ*)—having become glad
+- जामिं (*jāmiṃ*)—whether a kinsman
+- अजामिं (*ajāmiṃ*)—or not a kinsman, such
+- अमित्रान् (*amitrān*)—those who do us harm
+- शत्रुन् (*śatrun*)—enemies
+- जहि (*jahi*)—destroy
+- इंद्र (*iṃdra*)—O Indra
+- अभिषेणान् (*abhiṣeṇān*)—those who fall upon us
+- अभि आदेदिशानान् (*abhi ādediśānān*)—and those who hurl weapons at us, the enemies
+- पराचः (*parācaḥ*)—so that they run back
+- प्र मृण (*pra mṛṇa*)—do them harm
+- जहि च (*jahi ca*)—and destroy them also
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wealthy and valiant, gladdened by this Soma, destroy our enemies. Whether that enemy be a kinsman to us or not a kinsman, when he falls upon us and hurls weapons at us, do harm to such enemies so that they run back, and destroy them.
+
+##### English translation
+Exhilarated by it, valiant Maghavan, slay our unfriendly adversaries, whether kinsmen or unrelated (to us) : put to flight, Indra, hostile armies menacing us (with their weapons), and slay them.
+
+### Printed p. 123
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒सु ष्मा॑ णो मघवन्निंद्र पृ॒त्स्व१॒॑ १ स्मभ्यं॒ महि॒ वरि॑वः ॒ ॑
+> सुगं कः ।  
+> अ॒पां तो॒कस्य॒ तन॑यस्य जे॒ष इंद्र॑ सू॒रीन्कृ॑णु॒हि स्मा॑ नो  ॒
+> अर्धं ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असु । स्म । नः । मघवन् । इंद्र । पृत्सु । अस्मभ्यं । महि । वरिवः । सुगं ।  
+> करिति कः ।  
+> अपां । तोकस्य । तनयस्य । जेषे इंद्र । सूरीन् । कृणुहि स्म । नः । अर्धं ॥१८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र नोऽस्मदीयास्वासु पृत्सु पृतनासु संग्रामेष्वस्मभ्यं महि महत्सुगं सुखेन प्राप्यं वरिवो धनं कः । कुरु । स्मेति पूरणः । अपि
+> चि हे इंद्र अपामाप्तव्यानां धनानां वोदकानां ना तोकस्य पुत्रस्य तनयस्य
+> पौत्रस्य च जेषे जयार्थं सूरीन् स्तोत्यन् नोऽस्मानर्धमर्धान् समृद्धान्
+> कृणुहि । कुरु । यद्वा । अर्धकारिणः शत्रूणां खंडयित्यन् कुरु । स्मेति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, in these battles of ours make for us great wealth, वरिवः (*varivaḥ*), that is easily obtained; स्म (*sma*) is a filler. Moreover, O Indra, for the winning of waters, or of wealth that is to be gained **NOTE**, of a son and of a grandson, make us, the praisers, अर्धं (*ardhaṃ*), that is, prosperous. Or else: make us the cutters-down of the enemies who are अर्धकारिणः (*ardhakāriṇaḥ*); स्म (*sma*) is the filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—belonging to us
+- आसु पृत्सु (*āsu pṛtsu*)—in these battles
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- महि (*mahi*)—great
+- सुगं (*sugaṃ*)—and easily obtained
+- वरिवः (*varivaḥ*)—wealth
+- कः (*kaḥ*)—bring about
+- इंद्र (*iṃdra*)—O Indra
+- अपां (*apāṃ*)—for the sake of water
+- तोकस्य (*tokasya*)—for the sake of a son
+- तनयस्य (*tanayasya*)—for the sake of a grandson
+- जेषे (*jeṣe*)—to gain victory
+- सूरीन् (*sūrīn*)—who are praisers
+- नः (*naḥ*)—us
+- अर्थं (*arthaṃ*)—as prosperous ones
+- कृणुहि (*kṛṇuhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, in these battles that have put us into distress, bring about for us wealth that is great and easily obtained. O Indra, to gain victory for the sake of water, for the sake of a son and for the sake of a grandson, make us, the praisers, prosperous.
+
+### Printed p. 124
+
+##### English translation
+Affluent Indra, facilitate to us (the acquirement of) vast riches in these our battles: (enable us) to ga n the victory: make us prosperous with rain, and with sons and graudsons.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ हर॑यो॒ वृष॑णो युजा॒ना वृष॑रथासो॒ वृष॑रश्म॒योऽत्याः॑ ।  
+> अ॒स्म॒त्रांचो॒ वृष॑णो वज्र॒वाहो॒ वृष्णे॒ मदा॑य सु॒युजो॑  
+> वहंतु ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । हरयः । वृषणः । युजानाः । वृषरथासः । वृषरश्मयः । अत्याः ।  
+> अस्मत्रांच । वृषणः । वज्रवाहः । वृष्णे । मदाय । सुयुजः । वहंतु ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां हरयोऽश्वा वृष्णे वर्षित्रे मदाय मदकराय
+> सोमायेदृशं सोमं पाययितुमा वहंतु । कीदृशा अश्वाः । वृषणः कामानां
+> वर्षितारो युजानाः स्वयमेव रथे युज्यमाना वृषरथासः । वृषा कामाभिवर्षको रथो येषां ते तथोक्ताः । वृषरश्मयः । वर्षितारो रत्नयः प्रग्रहा
+> येषां तादृशाः । अत्याः सततगामिनोऽस्मत्रांचोऽस्मान्वृत्यंचंतो गच्छंतो
+> वृषणो नित्यतरुणा वज्रवाहो वज्रादीन्यायुधानि वहंतः सुयुजः शोभनयोजनाः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let the horses bring you to drink the Soma, which is the showerer's, that is, gladdening, exhilarating. What kind of horses? They are वृषणः (*vṛṣaṇaḥ*), showerers of desires; युजानाः (*yujānāḥ*), yoked of themselves to the chariot; वृषरथासः (*vṛṣarathāsaḥ*), those whose chariot is a showerer, one that rains desires; वृषरश्मयः (*vṛṣaraśmayaḥ*), those whose reins are showerers, that is, whose bridles rain; अत्याः (*atyāḥ*), ever moving; अस्मत्रांचः (*asmatrāṃcaḥ*), going towards us; वृषणः (*vṛṣaṇaḥ*), ever young; वज्रवाहः (*vajravāhaḥ*), bearing weapons such as the thunderbolt; सुयुजः (*suyujaḥ*), well yoked.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वृषणः (*vṛṣaṇaḥ*)—showerers of desires
+- युजानाः (*yujānāḥ*)—joined to the chariot
+- वृषरथासः (*vṛṣarathāsaḥ*)—possessing a chariot that bestows what is wished
+- वृषरश्मयः (*vṛṣaraśmayaḥ*)—possessing bridles that cause rain
+- अत्याः (*atyāḥ*)—swift-going
+- अस्मत्रांचः (*asmatrāṃcaḥ*)—coming towards us
+
+### Printed p. 125
+
+- वृषणः (*vṛṣaṇaḥ*)—possessing youth
+- वज्रवाहः (*vajravāhaḥ*)—bearing weapons such as the thunderbolt
+- सुयुजः (*suyujaḥ*)—excellently yoked
+- हरयः (*harayaḥ*)—the horses
+- त्वा (*tvā*)—you
+- वृष्णे (*vṛṣṇe*)—which is rich in wealth
+- मदाय (*madāya*)—and gladdening, for the drinking of Soma
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let horses that are showerers of desires, joined to the chariot, possessing a chariot that bestows what is wished, swift-going, coming towards us, possessing youth, bearing weapons such as the thunderbolt, and excellently yoked, bring you for the drinking of Soma, which is rich in wealth and gladdening.
+
+##### English translation
+Let your vigorous steeds, harnessed of their own will, drawing your wish-bestowing chariot, guided by shower-yielding reins, quick-moving, hastening towards us, youthful, thunder-bearing, well-yoked, bring you to the bountiful, exhilarating (libations).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ वृष॒न्वृष॑णो॒ द्रोण॑मस्थुर्घृत॒पुषो॒ नोर्मयो॒  ॑
+> मदंतः ।  
+> इंद्र॒ प्र तुभ्यं॒ वृष॑भिः सु॒तानां॒ वृष्णे॑ भरंति वृष॒भाय॒  ॑
+> सोमं ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । वृषन् । वृषणः । द्रोणं । अस्तुः । घृतपुषः । न । ऊर्मयः । मदंतः ।  
+> इंद्र । प्र । तुभ्यं । वृषभिः । सुतानां । वृष्णे । भरंति । वृषभाय । सोमं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षितरिंद्र वृषणः सेक्तारो युवानस्त्वदीया अश्वा
+> घृतपुषो नोर्मयो धृतमुदकं सिंचंतः सामुद्रास्तरंगा इव मदंतो
+
+### Printed p. 126
+
+> हृष्यंतो मत्ताः संतस्ते त्वदीयं द्रोणं द्रुममयं रथमास्थुः । अतिष्ठंत ।
+> अतस्त्वमागच्छेति भावः । कुत इत्यत आह । हे इंद्र वृष्णे यूने नित्यतरुणाय
+> वृषभाय कामानां वर्षयित्रे तुभ्यं वृषभिः कामाभिवर्षकैग्रावभिः सुतानामभिषुतानां सोमानां मध्यॆ त्वद्भागरूपं सोमं यस्मादध्वर्यवः प्र भरंति
+> प्रहरंति होमार्थं प्रणयंति तस्मादागच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, showerer of desires, your young horses, वृषणः (*vṛṣaṇaḥ*), sprinklers, pouring ghee, that is, water, like waves of the ocean, exult and become glad; they have mounted your द्रोणं (*droṇaṃ*), your chariot made of wood. Therefore, the sense is, come. Why? He says: O Indra, for you, the young, ever youthful bull, the showerer of desires, the Adhvaryus offer forward, carry forward for the oblation, the Soma that is your portion, among the Somas pressed by the showering stones. Therefore come; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O Indra, showerer of desires
+- वृषणः (*vṛṣaṇaḥ*)—possessing youth
+- धृतपुषः (*dhṛtapuṣaḥ*)—pouring forth water
+- ऊर्मयो न (*ūrmayo na*)—like the waves of the sea that dance
+- मदंतः (*madaṃtaḥ*)—showing gladness, your horses
+- ते (*te*)—your
+- द्रोणं (*droṇaṃ*)—chariot
+- आ अस्तुः (*ā astuḥ*)—stand joined to
+- इंद्र (*iṃdra*)—O Indra
+- वृष्णी (*vṛṣṇī*)—to you, young
+- वृषभाय (*vṛṣabhāya*)—and showerer of desires
+- तुभ्यं (*tubhyaṃ*)—for you
+- वृषभिः (*vṛṣabhiḥ*)—with the showering stones (grāvan)
+- सुतानां (*sutānāṃ*)—among the pressed Somas
+- सोमं (*somaṃ*)—the juice allotted to your portion
+- प्र भरंति (*pra bharaṃti*)—they offer in the form of oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, your horses, which are young, pouring forth water and showing gladness like the dancing waves of the sea, stand joined to your chariot. O Indra, for you, who are young and a showerer of desires, the Adhvaryus offer in the form of oblation the juice that belongs to your portion among the Soma juices pressed by crushing with stones.
+
+##### English translation
+Showerer (of benefits), your vigorous water-shedding steeds, like the waves (of the sea), exulting, are harnessed to your car ; for they, (the priests , offer to you, the showerer (of benefits), ever youthful, the libation of the Soma juices expressed by the stones.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑सि दि॒वो वृ॑ष॒भः पृ॑थि॒व्या वृषा॒ सिंधू॑नां वृष॒भः  ॑
+> स्तियानां ।  
+> वृष्णे॑ त॒ इंदु॑र्वृषभ पीपाय स्वा॒दू रसो॑ मधु॒पेयो॒  ॑
+> वराय ॥ २१ ॥
+
+### Printed p. 127
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । आसि । दिवः । वृषभः । पृथिव्याः । वृषा । सिंधूनां । वृषभः । स्तियानां ।  
+> वृष्णे । ते । इंदुः । वृषभ । पीपाय । स्वादुः । रसः । मधुपेयः । वराय ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दिवो द्युलोकस्य वृषासि । हविर्भिः सेक्ता भवसि । पृथिव्या
+> भूमेश्च वृषभः कामानां वर्षिता । सिंधूनां स्यंदनशीलानां च नदीनां वृषा
+> वर्षेण पूरयितासि । तथा स्तियानां संघीभूतानां स्वावरजंगमात्मनां प्राणिनां
+> वृषभः कामानां वर्षिता भवसि । यद्वा । स्तियाः संघीभूता आपः । तासां
+> वर्षितासि । वृषभ कामानां वर्षकेंद्र वराय श्रेष्ठाय वृष्णे सेक्त्रे ते तुभ्यं
+> त्वदर्थं स्वादुर्मधुरो रसो रसनीयः प्रशस्यो रसवान्वा रसात्मको ना
+> मधुपेयो मधुवत्पातव्य इंदुः सोमः पीपाय । प्यायते । वर्धते ।
+> आतस्त्वमागत्य तं सोमं पिबेति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the showerer of heaven, दिवः (*divaḥ*): you sprinkle it with oblations. You are the वृषभः (*vṛṣabhaḥ*) of the earth, the showerer of desires. You are the वृषा (*vṛṣā*) of the rivers, flowing ones, filling them with rain. Likewise you are the showerer of desires of the स्तियानां (*stiyānāṃ*), the beings gathered together, of the nature of the stationary and the moving. Or else: स्तियाः (*stiyāḥ*) are the waters gathered together, and you are the one who showers them. O showerer of desires, Indra, for you, the excellent one, the sprinkler, the sweet juice, flavourful, or praiseworthy, or full of juice, of the nature of juice, to be drunk like honey, इंदुः (*iṃduḥ*), the Soma, swells and grows; therefore, the sense is, come and drink that Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, showerer of desires
+- (त्वं (*tvaṃ*)—you)
+- दिवः (*divaḥ*)—for the heavenly world
+- वृषा (*vṛṣā*)—as the bestower of what is wished
+- असि (*asi*)—you are
+- पृथिव्या (*pṛthivyā*)—for the earth
+- वृषभः (*vṛṣabhaḥ*)—you are the showerer of desires
+- सिंधूनां (*siṃdhūnāṃ*)—for the rivers
+- वृषा (*vṛṣā*)—you fill the water with rain
+- स्तियानां (*stiyānāṃ*)—for all beings that form a collection
+- वृषभः (*vṛṣabhaḥ*)—you are the showerer of desires
+- वृषभ (*vṛṣabha*)—O Indra, bestower of what is wished
+- वराय (*varāya*)—for you, the excellent
+- वृष्णे (*vṛṣṇe*)—and the cause of rain
+- ते (*te*)—for you
+- स्वादुः (*svāduḥ*)—sweet
+- रसः (*rasaḥ*)—agreeable (of the nature of juice)
+- मधुपेयः (*madhupeyaḥ*)—to be drunk like honey
+- इंदुः (*iṃduḥ*)—the Soma
+- पीपाय (*pīpāya*)—is ready for drinking
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, you are the bestower of what is wished for the heavenly world. For the earth you are the showerer of desires by giving rain. You fill the rivers with water by rain. For all beings that form a collection you are the showerer of desires. O Indra, bestower of what is wished, for you, the excellent and the cause of rain, the Soma juice is ready for drinking.
+
+##### English translation
+You, Indra, are the showerer of heaven, the bedewer of earth, the the feeder of the rivers, the supplier of the aggregated (waters): for you,
+
+### Printed p. 128
+
+showerer (of desires), who are the most excellent shedder of rain, the sweet Soma, the honey-flavoured juice, is ready to be quaffed.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word स्तियानां (*stiyānāṃ*) Yāska has given this explanation: स्तिया आपो भवंति स्त्यायनात् । वृषा सिंधूनां वृषभः स्तियानां इत्यपि निगमो भवति ॥ (*stiyā āpo bhavaṃti styāyanāt | vṛṣā siṃdhūnāṃ vṛṣabhaḥ stiyānāṃ ityapi nigamo bhavati ‖*) (Ni. 6-17). स्तियाः (*stiyāḥ*) means water, because the word स्त्यायन (*styāyana*) has the meaning "bring together". When the earth, and the many substances in it, are broken into fine particles and do not cohere, water makes them come together (by pouring water and kneading). Water has the power of making two substances unite. Therefore water has received the name स्तिया (*stiyā*). In this matter the Vedic sentence in the present Ṛk, वृषा सिंधूनां वृषभः स्तियानां (*vṛṣā siṃdhūnāṃ vṛṣabhaḥ stiyānāṃ*), is itself the example; this is the purport of the etymology.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं दे॒वः सह॑सा॒ जाय॑मान॒ इंद्रे॑ण यु॒जा प॒णिम॑स्तभायत् ।  
+> अ॒यं स्वस्य॑ पि॒तुरायु॑धा॒नींदु॑रमुष्णा॒दशि॑वस्य मा॒याः ॥२२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । देवः । सहसा । जायमानः । इंद्रेण । युजा । पणिं । अस्तभायत् ।  
+> अयं । स्वस्य । पितुः । आयुधानि । इंदुः । अमुष्णात् । अशिवस्य । मायाः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानोऽयमिंदुः सोम इंद्रेण युजा सख्या सह
+> जायमानः प्रादुर्भवन् षणिं वणिजं गवामादातारं वलाख्यमसुरं । यद्वा ।
+> पणीनां स्वामित्वात्पणिरित्युच्यते । तमसुरं सहसा बलेनास्तभायत् । अस्तभ्नात् ।
+> न्यरुधत् । अपि च स्वस्य धनस्य गोरूपस्य पितुः पालयितुरशिवस्यासुखकरस्य
+
+##### Gist of the bhāṣya
+
+This shining Indu, the Soma, born together with Indra his friend, the yoked one, stopped by his strength the Paṇi, the merchant, the Asura named Vala, who seizes cattle. Or else: he is called Paṇi because he is the lord of the Paṇis. He held that Asura back by strength, restrained him. Moreover, of his own wealth in the form of cattle, the protector, the guardian, of the inauspicious, the one who gives no happiness
+
 ---
 
-**Progress note:** Done through printed p. 120. Sūkta 44 Ṛk 12-16 (pp. 115-120)
+**Progress note:** Done through printed p. 128. Sūkta 44 Ṛk 16 (end)-22 (pp. 121-128)
