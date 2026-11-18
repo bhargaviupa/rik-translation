@@ -9,9 +9,11 @@
 > आद्या प्रातःसवने ब्राह्मणाच्छंसिनः प्रस्थितयाज्या । सूत्रितं च । इंद्र त्वा वृषभं
 > मरुतो यस्य । आ. ५-५ । इति ।
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-The second sūkta, beginning इंद्र त्वा (*iṃdra tvā*), nine Ṛks, is Vaiśvāmitra (seer Viśvāmitra), its metre Gāyatrī, its deity Indra. The Anukramaṇī agrees: इंद्र त्वा गायत्रं हीति (*iṃdra tvā gāyatraṃ hīti*). In the Agniṣṭoma, at the morning pressing, the Brāhmaṇācchaṃsin recites this sūkta as his śastra. The sūtra says: इंद्र त्वा वृषभमुद्देवभीति तिस्रः (*iṃdra tvā vṛṣabhamuddevabhīti tisraḥ*) (Ā. Sū. 5-10). The first Ṛk is the prasthita-yājyā of the Brāhmaṇācchaṃsin at the morning pressing; the sūtra says: इंद्र त्वा वृषभं मरुतो यस्य (*iṃdra tvā vṛṣabhaṃ maruto yasya*) (Ā. Sū. 5-5).**NOTE**
+The sūkta that begins इंद्र त्वेति (*iṃdra tveti*) has nine Ṛks. It is the second sūkta, it is Viśvāmitra's, its metre is Gāyatrī and its deity is Indra. So it is recorded in the Anukramaṇī: इंद्र त्वा गायत्रं हीति (*iṃdra tvā gāyatraṃ hīti*). In the Agniṣṭoma, at the morning pressing, this sūkta belongs to the śastra of the Brāhmaṇācchaṃsin. It is also prescribed in the Sūtra: इंद्र त्वा वृषभमुद्देवभीति तिस्रः । आ. ५-१० (*iṃdra tvā vṛṣabhamuddevabhīti tisraḥ | ā. 5-10*).
+
+The first Ṛk is the prasthita-yājyā of the Brāhmaṇācchaṃsin at the morning pressing. It is prescribed thus: इंद्र त्वा वृषभं (*iṃdra tvā vṛṣabhaṃ*) and मरुतो यस्य । आ. ५-५ (*maruto yasya | ā. 5-5*).
 
 #### Particulars
 
@@ -51,9 +53,19 @@ Om. Sūkta 40. Maṇḍala 3. Anuvāka 4. Sūkta 40. Aṣṭaka 3. Adhyāya 3. V
 > मध्वः । मधुशब्दः फलिपाटीत्यादिनोन्प्रत्ययांतः । आगमानुशासनस्यानित्यत्वान्नु मभावः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्दुणाभावः । यणादेशः । अंधसः । अदेर्नुम्
 > धश्चेत्यसुन् । नित्सर्वः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-"Indra" is so called because he delights and sports in the Soma juice flowing in the drop (indu); or else because he shows this whole world directly. The word is a vocative: O Indra, showerer of desires, we call you at the Soma pressed with the stones, to drink Soma; do you drink the intoxicating Soma, which is of the nature of food (andhas). Yāska explained the word Indra in many ways: he gives, splits, bears, or has the earth bear food (irā); or he runs to the drop; or he delights in the drop; or beings kindle him with their breaths, and that is Indra's Indra-hood. Whichever sense suits a place is to be accepted there. Upamanyu's school says इदंदर्शनादित्योपमन्यवः (*idaṃdarśanādityopamanyavaḥ*): he sees this Brahman directly. So it is heard in the Āraṇyaka: स एतमेव पुरुषं ब्रह्मततमपश्यदिदमदर्शमिती ३ । तस्मादिंद्रो नामेदंड्रो ह वै नाम तमिदंद्रं संतमिंद्र इत्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः । (*sa etameva puruṣaṃ brahmatatamapaśyadidamadarśamitī 3 | tasmādiṃdro nāmedaṃḍro ha vai nāma tamidaṃdraṃ saṃtamiṃdra ityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ |*) (Ai. Ā. 2-4-3); that is, he saw this Person, the all-pervading Brahman, and said "I have seen this"; therefore the name is Indra, and the gods love the hidden. The root इदि (*idi*) has the sense of supreme lordship; supreme lordship is taking the form of the world by his own māyā. With this idea it is heard: इंद्रो मायाभिः पुरुरूप ईयते (*iṃdro māyābhiḥ pururūpa īyate*). Thus these etymologies are to be understood. The remainder is grammar.
+Indra is so called because he delights and sports in the Soma juice that flows in the drop. Or else: he is Indra because he sees this whole world directly. The vocative of that word is "O Indra". O Indra, you who are a bull, a showerer of desires, we call you at the Soma that has been pressed, that is, pressed with the pressing stones. We invite you to drink the Soma. Such as you are, drink the Soma that is intoxicating and has food as its nature; drink it.
+
+Yāska explained the word Indra in many ways: "Indra: he tears Iḍā, or he gives Iḍā, or he holds Iḍā, or he splits Iḍā, or he supports Iḍā; or he runs to the drop; or he delights in the drop; or वेंद्दे भूतानीति (*veṃdde bhūtānīti*)." **NOTE** "Then, because तद्यदेनं प्राणैः सम्यंधंस्तदिंद्रस्येंद्रत्वमिति (*tadyadenaṃ prāṇaiḥ samyaṃdhaṃstadiṃdrasyeṃdratvamiti*)." **NOTE** Wherever a meaning fits, that meaning is to be accepted. The followers of Upamanyu say that Indra is so called from seeing this: he sees this Brahman directly. So it is heard in the Āraṇyaka: स एतमेव पुरुषं ब्रह्मततमपश्यदिदमदर्शमिती ३ (*sa etameva puruṣaṃ brahmatatamapaśyadidamadarśamitī 3*), "He saw this very Person, the widespread Brahman, and said, 'I have seen this.'" **NOTE** Then: तस्मादिंद्रो नामेदंड्रो ह वै नाम तमिदंद्रं संतमिंद्र इत्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः (*tasmādiṃdro nāmedaṃḍro ha vai nāma tamidaṃdraṃ saṃtamiṃdra ityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ*), "Therefore he has the name Idandra; though he is Idandra, they call him Indra, indirectly; for the gods love what is indirect." **NOTE** The reference is ऐ. आ. २-४-३ (*ai. ā. 2-4-3*).
+
+Another account: the word is Indra. The root is इदि (*idi*), in the sense of supreme lordship. Supreme lordship is the state of being the form of the world through his own māyā. With this in view it is heard: इंद्रो मायाभिः पुरुरूप ईयत इति (*iṃdro māyābhiḥ pururūpa īyata iti*), "Indra moves with many forms through his māyās."
+
+Grammar: when the word इंदु (*iṃdu*) stands as the first member, the suffix ḍa is added to the root ram, as taught by रमतेरन्येभ्योऽपि दृश्यत इति डः (*ramateranyebhyo 'pi dṛśyata iti ḍaḥ*), since it is seen also after other roots; the ukāra of the earlier member is dropped. Or else, from the root इदि (*idi*) in the sense of supreme lordship, the word is irregularly formed as ending in the suffix ran, by the rule beginning इत्यस्मादृजेंद्राग्रेत्यादिना (*ityasmādṛjeṃdrāgretyādinā*). In this way these derivations are to be understood. The vocative has the accent on the first syllable, as a word of address.
+
+हवामहे (*havāmahe*): it is the present tense, laṭ, of the root hve, with saṃprasāraṇa, by the rule हैयतेर्बहुलं छंदसीति संप्रसारणे लटि रूपं (*haiyaterbahulaṃ chaṃdasīti saṃprasāraṇe laṭi rūpaṃ*), that in the Veda this is frequent. **NOTE**
+
+मध्वः (*madhvaḥ*): the word madhu ends in the suffix un, by the rule beginning मधुशब्दः फलिपाटीत्यादिनोन्प्रत्ययांतः (*madhuśabdaḥ phalipāṭītyādinonpratyayāṃtaḥ*). Because the rule on augments is not constant, आगमानुशासनस्यानित्यत्वान्नु मभावः (*āgamānuśāsanasyānityatvānnu mabhāvaḥ*): the augment num does not occur. Because a rule that comes with a technical name is not constant, संज्ञापूर्वकस्य विधेरनित्यत्वाद्दुणाभावः (*saṃjñāpūrvakasya vidheranityatvādduṇābhāvaḥ*): there is no guṇa. **NOTE** The semivowel substitution, यणादेशः (*yaṇādeśaḥ*), takes place. अंधसः (*aṃdhasaḥ*): from the root ad, अदेर्नुम् (*adernum*), the augment num; and धश्चेत्यसुन् (*dhaścetyasun*), the suffix asun, with dh. नित्सर्वः (*nitsarvaḥ*): because it is nit, the accent is on the first syllable.
 
 ### Ṛk 2
 
@@ -85,9 +97,13 @@ Om. Sūkta 40. Maṇḍala 3. Anuvāka 4. Sūkta 40. Aṣṭaka 3. Adhyāya 3. V
 > प्रीणन इत्यस्माच्छंदसि सदादिभ्यो दर्शनादिति किन् । तस्य लिड्वद्भावाद्दिर्वचनादि ।
 > संहितायामन्येषामपीत्यभ्यासस्य दीर्घः । नित्त्वादाद्युदात्तः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-For the Brāhmaṇācchaṃsin priest at the morning pressing, this verse इंद्र क्रतुविदं (*iṃdra kratuvidaṃ*) is the śastra-yājyā; and it is prescribed in the sūtra इंद्र क्रतुविदं सुतमिति याज्या (*iṃdra kratuvidaṃ sutamiti yājyā*) (Ā. 5-10). "O Indra, desire to drink this pressed Soma, the obtainer of kratu, that is, of wisdom (prajñā). O Indra, praised by many, drink this Soma, which satisfies and refreshes. Having drunk it, pour it into the belly; the sense is: hold it so that it does not fall below the navel."
+For the Brāhmaṇācchaṃsin at the morning pressing, the Ṛk beginning इंद्र क्रतुविदमिति शस्त्रयाज्या (*iṃdra kratuvidamiti śastrayājyā*) is the śastra-yājyā. It is prescribed: इंद्र क्रतुविदं सुतमिति याज्या । आ. ५-१० (*iṃdra kratuvidaṃ sutamiti yājyā | ā. 5-10*).
+
+O Indra, you who obtain intelligence, that is, who gain knowledge of the rite, desire to drink this Soma that has been pressed. O you who are praised by many, Indra, drink this Soma, which is satisfying (तर्पकमास्यायनकारिणिममं (*tarpakamāsyāyanakāriṇimamaṃ*)). **NOTE** When it is drunk, pour this Soma over, that is, sprinkle it in the belly. The sense is: hold it so that it does not fall below the navel.
+
+Grammar: हर्य (*harya*) is the imperative, लोटि रूपं (*loṭi rūpaṃ*), of the root हर्य गतिकांत्योरित्यस्य (*harya gatikāṃtyorityasya*), which means to go and to desire; the accent is lowered. पुरुष्टुत (*puruṣṭuta*): by स्तुतस्तोमयोश्चंदसीति संहितायां षत्वं (*stutastomayoścaṃdasīti saṃhitāyāṃ ṣatvaṃ*) the letter ṣ occurs in the saṃhitā. **NOTE** वृष सेचन इत्यस्य लोटि रूपं (*vṛṣa secana ityasya loṭi rūpaṃ*): the imperative of the root vṛṣ, to sprinkle; आण उत्तरत्वान्निघातः (*āṇa uttaratvānnighātaḥ*): because it follows ā, the accent is lowered. तातृपिं (*tātṛpiṃ*): from the root trp, in the sense of pleasing, by प्रीणन इत्यस्माच्छंदसि सदादिभ्यो दर्शनादिति किन् (*prīṇana ityasmācchaṃdasi sadādibhyo darśanāditi kin*), the suffix kin in the Veda, since it is seen after roots like sad. **NOTE** तस्य लिड्वद्भावाद्दिर्वचनादि (*tasya liḍvadbhāvāddirvacanādi*): because it behaves like liṭ, there is doubling and the rest. संहितायामन्येषामपीत्यभ्यासस्य दीर्घः (*saṃhitāyāmanyeṣāmapītyabhyāsasya dīrghaḥ*): in the saṃhitā the reduplicating syllable is lengthened. नित्त्वादाद्युदात्तः (*nittvādādyudāttaḥ*): because it is nit, the accent is on the first syllable.
 
 ### Ṛk 3
 
@@ -113,13 +129,15 @@ For the Brāhmaṇācchaṃsin priest at the morning pressing, this verse इं
 > वानं हविः । धितं निहितं हविर्यस्य तं । संभृतहविष्कमित्यर्थः । अस्मदीयमिमं
 > यज्ञं प्र तिरः । प्रकर्षेण वर्धय । हविःस्वीकरणेन संपूर्णं कुर्विति भावः ॥ णः ।
 
-#### Gist of the bhāṣya
-
-"O Indra, praised by singers (स्तवान (*stavāna*)), lord of the विश् (*viś*), that is, of the Maruts (विश्वते (*viśvate*)): together with all the gods worthy of sacrifice, प्र तिरः (*pra tiraḥ*), make grow vigorously this sacrifice of ours, which is धितावानं (*dhitāvānaṃ*)." वानं (*vānaṃ*) is the oblation, because it is shared out (वन्यते संभज्यते (*vanyate saṃbhajyate*)); धितं (*dhitaṃ*) means placed; so the sacrifice is one in which the oblation has been placed, that is, in which the oblation has been gathered. "Make it grow" means: complete it by accepting the oblation.
-
 > उपसर्गाद्बहुलमिति संहितायां णत्वं । धितावानं । डुधाण् धारणपोषणयोरित्यस्मान्निष्ठा । बहुव्रीहौ पूर्वपदस्वरः । तिरः । तरतेर्व्यत्ययेन शः । प्रत्ययस्वरः ।
 > स्तवान । ष्टुञ् स्तुत् । सम्यानच् स्तुव इत्युपपदाभावेऽपि कर्मण्यानच् प्रत्ययः ।
 > आमंत्रितत्वान्निघातः ॥
+
+#### English of the bhāṣya
+
+O you who are praised (स्तवान (*stavāna*)) by the singers, lord of the Viśas, that is, of the Maruts, O Indra, together with all the gods who are to be worshipped, advance this sacrifice of ours, which is धितावानं (*dhitāvānaṃ*). Vāna is an oblation: it is shared, that is, it is received. Dhita is placed. So the sacrifice is one of which the oblation is placed, that is, in which the oblation is collected. The sense is: make it prosper greatly, make it complete by accepting the oblations. णः (*ṇaḥ*): उपसर्गाद्बहुलमिति संहितायां णत्वं (*upasargādbahulamiti saṃhitāyāṃ ṇatvaṃ*), the change to ṇ is in the saṃhitā by the rule that it is frequent after a preverb.
+
+धितावानं (*dhitāvānaṃ*): from the root डुधाण् धारणपोषणयोरित्यस्मान्निष्ठा (*ḍudhāṇ dhāraṇapoṣaṇayorityasmānniṣṭhā*), the root dhā in the sense of holding and nourishing, comes the past participle. बहुव्रीहौ पूर्वपदस्वरः (*bahuvrīhau pūrvapadasvaraḥ*): in a bahuvrīhi the accent is that of the first member. तिरः (*tiraḥ*): तरतेर्व्यत्ययेन शः (*taratervyatyayena śaḥ*), from the root tṛ the suffix śa by interchange; प्रत्ययस्वरः (*pratyayasvaraḥ*), the accent is that of the suffix. स्तवान (*stavāna*): the root is ष्टुञ् स्तुत् (*ṣṭuñ stut*); **NOTE** सम्यानच् स्तुव इत्युपपदाभावेऽपि कर्मण्यानच् प्रत्ययः (*samyānac stuva ityupapadābhāve 'pi karmaṇyānac pratyayaḥ*): although by the rule on stu the suffix ānac requires an accompanying word, here even without one the suffix ānac is added in the sense of the object. आमंत्रितत्वान्निघातः (*āmaṃtritatvānnighātaḥ*): because it is a vocative, the accent is lowered.
 
 ### Ṛk 4
 
@@ -146,9 +164,11 @@ For the Brāhmaṇācchaṃsin priest at the morning pressing, this verse इं
 > प्र यंति । प्रकर्षण गच्छंति । तान् धारयेति भावः ॥ क्षयं । क्षि निवासगत्योरित्यस्मादधिकरणे घप्रत्ययः । प्रत्ययस्वरेणांतोदात्ते प्राप्ते क्षयो निवास इत्याद्युदात्तत्वं । चंद्रासः । चदि आह्लादने दीप्ता च । अस्मात्सा यितंचीत्यादिना रक्षत्ययः । आज्ञसेरसुगित्यसुक् । प्रत्ययस्वरः । इंदवः । उंदेरिच्चा देरित्युप्रत्ययः ।
 > निदित्यनुवृत्तेराद्युदात्तः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-"O Indra, lord of the good (सत्पते (*satpate*)): these Soma juices, gladdening (चंद्रासः (*caṃdrāsaḥ*)) and bright (इंदवः (*iṃdavaḥ*)), pressed and offered by us, go forth (प्र यंति (*pra yaṃti*)) into क्षयं (*kṣayaṃ*)." क्षय (*kṣaya*) is the belly, since food and the like dwell (क्षियंति (*kṣiyaṃti*)) in it; प्र यंति (*pra yaṃti*) means they go forth vigorously. The sense is: hold them. चंद्रासः (*caṃdrāsaḥ*) is from चदि (*cadi*), in the sense of gladdening and shining.
+O lord of the good, Indra, these Soma juices, delighting and bright, pressed and given by us, go forth to the क्षयं (*kṣayaṃ*). A kṣaya is that in which food and the like dwell, that is, the belly. They go forth with force. The sense is: hold them.
+
+Grammar: क्षयं (*kṣayaṃ*): from the root क्षि निवासगत्योरित्यस्मादधिकरणे घप्रत्ययः (*kṣi nivāsagatyorityasmādadhikaraṇe ghapratyayaḥ*), to dwell and to go, the suffix gha in the locative sense. प्रत्ययस्वरेणांतोदात्ते प्राप्ते क्षयो निवास इत्याद्युदात्तत्वं (*pratyayasvareṇāṃtodātte prāpte kṣayo nivāsa ityādyudāttatvaṃ*): the accent on the last syllable, by the suffix, was to come, but by the rule that kṣaya in the sense of dwelling is accented on the first syllable, it has that accent. चंद्रासः (*caṃdrāsaḥ*): the root is चदि आह्लादने दीप्ता च (*cadi āhlādane dīptā ca*), in the sense of delighting, and shining. **NOTE** From it, by अस्मात्सा यितंचीत्यादिना रक्षत्ययः (*asmātsā yitaṃcītyādinā rakṣatyayaḥ*), the suffix is added. **NOTE** By आज्ञसेरसुगित्यसुक् (*ājñaserasugityasuk*) the augment asuk occurs; प्रत्ययस्वरः (*pratyayasvaraḥ*), the accent is that of the suffix. इंदवः (*iṃdavaḥ*): उंदेरिच्चा देरित्युप्रत्ययः (*uṃdericcā derityupratyayaḥ*), from the root und, with i in place of the first vowel, the suffix u. निदित्यनुवृत्तेराद्युदात्तः (*nidityanuvṛtterādyudāttaḥ*): because the word nit continues from before, the accent is on the first syllable.
 
 ### Ṛk 5
 
@@ -177,9 +197,11 @@ For the Brāhmaṇācchaṃsin priest at the morning pressing, this verse इं
 > इत्येण्प्रत्ययः । वृषादित्वादाद्युदात्तः । द्युक्षासः । क्षियतेरन्येभ्योऽपि दृश्यत इति
 > डप्रत्ययः । कृदुत्तरपदस्वरः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-O Indra, hold (दधिष्क (*dadhiṣka*)) in your belly the pressed Soma, which is to be chosen by all. These bright Soma drops are द्युक्षासः (*dyukṣāsaḥ*) (yours): they dwell in heaven (दिवि क्षियंति निवसंतीति (*divi kṣiyaṃti nivasaṃtīti*)). Therefore you should hold them. The meaning is that you should take them in.
+O Indra, hold in your belly the Soma that has been pressed and is to be chosen by all. These bright Soma juices are yours, द्युक्षासः (*dyukṣāsaḥ*): they dwell in heaven. Therefore hold them. The sense is that.
+
+Grammar: दधिष्क (*dadhiṣka*) is the imperative, दधातेर्लोटि रूपं (*dadhāterloṭi rūpaṃ*), of the root dhā. **NOTE** The augments are anudātta, so the augment iṭ is anudātta, and इतीटोऽनुदात्तत्वात्पत्ययस्वरः (*itīṭo 'nudāttatvātpatyayasvaraḥ*) the accent is that of the suffix. **NOTE** वरेण्यं (*vareṇyaṃ*): the root is वृज् संभक्तौ (*vṛj saṃbhaktau*), to share; the suffix is इत्येण्प्रत्ययः (*ityeṇpratyayaḥ*), eṇ; वृषादित्वादाद्युदात्तः (*vṛṣāditvādādyudāttaḥ*), because it belongs to the vṛṣa group, it is accented on the first syllable. द्युक्षासः (*dyukṣāsaḥ*): क्षियतेरन्येभ्योऽपि दृश्यत इति डप्रत्ययः (*kṣiyateranyebhyo 'pi dṛśyata iti ḍapratyayaḥ*), from the root kṣi the suffix ḍa, since it is seen also after other roots; कृदुत्तरपदस्वरः (*kṛduttarapadasvaraḥ*), the accent is that of the final member, a kṛt word. **NOTE**
 
 ### Ṛk 6
 
@@ -210,9 +232,13 @@ O Indra, hold (दधिष्क (*dadhiṣka*)) in your belly the pressed Soma
 > दाधा घ्नदाबित्यत्रादाबिति प्रतिषेधेन घुसंज्ञाया अभावाद्दो दद्योरिति ददादेतो न भवति । तैति युष्मच्छब्दस्य तृतीया कर्तकरणे कृता बहुलमिति समासः ।
 > तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः । यशः । अशू व्याप्तौ । अशेयुट्टेत्यसुन् । तत्संनियोगेन धातोर्युडागमः । नित्त्वादाद्युदात्तः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-गिर्वणः (*girvaṇaḥ*) means one to be served (वननीय (*vananīya*)) with songs of praise. So Yāska (Ni. 6-14) says that a god is गिर्वणा (*girvaṇā*) because people serve him with songs. O Indra, such as you are, drink this pressed Soma of ours, since you are sprinkled with the streams of the intoxicating Soma. O Indra, the food (यशः (*yaśaḥ*)) that is among us is cleansed and made clear by you.
+Girvaṇas is one to be served with songs. So Yāska says: गिर्वणा देवो भवति गीर्भिरेनं (*girvaṇā devo bhavati gīrbhirenaṃ*) वनयंति (*vanayaṃti*), "Girvaṇas: the god is so called, for they serve him with songs." The reference is नि. ६-१४ (*ni. 6-14*). O Indra, such as you are, drink for us this Soma that has been pressed. For you are sprinkled with the streams of the honey, that is, of the Soma that intoxicates. O Indra, त्वादातमित्त्वया शोधितं विशदीकृतमेव यशोऽन्नमस्मासु भवति (*tvādātamittvayā śodhitaṃ viśadīkṛtameva yaśo 'nnamasmāsu bhavati*): the glory, which is food, purified and made clear by you, is among us. **NOTE**
+
+Grammar: गिर्वणः (*girvaṇaḥ*): संभक्तावित्यस्मादसुन् (*saṃbhaktāvityasmādasun*), from the root van in the sense of sharing, the suffix asun; गिर उपधाया दीर्घाभावश्चांदसः (*gira upadhāyā dīrghābhāvaścāṃdasaḥ*), the non-lengthening of the penultimate of gir is Vedic. षाष्टिकमाद्युदात्तत्वं (*ṣāṣṭikamādyudāttatvaṃ*): the accent on the first syllable is the one taught in the sixth book, concerning a word of address. **NOTE** पाहि (*pāhi*): the imperative of the root पा पान इत्यस्माल्लोटि रूपं (*pā pāna ityasmālloṭi rūpaṃ*). Because आमंत्रितस्याविद्यमानत्वेन (*āmaṃtritasyāvidyamānatvena*) the word of address is treated as non-existent, and the verb is at the beginning of a pāda, पादादित्वादनिघातः (*pādāditvādanighātaḥ*) the accent is not lowered; प्रत्ययस्वरः (*pratyayasvaraḥ*) the accent is that of the suffix.
+
+त्वादातं (*tvādātaṃ*): the root is दैप् शोधने (*daip śodhane*), to purify. सत्यपि पकारे नानुबंधकृतमनेजंतत्वमित्येजंत एवायं (*satyapi pakāre nānubaṃdhakṛtamanejaṃtatvamityejaṃta evāyaṃ*): even though there is the letter p, the property of not ending in e, ai, o, au is not made by an anubandha, so this root ends in ej. तत अदेच इत्यात्वं (*tata adeca ityātvaṃ*): then the ā-substitution. **NOTE** अस्मात्कर्मणि क्तः (*asmātkarmaṇi ktaḥ*): from it the suffix kta in the passive sense. दाधा घ्नदाबित्यत्रादाबिति प्रतिषेधेन घुसंज्ञाया अभावाद्दो दद्योरिति ददादेतो न भवति (*dādhā ghnadābityatrādābiti pratiṣedhena ghusaṃjñāyā abhāvāddo dadyoriti dadādeto na bhavati*): because of the prohibition in that rule (दाधा घ्नदाबित्यत्रादाबिति (*dādhā ghnadābityatrādābiti*)), the technical name ghu does not apply, and so the substitution of dad by the rule on do does not occur. **NOTE** तैति युष्मच्छब्दस्य तृतीया (*taiti yuṣmacchabdasya tṛtīyā*): the instrumental of the word yuṣmad; कर्तकरणे कृता बहुलमिति समासः (*kartakaraṇe kṛtā bahulamiti samāsaḥ*): the compound is by the rule on the agent or instrument with a kṛt word, which is frequent. **NOTE** तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः (*tṛtīyā karmaṇīti pūrvapadaprakṛtisvaraḥ*): the accent is that of the nature of the first member. यशः (*yaśaḥ*): the root is अशू व्याप्तौ (*aśū vyāptau*), to pervade; अशेयुट्टेत्यसुन् (*aśeyuṭṭetyasun*), the suffix asun; तत्संनियोगेन धातोर्युडागमः (*tatsaṃniyogena dhātoryuḍāgamaḥ*), in connection with it the root takes the augment yuṭ. नित्त्वादाद्युदात्तः (*nittvādādyudāttaḥ*): because it is nit, the accent is on the first syllable.
 
 ### Ṛk 7
 
@@ -241,9 +267,11 @@ O Indra, hold (दधिष्क (*dadhiṣka*)) in your belly the pressed Soma
 > समासे तस्य स्वरः । पीत्वी । पा पान इत्यस्मात् क्वाप्रत्ययस्य स्नात्वादयश्चेति
 > निपातनात् त्वी इत्यादेशः । प्रत्ययस्वरः । घुमास्थागापेत्यादिना ईत्वं ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-वनिनः (*vaninaḥ*): one who has वनं (*vanaṃ*), devotion directed to the deities, is वनी (*vanī*); of that sacrificer who serves the gods, the shining, undiminished (अक्षिता (*akṣitā*)), full oblations, Soma and the others, gather around (अभि (*abhi*)) Indra, they join with him (सचंते (*sacaṃte*), समवयंति (*samavayaṃti*)). Among them, having drunk the Soma (पीत्वी (*pītvī*) for सोमं पीत्वा (*somaṃ pītvā*)), that Indra grows (वावृधे (*vāvṛdhe*)).
+वनिनः (*vaninaḥ*): वनं देवताविषयं संभजनमस्यास्तीति वनी (*vanaṃ devatāviṣayaṃ saṃbhajanamasyāstīti vanī*), vana is a worship that has the deities as its object, and one who has it is vanin. Of that sacrificer who worships the gods, the brilliant and imperishable, complete and free from decay, oblations, Soma and the others, join Indra from all sides: अभितः सचंते (*abhitaḥ sacaṃte*), they come together (समवयंति (*samavayaṃti*)). Among them, सोमं पीत्वा वावृधे (*somaṃ pītvā vāvṛdhe*), having drunk the Soma he grows strong: that Indra increases. **NOTE**
+
+Grammar: वनिनः (*vaninaḥ*): अत इनिठनानितीनिप्रत्ययः (*ata iniṭhanānitīnipratyayaḥ*), the suffix ini, and its accent follows. **NOTE** सचंते (*sacaṃte*): षच समवाय इत्यस्य लट रूपं (*ṣaca samavāya ityasya laṭa rūpaṃ*), the present tense of the root sac, in the sense of union. **NOTE** अक्षिता (*akṣitā*): क्षि क्षय इत्यस्य निष्ठा (*kṣi kṣaya ityasya niṣṭhā*), the past participle of the root kṣi, to decay. अत्र ण्यदर्थ इति दीर्घाभावः (*atra ṇyadartha iti dīrghābhāvaḥ*): here, because the sense is that of the suffix ṇyat, there is no lengthening. तस्मादेव क्षियो दीर्घादिति निष्ठानत्ताभावः (*tasmādeva kṣiyo dīrghāditi niṣṭhānattābhāvaḥ*): and for the same reason, by the rule on kṣi after a long vowel, ta does not become na. समासे तस्य स्वरः (*samāse tasya svaraḥ*): in the compound with the negative, the accent is that of that compound. पीत्वी (*pītvī*): पा पान इत्यस्मात् क्वाप्रत्ययस्य स्नात्वादयश्चेति (*pā pāna ityasmāt kvāpratyayasya snātvādayaśceti*), from the root pā, to drink, the suffix ktvā, and निपातनात् त्वी इत्यादेशः (*nipātanāt tvī ityādeśaḥ*), by irregular formation the substitution त्वी (*tvī*). प्रत्ययस्वरः (*pratyayasvaraḥ*): the accent is that of the suffix. घुमास्थागापेत्यादिना ईत्वं (*ghumāsthāgāpetyādinā ītvaṃ*): the ī-substitution is by the rule beginning thus.
 
 ### Ṛk 8
 
@@ -269,9 +297,11 @@ O Indra, hold (दधिष्क (*dadhiṣka*)) in your belly the pressed Soma
 > गिरो वाचो जुषस्व । सेवस्व ॥ परावतः । उपसर्गाच्छंदसि धात्वर्थ इति वतिः ।
 > प्रत्ययस्वरः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-Sāyaṇa says: O Indra, slayer of Vṛtra, come towards us, whether from a near place (अर्वावतः (*arvāvataḥ*), "from this side") or from a very distant place (परावतः (*parāvataḥ*)). Having come, accept (जुषस्व (*juṣasva*), "serve") these praise-words (गिरः (*giraḥ*), "speech") of ours.
+O Indra, slayer of Vṛtra, from the near place, the nearer side, or from the very distant place, aiming at us, come to us. Having come, accept these songs of ours, which are our praises, that is, our speech; serve them.
+
+Grammar: परावतः (*parāvataḥ*): उपसर्गाच्छंदसि धात्वर्थ इति वतिः (*upasargācchaṃdasi dhātvartha iti vatiḥ*), the suffix vati, by the rule on a preverb in the Veda in the sense of the root. प्रत्ययस्वरः (*pratyayasvaraḥ*): the accent is that of the suffix.
 
 ### Ṛk 9
 
@@ -298,6 +328,8 @@ Sāyaṇa says: O Indra, slayer of Vṛtra, come towards us, whether from a near
 > सोमपानार्थवागच्छ ॥ परावतं अर्नावतं । अंतरांतरेण युक्ते । पा. २-३-४ ।
 > इति द्वितीया । ततः । पंचम्यास्तसिल् । लित्त्वरः ॥
 
-#### Gist of the bhāṣya
+#### English of the bhāṣya
 
-O Indra, when you are invoked (हूयसे (*hūyase*), "properly worshipped") from the very distant region (परावतं (*parāvataṃ*)), from the near region (अर्वावतं (*arvāvataṃ*)), or from the middle region between the two (अंतरा (*aṃtarā*)), then from that region come here, to this sacrifice, to drink the Soma.
+O Indra, यद्यस्मिन्नरावतमतिविप्रकृष्टस्य देशस्य (*yadyasminnarāvatamativiprakṛṣṭasya deśasya*): wherever you are called, in the region between the very distant place and the near place, in their middle region, where you are rightly sacrificed to, from that place come to this sacrifice, for the drinking of the Soma. **NOTE**
+
+Grammar: परावतं अर्नावतं । अंतरांतरेण युक्ते । पा. २-३-४ (*parāvataṃ arnāvataṃ | aṃtarāṃtareṇa yukte | pā. 2-3-4*), इति द्वितीया (*iti dvitīyā*), the second case is used. ततः (*tataḥ*): पंचम्यास्तसिल् (*paṃcamyāstasil*), the suffix tasil in the sense of the fifth case. लित्त्वरः (*littvaraḥ*): the accent follows from the suffix being lit. **NOTE**

@@ -68,6 +68,28 @@ END_PROSE = re.compile(r'[.?!:;)\]"”’*]\s*$')
 END_QUOTE = re.compile(r'([।॥‖|*]|\s\s)$')
 
 
+PDF_CSS = '''
+@page { size: A4; margin: 20mm 19mm 20mm 19mm;
+  @top-center { content: string(sukta); font: 8.5pt "Noto Serif", serif; color: #777; }
+  @bottom-center { content: counter(page); font: 8.5pt "Noto Serif", serif; color: #777; } }
+@page :first { @top-center { content: none; } }
+html { font-family: "Noto Serif", "Lohit Devanagari", serif; font-size: 10.5pt; line-height: 1.55; color: #111; }
+h1 { font-size: 16pt; line-height: 1.3; margin: 0 0 8mm; font-weight: 600; }
+h2 { string-set: sukta content(); font-size: 14pt; margin: 8mm 0 3mm; padding-bottom: 1.5mm; border-bottom: 1.2pt solid #333; break-after: avoid; }
+h3 { font-size: 12.5pt; margin: 9mm 0 2mm; padding-top: 2.5mm; border-top: .6pt solid #999; break-after: avoid; }
+h4 { font-family: "Noto Serif", "Lohit Devanagari", serif; font-size: 8pt; font-weight: 600; letter-spacing: .06em; color: #666;
+     margin: 4.5mm 0 1mm; break-after: avoid; }
+h4.en { color: #7a3b00; }
+blockquote { font-family: "Lohit Devanagari", "Noto Serif", serif; font-size: 12pt; line-height: 1.75; margin: 0 0 2mm;
+     padding: 1.2mm 0 1.2mm 4mm; border-left: 2pt solid #c9c2b5; background: #faf8f3; text-align: left; }
+blockquote p { margin: 0 0 1.5mm; }
+blockquote em { font-family: "Noto Serif", serif; font-size: 9.5pt; color: #555; }
+p { margin: 0 0 2.6mm; text-align: left; orphans: 2; widows: 2; }
+p em { color: #555; font-size: 9.5pt; }
+.note { font-weight: 700; font-size: 8pt; color: #fff; background: #b3261e; padding: 0 1.2mm; border-radius: 1mm; }
+'''
+
+
 def kind(heading):
     if 'Saṃhitā-pāṭha' in heading: return 'samhita'
     if 'Pada-pāṭha' in heading: return 'pada'
@@ -235,6 +257,7 @@ def main():
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--out', default=str(ROOT / 'publish' / 'out'))
     ap.add_argument('--html', action='store_true')
+    ap.add_argument('--pdf', action='store_true', help='reading copy (needs weasyprint and the fonts of HANDBOOK §8)')
     ap.add_argument('--task', metavar='M.S', help='write the translator task file for one sūkta')
     ap.add_argument('--notes', action='store_true', help='write volN/review/bhashya_notes.tsv from all English files')
     ap.add_argument('--gist', action='store_true', help='print the Gist even where an English file exists')
@@ -315,6 +338,17 @@ def main():
                        'h3{border-top:1px solid #ccc;padding-top:.6em}\n', encoding='utf-8')
         subprocess.run(['pandoc', str(f), '-s', '--metadata', f'title={title}', '-c', css.name, '-o', str(h)], check=True)
         print(f'wrote {h}')
+    if a.pdf:
+        import html as _h
+        from weasyprint import HTML
+        frag = subprocess.run(['pandoc', '-f', 'markdown', '-t', 'html'], input=md, capture_output=True, text=True, check=True).stdout
+        frag = frag.replace('<strong>NOTE</strong>', '<span class="note">NOTE</span>')
+        frag = re.sub(r'<h4[^>]*>English of the bhāṣya</h4>', '<h4 class="en">English of the bhāṣya</h4>', frag)
+        doc = (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{_h.escape(title)}</title>'
+               f'<style>{PDF_CSS}</style></head><body>{frag}</body></html>')
+        pf = f.with_suffix('.pdf')
+        HTML(string=doc).write_pdf(str(pf))
+        print(f'wrote {pf}')
     if errs:
         print('CHECK FAILED: ' + ' | '.join(errs)); return 1
     print('  check passed: every text line is in the source unchanged; Ṛk count matches the source')
