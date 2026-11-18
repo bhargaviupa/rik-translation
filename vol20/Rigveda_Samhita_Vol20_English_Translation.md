@@ -484,6 +484,252 @@ O Mitra and Varuṇa, you two, who shine well (सम्राजौ (*samrājau
 - मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
 - विदथे (*vidathe*)—in this sacrifice
 
+### Printed p. 19
+
+- राजथः (*rājathaḥ*)—you shine
+- नां (*nāṃ*)—from you **NOTE**
+- वृष्टिं (*vṛṣṭiṃ*)—in the form of rain
+- राधः (*rādhaḥ*)—wealth
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- ईमहे (*īmahe*)—we pray for
+- तन्यवः (*tanyavaḥ*)—your extended rays
+- द्यावापृथिवी (*dyāvāpṛthivī*)—all of heaven and earth
+- वि चरंति (*vi caraṃti*)—move about in various ways
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, lords of this whole world and seers of heaven, you shine in this sacrifice. From you we pray for wealth in the form of rain and for freedom from death. Your extended rays move about in various ways over all of heaven and earth.
+
+##### English translation
+Imperial rulers of this world, you shine, Mitra and Varuna, at this sacrifice, the beholders of heaven : we ask of you the wealth (that is) rain, and immortality, for your forms traverse earth and heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+सम्राजौ (*samrājau*)—The meaning stated here is सम्यक् राजमान् (*samyak rājamān*), "shining well". Since the word सम्राट् (*samrāṭ*) also has the meaning "king of kings, emperor", that meaning may be given here.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राजा॑ उ॒ग्रा वृ॑ष॒भा दि॒वस्पती॑ पृथि॒व्या मि॒त्रावरु॑णा॒ विच॑र्षणे ।  
+> चि॒त्रेभि॑र॒भैरुप॑ तिष्ठथो॒ रवं॒ द्यां व॑र्षयथो॒ असु॑रस्य  ॒॑
+> मायया ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराजा । उग्रा । वृषभा । दिवः । पती इति । पृथिव्याः । मित्रावरुणा । विचर्षणे इति  
+> विचर्षणे ।  
+> चित्रेभिः । अभ्रैः । उप । तिष्ठथः । रवं । द्यां । वर्षयथः । असुरस्य । मायया ॥
+
+### Printed p. 20
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सम्राजौ सम्यग्राजमानावुग्रीद्योर्णबलौ वृषभा वर्षितार् दिवो
+> द्युलोकस्य पती स्वामिनौ पृथिव्याश्च पती विचर्षन्णे सर्वस्य द्रष्टारौ मित्रावरुणौ ।
+> एवं महानुभावौ चित्रेभिश्चायनीयैरभ्रैर्मेघैः सह रवं स्तोत्रमुप
+> तिष्ठथः । पश्चात् द्यां च वर्षयथोऽसुरस्योदकनिरसितुः पर्जन्यस्य मायया
+> प्रज्ञया सामर्थ्येन ॥
+
+##### Gist of the bhāṣya
+
+सम्राजौ (*samrājau*) means those who shine well; they are fierce and mighty **NOTE**. वृषभा (*vṛṣabhā*) means those who shower rain. They are the lords of the world of heaven and also the lords of the earth, and the seers of all, Mitra and Varuṇa. Being of such great power, they approach the praise (रवं (*ravaṃ*), that is, stotra) together with variegated, attractive clouds. Afterwards they cause heaven to rain by the māyā, that is, the wisdom or power, of Parjanya, the असुर (*asura*), the one who sends down water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सम्राजौ (*samrājau*)—you who shine fully
+- उग्रा (*ugrā*)—you of terrible power
+- वृषभा (*vṛṣabhā*)—you who shower rain
+- दिवः (*divaḥ*)—of the world of heaven
+- पती (*patī*)—lords
+- पृथिव्याः (*pṛthivyāḥ*)—protectors of the earth
+- विचर्षणी (*vicarṣaṇī*)—you who have the power to see everything
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- चित्रेभिः (*citrebhiḥ*)—attractive
+- अभ्रैः (*abhraiḥ*)—with clouds
+- रवं (*ravaṃ*)—to hear the sound of our praise
+- उप तिष्ठथः (*upa tiṣṭhathaḥ*)—come near to us (and afterwards)
+- असुरस्य (*asurasya*)—of the mighty Parjanya
+- मायया (*māyayā*)—with the help of wisdom
+- द्यां (*dyāṃ*)—the atmosphere
+- वर्षयथः (*varṣayathaḥ*)—cause to pour down rain
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who shine fully, who have terrible power, who shower rain, who are lords of the world of heaven, protectors of the earth, and have the power to see everything: come near us with attractive clouds to hear the sound of our praise. Afterwards, with the help of the wisdom of the mighty Parjanya, cause the atmosphere to pour down rain.
+
+##### English translation
+Imperial and mighty showerers, lords of heaven and earth, beholders of the universe, you approach, Mitra and Varuna, with variegated clouds to hear the sound (of your praises), and cause the sky to (send down) rain by the power of the emitter of showers.
+
+#### Ṛk 4
+
+### Printed p. 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒या नां॑ मित्रावरुणा दि॒वि श्रि॒ता सूर्यो॒ ज्योति॑श्चरति  ॒॑
+> चित्रमायुधं ।  
+> तम॒भ्रेण॑ वृ॒ष्ट्या गू॑हथो दि॒वि पर्ज॑न्य द्र॒प्सा मधु॑मंत  
+> ईरते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माया । वां । मित्रावरुणा । दिवि । श्रिता । सूर्यः । ज्योतिः । चरति । चित्रं । आयुधं।  
+> तं । अभ्रेण । वृष्टा । गूहथः । दिवि । पर्जन्य । द्रप्साः । मधुमंतः । ईरते ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा नां युवयोर्माया दिवि श्रिता । आश्रिता । कैषा
+> युवयोर्मायोच्यते । सूर्यः सर्वस्य प्रेरको ज्योतिर्दिप्यमानश्चित्रं
+> चायनीयमायुधमुक्तलक्षणायुधरूपश्चरति । परिभ्रमत्यंतरिक्षे शत्रुमारकत्वादायुधमुच्यते । तं सूर्यमभ्रेण मेघेन वृष्ट्या दिवि गूहथः । गोपायथः।
+> हे पर्जन्य देव त्वया मित्रावरुणाभ्यां वृष्ट्यर्थं प्रेरितेन मधुमंतो द्रप्सा
+> ईरते । ईर्यंते । त्वत्सृष्टा वा गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, your māyā is lodged in the sky (the printed block has नां (*nāṃ*) for "your" **NOTE**). What is this māyā of yours said to be? The sun, the impeller of all, a light, shining, a wonderful and attractive weapon of the kind described, moves about; he travels round in the atmosphere, and is called a weapon because he kills enemies. That sun you conceal (गूहथः (*gūhathaḥ*), that is, गोपायथः (*gopāyathaḥ*), "you guard") in the sky with cloud and with rain. O god Parjanya, impelled by you for the sake of rain by Mitra and Varuṇa, the honeyed drops go forth (ईरते (*īrate*), they are sent), or else they go forth sent by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- वां (*vāṃ*)—your
+- माया (*māyā*)—extraordinary power
+- दिवि (*divi*)—in the atmosphere
+- श्रिता (*śritā*)—is situated (is manifest)
+- सूर्यः (*sūryaḥ*)—the sun, the impeller of all
+- ज्योतिः (*jyotiḥ*)—as radiance
+- चित्रं (*citraṃ*)—as attractive
+- आयुधं (*āyudhaṃ*)—as the weapon of your māyā
+- चरति (*carati*)—moves in the atmosphere
+- तं (*taṃ*)—that sun
+- अभ्रेण (*abhreṇa*)—with cloud
+- वृष्टा (*vṛṣṭā*)—with rain
+- दिवि (*divi*)—in the atmosphere
+- गूहथः (*gūhathaḥ*)—you cover
+- पर्जन्य (*parjanya*)—O god Parjanya (by you alone, impelled by Mitra and Varuṇa)
+- मधुमंतः (*madhumaṃtaḥ*)—full of sweet juice
+- द्रप्साः (*drapsāḥ*)—waters
+- ईरते (*īrate*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, your extraordinary power is situated in the atmosphere. The sun, the impeller of all, moves in the atmosphere as radiance, as something attractive, and as the weapon of your māyā
+
+### Printed p. 22
+
+that sun you cover in the atmosphere with cloud and with rain. O god Parjanya, from you alone, impelled by Mitra and Varuṇa, waters full of sweet juice flow.
+
+##### English translation
+Your device, Mitra and Varuna, is manifested in heaven, when the light (that is) the sun, your wonderful weapon, moves (in the firmament) : him you invest in the sky with cloud (and) with rain ; and (your) sweet drops, Parjanya, fall (at their desire).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॑ युंजते म॒रुतः॑ शु॒भे सु॒खं शूरो॒ न मि॑त्रावरुणा॒  ॑
+> गवि॑ष्टिषु ।  
+> रजां॑सि चि॒त्रा वि च॑रंति त॒न्यवो॑ दि॒वः स॑म्राजा॒ पय॑सा न  
+> उक्षतं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । यंजते । मरुतः । शुभे । सुखं । शूरः । न । मित्रावरुणा । गोऽइष्टिषु!  
+> रजांसि । चित्रा । वि । चरंति । तन्यवः । दिवः । संराजा । पयसा । नः । उक्षतं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवयोरनुग्रहात् मरुतः शुभ उदकार्थं सुखं
+> शोभनाक्षद्वारं रथं युंजते । अश्वैर्योजयंति । शूरो न शूर इव । स यथा
+> युद्धार्थं रथं युनक्ति तद्वत् । गविष्टिषु गवामुदकानामेषेषु निमित्तेषु
+> चित्रा चायनीयानि रजांसि लोकान् तन्नवस्ततास्ते मरुतो वि चरंति । विविधं
+> चरंति । तस्मात्तैः सहितौ हे सम्राजा युवां दिवो द्युलोकात्पयसोदकेन
+> नोऽस्मानुक्षतं । सिंचतं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, by your favour the Maruts yoke, for splendour, that is, for the sake of water, a chariot with a good axle-hole; they yoke it with horses, like a hero who yokes his chariot for battle. गविष्टिषु (*gaviṣṭiṣu*) means on these occasions, namely the quests for cows, that is, for waters. Those Maruts, whose bodies are spread out, move about variously, through the wonderful, attractive worlds. Therefore, O you two who shine well, together with them, sprinkle us with water, that is, with rain, from the world of heaven.
+
+### Printed p. 23
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे मित्रावरुणौ (*he mitrāvaruṇau*)—O Mitra and Varuṇa
+- मरुतः (*marutaḥ*)—the Maruts
+- शूरो न (*śūro na*)—as a hero prepares his chariot for battle
+- शुभे (*śubhe*)—for the sake of water
+- सुखं (*sukhaṃ*)—that moves easily
+- रथं (*rathaṃ*)—their chariot
+- युंजते (*yuṃjate*)—they join with horses and make ready
+- तन्यवः (*tanyavaḥ*)—those clouds whose bodies are spread out widely
+- गविष्टिषु (*gaviṣṭiṣu*)—for the sake of sprinkling water
+- चित्रा (*citrā*)—attractive
+- रजांसि (*rajāṃsi*)—all the worlds
+- वि चरंति (*vi caraṃti*)—move about
+- सम्राजा (*samrājā*)—O Mitra and Varuṇa, who are lords
+- दिवः (*divaḥ*)—from the world of heaven
+- नः (*naḥ*)—to us
+- पयसा (*payasā*)—rain
+- उक्षतं (*ukṣataṃ*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, as a hero prepares his chariot for battle, the Maruts join with horses and make ready, for the sake of water, their chariot that moves easily. Those clouds, whose bodies are spread out widely, move about through all the attractive worlds for the sake of sprinkling water. O Mitra and Varuṇa, who are lords, pour down rain on us from the world of heaven.
+
+##### English translation
+The Maruts harness their easy-going chariot, Mitra and Varuna, for (the emission of ) water, as a hero (harnesscs his war-car): their forms traverse the different spheres to distribute the rain : do you, therefore, supreme rulers, shed upon us water from heaven.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाचं॒ सु मि॑त्रावरुणा॒विरा॑वतीं प॒र्जन्य॑श्चि॒त्रां व॑दति॒ त्विषी॑मतीं ।  
+> अ॒भ्रा व॑सत म॒रुतः॒ सु मा॒यया॒ द्यां व॑र्षयतमरु॒णाम॑रे॒पसं॑ ॥ ६ ॥
+
+### Printed p. 24
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाचं । सु । मित्रावरुणौ । इरावतीं । पर्जन्यः । चित्रां । वदति । त्विषिमतीं ।  
+> अभ्रा । वसत । मरुतः । सु । मायया । द्यां । वर्षयतं । अरुणां । आरेपसं॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवयोरनुग्रहात् पर्जन्यो मेघः सु सुष्टिरावतीमन्नवतीमन्नसाधिकां चित्रां चायनीयां त्वषीमतीं दीप्तिमतीं वाचं
+> गर्जनशब्दं वदति । शब्दयति वृष्ट्यर्थं । मरुतश्चाभ्राभ्राणि मेघान् सु सुष्टु
+> वसत आच्छादयंति मायया स्वप्रज्ञया । युवां च पर्जन्येन मरुद्धिश्च
+> सहारुणामरुणवर्णामरेपसमपापां वृष्टविघातिनीं द्यां वर्षयतं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, by your favour Parjanya, the cloud, utters well a voice that is food-bearing, that is, productive of food, wonderful and attractive, radiant: a thundering sound, he sounds it for the sake of rain. The Maruts, too, cover the clouds well with their own wisdom (मायया (*māyayā*)). And you two, together with Parjanya and the Maruts, cause to rain the sky that is reddish, free from fault (without sin), and वृष्टविघातिनीं (*vṛṣṭavighātinīṃ*) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa (by your influence alone)
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- सु (*su*)—exceedingly
+- इरावतीं (*irāvatīṃ*)—that which brings about food
+- चित्रां (*citrāṃ*)—attractive
+- त्विषीमतीं (*tviṣīmatīṃ*)—radiant
+- वाचं (*vācaṃ*)—the thundering sound
+- वदति (*vadati*)—he makes manifest
+- मरुतः (*marutaḥ*)—the Maruts also
+- मायया (*māyayā*)—by their power in the form of wisdom
+- अभ्रा (*abhrā*)—the clouds
+- सु (*su*)—exceedingly
+- वसत (*vasata*)—they cover (you two also)
+- अरुणां (*aruṇāṃ*)—golden-coloured
+- अरेपसं (*arepasaṃ*)—free from stain
+- द्यां (*dyāṃ*)—the world of heaven
+- वर्षयतं (*varṣayataṃ*)—you cause to pour down rain
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, by your influence alone Parjanya makes manifest a thundering sound that exceedingly brings about food, is attractive and radiant. The Maruts also, by their power in the form of wisdom, cover the clouds exceedingly. You two also cause the world of heaven, which is golden-coloured and free from stain, to pour down rain.
+
+##### English translation
+The cloud, (through your will), Mitra and Varuna utters a wonderful sound, indicative of radiance, and announcing (abundant) food: the Maruts thoroughly invest the clouds with (their) devices, and (along with them), you two cause the purple and faultless sky to send down rain.
+
 ---
 
-**Progress note:** Done through printed p. 18. Roth, Varuna and water, Sukta 63 intro, Rk 1-2 start, pp. 13-18
+**Progress note:** Done through printed p. 24. Sukta 63 Rk 2 end to Rk 6, pp. 19-24
