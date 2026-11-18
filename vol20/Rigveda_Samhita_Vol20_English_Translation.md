@@ -7461,6 +7461,116 @@ both night and day.
 > यॆः । इमा । विश्वा । जातानि । आश्रवयति । श्लोकेन ।  
 > प्र । च । सुवाति । सविता ॥ ९ ॥
 
+### Printed p. 198
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रायणीये य इमा विश्वेति सवितुर्याज्या । सूत्रितं च । य इमा विश्वा
+> जातानि सुत्रमाणं पृथिवीं द्यामनेहसं । आ. ४-३ । इति ॥ अश्वमेधेश्वमुत्सृज्यानु
+> सवनं सावित्रीष्टिः कार्या । तस्यामेषा माध्यंदिने सवनेऽनुवाक्या । सूत्रितं च ।
+> य इमा विश्वा जातान्या देवो यातु सविता सुरत्नः । आ. १०-६ । इति ॥
+> यो देव इमेमानि विश्वा सर्वाणि जातान्युत्पन्नान् प्राणिनः । जंगमानित्यर्थः । तान् श्लोकेन यशसाश्रावयति । सर्वेऽप्यस्य स्तुतिं शृण्वंतीत्यर्थः । अथवा
+> गर्जनशब्देन सर्वाणीमान्युत्पन्नान्याश्रावयति वृष्ट्युन्मुखः सन् । किंच सविता प्र
+> सुवाति प्रेरयति तं वृणीमह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives three ritual uses. In the Prāyaṇīya offering the Ṛk beginning य इमा विश्वा (*ya imā viśvā*) is the yājyā for Savitṛ; the sūtra says: य इमा विश्वा जातानि सुत्रमाणं पृथिवीं द्यामनेहसं (*ya imā viśvā jātāni sutramāṇaṃ pṛthivīṃ dyāmanehasaṃ*) (Ā. 4-3). In the Aśvamedha, after the horse has been let loose, a Sāvitrī offering is to be performed at each pressing; in it this Ṛk is the anuvākyā at the midday pressing; the sūtra says: य इमा विश्वा जातान्या देवो यातु सविता सुरत्नः (*ya imā viśvā jātānyā devo yātu savitā suratnaḥ*) (Ā. 10-6). Then the sense of the verse: the god who makes all these born beings, that is, creatures, meaning moving ones, hear श्लोकेन (*ślokena*), that is, by fame; the meaning is that all hear his praise. Or else, eager to give rain, he makes all these born beings hear by the sound of his thunder. And further, Savitṛ impels, sends forth; him we choose.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- सविता (*savitā*)—god Savitṛ
+- विश्वा (*viśvā*)—all
+- इमा जातानि (*imā jātāni*)—these living beings
+- श्लोकेन (*ślokena*)—by his own greatness
+- अश्रावयति (*aśrāvayati*)—makes manifest
+- च (*ca*)—and
+- प्र सुवाति (*pra suvāti*)—gives life to all living beings (such a god Savitṛ we worship)
+
+##### भावार्थ (Bhāvārtha)
+
+The god Savitṛ who by his own greatness makes all living beings manifest, and who gives life to all living beings, such a god Savitṛ we worship.
+
+##### English translation
+Savitri, who proclaims his glory to all these living beings. and gives them life.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Prāyaṇīya offering, this Ṛk beginning य इमा विश्वा (*ya imā viśvā*) is to be recited as the yājyā mantra in the oblation made with Savitṛ as the deity; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra य इमा विश्वा जातानि सुत्रामाणं पृथिवीं द्यामनेहसं (*ya imā viśvā jātāni sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ*) (Ā. 4-6). **NOTE** And in the Aśvamedha sacrifice, after the horse has been let loose to wander, the after-pressing offering called सावित्रिपति (*sāvitripati*) is to be performed. In that offering, at the time of the midday pressing, this Ṛk is to be recited as the anuvākyā mantra; this is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra य इमा विश्वा जातान्या देवो यातु सविता सुरत्नः (*ya imā viśvā jātānyā devo yātu savitā suratnaḥ*) (Ā. 10-6). **NOTE**
+
+### Printed p. 199
+
+## Sūkta 83 (Maṇḍala 5)
+
+**Introduction**
+
+**A brief account of the deity Parjanya**
+
+Although the subject of the deity Parjanya is indicated in many Ṛks of the Ṛgveda, the sūktas that praise this deity alone are only three. Among them the 83rd sūkta, which is the present subject, is very important. There are ten Ṛks in all in it. In these Ṛks the nature of the deity Parjanya is well described. On the question who this deity Parjanya is, Yāska has given the etymology: पर्जन्यः । पर्जनस्यपेराद्यंतविषरीतस्य तर्पयिता जन्यः । परो जेता ना । परो जनयिता वा । प्रार्जयिता वा रसानां ॥ (*parjanyaḥ | parjanasyaperādyaṃtaviṣarītasya tarpayitā janyaḥ | paro jetā nā | paro janayitā vā | prārjayitā vā rasānāṃ ‖*) (Ni. 10-10). That is, the word parjanya is formed from the root तृप (*tṛpa*) (to satisfy). By transposing the letters of this root and by adding the (qualifying) word जन्य (*janya*), it becomes पर्जन्य (*parjanya*). How: in तृप (*tṛpa*), if the ṛ-letter (र् (*r*)) of the first syllable is added at the end, and the last letter, प (*pa*), at the beginning, there results पर् (*par*). If जन्य (*janya*) is added to this, पर्जन्य (*parjanya*) results. Because he pours down the rain (vṛṣṭi), which is most necessary to people and productive of food and the like, he satisfies the people: this is the component meaning of the word Parjanya. Or परो जेता वा (*paro jetā vā*): it may also mean one who is excellent and victorious. Or परो जनयिता वा (*paro janayitā vā*): or it may mean that this god, by pouring rain, is the producer of plants and the like and of food and the like. Or प्रार्थयिता वा रसानां (*prārthayitā vā rasānāṃ*): rasa means water; since he provides water to the people by means of rain, this god is named Parjanya. In this way Yāska has explained the formation of the word Parjanya. To explain this meaning he has given the second Ṛk of this very sūkta as an example and has also stated its etymology; we have explained it in the particulars of that Ṛk. The main purport is that in this sūkta the god who is the cause of rain, accompanied by thunder, lightning, flashes and storm, is praised as Parjanya.
+
+This Parjanya is praised not only in this sūkta but also in the 101st and 102nd sūktas of the seventh Maṇḍala; in the 101st there are only six Ṛks and in the 102nd only three Ṛks. But the nature, qualities and so on of Parjanya are not set forth so clearly as in the present sūkta. In the seventh
+
+### Printed p. 200
+
+Maṇḍala, although the deity of the 12th sūkta is the Maṇḍūkas (frogs), by option (in meaning) that sūkta also is concerned with Parjanya.
+
+Parjanya is the lord of all moving beings. (यो विश्वस्य जगतो देव ईशे (*yo viśvasya jagato deva īśe*), Ṛ. Saṃ. 7-101-2); in this god all the worlds, and the three worlds of the atmosphere, are established. That is, this god is the support of all the worlds. (यस्मिन्विश्वा भुवनानि तस्थुस्तिस्रो द्यावस्त्रेधा सस्तुरापः (*yasminviśvā bhuvanāni tasthustisro dyāvastredhā sasturāpaḥ*), Ṛ. Saṃ. 7-101-4); in this god the self of all beings abides. That is, this god is the impeller of all beings, moving and unmoving. (तस्मिन्नात्मा जगतस्तस्थुषश्च (*tasminnātmā jagatastasthuṣaśca*), Ṛ. Saṃ. 7-101-6); this god is said to be the son of heaven or of the heaven-deity (दिवस्पुत्राय (*divasputrāya*), Ṛ. Saṃ. 7-102-1). The subject of the deity Parjanya is stated not only in the sūktas mentioned above but also in the Ṛks Ṛ. Saṃ. 4-57-8; 5-63-4, 6; 6-52-6; 7-55-10; 8-6-1; 8-21-18; 9-2-9; 9-22-2; 10-66-6; 10-98-1, 8; 10-169-2. And in the Ṛks Ṛ. Saṃ. 6-49-6; 6-50-12; 10-65-9; 10-66-10 he is praised together with the deity Vāta (Vāyu), and in Ṛ. Saṃ. 6-52-16 together with Agni, as a dual deity: पर्जन्यावाता (*parjanyāvātā*), वातापर्जन्या (*vātāparjanyā*), अग्नीपर्जन्यौ (*agnīparjanyau*). And in Ṛ. Saṃ. 9-82-3 there is the description that Parjanya is the father of the Soma plant (पर्जन्य पिता महिषस्य पर्णिनः (*parjanya pitā mahiṣasya parṇinaḥ*)).
+
+The place of this deity in the Ṛgveda is very unimportant: this deity is praised in only three sūktas, and this name occurs only thirty times. In the Atharvaveda also (4-15) one sūkta has Parjanya as its deity, but the Ṛks in that sūkta are for the most part chosen from the Ṛgveda. In the passages that follow, Parjanya generally means simply the familiar cloud. The rain-clouds (Parjanya) quicken the earth (1-164-51). The Maruts make darkness even by day with the water-bearing clouds (Parjanya) (1-38-9). They spread the clouds in both worlds (5-53-6). Brhaspati is prayed to make the rain fall and to send the rain-cloud (10-98-1 and 8). Soma flows like a rain-cloud (9-2-9), and the Soma drops fall as rain falls from a cloud (9-22-2). In the Atharvaveda, in praising the rain-pouring cow called Vaśā, it is said: "O Parjanya, your udder" (A. Ne. 10-10-7). But in (Vā. Saṃ. 12-6) Parjanya means Stanayitnu (lightning, thunder), and in (Śa. Brā. 14-5-5-10) it is used in the sense of Dyauḥ (Vā. Saṃ. 12-6). **NOTE** In some contexts it is difficult to say whether the conventional meaning or the deity is intended. Like Parjanya, Agni's power gives an echo (8-91-5). Awakened by Parjanya the frogs croak (7-103-1). That Parjanya means the deity is clearly seen in many passages.
+
+### Printed p. 201
+
+In such contexts the cloud is called by names such as udder, pot, water-bag (5-83-8 and 9; 7-101-4). To some extent the deity Parjanya is described as an animal such as a bull. The bull, full of swiftly flowing water and bellowing loudly (compare 5-83-1; 5-83-6 and 9; A. Ve. 4-15-1); the water that comes from the hissing, watery bull and roars gladdens the earth (A. Ve. 4-15-1). There are descriptions that Parjanya at times is a barren cow, at times a milch cow, and that Parjanya uses his body as he wishes (7-101-3). Pouring rain is the main work of Parjanya. Moving about in a chariot made of water (5-83-7), he unties the water-bag and holds it mouth downwards. As a charioteer urges on his horses, Parjanya shows forth his rain-messengers; when the rain falls, a lion's roar is heard from afar. Pouring rain, the roaring Parjanya comes like our heavenly father (Asura) (5-83-3 and 6). He is prayed to pour rain (7-101-5) and, when he has poured, to stop (5-83-10). Parjanya and the Maruts pour rain. While remaining subject to Mitra and Varuṇa (5-63-3 to 6), it is also said that he often roars (5-83). Roaring, he overthrows trees, demons, evil-doers, all. The whole world is afraid of his weapon (5-83-2). He and Vāta are both the ones who wield that weapon (10-66-10). There is also some connection with the thunderbolt. When Parjanya quickens the earth with seeds, the wind blows and lightning strikes (5-83-4). Parjanya, together with the lightning, thunders in the ocean (A. Ve. 19-30-4).
+
+Because he pours rain, Parjanya is the cause of the growth of plants. When seed is sown in the earth, the plants spring up. All kinds of plants come within his sphere of action; for nourishment he has produced the plants (5-83-4, 5 and 10; compare 6-52-6; A. Ve. 4-15-2, 3 and 15; 8-7-21). He is the one who makes plants increase and bear fruit. Protected by that deity, the plants bear good fruit (7-101-1 and 5). By his action reeds and grass grow (7-102-1; compare 5-75-15; A. Ve. 1-2-1; 1-3-1; 9-30-5). Parjanya places the seed (the embryonic germ) not only in plants but also in cows, mares and women (7-102-2), and he is prayed to for fertility (5-83-7; compare 6-52-16). He is the bull that makes everything fruitful; in him is the self of all things moving and unmoving in the world (7-101-6; compare 1-15-1).
+
+### Printed p. 202
+
+He is the ruler of the whole world, a king of complete independence; in him all beings and the three worlds are established. In him the threefold water flows (7-101-2, 4 and 5). Because of this generative power the epithet "father" is applied to him many times (7-101-3; 9-82-3; A. Ve. 4-15-12; 12-1-12). He is our (king, father) heavenly father (5-83-6).
+
+The earth is suggested to be his wife (5-83-4; 7-101-3; compare 1-160-3). In the Atharvaveda (12-1-12) the earth is the mother and Parjanya the father, and in another place (11-10-6) it is stated clearly that one called Vaśā is his wife. In calling himself a bull and in being connected with thunder, lightning and rain, Parjanya is equal to the heaven-deity (compare 10-45 4; 2-4-6; 2-27-15); in one place it is said that Parjanya is the son of the heaven-deity (7-102-1). Parjanya himself produces a calf; this is the sprout of the plants (7-101-1; compare 5-83-1). This calf may be the lightning or Soma. In one place Parjanya is said to be the father of Soma (9-82-3), and that it grew through Parjanya (9-113-3).
+
+Parjanya has connection with many other deities, but the connection is greatest with Vāta. Except for one occasion with Agni, it is with Parjanya alone that Vāta is spoken of as a dual deity. The Maruts also are praised together with Parjanya (5-63-6; 5-83-5); they praise Parjanya (A. Ve. 4-15-4). In two mantras Agni is praised together with him (6-52-6 and 16). Parjanya, who gives rain, and Indra have many qualities in common (8-6-1); the same part of nature is the basis of both deities, but in the case of Parjanya this is more evident.
+
+The derivation of this word is not clear. In the Ṛgveda, by this form both the conventional meaning, the cloud, and the deity presiding over the cloud are intended. In the Brāhmaṇas too both these meanings appear to be current. In the Mahābhārata Indra and Parjanya are both regarded as one.
+
+The main purport of this sūkta has been described by the Western scholar Muir in the following way:
+
+##### English translation
+1. "Address the powerful (god) with these words; laud Parjanya; worship him
+with reverenc: the procreative and stimulating fructifier, resounding, sheds his seed and
+impregnates the plants.
+2. He splits the trees, he destroys the Rakshasas ; the whole creation is afraid of
+the mighty stroke ; even the innocent man flees before the vigorous god, when Parjanya
+thundering smites the evil doers.
+
+### Printed p. 203
+
+1. Like a charioteer urging forward his horses with a whip, the god brings into view his showery scouts. From afar the lion's roarings arise, when Parjanya charges the clouds with rain.
+4. The winds blow. the lightnings fall, the plants shoot up ; the heaven fructifies; food is produced for all created things, when Parjanya, thundering, replenishes the earth with moisture.
+5. Parjanya, before whose agency the earth bows down, at whose operation all hoofed cattle quiver ; by whose action plants (spring up) of every form; grant your mighty protection.
+6. Gran to us, Maruts, the rain of the sky ; replenish the streams of the procreative horse ; come hither with this your thunder, our divine father, shedding waters.
+7. Resound, thunder, Impregnate, rush hither and thither with your watery chariot. Draw on forward with you. your opened and inverted water-skin : let the hills and dale be levelled
+8. Raise aloft your vast water-vessel, and pour down showers ; let the discharged rivulets roll on forward : mosisten the heaven and earth with fatness ; lat there be well-filled drinking places for the cows.
+9. When you, Parjanya, resounding and thundering, slay the evil-doers, the whole universe rejoices, whatever lives upon the earth.
+10. You have shed down rain : now desist ; you have made the waterless wastes fit to be traversed ; you have generated plants for food, and you have fulfilled the desires of living creatures.
+
+**NOTE**
+
+(The introduction ends.)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अच्छा वदेति दशर्चमेकादशं सूक्तं भौमस्यात्रेरार्षं । अत्रेयमनुक्रमणिका । अच्छ दशात्रिः पार्जन्यमुपाद्यास्तिस्रो जगत्य उपांत्यानुष्टुबिति । यत्पर्जन्येत्येषा नवम्यनुष्टुप् वि वृक्षानित्याद्यास्तिस्रो जगत्यः शिष्टाः षट् त्रिष्टुभः ।
+> पर्जन्यो देवता ॥ अनेन सूक्तेन प्रत्यृचं वा दिश उपस्थेयाः । सूत्रितं च ।
+> संस्थितायां सर्वा दिश उपतिष्ठेताच्छा वद तवसं गीर्भिराभिरिति चतसृभिः प्रत्यृचं
+> सूक्तेन वा । आ- २-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अच्छा वद (*acchā vada*) has ten Ṛks and is the eleventh sūkta; its seer is Atri, son of Bhūmi. On it the Anukramaṇikā says: अच्छ दशात्रिः पार्जन्यमुपाद्यास्तिस्रो जगत्य उपांत्यानुष्टुबिति । (*accha daśātriḥ pārjanyamupādyāstisro jagatya upāṃtyānuṣṭubiti |*). The deity is Parjanya, and three Ṛks, beginning with the first, are Jagatī, the penultimate being Anuṣṭubh. The ninth Ṛk, यत्पर्जन्य (*yatparjanya*), is Anuṣṭubh; the three beginning वि वृक्षानि (*vi vṛkṣāni*) are Jagatī; the remaining six are Triṣṭubh. The deity is Parjanya. Ritual use: with this sūkta, or with each Ṛk, the directions are to be addressed. The sūtra says: संस्थितायां सर्वा दिश उपतिष्ठेताच्छा वद तवसं गीर्भिराभिरिति चतसृभिः प्रत्यृचं सूक्तेन वा । (*saṃsthitāyāṃ sarvā diśa upatiṣṭhetācchā vada tavasaṃ gīrbhirābhiriti catasṛbhiḥ pratyṛcaṃ sūktena vā |*) (Ā. 2-13). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 197. Sūkta 82 Ṛk 3 end to Ṛk 9 saṃhitā/pada, pp. 192-197
+**Progress note:** Done through printed p. 203. Ṛk 9 bhāṣya and notes; Sūkta 83 introduction on Parjanya and Sāyaṇa intro, pp. 198-203
