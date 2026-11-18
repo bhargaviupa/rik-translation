@@ -13754,6 +13754,118 @@ The Sūrya mantras are to be recognised by the description of all the qualities 
 कण्वशब्दार्थः । कणंति ध्वनंति स्तोत्रादिपाठेनेति कण्वा ऋत्विजः । (*kaṇvaśabdārthaḥ | kaṇaṃti dhvanaṃti stotrādipāṭheneti kaṇvā ṛtvijaḥ |*)
 (Sā. Bhā. Hu. Saṃ. 1-14-5) **NOTE**
 
+### Printed p. 360
+
+has said that priests are called Kaṇvas because they worship while making a sound in the form of praise. In the present mantra the import has been explained as Vāyu, who has as his hotṛs the seers endowed with intelligence. Besides, there is also the view that by the words दिवः सजोषाः त्रितः (*divaḥ sajoṣāḥ tritaḥ*) a special deity different from Vāyu is indicated, namely the god named Trita, who has equal affection with Āditya. Therefore, in this context, what precise meaning is possible from the epithet कण्वहोता (*kaṇvahotā*), and for which deity the epithet, if it is applied to him, makes the meaning natural here: these and similar points have to be examined at once.
+
+Some have also given an import referring to Indra, by taking the words प्र सक्षणो दिव्यः (*pra sakṣaṇo divyaḥ*) to mean "the victor of the world of the gods". The scholar Griffith has translated it as "The heavenly victor, he whose priest is Kanva, Trita........." and has explained that "heavenly victor" means Indra. In this context one must understand what the word सक्षणः (*sakṣaṇaḥ*) means.
+
+Sāyaṇa has given सक्षणः यज्ञं सेवमानः; शत्रूणां सोढा ना (*sakṣaṇaḥ yajñaṃ sevamānaḥ; śatrūṇāṃ soḍhā nā*), alternatively: one meaning, "one who attends the sacrifice", or another, "one who has the strength to defeat enemies". The word sakṣaṇa, formed from the root sac (sañj), gives the first meaning. It means "one who is joined together"; here the sense is "one who is joined with the sacrifice, that is, one who attends it". If this meaning is taken, then the epithet sakṣaṇa need not apply to Indra alone. This mark could apply to other deities such as Agni too. Therefore, in the present context, it is natural to take the second meaning. Then the word sakṣaṇa, formed from the root saha, gives the sense "one who has the power to face enemies".
+
+The word sakṣaṇa is not used anywhere else in the whole Ṛk-saṃhitā except in this one place. But the word sakṣiṇi is used in other places. It can only be said that the meaning of the two words is the same. Although in one or two places the word sakṣiṇi is used in the first meaning, its use in the sense of enduring and in the sense of power is the more frequent. For example: सिंचंति हर्मस्य सक्षिणिं (*siṃcaṃti harmasya sakṣiṇiṃ*) (Ṛ. Saṃ. 9-71-4); परि वृत्राणि सक्षिणिः (*pari vṛtrāṇi sakṣiṇiḥ*) (9.110-1); पृतनासु सक्षिणिं (*pṛtanāsu sakṣiṇiṃ*) (1.111-3). In all such places the import is "one who has the power to win victory".
+
+If, in the present mantra too, one takes the word sakṣaṇa to mean "victorious" and explains it as an epithet referring to Indra, an objection is possible even then. Trita too is famed as a renowned victor. The question why the word sakṣaṇa should not be an epithet of Trita as well is natural. Besides, the epithet कण्वहोता (*kaṇvahotā*) naturally states the quality of Trita
+
+### Printed p. 361
+
+. It does not fit Indra very well. The epithet kaṇvahotā too is not used anywhere else in the Ṛk-saṃhitā except in this one place. Since there are usages such as कण्वसखि (*kaṇvasakhi*) and कण्वतम (*kaṇvatama*), one must examine what they mean in those contexts and the special quality of which deity they make known.
+
+स इदग्निः कण्वतमः कण्वसखार्यः परस्यांतरस्य तरुषः । अग्निः पातु गृणतो अग्निः सूरीनग्निर्ददातु तेषामवो नः ॥ (*sa idagniḥ kaṇvatamaḥ kaṇvasakhāryaḥ parasyāṃtarasya taruṣaḥ | agniḥ pātu gṛṇato agniḥ sūrīnagnirdadātu teṣāmavo naḥ ‖*)
+(Ṛ. Saṃ. 10-115-5)
+
+In this verse the word kaṇva means "praisers". The epithet कण्वतम (*kaṇvatama*) is used to show the sense that Agni is the best among praisers, and the epithet कण्वसखा (*kaṇvasakhā*) to show the sense that he has the praisers themselves as his friends. These two words make known special qualities of Agni. Besides,
+
+नि यस्य ते ज्रयसानस्याजर धक्षोर्न वाताः परि संत्यच्युताः । आ रण्वासो युयुधयो न सत्वनं त्रितं नशंत प्र शिषंत इष्टये ॥ (*ni yasya te jrayasānasyājara dhakṣorna vātāḥ pari saṃtyacyutāḥ | ā raṇvāso yuyudhayo na satvanaṃ tritaṃ naśaṃta pra śiṣaṃta iṣṭaye ‖*)
+(Ṛ. Saṃ. 10.115-4)
+
+in this verse there is a description of Trita, who has the quality of a warrior. It is a description of Agni. This same Agni, who is of the form of Trita, is described in the next mantra after the one quoted above with the epithets kaṇvatama and kaṇvasakhā. Thus, just as in many contexts there is a reference to Agni named Trita, it would not be wrong to say that in the present mantra too Agni is the one indicated. But here room remains for another kind of objection. Since the word Agni itself has been stated in the present mantra, some may also ask whether, when Agni is being indicated, the use of the word Trita again with reference to Agni is unnecessary. But there is no substance in that objection. If it were so, the reference to Pūṣan, who is a transformed form of Agni, being of the form of Sūrya, would also be out of place. Except for Vāta alone, all the other deities praised in the present mantra are deities whose nature is that of light. Among them, the epithet दिवः सजोषाः (*divaḥ sajoṣāḥ*) fits Trita naturally. Therefore, if it is said that it will not be wrong for Agni, who is of the form of light, to be denoted here by the word Trita, then, since the word Trita is used in other places to show the special qualities of Indra and others also, if one asks what the basis is for saying that in the present mantra Agni alone is precisely indicated, two kinds of answer can be given. First, another mantra contained in this same sūkta supports this view. How? Thus:
+
+### Printed p. 362
+
+वृष्णो अस्तोषि भूम्यस्य गर्भं त्रितो नपातमपां सुवृक्ति । गृणीते अग्निरेतरी न शूषैः शोचिष्केशो नि रिणाति वना ॥ (*vṛṣṇo astoṣi bhūmyasya garbhaṃ trito napātamapāṃ suvṛkti | gṛṇīte agniretarī na śūṣaiḥ śociṣkeśo ni riṇāti vanā ‖*)
+(Ṛ. Saṃ. 5-41-10).
+
+In this verse there is a description of the lightning-fire. This lightning-fire stands as the womb of the cloud. The word Trita is an epithet of this lightning-fire. Therefore it can be said that the word Trita here is an individual mark of Agni. Second, when Indra and others are indicated in other places, the import of this word is of a different kind. Therefore, to understand these contexts one must also notice for which of the remaining deities the word Trita is an epithet.
+
+(1) Yāska, explaining this word in two contexts, has given two derivations of it. First, when giving the import of the mantra Ṛ. Saṃ. 1-105-8, he explained श्रितः तीर्णतमो मेधया बभूव (*śritaḥ tīrṇatamo medhayā babhūva*) **NOTE**: Trita is the most excellent among the wise; because he crossed over ignorance exceedingly by his intelligence, he has this name. Here Trita is the name of a great seer, a disciple of Bṛhaspati. (The story of this seer and his greatness are explained in the Ṛgveda Saṃhitā, part 8, pp. 443-447. That explanation is not relevant here.) (Ni. 4.6)
+
+(2) Second, when explaining the mantra Ṛ. Saṃ. 1-187-1, he has given the import त्रिस्थान इंद्रः (*tristhāna iṃdraḥ*), Indra who stands pervading all three worlds. (Ni. 9 25)
+
+Sāyaṇa's derivation follows, more or less, the derivation of the author of the Nirukta. In about twenty mantras Trita is praised as a great seer. In all the other places he has explained him as pervading the three places, and has said that, according to the context, the word is an epithet of deities such as Vāyu, Varuṇa, Indra and Agni. As we said above, if it is to be stated precisely that the present mantra indicates only the lightning-fire, one must notice the use of this word in the other places. The word Trita is used in forty contexts in the Ṛk-saṃhitā. Among them, in most it is used either together with some deity of the atmosphere, or in identity with a deity. Besides, in some contexts he is described as a deity who has occupied a place beyond the range of sight. In this way the uses of the word Trita in these various contexts can roughly be divided into eight groups. All of them are descriptions of the power of Trita.
+
+(1) Situations in which he is joined with Indra: 16. अनु त्रितस्य युध्यतः शुष्मं (*anu tritasya yudhyataḥ śuṣmaṃ*)
+(Ṛ. Saṃ. 8-7-24) and so on.
+
+### Printed p. 363
+
+(2) Situation in which, not with Indra but alone, he is the slayer of Vṛtra: 1. (यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् (*yasya trito vyojasā vṛtraṃ viparvamardayat*)) (1-187-1)
+
+(3) Described as having the form of a sacrificial horse: 1. असि त्रितो गुह्येन व्रतेन (*asi trito guhyena vratena*) (1-163-3)
+
+(4) Situations in which he is joined with the Maruts: 4. त्रितं जराय जरतां (*tritaṃ jarāya jaratāṃ*) (2-34-10) and so on.
+
+(5) Situations in which he is described as shown in identity with Agni: 7. यदीमह त्रितो दिवि (*yadīmaha trito divi*) (5-9-5) and so on.
+
+(6) In identity with Varuṇa: 1. त्रितं जूती सपर्यत (*tritaṃ jūtī saparyata*) (8.41-6) and so on.
+
+(7) Described together with Soma: 4. उप त्रितस्य (*upa tritasya*) (9-102-2) and so on.
+
+(8) Described as one who has, in a place beyond the range of sight, an individual form that is beyond comprehension: 6. त्रिताय तद्विभावरी (*tritāya tadvibhāvarī*) (8-47-14) and so on.
+
+Thus there are forty situations in all. Among these, Trita, when described together with Indra, is generally described as fighting with Indra against the demon Vṛtra, or as offering Soma to Indra. When he is connected with the Maruts, he is a helper in matters such as the shining of lightning. With Agni he has identity itself. As to who he is and what his nature is, it has been said that his place and nature are beyond the range of sight.
+
+When one explains the subject of such an indescribable Trita, the opinions of the scholars cannot possibly be of one kind. Therefore some have explained by showing identity with Indra, some with Vāyu, and some with Agni. But the nature of each of the original deities cannot be described precisely. It cannot be said that, through the division called "deities indicated by marks", knowledge of the individual mark of each deity is possible. It is also possible that a single epithet makes known a quality common to many deities. For example, the epithet Trita alone describes the pervasion of the three worlds by deities such as Indra, Agni and Vāyu, and so in some contexts it is a means of stating the precise meaning. But in the present case, which deity's special quality Trita reflects most can be stated only as far as it is possible, on the basis of Vedic passages.
+
+### Printed p. 364
+
+Although some scholars have shown identity between Trita and Indra, Trita and Indra are generally indicated together; so in all the contexts where he is described with Indra, he has to be regarded as a seer. (Ṛ. Saṃ. 1.52.5; 2-11-19, 20; 5-86-1; 8-13-16; 10.8-7; 10-99-6 and so on).
+
+Identity with Vāyu cannot be stated. How? In places such as नि पस्त्यासु त्रितः स्तभूयन् (*ni pastyāsu tritaḥ stabhūyan*) (10.46-6) there is a description of Trita as the friend of the house. Vāyu is never described as the friend of the house; the friend of the house is none other than Agni.
+
+It is described in many contexts that the atmosphere, which is the common abode of Agni, Vāyu and Indra, is the abode of Trita. Therefore it may be said that the view is sound that the lightning-fire, which has qualities common to all of them, is the one indicated by the name Trita. The identity shown, as stated above, between Trita and the horse of Varuṇa also supports this view. The association with the Maruts too becomes clear from this itself. This lightning-fire is one of the forms of the god Agni. Therefore it is the most natural view to show identity between Trita and Agni. Finally, the place beyond the range of sight also only suggests the nature of the lightning-fire.
+
+There is no doubt that the derivation that Sāyaṇa has stated in the present mantra (5-41-4), त्रिषु क्षित्यादिस्थानेषु तायमानः (*triṣu kṣityādisthāneṣu tāyamānaḥ*), makes known these three forms: the earthly fire, the lightning-fire of the atmosphere, and the fire of the form of Āditya in the heaven-world. In the Ṛk-saṃhitā no other matter is described so much as these three conditions of Agni. (तिस्रो यह्वस्य समिधः (*tisro yahvasya samidhaḥ*) (Ṛ. Saṃ. 3-2-9).
+
+अग्ने श्री ते वाजिना त्री षधस्था तिस्रस्ते जिह्वा ऋतजात पूर्विः । तिस्र उ ते तन्नो देववातास्ताभिर्नः पाहि गिरो अप्रयुच्छन् ॥ (*agne śrī te vājinā trī ṣadhasthā tisraste jihvā ṛtajāta pūrviḥ | tisra u te tanno devavātāstābhirnaḥ pāhi giro aprayucchan ‖*)
+(Ṛ. Saṃ. 3-20.-2)
+
+In this way, even when all kinds of powers of Agni, such as his origin, extent, nature and action, are described, this threefold character must invariably be described. (दिवस्परि प्रथमं जज्ञे (*divaspari prathamaṃ jajñe*) 10.45-1 and so on). Apart from the two forms that are well established, the earthly fire and Āditya, what remains is the third,
+
+### Printed p. 365
+
+the lightning-fire. Therefore it appears that one may say freely that this lightning-fire itself is what the word Trita denotes.
+
+In the present mantra too, if one takes the word Trita to mean Agni, and if one is to stress the point that the epithet kaṇvahotā indicates no deity other than Agni, one must again examine the qualities common to Trita and Agni. These qualities must be common only to Trita and Agni, and must not apply to other deities.
+
+Therefore, just as above the details of the description of Trita were divided into eight kinds, the details of the descriptions of Agni too can be divided into the same eight parts.
+
+(1) First, the association and relation of Agni with Indra. Apart from eleven sūktas that praise Agni and Indra together, addressed to both at once, in the other mantras contained in many more sūktas too these two deities are praised and extolled together.
+
+चक्राथे हि सध्र्य १ ज्ञाम भद्रं सध्रीचीना वृत्रहणा उत स्थः । ताविंद्राग्नी सध्वंचा निषद्या वृष्टः सोमस्य वृषणा वृषेथां ॥ (*cakrāthe hi sadhrya 1 jñāma bhadraṃ sadhrīcīnā vṛtrahaṇā uta sthaḥ | tāviṃdrāgnī sadhvaṃcā niṣadyā vṛṣṭaḥ somasya vṛṣaṇā vṛṣethāṃ ‖*) **NOTE**
+(Ṛ. Saṃ. 1.108.3)
+
+O Indra and Agni, you have made your auspicious names known as always joined together. And you have been together even at the time of the slaying of Vṛtra, as slayers of the demon Vṛtra. Therefore, O Indra and Agni, bestowers of what is desired, you two, joined together and seated on the sacrificial altar, drink the flowing Soma juice of your share. In this way the constant association is praised in all the main activities such as the slaying of Vṛtra and the drinking of Soma. (This matter is described clearly in many mantras such as Ṛ. Saṃ. 1-108-5; 1-109-5; 1-109-8; 3-12-4.)
+
+(2) Second, the very relation that has been shown above between Trita and the horse of Varuṇa is shown between Agni and the horse of Varuṇa. The horse called Dadhikrā, who is praised as being of the form of Āditya, is that same horse.
+
+हंसः शुचिषद्वसुरंतरिक्षसद्दूता वेदिषदतिथिर्दुरोणसत् । नृपद्वरसदृतसद्योमसदब्बा गोजा ऋतजा अद्रिजा ऋतं ॥ (*haṃsaḥ śuciṣadvasuraṃtarikṣasaddūtā vediṣadatithirduroṇasat | nṛpadvarasadṛtasadyomasadabbā gojā ṛtajā adrijā ṛtaṃ ‖*)
+(Ṛ. Saṃ. 4-40-5)
+
+### Printed p. 366
+
+This Agni, named Dadhikrā, is praised as being within the light in the form of a swan, in the atmosphere in the form of Vasu, on the sacrificial altar in the form of the hotṛ, in the house in the form of a guest, as born of the mountain, as born of ṛta, and with many other qualities. He is described in this way in दीदिवांसं नाग्निं (*dīdivāṃsaṃ nāgniṃ*) (4-39.2 ; ) and so on.
+
+(3) In the way Trita is praised as the slayer of Vṛtra (alone, without Indra's company), Agni too is praised in the same way. तमु त्वा वृत्रहंतमं (*tamu tvā vṛtrahaṃtamaṃ*) (1-78-4); स वृत्रहा सनयो विश्ववेदाः (*sa vṛtrahā sanayo viśvavedāḥ*) (3-20-4); अग्निरगामि भारतो वृत्रहा पुरुचेतनः (*agniragāmi bhārato vṛtrahā purucetanaḥ*) (6-16-19): mantras such as these praise the act of Agni in slaying Vṛtra. In sixteen mantras in all Agni is praised as the slayer of Vṛtra. Among these, in seven the matter of his being joined with Indra is stated.
+
+(4) The association between Trita and the Maruts, as it was described above, is established in the same way between Agni and the Maruts; epithets such as मरुद्वधः (*marudvadhaḥ*) (3-13-6) make known this point. It is also said that Agni is the tongue of the Maruts: अग्निजिह्वा (*agnijihvā*) (1-89-7). Here one more special point must be noticed. Just as the epithets kaṇvatama and kaṇvahotā and the like are used in the praises of Agni and Trita, in the same way, when Agni and the Maruts are praised together too, the praisers named Kaṇva are the ones addressed.
+
+सहो षु णो वज्रहस्तैः कण्वासो अग्निं मरुद्भिः (*saho ṣu ṇo vajrahastaiḥ kaṇvāso agniṃ marudbhiḥ*)
+(Ṛ. Saṃ. 8-7-32)
+
+In this verse the Kaṇvas are entreated to praise Agni joined with the Maruts. Sāyaṇa has said that here the word kaṇva means either praisers or the seers born in the Kaṇva lineage.
+
+(5) Fifth, not only the direct relation between Trita and Agni, but the identity between Trita and Agni is the main point. In this context the question naturally arises whether any main quality that applies to no other deity is well known as showing a common property of Trita and Agni. In answer to this, one may say freely that such a common property is well known. The epithet आप्त्य (*āptya*) is used in the Ṛk-saṃhitā in ten contexts only with reference to Trita. Sāyaṇa, in the introduction to the sūkta Ṛ. Saṃ. 1-105, says that the derivation "Āptya, because he was manifested from the waters (water)" is stated in the Taittirīya Brāhmaṇa too:
+
 ---
 
-**Progress note:** Done through printed p. 359. pp. 354-359: Ṛk 1 end, Ṛks 2-4, special topics
+**Progress note:** Done through printed p. 366. pp. 360-366: special topic on Trita, Kaṇvahotā; Agni parallels
