@@ -8844,7 +8844,6 @@ Sāyaṇa explains: O Indra, those people who, for the sake of wealth, desire yo
 
 ### Printed p. 226
 
-- O Indra (continuing अमृत (*amṛta*))
 - ते मर्ताः (*te martāḥ*)—those same men
 - अहः (*ahaḥ*)—sin
 - मो आरन् (*mo āran*)—let them not follow
