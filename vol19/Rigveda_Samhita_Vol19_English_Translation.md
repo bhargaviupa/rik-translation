@@ -2978,7 +2978,7 @@ Divine Agni, a mortal thus with sacrifices (calls upon you) who are endowed with
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa addresses the praiser: "O Vidharman", that is, one whose dharma is distinguished (viśiṣṭa); this is a vocative for the praiser. The praiser is "svayaśastaraḥ", the most renowned among those of good renown. With a mind of excellent understanding, as his means, he praises with his mouth that well-known Agni (the "hi" marks him as famous). Agni is of this kind: "nāka" is happiness; "aka" is pain; he for whom there is no pain is nāka. He is of wonderful lustre (चित्रतोभिषं (*citratobhiṣaṃ*) is glossed as "of wonderful radiance"), adorable (मंद्रं (*maṃdraṃ*) is glossed as "worthy of praise"), and supreme. **NOTE**
+Sāyaṇa addresses the praiser: "O Vidharman", that is, one whose dharma is distinguished (viśiṣṭa); this is a vocative for the praiser. The praiser is स्वयशस्तरः (*svayaśastaraḥ*), the most renowned among those of good renown. With a mind of excellent understanding, as his means, he praises with his mouth that well-known Agni (the "hi" marks him as famous). Agni is of this kind: "nāka" is happiness; "aka" is pain; he for whom there is no pain is nāka. He is of wonderful lustre (चित्रतोभिषं (*citratobhiṣaṃ*) is glossed as "of wonderful radiance"), adorable (मंद्रं (*maṃdraṃ*) is glossed as "worthy of praise"), and supreme. **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3026,7 +3026,7 @@ Performer of various functions, who are deservedly renowned, you praise by your 
 
 ##### Gist of the bhāṣya
 
-The Agni who is joined with praise (gir) accompanied by "tuja", that is, a strength able to protect the world, is meant here. Like the shining sun, the whole world is pervaded by the radiance (retas) of whichever Agni it is whose great flames (arcayaḥ, "dīptayaḥ") shine forth. By the radiance of this Agni the sun becomes radiant. The word "u" is a mere filler. **NOTE**
+The Agni who is joined with praise (gir) accompanied by "tuja", that is, a strength able to protect the world, is meant here. Like the shining sun, the whole world is pervaded by the radiance (retas) of whichever Agni it is whose great flames (arcayaḥ, दीप्तयः (*dīptayaḥ*)) shine forth. By the radiance of this Agni the sun becomes radiant. The word "u" is a mere filler. **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3077,7 +3077,7 @@ In this Ṛk it is described that the sun shines by the radiance of Agni. In man
 
 ##### Gist of the bhāṣya
 
-The vicetasaḥ are the priests of good understanding. By the kratu, that is, by the rite such as the sacrifice, of this Agni, who is "dasma", pleasing to see, they place (ā dadhati) wealth in the chariot. That Agni, who is to be invoked for the sacrifice, is then, immediately after his birth, praised among all the people (vikṣu, "prajāsu").
+The vicetasaḥ are the priests of good understanding. By the kratu, that is, by the rite such as the sacrifice, of this Agni, who is "dasma", pleasing to see, they place (ā dadhati) wealth in the chariot. That Agni, who is to be invoked for the sacrifice, is then, immediately after his birth, praised among all the people (vikṣu, प्रजासु (*prajāsu*)).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3127,7 +3127,7 @@ By the worship of him who is pleasing of aspect, the provident (heap) wealth in 
 
 ##### Gist of the bhāṣya
 
-"O Agni, give us quickly (nu) the desirable (vāryam) wealth"; "id" is a filler. For the praisers (sūrayaḥ) obtain wealth from you by their praise (āsā, "āsyena stotreṇa"). Further, O "ūrjo napāt": son of food, or son of strength, that is, "not letting food fall". "Abhiṣṭaye" is for one who desires: the sense to be supplied is "give me food". "Protect us from calamities." "Svastaye": for welfare, for the welfare of wealth such as cattle: "be able" (शग्धि (*śagdhi*)), that is, "I ask you"; the second person is used for the first by interchange. Or it may mean "be able". "And, O Agni, in battles (pṛtsu, "pṛtanāsu") be (edhi, "bhava") for our growth." **NOTE**
+"O Agni, give us quickly (nu) the desirable (vāryam) wealth"; "id" is a filler. For the praisers (sūrayaḥ) obtain wealth from you by their praise (āsā, "āsyena stotreṇa"). Further, O "ūrjo napāt": son of food, or son of strength, that is, "not letting food fall". अभिष्टये (*abhiṣṭaye*) is for one who desires: the sense to be supplied is "give me food". "Protect us from calamities." "Svastaye": for welfare, for the welfare of wealth such as cattle: "be able" (शग्धि (*śagdhi*)), that is, "I ask you"; the second person is used for the first by interchange. Or it may mean "be able". "And, O Agni, in battles (pṛtsu, पृतनासु (*pṛtanāsu*)) be (edhi, "bhava") for our growth." **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3159,7 +3159,7 @@ Quickly, (Agni, give us) desirable (wealth), such as the devout combining with (
 
 ##### विशेषविषयगळु (Special Topics)
 
-ऊर्जोनपात् (*ūrjonapāt*): अन्नस्य पातयितः बलस्य पुत्र ना (*annasya pātayitaḥ balasya putra nā*) **NOTE**. Since the word "ūrjaḥ" has the meanings food and strength, Agni is addressed either as the lord of food, or as the son of strength, that is, one born from the churning done with the use of strength.
+ऊर्जोनपात् (*ūrjonapāt*): अन्नस्य पातयितः बलस्य पुत्र ना (*annasya pātayitaḥ balasya putra nā*) **NOTE**. Since the word ऊर्जः (*ūrjaḥ*) has the meanings food and strength, Agni is addressed either as the lord of food, or as the son of strength, that is, one born from the churning done with the use of strength.
 शग्गि (*śaggi*): याचे (*yāce*). "I pray." Here the second person singular is used in place of the first person singular. Such usages, and the interchange of case-endings and numbers, are specially employed in the Ṛgveda.
 
 ## Sūkta 18 (Maṇḍala 5)
@@ -3170,7 +3170,7 @@ Quickly, (Agni, give us) desirable (wealth), such as the devout combining with (
 
 ##### Gist of the bhāṣya
 
-The sūkta प्रातरग्निः (*prātaragniḥ*) has five ṛks and is the fourth sūkta (of the second anuvāka). The Anukramaṇikā says: प्रातर्मृक्तवाहा द्वितः (*prātarmṛktavāhā dvitaḥ*). The seer is Dvita Ātreya, distinguished by the epithet "Mṛktavāhā".
+The sūkta प्रातरग्निः (*prātaragniḥ*) has five ṛks and is the fourth sūkta (of the second anuvāka). The Anukramaṇikā says: प्रातर्मृक्तवाहा द्वितः (*prātarmṛktavāhā dvitaḥ*). The seer is Dvita Ātreya, distinguished by the epithet मृक्तवाहा (*mṛktavāhā*).
 
 ### Printed p. 88
 
@@ -3207,7 +3207,7 @@ Metre: 1-4, anuṣṭubh; 4, paṅkti. **NOTE**
 
 ##### Gist of the bhāṣya
 
-"Puru-priya" is "much loved". "Viśaḥ" is the one who establishes wealth in the sacrificer. He is the "atithi" (guest): one who comes to the houses of the sacrificers on the lunar days (tithi). So Yāska says: अतिथिरभ्यतितो गृहान्भवत्य- (*atithirabhyatito gṛhānbhavatya-*) (the passage breaks off at the end of this page and continues in the next window).
+"Puru-priya" is "much loved". विशः (*viśaḥ*) is the one who establishes wealth in the sacrificer. He is the "atithi" (guest): one who comes to the houses of the sacrificers on the lunar days (tithi). So Yāska says: अतिथिरभ्यतितो गृहान्भवत्य- (*atithirabhyatito gṛhānbhavatya-*) (the passage breaks off at the end of this page and continues in the next window).
 
 ### Printed p. 89
 
@@ -3219,7 +3219,7 @@ Metre: 1-4, anuṣṭubh; 4, paṅkti. **NOTE**
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa completes the quotation from Yāska: भ्येति तिथिषु परकुलानीति वा परगृहाणीति वा (*bhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā*) (Ni. 4-5), that is, one who comes on the lunar days to the families of others or to the houses of others. Such an Agni is praised in the morning ("prātaḥ", "stūyate"). The immortal Agni (one whose nature is not to die) desires ("kāmayate") all the oblations that are placed among mortals, that is, among the sacrificers.
+Sāyaṇa completes the quotation from Yāska: भ्येति तिथिषु परकुलानीति वा परगृहाणीति वा (*bhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā*) (Ni. 4-5), that is, one who comes on the lunar days to the families of others or to the houses of others. Such an Agni is praised in the morning (प्रातः (*prātaḥ*), स्तूयते (*stūyate*)). The immortal Agni (one whose nature is not to die) desires (कामयते (*kāmayate*)) all the oblations that are placed among mortals, that is, among the sacrificers.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3317,7 +3317,7 @@ Be (willing to make) a grant of your own strength to Dwita, the bearer of the pu
 
 ##### Gist of the bhāṣya
 
-"O Agni, you whose brightness travels far": "vaḥ" is a plural used in honour (of the one addressed). I invoke ("huve", "āhvayāmi") you with praise on behalf of the wealthy ("maghonām"). "O giver of horses": of whichever wealthy men the chariot goes forth ("vīyate", "vigacchatu") unharmed ("ariṣṭaḥ") by enemies in battles.
+"O Agni, you whose brightness travels far": वः (*vaḥ*) is a plural used in honour (of the one addressed). I invoke ("huve", आह्वयामि (*āhvayāmi*)) you with praise on behalf of the wealthy ("maghonām"). "O giver of horses": of whichever wealthy men the chariot goes forth (वीयते (*vīyate*), "vigacchatu") unharmed (अरिष्टः (*ariṣṭaḥ*)) by enemies in battles.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3361,7 +3361,7 @@ I invoke you bright-shining, through a long life, with praise, (for the benefit)
 
 ##### Gist of the bhāṣya
 
-Among whichever priests there is ("bhavati") varied ("citrā", "nānāvidhā") "dīdhiti", that is, action concerning the sacrifice; who guard in their mouths ("āsan", "āsye") the "ukthāni", that is, the hymns: by those priests, upon the strewn ("stīrṇam") sacred grass ("barhiḥ"), the "śravāṃsi", that is, foods and oblations, are placed ("dadhire", "nidhīyante") in the "svarṇara": "svar" is heaven, and that which leads ("nayati") the sacrificer ("nara") there is the sacrifice, "svarṇara".
+Among whichever priests there is ("bhavati") varied (चित्रा (*citrā*), नानाविधा (*nānāvidhā*)) "dīdhiti", that is, action concerning the sacrifice; who guard in their mouths (आसन् (*āsan*), "āsye") the "ukthāni", that is, the hymns: by those priests, upon the strewn ("stīrṇam") sacred grass (बर्हिः (*barhiḥ*)), the श्रवांसि (*śravāṃsi*), that is, foods and oblations, are placed ("dadhire", "nidhīyante") in the "svarṇara": "svar" is heaven, and that which leads ("nayati") the sacrificer ("nara") there is the sacrifice, "svarṇara".
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3408,7 +3408,7 @@ Amongst whom the ceremonial of many kinds is observed ; who perpetuate the sacre
 
 ##### Gist of the bhāṣya
 
-The liberal wealthy men who gave me fifty horses together with praise ("sadhastuti"), that is, immediately after the praise of you: "O immortal Agni", for those wealthy men make ("kṛdhi", "kuru"; the meaning is "give") splendid ("dyumat", "dīptimat"), great ("mahi", "mahat"), abundant ("bṛhat", "parivṛḍham") food ("śravaḥ", "annam"), accompanied by men who attend ("nṛvat", "paricārakamanuṣyayukta").
+The liberal wealthy men who gave me fifty horses together with praise ("sadhastuti"), that is, immediately after the praise of you: "O immortal Agni", for those wealthy men make (कृधि (*kṛdhi*), "kuru"; the meaning is "give") splendid ("dyumat", "dīptimat"), great ("mahi", "mahat"), abundant (बृहत् (*bṛhat*), "parivṛḍham") food (श्रवः (*śravaḥ*), "annam"), accompanied by men who attend (नृवत् (*nṛvat*), "paricārakamanuṣyayukta").
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3484,7 +3484,7 @@ Metre: 1, 2, gāyatrī; 3, 4, anuṣṭubh; 5, virāḍrūpā.
 
 ##### Gist of the bhāṣya
 
-Of the seer Vanvi (the "vanir"), one after another ("abhi", "uttarottaram") unhappy states ("avasthāḥ", "aśobhanā daśāḥ") arise ("pra jāyante"). Agni, who shares in the oblations, such as he is, is to take full note ("pra ciketa", "prajānīyāt"); the sense is that, having known them, he is to remove them. This is the Agni who sees ("vi caṣṭe", "paśyati") all that exists near ("samīpe") the lap ("upasthe") of the mother, the Earth. **NOTE**
+Of the seer Vanvi (the "vanir"), one after another ("abhi", "uttarottaram") unhappy states (अवस्थाः (*avasthāḥ*), "aśobhanā daśāḥ") arise ("pra jāyante"). Agni, who shares in the oblations, such as he is, is to take full note ("pra ciketa", प्रजानीयात् (*prajānīyāt*)); the sense is that, having known them, he is to remove them. This is the Agni who sees ("vi caṣṭe", पश्यति (*paśyati*)) all that exists near (समीपे (*samīpe*)) the lap ("upasthe") of the mother, the Earth. **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3531,7 +3531,7 @@ Unprosperous circumstances affect Vavri: may the accepter (of oblations) become 
 
 ##### Gist of the bhāṣya
 
-O Agni, the people who, knowing ("vi citayantaḥ") your power, invoke you always ("animiṣam", "sarvadā") for the sacrifice, and having invoked you guard your "nṛṣṇam", your strength, with oblations and with praises: they enter ("ā viviśuḥ", "praviśanti") the firm ("dṛḷhām") city that cannot be taken by enemies. As proof, the Nigama: शतं पूर्भिरायसीभिर्नि पाहि (*śataṃ pūrbhirāyasībhirni pāhi*) (Ṛgve. 7-3-7) **NOTE**.
+O Agni, the people who, knowing ("vi citayantaḥ") your power, invoke you always ("animiṣam", सर्वदा (*sarvadā*)) for the sacrifice, and having invoked you guard your "nṛṣṇam", your strength, with oblations and with praises: they enter ("ā viviśuḥ", "praviśanti") the firm ("dṛḷhām") city that cannot be taken by enemies. As proof, the Nigama: शतं पूर्भिरायसीभिर्नि पाहि (*śataṃ pūrbhirāyasībhirni pāhi*) (Ṛgve. 7-3-7) **NOTE**.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3574,7 +3574,7 @@ They who know (your power) invoke you incessantly and nourish (your) strength (b
 
 ##### Gist of the bhāṣya
 
-"Jantavaḥ" are those who are born ("jāyanta"). "Kṛṣṭayaḥ" are men, the priests. "Madhvā na" is "as with honey", with sweet praise. Or else the particle "na" has the sense of "and", and so "and with honey". "Śvaitreyasya": "śvitra" is the atmosphere; of the Agni who is of lightning, born there, they increase the splendid ("dyumat", "dīptimat") strength. What are the kṛṣṭayaḥ like? "Niṣkagrīvaḥ": those whose necks are adorned with gold, the niṣka; the singular is by interchange. Then "bṛha-". **NOTE**
+"Jantavaḥ" are those who are born ("jāyanta"). कृष्टयः (*kṛṣṭayaḥ*) are men, the priests. "Madhvā na" is "as with honey", with sweet praise. Or else the particle "na" has the sense of "and", and so "and with honey". "Śvaitreyasya": "śvitra" is the atmosphere; of the Agni who is of lightning, born there, they increase the splendid ("dyumat", "dīptimat") strength. What are the kṛṣṭayaḥ like? निष्कग्रीवः (*niṣkagrīvaḥ*): those whose necks are adorned with gold, the niṣka; the singular is by interchange. Then बृह (*bṛha*). **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3619,7 +3619,7 @@ Living men, with collars of gold, earnest in praise, desirous of food, augment b
 
 ##### Gist of the bhāṣya
 
-May Agni, the helper ("sacā") of the two kinsfolk ("jāmyoḥ"), heaven and earth, hear our dear praise, which is desirable ("kāmyam", "kamanīyam"), faultless ("ajāmi", "doṣarahitam"), like milk that has been drawn ("dugdham na payaḥ"). Of what kind is this Agni? Like the "gharma", the Pravargya, he is "vājajaṭharaḥ": he in whose belly is "vāja", food; as the gharma is filled with the offering, with ghee and milk, so he is filled with oblation. "Adabdhaḥ" is one not hurt by enemies himself; "śaśvataḥ" is eternal; "dabhaḥ" is the one who harms enemies.
+May Agni, the helper (सचा (*sacā*)) of the two kinsfolk (जाम्योः (*jāmyoḥ*)), heaven and earth, hear our dear praise, which is desirable ("kāmyam", "kamanīyam"), faultless (अजामि (*ajāmi*), "doṣarahitam"), like milk that has been drawn ("dugdham na payaḥ"). Of what kind is this Agni? Like the "gharma", the Pravargya, he is वाजजठरः (*vājajaṭharaḥ*): he in whose belly is "vāja", food; as the gharma is filled with the offering, with ghee and milk, so he is filled with oblation. अदब्धः (*adabdhaḥ*) is one not hurt by enemies himself; शश्वतः (*śaśvataḥ*) is eternal; दभः (*dabhaḥ*) is the one who harms enemies.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3664,7 +3664,7 @@ May (Agni) with his two relatives, (heaven and earth), hear this faultless (prai
 
 ##### Gist of the bhāṣya
 
-"O rays-possessing Agni, playing ("krīḍan") in the forests, with the ashes ("bhasmanā", the burnt remains of your own work) and with Vāyu, the impelling Maruts, well ("saṃ") known ("vevidānaḥ", "samyag jñāyamānaḥ"), be ("ā bhuvaḥ") turned towards us." "Vakṣaṇesthāḥ" are those that stand in the fire ("vahni"); the "vakṣyaḥ" are the flames that carry the oblation. Those well-sharpened ("susaṃśitāḥ", "sutīkṣṇāḥ") flames, "dhṛṣajaḥ", that is, assailants of enemies, are not to be ("na tigmāḥ", "na tīkṣṇāḥ") sharp towards this sacrificer, me ("san" is "santu").
+"O rays-possessing Agni, playing (क्रीडन् (*krīḍan*)) in the forests, with the ashes (भस्मना (*bhasmanā*), the burnt remains of your own work) and with Vāyu, the impelling Maruts, well (सं (*saṃ*)) known (वेविदानः (*vevidānaḥ*), "samyag jñāyamānaḥ"), be ("ā bhuvaḥ") turned towards us." वक्षणेस्थाः (*vakṣaṇesthāḥ*) are those that stand in the fire ("vahni"); the वक्ष्यः (*vakṣyaḥ*) are the flames that carry the oblation. Those well-sharpened (सुसंशिताः (*susaṃśitāḥ*), "sutīkṣṇāḥ") flames, धृषजः (*dhṛṣajaḥ*), that is, assailants of enemies, are not to be ("na tigmāḥ", "na tīkṣṇāḥ") sharp towards this sacrificer, me ("san" is "santu").
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3735,7 +3735,7 @@ Metre: 1-3, anuṣṭubh; 4, paṅkti.
 
 ##### Gist of the bhāṣya
 
-"O Agni, O Vājasātama", O one who gives food in the highest degree: whatever wealth ("rayim") in the form of oblation, given by us, you approve ("manyase", "budhyase"); ("cit" is a mere filler) that wealth of ours, in the form of oblation, which is worthy to be heard ("śravāyyam", "śravaṇīyam", "śasyam") and is joined ("yujam", "yuktam") with praises ("gīrbhiḥ"), convey ("panaya", "prāpaya") to the gods ("devatrā").
+"O Agni, O Vājasātama", O one who gives food in the highest degree: whatever wealth ("rayim") in the form of oblation, given by us, you approve ("manyase", "budhyase"); ("cit" is a mere filler) that wealth of ours, in the form of oblation, which is worthy to be heard ("śravāyyam", "śravaṇīyam", "śasyam") and is joined ("yujam", "yuktam") with praises (गीर्भिः (*gīrbhiḥ*)), convey ("panaya", "prāpaya") to the gods (देवत्रा (*devatrā*)).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -3917,9 +3917,9 @@ The twenty-first sūkta.
 
 ##### Gist of the bhāṣya
 
-The sūkta beginning "Manuṣvat" has four Ṛks and is the seventh sūkta (of the second anuvāka). Its seer is Sasa Ātreya; the Anukramaṇikā says "Manuṣvat…". **NOTE** Since it was stated earlier (in the Anukramaṇikā) that the verse is "paṅkty-antam", the three sūktas beginning with this one end in a paṅkti verse; the remaining verses are anuṣṭubh. The deity is Agni. Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated.
+The sūkta beginning मनुष्वत् (*manuṣvat*) has four Ṛks and is the seventh sūkta (of the second anuvāka). Its seer is Sasa Ātreya; the Anukramaṇikā says "Manuṣvat…". **NOTE** Since it was stated earlier (in the Anukramaṇikā) that the verse is "paṅkty-antam", the three sūktas beginning with this one end in a paṅkti verse; the remaining verses are anuṣṭubh. The deity is Agni. Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated.
 
-Translation (anuvāda): This sūkta beginning "Manuṣvat" is the seventh sūkta in the second anuvāka. It has four Ṛks. The seer of this sūkta is Sasa Ātreya; Agni is the deity. Since the Anukramaṇikā says "paṅkty-antaṃ ha", the last Ṛk of this sūkta and of the following three sūktas is in the paṅkti metre; the remaining Ṛks are in the anuṣṭubh metre. In the Anukramaṇikā it is said "manuṣyat-sasaḥ". This sūkta is used for the recitation of the Prātaranuvāka and the mantras of the Āśvina-śastra.
+Translation (anuvāda): This sūkta beginning मनुष्वत् (*manuṣvat*) is the seventh sūkta in the second anuvāka. It has four Ṛks. The seer of this sūkta is Sasa Ātreya; Agni is the deity. Since the Anukramaṇikā says "paṅkty-antaṃ ha", the last Ṛk of this sūkta and of the following three sūktas is in the paṅkti metre; the remaining Ṛks are in the anuṣṭubh metre. In the Anukramaṇikā it is said मनुष्यत्ससः (*manuṣyatsasaḥ*). This sūkta is used for the recitation of the Prātaranuvāka and the mantras of the Āśvina-śastra.
 
 Sūkta 21
 Maṇḍala 5; Anuvāka 2; Sūkta 21
@@ -4087,7 +4087,7 @@ All the consenting divinities have made you their messenger ; therefore the piou
 
 ##### Gist of the bhāṣya
 
-The mortal, the man, is fit to praise the shining Agni, the foremost, for the sake of the worship of the gods (devayajyā), that is, in order to sacrifice to the gods. O bright (śukra) Agni, possessed of splendour, kindled, grown strong with oblations, blaze. Of Sasa, the seer, who is truthful (ṛta), take your seat in the place of origin (yoni), the cause of origin, the means of reaching heaven, the place of sacrifice; sit there in the form of a deity. **NOTE** The repetition (of "āsadaḥ") is to show great respect.
+The mortal, the man, is fit to praise the shining Agni, the foremost, for the sake of the worship of the gods (devayajyā), that is, in order to sacrifice to the gods. O bright (śukra) Agni, possessed of splendour, kindled, grown strong with oblations, blaze. Of Sasa, the seer, who is truthful (ṛta), take your seat in the place of origin (yoni), the cause of origin, the means of reaching heaven, the place of sacrifice; sit there in the form of a deity. **NOTE** The repetition (of आसदः (*āsadaḥ*)) is to show great respect.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16461,7 +16461,7 @@ Agni, being well pleased with us, bring to us, by paths frequented by the gods, 
 
 ##### Gist of the bhāṣya
 
-This Ṛk beginning अंजंति यं (*aṃjaṃti yaṃ*) is used in the Pravargya, when the Mahāvīra (the vessel) is being anointed. The sūtra says so: "अंजंति यं प्रथयंतो न विप्रा इत्यज्यमाने (*aṃjaṃti yaṃ prathayaṃto na viprā ityajyamāne*)" (Ā. 4-6). "Yam" means the Gharma, the Mahāvīra. Sāyaṇa then speaks of the particle "na", saying that it is used in the sense of "now" (the text here is damaged and he adds a remark on its use in comparison). Now the priests, the Adhvaryu and others, the "viprāḥ", wise ones, are spreading (the Gharma) **NOTE**.
+This Ṛk beginning अंजंति यं (*aṃjaṃti yaṃ*) is used in the Pravargya, when the Mahāvīra (the vessel) is being anointed. The sūtra says so: "अंजंति यं प्रथयंतो न विप्रा इत्यज्यमाने (*aṃjaṃti yaṃ prathayaṃto na viprā ityajyamāne*)" (Ā. 4-6). "Yam" means the Gharma, the Mahāvīra. Sāyaṇa then speaks of the particle "na", saying that it is used in the sense of "now" (the text here is damaged and he adds a remark on its use in comparison). Now the priests, the Adhvaryu and others, the विप्राः (*viprāḥ*), wise ones, are spreading (the Gharma) **NOTE**.
 
 ### Printed p. 442
 
@@ -16472,7 +16472,7 @@ This Ṛk beginning अंजंति यं (*aṃjaṃti yaṃ*) is used in t
 
 ##### Gist of the bhāṣya
 
-"Vapāvantam na": as men roast over fire a fully fed animal, so the priests, heating the Gharma with fire, anoint it. "Pitur na putra upasi preṣṭhaḥ": the Gharma, the Mahāvīra, is like the dearest son in the lap of his father. A Śruti says: "यद्भ्र इत्यपतत्तद्धर्मस्य घर्मत्वं। (*yadbhra ityapatattaddharmasya gharmatvaṃ|*)" (Tai. Ai. 5.1.5) **NOTE**. He glosses "ṛtayan" as desiring the sacrifice, and says that the Gharma has been seated in the fire. The example of father and son here is meant to declare that it sits there comfortably, free from the danger of bursting and the like.
+"Vapāvantam na": as men roast over fire a fully fed animal, so the priests, heating the Gharma with fire, anoint it. "Pitur na putra upasi preṣṭhaḥ": the Gharma, the Mahāvīra, is like the dearest son in the lap of his father. A Śruti says: "यद्भ्र इत्यपतत्तद्धर्मस्य घर्मत्वं। (*yadbhra ityapatattaddharmasya gharmatvaṃ|*)" (Tai. Ai. 5.1.5) **NOTE**. He glosses ऋतयन् (*ṛtayan*) as desiring the sacrifice, and says that the Gharma has been seated in the fire. The example of father and son here is meant to declare that it sits there comfortably, free from the danger of bursting and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16531,7 +16531,7 @@ In the sacrifice called Pravargya, at the time of the rite called Mahāvīra, th
 
 ##### Gist of the bhāṣya
 
-"Acchā" means towards; "huvadhyai" means to invite; he addresses the Aśvins. Our praise (gīḥ), like a messenger, is to go towards them. The praise is described: "mahī", worthy of worship; "bṛhatī", great; "śantamā", most happy-making. "Mayobhuvā" means the two who cause happiness; "sarathā", the two being in one chariot; they are to come towards the Soma that has been deposited **NOTE**. "Dhuram" means the burden-bearing nave; "āṇir na" means like a linch-pin (kīla): just as a nave without a linch-pin does not carry the chariot, so Soma separated from the two of you does not carry the sacrifice through; the comparison is made to make this known.
+अच्छा (*acchā*) means towards; "huvadhyai" means to invite; he addresses the Aśvins. Our praise (gīḥ), like a messenger, is to go towards them. The praise is described: मही (*mahī*), worthy of worship; बृहती (*bṛhatī*), great; "śantamā", most happy-making. मयोभुवा (*mayobhuvā*) means the two who cause happiness; सरथा (*sarathā*), the two being in one chariot; they are to come towards the Soma that has been deposited **NOTE**. "Dhuram" means the burden-bearing nave; "āṇir na" means like a linch-pin (kīla): just as a nave without a linch-pin does not carry the chariot, so Soma separated from the two of you does not carry the sacrifice through; the comparison is made to make this known.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16585,7 +16585,7 @@ May this adoring, earnest, and gratifying praise go like a messenger to summon t
 
 ##### Gist of the bhāṣya
 
-I, the seer, offer ("pra adikṣi") a hymn of homage, a "namas" utterance, to Pūṣan, the nourisher, who is "tavyas", of surpassing strength, and "turas", hastening, and to Vāyu of the said nature. The two, Pūṣan and Vāyu, by "rādhas", that is by the means of the oblation, are inciters of thoughts. Or else: "rādhasā" has the third case in the sense of the sixth,
+I, the seer, offer ("pra adikṣi") a hymn of homage, a "namas" utterance, to Pūṣan, the nourisher, who is "tavyas", of surpassing strength, and "turas", hastening, and to Vāyu of the said nature. The two, Pūṣan and Vāyu, by "rādhas", that is by the means of the oblation, are inciters of thoughts. Or else: राधसा (*rādhasā*) has the third case in the sense of the sixth,
 
 ### Printed p. 445
 
@@ -16650,7 +16650,7 @@ I offer adoration to the powerful and rapid Pushan, and to (the powerful and rap
 
 ##### Gist of the bhāṣya
 
-O Jātavedas, Agni of born knowledge, being invoked by us, bring all the Maruts, that is all the gods who share in praise and in oblation, by their names such as Indra and Varuṇa, and bring them by their forms, such as being thousand-eyed or thunderbolt-handed; bring also the sacrifice. Further, O Maruts, all of you come to our sacrifice, or to the oblation connected with the sacrifice, to the "giraḥ", the words of praise belonging to the worshipper ("jaritṛ"), and to the good praise ("suṣṭuti") which they bring about, whose fruit is auspicious. The praise as a whole is one, hence the singular; its parts are many, hence the plural. Keeping in view the sacrifice and the praises just stated, come; and all of you come together with "ūtī", that is with protection.
+O Jātavedas, Agni of born knowledge, being invoked by us, bring all the Maruts, that is all the gods who share in praise and in oblation, by their names such as Indra and Varuṇa, and bring them by their forms, such as being thousand-eyed or thunderbolt-handed; bring also the sacrifice. Further, O Maruts, all of you come to our sacrifice, or to the oblation connected with the sacrifice, to the गिरः (*giraḥ*), the words of praise belonging to the worshipper ("jaritṛ"), and to the good praise ("suṣṭuti") which they bring about, whose fruit is auspicious. The praise as a whole is one, hence the singular; its parts are many, hence the plural. Keeping in view the sacrifice and the praises just stated, come; and all of you come together with ऊती (*ūtī*), that is with protection.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16707,7 +16707,7 @@ Bring hither Jatavedas, who are invoked by us all, the Maruts, under their sever
 
 ##### Gist of the bhāṣya
 
-This Ṛk, "आ नो दिवः (*ā no divaḥ*)", is the eleventh; in the Daśarātra called Vyūḍha, on the ninth day, in the Prauga-śastra, it is the second of the Sārasvata triplet. The sūtra says so: "आ नो दिवो बृहतः पर्वतादा सरस्वत्यभि नो नेषि वस्यः (*ā no divo bṛhataḥ parvatādā sarasvatyabhi no neṣi vasyaḥ*)" (Ā. 8. 11). The worshipful goddess Sarasvatī is to come to our sacrifice from heaven, the shining world; or, as a second explanation, from the great "parvata", which means that which has joints or fullness, or that which gives satisfaction, namely from the cloud of the atmosphere; by this the speech of the middle region is meant. Or else "great parvata" is an epithet of "heaven", since the heavenly world has three joints, as the Śruti says, "three are the heavens and the earths" and so on; on this view the second "ā" is the filling one. Therefore the goddess Sarasvatī, taking pleasure in our invocation, serving our praise, bringing water (ghee-water), and desiring our happiness-giving speech, our praise, is to hear it.
+This Ṛk, "आ नो दिवः (*ā no divaḥ*)", is the eleventh; in the Daśarātra called Vyūḍha, on the ninth day, in the Prauga-śastra, it is the second of the Sārasvata triplet. The sūtra says so: "आ नो दिवो बृहतः पर्वतादा सरस्वत्यभि नो नेषि वस्यः (*ā no divo bṛhataḥ parvatādā sarasvatyabhi no neṣi vasyaḥ*)" (Ā. 8. 11). The worshipful goddess Sarasvatī is to come to our sacrifice from heaven, the shining world; or, as a second explanation, from the great "parvata", which means that which has joints or fullness, or that which gives satisfaction, namely from the cloud of the atmosphere; by this the speech of the middle region is meant. Or else "great parvata" is an epithet of "heaven", since the heavenly world has three joints, as the Śruti says, "three are the heavens and the earths" and so on; on this view the second आ (*ā*) is the filling one. Therefore the goddess Sarasvatī, taking pleasure in our invocation, serving our praise, bringing water (ghee-water), and desiring our happiness-giving speech, our praise, is to hear it.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16821,7 +16821,7 @@ O priests, install in our house of sacrifice the god Bṛhaspati, the creator, w
 
 ##### Gist of the bhāṣya
 
-This Ṛk is addressed to Agni **NOTE**. May Agni come to our sacrifice: "dharṇasi", the upholder of all; "bṛhaddivaḥ", of abundant radiance; "rarāṇaḥ", delighting and granting desires; being invoked with all "omas", protections. "Gnāḥ" are the moving flames, and he clothes himself in them and in the herbs; "amṛdhra", unharmed; "tridhātuśṛṅga", whose flames, like horns of three kinds, are tall and red, white and black; "vṛṣabha", the one who showers; "vayodhāḥ", the giver of food or the upholder of the oblation.
+This Ṛk is addressed to Agni **NOTE**. May Agni come to our sacrifice: "dharṇasi", the upholder of all; बृहद्दिवः (*bṛhaddivaḥ*), of abundant radiance; रराणः (*rarāṇaḥ*), delighting and granting desires; being invoked with all "omas", protections. ग्नाः (*gnāḥ*) are the moving flames, and he clothes himself in them and in the herbs; "amṛdhra", unharmed; "tridhātuśṛṅga", whose flames, like horns of three kinds, are tall and red, white and black; "vṛṣabha", the one who showers; वयोधाः (*vayodhāḥ*), the giver of food or the upholder of the oblation.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16875,7 +16875,7 @@ May the sustainer of all, (Agni), the greatly radiant, tho delighter, come, with
 
 ##### Gist of the bhāṣya
 
-"Āyu" means man, the sacrificer; "vipanyavaḥ" is a name for praisers, the praisers, the Hotṛ priests and others, are "rāspirāsaḥ". "Rā" is wealth, in the form of oblation; the ladles, the juhū and the others, touch it, and are "rāspā"; he who has them is "rāspi"; those who have them are "rāspirāḥ". Such priests have gone to the bright, supreme place of the mother, the Earth, her maker, that is to the northern altar where the fire stands. For this purpose, "suśevya", what is good for happiness, the new-born child, "vāse", for his dwelling, "namasā", with praise, the "rātahavyāḥ", those who have given the oblation, that is who have offered the oblation, rub, cleanse. Here the example is "āyavaḥ", ordinary men; as they rub a child for his dwelling, so do these.
+"Āyu" means man, the sacrificer; विपन्यवः (*vipanyavaḥ*) is a name for praisers, the praisers, the Hotṛ priests and others, are रास्पिरासः (*rāspirāsaḥ*). रा (*rā*) is wealth, in the form of oblation; the ladles, the juhū and the others, touch it, and are रास्पा (*rāspā*); he who has them is रास्पि (*rāspi*); those who have them are रास्पिराः (*rāspirāḥ*). Such priests have gone to the bright, supreme place of the mother, the Earth, her maker, that is to the northern altar where the fire stands. For this purpose, "suśevya", what is good for happiness, the new-born child, वासे (*vāse*), for his dwelling, नमसा (*namasā*), with praise, the रातहव्याः (*rātahavyāḥ*), those who have given the oblation, that is who have offered the oblation, rub, cleanse. Here the example is आयवः (*āyavaḥ*), ordinary men; as they rub a child for his dwelling, so do these.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16926,7 +16926,7 @@ The holders of the (sacrificial) ladles, the ministrant priests of the man (who 
 
 ##### Gist of the bhāṣya
 
-"Bṛhat" is abundant; "vayas" is food. O Agni, to you, the great, those "dhiyājuraḥ", worn out by their rites, "mithunāsaḥ", together with their wives, render service. The Śruti says, "Let husband and wife establish the fire" and so on. In the sixth chapter, the Adhikārādhyāya, it is established that the wife also has the right to the fire, and that this is together with the husband: Pū. Mī. 6.1.24 **NOTE**. The remainder has been dealt with.
+बृहत् (*bṛhat*) is abundant; "vayas" is food. O Agni, to you, the great, those धियाजुरः (*dhiyājuraḥ*), worn out by their rites, मिथुनासः (*mithunāsaḥ*), together with their wives, render service. The Śruti says, "Let husband and wife establish the fire" and so on. In the sixth chapter, the Adhikārādhyāya, it is established that the wife also has the right to the fire, and that this is together with the husband: Pū. Mī. 6.1.24 **NOTE**. The remainder has been dealt with.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
