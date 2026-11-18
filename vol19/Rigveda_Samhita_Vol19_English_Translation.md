@@ -10753,6 +10753,327 @@ Sāyaṇa says: Indra discerns when two persons, rivals of each other, rich, of 
 
 The wealthy Indra fights for the sake of shining cows. As soon as he discerns, among rival persons who are rich and of exceedingly great strength, who is the sacrificer and who is not, he causes fear in the enemy and helps the sacrificer. Indra, who makes the clouds move together with the Maruts, creates a herd of cows for such a sacrificer.
 
+### Printed p. 273
+
+##### English translation
+When Indra, the possessor of opulence, discriminates between two men, both wealthy, and exerting themselves (against each other) for the sake of valuable cattle, he takes one of them as his associate, causing (his adversaries) to tremble, and the agitator (of the clouds), together with the Maruts, bestows upon him herds of cattle.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒ह॒स्र॒सामान्यि॑वेशं गृणीषे॒ शत्रि॑मग्न उप॒मां के॒तुम॒र्यः ।  
+> तस्मा॒ आपः॑ सं॒यतः॑ पीपयंत॒ तस्मि॑न् क्ष॒त्रमनु॑वत्त्वे॒षम॑स्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रसां । आग्निऽवेशं । गृणीषे । शत्रिं । अग्ने । उपमां । केतुं । अर्यः ।  
+> तस्मै । आपः । संयतः । पीपयंत । तस्मिन् । क्षत्रं । अमवत् । त्वेषं । अस्तु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निवेशिसुतं शत्रिमसंख्यातधनप्रदं । आशास्त्र ऋषिरंत्यर्चा प्रजापतिसुतः
+> सुधीः ॥ अर्योऽहं सहस्रसामपरिमितधनप्रदमाग्नि वेशिमग्निवेशिसुतं शत्रिमेतन्नामकं राजर्षि० गृणीषे । गृणे । सौमि । हे अग्ने अंगनादिगुणविशिष्टेंद्र ।
+> कीदृशं तं । उपमामुपमानभूतं केतुं प्रज्ञापकं । प्रख्यातमित्यर्थः । तस्मा
+> आपः संयतः सम्यक् गच्छंत्यः पीपयंत । प्यायंतां । तस्मिन्राज्ञि क्षत्रं धनममवद्बलसहितं त्वेषं दीप्तमस्त्विति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa begins with a verse: Śatri, the son of Agniveśa, is the giver of countless wealth; the seer of the last ṛk is Āśāstra, the wise son of Prajāpati. He then explains: I, Arya, praise (गृणीषे (*gṛṇīṣe*) is used for "I praise") the royal sage named Śatri, the son of Agniveśa, the giver of a thousand, that is, of immeasurable wealth. "O Agni" is addressed to Indra, who has the qualities of Agni and the others.**NOTE** Of what kind is that king? He is a model (उपमां (*upamāṃ*)), a *ketu*, that is, one who makes known; the meaning is "famous". For him may the waters, flowing well together, swell, that is, increase; and in that king may *kṣatra*, that is wealth, accompanied by strength, and brilliant, be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आर्यः (*āryaḥ*)—I, the venerable one
+- उपमां (*upamāṃ*)—a model person (for the sacrificers)
+- केतुं (*ketuṃ*)—famous
+- सहस्रसां (*sahasrasāṃ*)—the giver of immeasurable wealth
+- अग्निवेशिं (*agniveśiṃ*)—the son of Agniveśa
+- शत्रिं (*śatriṃ*)—the royal sage named Śatri
+- गृणीषे (*gṛṇīṣe*)—I praise
+- तस्मै (*tasmai*)—for that king
+- आपः (*āpaḥ*)—the waters
+- संयतः (*saṃyataḥ*)—gathering together
+- पीपयंत (*pīpayaṃta*)—may they satisfy
+- तस्मिन् (*tasmin*)—in that king
+- क्षत्रं (*kṣatraṃ*)—wealth
+- अनवत् (*anavat*)—accompanied by strength
+- त्वेषं (*tveṣaṃ*)—and brilliant
+- अस्तु (*astu*)—may it gather
+
+### Printed p. 274
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I, the venerable one, praise the royal sage named Śatri, the son of Agniveśa, a model person for all sacrificers, famous, and the giver of immeasurable wealth. For that king may all the waters, gathering together, give satisfaction. In that king may wealth, accompanied by strength and brilliant, gather.
+
+##### English translation
+I, Arya, Agni, praise Satri, the son of Agnivesha, the bestower of thousands, a type for comparison : may the collected waters yield him abundance ; may wealth, and strength, and glory be upon him
+
+## Sūkta 35 (Maṇḍala 5)
+
+The thirty-fifth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्ते साधिष्ठ इत्यष्टर्चं तृतीयं सूक्तं । अंगिरोगोत्रः प्रभूवसुर्नाम
+> ऋषिः । अंत्या पंक्तिः । पंक्त्यंतपरिभाषया शिष्टा अनुष्टुभः । इंद्रो देवता ।
+> यस्तेऽष्टौ प्रभूवसुरांगिरसः पंक्त्यंतमित्यनुक्रांतं ॥ सूक्तविनियोगो
+> लैंगिकः ॥ आभिप्लविकेषूक्ष्येषु तृतीयसवन आद्यस्तृचोऽच्छावाकस्य वैकल्पिकोऽनुरूपः । सूत्रितं च । यस्ते साधिष्ठोऽवसे पुरां भिंदुर्युवा कविः । आ: ७-८ ।
+> इति ॥ द्वितीयतृतीययोः स्वरसान्नोश्चाद्यौ तृचावनुरूपौ । यस्ते साधिष्ठोऽवस इति षळनुष्टुभः । आ. ८-५ । इति हि सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The third sūkta, यस्ते साधिष्ठ (*yaste sādhiṣṭha*), has eight ṛks. The seer is the Aṅgirasa Prabhūvasu. The last ṛk is in Paṅkti; the remaining ones are Anuṣṭubh by the convention on a Paṅkti ending. The deity is Indra. The Anukramaṇikā says: यस्तेऽष्टौ प्रभूवसुरांगिरसः पंक्त्यंतमित्यनुक्रांतं (*yaste 'ṣṭau prabhūvasurāṃgirasaḥ paṃktyaṃtamityanukrāṃtaṃ*). The use of the sūkta in ritual is laiṅgika. In the Ābhiplavika Ukthya sacrifices, at the third pressing, its first ṛk-triad is the optional Anurūpa of the Acchāvāka priest. It is stated in the sūtra: यस्ते साधिष्ठोऽवसे पुरां भिंदुर्युवा कविः (*yaste sādhiṣṭho 'vase purāṃ bhiṃduryuvā kaviḥ*) (Ā. Sū. 7-8). Further, in the second and third Svarasāman, the first two triads are the Anurūpa triads: यस्ते साधिष्ठोऽवस इति षळनुष्टुभः (*yaste sādhiṣṭho 'vasa iti ṣaḷanuṣṭubhaḥ*) (Ā. Sū. 8-5), as is stated in the sūtra.
+
+Translation of the Anuvāda: This sūkta, Yaste sādhiṣṭhaḥ, is the third sūkta in the third anuvāka. There are eight ṛks in it. The seer of this sūkta is Prabhūvasu, born in the family of the seer Aṅgiras; Indra is the deity; the last ṛk of this sūkta is in the Paṅkti metre and the remaining ṛks are in the Anuṣṭubh metre. In the Anukramaṇikā it is said: "Yaste'ṣṭau prabhūvasurāṅgirasaḥ paṅkty-antam". The use in ritual is laiṅgika. In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, the first triad (three ṛks) of this sūkta is to be recited by the priest called Acchāvāka as an optional Anurūpa triad, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "Yaste sādhiṣṭho'vase purāṃ bhinduryuvā kaviḥ" (Ā. 7-8). When the second and third Svarasāman mantras are recited, the first and second triads of this sūkta (ṛks 1-3 and 4-6) are to be recited as Anurūpa triads, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "Yaste sādhiṣṭho'vasa iti ṣaḷanuṣṭubhaḥ" (Ā. 8-5).
+
+### Printed p. 275
+
+Sūkta 35.
+
+Maṇḍala 5, Anuvāka 3, Sūkta 35.
+
+Aṣṭaka 4, Adhyāya 2, Varga 5, 6.
+
+Number of Ṛks in the sūkta: 8.
+
+Seer: Prabhūvasu Āṅgirasa.
+
+Deity: Indra.
+
+Metre: 1-7, Anuṣṭubh; 8, Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ साधि॒ष्ठोऽव॑स॒ इंद्र॒ क्रतु॒ष्टमा भ॑र ।  
+> अ॒स्मभ्यं॑ चर्षणी॒सहं॒ सस्निं॒ वाजे॑षु दु॒ष्टरं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । साधिष्ठः । अवसे । इंद्र । क्रुतुः । तं । आ । भर ।  
+> अस्मभ्यं । चर्षणीसहं । सस्निं । वाजेषु । दुस्तरं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव यः साधिष्ठोऽतिशयेन साधकः क्रतुरुक्तलक्षणं कर्म प्रज्ञा
+> नास्ति तं क्रतुं नोऽवसेऽस्मद्रक्षणायास्मभ्यमा भर । आहर । कीदृशं तं । चर्षणीसहं सर्वेषां मनुष्याणामभिभवितारं सस्निं संस्कृतं शुद्धं वाजेषु संग्रामेषु
+> दुष्टरमन्वैरनभिभाव्यं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, whatever act of yours, called *kratu*, is most accomplishing, that is, accomplishes to the highest degree, or the wisdom (*prajñā*)**NOTE**, that *kratu* bring to us for our protection. Of what kind is it? It overpowers all men (चर्षणीसहं (*carṣaṇīsahaṃ*)), it is *sasni*, that is refined and pure, and in battles it is hard to cross, that is, it cannot be overcome by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- यः (*yaḥ*)—which
+- साधिष्ठः (*sādhiṣṭhaḥ*)—most effective in accomplishing
+- क्रतुः (*kratuḥ*)—which is the act
+- चर्षणीसहं (*carṣaṇīsahaṃ*)—which confronts enemy people
+- सस्निं (*sasniṃ*)—which is pure
+- वाजेषु (*vājeṣu*)—in battles
+- दुष्टरं (*duṣṭaraṃ*)—which cannot be withstood by enemies
+- तं (*taṃ*)—that well-known act
+- अस्मभ्यं अवसे (*asmabhyaṃ avase*)—for our protection
+- आ भर (*ā bhara*)—obtain and perfect it (make it manifest)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whichever act of yours is most effective in accomplishing, bring for our protection that act which confronts enemy people, is pure, cannot be withstood by enemies in battles, and is well known: obtain it and perfect it.
+
+### Printed p. 276
+
+##### English translation
+Perfect for our protection, Indra, that your act which is most effective ; whch is the subduer of men ; holy, and difficult to be encountered in battles.**NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दिं॑द्र ते॒ चत॑स्रो॒ यच्छू॑र॒ संति॑ ति॒स्रः ।  
+> यद्वा॒ पंच॑ क्षिती॒नामव॒स्तत्सु न॒ आ भ॑र ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । ते । चतस्रः । यत् । शूर । संति । तिस्रः ।  
+> यत् । वा । पंच । क्षितीनां । अवः । तत् । सु । नः । आ । भर ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव यत् या ऊतयश्चतस्रश्चतुर्सु वर्णेषु संश्रिताः संति
+> याश्च हे शूर तिस्रस्त्रिषु लोकेषु वर्तमानाः । यद्वा । नाशब्दश्चार्थे । यद्याश
+> पंच क्षितीनां पंचजनसंबंधिन्य ऊतयः संति तत्सर्वमवो रक्षणं सु सुषु
+> नोऽस्मभ्यमा भर । आहरेति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, those protections of yours that are four, abiding in the four castes, and, O hero, those that are three, existing in the three worlds; or else, the word *nā* is in the sense of "and",**NOTE** and whichever protections there are that belong to the five peoples, all that protection (अवः (*avaḥ*)) bring well (*su*, "excellently") to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- यत् (*yat*)—which protections
+- चतस्रः (*catasraḥ*)—together with the people of the four castes
+- संति (*saṃti*)—are
+- शूर (*śūra*)—O valiant one
+- यत् (*yat*)—which protections
+- तिस्रः (*tisraḥ*)—can pervade the three worlds
+- यद्वा (*yadvā*)—and moreover
+- पंच क्षितीनां (*paṃca kṣitīnāṃ*)—are protective of the five kinds of people, gods, Gandharvas and the rest
+- तत् अवः (*tat avaḥ*)—all those acts of protection
+- सु (*su*)—exceedingly
+- नः (*naḥ*)—for our welfare
+- आ भर (*ā bhara*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, those protections of yours that are together with the people of the four castes, those that can pervade the three worlds, and moreover those that are protective of the five kinds of people, gods, Gandharvas and the rest, all those acts of protection obtain exceedingly for our welfare.
+
+### Printed p. 277
+
+##### English translation
+Whatever protections, Indra, may be yours, whether four, or hero, three or those accorded to the five (classes) of men, bestow them freely upon us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तेवो॒ वरे॑ण्यं॒ वृषं॑तमस्य हूमहे ।  
+> वृष॑जूति॒र्हि ज॑ज्जि॒ष आ॒भूभि॑रिंद्र तु॒र्वणिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । अवः । वरेण्यं । वृषन्सतमस्य । हूमहे ।  
+> वृषजूतिः । हि । जज्ञिषे । आभूभिः । इंद्र । तुर्वणिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषंतमश्य फलानां वर्षकतमस्य ते तवावो रक्षणं गमनं
+> ना वरेण्यं वरणीयमा हूमहे । आह्वयामः । हे इंद्र वृषजूतिर्वर्षणगमनस्तुर्वणिस्तूर्णवनिर्हिंसको ना त्वमाभूमिः सर्वतो भवद्भिव्याप्तैर्मरुद्धिः
+> सहावो हि जज्जिषे । उत्पादयसि खलु । तेऽव आह्वयाम इति । यद्वा । वृषगमनः
+> सन्यस्माद्यज्ञमागत्य फलं जज्जिषे तस्मात्तेऽवो हूमह इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, of you, the one who showers fruits most abundantly, we call upon the desirable, that is, the choice-worthy, protection (*avas*, protection or going).**NOTE** O Indra, you whose going is that of rain (*vṛṣajūti*), swift-conquering and destroying (*turvaṇi*), you indeed produce that protection with the Maruts who pervade on all sides; therefore we call upon your protection. Or else: because you, whose going is like rain, come to the sacrifice and are born for its fruit, therefore we call upon your protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृषजूतिः (*vṛṣajūtiḥ*)—the distributor of rain
+- तुर्वणिः (*turvaṇiḥ*)—and the one who quickly destroys enemies, you
+- अभूभिः (*abhūbhiḥ*)—with the all-pervading Maruts
+- जज्जिषे हि (*jajjiṣe hi*)—such protections as you produce
+- वृषंतमस्य (*vṛṣaṃtamasya*)—of you who rain down fruit
+- ते (*te*)—your
+- वरेण्यं (*vareṇyaṃ*)—highly esteemed
+- अवः (*avaḥ*)—protection
+- आ हूमहे (*ā hūmahe*)—we pray for
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who distribute rain and quickly destroy enemies, we pray for that highly esteemed protection of you, who rain down fruit, such protections as you produce together with the all-pervading Maruts.
+
+### Printed p. 278
+
+##### English translation
+We invoke the desirable protection of you, the most liberal showerer (of benefits); that (protection) which you, the distributor of rain, the quick destroyer (of foes), grant (associated) with the present (Maruts).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ ह्यसि॒ राध॑से जज्ञि॒षे वृष्टि॑ ते॒ शवः॑ ।  
+> स्वक्ष॑त्रं ते धृ॒षन्मनः॑ सत्रा॒हमिं॑द्र॒ पौंस्यं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । हि । असि । राधसे । जज्जिषे । वृष्टि । ते । शवः ।  
+> स्वक्षत्रं । ते । धृषत् । मनः । सत्राहं । इंद्र । पौंस्यं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र राधसे यजमानानां समृद्धये वृषा ह्यसि । फलस्य वर्षकोऽसि
+> खलु । यद्वा । वृषा खल्वसि । राधसे धनार्थं जज्जिषे । उत्पद्यसे । ते शवो बलं
+> वृष्णि वर्षितृ । ते मनः स्वक्षत्रं स्वायत्तबलं धृषत् धर्षकं विरोधिनां । हे इंद्र
+> ते पौंस्यं पुंस्त्वं सत्राहं संघहंतृ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, for the prosperity of the sacrificers you are a showerer; you are indeed the one who rains down fruit. Or else: you are a showerer, born for wealth. Your strength (*śavas*) is rain-giving. Your mind is *svakṣatra*, with strength dependent on itself, and *dhṛṣat*, overbearing towards adversaries. O Indra, your manhood is *satrāha*, the destroyer of hosts together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृषा (*vṛṣā*)—as the one who showers desires
+- असि हि (*asi hi*)—you are
+- राधसे (*rādhase*)—for the prosperity in wealth (of the sacrificer)
+- जज्जिषे (*jajjiṣe*)—you are born
+- ते (*te*)—your
+- शवः (*śavaḥ*)—strength
+- वृष्टि (*vṛṣṭi*)—pours down the desired objects
+- ते (*te*)—your
+- स्वक्षत्रं (*svakṣatraṃ*)—of self-possessed strength**NOTE**
+- मनः (*manaḥ*)—the mind
+- धृषत् (*dhṛṣat*)—is overbearing towards enemies
+- पौंस्यं (*pauṃsyaṃ*)—your manly power
+- सत्राहं (*satrāhaṃ*)—is such as to destroy (enemies) in a mass
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are a showerer of desires. You are born for the prosperity of the sacrificer in wealth. Your strength pours down the desired objects. Your mind, which has self-acquired strength, is overbearing towards enemies. Your manly power is such as to destroy enemies in a mass.
+
+### Printed p. 279
+
+##### English translation
+You are the showerer (of benefits) ; you are born to (bestow) riches ; your strength rains (blessings) ; your self-invigorated mind is the restrainer (of adversaries) ; your manhood, Indra, is the destroyer of multitudes.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं तमिं॑द्र॒ मर्त्य॑ममित्र॒यंत॑मद्रिनः ।  
+> स॒र्व॒र॒था श॑तक्रतो॒ नि या॑हि शवसस्पते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । तं । इंद्र । मर्त्यं । अमित्रयंतं । अद्रिनः ।  
+> सर्वऽरथा । शतक्रतो इति शतक्रतो । नि । याहि । शवसः । पते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं तममित्रयंतं शत्रुत्वमाचरंतं शत्रुं वेच्छंतं मर्त्यं हे
+> अद्रिवो वज्रवन्निंद्र सर्वरथा सर्वत्र व्याप्तेन रथेन ॥ सुपां सुलुगित्याकारः ॥ हे
+> शतक्रतो हे शवसस्पते बलस्य पालकेंद्र नि याहि । नितरां गच्छाभिभवितुं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, against that mortal who behaves as an enemy, or who desires an enemy; O wielder of the thunderbolt (*adrivaḥ*); with a chariot that pervades everywhere (*sarvarathā*); O Śatakratu; O lord of strength (*śavasaspate*), protector of strength, Indra: go against him (*ni yāhi*), that is, go down upon him in order to overcome him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O bearer of the thunderbolt
+- शतक्रतो (*śatakrato*)—O doer of many acts
+- शवसस्पते (*śavasaspate*)—O protector of strength
+- इंद्र (*iṃdra*)—O Indra
+- सर्वरथा (*sarvarathā*)—with a chariot that pervades everywhere
+- त्वं (*tvaṃ*)—you
+- अमित्रयंतु (*amitrayaṃtu*)—who behaves like an enemy
+- तं मर्त्यं (*taṃ martyaṃ*)—to confront that man
+- नि याहि (*ni yāhi*)—set out and oppose him
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, doer of many acts, protector of strength, set out with your chariot that pervades everywhere, to confront men who behave like enemies.
+
+##### English translation
+Indra, wielder of the thunderbolt, rider in an all-pervading car, object of many rites, and lord of strength, proceed against the mortal who entertains hostility towards you.
+
 ---
 
-**Progress note:** Done through printed p. 272. Ṛk 4 pada to Ṛk 8 bhāvārtha of sūkta 34 (pp. 267-272)
+**Progress note:** Done through printed p. 279. Sukta 34 Rk 9 to sukta 35 Rk 5 (pp. 273-279)
