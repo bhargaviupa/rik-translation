@@ -36,7 +36,6 @@ NOT IN LIST	IV.			no list form close to it	none		5										2	1		2
 NOT IN LIST	X.			no list form close to it	none		5										2			3				
 NOT IN LIST	Kaṭh.			no list form close to it	none		5											1	4					
 NOT IN LIST	Praśna.			no list form close to it	none		5												3				2	
-NOT IN LIST	Pū. Mī.			no list form close to it	none		4	4																
 NOT IN LIST	Pā. sū. vā.			no list form close to it	none		4		4															
 NOT IN LIST	Pā. Gṛ. Sū.			no list form close to it	none		4					3												1
 NOT IN LIST	Piṅ.			no list form close to it	none		4							2			2							
@@ -77,7 +76,6 @@ NOT IN LIST	Kaṭha. U.			no list form close to it	none		3												3
 NOT IN LIST	Bh. Gī.			no list form close to it	none		3												3					
 NOT IN LIST	e. Śat. Brā.			no list form close to it	none		3														3			
 NOT IN LIST	Ai. Brā. Bhā.			no list form close to it	none		2	1		1														
-NOT IN LIST	pū. mī.			no list form close to it	none		2	2																
 NOT IN LIST	anu. ṛgve.			no list form close to it	none		2		2															
 NOT IN LIST	pā. sū. ma.			no list form close to it	none		2		2															
 NOT IN LIST	Pā. sū. Vā.			no list form close to it	none		2		2															
@@ -388,6 +386,7 @@ mistake	ā. gṛ.	→ Ā. Gṛ. Sū.					5		1	1	2					1
 mistake	Tai. Br.	→ Tai. Brā.					5			2							2				1			
 mistake	Ā. Ve.	→ Ath. Saṃ.					5														1		1	3
 mistake	Sā. Ve.	→ Sā. Saṃ.					5															1		4
+mistake	Pū. Mī.	→ Jai. Sū.					4	4																
 mistake	śa. brā.	→ Śa. Brā.					4		1							2	1							
 mistake	Trai. Ā.	→ Tai. Ā.					4											1	1				2	
 mistake	Kṛ. U.	→ Tai. U.					4												1				3	
@@ -397,6 +396,7 @@ mistake	vā. saṃ.	→ Vā. Saṃ.					3									3
 mistake	Chā.	→ Chā. U.					3												2				1	
 mistake	Mu. Saṃ.	→ Ṛ. Saṃ.					3														1		2	
 mistake	Śai. Saṃ.	→ Tai. Saṃ.					3																3	
+mistake	pū. mī.	→ Jai. Sū.					2	2																
 mistake	Ath.	→ Ath. Saṃ.					2				1		1											
 mistake	ath.	→ Ath. Saṃ.					2						2											
 mistake	Ya. Saṃ.	→ Ya Saṃ.					2											1			1			
@@ -516,7 +516,7 @@ Devanagari	सा.			Devanagari read as sā.; too short to tell: could be Sā. S
 Devanagari	कृ. सं.			Devanagari read as kṛ. saṃ.; no list form close to it	none		5													4		1		
 Devanagari	कृ. उ.			Devanagari read as kṛ. u.; no list form close to it	none		5													5				
 Devanagari	विधान.			Devanagari read as vidhāna.; no list form close to it	none		5													5				
-Devanagari	पू. मी.			Devanagari read as pū. mī.; no list form close to it	none		4	4																
+Devanagari	पू. मी.		Jai. Sū.	Devanagari read as pū. mī.; known spelling of Jai. Sū. (capitals/dots differ)	high	yes	4	4																
 Devanagari	पा. म.		Pā. Sū.	Devanagari read as pā. ma.; user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)	high	yes	4		3									1						
 Devanagari	वा. ।. आ.			Devanagari read as vā. |. ā.; no list form close to it	none		4		1			1	1									1		
 Devanagari	ऋ. स.		Ṛ. Saṃ.	Devanagari read as ṛ. sa.; known spelling of Ṛ. Saṃ.	high	yes	4				3							1						
