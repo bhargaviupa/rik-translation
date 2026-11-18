@@ -21384,6 +21384,248 @@ May Agni. propitiated by praise, desirous of (sacrificial) affluence, kindled, b
 
 In the sacrifices of the new and full moon, in the sacrifice performed at the full moon, this Ṛk अग्निर्वृत्राणि (*agnirvṛtrāṇi*) is to be recited as the anuvākyā mantra of the ājyabhāga offering; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्निर्वृत्राणि जंघनदिति पूर्वस्थ्याच्यभागस्यानुवाक्या (*agnirvṛtrāṇi jaṃghanaditi pūrvasthyācyabhāgasyānuvākyā*) (Ā. Sū. 1-5). And in the iṣṭi, the animal sacrifice and the Soma sacrifice, in cases where special rules such as वृधन्वती (*vṛdhanvatī*) and पुष्टिमती (*puṣṭimatī*) are absent, this Ṛk अग्निर्वृत्राणि (*agnirvṛtrāṇi*) is used as the anuvākyā mantra of the first ājyabhāga. And in the iṣṭi called Upasad, this Ṛk is to be recited as the anuvākyā mantra in the offering made to Agni, and as the yājyā mantra in the offering made in the evening; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्निर्वृत्राणि जंघनद्य उग्र इव शर्यहेति विसर्यासो याज्यानुवाक्यानां (*agnirvṛtrāṇi jaṃghanadya ugra iva śaryaheti visaryāso yājyānuvākyānāṃ*) (Ā. Sū. 4-8).
 
+### Printed p. 620
+
+द्रविणस्युः (*draviṇasyuḥ*)—Here the commentator has given two kinds of meaning for dravina: wealth, or the oblation. If it is taken to mean wealth, the word द्रविणस्युः (*draviṇasyuḥ*) means that Agni wishes to give the wealth that is in him to those who worship him. If it is taken to mean the oblation, the intention is that Agni wishes (in the form of the offering) for the wealth, in the form of the oblation (the food), that the sacrificers or the officiating priests offer in the sacrifice.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भे॑ मा॒तुः पि॒तुष्पि॒ता वि॑दिद्युता॒नो अ॒क्षरे॑ ।  
+> सीद॑न्नृ॒तस्य॒ योनि॒मा ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भे । मातुः । पितुः । पिता । विदिद्युतानः । अक्षरे ।  
+> सीदन् । ऋतस्य । योनिं । आ ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र मातृपितृशब्दाभ्यां भूर्दौश्चाभिधीयेते । द्यौर्वः पिता पृथिवी माता।
+> ऋग्वे. १-१९१-६ । इति श्रुतेः । मातुर्भूम्या गर्भे गर्भस्थाने मध्ये-क्षरे
+> क्षणरहिते वेद्याख्ये स्थाने विदिद्युतानो विशेषेण दीप्यमानः पितुः पिता
+> द्युलोकस्य पालयिता हविषां प्रदानेन । एवंभूतोऽग्निर्यतस्य यज्ञस्य
+> योनिमुत्तरवेद्याख्यं धिष्ण्यं ॥ सप्तम्यर्थे द्वितीया ॥ आ सीदन् उत्तरवेद्यामुपविशन् अग्निर्वृत्राणि जंघनदित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Here the words mother and father denote earth and heaven, according to the śruti द्यौर्वः पिता पृथिवी माता (*dyaurvaḥ pitā pṛthivī mātā*) (Ṛgve. 1-191-6). **NOTE** In the womb of the mother, the earth, that is, in the middle, in the imperishable place called the altar, shining forth in a special manner, the father of the father, the protector of the world of heaven by the giving of oblations: such an Agni, sitting on the womb of the sacrifice, the northern altar, the place called dhiṣṇya, sits on the northern altar and smites the obstructors. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातुः (*mātuḥ*)—of the earth
+- गर्भे (*garbhe*)—in the middle
+- अक्षरे (*akṣare*)—in the imperishable
+- विदिद्युतानः (*vididyutānaḥ*)—shining
+- पितुः (*pituḥ*)—of the world of heaven
+- पिता (*pitā*)—the protector, Agni
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनिं (*yoniṃ*)—in the place that takes the form of the northern altar
+- आ सीदन् (*ā sīdan*)—being seated (he destroys enemies)
+
+### Printed p. 621
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who shines on the sacrificial altar, which is the middle of the earth and is imperishable, and who is the protector of the world of heaven, being seated (sitting down) in the place of the sacrifice that takes the form of the northern altar, destroys enemies.
+
+##### English translation
+Radiant in the embryo of the maternal (earth), on the imperishable (altar); the cherisher of the paternal (heaven), sitting on the seat of sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the word मातुः (*mātuḥ*) indicates the earth and the word पितुः (*pituḥ*) the world of heaven. Garbha means the region that lies between heaven and earth. That heaven and earth stand to Agni in the place of father and mother is supported by the Ṛk दौर्वः पिता पृथिवी माता सोमो भ्रातादिति स्वसा (*daurvaḥ pitā pṛthivī mātā somo bhrātāditi svasā*) (Ṛ. Saṃ. 1-191-6), and so the commentator has given this Ṛk as an example. The meaning of this Ṛk is plain.
+
+ऋतस्य योनिं (*ṛtasya yoniṃ*)—Ṛta means truth or sacrifice. Here it is used in the sense of sacrifice. Yoni means the place of origin, or the navel region, the middle place. Therefore ऋतस्य योनिं (*ṛtasya yoniṃ*) means the northern altar, which stands as the navel of the sacrifice.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑ प्र॒जाव॒दा भ॑र॒ जात॑वेदो॒ विच॑र्षणे ।  
+> अग्ने॒ यद्दी॒दय॑द्दि॒वि ॥ ३६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्म । प्रजावत् । आ । भर । जातवेदः । विचर्षणे ,  
+> अग्ने । यत् । दीदयत् । दिवि ॥ ३६ ॥
+
+### Printed p. 622
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातानां वेदितर्विचर्षणे विशेषेण द्रष्टरग्ने प्रजावत्पुत्रपौत्रसहितं ब्रह्मान्नमा भर । आहर । यद्ब्रह्म दिवि द्युलोके दीदयद्दीप्यते
+> देवेषु मध्यॆ यत्प्रशस्तमन्नं राजते तदाहरेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, knower of what is born, O Vicarṣaṇi, special seer, Agni, bring brahma, that is, food, together with progeny, accompanied by sons and grandsons. The meaning is: the brahma that shines in heaven, in the world of heaven, that is, the praised food that shines among the gods, bring that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—who know everything
+- विचर्षणे (*vicarṣaṇe*)—who have a surpassing power of sight
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—which food
+- दिवि (*divi*)—in the world of heaven
+- दीदयत् (*dīdayat*)—shines exceedingly, such
+- प्रजावत् (*prajāvat*)—accompanied by sons and the like
+- ब्रह्म (*brahma*)—food
+- आ भर (*ā bhara*)—provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the nature of Jātavedas and have a surpassing power of sight, provide for us such food, accompanied by sons and the like, as shines exceedingly in the world of heaven.
+
+##### English translation
+Bring to us, Jatavedas, all-beholder, food with progeny ; such (food) as is brilliant in heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रजावत् ब्रह्म (*prajāvat brahma*)—The word brahma means a hymn of praise and also food. Food accompanied by sons and the like means that Agni is prayed to give offspring, sons, grandsons and the like, and food (nourishment) for their sustenance and ours.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ त्वा र॒णसं॑दृशं॒ प्रय॑स्वंतः सहस्कृत ।  
+> अग्ने॑ ससृ॒ज्महे॒ गिरः॑ ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्वा । रणसंदृशं । प्रयस्वंतः । सहकृत ।  
+> अग्ने । ससृज्महे । गिरः ॥ ३७ ॥
+
+### Printed p. 623
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्कृत सहसा बलेनोत्पन्नाग्ने प्रयस्वंतो हविर्लक्षणान्नवंतो
+> वयं रण्वसंदृशं रमणीयसंदर्शनं स्तोतव्यसंदर्शनं वा त्वा त्वामुप प्रति गिरः
+> स्तुतीः सस्यज्महे । विसृजामः । उच्चारयाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Sahaskṛta, Agni, born of sahas, strength, we, who have prayas, that is, who have food in the form of the oblation, send forth praises, गिरः (*giraḥ*), towards you, whose appearance is pleasing or whose appearance is worthy of praise. The meaning is that we release, we utter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्कृत (*sahaskṛta*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—we, offering the oblation
+- रण्वसंदृशं (*raṇvasaṃdṛśaṃ*)—of pleasing form
+- त्वा उप (*tvā upa*)—addressing you
+- गिरः (*giraḥ*)—hymns of praise
+- ससृज्महे (*sasṛjmahe*)—we recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, offering the oblation to you, we recite hymns of praise addressed to you, who are of pleasing form, and so we extol you.
+
+##### English translation
+Strength-begotten Agni, we, offering (sacrificial) food, address praises to you who are of pleasing aspect.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑च्छा॒यामि॑व॒ फृणे॒रग॑न्म॒ शर्म॑ ते व॒यं ।  
+> अग्ने॒ हिर॑ण्यसंदृशः ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । छायां इव । फृणेः । अगन्म । शर्म । ते । वयं ।  
+> अग्ने । हिरण्यसंदृशः ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हिरण्यसंदृशो हितरमणीयतेजसो हिरण्यवद्रोचमानतेजसो
+> वा फृणेर्दिप्तस्य ते तव शर्म शरणमाश्रयणमुपागन्न । उपगच्छाम । तत्र
+> दृष्टांतः । छायामिव ! यथा घर्माताः संतप्ताश्चायामुपगच्छंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, of golden appearance, whose lustre is beneficial and pleasing or whose lustre shines like gold, of you who are bright, we come to the shelter, the refuge, the support. The illustration is: as people scorched by heat go to shade, so we.
+
+### Printed p. 624
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- छायां इव (*chāyāṃ iva*)—as one wearied by the heat takes refuge in shade
+- हिरण्यसंदृशः (*hiraṇyasaṃdṛśaḥ*)—who have an attractive form like gold
+- फृणे (*phṛṇe*)—and who are shining
+- ते (*te*)—your
+- शर्म (*śarma*)—shelter
+- उप अगन्म (*upa aganma*)—we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as one wearied by the heat takes refuge in shade, we obtain the shelter of you, who have an attractive form like gold and are shining.
+
+##### English translation
+We have recourse, Agni, to the shelter of you, the lustrous, the golden-feathered, as to the shade (of a tree).
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒ग्र इ॑व शर्य॒हा ति॒ग्मशृं॑गो॒ न वंस॑गः ।  
+> अग्ने॒ पुरो॑ रु॒रोजि॑थ ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उग्रः इव । शर्य्याहा । तिग्मृशृंगः । न । वंसगः ।  
+> अग्ने । पुरः । रुरोजिथ ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उपसदि प्रातःकालीनस्याग्नेयस्य य उग्र इवेति याज्या सायंकालीनस्य
+> त्वेषैवानुवाक्या । सूत्रितं च । अग्निर्वृत्राणि जंघनद्य उग्र इव शर्यहा ।
+> आ. ४-८ । इति ॥
+> योऽग्नि रुग्र इवोद्दूर्णबलो धन्वीव शर्यहा शर्यैर्वाणैः शत्रोणां
+> हंता तिग्मशृंगो न वंसगस्तीक्ष्णशृंगो वननीयगतिवृषभ इव हे अग्ने स त्वं पुर
+> आसुरीस्तिस्रः पुरी रुरोजिथ । भग्नवानसि । रुद्रो वा एष यदग्निः । तै. ब्रा. २ १-३-१ ।
+
+##### Gist of the bhāṣya
+
+In the Upasad, for the morning offering to Agni this verse, य उग्र इव (*ya ugra iva*), is the yājyā; for the evening offering this very verse is the anuvākyā. It is laid down in the sūtra (Ā. Sū. 4-8). The Agni who is like a fierce one, of swollen strength, like an archer, the slayer with śaryas, arrows, of enemies; who is like a sharp-horned bull of desirable gait: O Agni, you broke the cities, the three cities of the Asuras. You have broken them. He cites the śruti रुद्रो वा एष यदग्निः (*rudro vā eṣa yadagniḥ*) (Tai. Brā. 2 1-3-1),
+
+### Printed p. 625
+
+> इति श्रुतेः । रुद्रकृतमपि त्रिपुरदहनमग्निकृतमेवेत्यग्निः स्तूयते । यद्वा ।
+> त्रिपुरदहनसाधनभूते बाणेऽग्नेरनीकत्वेनावस्थानादग्निः पुराणि भग्नवानित्युच्यते ।
+> देवासुरा वा विषु लोकेषु समयतंत । ऐ ब्रा. १-२३ । इत्यादिकं ब्राह्मणमनुसंधेयं ॥
+
+##### Gist of the bhāṣya
+
+meaning that the burning of Tripura, though done by Rudra, was done by Agni; thus Agni is praised. Or else, because Agni stood as the point of the arrow that was the means of burning Tripura, Agni is said to have broken the cities. A Brāhmaṇa beginning देवासुरा वा विषु लोकेषु समयतंत (*devāsurā vā viṣu lokeṣu samayataṃta*) (Ai. Brā. 1-23) is to be attended to.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—who
+- शर‍्यहा (*śaryahā*)—who kill enemies with arrows
+- उग्र इव (*ugra iva*)—like a fierce archer
+- तिग्मशृंगः (*tigmaśṛṃgaḥ*)—with sharp horns
+- वंसगो न (*vaṃsago na*)—and like a bull of the forest
+- पुरः (*puraḥ*)—the cities of enemies
+- रुरोजिथ (*rurojitha*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are like a fierce archer, who kills enemies with arrows, and like a bull of the forest with sharp horns, have destroyed the cities of enemies.
+
+##### English translation
+You, Agni, who are like a fierce archer, or like a sharp-horned bull, have destroyed the cities (of the Asuras).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Upasad, in the offering made to Agni, this Ṛk य उग्र इव (*ya ugra iva*) is to be used as the yājyā mantra in the morning and as the anuvākyā mantra in the evening; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्निर्वृत्राणि जंघनद्य उग्रइव शर्यहा (*agnirvṛtrāṇi jaṃghanadya ugraiva śaryahā*) (Ā. Sū. 4-8).
+
+In this Ṛk it is stated that Agni destroyed the cities of the Asuras, who were enemies. Here the commentator cites the śruti sentence रुद्रो वा एष यदग्निः (*rudro vā eṣa yadagniḥ*) (Tai. Brā. 2-1-3-1), that is, Agni is Rudra, and so indicates the idea that when it is said that Agni destroyed the cities of the Asuras, it was Rudra in the form of Agni who destroyed them; in support of this he has cited a sentence of the Aitareya Brāhmaṇa: देवासुरा वा एषु लोकेषु समयतंत ते ना असुरा इमानेव लोकान्पुरोऽकुर्वत यथौजीयांसो बलीयांस एवं ते वा (*devāsurā vā eṣu lokeṣu samayataṃta te nā asurā imāneva lokānpuro 'kurvata yathaujīyāṃso balīyāṃsa evaṃ te vā*)
+
 ---
 
-**Progress note:** Done through printed p. 619. Sukta 16 Rk 29-34, pp. 614-619
+**Progress note:** Done through printed p. 625. Sukta 16 Rk 35-39, pp. 620-625
