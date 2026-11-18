@@ -21285,6 +21285,158 @@ In this Ṛk Agni is prayed to come to the place of sacrifice together with the 
 > स॒जूरा॑दि॒त्यैर्वसु॑भिः स॒जूरिंद्रे॑ण वा॒युना॑ ।  
 > आ या॑ह्यग्ने अत्रि॒वत्सु॒ते र॑ण ॥१०॥
 
+### Printed p. 577
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजूः । आदित्यैः । वसुभिः । सजूः । इंद्रेण । वायुना ।  
+> आ । याहि । अग्ने । अत्रिवत् । सुते । रण ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ई हक्किगू सायणरु भाष्यवन्नु बरॆदिल्ल.
+
+##### Gist of the bhāṣya
+
+Sāyaṇa has not written a bhāṣya for this Ṛk either.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- वसुभिः (*vasubhiḥ*)—with the Vasus
+- सजूः (*sajūḥ*)—united
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- वायुना (*vāyunā*)—with Vāyu
+- सजूः (*sajūḥ*)—joined with them
+- आ याहि (*ā yāhi*)—deign to come
+- सुते (*sute*)—with this prepared Soma
+- अत्रिवत् (*atrivat*)—like Atri
+- रण (*raṇa*)—take delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, joined with the Ādityas, with the Vasus, with Indra and with Vāyu, deign to come to this sacrifice. With this prepared Soma take delight, like Atri.
+
+##### English translation
+Accompanied by Aditya and the Vasus, accompanied by Indra and by Vayu, come, Agni, and, like Atri, delight in the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agni is praised, that he should bring along as companions the deities Ādityas, Vasus, Indra and Vāyu. Ordinarily the group of deities called Rudras too ought to have joined the deities called Vasus and Ādityas. But the name of the Rudras is not recited here.
+
+वसुभिः (*vasubhiḥ*)—As it is said, अष्टौ वसव एकादश रुद्रा द्वादशादित्या: (*aṣṭau vasava ekādaśa rudrā dvādaśādityā:*), the Vasus are famed as eight deities, the Rudras as eleven, the Ādityas as twelve. Since the Rudras are not spoken of in this Ṛk, their matter will be explained in another context. Therefore here the matter of the Vasus and the matter of the Ādityas will be explained. Concerning the Vasus Yāska says—
+
+वसवः । वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासन इति समाख्या तस्मात्पृथिवीस्थानाः । इंद्रो वसुभिर्वासन इति समाख्या तस्मान्मध्यस्थानाः । वसव आदित्यरश्मयो विवासनात्तस्मद्दुस्थानाः ॥ (*vasavaḥ | vasavo yadvivasate sarvamagnirvasubhirvāsana iti samākhyā tasmātpṛthivīsthānāḥ | iṃdro vasubhirvāsana iti samākhyā tasmānmadhyasthānāḥ | vasava ādityaraśmayo vivāsanāttasmaddusthānāḥ ‖*) (Ni. 12—42)
+
+### Printed p. 578
+
+Who are the Vasus? Their nature can be known from the meaning of the word Vasu. वसवो यद्विवसते (*vasavo yadvivasate*): those called Vasus clothe themselves with everything, as one puts on a garment; that is, they pervade everywhere. Therefore, because they are deities pervading everywhere, that is, in the three stations called earth, atmosphere and heaven, they are called Vasus. How this is so, he shows through examples. Agni too is called Vāsava, that is, one of the Vasus. Since Agni, that is the sacrificial fire or the terrestrial fire, is established on earth, these Vasus can be called deities of the earth-station. In the same way Indra too is Vāsava, that is, one of the Vasus. Since Indra is a deity of the middle station (the atmosphere), the Vasus can also be called deities of the middle station. Since the rays of the sun are renowned as Vasus, and these rays of the sun are in the heaven-station, the Vasus are also renowned as deities of the heaven-station. In this way the Vasus pervade all three stations (worlds): earth, middle (atmosphere) and heaven. To support this the Nirukta-writer has cited the passage of the Vājasaneya-saṃhitā (Śukla-Yajurveda)—
+
+सुगा वो देवाः सुपथा अकर्म य आ जग्मुः सवनमिदं जुषाणः । जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥ (*sugā vo devāḥ supathā akarma ya ā jagmuḥ savanamidaṃ juṣāṇaḥ | jakṣivāṃsaḥ papivāṃsaśca viśve 'sme dhatta vasavo vasūni ‖*) (Vā. Saṃ. 1-18)
+
+In this mantra the Vasus are praised as deities of the heaven-station.
+
+ज्मया अत्र वसवोः रंत देवा उरावंतरिक्षे मर्जयंत शुभ्राः । अवाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य । (*jmayā atra vasavoḥ raṃta devā urāvaṃtarikṣe marjayaṃta śubhrāḥ | avākpatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya |*) (Ṛ. Saṃ. 7-39-3) **NOTE**
+
+In this Ṛk the Vasus are praised as deities of the atmosphere or middle station and of the earth-station.
+
+आदित्यैः (*ādityaiḥ*)—Yāska has stated the etymology of the word Āditya in this way—
+
+आदित्यः कस्मादादत्ते रसानादत्ते भासं ज्योतिषामादीपो भासेति वादितेः पुत्र इति वा ॥ (*ādityaḥ kasmādādatte rasānādatte bhāsaṃ jyotiṣāmādīpo bhāseti vāditeḥ putra iti vā ‖*) (Ni. 2-13)
+
+Who is Āditya? That is—
+
+(1) आदत्त इति आदित्यः (*ādatta iti ādityaḥ*). The meaning of the word is: one who accepts, grasps or attracts. What does he grasp? He attracts the waters through his rays. The water thus attracted produces rain in the form of clouds. Therefore, because he attracts water through his rays from the ocean and other reservoirs, he is named Āditya.
+
+### Printed p. 579
+
+(2) Or आदत्ते भासं ज्योतिषां (*ādatte bhāsaṃ jyotiṣāṃ*). When the sun rises, his light lowers the light of all other things (the moon and the rest) and draws that light to himself; therefore he is named Āditya.
+
+(3) Or आदीपो भासेति वा (*ādīpo bhāseti vā*). Because he envelops and shines in all places or all around (through his rays), he is named Āditya.
+
+(4) Or आदितेः पुत्र इति ना (*āditeḥ putra iti nā*) **NOTE**. Because he is the son of the goddess Aditi, the mother of the gods, he is named Āditya. This is the main import of the etymology. Whenever the word Āditya is a synonym of the Sun, any of these meanings may be given. But since the plural form आदित्यै (*ādityai*) is used in this Ṛk, here the word Āditya applies not only to the Sun but also to other deities. On this matter the Nirukta-writer himself says—
+
+एवमन्यासामपि देवतानामादित्यप्रवादाः स्तुतयो भवंति । तद्यथैतन्मित्रस्य वरुणस्यार्यण्णो दक्षस्य भगस्यांशस्येति । (*evamanyāsāmapi devatānāmādityapravādāḥ stutayo bhavaṃti | tadyathaitanmitrasya varuṇasyāryaṇṇo dakṣasya bhagasyāṃśasyeti |*) (Ni. 2-13)
+
+Praises directed to the Ādityas apply also to the deities Mitra, Varuṇa, Aryamā, Dakṣa, Bhaga and Aṃśa. That is, having said that these deities too are called Ādityas, he gives as an example—
+
+इमा गिर आदित्येभ्यो धृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । शृणोतु मित्रो आर्यमा भगो नस्तु विजातो वरुणो दक्षो अंशः ॥ (*imā gira ādityebhyo dhṛtasnūḥ sanādrājabhyo juhvā juhomi | śṛṇotu mitro āryamā bhago nastu vijāto varuṇo dakṣo aṃśaḥ ‖*) (Ṛ. Saṃ. 2-27-1)
+
+This Ṛk is given. In this Ṛk Mitra, Aryamā, Bhaga, Dhātā, Varuṇa, Dakṣa and Aṃśa are explained as the Ādityas, and it is stated that they are seven. Besides this—
+
+अथापि मित्रावरुणयोः । आदित्या दानुनस्पती (*athāpi mitrāvaruṇayoḥ | ādityā dānunaspatī*) (Ni. 9-13)
+
+Mitra and Varuṇa too are reckoned as Ādityas. For example—
+
+ता सम्राजा धृतासुती आदित्या दानुनस्पती । सचेते अनवह्वरं ॥ (*tā samrājā dhṛtāsutī ādityā dānunaspatī | sacete anavahvaraṃ ‖*) (Ṛ. Saṃ. 2-41-6)
+
+In this Ṛk Mitra and Varuṇa are called Ādityas. Besides this—
+
+### Printed p. 580
+
+अथापि मित्रस्यैकस्य । प्र स मित्र मर्तो अस्तु प्रयस्वान् यस्य आदित्य शिक्षति व्रतेन इत्यपि निगमो भवति ॥ (*athāpi mitrasyaikasya | pra sa mitra marto astu prayasvān yasya āditya śikṣati vratena ityapi nigamo bhavati ‖*)
+
+In many contexts, even where only Mitra alone is indicated in the mantra, he is called Āditya. For example—
+
+प्र स मित्र मर्तो अस्तु प्रयस्वान्यस्त आदित्य शिक्षति व्रतेन । न हन्यते न जीयते त्वोतो नैनमंहो अश्नोत्यंतितो न दूरात् ॥ (*pra sa mitra marto astu prayasvānyasta āditya śikṣati vratena | na hanyate na jīyate tvoto nainamaṃho aśnotyaṃtito na dūrāt ‖*) (Ṛ. Saṃ. 3-59-2)
+
+In this Ṛk only Mitra is praised, and he too is addressed as Āditya.
+
+अथापि वरुणस्यैकस्य । अथा वयमादित्य व्रते तव । व्रतमिति कर्मनाम वृणोतीति सतः ॥ (*athāpi varuṇasyaikasya | athā vayamāditya vrate tava | vratamiti karmanāma vṛṇotīti sataḥ ‖*) (3. 2-13) **NOTE**
+
+Just as Mitra is indicated, so even when the single deity Varuṇa is praised in a mantra, in that context too Varuṇa is called Āditya. For example—
+
+उदुत्तमं वरुण पाशमस्मदनाधमं वि मध्यमं श्रथाय । अथा वयमादित्य व्रते तवानागसो अदितये स्याम ॥ (*uduttamaṃ varuṇa pāśamasmadanādhamaṃ vi madhyamaṃ śrathāya | athā vayamāditya vrate tavānāgaso aditaye syāma ‖*) (Ṛ. Saṃ. 1-24-15)
+
+In this Ṛk Varuṇa is indicated as Āditya. Next, it is necessary to discuss here carefully how many the Ādityas are in number. In the Ṛk इमा गिर आदित्येभ्यः (*imā gira ādityebhyaḥ*) (Ṛ. Saṃ. 2.27-1) given above as an example, there are the names of six deities: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa, Aṃśa. These are said to be the Ādityas. But the Nirukta-writers have explained the word तुविजातः (*tuvijātaḥ*) as Dhātā: बहुजातश्च धाता (*bahujātaśca dhātā*) (Ni. 12-26). How? They have explained it thus—
+
+तुवीति बहुनाम । सर्वविधातृत्वादबहुजन्मा धाता यावदधिकारं जन्मेति । (*tuvīti bahunāma | sarvavidhātṛtvādabahujanmā dhātā yāvadadhikāraṃ janmeti |*)
+
+The word तुवि (*tuvi*) means many, numerous. Janman means office. The meaning of तुविजात (*tuvijāta*) is Dhātā, the maker of all, who has many kinds of offices. Since the word has been explained in this way, it must be said that in this Ṛk there are seven Ādityas, Dhātā being included. And in the mantra सप्त दिशो नाना सूराः (*sapta diśo nānā sūrāḥ*) the number of the Ādityas is indicated as seven (Ṛ. Saṃ. 9-114-3). But the names are not given; only देवा आदित्या ये सप्त (*devā ādityā ye sapta*) is stated. Earlier, when speaking of Aditi, taking up the mantras 10-27-8, 9, it was explained that Aditi had eight sons, that she offered seven of them to the gods, and that she kept the eighth, Mārtāṇḍa, herself and nourished him.
+
+### Printed p. 581
+
+Here too the names of the others besides Mārtāṇḍa are not given. In the Atharva-veda mantra A. Ve. 8-9-21 **NOTE** it is stated that Aditi had eight sons. When explaining the import of the mantra 2-27-1, Sāyaṇa quoted a passage of the Taittirīya Āraṇyaka to state their number—
+
+अष्टौ पुत्रासो अदितेः............ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंंशश्च भगश्च । इंद्रश्च विवस्वागंश्चेत्येते । (*aṣṭau putrāso aditeḥ............tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃṃśaśca bhagaśca | iṃdraśca vivasvāgaṃścetyete |*) (Tai. Ā. 1-13-3)
+
+As is there, the eight sons of Diti **NOTE** are stated. In places such as उदगादयमादित्यः (*udagādayamādityaḥ*) (Ṛ. Saṃ. 1.50-12) and उदपप्तदसौ (*udapaptadasau*) (Ṛ. Saṃ. 1.191.9), the identity of Sūrya with Āditya is stated. It is also described that Agni, the son of Aditi, has been established by the gods in the atmosphere in the form of the Sun—
+
+यदेदेनमदधुर्यज्जियासो दिवि देवाः सूर्यमादितेयं (*yadedenamadadhuryajjiyāso divi devāḥ sūryamāditeyaṃ*) (Ṛ. Saṃ. 10-88-11)
+
+Having stated the nature of the path of the Ādityas with अनर्वाणो ह्येषां पंथा आदित्यानां (*anarvāṇo hyeṣāṃ paṃthā ādityānāṃ*) (Ṛ. Saṃ. 8.18-2), in तत्सु नः सविता भगो वरुणो मित्रो अरमा (*tatsu naḥ savitā bhago varuṇo mitro aramā*) (Ṛ. Saṃ. 8.18-3) the name of Savitṛ is added to the four Ādityas. In some places the seventh place among the Ādityas is assigned to the deity Sūra or Savitṛ (A. Me. 8.2.9; 37 **NOTE**). In some places Indra too, together with Varuṇa, is counted as an Āditya (Ṛ. Saṃ. 7-85.4).
+
+तत्र त्वादित्या रक्षतां सूराचंद्रमसावुभा (*tatra tvādityā rakṣatāṃ sūrācaṃdramasāvubhā*)
+
+(A. Ve, 8-2-15 **NOTE**)
+
+In such places both the Sun and the Moon are included in the group of the Ādityas.
+
+मात्यादित्यानां दुहिता वसूनां हिरण्यवर्णा मधुकशा (*mātyādityānāṃ duhitā vasūnāṃ hiraṇyavarṇā madhukaśā*)
+
+(A. Ve. 9-1-4 **NOTE**)
+
+Madhukaśā, who is of golden colour, is called the mother of the Ādityas and the daughter of the Vasus. Thus in each context the relation between Aditi and the Ādityas is shown in a different way. Their relation is explained in the Taittirīya Brāhmaṇa in this manner.
+
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मादनमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्यॆ धाता चार्यमा चा जायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् ॥ सा रेतोऽधत्त । तस्यॆ मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या अगंंशश्च भगश्चाजा- (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmādanamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyè dhātā cāryamā cā jāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt ‖ sā reto 'dhatta | tasyè mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā agaṃṃśaśca bhagaścājā-*)
+
+### Printed p. 582
+
+येतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विविस्वाग्‌श्चाजायेतां ॥ (*yetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivisvāgścājāyetāṃ ‖*) (Tai. Brā. 1-1-9-1, 2, 3)
+
+Aditi, desiring sons, cooked an oblation in the form of Brahma's food, addressed to the gods and the Sādhyas. They ate that oblation themselves and gave her the remainder. When she ate it, by its power two sons were born, Dhātṛ and Aryamā. When the same procedure was performed a second time, Mitra and Varuṇa, a third time Aṃśa and Bhaga, and a fourth time Indra and Vivasvat **NOTE** were produced. The Taittirīya Brāhmaṇa describes these as the Ādityas. Explaining the same matter, the Śatapatha Brāhmaṇa states it thus—
+
+स मनसा एव वाचं मिथुनं समभवत्स द्वादशद्रप्सान्गर्भ्यभवत् । ते द्वादश आदित्या असृज्यंत तान् दिक्षपादधत् । (*sa manasā eva vācaṃ mithunaṃ samabhavatsa dvādaśadrapsāngarbhyabhavat | te dvādaśa ādityā asṛjyaṃta tān dikṣapādadhat |*) (P. Prā. 6-1-2-8) **NOTE**
+
+(Prajāpati) had a mental union with Vāk (speech). Then he conceived a womb consisting of twelve drops. Its fruit was the manifestation of the twelve Ādityas. Then he placed them as guardians of the directions, it says. In the same way other śruti passages that tell of the Ādityas may also be studied.
+
+कतम आदित्या इति । द्वादश नै मासाः संवत्सरस्यैत आदित्या एते हीदं सर्वमाददाना यंति ते यदिदं सर्वनाददाना यंति तस्मादादित्या इति ॥ (*katama ādityā iti | dvādaśa nai māsāḥ saṃvatsarasyaita ādityā ete hīdaṃ sarvamādadānā yaṃti te yadidaṃ sarvanādadānā yaṃti tasmādādityā iti ‖*) (Śa. Cā. 11-6-3-8) **NOTE**
+
+How many are the Ādityas? The Ādityas are twelve in number. There are twelve months in the year. These are the Ādityas; because those months, taking in everything, go forward, they are called Ādityas, it says. The story of the Ādityas is told in this way in the Taittirīya Brāhmaṇa—
+
+आदित्याश्चांगिरसश्च सुवर्गे लोकेऽस्पर्धंत । तेऽंगिरस आदित्येभ्यः। अमुमादित्यमश्वग्ग् श्वेतं भूतं दक्षिणामनयन् । तेऽब्रुवन् । यन्नोऽवेष्ट । स वर्ज्योऽभूदिति । तस्मादश्वग्ं सवरेत्याह्वयंति । तस्माद्यज्ञॆ वरो दीयते। यत्प्रजापतिरालब्दोऽश्वोऽभवत् । तस्मादश्वो नाम । यच्छ्वयदरुरासीत् । तस्मादर्वा नाम । यत्सद्यो वाजन्थमजयत् । तस्माद्वाजी नाम । यदसुसाराणां लोकानादत्त । तस्मादादित्यो नाम ॥ (*ādityāścāṃgirasaśca suvarge loke 'spardhaṃta | te 'ṃgirasa ādityebhyaḥ| amumādityamaśvagg śvetaṃ bhūtaṃ dakṣiṇāmanayan | te 'bruvan | yanno 'veṣṭa | sa varjyo 'bhūditi | tasmādaśvagṃ savaretyāhvayaṃti | tasmādyajñè varo dīyate| yatprajāpatirālabdo 'śvo 'bhavat | tasmādaśvo nāma | yacchvayadarurāsīt | tasmādarvā nāma | yatsadyo vājanthamajayat | tasmādvājī nāma | yadasusārāṇāṃ lokānādatta | tasmādādityo nāma ‖*) (Tai. Brā. 3-9.21-1, 2)
+
 ---
 
-**Progress note:** Done through printed p. 576. Vol 19 pp. 571-576, Sūkta 51 Ṛks 5-10
+**Progress note:** Done through printed p. 582. Vol 19 pp. 577-582, Sūkta 51 Ṛk 10, Ādityas and Vasus
