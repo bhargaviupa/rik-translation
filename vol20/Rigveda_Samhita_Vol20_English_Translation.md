@@ -19934,6 +19934,226 @@ Sāyaṇa says: O Agni, you are the Hotā: as Hotā you are established by Manu.
 - विशः (*viśaḥ*)—the subjects in the form of gods
 - यक्षि (*yakṣi*)—worship
 
+### Printed p. 575
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are established by Manu in the place of the Hotā. You, who with your mouth in the form of flame bear the oblation and who have exceeding knowledge, worship the subjects belonging to the world of heaven, who are in the form of gods, that is, the gods.
+
+##### English translation
+You have been appointed by Manu, the invoker of the gods, the most wise, bearer of oblations (to them) by your mouth : worship, Agni, the people of heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+मनुर्हितः (*manurhitaḥ*): although the name of Manu is recited in many places in the Ṛgveda, a fuller account is not found anywhere. Manu may be understood as the original ancestor of the human race and as a guide in the order of performance of sacrifices and the like. See what has been said concerning this Manu in places such as Ṛ. Saṃ. Part 9, pp. 107-108.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्न॒ आ या॑हि वी॒तये॑ गृणा॒नो ह॒व्यदा॑तये ।  
+> नि होता॑ सत्सि ब॒र्हिषि॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । आ । याहि । वीतये । गृणानः । हव्यदातये ।  
+> नि । होता । सत्सि । बर्हिषि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासयोः सामिधेनीष्वग्न आ याहीत्याद्यास्ति स्रः । सूत्रितं च ।
+> अग्न आ याहि वीतये गृणान ईळेन्नो नमस्यस्तिरः । आ. १-२ । इति ॥ गार्हपत्याहवनीययोर्मिथः संसर्गेऽग्नये वीतयेऽष्टाकपालः पुरोडाशः । तस्याग्न आ
+> याहीत्येषानुवाक्या! सूत्रितं च । अग्न आ याहि वीतये यो अग्निं देवनीतये।
+> आ. ३-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: In the Darśa and Pūrṇamāsa sacrifices the three Ṛks beginning "Agni, come" are the Sāmidhenī verses. It is laid down in the sūtra (Ā. Sū. 1-2). Further, when the Gārhapatya and Āhavanīya fires come into contact with each other, an eight-potsherd cake is offered to Agni Vīti; the verse "Agni, come" is the Anuvākyā for it, and this too is laid down in the sūtra (Ā. Sū. 3-13).
+
+### Printed p. 576
+
+> हे अग्ने त्वमा याहि । आगच्छ । किमर्थं । वीतये हविषां भक्षणार्थं ।
+> किंच हव्यदातये हव्यानि हवींषि देवेभ्यो दातुं । गृणानः स्तूयमानस्त्वं
+> बर्हिष्यास्तीर्णे दर्भे होता सन् नि षत्सि । निषीद । उपविश ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, come. For what purpose? For the eating of the oblations. And further, to give the oblations to the gods. You, who are praised, becoming the Hotā, sit down, take your seat, upon the spread darbha grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वीतये (*vītaye*)—for the eating of the oblation
+- हव्यदातये (*havyadātaye*)—for distributing the oblation to the gods
+- आ याहि (*ā yāhi*)—be gracious
+- गृणानः (*gṛṇānaḥ*)—you who are to be praised
+- बर्हिषि (*barhiṣi*)—upon the seat of darbha grass
+- होता (*hotā*)—as the accomplisher of the offerings
+- नि सत्सि (*ni satsi*)—sit down
+
+O Agni, be gracious, both for the eating of the oblation and for distributing it to the gods. You who are to be praised, sit down upon the seat of darbha grass as the accomplisher of the offerings.
+
+##### English translation
+Come, Agni, to the (sacrificial) food : being lauded, (come) to convey the oblation, (to the gods) : sit down as the ministrant priest upon the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Darśa and Pūrṇamāsa sacrifices, the three Ṛks beginning "Agni, come" (the Ṛks 10 to 12 of this sūkta) are to be recited as Sāmidhenī mantras; this is set forth by the Āśvalāyana-śrauta-sūtra, in the sūtra अग्न आ याहि वीतये गृणान ईळेऽन्यो नमस्यस्तिरः (*agna ā yāhi vītaye gṛṇāna īḷe 'nyo namasyastiraḥ*) (Ā. Sū. 1-2). And if through inadvertence there is a contact of the two fires, the Gārhapatya and the Āhavanīya, then one must offer the oblation with अग्नये वीतयेऽष्टाकपालः पुरोडाशः (*agnaye vītaye 'ṣṭākapālaḥ puroḍāśaḥ*). Then this Ṛk "Agni, come" is to be recited as the Anuvākyā mantra; this is set forth by the Āśvalāyana-śrauta-sūtra in the sūtra अग्न आ याहि वीतये यो अग्निं देववीतये (*agna ā yāhi vītaye yo agniṃ devavītaye*) (Ā. Sū. 3-13). **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ स॒मिद्धि॑रंगिरो घृ॒तेन॑ वर्धयामसि ।  
+> बृ॒हच्छो॑चा यविष्य ॥ १ ॥
+
+**NOTE**
+
+### Printed p. 577
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । समित्भिः । अंगिरः । धृतेन । वर्धयामसि ।  
+> बृहत् । शोच । यविष्ठ्य ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरोऽंगनादिगुणयुक्त अंगाररूप वांगिरसः पुत्र वाग्ने तं
+> पूर्वोक्तगुणं त्वा त्वां समिद्धिः समिंधनहेतुभिर्दारुभिर्घृतेनाज्येन च वर्धयामसि । वर्धयामः । अतो हे यविष्ठ्य युवतमाग्ने बृहन्महदत्यंतं शोच ।
+> दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aṅgiras, Agni, who are endowed with the qualities of the kind called aṅgana, or who are of the form of embers (aṅgāra), or son of Aṅgiras: you, of the qualities already stated, we make to grow with fuel, that is, with logs that are the means of kindling, and with ghee, that is, clarified butter. Therefore, O youngest Agni, the most youthful, blaze greatly and exceedingly: shine. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—O Agni, named Aṅgiras
+- तं (*taṃ*)—possessing well-known qualities
+- त्वा (*tvā*)—you
+- समिद्धिः (*samiddhiḥ*)—with kindling-sticks
+- धृतेन (*dhṛtena*)—with the offering of ghee
+- वर्धयामसि (*vardhayāmasi*)—we cause to grow
+- यविष्ठ्य (*yaviṣṭhya*)—O Agni, exceedingly young
+- बृहत् (*bṛhat*)—exceedingly
+- शोचॆ (*śocè*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, named Aṅgiras, we cause you, who possess well-known qualities, to grow with kindling-sticks and with the offering of ghee. O Agni, exceedingly young, shine exceedingly.
+
+##### English translation
+We augment you, Angiras, with fuel and with butter : blaze fiercely, youngest (of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+अंगिरः (*aṃgiraḥ*): here the word अंगिरः (*aṃgiraḥ*) is used to address Agni. In many instances of addressing Agni in the Ṛgveda the word अंगिरः (*aṃgiraḥ*) is used. In many Ṛks, Ṛ. Saṃ. 1-1-6; 1-31-1; 1-31-17; 4-3-15; 4-9-7; 5-8-4; 5-10-7; 5-11-6 and so on, Agni is called by the word अंगिरः (*aṃgiraḥ*). What is the reason that Agni came by this name? What is the relation between Agni and the sage Aṅgiras? These and similar matters are explained at length in places such as Ṛ. Saṃ. Part 1, pp. 640-641; Part 3, p. 520; Part 5, p. 672; Part 6, p. 442; Part 10, p. 269.
+
+### Printed p. 578
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ पृ॒थु श्र॒वाय्य॒मच्छा॑ देव विवाससि ।  
+> बृ॒हद॑ग्ने सु॒वीर्यं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पृथु । श्रवाय्यं । अच्छ । देव । विवाससि ।  
+> बृहत् । अग्ने । सुवीर्यं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमानाग्ने स पूर्वोक्तगुणस्त्वं पृथु विस्तीर्णं श्रवाय्यं
+> श्रवणीयं प्रशस्यं बृहन्महत्सुवीर्यं शोभनवीर्योपेतं धनं 'नोऽस्मानच्छ ।
+> विवाससि । अभिगमय । अत्र वाजसनेयकं । अच्चा देव विवाससीति तन्नो गमयेत्यैवैतदाहेति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O shining god Agni, you, who have the qualities stated before, make come towards us wealth that is wide, extensive, to be heard of, that is, praiseworthy, great, and endowed with good heroism. "Vivāsasi" means: cause to go towards. In this connection the Vājasaneyaka says: अच्चा देव विवाससीति तन्नो गमयेत्यैवैतदाहेति ॥ (*accā deva vivāsasīti tanno gamayetyaivaitadāheti ‖*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—shining
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you who are described above
+- पृथु (*pṛthu*)—wide
+- श्रवाय्यं (*śravāyyaṃ*)—praiseworthy
+- बृहत् (*bṛhat*)—great
+- सुवीर्यं (*suvīryaṃ*)—endowed with excellent heroism, the wealth
+- नः (*naḥ*)—our
+- अच्छ (*accha*)—so as to turn towards us
+- विवाससि (*vivāsasi*)—send
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, you who are described above, send to us, so as to turn towards us, wealth that is wide, praiseworthy, great, and endowed with excellent heroism.
+
+##### English translation
+Divine Agni, bestow upon us (wealth), excellent, great, and(comprehending) worthy male descendants.
+
+### Printed p. 579
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मंथत ।  
+> मू॒र्ध्नो विश्व॑स्य वा॒घतः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । पुष्करात् । अधि । अथर्वा । निः । अमंथत ।  
+> मूर्ध्नः । विश्वस्य । वाघतः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमंथने त्वामग्ने पुष्करादधीत्याद्यास्ति स्र ऋचोऽनूच्याः । सूत्रितं च ।
+> त्वामग्ने पुष्करादधीति तिसृणामर्धर्चं शिष्ट्वारमेत् । आ. २-१६ । इति ॥
+> हे अग्ने आथर्नैतत्संज्ञक ऋषिस्तां पुष्करादधि पुष्करपर्णॆ निरमंथत ।
+> अरण्योः सकाशादजनयत् । कीदृशात्पुष्करात् । मूर्ध्नो मूर्धवद्धारकाद्विश्वस्य
+> सर्वस्य जगतो वाघतो वाहकात् । पुष्करपर्णॆ हि प्रजापतिर्भूमिमप्रथयत्
+> तत्पुष्करपर्णॆऽप्रथयत् । तै. ब्रा. १-१-३-६ । इति श्रुतेः । भूमिश्च सर्वजगत
+> आधारभूतेति पुष्करपर्णस्य सर्वजगद्दारकत्वं । अत्र पुष्करशब्देन पुष्करपर्णमभिधीयत इति । एतच्च तैत्तिरीयके विस्पष्टमाम्मातं । त्वामग्ने पुष्करादधीत्याह
+> पुष्करपर्णॆ हैनमुपश्रितमविंदत् । तै. सं. ५-१-४-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: In the churning of fire, the three Ṛks beginning "O Agni, from the lotus" are to be recited after the act. It is laid down in the sūtra (Ā. Sū. 2-16). O Agni, the sage of the name Atharvan churned you out upon the lotus leaf, that is, produced you from the two kindling-woods. **NOTE** From what kind of lotus leaf? From the one that holds like a head, the bearer of the whole world, of everything. For on the lotus leaf Prajāpati spread out the earth, according to the Śruti पुष्करपर्णॆ हि प्रजापतिर्भूमिमप्रथयत् तत्पुष्करपर्णॆऽप्रथयत् । (*puṣkaraparṇè hi prajāpatirbhūmimaprathayat tatpuṣkaraparṇè 'prathayat |*) (Tai. Brā. 1-1-3-6) **GLOSS**. And the earth is the support of the whole world; thus the lotus leaf is the bearer of the whole world. Here the word for lotus is used to name the lotus leaf. And this is clearly stated in the Taittirīyaka: त्वामग्ने पुष्करादधीत्याह पुष्करपर्णॆ हैनमुपश्रितमविंदत् । (*tvāmagne puṣkarādadhītyāha puṣkaraparṇè hainamupaśritamaviṃdat |*) (Tai. Saṃ. 5-1-4-4) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अथर्वा (*atharvā*)—the sage named Atharvan
+- त्वां (*tvāṃ*)—you
+- मूर्ध्नः (*mūrdhnaḥ*)—in the form of the head
+- विश्वस्य (*viśvasya*)—of the whole world
+- वाघतः (*vāghataḥ*)—the bearer
+- पुष्करात् अधि (*puṣkarāt adhi*)—upon the lotus leaf
+- निरमंथत (*niramaṃthata*)—churned and caused to be produced
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sage named Atharvan churned you upon the lotus leaf, which is in the form of the head and is the bearer of the whole world, and caused you to be produced.
+
+##### English translation
+The sage, Atharvan, extracted you from upon the lotus-leaf, the head, the support of the universe.
+
+### Printed p. 580
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk "O Agni, from the lotus" is to be recited at the time of churning fire is set forth by the Āśvalāyana-śrauta-sūtra, in the sūtra त्वामग्ने पुष्करादधीति तिसृणामर्धर्चं शिष्टारमेत् (*tvāmagne puṣkarādadhīti tisṛṇāmardharcaṃ śiṣṭāramet*) (Ā. Sū. 2-16). The account of the churning of fire given in the Aitareya Brāhmaṇa we have given in the Special Topics of the 40th, 41st and 42nd Ṛks of this same sūkta. In what circumstance the present Ṛk is to be recited, and other explanations connected with this Ṛk, can be known by looking there.
+
+In the present mantra the churning of Agni from the lotus by the sage Atharvan is praised. Besides, the lotus is praised as the head of the universe and as the bearer of the whole world. The purport of the mantra is that the production of Agni from the lotus, which is the supporter and the bearer of the world, came about through the effort of the sage Atharvan. This description cannot be a description of the worldly lotus leaf or lotus flower. The word puṣkara reflects the principle that is all-pervading, the support of the universe, and bears all the worlds, both worldly and beyond the world. But it is necessary to know why that principle became known by the name puṣkara, and what the meaning of the word puṣkara is.
+
+Sāyaṇa, in the commentary on this mantra, has taken the word puṣkara to mean the lotus leaf and has shown the identity of the lotus leaf with the earth. This identity shows that the earth also has the character of supporting the world. Here the earth does not mean merely the sense current in usage. There are also many contexts in which all the worlds are signified by the word earth. If this extended meaning is to hold, what is the exact meaning of the word puṣkara?
+
+The author of the Nirukta has said that this word is derived from the root puṣ, which gives the meaning "to nourish". (There is the Uṇādi sūtra पुषः कित् । पुष्यतेः करः (*puṣaḥ kit | puṣyateḥ karaḥ*), Uṇ. Sū. 4-4.) It is the opinion of the author of the Nirukta that the word puṣkara is current for the atmosphere because it nourishes all beings (Ni. 5-14). Yāska has explained the derivation of this word by citing a sentence of the Ṛk Saṃhitā. This word is recited among the names of the atmosphere, अंबरं, वियत्, व्योम............पुष्करं, सगरः (*aṃbaraṃ, viyat, vyoma............puṣkaraṃ, sagaraḥ*) and the rest (Ni. 2-10). Afterwards he states the derivation of the form.
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधिजातः । द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वेदेवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhijātaḥ | drapsaṃ skannaṃ brahmaṇā daivyena viśvedevāḥ puṣkare tvādadaṃta ‖*) (Ṛ. Saṃ. 7-33-11) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 574. Ṛk 5-9 of 6.16, Bharata verses, Divodāsa notes
+**Progress note:** Done through printed p. 580. Ṛk 9 end, 10-13 of 6.16, Sāmidhenī, Aṅgiras, puṣkara
