@@ -30,7 +30,7 @@ for l in kn:
         if cur is None: cur = []; kb.append([sec, page, cur])
         cur.append(kn2deva(l[2:]))
     else:
-        cur = None
+        if l.strip(): cur = None          # a blank line does not end a block (as on the English side): a Pada printed as two blocks under one label stays one block (Vol 19 pp. 121, 126)
         if l.strip() and not l.startswith(('<!--', '*[', '#', '[figure')): sec = None      # other text between: a later block with no label of its own (label lost in the supplied text) has no known section
 for b in kb: b[2] = norm(' '.join(b[2]))
 # English blocks with the sub-heading above them
