@@ -4406,6 +4406,279 @@ When the Soma, the intoxicating juice, has been drunk, you released the cows tha
 - सुतः (*sutaḥ*)—has been pressed
 - पिब (*piba*)—drink it
 
+### Printed p. 101
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by the satisfaction of which Soma-drinking you released the cows although they were firmly bound in the middle of the mountain, that same Soma has been pressed for you. Drink it.
+
+##### English translation
+This Soma, in the exhilaration of which you have liberated the cattle, firm (fastened) within the rock, is poured out, Indra, for you: drink.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ मंदा॒नो अंध॑सो॒ माघो॑नं दधि॒षे शवः॑ ।  
+> अ॒यं स सोम॑ इंद्र ते सु॒तः पिब॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । मंदानः । अंधसः । माघोनं । दधिषे । शवः ।  
+> अयं । सः । सोमः । इंद्र । ते । सुतः । पिब ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यस्यांधसः सोमलक्षणस्यान्नस्य पानेन मंदानो मंदमानो
+> हृष्टः सन् माघोनमैंद्रं शवोऽसाधारणं बलं दधिषे धारयसि । येन
+> सोमेन तवेंद्रत्वं जातमित्यर्थः । सोऽयं सोमः सुतोऽभिषुतस्तं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are gladdened by drinking the Soma-food, and so you bear the strength शवः (*śavaḥ*) that belongs to Maghavan, Indra's own and uncommon might. By which Soma your Indra-hood came about. That same Soma has been pressed; drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यस्य (*yasya*)—which
+- अंधस्य (*aṃdhasya*)—by the drinking of the Soma juice
+- मंदानः (*maṃdānaḥ*)—becoming glad
+- माघोनं (*māghonaṃ*)—the lordship over all called "Maghavā"
+- शवः (*śavaḥ*)—and the uncommon strength
+- दधिषे (*dadhiṣe*)—you possess
+- सः आयं सोमः (*saḥ āyaṃ somaḥ*)—that same Soma
+- ते (*te*)—for you
+- सुतः (*sutaḥ*)—has been pressed
+- पिब (*piba*)—drink it
+
+### Printed p. 102
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by drinking which Soma juice you became glad and obtained the lordship called "Maghavā" and possess uncommon strength, that same Soma has been pressed for you. Drink it.
+
+##### English translation
+This Soma, exhilarated (by drinking) of which (sacrificial) food you possess the might of Maghavan, is poured out, Indra, for you : drink.
+
+## Sūkta 44 (Maṇḍala 6)
+The forty-fourth Sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुर्थेऽनुवाके षट् सूक्तानि । तत्र यो रयिव इति चतुर्विंशत्यैचं
+> प्रथमं सूक्तं बृहस्पतिपुत्रस्य शंयूरार्षमैंद्रं । आदितः षडनुष्टुभः सप्तम्यष्टमीनवम्यो विराजोऽष्टम्येकैव वा विराट् शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं ।
+> यो रयिवश्चतुर्विंशतिः शंयुर्बार्हस्पत्यो ह्यादौ षळनुष्टुभस्तिस्रश्च विराजो
+> मध्यमैव वासामिति । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the fourth Anuvāka there are six Sūktas. Of them the first Sūkta, यो रयिव इति (*yo rayiva iti*), has twenty-four Ṛks; its seer is Śaṃyu, the son of Bṛhaspati, and its deity is Indra. From the beginning the first six Ṛks are Anuṣṭubh; the seventh, eighth and ninth are Virāj, or the eighth alone is Virāj; the rest are Triṣṭubh. So the Anukramaṇī says: यो रयिवश्चतुर्विंशतिः शंयुर्बार्हस्पत्यो ह्यादौ षळनुष्टुभस्तिस्रश्च विराजो मध्यमैव वासामिति । (*yo rayivaścaturviṃśatiḥ śaṃyurbārhaspatyo hyādau ṣaḷanuṣṭubhastisraśca virājo madhyamaiva vāsāmiti |*). The use of the Sūkta has been stated already.
+
+Anuvāda: In the fourth Anuvāka of the sixth Maṇḍala there are six Sūktas. Of them this Sūkta beginning यो रयिवः (*yo rayivaḥ*) is the first. It has twenty-four Ṛks. The seer of this Sūkta is Śaṃyu, the son of Bṛhaspati; the deity is Indra. In this Sūkta the first six Ṛks are in the Anuṣṭubh metre; the seventh, eighth and ninth Ṛks are in the Virāj metre; the eighth Ṛk is in Virāj or Triṣṭubh; all the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said: यो रयिवश्चतुर्विंशतिः शंयुर्बार्हस्पत्यो ह्यादौ षळनुष्टुभस्तिप्रश्च विराजो मध्यमैव वासां (*yo rayivaścaturviṃśatiḥ śaṃyurbārhaspatyo hyādau ṣaḷanuṣṭubhastipraśca virājo madhyamaiva vāsāṃ*). The use of the Sūkta has been stated before.
+
+Sūkta—44
+Maṇḍala—6. Anuvāka—4. Sūkta—44.
+Aṣṭaka—4. Adhyāya—7. Varga—16, 17, 18, 19, 20.
+Number of Ṛks in the Sūkta—24.
+Ṛṣi—शंयुर्बार्हस्पत्यः (*śaṃyurbārhaspatyaḥ*).
+Devatā—इंद्रः (*iṃdraḥ*).
+Chandas—Ṛks 1-6 Ānuṣṭubha; 7, 9 Virāj; 8 Virāj or Triṣṭubh; Ṛks **NOTE** Triṣṭubh.
+
+### Printed p. 103
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो र॑यिवो र॒यिंत॑मो॒ यो द्यु॒म्नैर्द्यु॒म्न व॑त्तमः ।  
+> सोमः॑ सु॒तः स इं॑द्र॒ तेऽस्ति॑ स्वधापते॒ मदः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । रयिऽवः । रयिंतमः । यः । द्युम्नैः । द्युम्नवत् ऽतमः ।  
+> सोमः । सुतः । सः । इंद्र । ते । अस्ति । स्वधापते । मदः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रयिवो धनवन्निंद्र यः सोमो रयिंतमोऽतिशयेन रयिमान्
+> धनवान् । यश्च द्युम्नैर्द्योतमानैर्यशोभिर्द्युम्नवत्तमोऽतिशयेन यशस्वी
+> हे स्वधापते स्वधाया अन्नस्य सोमलक्षणस्य पालकेंद्र स सोमोऽभिषुतः सन् ते
+> तव मदो मदकरोऽस्ति । भवति ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, the Soma that is exceedingly rich, and that with its shining glories is exceedingly glorious: O lord of Svadhā, protector of the Soma-food, that Soma, being pressed, is exhilarating for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रयिवः (*rayivaḥ*)—O wealthy one
+- स्वधापते (*svadhāpate*)—O protector of the Soma in the form of Svadhā
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—which Soma
+- रयिंतमः (*rayiṃtamaḥ*)—is exceedingly wealthy
+- यः (*yaḥ*)—which Soma
+- द्युम्नैः (*dyumnaiḥ*)—by its splendours
+- द्युम्नवत्तम (*dyumnavattama*)—is exceedingly radiant and glorious
+- सः सोमः (*saḥ somaḥ*)—that same Soma
+- सुतः (*sutaḥ*)—pressed
+- ते (*te*)—for you
+- मदः (*madaḥ*)—a cause of joy
+- अस्ति (*asti*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, protector of the Soma in the form of Svadhā, the Soma that is exceedingly rich, and that by its splendours is exceedingly radiant and glorious, that same Soma, being pressed, is a cause of joy to you.
+
+##### English translation
+Opulent Indra, the Soma that abounds with riches, and is most
+resplendent with glories, is poured out: is is your exhilaration, Indra,
+lord of the offering.
+
+### Printed p. 104
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः श॒ग्मस्तु॑विशग्म ते रा॒यो दा॒मा म॑ती॒नां ।  
+> सोमः॑ सु॒तः स इं॑द्र॒ तेऽस्ति॑ स्वधापते॒ मदः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । शग्मः । तुविशग्म । ते । रायः । दामा । मतीनां ।  
+> सोमः । सुतः । सः । इंद्र । ते । अस्ति । स्वधापते । मदः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविशग्म बहुसुखेंद्र यः शग्मः सुखकरस्ते त्वदीयो यः सोमो
+> मतीनां स्तोतृणां रायो धनस्य दामा दाता भवति हे स्वधापत इंद्र स
+> सोमोऽभिषुतस्तव मदकरो भवति ॥
+
+##### Gist of the bhāṣya
+
+O Indra of much happiness, that Soma of yours which is the maker of happiness, and which is the giver of wealth to the praisers, to the singers of hymns, that Soma, O lord of Svadhā, being pressed, is exhilarating for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविशग्म (*tuviśagma*)—O you who have happiness of many kinds
+- स्वधापते (*svadhāpate*)—O protector of the Soma in the form of Svadhā
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—which Soma
+- शग्मः (*śagmaḥ*)—is productive of happiness
+- ते (*te*)—your
+- मतीनां (*matīnāṃ*)—to the praisers
+- रायः (*rāyaḥ*)—wealth
+- दामा (*dāmā*)—and is the giver
+- सः सोमः (*saḥ somaḥ*)—that same Soma
+- सुतः (*sutaḥ*)—pressed
+- ते (*te*)—for you
+- मदः (*madaḥ*)—a cause of joy
+- अस्ति (*asti*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have happiness of many kinds and are the protector of the Soma in the form of Svadhā, the Soma that is productive of happiness and gives wealth to your praisers, that same Soma, being pressed, is a cause of joy to you.
+
+##### English translation
+The Soma, possessor of felicity, which gives you delight, and which
+is the bestower of riches on your votaries, is poured out : it is your
+exhilaration, Indra, lord of the offering.
+
+### Printed p. 105
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॑ वृ॒द्दो न शव॑सा तु॒रो न स्वाभि॑रू॒तिभिः॑ ।  
+> सोमः॑ सु॒तः स इं॑द्र॒ तेऽस्ति॑ स्वधापते॒ मदः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । वृद्धः । न । शवसा । तुरः । न । स्वाभिः । ऊतिभिः ।  
+> सोमः । सुतः । सः । इंद्र । ते । अस्ति । स्वधापते । मदः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमौ नशब्दौ समुच्चयार्थौ । येन पीतेन सोमेन वृद्धो न प्रवृद्धश्च
+> सन् स्वाभिरूतिभिरात्मीयैर्मरुद्भिः सार्धं शवसा बलेन तुरः शत्रूणां हिंसकश्च
+> भवसि स सोम इत्यादि पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+The two words न (*na*) have the sense of conjunction. By drinking which Soma you become both grown and strong, and together with your own helpers, your own Maruts, with strength, you become the destroyer of enemies. That Soma, and so on, as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधापते (*svadhāpate*)—O protector of the Soma in the form of Svadhā
+- इंद्र (*iṃdra*)—O Indra
+- येन (*yena*)—by drinking which Soma juice
+- वृद्यो न (*vṛdyo na*)—you grow to full strength
+- स्वाभिः (*svābhiḥ*)—your companions
+- वातिभिः (*vātibhiḥ*)—with the Maruts
+- शवसा (*śavasā*)—and with strength, joined
+- तुरः (*turaḥ*)—you become the destroyer of enemies
+- सः सोमः (*saḥ somaḥ*)—that same Soma
+- सुतः (*sutaḥ*)—pressed
+- ते (*te*)—for you
+- मदः (*madaḥ*)—a cause of joy
+- अस्ति (*asti*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of the Soma in the form of Svadhā, by drinking which Soma juice you grow to full strength and, joined with your companions the Maruts and with strength, become the destroyer of enemies, that same Soma, being pressed, is a cause of joy to you.
+
+##### English translation
+The Soma, whereby you are augmented in strength, and together with your defenders (the Maruts), are victorious (over your foes), is poured out: it is your exhilaration, Indra, lord of the offering.
+
+### Printed p. 106
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यमु॑ वो॒ अप्र॑हणं गृणी॒षे शव॑स॒स्पतिं॑ ।  
+> इंद्रं॑ विश्वा॒ साहं॒ नरं॒ मंहि॑ष्ठं वि॒श्वच॑र्षणिं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । ऊं इति । वः । अप्रहनं । गृणीषे । शवसः । पतिं ।  
+> इंद्रं । विश्वसहं । नरं । मंहिष्ठं । विश्वचर्षणिं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठ षडहस्य चतुर्थेऽहनि प्रउगशस्त्रे त्यमु व इत्यैंद्रस्तृचः । सूत्रितं च ।
+> त्यमु वो अप्रहणमप त्यं वृजिनं रिपुं । आ. ७-११ । इति ॥
+> हे ऋत्विग्यजमाना वो युष्मदर्थं त्यमु तमेवेंद्रं गृणीषे । स्तौमि ।
+> यद्वा । वो यूयं गृणीषे। गृणीत। स्तुत॥ वचनव्यत्ययः। कीदृशमिंद्रं। अप्रहणमप्रहंतारं भक्तानामनुग्राहकं शवसो बलस्य पतिं पालकं विश्वासाहं विश्वस्य
+> शत्रोरभिभवितारं नरं नेतारं मंहिष्ठं दातृतमं विश्वचर्षणिं सर्वस्य द्रष्टारं ॥
+
+##### Gist of the bhāṣya
+
+On the fourth day of the Pṛṣṭha-ṣaḍaha, in the Praüga-śastra, the tṛca त्यमु व (*tyamu va*) is addressed to Indra. It is laid down in the sūtra: त्यमु वो अप्रहणमप त्यं वृजिनं रिपुं (*tyamu vo aprahaṇamapa tyaṃ vṛjinaṃ ripuṃ*) (Ā. 7-11). O Ṛtvijs and sacrificers, for you I praise that very Indra. Or else: you praise him. What kind of Indra? अप्रहणं (*aprahaṇaṃ*), one who does not strike, the favourer of his devotees; the lord पतिं (*patiṃ*) and protector of strength; विश्वासाहं (*viśvāsāhaṃ*), the conqueror of every enemy; नरं (*naraṃ*), the leader; मंहिष्ठं (*maṃhiṣṭhaṃ*), the most generous giver; विश्वचर्षणिं (*viśvacarṣaṇiṃ*), the beholder of everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Ṛtvijs and sacrificers) अप्रहणं (*aprahaṇaṃ*)—who favours his devotees without harming them
+- शवसः (*śavasaḥ*)—of strength
+- पतिं (*patiṃ*)—the protector
+- विश्वासाहं (*viśvāsāhaṃ*)—who strikes all enemies
+- नरं (*naraṃ*)—the leader
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—the generous giver
+- विश्वचर्षणिं (*viśvacarṣaṇiṃ*)—who has the power to see everything
+- त्यमु इंद्रं (*tyamu iṃdraṃ*)—that same Indra
+- वः (*vaḥ*)—for your welfare
+- गृणीषे (*gṛṇīṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛtvijs and sacrificers, for your welfare I praise that same Indra, who favours his devotees without harming them, who is the leader and the generous giver, and who has the power to see everything.
+
+##### English translation
+(Worshippers), for you I glorify that Indra who disappoints not
+(his adorers); the lord of strength, the all-subduing, the leader (of rites),
+the most beautiful, the beholder of the universe.
+
 ---
 
-**Progress note:** Done through printed p. 100. Vol 21 pp. 95-100: Mandala 6 sukta 42 rks 2-4, sukta 43 rks 1-3
+**Progress note:** Done through printed p. 106. Vol 21 pp. 101-106: Mandala 6 sukta 43 rk 4, sukta 44 rks 1-4
