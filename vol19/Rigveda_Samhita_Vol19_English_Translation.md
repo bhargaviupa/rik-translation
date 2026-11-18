@@ -16042,6 +16042,145 @@ Together with protection that is new, never experienced before by anyone, joy-pr
 ##### English translation
 May we ever be participant of the unprecedented, joy-conferring and well-guided protection of the Aswins: bring to us, immortal (Aswins,) riches, male progeny, and all good things.
 
+### Printed p. 429
+## Sūkta 43 (Maṇḍala 5)
+The forty-third hymn.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ धेनव इति सप्तदशर्चमेकादशं सूक्तमत्रेरार्षं त्रैष्टुभं वैश्वदेवं ।
+> अत्रानुक्रमणिका । आ धेनवस्त्रोन्यतयोरुपांत्यैकपदेति ॥ विनियोगो लैंगिकः ॥
+> अपोनप्रीय एकधनासु हविर्धानं प्रति नीयमानास्वाद्यानुवचनीया । सूत्रितं
+> च । आ धेनवः पयसा तूर्णार्थाः समन्या यंत्युप यंत्यन्याः । आ. ५. १. । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ धेनवः (*ā dhenavaḥ*) has seventeen Ṛks and is the eleventh sūkta. Its seer is Atri, its metre Triṣṭubh and its deity the Viśvedevas. For the Anukramaṇikā he cites the words on the penultimate Ṛk being of one pāda. The use is by indication (laiṅgika): at the Aponaptrīya offering, when the Ekadhanā waters are being led towards the Havirdhāna, the first Ṛk is to be recited as the Anuvacanīya. He supports this with the sūtra आ धेनवः पयसा तूर्णार्थाः समन्या यंत्युप यंत्यन्याः । (*ā dhenavaḥ payasā tūrṇārthāḥ samanyā yaṃtyupa yaṃtyanyāḥ |*) (Ā. 5. 1).
+Anuvāda: This sūkta आ धेनवः (*ā dhenavaḥ*) is the eleventh sūkta in the third anuvāka. It has seventeen Ṛks. Atri is the seer of this sūkta; the Viśvedevas are the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said आ धेनवस्त्रूनैतयोरुपांत्यैकपदा (*ā dhenavastrūnaitayorupāṃtyaikapadā*). The use is by indication. At the Aponaptrīya sacrifice, when the Ekadhanā waters are carried to the Havirdhāna, the cart for bringing Soma, the first Ṛk of this sūkta is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra आ धेनवः पयसा तूर्णर्थाः समन्यायंत्युप यंत्यन्याः (*ā dhenavaḥ payasā tūrṇarthāḥ samanyāyaṃtyupa yaṃtyanyāḥ*) (Ā. 5-1).
+- Sūkta 43
+- Maṇḍala 5, Anuvāka 3, Sūkta 43
+- Aṣṭaka 4, Adhyāya 2, Vargas 20, 21, 22
+- Number of Ṛks in the sūkta: 17
+- Seer: Atri
+- Deity: the Viśvedevas
+- Metre: Ṛks 1-15, 17 Triṣṭubh; 16 Ekapadā
+- Metre: Ṛks 1-15, 17 Triṣṭubh; 16 Ekapadā
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ धे॒नवः॒ पय॑सा॒ तूर्ण॑र्था॒ अम॑र्धंती॒रुप॑ नो यंतु॒  ॑
+> मध्वा ।  
+> म॒हो रा॒ये बृ॑ह॒तीः स॒प्त विप्रो॑ मयो॒भुवो॑ जरि॒ता  ॑
+> जोहवीति ॥ १ ॥
+
+### Printed p. 430
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धेनवः । पयसा । तूर्णिS अर्थाः । अनुर्धंतीः । उप । नः । यंतु । मध्वा ।  
+> महः । राये । बृहतीः । सप्त । विप्रः । मयःसभुवः । जरिता । जोहवीति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धेनवः प्रीणयित्र्यो नद्यो मध्वा मधुरेण पयसा रसेन सहितास्तूर्ण्यर्थास्वरमाणगमनाः । अर्थोऽर्तॆः । नि १. १८. । इति यास्कः । अमर्धंतीरहिंसंत्यः सत्यो नोऽस्नानुपा यंतु । उपागच्छंतु । तदर्थ० महो महते राये
+> धनाय बृहतीर्महतीः सप्त सर्पणस्वभावाः सप्तसंख्याका इमं मे गंगे । ऋग्वे
+> १०. ७५. ५ । इति मंत्रोक्ता गंगाद्या ना । तत्र हि प्राधान्येन सप्तैवोक्ताः ।
+> मयोभुवः सुखस्य भावयित्रिर्विप्रो विशेषेण प्रीणयिता जरिता स्तोता जोहवीति।
+> आह्वयति ॥
+
+##### Gist of the bhāṣya
+
+The dhenus, the nourishing ones, are the rivers, accompanied by sweet milk, that is, sweet essence; they are swift in motion, for Yāska says that artha means going (Ni. 1. 18). Being unharming, may they come near to us. For the sake of great wealth they are the great ones, the seven, seven in number and of a flowing nature: the Gaṅgā and the others spoken of in the mantra इमं मे गंगे (*imaṃ me gaṃge*) (Ṛgve. 10. 75. 5)**NOTE**, where seven only are mentioned as the principal ones. They are mayobhuvaḥ, bringers of happiness. The vipra, the one who especially gratifies, the worshipper, the praiser, invokes them, calls them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—the rivers, which give satisfaction
+- मध्वा (*madhvā*)—sweet
+- पयसा (*payasā*)—together with water
+- तूर्णार्थाः (*tūrṇārthāḥ*)—flowing swiftly
+- अमर्धंतीः (*amardhaṃtīḥ*)—and not harming in any way
+- नः उप (*naḥ upa*)—near to us
+- आ यंतु (*ā yaṃtu*)—may they flow and come
+- महे (*mahe*)—great**NOTE**
+- राये (*rāye*)—for wealth
+- बृहतीः (*bṛhatīḥ*)—of great nature
+- सप्त (*sapta*)—seven in number, the Gaṅgā and the rest
+- मयोभुवः (*mayobhuvaḥ*)—and giving happiness, the rivers
+- विप्रः (*vipraḥ*)—the wise
+- जरिता (*jaritā*)—the praiser
+- जोहवीति (*johavīti*)—invokes, calls with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+May the rivers, which give satisfaction to all men, come flowing near to us together with sweet water, flowing swiftly and not harming in any way. I, who am wise and a praiser, invoke with prayer the rivers, which are of great nature, seven in number, the Gaṅgā and the rest, and givers of happiness.
+
+##### English translation
+May the milch cows, quick-moving, doing no harm, come to us, (laden) with their sweet fluid; the wise worshipper invokes the seven-vast and joy-diffusing (rivers) for the sake of ample riches.
+
+### Printed p. 431
+
+##### विशेषविषयगळु (Special Topics)
+
+Rākā: Sāyaṇa has said earlier (Ṛ. Saṃ. 2.32-4)**NOTE** that Rākā means the full-moon day, which has a complete moon. The author of the Nirukta, explaining this word, says:
+राका रातेर्दानकर्मणः (हविदाननिमित्तं हि सा) (*rākā rāterdānakarmaṇaḥ (havidānanimittaṃ hi sā)*)
+(Ni. 11-30)
+that is, the name Rākā is well known as formed from the root rā, which has the meaning of giving.
+राका वाक् सरमाप्ताश्च भृगवोऽघ्ना श्य सरस्वती । (*rākā vāk saramāptāśca bhṛgavo 'ghnā śya sarasvatī |*)
+(Bṛ. Ve. 1-28)**NOTE**
+From the Bṛhaddevatā text it is known that the particular deities Rākā, Vāc and the like belong to the Indra-world, the atmosphere. This deity is praised as one whose gift is accompanied by an exceedingly generous mind. Some statements show also that she is the sister of the gods and is as worthy of worship as the gods. In the Aitareya Brāhmaṇa, at the time of laying down the worship of Rākā, a doubt arises and there is also an answer to it. On that occasion Sāyaṇa has explained as follows:
+संपूर्णचंद्रमंडलयुक्ता पौर्णमासी राका । तदभिमानिदेवतायाः प्रतिपादिका ऋगपि राकेत्युच्यते । सेयं राका देवानां जामी नाम भगिनी ॥ (*saṃpūrṇacaṃdramaṃḍalayuktā paurṇamāsī rākā | tadabhimānidevatāyāḥ pratipādikā ṛgapi rāketyucyate | seyaṃ rākā devānāṃ jāmī nāma bhaginī ‖*)
+(Ai. Brā. Sā. Bhā. 3-37)**NOTE**
+The full-moon day that has the complete lunar disc is designated by the name Rākā. The Ṛk that praises the deity presiding over her is also well known by the name Rākā. He has explained the sense of the Brāhmaṇa sentence thus: this deity is worshipped as the sister of all the gods. In this connection a doubt arises about the order of worship of this deity. It is this:
+तदाहू राकां पूर्वां शंसेच्चा मै वै पूर्वपेयमिति ॥ (*tadāhū rākāṃ pūrvāṃ śaṃseccā mai vai pūrvapeyamiti ‖*)
+(Ai. Brā. 3-37)
+In this sentence the idea is expressed that to Rākā, the sister of the gods, worship that comes before that of the wives of the gods should be offered. But this injunction is the sentence of the prima facie view. पूर्वपेयं प्रथमतः सोमपानं युक्तमिति पूर्वपक्षः (*pūrvapeyaṃ prathamataḥ somapānaṃ yuktamiti pūrvapakṣaḥ*) (Sā. Bhā.). The next sentence refutes this prima facie view and states the established conclusion that the drinking of Soma that comes before is prescribed for the wives of the gods, rather than for Rākā.
+
+### Printed p. 432
+तत्तन्नादृत्यं देवानामेव पत्निः पूर्वाः शंसेत् । (*tattannādṛtyaṃ devānāmeva patniḥ pūrvāḥ śaṃset |*)
+It states the answer, to the effect that the drinking that comes before belongs to the wives of the gods, and that the wife, rather than the sister, is the first one worthy of worship. Therefore, since Rākā is the sister of the gods, she does not get the first place that falls to the wives of the gods.
+समानोदर्रा स्वसा अन्नोदरय्यै जायाया अनुजीविनी जीवति ॥ (*samānodarrā svasā annodarayyai jāyāyā anujīvinī jīvati ‖*)
+(Ai. Brā. 3-37)
+It states clearly that, although a sister is born of the womb of one and the same mother, she lives following the wife, who is of another womb, and therefore hers is the second place. Afterwards, while praising Rākā, he enjoins that the worship of Rākā be offered, reciting the mantras beginning राकामहं यास्ते राके (*rākāmahaṃ yāste rāke*), after the passage
+राकां शंसति राका ह वा एतां पुरुषस्य सेविनीं सीव्यति यैषा ...... ...... ॥ (*rākāṃ śaṃsati rākā ha vā etāṃ puruṣasya sevinīṃ sīvyati yaiṣā ...... ...... ‖*)
+He also states that the mantra that praises Rākā too has the name Rākā. He also praises this same goddess Rākā as one who, taking a most prominent place in the work of the sacrifice, becomes a helper of the sacrificer. At sacrificial times the help of the metres is indispensable. He states this deity to be of the form of a metre.
+अनुमत्यै चरुं यानुमतिः सा गायत्री । राकायै चरुं या राका सा त्रिष्टुप् । सिनीवालै चरुं या सिनीवाली सा जगती । कुह्वै चरुं या कुहूः सा अनुष्टुप् । एतानि वाव सर्वाणि च्छंदांसि गायत्रं त्रैष्टुभं जागतमानुष्टुभमन्वन्यान्येतानि हि यज्ञे प्रतमामिव क्रियंते । (*anumatyai caruṃ yānumatiḥ sā gāyatrī | rākāyai caruṃ yā rākā sā triṣṭup | sinīvālai caruṃ yā sinīvālī sā jagatī | kuhvai caruṃ yā kuhūḥ sā anuṣṭup | etāni vāva sarvāṇi cchaṃdāṃsi gāyatraṃ traiṣṭubhaṃ jāgatamānuṣṭubhamanvanyānyetāni hi yajñe pratamāmiva kriyaṃte |*)
+(I. Bra., 3-47)**NOTE**
+Since the help of the metres is indispensable to the series of sacrificial acts, the deities beginning with Anumati themselves reflect those metres. Anumati is of the form of the Gāyatrī; the goddess Rākā is of the nature of the Triṣṭubh. Sinīvālī is of the form of the Jagatī. The goddess Kuhū is of the nature of the Anuṣṭubh. These are praised as the ones that attain abundance and excess in the sacrifice. Because these, being of the form of metres, are helpful to the sacrifice, they also assist in the works of Prajāpati in regulating the universe. How is that? It is thus:
+स यः स धातायमेव स धात्रः । द्वादशकपालः पुरोडाशो द्वादशकपालो द्वादशमासाः संवत्सरः संवत्सरः प्रजापतिः प्रजापतिर्धाताथ यत्तद्दिशां परमं त्रांतमेतानि तानि पूर्वाणि हवींष्यनुमत्यै चरू राकायैचरुः सितीनाल्यै चरुः कुह्वै चरुः .... .... .... ॥ (*sa yaḥ sa dhātāyameva sa dhātraḥ | dvādaśakapālaḥ puroḍāśo dvādaśakapālo dvādaśamāsāḥ saṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ prajāpatirdhātātha yattaddiśāṃ paramaṃ trāṃtametāni tāni pūrvāṇi havīṃṣyanumatyai carū rākāyaicaruḥ sitīnālyai caruḥ kuhvai caruḥ .... .... .... ‖*)
+(Pra. Pra. 7-5-1-38)**NOTE**
+
+### Printed p. 433
+The offering of oblation follows that work of Prajāpati which is of the form of the Creator (Dhātṛ) and the Supporter. Since Prajāpati is of the form of the year, cakes are to be baked on twelve potsherds, following the twelve divisions that are the parts of the year. On this occasion the deities named Anumati, Rākā, Sinīvālī and Kuhū are always to be worshipped and satisfied with oblations. These deities, Rākā and the rest, give stability in the various regions to the works of Prajāpati that support the universe.
+ता ना एता देव्यः । दिशो ह्येताश्चंदागांसि वै दिशश्चंदागांसि देव्योऽथैष कः प्रजापतिस्तद्यद्देव्यश्च कश्च तस्माद्देविकाः पंच भवंति पंच हि दिशः ॥ (*tā nā etā devyaḥ | diśo hyetāścaṃdāgāṃsi vai diśaścaṃdāgāṃsi devyo 'thaiṣa kaḥ prajāpatistadyaddevyaśca kaśca tasmāddevikāḥ paṃca bhavaṃti paṃca hi diśaḥ ‖*)
+(Ca. Ba. 9.5-1.-39)**NOTE**
+Rākā, Sinīvālī and these deities are the four regional deities of the universe. Therefore they are the regulators of the universe. They themselves are of the form of metres. Therefore they are helpers of the sacrificial work that is useful for the business of the universe. They assist the world-nourishing work of Prajāpati, who is called Ka. These are goddesses. Since these goddesses are joined together with Prajāpati, who is of the form Ka, the usage Devikāḥ for all of them together is stated, so the praise of Rākā and the other deities runs. Therefore, although in the sentence of the Aitareya Brāhmaṇa the deity Rākā has a somewhat lower place than the wives of the gods, in other places the influence of this deity is celebrated to the highest degree. That the help of these goddesses is quite necessary for the continuous growth of the progeny of the world is praised in the Taittirīya Saṃhitā. The very goddesses whom it addresses as Devikāḥ because of their world-nourishing power are the ones whom a man desiring offspring should worship.
+देविकाः ऎंब व्यवहारवु ऎंबुदागि राका मुंताद देवतॆगळ प्रशंसॆयिदॆ. आदुदरिंद, ऐतरेय ब्राह्मणवाक्यदल्लि राका देवतॆगॆ, देवपत्नियरिगिंतलू कॊंच अपकृष्टवाद स्थानविद्दरू उळिदॆडॆ गळल्लि ई देवतॆय प्रभाववन्नु अत्यतिशयवागि कॊंडाडिदॆ. विश्वद प्रजासंततियु अनुसूतवागि वृद्धियागलु ई देवियर सहायवु अत्यावश्यवॆंबंशवन्नु तैत्तिरीयसंहितॆयल्लि प्रशंसिसिदॆ. याव ई देवियरन्नु अवर जगत्पोषकशक्तिगागि देविकाः ऎंदु संबोधिसिदॆयो, अवरन्ने संतति कामनाद पुरुषनु आराधिसबेकु. देविका निर्वपेत्सजाकामश्चंदाग्‌ंसि वै देविकाश्चंदाग्ंसीव खलु वै प्रजाश्चंदोभिरेवास्मै प्रजाः प्र जनयति प्रथमं धातारं करोति मिथुनी एव तेन करोत्यन्वेवास्मा अनुमतिर्मन्यते राते राका प्र सिनीवाली जनयति .... .... .... देविकाश्चंदाग्ंसिवि ॥ (*devikāḥ èṃba vyavahāravu èṃbudāgi rākā muṃtāda devatègaḷa praśaṃsèyidè. ādudariṃda, aitareya brāhmaṇavākyadalli rākā devatègè, devapatniyarigiṃtalū kòṃca apakṛṣṭavāda sthānaviddarū uḷidèḍè gaḷalli ī devatèya prabhāvavannu atyatiśayavāgi kòṃḍāḍidè. viśvada prajāsaṃtatiyu anusūtavāgi vṛddhiyāgalu ī deviyara sahāyavu atyāvaśyavèṃbaṃśavannu taittirīyasaṃhitèyalli praśaṃsisidè. yāva ī deviyarannu avara jagatpoṣakaśaktigāgi devikāḥ èṃdu saṃbodhisidèyo, avaranne saṃtati kāmanāda puruṣanu ārādhisabeku. devikā nirvapetsajākāmaścaṃdāgṃsi vai devikāścaṃdāgṃsīva khalu vai prajāścaṃdobhirevāsmai prajāḥ pra janayati prathamaṃ dhātāraṃ karoti mithunī eva tena karotyanvevāsmā anumatirmanyate rāte rākā pra sinīvālī janayati .... .... .... devikāścaṃdāgṃsivi ‖*)
+(Tai. Saṃ. 3-4-9-1)
+A man desiring offspring should offer oblation to Rākā and the other goddesses. These deities are of the form of metres. Offspring too grows in the form of metres. Therefore Rākā and the others, who are of the form of mothers, are the cause of the origin of the metres, who are of the form of sons. Dhātṛ alone is the husband. After conjugal relation has been entered into with Anumatī, Rākā,
+
+### Printed p. 434
+these (goddesses), the birth of offspring takes place. Therefore the worship of these Devikās is prescribed. Not only the wealth of progeny, but also he who wishes for wealth of cattle should follow this order of worship.
+पशवश्चंदोभिरेवास्कै पशून् प्रजनयति ॥ (*paśavaścaṃdobhirevāskai paśūn prajanayati ‖*)
+(Tai. Saṃ. 3-4-9-2)
+This point is stated by sentences of this kind. Stating that these four Devikās are four forms of the moon, it describes their forms in this way.
+पूर्वपक्षो राकापरपक्षः कुहूरमावास्या सिनीवाली पौर्णमास्यनुमतिच्चंद्रमा धाता .... । (*pūrvapakṣo rākāparapakṣaḥ kuhūramāvāsyā sinīvālī paurṇamāsyanumaticcaṃdramā dhātā .... |*)
+(Kṛ. Saṃ. 3-4-9-6)**NOTE**
+The goddess Rākā is the first fortnight. The goddess Kuhū is the second fortnight. Sinīvālī is the night of the new moon. Anumati is the night of the full moon. Dhātṛ is the moon. In the form of wives of this moon, who is of the form of Dhātṛ, they are helpers in the manifestation and nourishment of the works of the world's business. In the present mantra the praise of Rākā, who has such influence, is recited, and the order of worship of this deity is laid down.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सु॑ष्टु॒ती नम॑सा वर्त॒यध्यै॒ द्यावा॒ वाजा॑य पृथि॒वी  ॑
+> अमृध्रे ।  
+> पि॒ता मा॒ता मधु॑वचाः सु॒हस्ता॒ भरे॑भरे नो य॒शसा॑वविष्टां ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सुस्तुती । नमसा । वर्तयध्यै । द्यावा । वाजाय । पृथिवी इति । अमृध्रे  
+> इति ।  
+> पिता । माता । मधुवचाः । सुहस्ता । भरेऽभरे । नः । यशसौ । अविष्टां ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 428. Ṛk 14-18 of sūkta 42 (Parjanya, Maruts, Earth, Aśvins), pp. 423-428
+**Progress note:** Done through printed p. 434. Sūkta 43 intro, Ṛk 1 with Special Topics on Rākā, Ṛk 2 saṃhitā/pada, pp. 429-434
