@@ -43,7 +43,7 @@ def suggest(w):
         if share >= 0.8: return ('M.', note + f'Mahābhāṣya (user: M. / म.); {round(100 * share)}% of its numbers have 3-4 parts, the shape of sūtra and vārttika numbers (Ma. Bhā. is the Mahābhārata)', 'medium')
     if w in ('Pā. Ma.', 'पा. म.'): return ('M.', note + 'user, Nov 18 2026 (later word): Pā. Ma. and पा. म. are the Mahābhāṣya', 'high')
     if re.search('[\u0900-\u097f]', w) and re.match(r'pā\. \S', base): return ('Pā. Sū.', note + 'user, Nov 18 2026: all पा. … forms are Pāṇini sūtra (the second word is a misreading of सू.)', 'high')
-    if w in ('Pā. Mabhā.', 'Pā. Mā.', 'Pā. Rū.', 'Pā. Saṃ.', 'Pā. su.', 'Pā. sū. Ma.', 'Pā. sū. ma.', 'Pā. sū. vārtti.'): return ('Pā. Sū.', note + 'user, Nov 18 2026: "Pāṇini sūtra as well" (the second word is a misreading or names the vārttika / Mahābhāṣya)', 'high')
+    if w in ('Pā. Mabhā.', 'Pā. Mā.', 'Pā. Rū.', 'Pā. Saṃ.', 'Pā. su.', 'Pā. sū. Ma.', 'Pā. sū. ma.', 'Pā. sū. vārtti.'): return ('Pā. Sū. Vā.' if w == 'Pā. sū. vārtti.' else 'Pā. Sū.', note + 'user, Nov 18 2026: "Pāṇini sūtra as well" (the second word is a misreading or names the vārttika / Mahābhāṣya)', 'high')
     if re.search('vidhāna\\.$', base): return ('Ṛgvi.', note + 'user, Nov 18 2026: …vidhāna. is the Ṛgvidhāna (ऋग्विधान); the first letters are misreadings (यग्, मुग्)', 'high')
     key = base if base in listforms else None
     if key: return (key, note + 'the form of the list', 'high')
