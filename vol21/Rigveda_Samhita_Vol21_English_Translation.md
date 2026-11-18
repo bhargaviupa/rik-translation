@@ -9266,6 +9266,272 @@ We have wandered, gods, into a desert where there is no track of cattle : the va
 > दि॒वेदि॑वे स॒दृशी॑र॒न्यमर्धं॑ कृ॒ष्णा अ॑सेध॒दप॒ सद्म॑नो॒ जाः ।  
 > अह॑न्दा॒सा वृ॑ष॒भो व॑स्न॒यंतो॒दव्र॑जे व॒र्चिनं॒ शंब॑रं च ॥
 
+### Printed p. 213
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवेऽदिवे । सृदृशीः । अन्यं । अर्धं । कृष्णाः । असेधत् । अप । सद्मनः । जाः ।  
+> अहन् । दासा । वृषभः । वस्ययंता । उदव्रजे । वर्चिनं । शंबरं । च ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः सद्मनः सदनात्केयादंतरिक्षैकदेशात्सा नाज्ञा जायमानः
+> सूर्यात्मना प्रादुर्भवन् सदृशीस्तुल्यरूपाः कृष्णाः कृष्णवर्णा रात्रीर्दिने दिने
+> प्रतिदिवसमपासेधत् । निवर्तयति । किमर्थं । अन्यमर्धमहरर्धमपरं भागं
+> प्रकाशयितुं । अहोरात्रात्मकस्य दिवसस्य हि रात्रिरेको भागः । अपि च वृषभो
+> वर्षयिता स इंद्रो दासा दासावुपक्षपयितार् यज्ञकर्मणां वस्नयंता । वस्नं
+> निवासहेतुभूतं धनं । तदिच्छंत् वर्चिनं शंबरं चैतत्संज्ञावसुरावुदव्रजे ।
+> उदकानि व्रजंत्यस्मिन्नित्युदव्रजो देशविशेषः । तस्मिन्नहन् । हतवान् ॥
+
+##### Gist of the bhāṣya
+
+Indra, coming into being from his abode, a part of the atmosphere (**NOTE**), manifesting himself in the form of the sun, drives away every day the black nights, which are alike in appearance. For what purpose? To light up the other half, the day-half; for night is one part of the day in the sense of day-and-night together. Moreover, that showerer, Indra, slew in Udavraja the two slaves, Varcin and Śambara, the two destroyers of sacrificial rites, who desired vasna, that is, wealth which is the cause of dwelling. Udavraja is a particular region: waters go (vraj) in it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- सद्मनः (*sadmanaḥ*)—from his own abode, the atmosphere
+- जाः (*jāḥ*)—manifesting himself in the form of the sun
+- सदृशीः (*sadṛśīḥ*)—appearing in one and the same form
+- कृष्णाः (*kṛṣṇāḥ*)—the nights, filled with pitch darkness, all of them
+- दिवे दिवे (*dive dive*)—every day
+- अन्यं अर्धं (*anyaṃ ardhaṃ*)—in order to light up the other half, the day
+- अप असेधत् (*apa asedhat*)—makes them vanish
+- वृषभः (*vṛṣabhaḥ*)—Indra, the cause of rain
+- दासा (*dāsā*)—those who do us harm
+- वस्ययंता (*vasyayaṃtā*)—who covet our wealth, which is the means of dwelling
+- वर्चिनं (*varcinaṃ*)—the asura named Varcin
+- शंबरं च (*śaṃbaraṃ ca*)—and the asura named Śambara
+- उदव्रजे (*udavraje*)—in the region named Udavraja
+- अहन् (*ahan*)—slew
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, manifesting himself in the form of the sun from his own abode, the atmosphere, makes all the nights, which are alike in form and filled with pitch darkness, vanish every day, in order to light up the other half, the day. Indra, the cause of rain, slew in the region named Udavraja the asura named Varcin and the asura named Śambara, who did us harm and coveted our wealth, the means of our dwelling.
+
+##### English translation
+Indra, becoming manifest from his abode (in the firmament), dissipates, day by day, the resembling glooms, (so that he may distinguish)
+### Printed p. 214
+the other portion, (or the day) : and the showerer has slain the two wealth-seeking slaves, Varchin and Sambara, in (the couutry of) Udavraja.
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒स्तो॒क इन्नु राध॑सस्त इंद्र॒ दश॒ कोश॑या॒र्दश॑ वा॒जिनो॑ऽदात् ।  
+> दिवो॑दासादतिथि॒ग्वस्य॒ राधः॑ शांब॒रं वसु॒ प्रत्य॑ग्रभीष्म ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रस्तोकः । इत् । नु । राधसः । ते । इंद्र । दश । कोशयीः । दश । वाजिनः । अदात् ।  
+> दिवोदासात् । अतिथिग्वस्य । राधः । शांबरं । वसु । प्रति । अग्रभीष्म ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदाद्यासु चतसृषु सृंजयपुत्रस्य प्रस्तोकस्य राज्ञो दानस्तुतिः । स एव
+> दिवोदासोऽश्वथोऽतिथिग्व इति चाख्यायते । हे इंद्र ते, तव राधस आराधयितुः
+> स्तोतुः ॥ चतुर्थ्यर्थे षष्ठी ॥ त्वां स्तुवते मह्यं गर्गाय प्रस्तोको राजा दश
+> कोशयाः सुवर्णपूर्णान्दशसंख्याकान् कोशान्दश वाजिनोऽश्वांश्च नु क्षिप्रमदात् ।
+> प्रायच्छत् । इदिति पूरणः । वयं च तस्माद्दिवोदासादेशत्संज्ञातृस्तोकाद्वसु
+> धनं प्रत्यग्रभीष्म । प्रतिगृहीतवंतः । कीदृशं । अतिथिग्वस्य तस्यैव प्रस्तोकस्य
+> स्वभूतं राधो राधकं शांबरं शंबरादसुरादागतं । शंबरं हत्वा त्वया दत्तं
+> तदीयमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Beginning with this verse, four verses form a praise of the gift of King Prastoka, son of Sṛñjaya; he is also called Divodāsa, Aśvatha and Atithigva. "O Indra, to the one who worships you", that is, to the praiser (the genitive is used in the sense of the dative): to me, Garga, who praise you, King Prastoka quickly gave ten purses filled with gold, and ten horses. The word "it" is to be supplied as a filler. And we received wealth from that Divodāsa, that is, from Prastoka (**NOTE**). Of what kind? It is wealth belonging to that same Prastoka, called Atithigva, bringing success, and coming from the asura Śambara: that is, it is his wealth, given by you after you had slain Śambara.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- राधसः (*rādhasaḥ*)—to Garga, the worshipper
+- प्रस्तोकः (*prastokaḥ*)—the king named Prastoka
+- दश कोशयीः (*daśa kośayīḥ*)—ten treasure-purses filled with gold
+- दश वाजिनः (*daśa vājinaḥ*)—ten horses
+- नु (*nu*)—at once
+- अदात् (इत्) (*adāt (it)*)—gave
+- वयं (*vayaṃ*)—we also
+- दिवोदासात् (*divodāsāt*)—from that Prastoka, who has the other name Divodāsa
+- शांबरं (*śāṃbaraṃ*)—taken away from the asura Śambara
+- अतिथिग्वस्य (*atithigvasya*)—belonging to that same Prastoka, who also has the name Atithigva
+- राधः (*rādhaḥ*)—and worthy of honour
+- वसु (*vasu*)—wealth
+- प्रत्यग्रभीष्ट (*pratyagrabhīṣṭa*)—we have accepted
+### Printed p. 215
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, King Prastoka at once gave to Garga, your worshipper, ten treasure-purses filled with gold and ten horses. We also have received from that Prastoka, who has the other name Divodāsa, wealth that was taken away from the asura Śambara, that belongs to that same Prastoka who has another name, Atithigva, and that is worthy of honour.
+
+##### English translation
+Prastoka has given to your worshipper, Indra, ten purses of gold, and ten horses, and we have accepted this treasure from Divodasa, the spoil won by Atithigwan from Shambara.
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दशाश्वा॒न्दश॒ कोशा॒न्दश॒ वस्त्राधि॑भोजना ।  
+> दशो॑ हिरण्यपिं॒डान्दिवो॑दासादसानिषं ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । अश्वान् । दश । कोशान् । दश । वस्त्रा । अधिभोजना ।  
+> दशो इति । हिरण्यपिंडान् । दिवःसदासात् । असानिषं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दश दशसंख्याकानश्वान् दशसंख्याकान् हिरण्यपूर्णान् कोशानधिभोजना ।
+> भोजनमिति धननाम । अधिकं धनं येषां मूल्यं । तादृशानि दशसंख्यानि
+> वस्त्राणि च दशो दश च दशसंख्याकांश्च हिरण्यपिंडान् सुवर्णपिंडानेतान् सर्वान्निवोदासात्पस्तोकादहमसानिषं । समभजं । लब्धवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+Ten horses, and ten treasure-purses filled with gold; "adhibhojanā": bhojana is a name for wealth, so these are ten cloths of such a kind that their price is more than ordinary wealth; and "daśo", that is, ten, lumps of gold. All these, ten of each, I received from Divodāsa, that is, from Prastoka: "asāniṣam" means I shared in them, I obtained them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- दिवोदासात् (*divodāsāt*)—from Prastoka, who has the other name Divodāsa
+- दश (*daśa*)—ten in number
+- अश्वान् (*aśvān*)—horses
+- दश कोशान् (*daśa kośān*)—and ten treasure-purses
+- अधि भोजना (*adhi bhojanā*)—and riches that bring enjoyment
+- दश वस्त्रा (*daśa vastrā*)—ten cloths
+- दशो हिरण्यपिंडान् (*daśo hiraṇyapiṃḍān*)—and ten pieces of gold
+- असानिषं (*asāniṣaṃ*)—I obtained
+### Printed p. 216
+
+##### भावार्थ (Bhāvārtha)
+
+From Prastoka, who has the other name Divodāsa, I obtained ten treasure-purses, ten riches that bring enjoyment, ten cloths and ten lumps of gold.
+
+##### English translation
+I have received ten horses, ten purses, cloths and ample food, and ten lumps of gold from Divodasa.
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॒ रथा॒न्प्रष्टि॑मतः श॒तं गा अथ॑र्वभ्यः ।  
+> अ॒श्व॒थः पा॒यवे॑दात् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । रथान् । प्रष्टिमतः । शतं । गाः । अथर्वभ्यः ।  
+> अश्वथः । पायने । अदात् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दश दशसंख्याकान् प्रष्टिमतः । प्रष्टिस्त्रिपद आधारः । तद्वद्वहंतीति प्रष्टयोऽश्वाः । तद्युक्तान्रथान् शतं शतसंख्याका गाश्चाथर्वभ्योऽथर्वगोत्रेभ्य
+> यषिभ्यः पायवे भरद्वाजपुत्रायैतत्संज्ञायास्मद्भात्रे चाश्वथोऽश्ववानेतत्वंज्ञः
+> प्रस्तोकोऽदात् । दत्तवान् ॥
+
+##### Gist of the bhāṣya
+
+Ten chariots with prṣṭi horses. A prṣṭi is a three-footed support; the horses that carry like it are prṣṭis. So: chariots yoked with such horses, and a hundred cows, were given by Aśvatha, that is, by Prastoka, the owner of horses, to the Atharvans, the sages of the Atharva lineage, and to Pāyu, the son of Bharadvāja, our brother.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वथः (*aśvathaḥ*)—that Prastoka, who has the other name Aśvatha
+- अथर्वभ्यः (*atharvabhyaḥ*)—to the sages born in the Atharva lineage
+- हायपे (*hāyape*)—and to Pāyu, son of Bharadvāja **NOTE**
+- दश (*daśa*)—ten in number
+- प्रष्टिमतः (*praṣṭimataḥ*)—and provided with horses
+- रथान् (*rathān*)—chariots
+- शतं (*śataṃ*)—a hundred in number
+- गाः (*gāḥ*)—cows
+- अदात् (*adāt*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+That same Prastoka, who has the other name Aśvatha, gave to the sages born in the Atharva lineage and to Pāyu, son of Bharadvāja, ten chariots provided with horses and a hundred cows.
+### Printed p. 217
+
+##### English translation
+Ashwatha has given to Payu ten chariots with their horses, and a hundred cows to the priests
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॒ राधो॑ वि॒श्वज॑न्यं॒ दधा॑नान्भ॒रद्वा॑जान्त्सार्ङ्ज॒यो अ॒भ्य॑यष्ट ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । राधः । विश्वजन्यं । दधानान् । भरत्वाजान् । साङ्ज्जयः । अभि । आयष्ट ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वजन्यं सर्वजनहितं महि महाद्राधो धनं दधानान्यारयतो भरद्वाजान्
+> भरद्वाजपुत्रानस्मान् साञ्जयः सृंजयपुत्रः प्रस्तोकोऽभ्ययष्ट । अपूजयत् ॥
+
+##### Gist of the bhāṣya
+
+Prastoka, the son of Sṛñjaya, honoured us, the sons of Bharadvāja, who receive (**NOTE**) great wealth, which is beneficial to all people.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वजन्यं (*viśvajanyaṃ*)—beneficial to all people
+- महि (*mahi*)—and great
+- राधः (*rādhaḥ*)—wealth
+- दधानान् (*dadhānān*)—who accept
+- भरद्वाजान् (*bharadvājān*)—us, the sons of Bharadvāja
+- सांर्जयः (*sāṃrjayaḥ*)—Prastoka, son of Sṛñjaya
+- अभ्ययष्ट (*abhyayaṣṭa*)—has honoured
+
+##### भावार्थ (Bhāvārtha)
+
+Prastoka, the son of Sṛñjaya, has honoured us, the sons of Bharadvāja, who accept great wealth that is beneficial to all people.
+
+##### English translation
+The son of Srinjaya has reverenced the Bharadwajas who have accepted such great wealth for the good of all men.
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वन॑स्पते वी॒ड्वं॑गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑ ।  
+> गोभिः॒ संन॑द्दो असि वी॒ळय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
+
+### Printed p. 218
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वनस्पते । वीळु अंगः । हि । भूयाः । अस्मत् सखा । प्रतरणः । सुवीरः ।  
+> गोभिः । संनद्धः । असि । वीळयस्व । आस्थाता । ते । जयतु । जेत्वानि ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनस्पत इत्येषा रथारोहणे विनियुक्ता । सूत्रितं च । वनस्पते वीड्वंगो हि
+> भूया इत्येतयान्यान्यपि वानस्पत्यानि । आ. गृ. २-६-५ । इति ॥
+> हे वनस्पते वनस्पतिविकार रथ त्वं वीड्वंगो दृढावयवो भूयाः । भव ।
+> अस्मत्सखा वयं सखायो यस्य स तादृशश्च भव । प्रतरणः प्रवर्धयिता सुवीरः
+> शोभनैर्विरैः शूरभटैः पुत्रादिभिर्वा युक्तश्च भव । अपि च त्वं गोभिर्गॊविकारैश्चर्मभिः संन्नद्योऽसि । सम्यग्बद्दो भवसि । तादृशस्त्वं वीळयस्त । आस्मान्दृढीकुरु । ते तवास्थाता त्वय्यवस्थितो रथी च जेत्वानि जेतव्यानि शत्रुसैन्यानि जयतु ॥
+
+##### Gist of the bhāṣya
+
+This verse, "Vanaspate", is applied in mounting the chariot. It is stated in the sūtra: "With 'Vanaspate vīḍvaṅgo hi bhūyāḥ' and other Vānaspatya verses" (Ā. Gṛ. 2-6-5 **NOTE**). O Vanaspati, that is, chariot made of wood, be firm of limb. Be one whose friends we are. Be also an increaser (**NOTE**) and furnished with good heroes, that is, brave warriors, or with sons and the like. Moreover, you are well bound with cows, that is, with products of the cow, leather straps. Being such, make us firm. May the charioteer who stands on you conquer the enemy armies that are to be conquered.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पते (*vanaspate*)—O chariot, made of wood
+- वीड्वंगः (*vīḍvaṃgaḥ*)—having firm limbs
+- भायाः (*bhāyāḥ*)—be
+- अस्मत्सखा (*asmatsakhā*)—be a friend to all of us
+- प्रतरणः (*prataraṇaḥ*)—be our protector
+- सुवीरः (*suvīraḥ*)—and be provided with excellent heroes
+- त्वं (*tvaṃ*)—you
+- गोभिः (*gobhiḥ*)—with cowhides
+- संनद्धः आसि हि (*saṃnaddhaḥ āsi hi*)—you are indeed girt
+- वीळयस्व (*vīḷayasva*)—make us strong too
+- ते (*te*)—in you
+- आस्थाता (*āsthātā*)—the charioteer too who sits
+- जेत्वानि (*jetvāni*)—furnished with the means of winning victory
+- जयतु (*jayatu*)—may he conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O deity, made of wood and in the form of a chariot, be of firm limbs. Be our protector and be furnished with excellent heroes. You are girt with cowhides. Make us strong. May the charioteer who sits in you also, furnished with the means of winning victory, conquer the enemies.
+
+##### English translation
+(Chariot made of the) forest lord, be strong of fabric ; be our friend, be our protector, and be manned by warriors: you are girt with cow-hides keep us steady; and may he who rides in you be victorious over conquered (foes).
+
 ---
 
-**Progress note:** Done through printed p. 212. Ṛk 17 end, Ṛk 18-20 and start of 21, sūkta 47 (pp. 207-212)
+**Progress note:** Done through printed p. 218. Sūkta 47 Ṛks 21-26 (Prastoka dānastuti, chariot verse)
