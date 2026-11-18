@@ -10220,6 +10220,151 @@ O Agni, bring near me the goddess Śrī who bears the name Lakṣmī, of such gr
 
 आवहेति जातवेदसं प्रार्थयेत् । आगतायां च तस्यां किं ते फलमिति चेदुच्यते-यस्यामिति । यस्यामागतायां हिरण्यं गामश्वं पुरुषांश्चाहं (*āvaheti jātavedasaṃ prārthayet | āgatāyāṃ ca tasyāṃ kiṃ te phalamiti ceducyate-yasyāmiti | yasyāmāgatāyāṃ hiraṇyaṃ gāmaśvaṃ puruṣāṃścāhaṃ*)
 
+### Printed p. 284
+
+विंदेयं— “गावस्तथा हस्तिहिरण्यमश्वानिति” राज्यलक्ष्मीहृदयोक्ते । (*viṃdeyaṃ— “gāvastathā hastihiraṇyamaśvāniti” rājyalakṣmīhṛdayokte |*) — "may I obtain": "cows, likewise elephants, gold and horses," so it is said in the Rājyalakṣmī-hṛdaya. श्रीमित्यादिबीजत्रयेण न्यासः (*śrīmityādibījatrayeṇa nyāsaḥ*) — the nyāsa is made with the three seed-syllables beginning with śrīm. **NOTE** Meditation (dhyāna):
+
+चतुरंगबलोपेतां धनधान्यसुखेश्वरीं । अश्वारूढामहं वंदे राजलक्ष्मीं हिरण्मयीं ॥ (*caturaṃgabalopetāṃ dhanadhānyasukheśvarīṃ | aśvārūḍhāmahaṃ vaṃde rājalakṣmīṃ hiraṇmayīṃ ‖*)
+
+**Mantrakalpārṇava**
+
+ऋचं द्वितीयं श्रीसूक्ते प्रतिसायं सहस्रकं । प्रजपेन्नियताहारः प्रत्यक्षरसहस्रकं ॥ त्रयस्त्रिंशद्दिने रात्र्य स्वप्ने लक्ष्मीः प्रसीदति । शांतिकर्मादिकं सर्वं प्रागुक्तवदुपाचरेत् ॥ अविघ्नेन जपन्सिध्येद्यदि लक्ष्मीप्रसादतः । अनपायां श्रियं याति हिरण्यं गोनरादिकान् ॥ अनपाया भवेल्लक्ष्मस्तस्य जन्मनि नान्यथा ॥ (*ṛcaṃ dvitīyaṃ śrīsūkte pratisāyaṃ sahasrakaṃ | prajapenniyatāhāraḥ pratyakṣarasahasrakaṃ ‖ trayastriṃśaddine rātrya svapne lakṣmīḥ prasīdati | śāṃtikarmādikaṃ sarvaṃ prāguktavadupācaret ‖ avighnena japansidhyedyadi lakṣmīprasādataḥ | anapāyāṃ śriyaṃ yāti hiraṇyaṃ gonarādikān ‖ anapāyā bhavellakṣmastasya janmani nānyathā ‖*)
+
+##### Anuvāda
+
+(Cidvilāsa-vṛtti) In the previous Ṛk this goddess was described as one possessing the marks beginning with golden colour; in this Ṛk her greatness is described by the epithet अनपगामिनीं (*anapagāminīṃ*). The commentary gives two kinds of meaning for the word अनपगामिनीं (*anapagāminīṃ*). One meaning is कदाचिदपि मां त्यक्त्वा अन्यत्र गंतुमनुद्युक्तां मदेकाश्रयनिष्ठां—याव (*kadācidapi māṃ tyaktvā anyatra gaṃtumanudyuktāṃ madekāśrayaniṣṭhāṃ—yāva*): she who never at any time leaves me and goes elsewhere, but is always close to me. The second meaning is: she who never parts from her husband and is always in his company. To support this meaning the verse of the Parāśara-purāṇa is cited:
+
+राघवत्वे भवत्सीता रुक्मिणी कृष्णजन्मनि । अन्येष्वप्यवतारेषु विष्णोरेवानपायिनी ॥ (*rāghavatve bhavatsītā rukmiṇī kṛṣṇajanmani | anyeṣvapyavatāreṣu viṣṇorevānapāyinī ‖*)
+
+This Lakṣmī never separates from her husband Viṣṇu and is always in his company. Famed as Sītā in the incarnation of Rāma, as Rukṣmiṇī in the incarnation of Kṛṣṇa, and under other names in other incarnations, she is always with Viṣṇu, delighting him; this is the main intention.
+
+Here Agni is prayed to bring Lakṣmī. For what purpose should she be brought? What is the benefit when this goddess comes? That is set out in the second half of this Ṛk: if this goddess comes to me, then by her grace I shall obtain wealth and gold, cows, horses, sons, grandsons and the like; such is the seer's intention. In the work called Rājyalakṣmī-hṛdaya it is said गावस्तथा हस्ति हिरण्यमश्वान् (*gāvastathā hasti hiraṇyamaśvān*)—
+
+### Printed p. 285
+
+by the grace of this goddess cows, elephants, gold and horses, all of these, are obtained. As said at the beginning of this Ṛk, nyāsa is to be made with the seed-syllables beginning with śrīm, and meditation is to be made with the verse—
+
+चतुरंगबलोपेतां धनधान्यसुखेश्वरीं । अश्वारूढामहं वंदे राजलक्ष्मीं हिरण्मयीं ॥ (*caturaṃgabalopetāṃ dhanadhānyasukheśvarīṃ | aśvārūḍhāmahaṃ vaṃde rājalakṣmīṃ hiraṇmayīṃ ‖*)
+
+This goddess, who has the form of Rājalakṣmī, is accompanied by an army of four kinds: elephants, horses, chariots and foot-soldiers. She is the mistress of wealth, grain and happiness, and is seated on an excellent horse. She has a body made of gold. The main sense of this verse is: "I reverently salute the goddess named Rājalakṣmī, endowed with such marks."
+
+**Mantrakalpārṇava** **NOTE**
+
+The Ṛk तां म आवह (*tāṃ ma āvaha*), the second Ṛk of the Śrī-sūkta, is to be recited every evening to the number of one thousand. While reciting, one must keep to restraint in food and the like. For each syllable of the mantra one thousand is to be recited, that is, thirty-three thousand in all. If this is done, on the night of the thirty-third day the goddess Lakṣmī appears in a dream and becomes gracious. The recitation and the rest of this mantra are to be performed according to the rules and restrictions stated earlier. If through Lakṣmī's grace the recitation proceeds without obstacle and is completed, the man who recites obtains imperishable wealth, gold, cows, sons, grandsons and the like, and lives happily. Lakṣmī, being pleased, shows him grace in every birth. For the obtaining of Lakṣmī's grace there is no other means than this.
+
+Here ends the explanation of the second Ṛk.
+
+#### Ṛk 3
+
+अस्य श्रीसूक्ततृतीय ऋज्महामंत्रस्य । आनंद ऋषिः । श्रीलक्ष्मीर्देवता । अनुष्टुप्छंदः । श्रीलक्ष्मीर्देवता । उकारो बीजर । तकारश्यक्तिः । श्रीं कीलकं । सर्वसौभाग्यदायिनी महालक्ष्मीदेवताप्रसादसिद्ध्यर्थे जपे विनियोगः ॥ ओं अश्वपूर्वा०—अंगुष्ठाभ्यां नमः । ओं रथमध्यां—तर्जनीभ्यां नमः । ओं हस्तिनादप्रबोधिनीं—मध्यमाभ्यां नमः । ओं श्रियं देवीं—अनामिकाभ्यां नमः । ओं उपह्वये—कनष्ठिकाभ्यां (*asya śrīsūktatṛtīya ṛjmahāmaṃtrasya | ānaṃda ṛṣiḥ | śrīlakṣmīrdevatā | anuṣṭupchaṃdaḥ | śrīlakṣmīrdevatā | ukāro bījara | takāraśyaktiḥ | śrīṃ kīlakaṃ | sarvasaubhāgyadāyinī mahālakṣmīdevatāprasādasiddhyarthe jape viniyogaḥ ‖ oṃ aśvapūrvā0—aṃguṣṭhābhyāṃ namaḥ | oṃ rathamadhyāṃ—tarjanībhyāṃ namaḥ | oṃ hastinādaprabodhinīṃ—madhyamābhyāṃ namaḥ | oṃ śriyaṃ devīṃ—anāmikābhyāṃ namaḥ | oṃ upahvaye—kanaṣṭhikābhyāṃ*) ओं श्रीर्मा देवीर्जुषतां—करतलकरप्प- (*oṃ śrīrmā devīrjuṣatāṃ—karatalakarappa-*)
+
+### Printed p. 286
+
+ष्ठाभ्यां नमः । ओं अश्वपूर्वा०—हृदयाय नमः । ओं रथमध्या०—शिरसे स्वाहा । ओं हस्तिनादप्रबोधिनीं—शिखाय्कॆ वषट् । ओं श्रियं देवीं—कवचाय हुं। ओं उपह्वये—नेत्रत्रयाय वौषट् । ओं श्रीर्मा देवीर्जुषतां—अस्त्राय फट् । भूर्भुम्ससवरोमिति दिग्बंधः । ध्यानं । तटिद्वर्णापूर्णां शशिलपनताटंकयुगळां दरस्मेराधीरां करकलितपद्मां द्विनयनां । लसद्रीवां क्षौमांशुकविशदनाभीसरसिजां भजामि त्वां देवीं प्रणतजनसौभाग्यजननीं ॥ इति ध्यात्वा जपं कुर्यात्] ॥ (*ṣṭhābhyāṃ namaḥ | oṃ aśvapūrvā0—hṛdayāya namaḥ | oṃ rathamadhyā0—śirase svāhā | oṃ hastinādaprabodhinīṃ—śikhāykè vaṣaṭ | oṃ śriyaṃ devīṃ—kavacāya huṃ| oṃ upahvaye—netratrayāya vauṣaṭ | oṃ śrīrmā devīrjuṣatāṃ—astrāya phaṭ | bhūrbhumsasavaromiti digbaṃdhaḥ | dhyānaṃ | taṭidvarṇāpūrṇāṃ śaśilapanatāṭaṃkayugaḷāṃ darasmerādhīrāṃ karakalitapadmāṃ dvinayanāṃ | lasadrīvāṃ kṣaumāṃśukaviśadanābhīsarasijāṃ bhajāmi tvāṃ devīṃ praṇatajanasaubhāgyajananīṃ ‖ iti dhyātvā japaṃ kuryāt] ‖*)
+
+ओं अश्वपूर्वा० रथमध्या० हस्तिनादप्रबोधिनीं । श्रीयं देवीमुपह्वये श्रीर्मा देवीर्जुषतां ॥ (*oṃ aśvapūrvā0 rathamadhyā0 hastinādaprabodhinīṃ | śrīyaṃ devīmupahvaye śrīrmā devīrjuṣatāṃ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+अश्वपूर्वामश्वा पूर्वे पुरोगाः यस्यास्तां । रथमध्यां रथाः मध्यॆ यस्यास्तां । हस्तिनादप्रबोधिनीं हस्तिनां नादेन बृंहितेन प्रबोधिनीं प्रकर्षण ज्ञापिकां । देवीं देवनशीलां द्योतनशीलां वा । श्रियं श्रयणीयां सेनारूपामुपह्वये समीपं प्रत्याह्वये । एशादृशी देवी श्री मा मां जुषतां सेवतां ॥ (*aśvapūrvāmaśvā pūrve purogāḥ yasyāstāṃ | rathamadhyāṃ rathāḥ madhyè yasyāstāṃ | hastinādaprabodhinīṃ hastināṃ nādena bṛṃhitena prabodhinīṃ prakarṣaṇa jñāpikāṃ | devīṃ devanaśīlāṃ dyotanaśīlāṃ vā | śriyaṃ śrayaṇīyāṃ senārūpāmupahvaye samīpaṃ pratyāhvaye | eśādṛśī devī śrī mā māṃ juṣatāṃ sevatāṃ ‖*)
+
+##### Gist of the bhāṣya
+
+अश्वपूर्वां (*aśvapūrvāṃ*) is she whose forerunners are horses; रथमध्यां (*rathamadhyāṃ*) is she in whose middle are chariots; हस्तिनादप्रबोधिनीं (*hastinādaprabodhinīṃ*) is she who is announced by the trumpeting of elephants. देवीं (*devīṃ*) means one given to play, or one who shines. श्रियं (*śriyaṃ*) is Śrī, to be resorted to, of the form of an army; उपह्वये (*upahvaye*) means "I call near." Such a goddess Śrī, being called, may she favour me.
+
+**Bhāṣya of Pṛthvīdharācārya**
+
+यस्यास्सेनारूपाया अश्वाः पुरोगामिनस्तामश्वपूर्वां रथा एव मध्ये यस्यास्तां रथमध्यामागमनकाले गजध्वनीनां ज्ञापयित्रीं हस्तिनादप्रबोधिनीं देवीं क्रीडादिलक्षणशीलां श्रियं लक्ष्मीमहमुपह्वये मत्समीपमागच्छेत्याह्वये । आहूता च मया श्रीर्देवीः देवीः वचनव्यत्ययश्चांदसः मा मां जुषतां सेवतां ॥ (*yasyāssenārūpāyā aśvāḥ purogāminastāmaśvapūrvāṃ rathā eva madhye yasyāstāṃ rathamadhyāmāgamanakāle gajadhvanīnāṃ jñāpayitrīṃ hastinādaprabodhinīṃ devīṃ krīḍādilakṣaṇaśīlāṃ śriyaṃ lakṣmīmahamupahvaye matsamīpamāgacchetyāhvaye | āhūtā ca mayā śrīrdevīḥ devīḥ vacanavyatyayaścāṃdasaḥ mā māṃ juṣatāṃ sevatāṃ ‖*)
+
+##### Gist of the bhāṣya
+
+She whose army-form has horses going in front is अश्वपूर्वां (*aśvapūrvāṃ*); she in whose middle are chariots is रथमध्यां (*rathamadhyāṃ*); she who at the time of her coming makes known the roar of elephants is हस्तिनादप्रबोधिनीं (*hastinādaprabodhinīṃ*). The goddess, given to play and the like, Śrī, that is Lakṣmī, I call to my presence, saying "come." Being called by me, may Śrī the goddess favour me. The plural देवीः (*devīḥ*) is a Vedic irregularity of number.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वपूर्वां (*aśvapūrvāṃ*)—she who has horses at the front of her army
+- रथमध्यां (*rathamadhyāṃ*)—she who has chariots in the middle of the army
+- हस्तिनादप्रबोधिनीं (*hastinādaprabodhinīṃ*)—she who makes known the nature of the army by the trumpeting of elephants
+- देवीं (*devīṃ*)—she who is radiant, or one given to play and the like
+- श्रियं (*śriyaṃ*)—the goddess Śrī
+- अहं (*ahaṃ*)—I
+- उपह्वये (*upahvaye*)—I pray and call that she may come near me
+- श्रीः देवीः (*śrīḥ devīḥ*)—the goddess Śrī, called by me
+- मा (*mā*)—me
+- जुषतां (*juṣatāṃ*)—may she serve
+
+### Printed p. 287
+
+##### भावार्थ (Bhāvārtha)
+
+In the army of the goddess Śrī there are horses at the front, a chariot in the middle, and it shines with the trumpeting of elephants. Seated in the chariot in the middle of such an army, the shining goddess Śrī I pray and call to come near me. Having heard my prayer and come, may that goddess stay near me and show me favour.
+
+**Mantrakalpārṇava**
+
+श्रीसूक्ते तु तृतीयर्चः श्रीबीजेन समायुतं । न्यासं कृत्वा जपेन्नित्यं प्रातः प्रातः सहस्रकं ॥ आद्वादशाब्दात्सिद्धिः स्यादन्यदुर्गाविधानवत् । मंत्रसिद्धौ भवेद्राजा शत्रून् जित्वा लभेच्छ्रियं ॥ (*śrīsūkte tu tṛtīyarcaḥ śrībījena samāyutaṃ | nyāsaṃ kṛtvā japennityaṃ prātaḥ prātaḥ sahasrakaṃ ‖ ādvādaśābdātsiddhiḥ syādanyadurgāvidhānavat | maṃtrasiddhau bhavedrājā śatrūn jitvā labhecchriyaṃ ‖*)
+
+##### Anuvāda
+
+Having made nyāsa of this third Ṛk of the Śrī-sūkta together with the seed-syllable śrī, one should recite it every day in the morning, one thousand each time. If one recites in this way for twelve years and performs it according to the rules of the worship of Durgā, the king who recites attains success in the mantra. He conquers his enemy kings and obtains immeasurable wealth.
+
+Here ends the explanation of the third Ṛk.
+
+#### Ṛk 4
+
+अस्य श्रीश्रीसूक्तचतुर्थऋङ्महामंत्रस्य । आनंद ऋषिः । श्रीलक्ष्मीर्देवता। बृहतीछंदः । कां बीजं । ह्रीं शक्तिः । श्रीं कीलकं । श्री लक्ष्मीदेवता प्रसादसिद्ध्यर्थे जपे विनियोगः ॥ ओं कांसोस्क्रितां—अंगुष्ठाभ्यां नमः । ओं हिरण्य प्राकारां—तर्जनीभ्यां नमः । ओं आद्र्रां ज्वलंतीं—मध्यमाभ्यां नमः । ओं तृप्तां तर्पयंतीं—आनामिकाभ्यां नमः । ओं पद्मेस्थितां पद्मवर्णां-कनिष्ठिकाभ्यां नम॥ । तामिहोपह्वये श्रियं—करतलकरपृष्टाभ्यां नमः । ओं कांसोस्क्रितां— हृदयाय नमः । ओं हिरण्यप्रकारां—शिरसे स्वाहा । ओं आद्र्रां ज्वलतीं-शिखाय्कॆ वषट् । ओं तृप्तां तर्पयंतीं — कवचाय हुं । ओं पद्मे स्थितां पद्मवर्णां— नेत्रत्रयाय नौषट् । ओं तामिहोपह्वये श्रियं—आस्त्राय फट् ॥ (*asya śrīśrīsūktacaturthaṛṅmahāmaṃtrasya | ānaṃda ṛṣiḥ | śrīlakṣmīrdevatā| bṛhatīchaṃdaḥ | kāṃ bījaṃ | hrīṃ śaktiḥ | śrīṃ kīlakaṃ | śrī lakṣmīdevatā prasādasiddhyarthe jape viniyogaḥ ‖ oṃ kāṃsoskritāṃ—aṃguṣṭhābhyāṃ namaḥ | oṃ hiraṇya prākārāṃ—tarjanībhyāṃ namaḥ | oṃ ādrrāṃ jvalaṃtīṃ—madhyamābhyāṃ namaḥ | oṃ tṛptāṃ tarpayaṃtīṃ—ānāmikābhyāṃ namaḥ | oṃ padmesthitāṃ padmavarṇāṃ-kaniṣṭhikābhyāṃ nama‖ | tāmihopahvaye śriyaṃ—karatalakarapṛṣṭābhyāṃ namaḥ | oṃ kāṃsoskritāṃ— hṛdayāya namaḥ | oṃ hiraṇyaprakārāṃ—śirase svāhā | oṃ ādrrāṃ jvalatīṃ-śikhāykè vaṣaṭ | oṃ tṛptāṃ tarpayaṃtīṃ — kavacāya huṃ | oṃ padme sthitāṃ padmavarṇāṃ— netratrayāya nauṣaṭ | oṃ tāmihopahvaye śriyaṃ—āstrāya phaṭ ‖*) भूर्भुवस्सुवरोमिति दिग्बंधः ॥ ध्यानं । या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी गंभीरावर्तनाभिस्तनभरनमिता शुभ्रवस्त्रोत्तरीया । लक्ष्मीर्दिव्यैर्गजेंद्रॆर्मणिगणखचितैः स्नापिता हेमकुंभैर्नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमांगल्ययुक्ता ॥ (*bhūrbhuvassuvaromiti digbaṃdhaḥ ‖ dhyānaṃ | yā sā padmāsanasthā vipulakaṭitaṭī padmapatrāyatākṣī gaṃbhīrāvartanābhistanabharanamitā śubhravastrottarīyā | lakṣmīrdivyairgajeṃdrèrmaṇigaṇakhacitaiḥ snāpitā hemakuṃbhairnityaṃ sā padmahastā mama vasatu gṛhe sarvamāṃgalyayuktā ‖*)
+
+### Printed p. 288
+
+ओं कांसोस्मितां हिरण्यप्राकारामाद्रां ज्वलंतीं तृप्तां तर्पयंतीं । पद्मे स्थितां पद्मवर्णां तामिहोपह्वये त्रियं ॥ (*oṃ kāṃsosmitāṃ hiraṇyaprākārāmādrāṃ jvalaṃtīṃ tṛptāṃ tarpayaṃtīṃ | padme sthitāṃ padmavarṇāṃ tāmihopahvaye triyaṃ ‖*)
+
+**Bhāṣya of Vidyāraṇya**
+
+कां वाङ्मनसोरगोचरां दुर्निरूपस्वरूपामित्यर्थः ब्रह्मरूपां वा “को हि ते नाम प्रजापते” इति श्रुत्यंतरात् “क इति ब्रह्मणो नाम” इति पुराणाच्च । सोस्मितां आ ईक्षत् उत् उद्धतं यत् स्मितं हासः तेन सहितां । उदंत्यलोपश्रांदसः । हिरण्यप्राकारां हिरण्यस्य प्राकारो वर्णः प्रकृष्णा आकृतिर्वा यस्यास्तां । आद्र्रा० क्लिन्नां—क्षीरोदधेरुत्पन्नत्वात् । आद्र्रान्क्षत्रोत्पन्नां रुद्ररूपां वा । रुद्रशब्दोऽत्र मूर्धन्यस्वरादिः—“आद्र्र्या रुद्रः प्रथमान एति” इत्यादौ तथादर्शनात् । अस्यबाहुलकं । ज्वलंतीं प्रकाशमानां । तृप्तां पूर्णकामां । अपि च तर्पयंतीं भक्तान् मनोरथैरिति शेषः । पद्मे स्थितां कमले आसीनां । पद्मवर्णां कमलवदच्छायच्छविं । तां प्रसिद्धां श्रियं । उपह्वये आह्वये ॥ (*kāṃ vāṅmanasoragocarāṃ durnirūpasvarūpāmityarthaḥ brahmarūpāṃ vā “ko hi te nāma prajāpate” iti śrutyaṃtarāt “ka iti brahmaṇo nāma” iti purāṇācca | sosmitāṃ ā īkṣat ut uddhataṃ yat smitaṃ hāsaḥ tena sahitāṃ | udaṃtyalopaśrāṃdasaḥ | hiraṇyaprākārāṃ hiraṇyasya prākāro varṇaḥ prakṛṣṇā ākṛtirvā yasyāstāṃ | ādrrā0 klinnāṃ—kṣīrodadherutpannatvāt | ādrrānkṣatrotpannāṃ rudrarūpāṃ vā | rudraśabdo 'tra mūrdhanyasvarādiḥ—“ādrryā rudraḥ prathamāna eti” ityādau tathādarśanāt | asyabāhulakaṃ | jvalaṃtīṃ prakāśamānāṃ | tṛptāṃ pūrṇakāmāṃ | api ca tarpayaṃtīṃ bhaktān manorathairiti śeṣaḥ | padme sthitāṃ kamale āsīnāṃ | padmavarṇāṃ kamalavadacchāyacchaviṃ | tāṃ prasiddhāṃ śriyaṃ | upahvaye āhvaye ‖*)
+
+##### Gist of the bhāṣya
+
+कां (*kāṃ*) is she who is beyond the reach of speech and mind, whose nature is hard to define; or she who has the form of Brahman, according to another Śruti and a Purāṇa, which he quotes: "Ka is the name of Brahman." सोस्मितां (*sosmitāṃ*) is she who is accompanied by a smile (the elision of the final vowel being Vedic). हिरण्यप्राकारां (*hiraṇyaprākārāṃ*) is she whose colour or form is golden. आद्र्रां (*ādrrāṃ*) means moist, because she arose from the ocean of milk; or one born under the Ārdrā asterism, or of the form of Rudra; he cites the Vedic text "Rudra goes first with Ārdrā". ज्वलंतीं (*jvalaṃtīṃ*) is shining; तृप्तां (*tṛptāṃ*) is one whose desires are fulfilled, and she satisfies devotees with their wishes. पद्मे स्थितां (*padme sthitāṃ*) is seated on a lotus; पद्मवर्णां (*padmavarṇāṃ*) has the lustre of a lotus. That well-known Śrī I call here.
+
+**Bhāṣya of Pṛthvīdharācārya**
+
+सोस्क्रितामुत्कृष्टस्मितेन सहितां । हिरण्यप्राकारां सुवर्णावरणां । आद्र्रां शीतलगुणां ज्वलंतीं ज्योतिःस्वरूपां । तृप्तां भक्तिपूज-दिभिरिति यावत् । तर्पयंतीं वरप्रासादानुग्रहविशेषैः स्वभक्तानां वांछापूर्तिकारिणीं । पद्मवर्णां कमलवद्भासमानां । पद्मे स्थितां पद्माधिष्ठितां । तां वाणीं वाक्यरूपां तां श्रियं । इह मत्समीपं प्रति उपह्वये आवाहनं करोमित्यर्थः ॥ (*soskritāmutkṛṣṭasmitena sahitāṃ | hiraṇyaprākārāṃ suvarṇāvaraṇāṃ | ādrrāṃ śītalaguṇāṃ jvalaṃtīṃ jyotiḥsvarūpāṃ | tṛptāṃ bhaktipūja-dibhiriti yāvat | tarpayaṃtīṃ varaprāsādānugrahaviśeṣaiḥ svabhaktānāṃ vāṃchāpūrtikāriṇīṃ | padmavarṇāṃ kamalavadbhāsamānāṃ | padme sthitāṃ padmādhiṣṭhitāṃ | tāṃ vāṇīṃ vākyarūpāṃ tāṃ śriyaṃ | iha matsamīpaṃ prati upahvaye āvāhanaṃ karomityarthaḥ ‖*)
+
+##### Gist of the bhāṣya
+
+सोस्क्रितां (*soskritāṃ*) is she accompanied by an excellent smile; हिरण्यप्राकारां (*hiraṇyaprākārāṃ*) is she covered with gold; आद्र्रां (*ādrrāṃ*) is she of cool quality; ज्वलंतीं (*jvalaṃtīṃ*) is of the nature of light; तृप्तां (*tṛptāṃ*) is satisfied by the devotion, worship and the like of devotees; तर्पयंतीं (*tarpayaṃtīṃ*) fulfils the wishes of her devotees by special grants of boons and grace; पद्मवर्णां (*padmavarṇāṃ*) shines like a lotus; पद्मे स्थितां (*padme sthitāṃ*) is established on a lotus. That Śrī, of the form of speech, I invoke here, near me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कां (*kāṃ*)—she whose nature is Brahman, beyond the reach of speech and mind
+- सोस्मितां (*sosmitāṃ*)—she who is shedding a slight gentle smile
+- हिरण्यप्राकारां (*hiraṇyaprākārāṃ*)—she who has an excellent colour or form like the colour of gold
+- आद्र्रां (*ādrrāṃ*)—she who has a moist, cool quality, or who has a Rudra-form born under the Ārdrā asterism
+
+### Printed p. 289
+
+- ज्वलंतीं (*jvalaṃtīṃ*)—she who is shining, or who is of the nature of light
+- तृप्तां (*tṛptāṃ*)—she whose desires are fulfilled, or who is pleased by the worship and the like of devotees
+- तर्पयंतीं (*tarpayaṃtīṃ*)—she who fulfils the wishes of devotees by granting boons and grace
+- पद्मेस्थितां (*padmesthitāṃ*)—she who sits on a lotus, or who has the lotus as her seat
+- पद्मवर्णां (*padmavarṇāṃ*)—she who has a bodily lustre of the red tinge of a lotus
+- तां श्रियं (*tāṃ śriyaṃ*)—that famed goddess Śrī
+- इह (*iha*)—here, near me
+- उप ह्वये (*upa hvaye*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Śrī whom I invoke has the nature of Brahman, beyond the reach of speech and mind. She shines with a face radiant with a gentle smile and with a bodily lustre like the colour of gold. Though shining with great radiance in the form of light, she has a cool quality like the light of the moon. She has all her desires fulfilled, and satisfies devotees by granting them the wishes they desire. Making the lotus her seat and sitting on it, shining with a pure bodily lustre like the red tinge of the lotus, that goddess Śrī I pray and call to come near me.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋचं चतुर्थीं श्रीसूक्ते प्रजपेदष्टलक्षकं । सहस्रं प्रत्यहं जप्त्वा त्रिसाहस्रं भृगोर्दिने ॥ राकायां पंचसाहस्रं क्षीराहारो जितेंद्रियः । पलाशसमिधा होमः पयसा गोघृतेन च ॥ तर्पणाशीतिसाहस्रं होमश्चाष्ट हस्रकः । ब्राह्मणाष्टशती पूज्या श्रीवाग्बीजयुतं न्यसेस् ॥ संपत्सारस्वतप्राप्तिर्भविष्यति न सं यः । आपंचपूरुषं सिद्धौ नात्र कार्या- विचारणा । (*ṛcaṃ caturthīṃ śrīsūkte prajapedaṣṭalakṣakaṃ | sahasraṃ pratyahaṃ japtvā trisāhasraṃ bhṛgordine ‖ rākāyāṃ paṃcasāhasraṃ kṣīrāhāro jiteṃdriyaḥ | palāśasamidhā homaḥ payasā goghṛtena ca ‖ tarpaṇāśītisāhasraṃ homaścāṣṭa hasrakaḥ | brāhmaṇāṣṭaśatī pūjyā śrīvāgbījayutaṃ nyases ‖ saṃpatsārasvataprāptirbhaviṣyati na saṃ yaḥ | āpaṃcapūruṣaṃ siddhau nātra kāryā- vicāraṇā |*)
+
+श्रीं ऐमिति सपल्लवन्यासः ॥ ध्यान — वरदाभयशुकपुस्तककरकलितां कमलमध्यगां कलये । कमलां सस्मितवदनां कनकावर्णस्थितां कांचित् । (*śrīṃ aimiti sapallavanyāsaḥ ‖ dhyāna — varadābhayaśukapustakakarakalitāṃ kamalamadhyagāṃ kalaye | kamalāṃ sasmitavadanāṃ kanakāvarṇasthitāṃ kāṃcit |*)
+
+##### Anuvāda
+
+The fourth Ṛk of this sūkta, कां सोस्मितां (*kāṃ sosmitāṃ*), is to be recited every day, one thousand each time, on Fridays three thousand each time, and on the full-moon day fifteen thousand
+
 ---
 
-**Progress note:** Done through printed p. 283. Śrī-sūkta appendix: Śatānanda-vṛtti, Mantrakalpārṇava, end of Ṛk 1, start of Ṛk 2
+**Progress note:** Done through printed p. 289. Śrī-sūkta appendix: Ṛk 2 end, Ṛk 3, Ṛk 4 to the start of the Anuvāda
