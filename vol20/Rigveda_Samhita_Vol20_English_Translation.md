@@ -9384,6 +9384,246 @@ In whose house no hero who would make them move is able to do so, and who, like 
 ##### English translation
 Evayamarut glorifies with praise those who, (coming) brilliant and happy from the vast heaven, hear (his invocation); in whose dwelling there is no one able to disturb them, and, who, like self-radiant fires, are the impellers of the rivers.
 
+### Printed p. 254
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स च॑क्रमे मह॒तो नि॑रुक्र॒मः स॑मा॒नस्मा॒त्सद॑स एव॒याम॑रुत् ।  
+> य॒दायु॑क्त॒ त्मना॒ स्वादधि॒ ष्टुभि॒र्विष्प॑र्धसो॒ विम॑हसो॒  
+> जिगा॑ति॒ शेवृ॑धो॒ नृभिः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चक्रमे । महतः । निः । उरुक्रमः । समानस्मात् । सदसः । एवयामरुत् ।  
+> यदा । अयुक्त । त्मना । स्वात् । अधि । स्नुभिः । विस्पर्धसः । विमहसः । जिगाति ।  
+> शेवृधः । नृभिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स मरुद्दणो महतः प्रवृद्धात्समानस्मात्सर्वेषां साधारणात्सदसः स्थानादंतरिक्षादुरुक्रमो विस्तीर्णक्रमणः सन् निश्चक्रमे । निरगच्छत् । एवयामरुदृषिर्यदा
+> स्वात्स्वकीयस्थानात् । अधीति पंचम्यर्थानुवादी । त्मनात्मनैव स्नुभिर्गंतृभिन्नृभिः
+> स्वनेतृभिरश्वैरयुक्त युक्तोऽभवदागमनप्रार्थनाय । अथ बहुवदुच्यते । तदानीं
+> विस्पर्धसो विविधस्पर्धाः । अहं पुरतो गच्छाम्यहं पुरतो गच्छामिति तेषां
+> स्पर्धा । अथवा विगतस्पर्धाः । न ह्येषां सार्धं स्पर्धकाः संति । विमहसो विशिष्टबलाः शेवृधः शेवस्य सुखस्य वर्धयितारो चिगाति । निर्गच्छंति ॥ व्यत्ययेनैकवचनं ॥
+
+##### Gist of the bhāṣya
+
+That troop of Maruts went out (निश्चक्रमे (*niścakrame*)) from the sky, a seat common to all, vast, being wide-striding (उरुक्रमः (*urukramaḥ*)). When the seer Evayāmarut, from his own place (the word अधि (*adhi*) merely repeats the sense of the ablative), by himself, with his going (स्नुभिः (*snubhiḥ*)) leaders (नृभिः (*nṛbhiḥ*)), that is, his own guiding horses, was yoked (अयुक्त (*ayukta*)) in prayer for their coming, then, he now speaks in the plural, they are विस्पर्धसः (*vispardhasaḥ*), of various rivalry: "I go in front, I go in front", such is their rivalry; or else they are without rivalry, for they have no rivals. They are विमहसः (*vimahasaḥ*), of distinguished strength, and शेवृधः (*śevṛdhaḥ*), increasers of शेव (*śeva*), happiness. जिगाति (*jigāti*) means "they go forth"; the singular is by change of number.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- एवयामरुत् (*evayāmarut*)—the seer Evayāmarut
+- स्वात् आधि (*svāt ādhi*)—being at his own place (waiting for the prayer, then)
+- त्मना (*tmanā*)—his own
+- स्नुभिः (*snubhiḥ*)—remarkable
+- नृभिः (*nṛbhiḥ*)—with horses
+- आयुक्त (*āyukta*)—(the troop of Maruts) was yoked (and then)
+- सः (*saḥ*)—that troop of Maruts
+- महतः (*mahataḥ*)—from the very extensive
+- समानस्मात् (*samānasmāt*)—and common to all
+- सदसः (*sadasaḥ*)—region of the sky
+- उरुक्रमः (*urukramaḥ*)—having a wide way of travelling
+- निः चक्रमे (*niḥ cakrame*)—went out
+- विस्पर्धसः (*vispardhasaḥ*)—those full of mutual rivalry
+- विमहसः (*vimahasaḥ*)—those with exceeding strength
+- शेवृधः (*śevṛdhaḥ*)—and increasers of happiness, the Maruts
+- जिगाति (*jigāti*)—go forth
+
+### Printed p. 255
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the seer Evayāmarut prayed at his own place for the Maruts, the Maruts, yoked with remarkable horses, went out from the sky, which is very extensive and common to all. The Maruts, who vie with one another in going to the sacrifice, who have exceeding strength and who increase happiness, go forth for the sacrifice.
+
+##### English translation
+That wide-spreading troop (of Maruts) has issued from a spacious common dwelling-place, (where) Evayamarut (awaits them) when their car has been spontaneously harnessed with its rapid horses; and, emulous, vigorous, and conferring hapiness, they sally forth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒नो न वोऽम॑वान्रेजय॒द्वृषा॑ त्वे॒षो य॒यिस्त॑वि॒ष  ॒॑॑
+> एवयामरुत् ।  
+> येना॒ सहं॑त ऋं॒जत॒ स्वरो॑चिषः॒ स्थार॑श्मानो हिर॒ण्ययाः॑  
+> स्वायु॒धास॑ इ॒ष्मिणः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वनः । नः । वः । अमवान् । रेजयत् । वृषा । त्वेषः । ययिः । तविषः । एवयामरुत् ।  
+> येन । सहंतः । ऋंजत । स्वरोचिषः । स्थाऽरश्मानः । हिरण्ययाः । सुऽयुधासः ।  
+> इष्मिणः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं स्वनो वेगजनितः शब्दो न रेजयत् न
+> कंपयत्स्वेवयामरुतं मां ॥ सुपां सुलुगिति द्वितीयालुक् ॥ स्वनो विशेष्यते ।
+
+##### Gist of the bhāṣya
+
+O Maruts, your sound (स्वनः (*svanaḥ*)), produced by speed, is not to shake (रेजयत् (*rejayat*)), that is, not to make tremble, me, Evayāmarut; the accusative ending is dropped by the rule on case endings. The sound is then qualified.
+
+### Printed p. 256
+
+> अमवान् बलवान् वृषा वर्षिता वृष्टेष्टो दीपो ययिगंता तविषः
+> प्रवृद्धः । येन स्वनेन संहतः शत्रूनभिभवंतो यूयमृंजत । प्रसाधयथ ॥
+> लडर्थे लोट् ॥ कीदृशा यूयं । स्वरोचिषः स्वायत्तरश्मयः स्थारश्मानः स्थिररश्मयो हिरण्यया हिरण्याभरणाः स्वायुधासः स्वायत्तायुधा इष्मिणोऽन्नवंतो
+> गमनवंतो वा ॥
+
+##### Gist of the bhāṣya
+
+The sound is अमवान् (*amavān*), strong; वृषा (*vṛṣā*), a giver of rain; वृष्टेष्टो दीपो (*vṛṣṭeṣṭo dīpo*) **NOTE**; ययिः (*yayiḥ*), going; तविषः (*taviṣaḥ*), grown great. By this sound, joined together and overcoming your enemies, you ऋंजत (*ṛṃjata*), that is, you accomplish; the imperative is used in the sense of the present. What are you like? स्वरोचिषः (*svarociṣaḥ*), having rays under your own control; स्थारश्मानः (*sthāraśmānaḥ*), having steady rays; हिरण्ययाः (*hiraṇyayāḥ*), having golden ornaments; स्वायुधासः (*svāyudhāsaḥ*), having weapons under your own control; इष्मिणः (*iṣmiṇaḥ*), having food, or having going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts)
+- स्वरोचिषः (*svarociṣaḥ*)—having radiance under your own control
+- स्थारश्मानः (*sthāraśmānaḥ*)—having steady rays
+- हिरण्ययाः (*hiraṇyayāḥ*)—having ornaments made of gold
+- स्वायुधासः (*svāyudhāsaḥ*)—having weapons of your own
+- इष्मिणः (*iṣmiṇaḥ*)—having food, you who are such
+- येन (*yena*)—by which sound of yours
+- सहंतः (*sahaṃtaḥ*)—facing the enemies
+- यंजत (*yaṃjata*)—you adorn the world; such
+- अमवान् (*amavān*)—powerful
+- वृषा (*vṛṣā*)—rain-producing
+- त्वेषः (*tveṣaḥ*)—radiant
+- ययिः (*yayiḥ*)—moving
+- तविषः (*taviṣaḥ*)—grown great
+- वः स्वनः (*vaḥ svanaḥ*)—your sound
+- एवयामरुत् (*evayāmarut*)—me, Evayāmarut
+- न रेजयत् (*na rejayat*)—may it not alarm
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who have radiance under your own control, steady rays, ornaments made of gold, weapons of your own and food: may that sound of yours, by which you, facing the enemies, adorn the world, powerful, rain-producing, radiant, moving, grown great, not alarm me, Evayāmarut.
+
+##### English translation
+Let not the sound (of your approach, Maruts), which is mighty, the announcer of rain, the shedder of light, diffusive, loud, alarm Evayamarut: that sound wherewith,overcoming (your foes), you who are self-irradiating, lasting-rayed, ornamented with golden ornaments, self-weaponed, bestow-ing food, accomplish your functions
+
+#### Ṛk 6
+
+### Printed p. 257
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पा॒रो वो॑ महि॒मा वृ॑द्धशवसस्त्वे॒षं शवो॑ऽवत्त्वेव॒याम॑रुत् ।  
+> स्थाता॑रो॒ हि प्रसि॑त्सौ सं॒दृशि॒ स्थन॒ ते न॑ उरुष्यता नि॒दः शु॑शु॒क्वांसो॒ नाग्नयः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपारः । वः । महिमा । वृद्धशवसः । त्वेषं । शवः । अवतु । एवयामरुत् ।  
+> स्थातारः । हि । प्रसित् । संदृशि । स्थन । ते । नः । उरुष्यत । निदः । शुशुक्वांसः । न ।  
+> अग्नयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं महिमापारोऽनवधिकः । हे वृद्धशवसः
+> प्रवृद्धबलास्तेषं दीप्तं शवो युष्माकं बलमवतु रक्षत्वेवयामरुतं मां ॥
+> द्वितीयैकवचनस्य लुक् ॥ यूयं प्रसित् प्रबलबंधने नियमनवति यज्ञे संदृशि
+> संदर्शने निमित्ते स्थातारो हि स्थाननियमेन तिष्ठंतो भवथ खलु । ते नोऽस्मान्निदो निंदकाच्छत्रोः सकाशादुरुष्यत । रक्षत । अग्निय इव शुशुक्वांसो यूयमिति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, your greatness (महिमा (*mahimā*)) is boundless. O you of grown strength, may your bright, blazing strength protect me, Evayāmarut; the accusative ending is dropped. You are indeed those who stand, by fixity of station, in the sacrifice that has strong binding and regulation, on the occasion of sight (संदृशि (*saṃdṛśi*)). So protect us from the reviler, the enemy. You shine like fires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts)
+- वः (*vaḥ*)—your
+- महिमा (*mahimā*)—power
+- अपारः (*apāraḥ*)—is endless
+- वृद्धश्रवसः (*vṛddhaśravasaḥ*)—O Maruts, who have exceedingly great strength **NOTE**
+- त्वेषं (*tveṣaṃ*)—shining
+- शवः (*śavaḥ*)—your strength
+- एवया मरुत् (*evayā marut*)—me, Evayāmarut
+- अवतु (*avatu*)—may it protect
+- प्रसित् (*prasit*)—in the sacrifice that has the form of a rule
+- संदृशि (*saṃdṛśi*)—for the sake of the sight
+- स्थातारो हि स्थान (*sthātāro hi sthāna*)—you must be present regularly
+- अग्नयः न (*agnayaḥ na*)—like fires
+- शुशुक्वांसः (*śuśukvāṃsaḥ*)—shining
+- ते (*te*)—you
+- नः (*naḥ*)—us
+- निदः (*nidaḥ*)—from the enemies who revile
+- उरुष्यत (*uruṣyata*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your power is endless. O Maruts of exceedingly great strength, may your shining strength protect me, Evayāmarut. In this sacrifice, which has the form of a rule, you must be present regularly for the sight.
+
+### Printed p. 258
+
+Shining like fires, protect us from the enemies who revile.
+
+##### English translation
+Possessors of vast strength, may your unbounded greatness, your brilliant vigour, protect Evayamarut; for you are regulators for overseeing (what is fit for) the limits of the sacrifice: preserve us from those who revile us, you, who are like blazing fires.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते रु॒द्रासः॒ सुम॑खा अ॒ग्नयो॑ यथा तुविद्यु॒म्ना अ॑वंत्वेव॒याम॑रुत् ।  
+> शर्धांस्यद्भुतैनसां ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । रुद्रासः । सुमखाः । अग्नयः । यथा । तुविद्युम्नाः । अवंतु । एवयामरुत् ।  
+> दीर्घं । पृथु । पप्रथे । सद्म । पार्थिवं । येषां । अज्मेषु । आ । महः । शर्धांसि ।  
+> अद्भुतएनसां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो रुद्रासो रुद्रपुत्राः सुमखाः शोभनयज्ञा अग्नयो यथा
+> अग्नय इव तुविद्युम्नाः प्रभूतदीप्तयः । अथवा अग्निसदृरास्तुविद्युम्नाः प्रभूतधना अवंतु रक्षंत्वेवयामरुदेतन्नामानमृषिं मां पार्थिवं। पृथिव्यत्रांतरिक्षं।
+> तत्संबंधि दीर्घमायतं पृथु विस्तीर्णं सद्म सदनं पप्रथे। मरुद्भिः प्रथितमभूत् ।
+> अद्भुतैनसामपापानां येषामजेषु गमनेषु महो महांति शर्धांसि चा
+> गच्छंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you Rudras, that is, sons of Rudra, सुमखाः (*sumakhāḥ*), having good sacrifices, like fires (अग्नयो यथा (*agnayo yathā*)), तुविद्युम्नाः (*tuvidyumnāḥ*), of abundant brilliance; or else, fire-like and of abundant wealth: may they protect (अवंतु (*avaṃtu*)) me, the seer named Evayāmarut. पार्थिवं (*pārthivaṃ*): here "earth" means the atmosphere; their dwelling (सद्म (*sadma*)), long and wide, was spread (पप्रथे (*paprathe*)) by the Maruts. Of those who are sinless (अद्भुतैनसां (*adbhutainasāṃ*)), in whose goings (अजेषु (*ajeṣu*)) great strengths (महः शर्धांसि (*mahaḥ śardhāṃsi*)) go: such is the supplied remainder.
+
+### Printed p. 259
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नयो यथा (*agnayo yathā*)—like fires
+- तुविद्युम्नाः (*tuvidyumnāḥ*)—having abundant radiance
+- रुद्रासः (*rudrāsaḥ*)—sons of Rudra
+- सुमखाः (*sumakhāḥ*)—having excellent sacrifices
+- ते (*te*)—those same Maruts
+- एवयामरुत् (*evayāmarut*)—me, Evayāmarut
+- अवंतु (*avaṃtu*)—may they protect
+- पार्थिवं (*pārthivaṃ*)—belonging to the atmosphere
+- दीर्घ० (*dīrgha0*)—very long
+- पृथु (*pṛthu*)—and wide
+- सद्म (*sadma*)—the dwelling
+- पप्रथे (*paprathe*)—was made bright by the Maruts
+- अद्भुतैनसां (*adbhutainasāṃ*)—who are free from sin
+- येषां (*yeṣāṃ*)—of these same Maruts
+- अजेषु (*ajeṣu*)—at the time of going **NOTE**
+- महः (*mahaḥ*)—great
+- शर्धांसि (*śardhāṃsi*)—strengths full of splendour
+- आ (*ā*)—spread
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, who have abundant radiance like fires, who are sons of Rudra and have excellent sacrifices, protect me, Evayāmarut. Their dwelling, which belongs to the atmosphere, is very long and wide, and was made bright by the Maruts themselves. At the time of going of these same sinless Maruts, a great strength full of splendour spreads all around.
+
+##### English translation
+May those Rudras, the objects of worship, like resplendent fires, protect Evayamarut : they, whose ethereal dwelling, extended and wide, has been made illustrious (by them), and of whom, excmpt from blame, the mighty energies (are manifested) in their courses.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्वे॒षो नो॑ मरुतो गा॒तुमेत॑न॒ श्रोता॒ हवं॑ जरि॒तुरे॑व॒याम॑रुत् ।  
+> विष्णो॑र्म॒हः स॑मन्यवो युयोतन॒ स्मद्र॒थ्यो॒३॒॑ न दं॒सनाप॒ ॑ ॒
+> द्वेषांसि सनुतः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 253. Sūkta 86.6 end; Sūkta 87 Ṛks 1-3
+**Progress note:** Done through printed p. 259. Sūkta 87 Ṛks 4-7, Ṛk 8 saṃhitā
