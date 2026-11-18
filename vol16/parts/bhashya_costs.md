@@ -9,3 +9,4 @@
 | 3.27–3.29 (one volume agent; it stopped before 3.30 for lack of room and says it did not make the second reading of these three) | Fable agent | 243,842 | 11 | 259 | Nov 18 2026 |
 | 3.27–3.29 second reading against the blocks and the reference text (10 corrections) | Fable agent | 204,640 | 11 | 259 | Nov 18 2026 |
 | 3.30 (22 Ṛks; one volume agent, second reading done) | Fable agent | 221,175 | 12 | 171 | Nov 18 2026 |
+| 3.31 (22 Ṛks; one volume agent, second reading done) | Fable agent | 214,450 | 19 | 127 | Nov 18 2026 |
