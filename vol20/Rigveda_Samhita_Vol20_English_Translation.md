@@ -4186,6 +4186,209 @@ Indra learned of this and cut off the head of the sage Dadhīci with his thunder
 
 The sage called Dadhyañc or Dadhīci is well known in the Purāṇas and elsewhere. The commentators tell a story here. While the sage Dadhyañc, the son of one named Atharvan, was alive, the asuras, frightened by the sight of him, had fled. After he died and went to heaven, the asuras fearlessly spread over the whole earth. Then Indra, unable to fight those asuras, searched for that sage. It came to be known that the sage had gone to heaven. Then Indra asked those who were near whether any remnant of the limbs of that sage remained; they said that only the skull of the horse's head, with which Dadhīci had once taught the madhuvidyā to the Aśvin deities, remained, and that where it was no one knew. Then Indra told them to search for it, and they searched and brought it, found lying in the lake called Śaryaṇāvat near Kurukṣetra. Indra conquered the asuras with the bones of that skull; that is, nine times ninety, eight hundred, ten times the magical net of the asuras
 
+### Printed p. 111
+
+made futile. In explaining here the number nine times ninety, the commentator says: In order to conquer the gods who dwell in the three worlds, the asuras at first had three kinds of divisions of magic. Since each of them was threefold, as present, past and future, there were nine kinds in all. Again, those nine magics, joined with the three powers beginning with enthusiasm, became 9 × 2 = 18 **NOTE**. Again, joined with the three qualities beginning with sattva, they became 27 × 3 = 81. Since these eighty-one magics are practised in the ten directions, they became 81 × 10 = 810 in all, or nine times ninety, 9 × 90 = 810. Indra made futile the magical nets of the asuras, who were of the form of Vṛtra, in this way; so the commentator explains. (Ṛ. Saṃ. 1-80-16)
+
+Skandasvāmin tells another legend. In former times there were asuras called Kālakañjas. They became powerful, killed the gods and caused them great trouble. Then the gods went near Brahmā and prayed that he should tell them a means of destroying these asuras. Brahmā said, "O gods, there is a sage named Vadhyañc **NOTE**. Go near him. He will tell you a suitable means for the destruction of the asuras." The gods, as Brahmā had said, went near the sage Dadhīci and submitted that Brahmā had sent them. That sage, knowing by yogic vision the purpose for which they had come, gave up his life-breaths in yogic trance. Then Indra destroyed the asuras with the bones of that sage. Skandasvāmin says that it is just this matter that is described in this ṛk. (Ṛ. Saṃ. 1-80-16)
+
+It is the tradition that the head of the sage Dadhīci was like a horse's head and that it had been given to him by the Aśvin deities; it is stated in Ṛ. Saṃ. 1-84-13 that after the sage Dadhīci died, Indra searched for his head, which was like a horse's head, and found it behind a mountain, in the lake called Śaraṇāvatī.
+
+Regarding how the sage Dadhīci came to have a horse's head, Skandasvāmin tells an earlier legend. Indra taught to the sage Dadhīci, the son of Atharvan, the form of Brahman called Madhu **NOTE**, and told him not to tell it to anyone, and that if he did tell it, his head would fall off. After some time the Aśvin deities came near that sage Dadhīci and asked him to explain the form of Brahman that Indra had told him. The sage Dadhīci said to them that Indra had said that if he told them this matter, his head would fall off; for fear of that he would not tell it. The Aśvin deities said, "Do not worry about that; if your head falls off, we shall give you another head." Dadhīci agreed to it and told them. Thereupon the head of the sage Dadhīci fell off, and the Aśvin deities cut off a horse's head, brought it and attached it
+
+### Printed p. 112
+
+to the body of the sage Dadhīci. Because of that, the head of the sage Dadhīci is like a horse's head, as already described. The sage called Kakṣīvān describes this matter in the ṛks Ṛ. Saṃ. 1-116-12 and 1-117-22.
+
+The name of this sage is recited in the Ṛgveda Saṃhitā in the ṛks 1-80-16; 1-84-13; 1-84-14; 1-116-12; 1-117-22; 1-119-9 and others; and in the Taittirīya Saṃhitā 5-1-4-4; 5-6-6-3; in the Kāṭhaka Saṃhitā 19-4; in the Śatapatha Brāhmaṇa 4-1-5-18; 6-4-2-3; 14-1-1-18; 14-1-1-20; 14-1-1-25; 14-1-4-13; in the Bṛhadāraṇyaka Upaniṣad 2-5-22; 4-5-28 and other places.
+
+The Western scholar Wilson writes as follows on this matter.
+
+We have here rather obscure allusions to a legend which was probably afterwards modified by the Puranas in which the name also occurs as Dadhicha. In the Mahabharata, Vana Parva, Vol. I, it is merely related, that the gods, being oppressed by the kalakeya Asuras, solicited from the sage Dadhicha his bones, which he gave them, and from which Twashtri fabricated the thunderbolt with which Indra slew Vritra and routed the Asuras. The legend of the text differs from this : Indra--having taught the sciences called Pravargya vidya and Madhu-vidya to Dadhyanch, threatened that he would cut off his head if ever he taught them to any one else : the Aswins prevailed upon him, nevertheless, to teach them the prohibited knowledge, and, to evade Indra's threat, took off the head of the sage, replacing it by that of a horse: Indra, apprized of Dadhyanch's breach of faith, struck off his equine head with the thunderbolt : on which the Aswins restored to him his own. The Pravargya vidya is said to imply certain verses of the Rik, Yajur, and Sama Vedas, and the Madhu-vidya the Brahmana.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒त्याया॑तमश्विना ति॒रो विश्वा॑ अ॒हं सना॑ ।  
+> दस्रा॒ हिर॑ण्यवर्तनी॒ सुषु॑म्ना॒ सिंधु॑वाहसा॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ २ ॥
+
+### Printed p. 113
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतिआयातं । अश्विना । तिरः । विश्वाः । अहं । सना ।  
+> दस्रा । हिरण्यवर्तनी इति हिरण्यवर्तनी । सुसुम्मा । सिंधुवाहसा । माध्वी इति ।  
+> मम । श्रुतं । हवं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अत्यायातं । सर्वान्यजमानानतिक्रम्यागच्छतं । यथाहमृषिर्विश्वाः
+> सर्वा अस्मद्विरोधिप्रजाः सना सदा तिरस्करोमि । अथवाहं तिरः । तिरः सत इति
+> प्राप्तस्येति निरुक्तं । ३-२० । प्राप्ता विश्वाः सर्वाः क्रिया युष्मदीया अनुतिष्ठेयमित्यर्थः । सना सनातनौ दस्रा शत्रूणामुपक्षपयितार् हिरण्यवर्तनी हिरण्यरथौ
+> सुषुम्ना सुधन् सिंधुवाहसा नदीनां प्रवाहयितार् वृष्टिप्रेरणेन । तादृशौ
+> युवामत्यायातं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come, passing by all the other sacrificers, so that I, the seer, may always overcome all the offspring hostile to us. Or else: "tiraḥ" has the sense of "attained" (Ni. 3-20); the meaning is that I may perform all your rites that have come to me. The two are everlasting; they are destroyers of enemies; they ride in a golden chariot; they have good wealth; they make the rivers flow by impelling the rain. Such as you are, come passing by the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—destroyers of enemies
+- हिरण्यवर्तनी (*hiraṇyavartanī*)—who have a chariot made of gold
+- सुषुम्ना (*suṣumnā*)—who have excellent wealth
+- सिंधुवाहसा (*siṃdhuvāhasā*)—who impel the flow of the rivers
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अत्यायातं (*atyāyātaṃ*)—leaving all the other sacrificers, favour me alone
+- अहं (*ahaṃ*)—I
+- सना (*sanā*)—always
+- विश्वाः (*viśvāḥ*)—all adversaries
+- तिरः (*tiraḥ*)—having rejected (help me to scorn them)
+- माध्वी (*mādhvī*)—O Aśvins, perfect in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—praise (invocation)
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, destroyers of enemies, who have a golden chariot, excellent wealth, and who impel the flow of the rivers, leave all the other sacrificers and favour me alone. Help me so that I may always reject and drive far away all adversaries. O Aśvins, perfect in the madhuvidyā, listen to my praise.
+
+##### English translation
+Passing by (other worshippers), come, Aswins, hither, so that I may ever overcome all (adversaries): Dasras, riding in a golden chariot,
+
+### Printed p. 114
+
+distributors of wealth, propellers of rivers, masters of mystic lore, hear my invocation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ रत्ना॑नि॒ बिभ्र॑ता॒वश्वि॑ना॒ गच्छ॑तं यु॒वं ।  
+> रुद्रा॒ हिर॑ण्यवर्तनी जुषा॒णा वा॑जिनीवसू॒ माध्वी॒ मम॑श्रुतं॒ हवं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । रत्नानि । बिभ्रतौ । अश्विना । गच्छतं । युवं ।  
+> रुद्रा । हिरण्यवर्तनी इति हिरण्यवर्तनी । जुषाणा । वाजिनीवसू इति वाजिनीऽवसू।  
+> माध्वी इति । मम । श्रुतं । हवं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना नोऽस्मभ्यं रत्नानि रमणीयानि धनानि बिभ्रत् धारयंत् युवं
+> युवां नोऽस्मान्वा आ गच्छतं । हे रुद्रा रुद्रपुत्रौ स्तुत्या वा हे वाजिनीवसू
+> वाजिनधन् युवां हिरण्यवर्तनी हिरण्यरथौ जुषाणा यज्ञं सेवमान् संतावा
+> गच्छतमिति । माध्वी इत्यादि गतं ॥
+> ॥ श्रीराम ॥
+> रुद्रा—रुद्रपुत्ररू हिरण्यवर्तनी—सुवर्णनिर्मितवाद रथवुळ्ळवरू, जुषाणा—
+> यज्ञवन्नु सेविसुववरू वाजिनीवसू—अन्नसंपद्युक्तरू आद अश्विना—ऎलै अश्विनी
+> देवतॆगळे । युवं—नीवु नः—नमगोस्कर रत्नानि—रत्नगळन्नु ! बिभ्रत्—हॊंदि
+> दवरागि ' आ गच्छतं—नम्मल्लिगॆ दयमाडिरि माध्वी—मधुविद्यापारंगतराद ऎलै अश्विनी
+> देवतॆगळे , मम—नन्न हवं—स्तुतियन्नु (आह्वानवन्नु) । श्रुतं—केळिरि.
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two, bearing for us delightful wealth, come to us. O Rudras: sons of Rudra, or else those worthy of praise. O you who have wealth of food, you who ride in a golden chariot, taking pleasure in the sacrifice, serving it, come. The meaning of "mādhvī" and the rest has been given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रा (*rudrā*)—sons of Rudra
+- हिरण्यवर्तनी (*hiraṇyavartanī*)—who have a chariot made of gold
+- जुषाणा (*juṣāṇā*)—who partake of the sacrifice
+- वाजिनीवसू (*vājinīvasū*)—who are endowed with the wealth of food
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- नः (*naḥ*)—for us
+- रत्नानि (*ratnāni*)—jewels
+- बिभ्रत् (*bibhrat*)—having obtained
+- आ गच्छतं (*ā gacchataṃ*)—favour us with your presence
+- माध्वी (*mādhvī*)—O Aśvin deities, perfect in the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—praise (invocation)
+- श्रुतं (*śrutaṃ*)—listen
+
+### Printed p. 115
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, sons of Rudra, who have a chariot made of gold, who partake of the sacrifice and are endowed with the wealth of food, having obtained delightful riches for us, favour us with your presence. O Aśvin deities, perfect in the madhuvidyā, listen to my praise.
+
+##### English translation
+Come, Aswins, bring for us precious treasures: Rudras, riding in a golden chariot, propitiated (by sacrifice), affluent with food, masters of mystic lore, hear my invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+रुद्रा (*rudrā*)—How the Aśvin deities are sons of Rudra has not been explained by the commentator.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ष्टुभो॑ वां वृषण्वसू॒ रथे॒ वाणी॒च्याहि॑ता ।  
+> उ॒त वां॑ ककु॒हो मृ॒गः पृक्षः॑ कृणोति वापु॒षो माध्वी॒ ॑ ॒॑
+> मनु श्रुतं हवं ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुस्तुभः । नां । वृषण्वसू इति वृषण्वसू । रथे । वाणीची । आहिता ।  
+> उत । नां । ककुहः । मृगः । पृक्षः । कृणोति । वापुषः । माध्वी इति । मम । श्रुतं ।  
+> हवं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षधनौ वर्षितारौ ना वसूनां हे अश्विन् सुष्टुभः सुस्तोतुर्मम वाणीची वाग्रूपा स्तुतिर्वां युवयो रथ आहिता । स्थापिता । आस्माभिः
+> कृतेत्यर्थः । उतापि च वां युवाभ्यां ककुहो महान् मृगोमृगयिता वापुषो
+> वपुष्मान्यजमानः पृक्षोऽन्नं हविः कृणोति । करोति । तस्मान्मम हवं श्रुतमिति ॥
+
+##### Gist of the bhāṣya
+
+O showerers of riches, O Aśvins, the praise in the form of speech of me, the good praiser, is placed on your chariot; the meaning is that it has been made by us. Moreover, the great seeker, the embodied sacrificer, makes for you the food, the oblation. Therefore hear my invocation.
+
+### Printed p. 116
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvin deities, who provide riches
+- सुष्टुभः (*suṣṭubhaḥ*)—of me, the excellent praiser
+- वाणीची (*vāṇīcī*)—the praise
+- वां (*vāṃ*)—your
+- रथे (*rathe*)—addressed to the chariot
+- आहिता (*āhitā*)—is made and recited
+- उत (*uta*)—and
+- वां (*vāṃ*)—you
+- मृगः (*mṛgaḥ*)—the one who seeks
+- ककुहं (*kakuhaṃ*)—who has special qualities
+- वापुषः (*vāpuṣaḥ*)—who has a human body, the sacrificer
+- पृक्षः (*pṛkṣaḥ*)—the oblation
+- कृणोति (*kṛṇoti*)—offers
+- माध्वी (*mādhvī*)—O Aśvin deities, endowed with the madhuvidyā
+- मम (*mama*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुतं (*śrutaṃ*)—listen
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who provide riches, the praise of me, the excellent praiser, is made and recited addressed to your chariot. And the sacrificer, who seeks you alone, who has special qualities and a human body, offers the oblation. O Aśvin deities, endowed with the madhuvidyā, listen to my invocation in the form of praise.
+
+##### English translation
+Showerers of wealth, the praise of your worshipper is addressed to your chariot; (to it), as well as to you, does this distinguished, devoted, embodied (adorer) offer sacrificial food: masters of mystic lore, hear my invocation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बो॒धिन्म॑नसा र॒थ्ये॑षि॒रा ह॑वन॒श्रुता॑ ।  
+> विभि॒श्चवा॑नमश्विना॒ नि या॑थो॒ अद्व॑याविनं॒ माध्वी॒ मम॑ ॒ ॑
+> श्रुतं हवं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बोधित्मनसा । रथ्या । इषिरा । हवनश्रुता ।  
+> विभिः । च्यवानं । अश्विना । नि । याथः । अद्वयाविनं । माध्वी इति । मम । श्रुतं ।  
+> हवं ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 110. Special Topics of Sūkta 75 Ṛk 1: Hopkins quotation, tridhātu, madhuvidyā legend
+**Progress note:** Done through printed p. 116. Special Topics end (Dadhīci legends), Sūkta 75 Ṛk 2-4, Ṛk 5 Saṃhitā and Pada
