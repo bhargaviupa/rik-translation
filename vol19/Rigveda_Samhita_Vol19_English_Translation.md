@@ -7037,6 +7037,253 @@ Unmatched (by any), you have done, Indra, all these many ( deeds ) by your innat
 > इंद्र॒ ब्रह्म॑ क्रि॒यमा॑णा जुषस्व॒ या ते॑ शविष्ठ॒ नव्या॒ अक॑र्म ।  
 > वस्त्रे॑व भ॒द्रा सुकृ॑ता वसू॒यू रथं॒ न धीरः॒ स्वपा॑ अतक्षं ॥
 
+### Printed p. 177
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ब्रह्म । क्रियमाणा । जुषस्व । या । ते । शविष्ठ । नव्याः । अकर्म ।  
+> वस्त्रा इव । भद्रा । सुकृता । वसुयुः । रथं । न । धीरः । सुअपाः । अतक्षं ॥१५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शविष्ठ बलवत्तम शूरतम वेंद्र ते तुभ्यं या यानि स्तोत्राणि नव्या
+> नूतना अद्यतना वयमकर्म अकुर्म हे इंद्र त्वं क्रियमाणास्माभिः क्रियमाणानि ब्रह्म ब्रह्माणि तानि स्तोत्राणि जुषस्व । सेवस्व । धीरो धीमान् स्वपाः
+> शोभनकर्मा वसूयुर्धनकामोऽहं वस्त्रेव वस्त्राणीव भद्रा भद्राणि भजनीयानि
+> सुकृता सुष्टु कृतानि स्तोत्राणि रथं न रथमिवातक्षु । अकरवं । स्तोत्राण्युपसंहारवद्ग्राह्याणीत्यभिप्रायेण वस्त्रनिदर्शनमुक्तं । रथदृष्टांतस्त्वागमनसाधनत्वप्रतिपादनाय । स्तोत्राणि स्वीकृत्य मह्यं धनं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the verse in this way. O Śaviṣṭha, most mighty and most heroic Indra, whatever new, present-day hymns we have made for you, those hymns, being made by us, you should accept and enjoy. "I, the wise one, of good works and desirous of wealth, have fashioned the hymns as one fashions a chariot": the hymns are thus likened to garments that are good and to be worn, and to a chariot. The comparison with garments is stated with the intention that the hymns should be accepted like something taken up and held in the hand; the example of the chariot is for showing that the hymns are a means of bringing Indra here. The meaning is: accept the hymns and give wealth to me. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—O most mighty one
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—praising you
+- नव्याः (*navyāḥ*)—new
+- या (*yā*)—which hymns
+- अकर्म (*akarma*)—we shall make (such)
+- क्रियमाणा (*kriyamāṇā*)—made by us
+- ब्रह्म (*brahma*)—the hymns
+- जुषस्व (*juṣasva*)—accept and enjoy
+- धीरः (*dhīraḥ*)—possessed of discriminating knowledge
+- स्वपाः (*svapāḥ*)—possessed of excellent works
+- वसूयुः (*vasūyuḥ*)—I, desirous of wealth
+- वस्त्रेव (*vastreva*)—as one weaves garments
+- रथं न (*rathaṃ na*)—as one builds a chariot
+- भद्रा (*bhadrā*)—auspicious
+- सुकृता (*sukṛtā*)—and most excellent hymns
+- अतक्षं (*atakṣaṃ*)—I have fashioned
+
+##### भावार्थ (Bhāvārtha)
+
+O most mighty Indra, whatever new hymns we shall make in praise of you, accept and enjoy all those hymns of ours. I, who have discriminating knowledge, who am possessed of excellent works and desirous of wealth, have fashioned auspicious hymns, as one weaves garments and builds a chariot.
+
+##### English translation
+Most mighty Indra, be pleased to accept the prayers which we are about to offer, and the present praises which we repeat : firm, doing pious acts, and desirous of wealth, have I fabricated acceptable and pious works like (rich) garments, and like a chariot.
+
+### Printed p. 178
+
+## Sūkta 30 (Maṇḍala 5)
+
+The thirtieth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्व स्य वीर इति पंचदशर्चं षोडशं सूक्तं । अत्रानुक्रमणिका । क्व स्य
+> बभ्रुर्ऋणंचयोऽप्यत्र राजा स्तुत इति । बभ्रुर्ऋषिः । अनुक्तत्वात्रिष्टुप् । इंद्रो
+> देवता । ऋणंचयनामा राजापि क्वचित्सूयते । अतः सोऽपि देवता । तीव्रसोमाख्य एकाहे मरुत्वतीयशस्त्र इदं सूक्तं निविद्वानं । सूत्रितं च । तीव्रसोमेनान्नाद्यकामः क्व स्य वीरः । अ. ९-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning क्व स्य वीर (*kva sya vīra*) has fifteen Ṛks and is the sixteenth sūkta. Sāyaṇa cites the Anukramaṇikā: क्व स्य बभ्रुर्ऋणंचयोऽप्यत्र राजा स्तुत इति (*kva sya babhrurṛṇaṃcayo 'pyatra rājā stuta iti*). The seer is Babhru. Since no metre is stated, it is Triṣṭubh. The deity is Indra. A king named Ṛṇañcaya is also praised somewhere (in this sūkta), so he too is a deity. In the Tīvrasoma ekāha, in the Marutvatīya śastra, this sūkta is the nivid-sūkta. It is also prescribed in the sūtra: तीव्रसोमेनान्नाद्यकामः क्व स्य वीरः (*tīvrasomenānnādyakāmaḥ kva sya vīraḥ*) (Ā. Sū. 9-7).
+
+Translation (Anuvāda): This sūkta, beginning क्व स्य वीरः (*kva sya vīraḥ*), is the sixteenth sūkta in the second Anuvāka. It contains fifteen Ṛks. In the Anukramaṇikā it is said: क्वंस्य बभ्रुर्ऋणंचयोऽप्यत्र राजा स्तुतः (*kvaṃsya babhrurṛṇaṃcayo 'pyatra rājā stutaḥ*). The seer of this sūkta is one named Babhru; Indra is the deity; Triṣṭubh is the metre. In this sūkta there is praise of a king named Ṛṇañcaya; therefore that king Ṛṇañcaya may also be called a deity of this sūkta. In the sacrifice called Tīvrasoma, performed for one day only, this sūkta is to be recited as the nivid-sūkta among the mantras of the Marutvatīya śastra; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra तीव्र सोमेनान्नाद्यकामः क्व स्य वीरः (*tīvra somenānnādyakāmaḥ kva sya vīraḥ*) (Ā. Sū. 9-7).
+
+Sūkta 30.
+
+Maṇḍala 5, Anuvāka 2, Sūkta 30.
+
+Aṣṭaka 4, Adhyāya 1, Varga 26, 27, 28.
+
+Number of Ṛks in the sūkta: 15.
+
+Seer: Babhru Ātreya.
+
+Deity: Indra and Ṛṇañcaya.
+
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व१॒ं॑ स्य वी॒रः को अ॑पश्य॒दिंद्रं॑ सु॒खर॑थ॒मीय॑मानं॒ हरि॑भ्यां।  
+> यो रा॒या व॒ज्री सु॒तसो॑ममि॒च्छन्तदोको॒ गंता॑ ॒ ॒
+> पुरुहूत ऊती ॥ १ ॥
+
+### Printed p. 179
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । स्यः । वीरः । कः । अपश्यत् । इंद्रं । सुखरथं । ईयमानं । हरिभ्यां ।  
+> यः । राया । वज्री । सुत्यसोमं । इच्छन् । तत् ॥ ओकः । गंता । पुरुहूतः ।  
+> ऊती ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वज्री वज्रवान् पुरुहूतो बहुभिराहूतो य इंद्रो राया देयेन
+> धनेन सह सुतसोममिच्छन् अभिषुतसोमं यजमानमन्विच्छन् ऊती ऊतैः
+> रक्षायै तत्तस्य यजमानस्याको गृहं गंता प्राप्तो भवति वीरो विक्रांतः स्य स
+> इंद्रः क्व कुत्र विद्यते । सुखरथं शोभनाक्षद्वारो रथो यस्य स सुखरथः । सुष्टु
+> खनति लिखति भूमिमिति ना सुखं । तादृग्रथं । सुहितं खेभ्यः खं पुनः खनतेरिति
+> यास्कः । नि. ३-१३ । हरिभ्यां स्ववाहनाभ्यामश्वाभ्यामीयमानं गच्छंतमिंद्रं
+> कोऽपश्यत् । कश्च ददृशे ॥
+
+##### Gist of the bhāṣya
+
+Indra, the wielder of the thunderbolt and invoked by many, who desires the one who has pressed the Soma and, together with wealth to be given, goes to the house of that sacrificer for his protection: where is that hero Indra? Sāyaṇa glosses *vīra* as valiant, and *kva* as "where". *Sukharatha* is one whose chariot has a good axle-hole; the word *sukha* (good, comfortable) is explained as that which digs or scratches the ground well, such a chariot; and Sāyaṇa cites Yāska (Ni. 3-13) for *sukha* as what is beneficial to the senses, *kha* being derived from the root *khan*. *Harī* are his own two horses; who saw Indra going with these two, and who has seen him?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्री (*vajrī*)—holder of the thunderbolt
+- पुरूहूतः (*purūhūtaḥ*)—invoked by many
+- यः (*yaḥ*)—which Indra
+- सुतसोममिच्छन् (*sutasomamicchan*)—seeking the sacrificer who holds the pressed Soma
+- राया (*rāyā*)—with wealth
+- ऊती (*ūtī*)—for his protection
+- तत् (*tat*)—of that sacrificer
+- ओकः (*okaḥ*)—to the house
+- गंता (*gaṃtā*)—who will go (such)
+- वीरः (*vīraḥ*)—the hero
+- स्यः (*syaḥ*)—that Indra
+- क्व (*kva*)—where is he?
+- सुखरथं (*sukharathaṃ*)—having a comfortable chariot
+- हरिभ्यां (*haribhyāṃ*)—with the horses
+- ईयमानं (*īyamānaṃ*)—who is going
+- इंद्रं (*iṃdraṃ*)—Indra
+- कः (*kaḥ*)—who
+- अपश्यत् (*apaśyat*)—has seen?
+
+##### भावार्थ (Bhāvārtha)
+
+Where is that hero Indra, the holder of the thunderbolt, invoked by many, who seeks out the sacrificer who has pressed the Soma and holds it ready to offer him, and goes with wealth to the house of that sacrificer to give it to him? Who has seen Indra, who has a comfortable chariot and is going with his horses?
+
+##### English translation
+Where is that hero ? who has seen Indra seated in his easy chariot, travelling with his horses, the thunderer, the invoked of many, who, desirous of the libation, is proceeding with riches to the habitation (of his worshipper) for his preservation ?
+
+### Printed p. 180
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer, besides describing Indra's qualities, asks "Where is Indra? Who has seen that Indra?", and in the next Ṛk he himself gives a kind of answer to these questions.
+
+ओकः (*okaḥ*)—For this word Yāska says: ओक इति निवासनामोच्यते । (*oka iti nivāsanāmocyate |*) (Ni. 3-3). He has given for the word *oka* the meaning "dwelling-place", that is, the house one lives in.
+
+वीरः (*vīraḥ*)—For the word *vīra* Yāska has given the etymology: वीरो वीरयत्यमित्रान् । वेतेर्वा स्याद्गतिकर्मणो वीरयतेर्वा (*vīro vīrayatyamitrān | vetervā syādgatikarmaṇo vīrayatervā*) (Ni. 1-7). That is, one who strikes the enemies in battle, routs them and makes them scatter is called a hero. Or, if the word *vīra* is thought to be formed from the root *vī*, meaning "to go", the meaning may be one who goes, that is, one who goes forward in battle. Or, if it is formed from the root *vīr*, the word *vīra* would mean one who has mighty strength. Thus he has explained three kinds of meaning.
+
+सुखरथं (*sukharathaṃ*)—शोभानाक्षद्वारः रथो यस्य स सुखरथः । सुष्टु खनति लिखति भूमिमिति वा सुखं तादृग्रथं । (*śobhānākṣadvāraḥ ratho yasya sa sukharathaḥ | suṣṭu khanati likhati bhūmimiti vā sukhaṃ tādṛgrathaṃ |*). One having a comfortable chariot: since a soft seat is made ready in Indra's chariot, it is comfortable to sit in. Or the word *sukha* is so called because (the wheel of the chariot) goes marking the ground well. Or, for the word *sukha* Yāska has given the etymology सुखं कस्मात् सुहितं खेभ्यः । खं पुनः खनतेः (*sukhaṃ kasmāt suhitaṃ khebhyaḥ | khaṃ punaḥ khanateḥ*) (Ni. 3-13). The word *kha*, formed from the root *khan* meaning "to make into" **NOTE**, gives the meaning of being beneficial to the senses.
+
+हरिभ्यां (*haribhyāṃ*)—स्ववाहनाभ्यां अश्विभ्यां (*svavāhanābhyāṃ aśvibhyāṃ*). Indra has two horses; they are called Harī. Explaining the vehicles of the various deities, Yāska says:
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥ (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ ‖*) (Ni. 2-28).
+For Indra the vehicle is the two horses named Harī; for Agni a red horse; for Āditya green horses; for the Aśvin deities two asses; for the deity called Pūṣan, goats; for the Marut deities, spotted deer; for the deity Uṣas, red cows; for the deity Savitṛ, dusky red horses; for Bṛhaspati, horses of various and manifold forms; for Vāyu, the horse named Niyut. Thus he has described the various kinds of vehicles of the deities.
+
+### Printed p. 181
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॑चचक्षं प॒दम॑स्य स॒स्वरु॒ग्रं नि॑धा॒तुरन्वा॑यमि॒च्छन् ।  
+> अपृ॑च्छम॒न्या उ॒त ते म॑ आहु॒रिंद्रं॒ नरो॑ बुबुधा॒ना  ॑
+> अशेम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । अचचक्षं । पदं । अस्य । सस्वः । उग्रं । निधातुः । अनु । आयं । इच्छन् ।  
+> अपृच्छं । अन्यान् । उत । ते । मे । आहुः । इंद्रं । नरः । बुबुधानः । अश्येम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य पदं स्थानमवाचचक्षं । अहमवाद्राक्षं । कीदृशं । सस्वोऽंतर्हित मुग्रमुद्दूर्णं। किंच इच्छन्निंद्रमन्विच्छन्नहं;निधातुःस्वं स्थापयितुरस्येंद्रस्य
+> पदमन्वायं । अन्वगमं । अन्यानुतान्यान्विदुषोपि मार्ग इंद्रमपृच्छं । पृष्टवानस्मि । पृष्टास्ते मे मह्यमिंद्रमाहुः । किमाहुरित्युच्यते । नरो यज्ञानां
+> नेतारो बुबुधाना बुभुत्समाना वयमशेम । इंद्रं प्राप्तवंतः स्मः । यद्यपींद्रो विद्यते तथापि दुर्लभश्चेदनुपगंतव्य इति बुभुत्समानः स्वभावमपृच्छत्
+> पृष्टैश्च सुलभ इत्युक्त इंद्रप्राप्त र्थ० सूक्तशेषमपश्यदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"I have looked at the place of this Indra": *sasva* is hidden (concealed), *ugra* is raised up, fierce. Desiring Indra, I followed up the place of this Indra, who establishes (his own place). I also asked others, the learned, along the way about Indra. Those who were asked told me about Indra. What did they say? "We, the leaders of sacrifices, desiring to know, have attained Indra." Although Indra exists, if he is hard to attain and not to be approached, the seer, desiring to know, asked about his nature; and when, on being asked, he was told that Indra is easy to obtain, he saw the remainder of the sūkta for the sake of attaining Indra. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- सस्वः (*sasvaḥ*)—hidden
+- उग्रं (*ugraṃ*)—and terrible
+- पदं (*padaṃ*)—the place
+- अवाचचक्षं (*avācacakṣaṃ*)—I have looked down upon
+- निधातुः (*nidhātuḥ*)—(the place) of Indra, who is self-established
+- इच्छन् (*icchan*)—with desire to see
+- अन्वायं (*anvāyaṃ*)—I went to that region
+- उत (*uta*)—and
+- अन्यान् (*anyān*)—other learned men also
+- अपृच्छं (*apṛcchaṃ*)—I asked
+- नरः (*naraḥ*)—the leaders of the sacrifice
+- बुबुधानाः (*bubudhānāḥ*)—and knowers of Indra's place, we
+- अशेम (*aśema*)—let us obtain the nearness of Indra (thus)
+- ते (*te*)—they
+- मे (*me*)—to me
+- इंद्रं (*iṃdraṃ*)—concerning Indra
+- आहुः (*āhuḥ*)—said
+
+##### भावार्थ (Bhāvārtha)
+
+I have looked down upon the hidden and terrible place of Indra. Desiring to approach and behold the place of Indra, who is self-established, I went to that region. And in this matter I asked other learned men. They, the leaders of the sacrifice and knowers of Indra's place, said, "Let us obtain Indra."
+
+### Printed p. 182
+
+##### English translation
+I have looked down upon the secret and fearful place of his abiding ; I have repaired, desiring him, (to the place of ) the self-sustainer ; I have inquired (of him) from others : they, the leaders (of rites), the searchers after wisdom, have said to me, let us have recourse to Indra.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नु व॒यं सु॒ते या ते॑ कृ॒तानींद्र॒ ब्रवा॑म॒ यानि॑ नो॒  ॑
+> जुजोषः ।  
+> वेद॒दवि॑द्वाञ्छ॒णव॑च्च वि॒द्वान्वह॑ते॒ऽयं म॒घवा॒ सर्व॑सेनः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नु । वयं । सुते या । ते । कृतानि । इंद्र । ब्रवाम । यानि । नः । जुजोषः ।  
+> वेदत् । अविद्वान् । शृणवत् । च । विद्वान् । वहते । अयं । मघवा ।  
+> सर्वसेनः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयानि यानि कृतानि कर्माणि संति नु अद्य वयं स्तोतारः
+> सुते सोमेऽभिसुते सति तानि कर्माणि प्र ब्रवाम । प्रकर्षण वदाम । त्वमपि
+> नोऽस्मदर्थं यानि कर्माणि जुजोषः असेवथाः तानि कर्माण्यविद्वान् इतः
+> पूर्वमजानन् जनो वेदत् । जानातु । विद्वान् शृणवच्च । शृणुयाच्च । यद्वा ।
+> विद्वान् जानन् पुरुषः शृणवच्च । अजानंतमपि जनं श्रावयेच्च । सर्वसेनः
+> सर्वाभिः सेनाभिर्युक्तो मघवा धनवान् विद्वान् जानन्नयमिंद्रो जानतश्च
+> शृण्वतश्च तान् जनान् प्रति वहते। अश्वैरुह्यते॥ व्यत्ययेन कर्तृप्रत्ययः॥ प्रापयति॥
+
+##### Gist of the bhāṣya
+
+O Indra, whatever deeds of yours have been done, those deeds we, the praisers, now declare forth, when the Soma has been pressed. And whatever deeds you have enjoyed for our sake, those deeds let the man who does not know them, who has not known them before, come to know, and let the one who knows hear them. Or else: let the knowing man hear, and let him make even the one who does not know hear. This Indra, endowed with all armies, wealthy, knowing, carries to those people who know and who hear; that is, he is borne by horses, and the active form is used by inversion (of voice); he brings them (to their goal).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- या कृतानि (*yā kṛtāni*)—those heroic deeds that there are
+- नु (*nu*)—now
+- वयं (*vayaṃ*)—we, the praisers
+- सुते (*sute*)—when the Soma has been pressed and made ready for offering
+- प्रब्रवाम (*prabravāma*)—we praise
+- नः (*naḥ*)—for our help
+- यानि (*yāni*)—which
+
 ---
 
-**Progress note:** Done through printed p. 176. Sūkta 29 Ṛks 10-15 (pp. 170-176)
+**Progress note:** Done through printed p. 182. Sutra 5.29 Rk 15 end; Sukta 30 Rks 1-3 start
