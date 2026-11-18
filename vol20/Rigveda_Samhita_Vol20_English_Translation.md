@@ -13993,6 +13993,304 @@ Whose great deeds his worshippers now celebrate, who is clothed with light, radi
 > व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्नं॑ ।  
 > स त्वं न॑ ऊर्जसन॒ ऊर्जं॑ धा॒ राजे॑व जेरवृ॒के क्षे॑ष्यं॒तः । ४ ।
 
+### Printed p. 413
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वद्मा हि । सूनो इति । असि । अद्मसद्वा । चक्रे । अग्निः । जनुषा । अज्म । अन्नं ।  
+> सः । त्वं । नः । उर्जसने । उर्जं । धाः । राजाइव । जेः । अवृके । क्षेषि ।  
+> अंतरिति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूनो सहसः पुत्र । यद्वा षू प्रेरणे । सर्वस्य प्रेरकाग्ने वद्या
+> वदनीयः स्तुत्योऽसि हि । परः पादः परोक्षकृतः । आत्मसद्भावस्पदनीयेषु हविःषु
+> सीदन् हविः स्वीकरणायोपविशन्नग्निर्जनुषा जन्मना स्वभावत एवाज्म । गृहनामैतत् ।
+> गृहमन्नं च यजमानानां चक्रे ! करोति । ऊर्जसन ऊर्जस्यान्नस्य दातरग्ने
+> नोऽस्मभ्यं स तादृशस्त्वमूर्जमन्नं धाः । देहि । तथा राजीव जेः । अस्मच्छत्रून्
+> जय । एतत्सर्वार्थमवृके राक्षसादिभिर्बाधकैर्वियुक्तेऽस्मदीयेऽग्न्यागारेऽंतर्मध्यॆ क्षेषि निवस ॥
+
+##### Gist of the bhāṣya
+
+O son of strength (सूनो (*sūno*)); or, from the root षू (*ṣū*) in the sense of impelling, O Agni, impeller of all. You are to be addressed with praise, you are worthy of praise (वदनीयः (*vadanīyaḥ*)). The latter foot is in the indirect (third-person) form. Agni, who sits on the oblations that are his own proper seats, sitting down to receive the oblation, makes for the sacrificers, by birth, that is, by his own nature, अज्म (*ajma*), which is a name for house, a house and food. O giver (ऊर्जसन (*ūrjasana*)) of strengthening food, Agni, such as you are, give ऊर्जं (*ūrjaṃ*), food, to us. Likewise, like a king (राजीव (*rājīva*)), conquer (जेः (*jeḥ*)) our enemies. For all this, dwell (क्षेषि (*kṣeṣi*)) in the midst of our fire-house, which is free from hindering rākṣasas and the like (अवृके (*avṛke*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूनो (*sūno*)—O Agni, son of strength
+- पद्मा असि (*padmā asi*)—you are worthy of homage
+- अद्मसद्वा (*admasadvā*)—who abides among the oblations
+- अग्निः (*agniḥ*)—Agni
+- जनुषा (*januṣā*)—by his own nature
+- अज्म (*ajma*)—a house
+- अन्नं (*annaṃ*)—and food
+- चक्रे (*cakre*)—provides (for the sacrificer)
+- ऊर्जसने (*ūrjasane*)—O Agni, giver of food
+- नः (*naḥ*)—to us
+- सः त्वं (*saḥ tvaṃ*)—you, the renowned
+- ऊर्जं (*ūrjaṃ*)—food
+- धाः (*dhāḥ*)—give
+- राजीव (*rājīva*)—like a lord
+- जेः (*jeḥ*)—gain victory
+- अवृके (*avṛke*)—of our sacrificial house, free from the harm of rākṣasas and the like
+- अंतः (*aṃtaḥ*)—in the middle
+- क्षेषि (*kṣeṣi*)—dwell
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you are worthy of homage. Agni, who abides among the oblations, provides the sacrificer, without being asked, with a house and with food. O Agni, giver of food, you the renowned, supply us with food, and be victorious like a lord. Dwell in the middle of our sacrificial house, which is free from rākṣasas and the like.
+
+##### English translation
+Son of strength, you are to be praised: Agni, sitting upon the (sacrificial) viands, has given (to his worshippers), from their birth, habitat-
+
+### Printed p. 414
+
+ion and food ; giver of strength, bestow strength upon us ; triumph like a prince, so that you may abide in our unassailed (dwelling).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निति॑क्ति॒ यो वा॑र॒णमन्न॒मत्ति॑ वा॒युर्न राष्ट्रत्ये॑त्य॒क्तून् ।  
+> तु॒र्याम॒ यस्त॑ आ॒दिशा॒मरा॑ती॒रत्यो॒ न ह्रुतः॒ पत॑तः परि॒ह्रुत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निऽतिक्ति । यः । वारणं । अन्नं । अत्ति । वायः । न । राष्ट्वी । अति । एति । आक्तून् ।  
+> तुर्याम । यः । ते । आदिशां । अरातीः । अत्यः । न । हुतः । पततः । परिह्नुत' ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्वारणं तमसां निवारकं स्वकीयं तेजो नितिक्ति निश्यति तीक्ष्णीकरोति ॥ तिज निशान इति धातुः ॥ यश्चान्नं यष्टृभिर्दीयमानं हविर्लक्षणमत्ति
+> भक्षयति । तथा च श्रूयते । अन्नादोऽवा एषोऽन्नपतियर्दग्निरिति । सोऽग्निर्वायुर्न वायुरिव राष्ट्री । ईश्वरनामैतत् । राष्ट्रं राज्यं । तद्वान् । वायुर्यथा
+> स्वमाहात्म्यन सर्वमीष्टे तद्वत् । सर्वस्येश्वर इत्यर्थः । तादृशः सन् अक्तून्
+> रात्रीरत्येति । अतिक्रामति । तद्गतमंधकारं तिरस्करोतीत्यर्थः । वयं च त्वत्पसादात्तुर्याम तं हिंस्याम यो जनस्ते शुभ्यमादिशामादिश्यमानानां दीयमानानां
+> हविषामरातीररातिरदाता ॥ छांदसो दीर्घः ॥ यद्वा । आरातीर्धनस्यादात् न् ते
+> त्वां प्रत्यादिशामादेष्ट्णणामाचक्षणानामस्माकं यो जनो विरोधी तं
+> हिंस्याम । त्वं चात्यो न शीघ्रगामि जात्यश्व इव क्रुटो हिंसकान्पतत अभिमुख्यन
+> गच्छतः शत्रून् परिह्रुत् परिगण्य हंता भव ॥ स्वरतेर्हिंसार्थस्यैतद्रूपं ॥
+
+##### Gist of the bhāṣya
+
+The Agni who sharpens (नितिक्ति (*nitikti*) means he makes keen) his own light, which wards off darkness (वारणं (*vāraṇaṃ*)), and who eats (अत्ति (*atti*)) the food, the oblation given by the sacrificers. And so it is heard: अन्नादोऽवा एषोऽन्नपतियर्दग्निरिति (*annādo 'vā eṣo 'nnapatiyardagniriti*) **GLOSS**. That Agni, like the wind (वायुर्न (*vāyurna*)), is राष्ट्री (*rāṣṭrī*), a name for the lord; राष्ट्रं (*rāṣṭraṃ*) is a kingdom, and he possesses it. As the wind rules everything by its own greatness, so he; the meaning is that he is lord of all. Being such, he goes beyond (अत्येति (*atyeti*)) the nights (अक्तून् (*aktūn*)), that is, he overcomes the darkness found in them. And by your grace may we destroy (तुर्याम (*turyāma*)) the man who is a non-giver  of the oblations being offered to you. Or else: **NOTE**, may we destroy the man among us who is hostile. And you, like a swift horse (अत्यो न (*atyo na*)), a well-bred horse, be the slayer of the harming enemies who rush upon you face to face (पततः (*patataḥ*)), reckoning them up (परिह्रुत् (*parihrut*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यॆः (*yèḥ*)—which Agni
+- वारणं (*vāraṇaṃ*)—the light that wards off darkness
+- नितिक्ति (*nitikti*)—who makes keen
+- अन्नं (*annaṃ*)—the food in the form of oblation
+- अत्ति (*atti*)—who eats, (that Agni)
+
+### Printed p. 415
+
+- वायुर्न (*vāyurna*)—like the wind
+- राष्ट्री (*rāṣṭrī*)—as lord of all
+- अक्तून् (*aktūn*)—the nights
+- अत्येति (*atyeti*)—crosses (puts an end to the darkness of the night)
+- तुर्याम (*turyāma*)—(may we also cross that darkness)
+- which man
+- ते (*te*)—to you, that which is to be offered
+- आदिशां (*ādiśāṃ*)—oblations
+- अरातीः (*arātīḥ*)—who does not give (may we destroy him also), (you also)
+- अत्यो न (*atyo na*)—like a swift horse
+- ह्रुतः (*hrutaḥ*)—the harming
+- पततः (*patataḥ*)—who fall upon us face to face, the enemies
+- परिह्रुत् (*parihrut*)—rush upon and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who makes keen his light that wards off darkness, and who eats the food in the form of oblation, that Agni, like the wind, as lord of all, crosses the nights, that is, puts an end to the darkness of the night. May we also cross that darkness. O Agni, may we destroy also the man who does not give the oblations that are to be offered to you. You also, like a swift horse, rush upon and destroy the harming enemies who fall upon us face to face.
+
+##### English translation
+He who whets his (gloom)-dispersing (radiance), who eats the (offered) oblation, a sovereign like Vayu, overcomes the nights; may we prevail (over him) who is not a donor of the oblations that are due, (Agni) to you and (swift) as a horse, be the destroyer of the foes assailing (us).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सूर्यो॒ न भा॑नु॒मद्भि॑र॒र्कैरग्ने॑ त॒तंथ॒ रोद॑सी॒ वि भा॒सा ।  
+> चि॒त्रो न॑य॒त्परि॒ तमां॑स्य॒क्तः शो॒चिषा॒ पत्म॑नौति॒जोन दीय॑न् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सूर्यः । न । भानुमत्भिः । अर्कैः । अग्ने । ततंथ । रोदसी इति । वि । भासा ।  
+> चित्रः । नयत् । परि । तमांसि । अक्तः । शोचिषा । पत्मन् । औशिजः । न । दीयन् ॥६ ॥
+
+### Printed p. 416
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने रोदसी द्यावापृथिव्यौ भासा दीप्त्या व्या ततंथ । विशेषेणाच्छादयसि । तत्र दृष्टांतः । भानुमद्भिः प्रभावद्भिरर्कैरर्चनीयैः किरणैः सूर्यो न ।
+> यथा सूर्य आतनोति तद्वत् । परोर्धर्चः परोक्षकृतः । पत्नन् । पतत्यस्मिन्निति
+> पत्न मार्गः । तस्मिन्नाशिजो न । उशिजः स्तोतारः । स्तुत्यतया तत्वंबंध्याशिजः
+> सूर्यः । स इव दीयन् गच्छन् शोचिषा तेजसाक्तः संश्लिष्टः आत एव चित्रश्चायनीयोऽग्निस्तमांसि नैशान्यंधकाराणि परि णयत् । परिणयति । परितो गमयति ।
+> सर्वस्मादपि दिग्भागान्नि वर्तयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you overspread (ततंथ (*tataṃtha*), you cover specially) heaven and earth (रोदसी (*rodasī*)) with radiance (भासा (*bhāsā*)). An example is given: like the sun (सूर्यो न (*sūryo na*)) with its splendid (भानुमद्भिः (*bhānumadbhiḥ*)), worshipful (अर्कैः (*arkaiḥ*)) rays: as the sun spreads, so you. The latter half of the verse is in the indirect form. पत्नन् (*patnan*) is the path, that on which one goes; on it, like the Auśija: the उशिजः (*uśijaḥ*) are the praisers, and the sun, connected with them through being praised, is the Auśija. Like him, going (दीयन् (*dīyan*)), joined (अक्तः (*aktaḥ*)) with radiance (शोचिषा (*śociṣā*)), and therefore wonderful (चित्रः (*citraḥ*), worthy to be seen), Agni leads round (परि णयत् (*pari ṇayat*) means he leads away on every side) the darknesses (तमांसि (*tamāṃsi*)) of the night; the meaning is that he turns them back from every quarter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- भानुमद्भिः (*bhānumadbhiḥ*)—with radiant
+- आर्क्यैः (*ārkyaiḥ*)—and worshipful rays
+- सूर्यो न (*sūryo na*)—as the sun spreads everywhere
+- रोदसी (*rodasī*)—heaven and earth
+- भासा (*bhāsā*)—with your splendour
+- वि आ ततंथ (*vi ā tataṃtha*)—you have pervaded and spread
+- पत्मन् (*patman*)—on the path of going
+- औशिजो न (*auśijo na*)—like the sun
+- दीयन् (*dīyan*)—moving
+- शोचषा (*śocaṣā*)—with his own radiance
+- अक्तः (*aktaḥ*)—joined
+- चित्रः (*citraḥ*)—and attractive, the Agni
+- तमांसि (*tamāṃsi*)—the black darkness of the night
+- परिणयत् (*pariṇayat*)—drives far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as the sun spreads everywhere with radiant and worshipful rays, so you have pervaded and spread heaven and earth with your splendour. Moving on his path like the sun, joined with his own radiance and attractive, Agni drives far away the black darkness of the night.
+
+##### English translation
+You overspread, Agni, heaven and earth with radiance, like the sun with his lustrous rays; the wonderful Agni disperses the glooms like the adorned (sun) moving on his path, imbued with light.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां हि मं॒द्रत॑ममर्कशो॒कैर्व॑वृ॒महे॒ महि॑ नः॒ श्रोष्य॑ग्नेः ।  
+> इंद्रं॒ न त्वा॒ शव॑सा दे॒वता॑ वा॒युं पृ॑णंति॒ राध॑सा॒ नृत॑माः ॥
+
+### Printed p. 417
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । हि । मंद्रतमं । अर्कशोकैः । ववृमहे । महि । नः । श्रोषि । अग्ने ।  
+> इंद्रं । न । त्वा । शवसा । देवता । वायुं । पृणंति । राधसा । नृतमाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने मंद्रतमं स्तुत्यतमं त्वामर्कशोकैरर्चनीयैः पूजनीयैः
+> शोकैर्दिप्तिभिर्युक्तं हि यस्मात् ववृमहे वृणीमहे संभजामहे । यअर्कशोकैरर्चनीयैः प शस्यॆर्दिप्तिकरणैः स्तोत्रैः साधनभूतैस्तां संभजामहे
+> तस्मान्महि महन्नोऽस्मदीयं स्तोत्रं श्रोषि । शृणु । हे आग्ने नृतमाः स्तुतीनां
+> नेतृतमा ऋत्विजः शवसा बलेन वायुं गंतारं । यद्वा । वायुमिव शवसा
+> युक्तमिंद्रं न इंद्रमिव देवता देवतात्मानं त्वां राधसा हविर्लक्षणेन धनेन
+> पृणंति । प्रीणयंति । देवताशब्दात् द्वितीयायाः सुपां सुलुगिति लुक् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, most delightful, most praiseworthy (मंद्रतमं (*maṃdratamaṃ*)), we choose you, we serve you, because you are endowed with worshipful flames (शोकैः (*śokaiḥ*)), that is, radiances (अर्कशोकैः (*arkaśokaiḥ*)); that is, we serve you with praises that are the means of kindling you. Therefore hear (श्रोषि (*śroṣi*) means listen) our great (महि (*mahi*)) praise. O Agni, the priests, the best leaders (नृतमाः (*nṛtamāḥ*)) of the praises, with strength (शवसा (*śavasā*)) satisfy (पृणंति (*pṛṇaṃti*) means they please) you, the goer (वायुं (*vāyuṃ*)); or else, you who are endowed with strength like Vāyu, like Indra, whose self is the divinity, with wealth (राधसा (*rādhasā*)) in the form of oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मंद्रतमं (*maṃdratamaṃ*)—most praiseworthy
+- त्वां (*tvāṃ*)—you
+- आर्कशोकैः (*ārkaśokaiḥ*)—with worshipful praises
+- ववृमहे (*vavṛmahe*)—we worship
+- महि (*mahi*)—great
+- न (*na*)—our praise
+- श्रोषि (*śroṣi*)—hear
+- नृतमाः (*nṛtamāḥ*)—the priests, the best among men
+- शवसा वायुं (*śavasā vāyuṃ*)—like the strong Vāyu
+- इंद्रं न (*iṃdraṃ na*)—and like Indra
+- देवता त्वा (*devatā tvā*)—you, whose self is the divinity
+- राधसा (*rādhasā*)—with food in the form of oblation
+- पृणंति (*pṛṇaṃti*)—satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we worship you, the most praiseworthy, with worshipful praises. Hear our great praise. The priests, the best among men, satisfy you, whose self is the divinity, like the strong Vāyu and like Indra, with food in the form of oblation.
+
+##### English translation
+We celebrate you, who are most adorable, with sacred praises : hear Agni, our laudation: the leaders (of rites) earnestly honour you with offerings, you who are divine like Indra, and like Vayu in strength,
+
+### Printed p. 418
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॑ अग्नेऽवृ॒केभिः॑ स्व॒स्ति वेषि॑ रा॒यः प॒थिभिः॒ पर्ष्यंहः॑ ।  
+> ता सू॒रिभ्यो॑ गृण॒ते रा॑सि सु॒म्नं मदे॑म श॒तहि॑माः सु॒वीराः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । अग्ने । अवृकेभिः । स्वस्ति । वेषि । रायः । पथिभिः । पर्षि । अंहः ।  
+> ता । सूरिभ्यः । गृणते । रासि । सुम्नं । मदेम । शतहिमाः । सुवीराः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मानवृकेभिः । वृकाः स्तेनाः । तद्रहितैः पथिभिर्मार्गै रायो
+> धनानि नु क्षिप्रं स्वस्ति क्षेमेण वेषि ! गमय । प्रापय । अंहोऽंहसः पापात्पर्षि ।
+> उक्तलक्षणैर्मार्गैः पारय चास्मान् । यानि त्वया सूरिभ्यः स्तोतृभ्यो देयानि
+> सुम्मानि ता तानि सुम्मं सुम्मानि सुखानि गृणते स्तुवते मह्यं रासि ! देहि । वयं
+> च शतहिमाः शतं हेमंतान् संवत्सरान् सुवीराः । वीर्याज्जायंत इति वीराः
+> पुत्रादयः । शोभनपुत्रपौत्रादिसहिताः संतो मदेम । हृष्याम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, lead us quickly (नु (*nu*)), by paths free from thieves (अवृकेभिः (*avṛkebhiḥ*); the वृकाः (*vṛkāḥ*) are thieves), to riches (रायः (*rāyaḥ*) means wealth), with well-being (स्वस्ति (*svasti*) means with safety); वेषि (*veṣi*) means cause to go, cause to reach. Take us across from sin (अंहः (*aṃhaḥ*)) by the paths described. Those delights (सुम्मानि (*summāni*), pleasures) that are to be given by you to the wise (सूरिभ्यः (*sūribhyaḥ*), the praisers), those give (रासि (*rāsi*) means give) to me who praise (गृणते (*gṛṇate*)). And we, living a hundred winters (शतहिमाः (*śatahimāḥ*), a hundred years), with good sons (सुवीराः (*suvīrāḥ*): the वीराः (*vīrāḥ*) are sons and the like, born of vigour), endowed with excellent sons, grandsons and the like, may rejoice (मदेम (*madema*) means may we be glad).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- अवृकेभिः (*avṛkebhiḥ*)—free from thieves
+- पथिभिः (*pathibhiḥ*)—by paths
+- स्वस्ति (*svasti*)—with safety
+- नु (*nu*)—quickly
+- रायः (*rāyaḥ*)—into the presence of wealth
+- वेषि (*veṣi*)—lead
+- अंहः (*aṃhaḥ*)—from sin
+- पर्षि (*parṣi*)—release
+- सूरिभ्यः (*sūribhyaḥ*)—which are fit to be given to your praisers
+- ता (*tā*)—and renowned
+- सुम्मं (*summaṃ*)—wealth
+- गृणते (*gṛṇate*)—to me, who now praise
+- रासि (*rāsi*)—give
+- शतहिमाः (*śatahimāḥ*)—for a hundred years
+- सुवीराः (*suvīrāḥ*)—with excellent sons and the like
+- मदेम (*madema*)—may we rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, lead us quickly and with safety by paths free from thieves into the presence of wealth. Make us free from sin. Give to me, who now praise you, the wealth, renowned and fit to be given to your praisers. May we rejoice for a hundred years, endowed with excellent sons and the like.
+
+### Printed p. 419
+
+##### English translation
+Quickly conduct us, Agni, by unmolested paths to riches and prosperity : (convey us) beyond sin : those delights which you give to ,your adorers (extend) to him who (now) glorifies you, and may we, living for a hundred winters, and blessed with excellent posterity, be happy.
+
+## Sūkta 5 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हुवे व इति सप्तर्चं पंचमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं ।
+> कथा चानुक्रम्यते । हुवे वः सप्तेति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः॥
+
+##### Gist of the bhāṣya
+
+The fifth sūkta, of seven Ṛks, beginning हुवे व (*huve va*), has Bharadvāja as seer, Agni as deity, and the Triṣṭubh metre. It is listed in the Anukramaṇī as हुवे वः सप्तेति (*huve vaḥ sapteti*). Its application in the Prātaranuvāka and in the Āśvina śastra has been stated.
+
+The Kannada rendering: This sūkta, beginning हुवे वः (*huve vaḥ*), is the fifth sūkta in the first anuvāka. It has seven Ṛks. Bharadvāja is the ṛṣi of this sūkta; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇī it is said हुवे वः सप्त (*huve vaḥ sapta*). This sūkta is applied for the recitation of the Prātaranuvāka and Āśvina-śastra mantras.
+
+- Sūkta 5
+- Maṇḍala 6; Anuvāka 1; Sūkta 5
+- Aṣṭaka 4; Adhyāya 5; Varga 7
+- Number of Ṛks in the sūkta: 7
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हु॒वे वः॑ सू॒नुं सह॑सो॒ युवा॑न॒मद्रो॑घवाचं म॒तिभि॒र्यवि॑ष्ठं ।  
+> य इन्व॑ति॒ द्रवि॑णानि॒ प्रचे॑ता वि॒श्ववा॑राणि पुरु॒वारो॑ अ॒ध्रुक् ॥
+
 ---
 
-**Progress note:** Done through printed p. 412. Mandala 6 sukta 3 rk 8; sukta 4 rks 1-3 (Agni), pp. 407-412
+**Progress note:** Done through printed p. 419. Mandala 6 sukta 4 rks 4-8; sukta 5 start (Agni), pp. 413-419
