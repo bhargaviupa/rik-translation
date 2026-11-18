@@ -19057,6 +19057,244 @@ Protect us, Agni, from the malignant, preserve us, mighty one, from wickedness :
 > अ॒ग्निर्होता॑ गृ॒हप॑तिः॒ स राजा॒ विश्वा॑ वेद॒ जनि॑मा जा॒तवे॑दाः।  
 > दे॒वाना॑मु॒त यो मर्त्या॑नां॒ यजि॑ष्ठः॒ स प्र य॑जतामृ॒तावा॑ ॥ १३ ॥
 
+### Printed p. 551
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । होता । गृह्यपतिः । सः । राजा । विश्वा । वेद । जनिमा । जातवेदाः ।  
+> देवानां । उत । यः । मर्त्यानां । यजिष्ठः । सः । प्र । यजतां । ऋतवा ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्यूळ्ळे दशरात्रे पंचमेऽहन्याग्निमारुतेऽग्निर्होतेति तृचो जातवेदसनिविद्धानीयः । सूत्रितं च । अग्निर्होता गृहपतिः स राजेति तिस्त्रः । आ. ८-८ । इति ॥
+> पत्नीसंयाजेषु गृहपतेराद्यानुवाक्या । सूत्रितं च । अग्निर्होता ग्रहपतिः स
+> राजा हव्यवाळग्निरजरः पिता न इति पत्नीसंयाजाः । आ. १-१० । इति । आश्विनशस्त्रस्यैषैव प्रतिपत् । सूत्रितं च । अग्निर्होता गृहपतिः स राजेति प्रतिपदेकपातिनी पच्छः ।
+> आ. ६-५ । इति ॥
+> होता देवानामाह्वाता राजा राजमानः सोऽग्निर्गृहपतिर्गृहाणां पतिरधिपतिर्भवति । तथा विश्वा विश्वानि सर्वाणि जनिम जन्मानि जन्मवंति भूतजातानि जातवेदा
+> जातप्रज्ञः सन् वेद । वेत्ति । जानाति । योऽग्निर्देवानामिंद्रादीनामुतापि च
+> मर्त्यानां मनुष्याणां च मध्यॆ यजिष्टोऽतिशयेन यष्टा भवति ऋतावा ।
+> ऋतं सत्यं यज्ञो वा । तद्वान् सोऽग्निः प्र यजतां । प्रकर्षेण देवान्यजतु ॥
+
+##### Gist of the bhāṣya
+
+On the fifth day of the Vyūḍha daśarāṭra, at the Āgnimāruta recitation, the three Ṛks beginning अग्निर्होता (*agnirhotā*) are the nivid-type verses concerning Jātavedas; he cites the sūtra "Agni is the invoker, the lord of the house, he is king: the three" (Ā. 8-8). At the Patnīsaṃyāja offerings it is the first anuvākyā verse of Gṛhapati; the sūtra is cited with its continuation (Ā. 1-10). It is also the pratipad of the Āśvina śastra; the sūtra is cited (Ā. 6-5). Sāyaṇa explains: the hotā is the caller of the gods, the rājā is the shining one; that Agni is the lord of the houses, their master. He, Jātavedas, endowed with knowledge from birth, knows all beings that have births. Among the gods, Indra and the others, and also among mortals, that Agni is the greatest sacrificer, and he is ṛtāvā, possessed of truth or of the sacrifice. May that Agni worship the gods excellently.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the accomplisher of the oblation
+- राजा (*rājā*)—the shining one
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- गृहपतिः (*gṛhapatiḥ*)—is the master of all houses
+- जातवेदाः (*jātavedāḥ*)—Agni, endowed with knowledge from birth
+- विश्वा (*viśvā*)—all
+- जनिम (*janima*)—beings having births
+- वेद (*veda*)—knows
+- यः (*yaḥ*)—which Agni
+- देवानां (*devānāṃ*)—to the gods, Indra and the others
+- उत (*uta*)—and
+- मर्त्यानां (*martyānāṃ*)—to men
+- यजिष्ठः (*yajiṣṭhaḥ*)—is the most worthy of worship
+- ऋतावा (*ṛtāvā*)—is of true nature
+- सः (*saḥ*)—that same
+- प्र यजतां (*pra yajatāṃ*)—let him worship exceedingly on our behalf all the gods
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the oblation and the shining one, is the lord of the house. Agni, endowed with knowledge from birth, knows all created things. The Agni who is most worthy of worship to the gods, Indra and the others, and to men, and who is of true nature, may that same Agni worship all the gods exceedingly on our behalf.
+
+### Printed p. 552
+
+##### English translation
+Agni is the invoker of the gods, the lord of the house, the ruler, who knows all that is, knows all existing beings; he is the most assiduous worshipper amongst gods or men : let him who is observant of truth offer worship.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the fifth day of the ten-night sacrifice called Vyūḍha, at the time of reciting the mantras of the Āgnimāruta śastra, the Ṛks 13-15 of this sūkta, beginning अग्निर्होता (*agnirhotā*), are to be recited as nivid-type mantras concerning Jātavedas; this is explained by the Āśvalāyana Śrauta Sūtra, अग्निर्होता गृहपतिः स राजेति शिस्त्रः (*agnirhotā gṛhapatiḥ sa rājeti śistraḥ*) (Ā. 8-8). **NOTE**
+At the Patnīsaṃyāja offering this Ṛk is to be recited as the first anuvākyā mantra concerning Gṛhapati; this is explained by the Āśvalāyana Śrauta Sūtra, अग्निर्होता गृहपतिः स राजा हव्यवाळग्निरजरः पिता न इति पत्निसंयाजाः (*agnirhotā gṛhapatiḥ sa rājā havyavāḷagnirajaraḥ pitā na iti patnisaṃyājāḥ*) (Ā. 1-10). And in the mantras of the Āśvina śastra this Ṛk is to be recited as the pratipad mantra; this is explained by the Āśvalāyana Śrauta Sūtra, अग्निर्होता गृहपतिः स राजेति प्रतिपदेकपातिनी पच्छः (*agnirhotā gṛhapatiḥ sa rājeti pratipadekapātinī pacchaḥ*) (Ā. 6-5).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ यद॒द्य वि॒शो अ॑ध्वरस्य होतः॒ पाव॑कशोचे॒ वेष्ट्वं हि  ॑
+> यज्वा ।  
+> ऋ॒ता य॑जासि महि॒ना वि यद्भूर्ह॒व्या व॑ह यविष्ठ॒ या ते॑  ॒
+> अद्य ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । यत् । अद्य । विशः । अध्वरस्य । होतरिति । पावकशोचे । वेः । त्वं । हि ।  
+> यॆज्वा ।  
+> ऋता । यजासि । महिना । वि । यत् । भूः । हव्या । वह । यविष्ठ । या । ते । अद्य ॥
+
+### Printed p. 553
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने यदद्येति दर्शपूर्णमासयोः स्विष्टकृतो याज्या । सूत्रितं च ।
+> अग्ने यदद्य विशो अध्वरस्य होतरित्यनवानं यजति । आ. १-६ । इति ॥
+> हे अध्वरस्य होतर्यज्ञस्य निष्पादक पावकशोचे शोधकदीप्ते एवंभूत
+> हे अग्ने आद्यास्मिन्काले विशो मनुष्यस्य यजमानस्य यत्कर्तव्यं तद्वेः । कामयस्व ।
+> हि यस्मात्त्वं यज्वा देवानां यष्टा भवसि तस्मात्त्वमृता ऋते यज्ञे यजासि ।
+> देवान्यज । अपि च महिना महिम्ना स्वमाहात्म्यन यद्यस्माद्वि भूः विभवसि व्याप्पो
+> भवसि अतः कारणात् हे यविष्ठ युवतवाग्ने ते तुभ्यं त्वदर्थमद्येदानीं या
+> यानि हव्यानि जुहुमस्तानि हव्या हव्यानि हवींषि वह । स्वकीयां स्विष्टकृदाख्यां
+> तनुं प्रापय ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā of the Sviṣṭakṛt in the new-moon and full-moon sacrifices; the sūtra is cited: "he offers with अग्ने यदद्य विशो अध्वरस्य होतः (*agne yadadya viśo adhvarasya hotaḥ*), without the anuvāka" (Ā. 1-6). Sāyaṇa explains: O Agni, performer of the sacrifice, purifying and bright, today seek whatever is to be done for the man, the sacrificer. Since you are the sacrificer of the gods, therefore worship the gods in the sacrifice. And since by your greatness you pervade, therefore, O youngest Agni, whatever oblations we offer today for you, carry them: bring them to your own form called Sviṣṭakṛt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- होतः (*hotaḥ*)—O accomplisher
+- पावकशोचे (*pāvakaśoce*)—O one with purifying radiance
+- अग्ने (*agne*)—O Agni
+- आद्य (*ādya*)—at this time of the sacrifice
+- विशः (*viśaḥ*)—of the human sacrificer
+- यत् (*yat*)—whatever rite there is, that
+- वेः (*veḥ*)—desire
+- हि (*hi*)—because
+- त्वं (*tvaṃ*)—you
+- यज्वा (*yajvā*)—are the worshipper of the gods
+- ऋता (*ṛtā*)—in the sacrifice
+- यजासि (*yajāsi*)—worship the gods
+- महिना (*mahinā*)—by your own greatness
+- यत् (*yat*)—for which reason
+- वि भूः (*vi bhūḥ*)—you pervade everywhere
+- यविष्ठ (*yaviṣṭha*)—O exceedingly youthful Agni
+- ते (*te*)—directed to you
+- आद्य (*ādya*)—at this time of the sacrifice
+- या हव्या (*yā havyā*)—which oblations
+- वह (*vaha*)—carry to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, accomplisher of the sacrifice, bright with purifying radiance, at this time of the sacrifice desire whatever rite the human sacrificer has. Since you are a worshipper of the gods, worship the gods in the sacrifice. O exceedingly youthful Agni, you pervade everywhere by your greatness. For that reason oblations are offered to you. Carry all of them to the gods, offer them to them.
+
+##### English translation
+Agni, minister of the sacrifice, bright with purifying lustre, approve of that (worship) which is this day celebrated by the institutor of the rite :
+
+### Printed p. 554
+
+you verily are the sacrificer, therefore address the worship (to the gods); and since by your greatness you are all-pervading, therefore, youngest (of the gods), accept the oblations which are to-day (presented) to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning अग्ने यदद्य (*agne yadadya*) is to be recited as the yājyā mantra at the Sviṣṭakṛt offering of the new-moon and full-moon sacrifices; this is explained by the Āśvalāyana Śrauta Sūtra, अग्ने यदद्य विशो अध्वरस्य होतरित्यनवानं यजति (*agne yadadya viśo adhvarasya hotarityanavānaṃ yajati*) (Ā. 1-6).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रयां॑सि॒ सुधि॑तानि॒ हि ख्यो नि त्वा॑ दधीत॒ रोद॑सी॒ यज॑ध्यै ।  
+> अवा॑ नो मघव॒न्वाज॑साता॒वग्ने॒ विश्वा॑नि दुरि॒ता त॑रेम॒ ता ॒॑ ॑
+> तरेम तवावसा तरेम ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रयांसि । सुधितानि । हि । ख्यः । नि । त्वा । दधीत । रोदसी इति । यजध्यै ।  
+> अव । नः । मघवन् । वाजसात् । अग्ने । विश्वानि । दुःइता । तरेम । ता । तरेम ।  
+> तव । अवसा । तरेम ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने सुधितानि सुनिहितानि वेद्यामासादितानि प्रयांस्यन्नानि हनिर्लक्षणान्यभि ख्यः । अभिपश्यसि । हि पूरकः । तादृशं त्वां रोदसी द्यावापृथिव्यावेतदुपलक्षितान् सर्वान् देवान्यजध्यै यष्टुं नि दधीत । आयं यजमानो निहितवान् । हे
+> मघवन्नग्ने नोऽस्मान्वाजसात् संग्रामेऽन्नस्य संभजने वा निमित्तभूतेव ।
+> रक्ष । वयं च विश्वानि सर्वाणि दुरिता दुरितानि दुःखानि तरेम । अतिक्रामेम ।
+> अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you look upon the oblations in the form of food that are well placed, set down on the altar; the particle हि (*hi*) is a filler. Heaven and Earth, and with them all the gods, have set you there to sacrifice: this sacrificer has set you. O wealthy Agni, protect us in battle, or when food is to be shared, as the cause of it. And may we cross over all evils, all sufferings. The rest is as already explained.
+
+### Printed p. 555
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुधितानि (*sudhitāni*)—those offered on the altar
+- प्रयांसि (*prayāṃsi*)—oblations
+- अभि ख्यः (*abhi khyaḥ*)—cause to be heard with kindness
+- रोदसी (*rodasī*)—Heaven and Earth
+- यजध्यै (*yajadhyai*)—to worship the gods with sacrifice
+- त्वा नि दधीत (*tvā ni dadhīta*)—have appointed you
+- मघवन् (*maghavan*)—O wealthy one
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- वाजसात् (*vājasāt*)—in the battle waged for food
+- अव (*ava*)—protect
+- विश्वानि (*viśvāni*)—all
+- दुरिता (*duritā*)—sufferings
+- तरेम (*tarema*)—cause us to cross
+- तव (*tava*)—your
+- अवसा (*avasā*)—by protection alone
+- ता (*tā*)—all those sufferings
+- तरेम (*tarema*)—may we cross
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, look kindly upon the oblations offered on the altar. Heaven and Earth have appointed you to worship the gods with sacrifice. O wealthy Agni, protect us in this battle waged for food. Cause us to cross all sufferings. By your protection alone may we cross all those sufferings.
+
+##### English translation
+Look, Agni, upon the (sacrificial) viands duly deposited (upon the altar): Heaven and Earth detain you to sacrifice (to the gods): opulent Agni, protect us in battle, whereby we may pass safe over all evils: may we pass over those of a prior existence; may we pass over them by your protection.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ विश्वे॑भिः स्वनीक दे॒वैरूर्णा॑वंतं प्रथ॒मः सी॑द॒ योनिं॑ ।  
+> कु॒ला॒यिनं॑ घृ॒तवं॑तं सवि॒त्रे य॒ज्ञं न॑य॒ यज॑मानाय  ॒
+> साधु ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । विश्वेभिः । सुऽनीक । देवैः । ऊर्णावंतं । प्रथमः । सीद । योनिं ।  
+> कुलायिनं । धृतवंतं । सवित्रे । यज्ञं । नय । यजमानाय । साधु ॥ १६ ॥
+
+### Printed p. 556
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निप्रणयनेऽग्ने विश्वेभिरित्येषानुवक्तव्या । सूत्रितं च । अग्ने विश्वेभिः
+> स्वनीक देवैरित्यर्धर्च आरमेत् । आ २-१७ । इति ॥
+> हे स्वनीक सुज्वालाग्ने विश्वेभिर्विश्वैः सर्वैदेवैः सहोर्णावंतमूर्णास्तुकावंतं योनिमुत्तरवेदिलक्षणं स्थानं प्रथमः सर्वॆषु देवेषु मुख्यस्त्वं
+> सीद । उपविश । कीदृशं योनिं । कुलायिनं । कुलायो नीडं । तत्सदृशं
+> गुल्गुल्वादिसंभरणोपेतं । तथा च श्रूयते । कुलायमिव हैतद्यज्ञॆ क्रियते
+> यत्प्रैतुदारनाः परिधयो गुल्गुलूर्णास्तुकाः सुगंधितेजनानि । ऐ. ब्रा. १-२८ ।
+> इति । धृतवंतं व्याघारणाज्ययुक्तं । एवमुत्तरवेद्यां निषण्णस्त्वं सवित्रे हविषां
+> प्रेरयित्रे यजमानाय ॥ षष्ठ्यर्थे चतुर्थ्येषा ॥ ईदृशस्य यजमानस्य यज्ञं
+> साध्वार्जवेन नय । देवान्प्रापय ॥
+
+##### Gist of the bhāṣya
+
+At the Agnipraṇayana this Ṛk is to be recited; the sūtra is cited: "he should stop at the half-verse अग्ने विश्वेभिः स्वनीक देवैरित्यर्धर्च (*agne viśvebhiḥ svanīka devairityardharca*)" (Ā. 2-17). Sāyaṇa explains: O well-flaming Agni, together with all the gods, being first, chief among all the gods, sit down on the place, the upper altar, furnished with wool. What kind of place? Kulāyin: kulāya is a nest; like it, provided with guggulu and other materials. So it is heard: कुलायमिव हैतद्यज्ञॆ क्रियते यत्प्रैतुदारनाः परिधयो गुल्गुलूर्णास्तुकाः सुगंधितेजनानि । (*kulāyamiva haitadyajñè kriyate yatpraitudāranāḥ paridhayo gulgulūrṇāstukāḥ sugaṃdhitejanāni |*) (Ai. Brā. 1-28). Dhṛtavat means furnished with ghee for the vyāghāraṇa. Thus seated on the upper altar, convey well and straightly the sacrifice of such a sacrificer, the presenter of oblations, to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वनीक (*svanīka*)—one with excellent flames
+- अग्ने (*agne*)—O Agni
+- ऊर्णावंतं (*ūrṇāvaṃtaṃ*)—having a seat soft like wool
+- धृतवंतं (*dhṛtavaṃtaṃ*)—furnished with ghee
+- कुलायिनं (*kulāyinaṃ*)—compact like a nest
+- योनिं (*yoniṃ*)—in the sacrificial altar
+- प्रथमः (*prathamaḥ*)—you who are chief of all the gods
+- विश्वेभिः (*viśvebhiḥ*)—all
+- देवैः (*devaiḥ*)—with the gods
+- सीद (*sīda*)—sit down
+- सवित्रे (*savitre*)—who offers the oblation
+- यजमानाय (*yajamānāya*)—of the sacrificer
+- यज्ञं (*yajñaṃ*)—the share of the sacrifice
+- साधु (*sādhu*)—in the best manner
+- नय (*naya*)—carry to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni with excellent flames, on this sacrificial altar, which has a seat soft like wool, is furnished with ghee and compact like a nest, sit down together with all the gods, you who are chief of all the gods. Carry in the best manner to the gods the share of the sacrifice of the sacrificer who offers the oblation.
+
+##### English translation
+Bright-rayed Agni, sit down first with all the gods, upon the altar lined with wool, a nest (of perfumes) and suffused with ghee, and rightly convey (to the deities) the sacrifice of the institutor of the rite, of the presenter of the oblation.
+
 ---
 
-**Progress note:** Done through printed p. 550. Sukta 6.15 Rks 8(end)-13(begin)
+**Progress note:** Done through printed p. 556. Ṛk 13 (rest) to Ṛk 16, Sūkta 15, pp. 551-556
