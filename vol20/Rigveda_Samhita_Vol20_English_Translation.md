@@ -16782,6 +16782,264 @@ The dark-pathed, as soon as generated, filled with his afar-seen light the two s
 - नु (*nu*)—quickly
 - धेहि (*dhehi*)—
 
+### Printed p. 496
+
+- ये (*ye*)—who
+- राधसा (*rādhasā*)—with wealth
+- श्रवसा (*śravasā*)—with food
+- सुवीरैभिः (*suvīraibhiḥ*)—with many kinds of strength
+- अन्यान् जनान् (*anyān janān*)—other men
+- अति (*ati*)—exceedingly
+- अभि संति (*abhi saṃti*)—surpass (give such sons also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, to us, who possess wealth in the form of oblations, give quickly wealth that is accompanied by many kinds of food and by protections, and that is attractive. Give also such sons as will exceed other men exceedingly in wealth, in food and in many kinds of strength.
+
+##### English translation
+Bestow quickly, Agni, upon us who are affluent (in oblations), wondrous wealth, with abundant viands, and protections, such as enrich other men with wealth, with food, and with male descendants.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं य॒ज्ञं चनो॑ धा अग्न उ॒शन्यं त॑ आसा॒नो जु॑हु॒ते  ॒॑
+> ह॒विष्मा॑न् ।  
+> भ॒रद्वा॑जेषु दधिषे सुवृ॒क्तिमवी॒र्वाज॑स्य॒ गध्य॑स्य सा॒त् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । यज्ञं । चनः । धाः । अग्ने । उशन् । यं । ते । आसानः । जुहुते । हविष्मान् ।  
+> भरत् वाजेषु । दधिषे । सुवृक्तिं । अवीः । वाजस्य । गध्यस्य । साता ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने उशन् कामयमानस्त्वमिमं पुरोवर्ति यज्ञं यागसाधनं
+> चॆनो हविर्लक्षणमन्नं धाः । धेहि । स्वात्मनि धारय । यं च पुरोडाशादिकमासान
+> आसीन उपविशन् हविष्मान्हवियर्युक्तो यजमानस्ते तुभ्यं त्वदर्थं जुहुते
+
+### Printed p. 497
+
+> जुहोति तमिममित्यन्वयः । अपि च भरद्वाजेष्वषिसु सुवृक्तिं सुष्टु दोषैर्वर्जितां स्तुतिं दधिषे । धारय । गध्यस्य । गध्यतिर्मिश्रीभावकर्मा ॥ मिश्रणीयस्य
+> प्राप्यस्य वाजस्यान्नस्य सात् संभजने निमित्तभूतेऽवीः । तानृषीन्रक्ष च ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, "uśan", desiring, you accept this sacrifice, this food of the nature of an oblation, "dhāḥ": place it in yourself. And the sacrificer, seated and possessed of the oblation, offers to you the cake and the rest; accept that." This is the construction. Moreover, "bharadvājeṣu", among the Bharadvāja seers, "suvṛktim", praise well free from faults, "dadhiṣe": hold. "Gadhyasya": the root "gadhyati" has the sense of mixing; so "of what is to be mixed", that is, of what is to be obtained, "vājasya", of food, "sāt", for the sharing in it as the cause: "avīḥ", protect those seers also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आसानः (*āsānaḥ*)—seated in his seat
+- हविष्मान् (*haviṣmān*)—possessing the oblation
+- यं (*yaṃ*)—which cake
+- ते (*te*)—for you
+- जुहुते (*juhute*)—offers
+- तं (*taṃ*)—that very one
+- उशन् (*uśan*)—desiring
+- यज्ञं (*yajñaṃ*)—the means of the sacrifice
+- इमं चनः (*imaṃ canaḥ*)—this oblation
+- धाः (*dhāḥ*)—hold in yourself
+- भरद्वाजेषु (*bharadvājeṣu*)—of the seers of the Bharadvāja line
+- सुवृक्तिं (*suvṛktiṃ*)—the pure praises
+- दधिषे (*dadhiṣe*)—hold in yourself
+- गध्यस्य (*gadhyasya*)—of many kinds
+- वाजस्य (*vājasya*)—of food
+- सात् (*sāt*)—for the obtaining
+- अवीः (*avīḥ*)—protect them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, desiring that very cake which the sacrificer, seated in his seat and possessing the oblation, offers to you, hold in yourself this oblation, the means of the sacrifice. Hold in yourself the pure praises of the seers of the Bharadvāja line. And give them many kinds of food and protect them.
+
+##### English translation
+Agni, desirous (of the offering), accept this sacrifice, this food which the presenter (of the oblation), sitting down (before you), offers unto you : accept the blameless (praises) of the Bharadwaja (race), and favour them that they may obtain many sorts of food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि द्वेषां॑सीनु॒हि व॒र्धयेळ्ळां॒ मदे॑म श॒तहि॑माः सु॒वीराः॑॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । द्वेषांसि । इनुहि । वर्धय । इळां । मदेम । शतहिमाः । सुवीराः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने द्वेषांसि द्वेष्टान् शत्रुन् वीनुहि । विविधं गमय । इळामन्नं
+> चास्मदीयं वर्धय! वयं च सुवीराः शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेताः संतः
+> शतहिमाः शतं हेमंतान् संवत्सरान्मदेम । मोदेम। तृप्ता भूयास्म ॥
+> xx 32
+
+##### Gist of the bhāṣya
+
+"O Agni, "dveṣāṃsi", our hating enemies, "vīnuhi": drive in various directions. Increase our "iḷām", our food. And we, "suvīrāḥ", possessed of fine heroes, that is, sons, grandsons and the rest, for "śatahimāḥ", a hundred winters, that is, years, "madema": may we rejoice, may we be satisfied."
+
+### Printed p. 498
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्वेषांसि (*dveṣāṃsi*)—(O Agni) our enemies
+- वि इनुहि (*vi inuhi*)—scatter in various directions
+- इळां (*iḷāṃ*)—our food
+- वर्धय (*vardhaya*)—increase
+- सुवीराः (*suvīrāḥ*)—together with excellent sons
+- शतहिमाः (*śatahimāḥ*)—a hundred years
+- मदेम (*madema*)—may we pass in joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, scatter our enemies in various directions. Increase our food. May we, together with excellent sons, pass a hundred years in joy.
+
+##### English translation
+Scatter (our) enemies ; augment our abundance ; and may we, blessed with virtuous male descendants, enjoy happiness for a hundred winters.
+
+## Sūkta 11 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजस्व होतरिति षडृचमेकादशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयं । अनुक्रम्यते च । यजस्व षडिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः॥
+
+##### Gist of the bhāṣya
+
+The sūkta "yajasva hotaḥ" is the eleventh sūkta, of six Ṛks; its seer is Bharadvāja, its deity Agni, its metre Triṣṭubh. In the Anukramaṇī it is given as "yajasva ṣaṭ". Its use (viniyoga) in the Prātaranuvāka and in the Āśvina-śastra has been stated before.
+
+##### Anuvāda
+
+This sūkta beginning "yajasva hotaḥ" is the eleventh sūkta in the first Anuvāka. It has six Ṛks. Bharadvāja is the seer of this sūkta; Agni is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said "yajasva ṣaṭ". It has been said before that this sūkta is used for the recitation of the Prātaranuvāka and of the mantras of the Āśvina-śastra.
+
+##### Particulars
+
+- Maṇḍala 6, Anuvāka 1, Sūkta 11
+- Aṣṭaka 4, Adhyāya 5, Varga 13
+- Number of Ṛks in the sūkta: 6
+- Seer: Bharadvāja Bārhaspatya
+- Deity: Agni
+- Metre: Triṣṭubh
+
+### Printed p. 499
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज॑स्व होतरिषि॒तो यजि॑या॒नग्ने॒ बाधो॑ म॒रुतां॒ न  ॑
+> प्रयु॑क्ति ।  
+> आ नो॑ मि॒त्रावरु॑णा॒ नास॑त्या॒ द्यावा॑ हो॒त्राय॑ पृथि॒वी व॑वृत्याः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजस्व । होतः । इषितः । यजीयान् । अग्ने । बाधः । मरुतां । न । प्रयुक्ति ।  
+> आ । नः । मित्रावरुणा । नासत्या । द्यावा । होत्राय । पृथिवी इति । ववृत्याः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होतरर्देवानामाह्वातरग्ने यजीयान्यष्टमस्त्वमिषितः प्रेषितोऽस्माभिः प्रार्थितः सन् नेति संप्रत्यर्थे । संप्रति प्रयुक्ति प्रयुक्त प्रयुज्यमाने
+> यज्ञे मरुतां देवानां बाधः शत्रुणां बाधकं गणं यजस्व । यद्वैतद्वाक्यद्वयं । हे होतरग्ने यजस्व देवानित्येकं वाक्यं । प्रयुज्यत इति प्रयुक्ति बलं।
+> मरुतां न प्रयुक्ति मरुतां बलमिवास्मच्छत्तून् बाधः बाधस्वेति द्वितीयं वाक्यं ।
+> अपि च मित्रावरुणा । अहरभिमानी देवो मित्रो वरुणो रात्र्यभिमानी । तौ च
+> नासत्या सत्यस्य नेतार् सत्यस्वभावानेव वा नासिकाप्रभवौ वाश्विन् द्यावापृथिवी दिवं
+> च पृथिवीं च एतांश्च देवान् होत्रायास्मद्य ज्ञाय तदर्थमा ववृत्याः ।
+> आवर्तय । आवहेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Hotṛ, Agni, invoker of the gods, "yajīyān", most worshipful, you, "iṣitaḥ", sent, that is, requested by us: "na" is in the sense of "now"; now, at the sacrifice being performed, worship the host of the Maruts, "bādhaḥ", the repeller of foes." Or else the two sentences are these: "O Hotṛ Agni, worship the gods" is one sentence; "prayukti" is force, since it is applied; "marutām na prayukti" means "like the force of the Maruts"; "bādhaḥ": repel our enemies; this is the second sentence. Moreover, "mitrāvaruṇā": Mitra is the deity presiding over the day, Varuṇa the deity presiding over the night. "Nāsatyā": leaders of truth, or of true nature, or the Aśvins, born of the nose. "Dyāvāpṛthivī": heaven and earth. These gods "ā vavṛtyāḥ": turn hither, bring them for our sacrifice. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतः (*hotaḥ*)—who call the gods to the sacrifice
+- अग्ने (*agne*)—O Agni
+- यजीयान् (*yajīyān*)—you who are most worthy of worship
+- इषितः (*iṣitaḥ*)—being requested by us
+- न (*na*)—in the present case
+- प्रयुक्ति (*prayukti*)—in the sacrifice that is being performed
+- मरुतां (*marutāṃ*)—of the Maruts
+- बाधः (*bādhaḥ*)—the host that destroys foes
+- यजस्व (*yajasva*)—worship
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- नः होत्राय (*naḥ hotrāya*)—for our sacrifice
+- आ ववृत्याः (*ā vavṛtyāḥ*)—bring
+
+### Printed p. 500
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who call the gods to the sacrifice, you who are most worthy of worship, being requested by us, worship at the sacrifice now being performed the foe-destroying host of the Maruts. Bring Mitra and Varuṇa, the Aśvin deities, and Heaven and Earth, for our sacrifice.
+
+##### English translation
+Agni invoker of the gods, you who are adorable, being instigated by us, worship at our present rite the foe-repelling (troop) of the Maruts and bring to our sacrifice Mitra and Varuna, the Nasatyas and Heaven and Earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं होता॑ मं॒द्रत॑मो नो अ॒ध्रुगं॒तर्दे॒वो वि॒दथा॒  ॑
+> मर्त्ये॑षु ।  
+> पा॒व॒कया॑ जु॒ह्वा॒३॒॑ति वह्नि॑रा॒साग्ने॒ यज॑स्व त॒न्वं१॒॑ १ तव॒ स्वां ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । होता । मंद्रतमः । नः । अध्रुक् । आंतः । देवः । विदथा । मर्त्येषु ।  
+> पावकया । जुह्वा । वह्निः । आसा । अग्ने । यजस्व । तन्वं । तव । स्वां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मर्त्येषु मनुष्येष्टंतर्मध्यॆ वर्तमानो विदथा विदथे
+> यज्ञे होता देवानामाह्वाता भवसि । कीदृशस्त्वं । मंत्रतमः स्तुत्यतमो
+> नोऽस्माकमध्रुगद्रोग्यास्मदर्थं द्रोहरहितो ना । सर्वदा मित्रभूत इत्यर्थः ।
+> देवो दानादिगुणयुक्तः । आपि च हे अग्ने जुह्वा । हूयंतेऽस्मामाहुतय इति
+> जुहूर्जाला । तया पावकया शोधयित्र्यासास्येन देवानामास्यभूतया
+> वह्निर्हविषां वोढा त्वं तव स्वां स्वभूतां स्विष्टकृदाख्यां तन्नं तनूं यजस्व ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you, being among mortals, that is, among men, at the sacrifice ("vidathā") become the Hotṛ, the invoker of the gods. Of what kind are you? "Mandratamaḥ", most praiseworthy; "naḥ", for us; "adhrug", free from hostility toward us, that is, always a friend; "devaḥ", endowed with qualities such as generosity. And, O Agni, "juhvā": the flame is "juhū", because oblations are offered into it; with that purifying one, with the mouth, being the mouth of the gods, you, "vahniḥ", the bearer of the oblations, worship "tava svām", your own body called Sviṣṭakṛt."
+
+### Printed p. 501
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रतमः (*maṃdratamaḥ*)—most praiseworthy
+- नः (*naḥ*)—to us
+- अध्रुक् (*adhruk*)—not wishing harm
+- देवः (*devaḥ*)—of divine nature
+- त्वं (*tvaṃ*)—you
+- मर्त्येषु अन्तः (*martyeṣu antaḥ*)—among men (taking place)
+- विदथा (*vidathā*)—at the sacrifice
+- होता (*hotā*)—as the one who gives the invitation to the gods
+- अग्ने (*agne*)—O Agni
+- वह्निः (*vahniḥ*)—you who carry the oblation to the gods
+- पावकया (*pāvakayā*)—purifying
+- आसा (*āsā*)—being the mouth of the gods
+- जुह्वा (*juhvā*)—by means of your flame
+- तव (*tava*)—your
+- स्वा तन्वं (*svā tanvaṃ*)—the form called Sviṣṭakṛt
+- यजस्व (*yajasva*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are most praiseworthy, who do not wish us harm, who are of divine nature, are the one who gives the invitation to the gods at this sacrifice taking place among men. O Agni, you who carry the oblation to the gods, worship by means of your flame, which is purifying and is the mouth of the gods, your own body called Sviṣṭakṛt.
+
+##### English translation
+You are amidst mortals at the celebration (of sacrifice), the invoker of the gods ( you who are) most deserving of praise, a divinity doing us no harm ; the bearer (of the oblation) offers (the gods), Agni your own body with purifying flame as if with their mouth
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धन्या॑ चि॒द्दि त्वे धि॒षणा॒ वष्टि॒ प्र दे॒वाञ्जन॑ गृण॒ते यज॑ध्यै ।  
+> वेपि॑ष्ठो॒ अंगि॑रसां॒ यद्ध॒ विप्रो॒ मधु॑ च्छं॒दो भन॑ति रे॒भ  ॒
+> इष्टौ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धन्या । चित् । हि । त्वे इति । धिषणा । वष्टि । प्र । देवान् । जन्म । गृणते । यजध्यै ।  
+> वेपिष्ठः । अंगिरसां । यत् । ह । विप्रः । मधु । छंदः । भनति । रेभः । इष्टौ ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 495. Mandala 6 Sukta 10 Rks 1-5 (pp. 490-495)
+**Progress note:** Done through printed p. 501. Vol 20 pp. 496-501: end of 6.1.10, Ṛks 6-7; 6.1.11 introduction, Ṛks 1-3 (Saṃhitā, Pada)
