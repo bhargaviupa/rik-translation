@@ -143,6 +143,8 @@ One route for all volumes (the approved design): the Kannada book and the struct
 
 ## 6. Change log
 - Nov 18 2026: T13 added: reference corrector (script and agent) built and tried on Vols 2, 4, 11, 14, 17 (audit and import proofs unchanged; the trial changes were undone, no volume is changed); list of doubtful reference numbers made.
+- Nov 18 2026: prompt for the Vol 20 translation session written (`vol20/CONTINUE_PROMPT_HTML.md`); the small tool fixes of the Vol 19 session brought to `main`.
+- Nov 18 2026: prompt for the session that continues the gloss work written: `docs/GLOSS_PROMPT.md`.
 - Nov 17 2026: cross-reference list made for all volumes; labelled glosses of Vols 2–8 replaced by `**GLOSS**` (682).
 - Nov 17 2026: T12 added and decided by the user (glosses of quoted Ṛks from our own edition; placeholder and print gate).
 - Nov 17 2026: Vol 5 supplied text, files 1, 2, 3, 45 and 6, put in `vol5/html/`.

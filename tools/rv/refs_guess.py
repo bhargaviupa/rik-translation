@@ -56,14 +56,19 @@ G = {
  'ṃ. Saṃ.': ('(fragment)', '', 'none'), 'ेव्यः.': ('(not a work)', '', 'high'), 'वेदां.': ('Vedāṅga? cannot tell', '', 'low'), 'तां.': ('Tā. Brā.?', 'तां. = Tāṇḍya', 'medium'), 'ता.': ('Tā. Brā.', 'Tāṇḍya', 'medium'), 'tā.': ('Tā. Brā.', '', 'medium'), 'शि.': ('Pā. Śi.?', 'Śikṣā', 'low'), 'स.': ('(cannot tell)', '', 'none'), 'सुं.': ('Saṃ.', '', 'none'), 'केस.': ('(cannot tell)', '', 'none'), 'अमु.': ('(cannot tell)', '', 'none'), 'अम.': ('(cannot tell)', '', 'none'), 'ai. ha.': ('(cannot tell)', '', 'none'), 'Aś.': ('Ā. Sū.?', 'Aś. for Āś.', 'low'), 'Ā. Va.': ('(cannot tell)', '', 'none'), 'Ā. Pa.': ('(cannot tell)', '', 'none'), 'Ā. Kā.': ('(cannot tell)', '', 'none'), 'Sa.': ('Saṃ.?', '', 'none'), 'Saḥ.': ('(cannot tell)', '', 'none'), 'Up.': ('Upaniṣad (the line says Kaṭha Up. 5-15)', 'Kaṭha Up. → Ka. U.', 'high'), 'De.': ('Bṛ. De.?', 'bare De.', 'low'), 'Night.': ('(deity name: retain)', 'decided', 'high'), 'Uṣas.': ('(deity name: retain)', 'decided', 'high'), 'U. U.': ('Tai. U. U.? (flagged)', 'flagged', 'low'), 'U. Sā.': ('(cannot tell)', '', 'none'), 'U. Sa.': ('U. Sū.?', '', 'low'), 'Tā. Ma. Brā.': ('Tā. Brā.', 'Tāṇḍya Mahā-brāhmaṇa', 'high'), 'Tai. Ā. Sā. Bhā.': ('Tai. Ā. Sā. Bhā. (Sāyaṇa-bhāṣya on the Taittirīya Āraṇyaka) — new row', '', 'medium'), 'Tai. U. U.': ('(flagged: Mahānārāyaṇa? )', 'flagged', 'low'), 'Saṃ.': ('(capital Saṃ.: not Ṛ. Saṃ. by your rule; see REFERENCES_CAPITAL_SAM_PLACES.tsv)', '', 'none'), 'Nṛ. Tā.': ('Nṛsiṃha-tāpanīya Upaniṣad (new row)', 'the line is about the four Vedas with aṅgas', 'low'), 'Pa. Saṃ.': ('(Paippalāda Saṃhitā? cannot tell)', '', 'low'), 'Mai. Tri.': ('(cannot tell)', '', 'none'), 'Sarv.': ('(cannot tell)', '', 'none'),
 'Prai. U.': ('Pra. U.', 'Prai. for Praśna (Praśna Upaniṣad, your Pra. U.)', 'medium'), 'bṛ. be.': ('Bṛ. De.', 'be. for de. (like Be.)', 'medium'), 'pi.': ('Piṅ.', 'pi. for piṅ.', 'low'), 'pari.': ('Paribhā.', 'pari. = paribhāṣā', 'medium'), 'parā.': ('(cannot tell)', '', 'none'),
 }
+import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from refs_guess_checks import CHK
 out = collections.OrderedDict(); first = {}
 for r in rows:
     f = r[form_k]; out.setdefault(f, []).append(r)
 with open(os.path.join(ROOT, 'REFERENCES_GUESSES.tsv'), 'w', encoding='utf8') as o:
-    o.write('form as written\tuses\tmy best guess\twhy\tconfidence\tfirst place (vol / page / number)\ttext around it\tyour answer (yes / no / correction)\n')
+    o.write('form as written\tuses\tmy best guess\twhy / what the line shows\tconfidence\tchecked against column I?\tfirst place (vol / page / number)\ttext around it\tyour answer (yes / no / correction)\n')
     cnt = collections.Counter()
     for f, rs in sorted(out.items(), key=lambda kv: -len(kv[1])):
-        g = G.get(f, ('', 'no guess yet', 'none')); cnt[g[2]] += 1
+        g = G.get(f, ('', 'no guess yet', 'none'))
+        if f in CHK: g = (CHK[f][0], CHK[f][2], CHK[f][1]); chk = 'yes'
+        else: chk = 'not yet'
+        cnt[g[2]] += 1
         r = rs[0]
-        o.write('\t'.join([f, str(len(rs)), g[0], g[1], g[2], f"{r[vol_k]} / {r[page_k]} / {r[num_k]}", (r[txt_k] or '')[:120], '']) + '\n')
+        o.write('\t'.join([f, str(len(rs)), g[0], g[1], g[2], chk, f"{r[vol_k]} / {r[page_k]} / {r[num_k]}", (r[txt_k] or '')[:120], '']) + '\n')
 print(len(out), 'forms;', dict(cnt))

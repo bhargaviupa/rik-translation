@@ -8,7 +8,7 @@
 | mistake | 161 | 14839 |
 | extra | 39 | 842 |
 | legend | 20 | 14866 |
-| Devanagari | 160 | 8273 |
+| Devanagari | 149 | 8273 |
 
 ## Forms not in the list, most used first (first 60)
 
