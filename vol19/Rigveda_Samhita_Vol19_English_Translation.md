@@ -23931,6 +23931,209 @@ In the Kārīrī rite, for the first of the offerings, this Ṛk is the yājyā.
 - अवना (*avanā*)—upon the earth
 - स्वरंति (*svaraṃti*)—fall and flow
 
+### Printed p. 656
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your hosts, exceedingly mighty, pouring out water for the world and causing the increase of the wealth of food, are excellent. With horses yoked to the chariot and moving everywhere, they join with lightning. Then the host of the Maruts, present in the three places, makes a noise in the form of thunder. At once the waters, spreading everywhere and flowing, fall and flow upon the earth.
+
+##### English translation
+Your (cohort), Maruts, is conspicuous, mighty, shedding water and augmenting food : yoking your horses (to your cars), spreading everywhere and combined with the lightning, the triple-(stationed company) roars aloud, and the circumambient waters fall upon the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Kārīrī rite, in the offering of the first piṇḍa, this Ṛk is to be used as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra प्र वो मरुतस्तविषा आ यं नरः (*pra vo marutastaviṣā ā yaṃ naraḥ*) (Ā. Sū. 2-12).**NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्युन्म॑हसो॒ नरो॒ अश्व॑दिद्यवो॒ वात॑त्विषो म॒रुतः॑ पर्वत॒च्युतः॑ ।  
+> अ॒ब्द॒या चि॒न्मुहु॒रा ह्रा॑दुनी॒वृतः॑ स्त॒नय॑दमा रभ॒सा  ॑
+> उदोजसः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्युत् महसः । नरः । अश्वदिद्यवः । वातत्विषः । मरुतः । पर्वत्यच्युतः ।  
+> अब्दया । चित् । मुहुः । आ । ह्रादुनिवृतः । स्तनयत् अमाः । रभसाः । उत्ओजसः ॥ ३ ॥
+
+**NOTE**
+
+### Printed p. 657
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्युन्महस इति तृतीया कारीर्यामेव द्वितीयस्याः पिंड्या याज्या ।
+> सूत्रितं च । विद्युन्महसो नरोऽश्मदिद्यवः कृष्णं नियानं हरयः सुपर्णाः । आ-२.
+> १३ । इति ॥
+> विद्युन्महसो विद्योतमानतेजसो नरो वृष्टा देर्नेतारोऽश्मदिद्यवो
+> व्याप्तायुधा अश्मसारमयायुधा वा वातत्विषः प्राप्तदीप्तयः पर्वतच्युतः पर्वतानां मेघानां वा च्यावयितारोऽब्दया चिन्मुहुरुदकानां दातारः ॥ शसो
+> याजादेशः । चिदिति पूरणः ॥ ह्रादुनीवृतो ह्रादुन्या अशनेः प्रवर्तकाः स्तनयदमाः । अमाशब्दः साहित्यवाची । शब्दोपेतगणा इत्यर्थः । रभसा वृष्ट्यर्थमुद्युंजाना उदोजस उद्धतबला मरुतो वृष्ट्यर्थं प्रादुर्भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This third Ṛk is the yājyā of the second piṇḍī in the same Kārīrī rite. It is laid down in the sūtra विद्युन्महसो नरोऽश्मदिद्यवः कृष्णं नियानं हरयः सुपर्णाः । (*vidyunmahaso naro 'śmadidyavaḥ kṛṣṇaṃ niyānaṃ harayaḥ suparṇāḥ |*) (Ā. Sū. 2-13). The Maruts are of shining brilliance, leaders who send the rain, with weapons far-reaching or made of the essence of stone, who have gained their splendour, who make the mountains, or the clouds, fall, and who repeatedly give waters. They set the thunderbolt in motion; they are accompanied by sound, the word meaning "together" here; that is, they are troops with noise. They strive together for the sake of rain and are of lofty strength; the sense is that the Maruts appear for the sake of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्युन्महसः (*vidyunmahasaḥ*)—possessed of the radiance of lightning
+- नरः (*naraḥ*)—leaders
+- अश्वदिद्यवः (*aśvadidyavaḥ*)—possessed of weapons in the form of stone
+- वातत्विषः (*vātatviṣaḥ*)—possessed of a brilliance of their own
+- पर्वतच्युतः (*parvatacyutaḥ*)—who split the cloud
+- मुहुः (*muhuḥ*)—again and again
+- अब्बया (*abbayā*)—who give water
+- ह्रादुन्याः (*hrādunyāḥ*)—who wield the thunderbolt
+- स्तनयदमाः (*stanayadamāḥ*)—who make noise together
+- रभसाः (*rabhasāḥ*)—who have gathered together for the sake of rain
+- उदोजसः (*udojasaḥ*)—possessed of exceeding strength
+- मरुतः (*marutaḥ*)—the Maruts (appear for the sake of rain)
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, possessed of the radiance of lightning, leaders, possessed of weapons in the form of stone and of a brilliance of their own, who split the cloud, who repeatedly give water, who wield the thunderbolt, who make noise together, who have gathered together, and who are possessed of exceeding strength, appear for the sake of rain.
+
+##### English translation
+The Maruts (appear) radiant with lightning, leaders (of the rain), armed with weapons of adamant, blazing with the wind, the precipitators of mountains, the repeated distributors of water, wielders of the thunder-bolt, roaring in concert, combining (to send rain), and of exceeding strength.
+
+### Printed p. 658
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Kārīrī rite, this Ṛk is to be used as the yājyā mantra in the second piṇḍa offering; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra विद्युन्महसो नरोऽत्मदिद्यवः कृष्णं नियानं हरयः सुपर्णाः (*vidyunmahaso naro 'tmadidyavaḥ kṛṣṇaṃ niyānaṃ harayaḥ suparṇāḥ*) (Ā. Sū. 2-13).
+
+चित् (*cit*): here the word has no particular meaning; the commentator says it is used to fill out the pāda. Yāska in his Nirukta gives its explanation:
+
+चिदित्येषोऽनेककर्मा । आचार्यश्चिदिदं ब्रूयादिति पूजायां । दधिचिदित्युपमार्थे । कुल्माषांश्चिदाहरेत्यवकुत्सिते । (*cidityeṣo 'nekakarmā | ācāryaścididaṃ brūyāditi pūjāyāṃ | dadhicidityupamārthe | kulmāṣāṃścidāharetyavakutsite |*) (Ni. 1-4)
+
+Having said that the particle चित् (*cit*) is used in many kinds of senses, he has given examples to support it. In the sentence आचार्यश्चिदिदं ब्रूयात् (*ācāryaścididaṃ brūyāt*) the word चित् (*cit*) is used in the sense of respect. In दधिचित् (*dadhicit*) it is used in the sense of comparison, and in कुल्माषांश्चित् (*kulmāṣāṃścit*) in the sense of disparagement; thus he has explained the meaning of the examples.
+
+स्तनयदमाः (*stanayadamāḥ*): the word अमा (*amā*) is read among the names of the house (Ni. 3-13 and 11-48). Here the commentator gives the sense "together". Therefore the word means those accompanied by sound, those accompanied by lightning and thunder. The idea is that while rain is pouring, the wind blows violently and with noise, and the sound of lightning and thunder is also heard.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य१॒ं॑क्तूनु॑द्रा॒ व्यहा॑नि शिक्वसो॒ व्य१॒॑गंतरि॑क्षं॒ वि रजां॑सि धूतयः।  
+> वि यदज्रौ॒ अज॑थ॒ नाव॑ ईं यथा॒ वि दु॒र्गाणि॑ मरुतो॒  
+> नाह॑ रिष्यत ॥ ४ ॥
+
+### Printed p. 659
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अक्तून् । रुद्राः । वि । अहानि । शिक्वसः । वि । अंतरिक्षं । वि । रजांसि । धूतयः ।  
+> वि । यत् । अज्रान् । अजथ । नावः । ईं । यथा । वि । दुःऽगानि । मरुतः । न ।  
+> अह । रिष्यध । ४ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुद्रा रुद्रपुत्रा मरुतः अक्तून् रात्रीर्व्यजथेत्युत्तरार्धगतेन संबध्यते ।
+> एवं सर्वत्रेति । क्षिपथेति तस्यार्थः । अहान्यपि व्यजथ । हे शिक्वसः शक्ताः सर्वमपि
+> कर्तुमंतरिक्षं व्यजथ । तथा रजांसि व्यजथ । हे धूतयः कंपका यद्यदाज्रान्मेघान्
+> व्यजथ गमयथ नाव ईं ता यथा समुद्रं तद्वत् दुर्गाणि शत्रुनगराणि व्यजथ हे
+> मरुतो नाह रिष्यथ । नैव हिंसथ ॥
+
+##### Gist of the bhāṣya
+
+O Rudras, sons of Rudra, O Maruts: the word for nights is to be connected with the verb of the second half of the verse, and so everywhere; the sense of the verb is "you throw". You throw the days also. O mighty ones, able to do everything, you throw the firmament; likewise the worlds. O shakers, when you drive the clouds, as boats are driven on the sea, so you break through the strongholds, the cities of the enemy. O Maruts, you do not harm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्राः (*rudrāḥ*)—O Maruts, sons of Rudra
+- अक्तून् (*aktūn*)—the nights
+- वि अजथ (*vi ajatha*)—you drive on
+- अहानि (*ahāni*)—the days
+- वि (*vi*)—you drive on
+- शिक्षसः (*śikṣasaḥ*)—being able to do everything**NOTE**
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- वि (*vi*)—you drive on
+- रजांसि (*rajāṃsi*)—all the worlds
+- वि (*vi*)—you drive on
+- धूतयः (*dhūtayaḥ*)—O Maruts, who make everything tremble
+- यत् (*yat*)—when
+- अज्रान् (*ajrān*)—the clouds
+- नाव ईं यथा (*nāva īṃ yathā*)—as one drives a boat over the sea
+- वि अजथ (*vi ajatha*)—you make them move (then)
+- दुर्गाणि (*durgāṇi*)—the cities of the enemy
+- वि (*vi*) (अजथ (*ajatha*))—you break through
+- मरुतः (*marutaḥ*)—O Maruts
+- नाह रिष्यथ (*nāha riṣyatha*)—you do not harm friends
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sons of Rudra, you drive on the days and nights, the firmament, and likewise all the worlds. O Maruts, who are all-powerful and who make everything tremble, when you make the clouds move as a boat is driven over the sea, then you break through the cities of the enemy. O Maruts, you do not harm friends. You also are not harmed.
+
+##### English translation
+Powerful Rudras, you urge on the nights and days, the firmament and the worlds: agitators (of all things), you toss the clouds like ships (in
+
+### Printed p. 660
+
+the sea), so (you throw down) the strong places (of the enemy); but, Maruts, you do no harm.
+
+##### विशेषविषयगळु (Special Topics)
+
+रुद्राः (*rudrāḥ*): the Maruts, sons of Rudra. Here the word Rudra itself is used to denote the sons of Rudra. The use of the father's name to indicate the sons is a special custom in the Ṛgveda. For example:
+
+देवेभिर्विप्रा ऋषयो नृचक्षसो वि पिबध्वं कुशिकाः सोम्यं मधु । (*devebhirviprā ṛṣayo nṛcakṣaso vi pibadhvaṃ kuśikāḥ somyaṃ madhu |*) (Ṛ. Saṃ. 3-53-10)
+
+सुदानुं देवं रथिरं वसूयवो गीर्भी रण्वं कुशिकासो हवामहे । (*sudānuṃ devaṃ rathiraṃ vasūyavo gīrbhī raṇvaṃ kuśikāso havāmahe |*) (Ṛ. Saṃ. 3-36-1)
+
+In these and other Ṛks the sons of Kuśika are denoted by the words कुशिकाः (*kuśikāḥ*) and कुशिकासः (*kuśikāsaḥ*).
+
+विद्याम वस्तोरवसा गृणंतो भरद्वाजा उत त इंद्र नूनं । (*vidyāma vastoravasā gṛṇaṃto bharadvājā uta ta iṃdra nūnaṃ |*) (Ṛ. Saṃ. 6.25-9)
+
+एवा नपातो मम तस्य धीभिर्भरदाजा अभ्यर्चंत्यर्कॆः । (*evā napāto mama tasya dhībhirbharadājā abhyarcaṃtyarkèḥ |*) (Ṛ. Saṃ. 6-50-15)
+
+In these and other Ṛks the sons or descendants of Bharadvāja are addressed by the word भरद्वाजाः (*bharadvājāḥ*).
+
+नू त्वामग्न ईमहे वसिष्ठा ईशानं सूनो सहसो वसूनां । (*nū tvāmagna īmahe vasiṣṭhā īśānaṃ sūno sahaso vasūnāṃ |*) (Ṛ. Saṃ. 7-7-7)
+
+वसिष्ठासः पितृवद्वाचमक्रत देवा ईळाना ऋषिवत् स्वस्तये । (*vasiṣṭhāsaḥ pitṛvadvācamakrata devā īḷānā ṛṣivat svastaye |*) (Ṛ. Saṃ. 10-66-15)
+
+In these and other Ṛks the sons of Vasiṣṭha are called by the words वसिष्ठाः (*vasiṣṭhāḥ*) and वसिष्ठासः (*vasiṣṭhāsaḥ*).
+
+रजांसि (*rajāṃsi*): रजो रज्यतेर्ज्योती रज उच्यते उदकं रज उच्यते । लोका रजांस्युच्यंते । (*rajo rajyaterjyotī raja ucyate udakaṃ raja ucyate | lokā rajāṃsyucyaṃte |*) (Ni. 4-19). Derived from the root रंज् (*raṃj*), which gives the sense "shine", the word रजस् (*rajas*) comes to mean light, water, and the worlds.
+
+रजांसि चित्रा वि चरंति तन्यवो दिनः सम्राजा पयसा न उक्षतं । (*rajāṃsi citrā vi caraṃti tanyavo dinaḥ samrājā payasā na ukṣataṃ |*) (Ṛ. Saṃ. 5-63-5)
+
+### Printed p. 661
+
+Citing this Ṛk, the Niruktakāras have said that the word रजांसि (*rajāṃsi*) means the worlds. In the 44th section of the 10th chapter of the Nirukta, in explaining the Ṛk
+
+अब्बामुक्थैरहिं गृणीषे बुद्धे नदीनां रजस्सु षीदन् (*abbāmukthairahiṃ gṛṇīṣe buddhe nadīnāṃ rajassu ṣīdan*) (Ṛ. Saṃ. 7-34-16)
+
+they say that the word रजस्सु (*rajassu*) means उदकेषु (*udakeṣu*), in waters; and in the 7th section of the 12th chapter, in explaining the Ṛk
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*) (Ṛ. Saṃ. 1-92-1)
+
+they have interpreted रजसः (*rajasaḥ*) as the firmament.
+
+त्रीणि भांति रजांस्यस्य यत्सदानि तु तेजसा । (*trīṇi bhāṃti rajāṃsyasya yatsadāni tu tejasā |*)
+
+The author of the Bṛhaddevatā, describing Viṣṇu's striding over the three worlds, has used the word रजांसि (*rajāṃsi*) as a synonym of the three worlds. The words रजः (*rajaḥ*) and रजांसि (*rajāṃsi*) in general are synonyms of the word for world. But in the Ṛks
+
+यन्मा सोमासो ममदन्यदुक्कोभे भयेते रजनी अपारे (*yanmā somāso mamadanyadukkobhe bhayete rajanī apāre*) (Ṛ. Saṃ. 4-42-6)
+
+and others, the word is in the dual, and the technical sense of Heaven and Earth is what is stated.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वी॒र्यं॑ वो मरुतो महित्व॒नं दी॒र्घं त॑तान॒ सूर्यो॒  ॑
+> न योजनं ।  
+> एता॒ न यामे॒ अगृ॑भीतशोचि॒षोऽन॑श्वदां॒ यन्नया॑तना  ॒
+> गिरिं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वीर्यं । वः । मरुतः । महित्वनं । दीर्घं । ततान । सूर्यः । न ।  
+> योजनं ।  
+> एताः । न । यामे । अगृभीतशोचिषः । अनश्वदां । यत् । नि । अयातन । गिरिं ॥
+
 ---
 
-**Progress note:** Done through printed p. 655. Sukta 53 Rks 14-15 end, Sukta 54 Rks 1-2
+**Progress note:** Done through printed p. 661. Sukta 54 Rk 2 end, Rks 3-4, Rk 5 text
