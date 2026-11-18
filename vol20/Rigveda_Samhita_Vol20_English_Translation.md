@@ -9142,6 +9142,248 @@ I adore you, irresistible deities, for (the sake of obtaining) horses : you who 
 
 "Thus", that is, in the manner in which it is now being done, with praise. By Indra and Agni the oblation was given up, that is, offered. What kind of oblation? Strength-giving. Like what? Like the Soma juice, pressed and purified with the stones, that is, the pressing-stones, as if it were ghṛta **NOTE**. As it is given to you both
 
+### Printed p. 248
+
+> तद्वच्चरुपुरोडाशादिकमपि । ता तौ देवौ सूरिषु मेधाविष्टस्मासु बृहत् प्रभूतं
+> श्रवोऽन्नं यशो वा रयिं धनं च दिधृतं । धारयतं । इषमन्नं गृणत्तु स्तुवत्सु
+> दिधृतं । पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+"So too" the cooked offering (caru), the cake (puroḍāśa) and the rest. Those two gods, Indra and Agni, are asked to bestow on us, the wise ones who praise them, abundant food or fame, and wealth: "may you hold" (दिधृतं (*didhṛtaṃ*)), that is, "may you bear it". Food too, for those who praise: "may you hold". The repetition is for the sake of respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिभिः (*adribhiḥ*)—by the crushing stones
+- पूतं (*pūtaṃ*)—pressed out
+- धृतं न (*dhṛtaṃ na*)—like Soma juice
+- शूष्यं (*śūṣyaṃ*)—strength-giving
+- हव्यं (*havyaṃ*)—the oblation
+- इंद्राग्निभ्यां (*iṃdrāgnibhyāṃ*)—addressed to Indra and Agni together
+- एव (*eva*)—according to the prescribed rite
+- अहावि (*ahāvi*)—has been offered
+- ता (*tā*)—those same gods
+- सूरिषु (*sūriṣu*)—in us, who are wise
+- गृणत्सु (*gṛṇatsu*)—and who praise them
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- रयिं (*rayiṃ*)—wealth
+- दिधृतं (*didhṛtaṃ*)—may they fill up
+- गृणत्सु (*gṛṇatsu*)—for those who praise them
+- इषं (*iṣaṃ*)—food
+- दिधृतं (*didhṛtaṃ*)—may they fill (it) up
+
+##### भावार्थ (Bhāvārtha)
+
+An oblation, powerful like the Soma juice pressed out by the stones that crush and press the Soma plants, has been offered addressed to Indra and Agni together. May those same gods fill up abundant food and wealth in us, who are wise and who praise them. May they fill up food for those who praise them.
+
+##### English translation
+The invigorating oblation has been offered, like the Soma-juice expressed by the sounding stones : bestow food upon the pious; great riches upon those who praise you: bestow food also upon those who praise you.
+
+## Sūkta 87 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो मह इति नवर्चं पंचदशं सूक्तमेवयामरुदाख्यस्यात्रेयस्य
+> मुनेरार्षं मरुद्देवताकमतिजगतीच्छंदस्कं । तथा चानुक्रमणिका । प्र वो
+> नवैवयामरुन्मारुतमतिजागतमिति ॥ दशरात्रे षष्ठेऽहनि तृतीयसवनेऽच्छावाकशस्त्र
+> इदं सूक्तं । सूत्रितं च । एवयामरुदुक्तो वृषाकपिना । आ. ८-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र वो मह (*pra vo maha*) has nine Ṛks and is the fifteenth sūkta. The seer is the sage named Evayāmarut, of the Atri family; the deity is the Maruts; the metre is Atijagatī. The Anukramaṇikā says: प्र वो नवैवयामरुन्मारुतमतिजागतमिति (*pra vo navaivayāmarunmārutamatijāgatamiti*). In the Daśarātra, on the sixth day, at the third pressing, this sūkta is used in the Acchāvāka's śastra. It is also given by the sūtra: एवयामरुदुक्तो वृषाकपिना (*evayāmarudukto vṛṣākapinā*), Ā. 8-4.
+
+### Printed p. 249
+
+##### Anuvāda
+
+This sūkta beginning प्र वो महे (*pra vo mahe*) is the fifteenth sūkta in the sixth anuvāka. It contains nine Ṛks. The seer of this sūkta is Evayāmarut, born in the Atri family; the deities are the Maruts; the metre is Atijagatī. In the Anukramaṇikā it is said: प्र वो नवैवयामरुन्मारुतमतिजागतं (*pra vo navaivayāmarunmārutamatijāgataṃ*). The use of this sūkta is in the śastra-mantras recited by the priest called Acchāvāka at the third pressing on the sixth day of the sacrifice called Daśarātra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, एवयामरुदुक्को वृषाकपिना (*evayāmarudukko vṛṣākapinā*) (Ā. 8-4). **NOTE**
+
+##### Particulars of the sūkta
+
+Sūkta 87. Maṇḍala 5; Anuvāka 6; Aṣṭaka 4; Adhyāya 4; Varga 33, 34. Number of Ṛks in the sūkta: 9. Seer: Evayāmarut Ātreya. Deity: the Maruts. Metre: Atijagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ म॒हे म॒तयो॑ यंतु॒ विष्ण॑वे म॒रुत्व॑ते गिरि॒जा  ॒॑॑
+> एवयामरुत् ।  
+> प्र शर्धा॑य॒ प्रय॑ज्यवे सुखा॒दये॑ त॒वसे॑ भं॒ददि॑ष्टये॒  
+> धुनि॑व्रताय॒ शव॑से ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । महे । मतयः । यंतु । विष्णवे । मरुत्वते । गिरिजाः । एवयामरुत् ।  
+> प्र । शर्धाय । प्रयज्यवे । सुखादये । तवसे । भंदत् इष्टये । धुनिव्रताय ।  
+> शवसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र यंतु प्रगच्छंतु गिरिजा वाचि निष्पन्ना मतयः स्तुतयः । कस्मै वस्तुभ्यं ॥
+> वचनव्यत्ययः ॥ विष्णवे न्याप्तायेंद्राय विष्णवे ना मरुत्वते मरुद्भिस्तद्वते ।
+
+##### Gist of the bhāṣya
+
+"Let them go forth" (प्र यंतु (*pra yaṃtu*)): let the praises (मतयः (*matayaḥ*)), born in speech (गिरिजा (*girijā*)), go forth. To whom? The text reads वस्तुभ्यं (*vastubhyaṃ*), and he notes a change of number. **NOTE**. To Viṣṇu, that is, the all-pervading Indra; to him who is accompanied by the Maruts.
+
+### Printed p. 250
+
+> कस्य स्तुतय इत्युच्यते । एवयामरुत् एतन्नामकस्य ऋषेः ॥ षष्ट्या लुक् ॥
+> अथवायमृषिगिरिजाः स्तुतेर्जनयिता भवति । उत्तरार्धे मरुत्तुतिः । किंच प्र
+> यंतु स्तुतयः । कस्मै । शर्धाय बलाय मारुताय । इतरत्सर्वं बलविशेषणं ।
+> प्रयज्यवे प्रकर्षण यष्टव्याय सुखादये शोभनाभरणाय । खादिराभरणविशेषः । हस्तेषु खादिश्च । ऋग्वे. १-१६८-३ । पत्सु खादयः । ऋग्वे. ५-५४-११ ।
+> इति च श्रुतेः । तवसे बलवते भंददिष्टये । स्तुतिरूपेष्टिर्यस्य तद्बंधदिष्ठि । तस्मै
+> ध्रुनिव्रताय मेघानां चालनं कर्म यस्य तादृशाय शवसे गमनवते ॥
+
+##### Gist of the bhāṣya
+
+Of whom are the praises? It is said: of the seer named Evayāmarut; the genitive ending is dropped. Or else, this seer is the producer of the speech-born praises; in the second half there is praise of the Maruts. Moreover, let the praises go forth to strength (शर्धाय (*śardhāya*)), that is, to the strength of the Maruts; the other words are all epithets of strength. प्रयज्यवे (*prayajyave*): to the one to be worshipped most excellently. सुखादये (*sukhādaye*): with beautiful ornaments; खादि (*khādi*) is a special ornament. As the Śruti says: "On their hands are khādis" (Ṛgve. 1-168-3) **NOTE**, and "on their feet khādis" (Ṛgve. 5-54-11). तवसे (*tavase*): to the powerful. भंददिष्टये (*bhaṃdadiṣṭaye*): he whose desired offering is praise; to him. ध्रुनिव्रताय (*dhrunivratāya*): to such a one whose work is to set the clouds in motion. शवसे (*śavase*): to the swift-going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- एवया मरुत् (*evayā marut*)—of the seer Evayāmarut
+- गिरिजाः (*girijāḥ*)—born of speech
+- मतयः (*matayaḥ*)—praises
+- महे (*mahe*)—to the great one
+- मरुत्वते (*marutvate*)—who is accompanied by the Maruts
+- विष्णवे (*viṣṇave*)—the all-pervading
+- वः (*vaḥ*)—to you
+- प्र यंतु (*pra yaṃtu*)—let them be offered with fullness
+- प्र यज्यवे (*pra yajyave*)—the most worthy of worship
+- सुखादये (*sukhādaye*)—who has excellent ornaments
+- तवसे (*tavase*)—the powerful
+- भंददिष्टये (*bhaṃdadiṣṭaye*)—who has a sacrifice in the form of praise
+- धुनिव्रताय (*dhunivratāya*)—who makes the clouds move
+- शवसे (*śavase*)—the swift-moving
+- शर्धाय (*śardhāya*)—addressed to the host of the Maruts
+- प्र (*pra*) (यंतु (*yaṃtu*))—let them go forth and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the praises of the seer Evayāmarut, made of speech, be offered with fullness to you, who are great, accompanied by the Maruts, all-pervading; and may these praises go forth and reach the host of the Maruts, which is most worthy of worship, has excellent ornaments, is powerful, has a sacrifice in the form of praise, makes the clouds move, and is swift-moving.
+
+##### English translation
+May the voice-born praises of Evayamarut reach you, Vishnu, attended by the Maruths : (may they reach) the strong, the adorable, the brilliantly-adorned, the vigorous, praise-loving, cloud-scattering, quick-moving company of the Maruts.
+
+#### Ṛk 2
+
+### Printed p. 251
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये जा॒ता म॑हि॒ना ये च॒ नु स्व॒यं प्र वि॒द्मना॑ ब्रु॒वत॑  ॒॑
+> एव॒याम॑रुत् ।  
+> क्रत्वा॒ तद्वो॑ मरुतो॒ नाधृषे॒ शवो॑ दा॒ना म॒ह्ना तदे॑षा॒मधृ॑ष्टासो॒ नाद्र॑यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । जाताः । महिना । ये । च । नु । स्वयं । प्र । विद्मना । ब्रुवते । एवयामरुत् ।  
+> क्रत्वा । तत् । वः । मरुतः । न । आधृषे । शवः । दाना । महा । तत् । एषां ।  
+> अधृष्टासः । न । अद्रयः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये महिना महता विष्णुनेंद्रेण वा सह प्र जाताः प्रादुर्भूतास्तान्ब्रुवते।
+> ये च नु क्षिप्रं स्वयमेव विद्मना यज्ञगमनविषयज्ञानेन सह प्र जाताः प्रादुर्भूतास्मान्मरुत एवयामरुद्ब्रुवते । स्तौति ॥ प्रेत्ययमाख्यातेन वा संबंधनीयः । ब्रुवत इति व्यत्ययेन बहुवचनं । एकवचने वा छांदसः शः । निघाताभावश्चांदसः ॥ अथ प्रत्यक्षवादः । हे मरुतो वो युष्माकं तत्पसिद्धं शवो बलं
+> क्रत्वा चालनादिरूपेण कर्मणा युक्तं नाधृषे । कैश्चिदप्याधर्षणीयं न भवति ।
+> अन्येषामसुरादीनां क्रत्वा कर्मणा वानभिभाव्यं भवति ॥ कृत्यार्थे केन्॥ किंचैषां
+> वो तत् बलं दानाभिमतदानेन मह्ना महत्त्वेन चोपेतं । यूयं प्रबलाः ।
+> अधृष्टासोऽधर्षणीयाः । तत्र दृष्टांतः । अद्रयो न । ते यथाधृष्यास्तद्विद्यूयमपि ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who were born (प्र जाताः (*pra jātāḥ*)) together with the great (महिना (*mahinā*)) Viṣṇu or Indra, that is, appeared: Evayāmarut praises them (ब्रुवते (*bruvate*)). And those who, quickly and of themselves, were born together with knowledge (विद्मना (*vidmanā*)) of the going to the sacrifice, he praises. The word प्र (*pra*) is to be construed with the verb. The plural in ब्रुवत (*bruvata*) is by change of number; or, if singular, the ending is Vedic. The absence of the accent-lowering is Vedic. Now a direct address: O Maruts, that well-known strength (शवः (*śavaḥ*)) of yours, joined with action (क्रत्वा (*kratvā*)) such as setting in motion, cannot be assailed (नाधृषे (*nādhṛṣe*)) by anyone; it is not to be overcome by the action of other beings such as the Asuras. The ending केन् (*ken*) is in the sense of fitness. Moreover, that strength of yours is endowed with gifts (दाना (*dānā*)), the bestowal of what is desired, and with greatness (मह्ना (*mahnā*)). You are mighty and unassailable; the example is the mountains (अद्रयो न (*adrayo na*)): as they are not to be assailed, so are you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those Maruts who
+- महिना (*mahinā*)—together with the great Indra
+- प्र जाताः (*pra jātāḥ*)—were born
+- ये च (*ye ca*)—and those who
+- नु (*nu*)—quickly
+- स्वयं (*svayaṃ*)—of themselves
+- विद्मना (*vidmanā*)—having knowledge of the going to the sacrifice
+- प्र (*pra*) (जाताः (*jātāḥ*))—were born; such Maruts
+- एवयामरुत् (*evayāmarut*)—the seer Evayāmarut
+- ब्रुवते (*bruvate*)—praises
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+
+### Printed p. 252
+
+- तत् (*tat*)—that well-known
+- शवः (*śavaḥ*)—strength
+- क्रत्वा (*kratvā*)—joined with extraordinary actions
+- न आदृषे (*na ādṛṣe*)—remains unassailed
+- एषां (*eṣāṃ*)—your
+- तत् (*tat*)—that same strength
+- दाना (*dānā*)—joined with the bestowal of what is desired
+- मह्ना (*mahnā*)—and with greatness
+- अद्रयो न (*adrayo na*)—like mountains
+- अधृष्टासः (*adhṛṣṭāsaḥ*)—remain without movement (they remain firm)
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts who were born together with the great Indra, who quickly and of themselves were born with the going to the sacrifice: such Maruts the seer Evayāmarut praises. O Maruts, your well-known strength, joined with extraordinary actions, remains unassailed. That same strength of yours, joined with the bestowal of what is desired and with greatness, remains unmoved like mountains.
+
+##### English translation
+Evayamarut glorifies those who are manifested with the great (Indra), who appear spontaneously and speedily with the knowledge (that the sacrifice is prepared) : your strength in action, Maruts, is not to be resisted, (though qualified) by (your) infinite liberality : you are immoveable as mountains.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये दि॒वो बृ॑ह॒तः शृ॑ण्वि॒रे गि॒रा सु॒शुक्वा॑नः सु॒भ्व॑ एव॒याम॑रुत् ।  
+> न येषा॒मिरी॑ स॒धस्थ॒ ईष्ट॒ आ अ॒ग्नयो॒ न स्ववि॑द्युतः॒ प्रस्यं॒द्रासो॒ धुनी॑नां ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । दिवः । बृहतः । शृण्विरे । गिरा । सुशुक्वानः । सुभ्वः । एवयामरुत् ।  
+> न । येषां । इरी । सधस्थे । ईष्टे । आ । अग्नयः । न । स्वविद्युतः । प्र । स्यंद्रासः ।  
+> धुनीनां ॥ ३ ॥
+
+### Printed p. 253
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो बृहतो दिवो द्युलोकादागच्छंतः प्र शृण्विरे शृण्वंति
+> तान्मरुतो गिरैवयामरुत्सुतवान् । कीदृशास्ते । शुशुक्वानो दीप्ताः सुभ्वः सुष्टु
+> भवंतः । येषां मरुतां सधस्थे सहस्थाने स्वकीये निवासे तिष्ठतामिरीरिता प्रेरिता
+> नेष्ट आ । नेशते च चालयितुं । आ इति जार्थे । अग्नयो न अग्नय इव स्वविद्युतः
+> स्वयमेव विद्योतमाना धुनीनां नदीनां स्यंद्रासो वर्षणेन चालयितारश्च ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, coming from the vast (बृहतः (*bṛhataḥ*)) heaven (दिवः (*divaḥ*)), the world of heaven, are heard (शृण्विरे (*śṛṇvire*)), they are praised by Evayāmarut with his speech (गिरा (*girā*)). What are they like? Shining (शुशुक्वानः (*śuśukvānaḥ*)), and well-being (सुभ्वः (*subhvaḥ*)). In the common dwelling (सधस्थे (*sadhasthe*)), their own abode, of those Maruts, no one, no impeller (इरी (*irī*)), is able to disturb them or to set them in motion; आ (*ā*) is in the sense of "and". They are like fires (अग्नयो न (*agnayo na*)), self-radiant (स्वविद्युतः (*svavidyutaḥ*)), shining of themselves; and they are the impellers (स्यंद्रासः (*syaṃdrāsaḥ*)) of the rivers (धुनीनां (*dhunīnāṃ*)) by raining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषां (*yeṣāṃ*)—of which Maruts
+- सदस्ये (*sadasye*)—in the house
+- इरी (*irī*)—the hero who would make them move
+- आ न ईष्टे (*ā na īṣṭe*)—no one is able (and which Maruts)
+- अग्नयो न (*agnayo na*)—like fires
+- स्वविद्युतः (*svavidyutaḥ*)—self-radiant
+- धुनीनां (*dhunīnāṃ*)—of the rivers (for the flow)
+- स्यंद्रासः (*syaṃdrāsaḥ*)—become the impellers (and)
+- ये (*ye*)—which Maruts
+- बृहतः (*bṛhataḥ*)—from the vast
+- दिवः (*divaḥ*)—heaven, coming
+- प्र शृण्वरे (*pra śṛṇvare*)—hear our praises, such
+- शुशुक्वानः (*śuśukvānaḥ*)—who shine exceedingly
+- सुभ्वः (*subhvaḥ*)—and are extraordinary
+- एवयामरुत् (*evayāmarut*)—the seer Evayāmarut
+- गिरा (*girā*)—praises with his praises
+
+##### भावार्थ (Bhāvārtha)
+
+In whose house no hero who would make them move is able to do so, and who, like fires, are the impellers of the flow of the self-radiant rivers, and who, coming from the vast heaven, hear our praises: such Maruts, shining exceedingly and extraordinary, the seer Evayāmarut praises with his praises.
+
+##### English translation
+Evayamarut glorifies with praise those who, (coming) brilliant and happy from the vast heaven, hear (his invocation); in whose dwelling there is no one able to disturb them, and, who, like self-radiant fires, are the impellers of the rivers.
+
 ---
 
-**Progress note:** Done through printed p. 247. Sūkta 86 (Indra-Agni) Ṛk 1-5 and start of Ṛk 6
+**Progress note:** Done through printed p. 253. Sūkta 86.6 end; Sūkta 87 Ṛks 1-3
