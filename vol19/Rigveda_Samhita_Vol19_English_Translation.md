@@ -23230,6 +23230,226 @@ In this Ṛk the chariot of the Marut deities is praised. जीरदानव�
 
 In the Kārīrī (कारीर्यां (*kārīryāṃ*)) three balls (पिंड्यो (*piṃḍyo*)) are to be offered. Among them, for the second, आ यं नर (*ā yaṃ nara*) is the anuvākyā. And it is laid down in the sūtra: आ यं नरः सुदानवो ददाशुषे विद्युन्महसो नरो अश्वदिद्यवः । (*ā yaṃ naraḥ sudānavo dadāśuṣe vidyunmahaso naro aśvadidyavaḥ |*) (A-2-13)**NOTE**. The leaders (नरः (*naraḥ*)), the Maruts of good gifts (सुदानवः (*sudānavaḥ*)), cause to fall (आच्यावयंति (*ācyāvayaṃti*)) from heaven, from the atmosphere, for the sacrificer who has offered the oblation (ददाशुषे (*dadāśuṣe*)), the cloud (कोशं (*kośaṃ*), a name of the cloud), which holds the waters like a store; the cloud (पर्जन्यं (*parjanyaṃ*)) they release; following heaven and earth (रोदसी (*rodasī*))
 
+### Printed p. 638
+
+> वि सृजंति । विनोक्षयंति । पश्चात् धन्वना सर्वत्र गच्छतोदकेन सह वृष्टयो
+> वृष्टिप्रदा मरुतो यंति । सर्वत्र न्याप्रुवंति ॥
+
+##### Gist of the bhāṣya
+
+They release (वि सृजंति (*vi sṛjaṃti*); विनोक्षयंति (*vinokṣayaṃti*)**NOTE**). Afterwards the Maruts, the givers of rain, go along with water that moves everywhere; they pervade everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders of the rains
+- सुदानवः (*sudānavaḥ*)—the Maruts, excellent givers
+- यं कोशं (*yaṃ kośaṃ*)—the cloud that preserves the water like a store
+- ददाशुषे (*dadāśuṣe*)—for the sacrificer who offers oblations
+- दिवः (*divaḥ*)—from the atmosphere
+- आ अचुच्यवुः (*ā acucyavuḥ*)—they make it come down
+- पर्जन्यं (*parjanyaṃ*)—the cloud
+- रोदसी अनु (*rodasī anu*)—so as to pervade heaven and earth wholly
+- वि सृजंति (*vi sṛjaṃti*)—they loosen and let go
+- वृष्टयः (*vṛṣṭayaḥ*)—the Maruts, givers of rain
+- धन्वना (*dhanvanā*)—with the waters that spread everywhere
+- यंति (*yaṃti*)—they travel
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, leaders of the rains and excellent givers, make the cloud, which preserves the water like a store, come down from the atmosphere for the sacrificer who offers oblations. They loosen and let go the cloud so that it pervades heaven and earth wholly. The same Maruts, givers of rain, travel with the waters that spread everywhere.
+
+##### English translation
+Leaders (of the rain', munificent givers, they cause that which is the treasury (of water) to fall from the sky for (the benefit of) the donor (of the offering): they let loose the rain cloud, and the shedders of rain spread (everywhere) with (abundant) water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Kārīrī three balls are to be offered in the fire. It is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, आ यं नरः सुदानवो ददाशुषे विद्युन्महसो नरो अश्वदिद्यवः (*ā yaṃ naraḥ sudānavo dadāśuṣe vidyunmahaso naro aśvadidyavaḥ*) (Ā. 2.13), that in the second offering this Ṛk आ यं नरः (*ā yaṃ naraḥ*) is to be recited as the anuvākyā mantra.
+
+दिवः कोशं (*divaḥ kośaṃ*): the word कोश (*kośa*) is included among the thirty names of the cloud (Ni. 2-21). Yāska, giving the explanation of this word, has quoted the Ṛk
+
+प्रीणीताश्वान् हितं जयाथ स्वस्तिवाहं रथमित्कृणुद्ध्वं । द्रोणाहावमवतमश्मचक्रमंसत्रकोशं सिंचता नृपाणं ॥ (*prīṇītāśvān hitaṃ jayātha svastivāhaṃ rathamitkṛṇuddhvaṃ | droṇāhāvamavatamaśmacakramaṃsatrakośaṃ siṃcatā nṛpāṇaṃ ‖*) (Ṛ. Saṃ. 10.101-7)
+
+### Printed p. 639
+
+and for the word अंगत्रकोशं (*aṃgatrakośaṃ*)**NOTE** that stands there he has said:
+
+अंसत्राणि वः कोशस्थानीयानि संतु कोशः कुष्णातेर्विकुषितो भवति । आयमपीतरः कोश एतस्मादेव संचय अचितमात्रो महान्भवति ॥ (*aṃsatrāṇi vaḥ kośasthānīyāni saṃtu kośaḥ kuṣṇātervikuṣito bhavati | āyamapītaraḥ kośa etasmādeva saṃcaya acitamātro mahānbhavati ‖*) (Ni. 5-26)
+
+The word कोश (*kośa*) is formed from the root meaning "to draw". The meaning may be a leather bag containing many things, which are drawn out, as water is drawn or bailed out of a well. Just as water is stored in a well, so many things are stored in the bag called कोश (*kośa*) (a leather bag), as arrows are in a quiver. Just as arrows are drawn out of the quiver one by one, so by taking out the things that are in the कोश (*kośa*) (bag), the place where things are collected has received the name कोश (*kośa*). Therefore it is the custom to call a cloud in which water is collected, and any other place where other things are collected (Collected) (Store-house), a कोश (*kośa*). Here दिवः कोशं (*divaḥ kośaṃ*) means the mass of clouds gathered together in the atmosphere. The idea is that the Marut deities scatter them and make the waters that are in them fall down.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त॒तृ॒दा॒नाः सिंध॑वः॒ क्षोद॑सा॒ रजः॒ प्र स॑सुर्धे॒नवो॑ यथा ।  
+> स्य॒न्ना अश्वा॑ इ॒वाध्व॑नो वि॒मोच॑ने॒ वि यद्वर्तं॑त ए॒न्यः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ततृदानाः । सिंधवः । क्षोदसा । रजः । प्र । सस्रुः । धेनवः । यथा ।  
+> स्यन्नाः । अश्वाः इव । अध्वनः । विमोचने । वि । यत् । वर्तंते । विन्यः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधवः स्यंदमाना अपस्ततृदाना निर्भिंदंतो मेघान्मरुतः क्षोदसोदकेन
+> सह रजोऽंतरिक्षं प्रसस्रुः । प्रसरंति । धेनवो यथा पयः सिंचंत्यो नवप्रसूता
+> गाव इव । किंच दृष्टांतांतरं । स्यन्ना आशुगतयोऽश्वा इव यथाध्वनो विमोचने
+
+### Printed p. 640
+
+> मनुष्याणामध्वविमोकाय संचरंति तथेत्यर्थः ॥ यद्यदैन्यः । नदीनामैतत् ।
+> नद्यो वि वर्तंते विविधं संचरंति । अथवा प्रतिनिवृत्य वर्तंते । प्रवर्धंत इत्यर्थः !
+> तदैनं कुर्वंतीति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+The flowing waters (सिंधवः (*siṃdhavaḥ*)), splitting the clouds (ततृदानाः (*tatṛdānāḥ*)), the Maruts, spread (प्रसरंति (*prasaraṃti*)) with the water (क्षोदसा (*kṣodasā*)) through the atmosphere (रजः (*rajaḥ*)), like cows that have newly calved and pour out milk. And there is another illustration: as swift-moving horses on the road, at the release (विमोचने (*vimocane*)), run about for the release of men from the journey, so it is: this is the meaning. When the rivers (एन्यः (*enyaḥ*), a name of rivers) move variously, or turn back and flow on, that is, swell, then they do this: so the connection with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवो यथा (*dhenavo yathā*)—as cows pour out and spread milk
+- ततृदानाः (*tatṛdānāḥ*)—the Maruts who split the cloud
+- क्षोदसा (*kṣodasā*)—filled with water
+- सिंधवः (*siṃdhavaḥ*)—the streams
+- प्र सस्रुः (*pra sasruḥ*)—they caused to spread everywhere
+- अध्वनः (*adhvanaḥ*)—on the roads
+- विमोचने (*vimocane*)—let loose freely
+- स्यन्नाः (*syannāḥ*)—swift-going
+- अश्वा इव (*aśvā iva*)—like horses
+- एन्यः (*enyaḥ*)—the rivers
+- यत् (*yat*)—at the very time when
+- वि वर्तंते (*vi vartaṃte*)—flow freely in all places
+
+##### भावार्थ (Bhāvārtha)
+
+As cows pour out and spread milk, the Maruts who split the cloud caused the streams filled with water to spread everywhere. And like swift-going horses let loose freely on the road, the rivers also, at the same time, flow freely everywhere.
+
+##### English translation
+The gliding (torrents), issuing (from the clouds), overspread the firmament with water, as milch-cows (yield milk), and like rapid horses let loose upon the road, the rivers rush in various directions.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Marut deities split the clouds and make their water fall upon the earth; it is described in this Ṛk that those waters become river streams and flow swiftly. As to what the swift streams are like, the seer has given two illustrations. धेनवो यथा । नवप्रसूता गाव इव । (*dhenavo yathā | navaprasūtā gāva iva |*). As cows that have newly calved pour out (give) milk to their heart's content, so the river streams flow full of abundant water: this is one illustration. अध्वनः विमोचने स्यन्ना अश्वाइव (*adhvanaḥ vimocane syannā aśvāiva*). आशुगतय अश्वाः मनुष्याणामध्वनिमोकाय यथा संचरंति तथेत्यर्थः । (*āśugataya aśvāḥ manuṣyāṇāmadhvanimokāya yathā saṃcaraṃti tathetyarthaḥ |*). When men urge swift-running horses to run quickly on the road, those horses, which by nature are swift in going, run at very great speed on the road at the urging of men; as they do, so the river streams flow with very great speed: this is the other illustration. Of these two
+
+### Printed p. 641
+
+illustrations, by the illustration of the cows it is described here that the waters in the streams of the rivers are abundant, and by the second illustration, of the horses, that those river streams move (flow) with very great speed.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑त मरुतो दि॒न आंतरि॑क्षाद॒वादु॒त ।  
+> माव॑ स्थात परा॒वतः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यात । मरुतः । दिवः । अ । अंतरिक्षात् । अमात् । उत ।  
+> मा । अव । स्थात । परावतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः परावतोऽत्यंतदूरदेशात् दिवो द्युलोकादा यात । तथांतरिक्षादा यात । उतापि चामादस्माल्लोकादा यात। परावत इत्यत्रापि ना योज्यं।
+> परावतो दूरदेशे तत्र तत्र द्युलोकादौ माव स्थात । अवस्थितिं मा कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, come from heaven, from the world of heaven, from a very distant region (परावतः (*parāvataḥ*)). In the same way come from the atmosphere. And come also from this world here (अमात् (*amāt*)). The word परावतः (*parāvataḥ*) is to be construed here also**NOTE**. In the distant region, there and there, in the world of heaven and so on, do not stay (माव स्थात (*māva sthāta*)): do not make a stay there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- परावतः (*parāvataḥ*)—from the very distant region
+- दिवः (*divaḥ*)—from the world of heaven
+- आ यात (*ā yāta*)—come
+- अंतरिक्षात् (*aṃtarikṣāt*)—from the atmosphere
+- आ (*ā*) (यात (*yāta*))—come
+- उत (*uta*)—or
+- अमात् (*amāt*)—even though you are on this earth (come)
+- परावतः (*parāvataḥ*)—remaining only in very distant regions
+- मा अव स्थात (*mā ava sthāta*)—do not remain standing
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, come to us from the very distant world of heaven, or from the atmosphere, or from the earth. Do not remain standing in heaven and the other regions that are far away from us.
+
+##### English translation
+Come, Maruts, from heaven, from the firmaments, or from this (earth); tarry not far off.
+
+### Printed p. 642
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that the Marut deities pervade all three places, the earth, the atmosphere and heaven. That is, the idea is that the Marut deities travel in all three worlds.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा वो॑ र॒सानि॑तभा॒ कुभा॒ क्रुमु॒र्मा नः॒ सिंधु॒र्नि री॑रमत् ।  
+> मा नः॒ परि॑ स्थात्स॒रयुः॑ पुरी॒षिण्य॒स्मे इत्सु॒म्नम॑स्तु वः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । वः । रसा । अनितभा । कुभा । क्रुमुः । मा । वः । सिंधुः । नि । रीरमत् ।  
+> मा । वः । परि । स्थात् । सरयुः । पुरीषिणी । अस्मे इति । इत् । सुम्मं । अस्तु । वः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्मान् रसा । नदीनामैतत् । रसा नदी भवति । नि-११.२५ ।
+> इति निरुक्तं । रसनवती शब्दवती । अनितभा । इता प्राप्ता भा यस्माः सेतभा । न
+> तादृश्यनितभा । कुभा कुत्सितदीप्तिश्च मा नि रीरमत् मा निकृष्टं रमतु । क्रुमुः
+> सर्वत्रक्रमणः सिंधुः समुद्रश्च मा नि रीरमत् । तथा पुरीषिणी । पुरीषमुदकं ।
+> तद्वती सरयुरपि मा परि ष्ठात् । परितस्तिष्ठतु । मा: निरुणद्दु । अस्मे इत् अस्मास्वेवास्तु सुम्मं त्वदागमनजनितं सुखं वो युष्माकं संबंधि युष्मत्स्वभूतं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, as to रसा (*rasā*): this is a name of rivers; the Nirukta says रसा नदी भवति (*rasā nadī bhavati*) (Ni. 11.25): the sounding river, the river with a noise. अनितभा (*anitabhā*): that of which the light has been attained is सेतभा (*setabhā*); one not of that kind is अनितभा (*anitabhā*). And कुभा (*kubhā*) is one of bad light. Let them not hinder (मा नि रीरमत् (*mā ni rīramat*); the sense is "let it not rest lowly"). क्रुमुः (*krumuḥ*) the all-moving, and सिंधुः (*siṃdhuḥ*) the ocean: let them not hinder. So also पुरीषिणी (*purīṣiṇī*): पुरीषमुदकं (*purīṣamudakaṃ*); the Sarayu too, possessing it, let it not stand around (मा परि ष्ठात् (*mā pari ṣṭhāt*)); let it not obstruct**NOTE**. To us alone may there be the happiness (सुम्मं (*summaṃ*)) born of your coming, belonging to you, existing in you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts)
+- रसा (*rasā*)—the river named Rasā
+- अनितभा (*anitabhā*)—the river called Anitabhā
+- कुभा (*kubhā*)—the river called Kubhā also
+- वः (*vaḥ*)—you
+- मा नि रीरमत् (*mā ni rīramat*)—let it not hinder
+- सिंधुः (*siṃdhuḥ*)—the ocean also
+- मा (*mā*)—let it not hinder
+- पुरीषिणी (*purīṣiṇī*)—full of water
+- सरयुः (*sarayuḥ*)—the river Sarayu also
+- वः (*vaḥ*)—you
+- मा परि स्थात् (*mā pari sthāt*)—let it not hinder
+- वः (*vaḥ*)—arising from your coming
+- सुम्मं (*summaṃ*)—happiness
+- अस्मे इत् (*asme it*)—for us alone
+- अस्तु (*astu*)—let it be
+
+### Printed p. 643
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, let none of the rivers Rasā, Anitabhā and Kubhā hinder you. Let the ocean, and the Sarayu, a river full of water, also not hinder you. May the happiness that is born of your coming be reserved for us.
+
+##### English translation
+Let not the Rasa, the Anitabha, the Kubha, or the wide-roving ocean delay you : let not the watery Sarayu oppose you : may the happiness of your (approach) be ours.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the names of the rivers Rasā, Anitabhā, Kubhā and Sarayu are recited. Of these rivers, the names Anitabhā and Kubhā are recited in the Ṛgveda in this Ṛk only, and since there is no mention of them anywhere else, nothing more can be said about them. Perhaps these two rivers may have been tributaries of some large river (the Yamunā?). Therefore they are not so famous.
+
+Sarayu: the river called Sarayū is famous in the Purāṇas. In the Rāmāyaṇa there is a description that the city of Ayodhyā stood on the bank of the Sarayū. In the Ṛgveda also the name of this river occurs in the present Ṛk, and in the Ṛk
+
+उत त्या सद्य आर्या सरयोरिंद्र पारतः । अर्णाचित्ररथावधीः ॥ (*uta tyā sadya āryā sarayoriṃdra pārataḥ | arṇācitrarathāvadhīḥ ‖*) (Ṛ. Saṃ. 4-30-18)
+
+it is stated that Indra killed the king called Citraratha on the bank of the river called Sarayu. In the Ṛk
+
+सरस्वती सरयुः सिंधुरूर्मिभिर्महो महीरवसा यंतु वक्षणीः । (*sarasvatī sarayuḥ siṃdhurūrmibhirmaho mahīravasā yaṃtu vakṣaṇīḥ |*) (Ṛ. Saṃ. 10-64-9)
+
+there is a prayer that the rivers Sarasvatī, Sarayu and Sindhu may come with their protections. The river Sarayu is mentioned in the Ṛgveda in these three Ṛks only; nowhere else.
+
+Rasā: there must have been a well-known river called Rasā, or there is reason also to conjecture that the Sindhu, the river famous now, had this name. It was famous as a divine river, and once, when the water of this river dried up for some reason, the Aśvin deities by their power
+
 ---
 
-**Progress note:** Done through printed p. 637. Ṛks 2-6 of Sūkta 53 (Special Topics on ornaments of the Maruts)
+**Progress note:** Done through printed p. 643. Ṛks 6-9 of Sūkta 53 (kośa, rivers Sarayu and Rasā)
