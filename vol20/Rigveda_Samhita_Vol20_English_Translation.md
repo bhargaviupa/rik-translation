@@ -14759,6 +14759,267 @@ He who is desirous of food has recourse with a new sacrifice, approachable son o
 > स श्वि॑त्ता॒नस्त॑न्य॒तू रो॑चन॒स्थ अ॒जरे॑भि॒र्नान॑दद्भि॒र्यवि॑ष्ठः ।  
 > यः पा॑व॒कः पु॑रु॒तनुः॑ पु॒रूणि॑ पृ॒थून्य॒ग्निर॑नु॒याति॒ भर्व॑न् ॥
 
+### Printed p. 432
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । श्चितानः । तन्यतुः । रोचनस्थाः । अजरेभिः । नानदत्भिः । यविष्ठः ।  
+> यः । पावकः । पुरुतमः । पुरूणि । पृथूनि । अग्निः । अनुयाति । भर्वन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः श्चितानः श्वेतमानः श्वेतवर्णो वर्तते । तन्मतुः शब्दकारी रोचनस्थाः । रोचंतेऽस्मिन् ग्रहनक्षत्रादीनीति रोचनमंतरिक्षं । तत्र स्थितोऽजरेभिर्जरारहितैर्नानदद्धिरत्यर्थं शब्दं कुर्वद्भिमरुद्भिर्युक्तो रश्मिभिर्वा यविषो
+> युवतमः । यः पावकः शोधकोऽग्निः पुरुतनोऽतिशयेन प्रभूतः सन् पुरूणि
+> बहूनि पृथूनि स्कूलानि काष्ठानि भर्वन् भक्षयन् अनुयाति अनुगच्छति स इत्थमित्तं
+> वर्तत इति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+That Agni is *śvitāna*, that is, white-shining, of white colour. *Tanyatu* is one who makes sound. *Rocanasthāḥ*: that in which the planets, stars and the like shine is *rocana*, the atmosphere; he stands there, joined with the ageless (*ajarebhiḥ*), exceedingly roaring (*nānadadbhiḥ*) Maruts, or with rays; *yaviṣṭha* is the most youthful. The purifying Agni, being exceedingly abundant (*purutanu*), goes along (*anuyāti*), that is, follows, devouring (*bharvan*) many (*purūṇi*), thick (*pṛthūni*) pieces of wood; "he exists thus, in this way": this is the connection with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तन्यतुः (*tanyatuḥ*)—one who makes sound
+- रोचनस्थाः (*rocanasthāḥ*)—one who stays in the atmosphere, together with orbs of radiance
+- अजरेभिः (*ajarebhiḥ*)—ageless
+- नानदद्धिः (*nānadaddhiḥ*)—exceedingly noisy; one joined with rays
+- यविष्ठः (*yaviṣṭhaḥ*)—most youthful
+- यः (*yaḥ*)—which
+- पावक (*pāvaka*)—purifying
+- अग्निः (*agniḥ*)—Agni
+- पुरुतमः (*purutamaḥ*)—being exceedingly abundant
+- पुरूणि (*purūṇi*)—of many kinds
+- पृथूनि (*pṛthūni*)—and thick, wood and the like
+- भर्वन् (*bharvan*)—devouring
+- अनुयाति (*anuyāti*)—moves about
+- सः (*saḥ*)—such an Agni
+
+##### भावार्थ (Bhāvārtha)
+
+That Agni, who makes sound, stays in the atmosphere with orbs of radiance, is joined with ageless rays that make exceeding noise, is most youthful and purifying, and who, being exceedingly abundant, moves about devouring wood and the like of many kinds and thick: such an Agni is white-hued. (He is shining.)
+
+##### English translation
+(You who are) white-hued, vociferous, abiding in the firmament, (associated) with the imperishable, resounding (winds), the youngest (of the gods, Agni, who, purifying and most vast, proceeds, feeding upon numerous and substantial (forests).
+### Printed p. 433
+
+##### विशेषविषयगळु (Special Topics)
+
+When contact among the fires such as the Gārhapatya arises from some cause, an iṣṭi addressed to Agni, अग्नये विविचये (*agnaye vivicaye*), is to be performed as an expiation of that fault. Then this Ṛk वि ते निष्पक् (*vi te niṣpak*) is to be recited as the *anuvākyā* mantra in that iṣṭi; this is indicated in the sūtra of the Āśvalāyana Śrautasūtra (Ā. 3-13).**NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ते॒ विष्ण्॒वात॑जूतासो अग्ने॒ भामा॑सः शुचे॒ शुच॑यश्चरंति।  
+> तु॒वि॒म्र॒क्षासो॑दि॒व्या नव॑ग्वा॒ वना॑ वनंति धृष॒ता रु॒जंतः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । ते । विष्णक् । वातजूतासः । अग्ने । भामासः । शुचे । शुचयः । चरंति ।  
+> तुविम्रक्षासः । दिव्याः । नवग्वाः । वना । वनंति । धृषता । रुजंतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गार्हपत्यादीनां मिथः संसर्गेग्नये विविचय इष्टिः कर्तव्या । तत्र वि त
+> इत्येषानुवाक्या । आ. ३-१३ ॥
+> हे शुचे शुद्ध दीप्त वाग्ने ते त्वदीया वातजूतासो वातेन प्रेरिताः
+> शुचयो निर्मला भामासो दीप्तयो विष्वक् सर्वशो वि चरंति । विविधं गच्छंति ।
+> तुविम्रक्षासो बहुकाष्ठानि स्पृतंतो दिव्या दिवि द्योतमानेऽग्नौ भवा नवग्वा
+> नूतनगमनास्ते रत्मयो वना वनानि वनंति । संभजंते । दहंतीत्यर्थः । किं
+> कुर्वंतः । धृषता धर्षकेण तेजसा रुजंतो वनानि भंजयंतः ॥
+
+##### Gist of the bhāṣya
+
+When the Gārhapatya and other fires come into contact with one another, an iṣṭi addressed to Agni Vivici is to be performed; in it this Ṛk, beginning वि त (*vi ta*), is the *anuvākyā* (Ā. 3-13). "O pure, or shining, Agni, your (*te*) flames (*bhāmāsaḥ*), driven by the wind (*vātajūtāsaḥ*), pure (*śucayaḥ*), move about (*vi caranti*) everywhere (*viṣvak*), that is, go in various ways. Those rays, *tuvimrakṣāsaḥ*, that is, burning much wood, divine (*divyāḥ*), existing in Agni who shines in heaven, *navagvāḥ*, of new motion, *vananti* the woods (*vanā*), that is, resort to them; the meaning is, they burn them. Doing what? Breaking (*rujantaḥ*) the woods with a daring (*dhṛṣatā*), overpowering radiance."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचे (*śuce*)—O wholly pure
+- अग्ने (*agne*)—Agni
+- ते (*te*)—your
+- वातजूतासः (*vātajūtāsaḥ*)—driven by the wind
+- शुचयः (*śucayaḥ*)—and stainless
+- भामासः (*bhāmāsaḥ*)—radiances
+- विश्वक् (*viśvak*)—everywhere
+- वि चरंति (*vi caraṃti*)—move about
+- तुविम्रक्षासः (*tuvimrakṣāsaḥ*)—which burn much wood
+- दिव्याः (*divyāḥ*)—shining
+- नवग्वाः (*navagvāḥ*)—and of new form, these rays of yours
+- धृषता (*dhṛṣatā*)—with radiances that overpower enemies
+### Printed p. 434
+- रुजंतः (*rujaṃtaḥ*)—destroying the woods
+- वना (*vanā*)—the woods
+- वनंति (*vanaṃti*)—burn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the wholly pure: your radiances, driven by the wind and stainless, move about everywhere. Your rays, which burn much wood, are shining and of new form, and with radiances that overpower enemies they destroy the woods and burn them.
+
+##### English translation
+Pure Agni, your bright flames, fanned by the wind, spread wide in every direction, consuming abundant (fuel); divine, fresh-rising, they play upon the woods, enveloping them in lustre.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॑ शु॒क्रासः॒ शुच॑यः शुचिष्मः॒ क्षां वपं॑ति॒ विषि॑तासो॒  ॑
+> अश्वाः ।  
+> अध॑ भ्र॒मस्त॑ उर्वि॒या वि भा॑ति या॒तय॑मानो॒ अधि॒ सानु॒  ॑
+> पृश्नेः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । शुक्रासः । शुचयः । शुचिष्मः । क्षां । वपंति । विषितासः । अश्वाः ।  
+> अध । भ्रमः । ते । उर्विया । वि । भाति । यातयमानः । अधि । सानु । पृश्ने ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुचिष्मो दीप्तिमन्नग्ने ते तव शुक्रासः शुभ्रा ये शुचयो दीप्तयो
+> क्षां पृथिवीं भूमिं वपंति मुंडयंति । केशस्थानीयानोषधिवनस्पतीन् दहंतीत्यर्थः । अग्निर्ह दाति रोमा पृथिव्याः । ऋग्वे- १-६५-४ । इति निगमांतरं । ते
+
+##### Gist of the bhāṣya
+
+"O shining (*śuciṣmaḥ*) Agni, your (*te*) bright (*śukrāsaḥ*) radiances (*śucayaḥ*) which shear (*vapanti*), that is, make bald, the earth (*kṣām*), the ground": the meaning is that they burn the plants and trees, which stand in the place of hair. अग्निर्ह दाति रोमा पृथिव्याः (*agnirha dāti romā pṛthivyāḥ*) (Ṛgve. 1-65-4) is another Vedic passage.**NOTE****GLOSS** Those rays, like horses let loose (*viṣitāsaḥ*), that is, set free, go hither and thither: this is what is to be supplied.
+### Printed p. 435
+
+> रश्मयो विषितासो विमुक्ता अश्वा इव । इतस्ततो गच्छंतीति शेषः । आधास्मिन्काले ते
+> त्वदीयो भ्रमो भ्रमणशीलो ज्वालासमूहः पृश्नेर्नानारूपाया भूमेरधिउपरि सानु समुच्च्रितं देशं पर्वताग्रादिकं प्रति यातयमानः स्वकीयमग्रं
+> व्यापारयन् उर्वियोरु बहुलं वि भाति । विशेषेण प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+Then, at that time, your (*te*) wandering (*bhramaḥ*) mass of flames, towards the raised place (*sānu*), the summit of a mountain and the like, above (*adhi*) the many-coloured (*pṛśneḥ*) earth, urging (*yātayamānaḥ*) forward its own tip, shines (*vi bhāti*) widely (*urviyā*), that is, much; it shines in a special way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिस्मः (*śucismaḥ*)—O Agni, endowed with light
+- ते (*te*)—your
+- शुक्रासः (*śukrāsaḥ*)—which bright
+- ये शुचयः (*ye śucayaḥ*)—radiances
+- क्षां (*kṣāṃ*)—the earth (the plants and the like)
+- वपंति (*vapaṃti*)—cut (burn): those rays
+- विषितासः (*viṣitāsaḥ*)—like horses that have thrown off their bridles (move about in all directions)
+- अध (*adha*)—at this time
+- ते (*te*)—your
+- भ्रमः (*bhramaḥ*)—wandering masses of flames
+- पृश्नेः (*pṛśneḥ*)—of the earth of many forms
+- अधि (*adhi*)—above
+- सानु (*sānu*)—the mountain slope region
+- यातयमानः (*yātayamānaḥ*)—resorting to
+- उर्विया (*urviyā*)—spreading very widely
+- वि भाति (*vi bhāti*)—shines exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with light: your bright radiances, which cut the plants and the like on the earth, that is, burn them, those rays, like horses that have thrown off their bridles, move about in all directions. At this time your wandering masses of flames, resorting to the mountain slope region on the upper part of the earth of many forms, spread very widely and shine exceedingly.
+
+##### English translation
+Resplendent Agni, your bright rays, horses let loose (from the rein), shear the earth ; your (band of flame), mounting above the high-lands of the many-tinted (earth), blazes fiercely.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ जि॒ह्वा पा॑पतीति॒ प्र वृष्णो॑ गोषु॒युधो॒ नाशनिः॑ सृजा॒ना।  
+> शूर॑स्येव॒ प्रसि॑तिः क्पा॒तिर॒ग्नेर्दु॒र्वतु॑र्भी॒मो द॑यते॒ वना॑नि॥
+
+### Printed p. 436
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । जिह्वा । पापतीति । प्र । वृष्णः । गोपुयुधः । न । अशनिः । सृजाना ।  
+> शूरस्य इव । प्रसितिः । क्षातिः । अग्नेः । दुःवर्तुः । भीमः । दयते । वनानि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च वृष्णो वर्षितुरग्नेर्जिह्वा ज्वाला प्र पापतीति। प्रकर्षेण पुनःपुनः
+> पतति । गच्छति । तत्र दृष्टांतः । गोषुयुधो नाशनिः सृजाना । असुरप्रहृतासु
+> गोषु युध्यन्निंद्रो गोषुयुत्। तस्मात्सृज्यमानाशनिर्वज्र इव । तथा शूरस्येव
+> शौर्योपेतस्य नरस्य प्रसितिः प्रबंधनं यथान्वैर्दुःसहमेवमग्नेः क्षातिर्ज्वाला
+> सोढुमशक्येत्यर्थः॥ क्षीयंते दह्यंतेऽस्यामोषधिवनस्पतय इति क्षायतेरधिकरणे
+> क्तिन् ॥ आपि च दुर्वर्तर्वारोऽन्यैर्वारयितुमशक्को भीमो भयंकरोऽग्निर्वनानि दयते । दहति ॥ दयतिरत्र दहतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+"And further, the flame (*jihvā*) of Agni the showerer (*vṛṣṇaḥ*) falls forth (*pra pāpatīti*) again and again, that is, it moves." The illustration: गोषुयुधो नाशनिः सृजाना (*goṣuyudho nāśaniḥ sṛjānā*). Indra, fighting for the cows when they were seized by the Asuras, is *goṣuyudh*; the thunderbolt (*vajra*) is like a thunderbolt (*aśani*) hurled by him. So too, as the binding (*prasiti*) of a man endowed with heroism is hard for others to bear, so the *kṣāti* of Agni, his flame, is impossible to bear. "Furthermore, *durvartu*, that which cannot be warded off by others, terrible (*bhīma*), fearful Agni burns (*dayate*) the woods": दयतिरत्र दहतिकर्मा (*dayatiratra dahatikarmā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—and
+- वृष्णः (*vṛṣṇaḥ*)—of Agni, the cause of rain
+- जिह्वा (*jihvā*)—the flame
+- सृजाना (*sṛjānā*)—hurled
+- गोषुयुधः (*goṣuyudhaḥ*)—of Indra, the protector of cattle
+- अशनिः न (*aśaniḥ na*)—like the thunderbolt
+- प्र पापतीति (*pra pāpatīti*)—falls with exceeding speed (spreads)
+- शूरस्येव (*śūrasyeva*)—of a hero
+- प्रसितिः (*prasitiḥ*)—like the blow
+- अग्नेः (*agneḥ*)—of Agni
+- क्षातिः (*kṣātiḥ*)—the flame (is unbearable)
+- दुर्वर्तुः (*durvartuḥ*)—one with strength that none can check
+- भीमः (*bhīmaḥ*)—and terrible Agni
+- वनानि (*vanāni*)—the forest trees
+- दयते (*dayate*)—burns
+
+##### भावार्थ (Bhāvārtha)
+
+The flame of Agni, the cause of rain, spreads with exceeding speed like the thunderbolt hurled by Indra, the protector of cattle. Like the blow of a hero, the flame of Agni is unbearable. Agni, who has strength that none can check and who is terrible, burns the forest trees.
+
+##### English translation
+The flame of the showerer, (Agni), repeatedly descends like the hurled thunderbolt of the rescuer of the cattle : like the prowess of a hero is the destroying (energy) of Agni: irresistible and fearful, he consumes the forests.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+### Printed p. 437
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ भा॒नुना॒ पार्थि॑वानि॒ ज्रयां॑सि म॒हस्तो॒दस्य॑ धृष॒ता त॑तंथ ।  
+> स बा॑ध॒स्वाप॑ भ॒या सहो॑भिः॒ स्पृधो॑ वनु॒ष्यन्व॒नुषो॒ नि  ॑
+> जूर्व ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । भानुना । पार्थिवानि । ज्रयांसि । महः । तोदस्य । धृषता । ततंथ ।  
+> सः । बाधस्व । अप । भया । सहभिः । स्पृधः । वनुष्यन् । वनुषः । नि । जूर्व ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने भानुना दीप्त्या पार्थिवानि पृथिव्यां भवानि ज्रयांसि ॥ ज्रयतिर्गतिकर्मा ॥ गंतव्यानि स्थानानि महो महतस्तोदस्य प्रेरकस्य धृषता धर्षकेण रश्मिना
+> सहा ततंथ । आस्तृणासि । आच्छादयसि । स त्वं भया भयकरणान्यप बाधस्व । तथा
+> सहोभिरभिभवनसमर्थैर्बलैस्तेजोभिर्वा स्पृधः स्पर्धमानान्वनुष्यन् हिंसन्
+> वनुषो हिंसकान् । शत्रुनिति । नि जूर्व । निजहि ॥ जूर्वतिर्हंतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, with radiance (*bhānunā*) you have spread (*tatantha*), that is, covered, the earthly (*pārthivāni*) *jrayāṃsi*": ज्रयतिर्गतिकर्मा (*jrayatirgatikarmā*), that is, places to be gone to, along with the daring (*dhṛṣatā*), overpowering ray of the great (*mahaḥ*) impeller (*todasya*). "You, such a one, drive away (*apa bādhasva*) all that causes fear (*bhayā*). So too, with strong (*sahobhiḥ*) powers or radiances, able to overcome, harming (*vanuṣyan*) those who contend (*spṛdhaḥ*), strike down (*ni jūrva*), that is, slay, the injuring (*vanuṣaḥ*) enemies": जूर्वतिर्हंतिकर्मा (*jūrvatirhaṃtikarmā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—one of great nature
+- तोदस्य (*todasya*)—and impeller, your
+- धृषता (*dhṛṣatā*)—powerful
+- भानुना (*bhānunā*)—with radiances
+- पार्थिवानि (*pārthivāni*)—belonging to the earth
+- ज्रयांसि (*jrayāṃsi*)—the regions to be gone to
+- ततंथ (*tataṃtha*)—you have pervaded and covered
+- सः (*saḥ*)—such you
+- भया (*bhayā*)—all the sources of fear to us
+- अप बाधस्व (*apa bādhasva*)—destroy
+- सहोभिः (*sahobhiḥ*)—with powerful radiances
+- स्पृधः (*spṛdhaḥ*)—the enemies who fight with us
+- वनुष्यन् (*vanuṣyan*)—harming
+- वनुषः (*vanuṣaḥ*)—the enemies who injure us
+- निजूर्व (*nijūrva*)—conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are of great nature and an impeller: with your powerful radiances you have pervaded and covered all the regions of the earth to be gone to. Such a one, destroy all the sources of fear to us. Harming with powerful radiances the enemies who fight with us, conquer the enemies who injure us.
+
 ---
 
-**Progress note:** Done through printed p. 431. Mandala 6 sukta 5 rks 5-7, sukta 6 rk 1
+**Progress note:** Done through printed p. 437. Mandala 6 sukta 6 rks 2-6
