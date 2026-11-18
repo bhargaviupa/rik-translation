@@ -7821,6 +7821,317 @@ The winds blow strong, the lightning flash, the plants spring up, the
 the firmament dissolves : earth becomes (fit) for all creatures when Parjanya
 fertilizes the soil with showers.
 
+### Printed p. 210
+
+##### विशेषविषयगळु (Special Topics)
+
+The fourth Ṛk of this sūkta, beginning प्रवाता (*pravātā*), is to be recited as the yājyā mantra when a cooked offering (caru) is made to the deity Parjanya. This is made clear by the Āśvalāyana Śrauta-sūtra, in the sūtra प्र वाता वांति पतयंति विद्युत् इत्यग्नाधेयप्रकृति (*pra vātā vāṃti patayaṃti vidyut ityagnādheyaprakṛti*) (Ā. 2-15).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ व्र॒ते पृ॑थि॒वी नंन॑मीति॒ यस्य॑ व्र॒ते श॒फव॒ज्ज र्भु॑रीति ।  
+> यस्य॑ व्र॒त ओष॑धीर्वि॒श्वरू॑पाः॒ स नः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । व्रते । पृथिवी । नंनमीति । यस्य । व्रते । शफवत् । जर्भुरीति ।  
+> यस्य । व्रते । ओषधीः । विश्वरूपाः । सः । नः । पर्जन्य । महि । शर्म । यच्छ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य पर्जन्यस्य व्रते कर्मणि पृथिवी नंनमाति अत्यर्थं नमति सर्वॆषामधो भवति । यस्य व्रते शफवत् पादोपेतं गवादिकं जर्भुरीति भ्रियते
+> पूर्यते गच्छतीति वा । यस्य व्रते कर्मण्योषधीरोषध्यो विश्वरूपा नानारूपा
+> भवंति हे पर्जन्य स महांस्त्वं नोऽस्मभ्यं महि शर्म महत् सुखं यच्छ ।
+> प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+In the vrata, that is the action, of Parjanya the earth bows down exceedingly, that is, becomes lower than all. In his vrata the hoofed creatures such as cattle are nourished (or are filled, or move about). In his vrata, in his action, the plants take all forms, that is, many forms. O Parjanya, such a great one as you, grant us great happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of you, whose
+- व्रते (*vrate*)—by the power of the action
+- पृथिवी (*pṛthivī*)—the earth
+- नंनमाति (*naṃnamāti*)—is full of humility
+- यस्य (*yasya*)—of you, whose
+- व्रते (*vrate*)—by the greatness of the actions
+- शफवत् (*śaphavat*)—hoofed animals and the like
+- जर्भुरीति (*jarbhurīti*)—grow stout
+- यस्य (*yasya*)—of you, whose
+- व्रते (*vrate*)—by the power of the action
+- ओषधीः (*oṣadhīḥ*)—the plants
+- विश्वरूपाः (*viśvarūpāḥ*)—grow in many forms
+- सः (*saḥ*)—such a one as you
+- पर्जन्य (*parjanya*)—O god Parjanya
+- नः (*naḥ*)—to us
+- महि (*mahi*)—abundantly (plentifully)
+- शर्म (*śarma*)—happiness
+- यच्छ (*yaccha*)—grant
+
+### Printed p. 211
+
+##### भावार्थ (Bhāvārtha)
+
+O god Parjanya, by the power of whose action the earth is full of humility, by the greatness of whose actions hoofed animals and the like grow stout, by the power of whose action the plants grow in many forms, such a one as you, grant us happiness in abundance.
+
+##### English translation
+O Parjanya, through whose function the earth is bowed down :
+through whose function hoofed cattle thrive ; through whose function plants
+assume all kinds of forms, grant us great felicity.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो नो॑ वृ॒ष्टिं म॑रुतो ररीध्वं॒ प्र पि॑न्वत॒ वृष्णो॒ अश्व॑स्य॒  ॑
+> धाराः ।  
+> अ॒र्वाजे॒तेन॑ स्तनयि॒त्नु नेह्य॒पो नि॑षिं॒चन्न सु॑रः पि॒ता नः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । नः । वृष्टिं । मरुतः । ररीध्वं । प्र । पिन्वत । वृष्णः । अश्वस्य । धाराः ।  
+> अर्वाज् । एतेन । स्तनयित्नुना । आ । इहि । अपः । निसिंचन् । असुरः । पिता । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं दिवोऽंतरिक्षसकाशात् नोऽस्मदर्थं वृष्टिं ररीध्वं ।
+> दत्त । वृष्णो वर्षकस्याश्वस्य व्यापकस्य मेघस्य संबंधिन्नो धारा उदकधारा प्र
+> पिन्वत । प्रक्षरत । हे पर्जन्य त्वमेतेन स्तनयित्सुना गर्जता मेघेन सहार्वाज्
+> अस्मदभिमुखमेहि । आगच्छ । किं कुर्वन् । अपोऽंभांसि निषिंचन् स देवोऽसुर
+> उदकानां निरसितापि सन् नोऽस्माकं पिता पालकश्च ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you give us rain from the sky (the atmosphere). Cause the streams of water belonging to the rain-giving, pervading horse, that is, the cloud, to flow forth. O Parjanya, come toward us together with this thundering, roaring cloud. What are you doing? Pouring down water. That god, though he is the one who casts down the waters (the asura), is also our father, our protector.
+
+### Printed p. 212
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- दिवः (*divaḥ*)—from the atmosphere
+- नः (*naḥ*)—for us
+- वृष्टिं (*vṛṣṭiṃ*)—the rain
+- ररीध्वं (*rarīdhvaṃ*)—pour down and send
+- वृष्णः (*vṛṣṇaḥ*)—of the rain-making
+- अश्वस्य (*aśvasya*)—and pervading cloud, belonging to it
+- धाराः (*dhārāḥ*)—the streams of water
+- प्र पिन्नत (*pra pinnata*)—increase and pour down abundantly (O Parjanya)
+- एतेन (*etena*)—with this thundering cloud
+- अपः (*apaḥ*)—water
+- निषिंचन् (*niṣiṃcan*)—pouring down in the form of rain
+- अर्वाक् (*arvāk*)—turned toward us
+- ऐहि (*aihi*)—be pleased to come
+- असुरः (*asuraḥ*)—you, the mighty one (the maker of rain)
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—a protector, you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, pour down rain for us from the atmosphere. Increase the streams of water belonging to the rain-making, pervading cloud, and pour them down abundantly. O Parjanya, be pleased to come, pouring down water in the form of rain from this thundering cloud. You, the mighty one, as the maker of rain, are a protector to us.
+
+##### English translation
+Send down for us, Maruts, the rain from heaven : drops of the rainy
+charger descend : come down Parjanya, sprinkling water by this thundering
+(cloud) ; you who are the sender of rain, our protector.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि क्रं॑द स्त॒नय॒ गर्भ॒मा धा॑ उद॒न्वता॒ परि॑ दीया॒ रथे॑न ।  
+> दृतिं॒ सु क॑र्ष॒ विषि॑तं॒ न्यं॑चं स॒मा भ॑वंतू॒द्वतो॑ निपा॒दाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । क्रंद । स्तनय । गर्भं । आ । धाः । उदन्वता । परि । दीय । रथेन ।  
+> दृतिं । सु । कर्ष । विसितं । न्यंचं । समाः । भवंतु । उत्वतः । निपादाः ॥ ७ ॥
+
+### Printed p. 213
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभि भूम्यभिमुखं क्रंद । शब्दय । तदेव पुनरुच्यते दार्ढ्याय । स्तनय ।
+> गर्ज । गर्भ० गर्भस्थानीयमुदकमोषधीष्वा धाः । आधेहि । तदर्थमुदन्वतोदकवता रथेन परि दीय । परितो गच्छ । दृतिं दृतिवदुदकधारकं मेघं विषितं
+> विशेषेण सितं बद्धं न्यंचं नृक् अधोमुखं सु सुष्टु कर्ष । आकर्ष वृष्ट्यर्थं ।
+> यद्वा । विषितं विमुक्तबंधनमेवं कर्ष । एवं कृत उद्धत ऊर्ध्ववंत उन्नतप्रदेशा निपादा न्यग्भूतपादा निकृष्णपादा वा निम्मोन्नतप्रदेशाः समा एकस्था भवंतु ।
+> उदकपूर्णा भवंत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Cry out toward the earth, make sound. The same is repeated for emphasis. Thunder, roar. Place the embryo, that is, the water that stands in the place of an embryo, in the plants. For that purpose go about on every side with a chariot filled with water. Draw down properly, for the sake of rain, the cloud, which is like a leather bag holding water, specially bound and turned with its mouth downward. Or else: draw it thus, with its binding loosened. When this is done, the elevated places and the low places (those whose feet are lowered or drawn down) become level, together in one state; the meaning is that they become filled with water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभि (*abhi*)—toward the earth
+- क्रंद (*kraṃda*)—make sound
+- स्तनय (*stanaya*)—thunder
+- गर्भं (*garbhaṃ*)—the water in the form of an embryo
+- आ धाः (*ā dhāḥ*)—place it in the plants and fill them
+- उदन्वता (*udanvatā*)—filled with water
+- रथेन (*rathena*)—with a chariot
+- परि दीय (*pari dīya*)—move about everywhere
+- दृतिं (*dṛtiṃ*)—the cloud, which is like a leather bag
+- विषितं (*viṣitaṃ*)—having made it exceedingly well prepared
+- न्यंचं (*nyaṃcaṃ*)—with its mouth downward
+- सु कर्ष (*su karṣa*)—drive it for the sake of rain
+- उद्वतः (*udvataḥ*)—the elevated places
+- निपादाः (*nipādāḥ*)—the low places
+- समाः (*samāḥ*)—in one and the same manner
+- भवंतु (*bhavaṃtu*)—let them become filled with water
+
+##### भावार्थ (Bhāvārtha)
+
+O Parjanya, make sound toward the earth. Thunder well, and place in the plants, which are the embryo-water of them, and fill them. Move about everywhere with a chariot filled with water. Make the cloud, which is like a leather bag, well prepared, and drive it with its mouth downward for the sake of rain. May the elevated places and the low places alike be filled with water.
+
+##### English translation
+Cry aloud over (the earth) ; thunder ; impregnate the plants ; traverse
+(the sky) with your water-laden chariot, draw open the tight-fastened,
+downward-turned water bag, and may the low places be made level.
+
+### Printed p. 214
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हांतं॒ कोश॒मुद॑चा॒ नि षिं॑च॒ स्यंदं॑तां कु॒ल्या विषि॑ताः  ॒॑
+> पुरस्तात् ।  
+> घृ॒तेन॒ द्यावा॑पृथि॒वी व्युं॑धि सुप्रपा॒णं भ॑वत्व॒घ्न्याभ्यः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महांतं । कोशं । उत् । अच । नि । सिंच । स्यंदंतां । कुल्याः । विसिताः ।  
+> पुरस्तात् ।  
+> धृतेन । द्यावापृथिवी इति । वि । उंधि । सुप्रपानं । भवतु । अघ्न्याभ्यः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पर्जन्य त्वं महांतं प्रवृद्धं कोशं कोशस्थानीयं मेघमुदच ।
+> उद्गच्छ । उद्गमय वा । तथा कृत्वा नि षिंचॆ । नीचैः क्षारय । कुल्या नद्यो
+> विषिता विष्यूताः सत्यः स्यंदंतां प्रवहंतु पुरस्तात् पूर्वाभिमुखं । प्रायेण
+> नद्यः प्राच्य स्यंदंते । घृतेनोदकेन द्यावापृथिवी दिवं च पृथिवीं च व्युंधि ।
+> क्षेदयात्यधिकं । अघ्न्याभ्यो गोभ्यः सुप्रपाणं सुष्टु प्रकर्षेण पातव्यमुदकं
+> भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Parjanya, raise up the great, swollen sheath, that is, the cloud which stands in the place of a sheath, or cause it to rise. Having done so, pour down, make it flow downward. Let the channels, that is, the rivers, released, flow forward, toward the east; for the most part rivers flow eastward. With water (ghṛta) drench heaven and earth thoroughly, make them very wet. For the cows let there be water that is well fit for drinking in abundance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महांतं (*mahāṃtaṃ*)—of great form
+- कोशं (*kośaṃ*)—the cloud, which is like a bag
+- उदच (*udaca*)—lift it up and hold it
+- निषिंच (*niṣiṃca*)—pour down (the water) below
+- कुल्याः (*kulyāḥ*)—the rivers
+- विषिताः (*viṣitāḥ*)—without hindrance
+- पुरस्तात् (*purastāt*)—toward the east
+- स्यंदंतां (*syaṃdaṃtāṃ*)—let them flow
+- धृतेन (*dhṛtena*)—with water
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- व्युंधि (*vyuṃdhi*)—make them wet
+- अघ्नाभ्यः (*aghnābhyaḥ*)—for the cows
+- सुप्रसाणं (*suprasāṇaṃ*)—water fit for drinking
+- भवतु (*bhavatu*)—let it overflow
+
+##### भावार्थ (Bhāvārtha)
+
+O Parjanya, lift up and hold the cloud, which is of great form and like a bag. Pour the water down. Let the rivers flow eastward without hindrance. Make heaven and earth wet with water. For the cows, let water fit for drinking overflow.
+
+### Printed p. 215
+
+##### English translation
+Raise on high the mighty sheath (of rain), pour down (its contents); let the rivers flow unimpeded to the east ; saturate with water both heaven and earth, and let there be abundant beverage for the cows.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्प॑र्जन्य॒ कनि॑क्रदत् स्त॒नय॒न् हंसि॑ दु॒ष्कृतः॑ ।  
+> प्रती॒दं विश्वं॑ मोदते॒ यत्किं च॑ पृथि॒व्यामधि॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पर्जन्य । कनिक्रदत् । स्तनयन् । हंसि । दुःकृतः ।  
+> प्रति । इदं । विश्वं । मोदते । यत् । किं । च । पृथिव्यां । अधि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पर्जन्य यद्यदा त्वं कनिक्रददत्यर्थं शब्दयन् स्तनयन् दुष्कृतः
+> पापकृतो मेघान् हंसि विदारयसि तदानीमिदं विश्वं जगत् प्रति मॊदते । विश्वं
+> विशेष्यते । यत्किंच पृथिव्यामधि भूम्यामधिष्ठितं यच्चराचरात्मकं तदिदं विश्वं
+> मोदते । हृष्यति । वृष्टेः सर्वजगत्प्रीतिकारणत्वं प्रसिद्धं ॥
+
+##### Gist of the bhāṣya
+
+O Parjanya, when you, sounding exceedingly loud and thundering, strike down the wicked (those who do evil) clouds, that is, tear them apart, then this whole world rejoices. The word "whole" is specified: whatever stands upon the earth, whatever is moving or unmoving, this whole world rejoices, is glad. That rain is the cause of the delight of the entire world is well known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्जन्य (*parjanya*)—O Parjanya
+- यत् (*yat*)—when
+- कनिक्रदत् (*kanikradat*)—you make a sound in the form of roaring (and)
+- स्तनयन् (*stanayan*)—thundering
+- दुष्कृतः (*duṣkṛtaḥ*)—the wicked
+- हंसि (*haṃsi*)—you kill (then)
+- इदं विश्वं (*idaṃ viśvaṃ*)—this whole world
+- प्रति मोदते (*prati modate*)—rejoices
+- पृथिव्यां अधि (*pṛthivyāṃ adhi*)—upon the earth
+- यत्किंच (*yatkiṃca*)—whatever living beings there are (all of them rejoice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Parjanya, when you make a sound in the form of roaring, and thundering kill the wicked, then the whole world rejoices. All living beings that are upon the earth rejoice.
+
+### Printed p. 216
+
+##### English translation
+When, Parjanya, sounding loud and thundering, you destroy the wicked (clouds), this whole (world) rejoices, and all that is upon the earth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑र्षीर्व॒र्षमुदु॒ षू गृ॑भा॒याक॒र्धन्वा॒न्यत्ये॑त॒वा उ॑ ।  
+> अजी॑जन॒ ओष॑धी॒र्भोज॑नाय॒ कमु॒त प्र॒जाभ्यो॑ऽविदो मनी॒षां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवर्षीः । वर्षं । उत् । ऊं इति । सु । गृभाय । अकः । धन्वानि । अशिएतवै ।  
+> ऊं इति ।  
+> अजीजनः । ओषधीः । भोजनाय । कं । उत । प्रजाभ्यः । अविदः । मनीषां ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमतिवृष्टिविमोचनी ॥ हे पर्जन्य त्वमवर्षिः । वृष्टवानसि । वर्षमुदु
+> षू गृभाय । उत्कृष्टं सु सुष्टु गृभाय । गृहाण । परिहरेत्यर्थः । धन्वानि निरुदकप्रदेशानकः । जलवतः कृतवानसि । किमर्थं । अत्येतवा उ । अतिक्रम्य गंतुं ।
+> ओषधीरजीजनः । उदपादयः । किमर्थं । भोजनाय धनाय भोगाय वा ।
+> कमित्ययं शिशिरं जीवनाय कं । नि. १-१० । इतिवत्पादपूरणः । उतापि च प्रजाभ्यः
+> सकाशाक् मनीषां स्तुतिमविदः । प्राप्तवानसि ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is for the release from excessive rain. O Parjanya, you have rained; you have poured down rain. Hold back well the rain, taking it up; the meaning is, withhold it. You have made the waterless regions, the deserts, watery. For what purpose? In order to pass across them. You have brought forth the plants. For what purpose? For food, that is, for wealth or enjoyment. The word कं (*kaṃ*) is merely a filler of the verse-quarter, as in कमित्ययं शिशिरं जीवनाय कं (*kamityayaṃ śiśiraṃ jīvanāya kaṃ*) (Ni. 1-10). And also, from the creatures you have obtained praise (manīṣā), that is, adoration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवर्षिः (*avarṣiḥ*)—you have poured down rain (O Parjanya)
+- वर्षमुदु (*varṣamudu*)—the same rain that falls on without end **NOTE**
+- हू गृभाय (*hū gṛbhāya*)—hold back (so that it may not be excessive) **NOTE**
+- धन्वानि (*dhanvāni*)—the waterless deserts
+- अत्तेतवा उ (*attetavā u*)—so as to be easy to cross
+- अकः (*akaḥ*)—you have made them filled with water
+- ओषधीः (*oṣadhīḥ*)—the plants
+- भोजनाय (*bhojanāya*)—so as to be fit for the enjoyment of men
+- अजीजनः (*ajījanaḥ*)—you have produced
+- प्रजाभ्यः (*prajābhyaḥ*)—from men such as the priests
+- मनीषां (*manīṣāṃ*)—praise
+- अविदः (*avidaḥ*)—you have obtained
+
 ---
 
-**Progress note:** Done through printed p. 209. Sūkta 83 anuvāda, particulars, Ṛks 1-4, pp. 204-209
+**Progress note:** Done through printed p. 216. Sukta 83 Rks 5-10 (pp. 210-216)
