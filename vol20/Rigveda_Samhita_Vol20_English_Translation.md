@@ -21112,6 +21112,278 @@ May Agni, with his sharp flame, demolish the devourer (of the oblation): may Agn
 > सुवीरं । रयिं । आ । भर । जातवेदः । विचर्षणे ।  
 > जहि । रक्षांसि । सुक्रतो इति सुक्रतो ॥ २९ ॥
 
+### Printed p. 614
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञान जातधन वा विचर्षणे विशेषेण द्रष्टरग्ने
+> सुवीरं शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेतं रयिं धनमा भर । आहर । तथा हे
+> सुक्रतो सुकर्मन्नग्ने रक्षांसि च जहि । विनाशय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni as Jātavedas, one who possesses knowledge or possesses wealth, and as Vicarṣaṇi, the one who sees in a special degree. He asks him to bring wealth that is accompanied by good heroes, that is, by sons, grandsons and the like. He then addresses him as Sukratu, doer of good deeds, and asks him to destroy the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—one who is of the nature of Jātavedas
+- विचर्षणे (*vicarṣaṇe*)—one who possesses a surpassing power of sight
+- सुवीरं (*suvīraṃ*)—accompanied by excellent heroes
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring
+- सुकृतो (*sukṛto*)—O Agni, the doer of excellent deeds
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas and the like
+- जहि (*jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the nature of Jātavedas, or who know everything, and who possess a surpassing power of sight, bring wealth accompanied by excellent heroes. O Agni, the doer of excellent deeds, destroy the Rākṣasas and the like.
+
+##### English translation
+Jatavedas, all-beholder, bring us wealth with good posterity : doer of good deeds, destroy the Rakshasas.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ पा॒ह्यंह॑सो॒ जात॑वेदो अघाय॒तः ।  
+> रक्षा॑ हो ब्रह्मणस्कवे ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । पाहि । अ०हसः । जात्यवेदः । अघ्ययतः ।  
+> रक्ष । नः । ब्रह्मणः । कवे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदस्त्वं नोऽस्मानंहसः पापात्पाहि । रक्ष । तथा हे ब्रह्मणस्कवे
+> स्तुतिरूपस्य मंत्रस्य कने कावयितः शब्दयितरग्ने । अग्निर्हि शब्दमुत्पादयति । तथा
+
+##### Gist of the bhāṣya
+
+O Jātavedas, protect us from sin. And O Agni, kavi of the mantra that takes the form of praise, who cause it to be uttered, who make it sound: for Agni produces sound.
+
+### Printed p. 615
+
+> च स्मर्यते । मनः कायाग्निमाहंति स प्रेरयति मारुतं । मारुतस्तूरसि चरन्
+> मंद्रं जनयति स्वरमिति । तादृशाग्नेऽघायतोऽघमनर्थमस्माकमिच्छतः शत्रोश्च
+> नोऽस्मान्रक्ष ॥
+
+##### Gist of the bhāṣya
+
+And so it is recalled that the mind strikes the bodily fire, and the fire impels the wind, and the wind moving in the chest produces a low tone. Such an Agni, protect us from the enemy who wishes us harm, that is, who wishes us evil.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, the all-knowing
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin
+- पाहि (*pāhi*)—protect
+- ब्रह्मणस्कवे (*brahmaṇaskave*)—O Agni, the reciter of praise
+- अघायतः (*aghāyataḥ*)—from the enemy who does us evil
+- नः (*naḥ*)—us
+- रक्ष (*rakṣa*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the nature of Jātavedas, protect us from sin. O Agni, the reciter of praise, protect us from the enemy who does us evil.
+
+##### English translation
+Preserve us, Jatavedas, from sin: enunciator of prayer, protect us from the malevolent.
+
+##### विशेषविषयगळु (Special Topics)
+
+ब्रह्मणस्कवे—स्तुतिरूपस्य मंत्रस्य कवे कावयितः शब्दयितरग्ने । (*brahmaṇaskave—stutirūpasya maṃtrasya kave kāvayitaḥ śabdayitaragne |*) Because Agni is the author of mantras in the form of praise and prompts men to utter them, he is here addressed with the word ब्रह्मणस्कवे (*brahmaṇaskave*). अग्निर्हि शब्दमुत्पादयति— मनः कायाग्नि माहंति स प्रेरयति मारुतं । मारुतस्तूरसि चरन् मंद्रं जनयति स्वरं ॥ (*agnirhi śabdamutpādayati— manaḥ kāyāgni māhaṃti sa prerayati mārutaṃ | mārutastūrasi caran maṃdraṃ janayati svaraṃ ‖*) (Pā. Śi. 6-7). How Agni is the prompter of sound: the feelings that arise in the mind stir up the fire that dwells in the body (in the form of the digestive fire). That fire sets in motion the wind moving in the heart and the other parts of the body. That wind gently sends out from the mouth a tone or a sound; so it is said in the Pāṇinīya Śikṣā. Therefore, for the feelings that arise in the mind to be brought out in the form of speech, the help of Agni is necessary. For this reason Agni is here praised as the poet who composes sentences in the form of hymns.
+
+### Printed p. 616
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ अग्ने दु॒रेव॒ आ मर्तो॑ व॒धाय॒ दाश॑ति ।  
+> तस्मा॑न्नः पा॒ह्यंह॑सः ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । अग्ने । दुःएवः । आ । मर्तः । वधाय । दाशति ।  
+> तस्मात् । नः । पाहि । अंहसः ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने दुरेवो दुष्टाभिप्रायो यो मर्तो मनुष्यो वधाय
+> स्वस्यायुधाय नोऽस्माना दाशति अभिप्रयच्छति । आयुधेनास्मान्हंतीत्यर्थः ।
+> तस्मान्मनुष्या दंहसः पापाच्च नोऽस्मानाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the man of evil intent who directs against us his own weapon, which is his vadha, that is, who strikes us with a weapon: from that man, and from sin, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दुरेवः (*durevaḥ*)—who has an evil mind
+- यः (*yaḥ*)—which
+- मर्कः (*markaḥ*)—man
+- वधाय (*vadhāya*)—to kill
+- नः (*naḥ*)—against us
+- आ दाशति (*ā dāśati*)—aims weapons
+- तस्मात् (*tasmāt*)—from that man
+- अंहसः (*aṃhasaḥ*)—and from sin
+- नः (*naḥ*)—us
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us from the man of evil mind who aims weapons against us to kill us, and from sin.
+
+##### English translation
+The malevolent mortal who threatens us with murderous weapon, from him defend us, and also from sin.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं तं दे॑व जि॒ह्वया॒ परि॑ बाधस्व दु॒ष्कृतं॑ ।  
+> मर्तो॒ यो नो॒ जिघां॑सति ॥ ३२ ॥
+
+### Printed p. 617
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । तं । देव । जिह्वया । परि । बाधस्व । दुःकृतं ॥  
+> मर्तः । यः । नः । जिघांसति ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमानाग्ने त्वं तं वक्ष्यमाणं दुष्कृतं दुष्कर्मकारिणं
+> मनुष्यं जिह्वया ज्वालया परि बाधस्व । सर्वतो जहि ! यो मर्तो मनुष्यो
+> नोऽस्मान् जिघांसति हंतुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni, with your tongue, your flame, drive away on every side, that is, strike down on all sides, the evil-doer who is to be described, the man who wishes to kill us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Agni
+- यः (*yaḥ*)—which
+- मर्तः (*martaḥ*)—man
+- नः (*naḥ*)—us
+- जिघांसति (*jighāṃsati*)—wishes to kill
+- तं (*taṃ*)—such
+- दुष्कृतं (*duṣkṛtaṃ*)—evil-doer
+- त्वं (*tvaṃ*)—you
+- जिह्वया (*jihvayā*)—with your flame
+- परि बाधस्व (*pari bādhasva*)—destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, destroy completely with your flame such an evil-doer, the man who wishes to kill us.
+
+##### English translation
+Scatter, divine Agni, by your flame, that evil-doer, the man who seeks to kill us.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒रद्वा॑जाय स॒प्रथः॒ शर्म॑ यच्छ सहंत्य ।  
+> अग्ने॒ वरे॑ण्यं॒ वसु॑ ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भरत्वानाजाय । सप्रथः । शर्म । यच्छ । सहंत्य ।  
+> अग्ने । वरेण्यं । वसु ॥ ३३ ॥
+
+### Printed p. 618
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहंत्य शत्रूणामभिभवितरग्ने भरद्वाजाय मह्यमृषये सप्रथः सर्वतः
+> पृथु विस्तीर्णं शर्म सुखं गृहं वा यच्छ । देहि । तथा वरेण्यं वरणीयं वसु
+> धनं च देहि ॥
+
+##### Gist of the bhāṣya
+
+O Sahantya, Agni, overcomer of enemies, to me, Bharadvāja the seer, give on every side wide and spreading happiness or a house; and likewise give desirable wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहन्त्य (*sahantya*)—O one who vanquishes enemies
+- अग्ने (*agne*)—O Agni
+- भरद्वाजाय (*bharadvājāya*)—to me, who am named Bharadvāja
+- सप्रथः (*saprathaḥ*)—very abundant
+- शर्म (*śarma*)—happiness
+- यच्छ (*yaccha*)—give
+- वरेण्यं (*vareṇyaṃ*)—very much esteemed
+- वसु (*vasu*)—give also wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who vanquish enemies, give very abundant happiness to me, who am named Bharadvāja. Give also excellent wealth, which all people most urgently need.
+
+##### English translation
+Subduer of foes, grant to Bharadwaja infinite happiness and desirable wealth.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्वृ॒त्राणि॑ जंघनद्द, विण॒स्युर्वि॑प॒न्यया॑ ।  
+> समि॑द्धः शु॒क्र आहु॑तः ॥ ३४ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । वृत्राणि । जंघनत् । द्रविणस्युः । विपन्यया ।  
+> संइद्धः । शुक्रः । आहुतः ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पौर्णमास्यामाग्नेयाज्यभागस्यानुवाक्याग्निर्वृत्राणीत्येषा । सूत्रितं च ।
+> अग्निर्वृत्राणि जंघनदिति पूर्वस्याज्यभागस्यानुवाक्या । आ. १-५ । इति ॥ इष्टिपशुसोमेषु च यत्र वृधन्वंत् पुष्टिमंतावित्यादिविशेषविधिन दृश्यते तत्र सर्वत्रैषैव
+
+##### Gist of the bhāṣya
+
+This verse, अग्निर्वृत्राणि (*agnirvṛtrāṇi*), is the anuvākyā of the ājyabhāga offering to Agni at the full-moon sacrifice. It is laid down in the sūtra (Ā. Sū. 1-5) that it is the anuvākyā of the former ājyabhāga. In iṣṭis, animal sacrifices and Soma sacrifices, wherever no special rule such as वृधन्वंत् पुष्टिमंता (*vṛdhanvaṃt puṣṭimaṃtā*) is seen, there everywhere this very verse is
+
+### Printed p. 619
+
+> प्रथमाज्यभागानुवाक्या ॥ उपसद्याग्नेयस्येषानुवाक्या सायंकालीनस्य त्वेषैव
+> याज्या । सूत्रितं च । अग्निर्वृत्राणि जंघनद्य उग्र इव शर्यहेति विपर्यासो
+> याज्यानुवाक्यानां । आ. ४-८ । इति ॥
+> विपन्यया स्तुत्या स्तूयमानो द्रविणस्युद्रर्विणं धनं स्तोत्कृणामिच्छन्
+> यद्वा हविर्लक्षणं धनमात्मन इच्छन्नग्निर्वृत्राण्यावरकाणि रक्षःप्रभृतीनि तमांसि वा
+> जंघनत् । भृशं हंतु । कीदृशोऽग्निः । समिद्धः सम्यग्दीप्तः अत एव शुक्रः
+> शुक्लवर्ण आहुतो हविर्भिरभिहुतः ॥
+
+##### Gist of the bhāṣya
+
+the first ājyabhāga anuvākyā. This verse is the anuvākyā of the offering to Agni at the Upasad, and at the evening offering it is the yājyā. This too is laid down in the sūtra (Ā. Sū. 4-8): there is an interchange of the yājyā and the anuvākyā verses. Sāyaṇa then explains the verse. Agni, praised with praise, विपन्यया (*vipanyayā*), desiring wealth, dravina, for the praisers, or else desiring for himself wealth in the form of the oblation, let him smite hard the obstructors, वृत्राणि (*vṛtrāṇi*), the Rākṣasas and the like, or the darknesses. What kind of Agni is he? He is kindled, well lit, and for that very reason bright, of white colour, and offered to with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपन्यया (*vipanyayā*)—who is praised with praises
+- द्रविणस्युः (*draviṇasyuḥ*)—who wishes to give wealth to the praisers
+- समिद्धः (*samiddhaḥ*)—who is fully kindled
+- शुक्रः (*śukraḥ*)—who is radiant
+- आहुतः (*āhutaḥ*)—to whom the offering of oblations is made
+- अग्निः (*agniḥ*)—Agni
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- जंघनत् (*jaṃghanat*)—let him destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who is praised with praises, who wishes to give wealth to the praisers, who is fully kindled, radiant, and receives the offering of oblations, destroy the enemies completely.
+
+##### English translation
+May Agni. propitiated by praise, desirous of (sacrificial) affluence, kindled, bright, and fed with burnt offerings. destroy all adversaries.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifices of the new and full moon, in the sacrifice performed at the full moon, this Ṛk अग्निर्वृत्राणि (*agnirvṛtrāṇi*) is to be recited as the anuvākyā mantra of the ājyabhāga offering; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्निर्वृत्राणि जंघनदिति पूर्वस्थ्याच्यभागस्यानुवाक्या (*agnirvṛtrāṇi jaṃghanaditi pūrvasthyācyabhāgasyānuvākyā*) (Ā. Sū. 1-5). And in the iṣṭi, the animal sacrifice and the Soma sacrifice, in cases where special rules such as वृधन्वती (*vṛdhanvatī*) and पुष्टिमती (*puṣṭimatī*) are absent, this Ṛk अग्निर्वृत्राणि (*agnirvṛtrāṇi*) is used as the anuvākyā mantra of the first ājyabhāga. And in the iṣṭi called Upasad, this Ṛk is to be recited as the anuvākyā mantra in the offering made to Agni, and as the yājyā mantra in the offering made in the evening; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्निर्वृत्राणि जंघनद्य उग्र इव शर्यहेति विसर्यासो याज्यानुवाक्यानां (*agnirvṛtrāṇi jaṃghanadya ugra iva śaryaheti visaryāso yājyānuvākyānāṃ*) (Ā. Sū. 4-8).
+
 ---
 
-**Progress note:** Done through printed p. 613. Sukta 16 Rk 21-29, pp. 606-613
+**Progress note:** Done through printed p. 619. Sukta 16 Rk 29-34, pp. 614-619
